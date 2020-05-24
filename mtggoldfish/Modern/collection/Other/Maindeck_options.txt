@@ -9,9 +9,9 @@
 3 Terminus
 3 Opt
 4 Cryptic Command
+4 Archmage's Charm
 4 Opt
 4 Terminus
-4 Archmage's Charm
 1 Teferi, Hero of Dominaria
 1 Thought Scour
 2 Thought Scour
@@ -23,8 +23,8 @@
 4 Polluted Delta
 1 Prismatic Vista
 1 Snow-Covered Forest
-1 Entreat the Angels
 1 Logic Knot
+1 Entreat the Angels
 1 Prairie Stream
 2 Logic Knot
 1 Mishra's Bauble
@@ -43,9 +43,9 @@
 1 Sacred Foundry
 1 Pyrite Spellbomb
 1 Aether Spellbomb
+1 Pithing Needle
 1 Soul-Guide Lantern
 1 Whir of Invention
-1 Pithing Needle
 1 Ensnaring Bridge
 1 Sword of the Meek
 1 Damping Sphere
@@ -55,8 +55,8 @@
 1 Thopter Foundry
 1 Urza, Lord High Artificer
 2 Galvanic Blast
-2 Soul-Guide Lantern
 2 Whir of Invention
+2 Soul-Guide Lantern
 2 Thopter Foundry
 2 Emry, Lurker of the Loch
 2 Sacred Foundry
@@ -224,11 +224,11 @@
 2 Scapeshift
 2 Breeding Pool
 2 Search for Tomorrow
+3 Steam Vents
 3 Stomping Ground
 3 Remand
 3 Search for Tomorrow
 3 Bring to Light
-3 Steam Vents
 4 Stomping Ground
 4 Search for Tomorrow
 4 Bring to Light
@@ -242,8 +242,8 @@
 2 Omen of the Sun
 2 Narset, Parter of Veils
 2 Delay
-3 Delay
 3 Omen of the Sun
+3 Delay
 4 Omen of the Sun
 4 Delay
 1 Felidar Guardian
@@ -294,32 +294,32 @@
 2 Plains
 3 Plains
 4 Plains
+1 Restoration Angel
 1 Abrupt Decay
 1 Blade Splicer
-1 Restoration Angel
 1 Flickerwisp
 1 Eldritch Evolution
 1 Sunpetal Grove
 1 Siege Rhino
 1 Wall of Omens
-2 Abrupt Decay
 2 Restoration Angel
+2 Abrupt Decay
 2 Wall of Omens
 2 Blade Splicer
 2 Siege Rhino
 2 Flickerwisp
 2 Sunpetal Grove
 2 Eldritch Evolution
-3 Oath of Kaya
 3 Restoration Angel
+3 Oath of Kaya
 3 Blade Splicer
 3 Flickerwisp
 3 Eldritch Evolution
 3 Wall of Omens
 3 Siege Rhino
-4 Oath of Kaya
 4 Marsh Flats
 4 Restoration Angel
+4 Oath of Kaya
 4 Siege Rhino
 4 Eldritch Evolution
 4 Flickerwisp
@@ -339,11 +339,11 @@
 1 Island
 1 Razorverge Thicket
 2 Razorverge Thicket
-3 Temple Garden
 3 Razorverge Thicket
-4 Temple Garden
-4 Horizon Canopy
+3 Temple Garden
 4 Razorverge Thicket
+4 Horizon Canopy
+4 Temple Garden
 1 Daybreak Coronet
 1 Hyena Umbra
 1 Slippery Bogle
@@ -360,53 +360,18 @@
 4 Slippery Bogle
 4 Daybreak Coronet
 4 Ethereal Armor
-1 Sleight of Hand
-1 Manamorphose
-1 Serum Visions
-1 Gemstone Mine
-1 Sylvan Caryatid
-1 Glittering Wish
-1 Cerulean Wisps
-1 Jeskai Ascendancy
-1 Fatestitcher
-1 Mana Confluence
-2 Manamorphose
-2 Jeskai Ascendancy
-2 Cerulean Wisps
-2 Sleight of Hand
-2 Glittering Wish
-2 Gemstone Mine
-2 Fatestitcher
-2 Serum Visions
-2 Sylvan Caryatid
-2 Mana Confluence
-3 Manamorphose
-3 Mana Confluence
-3 Fatestitcher
-3 Gemstone Mine
-3 Serum Visions
-3 Jeskai Ascendancy
-3 Cerulean Wisps
-3 Sylvan Caryatid
-3 Glittering Wish
-3 Sleight of Hand
-4 Manamorphose
-4 Sylvan Caryatid
-4 Glittering Wish
-4 Serum Visions
-4 Sleight of Hand
 1 Ghost Quarter
 1 Thalia, Guardian of Thraben
 1 Blast Zone
 1 Arboreal Grazer
 1 Fiend Artisan
 1 Castle Garenbrig
+1 Dryad Arbor
 1 Bojuka Bog
 1 Field of the Dead
 1 Primeval Titan
 1 Dryad of the Ilysian Grove
 1 Selesnya Sanctuary
-1 Dryad Arbor
 1 Kenrith, the Returned King
 1 Renegade Rallier
 1 Woodland Bellower
@@ -428,11 +393,11 @@
 4 Dryad of the Ilysian Grove
 4 Castle Garenbrig
 4 Primeval Titan
+1 Mana Leak
 1 Lonely Sandbar
 1 Wrenn and Six
 1 Blood Moon
 1 Tarmogoyf
-1 Mana Leak
 2 Wrenn and Six
 2 Tarmogoyf
 2 Mana Leak
@@ -441,31 +406,6 @@
 3 Mana Leak
 4 Tarmogoyf
 4 Mana Leak
-1 All That Glitters
-1 Sentinel's Eyes
-1 Leyline of Sanctity
-1 Spirit Link
-1 Unflinching Courage
-1 Spider Umbra
-1 Rancor
-1 Gryff's Boon
-1 Gladecover Scout
-2 All That Glitters
-2 Leyline of Sanctity
-2 Spirit Link
-2 Gryff's Boon
-2 Gladecover Scout
-2 Spider Umbra
-2 Rancor
-3 All That Glitters
-3 Leyline of Sanctity
-3 Rancor
-3 Spider Umbra
-3 Gladecover Scout
-4 All That Glitters
-4 Leyline of Sanctity
-4 Rancor
-4 Gladecover Scout
 2 Wooded Foothills
 1 Dismember
 1 Simian Spirit Guide
@@ -497,7 +437,6 @@
 2 Thalia, Heretic Cathar
 2 Leonin Arbiter
 2 Eldrazi Temple
-3 Sunbaked Canyon
 3 Eldrazi Temple
 3 Thalia, Guardian of Thraben
 3 Gemstone Caverns
@@ -510,6 +449,7 @@
 3 Thought-Knot Seer
 3 Ghost Quarter
 3 Chalice of the Void
+3 Sunbaked Canyon
 4 Bonecrusher Giant
 4 Eldrazi Displacer
 4 Eldrazi Temple
@@ -525,8 +465,8 @@
 2 Island
 3 Island
 2 Swamp
-1 Drown in the Loch
 1 Surgical Extraction
+1 Drown in the Loch
 1 Visions of Beyond
 1 Spell Pierce
 1 Oboro, Palace in the Clouds
@@ -559,6 +499,31 @@
 4 Visions of Beyond
 4 Drown in the Loch
 4 Glimpse the Unthinkable
+1 Unflinching Courage
+1 Spider Umbra
+1 Rancor
+1 Leyline of Sanctity
+1 Gryff's Boon
+1 Gladecover Scout
+1 All That Glitters
+1 Spirit Link
+1 Sentinel's Eyes
+2 All That Glitters
+2 Gryff's Boon
+2 Gladecover Scout
+2 Spirit Link
+2 Spider Umbra
+2 Rancor
+2 Leyline of Sanctity
+3 Rancor
+3 Leyline of Sanctity
+3 All That Glitters
+3 Spider Umbra
+3 Gladecover Scout
+4 Rancor
+4 Leyline of Sanctity
+4 Gladecover Scout
+4 All That Glitters
 1 Elvish Mystic
 1 Llanowar Elves
 1 Sword of Fire and Ice
@@ -634,11 +599,11 @@
 2 Arcane Flight
 2 Spirit Mantle
 2 Invisible Stalker
-3 Spirit Mantle
+3 Hallowed Fountain
 3 Stubborn Denial
 3 Arcane Flight
-3 Hallowed Fountain
 3 Invisible Stalker
+3 Spirit Mantle
 3 Kor Spiritdancer
 3 Seachrome Coast
 3 Curious Obsession
@@ -679,15 +644,15 @@
 4 Death's Shadow
 4 Watery Grave
 4 Delver of Secrets
-1 Warping Wail
-1 Ugin, the Spirit Dragon
 1 All Is Dust
-1 Sylvan Scrying
+1 Ugin, the Spirit Dragon
 1 Emrakul, the Promised End
+1 Sylvan Scrying
 1 Urza's Mine
 1 Conduit of Ruin
 1 World Breaker
 1 Thragtusk
+1 Warping Wail
 1 Urza's Power Plant
 1 Ulamog, the Ceaseless Hunger
 1 Urza's Tower
@@ -730,6 +695,41 @@
 4 Ancient Stirrings
 4 Chromatic Sphere
 4 Sylvan Scrying
+1 Sleight of Hand
+1 Serum Visions
+1 Manamorphose
+1 Gemstone Mine
+1 Sylvan Caryatid
+1 Glittering Wish
+1 Cerulean Wisps
+1 Jeskai Ascendancy
+1 Fatestitcher
+1 Mana Confluence
+2 Jeskai Ascendancy
+2 Cerulean Wisps
+2 Sleight of Hand
+2 Glittering Wish
+2 Gemstone Mine
+2 Fatestitcher
+2 Manamorphose
+2 Serum Visions
+2 Sylvan Caryatid
+2 Mana Confluence
+3 Mana Confluence
+3 Manamorphose
+3 Fatestitcher
+3 Gemstone Mine
+3 Serum Visions
+3 Jeskai Ascendancy
+3 Cerulean Wisps
+3 Sylvan Caryatid
+3 Glittering Wish
+3 Sleight of Hand
+4 Sylvan Caryatid
+4 Glittering Wish
+4 Serum Visions
+4 Sleight of Hand
+4 Manamorphose
 1 Memnite
 1 Ornithopter
 1 Shadowspear
@@ -774,6 +774,7 @@
 8 Snow-Covered Plains
 9 Snow-Covered Plains
 10 Snow-Covered Plains
+1 Pillage
 1 Through the Breach
 1 Trinisphere
 1 Magus of the Moon
@@ -783,8 +784,8 @@
 1 Planebound Accomplice
 1 Mountain
 1 Lukka, Coppercoat Outcast
-1 Pillage
 1 Rootbound Crag
+2 Pillage
 2 Karn Liberated
 2 Mountain
 2 Lukka, Coppercoat Outcast
@@ -792,7 +793,6 @@
 2 Trinisphere
 2 Rootbound Crag
 2 Arbor Elf
-2 Pillage
 2 Magus of the Moon
 2 Planebound Accomplice
 2 Through the Breach

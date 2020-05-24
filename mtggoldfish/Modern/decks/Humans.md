@@ -75,6 +75,6 @@
 |                    2|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)          |                    4|[Kambal, Consul of Allocation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417756)|
 |                    3|[Seachrome Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209399)            |                     |                                                                                                       |
 |                    4|[Seachrome Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209399)            |                     |                                                                                                       |
-|                    3|[Charming Prince](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970)            |                     |                                                                                                       |
 |                    4|[Kessig Malcontents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240114)         |                     |                                                                                                       |
+|                    3|[Charming Prince](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970)            |                     |                                                                                                       |
 

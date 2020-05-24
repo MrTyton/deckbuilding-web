@@ -41,8 +41,8 @@
 1 Eidolon of Rhetoric
 1 Rest in Peace
 1 Hushbringer
-2 Rest in Peace
 2 Hushbringer
+2 Rest in Peace
 1 Magus of the Moon
 1 Burrenton Forge-Tender
 1 Force of Vigor
@@ -86,6 +86,8 @@
 2 Eidolon of Rhetoric
 2 Worship
 2 Winds of Abandon
+1 Fry
+3 Mystical Dispute
 1 Relic of Progenitus
 1 Nature's Claim
 1 Ensnaring Bridge
@@ -102,10 +104,10 @@
 3 Wilt
 1 Force of Negation
 1 Fatal Push
+1 Unmoored Ego
 1 Crypt Incursion
 1 Spell Pierce
 1 Surgical Extraction
-1 Unmoored Ego
 1 Echoing Truth
 1 Damnation
 1 Profane Memento
@@ -115,9 +117,9 @@
 2 Profane Memento
 3 Profane Memento
 3 Ceremonious Rejection
-1 Natural State
 1 Glorybringer
 1 Obosh, the Preypiercer
+1 Natural State
 2 Relic of Progenitus
 2 Natural State
 2 Glorybringer
@@ -127,15 +129,13 @@
 1 Welding Jar
 1 Disenchant
 2 Damping Sphere
-2 Tormod's Crypt
-2 Disenchant
 2 Pithing Needle
-3 Damping Sphere
+2 Disenchant
+2 Tormod's Crypt
 3 Disenchant
-3 Pithing Needle
+3 Damping Sphere
 3 Tormod's Crypt
-1 Fry
-3 Mystical Dispute
+3 Pithing Needle
 1 Zirda, the Dawnwaker
 1 Ranger-Captain of Eos
 1 Life Goes On
@@ -178,16 +178,16 @@
 1 Oust
 2 Oust
 4 Aether Gust
-1 Stony Silence
 1 Choke
-2 Stony Silence
-2 Choke
+1 Stony Silence
 2 Grafdigger's Cage
+2 Choke
+2 Stony Silence
 2 Force of Vigor
 2 Gaddock Teeg
-3 Gaddock Teeg
 3 Force of Vigor
 3 Choke
+3 Gaddock Teeg
 4 Choke
 1 Engineered Explosives
 1 Rain of Tears

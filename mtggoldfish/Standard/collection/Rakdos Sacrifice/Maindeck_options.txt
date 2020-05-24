@@ -84,7 +84,6 @@
 1 Spark Harvest
 2 Spark Harvest
 3 Agonizing Remorse
-1 Raugrin Triome
 1 Wishclaw Talisman
 1 The Akroan War
 1 Act of Treason
@@ -92,10 +91,11 @@
 1 Blood for Bones
 1 Ketria Triome
 1 Thassa, Deep-Dwelling
+1 Raugrin Triome
 1 Erebos, Bleak-Hearted
-2 Raugrin Triome
 2 Erebos, Bleak-Hearted
 2 The Akroan War
+2 Raugrin Triome
 2 Act of Treason
 2 Thassa, Deep-Dwelling
 2 Ketria Triome
@@ -103,19 +103,12 @@
 3 Act of Treason
 4 Act of Treason
 1 Footlight Fiend
-1 Paradise Druid
-2 Paradise Druid
 1 Cindervines
 2 Cindervines
+1 Paradise Druid
+2 Paradise Druid
 1 Discordant Piper
 2 Discordant Piper
-1 Bonecrusher Giant
-1 Heartless Act
-1 Assassin's Trophy
-2 Bonecrusher Giant
-2 Heartless Act
-2 Assassin's Trophy
-3 Bonecrusher Giant
 1 Drill Bit
 1 Heartfire
 2 Heartfire
@@ -127,37 +120,44 @@
 1 Temple of Malady
 1 Gruesome Menagerie
 1 Garruk, Cursed Huntsman
-2 Temple of Abandon
 2 Fires of Invention
 2 Moldervine Reclamation
 2 Garruk, Cursed Huntsman
 2 Vraska, Golgari Queen
+2 Temple of Abandon
 2 Gruesome Menagerie
 2 Temple of Malady
 3 Fires of Invention
-1 Epic Downfall
-1 Weaponize the Monsters
-1 Bloodfell Caves
-1 Stormfist Crusader
-1 Tentative Connection
-2 Stormfist Crusader
-2 Epic Downfall
-2 Weaponize the Monsters
-2 Bloodfell Caves
-2 Tentative Connection
-3 Stormfist Crusader
-3 Call of the Death-Dweller
-3 Tentative Connection
-3 Judith, the Scourge Diva
-3 Weaponize the Monsters
-3 Bloodfell Caves
-3 Epic Downfall
-4 Stormfist Crusader
-4 Bloodfell Caves
+1 Heartless Act
+1 Bonecrusher Giant
+1 Assassin's Trophy
+2 Bonecrusher Giant
+2 Assassin's Trophy
+2 Heartless Act
+3 Bonecrusher Giant
 1 Tymaret Calls the Dead
 2 Tymaret Calls the Dead
 3 Tymaret Calls the Dead
 4 Mire Triton
+1 Weaponize the Monsters
+1 Bloodfell Caves
+1 Epic Downfall
+1 Stormfist Crusader
+1 Tentative Connection
+2 Weaponize the Monsters
+2 Bloodfell Caves
+2 Epic Downfall
+2 Tentative Connection
+2 Stormfist Crusader
+3 Tentative Connection
+3 Judith, the Scourge Diva
+3 Call of the Death-Dweller
+3 Stormfist Crusader
+3 Weaponize the Monsters
+3 Bloodfell Caves
+3 Epic Downfall
+4 Bloodfell Caves
+4 Stormfist Crusader
 1 Tale's End
 1 Merfolk Secretkeeper
 1 Emry, Lurker of the Loch
@@ -194,9 +194,9 @@
 3 Hunted Witness
 4 Cruel Celebrant
 4 Sacred Foundry
-1 Mire's Grasp
 1 Zagoth Triome
 1 Ashiok's Erasure
+1 Mire's Grasp
 1 Breeding Pool
 1 Yarok, the Desecrated
 1 Woodland Champion
@@ -219,6 +219,15 @@
 4 Wicked Wolf
 4 Zagoth Triome
 4 Woodland Champion
+1 Castle Ardenvale
+1 Bastion of Remembrance
+1 God-Eternal Oketra
+1 Teysa Karlov
+2 Bastion of Remembrance
+2 Teysa Karlov
+3 Plains
+4 Plains
+5 Plains
 1 Casualties of War
 1 Beanstalk Giant
 2 Casualties of War
@@ -229,15 +238,6 @@
 3 Beanstalk Giant
 4 Casualties of War
 5 Forest
-1 Castle Ardenvale
-1 Bastion of Remembrance
-1 God-Eternal Oketra
-1 Teysa Karlov
-2 Bastion of Remembrance
-2 Teysa Karlov
-3 Plains
-4 Plains
-5 Plains
 1 Burglar Rat
 1 Elspeth's Nightmare
 1 Leyline of the Void

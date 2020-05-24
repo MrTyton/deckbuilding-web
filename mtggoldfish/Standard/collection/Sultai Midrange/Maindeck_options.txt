@@ -76,10 +76,10 @@
 3 Gilded Goose
 1 Agent of Treachery
 2 Agent of Treachery
-3 Swamp
 3 Island
-4 Swamp
+3 Swamp
 4 Island
+4 Swamp
 5 Forest
 5 Island
 6 Forest
@@ -87,17 +87,17 @@
 3 Castle Vantress
 4 Castle Vantress
 4 Temple of Mystery
-1 Evolving Wilds
+1 Stern Dismissal
 1 Thornwood Falls
+1 Evolving Wilds
 1 Dimir Guildgate
 1 Golgari Guildgate
 1 Narset's Reversal
 1 Simic Guildgate
-1 Stern Dismissal
-2 Evolving Wilds
-2 Thornwood Falls
-2 Simic Guildgate
 2 Stern Dismissal
+2 Thornwood Falls
+2 Evolving Wilds
+2 Simic Guildgate
 2 Dimir Guildgate
 2 Golgari Guildgate
 2 Narset's Reversal
@@ -118,32 +118,32 @@
 2 Unmoored Ego
 2 Ritual of Soot
 3 Brazen Borrower
-1 Stomping Ground
-1 Mountain
-1 Steam Vents
 1 Bonecrusher Giant
+1 Stomping Ground
 1 Paradise Druid
 1 Scorching Dragonfire
 1 Genesis Ultimatum
 1 Yidaro, Wandering Monster
 1 Temple of Abandon
-2 Stomping Ground
-2 Steam Vents
-2 Temple of Abandon
+1 Steam Vents
+1 Mountain
 2 Bonecrusher Giant
+2 Stomping Ground
+2 Temple of Abandon
 2 Paradise Druid
 2 Scorching Dragonfire
+2 Steam Vents
 2 Yidaro, Wandering Monster
 2 Genesis Ultimatum
-3 Stomping Ground
-3 Steam Vents
-3 Scorching Dragonfire
 3 Bonecrusher Giant
+3 Stomping Ground
 3 Paradise Druid
+3 Scorching Dragonfire
 3 Yidaro, Wandering Monster
+3 Steam Vents
 4 Scorching Dragonfire
-3 Shifting Ceratops
 3 Aether Gust
+3 Shifting Ceratops
 4 Questing Beast
 1 Fae of Wishes
 1 Frilled Mystic

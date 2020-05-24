@@ -212,25 +212,25 @@
 1 Evolving Wilds
 1 Archon of Sun's Grace
 1 Field of Ruin
-1 Time Wipe
 1 Storm's Wrath
+1 Time Wipe
+1 Thryx, the Sudden Storm
 1 Omen of the Forge
 1 Yorion, Sky Nomad
-1 Thryx, the Sudden Storm
 1 Flame Sweep
 1 Dovin's Veto
 1 Ionize
 1 Wind-Scarred Crag
+2 Field of Ruin
 2 Dream Trawler
-2 Evolving Wilds
 2 Tranquil Cove
+2 Evolving Wilds
 2 Archon of Sun's Grace
-2 Temple of Enlightenment
 2 Omen of the Forge
+2 Temple of Enlightenment
 2 Ionize
 2 Thryx, the Sudden Storm
 2 Wind-Scarred Crag
-2 Field of Ruin
 3 Sinister Sabotage
 3 Omen of the Forge
 3 Shatter the Sky
@@ -239,19 +239,19 @@
 4 Sinister Sabotage
 2 Castle Vantress
 1 Thirst for Meaning
+2 Thirst for Meaning
 2 Fires of Invention
 2 Mystical Dispute
-2 Thirst for Meaning
+3 Thirst for Meaning
+3 Raugrin Triome
 3 Castle Vantress
 3 Fires of Invention
-3 Raugrin Triome
 3 Mystical Dispute
-3 Thirst for Meaning
-4 Fires of Invention
 4 Raugrin Triome
+4 Deafening Clarion
+4 Fires of Invention
 4 Mystical Dispute
 4 Omen of the Sea
-4 Deafening Clarion
 1 Indatha Triome
 2 Vraska, Golgari Queen
 2 Indatha Triome
@@ -348,8 +348,8 @@
 1 Mythos of Nethroi
 1 Labyrinth of Skophos
 2 Casualties of War
-2 Realm-Cloaked Giant
 2 Suffocating Fumes
+2 Realm-Cloaked Giant
 2 Barrier Breach
 2 Mythos of Nethroi
 2 Mortify
@@ -472,8 +472,8 @@
 1 Disinformation Campaign
 2 Temple of Deceit
 2 Burglar Rat
-2 Plaguecrafter
 2 Yarok's Fenlurker
+2 Plaguecrafter
 2 Disinformation Campaign
 2 Davriel, Rogue Shadowmage
 3 Burglar Rat
@@ -536,8 +536,8 @@
 3 Stormfist Crusader
 3 Drill Bit
 3 Spawn of Mayhem
-4 Bonecrusher Giant
 4 Stormfist Crusader
+4 Bonecrusher Giant
 4 Drill Bit
 1 Castle Embereth
 1 Omen of the Sun
@@ -753,10 +753,10 @@
 19 Forest
 1 Revival/Revenge
 1 Angelic Gift
+1 Banishing Light
 1 Light of Hope
 1 Revoke Existence
 1 Pacifism
-1 Banishing Light
 1 Mirror Shield
 1 Nahiri, Storm of Stone
 1 Lurrus of the Dream Den

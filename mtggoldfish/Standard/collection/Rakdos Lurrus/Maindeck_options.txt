@@ -9,18 +9,18 @@
 2 Knight of the Ebon Legion
 1 Mire's Grasp
 1 Rix Maadi Reveler
-1 Plains
 1 Cruel Celebrant
 1 Godless Shrine
-2 Godless Shrine
+1 Plains
 2 Cruel Celebrant
 2 Plains
+2 Godless Shrine
 3 Cruel Celebrant
-3 Godless Shrine
 3 Plains
-4 Godless Shrine
+3 Godless Shrine
 4 Cruel Celebrant
 4 Plains
+4 Godless Shrine
 3 Knight of the Ebon Legion
 4 Call of the Death-Dweller
 1 Hunted Witness
@@ -79,18 +79,18 @@
 1 Orzhov Enforcer
 1 Lazotep Reaver
 2 Kaya's Ghostform
-1 Castle Ardenvale
 1 Savai Triome
+1 Castle Ardenvale
 2 Savai Triome
 2 Castle Ardenvale
 3 Savai Triome
-3 Light Up the Stage
 1 Scorching Dragonfire
 2 Scorching Dragonfire
 3 Stormfist Crusader
+3 Scorching Dragonfire
 3 Heartless Act
 3 Act of Treason
-3 Scorching Dragonfire
+3 Light Up the Stage
 1 Temple of Triumph
 1 Dire Tactics
 2 Dire Tactics
@@ -101,8 +101,8 @@
 2 Spark Harvest
 2 Dead Weight
 2 Footlight Fiend
-3 Dead Weight
 3 Mire's Grasp
+3 Dead Weight
 4 Dead Weight
 4 Mire's Grasp
 1 Grim Initiate
@@ -128,8 +128,8 @@
 2 Stonecoil Serpent
 2 Careless Celebrant
 3 Castle Locthwain
-3 Drill Bit
 3 Careless Celebrant
+3 Drill Bit
 4 Careless Celebrant
 1 Fervent Champion
 2 Fervent Champion
@@ -153,6 +153,6 @@
 2 Lampad of Death's Vigil
 3 Ajani's Pridemate
 4 Alseid of Life's Bounty
-4 Ajani's Pridemate
 7 Plains
 8 Plains
+4 Ajani's Pridemate
