@@ -30,8 +30,6 @@
 4 Heliod, Sun-Crowned
 4 Fortified Village
 4 Llanowar Elves
-1 Voice of Resurgence
-2 Voice of Resurgence
 1 Hangarback Walker
 1 Hardened Scales
 2 Hardened Scales
@@ -40,15 +38,17 @@
 3 Hangarback Walker
 4 Hangarback Walker
 4 Hardened Scales
-1 Nissa, Voice of Zendikar
 1 Vivien, Arkbow Ranger
 1 Dromoka's Command
-2 Nissa, Voice of Zendikar
+1 Voice of Resurgence
+1 Nissa, Voice of Zendikar
 2 Vivien, Arkbow Ranger
+2 Voice of Resurgence
 2 Dromoka's Command
-3 Nissa, Voice of Zendikar
-3 Dromoka's Command
+2 Nissa, Voice of Zendikar
 3 Voice of Resurgence
+3 Dromoka's Command
+3 Nissa, Voice of Zendikar
 4 Nissa, Voice of Zendikar
 6 Forest
 7 Forest
@@ -56,12 +56,6 @@
 9 Forest
 1 Hero's Downfall
 2 Plains
-3 Plains
-4 Plains
-1 Collected Company
-2 Collected Company
-3 Collected Company
-4 Collected Company
 1 Mutavault
 1 Caves of Koilos
 1 Concealed Courtyard
@@ -72,49 +66,47 @@
 3 Godless Shrine
 4 Godless Shrine
 4 Concealed Courtyard
-1 Gideon of the Trials
-2 Gideon of the Trials
 2 Caves of Koilos
 3 Caves of Koilos
 4 Caves of Koilos
+1 Island
 1 Hallowed Fountain
 2 Hallowed Fountain
 3 Hallowed Fountain
 4 Hallowed Fountain
-1 Island
 1 Eldrazi Displacer
 2 Eldrazi Displacer
 3 Eldrazi Displacer
 1 Trial of Ambition
 1 Silkwrap
 1 Elspeth Conquers Death
-1 Shefet Dunes
 1 Omen of the Sea
-1 Ulamog's Nullifier
-1 Wastes
-1 Wasteland Strangler
 1 Spell Queller
+1 Wasteland Strangler
 1 Archon of Sun's Grace
+1 Wastes
+1 Ulamog's Nullifier
 1 Thought-Knot Seer
 1 Charming Prince
 1 Thraben Inspector
 1 Ipnu Rivulet
 1 Watery Grave
 1 Brain Maggot
+1 Shefet Dunes
 2 Trial of Ambition
 2 Silkwrap
-2 Wastes
-2 Ulamog's Nullifier
-2 Shefet Dunes
 2 Omen of the Sea
-2 Wasteland Strangler
 2 Spell Queller
+2 Wasteland Strangler
 2 Ipnu Rivulet
 2 Archon of Sun's Grace
 2 Elspeth Conquers Death
-2 Thought-Knot Seer
 2 Watery Grave
 2 Brain Maggot
+2 Shefet Dunes
+2 Thought-Knot Seer
+2 Ulamog's Nullifier
+2 Wastes
 2 Thraben Inspector
 2 Charming Prince
 3 Watery Grave
@@ -128,29 +120,30 @@
 3 Charming Prince
 4 Watery Grave
 4 Silkwrap
-4 Wasteland Strangler
-4 Eldrazi Displacer
 4 Omen of the Sea
 4 Brain Maggot
 4 Thought-Knot Seer
 4 Spell Queller
 4 Charming Prince
+4 Eldrazi Displacer
+4 Wasteland Strangler
 4 Thraben Inspector
+3 Plains
+2 Mountain
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-2 Mountain
 3 Bonecrusher Giant
-1 Steam Vents
+1 Clifftop Retreat
 1 Inspiring Vantage
+1 Battlefield Forge
 1 Sacred Foundry
 2 Sacred Foundry
-2 Steam Vents
+2 Battlefield Forge
+3 Battlefield Forge
 3 Sacred Foundry
-3 Steam Vents
-4 Steam Vents
 4 Sacred Foundry
+4 Battlefield Forge
 1 Raugrin Triome
-1 Clifftop Retreat
 2 Raugrin Triome
 2 Clifftop Retreat
 3 Clifftop Retreat
@@ -161,9 +154,9 @@
 1 Lavinia of the Tenth
 1 Phyrexian Revoker
 1 Cloudblazer
+1 Steam Vents
 1 Blast Zone
 1 Temple of Triumph
-1 Battlefield Forge
 1 Chained to the Rocks
 1 Winota, Joiner of Forces
 1 Hanged Executioner
@@ -179,8 +172,8 @@
 2 Fire Prophecy
 2 Cloudblazer
 2 Blast Zone
+2 Steam Vents
 2 Goblin Instigator
-2 Battlefield Forge
 2 Lavinia of the Tenth
 2 Chained to the Rocks
 3 Reflector Mage
@@ -193,12 +186,13 @@
 3 Lavinia of the Tenth
 3 Chained to the Rocks
 3 Winota, Joiner of Forces
-3 Phyrexian Revoker
-3 Battlefield Forge
-3 Raugrin Triome
 3 Cloudblazer
+3 Phyrexian Revoker
+3 Raugrin Triome
+3 Steam Vents
 3 Goblin Instigator
 4 Reflector Mage
+4 Steam Vents
 4 Hanged Executioner
 4 Agent of Treachery
 4 Blast Zone
@@ -208,9 +202,10 @@
 4 Castle Embereth
 4 Chained to the Rocks
 4 Clifftop Retreat
-4 Battlefield Forge
 4 Winota, Joiner of Forces
 4 Swamp
+1 Gideon of the Trials
+2 Gideon of the Trials
 1 Castle Locthwain
 1 Knight of the Ebon Legion
 2 Knight of the Ebon Legion
@@ -222,11 +217,12 @@
 2 Kalitas, Traitor of Ghet
 2 Murderous Rider
 1 Urborg, Tomb of Yawgmoth
-2 Dreadbore
-3 Abrupt Decay
+4 Plains
 1 Evolving Wilds
 2 Evolving Wilds
 3 Evolving Wilds
+2 Dreadbore
+3 Abrupt Decay
 1 Irrigated Farmland
 1 Flourishing Fox
 1 Castle Vantress
@@ -267,107 +263,94 @@
 4 Irrigated Farmland
 4 Sulfur Falls
 4 Hieroglyphic Illumination
-4 Neutralize
 4 Cast Out
 4 Zenith Flare
 4 Flourishing Fox
 4 Azorius Charm
+4 Neutralize
 4 Censor
 4 Shark Typhoon
-1 Gilded Goose
 1 Shalai, Voice of Plenty
+1 Gilded Goose
+1 Collected Company
 1 Splendor Mare
 1 Zirda, the Dawnwaker
 1 Duskwatch Recruiter
 2 Gilded Goose
+2 Collected Company
 2 Zirda, the Dawnwaker
 2 Splendor Mare
 2 Duskwatch Recruiter
+3 Collected Company
 3 Gilded Goose
 3 Scavenging Ooze
 3 Splendor Mare
 3 Duskwatch Recruiter
+4 Collected Company
 4 Gilded Goose
 4 Duskwatch Recruiter
-1 Courser of Kruphix
-1 Shared Summons
-1 Selfless Spirit
-1 Bygone Bishop
-1 Anafenza, Kin-Tree Spirit
-1 Militia Bugler
-1 Radiant Fountain
-2 Courser of Kruphix
-2 Radiant Fountain
-2 Anafenza, Kin-Tree Spirit
-2 Militia Bugler
-2 Shared Summons
-3 Militia Bugler
-3 Courser of Kruphix
-3 Radiant Fountain
-4 Militia Bugler
 1 Castle Ardenvale
 1 Karn, Scion of Urza
 1 Heart of Kiran
 1 Pack Rat
 1 Scrapheap Scrounger
 1 Shambling Vent
-2 Karn, Scion of Urza
 2 Heart of Kiran
+2 Karn, Scion of Urza
 2 Pack Rat
 2 Shambling Vent
 2 Scrapheap Scrounger
-3 Karn, Scion of Urza
 3 Heart of Kiran
+3 Karn, Scion of Urza
 3 Pack Rat
 3 Scrapheap Scrounger
-4 Karn, Scion of Urza
 4 Pack Rat
+4 Karn, Scion of Urza
 4 Scrapheap Scrounger
-1 The Royal Scions
-1 Slip Through Space
-1 Spirebluff Canal
+1 Gird for Battle
 1 Gods Willing
 1 Defiant Strike
 1 Favored Hoplite
-1 Staggering Insight
-1 Curious Obsession
 1 Reckless Rage
-1 Sentinel's Eyes
-1 Glacial Fortress
-1 Faerie Vandal
+1 Soul-Scar Mage
+1 Titan's Strength
 1 Tenth District Legionnaire
+1 Gryff's Boon
+1 Boros Charm
 1 Monastery Swiftspear
-2 The Royal Scions
+1 Dreadhorde Arcanist
+2 Gird for Battle
 2 Defiant Strike
 2 Favored Hoplite
 2 Gods Willing
-2 Staggering Insight
-2 Curious Obsession
+2 Gryff's Boon
 2 Tenth District Legionnaire
 2 Monastery Swiftspear
+2 Soul-Scar Mage
 2 Reckless Rage
+2 Dreadhorde Arcanist
 2 Inspiring Vantage
-2 Glacial Fortress
-2 Faerie Vandal
-3 The Royal Scions
+2 Titan's Strength
+3 Gird for Battle
 3 Defiant Strike
 3 Favored Hoplite
 3 Gods Willing
-3 Staggering Insight
-3 Curious Obsession
 3 Inspiring Vantage
-3 Faerie Vandal
-3 Glacial Fortress
+3 Titan's Strength
 3 Monastery Swiftspear
 3 Tenth District Legionnaire
+3 Mountain
 3 Reckless Rage
+3 Dreadhorde Arcanist
+3 Soul-Scar Mage
 4 Favored Hoplite
 4 Gods Willing
-4 Curious Obsession
 4 Defiant Strike
-4 Staggering Insight
+4 Titan's Strength
+4 Soul-Scar Mage
 4 Reckless Rage
 4 Tenth District Legionnaire
+4 Inspiring Vantage
 4 Monastery Swiftspear
 1 The Ozolith
 1 Metallic Mimic
@@ -391,13 +374,13 @@
 4 Steel Overseer
 4 Winding Constrictor
 4 Llanowar Wastes
+1 Questing Beast
 1 Vraska, Golgari Queen
 1 Liliana, the Last Hope
-1 Questing Beast
 1 Foreboding Ruins
 1 Tireless Tracker
-1 Chandra, Torch of Defiance
 1 Dreadhorde Butcher
+1 Chandra, Torch of Defiance
 1 Glorybringer
 2 Glorybringer
 2 Vraska, Golgari Queen
@@ -407,13 +390,13 @@
 3 Tireless Tracker
 3 Foreboding Ruins
 3 Dreadhorde Butcher
-4 Foreboding Ruins
 4 Dreadhorde Butcher
+4 Foreboding Ruins
 4 Tireless Tracker
 4 Bonecrusher Giant
 5 Swamp
-1 Gutterbones
 1 Garrison Cat
+1 Gutterbones
 1 Priest of Forgotten Gods
 1 Zulaport Cutthroat
 1 Cartel Aristocrat
@@ -423,10 +406,10 @@
 1 Rally the Ancestors
 1 Return to the Ranks
 1 Hunted Witness
-2 Gutterbones
 2 Priest of Forgotten Gods
 2 Zulaport Cutthroat
 2 Garrison Cat
+2 Gutterbones
 2 Fiend Artisan
 2 Return to the Ranks
 2 Cartel Aristocrat
@@ -466,10 +449,10 @@
 2 Blood Baron of Vizkopa
 2 Oathsworn Vampire
 2 Castle Locthwain
-3 Murderous Rider
 3 Gifted Aetherborn
 3 Dusk Legion Zealot
 3 Sorin, Imperious Bloodlord
+3 Murderous Rider
 3 Blood Baron of Vizkopa
 3 Castle Locthwain
 3 Mutavault

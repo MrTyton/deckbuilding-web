@@ -14,14 +14,14 @@
 2 Midnight Reaper
 1 Yarok's Fenlurker
 1 Nightmare Shepherd
-2 Yarok's Fenlurker
 2 Ayara, First of Locthwain
+2 Yarok's Fenlurker
 2 Nightmare Shepherd
 2 Priest of Forgotten Gods
-3 Priest of Forgotten Gods
 3 Fiend Artisan
-1 Cauldron Familiar
+3 Priest of Forgotten Gods
 1 Witch's Oven
+1 Cauldron Familiar
 2 Cauldron Familiar
 2 Witch's Oven
 3 Witch's Oven
@@ -68,31 +68,12 @@
 2 Call of the Death-Dweller
 2 Mobilized District
 3 Shadowspear
-1 Erebos, Bleak-Hearted
 1 Foulmire Knight
+1 Erebos, Bleak-Hearted
 2 Foulmire Knight
 3 Ayara, First of Locthwain
 3 Foulmire Knight
 4 Foulmire Knight
-1 Woe Strider
-1 Agonizing Remorse
-2 Erebos's Intervention
-2 Woe Strider
-2 Agonizing Remorse
-3 Woe Strider
-3 Agonizing Remorse
-4 Agonizing Remorse
-1 Disfigure
-2 Disfigure
-4 Grimdancer
-1 Spawn of Mayhem
-1 Stonecoil Serpent
-2 Spawn of Mayhem
-2 Stonecoil Serpent
-2 Dread Presence
-3 Spawn of Mayhem
-4 Nightmare Shepherd
-4 Spawn of Mayhem
 1 Orzhov Enforcer
 1 Blast Zone
 1 Heartless Act
@@ -101,11 +82,30 @@
 2 Blast Zone
 2 Heartless Act
 2 Mire Triton
-3 Heartless Act
 3 Call of the Death-Dweller
+3 Heartless Act
 3 Mire Triton
-4 Heartless Act
 4 Call of the Death-Dweller
+4 Heartless Act
+1 Stonecoil Serpent
+1 Spawn of Mayhem
+2 Dread Presence
+2 Stonecoil Serpent
+2 Spawn of Mayhem
+3 Spawn of Mayhem
+4 Nightmare Shepherd
+4 Spawn of Mayhem
+1 Agonizing Remorse
+1 Woe Strider
+2 Erebos's Intervention
+2 Agonizing Remorse
+2 Woe Strider
+3 Agonizing Remorse
+3 Woe Strider
+4 Agonizing Remorse
+1 Disfigure
+2 Disfigure
+4 Grimdancer
 1 Dreadhorde Invasion
 1 Boot Nipper
 1 Sorin's Thirst
@@ -124,23 +124,23 @@
 4 Boot Nipper
 4 Murder
 1 Cruel Celebrant
-1 Dead Weight
-1 Orzhov Guildgate
 1 Lampad of Death's Vigil
+1 Orzhov Guildgate
+1 Mire's Grasp
 1 Hateful Eidolon
 1 Soul-Guide Lantern
 1 Scoured Barrens
-1 Mire's Grasp
 1 Kaya's Ghostform
+1 Dead Weight
 1 Burglar Rat
 1 Plains
 2 Kaya's Ghostform
 2 Cruel Celebrant
 2 Dead Weight
 2 Orzhov Guildgate
+2 Lampad of Death's Vigil
 2 Hateful Eidolon
 2 Scoured Barrens
-2 Lampad of Death's Vigil
 3 Cruel Celebrant
 3 Scoured Barrens
 3 Lampad of Death's Vigil
@@ -151,8 +151,8 @@
 1 Banehound
 2 Footlight Fiend
 2 Banehound
-3 Footlight Fiend
 3 Banehound
+3 Footlight Fiend
 4 Footlight Fiend
 4 Banehound
 22 Swamp

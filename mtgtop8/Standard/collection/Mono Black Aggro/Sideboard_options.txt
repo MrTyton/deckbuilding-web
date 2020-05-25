@@ -33,12 +33,6 @@
 2 Ritual of Soot
 2 Ashiok, Dream Render
 2 Murderous Rider
-1 Lurrus of the Dream Den
-1 Agonizing Remorse
-1 Epic Downfall
-1 The Elderspell
-2 Epic Downfall
-3 Epic Downfall
 1 Erebos's Intervention
 1 Crystalline Giant
 1 Ob Nixilis, the Hate-Twisted
@@ -58,6 +52,12 @@
 1 Ob Nixilis's Cruelty
 2 Ob Nixilis's Cruelty
 3 Ob Nixilis's Cruelty
+1 The Elderspell
+1 Lurrus of the Dream Den
+1 Agonizing Remorse
+1 Epic Downfall
+2 Epic Downfall
+3 Epic Downfall
 1 Memory Leak
 2 Memory Leak
 3 Memory Leak
@@ -67,10 +67,10 @@
 4 Dead Weight
 3 Soul-Guide Lantern
 4 Soul-Guide Lantern
-1 Drag to the Underworld
 1 Legion's End
-2 Drag to the Underworld
+1 Drag to the Underworld
 2 Legion's End
+2 Drag to the Underworld
 3 Noxious Grasp
 3 Legion's End
 4 Noxious Grasp

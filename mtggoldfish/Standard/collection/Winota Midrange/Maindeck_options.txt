@@ -1,26 +1,21 @@
-4 Fabled Passage
-3 Hanged Executioner
-1 Spectral Sailor
 2 Spectral Sailor
 1 Chandra, Acolyte of Flame
+1 Temple of Epiphany
+3 Hanged Executioner
+4 Fabled Passage
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-2 Chandra, Acolyte of Flame
-1 Elite Guardmage
-2 Elite Guardmage
-1 Brazen Borrower
-3 Bonecrusher Giant
-4 Hanged Executioner
 1 Arboreal Grazer
 1 Forest
 1 Stomping Ground
-2 Stomping Ground
 2 Arboreal Grazer
+2 Stomping Ground
 3 Arboreal Grazer
 3 Stomping Ground
 4 Arboreal Grazer
 4 Stomping Ground
 1 Ketria Triome
+4 Hanged Executioner
 1 Temple Garden
 1 Breeding Pool
 2 Temple Garden
@@ -29,11 +24,6 @@
 1 Neoform
 2 Neoform
 3 Neoform
-1 Castle Vantress
-1 Fires of Invention
-2 Fires of Invention
-3 Spectral Sailor
-4 Temple Garden
 1 Gilded Goose
 1 Alirios, Enraptured
 2 Gilded Goose
@@ -41,19 +31,41 @@
 3 Gilded Goose
 3 Breeding Pool
 4 Breeding Pool
+4 Temple Garden
 2 Forest
-3 Plains
-3 Mountain
+1 Elite Guardmage
+2 Elite Guardmage
+2 Chandra, Acolyte of Flame
+1 Brazen Borrower
+3 Bonecrusher Giant
+4 Gilded Goose
+4 Neoform
+3 Spectral Sailor
 2 Brazen Borrower
-1 Castle Ardenvale
 1 Incubation/Incongruity
 2 Incubation/Incongruity
+1 Castle Embereth
+3 Elite Guardmage
+2 Temple of Enlightenment
+3 Chandra, Acolyte of Flame
+1 Castle Vantress
+1 Fires of Invention
+2 Fires of Invention
+2 Ketria Triome
+3 Ketria Triome
+3 Plains
+3 Mountain
+4 Plains
+1 Lukka, Coppercoat Outcast
+3 Incubation/Incongruity
+1 Castle Ardenvale
 2 Temple of Triumph
 3 Fires of Invention
 4 Fires of Invention
-4 Gilded Goose
-4 Neoform
-4 Plains
+4 Chandra, Acolyte of Flame
+3 Brazen Borrower
+4 Brazen Borrower
+4 Incubation/Incongruity
 1 Elspeth Conquers Death
 1 Fae of Wishes
 2 Elspeth Conquers Death
@@ -62,19 +74,6 @@
 3 Fae of Wishes
 4 Fae of Wishes
 4 Elspeth Conquers Death
-1 Castle Embereth
-3 Elite Guardmage
-2 Temple of Enlightenment
-3 Chandra, Acolyte of Flame
-2 Ketria Triome
-3 Ketria Triome
-1 Lukka, Coppercoat Outcast
-3 Incubation/Incongruity
-4 Chandra, Acolyte of Flame
-3 Brazen Borrower
-4 Brazen Borrower
-4 Incubation/Incongruity
-3 Temple of Triumph
 4 Bonecrusher Giant
 2 Temple of Epiphany
 3 Island
@@ -94,36 +93,37 @@
 5 Mountain
 1 Irreverent Revelers
 2 Irreverent Revelers
+3 Temple of Triumph
+1 Mystical Dispute
+2 Mystical Dispute
 1 Omen of the Sea
 1 Fire Prophecy
 2 Omen of the Sea
 2 Fire Prophecy
-1 Mystical Dispute
-2 Mystical Dispute
 1 Gallia of the Endless Dance
 2 Gallia of the Endless Dance
 1 Dovin's Veto
 2 Dovin's Veto
 3 Dovin's Veto
 4 Sphinx of Foresight
+1 Stonecoil Serpent
+2 Stonecoil Serpent
+3 Stonecoil Serpent
+4 Stonecoil Serpent
 4 Ketria Triome
 1 Goblin Gathering
 2 Goblin Gathering
 3 Goblin Gathering
 4 Goblin Gathering
-1 Stonecoil Serpent
-2 Stonecoil Serpent
-3 Stonecoil Serpent
-4 Stonecoil Serpent
-1 Paradise Druid
 1 Shifting Ceratops
 1 Questing Beast
+1 Paradise Druid
 1 Roalesk, Apex Hybrid
-2 Paradise Druid
 2 Shifting Ceratops
 2 Questing Beast
-3 Forest
+2 Paradise Druid
 3 Questing Beast
+3 Forest
 4 Forest
 5 Forest
 1 Fight as One
@@ -132,10 +132,10 @@
 1 Lavabrink Venturer
 1 Skyknight Vanguard
 1 Response/Resurgence
-2 Embercleave
 2 Fight as One
 2 Gods Willing
 2 Skyknight Vanguard
+2 Embercleave
 2 Response/Resurgence
 2 Lavabrink Venturer
 3 Skyknight Vanguard

@@ -3,23 +3,23 @@
 4 Cavalier of Thorns
 1 Quasiduplicate
 1 Jace, Wielder of Mysteries
-1 Command the Dreadhorde
 1 Healer of the Glade
+1 Command the Dreadhorde
 2 Tamiyo, Collector of Tales
-2 Command the Dreadhorde
 2 Healer of the Glade
+2 Command the Dreadhorde
 2 Quasiduplicate
-3 Command the Dreadhorde
 3 Healer of the Glade
+3 Command the Dreadhorde
 4 Healer of the Glade
 1 Casualties of War
 2 Aether Gust
 2 Nissa, Who Shakes the World
-1 Murderous Rider
 1 Arboreal Grazer
+2 Arboreal Grazer
+1 Murderous Rider
 1 Ilysian Caryatid
 2 Polukranos, Unchained
-2 Arboreal Grazer
 2 Murderous Rider
 2 Casualties of War
 2 Ilysian Caryatid
@@ -31,20 +31,24 @@
 4 Fabled Passage
 1 Growth Spiral
 2 Growth Spiral
+3 Island
 1 Voracious Hydra
 2 Voracious Hydra
 1 Castle Vantress
 4 Rotting Regisaur
-3 Island
 3 Growth Spiral
 4 Growth Spiral
 4 Uro, Titan of Nature's Wrath
 1 Kiora, Behemoth Beckoner
 2 Kiora, Behemoth Beckoner
 3 Kiora, Behemoth Beckoner
+1 Zagoth Triome
+2 Zagoth Triome
+3 Zagoth Triome
 1 Shadowspear
-1 Lotus Field
+4 Temple of Mystery
 1 End-Raze Forerunners
+1 Lotus Field
 1 Lovestruck Beast
 1 Shifting Ceratops
 2 Lovestruck Beast
@@ -54,20 +58,16 @@
 3 Shifting Ceratops
 4 Shifting Ceratops
 4 Lovestruck Beast
-4 Temple of Mystery
-1 Zagoth Triome
-2 Zagoth Triome
-3 Zagoth Triome
 4 Zagoth Triome
 1 Brazen Borrower
 2 Brazen Borrower
-1 Neutralize
 1 Heartless Act
 1 Nightpack Ambusher
 1 Frilled Mystic
 1 Brineborn Cutthroat
 1 Quench
 1 Slitherwisp
+1 Neutralize
 2 Neutralize
 2 Heartless Act
 2 Nightpack Ambusher
@@ -83,14 +83,17 @@
 4 Brazen Borrower
 4 Brineborn Cutthroat
 4 Quench
-1 Assassin's Trophy
-2 Questing Beast
-1 Spark Double
-3 Hydroid Krasis
 2 Swamp
 1 Sea-Dasher Octopus
+2 Questing Beast
+1 Assassin's Trophy
+1 Spark Double
+3 Hydroid Krasis
+1 Paradise Druid
+2 Paradise Druid
 1 Dirge Bat
 2 Dirge Bat
+5 Forest
 1 Fiend Artisan
 1 Wicked Wolf
 1 Vivien, Monsters' Advocate
@@ -108,12 +111,18 @@
 3 Agent of Treachery
 4 Leafkin Druid
 4 Fiend Artisan
-5 Forest
-1 Paradise Druid
-2 Paradise Druid
 3 Paradise Druid
 3 Questing Beast
 4 Paradise Druid
+1 Insatiable Hemophage
+1 Pollywog Symbiote
+1 Gemrazer
+2 Insatiable Hemophage
+2 Sea-Dasher Octopus
+2 Pollywog Symbiote
+2 Gemrazer
+3 Pollywog Symbiote
+4 Pollywog Symbiote
 2 Lotus Field
 3 Temple of Deceit
 1 Cunning Nightbonder
@@ -130,16 +139,16 @@
 2 Spectral Sailor
 4 Frilled Mystic
 1 Vraska, Golgari Queen
-1 Mire Triton
 1 Tyrant's Scorn
+1 Mire Triton
 1 Lazav, the Multifarious
 1 Enter the God-Eternals
 1 Thief of Sanity
 1 Find / Finality
 1 Thought Erasure
 2 Lazav, the Multifarious
-2 Mire Triton
 2 Tyrant's Scorn
+2 Mire Triton
 2 Thief of Sanity
 2 Find / Finality
 2 Thought Erasure
@@ -153,48 +162,67 @@
 4 Thief of Sanity
 4 Lazav, the Multifarious
 1 Blast Zone
-1 Repudiate / Replicate
 1 Castle Garenbrig
 1 Vivien, Champion of the Wilds
+1 Maraleaf Pixie
 1 Gargos, Vicious Watcher
 1 Bond of Flourishing
-1 Maraleaf Pixie
+1 Repudiate / Replicate
 2 Blast Zone
-2 Repudiate / Replicate
 2 Castle Garenbrig
 2 Bond of Flourishing
 2 Gargos, Vicious Watcher
+2 Repudiate / Replicate
 3 Voracious Hydra
-3 Bond of Flourishing
 3 Repudiate / Replicate
+3 Bond of Flourishing
 3 Gargos, Vicious Watcher
 3 Castle Garenbrig
 4 Repudiate / Replicate
 4 Bond of Flourishing
 4 Kiora, Behemoth Beckoner
 1 Knight of the Ebon Legion
-1 Insatiable Hemophage
-1 Pollywog Symbiote
 1 Stonecoil Serpent
 1 Boneyard Lurker
-1 Gemrazer
 2 Knight of the Ebon Legion
-2 Insatiable Hemophage
-2 Sea-Dasher Octopus
-2 Pollywog Symbiote
 2 Boneyard Lurker
-2 Gemrazer
 2 Stonecoil Serpent
 2 Castle Locthwain
 3 Knight of the Ebon Legion
 3 Gemrazer
 3 Insatiable Hemophage
 3 Sea-Dasher Octopus
-3 Pollywog Symbiote
 3 Dirge Bat
 3 Stonecoil Serpent
 4 Gemrazer
 4 Dirge Bat
-4 Pollywog Symbiote
 4 Sea-Dasher Octopus
 4 Stonecoil Serpent
+1 Nylea, Keen-Eyed
+1 Nethroi, Apex of Death
+1 Zagoth Mamba
+1 Auspicious Starrix
+1 Migratory Greathorn
+1 Dreamtail Heron
+1 Chittering Harvester
+2 Nethroi, Apex of Death
+2 Dreamtail Heron
+2 Nylea, Keen-Eyed
+2 End-Raze Forerunners
+2 Zagoth Mamba
+2 Auspicious Starrix
+2 Migratory Greathorn
+2 Chittering Harvester
+3 Auspicious Starrix
+3 Zagoth Mamba
+3 Migratory Greathorn
+3 Swamp
+4 Island
+4 Migratory Greathorn
+4 Zagoth Mamba
+4 Auspicious Starrix
+4 Swamp
+5 Island
+6 Forest
+7 Forest
+5 Swamp

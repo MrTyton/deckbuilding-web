@@ -1,7 +1,7 @@
 # Spirit Aggro
 
 #### [Export MTGO List](../collection/Spirit%20Aggro/Spirit%20Aggro.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Botanical%20Sanctum%0A3%09Breeding%20Pool%0A4%09Collected%20Company%0A4%09Empyrean%20Eagle%0A4%09Glacial%20Fortress%0A4%09Hallowed%20Fountain%0A2%09Island%0A4%09Mausoleum%20Wanderer%0A4%09Nebelgast%20Herald%0A2%09Plains%0A4%09Rattlechains%0A4%09Selfless%20Spirit%0A4%09Spectral%20Sailor%0A4%09Spell%20Queller%0A4%09Supreme%20Phantom%0A4%09Temple%20Garden%0A1%09Yavimaya%20Coast&deckside=2%09Annul%0A2%09Deputy%20of%20Detention%0A2%09Disdainful%20Stroke%0A4%09Mystical%20Dispute%0A2%09Permeating%20Mass%0A2%09Remorseful%20Cleric%0A1%09Settle%20the%20Wreckage)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Botanical%20Sanctum%0A3%09Breeding%20Pool%0A4%09Collected%20Company%0A4%09Empyrean%20Eagle%0A4%09Glacial%20Fortress%0A4%09Hallowed%20Fountain%0A2%09Island%0A4%09Mausoleum%20Wanderer%0A4%09Nebelgast%20Herald%0A2%09Plains%0A4%09Rattlechains%0A4%09Selfless%20Spirit%0A4%09Spectral%20Sailor%0A4%09Spell%20Queller%0A4%09Supreme%20Phantom%0A4%09Temple%20Garden%0A1%09Yavimaya%20Coast&deckside=2%09Back%20to%20Nature%0A2%09Deputy%20of%20Detention%0A2%09Disdainful%20Stroke%0A1%09Jegantha,%20the%20Wellspring%0A4%09Mystical%20Dispute%0A2%09Permeating%20Mass%0A2%09Remorseful%20Cleric)
 # Maindeck
 
 |                                         Creature (32)                                         |                                         Instant (4)                                          |                                          Land (24)                                           |
@@ -18,31 +18,28 @@
 
 # Sideboard
 
-|                                          Creature (6)                                          |                                          Instant (9)                                           |
-|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|2 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|2 [Annul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45976)               |
-|2 [Permeating Mass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414467)    |2 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)  |
-|2 [Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)  |4 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)   |
-|                                                                                                |1 [Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|
+|                                          Creature (6)                                          |                                         Instant (8)                                          |       Unknown (1)        |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------------|
+|2 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|2 [Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208284)   |1 Jegantha, the Wellspring|
+|2 [Permeating Mass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414467)    |2 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|                          |
+|2 [Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)  |4 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |                          |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)  |                    1|[Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208284)      |
-|                    2|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)  |                    1|Jegantha, the Wellspring                                                                       |
-|                    1|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|                    2|[Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208284)      |
-|                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309) |
-|                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)       |                    1|[Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)           |
-|                    2|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|                    2|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186) |
-|                     |                                                                                              |                    1|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)     |
-|                     |                                                                                              |                    2|[Kraul Harpooner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452886)     |
-|                     |                                                                                              |                    3|[Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208284)      |
-|                     |                                                                                              |                    1|[Gideon of the Trials](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426716)|
+|                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)  |                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309) |
+|                    2|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)  |                    1|[Annul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45976)                |
+|                    1|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|                    2|[Annul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45976)                |
+|                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186) |
+|                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)       |                    3|[Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208284)      |
+|                    2|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|                    1|[Gideon of the Trials](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426716)|
 |                     |                                                                                              |                    1|[Archangel Avacyn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409741)    |
 |                     |                                                                                              |                    2|[Gideon of the Trials](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426716)|
+|                     |                                                                                              |                    2|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186) |
 |                     |                                                                                              |                    3|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)   |
+|                     |                                                                                              |                    1|[Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)           |
 |                     |                                                                                              |                    2|[Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)           |
 |                     |                                                                                              |                    3|[Annul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45976)                |
 |                     |                                                                                              |                    3|[Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)           |
