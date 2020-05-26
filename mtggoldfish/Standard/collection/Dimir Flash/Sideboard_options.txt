@@ -34,8 +34,8 @@
 3 Disfigure
 1 Unmoored Ego
 2 Unmoored Ego
-1 Whirlwind Denial
 1 Legion Warboss
+1 Whirlwind Denial
 2 Legion Warboss
 2 Whirlwind Denial
 3 Legion Warboss
@@ -55,17 +55,17 @@
 1 Quench
 2 Quench
 1 Insatiable Hemophage
+1 Thief of Sanity
 1 Agonizing Remorse
 1 Ashiok, Nightmare Muse
 1 Cavern Whisperer
-1 Thief of Sanity
 2 Agonizing Remorse
 2 Cavern Whisperer
 2 Neutralize
 3 Neutralize
 3 Soul-Guide Lantern
-3 Disdainful Stroke
 3 Unmoored Ego
+3 Disdainful Stroke
 1 Tale's End
 1 Mutual Destruction
 1 Suffocating Fumes
@@ -73,8 +73,14 @@
 2 Tale's End
 2 Suffocating Fumes
 2 Nadir Kraken
-3 Nadir Kraken
 3 Suffocating Fumes
+3 Nadir Kraken
+1 Claim the Firstborn
+1 Blazing Volley
+1 Tibalt, Rakish Instigator
+2 Blazing Volley
+3 Redcap Melee
+4 Redcap Melee
 1 Chemister's Insight
 3 Unsummon
 4 Unsummon
@@ -83,33 +89,27 @@
 2 Shock
 3 Flame Sweep
 4 Flame Sweep
+1 Tyrant's Scorn
+2 Dirge Bat
+2 Tyrant's Scorn
+4 Leyline of the Void
 2 Essence Scatter
 2 Narset, Parter of Veils
 3 Essence Scatter
 3 Narset, Parter of Veils
 4 Essence Scatter
 4 Cerulean Drake
-1 Tyrant's Scorn
-2 Dirge Bat
-2 Tyrant's Scorn
-4 Leyline of the Void
-1 Claim the Firstborn
-1 Blazing Volley
-1 Tibalt, Rakish Instigator
-2 Blazing Volley
-3 Redcap Melee
-4 Redcap Melee
 1 Stern Dismissal
-1 Convolute
 1 Ominous Seas
+1 Convolute
 1 Mass Manipulation
 1 Keep Safe
 1 Wall of Runes
 2 Stern Dismissal
+2 Ominous Seas
 2 Convolute
 2 Wall of Runes
 2 Keep Safe
-2 Ominous Seas
 3 Stern Dismissal
 3 Wall of Runes
 4 Wall of Runes

@@ -44,7 +44,7 @@
 |                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)   |                     |                                                                                           |
 |                    2|[Savannah](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=881)                  |                     |                                                                                           |
 |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)   |                     |                                                                                           |
-|                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)        |                     |                                                                                           |
 |                    4|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)   |                     |                                                                                           |
+|                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)        |                     |                                                                                           |
 |                    2|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)   |                     |                                                                                           |
 

@@ -42,8 +42,8 @@
 |                     |                                                                                               |                    2|[Nimble Obstructionist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430729)|
 |                     |                                                                                               |                    1|[Forsake the Worldly](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426715)  |
 |                     |                                                                                               |                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148) |
-|                     |                                                                                               |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)    |
 |                     |                                                                                               |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)       |
+|                     |                                                                                               |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)    |
 |                     |                                                                                               |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)       |
 |                     |                                                                                               |                    2|[Forsake the Worldly](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426715)  |
 

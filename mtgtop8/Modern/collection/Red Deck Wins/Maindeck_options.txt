@@ -14,24 +14,24 @@
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 2 Seal of Fire
-1 Light Up the Stage
-1 Lava Dart
 1 Crash Through
 1 Soul-Scar Mage
+1 Lava Dart
 1 Manamorphose
-2 Light Up the Stage
-2 Lava Dart
+1 Light Up the Stage
 2 Crash Through
 2 Soul-Scar Mage
+2 Lava Dart
 2 Manamorphose
-3 Lava Dart
-3 Light Up the Stage
+2 Light Up the Stage
 3 Soul-Scar Mage
 3 Crash Through
+3 Light Up the Stage
 3 Manamorphose
-4 Light Up the Stage
-4 Soul-Scar Mage
+3 Lava Dart
 4 Manamorphose
+4 Soul-Scar Mage
+4 Light Up the Stage
 1 Scalding Tarn
 2 Scalding Tarn
 4 Mountain
@@ -43,10 +43,10 @@
 3 Scalding Tarn
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
-1 Bedlam Reveler
 1 Mutagenic Growth
-2 Bedlam Reveler
+1 Bedlam Reveler
 2 Mutagenic Growth
+2 Bedlam Reveler
 3 Bedlam Reveler
 1 Grim Lavamancer
 2 Grim Lavamancer
@@ -55,16 +55,23 @@
 1 Wild Slash
 2 Wild Slash
 3 Wild Slash
-1 Abbot of Keral Keep
-2 Abbot of Keral Keep
-3 Abbot of Keral Keep
-4 Abbot of Keral Keep
 3 Seal of Fire
 4 Seal of Fire
 1 Vexing Devil
 2 Vexing Devil
 3 Vexing Devil
 4 Vexing Devil
+1 Abbot of Keral Keep
+2 Abbot of Keral Keep
+3 Abbot of Keral Keep
+4 Abbot of Keral Keep
+1 Atarka's Command
+1 Copperline Gorge
+1 Stomping Ground
+2 Copperline Gorge
+2 Atarka's Command
+3 Atarka's Command
+4 Atarka's Command
 1 Burst Lightning
 2 Burst Lightning
 2 Fiery Islet
@@ -77,13 +84,6 @@
 9 Mountain
 10 Mountain
 11 Mountain
-12 Mountain
 13 Mountain
 14 Mountain
-1 Atarka's Command
-1 Copperline Gorge
-1 Stomping Ground
-2 Copperline Gorge
-2 Atarka's Command
-3 Atarka's Command
-4 Atarka's Command
+12 Mountain

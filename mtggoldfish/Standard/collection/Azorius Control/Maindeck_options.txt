@@ -47,22 +47,22 @@
 4 Castle Vantress
 1 Blast Zone
 1 Elspeth, Sun's Nemesis
-1 Tale's End
 1 Planar Cleansing
+1 Tale's End
 2 Planar Cleansing
 3 Omen of the Sun
 8 Plains
 9 Plains
 3 Dovin's Veto
-1 Temple of Epiphany
 1 Narset of the Ancient Way
+1 Inspired Ultimatum
+1 Temple of Epiphany
 1 Steam Vents
 1 Mountain
-1 Inspired Ultimatum
 2 Mountain
 2 Temple of Epiphany
-2 Steam Vents
 2 Narset of the Ancient Way
+2 Steam Vents
 3 Steam Vents
 4 Raugrin Triome
 4 Steam Vents
@@ -70,13 +70,13 @@
 2 Banishing Light
 1 Time Wipe
 1 Commence the Endgame
-2 Commence the Endgame
 2 Tale's End
+2 Commence the Endgame
 2 Field of Ruin
-1 Aether Gust
 1 Archon of Sun's Grace
-2 Aether Gust
+1 Aether Gust
 2 Archon of Sun's Grace
+2 Aether Gust
 1 Scorching Dragonfire
 2 Scorching Dragonfire
 2 Inspired Ultimatum
@@ -84,6 +84,12 @@
 3 Neutralize
 4 Neutralize
 4 Scorching Dragonfire
+4 Glass Casket
+4 Omen of the Sun
+1 Evolving Wilds
+2 Evolving Wilds
+3 Evolving Wilds
+10 Plains
 1 Bonecrusher Giant
 1 Deafening Clarion
 1 Temple of Triumph
@@ -96,9 +102,3 @@
 3 Deafening Clarion
 4 Deafening Clarion
 4 Sacred Foundry
-1 Evolving Wilds
-2 Evolving Wilds
-3 Evolving Wilds
-10 Plains
-4 Omen of the Sun
-4 Glass Casket

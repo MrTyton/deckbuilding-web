@@ -67,10 +67,11 @@
 4 Flooded Strand
 1 Lonely Sandbar
 2 Snow-Covered Forest
-1 Time Warp
 1 Ketria Triome
+1 Time Warp
 1 Sakura-Tribe Scout
 1 Primal Command
+1 Golos, Tireless Pilgrim
 1 Raging Ravine
 1 Primeval Titan
 1 Field of the Dead
@@ -78,7 +79,6 @@
 1 Arboreal Grazer
 1 Stomping Ground
 1 Hallowed Fountain
-1 Golos, Tireless Pilgrim
 1 Courser of Kruphix
 1 Simic Growth Chamber
 1 Teferi, Time Raveler
@@ -123,21 +123,6 @@
 1 Torrential Gearhulk
 1 Lumbering Falls
 3 Fact or Fiction
-1 Walk the Aeons
-1 Exhaustion
-1 Chandra, Torch of Defiance
-1 Gemstone Caverns
-1 Brazen Borrower
-1 Lightning Bolt
-2 Time Warp
-2 Lonely Sandbar
-2 Gemstone Caverns
-2 Chandra, Torch of Defiance
-2 Ketria Triome
-2 Steam Vents
-2 Lightning Bolt
-3 Time Warp
-4 Time Warp
 1 Delver of Secrets
 1 Jace, Vryn's Prodigy
 1 Thoughtseize
@@ -147,6 +132,21 @@
 3 Jace, Vryn's Prodigy
 3 Delver of Secrets
 4 Delver of Secrets
+1 Gemstone Caverns
+1 Walk the Aeons
+1 Exhaustion
+1 Chandra, Torch of Defiance
+1 Brazen Borrower
+1 Lightning Bolt
+2 Time Warp
+2 Chandra, Torch of Defiance
+2 Steam Vents
+2 Lonely Sandbar
+2 Ketria Triome
+2 Gemstone Caverns
+2 Lightning Bolt
+3 Time Warp
+4 Time Warp
 1 Nihil Spellbomb
 1 Search for Azcanta
 1 Thing in the Ice
@@ -158,9 +158,9 @@
 3 Inquisition of Kozilek
 4 Thing in the Ice
 1 Fabled Passage
+1 Prismatic Vista
 1 Dead of Winter
 1 Abominable Treefolk
-1 Prismatic Vista
 2 Fabled Passage
 2 Prismatic Vista
 2 Dead of Winter

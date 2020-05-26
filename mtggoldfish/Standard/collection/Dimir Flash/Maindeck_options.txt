@@ -19,10 +19,10 @@
 2 Dirge Bat
 3 Pouncing Shoreshark
 4 Pouncing Shoreshark
-1 Pollywog Symbiote
 1 Insatiable Hemophage
-2 Pollywog Symbiote
+1 Pollywog Symbiote
 2 Insatiable Hemophage
+2 Pollywog Symbiote
 3 Insatiable Hemophage
 3 Pollywog Symbiote
 4 Pollywog Symbiote
@@ -66,24 +66,24 @@
 2 Pteramander
 3 Pteramander
 4 Pteramander
-1 Mountain
-1 Ionize
 1 Temple of Epiphany
-1 Shock
+1 Ionize
 1 Steam Vents
-2 Mountain
+1 Shock
+1 Mountain
+2 Temple of Epiphany
 2 Ionize
 2 Steam Vents
 2 Shock
-2 Temple of Epiphany
-3 Mountain
-3 Ionize
+2 Mountain
 3 Steam Vents
 3 Temple of Epiphany
+3 Ionize
+3 Mountain
 4 Steam Vents
-4 Mountain
 4 Temple of Epiphany
 4 Ionize
+4 Mountain
 5 Mountain
 9 Swamp
 2 Omen of the Sea
@@ -109,16 +109,16 @@
 1 Tale's End
 2 Tale's End
 1 Tyrant's Scorn
-1 Skewer the Critics
 1 Risk Factor
+1 Skewer the Critics
 2 Skewer the Critics
 1 Murderous Rider
+1 Thassa's Intervention
+1 Thryx, the Sudden Storm
+2 Thryx, the Sudden Storm
+2 Thassa's Intervention
 1 Lochmere Serpent
 2 Lochmere Serpent
-1 Thryx, the Sudden Storm
-1 Thassa's Intervention
-2 Thassa's Intervention
-2 Thryx, the Sudden Storm
 1 Voracious Greatshark
 1 Mutual Destruction
 2 Voracious Greatshark
@@ -131,6 +131,18 @@
 3 Shark Typhoon
 3 Fabled Passage
 4 Fabled Passage
+1 Dreamtail Heron
+1 Zagoth Mamba
+1 Drill Bit
+2 Dreamtail Heron
+2 Zagoth Mamba
+2 Tyrant's Scorn
+2 Drill Bit
+3 Zagoth Triome
+3 Zagoth Mamba
+3 Dreamtail Heron
+4 Zagoth Mamba
+4 Zagoth Triome
 3 Unsummon
 4 Unsummon
 1 Lazotep Plating
@@ -141,26 +153,14 @@
 2 Risk Factor
 3 Skewer the Critics
 4 Skewer the Critics
-1 Drill Bit
-1 Dreamtail Heron
-1 Zagoth Mamba
-2 Drill Bit
-2 Tyrant's Scorn
-2 Zagoth Mamba
-2 Dreamtail Heron
-3 Zagoth Triome
-3 Dreamtail Heron
-3 Zagoth Mamba
-4 Zagoth Triome
-4 Zagoth Mamba
+1 Raugrin Triome
 1 The Royal Scions
 1 Legion Warboss
 1 Scorch Spitter
-1 Raugrin Triome
+2 Raugrin Triome
 2 The Royal Scions
 2 Legion Warboss
 2 Scorch Spitter
-2 Raugrin Triome
 3 Legion Warboss
 3 Scorch Spitter
 4 Scorch Spitter

@@ -18,8 +18,8 @@
 1 Deicide
 1 Collective Brutality
 1 Davriel, Rogue Shadowmage
-1 Profane Procession
 1 Devout Decree
+1 Profane Procession
 1 Sorin, Vengeful Bloodlord
 2 Cry of the Carnarium
 2 Kaya, Orzhov Usurper
@@ -28,6 +28,20 @@
 2 Davriel, Rogue Shadowmage
 1 Ratchet Bomb
 2 Ratchet Bomb
+1 Mystical Dispute
+1 Narset, Parter of Veils
+1 Glare of Heresy
+1 Blessed Alliance
+1 Dovin's Veto
+1 Supreme Verdict
+1 Dream Trawler
+2 Glare of Heresy
+2 Supreme Verdict
+2 Blessed Alliance
+2 Dovin's Veto
+3 Blessed Alliance
+3 Glare of Heresy
+3 Dovin's Veto
 1 Isolate
 1 Boros Charm
 1 Kari Zev's Expertise
@@ -38,22 +52,8 @@
 2 Boros Charm
 2 Soul-Guide Lantern
 2 Wild Slash
-3 Soul-Guide Lantern
 3 Isolate
-1 Mystical Dispute
-1 Narset, Parter of Veils
-1 Glare of Heresy
-1 Dovin's Veto
-1 Blessed Alliance
-1 Supreme Verdict
-1 Dream Trawler
-2 Glare of Heresy
-2 Blessed Alliance
-2 Supreme Verdict
-2 Dovin's Veto
-3 Blessed Alliance
-3 Glare of Heresy
-3 Dovin's Veto
+3 Soul-Guide Lantern
 1 Courser of Kruphix
 1 Questing Beast
 1 Leyline of the Void
@@ -79,8 +79,8 @@
 3 Baffling End
 3 Hushbringer
 1 Revoke Existence
-1 Fatal Push
 1 Solemnity
+1 Fatal Push
 1 Doomfall
 1 Noxious Grasp
 1 Infinite Obliteration
@@ -120,8 +120,8 @@
 1 Brazen Borrower
 1 Trial of Ambition
 1 Deputy of Detention
-2 Brazen Borrower
 2 Trial of Ambition
+2 Brazen Borrower
 2 Deputy of Detention
 2 Mystical Dispute
 3 Mystical Dispute

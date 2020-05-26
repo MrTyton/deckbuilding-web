@@ -64,46 +64,46 @@
 3 Solar Blaze
 3 Mythos of Illuna
 3 Ketria Triome
-2 Elspeth, Sun's Nemesis
-3 Elspeth, Sun's Nemesis
-4 Mystical Dispute
 1 Swamp
 1 Yarok's Fenlurker
 1 Blood Crypt
 1 Burglar Rat
+1 Nicol Bolas, Dragon-God
 1 Temple of Malice
 1 Bedevil
-1 Nicol Bolas, Dragon-God
 1 Watery Grave
 1 Temple of Deceit
 1 Fblthp, the Lost
+2 Bedevil
 2 Yarok's Fenlurker
+2 Nicol Bolas, Dragon-God
 2 Burglar Rat
 2 Temple of Malice
 2 Blood Crypt
-2 Nicol Bolas, Dragon-God
 2 Fblthp, the Lost
 2 Temple of Deceit
 2 Swamp
 2 Watery Grave
-2 Bedevil
 3 Fblthp, the Lost
 3 Blood Crypt
 3 Yarok's Fenlurker
 3 Swamp
+3 Nicol Bolas, Dragon-God
 3 Watery Grave
 3 Burglar Rat
 3 Temple of Malice
 3 Bedevil
-3 Nicol Bolas, Dragon-God
 3 Temple of Deceit
 4 Temple of Deceit
 4 Blood Crypt
 4 Yarok's Fenlurker
 4 Swamp
+4 Nicol Bolas, Dragon-God
 4 Burglar Rat
 4 Watery Grave
-4 Nicol Bolas, Dragon-God
+2 Elspeth, Sun's Nemesis
+3 Elspeth, Sun's Nemesis
+4 Mystical Dispute
 5 Plains
 6 Plains
 1 Temple of Abandon
@@ -114,6 +114,7 @@
 3 Temple of Abandon
 4 Temple of Abandon
 1 Arboreal Grazer
+1 Quartzwood Crasher
 1 Adventurous Impulse
 1 Questing Beast
 1 Thrashing Brontodon
@@ -122,24 +123,23 @@
 1 Shifting Ceratops
 1 Bonders' Enclave
 1 Gemrazer
-1 Quartzwood Crasher
 2 Arboreal Grazer
+2 Quartzwood Crasher
 2 Questing Beast
 2 Vivien, Monsters' Advocate
 2 Thrashing Brontodon
+2 Adventurous Impulse
 2 Embercleave
 2 Shifting Ceratops
 2 Forest
-2 Adventurous Impulse
-2 Quartzwood Crasher
 2 Bonders' Enclave
 3 Arboreal Grazer
+3 Quartzwood Crasher
+3 Bonders' Enclave
+3 Thrashing Brontodon
 3 Questing Beast
 3 Adventurous Impulse
 3 Shifting Ceratops
-3 Thrashing Brontodon
-3 Quartzwood Crasher
-3 Bonders' Enclave
 3 Forest
 3 Stomping Ground
 4 Arboreal Grazer
@@ -153,8 +153,8 @@
 7 Forest
 8 Forest
 1 Banishing Light
-1 Sarkhan the Masterless
 1 Haktos the Unscarred
+1 Sarkhan the Masterless
 2 Haktos the Unscarred
 1 Narset of the Ancient Way
 1 Savai Triome
@@ -166,13 +166,13 @@
 1 Ilharg, the Raze-Boar
 1 Dryad of the Ilysian Grove
 1 Uro, Titan of Nature's Wrath
+1 God-Eternal Rhonas
 1 Ruinous Ultimatum
 1 Risen Reef
 1 Genesis Ultimatum
 1 Loxodon Lifechanter
 1 Temple Garden
 1 Breeding Pool
-1 God-Eternal Rhonas
 1 Cavalier of Gales
 1 Temple of Mystery
 2 Scampering Scorcher

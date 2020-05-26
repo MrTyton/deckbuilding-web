@@ -19,17 +19,17 @@
 9 Forest
 1 Arboreal Grazer
 1 Auspicious Starrix
-1 Migratory Greathorn
 1 Parcelbeast
+1 Migratory Greathorn
 2 Arboreal Grazer
 2 Auspicious Starrix
-2 Migratory Greathorn
 2 Parcelbeast
-3 Migratory Greathorn
-3 Arboreal Grazer
+2 Migratory Greathorn
 3 Parcelbeast
-4 Arboreal Grazer
+3 Arboreal Grazer
+3 Migratory Greathorn
 4 Migratory Greathorn
+4 Arboreal Grazer
 4 Parcelbeast
 10 Forest
 11 Forest
@@ -40,13 +40,13 @@
 1 Pollywog Symbiote
 2 Pollywog Symbiote
 2 Castle Garenbrig
-2 End-Raze Forerunners
 2 Illuna, Apex of Wishes
+2 End-Raze Forerunners
 2 Gemrazer
 3 Pollywog Symbiote
+3 End-Raze Forerunners
 3 Illuna, Apex of Wishes
 3 Auspicious Starrix
-3 End-Raze Forerunners
 4 Pollywog Symbiote
 4 Auspicious Starrix
 4 Illuna, Apex of Wishes
@@ -105,17 +105,17 @@
 3 Spectral Sailor
 4 Spectral Sailor
 1 Wolfwillow Haven
-1 Migration Path
 1 Dream Eater
+1 Migration Path
 1 Gyruda, Doom of Depths
 1 Fblthp, the Lost
 1 Spark Double
 2 Wolfwillow Haven
 2 Thassa, Deep-Dwelling
+2 Dream Eater
 2 Fblthp, the Lost
 2 Migration Path
 2 Gyruda, Doom of Depths
-2 Dream Eater
 2 Spark Double
 3 Fblthp, the Lost
 3 Thassa, Deep-Dwelling
