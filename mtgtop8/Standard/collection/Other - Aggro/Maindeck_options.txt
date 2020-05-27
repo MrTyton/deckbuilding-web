@@ -1,17 +1,17 @@
 1 Island
 2 Island
-1 Castle Vantress
 3 Island
 4 Island
+1 Castle Vantress
+1 Forest
 1 Arboreal Grazer
 1 Migratory Greathorn
 1 Castle Garenbrig
-1 Gemrazer
 1 Auspicious Starrix
+1 Gemrazer
 1 Pollywog Symbiote
 1 Pouncing Shoreshark
 1 Breeding Pool
-1 Forest
 2 Arboreal Grazer
 2 Migratory Greathorn
 2 Auspicious Starrix
@@ -24,8 +24,8 @@
 3 Pollywog Symbiote
 3 Auspicious Starrix
 3 Pouncing Shoreshark
-3 Breeding Pool
 3 Forest
+3 Breeding Pool
 4 Arboreal Grazer
 4 Migratory Greathorn
 4 Pollywog Symbiote
@@ -34,13 +34,13 @@
 5 Forest
 6 Forest
 7 Forest
+5 Island
+6 Island
+7 Island
 1 Sea-Dasher Octopus
 2 Sea-Dasher Octopus
 3 Sea-Dasher Octopus
 4 Sea-Dasher Octopus
-5 Island
-6 Island
-7 Island
 1 Ketria Triome
 1 Parcelbeast
 1 Illuna, Apex of Wishes
@@ -62,99 +62,193 @@
 4 Parcelbeast
 4 Auspicious Starrix
 4 Risen Reef
+1 Steam Vents
+2 Steam Vents
+1 Plains
 1 Improbable Alliance
 1 Flourishing Fox
 1 Drannith Healer
 1 Raugrin Triome
-1 Startling Development
 1 Go for Blood
-1 Zenith Flare
-1 Drannith Stinger
 1 Boon of the Wish-Giver
 1 Hallowed Fountain
 1 Valiant Rescuer
 1 Footfall Crater
-1 Steam Vents
+1 Startling Development
+1 Drannith Stinger
+1 Zenith Flare
 1 Frostveil Ambush
-1 Plains
 2 Raugrin Triome
 2 Improbable Alliance
 2 Flourishing Fox
 2 Drannith Healer
-2 Drannith Stinger
 2 Startling Development
 2 Go for Blood
 2 Plains
 2 Boon of the Wish-Giver
 2 Frostveil Ambush
-2 Steam Vents
+2 Zenith Flare
 2 Hallowed Fountain
 2 Valiant Rescuer
-2 Zenith Flare
+2 Drannith Stinger
 2 Footfall Crater
 3 Raugrin Triome
 3 Drannith Stinger
 3 Go for Blood
 3 Plains
+3 Frostveil Ambush
 3 Drannith Healer
 3 Zenith Flare
 3 Boon of the Wish-Giver
 3 Startling Development
 3 Improbable Alliance
-3 Frostveil Ambush
 3 Hallowed Fountain
 3 Valiant Rescuer
 3 Flourishing Fox
-4 Flourishing Fox
 4 Valiant Rescuer
 4 Startling Development
+4 Flourishing Fox
+4 Zenith Flare
 4 Drannith Stinger
 4 Frostveil Ambush
 4 Go for Blood
-4 Zenith Flare
 4 Improbable Alliance
 4 Drannith Healer
+1 Neutralize
+1 Quench
+1 Brineborn Cutthroat
+1 Omen of the Sea
+2 Neutralize
+2 Omen of the Sea
+2 Brineborn Cutthroat
+2 Quench
+3 Brineborn Cutthroat
+3 Neutralize
+4 Brineborn Cutthroat
 1 Sinister Sabotage
 1 Watery Grave
-1 Neutralize
 1 Spectral Sailor
 1 Temple of Deceit
 1 Slitherwisp
 1 Heartless Act
 1 Cunning Nightbonder
 1 Dirge Bat
-1 Quench
-1 Brineborn Cutthroat
-1 Omen of the Sea
 2 Sinister Sabotage
 2 Watery Grave
-2 Neutralize
 2 Spectral Sailor
 2 Temple of Deceit
 2 Slitherwisp
 2 Heartless Act
 2 Cunning Nightbonder
-2 Omen of the Sea
-2 Brineborn Cutthroat
 2 Dirge Bat
-2 Quench
 3 Dirge Bat
 3 Sinister Sabotage
 3 Watery Grave
 3 Heartless Act
 3 Temple of Deceit
 3 Cunning Nightbonder
-3 Brineborn Cutthroat
-3 Neutralize
 3 Spectral Sailor
 3 Slitherwisp
 4 Neutralize
 4 Watery Grave
 4 Cunning Nightbonder
 4 Spectral Sailor
-4 Temple of Deceit
 4 Slitherwisp
-4 Brineborn Cutthroat
+4 Temple of Deceit
+1 Indatha Triome
+1 Season of Growth
+1 Overgrown Tomb
+1 Pious Wayfarer
+1 Aphemia, the Cacophony
+1 Setessan Training
+1 Starfield Mystic
+1 Kaya's Ghostform
+1 Dead Weight
+1 Hateful Eidolon
+1 Karametra's Blessing
+1 Castle Ardenvale
+1 Fabled Passage
+1 Temple Garden
+1 Godless Shrine
+1 Sentinel's Eyes
+1 All That Glitters
+1 Alseid of Life's Bounty
+2 Indatha Triome
+2 Season of Growth
+2 Overgrown Tomb
+2 Pious Wayfarer
+2 Aphemia, the Cacophony
+2 Setessan Training
+2 Hateful Eidolon
+2 Starfield Mystic
+2 Kaya's Ghostform
+2 Dead Weight
+2 Alseid of Life's Bounty
+2 All That Glitters
+2 Karametra's Blessing
+2 Godless Shrine
+2 Sentinel's Eyes
+2 Temple Garden
+3 Indatha Triome
+3 Season of Growth
+3 Overgrown Tomb
+3 Pious Wayfarer
+3 Starfield Mystic
+3 Hateful Eidolon
+3 Dead Weight
+3 Setessan Training
+3 Aphemia, the Cacophony
+3 Alseid of Life's Bounty
+3 Godless Shrine
+3 Karametra's Blessing
+3 Temple Garden
+3 All That Glitters
+3 Sentinel's Eyes
+4 Hateful Eidolon
+4 Season of Growth
+4 Karametra's Blessing
+4 Alseid of Life's Bounty
+4 Temple Garden
+4 All That Glitters
+4 Setessan Training
+4 Godless Shrine
+1 The Royal Scions
+1 Ionize
+1 Opt
+1 Shock
+1 Bonecrusher Giant
+1 Temple of Epiphany
+1 Brazen Borrower
+1 Sprite Dragon
+2 The Royal Scions
+2 Ionize
+2 Shock
+2 Bonecrusher Giant
+2 Brazen Borrower
+2 Sprite Dragon
+2 Opt
+2 Temple of Epiphany
+3 Omen of the Sea
+3 Ionize
+3 Bonecrusher Giant
+3 Steam Vents
+3 Brazen Borrower
+3 Sprite Dragon
+3 Quench
+3 Temple of Epiphany
+3 Shock
+3 Opt
+4 Opt
+4 Omen of the Sea
+4 Quench
+4 Ionize
+4 Temple of Epiphany
+4 Steam Vents
+4 Brazen Borrower
+4 Shock
+4 Sprite Dragon
+8 Island
+9 Island
 1 Paradise Druid
 1 Nylea, Keen-Eyed
 1 End-Raze Forerunners
@@ -164,10 +258,10 @@
 2 Paradise Druid
 2 End-Raze Forerunners
 2 Hydroid Krasis
-2 Nylea, Keen-Eyed
 2 Castle Vantress
-2 Setessan Petitioner
 2 Beast Whisperer
+2 Setessan Petitioner
+2 Nylea, Keen-Eyed
 3 Paradise Druid
 3 Setessan Petitioner
 4 Paradise Druid

@@ -84,8 +84,8 @@
 |                    1|[Farseek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420766)            |                     |                                                                                                |
 |                    2|[Peer Through Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=78690) |                     |                                                                                                |
 |                    2|[Farseek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420766)            |                     |                                                                                                |
+|                    3|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)       |                     |                                                                                                |
 |                    3|[Peer Through Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=78690) |                     |                                                                                                |
 |                    3|[Farseek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420766)            |                     |                                                                                                |
-|                    3|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)       |                     |                                                                                                |
 |                    4|[Farseek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420766)            |                     |                                                                                                |
 

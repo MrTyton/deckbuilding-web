@@ -126,15 +126,15 @@
 1 Hope of Ghirapur
 2 Hope of Ghirapur
 1 Mutavault
+1 Springleaf Drum
 1 Darksteel Citadel
 1 Ornithopter
-1 Springleaf Drum
+2 Springleaf Drum
 2 Darksteel Citadel
 2 Ornithopter
-2 Springleaf Drum
 3 Darksteel Citadel
-3 Ornithopter
 3 Springleaf Drum
+3 Ornithopter
 4 Spire of Industry
 4 Ornithopter
 4 Mana Confluence
@@ -192,8 +192,8 @@
 1 Ghostfire Blade
 2 Ghostfire Blade
 3 Ghostfire Blade
-4 Ghostfire Blade
 4 Springleaf Drum
+4 Ghostfire Blade
 1 Hinterland Harbor
 2 Hinterland Harbor
 3 Hinterland Harbor
@@ -373,10 +373,10 @@
 1 Gideon, Ally of Zendikar
 1 History of Benalia
 1 Labyrinth of Skophos
+1 Westvale Abbey
 1 Gideon's Intervention
 1 Quarantine Field
 1 Nykthos, Shrine to Nyx
-1 Westvale Abbey
 1 Sphere of Safety
 1 Desert of the True
 1 Arch of Orazca
@@ -450,11 +450,11 @@
 3 Heartless Act
 3 Languish
 1 Frilled Mystic
+1 Chemister's Insight
 1 Quench
 1 Nightpack Ambusher
 1 Disallow
 1 Essence Scatter
-1 Chemister's Insight
 1 Silumgar Sorcerer
 2 Frilled Mystic
 2 Quench
@@ -502,6 +502,7 @@
 1 Dragonskull Summit
 1 Nicol Bolas, the Ravager
 1 Bedeck/Bedazzle
+2 Temple of Malice
 2 Temple of Epiphany
 2 Temple of Deceit
 2 Ritual of Soot
@@ -511,7 +512,6 @@
 2 Bedeck/Bedazzle
 2 Fires of Invention
 2 Steam Vents
-2 Temple of Malice
 3 Temple of Deceit
 3 Bontu's Last Reckoning
 3 Fires of Invention

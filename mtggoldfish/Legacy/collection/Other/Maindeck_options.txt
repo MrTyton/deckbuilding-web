@@ -109,8 +109,8 @@
 1 Chrome Mox
 2 Chrome Mox
 3 Chrome Mox
-4 Lion's Eye Diamond
 4 Chrome Mox
+4 Lion's Eye Diamond
 1 Unmask
 1 Grave Titan
 1 Vampire Hexmage
@@ -121,8 +121,8 @@
 1 Exhume
 2 Unmask
 2 Collective Brutality
-2 Grave Titan
 2 Vampire Hexmage
+2 Grave Titan
 2 Exhume
 2 Griselbrand
 2 Urborg, Tomb of Yawgmoth
@@ -345,10 +345,10 @@
 2 Watcher for Tomorrow
 3 Cling to Dust
 3 Manipulate Fate
+1 Gaea's Cradle
 1 Questing Beast
 1 Hexdrinker
 1 Umezawa's Jitte
-1 Gaea's Cradle
 1 Thalia, Guardian of Thraben
 2 Scavenging Ooze
 2 Thalia, Guardian of Thraben
@@ -356,8 +356,8 @@
 4 Thalia, Guardian of Thraben
 1 Brazen Borrower
 4 Changeling Outcast
-1 Portent
 1 Counterspell
+1 Portent
 1 Temporal Mastery
 1 Unexpectedly Absent
 1 Serum Visions
@@ -387,6 +387,18 @@
 3 Wooded Foothills
 4 Mother of Runes
 4 Noble Hierarch
+1 Spellstutter Sprite
+1 Faerie Seer
+1 Ninja of the Deep Hours
+2 Spellstutter Sprite
+2 Ninja of the Deep Hours
+2 Faerie Seer
+3 Spellstutter Sprite
+3 Faerie Seer
+3 Ninja of the Deep Hours
+4 Spellstutter Sprite
+4 Ninja of the Deep Hours
+4 Faerie Seer
 1 Mountain
 2 Mountain
 1 Elvish Spirit Guide
@@ -399,20 +411,20 @@
 1 Chandra, Awakened Inferno
 1 Fire-Lit Thicket
 1 Blood Sun
+1 Klothys, God of Destiny
+1 Bonecrusher Giant
 1 Sheltered Thicket
 1 Shifting Ceratops
 1 Dead/Gone
 1 Trinisphere
-1 Klothys, God of Destiny
-1 Bonecrusher Giant
+2 Klothys, God of Destiny
 2 Fire-Lit Thicket
+2 Bonecrusher Giant
 2 Blood Sun
 2 Shifting Ceratops
-2 Trinisphere
 2 Chandra, Awakened Inferno
+2 Trinisphere
 2 Dead/Gone
-2 Bonecrusher Giant
-2 Klothys, God of Destiny
 3 Bonecrusher Giant
 3 Trinisphere
 3 Blood Sun
@@ -464,18 +476,6 @@
 4 Urza's Bauble
 4 Auriok Salvagers
 4 Cavern of Souls
-1 Spellstutter Sprite
-1 Faerie Seer
-1 Ninja of the Deep Hours
-2 Spellstutter Sprite
-2 Ninja of the Deep Hours
-2 Faerie Seer
-3 Spellstutter Sprite
-3 Faerie Seer
-3 Ninja of the Deep Hours
-4 Spellstutter Sprite
-4 Faerie Seer
-4 Ninja of the Deep Hours
 1 Liliana of the Veil
 1 Tarmogoyf
 1 Badlands
@@ -497,8 +497,8 @@
 4 Tarmogoyf
 4 Lightning Bolt
 4 Bloodstained Mire
-1 Smuggler's Copter
 1 Goblin Engineer
+1 Smuggler's Copter
 1 Great Furnace
 1 Ethersworn Canonist
 1 Ensnaring Bridge
@@ -511,8 +511,8 @@
 1 Imperial Recruiter
 1 Enlightened Tutor
 1 Grindstone
-2 Smuggler's Copter
 2 Goblin Engineer
+2 Smuggler's Copter
 2 Painter's Servant
 2 Red Elemental Blast
 2 Pyroblast
@@ -578,7 +578,6 @@
 4 Burning Wish
 4 Desperate Ritual
 4 Seething Song
-7 Swamp
 1 Seat of the Synod
 1 Emry, Lurker of the Loch
 2 Emry, Lurker of the Loch
@@ -593,5 +592,6 @@
 4 Echo of Eons
 4 Seat of the Synod
 5 Island
-7 Island
 6 Island
+7 Island
+7 Swamp

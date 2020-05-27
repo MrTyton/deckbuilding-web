@@ -46,9 +46,9 @@
 |                    1|[Goblin Chainwhirler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443017) |                    2|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
 |                    2|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)           |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                    3|[Goblin Piledriver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=40193)    |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
-|                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)               |                    3|[Pyrokinesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3180)          |
-|                    1|[Goblin Settler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=20216)       |                     |                                                                                              |
+|                    1|[Goblin Settler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=20216)       |                    3|[Pyrokinesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3180)          |
 |                    1|[Grenzo, Havoc Raiser](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416811)|                     |                                                                                              |
+|                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)               |                     |                                                                                              |
 |                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)            |                     |                                                                                              |
 |                    2|[Goblin Settler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=20216)       |                     |                                                                                              |
 

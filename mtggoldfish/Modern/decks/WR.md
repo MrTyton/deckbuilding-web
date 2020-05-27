@@ -51,7 +51,7 @@
 |                     |                                                                                                |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)         |
 |                     |                                                                                                |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)        |
 |                     |                                                                                                |                    2|[Apostle's Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397768)    |
+|                     |                                                                                                |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)         |
 |                     |                                                                                                |                    3|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)        |
 |                     |                                                                                                |                    3|[Apostle's Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397768)    |
-|                     |                                                                                                |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)         |
 

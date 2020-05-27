@@ -148,7 +148,6 @@
 2 Clifftop Retreat
 3 Clifftop Retreat
 1 Reflector Mage
-1 Chandra, Acolyte of Flame
 1 Castle Embereth
 1 Agent of Treachery
 1 Lavinia of the Tenth
@@ -157,6 +156,7 @@
 1 Steam Vents
 1 Blast Zone
 1 Temple of Triumph
+1 Chandra, Acolyte of Flame
 1 Chained to the Rocks
 1 Winota, Joiner of Forces
 1 Hanged Executioner
@@ -164,12 +164,12 @@
 1 Fire Prophecy
 2 Reflector Mage
 2 Agent of Treachery
-2 Chandra, Acolyte of Flame
 2 Hanged Executioner
 2 Castle Embereth
 2 Phyrexian Revoker
 2 Winota, Joiner of Forces
 2 Fire Prophecy
+2 Chandra, Acolyte of Flame
 2 Cloudblazer
 2 Blast Zone
 2 Steam Vents
@@ -180,8 +180,8 @@
 3 Hanged Executioner
 3 Chandra, Acolyte of Flame
 3 Agent of Treachery
-3 Blast Zone
 3 Fire Prophecy
+3 Blast Zone
 3 Castle Embereth
 3 Lavinia of the Tenth
 3 Chained to the Rocks
@@ -379,9 +379,9 @@
 1 Liliana, the Last Hope
 1 Foreboding Ruins
 1 Tireless Tracker
-1 Dreadhorde Butcher
 1 Chandra, Torch of Defiance
 1 Glorybringer
+1 Dreadhorde Butcher
 2 Vraska, Golgari Queen
 2 Glorybringer
 2 Foreboding Ruins
@@ -390,8 +390,8 @@
 3 Tireless Tracker
 3 Foreboding Ruins
 3 Dreadhorde Butcher
-4 Dreadhorde Butcher
 4 Foreboding Ruins
+4 Dreadhorde Butcher
 4 Tireless Tracker
 4 Bonecrusher Giant
 5 Swamp

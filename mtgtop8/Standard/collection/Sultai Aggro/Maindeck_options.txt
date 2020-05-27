@@ -49,32 +49,32 @@
 4 Temple of Mystery
 1 End-Raze Forerunners
 1 Lotus Field
-1 Lovestruck Beast
 1 Shifting Ceratops
+1 Lovestruck Beast
 2 Lovestruck Beast
 2 Shifting Ceratops
 3 The Great Henge
-3 Lovestruck Beast
 3 Shifting Ceratops
+3 Lovestruck Beast
 4 Shifting Ceratops
 4 Lovestruck Beast
 4 Zagoth Triome
 1 Brazen Borrower
 2 Brazen Borrower
-1 Heartless Act
+1 Neutralize
 1 Nightpack Ambusher
-1 Frilled Mystic
 1 Brineborn Cutthroat
 1 Quench
 1 Slitherwisp
-1 Neutralize
+1 Frilled Mystic
+1 Heartless Act
 2 Neutralize
 2 Heartless Act
 2 Nightpack Ambusher
 2 Quench
-2 Frilled Mystic
 2 Brineborn Cutthroat
 2 Slitherwisp
+2 Frilled Mystic
 3 Brazen Borrower
 3 Slitherwisp
 3 Brineborn Cutthroat
@@ -168,14 +168,14 @@
 1 Vivien, Champion of the Wilds
 1 Maraleaf Pixie
 1 Repudiate / Replicate
+2 Bond of Flourishing
 2 Blast Zone
 2 Gargos, Vicious Watcher
 2 Castle Garenbrig
-2 Bond of Flourishing
 2 Repudiate / Replicate
+3 Bond of Flourishing
 3 Voracious Hydra
 3 Repudiate / Replicate
-3 Bond of Flourishing
 3 Gargos, Vicious Watcher
 3 Castle Garenbrig
 4 Repudiate / Replicate
@@ -185,8 +185,8 @@
 1 Stonecoil Serpent
 1 Boneyard Lurker
 2 Knight of the Ebon Legion
-2 Boneyard Lurker
 2 Stonecoil Serpent
+2 Boneyard Lurker
 2 Castle Locthwain
 3 Knight of the Ebon Legion
 3 Gemrazer
@@ -206,9 +206,9 @@
 1 Chittering Harvester
 1 Dreamtail Heron
 2 Nethroi, Apex of Death
-2 Zagoth Mamba
-2 Dreamtail Heron
 2 Nylea, Keen-Eyed
+2 Dreamtail Heron
+2 Zagoth Mamba
 2 End-Raze Forerunners
 2 Auspicious Starrix
 2 Migratory Greathorn
