@@ -1,24 +1,24 @@
-4 Shark Typhoon
 3 Temple of Enlightenment
+1 Castle Vantress
+4 Neutralize
+1 Dovin's Veto
 1 Temple of Silence
 3 Narset, Parter of Veils
 1 Ashiok, Nightmare Muse
 2 Ashiok, Nightmare Muse
-4 Neutralize
-1 Dovin's Veto
-1 Kaya, Orzhov Usurper
-2 Temple of Silence
 3 Extinction Event
+1 Kaya, Orzhov Usurper
 1 Agonizing Remorse
 2 Agonizing Remorse
 3 Agonizing Remorse
 3 Swamp
-2 Kaya, Orzhov Usurper
+2 Temple of Silence
 4 Elspeth Conquers Death
 3 Plains
 1 Cry of the Carnarium
 4 Agonizing Remorse
 1 The Birth of Meletis
+2 Kaya, Orzhov Usurper
 2 The Birth of Meletis
 4 Island
 1 Atris, Oracle of Half-Truths
@@ -35,35 +35,33 @@
 4 Oath of Kaya
 4 Plains
 2 Mystical Dispute
-3 Thought Erasure
 1 Castle Locthwain
 1 Essence Scatter
 1 Thirst for Meaning
+3 Thought Erasure
 4 Thought Erasure
-3 Temple of Silence
 2 Castle Vantress
 2 Dream Trawler
 1 Thassa's Intervention
-1 Liliana, Dreadhorde General
 1 Treacherous Blessing
-4 Narset, Parter of Veils
 1 Dance of the Manse
 1 Doom Foretold
 2 Doom Foretold
 3 Doom Foretold
 4 Doom Foretold
+3 Temple of Silence
+1 Blast Zone
+1 Liliana, Dreadhorde General
+4 Narset, Parter of Veils
+2 Essence Scatter
+2 Dance of the Manse
+2 Thirst for Meaning
 1 Kaya's Wrath
 2 Kaya's Wrath
 3 Kaya's Wrath
-1 Blast Zone
-2 Dance of the Manse
-2 Essence Scatter
-2 Thirst for Meaning
-2 Liliana, Dreadhorde General
-4 Kaya's Wrath
 1 Omen of the Sun
-1 Despark
 4 Swamp
+1 Despark
 1 Aether Gust
 1 Archon of Sun's Grace
 1 Yorion, Sky Nomad
@@ -73,8 +71,8 @@
 4 Dream Trawler
 2 Archon of Sun's Grace
 4 The Birth of Meletis
-1 The Elderspell
-1 Legion's End
+2 Liliana, Dreadhorde General
+4 Kaya's Wrath
 2 Despark
 3 Thirst for Meaning
 5 Plains
@@ -93,11 +91,11 @@
 1 Easy Prey
 1 Tale's End
 1 Field of Ruin
-3 Shatter the Sky
 3 Dance of the Manse
+3 Shatter the Sky
 4 Shatter the Sky
-1 Zagoth Triome
 1 Brazen Borrower
+1 Zagoth Triome
 1 Raugrin Triome
 2 Brazen Borrower
 2 Raugrin Triome
@@ -105,9 +103,9 @@
 3 Dovin's Veto
 3 Raugrin Triome
 3 Castle Ardenvale
-4 Extinction Event
 4 Brazen Borrower
 4 Atris, Oracle of Half-Truths
+4 Extinction Event
 4 Heartless Act
 4 Dovin's Veto
 2 Yorion, Sky Nomad
@@ -119,13 +117,10 @@
 4 Archon of Sun's Grace
 4 Glass Casket
 4 Temple of Enlightenment
+1 The Elderspell
+1 Legion's End
 2 Legion's End
 2 Ashiok, Dream Render
-1 Kasmina, Enigmatic Mentor
-1 Liliana's Triumph
-2 The Elderspell
-2 Liliana's Triumph
-2 Kasmina, Enigmatic Mentor
 1 Agent of Treachery
 2 Agent of Treachery
 3 Liliana, Dreadhorde General
@@ -140,8 +135,8 @@
 2 Sorin, Vengeful Bloodlord
 2 Dire Tactics
 3 Hero of Precinct One
-3 Dire Tactics
 3 General Kudro of Drannith
+3 Dire Tactics
 4 Hero of Precinct One
 1 Golden Egg
 2 Golden Egg
@@ -153,19 +148,19 @@
 3 Hushbringer
 4 Hushbringer
 1 Chemister's Insight
-1 Elspeth's Nightmare
-1 Opt
 1 Realm-Cloaked Giant
+1 Opt
 1 Negate
-1 Evolving Wilds
 1 Dismal Backwater
 1 Tranquil Cove
+1 Evolving Wilds
 1 Ominous Seas
+1 Elspeth's Nightmare
+2 Banishing Light
 2 Negate
-2 Evolving Wilds
 2 Tranquil Cove
 2 Dismal Backwater
-2 Banishing Light
+2 Evolving Wilds
 2 Ominous Seas
 2 Opt
 3 Tranquil Cove
@@ -174,7 +169,7 @@
 3 Opt
 4 Tranquil Cove
 4 Thirst for Meaning
+4 Opt
 6 Plains
 7 Island
 8 Island
-4 Opt

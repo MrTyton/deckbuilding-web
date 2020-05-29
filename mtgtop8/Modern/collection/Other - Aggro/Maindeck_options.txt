@@ -24,7 +24,7 @@
 1 Polluted Delta
 2 Polluted Delta
 3 Polluted Delta
-1 Drown in the Loch
+1 Spirebluff Canal
 1 Delver of Secrets
 1 Watery Grave
 1 Serum Visions
@@ -32,19 +32,19 @@
 1 Mana Leak
 1 Archmage's Charm
 1 Darkslick Shores
+1 Drown in the Loch
 1 Force of Negation
-1 Spirebluff Canal
 1 Steam Vents
 1 Sprite Dragon
 1 Snapcaster Mage
 1 Opt
-2 Watery Grave
 2 Delver of Secrets
 2 Serum Visions
 2 Mana Leak
 2 Snapcaster Mage
 2 Steam Vents
 2 Island
+2 Watery Grave
 2 Opt
 2 Darkslick Shores
 2 Force of Negation
@@ -74,8 +74,8 @@
 1 Castle Locthwain
 1 Lightning Skelemental
 2 Liliana of the Veil
-2 Lightning Skelemental
 2 Castle Locthwain
+2 Lightning Skelemental
 3 Liliana of the Veil
 3 Unearth
 3 Lightning Skelemental
@@ -140,8 +140,8 @@
 1 Light Up the Stage
 1 Collective Brutality
 2 Light Up the Stage
-3 Lava Dart
 3 Light Up the Stage
+3 Lava Dart
 4 Light Up the Stage
 1 Ransack the Lab
 1 Lavaclaw Reaches
@@ -160,20 +160,9 @@
 3 Pillage
 3 Windswept Heath
 4 Windswept Heath
-1 Fiend Artisan
-2 Fiend Artisan
-3 Snow-Covered Swamp
-4 Liliana of the Veil
-4 Snow-Covered Swamp
-5 Snow-Covered Swamp
-1 Misty Rainforest
-1 Lukka, Coppercoat Outcast
-1 Blood Moon
-2 Misty Rainforest
-4 Kitchen Finks
-7 Forest
 1 Spellskite
 1 Stoneforge Mystic
+1 Plains
 1 Giver of Runes
 1 Shadowspear
 1 Apostle's Blessing
@@ -185,12 +174,11 @@
 1 Sigarda's Aid
 1 Inspiring Vantage
 1 Magnetic Theft
-1 Plains
-2 Plains
 2 Stoneforge Mystic
 2 Giver of Runes
 2 Sacred Foundry
 2 Steelshaper's Gift
+2 Plains
 2 Shadowspear
 2 Inkmoth Nexus
 2 Kor Outfitter
@@ -213,17 +201,29 @@
 3 Kor Outfitter
 3 Spellskite
 3 Inkmoth Nexus
+4 Plains
 4 Stoneforge Mystic
 4 Sigarda's Aid
 4 Kor Duelist
 4 Spellskite
 4 Kor Outfitter
 4 Magnetic Theft
-4 Plains
 4 Steelshaper's Gift
 4 Giver of Runes
 4 Colossus Hammer
 4 Inkmoth Nexus
 4 Sacred Foundry
-5 Plains
 4 Inspiring Vantage
+5 Plains
+1 Misty Rainforest
+1 Lukka, Coppercoat Outcast
+1 Blood Moon
+2 Misty Rainforest
+4 Kitchen Finks
+7 Forest
+1 Fiend Artisan
+2 Fiend Artisan
+3 Snow-Covered Swamp
+4 Liliana of the Veil
+4 Snow-Covered Swamp
+5 Snow-Covered Swamp

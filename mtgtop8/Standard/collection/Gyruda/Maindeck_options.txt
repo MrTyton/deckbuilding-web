@@ -43,8 +43,8 @@
 3 Luminous Broodmoth
 1 Zagoth Triome
 2 Zagoth Triome
-6 Island
 6 Forest
+6 Island
 7 Island
 4 Dream Eater
 1 Fae of Wishes
@@ -62,7 +62,6 @@
 2 Wilt
 3 Zagoth Triome
 4 Zagoth Triome
-4 Fiend Artisan
 1 Castle Vantress
 1 Fires of Invention
 1 Ketria Triome
@@ -80,6 +79,9 @@
 4 Steam Vents
 4 Fires of Invention
 4 Ketria Triome
+4 Fiend Artisan
+3 Temple of Plenty
+4 Temple of Plenty
 1 Sphinx of Foresight
 1 Thought Erasure
 2 Sphinx of Foresight
@@ -88,8 +90,6 @@
 3 Thought Erasure
 4 Thought Erasure
 4 Sphinx of Foresight
-3 Temple of Plenty
-4 Temple of Plenty
 2 Humble Naturalist
 3 Humble Naturalist
 4 Humble Naturalist
@@ -112,12 +112,12 @@
 2 The Birth of Meletis
 2 Temple of Silence
 2 Heartless Act
-3 Heartless Act
 3 Extinction Event
 3 Thassa's Oracle
 3 The Birth of Meletis
 3 Temple of Silence
 3 Plains
+3 Heartless Act
 3 Temple of Deceit
 4 Extinction Event
 4 Heartless Act

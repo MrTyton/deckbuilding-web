@@ -1,4 +1,4 @@
-2 Stomping Ground
+2 Arboreal Grazer
 3 Arboreal Grazer
 3 Stomping Ground
 4 Arboreal Grazer
@@ -17,8 +17,8 @@
 1 Alirios, Enraptured
 2 Gilded Goose
 2 Alirios, Enraptured
-3 Gilded Goose
 3 Breeding Pool
+3 Gilded Goose
 4 Breeding Pool
 4 Temple Garden
 2 Fblthp, the Lost
@@ -28,8 +28,8 @@
 1 Temple of Triumph
 2 Island
 1 Temple of Epiphany
-4 Gilded Goose
 4 Neoform
+4 Gilded Goose
 4 Teferi, Time Raveler
 1 Elite Guardmage
 2 Elite Guardmage
@@ -42,8 +42,8 @@
 2 Spectral Sailor
 2 Brazen Borrower
 1 Lukka, Coppercoat Outcast
-3 Plains
 3 Mountain
+3 Plains
 4 Plains
 1 Castle Vantress
 1 Fires of Invention
@@ -87,8 +87,8 @@
 4 Chandra, Acolyte of Flame
 2 Castle Vantress
 4 Brazen Borrower
-2 Lukka, Coppercoat Outcast
 2 Temple of Enlightenment
+2 Lukka, Coppercoat Outcast
 3 Kenrith, the Returned King
 1 Embercleave
 1 Fight as One
@@ -104,16 +104,16 @@
 1 Irreverent Revelers
 2 Irreverent Revelers
 3 Temple of Triumph
-1 Temple of Silence
 1 Temple of Malice
 1 Swamp
 1 Temple of Deceit
+1 Temple of Silence
+1 Gallia of the Endless Dance
+2 Gallia of the Endless Dance
 1 Omen of the Sea
 1 Fire Prophecy
 2 Omen of the Sea
 2 Fire Prophecy
-1 Gallia of the Endless Dance
-2 Gallia of the Endless Dance
 1 Mystical Dispute
 2 Mystical Dispute
 1 Stonecoil Serpent
@@ -127,20 +127,30 @@
 2 Goblin Gathering
 3 Goblin Gathering
 4 Goblin Gathering
-1 Chance for Glory
 1 Robber of the Rich
 1 Alseid of Life's Bounty
+1 Chance for Glory
 1 Hero of the Nyxborn
+2 Robber of the Rich
 2 Alseid of Life's Bounty
 2 Hero of the Nyxborn
-2 Robber of the Rich
 2 Castle Embereth
+3 Robber of the Rich
 3 Fight as One
 3 Alseid of Life's Bounty
-3 Robber of the Rich
 4 Robber of the Rich
 4 Alseid of Life's Bounty
 4 Skyknight Vanguard
+1 Lavabrink Venturer
+1 Response/Resurgence
+1 Gods Willing
+2 Lavabrink Venturer
+2 Embercleave
+2 Gods Willing
+2 Response/Resurgence
+3 Lavabrink Venturer
+3 Haktos the Unscarred
+8 Plains
 1 Paradise Druid
 1 Shifting Ceratops
 1 Questing Beast
@@ -152,13 +162,3 @@
 3 Questing Beast
 4 Forest
 5 Forest
-1 Lavabrink Venturer
-1 Gods Willing
-1 Response/Resurgence
-2 Lavabrink Venturer
-2 Embercleave
-2 Gods Willing
-2 Response/Resurgence
-3 Lavabrink Venturer
-3 Haktos the Unscarred
-8 Plains

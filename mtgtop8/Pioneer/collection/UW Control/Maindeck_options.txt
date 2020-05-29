@@ -1,10 +1,8 @@
-2 Shark Typhoon
 1 Omen of the Sea
 2 Omen of the Sea
 3 Omen of the Sea
 3 Plains
 4 Omen of the Sea
-3 Castle Ardenvale
 3 Fabled Passage
 1 Baffling End
 2 Baffling End
@@ -13,31 +11,29 @@
 4 Irrigated Farmland
 2 Narset, Parter of Veils
 2 Castle Vantress
-1 Neutralize
 4 Fabled Passage
+6 Island
 4 Teferi, Time Raveler
 3 Shark Typhoon
+4 Plains
+1 Omen of the Sun
+1 Essence Scatter
+1 Neutralize
+3 Castle Ardenvale
+1 Fumigate
 1 The Birth of Meletis
 2 The Birth of Meletis
 3 The Birth of Meletis
-4 Plains
 5 Plains
-1 Cast Out
-1 Omen of the Sun
-1 Essence Scatter
-4 Censor
-1 Fumigate
-2 Cast Out
-1 Elspeth, Sun's Nemesis
 2 Omen of the Sun
+1 Elspeth, Sun's Nemesis
+4 Censor
+1 Cast Out
 4 The Birth of Meletis
-1 Sinister Sabotage
-1 Detention Sphere
-3 Field of Ruin
 1 Geier Reach Sanitarium
+3 Field of Ruin
 2 Neutralize
-2 Sinister Sabotage
-3 Sinister Sabotage
+2 Cast Out
 2 Essence Scatter
 6 Plains
 1 Charming Prince
@@ -53,9 +49,9 @@
 2 Thraben Inspector
 2 Temple of Enlightenment
 2 Charming Prince
+2 Walking Ballista
 2 Silkwrap
 2 Reflector Mage
-2 Walking Ballista
 2 Archon of Sun's Grace
 2 Heliod, Sun-Crowned
 2 Stasis Snare
@@ -63,8 +59,8 @@
 3 Thraben Inspector
 3 Temple of Enlightenment
 3 Charming Prince
-3 Reflector Mage
 3 Walking Ballista
+3 Reflector Mage
 3 Silkwrap
 3 Heliod, Sun-Crowned
 3 Karn, the Great Creator
@@ -83,7 +79,11 @@
 13 Plains
 14 Plains
 15 Plains
+1 Sinister Sabotage
+1 Detention Sphere
+1 Jace, Architect of Thought
 1 Prairie Stream
+4 Shark Typhoon
 1 Mystic Sanctuary
 1 Sphinx's Revelation
 1 Hour of Revelation
@@ -94,19 +94,21 @@
 1 Void Shatter
 2 Void Shatter
 3 Void Shatter
-1 Gideon, Ally of Zendikar
-3 Dig Through Time
-4 Sinister Sabotage
-1 Jace, Architect of Thought
+2 Sinister Sabotage
+3 Sinister Sabotage
 1 Settle the Wreckage
 1 Rest in Peace
+1 Interplanar Beacon
+2 Interplanar Beacon
+2 Elspeth, Sun's Nemesis
+3 Gideon of the Trials
+3 Narset, Parter of Veils
 1 Fae of Wishes
 2 Fae of Wishes
 2 Mystic Sanctuary
 3 Fae of Wishes
 3 Hour of Revelation
 3 Mystic Sanctuary
-4 Shark Typhoon
 4 Fae of Wishes
 4 Castle Ardenvale
 1 Elspeth, Sun's Champion
@@ -126,8 +128,8 @@
 1 Horribly Awry
 1 Glimmer of Genius
 1 Elixir of Immortality
-2 Horribly Awry
 2 Glimmer of Genius
+2 Horribly Awry
 2 Dovin's Veto
 1 Tamiyo, Collector of Tales
 1 Uro, Titan of Nature's Wrath
@@ -139,7 +141,10 @@
 2 Uro, Titan of Nature's Wrath
 2 Temple Garden
 2 Hinterland Harbor
+2 Breeding Pool
 3 Breeding Pool
 3 Uro, Titan of Nature's Wrath
 4 Breeding Pool
-2 Breeding Pool
+1 Gideon, Ally of Zendikar
+3 Dig Through Time
+4 Sinister Sabotage

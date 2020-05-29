@@ -22,3 +22,24 @@
 |2 [Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|2 [Giant Killer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472976)|1 [Warbriar Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476455)|4 [Devout Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466767)|3 Light of Hope          |
 |                                                                                               |2 [Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980) |                                                                                              |                                                                                          |1 Lurrus of the Dream-Den|
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)  |                    1|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102) |
+|                    1|[Angelic Gift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446056)    |                    1|[Plummet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442172)          |
+|                    1|[Blossoming Sands](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433169)|                    1|[Pacifism](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129667)         |
+|                    2|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)  |                    1|[Setessan Training](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476452)|
+|                    2|[Blossoming Sands](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433169)|                    1|[Healer's Hawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452764)    |
+|                    3|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)  |                    2|[Warbriar Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476455)|
+|                    3|[Blossoming Sands](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433169)|                    2|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102) |
+|                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)          |                    2|[Pacifism](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129667)         |
+|                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)          |                    3|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102) |
+|                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)          |                    3|[Pacifism](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129667)         |
+|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)          |                    2|[Plummet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442172)          |
+|                    8|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)          |                     |                                                                                            |
+|                   10|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)          |                     |                                                                                            |
+|                   11|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)          |                     |                                                                                            |
+|                    9|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)          |                     |                                                                                            |
+

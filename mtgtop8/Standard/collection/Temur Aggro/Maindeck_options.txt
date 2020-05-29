@@ -1,6 +1,7 @@
 2 Temple of Abandon
 4 Uro, Titan of Nature's Wrath
 1 Mythos of Illuna
+2 Mythos of Illuna
 4 Genesis Ultimatum
 1 Arboreal Grazer
 2 Arboreal Grazer
@@ -11,45 +12,43 @@
 3 Temple of Mystery
 4 Temple of Mystery
 3 Temple of Abandon
-2 Mythos of Illuna
-4 Agent of Treachery
 1 Scampering Scorcher
-4 Temple of Abandon
+4 Agent of Treachery
 2 Scampering Scorcher
+4 Temple of Abandon
 1 Thassa, Deep-Dwelling
 4 Temple of Epiphany
 1 Castle Vantress
 1 Mystical Dispute
 2 Mystical Dispute
 3 Mystical Dispute
-1 Frilled Mystic
 1 Shark Typhoon
-1 Brazen Borrower
 1 Expansion / Explosion
 1 Nightpack Ambusher
 1 Bonecrusher Giant
+1 Brazen Borrower
+1 Frilled Mystic
 1 Wilderness Reclamation
-2 Frilled Mystic
 2 Castle Vantress
-2 Brazen Borrower
 2 Nightpack Ambusher
 2 Shark Typhoon
 2 Expansion / Explosion
+2 Brazen Borrower
+2 Frilled Mystic
 2 Bonecrusher Giant
 2 Wilderness Reclamation
 3 Wilderness Reclamation
-3 Frilled Mystic
 3 Brazen Borrower
 3 Nightpack Ambusher
+3 Frilled Mystic
 3 Shark Typhoon
 3 Bonecrusher Giant
 3 Expansion / Explosion
 4 Wilderness Reclamation
 4 Bonecrusher Giant
-4 Frilled Mystic
 4 Brazen Borrower
+4 Frilled Mystic
 4 Mystical Dispute
-1 Vivien, Monsters' Advocate
 1 Rugged Highlands
 3 Scampering Scorcher
 3 Mythos of Illuna
@@ -57,17 +56,18 @@
 4 Nightpack Ambusher
 4 Shark Typhoon
 1 Thassa's Oracle
-1 Scorching Dragonfire
+1 Vivien, Monsters' Advocate
 1 Flame Sweep
-2 Scorching Dragonfire
+1 Scorching Dragonfire
 2 Flame Sweep
+2 Scorching Dragonfire
 1 Omen of the Sea
-1 Kogla, the Titan Ape
 1 Omen of the Forge
+1 Kogla, the Titan Ape
 2 Omen of the Sea
 2 Omen of the Forge
-3 Omen of the Forge
 3 Omen of the Sea
+3 Omen of the Forge
 1 Thryx, the Sudden Storm
 2 Thryx, the Sudden Storm
 2 Rugged Highlands
@@ -77,15 +77,15 @@
 1 Blast Zone
 2 Questing Beast
 1 Pollywog Symbiote
-1 Migratory Greathorn
 1 Gemrazer
+1 Migratory Greathorn
 1 Marauding Raptor
 1 Illuna, Apex of Wishes
 1 Parcelbeast
 1 Auspicious Starrix
 2 Pollywog Symbiote
-2 Migratory Greathorn
 2 Gemrazer
+2 Migratory Greathorn
 2 Marauding Raptor
 2 Illuna, Apex of Wishes
 2 Parcelbeast
@@ -96,10 +96,10 @@
 3 Auspicious Starrix
 3 Parcelbeast
 3 Illuna, Apex of Wishes
+4 Illuna, Apex of Wishes
 4 Pollywog Symbiote
 4 Marauding Raptor
 4 Forest
-4 Illuna, Apex of Wishes
 5 Forest
 6 Forest
 7 Forest

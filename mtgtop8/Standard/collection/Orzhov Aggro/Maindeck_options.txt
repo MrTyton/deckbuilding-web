@@ -51,9 +51,9 @@
 1 Castle Ardenvale
 1 Final Payment
 3 Kaya's Ghostform
-1 Healer's Hawk
-1 Soul-Guide Lantern
 1 Omen of the Dead
+1 Soul-Guide Lantern
+1 Healer's Hawk
 2 Omen of the Dead
 2 Healer's Hawk
 3 Healer's Hawk
@@ -70,10 +70,10 @@
 3 All That Glitters
 4 All That Glitters
 1 Erebos's Intervention
-1 Woe Strider
 1 Midnight Reaper
-2 Woe Strider
+1 Woe Strider
 2 Midnight Reaper
+2 Woe Strider
 1 Knight of the Ebon Legion
 2 Knight of the Ebon Legion
 3 Knight of the Ebon Legion
@@ -83,34 +83,34 @@
 1 Blacklance Paragon
 1 Fight as One
 2 Fight as One
-1 Field of Ruin
-1 Treacherous Blessing
 1 Basilica Bell-Haunt
+1 Field of Ruin
+1 Murderous Rider
+1 Kaya's Wrath
+1 Treacherous Blessing
 1 Yarok's Fenlurker
 1 Cavalier of Dawn
-1 Planar Cleansing
-1 Elspeth Conquers Death
 1 Ugin, the Ineffable
 1 Kaya, Orzhov Usurper
-1 Murderous Rider
+1 Elspeth Conquers Death
 1 Plaguecrafter
-1 Kaya's Wrath
+1 Planar Cleansing
 1 Wishclaw Talisman
 1 Sorin, Vengeful Bloodlord
 1 Leyline of Sanctity
 1 The Birth of Meletis
-2 Kaya, Orzhov Usurper
 2 Basilica Bell-Haunt
+2 Kaya, Orzhov Usurper
+2 Murderous Rider
+2 Kaya's Wrath
 2 Yarok's Fenlurker
 2 Elspeth Conquers Death
 2 Erebos's Intervention
-2 Murderous Rider
-2 Kaya's Wrath
 2 Sorin, Vengeful Bloodlord
 2 Castle Ardenvale
 2 The Birth of Meletis
-3 Murderous Rider
 3 Basilica Bell-Haunt
+3 Murderous Rider
 3 Yarok's Fenlurker
 3 Kaya's Wrath
 3 Sorin, Vengeful Bloodlord
@@ -120,8 +120,8 @@
 2 Final Payment
 3 Final Payment
 1 Stonecoil Serpent
-1 Temple Garden
 1 Overgrown Tomb
+1 Temple Garden
 1 Mythos of Nethroi
 1 Drill Bit
 2 Temple Garden
@@ -129,12 +129,13 @@
 2 Mythos of Nethroi
 2 Overgrown Tomb
 2 Drill Bit
-3 Stonecoil Serpent
 3 Mythos of Nethroi
+3 Stonecoil Serpent
 4 Stonecoil Serpent
+4 Castle Locthwain
 1 Boot Nipper
-1 Shadowspear
 1 Pilfering Imp
+1 Shadowspear
 1 Orzhov Guildgate
 1 Memory Leak
 1 Murder
@@ -142,7 +143,6 @@
 2 Murder
 2 Orzhov Guildgate
 4 Kaya's Ghostform
-4 Castle Locthwain
 1 Tithe Taker
 2 Tithe Taker
 3 Indatha Triome
@@ -151,10 +151,10 @@
 2 Durable Coilbug
 3 Durable Coilbug
 4 Durable Coilbug
+1 Angelic Gift
 1 Sentinel's Eyes
 1 Starfield Mystic
 1 Giant Killer
-1 Angelic Gift
 2 Angelic Gift
 2 Sentinel's Eyes
 2 Starfield Mystic
@@ -172,10 +172,10 @@
 3 Midnight Reaper
 3 Woe Strider
 4 Luminous Broodmoth
-1 Dawn of Hope
-1 Impassioned Orator
 1 Spark Harvest
 1 Finale of Eternity
+1 Dawn of Hope
+1 Impassioned Orator
 3 Omen of the Dead
 4 Omen of the Dead
 10 Plains
@@ -200,12 +200,12 @@
 2 Inspiring Veteran
 2 Blacklance Paragon
 2 Stormfist Crusader
-3 Sacred Foundry
 3 Blood Crypt
 3 Skyknight Vanguard
 3 Fight as One
 3 Fervent Champion
 3 Venerable Knight
+3 Sacred Foundry
 3 Worthy Knight
 3 Tournament Grounds
 3 Inspiring Veteran

@@ -1,62 +1,62 @@
-1 Stormchaser Mage
-1 The Royal Scions
-1 Sulfur Falls
-1 Mountain
-1 Soul-Scar Mage
-1 Monastery Swiftspear
-2 Stormchaser Mage
-2 Monastery Swiftspear
-2 Soul-Scar Mage
-2 Mountain
-3 Soul-Scar Mage
-3 Monastery Swiftspear
-3 Mountain
-4 Mountain
-4 Monastery Swiftspear
-4 Soul-Scar Mage
-5 Mountain
 1 Treasure Cruise
 1 Shock
 1 Light Up the Stage
 1 Wizard's Lightning
-1 Crash Through
-1 Wild Slash
 1 Curious Obsession
+1 Stormchaser Mage
+1 Crash Through
+1 The Royal Scions
+1 Wild Slash
+1 Sulfur Falls
 1 Goblin Chainwhirler
 1 Dreadhorde Arcanist
 1 Opt
+1 Mountain
+1 Soul-Scar Mage
+1 Monastery Swiftspear
 2 Light Up the Stage
 2 Wizard's Lightning
-2 Crash Through
-2 Shock
 2 Curious Obsession
+2 Crash Through
+2 Stormchaser Mage
+2 Shock
 2 Wild Slash
+2 Monastery Swiftspear
+2 Soul-Scar Mage
+2 Mountain
 2 Dreadhorde Arcanist
 2 Opt
 3 Wizard's Lightning
 3 Steam Vents
+3 Curious Obsession
 3 Stormchaser Mage
 3 Crash Through
 3 Shock
-3 Curious Obsession
 3 Wild Slash
+3 Monastery Swiftspear
+3 Soul-Scar Mage
 3 Dreadhorde Arcanist
 3 Opt
+3 Mountain
 4 Wizard's Lightning
 4 Wild Slash
+4 Mountain
 4 Steam Vents
 4 Stormchaser Mage
 4 Crash Through
 4 Opt
-1 Unlicensed Disintegration
+4 Monastery Swiftspear
+4 Soul-Scar Mage
+5 Mountain
 1 Aether Hub
 1 Mana Confluence
-2 Unlicensed Disintegration
+1 Unlicensed Disintegration
 2 Aether Hub
 2 Mana Confluence
-3 Unlicensed Disintegration
+2 Unlicensed Disintegration
 3 Aether Hub
 3 Mana Confluence
+3 Unlicensed Disintegration
 4 Spire of Industry
 4 Aether Hub
 1 Springleaf Drum
@@ -65,40 +65,8 @@
 2 Swamp
 3 Springleaf Drum
 4 Springleaf Drum
-4 Unlicensed Disintegration
 4 Mana Confluence
-1 Chandra, Fire of Kaladesh
-1 Torbran, Thane of Red Fell
-1 Heart of Kiran
-1 Abbot of Keral Keep
-1 Bonecrusher Giant
-1 Chandra, Torch of Defiance
-1 Oath of Chandra
-1 Chandra, Acolyte of Flame
-1 Nykthos, Shrine to Nyx
-1 Insult / Injury
-1 Izzet Charm
-1 Chandra, Fire Artisan
-2 Izzet Charm
-2 Torbran, Thane of Red Fell
-2 Heart of Kiran
-2 Chandra, Acolyte of Flame
-2 Chandra, Torch of Defiance
-2 Bonecrusher Giant
-2 Sulfur Falls
-2 The Royal Scions
-2 Chandra, Fire Artisan
-2 Insult / Injury
-3 Heart of Kiran
-3 The Royal Scions
-3 Bonecrusher Giant
-3 Sulfur Falls
-3 Insult / Injury
-4 Bonecrusher Giant
-4 Sulfur Falls
-6 Mountain
-7 Mountain
-8 Mountain
+4 Unlicensed Disintegration
 1 Metallic Mimic
 1 The Ozolith
 1 Walking Ballista
@@ -110,8 +78,8 @@
 1 Blooming Marsh
 2 Metallic Mimic
 2 Walking Ballista
-2 Hardened Scales
 2 Hangarback Walker
+2 Hardened Scales
 2 Hope of Ghirapur
 2 Blooming Marsh
 2 Overgrown Tomb

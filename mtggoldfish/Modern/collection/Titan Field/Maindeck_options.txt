@@ -1,13 +1,12 @@
 1 Waterlogged Grove
-1 Primal Command
-1 Stomping Ground
-1 Snow-Covered Mountain
-1 Cinder Glade
-1 Mountain
 1 Wooded Foothills
+1 Stomping Ground
+1 Mountain
+1 Cinder Glade
 1 Sheltered Thicket
-2 Wooded Foothills
+1 Snow-Covered Mountain
 2 Snow-Covered Mountain
+2 Wooded Foothills
 2 Stomping Ground
 2 Mountain
 3 Stomping Ground
@@ -20,48 +19,44 @@
 2 Scapeshift
 3 Scapeshift
 4 Scapeshift
+1 Primal Command
 3 Cavern of Souls
 1 Verdant Catacombs
 1 Farseek
 2 Farseek
 3 Snow-Covered Mountain
-1 Hydroid Krasis
-1 Zagoth Triome
 1 Windswept Heath
+3 Field of the Dead
+1 Zagoth Triome
 4 Valakut, the Molten Pinnacle
 3 Farseek
-3 Field of the Dead
+1 Hour of Promise
+2 Hour of Promise
+1 Hydroid Krasis
 4 Farseek
 1 Snow-Covered Swamp
+1 Overgrown Tomb
 1 Swamp
 1 Nurturing Peatland
-1 Overgrown Tomb
 1 Golgari Rot Farm
 2 Verdant Catacombs
 2 Golgari Rot Farm
 3 Verdant Catacombs
 4 Verdant Catacombs
-1 Hour of Promise
-2 Hour of Promise
+1 Tireless Tracker
 1 Mwonvuli Acid-Moss
 1 Lightning Bolt
 2 Lightning Bolt
 2 Island
 3 Hour of Promise
-1 Tireless Tracker
-3 Simic Growth Chamber
-1 Karn, the Great Creator
-2 Karn, the Great Creator
-3 Karn, the Great Creator
-4 Karn, the Great Creator
 1 Dwarven Mine
 2 Mwonvuli Acid-Moss
 2 Cinder Glade
 3 Lightning Bolt
+3 Simic Growth Chamber
 1 Elvish Reclaimer
 1 Oracle of Mul Daya
 2 Elvish Reclaimer
-1 Prismatic Vista
 1 Temple of Malady
 1 Courser of Kruphix
 1 Chandra, Awakened Inferno
@@ -72,4 +67,33 @@
 1 Brazen Borrower
 1 Pact of Negation
 2 Tolaria West
+1 Temple Garden
+1 Plains
+1 Wall of Blossoms
+1 Horizon Canopy
+1 Fiend Artisan
+1 Thalia, Guardian of Thraben
+1 Kenrith, the Returned King
+1 Snow-Covered Plains
+1 Dryad Arbor
+1 Noble Hierarch
+1 Kitchen Finks
+1 Selesnya Sanctuary
+1 Woodland Bellower
+1 Renegade Rallier
+2 Selesnya Sanctuary
+2 Wall of Blossoms
+2 Fiend Artisan
+2 Windswept Heath
+2 Noble Hierarch
+2 Renegade Rallier
+3 Wall of Blossoms
+3 Fiend Artisan
+3 Windswept Heath
+4 Fiend Artisan
+4 Wall of Blossoms
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+3 Karn, the Great Creator
+4 Karn, the Great Creator
 4 Simic Growth Chamber

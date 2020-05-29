@@ -2,14 +2,14 @@
 3 Voracious Hydra
 4 Voracious Hydra
 4 Hangarback Walker
-1 Swamp
 1 The Ozolith
 2 The Ozolith
-2 Swamp
+1 Swamp
 1 Fatal Push
 2 Fatal Push
 3 Fatal Push
 4 Fatal Push
+2 Swamp
 1 Steel Overseer
 1 Metallic Mimic
 2 Steel Overseer
@@ -23,15 +23,15 @@
 7 Forest
 8 Forest
 1 Rhonas the Indomitable
+1 The Great Henge
 1 Lovestruck Beast
 1 Rotting Regisaur
 1 Steel Leaf Champion
-1 The Great Henge
-2 Lovestruck Beast
-2 Rotting Regisaur
-2 Rhonas the Indomitable
-2 Steel Leaf Champion
 2 The Great Henge
+2 Lovestruck Beast
+2 Rhonas the Indomitable
+2 Rotting Regisaur
+2 Steel Leaf Champion
 3 Lovestruck Beast
 3 The Great Henge
 3 Rotting Regisaur
@@ -39,14 +39,14 @@
 4 Rotting Regisaur
 4 Lovestruck Beast
 4 Steel Leaf Champion
-1 Collected Company
-2 Collected Company
-3 Collected Company
-4 Collected Company
 4 Steel Overseer
 2 Scavenging Ooze
 1 Scrapheap Scrounger
+1 Collected Company
 2 Scrapheap Scrounger
+2 Collected Company
+3 Collected Company
+4 Collected Company
 9 Forest
 1 Urborg, Tomb of Yawgmoth
 1 Nessian Hornbeetle
@@ -90,60 +90,31 @@
 1 Implement of Ferocity
 2 Hope of Ghirapur
 2 Implement of Ferocity
-3 The Ozolith
 3 Hope of Ghirapur
-1 Animation Module
-2 Animation Module
-3 Animation Module
+3 The Ozolith
 1 Heart of Kiran
 2 Heart of Kiran
 3 Heart of Kiran
 3 Rhonas the Indomitable
+1 Animation Module
+2 Animation Module
+3 Animation Module
 4 Chamber Sentry
+1 Ghalta, Primal Hunger
+4 Nessian Hornbeetle
 3 Woodland Cemetery
 4 Scavenging Ooze
 4 Woodland Cemetery
-1 Ghalta, Primal Hunger
-4 Nessian Hornbeetle
 1 Avatar of the Resolute
 2 Avatar of the Resolute
 3 Avatar of the Resolute
 4 Avatar of the Resolute
-1 Satyr Wayfinder
-1 Catacomb Sifter
-1 Plaguecrafter
-1 Westvale Abbey
-1 Weaponcraft Enthusiast
-1 Gruesome Menagerie
-1 Woe Strider
-1 Zulaport Cutthroat
-1 Priest of Forgotten Gods
-2 Satyr Wayfinder
-2 Catacomb Sifter
-2 Plaguecrafter
-2 Westvale Abbey
-2 Gruesome Menagerie
-2 Weaponcraft Enthusiast
-2 Woe Strider
-2 Zulaport Cutthroat
-2 Priest of Forgotten Gods
-3 Woe Strider
-3 Satyr Wayfinder
-3 Plaguecrafter
-3 Priest of Forgotten Gods
-3 Catacomb Sifter
-3 Zulaport Cutthroat
-4 Woe Strider
-4 Plaguecrafter
-4 Priest of Forgotten Gods
-4 Catacomb Sifter
-4 Zulaport Cutthroat
 1 Bomat Courier
 1 Traverse the Ulvenwald
 1 Blood Crypt
 1 Grisly Salvage
-1 Chromanticore
 1 Ghor-Clan Rampager
+1 Chromanticore
 1 Samut, Voice of Dissent
 1 Carnage Tyrant
 1 Sylvan Caryatid
@@ -156,8 +127,8 @@
 2 Questing Beast
 2 Grisly Salvage
 2 Blood Crypt
-2 Carnage Tyrant
 2 Samut, Voice of Dissent
+2 Carnage Tyrant
 2 Sylvan Caryatid
 2 Zetalpa, Primal Dawn
 2 Gather the Pack

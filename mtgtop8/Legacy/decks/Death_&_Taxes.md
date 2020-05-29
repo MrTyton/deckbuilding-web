@@ -67,7 +67,7 @@
 |                    1|[Flagstones of Trokair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=116733)        |                     |                                                                                                   |
 |                    1|[Blade Splicer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425828)                |                     |                                                                                                   |
 |                    1|[Thalia, Heretic Cathar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414338)       |                     |                                                                                                   |
+|                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)               |                     |                                                                                                   |
 |                    1|[Silent Clearing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464195)              |                     |                                                                                                   |
 |                   11|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                       |                     |                                                                                                   |
-|                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)               |                     |                                                                                                   |
 

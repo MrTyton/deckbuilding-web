@@ -1,3 +1,5 @@
+3 Glacial Fortress
+4 Hallowed Fountain
 4 Glacial Fortress
 1 Teferi, Time Raveler
 1 Irrigated Farmland
@@ -10,27 +12,23 @@
 3 Temple of Enlightenment
 4 Irrigated Farmland
 4 Temple of Enlightenment
-4 Baffling End
 1 Reflector Mage
 2 Reflector Mage
 3 Reflector Mage
 4 Reflector Mage
-1 Tomik, Distinguished Advokist
-3 Elspeth Conquers Death
 1 Castle Ardenvale
+3 Elspeth Conquers Death
 1 Gideon's Intervention
 2 Gideon's Intervention
-3 Stasis Snare
 2 Castle Ardenvale
-2 Tomik, Distinguished Advokist
-3 Daxos, Blessed by the Sun
-15 Plains
-16 Plains
+3 Stasis Snare
 1 Gideon of the Trials
 2 Gideon of the Trials
-4 Teferi, Time Raveler
+15 Plains
+16 Plains
 1 Idyllic Grange
 2 Idyllic Grange
+2 Tomik, Distinguished Advokist
 17 Plains
 3 Idyllic Grange
 18 Plains
@@ -40,26 +38,28 @@
 22 Plains
 3 Gideon of the Trials
 4 Idyllic Grange
+3 Daxos, Blessed by the Sun
+4 Gideon of the Trials
+1 Gideon, Ally of Zendikar
+4 Teferi, Time Raveler
+2 Gideon, Ally of Zendikar
 23 Plains
 24 Plains
-1 Gideon, Ally of Zendikar
 1 Detention Sphere
+3 Anafenza, Kin-Tree Spirit
+2 Detention Sphere
+1 Lurrus of the Dream-Den
+3 Gideon's Intervention
+1 Benalish Marshal
+2 Benalish Marshal
 1 Port Town
 1 The Birth of Meletis
 2 The Birth of Meletis
-4 Gideon of the Trials
-2 Gideon, Ally of Zendikar
-3 Anafenza, Kin-Tree Spirit
-2 Detention Sphere
-1 Legion's Landing
-2 Legion's Landing
-1 Benalish Marshal
-2 Benalish Marshal
 4 Stasis Snare
 1 Skysovereign, Consul Flagship
 1 Banishing Light
-1 Lurrus of the Dream-Den
-3 Gideon's Intervention
+1 Legion's Landing
+2 Legion's Landing
 1 Teferi, Hero of Dominaria
 2 Port Town
 3 Tomik, Distinguished Advokist
@@ -70,26 +70,52 @@
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 4 Karn, the Great Creator
+1 Kaya, Orzhov Usurper
+1 Kunoros, Hound of Athreos
+1 Isolated Chapel
+1 Trial of Ambition
+1 Godless Shrine
+1 Caves of Koilos
+1 Oath of Kaya
+1 Concealed Courtyard
+1 Temple of Silence
+2 Kunoros, Hound of Athreos
+2 Temple of Silence
+2 Kaya, Orzhov Usurper
+2 Isolated Chapel
+2 Trial of Ambition
+2 Concealed Courtyard
+2 Oath of Kaya
+2 Godless Shrine
+3 Temple of Silence
+3 Concealed Courtyard
+3 Godless Shrine
+3 Oath of Kaya
+3 Isolated Chapel
+4 Temple of Silence
+4 Godless Shrine
+4 Concealed Courtyard
+4 Isolated Chapel
 3 Benalish Marshal
 4 Benalish Marshal
 25 Plains
-1 Seeker of the Way
+1 Ipnu Rivulet
 1 Mana Confluence
-1 Curious Obsession
+1 Seeker of the Way
 1 Staggering Insight
+1 Curious Obsession
 1 Siren Stormtamer
 1 Light of Hope
 1 Fight as One
 1 Favored Hoplite
-1 Ipnu Rivulet
 1 Defiant Strike
 1 Lagonna-Band Trailblazer
 1 Gods Willing
 2 Fight as One
-2 Seeker of the Way
 2 Mana Confluence
-2 Curious Obsession
+2 Seeker of the Way
 2 Staggering Insight
+2 Curious Obsession
 2 Siren Stormtamer
 2 Light of Hope
 2 Gods Willing
@@ -97,9 +123,9 @@
 2 Favored Hoplite
 2 Ipnu Rivulet
 2 Defiant Strike
+3 Staggering Insight
 3 Seeker of the Way
 3 Curious Obsession
-3 Staggering Insight
 3 Siren Stormtamer
 3 Fight as One
 3 Light of Hope
@@ -108,9 +134,9 @@
 3 Favored Hoplite
 3 Ipnu Rivulet
 3 Defiant Strike
+4 Staggering Insight
 4 Seeker of the Way
 4 Curious Obsession
-4 Staggering Insight
 4 Siren Stormtamer
 4 Fight as One
 4 Light of Hope
@@ -119,31 +145,31 @@
 4 Lagonna-Band Trailblazer
 4 Gods Willing
 4 Favored Hoplite
+1 Toolcraft Exemplar
 1 Heart of Kiran
+1 Kytheon, Hero of Akros
 1 Dauntless Bodyguard
 1 Glass Casket
-1 Mox Amber
-1 Kytheon, Hero of Akros
 1 Selfless Spirit
-1 Toolcraft Exemplar
+1 Mox Amber
 1 Brave the Elements
+2 Toolcraft Exemplar
 2 Heart of Kiran
+2 Kytheon, Hero of Akros
 2 Dauntless Bodyguard
 2 Glass Casket
-2 Toolcraft Exemplar
 2 Selfless Spirit
-2 Kytheon, Hero of Akros
 2 Brave the Elements
 2 Mox Amber
+3 Toolcraft Exemplar
 3 Heart of Kiran
 3 Dauntless Bodyguard
 3 Glass Casket
 3 Selfless Spirit
 3 Mox Amber
 3 Kytheon, Hero of Akros
-3 Toolcraft Exemplar
-4 Dauntless Bodyguard
 4 Toolcraft Exemplar
+4 Dauntless Bodyguard
 4 Kytheon, Hero of Akros
 4 Mox Amber
 4 Selfless Spirit
