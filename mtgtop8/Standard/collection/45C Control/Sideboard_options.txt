@@ -14,8 +14,8 @@
 1 Disfigure
 1 Command the Dreadhorde
 1 Ritual of Soot
-2 Ritual of Soot
 2 Disfigure
+2 Ritual of Soot
 3 Disfigure
 1 Noxious Grasp
 2 Noxious Grasp
@@ -36,13 +36,13 @@
 1 Jegantha, the Wellspring
 1 Dream Trawler
 2 Dream Trawler
+1 Commence the Endgame
+2 Commence the Endgame
 1 Mythos of Illuna
 1 Leyline of the Void
 2 Mythos of Illuna
 2 Glass Casket
 2 Leyline of the Void
-1 Commence the Endgame
-2 Commence the Endgame
 1 Heliod's Intervention
 2 Heliod's Intervention
 1 Epic Downfall
@@ -52,9 +52,10 @@
 1 Hydroid Krasis
 1 Kunoros, Hound of Athreos
 1 Assassin's Trophy
-1 Snapdax, Apex of the Hunt
 1 Thought Erasure
+1 Snapdax, Apex of the Hunt
 2 Thought Erasure
+3 Extinction Event
 1 Lochmere Serpent
 1 Agonizing Remorse
 2 Deafening Clarion
@@ -74,18 +75,17 @@
 2 Mortify
 2 The Wanderer
 3 Mortify
+1 Heartless Act
+2 Heartless Act
+3 Tolsimir, Friend to Wolves
 1 Cindervines
 2 Cindervines
-3 Cindervines
 3 Disdainful Stroke
+3 Cindervines
 2 Klothys, God of Destiny
 3 Scorching Dragonfire
 3 Aether Gust
 3 Ashiok, Dream Render
-3 Extinction Event
-1 Heartless Act
-2 Heartless Act
-3 Tolsimir, Friend to Wolves
 1 Healer of the Glade
 1 Negate
 1 Brimstone Trebuchet

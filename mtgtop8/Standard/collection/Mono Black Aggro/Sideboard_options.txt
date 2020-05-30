@@ -18,8 +18,8 @@
 1 Drag to the Underworld
 2 Legion's End
 2 Drag to the Underworld
-3 Noxious Grasp
 3 Legion's End
+3 Noxious Grasp
 4 Noxious Grasp
 4 Legion's End
 1 Soul-Guide Lantern
@@ -41,9 +41,15 @@
 2 Ritual of Soot
 2 Ashiok, Dream Render
 2 Murderous Rider
+1 The Elderspell
+1 Lurrus of the Dream Den
+1 Agonizing Remorse
+1 Epic Downfall
+2 Epic Downfall
+3 Epic Downfall
 1 Erebos's Intervention
-1 Crystalline Giant
 1 Ob Nixilis, the Hate-Twisted
+1 Crystalline Giant
 1 Mind Rot
 1 Rotting Regisaur
 2 Erebos's Intervention
@@ -52,20 +58,14 @@
 1 Grafdigger's Cage
 2 Grafdigger's Cage
 3 Grafdigger's Cage
-1 Leyline of the Void
-2 Leyline of the Void
-2 Hunted Nightmare
-3 Leyline of the Void
-3 Hunted Nightmare
 1 Ob Nixilis's Cruelty
 2 Ob Nixilis's Cruelty
 3 Ob Nixilis's Cruelty
-1 The Elderspell
-1 Lurrus of the Dream Den
-1 Agonizing Remorse
-1 Epic Downfall
-2 Epic Downfall
-3 Epic Downfall
+1 Leyline of the Void
+2 Leyline of the Void
+2 Hunted Nightmare
+3 Hunted Nightmare
+3 Leyline of the Void
 1 Memory Leak
 2 Memory Leak
 3 Memory Leak
@@ -81,5 +81,5 @@
 2 Mire's Grasp
 2 Disenchant
 3 Disenchant
-4 Spark Harvest
 4 Disenchant
+4 Spark Harvest

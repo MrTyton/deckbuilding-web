@@ -41,8 +41,8 @@
 1 Dromoka's Command
 1 Nissa, Voice of Zendikar
 2 Vivien, Arkbow Ranger
-2 Dromoka's Command
 2 Voice of Resurgence
+2 Dromoka's Command
 2 Nissa, Voice of Zendikar
 3 Dromoka's Command
 3 Voice of Resurgence
@@ -155,20 +155,20 @@
 3 Hallowed Fountain
 4 Hallowed Fountain
 1 Spire of Industry
-1 Gingerbrute
 1 Ensoul Artifact
+1 Gingerbrute
 1 Darksteel Citadel
 2 Spire of Industry
-2 Ensoul Artifact
-2 Gingerbrute
 2 Darksteel Citadel
+2 Gingerbrute
+2 Ensoul Artifact
 3 Darksteel Citadel
 3 Ensoul Artifact
 3 Gingerbrute
 3 Spire of Industry
+4 Darksteel Citadel
 4 Ensoul Artifact
 4 Gingerbrute
-4 Darksteel Citadel
 1 Island
 4 Swamp
 1 Gideon of the Trials
@@ -182,8 +182,8 @@
 3 Bomat Courier
 3 Mana Confluence
 3 All That Glitters
-4 Spire of Industry
 4 Bomat Courier
+4 Spire of Industry
 4 Mana Confluence
 4 All That Glitters
 1 Ghostfire Blade
@@ -211,10 +211,10 @@
 1 Trial of Ambition
 1 Silkwrap
 1 Shefet Dunes
-1 Ulamog's Nullifier
-1 Wastes
-1 Wasteland Strangler
 1 Omen of the Sea
+1 Ulamog's Nullifier
+1 Wasteland Strangler
+1 Wastes
 1 Spell Queller
 1 Archon of Sun's Grace
 1 Elspeth Conquers Death
@@ -227,8 +227,8 @@
 2 Shefet Dunes
 2 Wastes
 2 Ulamog's Nullifier
-2 Wasteland Strangler
 2 Omen of the Sea
+2 Wasteland Strangler
 2 Spell Queller
 2 Ipnu Rivulet
 2 Archon of Sun's Grace
@@ -238,8 +238,8 @@
 2 Charming Prince
 3 Silkwrap
 3 Brain Maggot
-3 Wasteland Strangler
 3 Omen of the Sea
+3 Wasteland Strangler
 3 Spell Queller
 3 Thought-Knot Seer
 3 Charming Prince
@@ -256,6 +256,7 @@
 2 Clifftop Retreat
 3 Clifftop Retreat
 1 Reflector Mage
+1 Chandra, Acolyte of Flame
 1 Castle Embereth
 1 Agent of Treachery
 1 Lavinia of the Tenth
@@ -265,7 +266,6 @@
 1 Steam Vents
 1 Blast Zone
 1 Temple of Triumph
-1 Chandra, Acolyte of Flame
 1 Chained to the Rocks
 1 Winota, Joiner of Forces
 1 Hanged Executioner
@@ -273,15 +273,15 @@
 1 Fire Prophecy
 2 Reflector Mage
 2 Agent of Treachery
-2 Hanged Executioner
+2 Chandra, Acolyte of Flame
 2 Castle Embereth
 2 Phyrexian Revoker
 2 Winota, Joiner of Forces
 2 Bonecrusher Giant
-2 Chandra, Acolyte of Flame
 2 Cloudblazer
 2 Blast Zone
 2 Steam Vents
+2 Hanged Executioner
 2 Goblin Instigator
 2 Fire Prophecy
 2 Lavinia of the Tenth
@@ -339,34 +339,34 @@
 1 Zenith Flare
 1 Sulfur Falls
 1 Flourishing Fox
-1 Hieroglyphic Illumination
 1 Castle Vantress
 1 Nimble Obstructionist
+1 Hieroglyphic Illumination
 1 Cast Out
 1 Shark Typhoon
 1 Neutralize
 1 Supreme Verdict
 2 Irrigated Farmland
-2 Hieroglyphic Illumination
 2 Flourishing Fox
 2 Censor
 2 Zenith Flare
 2 Azorius Charm
 2 Nimble Obstructionist
+2 Hieroglyphic Illumination
 2 Cast Out
 2 Neutralize
 2 Sulfur Falls
 2 Shark Typhoon
 2 Supreme Verdict
 3 Irrigated Farmland
-3 Cast Out
 3 Censor
 3 Island
 3 Zenith Flare
 3 Azorius Charm
-3 Hieroglyphic Illumination
 3 Neutralize
 3 Flourishing Fox
+3 Hieroglyphic Illumination
+3 Cast Out
 3 Sulfur Falls
 3 Shark Typhoon
 4 Irrigated Farmland
@@ -375,8 +375,8 @@
 4 Azorius Charm
 4 Neutralize
 4 Flourishing Fox
-4 Hieroglyphic Illumination
 4 Zenith Flare
+4 Hieroglyphic Illumination
 4 Censor
 4 Shark Typhoon
 4 Gods Willing
@@ -412,8 +412,8 @@
 1 Heart of Kiran
 1 Pack Rat
 1 Shambling Vent
-2 Karn, Scion of Urza
 2 Heart of Kiran
+2 Karn, Scion of Urza
 2 Pack Rat
 2 Shambling Vent
 3 Karn, Scion of Urza
@@ -463,20 +463,20 @@
 5 Swamp
 1 Gutterbones
 1 Garrison Cat
-1 Return to the Ranks
 1 Cartel Aristocrat
 1 Stitcher's Supplier
 1 Cruel Celebrant
 1 Fiend Artisan
 1 Rally the Ancestors
+1 Return to the Ranks
 1 Hunted Witness
 1 Zulaport Cutthroat
 1 Priest of Forgotten Gods
 2 Gutterbones
-2 Return to the Ranks
 2 Garrison Cat
 2 Fiend Artisan
 2 Priest of Forgotten Gods
+2 Return to the Ranks
 2 Cartel Aristocrat
 2 Cruel Celebrant
 2 Hunted Witness
@@ -501,18 +501,18 @@
 4 Hunted Witness
 5 Plains
 1 Gifted Aetherborn
+1 Dusk Legion Zealot
 1 Kaya, Orzhov Usurper
 1 Blood Baron of Vizkopa
-1 Dusk Legion Zealot
 1 Oathsworn Vampire
 1 Champion of Dusk
 1 Kalitas, Traitor of Ghet
 1 Sorin, Imperious Bloodlord
 1 Murderous Rider
 2 Gifted Aetherborn
+2 Dusk Legion Zealot
 2 Kaya, Orzhov Usurper
 2 Kalitas, Traitor of Ghet
-2 Dusk Legion Zealot
 2 Champion of Dusk
 2 Murderous Rider
 2 Blood Baron of Vizkopa
@@ -520,8 +520,8 @@
 2 Oathsworn Vampire
 2 Castle Locthwain
 3 Gifted Aetherborn
-3 Sorin, Imperious Bloodlord
 3 Dusk Legion Zealot
+3 Sorin, Imperious Bloodlord
 3 Murderous Rider
 3 Blood Baron of Vizkopa
 3 Castle Locthwain

@@ -8,16 +8,16 @@
 1 Fiend Artisan
 1 Yarok's Fenlurker
 1 Nightmare Shepherd
+2 Ayara, First of Locthwain
 2 Yarok's Fenlurker
 2 Nightmare Shepherd
-2 Ayara, First of Locthwain
 1 Obosh, the Preypiercer
 21 Swamp
 1 Rankle, Master of Pranks
 2 Fiend Artisan
 2 Rankle, Master of Pranks
-3 Yarok's Fenlurker
 3 Nightmare Shepherd
+3 Yarok's Fenlurker
 4 Yarok's Fenlurker
 1 Priest of Forgotten Gods
 2 Midnight Reaper
@@ -42,9 +42,9 @@
 2 Lurrus of the Dream Den
 1 Stonecoil Serpent
 1 Spawn of Mayhem
+2 Dread Presence
 2 Stonecoil Serpent
 2 Spawn of Mayhem
-2 Dread Presence
 3 Spawn of Mayhem
 4 Nightmare Shepherd
 4 Spawn of Mayhem
@@ -76,21 +76,24 @@
 2 Call of the Death-Dweller
 2 Mobilized District
 3 Shadowspear
+1 Disfigure
+2 Disfigure
+4 Grimdancer
 1 Orzhov Enforcer
 1 Blast Zone
 1 Heartless Act
 1 Mire Triton
-2 Orzhov Enforcer
 2 Blast Zone
 2 Heartless Act
 2 Mire Triton
+2 Orzhov Enforcer
 3 Call of the Death-Dweller
 3 Heartless Act
 3 Mire Triton
 4 Call of the Death-Dweller
 4 Heartless Act
-1 Foulmire Knight
 1 Erebos, Bleak-Hearted
+1 Foulmire Knight
 2 Foulmire Knight
 3 Ayara, First of Locthwain
 3 Foulmire Knight
@@ -103,22 +106,19 @@
 3 Agonizing Remorse
 3 Woe Strider
 4 Agonizing Remorse
-1 Disfigure
-2 Disfigure
-4 Grimdancer
 1 Dreadhorde Invasion
 1 Boot Nipper
 1 Murder
 1 Sorin's Thirst
 1 Omen of the Dead
 1 Spark Harvest
-2 Boot Nipper
 2 Murder
 2 Omen of the Dead
 2 Sorin's Thirst
+2 Boot Nipper
 3 Omen of the Dead
-3 Murder
 3 Tymaret, Chosen from Death
+3 Murder
 3 Boot Nipper
 3 Witch's Cottage
 4 Boot Nipper
@@ -137,8 +137,8 @@
 2 Kaya's Ghostform
 2 Cruel Celebrant
 2 Dead Weight
-2 Orzhov Guildgate
 2 Lampad of Death's Vigil
+2 Orzhov Guildgate
 2 Hateful Eidolon
 2 Scoured Barrens
 3 Cruel Celebrant
