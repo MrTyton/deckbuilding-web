@@ -1,7 +1,7 @@
 # Infect
 
 #### [Export MTGO List](../collection/Infect/Infect.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Become%20Immense%0A4%09Blighted%20Agent%0A4%09Blossoming%20Defense%0A2%09Breeding%20Pool%0A1%09Dismember%0A2%09Distortion%20Strike%0A1%09Dryad%20Arbor%0A2%09Forest%0A4%09Glistener%20Elf%0A2%09Groundswell%0A4%09Inkmoth%20Nexus%0A4%09Might%20of%20Old%20Krosa%0A4%09Mutagenic%20Growth%0A4%09Noble%20Hierarch%0A2%09Pendelhaven%0A4%09Scale%20Up%0A1%09Spell%20Pierce%0A1%09Spellskite%0A4%09Vines%20of%20Vastwood%0A3%09Waterlogged%20Grove%0A3%09Windswept%20Heath%0A3%09Wooded%20Foothills&deckside=2%09Ceremonious%20Rejection%0A1%09Dismember%0A2%09Dissenter's%20Deliverance%0A2%09Mystical%20Dispute%0A1%09Spell%20Pierce%0A1%09Spellskite%0A4%09Tarmogoyf%0A2%09Veil%20of%20Summer)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Become%20Immense%0A4%09Blighted%20Agent%0A4%09Blossoming%20Defense%0A2%09Breeding%20Pool%0A1%09Dismember%0A2%09Distortion%20Strike%0A1%09Dryad%20Arbor%0A2%09Forest%0A4%09Glistener%20Elf%0A2%09Groundswell%0A4%09Inkmoth%20Nexus%0A4%09Might%20of%20Old%20Krosa%0A4%09Mutagenic%20Growth%0A4%09Noble%20Hierarch%0A2%09Pendelhaven%0A4%09Scale%20Up%0A1%09Spell%20Pierce%0A1%09Spellskite%0A4%09Vines%20of%20Vastwood%0A3%09Waterlogged%20Grove%0A3%09Windswept%20Heath%0A3%09Wooded%20Foothills&deckside=2%09Ceremonious%20Rejection%0A1%09Dismember%0A2%09Dissenter's%20Deliverance%0A1%09Grafdigger's%20Cage%0A2%09Mystical%20Dispute%0A1%09Spell%20Pierce%0A1%09Spellskite%0A1%09Tarmogoyf%0A3%09Veil%20of%20Summer%0A1%09Weather%20the%20Storm)
 # Maindeck
 
 |                                       Creature (13)                                       |                                         Instant (21)                                          |                                          Land (20)                                           |                                         Sorcery (6)                                          |
@@ -18,25 +18,26 @@
 
 # Sideboard
 
-|                                     Creature (5)                                      |                                            Instant (10)                                            |
-|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-|1 [Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)|2 [Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)  |
-|4 [Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142) |1 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)              |
-|                                                                                       |2 [Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
-|                                                                                       |2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)       |
-|                                                                                       |1 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)           |
-|                                                                                       |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
+|                                         Artifact (1)                                         |                                     Creature (2)                                      |                                            Instant (12)                                            |
+|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+|1 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|1 [Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)|2 [Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)  |
+|                                                                                              |1 [Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142) |1 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)              |
+|                                                                                              |                                                                                       |2 [Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
+|                                                                                              |                                                                                       |2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)       |
+|                                                                                              |                                                                                       |1 [Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)           |
+|                                                                                              |                                                                                       |3 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
+|                                                                                              |                                                                                       |1 [Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)      |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)     |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)   |
-|                    1|[Sylvan Scrying](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130513)        |                    1|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)   |
-|                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
-|                    1|[Viridian Corrupter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213772)    |                    2|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)   |
-|                    1|[Botanical Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417817)     |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)   |
+|                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                |                    2|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)           |
+|                    1|[Viridian Corrupter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213772)    |                    3|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)           |
+|                    1|[Botanical Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417817)     |                    4|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)           |
+|                    1|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)     |                    2|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)   |
+|                    1|[Sylvan Scrying](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130513)        |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)   |
 |                    1|[Blooming Marsh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417816)        |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |
 |                    1|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)    |                    1|Lurrus of the Dream-Den                                                                        |
 |                    1|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)        |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)          |

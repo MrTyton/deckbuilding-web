@@ -22,17 +22,17 @@
 2 Brazen Borrower
 1 Neutralize
 1 Frilled Mystic
-1 Heartless Act
 1 Brineborn Cutthroat
-1 Quench
 1 Slitherwisp
+1 Quench
+1 Heartless Act
 1 Nightpack Ambusher
 2 Neutralize
 2 Frilled Mystic
-2 Heartless Act
-2 Quench
 2 Brineborn Cutthroat
 2 Slitherwisp
+2 Quench
+2 Heartless Act
 2 Nightpack Ambusher
 3 Frilled Mystic
 3 Brazen Borrower
@@ -70,10 +70,10 @@
 1 Thassa, Deep-Dwelling
 1 Fiend Artisan
 1 Mystical Dispute
+1 Kogla, the Titan Ape
 1 Wicked Wolf
 1 Vivien, Monsters' Advocate
 1 Golgari Findbroker
-1 Kogla, the Titan Ape
 1 Atris, Oracle of Half-Truths
 2 Agent of Treachery
 2 Vivien, Monsters' Advocate
@@ -106,12 +106,12 @@
 4 Frilled Mystic
 1 Vraska, Golgari Queen
 1 Tyrant's Scorn
-1 Lazav, the Multifarious
 1 Mire Triton
+1 Lazav, the Multifarious
 1 Enter the God-Eternals
 1 Thief of Sanity
-1 Find / Finality
 1 Thought Erasure
+1 Find / Finality
 2 Thief of Sanity
 2 Lazav, the Multifarious
 2 Tyrant's Scorn
@@ -128,23 +128,23 @@
 4 Thief of Sanity
 4 Lazav, the Multifarious
 1 Blast Zone
-1 Bond of Flourishing
-1 Gargos, Vicious Watcher
 1 Castle Garenbrig
-1 Vivien, Champion of the Wilds
+1 Bond of Flourishing
 1 Maraleaf Pixie
+1 Gargos, Vicious Watcher
+1 Vivien, Champion of the Wilds
 1 Repudiate / Replicate
 2 Blast Zone
+2 Castle Garenbrig
 2 Bond of Flourishing
 2 Gargos, Vicious Watcher
-2 Castle Garenbrig
 2 Repudiate / Replicate
 3 Hydroid Krasis
+3 Castle Garenbrig
 3 Bond of Flourishing
 3 Voracious Hydra
 3 Repudiate / Replicate
 3 Gargos, Vicious Watcher
-3 Castle Garenbrig
 4 Repudiate / Replicate
 4 Bond of Flourishing
 1 Cunning Nightbonder
@@ -167,30 +167,30 @@
 3 Knight of the Ebon Legion
 3 Gemrazer
 3 Insatiable Hemophage
-3 Sea-Dasher Octopus
 3 Dirge Bat
+3 Sea-Dasher Octopus
 3 Stonecoil Serpent
 4 Gemrazer
-4 Dirge Bat
 4 Sea-Dasher Octopus
+4 Dirge Bat
 4 Stonecoil Serpent
 1 Lotus Field
-1 Shifting Ceratops
 1 Lovestruck Beast
+1 Shifting Ceratops
 2 Lotus Field
 2 Lovestruck Beast
 2 Shifting Ceratops
 3 The Great Henge
-3 Shifting Ceratops
 3 Lovestruck Beast
+3 Shifting Ceratops
 4 Shifting Ceratops
 4 Lovestruck Beast
 4 Rotting Regisaur
 1 Ilysian Caryatid
 1 Shadowspear
 1 Murderous Rider
-2 Ilysian Caryatid
 2 Polukranos, Unchained
+2 Ilysian Caryatid
 2 Murderous Rider
 2 Casualties of War
 3 Nissa, Who Shakes the World
@@ -205,15 +205,15 @@
 1 Chittering Harvester
 1 Dreamtail Heron
 2 Nethroi, Apex of Death
-2 Zagoth Mamba
 2 Dreamtail Heron
+2 Zagoth Mamba
 2 Nylea, Keen-Eyed
 2 End-Raze Forerunners
 2 Auspicious Starrix
 2 Migratory Greathorn
 2 Chittering Harvester
-3 Zagoth Mamba
 3 Auspicious Starrix
+3 Zagoth Mamba
 3 Migratory Greathorn
 3 Swamp
 4 Island

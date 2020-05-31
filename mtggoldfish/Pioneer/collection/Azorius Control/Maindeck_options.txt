@@ -1,16 +1,16 @@
-4 Fabled Passage
-1 Baffling End
-2 Baffling End
-3 Baffling End
-4 Baffling End
+3 Teferi, Hero of Dominaria
 1 Omen of the Sun
+4 Baffling End
+3 Shark Typhoon
+4 Fabled Passage
+1 Essence Scatter
 1 Fumigate
 1 Opt
 2 Opt
 3 Opt
 4 Opt
-2 Omen of the Sun
 4 Plains
+2 Omen of the Sun
 2 Essence Scatter
 1 The Birth of Meletis
 2 The Birth of Meletis
@@ -23,56 +23,50 @@
 2 Censor
 3 Castle Ardenvale
 3 Censor
+4 Island
+1 Dovin's Veto
 1 Interplanar Beacon
 2 Interplanar Beacon
 3 Narset, Parter of Veils
 3 Gideon of the Trials
 1 Prairie Stream
-4 Island
-1 Dovin's Veto
 2 Fumigate
 3 Interplanar Beacon
 2 Elspeth, Sun's Nemesis
 1 Dig Through Time
 2 Dig Through Time
-4 Censor
-4 Shark Typhoon
-4 Gideon of the Trials
 5 Island
 6 Island
+4 Censor
 1 Gideon, Ally of Zendikar
+4 Gideon of the Trials
 1 Geier Reach Sanitarium
+4 Shark Typhoon
+1 Thirst for Meaning
+1 Cast Out
 1 Neutralize
 2 Neutralize
 1 Jace, Architect of Thought
-1 Hinterland Harbor
-1 Forest
-1 Sunpetal Grove
-1 Temple Garden
-1 Settle the Wreckage
+1 Torrential Gearhulk
+1 Commit/Memory
+1 Mystical Dispute
+1 Scavenger Grounds
+1 Ipnu Rivulet
+1 Annul
+1 Render Silent
+2 Ipnu Rivulet
+2 Render Silent
+2 Annul
+3 Render Silent
+4 Render Silent
 1 Dream Trawler
-1 Growth Spiral
-1 Detention Sphere
-1 Uro, Titan of Nature's Wrath
-1 Breeding Pool
-2 Temple Garden
-2 Hinterland Harbor
-2 Uro, Titan of Nature's Wrath
-2 Growth Spiral
-2 Breeding Pool
-3 Breeding Pool
-3 Temple Garden
-3 Growth Spiral
-3 Uro, Titan of Nature's Wrath
-4 Breeding Pool
-4 Temple Garden
-4 Growth Spiral
-4 Uro, Titan of Nature's Wrath
-1 Thirst for Meaning
-1 Cast Out
 2 Dovin's Veto
 3 Neutralize
 4 Neutralize
+2 Dream Trawler
+1 Syncopate
+1 Thassa's Intervention
+2 Thassa's Intervention
 2 Thirst for Meaning
 2 Cast Out
 3 Omen of the Sun
@@ -94,15 +88,25 @@
 4 Fae of Wishes
 4 Castle Ardenvale
 4 Sphinx's Revelation
-1 Torrential Gearhulk
-1 Ipnu Rivulet
-1 Commit/Memory
-1 Scavenger Grounds
-1 Mystical Dispute
-1 Annul
-1 Render Silent
-2 Ipnu Rivulet
-2 Render Silent
-2 Annul
-3 Render Silent
-4 Render Silent
+1 Hinterland Harbor
+1 Forest
+1 Sunpetal Grove
+1 Temple Garden
+1 Settle the Wreckage
+1 Growth Spiral
+1 Detention Sphere
+1 Uro, Titan of Nature's Wrath
+1 Breeding Pool
+2 Temple Garden
+2 Hinterland Harbor
+2 Uro, Titan of Nature's Wrath
+2 Growth Spiral
+2 Breeding Pool
+3 Breeding Pool
+3 Temple Garden
+3 Growth Spiral
+3 Uro, Titan of Nature's Wrath
+4 Breeding Pool
+4 Temple Garden
+4 Growth Spiral
+4 Uro, Titan of Nature's Wrath

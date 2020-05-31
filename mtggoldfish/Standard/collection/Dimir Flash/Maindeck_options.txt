@@ -1,62 +1,77 @@
-3 Pteramander
-4 Pteramander
-1 Shock
-1 Ionize
-1 Temple of Epiphany
-1 Mountain
-1 Steam Vents
-2 Mountain
-2 Shock
-2 Ionize
-2 Steam Vents
-2 Temple of Epiphany
-3 Temple of Epiphany
-3 Mountain
-3 Steam Vents
-3 Ionize
-4 Temple of Epiphany
-4 Mountain
-4 Steam Vents
-4 Ionize
-5 Mountain
-1 Dirge Bat
-2 Quench
-1 Omen of the Sea
-1 Heartless Act
-2 Heartless Act
-1 Opt
-2 Opt
-1 Stonecoil Serpent
-2 Stonecoil Serpent
 3 Stonecoil Serpent
 4 Stonecoil Serpent
-4 Cunning Nightbonder
-1 Stern Dismissal
-2 Stern Dismissal
-1 Pouncing Shoreshark
-2 Pouncing Shoreshark
-3 Pouncing Shoreshark
-1 Knight of the Ebon Legion
-2 Knight of the Ebon Legion
 1 Insatiable Hemophage
 1 Pollywog Symbiote
 2 Insatiable Hemophage
-2 Dirge Bat
 2 Pollywog Symbiote
 3 Insatiable Hemophage
+3 Pouncing Shoreshark
 3 Pollywog Symbiote
 4 Pollywog Symbiote
-4 Pouncing Shoreshark
+2 Fabled Passage
+1 Knight of the Ebon Legion
+2 Knight of the Ebon Legion
+1 Negate
+2 Negate
+2 Quench
+4 Neutralize
+1 Pteramander
+2 Pteramander
+1 Ionize
+1 Steam Vents
+1 Temple of Epiphany
+1 Shock
+1 Mountain
+2 Ionize
+2 Shock
+2 Steam Vents
+2 Mountain
+2 Temple of Epiphany
+3 Temple of Epiphany
+3 Steam Vents
+3 Ionize
+3 Mountain
+4 Temple of Epiphany
+4 Steam Vents
+4 Ionize
+4 Mountain
+5 Mountain
+3 Pteramander
+4 Pteramander
 4 Slitherwisp
+3 Temple of Deceit
 1 Castle Locthwain
+1 Heartless Act
+2 Heartless Act
+4 Pouncing Shoreshark
+3 Knight of the Ebon Legion
+4 Knight of the Ebon Legion
+1 Stern Dismissal
+2 Stern Dismissal
+1 Zagoth Triome
+4 Temple of Deceit
+1 Omen of the Sea
 1 Shark Typhoon
 2 Shark Typhoon
+4 Cunning Nightbonder
+1 Opt
+2 Opt
+3 Dirge Bat
+4 Insatiable Hemophage
+8 Swamp
+3 Shock
+6 Mountain
+3 Heartless Act
+1 Voracious Greatshark
+2 Voracious Greatshark
+1 Blacklance Paragon
 3 Negate
+2 Zagoth Triome
 10 Island
-1 Zagoth Triome
-3 Temple of Deceit
+3 Quench
 2 Omen of the Sea
 3 Omen of the Sea
+4 Mystical Dispute
 1 Sinister Sabotage
 2 Sinister Sabotage
 11 Island
@@ -67,51 +82,33 @@
 16 Island
 17 Island
 18 Island
-3 Shock
-3 Knight of the Ebon Legion
-4 Knight of the Ebon Legion
-6 Mountain
-3 Heartless Act
-1 Voracious Greatshark
-2 Voracious Greatshark
-3 Quench
-2 Zagoth Triome
-4 Temple of Deceit
-4 Mystical Dispute
-1 Lochmere Serpent
-4 Negate
 3 Stern Dismissal
-3 Dirge Bat
-4 Insatiable Hemophage
-8 Swamp
 9 Swamp
-1 Blacklance Paragon
+1 Murderous Rider
+2 Castle Locthwain
+2 Blacklance Paragon
 1 Essence Capture
 2 Essence Capture
-4 Omen of the Sea
-4 Quench
+1 Lochmere Serpent
 2 Lochmere Serpent
-3 Opt
-4 Opt
-1 Unsummon
+4 Negate
 19 Island
 20 Island
-2 Castle Locthwain
-1 Murderous Rider
+4 Omen of the Sea
+4 Quench
 2 Murderous Rider
 1 Ashiok's Erasure
 2 Ashiok's Erasure
 3 Voracious Greatshark
-2 Blacklance Paragon
+3 Blacklance Paragon
 3 Fabled Passage
 4 Shock
 1 Essence Scatter
 2 Essence Scatter
-3 Sinister Sabotage
-4 Sinister Sabotage
-2 Unsummon
-3 Unsummon
+3 Opt
+4 Opt
 1 Tyrant's Scorn
+1 Unsummon
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 3 Bonecrusher Giant
@@ -124,37 +121,9 @@
 2 Hypnotic Sprite
 3 Hypnotic Sprite
 21 Island
-3 Zagoth Triome
-4 Zagoth Triome
-1 Wildborn Preserver
-1 Overgrown Tomb
-1 Thought Erasure
-1 Temple of Malady
-1 Uro, Titan of Nature's Wrath
-1 Frilled Mystic
-1 Breeding Pool
-1 Nightpack Ambusher
-1 Forest
-1 Temple of Mystery
-2 Temple of Malady
-2 Overgrown Tomb
-2 Thought Erasure
-2 Wildborn Preserver
-2 Forest
-2 Breeding Pool
-2 Frilled Mystic
-2 Nightpack Ambusher
-2 Temple of Mystery
-3 Thought Erasure
-3 Castle Vantress
-3 Breeding Pool
-3 Temple of Mystery
-4 Temple of Mystery
-4 Thought Erasure
-4 Breeding Pool
 1 Liliana, Dreadhorde General
-1 Mutual Destruction
 1 Tale's End
+1 Mutual Destruction
 2 Tale's End
 1 Flame Sweep
 2 Flame Sweep
@@ -162,19 +131,17 @@
 1 Omen of the Dead
 2 Of One Mind
 2 Omen of the Dead
-3 Blacklance Paragon
 3 Murderous Rider
-1 Chemister's Insight
+3 Essence Capture
 1 Whirlwind Denial
 1 Thryx, the Sudden Storm
+1 Chemister's Insight
 2 Whirlwind Denial
-2 Chemister's Insight
+2 Unsummon
 2 Thryx, the Sudden Storm
+2 Chemister's Insight
+3 Unsummon
 3 Whirlwind Denial
-4 Fabled Passage
-1 Ashiok, Dream Render
-3 Ashiok's Erasure
-4 Heartless Act
 1 Dreamtail Heron
 1 Zagoth Mamba
 1 Drill Bit
@@ -182,37 +149,42 @@
 2 Zagoth Mamba
 2 Tyrant's Scorn
 2 Drill Bit
+3 Zagoth Triome
 3 Zagoth Mamba
 3 Dreamtail Heron
 4 Zagoth Mamba
-2 Risk Factor
-3 Skewer the Critics
-4 Skewer the Critics
+4 Zagoth Triome
+4 Fabled Passage
+3 Sinister Sabotage
+4 Sinister Sabotage
+1 Ashiok, Dream Render
+3 Ashiok's Erasure
+4 Heartless Act
 1 Convolute
 2 Convolute
 3 Essence Scatter
 4 Essence Scatter
-3 Essence Capture
-4 Essence Capture
-4 Unsummon
-1 Raugrin Triome
-1 The Royal Scions
-1 Legion Warboss
-1 Scorch Spitter
-2 The Royal Scions
-2 Raugrin Triome
-2 Legion Warboss
-2 Scorch Spitter
-3 Legion Warboss
-3 Scorch Spitter
-4 Scorch Spitter
-1 Heraldic Banner
 1 Faerie Miscreant
-2 Heraldic Banner
+1 Heraldic Banner
 2 Faerie Miscreant
+2 Heraldic Banner
 3 Faerie Miscreant
 3 Heraldic Banner
 4 Shark Typhoon
 4 Faerie Miscreant
 4 Heraldic Banner
 4 Hypnotic Sprite
+2 Risk Factor
+3 Skewer the Critics
+4 Skewer the Critics
+1 The Royal Scions
+1 Legion Warboss
+1 Scorch Spitter
+1 Raugrin Triome
+2 The Royal Scions
+2 Legion Warboss
+2 Scorch Spitter
+2 Raugrin Triome
+3 Legion Warboss
+3 Scorch Spitter
+4 Scorch Spitter

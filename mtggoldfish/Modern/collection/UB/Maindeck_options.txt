@@ -1,19 +1,21 @@
-3 Cryptic Command
+2 Misty Rainforest
 1 Snow-Covered Island
 1 Snow-Covered Swamp
 2 Snow-Covered Island
 3 Snow-Covered Island
 2 Into the Story
 2 Spell Snare
+1 Kolaghan's Command
+1 Blood Crypt
+1 Steam Vents
+4 Snapcaster Mage
 4 Snow-Covered Island
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
 3 Arcum's Astrolabe
 4 Arcum's Astrolabe
-1 Kolaghan's Command
-1 Blood Crypt
-1 Steam Vents
-4 Snapcaster Mage
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
 1 Seal of Fire
 2 Seal of Fire
 5 Snow-Covered Island
@@ -21,12 +23,10 @@
 1 Flooded Strand
 2 Flooded Strand
 1 Mana Leak
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
 1 Field of Ruin
 2 Field of Ruin
-1 Prismatic Vista
 3 Inquisition of Kozilek
+1 Prismatic Vista
 2 Prismatic Vista
 3 Darkslick Shores
 1 Hedron Crab
@@ -47,9 +47,10 @@
 3 Visions of Beyond
 3 Archive Trap
 4 Hedron Crab
-4 Visions of Beyond
 4 Archive Trap
+4 Visions of Beyond
 4 Mesmeric Orb
+2 Kolaghan's Command
 1 Jace, Vryn's Prodigy
 1 Opt
 2 Opt
@@ -67,33 +68,41 @@
 4 Jace's Phantasm
 4 Glimpse the Unthinkable
 2 Swamp
-2 Kolaghan's Command
-1 Search for Azcanta
-2 Tyrant's Scorn
-2 Nihil Spellbomb
-2 Mana Leak
-4 Flooded Strand
-4 Island
-1 Bloodstained Mire
-1 Crypt Incursion
 1 Kroxa, Titan of Death's Hunger
 1 Creeping Tar Pit
 1 Lightning Bolt
 2 Kroxa, Titan of Death's Hunger
 2 Steam Vents
 3 Kolaghan's Command
+1 Search for Azcanta
+2 Tyrant's Scorn
+2 Nihil Spellbomb
+2 Mana Leak
+4 Flooded Strand
+1 Bloodstained Mire
+4 Island
+1 Crypt Incursion
+1 Mountain
+2 Creeping Tar Pit
 1 Engineered Explosives
+2 Lightning Bolt
+3 Lightning Bolt
+4 Lightning Bolt
 1 Mind Funeral
 1 Damnation
 2 Snow-Covered Swamp
 2 Collective Brutality
-1 Legion's End
 1 Shadowspear
+1 Legion's End
 1 Vantress Gargoyle
 2 Vantress Gargoyle
-1 Mountain
-2 Creeping Tar Pit
 3 Seal of Fire
+1 Drowned Catacomb
+1 Thoughtseize
+1 Cascade Bluffs
+2 Thoughtseize
+3 Kroxa, Titan of Death's Hunger
+4 Cryptic Command
 1 Surgical Extraction
 1 Spell Pierce
 2 Surgical Extraction
@@ -102,10 +111,7 @@
 1 Dreadhorde Arcanist
 1 Fact or Fiction
 1 Spirebluff Canal
-2 Lightning Bolt
-3 Lightning Bolt
 4 Kolaghan's Command
-4 Lightning Bolt
 1 Delver of Secrets
 2 Deprive
 2 Delver of Secrets

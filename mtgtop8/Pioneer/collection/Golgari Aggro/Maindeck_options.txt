@@ -23,28 +23,28 @@
 7 Forest
 8 Forest
 1 Rhonas the Indomitable
-1 The Great Henge
-1 Steel Leaf Champion
 1 Lovestruck Beast
+1 Steel Leaf Champion
 1 Rotting Regisaur
-2 The Great Henge
-2 Steel Leaf Champion
+1 The Great Henge
 2 Lovestruck Beast
-2 Rotting Regisaur
+2 Steel Leaf Champion
 2 Rhonas the Indomitable
+2 The Great Henge
+2 Rotting Regisaur
 3 The Great Henge
-3 Steel Leaf Champion
 3 Lovestruck Beast
+3 Steel Leaf Champion
 3 Rotting Regisaur
 4 Rotting Regisaur
-4 Lovestruck Beast
 4 Steel Leaf Champion
+4 Lovestruck Beast
 4 Steel Overseer
 2 Scavenging Ooze
-1 Collected Company
 1 Scrapheap Scrounger
-2 Collected Company
+1 Collected Company
 2 Scrapheap Scrounger
+2 Collected Company
 3 Collected Company
 4 Collected Company
 9 Forest
@@ -86,8 +86,8 @@
 1 Nissa, Who Shakes the World
 2 Yorvo, Lord of Garenbrig
 2 Nissa, Who Shakes the World
-1 Hope of Ghirapur
 1 Implement of Ferocity
+1 Hope of Ghirapur
 2 Hope of Ghirapur
 2 Implement of Ferocity
 3 The Ozolith
@@ -100,15 +100,15 @@
 3 Heart of Kiran
 3 Rhonas the Indomitable
 4 Chamber Sentry
-3 Woodland Cemetery
-4 Scavenging Ooze
-4 Woodland Cemetery
 1 Avatar of the Resolute
 2 Avatar of the Resolute
 3 Avatar of the Resolute
 4 Avatar of the Resolute
 1 Ghalta, Primal Hunger
 4 Nessian Hornbeetle
+3 Woodland Cemetery
+4 Scavenging Ooze
+4 Woodland Cemetery
 1 Bomat Courier
 1 Traverse the Ulvenwald
 1 Blood Crypt
@@ -146,10 +146,10 @@
 3 Sylvan Caryatid
 3 Grisly Salvage
 4 Traverse the Ulvenwald
-4 Mana Confluence
 4 Sylvan Caryatid
 4 Gather the Pack
 4 Grisly Salvage
 4 Lotleth Troll
 4 Zetalpa, Primal Dawn
+4 Mana Confluence
 4 Soulflayer

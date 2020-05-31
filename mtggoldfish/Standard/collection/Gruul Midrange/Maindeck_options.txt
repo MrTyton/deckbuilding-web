@@ -2,14 +2,14 @@
 2 Marauding Raptor
 3 Stonecoil Serpent
 4 Stonecoil Serpent
-2 Castle Garenbrig
 1 Migratory Greathorn
 2 Migratory Greathorn
 3 Migratory Greathorn
 4 Migratory Greathorn
+2 Castle Garenbrig
+1 End-Raze Forerunners
 3 Marauding Raptor
 4 Marauding Raptor
-1 End-Raze Forerunners
 2 End-Raze Forerunners
 3 Bonecrusher Giant
 7 Mountain
@@ -27,10 +27,10 @@
 3 Paradise Druid
 1 God-Eternal Rhonas
 2 God-Eternal Rhonas
+1 Fabled Passage
 1 Bonders' Enclave
 3 End-Raze Forerunners
 4 Robber of the Rich
-1 Fabled Passage
 1 Vivien, Monsters' Advocate
 2 Vivien, Monsters' Advocate
 4 Paradise Druid
@@ -44,19 +44,19 @@
 3 Fires of Invention
 3 Ketria Triome
 2 Nullhide Ferox
+2 Fabled Passage
 4 Embercleave
-1 Thrashing Brontodon
-2 Thrashing Brontodon
 3 Cavalier of Flame
 4 Fires of Invention
 4 Cavalier of Flame
 1 Quartzwood Crasher
 1 Keruga, the Macrosage
-2 Fabled Passage
-1 Vivien, Arkbow Ranger
+1 Thrashing Brontodon
+2 Thrashing Brontodon
 1 Fire Prophecy
 2 Fire Prophecy
 2 Quartzwood Crasher
+1 Vivien, Arkbow Ranger
 9 Mountain
 1 Domri's Ambush
 2 Domri's Ambush
@@ -65,15 +65,28 @@
 1 Collision/Colossus
 1 Anax, Hardened in the Forge
 2 Anax, Hardened in the Forge
-11 Forest
 1 Klothys, God of Destiny
 1 Castle Embereth
+11 Forest
+1 The Great Henge
+2 Domri, Anarch of Bolas
+1 Legion Warboss
+2 Legion Warboss
+3 Legion Warboss
+3 Gallia of the Endless Dance
+1 Ravager Wurm
+3 Quartzwood Crasher
+1 Bond of Flourishing
 2 Vivien, Arkbow Ranger
+3 Bonders' Enclave
+2 Collision/Colossus
+1 Scorching Dragonfire
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
-1 The Great Henge
 3 Thrashing Brontodon
+1 Mobilized District
+3 Castle Garenbrig
 12 Forest
 13 Forest
 14 Forest
@@ -81,38 +94,23 @@
 16 Forest
 17 Forest
 18 Forest
-2 Domri, Anarch of Bolas
-1 Legion Warboss
-2 Legion Warboss
-3 Legion Warboss
-3 Gallia of the Endless Dance
-3 Quartzwood Crasher
-1 Ravager Wurm
-1 Bond of Flourishing
-3 Bonders' Enclave
-2 Collision/Colossus
-1 Scorching Dragonfire
-1 Mobilized District
-3 Castle Garenbrig
-1 Voracious Hydra
-2 Voracious Hydra
+3 Fabled Passage
 2 The Great Henge
-4 Lovestruck Beast
-19 Forest
 2 Scorching Dragonfire
 2 Keruga, the Macrosage
+1 Voracious Hydra
+2 Voracious Hydra
+1 Shock
+1 Grafdigger's Cage
+1 Lava Coil
+2 Shock
+2 Grafdigger's Cage
+2 Lava Coil
 1 Nessian Boar
 2 Nessian Boar
 1 Pulse of Murasa
 2 Bond of Flourishing
 3 Bond of Flourishing
-1 Shock
-1 Grafdigger's Cage
-1 Lava Coil
-2 Shock
-2 Lava Coil
-2 Grafdigger's Cage
-3 Fabled Passage
 2 Ravager Wurm
 3 Ravager Wurm
 1 Cavalier of Thorns
@@ -121,20 +119,12 @@
 3 Cavalier of Thorns
 4 Cavalier of Thorns
 4 Ketria Triome
-1 Gilded Goose
-1 Barkhide Troll
-2 Mobilized District
-2 Gilded Goose
-2 Barkhide Troll
-3 Barkhide Troll
-3 Gilded Goose
-4 Barkhide Troll
-4 Gilded Goose
 1 Kraul Harpooner
 1 Ilysian Caryatid
 2 Kraul Harpooner
 2 Ilysian Caryatid
 3 Kraul Harpooner
+4 Lovestruck Beast
 4 Thrashing Brontodon
 4 Kraul Harpooner
 1 Tin Street Dodger
@@ -147,20 +137,40 @@
 3 Fervent Champion
 4 Tin Street Dodger
 4 Fervent Champion
-1 Thrash/Threat
-1 Incubation Druid
-1 Rabid Bite
-1 Yorvo, Lord of Garenbrig
-1 Gargos, Vicious Watcher
-1 Keeper of Fables
-1 Oakenform
-1 Growth-Chamber Guardian
-2 Oakenform
-2 Gargos, Vicious Watcher
-2 Yorvo, Lord of Garenbrig
-2 Growth-Chamber Guardian
-3 Voracious Hydra
-3 Yorvo, Lord of Garenbrig
-3 Growth-Chamber Guardian
-4 Growth-Chamber Guardian
-20 Forest
+1 Island
+1 Blast Zone
+1 Nissa, Who Shakes the World
+1 Growth Spiral
+1 Breeding Pool
+1 Uro, Titan of Nature's Wrath
+1 Temple of Mystery
+2 Island
+2 Nissa, Who Shakes the World
+2 Growth Spiral
+2 Temple of Mystery
+2 Breeding Pool
+2 Uro, Titan of Nature's Wrath
+3 Nissa, Who Shakes the World
+3 Breeding Pool
+3 Uro, Titan of Nature's Wrath
+3 Temple of Mystery
+3 The Great Henge
+3 Growth Spiral
+3 Island
+4 Temple of Mystery
+4 Nissa, Who Shakes the World
+4 Island
+4 Breeding Pool
+4 Fabled Passage
+4 Growth Spiral
+5 Island
+1 Gilded Goose
+1 Barkhide Troll
+2 Mobilized District
+2 Gilded Goose
+2 Barkhide Troll
+3 Barkhide Troll
+3 Gilded Goose
+4 Barkhide Troll
+4 Gilded Goose
+19 Forest

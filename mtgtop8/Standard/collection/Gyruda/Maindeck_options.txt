@@ -1,22 +1,23 @@
-3 Fabled Passage
-1 Kogla, the Titan Ape
-1 Luminous Broodmoth
+4 Charming Prince
 2 Luminous Broodmoth
-2 End-Raze Forerunners
 1 Migration Path
 2 Migration Path
+3 Fabled Passage
+4 Elite Guardmage
+2 End-Raze Forerunners
 3 Wolfwillow Haven
 4 Wolfwillow Haven
-4 Fabled Passage
 1 Humble Naturalist
 4 Forest
+1 Fiend Artisan
+2 Fiend Artisan
+4 Fabled Passage
+4 Island
 1 Dream Eater
 2 Dream Eater
 1 Thassa's Oracle
-1 Fiend Artisan
-2 Fiend Artisan
+3 Fiend Artisan
 5 Forest
-4 Island
 3 Migration Path
 1 Umori, the Collector
 2 Umori, the Collector
@@ -25,7 +26,7 @@
 2 Incubation Druid
 3 Incubation Druid
 4 Incubation Druid
-3 Fiend Artisan
+3 Luminous Broodmoth
 1 Swamp
 1 Watery Grave
 2 Watery Grave
@@ -40,7 +41,9 @@
 3 Dream Eater
 2 Swamp
 2 Thassa's Oracle
-3 Luminous Broodmoth
+2 Humble Naturalist
+3 Humble Naturalist
+4 Humble Naturalist
 1 Zagoth Triome
 2 Zagoth Triome
 6 Forest
@@ -51,11 +54,13 @@
 2 Fae of Wishes
 3 Fae of Wishes
 4 Fae of Wishes
-3 Temple of Enlightenment
 2 Plains
+3 Temple of Enlightenment
 1 Extinction Event
 2 Extinction Event
 2 Kogla, the Titan Ape
+1 Questing Beast
+2 Questing Beast
 3 Temple of Plenty
 4 Temple of Plenty
 1 Polukranos, Unchained
@@ -78,21 +83,9 @@
 3 Ketria Triome
 3 Fires of Invention
 3 Steam Vents
-4 Steam Vents
 4 Fires of Invention
+4 Steam Vents
 4 Ketria Triome
-1 Sphinx of Foresight
-1 Thought Erasure
-2 Sphinx of Foresight
-2 Thought Erasure
-3 Sphinx of Foresight
-3 Thought Erasure
-4 Thought Erasure
-4 Sphinx of Foresight
-4 Fiend Artisan
-2 Humble Naturalist
-3 Humble Naturalist
-4 Humble Naturalist
 1 Shark Typhoon
 1 Essence Scatter
 2 Shark Typhoon
@@ -100,6 +93,15 @@
 3 Shark Typhoon
 3 Essence Scatter
 4 Essence Scatter
+1 Thought Erasure
+1 Sphinx of Foresight
+2 Thought Erasure
+2 Sphinx of Foresight
+3 Thought Erasure
+3 Sphinx of Foresight
+4 Thought Erasure
+4 Sphinx of Foresight
+4 Fiend Artisan
 1 Shatter the Sky
 1 Heartless Act
 1 Godless Shrine
@@ -112,15 +114,15 @@
 2 The Birth of Meletis
 2 Temple of Silence
 2 Heartless Act
-3 Heartless Act
+3 The Birth of Meletis
 3 Extinction Event
 3 Thassa's Oracle
-3 The Birth of Meletis
 3 Temple of Silence
 3 Plains
+3 Heartless Act
 3 Temple of Deceit
-4 Extinction Event
 4 Heartless Act
+4 Extinction Event
 4 Plains
 4 Thassa's Oracle
 5 Plains

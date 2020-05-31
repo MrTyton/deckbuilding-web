@@ -1,23 +1,20 @@
-2 Foulmire Knight
-1 Stormfist Crusader
-2 Unbreakable Formation
-2 Stormfist Crusader
 1 Smitten Swordmaster
 2 Smitten Swordmaster
 3 Smitten Swordmaster
 3 Blacklance Paragon
-2 Mountain
+1 Fabled Passage
+2 Stormfist Crusader
+1 Foulmire Knight
+2 Foulmire Knight
+2 Savai Triome
+4 Blacklance Paragon
 1 Rimrock Knight
 2 Rimrock Knight
 3 Rimrock Knight
 4 Rimrock Knight
-2 Savai Triome
+2 Mountain
 3 Savai Triome
-4 Blacklance Paragon
 1 Call of the Death-Dweller
-1 Drill Bit
-2 Drill Bit
-3 Drill Bit
 3 Dire Tactics
 4 Dire Tactics
 2 Call of the Death-Dweller
@@ -25,11 +22,13 @@
 4 Swamp
 3 Stormfist Crusader
 1 Castle Locthwain
-1 Temple of Triumph
+1 Drill Bit
+2 Drill Bit
+3 Drill Bit
 3 Corpse Knight
 2 Castle Locthwain
-1 Dreadhorde Butcher
 1 Serrated Scorpion
+1 Dreadhorde Butcher
 1 Claim the Firstborn
 1 Cauldron Familiar
 1 Cruel Celebrant
@@ -54,21 +53,21 @@
 3 Serrated Scorpion
 3 Witch's Oven
 3 Cruel Celebrant
-4 Claim the Firstborn
 4 Serrated Scorpion
 4 Dreadhorde Butcher
 4 Cauldron Familiar
 4 Cruel Celebrant
 4 Priest of Forgotten Gods
+4 Claim the Firstborn
 4 Witch's Oven
 4 Plains
 1 Kroxa, Titan of Death's Hunger
 4 Stormfist Crusader
 1 General's Enforcer
-1 Lavabrink Venturer
-1 Tajic, Legion's Edge
 1 General Kudro of Drannith
 1 Hero of Precinct One
+1 Tajic, Legion's Edge
+1 Lavabrink Venturer
 1 Judith, the Scourge Diva
 1 Outlaws' Merriment
 2 General's Enforcer
@@ -82,11 +81,12 @@
 3 Judith, the Scourge Diva
 3 General Kudro of Drannith
 3 Hero of Precinct One
-4 General's Enforcer
 4 Savai Triome
+4 General's Enforcer
 4 Hero of Precinct One
 3 Mountain
 5 Plains
+1 Temple of Triumph
 1 Castle Embereth
 2 Castle Embereth
 1 Order of Midnight
@@ -103,12 +103,13 @@
 2 Swiftblade Vindicator
 2 Bastion of Remembrance
 2 Despark
-2 Outlaws' Merriment
 2 Castle Ardenvale
+2 Outlaws' Merriment
 3 Swiftblade Vindicator
 3 Bastion of Remembrance
 3 Lavabrink Venturer
 3 Despark
+4 Smitten Swordmaster
 1 Revival / Revenge
 1 Sorin, Vengeful Bloodlord
 1 Icon of Ancestry
@@ -116,10 +117,9 @@
 2 Icon of Ancestry
 2 Revival / Revenge
 4 General Kudro of Drannith
-4 Smitten Swordmaster
 1 Hushbringer
-2 Hushbringer
 2 Kroxa, Titan of Death's Hunger
+2 Hushbringer
 3 Kroxa, Titan of Death's Hunger
 3 Hushbringer
 4 Kroxa, Titan of Death's Hunger
@@ -128,9 +128,9 @@
 2 Lampad of Death's Vigil
 4 Call of the Death-Dweller
 1 Garrison Cat
-1 Dead Weight
-1 Snapdax, Apex of the Hunt
 1 Kaheera, the Orphanguard
+1 Snapdax, Apex of the Hunt
+1 Dead Weight
 1 Lurrus of the Dream-Den
 1 Twilight Panther
 1 Necropanther
@@ -141,8 +141,8 @@
 2 Dead Weight
 2 Kaheera, the Orphanguard
 2 Twilight Panther
-2 Snapdax, Apex of the Hunt
 2 Regal Leosaur
+2 Snapdax, Apex of the Hunt
 2 Charmed Stray
 2 Necropanther
 3 Lurrus of the Dream-Den
@@ -157,8 +157,8 @@
 4 Garrison Cat
 4 Twilight Panther
 4 Necropanther
-4 Regal Leosaur
 4 Charmed Stray
+4 Regal Leosaur
 4 Lurrus of the Dream-Den
 4 Snapdax, Apex of the Hunt
 4 Mountain

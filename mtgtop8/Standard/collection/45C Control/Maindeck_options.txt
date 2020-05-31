@@ -88,14 +88,14 @@
 3 Forest
 4 Leafkin Druid
 4 Risen Reef
-1 Temple of Epiphany
 1 Arboreal Grazer
+1 Temple of Epiphany
 1 Temple of Abandon
 1 Genesis Ultimatum
-2 Temple of Epiphany
 2 Arboreal Grazer
 2 Temple of Abandon
 2 Omnath, Locus of the Roil
+2 Temple of Epiphany
 2 Genesis Ultimatum
 3 Temple of Epiphany
 3 Arboreal Grazer
@@ -105,12 +105,12 @@
 3 Omnath, Locus of the Roil
 3 Genesis Ultimatum
 4 Genesis Ultimatum
-4 Cavalier of Thorns
-4 Arboreal Grazer
+4 Steam Vents
 4 Temple of Epiphany
+4 Arboreal Grazer
+4 Cavalier of Thorns
 4 Agent of Treachery
 4 Temple of Mystery
-4 Steam Vents
 4 Omnath, Locus of the Roil
 4 Stomping Ground
 3 Mythos of Illuna
@@ -145,13 +145,13 @@
 1 Gilded Goose
 2 Gilded Goose
 3 Gilded Goose
+1 Neutralize
 1 Aether Gust
 1 Castle Ardenvale
-1 Neutralize
-2 Castle Vantress
 2 Temple of Enlightenment
-2 Aether Gust
 2 Neutralize
+2 Aether Gust
+2 Castle Vantress
 3 Neutralize
 3 Aether Gust
 4 Shark Typhoon
@@ -161,8 +161,8 @@
 4 Casualties of War
 1 Extinction Event
 1 Disinformation Campaign
-2 Extinction Event
 2 Disinformation Campaign
+2 Extinction Event
 3 Heartless Act
 3 Disinformation Campaign
 4 Agonizing Remorse
@@ -188,47 +188,47 @@
 1 Scampering Scorcher
 1 Rugged Highlands
 1 Evolving Wilds
+1 Wind-Scarred Crag
 1 Thornwood Falls
-1 Blossoming Sands
-1 Teferi's Time Twist
 1 Tranquil Cove
 1 Elite Guardmage
-1 Neoform
 1 Swiftwater Cliffs
-1 Wind-Scarred Crag
 1 Cloudkin Seer
 1 Spark Double
+1 Blossoming Sands
 1 Meteor Golem
 1 Flicker of Fate
 1 Fire Prophecy
 1 Frost Lynx
+1 Neoform
 1 Centaur Peacemaker
+1 Teferi's Time Twist
 2 Scampering Scorcher
+2 Wind-Scarred Crag
 2 Thornwood Falls
 2 Rugged Highlands
 2 Tranquil Cove
-2 Elite Guardmage
 2 Evolving Wilds
-2 Teferi's Time Twist
+2 Elite Guardmage
 2 Swiftwater Cliffs
-2 Wind-Scarred Crag
 2 Cloudkin Seer
 2 Flicker of Fate
 2 Fire Prophecy
 2 Neoform
 2 Blossoming Sands
+2 Teferi's Time Twist
 2 Mountain
 2 Frost Lynx
-3 Plains
 3 Tranquil Cove
-3 Scampering Scorcher
+3 Mountain
 3 Elite Guardmage
+3 Scampering Scorcher
 3 Evolving Wilds
 3 Flicker of Fate
-3 Mountain
 3 Thornwood Falls
 3 Fire Prophecy
 3 Blossoming Sands
+3 Plains
 3 Frost Lynx
 3 Cloudkin Seer
 3 Neoform
@@ -244,28 +244,28 @@
 5 Forest
 1 Time Wipe
 2 Time Wipe
+1 Narset of the Ancient Way
+1 Tale's End
+2 Narset of the Ancient Way
+2 Tale's End
+3 Narset of the Ancient Way
 1 Tyrant's Scorn
 1 Despark
 2 Solar Blaze
 2 Savai Triome
 2 Despark
 3 Solar Blaze
-1 Tale's End
-1 Narset of the Ancient Way
-2 Tale's End
-2 Narset of the Ancient Way
-3 Narset of the Ancient Way
 1 Drown in the Loch
-1 Assassin's Trophy
 1 Temple of Plenty
 1 Polukranos, Unchained
 1 Kunoros, Hound of Athreos
+1 Assassin's Trophy
 2 Drown in the Loch
 4 Gilded Goose
 1 Brazen Borrower
 2 Mystical Dispute
 2 Brazen Borrower
-3 Mystical Dispute
 3 Brazen Borrower
-4 Mystical Dispute
+3 Mystical Dispute
 4 Brazen Borrower
+4 Mystical Dispute
