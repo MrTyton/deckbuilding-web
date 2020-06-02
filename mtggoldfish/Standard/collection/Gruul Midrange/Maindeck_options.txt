@@ -1,38 +1,38 @@
-1 Marauding Raptor
-2 Marauding Raptor
 3 Stonecoil Serpent
 4 Stonecoil Serpent
+4 Marauding Raptor
 1 Migratory Greathorn
 2 Migratory Greathorn
 3 Migratory Greathorn
 4 Migratory Greathorn
-2 Castle Garenbrig
 1 End-Raze Forerunners
-3 Marauding Raptor
-4 Marauding Raptor
+2 Castle Garenbrig
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+4 Pelt Collector
 2 End-Raze Forerunners
+1 Nullhide Ferox
 3 Bonecrusher Giant
-7 Mountain
-8 Mountain
+4 Bonecrusher Giant
+1 God-Eternal Rhonas
+2 God-Eternal Rhonas
 1 Gallia of the Endless Dance
 2 Gallia of the Endless Dance
-4 Bonecrusher Giant
-1 Nullhide Ferox
-1 Robber of the Rich
-2 Robber of the Rich
-3 Robber of the Rich
 1 Domri, Anarch of Bolas
+1 Fabled Passage
 1 Paradise Druid
 2 Paradise Druid
 3 Paradise Druid
-1 God-Eternal Rhonas
-2 God-Eternal Rhonas
-1 Fabled Passage
-1 Bonders' Enclave
+7 Mountain
+8 Mountain
+2 Nullhide Ferox
 3 End-Raze Forerunners
+1 Bonders' Enclave
+2 Fabled Passage
+1 Robber of the Rich
+2 Robber of the Rich
+3 Robber of the Rich
 4 Robber of the Rich
-1 Vivien, Monsters' Advocate
-2 Vivien, Monsters' Advocate
 4 Paradise Druid
 2 Bonders' Enclave
 1 Fires of Invention
@@ -43,8 +43,12 @@
 2 Ketria Triome
 3 Fires of Invention
 3 Ketria Triome
-2 Nullhide Ferox
-2 Fabled Passage
+1 Vivien, Monsters' Advocate
+2 Vivien, Monsters' Advocate
+1 Domri's Ambush
+2 Domri's Ambush
+3 Domri's Ambush
+4 Domri's Ambush
 4 Embercleave
 3 Cavalier of Flame
 4 Fires of Invention
@@ -53,23 +57,14 @@
 1 Keruga, the Macrosage
 1 Thrashing Brontodon
 2 Thrashing Brontodon
+2 Domri, Anarch of Bolas
 1 Fire Prophecy
 2 Fire Prophecy
 2 Quartzwood Crasher
 1 Vivien, Arkbow Ranger
-9 Mountain
-1 Domri's Ambush
-2 Domri's Ambush
-3 Domri's Ambush
-4 Domri's Ambush
 1 Collision/Colossus
-1 Anax, Hardened in the Forge
-2 Anax, Hardened in the Forge
-1 Klothys, God of Destiny
 1 Castle Embereth
-11 Forest
 1 The Great Henge
-2 Domri, Anarch of Bolas
 1 Legion Warboss
 2 Legion Warboss
 3 Legion Warboss
@@ -79,27 +74,22 @@
 1 Bond of Flourishing
 2 Vivien, Arkbow Ranger
 3 Bonders' Enclave
+9 Mountain
 2 Collision/Colossus
-1 Scorching Dragonfire
+1 Anax, Hardened in the Forge
+2 Anax, Hardened in the Forge
+1 Klothys, God of Destiny
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
+11 Forest
 3 Thrashing Brontodon
-1 Mobilized District
-3 Castle Garenbrig
-12 Forest
-13 Forest
-14 Forest
-15 Forest
-16 Forest
-17 Forest
-18 Forest
 3 Fabled Passage
 2 The Great Henge
-2 Scorching Dragonfire
 2 Keruga, the Macrosage
 1 Voracious Hydra
 2 Voracious Hydra
+1 Scorching Dragonfire
 1 Shock
 1 Grafdigger's Cage
 1 Lava Coil
@@ -119,14 +109,6 @@
 3 Cavalier of Thorns
 4 Cavalier of Thorns
 4 Ketria Triome
-1 Kraul Harpooner
-1 Ilysian Caryatid
-2 Kraul Harpooner
-2 Ilysian Caryatid
-3 Kraul Harpooner
-4 Lovestruck Beast
-4 Thrashing Brontodon
-4 Kraul Harpooner
 1 Tin Street Dodger
 1 Fervent Champion
 2 Klothys, God of Destiny
@@ -137,16 +119,33 @@
 3 Fervent Champion
 4 Tin Street Dodger
 4 Fervent Champion
-1 Island
+1 Ilysian Caryatid
+1 Kraul Harpooner
+1 Mobilized District
+2 Ilysian Caryatid
+2 Kraul Harpooner
+3 Castle Garenbrig
+3 Kraul Harpooner
+4 Lovestruck Beast
+4 Thrashing Brontodon
+4 Kraul Harpooner
+12 Forest
+13 Forest
+14 Forest
+15 Forest
+16 Forest
+17 Forest
+18 Forest
 1 Blast Zone
 1 Nissa, Who Shakes the World
 1 Growth Spiral
 1 Breeding Pool
 1 Uro, Titan of Nature's Wrath
 1 Temple of Mystery
-2 Island
+1 Island
 2 Nissa, Who Shakes the World
 2 Growth Spiral
+2 Island
 2 Temple of Mystery
 2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
@@ -158,19 +157,9 @@
 3 Growth Spiral
 3 Island
 4 Temple of Mystery
-4 Nissa, Who Shakes the World
 4 Island
-4 Breeding Pool
+4 Nissa, Who Shakes the World
 4 Fabled Passage
 4 Growth Spiral
 5 Island
-1 Gilded Goose
-1 Barkhide Troll
-2 Mobilized District
-2 Gilded Goose
-2 Barkhide Troll
-3 Barkhide Troll
-3 Gilded Goose
-4 Barkhide Troll
-4 Gilded Goose
-19 Forest
+4 Breeding Pool

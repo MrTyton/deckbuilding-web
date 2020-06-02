@@ -30,8 +30,8 @@
 2 Snow-Covered Island
 2 Misty Rainforest
 3 Snow-Covered Island
-1 Quicken
 1 Day's Undoing
+1 Quicken
 1 Flame Slash
 1 Yidaro, Wandering Monster
 2 Yidaro, Wandering Monster
@@ -79,34 +79,26 @@
 1 Wandering Fumarole
 3 Mana Leak
 3 Sulfur Falls
-1 Wrenn and Six
 1 Search for Azcanta
-1 Nexus of Fate
 1 Wilderness Reclamation
-1 Blast Zone
+1 Nexus of Fate
 1 Pulse of Murasa
 1 Snow-Covered Forest
 1 Uro, Titan of Nature's Wrath
 1 Breeding Pool
+1 Wrenn and Six
+1 Blast Zone
 1 Ketria Triome
-2 Wrenn and Six
-2 Breeding Pool
 2 Wilderness Reclamation
 2 Uro, Titan of Nature's Wrath
+2 Breeding Pool
+2 Wrenn and Six
 2 Ketria Triome
 3 Wrenn and Six
 3 Wilderness Reclamation
 3 Narset, Parter of Veils
 4 Cryptic Command
 4 Wrenn and Six
-1 Counterbalance
-2 Counterbalance
-2 Electrolyze
-3 Omen of the Sea
-3 Counterbalance
-3 Jace, the Mind Sculptor
-4 Omen of the Sea
-4 Counterbalance
 1 Izzet Charm
 1 Noxious Revival
 1 Lightning Axe
@@ -119,6 +111,14 @@
 3 Izzet Charm
 3 Noxious Revival
 4 Izzet Charm
+1 Counterbalance
+2 Counterbalance
+2 Electrolyze
+3 Omen of the Sea
+3 Jace, the Mind Sculptor
+3 Counterbalance
+4 Omen of the Sea
+4 Counterbalance
 3 Bonecrusher Giant
 4 Bonecrusher Giant
 1 Sleight of Hand
@@ -138,19 +138,19 @@
 1 Spreading Seas
 1 Mystical Dispute
 2 Spreading Seas
-3 Spreading Seas
 3 Brazen Borrower
+3 Spreading Seas
 6 Snow-Covered Island
 7 Snow-Covered Island
 1 Emrakul, the Aeons Torn
-1 Through the Breach
 1 Fire Prophecy
+1 Through the Breach
 2 Fire Prophecy
 2 Emrakul, the Aeons Torn
 2 Through the Breach
+3 Fire Prophecy
 3 Emrakul, the Aeons Torn
 3 Through the Breach
-3 Fire Prophecy
 4 Through the Breach
 9 Island
 1 Raugrin Triome

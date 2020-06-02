@@ -1,12 +1,13 @@
-1 Negate
-1 Spectral Sailor
-3 Quench
-1 Essence Scatter
-2 Essence Scatter
 4 Brineborn Cutthroat
 3 Fabled Passage
+4 Sinister Sabotage
+1 Negate
+1 Spectral Sailor
+1 Essence Scatter
+2 Essence Scatter
 1 Aether Gust
 2 Aether Gust
+1 Shark Typhoon
 4 Mystical Dispute
 1 Neutralize
 2 Neutralize
@@ -15,6 +16,7 @@
 1 Paradise Druid
 2 Paradise Druid
 3 Paradise Druid
+1 Ketria Triome
 1 Arboreal Grazer
 1 Auspicious Starrix
 1 Migratory Greathorn
@@ -45,27 +47,24 @@
 10 Forest
 11 Forest
 12 Forest
-1 Ketria Triome
-2 Negate
 1 Illuna, Apex of Wishes
 2 Illuna, Apex of Wishes
 3 Illuna, Apex of Wishes
 4 Illuna, Apex of Wishes
 4 Paradise Druid
-1 Shark Typhoon
 3 Neutralize
 3 Gemrazer
 2 Ketria Triome
-2 Spectral Sailor
+13 Forest
 4 Quench
 1 Sea-Dasher Octopus
 2 Sea-Dasher Octopus
-13 Forest
 3 Essence Scatter
 4 Fabled Passage
 8 Island
 1 Chemister's Insight
 2 Chemister's Insight
+2 Negate
 3 Nissa, Who Shakes the World
 1 Wilderness Reclamation
 2 Wilderness Reclamation
@@ -75,6 +74,8 @@
 1 Opt
 2 Opt
 1 Whirlwind Denial
+2 Shark Typhoon
+2 Spectral Sailor
 1 Thornwood Falls
 2 Thornwood Falls
 1 Leafkin Druid
@@ -122,8 +123,8 @@
 2 Spark Double
 3 Fblthp, the Lost
 3 Thassa, Deep-Dwelling
-3 Migration Path
 3 Dream Eater
+3 Migration Path
 3 Spark Double
 3 Wolfwillow Haven
 3 Gyruda, Doom of Depths
@@ -131,15 +132,14 @@
 4 Thassa, Deep-Dwelling
 4 Spark Double
 4 Wolfwillow Haven
-2 Shark Typhoon
 3 Shark Typhoon
 4 Neutralize
 4 Shark Typhoon
 1 Risen Reef
 1 Vivien, Monsters' Advocate
-1 Incubation / Incongruity
 1 Cloudkin Seer
 1 Ivy Elemental
+1 Incubation / Incongruity
 2 Risen Reef
 2 Cloudkin Seer
 2 Incubation / Incongruity

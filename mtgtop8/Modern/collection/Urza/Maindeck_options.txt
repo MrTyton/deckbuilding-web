@@ -76,17 +76,6 @@
 1 Spreading Seas
 2 Spreading Seas
 3 Pyrite Spellbomb
-1 Thraben Inspector
-1 Ephemerate
-2 Thraben Inspector
-2 Wall of Blossoms
-2 Ephemerate
-3 Thraben Inspector
-3 Ephemerate
-3 Wall of Blossoms
-4 Thraben Inspector
-4 Springleaf Drum
-4 Metallic Rebuke
 1 Zagoth Triome
 1 Overgrown Tomb
 1 Snow-Covered Swamp
@@ -102,8 +91,19 @@
 3 Nihil Spellbomb
 4 Fatal Push
 4 Prismatic Vista
-1 Restoration Angel
+1 Thraben Inspector
+1 Ephemerate
+2 Thraben Inspector
+2 Wall of Blossoms
+2 Ephemerate
+3 Wall of Blossoms
+3 Thraben Inspector
+3 Ephemerate
+4 Metallic Rebuke
+4 Thraben Inspector
+4 Springleaf Drum
 1 Kinnan, Bonder Prodigy
+1 Restoration Angel
 2 Kinnan, Bonder Prodigy
 2 Restoration Angel
 3 Restoration Angel
@@ -113,8 +113,8 @@
 1 Ichor Wellspring
 1 Raugrin Triome
 1 Inventors' Fair
-2 Ichor Wellspring
 2 Raugrin Triome
+2 Ichor Wellspring
 2 Snow-Covered Plains
 2 Sacred Foundry
 2 Soul-Guide Lantern

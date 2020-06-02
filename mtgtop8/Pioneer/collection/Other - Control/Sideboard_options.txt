@@ -1,11 +1,11 @@
 1 Dovin's Veto
 2 Dovin's Veto
-1 Dream Trawler
 3 Dovin's Veto
 1 Supreme Verdict
+1 Dream Trawler
 1 Glare of Heresy
-1 Blessed Alliance
 1 Zirda, the Dawnwaker
+1 Blessed Alliance
 2 Supreme Verdict
 2 Blessed Alliance
 2 Glare of Heresy
@@ -13,11 +13,11 @@
 1 Rest in Peace
 2 Rest in Peace
 3 Rest in Peace
-4 Rest in Peace
 1 Kaya's Wrath
 2 Kaya's Wrath
 3 Kaya's Wrath
 1 Fatal Push
+4 Rest in Peace
 1 Deicide
 2 Deicide
 2 Fatal Push
@@ -34,7 +34,6 @@
 1 Grafdigger's Cage
 2 Grafdigger's Cage
 3 Grafdigger's Cage
-1 Elspeth Conquers Death
 1 Sorcerous Spyglass
 1 Soul-Guide Lantern
 1 Pack Rat
@@ -49,8 +48,6 @@
 1 Kunoros, Hound of Athreos
 1 Despise
 1 Cling to Dust
-1 The Eldest Reborn
-1 Ashiok, Nightmare Muse
 1 Agonizing Remorse
 1 Thraben Inspector
 1 Duress
@@ -58,41 +55,7 @@
 1 Kambal, Consul of Allocation
 2 Kambal, Consul of Allocation
 2 Davriel, Rogue Shadowmage
-2 Elspeth Conquers Death
-3 Disdainful Stroke
 1 Ashiok, Dream Render
-1 Kalitas, Traitor of Ghet
-1 Ritual of Soot
-1 Languish
-1 Blightbeetle
-1 Noxious Grasp
-1 Slaughter Games
-2 Kalitas, Traitor of Ghet
-2 Ashiok, Dream Render
-2 Slaughter Games
-2 Blightbeetle
-2 Noxious Grasp
-3 Blightbeetle
-2 Legion's End
-3 Unmoored Ego
-3 Legion's End
-1 Liliana's Triumph
-1 Lurrus of the Dream-Den
-1 Dead Weight
-1 Jace's Defeat
-2 Dead Weight
-2 Jace's Defeat
-2 Liliana's Triumph
-3 Liliana's Triumph
-1 Infinite Obliteration
-1 Leyline of the Void
-1 Murderous Rider
-2 Infinite Obliteration
-2 Leyline of the Void
-3 Leyline of the Void
-4 Kaya's Wrath
-4 Leyline of the Void
-4 Grafdigger's Cage
 1 Disinformation Campaign
 1 Deputy of Detention
 1 Blood Baron of Vizkopa
@@ -103,3 +66,38 @@
 1 The Elderspell
 2 Enter the God-Eternals
 2 Absorb
+1 Elspeth Conquers Death
+2 Elspeth Conquers Death
+3 Disdainful Stroke
+2 Legion's End
+3 Unmoored Ego
+3 Legion's End
+1 Liliana's Triumph
+1 Dead Weight
+1 Lurrus of the Dream-Den
+1 Jace's Defeat
+2 Dead Weight
+2 Liliana's Triumph
+2 Jace's Defeat
+3 Liliana's Triumph
+4 Grafdigger's Cage
+1 Infinite Obliteration
+1 Leyline of the Void
+1 Murderous Rider
+2 Infinite Obliteration
+2 Leyline of the Void
+3 Leyline of the Void
+4 Kaya's Wrath
+4 Leyline of the Void
+1 Kalitas, Traitor of Ghet
+1 Ritual of Soot
+1 Languish
+1 Blightbeetle
+1 Noxious Grasp
+1 Slaughter Games
+2 Kalitas, Traitor of Ghet
+2 Ashiok, Dream Render
+2 Blightbeetle
+2 Noxious Grasp
+3 Blightbeetle
+2 Slaughter Games

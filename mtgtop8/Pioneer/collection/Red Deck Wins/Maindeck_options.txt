@@ -1,25 +1,25 @@
 4 Viashino Pyromancer
-1 Shock
+2 Ash Zealot
 1 Collective Defiance
 2 Collective Defiance
 8 Mountain
-1 Bonecrusher Giant
-1 Rampaging Ferocidon
 1 Castle Embereth
 1 Ramunap Ruins
-2 Bonecrusher Giant
-2 Rampaging Ferocidon
-2 Shock
+1 Rampaging Ferocidon
+1 Bonecrusher Giant
 2 Ramunap Ruins
+2 Rampaging Ferocidon
+2 Bonecrusher Giant
+2 Shock
+3 Rampaging Ferocidon
+3 Ramunap Ruins
 3 Bonecrusher Giant
 3 Shock
 3 Collective Defiance
-3 Ramunap Ruins
-3 Rampaging Ferocidon
 4 Bonecrusher Giant
+4 Ramunap Ruins
 4 Rampaging Ferocidon
 4 Collective Defiance
-4 Ramunap Ruins
 4 Shock
 9 Mountain
 10 Mountain
@@ -39,13 +39,14 @@
 3 Bomat Courier
 4 Bomat Courier
 1 Chandra, Fire of Kaladesh
-17 Mountain
 1 Skewer the Critics
-2 Mutavault
-2 Castle Embereth
 1 Blood Crypt
+17 Mountain
+2 Castle Embereth
+2 Mutavault
 1 Goblin Chainwhirler
 2 Goblin Chainwhirler
+1 Anax, Hardened in the Forge
 1 Boros Reckoner
 1 Reckless Rage
 1 Skysovereign, Consul Flagship
@@ -59,4 +60,5 @@
 2 Ahn-Crop Crasher
 3 Ahn-Crop Crasher
 4 Ahn-Crop Crasher
-1 Anax, Hardened in the Forge
+1 Searing Blood
+2 Searing Blood
