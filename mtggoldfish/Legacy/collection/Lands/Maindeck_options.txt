@@ -21,8 +21,8 @@
 2 Misty Rainforest
 1 Urborg, Tomb of Yawgmoth
 1 Lightning Bolt
-1 Grafdigger's Cage
 1 Pyroblast
+1 Grafdigger's Cage
 2 Lightning Bolt
 2 Grafdigger's Cage
 3 Field of the Dead
@@ -30,10 +30,10 @@
 1 Sphere of Resistance
 2 Sphere of Resistance
 2 Ghost Quarter
-1 Oko, Thief of Crowns
 1 Waterlogged Grove
-2 Oko, Thief of Crowns
+1 Oko, Thief of Crowns
 2 Windswept Heath
+2 Oko, Thief of Crowns
 3 Oko, Thief of Crowns
 1 Barbarian Ring
 1 Sheltered Thicket
@@ -46,8 +46,8 @@
 1 Swamp
 1 Urza's Bauble
 1 Entomb
-1 Barren Moor
 1 Vampire Hexmage
+1 Barren Moor
 2 Vampire Hexmage
 1 Hall of Heliod's Generosity
 2 Blast Zone
@@ -55,13 +55,11 @@
 1 Klothys, God of Destiny
 2 Klothys, God of Destiny
 3 Ghost Quarter
-2 Nurturing Peatland
-3 Sphere of Resistance
-1 Inquisition of Kozilek
 1 Tolaria West
 1 Creeping Tar Pit
 1 Smallpox
 1 Thoughtseize
+1 Inquisition of Kozilek
 1 Raven's Crime
 1 Polluted Delta
 1 Worm Harvest
@@ -70,14 +68,16 @@
 2 Smallpox
 2 Thoughtseize
 3 Smallpox
-1 Sejiri Steppe
+2 Nurturing Peatland
+3 Sphere of Resistance
+1 Overgrown Tomb
+2 Entomb
+3 Entomb
+1 Volrath's Stronghold
+4 Bayou
 1 Snow-Covered Swamp
+1 Sejiri Steppe
 3 Misty Rainforest
 3 Elvish Reclaimer
 3 Dark Confidant
 4 Dark Confidant
-1 Volrath's Stronghold
-4 Bayou
-1 Overgrown Tomb
-2 Entomb
-3 Entomb

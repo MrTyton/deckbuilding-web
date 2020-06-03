@@ -1,10 +1,10 @@
-2 Island
-3 Island
-4 Island
-5 Island
-1 Snow-Covered Plains
+2 Snow-Covered Island
+3 Snow-Covered Island
+4 Snow-Covered Island
+5 Snow-Covered Island
 2 Scalding Tarn
 6 Island
+1 Snow-Covered Plains
 6 Snow-Covered Island
 1 Misty Rainforest
 4 Mystic Sanctuary
@@ -13,9 +13,14 @@
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
-1 Oust
-1 Telling Time
+1 Snapcaster Mage
+2 Snapcaster Mage
+4 Archmage's Charm
+3 Scalding Tarn
+4 Scalding Tarn
 1 Omen of the Sun
+1 Telling Time
+1 Oust
 2 Snow-Covered Plains
 2 Omen of the Sun
 2 Oust
@@ -26,11 +31,6 @@
 3 Mishra's Bauble
 4 Mishra's Bauble
 1 Mana Leak
-1 Snapcaster Mage
-2 Snapcaster Mage
-4 Archmage's Charm
-3 Scalding Tarn
-4 Scalding Tarn
 1 Field of Ruin
 2 Field of Ruin
 3 Logic Knot
@@ -45,26 +45,36 @@
 1 Teferi, Hero of Dominaria
 3 Teferi, Time Raveler
 4 Arcum's Astrolabe
+2 Spell Snare
 3 Field of Ruin
 4 Field of Ruin
 1 Timely Reinforcements
-2 Spell Snare
-1 Batterskull
-1 Celestial Colonnade
-1 Stoneforge Mystic
-1 Sword of Feast and Famine
-1 Prismatic Vista
-2 Stoneforge Mystic
-2 Celestial Colonnade
 3 Snapcaster Mage
-3 Stoneforge Mystic
-3 Celestial Colonnade
 4 Snapcaster Mage
+1 Prismatic Vista
+1 Sword of Feast and Famine
+1 Celestial Colonnade
+1 Batterskull
+1 Stoneforge Mystic
+2 Celestial Colonnade
+2 Stoneforge Mystic
+3 Celestial Colonnade
+3 Stoneforge Mystic
 4 Force of Negation
-4 Stoneforge Mystic
 4 Celestial Colonnade
+4 Stoneforge Mystic
 4 Jace, the Mind Sculptor
 8 Snow-Covered Island
 1 Chart a Course
 2 Plains
 3 Hallowed Fountain
+1 Electrolyze
+1 Mountain
+1 Lightning Bolt
+2 Steam Vents
+2 Electrolyze
+2 Lightning Bolt
+3 Steam Vents
+3 Lightning Bolt
+4 Steam Vents
+4 Lightning Bolt

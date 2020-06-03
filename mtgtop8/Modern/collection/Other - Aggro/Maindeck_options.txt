@@ -21,7 +21,6 @@
 1 Polluted Delta
 2 Polluted Delta
 3 Polluted Delta
-1 Spirebluff Canal
 1 Delver of Secrets
 1 Watery Grave
 1 Serum Visions
@@ -31,6 +30,7 @@
 1 Darkslick Shores
 1 Drown in the Loch
 1 Force of Negation
+1 Spirebluff Canal
 1 Steam Vents
 1 Sprite Dragon
 1 Snapcaster Mage
@@ -110,9 +110,9 @@
 3 Thoughtseize
 4 Sunbaked Canyon
 1 Kiln Fiend
+1 Drowned Catacomb
 1 Murderous Cut
 1 Spell Snare
-1 Drowned Catacomb
 2 Spell Snare
 2 Dreadhorde Arcanist
 3 Dreadhorde Arcanist
@@ -149,8 +149,8 @@
 1 Fiend Artisan
 1 Castle Locthwain
 1 Lightning Skelemental
-2 Castle Locthwain
 2 Liliana of the Veil
+2 Castle Locthwain
 2 Fiend Artisan
 2 Lightning Skelemental
 3 Liliana of the Veil
@@ -181,11 +181,11 @@
 1 Inspiring Vantage
 1 Magnetic Theft
 2 Stoneforge Mystic
+2 Shadowspear
 2 Giver of Runes
 2 Sacred Foundry
 2 Steelshaper's Gift
 2 Plains
-2 Shadowspear
 2 Inkmoth Nexus
 2 Kor Outfitter
 2 Inspiring Vantage
@@ -195,6 +195,7 @@
 2 Magnetic Theft
 2 Kor Duelist
 3 Stoneforge Mystic
+3 Spellskite
 3 Giver of Runes
 3 Inspiring Vantage
 3 Magnetic Theft
@@ -205,10 +206,10 @@
 3 Steelshaper's Gift
 3 Sigarda's Aid
 3 Kor Outfitter
-3 Spellskite
 3 Inkmoth Nexus
 4 Plains
 4 Stoneforge Mystic
+4 Colossus Hammer
 4 Sigarda's Aid
 4 Kor Duelist
 4 Spellskite
@@ -216,7 +217,6 @@
 4 Magnetic Theft
 4 Steelshaper's Gift
 4 Giver of Runes
-4 Colossus Hammer
 4 Inkmoth Nexus
 4 Sacred Foundry
 5 Plains

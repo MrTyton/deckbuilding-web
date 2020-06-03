@@ -22,8 +22,8 @@
 2 Scavenging Ooze
 1 Chevill, Bane of Monsters
 1 Dreadbore
-1 Kroxa, Titan of Death's Hunger
 1 Blood Crypt
+1 Kroxa, Titan of Death's Hunger
 1 Kolaghan's Command
 1 Soul-Guide Lantern
 1 Grim Flayer
@@ -33,23 +33,23 @@
 1 Stomping Ground
 1 Satyr Wayfinder
 2 Chevill, Bane of Monsters
-2 Kroxa, Titan of Death's Hunger
-2 Blood Crypt
-2 Soul-Guide Lantern
 2 Grim Flayer
+2 Blood Crypt
+2 Kroxa, Titan of Death's Hunger
+2 Soul-Guide Lantern
 2 Dead Weight
 2 Satyr Wayfinder
 2 Unbridled Growth
 2 Stomping Ground
 2 Abrupt Decay
+3 Grim Flayer
 3 Kroxa, Titan of Death's Hunger
 3 Blood Crypt
-3 Grim Flayer
 3 Stomping Ground
 3 Unbridled Growth
 3 Satyr Wayfinder
-4 Blood Crypt
 4 Grim Flayer
+4 Blood Crypt
 4 Unbridled Growth
 4 Satyr Wayfinder
 4 Mana Confluence
@@ -61,10 +61,10 @@
 3 Inspiring Vantage
 3 Plains
 1 Clifftop Retreat
-1 Battlefield Forge
 1 Sacred Foundry
-2 Mountain
+1 Battlefield Forge
 2 Sacred Foundry
+2 Mountain
 2 Battlefield Forge
 3 Battlefield Forge
 3 Sacred Foundry
@@ -139,8 +139,8 @@
 1 Steel Overseer
 1 The Ozolith
 2 Metallic Mimic
-2 Winding Constrictor
 2 Steel Overseer
+2 Winding Constrictor
 2 The Ozolith
 2 Llanowar Wastes
 3 Metallic Mimic
@@ -210,6 +210,7 @@
 3 Clifftop Retreat
 1 Reflector Mage
 1 Castle Embereth
+1 Steam Vents
 1 Agent of Treachery
 1 Winota, Joiner of Forces
 1 Lavinia of the Tenth
@@ -217,7 +218,6 @@
 1 Chandra, Acolyte of Flame
 1 Bonecrusher Giant
 1 Cloudblazer
-1 Steam Vents
 1 Blast Zone
 1 Temple of Triumph
 1 Chained to the Rocks
@@ -225,22 +225,24 @@
 1 Goblin Instigator
 1 Fire Prophecy
 2 Reflector Mage
-2 Agent of Treachery
 2 Castle Embereth
+2 Steam Vents
+2 Agent of Treachery
 2 Chandra, Acolyte of Flame
+2 Phyrexian Revoker
 2 Winota, Joiner of Forces
 2 Bonecrusher Giant
 2 Cloudblazer
-2 Phyrexian Revoker
 2 Blast Zone
-2 Steam Vents
 2 Hanged Executioner
 2 Goblin Instigator
 2 Fire Prophecy
 2 Lavinia of the Tenth
 2 Chained to the Rocks
 3 Reflector Mage
+3 Steam Vents
 3 Agent of Treachery
+3 Raugrin Triome
 3 Winota, Joiner of Forces
 3 Fire Prophecy
 3 Blast Zone
@@ -252,11 +254,10 @@
 3 Phyrexian Revoker
 3 Chandra, Acolyte of Flame
 3 Hanged Executioner
-3 Raugrin Triome
-3 Steam Vents
 3 Goblin Instigator
 4 Reflector Mage
 4 Steam Vents
+4 Raugrin Triome
 4 Agent of Treachery
 4 Blast Zone
 4 Winota, Joiner of Forces
@@ -264,23 +265,22 @@
 4 Goblin Instigator
 4 Hanged Executioner
 4 Clifftop Retreat
-4 Raugrin Triome
 4 Castle Embereth
 4 Chained to the Rocks
 1 Trial of Ambition
 1 Silkwrap
 1 Omen of the Sea
 1 Spell Queller
-1 Wasteland Strangler
 1 Archon of Sun's Grace
-1 Wastes
 1 Ulamog's Nullifier
 1 Elspeth Conquers Death
 1 Thought-Knot Seer
 1 Charming Prince
+1 Wastes
 1 Ipnu Rivulet
 1 Brain Maggot
 1 Shefet Dunes
+1 Wasteland Strangler
 2 Trial of Ambition
 2 Silkwrap
 2 Omen of the Sea
@@ -302,12 +302,12 @@
 3 Spell Queller
 3 Thought-Knot Seer
 3 Charming Prince
-4 Eldrazi Displacer
 4 Silkwrap
 4 Omen of the Sea
 4 Brain Maggot
 4 Spell Queller
 4 Charming Prince
+4 Eldrazi Displacer
 4 Wasteland Strangler
 4 Thought-Knot Seer
 1 Castle Locthwain
@@ -328,54 +328,54 @@
 4 Gird for Battle
 2 Island
 1 Irrigated Farmland
-1 Flourishing Fox
-1 Azorius Charm
 1 Censor
-1 Hieroglyphic Illumination
 1 Zenith Flare
+1 Flourishing Fox
+1 Hieroglyphic Illumination
 1 Castle Vantress
-1 Sulfur Falls
+1 Azorius Charm
 1 Nimble Obstructionist
 1 Cast Out
-1 Shark Typhoon
 1 Neutralize
+1 Sulfur Falls
+1 Shark Typhoon
 1 Supreme Verdict
 2 Irrigated Farmland
 2 Hieroglyphic Illumination
-2 Zenith Flare
 2 Flourishing Fox
 2 Censor
-2 Azorius Charm
+2 Zenith Flare
 2 Nimble Obstructionist
 2 Cast Out
 2 Neutralize
+2 Azorius Charm
 2 Sulfur Falls
 2 Shark Typhoon
 2 Supreme Verdict
 3 Irrigated Farmland
-3 Flourishing Fox
+3 Cast Out
 3 Censor
-3 Zenith Flare
-3 Azorius Charm
 3 Island
+3 Zenith Flare
 3 Hieroglyphic Illumination
 3 Neutralize
-3 Cast Out
+3 Flourishing Fox
+3 Azorius Charm
 3 Sulfur Falls
 3 Shark Typhoon
 4 Irrigated Farmland
+4 Cast Out
+4 Neutralize
+4 Flourishing Fox
 4 Sulfur Falls
 4 Hieroglyphic Illumination
-4 Neutralize
-4 Cast Out
 4 Zenith Flare
-4 Flourishing Fox
-4 Azorius Charm
 4 Censor
+4 Azorius Charm
 4 Shark Typhoon
 1 Gilded Goose
-1 Shalai, Voice of Plenty
 1 Collected Company
+1 Shalai, Voice of Plenty
 1 Splendor Mare
 1 Zirda, the Dawnwaker
 1 Duskwatch Recruiter
@@ -393,50 +393,50 @@
 4 Collected Company
 4 Duskwatch Recruiter
 4 Gods Willing
+1 Castle Ardenvale
+1 Karn, Scion of Urza
+1 Heart of Kiran
+1 Pack Rat
+1 Shambling Vent
+2 Karn, Scion of Urza
+2 Heart of Kiran
+2 Pack Rat
+2 Shambling Vent
+3 Karn, Scion of Urza
+3 Heart of Kiran
+3 Pack Rat
+4 Scrapheap Scrounger
+4 Pack Rat
+4 Karn, Scion of Urza
+1 Fetid Pools
+1 Choked Estuary
 1 Drowned Catacomb
 1 Metallic Rebuke
-1 Fetid Pools
 1 Cauldron Familiar
-1 Choked Estuary
 1 Witch's Oven
-2 Metallic Rebuke
+2 Fetid Pools
 2 Choked Estuary
+2 Metallic Rebuke
 2 Witch's Oven
 2 Cauldron Familiar
-2 Fetid Pools
 3 Choked Estuary
 3 Cauldron Familiar
 3 Witch's Oven
 4 Choked Estuary
 4 Cauldron Familiar
 4 Witch's Oven
-1 Castle Ardenvale
-1 Heart of Kiran
-1 Pack Rat
-1 Karn, Scion of Urza
-1 Shambling Vent
-2 Heart of Kiran
-2 Pack Rat
-2 Shambling Vent
-2 Karn, Scion of Urza
-3 Heart of Kiran
-3 Pack Rat
-3 Karn, Scion of Urza
-4 Scrapheap Scrounger
-4 Pack Rat
-4 Karn, Scion of Urza
-1 Curious Obsession
 1 Springleaf Drum
+1 Curious Obsession
 1 Alseid of Life's Bounty
 1 Sram, Senior Edificer
 1 Ethereal Armor
+2 Springleaf Drum
 2 Curious Obsession
 2 Alseid of Life's Bounty
 2 Sram, Senior Edificer
 2 Ethereal Armor
-2 Springleaf Drum
-3 Curious Obsession
 3 Springleaf Drum
+3 Curious Obsession
 3 Alseid of Life's Bounty
 3 Sram, Senior Edificer
 3 Ethereal Armor
@@ -445,8 +445,8 @@
 4 Alseid of Life's Bounty
 4 Ethereal Armor
 5 Swamp
-1 Gutterbones
 1 Garrison Cat
+1 Gutterbones
 1 Fiend Artisan
 1 Stitcher's Supplier
 1 Cartel Aristocrat
@@ -456,8 +456,8 @@
 1 Hunted Witness
 1 Zulaport Cutthroat
 1 Priest of Forgotten Gods
-2 Gutterbones
 2 Garrison Cat
+2 Gutterbones
 2 Stitcher's Supplier
 2 Fiend Artisan
 2 Priest of Forgotten Gods
@@ -504,9 +504,9 @@
 2 Oathsworn Vampire
 2 Castle Locthwain
 3 Murderous Rider
+3 Gifted Aetherborn
 3 Dusk Legion Zealot
 3 Sorin, Imperious Bloodlord
-3 Gifted Aetherborn
 3 Blood Baron of Vizkopa
 3 Castle Locthwain
 4 Dusk Legion Zealot

@@ -4,9 +4,9 @@
 1 Gideon of the Trials
 2 Castle Locthwain
 5 Swamp
+4 The Birth of Meletis
 3 Elspeth's Nightmare
 4 Caves of Koilos
-4 The Birth of Meletis
 1 Kaya's Wrath
 1 Agonizing Remorse
 2 Agonizing Remorse
@@ -15,66 +15,67 @@
 1 Thraben Inspector
 2 Thraben Inspector
 3 Thraben Inspector
+3 Fatal Push
 4 Thraben Inspector
-1 Island
 1 Hallowed Fountain
 2 Hallowed Fountain
 3 Hallowed Fountain
 4 Hallowed Fountain
-1 Fabled Passage
-2 Fabled Passage
+1 Island
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
-1 Elspeth Conquers Death
 1 Omen of the Sea
-2 Elspeth Conquers Death
 2 Omen of the Sea
 3 Omen of the Sea
 4 Omen of the Sea
 4 Teferi, Time Raveler
+1 Fabled Passage
+2 Fabled Passage
 1 Supreme Verdict
-3 Fabled Passage
-4 Fabled Passage
 2 Supreme Verdict
 1 Glacial Fortress
 2 Glacial Fortress
+1 Elspeth Conquers Death
+2 Elspeth Conquers Death
+3 Fabled Passage
+4 Fabled Passage
 3 Supreme Verdict
 4 Supreme Verdict
 2 Island
 1 Teferi, Hero of Dominaria
 2 Teferi, Hero of Dominaria
+1 Baffling End
+2 Baffling End
+3 Elspeth Conquers Death
 1 Opt
 2 Opt
 3 Opt
 4 Opt
 1 Detention Sphere
-1 Baffling End
 1 Nissa, Vastwood Seer
 1 Sunpetal Grove
 1 Lumbering Falls
 1 Courser of Kruphix
-1 Growth Spiral
-1 Satyr Wayfinder
-1 Temple Garden
-1 Uro, Titan of Nature's Wrath
-1 Hinterland Harbor
 1 Breeding Pool
+1 Growth Spiral
+1 Uro, Titan of Nature's Wrath
+1 Temple Garden
 1 Forest
+1 Satyr Wayfinder
+1 Hinterland Harbor
 2 Detention Sphere
-2 Baffling End
 2 Courser of Kruphix
 2 Lumbering Falls
 2 Sunpetal Grove
-2 Growth Spiral
+2 Nissa, Vastwood Seer
 2 Hinterland Harbor
 2 Forest
-2 Nissa, Vastwood Seer
-2 Uro, Titan of Nature's Wrath
 2 Satyr Wayfinder
-2 Temple Garden
 2 Breeding Pool
-3 Elspeth Conquers Death
+2 Uro, Titan of Nature's Wrath
+2 Growth Spiral
+2 Temple Garden
 3 Temple Garden
 3 Teferi, Hero of Dominaria
 3 Baffling End
@@ -85,70 +86,73 @@
 4 Baffling End
 4 Temple Garden
 4 Growth Spiral
-4 Breeding Pool
 4 Uro, Titan of Nature's Wrath
-3 Fatal Push
+4 Breeding Pool
 1 Final Payment
 1 Starfield of Nyx
-3 Satyr Wayfinder
-4 Satyr Wayfinder
 4 Fatal Push
-1 Duress
-2 Duress
-4 Treacherous Blessing
 1 Watery Grave
 2 Watery Grave
 3 Watery Grave
 4 Watery Grave
+3 Satyr Wayfinder
+4 Satyr Wayfinder
+1 Duress
+2 Duress
+4 Treacherous Blessing
+3 Glacial Fortress
+1 Azorius Charm
 1 Shark Typhoon
 2 Shark Typhoon
 3 Shark Typhoon
-1 Azorius Charm
 1 Clifftop Retreat
 1 Irrigated Farmland
-1 Neutralize
-1 Cast Out
-1 Nimble Obstructionist
 1 Sulfur Falls
-1 Castle Vantress
-1 Zenith Flare
-1 Hieroglyphic Illumination
-1 Censor
 1 Raugrin Triome
-1 Flourishing Fox
 2 Clifftop Retreat
 2 Irrigated Farmland
 2 Sulfur Falls
+2 Azorius Charm
+2 Raugrin Triome
+3 Sulfur Falls
+3 Irrigated Farmland
+3 Clifftop Retreat
+3 Azorius Charm
+4 Irrigated Farmland
+4 Azorius Charm
+1 Neutralize
+1 Cast Out
+1 Nimble Obstructionist
+1 Castle Vantress
+1 Hieroglyphic Illumination
+1 Flourishing Fox
+1 Zenith Flare
+1 Censor
 2 Neutralize
 2 Cast Out
 2 Nimble Obstructionist
-2 Azorius Charm
+2 Zenith Flare
 2 Censor
 2 Flourishing Fox
-2 Raugrin Triome
-2 Zenith Flare
 2 Hieroglyphic Illumination
-3 Irrigated Farmland
-3 Sulfur Falls
-3 Clifftop Retreat
-3 Cast Out
+3 Flourishing Fox
 3 Neutralize
 3 Hieroglyphic Illumination
-3 Island
-3 Azorius Charm
 3 Zenith Flare
+3 Island
 3 Censor
-3 Flourishing Fox
-4 Irrigated Farmland
+3 Cast Out
 4 Censor
 4 Shark Typhoon
-4 Azorius Charm
-4 Flourishing Fox
 4 Zenith Flare
-4 Cast Out
-4 Neutralize
 4 Hieroglyphic Illumination
 4 Sulfur Falls
+4 Flourishing Fox
+4 Neutralize
+4 Cast Out
+1 Drowned Catacomb
+2 Drowned Catacomb
+3 Drowned Catacomb
 1 Underworld Connections
 1 Easy Prey
 2 Kaya's Wrath
@@ -160,31 +164,30 @@
 6 Swamp
 1 Concealed Courtyard
 2 Concealed Courtyard
-1 Drowned Catacomb
-2 Drowned Catacomb
-3 Glacial Fortress
-3 Drowned Catacomb
-1 Discovery / Dispersal
-2 Discovery / Dispersal
-1 Kolaghan's Command
-1 Foreboding Ruins
-1 Blood Crypt
-1 Kroxa, Titan of Death's Hunger
-1 Dreadbore
-1 Mountain
-2 Dreadbore
-2 Blood Crypt
-2 Kroxa, Titan of Death's Hunger
-2 Mountain
-2 Kolaghan's Command
-3 Dreadbore
-3 Blood Crypt
-3 Kroxa, Titan of Death's Hunger
-3 Discovery / Dispersal
-4 Blood Crypt
-4 Kroxa, Titan of Death's Hunger
-4 Discovery / Dispersal
-4 Dreadbore
+4 Drowned Catacomb
+4 Glacial Fortress
+1 Castle Ardenvale
+1 Gideon, Ally of Zendikar
+2 Gideon, Ally of Zendikar
+3 Gideon of the Trials
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
+3 Narset, Parter of Veils
+4 Narset, Parter of Veils
+1 Dovin's Veto
+1 Thought Erasure
+2 Thought Erasure
+3 Thought Erasure
+4 Thought Erasure
+1 Oath of Jace
+1 Ashiok, Nightmare Muse
+1 Geier Reach Sanitarium
+2 Geier Reach Sanitarium
+2 Oath of Jace
+2 Ashiok, Nightmare Muse
+2 Dovin's Veto
+3 Dovin's Veto
+4 Dovin's Veto
 1 Blast Zone
 2 History of Benalia
 2 Temple of Silence
@@ -196,22 +199,40 @@
 3 Temple of Deceit
 4 Temple of Deceit
 4 Elspeth's Nightmare
+1 Lukka, Coppercoat Outcast
+1 Agent of Treachery
+1 Elspeth, Sun's Nemesis
+1 Deafening Clarion
+1 Steam Vents
+1 Interplanar Beacon
+1 Sacred Foundry
+2 Interplanar Beacon
+2 Lukka, Coppercoat Outcast
+2 Agent of Treachery
+2 Castle Ardenvale
+2 Elspeth, Sun's Nemesis
+2 Deafening Clarion
+2 Sacred Foundry
+2 Steam Vents
+3 Deafening Clarion
+3 Interplanar Beacon
+3 Lukka, Coppercoat Outcast
+3 Gideon, Ally of Zendikar
+3 Raugrin Triome
+3 Steam Vents
+4 Interplanar Beacon
+4 Lukka, Coppercoat Outcast
+4 Raugrin Triome
 1 Kaya, Orzhov Usurper
 1 Thirst for Meaning
 1 Oath of Liliana
-1 Gideon, Ally of Zendikar
 2 Kaya, Orzhov Usurper
 2 Thirst for Meaning
-2 Gideon, Ally of Zendikar
 3 Thirst for Meaning
-3 Gideon of the Trials
-4 Gideon of the Trials
 4 Thirst for Meaning
-4 Glacial Fortress
-4 Drowned Catacomb
+4 Gideon of the Trials
 1 Mass Manipulation
 4 Teferi, Hero of Dominaria
-1 Castle Ardenvale
 1 Cling to Dust
 2 Final Payment
 2 Cling to Dust
@@ -219,40 +240,18 @@
 4 Starfield of Nyx
 7 Plains
 7 Swamp
-1 Bonecrusher Giant
-1 Liliana, the Last Hope
-1 Dragonskull Summit
-1 Chandra, Torch of Defiance
-1 Goblin Dark-Dwellers
-1 Canyon Slough
-2 Liliana, the Last Hope
-2 Bonecrusher Giant
-2 Foreboding Ruins
-2 Dragonskull Summit
-2 Chandra, Torch of Defiance
-2 Goblin Dark-Dwellers
-2 Canyon Slough
-3 Bonecrusher Giant
-3 Kolaghan's Command
-3 Dragonskull Summit
-3 Foreboding Ruins
-3 Canyon Slough
-3 Mountain
-4 Bonecrusher Giant
-4 Dragonskull Summit
+1 Discovery / Dispersal
+2 Discovery / Dispersal
 1 Sphinx's Revelation
 1 Anguished Unmaking
 1 Reflector Mage
 1 Elite Guardmage
-1 Dovin's Veto
 1 Dream Trawler
 1 Hero of Precinct One
 1 Mortify
-1 Thought Erasure
 1 Spell Queller
 1 Deputy of Detention
 1 Tyrant's Scorn
-2 Thought Erasure
 2 Reflector Mage
 2 Elite Guardmage
 2 Dream Trawler
@@ -261,21 +260,38 @@
 2 Hero of Precinct One
 2 Spell Queller
 3 Hero of Precinct One
-3 Thought Erasure
 4 Hero of Precinct One
-4 Thought Erasure
+1 Jace, Vryn's Prodigy
+1 Kolaghan's Command
 1 Strategic Planning
 1 Heartless Act
-1 Jace, Vryn's Prodigy
-1 Soul-Guide Lantern
 1 Spirebluff Canal
-2 Strategic Planning
-2 Heartless Act
+1 Foreboding Ruins
+1 Kroxa, Titan of Death's Hunger
+1 Blood Crypt
+1 Soul-Guide Lantern
+1 Dreadbore
+1 Mountain
 2 Jace, Vryn's Prodigy
+2 Strategic Planning
+2 Dreadbore
+2 Heartless Act
+2 Kroxa, Titan of Death's Hunger
 2 Spirebluff Canal
+2 Blood Crypt
+2 Mountain
+2 Kolaghan's Command
 3 Jace, Vryn's Prodigy
-3 Strategic Planning
+3 Dreadbore
 3 Spirebluff Canal
+3 Blood Crypt
+3 Kroxa, Titan of Death's Hunger
+3 Discovery / Dispersal
+3 Strategic Planning
 4 Jace, Vryn's Prodigy
 4 Spirebluff Canal
+4 Blood Crypt
+4 Kroxa, Titan of Death's Hunger
+4 Discovery / Dispersal
+4 Dreadbore
 4 Strategic Planning

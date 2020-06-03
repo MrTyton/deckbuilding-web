@@ -5,16 +5,20 @@
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
+1 Ghost Quarter
 1 Inquisition of Kozilek
 1 Misty Rainforest
-1 Ghost Quarter
-2 Sylvan Safekeeper
-2 Misty Rainforest
 1 Life from the Loam
+2 Sylvan Safekeeper
+1 Duress
+2 Misty Rainforest
 2 Life from the Loam
 4 Wasteland
 1 Green Sun's Zenith
 4 Once Upon a Time
+1 Lotus Petal
+2 Lotus Petal
+3 Lotus Petal
 1 Khalni Garden
 1 Satyr Wayfinder
 1 Dryad Arbor
@@ -29,26 +33,22 @@
 4 Satyr Wayfinder
 1 Expedition Map
 2 Inquisition of Kozilek
-1 Lotus Petal
 1 Stitcher's Supplier
-2 Lotus Petal
 2 Stitcher's Supplier
-3 Lotus Petal
 3 Stitcher's Supplier
 4 Stitcher's Supplier
 1 Uro, Titan of Nature's Wrath
 1 Oko, Thief of Crowns
+1 Underground Sea
 1 Brainstorm
 1 Tropical Island
 1 Waterlogged Grove
-1 Underground Sea
 2 Oko, Thief of Crowns
 2 Brainstorm
 2 Tropical Island
 3 Oko, Thief of Crowns
 3 Brainstorm
 4 Brainstorm
-1 Duress
 1 Hymn to Tourach
 2 Hymn to Tourach
 1 Elvish Spirit Guide
@@ -63,9 +63,21 @@
 2 Duress
 3 Duress
 4 Duress
+1 Exploration
+1 Dark Ritual
+1 Pithing Needle
+2 Urza's Bauble
+2 Dark Ritual
+2 Pithing Needle
+3 Urza's Bauble
+3 Pithing Needle
+3 Dark Ritual
+4 Lotus Petal
+4 Urza's Bauble
+4 Dark Ritual
+1 Scavenging Ooze
 1 Ramunap Excavator
 1 Blast Zone
-1 Scavenging Ooze
 1 Primeval Titan
 1 Field of the Dead
 1 Volrath's Stronghold
@@ -74,12 +86,12 @@
 1 Grasping Dunes
 1 Castle Locthwain
 1 Polukranos, Unchained
+1 Cavern of Souls
 1 Collector Ouphe
 1 Ancient Tomb
 1 Windswept Heath
-1 Cavern of Souls
-2 Primeval Titan
 2 Forest
+2 Primeval Titan
 2 Field of the Dead
 2 Fierce Empath
 2 Windswept Heath

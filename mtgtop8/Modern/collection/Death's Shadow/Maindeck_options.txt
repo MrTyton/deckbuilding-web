@@ -17,9 +17,9 @@
 2 Become Immense
 2 Mutagenic Growth
 2 Wooded Foothills
+3 Temur Battle Rage
 3 Wooded Foothills
 3 Mutagenic Growth
-3 Temur Battle Rage
 3 Become Immense
 1 Traverse the Ulvenwald
 1 Nurturing Peatland
@@ -61,13 +61,8 @@
 2 Crash Through
 1 Mountain
 3 Arid Mesa
-1 Hex Parasite
 1 Gurmag Angler
-1 Fiery Islet
-2 Kolaghan's Command
-3 Snapcaster Mage
-4 Scalding Tarn
-4 Snapcaster Mage
+1 Hex Parasite
 1 Drannith Magistrate
 1 Assassin's Trophy
 1 Scavenging Ooze
@@ -79,6 +74,11 @@
 2 Nurturing Peatland
 3 Nurturing Peatland
 4 Traverse the Ulvenwald
+1 Fiery Islet
+2 Kolaghan's Command
+3 Snapcaster Mage
+4 Scalding Tarn
+4 Snapcaster Mage
 1 Delver of Secrets
 1 Snow-Covered Mountain
 2 Delver of Secrets
@@ -107,9 +107,9 @@
 3 Soul-Scar Mage
 3 Abbot of Keral Keep
 3 Blood Crypt
-3 Cling to Dust
 3 Mountain
 3 Sunbaked Canyon
+3 Cling to Dust
 4 Arid Mesa
 4 Manamorphose
 4 Soul-Scar Mage

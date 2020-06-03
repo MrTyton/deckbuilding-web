@@ -33,17 +33,18 @@
 4 Yarok's Fenlurker
 1 Fabled Passage
 2 Fabled Passage
+1 Island
+2 Island
+3 Island
+4 Island
+5 Island
+1 Watery Grave
 3 Fabled Passage
 1 Plains
 1 Godless Shrine
 1 Castle Ardenvale
 2 Godless Shrine
-1 Sacred Foundry
-2 Sacred Foundry
-3 Sacred Foundry
-4 Sacred Foundry
 3 Godless Shrine
-1 Haktos the Unscarred
 1 Hushbringer
 2 Hushbringer
 3 Hushbringer
@@ -51,8 +52,13 @@
 2 Heraldic Banner
 3 Heraldic Banner
 4 Heraldic Banner
+1 Sacred Foundry
+2 Sacred Foundry
+3 Sacred Foundry
+4 Sacred Foundry
 1 Alseid of Life's Bounty
 1 Response/Resurgence
+1 Haktos the Unscarred
 1 Ruinous Ultimatum
 1 Tajic, Legion's Edge
 1 Lurrus of the Dream Den
@@ -78,7 +84,6 @@
 4 General's Enforcer
 4 Castle Ardenvale
 4 Hushbringer
-1 Island
 1 Dread Presence
 1 Drag to the Underworld
 2 Dread Presence
@@ -86,16 +91,11 @@
 3 Drag to the Underworld
 4 Agonizing Remorse
 1 Kroxa, Titan of Death's Hunger
-1 Watery Grave
-2 Island
 1 Midnight Reaper
 1 Ayara, First of Locthwain
 2 Ayara, First of Locthwain
 3 Ayara, First of Locthwain
 3 Gray Merchant of Asphodel
-3 Island
-4 Island
-5 Island
 1 Elspeth's Nightmare
 2 Elspeth's Nightmare
 3 Elspeth's Nightmare
@@ -104,67 +104,62 @@
 1 Thought Erasure
 2 Thought Erasure
 1 Temple of Deceit
-1 Dreadhorde Butcher
-2 Dreadhorde Butcher
-3 Dreadhorde Butcher
-4 Dreadhorde Butcher
-1 Hallowed Fountain
-1 Savai Triome
-2 Savai Triome
-1 Stonecoil Serpent
-2 Stonecoil Serpent
-1 Teferi, Time Raveler
-3 Thought Erasure
-1 Kenrith, the Returned King
-2 Teferi, Time Raveler
-3 Teferi, Time Raveler
-2 Hallowed Fountain
-1 Temple of Enlightenment
-2 Plains
-3 Stonecoil Serpent
-4 Stonecoil Serpent
-1 Brazen Borrower
-2 Brazen Borrower
-3 Hallowed Fountain
-4 Hallowed Fountain
-1 Castle Vantress
-2 Temple of Deceit
-1 Fae of Wishes
-2 Fae of Wishes
-3 Fae of Wishes
-2 Kroxa, Titan of Death's Hunger
-1 Steam Vents
-2 Steam Vents
-3 Watery Grave
-4 Watery Grave
-1 Spectral Sailor
-1 Ketria Triome
-1 Footfall Crater
-1 Heartless Act
 1 Shock
-2 Heartless Act
 2 Shock
-3 Heartless Act
 3 Shock
 6 Island
+1 Spectral Sailor
+1 Brazen Borrower
+2 Brazen Borrower
 2 Spectral Sailor
 3 Spectral Sailor
 4 Spectral Sailor
-2 Castle Vantress
-1 Negate
-2 Negate
-3 Negate
 1 Sea-Dasher Octopus
 2 Sea-Dasher Octopus
 7 Island
 8 Island
+1 Stonecoil Serpent
+2 Stonecoil Serpent
 3 Brazen Borrower
+3 Stonecoil Serpent
+4 Stonecoil Serpent
 1 Pteramander
 2 Pteramander
 3 Sea-Dasher Octopus
 3 Pteramander
-4 Pteramander
 4 Sea-Dasher Octopus
+4 Pteramander
+1 Hallowed Fountain
+1 Castle Vantress
+2 Plains
+1 Temple of Enlightenment
+1 Teferi, Time Raveler
+1 Steam Vents
+2 Steam Vents
+2 Teferi, Time Raveler
+3 Teferi, Time Raveler
+2 Hallowed Fountain
+3 Thought Erasure
+1 Dreadhorde Butcher
+2 Dreadhorde Butcher
+3 Dreadhorde Butcher
+4 Dreadhorde Butcher
+1 Savai Triome
+2 Savai Triome
+4 Shock
+2 Kroxa, Titan of Death's Hunger
+1 Fae of Wishes
+2 Fae of Wishes
+3 Fae of Wishes
+3 Watery Grave
+4 Watery Grave
+3 Hallowed Fountain
+4 Hallowed Fountain
+1 Negate
+2 Negate
+3 Negate
+2 Castle Vantress
+4 Brazen Borrower
 9 Island
 10 Island
 11 Island
@@ -175,28 +170,43 @@
 16 Island
 17 Island
 18 Island
-1 Ashiok, Dream Render
-2 Ashiok, Dream Render
+1 Neutralize
+1 Unsummon
+2 Neutralize
+3 Neutralize
+4 Neutralize
+1 Heartless Act
+2 Heartless Act
+3 Heartless Act
+1 Temple of Epiphany
+1 Flame Sweep
+2 Temple of Epiphany
+2 Flame Sweep
+3 Steam Vents
 1 Opt
 2 Opt
 3 Opt
 4 Opt
-1 Breeding Pool
-2 Breeding Pool
-4 Fae of Wishes
-1 Forest
-1 Temple Garden
-2 Temple Garden
-3 Temple Garden
-4 Temple Garden
+2 Temple of Deceit
+1 Ashiok, Dream Render
+2 Ashiok, Dream Render
+1 Kenrith, the Returned King
+1 Footfall Crater
+1 Faerie Miscreant
+2 Faerie Miscreant
+3 Faerie Miscreant
+4 Faerie Miscreant
 3 Savai Triome
 4 Savai Triome
-4 Fabled Passage
-2 Ketria Triome
+1 Ketria Triome
 1 Shatter the Sky
 2 Shatter the Sky
 3 Shatter the Sky
 4 Shatter the Sky
+1 Evolving Wilds
+1 Omen of the Sea
+2 Evolving Wilds
+2 Omen of the Sea
 1 Thassa, Deep-Dwelling
 1 The Birth of Meletis
 1 Banishing Light
@@ -205,16 +215,9 @@
 3 The Birth of Meletis
 3 Banishing Light
 4 Banishing Light
-1 Evolving Wilds
-1 Omen of the Sea
-2 Evolving Wilds
-2 Omen of the Sea
-1 Agent of Treachery
-2 Agent of Treachery
-3 Agent of Treachery
-4 Agent of Treachery
 1 Zagoth Triome
 1 Indatha Triome
+2 Ketria Triome
 2 Zagoth Triome
 2 Indatha Triome
 1 Lukka, Coppercoat Outcast
@@ -225,6 +228,7 @@
 4 Omen of the Sun
 1 Spark Double
 1 Epic Downfall
+1 Agent of Treachery
 1 Lazav, the Multifarious
 1 Prison Realm
 1 Mystic Subdual
@@ -233,6 +237,7 @@
 1 Nightmare Shepherd
 1 Repudiate/Replicate
 1 Quasiduplicate
+2 Agent of Treachery
 2 Thassa, Deep-Dwelling
 2 Lazav, the Multifarious
 2 Nightmare Shepherd
@@ -242,6 +247,7 @@
 2 Eidolon of Obstruction
 2 Mystic Subdual
 2 Epic Downfall
+3 Agent of Treachery
 3 Temple of Deceit
 3 Evolving Wilds
 3 Omen of the Sea
@@ -257,41 +263,38 @@
 4 Protean Thaumaturge
 4 Epic Downfall
 4 Nightmare Shepherd
-1 Faerie Miscreant
-2 Faerie Miscreant
-3 Faerie Miscreant
-4 Faerie Miscreant
+4 Agent of Treachery
+1 Forest
 1 Order of Midnight
 2 Order of Midnight
 3 Order of Midnight
+4 Fae of Wishes
+4 Fabled Passage
 4 Thought Erasure
 1 Blast Zone
-1 Elspeth, Sun's Nemesis
 2 Midnight Reaper
-3 Plains
-4 Plains
-5 Plains
-1 Thief of Sanity
-2 Thief of Sanity
-1 Tyrant's Scorn
-2 Tyrant's Scorn
-3 Kroxa, Titan of Death's Hunger
 1 Drown in the Loch
 2 Drown in the Loch
 3 Drown in the Loch
 4 Drown in the Loch
-3 Steam Vents
-2 Kenrith, the Returned King
-3 Breeding Pool
-4 Breeding Pool
-4 Teferi, Time Raveler
-1 Raugrin Triome
+3 Plains
+4 Plains
+5 Plains
+1 Tyrant's Scorn
+2 Tyrant's Scorn
+3 Kroxa, Titan of Death's Hunger
+1 Thief of Sanity
+2 Thief of Sanity
+1 Elspeth, Sun's Nemesis
 1 Ashiok, Nightmare Muse
 2 Ashiok, Nightmare Muse
-1 Stomping Ground
-2 Stomping Ground
-3 Stomping Ground
-4 Stomping Ground
+1 Breeding Pool
+2 Breeding Pool
+4 Teferi, Time Raveler
+1 Temple Garden
+2 Temple Garden
+3 Temple Garden
+4 Temple Garden
 1 Elite Guardmage
 1 Mortify
 1 Narset, Parter of Veils
@@ -311,6 +314,7 @@
 3 Elite Guardmage
 4 Elite Guardmage
 4 Narset, Parter of Veils
+1 Raugrin Triome
 1 Atris, Oracle of Half-Truths
 1 Narset of the Ancient Way
 1 Deafening Clarion
@@ -358,8 +362,6 @@
 2 Anticipate
 3 Ashiok, Dream Render
 3 Anticipate
-1 Temple of Epiphany
-1 Flame Sweep
 1 Bedevil
 1 Scorching Dragonfire
 1 Bloodfell Caves
@@ -367,8 +369,6 @@
 1 Dismal Backwater
 1 Pharika's Libation
 1 Angrath's Rampage
-2 Temple of Epiphany
-2 Flame Sweep
 2 Brineborn Cutthroat
 2 Pharika's Libation
 2 Angrath's Rampage
@@ -418,27 +418,6 @@
 3 Into the Story
 4 Drowned Secrets
 4 Merfolk Secretkeeper
-1 Charming Prince
-1 Sphinx of Foresight
-1 Arboreal Grazer
-1 Pelt Collector
-1 Winota, Joiner of Forces
-1 Marauding Raptor
-2 Charming Prince
-2 Sphinx of Foresight
-2 Arboreal Grazer
-2 Marauding Raptor
-2 Winota, Joiner of Forces
-2 Pelt Collector
-3 Sphinx of Foresight
-3 Arboreal Grazer
-3 Pelt Collector
-3 Winota, Joiner of Forces
-3 Marauding Raptor
-4 Arboreal Grazer
-4 Sphinx of Foresight
-4 Winota, Joiner of Forces
-4 Marauding Raptor
 3 Rankle, Master of Pranks
 3 Dread Presence
 4 Gray Merchant of Asphodel
@@ -455,6 +434,17 @@
 3 Burglar Rat
 4 Plaguecrafter
 4 Burglar Rat
+1 Mystical Dispute
+1 Ionize
+2 Mystical Dispute
+2 Ionize
+3 Mystical Dispute
+3 Temple of Epiphany
+3 Ionize
+4 Steam Vents
+4 Mystical Dispute
+4 Temple of Epiphany
+4 Ionize
 1 Mire Triton
 1 Porcuparrot
 1 Everquill Phoenix
@@ -481,6 +471,7 @@
 2 Gilded Goose
 2 Incubation Druid
 2 Footfall Crater
+2 Kenrith, the Returned King
 2 Kinnan, Bonder Prodigy
 2 Thassa's Intervention
 2 Faeburrow Elder
@@ -490,22 +481,26 @@
 3 High Alert
 3 Gilded Goose
 3 Incubation Druid
+3 Breeding Pool
 3 Kinnan, Bonder Prodigy
 4 Faeburrow Elder
 4 High Alert
+4 Breeding Pool
 4 Incubation Druid
 1 Raise the Alarm
 1 Castle Embereth
 1 Temple of Triumph
+1 Stomping Ground
 1 Sarkhan the Masterless
 1 Tibalt, Rakish Instigator
 1 Forbidden Friendship
 1 Ajani, the Greathearted
-1 March of the Multitudes
 1 End-Raze Forerunners
 1 Flower/Flourish
+1 March of the Multitudes
 1 Domri, Anarch of Bolas
 2 Raise the Alarm
+2 Stomping Ground
 2 Castle Embereth
 2 Tibalt, Rakish Instigator
 2 Elspeth, Sun's Nemesis
@@ -517,12 +512,14 @@
 2 Domri, Anarch of Bolas
 2 March of the Multitudes
 3 Raise the Alarm
+3 Stomping Ground
 3 Castle Embereth
 3 Lukka, Coppercoat Outcast
 3 March of the Multitudes
 3 Forbidden Friendship
 4 Raise the Alarm
 4 Forbidden Friendship
+4 Stomping Ground
 4 Lukka, Coppercoat Outcast
 4 March of the Multitudes
 1 Overgrown Tomb
@@ -536,8 +533,8 @@
 2 Flaxen Intruder
 2 Overgrown Tomb
 2 Foulmire Knight
-2 Lucky Clover
 2 Smitten Swordmaster
+2 Lucky Clover
 3 Forest
 3 Midnight Reaper
 3 Foulmire Knight
@@ -555,22 +552,17 @@
 4 Overgrown Tomb
 4 Order of Midnight
 4 Flaxen Intruder
-1 Neutralize
 1 Essence Capture
-1 Unsummon
 1 Pouncing Shoreshark
 1 Cunning Nightbonder
-2 Neutralize
 2 Unsummon
 2 Cunning Nightbonder
 2 Pouncing Shoreshark
 2 Essence Capture
-3 Neutralize
 3 Pouncing Shoreshark
 3 Unsummon
 3 Essence Capture
 3 Cunning Nightbonder
-4 Neutralize
 4 Cunning Nightbonder
 4 Pouncing Shoreshark
 4 Negate
@@ -610,7 +602,6 @@
 3 Robber of the Rich
 3 Steelclaw Lance
 4 Robber of the Rich
-4 Shock
 10 Mountain
 1 Cry of the Carnarium
 1 Doom Whisperer
@@ -638,7 +629,6 @@
 3 Shark Typhoon
 3 Hypnotic Sprite
 4 Shark Typhoon
-4 Brazen Borrower
 4 Hypnotic Sprite
 19 Island
 20 Island
