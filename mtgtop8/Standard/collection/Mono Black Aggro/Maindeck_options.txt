@@ -96,14 +96,6 @@
 3 Davriel, Rogue Shadowmage
 4 Duress
 4 Drag to the Underworld
-1 Disfigure
-2 Disfigure
-4 Grimdancer
-1 Foulmire Knight
-1 Erebos, Bleak-Hearted
-2 Foulmire Knight
-3 Foulmire Knight
-4 Foulmire Knight
 1 Blast Zone
 1 Orzhov Enforcer
 1 Mire Triton
@@ -117,6 +109,14 @@
 3 Mire Triton
 4 Call of the Death-Dweller
 4 Heartless Act
+1 Disfigure
+2 Disfigure
+4 Grimdancer
+1 Foulmire Knight
+1 Erebos, Bleak-Hearted
+2 Foulmire Knight
+3 Foulmire Knight
+4 Foulmire Knight
 1 Dreadhorde Invasion
 1 Boot Nipper
 1 Murder
@@ -162,8 +162,8 @@
 1 Banehound
 2 Footlight Fiend
 2 Banehound
-3 Footlight Fiend
 3 Banehound
+3 Footlight Fiend
 4 Footlight Fiend
 4 Banehound
 22 Swamp

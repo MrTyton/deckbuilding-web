@@ -21,6 +21,7 @@
 1 Polluted Delta
 2 Polluted Delta
 3 Polluted Delta
+1 Drown in the Loch
 1 Delver of Secrets
 1 Watery Grave
 1 Serum Visions
@@ -28,20 +29,19 @@
 1 Mana Leak
 1 Archmage's Charm
 1 Darkslick Shores
-1 Drown in the Loch
 1 Force of Negation
 1 Spirebluff Canal
 1 Steam Vents
 1 Sprite Dragon
 1 Snapcaster Mage
 1 Opt
+2 Watery Grave
 2 Delver of Secrets
 2 Serum Visions
 2 Mana Leak
 2 Snapcaster Mage
 2 Steam Vents
 2 Island
-2 Watery Grave
 2 Opt
 2 Darkslick Shores
 2 Force of Negation
@@ -122,9 +122,9 @@
 2 Arid Mesa
 2 Swamp
 2 Dreadbore
-3 Kolaghan's Command
 3 Marsh Flats
 3 Swamp
+3 Kolaghan's Command
 4 Dark Confidant
 1 Light Up the Stage
 1 Collective Brutality
@@ -166,58 +166,58 @@
 2 Misty Rainforest
 4 Kitchen Finks
 7 Forest
-1 Spellskite
 1 Stoneforge Mystic
 1 Giver of Runes
 1 Plains
+1 Magnetic Theft
+1 Sigarda's Aid
+1 Kor Duelist
+1 Inkmoth Nexus
+1 Steelshaper's Gift
+1 Kor Outfitter
+1 Colossus Hammer
 1 Shadowspear
 1 Apostle's Blessing
-1 Colossus Hammer
-1 Kor Outfitter
-1 Steelshaper's Gift
-1 Inkmoth Nexus
-1 Kor Duelist
-1 Sigarda's Aid
+1 Spellskite
 1 Inspiring Vantage
-1 Magnetic Theft
 2 Stoneforge Mystic
-2 Shadowspear
 2 Giver of Runes
 2 Sacred Foundry
-2 Steelshaper's Gift
-2 Plains
-2 Inkmoth Nexus
-2 Kor Outfitter
-2 Inspiring Vantage
-2 Spellskite
-2 Sigarda's Aid
-2 Colossus Hammer
-2 Magnetic Theft
 2 Kor Duelist
+2 Magnetic Theft
+2 Kor Outfitter
+2 Colossus Hammer
+2 Sigarda's Aid
+2 Spellskite
+2 Inkmoth Nexus
+2 Steelshaper's Gift
+2 Shadowspear
+2 Plains
+2 Inspiring Vantage
 3 Stoneforge Mystic
-3 Spellskite
-3 Giver of Runes
-3 Inspiring Vantage
-3 Magnetic Theft
-3 Kor Duelist
-3 Sacred Foundry
-3 Colossus Hammer
-3 Plains
 3 Steelshaper's Gift
-3 Sigarda's Aid
 3 Kor Outfitter
+3 Plains
+3 Colossus Hammer
 3 Inkmoth Nexus
-4 Plains
+3 Sigarda's Aid
+3 Kor Duelist
+3 Magnetic Theft
+3 Giver of Runes
+3 Spellskite
+3 Inspiring Vantage
+3 Sacred Foundry
 4 Stoneforge Mystic
-4 Colossus Hammer
-4 Sigarda's Aid
-4 Kor Duelist
-4 Spellskite
-4 Kor Outfitter
 4 Magnetic Theft
-4 Steelshaper's Gift
-4 Giver of Runes
 4 Inkmoth Nexus
+4 Giver of Runes
+4 Steelshaper's Gift
+4 Sigarda's Aid
+4 Kor Outfitter
+4 Spellskite
+4 Kor Duelist
+4 Colossus Hammer
+4 Plains
 4 Sacred Foundry
 5 Plains
 4 Inspiring Vantage

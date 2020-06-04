@@ -1,9 +1,9 @@
 6 Snow-Covered Island
 7 Snow-Covered Island
 1 Spreading Seas
-1 Raugrin Triome
 1 Omen of the Sun
 1 Delay
+1 Raugrin Triome
 2 Spreading Seas
 2 Counterbalance
 2 Supreme Verdict
@@ -116,13 +116,13 @@
 1 Blood Crypt
 2 Bloodstained Mire
 2 Blood Crypt
-1 Castle Embereth
 1 Unearth
 1 Seal of Fire
 1 Kroxa, Titan of Death's Hunger
 1 Kolaghan's Command
 1 Blackcleave Cliffs
 1 Dreadbore
+1 Castle Embereth
 2 Kroxa, Titan of Death's Hunger
 2 Kolaghan's Command
 2 Blackcleave Cliffs
@@ -195,7 +195,6 @@
 2 Aether Vial
 3 Aether Vial
 4 Aether Vial
-1 Ketria Triome
 1 Skirk Prospector
 1 Goblin Cratermaker
 1 Goblin Ringleader
@@ -209,6 +208,7 @@
 1 Mogg War Marshal
 1 Murderous Redcap
 1 Grumgully, the Generous
+1 Ketria Triome
 1 Frogtosser Banneret
 1 Auntie's Hovel
 1 Goblin King
@@ -232,6 +232,7 @@
 2 Putrid Goblin
 2 Auntie's Hovel
 2 Metallic Mimic
+3 Blood Crypt
 3 Manamorphose
 3 Auntie's Hovel
 3 Putrid Goblin
@@ -242,14 +243,13 @@
 3 Grumgully, the Generous
 3 Mogg War Marshal
 3 Goblin Ringleader
-3 Blood Crypt
 3 Unclaimed Territory
 3 Cavern of Souls
 3 Greater Gargadon
 3 Skirk Prospector
 4 Metallic Mimic
-4 Murderous Redcap
 4 Blood Crypt
+4 Murderous Redcap
 4 Munitions Expert
 4 Cavern of Souls
 4 Manamorphose
@@ -357,8 +357,8 @@
 4 Siege Rhino
 4 Overgrown Tomb
 5 Snow-Covered Forest
-1 Commandeer
 1 Golos, Tireless Pilgrim
+1 Commandeer
 1 Pull from Tomorrow
 1 Trinket Mage
 1 Nexus of Fate
@@ -389,10 +389,10 @@
 1 Exhaustion
 1 Brazen Borrower
 1 Sulfur Falls
+2 Spell Snare
 2 Archmage's Charm
 2 Steam Vents
 2 Brazen Borrower
-2 Spell Snare
 2 Sulfur Falls
 1 Wrath of God
 1 Thought Scour
@@ -483,9 +483,9 @@
 3 Swamp
 3 Smallpox
 3 Flagstones of Trokair
+3 Godless Shrine
 3 Fetid Heath
 3 Silent Clearing
-3 Godless Shrine
 4 Flagstones of Trokair
 4 Lingering Souls
 4 Smallpox
@@ -497,13 +497,13 @@
 3 Plains
 1 Blade Splicer
 1 Tidehollow Sculler
+1 Kunoros, Hound of Athreos
 1 Kor Firewalker
 1 Eldrazi Displacer
 1 Flickerwisp
 1 Caves of Koilos
 1 Leonin Arbiter
 1 Thought-Knot Seer
-1 Kunoros, Hound of Athreos
 1 Wasteland Strangler
 2 Ghost Quarter
 2 Tidehollow Sculler
@@ -610,8 +610,8 @@
 4 Hardened Scales
 1 Rix Maadi Reveler
 1 Utter End
-2 Seal of Fire
 2 Rix Maadi Reveler
+2 Seal of Fire
 3 Rix Maadi Reveler
 4 Rix Maadi Reveler
 1 Fiend Artisan
@@ -676,39 +676,39 @@
 2 Arid Mesa
 2 Sunbaked Canyon
 3 Sunbaked Canyon
+1 Seachrome Coast
 1 Stonecoil Serpent
+1 Invisible Stalker
 1 Shadowspear
 1 Spell Pierce
 1 Steelshaper's Gift
 1 Inkmoth Nexus
 1 Sigarda's Aid
-1 Invisible Stalker
 1 Magnetic Theft
-1 Seachrome Coast
 1 Slippery Bogle
 1 Colossus Hammer
 1 Kor Outfitter
 1 Welding Jar
 2 Spell Pierce
+2 Seachrome Coast
+2 Invisible Stalker
 2 Stonecoil Serpent
 2 Slippery Bogle
 2 Steelshaper's Gift
 2 Colossus Hammer
 2 Sigarda's Aid
-2 Seachrome Coast
 2 Kor Outfitter
 2 Magnetic Theft
 2 Inkmoth Nexus
-2 Invisible Stalker
 3 Spell Pierce
+3 Seachrome Coast
+3 Invisible Stalker
 3 Stonecoil Serpent
 3 Magnetic Theft
 3 Sigarda's Aid
 3 Slippery Bogle
 3 Colossus Hammer
 3 Snow-Covered Plains
-3 Seachrome Coast
-3 Invisible Stalker
 3 Kor Outfitter
 3 Steelshaper's Gift
 4 Invisible Stalker
@@ -737,8 +737,8 @@
 3 Nahiri, the Harbinger
 3 Gideon Jura
 3 Wrath of God
-4 Arid Mesa
 4 Plains
+4 Arid Mesa
 4 Anger of the Gods
 4 Lightning Helix
 4 Wrath of God

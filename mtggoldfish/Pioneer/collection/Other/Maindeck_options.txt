@@ -90,8 +90,8 @@
 2 Walking Ballista
 3 Walking Ballista
 4 Forest
-1 Elvish Mystic
 1 Llanowar Elves
+1 Elvish Mystic
 2 Llanowar Elves
 3 Llanowar Elves
 4 Llanowar Elves
@@ -218,8 +218,8 @@
 2 Ornithopter
 2 Darksteel Citadel
 2 Gingerbrute
-3 Curious Obsession
 3 Inspiring Vantage
+3 Curious Obsession
 3 Spire of Industry
 3 Ornithopter
 3 Gingerbrute
@@ -229,9 +229,9 @@
 3 Sram, Senior Edificer
 3 Ethereal Armor
 3 Darksteel Citadel
+4 Curious Obsession
 4 Ornithopter
 4 Alseid of Life's Bounty
-4 Curious Obsession
 4 Sram, Senior Edificer
 4 Gingerbrute
 4 Darksteel Citadel
@@ -519,8 +519,8 @@
 1 Shivan Reef
 1 The Royal Scions
 1 Kozilek's Return
-1 Lightning Axe
 1 Izzet Charm
+1 Lightning Axe
 1 Sanctum of Ugin
 1 Spirebluff Canal
 1 Rekindling Phoenix
@@ -628,20 +628,20 @@
 1 Kenrith, the Returned King
 1 Winota, Joiner of Forces
 1 Angrath's Marauders
-2 Gilded Goose
 2 Eldritch Evolution
+2 Gilded Goose
 2 Voice of Resurgence
 2 Winota, Joiner of Forces
 2 Angrath's Marauders
 2 Selfless Spirit
 2 Kenrith, the Returned King
-3 Voice of Resurgence
 3 Eldritch Evolution
+3 Voice of Resurgence
 3 Angrath's Marauders
 3 Winota, Joiner of Forces
 4 Voice of Resurgence
-4 Legion Warboss
 4 Eldritch Evolution
+4 Legion Warboss
 4 Winota, Joiner of Forces
 4 Angrath's Marauders
 1 Call of the Death-Dweller
@@ -656,6 +656,7 @@
 1 Foreboding Ruins
 1 Stitcher's Supplier
 1 Fiend Artisan
+2 Kroxa, Titan of Death's Hunger
 2 Blood Crypt
 2 Mire Triton
 2 Call of the Death-Dweller
@@ -663,7 +664,6 @@
 2 Bloodsoaked Champion
 2 Pain Seer
 2 Mire's Grasp
-2 Kroxa, Titan of Death's Hunger
 2 Castle Locthwain
 2 Stitcher's Supplier
 2 Foreboding Ruins
@@ -692,15 +692,15 @@
 1 Courser of Kruphix
 1 Questing Beast
 1 Karn, the Great Creator
-1 Vivien, Monsters' Advocate
 1 Castle Garenbrig
+1 Vivien, Monsters' Advocate
 1 Nykthos, Shrine to Nyx
 1 Sylvan Caryatid
 1 Wolfwillow Haven
 1 Jadelight Ranger
 2 Karn, the Great Creator
-2 Vivien, Monsters' Advocate
 2 Castle Garenbrig
+2 Vivien, Monsters' Advocate
 2 Jadelight Ranger
 2 Wolfwillow Haven
 2 Nykthos, Shrine to Nyx

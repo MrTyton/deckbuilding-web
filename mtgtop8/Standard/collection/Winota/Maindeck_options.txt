@@ -1,30 +1,13 @@
-2 Incubation / Incongruity
-3 Alirios, Enraptured
 4 Charming Prince
-3 Sacred Foundry
-1 Raise the Alarm
-2 Raise the Alarm
-1 Mountain
-1 Plains
-2 Plains
+1 Incubation / Incongruity
+2 Incubation / Incongruity
 4 Sacred Foundry
 1 Haktos the Unscarred
-2 Ketria Triome
-1 Fblthp, the Lost
+3 Alirios, Enraptured
 1 Steam Vents
 2 Steam Vents
 3 Steam Vents
 4 Hallowed Fountain
-2 Haktos the Unscarred
-3 Raise the Alarm
-4 Raise the Alarm
-1 Fabled Passage
-2 Fabled Passage
-1 Chandra, Acolyte of Flame
-2 Chandra, Acolyte of Flame
-1 Prime Speaker Vannifar
-1 Temple of Plenty
-2 Temple of Plenty
 1 Sphinx of Foresight
 1 Marauding Raptor
 1 Stonecoil Serpent
@@ -37,68 +20,23 @@
 4 Sphinx of Foresight
 4 Stonecoil Serpent
 4 Marauding Raptor
-3 Ketria Triome
-4 Ketria Triome
-1 Deputy of Detention
 1 Brazen Borrower
-1 Castle Embereth
-1 Spectral Sailor
-1 Teferi, Time Raveler
-1 Island
-2 Brazen Borrower
-2 Deputy of Detention
-2 Fblthp, the Lost
-2 Island
-3 Brazen Borrower
-3 Fabled Passage
-4 Brazen Borrower
-4 Steam Vents
+1 Mountain
+1 Plains
+1 Raise the Alarm
+2 Raise the Alarm
+2 Plains
+1 Bonecrusher Giant
+2 Haktos the Unscarred
+3 Raise the Alarm
+4 Raise the Alarm
+1 Fabled Passage
+2 Fabled Passage
 2 Mountain
-3 Plains
-3 Mountain
-4 Plains
-4 Mountain
-5 Mountain
-5 Plains
-6 Plains
 1 Temple of Triumph
-1 Phoenix of Ash
-1 Goblin Banneret
-1 Labyrinth of Skophos
-1 Giant Killer
-1 Fires of Invention
-1 Dawn of Hope
-1 Zirda, the Dawnwaker
-1 Bonders' Enclave
-1 Locthwain Gargoyle
-1 Immolation Shaman
-2 Phoenix of Ash
-2 Goblin Banneret
-2 Zirda, the Dawnwaker
-2 Fires of Invention
-2 Temple of Triumph
-2 Bonders' Enclave
-2 Giant Killer
-2 Immolation Shaman
-2 Locthwain Gargoyle
-2 Dawn of Hope
-3 Goblin Banneret
-3 Haktos the Unscarred
-3 Zirda, the Dawnwaker
-3 Kenrith, the Returned King
-3 Fires of Invention
-3 Temple of Triumph
-3 Giant Killer
-3 Phoenix of Ash
-4 Fires of Invention
-4 Giant Killer
-4 Temple of Triumph
-4 Zirda, the Dawnwaker
-4 Phoenix of Ash
 1 Anax, Hardened in the Forge
 2 Anax, Hardened in the Forge
 1 Temple of Malice
-1 Judith, the Scourge Diva
 1 Savai Triome
 1 Lazotep Reaver
 1 General's Enforcer
@@ -108,8 +46,8 @@
 1 Tajic, Legion's Edge
 1 Blood Crypt
 1 Swamp
+1 Judith, the Scourge Diva
 1 Fight as One
-2 Judith, the Scourge Diva
 2 Lazotep Reaver
 2 General's Enforcer
 2 Embercleave
@@ -118,6 +56,7 @@
 2 Tajic, Legion's Edge
 2 Blood Crypt
 2 Savai Triome
+2 Judith, the Scourge Diva
 2 Fight as One
 3 Savai Triome
 3 Lazotep Reaver
@@ -135,17 +74,79 @@
 4 Grim Initiate
 4 Godless Shrine
 4 Blood Crypt
+2 Ketria Triome
+1 Fblthp, the Lost
+1 Chandra, Acolyte of Flame
+2 Chandra, Acolyte of Flame
+1 Prime Speaker Vannifar
+1 Temple of Plenty
+2 Temple of Plenty
+3 Ketria Triome
+4 Ketria Triome
+1 Deputy of Detention
+1 Castle Embereth
+1 Spectral Sailor
+1 Teferi, Time Raveler
+1 Island
+2 Brazen Borrower
+2 Deputy of Detention
+2 Fblthp, the Lost
+2 Island
+3 Brazen Borrower
+3 Fabled Passage
+4 Brazen Borrower
+4 Steam Vents
+3 Plains
+3 Mountain
+4 Plains
+4 Mountain
+5 Mountain
+5 Plains
+6 Plains
+1 Phoenix of Ash
+1 Goblin Banneret
+1 Labyrinth of Skophos
+1 Giant Killer
+1 Fires of Invention
+1 Dawn of Hope
+1 Zirda, the Dawnwaker
+1 Bonders' Enclave
+1 Locthwain Gargoyle
+1 Immolation Shaman
+2 Bonders' Enclave
+2 Phoenix of Ash
+2 Goblin Banneret
+2 Zirda, the Dawnwaker
+2 Fires of Invention
+2 Temple of Triumph
+2 Giant Killer
+2 Immolation Shaman
+2 Locthwain Gargoyle
+2 Dawn of Hope
+3 Goblin Banneret
+3 Kenrith, the Returned King
+3 Zirda, the Dawnwaker
+3 Fires of Invention
+3 Haktos the Unscarred
+3 Temple of Triumph
+3 Giant Killer
+3 Phoenix of Ash
+4 Fires of Invention
+4 Giant Killer
+4 Temple of Triumph
+4 Zirda, the Dawnwaker
+4 Phoenix of Ash
+1 Torch Courier
 1 Goblin Gathering
 1 Cavalcade of Calamity
 1 Inspiring Captain
 1 Healer's Hawk
-1 Torch Courier
 1 Master Splicer
 1 Tin Street Dodger
+2 Torch Courier
 2 Goblin Gathering
 2 Cavalcade of Calamity
 2 Healer's Hawk
-2 Torch Courier
 2 Tin Street Dodger
 2 Inspiring Captain
 2 Master Splicer
