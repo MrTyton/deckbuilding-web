@@ -61,8 +61,8 @@
 4 Plains
 4 Charming Prince
 5 Plains
-6 Island
 6 Plains
+6 Island
 7 Island
 7 Plains
 8 Island
@@ -74,20 +74,20 @@
 5 Forest
 8 Plains
 9 Plains
-1 The Birth of Meletis
 1 Archon of Sun's Grace
 1 Deputy of Detention
 1 Spark Double
 1 Whirlwind Denial
-2 The Birth of Meletis
+1 The Birth of Meletis
 2 Archon of Sun's Grace
 2 Deputy of Detention
+2 The Birth of Meletis
 2 Spark Double
 2 Whirlwind Denial
 3 The Birth of Meletis
 3 Thassa, Deep-Dwelling
-4 Thassa, Deep-Dwelling
 4 The Birth of Meletis
+4 Thassa, Deep-Dwelling
 1 Tranquil Cove
 1 Ketria Triome
 2 Ketria Triome
@@ -96,44 +96,44 @@
 3 Omen of the Sun
 1 Time Wipe
 1 Swamp
-1 Thought Erasure
-1 Oath of Kaya
 1 Atris, Oracle of Half-Truths
 1 Watery Grave
 1 Castle Locthwain
+1 Mortify
+1 Thought Erasure
 1 Hero of Precinct One
-1 Dire Tactics
 1 Temple of Deceit
 1 General Kudro of Drannith
-1 Temple of Silence
 1 Godless Shrine
-1 Mortify
+1 Temple of Silence
+1 Oath of Kaya
+1 Dire Tactics
 2 Swamp
-2 Thought Erasure
 2 Oath of Kaya
-2 Temple of Deceit
 2 Atris, Oracle of Half-Truths
 2 Temple of Silence
+2 Temple of Deceit
+2 Thought Erasure
 2 Watery Grave
 2 Hero of Precinct One
-2 Dire Tactics
 2 General Kudro of Drannith
 2 Godless Shrine
 2 Mortify
+2 Dire Tactics
+3 Oath of Kaya
+3 Temple of Deceit
 3 Thought Erasure
 3 Godless Shrine
-3 Oath of Kaya
 3 Temple of Silence
 3 Watery Grave
-3 Dire Tactics
 3 Hero of Precinct One
-3 Temple of Deceit
+3 Dire Tactics
 3 General Kudro of Drannith
-4 Watery Grave
 4 Thought Erasure
+4 Watery Grave
 4 Godless Shrine
-4 Hero of Precinct One
 4 Dovin's Veto
+4 Hero of Precinct One
 1 Knight of Autumn
 1 Soul-Guide Lantern
 1 Nightpack Ambusher
@@ -157,13 +157,6 @@
 3 Tyrant's Scorn
 4 Oath of Kaya
 4 Tyrant's Scorn
-1 Field of Ruin
-2 Castle Ardenvale
-2 Blast Zone
-3 Castle Vantress
-3 Castle Ardenvale
-3 Deputy of Detention
-4 Castle Vantress
 1 Zagoth Triome
 1 Thornwood Falls
 1 Blossoming Sands
@@ -174,9 +167,16 @@
 2 Evolving Wilds
 3 Evolving Wilds
 3 Tranquil Cove
+4 Narset, Parter of Veils
 4 Tranquil Cove
 4 Evolving Wilds
-4 Narset, Parter of Veils
+1 Field of Ruin
+2 Blast Zone
+2 Castle Ardenvale
+3 Castle Vantress
+3 Castle Ardenvale
+3 Deputy of Detention
+4 Castle Vantress
 1 Despark
 1 Disinformation Campaign
 2 Castle Locthwain

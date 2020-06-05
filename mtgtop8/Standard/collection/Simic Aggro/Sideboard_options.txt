@@ -2,7 +2,6 @@
 2 Voracious Hydra
 1 Nissa, Who Shakes the World
 3 Voracious Hydra
-3 Return to Nature
 1 Questing Beast
 3 Shifting Ceratops
 2 Nissa, Who Shakes the World
@@ -11,6 +10,7 @@
 1 Umori, the Collector
 1 Brazen Borrower
 2 Brazen Borrower
+3 Return to Nature
 3 Brazen Borrower
 4 Brazen Borrower
 1 Ashiok, Dream Render
@@ -19,10 +19,19 @@
 1 Hypnotic Sprite
 2 Spectral Sailor
 2 Hypnotic Sprite
+2 Questing Beast
+1 Stonecoil Serpent
+1 Wicked Wolf
+1 Frilled Mystic
+2 Wicked Wolf
+2 Frilled Mystic
+3 Wicked Wolf
+3 Frilled Mystic
 1 Cunning Nightbonder
 2 Cunning Nightbonder
 3 Cunning Nightbonder
 1 Gemrazer
+3 Questing Beast
 1 Hydroid Krasis
 1 Unsummon
 1 Sea-Dasher Octopus
@@ -31,28 +40,13 @@
 4 Voracious Hydra
 1 Cerulean Drake
 2 Cerulean Drake
+2 Mystical Dispute
 1 Wilt
 2 Wilt
-1 Gyruda, Doom of Depths
-1 Destiny Spinner
-2 Destiny Spinner
-3 Destiny Spinner
-4 Destiny Spinner
-3 Negate
-4 Return to Nature
-2 Mystical Dispute
-2 Questing Beast
-1 Thassa's Oracle
-1 Nightpack Ambusher
-2 Thassa's Oracle
 1 Essence Scatter
 1 Neutralize
 2 Neutralize
 2 Ashiok, Dream Render
-1 Stern Dismissal
-1 Clear the Mind
-2 Clear the Mind
-2 Stern Dismissal
 1 Pouncing Shoreshark
 2 Pouncing Shoreshark
 3 Pouncing Shoreshark
@@ -65,13 +59,6 @@
 2 Mu Yanling, Sky Dancer
 2 Whirlwind Denial
 3 Cerulean Drake
-1 Stonecoil Serpent
-1 Wicked Wolf
-1 Frilled Mystic
-2 Wicked Wolf
-2 Frilled Mystic
-3 Wicked Wolf
-3 Frilled Mystic
 2 Gemrazer
 2 Hydroid Krasis
 3 Hydroid Krasis
@@ -80,14 +67,24 @@
 2 Wildborn Preserver
 3 Wildborn Preserver
 4 Wildborn Preserver
-1 Ram Through
-2 Ram Through
-4 Negate
+1 Stern Dismissal
+1 Clear the Mind
+2 Clear the Mind
+2 Stern Dismissal
+3 Negate
+4 Return to Nature
+1 Thassa's Oracle
+1 Gyruda, Doom of Depths
+1 Destiny Spinner
+1 Nightpack Ambusher
+2 Thassa's Oracle
+2 Destiny Spinner
+3 Destiny Spinner
+4 Destiny Spinner
 1 Pulse of Murasa
 2 Pulse of Murasa
 3 Wilt
 4 Cunning Nightbonder
-3 Questing Beast
 4 Questing Beast
 4 Shifting Ceratops
 3 Sea-Dasher Octopus

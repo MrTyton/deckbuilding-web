@@ -4,8 +4,8 @@
 3 Castle Locthwain
 9 Swamp
 1 Dead Weight
-2 Dead Weight
 2 Mire's Grasp
+2 Dead Weight
 4 Serrated Scorpion
 1 Fiend Artisan
 1 Hateful Eidolon
@@ -70,10 +70,10 @@
 3 All That Glitters
 4 All That Glitters
 1 Erebos's Intervention
-1 Woe Strider
 1 Midnight Reaper
-2 Woe Strider
+1 Woe Strider
 2 Midnight Reaper
+2 Woe Strider
 1 Knight of the Ebon Legion
 2 Knight of the Ebon Legion
 3 Knight of the Ebon Legion
@@ -92,23 +92,23 @@
 1 Plaguecrafter
 1 Cavalier of Dawn
 1 Planar Cleansing
+1 Elspeth Conquers Death
+1 The Birth of Meletis
 1 Kaya's Wrath
 1 Basilica Bell-Haunt
 1 Wishclaw Talisman
 1 Treacherous Blessing
 1 Leyline of Sanctity
-1 Elspeth Conquers Death
-1 The Birth of Meletis
 2 Yarok's Fenlurker
 2 Kaya, Orzhov Usurper
 2 Murderous Rider
+2 Elspeth Conquers Death
 2 Kaya's Wrath
 2 Erebos's Intervention
 2 Sorin, Vengeful Bloodlord
 2 Basilica Bell-Haunt
 2 Castle Ardenvale
 2 The Birth of Meletis
-2 Elspeth Conquers Death
 3 Yarok's Fenlurker
 3 Murderous Rider
 3 Kaya's Wrath
@@ -126,8 +126,8 @@
 1 Mythos of Nethroi
 1 Temple Garden
 2 Drill Bit
-2 Temple Garden
 2 Overgrown Tomb
+2 Temple Garden
 2 Stonecoil Serpent
 2 Mythos of Nethroi
 3 Stonecoil Serpent
@@ -142,8 +142,8 @@
 1 Starfield Mystic
 1 Giant Killer
 2 Sentinel's Eyes
-2 Angelic Gift
 2 Starfield Mystic
+2 Angelic Gift
 2 Giant Killer
 3 Angelic Gift
 3 Starfield Mystic
@@ -158,9 +158,9 @@
 1 Luminous Broodmoth
 1 Bastion of Remembrance
 2 Luminous Broodmoth
-3 Woe Strider
 3 Midnight Reaper
 3 Luminous Broodmoth
+3 Woe Strider
 4 Luminous Broodmoth
 1 Blood Crypt
 1 Skyknight Vanguard

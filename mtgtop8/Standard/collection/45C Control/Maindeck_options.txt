@@ -78,8 +78,8 @@
 3 Temple of Mystery
 4 Ketria Triome
 1 Leafkin Druid
-1 Thassa, Deep-Dwelling
 1 Risen Reef
+1 Thassa, Deep-Dwelling
 1 Omnath, Locus of the Roil
 2 Leafkin Druid
 2 Risen Reef
@@ -93,13 +93,13 @@
 1 Temple of Abandon
 1 Genesis Ultimatum
 2 Temple of Epiphany
+2 Temple of Abandon
 2 Arboreal Grazer
 2 Omnath, Locus of the Roil
-2 Temple of Abandon
 2 Genesis Ultimatum
-3 Temple of Abandon
 3 Temple of Epiphany
 3 Arboreal Grazer
+3 Temple of Abandon
 3 Stomping Ground
 3 Steam Vents
 3 Omnath, Locus of the Roil
@@ -107,9 +107,9 @@
 4 Genesis Ultimatum
 4 Temple of Epiphany
 4 Steam Vents
-4 Arboreal Grazer
 4 Agent of Treachery
 4 Cavalier of Thorns
+4 Arboreal Grazer
 4 Temple of Mystery
 4 Omnath, Locus of the Roil
 4 Stomping Ground
@@ -187,14 +187,14 @@
 4 Mythos of Illuna
 1 Scampering Scorcher
 1 Rugged Highlands
-1 Thornwood Falls
-1 Blossoming Sands
 1 Tranquil Cove
+1 Blossoming Sands
 1 Swiftwater Cliffs
+1 Thornwood Falls
 1 Elite Guardmage
 1 Cloudkin Seer
-1 Evolving Wilds
 1 Spark Double
+1 Evolving Wilds
 1 Meteor Golem
 1 Flicker of Fate
 1 Fire Prophecy
@@ -204,10 +204,10 @@
 1 Centaur Peacemaker
 1 Teferi's Time Twist
 2 Scampering Scorcher
-2 Thornwood Falls
 2 Rugged Highlands
 2 Tranquil Cove
 2 Elite Guardmage
+2 Thornwood Falls
 2 Cloudkin Seer
 2 Evolving Wilds
 2 Flicker of Fate
@@ -220,11 +220,11 @@
 2 Frost Lynx
 2 Wind-Scarred Crag
 3 Mountain
-3 Tranquil Cove
 3 Scampering Scorcher
 3 Flicker of Fate
-3 Evolving Wilds
 3 Thornwood Falls
+3 Evolving Wilds
+3 Tranquil Cove
 3 Fire Prophecy
 3 Elite Guardmage
 3 Blossoming Sands

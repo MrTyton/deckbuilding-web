@@ -73,8 +73,8 @@
 |                    3|[Grove of the Burnwillows](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130595)    |                     |                                                                                            |
 |                    1|[Basilisk Collar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426041)             |                     |                                                                                            |
 |                    1|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)           |                     |                                                                                            |
-|                    1|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)          |                     |                                                                                            |
 |                    1|[Golos, Tireless Pilgrim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466980)     |                     |                                                                                            |
+|                    1|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)          |                     |                                                                                            |
 |                    4|[Thorn of Amethyst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140166)           |                     |                                                                                            |
 |                    2|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)          |                     |                                                                                            |
 

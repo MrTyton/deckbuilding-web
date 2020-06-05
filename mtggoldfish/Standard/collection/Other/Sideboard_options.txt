@@ -68,8 +68,8 @@
 1 Shredded Sails
 1 Ashiok, Nightmare Muse
 1 Liliana, Dreadhorde General
-1 Extinction Event
 1 Commence the Endgame
+1 Extinction Event
 1 Price of Betrayal
 1 Witch's Vengeance
 2 Pharika's Libation
@@ -100,10 +100,10 @@
 2 Deputy of Detention
 3 Teferi, Time Raveler
 3 Deputy of Detention
-1 Despark
 1 Jegantha, the Wellspring
-2 Despark
+1 Despark
 2 Solar Blaze
+2 Despark
 3 Dovin's Veto
 1 Paradise Druid
 1 Kenrith, the Returned King
@@ -126,12 +126,6 @@
 2 Command the Dreadhorde
 3 The Elderspell
 4 Shatter the Sky
-1 Pouncing Shoreshark
-1 Dungeon Geists
-2 Pouncing Shoreshark
-2 Dungeon Geists
-3 Pouncing Shoreshark
-4 Pouncing Shoreshark
 1 Elspeth Conquers Death
 1 Agent of Treachery
 1 Glass Casket
@@ -140,9 +134,15 @@
 2 Devout Decree
 3 Devout Decree
 4 Devout Decree
+1 Pouncing Shoreshark
+1 Dungeon Geists
+2 Pouncing Shoreshark
+2 Dungeon Geists
+3 Pouncing Shoreshark
+4 Pouncing Shoreshark
 1 Chandra, Acolyte of Flame
-1 Cindervines
 1 Elspeth, Sun's Nemesis
+1 Cindervines
 2 Unbreakable Formation
 2 Cindervines
 2 Elspeth, Sun's Nemesis
@@ -161,9 +161,9 @@
 3 Priest of Forgotten Gods
 3 Serrated Scorpion
 3 Chandra, Acolyte of Flame
+4 Claim the Firstborn
 4 Serrated Scorpion
 4 Priest of Forgotten Gods
-4 Claim the Firstborn
 1 Essence Scatter
 2 Essence Scatter
 3 Essence Scatter
@@ -194,8 +194,8 @@
 3 Sentinel's Eyes
 4 Sentinel's Eyes
 4 Solid Footing
-1 Leyline of the Void
 1 Dead Weight
+1 Leyline of the Void
 2 Disfigure
 2 Leyline of the Void
 3 Leyline of the Void

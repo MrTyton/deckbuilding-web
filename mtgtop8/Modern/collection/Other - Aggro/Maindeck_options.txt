@@ -1,22 +1,12 @@
+1 Lava Dart
 1 Marsh Flats
 1 Snow-Covered Swamp
 1 Snow-Covered Mountain
-1 Lava Dart
-2 Snow-Covered Mountain
 1 Unearth
 1 Scalding Tarn
 2 Scalding Tarn
-3 Inquisition of Kozilek
-4 Inquisition of Kozilek
-2 Unearth
-1 Dark Confidant
-2 Dark Confidant
-3 Dark Confidant
-1 Kroxa, Titan of Death's Hunger
-2 Kroxa, Titan of Death's Hunger
-2 Wooded Foothills
-4 Seal of Fire
 2 Lava Dart
+2 Unearth
 3 Scalding Tarn
 1 Polluted Delta
 2 Polluted Delta
@@ -41,21 +31,34 @@
 2 Mana Leak
 2 Snapcaster Mage
 2 Steam Vents
-2 Island
 2 Opt
 2 Darkslick Shores
 2 Force of Negation
 2 Sprite Dragon
 3 Delver of Secrets
 3 Darkslick Shores
-3 Opt
-3 Serum Visions
 3 Sprite Dragon
+3 Opt
 4 Opt
 4 Delver of Secrets
 4 Polluted Delta
 4 Sprite Dragon
 4 Scalding Tarn
+2 Snow-Covered Mountain
+3 Inquisition of Kozilek
+4 Inquisition of Kozilek
+1 Dark Confidant
+2 Dark Confidant
+3 Dark Confidant
+1 Kroxa, Titan of Death's Hunger
+2 Kroxa, Titan of Death's Hunger
+2 Wooded Foothills
+1 Kiln Fiend
+1 Spell Snare
+2 Archmage's Charm
+2 Island
+3 Serum Visions
+4 Seal of Fire
 1 Magus of the Moon
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
@@ -73,15 +76,15 @@
 1 Klothys, God of Destiny
 1 Windswept Heath
 1 Forest
-2 Kitchen Finks
 2 Verdant Catacombs
-2 Bonecrusher Giant
 2 Windswept Heath
 2 Forest
 2 Utopia Sprawl
+2 Kitchen Finks
 2 Arbor Elf
 2 Klothys, God of Destiny
 2 Stomping Ground
+2 Bonecrusher Giant
 2 Glorybringer
 3 Kitchen Finks
 3 Bonecrusher Giant
@@ -94,30 +97,31 @@
 3 Wooded Foothills
 3 Utopia Sprawl
 4 Bonecrusher Giant
+4 Glorybringer
 4 Magus of the Moon
 4 Stomping Ground
 4 Utopia Sprawl
 4 Wooded Foothills
 4 Arbor Elf
 4 Forest
-4 Glorybringer
 5 Forest
 6 Forest
+1 Arid Mesa
 2 Marsh Flats
 1 Dreadhorde Arcanist
 2 Snow-Covered Swamp
 3 Kroxa, Titan of Death's Hunger
 3 Thoughtseize
 4 Sunbaked Canyon
-1 Kiln Fiend
 1 Drowned Catacomb
 1 Murderous Cut
-1 Spell Snare
 2 Spell Snare
 2 Dreadhorde Arcanist
 3 Dreadhorde Arcanist
 3 Snow-Covered Mountain
-1 Arid Mesa
+2 Spirebluff Canal
+3 Spirebluff Canal
+3 Snapcaster Mage
 1 Dreadbore
 2 Arid Mesa
 2 Swamp
@@ -134,8 +138,9 @@
 3 Lava Dart
 4 Light Up the Stage
 4 Blood Crypt
+2 Kiln Fiend
+4 Mountain
 2 Drown in the Loch
-2 Archmage's Charm
 3 Force of Negation
 4 Darkslick Shores
 4 Serum Visions
@@ -166,9 +171,9 @@
 2 Misty Rainforest
 4 Kitchen Finks
 7 Forest
-1 Stoneforge Mystic
 1 Giver of Runes
 1 Plains
+1 Stoneforge Mystic
 1 Magnetic Theft
 1 Sigarda's Aid
 1 Kor Duelist
@@ -176,8 +181,8 @@
 1 Steelshaper's Gift
 1 Kor Outfitter
 1 Colossus Hammer
-1 Shadowspear
 1 Apostle's Blessing
+1 Shadowspear
 1 Spellskite
 1 Inspiring Vantage
 2 Stoneforge Mystic
@@ -203,10 +208,10 @@
 3 Sigarda's Aid
 3 Kor Duelist
 3 Magnetic Theft
-3 Giver of Runes
 3 Spellskite
-3 Inspiring Vantage
+3 Giver of Runes
 3 Sacred Foundry
+3 Inspiring Vantage
 4 Stoneforge Mystic
 4 Magnetic Theft
 4 Inkmoth Nexus
