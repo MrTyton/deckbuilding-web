@@ -1,24 +1,23 @@
-3 Call of the Death-Dweller
 4 Alseid of Life's Bounty
 2 Temple of Silence
-3 Castle Locthwain
+3 Call of the Death-Dweller
+4 Serrated Scorpion
+1 Fiend Artisan
 9 Swamp
 1 Dead Weight
 2 Mire's Grasp
 2 Dead Weight
-4 Serrated Scorpion
-1 Fiend Artisan
+2 Fiend Artisan
+1 Corpse Knight
+2 Corpse Knight
 1 Hateful Eidolon
 2 Hateful Eidolon
 3 Hateful Eidolon
 4 Hateful Eidolon
-1 Corpse Knight
-2 Corpse Knight
-2 Fiend Artisan
+3 Castle Locthwain
 3 Mire's Grasp
-1 Savai Triome
-2 Lampad of Death's Vigil
-4 Call of the Death-Dweller
+3 Corpse Knight
+4 Corpse Knight
 1 Gutterbones
 2 Gutterbones
 3 Gutterbones
@@ -30,9 +29,9 @@
 8 Plains
 10 Swamp
 11 Swamp
-3 Corpse Knight
-4 Corpse Knight
 1 All That Glitters
+1 Indatha Triome
+2 Indatha Triome
 4 Mire's Grasp
 1 Kaya's Ghostform
 1 Scoured Barrens
@@ -40,27 +39,32 @@
 2 Scoured Barrens
 3 Scoured Barrens
 4 Scoured Barrens
+1 Savai Triome
+2 All That Glitters
 1 Heartless Act
 2 Heartless Act
+2 Lampad of Death's Vigil
+4 Call of the Death-Dweller
 1 Whisper Squad
 2 Whisper Squad
 3 Whisper Squad
 4 Whisper Squad
-2 All That Glitters
 1 Tymaret, Chosen from Death
+1 Dire Tactics
+2 Dire Tactics
+3 Indatha Triome
+4 Indatha Triome
 1 Castle Ardenvale
 1 Final Payment
 3 Kaya's Ghostform
-1 Soul-Guide Lantern
 1 Omen of the Dead
+1 Soul-Guide Lantern
 1 Healer's Hawk
 2 Omen of the Dead
 2 Healer's Hawk
 3 Healer's Hawk
 4 Healer's Hawk
 9 Plains
-1 Indatha Triome
-2 Indatha Triome
 3 Dead Weight
 4 Dead Weight
 1 Aphemia, the Cacophony
@@ -78,11 +82,11 @@
 2 Knight of the Ebon Legion
 3 Knight of the Ebon Legion
 4 Knight of the Ebon Legion
-1 Dire Tactics
-2 Dire Tactics
 1 Blacklance Paragon
 1 Fight as One
 2 Fight as One
+1 Tithe Taker
+2 Tithe Taker
 1 Kaya, Orzhov Usurper
 1 Ugin, the Ineffable
 1 Field of Ruin
@@ -91,9 +95,9 @@
 1 Sorin, Vengeful Bloodlord
 1 Plaguecrafter
 1 Cavalier of Dawn
-1 Planar Cleansing
-1 Elspeth Conquers Death
 1 The Birth of Meletis
+1 Elspeth Conquers Death
+1 Planar Cleansing
 1 Kaya's Wrath
 1 Basilica Bell-Haunt
 1 Wishclaw Talisman
@@ -119,7 +123,6 @@
 1 Blood for Bones
 2 Final Payment
 3 Final Payment
-4 Castle Locthwain
 1 Overgrown Tomb
 1 Stonecoil Serpent
 1 Drill Bit
@@ -133,6 +136,12 @@
 3 Stonecoil Serpent
 3 Mythos of Nethroi
 4 Stonecoil Serpent
+1 Orzhov Enforcer
+2 Orzhov Enforcer
+3 Dire Tactics
+3 Orzhov Enforcer
+4 Dire Tactics
+4 Orzhov Enforcer
 1 Durable Coilbug
 2 Durable Coilbug
 3 Durable Coilbug
@@ -151,10 +160,6 @@
 3 Sentinel's Eyes
 4 Karametra's Blessing
 4 Angelic Gift
-1 Tithe Taker
-2 Tithe Taker
-3 Indatha Triome
-4 Indatha Triome
 1 Luminous Broodmoth
 1 Bastion of Remembrance
 2 Luminous Broodmoth
@@ -166,9 +171,9 @@
 1 Skyknight Vanguard
 1 Unbreakable Formation
 1 Worthy Knight
-1 Inspiring Veteran
 1 Venerable Knight
 1 Stormfist Crusader
+1 Inspiring Veteran
 1 Tournament Grounds
 1 Fervent Champion
 1 Sacred Foundry
@@ -192,6 +197,7 @@
 3 Worthy Knight
 3 Tournament Grounds
 3 Inspiring Veteran
+4 Sacred Foundry
 4 Skyknight Vanguard
 4 Blood Crypt
 4 Fight as One
@@ -199,7 +205,6 @@
 4 Venerable Knight
 4 Tournament Grounds
 4 Inspiring Veteran
-4 Sacred Foundry
 4 Fervent Champion
 1 Spark Harvest
 1 Finale of Eternity

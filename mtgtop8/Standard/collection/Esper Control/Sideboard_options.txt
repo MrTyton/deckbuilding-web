@@ -29,6 +29,9 @@
 2 Disdainful Stroke
 1 Deputy of Detention
 2 Glass Casket
+1 Kunoros, Hound of Athreos
+2 Heliod's Intervention
+2 Kunoros, Hound of Athreos
 1 Command the Dreadhorde
 1 Enter the God-Eternals
 2 Enter the God-Eternals
@@ -38,15 +41,12 @@
 1 Pacifism
 1 Keep Safe
 1 Clear the Mind
-1 Disenchant
 1 Duress
+1 Disenchant
 2 Omen of the Sun
 2 Pacifism
-2 Disenchant
 2 Duress
-1 Kunoros, Hound of Athreos
-2 Kunoros, Hound of Athreos
-2 Heliod's Intervention
+2 Disenchant
 1 Elspeth, Sun's Nemesis
 1 Unmoored Ego
 1 Leyline of the Void
@@ -54,6 +54,16 @@
 2 Leyline of the Void
 3 Leyline of the Void
 3 Unmoored Ego
+1 Shatter the Sky
+2 Shatter the Sky
+2 Negate
+2 Oath of Kaya
+3 Shatter the Sky
+3 Despark
+3 Oath of Kaya
+4 Oath of Kaya
+4 Shatter the Sky
+4 Despark
 1 Shark Typhoon
 2 Shark Typhoon
 3 Aether Gust
@@ -68,13 +78,3 @@
 3 Elspeth's Nightmare
 3 Ethereal Absolution
 4 Elspeth's Nightmare
-1 Shatter the Sky
-2 Shatter the Sky
-2 Negate
-2 Oath of Kaya
-3 Shatter the Sky
-3 Despark
-3 Oath of Kaya
-4 Oath of Kaya
-4 Shatter the Sky
-4 Despark

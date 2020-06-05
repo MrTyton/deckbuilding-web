@@ -80,10 +80,10 @@
 4 Thought Erasure
 4 Uro, Titan of Nature's Wrath
 1 Temple of Malady
+1 Mystical Dispute
 1 Casualties of War
 1 Tamiyo, Collector of Tales
 1 Overgrown Tomb
-1 Mystical Dispute
 1 Polukranos, Unchained
 2 Tamiyo, Collector of Tales
 2 Temple of Malady
@@ -112,9 +112,8 @@
 2 Sacred Foundry
 3 Sacred Foundry
 4 Sacred Foundry
-1 Castle Ardenvale
-1 Ruinous Ultimatum
 1 Alseid of Life's Bounty
+1 Ruinous Ultimatum
 1 Lurrus of the Dream Den
 1 Tajic, Legion's Edge
 1 Haktos the Unscarred
@@ -123,23 +122,24 @@
 1 Response/Resurgence
 1 Street Riot
 1 Tomik, Distinguished Advokist
+1 Castle Ardenvale
 1 Resolute Watchdog
-2 Castle Ardenvale
 2 Alseid of Life's Bounty
+2 Castle Ardenvale
 2 Tomik, Distinguished Advokist
 2 Tajic, Legion's Edge
 2 Ruinous Ultimatum
 2 Haktos the Unscarred
 2 General's Enforcer
 3 Alseid of Life's Bounty
-3 Castle Ardenvale
 3 General's Enforcer
+3 Castle Ardenvale
 3 Godless Shrine
 3 Tomik, Distinguished Advokist
 3 Tajic, Legion's Edge
 3 Haktos the Unscarred
-4 Castle Ardenvale
 4 General's Enforcer
+4 Castle Ardenvale
 4 Godless Shrine
 4 Hushbringer
 3 Shark Typhoon
@@ -246,8 +246,8 @@
 2 Indatha Triome
 1 Evolving Wilds
 2 Evolving Wilds
-1 Thassa, Deep-Dwelling
 1 Banishing Light
+1 Thassa, Deep-Dwelling
 1 Shatter the Sky
 2 Thassa, Deep-Dwelling
 1 Lukka, Coppercoat Outcast
@@ -256,10 +256,10 @@
 2 Omen of the Sun
 3 Omen of the Sun
 4 Omen of the Sun
-1 The Birth of Meletis
 1 Spark Double
 1 Lazav, the Multifarious
 1 Eidolon of Obstruction
+1 The Birth of Meletis
 1 Epic Downfall
 1 Prison Realm
 1 Mystic Subdual
@@ -267,29 +267,27 @@
 1 Nightmare Shepherd
 1 Repudiate/Replicate
 1 Quasiduplicate
-2 The Birth of Meletis
-2 Shatter the Sky
 2 Banishing Light
 2 Eidolon of Obstruction
+2 The Birth of Meletis
 2 Lazav, the Multifarious
 2 Nightmare Shepherd
+2 Shatter the Sky
 2 Quasiduplicate
 2 Protean Thaumaturge
 2 Prison Realm
 2 Mystic Subdual
 2 Epic Downfall
-3 Shatter the Sky
-3 The Birth of Meletis
 3 Temple of Deceit
-3 Banishing Light
 3 Evolving Wilds
+3 Banishing Light
 3 Protean Thaumaturge
 3 Eidolon of Obstruction
+3 The Birth of Meletis
 3 Mystic Subdual
 3 Nightmare Shepherd
 3 Epic Downfall
-4 Agent of Treachery
-4 Shatter the Sky
+3 Shatter the Sky
 4 The Birth of Meletis
 4 Evolving Wilds
 4 Banishing Light
@@ -297,9 +295,11 @@
 4 Protean Thaumaturge
 4 Epic Downfall
 4 Nightmare Shepherd
+4 Shatter the Sky
+4 Agent of Treachery
 1 Frilled Mystic
-1 Tale's End
 1 Disdainful Stroke
+1 Tale's End
 1 Omen of the Hunt
 1 Nightpack Ambusher
 2 Frilled Mystic
@@ -345,15 +345,15 @@
 3 Temple Garden
 4 Temple Garden
 1 Hydroid Krasis
-1 Atris, Oracle of Half-Truths
 1 Raugrin Triome
+1 Atris, Oracle of Half-Truths
+1 Narset of the Ancient Way
 1 Deafening Clarion
 1 Thief of Sanity
 1 Niv-Mizzet Reborn
-1 Narset of the Ancient Way
 1 Assassin's Trophy
-2 Atris, Oracle of Half-Truths
 2 Raugrin Triome
+2 Atris, Oracle of Half-Truths
 2 Deafening Clarion
 2 Thief of Sanity
 2 Assassin's Trophy
@@ -392,11 +392,11 @@
 2 Brineborn Cutthroat
 2 Pharika's Libation
 2 Angrath's Rampage
+3 Steam Vents
 3 Flame Sweep
 3 Pharika's Libation
 3 Angrath's Rampage
 3 Brineborn Cutthroat
-3 Steam Vents
 4 Brineborn Cutthroat
 1 Underworld Dreams
 1 Cauldron Familiar
@@ -416,13 +416,13 @@
 3 Dread Presence
 4 Gray Merchant of Asphodel
 4 Drag to the Underworld
-1 Disinformation Campaign
 1 Sinister Sabotage
+1 Disinformation Campaign
 1 Plaguecrafter
 1 Burglar Rat
 1 Order of Midnight
-2 Disinformation Campaign
 2 Sinister Sabotage
+2 Disinformation Campaign
 2 Burglar Rat
 2 Order of Midnight
 2 Plaguecrafter
@@ -524,11 +524,11 @@
 4 Incubation Druid
 1 Domri, Anarch of Bolas
 1 Castle Embereth
+1 Elspeth, Sun's Nemesis
 1 Forbidden Friendship
 1 Temple of Triumph
 1 Sarkhan the Masterless
 1 Tibalt, Rakish Instigator
-1 Elspeth, Sun's Nemesis
 1 Ajani, the Greathearted
 1 March of the Multitudes
 1 End-Raze Forerunners
@@ -537,8 +537,8 @@
 1 Stomping Ground
 2 Sarkhan the Masterless
 2 Domri, Anarch of Bolas
-2 Forbidden Friendship
 2 Elspeth, Sun's Nemesis
+2 Forbidden Friendship
 2 Tibalt, Rakish Instigator
 2 Raise the Alarm
 2 Ajani, the Greathearted
@@ -553,10 +553,10 @@
 3 Raise the Alarm
 3 March of the Multitudes
 3 Stomping Ground
-4 Lukka, Coppercoat Outcast
 4 Forbidden Friendship
 4 Raise the Alarm
 4 Stomping Ground
+4 Lukka, Coppercoat Outcast
 4 March of the Multitudes
 1 Pouncing Shoreshark
 1 Unsummon
@@ -573,8 +573,8 @@
 3 Opt
 3 Unsummon
 3 Cunning Nightbonder
-4 Neutralize
 4 Pouncing Shoreshark
+4 Neutralize
 4 Negate
 4 Cunning Nightbonder
 4 Opt
@@ -592,8 +592,8 @@
 2 Elite Guardmage
 2 Charming Prince
 2 Deputy of Detention
-2 Elspeth Conquers Death
 2 Glass Casket
+2 Elspeth Conquers Death
 2 Alirios, Enraptured
 3 Charming Prince
 3 Elite Guardmage

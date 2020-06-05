@@ -46,7 +46,7 @@
 |                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)    |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)       |
 |                    2|[Nimble Mongoose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413721)   |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)     |
 |                    3|[Urza's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3818)       |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)          |
-|                    3|[Nimble Mongoose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413721)   |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)     |
-|                    4|[Urza's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3818)       |                    2|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)|
+|                    3|[Nimble Mongoose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413721)   |                    2|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)|
+|                    4|[Urza's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3818)       |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)     |
 |                    4|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)      |                     |                                                                                                 |
 
