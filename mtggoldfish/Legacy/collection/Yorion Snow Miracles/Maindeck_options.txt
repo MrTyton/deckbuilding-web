@@ -16,12 +16,12 @@
 1 Snow-Covered Swamp
 1 Mystic Sanctuary
 2 Volcanic Island
-1 Counterspell
-1 Pyroblast
 1 Terminus
+1 Pyroblast
+1 Counterspell
 1 Veil of Summer
-2 Terminus
 2 Mystic Sanctuary
+2 Terminus
 3 Terminus
 4 Prismatic Vista
 3 Abrupt Decay
@@ -58,8 +58,8 @@
 1 Savannah
 1 Reclamation Sage
 4 Abrupt Decay
-1 Supreme Verdict
 1 Entreat the Angels
+1 Supreme Verdict
 2 Supreme Verdict
 6 Snow-Covered Island
 1 Inquisition of Kozilek
@@ -89,26 +89,26 @@
 1 Sevinne's Reclamation
 1 Kaya, Orzhov Usurper
 2 Snow-Covered Swamp
-1 Island
-1 Swamp
 1 Forest
 1 Cabal Therapy
+1 Swamp
+1 Island
 2 Cabal Therapy
 1 Cling to Dust
+1 Birds of Paradise
 1 Food Chain
 1 Manipulate Fate
 1 Misthollow Griffin
 1 Eternal Scourge
 1 Walking Ballista
-1 Birds of Paradise
-2 Island
 2 Walking Ballista
-2 Forest
-2 Birds of Paradise
 2 Manipulate Fate
 2 Misthollow Griffin
+2 Forest
 2 Food Chain
+2 Island
 2 Cling to Dust
+2 Birds of Paradise
 3 Walking Ballista
 3 Misthollow Griffin
 3 Food Chain
@@ -134,7 +134,6 @@
 1 Ketria Triome
 1 Taiga
 1 Deceiver Exarch
-1 Birthing Pod
 1 Zealous Conscripts
 1 Fiend Artisan
 1 Kiki-Jiki, Mirror Breaker
@@ -142,24 +141,25 @@
 1 Zagoth Triome
 1 Primeval Titan
 1 Field of the Dead
-1 Scavenging Ooze
-1 Dryad Arbor
 1 Veteran Explorer
+1 Dryad Arbor
+1 Scavenging Ooze
+1 Birthing Pod
 1 Restoration Angel
 1 Bojuka Bog
-2 Birthing Pod
 2 Primeval Titan
 2 Field of the Dead
 2 Veteran Explorer
+2 Birthing Pod
 2 Green Sun's Zenith
 2 Restoration Angel
-3 Cabal Therapy
 3 Green Sun's Zenith
-3 Field of the Dead
 3 Veteran Explorer
-4 Cabal Therapy
-4 Green Sun's Zenith
+3 Cabal Therapy
+3 Field of the Dead
 4 Veteran Explorer
+4 Green Sun's Zenith
+4 Cabal Therapy
 1 Windswept Heath
 1 Assassin's Trophy
 1 Oath of Nissa
@@ -171,35 +171,35 @@
 1 Lightning Bolt
 2 Lightning Bolt
 3 Counterbalance
+1 Spell Snare
+2 Veil of Summer
+4 Scalding Tarn
 1 Monastery Mentor
 1 Thoughtseize
 1 Wasteland
 2 Kaya, Orzhov Usurper
 2 Monastery Mentor
-2 Thoughtseize
 2 Plague Engineer
+2 Thoughtseize
 2 Narset, Parter of Veils
 2 Wasteland
 3 Wasteland
 3 Thoughtseize
 4 Snapcaster Mage
 4 Thoughtseize
-1 Urza, Lord High Artificer
 1 Gilded Goose
 1 Metallic Rebuke
 1 Animate Dead
-2 Urza, Lord High Artificer
+1 Urza, Lord High Artificer
 2 Gilded Goose
 2 Leovold, Emissary of Trest
 2 Animate Dead
-3 Urza, Lord High Artificer
-3 Gilded Goose
+2 Urza, Lord High Artificer
 3 Fatal Push
+3 Gilded Goose
 3 Leovold, Emissary of Trest
-4 Urza, Lord High Artificer
+3 Urza, Lord High Artificer
 4 Gilded Goose
-1 Spell Snare
-2 Veil of Summer
 1 Watcher for Tomorrow
 3 Island
-4 Scalding Tarn
+4 Urza, Lord High Artificer

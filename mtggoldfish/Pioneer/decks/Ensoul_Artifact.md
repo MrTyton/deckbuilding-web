@@ -59,7 +59,7 @@
 |                    3|[Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)               |                     |                                                                                               |
 |                    3|[Kytheon, Hero of Akros](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398428)       |                     |                                                                                               |
 |                    4|[Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)               |                     |                                                                                               |
-|                    4|[Mox Amber](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443112)                    |                     |                                                                                               |
 |                    4|[Kytheon, Hero of Akros](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398428)       |                     |                                                                                               |
+|                    4|[Mox Amber](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443112)                    |                     |                                                                                               |
 |                    4|[Inspiring Vantage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417819)            |                     |                                                                                               |
 

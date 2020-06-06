@@ -49,6 +49,6 @@
 |                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)               |                    3|[Pyrokinesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3180)          |
 |                    1|[Goblin Settler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=20216)       |                     |                                                                                              |
 |                    1|[Grenzo, Havoc Raiser](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416811)|                     |                                                                                              |
-|                    2|[Goblin Settler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=20216)       |                     |                                                                                              |
 |                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)            |                     |                                                                                              |
+|                    2|[Goblin Settler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=20216)       |                     |                                                                                              |
 

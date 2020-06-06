@@ -47,17 +47,17 @@
 1 Tireless Tracker
 2 Archmage's Charm
 3 Archmage's Charm
-1 Teferi, Time Raveler
-1 Pithing Needle
-1 Whir of Invention
 1 Thopter Foundry
-1 Ensnaring Bridge
+1 Teferi, Time Raveler
 1 Sword of the Meek
-2 Teferi, Time Raveler
+1 Whir of Invention
+1 Pithing Needle
+1 Ensnaring Bridge
 2 Thopter Foundry
+2 Teferi, Time Raveler
 2 Whir of Invention
-3 Whir of Invention
 3 Thopter Foundry
+3 Whir of Invention
 1 Birds of Paradise
 2 Birds of Paradise
 2 Scrabbling Claws
@@ -80,36 +80,6 @@
 3 Fatal Push
 4 Fatal Push
 4 Prismatic Vista
-1 Kinnan, Bonder Prodigy
-1 Restoration Angel
-2 Kinnan, Bonder Prodigy
-2 Restoration Angel
-3 Restoration Angel
-3 Mox Amber
-3 Kinnan, Bonder Prodigy
-4 Kinnan, Bonder Prodigy
-1 Ichor Wellspring
-1 Raugrin Triome
-1 Inventors' Fair
-1 Goblin Engineer
-1 Pentad Prism
-1 Damping Sphere
-1 Sacred Foundry
-2 Raugrin Triome
-2 Ichor Wellspring
-2 Snow-Covered Plains
-2 Goblin Engineer
-2 Sacred Foundry
-2 Pentad Prism
-2 Soul-Guide Lantern
-2 Hallowed Fountain
-2 Sword of the Meek
-2 Damping Sphere
-3 Goblin Engineer
-3 Soul-Guide Lantern
-4 Whir of Invention
-4 Goblin Engineer
-4 Thopter Foundry
 1 Ephemerate
 1 Thraben Inspector
 2 Wall of Blossoms
@@ -120,13 +90,43 @@
 3 Thraben Inspector
 4 Thraben Inspector
 4 Springleaf Drum
-1 Tormod's Crypt
-1 Jace, the Mind Sculptor
-1 Academy Ruins
-1 Talisman of Progress
-1 Relic of Progenitus
-2 Talisman of Progress
-2 Relic of Progenitus
-3 Talisman of Progress
-4 Wrenn and Six
 4 Metallic Rebuke
+1 Raugrin Triome
+1 Inventors' Fair
+1 Ichor Wellspring
+1 Pentad Prism
+1 Goblin Engineer
+1 Damping Sphere
+1 Sacred Foundry
+2 Snow-Covered Plains
+2 Raugrin Triome
+2 Sword of the Meek
+2 Sacred Foundry
+2 Goblin Engineer
+2 Ichor Wellspring
+2 Pentad Prism
+2 Soul-Guide Lantern
+2 Hallowed Fountain
+2 Damping Sphere
+3 Soul-Guide Lantern
+3 Goblin Engineer
+4 Thopter Foundry
+4 Goblin Engineer
+4 Whir of Invention
+1 Restoration Angel
+1 Kinnan, Bonder Prodigy
+2 Restoration Angel
+2 Kinnan, Bonder Prodigy
+3 Restoration Angel
+3 Mox Amber
+3 Kinnan, Bonder Prodigy
+4 Kinnan, Bonder Prodigy
+1 Tormod's Crypt
+4 Wrenn and Six
+1 Jace, the Mind Sculptor
+1 Relic of Progenitus
+1 Talisman of Progress
+1 Academy Ruins
+2 Relic of Progenitus
+2 Talisman of Progress
+3 Talisman of Progress

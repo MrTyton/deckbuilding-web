@@ -76,8 +76,8 @@
 |                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)      |                     |                                                                                               |
 |                    1|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)        |                     |                                                                                               |
 |                    1|[Painful Truths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401981)        |                     |                                                                                               |
-|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)      |                     |                                                                                               |
 |                    2|[Painful Truths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401981)        |                     |                                                                                               |
 |                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)        |                     |                                                                                               |
+|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)      |                     |                                                                                               |
 |                    3|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)|                     |                                                                                               |
 

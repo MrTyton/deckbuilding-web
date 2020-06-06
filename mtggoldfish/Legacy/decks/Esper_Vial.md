@@ -41,8 +41,8 @@
 |                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)         |                    1|[Sevinne's Reclamation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=470551)  |
 |                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)|                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)          |
 |                    1|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)         |                    1|[Palace Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416775)          |
-|                    2|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962) |                    1|[Council's Judgment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382239)     |
-|                    2|[Scrubland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=882)         |                    1|[Leonin Relic-Warder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=432997)    |
+|                    2|[Scrubland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=882)         |                    1|[Council's Judgment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382239)     |
+|                    2|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962) |                    1|[Leonin Relic-Warder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=432997)    |
 |                    2|[Flickerwisp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376338)    |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)          |
 |                    2|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)         |                     |                                                                                                  |
 
