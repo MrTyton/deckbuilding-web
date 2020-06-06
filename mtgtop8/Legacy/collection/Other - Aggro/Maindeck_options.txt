@@ -8,9 +8,9 @@
 1 Prismatic Vista
 2 Ponder
 2 Karakas
+2 Ice-Fang Coatl
 2 Arcum's Astrolabe
 2 Snow-Covered Island
-2 Ice-Fang Coatl
 2 Oko, Thief of Crowns
 2 Prismatic Vista
 2 Snow-Covered Plains
@@ -23,36 +23,37 @@
 4 Ice-Fang Coatl
 4 Polluted Delta
 2 Scrubland
-2 Wasteland
 2 Charming Prince
+2 Wasteland
 3 Charming Prince
 1 Forest
 2 Forest
 1 Mountain
 1 Grove of the Burnwillows
-1 Klothys, God of Destiny
 1 Simian Spirit Guide
 1 Dead / Gone
 1 Blood Sun
+1 Yidaro, Wandering Monster
 1 Taiga
 1 Bonecrusher Giant
 1 Ancient Tomb
 1 Chandra, Awakened Inferno
 1 Trinisphere
+1 Klothys, God of Destiny
 1 Fire-Lit Thicket
-1 Yidaro, Wandering Monster
 1 Neheb, Dreadhorde Champion
 1 Thought-Knot Seer
 1 Elvish Spirit Guide
 1 City of Traitors
 1 Anje's Ravager
-2 Bonecrusher Giant
 2 Simian Spirit Guide
 2 Mountain
 2 Grove of the Burnwillows
+2 Yidaro, Wandering Monster
 2 Blood Sun
-2 Klothys, God of Destiny
+2 Bonecrusher Giant
 2 Chandra, Awakened Inferno
+2 Klothys, God of Destiny
 2 Trinisphere
 2 Thought-Knot Seer
 2 Dead / Gone
@@ -61,21 +62,19 @@
 2 Ancient Tomb
 2 Fire-Lit Thicket
 2 City of Traitors
-2 Yidaro, Wandering Monster
-3 Bonecrusher Giant
 3 Simian Spirit Guide
 3 City of Traitors
 3 Grove of the Burnwillows
+3 Bonecrusher Giant
+3 Yidaro, Wandering Monster
 3 Blood Sun
 3 Klothys, God of Destiny
 3 Ancient Tomb
-3 Yidaro, Wandering Monster
 3 Elvish Spirit Guide
 3 Taiga
 3 Trinisphere
 3 Thought-Knot Seer
 3 Mountain
-4 Bonecrusher Giant
 4 Simian Spirit Guide
 4 Grove of the Burnwillows
 4 Blood Sun
@@ -83,6 +82,7 @@
 4 Yidaro, Wandering Monster
 4 Thought-Knot Seer
 4 Trinisphere
+4 Bonecrusher Giant
 4 Ancient Tomb
 4 Elvish Spirit Guide
 4 Taiga
@@ -90,8 +90,8 @@
 1 Green Sun's Zenith
 1 Cavern of Souls
 1 Windswept Heath
-1 Elvish Reclaimer
 1 Archon of Valor's Reach
+1 Elvish Reclaimer
 1 Scavenging Ooze
 1 Dryad Arbor
 1 Bayou
@@ -109,9 +109,9 @@
 1 Gaea's Cradle
 2 Misty Rainforest
 2 Bayou
+2 Elvish Reclaimer
 2 Green Sun's Zenith
 2 Windswept Heath
-2 Elvish Reclaimer
 2 Gaea's Cradle
 2 Wirewood Symbiote
 2 Birchlore Rangers
@@ -123,8 +123,8 @@
 2 Once Upon a Time
 2 Elvish Visionary
 2 Heritage Druid
-3 Green Sun's Zenith
 3 Elvish Reclaimer
+3 Green Sun's Zenith
 3 Glimpse of Nature
 3 Quirion Ranger
 3 Birchlore Rangers

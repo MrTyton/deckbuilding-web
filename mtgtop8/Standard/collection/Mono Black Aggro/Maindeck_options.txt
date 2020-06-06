@@ -1,7 +1,7 @@
 4 Murderous Rider
+1 Tymaret, Chosen from Death
 1 Shadowspear
 2 Shadowspear
-1 Tymaret, Chosen from Death
 1 Ayara, First of Locthwain
 1 Midnight Reaper
 1 Yarok's Fenlurker
@@ -22,25 +22,25 @@
 1 Gray Merchant of Asphodel
 2 Gray Merchant of Asphodel
 3 Gray Merchant of Asphodel
-3 Nightmare Shepherd
 1 Priest of Forgotten Gods
+3 Nightmare Shepherd
 2 Midnight Reaper
 2 Dread Presence
 4 Gray Merchant of Asphodel
 1 Witch's Cottage
-1 Duress
-2 Duress
 2 Priest of Forgotten Gods
 3 Fiend Artisan
 3 Priest of Forgotten Gods
+4 Fiend Artisan
+1 Duress
+2 Duress
 1 Call of the Death-Dweller
-1 Cauldron Familiar
 1 Witch's Oven
+1 Cauldron Familiar
 2 Cauldron Familiar
 2 Witch's Oven
 3 Witch's Oven
 3 Cauldron Familiar
-4 Witch's Oven
 4 Cauldron Familiar
 1 Lurrus of the Dream Den
 2 Lurrus of the Dream Den
@@ -51,25 +51,32 @@
 3 Spawn of Mayhem
 4 Nightmare Shepherd
 4 Spawn of Mayhem
-4 Fiend Artisan
+4 Priest of Forgotten Gods
 3 Ayara, First of Locthwain
 1 Agonizing Remorse
 2 Agonizing Remorse
 3 Agonizing Remorse
 4 Agonizing Remorse
-4 Priest of Forgotten Gods
 1 Lurrus of the Dream-Den
 2 Lurrus of the Dream-Den
 3 Lurrus of the Dream-Den
+1 Lazotep Reaver
+2 Lazotep Reaver
+3 Lazotep Reaver
+4 Witch's Oven
+4 Lazotep Reaver
+1 Hateful Eidolon
+1 Kaya's Ghostform
+1 Dead Weight
+2 Kaya's Ghostform
+2 Hateful Eidolon
+2 Dead Weight
 1 Erebos's Intervention
 1 Vampire of the Dire Moon
 2 Vampire of the Dire Moon
 3 Vampire of the Dire Moon
 4 Vampire of the Dire Moon
-1 Lazotep Reaver
-2 Lazotep Reaver
-3 Lazotep Reaver
-4 Lazotep Reaver
+2 Call of the Death-Dweller
 1 Grimdancer
 2 Witch's Cottage
 2 Grimdancer
@@ -78,8 +85,9 @@
 2 Bloodthirsty Aerialist
 3 Bloodthirsty Aerialist
 4 Bloodthirsty Aerialist
-2 Call of the Death-Dweller
 2 Mobilized District
+3 Hateful Eidolon
+3 Dead Weight
 3 Shadowspear
 1 Woe Strider
 2 Erebos's Intervention
@@ -90,28 +98,12 @@
 2 Drag to the Underworld
 2 Davriel, Rogue Shadowmage
 3 Drag to the Underworld
+3 Rankle, Master of Pranks
 3 Duress
 3 Dread Presence
-3 Rankle, Master of Pranks
 3 Davriel, Rogue Shadowmage
 4 Duress
 4 Drag to the Underworld
-1 Blast Zone
-1 Orzhov Enforcer
-1 Heartless Act
-1 Mire Triton
-2 Orzhov Enforcer
-2 Heartless Act
-2 Mire Triton
-2 Blast Zone
-3 Call of the Death-Dweller
-3 Heartless Act
-3 Mire Triton
-4 Call of the Death-Dweller
-4 Heartless Act
-1 Disfigure
-2 Disfigure
-4 Grimdancer
 1 Foulmire Knight
 1 Erebos, Bleak-Hearted
 2 Foulmire Knight
@@ -134,24 +126,21 @@
 3 Witch's Cottage
 4 Murder
 4 Boot Nipper
+1 Disfigure
+2 Disfigure
+4 Grimdancer
 1 Lampad of Death's Vigil
-1 Mire's Grasp
 1 Cruel Celebrant
 1 Orzhov Guildgate
-1 Hateful Eidolon
 1 Soul-Guide Lantern
 1 Scoured Barrens
-1 Kaya's Ghostform
-1 Dead Weight
 1 Burglar Rat
+1 Mire's Grasp
 1 Plains
-2 Kaya's Ghostform
 2 Lampad of Death's Vigil
 2 Cruel Celebrant
 2 Orzhov Guildgate
-2 Hateful Eidolon
 2 Scoured Barrens
-2 Dead Weight
 3 Cruel Celebrant
 3 Scoured Barrens
 3 Lampad of Death's Vigil
@@ -162,8 +151,8 @@
 1 Banehound
 2 Footlight Fiend
 2 Banehound
-3 Banehound
 3 Footlight Fiend
+3 Banehound
 4 Footlight Fiend
 4 Banehound
 22 Swamp

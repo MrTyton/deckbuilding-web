@@ -33,8 +33,8 @@
 1 Stomping Ground
 2 Chevill, Bane of Monsters
 2 Grim Flayer
-2 Blood Crypt
 2 Kroxa, Titan of Death's Hunger
+2 Blood Crypt
 2 Dead Weight
 2 Unbridled Growth
 2 Stomping Ground
@@ -94,13 +94,13 @@
 2 Titan's Strength
 2 Favored Hoplite
 2 Defiant Strike
+3 Mountain
 3 Gird for Battle
 3 Titan's Strength
 3 Favored Hoplite
 3 Defiant Strike
 3 Monastery Swiftspear
 3 Tenth District Legionnaire
-3 Mountain
 3 Gods Willing
 3 Reckless Rage
 3 Dreadhorde Arcanist
@@ -125,30 +125,30 @@
 3 Forest
 4 Forest
 5 Forest
-1 Metallic Mimic
 1 Evolutionary Leap
 1 Hardened Scales
 1 Urborg, Tomb of Yawgmoth
+1 Metallic Mimic
 1 Winding Constrictor
 1 Llanowar Wastes
 1 Steel Overseer
 1 The Ozolith
-2 Metallic Mimic
-2 Steel Overseer
 2 Winding Constrictor
+2 Steel Overseer
 2 The Ozolith
 2 Hardened Scales
+2 Metallic Mimic
 2 Llanowar Wastes
-3 Metallic Mimic
-3 Steel Overseer
 3 Hardened Scales
 3 Hangarback Walker
+3 Metallic Mimic
 3 Llanowar Wastes
 3 Winding Constrictor
-4 Metallic Mimic
+3 Steel Overseer
 4 Steel Overseer
 4 Hardened Scales
 4 Winding Constrictor
+4 Metallic Mimic
 4 Hangarback Walker
 4 Llanowar Wastes
 2 Dreadbore
@@ -164,72 +164,6 @@
 4 Concealed Courtyard
 4 Godless Shrine
 4 Caves of Koilos
-1 Eldrazi Displacer
-2 Eldrazi Displacer
-3 Eldrazi Displacer
-1 Raugrin Triome
-2 Raugrin Triome
-2 Clifftop Retreat
-3 Clifftop Retreat
-1 Reflector Mage
-1 Steam Vents
-1 Castle Embereth
-1 Agent of Treachery
-1 Chained to the Rocks
-1 Winota, Joiner of Forces
-1 Lavinia of the Tenth
-1 Chandra, Acolyte of Flame
-1 Phyrexian Revoker
-1 Bonecrusher Giant
-1 Cloudblazer
-1 Blast Zone
-1 Temple of Triumph
-1 Hanged Executioner
-1 Goblin Instigator
-1 Fire Prophecy
-2 Reflector Mage
-2 Steam Vents
-2 Agent of Treachery
-2 Castle Embereth
-2 Chained to the Rocks
-2 Winota, Joiner of Forces
-2 Chandra, Acolyte of Flame
-2 Phyrexian Revoker
-2 Bonecrusher Giant
-2 Blast Zone
-2 Hanged Executioner
-2 Goblin Instigator
-2 Fire Prophecy
-2 Lavinia of the Tenth
-2 Cloudblazer
-3 Reflector Mage
-3 Steam Vents
-3 Raugrin Triome
-3 Chained to the Rocks
-3 Agent of Treachery
-3 Winota, Joiner of Forces
-3 Fire Prophecy
-3 Blast Zone
-3 Phyrexian Revoker
-3 Castle Embereth
-3 Lavinia of the Tenth
-3 Bonecrusher Giant
-3 Cloudblazer
-3 Chandra, Acolyte of Flame
-3 Hanged Executioner
-3 Goblin Instigator
-4 Reflector Mage
-4 Raugrin Triome
-4 Chained to the Rocks
-4 Agent of Treachery
-4 Steam Vents
-4 Blast Zone
-4 Winota, Joiner of Forces
-4 Fire Prophecy
-4 Goblin Instigator
-4 Hanged Executioner
-4 Castle Embereth
-4 Clifftop Retreat
 1 Ornithopter
 2 Ornithopter
 3 Ornithopter
@@ -238,20 +172,23 @@
 2 Watery Grave
 3 Watery Grave
 4 Watery Grave
+1 Eldrazi Displacer
+2 Eldrazi Displacer
+3 Eldrazi Displacer
 1 Trial of Ambition
 1 Omen of the Sea
+1 Wastes
 1 Silkwrap
 1 Spell Queller
-1 Wasteland Strangler
 1 Archon of Sun's Grace
 1 Ulamog's Nullifier
 1 Elspeth Conquers Death
 1 Thought-Knot Seer
 1 Charming Prince
-1 Wastes
 1 Ipnu Rivulet
 1 Brain Maggot
 1 Shefet Dunes
+1 Wasteland Strangler
 2 Trial of Ambition
 2 Omen of the Sea
 2 Silkwrap
@@ -281,6 +218,69 @@
 4 Eldrazi Displacer
 4 Wasteland Strangler
 4 Thought-Knot Seer
+1 Raugrin Triome
+2 Raugrin Triome
+2 Clifftop Retreat
+3 Clifftop Retreat
+1 Reflector Mage
+1 Steam Vents
+1 Castle Embereth
+1 Agent of Treachery
+1 Chained to the Rocks
+1 Winota, Joiner of Forces
+1 Lavinia of the Tenth
+1 Phyrexian Revoker
+1 Bonecrusher Giant
+1 Cloudblazer
+1 Blast Zone
+1 Temple of Triumph
+1 Chandra, Acolyte of Flame
+1 Hanged Executioner
+1 Goblin Instigator
+1 Fire Prophecy
+2 Reflector Mage
+2 Steam Vents
+2 Agent of Treachery
+2 Castle Embereth
+2 Winota, Joiner of Forces
+2 Chained to the Rocks
+2 Chandra, Acolyte of Flame
+2 Phyrexian Revoker
+2 Bonecrusher Giant
+2 Blast Zone
+2 Hanged Executioner
+2 Goblin Instigator
+2 Fire Prophecy
+2 Lavinia of the Tenth
+2 Cloudblazer
+3 Reflector Mage
+3 Hanged Executioner
+3 Steam Vents
+3 Raugrin Triome
+3 Winota, Joiner of Forces
+3 Chained to the Rocks
+3 Agent of Treachery
+3 Blast Zone
+3 Phyrexian Revoker
+3 Castle Embereth
+3 Lavinia of the Tenth
+3 Bonecrusher Giant
+3 Cloudblazer
+3 Fire Prophecy
+3 Chandra, Acolyte of Flame
+3 Goblin Instigator
+4 Reflector Mage
+4 Raugrin Triome
+4 Hanged Executioner
+4 Winota, Joiner of Forces
+4 Chained to the Rocks
+4 Steam Vents
+4 Blast Zone
+4 Fire Prophecy
+4 Goblin Instigator
+4 Castle Embereth
+4 Clifftop Retreat
+4 Agent of Treachery
 1 Scrapheap Scrounger
 2 Scrapheap Scrounger
 3 Scrapheap Scrounger
@@ -306,9 +306,9 @@
 1 Censor
 1 Zenith Flare
 1 Flourishing Fox
-1 Hieroglyphic Illumination
 1 Castle Vantress
 1 Nimble Obstructionist
+1 Hieroglyphic Illumination
 1 Cast Out
 1 Neutralize
 1 Supreme Verdict
@@ -317,33 +317,33 @@
 2 Sulfur Falls
 2 Azorius Charm
 2 Shark Typhoon
-2 Hieroglyphic Illumination
 2 Flourishing Fox
-2 Censor
 2 Zenith Flare
 2 Nimble Obstructionist
+2 Hieroglyphic Illumination
 2 Cast Out
 2 Neutralize
+2 Censor
 2 Supreme Verdict
 3 Irrigated Farmland
 3 Azorius Charm
 3 Sulfur Falls
-3 Cast Out
-3 Censor
 3 Island
-3 Shark Typhoon
 3 Zenith Flare
-3 Hieroglyphic Illumination
-3 Neutralize
 3 Flourishing Fox
+3 Shark Typhoon
+3 Hieroglyphic Illumination
+3 Cast Out
+3 Neutralize
+3 Censor
 4 Irrigated Farmland
 4 Azorius Charm
 4 Sulfur Falls
 4 Cast Out
-4 Neutralize
 4 Flourishing Fox
-4 Hieroglyphic Illumination
 4 Zenith Flare
+4 Hieroglyphic Illumination
+4 Neutralize
 4 Censor
 4 Shark Typhoon
 1 Deathrite Shaman
@@ -353,26 +353,6 @@
 3 Chevill, Bane of Monsters
 4 Deathrite Shaman
 4 Chevill, Bane of Monsters
-1 Castle Ardenvale
-1 Heart of Kiran
-1 Karn, Scion of Urza
-1 Pack Rat
-1 Castle Locthwain
-1 Knight of the Ebon Legion
-1 Shambling Vent
-2 Heart of Kiran
-2 Karn, Scion of Urza
-2 Pack Rat
-2 Knight of the Ebon Legion
-2 Shambling Vent
-3 Heart of Kiran
-3 Karn, Scion of Urza
-3 Pack Rat
-3 Knight of the Ebon Legion
-4 Scrapheap Scrounger
-4 Pack Rat
-4 Karn, Scion of Urza
-4 Knight of the Ebon Legion
 1 Fetid Pools
 1 Choked Estuary
 1 Drowned Catacomb
@@ -410,6 +390,26 @@
 4 Alseid of Life's Bounty
 4 Sram, Senior Edificer
 4 Ethereal Armor
+1 Castle Ardenvale
+1 Heart of Kiran
+1 Pack Rat
+1 Castle Locthwain
+1 Karn, Scion of Urza
+1 Knight of the Ebon Legion
+1 Shambling Vent
+2 Heart of Kiran
+2 Pack Rat
+2 Knight of the Ebon Legion
+2 Shambling Vent
+2 Karn, Scion of Urza
+3 Heart of Kiran
+3 Pack Rat
+3 Karn, Scion of Urza
+3 Knight of the Ebon Legion
+4 Scrapheap Scrounger
+4 Knight of the Ebon Legion
+4 Karn, Scion of Urza
+4 Pack Rat
 4 Plains
 1 Gilded Goose
 1 Collected Company
@@ -423,11 +423,11 @@
 1 Llanowar Elves
 1 Elvish Mystic
 2 Gilded Goose
+2 Zirda, the Dawnwaker
 2 Collected Company
 2 Temple Garden
 2 Sunpetal Grove
 2 Fortified Village
-2 Zirda, the Dawnwaker
 2 Splendor Mare
 2 Duskwatch Recruiter
 2 Llanowar Elves
@@ -451,8 +451,8 @@
 4 Heliod, Sun-Crowned
 4 Fortified Village
 4 Llanowar Elves
-1 Garrison Cat
 1 Gutterbones
+1 Garrison Cat
 1 Fiend Artisan
 1 Stitcher's Supplier
 1 Cartel Aristocrat
@@ -462,8 +462,8 @@
 1 Hunted Witness
 1 Zulaport Cutthroat
 1 Priest of Forgotten Gods
-2 Garrison Cat
 2 Gutterbones
+2 Garrison Cat
 2 Stitcher's Supplier
 2 Fiend Artisan
 2 Priest of Forgotten Gods
@@ -481,10 +481,10 @@
 3 Hunted Witness
 3 Zulaport Cutthroat
 3 Priest of Forgotten Gods
-4 Rally the Ancestors
-4 Garrison Cat
 4 Fiend Artisan
+4 Rally the Ancestors
 4 Stitcher's Supplier
+4 Garrison Cat
 4 Zulaport Cutthroat
 4 Priest of Forgotten Gods
 4 Cartel Aristocrat

@@ -4,16 +4,16 @@
 5 Forest
 6 Forest
 1 Agent of Treachery
+1 Nissa, Who Shakes the World
 1 Cavalier of Thorns
 1 Aether Gust
 1 Risen Reef
-1 Nissa, Who Shakes the World
 1 Hydroid Krasis
 2 Agent of Treachery
+2 Nissa, Who Shakes the World
 2 Cavalier of Thorns
 2 Risen Reef
 2 Hydroid Krasis
-2 Nissa, Who Shakes the World
 2 Aether Gust
 3 Cavalier of Thorns
 3 Hydroid Krasis
@@ -21,6 +21,24 @@
 4 Risen Reef
 7 Island
 4 Uro, Titan of Nature's Wrath
+1 Neutralize
+1 Nightpack Ambusher
+1 Frilled Mystic
+1 Brazen Borrower
+2 Nightpack Ambusher
+2 Frilled Mystic
+2 Neutralize
+2 Brazen Borrower
+3 Castle Vantress
+3 Frilled Mystic
+3 Nightpack Ambusher
+3 Neutralize
+3 Brazen Borrower
+4 Brazen Borrower
+4 Frilled Mystic
+4 Nightpack Ambusher
+4 Neutralize
+4 Castle Vantress
 1 Quasiduplicate
 1 Castle Garenbrig
 2 Quasiduplicate
@@ -29,24 +47,6 @@
 2 Blast Zone
 3 Blast Zone
 4 Blast Zone
-1 Neutralize
-1 Nightpack Ambusher
-1 Frilled Mystic
-1 Brazen Borrower
-2 Neutralize
-2 Nightpack Ambusher
-2 Frilled Mystic
-2 Brazen Borrower
-3 Castle Vantress
-3 Neutralize
-3 Frilled Mystic
-3 Nightpack Ambusher
-3 Brazen Borrower
-4 Frilled Mystic
-4 Neutralize
-4 Nightpack Ambusher
-4 Castle Vantress
-4 Brazen Borrower
 1 Thassa, Deep-Dwelling
 1 Arboreal Grazer
 1 Karn, the Great Creator
@@ -54,8 +54,8 @@
 2 Arboreal Grazer
 2 Karn, the Great Creator
 3 Agent of Treachery
-3 Aether Gust
 3 Nissa, Who Shakes the World
+3 Aether Gust
 7 Forest
 8 Forest
 9 Forest
