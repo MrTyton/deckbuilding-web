@@ -14,10 +14,10 @@
 1 Lovestruck Beast
 1 Noxious Grasp
 2 Noxious Grasp
-1 Disfigure
 1 Cry of the Carnarium
-2 Disfigure
+1 Disfigure
 2 Cry of the Carnarium
+2 Disfigure
 3 Mystical Dispute
 3 Negate
 2 Lovestruck Beast
@@ -75,20 +75,20 @@
 1 Legion Warboss
 2 Legion Warboss
 3 Legion Warboss
-3 Return to Nature
 3 Soul-Guide Lantern
 1 Threnody Singer
 2 Threnody Singer
 3 Threnody Singer
+3 Return to Nature
 1 Essence Capture
 1 Neutralize
 2 Essence Capture
 2 Neutralize
 3 Neutralize
-1 Duress
 1 Unmoored Ego
-2 Duress
+1 Duress
 2 Unmoored Ego
+2 Duress
 3 Cry of the Carnarium
 4 Cry of the Carnarium
 1 Cerulean Drake
@@ -108,14 +108,9 @@
 2 Legion's End
 3 Noxious Grasp
 4 Noxious Grasp
-1 Lazotep Plating
-3 Hydroid Krasis
-3 Shifting Ceratops
-4 Hydroid Krasis
-4 Shifting Ceratops
-1 Tibalt, Rakish Instigator
 1 Claim the Firstborn
 1 Blazing Volley
+1 Tibalt, Rakish Instigator
 2 Blazing Volley
 3 Redcap Melee
 4 Redcap Melee
@@ -125,3 +120,8 @@
 2 Barrier Breach
 3 Brazen Borrower
 4 Brazen Borrower
+1 Lazotep Plating
+3 Hydroid Krasis
+3 Shifting Ceratops
+4 Hydroid Krasis
+4 Shifting Ceratops

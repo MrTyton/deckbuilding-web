@@ -441,6 +441,7 @@
 1 Vessel of Nascency
 1 Strategic Planning
 2 Arboreal Grazer
+2 Tamiyo, Collector of Tales
 2 Search for Azcanta
 2 Soul-Guide Lantern
 2 Growth Spiral
@@ -448,7 +449,6 @@
 2 Ugin, the Spirit Dragon
 2 Traverse the Ulvenwald
 2 Strategic Planning
-2 Tamiyo, Collector of Tales
 2 Vessel of Nascency
 2 Winds of Rebuke
 2 Satyr Wayfinder
@@ -635,6 +635,7 @@
 4 Rekindling Phoenix
 1 Call of the Death-Dweller
 1 Blood Crypt
+1 Mire Triton
 1 Heartless Act
 1 Mire's Grasp
 1 Pain Seer
@@ -645,23 +646,22 @@
 1 Stitcher's Supplier
 1 Kroxa, Titan of Death's Hunger
 1 Fiend Artisan
-1 Mire Triton
-2 Kroxa, Titan of Death's Hunger
 2 Blood Crypt
+2 Mire Triton
 2 Mire's Grasp
 2 Fiend Artisan
 2 Knight of the Ebon Legion
 2 Call of the Death-Dweller
 2 Bloodsoaked Champion
 2 Pain Seer
-2 Mire Triton
+2 Kroxa, Titan of Death's Hunger
 2 Castle Locthwain
 2 Stitcher's Supplier
 2 Foreboding Ruins
 2 Dragonskull Summit
 3 Kroxa, Titan of Death's Hunger
-3 Blood Crypt
 3 Mire Triton
+3 Blood Crypt
 3 Stitcher's Supplier
 3 Dragonskull Summit
 3 Knight of the Ebon Legion
@@ -671,11 +671,11 @@
 3 Foreboding Ruins
 4 Kroxa, Titan of Death's Hunger
 4 Swamp
+4 Mire Triton
 4 Blood Crypt
 4 Foreboding Ruins
 4 Bloodsoaked Champion
 4 Knight of the Ebon Legion
-4 Mire Triton
 4 Stitcher's Supplier
 4 Pain Seer
 4 Fiend Artisan

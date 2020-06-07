@@ -67,10 +67,10 @@
 2 Massacre Girl
 2 Erebos, Bleak-Hearted
 2 Midnight Reaper
-1 Heartless Act
 1 Disdainful Stroke
-2 Heartless Act
+1 Heartless Act
 2 Disdainful Stroke
+2 Heartless Act
 1 Brazen Borrower
 1 Thassa's Oracle
 1 Specter's Shriek
@@ -91,20 +91,11 @@
 1 Teferi, Time Raveler
 1 Deputy of Detention
 1 Dovin, Grand Arbiter
+2 Tale's End
 2 Teferi, Time Raveler
 2 Deputy of Detention
-2 Tale's End
 3 Teferi, Time Raveler
 3 Deputy of Detention
-1 Fry
-1 Robber of the Rich
-1 Disenchant
-2 Deafening Clarion
-2 Fry
-2 Robber of the Rich
-2 Disenchant
-3 Robber of the Rich
-3 Fry
 1 Yorion, Sky Nomad
 2 Kaya, Orzhov Usurper
 2 Kaya's Wrath
@@ -117,6 +108,15 @@
 3 Gray Merchant of Asphodel
 3 Underworld Charger
 3 Erebos's Intervention
+1 Robber of the Rich
+1 Disenchant
+1 Fry
+2 Deafening Clarion
+2 Robber of the Rich
+2 Disenchant
+2 Fry
+3 Robber of the Rich
+3 Fry
 2 Command the Dreadhorde
 3 The Elderspell
 4 Shatter the Sky
@@ -141,13 +141,13 @@
 2 Claim the Firstborn
 2 Serrated Scorpion
 2 Priest of Forgotten Gods
+3 Chandra, Acolyte of Flame
 3 Priest of Forgotten Gods
 3 Claim the Firstborn
 3 Serrated Scorpion
-3 Chandra, Acolyte of Flame
-4 Claim the Firstborn
 4 Serrated Scorpion
 4 Priest of Forgotten Gods
+4 Claim the Firstborn
 1 Tyrant's Scorn
 1 Solar Blaze
 1 Jegantha, the Wellspring
@@ -162,8 +162,8 @@
 1 Elspeth, Sun's Nemesis
 1 Cindervines
 2 Unbreakable Formation
-2 Cindervines
 2 Elspeth, Sun's Nemesis
+2 Cindervines
 3 Shock
 3 Cindervines
 4 Shock
@@ -185,8 +185,8 @@
 3 Sentinel's Eyes
 4 Sentinel's Eyes
 4 Solid Footing
-1 Dead Weight
 1 Disfigure
+1 Dead Weight
 2 Disfigure
 2 Leyline of the Void
 3 Leyline of the Void

@@ -69,9 +69,9 @@
 3 Heraldic Banner
 4 Heraldic Banner
 1 Alseid of Life's Bounty
-1 Lurrus of the Dream Den
 1 Ruinous Ultimatum
 1 Tajic, Legion's Edge
+1 Lurrus of the Dream Den
 1 Haktos the Unscarred
 1 Sphinx of the Guildpact
 1 General's Enforcer
@@ -86,9 +86,9 @@
 2 Ruinous Ultimatum
 2 Haktos the Unscarred
 2 General's Enforcer
+3 Castle Ardenvale
 3 Alseid of Life's Bounty
 3 General's Enforcer
-3 Castle Ardenvale
 3 Tomik, Distinguished Advokist
 3 Tajic, Legion's Edge
 3 Haktos the Unscarred
@@ -244,8 +244,8 @@
 1 Zagoth Triome
 1 Ketria Triome
 1 Indatha Triome
-2 Ketria Triome
 2 Zagoth Triome
+2 Ketria Triome
 2 Indatha Triome
 1 Omen of the Sun
 1 Lukka, Coppercoat Outcast
@@ -293,33 +293,33 @@
 1 Disinformation Campaign
 1 General Kudro of Drannith
 1 Hero of Precinct One
-2 Dovin's Veto
 2 Dire Tactics
 2 Disinformation Campaign
 2 General Kudro of Drannith
+2 Dovin's Veto
 2 Hero of Precinct One
-3 Temple of Enlightenment
 3 Despark
 3 Dovin's Veto
 3 Dire Tactics
 3 Oath of Kaya
 3 Hero of Precinct One
+3 Temple of Enlightenment
 3 General Kudro of Drannith
-4 Temple of Enlightenment
 4 Dovin's Veto
 4 Temple of Silence
 4 Atris, Oracle of Half-Truths
 4 Hero of Precinct One
+4 Temple of Enlightenment
 4 General Kudro of Drannith
 4 Temple of Deceit
 1 Temple of Triumph
 2 Kroxa, Titan of Death's Hunger
-1 Deafening Clarion
-1 Narset of the Ancient Way
 1 Raugrin Triome
+1 Narset of the Ancient Way
+1 Deafening Clarion
+2 Raugrin Triome
 2 Steam Vents
 2 Deafening Clarion
-2 Raugrin Triome
 1 Elspeth, Sun's Nemesis
 9 Plains
 1 Ashiok, Nightmare Muse
@@ -337,15 +337,15 @@
 1 Uro, Titan of Nature's Wrath
 1 Niv-Mizzet Reborn
 1 Assassin's Trophy
-2 Uro, Titan of Nature's Wrath
-2 Breeding Pool
 2 Assassin's Trophy
+2 Breeding Pool
+2 Uro, Titan of Nature's Wrath
 2 Vraska, Golgari Queen
 2 Niv-Mizzet Reborn
 3 Zagoth Triome
+3 Deafening Clarion
 3 Kroxa, Titan of Death's Hunger
 3 Uro, Titan of Nature's Wrath
-3 Deafening Clarion
 3 Vraska, Golgari Queen
 3 Niv-Mizzet Reborn
 3 Assassin's Trophy
@@ -369,6 +369,24 @@
 2 Anticipate
 3 Ashiok, Dream Render
 3 Anticipate
+1 Kykar, Wind's Fury
+1 Temple of Epiphany
+1 Whirlwind of Thought
+1 Saheeli, Sublime Artificer
+1 Ominous Seas
+2 Temple of Epiphany
+2 Narset of the Ancient Way
+2 Time Wipe
+2 Whirlwind of Thought
+2 Ominous Seas
+2 Kykar, Wind's Fury
+2 Saheeli, Sublime Artificer
+3 Raugrin Triome
+3 Steam Vents
+3 Narset of the Ancient Way
+3 Glass Casket
+4 Steam Vents
+4 Raugrin Triome
 1 Cauldron Familiar
 1 Witch's Oven
 1 Ob Nixilis, the Hate-Twisted
@@ -383,24 +401,6 @@
 4 Underworld Dreams
 4 Cauldron Familiar
 4 Witch's Oven
-1 Kykar, Wind's Fury
-1 Temple of Epiphany
-1 Whirlwind of Thought
-1 Saheeli, Sublime Artificer
-1 Ominous Seas
-2 Temple of Epiphany
-2 Narset of the Ancient Way
-2 Time Wipe
-2 Whirlwind of Thought
-2 Ominous Seas
-2 Kykar, Wind's Fury
-2 Saheeli, Sublime Artificer
-3 Steam Vents
-3 Narset of the Ancient Way
-3 Raugrin Triome
-3 Glass Casket
-4 Steam Vents
-4 Raugrin Triome
 3 Rankle, Master of Pranks
 3 Dread Presence
 4 Gray Merchant of Asphodel
@@ -416,14 +416,14 @@
 3 Charming Prince
 3 Deputy of Detention
 4 Thassa, Deep-Dwelling
-1 Temple of Malice
 1 Mire Triton
 1 Everquill Phoenix
 1 Krenko, Tin Street Kingpin
 1 Porcuparrot
-2 Midnight Reaper
-2 Krenko, Tin Street Kingpin
+1 Temple of Malice
 2 Mire Triton
+2 Krenko, Tin Street Kingpin
+2 Midnight Reaper
 2 Everquill Phoenix
 2 Temple of Malice
 2 Porcuparrot
@@ -434,11 +434,11 @@
 4 Mire Triton
 4 Everquill Phoenix
 4 Porcuparrot
-1 Light of Hope
+1 Chandra, Acolyte of Flame
 1 Disenchant
+1 Light of Hope
 1 Fight as One
 1 Justice Strike
-1 Chandra, Acolyte of Flame
 1 Defiant Strike
 1 Gods Willing
 1 Tenth District Legionnaire
@@ -447,25 +447,25 @@
 1 Feather, the Redeemed
 2 Justice Strike
 2 Light of Hope
+2 Fight as One
 2 Go for Blood
 2 Tenth District Legionnaire
-2 Fight as One
 2 Gods Willing
 2 Dreadhorde Arcanist
 2 Feather, the Redeemed
 2 Defiant Strike
-3 Fight as One
 3 Light of Hope
 3 Feather, the Redeemed
 3 Defiant Strike
 3 Tenth District Legionnaire
+3 Fight as One
 3 Temple of Triumph
 3 Gods Willing
 3 Dreadhorde Arcanist
 4 Light of Hope
-4 Fight as One
 4 Defiant Strike
 4 Tenth District Legionnaire
+4 Fight as One
 4 Gods Willing
 4 Feather, the Redeemed
 4 Dreadhorde Arcanist
@@ -533,55 +533,55 @@
 3 Interplanar Beacon
 4 Interplanar Beacon
 4 Nicol Bolas, Dragon-God
-1 End-Raze Forerunners
-1 Domri, Anarch of Bolas
-1 Castle Embereth
 1 Forbidden Friendship
-1 Temple Garden
-1 Tibalt, Rakish Instigator
+1 Castle Embereth
+1 Stomping Ground
+1 End-Raze Forerunners
 1 Sarkhan the Masterless
 1 Ajani, the Greathearted
 1 Flower/Flourish
+1 Temple Garden
 1 Raise the Alarm
+1 Domri, Anarch of Bolas
 1 March of the Multitudes
 1 Forest
-1 Stomping Ground
-2 End-Raze Forerunners
-2 Domri, Anarch of Bolas
+1 Tibalt, Rakish Instigator
+2 Stomping Ground
 2 Forbidden Friendship
-2 Temple Garden
-2 Castle Embereth
-2 Tibalt, Rakish Instigator
 2 Elspeth, Sun's Nemesis
 2 Raise the Alarm
-2 Stomping Ground
+2 Temple Garden
 2 Sarkhan the Masterless
+2 Tibalt, Rakish Instigator
 2 Ajani, the Greathearted
+2 End-Raze Forerunners
 2 Flower/Flourish
+2 Domri, Anarch of Bolas
+2 Castle Embereth
 2 March of the Multitudes
 3 Lukka, Coppercoat Outcast
+3 Stomping Ground
 3 Forbidden Friendship
 3 Temple Garden
 3 Castle Embereth
 3 Raise the Alarm
 3 March of the Multitudes
-3 Stomping Ground
 4 Lukka, Coppercoat Outcast
 4 Forbidden Friendship
 4 Temple Garden
 4 Raise the Alarm
 4 Stomping Ground
 4 March of the Multitudes
-1 Neutralize
 1 Pouncing Shoreshark
 1 Cunning Nightbonder
 1 Essence Capture
 1 Unsummon
-2 Neutralize
+1 Neutralize
 2 Pouncing Shoreshark
 2 Cunning Nightbonder
 2 Essence Capture
 2 Unsummon
+2 Neutralize
 3 Neutralize
 3 Cunning Nightbonder
 3 Pouncing Shoreshark
@@ -593,16 +593,16 @@
 4 Cunning Nightbonder
 4 Unsummon
 4 Essence Capture
+1 Heartless Act
 1 Robber of the Rich
 1 Shock
-1 Heartless Act
 1 Steelclaw Lance
+2 Heartless Act
 2 Robber of the Rich
 2 Shock
-2 Heartless Act
 2 Steelclaw Lance
-3 Robber of the Rich
 3 Heartless Act
+3 Robber of the Rich
 3 Shock
 3 Steelclaw Lance
 4 Robber of the Rich
@@ -625,14 +625,14 @@
 3 Doom Whisperer
 4 Vicious Rumors
 21 Swamp
-1 Hypnotic Sprite
 1 Shark Typhoon
+1 Hypnotic Sprite
 2 Shark Typhoon
 2 Hypnotic Sprite
-3 Hypnotic Sprite
 3 Shark Typhoon
-4 Brazen Borrower
+3 Hypnotic Sprite
 4 Shark Typhoon
+4 Brazen Borrower
 4 Hypnotic Sprite
 19 Island
 20 Island

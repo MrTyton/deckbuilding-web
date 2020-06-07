@@ -76,9 +76,9 @@
 |                    3|[Burning Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416909)       |                     |                                                                                                  |
 |                    3|[Wishclaw Talisman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473072)  |                     |                                                                                                  |
 |                    3|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)  |                     |                                                                                                  |
-|                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)  |                     |                                                                                                  |
 |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |                     |                                                                                                  |
 |                    4|[Burning Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416909)       |                     |                                                                                                  |
+|                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)  |                     |                                                                                                  |
 |                    4|[Wishclaw Talisman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473072)  |                     |                                                                                                  |
 |                    4|[Rite of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121217)      |                     |                                                                                                  |
 

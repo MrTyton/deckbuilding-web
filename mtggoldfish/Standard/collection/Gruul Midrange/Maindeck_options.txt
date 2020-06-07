@@ -1,8 +1,8 @@
 2 Marauding Raptor
-3 Marauding Raptor
 3 Stonecoil Serpent
-4 Marauding Raptor
+3 Marauding Raptor
 4 Stonecoil Serpent
+4 Marauding Raptor
 1 Migratory Greathorn
 2 Migratory Greathorn
 3 Migratory Greathorn
@@ -11,8 +11,8 @@
 3 Bonecrusher Giant
 4 Bonecrusher Giant
 1 End-Raze Forerunners
-2 Castle Garenbrig
 2 End-Raze Forerunners
+2 Castle Garenbrig
 1 Nullhide Ferox
 1 Fabled Passage
 1 God-Eternal Rhonas
@@ -36,15 +36,15 @@
 1 Domri's Ambush
 2 Domri's Ambush
 1 Bonders' Enclave
+1 Ketria Triome
 1 Fires of Invention
 1 Cavalier of Flame
-1 Ketria Triome
+2 Ketria Triome
 2 Fires of Invention
 2 Bonders' Enclave
 2 Cavalier of Flame
-2 Ketria Triome
-3 Fires of Invention
 3 Ketria Triome
+3 Fires of Invention
 4 Paradise Druid
 3 Domri's Ambush
 4 Domri's Ambush
@@ -84,13 +84,13 @@
 1 The Great Henge
 3 Fabled Passage
 2 Keruga, the Macrosage
-1 Scorching Dragonfire
-1 Grafdigger's Cage
 1 Shock
+1 Scorching Dragonfire
 1 Lava Coil
-2 Grafdigger's Cage
+1 Grafdigger's Cage
 2 Shock
 2 Lava Coil
+2 Grafdigger's Cage
 1 Nessian Boar
 2 Nessian Boar
 1 Pulse of Murasa
@@ -99,8 +99,8 @@
 3 Thrashing Brontodon
 2 Ravager Wurm
 3 Ravager Wurm
-1 Edgewall Innkeeper
 1 Rimrock Knight
+1 Edgewall Innkeeper
 2 Rimrock Knight
 2 Edgewall Innkeeper
 2 Castle Embereth
@@ -128,31 +128,31 @@
 1 Voracious Hydra
 2 Voracious Hydra
 11 Forest
-1 Temple of Mystery
-1 Blast Zone
 1 Nissa, Who Shakes the World
 1 Uro, Titan of Nature's Wrath
+1 Blast Zone
 1 Growth Spiral
 1 Island
 1 Breeding Pool
-2 Temple of Mystery
-2 Nissa, Who Shakes the World
+1 Temple of Mystery
+2 Uro, Titan of Nature's Wrath
 2 The Great Henge
+2 Nissa, Who Shakes the World
 2 Growth Spiral
 2 Island
+2 Temple of Mystery
 2 Breeding Pool
-2 Uro, Titan of Nature's Wrath
-3 Nissa, Who Shakes the World
-3 Temple of Mystery
-3 Breeding Pool
 3 Uro, Titan of Nature's Wrath
+3 Nissa, Who Shakes the World
+3 Breeding Pool
+3 Temple of Mystery
 3 The Great Henge
 3 Growth Spiral
 3 Island
-4 Island
-4 Nissa, Who Shakes the World
 4 Temple of Mystery
 4 Fabled Passage
+4 Nissa, Who Shakes the World
+4 Island
 4 Growth Spiral
-5 Island
 4 Breeding Pool
+5 Island

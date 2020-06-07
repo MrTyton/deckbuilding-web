@@ -24,15 +24,15 @@
 4 Neutralize
 1 Temple of Epiphany
 1 Shock
-2 Mountain
 2 Temple of Epiphany
 2 Shock
+2 Mountain
 3 Temple of Epiphany
-3 Mountain
 3 Ionize
+3 Mountain
 4 Temple of Epiphany
-4 Mountain
 4 Ionize
+4 Mountain
 5 Mountain
 2 Negate
 3 Sinister Sabotage
@@ -128,12 +128,6 @@
 1 Skewer the Critics
 1 Risk Factor
 2 Skewer the Critics
-1 Thought Erasure
-2 Thought Erasure
-2 Temple of Malady
-3 Thought Erasure
-3 Castle Vantress
-4 Thought Erasure
 1 Tale's End
 1 Disdainful Stroke
 1 Agent of Treachery
@@ -144,30 +138,36 @@
 3 Agent of Treachery
 3 Tale's End
 4 Nissa, Who Shakes the World
+1 Thought Erasure
+2 Thought Erasure
+2 Temple of Malady
+3 Thought Erasure
+3 Castle Vantress
+4 Thought Erasure
 1 Blast Zone
 1 Mystic Subdual
 2 Chemister's Insight
-1 Paradise Druid
-2 Paradise Druid
 1 Murderous Rider
 1 Liliana, Dreadhorde General
 2 Murderous Rider
-1 Flame Sweep
-2 Flame Sweep
 1 Essence Scatter
 2 Essence Scatter
 1 Suffocating Fumes
 1 Whirlwind Denial
 1 Easy Prey
 2 Easy Prey
+1 Paradise Druid
+2 Paradise Druid
+1 Flame Sweep
+2 Flame Sweep
 1 Tyrant's Scorn
 2 Lochmere Serpent
 2 Blacklance Paragon
 2 Castle Locthwain
 2 Unsummon
 3 Unsummon
-2 Uro, Titan of Nature's Wrath
 2 Hydroid Krasis
+2 Uro, Titan of Nature's Wrath
 4 Negate
 1 Temple of Abandon
 1 Scorching Dragonfire
@@ -202,8 +202,8 @@
 1 Legion Warboss
 1 Scorch Spitter
 1 The Royal Scions
-2 Legion Warboss
 2 Raugrin Triome
+2 Legion Warboss
 2 Scorch Spitter
 2 The Royal Scions
 3 Legion Warboss
