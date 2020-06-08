@@ -16,9 +16,9 @@
 1 Snow-Covered Swamp
 1 Mystic Sanctuary
 2 Volcanic Island
+1 Counterspell
 1 Terminus
 1 Pyroblast
-1 Counterspell
 1 Veil of Summer
 2 Mystic Sanctuary
 2 Terminus
@@ -58,8 +58,8 @@
 1 Savannah
 1 Reclamation Sage
 4 Abrupt Decay
-1 Entreat the Angels
 1 Supreme Verdict
+1 Entreat the Angels
 2 Supreme Verdict
 6 Snow-Covered Island
 1 Inquisition of Kozilek
@@ -78,10 +78,10 @@
 1 Quickling
 2 Recruiter of the Guard
 2 Aluren
-3 Aluren
 3 Recruiter of the Guard
-4 Aluren
+3 Aluren
 4 Recruiter of the Guard
+4 Aluren
 1 Klothys, God of Destiny
 2 Tundra
 2 Snow-Covered Plains
@@ -89,30 +89,30 @@
 1 Sevinne's Reclamation
 1 Kaya, Orzhov Usurper
 2 Snow-Covered Swamp
+1 Island
 1 Forest
 1 Cabal Therapy
 1 Swamp
-1 Island
 2 Cabal Therapy
-1 Cling to Dust
 1 Birds of Paradise
-1 Food Chain
+1 Walking Ballista
 1 Manipulate Fate
 1 Misthollow Griffin
 1 Eternal Scourge
-1 Walking Ballista
-2 Walking Ballista
-2 Manipulate Fate
-2 Misthollow Griffin
+1 Cling to Dust
+1 Food Chain
 2 Forest
+2 Walking Ballista
+2 Cling to Dust
 2 Food Chain
 2 Island
-2 Cling to Dust
+2 Misthollow Griffin
+2 Manipulate Fate
 2 Birds of Paradise
 3 Walking Ballista
-3 Misthollow Griffin
-3 Food Chain
 3 Birds of Paradise
+3 Food Chain
+3 Misthollow Griffin
 4 Food Chain
 4 Walking Ballista
 4 Birds of Paradise
@@ -131,42 +131,42 @@
 1 Fatal Push
 2 Fatal Push
 3 Manipulate Fate
-1 Ketria Triome
-1 Taiga
-1 Deceiver Exarch
-1 Zealous Conscripts
-1 Fiend Artisan
-1 Kiki-Jiki, Mirror Breaker
-1 Green Sun's Zenith
 1 Zagoth Triome
-1 Primeval Titan
-1 Field of the Dead
-1 Veteran Explorer
-1 Dryad Arbor
-1 Scavenging Ooze
-1 Birthing Pod
+1 Taiga
+1 Ketria Triome
 1 Restoration Angel
+1 Green Sun's Zenith
+1 Kiki-Jiki, Mirror Breaker
+1 Fiend Artisan
+1 Scavenging Ooze
+1 Dryad Arbor
+1 Zealous Conscripts
+1 Veteran Explorer
+1 Birthing Pod
+1 Field of the Dead
+1 Primeval Titan
+1 Deceiver Exarch
 1 Bojuka Bog
-2 Primeval Titan
-2 Field of the Dead
+2 Restoration Angel
 2 Veteran Explorer
 2 Birthing Pod
 2 Green Sun's Zenith
-2 Restoration Angel
-3 Green Sun's Zenith
-3 Veteran Explorer
+2 Primeval Titan
+2 Field of the Dead
 3 Cabal Therapy
+3 Green Sun's Zenith
 3 Field of the Dead
+3 Veteran Explorer
+4 Cabal Therapy
 4 Veteran Explorer
 4 Green Sun's Zenith
-4 Cabal Therapy
-1 Windswept Heath
-1 Assassin's Trophy
-1 Oath of Nissa
-1 Arctic Merfolk
 1 Nissa, Steward of Elements
 1 Pernicious Deed
 1 Notion Thief
+1 Windswept Heath
+1 Assassin's Trophy
+1 Arctic Merfolk
+1 Oath of Nissa
 2 Pyroblast
 1 Lightning Bolt
 2 Lightning Bolt
@@ -174,32 +174,32 @@
 1 Spell Snare
 2 Veil of Summer
 4 Scalding Tarn
-1 Monastery Mentor
-1 Thoughtseize
-1 Wasteland
-2 Kaya, Orzhov Usurper
-2 Monastery Mentor
-2 Plague Engineer
-2 Thoughtseize
-2 Narset, Parter of Veils
-2 Wasteland
-3 Wasteland
-3 Thoughtseize
-4 Snapcaster Mage
-4 Thoughtseize
 1 Gilded Goose
 1 Metallic Rebuke
 1 Animate Dead
 1 Urza, Lord High Artificer
-2 Gilded Goose
 2 Leovold, Emissary of Trest
+2 Gilded Goose
 2 Animate Dead
 2 Urza, Lord High Artificer
-3 Fatal Push
 3 Gilded Goose
+3 Fatal Push
 3 Leovold, Emissary of Trest
 3 Urza, Lord High Artificer
-4 Gilded Goose
-1 Watcher for Tomorrow
-3 Island
 4 Urza, Lord High Artificer
+4 Gilded Goose
+1 Monastery Mentor
+1 Thoughtseize
+1 Wasteland
+2 Narset, Parter of Veils
+2 Kaya, Orzhov Usurper
+2 Plague Engineer
+2 Thoughtseize
+2 Wasteland
+2 Monastery Mentor
+3 Wasteland
+3 Thoughtseize
+4 Thoughtseize
+4 Snapcaster Mage
+3 Island
+1 Watcher for Tomorrow

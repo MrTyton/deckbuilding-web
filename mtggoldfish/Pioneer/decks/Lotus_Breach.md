@@ -55,7 +55,7 @@
 |                    4|[Underworld Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476412)       |                    1|[Sphinx of the Final Word](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407573)|
 |                    1|[Drawn from Dreams](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466810)       |                    1|[Mass Manipulation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457186)       |
 |                    1|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)         |                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)       |
-|                    1|Ketria Triome                                                                                      |                    1|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)       |
-|                    1|[Shimmer of Possibility](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457195)  |                    3|[Thought Distortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466871)      |
+|                    1|[Shimmer of Possibility](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457195)  |                    1|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)       |
+|                    1|Ketria Triome                                                                                      |                    3|[Thought Distortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466871)      |
 |                     |                                                                                                   |                    2|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948) |
 

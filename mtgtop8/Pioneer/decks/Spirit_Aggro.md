@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    2|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)|                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
-|                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)|                    1|[Annul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45976)               |
+|                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)|                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
+|                    2|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)|                    1|[Annul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45976)               |
 |                     |                                                                                            |                    2|[Annul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45976)               |
 |                     |                                                                                            |                    3|[Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208284)     |
 |                     |                                                                                            |                    3|[Permeating Mass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414467)    |

@@ -112,9 +112,9 @@
 1 Castle Vantress
 1 Neutralize
 1 Cast Out
+1 Hieroglyphic Illumination
 1 Nimble Obstructionist
 1 Zenith Flare
-1 Hieroglyphic Illumination
 1 Censor
 1 Flourishing Fox
 2 Censor
@@ -125,32 +125,32 @@
 2 Flourishing Fox
 2 Zenith Flare
 3 Censor
-3 Neutralize
 3 Cast Out
+3 Neutralize
+3 Hieroglyphic Illumination
 3 Flourishing Fox
 3 Zenith Flare
 3 Island
-3 Hieroglyphic Illumination
 4 Censor
 4 Shark Typhoon
 4 Neutralize
 4 Cast Out
+4 Hieroglyphic Illumination
 4 Flourishing Fox
 4 Zenith Flare
 4 Sulfur Falls
-4 Hieroglyphic Illumination
 1 Dovin's Veto
 1 Thought Erasure
 2 Thought Erasure
-1 Thraben Inspector
-1 Blast Zone
-2 Thraben Inspector
-3 Thraben Inspector
 1 Deafening Clarion
 2 Deafening Clarion
 3 Deafening Clarion
 3 Elspeth Conquers Death
 3 Gideon, Ally of Zendikar
+1 Thraben Inspector
+1 Blast Zone
+2 Thraben Inspector
+3 Thraben Inspector
 1 History of Benalia
 1 Kunoros, Hound of Athreos
 2 Kunoros, Hound of Athreos
@@ -187,11 +187,11 @@
 3 Teferi, Hero of Dominaria
 3 Baffling End
 3 Absorb
-4 Fetid Pools
 4 Baffling End
+4 Fetid Pools
 1 Kaya, Orzhov Usurper
-1 Thirst for Meaning
 1 Oath of Liliana
+1 Thirst for Meaning
 2 Kaya, Orzhov Usurper
 2 Thirst for Meaning
 3 Thirst for Meaning
@@ -224,13 +224,13 @@
 1 Reflector Mage
 1 Elite Guardmage
 1 Sphinx's Revelation
+1 Tyrant's Scorn
 1 Hero of Precinct One
 1 Mortify
 1 Deputy of Detention
 1 Discovery / Dispersal
 1 Dream Trawler
 1 Spell Queller
-1 Tyrant's Scorn
 2 Discovery / Dispersal
 2 Reflector Mage
 2 Elite Guardmage
@@ -241,8 +241,8 @@
 2 Spell Queller
 3 Hero of Precinct One
 4 Hero of Precinct One
-1 Heliod, Sun-Crowned
 1 Shatter the Sky
+1 Heliod, Sun-Crowned
 1 Arcanist's Owl
 1 Walking Ballista
 2 Heliod, Sun-Crowned

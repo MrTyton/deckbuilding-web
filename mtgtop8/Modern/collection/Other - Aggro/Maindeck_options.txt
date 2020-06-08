@@ -130,14 +130,6 @@
 3 Swamp
 3 Kolaghan's Command
 4 Dark Confidant
-1 Light Up the Stage
-1 Collective Brutality
-2 Light Up the Stage
-3 Light Up the Stage
-3 Blood Crypt
-3 Lava Dart
-4 Light Up the Stage
-4 Blood Crypt
 2 Kiln Fiend
 4 Mountain
 2 Drown in the Loch
@@ -150,14 +142,14 @@
 3 Windswept Heath
 3 Pillage
 4 Windswept Heath
-1 Fiend Artisan
 1 Liliana of the Veil
 1 Castle Locthwain
 1 Lightning Skelemental
-2 Fiend Artisan
+1 Fiend Artisan
 2 Liliana of the Veil
 2 Castle Locthwain
 2 Lightning Skelemental
+2 Fiend Artisan
 3 Liliana of the Veil
 3 Unearth
 3 Snow-Covered Swamp
@@ -165,12 +157,6 @@
 4 Snow-Covered Swamp
 4 Liliana of the Veil
 5 Snow-Covered Swamp
-1 Misty Rainforest
-1 Lukka, Coppercoat Outcast
-1 Blood Moon
-2 Misty Rainforest
-4 Kitchen Finks
-7 Forest
 1 Giver of Runes
 1 Plains
 1 Stoneforge Mystic
@@ -224,5 +210,19 @@
 4 Colossus Hammer
 4 Plains
 4 Sacred Foundry
-5 Plains
 4 Inspiring Vantage
+5 Plains
+1 Misty Rainforest
+1 Lukka, Coppercoat Outcast
+1 Blood Moon
+2 Misty Rainforest
+4 Kitchen Finks
+7 Forest
+1 Light Up the Stage
+1 Collective Brutality
+2 Light Up the Stage
+3 Light Up the Stage
+3 Blood Crypt
+3 Lava Dart
+4 Light Up the Stage
+4 Blood Crypt

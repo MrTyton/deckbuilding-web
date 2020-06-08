@@ -33,8 +33,8 @@
 1 Stomping Ground
 2 Chevill, Bane of Monsters
 2 Grim Flayer
-2 Blood Crypt
 2 Kroxa, Titan of Death's Hunger
+2 Blood Crypt
 2 Dead Weight
 2 Unbridled Growth
 2 Stomping Ground
@@ -266,9 +266,9 @@
 1 Shark Typhoon
 1 Flourishing Fox
 1 Censor
-1 Hieroglyphic Illumination
 1 Zenith Flare
 1 Nimble Obstructionist
+1 Hieroglyphic Illumination
 1 Cast Out
 1 Neutralize
 1 Supreme Verdict
@@ -288,20 +288,20 @@
 3 Irrigated Farmland
 3 Sulfur Falls
 3 Azorius Charm
-3 Hieroglyphic Illumination
 3 Island
 3 Zenith Flare
 3 Flourishing Fox
-3 Cast Out
-3 Shark Typhoon
+3 Hieroglyphic Illumination
 3 Neutralize
+3 Shark Typhoon
+3 Cast Out
 3 Censor
 4 Irrigated Farmland
 4 Azorius Charm
-4 Hieroglyphic Illumination
 4 Sulfur Falls
 4 Zenith Flare
 4 Flourishing Fox
+4 Hieroglyphic Illumination
 4 Cast Out
 4 Neutralize
 4 Censor
@@ -313,6 +313,32 @@
 3 Chevill, Bane of Monsters
 4 Deathrite Shaman
 4 Chevill, Bane of Monsters
+4 Swamp
+1 Gideon of the Trials
+1 Heliod, Sun-Crowned
+2 Gideon of the Trials
+2 Heliod, Sun-Crowned
+3 Heliod, Sun-Crowned
+1 Heart of Kiran
+1 Karn, Scion of Urza
+1 Pack Rat
+1 Castle Locthwain
+1 Castle Ardenvale
+1 Knight of the Ebon Legion
+1 Shambling Vent
+2 Heart of Kiran
+2 Karn, Scion of Urza
+2 Pack Rat
+2 Knight of the Ebon Legion
+2 Shambling Vent
+3 Heart of Kiran
+3 Pack Rat
+3 Karn, Scion of Urza
+3 Knight of the Ebon Legion
+4 Pack Rat
+4 Scrapheap Scrounger
+4 Karn, Scion of Urza
+4 Knight of the Ebon Legion
 1 Fetid Pools
 1 Drowned Catacomb
 1 Metallic Rebuke
@@ -331,12 +357,6 @@
 4 Cauldron Familiar
 4 Witch's Oven
 4 Gods Willing
-4 Swamp
-1 Gideon of the Trials
-1 Heliod, Sun-Crowned
-2 Gideon of the Trials
-2 Heliod, Sun-Crowned
-3 Heliod, Sun-Crowned
 2 Forest
 3 Forest
 4 Forest
@@ -389,26 +409,6 @@
 4 Alseid of Life's Bounty
 4 Sram, Senior Edificer
 4 Ethereal Armor
-1 Heart of Kiran
-1 Pack Rat
-1 Karn, Scion of Urza
-1 Castle Locthwain
-1 Castle Ardenvale
-1 Knight of the Ebon Legion
-1 Shambling Vent
-2 Karn, Scion of Urza
-2 Heart of Kiran
-2 Pack Rat
-2 Knight of the Ebon Legion
-2 Shambling Vent
-3 Heart of Kiran
-3 Karn, Scion of Urza
-3 Pack Rat
-3 Knight of the Ebon Legion
-4 Scrapheap Scrounger
-4 Karn, Scion of Urza
-4 Knight of the Ebon Legion
-4 Pack Rat
 4 Plains
 1 Collected Company
 1 Gilded Goose
@@ -424,9 +424,9 @@
 2 Collected Company
 2 Gilded Goose
 2 Zirda, the Dawnwaker
-2 Sunpetal Grove
 2 Temple Garden
 2 Fortified Village
+2 Sunpetal Grove
 2 Splendor Mare
 2 Duskwatch Recruiter
 2 Llanowar Elves
@@ -452,10 +452,10 @@
 4 Llanowar Elves
 1 Gutterbones
 1 Garrison Cat
-1 Fiend Artisan
-1 Stitcher's Supplier
 1 Cartel Aristocrat
+1 Stitcher's Supplier
 1 Cruel Celebrant
+1 Fiend Artisan
 1 Rally the Ancestors
 1 Return to the Ranks
 1 Hunted Witness
@@ -463,28 +463,28 @@
 1 Priest of Forgotten Gods
 2 Gutterbones
 2 Garrison Cat
-2 Stitcher's Supplier
 2 Fiend Artisan
 2 Priest of Forgotten Gods
 2 Return to the Ranks
 2 Cartel Aristocrat
+2 Stitcher's Supplier
 2 Cruel Celebrant
 2 Hunted Witness
 2 Zulaport Cutthroat
 2 Rally the Ancestors
 3 Garrison Cat
-3 Fiend Artisan
-3 Stitcher's Supplier
 3 Cartel Aristocrat
+3 Stitcher's Supplier
 3 Rally the Ancestors
 3 Hunted Witness
 3 Zulaport Cutthroat
+3 Fiend Artisan
 3 Priest of Forgotten Gods
-4 Fiend Artisan
 4 Rally the Ancestors
-4 Stitcher's Supplier
 4 Garrison Cat
+4 Stitcher's Supplier
 4 Zulaport Cutthroat
+4 Fiend Artisan
 4 Priest of Forgotten Gods
 4 Cartel Aristocrat
 4 Hunted Witness

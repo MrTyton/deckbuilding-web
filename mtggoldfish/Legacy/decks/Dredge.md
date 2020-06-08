@@ -55,8 +55,8 @@
 |                    2|[Ox of Agonas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476398)    |                    3|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)           |
 |                     |                                                                                           |                    1|[Iona, Shield of Emeria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397800)   |
 |                     |                                                                                           |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)      |
-|                     |                                                                                           |                    1|[Hogaak, Arisen Necropolis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464151)|
 |                     |                                                                                           |                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)           |
-|                     |                                                                                           |                    3|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)           |
+|                     |                                                                                           |                    1|[Hogaak, Arisen Necropolis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464151)|
 |                     |                                                                                           |                    2|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)           |
+|                     |                                                                                           |                    3|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)           |
 

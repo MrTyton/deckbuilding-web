@@ -1,22 +1,26 @@
+2 Walking Ballista
 3 Noble Hierarch
 4 Noble Hierarch
-2 Walking Ballista
 4 Horizon Canopy
-2 Chord of Calling
 1 Nurturing Peatland
+2 Chord of Calling
 1 Scavenging Ooze
-2 Verdant Catacombs
+1 Snow-Covered Forest
+1 Snow-Covered Plains
+2 Snow-Covered Forest
+3 Snow-Covered Forest
 1 Ranger-Captain of Eos
-1 Spike Feeder
-1 Heliod, Sun-Crowned
 1 Collected Company
+1 Heliod, Sun-Crowned
+1 Spike Feeder
 2 Ranger-Captain of Eos
-2 Collected Company
-2 Heliod, Sun-Crowned
 2 Spike Feeder
-3 Collected Company
+2 Heliod, Sun-Crowned
+2 Collected Company
 3 Heliod, Sun-Crowned
+3 Collected Company
 4 Collected Company
+2 Verdant Catacombs
 1 Kitchen Finks
 2 Kitchen Finks
 3 Kitchen Finks
@@ -27,24 +31,19 @@
 4 Spike Feeder
 4 Heliod, Sun-Crowned
 3 Wooded Foothills
-1 Snow-Covered Forest
-1 Snow-Covered Plains
-2 Snow-Covered Forest
 1 Misty Rainforest
-3 Snow-Covered Forest
 1 Breeding Pool
-1 Overgrown Tomb
-1 Godless Shrine
 1 Viscera Seer
+1 Godless Shrine
+1 Overgrown Tomb
 1 Grand Abolisher
 2 Plains
 2 Grand Abolisher
-1 Teferi, Time Raveler
 1 Hallowed Fountain
+1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 2 Misty Rainforest
 1 Prismatic Vista
-1 Wrenn and Six
 1 Abundant Growth
 1 Snow-Covered Island
 1 Sacred Foundry
@@ -60,6 +59,7 @@
 1 Winota, Joiner of Forces
 1 Sakura-Tribe Scout
 1 Pia Nalaar
+1 Wrenn and Six
 1 Colossification
 1 Arcum's Astrolabe
 1 Snow-Covered Mountain
@@ -67,7 +67,6 @@
 1 Coiling Oracle
 2 Sakura-Tribe Scout
 2 Agent of Treachery
-2 Wrenn and Six
 2 Prismatic Vista
 2 Abundant Growth
 2 Seasoned Pyromancer
@@ -75,6 +74,7 @@
 2 Snow-Covered Island
 2 Arcum's Astrolabe
 2 Coiling Oracle
+2 Wrenn and Six
 2 Stomping Ground
 2 Eldritch Evolution
 2 Ice-Fang Coatl
@@ -82,17 +82,18 @@
 2 Colossification
 2 Auratouched Mage
 3 Sakura-Tribe Scout
+3 Misty Rainforest
 3 Prismatic Vista
 3 Abundant Growth
 3 Agent of Treachery
 3 Wrenn and Six
 3 Seasoned Pyromancer
-3 Misty Rainforest
 3 Arboreal Grazer
 3 Arcum's Astrolabe
 3 Winota, Joiner of Forces
 3 Coiling Oracle
 3 Eldritch Evolution
+4 Misty Rainforest
 4 Prismatic Vista
 4 Sakura-Tribe Scout
 4 Wooded Foothills
@@ -101,15 +102,14 @@
 4 Seasoned Pyromancer
 4 Wrenn and Six
 4 Arboreal Grazer
-4 Misty Rainforest
 4 Coiling Oracle
 4 Winota, Joiner of Forces
 4 Eldritch Evolution
 4 Arcum's Astrolabe
 2 Spellskite
 1 Marsh Flats
-1 Anafenza, Kin-Tree Spirit
 1 Knight of Autumn
+1 Anafenza, Kin-Tree Spirit
 2 Anafenza, Kin-Tree Spirit
 2 Overgrown Tomb
 3 Verdant Catacombs
@@ -118,15 +118,15 @@
 2 Flooded Strand
 3 Teferi, Time Raveler
 3 Grand Abolisher
-1 Path to Exile
-2 Path to Exile
-3 Path to Exile
 1 Nihil Spellbomb
 2 Nihil Spellbomb
 3 Nihil Spellbomb
+1 Path to Exile
+2 Path to Exile
+3 Path to Exile
 1 Eldrazi Displacer
-1 Zirda, the Dawnwaker
 1 Brushland
+1 Zirda, the Dawnwaker
 2 Zirda, the Dawnwaker
 2 Eldrazi Displacer
 2 Brushland
@@ -135,9 +135,9 @@
 3 Walking Ballista
 4 Brushland
 4 Duskwatch Recruiter
-1 Gavony Township
-1 Swamp
 1 Eternal Witness
+1 Swamp
+1 Gavony Township
 1 Shalai, Voice of Plenty
 2 Eternal Witness
 2 Gavony Township

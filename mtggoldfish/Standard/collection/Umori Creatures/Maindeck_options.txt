@@ -1,6 +1,6 @@
+4 Pouncing Shoreshark
 1 Dreamtail Heron
 2 Dreamtail Heron
-4 Pouncing Shoreshark
 1 Swamp
 1 Sea-Dasher Octopus
 2 Sea-Dasher Octopus
@@ -25,11 +25,11 @@
 3 Illuna, Apex of Wishes
 1 Brazen Borrower
 3 Sea-Dasher Octopus
-4 Stonecoil Serpent
 8 Island
 4 Insatiable Hemophage
 2 Watery Grave
 3 Watery Grave
+4 Stonecoil Serpent
 4 Watery Grave
 4 Sea-Dasher Octopus
 4 Castle Garenbrig
@@ -51,6 +51,8 @@
 2 Zagoth Triome
 3 Brazen Borrower
 1 Nethroi, Apex of Death
+1 Gilded Goose
+2 Gilded Goose
 3 Parcelbeast
 2 Castle Vantress
 1 Slitherwisp
@@ -59,10 +61,6 @@
 4 Knight of the Ebon Legion
 4 Illuna, Apex of Wishes
 8 Swamp
-1 Gilded Goose
-2 Gilded Goose
-10 Forest
-11 Forest
 3 Zagoth Triome
 1 Castle Locthwain
 1 Glowstone Recluse
@@ -71,6 +69,8 @@
 2 Chittering Harvester
 2 Overgrown Tomb
 2 Ketria Triome
+10 Forest
+11 Forest
 2 Nethroi, Apex of Death
 9 Swamp
 2 Spectral Sailor
@@ -80,7 +80,6 @@
 2 Castle Locthwain
 4 Zagoth Triome
 3 Glowstone Recluse
-12 Forest
 1 Frilled Mystic
 2 Frilled Mystic
 3 Fabled Passage
@@ -92,10 +91,10 @@
 1 Unknown Shores
 1 The Great Henge
 1 Boneyard Lurker
-2 Boneyard Lurker
 2 Finale of Eternity
-2 Bonders' Enclave
 2 The Great Henge
+2 Bonders' Enclave
+2 Boneyard Lurker
 2 Unknown Shores
 3 Murderous Rider
 4 Murderous Rider
@@ -103,10 +102,41 @@
 1 Blast Zone
 1 Temple of Deceit
 2 Temple of Deceit
+1 Heartless Act
+1 Drill Bit
+1 Quench
+1 Tyrant's Scorn
+2 Tyrant's Scorn
+2 Drill Bit
+2 Heartless Act
+2 Quench
+3 Dreamtail Heron
+1 Temple of Silence
+1 Godless Shrine
+1 Indatha Triome
+1 Temple Garden
+1 Vampire of the Dire Moon
+1 Temple of Plenty
+1 Majestic Auricorn
+1 Vulpikeet
+1 Alseid of Life's Bounty
+1 Plains
+1 Bronzehide Lion
+2 Alseid of Life's Bounty
+2 Plains
+2 Bronzehide Lion
+2 Vulpikeet
+2 Temple Garden
+2 Majestic Auricorn
+2 Indatha Triome
+2 Godless Shrine
+2 Vampire of the Dire Moon
+3 Vulpikeet
+3 Majestic Auricorn
 1 Mysterious Egg
 1 Trumpeting Gnarr
-1 Essence Symbiote
 1 Gadwick, the Wizened
+1 Essence Symbiote
 1 Jungle Hollow
 1 Evolving Wilds
 1 Nightveil Predator
@@ -118,37 +148,6 @@
 2 Essence Symbiote
 2 Evolving Wilds
 3 Overgrown Tomb
-1 Drill Bit
-1 Quench
-1 Heartless Act
-1 Tyrant's Scorn
-2 Tyrant's Scorn
-2 Drill Bit
-2 Heartless Act
-2 Quench
-3 Dreamtail Heron
-1 Godless Shrine
-1 Temple of Silence
-1 Indatha Triome
-1 Temple Garden
-1 Vampire of the Dire Moon
-1 Vulpikeet
-1 Temple of Plenty
-1 Majestic Auricorn
-1 Alseid of Life's Bounty
-1 Plains
-1 Bronzehide Lion
-2 Godless Shrine
-2 Vulpikeet
-2 Alseid of Life's Bounty
-2 Plains
-2 Bronzehide Lion
-2 Temple Garden
-2 Majestic Auricorn
-2 Indatha Triome
-2 Vampire of the Dire Moon
-3 Majestic Auricorn
-3 Vulpikeet
 1 Thornwood Falls
 1 Voracious Greatshark
 1 Brokkos, Apex of Forever
@@ -158,6 +157,13 @@
 2 Voracious Greatshark
 3 Voracious Greatshark
 3 Frilled Mystic
+3 Slitherwisp
+3 Spectral Sailor
+4 Spectral Sailor
+1 Brineborn Cutthroat
+2 Brineborn Cutthroat
+3 Brineborn Cutthroat
+4 Fabled Passage
 1 Thassa, Deep-Dwelling
 1 Risen Reef
 1 Thassa's Oracle
@@ -168,20 +174,12 @@
 2 Agent of Treachery
 3 Risen Reef
 4 Risen Reef
-3 Slitherwisp
-3 Spectral Sailor
-4 Spectral Sailor
-1 Brineborn Cutthroat
-2 Brineborn Cutthroat
-3 Brineborn Cutthroat
-4 Fabled Passage
 4 Dirge Bat
-4 Parcelbeast
 1 Blood Crypt
-1 Marauding Raptor
-1 Mountain
 1 Steam Vents
+1 Marauding Raptor
 1 Chamber Sentry
+1 Mountain
 1 Everquill Phoenix
 2 Marauding Raptor
 2 Steam Vents
@@ -201,26 +199,5 @@
 4 Mountain
 4 Marauding Raptor
 4 Blood Crypt
-1 Barkhide Troll
-1 Shifting Ceratops
-1 Mobilized District
-1 Questing Beast
-2 Questing Beast
-2 Shifting Ceratops
-2 Barkhide Troll
-2 Mobilized District
-3 Questing Beast
-3 Shifting Ceratops
-3 Gilded Goose
-3 Barkhide Troll
-4 Barkhide Troll
-4 Gilded Goose
-4 Questing Beast
-4 Shifting Ceratops
-13 Forest
-14 Forest
-15 Forest
-16 Forest
-17 Forest
-18 Forest
-19 Forest
+4 Parcelbeast
+12 Forest

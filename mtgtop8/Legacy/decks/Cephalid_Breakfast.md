@@ -31,6 +31,6 @@
 |*n*<sup>th</sup> copy|                                  Maindeck Card                                  |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|---------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
 |                    1|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)|                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)|
-|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)|                    1|[Nature's Chant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464159) |
-|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)|                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)|
+|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)|                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)|
+|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)|                    1|[Nature's Chant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464159) |
 
