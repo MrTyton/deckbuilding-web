@@ -3,8 +3,8 @@
 2 Barrier Breach
 3 Damping Sphere
 1 Slaughter Games
-2 Duress
 2 Slaughter Games
+2 Duress
 3 Duress
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
@@ -40,19 +40,22 @@
 1 Assassin's Trophy
 2 Assassin's Trophy
 1 Kaya, Orzhov Usurper
-1 Cry of the Carnarium
 1 Gideon of the Trials
+1 Cry of the Carnarium
 1 Collective Brutality
 1 Davriel, Rogue Shadowmage
 1 Deicide
 1 Profane Procession
 1 Devout Decree
 1 Sorin, Vengeful Bloodlord
-2 Cry of the Carnarium
 2 Kaya, Orzhov Usurper
 2 Collective Brutality
 2 Davriel, Rogue Shadowmage
+2 Cry of the Carnarium
 2 Deicide
+1 Scavenging Ooze
+1 Ratchet Bomb
+2 Ratchet Bomb
 1 Metallic Rebuke
 1 Unmoored Ego
 1 Doom Blade
@@ -63,13 +66,10 @@
 2 Aethersphere Harvester
 2 Despise
 2 Cast Down
-1 Scavenging Ooze
-1 Ratchet Bomb
-2 Ratchet Bomb
-1 Shadowspear
 1 Oppressive Rays
-2 Shadowspear
+1 Shadowspear
 2 Oppressive Rays
+2 Shadowspear
 2 Stubborn Denial
 1 Baffling End
 1 Fairgrounds Warden
@@ -109,10 +109,10 @@
 3 Dead Weight
 3 Enlightened Ascetic
 4 Dead Weight
-1 Narset, Parter of Veils
 1 Blessed Alliance
 1 Dovin's Veto
 1 Supreme Verdict
+1 Narset, Parter of Veils
 1 Dream Trawler
 2 Blessed Alliance
 2 Supreme Verdict

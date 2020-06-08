@@ -1,19 +1,19 @@
-2 Censor
-3 Censor
-3 Fabled Passage
-1 Dig Through Time
-2 Dig Through Time
-1 Baffling End
 2 Baffling End
 3 Baffling End
 4 Baffling End
+3 Fabled Passage
 4 Irrigated Farmland
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 2 Castle Vantress
-4 Fabled Passage
+1 Censor
+2 Censor
+3 Censor
+1 Dig Through Time
+2 Dig Through Time
 4 Teferi, Time Raveler
 3 Shark Typhoon
+4 Fabled Passage
 4 Plains
 1 Omen of the Sun
 1 Essence Scatter
@@ -27,8 +27,8 @@
 1 Elspeth, Sun's Nemesis
 2 Omen of the Sun
 3 Castle Ardenvale
-4 Censor
 4 The Birth of Meletis
+4 Censor
 3 Field of Ruin
 2 Neutralize
 1 Cast Out
@@ -82,8 +82,6 @@
 1 Prairie Stream
 4 Shark Typhoon
 2 Cast Out
-1 Detention Sphere
-1 Sinister Sabotage
 1 Rest in Peace
 1 Settle the Wreckage
 1 Interplanar Beacon
@@ -119,23 +117,9 @@
 4 Void Shatter
 4 Prairie Stream
 7 Island
+1 Detention Sphere
 1 Seal Away
 1 Torrential Gearhulk
-1 Commit / Memory
+1 Sinister Sabotage
 2 Seal Away
-1 Tamiyo, Collector of Tales
-1 Dream Trawler
-1 Hinterland Harbor
-1 Temple Garden
-1 Uro, Titan of Nature's Wrath
-1 Breeding Pool
-1 Forest
-2 Sinister Sabotage
-2 Hinterland Harbor
-2 Temple Garden
-2 Breeding Pool
-2 Uro, Titan of Nature's Wrath
-3 Sinister Sabotage
-3 Uro, Titan of Nature's Wrath
-4 Breeding Pool
-3 Breeding Pool
+1 Commit / Memory

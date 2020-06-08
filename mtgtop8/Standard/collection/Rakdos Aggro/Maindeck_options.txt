@@ -1,15 +1,15 @@
-3 Woe Strider
-4 Mayhem Devil
+1 Kroxa, Titan of Death's Hunger
+2 Kroxa, Titan of Death's Hunger
 3 Kroxa, Titan of Death's Hunger
 2 Temple of Malice
 1 Rix Maadi Reveler
 2 Rix Maadi Reveler
 4 Kroxa, Titan of Death's Hunger
 8 Swamp
+4 Gutterbones
 1 Knight of the Ebon Legion
 1 Judith, the Scourge Diva
 2 Judith, the Scourge Diva
-4 Gutterbones
 1 Lurrus of the Dream-Den
 2 Knight of the Ebon Legion
 1 Heraldic Banner
@@ -24,8 +24,8 @@
 2 Robber of the Rich
 3 Robber of the Rich
 4 Robber of the Rich
-9 Swamp
 1 Midnight Reaper
+9 Swamp
 1 Mire's Grasp
 1 Whisper Squad
 2 Whisper Squad
@@ -37,35 +37,24 @@
 3 Rix Maadi Reveler
 4 Rix Maadi Reveler
 1 Sacred Foundry
+4 Woe Strider
 1 Bloodfell Caves
 1 Obosh, the Preypiercer
 1 Heartless Act
 2 Heartless Act
 3 Heartless Act
 1 Weaponize the Monsters
-4 Woe Strider
+2 Midnight Reaper
+3 Midnight Reaper
+3 Castle Locthwain
 1 Savai Triome
 3 Knight of the Ebon Legion
-1 Footlight Fiend
-2 Footlight Fiend
 3 Temple of Malice
 1 Duress
 2 Duress
 10 Swamp
-1 Anax, Hardened in the Forge
-2 Anax, Hardened in the Forge
-3 Footlight Fiend
-1 Shock
-1 Act of Treason
-1 Theater of Horrors
-2 Shock
-2 Bloodfell Caves
-3 Shock
-4 Shock
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
+1 Footlight Fiend
+2 Footlight Fiend
 1 Phoenix of Ash
 1 Drakuseth, Maw of Flames
 1 Samut's Sprint
@@ -74,13 +63,16 @@
 1 Skewer the Critics
 1 Bedevil
 1 Blazing Volley
+1 Shock
 1 Final Death
 1 Kaya's Ghostform
 1 Ob Nixilis, the Hate-Twisted
 1 Scorch Spitter
 1 Sundering Stroke
 1 Jaya, Venerated Firemage
+1 Act of Treason
 1 Carnival / Carnage
+1 Theater of Horrors
 1 Fateful End
 1 Blisterspit Gremlin
 1 Gruesome Menagerie
@@ -92,32 +84,42 @@
 2 Syr Konrad, the Grim
 2 Skewer the Critics
 2 Kaya's Ghostform
+2 Shock
 2 Blazing Volley
-2 Scorch Spitter
 2 Rakdos Roustabout
 2 Blisterspit Gremlin
+2 Bloodfell Caves
+2 Scorch Spitter
 2 Carnival / Carnage
-2 Drakuseth, Maw of Flames
 2 Jaya, Venerated Firemage
 2 Fateful End
 2 Light Up the Stage
+2 Drakuseth, Maw of Flames
 3 Skewer the Critics
+3 Shock
 4 Skewer the Critics
+4 Shock
+7 Mountain
+8 Mountain
+9 Mountain
+10 Mountain
 11 Swamp
 11 Mountain
 12 Mountain
 13 Mountain
 1 Dead Weight
+2 Sacred Foundry
 2 Weaponize the Monsters
 3 Call of the Death-Dweller
+1 Anax, Hardened in the Forge
 1 Bastion of Remembrance
 1 Labyrinth of Skophos
+2 Anax, Hardened in the Forge
 2 Bastion of Remembrance
 3 Bastion of Remembrance
-2 Midnight Reaper
-3 Midnight Reaper
-2 Sacred Foundry
-3 Castle Locthwain
+3 Footlight Fiend
+1 Tymaret, Chosen from Death
+4 Midnight Reaper
 1 Fiend Artisan
 1 Tymaret Calls the Dead
 1 Mire Triton
@@ -127,27 +129,8 @@
 3 Fiend Artisan
 3 Mire Triton
 4 Mire Triton
-1 Grim Initiate
-1 Evolving Wilds
-1 Gingerbrute
-1 Spark Harvest
-2 Grim Initiate
-2 Evolving Wilds
-2 Gingerbrute
-2 Spark Harvest
-2 Act of Treason
-3 Grim Initiate
-3 Gingerbrute
-3 Evolving Wilds
-3 Anax, Hardened in the Forge
-3 Bloodfell Caves
-4 Gingerbrute
-4 Footlight Fiend
-4 Evolving Wilds
-4 Anax, Hardened in the Forge
-4 Grim Initiate
-1 Soul-Guide Lantern
 1 Stormfist Crusader
+1 Soul-Guide Lantern
 1 Redcap Melee
 2 Stormfist Crusader
 2 Soul-Guide Lantern
