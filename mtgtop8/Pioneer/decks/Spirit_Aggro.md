@@ -37,7 +37,7 @@
 |                     |                                                                                            |                    4|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
 |                     |                                                                                            |                    1|[Settle the Wreckage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435186)|
 |                     |                                                                                            |                    2|[Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)          |
-|                     |                                                                                            |                    3|[Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)          |
 |                     |                                                                                            |                    3|[Annul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45976)               |
+|                     |                                                                                            |                    3|[Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)          |
 |                     |                                                                                            |                    1|[Seal Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442919)          |
 

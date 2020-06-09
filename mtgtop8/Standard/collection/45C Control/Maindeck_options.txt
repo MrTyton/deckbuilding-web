@@ -29,8 +29,8 @@
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
 3 Atris, Oracle of Half-Truths
-1 Liliana, Dreadhorde General
 1 Nicol Bolas, Dragon-God
+1 Liliana, Dreadhorde General
 2 Nicol Bolas, Dragon-God
 3 Nicol Bolas, Dragon-God
 4 Interplanar Beacon
@@ -95,13 +95,13 @@
 1 Genesis Ultimatum
 2 Temple of Epiphany
 2 Temple of Abandon
-2 Arboreal Grazer
 2 Omnath, Locus of the Roil
+2 Arboreal Grazer
 2 Genesis Ultimatum
-3 Temple of Epiphany
-3 Arboreal Grazer
 3 Temple of Abandon
+3 Temple of Epiphany
 3 Stomping Ground
+3 Arboreal Grazer
 3 Steam Vents
 3 Omnath, Locus of the Roil
 3 Genesis Ultimatum
@@ -110,8 +110,8 @@
 4 Steam Vents
 4 Agent of Treachery
 4 Cavalier of Thorns
-4 Arboreal Grazer
 4 Temple of Mystery
+4 Arboreal Grazer
 4 Omnath, Locus of the Roil
 4 Stomping Ground
 1 Castle Vantress
@@ -162,10 +162,6 @@
 1 Quasiduplicate
 2 Thassa, Deep-Dwelling
 4 Temple of Abandon
-1 Kenrith, the Returned King
-1 Unmoored Ego
-3 Deafening Clarion
-4 Casualties of War
 1 Disinformation Campaign
 1 Extinction Event
 2 Disinformation Campaign
@@ -173,6 +169,10 @@
 3 Disinformation Campaign
 3 Heartless Act
 4 Agonizing Remorse
+1 Kenrith, the Returned King
+1 Unmoored Ego
+3 Deafening Clarion
+4 Casualties of War
 2 Swamp
 3 Hydroid Krasis
 3 Nissa, Who Shakes the World
@@ -193,6 +193,7 @@
 1 Scampering Scorcher
 1 Rugged Highlands
 1 Tranquil Cove
+1 Wind-Scarred Crag
 1 Blossoming Sands
 1 Swiftwater Cliffs
 1 Thornwood Falls
@@ -203,7 +204,6 @@
 1 Meteor Golem
 1 Frost Lynx
 1 Neoform
-1 Wind-Scarred Crag
 1 Elite Guardmage
 1 Centaur Peacemaker
 1 Spark Double
@@ -211,22 +211,22 @@
 2 Scampering Scorcher
 2 Rugged Highlands
 2 Tranquil Cove
+2 Wind-Scarred Crag
 2 Blossoming Sands
 2 Thornwood Falls
-2 Evolving Wilds
 2 Cloudkin Seer
-2 Swiftwater Cliffs
+2 Evolving Wilds
 2 Flicker of Fate
 2 Fire Prophecy
 2 Neoform
 2 Teferi's Time Twist
 2 Mountain
-2 Wind-Scarred Crag
 2 Elite Guardmage
 2 Frost Lynx
+2 Swiftwater Cliffs
+3 Mountain
 3 Scampering Scorcher
 3 Flicker of Fate
-3 Mountain
 3 Evolving Wilds
 3 Tranquil Cove
 3 Fire Prophecy
@@ -249,22 +249,22 @@
 5 Forest
 1 Time Wipe
 2 Time Wipe
+1 Narset of the Ancient Way
+1 Tale's End
+2 Narset of the Ancient Way
+2 Tale's End
+3 Narset of the Ancient Way
 1 Tyrant's Scorn
 1 Despark
 2 Savai Triome
 2 Despark
 2 Solar Blaze
 3 Solar Blaze
-1 Narset of the Ancient Way
-1 Tale's End
-2 Narset of the Ancient Way
-2 Tale's End
-3 Narset of the Ancient Way
 4 Atris, Oracle of Half-Truths
 1 Drown in the Loch
-1 Kunoros, Hound of Athreos
 1 Polukranos, Unchained
 1 Assassin's Trophy
+1 Kunoros, Hound of Athreos
 1 Temple of Plenty
 2 Drown in the Loch
 4 Gilded Goose

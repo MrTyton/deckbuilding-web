@@ -39,7 +39,7 @@
 |[Aura Hexproof](./mtgtop8/Modern/decks/Aura_Hexproof.md)      |[Elves](./mtgtop8/Modern/decks/Elves.md)                        |[Jeskai Control](./mtgtop8/Modern/decks/Jeskai_Control.md)      |[Red Deck Wins](./mtgtop8/Modern/decks/Red_Deck_Wins.md)        |[UrzaTron](./mtgtop8/Modern/decks/UrzaTron.md)        |
 |[BUG Control](./mtgtop8/Modern/decks/BUG_Control.md)          |[Goblins](./mtgtop8/Modern/decks/Goblins.md)                    |[Jund](./mtgtop8/Modern/decks/Jund.md)                          |[Scapeshift](./mtgtop8/Modern/decks/Scapeshift.md)              |[Urza](./mtgtop8/Modern/decks/Urza.md)                |
 |[Bant Control](./mtgtop8/Modern/decks/Bant_Control.md)        |[Grixis Control](./mtgtop8/Modern/decks/Grixis_Control.md)      |[Junk](./mtgtop8/Modern/decks/Junk.md)                          |[Selesnya Aggro](./mtgtop8/Modern/decks/Selesnya_Aggro.md)      |[Valakut](./mtgtop8/Modern/decks/Valakut.md)          |
-|[Boros](./mtgtop8/Modern/decks/Boros.md)                      |[Gruul Aggro](./mtgtop8/Modern/decks/Gruul_Aggro.md)            |[Mardu Midrange](./mtgtop8/Modern/decks/Mardu_Midrange.md)      |[Spirit Aggro](./mtgtop8/Modern/decks/Spirit_Aggro.md)          |[Zoo](./mtgtop8/Modern/decks/Zoo.md)                  |
+|[Boros](./mtgtop8/Modern/decks/Boros.md)                      |[Gruul Aggro](./mtgtop8/Modern/decks/Gruul_Aggro.md)            |[Mardu Midrange](./mtgtop8/Modern/decks/Mardu_Midrange.md)      |[Spirit Aggro](./mtgtop8/Modern/decks/Spirit_Aggro.md)          |                                                      |
 |[Breach](./mtgtop8/Modern/decks/Breach.md)                    |[Gruul Utopia](./mtgtop8/Modern/decks/Gruul_Utopia.md)          |[Merfolk](./mtgtop8/Modern/decks/Merfolk.md)                    |[The Rock](./mtgtop8/Modern/decks/The_Rock.md)                  |                                                      |
 |[CopyCat](./mtgtop8/Modern/decks/CopyCat.md)                  |[Hardened Scales](./mtgtop8/Modern/decks/Hardened_Scales.md)    |[Niv-Mizzet Reborn](./mtgtop8/Modern/decks/Niv-Mizzet_Reborn.md)|[UB Mill](./mtgtop8/Modern/decks/UB_Mill.md)                    |                                                      |
 
@@ -60,4 +60,4 @@
 
 
 
-#### Last Updated at 12:22PM on June 08, 2020
+#### Last Updated at 09:24AM on June 09, 2020

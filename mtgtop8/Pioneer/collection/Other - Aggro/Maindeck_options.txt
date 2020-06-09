@@ -24,28 +24,28 @@
 1 Chevill, Bane of Monsters
 1 Kolaghan's Command
 1 Blood Crypt
-1 Kroxa, Titan of Death's Hunger
 1 Grim Flayer
 1 Abrupt Decay
 1 Unbridled Growth
 1 Dead Weight
 1 Dreadbore
 1 Stomping Ground
+1 Kroxa, Titan of Death's Hunger
 2 Chevill, Bane of Monsters
 2 Grim Flayer
 2 Blood Crypt
-2 Kroxa, Titan of Death's Hunger
 2 Dead Weight
 2 Unbridled Growth
 2 Stomping Ground
+2 Kroxa, Titan of Death's Hunger
 2 Abrupt Decay
-3 Grim Flayer
-3 Blood Crypt
 3 Kroxa, Titan of Death's Hunger
+3 Blood Crypt
+3 Grim Flayer
 3 Stomping Ground
 3 Unbridled Growth
-4 Grim Flayer
 4 Blood Crypt
+4 Grim Flayer
 4 Unbridled Growth
 1 Fabled Passage
 2 Fabled Passage
@@ -72,21 +72,21 @@
 4 Sacred Foundry
 4 Battlefield Forge
 1 Reckless Rage
-1 Gird for Battle
 1 Monastery Swiftspear
 1 Soul-Scar Mage
 1 Favored Hoplite
 1 Titan's Strength
 1 Tenth District Legionnaire
 1 Defiant Strike
+1 Gird for Battle
 1 Gryff's Boon
 1 Boros Charm
 1 Gods Willing
 1 Dreadhorde Arcanist
 2 Reckless Rage
-2 Gird for Battle
 2 Soul-Scar Mage
 2 Monastery Swiftspear
+2 Gird for Battle
 2 Gryff's Boon
 2 Tenth District Legionnaire
 2 Gods Willing
@@ -94,13 +94,13 @@
 2 Titan's Strength
 2 Favored Hoplite
 2 Defiant Strike
-3 Gird for Battle
 3 Soul-Scar Mage
 3 Monastery Swiftspear
 3 Mountain
 3 Titan's Strength
 3 Favored Hoplite
 3 Defiant Strike
+3 Gird for Battle
 3 Tenth District Legionnaire
 3 Gods Willing
 3 Reckless Rage
@@ -135,11 +135,11 @@
 1 Eldrazi Displacer
 2 Eldrazi Displacer
 3 Eldrazi Displacer
+1 Wastes
+1 Shefet Dunes
 1 Trial of Ambition
 1 Silkwrap
 1 Spell Queller
-1 Wasteland Strangler
-1 Wastes
 1 Archon of Sun's Grace
 1 Ulamog's Nullifier
 1 Elspeth Conquers Death
@@ -148,27 +148,27 @@
 1 Charming Prince
 1 Ipnu Rivulet
 1 Brain Maggot
-1 Shefet Dunes
+1 Wasteland Strangler
+2 Shefet Dunes
 2 Silkwrap
 2 Trial of Ambition
 2 Spell Queller
-2 Wasteland Strangler
 2 Elspeth Conquers Death
 2 Thought-Knot Seer
 2 Archon of Sun's Grace
 2 Brain Maggot
 2 Omen of the Sea
-2 Shefet Dunes
 2 Ulamog's Nullifier
+2 Wasteland Strangler
 2 Wastes
 2 Ipnu Rivulet
 2 Charming Prince
 3 Silkwrap
 3 Brain Maggot
-3 Wasteland Strangler
 3 Spell Queller
 3 Thought-Knot Seer
 3 Omen of the Sea
+3 Wasteland Strangler
 3 Charming Prince
 4 Silkwrap
 4 Brain Maggot
@@ -187,16 +187,16 @@
 1 Agent of Treachery
 1 Winota, Joiner of Forces
 1 Chained to the Rocks
+1 Goblin Instigator
 1 Bonecrusher Giant
 1 Lavinia of the Tenth
+1 Chandra, Acolyte of Flame
 1 Phyrexian Revoker
 1 Cloudblazer
 1 Steam Vents
 1 Blast Zone
 1 Temple of Triumph
-1 Chandra, Acolyte of Flame
 1 Hanged Executioner
-1 Goblin Instigator
 1 Fire Prophecy
 2 Reflector Mage
 2 Agent of Treachery
@@ -219,10 +219,10 @@
 3 Winota, Joiner of Forces
 3 Chained to the Rocks
 3 Agent of Treachery
-3 Chandra, Acolyte of Flame
 3 Blast Zone
 3 Bonecrusher Giant
 3 Steam Vents
+3 Chandra, Acolyte of Flame
 3 Phyrexian Revoker
 3 Castle Embereth
 3 Lavinia of the Tenth
@@ -264,9 +264,9 @@
 1 Azorius Charm
 1 Castle Vantress
 1 Flourishing Fox
+1 Hieroglyphic Illumination
 1 Zenith Flare
 1 Nimble Obstructionist
-1 Hieroglyphic Illumination
 1 Cast Out
 1 Neutralize
 1 Censor
@@ -289,20 +289,20 @@
 3 Shark Typhoon
 3 Sulfur Falls
 3 Azorius Charm
+3 Hieroglyphic Illumination
 3 Island
 3 Zenith Flare
 3 Flourishing Fox
-3 Hieroglyphic Illumination
 3 Neutralize
 3 Cast Out
 3 Censor
 4 Irrigated Farmland
 4 Azorius Charm
+4 Hieroglyphic Illumination
 4 Sulfur Falls
+4 Cast Out
 4 Zenith Flare
 4 Flourishing Fox
-4 Hieroglyphic Illumination
-4 Cast Out
 4 Neutralize
 4 Shark Typhoon
 4 Censor
@@ -313,32 +313,6 @@
 3 Chevill, Bane of Monsters
 4 Deathrite Shaman
 4 Chevill, Bane of Monsters
-4 Swamp
-1 Gideon of the Trials
-1 Heliod, Sun-Crowned
-2 Gideon of the Trials
-2 Heliod, Sun-Crowned
-3 Heliod, Sun-Crowned
-1 Karn, Scion of Urza
-1 Pack Rat
-1 Heart of Kiran
-1 Castle Locthwain
-1 Castle Ardenvale
-1 Knight of the Ebon Legion
-1 Shambling Vent
-2 Heart of Kiran
-2 Karn, Scion of Urza
-2 Pack Rat
-2 Knight of the Ebon Legion
-2 Shambling Vent
-3 Heart of Kiran
-3 Pack Rat
-3 Karn, Scion of Urza
-3 Knight of the Ebon Legion
-4 Scrapheap Scrounger
-4 Pack Rat
-4 Karn, Scion of Urza
-4 Knight of the Ebon Legion
 1 Drowned Catacomb
 1 Fetid Pools
 1 Metallic Rebuke
@@ -362,20 +336,26 @@
 1 Springleaf Drum
 1 Sram, Senior Edificer
 1 Ethereal Armor
-2 Curious Obsession
 2 Alseid of Life's Bounty
+2 Curious Obsession
 2 Sram, Senior Edificer
 2 Ethereal Armor
 2 Springleaf Drum
-3 Curious Obsession
 3 Alseid of Life's Bounty
+3 Curious Obsession
 3 Springleaf Drum
 3 Sram, Senior Edificer
 3 Ethereal Armor
-4 Curious Obsession
 4 Alseid of Life's Bounty
+4 Curious Obsession
 4 Sram, Senior Edificer
 4 Ethereal Armor
+4 Swamp
+1 Gideon of the Trials
+1 Heliod, Sun-Crowned
+2 Gideon of the Trials
+2 Heliod, Sun-Crowned
+3 Heliod, Sun-Crowned
 2 Forest
 3 Forest
 4 Forest
@@ -409,6 +389,26 @@
 4 Metallic Mimic
 4 Llanowar Wastes
 4 Steel Overseer
+1 Pack Rat
+1 Heart of Kiran
+1 Castle Locthwain
+1 Karn, Scion of Urza
+1 Castle Ardenvale
+1 Knight of the Ebon Legion
+1 Shambling Vent
+2 Heart of Kiran
+2 Pack Rat
+2 Knight of the Ebon Legion
+2 Shambling Vent
+2 Karn, Scion of Urza
+3 Pack Rat
+3 Karn, Scion of Urza
+3 Heart of Kiran
+3 Knight of the Ebon Legion
+4 Scrapheap Scrounger
+4 Knight of the Ebon Legion
+4 Karn, Scion of Urza
+4 Pack Rat
 4 Plains
 1 Gilded Goose
 1 Shalai, Voice of Plenty
@@ -417,13 +417,13 @@
 1 Temple Garden
 1 Sunpetal Grove
 1 Fortified Village
-1 Zirda, the Dawnwaker
 1 Duskwatch Recruiter
 1 Llanowar Elves
 1 Elvish Mystic
+1 Zirda, the Dawnwaker
 2 Gilded Goose
-2 Collected Company
 2 Zirda, the Dawnwaker
+2 Collected Company
 2 Temple Garden
 2 Fortified Village
 2 Sunpetal Grove
@@ -431,18 +431,18 @@
 2 Duskwatch Recruiter
 2 Llanowar Elves
 2 Elvish Mystic
-3 Gilded Goose
 3 Temple Garden
 3 Collected Company
 3 Sunpetal Grove
 3 Scavenging Ooze
 3 Llanowar Elves
 3 Elvish Mystic
+3 Gilded Goose
 3 Fortified Village
 3 Splendor Mare
 3 Duskwatch Recruiter
-4 Temple Garden
 4 Gilded Goose
+4 Temple Garden
 4 Duskwatch Recruiter
 4 Collected Company
 4 Sunpetal Grove

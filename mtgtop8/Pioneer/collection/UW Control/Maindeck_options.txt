@@ -13,8 +13,8 @@
 2 Dig Through Time
 4 Teferi, Time Raveler
 3 Shark Typhoon
-4 Fabled Passage
 4 Plains
+4 Fabled Passage
 1 Omen of the Sun
 1 Essence Scatter
 6 Island
@@ -33,40 +33,40 @@
 2 Neutralize
 1 Cast Out
 6 Plains
-1 Stasis Snare
 1 Reflector Mage
-1 Walking Ballista
-1 Temple of Enlightenment
-1 Charming Prince
-1 Archon of Sun's Grace
-1 Silkwrap
-1 Heliod, Sun-Crowned
 1 Karn, the Great Creator
+1 Charming Prince
+1 Temple of Enlightenment
 1 Thraben Inspector
-2 Stasis Snare
+1 Heliod, Sun-Crowned
+1 Stasis Snare
+1 Walking Ballista
+1 Silkwrap
+1 Archon of Sun's Grace
 2 Reflector Mage
-2 Temple of Enlightenment
-2 Heliod, Sun-Crowned
 2 Charming Prince
-2 Silkwrap
-2 Archon of Sun's Grace
-2 Thraben Inspector
 2 Karn, the Great Creator
+2 Heliod, Sun-Crowned
+2 Temple of Enlightenment
+2 Stasis Snare
+2 Thraben Inspector
+2 Silkwrap
 2 Walking Ballista
+2 Archon of Sun's Grace
 3 Reflector Mage
 3 Temple of Enlightenment
-3 Heliod, Sun-Crowned
 3 Charming Prince
-3 Silkwrap
-3 Walking Ballista
 3 Karn, the Great Creator
+3 Walking Ballista
+3 Heliod, Sun-Crowned
 3 Thraben Inspector
+3 Silkwrap
 4 Temple of Enlightenment
 4 Reflector Mage
 4 Charming Prince
-4 Silkwrap
 4 Karn, the Great Creator
 4 Thraben Inspector
+4 Silkwrap
 7 Plains
 8 Plains
 9 Plains
@@ -82,21 +82,21 @@
 1 Prairie Stream
 4 Shark Typhoon
 2 Cast Out
-1 Rest in Peace
 1 Settle the Wreckage
+1 Rest in Peace
 1 Interplanar Beacon
-2 Interplanar Beacon
 2 Elspeth, Sun's Nemesis
+2 Interplanar Beacon
 3 Gideon of the Trials
 3 Narset, Parter of Veils
-1 Fae of Wishes
-1 Sphinx's Revelation
 1 Mystic Sanctuary
+1 Sphinx's Revelation
 1 Hour of Revelation
-2 Hour of Revelation
-2 Fae of Wishes
-2 Sphinx's Revelation
+1 Fae of Wishes
 2 Mystic Sanctuary
+2 Sphinx's Revelation
+2 Fae of Wishes
+2 Hour of Revelation
 3 Mystic Sanctuary
 3 Fae of Wishes
 3 Sphinx's Revelation
@@ -117,9 +117,9 @@
 4 Void Shatter
 4 Prairie Stream
 7 Island
+1 Sinister Sabotage
 1 Detention Sphere
 1 Seal Away
 1 Torrential Gearhulk
-1 Sinister Sabotage
 2 Seal Away
 1 Commit / Memory

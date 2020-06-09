@@ -1,13 +1,49 @@
+1 Plains
+2 Plains
+3 Plains
+1 Steam Vents
+1 Flourishing Fox
+1 Drannith Healer
+1 Raugrin Triome
+1 Hallowed Fountain
+1 Drannith Stinger
+1 Valiant Rescuer
+1 Go for Blood
+1 Zenith Flare
+1 Boon of the Wish-Giver
+1 Footfall Crater
+2 Drannith Healer
+2 Flourishing Fox
+2 Go for Blood
+2 Boon of the Wish-Giver
+2 Footfall Crater
+2 Valiant Rescuer
+2 Zenith Flare
+2 Hallowed Fountain
+2 Drannith Stinger
+3 Flourishing Fox
+3 Drannith Stinger
+3 Go for Blood
+3 Drannith Healer
+3 Zenith Flare
+3 Boon of the Wish-Giver
+3 Valiant Rescuer
+4 Zenith Flare
+4 Flourishing Fox
+4 Valiant Rescuer
+4 Drannith Stinger
+4 Drannith Healer
+4 Go for Blood
 1 Island
 2 Island
+1 Neutralize
+2 Neutralize
 3 Island
 4 Island
 5 Island
 6 Island
 7 Island
-1 Neutralize
 1 Quench
-2 Neutralize
 2 Quench
 3 Neutralize
 1 Castle Vantress
@@ -33,19 +69,23 @@
 4 Slitherwisp
 1 Pouncing Shoreshark
 2 Pouncing Shoreshark
+1 Ketria Triome
 2 Castle Vantress
 1 Forest
+2 Forest
+3 Forest
+4 Forest
 1 Castle Garenbrig
 1 Breeding Pool
 2 Breeding Pool
-2 Forest
 3 Breeding Pool
-3 Forest
-4 Forest
 4 Breeding Pool
+1 Gemrazer
+5 Forest
+6 Forest
+7 Forest
 1 Arboreal Grazer
 1 Migratory Greathorn
-1 Gemrazer
 1 Auspicious Starrix
 1 Pollywog Symbiote
 2 Arboreal Grazer
@@ -60,12 +100,8 @@
 4 Arboreal Grazer
 4 Migratory Greathorn
 4 Pollywog Symbiote
-5 Forest
-6 Forest
-7 Forest
 1 Extinction Event
 2 Extinction Event
-1 Ketria Triome
 1 Risen Reef
 2 Ketria Triome
 2 Risen Reef
@@ -78,13 +114,13 @@
 2 Fabled Passage
 3 Fabled Passage
 4 Fabled Passage
+1 Nissa, Who Shakes the World
 1 Overgrown Tomb
 2 Overgrown Tomb
 3 Overgrown Tomb
 1 Cavalier of Thorns
 1 Zagoth Triome
 1 Temple of Malady
-1 Nissa, Who Shakes the World
 1 Casualties of War
 1 Mythos of Illuna
 1 Thought Erasure
@@ -121,8 +157,8 @@
 4 Leafkin Druid
 4 Temple of Malady
 4 Zagoth Triome
-4 Ketria Triome
 4 Hydroid Krasis
+4 Ketria Triome
 4 Overgrown Tomb
 4 Uro, Titan of Nature's Wrath
 4 Growth Spiral
@@ -131,16 +167,18 @@
 8 Island
 1 Omen of the Sea
 1 Brineborn Cutthroat
-2 Brineborn Cutthroat
 2 Omen of the Sea
+2 Brineborn Cutthroat
 3 Brineborn Cutthroat
 4 Brineborn Cutthroat
-1 Plains
+2 Steam Vents
 1 Godless Shrine
 2 Godless Shrine
 3 Godless Shrine
 4 Godless Shrine
-2 Plains
+1 Yidaro, Wandering Monster
+1 Castle Ardenvale
+1 Indatha Triome
 1 Sinister Sabotage
 1 Spectral Sailor
 1 Heartless Act
@@ -169,7 +207,21 @@
 4 Auspicious Starrix
 4 Parcelbeast
 4 Pouncing Shoreshark
-3 Plains
+1 Improbable Alliance
+1 Startling Development
+1 Frostveil Ambush
+2 Improbable Alliance
+2 Raugrin Triome
+2 Frostveil Ambush
+2 Startling Development
+3 Raugrin Triome
+3 Startling Development
+3 Hallowed Fountain
+3 Frostveil Ambush
+3 Improbable Alliance
+4 Startling Development
+4 Frostveil Ambush
+4 Improbable Alliance
 1 Midnight Reaper
 1 Luminous Broodmoth
 1 Woe Strider
@@ -193,11 +245,12 @@
 3 Mayhem Devil
 3 Serrated Scorpion
 4 Cruel Celebrant
-4 Priest of Forgotten Gods
 4 Midnight Reaper
+4 Priest of Forgotten Gods
 4 Serrated Scorpion
 4 Woe Strider
 4 Mayhem Devil
+1 Fervent Champion
 1 Stormfist Crusader
 1 Foulmire Knight
 1 Blacklance Paragon
@@ -208,7 +261,6 @@
 1 Tournament Grounds
 1 Smitten Swordmaster
 1 Venerable Knight
-1 Fervent Champion
 2 Stormfist Crusader
 2 Dire Tactics
 2 Worthy Knight
@@ -246,55 +298,6 @@
 4 Dirge Bat
 4 Unsummon
 4 Voracious Greatshark
-1 Steam Vents
-2 Steam Vents
-1 Improbable Alliance
-1 Flourishing Fox
-1 Drannith Healer
-1 Raugrin Triome
-1 Startling Development
-1 Hallowed Fountain
-1 Drannith Stinger
-1 Valiant Rescuer
-1 Go for Blood
-1 Zenith Flare
-1 Boon of the Wish-Giver
-1 Footfall Crater
-1 Frostveil Ambush
-2 Raugrin Triome
-2 Improbable Alliance
-2 Drannith Healer
-2 Flourishing Fox
-2 Drannith Stinger
-2 Go for Blood
-2 Boon of the Wish-Giver
-2 Footfall Crater
-2 Valiant Rescuer
-2 Zenith Flare
-2 Frostveil Ambush
-2 Hallowed Fountain
-2 Startling Development
-3 Raugrin Triome
-3 Startling Development
-3 Hallowed Fountain
-3 Flourishing Fox
-3 Drannith Stinger
-3 Go for Blood
-3 Drannith Healer
-3 Zenith Flare
-3 Frostveil Ambush
-3 Boon of the Wish-Giver
-3 Improbable Alliance
-3 Valiant Rescuer
-4 Zenith Flare
-4 Flourishing Fox
-4 Valiant Rescuer
-4 Startling Development
-4 Frostveil Ambush
-4 Improbable Alliance
-4 Drannith Healer
-4 Go for Blood
-4 Drannith Stinger
 1 Kaya's Ghostform
 1 Hateful Eidolon
 1 Aphemia, the Cacophony
@@ -307,8 +310,6 @@
 1 Season of Growth
 1 Pious Wayfarer
 1 Temple Garden
-1 Castle Ardenvale
-1 Indatha Triome
 1 Setessan Training
 2 Hateful Eidolon
 2 Kaya's Ghostform
@@ -344,31 +345,88 @@
 4 Season of Growth
 4 Alseid of Life's Bounty
 4 Setessan Training
+1 Ominous Seas
+1 Shark Typhoon
+1 Blast Zone
+1 Savai Triome
+1 Sanctuary Smasher
+2 Ominous Seas
+2 Yidaro, Wandering Monster
+2 Sanctuary Smasher
+3 Footfall Crater
+3 Yidaro, Wandering Monster
+4 Footfall Crater
+4 Yidaro, Wandering Monster
+4 Plains
+5 Plains
+8 Forest
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+3 Bonecrusher Giant
+1 Vivien, Monsters' Advocate
+1 Lukka, Coppercoat Outcast
+1 Embercleave
+1 Questing Beast
+1 Stonecoil Serpent
+1 Thrashing Brontodon
+1 Pelt Collector
+1 Shifting Ceratops
+1 Temple of Abandon
+1 Klothys, God of Destiny
+1 Zhur-Taa Goblin
+1 Stomping Ground
+1 Domri's Ambush
+1 Gruul Spellbreaker
+2 Embercleave
+2 Gemrazer
+2 Gruul Spellbreaker
+2 Temple of Abandon
+2 Zhur-Taa Goblin
+2 Questing Beast
+2 Domri's Ambush
+2 Stonecoil Serpent
+2 Pelt Collector
+2 Klothys, God of Destiny
+2 Shifting Ceratops
+2 Stomping Ground
+3 Pelt Collector
+3 Gemrazer
+3 Embercleave
+3 Zhur-Taa Goblin
+3 Temple of Abandon
+3 Stomping Ground
+3 Questing Beast
+4 Bonecrusher Giant
+4 Questing Beast
+4 Temple of Abandon
+4 Mountain
+4 Stomping Ground
+5 Mountain
+6 Mountain
+7 Mountain
+8 Mountain
 1 The Royal Scions
 1 Ionize
 1 Opt
 1 Shock
-1 Bonecrusher Giant
 1 Temple of Epiphany
 1 Brazen Borrower
 1 Sprite Dragon
 2 The Royal Scions
 2 Ionize
-2 Bonecrusher Giant
 2 Shock
 2 Brazen Borrower
 2 Opt
 2 Sprite Dragon
 2 Temple of Epiphany
 3 Ionize
-3 Bonecrusher Giant
 3 Omen of the Sea
 3 Sprite Dragon
 3 Temple of Epiphany
+3 Brazen Borrower
 3 Shock
 3 Opt
 3 Steam Vents
-3 Brazen Borrower
 4 Opt
 4 Ionize
 4 Sprite Dragon
@@ -391,7 +449,6 @@
 3 Paradise Druid
 3 Setessan Petitioner
 4 Paradise Druid
-8 Forest
 10 Forest
 11 Forest
 9 Forest

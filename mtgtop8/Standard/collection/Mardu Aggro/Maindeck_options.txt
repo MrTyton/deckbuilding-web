@@ -1,8 +1,8 @@
-2 Corpse Knight
+3 Savai Triome
 1 Rimrock Knight
 2 Rimrock Knight
 3 Rimrock Knight
-4 Rimrock Knight
+1 Stormfist Crusader
 1 Unbreakable Formation
 2 Unbreakable Formation
 2 Mountain
@@ -12,36 +12,37 @@
 2 Castle Locthwain
 2 Fabled Passage
 3 Swamp
-1 Serrated Scorpion
 1 Dreadhorde Butcher
+1 Serrated Scorpion
+1 Claim the Firstborn
 1 Cauldron Familiar
 1 Cruel Celebrant
 1 Witch's Oven
-1 Claim the Firstborn
 1 Priest of Forgotten Gods
 2 Dreadhorde Butcher
+2 Claim the Firstborn
 2 Cruel Celebrant
 2 Witch's Oven
 2 Cauldron Familiar
-2 Claim the Firstborn
 2 Serrated Scorpion
 2 Priest of Forgotten Gods
 3 Dreadhorde Butcher
+3 Claim the Firstborn
 3 Cauldron Familiar
 3 Priest of Forgotten Gods
 3 Call of the Death-Dweller
-3 Claim the Firstborn
 3 Serrated Scorpion
 3 Witch's Oven
 3 Cruel Celebrant
+4 Claim the Firstborn
 4 Serrated Scorpion
 4 Dreadhorde Butcher
 4 Cauldron Familiar
 4 Cruel Celebrant
 4 Priest of Forgotten Gods
-4 Claim the Firstborn
 4 Witch's Oven
-1 Stormfist Crusader
+2 Stormfist Crusader
+4 Rimrock Knight
 1 Lampad of Death's Vigil
 2 Lampad of Death's Vigil
 4 Call of the Death-Dweller
@@ -50,24 +51,47 @@
 1 Skyknight Vanguard
 2 Skyknight Vanguard
 3 Skyknight Vanguard
-2 Stormfist Crusader
 4 Skyknight Vanguard
 3 Dire Tactics
+3 Stormfist Crusader
 4 Swamp
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 3 Grim Initiate
-1 Chance for Glory
 1 Foulmire Knight
 2 Foulmire Knight
+1 Chance for Glory
 1 Kroxa, Titan of Death's Hunger
 4 Dire Tactics
-3 Stormfist Crusader
 1 Luminous Broodmoth
 3 Mountain
 2 Chance for Glory
 1 Robber of the Rich
 2 Robber of the Rich
+1 Hero of Precinct One
+1 General Kudro of Drannith
+1 General's Enforcer
+1 Judith, the Scourge Diva
+1 Tajic, Legion's Edge
+1 Castle Ardenvale
+1 Embercleave
+1 Giant Killer
+1 Gods Willing
+1 Law-Rune Enforcer
+2 Hero of Precinct One
+2 General Kudro of Drannith
+2 General's Enforcer
+2 Tajic, Legion's Edge
+2 Embercleave
+2 Law-Rune Enforcer
+2 Judith, the Scourge Diva
+3 Hero of Precinct One
+3 General Kudro of Drannith
+3 Tajic, Legion's Edge
+3 General's Enforcer
+4 Hero of Precinct One
+4 General Kudro of Drannith
+4 General's Enforcer
 1 Castle Embereth
 2 Castle Embereth
 3 Corpse Knight
@@ -91,8 +115,8 @@
 3 Colossus Hammer
 4 Luminous Broodmoth
 4 Fabled Passage
-1 Redcap Melee
 1 Drill Bit
+1 Redcap Melee
 2 Drill Bit
 4 Smitten Swordmaster
 1 Footlight Fiend
@@ -106,30 +130,6 @@
 3 Hushbringer
 4 Hushbringer
 4 Kroxa, Titan of Death's Hunger
-1 Hero of Precinct One
-1 General Kudro of Drannith
-1 General's Enforcer
-1 Tajic, Legion's Edge
-1 Embercleave
-1 Giant Killer
-1 Castle Ardenvale
-1 Judith, the Scourge Diva
-1 Gods Willing
-1 Law-Rune Enforcer
-2 Hero of Precinct One
-2 General Kudro of Drannith
-2 General's Enforcer
-2 Tajic, Legion's Edge
-2 Embercleave
-2 Law-Rune Enforcer
-2 Judith, the Scourge Diva
-3 Hero of Precinct One
-3 General Kudro of Drannith
-3 Tajic, Legion's Edge
-3 General's Enforcer
-4 Hero of Precinct One
-4 General's Enforcer
-4 General Kudro of Drannith
 1 Charmed Stray
 1 Snapdax, Apex of the Hunt
 1 Kaheera, the Orphanguard
@@ -141,10 +141,10 @@
 1 Regal Leosaur
 2 Lurrus of the Dream-Den
 2 Charmed Stray
+2 Snapdax, Apex of the Hunt
 2 Dead Weight
 2 Kaheera, the Orphanguard
 2 Twilight Panther
-2 Snapdax, Apex of the Hunt
 2 Regal Leosaur
 2 Garrison Cat
 2 Necropanther

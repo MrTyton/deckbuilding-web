@@ -1,26 +1,26 @@
 4 Ice-Fang Coatl
 3 Mystic Sanctuary
 4 Uro, Titan of Nature's Wrath
-3 Flooded Strand
 6 Snow-Covered Island
-1 Aether Spellbomb
 3 Polluted Delta
 2 Snow-Covered Forest
 4 Engineered Explosives
-4 Scalding Tarn
 4 Cryptic Command
-1 Archmage's Charm
+3 Flooded Strand
+1 Aether Spellbomb
+4 Scalding Tarn
 1 Abundant Growth
 2 Abundant Growth
 4 Polluted Delta
 4 Galvanic Blast
+1 Archmage's Charm
 4 Flooded Strand
-1 Snow-Covered Mountain
-1 Pyrite Spellbomb
-1 Mox Amber
 1 Deprive
 3 Abundant Growth
 1 Prismatic Vista
+1 Snow-Covered Mountain
+1 Pyrite Spellbomb
+1 Mox Amber
 2 Aether Spellbomb
 2 Pyrite Spellbomb
 4 Abundant Growth
@@ -31,7 +31,6 @@
 2 Wrenn and Six
 3 Wrenn and Six
 1 Lonely Sandbar
-2 Mox Amber
 1 Path to Exile
 2 Path to Exile
 3 Path to Exile
@@ -45,19 +44,20 @@
 3 Springleaf Drum
 1 Soul-Guide Lantern
 1 Tireless Tracker
+2 Mox Amber
 2 Archmage's Charm
 3 Archmage's Charm
-1 Thopter Foundry
 1 Teferi, Time Raveler
-1 Sword of the Meek
-1 Whir of Invention
 1 Pithing Needle
+1 Whir of Invention
+1 Thopter Foundry
 1 Ensnaring Bridge
-2 Thopter Foundry
+1 Sword of the Meek
 2 Teferi, Time Raveler
+2 Thopter Foundry
 2 Whir of Invention
-3 Thopter Foundry
 3 Whir of Invention
+3 Thopter Foundry
 1 Birds of Paradise
 2 Birds of Paradise
 2 Scrabbling Claws
@@ -65,6 +65,39 @@
 1 Spreading Seas
 2 Spreading Seas
 3 Pyrite Spellbomb
+1 Ephemerate
+1 Thraben Inspector
+2 Wall of Blossoms
+2 Ephemerate
+2 Thraben Inspector
+3 Wall of Blossoms
+3 Ephemerate
+3 Thraben Inspector
+4 Thraben Inspector
+4 Metallic Rebuke
+4 Springleaf Drum
+1 Ichor Wellspring
+1 Inventors' Fair
+1 Raugrin Triome
+1 Pentad Prism
+1 Goblin Engineer
+1 Damping Sphere
+1 Sacred Foundry
+2 Ichor Wellspring
+2 Raugrin Triome
+2 Snow-Covered Plains
+2 Sacred Foundry
+2 Goblin Engineer
+2 Pentad Prism
+2 Soul-Guide Lantern
+2 Hallowed Fountain
+2 Sword of the Meek
+2 Damping Sphere
+3 Soul-Guide Lantern
+3 Goblin Engineer
+4 Whir of Invention
+4 Goblin Engineer
+4 Thopter Foundry
 1 Snow-Covered Swamp
 1 Overgrown Tomb
 1 Zagoth Triome
@@ -78,41 +111,8 @@
 3 Prismatic Vista
 3 Nihil Spellbomb
 3 Fatal Push
-4 Fatal Push
 4 Prismatic Vista
-1 Ephemerate
-1 Thraben Inspector
-2 Wall of Blossoms
-2 Ephemerate
-2 Thraben Inspector
-3 Wall of Blossoms
-3 Ephemerate
-3 Thraben Inspector
-4 Thraben Inspector
-4 Springleaf Drum
-4 Metallic Rebuke
-1 Raugrin Triome
-1 Inventors' Fair
-1 Ichor Wellspring
-1 Pentad Prism
-1 Goblin Engineer
-1 Damping Sphere
-1 Sacred Foundry
-2 Snow-Covered Plains
-2 Sword of the Meek
-2 Raugrin Triome
-2 Sacred Foundry
-2 Goblin Engineer
-2 Ichor Wellspring
-2 Pentad Prism
-2 Soul-Guide Lantern
-2 Hallowed Fountain
-2 Damping Sphere
-3 Soul-Guide Lantern
-3 Goblin Engineer
-4 Thopter Foundry
-4 Goblin Engineer
-4 Whir of Invention
+4 Fatal Push
 1 Restoration Angel
 1 Kinnan, Bonder Prodigy
 2 Restoration Angel
@@ -125,8 +125,8 @@
 4 Wrenn and Six
 1 Jace, the Mind Sculptor
 1 Relic of Progenitus
-1 Talisman of Progress
 1 Academy Ruins
+1 Talisman of Progress
 2 Relic of Progenitus
 2 Talisman of Progress
 3 Talisman of Progress
