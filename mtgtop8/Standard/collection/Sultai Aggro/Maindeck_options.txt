@@ -1,46 +1,28 @@
-2 Quasiduplicate
-2 Healer of the Glade
-2 Command the Dreadhorde
-2 Tamiyo, Collector of Tales
-3 Healer of the Glade
-3 Command the Dreadhorde
-4 Healer of the Glade
-4 Temple of Mystery
-1 Sea-Dasher Octopus
-1 Nissa, Who Shakes the World
+2 Temple of Malady
+2 Cavalier of Thorns
+2 Uro, Titan of Nature's Wrath
+3 Uro, Titan of Nature's Wrath
 1 Castle Vantress
 1 Growth Spiral
 2 Growth Spiral
-1 Brazen Borrower
-2 Brazen Borrower
-1 Dirge Bat
-2 Dirge Bat
-1 Neutralize
-1 Brineborn Cutthroat
-1 Slitherwisp
-1 Frilled Mystic
-1 Quench
-1 Heartless Act
-1 Nightpack Ambusher
-2 Neutralize
-2 Slitherwisp
-2 Brineborn Cutthroat
-2 Frilled Mystic
-2 Quench
-2 Heartless Act
-2 Nightpack Ambusher
-3 Slitherwisp
-3 Brineborn Cutthroat
-3 Quench
-3 Frilled Mystic
-3 Brazen Borrower
-4 Brineborn Cutthroat
-4 Quench
-4 Brazen Borrower
+1 Risen Reef
+1 Leafkin Druid
+1 Gilded Goose
+1 Yarok, the Desecrated
+1 Agent of Treachery
+2 Risen Reef
+2 Leafkin Druid
+2 Gilded Goose
+2 Yarok, the Desecrated
+3 Risen Reef
+3 Leafkin Druid
+3 Gilded Goose
+3 Temple of Mystery
+4 Risen Reef
+4 Gilded Goose
+4 Forest
 5 Forest
 2 Swamp
-1 Arboreal Grazer
-2 Arboreal Grazer
 1 Pollywog Symbiote
 1 Paradise Druid
 1 Gemrazer
@@ -48,12 +30,13 @@
 2 Sea-Dasher Octopus
 2 Paradise Druid
 2 Gemrazer
-1 Polukranos, Unchained
-4 Cavalier of Thorns
+1 Arboreal Grazer
+2 Arboreal Grazer
+2 Temple of Deceit
 2 Nissa, Who Shakes the World
 3 Temple of Malady
-1 Murderous Rider
-2 Murderous Rider
+3 Cavalier of Thorns
+3 Island
 1 Boneyard Lurker
 1 Questing Beast
 2 Questing Beast
@@ -61,7 +44,8 @@
 3 Gemrazer
 4 Gemrazer
 4 Paradise Druid
-3 Island
+1 Murderous Rider
+2 Murderous Rider
 1 Zagoth Mamba
 1 Auspicious Starrix
 1 Migratory Greathorn
@@ -71,6 +55,8 @@
 3 Migratory Greathorn
 3 Swamp
 4 Migratory Greathorn
+1 Polukranos, Unchained
+1 Tamiyo, Collector of Tales
 1 Insatiable Hemophage
 2 Insatiable Hemophage
 3 Pollywog Symbiote
@@ -87,18 +73,17 @@
 1 Spark Double
 2 Fiend Artisan
 2 Vivien, Monsters' Advocate
-2 Thassa, Deep-Dwelling
-2 Agent of Treachery
 2 Assassin's Trophy
+2 Agent of Treachery
+2 Thassa, Deep-Dwelling
 3 Fiend Artisan
-3 Growth Spiral
 3 Agent of Treachery
+3 Growth Spiral
 4 Fiend Artisan
 4 Leafkin Druid
+4 Temple of Mystery
 4 Fabled Passage
 4 Growth Spiral
-2 Aether Gust
-3 Temple of Deceit
 1 Castle Garenbrig
 1 Shifting Ceratops
 1 Brokkos, Apex of Forever
@@ -118,11 +103,24 @@
 1 Spectral Sailor
 2 Spectral Sailor
 4 Frilled Mystic
+1 Quasiduplicate
+1 Jace, Wielder of Mysteries
+1 Healer of the Glade
+1 Command the Dreadhorde
+1 Aether Gust
+2 Aether Gust
+2 Quasiduplicate
+2 Healer of the Glade
+2 Command the Dreadhorde
+2 Tamiyo, Collector of Tales
+3 Healer of the Glade
+3 Command the Dreadhorde
+4 Healer of the Glade
 1 Knight of the Ebon Legion
 1 Stonecoil Serpent
 2 Knight of the Ebon Legion
-2 Boneyard Lurker
 2 Stonecoil Serpent
+2 Boneyard Lurker
 2 Castle Locthwain
 3 Knight of the Ebon Legion
 3 Dirge Bat
@@ -156,9 +154,9 @@
 1 The Great Henge
 1 Casualties of War
 1 Rotting Regisaur
+1 Shadowspear
 1 Voracious Hydra
 1 Ilysian Caryatid
-1 Shadowspear
 1 Hydroid Krasis
 2 Polukranos, Unchained
 2 Casualties of War
@@ -171,4 +169,5 @@
 3 Polukranos, Unchained
 3 Nissa, Who Shakes the World
 3 Ilysian Caryatid
+4 Cavalier of Thorns
 4 Ilysian Caryatid

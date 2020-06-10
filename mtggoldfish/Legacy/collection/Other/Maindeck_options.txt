@@ -44,8 +44,8 @@
 2 Goblin Matron
 2 Goblin Ringleader
 2 Badlands
-3 Badlands
 3 Mogg War Marshal
+3 Badlands
 3 Goblin Lackey
 3 Bloodstained Mire
 3 Munitions Expert
@@ -256,9 +256,9 @@
 4 Mishra's Bauble
 4 Chrome Mox
 4 Kinnan, Bonder Prodigy
+4 Mox Amber
 4 Snow-Covered Forest
 4 Urza, Lord High Artificer
-4 Mox Amber
 4 Gilded Goose
 4 Mox Opal
 4 Emry, Lurker of the Loch
@@ -423,18 +423,6 @@
 3 Satyr Wayfinder
 3 Hogaak, Arisen Necropolis
 4 Satyr Wayfinder
-1 Yuriko, the Tiger's Shadow
-2 Dreadhorde Arcanist
-2 Gurmag Angler
-2 Path to Exile
-2 Preordain
-2 Yuriko, the Tiger's Shadow
-2 Plague Engineer
-3 Dreadhorde Arcanist
-3 Gurmag Angler
-3 Path to Exile
-3 Yuriko, the Tiger's Shadow
-4 Path to Exile
 1 Reality Smasher
 1 Meteor Golem
 1 Oblivion Sower
@@ -529,6 +517,18 @@
 4 Island
 4 Standstill
 4 Phyrexian Dreadnought
+1 Yuriko, the Tiger's Shadow
+2 Dreadhorde Arcanist
+2 Gurmag Angler
+2 Path to Exile
+2 Preordain
+2 Yuriko, the Tiger's Shadow
+2 Plague Engineer
+3 Dreadhorde Arcanist
+3 Gurmag Angler
+3 Path to Exile
+3 Yuriko, the Tiger's Shadow
+4 Path to Exile
 1 Children of Korlis
 1 Shallow Grave
 1 Vampire Hexmage
