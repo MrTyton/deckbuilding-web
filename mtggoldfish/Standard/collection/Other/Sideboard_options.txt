@@ -1,78 +1,103 @@
-1 Duress
-2 Duress
-1 Shock
-2 Shock
-1 Unchained Berserker
-2 Unchained Berserker
-3 Duress
-3 Unchained Berserker
-4 Unchained Berserker
-1 Soul-Guide Lantern
 1 Command the Dreadhorde
 1 Thought Distortion
-2 Thought Distortion
 1 The Elderspell
-2 The Elderspell
-1 Ruinous Ultimatum
+2 Thought Distortion
 1 Shatter the Sky
-1 Sorcerous Spyglass
+2 The Elderspell
 2 Shatter the Sky
+1 Ruinous Ultimatum
+1 Sorcerous Spyglass
 2 Sorcerous Spyglass
 3 Shatter the Sky
 3 Sorcerous Spyglass
+1 Mystical Dispute
+2 Mystical Dispute
+1 Narset, Parter of Veils
+3 Mystical Dispute
 1 Deafening Clarion
+1 Grafdigger's Cage
+1 Noxious Grasp
+1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 3 Soul-Guide Lantern
-1 Noxious Grasp
+1 Cry of the Carnarium
+2 Grafdigger's Cage
 2 Noxious Grasp
 1 Ritual of Soot
 2 Ritual of Soot
 3 Noxious Grasp
 1 Unmoored Ego
 2 Unmoored Ego
+1 Dovin's Veto
+1 Heliod's Intervention
+1 Aether Gust
 1 Underworld Dreams
 2 Underworld Dreams
-1 Grafdigger's Cage
-1 Gray Merchant of Asphodel
-3 Underworld Dreams
+1 Kaya, Orzhov Usurper
+1 Despark
+2 Despark
 3 Unmoored Ego
 4 Unmoored Ego
-2 Grafdigger's Cage
+2 Dovin's Veto
+3 Dovin's Veto
+4 Mystical Dispute
+2 Narset, Parter of Veils
+3 Narset, Parter of Veils
+1 Cerulean Drake
+2 Cerulean Drake
+3 Cerulean Drake
+4 Cerulean Drake
+1 Pharika's Libation
+1 Gray Merchant of Asphodel
+3 Underworld Dreams
+1 Leyline of the Void
+2 Aether Gust
 1 Obosh, the Preypiercer
 3 Ritual of Soot
-1 Leyline of the Void
-1 Narset, Parter of Veils
-1 Dovin's Veto
-1 Cry of the Carnarium
-1 Mystical Dispute
-2 Narset, Parter of Veils
-2 Mystical Dispute
-3 Narset, Parter of Veils
-1 Aether Gust
-1 Heliod's Intervention
+1 Erebos's Intervention
 1 Lavabrink Venturer
 1 Witch's Oven
 1 Lurrus of the Dream Den
 1 Angrath's Rampage
-1 Pharika's Libation
 1 Shredded Sails
-1 Shark Typhoon
-1 Clear the Mind
-1 Kaya, Orzhov Usurper
-1 Kaya's Wrath
 1 Absorb
+1 Shark Typhoon
+1 Kaya's Wrath
+1 Clear the Mind
 2 Cry of the Carnarium
+1 Liliana, Dreadhorde General
+1 Commence the Endgame
+1 Ashiok, Nightmare Muse
+1 Extinction Event
+1 Lazotep Plating
+1 Price of Betrayal
+1 Witch's Vengeance
+2 Pharika's Libation
 1 Midnight Reaper
 1 Erebos, Bleak-Hearted
 1 Massacre Girl
 2 Erebos, Bleak-Hearted
 2 Midnight Reaper
 2 Massacre Girl
-1 Thassa's Oracle
+1 Heartless Act
+1 Disdainful Stroke
+2 Heartless Act
+2 Disdainful Stroke
 1 Brazen Borrower
+1 Thassa's Oracle
 1 Specter's Shriek
 2 Brazen Borrower
 2 Thassa's Oracle
+1 Fire Prophecy
+1 Revoke Existence
+2 Fire Prophecy
+2 Heliod's Intervention
+2 Revoke Existence
+1 Tyrant's Scorn
+1 Jegantha, the Wellspring
+1 Solar Blaze
+2 Tyrant's Scorn
+2 Solar Blaze
 1 Davriel, Rogue Shadowmage
 1 Carnival/Carnage
 1 Fling
@@ -80,24 +105,14 @@
 2 Carnival/Carnage
 3 Davriel, Rogue Shadowmage
 1 Robber of the Rich
-1 Disenchant
 1 Fry
-2 Disenchant
-2 Robber of the Rich
+1 Disenchant
 2 Deafening Clarion
+2 Robber of the Rich
 2 Fry
+2 Disenchant
 3 Robber of the Rich
 3 Fry
-1 Tyrant's Scorn
-1 Despark
-1 Jegantha, the Wellspring
-1 Solar Blaze
-2 Tyrant's Scorn
-2 Despark
-2 Dovin's Veto
-2 Solar Blaze
-3 Dovin's Veto
-1 Erebos's Intervention
 1 Underworld Charger
 2 Gray Merchant of Asphodel
 2 Erebos's Intervention
@@ -108,7 +123,41 @@
 2 Command the Dreadhorde
 3 The Elderspell
 4 Shatter the Sky
+1 Negate
+1 Pouncing Shoreshark
+1 Dungeon Geists
+2 Pouncing Shoreshark
+2 Dungeon Geists
+3 Pouncing Shoreshark
+4 Pouncing Shoreshark
+1 Elspeth Conquers Death
+1 Glass Casket
+1 Agent of Treachery
+1 Devout Decree
+1 Tale's End
+2 Glass Casket
+2 Devout Decree
+3 Devout Decree
+4 Devout Decree
 1 Chandra, Acolyte of Flame
+1 Claim the Firstborn
+1 Priest of Forgotten Gods
+1 Serrated Scorpion
+2 Chandra, Acolyte of Flame
+2 Claim the Firstborn
+2 Serrated Scorpion
+2 Priest of Forgotten Gods
+3 Claim the Firstborn
+3 Priest of Forgotten Gods
+3 Serrated Scorpion
+3 Chandra, Acolyte of Flame
+4 Serrated Scorpion
+4 Priest of Forgotten Gods
+4 Claim the Firstborn
+1 Essence Scatter
+2 Essence Scatter
+3 Essence Scatter
+4 Essence Scatter
 1 Elspeth, Sun's Nemesis
 1 Unbreakable Formation
 1 Cindervines
@@ -119,45 +168,20 @@
 3 Cindervines
 4 Shock
 4 Cindervines
-1 Serrated Scorpion
-1 Claim the Firstborn
-1 Priest of Forgotten Gods
-2 Serrated Scorpion
-2 Chandra, Acolyte of Flame
-2 Claim the Firstborn
-2 Priest of Forgotten Gods
-3 Serrated Scorpion
-3 Claim the Firstborn
-3 Priest of Forgotten Gods
-3 Chandra, Acolyte of Flame
-4 Serrated Scorpion
-4 Priest of Forgotten Gods
-4 Claim the Firstborn
-1 Essence Scatter
-1 Cerulean Drake
-2 Essence Scatter
-2 Cerulean Drake
-3 Cerulean Drake
-3 Essence Scatter
-3 Mystical Dispute
-4 Mystical Dispute
-4 Cerulean Drake
-4 Essence Scatter
 1 Dreadhorde Invasion
 2 Dreadhorde Invasion
 3 Dreadhorde Invasion
 4 Noxious Grasp
-1 Elspeth Conquers Death
-1 Sentinel's Eyes
 1 Yorion, Sky Nomad
+1 Whirlwind of Thought
+1 Sentinel's Eyes
 1 Mystic Forge
 1 Solid Footing
 1 Smothering Tithe
-1 Whirlwind of Thought
 1 Yarok, the Desecrated
+2 Elspeth Conquers Death
 2 Solid Footing
 2 Sentinel's Eyes
-2 Elspeth Conquers Death
 3 Solid Footing
 3 Sentinel's Eyes
 4 Sentinel's Eyes
@@ -171,10 +195,9 @@
 4 Ritual of Soot
 4 Disfigure
 1 Divine Arrow
-1 Ill-Gotten Inheritance
 1 Revenge of Ravens
 1 True Love's Kiss
+1 Ill-Gotten Inheritance
 1 Kasmina's Transmutation
-2 Aether Gust
 2 True Love's Kiss
 2 Revenge of Ravens

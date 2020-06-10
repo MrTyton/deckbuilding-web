@@ -1,22 +1,21 @@
-4 Mayhem Devil
+2 Woe Strider
+3 Woe Strider
 1 Temple of Malice
+4 Kroxa, Titan of Death's Hunger
 8 Swamp
-3 Kroxa, Titan of Death's Hunger
-4 Gutterbones
 1 Rix Maadi Reveler
 2 Rix Maadi Reveler
-4 Kroxa, Titan of Death's Hunger
+4 Gutterbones
 2 Temple of Malice
 1 Knight of the Ebon Legion
+2 Knight of the Ebon Legion
+9 Swamp
+1 Judith, the Scourge Diva
+2 Judith, the Scourge Diva
 1 Robber of the Rich
 2 Robber of the Rich
 3 Robber of the Rich
 4 Robber of the Rich
-2 Knight of the Ebon Legion
-9 Swamp
-1 Sacred Foundry
-1 Judith, the Scourge Diva
-2 Judith, the Scourge Diva
 1 Midnight Reaper
 1 Lurrus of the Dream-Den
 1 Bloodfell Caves
@@ -40,18 +39,19 @@
 4 Rix Maadi Reveler
 4 Woe Strider
 1 Weaponize the Monsters
+1 Sacred Foundry
+3 Call of the Death-Dweller
+3 Knight of the Ebon Legion
+10 Swamp
 1 Heartless Act
 2 Heartless Act
 3 Heartless Act
 2 Midnight Reaper
 3 Midnight Reaper
-3 Castle Locthwain
 2 Weaponize the Monsters
-3 Call of the Death-Dweller
 1 Savai Triome
-3 Knight of the Ebon Legion
+4 Knight of the Ebon Legion
 3 Temple of Malice
-10 Swamp
 1 Act of Treason
 2 Bloodfell Caves
 1 Footlight Fiend
@@ -59,6 +59,7 @@
 1 Phoenix of Ash
 1 Drakuseth, Maw of Flames
 1 Samut's Sprint
+1 Blisterspit Gremlin
 1 Flame Spill
 1 Syr Konrad, the Grim
 1 Skewer the Critics
@@ -75,12 +76,12 @@
 1 Carnival / Carnage
 1 Theater of Horrors
 1 Fateful End
-1 Blisterspit Gremlin
 1 Gruesome Menagerie
 1 Light Up the Stage
 1 Rakdos Roustabout
 2 Phoenix of Ash
 2 Samut's Sprint
+2 Blisterspit Gremlin
 2 Ob Nixilis, the Hate-Twisted
 2 Syr Konrad, the Grim
 2 Skewer the Critics
@@ -89,13 +90,12 @@
 2 Blazing Volley
 2 Duress
 2 Rakdos Roustabout
-2 Blisterspit Gremlin
 2 Scorch Spitter
 2 Carnival / Carnage
+2 Drakuseth, Maw of Flames
 2 Jaya, Venerated Firemage
 2 Fateful End
 2 Light Up the Stage
-2 Drakuseth, Maw of Flames
 3 Skewer the Critics
 3 Shock
 4 Skewer the Critics
@@ -109,7 +109,6 @@
 12 Mountain
 13 Mountain
 1 Obosh, the Preypiercer
-2 Sacred Foundry
 1 Rakdos Guildgate
 1 Goblin Cratermaker
 2 Rakdos Guildgate
@@ -122,6 +121,7 @@
 3 Bastion of Remembrance
 3 Footlight Fiend
 1 Tymaret, Chosen from Death
+3 Castle Locthwain
 4 Midnight Reaper
 1 Fiend Artisan
 1 Tymaret Calls the Dead
@@ -132,8 +132,11 @@
 3 Fiend Artisan
 3 Mire Triton
 4 Mire Triton
-1 Stormfist Crusader
+3 Judith, the Scourge Diva
+4 Call of the Death-Dweller
+4 Judith, the Scourge Diva
 1 Soul-Guide Lantern
+1 Stormfist Crusader
 1 Redcap Melee
 2 Stormfist Crusader
 2 Soul-Guide Lantern
@@ -142,5 +145,4 @@
 3 Redcap Melee
 4 Stormfist Crusader
 4 Redcap Melee
-4 Knight of the Ebon Legion
 4 Temple of Malice

@@ -10,8 +10,8 @@
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 1 Ranger-Captain of Eos
-1 Collected Company
 1 Heliod, Sun-Crowned
+1 Collected Company
 1 Spike Feeder
 2 Spike Feeder
 2 Heliod, Sun-Crowned
@@ -28,13 +28,13 @@
 3 Spike Feeder
 3 Ranger-Captain of Eos
 4 Spike Feeder
-4 Heliod, Sun-Crowned
 4 Ranger-Captain of Eos
+4 Heliod, Sun-Crowned
 3 Wooded Foothills
 1 Misty Rainforest
 1 Breeding Pool
-1 Viscera Seer
 1 Godless Shrine
+1 Viscera Seer
 1 Overgrown Tomb
 1 Grand Abolisher
 2 Plains
@@ -48,10 +48,10 @@
 1 Snow-Covered Island
 1 Coiling Oracle
 1 Sacred Foundry
-1 Seasoned Pyromancer
 1 Blade Splicer
-1 Agent of Treachery
+1 Seasoned Pyromancer
 1 Winota, Joiner of Forces
+1 Agent of Treachery
 1 Dryad Arbor
 1 Eldritch Evolution
 1 Arboreal Grazer
@@ -66,11 +66,11 @@
 1 Snow-Covered Mountain
 1 Auratouched Mage
 2 Sakura-Tribe Scout
+2 Agent of Treachery
 2 Prismatic Vista
 2 Abundant Growth
 2 Coiling Oracle
 2 Seasoned Pyromancer
-2 Agent of Treachery
 2 Winota, Joiner of Forces
 2 Snow-Covered Island
 2 Arcum's Astrolabe
@@ -85,9 +85,9 @@
 3 Misty Rainforest
 3 Prismatic Vista
 3 Abundant Growth
+3 Agent of Treachery
 3 Wrenn and Six
 3 Seasoned Pyromancer
-3 Agent of Treachery
 3 Winota, Joiner of Forces
 3 Arboreal Grazer
 3 Arcum's Astrolabe
@@ -113,17 +113,25 @@
 2 Anafenza, Kin-Tree Spirit
 2 Overgrown Tomb
 3 Verdant Catacombs
-1 Nihil Spellbomb
-2 Nihil Spellbomb
-3 Nihil Spellbomb
 1 Flooded Strand
 2 Hallowed Fountain
 2 Flooded Strand
 3 Teferi, Time Raveler
 3 Grand Abolisher
+1 Nihil Spellbomb
+2 Nihil Spellbomb
+3 Nihil Spellbomb
 1 Path to Exile
 2 Path to Exile
 3 Path to Exile
+1 Shalai, Voice of Plenty
+1 Gavony Township
+1 Eternal Witness
+1 Swamp
+2 Eternal Witness
+2 Gavony Township
+3 Chord of Calling
+4 Chord of Calling
 1 Eldrazi Displacer
 1 Brushland
 1 Zirda, the Dawnwaker
@@ -135,11 +143,3 @@
 3 Walking Ballista
 4 Brushland
 4 Duskwatch Recruiter
-1 Shalai, Voice of Plenty
-1 Gavony Township
-1 Eternal Witness
-1 Swamp
-2 Eternal Witness
-2 Gavony Township
-3 Chord of Calling
-4 Chord of Calling

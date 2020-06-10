@@ -1,7 +1,7 @@
-2 Tamiyo, Collector of Tales
 2 Quasiduplicate
 2 Healer of the Glade
 2 Command the Dreadhorde
+2 Tamiyo, Collector of Tales
 3 Healer of the Glade
 3 Command the Dreadhorde
 4 Healer of the Glade
@@ -18,22 +18,22 @@
 1 Neutralize
 1 Brineborn Cutthroat
 1 Slitherwisp
+1 Frilled Mystic
 1 Quench
 1 Heartless Act
-1 Frilled Mystic
 1 Nightpack Ambusher
 2 Neutralize
 2 Slitherwisp
 2 Brineborn Cutthroat
+2 Frilled Mystic
 2 Quench
 2 Heartless Act
-2 Frilled Mystic
 2 Nightpack Ambusher
 3 Slitherwisp
 3 Brineborn Cutthroat
 3 Quench
-3 Brazen Borrower
 3 Frilled Mystic
+3 Brazen Borrower
 4 Brineborn Cutthroat
 4 Quench
 4 Brazen Borrower
@@ -99,9 +99,6 @@
 4 Growth Spiral
 2 Aether Gust
 3 Temple of Deceit
-1 Spectral Sailor
-2 Spectral Sailor
-4 Frilled Mystic
 1 Castle Garenbrig
 1 Shifting Ceratops
 1 Brokkos, Apex of Forever
@@ -118,6 +115,9 @@
 3 Heartless Act
 4 Neutralize
 4 Nightpack Ambusher
+1 Spectral Sailor
+2 Spectral Sailor
+4 Frilled Mystic
 1 Knight of the Ebon Legion
 1 Stonecoil Serpent
 2 Knight of the Ebon Legion
