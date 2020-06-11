@@ -1,12 +1,12 @@
 1 Hashep Oasis
-1 Llanowar Elves
 1 Elvish Mystic
-2 Elvish Mystic
+1 Llanowar Elves
 2 Llanowar Elves
-3 Elvish Mystic
+2 Elvish Mystic
 3 Llanowar Elves
-4 Elvish Mystic
+3 Elvish Mystic
 4 Llanowar Elves
+4 Elvish Mystic
 2 Hashep Oasis
 1 Voracious Hydra
 2 Voracious Hydra
@@ -31,9 +31,9 @@
 1 Woodland Cemetery
 1 Experiment One
 1 Pelt Collector
-2 Woodland Cemetery
 2 Experiment One
 2 Pelt Collector
+2 Woodland Cemetery
 3 Experiment One
 3 Pelt Collector
 4 Experiment One
@@ -46,19 +46,19 @@
 3 Thoughtseize
 4 Thoughtseize
 1 Rhonas the Indomitable
-1 Steel Leaf Champion
-1 Lovestruck Beast
 1 Rotting Regisaur
 1 The Great Henge
-2 Rhonas the Indomitable
-2 Steel Leaf Champion
+1 Lovestruck Beast
+1 Steel Leaf Champion
 2 Lovestruck Beast
 2 The Great Henge
+2 Steel Leaf Champion
+2 Rhonas the Indomitable
 2 Rotting Regisaur
 3 Steel Leaf Champion
-3 Lovestruck Beast
-3 The Great Henge
 3 Rotting Regisaur
+3 The Great Henge
+3 Lovestruck Beast
 4 Steel Leaf Champion
 4 Lovestruck Beast
 4 Rotting Regisaur
@@ -67,12 +67,12 @@
 4 Scavenging Ooze
 4 Woodland Cemetery
 4 Chamber Sentry
-1 Collected Company
 1 Scrapheap Scrounger
+1 Collected Company
 1 Tireless Tracker
 1 Nessian Hornbeetle
-2 Collected Company
 2 Scrapheap Scrounger
+2 Collected Company
 2 Nessian Hornbeetle
 3 Collected Company
 3 Nessian Hornbeetle
@@ -83,10 +83,10 @@
 1 Mana Confluence
 1 Vraska, Golgari Queen
 1 Shadowspear
-1 Yorvo, Lord of Garenbrig
 1 Nissa, Who Shakes the World
-2 Nissa, Who Shakes the World
+1 Yorvo, Lord of Garenbrig
 2 Yorvo, Lord of Garenbrig
+2 Nissa, Who Shakes the World
 1 Hope of Ghirapur
 1 Implement of Ferocity
 2 Hope of Ghirapur
@@ -103,8 +103,8 @@
 1 Bomat Courier
 1 Blood Crypt
 1 Traverse the Ulvenwald
-1 Grisly Salvage
 1 Ghor-Clan Rampager
+1 Grisly Salvage
 1 Questing Beast
 1 Sylvan Caryatid
 1 Carnage Tyrant

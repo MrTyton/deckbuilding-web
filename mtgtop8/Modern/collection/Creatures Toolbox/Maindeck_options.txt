@@ -10,9 +10,9 @@
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 1 Ranger-Captain of Eos
-1 Heliod, Sun-Crowned
-1 Spike Feeder
 1 Collected Company
+1 Spike Feeder
+1 Heliod, Sun-Crowned
 2 Spike Feeder
 2 Heliod, Sun-Crowned
 2 Ranger-Captain of Eos
@@ -27,8 +27,8 @@
 4 Kitchen Finks
 3 Spike Feeder
 3 Ranger-Captain of Eos
-4 Spike Feeder
 4 Ranger-Captain of Eos
+4 Spike Feeder
 4 Heliod, Sun-Crowned
 3 Wooded Foothills
 1 Misty Rainforest
@@ -39,13 +39,13 @@
 1 Grand Abolisher
 2 Plains
 2 Grand Abolisher
-1 Hallowed Fountain
 1 Teferi, Time Raveler
+1 Hallowed Fountain
 2 Teferi, Time Raveler
 2 Misty Rainforest
 1 Prismatic Vista
-1 Abundant Growth
 1 Snow-Covered Island
+1 Abundant Growth
 1 Coiling Oracle
 1 Sacred Foundry
 1 Blade Splicer
@@ -66,12 +66,12 @@
 1 Snow-Covered Mountain
 1 Auratouched Mage
 2 Sakura-Tribe Scout
-2 Agent of Treachery
 2 Prismatic Vista
 2 Abundant Growth
 2 Coiling Oracle
 2 Seasoned Pyromancer
 2 Winota, Joiner of Forces
+2 Agent of Treachery
 2 Snow-Covered Island
 2 Arcum's Astrolabe
 2 Wrenn and Six
@@ -85,22 +85,22 @@
 3 Misty Rainforest
 3 Prismatic Vista
 3 Abundant Growth
-3 Agent of Treachery
 3 Wrenn and Six
 3 Seasoned Pyromancer
+3 Agent of Treachery
 3 Winota, Joiner of Forces
 3 Arboreal Grazer
 3 Arcum's Astrolabe
 3 Coiling Oracle
 3 Eldritch Evolution
+4 Wrenn and Six
 4 Misty Rainforest
 4 Prismatic Vista
-4 Sakura-Tribe Scout
 4 Wooded Foothills
 4 Abundant Growth
 4 Agent of Treachery
 4 Seasoned Pyromancer
-4 Wrenn and Six
+4 Sakura-Tribe Scout
 4 Winota, Joiner of Forces
 4 Arboreal Grazer
 4 Coiling Oracle
@@ -108,8 +108,8 @@
 4 Arcum's Astrolabe
 2 Spellskite
 1 Marsh Flats
-1 Knight of Autumn
 1 Anafenza, Kin-Tree Spirit
+1 Knight of Autumn
 2 Anafenza, Kin-Tree Spirit
 2 Overgrown Tomb
 3 Verdant Catacombs
@@ -125,8 +125,8 @@
 2 Path to Exile
 3 Path to Exile
 1 Shalai, Voice of Plenty
-1 Gavony Township
 1 Eternal Witness
+1 Gavony Township
 1 Swamp
 2 Eternal Witness
 2 Gavony Township

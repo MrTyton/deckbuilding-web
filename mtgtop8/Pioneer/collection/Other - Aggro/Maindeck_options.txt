@@ -21,6 +21,7 @@
 1 Mountain
 1 Scavenging Ooze
 2 Scavenging Ooze
+1 Kroxa, Titan of Death's Hunger
 1 Chevill, Bane of Monsters
 1 Kolaghan's Command
 1 Blood Crypt
@@ -30,18 +31,17 @@
 1 Dead Weight
 1 Dreadbore
 1 Stomping Ground
-1 Kroxa, Titan of Death's Hunger
+2 Kroxa, Titan of Death's Hunger
 2 Chevill, Bane of Monsters
 2 Grim Flayer
 2 Blood Crypt
 2 Dead Weight
 2 Unbridled Growth
 2 Stomping Ground
-2 Kroxa, Titan of Death's Hunger
 2 Abrupt Decay
+3 Kroxa, Titan of Death's Hunger
 3 Blood Crypt
 3 Grim Flayer
-3 Kroxa, Titan of Death's Hunger
 3 Stomping Ground
 3 Unbridled Growth
 4 Blood Crypt
@@ -140,6 +140,7 @@
 1 Trial of Ambition
 1 Silkwrap
 1 Spell Queller
+1 Wasteland Strangler
 1 Archon of Sun's Grace
 1 Ulamog's Nullifier
 1 Elspeth Conquers Death
@@ -148,27 +149,26 @@
 1 Charming Prince
 1 Ipnu Rivulet
 1 Brain Maggot
-1 Wasteland Strangler
 2 Shefet Dunes
 2 Silkwrap
 2 Trial of Ambition
 2 Spell Queller
+2 Wasteland Strangler
 2 Elspeth Conquers Death
 2 Thought-Knot Seer
 2 Archon of Sun's Grace
 2 Brain Maggot
 2 Omen of the Sea
 2 Ulamog's Nullifier
-2 Wasteland Strangler
 2 Wastes
 2 Ipnu Rivulet
 2 Charming Prince
 3 Silkwrap
 3 Brain Maggot
+3 Wasteland Strangler
 3 Spell Queller
 3 Thought-Knot Seer
 3 Omen of the Sea
-3 Wasteland Strangler
 3 Charming Prince
 4 Silkwrap
 4 Brain Maggot
@@ -220,8 +220,8 @@
 3 Agent of Treachery
 3 Blast Zone
 3 Bonecrusher Giant
-3 Chandra, Acolyte of Flame
 3 Steam Vents
+3 Chandra, Acolyte of Flame
 3 Phyrexian Revoker
 3 Castle Embereth
 3 Lavinia of the Tenth
@@ -260,13 +260,13 @@
 3 Abrupt Decay
 4 Gird for Battle
 2 Island
-1 Sulfur Falls
 1 Azorius Charm
 1 Castle Vantress
+1 Sulfur Falls
 1 Flourishing Fox
-1 Hieroglyphic Illumination
 1 Zenith Flare
 1 Nimble Obstructionist
+1 Hieroglyphic Illumination
 1 Cast Out
 1 Neutralize
 1 Censor
@@ -274,8 +274,8 @@
 1 Shark Typhoon
 1 Irrigated Farmland
 2 Irrigated Farmland
-2 Sulfur Falls
 2 Azorius Charm
+2 Sulfur Falls
 2 Zenith Flare
 2 Flourishing Fox
 2 Nimble Obstructionist
@@ -283,16 +283,16 @@
 2 Cast Out
 2 Neutralize
 2 Censor
-2 Shark Typhoon
 2 Supreme Verdict
+2 Shark Typhoon
 3 Irrigated Farmland
 3 Shark Typhoon
-3 Sulfur Falls
 3 Azorius Charm
-3 Hieroglyphic Illumination
+3 Sulfur Falls
 3 Island
 3 Zenith Flare
 3 Flourishing Fox
+3 Hieroglyphic Illumination
 3 Neutralize
 3 Cast Out
 3 Censor
@@ -389,17 +389,17 @@
 4 Metallic Mimic
 4 Llanowar Wastes
 4 Steel Overseer
-1 Pack Rat
 1 Heart of Kiran
+1 Pack Rat
 1 Castle Locthwain
 1 Karn, Scion of Urza
 1 Castle Ardenvale
 1 Knight of the Ebon Legion
 1 Shambling Vent
+2 Shambling Vent
 2 Heart of Kiran
 2 Pack Rat
 2 Knight of the Ebon Legion
-2 Shambling Vent
 2 Karn, Scion of Urza
 3 Pack Rat
 3 Karn, Scion of Urza
@@ -417,10 +417,10 @@
 1 Temple Garden
 1 Sunpetal Grove
 1 Fortified Village
+1 Zirda, the Dawnwaker
 1 Duskwatch Recruiter
 1 Llanowar Elves
 1 Elvish Mystic
-1 Zirda, the Dawnwaker
 2 Zirda, the Dawnwaker
 2 Collected Company
 2 Temple Garden
@@ -432,8 +432,8 @@
 2 Llanowar Elves
 2 Elvish Mystic
 3 Temple Garden
-3 Sunpetal Grove
 3 Collected Company
+3 Sunpetal Grove
 3 Scavenging Ooze
 3 Llanowar Elves
 3 Elvish Mystic
@@ -450,9 +450,9 @@
 4 Heliod, Sun-Crowned
 4 Fortified Village
 4 Llanowar Elves
-1 Gutterbones
 1 Garrison Cat
 1 Cartel Aristocrat
+1 Gutterbones
 1 Stitcher's Supplier
 1 Cruel Celebrant
 1 Fiend Artisan
@@ -461,13 +461,13 @@
 1 Hunted Witness
 1 Zulaport Cutthroat
 1 Priest of Forgotten Gods
-2 Gutterbones
 2 Garrison Cat
 2 Fiend Artisan
 2 Priest of Forgotten Gods
 2 Return to the Ranks
 2 Cartel Aristocrat
 2 Stitcher's Supplier
+2 Gutterbones
 2 Cruel Celebrant
 2 Hunted Witness
 2 Zulaport Cutthroat

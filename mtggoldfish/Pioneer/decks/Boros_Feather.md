@@ -54,7 +54,7 @@
 |                     |                                                                                                |                    3|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)             |
 |                     |                                                                                                |                    1|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)             |
 |                     |                                                                                                |                    2|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)             |
-|                     |                                                                                                |                    3|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)             |
 |                     |                                                                                                |                    3|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)              |
+|                     |                                                                                                |                    3|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)             |
 |                     |                                                                                                |                    3|[Kari Zev's Expertise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423755)    |
 

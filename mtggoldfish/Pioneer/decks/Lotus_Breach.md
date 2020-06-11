@@ -57,6 +57,6 @@
 |                    1|[Void Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383429)            |                    1|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)      |
 |                    1|[Fog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=746)                      |                    1|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)         |
 |                    2|[Dig Through Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386518)      |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
-|                    2|[Tome Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191598)            |                    2|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
-|                    4|[Underworld Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476412)     |                     |                                                                                                  |
+|                    4|[Underworld Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476412)     |                    2|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
+|                    2|[Tome Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191598)            |                     |                                                                                                  |
 

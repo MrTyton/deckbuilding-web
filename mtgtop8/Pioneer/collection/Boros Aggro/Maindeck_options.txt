@@ -1,5 +1,5 @@
-4 Gird for Battle
 3 Plains
+4 Gird for Battle
 4 Boros Charm
 1 Gryff's Boon
 2 Gryff's Boon
@@ -36,6 +36,7 @@
 1 Shock
 4 Lightning Strike
 4 Viashino Pyromancer
+4 Dreadhorde Arcanist
 1 Blood Crypt
 1 Skewer the Critics
 2 Skewer the Critics
@@ -48,11 +49,11 @@
 1 Satyr Hoplite
 2 Satyr Hoplite
 3 Satyr Hoplite
-4 Dreadhorde Arcanist
 4 Satyr Hoplite
 1 The Birth of Meletis
 1 Needle Spires
 1 Nahiri, the Harbinger
+1 Haktos the Unscarred
 1 Temple of Triumph
 1 Lavabrink Venturer
 1 Deafening Clarion
@@ -66,12 +67,11 @@
 1 Gideon of the Trials
 1 Fabled Passage
 1 Thalia's Lancers
-1 Haktos the Unscarred
 2 Gideon, Ally of Zendikar
-2 Haktos the Unscarred
 2 The Birth of Meletis
 2 Deafening Clarion
 2 Temple of Triumph
+2 Haktos the Unscarred
 2 Gideon of the Trials
 2 Bonecrusher Giant
 2 Chained to the Rocks
@@ -83,11 +83,11 @@
 2 Fabled Passage
 3 Gideon of the Trials
 3 Deafening Clarion
-3 Haktos the Unscarred
 3 The Birth of Meletis
 3 Temple of Triumph
 3 Lavabrink Venturer
 3 Bonecrusher Giant
+3 Haktos the Unscarred
 3 Chained to the Rocks
 3 Fabled Passage
 3 Needle Spires
@@ -96,13 +96,13 @@
 4 Temple of Triumph
 4 Fabled Passage
 4 Lavabrink Venturer
-1 Warlord's Fury
 1 Abbot of Keral Keep
 1 Runaway Steam-Kin
 1 Crash Through
-2 Warlord's Fury
+1 Warlord's Fury
 2 Abbot of Keral Keep
 2 Shock
+2 Warlord's Fury
 2 Crash Through
 2 Runaway Steam-Kin
 3 Crash Through
@@ -116,8 +116,8 @@
 4 Warlord's Fury
 4 Runaway Steam-Kin
 8 Mountain
-1 Fight as One
 1 Feather, the Redeemed
+1 Fight as One
 1 Phalanx Leader
 1 Invigorated Rampage
 1 Lagonna-Band Trailblazer

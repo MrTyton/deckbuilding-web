@@ -3,10 +3,10 @@
 2 Tibalt, Rakish Instigator
 1 Light Up the Stage
 2 Light Up the Stage
-3 Shock
 1 Embercleave
 1 Bonecrusher Giant
 3 Anax, Hardened in the Forge
+3 Shock
 4 Castle Embereth
 4 Torbran, Thane of Red Fell
 20 Mountain
@@ -19,16 +19,16 @@
 4 Heartfire
 3 Embercleave
 4 Anax, Hardened in the Forge
-4 Shock
 4 Light Up the Stage
-1 Legion Warboss
-1 Dwarven Mine
+4 Shock
 21 Mountain
-1 Lava Coil
-2 Lava Coil
+1 Dwarven Mine
+1 Legion Warboss
 3 Bonecrusher Giant
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
+1 Lava Coil
+2 Lava Coil
 2 Legion Warboss
 1 Robber of the Rich
 2 Robber of the Rich
@@ -60,8 +60,6 @@
 3 Infuriate
 22 Mountain
 3 Legion Warboss
-4 Lava Coil
-1 Torch Courier
 1 Demolish
 1 Reckless Air Strike
 1 Jaya's Greeting
@@ -72,49 +70,12 @@
 3 Reckless Air Strike
 4 Reckless Air Strike
 4 Scampering Scorcher
+4 Lava Coil
 23 Mountain
 24 Mountain
-1 Essence Scatter
-1 Crackling Drake
-1 Swiftwater Cliffs
-1 Niv-Mizzet, Parun
-1 Electrostatic Field
-1 Izzet Guildgate
-1 Samut, Tyrant Smasher
-1 Ionize
-1 Neutralize
-1 Anticipate
-1 Sprite Dragon
-1 The Royal Scions
-1 Island
-1 Raugrin Triome
-2 Sprite Dragon
-2 Niv-Mizzet, Parun
-2 Swiftwater Cliffs
-2 Island
-2 Ionize
-2 Electrostatic Field
-2 Izzet Guildgate
-2 Anticipate
-2 Neutralize
-2 Essence Scatter
-2 Raugrin Triome
-2 Crackling Drake
-3 Ionize
-3 Sprite Dragon
-3 Essence Scatter
-3 Izzet Guildgate
-3 Island
-3 Swiftwater Cliffs
-4 Swiftwater Cliffs
-4 Sprite Dragon
-4 Island
-4 Izzet Guildgate
-5 Island
-6 Island
+1 Scorching Dragonfire
 1 Mirror March
 1 Lukka, Coppercoat Outcast
-1 Scorching Dragonfire
 1 Drakuseth, Maw of Flames
 2 Scorching Dragonfire
 3 Scorching Dragonfire
@@ -124,9 +85,10 @@
 1 Rimrock Knight
 2 Rimrock Knight
 3 Rimrock Knight
-1 Slaying Fire
 1 Weaponize the Monsters
 1 Claim the Firstborn
+1 Slaying Fire
+1 Torch Courier
 1 Chandra's Regulator
 2 Weaponize the Monsters
 2 Torch Courier
@@ -162,9 +124,9 @@
 1 Leyline of Combustion
 1 Sure Strike
 1 Goblin Gathering
+2 Goblin Gathering
 2 Sure Strike
 2 Samut's Sprint
-2 Goblin Gathering
 3 Krenko, Tin Street Kingpin
 3 Goblin Gathering
 3 Tibalt, Rakish Instigator

@@ -1,5 +1,5 @@
-1 Engineered Explosives
-3 Snapcaster Mage
+2 Mystic Sanctuary
+3 Archmage's Charm
 1 Uro, Titan of Nature's Wrath
 1 Snow-Covered Forest
 2 Uro, Titan of Nature's Wrath
@@ -30,10 +30,6 @@
 4 Archmage's Charm
 4 Remand
 4 Cryptic Command
-1 Thought Scour
-2 Thought Scour
-3 Thought Scour
-4 Thought Scour
 1 Serum Visions
 2 Serum Visions
 3 Serum Visions
@@ -43,6 +39,8 @@
 2 Jace, the Mind Sculptor
 2 Abrupt Decay
 1 Drown in the Loch
+1 Thought Scour
+2 Thought Scour
 1 Swamp
 1 Island
 1 Darkslick Shores
@@ -67,12 +65,12 @@
 1 Primal Command
 1 Field of the Dead
 1 Primeval Titan
-1 Fires of Invention
 1 Realm-Cloaked Giant
+1 Fires of Invention
 1 Stomping Ground
 1 Raging Ravine
-1 Courser of Kruphix
 1 Golos, Tireless Pilgrim
+1 Courser of Kruphix
 1 Arboreal Grazer
 1 Teferi, Time Raveler
 1 Gilded Goose
@@ -83,22 +81,22 @@
 2 Primeval Titan
 2 Field of the Dead
 2 Fires of Invention
+2 Courser of Kruphix
+2 Teferi, Time Raveler
 2 Arboreal Grazer
 2 Gilded Goose
-2 Teferi, Time Raveler
 2 Wooded Foothills
 2 Castle Garenbrig
 2 Primal Command
 2 Stomping Ground
-2 Courser of Kruphix
 3 Sakura-Tribe Scout
 3 Wooded Foothills
+3 Teferi, Time Raveler
 3 Fires of Invention
 3 Courser of Kruphix
 3 Primeval Titan
 3 Primal Command
 3 Arboreal Grazer
-3 Teferi, Time Raveler
 3 Castle Garenbrig
 4 Sakura-Tribe Scout
 4 Arboreal Grazer
@@ -109,15 +107,15 @@
 1 Zagoth Triome
 1 Oath of Kaya
 1 Abundant Growth
-1 Prismatic Vista
+1 Winds of Abandon
+1 Dovin's Veto
+1 Supreme Verdict
 1 Teferi, Hero of Dominaria
 1 Field of Ruin
 1 Snow-Covered Plains
-1 Dovin's Veto
-1 Winds of Abandon
+1 Prismatic Vista
 1 Kaya's Guile
 1 Path to Exile
-1 Supreme Verdict
 1 Assassin's Trophy
 2 Snow-Covered Plains
 2 Abundant Growth
@@ -140,29 +138,31 @@
 4 Path to Exile
 4 Prismatic Vista
 1 Kroxa, Titan of Death's Hunger
-1 Blast Zone
 2 Kolaghan's Command
 1 Exhaustion
-1 Chandra, Torch of Defiance
 1 Gemstone Caverns
 1 Lonely Sandbar
-1 Brazen Borrower
 1 Lightning Bolt
+1 Chandra, Torch of Defiance
+1 Brazen Borrower
 1 Walk the Aeons
 2 Time Warp
 2 Snow-Covered Forest
-2 Chandra, Torch of Defiance
-2 Ketria Triome
 2 Gemstone Caverns
 2 Steam Vents
+2 Chandra, Torch of Defiance
 2 Lonely Sandbar
 2 Lightning Bolt
+2 Ketria Triome
 3 Time Warp
 4 Time Warp
+1 Blast Zone
+3 Thought Scour
+4 Thought Scour
+1 Jace, Vryn's Prodigy
 1 Delver of Secrets
 1 Thoughtseize
 1 Opt
-1 Jace, Vryn's Prodigy
 2 Delver of Secrets
 2 Jace, Vryn's Prodigy
 2 Deprive
@@ -173,13 +173,13 @@
 1 Hieroglyphic Illumination
 2 Hieroglyphic Illumination
 7 Snow-Covered Island
-1 Search for Azcanta
 1 Thing in the Ice
+1 Search for Azcanta
 1 Nihil Spellbomb
+2 Thing in the Ice
 2 Unearth
 2 Tyrant's Scorn
-2 Thing in the Ice
 2 Nihil Spellbomb
 3 Thing in the Ice
-4 Thing in the Ice
 3 Inquisition of Kozilek
+4 Thing in the Ice
