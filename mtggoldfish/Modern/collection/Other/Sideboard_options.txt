@@ -1,62 +1,54 @@
 1 Knight of Autumn
-1 Path to Exile
-3 Damping Sphere
 2 Path to Exile
 1 Kor Firewalker
 2 Kor Firewalker
+3 Damping Sphere
 3 Kor Firewalker
 3 Path to Exile
-1 Flusterstorm
-3 Collective Brutality
-1 Disdainful Stroke
-3 Ceremonious Rejection
-1 Choke
-1 Obstinate Baloth
-1 Gaddock Teeg
 1 Rest in Peace
 2 Rest in Peace
+1 Choke
+1 Ashiok, Dream Render
+1 Gaddock Teeg
+1 Obstinate Baloth
+3 Collective Brutality
 1 Thoughtseize
-1 Nihil Spellbomb
+3 Rest in Peace
 1 Fatal Push
-1 Blood Moon
-2 Blood Moon
+1 Nihil Spellbomb
+1 Disdainful Stroke
+1 Stony Silence
+2 Stony Silence
+2 Choke
+1 Flusterstorm
 2 Flusterstorm
-1 Abrade
-2 Abrade
 3 Veil of Summer
 3 Mystical Dispute
 1 Liliana, the Last Hope
 1 Weather the Storm
-2 Choke
-1 Engineered Explosives
+2 Gaddock Teeg
 2 Ashiok, Dream Render
+1 Damnation
 2 Nihil Spellbomb
 1 Force of Negation
-1 Damnation
-2 Gaddock Teeg
+1 Engineered Explosives
 1 Surgical Extraction
+4 Path to Exile
 1 Yorion, Sky Nomad
 1 Timely Reinforcements
 1 Assassin's Trophy
-4 Path to Exile
 1 Anger of the Gods
 1 Celestial Purge
 2 Weather the Storm
-3 Rest in Peace
-3 Relic of Progenitus
 1 Phyrexian Revoker
 1 Kitchen Finks
 1 Plague Engineer
-1 Stony Silence
-2 Stony Silence
-1 Grafdigger's Cage
+3 Ceremonious Rejection
+3 Relic of Progenitus
 1 Leyline of the Void
-1 Drown in the Loch
 1 Tireless Tracker
 1 Heartless Act
 1 Countersquall
-1 Spell Snare
-1 Beacon Bolt
 1 Deglamer
 1 Unravel the Aether
 1 Abrupt Decay
@@ -65,15 +57,6 @@
 2 Thoughtseize
 1 Mirran Crusader
 2 Mirran Crusader
-1 Dreadbore
-1 Cryptic Command
-1 Galvanic Blast
-1 Dead of Winter
-1 Ashiok, Nightmare Muse
-1 Herald of Anguish
-1 Sorcerous Spyglass
-1 Tezzeret, Agent of Bolas
-2 Galvanic Blast
 1 Uro, Titan of Nature's Wrath
 1 Delay
 2 Force of Negation
@@ -82,6 +65,13 @@
 1 Sin Collector
 1 Loaming Shaman
 2 Fiery Justice
+1 Kaya, Orzhov Usurper
+1 Gideon, Ally of Zendikar
+1 Kunoros, Hound of Athreos
+1 Spirit of the Labyrinth
+1 Orzhov Pontiff
+2 Fatal Push
+2 Spirit of the Labyrinth
 1 Eidolon of Rhetoric
 1 Fracturing Gust
 1 Elspeth, Sun's Champion
@@ -94,11 +84,28 @@
 1 Collector Ouphe
 2 Knight of Autumn
 2 Obstinate Baloth
+1 Blood Moon
+2 Blood Moon
+1 Grafdigger's Cage
 1 Narset, Parter of Veils
 1 Magmatic Sinkhole
+1 Abrade
 2 Narset, Parter of Veils
+2 Abrade
 2 Grafdigger's Cage
 3 Blood Moon
+1 Trinisphere
+1 Pithing Needle
+1 Spell Snare
+1 Walking Ballista
+1 Wurmcoil Engine
+1 Chalice of the Void
+1 Spreading Seas
+1 Ensnaring Bridge
+1 Sundering Titan
+2 Chalice of the Void
+2 Spreading Seas
+3 Aether Gust
 1 Simian Spirit Guide
 1 Crackling Drake
 1 Niv-Mizzet, Parun
@@ -106,11 +113,12 @@
 2 Crackling Drake
 2 Niv-Mizzet, Parun
 3 Crackling Drake
+1 Drown in the Loch
 1 Lightning Bolt
-1 The Royal Scions
 1 Kolaghan's Command
-2 Disdainful Stroke
+1 The Royal Scions
 2 Kolaghan's Command
+2 Disdainful Stroke
 3 Disdainful Stroke
 1 Pillage
 1 Boil
@@ -136,8 +144,8 @@
 3 Timely Reinforcements
 2 Surgical Extraction
 3 Surgical Extraction
-1 Dovin's Veto
 1 Lone Missionary
+1 Dovin's Veto
 1 Tormod's Crypt
 1 Negate
 1 Ghost Quarter
@@ -164,6 +172,16 @@
 3 Healer of the Glade
 3 Leyline of the Void
 4 Leyline of the Void
+1 Ratchet Bomb
+1 Jegantha, the Wellspring
+1 Rampaging Ferocidon
+2 Ratchet Bomb
+2 Rampaging Ferocidon
+3 Ratchet Bomb
+3 Rampaging Ferocidon
+4 Relic of Progenitus
+4 Ratchet Bomb
+4 Rampaging Ferocidon
 1 Alpine Moon
 1 Reality Hemorrhage
 1 Bedlam Reveler
@@ -172,13 +190,3 @@
 3 Bedlam Reveler
 4 Bedlam Reveler
 4 Kor Firewalker
-1 Ratchet Bomb
-1 Jegantha, the Wellspring
-1 Rampaging Ferocidon
-2 Ratchet Bomb
-2 Rampaging Ferocidon
-3 Ratchet Bomb
-3 Rampaging Ferocidon
-4 Ratchet Bomb
-4 Rampaging Ferocidon
-4 Relic of Progenitus

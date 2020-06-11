@@ -10,9 +10,9 @@
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 1 Ranger-Captain of Eos
+1 Heliod, Sun-Crowned
 1 Collected Company
 1 Spike Feeder
-1 Heliod, Sun-Crowned
 2 Spike Feeder
 2 Heliod, Sun-Crowned
 2 Ranger-Captain of Eos
@@ -27,9 +27,9 @@
 4 Kitchen Finks
 3 Spike Feeder
 3 Ranger-Captain of Eos
-4 Ranger-Captain of Eos
 4 Spike Feeder
 4 Heliod, Sun-Crowned
+4 Ranger-Captain of Eos
 3 Wooded Foothills
 1 Misty Rainforest
 1 Breeding Pool
@@ -48,7 +48,6 @@
 1 Abundant Growth
 1 Coiling Oracle
 1 Sacred Foundry
-1 Blade Splicer
 1 Seasoned Pyromancer
 1 Winota, Joiner of Forces
 1 Agent of Treachery
@@ -58,6 +57,7 @@
 1 Stomping Ground
 1 Ice-Fang Coatl
 1 Steam Vents
+1 Blade Splicer
 1 Sakura-Tribe Scout
 1 Pia Nalaar
 1 Wrenn and Six
@@ -68,10 +68,10 @@
 2 Sakura-Tribe Scout
 2 Prismatic Vista
 2 Abundant Growth
+2 Agent of Treachery
 2 Coiling Oracle
 2 Seasoned Pyromancer
 2 Winota, Joiner of Forces
-2 Agent of Treachery
 2 Snow-Covered Island
 2 Arcum's Astrolabe
 2 Wrenn and Six
@@ -86,8 +86,8 @@
 3 Prismatic Vista
 3 Abundant Growth
 3 Wrenn and Six
-3 Seasoned Pyromancer
 3 Agent of Treachery
+3 Seasoned Pyromancer
 3 Winota, Joiner of Forces
 3 Arboreal Grazer
 3 Arcum's Astrolabe

@@ -140,7 +140,6 @@
 1 Trial of Ambition
 1 Silkwrap
 1 Spell Queller
-1 Wasteland Strangler
 1 Archon of Sun's Grace
 1 Ulamog's Nullifier
 1 Elspeth Conquers Death
@@ -149,17 +148,18 @@
 1 Charming Prince
 1 Ipnu Rivulet
 1 Brain Maggot
+1 Wasteland Strangler
 2 Shefet Dunes
 2 Silkwrap
 2 Trial of Ambition
 2 Spell Queller
-2 Wasteland Strangler
 2 Elspeth Conquers Death
 2 Thought-Knot Seer
 2 Archon of Sun's Grace
 2 Brain Maggot
 2 Omen of the Sea
 2 Ulamog's Nullifier
+2 Wasteland Strangler
 2 Wastes
 2 Ipnu Rivulet
 2 Charming Prince
@@ -185,6 +185,7 @@
 1 Reflector Mage
 1 Castle Embereth
 1 Agent of Treachery
+1 Winota, Joiner of Forces
 1 Chained to the Rocks
 1 Goblin Instigator
 1 Bonecrusher Giant
@@ -195,18 +196,17 @@
 1 Steam Vents
 1 Blast Zone
 1 Temple of Triumph
-1 Winota, Joiner of Forces
 1 Hanged Executioner
 1 Fire Prophecy
 2 Reflector Mage
 2 Agent of Treachery
+2 Winota, Joiner of Forces
 2 Castle Embereth
 2 Steam Vents
 2 Chained to the Rocks
 2 Bonecrusher Giant
 2 Chandra, Acolyte of Flame
 2 Phyrexian Revoker
-2 Winota, Joiner of Forces
 2 Blast Zone
 2 Hanged Executioner
 2 Goblin Instigator
@@ -216,30 +216,30 @@
 3 Reflector Mage
 3 Hanged Executioner
 3 Raugrin Triome
+3 Winota, Joiner of Forces
 3 Chained to the Rocks
 3 Agent of Treachery
-3 Blast Zone
 3 Bonecrusher Giant
 3 Steam Vents
 3 Chandra, Acolyte of Flame
 3 Phyrexian Revoker
 3 Castle Embereth
 3 Lavinia of the Tenth
-3 Winota, Joiner of Forces
 3 Cloudblazer
+3 Blast Zone
 3 Fire Prophecy
 3 Goblin Instigator
 4 Reflector Mage
 4 Raugrin Triome
+4 Winota, Joiner of Forces
 4 Hanged Executioner
 4 Chained to the Rocks
-4 Blast Zone
 4 Steam Vents
 4 Fire Prophecy
 4 Goblin Instigator
 4 Castle Embereth
+4 Blast Zone
 4 Clifftop Retreat
-4 Winota, Joiner of Forces
 4 Agent of Treachery
 1 Ornithopter
 2 Ornithopter
@@ -293,8 +293,8 @@
 3 Zenith Flare
 3 Flourishing Fox
 3 Hieroglyphic Illumination
-3 Neutralize
 3 Cast Out
+3 Neutralize
 3 Censor
 4 Irrigated Farmland
 4 Azorius Charm
@@ -421,12 +421,12 @@
 1 Duskwatch Recruiter
 1 Llanowar Elves
 1 Elvish Mystic
+2 Gilded Goose
 2 Zirda, the Dawnwaker
 2 Collected Company
 2 Temple Garden
 2 Fortified Village
 2 Sunpetal Grove
-2 Gilded Goose
 2 Splendor Mare
 2 Duskwatch Recruiter
 2 Llanowar Elves

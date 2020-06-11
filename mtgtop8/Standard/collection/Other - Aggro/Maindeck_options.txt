@@ -84,16 +84,16 @@
 5 Forest
 6 Forest
 7 Forest
-1 Arboreal Grazer
 1 Migratory Greathorn
+1 Arboreal Grazer
 1 Auspicious Starrix
 1 Pollywog Symbiote
-2 Arboreal Grazer
 2 Migratory Greathorn
+2 Arboreal Grazer
 2 Pollywog Symbiote
 2 Auspicious Starrix
-3 Arboreal Grazer
 3 Migratory Greathorn
+3 Arboreal Grazer
 3 Pollywog Symbiote
 3 Auspicious Starrix
 3 Pouncing Shoreshark
@@ -152,6 +152,7 @@
 3 Leafkin Druid
 3 Uro, Titan of Nature's Wrath
 3 Growth Spiral
+4 Hydroid Krasis
 4 Cavalier of Thorns
 4 Casualties of War
 4 Leafkin Druid
@@ -159,7 +160,6 @@
 4 Zagoth Triome
 4 Ketria Triome
 4 Overgrown Tomb
-4 Hydroid Krasis
 4 Uro, Titan of Nature's Wrath
 4 Growth Spiral
 3 Quench
@@ -192,14 +192,14 @@
 3 Heartless Act
 4 Spectral Sailor
 4 Temple of Deceit
-1 Illuna, Apex of Wishes
 1 Parcelbeast
+1 Illuna, Apex of Wishes
 1 Thassa, Deep-Dwelling
 1 Temple of Mystery
 1 Agent of Treachery
 2 Castle Garenbrig
-2 Illuna, Apex of Wishes
 2 Parcelbeast
+2 Illuna, Apex of Wishes
 2 Temple of Mystery
 3 Parcelbeast
 3 Illuna, Apex of Wishes
@@ -396,9 +396,9 @@
 3 Temple of Abandon
 3 Stomping Ground
 3 Questing Beast
+4 Temple of Abandon
 4 Bonecrusher Giant
 4 Questing Beast
-4 Temple of Abandon
 4 Mountain
 4 Stomping Ground
 5 Mountain

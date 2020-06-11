@@ -1,12 +1,8 @@
-1 Tomik, Distinguished Advokist
-3 Elspeth Conquers Death
-1 Lurrus of the Dream Den
-4 Gideon of the Trials
 1 Temple of Silence
 1 Godless Shrine
-1 Concealed Courtyard
 1 Isolated Chapel
 1 Oath of Kaya
+1 Concealed Courtyard
 2 Temple of Silence
 2 Godless Shrine
 2 Concealed Courtyard
@@ -18,56 +14,60 @@
 4 Godless Shrine
 4 Concealed Courtyard
 4 Isolated Chapel
+4 Gideon of the Trials
+1 Gideon, Ally of Zendikar
+1 Tomik, Distinguished Advokist
+1 Idyllic Grange
 2 Idyllic Grange
 15 Plains
 16 Plains
-17 Plains
 1 Caves of Koilos
+17 Plains
 2 Lurrus of the Dream Den
 1 Trial of Ambition
-3 Idyllic Grange
 2 Gideon, Ally of Zendikar
 2 Caves of Koilos
 1 Kaya, Orzhov Usurper
 2 Kaya, Orzhov Usurper
-1 Gideon's Intervention
+3 Idyllic Grange
+1 Irrigated Farmland
+1 Hallowed Fountain
+1 Temple of Enlightenment
+1 Teferi, Time Raveler
+1 Glacial Fortress
+1 Reflector Mage
+2 Irrigated Farmland
+2 Glacial Fortress
+2 Hallowed Fountain
+2 Temple of Enlightenment
+2 Reflector Mage
+2 Teferi, Time Raveler
+3 Irrigated Farmland
+3 Glacial Fortress
+3 Hallowed Fountain
+3 Reflector Mage
+3 Temple of Enlightenment
+3 Teferi, Time Raveler
+4 Temple of Enlightenment
+4 Irrigated Farmland
+4 Glacial Fortress
+4 Hallowed Fountain
 2 Castle Ardenvale
+4 Reflector Mage
+1 Detention Sphere
+2 Detention Sphere
 1 Gideon Blackblade
 2 Gideon Blackblade
+1 Gideon's Intervention
 4 Idyllic Grange
 18 Plains
 19 Plains
 20 Plains
 21 Plains
 22 Plains
-1 Irrigated Farmland
-1 Temple of Enlightenment
-1 Teferi, Time Raveler
-1 Hallowed Fountain
-1 Glacial Fortress
-1 Reflector Mage
-2 Irrigated Farmland
-2 Glacial Fortress
-2 Temple of Enlightenment
-2 Hallowed Fountain
-2 Reflector Mage
-2 Teferi, Time Raveler
-3 Irrigated Farmland
-3 Glacial Fortress
-3 Reflector Mage
-3 Temple of Enlightenment
-3 Teferi, Time Raveler
-3 Hallowed Fountain
-4 Temple of Enlightenment
-4 Irrigated Farmland
-4 Glacial Fortress
-4 Hallowed Fountain
 3 Daxos, Blessed by the Sun
 3 Stasis Snare
 2 Gideon's Intervention
-4 Reflector Mage
-1 Detention Sphere
-2 Detention Sphere
 4 Teferi, Time Raveler
 1 Skysovereign, Consul Flagship
 3 Gideon's Intervention
@@ -89,14 +89,14 @@
 1 Indatha Triome
 2 Indatha Triome
 3 Kaya, Orzhov Usurper
-1 Elspeth, Sun's Nemesis
 1 The Birth of Meletis
-2 Elspeth, Sun's Nemesis
+1 Elspeth, Sun's Nemesis
 2 The Birth of Meletis
+2 Elspeth, Sun's Nemesis
 3 The Birth of Meletis
 4 The Birth of Meletis
-25 Plains
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 4 Karn, the Great Creator
+25 Plains

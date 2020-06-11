@@ -1,10 +1,10 @@
 1 Hashep Oasis
 1 Elvish Mystic
 1 Llanowar Elves
-2 Llanowar Elves
 2 Elvish Mystic
-3 Llanowar Elves
+2 Llanowar Elves
 3 Elvish Mystic
+3 Llanowar Elves
 4 Llanowar Elves
 4 Elvish Mystic
 2 Hashep Oasis
@@ -52,13 +52,13 @@
 1 Steel Leaf Champion
 2 Lovestruck Beast
 2 The Great Henge
-2 Steel Leaf Champion
 2 Rhonas the Indomitable
 2 Rotting Regisaur
+2 Steel Leaf Champion
 3 Steel Leaf Champion
-3 Rotting Regisaur
 3 The Great Henge
 3 Lovestruck Beast
+3 Rotting Regisaur
 4 Steel Leaf Champion
 4 Lovestruck Beast
 4 Rotting Regisaur
@@ -68,12 +68,12 @@
 4 Woodland Cemetery
 4 Chamber Sentry
 1 Scrapheap Scrounger
-1 Collected Company
 1 Tireless Tracker
+1 Collected Company
 1 Nessian Hornbeetle
 2 Scrapheap Scrounger
-2 Collected Company
 2 Nessian Hornbeetle
+2 Collected Company
 3 Collected Company
 3 Nessian Hornbeetle
 4 Collected Company
@@ -91,8 +91,8 @@
 1 Implement of Ferocity
 2 Hope of Ghirapur
 2 Implement of Ferocity
-3 The Ozolith
 3 Hope of Ghirapur
+3 The Ozolith
 1 Animation Module
 2 Animation Module
 3 Animation Module
@@ -116,9 +116,9 @@
 1 Gather the Pack
 2 Bomat Courier
 2 Traverse the Ulvenwald
+2 Questing Beast
 2 Grisly Salvage
 2 Blood Crypt
-2 Questing Beast
 2 Gather the Pack
 2 Sylvan Caryatid
 2 Mana Confluence
