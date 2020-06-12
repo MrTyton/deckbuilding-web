@@ -1,10 +1,10 @@
 1 Barrier Breach
 1 Duress
 2 Barrier Breach
-3 Damping Sphere
 1 Slaughter Games
 2 Slaughter Games
 2 Duress
+3 Damping Sphere
 3 Duress
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
@@ -30,59 +30,75 @@
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
-1 Hushbringer
-2 Hushbringer
-3 Hushbringer
+1 Scavenging Ooze
 1 Drannith Magistrate
-1 Zirda, the Dawnwaker
-1 Rest in Peace
-2 Rest in Peace
 1 Assassin's Trophy
 2 Assassin's Trophy
+1 Zirda, the Dawnwaker
 1 Kaya, Orzhov Usurper
-1 Gideon of the Trials
 1 Cry of the Carnarium
-1 Sorin, Vengeful Bloodlord
+1 Gideon of the Trials
 1 Collective Brutality
-1 Davriel, Rogue Shadowmage
 1 Deicide
+1 Sorin, Vengeful Bloodlord
+1 Davriel, Rogue Shadowmage
 1 Devout Decree
 1 Profane Procession
 2 Kaya, Orzhov Usurper
-2 Collective Brutality
-2 Davriel, Rogue Shadowmage
 2 Cry of the Carnarium
+2 Collective Brutality
 2 Deicide
-1 Scavenging Ooze
-1 Ratchet Bomb
-2 Ratchet Bomb
+2 Davriel, Rogue Shadowmage
 1 Metallic Rebuke
 1 Unmoored Ego
-1 Doom Blade
 1 Despise
+1 Doom Blade
 1 Cast Down
 1 Aethersphere Harvester
 2 Unmoored Ego
 2 Aethersphere Harvester
 2 Despise
 2 Cast Down
+1 Ratchet Bomb
+2 Ratchet Bomb
+1 Narset, Parter of Veils
+1 Blessed Alliance
+1 Dovin's Veto
+1 Supreme Verdict
+1 Dream Trawler
+2 Supreme Verdict
+2 Blessed Alliance
+2 Dovin's Veto
+3 Dovin's Veto
+3 Blessed Alliance
+3 Glare of Heresy
+1 Hushbringer
+2 Hushbringer
+1 Silkwrap
+1 Bonecrusher Giant
+1 Knight of Autumn
+2 Scavenging Ooze
+2 Silkwrap
+2 Bonecrusher Giant
+2 Selfless Spirit
+2 Knight of Autumn
+3 Silkwrap
+3 Bonecrusher Giant
+3 Knight of Autumn
 1 Oppressive Rays
 1 Shadowspear
-2 Oppressive Rays
 2 Shadowspear
+2 Oppressive Rays
 2 Stubborn Denial
-1 Baffling End
-1 Fairgrounds Warden
-2 Baffling End
-2 Fairgrounds Warden
-3 Rest in Peace
-3 Baffling End
+3 Hushbringer
 1 Yorion, Sky Nomad
 2 Drannith Magistrate
-1 Gideon, Ally of Zendikar
-1 Trial of Ambition
+1 Rest in Peace
 1 Brazen Borrower
+1 Trial of Ambition
+1 Gideon, Ally of Zendikar
 1 Deputy of Detention
+2 Rest in Peace
 2 Trial of Ambition
 2 Brazen Borrower
 2 Deputy of Detention
@@ -91,8 +107,8 @@
 2 Abrupt Decay
 3 Barrier Breach
 4 Thoughtseize
-1 Chandra, Awakened Inferno
 1 Deafening Silence
+1 Chandra, Awakened Inferno
 1 Lena, Selfless Champion
 1 Apostle of Purifying Light
 2 Chandra, Awakened Inferno
@@ -107,16 +123,5 @@
 1 Tocatli Honor Guard
 2 Enlightened Ascetic
 3 Dead Weight
-3 Enlightened Ascetic
 4 Dead Weight
-1 Dovin's Veto
-1 Supreme Verdict
-1 Blessed Alliance
-1 Narset, Parter of Veils
-1 Dream Trawler
-2 Supreme Verdict
-2 Dovin's Veto
-2 Blessed Alliance
-3 Glare of Heresy
-3 Blessed Alliance
-3 Dovin's Veto
+3 Enlightened Ascetic

@@ -84,16 +84,16 @@
 5 Forest
 6 Forest
 7 Forest
-1 Migratory Greathorn
 1 Arboreal Grazer
+1 Migratory Greathorn
 1 Auspicious Starrix
 1 Pollywog Symbiote
-2 Migratory Greathorn
 2 Arboreal Grazer
+2 Migratory Greathorn
 2 Pollywog Symbiote
 2 Auspicious Starrix
-3 Migratory Greathorn
 3 Arboreal Grazer
+3 Migratory Greathorn
 3 Pollywog Symbiote
 3 Auspicious Starrix
 3 Pouncing Shoreshark
@@ -325,7 +325,6 @@
 2 Pious Wayfarer
 2 Setessan Training
 2 Temple Garden
-3 Indatha Triome
 3 Hateful Eidolon
 3 Karametra's Blessing
 3 Starfield Mystic
@@ -337,6 +336,7 @@
 3 Aphemia, the Cacophony
 3 Temple Garden
 3 Season of Growth
+3 Indatha Triome
 3 Pious Wayfarer
 4 Hateful Eidolon
 4 All That Glitters
@@ -366,27 +366,27 @@
 1 Vivien, Monsters' Advocate
 1 Embercleave
 1 Lukka, Coppercoat Outcast
+1 Klothys, God of Destiny
 1 Questing Beast
 1 Stonecoil Serpent
 1 Thrashing Brontodon
 1 Pelt Collector
 1 Shifting Ceratops
 1 Temple of Abandon
-1 Klothys, God of Destiny
 1 Zhur-Taa Goblin
 1 Stomping Ground
 1 Domri's Ambush
 1 Gruul Spellbreaker
 2 Embercleave
+2 Domri's Ambush
+2 Klothys, God of Destiny
 2 Gemrazer
 2 Gruul Spellbreaker
 2 Temple of Abandon
 2 Zhur-Taa Goblin
 2 Questing Beast
-2 Domri's Ambush
 2 Stonecoil Serpent
 2 Pelt Collector
-2 Klothys, God of Destiny
 2 Shifting Ceratops
 2 Stomping Ground
 3 Embercleave
@@ -441,8 +441,8 @@
 1 Setessan Petitioner
 1 End-Raze Forerunners
 1 Beast Whisperer
-2 End-Raze Forerunners
 2 Paradise Druid
+2 End-Raze Forerunners
 2 Nylea, Keen-Eyed
 2 Setessan Petitioner
 2 Beast Whisperer

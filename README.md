@@ -4,12 +4,12 @@
 
 # Standard
 
-|                                A                                 |                               B                                |                                  C                                   |                                  D                                   |
-|------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Jeskai Cycling](./mtggoldfish/Standard/decks/Jeskai_Cycling.md)|[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)      |[Sultai Midrange](./mtggoldfish/Standard/decks/Sultai_Midrange.md)    |
-|[Bant Ramp](./mtggoldfish/Standard/decks/Bant_Ramp.md)            |[Jund Sacrifice](./mtggoldfish/Standard/decks/Jund_Sacrifice.md)|[Mono-White Lurrus](./mtggoldfish/Standard/decks/Mono-White_Lurrus.md)|[Temur Adventures](./mtggoldfish/Standard/decks/Temur_Adventures.md)  |
-|[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)    |[Mardu Knights](./mtggoldfish/Standard/decks/Mardu_Knights.md)  |[Other](./mtggoldfish/Standard/decks/Other.md)                        |[Temur Reclamation](./mtggoldfish/Standard/decks/Temur_Reclamation.md)|
-|[Gruul Midrange](./mtggoldfish/Standard/decks/Gruul_Midrange.md)  |[Mono-R Aggro](./mtggoldfish/Standard/decks/Mono-R_Aggro.md)    |[Rakdos Lurrus](./mtggoldfish/Standard/decks/Rakdos_Lurrus.md)        |[Umori Creatures](./mtggoldfish/Standard/decks/Umori_Creatures.md)    |
+|                                A                                 |                               B                                |                                   C                                    |                                  D                                   |
+|------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------|
+|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Jeskai Cycling](./mtggoldfish/Standard/decks/Jeskai_Cycling.md)|[Mono-Red Cavalcade](./mtggoldfish/Standard/decks/Mono-Red_Cavalcade.md)|[Sultai Midrange](./mtggoldfish/Standard/decks/Sultai_Midrange.md)    |
+|[Bant Ramp](./mtggoldfish/Standard/decks/Bant_Ramp.md)            |[Jund Sacrifice](./mtggoldfish/Standard/decks/Jund_Sacrifice.md)|[Mono-White Lurrus](./mtggoldfish/Standard/decks/Mono-White_Lurrus.md)  |[Temur Adventures](./mtggoldfish/Standard/decks/Temur_Adventures.md)  |
+|[Esper Control](./mtggoldfish/Standard/decks/Esper_Control.md)    |[Mardu Knights](./mtggoldfish/Standard/decks/Mardu_Knights.md)  |[Other](./mtggoldfish/Standard/decks/Other.md)                          |[Temur Reclamation](./mtggoldfish/Standard/decks/Temur_Reclamation.md)|
+|[Gruul Midrange](./mtggoldfish/Standard/decks/Gruul_Midrange.md)  |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)|[Rakdos Lurrus](./mtggoldfish/Standard/decks/Rakdos_Lurrus.md)          |[Umori Creatures](./mtggoldfish/Standard/decks/Umori_Creatures.md)    |
 
 
 # Pioneer
@@ -51,4 +51,4 @@
 
 
 
-#### Last Updated at 07:25PM on June 11, 2020
+#### Last Updated at 07:27AM on June 12, 2020

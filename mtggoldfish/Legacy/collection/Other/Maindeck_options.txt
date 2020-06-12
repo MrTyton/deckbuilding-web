@@ -28,9 +28,9 @@
 1 Punishing Fire
 1 Pyroblast
 1 Dack Fayden
-2 Cling to Dust
 2 Punishing Fire
 2 Assassin's Trophy
+2 Cling to Dust
 2 Dack Fayden
 3 Assassin's Trophy
 3 Cling to Dust
@@ -130,10 +130,10 @@
 1 Gurmag Angler
 1 Plague Engineer
 1 Brazen Borrower
-1 Mystic Sanctuary
 1 Counterspell
 1 Portent
 1 Peek
+1 Mystic Sanctuary
 1 Vendilion Clique
 1 Flusterstorm
 1 Path to Exile
@@ -169,11 +169,11 @@
 2 Rest in Peace
 3 Rest in Peace
 1 Omen of the Sea
+1 Blood Moon
 1 Energy Field
 1 Enlightened Tutor
-1 Blood Moon
-2 Omen of the Sea
 2 Narset, Parter of Veils
+2 Omen of the Sea
 2 Monastery Mentor
 2 Enlightened Tutor
 2 Sylvan Library
@@ -193,10 +193,10 @@
 2 Baleful Strix
 2 Leovold, Emissary of Trest
 2 Opposition
-3 Birds of Paradise
 3 Baleful Strix
-3 Force of Negation
+3 Birds of Paradise
 3 Leovold, Emissary of Trest
+3 Force of Negation
 4 Baleful Strix
 4 Oko, Thief of Crowns
 4 Force of Negation
@@ -235,8 +235,8 @@
 3 Urza, Lord High Artificer
 4 Mishra's Bauble
 4 Chrome Mox
-4 Snow-Covered Forest
 4 Kinnan, Bonder Prodigy
+4 Snow-Covered Forest
 4 Urza, Lord High Artificer
 4 Mox Amber
 4 Gilded Goose
@@ -251,8 +251,8 @@
 2 Entomb
 3 Entomb
 4 Entomb
-2 Swamp
 2 Urborg, Tomb of Yawgmoth
+2 Swamp
 3 Urborg, Tomb of Yawgmoth
 1 Mountain
 1 Mox Diamond
@@ -376,20 +376,19 @@
 4 Crop Rotation
 7 Forest
 8 Forest
-1 Notion Thief
-1 Kolaghan's Command
 1 Thought Scour
 1 Jace, Vryn's Prodigy
 1 Young Pyromancer
 1 Abrade
 1 Dark Confidant
 1 Magmatic Sinkhole
+1 Kolaghan's Command
 1 Mental Note
 1 Unearth
 1 Diabolic Edict
+1 Notion Thief
 1 Teferi, Hero of Dominaria
 1 Temporal Mastery
-1 Supreme Verdict
 1 Unexpectedly Absent
 1 Serum Visions
 1 Venser, Shaper Savant
@@ -397,6 +396,7 @@
 1 Terminus
 1 Counterbalance
 1 Ancestral Vision
+1 Supreme Verdict
 1 Entreat the Angels
 1 Soul-Guide Lantern
 1 Search for Azcanta
@@ -407,19 +407,19 @@
 1 Mindbreak Trap
 2 Mystic Sanctuary
 2 Tundra
-1 Misthollow Griffin
-1 Manipulate Fate
-1 Eternal Scourge
 1 Food Chain
+1 Eternal Scourge
 1 Purphoros, God of the Forge
-2 Food Chain
-2 Misthollow Griffin
+1 Manipulate Fate
+1 Misthollow Griffin
 2 Manipulate Fate
+2 Misthollow Griffin
 2 Purphoros, God of the Forge
-3 Snapcaster Mage
-3 Food Chain
-3 Misthollow Griffin
+2 Food Chain
 3 Manipulate Fate
+3 Misthollow Griffin
+3 Food Chain
+3 Snapcaster Mage
 4 Food Chain
 4 Misthollow Griffin
 1 Cabal Therapy
@@ -457,18 +457,18 @@
 3 Teferi, Time Raveler
 3 Dryad of the Ilysian Grove
 4 Dryad of the Ilysian Grove
-1 Klothys, God of Destiny
-1 Fiery Confluence
 1 Chandra, Torch of Defiance
+1 Fiery Confluence
+1 Klothys, God of Destiny
 1 Fire-Lit Thicket
-1 Chandra, Awakened Inferno
 1 Bonecrusher Giant
 1 Blood Sun
 1 Mossfire Valley
+1 Chandra, Awakened Inferno
 1 Dead/Gone
+2 Chandra, Torch of Defiance
 2 Bonecrusher Giant
 2 Klothys, God of Destiny
-2 Chandra, Torch of Defiance
 2 Fire-Lit Thicket
 2 Chandra, Awakened Inferno
 2 Dead/Gone
@@ -487,14 +487,6 @@
 4 Simian Spirit Guide
 4 City of Traitors
 4 Blood Sun
-1 Reanimate
-1 Ox of Agonas
-2 Reanimate
-3 Reanimate
-3 Volcanic Island
-3 Underground Sea
-4 Dreadhorde Arcanist
-4 Reanimate
 1 Shriekmaw
 1 Curator of Mysteries
 1 Violent Outburst
@@ -520,25 +512,6 @@
 4 Striped Riverwinder
 4 Shardless Agent
 4 Violent Outburst
-1 Grim Lavamancer
-1 Scroll of Fate
-1 Standstill
-1 Phyrexian Dreadnought
-1 Mishra's Factory
-2 Island
-2 Spell Pierce
-2 Mishra's Factory
-2 Phyrexian Dreadnought
-2 Scroll of Fate
-2 Standstill
-3 Mishra's Factory
-3 Spell Pierce
-3 Island
-3 Standstill
-3 Phyrexian Dreadnought
-4 Island
-4 Standstill
-4 Phyrexian Dreadnought
 1 Yuriko, the Tiger's Shadow
 2 Gurmag Angler
 2 Path to Exile
@@ -549,6 +522,33 @@
 3 Path to Exile
 3 Yuriko, the Tiger's Shadow
 4 Path to Exile
+1 Reanimate
+1 Ox of Agonas
+2 Reanimate
+3 Reanimate
+3 Volcanic Island
+3 Underground Sea
+4 Reanimate
+4 Dreadhorde Arcanist
+1 Grim Lavamancer
+1 Scroll of Fate
+1 Standstill
+1 Phyrexian Dreadnought
+1 Mishra's Factory
+2 Spell Pierce
+2 Island
+2 Mishra's Factory
+2 Phyrexian Dreadnought
+2 Scroll of Fate
+2 Standstill
+3 Mishra's Factory
+3 Spell Pierce
+3 Standstill
+3 Island
+3 Phyrexian Dreadnought
+4 Standstill
+4 Phyrexian Dreadnought
+4 Island
 1 Children of Korlis
 1 Shallow Grave
 1 Vampire Hexmage
@@ -577,15 +577,15 @@
 4 Shallow Grave
 4 Exhume
 4 Lion's Eye Diamond
-1 Walking Ballista
 1 Stonecoil Serpent
 1 Golos, Tireless Pilgrim
-1 Thran Dynamo
 1 Manifold Key
-2 Walking Ballista
+1 Walking Ballista
+1 Thran Dynamo
 2 Stonecoil Serpent
 2 Golos, Tireless Pilgrim
 2 Manifold Key
+2 Walking Ballista
 3 Stonecoil Serpent
 4 Karn, the Great Creator
 4 Vesuva
@@ -613,11 +613,11 @@
 4 Death's Shadow
 4 Berserk
 1 Barren Moor
-1 Hymn to Tourach
 1 Cabal Pit
 1 Gemstone Caverns
 1 Hissing Quagmire
 1 Liliana, the Last Hope
+1 Hymn to Tourach
 1 Sinkhole
 2 Hymn to Tourach
 2 Toxic Deluge
@@ -693,9 +693,9 @@
 2 Sorin, Imperious Bloodlord
 2 Asylum Visitor
 2 Gatekeeper of Malakir
-3 Swamp
 3 Sorin, Imperious Bloodlord
 3 Gatekeeper of Malakir
+3 Swamp
 3 Asylum Visitor
 3 Liliana's Triumph
 3 Bloodghast
