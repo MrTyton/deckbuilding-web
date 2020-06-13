@@ -1,6 +1,10 @@
+2 Agent of Treachery
+3 Charming Prince
+3 Omen of the Sea
+4 Charming Prince
+4 Omen of the Sea
+4 Oath of Kaya
 4 Plains
-1 Castle Ardenvale
-4 Temple of Enlightenment
 4 Island
 5 Plains
 1 Shatter the Sky
@@ -9,30 +13,23 @@
 1 Aether Gust
 2 Castle Vantress
 2 Shatter the Sky
-2 Aether Gust
 2 Mystical Dispute
+2 Aether Gust
 3 Mystical Dispute
-1 Thought Erasure
-2 Thought Erasure
-3 Thought Erasure
-4 Oath of Kaya
 2 Thassa, Deep-Dwelling
 3 Fblthp, the Lost
+4 Thought Erasure
+2 Atris, Oracle of Half-Truths
+3 Temple of Silence
 6 Plains
 2 Time Wipe
 3 Thassa, Deep-Dwelling
 3 Agent of Treachery
 4 Fblthp, the Lost
 5 Island
-4 Thought Erasure
-2 Swamp
-2 Atris, Oracle of Half-Truths
-3 Temple of Silence
 1 Hero of Precinct One
-1 Kunoros, Hound of Athreos
 1 Despark
 2 Hero of Precinct One
-2 Kunoros, Hound of Athreos
 3 Hero of Precinct One
 4 Hero of Precinct One
 1 Dire Tactics
@@ -48,16 +45,24 @@
 3 Dire Tactics
 3 General Kudro of Drannith
 4 Dire Tactics
+2 Swamp
+1 Kunoros, Hound of Athreos
+2 Kunoros, Hound of Athreos
 1 Sorin, Vengeful Bloodlord
 1 Dream Trawler
 2 Dream Trawler
 3 Temple of Deceit
-1 Yorion, Sky Nomad
-1 Dovin's Veto
-1 Kaya, Orzhov Usurper
 1 Indatha Triome
 1 Savai Triome
 2 Sorin, Vengeful Bloodlord
+3 Ashiok, Nightmare Muse
+4 Temple of Deceit
+1 Yorion, Sky Nomad
+1 Dovin's Veto
+1 Kaya, Orzhov Usurper
+1 Tyrant's Scorn
+2 Tyrant's Scorn
+3 Tyrant's Scorn
 1 Basilica Bell-Haunt
 1 Burglar Rat
 1 Omen of the Sun
@@ -68,33 +73,34 @@
 4 Burglar Rat
 1 Seraph of the Scales
 1 Dreamtail Heron
+1 Rankle, Master of Pranks
 1 Healer's Hawk
 1 Alela, Artful Provocateur
-1 Rankle, Master of Pranks
-1 Thief of Sanity
+1 Hanged Executioner
 1 Brazen Borrower
+1 Rally of Wings
+1 Empyrean Eagle
+1 Thief of Sanity
 1 Skycat Sovereign
 1 Wingspan Mentor
-1 Empyrean Eagle
-1 Hanged Executioner
-1 Rally of Wings
 1 Harmonious Archon
 2 Dreamtail Heron
 2 Brazen Borrower
-2 Healer's Hawk
 2 Rankle, Master of Pranks
+2 Healer's Hawk
+2 Empyrean Eagle
+2 Rally of Wings
 2 Thief of Sanity
 2 Seraph of the Scales
-2 Empyrean Eagle
 2 Skycat Sovereign
 2 Wingspan Mentor
 2 Hanged Executioner
 2 Alela, Artful Provocateur
-2 Rally of Wings
 2 Harmonious Archon
 3 Brazen Borrower
 3 Healer's Hawk
-3 Dreamtail Heron
+3 Rankle, Master of Pranks
+3 Empyrean Eagle
 3 Thief of Sanity
 3 Hanged Executioner
 3 Alela, Artful Provocateur
@@ -102,8 +108,7 @@
 3 Rally of Wings
 3 Seraph of the Scales
 3 Skycat Sovereign
-3 Rankle, Master of Pranks
-3 Empyrean Eagle
+3 Dreamtail Heron
 4 Brazen Borrower
 4 Empyrean Eagle
 4 Skycat Sovereign
@@ -115,19 +120,22 @@
 1 The Birth of Meletis
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
-3 Aether Gust
 2 Kaya, Orzhov Usurper
 2 Dovin's Veto
 2 Castle Locthwain
-3 Ashiok, Nightmare Muse
-4 Temple of Deceit
+3 Aether Gust
+2 Indatha Triome
+2 Savai Triome
+3 Dream Trawler
+4 Temple of Silence
+4 Atris, Oracle of Half-Truths
 1 Scoured Barrens
 1 Tranquil Cove
 1 Guild Globe
-1 Evolving Wilds
 1 Golden Egg
 1 Dismal Backwater
 1 Ugin, the Ineffable
+1 Evolving Wilds
 1 Cry of the Carnarium
 1 Murder
 1 Meteor Golem
@@ -141,9 +149,9 @@
 2 Dismal Backwater
 2 Tranquil Cove
 2 Golden Egg
-2 Evolving Wilds
 2 Murder
 2 Basilica Bell-Haunt
+2 Evolving Wilds
 2 Cry of the Carnarium
 2 Omen of the Dead
 2 Flicker of Fate
@@ -169,9 +177,9 @@
 4 Tranquil Cove
 4 Evolving Wilds
 4 Cry of the Carnarium
+4 Flicker of Fate
 4 Murder
 4 Swamp
-4 Flicker of Fate
 4 Dismal Backwater
 5 Swamp
 6 Swamp
@@ -180,13 +188,10 @@
 8 Swamp
 9 Swamp
 10 Swamp
-1 Tyrant's Scorn
 1 Mortify
 1 Kaya's Wrath
-1 Discovery / Dispersal
 1 Deputy of Detention
+1 Discovery / Dispersal
 1 Revival / Revenge
-2 Tyrant's Scorn
 2 Kaya's Wrath
-3 Tyrant's Scorn
 2 Discovery / Dispersal

@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)             |                    1|[Dead Weight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452817)         |
-|                    1|[Twilight Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442237)     |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)   |
+|                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)             |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)   |
+|                    1|[Twilight Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442237)     |                    1|[Dead Weight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452817)         |
 |                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094) |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)        |
 |                    1|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)|                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |
 |                    1|[Cabal Therapist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464029)   |                    1|[Maelstrom Pulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=180613)     |

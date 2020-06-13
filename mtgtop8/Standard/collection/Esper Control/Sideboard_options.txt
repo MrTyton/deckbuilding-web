@@ -1,5 +1,3 @@
-1 Glass Casket
-4 Mystical Dispute
 1 Extinction Event
 1 Heliod's Intervention
 2 Extinction Event
@@ -11,10 +9,13 @@
 3 Archon of Sun's Grace
 1 Ashiok, Dream Render
 1 Liliana, Dreadhorde General
-4 Grafdigger's Cage
+3 Grafdigger's Cage
+4 Mystical Dispute
+1 Despark
 2 Glass Casket
 1 Devout Decree
 2 Devout Decree
+4 Grafdigger's Cage
 1 Unknown Card
 2 Unknown Card
 3 Unknown Card
@@ -29,17 +30,17 @@
 12 Unknown Card
 13 Unknown Card
 14 Unknown Card
-1 Despark
 2 Ashiok, Dream Render
+2 Despark
 1 Agonizing Remorse
 2 Agonizing Remorse
 3 Aether Gust
-2 Despark
+1 Kaya, Orzhov Usurper
 1 Disdainful Stroke
 2 Disdainful Stroke
 1 Disenchant
-1 Shatter the Sky
 1 The Wanderer
+1 Shatter the Sky
 1 Duress
 1 Dream Trawler
 1 Deputy of Detention
@@ -50,9 +51,9 @@
 2 Noxious Grasp
 1 Negate
 1 Essence Scatter
+1 Clear the Mind
 1 Light of Hope
 1 Pacifism
-1 Clear the Mind
 1 Keep Safe
 2 Omen of the Sun
 2 Disenchant
@@ -68,7 +69,6 @@
 1 Disinformation Campaign
 2 Disinformation Campaign
 3 Devout Decree
-1 Kaya, Orzhov Usurper
 1 Elspeth, Sun's Nemesis
 1 Unmoored Ego
 1 Leyline of the Void
@@ -76,6 +76,14 @@
 2 Leyline of the Void
 3 Unmoored Ego
 3 Leyline of the Void
+2 Kaya, Orzhov Usurper
+3 Kaya, Orzhov Usurper
+1 Kaya's Wrath
+2 Kaya's Wrath
+3 Dovin's Veto
+3 Thought Distortion
+4 Dovin's Veto
+4 Thought Distortion
 2 Shatter the Sky
 2 Negate
 2 Oath of Kaya
@@ -90,11 +98,9 @@
 1 Ethereal Absolution
 1 Teyo, the Shieldmage
 1 Narset, Parter of Veils
-2 Kaya, Orzhov Usurper
 2 Elspeth's Nightmare
 2 Davriel, Rogue Shadowmage
 2 Ethereal Absolution
 3 Elspeth's Nightmare
-3 Kaya, Orzhov Usurper
 4 Elspeth's Nightmare
 3 Ethereal Absolution

@@ -51,19 +51,19 @@
 4 Call of the Death-Dweller
 2 All That Glitters
 1 Castle Ardenvale
-1 Whisper Squad
 1 Gutterbones
-2 Whisper Squad
+1 Whisper Squad
 2 Gutterbones
-3 Whisper Squad
+2 Whisper Squad
 3 Fiend Artisan
 3 Gutterbones
-4 Whisper Squad
-4 Fiend Artisan
+3 Whisper Squad
 4 Gutterbones
+4 Fiend Artisan
+4 Whisper Squad
 4 Orzhov Enforcer
-1 Luminous Broodmoth
 1 Bastion of Remembrance
+1 Luminous Broodmoth
 2 Luminous Broodmoth
 3 Midnight Reaper
 3 Luminous Broodmoth
@@ -137,7 +137,6 @@
 3 Lurrus of the Dream-Den
 1 Kaya, Orzhov Usurper
 1 Basilica Bell-Haunt
-1 Murderous Rider
 1 Cavalier of Dawn
 1 Yarok's Fenlurker
 1 Planar Cleansing
@@ -151,18 +150,19 @@
 1 Sorin, Vengeful Bloodlord
 1 Wishclaw Talisman
 1 Leyline of Sanctity
+1 Murderous Rider
 2 Basilica Bell-Haunt
-2 Murderous Rider
 2 Yarok's Fenlurker
 2 Kaya, Orzhov Usurper
 2 Kaya's Wrath
 2 Erebos's Intervention
+2 Murderous Rider
 2 Sorin, Vengeful Bloodlord
 2 Castle Ardenvale
 2 The Birth of Meletis
 2 Elspeth Conquers Death
-3 Basilica Bell-Haunt
 3 Murderous Rider
+3 Basilica Bell-Haunt
 3 Yarok's Fenlurker
 3 Kaya's Wrath
 3 Erebos's Intervention
@@ -178,6 +178,10 @@
 3 Skyknight Vanguard
 4 Skyknight Vanguard
 4 Dire Tactics
+2 Bastion of Remembrance
+2 Bolas's Citadel
+3 Bastion of Remembrance
+4 Bastion of Remembrance
 1 Overgrown Tomb
 1 Stonecoil Serpent
 1 Mythos of Nethroi
@@ -188,35 +192,31 @@
 2 Mythos of Nethroi
 2 Temple Garden
 2 Drill Bit
-3 Mythos of Nethroi
 3 Stonecoil Serpent
 3 Dead Weight
+3 Mythos of Nethroi
 4 Stonecoil Serpent
 4 Dead Weight
-1 Starfield Mystic
 1 Sentinel's Eyes
 1 Angelic Gift
 1 Giant Killer
-2 Starfield Mystic
+1 Starfield Mystic
 2 Sentinel's Eyes
 2 Angelic Gift
+2 Starfield Mystic
 2 Giant Killer
-3 Starfield Mystic
 3 Angelic Gift
+3 Starfield Mystic
 3 Karametra's Blessing
 3 Sentinel's Eyes
 4 Karametra's Blessing
 4 Angelic Gift
-2 Bolas's Citadel
-2 Bastion of Remembrance
-3 Bastion of Remembrance
-4 Bastion of Remembrance
-1 Murder
 1 Shadowspear
+1 Murder
+1 Memory Leak
 1 Orzhov Guildgate
 1 Boot Nipper
 1 Pilfering Imp
-1 Memory Leak
 2 Murder
 2 Memory Leak
 2 Orzhov Guildgate
@@ -235,6 +235,6 @@
 3 Smitten Swordmaster
 3 Blacklance Paragon
 3 Stormfist Crusader
-4 Smitten Swordmaster
 4 Stormfist Crusader
+4 Smitten Swordmaster
 4 Blacklance Paragon

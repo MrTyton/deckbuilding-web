@@ -1,7 +1,7 @@
 # Burn
 
 #### [Export MTGO List](../collection/Burn/Burn.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Ash%20Zealot%0A4%09Battlefield%20Forge%0A4%09Boros%20Charm%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Ghitu%20Lavarunner%0A4%09Inspiring%20Vantage%0A4%09Light%20Up%20the%20Stage%0A2%09Lightning%20Strike%0A4%09Monastery%20Swiftspear%0A7%09Mountain%0A4%09Sacred%20Foundry%0A1%09Shock%0A4%09Soul-Scar%20Mage%0A4%09Viashino%20Pyromancer%0A4%09Wild%20Slash%0A4%09Wizard's%20Lightning&deckside=4%09Chained%20to%20the%20Rocks%0A2%09Light%20of%20Hope%0A1%09Lurrus%20of%20the%20Dream%20Den%0A2%09Rest%20in%20Peace%0A4%09Searing%20Blood%0A2%09Skullcrack)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Ash%20Zealot%0A4%09Battlefield%20Forge%0A4%09Boros%20Charm%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Ghitu%20Lavarunner%0A4%09Inspiring%20Vantage%0A4%09Light%20Up%20the%20Stage%0A2%09Lightning%20Strike%0A4%09Monastery%20Swiftspear%0A7%09Mountain%0A4%09Sacred%20Foundry%0A1%09Shock%0A4%09Soul-Scar%20Mage%0A4%09Viashino%20Pyromancer%0A4%09Wild%20Slash%0A4%09Wizard's%20Lightning&deckside=4%09Chained%20to%20the%20Rocks%0A1%09Light%20of%20Hope%0A1%09Lurrus%20of%20the%20Dream%20Den%0A2%09Rest%20in%20Peace%0A3%09Searing%20Blood%0A2%09Skullcrack%0A2%09Wear/Tear)
 # Maindeck
 
 |                                             Creature (22)                                             |                                         Instant (15)                                          |                                          Land (19)                                           |                                          Sorcery (4)                                          |
@@ -16,20 +16,21 @@
 
 # Sideboard
 
-|                                         Enchantment (6)                                         |                                       Instant (6)                                        |       Unknown (3)       |
+|                                         Enchantment (6)                                         |                                       Instant (7)                                        |       Unknown (2)       |
 |-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------|
-|4 [Chained to the Rocks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373521)|4 [Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)|2 Light of Hope          |
+|4 [Chained to the Rocks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373521)|3 [Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)|1 Light of Hope          |
 |2 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |2 [Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)   |1 Lurrus of the Dream Den|
+|                                                                                                 |2 [Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)    |                         |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
-|                    3|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)   |                    1|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)                 |
-|                    4|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)   |                    2|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)                 |
-|                    1|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)         |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)             |
-|                    2|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)         |                    1|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)       |
+|                    3|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)   |                    2|Light of Hope                                                                                        |
+|                    1|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)         |                    4|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)             |
+|                    2|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)         |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)             |
+|                    4|[Lightning Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383299)   |                    1|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)       |
 |                    1|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)      |                    3|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)                |
 |                    2|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)      |                    4|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)                |
 |                    8|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    2|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)       |
@@ -44,18 +45,16 @@
 |                    3|[Abbot of Keral Keep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398411)|                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)       |
 |                    4|[Abbot of Keral Keep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398411)|                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)       |
 |                     |                                                                                              |                    3|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)                 |
-|                     |                                                                                              |                    1|[Isolate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447153)                   |
-|                     |                                                                                              |                    2|[Isolate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447153)                   |
+|                     |                                                                                              |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)        |
 |                     |                                                                                              |                    1|[Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435308)       |
 |                     |                                                                                              |                    1|[Chandra, Acolyte of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466880) |
-|                     |                                                                                              |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)        |
 |                     |                                                                                              |                    1|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|
-|                     |                                                                                              |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)            |
-|                     |                                                                                              |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)            |
 |                     |                                                                                              |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                    |
 |                     |                                                                                              |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                    |
-|                     |                                                                                              |                    1|[Kari Zev's Expertise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423755)      |
-|                     |                                                                                              |                    2|[Kari Zev's Expertise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423755)      |
-|                     |                                                                                              |                    3|[Ash Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253623)                |
+|                     |                                                                                              |                    1|[Isolate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447153)                   |
+|                     |                                                                                              |                    2|[Isolate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447153)                   |
+|                     |                                                                                              |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)            |
+|                     |                                                                                              |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)            |
 |                     |                                                                                              |                    3|Light of Hope                                                                                        |
+|                     |                                                                                              |                    3|[Ash Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253623)                |
 

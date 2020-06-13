@@ -31,3 +31,10 @@
 |2 [Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435308)       |                                                                                        |                                                                                                |
 |2 [Skylasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369083)                 |                                                                                        |                                                                                                |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|---------------------|-------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Heroic Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423776)|
+

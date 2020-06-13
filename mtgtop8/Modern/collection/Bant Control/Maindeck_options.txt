@@ -1,41 +1,41 @@
-1 Snapcaster Mage
-1 Windswept Heath
 2 Breeding Pool
+1 Snapcaster Mage
+2 Snow-Covered Forest
+1 Windswept Heath
+3 Cryptic Command
+3 Mana Leak
 2 Snapcaster Mage
 3 Field of Ruin
 4 Force of Negation
-2 Snow-Covered Forest
-2 Windswept Heath
-2 Teferi, Hero of Dominaria
-3 Cryptic Command
-3 Mana Leak
 1 Abundant Growth
 2 Abundant Growth
-2 Hallowed Fountain
-1 Celestial Colonnade
-2 Celestial Colonnade
-4 Teferi, Time Raveler
-1 Spell Snare
-1 Polluted Delta
-2 Archmage's Charm
-1 Prismatic Vista
+2 Windswept Heath
+2 Teferi, Hero of Dominaria
 3 Abundant Growth
 3 Mystic Sanctuary
-4 Abundant Growth
 4 Uro, Titan of Nature's Wrath
-4 Field of Ruin
 1 Scalding Tarn
+2 Hallowed Fountain
+4 Teferi, Time Raveler
+1 Celestial Colonnade
+2 Celestial Colonnade
+1 Polluted Delta
+1 Spell Snare
+1 Prismatic Vista
+2 Archmage's Charm
+4 Abundant Growth
+4 Field of Ruin
+1 Dovin's Veto
+2 Scalding Tarn
 1 Sword of Fire and Ice
 3 Supreme Verdict
 1 Wall of Omens
 2 Wall of Omens
-1 Dovin's Veto
 4 Cryptic Command
 1 Knight of Autumn
 1 Venser, Shaper Savant
 3 Windswept Heath
 4 Windswept Heath
-2 Scalding Tarn
 1 Restoration Angel
 1 On Thin Ice
 1 Cavern of Souls
@@ -44,16 +44,17 @@
 2 Knight of Autumn
 2 Venser, Shaper Savant
 2 On Thin Ice
-3 Restoration Angel
 3 Celestial Colonnade
+3 Restoration Angel
 3 Wall of Omens
 3 Knight of Autumn
 4 Celestial Colonnade
-4 Wall of Omens
 4 Restoration Angel
+4 Wall of Omens
 4 Knight of Autumn
 1 Ashiok, Dream Render
 2 Polluted Delta
+1 Prairie Stream
 3 Jace, the Mind Sculptor
 3 Snow-Covered Forest
 2 Batterskull
@@ -79,7 +80,6 @@
 1 Stonehorn Dignitary
 1 Eternal Witness
 1 Remand
-1 Prairie Stream
 1 Canopy Vista
 1 Soulherder
 2 Noble Hierarch
@@ -89,11 +89,11 @@
 2 Remand
 2 Aether Vial
 2 Eternal Witness
+3 Noble Hierarch
 3 Ephemerate
 3 Eladamri's Call
 3 Eternal Witness
 3 Remand
-3 Noble Hierarch
 3 Aether Vial
 4 Noble Hierarch
 4 Eternal Witness
@@ -124,6 +124,16 @@
 4 Spreading Seas
 4 Venser, Shaper Savant
 4 Supreme Verdict
+1 Hinterland Harbor
+1 Growth Spiral
+1 Field of the Dead
+2 Prairie Stream
+2 Growth Spiral
+2 Field of the Dead
+3 Scalding Tarn
+3 Growth Spiral
+4 Scalding Tarn
+4 Growth Spiral
 1 Assassin's Trophy
 1 Kaya's Guile
 1 Watery Grave

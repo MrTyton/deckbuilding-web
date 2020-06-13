@@ -4,9 +4,10 @@
 3 Windswept Heath
 4 Stomping Ground
 1 Utopia Sprawl
-1 Kessig Wolf Run
-1 Firebolt
+1 Seasoned Pyromancer
 1 Kitchen Finks
+1 Firebolt
+1 Kessig Wolf Run
 1 Forest
 1 Klothys, God of Destiny
 1 Blood Moon
@@ -16,36 +17,35 @@
 1 Glorybringer
 1 Verdant Catacombs
 1 Arbor Elf
-1 Seasoned Pyromancer
 2 Utopia Sprawl
 2 Klothys, God of Destiny
-2 Wooded Foothills
+2 Seasoned Pyromancer
 2 Kitchen Finks
+2 Wooded Foothills
 2 Forest
 2 Blood Moon
 2 Bonecrusher Giant
 2 Tireless Tracker
-2 Seasoned Pyromancer
 2 Verdant Catacombs
 2 Arbor Elf
 2 Magus of the Moon
 2 Glorybringer
 3 Utopia Sprawl
 3 Forest
+3 Seasoned Pyromancer
 3 Wooded Foothills
 3 Kitchen Finks
 3 Bonecrusher Giant
 3 Arbor Elf
 3 Klothys, God of Destiny
-3 Seasoned Pyromancer
 3 Glorybringer
 4 Kitchen Finks
 4 Utopia Sprawl
 4 Windswept Heath
+4 Seasoned Pyromancer
 4 Wooded Foothills
 4 Forest
 4 Glorybringer
-4 Seasoned Pyromancer
 4 Arbor Elf
 4 Bonecrusher Giant
 5 Forest
@@ -54,10 +54,9 @@
 1 Domri, Anarch of Bolas
 1 Copperline Gorge
 1 Atarka's Command
-1 Narnam Renegade
 1 Legion Loyalist
-1 Nurturing Peatland
 1 Gallia of the Endless Dance
+1 Nurturing Peatland
 1 Robber of the Rich
 1 Hidden Herbalists
 1 Snow-Covered Forest
@@ -65,31 +64,32 @@
 1 Slaughterhorn
 1 Burning-Tree Emissary
 1 Waterlogged Grove
+1 Narnam Renegade
 1 Goblin Guide
 2 Zhur-Taa Goblin
 2 Gallia of the Endless Dance
 2 Atarka's Command
 2 Copperline Gorge
-2 Narnam Renegade
 2 Domri, Anarch of Bolas
 2 Robber of the Rich
 2 Legion Loyalist
+2 Narnam Renegade
 2 Goblin Guide
 2 Burning-Tree Emissary
 2 Hidden Herbalists
 2 Slaughterhorn
 2 Goblin Bushwhacker
 3 Copperline Gorge
-3 Narnam Renegade
 3 Atarka's Command
 3 Robber of the Rich
 3 Burning-Tree Emissary
+3 Narnam Renegade
 3 Hidden Herbalists
 3 Goblin Guide
 3 Goblin Bushwhacker
-4 Atarka's Command
 4 Copperline Gorge
 4 Robber of the Rich
+4 Atarka's Command
 4 Burning-Tree Emissary
 4 Goblin Bushwhacker
 4 Goblin Guide

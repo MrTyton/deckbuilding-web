@@ -2,15 +2,16 @@
 2 Force of Negation
 1 Arid Mesa
 2 Dovin's Veto
-1 Prismatic Vista
 1 Arcum's Astrolabe
+1 Prismatic Vista
+2 Arcum's Astrolabe
 2 Prismatic Vista
 3 Prismatic Vista
 4 Prismatic Vista
-2 Arcum's Astrolabe
 1 Supreme Verdict
 2 Back to Basics
 1 Snow-Covered Mountain
+1 Misty Rainforest
 1 Island
 2 Island
 1 Plains
@@ -21,13 +22,13 @@
 2 Plains
 1 Spell Snare
 1 Preordain
-1 Misty Rainforest
 2 Council's Judgment
-1 Spell Pierce
-1 Lightning Bolt
-3 Polluted Delta
 3 Scalding Tarn
 4 Scalding Tarn
+1 Spell Pierce
+3 Predict
+1 Lightning Bolt
+3 Polluted Delta
 1 Rest in Peace
 2 Supreme Verdict
 2 Rest in Peace
@@ -36,12 +37,12 @@
 2 Misty Rainforest
 2 Lightning Bolt
 3 Arcum's Astrolabe
-3 Predict
 2 Entreat the Angels
 3 Counterbalance
 1 Swamp
 1 Underground Sea
 4 Polluted Delta
+4 Terminus
 5 Island
 1 Helm of Obedience
 1 Enlightened Tutor
@@ -54,8 +55,8 @@
 2 Spell Snare
 3 Tundra
 2 Spell Pierce
-1 Standstill
 1 Shark Typhoon
+1 Standstill
 2 Standstill
 3 Standstill
 1 Batterskull
@@ -65,15 +66,16 @@
 1 Baleful Strix
 1 Liliana, the Last Hope
 2 Baleful Strix
-1 Scrubland
 1 Lavabrink Venturer
 1 Academy Ruins
 1 The Elderspell
-1 Plague Engineer
 1 Umezawa's Jitte
 1 Path to Exile
+1 Scrubland
+1 Plague Engineer
 2 Lavabrink Venturer
 2 The Elderspell
+1 Noble Hierarch
 1 Leovold, Emissary of Trest
 1 Titania, Protector of Argoth
 1 Wurmcoil Engine
@@ -84,7 +86,6 @@
 1 Dryad Arbor
 1 Bayou
 1 Veteran Explorer
-1 Noble Hierarch
 1 Birthing Pod
 1 Uro, Titan of Nature's Wrath
 1 Abrupt Decay
@@ -93,27 +94,27 @@
 1 Abyssal Gatekeeper
 1 Scavenging Ooze
 1 Forest
-2 Swamp
 2 Cabal Therapy
 2 Bayou
+2 Noble Hierarch
 2 Forest
 2 Uro, Titan of Nature's Wrath
 2 Leovold, Emissary of Trest
 2 Veteran Explorer
 2 Birthing Pod
 2 Oko, Thief of Crowns
+2 Swamp
 2 Abrupt Decay
 2 Verdant Catacombs
-2 Noble Hierarch
 2 Abyssal Gatekeeper
 2 Prime Speaker Vannifar
 2 Tropical Island
 3 Cabal Therapy
 3 Baleful Strix
+3 Noble Hierarch
 3 Veteran Explorer
 3 Birthing Pod
 3 Abrupt Decay
-3 Noble Hierarch
 4 Baleful Strix
 4 Cabal Therapy
 4 Veteran Explorer
@@ -129,11 +130,14 @@
 2 Volcanic Island
 1 Pyroblast
 4 Arcum's Astrolabe
-4 Terminus
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
+4 Mishra's Bauble
 1 Sword of Fire and Ice
-1 Vendilion Clique
-1 Jace, Vryn's Prodigy
 1 Sword of Feast and Famine
+1 Jace, Vryn's Prodigy
+1 Vendilion Clique
 1 Venser, Shaper Savant
 2 True-Name Nemesis
 2 Vendilion Clique
@@ -154,8 +158,8 @@
 2 Enlightened Tutor
 2 Energy Field
 7 Snow-Covered Island
-1 Mishra's Factory
 1 Noxious Revival
+1 Mishra's Factory
 1 Yidaro, Wandering Monster
 2 Mishra's Factory
 2 Yidaro, Wandering Monster

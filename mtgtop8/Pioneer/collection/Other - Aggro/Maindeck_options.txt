@@ -22,8 +22,8 @@
 1 Stomping Ground
 2 Stomping Ground
 3 Stomping Ground
-1 Scavenging Ooze
 1 Chevill, Bane of Monsters
+1 Scavenging Ooze
 1 Dreadbore
 1 Blood Crypt
 1 Kolaghan's Command
@@ -72,6 +72,7 @@
 4 Sacred Foundry
 4 Battlefield Forge
 1 Reckless Rage
+1 Dreadhorde Arcanist
 1 Soul-Scar Mage
 1 Favored Hoplite
 1 Titan's Strength
@@ -82,19 +83,20 @@
 1 Boros Charm
 1 Gods Willing
 1 Monastery Swiftspear
-1 Dreadhorde Arcanist
 2 Reckless Rage
+2 Dreadhorde Arcanist
 2 Gird for Battle
 2 Gryff's Boon
 2 Tenth District Legionnaire
 2 Monastery Swiftspear
 2 Gods Willing
 2 Soul-Scar Mage
-2 Dreadhorde Arcanist
 2 Titan's Strength
 2 Favored Hoplite
 2 Defiant Strike
 3 Mountain
+3 Dreadhorde Arcanist
+3 Reckless Rage
 3 Titan's Strength
 3 Favored Hoplite
 3 Defiant Strike
@@ -102,8 +104,6 @@
 3 Monastery Swiftspear
 3 Tenth District Legionnaire
 3 Gods Willing
-3 Reckless Rage
-3 Dreadhorde Arcanist
 3 Soul-Scar Mage
 4 Titan's Strength
 4 Soul-Scar Mage
@@ -141,6 +141,7 @@
 1 Omen of the Sea
 1 Silkwrap
 1 Spell Queller
+1 Wasteland Strangler
 1 Archon of Sun's Grace
 1 Ulamog's Nullifier
 1 Elspeth Conquers Death
@@ -148,18 +149,17 @@
 1 Charming Prince
 1 Ipnu Rivulet
 1 Brain Maggot
-1 Wasteland Strangler
 2 Trial of Ambition
 2 Omen of the Sea
 2 Shefet Dunes
 2 Silkwrap
+2 Wasteland Strangler
 2 Spell Queller
 2 Archon of Sun's Grace
 2 Elspeth Conquers Death
 2 Thought-Knot Seer
 2 Brain Maggot
 2 Ulamog's Nullifier
-2 Wasteland Strangler
 2 Wastes
 2 Ipnu Rivulet
 2 Charming Prince
@@ -178,8 +178,8 @@
 4 Eldrazi Displacer
 4 Wasteland Strangler
 4 Thought-Knot Seer
-1 Winota, Joiner of Forces
 1 Goblin Instigator
+1 Winota, Joiner of Forces
 2 Winota, Joiner of Forces
 3 Winota, Joiner of Forces
 4 Winota, Joiner of Forces
@@ -188,31 +188,31 @@
 2 Clifftop Retreat
 3 Clifftop Retreat
 1 Reflector Mage
+1 Hanged Executioner
 1 Castle Embereth
 1 Steam Vents
 1 Agent of Treachery
 1 Chained to the Rocks
-1 Chandra, Acolyte of Flame
+1 Fire Prophecy
 1 Lavinia of the Tenth
+1 Chandra, Acolyte of Flame
 1 Phyrexian Revoker
 1 Bonecrusher Giant
 1 Cloudblazer
 1 Blast Zone
 1 Temple of Triumph
-1 Hanged Executioner
-1 Fire Prophecy
 2 Reflector Mage
-2 Agent of Treachery
+2 Hanged Executioner
 2 Steam Vents
+2 Agent of Treachery
 2 Castle Embereth
 2 Chained to the Rocks
+2 Fire Prophecy
 2 Chandra, Acolyte of Flame
 2 Phyrexian Revoker
 2 Bonecrusher Giant
 2 Blast Zone
-2 Hanged Executioner
 2 Goblin Instigator
-2 Fire Prophecy
 2 Lavinia of the Tenth
 2 Cloudblazer
 3 Reflector Mage
@@ -221,6 +221,7 @@
 3 Raugrin Triome
 3 Chained to the Rocks
 3 Agent of Treachery
+3 Fire Prophecy
 3 Chandra, Acolyte of Flame
 3 Phyrexian Revoker
 3 Lavinia of the Tenth
@@ -228,7 +229,6 @@
 3 Castle Embereth
 3 Cloudblazer
 3 Blast Zone
-3 Fire Prophecy
 3 Goblin Instigator
 4 Reflector Mage
 4 Raugrin Triome
@@ -265,10 +265,10 @@
 1 Zenith Flare
 1 Shark Typhoon
 1 Flourishing Fox
-1 Castle Vantress
-1 Nimble Obstructionist
-1 Censor
 1 Hieroglyphic Illumination
+1 Castle Vantress
+1 Censor
+1 Nimble Obstructionist
 1 Cast Out
 1 Neutralize
 1 Supreme Verdict
@@ -276,11 +276,11 @@
 2 Irrigated Farmland
 2 Sulfur Falls
 2 Azorius Charm
+2 Hieroglyphic Illumination
 2 Flourishing Fox
 2 Zenith Flare
-2 Nimble Obstructionist
 2 Shark Typhoon
-2 Hieroglyphic Illumination
+2 Nimble Obstructionist
 2 Cast Out
 2 Neutralize
 2 Censor
@@ -288,22 +288,22 @@
 3 Irrigated Farmland
 3 Azorius Charm
 3 Sulfur Falls
+3 Cast Out
 3 Island
 3 Zenith Flare
 3 Hieroglyphic Illumination
-3 Flourishing Fox
-3 Shark Typhoon
-3 Cast Out
 3 Neutralize
+3 Shark Typhoon
+3 Flourishing Fox
 3 Censor
 4 Irrigated Farmland
-4 Cast Out
+4 Sulfur Falls
 4 Azorius Charm
+4 Cast Out
+4 Neutralize
 4 Flourishing Fox
 4 Hieroglyphic Illumination
 4 Zenith Flare
-4 Neutralize
-4 Sulfur Falls
 4 Shark Typhoon
 4 Censor
 1 Deathrite Shaman
@@ -331,13 +331,13 @@
 4 Cauldron Familiar
 4 Witch's Oven
 4 Gods Willing
-1 Alseid of Life's Bounty
 1 Curious Obsession
+1 Alseid of Life's Bounty
 1 Springleaf Drum
 1 Sram, Senior Edificer
 1 Ethereal Armor
-2 Alseid of Life's Bounty
 2 Curious Obsession
+2 Alseid of Life's Bounty
 2 Sram, Senior Edificer
 2 Ethereal Armor
 2 Springleaf Drum
@@ -346,8 +346,8 @@
 3 Springleaf Drum
 3 Sram, Senior Edificer
 3 Ethereal Armor
-4 Alseid of Life's Bounty
 4 Curious Obsession
+4 Alseid of Life's Bounty
 4 Sram, Senior Edificer
 4 Ethereal Armor
 4 Swamp
@@ -360,8 +360,8 @@
 1 Castle Ardenvale
 1 Knight of the Ebon Legion
 1 Shambling Vent
-2 Gideon of the Trials
 2 Heart of Kiran
+2 Gideon of the Trials
 2 Pack Rat
 2 Knight of the Ebon Legion
 2 Shambling Vent
@@ -377,11 +377,6 @@
 4 Karn, Scion of Urza
 4 Pack Rat
 2 Forest
-1 Kenrith, the Returned King
-1 Scampering Scorcher
-1 Eldritch Evolution
-1 Angrath's Marauders
-1 Gilded Goose
 1 Legion Warboss
 1 Goblin Rabblemaster
 1 Temple Garden
@@ -390,35 +385,40 @@
 1 Voice of Resurgence
 1 Llanowar Elves
 1 Elvish Mystic
+1 Eldritch Evolution
+1 Gilded Goose
+1 Kenrith, the Returned King
+1 Angrath's Marauders
+1 Scampering Scorcher
 1 Rootbound Crag
-2 Kenrith, the Returned King
-2 Gilded Goose
-2 Angrath's Marauders
-2 Eldritch Evolution
 2 Goblin Rabblemaster
 2 Legion Warboss
 2 Temple Garden
 2 Selfless Spirit
 2 Sunpetal Grove
 2 Voice of Resurgence
+2 Gilded Goose
+2 Angrath's Marauders
+2 Kenrith, the Returned King
 2 Llanowar Elves
 2 Rootbound Crag
 2 Elvish Mystic
-3 Angrath's Marauders
-3 Eldritch Evolution
+2 Eldritch Evolution
 3 Legion Warboss
 3 Temple Garden
 3 Voice of Resurgence
 3 Llanowar Elves
 3 Elvish Mystic
-4 Angrath's Marauders
-4 Eldritch Evolution
-4 Voice of Resurgence
-4 Temple Garden
+3 Eldritch Evolution
+3 Angrath's Marauders
 4 Legion Warboss
+4 Temple Garden
+4 Voice of Resurgence
 4 Elvish Mystic
+4 Eldritch Evolution
 4 Stomping Ground
 4 Llanowar Elves
+4 Angrath's Marauders
 1 Chamber Sentry
 1 Evolutionary Leap
 1 Hardened Scales

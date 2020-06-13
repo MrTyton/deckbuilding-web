@@ -99,8 +99,8 @@
 4 Cavalier of Thorns
 4 Omnath, Locus of the Roil
 4 Stomping Ground
-1 Liliana, Dreadhorde General
 1 Nicol Bolas, Dragon-God
+1 Liliana, Dreadhorde General
 2 Nicol Bolas, Dragon-God
 3 Nicol Bolas, Dragon-God
 4 Interplanar Beacon
@@ -156,10 +156,6 @@
 1 Quasiduplicate
 2 Thassa, Deep-Dwelling
 4 Temple of Abandon
-1 Unmoored Ego
-1 Kenrith, the Returned King
-3 Deafening Clarion
-4 Casualties of War
 1 Disinformation Campaign
 1 Extinction Event
 2 Extinction Event
@@ -172,6 +168,10 @@
 3 Nissa, Who Shakes the World
 4 Nissa, Who Shakes the World
 4 Oath of Kaya
+1 Unmoored Ego
+1 Kenrith, the Returned King
+3 Deafening Clarion
+4 Casualties of War
 1 Mythos of Nethroi
 1 Duress
 2 Mythos of Nethroi
@@ -188,8 +188,8 @@
 1 Scampering Scorcher
 1 Rugged Highlands
 1 Blossoming Sands
-1 Tranquil Cove
 1 Elite Guardmage
+1 Tranquil Cove
 1 Swiftwater Cliffs
 1 Thornwood Falls
 1 Cloudkin Seer
@@ -204,10 +204,10 @@
 1 Spark Double
 1 Teferi's Time Twist
 2 Scampering Scorcher
+2 Elite Guardmage
 2 Blossoming Sands
 2 Rugged Highlands
 2 Tranquil Cove
-2 Elite Guardmage
 2 Thornwood Falls
 2 Evolving Wilds
 2 Cloudkin Seer
@@ -219,9 +219,9 @@
 2 Wind-Scarred Crag
 2 Frost Lynx
 2 Swiftwater Cliffs
+3 Elite Guardmage
 3 Mountain
 3 Scampering Scorcher
-3 Elite Guardmage
 3 Flicker of Fate
 3 Evolving Wilds
 3 Tranquil Cove

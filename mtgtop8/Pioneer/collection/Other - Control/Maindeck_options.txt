@@ -32,8 +32,8 @@
 1 Teferi, Time Raveler
 1 Baffling End
 2 Glacial Fortress
-2 Baffling End
 2 Elspeth Conquers Death
+2 Baffling End
 2 Omen of the Sea
 2 Teferi, Time Raveler
 3 Omen of the Sea
@@ -64,10 +64,10 @@
 1 Forest
 1 Satyr Wayfinder
 1 Hinterland Harbor
-2 Sunpetal Grove
 2 Teferi, Hero of Dominaria
 2 Detention Sphere
 2 Temple Garden
+2 Sunpetal Grove
 2 Courser of Kruphix
 2 Hinterland Harbor
 2 Forest
@@ -106,8 +106,8 @@
 1 Azorius Charm
 2 Irrigated Farmland
 2 Azorius Charm
-3 Irrigated Farmland
 3 Sulfur Falls
+3 Irrigated Farmland
 3 Azorius Charm
 4 Azorius Charm
 4 Irrigated Farmland
@@ -118,12 +118,12 @@
 1 Sacred Foundry
 1 Narset, Parter of Veils
 1 Agent of Treachery
+2 Agent of Treachery
 2 Interplanar Beacon
 2 Lukka, Coppercoat Outcast
 2 Elspeth, Sun's Nemesis
 2 Sacred Foundry
 2 Steam Vents
-2 Agent of Treachery
 2 Narset, Parter of Veils
 3 Lukka, Coppercoat Outcast
 3 Interplanar Beacon
@@ -141,32 +141,32 @@
 1 Shark Typhoon
 1 Neutralize
 1 Cast Out
-1 Hieroglyphic Illumination
 1 Nimble Obstructionist
 1 Castle Vantress
+1 Hieroglyphic Illumination
 1 Flourishing Fox
 1 Zenith Flare
 2 Shark Typhoon
 2 Neutralize
 2 Cast Out
-2 Hieroglyphic Illumination
 2 Nimble Obstructionist
 2 Zenith Flare
 2 Flourishing Fox
+2 Hieroglyphic Illumination
 3 Shark Typhoon
-3 Neutralize
-3 Cast Out
 3 Flourishing Fox
+3 Neutralize
 3 Hieroglyphic Illumination
 3 Zenith Flare
 3 Island
+3 Cast Out
 4 Shark Typhoon
-4 Sulfur Falls
-4 Neutralize
 4 Zenith Flare
 4 Hieroglyphic Illumination
 4 Flourishing Fox
+4 Neutralize
 4 Cast Out
+4 Sulfur Falls
 1 Deafening Clarion
 2 Castle Ardenvale
 2 Deafening Clarion
@@ -177,8 +177,8 @@
 4 Narset, Parter of Veils
 3 Satyr Wayfinder
 4 Satyr Wayfinder
-1 Easy Prey
 1 Underworld Connections
+1 Easy Prey
 2 Kaya's Wrath
 3 Murderous Rider
 1 History of Benalia
@@ -190,8 +190,8 @@
 4 Fatal Push
 1 Mountain
 1 Blast Zone
-2 Temple of Silence
 2 History of Benalia
+2 Temple of Silence
 1 Concealed Courtyard
 2 Concealed Courtyard
 3 Kunoros, Hound of Athreos
@@ -224,72 +224,72 @@
 2 Dreadbore
 2 Blood Crypt
 2 Watery Grave
-3 Blood Crypt
 3 Dreadbore
+3 Blood Crypt
 3 Watery Grave
-4 Blood Crypt
 4 Dreadbore
+4 Blood Crypt
 4 Watery Grave
 1 Yorion, Sky Nomad
 2 Yorion, Sky Nomad
+1 Nicol Bolas, the Ravager
+1 Tyrant's Scorn
+1 Dragonskull Summit
+1 Drown in the Loch
+1 Drowned Catacomb
+1 Nicol Bolas, Dragon-God
+2 Tyrant's Scorn
+2 Dragonskull Summit
+2 Nicol Bolas, the Ravager
+2 Drown in the Loch
+2 Nicol Bolas, Dragon-God
+2 Drowned Catacomb
+3 Nicol Bolas, the Ravager
+3 Dragonskull Summit
+3 Drown in the Loch
+3 Nicol Bolas, Dragon-God
+3 Tyrant's Scorn
+3 Drowned Catacomb
+4 Nicol Bolas, the Ravager
+4 Tyrant's Scorn
+4 Drown in the Loch
+4 Nicol Bolas, Dragon-God
 1 Kroxa, Titan of Death's Hunger
 1 Discovery / Dispersal
 1 Kolaghan's Command
+1 Strategic Planning
 1 Spirebluff Canal
 1 Soul-Guide Lantern
 1 Jace, Vryn's Prodigy
 1 Heartless Act
-1 Strategic Planning
 1 Foreboding Ruins
+2 Jace, Vryn's Prodigy
 2 Kroxa, Titan of Death's Hunger
 2 Kolaghan's Command
 2 Discovery / Dispersal
-2 Spirebluff Canal
 2 Strategic Planning
+2 Spirebluff Canal
 2 Mountain
 2 Heartless Act
-2 Jace, Vryn's Prodigy
+3 Jace, Vryn's Prodigy
 3 Kroxa, Titan of Death's Hunger
+3 Strategic Planning
 3 Spirebluff Canal
 3 Discovery / Dispersal
-3 Jace, Vryn's Prodigy
-3 Strategic Planning
-4 Jace, Vryn's Prodigy
 4 Kroxa, Titan of Death's Hunger
+4 Jace, Vryn's Prodigy
+4 Strategic Planning
 4 Spirebluff Canal
 4 Discovery / Dispersal
-4 Strategic Planning
 1 Heliod, Sun-Crowned
-1 Arcanist's Owl
 1 Shatter the Sky
+1 Arcanist's Owl
 1 Walking Ballista
 2 Heliod, Sun-Crowned
-2 Arcanist's Owl
 2 Walking Ballista
 2 Shatter the Sky
+2 Arcanist's Owl
 3 Heliod, Sun-Crowned
 3 Walking Ballista
-4 Heliod, Sun-Crowned
 4 Walking Ballista
-1 Drown in the Loch
-1 Tyrant's Scorn
-1 Drowned Catacomb
-1 Dragonskull Summit
-1 Nicol Bolas, Dragon-God
-1 Nicol Bolas, the Ravager
-2 Nicol Bolas, Dragon-God
-2 Tyrant's Scorn
-2 Drown in the Loch
-2 Nicol Bolas, the Ravager
-2 Drowned Catacomb
-2 Dragonskull Summit
-3 Drown in the Loch
-3 Tyrant's Scorn
-3 Nicol Bolas, Dragon-God
-3 Dragonskull Summit
-3 Nicol Bolas, the Ravager
-3 Drowned Catacomb
-4 Nicol Bolas, Dragon-God
-4 Drown in the Loch
-4 Tyrant's Scorn
-4 Nicol Bolas, the Ravager
+4 Heliod, Sun-Crowned

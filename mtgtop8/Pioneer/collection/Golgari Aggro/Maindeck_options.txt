@@ -8,22 +8,22 @@
 1 Experiment One
 1 Pelt Collector
 2 Experiment One
-2 Pelt Collector
 2 Woodland Cemetery
+2 Pelt Collector
 3 Experiment One
 3 Pelt Collector
 4 Experiment One
 4 Pelt Collector
 1 Hashep Oasis
 7 Forest
-1 Elvish Mystic
 1 Llanowar Elves
+1 Elvish Mystic
 2 Elvish Mystic
 2 Llanowar Elves
-3 Elvish Mystic
 3 Llanowar Elves
-4 Llanowar Elves
+3 Elvish Mystic
 4 Elvish Mystic
+4 Llanowar Elves
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
@@ -38,11 +38,11 @@
 4 Scavenging Ooze
 4 Woodland Cemetery
 4 Chamber Sentry
-1 Vivien, Arkbow Ranger
 1 Rishkar, Peema Renegade
 1 Nissa, Voice of Zendikar
-2 Vivien, Arkbow Ranger
+1 Vivien, Arkbow Ranger
 2 Nissa, Voice of Zendikar
+2 Vivien, Arkbow Ranger
 3 Vivien, Arkbow Ranger
 3 Nissa, Voice of Zendikar
 4 Vivien, Arkbow Ranger
@@ -52,45 +52,45 @@
 1 Spire of Industry
 2 Spire of Industry
 1 Rhonas the Indomitable
-1 Rotting Regisaur
+1 Steel Leaf Champion
 1 The Great Henge
 1 Lovestruck Beast
-1 Steel Leaf Champion
+1 Rotting Regisaur
 2 Lovestruck Beast
-2 The Great Henge
 2 Rhonas the Indomitable
-2 Rotting Regisaur
 2 Steel Leaf Champion
-3 Steel Leaf Champion
+2 The Great Henge
+2 Rotting Regisaur
 3 The Great Henge
-3 Lovestruck Beast
 3 Rotting Regisaur
-4 Steel Leaf Champion
+3 Lovestruck Beast
+3 Steel Leaf Champion
 4 Lovestruck Beast
 4 Rotting Regisaur
+4 Steel Leaf Champion
 9 Forest
 1 Mana Confluence
 2 Rishkar, Peema Renegade
-1 Nissa, Who Shakes the World
 1 Yorvo, Lord of Garenbrig
+1 Nissa, Who Shakes the World
 2 Yorvo, Lord of Garenbrig
 2 Nissa, Who Shakes the World
 1 Hope of Ghirapur
 1 Implement of Ferocity
 2 Hope of Ghirapur
 2 Implement of Ferocity
-3 Hope of Ghirapur
 3 The Ozolith
+3 Hope of Ghirapur
 1 Animation Module
 2 Animation Module
 3 Animation Module
-1 Scrapheap Scrounger
 1 Shadowspear
 1 Tireless Tracker
 1 Collected Company
+1 Scrapheap Scrounger
 1 Nessian Hornbeetle
-2 Scrapheap Scrounger
 2 Nessian Hornbeetle
+2 Scrapheap Scrounger
 2 Collected Company
 3 Collected Company
 3 Nessian Hornbeetle
@@ -102,8 +102,8 @@
 1 Blood Crypt
 1 Traverse the Ulvenwald
 1 Bomat Courier
-1 Ghor-Clan Rampager
 1 Grisly Salvage
+1 Ghor-Clan Rampager
 1 Questing Beast
 1 Sylvan Caryatid
 1 Carnage Tyrant
@@ -116,8 +116,8 @@
 2 Traverse the Ulvenwald
 2 Blood Crypt
 2 Bomat Courier
-2 Questing Beast
 2 Grisly Salvage
+2 Questing Beast
 2 Gather the Pack
 2 Sylvan Caryatid
 2 Mana Confluence
