@@ -1,15 +1,15 @@
-1 Karakas
 3 Mountain
-3 Cavern of Souls
 1 Simian Spirit Guide
 2 Simian Spirit Guide
 3 Simian Spirit Guide
 4 Simian Spirit Guide
+3 Cavern of Souls
 1 Urza, Lord High Artificer
 2 Urza, Lord High Artificer
 1 Mishra's Bauble
 1 Seat of the Synod
 3 Urza, Lord High Artificer
+1 Karakas
 3 Urza's Bauble
 4 Urza's Bauble
 2 Mishra's Bauble
@@ -29,51 +29,50 @@
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
-4 Manifold Key
 2 Narset, Parter of Veils
 4 Urza, Lord High Artificer
+3 Narset, Parter of Veils
+4 Narset, Parter of Veils
+1 Sai, Master Thopterist
 4 Mountain
 5 Mountain
 4 Cavern of Souls
 1 Snow-Covered Mountain
-1 Inventors' Fair
-2 Inventors' Fair
+4 Manifold Key
+2 Sai, Master Thopterist
 1 Tundra
 2 Tundra
-1 Sai, Master Thopterist
-3 Narset, Parter of Veils
-4 Narset, Parter of Veils
 1 Island
-1 Plains
-1 Ancient Den
+1 Snow-Covered Island
 1 Auriok Salvagers
 2 Auriok Salvagers
 3 Auriok Salvagers
-2 Snow-Covered Mountain
-3 Tundra
-1 Ugin, the Ineffable
-2 Ugin, the Ineffable
-2 Sai, Master Thopterist
-2 Karakas
-1 Snow-Covered Plains
-2 Snow-Covered Plains
-3 Snow-Covered Plains
-4 Snow-Covered Plains
-2 Ancient Den
-2 Island
-4 Auriok Salvagers
-1 Defense Grid
-2 Defense Grid
-3 Mishra's Bauble
-4 Mishra's Bauble
-1 Snow-Covered Island
-3 Voltaic Key
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island
+1 Inventors' Fair
+2 Inventors' Fair
+2 Snow-Covered Mountain
+3 Tundra
+1 Ugin, the Ineffable
+2 Ugin, the Ineffable
+2 Karakas
+2 Island
+1 Snow-Covered Plains
+2 Snow-Covered Plains
+3 Snow-Covered Plains
+4 Snow-Covered Plains
+4 Auriok Salvagers
+1 Plains
+1 Defense Grid
+2 Defense Grid
+1 Ancient Den
+3 Mishra's Bauble
+4 Mishra's Bauble
+3 Voltaic Key
 1 Mox Diamond
 2 Mox Diamond
 3 Island
@@ -85,12 +84,10 @@
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
 4 Basalt Monolith
-3 Ancient Den
-4 Ancient Den
 1 Chromatic Star
 1 Retrofitter Foundry
 1 Chromatic Sphere
-2 Plains
+2 Ancient Den
 1 Wishclaw Talisman
 2 Wishclaw Talisman
 4 Walking Ballista
@@ -109,6 +106,7 @@
 1 Marsh Flats
 1 Scrubland
 2 Marsh Flats
+2 Plains
 3 Defense Grid
 3 Wishclaw Talisman
 1 Spire of Industry
@@ -126,16 +124,13 @@
 2 Chromatic Star
 3 Chromatic Star
 4 Chromatic Star
-1 Buried Ruin
-3 Plains
-4 Plains
 1 Urborg, Tomb of Yawgmoth
 1 Steel Overseer
 1 Stonecoil Serpent
 1 Lodestone Golem
+1 Wasteland
 1 Phyrexian Revoker
 1 Thorn of Amethyst
-1 Wasteland
 1 Mishra's Factory
 1 Vault of Whispers
 2 Mishra's Factory
@@ -146,8 +141,8 @@
 2 Vault of Whispers
 2 Lodestone Golem
 2 Thorn of Amethyst
-3 Mishra's Factory
 3 Stonecoil Serpent
+3 Mishra's Factory
 3 Steel Overseer
 3 Phyrexian Revoker
 3 Thorn of Amethyst
@@ -161,6 +156,13 @@
 4 Steel Overseer
 4 Mishra's Factory
 4 Lion's Eye Diamond
+2 Chromatic Sphere
+3 Ancient Den
+3 Chromatic Sphere
+4 Ancient Den
+4 Chromatic Sphere
+5 Snow-Covered Plains
+7 Island
 1 Uro, Titan of Nature's Wrath
 1 Snow-Covered Swamp
 1 Oko, Thief of Crowns
@@ -189,8 +191,3 @@
 4 Oko, Thief of Crowns
 4 Misty Rainforest
 4 Force of Will
-7 Island
-2 Chromatic Sphere
-3 Chromatic Sphere
-4 Chromatic Sphere
-5 Snow-Covered Plains

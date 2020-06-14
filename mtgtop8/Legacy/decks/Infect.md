@@ -49,6 +49,6 @@
 |                    2|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)        |                     |                                                                                            |
 |                    2|[Savannah](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=881)              |                     |                                                                                            |
 |                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)|                     |                                                                                            |
-|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)  |                     |                                                                                            |
 |                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)  |                     |                                                                                            |
+|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)  |                     |                                                                                            |
 

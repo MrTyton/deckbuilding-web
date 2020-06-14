@@ -94,6 +94,7 @@
 2 Titan's Strength
 2 Favored Hoplite
 2 Defiant Strike
+3 Gods Willing
 3 Mountain
 3 Dreadhorde Arcanist
 3 Reckless Rage
@@ -103,7 +104,6 @@
 3 Gird for Battle
 3 Monastery Swiftspear
 3 Tenth District Legionnaire
-3 Gods Willing
 3 Soul-Scar Mage
 4 Titan's Strength
 4 Soul-Scar Mage
@@ -135,7 +135,6 @@
 1 Eldrazi Displacer
 2 Eldrazi Displacer
 3 Eldrazi Displacer
-1 Wastes
 1 Shefet Dunes
 1 Trial of Ambition
 1 Omen of the Sea
@@ -147,6 +146,7 @@
 1 Elspeth Conquers Death
 1 Thought-Knot Seer
 1 Charming Prince
+1 Wastes
 1 Ipnu Rivulet
 1 Brain Maggot
 2 Trial of Ambition
@@ -173,11 +173,11 @@
 4 Omen of the Sea
 4 Silkwrap
 4 Brain Maggot
+4 Thought-Knot Seer
 4 Spell Queller
 4 Charming Prince
 4 Eldrazi Displacer
 4 Wasteland Strangler
-4 Thought-Knot Seer
 1 Goblin Instigator
 1 Winota, Joiner of Forces
 2 Winota, Joiner of Forces
@@ -258,7 +258,6 @@
 1 Evolving Wilds
 2 Evolving Wilds
 3 Evolving Wilds
-4 Gird for Battle
 2 Island
 1 Sulfur Falls
 1 Azorius Charm
@@ -313,6 +312,7 @@
 3 Chevill, Bane of Monsters
 4 Deathrite Shaman
 4 Chevill, Bane of Monsters
+4 Gods Willing
 1 Fetid Pools
 1 Drowned Catacomb
 1 Metallic Rebuke
@@ -330,7 +330,6 @@
 4 Choked Estuary
 4 Cauldron Familiar
 4 Witch's Oven
-4 Gods Willing
 1 Curious Obsession
 1 Alseid of Life's Bounty
 1 Springleaf Drum
@@ -341,8 +340,8 @@
 2 Sram, Senior Edificer
 2 Ethereal Armor
 2 Springleaf Drum
-3 Alseid of Life's Bounty
 3 Curious Obsession
+3 Alseid of Life's Bounty
 3 Springleaf Drum
 3 Sram, Senior Edificer
 3 Ethereal Armor
@@ -350,6 +349,7 @@
 4 Alseid of Life's Bounty
 4 Sram, Senior Edificer
 4 Ethereal Armor
+4 Gird for Battle
 4 Swamp
 1 Karn, Scion of Urza
 1 Gideon of the Trials
@@ -363,13 +363,13 @@
 2 Heart of Kiran
 2 Gideon of the Trials
 2 Pack Rat
+2 Karn, Scion of Urza
 2 Knight of the Ebon Legion
 2 Shambling Vent
 2 Heliod, Sun-Crowned
-2 Karn, Scion of Urza
 3 Pack Rat
-3 Heliod, Sun-Crowned
 3 Karn, Scion of Urza
+3 Heliod, Sun-Crowned
 3 Heart of Kiran
 3 Knight of the Ebon Legion
 4 Scrapheap Scrounger

@@ -143,8 +143,8 @@
 2 Uro, Titan of Nature's Wrath
 2 Growth Spiral
 3 Casualties of War
-3 Cavalier of Thorns
 3 Hydroid Krasis
+3 Cavalier of Thorns
 3 Temple of Malady
 3 Zagoth Triome
 3 Thought Erasure
@@ -152,8 +152,8 @@
 3 Leafkin Druid
 3 Uro, Titan of Nature's Wrath
 3 Growth Spiral
-4 Hydroid Krasis
 4 Cavalier of Thorns
+4 Hydroid Krasis
 4 Casualties of War
 4 Leafkin Druid
 4 Temple of Malady
@@ -226,8 +226,8 @@
 1 Luminous Broodmoth
 1 Woe Strider
 1 Cruel Celebrant
-1 Offspring's Revenge
 1 Mythos of Snapdax
+1 Offspring's Revenge
 1 Serrated Scorpion
 1 Mayhem Devil
 2 Midnight Reaper
@@ -245,8 +245,8 @@
 3 Mayhem Devil
 3 Serrated Scorpion
 4 Cruel Celebrant
-4 Priest of Forgotten Gods
 4 Midnight Reaper
+4 Priest of Forgotten Gods
 4 Serrated Scorpion
 4 Woe Strider
 4 Mayhem Devil
@@ -301,8 +301,8 @@
 1 Kaya's Ghostform
 1 Hateful Eidolon
 1 Aphemia, the Cacophony
-1 Starfield Mystic
 1 Dead Weight
+1 Starfield Mystic
 1 Alseid of Life's Bounty
 1 All That Glitters
 1 Sentinel's Eyes
@@ -325,9 +325,10 @@
 2 Pious Wayfarer
 2 Setessan Training
 2 Temple Garden
+3 Indatha Triome
 3 Hateful Eidolon
-3 Starfield Mystic
 3 Karametra's Blessing
+3 Starfield Mystic
 3 All That Glitters
 3 Sentinel's Eyes
 3 Alseid of Life's Bounty
@@ -336,7 +337,6 @@
 3 Aphemia, the Cacophony
 3 Temple Garden
 3 Season of Growth
-3 Indatha Triome
 3 Pious Wayfarer
 4 Hateful Eidolon
 4 All That Glitters
@@ -363,13 +363,13 @@
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 3 Bonecrusher Giant
-1 Vivien, Monsters' Advocate
 1 Embercleave
 1 Lukka, Coppercoat Outcast
+1 Vivien, Monsters' Advocate
 1 Klothys, God of Destiny
 1 Questing Beast
-1 Stonecoil Serpent
 1 Thrashing Brontodon
+1 Stonecoil Serpent
 1 Pelt Collector
 1 Shifting Ceratops
 1 Temple of Abandon
@@ -378,8 +378,8 @@
 1 Domri's Ambush
 1 Gruul Spellbreaker
 2 Embercleave
-2 Klothys, God of Destiny
 2 Domri's Ambush
+2 Klothys, God of Destiny
 2 Gemrazer
 2 Gruul Spellbreaker
 2 Temple of Abandon
@@ -437,8 +437,8 @@
 4 Shock
 9 Island
 1 Paradise Druid
-1 Nylea, Keen-Eyed
 1 Setessan Petitioner
+1 Nylea, Keen-Eyed
 1 End-Raze Forerunners
 1 Beast Whisperer
 2 Paradise Druid

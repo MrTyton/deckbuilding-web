@@ -79,6 +79,6 @@
 |                    1|Mythos of Illuna                                                                                  |                     |                                                                                                 |
 |                    2|Mythos of Illuna                                                                                  |                     |                                                                                                 |
 |                    1|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)      |                     |                                                                                                 |
-|                    2|Narset of the Ancient Way                                                                         |                     |                                                                                                 |
 |                    2|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)      |                     |                                                                                                 |
+|                    2|Narset of the Ancient Way                                                                         |                     |                                                                                                 |
 

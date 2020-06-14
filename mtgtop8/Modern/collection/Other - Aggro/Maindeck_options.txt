@@ -11,13 +11,13 @@
 1 Polluted Delta
 2 Polluted Delta
 3 Polluted Delta
-1 Drown in the Loch
-1 Delver of Secrets
 1 Watery Grave
 1 Serum Visions
 1 Island
 1 Mana Leak
 1 Archmage's Charm
+1 Delver of Secrets
+1 Drown in the Loch
 1 Darkslick Shores
 1 Force of Negation
 1 Spirebluff Canal
@@ -25,24 +25,24 @@
 1 Sprite Dragon
 1 Snapcaster Mage
 1 Opt
-2 Watery Grave
-2 Delver of Secrets
 2 Mana Leak
 2 Snapcaster Mage
 2 Steam Vents
+2 Delver of Secrets
+2 Watery Grave
 2 Opt
 2 Darkslick Shores
 2 Force of Negation
 2 Serum Visions
 2 Sprite Dragon
-3 Delver of Secrets
 3 Darkslick Shores
 3 Sprite Dragon
 3 Opt
-4 Delver of Secrets
+3 Delver of Secrets
 4 Sprite Dragon
 4 Polluted Delta
 4 Opt
+4 Delver of Secrets
 4 Scalding Tarn
 2 Snow-Covered Mountain
 3 Inquisition of Kozilek
@@ -96,11 +96,11 @@
 3 Bonecrusher Giant
 3 Wooded Foothills
 3 Utopia Sprawl
+4 Bonecrusher Giant
 4 Glorybringer
 4 Magus of the Moon
 4 Stomping Ground
 4 Utopia Sprawl
-4 Bonecrusher Giant
 4 Wooded Foothills
 4 Arbor Elf
 4 Forest
@@ -147,33 +147,12 @@
 1 Pillage
 1 Relic of Progenitus
 2 Pillage
-3 Windswept Heath
 3 Pillage
+3 Windswept Heath
 4 Windswept Heath
-1 Fiend Artisan
-1 Liliana of the Veil
-1 Lightning Skelemental
-1 Castle Locthwain
-2 Fiend Artisan
-2 Liliana of the Veil
-2 Lightning Skelemental
-2 Castle Locthwain
-3 Liliana of the Veil
-3 Lightning Skelemental
-3 Unearth
-3 Snow-Covered Swamp
-4 Snow-Covered Swamp
-4 Liliana of the Veil
-5 Snow-Covered Swamp
-1 Misty Rainforest
-1 Lukka, Coppercoat Outcast
-1 Blood Moon
-2 Misty Rainforest
-4 Kitchen Finks
-7 Forest
-1 Stoneforge Mystic
 1 Plains
 1 Giver of Runes
+1 Stoneforge Mystic
 1 Magnetic Theft
 1 Sigarda's Aid
 1 Kor Duelist
@@ -186,8 +165,8 @@
 1 Spellskite
 1 Inspiring Vantage
 2 Sacred Foundry
-2 Stoneforge Mystic
 2 Giver of Runes
+2 Stoneforge Mystic
 2 Kor Duelist
 2 Magnetic Theft
 2 Kor Outfitter
@@ -212,10 +191,10 @@
 3 Giver of Runes
 3 Sacred Foundry
 3 Inspiring Vantage
-4 Stoneforge Mystic
 4 Magnetic Theft
 4 Inkmoth Nexus
 4 Giver of Runes
+4 Stoneforge Mystic
 4 Colossus Hammer
 4 Steelshaper's Gift
 4 Sigarda's Aid
@@ -224,5 +203,26 @@
 4 Kor Duelist
 4 Plains
 4 Sacred Foundry
-5 Plains
 4 Inspiring Vantage
+5 Plains
+1 Misty Rainforest
+1 Lukka, Coppercoat Outcast
+1 Blood Moon
+2 Misty Rainforest
+4 Kitchen Finks
+7 Forest
+1 Liliana of the Veil
+1 Lightning Skelemental
+1 Castle Locthwain
+1 Fiend Artisan
+2 Liliana of the Veil
+2 Lightning Skelemental
+2 Fiend Artisan
+2 Castle Locthwain
+3 Liliana of the Veil
+3 Lightning Skelemental
+3 Unearth
+3 Snow-Covered Swamp
+4 Liliana of the Veil
+4 Snow-Covered Swamp
+5 Snow-Covered Swamp

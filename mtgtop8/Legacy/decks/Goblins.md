@@ -52,6 +52,6 @@
 |                    1|[Goblin Settler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=20216)       |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)     |
 |                    1|[Grenzo, Havoc Raiser](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416811)|                    3|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)            |
 |                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)               |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                    2|[Goblin Settler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=20216)       |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
-|                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)            |                    3|[Pyrokinesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3180)          |
+|                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)            |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
+|                    2|[Goblin Settler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=20216)       |                    3|[Pyrokinesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3180)          |
 

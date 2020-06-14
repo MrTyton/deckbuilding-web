@@ -1,18 +1,16 @@
-1 Kroxa, Titan of Death's Hunger
-2 Kroxa, Titan of Death's Hunger
 4 Woe Strider
 1 Midnight Reaper
-2 Midnight Reaper
 8 Swamp
-3 Kroxa, Titan of Death's Hunger
-4 Kroxa, Titan of Death's Hunger
+1 Kroxa, Titan of Death's Hunger
+2 Kroxa, Titan of Death's Hunger
+2 Midnight Reaper
 1 Lurrus of the Dream-Den
 1 Temple of Malice
 3 Call of the Death-Dweller
-2 Lurrus of the Dream-Den
+3 Kroxa, Titan of Death's Hunger
+4 Kroxa, Titan of Death's Hunger
 9 Swamp
-1 Rix Maadi Reveler
-2 Rix Maadi Reveler
+2 Lurrus of the Dream-Den
 1 Judith, the Scourge Diva
 2 Judith, the Scourge Diva
 1 Robber of the Rich
@@ -28,17 +26,19 @@
 2 Elspeth's Nightmare
 3 Heraldic Banner
 3 Murderous Rider
+3 Castle Locthwain
+3 Midnight Reaper
+1 Knight of the Ebon Legion
+2 Knight of the Ebon Legion
+1 Rix Maadi Reveler
+2 Rix Maadi Reveler
+2 Robber of the Rich
+1 Sacred Foundry
 1 Mire's Grasp
 1 Whisper Squad
 2 Whisper Squad
 3 Whisper Squad
 4 Whisper Squad
-3 Castle Locthwain
-3 Midnight Reaper
-2 Robber of the Rich
-1 Sacred Foundry
-1 Knight of the Ebon Legion
-2 Knight of the Ebon Legion
 4 Midnight Reaper
 1 Weaponize the Monsters
 2 Weaponize the Monsters
@@ -48,22 +48,26 @@
 1 Fiend Artisan
 2 Fiend Artisan
 3 Fiend Artisan
+1 Drill Bit
+2 Drill Bit
+3 Knight of the Ebon Legion
+4 Knight of the Ebon Legion
+10 Swamp
 1 Act of Treason
 2 Bloodfell Caves
-10 Swamp
 1 Phoenix of Ash
 1 Drakuseth, Maw of Flames
 1 Samut's Sprint
 1 Blisterspit Gremlin
 1 Flame Spill
 1 Footlight Fiend
+1 Shock
 1 Skewer the Critics
 1 Syr Konrad, the Grim
+1 Theater of Horrors
 1 Bedevil
-1 Shock
 1 Kaya's Ghostform
 1 Blazing Volley
-1 Theater of Horrors
 1 Final Death
 1 Ob Nixilis, the Hate-Twisted
 1 Duress
@@ -78,7 +82,6 @@
 2 Phoenix of Ash
 2 Samut's Sprint
 2 Blisterspit Gremlin
-2 Ob Nixilis, the Hate-Twisted
 2 Footlight Fiend
 2 Syr Konrad, the Grim
 2 Skewer the Critics
@@ -86,13 +89,14 @@
 2 Kaya's Ghostform
 2 Blazing Volley
 2 Duress
+2 Light Up the Stage
 2 Rakdos Roustabout
 2 Scorch Spitter
+2 Ob Nixilis, the Hate-Twisted
 2 Carnival / Carnage
 2 Drakuseth, Maw of Flames
 2 Jaya, Venerated Firemage
 2 Fateful End
-2 Light Up the Stage
 3 Skewer the Critics
 3 Shock
 4 Skewer the Critics
@@ -101,8 +105,8 @@
 8 Mountain
 9 Mountain
 10 Mountain
-11 Swamp
 11 Mountain
+11 Swamp
 12 Mountain
 13 Mountain
 1 Savai Triome
@@ -113,8 +117,6 @@
 2 Rakdos Guildgate
 2 Goblin Cratermaker
 1 Heartless Act
-1 Drill Bit
-2 Drill Bit
 2 Heartless Act
 3 Heartless Act
 3 Rix Maadi Reveler
@@ -125,8 +127,28 @@
 2 Mire Triton
 3 Mire Triton
 4 Mire Triton
-3 Knight of the Ebon Legion
 3 Judith, the Scourge Diva
 4 Call of the Death-Dweller
 4 Judith, the Scourge Diva
-4 Knight of the Ebon Legion
+1 Rimrock Knight
+1 Bonecrusher Giant
+1 Embercleave
+1 Hunted Nightmare
+1 Angrath, Captain of Chaos
+1 Labyrinth Raptor
+1 Scorching Dragonfire
+2 Rimrock Knight
+2 Scorching Dragonfire
+2 Embercleave
+2 Bonecrusher Giant
+2 Hunted Nightmare
+2 Labyrinth Raptor
+3 Bonecrusher Giant
+3 Embercleave
+3 Hunted Nightmare
+3 Labyrinth Raptor
+3 Drill Bit
+4 Bonecrusher Giant
+4 Hunted Nightmare
+4 Drill Bit
+4 Labyrinth Raptor
