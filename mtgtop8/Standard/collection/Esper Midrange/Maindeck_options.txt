@@ -1,8 +1,8 @@
 2 Agent of Treachery
 3 Charming Prince
 3 Omen of the Sea
-4 Charming Prince
 4 Omen of the Sea
+4 Charming Prince
 4 Oath of Kaya
 4 Plains
 4 Island
@@ -32,17 +32,17 @@
 2 Hero of Precinct One
 3 Hero of Precinct One
 4 Hero of Precinct One
-1 Dire Tactics
 1 Ashiok, Nightmare Muse
 1 General Kudro of Drannith
 1 Castle Locthwain
-2 Ashiok, Nightmare Muse
+1 Dire Tactics
 2 Castle Ardenvale
+2 Ashiok, Nightmare Muse
 2 Dire Tactics
 2 General Kudro of Drannith
 2 Despark
-3 Dire Tactics
 3 Atris, Oracle of Half-Truths
+3 Dire Tactics
 3 General Kudro of Drannith
 4 Dire Tactics
 2 Swamp
@@ -58,8 +58,8 @@
 3 Ashiok, Nightmare Muse
 4 Temple of Deceit
 1 Yorion, Sky Nomad
-1 Dovin's Veto
 1 Kaya, Orzhov Usurper
+1 Dovin's Veto
 1 Tyrant's Scorn
 2 Tyrant's Scorn
 3 Tyrant's Scorn
@@ -68,28 +68,28 @@
 1 Omen of the Sun
 2 Burglar Rat
 2 Omen of the Sun
-3 Omen of the Sun
 3 Burglar Rat
+3 Omen of the Sun
 4 Burglar Rat
 1 Seraph of the Scales
 1 Dreamtail Heron
 1 Rankle, Master of Pranks
 1 Healer's Hawk
-1 Alela, Artful Provocateur
 1 Hanged Executioner
+1 Alela, Artful Provocateur
+1 Thief of Sanity
 1 Brazen Borrower
-1 Skycat Sovereign
 1 Wingspan Mentor
 1 Empyrean Eagle
-1 Thief of Sanity
+1 Skycat Sovereign
 1 Rally of Wings
 1 Harmonious Archon
 2 Dreamtail Heron
 2 Brazen Borrower
 2 Healer's Hawk
+2 Rankle, Master of Pranks
 2 Thief of Sanity
 2 Seraph of the Scales
-2 Rankle, Master of Pranks
 2 Empyrean Eagle
 2 Skycat Sovereign
 2 Wingspan Mentor
@@ -99,6 +99,7 @@
 2 Harmonious Archon
 3 Brazen Borrower
 3 Healer's Hawk
+3 Rankle, Master of Pranks
 3 Thief of Sanity
 3 Hanged Executioner
 3 Alela, Artful Provocateur
@@ -106,7 +107,6 @@
 3 Rally of Wings
 3 Seraph of the Scales
 3 Skycat Sovereign
-3 Rankle, Master of Pranks
 3 Empyrean Eagle
 3 Dreamtail Heron
 4 Brazen Borrower
@@ -127,30 +127,30 @@
 2 Indatha Triome
 2 Savai Triome
 3 Dream Trawler
-4 Atris, Oracle of Half-Truths
 4 Temple of Silence
-1 Scoured Barrens
+4 Atris, Oracle of Half-Truths
 1 Tranquil Cove
-1 Dismal Backwater
+1 Scoured Barrens
 1 Guild Globe
 1 Golden Egg
 1 Evolving Wilds
+1 Dismal Backwater
 1 Meteor Golem
 1 Ugin, the Ineffable
+1 Liliana, Dreadhorde General
 1 Cry of the Carnarium
 1 Murder
-1 Liliana, Dreadhorde General
 1 Omen of the Dead
 1 Ob Nixilis's Cruelty
 1 Sleeper Dart
 1 Flicker of Fate
 1 Dark Bargain
-2 Scoured Barrens
 2 Tranquil Cove
-2 Dismal Backwater
+2 Scoured Barrens
 2 Golden Egg
-2 Evolving Wilds
 2 Murder
+2 Evolving Wilds
+2 Dismal Backwater
 2 Basilica Bell-Haunt
 2 Cry of the Carnarium
 2 Omen of the Dead
@@ -160,25 +160,25 @@
 2 Ob Nixilis's Cruelty
 2 Dark Bargain
 3 Scoured Barrens
-3 Dismal Backwater
 3 Golden Egg
-3 Evolving Wilds
 3 Tranquil Cove
+3 Dismal Backwater
 3 Basilica Bell-Haunt
 3 Cry of the Carnarium
 3 Omen of the Dead
 3 Swamp
+3 Evolving Wilds
 3 Murder
 3 Flicker of Fate
 3 Sleeper Dart
 4 Omen of the Sun
 4 Scoured Barrens
 4 Golden Egg
-4 Evolving Wilds
 4 Tranquil Cove
 4 Cry of the Carnarium
 4 Flicker of Fate
 4 Murder
+4 Evolving Wilds
 4 Swamp
 4 Dismal Backwater
 5 Swamp

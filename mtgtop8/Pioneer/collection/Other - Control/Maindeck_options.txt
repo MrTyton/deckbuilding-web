@@ -53,10 +53,10 @@
 4 Opt
 1 Detention Sphere
 1 Teferi, Hero of Dominaria
-1 Nissa, Vastwood Seer
 1 Sunpetal Grove
-1 Lumbering Falls
+1 Nissa, Vastwood Seer
 1 Courser of Kruphix
+1 Lumbering Falls
 1 Breeding Pool
 1 Growth Spiral
 1 Uro, Titan of Nature's Wrath
@@ -69,6 +69,7 @@
 2 Temple Garden
 2 Sunpetal Grove
 2 Lumbering Falls
+2 Nissa, Vastwood Seer
 2 Courser of Kruphix
 2 Hinterland Harbor
 2 Forest
@@ -76,7 +77,6 @@
 2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
 2 Growth Spiral
-2 Nissa, Vastwood Seer
 3 Temple Garden
 3 Teferi, Hero of Dominaria
 3 Baffling End
@@ -86,9 +86,9 @@
 3 Forest
 4 Supreme Verdict
 4 Baffling End
+4 Temple Garden
 4 Growth Spiral
 4 Uro, Titan of Nature's Wrath
-4 Temple Garden
 4 Breeding Pool
 1 Duress
 2 Duress
@@ -246,13 +246,13 @@
 2 Drowned Catacomb
 3 Nicol Bolas, the Ravager
 3 Dragonskull Summit
-3 Nicol Bolas, Dragon-God
 3 Tyrant's Scorn
+3 Nicol Bolas, Dragon-God
 3 Drown in the Loch
 3 Drowned Catacomb
 4 Nicol Bolas, the Ravager
-4 Nicol Bolas, Dragon-God
 4 Tyrant's Scorn
+4 Nicol Bolas, Dragon-God
 4 Drown in the Loch
 1 Jace, Vryn's Prodigy
 1 Kroxa, Titan of Death's Hunger
@@ -266,8 +266,8 @@
 2 Jace, Vryn's Prodigy
 2 Kroxa, Titan of Death's Hunger
 2 Kolaghan's Command
-2 Spirebluff Canal
 2 Discovery / Dispersal
+2 Spirebluff Canal
 2 Strategic Planning
 2 Mountain
 2 Heartless Act

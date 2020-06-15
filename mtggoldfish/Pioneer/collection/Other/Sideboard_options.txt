@@ -1,14 +1,7 @@
-2 Dovin's Veto
-3 Damping Sphere
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-1 Annul
-2 Annul
 3 Annul
-1 Fatal Push
-1 Heroic Intervention
-1 Reclamation Sage
+1 Grafdigger's Cage
+2 Grafdigger's Cage
+1 Abrade
 3 Aether Gust
 1 Shadowspear
 1 Wild Slash
@@ -19,22 +12,20 @@
 2 Tormod's Crypt
 1 Rending Volley
 2 Rending Volley
+1 Scavenging Ooze
 1 Soul-Guide Lantern
 1 Chandra, Torch of Defiance
-1 Scavenging Ooze
+1 Heroic Intervention
 1 Destructive Revelry
 1 Blossoming Defense
 1 Roast
 2 Destructive Revelry
 2 Roast
 3 Destructive Revelry
-2 Reclamation Sage
-2 Heroic Intervention
-3 Grafdigger's Cage
+1 Unmoored Ego
+1 Collective Brutality
 1 Magma Spray
 2 Magma Spray
-2 Fatal Push
-2 Abrade
 1 Rest in Peace
 2 Rest in Peace
 1 Detention Sphere
@@ -43,16 +34,21 @@
 2 Declaration in Stone
 3 Declaration in Stone
 4 Annul
+1 Cry of the Carnarium
+2 Unmoored Ego
 1 Entrancing Melody
-3 Dovin's Veto
-1 Isolate
 1 Lurrus of the Dream Den
+3 Dovin's Veto
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+1 Isolate
 1 Gideon of the Trials
-1 Collective Brutality
-1 Unmoored Ego
-1 Alpine Moon
-1 Scab-Clan Berserker
-2 Scab-Clan Berserker
+3 Damping Sphere
+1 Fatal Push
+2 Fatal Push
+2 Abrade
+1 Barrier Breach
 1 Flaying Tendrils
 1 Reflector Mage
 2 Reflector Mage
@@ -75,37 +71,31 @@
 1 Starfield of Nyx
 2 Settle the Wreckage
 2 Sorcerous Spyglass
-1 Hour of Devastation
-1 Noxious Grasp
-1 Yahenni's Expertise
-1 Pharika's Libation
-1 Narset's Reversal
-2 Pharika's Libation
-2 Noxious Grasp
-2 Yahenni's Expertise
-2 Narset's Reversal
 1 Archon of Sun's Grace
 1 Search for Azcanta
 2 Archon of Sun's Grace
 2 Isolate
-1 By Force
-1 Collective Defiance
-1 Tibalt, Rakish Instigator
-1 Eidolon of the Great Revel
-2 Collective Defiance
-2 Eidolon of the Great Revel
-2 Chandra, Torch of Defiance
+1 Hour of Devastation
+1 Noxious Grasp
+1 Pharika's Libation
+1 Yahenni's Expertise
+1 Narset's Reversal
+2 Pharika's Libation
+2 Narset's Reversal
+2 Noxious Grasp
+2 Yahenni's Expertise
+2 Cry of the Carnarium
+2 Scavenging Ooze
+3 Scavenging Ooze
 1 Leyline of the Void
+1 Reclamation Sage
 1 Tireless Tracker
-1 Barrier Breach
 1 The Elderspell
 2 Leyline of the Void
 3 Leyline of the Void
 1 Commit/Memory
-1 Cry of the Carnarium
 1 Kalitas, Traitor of Ghet
 2 Kalitas, Traitor of Ghet
-2 Unmoored Ego
 3 Unmoored Ego
 1 Banefire
 1 Stubborn Denial
@@ -114,15 +104,18 @@
 1 Saheeli, Sublime Artificer
 1 Lightning Axe
 1 The Royal Scions
+1 Alpine Moon
 2 Saheeli, Sublime Artificer
 2 The Royal Scions
 2 Alpine Moon
 3 Alpine Moon
-1 Treasure Cruise
 1 Goblin Chainwhirler
+1 Treasure Cruise
+1 Scab-Clan Berserker
 1 Spell Pierce
 1 Reckless Rage
 2 Goblin Chainwhirler
+2 Scab-Clan Berserker
 2 Reckless Rage
 3 Reckless Rage
 1 Heartless Act
@@ -135,11 +128,6 @@
 2 Flaying Tendrils
 2 Wilt
 3 Flaying Tendrils
-1 Teferi, Time Raveler
-1 Shifting Ceratops
-1 Slaughter Games
-2 Teferi, Time Raveler
-4 Thoughtseize
 1 Harbinger of the Tides
 1 Pithing Needle
 2 Harbinger of the Tides
@@ -149,12 +137,30 @@
 2 Dusk/Dawn
 4 Damping Sphere
 4 Dovin's Veto
+1 Light of Hope
+1 Assassin's Trophy
+2 Barrier Breach
+3 Fatal Push
+3 Grafdigger's Cage
+4 Grafdigger's Cage
+1 Collective Defiance
+1 Chandra, Awakened Inferno
+1 Eidolon of the Great Revel
+1 Stormbreath Dragon
+1 Jegantha, the Wellspring
+2 Collective Defiance
+2 Eidolon of the Great Revel
+2 Chandra, Torch of Defiance
+2 Stormbreath Dragon
+3 Chandra, Torch of Defiance
+3 Eidolon of the Great Revel
+4 Eidolon of the Great Revel
 1 Baffling End
 1 Sin Collector
 1 Duress
-2 Duress
 2 Baffling End
 2 Sin Collector
+2 Duress
 3 Duress
 3 Baffling End
 3 Sin Collector
@@ -163,5 +169,10 @@
 4 Sin Collector
 2 Entrancing Melody
 3 Entrancing Melody
-2 Gideon of the Trials
 4 Entrancing Melody
+1 Teferi, Time Raveler
+1 Shifting Ceratops
+1 Slaughter Games
+2 Teferi, Time Raveler
+2 Gideon of the Trials
+4 Thoughtseize

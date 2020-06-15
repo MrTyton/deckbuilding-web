@@ -1,16 +1,16 @@
-2 Thoughtseize
+2 Fatal Push
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
 4 Inquisition of Kozilek
 1 Tarmogoyf
 1 Nurturing Peatland
-1 Verdant Catacombs
-1 Assassin's Trophy
 1 Scavenging Ooze
+1 Assassin's Trophy
+1 Verdant Catacombs
 1 Forest
 2 Tarmogoyf
-2 Assassin's Trophy
 2 Verdant Catacombs
+2 Assassin's Trophy
 2 Scavenging Ooze
 3 Tarmogoyf
 3 Verdant Catacombs
@@ -22,8 +22,8 @@
 2 Overgrown Tomb
 1 Kroxa, Titan of Death's Hunger
 1 Kolaghan's Command
-1 Blackcleave Cliffs
 1 Lightning Bolt
+1 Blackcleave Cliffs
 2 Kroxa, Titan of Death's Hunger
 2 Blackcleave Cliffs
 2 Lightning Bolt
@@ -41,25 +41,25 @@
 1 Grim Flayer
 1 Hexdrinker
 1 Field of Ruin
-2 Hexdrinker
-2 Field of Ruin
 2 Grim Flayer
-2 Nurturing Peatland
 2 Abrupt Decay
+2 Hexdrinker
+2 Nurturing Peatland
+2 Field of Ruin
 2 Forest
 3 Fatal Push
 3 Field of Ruin
-3 Assassin's Trophy
 3 Hexdrinker
 3 Swamp
+3 Assassin's Trophy
 4 Fatal Push
 4 Field of Ruin
 1 Maelstrom Pulse
 1 Unearth
 2 Unearth
 2 Mountain
-1 Barren Moor
 1 Wrenn and Six
+1 Barren Moor
 1 Bloodbraid Elf
 1 Raging Ravine
 2 Kolaghan's Command
@@ -75,12 +75,12 @@
 3 Grim Flayer
 3 Overgrown Tomb
 3 Kitchen Finks
-4 Kitchen Finks
 4 Overgrown Tomb
+4 Kitchen Finks
+1 Prismatic Vista
 1 Castle Embereth
 1 Ransack the Lab
 1 Castle Locthwain
-1 Prismatic Vista
 1 Lightning Skelemental
 1 Dreadbore
 1 Cling to Dust
@@ -91,11 +91,11 @@
 2 Lightning Skelemental
 2 Seasoned Pyromancer
 2 Cling to Dust
-3 Unearth
 3 Marsh Flats
 3 Ransack the Lab
 3 Lightning Skelemental
 3 Seasoned Pyromancer
+3 Unearth
 4 Lightning Skelemental
 4 Seasoned Pyromancer
 4 Ransack the Lab
@@ -106,11 +106,11 @@
 2 Wooded Foothills
 2 Mogg War Marshal
 4 Munitions Expert
-1 Sacred Foundry
 1 Ketria Triome
+1 Sacred Foundry
+1 Goblin Warchief
 1 Steam Vents
 1 Greater Gargadon
-1 Goblin Warchief
 1 Manamorphose
 1 Frogtosser Banneret
 1 Goblin King
@@ -119,24 +119,24 @@
 2 Greater Gargadon
 2 Frogtosser Banneret
 3 Mogg War Marshal
-3 Manamorphose
 3 Blood Crypt
+3 Manamorphose
 3 Grumgully, the Generous
 3 Greater Gargadon
 3 Murderous Redcap
 3 Wooded Foothills
+4 Blood Crypt
 4 Manamorphose
 4 Murderous Redcap
-4 Blood Crypt
-1 Grim Lavamancer
-1 Gemstone Caverns
-2 Grim Lavamancer
 1 Mogg Fanatic
 1 Fiery Islet
 2 Sling-Gang Lieutenant
+1 Grim Lavamancer
+1 Gemstone Caverns
+2 Grim Lavamancer
 1 Tireless Tracker
-1 Kalitas, Traitor of Ghet
 1 Liliana, the Last Hope
+1 Kalitas, Traitor of Ghet
 1 Hissing Quagmire
 2 Tireless Tracker
 2 Hissing Quagmire
