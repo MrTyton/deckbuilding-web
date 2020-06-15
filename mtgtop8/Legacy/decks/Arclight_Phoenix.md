@@ -1,0 +1,24 @@
+# Arclight Phoenix
+
+#### [Export MTGO List](../collection/Arclight%20Phoenix/Arclight%20Phoenix.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arclight%20Phoenix%0A2%09Bedlam%20Reveler%0A4%09Blistercoil%20Weird%0A4%09Chain%20Lightning%0A3%09Crash%20Through%0A4%09Faithless%20Looting%0A2%09Fireblast%0A4%09Lava%20Dart%0A2%09Light%20Up%20the%20Stage%0A4%09Lightning%20Bolt%0A4%09Manamorphose%0A4%09Monastery%20Swiftspear%0A19%09Mountain&deckside=2%09Abrade%0A1%09Price%20of%20Progress%0A2%09Ravenous%20Trap%0A4%09Red%20Elemental%20Blast%0A1%09Shenanigans%0A3%09Smash%20to%20Smithereens%0A2%09Sulfuric%20Vortex)
+# Maindeck
+
+|                                          Creature (14)                                          |                                      Instant (14)                                       |                                      Land (19)                                       |                                         Sorcery (13)                                          |
+|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|4 [Arclight Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452841)    |2 [Fireblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189239)   |19 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)|4 [Chain Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446139)   |
+|2 [Bedlam Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414415)      |4 [Lava Dart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29766)    |                                                                                      |3 [Crash Through](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430777)     |
+|4 [Blistercoil Weird](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=289222)   |4 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806) |                                                                                      |4 [Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389512) |
+|4 [Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706)|4 [Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)|                                                                                      |2 [Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)|
+
+
+# Sideboard
+
+|                                      Enchantment (2)                                       |                                          Instant (12)                                           |                                      Sorcery (1)                                       |
+|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|2 [Sulfuric Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382379)|2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)              |1 [Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)|
+|                                                                                            |1 [Price of Progress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413683)   |                                                                                        |
+|                                                                                            |2 [Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)       |                                                                                        |
+|                                                                                            |4 [Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)    |                                                                                        |
+|                                                                                            |3 [Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|                                                                                        |
+

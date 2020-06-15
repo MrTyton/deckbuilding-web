@@ -10,10 +10,10 @@
 1 Blooming Marsh
 2 Blooming Marsh
 2 Overgrown Tomb
-3 Overgrown Tomb
 3 Blooming Marsh
-4 Overgrown Tomb
+3 Overgrown Tomb
 4 Blooming Marsh
+4 Overgrown Tomb
 1 Mountain
 1 Thoughtseize
 2 Thoughtseize
@@ -23,15 +23,15 @@
 2 Stomping Ground
 3 Stomping Ground
 1 Chevill, Bane of Monsters
-1 Scavenging Ooze
 1 Dreadbore
 1 Blood Crypt
 1 Kolaghan's Command
 1 Kroxa, Titan of Death's Hunger
-1 Grim Flayer
 1 Abrupt Decay
+1 Grim Flayer
 1 Unbridled Growth
 1 Dead Weight
+1 Scavenging Ooze
 2 Chevill, Bane of Monsters
 2 Blood Crypt
 2 Grim Flayer
@@ -135,6 +135,7 @@
 1 Eldrazi Displacer
 2 Eldrazi Displacer
 3 Eldrazi Displacer
+1 Wastes
 1 Shefet Dunes
 1 Trial of Ambition
 1 Omen of the Sea
@@ -146,7 +147,6 @@
 1 Elspeth Conquers Death
 1 Thought-Knot Seer
 1 Charming Prince
-1 Wastes
 1 Ipnu Rivulet
 1 Brain Maggot
 2 Trial of Ambition
@@ -188,6 +188,7 @@
 2 Clifftop Retreat
 3 Clifftop Retreat
 1 Reflector Mage
+1 Temple of Triumph
 1 Hanged Executioner
 1 Castle Embereth
 1 Steam Vents
@@ -200,7 +201,6 @@
 1 Bonecrusher Giant
 1 Cloudblazer
 1 Blast Zone
-1 Temple of Triumph
 2 Reflector Mage
 2 Hanged Executioner
 2 Steam Vents
@@ -219,9 +219,9 @@
 3 Hanged Executioner
 3 Steam Vents
 3 Raugrin Triome
-3 Chandra, Acolyte of Flame
 3 Chained to the Rocks
 3 Agent of Treachery
+3 Chandra, Acolyte of Flame
 3 Fire Prophecy
 3 Phyrexian Revoker
 3 Lavinia of the Tenth
@@ -353,8 +353,8 @@
 4 Swamp
 1 Karn, Scion of Urza
 1 Gideon of the Trials
-1 Heart of Kiran
 1 Pack Rat
+1 Heart of Kiran
 1 Castle Locthwain
 1 Heliod, Sun-Crowned
 1 Castle Ardenvale
@@ -391,9 +391,9 @@
 1 Angrath's Marauders
 1 Scampering Scorcher
 1 Rootbound Crag
-2 Goblin Rabblemaster
-2 Legion Warboss
 2 Temple Garden
+2 Legion Warboss
+2 Goblin Rabblemaster
 2 Selfless Spirit
 2 Sunpetal Grove
 2 Voice of Resurgence
@@ -404,8 +404,8 @@
 2 Rootbound Crag
 2 Elvish Mystic
 2 Eldritch Evolution
-3 Legion Warboss
 3 Temple Garden
+3 Legion Warboss
 3 Voice of Resurgence
 3 Llanowar Elves
 3 Elvish Mystic
@@ -419,7 +419,6 @@
 4 Stomping Ground
 4 Llanowar Elves
 4 Angrath's Marauders
-1 Chamber Sentry
 1 Evolutionary Leap
 1 Hardened Scales
 1 Urborg, Tomb of Yawgmoth
@@ -427,10 +426,11 @@
 1 Winding Constrictor
 1 Llanowar Wastes
 1 Steel Overseer
+1 Chamber Sentry
 1 The Ozolith
-2 Chamber Sentry
 2 Winding Constrictor
 2 Steel Overseer
+2 Chamber Sentry
 2 The Ozolith
 2 Hardened Scales
 2 Metallic Mimic

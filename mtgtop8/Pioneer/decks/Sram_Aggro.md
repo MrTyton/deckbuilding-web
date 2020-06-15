@@ -69,7 +69,7 @@
 |                     |                                                                                                  |                    2|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)            |
 |                     |                                                                                                  |                    3|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)          |
 |                     |                                                                                                  |                    3|[Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191083)                      |
-|                     |                                                                                                  |                    3|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)            |
 |                     |                                                                                                  |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)               |
+|                     |                                                                                                  |                    3|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)            |
 |                     |                                                                                                  |                    1|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)          |
 
