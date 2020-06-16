@@ -130,14 +130,6 @@
 3 Marsh Flats
 3 Kolaghan's Command
 4 Dark Confidant
-1 Light Up the Stage
-1 Collective Brutality
-2 Light Up the Stage
-3 Light Up the Stage
-3 Blood Crypt
-3 Lava Dart
-4 Light Up the Stage
-4 Blood Crypt
 2 Drown in the Loch
 3 Force of Negation
 4 Darkslick Shores
@@ -150,6 +142,14 @@
 3 Pillage
 3 Windswept Heath
 4 Windswept Heath
+1 Light Up the Stage
+1 Collective Brutality
+2 Light Up the Stage
+3 Light Up the Stage
+3 Blood Crypt
+3 Lava Dart
+4 Light Up the Stage
+4 Blood Crypt
 1 Plains
 1 Giver of Runes
 1 Stoneforge Mystic
@@ -194,8 +194,8 @@
 4 Magnetic Theft
 4 Inkmoth Nexus
 4 Giver of Runes
-4 Stoneforge Mystic
 4 Colossus Hammer
+4 Stoneforge Mystic
 4 Steelshaper's Gift
 4 Sigarda's Aid
 4 Kor Outfitter

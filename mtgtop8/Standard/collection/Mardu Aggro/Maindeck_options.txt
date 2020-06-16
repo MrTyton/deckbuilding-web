@@ -5,21 +5,21 @@
 3 Swamp
 2 Fabled Passage
 1 Castle Locthwain
-1 Call of the Death-Dweller
 1 Serrated Scorpion
+1 Dreadhorde Butcher
 1 Claim the Firstborn
 1 Witch's Oven
 1 Cauldron Familiar
 1 Cruel Celebrant
-1 Dreadhorde Butcher
 1 Priest of Forgotten Gods
+1 Call of the Death-Dweller
+2 Dreadhorde Butcher
 2 Claim the Firstborn
 2 Call of the Death-Dweller
 2 Castle Locthwain
 2 Cruel Celebrant
 2 Witch's Oven
 2 Cauldron Familiar
-2 Dreadhorde Butcher
 2 Serrated Scorpion
 2 Priest of Forgotten Gods
 3 Claim the Firstborn
@@ -69,10 +69,10 @@
 3 Mountain
 1 Rotting Regisaur
 2 Rotting Regisaur
-3 Rotting Regisaur
 3 Drill Bit
-4 Rotting Regisaur
+3 Rotting Regisaur
 4 Drill Bit
+4 Rotting Regisaur
 4 Savai Triome
 1 Kroxa, Titan of Death's Hunger
 4 Dire Tactics
@@ -84,36 +84,6 @@
 2 Chance for Glory
 1 Robber of the Rich
 2 Robber of the Rich
-1 Judith, the Scourge Diva
-1 Hero of Precinct One
-1 General's Enforcer
-1 Castle Ardenvale
-1 General Kudro of Drannith
-1 Giant Killer
-1 Law-Rune Enforcer
-1 Gods Willing
-1 Tajic, Legion's Edge
-2 Judith, the Scourge Diva
-2 Hero of Precinct One
-2 Tajic, Legion's Edge
-2 General's Enforcer
-2 Law-Rune Enforcer
-2 General Kudro of Drannith
-3 General Kudro of Drannith
-3 Hero of Precinct One
-3 Tajic, Legion's Edge
-3 General's Enforcer
-4 Hero of Precinct One
-4 General's Enforcer
-4 General Kudro of Drannith
-1 Footlight Fiend
-2 Footlight Fiend
-3 Footlight Fiend
-4 Footlight Fiend
-1 Venerated Loxodon
-2 Venerated Loxodon
-3 Venerated Loxodon
-4 Venerated Loxodon
 1 Weaponize the Monsters
 1 Sorin, Vengeful Bloodlord
 1 Midnight Reaper
@@ -123,16 +93,46 @@
 1 Syr Gwyn, Hero of Ashvale
 2 Luminous Broodmoth
 2 Weaponize the Monsters
-2 Midnight Reaper
 2 Sorin, Vengeful Bloodlord
 2 Colossus Hammer
+2 Midnight Reaper
 2 Fling
+3 Fabled Passage
 3 Luminous Broodmoth
 3 Sorin, Vengeful Bloodlord
-3 Fabled Passage
 3 Colossus Hammer
-4 Luminous Broodmoth
 4 Fabled Passage
+4 Luminous Broodmoth
+1 Footlight Fiend
+2 Footlight Fiend
+3 Footlight Fiend
+4 Footlight Fiend
+1 Venerated Loxodon
+2 Venerated Loxodon
+3 Venerated Loxodon
+4 Venerated Loxodon
+1 Judith, the Scourge Diva
+1 General's Enforcer
+1 Tajic, Legion's Edge
+1 Castle Ardenvale
+1 Hero of Precinct One
+1 General Kudro of Drannith
+1 Giant Killer
+1 Law-Rune Enforcer
+1 Gods Willing
+2 Judith, the Scourge Diva
+2 Hero of Precinct One
+2 General's Enforcer
+2 Tajic, Legion's Edge
+2 Law-Rune Enforcer
+2 General Kudro of Drannith
+3 General Kudro of Drannith
+3 Hero of Precinct One
+3 General's Enforcer
+3 Tajic, Legion's Edge
+4 Hero of Precinct One
+4 General Kudro of Drannith
+4 General's Enforcer
 1 Redcap Melee
 4 Smitten Swordmaster
 1 Hushbringer
@@ -146,8 +146,8 @@
 4 Mountain
 1 Charmed Stray
 1 Snapdax, Apex of the Hunt
-1 Kaheera, the Orphanguard
 1 Dead Weight
+1 Kaheera, the Orphanguard
 1 Lurrus of the Dream-Den
 1 Twilight Panther
 1 Necropanther

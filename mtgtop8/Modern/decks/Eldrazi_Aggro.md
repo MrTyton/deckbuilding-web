@@ -55,6 +55,6 @@
 |                    1|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)       |                     |                                                                                                    |
 |                    2|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)       |                     |                                                                                                    |
 |                    3|[Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407694)                   |                     |                                                                                                    |
-|                    1|[Radiant Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438810)         |                     |                                                                                                    |
 |                    2|[Mind Stone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135280)               |                     |                                                                                                    |
+|                    1|[Radiant Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438810)         |                     |                                                                                                    |
 

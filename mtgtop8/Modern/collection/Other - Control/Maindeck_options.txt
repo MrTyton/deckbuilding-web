@@ -37,8 +37,8 @@
 3 Cryptic Command
 4 Wilderness Reclamation
 4 Archmage's Charm
-4 Remand
 4 Cryptic Command
+4 Remand
 2 Abrupt Decay
 1 Drown in the Loch
 1 Thought Scour
@@ -67,12 +67,10 @@
 1 Ketria Triome
 1 Time Warp
 4 Wrenn and Six
-1 Sakura-Tribe Scout
-1 Fires of Invention
 1 Primal Command
 1 Simic Growth Chamber
-1 Raging Ravine
 1 Realm-Cloaked Giant
+1 Fires of Invention
 1 Courser of Kruphix
 1 Arboreal Grazer
 1 Golos, Tireless Pilgrim
@@ -82,7 +80,9 @@
 1 Castle Garenbrig
 1 Glen Elendra Archmage
 1 Wooded Foothills
+1 Raging Ravine
 1 Primeval Titan
+1 Sakura-Tribe Scout
 2 Sakura-Tribe Scout
 2 Fires of Invention
 2 Teferi, Time Raveler
@@ -96,17 +96,17 @@
 2 Primeval Titan
 2 Courser of Kruphix
 3 Sakura-Tribe Scout
-3 Fires of Invention
 3 Wooded Foothills
 3 Teferi, Time Raveler
+3 Fires of Invention
 3 Courser of Kruphix
 3 Primeval Titan
 3 Primal Command
 3 Arboreal Grazer
 3 Castle Garenbrig
 4 Sakura-Tribe Scout
-4 Fires of Invention
 4 Arboreal Grazer
+4 Fires of Invention
 4 Flooded Strand
 4 Primeval Titan
 4 Primal Command
@@ -162,9 +162,6 @@
 2 Ketria Triome
 3 Time Warp
 4 Time Warp
-1 Blast Zone
-3 Thought Scour
-4 Thought Scour
 1 Thing in the Ice
 1 Search for Azcanta
 1 Nihil Spellbomb
@@ -175,9 +172,6 @@
 3 Thing in the Ice
 3 Inquisition of Kozilek
 4 Thing in the Ice
-1 Hieroglyphic Illumination
-2 Hieroglyphic Illumination
-7 Snow-Covered Island
 1 Jace, Vryn's Prodigy
 1 Thoughtseize
 1 Delver of Secrets
@@ -189,3 +183,9 @@
 3 Jace, Vryn's Prodigy
 3 Delver of Secrets
 4 Delver of Secrets
+1 Hieroglyphic Illumination
+2 Hieroglyphic Illumination
+7 Snow-Covered Island
+1 Blast Zone
+3 Thought Scour
+4 Thought Scour

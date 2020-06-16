@@ -68,8 +68,8 @@
 4 Whisper Squad
 4 Fiend Artisan
 4 Orzhov Enforcer
-1 Bastion of Remembrance
 1 Luminous Broodmoth
+1 Bastion of Remembrance
 2 Luminous Broodmoth
 3 Midnight Reaper
 3 Luminous Broodmoth
@@ -87,7 +87,6 @@
 1 Tournament Grounds
 1 Fervent Champion
 1 Sacred Foundry
-2 Stormfist Crusader
 2 Knight of the Ebon Legion
 2 Fight as One
 2 Tournament Grounds
@@ -98,6 +97,7 @@
 2 Worthy Knight
 2 Inspiring Veteran
 2 Blacklance Paragon
+2 Stormfist Crusader
 3 Blood Crypt
 3 Worthy Knight
 3 Fervent Champion
@@ -134,7 +134,6 @@
 2 Tithe Taker
 1 Murderous Rider
 1 Yarok's Fenlurker
-1 Cavalier of Dawn
 1 Treacherous Blessing
 1 Basilica Bell-Haunt
 1 Field of Ruin
@@ -147,32 +146,29 @@
 1 Sorin, Vengeful Bloodlord
 1 Wishclaw Talisman
 1 Leyline of Sanctity
-2 Yarok's Fenlurker
+1 Cavalier of Dawn
 2 Kaya, Orzhov Usurper
-2 Basilica Bell-Haunt
+2 Yarok's Fenlurker
 2 Murderous Rider
+2 Basilica Bell-Haunt
 2 Erebos's Intervention
 2 Kaya's Wrath
 2 Sorin, Vengeful Bloodlord
 2 Castle Ardenvale
 2 The Birth of Meletis
 2 Elspeth Conquers Death
-3 Yarok's Fenlurker
 3 Basilica Bell-Haunt
 3 Murderous Rider
-3 Erebos's Intervention
+3 Yarok's Fenlurker
 3 Kaya's Wrath
 3 Sorin, Vengeful Bloodlord
+3 Erebos's Intervention
 1 Skyknight Vanguard
 1 Unbreakable Formation
 2 Skyknight Vanguard
 2 Unbreakable Formation
 3 Skyknight Vanguard
 4 Skyknight Vanguard
-2 Bastion of Remembrance
-2 Bolas's Citadel
-3 Bastion of Remembrance
-4 Bastion of Remembrance
 1 Dreadhorde Invasion
 1 Blood for Bones
 2 Final Payment
@@ -192,21 +188,25 @@
 2 Karametra's Blessing
 2 Temple Garden
 2 Drill Bit
-3 All That Glitters
 3 Stonecoil Serpent
-3 Dead Weight
 3 Mythos of Nethroi
-4 All That Glitters
+3 Dead Weight
+3 All That Glitters
 4 Stonecoil Serpent
 4 Dead Weight
-1 Murder
+4 All That Glitters
 1 Shadowspear
 1 Boot Nipper
 1 Pilfering Imp
 1 Memory Leak
+1 Murder
 2 Murder
 2 Memory Leak
 4 Kaya's Ghostform
+2 Bastion of Remembrance
+2 Bolas's Citadel
+3 Bastion of Remembrance
+4 Bastion of Remembrance
 1 Order of Midnight
 1 Smitten Swordmaster
 2 Order of Midnight
@@ -217,16 +217,8 @@
 4 Smitten Swordmaster
 4 Stormfist Crusader
 4 Blacklance Paragon
-1 Finale of Eternity
-1 Dawn of Hope
-1 Spark Harvest
-1 Impassioned Orator
-3 Omen of the Dead
-4 Omen of the Dead
-10 Plains
 1 Elspeth, Sun's Nemesis
 1 Liliana, Dreadhorde General
-1 Daxos, Blessed by the Sun
 1 Mortify
 1 Foreboding Fruit
 1 Grasping Thrull
@@ -235,6 +227,7 @@
 1 Ajani, Strength of the Pride
 1 Consecrate / Consume
 1 Ob Nixilis, the Hate-Twisted
+1 Daxos, Blessed by the Sun
 2 Blade Juggler
 2 Imperious Oligarch
 2 Consecrate / Consume
@@ -248,3 +241,10 @@
 4 Blade Juggler
 4 Orzhov Guildgate
 4 Imperious Oligarch
+1 Finale of Eternity
+1 Dawn of Hope
+1 Spark Harvest
+1 Impassioned Orator
+3 Omen of the Dead
+4 Omen of the Dead
+10 Plains

@@ -17,17 +17,17 @@
 1 Steam Vents
 1 Scalding Tarn
 1 Snapcaster Mage
-2 Stubborn Denial
 2 Thought Scour
 2 Watery Grave
 2 Snapcaster Mage
 2 Scalding Tarn
 2 Polluted Delta
 2 Kroxa, Titan of Death's Hunger
-3 Stubborn Denial
+2 Stubborn Denial
 3 Kroxa, Titan of Death's Hunger
 3 Thought Scour
 3 Polluted Delta
+3 Stubborn Denial
 3 Scalding Tarn
 4 Thought Scour
 4 Polluted Delta
@@ -58,7 +58,18 @@
 2 Nurturing Peatland
 3 Nurturing Peatland
 4 Traverse the Ulvenwald
-1 Street Wraith
+1 Wild Nacatl
+1 Dryad Arbor
+2 Wild Nacatl
+3 Wild Nacatl
+4 Wooded Foothills
+4 Wild Nacatl
+1 Snow-Covered Mountain
+1 Delver of Secrets
+2 Delver of Secrets
+3 Delver of Secrets
+4 Delver of Secrets
+4 Stubborn Denial
 1 Kaya's Guile
 1 Tidehollow Sculler
 1 Stoneforge Mystic
@@ -68,10 +79,10 @@
 1 Silent Clearing
 1 Marsh Flats
 1 Sword of Feast and Famine
+1 Street Wraith
 1 Plains
 1 Ranger-Captain of Eos
 2 Swamp
-2 Street Wraith
 2 Ranger-Captain of Eos
 2 Tidehollow Sculler
 2 Stoneforge Mystic
@@ -79,32 +90,21 @@
 2 Marsh Flats
 2 Silent Clearing
 2 Godless Shrine
-3 Street Wraith
+2 Street Wraith
 3 Marsh Flats
-3 Godless Shrine
 3 Ranger-Captain of Eos
+3 Godless Shrine
 3 Tidehollow Sculler
 3 Stoneforge Mystic
+3 Street Wraith
 3 Silent Clearing
-4 Street Wraith
 4 Marsh Flats
 4 Stoneforge Mystic
 4 Silent Clearing
 4 Ranger-Captain of Eos
 4 Tidehollow Sculler
 4 Godless Shrine
-1 Snow-Covered Mountain
-1 Delver of Secrets
-2 Delver of Secrets
-3 Delver of Secrets
-4 Stubborn Denial
-4 Delver of Secrets
-1 Wild Nacatl
-1 Dryad Arbor
-2 Wild Nacatl
-3 Wild Nacatl
-4 Wooded Foothills
-4 Wild Nacatl
+4 Street Wraith
 1 Lava Dart
 1 Manamorphose
 1 Abbot of Keral Keep

@@ -1,57 +1,35 @@
-5 Forest
+2 Steam Vents
+3 Steam Vents
 2 Ketria Triome
-1 Stomping Ground
-4 Shark Typhoon
-2 Stomping Ground
+4 Mystical Dispute
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+1 Negate
+4 Steam Vents
 3 Ketria Triome
+1 Stomping Ground
+3 Nissa, Who Shakes the World
+1 Aether Gust
+2 Aether Gust
+1 Sinister Sabotage
+2 Sinister Sabotage
+4 Ketria Triome
+2 Stomping Ground
 3 Stomping Ground
 3 Bonecrusher Giant
-1 Spectral Sailor
 1 Brineborn Cutthroat
 2 Brineborn Cutthroat
 3 Brineborn Cutthroat
-4 Brineborn Cutthroat
-1 Sea-Dasher Octopus
-2 Sea-Dasher Octopus
-3 Sea-Dasher Octopus
-6 Forest
-8 Island
-2 Spectral Sailor
-3 Neutralize
-4 Bonecrusher Giant
-4 Sea-Dasher Octopus
-9 Island
-3 Spectral Sailor
-4 Spectral Sailor
-1 Ionize
-2 Ionize
-4 Neutralize
-1 Shock
-1 Temple of Epiphany
-2 Shock
-2 Temple of Epiphany
-2 Mountain
-3 Ionize
-3 Temple of Epiphany
-3 Mountain
-4 Temple of Epiphany
-4 Ionize
-4 Mountain
-5 Mountain
-1 Sinister Sabotage
-2 Sinister Sabotage
-3 Quench
-1 Stern Dismissal
-2 Stern Dismissal
-1 Pteramander
-2 Pteramander
-3 Pteramander
-4 Pteramander
-1 Nissa, Who Shakes the World
-2 Nissa, Who Shakes the World
-4 Temple of Mystery
-4 Ketria Triome
+2 Negate
+7 Forest
 2 Uro, Titan of Nature's Wrath
+4 Brineborn Cutthroat
+4 Bonecrusher Giant
+1 Spectral Sailor
+8 Island
+3 Neutralize
+3 Quench
+3 Sinister Sabotage
 1 Wilderness Reclamation
 1 Expansion/Explosion
 2 Expansion/Explosion
@@ -59,20 +37,28 @@
 3 Wilderness Reclamation
 3 Expansion/Explosion
 4 Wilderness Reclamation
+1 Chemister's Insight
+1 Sea-Dasher Octopus
+2 Sea-Dasher Octopus
+3 Sea-Dasher Octopus
+4 Stomping Ground
+9 Island
+2 Spectral Sailor
+1 Zagoth Triome
 1 Cunning Nightbonder
 2 Cunning Nightbonder
-4 Stomping Ground
-1 Negate
-3 Shock
-6 Mountain
+4 Sea-Dasher Octopus
+1 Mystic Subdual
+3 Spectral Sailor
+4 Spectral Sailor
+10 Island
 3 Cunning Nightbonder
-1 Zagoth Triome
-3 Stern Dismissal
-3 Sinister Sabotage
-1 Opt
-2 Opt
-1 Aether Gust
-2 Aether Gust
+1 Ionize
+2 Ionize
+1 Omen of the Sea
+2 Omen of the Sea
+3 Omen of the Sea
+4 Omen of the Sea
 1 Swamp
 1 Watery Grave
 2 Swamp
@@ -82,8 +68,25 @@
 4 Swamp
 4 Watery Grave
 5 Swamp
-2 Negate
-10 Island
+4 Neutralize
+1 Shock
+1 Temple of Epiphany
+2 Shock
+2 Temple of Epiphany
+2 Mountain
+3 Temple of Epiphany
+3 Ionize
+3 Mountain
+4 Temple of Epiphany
+4 Ionize
+4 Mountain
+5 Mountain
+1 Stern Dismissal
+2 Stern Dismissal
+4 Nissa, Who Shakes the World
+8 Forest
+9 Forest
+10 Forest
 1 Paradise Druid
 2 Paradise Druid
 1 Fire Prophecy
@@ -93,9 +96,6 @@
 1 Dirge Bat
 6 Swamp
 7 Swamp
-1 Flame Sweep
-4 Shock
-3 Nissa, Who Shakes the World
 1 Insatiable Hemophage
 1 Knight of the Ebon Legion
 1 Pouncing Shoreshark
@@ -117,47 +117,54 @@
 4 Pouncing Shoreshark
 4 Pollywog Symbiote
 4 Stonecoil Serpent
-1 Unsummon
+1 Flame Sweep
+1 Pteramander
+2 Pteramander
+3 Pteramander
+4 Pteramander
 2 Zagoth Triome
 1 Slitherwisp
 2 Slitherwisp
 1 Skewer the Critics
 1 Risk Factor
 2 Skewer the Critics
-1 Voracious Greatshark
-7 Forest
-4 Sinister Sabotage
-4 Quench
-1 Temple of Deceit
 1 Heartless Act
+1 Temple of Deceit
 2 Heartless Act
 3 Heartless Act
-1 Omen of the Sea
 1 Essence Capture
-2 Omen of the Sea
 2 Essence Capture
-3 Omen of the Sea
-4 Omen of the Sea
 4 Cunning Nightbonder
 11 Island
+1 Disdainful Stroke
+1 Agent of Treachery
+1 Tale's End
+1 Omen of the Hunt
+2 Tale's End
+2 Agent of Treachery
+2 Omen of the Hunt
+3 Agent of Treachery
+3 Tale's End
 1 Blast Zone
-1 Chemister's Insight
 2 Chemister's Insight
+1 Whirlwind Denial
+2 Whirlwind Denial
+3 Whirlwind Denial
+1 Unsummon
 2 Flame Sweep
-2 Voracious Greatshark
-2 Unsummon
-3 Unsummon
-4 Nissa, Who Shakes the World
+3 Shock
+4 Shock
+1 Wildborn Preserver
+1 Voracious Greatshark
+1 Thryx, the Sudden Storm
+1 Ashiok's Erasure
+1 Awakening of Vitu-Ghazi
+2 Wildborn Preserver
+3 Wildborn Preserver
+4 Wildborn Preserver
 2 Risk Factor
 3 Skewer the Critics
 4 Skewer the Critics
-1 Essence Scatter
-2 Temple of Deceit
-2 Essence Scatter
-3 Temple of Deceit
-3 Slitherwisp
-4 Temple of Deceit
-4 Slitherwisp
 1 Temple of Abandon
 1 Scorching Dragonfire
 2 Temple of Abandon
@@ -165,32 +172,31 @@
 3 Scorching Dragonfire
 4 Scorching Dragonfire
 1 Dismal Backwater
-1 Threnody Singer
 1 Mutual Destruction
 1 Omen of the Dead
+1 Threnody Singer
 2 Dismal Backwater
-2 Threnody Singer
 2 Omen of the Dead
+2 Threnody Singer
 2 Mutual Destruction
 3 Dismal Backwater
 3 Mutual Destruction
+3 Stern Dismissal
 3 Essence Capture
 4 Essence Capture
 4 Mutual Destruction
-1 Raugrin Triome
-1 The Royal Scions
-1 Legion Warboss
-1 Scorch Spitter
-2 Raugrin Triome
-2 The Royal Scions
-2 Legion Warboss
-2 Scorch Spitter
-3 Legion Warboss
-3 Scorch Spitter
-4 Scorch Spitter
+1 Essence Scatter
+2 Essence Scatter
+2 Temple of Deceit
+3 Slitherwisp
+3 Temple of Deceit
+4 Slitherwisp
+4 Temple of Deceit
 3 Dirge Bat
 8 Swamp
 9 Swamp
+4 Sinister Sabotage
+4 Quench
 12 Island
 13 Island
 14 Island
@@ -198,13 +204,15 @@
 16 Island
 17 Island
 18 Island
-1 Wildborn Preserver
-1 Thryx, the Sudden Storm
-1 Ashiok's Erasure
-1 Awakening of Vitu-Ghazi
-2 Wildborn Preserver
-3 Wildborn Preserver
-4 Wildborn Preserver
-8 Forest
-9 Forest
-10 Forest
+1 The Royal Scions
+1 Legion Warboss
+1 Scorch Spitter
+1 Raugrin Triome
+2 Raugrin Triome
+2 The Royal Scions
+2 Legion Warboss
+2 Scorch Spitter
+3 Legion Warboss
+3 Scorch Spitter
+4 Scorch Spitter
+6 Mountain

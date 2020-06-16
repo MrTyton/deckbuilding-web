@@ -13,22 +13,22 @@
 1 Spike Feeder
 1 Heliod, Sun-Crowned
 1 Collected Company
-2 Spike Feeder
-2 Heliod, Sun-Crowned
 2 Ranger-Captain of Eos
 2 Collected Company
-3 Heliod, Sun-Crowned
+2 Heliod, Sun-Crowned
+2 Spike Feeder
 3 Collected Company
+3 Heliod, Sun-Crowned
 4 Collected Company
 2 Verdant Catacombs
 1 Kitchen Finks
 2 Kitchen Finks
 3 Kitchen Finks
 4 Kitchen Finks
-3 Spike Feeder
 3 Ranger-Captain of Eos
-4 Spike Feeder
+3 Spike Feeder
 4 Ranger-Captain of Eos
+4 Spike Feeder
 4 Heliod, Sun-Crowned
 3 Wooded Foothills
 1 Misty Rainforest
@@ -47,7 +47,6 @@
 1 Agent of Treachery
 1 Snow-Covered Island
 1 Abundant Growth
-1 Winota, Joiner of Forces
 1 Coiling Oracle
 1 Sacred Foundry
 1 Seasoned Pyromancer
@@ -58,6 +57,7 @@
 1 Stomping Ground
 1 Ice-Fang Coatl
 1 Steam Vents
+1 Winota, Joiner of Forces
 1 Sakura-Tribe Scout
 1 Pia Nalaar
 1 Wrenn and Six
@@ -65,13 +65,13 @@
 1 Arcum's Astrolabe
 1 Snow-Covered Mountain
 1 Auratouched Mage
-2 Agent of Treachery
 2 Sakura-Tribe Scout
+2 Agent of Treachery
 2 Prismatic Vista
 2 Abundant Growth
-2 Winota, Joiner of Forces
 2 Coiling Oracle
 2 Seasoned Pyromancer
+2 Winota, Joiner of Forces
 2 Snow-Covered Island
 2 Arcum's Astrolabe
 2 Wrenn and Six
@@ -81,21 +81,20 @@
 2 Arboreal Grazer
 2 Colossification
 2 Auratouched Mage
-3 Agent of Treachery
 3 Sakura-Tribe Scout
 3 Misty Rainforest
+3 Agent of Treachery
 3 Prismatic Vista
 3 Abundant Growth
-3 Winota, Joiner of Forces
 3 Wrenn and Six
 3 Seasoned Pyromancer
 3 Arboreal Grazer
 3 Arcum's Astrolabe
+3 Winota, Joiner of Forces
 3 Coiling Oracle
 3 Eldritch Evolution
 4 Misty Rainforest
 4 Prismatic Vista
-4 Winota, Joiner of Forces
 4 Wooded Foothills
 4 Abundant Growth
 4 Agent of Treachery
@@ -104,6 +103,7 @@
 4 Sakura-Tribe Scout
 4 Arboreal Grazer
 4 Coiling Oracle
+4 Winota, Joiner of Forces
 4 Eldritch Evolution
 4 Arcum's Astrolabe
 2 Spellskite
@@ -124,10 +124,10 @@
 1 Path to Exile
 2 Path to Exile
 3 Path to Exile
-1 Eternal Witness
-1 Swamp
-1 Gavony Township
 1 Shalai, Voice of Plenty
+1 Eternal Witness
+1 Gavony Township
+1 Swamp
 2 Eternal Witness
 2 Gavony Township
 3 Chord of Calling
@@ -135,9 +135,9 @@
 1 Eldrazi Displacer
 1 Brushland
 1 Zirda, the Dawnwaker
-2 Brushland
 2 Zirda, the Dawnwaker
 2 Eldrazi Displacer
+2 Brushland
 3 Brushland
 3 Temple Garden
 3 Walking Ballista

@@ -1,42 +1,43 @@
-3 Snapcaster Mage
-3 Opt
-4 Opt
-1 Mountain
-1 Lightning Bolt
-2 Steam Vents
-2 Lightning Bolt
-3 Lightning Bolt
-4 Lightning Bolt
+3 Emry, Lurker of the Loch
+4 Emry, Lurker of the Loch
+2 Galvanic Blast
+2 Mystic Sanctuary
+1 Hallowed Fountain
 1 Archmage's Charm
 2 Archmage's Charm
+3 Archmage's Charm
+1 Cryptic Command
+2 Cryptic Command
+1 Snapcaster Mage
+1 Opt
+1 Lightning Bolt
+2 Snapcaster Mage
+2 Steam Vents
+2 Lightning Bolt
+2 Opt
+3 Snapcaster Mage
+3 Lightning Bolt
+3 Opt
+4 Opt
+4 Lightning Bolt
+1 Remand
+2 Remand
+7 Snow-Covered Island
+1 Island
+1 Mountain
+1 Magmatic Sinkhole
 1 Serum Visions
-2 Island
+1 Thing in the Ice
+2 Thing in the Ice
 2 Serum Visions
+2 Island
 3 Island
 4 Island
 5 Island
 6 Island
-1 Magmatic Sinkhole
-1 Thing in the Ice
-1 Remand
-2 Remand
-2 Thing in the Ice
 7 Island
-1 Cryptic Command
-2 Cryptic Command
-1 Snow-Covered Swamp
-1 Watery Grave
 1 Force of Negation
 2 Force of Negation
-1 Hallowed Fountain
-3 Archmage's Charm
-1 Damping Sphere
-3 Emry, Lurker of the Loch
-4 Emry, Lurker of the Loch
-1 Galvanic Blast
-2 Galvanic Blast
-3 Serum Visions
-4 Serum Visions
 1 Brazen Borrower
 1 The Royal Scions
 1 Spell Pierce
@@ -44,35 +45,40 @@
 2 Bonecrusher Giant
 3 Remand
 3 Thing in the Ice
-1 Talisman of Dominance
-2 Hallowed Fountain
-1 Teferi, Time Raveler
-4 Snapcaster Mage
-3 Steam Vents
-1 Mana Leak
-2 Mana Leak
-1 Sacred Foundry
-2 Sacred Foundry
+3 Serum Visions
+4 Serum Visions
 1 Mox Amber
 1 Engineered Explosives
 2 Engineered Explosives
 2 Mox Amber
-1 Snow-Covered Plains
 3 Galvanic Blast
-4 Whir of Invention
+1 Snow-Covered Plains
+1 Teferi, Time Raveler
 1 Cascade Bluffs
 2 Brazen Borrower
 2 The Royal Scions
 2 Spell Pierce
 4 Archmage's Charm
-8 Island
 1 Deprive
+3 Steam Vents
+1 Misty Rainforest
+4 Snapcaster Mage
+1 Sacred Foundry
+2 Sacred Foundry
+2 Hallowed Fountain
+4 Whir of Invention
 2 Teferi, Time Raveler
+1 Inventors' Fair
+8 Island
+1 Metallic Rebuke
+2 Metallic Rebuke
+1 Sunken Hollow
 1 Sulfur Falls
-1 Nihil Spellbomb
+1 Mana Leak
+2 Mana Leak
 1 Soul-Guide Lantern
-1 Raugrin Triome
 1 Ichor Wellspring
+1 Raugrin Triome
 2 Snow-Covered Plains
 2 Damping Sphere
 2 Soul-Guide Lantern
@@ -80,61 +86,69 @@
 2 Raugrin Triome
 3 Soul-Guide Lantern
 1 Spell Snare
-1 Misty Rainforest
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-1 Inventors' Fair
+2 Misty Rainforest
+2 Talisman of Dominance
+3 Mystic Sanctuary
 4 Galvanic Blast
 1 Electrolyze
-1 Logic Knot
-1 Plains
 1 Path to Exile
 2 Path to Exile
 3 Path to Exile
-4 Path to Exile
 1 Seachrome Coast
-1 Celestial Colonnade
-1 Batterskull
 1 Stoneforge Mystic
-1 Lightning Helix
-1 Sword of Fire and Ice
-1 Sphinx's Revelation
+1 Batterskull
+1 Celestial Colonnade
 1 Supreme Verdict
+1 Sword of Fire and Ice
+1 Lightning Helix
+1 Sphinx's Revelation
 1 Spirebluff Canal
+1 Logic Knot
+1 Plains
+2 Stoneforge Mystic
 2 Seachrome Coast
 2 Celestial Colonnade
-2 Stoneforge Mystic
 2 Supreme Verdict
 2 Logic Knot
 2 Sphinx's Revelation
 2 Lightning Helix
-3 Celestial Colonnade
 3 Stoneforge Mystic
+3 Celestial Colonnade
 3 Lightning Helix
 4 Lightning Helix
 4 Celestial Colonnade
+4 Path to Exile
 1 Blood Moon
-1 Ral, Izzet Viceroy
-1 Flame Slash
-1 Quicken
-1 Day's Undoing
 1 Abrade
+1 Flame Slash
+1 Narset, Parter of Veils
+1 Quicken
+1 Ral, Izzet Viceroy
+1 Day's Undoing
 2 Spell Snare
 2 Blood Moon
+2 Narset, Parter of Veils
 2 Sulfur Falls
-7 Snow-Covered Island
-1 Metallic Rebuke
-2 Metallic Rebuke
-2 Talisman of Dominance
-2 Misty Rainforest
+4 Remand
+8 Snow-Covered Island
+1 Fatal Push
+1 Inquisition of Kozilek
+1 Thoughtseize
+2 Thoughtseize
+2 Fatal Push
+1 Jace, the Mind Sculptor
 3 Sword of the Meek
-1 Witching Well
+1 Drown in the Loch
+1 Breeding Pool
+1 Collective Brutality
 1 Time Sieve
+1 Witching Well
 1 Prismatic Vista
-1 Talisman of Creativity
 1 Grafdigger's Cage
+1 Talisman of Creativity
 2 Prismatic Vista
 2 Snow-Covered Mountain
+2 Snow-Covered Swamp
 1 Spellskite
 1 Unearth
 1 Blood Crypt
@@ -144,37 +158,22 @@
 2 Aether Spellbomb
 2 Nihil Spellbomb
 2 Chromatic Star
-1 Drown in the Loch
-1 Fatal Push
-1 Inquisition of Kozilek
-1 Thoughtseize
-1 Breeding Pool
-1 Collective Brutality
-2 Thoughtseize
-2 Fatal Push
-3 Mystic Sanctuary
+1 Field of Ruin
+2 Inquisition of Kozilek
+3 Fatal Push
+3 Talisman of Dominance
 1 Vendilion Clique
 3 Cryptic Command
-1 Jace, the Mind Sculptor
-1 Field of Ruin
-1 Oust
-1 Monastery Mentor
-1 Teferi, Hero of Dominaria
-1 Prairie Stream
-2 Teferi, Hero of Dominaria
-2 Plains
-2 Field of Ruin
-2 Jace, the Mind Sculptor
-2 Monastery Mentor
-2 Oust
-3 Force of Negation
-3 Narset, Parter of Veils
-3 Monastery Mentor
+1 Lonely Sandbar
+1 Talisman of Progress
+1 Relic of Progenitus
+1 Academy Ruins
+2 Talisman of Progress
+2 Relic of Progenitus
+3 Talisman of Progress
+1 Fiery Islet
 3 Misty Rainforest
 4 Misty Rainforest
 4 Steam Vents
-4 Remand
-1 Sunken Hollow
-8 Snow-Covered Island
 3 Metallic Rebuke
 4 Metallic Rebuke

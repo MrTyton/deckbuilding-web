@@ -1,10 +1,10 @@
-1 Gemrazer
-2 Pollywog Symbiote
+1 Paradise Druid
 2 Sea-Dasher Octopus
+2 Pollywog Symbiote
 2 Paradise Druid
 2 Gemrazer
-3 Cavalier of Thorns
 3 Temple of Malady
+3 Cavalier of Thorns
 1 Questing Beast
 1 Boneyard Lurker
 2 Questing Beast
@@ -19,9 +19,9 @@
 1 Auspicious Starrix
 1 Migratory Greathorn
 2 Zagoth Mamba
+2 Swamp
 2 Auspicious Starrix
 2 Migratory Greathorn
-2 Swamp
 3 Migratory Greathorn
 3 Swamp
 4 Migratory Greathorn
@@ -36,62 +36,46 @@
 4 Pollywog Symbiote
 1 Atris, Oracle of Half-Truths
 1 Fiend Artisan
-1 Thassa, Deep-Dwelling
-1 Vivien, Monsters' Advocate
 1 Kogla, the Titan Ape
+1 Vivien, Monsters' Advocate
 1 Assassin's Trophy
+1 Thassa, Deep-Dwelling
 1 Golgari Findbroker
 1 Mystical Dispute
 1 Wicked Wolf
 1 Spark Double
-2 Fiend Artisan
-2 Vivien, Monsters' Advocate
-2 Assassin's Trophy
 2 Agent of Treachery
+2 Vivien, Monsters' Advocate
+2 Fiend Artisan
+2 Assassin's Trophy
 2 Thassa, Deep-Dwelling
 3 Agent of Treachery
 3 Fiend Artisan
 3 Growth Spiral
 4 Temple of Mystery
-4 Fiend Artisan
 4 Leafkin Druid
+4 Fiend Artisan
 4 Fabled Passage
 4 Growth Spiral
 1 Brazen Borrower
 2 Brazen Borrower
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
-1 Castle Garenbrig
-1 Shifting Ceratops
-1 Brokkos, Apex of Forever
-2 Shifting Ceratops
-3 Arboreal Grazer
-4 Arboreal Grazer
-1 Neutralize
-1 Brineborn Cutthroat
-1 Slitherwisp
-1 Spectral Sailor
-1 Quench
-1 Nightpack Ambusher
-1 Heartless Act
-1 Frilled Mystic
-2 Neutralize
-2 Slitherwisp
-2 Brineborn Cutthroat
-2 Quench
-2 Nightpack Ambusher
-2 Heartless Act
-2 Spectral Sailor
-2 Frilled Mystic
-3 Slitherwisp
-3 Brineborn Cutthroat
-3 Quench
-3 Brazen Borrower
-3 Frilled Mystic
-4 Frilled Mystic
-4 Brineborn Cutthroat
-4 Quench
-4 Brazen Borrower
+1 Knight of the Ebon Legion
+1 Stonecoil Serpent
+2 Knight of the Ebon Legion
+2 Stonecoil Serpent
+2 Boneyard Lurker
+2 Castle Locthwain
+3 Knight of the Ebon Legion
+3 Questing Beast
+3 Stonecoil Serpent
+3 Sea-Dasher Octopus
+3 Dirge Bat
+3 Insatiable Hemophage
+4 Stonecoil Serpent
+4 Sea-Dasher Octopus
+4 Dirge Bat
 1 Quasiduplicate
 1 Jace, Wielder of Mysteries
 1 Healer of the Glade
@@ -106,58 +90,74 @@
 3 Healer of the Glade
 3 Command the Dreadhorde
 4 Healer of the Glade
-1 Knight of the Ebon Legion
-1 Stonecoil Serpent
-2 Knight of the Ebon Legion
-2 Stonecoil Serpent
-2 Boneyard Lurker
-2 Castle Locthwain
-3 Knight of the Ebon Legion
-3 Dirge Bat
-3 Sea-Dasher Octopus
-3 Insatiable Hemophage
-3 Stonecoil Serpent
-3 Questing Beast
-4 Sea-Dasher Octopus
-4 Dirge Bat
-4 Stonecoil Serpent
+1 Brokkos, Apex of Forever
+1 Shifting Ceratops
+1 Castle Garenbrig
+2 Shifting Ceratops
+3 Arboreal Grazer
+4 Arboreal Grazer
+1 Neutralize
+1 Spectral Sailor
+1 Nightpack Ambusher
+1 Quench
+1 Slitherwisp
+1 Heartless Act
+1 Frilled Mystic
+1 Brineborn Cutthroat
+2 Neutralize
+2 Nightpack Ambusher
+2 Quench
+2 Slitherwisp
+2 Spectral Sailor
+2 Brineborn Cutthroat
+2 Frilled Mystic
+2 Heartless Act
+3 Brazen Borrower
+3 Quench
+3 Slitherwisp
+3 Brineborn Cutthroat
+3 Frilled Mystic
+4 Frilled Mystic
+4 Quench
+4 Brazen Borrower
+4 Brineborn Cutthroat
 1 The Great Henge
 1 Shadowspear
+1 Ilysian Caryatid
 1 Casualties of War
 1 Voracious Hydra
-1 Ilysian Caryatid
 1 Hydroid Krasis
 1 Rotting Regisaur
-2 Polukranos, Unchained
-2 Voracious Hydra
-2 Casualties of War
-2 Hydroid Krasis
 2 The Great Henge
+2 Polukranos, Unchained
 2 Ilysian Caryatid
+2 Casualties of War
+2 Voracious Hydra
+2 Hydroid Krasis
 2 Rotting Regisaur
 3 Nissa, Who Shakes the World
+3 Ilysian Caryatid
 3 Rotting Regisaur
 3 Polukranos, Unchained
-3 Ilysian Caryatid
 4 Cavalier of Thorns
 4 Ilysian Caryatid
-1 End-Raze Forerunners
-1 Nylea, Keen-Eyed
-1 Nethroi, Apex of Death
-1 Chittering Harvester
 1 Dreamtail Heron
+1 Nethroi, Apex of Death
+1 Nylea, Keen-Eyed
+1 Chittering Harvester
+1 End-Raze Forerunners
+2 End-Raze Forerunners
 2 Nethroi, Apex of Death
 2 Dreamtail Heron
-2 Nylea, Keen-Eyed
-2 End-Raze Forerunners
 2 Chittering Harvester
-3 Auspicious Starrix
+2 Nylea, Keen-Eyed
 3 Zagoth Mamba
-4 Island
+3 Auspicious Starrix
 4 Zagoth Mamba
 4 Auspicious Starrix
+4 Island
 4 Swamp
 5 Island
+5 Swamp
 6 Forest
 7 Forest
-5 Swamp
