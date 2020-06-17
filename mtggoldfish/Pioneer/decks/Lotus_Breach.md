@@ -52,6 +52,6 @@
 |                    1|[Dig Through Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386518)      |                    1|[Mass Manipulation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457186)        |
 |                    1|[Wolfwillow Haven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476456)      |                    1|[Ritual of Soot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452834)           |
 |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)    |                    1|[Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)|
-|                    1|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)     |                    2|[Blink of an Eye](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442934)          |
-|                    1|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)       |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)         |
+|                    1|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)       |                    2|[Blink of an Eye](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442934)          |
+|                    1|[Niv-Mizzet, Parun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452942)     |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)         |
 

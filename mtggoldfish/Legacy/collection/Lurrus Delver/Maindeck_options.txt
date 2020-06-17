@@ -1,25 +1,24 @@
+1 Young Pyromancer
 1 Thoughtseize
 2 Thoughtseize
-1 Misty Rainforest
-2 Misty Rainforest
-1 Flooded Strand
-1 Young Pyromancer
 1 Snapcaster Mage
 1 Bloodstained Mire
-2 Flooded Strand
+1 Misty Rainforest
+2 Misty Rainforest
 2 Young Pyromancer
-1 Snow-Covered Island
+1 Flooded Strand
 1 Of One Mind
 2 Of One Mind
 3 Young Pyromancer
 4 Young Pyromancer
 2 Snapcaster Mage
-4 Wasteland
+2 Flooded Strand
+1 Snow-Covered Island
 3 Of One Mind
-3 Snapcaster Mage
 3 Baleful Strix
+3 Snapcaster Mage
 4 Baleful Strix
-3 Thoughtseize
+4 Wasteland
 1 Gurmag Angler
 2 Gurmag Angler
 1 Dismember
@@ -28,6 +27,7 @@
 2 Watery Grave
 2 Death's Shadow
 3 Death's Shadow
+3 Thoughtseize
 4 Death's Shadow
 4 Thoughtseize
 4 Volcanic Island
@@ -38,6 +38,9 @@
 4 Underground Sea
 1 Liliana's Triumph
 2 Badlands
+1 Island
+1 Swamp
+1 Drown in the Loch
 1 Unearth
 3 Watery Grave
 1 Oko, Thief of Crowns
@@ -53,58 +56,56 @@
 2 Stifle
 3 Stifle
 3 Misty Rainforest
-3 Flooded Strand
 2 Spell Pierce
 3 Verdant Catacombs
 1 Liliana, the Last Hope
 2 Liliana, the Last Hope
 3 Badlands
-4 Of One Mind
 4 Snapcaster Mage
-1 Island
-1 Swamp
-1 Drown in the Loch
-1 Dark Confidant
-2 Dark Confidant
-3 Dark Confidant
-4 Dark Confidant
-1 Tundra
-1 Swords to Plowshares
-1 Meddling Mage
-2 Tundra
-2 Swords to Plowshares
-2 Meddling Mage
-3 Meddling Mage
-3 Tundra
+4 Of One Mind
+1 Urza's Bauble
+2 Urza's Bauble
+3 Urza's Bauble
+4 Urza's Bauble
+1 Engineered Explosives
 4 Stifle
-1 Brazen Borrower
-2 Brazen Borrower
 1 Ethereal Forager
 2 Ethereal Forager
-1 True-Name Nemesis
-2 True-Name Nemesis
-2 Snow-Covered Island
-1 Spell Snare
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
+1 Brazen Borrower
+2 Brazen Borrower
+2 Snow-Covered Island
+3 Flooded Strand
+1 Spell Snare
 1 Abrupt Decay
-1 Snuff Out
-1 Fiery Islet
-1 Lavinia, Azorius Renegade
-1 Seal of Fire
-2 Fiery Islet
+1 Mountain
+1 Echoing Truth
+1 Cabal Therapy
+2 Cabal Therapy
 1 Embodiment of Agonies
 2 Embodiment of Agonies
-1 Engineered Explosives
 1 Cling to Dust
 2 Drown in the Loch
 1 Nihil Spellbomb
-1 Snow-Covered Swamp
 1 Hymn to Tourach
 1 Pyroblast
+1 Snow-Covered Swamp
 2 Hymn to Tourach
 3 Kolaghan's Command
 3 Hymn to Tourach
+1 Fiery Islet
+1 Tundra
+1 Lavinia, Azorius Renegade
+1 Seal of Fire
+1 Meddling Mage
+1 Swords to Plowshares
+2 Fiery Islet
+2 Tundra
+2 Meddling Mage
+2 Swords to Plowshares
+3 Meddling Mage
+3 Tundra
 1 Tarmogoyf
 1 Leovold, Emissary of Trest
 2 Tarmogoyf
@@ -112,16 +113,11 @@
 2 Tropical Island
 3 Tropical Island
 3 Tarmogoyf
-1 Urza's Bauble
-2 Urza's Bauble
-3 Urza's Bauble
-4 Urza's Bauble
-1 Scrubland
-1 Marsh Flats
-3 Swords to Plowshares
-3 Force of Negation
-4 Flooded Strand
-4 Swords to Plowshares
+1 Dark Confidant
+1 Snuff Out
+2 Dark Confidant
+3 Dark Confidant
+4 Dark Confidant
 1 Street Wraith
 1 Stubborn Denial
 1 Breeding Pool
@@ -132,17 +128,19 @@
 2 Tarnished Citadel
 2 Berserk
 2 Lim-Dul's Vault
+3 Berserk
 3 Stubborn Denial
 3 Street Wraith
 3 Tarnished Citadel
-3 Berserk
 3 Lim-Dul's Vault
 4 Street Wraith
 4 Stubborn Denial
 4 Berserk
+1 True-Name Nemesis
 1 Misdirection
 1 Shadowspear
 1 Send to Sleep
+2 True-Name Nemesis
 3 True-Name Nemesis
 3 Brazen Borrower
 3 Ethereal Forager

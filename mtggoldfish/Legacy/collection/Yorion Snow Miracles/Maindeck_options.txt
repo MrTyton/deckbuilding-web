@@ -60,8 +60,8 @@
 4 Snow-Covered Island
 3 Verdant Catacombs
 1 Intuition
-2 Intuition
 2 Bayou
+2 Intuition
 1 Klothys, God of Destiny
 4 Verdant Catacombs
 1 Kaya, Orzhov Usurper
@@ -84,22 +84,22 @@
 2 Hymn to Tourach
 3 Snapcaster Mage
 4 Uro, Titan of Nature's Wrath
+1 Island
 1 Forest
 1 Swamp
-1 Island
 1 Cabal Therapy
 2 Cabal Therapy
 1 Cling to Dust
 2 Cling to Dust
+1 Eternal Scourge
 1 Misthollow Griffin
 1 Manipulate Fate
-1 Eternal Scourge
 1 Food Chain
 1 Walking Ballista
-2 Walking Ballista
 2 Food Chain
 2 Misthollow Griffin
 2 Manipulate Fate
+2 Walking Ballista
 3 Food Chain
 3 Misthollow Griffin
 3 Manipulate Fate
@@ -142,18 +142,18 @@
 4 Walking Ballista
 1 Ketria Triome
 1 Primeval Titan
-1 Field of the Dead
 1 Zagoth Triome
 1 Deceiver Exarch
 1 Zealous Conscripts
 1 Fiend Artisan
 1 Kiki-Jiki, Mirror Breaker
 1 Veteran Explorer
+1 Field of the Dead
 1 Birthing Pod
 1 Restoration Angel
 1 Bojuka Bog
-2 Primeval Titan
 2 Field of the Dead
+2 Primeval Titan
 2 Veteran Explorer
 2 Birthing Pod
 2 Restoration Angel
@@ -201,9 +201,9 @@
 4 Snow-Covered Forest
 4 Imperial Recruiter
 1 Ramunap Excavator
+1 Opposition
 1 Titania, Protector of Argoth
 1 Collector Ouphe
-1 Opposition
 2 Opposition
 4 Leovold, Emissary of Trest
 4 Wasteland
