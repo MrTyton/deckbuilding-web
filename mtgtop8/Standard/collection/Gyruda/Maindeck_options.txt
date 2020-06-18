@@ -1,34 +1,23 @@
-3 Island
-1 End-Raze Forerunners
 3 Wolfwillow Haven
 4 Fabled Passage
 4 Wolfwillow Haven
+1 End-Raze Forerunners
 4 Forest
 4 Island
 4 Charming Prince
 1 Dream Trawler
+3 Temple of Mystery
 1 Dream Eater
 2 Dream Eater
+1 Thassa's Oracle
 2 Dream Trawler
+4 Temple of Mystery
+2 End-Raze Forerunners
 1 Humble Naturalist
 1 Fiend Artisan
 2 Fiend Artisan
 5 Forest
 3 Migration Path
-1 Thassa's Oracle
-5 Island
-3 Dream Eater
-4 Elite Guardmage
-2 Humble Naturalist
-3 Fiend Artisan
-3 Luminous Broodmoth
-3 Humble Naturalist
-4 Humble Naturalist
-4 Temple of Mystery
-2 End-Raze Forerunners
-6 Forest
-6 Island
-7 Island
 4 Migration Path
 1 Swamp
 1 Overgrown Tomb
@@ -40,16 +29,16 @@
 3 Watery Grave
 4 Overgrown Tomb
 4 Watery Grave
+5 Island
 2 Thassa's Oracle
+3 Dream Eater
 4 Dream Eater
 1 Fae of Wishes
 2 Fae of Wishes
 3 Fae of Wishes
 4 Fae of Wishes
 2 Kogla, the Titan Ape
-1 Questing Beast
-2 Questing Beast
-2 Plains
+4 Elite Guardmage
 1 Incubation Druid
 2 Incubation Druid
 3 Temple of Enlightenment
@@ -72,10 +61,17 @@
 4 Fires of Invention
 4 Ketria Triome
 4 Steam Vents
-1 Shark Typhoon
+1 Questing Beast
+2 Humble Naturalist
+2 Questing Beast
+3 Fiend Artisan
+3 Luminous Broodmoth
+3 Humble Naturalist
+4 Humble Naturalist
 1 Essence Scatter
 1 Extinction Event
 1 Zagoth Triome
+1 Shark Typhoon
 2 Shark Typhoon
 2 Essence Scatter
 2 Extinction Event
@@ -91,11 +87,6 @@
 3 Thought Erasure
 4 Sphinx of Foresight
 4 Thought Erasure
-1 Fblthp, the Lost
-2 Fblthp, the Lost
-3 Fblthp, the Lost
-4 Fblthp, the Lost
-7 Forest
 1 Thornwood Falls
 1 Golgari Raiders
 2 Thornwood Falls
@@ -103,4 +94,7 @@
 3 Thornwood Falls
 3 Golgari Raiders
 4 Thornwood Falls
+6 Forest
+6 Island
+7 Island
 4 Golgari Raiders

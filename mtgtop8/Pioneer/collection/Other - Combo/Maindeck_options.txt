@@ -16,6 +16,7 @@
 1 Blooming Marsh
 1 Overgrown Tomb
 1 Gifted Aetherborn
+1 Vine Mare
 1 Urborg, Tomb of Yawgmoth
 1 Gather the Pack
 1 Zetalpa, Primal Dawn
@@ -24,7 +25,6 @@
 1 Rankle, Master of Pranks
 1 Questing Beast
 1 Erebos, God of the Dead
-1 Vine Mare
 1 Grisly Salvage
 1 Sunblade Angel
 1 Spark Trooper
@@ -34,13 +34,13 @@
 2 Blooming Marsh
 2 Swamp
 2 Gifted Aetherborn
+2 Vine Mare
 2 Soulflayer
 2 Lotleth Troll
 2 Zetalpa, Primal Dawn
 2 Gather the Pack
 2 Questing Beast
 2 Skull Prophet
-2 Vine Mare
 2 Grisly Salvage
 3 Overgrown Tomb
 3 Blooming Marsh
@@ -147,8 +147,8 @@
 3 Lukka, Coppercoat Outcast
 3 Mountain
 3 Forest
-3 Game Trail
 3 Rosethorn Acolyte
+3 Game Trail
 3 Bonecrusher Giant
 3 Possibility Storm
 3 Captain Lannery Storm
