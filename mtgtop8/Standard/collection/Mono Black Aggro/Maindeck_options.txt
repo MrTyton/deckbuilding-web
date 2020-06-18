@@ -44,10 +44,10 @@
 4 Cauldron Familiar
 1 Lurrus of the Dream Den
 2 Lurrus of the Dream Den
-1 Spawn of Mayhem
 1 Stonecoil Serpent
-2 Spawn of Mayhem
+1 Spawn of Mayhem
 2 Stonecoil Serpent
+2 Spawn of Mayhem
 3 Spawn of Mayhem
 4 Spawn of Mayhem
 4 Nightmare Shepherd
@@ -93,11 +93,6 @@
 2 Erebos's Intervention
 2 Woe Strider
 3 Woe Strider
-1 Foulmire Knight
-1 Erebos, Bleak-Hearted
-2 Foulmire Knight
-3 Foulmire Knight
-4 Foulmire Knight
 1 Lampad of Death's Vigil
 1 Cruel Celebrant
 1 Orzhov Guildgate
@@ -116,17 +111,11 @@
 3 Lampad of Death's Vigil
 4 Scoured Barrens
 4 Orzhov Guildgate
-1 Drag to the Underworld
-1 Davriel, Rogue Shadowmage
-2 Drag to the Underworld
-2 Davriel, Rogue Shadowmage
-3 Rankle, Master of Pranks
-3 Dread Presence
-3 Drag to the Underworld
-3 Duress
-3 Davriel, Rogue Shadowmage
-4 Drag to the Underworld
-4 Duress
+1 Foulmire Knight
+1 Erebos, Bleak-Hearted
+2 Foulmire Knight
+3 Foulmire Knight
+4 Foulmire Knight
 1 Omen of the Dead
 1 Dreadhorde Invasion
 1 Spark Harvest
@@ -144,6 +133,17 @@
 3 Witch's Cottage
 4 Murder
 4 Boot Nipper
+1 Drag to the Underworld
+1 Davriel, Rogue Shadowmage
+2 Drag to the Underworld
+2 Davriel, Rogue Shadowmage
+3 Rankle, Master of Pranks
+3 Duress
+3 Davriel, Rogue Shadowmage
+3 Dread Presence
+3 Drag to the Underworld
+4 Duress
+4 Drag to the Underworld
 1 Disfigure
 2 Disfigure
 4 Grimdancer

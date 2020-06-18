@@ -195,8 +195,8 @@
 1 Agent of Treachery
 1 Chained to the Rocks
 1 Chandra, Acolyte of Flame
-1 Fire Prophecy
 1 Lavinia of the Tenth
+1 Fire Prophecy
 1 Phyrexian Revoker
 1 Bonecrusher Giant
 1 Cloudblazer
@@ -265,11 +265,11 @@
 1 Azorius Charm
 1 Zenith Flare
 1 Shark Typhoon
+1 Flourishing Fox
 1 Hieroglyphic Illumination
 1 Castle Vantress
-1 Nimble Obstructionist
 1 Censor
-1 Flourishing Fox
+1 Nimble Obstructionist
 1 Cast Out
 1 Neutralize
 1 Supreme Verdict
@@ -277,10 +277,10 @@
 2 Sulfur Falls
 2 Azorius Charm
 2 Hieroglyphic Illumination
-2 Zenith Flare
-2 Nimble Obstructionist
-2 Shark Typhoon
 2 Flourishing Fox
+2 Zenith Flare
+2 Shark Typhoon
+2 Nimble Obstructionist
 2 Cast Out
 2 Neutralize
 2 Censor
@@ -288,22 +288,22 @@
 3 Irrigated Farmland
 3 Azorius Charm
 3 Sulfur Falls
+3 Cast Out
 3 Island
 3 Zenith Flare
 3 Hieroglyphic Illumination
-3 Flourishing Fox
 3 Neutralize
 3 Shark Typhoon
-3 Cast Out
+3 Flourishing Fox
 3 Censor
 4 Irrigated Farmland
-4 Hieroglyphic Illumination
-4 Azorius Charm
-4 Zenith Flare
-4 Flourishing Fox
-4 Neutralize
 4 Sulfur Falls
+4 Azorius Charm
 4 Cast Out
+4 Neutralize
+4 Flourishing Fox
+4 Hieroglyphic Illumination
+4 Zenith Flare
 4 Shark Typhoon
 4 Censor
 1 Deathrite Shaman
@@ -325,12 +325,12 @@
 2 Sram, Senior Edificer
 2 Ethereal Armor
 3 Springleaf Drum
-3 Alseid of Life's Bounty
 3 Curious Obsession
+3 Alseid of Life's Bounty
 3 Sram, Senior Edificer
 3 Ethereal Armor
-4 Alseid of Life's Bounty
 4 Curious Obsession
+4 Alseid of Life's Bounty
 4 Sram, Senior Edificer
 4 Ethereal Armor
 4 Swamp
@@ -379,6 +379,7 @@
 2 Forest
 1 Legion Warboss
 1 Goblin Rabblemaster
+1 Gilded Goose
 1 Temple Garden
 1 Selfless Spirit
 1 Sunpetal Grove
@@ -386,7 +387,6 @@
 1 Llanowar Elves
 1 Elvish Mystic
 1 Eldritch Evolution
-1 Gilded Goose
 1 Kenrith, the Returned King
 1 Angrath's Marauders
 1 Scampering Scorcher
@@ -412,8 +412,8 @@
 3 Eldritch Evolution
 3 Angrath's Marauders
 4 Legion Warboss
-4 Temple Garden
 4 Voice of Resurgence
+4 Temple Garden
 4 Elvish Mystic
 4 Eldritch Evolution
 4 Stomping Ground
@@ -451,44 +451,44 @@
 4 Llanowar Wastes
 4 Steel Overseer
 5 Forest
+1 Fiend Artisan
+1 Cruel Celebrant
+1 Hunted Witness
+1 Return to the Ranks
 1 Garrison Cat
 1 Cartel Aristocrat
 1 Gutterbones
 1 Stitcher's Supplier
-1 Cruel Celebrant
-1 Fiend Artisan
 1 Rally the Ancestors
-1 Return to the Ranks
-1 Hunted Witness
 1 Zulaport Cutthroat
 1 Priest of Forgotten Gods
-2 Garrison Cat
 2 Fiend Artisan
+2 Hunted Witness
+2 Cruel Celebrant
+2 Garrison Cat
 2 Priest of Forgotten Gods
 2 Return to the Ranks
 2 Cartel Aristocrat
 2 Stitcher's Supplier
 2 Gutterbones
-2 Cruel Celebrant
-2 Hunted Witness
 2 Zulaport Cutthroat
 2 Rally the Ancestors
+3 Fiend Artisan
+3 Hunted Witness
 3 Garrison Cat
 3 Cartel Aristocrat
 3 Stitcher's Supplier
 3 Rally the Ancestors
-3 Hunted Witness
 3 Zulaport Cutthroat
-3 Fiend Artisan
 3 Priest of Forgotten Gods
-4 Rally the Ancestors
-4 Garrison Cat
 4 Fiend Artisan
+4 Garrison Cat
 4 Stitcher's Supplier
 4 Zulaport Cutthroat
 4 Priest of Forgotten Gods
 4 Cartel Aristocrat
 4 Plains
 4 Hunted Witness
+4 Rally the Ancestors
 5 Plains
 5 Swamp

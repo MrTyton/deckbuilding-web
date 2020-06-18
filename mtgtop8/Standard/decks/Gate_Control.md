@@ -63,10 +63,10 @@
 |                    3|[Golgari Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376351)      |                     |              |
 |                    4|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)        |                     |              |
 |                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                    |                     |              |
+|                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                     |              |
 |                    4|[Dimir Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376306)        |                     |              |
 |                    4|[Simic Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376500)        |                     |              |
 |                    4|[Golgari Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376351)      |                     |              |
-|                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                     |              |
 |                    4|[Rakdos Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376465)       |                     |              |
 |                    4|[Gate Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457376)          |                     |              |
 |                    4|[Gruul Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376359)        |                     |              |

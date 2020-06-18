@@ -1,38 +1,90 @@
-1 Snow-Covered Swamp
-1 Watery Grave
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
+4 Mishra's Bauble
+1 Urza, Lord High Artificer
+2 Urza, Lord High Artificer
+3 Mystic Sanctuary
+3 Archmage's Charm
+1 Stomping Ground
+1 Pithing Needle
+3 Urza, Lord High Artificer
+4 Urza, Lord High Artificer
+1 Remand
+2 Remand
+1 Hallowed Fountain
+1 Snow-Covered Plains
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+1 Snapcaster Mage
+1 Spell Snare
+1 Mana Leak
+2 Snapcaster Mage
+3 Flooded Strand
 1 Thoughtseize
-1 Inquisition of Kozilek
+2 Thoughtseize
 1 Nihil Spellbomb
 1 Sword of the Meek
 1 Whir of Invention
 1 Talisman of Dominance
 1 Thopter Foundry
-1 Fatal Push
 1 Sunken Hollow
-2 Thoughtseize
 2 Talisman of Dominance
-2 Fatal Push
-2 Inquisition of Kozilek
 2 Thopter Foundry
 2 Whir of Invention
 3 Whir of Invention
 3 Talisman of Dominance
-3 Fatal Push
-4 Polluted Delta
-1 Ice-Fang Coatl
-2 Ice-Fang Coatl
-3 Ice-Fang Coatl
-4 Ice-Fang Coatl
-2 Jace, the Mind Sculptor
-1 Hallowed Fountain
+4 Flooded Strand
+1 Opt
+4 Uro, Titan of Nature's Wrath
+1 Thought Scour
+2 Thought Scour
+3 Thought Scour
+4 Thought Scour
+3 Teferi, Time Raveler
+1 Lonely Sandbar
+2 Opt
+3 Opt
+3 Force of Negation
+2 Hallowed Fountain
 1 Path to Exile
 2 Path to Exile
+2 Field of Ruin
+3 Field of Ruin
+4 Field of Ruin
+1 Serum Visions
+2 Serum Visions
+3 Serum Visions
+4 Serum Visions
+1 Teferi, Hero of Dominaria
+1 Logic Knot
+1 Ketria Triome
+2 Steam Vents
+3 Wrenn and Six
+4 Wrenn and Six
+1 Emry, Lurker of the Loch
+1 Mox Amber
+1 Engineered Explosives
+2 Emry, Lurker of the Loch
+2 Engineered Explosives
+2 Mox Amber
+3 Emry, Lurker of the Loch
+4 Emry, Lurker of the Loch
+1 Supreme Verdict
+2 Supreme Verdict
+3 Path to Exile
+4 Path to Exile
+6 Snow-Covered Island
+1 Detention Sphere
+2 Snow-Covered Plains
+1 Fiery Islet
 1 Cavern of Souls
-3 Force of Negation
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
 2 Cavern of Souls
+3 Cavern of Souls
+4 Cavern of Souls
 4 Aether Vial
 1 Spreading Seas
 1 Mutavault
@@ -48,154 +100,37 @@
 2 Silvergill Adept
 2 Lord of Atlantis
 2 Benthic Biomancer
-3 Silvergill Adept
 3 Master of the Pearl Trident
 3 Lord of Atlantis
 3 Benthic Biomancer
+3 Silvergill Adept
 3 Spreading Seas
 3 Merfolk Trickster
 3 Mutavault
 4 Silvergill Adept
-4 Lord of Atlantis
 4 Master of the Pearl Trident
-4 Merfolk Trickster
-1 Snow-Covered Plains
-1 Unsettled Mariner
-2 Unsettled Mariner
-3 Unsettled Mariner
-2 Hallowed Fountain
-1 Spell Snare
-1 Seachrome Coast
-1 Harbinger of the Tides
-1 Wanderwine Hub
-2 Seachrome Coast
-2 Wanderwine Hub
-2 Harbinger of the Tides
-3 Seachrome Coast
-3 Wanderwine Hub
-4 Seachrome Coast
-4 Unsettled Mariner
-4 Wanderwine Hub
-4 Benthic Biomancer
-4 Mutavault
-3 Cryptic Command
 4 Spreading Seas
-6 Snow-Covered Island
-3 Cavern of Souls
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-3 Flooded Strand
-4 Cavern of Souls
-3 Path to Exile
+4 Merfolk Trickster
+4 Lord of Atlantis
+1 Mountain
+1 Izzet Charm
+1 Wooded Foothills
 1 Windswept Heath
 1 Temple Garden
 2 Windswept Heath
-1 Serum Visions
-2 Serum Visions
-3 Serum Visions
-4 Serum Visions
-1 Island
-2 Island
-3 Island
-2 Snow-Covered Plains
-1 Wooded Foothills
-3 Wrenn and Six
-4 Wrenn and Six
-4 Flooded Strand
-1 Emry, Lurker of the Loch
-1 Mox Amber
-1 Engineered Explosives
-2 Emry, Lurker of the Loch
-2 Engineered Explosives
-2 Mox Amber
-3 Emry, Lurker of the Loch
-4 Emry, Lurker of the Loch
-1 Fiery Islet
-2 Steam Vents
-1 Opt
-4 Path to Exile
-1 Snapcaster Mage
-1 Mana Leak
-2 Snapcaster Mage
-1 Ketria Triome
-4 Uro, Titan of Nature's Wrath
-3 Teferi, Time Raveler
-1 Mountain
-2 Stomping Ground
+1 Unsettled Mariner
+2 Unsettled Mariner
+3 Unsettled Mariner
 3 Windswept Heath
 4 Windswept Heath
-1 Detention Sphere
 1 Restoration Angel
 2 Restoration Angel
 3 Restoration Angel
 4 Restoration Angel
-1 Izzet Charm
-1 Prismatic Vista
-2 Prismatic Vista
-3 Prismatic Vista
-1 Knight of Autumn
-3 Snow-Covered Forest
-4 Snow-Covered Forest
-2 Wooded Foothills
-1 Sacred Foundry
-3 Wooded Foothills
-4 Wooded Foothills
-1 Forest
-1 Seasoned Pyromancer
-1 Magus of the Moon
-2 Seasoned Pyromancer
-3 Stomping Ground
-1 Arid Mesa
-2 Arid Mesa
-1 Verdant Catacombs
-2 Verdant Catacombs
-1 Birds of Paradise
-1 Utopia Sprawl
-2 Birds of Paradise
-2 Utopia Sprawl
-3 Seasoned Pyromancer
-3 Birds of Paradise
-3 Utopia Sprawl
-4 Utopia Sprawl
-4 Birds of Paradise
-4 Seasoned Pyromancer
-1 Noble Hierarch
-1 Eidolon of Rhetoric
-1 Batterskull
-1 Sword of Fire and Ice
-1 Stoneforge Mystic
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-4 Stoneforge Mystic
-1 Thought Scour
-2 Thought Scour
-3 Thought Scour
-4 Thought Scour
-1 Voice of Resurgence
-2 Voice of Resurgence
-1 Overgrown Tomb
-1 Savai Triome
-1 Scavenging Ooze
-1 Chord of Calling
-1 Eldritch Evolution
-1 Linvala, Keeper of Silence
-1 Eternal Witness
-1 Kiki-Jiki, Mirror Breaker
-1 Grove of the Burnwillows
-2 Scavenging Ooze
-2 Chord of Calling
-2 Eternal Witness
-2 Eldritch Evolution
-3 Voice of Resurgence
-3 Chord of Calling
-3 Eldritch Evolution
-4 Voice of Resurgence
-4 Eldritch Evolution
-4 Chord of Calling
-1 Supreme Verdict
 1 Dovin's Veto
 1 Vendilion Clique
 1 Ashiok, Dream Render
+1 Knight of Autumn
 1 Celestial Colonnade
 1 Wall of Blossoms
 1 Yorion, Sky Nomad
@@ -204,118 +139,71 @@
 2 Dovin's Veto
 2 Knight of Autumn
 2 Wall of Blossoms
-2 Supreme Verdict
 2 Celestial Colonnade
-2 Wall of Omens
 2 Detention Sphere
+2 Wall of Omens
+3 Snow-Covered Forest
 3 Knight of Autumn
+3 Snow-Covered Plains
 3 Celestial Colonnade
 3 Wall of Blossoms
-3 Snow-Covered Plains
 3 Detention Sphere
 3 Vendilion Clique
 3 Wall of Omens
 4 Force of Negation
-4 Knight of Autumn
-4 Celestial Colonnade
+4 Snow-Covered Forest
 4 Snow-Covered Plains
+4 Knight of Autumn
 4 Wall of Omens
 4 Wall of Blossoms
+4 Celestial Colonnade
 1 Gilded Goose
 1 The Royal Scions
-1 Shadowspear
+1 Kinnan, Bonder Prodigy
 1 Springleaf Drum
 1 Walking Ballista
 1 Tamiyo, Collector of Tales
 1 Soul-Guide Lantern
 1 Trinket Mage
+1 Prismatic Vista
 1 Oviya Pashiri, Sage Lifecrafter
-1 Kinnan, Bonder Prodigy
 1 Karn, the Great Creator
+1 Shadowspear
+2 Prismatic Vista
 2 Gilded Goose
-2 Trinket Mage
-2 Springleaf Drum
 2 Kinnan, Bonder Prodigy
+2 Trinket Mage
 2 Karn, the Great Creator
+2 Springleaf Drum
+3 Prismatic Vista
 3 Gilded Goose
+3 Kinnan, Bonder Prodigy
 3 Springleaf Drum
+3 Mox Amber
 3 Trinket Mage
 3 Karn, the Great Creator
-3 Mox Amber
-3 Kinnan, Bonder Prodigy
 4 Prismatic Vista
 4 Gilded Goose
 4 Springleaf Drum
 4 Mox Amber
 4 Karn, the Great Creator
 4 Kinnan, Bonder Prodigy
-2 Field of Ruin
-3 Field of Ruin
-4 Field of Ruin
-1 Sunbaked Canyon
-2 Sunbaked Canyon
-1 Plains
-2 Magus of the Moon
-3 Magus of the Moon
-4 Magus of the Moon
-3 Sunbaked Canyon
-4 Sunbaked Canyon
-1 Ghost Quarter
-1 Leonin Arbiter
-1 Thalia, Guardian of Thraben
-2 Plains
-2 Leonin Arbiter
-2 Ghost Quarter
-2 Thalia, Guardian of Thraben
-3 Plains
-3 Thalia, Guardian of Thraben
-3 Leonin Arbiter
-3 Ghost Quarter
-4 Thalia, Guardian of Thraben
-4 Ghost Quarter
-4 Leonin Arbiter
-1 Blade Splicer
-1 Sword of Feast and Famine
-1 Seal of Fire
-1 Remorseful Cleric
-1 Flickerwisp
-1 Lurrus of the Dream Den
-1 Inspiring Vantage
-1 Giver of Runes
-2 Giver of Runes
-2 Lurrus of the Dream Den
-2 Seal of Fire
-2 Remorseful Cleric
-2 Sacred Foundry
-2 Blade Splicer
-2 Inspiring Vantage
-2 Flickerwisp
-3 Seal of Fire
-3 Giver of Runes
-3 Sacred Foundry
-3 Inspiring Vantage
-3 Flickerwisp
-4 Plains
-4 Giver of Runes
-4 Seal of Fire
-4 Sacred Foundry
-4 Inspiring Vantage
-4 Flickerwisp
-5 Plains
-6 Plains
-7 Plains
-8 Plains
-1 Narset, Parter of Veils
-2 Opt
-3 Opt
-4 Opt
 1 Tarmogoyf
 2 Tarmogoyf
+2 Stomping Ground
+3 Stomping Ground
+1 Forest
+1 Verdant Catacombs
+2 Verdant Catacombs
 2 Mountain
+2 Wooded Foothills
 1 Goblin Guide
 2 Goblin Guide
 3 Goblin Guide
 4 Goblin Guide
+1 Sacred Foundry
+3 Wooded Foothills
+4 Wooded Foothills
 1 Gallia of the Endless Dance
 1 Atarka's Command
 1 Burning-Tree Emissary
@@ -325,31 +213,137 @@
 2 Atarka's Command
 2 Reckless Bushwhacker
 2 Burning-Tree Emissary
-3 Atarka's Command
 3 Gallia of the Endless Dance
+3 Atarka's Command
 3 Burning-Tree Emissary
 3 Reckless Bushwhacker
 4 Burning-Tree Emissary
 4 Reckless Bushwhacker
 4 Atarka's Command
-2 Izzet Charm
-3 Steam Vents
-7 Snow-Covered Island
-4 Island
-2 Breeding Pool
-1 Lonely Sandbar
-1 Dismember
-2 Dismember
+1 Arid Mesa
+2 Arid Mesa
 1 Bloodstained Mire
 2 Bloodstained Mire
 3 Mountain
 4 Mountain
+1 Sunbaked Canyon
+2 Sunbaked Canyon
+1 Bonecrusher Giant
+1 Abbot of Keral Keep
+1 Lava Dart
+1 Soul-Scar Mage
+1 Monastery Swiftspear
+1 Light Up the Stage
+2 Monastery Swiftspear
+2 Lava Dart
+2 Soul-Scar Mage
+2 Light Up the Stage
+2 Abbot of Keral Keep
+3 Lava Dart
+3 Monastery Swiftspear
+3 Light Up the Stage
+3 Abbot of Keral Keep
+3 Soul-Scar Mage
+4 Lava Dart
+4 Soul-Scar Mage
+4 Monastery Swiftspear
+4 Light Up the Stage
+3 Sunbaked Canyon
+4 Sunbaked Canyon
+1 Seal of Fire
+2 Seal of Fire
+3 Seal of Fire
+4 Seal of Fire
+1 Plains
+1 Seasoned Pyromancer
+1 Magus of the Moon
+2 Seasoned Pyromancer
+2 Magus of the Moon
+3 Magus of the Moon
+4 Magus of the Moon
+1 Sword of Fire and Ice
+1 Sword of Feast and Famine
+1 Stoneforge Mystic
+1 Giver of Runes
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+1 Batterskull
+1 Blade Splicer
+1 Remorseful Cleric
+1 Flickerwisp
+1 Lurrus of the Dream Den
+1 Inspiring Vantage
+1 Leonin Arbiter
+1 Thalia, Guardian of Thraben
+1 Ghost Quarter
+2 Giver of Runes
+2 Lurrus of the Dream Den
+2 Plains
+2 Remorseful Cleric
+2 Sacred Foundry
+2 Blade Splicer
+2 Inspiring Vantage
+2 Leonin Arbiter
+2 Thalia, Guardian of Thraben
+2 Flickerwisp
+2 Ghost Quarter
+3 Plains
+3 Giver of Runes
+3 Sacred Foundry
+3 Inspiring Vantage
+3 Thalia, Guardian of Thraben
+3 Flickerwisp
+3 Leonin Arbiter
+3 Ghost Quarter
+4 Stoneforge Mystic
+4 Plains
+4 Giver of Runes
+4 Thalia, Guardian of Thraben
+4 Ghost Quarter
+4 Leonin Arbiter
+4 Sacred Foundry
+4 Inspiring Vantage
+4 Flickerwisp
+5 Plains
+6 Plains
+7 Plains
+8 Plains
+1 Narset, Parter of Veils
+4 Opt
+4 Fatal Push
+7 Snow-Covered Island
+3 Steam Vents
+2 Izzet Charm
+1 Seachrome Coast
+2 Breeding Pool
+3 Arid Mesa
+3 Inquisition of Kozilek
+1 Dismember
+2 Fiery Islet
+3 Fiery Islet
+3 Bloodstained Mire
 1 Brazen Borrower
 1 Blood Moon
 2 Brazen Borrower
 2 Blood Moon
 2 Spell Snare
 2 Mana Leak
+1 Zagoth Triome
+1 Field of the Dead
+1 Assassin's Trophy
+1 Lochmere Serpent
+1 Tranquil Thicket
+1 Abrupt Decay
+1 Maelstrom Pulse
+1 Dead of Winter
+1 Overgrown Tomb
+1 Gifts Ungiven
+1 Life from the Loam
+1 Raven's Crime
+2 Gifts Ungiven
+2 Life from the Loam
+1 Delay
+3 Jace, the Mind Sculptor
 1 Simian Spirit Guide
 1 Fires of Invention
 1 Dictate of Kruphix
@@ -362,13 +356,13 @@
 1 Howling Mine
 1 Savor the Moment
 2 Fires of Invention
-2 Savor the Moment
 2 Chandra, Torch of Defiance
 2 Exhaustion
 2 Time Warp
 2 Narset, Parter of Veils
 2 Castle Vantress
 2 Dictate of Kruphix
+2 Savor the Moment
 2 Howling Mine
 3 Fires of Invention
 3 Time Warp
@@ -382,8 +376,6 @@
 1 Deprive
 1 Entreat the Angels
 1 Search for Azcanta
-1 Teferi, Hero of Dominaria
-1 Logic Knot
 1 Terminus
 2 Terminus
 3 Snapcaster Mage
@@ -391,76 +383,27 @@
 3 Terminus
 4 Terminus
 4 Snapcaster Mage
-1 Bonecrusher Giant
-2 Forest
-1 Gemstone Caverns
-1 Chalice of the Void
-2 Chalice of the Void
-2 Gemstone Caverns
-3 Gemstone Caverns
-3 Chalice of the Void
-4 Chalice of the Void
-1 Field of the Dead
-1 Primeval Titan
-1 Swamp
-1 Castle Garenbrig
-1 Ruric Thar, the Unbowed
-1 Sakura-Tribe Elder
-1 Sylvan Caryatid
-1 Blast Zone
-1 Mwonvuli Acid-Moss
-1 Sire of Insanity
-1 Explore
-1 Radiant Fountain
-1 Inferno Titan
-1 Wurmcoil Engine
-1 Bojuka Bog
-1 Deathsprout
-1 Mosswort Bridge
-2 Primeval Titan
-2 Field of the Dead
-2 Overgrown Tomb
-2 Castle Garenbrig
-2 Mwonvuli Acid-Moss
-2 Sire of Insanity
-2 Explore
-2 Inferno Titan
-2 Wurmcoil Engine
-2 Sylvan Caryatid
-2 Sakura-Tribe Elder
-3 Castle Garenbrig
-3 Primeval Titan
-3 Sakura-Tribe Elder
-3 Sylvan Caryatid
-3 Wurmcoil Engine
-3 Explore
-4 Castle Garenbrig
-4 Primeval Titan
-4 Sylvan Caryatid
-4 Gemstone Caverns
-4 Explore
-4 Sakura-Tribe Elder
-1 Sygg, River Guide
-3 Harbinger of the Tides
-4 Harbinger of the Tides
+1 Island
 1 Sleight of Hand
+2 Island
+3 Island
 1 Arclight Phoenix
-1 Manamorphose
 1 Finale of Promise
 1 Lightning Axe
+1 Manamorphose
 1 Bedlam Reveler
 1 Chart a Course
 1 Spirebluff Canal
 1 Merchant of the Vale
 1 Thing in the Ice
 2 Arclight Phoenix
-2 Manamorphose
 2 Finale of Promise
 2 Thing in the Ice
 2 Spirebluff Canal
 2 Merchant of the Vale
 2 Chart a Course
 2 Lightning Axe
+2 Manamorphose
 3 Arclight Phoenix
 3 Thing in the Ice
 3 Manamorphose
@@ -474,7 +417,9 @@
 1 Waterlogged Grove
 1 Geist of Saint Traft
 1 Spell Queller
+1 Noble Hierarch
 1 Deputy of Detention
+1 Eidolon of Rhetoric
 1 Selfless Spirit
 1 Moorland Haunt
 1 Drogskol Captain
@@ -506,9 +451,9 @@
 4 Mausoleum Wanderer
 4 Drogskol Captain
 4 Collected Company
-2 Fiery Islet
-3 Fiery Islet
 1 Risen Reef
+1 Voice of Resurgence
+1 Omnath, Locus of the Roil
 1 Fulminator Mage
 1 Shriekmaw
 1 Thunderkin Awakener
@@ -520,18 +465,18 @@
 1 Lightning Skelemental
 1 Vesperlark
 1 Smokebraider
-1 Omnath, Locus of the Roil
 1 Phantasmal Image
 1 Living Twister
 1 Primal Beyond
 2 Risen Reef
+2 Voice of Resurgence
 2 Vesperlark
 2 Unclaimed Territory
-2 Lightning Skelemental
+2 Smokebraider
 2 Phantasmal Image
+2 Lightning Skelemental
 2 Primal Beyond
 2 Ancient Ziggurat
-2 Smokebraider
 2 Thunderkin Awakener
 2 Flamekin Harbinger
 3 Risen Reef
@@ -544,11 +489,11 @@
 3 Unclaimed Territory
 3 Phantasmal Image
 4 Risen Reef
+4 Unclaimed Territory
 4 Flamekin Harbinger
 4 Ancient Ziggurat
 4 Thunderkin Awakener
 4 Lightning Skelemental
-4 Unclaimed Territory
 1 Growth Spiral
 1 Valakut, the Molten Pinnacle
 1 Scapeshift
@@ -565,96 +510,6 @@
 4 Growth Spiral
 4 Steam Vents
 4 Remand
-1 Castle Embereth
-1 Memnite
-1 Goblin Bushwhacker
-1 Legion Loyalist
-1 Signal Pest
-2 Memnite
-2 Signal Pest
-2 Legion Loyalist
-2 Hexdrinker
-2 Goblin Bushwhacker
-2 Castle Embereth
-3 Bloodstained Mire
-3 Memnite
-3 Castle Embereth
-3 Signal Pest
-3 Goblin Bushwhacker
-3 Legion Loyalist
-4 Memnite
-4 Goblin Bushwhacker
-4 Signal Pest
-4 Legion Loyalist
-4 Stomping Ground
-1 Peer Through Depths
-1 Ideas Unbound
-1 Echoing Truth
-1 Twiddle
-1 Reach Through Mists
-1 Psychic Puppetry
-1 Grapeshot
-1 Past in Flames
-1 Dream's Grip
-1 Sylvan Scrying
-1 Lotus Field
-1 Merchant Scroll
-2 Past in Flames
-2 Peer Through Depths
-2 Psychic Puppetry
-2 Merchant Scroll
-2 Reach Through Mists
-2 Lotus Field
-2 Sylvan Scrying
-2 Ideas Unbound
-2 Sleight of Hand
-2 Lonely Sandbar
-2 Twiddle
-2 Dream's Grip
-3 Ideas Unbound
-3 Twiddle
-3 Dream's Grip
-3 Psychic Puppetry
-3 Reach Through Mists
-3 Peer Through Depths
-3 Sleight of Hand
-3 Lotus Field
-4 Lotus Field
-4 Reach Through Mists
-4 Peer Through Depths
-4 Ideas Unbound
-4 Sleight of Hand
-4 Psychic Puppetry
-4 Dream's Grip
-1 Thalia, Heretic Cathar
-1 Eldrazi Displacer
-1 Battlefield Forge
-1 Wastes
-1 Thought-Knot Seer
-1 Reality Smasher
-1 Eldrazi Temple
-2 Bonecrusher Giant
-2 Simian Spirit Guide
-2 Battlefield Forge
-2 Eldrazi Temple
-2 Thought-Knot Seer
-2 Reality Smasher
-2 Thalia, Heretic Cathar
-2 Eldrazi Displacer
-3 Bonecrusher Giant
-3 Simian Spirit Guide
-3 Eldrazi Displacer
-3 Reality Smasher
-3 Battlefield Forge
-3 Eldrazi Temple
-3 Thought-Knot Seer
-4 Bonecrusher Giant
-4 Eldrazi Displacer
-4 Simian Spirit Guide
-4 Eldrazi Temple
-4 Reality Smasher
-4 Battlefield Forge
-4 Thought-Knot Seer
 1 Wild Nacatl
 1 Narnam Renegade
 1 Dryad Arbor
@@ -670,8 +525,116 @@
 3 Narnam Renegade
 3 Wild Nacatl
 4 Narnam Renegade
-4 Hidden Herbalists
 4 Wild Nacatl
+4 Hidden Herbalists
+1 Memnite
+1 Goblin Bushwhacker
+1 Legion Loyalist
+1 Castle Embereth
+1 Signal Pest
+2 Memnite
+2 Signal Pest
+2 Legion Loyalist
+2 Hexdrinker
+2 Goblin Bushwhacker
+2 Castle Embereth
+3 Memnite
+3 Castle Embereth
+3 Signal Pest
+3 Goblin Bushwhacker
+3 Legion Loyalist
+4 Memnite
+4 Goblin Bushwhacker
+4 Signal Pest
+4 Legion Loyalist
+4 Stomping Ground
+1 Sylvan Scrying
+1 Peer Through Depths
+1 Ideas Unbound
+1 Echoing Truth
+1 Twiddle
+1 Reach Through Mists
+1 Psychic Puppetry
+1 Grapeshot
+1 Past in Flames
+1 Dream's Grip
+1 Lotus Field
+1 Merchant Scroll
+2 Sylvan Scrying
+2 Past in Flames
+2 Peer Through Depths
+2 Psychic Puppetry
+2 Merchant Scroll
+2 Reach Through Mists
+2 Sleight of Hand
+2 Lotus Field
+2 Ideas Unbound
+2 Lonely Sandbar
+2 Dream's Grip
+2 Twiddle
+3 Ideas Unbound
+3 Twiddle
+3 Dream's Grip
+3 Psychic Puppetry
+3 Reach Through Mists
+3 Peer Through Depths
+3 Sleight of Hand
+3 Lotus Field
+4 Lotus Field
+4 Reach Through Mists
+4 Peer Through Depths
+4 Ideas Unbound
+4 Sleight of Hand
+4 Psychic Puppetry
+4 Island
+4 Dream's Grip
+1 Forked Bolt
+1 Grim Lavamancer
+1 Lava Spike
+2 Lava Spike
+2 Forked Bolt
+3 Forked Bolt
+3 Lava Spike
+4 Fiery Islet
+4 Forked Bolt
+4 Lava Spike
+1 Swamp
+1 Godless Shrine
+1 Unearth
+1 Street Wraith
+1 Marsh Flats
+1 Silent Clearing
+1 Tidehollow Sculler
+1 Collective Brutality
+1 Death's Shadow
+1 Gurmag Angler
+1 Anguished Unmaking
+1 Ranger-Captain of Eos
+2 Godless Shrine
+2 Marsh Flats
+2 Silent Clearing
+2 Street Wraith
+2 Tidehollow Sculler
+2 Death's Shadow
+2 Ranger-Captain of Eos
+2 Swamp
+3 Marsh Flats
+3 Silent Clearing
+3 Godless Shrine
+3 Tidehollow Sculler
+3 Thoughtseize
+3 Ranger-Captain of Eos
+3 Street Wraith
+3 Death's Shadow
+4 Thoughtseize
+4 Marsh Flats
+4 Tidehollow Sculler
+4 Godless Shrine
+4 Death's Shadow
+4 Silent Clearing
+4 Street Wraith
+4 Ranger-Captain of Eos
+4 Inquisition of Kozilek
 1 Bloodbraid Elf
 2 Bloodbraid Elf
 3 Bloodbraid Elf
@@ -696,70 +659,64 @@
 4 Grinding Station
 4 Teferi, Time Raveler
 4 Underworld Breach
-1 Forked Bolt
-1 Monastery Swiftspear
-1 Abbot of Keral Keep
-1 Grim Lavamancer
-1 Lava Dart
-1 Soul-Scar Mage
-1 Lava Spike
-1 Light Up the Stage
-2 Monastery Swiftspear
-2 Lava Spike
-2 Soul-Scar Mage
-2 Light Up the Stage
-2 Abbot of Keral Keep
-2 Forked Bolt
-2 Lava Dart
-3 Monastery Swiftspear
-3 Abbot of Keral Keep
-3 Arid Mesa
-3 Light Up the Stage
-3 Forked Bolt
-3 Lava Dart
-3 Lava Spike
-3 Soul-Scar Mage
-4 Monastery Swiftspear
-4 Lava Dart
-4 Soul-Scar Mage
-4 Fiery Islet
-4 Forked Bolt
-4 Lava Spike
-4 Light Up the Stage
+1 Harbinger of the Tides
+1 Wanderwine Hub
+2 Seachrome Coast
+2 Wanderwine Hub
+2 Harbinger of the Tides
+3 Seachrome Coast
+3 Wanderwine Hub
+4 Seachrome Coast
+4 Unsettled Mariner
+4 Wanderwine Hub
+4 Benthic Biomancer
+4 Mutavault
+1 Winota, Joiner of Forces
+1 Birds of Paradise
 1 Arbor Elf
 1 Pia Nalaar
 1 Goblin Rabblemaster
-1 Winota, Joiner of Forces
+1 Huntmaster of the Fells
 1 Angrath's Marauders
 1 Avalanche Riders
-1 Huntmaster of the Fells
+1 Utopia Sprawl
+2 Forest
 2 Winota, Joiner of Forces
+2 Birds of Paradise
 2 Huntmaster of the Fells
 2 Avalanche Riders
+2 Utopia Sprawl
 2 Arbor Elf
 2 Pia Nalaar
 2 Goblin Rabblemaster
 2 Angrath's Marauders
-3 Arbor Elf
-3 Goblin Rabblemaster
+3 Seasoned Pyromancer
 3 Winota, Joiner of Forces
+3 Arbor Elf
+3 Birds of Paradise
+3 Goblin Rabblemaster
+3 Utopia Sprawl
 3 Huntmaster of the Fells
 3 Angrath's Marauders
 3 Forest
 4 Forest
+4 Winota, Joiner of Forces
 4 Huntmaster of the Fells
+4 Utopia Sprawl
+4 Birds of Paradise
+4 Seasoned Pyromancer
 4 Arbor Elf
 4 Goblin Rabblemaster
-4 Winota, Joiner of Forces
 4 Angrath's Marauders
 5 Forest
 1 Cursecatcher
 1 Merrow Reejerey
 1 Darkslick Shores
 1 Oboro, Palace in the Clouds
+2 Dismember
 2 Darkslick Shores
-2 Merrow Reejerey
 2 Cursecatcher
+2 Merrow Reejerey
 3 Dismember
 3 Cursecatcher
 3 Merrow Reejerey
@@ -767,3 +724,31 @@
 4 Cursecatcher
 8 Snow-Covered Island
 9 Snow-Covered Island
+1 Bomat Courier
+1 Burst Lightning
+1 Ramunap Ruins
+2 Bonecrusher Giant
+2 Ramunap Ruins
+2 Burst Lightning
+2 Bomat Courier
+3 Bonecrusher Giant
+3 Bomat Courier
+3 Ramunap Ruins
+3 Burst Lightning
+4 Bonecrusher Giant
+4 Bomat Courier
+4 Abbot of Keral Keep
+4 Ramunap Ruins
+4 Burst Lightning
+5 Mountain
+6 Mountain
+7 Mountain
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+13 Mountain
+14 Mountain
+15 Mountain
+16 Mountain

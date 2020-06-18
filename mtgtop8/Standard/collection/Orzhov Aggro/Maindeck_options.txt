@@ -21,8 +21,8 @@
 4 Corpse Knight
 3 Woe Strider
 1 Dead Weight
-2 Dead Weight
 2 Mire's Grasp
+2 Dead Weight
 9 Swamp
 1 Gutterbones
 2 Gutterbones
@@ -63,13 +63,13 @@
 3 Lurrus of the Dream-Den
 1 Whisper Squad
 2 Whisper Squad
-3 Whisper Squad
 3 Fiend Artisan
-4 Whisper Squad
+3 Whisper Squad
 4 Fiend Artisan
+4 Whisper Squad
 4 Orzhov Enforcer
-1 Luminous Broodmoth
 1 Bastion of Remembrance
+1 Luminous Broodmoth
 2 Luminous Broodmoth
 3 Midnight Reaper
 3 Luminous Broodmoth
@@ -77,7 +77,6 @@
 10 Swamp
 11 Swamp
 1 Blacklance Paragon
-1 Knight of the Ebon Legion
 1 Fight as One
 1 Worthy Knight
 1 Blood Crypt
@@ -87,17 +86,18 @@
 1 Tournament Grounds
 1 Fervent Champion
 1 Sacred Foundry
-2 Knight of the Ebon Legion
+1 Knight of the Ebon Legion
+2 Stormfist Crusader
 2 Fight as One
 2 Tournament Grounds
 2 Venerable Knight
 2 Fervent Champion
 2 Sacred Foundry
 2 Blood Crypt
+2 Knight of the Ebon Legion
 2 Worthy Knight
 2 Inspiring Veteran
 2 Blacklance Paragon
-2 Stormfist Crusader
 3 Blood Crypt
 3 Worthy Knight
 3 Fervent Champion
@@ -132,25 +132,25 @@
 1 Kaya, Orzhov Usurper
 1 Tithe Taker
 2 Tithe Taker
-1 Murderous Rider
 1 Yarok's Fenlurker
-1 Treacherous Blessing
 1 Basilica Bell-Haunt
-1 Field of Ruin
-1 Planar Cleansing
-1 The Birth of Meletis
-1 Kaya's Wrath
-1 Elspeth Conquers Death
+1 Cavalier of Dawn
+1 Treacherous Blessing
 1 Plaguecrafter
+1 Field of Ruin
+1 Murderous Rider
+1 The Birth of Meletis
+1 Elspeth Conquers Death
+1 Planar Cleansing
+1 Kaya's Wrath
 1 Sorin, Vengeful Bloodlord
 1 Ugin, the Ineffable
 1 Wishclaw Talisman
 1 Leyline of Sanctity
-1 Cavalier of Dawn
 2 Kaya, Orzhov Usurper
-2 Murderous Rider
-2 Yarok's Fenlurker
 2 Basilica Bell-Haunt
+2 Yarok's Fenlurker
+2 Murderous Rider
 2 Erebos's Intervention
 2 Kaya's Wrath
 2 Sorin, Vengeful Bloodlord
@@ -158,8 +158,8 @@
 2 The Birth of Meletis
 2 Elspeth Conquers Death
 3 Basilica Bell-Haunt
-3 Murderous Rider
 3 Yarok's Fenlurker
+3 Murderous Rider
 3 Kaya's Wrath
 3 Sorin, Vengeful Bloodlord
 3 Erebos's Intervention
@@ -169,27 +169,31 @@
 2 Unbreakable Formation
 3 Skyknight Vanguard
 4 Skyknight Vanguard
+2 Bastion of Remembrance
+2 Bolas's Citadel
+3 Bastion of Remembrance
+4 Bastion of Remembrance
 1 Dreadhorde Invasion
 1 Blood for Bones
 2 Final Payment
 3 Final Payment
 4 Mire's Grasp
 1 Aphemia, the Cacophony
+1 Drill Bit
 1 Overgrown Tomb
 1 Mythos of Nethroi
 1 Stonecoil Serpent
 1 Temple Garden
-1 Drill Bit
 1 Karametra's Blessing
 2 Aphemia, the Cacophony
+2 Drill Bit
 2 Overgrown Tomb
 2 Mythos of Nethroi
 2 Stonecoil Serpent
 2 Karametra's Blessing
 2 Temple Garden
-2 Drill Bit
-3 Mythos of Nethroi
 3 Dead Weight
+3 Mythos of Nethroi
 3 All That Glitters
 3 Stonecoil Serpent
 4 Stonecoil Serpent
@@ -203,10 +207,6 @@
 2 Murder
 2 Memory Leak
 4 Kaya's Ghostform
-2 Bastion of Remembrance
-2 Bolas's Citadel
-3 Bastion of Remembrance
-4 Bastion of Remembrance
 1 Order of Midnight
 1 Smitten Swordmaster
 2 Order of Midnight
