@@ -64,7 +64,7 @@
 |                    2|[Botanical Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417817)          |                     |                                                                                              |
 |                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)           |                     |                                                                                              |
 |                    3|[Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)          |                     |                                                                                              |
-|                    4|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)             |                     |                                                                                              |
-|                    4|[Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)          |                     |                                                                                              |
 |                    3|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)             |                     |                                                                                              |
+|                    4|[Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)          |                     |                                                                                              |
+|                    4|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)             |                     |                                                                                              |
 
