@@ -71,6 +71,6 @@
 |                     |                                                                                                     |                    3|[Witch's Vengeance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473073)         |
 |                     |                                                                                                     |                    3|[Erase](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386533)                     |
 |                     |                                                                                                     |                    1|Lurrus of the Dream-Den                                                                              |
-|                     |                                                                                                     |                    1|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)              |
 |                     |                                                                                                     |                    2|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)              |
+|                     |                                                                                                     |                    1|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)              |
 

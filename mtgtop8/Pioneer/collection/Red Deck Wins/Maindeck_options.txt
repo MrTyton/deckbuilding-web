@@ -9,12 +9,12 @@
 13 Mountain
 14 Mountain
 15 Mountain
-1 Bonecrusher Giant
 1 Ramunap Ruins
 1 Rampaging Ferocidon
-2 Bonecrusher Giant
+1 Bonecrusher Giant
 2 Ramunap Ruins
 2 Rampaging Ferocidon
+2 Bonecrusher Giant
 3 Ramunap Ruins
 3 Bonecrusher Giant
 4 Ramunap Ruins
@@ -55,6 +55,15 @@
 1 Chandra, Torch of Defiance
 1 Searing Blood
 2 Searing Blood
+1 Skysovereign, Consul Flagship
+1 Reckless Rage
+1 Goblin Chainwhirler
+1 Boros Reckoner
+2 Reckless Rage
+2 Goblin Chainwhirler
+2 Boros Reckoner
+3 Goblin Chainwhirler
+3 Boros Reckoner
 1 Ahn-Crop Crasher
 2 Ahn-Crop Crasher
 3 Ahn-Crop Crasher
@@ -69,7 +78,6 @@
 1 Reckless Bushwhacker
 1 Heartfire
 1 Goblin Instigator
-1 Goblin Piledriver
 2 Foundry Street Denizen
 2 Frenzied Goblin
 2 Fanatical Firebrand
@@ -83,27 +91,19 @@
 2 Heartfire
 3 Burning-Tree Emissary
 3 Frenzied Goblin
-3 Castle Embereth
 3 Foundry Street Denizen
 3 Fanatical Firebrand
 3 Stoke the Flames
+3 Castle Embereth
 3 Legion Loyalist
 3 Goblin Instigator
 3 Reckless Bushwhacker
 4 Foundry Street Denizen
 4 Burning-Tree Emissary
-4 Castle Embereth
-4 Stoke the Flames
-4 Fanatical Firebrand
 4 Goblin Instigator
+4 Stoke the Flames
+4 Castle Embereth
+4 Fanatical Firebrand
 4 Legion Loyalist
 4 Reckless Bushwhacker
-1 Skysovereign, Consul Flagship
-1 Reckless Rage
-1 Boros Reckoner
-2 Reckless Rage
-2 Goblin Chainwhirler
-2 Boros Reckoner
-3 Goblin Chainwhirler
-3 Boros Reckoner
-1 Goblin Chainwhirler
+1 Goblin Piledriver

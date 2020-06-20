@@ -35,6 +35,6 @@
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
 |                    1|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)|                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
-|                    2|[Logic Knot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126151)    |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
 |                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)|                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
+|                    2|[Logic Knot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126151)    |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
 

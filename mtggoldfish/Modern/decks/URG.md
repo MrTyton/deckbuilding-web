@@ -32,6 +32,6 @@
 
 |*n*<sup>th</sup> copy|                                    Maindeck Card                                     |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|--------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)|                    2|Wilt                                                                                        |
-|                     |                                                                                      |                    2|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)|
+|                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)|                    2|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)|
+|                     |                                                                                      |                    2|Wilt                                                                                        |
 

@@ -40,10 +40,10 @@
 2 Dwarven Mine
 3 Dwarven Mine
 4 Dwarven Mine
-1 Krenko, Tin Street Kingpin
 1 Scampering Scorcher
-2 Krenko, Tin Street Kingpin
+1 Krenko, Tin Street Kingpin
 2 Scampering Scorcher
+2 Krenko, Tin Street Kingpin
 1 Fire Prophecy
 2 Fire Prophecy
 1 Infuriate
@@ -63,9 +63,9 @@
 3 Legion Warboss
 3 Scampering Scorcher
 3 Reckless Air Strike
+4 Lava Coil
 4 Reckless Air Strike
 4 Scampering Scorcher
-4 Lava Coil
 23 Mountain
 24 Mountain
 1 Lukka, Coppercoat Outcast
@@ -81,27 +81,20 @@
 2 Rimrock Knight
 3 Embercleave
 3 Rimrock Knight
+3 Runaway Steam-Kin
 1 Slaying Fire
 1 Weaponize the Monsters
 1 Chandra's Regulator
 1 Torch Courier
 1 Claim the Firstborn
-2 Slaying Fire
 2 Weaponize the Monsters
 2 Torch Courier
+2 Slaying Fire
 2 Claim the Firstborn
 3 Bonecrusher Giant
-3 Slaying Fire
 3 Claim the Firstborn
-3 Runaway Steam-Kin
+3 Slaying Fire
 3 Tibalt, Rakish Instigator
-1 Heraldic Banner
-2 Heraldic Banner
-2 Phoenix of Ash
-3 Heraldic Banner
-3 Phoenix of Ash
-4 Heraldic Banner
-4 Skewer the Critics
 1 Footlight Fiend
 2 Footlight Fiend
 3 Footlight Fiend
@@ -116,3 +109,10 @@
 3 Spelleater Wolverine
 3 Blisterspit Gremlin
 4 Flame Spill
+1 Heraldic Banner
+2 Phoenix of Ash
+2 Heraldic Banner
+3 Phoenix of Ash
+3 Heraldic Banner
+4 Heraldic Banner
+4 Skewer the Critics

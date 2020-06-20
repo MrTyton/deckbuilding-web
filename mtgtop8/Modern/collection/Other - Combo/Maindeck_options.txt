@@ -1,5 +1,6 @@
 1 Polluted Delta
 2 Polluted Delta
+1 River of Tears
 1 Inquisition of Kozilek
 1 Opt
 1 Omen of the Sea
@@ -13,10 +14,10 @@
 1 Swamp
 1 Watery Grave
 1 Inverter of Truth
-1 River of Tears
 1 Eldrazi Temple
 1 Jace, Wielder of Mysteries
 1 Shelldock Isle
+2 River of Tears
 2 Inquisition of Kozilek
 2 Watery Grave
 2 Darkslick Shores
@@ -25,7 +26,6 @@
 2 Remand
 2 Shelldock Isle
 2 Relic of Progenitus
-2 River of Tears
 2 Jace, Wielder of Mysteries
 2 Thassa's Oracle
 2 Thoughtseize
@@ -33,6 +33,7 @@
 2 Eldrazi Temple
 2 Inverter of Truth
 2 Fatal Push
+3 Jace, Wielder of Mysteries
 3 Opt
 3 Darkslick Shores
 3 Omen of the Sea
@@ -41,13 +42,13 @@
 3 Inquisition of Kozilek
 3 Relic of Progenitus
 3 Thoughtseize
-3 Jace, Wielder of Mysteries
 3 Thassa's Oracle
 3 Fatal Push
 3 Inverter of Truth
 3 Drowned Catacomb
 3 Eldrazi Temple
 4 Thassa's Oracle
+4 Jace, Wielder of Mysteries
 4 Opt
 4 Omen of the Sea
 4 Darkslick Shores
@@ -55,7 +56,6 @@
 4 Remand
 4 Fatal Push
 4 Watery Grave
-4 Jace, Wielder of Mysteries
 4 Inverter of Truth
 1 Windswept Heath
 1 Temple Garden
@@ -120,7 +120,6 @@
 1 Lonely Sandbar
 1 Serum Visions
 1 Sleight of Hand
-1 Izzet Charm
 1 Merchant Scroll
 1 Lotus Field
 1 Dream's Grip
@@ -132,15 +131,16 @@
 1 Flooded Strand
 1 Echoing Truth
 1 Sylvan Scrying
+1 Izzet Charm
 2 Island
 2 Serum Visions
 2 Peer Through Depths
 2 Lonely Sandbar
 2 Twiddle
+2 Dream's Grip
 2 Ideas Unbound
 2 Lotus Field
 2 Reach Through Mists
-2 Dream's Grip
 2 Merchant Scroll
 2 Psychic Puppetry
 2 Sylvan Scrying
@@ -150,20 +150,20 @@
 3 Polluted Delta
 3 Sleight of Hand
 3 Serum Visions
-3 Dream's Grip
 3 Lotus Field
 3 Peer Through Depths
 3 Reach Through Mists
 3 Psychic Puppetry
+3 Dream's Grip
 3 Twiddle
 3 Ideas Unbound
 3 Flooded Strand
 3 Island
-4 Psychic Puppetry
-4 Ideas Unbound
 4 Dream's Grip
+4 Ideas Unbound
 4 Peer Through Depths
 4 Reach Through Mists
+4 Psychic Puppetry
 4 Lotus Field
 4 Serum Visions
 4 Sleight of Hand

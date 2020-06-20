@@ -46,19 +46,20 @@
 2 Mountain
 3 Mountain
 1 Clifftop Retreat
+1 Dreadhorde Arcanist
 1 Reckless Rage
-1 Gird for Battle
 1 Soul-Scar Mage
 1 Favored Hoplite
 1 Battlefield Forge
 1 Titan's Strength
 1 Tenth District Legionnaire
 1 Defiant Strike
+1 Gird for Battle
 1 Gryff's Boon
 1 Boros Charm
 1 Gods Willing
 1 Monastery Swiftspear
-1 Dreadhorde Arcanist
+2 Dreadhorde Arcanist
 2 Reckless Rage
 2 Gird for Battle
 2 Gryff's Boon
@@ -66,23 +67,22 @@
 2 Monastery Swiftspear
 2 Gods Willing
 2 Soul-Scar Mage
-2 Dreadhorde Arcanist
 2 Titan's Strength
 2 Battlefield Forge
 2 Favored Hoplite
 2 Defiant Strike
+3 Dreadhorde Arcanist
 3 Sacred Foundry
-3 Gird for Battle
 3 Reckless Rage
 3 Titan's Strength
 3 Favored Hoplite
 3 Defiant Strike
+3 Gird for Battle
 3 Monastery Swiftspear
 3 Tenth District Legionnaire
 3 Plains
 3 Battlefield Forge
 3 Gods Willing
-3 Dreadhorde Arcanist
 3 Soul-Scar Mage
 4 Sacred Foundry
 4 Reckless Rage
@@ -272,14 +272,6 @@
 3 Goblin Rabblemaster
 4 Elvish Visionary
 4 Goblin Rabblemaster
-1 Deathrite Shaman
-2 Dreadbore
-2 Kolaghan's Command
-2 Deathrite Shaman
-3 Deathrite Shaman
-3 Chevill, Bane of Monsters
-4 Deathrite Shaman
-4 Chevill, Bane of Monsters
 1 Duskwatch Recruiter
 2 Duskwatch Recruiter
 2 Goblin Instigator
@@ -330,6 +322,14 @@
 4 Nissa, Voice of Zendikar
 4 Assassin's Trophy
 4 Voracious Hydra
+1 Deathrite Shaman
+2 Dreadbore
+2 Kolaghan's Command
+2 Deathrite Shaman
+3 Deathrite Shaman
+3 Chevill, Bane of Monsters
+4 Deathrite Shaman
+4 Chevill, Bane of Monsters
 1 Embercleave
 1 Ghor-Clan Rampager
 1 Dryad Militant
@@ -366,15 +366,15 @@
 4 Ghor-Clan Rampager
 4 Bonecrusher Giant
 1 Springleaf Drum
+1 Curious Obsession
 1 Alseid of Life's Bounty
 1 Sram, Senior Edificer
 1 Ethereal Armor
-1 Curious Obsession
 2 Springleaf Drum
+2 Curious Obsession
 2 Alseid of Life's Bounty
 2 Sram, Senior Edificer
 2 Ethereal Armor
-2 Curious Obsession
 3 Springleaf Drum
 3 Curious Obsession
 3 Alseid of Life's Bounty
