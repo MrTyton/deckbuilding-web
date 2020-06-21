@@ -5,7 +5,6 @@
 1 Devout Decree
 2 Devout Decree
 1 Unbreakable Formation
-3 Devout Decree
 1 Remorseful Cleric
 1 Disenchant
 1 Authority of the Consuls
@@ -15,6 +14,7 @@
 2 Remorseful Cleric
 2 Knight of Grace
 2 Authority of the Consuls
+3 Devout Decree
 3 Selfless Spirit
 1 Baffling End
 1 Rest in Peace
@@ -24,29 +24,29 @@
 4 Selfless Spirit
 1 Fragmentize
 2 Fragmentize
-2 Rest in Peace
-1 Gideon, Ally of Zendikar
-2 Gideon, Ally of Zendikar
 1 Kaya, Orzhov Usurper
 1 Adanto Vanguard
 2 Adanto Vanguard
 3 High Priest of Penance
+2 Rest in Peace
 1 Return to the Ranks
-3 Deafening Silence
 1 Isolate
 3 Baffling End
 1 Lurrus of the Dream Den
 1 Hushbringer
 2 Hushbringer
+3 Deafening Silence
 3 Arashin Cleric
+1 Gideon, Ally of Zendikar
 1 Gideon Blackblade
-1 Apostle of Purifying Light
-2 Apostle of Purifying Light
+2 Gideon, Ally of Zendikar
 1 Damping Sphere
 1 Collective Effort
 3 Rest in Peace
 2 Gideon Blackblade
+1 Apostle of Purifying Light
 2 Damping Sphere
+2 Apostle of Purifying Light
 2 Collective Effort
 1 History of Benalia
 1 Shambling Vent
@@ -77,10 +77,6 @@
 3 Silence
 3 Soldier of the Pantheon
 4 Soldier of the Pantheon
-1 Silkwrap
-2 Silkwrap
-3 Apostle of Purifying Light
-3 Silkwrap
 1 Aethersphere Harvester
 1 Solemnity
 1 Erase

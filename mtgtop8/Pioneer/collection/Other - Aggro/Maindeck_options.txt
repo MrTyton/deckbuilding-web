@@ -114,14 +114,14 @@
 4 Fatal Push
 3 Forest
 4 Forest
-1 Blooming Marsh
 1 Overgrown Tomb
+1 Blooming Marsh
 2 Blooming Marsh
 2 Overgrown Tomb
-3 Blooming Marsh
 3 Overgrown Tomb
-4 Blooming Marsh
+3 Blooming Marsh
 4 Overgrown Tomb
+4 Blooming Marsh
 2 Swamp
 3 Swamp
 1 Scavenging Ooze
@@ -202,29 +202,29 @@
 4 Concealed Courtyard
 4 Godless Shrine
 4 Caves of Koilos
-1 Wastes
-1 Shefet Dunes
+1 Trial of Ambition
+1 Omen of the Sea
 1 Silkwrap
+1 Shefet Dunes
 1 Wasteland Strangler
 1 Spell Queller
 1 Archon of Sun's Grace
 1 Eldrazi Displacer
-1 Trial of Ambition
 1 Ulamog's Nullifier
 1 Elspeth Conquers Death
-1 Omen of the Sea
 1 Charming Prince
+1 Wastes
 1 Thought-Knot Seer
 1 Brain Maggot
+2 Shefet Dunes
+2 Trial of Ambition
 2 Omen of the Sea
 2 Silkwrap
-2 Shefet Dunes
 2 Wasteland Strangler
 2 Spell Queller
 2 Elspeth Conquers Death
 2 Archon of Sun's Grace
 2 Thought-Knot Seer
-2 Trial of Ambition
 2 Brain Maggot
 2 Ulamog's Nullifier
 2 Wastes
@@ -242,8 +242,8 @@
 4 Omen of the Sea
 4 Silkwrap
 4 Brain Maggot
-4 Spell Queller
 4 Thought-Knot Seer
+4 Spell Queller
 4 Charming Prince
 4 Eldrazi Displacer
 4 Wasteland Strangler
@@ -281,19 +281,19 @@
 3 Gilded Goose
 3 Rootbound Crag
 4 Gilded Goose
-1 Ashiok, Nightmare Muse
+1 Atris, Oracle of Half-Truths
+1 Shark Typhoon
+1 Hinterland Harbor
 1 Nissa, Who Shakes the World
 1 Tireless Tracker
 1 Heartless Act
-1 Atris, Oracle of Half-Truths
 1 Breeding Pool
 1 Traverse the Ulvenwald
 1 Eat to Extinction
 1 Uro, Titan of Nature's Wrath
 1 Jace, Vryn's Prodigy
-1 Shark Typhoon
 1 Zagoth Triome
-1 Hinterland Harbor
+1 Ashiok, Nightmare Muse
 1 Murderous Rider
 2 Shark Typhoon
 2 Murderous Rider
@@ -301,11 +301,28 @@
 2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
 2 Jace, Vryn's Prodigy
-3 Jace, Vryn's Prodigy
 3 Traverse the Ulvenwald
 3 Uro, Titan of Nature's Wrath
+3 Jace, Vryn's Prodigy
 3 Breeding Pool
 4 Uro, Titan of Nature's Wrath
+1 Fetid Pools
+1 Drowned Catacomb
+1 Metallic Rebuke
+1 Cauldron Familiar
+1 Choked Estuary
+1 Witch's Oven
+2 Fetid Pools
+2 Metallic Rebuke
+2 Witch's Oven
+2 Cauldron Familiar
+2 Choked Estuary
+3 Choked Estuary
+3 Cauldron Familiar
+3 Witch's Oven
+4 Choked Estuary
+4 Witch's Oven
+4 Cauldron Familiar
 4 Gods Willing
 1 Rishkar, Peema Renegade
 1 Nissa, Voice of Zendikar
@@ -413,34 +430,17 @@
 2 Heart of Kiran
 2 Gideon of the Trials
 2 Pack Rat
-2 Karn, Scion of Urza
 2 Knight of the Ebon Legion
 2 Shambling Vent
 2 Heliod, Sun-Crowned
+2 Karn, Scion of Urza
 3 Pack Rat
-3 Karn, Scion of Urza
 3 Heliod, Sun-Crowned
+3 Karn, Scion of Urza
 3 Heart of Kiran
 3 Knight of the Ebon Legion
+4 Scrapheap Scrounger
 4 Knight of the Ebon Legion
 4 Swamp
-4 Scrapheap Scrounger
 4 Karn, Scion of Urza
 4 Pack Rat
-1 Fetid Pools
-1 Metallic Rebuke
-1 Cauldron Familiar
-1 Drowned Catacomb
-1 Choked Estuary
-1 Witch's Oven
-2 Fetid Pools
-2 Metallic Rebuke
-2 Witch's Oven
-2 Cauldron Familiar
-2 Choked Estuary
-3 Choked Estuary
-3 Cauldron Familiar
-3 Witch's Oven
-4 Witch's Oven
-4 Cauldron Familiar
-4 Choked Estuary

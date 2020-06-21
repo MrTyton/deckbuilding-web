@@ -44,9 +44,9 @@
 |                     |                                                                                            |                    1|Drannith Magistrate                                                                                  |
 |                     |                                                                                            |                    2|Drannith Magistrate                                                                                  |
 |                     |                                                                                            |                    1|Blade Banish                                                                                         |
+|                     |                                                                                            |                    1|[Revoke Existence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378397)          |
 |                     |                                                                                            |                    2|Blade Banish                                                                                         |
 |                     |                                                                                            |                    2|[Revoke Existence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378397)          |
 |                     |                                                                                            |                    3|[Revoke Existence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378397)          |
 |                     |                                                                                            |                    4|[Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977)              |
-|                     |                                                                                            |                    1|[Revoke Existence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378397)          |
 

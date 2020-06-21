@@ -1,9 +1,6 @@
 3 Plains
 4 Gird for Battle
 4 Boros Charm
-1 Gryff's Boon
-2 Gryff's Boon
-4 Dreadhorde Arcanist
 4 Mountain
 5 Mountain
 6 Mountain
@@ -14,7 +11,6 @@
 2 Lightning Strike
 2 Light Up the Stage
 3 Wild Slash
-3 Lightning Strike
 3 Light Up the Stage
 4 Wild Slash
 4 Light Up the Stage
@@ -35,9 +31,15 @@
 4 Ghitu Lavarunner
 7 Mountain
 1 Shock
-4 Lightning Strike
+3 Lightning Strike
+1 Gryff's Boon
+2 Gryff's Boon
 4 Viashino Pyromancer
+4 Dreadhorde Arcanist
+4 Lightning Strike
 1 Blood Crypt
+1 Ash Zealot
+2 Ash Zealot
 1 Skewer the Critics
 2 Skewer the Critics
 3 Skewer the Critics
@@ -57,8 +59,8 @@
 1 Purphoros's Intervention
 1 Gideon, Ally of Zendikar
 1 Chandra, Torch of Defiance
-1 Bonecrusher Giant
 1 Chandra, Awakened Inferno
+1 Bonecrusher Giant
 1 Gideon of the Trials
 1 Fabled Passage
 1 Thalia's Lancers
@@ -81,8 +83,8 @@
 3 The Birth of Meletis
 3 Chained to the Rocks
 3 Temple of Triumph
-3 Lavabrink Venturer
 3 Haktos the Unscarred
+3 Lavabrink Venturer
 3 Gideon of the Trials
 3 Bonecrusher Giant
 3 Fabled Passage

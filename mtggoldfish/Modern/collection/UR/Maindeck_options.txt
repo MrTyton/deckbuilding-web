@@ -1,4 +1,4 @@
-1 Engineered Explosives
+1 Mox Amber
 1 Nihil Spellbomb
 1 Snow-Covered Plains
 1 Damping Sphere
@@ -20,18 +20,18 @@
 3 Galvanic Blast
 1 Misty Rainforest
 1 Snapcaster Mage
-1 Opt
 1 Lightning Bolt
+1 Opt
 2 Snapcaster Mage
-2 Steam Vents
 2 Lightning Bolt
+2 Steam Vents
 2 Opt
-3 Snapcaster Mage
 3 Lightning Bolt
+3 Snapcaster Mage
 3 Opt
 3 Archmage's Charm
-4 Opt
 4 Lightning Bolt
+4 Opt
 1 Island
 1 Serum Visions
 1 Remand
@@ -86,10 +86,10 @@
 1 Electrolyze
 1 Ichor Wellspring
 2 Snow-Covered Plains
-2 Damping Sphere
-2 Soul-Guide Lantern
 2 Raugrin Triome
+2 Damping Sphere
 2 Ichor Wellspring
+2 Soul-Guide Lantern
 3 Soul-Guide Lantern
 3 Mystic Sanctuary
 4 Remand
@@ -116,25 +116,25 @@
 1 Sphinx's Revelation
 1 Plains
 2 Stoneforge Mystic
-2 Supreme Verdict
 2 Seachrome Coast
+2 Supreme Verdict
 2 Sphinx's Revelation
 3 Stoneforge Mystic
 3 Celestial Colonnade
 4 Lightning Helix
 4 Celestial Colonnade
 1 Blood Moon
-1 Ral, Izzet Viceroy
-1 Flame Slash
 1 Narset, Parter of Veils
+1 Flame Slash
 1 Quicken
+1 Ral, Izzet Viceroy
 1 Day's Undoing
 2 Spell Snare
 2 Blood Moon
 2 Narset, Parter of Veils
 1 Lonely Sandbar
-1 Relic of Progenitus
 1 Talisman of Progress
+1 Relic of Progenitus
 2 Relic of Progenitus
 2 Talisman of Progress
 3 Talisman of Progress
@@ -147,18 +147,15 @@
 4 Steam Vents
 3 Sword of the Meek
 1 Vendilion Clique
+1 Academy Ruins
+1 Jace, the Mind Sculptor
 1 Time Sieve
 1 Witching Well
-1 Jace, the Mind Sculptor
-1 Academy Ruins
-1 Talisman of Creativity
-1 Grafdigger's Cage
-2 Snow-Covered Mountain
+1 Breeding Pool
 1 Drown in the Loch
 1 Fatal Push
 1 Inquisition of Kozilek
 1 Thoughtseize
-1 Breeding Pool
 1 Collective Brutality
 2 Thoughtseize
 2 Fatal Push
@@ -167,21 +164,29 @@
 1 Blood Crypt
 1 Chromatic Star
 2 Watery Grave
-2 Aether Spellbomb
 2 Nihil Spellbomb
+2 Aether Spellbomb
 2 Chromatic Star
+1 Grafdigger's Cage
+1 Talisman of Creativity
+2 Snow-Covered Mountain
 2 Lonely Sandbar
 3 Teferi, Time Raveler
-1 Arid Mesa
 1 Field of Ruin
 1 Glacial Fortress
 1 Narset of the Ancient Way
 1 Geist of Saint Traft
 1 Spell Queller
 1 Archangel Avacyn
+1 Arid Mesa
 2 Geist of Saint Traft
 2 Spell Queller
 3 Spell Queller
+1 Lurrus of the Dream Den
+2 Lurrus of the Dream Den
+3 Lurrus of the Dream Den
+3 Prismatic Vista
+4 Prismatic Vista
 3 Misty Rainforest
 4 Misty Rainforest
 1 Emrakul, the Aeons Torn
@@ -203,8 +208,3 @@
 4 Sulfur Falls
 3 Metallic Rebuke
 4 Metallic Rebuke
-1 Lurrus of the Dream Den
-2 Lurrus of the Dream Den
-3 Lurrus of the Dream Den
-3 Prismatic Vista
-4 Prismatic Vista
