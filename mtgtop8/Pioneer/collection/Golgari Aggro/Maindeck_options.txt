@@ -1,9 +1,6 @@
 3 Chamber Sentry
 1 Evolutionary Leap
 2 Evolutionary Leap
-2 Mutavault
-3 Mutavault
-4 Mutavault
 1 Woodland Cemetery
 1 Experiment One
 1 Pelt Collector
@@ -14,17 +11,13 @@
 3 Pelt Collector
 4 Experiment One
 4 Pelt Collector
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-4 Thoughtseize
 7 Forest
 1 Llanowar Elves
 1 Elvish Mystic
 2 Elvish Mystic
 2 Llanowar Elves
-3 Llanowar Elves
 3 Elvish Mystic
+3 Llanowar Elves
 4 Elvish Mystic
 4 Llanowar Elves
 2 Scavenging Ooze
@@ -32,14 +25,19 @@
 3 Scavenging Ooze
 4 Scavenging Ooze
 4 Woodland Cemetery
-1 Hashep Oasis
 4 Chamber Sentry
-8 Forest
 1 Spire of Industry
+2 Mutavault
 2 Spire of Industry
-2 Hashep Oasis
+3 Mutavault
+4 Mutavault
+8 Forest
 1 Voracious Hydra
 2 Voracious Hydra
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
 1 Steel Leaf Champion
 2 Steel Leaf Champion
 3 Steel Leaf Champion
@@ -59,13 +57,11 @@
 4 Lovestruck Beast
 9 Forest
 1 Mana Confluence
+1 Hashep Oasis
 1 Nissa, Who Shakes the World
 1 Yorvo, Lord of Garenbrig
 2 Yorvo, Lord of Garenbrig
 2 Nissa, Who Shakes the World
-1 Animation Module
-2 Animation Module
-3 Animation Module
 1 Implement of Ferocity
 1 Hope of Ghirapur
 2 Hope of Ghirapur
@@ -90,6 +86,7 @@
 1 Nissa, Voice of Zendikar
 1 Rishkar, Peema Renegade
 2 Nissa, Voice of Zendikar
+2 Hashep Oasis
 2 Vivien, Arkbow Ranger
 3 Nissa, Voice of Zendikar
 3 Vivien, Arkbow Ranger

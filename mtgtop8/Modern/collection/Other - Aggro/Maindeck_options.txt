@@ -1,7 +1,7 @@
 1 Lava Dart
 1 Marsh Flats
-1 Snow-Covered Swamp
 1 Snow-Covered Mountain
+1 Snow-Covered Swamp
 2 Lava Dart
 2 Snow-Covered Mountain
 1 Unearth
@@ -22,10 +22,10 @@
 1 Polluted Delta
 2 Polluted Delta
 3 Polluted Delta
+1 Mana Leak
 1 Spell Snare
 1 Serum Visions
 1 Island
-1 Mana Leak
 1 Watery Grave
 1 Archmage's Charm
 1 Delver of Secrets
@@ -141,8 +141,8 @@
 2 Swamp
 2 Arid Mesa
 3 Kolaghan's Command
-3 Swamp
 3 Marsh Flats
+3 Swamp
 4 Dark Confidant
 2 Kiln Fiend
 4 Mountain
@@ -210,8 +210,8 @@
 3 Inspiring Vantage
 4 Magnetic Theft
 4 Inkmoth Nexus
-4 Stoneforge Mystic
 4 Giver of Runes
+4 Stoneforge Mystic
 4 Colossus Hammer
 4 Steelshaper's Gift
 4 Plains
