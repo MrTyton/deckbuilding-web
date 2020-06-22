@@ -63,8 +63,6 @@
 1 Elvish Mystic
 1 Llanowar Elves
 1 Collected Company
-1 Horizon Canopy
-1 Devoted Druid
 1 Heritage Druid
 1 Selfless Spirit
 1 Leyline of Abundance
@@ -73,19 +71,21 @@
 1 Ezuri, Renegade Leader
 1 Boreal Druid
 1 Umbral Mantle
+1 Devoted Druid
 1 Marwyn, the Nurturer
+1 Horizon Canopy
 1 Beastcaller Savant
 2 Windswept Heath
 2 Forest
 2 Llanowar Elves
 2 Collected Company
 2 Heritage Druid
-2 Temple Garden
-2 Devoted Druid
 2 Leyline of Abundance
 2 Elvish Mystic
 2 Marwyn, the Nurturer
 2 Ezuri, Renegade Leader
+2 Devoted Druid
+2 Temple Garden
 2 Elvish Archdruid
 2 Umbral Mantle
 2 Razorverge Thicket
@@ -107,18 +107,18 @@
 4 Windswept Heath
 4 Llanowar Elves
 4 Collected Company
-4 Devoted Druid
 4 Leyline of Abundance
 4 Horizon Canopy
 4 Razorverge Thicket
 4 Umbral Mantle
 4 Elvish Mystic
+4 Devoted Druid
 4 Elvish Archdruid
 4 Temple Garden
 4 Ezuri, Renegade Leader
+1 Peer Through Depths
 1 Lonely Sandbar
 1 Serum Visions
-1 Peer Through Depths
 1 Sleight of Hand
 1 Merchant Scroll
 1 Lotus Field
@@ -133,9 +133,9 @@
 1 Sylvan Scrying
 1 Izzet Charm
 2 Island
-2 Peer Through Depths
 2 Lonely Sandbar
 2 Serum Visions
+2 Peer Through Depths
 2 Twiddle
 2 Ideas Unbound
 2 Lotus Field

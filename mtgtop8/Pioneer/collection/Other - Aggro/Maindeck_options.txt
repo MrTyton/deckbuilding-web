@@ -8,17 +8,16 @@
 3 Stomping Ground
 1 Rootbound Crag
 4 Stomping Ground
-1 Legion Warboss
 1 Gilded Goose
 1 Temple Garden
 1 Sunpetal Grove
 1 Voice of Resurgence
 1 Elvish Mystic
 1 Eldritch Evolution
+1 Legion Warboss
 1 Kenrith, the Returned King
 1 Winota, Joiner of Forces
 1 Angrath's Marauders
-2 Legion Warboss
 2 Temple Garden
 2 Sunpetal Grove
 2 Gilded Goose
@@ -28,13 +27,14 @@
 2 Kenrith, the Returned King
 2 Elvish Mystic
 2 Eldritch Evolution
-3 Legion Warboss
+2 Legion Warboss
 3 Temple Garden
 3 Voice of Resurgence
 3 Elvish Mystic
 3 Eldritch Evolution
 3 Winota, Joiner of Forces
 3 Angrath's Marauders
+3 Legion Warboss
 4 Voice of Resurgence
 4 Temple Garden
 4 Eldritch Evolution
@@ -45,8 +45,8 @@
 3 Inspiring Vantage
 2 Mountain
 3 Mountain
-1 Clifftop Retreat
 1 Dreadhorde Arcanist
+1 Clifftop Retreat
 1 Reckless Rage
 1 Gird for Battle
 1 Soul-Scar Mage
@@ -95,10 +95,10 @@
 4 Battlefield Forge
 4 Favored Hoplite
 2 Rootbound Crag
-1 Goblin Rabblemaster
 1 Llanowar Elves
-2 Goblin Rabblemaster
+1 Goblin Rabblemaster
 2 Llanowar Elves
+2 Goblin Rabblemaster
 3 Llanowar Elves
 4 Elvish Mystic
 4 Llanowar Elves
@@ -133,17 +133,17 @@
 2 Abrupt Decay
 2 Scavenging Ooze
 1 Chevill, Bane of Monsters
+1 Dead Weight
 1 Dreadbore
 1 Blood Crypt
 1 Kroxa, Titan of Death's Hunger
 1 Kolaghan's Command
 1 Grim Flayer
 1 Unbridled Growth
-1 Dead Weight
 2 Chevill, Bane of Monsters
 2 Blood Crypt
-2 Kroxa, Titan of Death's Hunger
 2 Dead Weight
+2 Kroxa, Titan of Death's Hunger
 2 Unbridled Growth
 2 Grim Flayer
 3 Blood Crypt
@@ -202,8 +202,8 @@
 4 Concealed Courtyard
 4 Godless Shrine
 4 Caves of Koilos
-1 Trial of Ambition
 1 Omen of the Sea
+1 Trial of Ambition
 1 Silkwrap
 1 Shefet Dunes
 1 Wasteland Strangler
@@ -222,8 +222,8 @@
 2 Silkwrap
 2 Wasteland Strangler
 2 Spell Queller
-2 Archon of Sun's Grace
 2 Elspeth Conquers Death
+2 Archon of Sun's Grace
 2 Thought-Knot Seer
 2 Brain Maggot
 2 Ulamog's Nullifier
@@ -233,9 +233,9 @@
 2 Eldrazi Displacer
 3 Omen of the Sea
 3 Silkwrap
-3 Brain Maggot
 3 Wasteland Strangler
 3 Spell Queller
+3 Brain Maggot
 3 Eldrazi Displacer
 3 Thought-Knot Seer
 3 Charming Prince
@@ -266,50 +266,27 @@
 2 Soul-Guide Lantern
 3 Evolving Wilds
 4 Gird for Battle
-1 Elvish Visionary
-2 Elvish Visionary
-3 Elvish Visionary
-3 Goblin Rabblemaster
-4 Elvish Visionary
-4 Goblin Rabblemaster
 1 Duskwatch Recruiter
 2 Duskwatch Recruiter
 2 Goblin Instigator
 3 Duskwatch Recruiter
+3 Rootbound Crag
 3 Sunpetal Grove
 3 Goblin Instigator
 3 Gilded Goose
-3 Rootbound Crag
 4 Gilded Goose
-1 Fetid Pools
-1 Drowned Catacomb
-1 Metallic Rebuke
-1 Cauldron Familiar
-1 Witch's Oven
-1 Choked Estuary
-2 Fetid Pools
-2 Metallic Rebuke
-2 Cauldron Familiar
-2 Witch's Oven
-2 Choked Estuary
-3 Choked Estuary
-3 Witch's Oven
-3 Cauldron Familiar
-4 Choked Estuary
-4 Witch's Oven
-4 Cauldron Familiar
-1 Atris, Oracle of Half-Truths
-1 Shark Typhoon
 1 Hinterland Harbor
-1 Nissa, Who Shakes the World
-1 Tireless Tracker
+1 Shark Typhoon
+1 Atris, Oracle of Half-Truths
 1 Heartless Act
+1 Nissa, Who Shakes the World
 1 Breeding Pool
 1 Traverse the Ulvenwald
 1 Eat to Extinction
 1 Uro, Titan of Nature's Wrath
 1 Jace, Vryn's Prodigy
 1 Zagoth Triome
+1 Tireless Tracker
 1 Ashiok, Nightmare Muse
 1 Murderous Rider
 2 Shark Typhoon
@@ -323,6 +300,23 @@
 3 Jace, Vryn's Prodigy
 3 Breeding Pool
 4 Uro, Titan of Nature's Wrath
+1 Fetid Pools
+1 Drowned Catacomb
+1 Metallic Rebuke
+1 Cauldron Familiar
+1 Choked Estuary
+1 Witch's Oven
+2 Fetid Pools
+2 Metallic Rebuke
+2 Witch's Oven
+2 Cauldron Familiar
+2 Choked Estuary
+3 Choked Estuary
+3 Cauldron Familiar
+3 Witch's Oven
+4 Choked Estuary
+4 Witch's Oven
+4 Cauldron Familiar
 4 Gods Willing
 1 Rishkar, Peema Renegade
 1 Nissa, Voice of Zendikar
@@ -347,39 +341,45 @@
 3 Chevill, Bane of Monsters
 4 Deathrite Shaman
 4 Chevill, Bane of Monsters
-1 Embercleave
-1 Ghor-Clan Rampager
+1 Elvish Visionary
+2 Elvish Visionary
+3 Elvish Visionary
+3 Goblin Rabblemaster
+4 Elvish Visionary
+4 Goblin Rabblemaster
+1 Gruul Spellbreaker
+1 Domri, Anarch of Bolas
 1 Dryad Militant
 1 Burning-Tree Emissary
 1 Hazoret the Fervent
 1 Questing Beast
 1 Gallia of the Endless Dance
+1 Embercleave
 1 Zhur-Taa Goblin
+1 Ghor-Clan Rampager
 1 Game Trail
-1 Gruul Spellbreaker
 1 Domri Rade
 1 Bonecrusher Giant
 1 Voltaic Brawler
 1 Hashep Oasis
-1 Domri, Anarch of Bolas
-2 Ghor-Clan Rampager
-2 Embercleave
-2 Burning-Tree Emissary
 2 Gruul Spellbreaker
+2 Burning-Tree Emissary
+2 Embercleave
+2 Ghor-Clan Rampager
 2 Hashep Oasis
 2 Voltaic Brawler
 2 Bonecrusher Giant
 2 Zhur-Taa Goblin
 2 Gallia of the Endless Dance
 2 Game Trail
+3 Gruul Spellbreaker
 3 Burning-Tree Emissary
 3 Bonecrusher Giant
 3 Ghor-Clan Rampager
-3 Gruul Spellbreaker
 3 Voltaic Brawler
+4 Gruul Spellbreaker
 4 Burning-Tree Emissary
 4 Voltaic Brawler
-4 Gruul Spellbreaker
 4 Ghor-Clan Rampager
 4 Bonecrusher Giant
 1 Springleaf Drum

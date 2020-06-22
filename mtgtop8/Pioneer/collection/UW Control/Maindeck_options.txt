@@ -1,10 +1,10 @@
-2 Castle Vantress
-2 Gideon of the Trials
-5 Island
-1 Dovin's Veto
+3 Censor
 1 Baffling End
 2 Baffling End
 4 Irrigated Farmland
+2 Gideon of the Trials
+5 Island
+1 Dovin's Veto
 2 Narset, Parter of Veils
 3 Shark Typhoon
 4 Plains
@@ -12,24 +12,24 @@
 4 Baffling End
 3 Fabled Passage
 5 Plains
-6 Island
 4 Teferi, Time Raveler
 1 Fumigate
 4 Fabled Passage
 1 Omen of the Sun
-4 Censor
-1 Dig Through Time
-2 Dig Through Time
-1 Neutralize
-1 Cast Out
+6 Island
 1 The Birth of Meletis
 2 The Birth of Meletis
 3 The Birth of Meletis
-6 Plains
 2 Omen of the Sun
+6 Plains
 1 Geier Reach Sanitarium
+1 Cast Out
 1 Prairie Stream
+4 Censor
 1 Essence Scatter
+1 Dig Through Time
+2 Dig Through Time
+1 Neutralize
 3 Castle Ardenvale
 1 Elspeth, Sun's Nemesis
 1 Jace, Architect of Thought
@@ -37,7 +37,6 @@
 1 Chemister's Insight
 3 Narset, Parter of Veils
 2 Prairie Stream
-2 Neutralize
 2 Essence Scatter
 1 Karn, the Great Creator
 1 Walking Ballista
@@ -93,6 +92,7 @@
 3 Field of Ruin
 4 Shark Typhoon
 2 Cast Out
+2 Neutralize
 1 Sinister Sabotage
 2 Sinister Sabotage
 3 Sinister Sabotage
@@ -101,13 +101,13 @@
 2 Interplanar Beacon
 2 Elspeth, Sun's Nemesis
 3 Gideon of the Trials
-1 Sphinx's Revelation
 1 Mystic Sanctuary
+1 Sphinx's Revelation
 1 Fae of Wishes
 1 Hour of Revelation
+2 Mystic Sanctuary
 2 Sphinx's Revelation
 2 Fae of Wishes
-2 Mystic Sanctuary
 2 Hour of Revelation
 3 Fae of Wishes
 3 Mystic Sanctuary

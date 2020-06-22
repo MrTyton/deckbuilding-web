@@ -1,31 +1,44 @@
-2 Castle Locthwain
-1 Fatal Push
-2 Fatal Push
-4 The Birth of Meletis
-3 Caves of Koilos
-4 Oath of Kaya
-5 Swamp
-2 Gideon of the Trials
 1 Agonizing Remorse
+2 Elspeth's Nightmare
+2 Murderous Rider
 2 Agonizing Remorse
+3 Caves of Koilos
+4 Demonic Pact
+4 Swamp
+4 The Birth of Meletis
 1 Kaya's Wrath
 4 Caves of Koilos
+4 Oath of Kaya
 3 Elspeth's Nightmare
+5 Swamp
+1 Duress
+2 Duress
 6 Plains
 1 Final Payment
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
-1 Starfield of Nyx
-4 Thraben Inspector
-4 Treacherous Blessing
-1 Fabled Passage
+1 Gideon, Ally of Zendikar
+2 Gideon, Ally of Zendikar
 1 Supreme Verdict
 1 Hallowed Fountain
 2 Supreme Verdict
 2 Hallowed Fountain
+1 Clifftop Retreat
+1 Sulfur Falls
+1 Raugrin Triome
+2 Raugrin Triome
+2 Clifftop Retreat
+2 Sulfur Falls
+3 Clifftop Retreat
 3 Hallowed Fountain
 4 Hallowed Fountain
+1 Irrigated Farmland
+1 Azorius Charm
+2 Irrigated Farmland
+2 Azorius Charm
+3 Sulfur Falls
+3 Irrigated Farmland
+3 Azorius Charm
+4 Azorius Charm
+4 Irrigated Farmland
 1 Elspeth Conquers Death
 1 Glacial Fortress
 1 Omen of the Sea
@@ -40,77 +53,6 @@
 3 Teferi, Time Raveler
 4 Omen of the Sea
 4 Teferi, Time Raveler
-1 Island
-2 Island
-2 Fabled Passage
-3 Fabled Passage
-4 Fabled Passage
-3 Elspeth Conquers Death
-3 Supreme Verdict
-1 Opt
-2 Opt
-3 Opt
-4 Opt
-1 Teferi, Hero of Dominaria
-1 Detention Sphere
-1 Nissa, Vastwood Seer
-1 Lumbering Falls
-1 Sunpetal Grove
-1 Courser of Kruphix
-1 Breeding Pool
-1 Growth Spiral
-1 Uro, Titan of Nature's Wrath
-1 Temple Garden
-1 Forest
-1 Satyr Wayfinder
-1 Hinterland Harbor
-2 Teferi, Hero of Dominaria
-2 Nissa, Vastwood Seer
-2 Lumbering Falls
-2 Detention Sphere
-2 Temple Garden
-2 Sunpetal Grove
-2 Courser of Kruphix
-2 Hinterland Harbor
-2 Forest
-2 Satyr Wayfinder
-2 Breeding Pool
-2 Uro, Titan of Nature's Wrath
-2 Growth Spiral
-3 Temple Garden
-3 Teferi, Hero of Dominaria
-3 Baffling End
-3 Uro, Titan of Nature's Wrath
-3 Breeding Pool
-3 Growth Spiral
-3 Forest
-4 Supreme Verdict
-4 Baffling End
-4 Temple Garden
-4 Uro, Titan of Nature's Wrath
-4 Breeding Pool
-4 Growth Spiral
-1 Duress
-2 Duress
-1 Gideon, Ally of Zendikar
-2 Gideon, Ally of Zendikar
-1 Castle Ardenvale
-1 Clifftop Retreat
-1 Sulfur Falls
-1 Raugrin Triome
-2 Raugrin Triome
-2 Clifftop Retreat
-2 Sulfur Falls
-3 Clifftop Retreat
-1 Irrigated Farmland
-1 Azorius Charm
-2 Irrigated Farmland
-2 Azorius Charm
-3 Sulfur Falls
-3 Irrigated Farmland
-3 Azorius Charm
-4 Azorius Charm
-4 Irrigated Farmland
 1 Interplanar Beacon
 1 Elspeth, Sun's Nemesis
 1 Narset, Parter of Veils
@@ -118,9 +60,9 @@
 1 Lukka, Coppercoat Outcast
 1 Sacred Foundry
 1 Agent of Treachery
-2 Interplanar Beacon
 2 Agent of Treachery
 2 Lukka, Coppercoat Outcast
+2 Interplanar Beacon
 2 Elspeth, Sun's Nemesis
 2 Sacred Foundry
 2 Steam Vents
@@ -133,13 +75,18 @@
 4 Lukka, Coppercoat Outcast
 4 Interplanar Beacon
 4 Raugrin Triome
-3 Fatal Push
+1 Castle Ardenvale
+1 Island
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+2 Island
 1 Censor
 2 Censor
 3 Censor
 4 Censor
-1 Neutralize
 1 Cast Out
+1 Neutralize
 1 Nimble Obstructionist
 1 Castle Vantress
 1 Hieroglyphic Illumination
@@ -147,8 +94,8 @@
 1 Shark Typhoon
 1 Zenith Flare
 2 Shark Typhoon
-2 Neutralize
 2 Cast Out
+2 Neutralize
 2 Nimble Obstructionist
 2 Zenith Flare
 2 Flourishing Fox
@@ -167,6 +114,11 @@
 4 Neutralize
 4 Cast Out
 4 Sulfur Falls
+3 Fatal Push
+4 Treacherous Blessing
+3 Elspeth Conquers Death
+3 Supreme Verdict
+1 Fabled Passage
 1 Deafening Clarion
 2 Castle Ardenvale
 2 Deafening Clarion
@@ -175,26 +127,27 @@
 3 Gideon, Ally of Zendikar
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
-3 Satyr Wayfinder
-4 Satyr Wayfinder
-1 Underworld Connections
-1 Easy Prey
 2 Kaya's Wrath
 3 Murderous Rider
 1 History of Benalia
+1 Starfield of Nyx
 1 Kunoros, Hound of Athreos
 2 Kunoros, Hound of Athreos
-2 Starfield of Nyx
-6 Swamp
-2 Final Payment
+2 Fabled Passage
+3 Fabled Passage
+4 Fabled Passage
 4 Fatal Push
+4 Thraben Inspector
 1 Mountain
+1 Opt
+2 Opt
+3 Opt
+4 Opt
 1 Blast Zone
 2 History of Benalia
+1 Underworld Connections
+1 Easy Prey
 2 Temple of Silence
-1 Concealed Courtyard
-2 Concealed Courtyard
-3 Kunoros, Hound of Athreos
 1 Nahiri, the Harbinger
 1 Sweltering Suns
 1 Chained to the Rocks
@@ -210,14 +163,51 @@
 4 Sweltering Suns
 4 Sacred Foundry
 4 Chained to the Rocks
-1 Mass Manipulation
-4 Teferi, Hero of Dominaria
-1 Cling to Dust
-2 Cling to Dust
-3 Starfield of Nyx
-4 Starfield of Nyx
-7 Plains
-7 Swamp
+1 Nissa, Vastwood Seer
+1 Lumbering Falls
+1 Teferi, Hero of Dominaria
+1 Detention Sphere
+1 Sunpetal Grove
+1 Courser of Kruphix
+1 Breeding Pool
+1 Growth Spiral
+1 Uro, Titan of Nature's Wrath
+1 Temple Garden
+1 Forest
+1 Satyr Wayfinder
+1 Hinterland Harbor
+2 Nissa, Vastwood Seer
+2 Lumbering Falls
+2 Teferi, Hero of Dominaria
+2 Detention Sphere
+2 Temple Garden
+2 Sunpetal Grove
+2 Courser of Kruphix
+2 Hinterland Harbor
+2 Forest
+2 Satyr Wayfinder
+2 Breeding Pool
+2 Uro, Titan of Nature's Wrath
+2 Growth Spiral
+3 Temple Garden
+3 Baffling End
+3 Teferi, Hero of Dominaria
+3 Uro, Titan of Nature's Wrath
+3 Breeding Pool
+3 Growth Spiral
+3 Satyr Wayfinder
+3 Forest
+4 Supreme Verdict
+4 Baffling End
+4 Temple Garden
+4 Uro, Titan of Nature's Wrath
+4 Breeding Pool
+4 Satyr Wayfinder
+4 Growth Spiral
+1 Concealed Courtyard
+2 Concealed Courtyard
+3 Kunoros, Hound of Athreos
+6 Swamp
 1 Blood Crypt
 1 Dreadbore
 1 Watery Grave
@@ -227,33 +217,34 @@
 3 Blood Crypt
 3 Dreadbore
 3 Watery Grave
-4 Dreadbore
 4 Blood Crypt
+4 Dreadbore
 4 Watery Grave
 1 Yorion, Sky Nomad
+2 Final Payment
 2 Yorion, Sky Nomad
-1 Nicol Bolas, Dragon-God
 1 Dragonskull Summit
 1 Tyrant's Scorn
+1 Nicol Bolas, Dragon-God
 1 Nicol Bolas, the Ravager
 1 Drown in the Loch
 1 Drowned Catacomb
-2 Tyrant's Scorn
 2 Dragonskull Summit
+2 Tyrant's Scorn
 2 Nicol Bolas, the Ravager
-2 Drown in the Loch
 2 Nicol Bolas, Dragon-God
+2 Drown in the Loch
 2 Drowned Catacomb
 3 Dragonskull Summit
 3 Nicol Bolas, the Ravager
+3 Nicol Bolas, Dragon-God
 3 Drown in the Loch
 3 Tyrant's Scorn
-3 Nicol Bolas, Dragon-God
 3 Drowned Catacomb
+4 Nicol Bolas, Dragon-God
 4 Nicol Bolas, the Ravager
 4 Drown in the Loch
 4 Tyrant's Scorn
-4 Nicol Bolas, Dragon-God
 1 Spirebluff Canal
 1 Strategic Planning
 1 Discovery / Dispersal
@@ -267,8 +258,8 @@
 2 Spirebluff Canal
 2 Strategic Planning
 2 Discovery / Dispersal
-2 Heartless Act
 2 Kroxa, Titan of Death's Hunger
+2 Heartless Act
 2 Mountain
 2 Jace, Vryn's Prodigy
 3 Jace, Vryn's Prodigy

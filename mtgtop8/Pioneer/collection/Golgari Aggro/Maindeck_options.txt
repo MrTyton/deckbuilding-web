@@ -11,15 +11,6 @@
 3 Pelt Collector
 4 Experiment One
 4 Pelt Collector
-7 Forest
-1 Llanowar Elves
-1 Elvish Mystic
-2 Llanowar Elves
-2 Elvish Mystic
-3 Llanowar Elves
-3 Elvish Mystic
-4 Elvish Mystic
-4 Llanowar Elves
 2 Scavenging Ooze
 3 Woodland Cemetery
 3 Scavenging Ooze
@@ -31,57 +22,25 @@
 2 Spire of Industry
 3 Mutavault
 4 Mutavault
-8 Forest
+7 Forest
 1 Voracious Hydra
 2 Voracious Hydra
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-4 Thoughtseize
-1 Steel Leaf Champion
-2 Steel Leaf Champion
-3 Steel Leaf Champion
-4 Steel Leaf Champion
-1 Rhonas the Indomitable
-1 Rotting Regisaur
-1 The Great Henge
-1 Lovestruck Beast
-2 Rotting Regisaur
-2 Rhonas the Indomitable
-2 Lovestruck Beast
-2 The Great Henge
-3 Rotting Regisaur
-3 The Great Henge
-3 Lovestruck Beast
-4 Rotting Regisaur
-4 Lovestruck Beast
-9 Forest
-1 Mana Confluence
+1 Llanowar Elves
+1 Elvish Mystic
+2 Llanowar Elves
+2 Elvish Mystic
+3 Llanowar Elves
+3 Elvish Mystic
+4 Elvish Mystic
+4 Llanowar Elves
+8 Forest
 1 Hashep Oasis
-1 Nissa, Who Shakes the World
-1 Yorvo, Lord of Garenbrig
-2 Yorvo, Lord of Garenbrig
-2 Nissa, Who Shakes the World
 1 Implement of Ferocity
 1 Hope of Ghirapur
 2 Hope of Ghirapur
 2 Implement of Ferocity
 3 Hope of Ghirapur
 3 The Ozolith
-1 Heart of Kiran
-1 Ghalta, Primal Hunger
-1 Surrak, the Hunt Caller
-1 Shadowspear
-1 Scrapheap Scrounger
-2 Scrapheap Scrounger
-2 Heart of Kiran
-2 Ghalta, Primal Hunger
-2 Surrak, the Hunt Caller
-3 Scrapheap Scrounger
-3 Ghalta, Primal Hunger
-3 Surrak, the Hunt Caller
-4 The Great Henge
-4 Scrapheap Scrounger
 1 Vivien, Arkbow Ranger
 1 Nissa, Voice of Zendikar
 1 Rishkar, Peema Renegade
@@ -92,6 +51,10 @@
 3 Vivien, Arkbow Ranger
 4 Vivien, Arkbow Ranger
 4 Nissa, Voice of Zendikar
+1 Steel Leaf Champion
+2 Steel Leaf Champion
+3 Steel Leaf Champion
+4 Steel Leaf Champion
 1 Deathrite Shaman
 1 Dwynen's Elite
 1 Dwynen, Gilt-Leaf Daen
@@ -100,9 +63,9 @@
 1 Shaman of the Pack
 1 Elvish Clancaller
 1 Gnarlroot Trapper
-1 Wildborn Preserver
 1 Chord of Calling
 1 Unclaimed Territory
+1 Wildborn Preserver
 1 Collected Company
 2 Deathrite Shaman
 2 Lead the Stampede
@@ -133,6 +96,11 @@
 3 Avatar of the Resolute
 4 Voracious Hydra
 4 Avatar of the Resolute
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
+1 Rhonas the Indomitable
 1 Blood Crypt
 1 Traverse the Ulvenwald
 1 Bomat Courier
@@ -142,6 +110,7 @@
 1 Sylvan Caryatid
 1 Lotleth Troll
 1 Soulflayer
+1 Mana Confluence
 1 Zetalpa, Primal Dawn
 1 Samut, Voice of Dissent
 1 Chromanticore
@@ -178,3 +147,30 @@
 4 Lotleth Troll
 4 Zetalpa, Primal Dawn
 4 Soulflayer
+1 Rotting Regisaur
+1 Heart of Kiran
+1 Ghalta, Primal Hunger
+1 Surrak, the Hunt Caller
+1 Shadowspear
+1 Scrapheap Scrounger
+1 The Great Henge
+1 Lovestruck Beast
+2 Rotting Regisaur
+2 Scrapheap Scrounger
+2 Heart of Kiran
+2 Rhonas the Indomitable
+2 Ghalta, Primal Hunger
+2 Surrak, the Hunt Caller
+2 Lovestruck Beast
+2 The Great Henge
+3 Rotting Regisaur
+3 Scrapheap Scrounger
+3 The Great Henge
+3 Lovestruck Beast
+3 Ghalta, Primal Hunger
+3 Surrak, the Hunt Caller
+4 Rotting Regisaur
+4 The Great Henge
+4 Scrapheap Scrounger
+4 Lovestruck Beast
+9 Forest
