@@ -46,7 +46,6 @@
 |                     |                                                                                              |                    1|[Grand Abolisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389538)          |
 |                     |                                                                                              |                    1|[Gideon of the Trials](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426716)     |
 |                     |                                                                                              |                    1|[Phyrexian Unlife](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218058)         |
-|                     |                                                                                              |                    1|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)                |
 |                     |                                                                                              |                    3|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)         |
 |                     |                                                                                              |                    3|[Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)           |
 |                     |                                                                                              |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)        |
@@ -57,4 +56,5 @@
 |                     |                                                                                              |                    2|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)             |
 |                     |                                                                                              |                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)             |
 |                     |                                                                                              |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)           |
+|                     |                                                                                              |                    1|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)                |
 

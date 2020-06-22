@@ -48,13 +48,13 @@
 1 Clifftop Retreat
 1 Dreadhorde Arcanist
 1 Reckless Rage
+1 Gird for Battle
 1 Soul-Scar Mage
 1 Favored Hoplite
 1 Battlefield Forge
 1 Titan's Strength
 1 Tenth District Legionnaire
 1 Defiant Strike
-1 Gird for Battle
 1 Gryff's Boon
 1 Boros Charm
 1 Gods Willing
@@ -73,11 +73,11 @@
 2 Defiant Strike
 3 Dreadhorde Arcanist
 3 Sacred Foundry
+3 Gird for Battle
 3 Reckless Rage
 3 Titan's Strength
 3 Favored Hoplite
 3 Defiant Strike
-3 Gird for Battle
 3 Monastery Swiftspear
 3 Tenth District Legionnaire
 3 Plains
@@ -222,8 +222,8 @@
 2 Silkwrap
 2 Wasteland Strangler
 2 Spell Queller
-2 Elspeth Conquers Death
 2 Archon of Sun's Grace
+2 Elspeth Conquers Death
 2 Thought-Knot Seer
 2 Brain Maggot
 2 Ulamog's Nullifier
@@ -242,8 +242,8 @@
 4 Omen of the Sea
 4 Silkwrap
 4 Brain Maggot
-4 Thought-Knot Seer
 4 Spell Queller
+4 Thought-Knot Seer
 4 Charming Prince
 4 Eldrazi Displacer
 4 Wasteland Strangler
@@ -281,6 +281,23 @@
 3 Gilded Goose
 3 Rootbound Crag
 4 Gilded Goose
+1 Fetid Pools
+1 Drowned Catacomb
+1 Metallic Rebuke
+1 Cauldron Familiar
+1 Witch's Oven
+1 Choked Estuary
+2 Fetid Pools
+2 Metallic Rebuke
+2 Cauldron Familiar
+2 Witch's Oven
+2 Choked Estuary
+3 Choked Estuary
+3 Witch's Oven
+3 Cauldron Familiar
+4 Choked Estuary
+4 Witch's Oven
+4 Cauldron Familiar
 1 Atris, Oracle of Half-Truths
 1 Shark Typhoon
 1 Hinterland Harbor
@@ -306,23 +323,6 @@
 3 Jace, Vryn's Prodigy
 3 Breeding Pool
 4 Uro, Titan of Nature's Wrath
-1 Fetid Pools
-1 Drowned Catacomb
-1 Metallic Rebuke
-1 Cauldron Familiar
-1 Choked Estuary
-1 Witch's Oven
-2 Fetid Pools
-2 Metallic Rebuke
-2 Witch's Oven
-2 Cauldron Familiar
-2 Choked Estuary
-3 Choked Estuary
-3 Cauldron Familiar
-3 Witch's Oven
-4 Choked Estuary
-4 Witch's Oven
-4 Cauldron Familiar
 4 Gods Willing
 1 Rishkar, Peema Renegade
 1 Nissa, Voice of Zendikar
@@ -393,8 +393,8 @@
 2 Sram, Senior Edificer
 2 Ethereal Armor
 3 Springleaf Drum
-3 Curious Obsession
 3 Alseid of Life's Bounty
+3 Curious Obsession
 3 Sram, Senior Edificer
 3 Ethereal Armor
 4 Curious Obsession

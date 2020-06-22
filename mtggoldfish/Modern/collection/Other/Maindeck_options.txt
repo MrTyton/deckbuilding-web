@@ -1,13 +1,13 @@
+3 Urza, Lord High Artificer
 3 Gilded Goose
-3 Wrenn and Six
 3 Kinnan, Bonder Prodigy
 3 Karn, the Great Creator
 3 Springleaf Drum
 3 Mox Amber
+4 Urza, Lord High Artificer
 4 Gilded Goose
 4 Emry, Lurker of the Loch
 4 Springleaf Drum
-4 Wrenn and Six
 4 Mox Amber
 4 Karn, the Great Creator
 4 Kinnan, Bonder Prodigy
@@ -19,88 +19,40 @@
 2 Ashiok, Dream Render
 1 Walking Ballista
 3 Trinket Mage
-1 Polluted Delta
-2 Polluted Delta
-3 Polluted Delta
-1 Snow-Covered Swamp
-1 Field of the Dead
-1 Verdant Catacombs
-2 Verdant Catacombs
-1 Overgrown Tomb
-1 Blast Zone
-1 Forest
-1 Primeval Titan
-2 Primeval Titan
-2 Field of the Dead
-1 Cavern of Souls
-2 Forest
-2 Cavern of Souls
-3 Cavern of Souls
-2 Stomping Ground
-2 Overgrown Tomb
-1 Ghost Quarter
-1 Swamp
-1 Gemstone Caverns
-1 Ruric Thar, the Unbowed
-1 Sire of Insanity
-1 Castle Garenbrig
-1 Sakura-Tribe Elder
-1 Sylvan Caryatid
-1 Mwonvuli Acid-Moss
-1 Explore
-1 Radiant Fountain
-1 Inferno Titan
-1 Wurmcoil Engine
-1 Bojuka Bog
-1 Deathsprout
-1 Chalice of the Void
-1 Mosswort Bridge
-2 Wurmcoil Engine
-2 Mwonvuli Acid-Moss
-2 Sire of Insanity
-2 Explore
-2 Castle Garenbrig
-2 Chalice of the Void
-2 Inferno Titan
-2 Gemstone Caverns
-2 Sylvan Caryatid
-2 Sakura-Tribe Elder
-3 Castle Garenbrig
-3 Primeval Titan
-3 Gemstone Caverns
-3 Sakura-Tribe Elder
-3 Sylvan Caryatid
-3 Wurmcoil Engine
-3 Explore
-3 Chalice of the Void
-4 Castle Garenbrig
-4 Primeval Titan
-4 Sylvan Caryatid
-4 Gemstone Caverns
-4 Explore
-4 Sakura-Tribe Elder
-4 Chalice of the Void
-1 Field of Ruin
+1 Mystic Sanctuary
+1 Cryptic Command
+2 Cryptic Command
+3 Cryptic Command
+2 Mystic Sanctuary
+1 Lightning Bolt
+2 Lightning Bolt
+3 Lightning Bolt
+4 Lightning Bolt
 1 Path to Exile
 2 Path to Exile
-1 Horizon Canopy
 1 Noble Hierarch
+1 Horizon Canopy
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
-1 Stoneforge Mystic
 1 Batterskull
 1 Sword of Feast and Famine
+1 Stoneforge Mystic
 2 Stoneforge Mystic
-3 Path to Exile
 3 Stoneforge Mystic
+3 Path to Exile
 4 Path to Exile
+1 Forest
 1 Birds of Paradise
 2 Birds of Paradise
 1 Plains
+1 Cavern of Souls
 2 Horizon Canopy
 1 Sword of Fire and Ice
+2 Forest
 3 Forest
+2 Cavern of Souls
+3 Cavern of Souls
 4 Cavern of Souls
 1 Reality Smasher
 1 Scavenger Grounds
@@ -119,74 +71,100 @@
 2 Scavenger Grounds
 3 Engineered Explosives
 3 Matter Reshaper
+3 Eldrazi Temple
 3 Horizon Canopy
 3 Reality Smasher
 3 Thought-Knot Seer
-3 Eldrazi Temple
 3 Ancient Stirrings
 4 Matter Reshaper
 4 Eldrazi Temple
 4 Reality Smasher
 4 Thought-Knot Seer
 4 Ancient Stirrings
-1 Mystic Sanctuary
-1 Cryptic Command
-2 Cryptic Command
-1 Watery Grave
-1 Fatal Push
-2 Fatal Push
-2 Mystic Sanctuary
-3 Fatal Push
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
-1 Remand
-2 Remand
-1 Zagoth Triome
+1 Field of Ruin
+1 Polluted Delta
+2 Polluted Delta
 1 Ice-Fang Coatl
-3 Cryptic Command
-4 Polluted Delta
-1 Lightning Bolt
-2 Lightning Bolt
-3 Lightning Bolt
-4 Lightning Bolt
-1 Thoughtseize
-2 Thoughtseize
-3 Inquisition of Kozilek
-1 Archmage's Charm
-3 Mystic Sanctuary
-5 Snow-Covered Island
+3 Polluted Delta
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
-1 Mountain
+2 Jace, the Mind Sculptor
+5 Snow-Covered Island
+1 Remand
+2 Remand
+3 Remand
+1 Zagoth Triome
+1 Flooded Strand
+2 Flooded Strand
+1 Archmage's Charm
+1 Lonely Sandbar
+1 Tarmogoyf
+2 Tarmogoyf
+2 Stomping Ground
+3 Tarmogoyf
+4 Tarmogoyf
 1 Hexdrinker
+1 Mountain
 2 Wooded Foothills
-1 Temple Garden
 1 Windswept Heath
+1 Temple Garden
 2 Windswept Heath
 1 Sacred Foundry
 3 Wooded Foothills
 4 Wooded Foothills
-2 Breeding Pool
-1 Hinterland Harbor
 1 Castle Vantress
+1 Blast Zone
+1 Snow-Covered Swamp
+1 Fatal Push
+2 Fatal Push
+1 Force of Negation
+2 Force of Negation
+2 Breeding Pool
+1 Field of the Dead
+3 Fatal Push
+4 Cryptic Command
 1 Snapcaster Mage
-2 Hinterland Harbor
+1 Hinterland Harbor
 2 Snapcaster Mage
-3 Remand
+2 Hinterland Harbor
+1 Watery Grave
 1 Tranquil Thicket
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
+3 Inquisition of Kozilek
 1 Assassin's Trophy
 1 Abrupt Decay
+1 Growth Spiral
+2 Growth Spiral
+3 Growth Spiral
+4 Growth Spiral
+4 Remand
 3 Windswept Heath
 4 Windswept Heath
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 1 Sunbaked Canyon
+2 Steam Vents
+3 Stomping Ground
+1 Opt
+1 Verdant Catacombs
+2 Verdant Catacombs
+3 Mystic Sanctuary
+6 Snow-Covered Island
+7 Snow-Covered Island
+1 Genesis
+1 The Royal Scions
+1 Oviya Pashiri, Sage Lifecrafter
+1 Minamo, School at Water's Edge
+1 Ox of Agonas
 1 Dismember
 2 Dismember
 1 Bloodstained Mire
 2 Bloodstained Mire
 3 Bloodstained Mire
+1 Thoughtseize
+2 Thoughtseize
 1 Lightning Skelemental
 2 Lightning Skelemental
 3 Lightning Skelemental
@@ -195,25 +173,42 @@
 1 Unearth
 1 Liliana of the Veil
 1 Kolaghan's Command
-1 Kroxa, Titan of Death's Hunger
 1 Cling to Dust
+1 Kroxa, Titan of Death's Hunger
 1 Blood Crypt
 2 Dreadhorde Arcanist
 2 Unearth
 2 Liliana of the Veil
-2 Kroxa, Titan of Death's Hunger
 2 Blood Crypt
+2 Kroxa, Titan of Death's Hunger
 3 Dreadhorde Arcanist
-3 Blood Crypt
 3 Thoughtseize
+3 Blood Crypt
 4 Bloodstained Mire
-1 Genesis
-1 The Royal Scions
-1 Oviya Pashiri, Sage Lifecrafter
-1 Minamo, School at Water's Edge
-1 Ox of Agonas
+1 Arid Mesa
+2 Arid Mesa
+1 Goblin Guide
+2 Goblin Guide
+3 Goblin Guide
+4 Goblin Guide
+1 Gallia of the Endless Dance
+1 Atarka's Command
+1 Burning-Tree Emissary
+1 Reckless Bushwhacker
+2 Atarka's Command
+2 Gallia of the Endless Dance
+2 Reckless Bushwhacker
+2 Burning-Tree Emissary
+3 Gallia of the Endless Dance
+3 Atarka's Command
+3 Burning-Tree Emissary
+3 Reckless Bushwhacker
+4 Burning-Tree Emissary
+4 Reckless Bushwhacker
+4 Atarka's Command
 2 Field of Ruin
 3 Field of Ruin
+1 Primeval Titan
 1 Brazen Borrower
 1 Venser, Shaper Savant
 1 Spell Snare
@@ -221,14 +216,13 @@
 1 Thragtusk
 1 Mana Leak
 1 Search for Tomorrow
-1 Force of Negation
+2 Primeval Titan
+2 Field of the Dead
 2 Zagoth Triome
 2 Brazen Borrower
 2 Spell Snare
 2 Tamiyo, Collector of Tales
 2 Search for Tomorrow
-2 Force of Negation
-2 Jace, the Mind Sculptor
 2 Mana Leak
 2 Thragtusk
 3 Force of Negation
@@ -236,10 +230,9 @@
 3 Search for Tomorrow
 4 Breeding Pool
 4 Search for Tomorrow
-6 Snow-Covered Island
-7 Snow-Covered Island
-1 Arid Mesa
-2 Arid Mesa
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
+1 Ghost Quarter
 4 Stoneforge Mystic
 1 Aether Vial
 2 Aether Vial
@@ -264,17 +257,18 @@
 1 Thalia, Guardian of Thraben
 2 Lurrus of the Dream Den
 2 Sacred Foundry
-2 Plains
 2 Giver of Runes
 2 Seal of Fire
+2 Plains
 2 Remorseful Cleric
-2 Ghost Quarter
 2 Blade Splicer
+2 Ghost Quarter
 2 Inspiring Vantage
 2 Leonin Arbiter
-2 Flickerwisp
 2 Thalia, Guardian of Thraben
+2 Flickerwisp
 2 Restoration Angel
+3 Plains
 3 Sacred Foundry
 3 Seal of Fire
 3 Giver of Runes
@@ -282,10 +276,11 @@
 3 Thalia, Guardian of Thraben
 3 Flickerwisp
 3 Restoration Angel
-3 Plains
 3 Leonin Arbiter
 3 Ghost Quarter
+4 Field of Ruin
 4 Sacred Foundry
+4 Plains
 4 Giver of Runes
 4 Seal of Fire
 4 Restoration Angel
@@ -293,60 +288,35 @@
 4 Thalia, Guardian of Thraben
 4 Leonin Arbiter
 4 Inspiring Vantage
-4 Plains
-4 Field of Ruin
 4 Flickerwisp
 5 Plains
 6 Plains
 7 Plains
 8 Plains
-1 Flooded Strand
-2 Flooded Strand
-1 Tarmogoyf
-2 Tarmogoyf
-1 Goblin Guide
-2 Goblin Guide
-3 Goblin Guide
-4 Goblin Guide
-1 Gallia of the Endless Dance
-1 Atarka's Command
-1 Burning-Tree Emissary
-1 Reckless Bushwhacker
-2 Atarka's Command
-2 Gallia of the Endless Dance
-2 Reckless Bushwhacker
-2 Burning-Tree Emissary
-3 Gallia of the Endless Dance
-3 Atarka's Command
-3 Burning-Tree Emissary
-3 Reckless Bushwhacker
-4 Burning-Tree Emissary
-4 Reckless Bushwhacker
-4 Atarka's Command
 2 Mountain
-1 Sword of the Meek
-1 Whir of Invention
-1 Thopter Foundry
-2 Thopter Foundry
-2 Whir of Invention
-3 Whir of Invention
+3 Steam Vents
+1 Izzet Charm
 1 Snow-Covered Plains
 1 Thought Scour
 2 Thought Scour
 3 Thought Scour
 4 Thought Scour
-3 Stomping Ground
-3 Mountain
-4 Mountain
-1 Fiery Islet
-4 Inquisition of Kozilek
-1 Opt
+2 Izzet Charm
+1 Serum Visions
+2 Serum Visions
+3 Serum Visions
+4 Serum Visions
 2 Opt
 3 Opt
 4 Opt
-1 Lonely Sandbar
+1 Fiery Islet
+1 Overgrown Tomb
+4 Polluted Delta
+3 Mountain
+4 Mountain
 1 Island
 2 Island
+2 Watery Grave
 3 Verdant Catacombs
 1 Lochmere Serpent
 1 Maelstrom Pulse
@@ -356,14 +326,41 @@
 1 Raven's Crime
 2 Gifts Ungiven
 2 Life from the Loam
-1 Nihil Spellbomb
-1 Talisman of Dominance
-1 Sunken Hollow
-2 Archmage's Charm
-2 Talisman of Dominance
-3 Archmage's Charm
-3 Talisman of Dominance
 3 Talisman of Unity
+1 Creeping Tar Pit
+1 Wilderness Reclamation
+1 Pulse of Murasa
+1 Logic Knot
+1 Nexus of Fate
+1 Blue Sun's Zenith
+1 Mystical Teachings
+2 Mystical Teachings
+2 Wilderness Reclamation
+2 Creeping Tar Pit
+3 Snapcaster Mage
+3 Wilderness Reclamation
+3 Mystical Teachings
+1 Tireless Tracker
+1 Embercleave
+1 Knight of the Reliquary
+1 Kessig Wolf Run
+1 Ajani Steadfast
+2 Knight of the Reliquary
+3 Knight of the Reliquary
+4 Knight of the Reliquary
+1 Ketria Triome
+1 Valakut, the Molten Pinnacle
+1 Sweltering Suns
+1 Scapeshift
+2 Ketria Triome
+2 Valakut, the Molten Pinnacle
+2 Scapeshift
+2 Sweltering Suns
+3 Ketria Triome
+3 Scapeshift
+4 Steam Vents
+4 Inquisition of Kozilek
+1 Swamp
 1 Death's Shadow
 1 Street Wraith
 1 Marsh Flats
@@ -382,20 +379,8 @@
 4 Thoughtseize
 4 Death's Shadow
 4 Street Wraith
-4 Blood Crypt
 4 Marsh Flats
-1 Tireless Tracker
-1 Embercleave
-1 Chandra, Torch of Defiance
-1 Knight of the Reliquary
-1 Kessig Wolf Run
-1 Ajani Steadfast
-2 Knight of the Reliquary
-2 Chandra, Torch of Defiance
-3 Tarmogoyf
-3 Knight of the Reliquary
-4 Tarmogoyf
-4 Knight of the Reliquary
+4 Blood Crypt
 1 Memnite
 1 Castle Embereth
 1 Goblin Bushwhacker
@@ -434,6 +419,32 @@
 4 Liliana of the Veil
 4 Vexing Devil
 4 Unearth
+1 Simian Spirit Guide
+1 Fires of Invention
+1 Dictate of Kruphix
+1 Jace Beleren
+1 Mikokoro, Center of the Sea
+1 Time Warp
+1 Exhaustion
+1 Howling Mine
+1 Savor the Moment
+1 Narset, Parter of Veils
+2 Castle Vantress
+2 Fires of Invention
+2 Exhaustion
+2 Time Warp
+2 Savor the Moment
+2 Narset, Parter of Veils
+2 Dictate of Kruphix
+2 Howling Mine
+3 Fires of Invention
+3 Time Warp
+3 Howling Mine
+3 Savor the Moment
+4 Time Warp
+4 Savor the Moment
+4 Mystic Sanctuary
+4 Fires of Invention
 2 Fiery Islet
 3 Fiery Islet
 1 Unsettled Mariner
@@ -478,62 +489,35 @@
 4 Flamekin Harbinger
 4 Ancient Ziggurat
 4 Thunderkin Awakener
-1 Serum Visions
-1 Izzet Charm
 1 Sleight of Hand
-2 Serum Visions
 3 Island
-3 Serum Visions
-4 Serum Visions
+1 Arclight Phoenix
+1 Finale of Promise
 1 Lightning Axe
 1 Manamorphose
-1 Finale of Promise
 1 Bedlam Reveler
 1 Chart a Course
 1 Spirebluff Canal
-1 Arclight Phoenix
 1 Merchant of the Vale
 1 Thing in the Ice
-2 Steam Vents
+2 Arclight Phoenix
 2 Finale of Promise
 2 Spirebluff Canal
 2 Merchant of the Vale
-2 Arclight Phoenix
 2 Chart a Course
 2 Lightning Axe
 2 Thing in the Ice
 2 Manamorphose
-2 Izzet Charm
+3 Arclight Phoenix
 3 Thing in the Ice
 3 Manamorphose
-3 Spirebluff Canal
 3 Merchant of the Vale
-3 Arclight Phoenix
-4 Merchant of the Vale
+3 Spirebluff Canal
 4 Arclight Phoenix
+4 Merchant of the Vale
 4 Manamorphose
 4 Thing in the Ice
 4 Spirebluff Canal
-2 Watery Grave
-1 Growth Spiral
-1 Creeping Tar Pit
-1 Logic Knot
-1 Nexus of Fate
-1 Pulse of Murasa
-1 Blue Sun's Zenith
-1 Mystical Teachings
-1 Wilderness Reclamation
-2 Growth Spiral
-2 Mystical Teachings
-2 Wilderness Reclamation
-2 Creeping Tar Pit
-3 Growth Spiral
-3 Snapcaster Mage
-3 Wilderness Reclamation
-3 Mystical Teachings
-4 Growth Spiral
-4 Cryptic Command
-4 Remand
 1 Wild Nacatl
 1 Narnam Renegade
 1 Dryad Arbor
@@ -547,8 +531,8 @@
 3 Hidden Herbalists
 3 Narnam Renegade
 3 Wild Nacatl
-4 Wild Nacatl
 4 Narnam Renegade
+4 Wild Nacatl
 4 Hidden Herbalists
 3 Flooded Strand
 1 Sylvan Scrying
@@ -567,13 +551,13 @@
 2 Past in Flames
 2 Peer Through Depths
 2 Psychic Puppetry
+2 Sleight of Hand
 2 Merchant Scroll
 2 Dream's Grip
 2 Reach Through Mists
 2 Lotus Field
 2 Ideas Unbound
 2 Lonely Sandbar
-2 Sleight of Hand
 2 Twiddle
 3 Ideas Unbound
 3 Twiddle
@@ -583,40 +567,45 @@
 3 Peer Through Depths
 3 Sleight of Hand
 3 Lotus Field
-4 Island
+4 Flooded Strand
 4 Lotus Field
-4 Psychic Puppetry
 4 Reach Through Mists
 4 Peer Through Depths
 4 Ideas Unbound
 4 Sleight of Hand
-4 Flooded Strand
+4 Psychic Puppetry
+4 Island
 4 Dream's Grip
 1 Botanical Sanctum
 2 Botanical Sanctum
 1 Darkslick Shores
 2 Darkslick Shores
-1 Simian Spirit Guide
 1 Spire of Industry
 1 Inventors' Fair
-1 Academy Ruins
 1 Ensnaring Bridge
+1 Sword of the Meek
 1 Glimmervoid
+1 Whir of Invention
 1 Codex Shredder
 1 Ghoulcaller's Bell
 1 Pyxis of Pandemonium
 1 River of Tears
+1 Academy Ruins
 1 Lantern of Insight
+1 Thopter Foundry
 2 Simian Spirit Guide
 2 Spire of Industry
 2 River of Tears
 2 Codex Shredder
 2 Lantern of Insight
+2 Thopter Foundry
 2 Ensnaring Bridge
 2 Glimmervoid
+2 Whir of Invention
 2 Sword of the Meek
 3 Spire of Industry
 3 Glimmervoid
+3 Whir of Invention
 3 Sword of the Meek
 3 Codex Shredder
 3 Darkslick Shores
@@ -662,14 +651,15 @@
 1 Gurmag Angler
 1 Narcomoeba
 1 Skaab Ruinator
-1 Merfolk Secretkeeper
 1 Vengevine
 1 Glimpse the Unthinkable
 1 Stitcher's Supplier
 1 Prized Amalgam
+1 Merfolk Secretkeeper
 1 Creeping Chill
 1 Gravecrawler
 1 Hedron Crab
+2 Overgrown Tomb
 2 Narcomoeba
 2 Gurmag Angler
 2 Creeping Chill
@@ -700,53 +690,60 @@
 4 Narcomoeba
 4 Gurmag Angler
 4 Creeping Chill
-1 Winota, Joiner of Forces
+1 Bloodbraid Elf
+2 Archmage's Charm
+2 Bloodbraid Elf
+3 Bloodbraid Elf
+3 Archmage's Charm
+4 Bloodbraid Elf
+4 Archmage's Charm
 1 Arbor Elf
 1 Pia Nalaar
 1 Goblin Rabblemaster
+1 Winota, Joiner of Forces
 1 Angrath's Marauders
 1 Huntmaster of the Fells
 1 Avalanche Riders
 1 Utopia Sprawl
 2 Winota, Joiner of Forces
+2 Angrath's Marauders
 2 Huntmaster of the Fells
 2 Avalanche Riders
 2 Utopia Sprawl
 2 Arbor Elf
-2 Angrath's Marauders
 2 Pia Nalaar
 2 Goblin Rabblemaster
 3 Seasoned Pyromancer
-3 Winota, Joiner of Forces
 3 Arbor Elf
 3 Birds of Paradise
 3 Goblin Rabblemaster
 3 Utopia Sprawl
 3 Huntmaster of the Fells
+3 Winota, Joiner of Forces
 3 Angrath's Marauders
 4 Forest
-4 Winota, Joiner of Forces
 4 Huntmaster of the Fells
 4 Utopia Sprawl
 4 Birds of Paradise
 4 Seasoned Pyromancer
 4 Goblin Rabblemaster
 4 Arbor Elf
+4 Winota, Joiner of Forces
 4 Angrath's Marauders
 5 Forest
+1 Hallowed Fountain
 1 Seachrome Coast
 1 Spell Queller
-1 Geist of Saint Traft
 1 Waterlogged Grove
+1 Geist of Saint Traft
 1 Deputy of Detention
 1 Eidolon of Rhetoric
 1 Selfless Spirit
 1 Moorland Haunt
-1 Hallowed Fountain
 1 Drogskol Captain
-1 Rattlechains
 1 Collected Company
 1 Mausoleum Wanderer
+1 Rattlechains
 1 Supreme Phantom
 2 Spell Queller
 2 Deputy of Detention
