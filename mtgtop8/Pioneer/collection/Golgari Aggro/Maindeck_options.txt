@@ -4,9 +4,9 @@
 1 Woodland Cemetery
 1 Experiment One
 1 Pelt Collector
-2 Woodland Cemetery
 2 Experiment One
 2 Pelt Collector
+2 Woodland Cemetery
 3 Experiment One
 3 Pelt Collector
 4 Experiment One
@@ -27,69 +27,69 @@
 2 Voracious Hydra
 1 Llanowar Elves
 1 Elvish Mystic
-2 Llanowar Elves
 2 Elvish Mystic
-3 Llanowar Elves
+2 Llanowar Elves
 3 Elvish Mystic
+3 Llanowar Elves
 4 Elvish Mystic
 4 Llanowar Elves
 8 Forest
 1 Hashep Oasis
-1 Implement of Ferocity
 1 Hope of Ghirapur
+1 Implement of Ferocity
 2 Hope of Ghirapur
 2 Implement of Ferocity
 3 Hope of Ghirapur
 3 The Ozolith
+1 Rishkar, Peema Renegade
 1 Vivien, Arkbow Ranger
 1 Nissa, Voice of Zendikar
-1 Rishkar, Peema Renegade
-2 Nissa, Voice of Zendikar
 2 Hashep Oasis
 2 Vivien, Arkbow Ranger
-3 Nissa, Voice of Zendikar
+2 Nissa, Voice of Zendikar
 3 Vivien, Arkbow Ranger
+3 Nissa, Voice of Zendikar
 4 Vivien, Arkbow Ranger
 4 Nissa, Voice of Zendikar
 1 Steel Leaf Champion
 2 Steel Leaf Champion
 3 Steel Leaf Champion
 4 Steel Leaf Champion
+1 Unclaimed Territory
 1 Deathrite Shaman
-1 Dwynen's Elite
-1 Dwynen, Gilt-Leaf Daen
-1 Westvale Abbey
+1 Collected Company
 1 Lead the Stampede
 1 Shaman of the Pack
 1 Elvish Clancaller
+1 Dwynen's Elite
+1 Dwynen, Gilt-Leaf Daen
 1 Gnarlroot Trapper
-1 Chord of Calling
-1 Unclaimed Territory
+1 Westvale Abbey
 1 Wildborn Preserver
-1 Collected Company
+1 Chord of Calling
 2 Deathrite Shaman
-2 Lead the Stampede
-2 Shaman of the Pack
+2 Collected Company
+2 Unclaimed Territory
 2 Gnarlroot Trapper
 2 Dwynen's Elite
 2 Elvish Clancaller
-2 Unclaimed Territory
+2 Lead the Stampede
+2 Shaman of the Pack
 2 Wildborn Preserver
-2 Collected Company
-3 Lead the Stampede
-3 Dwynen's Elite
-3 Shaman of the Pack
-3 Unclaimed Territory
-3 Gnarlroot Trapper
-3 Elvish Clancaller
-3 Wildborn Preserver
 3 Collected Company
+3 Unclaimed Territory
+3 Elvish Clancaller
+3 Lead the Stampede
+3 Shaman of the Pack
+3 Dwynen's Elite
+3 Gnarlroot Trapper
+3 Wildborn Preserver
+4 Collected Company
 4 Dwynen's Elite
 4 Shaman of the Pack
 4 Elvish Clancaller
 4 Unclaimed Territory
 4 Wildborn Preserver
-4 Collected Company
 1 Avatar of the Resolute
 2 Avatar of the Resolute
 3 Voracious Hydra
@@ -104,11 +104,11 @@
 1 Blood Crypt
 1 Traverse the Ulvenwald
 1 Bomat Courier
-1 Grisly Salvage
+1 Lotleth Troll
 1 Questing Beast
 1 Carnage Tyrant
 1 Sylvan Caryatid
-1 Lotleth Troll
+1 Grisly Salvage
 1 Soulflayer
 1 Mana Confluence
 1 Zetalpa, Primal Dawn
@@ -116,61 +116,61 @@
 1 Chromanticore
 1 Ghor-Clan Rampager
 1 Gather the Pack
+2 Grisly Salvage
 2 Traverse the Ulvenwald
 2 Blood Crypt
 2 Bomat Courier
-2 Grisly Salvage
 2 Questing Beast
+2 Lotleth Troll
 2 Gather the Pack
 2 Sylvan Caryatid
 2 Zetalpa, Primal Dawn
 2 Samut, Voice of Dissent
-2 Lotleth Troll
 2 Carnage Tyrant
 2 Mana Confluence
 2 Soulflayer
 3 Bomat Courier
 3 Mana Confluence
 3 Traverse the Ulvenwald
-3 Grisly Salvage
+3 Lotleth Troll
 3 Soulflayer
 3 Zetalpa, Primal Dawn
 3 Gather the Pack
 3 Samut, Voice of Dissent
-3 Lotleth Troll
 3 Sylvan Caryatid
-4 Traverse the Ulvenwald
-4 Grisly Salvage
+3 Grisly Salvage
 4 Mana Confluence
+4 Traverse the Ulvenwald
+4 Lotleth Troll
 4 Sylvan Caryatid
 4 Gather the Pack
-4 Lotleth Troll
+4 Grisly Salvage
 4 Zetalpa, Primal Dawn
 4 Soulflayer
 1 Rotting Regisaur
 1 Heart of Kiran
-1 Ghalta, Primal Hunger
-1 Surrak, the Hunt Caller
-1 Shadowspear
-1 Scrapheap Scrounger
-1 The Great Henge
 1 Lovestruck Beast
+1 Ghalta, Primal Hunger
+1 Scrapheap Scrounger
+1 Shadowspear
+1 Surrak, the Hunt Caller
+1 The Great Henge
 2 Rotting Regisaur
 2 Scrapheap Scrounger
 2 Heart of Kiran
-2 Rhonas the Indomitable
-2 Ghalta, Primal Hunger
-2 Surrak, the Hunt Caller
 2 Lovestruck Beast
+2 Ghalta, Primal Hunger
+2 Rhonas the Indomitable
+2 Surrak, the Hunt Caller
 2 The Great Henge
 3 Rotting Regisaur
 3 Scrapheap Scrounger
-3 The Great Henge
 3 Lovestruck Beast
+3 The Great Henge
 3 Ghalta, Primal Hunger
 3 Surrak, the Hunt Caller
 4 Rotting Regisaur
 4 The Great Henge
-4 Scrapheap Scrounger
 4 Lovestruck Beast
+4 Scrapheap Scrounger
 9 Forest

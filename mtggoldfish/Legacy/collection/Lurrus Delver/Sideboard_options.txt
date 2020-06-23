@@ -1,7 +1,7 @@
 2 Bitterblossom
 2 Surgical Extraction
-1 Winter Orb
 1 Goblin Cratermaker
+1 Winter Orb
 1 Plague Engineer
 2 Plague Engineer
 2 Winter Orb
@@ -11,22 +11,22 @@
 1 Liliana's Triumph
 3 Surgical Extraction
 3 Pyroblast
-1 Flusterstorm
-1 Grafdigger's Cage
-1 Karakas
-1 Veil of Summer
-2 Veil of Summer
 2 Force of Negation
+1 Grafdigger's Cage
 2 Grafdigger's Cage
-1 Sylvan Library
-1 True-Name Nemesis
 1 Cabal Therapy
 2 Cabal Therapy
+1 Flusterstorm
+1 True-Name Nemesis
+1 Veil of Summer
+2 Veil of Summer
 1 Liliana, the Last Hope
+1 Sylvan Library
 1 Abrupt Decay
 2 Liliana, the Last Hope
 2 Abrupt Decay
 3 Abrupt Decay
+1 Karakas
 1 Wasteland
 1 Spell Pierce
 1 Mystical Dispute
@@ -41,13 +41,13 @@
 1 Angrath's Rampage
 1 Sulfuric Vortex
 1 Golgari Charm
-1 Vapor Snag
-1 Sulfur Elemental
-1 Narset, Parter of Veils
-1 Dispel
-1 Electrickery
 1 Blazing Volley
 1 Kolaghan's Command
+1 Vapor Snag
+1 Narset, Parter of Veils
+1 Sulfur Elemental
+1 Dispel
+1 Electrickery
 1 Hymn to Tourach
 2 Hymn to Tourach
 1 Swords to Plowshares
@@ -63,14 +63,14 @@
 2 Back to Basics
 1 Thoughtseize
 1 Brazen Borrower
+1 Disenchant
 1 Meddling Mage
 1 Palace Jailer
-1 Disenchant
 1 Rest in Peace
-2 Spell Snare
 2 Brazen Borrower
 2 Disenchant
 2 Rest in Peace
+2 Spell Snare
 2 Spell Pierce
 3 Baleful Strix
 1 Inquisition of Kozilek
@@ -92,8 +92,16 @@
 3 Red Elemental Blast
 3 Faerie Macabre
 4 Faerie Macabre
-1 Reclamation Sage
-1 Chains of Mephistopheles
-1 Collector Ouphe
-2 Chains of Mephistopheles
-3 Chains of Mephistopheles
+1 Pithing Needle
+1 Postmortem Lunge
+1 Steam Vents
+1 Ingot Chewer
+2 Postmortem Lunge
+2 Ingot Chewer
+2 Pithing Needle
+3 Ingot Chewer
+3 Pithing Needle
+3 Postmortem Lunge
+4 Postmortem Lunge
+4 Pithing Needle
+4 Ingot Chewer

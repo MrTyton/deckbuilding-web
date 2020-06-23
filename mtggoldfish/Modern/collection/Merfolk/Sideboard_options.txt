@@ -21,9 +21,9 @@
 1 Disenchant
 1 Mystical Dispute
 1 Ceremonious Rejection
+2 Ceremonious Rejection
 2 Celestial Purge
 2 Disenchant
-2 Ceremonious Rejection
 1 Flusterstorm
 2 Flusterstorm
 1 Weather the Storm
@@ -34,6 +34,10 @@
 2 Master of Waves
 3 Master of Waves
 3 Force of Negation
+1 Damping Matrix
+2 Damping Matrix
+2 Grafdigger's Cage
+3 Damping Matrix
 1 Selfless Spirit
 2 Selfless Spirit
 4 Chalice of the Void
@@ -44,10 +48,6 @@
 2 Tormod's Crypt
 2 Wizard's Retort
 3 Tormod's Crypt
-4 Tormod's Crypt
-1 Damping Matrix
-2 Damping Matrix
-2 Grafdigger's Cage
 1 Venser, Shaper Savant
 1 Pithing Needle
-3 Damping Matrix
+4 Tormod's Crypt

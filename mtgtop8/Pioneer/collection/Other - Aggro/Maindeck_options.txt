@@ -45,22 +45,22 @@
 3 Inspiring Vantage
 2 Mountain
 3 Mountain
-1 Dreadhorde Arcanist
 1 Clifftop Retreat
 1 Reckless Rage
-1 Gird for Battle
+1 Dreadhorde Arcanist
 1 Soul-Scar Mage
 1 Favored Hoplite
 1 Battlefield Forge
 1 Titan's Strength
 1 Tenth District Legionnaire
 1 Defiant Strike
+1 Gird for Battle
 1 Gryff's Boon
 1 Boros Charm
 1 Gods Willing
 1 Monastery Swiftspear
-2 Dreadhorde Arcanist
 2 Reckless Rage
+2 Dreadhorde Arcanist
 2 Gird for Battle
 2 Gryff's Boon
 2 Tenth District Legionnaire
@@ -71,13 +71,13 @@
 2 Battlefield Forge
 2 Favored Hoplite
 2 Defiant Strike
-3 Dreadhorde Arcanist
 3 Sacred Foundry
-3 Gird for Battle
+3 Dreadhorde Arcanist
 3 Reckless Rage
 3 Titan's Strength
 3 Favored Hoplite
 3 Defiant Strike
+3 Gird for Battle
 3 Monastery Swiftspear
 3 Tenth District Legionnaire
 3 Plains
@@ -132,18 +132,18 @@
 1 Abrupt Decay
 2 Abrupt Decay
 2 Scavenging Ooze
-1 Chevill, Bane of Monsters
 1 Dead Weight
 1 Dreadbore
 1 Blood Crypt
 1 Kroxa, Titan of Death's Hunger
 1 Kolaghan's Command
+1 Chevill, Bane of Monsters
 1 Grim Flayer
 1 Unbridled Growth
-2 Chevill, Bane of Monsters
 2 Blood Crypt
 2 Dead Weight
 2 Kroxa, Titan of Death's Hunger
+2 Chevill, Bane of Monsters
 2 Unbridled Growth
 2 Grim Flayer
 3 Blood Crypt
@@ -202,6 +202,7 @@
 4 Concealed Courtyard
 4 Godless Shrine
 4 Caves of Koilos
+1 Wastes
 1 Omen of the Sea
 1 Trial of Ambition
 1 Silkwrap
@@ -213,7 +214,6 @@
 1 Ulamog's Nullifier
 1 Elspeth Conquers Death
 1 Charming Prince
-1 Wastes
 1 Thought-Knot Seer
 1 Brain Maggot
 2 Shefet Dunes
@@ -243,10 +243,10 @@
 4 Silkwrap
 4 Brain Maggot
 4 Spell Queller
-4 Thought-Knot Seer
 4 Charming Prince
 4 Eldrazi Displacer
 4 Wasteland Strangler
+4 Thought-Knot Seer
 2 Island
 2 Scrapheap Scrounger
 3 Scrapheap Scrounger
@@ -266,6 +266,23 @@
 2 Soul-Guide Lantern
 3 Evolving Wilds
 4 Gird for Battle
+1 Fetid Pools
+1 Drowned Catacomb
+1 Metallic Rebuke
+1 Cauldron Familiar
+1 Choked Estuary
+1 Witch's Oven
+2 Cauldron Familiar
+2 Witch's Oven
+2 Fetid Pools
+2 Metallic Rebuke
+2 Choked Estuary
+3 Choked Estuary
+3 Cauldron Familiar
+3 Witch's Oven
+4 Cauldron Familiar
+4 Witch's Oven
+4 Choked Estuary
 1 Duskwatch Recruiter
 2 Duskwatch Recruiter
 2 Goblin Instigator
@@ -300,38 +317,21 @@
 3 Jace, Vryn's Prodigy
 3 Breeding Pool
 4 Uro, Titan of Nature's Wrath
-1 Fetid Pools
-1 Drowned Catacomb
-1 Metallic Rebuke
-1 Cauldron Familiar
-1 Choked Estuary
-1 Witch's Oven
-2 Fetid Pools
-2 Metallic Rebuke
-2 Witch's Oven
-2 Cauldron Familiar
-2 Choked Estuary
-3 Choked Estuary
-3 Cauldron Familiar
-3 Witch's Oven
-4 Choked Estuary
-4 Witch's Oven
-4 Cauldron Familiar
 4 Gods Willing
-1 Rishkar, Peema Renegade
-1 Nissa, Voice of Zendikar
 1 Hissing Quagmire
+1 Nissa, Voice of Zendikar
+1 Rishkar, Peema Renegade
 1 Voracious Hydra
-2 Nissa, Voice of Zendikar
 2 Rishkar, Peema Renegade
+2 Nissa, Voice of Zendikar
 2 Assassin's Trophy
 2 Voracious Hydra
-3 Nissa, Voice of Zendikar
 3 Assassin's Trophy
 3 Rishkar, Peema Renegade
+3 Nissa, Voice of Zendikar
 3 Voracious Hydra
-4 Nissa, Voice of Zendikar
 4 Assassin's Trophy
+4 Nissa, Voice of Zendikar
 4 Voracious Hydra
 1 Deathrite Shaman
 2 Dreadbore
@@ -383,18 +383,18 @@
 4 Ghor-Clan Rampager
 4 Bonecrusher Giant
 1 Springleaf Drum
-1 Curious Obsession
 1 Alseid of Life's Bounty
+1 Curious Obsession
 1 Sram, Senior Edificer
 1 Ethereal Armor
 2 Springleaf Drum
-2 Curious Obsession
 2 Alseid of Life's Bounty
+2 Curious Obsession
 2 Sram, Senior Edificer
 2 Ethereal Armor
 3 Springleaf Drum
-3 Alseid of Life's Bounty
 3 Curious Obsession
+3 Alseid of Life's Bounty
 3 Sram, Senior Edificer
 3 Ethereal Armor
 4 Curious Obsession
@@ -434,10 +434,10 @@
 2 Shambling Vent
 2 Heliod, Sun-Crowned
 2 Karn, Scion of Urza
+3 Heart of Kiran
 3 Pack Rat
 3 Heliod, Sun-Crowned
 3 Karn, Scion of Urza
-3 Heart of Kiran
 3 Knight of the Ebon Legion
 4 Scrapheap Scrounger
 4 Knight of the Ebon Legion

@@ -26,6 +26,7 @@
 3 Mystic Sanctuary
 1 Primal Command
 1 Simic Growth Chamber
+1 Raging Ravine
 1 Ketria Triome
 1 Time Warp
 1 Gilded Goose
@@ -39,9 +40,9 @@
 1 Glen Elendra Archmage
 1 Castle Garenbrig
 1 Wooded Foothills
-1 Raging Ravine
 1 Primeval Titan
 1 Sakura-Tribe Scout
+2 Primal Command
 2 Stomping Ground
 2 Fires of Invention
 2 Teferi, Time Raveler
@@ -50,7 +51,6 @@
 2 Wooded Foothills
 2 Castle Garenbrig
 2 Field of the Dead
-2 Primal Command
 2 Sakura-Tribe Scout
 2 Primeval Titan
 2 Courser of Kruphix
@@ -63,12 +63,12 @@
 3 Arboreal Grazer
 3 Sakura-Tribe Scout
 3 Castle Garenbrig
-4 Sakura-Tribe Scout
 4 Arboreal Grazer
 4 Wrenn and Six
-4 Fires of Invention
 4 Flooded Strand
 4 Primeval Titan
+4 Fires of Invention
+4 Sakura-Tribe Scout
 4 Primal Command
 1 Zagoth Triome
 1 Oath of Kaya
@@ -113,8 +113,8 @@
 3 Skred
 3 Jace, the Mind Sculptor
 1 Thing in the Ice
-1 Serum Visions
 1 Swamp
+1 Serum Visions
 1 Search for Azcanta
 1 Nihil Spellbomb
 1 Island
@@ -131,26 +131,26 @@
 2 Watery Grave
 3 Thing in the Ice
 3 Inquisition of Kozilek
-3 Serum Visions
 3 Darkslick Shores
+3 Serum Visions
 3 Watery Grave
 3 Island
 4 Serum Visions
 4 Force of Negation
 4 Thing in the Ice
+1 Wilderness Reclamation
+1 Nexus of Fate
 1 Growth Spiral
 1 Fact or Fiction
-1 Wilderness Reclamation
 1 Hieroglyphic Illumination
-1 Nexus of Fate
 1 Remand
 2 Fact or Fiction
+2 Wilderness Reclamation
 2 Growth Spiral
 2 Remand
 2 Hieroglyphic Illumination
-2 Wilderness Reclamation
-3 Wilderness Reclamation
 3 Growth Spiral
+3 Wilderness Reclamation
 3 Breeding Pool
 3 Remand
 3 Cryptic Command
