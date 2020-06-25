@@ -1,19 +1,5 @@
-2 Soul-Guide Lantern
-1 Damping Sphere
-1 Mystical Dispute
 2 Mystical Dispute
-2 Damping Sphere
-2 Glare of Heresy
-4 Glass Casket
-1 Boros Charm
-1 Kari Zev's Expertise
-1 Wild Slash
-2 Kari Zev's Expertise
-2 Boros Charm
-2 Wild Slash
-4 Isolate
 1 Selfless Spirit
-3 Soul-Guide Lantern
 1 Bonecrusher Giant
 1 Knight of Autumn
 2 Selfless Spirit
@@ -23,26 +9,48 @@
 3 Knight of Autumn
 1 Rest in Peace
 2 Rest in Peace
-1 Duress
-1 Barrier Breach
-2 Barrier Breach
-1 Slaughter Games
-2 Duress
-2 Slaughter Games
-3 Duress
-3 Damping Sphere
-1 Dead Weight
+1 Soul-Guide Lantern
+2 Soul-Guide Lantern
+1 Damping Sphere
+2 Damping Sphere
+2 Glare of Heresy
+4 Glass Casket
+4 Isolate
+1 Boros Charm
+1 Kari Zev's Expertise
+1 Wild Slash
+2 Kari Zev's Expertise
+2 Boros Charm
+2 Wild Slash
+3 Soul-Guide Lantern
 1 Silkwrap
 2 Silkwrap
 3 Silkwrap
 1 Hushbringer
 2 Hushbringer
+3 Selfless Spirit
 1 Scavenging Ooze
-1 Scrapheap Scrounger
+1 Duress
 1 Shadowspear
+1 Barrier Breach
+2 Barrier Breach
 2 Scavenging Ooze
-1 Assassin's Trophy
-2 Assassin's Trophy
+1 Kaya, Orzhov Usurper
+1 Cry of the Carnarium
+1 Collective Brutality
+1 Gideon of the Trials
+1 Sorin, Vengeful Bloodlord
+1 Deicide
+1 Devout Decree
+1 Davriel, Rogue Shadowmage
+1 Profane Procession
+1 Zirda, the Dawnwaker
+2 Kaya, Orzhov Usurper
+2 Cry of the Carnarium
+2 Collective Brutality
+2 Deicide
+2 Davriel, Rogue Shadowmage
+1 Dead Weight
 2 Dead Weight
 1 Metallic Rebuke
 1 Aethersphere Harvester
@@ -50,57 +58,40 @@
 1 Unmoored Ego
 1 Despise
 1 Cast Down
-2 Unmoored Ego
 2 Aethersphere Harvester
 2 Despise
 2 Cast Down
-1 Kaya, Orzhov Usurper
-1 Cry of the Carnarium
-1 Gideon of the Trials
-1 Sorin, Vengeful Bloodlord
-1 Deicide
-1 Devout Decree
-1 Davriel, Rogue Shadowmage
-1 Profane Procession
-1 Collective Brutality
-1 Zirda, the Dawnwaker
-2 Kaya, Orzhov Usurper
-2 Cry of the Carnarium
-2 Deicide
-2 Davriel, Rogue Shadowmage
-2 Collective Brutality
-1 Unravel the Aether
-2 Unravel the Aether
+2 Unmoored Ego
 3 Mystical Dispute
 1 Brazen Borrower
-1 Trial of Ambition
 1 Gideon, Ally of Zendikar
+1 Trial of Ambition
+1 Yorion, Sky Nomad
 1 Drannith Magistrate
 1 Deputy of Detention
-1 Yorion, Sky Nomad
 2 Brazen Borrower
 2 Trial of Ambition
 2 Drannith Magistrate
 2 Deputy of Detention
-2 Scrapheap Scrounger
-3 Scrapheap Scrounger
+1 Blossoming Defense
 1 Magma Spray
-1 Rending Volley
 1 Chandra, Torch of Defiance
+1 Rending Volley
 1 Destructive Revelry
 1 Heroic Intervention
-1 Blossoming Defense
 1 Roast
-2 Destructive Revelry
 2 Roast
+2 Destructive Revelry
 3 Destructive Revelry
 1 Charming Prince
 3 Rest in Peace
-1 Oppressive Rays
-2 Shadowspear
-2 Oppressive Rays
-2 Stubborn Denial
-3 Hushbringer
+1 Assassin's Trophy
+1 Slaughter Games
+2 Assassin's Trophy
+2 Duress
+2 Slaughter Games
+3 Duress
+3 Damping Sphere
 1 Thoughtseize
 1 Abrupt Decay
 2 Thoughtseize
@@ -108,12 +99,21 @@
 3 Thoughtseize
 3 Barrier Breach
 4 Thoughtseize
+1 Unravel the Aether
+2 Unravel the Aether
+1 Heartless Act
+1 Languish
+1 Emrakul, the Promised End
+1 Disfigure
+1 Negate
+1 Extinction Event
+4 Mystical Dispute
 1 Knight of Grace
 2 Knight of Grace
-3 Selfless Spirit
 3 Knight of Grace
 4 Knight of Grace
 1 Fatal Push
+1 Scrapheap Scrounger
 1 Golgari Charm
 2 Fatal Push
 2 Golgari Charm
@@ -122,10 +122,12 @@
 4 Fatal Push
 4 Golgari Charm
 4 Soul-Guide Lantern
-1 Heartless Act
-1 Extinction Event
-1 Languish
-1 Emrakul, the Promised End
-1 Disfigure
-1 Negate
-4 Mystical Dispute
+1 Fairgrounds Warden
+2 Fairgrounds Warden
+3 Fairgrounds Warden
+4 Knight of Autumn
+1 Oppressive Rays
+2 Shadowspear
+2 Oppressive Rays
+2 Stubborn Denial
+3 Hushbringer

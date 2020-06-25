@@ -1,8 +1,7 @@
 1 Inspiring Vantage
-2 Inspiring Vantage
 1 Forest
-1 Mountain
 2 Forest
+1 Mountain
 1 Stomping Ground
 2 Stomping Ground
 3 Stomping Ground
@@ -24,8 +23,8 @@
 2 Voice of Resurgence
 2 Winota, Joiner of Forces
 2 Angrath's Marauders
-2 Kenrith, the Returned King
 2 Elvish Mystic
+2 Kenrith, the Returned King
 2 Eldritch Evolution
 2 Legion Warboss
 3 Temple Garden
@@ -42,22 +41,36 @@
 4 Angrath's Marauders
 1 Sacred Foundry
 2 Sacred Foundry
+1 Llanowar Elves
+1 Goblin Rabblemaster
+2 Llanowar Elves
+2 Goblin Rabblemaster
+3 Llanowar Elves
+4 Elvish Mystic
+4 Llanowar Elves
+2 Inspiring Vantage
+1 Elvish Visionary
+2 Elvish Visionary
+3 Elvish Visionary
+3 Goblin Rabblemaster
+4 Elvish Visionary
+4 Goblin Rabblemaster
 3 Inspiring Vantage
 2 Mountain
 3 Mountain
-1 Dreadhorde Arcanist
 1 Clifftop Retreat
+1 Dreadhorde Arcanist
 1 Reckless Rage
 1 Soul-Scar Mage
 1 Favored Hoplite
-1 Battlefield Forge
 1 Titan's Strength
-1 Tenth District Legionnaire
+1 Battlefield Forge
 1 Defiant Strike
 1 Gird for Battle
 1 Gryff's Boon
 1 Boros Charm
 1 Gods Willing
+1 Tenth District Legionnaire
 1 Monastery Swiftspear
 2 Dreadhorde Arcanist
 2 Reckless Rage
@@ -95,25 +108,18 @@
 4 Battlefield Forge
 4 Favored Hoplite
 2 Rootbound Crag
-1 Llanowar Elves
-1 Goblin Rabblemaster
-2 Llanowar Elves
-2 Goblin Rabblemaster
-3 Llanowar Elves
-4 Elvish Mystic
-4 Llanowar Elves
 1 Selfless Spirit
 1 Goblin Instigator
 2 Selfless Spirit
 4 Legion Warboss
 1 Island
+3 Forest
+4 Forest
 1 Swamp
 1 Fatal Push
 2 Fatal Push
 3 Fatal Push
 4 Fatal Push
-3 Forest
-4 Forest
 1 Overgrown Tomb
 1 Blooming Marsh
 2 Blooming Marsh
@@ -122,74 +128,27 @@
 3 Blooming Marsh
 4 Overgrown Tomb
 4 Blooming Marsh
-2 Swamp
-3 Swamp
-1 Scavenging Ooze
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-4 Thoughtseize
-1 Abrupt Decay
-2 Abrupt Decay
-2 Scavenging Ooze
-1 Dead Weight
-1 Dreadbore
-1 Blood Crypt
-1 Kroxa, Titan of Death's Hunger
-1 Kolaghan's Command
-1 Chevill, Bane of Monsters
-1 Grim Flayer
-1 Unbridled Growth
-2 Blood Crypt
-2 Dead Weight
-2 Kroxa, Titan of Death's Hunger
-2 Chevill, Bane of Monsters
-2 Unbridled Growth
-2 Grim Flayer
-3 Blood Crypt
-3 Kroxa, Titan of Death's Hunger
-3 Unbridled Growth
-3 Grim Flayer
-4 Blood Crypt
-4 Unbridled Growth
-4 Grim Flayer
-1 Fabled Passage
-2 Fabled Passage
-1 Walking Ballista
-1 Satyr Wayfinder
-2 Satyr Wayfinder
-3 Satyr Wayfinder
-4 Satyr Wayfinder
-1 Watery Grave
-2 Watery Grave
-3 Fabled Passage
-1 Assassin's Trophy
-1 Scrapheap Scrounger
-2 Walking Ballista
-3 Walking Ballista
-4 Walking Ballista
-5 Forest
-1 Hardened Scales
-1 Winding Constrictor
-1 Llanowar Wastes
-2 Winding Constrictor
-2 Hardened Scales
-2 Llanowar Wastes
-3 Hardened Scales
-3 Llanowar Wastes
-3 Winding Constrictor
-4 Hardened Scales
-4 Winding Constrictor
-4 Llanowar Wastes
-1 Hangarback Walker
-2 Hangarback Walker
 1 Ornithopter
 2 Ornithopter
 3 Ornithopter
 4 Ornithopter
+1 Watery Grave
+2 Watery Grave
+1 Walking Ballista
+1 Scrapheap Scrounger
+1 Fabled Passage
+2 Fabled Passage
+2 Swamp
+3 Swamp
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
+2 Walking Ballista
+3 Walking Ballista
+4 Walking Ballista
 3 Watery Grave
 4 Watery Grave
-1 Ipnu Rivulet
 1 Concealed Courtyard
 1 Caves of Koilos
 1 Godless Shrine
@@ -202,54 +161,72 @@
 4 Concealed Courtyard
 4 Godless Shrine
 4 Caves of Koilos
+1 Ipnu Rivulet
+1 Shefet Dunes
 1 Wastes
 1 Omen of the Sea
 1 Trial of Ambition
 1 Silkwrap
-1 Shefet Dunes
 1 Wasteland Strangler
 1 Spell Queller
 1 Archon of Sun's Grace
-1 Eldrazi Displacer
 1 Ulamog's Nullifier
+1 Eldrazi Displacer
 1 Elspeth Conquers Death
-1 Charming Prince
 1 Thought-Knot Seer
+1 Charming Prince
 1 Brain Maggot
 2 Shefet Dunes
 2 Trial of Ambition
 2 Omen of the Sea
 2 Silkwrap
 2 Wasteland Strangler
-2 Spell Queller
 2 Elspeth Conquers Death
+2 Spell Queller
 2 Archon of Sun's Grace
 2 Thought-Knot Seer
 2 Brain Maggot
+2 Eldrazi Displacer
 2 Ulamog's Nullifier
 2 Wastes
 2 Ipnu Rivulet
 2 Charming Prince
-2 Eldrazi Displacer
 3 Omen of the Sea
 3 Silkwrap
+3 Brain Maggot
 3 Wasteland Strangler
 3 Spell Queller
-3 Brain Maggot
 3 Eldrazi Displacer
 3 Thought-Knot Seer
 3 Charming Prince
+4 Charming Prince
 4 Omen of the Sea
 4 Silkwrap
-4 Brain Maggot
 4 Spell Queller
-4 Charming Prince
+4 Brain Maggot
 4 Eldrazi Displacer
 4 Wasteland Strangler
 4 Thought-Knot Seer
-2 Island
+1 Scavenging Ooze
+5 Forest
+1 Hangarback Walker
+2 Hangarback Walker
+1 Hardened Scales
+1 Winding Constrictor
+1 Llanowar Wastes
+2 Winding Constrictor
+2 Hardened Scales
+2 Llanowar Wastes
+3 Hardened Scales
+3 Llanowar Wastes
+3 Winding Constrictor
+4 Hardened Scales
+4 Winding Constrictor
+4 Llanowar Wastes
 2 Scrapheap Scrounger
 3 Scrapheap Scrounger
+2 Island
+2 Scavenging Ooze
 1 Pelt Collector
 1 Experiment One
 2 Pelt Collector
@@ -258,13 +235,10 @@
 3 Experiment One
 4 Experiment One
 4 Pelt Collector
+1 Abrupt Decay
+2 Abrupt Decay
+3 Fabled Passage
 1 Scampering Scorcher
-1 Hero's Downfall
-1 Evolving Wilds
-1 Soul-Guide Lantern
-2 Evolving Wilds
-2 Soul-Guide Lantern
-3 Evolving Wilds
 4 Gird for Battle
 1 Fetid Pools
 1 Drowned Catacomb
@@ -272,10 +246,10 @@
 1 Cauldron Familiar
 1 Choked Estuary
 1 Witch's Oven
-2 Fetid Pools
-2 Metallic Rebuke
-2 Witch's Oven
 2 Cauldron Familiar
+2 Fetid Pools
+2 Witch's Oven
+2 Metallic Rebuke
 2 Choked Estuary
 3 Choked Estuary
 3 Cauldron Familiar
@@ -292,35 +266,11 @@
 3 Goblin Instigator
 3 Gilded Goose
 4 Gilded Goose
-1 Hinterland Harbor
-1 Shark Typhoon
-1 Atris, Oracle of Half-Truths
-1 Heartless Act
-1 Nissa, Who Shakes the World
-1 Breeding Pool
-1 Traverse the Ulvenwald
-1 Eat to Extinction
-1 Uro, Titan of Nature's Wrath
-1 Jace, Vryn's Prodigy
-1 Zagoth Triome
-1 Tireless Tracker
-1 Ashiok, Nightmare Muse
-1 Murderous Rider
-2 Shark Typhoon
-2 Murderous Rider
-2 Traverse the Ulvenwald
-2 Breeding Pool
-2 Uro, Titan of Nature's Wrath
-2 Jace, Vryn's Prodigy
-3 Traverse the Ulvenwald
-3 Uro, Titan of Nature's Wrath
-3 Jace, Vryn's Prodigy
-3 Breeding Pool
-4 Uro, Titan of Nature's Wrath
 4 Gods Willing
 1 Hissing Quagmire
 1 Nissa, Voice of Zendikar
 1 Rishkar, Peema Renegade
+1 Assassin's Trophy
 1 Voracious Hydra
 2 Rishkar, Peema Renegade
 2 Nissa, Voice of Zendikar
@@ -334,42 +284,57 @@
 4 Nissa, Voice of Zendikar
 4 Voracious Hydra
 1 Deathrite Shaman
+1 Dreadbore
+1 Blood Crypt
+1 Kroxa, Titan of Death's Hunger
+1 Dead Weight
+1 Kolaghan's Command
+1 Chevill, Bane of Monsters
+1 Grim Flayer
+1 Unbridled Growth
 2 Deathrite Shaman
+2 Blood Crypt
 2 Dreadbore
+2 Kroxa, Titan of Death's Hunger
 2 Kolaghan's Command
+2 Dead Weight
+2 Chevill, Bane of Monsters
+2 Unbridled Growth
+2 Grim Flayer
+3 Blood Crypt
+3 Kroxa, Titan of Death's Hunger
 3 Deathrite Shaman
 3 Chevill, Bane of Monsters
+3 Unbridled Growth
+3 Grim Flayer
+4 Blood Crypt
 4 Deathrite Shaman
+4 Unbridled Growth
 4 Chevill, Bane of Monsters
-1 Elvish Visionary
-2 Elvish Visionary
-3 Elvish Visionary
-3 Goblin Rabblemaster
-4 Elvish Visionary
-4 Goblin Rabblemaster
+4 Grim Flayer
 1 Gruul Spellbreaker
 1 Domri, Anarch of Bolas
 1 Dryad Militant
 1 Burning-Tree Emissary
+1 Zhur-Taa Goblin
 1 Hazoret the Fervent
 1 Questing Beast
 1 Gallia of the Endless Dance
 1 Embercleave
-1 Zhur-Taa Goblin
+1 Bonecrusher Giant
 1 Ghor-Clan Rampager
 1 Game Trail
 1 Domri Rade
-1 Bonecrusher Giant
 1 Voltaic Brawler
 1 Hashep Oasis
 2 Gruul Spellbreaker
 2 Burning-Tree Emissary
-2 Embercleave
+2 Zhur-Taa Goblin
+2 Bonecrusher Giant
 2 Ghor-Clan Rampager
 2 Hashep Oasis
 2 Voltaic Brawler
-2 Bonecrusher Giant
-2 Zhur-Taa Goblin
+2 Embercleave
 2 Gallia of the Endless Dance
 2 Game Trail
 3 Gruul Spellbreaker
@@ -378,18 +343,18 @@
 3 Ghor-Clan Rampager
 3 Voltaic Brawler
 4 Gruul Spellbreaker
+4 Ghor-Clan Rampager
 4 Burning-Tree Emissary
 4 Voltaic Brawler
-4 Ghor-Clan Rampager
 4 Bonecrusher Giant
-1 Curious Obsession
-1 Alseid of Life's Bounty
 1 Springleaf Drum
+1 Alseid of Life's Bounty
+1 Curious Obsession
 1 Sram, Senior Edificer
 1 Ethereal Armor
-2 Curious Obsession
 2 Springleaf Drum
 2 Alseid of Life's Bounty
+2 Curious Obsession
 2 Sram, Senior Edificer
 2 Ethereal Armor
 3 Springleaf Drum
@@ -422,9 +387,9 @@
 1 Shambling Vent
 1 Gideon of the Trials
 1 Pack Rat
+1 Heliod, Sun-Crowned
 1 Heart of Kiran
 1 Castle Locthwain
-1 Heliod, Sun-Crowned
 1 Castle Ardenvale
 1 Knight of the Ebon Legion
 2 Heart of Kiran
@@ -439,8 +404,37 @@
 3 Heliod, Sun-Crowned
 3 Karn, Scion of Urza
 3 Knight of the Ebon Legion
-4 Karn, Scion of Urza
 4 Scrapheap Scrounger
 4 Knight of the Ebon Legion
 4 Swamp
+4 Karn, Scion of Urza
 4 Pack Rat
+1 Hinterland Harbor
+1 Shark Typhoon
+1 Atris, Oracle of Half-Truths
+1 Nissa, Who Shakes the World
+1 Heartless Act
+1 Traverse the Ulvenwald
+1 Eat to Extinction
+1 Uro, Titan of Nature's Wrath
+1 Jace, Vryn's Prodigy
+1 Zagoth Triome
+1 Tireless Tracker
+1 Ashiok, Nightmare Muse
+1 Satyr Wayfinder
+1 Breeding Pool
+1 Murderous Rider
+2 Shark Typhoon
+2 Traverse the Ulvenwald
+2 Satyr Wayfinder
+2 Murderous Rider
+2 Breeding Pool
+2 Uro, Titan of Nature's Wrath
+2 Jace, Vryn's Prodigy
+3 Traverse the Ulvenwald
+3 Uro, Titan of Nature's Wrath
+3 Jace, Vryn's Prodigy
+3 Breeding Pool
+3 Satyr Wayfinder
+4 Uro, Titan of Nature's Wrath
+4 Satyr Wayfinder

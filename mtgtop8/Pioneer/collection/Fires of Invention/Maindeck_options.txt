@@ -1,5 +1,3 @@
-2 Plains
-2 Baffling End
 2 The Birth of Meletis
 2 Agent of Treachery
 2 Lukka, Coppercoat Outcast
@@ -9,17 +7,21 @@
 4 The Birth of Meletis
 4 Lukka, Coppercoat Outcast
 2 Glacial Fortress
+1 Oath of Chandra
+2 Oath of Chandra
 2 Shark Typhoon
 1 Irrigated Farmland
-1 Temple of Triumph
-1 Interplanar Beacon
-4 Steam Vents
 3 Shark Typhoon
-3 Oath of Chandra
 2 Irrigated Farmland
 4 Supreme Verdict
 4 Narset, Parter of Veils
+1 Temple of Triumph
+1 Interplanar Beacon
+4 Steam Vents
+3 Oath of Chandra
 1 Narset of the Ancient Way
+3 Irrigated Farmland
+3 Sulfur Falls
 2 Interplanar Beacon
 3 Interplanar Beacon
 4 Sacred Foundry
@@ -37,8 +39,6 @@
 2 Teferi, Hero of Dominaria
 2 Drawn from Dreams
 3 Deafening Clarion
-3 Irrigated Farmland
-3 Sulfur Falls
 1 Oath of Teferi
 1 Detention Sphere
 4 Fae of Wishes
@@ -46,10 +46,10 @@
 2 Temple of Enlightenment
 2 Detention Sphere
 3 Elspeth Conquers Death
-1 Nicol Bolas, God-Pharaoh
 2 Castle Ardenvale
 2 Mountain
 2 Jace, Architect of Thought
+1 Nicol Bolas, God-Pharaoh
 1 Sweltering Suns
 1 Chained to the Rocks
 1 Nahiri, the Harbinger
@@ -73,9 +73,9 @@
 3 Karn, the Great Creator
 4 Karn, the Great Creator
 1 Omen of the Sun
+2 Island
 2 Omen of the Sun
 2 Castle Vantress
-2 Island
 3 Castle Ardenvale
 3 Elspeth, Sun's Nemesis
 3 Omen of the Sun

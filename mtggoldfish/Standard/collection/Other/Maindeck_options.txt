@@ -2,8 +2,8 @@
 3 Ajani's Pridemate
 4 Ajani's Pridemate
 1 Alseid of Life's Bounty
-2 Fight as One
 2 Alseid of Life's Bounty
+2 Fight as One
 3 Fight as One
 3 Alseid of Life's Bounty
 4 Alseid of Life's Bounty
@@ -12,8 +12,68 @@
 3 Hunted Witness
 4 Hunted Witness
 4 Gideon Blackblade
-1 Haazda Marshal
+1 Forest
+2 Forest
+3 Forest
+4 Forest
+5 Forest
+6 Forest
+7 Forest
+1 Lovestruck Beast
+2 Lovestruck Beast
+3 Lovestruck Beast
+4 Lovestruck Beast
+1 Fabled Passage
+2 Fabled Passage
+8 Forest
+1 Gilded Goose
+1 Gemrazer
+2 Gilded Goose
+3 Gilded Goose
+4 Gilded Goose
+1 Swamp
+2 Swamp
+1 Castle Locthwain
+3 Swamp
+4 Swamp
+1 Murderous Rider
+5 Swamp
+6 Swamp
+7 Swamp
+1 Overgrown Tomb
+1 Cauldron Familiar
+1 Witch's Oven
+2 Witch's Oven
+2 Cauldron Familiar
+2 Overgrown Tomb
+3 Overgrown Tomb
+3 Cauldron Familiar
+3 Witch's Oven
+4 Cauldron Familiar
+4 Witch's Oven
+4 Overgrown Tomb
+9 Forest
+10 Forest
+1 Polukranos, Unchained
+1 Wilt
+1 The Great Henge
+1 Ilysian Caryatid
+1 Trail of Crumbs
+1 Rotting Regisaur
+2 Polukranos, Unchained
+2 Rotting Regisaur
+2 Trail of Crumbs
+2 The Great Henge
+2 Ilysian Caryatid
+3 The Great Henge
+3 Ilysian Caryatid
+3 Trail of Crumbs
+3 Rotting Regisaur
+4 Rotting Regisaur
+4 The Great Henge
+4 Trail of Crumbs
 1 Loyal Pegasus
+1 Haazda Marshal
 2 Haazda Marshal
 2 Loyal Pegasus
 3 Loyal Pegasus
@@ -82,18 +142,20 @@
 59 Island
 60 Island
 1 Temple Garden
+2 Temple Garden
+1 Fiend Artisan
+2 Fiend Artisan
+3 Fiend Artisan
+4 Fiend Artisan
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
 4 Sacred Foundry
-1 Swamp
-2 Swamp
-1 Fiend Artisan
 1 Godless Shrine
 1 Splendor Mare
 1 Imposing Vantasaur
-1 Flourishing Fox
 1 Savai Triome
+1 Flourishing Fox
 1 Drannith Stinger
 1 Memory Leak
 1 Valiant Rescuer
@@ -101,37 +163,34 @@
 1 Drannith Healer
 1 Zenith Flare
 1 Footfall Crater
-2 Fiend Artisan
 2 Godless Shrine
 2 Splendor Mare
 2 Imposing Vantasaur
+2 Savai Triome
 2 Blood Crypt
-2 Footfall Crater
 2 Valiant Rescuer
 2 Drannith Stinger
 2 Memory Leak
 2 Drannith Healer
 2 Zenith Flare
-2 Savai Triome
+2 Footfall Crater
 2 Flourishing Fox
+3 Godless Shrine
 3 Savai Triome
 3 Imposing Vantasaur
-3 Fiend Artisan
+3 Footfall Crater
 3 Flourishing Fox
 3 Drannith Stinger
 3 Memory Leak
 3 Blood Crypt
 3 Drannith Healer
 3 Zenith Flare
-3 Godless Shrine
-3 Footfall Crater
 3 Valiant Rescuer
 3 Splendor Mare
+4 Godless Shrine
 4 Savai Triome
 4 Imposing Vantasaur
-4 Fiend Artisan
 4 Zenith Flare
-4 Godless Shrine
 4 Memory Leak
 4 Flourishing Fox
 4 Valiant Rescuer
@@ -140,7 +199,6 @@
 4 Blood Crypt
 4 Drannith Healer
 4 Footfall Crater
-2 Temple Garden
 1 Ajani, Strength of the Pride
 1 Linden, the Steadfast Queen
 1 Heliod, Sun-Crowned
@@ -152,133 +210,24 @@
 3 Daxos, Blessed by the Sun
 3 Heliod, Sun-Crowned
 3 Linden, the Steadfast Queen
-1 Fabled Passage
-2 Fabled Passage
 1 Glass Casket
-1 Hallowed Fountain
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-2 Hallowed Fountain
-3 Teferi, Time Raveler
-3 Hallowed Fountain
-4 Teferi, Time Raveler
-4 Hallowed Fountain
-1 Brazen Borrower
-1 Steam Vents
-2 Steam Vents
-3 Steam Vents
-4 Steam Vents
-1 Temple of Epiphany
-1 Mountain
-2 Temple of Epiphany
-1 The Royal Scions
-2 The Royal Scions
-1 Opt
-2 Opt
-3 Opt
-4 Opt
-1 Shock
-2 Mountain
-2 Shock
-3 Shock
-3 Mountain
-4 Mountain
-4 Shock
-5 Mountain
-6 Mountain
-1 Blitz of the Thunder-Raptor
-1 Crackling Drake
-1 Radical Idea
-1 Thrill of Possibility
-1 Maximize Velocity
-1 Arclight Phoenix
-1 Cathartic Reunion
-2 Blitz of the Thunder-Raptor
-2 Arclight Phoenix
-2 Cathartic Reunion
-2 Radical Idea
-2 Thrill of Possibility
-2 Crackling Drake
-3 Cathartic Reunion
-3 Radical Idea
-3 Arclight Phoenix
-3 Thrill of Possibility
-4 Arclight Phoenix
-3 Temple of Epiphany
-4 Temple of Epiphany
 3 Faerie Guidemother
-2 Brazen Borrower
-3 Brazen Borrower
-4 Brazen Borrower
-3 Fabled Passage
-1 Sprite Dragon
-2 Sprite Dragon
-3 Sprite Dragon
-4 Sprite Dragon
-1 Castle Vantress
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-1 Raugrin Triome
-1 Shatter the Sky
-2 Raugrin Triome
-2 Shatter the Sky
-3 Raugrin Triome
-4 Raugrin Triome
-1 Neutralize
-1 Augur of Bolas
-2 Neutralize
-2 Augur of Bolas
-3 Augur of Bolas
-4 Augur of Bolas
-1 Temple of Deceit
-2 Temple of Deceit
-3 Swamp
-4 Swamp
-1 Chemister's Insight
-1 Shark Typhoon
-1 Thought Erasure
-1 Watery Grave
-1 Extinction Event
-1 Negate
-1 Easy Prey
-1 Heartless Act
-1 Cling to Dust
-1 Blast Zone
-2 Thought Erasure
-2 Watery Grave
-2 Negate
-2 Chemister's Insight
-2 Shark Typhoon
-2 Heartless Act
-2 Blast Zone
-2 Castle Vantress
-2 Cling to Dust
-3 Watery Grave
-3 Thought Erasure
-3 Chemister's Insight
-4 Watery Grave
-4 Thought Erasure
-3 Narset, Parter of Veils
-7 Mountain
-1 Conclave Tribunal
-2 Conclave Tribunal
+1 Paradise Druid
+2 Paradise Druid
+3 Paradise Druid
+4 Paradise Druid
 2 Glass Casket
 3 Glass Casket
-1 Forest
-2 Forest
-3 Forest
-4 Forest
-5 Forest
-6 Forest
-7 Forest
-1 Lovestruck Beast
-2 Lovestruck Beast
-3 Lovestruck Beast
 3 Temple Garden
-4 Lovestruck Beast
 4 Temple Garden
-3 Temple of Deceit
-4 Temple of Deceit
+1 Conclave Tribunal
+2 Conclave Tribunal
+1 Temple of Deceit
+2 Temple of Deceit
+1 Temple of Epiphany
+2 Temple of Epiphany
+3 Temple of Epiphany
+4 Temple of Epiphany
 1 Persistent Petitioners
 1 Temple of Mystery
 1 Temple of Enlightenment
@@ -286,10 +235,12 @@
 2 Temple of Enlightenment
 2 Persistent Petitioners
 3 Temple of Mystery
+3 Temple of Deceit
 3 Temple of Enlightenment
 3 Persistent Petitioners
 4 Temple of Enlightenment
 4 Temple of Mystery
+4 Temple of Deceit
 4 Persistent Petitioners
 5 Persistent Petitioners
 6 Persistent Petitioners
@@ -339,95 +290,143 @@
 50 Persistent Petitioners
 51 Persistent Petitioners
 52 Persistent Petitioners
+2 Gemrazer
+3 Gemrazer
 19 Plains
+1 Brazen Borrower
+1 Hallowed Fountain
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+2 Hallowed Fountain
+3 Teferi, Time Raveler
+3 Hallowed Fountain
+4 Teferi, Time Raveler
+4 Hallowed Fountain
+2 Castle Locthwain
+2 Brazen Borrower
+3 Brazen Borrower
+4 Brazen Borrower
 1 Chance for Glory
 1 Heliod's Intervention
+1 Lurrus of the Dream Den
+1 Gray Merchant of Asphodel
+1 Tymaret, Chosen from Death
+2 Lurrus of the Dream Den
+2 Murderous Rider
+2 Gray Merchant of Asphodel
+1 Sarkhan the Masterless
+2 Sarkhan the Masterless
+3 Sarkhan the Masterless
+1 Steam Vents
+1 The Royal Scions
+1 Sprite Dragon
+2 Steam Vents
+2 Sprite Dragon
+2 The Royal Scions
+3 Steam Vents
+3 Sprite Dragon
+4 Steam Vents
+4 Sprite Dragon
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
+3 Narset, Parter of Veils
 1 Gods Willing
 1 Beloved Princess
 1 Impassioned Orator
 2 Beloved Princess
-2 Gods Willing
 2 Impassioned Orator
+2 Gods Willing
 3 Ajani, Strength of the Pride
 3 Gods Willing
 3 Impassioned Orator
-1 Scorching Dragonfire
-1 Planar Cleansing
-1 Justice Strike
-1 Absorb
-1 Dovin's Veto
-1 Dream Trawler
-1 Inspired Ultimatum
-2 Scorching Dragonfire
-2 Planar Cleansing
-2 Absorb
-2 Inspired Ultimatum
-2 Dovin's Veto
-2 Dream Trawler
-3 Scorching Dragonfire
-3 Absorb
-4 Absorb
-1 Murderous Rider
-5 Swamp
-6 Swamp
-1 Aether Gust
-1 Cry of the Carnarium
-1 Pharika's Libation
-1 Whirlwind Denial
-1 Lochmere Serpent
-2 Cry of the Carnarium
-2 Aether Gust
-3 Neutralize
-3 Cry of the Carnarium
-3 Aether Gust
-4 Neutralize
-1 Castle Locthwain
-2 Castle Locthwain
+1 Temple of Malady
+1 Nightmare Shepherd
+1 Assassin's Trophy
+1 Thrashing Brontodon
+1 Arboreal Grazer
+1 Woe Strider
+2 Temple of Malady
+2 Assassin's Trophy
+2 Nightmare Shepherd
+2 Thrashing Brontodon
+2 Arboreal Grazer
+3 Temple of Malady
+3 Nightmare Shepherd
+3 Arboreal Grazer
+4 Temple of Malady
+4 Nightmare Shepherd
+4 Arboreal Grazer
 3 Castle Locthwain
 1 Zagoth Triome
 1 Sinister Sabotage
+1 Shark Typhoon
+1 Extinction Event
+1 Negate
+1 Thought Erasure
+1 Easy Prey
+1 Watery Grave
+1 Chemister's Insight
+1 Heartless Act
+1 Castle Vantress
+1 Cling to Dust
+1 Blast Zone
+2 Chemister's Insight
 2 Zagoth Triome
-2 Extinction Event
-2 Easy Prey
 2 Sinister Sabotage
+2 Extinction Event
+2 Thought Erasure
+2 Watery Grave
+2 Negate
+2 Easy Prey
+2 Shark Typhoon
+2 Heartless Act
+2 Blast Zone
+2 Castle Vantress
+2 Cling to Dust
+3 Chemister's Insight
 3 Shark Typhoon
-3 Castle Vantress
 3 Zagoth Triome
+3 Castle Vantress
+3 Thought Erasure
+3 Watery Grave
 3 Sinister Sabotage
 3 Easy Prey
 4 Shark Typhoon
 4 Zagoth Triome
+4 Thought Erasure
+4 Watery Grave
 4 Sinister Sabotage
 4 Easy Prey
+1 Raugrin Triome
 1 Elspeth Conquers Death
+1 Interplanar Beacon
 1 Elspeth, Sun's Nemesis
 1 Temple of Triumph
-1 Sarkhan the Masterless
-1 Interplanar Beacon
+1 Shatter the Sky
+2 Raugrin Triome
 2 Elspeth, Sun's Nemesis
-2 Temple of Triumph
+2 Shatter the Sky
 2 Interplanar Beacon
+2 Temple of Triumph
 2 Elspeth Conquers Death
-2 Sarkhan the Masterless
-3 Temple of Triumph
+3 Raugrin Triome
 3 Interplanar Beacon
+3 Temple of Triumph
 3 The Royal Scions
-3 Sarkhan the Masterless
+4 Raugrin Triome
 4 Interplanar Beacon
 4 Sarkhan the Masterless
 4 Temple of Triumph
-1 Lava Coil
-1 Goblin Electromancer
-1 Finale of Promise
-1 God-Eternal Kefnet
-1 Niv-Mizzet, Parun
-1 Ominous Seas
-2 Maximize Velocity
-2 Goblin Electromancer
-2 Ominous Seas
-3 Goblin Electromancer
-3 Crackling Drake
-4 Cathartic Reunion
+1 Temple of Plenty
+1 Cubwarden
+2 Temple of Plenty
+2 Cubwarden
+3 Temple of Plenty
+3 Cubwarden
+4 Temple of Plenty
+4 Gemrazer
+4 Cubwarden
+4 Glass Casket
 1 Spectral Sailor
 1 Sea-Dasher Octopus
 1 Skycat Sovereign
@@ -436,38 +435,47 @@
 2 Skycat Sovereign
 3 Sea-Dasher Octopus
 3 Spectral Sailor
+3 Fabled Passage
 4 Sea-Dasher Octopus
 4 Spectral Sailor
 4 Fabled Passage
-1 Maximize Altitude
-1 Rielle, the Everwise
-2 Rielle, the Everwise
-3 Blitz of the Thunder-Raptor
-4 Radical Idea
-4 Thrill of Possibility
-4 Blitz of the Thunder-Raptor
-8 Forest
-1 Paradise Druid
-1 Temple of Plenty
-1 Gilded Goose
-1 Gemrazer
-1 Cubwarden
-2 Temple of Plenty
-2 Paradise Druid
-2 Gilded Goose
-2 Cubwarden
-2 Gemrazer
-3 Temple of Plenty
-3 Paradise Druid
-3 Cubwarden
-3 Gilded Goose
-3 Gemrazer
-4 Temple of Plenty
-4 Paradise Druid
-4 Gemrazer
-4 Gilded Goose
-4 Glass Casket
-4 Cubwarden
+1 Mountain
+2 Mountain
+3 Mountain
+4 Mountain
+5 Mountain
+6 Mountain
+1 Embercleave
+1 Bonecrusher Giant
+1 Legion Warboss
+1 Questing Beast
+1 Castle Embereth
+1 Temple of Abandon
+1 Collision/Colossus
+1 Domri, Anarch of Bolas
+1 Vivien, Arkbow Ranger
+1 Stomping Ground
+2 Embercleave
+2 Bonecrusher Giant
+2 Questing Beast
+2 Legion Warboss
+2 Collision/Colossus
+2 Vivien, Arkbow Ranger
+2 Stomping Ground
+2 Temple of Abandon
+2 Domri, Anarch of Bolas
+3 Embercleave
+3 Legion Warboss
+3 Temple of Abandon
+3 Domri, Anarch of Bolas
+3 Bonecrusher Giant
+3 Questing Beast
+3 Stomping Ground
+4 Legion Warboss
+4 Temple of Abandon
+4 Stomping Ground
+4 Bonecrusher Giant
+4 Questing Beast
 1 Emmara, Soul of the Accord
 1 Shepherd of the Flock
 1 Edgewall Innkeeper
@@ -480,76 +488,74 @@
 3 Conclave Tribunal
 3 Edgewall Innkeeper
 3 March of the Multitudes
+4 Conclave Tribunal
 4 Edgewall Innkeeper
 4 Faerie Guidemother
-4 Conclave Tribunal
 4 March of the Multitudes
-1 Slaying Fire
-1 Bonecrusher Giant
-1 Robber of the Rich
-1 Skarrgan Hellkite
-1 Castle Embereth
-1 Ionize
-1 Lightning Stormkin
-1 Skewer the Critics
-2 Robber of the Rich
-2 Bonecrusher Giant
-2 Slaying Fire
-2 Skarrgan Hellkite
-2 Ionize
-2 Lightning Stormkin
-2 Skewer the Critics
-3 Robber of the Rich
-3 Lightning Stormkin
-3 Skarrgan Hellkite
-3 Bonecrusher Giant
-3 Skewer the Critics
-3 Ionize
-3 Slaying Fire
-4 Robber of the Rich
-4 Slaying Fire
-4 Skarrgan Hellkite
-4 Skewer the Critics
-4 Lightning Stormkin
-4 Bonecrusher Giant
-8 Mountain
-1 Lurrus of the Dream Den
-1 Rankle, Master of Pranks
+1 Opt
+1 Shock
+1 Blitz of the Thunder-Raptor
+1 Crackling Drake
+1 Radical Idea
+1 Thrill of Possibility
+1 Maximize Velocity
+1 Arclight Phoenix
+1 Rielle, the Everwise
+1 Cathartic Reunion
+1 Maximize Altitude
+2 Opt
+2 Shock
+2 Blitz of the Thunder-Raptor
+2 Rielle, the Everwise
+2 Arclight Phoenix
+2 Cathartic Reunion
+2 Radical Idea
+2 Thrill of Possibility
+2 Crackling Drake
+3 Opt
+3 Shock
+3 Blitz of the Thunder-Raptor
+3 Cathartic Reunion
+3 Radical Idea
+3 Arclight Phoenix
+3 Thrill of Possibility
+4 Opt
+4 Radical Idea
+4 Arclight Phoenix
+4 Thrill of Possibility
+4 Blitz of the Thunder-Raptor
+4 Shock
+7 Mountain
 1 Bolas's Citadel
 1 Soul-Guide Lantern
-1 Gray Merchant of Asphodel
-1 Knight of the Ebon Legion
-1 Gutterbones
-1 Tymaret, Chosen from Death
 1 Ayara, First of Locthwain
+1 Gutterbones
 1 Cavalier of Night
+1 Rankle, Master of Pranks
+1 Knight of the Ebon Legion
 1 Yarok's Fenlurker
 1 Priest of Forgotten Gods
 2 Soul-Guide Lantern
-2 Gray Merchant of Asphodel
-2 Lurrus of the Dream Den
-2 Murderous Rider
 2 Bolas's Citadel
 2 Knight of the Ebon Legion
 2 Priest of Forgotten Gods
+2 Yarok's Fenlurker
 2 Ayara, First of Locthwain
 2 Gutterbones
-2 Yarok's Fenlurker
 3 Yarok's Fenlurker
-3 Gutterbones
 3 Lurrus of the Dream Den
+3 Gutterbones
 3 Gray Merchant of Asphodel
 3 Knight of the Ebon Legion
 3 Priest of Forgotten Gods
 3 Murderous Rider
 4 Yarok's Fenlurker
-4 Castle Locthwain
 4 Murderous Rider
 4 Knight of the Ebon Legion
 4 Gray Merchant of Asphodel
+4 Castle Locthwain
 4 Priest of Forgotten Gods
 4 Gutterbones
-7 Swamp
 8 Swamp
 9 Swamp
 10 Swamp
@@ -604,8 +610,6 @@
 58 Plains
 59 Plains
 60 Plains
-9 Forest
-10 Forest
 11 Forest
 12 Forest
 13 Forest
