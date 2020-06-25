@@ -1,12 +1,11 @@
 1 Polluted Delta
 2 Polluted Delta
-1 River of Tears
 1 Inquisition of Kozilek
 1 Opt
 1 Omen of the Sea
 1 Darkslick Shores
-1 Drowned Catacomb
 1 Remand
+1 Drowned Catacomb
 1 Relic of Progenitus
 1 Thassa's Oracle
 1 Thoughtseize
@@ -14,10 +13,10 @@
 1 Swamp
 1 Watery Grave
 1 Inverter of Truth
+1 River of Tears
 1 Eldrazi Temple
 1 Jace, Wielder of Mysteries
 1 Shelldock Isle
-2 River of Tears
 2 Inquisition of Kozilek
 2 Watery Grave
 2 Darkslick Shores
@@ -26,6 +25,7 @@
 2 Remand
 2 Shelldock Isle
 2 Relic of Progenitus
+2 River of Tears
 2 Jace, Wielder of Mysteries
 2 Thassa's Oracle
 2 Thoughtseize
@@ -33,36 +33,35 @@
 2 Eldrazi Temple
 2 Inverter of Truth
 2 Fatal Push
-3 Jace, Wielder of Mysteries
 3 Opt
 3 Darkslick Shores
 3 Omen of the Sea
 3 Remand
-3 Watery Grave
 3 Inquisition of Kozilek
+3 Watery Grave
 3 Relic of Progenitus
 3 Thoughtseize
+3 Jace, Wielder of Mysteries
 3 Thassa's Oracle
 3 Fatal Push
 3 Inverter of Truth
 3 Drowned Catacomb
 3 Eldrazi Temple
 4 Thassa's Oracle
-4 Drowned Catacomb
-4 Watery Grave
-4 Jace, Wielder of Mysteries
 4 Opt
 4 Omen of the Sea
-4 Darkslick Shores
 4 Remand
+4 Darkslick Shores
+4 Drowned Catacomb
 4 Fatal Push
+4 Watery Grave
+4 Jace, Wielder of Mysteries
 4 Inverter of Truth
 1 Windswept Heath
 1 Temple Garden
 1 Stoneforge Mystic
 1 Elvish Mystic
 1 Llanowar Elves
-1 Collected Company
 1 Heritage Druid
 1 Selfless Spirit
 1 Leyline of Abundance
@@ -72,6 +71,7 @@
 1 Boreal Druid
 1 Umbral Mantle
 1 Devoted Druid
+1 Collected Company
 1 Marwyn, the Nurturer
 1 Horizon Canopy
 1 Beastcaller Savant
@@ -79,7 +79,6 @@
 2 Forest
 2 Llanowar Elves
 2 Temple Garden
-2 Collected Company
 2 Heritage Druid
 2 Leyline of Abundance
 2 Elvish Mystic
@@ -89,6 +88,7 @@
 2 Elvish Archdruid
 2 Umbral Mantle
 2 Razorverge Thicket
+2 Collected Company
 2 Beastcaller Savant
 2 Horizon Canopy
 3 Windswept Heath
@@ -122,6 +122,7 @@
 1 Serum Visions
 1 Peer Through Depths
 1 Sleight of Hand
+1 Izzet Charm
 1 Twiddle
 1 Ideas Unbound
 1 Merchant Scroll
@@ -131,7 +132,6 @@
 1 Flooded Strand
 1 Echoing Truth
 1 Sylvan Scrying
-1 Izzet Charm
 2 Lonely Sandbar
 2 Lotus Field
 2 Dream's Grip

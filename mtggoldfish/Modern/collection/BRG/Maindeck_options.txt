@@ -1,3 +1,6 @@
+1 Munitions Expert
+1 Aether Vial
+1 Goblin Matron
 1 Auntie's Hovel
 1 Cavern of Souls
 1 Sling-Gang Lieutenant
@@ -8,11 +11,11 @@
 2 Goblin Ringleader
 2 Cavern of Souls
 3 Auntie's Hovel
+3 Aether Vial
 3 Goblin Ringleader
+3 Goblin Matron
 3 Munitions Expert
 3 Cavern of Souls
-3 Aether Vial
-3 Goblin Matron
 4 Auntie's Hovel
 4 Goblin Matron
 4 Cavern of Souls
@@ -29,6 +32,7 @@
 4 Munitions Expert
 4 Goblin Ringleader
 2 Sling-Gang Lieutenant
+2 Wooded Foothills
 1 Murderous Redcap
 1 Unclaimed Territory
 1 Metallic Mimic
@@ -39,61 +43,58 @@
 3 Metallic Mimic
 3 Unclaimed Territory
 4 Metallic Mimic
-2 Wooded Foothills
 1 Pashalik Mons
 1 Mogg War Marshal
 2 Mogg War Marshal
-3 Bloodstained Mire
 2 Mountain
-2 Raging Ravine
-2 Kolaghan's Command
+2 Forest
 4 Blackcleave Cliffs
+1 Field of Ruin
+2 Field of Ruin
 4 Unclaimed Territory
 3 Grumgully, the Generous
 1 Frogtosser Banneret
 1 Fiery Islet
-2 Forest
 3 Mountain
-1 Field of Ruin
-2 Field of Ruin
-1 Ancient Ziggurat
-3 Blood Crypt
-3 Murderous Redcap
-1 Goblin Cratermaker
-1 Goblin Warchief
-2 Goblin Warchief
-3 Mogg War Marshal
 1 Hexdrinker
 2 Hexdrinker
-1 Tarfire
 3 Field of Ruin
-1 Liliana, the Last Hope
-1 Tireless Tracker
 1 Dark Confidant
 1 Marsh Flats
 1 Grim Flayer
 2 Nurturing Peatland
 2 Marsh Flats
 2 Abrupt Decay
-2 Grim Flayer
 3 Fatal Push
-3 Assassin's Trophy
 3 Hexdrinker
 3 Swamp
-4 Field of Ruin
 4 Fatal Push
+1 Ancient Ziggurat
+3 Blood Crypt
+3 Murderous Redcap
 1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
-1 Huntmaster of the Fells
+1 Goblin Cratermaker
+1 Goblin Warchief
+2 Goblin Warchief
+3 Mogg War Marshal
+1 Tarfire
+1 Tireless Tracker
+1 Liliana, the Last Hope
 1 Blooming Marsh
+4 Bloodstained Mire
+2 Grim Flayer
+3 Assassin's Trophy
+4 Field of Ruin
+2 Dark Confidant
+3 Dark Confidant
+1 Huntmaster of the Fells
 1 Klothys, God of Destiny
 1 Sunbaked Canyon
 2 Fiery Islet
 1 Treetop Village
 1 Kitchen Finks
-2 Dark Confidant
 2 Kitchen Finks
-3 Dark Confidant
 3 Overgrown Tomb
 3 Kitchen Finks
 3 Grim Flayer
@@ -103,7 +104,13 @@
 1 Snow-Covered Mountain
 1 Goblin Piledriver
 3 Goblin Warchief
-4 Bloodstained Mire
+1 Nihil Spellbomb
+3 Thoughtseize
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
+4 Mishra's Bauble
+4 Hexdrinker
 1 Ketria Triome
 1 Steam Vents
 1 Sacred Foundry
@@ -119,17 +126,26 @@
 4 Manamorphose
 4 Murderous Redcap
 1 Mogg Fanatic
+2 Barren Moor
 1 Arcum's Astrolabe
 1 Snow-Covered Swamp
 1 Terminate
-1 Nihil Spellbomb
 1 Seasoned Pyromancer
 2 Snow-Covered Swamp
 2 Seasoned Pyromancer
+1 Seal of Fire
+1 Lurrus of the Dream-Den
+2 Lurrus of the Dream-Den
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
-2 Barren Moor
-3 Thoughtseize
+1 Unearth
+1 Dead Weight
+2 Unearth
+2 Blooming Marsh
+3 Blooming Marsh
+3 Scavenging Ooze
+3 Abrupt Decay
+4 Dark Confidant
 1 Gemstone Caverns
 2 Goblin Piledriver
 3 Sling-Gang Lieutenant
@@ -142,7 +158,6 @@
 3 Forest
 3 Tireless Tracker
 4 Nurturing Peatland
-4 Hexdrinker
 4 Forest
 1 Goblin Chieftain
 1 Kiki-Jiki, Mirror Breaker

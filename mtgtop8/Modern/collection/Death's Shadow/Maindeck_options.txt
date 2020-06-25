@@ -1,15 +1,14 @@
-2 Inquisition of Kozilek
 2 Fatal Push
-1 Thought Scour
 1 Watery Grave
+1 Thought Scour
 1 Stubborn Denial
 1 Polluted Delta
 1 Snapcaster Mage
-2 Watery Grave
-2 Thought Scour
 2 Stubborn Denial
 2 Snapcaster Mage
+2 Thought Scour
 2 Polluted Delta
+2 Watery Grave
 3 Polluted Delta
 3 Stubborn Denial
 4 Polluted Delta
@@ -18,37 +17,35 @@
 3 Fatal Push
 3 Street Wraith
 4 Street Wraith
-3 Cling to Dust
 4 Fatal Push
 1 Drown in the Loch
 1 Steam Vents
 3 Thought Scour
 4 Thought Scour
-1 Mountain
-1 Gurmag Angler
 1 Island
+1 Gurmag Angler
 2 Gurmag Angler
 3 Gurmag Angler
 4 Stubborn Denial
 4 Gurmag Angler
+3 Temur Battle Rage
+1 Kolaghan's Command
+3 Cling to Dust
+1 Mountain
+1 Scalding Tarn
+2 Scalding Tarn
 4 Mutagenic Growth
+1 Kroxa, Titan of Death's Hunger
+2 Kolaghan's Command
 1 Traverse the Ulvenwald
 2 Traverse the Ulvenwald
 3 Traverse the Ulvenwald
-1 Become Immense
-2 Become Immense
-3 Become Immense
-1 Scalding Tarn
-2 Scalding Tarn
-1 Kolaghan's Command
-1 Kroxa, Titan of Death's Hunger
 2 Unearth
 3 Snapcaster Mage
 1 Soul-Scar Mage
 2 Soul-Scar Mage
-1 Sacred Foundry
+1 Marsh Flats
 3 Inquisition of Kozilek
-1 Godless Shrine
 1 Arid Mesa
 2 Arid Mesa
 3 Arid Mesa
@@ -57,65 +54,33 @@
 1 Assassin's Trophy
 1 Lurrus of the Dream-Den
 2 Lurrus of the Dream-Den
+1 Flooded Strand
+2 Flooded Strand
+2 Drown in the Loch
 3 Seal of Fire
+1 Become Immense
+2 Become Immense
 3 Crash Through
+3 Become Immense
 1 Serum Visions
 2 Steam Vents
 2 Serum Visions
 3 Steam Vents
-1 Footfall Crater
-1 Wild Nacatl
-1 Dryad Arbor
-2 Wild Nacatl
-3 Wild Nacatl
-4 Wild Nacatl
-4 Wooded Foothills
-1 Sword of Feast and Famine
-1 Silent Clearing
-1 Kaya's Guile
-1 Marsh Flats
-1 Ranger-Captain of Eos
-1 Tidehollow Sculler
-1 Stoneforge Mystic
-1 Giver of Runes
-1 Batterskull
-1 Sword of Fire and Ice
-1 Plains
-2 Swamp
-2 Silent Clearing
-2 Godless Shrine
-2 Marsh Flats
-2 Ranger-Captain of Eos
-2 Tidehollow Sculler
-2 Giver of Runes
-2 Stoneforge Mystic
-3 Godless Shrine
-3 Silent Clearing
-3 Marsh Flats
-3 Ranger-Captain of Eos
-3 Tidehollow Sculler
-3 Stoneforge Mystic
-4 Godless Shrine
-4 Marsh Flats
-4 Stoneforge Mystic
-4 Tidehollow Sculler
-4 Silent Clearing
-4 Ranger-Captain of Eos
-4 Inquisition of Kozilek
 1 Lava Dart
 1 Manamorphose
 1 Abbot of Keral Keep
+1 Sacred Foundry
 1 Sunbaked Canyon
 2 Abbot of Keral Keep
 2 Lava Dart
 2 Manamorphose
 2 Mountain
 2 Sunbaked Canyon
-3 Blood Crypt
 3 Lava Dart
 3 Soul-Scar Mage
 3 Abbot of Keral Keep
 3 Manamorphose
+3 Blood Crypt
 3 Mountain
 3 Sunbaked Canyon
 4 Arid Mesa
@@ -124,9 +89,40 @@
 4 Manamorphose
 4 Cling to Dust
 4 Sunbaked Canyon
+1 Silent Clearing
+1 Ranger-Captain of Eos
+1 Kaya's Guile
+1 Tidehollow Sculler
+1 Stoneforge Mystic
+1 Giver of Runes
+1 Batterskull
+1 Sword of Fire and Ice
+1 Godless Shrine
+1 Sword of Feast and Famine
+1 Plains
+2 Swamp
+2 Godless Shrine
+2 Silent Clearing
+2 Ranger-Captain of Eos
+2 Marsh Flats
+2 Tidehollow Sculler
+2 Giver of Runes
+2 Stoneforge Mystic
+3 Godless Shrine
+3 Silent Clearing
+3 Marsh Flats
+3 Tidehollow Sculler
+3 Stoneforge Mystic
+3 Ranger-Captain of Eos
+4 Godless Shrine
+4 Marsh Flats
+4 Tidehollow Sculler
+4 Stoneforge Mystic
+4 Silent Clearing
+4 Inquisition of Kozilek
+4 Ranger-Captain of Eos
 1 Fiery Islet
 2 Kroxa, Titan of Death's Hunger
-2 Kolaghan's Command
 3 Kroxa, Titan of Death's Hunger
 3 Scalding Tarn
 4 Snapcaster Mage

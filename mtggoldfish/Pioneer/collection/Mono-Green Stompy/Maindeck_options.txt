@@ -1,12 +1,12 @@
 1 Rotting Regisaur
 2 Llanowar Wastes
-2 Rotting Regisaur
 2 Blooming Marsh
 2 Overgrown Tomb
-3 Rotting Regisaur
+2 Rotting Regisaur
 3 Llanowar Wastes
-3 Overgrown Tomb
 3 Blooming Marsh
+3 Rotting Regisaur
+3 Overgrown Tomb
 4 Llanowar Wastes
 4 Rotting Regisaur
 4 Overgrown Tomb
@@ -59,6 +59,7 @@
 1 Anafenza, Kin-Tree Spirit
 1 Courser of Kruphix
 1 Selfless Spirit
+1 Voice of Resurgence
 1 Plains
 1 Fortified Village
 1 Fleecemane Lion
@@ -67,7 +68,6 @@
 1 Chord of Calling
 1 Benalish Marshal
 1 Alseid of Life's Bounty
-1 Voice of Resurgence
 1 Knight of Autumn
 2 Plains
 2 Chord of Calling

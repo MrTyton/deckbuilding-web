@@ -44,8 +44,8 @@
 3 Sprite Dragon
 3 Opt
 3 Delver of Secrets
-4 Polluted Delta
 4 Sprite Dragon
+4 Polluted Delta
 4 Opt
 4 Delver of Secrets
 4 Scalding Tarn
@@ -99,8 +99,8 @@
 6 Forest
 1 Dreadhorde Arcanist
 1 Dark Confidant
-2 Dark Confidant
 2 Snow-Covered Swamp
+2 Dark Confidant
 3 Dark Confidant
 1 Kroxa, Titan of Death's Hunger
 2 Unearth
@@ -129,13 +129,36 @@
 1 Collective Brutality
 2 Light Up the Stage
 3 Light Up the Stage
-3 Lava Dart
 3 Blood Crypt
+3 Lava Dart
 4 Light Up the Stage
 4 Blood Crypt
 1 Arid Mesa
 2 Kiln Fiend
 4 Mountain
+1 Liliana of the Veil
+1 Fiend Artisan
+1 Lightning Skelemental
+1 Castle Locthwain
+2 Liliana of the Veil
+2 Castle Locthwain
+2 Fiend Artisan
+2 Lightning Skelemental
+3 Unearth
+3 Snow-Covered Swamp
+3 Kroxa, Titan of Death's Hunger
+3 Liliana of the Veil
+3 Thoughtseize
+3 Lightning Skelemental
+4 Snow-Covered Swamp
+4 Liliana of the Veil
+5 Snow-Covered Swamp
+1 Misty Rainforest
+1 Lukka, Coppercoat Outcast
+1 Blood Moon
+2 Misty Rainforest
+4 Kitchen Finks
+7 Forest
 1 Shadowspear
 1 Plains
 1 Giver of Runes
@@ -158,10 +181,10 @@
 2 Kor Outfitter
 2 Colossus Hammer
 2 Sigarda's Aid
-2 Spellskite
 2 Inkmoth Nexus
 2 Steelshaper's Gift
 2 Shadowspear
+2 Spellskite
 2 Plains
 2 Inspiring Vantage
 3 Stoneforge Mystic
@@ -179,8 +202,8 @@
 3 Inspiring Vantage
 4 Magnetic Theft
 4 Inkmoth Nexus
-4 Giver of Runes
 4 Stoneforge Mystic
+4 Giver of Runes
 4 Colossus Hammer
 4 Steelshaper's Gift
 4 Plains
@@ -189,28 +212,5 @@
 4 Spellskite
 4 Kor Duelist
 4 Sacred Foundry
-4 Inspiring Vantage
 5 Plains
-1 Misty Rainforest
-1 Lukka, Coppercoat Outcast
-1 Blood Moon
-2 Misty Rainforest
-4 Kitchen Finks
-7 Forest
-1 Fiend Artisan
-1 Liliana of the Veil
-1 Lightning Skelemental
-1 Castle Locthwain
-2 Fiend Artisan
-2 Liliana of the Veil
-2 Castle Locthwain
-2 Lightning Skelemental
-3 Unearth
-3 Snow-Covered Swamp
-3 Kroxa, Titan of Death's Hunger
-3 Liliana of the Veil
-3 Thoughtseize
-3 Lightning Skelemental
-4 Snow-Covered Swamp
-4 Liliana of the Veil
-5 Snow-Covered Swamp
+4 Inspiring Vantage

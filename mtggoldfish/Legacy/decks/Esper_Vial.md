@@ -50,6 +50,6 @@
 |                    2|[Flickerwisp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376338)        |                    1|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446104)      |
 |                    1|[Unearth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442102)            |                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)          |
 |                    2|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|                    1|[Palace Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416775)          |
-|                    4|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)  |                    1|[Peacekeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4584)              |
-|                    2|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)             |                    1|[Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)           |
+|                    4|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)  |                    1|[Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)           |
+|                    2|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)             |                    1|[Peacekeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4584)              |
 

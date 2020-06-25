@@ -13,25 +13,25 @@
 1 Drown in the Loch
 2 Drown in the Loch
 1 Surgical Extraction
-1 Abrade
+1 Damping Sphere
 2 Red Elemental Blast
-1 Price of Progress
 1 Ravenous Trap
+1 Price of Progress
 1 Sulfuric Vortex
 1 Shenanigans
 2 Ravenous Trap
 3 Red Elemental Blast
 4 Red Elemental Blast
-1 Damping Sphere
+1 Abrade
 2 Abrade
 1 Trinisphere
 1 Into the Roil
 1 Echoing Truth
 2 Trinisphere
 2 Echoing Truth
-1 Blood Moon
-1 Hydroblast
 1 Flusterstorm
+1 Grafdigger's Cage
+1 Hydroblast
 1 Engineered Explosives
 1 From the Ashes
 1 Nihil Spellbomb
@@ -39,62 +39,59 @@
 2 Thoughtseize
 3 Thoughtseize
 1 Force of Negation
-1 Grafdigger's Cage
+1 Tormod's Crypt
 1 Blue Elemental Blast
+1 Walking Ballista
+1 Sorcerous Spyglass
 1 The Tabernacle at Pendrell Vale
 1 Mystical Dispute
-2 Surgical Extraction
 1 Mycosynth Lattice
-1 Walking Ballista
-1 Tormod's Crypt
-1 Swords to Plowshares
-1 Containment Priest
-2 Swords to Plowshares
-2 Containment Priest
-3 Swords to Plowshares
+1 Liquimetal Coating
+2 Surgical Extraction
 1 Faerie Macabre
-1 Disenchant
-2 Disenchant
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
 1 Force of Vigor
+1 Veil of Summer
+2 Veil of Summer
 1 Mindbreak Trap
 2 Mindbreak Trap
+1 Yorion, Sky Nomad
 2 Faerie Macabre
-1 Rest in Peace
-2 Rest in Peace
 1 Choke
+1 Blood Moon
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+1 Path to Exile
 1 Tireless Tracker
 1 Nissa, Vastwood Seer
 1 Notion Thief
+1 Supreme Verdict
+1 Deafening Silence
+1 Stony Silence
+1 Wilt
+2 Supreme Verdict
+2 Flusterstorm
+1 Lion's Eye Diamond
+1 Chandra, Awakened Inferno
+2 Chandra, Awakened Inferno
+1 Rest in Peace
+2 Rest in Peace
 1 Stoneforge Mystic
 1 Sword of Fire and Ice
 1 Spell Pierce
-1 Deputy of Detention
-1 Path to Exile
+1 Disenchant
 1 Umezawa's Jitte
+1 Deputy of Detention
 2 Stoneforge Mystic
+2 Disenchant
 1 Pithing Needle
 1 Sulfur Elemental
 1 Ashiok, Dream Render
 2 Ashiok, Dream Render
-1 Lion's Eye Diamond
-1 Glass Casket
-1 Oblivion Ring
-2 Oblivion Ring
-1 Grindstone
-1 Painter's Servant
-1 Wishclaw Talisman
-1 Fiery Confluence
-1 Dead of Winter
-1 Helm of Obedience
-2 Helm of Obedience
 1 Sylvan Library
 1 Liliana's Triumph
 1 Liliana, the Last Hope
 1 Kaheera, the Orphanguard
 1 Nether Void
-1 Sorcerous Spyglass
 1 The Elderspell
 2 Liliana's Triumph
 2 Choke
@@ -105,12 +102,10 @@
 1 Glen Elendra Archmage
 1 Ethersworn Canonist
 1 Leonin Relic-Warder
-1 Yorion, Sky Nomad
 3 Teferi, Time Raveler
+1 Kozilek's Return
 1 Krosan Grip
 1 Keruga, the Macrosage
-1 Kozilek's Return
-1 Liquimetal Coating
 2 Krosan Grip
 2 Kozilek's Return
 3 Faerie Macabre
@@ -136,21 +131,6 @@
 1 Force of Will
 2 Force of Will
 3 Force of Will
-1 Chrome Mox
-1 Winds of Abandon
-1 Cataclysm
-2 Cataclysm
-3 Cataclysm
-3 Rest in Peace
-4 Swords to Plowshares
-4 Rest in Peace
-1 Carpet of Flowers
-1 Veil of Summer
-2 Force of Vigor
-2 Carpet of Flowers
-2 Veil of Summer
-3 Force of Vigor
-4 Force of Vigor
 1 Reverent Silence
 1 Echo of Eons
 1 Toxic Deluge
@@ -163,6 +143,24 @@
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
+1 Swords to Plowshares
+1 Chrome Mox
+1 Winds of Abandon
+1 Containment Priest
+1 Cataclysm
+2 Swords to Plowshares
+2 Containment Priest
+2 Cataclysm
+3 Swords to Plowshares
+3 Rest in Peace
+3 Cataclysm
+4 Swords to Plowshares
+4 Rest in Peace
+1 Carpet of Flowers
+2 Force of Vigor
+2 Carpet of Flowers
+3 Force of Vigor
+4 Force of Vigor
 1 Eidolon of the Great Revel
 2 Price of Progress
 2 Eidolon of the Great Revel

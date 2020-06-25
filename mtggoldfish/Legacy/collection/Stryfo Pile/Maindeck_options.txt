@@ -1,6 +1,6 @@
 2 Snow-Covered Forest
-2 Snow-Covered Island
 2 Ice-Fang Coatl
+2 Snow-Covered Island
 2 Scalding Tarn
 3 Snow-Covered Island
 3 Ice-Fang Coatl
@@ -39,17 +39,16 @@
 1 Abundant Growth
 2 Abundant Growth
 1 Klothys, God of Destiny
-1 Notion Thief
 1 Red Elemental Blast
+1 Notion Thief
 4 Misty Rainforest
 1 Growth Spiral
 1 Field of the Dead
-1 Golgari Rot Farm
 1 Primeval Titan
+1 Simic Growth Chamber
+1 Golgari Rot Farm
 1 Prismatic Vista
 1 Maze of Ith
-1 Breeding Pool
-1 Simic Growth Chamber
 1 Show and Tell
 1 Azorius Chancery
 1 Exploration
@@ -57,15 +56,16 @@
 1 Windswept Heath
 1 Cavern of Souls
 1 Stifle
+1 Breeding Pool
 1 Life from the Loam
 1 Wasteland
 2 Field of the Dead
 2 Growth Spiral
 2 Primeval Titan
+2 Simic Growth Chamber
 2 Prismatic Vista
 2 Drop of Honey
 2 Stifle
-2 Simic Growth Chamber
 2 Show and Tell
 2 Cavern of Souls
 2 Exploration
@@ -95,8 +95,8 @@
 2 Manipulate Fate
 2 Watcher for Tomorrow
 2 Chrome Mox
-3 Snow-Covered Forest
 3 Chrome Mox
+3 Snow-Covered Forest
 3 Food Chain
 3 Watcher for Tomorrow
 3 Misthollow Griffin
