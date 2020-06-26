@@ -24,30 +24,30 @@
 2 Mana Confluence
 1 Sacred Foundry
 1 Goblin Rabblemaster
-1 Goblin Instigator
 1 Angrath's Marauders
 1 Winota, Joiner of Forces
 1 Kenrith, the Returned King
+1 Goblin Instigator
 1 Legion Warboss
 1 Eldritch Evolution
 1 Voice of Resurgence
-1 Scampering Scorcher
 1 Inspiring Vantage
+1 Scampering Scorcher
 1 Selfless Spirit
 1 Sunpetal Grove
 1 Temple Garden
 1 Plains
-2 Inspiring Vantage
-2 Sacred Foundry
 2 Goblin Rabblemaster
+2 Sacred Foundry
+2 Inspiring Vantage
 2 Legion Warboss
 2 Eldritch Evolution
-2 Sunpetal Grove
 2 Kenrith, the Returned King
 2 Angrath's Marauders
 2 Winota, Joiner of Forces
 2 Voice of Resurgence
 2 Gilded Goose
+2 Sunpetal Grove
 2 Selfless Spirit
 2 Temple Garden
 3 Legion Warboss
@@ -62,8 +62,8 @@
 4 Voice of Resurgence
 4 Legion Warboss
 4 Temple Garden
-1 Blooming Marsh
 1 Urborg, Tomb of Yawgmoth
+1 Blooming Marsh
 2 Blooming Marsh
 3 Blooming Marsh
 4 Blooming Marsh
@@ -71,18 +71,18 @@
 1 Teshar, Ancestor's Apostle
 1 Kethis, the Hidden Hand
 1 Emry, Lurker of the Loch
-1 Diligent Excavator
-1 Liliana, the Last Hope
-1 Lazav, the Multifarious
 1 Wishclaw Talisman
+1 Diligent Excavator
+1 Lazav, the Multifarious
 1 Mox Amber
+1 Botanical Sanctum
 1 Springleaf Drum
 1 Lurrus of the Dream Den
 1 Teferi, Time Raveler
 1 Island
 1 Jace, Wielder of Mysteries
 1 Hallowed Fountain
-1 Botanical Sanctum
+1 Liliana, the Last Hope
 1 Spire of Industry
 1 Hope of Ghirapur
 2 Lazav, the Multifarious
@@ -120,52 +120,52 @@
 4 Mox Amber
 4 Botanical Sanctum
 4 Mana Confluence
-1 Temple of Malady
 1 Woodland Cemetery
+1 Temple of Malady
 1 Swamp
 1 Overgrown Tomb
-1 Vine Mare
-1 Questing Beast
 1 Soulflayer
 1 Gather the Pack
 1 Zetalpa, Primal Dawn
+1 Vine Mare
+1 Grisly Salvage
 1 Lotleth Troll
+1 Questing Beast
 1 Rankle, Master of Pranks
 1 Grapple with the Past
 1 Erebos, God of the Dead
 1 Gifted Aetherborn
-1 Grisly Salvage
 1 Sunblade Angel
 1 Spark Trooper
 1 Skull Prophet
-2 Grisly Salvage
 2 Temple of Malady
-2 Overgrown Tomb
 2 Swamp
-2 Questing Beast
-2 Vine Mare
 2 Zetalpa, Primal Dawn
 2 Gather the Pack
 2 Soulflayer
+2 Overgrown Tomb
+2 Questing Beast
+2 Grisly Salvage
 2 Lotleth Troll
+2 Vine Mare
 2 Skull Prophet
 2 Gifted Aetherborn
-3 Overgrown Tomb
-3 Swamp
-3 Questing Beast
 3 Zetalpa, Primal Dawn
 3 Gather the Pack
 3 Soulflayer
 3 Grisly Salvage
+3 Overgrown Tomb
+3 Swamp
 3 Lotleth Troll
+3 Questing Beast
 3 Gifted Aetherborn
-4 Overgrown Tomb
 4 Gather the Pack
 4 Zetalpa, Primal Dawn
-4 Swamp
 4 Soulflayer
 4 Grisly Salvage
 4 Lotleth Troll
+4 Overgrown Tomb
+4 Swamp
 4 Gifted Aetherborn
 1 Breeding Pool
 2 Breeding Pool
@@ -180,10 +180,10 @@
 1 Enter the Infinite
 1 Game Trail
 1 Possibility Storm
-1 Bonecrusher Giant
 1 Emrakul, the Promised End
 1 Stonecoil Serpent
 1 Rosethorn Acolyte
+1 Bonecrusher Giant
 1 Lovestruck Beast
 1 Worldspine Wurm
 2 Lukka, Coppercoat Outcast
@@ -200,15 +200,15 @@
 3 Possibility Storm
 3 Rootbound Crag
 3 Game Trail
-3 Mountain
 3 Bonecrusher Giant
+3 Mountain
 3 Captain Lannery Storm
 3 Lovestruck Beast
 3 Rosethorn Acolyte
 4 Rootbound Crag
 4 Forest
-4 Bonecrusher Giant
 4 Possibility Storm
+4 Bonecrusher Giant
 4 Game Trail
 4 Lovestruck Beast
 5 Forest

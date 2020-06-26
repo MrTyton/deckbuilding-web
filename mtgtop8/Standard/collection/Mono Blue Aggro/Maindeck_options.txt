@@ -1,14 +1,13 @@
-3 Neutralize
-1 Aether Gust
-4 Opt
-4 Neutralize
-1 Unsummon
 2 Unsummon
 3 Castle Vantress
+1 Neutralize
+2 Neutralize
+3 Neutralize
+4 Neutralize
 1 Cunning Nightbonder
 2 Cunning Nightbonder
 3 Unsummon
-2 Aether Gust
+1 Aether Gust
 1 Starlit Mantle
 2 Starlit Mantle
 3 Starlit Mantle
@@ -33,10 +32,10 @@
 2 Shark Typhoon
 2 Overwhelmed Apprentice
 2 Heraldic Banner
-3 Shark Typhoon
 3 Fabled Passage
 3 Pteramander
 3 Mystic Sanctuary
+3 Shark Typhoon
 3 Overwhelmed Apprentice
 3 Heraldic Banner
 4 Fabled Passage
@@ -47,8 +46,7 @@
 1 Stern Dismissal
 1 Ashiok's Erasure
 2 Ashiok's Erasure
-1 Hypnotic Sprite
-2 Hypnotic Sprite
+2 Aether Gust
 3 Whirlwind Denial
 1 Persistent Petitioners
 2 Persistent Petitioners
@@ -92,5 +90,5 @@
 40 Persistent Petitioners
 41 Persistent Petitioners
 42 Persistent Petitioners
-4 Quench
 4 Mystical Dispute
+4 Quench
