@@ -84,12 +84,12 @@
 2 Caves of Koilos
 2 Elspeth's Nightmare
 3 The Birth of Meletis
-3 Caves of Koilos
 3 Treacherous Blessing
 3 Demonic Pact
+3 Caves of Koilos
 4 The Birth of Meletis
-4 Demonic Pact
 4 Caves of Koilos
+4 Demonic Pact
 4 Plains
 1 Castle Locthwain
 2 Castle Locthwain
@@ -122,14 +122,14 @@
 2 Archon of Sun's Grace
 3 Temple of Deceit
 3 Elspeth's Nightmare
+4 Treacherous Blessing
 4 Flicker of Fate
 4 Temple of Deceit
-4 Treacherous Blessing
 4 Elspeth's Nightmare
 1 Neutralize
-1 Charming Prince
 1 Agent of Treachery
 1 Cling to Dust
+1 Charming Prince
 1 Settle the Wreckage
 2 Charming Prince
 2 Agent of Treachery
@@ -139,29 +139,28 @@
 4 Charming Prince
 4 Neutralize
 1 Temple of Silence
-1 Urborg, Tomb of Yawgmoth
 1 Thraben Inspector
 1 Blast Zone
-1 Agonizing Remorse
 1 Duress
+1 Agonizing Remorse
 1 Murderous Rider
+1 Urborg, Tomb of Yawgmoth
 1 Starfield of Nyx
-2 Thraben Inspector
 2 Murderous Rider
+2 Thraben Inspector
 2 Kaya's Wrath
 2 Duress
-3 Thraben Inspector
 3 Murderous Rider
+3 Thraben Inspector
 3 Shambling Vent
-4 Shambling Vent
 4 Doom Foretold
+4 Shambling Vent
 4 Swamp
 5 Plains
 6 Plains
 1 Reflector Mage
 1 Elite Guardmage
 1 Sphinx's Revelation
-1 Discovery / Dispersal
 1 Spell Queller
 1 Dream Trawler
 1 Tyrant's Scorn
@@ -169,6 +168,7 @@
 1 Anguished Unmaking
 1 Mortify
 1 Deputy of Detention
+1 Discovery / Dispersal
 2 Reflector Mage
 2 Spell Queller
 2 Tyrant's Scorn

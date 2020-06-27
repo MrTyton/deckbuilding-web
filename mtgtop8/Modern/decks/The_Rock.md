@@ -24,18 +24,3 @@
 |2 [Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|2 [Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)|                                                                                        |                                                                                                 |                         |
 |2 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)   |                                                                                             |                                                                                        |                                                                                                 |                         |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
-|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    3|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)|                    1|[Rain of Tears](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135220)       |
-|                     |                                                                                             |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
-|                     |                                                                                             |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)   |
-|                     |                                                                                             |                    1|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)     |
-|                     |                                                                                             |                    2|[Rain of Tears](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135220)       |
-|                     |                                                                                             |                    2|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)     |
-|                     |                                                                                             |                    3|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
-|                     |                                                                                             |                    3|[Rain of Tears](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135220)       |
-|                     |                                                                                             |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
-

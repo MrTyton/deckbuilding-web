@@ -22,12 +22,12 @@
 1 Temple Garden
 1 Hallowed Fountain
 3 Flooded Strand
+1 Arboreal Grazer
+1 Field of the Dead
 1 Primal Command
 1 Simic Growth Chamber
-1 Field of the Dead
 1 Courser of Kruphix
 1 Golos, Tireless Pilgrim
-1 Arboreal Grazer
 1 Teferi, Time Raveler
 1 Realm-Cloaked Giant
 1 Glen Elendra Archmage
@@ -40,6 +40,7 @@
 1 Primeval Titan
 1 Sakura-Tribe Scout
 2 Field of the Dead
+2 Arboreal Grazer
 2 Primal Command
 2 Stomping Ground
 2 Teferi, Time Raveler
@@ -49,7 +50,6 @@
 2 Castle Garenbrig
 2 Sakura-Tribe Scout
 2 Primeval Titan
-2 Arboreal Grazer
 2 Courser of Kruphix
 3 Wooded Foothills
 3 Teferi, Time Raveler
@@ -79,25 +79,25 @@
 1 Snow-Covered Plains
 1 Prismatic Vista
 1 Path to Exile
+2 Teferi, Hero of Dominaria
 2 Abrupt Decay
 2 Snow-Covered Plains
 2 Abundant Growth
-2 Teferi, Hero of Dominaria
 2 Supreme Verdict
 2 Prismatic Vista
 2 Kaya's Guile
 2 Path to Exile
 2 Assassin's Trophy
-3 Abundant Growth
 3 Prismatic Vista
 3 Kaya's Guile
 3 Path to Exile
+3 Abundant Growth
 4 Abundant Growth
+4 Uro, Titan of Nature's Wrath
 4 Field of Ruin
 4 Kaya's Guile
 4 Path to Exile
 4 Prismatic Vista
-4 Uro, Titan of Nature's Wrath
 1 Blast Zone
 2 Steam Vents
 3 Expansion / Explosion
@@ -122,7 +122,6 @@
 1 Kroxa, Titan of Death's Hunger
 1 Overgrown Tomb
 1 Cling to Dust
-1 Mishra's Bauble
 1 Kolaghan's Command
 1 Seal of Fire
 1 Tyrant's Scorn
@@ -131,6 +130,7 @@
 1 Inquisition of Kozilek
 1 Drown in the Loch
 1 Engineered Explosives
+1 Mishra's Bauble
 2 Mishra's Bauble
 2 Inquisition of Kozilek
 3 Snapcaster Mage

@@ -1,35 +1,18 @@
-1 The Royal Scions
-2 Radical Idea
-3 Radical Idea
-1 Fire Prophecy
-1 Improbable Alliance
-1 Izzet Guildgate
-2 Fire Prophecy
-2 Improbable Alliance
-2 Izzet Guildgate
-3 Fire Prophecy
-4 Fire Prophecy
-1 Irencrag Pyromancer
-1 Negate
-2 Negate
-1 Lava Coil
-1 Arclight Phoenix
-1 Finale of Promise
-2 Arclight Phoenix
-3 Arclight Phoenix
-4 Arclight Phoenix
-4 Thrill of Possibility
+1 Cathartic Reunion
+2 Blitz of the Thunder-Raptor
+2 Cathartic Reunion
+3 Shock
+3 Cathartic Reunion
+4 Shock
+4 Cathartic Reunion
+3 Thrill of Possibility
 9 Island
-3 Temple of Epiphany
-4 Temple of Epiphany
-1 Fabled Passage
-1 Maximize Velocity
-1 Goblin Electromancer
-2 Fabled Passage
-2 Maximize Velocity
-2 The Royal Scions
-2 Goblin Electromancer
-3 Goblin Electromancer
+1 Steam Vents
+1 Temple of Epiphany
+2 Steam Vents
+2 Temple of Epiphany
+3 Steam Vents
+4 Steam Vents
 1 Unsummon
 1 Chandra, Awakened Inferno
 2 Unsummon
@@ -37,21 +20,24 @@
 1 Winged Words
 1 Essence Scatter
 1 Expansion / Explosion
-2 Essence Scatter
 2 Winged Words
 2 Raking Claws
+2 Essence Scatter
 3 Winged Words
-1 Phoenix of Ash
-1 Saheeli, Sublime Artificer
-1 Ketria Triome
-1 Discovery / Dispersal
-2 Finale of Promise
-2 Phoenix of Ash
-2 Saheeli, Sublime Artificer
-2 Lava Coil
-3 Lava Coil
-3 Blitz of the Thunder-Raptor
-4 Blitz of the Thunder-Raptor
+1 Fabled Passage
+1 Lava Coil
+1 Maximize Velocity
+1 Arclight Phoenix
+1 Finale of Promise
+1 Goblin Electromancer
+2 Fabled Passage
+2 Arclight Phoenix
+2 Maximize Velocity
+2 The Royal Scions
+2 Goblin Electromancer
+3 Arclight Phoenix
+3 Goblin Electromancer
+4 Arclight Phoenix
 1 Merchant of the Vale
 1 Nadir Kraken
 1 Reconnaissance Mission
@@ -61,6 +47,7 @@
 2 Merchant of the Vale
 3 Ominous Seas
 3 Improbable Alliance
+4 Thrill of Possibility
 4 Ominous Seas
 4 Improbable Alliance
 1 Risk Factor
@@ -89,11 +76,13 @@
 3 Pteramander
 3 Ionize
 3 Spectral Sailor
+3 Temple of Epiphany
 3 Sea-Dasher Octopus
 3 Neutralize
 3 Brazen Borrower
 3 Skewer the Critics
 3 Mystical Dispute
+4 Temple of Epiphany
 4 Pteramander
 4 Ionize
 4 Spectral Sailor

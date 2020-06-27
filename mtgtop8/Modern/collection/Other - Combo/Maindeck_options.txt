@@ -3,9 +3,9 @@
 1 Inquisition of Kozilek
 1 Opt
 1 Omen of the Sea
-1 Darkslick Shores
 1 Drowned Catacomb
 1 Remand
+1 Darkslick Shores
 1 Relic of Progenitus
 1 Thassa's Oracle
 1 Thoughtseize
@@ -19,9 +19,9 @@
 1 Shelldock Isle
 2 Inquisition of Kozilek
 2 Watery Grave
-2 Darkslick Shores
 2 Opt
 2 Omen of the Sea
+2 Darkslick Shores
 2 Remand
 2 Shelldock Isle
 2 Relic of Progenitus
@@ -38,16 +38,17 @@
 3 Omen of the Sea
 3 Remand
 3 Inquisition of Kozilek
+3 Watery Grave
 3 Relic of Progenitus
 3 Thoughtseize
 3 Jace, Wielder of Mysteries
 3 Thassa's Oracle
 3 Fatal Push
 3 Inverter of Truth
-3 Watery Grave
 3 Drowned Catacomb
 3 Eldrazi Temple
 4 Thassa's Oracle
+4 Jace, Wielder of Mysteries
 4 Opt
 4 Omen of the Sea
 4 Remand
@@ -55,7 +56,6 @@
 4 Drowned Catacomb
 4 Fatal Push
 4 Watery Grave
-4 Jace, Wielder of Mysteries
 4 Inverter of Truth
 1 Windswept Heath
 1 Temple Garden
@@ -116,18 +116,18 @@
 4 Elvish Archdruid
 4 Temple Garden
 4 Ezuri, Renegade Leader
+1 Izzet Charm
 1 Lotus Field
 1 Dream's Grip
 1 Lonely Sandbar
 1 Serum Visions
 1 Peer Through Depths
-1 Sleight of Hand
-1 Izzet Charm
 1 Twiddle
 1 Ideas Unbound
 1 Merchant Scroll
 1 Psychic Puppetry
 1 Reach Through Mists
+1 Sleight of Hand
 1 Past in Flames
 1 Flooded Strand
 1 Echoing Truth

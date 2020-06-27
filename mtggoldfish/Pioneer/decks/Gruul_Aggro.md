@@ -91,6 +91,6 @@
 |                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                     |                                                                                                      |
 |                    2|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)            |                     |                                                                                                      |
 |                    4|[Ghor-Clan Rampager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460302)         |                     |                                                                                                      |
-|                    2|[Legion Loyalist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=455759)            |                     |                                                                                                      |
 |                    1|[Legion Loyalist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=455759)            |                     |                                                                                                      |
+|                    2|[Legion Loyalist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=455759)            |                     |                                                                                                      |
 

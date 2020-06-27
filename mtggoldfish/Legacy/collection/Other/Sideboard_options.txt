@@ -1,24 +1,36 @@
 1 Collector Ouphe
 1 Reclamation Sage
-1 Wasteland
 1 Ensnaring Bridge
-1 Leovold, Emissary of Trest
-1 Field of the Dead
+1 Wasteland
 1 Ramunap Excavator
+1 Field of the Dead
 1 Scavenging Ooze
+1 Leovold, Emissary of Trest
 1 Vraska, Golgari Queen
 1 Thorn of Amethyst
 2 Ensnaring Bridge
 2 Thorn of Amethyst
-1 Damping Sphere
+1 Choke
+1 Swords to Plowshares
+2 Swords to Plowshares
+1 Force of Vigor
+2 Force of Vigor
+1 Grafdigger's Cage
+1 Archon of Sun's Grace
+1 Stony Silence
+1 Abundance
+2 Archon of Sun's Grace
+1 Mindbreak Trap
+1 Veil of Summer
+2 Mindbreak Trap
+2 Veil of Summer
+1 Surgical Extraction
+1 Carpet of Flowers
 1 Drown in the Loch
 2 Drown in the Loch
-1 Surgical Extraction
-1 Notion Thief
-1 Thoughtseize
-1 Yorion, Sky Nomad
-2 Thoughtseize
-3 Thoughtseize
+2 Grafdigger's Cage
+1 Abrade
+2 Abrade
 2 Red Elemental Blast
 1 Ravenous Trap
 1 Price of Progress
@@ -27,71 +39,74 @@
 2 Ravenous Trap
 3 Red Elemental Blast
 4 Red Elemental Blast
-1 Abrade
-2 Abrade
+1 The Tabernacle at Pendrell Vale
+1 Damping Sphere
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
 1 Trinisphere
 1 Into the Roil
 1 Echoing Truth
 2 Echoing Truth
 2 Trinisphere
-1 Veil of Summer
-1 Grafdigger's Cage
-1 Wilt
-1 Nihil Spellbomb
-1 From the Ashes
-1 Flusterstorm
-1 Hydroblast
-1 Force of Negation
-1 The Tabernacle at Pendrell Vale
 2 Surgical Extraction
-2 Veil of Summer
-1 Mystical Dispute
-1 Path to Exile
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-1 Tormod's Crypt
+1 Chalice of the Void
+2 Chalice of the Void
+1 Force of Negation
 1 Walking Ballista
-1 Disenchant
-2 Disenchant
-1 Swords to Plowshares
+1 Tormod's Crypt
+1 Mystical Dispute
+1 Blue Elemental Blast
+1 Flusterstorm
+1 Destiny Spinner
 1 Containment Priest
-2 Swords to Plowshares
 2 Containment Priest
 3 Swords to Plowshares
+1 Disenchant
+2 Disenchant
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+1 Faerie Macabre
 1 Rest in Peace
 2 Rest in Peace
-1 Faerie Macabre
-1 Blue Elemental Blast
-1 Blood Moon
-1 Force of Vigor
 1 Tireless Tracker
 1 Nissa, Vastwood Seer
+1 Karakas
+1 Bojuka Bog
+1 Argothian Enchantress
+1 Serra's Sanctum
+1 Doomwake Giant
+1 Seal of Primordium
+1 Gaddock Teeg
+1 Knight of Autumn
+1 Moat
+1 Cursed Totem
+1 Notion Thief
 1 Stoneforge Mystic
 1 Sword of Fire and Ice
 1 Spell Pierce
+1 Path to Exile
 1 Umezawa's Jitte
 1 Deputy of Detention
 2 Stoneforge Mystic
-1 Stony Silence
-1 Supreme Verdict
-1 Deafening Silence
-2 Supreme Verdict
-2 Flusterstorm
 1 Lion's Eye Diamond
-1 Glass Casket
 1 Oblivion Ring
+1 Glass Casket
 1 Mycosynth Lattice
 2 Oblivion Ring
-1 Meddling Mage
-1 Celestial Purge
-2 From the Ashes
+1 Pithing Needle
+1 Engineered Explosives
+1 Sulfur Elemental
+1 From the Ashes
+1 Nihil Spellbomb
+1 Ashiok, Dream Render
+2 Ashiok, Dream Render
 1 Sylvan Library
-1 Liliana's Triumph
 1 Liliana, the Last Hope
+1 Liliana's Triumph
 1 Kaheera, the Orphanguard
 1 Nether Void
 1 Sorcerous Spyglass
-1 Choke
 1 The Elderspell
 2 Liliana's Triumph
 2 Choke
@@ -100,27 +115,14 @@
 3 Drown in the Loch
 1 Orim's Chant
 1 Glen Elendra Archmage
+1 Yorion, Sky Nomad
 1 Ethersworn Canonist
 1 Leonin Relic-Warder
 3 Teferi, Time Raveler
-1 Sylvan Safekeeper
-1 Griselbrand
-1 Dark Depths
-1 Thespian's Stage
-1 Vampire Hexmage
-1 Children of Korlis
-1 Silent Gravestone
-1 Laboratory Maniac
-1 Karakas
-1 Dread of Night
-1 Loyal Retainers
-2 Silent Gravestone
-2 Dread of Night
-3 Silent Gravestone
-1 Arcane Artisan
+1 Blood Moon
 1 Omniscience
+1 Arcane Artisan
 2 Wasteland
-2 Grafdigger's Cage
 2 Omniscience
 2 Blood Moon
 2 Arcane Artisan
@@ -130,16 +132,11 @@
 2 Smash to Smithereens
 2 Sulfuric Vortex
 3 Smash to Smithereens
-2 Hydroblast
+1 Hydroblast
 2 Mystical Dispute
+2 Hydroblast
 3 Echoing Truth
 3 Hydroblast
-1 Engineered Explosives
-1 Lutri, the Spellchaser
-1 Izzet Staticaster
-1 Force of Will
-2 Force of Will
-3 Force of Will
 1 Chrome Mox
 1 Winds of Abandon
 1 Cataclysm
@@ -148,10 +145,6 @@
 3 Cataclysm
 4 Swords to Plowshares
 4 Rest in Peace
-1 Carpet of Flowers
-1 Mindbreak Trap
-2 Mindbreak Trap
-2 Force of Vigor
 2 Carpet of Flowers
 3 Force of Vigor
 4 Force of Vigor
@@ -162,9 +155,7 @@
 1 Tendrils of Agony
 1 Shattering Spree
 1 Grapeshot
-1 Chalice of the Void
 2 Tormod's Crypt
-2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
 1 Eidolon of the Great Revel
@@ -177,9 +168,9 @@
 1 Archetype of Endurance
 1 Abrupt Decay
 1 Rotting Regisaur
+2 Abrupt Decay
 2 Assassin's Trophy
 2 Archetype of Endurance
-2 Abrupt Decay
 2 Reverent Silence
 2 Rotting Regisaur
 3 Reverent Silence
@@ -192,7 +183,6 @@
 2 Ominous Seas
 3 Ominous Seas
 1 Brazen Borrower
-1 Destiny Spinner
 1 Back to Basics
 2 Faerie Macabre
 4 Ominous Seas
