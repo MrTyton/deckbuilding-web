@@ -21,6 +21,7 @@
 4 Urza, Lord High Artificer
 4 Mishra's Bauble
 3 Polluted Delta
+2 Snow-Covered Plains
 1 Scalding Tarn
 4 Polluted Delta
 4 Emry, Lurker of the Loch
@@ -28,8 +29,6 @@
 1 Fatal Push
 1 Snow-Covered Swamp
 2 Fatal Push
-3 Mystic Sanctuary
-4 Cryptic Command
 1 Overgrown Tomb
 1 Zagoth Triome
 1 Nihil Spellbomb
@@ -44,8 +43,9 @@
 3 Abundant Growth
 3 Prismatic Vista
 3 Fatal Push
+3 Mystic Sanctuary
 4 Fatal Push
-2 Snow-Covered Plains
+4 Cryptic Command
 3 Nihil Spellbomb
 4 Uro, Titan of Nature's Wrath
 4 Engineered Explosives
@@ -58,7 +58,6 @@
 3 Metallic Rebuke
 3 Galvanic Blast
 2 Scalding Tarn
-2 Hallowed Fountain
 1 Wrenn and Six
 2 Wrenn and Six
 3 Wrenn and Six
@@ -66,7 +65,7 @@
 1 Thoughtseize
 2 Thoughtseize
 4 Nihil Spellbomb
-3 Jace, the Mind Sculptor
+2 Hallowed Fountain
 1 Aether Spellbomb
 1 Batterskull
 1 Sword of Feast and Famine
@@ -74,54 +73,39 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+3 Jace, the Mind Sculptor
 4 Galvanic Blast
 1 Spell Snare
 1 Deprive
-1 Timely Reinforcements
-3 Mana Leak
-1 Opt
-1 Terminus
-1 Detention Sphere
-1 Omen of the Sea
-2 Opt
-2 Terminus
-3 Opt
-3 Terminus
-4 Terminus
-4 Opt
 1 Lurrus of the Dream-Den
 2 Lurrus of the Dream-Den
 1 Oust
 1 Ashiok, Dream Render
-1 Shark Typhoon
+1 Timely Reinforcements
 1 Kaya, Orzhov Usurper
 1 Dead of Winter
 1 Kaya's Guile
 2 Dead of Winter
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
+1 Shark Typhoon
+3 Mana Leak
 4 Force of Negation
+1 Opt
+1 Terminus
 1 Search for Azcanta
 1 Narset, Parter of Veils
 1 Entreat the Angels
 1 Logic Knot
+1 Detention Sphere
+1 Omen of the Sea
+2 Opt
+2 Terminus
+3 Opt
+3 Terminus
 3 Snapcaster Mage
 3 Hallowed Fountain
-4 Snapcaster Mage
+4 Terminus
+4 Opt
 6 Snow-Covered Island
-1 Plains
-1 Castle Vantress
-1 Island
-1 Celestial Colonnade
-2 Castle Vantress
-2 Plains
-2 Omen of the Sea
-2 Timely Reinforcements
-2 Celestial Colonnade
-2 Island
-3 Omen of the Sea
-3 Island
-4 Omen of the Sea
-4 Island
-6 Island
-5 Island
+4 Snapcaster Mage

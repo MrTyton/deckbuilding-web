@@ -48,8 +48,8 @@
 |                    1|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)      |                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)            |
 |                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)      |                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)    |
 |                    1|[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486) |                    1|[Caustic Caterpillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398409)    |
-|                    2|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)      |                    2|[Caustic Caterpillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398409)    |
-|                    2|[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486) |                    2|[Thrun, the Last Troll](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214050)  |
+|                    2|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)      |                    2|[Thrun, the Last Troll](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214050)  |
+|                    2|[Goblin Rabblemaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438486) |                    2|[Caustic Caterpillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398409)    |
 |                    3|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)      |                    2|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)                   |
 |                    4|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)      |                    3|[Avalanche Riders](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108835)       |
 

@@ -83,18 +83,18 @@
 1 Wishclaw Talisman
 2 Wishclaw Talisman
 1 Ancient Den
-1 Uro, Titan of Nature's Wrath
 1 Snow-Covered Forest
 1 Oko, Thief of Crowns
 1 Tropical Island
+1 Uro, Titan of Nature's Wrath
 1 Misty Rainforest
 1 Polluted Delta
 1 Force of Will
 2 Uro, Titan of Nature's Wrath
-2 Oko, Thief of Crowns
 2 Tropical Island
 2 Force of Will
 2 Polluted Delta
+2 Oko, Thief of Crowns
 2 Misty Rainforest
 3 Misty Rainforest
 3 Oko, Thief of Crowns
@@ -109,18 +109,18 @@
 1 Mox Amber
 1 Kinnan, Bonder Prodigy
 1 Arcum's Astrolabe
-1 Gilded Goose
 1 Wooded Foothills
 1 Brainstorm
+1 Gilded Goose
 1 Chrome Mox
 1 Prismatic Vista
 1 Winter Orb
 2 Mox Amber
 2 Kinnan, Bonder Prodigy
 2 Arcum's Astrolabe
-2 Gilded Goose
 2 Snow-Covered Forest
 2 Wooded Foothills
+2 Gilded Goose
 2 Chrome Mox
 2 Brainstorm
 2 Prismatic Vista
@@ -136,10 +136,10 @@
 3 Brainstorm
 3 Gilded Goose
 4 Prismatic Vista
-4 Arcum's Astrolabe
 4 Kinnan, Bonder Prodigy
 4 Mox Amber
 4 Chrome Mox
+4 Arcum's Astrolabe
 4 Snow-Covered Forest
 4 Gilded Goose
 4 Winter Orb
@@ -167,8 +167,8 @@
 1 Abrupt Decay
 1 Underground Sea
 1 Tree of Tales
-2 Abrupt Decay
 2 Underground Sea
+2 Abrupt Decay
 2 Baleful Strix
 3 Baleful Strix
 4 Oko, Thief of Crowns
@@ -190,35 +190,35 @@
 3 Mind Stone
 4 Mind Stone
 4 Lion's Eye Diamond
-1 Urborg, Tomb of Yawgmoth
-1 Steel Overseer
+7 Island
+1 Mishra's Factory
 1 Stonecoil Serpent
+1 Steel Overseer
+1 Thorn of Amethyst
 1 Lodestone Golem
 1 Phyrexian Revoker
+1 Urborg, Tomb of Yawgmoth
 1 Vault of Whispers
 1 Wasteland
-1 Mishra's Factory
-1 Thorn of Amethyst
-2 Mishra's Factory
+2 Stonecoil Serpent
 2 Wasteland
+2 Thorn of Amethyst
 2 Phyrexian Revoker
 2 Steel Overseer
 2 Vault of Whispers
-2 Stonecoil Serpent
+2 Mishra's Factory
 2 Lodestone Golem
-2 Thorn of Amethyst
-3 Mishra's Factory
 3 Thorn of Amethyst
+3 Mishra's Factory
 3 Steel Overseer
 3 Lodestone Golem
 3 Phyrexian Revoker
 3 Stonecoil Serpent
 3 Vault of Whispers
-4 Thorn of Amethyst
 4 Vault of Whispers
 4 Lodestone Golem
+4 Thorn of Amethyst
 4 Phyrexian Revoker
 4 Steel Overseer
 4 Stonecoil Serpent
 4 Mishra's Factory
-7 Island

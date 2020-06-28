@@ -1,128 +1,60 @@
-1 Isolated Chapel
-2 Godless Shrine
-2 Isolated Chapel
-3 Godless Shrine
-1 Murderous Rider
-4 Godless Shrine
-3 Swamp
-3 Plains
-4 Plains
-2 Murderous Rider
-1 Castle Locthwain
-2 Castle Locthwain
-1 Caves of Koilos
-2 Caves of Koilos
-3 Caves of Koilos
-1 Gideon, Ally of Zendikar
-2 Gideon, Ally of Zendikar
-1 Gideon of the Trials
-2 Gideon of the Trials
-1 Oath of Kaya
-1 Flicker of Fate
-2 Flicker of Fate
-1 Trial of Ambition
-2 Oath of Kaya
-2 Trial of Ambition
-3 Oath of Kaya
-3 Flicker of Fate
-3 Trial of Ambition
-1 Shambling Vent
-5 Plains
-1 Demonic Pact
-1 The Birth of Meletis
-1 Treacherous Blessing
-1 Doom Foretold
-1 Yorion, Sky Nomad
-2 Demonic Pact
-2 The Birth of Meletis
-2 Yorion, Sky Nomad
-2 Treacherous Blessing
-2 Doom Foretold
-2 Shambling Vent
-3 Isolated Chapel
-3 Demonic Pact
-3 The Birth of Meletis
-3 Doom Foretold
-3 Shambling Vent
-3 Treacherous Blessing
-4 Trial of Ambition
-4 Isolated Chapel
-4 Shambling Vent
-4 Treacherous Blessing
-4 Doom Foretold
-1 Island
-1 Mountain
-2 Mountain
-3 Mountain
-4 Mountain
-5 Mountain
-1 Wild Slash
-2 Wild Slash
-3 Wild Slash
-1 Opt
-1 Shivan Reef
+2 Soul-Scar Mage
+3 Shivan Reef
+3 Monastery Swiftspear
+3 Soul-Scar Mage
+4 Shivan Reef
+4 Wild Slash
+4 Soul-Scar Mage
+4 Monastery Swiftspear
 1 Spirebluff Canal
 2 Spirebluff Canal
-2 Shivan Reef
 3 Spirebluff Canal
 4 Spirebluff Canal
 1 Curious Obsession
 1 Sprite Dragon
-1 Soul-Scar Mage
-1 Monastery Swiftspear
+1 Opt
 1 Sulfur Falls
 2 Curious Obsession
 2 Sprite Dragon
-2 Monastery Swiftspear
-2 Soul-Scar Mage
-3 Shivan Reef
 3 Sprite Dragon
-3 Monastery Swiftspear
-3 Soul-Scar Mage
-4 Shivan Reef
 4 Sprite Dragon
-4 Wild Slash
-4 Soul-Scar Mage
-4 Monastery Swiftspear
-6 Mountain
-7 Mountain
-2 Opt
-3 Opt
-4 Opt
 1 Steam Vents
 2 Steam Vents
 3 Steam Vents
 4 Steam Vents
 1 Of One Mind
+1 Young Pyromancer
 1 Crash Through
 1 Invigorated Rampage
 1 Dreadhorde Arcanist
 1 Shock
-1 Young Pyromancer
 2 Of One Mind
+2 Young Pyromancer
 2 Crash Through
 2 Dreadhorde Arcanist
+2 Opt
 2 Invigorated Rampage
-2 Young Pyromancer
 3 Of One Mind
-3 Crash Through
 3 Young Pyromancer
+3 Crash Through
 3 Dreadhorde Arcanist
+3 Opt
 4 Crash Through
 4 Young Pyromancer
+4 Opt
 4 Of One Mind
-1 Castle Embereth
-1 Burning-Tree Emissary
-2 Burning-Tree Emissary
-2 Castle Embereth
-3 Burning-Tree Emissary
-4 Burning-Tree Emissary
 8 Mountain
 9 Mountain
 10 Mountain
 11 Mountain
 12 Mountain
 13 Mountain
+1 Castle Embereth
+1 Burning-Tree Emissary
+2 Burning-Tree Emissary
+2 Castle Embereth
+3 Burning-Tree Emissary
+4 Burning-Tree Emissary
 14 Mountain
 15 Mountain
 1 Goblin Instigator
@@ -143,8 +75,8 @@
 2 Stoke the Flames
 2 Fanatical Firebrand
 2 Frenzied Goblin
-2 Foundry Street Denizen
 2 Goblin Piledriver
+2 Foundry Street Denizen
 3 Goblin Instigator
 3 Castle Embereth
 3 Stoke the Flames
@@ -153,30 +85,16 @@
 3 Foundry Street Denizen
 3 Legion Loyalist
 3 Frenzied Goblin
-4 Reckless Bushwhacker
 4 Fanatical Firebrand
 4 Stoke the Flames
 4 Castle Embereth
 4 Goblin Instigator
 4 Legion Loyalist
 4 Foundry Street Denizen
+4 Reckless Bushwhacker
 16 Mountain
-3 Murderous Rider
-2 Island
-2 Scrapheap Scrounger
-1 Knight of the Ebon Legion
-2 Knight of the Ebon Legion
-3 Knight of the Ebon Legion
-4 Knight of the Ebon Legion
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
-4 Thraben Inspector
-1 Concealed Courtyard
-2 Concealed Courtyard
-3 Concealed Courtyard
-4 Concealed Courtyard
-1 Fabled Passage
+1 Island
+1 Urborg, Tomb of Yawgmoth
 1 Hallowed Fountain
 2 Hallowed Fountain
 3 Hallowed Fountain
@@ -185,43 +103,44 @@
 3 Teferi, Time Raveler
 4 Hallowed Fountain
 2 Urborg, Tomb of Yawgmoth
+1 Oath of Kaya
 1 Liliana, the Last Hope
 2 Liliana, the Last Hope
 1 Spire of Industry
 1 Hope of Ghirapur
 2 Spire of Industry
+1 Lurrus of the Dream Den
+2 Lurrus of the Dream Den
 1 Springleaf Drum
+1 Botanical Sanctum
 1 Mox Amber
 1 Lazav, the Multifarious
 1 Diligent Excavator
 1 Wishclaw Talisman
 1 Emry, Lurker of the Loch
-1 Botanical Sanctum
 1 Kethis, the Hidden Hand
-1 Lurrus of the Dream Den
 1 Teshar, Ancestor's Apostle
 1 Mana Confluence
 1 Jace, Wielder of Mysteries
 2 Wishclaw Talisman
 2 Springleaf Drum
-2 Lurrus of the Dream Den
+2 Botanical Sanctum
 2 Mox Amber
 2 Emry, Lurker of the Loch
 2 Hope of Ghirapur
-2 Botanical Sanctum
 2 Mana Confluence
 2 Diligent Excavator
 2 Kethis, the Hidden Hand
 2 Lazav, the Multifarious
 3 Springleaf Drum
-3 Mox Amber
-3 Lazav, the Multifarious
-3 Hope of Ghirapur
 3 Mana Confluence
 3 Botanical Sanctum
+3 Mox Amber
+3 Lazav, the Multifarious
 3 Diligent Excavator
 3 Emry, Lurker of the Loch
 3 Kethis, the Hidden Hand
+3 Hope of Ghirapur
 4 Mox Amber
 4 Diligent Excavator
 4 Lazav, the Multifarious
@@ -229,45 +148,97 @@
 4 Kethis, the Hidden Hand
 4 Mana Confluence
 4 Emry, Lurker of the Loch
+1 Swamp
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
+1 Scavenging Ooze
+1 Plains
+1 Concealed Courtyard
+2 Concealed Courtyard
+2 Plains
+1 Fatal Push
+2 Fatal Push
+3 Fatal Push
+4 Fatal Push
+1 Godless Shrine
+2 Swamp
+1 Isolated Chapel
+2 Godless Shrine
+2 Isolated Chapel
+3 Godless Shrine
+1 Murderous Rider
 1 Rishkar, Peema Renegade
 1 Assassin's Trophy
 1 Nissa, Voice of Zendikar
-2 Scavenging Ooze
 2 Assassin's Trophy
 2 Rishkar, Peema Renegade
 2 Nissa, Voice of Zendikar
+2 Scavenging Ooze
 3 Rishkar, Peema Renegade
-3 Nissa, Voice of Zendikar
 3 Assassin's Trophy
-4 Assassin's Trophy
+3 Nissa, Voice of Zendikar
 4 Nissa, Voice of Zendikar
-2 Fabled Passage
-1 Watery Grave
-2 Watery Grave
-3 Watery Grave
-4 Swamp
-5 Swamp
-3 Scrapheap Scrounger
+4 Assassin's Trophy
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+4 Thraben Inspector
+3 Plains
+4 Plains
+2 Island
+4 Godless Shrine
+2 Scrapheap Scrounger
+2 Murderous Rider
+1 Knight of the Ebon Legion
+2 Knight of the Ebon Legion
+3 Knight of the Ebon Legion
+4 Knight of the Ebon Legion
+1 Caves of Koilos
+2 Caves of Koilos
+3 Caves of Koilos
+3 Concealed Courtyard
+4 Concealed Courtyard
+1 Gideon, Ally of Zendikar
 1 Heart of Kiran
 1 Kunoros, Hound of Athreos
 1 Glory-Bound Initiate
 2 Heart of Kiran
+2 Gideon, Ally of Zendikar
 2 Glory-Bound Initiate
 3 Gideon, Ally of Zendikar
 4 Caves of Koilos
+3 Scrapheap Scrounger
 1 Llanowar Elves
+1 Fabled Passage
+1 Castle Locthwain
+2 Castle Locthwain
+3 Swamp
+3 Murderous Rider
+1 Gideon of the Trials
+2 Gideon of the Trials
+2 Fabled Passage
+1 Flicker of Fate
+2 Flicker of Fate
+1 Watery Grave
+2 Watery Grave
+3 Watery Grave
 1 Irrigated Farmland
 1 Glacial Fortress
 2 Irrigated Farmland
 2 Glacial Fortress
 3 Glacial Fortress
-4 Watery Grave
-3 Fabled Passage
-1 Censor
-2 Censor
-3 Censor
-4 Censor
-1 Kaya, Orzhov Usurper
+1 Charming Prince
+2 Charming Prince
+3 Charming Prince
+4 Charming Prince
+1 Trial of Ambition
+2 Oath of Kaya
+2 Trial of Ambition
+3 Oath of Kaya
+3 Flicker of Fate
+3 Trial of Ambition
 1 Teferi, Hero of Dominaria
 1 Cling to Dust
 2 Teferi, Hero of Dominaria
@@ -282,47 +253,71 @@
 3 Baffling End
 3 Neutralize
 4 Neutralize
-1 Drowned Catacomb
-2 Drowned Catacomb
-3 Drowned Catacomb
-1 Charming Prince
+1 Kaya, Orzhov Usurper
 1 Agent of Treachery
-2 Charming Prince
-3 Charming Prince
-4 Charming Prince
+5 Plains
 5 Forest
-1 Temple of Silence
-1 Agonizing Remorse
-1 Davriel, Rogue Shadowmage
-1 Sorcerous Spyglass
-1 Scavenger Grounds
-2 Temple of Silence
-2 Agonizing Remorse
-2 Davriel, Rogue Shadowmage
-2 Scavenger Grounds
-2 Sorcerous Spyglass
-4 Oath of Kaya
-4 Demonic Pact
-4 Flicker of Fate
+4 Swamp
+5 Swamp
+1 Shambling Vent
+4 Watery Grave
 1 Elspeth Conquers Death
 1 Omen of the Sea
+1 Drowned Catacomb
 1 Supreme Verdict
 1 Narset, Parter of Veils
 2 Elspeth Conquers Death
 2 Supreme Verdict
+2 Drowned Catacomb
 2 Agent of Treachery
 2 Omen of the Sea
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils
 3 Omen of the Sea
+3 Drowned Catacomb
 3 Supreme Verdict
 4 Drowned Catacomb
 4 Omen of the Sea
+1 Temple of Silence
+1 Agonizing Remorse
+1 Demonic Pact
+1 The Birth of Meletis
+1 Treacherous Blessing
+1 Doom Foretold
+1 Davriel, Rogue Shadowmage
+1 Sorcerous Spyglass
+1 Scavenger Grounds
+1 Yorion, Sky Nomad
+2 Temple of Silence
+2 Demonic Pact
+2 The Birth of Meletis
+2 Scavenger Grounds
+2 Agonizing Remorse
+2 Yorion, Sky Nomad
+2 Treacherous Blessing
+2 Doom Foretold
+2 Shambling Vent
+2 Davriel, Rogue Shadowmage
+2 Sorcerous Spyglass
+3 Isolated Chapel
+3 Demonic Pact
+3 The Birth of Meletis
+3 Doom Foretold
+3 Shambling Vent
+3 Treacherous Blessing
+4 Oath of Kaya
+4 Trial of Ambition
+4 Isolated Chapel
+4 Demonic Pact
+4 Flicker of Fate
+4 Shambling Vent
+4 Treacherous Blessing
+4 Doom Foretold
 1 Lotleth Troll
 2 Lotleth Troll
 3 Lotleth Troll
 4 Lotleth Troll
-4 Fabled Passage
+3 Fabled Passage
 1 Woodland Cemetery
 1 Sylvan Caryatid
 2 Woodland Cemetery
@@ -337,13 +332,13 @@
 1 Courser of Kruphix
 1 Vraska, Golgari Queen
 1 Siege Rhino
-1 Discovery/Dispersal
 1 Emrakul, the Promised End
 1 Tireless Tracker
-1 Sunpetal Grove
 1 Ishkanah, Grafwidow
 1 Brain Maggot
+1 Sunpetal Grove
 1 Traverse the Ulvenwald
+1 Discovery/Dispersal
 1 Temple Garden
 1 Glass Casket
 1 Cataclysmic Gearhulk
@@ -372,54 +367,68 @@
 4 Discovery/Dispersal
 4 Temple Garden
 4 Courser of Kruphix
+4 Fabled Passage
 1 Elvish Mystic
-3 Island
 1 Hangarback Walker
 2 Hangarback Walker
 3 Hangarback Walker
 4 Hangarback Walker
+3 Island
+1 Censor
+2 Censor
+3 Censor
+4 Censor
 1 Rankle, Master of Pranks
 2 Rankle, Master of Pranks
 4 Murderous Rider
+1 Lightning Strike
+2 Lightning Strike
+1 Eidolon of the Great Revel
+1 Ramunap Ruins
+1 Torbran, Thane of Red Fell
+2 Eidolon of the Great Revel
+2 Torbran, Thane of Red Fell
+2 Ramunap Ruins
+3 Ramunap Ruins
+3 Eidolon of the Great Revel
+4 Ramunap Ruins
 1 Heartless Act
 1 Ipnu Rivulet
 4 Glacial Fortress
 1 Deathrite Shaman
 2 Deathrite Shaman
-1 Blood Crypt
-1 Drown in the Loch
-2 Blood Crypt
-2 Drown in the Loch
 1 Hissing Quagmire
 1 Breeding Pool
 1 Hashep Oasis
 1 Slitherhead
 2 Hashep Oasis
 2 Slitherhead
-1 Final Payment
-2 Final Payment
-4 The Birth of Meletis
+1 Castle Ardenvale
+1 Declaration in Stone
+2 Declaration in Stone
+2 Castle Ardenvale
+1 Nykthos, Shrine to Nyx
+2 Nykthos, Shrine to Nyx
+3 Nykthos, Shrine to Nyx
 1 Archangel Avacyn
 1 Gideon Blackblade
 1 History of Benalia
-2 History of Benalia
 2 Gideon Blackblade
+2 History of Benalia
 3 Heart of Kiran
 3 History of Benalia
 4 History of Benalia
-1 Stormchaser Mage
 1 Spell Pierce
-1 Lightning Strike
 1 Wizard's Lightning
 1 Light Up the Stage
 1 Treasure Cruise
 1 Ghitu Lavarunner
-2 Stormchaser Mage
+1 Stormchaser Mage
 2 Spell Pierce
 2 Ghitu Lavarunner
+2 Stormchaser Mage
 2 Wizard's Lightning
 2 Light Up the Stage
-2 Lightning Strike
 2 Treasure Cruise
 2 Sulfur Falls
 3 Curious Obsession
@@ -454,25 +463,21 @@
 4 Valiant Rescuer
 4 Flourishing Fox
 4 Cast Out
-1 Castle Ardenvale
 1 Castle Vantress
 1 Elite Guardmage
-1 Thassa, Deep-Dwelling
-1 Declaration in Stone
-1 Militia Bugler
 1 Reflector Mage
+1 Thassa, Deep-Dwelling
+1 Militia Bugler
 1 Cloudblazer
 1 Panharmonicon
 1 Thalia's Lieutenant
 1 Skysovereign, Consul Flagship
 2 Ipnu Rivulet
 2 Elite Guardmage
-2 Militia Bugler
-2 Declaration in Stone
 2 Reflector Mage
+2 Militia Bugler
 2 Panharmonicon
 2 Thalia's Lieutenant
-2 Castle Ardenvale
 2 Thassa, Deep-Dwelling
 2 Cloudblazer
 3 Irrigated Farmland
@@ -487,16 +492,16 @@
 4 Thalia's Lieutenant
 1 Temple of Deceit
 1 Karn, Scion of Urza
+1 Dovin's Veto
 1 The Scarab God
 1 Search for Azcanta
-1 Dovin's Veto
 1 Spell Queller
 1 Dig Through Time
 1 Temple of Enlightenment
 2 Temple of Enlightenment
+2 Dovin's Veto
 2 Temple of Deceit
 2 Heartless Act
-2 Dovin's Veto
 2 Spell Queller
 3 Heartless Act
 3 Spell Queller
@@ -509,68 +514,52 @@
 3 Glory-Bound Initiate
 4 Gideon, Ally of Zendikar
 4 Botanical Sanctum
-1 Ash Zealot
 1 Chandra, Torch of Defiance
-1 Leyline of Combustion
+1 Ash Zealot
 1 Anax, Hardened in the Forge
-1 Eidolon of the Great Revel
+1 Leyline of Combustion
 1 Glorybringer
 1 Fanatic of Mogis
-1 Ramunap Ruins
-1 Nykthos, Shrine to Nyx
-1 Torbran, Thane of Red Fell
 1 Boros Reckoner
 2 Glorybringer
 2 Ash Zealot
 2 Leyline of Combustion
-2 Eidolon of the Great Revel
+2 Boros Reckoner
 2 Chandra, Torch of Defiance
 2 Anax, Hardened in the Forge
 2 Fanatic of Mogis
-2 Nykthos, Shrine to Nyx
-2 Torbran, Thane of Red Fell
-2 Ramunap Ruins
-2 Boros Reckoner
 3 Anax, Hardened in the Forge
 3 Leyline of Combustion
 3 Chandra, Torch of Defiance
-3 Nykthos, Shrine to Nyx
 3 Torbran, Thane of Red Fell
-3 Ramunap Ruins
 3 Ash Zealot
-3 Eidolon of the Great Revel
 3 Boros Reckoner
 3 Fanatic of Mogis
 4 Leyline of Combustion
+4 Eidolon of the Great Revel
 4 Fanatic of Mogis
 4 Nykthos, Shrine to Nyx
 4 Ash Zealot
-4 Ramunap Ruins
-4 Eidolon of the Great Revel
 4 Boros Reckoner
-1 Tyrant's Scorn
-1 Nicol Bolas, the Ravager
-1 Dreadbore
-1 Dragonskull Summit
-1 Nicol Bolas, Dragon-God
-2 Dreadbore
-2 Nicol Bolas, Dragon-God
-2 Tyrant's Scorn
-2 Nicol Bolas, the Ravager
-2 Dragonskull Summit
-3 Nicol Bolas, Dragon-God
-3 Blood Crypt
-3 Dreadbore
-3 Drown in the Loch
-3 Tyrant's Scorn
-3 Dragonskull Summit
-3 Nicol Bolas, the Ravager
-4 Nicol Bolas, Dragon-God
-4 Blood Crypt
-4 Drown in the Loch
-4 Dreadbore
-4 Nicol Bolas, the Ravager
-4 Tyrant's Scorn
+1 Eldrazi Obligator
+1 Earthshaker Khenra
+1 Collective Defiance
+1 Bonecrusher Giant
+1 Zurgo Bellstriker
+2 Eldrazi Obligator
+2 Bonecrusher Giant
+2 Zurgo Bellstriker
+2 Collective Defiance
+2 Earthshaker Khenra
+3 Eldrazi Obligator
+3 Collective Defiance
+3 Lightning Strike
+3 Bonecrusher Giant
+3 Earthshaker Khenra
+4 Lightning Strike
+4 Bonecrusher Giant
+1 Blood Crypt
+1 Drown in the Loch
 1 Metallic Rebuke
 1 Shrapnel Blast
 1 Skewer the Critics
@@ -580,7 +569,9 @@
 1 Darksteel Citadel
 1 Gingerbrute
 1 Ghostfire Blade
+2 Blood Crypt
 2 Metallic Rebuke
+2 Drown in the Loch
 2 Skewer the Critics
 2 Ghostfire Blade
 2 Stonecoil Serpent
@@ -605,44 +596,44 @@
 4 Ensoul Artifact
 4 Spire of Industry
 1 Wildborn Preserver
+1 Collected Company
 1 Unclaimed Territory
 1 Chord of Calling
 1 Steel Leaf Champion
+1 Shaman of the Pack
 1 Gnarlroot Trapper
 1 Elvish Clancaller
 1 Lead the Stampede
-1 Shaman of the Pack
 1 Westvale Abbey
-1 Collected Company
 1 Dwynen, Gilt-Leaf Daen
 1 Dwynen's Elite
-2 Elvish Mystic
+2 Collected Company
 2 Unclaimed Territory
 2 Wildborn Preserver
 2 Shaman of the Pack
-2 Collected Company
+2 Lead the Stampede
 2 Steel Leaf Champion
 2 Dwynen's Elite
 2 Gnarlroot Trapper
+2 Elvish Mystic
 2 Elvish Clancaller
-2 Lead the Stampede
-3 Elvish Mystic
+3 Collected Company
 3 Unclaimed Territory
 3 Wildborn Preserver
 3 Gnarlroot Trapper
 3 Shaman of the Pack
-3 Collected Company
+3 Elvish Mystic
+3 Elvish Clancaller
 3 Steel Leaf Champion
 3 Dwynen's Elite
 3 Lead the Stampede
-3 Elvish Clancaller
-4 Elvish Mystic
+4 Collected Company
 4 Wildborn Preserver
 4 Unclaimed Territory
+4 Elvish Mystic
 4 Shaman of the Pack
 4 Steel Leaf Champion
 4 Elvish Clancaller
-4 Collected Company
 4 Dwynen's Elite
 1 Questing Beast
 1 Rhonas the Indomitable
@@ -687,3 +678,37 @@
 4 Castle Locthwain
 4 Stitcher's Supplier
 6 Swamp
+1 Alseid of Life's Bounty
+1 Banishing Light
+1 Arcanist's Owl
+1 Anafenza, Kin-Tree Spirit
+1 Heliod, Sun-Crowned
+1 Idyllic Grange
+2 Banishing Light
+2 Idyllic Grange
+2 Anafenza, Kin-Tree Spirit
+2 Alseid of Life's Bounty
+2 Heliod, Sun-Crowned
+2 Arcanist's Owl
+3 Lurrus of the Dream Den
+3 Banishing Light
+3 Anafenza, Kin-Tree Spirit
+3 Arcanist's Owl
+3 Heliod, Sun-Crowned
+3 Idyllic Grange
+4 Arcanist's Owl
+4 Banishing Light
+4 Idyllic Grange
+4 Lurrus of the Dream Den
+4 Heliod, Sun-Crowned
+6 Plains
+7 Plains
+8 Plains
+9 Plains
+10 Plains
+11 Plains
+12 Plains
+13 Plains
+14 Plains
+15 Plains
+16 Plains

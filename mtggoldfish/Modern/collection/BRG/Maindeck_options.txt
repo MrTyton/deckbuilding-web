@@ -1,7 +1,8 @@
-1 Cavern of Souls
+1 Aether Vial
+1 Skirk Prospector
+1 Goblin Ringleader
 1 Munitions Expert
 1 Goblin Matron
-1 Goblin Ringleader
 1 Auntie's Hovel
 1 Sling-Gang Lieutenant
 2 Aether Vial
@@ -9,11 +10,9 @@
 2 Goblin Matron
 2 Auntie's Hovel
 2 Goblin Ringleader
-2 Cavern of Souls
 3 Aether Vial
-3 Cavern of Souls
-3 Auntie's Hovel
 3 Goblin Matron
+3 Auntie's Hovel
 3 Munitions Expert
 4 Aether Vial
 4 Auntie's Hovel
@@ -49,6 +48,7 @@
 1 Fiery Islet
 1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
+1 Abrupt Decay
 2 Wooded Foothills
 4 Unclaimed Territory
 3 Grumgully, the Generous
@@ -60,40 +60,70 @@
 4 Bloodstained Mire
 4 Blackcleave Cliffs
 1 Tarfire
-2 Forest
 1 Goblin Warchief
 3 Mogg War Marshal
-1 Field of Ruin
-2 Field of Ruin
-1 Dark Confidant
 1 Sunbaked Canyon
 2 Fiery Islet
 1 Goblin Cratermaker
 2 Goblin Warchief
-1 Hexdrinker
-2 Hexdrinker
-3 Field of Ruin
 1 Nihil Spellbomb
+2 Forest
+1 Snow-Covered Swamp
+1 Gemstone Caverns
+1 Wurmcoil Engine
+1 Field of the Dead
+1 Blast Zone
+1 Mwonvuli Acid-Moss
+1 Chalice of the Void
+1 Ghost Quarter
+1 Bojuka Bog
+1 Radiant Fountain
+1 Sire of Insanity
+1 Explore
+1 Castle Garenbrig
+1 Snow-Covered Forest
+1 Primeval Titan
+1 Mosswort Bridge
+1 Sakura-Tribe Elder
+1 Inferno Titan
+2 Field of the Dead
+2 Mwonvuli Acid-Moss
+2 Chalice of the Void
+2 Explore
+2 Gemstone Caverns
+2 Stomping Ground
+2 Primeval Titan
+2 Inferno Titan
+2 Sire of Insanity
+2 Castle Garenbrig
+2 Wurmcoil Engine
+2 Sakura-Tribe Elder
+3 Chalice of the Void
+3 Primeval Titan
+3 Sakura-Tribe Elder
+3 Explore
+3 Gemstone Caverns
+3 Castle Garenbrig
+3 Wurmcoil Engine
+4 Explore
+4 Sakura-Tribe Elder
+4 Gemstone Caverns
+4 Primeval Titan
+4 Castle Garenbrig
 1 Snow-Covered Mountain
-1 Tireless Tracker
-1 Liliana, the Last Hope
-1 Marsh Flats
-1 Grim Flayer
-2 Nurturing Peatland
-2 Marsh Flats
-2 Abrupt Decay
-2 Grim Flayer
-3 Fatal Push
-3 Assassin's Trophy
-3 Hexdrinker
-3 Swamp
-4 Fatal Push
-4 Field of Ruin
 1 Goblin Piledriver
 1 Huntmaster of the Fells
 1 Blooming Marsh
+1 Tireless Tracker
+1 Liliana, the Last Hope
 1 Klothys, God of Destiny
-2 Frogtosser Banneret
+1 Sylvan Caryatid
+1 Ruric Thar, the Unbowed
+1 Deathsprout
+2 Sylvan Caryatid
+3 Sylvan Caryatid
+4 Chalice of the Void
+4 Sylvan Caryatid
 1 Seal of Fire
 1 Lurrus of the Dream-Den
 1 Mishra's Bauble
@@ -101,29 +131,22 @@
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
-1 Treetop Village
-1 Kitchen Finks
-2 Dark Confidant
-2 Kitchen Finks
-3 Dark Confidant
-3 Overgrown Tomb
-3 Kitchen Finks
-3 Grim Flayer
-4 Overgrown Tomb
-4 Kitchen Finks
+2 Frogtosser Banneret
 2 Barren Moor
+1 Dark Confidant
 1 Terminate
+1 Field of Ruin
+2 Field of Ruin
 3 Goblin Warchief
 2 Snow-Covered Mountain
 4 Mogg War Marshal
-1 Snow-Covered Swamp
 1 Kiki-Jiki, Mirror Breaker
 1 Krenko, Mob Boss
+1 Ketria Triome
 1 Sacred Foundry
 1 Manamorphose
 1 Steam Vents
 1 Greater Gargadon
-1 Ketria Triome
 1 Goblin King
 2 Manamorphose
 2 Greater Gargadon
@@ -139,23 +162,22 @@
 2 Snow-Covered Swamp
 2 Seasoned Pyromancer
 3 Snow-Covered Mountain
+1 Hexdrinker
+2 Hexdrinker
 3 Thoughtseize
-1 Gemstone Caverns
 2 Goblin Piledriver
 3 Sling-Gang Lieutenant
-1 Hissing Quagmire
-1 Kalitas, Traitor of Ghet
-2 Hissing Quagmire
-2 Tireless Tracker
-3 Nurturing Peatland
-3 Forest
-3 Tireless Tracker
-4 Nurturing Peatland
-4 Hexdrinker
-4 Forest
+1 Kogla, the Titan Ape
+1 Chandra, Torch of Defiance
+1 Farseek
+2 Farseek
+3 Farseek
+3 Mwonvuli Acid-Moss
+4 Farseek
 1 Goblin Chieftain
 1 Lightning Crafter
 2 Goblin Chieftain
+3 Field of Ruin
 3 Frogtosser Banneret
 4 Mountain
 1 Arid Mesa
@@ -164,8 +186,8 @@
 1 Boggart Harbinger
 2 Unearth
 2 Conspicuous Snoop
-2 Pashalik Mons
 2 Arid Mesa
+2 Pashalik Mons
 2 Boggart Harbinger
 3 Boggart Harbinger
 3 Conspicuous Snoop

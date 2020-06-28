@@ -7,20 +7,20 @@
 3 Stomping Ground
 1 Rootbound Crag
 4 Stomping Ground
-1 Gilded Goose
 1 Temple Garden
 1 Sunpetal Grove
 1 Voice of Resurgence
 1 Elvish Mystic
 1 Eldritch Evolution
+1 Gilded Goose
 1 Legion Warboss
 1 Kenrith, the Returned King
 1 Winota, Joiner of Forces
 1 Angrath's Marauders
 2 Sunpetal Grove
 2 Temple Garden
-2 Gilded Goose
 2 Voice of Resurgence
+2 Gilded Goose
 2 Winota, Joiner of Forces
 2 Angrath's Marauders
 2 Elvish Mystic
@@ -34,9 +34,9 @@
 3 Winota, Joiner of Forces
 3 Angrath's Marauders
 3 Legion Warboss
-4 Voice of Resurgence
 4 Temple Garden
 4 Eldritch Evolution
+4 Voice of Resurgence
 4 Winota, Joiner of Forces
 4 Angrath's Marauders
 1 Sacred Foundry
@@ -180,6 +180,15 @@
 3 Fabled Passage
 1 Scampering Scorcher
 4 Gird for Battle
+1 Duskwatch Recruiter
+2 Duskwatch Recruiter
+2 Goblin Instigator
+3 Duskwatch Recruiter
+3 Gilded Goose
+3 Rootbound Crag
+3 Sunpetal Grove
+3 Goblin Instigator
+4 Gilded Goose
 1 Fetid Pools
 1 Drowned Catacomb
 1 Metallic Rebuke
@@ -199,15 +208,6 @@
 4 Witch's Oven
 4 Choked Estuary
 4 Watery Grave
-1 Duskwatch Recruiter
-2 Duskwatch Recruiter
-2 Goblin Instigator
-3 Duskwatch Recruiter
-3 Rootbound Crag
-3 Sunpetal Grove
-3 Goblin Instigator
-3 Gilded Goose
-4 Gilded Goose
 1 Satyr Wayfinder
 1 Ashiok, Nightmare Muse
 1 Atris, Oracle of Half-Truths
@@ -307,7 +307,6 @@
 4 Bonecrusher Giant
 4 Burning-Tree Emissary
 4 Voltaic Brawler
-1 Grim Flayer
 1 Deathrite Shaman
 1 Dreadbore
 1 Blood Crypt
@@ -316,7 +315,7 @@
 1 Dead Weight
 1 Chevill, Bane of Monsters
 1 Unbridled Growth
-2 Grim Flayer
+1 Grim Flayer
 2 Deathrite Shaman
 2 Dreadbore
 2 Blood Crypt
@@ -325,12 +324,13 @@
 2 Dead Weight
 2 Chevill, Bane of Monsters
 2 Unbridled Growth
-3 Grim Flayer
+2 Grim Flayer
 3 Blood Crypt
 3 Kroxa, Titan of Death's Hunger
 3 Deathrite Shaman
 3 Chevill, Bane of Monsters
 3 Unbridled Growth
+3 Grim Flayer
 4 Blood Crypt
 4 Deathrite Shaman
 4 Unbridled Growth
@@ -351,8 +351,8 @@
 3 Curious Obsession
 3 Sram, Senior Edificer
 3 Ethereal Armor
-4 Alseid of Life's Bounty
 4 Curious Obsession
+4 Alseid of Life's Bounty
 4 Sram, Senior Edificer
 4 Ethereal Armor
 1 Concealed Courtyard

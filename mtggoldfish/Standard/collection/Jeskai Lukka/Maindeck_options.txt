@@ -2,57 +2,56 @@
 4 Fabled Passage
 1 Castle Ardenvale
 3 The Birth of Meletis
-1 Dream Trawler
 1 Shark Typhoon
 2 Shark Typhoon
-3 Omen of the Sun
-1 Watery Grave
-1 Swamp
-1 Godless Shrine
-1 Oath of Kaya
-2 Watery Grave
-2 Godless Shrine
-2 Oath of Kaya
-3 Watery Grave
-3 Godless Shrine
-4 Watery Grave
-4 Godless Shrine
-2 Castle Ardenvale
+1 Dream Trawler
 1 Brazen Borrower
 3 Shark Typhoon
 2 Aether Gust
 1 Mystical Dispute
 2 Mystical Dispute
-1 Blast Zone
+3 Omen of the Sun
 2 Brazen Borrower
+4 Shark Typhoon
+2 Castle Ardenvale
+3 Dovin's Veto
+1 Swamp
+1 Watery Grave
+1 Godless Shrine
+2 Watery Grave
+2 Godless Shrine
+3 Watery Grave
+3 Godless Shrine
+4 Watery Grave
+4 Godless Shrine
+1 Blast Zone
 2 Castle Vantress
 3 Castle Ardenvale
-4 Shark Typhoon
-3 Dovin's Veto
-3 Oath of Kaya
-2 Swamp
-3 Mystical Dispute
 3 Brazen Borrower
+2 Swamp
+1 Oath of Kaya
+2 Oath of Kaya
+3 Mystical Dispute
 8 Island
 1 Temple of Deceit
 1 Temple of Silence
+3 Oath of Kaya
 2 Dream Trawler
 4 Shatter the Sky
+1 Kaya, Orzhov Usurper
+2 Kaya, Orzhov Usurper
 2 Temple of Silence
+9 Island
+1 Neutralize
+2 Glass Casket
+2 Temple of Deceit
 4 Oath of Kaya
+1 Heartless Act
+2 Heartless Act
 1 Thought Erasure
 2 Thought Erasure
 3 Thought Erasure
 4 Thought Erasure
-9 Island
-2 Glass Casket
-1 Kaya, Orzhov Usurper
-2 Kaya, Orzhov Usurper
-1 Heartless Act
-2 Heartless Act
-1 Ashiok, Nightmare Muse
-2 Ashiok, Nightmare Muse
-2 Temple of Deceit
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 4 Brazen Borrower
@@ -60,23 +59,23 @@
 2 Absorb
 3 Absorb
 1 Tale's End
-1 Neutralize
 2 Neutralize
 2 Blast Zone
 3 Neutralize
 4 Mystical Dispute
+1 Raugrin Triome
+2 Raugrin Triome
 3 Heartless Act
 3 Swamp
 1 Interplanar Beacon
 2 Interplanar Beacon
 3 Interplanar Beacon
 4 Interplanar Beacon
-1 Raugrin Triome
-2 Raugrin Triome
+1 Ashiok, Nightmare Muse
+2 Ashiok, Nightmare Muse
+3 Aether Gust
 1 Thirst for Meaning
-3 Temple of Deceit
-4 Temple of Deceit
-3 Temple of Silence
+1 Agonizing Remorse
 7 Plains
 1 Elspeth, Sun's Nemesis
 1 Karn, the Great Creator
@@ -87,10 +86,52 @@
 4 Swamp
 3 Glass Casket
 4 Neutralize
-1 Hero of Precinct One
+4 Dovin's Veto
+1 Mortify
+2 Mortify
+3 Mortify
+3 Archon of Sun's Grace
+4 Omen of the Sun
+2 Agonizing Remorse
+3 Agonizing Remorse
+1 Banishing Light
+4 The Birth of Meletis
+3 Temple of Deceit
+4 Temple of Deceit
+3 Temple of Silence
+1 Liliana, Dreadhorde General
+1 Alseid of Life's Bounty
+1 Duress
+1 Lurrus of the Dream Den
+1 Omen of the Dead
+1 Kaya's Ghostform
+2 Liliana, Dreadhorde General
+2 Alseid of Life's Bounty
+2 Lurrus of the Dream Den
+2 Duress
+2 Kaya's Ghostform
+4 Archon of Sun's Grace
+1 Tyrant's Scorn
+1 The Wanderer
+2 The Wanderer
+1 Chemister's Insight
+2 Tale's End
+3 Dream Trawler
+2 Thirst for Meaning
+3 Raugrin Triome
+3 Thirst for Meaning
+4 Absorb
+1 Extinction Event
+2 Extinction Event
+3 Extinction Event
+4 Agonizing Remorse
+4 Extinction Event
+1 General Kudro of Drannith
 1 Atris, Oracle of Half-Truths
+1 Hero of Precinct One
 1 Dire Tactics
 1 Elite Guardmage
+2 General Kudro of Drannith
 2 Hero of Precinct One
 2 Dire Tactics
 2 Atris, Oracle of Half-Truths
@@ -102,44 +143,6 @@
 4 Hero of Precinct One
 4 Dire Tactics
 4 Elite Guardmage
-3 Aether Gust
-4 Dovin's Veto
-3 Archon of Sun's Grace
-4 Omen of the Sun
-1 Agonizing Remorse
-1 Banishing Light
-4 The Birth of Meletis
-1 Liliana, Dreadhorde General
-1 Alseid of Life's Bounty
-1 Duress
-1 Lurrus of the Dream Den
-1 Omen of the Dead
-1 Kaya's Ghostform
-2 Agonizing Remorse
-2 Liliana, Dreadhorde General
-2 Alseid of Life's Bounty
-2 Duress
-2 Lurrus of the Dream Den
-2 Kaya's Ghostform
-3 Agonizing Remorse
-4 Archon of Sun's Grace
-1 General Kudro of Drannith
-2 General Kudro of Drannith
-1 Mortify
-1 Tyrant's Scorn
-1 The Wanderer
-2 Mortify
-2 The Wanderer
-3 Mortify
-1 Chemister's Insight
-2 Tale's End
-3 Dream Trawler
-2 Thirst for Meaning
-3 Raugrin Triome
-3 Thirst for Meaning
-4 Absorb
-1 Discovery/Dispersal
-4 Atris, Oracle of Half-Truths
 1 Ajani, Strength of the Pride
 1 Keruga, the Macrosage
 1 Cavalier of Dawn

@@ -5,9 +5,9 @@
 1 Fatal Push
 1 Flame Slash
 1 Galvanic Blast
+2 Galvanic Blast
 1 Timely Reinforcements
 2 Timely Reinforcements
-2 Galvanic Blast
 2 Flusterstorm
 3 Ceremonious Rejection
 1 Tezzeret, Agent of Bolas
@@ -23,21 +23,21 @@
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
-2 Ashiok, Dream Render
 1 Wear/Tear
+2 Ashiok, Dream Render
 1 Supreme Verdict
 1 Brazen Borrower
 1 Herald of Anguish
-1 Surgical Extraction
 1 Torpor Orb
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
+2 Wear/Tear
+1 Surgical Extraction
 2 Dead of Winter
+2 Dragon's Claw
 1 Dispel
 1 Celestial Purge
-2 Dragon's Claw
 1 Pithing Needle
-2 Wear/Tear
 1 Battle at the Bridge
 2 Battle at the Bridge
 1 Spell Snare
@@ -48,11 +48,6 @@
 1 Rest in Peace
 1 Yorion, Sky Nomad
 1 Damnation
-1 Force of Negation
-1 Negate
-2 Force of Negation
-2 Rest in Peace
-3 Anger of the Gods
 1 Spell Pierce
 1 Seal of Fire
 1 Light of Hope
@@ -62,6 +57,11 @@
 2 Goblin Cratermaker
 3 Spell Pierce
 3 Light of Hope
+1 Force of Negation
+1 Negate
+2 Force of Negation
+2 Rest in Peace
+3 Anger of the Gods
 1 Abrade
 1 Beacon Bolt
 2 Tezzeret, Agent of Bolas
@@ -70,9 +70,13 @@
 1 Mindbreak Trap
 2 Mindbreak Trap
 2 Fatal Push
-2 Collective Brutality
-1 Detention Sphere
 1 Tormod's Crypt
+2 Collective Brutality
+1 Veil of Summer
+2 Veil of Summer
+3 Veil of Summer
+1 Inquisition of Kozilek
+1 Detention Sphere
 1 Young Pyromancer
 1 Shattering Spree
 1 Chandra, Awakened Inferno
@@ -93,11 +97,11 @@
 2 Path to Exile
 2 Abrade
 2 Grafdigger's Cage
+1 Echoing Truth
+1 Monastery Mentor
+2 Monastery Mentor
+3 Galvanic Blast
 3 Relic of Progenitus
-1 Inquisition of Kozilek
-1 Veil of Summer
-2 Veil of Summer
-3 Veil of Summer
 1 Soul-Guide Lantern
 3 Mystical Dispute
 3 Timely Reinforcements
