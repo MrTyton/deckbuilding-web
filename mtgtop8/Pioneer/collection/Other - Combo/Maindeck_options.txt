@@ -4,16 +4,16 @@
 1 Forest
 2 Clone
 1 Llanowar Elves
-1 Gilded Goose
 1 Elvish Mystic
 1 Rootbound Crag
+1 Gilded Goose
 1 Mountain
 1 Stomping Ground
 2 Llanowar Elves
 2 Elvish Mystic
 2 Rootbound Crag
-2 Forest
 2 Stomping Ground
+2 Forest
 3 Llanowar Elves
 3 Elvish Mystic
 3 Stomping Ground
@@ -45,8 +45,8 @@
 2 Kenrith, the Returned King
 2 Angrath's Marauders
 2 Winota, Joiner of Forces
-2 Gilded Goose
 2 Voice of Resurgence
+2 Gilded Goose
 2 Sunpetal Grove
 2 Selfless Spirit
 2 Temple Garden
@@ -58,8 +58,8 @@
 3 Temple Garden
 4 Angrath's Marauders
 4 Winota, Joiner of Forces
-4 Voice of Resurgence
 4 Eldritch Evolution
+4 Voice of Resurgence
 4 Legion Warboss
 4 Temple Garden
 1 Urborg, Tomb of Yawgmoth
@@ -70,10 +70,10 @@
 1 Oath of Kaya
 1 Teshar, Ancestor's Apostle
 1 Kethis, the Hidden Hand
-1 Emry, Lurker of the Loch
-1 Wishclaw Talisman
 1 Diligent Excavator
 1 Lazav, the Multifarious
+1 Emry, Lurker of the Loch
+1 Wishclaw Talisman
 1 Mox Amber
 1 Botanical Sanctum
 1 Springleaf Drum
@@ -89,9 +89,9 @@
 2 Kethis, the Hidden Hand
 2 Diligent Excavator
 2 Emry, Lurker of the Loch
-2 Mox Amber
 2 Wishclaw Talisman
 2 Lurrus of the Dream Den
+2 Mox Amber
 2 Springleaf Drum
 2 Urborg, Tomb of Yawgmoth
 2 Teferi, Time Raveler
@@ -101,8 +101,8 @@
 2 Spire of Industry
 2 Botanical Sanctum
 3 Kethis, the Hidden Hand
-3 Emry, Lurker of the Loch
 3 Diligent Excavator
+3 Emry, Lurker of the Loch
 3 Lazav, the Multifarious
 3 Mox Amber
 3 Hope of Ghirapur
@@ -112,24 +112,24 @@
 3 Teferi, Time Raveler
 3 Hallowed Fountain
 4 Hallowed Fountain
-4 Emry, Lurker of the Loch
 4 Kethis, the Hidden Hand
 4 Hope of Ghirapur
 4 Lazav, the Multifarious
 4 Diligent Excavator
+4 Emry, Lurker of the Loch
 4 Mox Amber
 4 Botanical Sanctum
 4 Mana Confluence
-1 Woodland Cemetery
 1 Temple of Malady
+1 Woodland Cemetery
 1 Swamp
 1 Overgrown Tomb
+1 Lotleth Troll
 1 Soulflayer
+1 Vine Mare
 1 Gather the Pack
 1 Grisly Salvage
-1 Vine Mare
 1 Zetalpa, Primal Dawn
-1 Lotleth Troll
 1 Questing Beast
 1 Rankle, Master of Pranks
 1 Grapple with the Past
@@ -141,29 +141,29 @@
 2 Temple of Malady
 2 Swamp
 2 Grisly Salvage
+2 Lotleth Troll
 2 Zetalpa, Primal Dawn
-2 Gather the Pack
 2 Overgrown Tomb
+2 Gather the Pack
 2 Soulflayer
 2 Questing Beast
-2 Lotleth Troll
 2 Vine Mare
 2 Skull Prophet
 2 Gifted Aetherborn
+3 Lotleth Troll
 3 Zetalpa, Primal Dawn
 3 Gather the Pack
 3 Grisly Salvage
-3 Soulflayer
 3 Overgrown Tomb
 3 Swamp
-3 Lotleth Troll
+3 Soulflayer
 3 Questing Beast
 3 Gifted Aetherborn
+4 Lotleth Troll
 4 Grisly Salvage
 4 Zetalpa, Primal Dawn
 4 Gather the Pack
 4 Soulflayer
-4 Lotleth Troll
 4 Overgrown Tomb
 4 Swamp
 4 Gifted Aetherborn
@@ -205,11 +205,11 @@
 3 Captain Lannery Storm
 3 Lovestruck Beast
 3 Rosethorn Acolyte
-4 Rootbound Crag
 4 Forest
+4 Rootbound Crag
 4 Possibility Storm
-4 Bonecrusher Giant
 4 Game Trail
+4 Bonecrusher Giant
 4 Lovestruck Beast
 5 Forest
 6 Forest

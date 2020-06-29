@@ -1,7 +1,8 @@
-1 Abrupt Decay
-2 Dark Confidant
+1 Dark Confidant
 3 Thoughtseize
 2 Abrupt Decay
+2 Dark Confidant
+1 Twilight Mire
 1 Cling to Dust
 1 Dead Weight
 3 Dark Confidant
@@ -9,43 +10,42 @@
 2 Marsh Flats
 1 Urborg, Tomb of Yawgmoth
 2 Cling to Dust
-1 Twilight Mire
+3 Forest
+1 Bloodstained Mire
+2 Bloodstained Mire
+4 Dark Confidant
 1 Liliana of the Veil
 2 Liliana of the Veil
 3 Liliana of the Veil
-3 Forest
-4 Dark Confidant
-1 Bloodstained Mire
-2 Bloodstained Mire
 1 Snow-Covered Swamp
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 2 Snow-Covered Swamp
 3 Abrupt Decay
 1 Treetop Village
-1 Lurrus of the Dream Den
-2 Lurrus of the Dream Den
-4 Liliana of the Veil
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
+1 Lurrus of the Dream Den
+2 Lurrus of the Dream Den
 1 Liliana, the Last Hope
 3 Marsh Flats
 4 Thoughtseize
+4 Liliana of the Veil
 1 Collective Brutality
 3 Snow-Covered Forest
 1 Kitchen Finks
 2 Kitchen Finks
 3 Overgrown Tomb
 3 Kitchen Finks
-4 Kitchen Finks
 4 Overgrown Tomb
+4 Kitchen Finks
 1 Hissing Quagmire
 2 Hissing Quagmire
-1 Ghost Quarter
-3 Lurrus of the Dream Den
 2 Dead Weight
+1 Ghost Quarter
 2 Ghost Quarter
 3 Ghost Quarter
+3 Lurrus of the Dream Den
 1 Tireless Tracker
 1 Kalitas, Traitor of Ghet
 2 Tireless Tracker
@@ -53,25 +53,10 @@
 3 Tireless Tracker
 4 Forest
 4 Nurturing Peatland
-1 Wrenn and Six
-1 Seal of Fire
-1 Kolaghan's Command
-1 Blackcleave Cliffs
-1 Blood Crypt
-1 Wooded Foothills
-1 Raging Ravine
-1 Stomping Ground
-2 Wrenn and Six
-2 Seal of Fire
-2 Blackcleave Cliffs
-2 Kolaghan's Command
-3 Wrenn and Six
-3 Blackcleave Cliffs
-4 Blackcleave Cliffs
 1 Kaya's Guile
 1 Engineered Explosives
-1 Plains
 1 Godless Shrine
+1 Plains
 1 Temple Garden
 1 Concealed Courtyard
 1 Windswept Heath
