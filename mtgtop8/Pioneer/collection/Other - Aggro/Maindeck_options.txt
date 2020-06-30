@@ -7,20 +7,20 @@
 3 Stomping Ground
 1 Rootbound Crag
 4 Stomping Ground
-1 Gilded Goose
 1 Temple Garden
 1 Sunpetal Grove
 1 Voice of Resurgence
 1 Elvish Mystic
 1 Eldritch Evolution
+1 Gilded Goose
 1 Legion Warboss
 1 Kenrith, the Returned King
 1 Winota, Joiner of Forces
 1 Angrath's Marauders
 2 Sunpetal Grove
 2 Temple Garden
-2 Gilded Goose
 2 Voice of Resurgence
+2 Gilded Goose
 2 Winota, Joiner of Forces
 2 Angrath's Marauders
 2 Elvish Mystic
@@ -34,9 +34,9 @@
 3 Winota, Joiner of Forces
 3 Angrath's Marauders
 3 Legion Warboss
-4 Voice of Resurgence
 4 Temple Garden
 4 Eldritch Evolution
+4 Voice of Resurgence
 4 Winota, Joiner of Forces
 4 Angrath's Marauders
 1 Sacred Foundry
@@ -84,6 +84,7 @@
 2 Battlefield Forge
 2 Favored Hoplite
 2 Defiant Strike
+3 Battlefield Forge
 3 Sacred Foundry
 3 Soul-Scar Mage
 3 Monastery Swiftspear
@@ -95,8 +96,9 @@
 3 Gird for Battle
 3 Tenth District Legionnaire
 3 Plains
-3 Battlefield Forge
 3 Gods Willing
+4 Inspiring Vantage
+4 Battlefield Forge
 4 Sacred Foundry
 4 Soul-Scar Mage
 4 Monastery Swiftspear
@@ -104,8 +106,6 @@
 4 Reckless Rage
 4 Defiant Strike
 4 Tenth District Legionnaire
-4 Inspiring Vantage
-4 Battlefield Forge
 4 Favored Hoplite
 2 Rootbound Crag
 1 Selfless Spirit
@@ -162,10 +162,10 @@
 2 Scavenging Ooze
 1 Experiment One
 1 Pelt Collector
-2 Pelt Collector
 2 Experiment One
-3 Pelt Collector
+2 Pelt Collector
 3 Experiment One
+3 Pelt Collector
 4 Experiment One
 4 Pelt Collector
 1 Watery Grave
@@ -180,33 +180,14 @@
 3 Fabled Passage
 1 Scampering Scorcher
 4 Gird for Battle
-1 Fetid Pools
-1 Drowned Catacomb
-1 Metallic Rebuke
-1 Cauldron Familiar
-1 Choked Estuary
-1 Witch's Oven
-2 Fetid Pools
-2 Metallic Rebuke
-2 Witch's Oven
-2 Cauldron Familiar
-2 Choked Estuary
-3 Choked Estuary
-3 Cauldron Familiar
-3 Witch's Oven
-3 Watery Grave
-4 Cauldron Familiar
-4 Witch's Oven
-4 Choked Estuary
-4 Watery Grave
 1 Duskwatch Recruiter
 2 Duskwatch Recruiter
 2 Goblin Instigator
 3 Duskwatch Recruiter
+3 Gilded Goose
 3 Rootbound Crag
 3 Sunpetal Grove
 3 Goblin Instigator
-3 Gilded Goose
 4 Gilded Goose
 1 Satyr Wayfinder
 1 Ashiok, Nightmare Muse
@@ -215,14 +196,14 @@
 1 Ipnu Rivulet
 1 Traverse the Ulvenwald
 1 Jace, Vryn's Prodigy
-1 Tireless Tracker
+1 Hinterland Harbor
 1 Heartless Act
+1 Tireless Tracker
 1 Nissa, Who Shakes the World
 1 Eat to Extinction
 1 Uro, Titan of Nature's Wrath
 1 Zagoth Triome
 1 Breeding Pool
-1 Hinterland Harbor
 1 Murderous Rider
 2 Breeding Pool
 2 Satyr Wayfinder
@@ -256,28 +237,28 @@
 4 Hangarback Walker
 4 Steel Overseer
 4 Metallic Mimic
-1 Hissing Quagmire
 1 Nissa, Voice of Zendikar
 1 Rishkar, Peema Renegade
+1 Hissing Quagmire
 1 Assassin's Trophy
 1 Voracious Hydra
-2 Rishkar, Peema Renegade
 2 Nissa, Voice of Zendikar
 2 Assassin's Trophy
 2 Voracious Hydra
-3 Rishkar, Peema Renegade
+2 Rishkar, Peema Renegade
 3 Nissa, Voice of Zendikar
 3 Voracious Hydra
 3 Assassin's Trophy
+3 Rishkar, Peema Renegade
 4 Nissa, Voice of Zendikar
 4 Assassin's Trophy
 4 Voracious Hydra
 1 Gruul Spellbreaker
 1 Hashep Oasis
-1 Domri, Anarch of Bolas
 1 Dryad Militant
-1 Bonecrusher Giant
+1 Domri, Anarch of Bolas
 1 Burning-Tree Emissary
+1 Bonecrusher Giant
 1 Hazoret the Fervent
 1 Zhur-Taa Goblin
 1 Questing Beast
@@ -308,15 +289,16 @@
 4 Burning-Tree Emissary
 4 Voltaic Brawler
 1 Deathrite Shaman
+1 Chevill, Bane of Monsters
 1 Grim Flayer
 1 Dreadbore
 1 Blood Crypt
 1 Kroxa, Titan of Death's Hunger
 1 Kolaghan's Command
 1 Dead Weight
-1 Chevill, Bane of Monsters
 1 Unbridled Growth
 2 Deathrite Shaman
+2 Grim Flayer
 2 Dreadbore
 2 Blood Crypt
 2 Kroxa, Titan of Death's Hunger
@@ -324,7 +306,6 @@
 2 Chevill, Bane of Monsters
 2 Dead Weight
 2 Unbridled Growth
-2 Grim Flayer
 3 Blood Crypt
 3 Kroxa, Titan of Death's Hunger
 3 Deathrite Shaman
@@ -393,3 +374,22 @@
 4 Knight of the Ebon Legion
 4 Swamp
 4 Pack Rat
+1 Fetid Pools
+1 Drowned Catacomb
+1 Metallic Rebuke
+1 Cauldron Familiar
+1 Choked Estuary
+1 Witch's Oven
+2 Fetid Pools
+2 Metallic Rebuke
+2 Witch's Oven
+2 Cauldron Familiar
+2 Choked Estuary
+3 Choked Estuary
+3 Watery Grave
+3 Cauldron Familiar
+3 Witch's Oven
+4 Watery Grave
+4 Witch's Oven
+4 Cauldron Familiar
+4 Choked Estuary

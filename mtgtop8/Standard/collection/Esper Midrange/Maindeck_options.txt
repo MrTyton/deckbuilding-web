@@ -43,7 +43,6 @@
 1 Seraph of the Scales
 3 Plains
 4 Plains
-1 Dreamtail Heron
 1 Healer's Hawk
 1 Brazen Borrower
 1 Skycat Sovereign
@@ -54,6 +53,7 @@
 1 Hanged Executioner
 1 Rally of Wings
 1 Harmonious Archon
+1 Dreamtail Heron
 1 Alela, Artful Provocateur
 2 Dreamtail Heron
 2 Healer's Hawk
@@ -69,9 +69,9 @@
 2 Rally of Wings
 2 Harmonious Archon
 3 Brazen Borrower
+3 Rankle, Master of Pranks
 3 Healer's Hawk
 3 Island
-3 Rankle, Master of Pranks
 3 Thief of Sanity
 3 Hanged Executioner
 3 Alela, Artful Provocateur
@@ -96,48 +96,49 @@
 1 Yorion, Sky Nomad
 2 Kaya, Orzhov Usurper
 4 Elite Guardmage
-2 Indatha Triome
 2 Savai Triome
+2 Indatha Triome
 3 Dream Trawler
 4 Oath of Kaya
 4 Atris, Oracle of Half-Truths
 1 Thassa, Deep-Dwelling
+1 Basilica Bell-Haunt
 1 Scoured Barrens
 1 Golden Egg
 1 Omen of the Sun
 1 Guild Globe
 1 Ugin, the Ineffable
 1 Evolving Wilds
+1 Meteor Golem
 1 Liliana, Dreadhorde General
 1 Cry of the Carnarium
 1 Murder
 1 Burglar Rat
 1 Omen of the Dead
-1 Meteor Golem
 1 Ob Nixilis's Cruelty
 1 Sleeper Dart
-1 Basilica Bell-Haunt
 1 Flicker of Fate
 1 Tranquil Cove
 1 Dismal Backwater
 1 Dark Bargain
+2 Basilica Bell-Haunt
 2 Scoured Barrens
 2 Golden Egg
 2 Omen of the Sun
-2 Murder
 2 Evolving Wilds
+2 Murder
 2 Cry of the Carnarium
 2 Burglar Rat
 2 Omen of the Dead
 2 Flicker of Fate
 2 Meteor Golem
 2 Sleeper Dart
-2 Basilica Bell-Haunt
 2 Tranquil Cove
 2 Dismal Backwater
 2 Ob Nixilis's Cruelty
 2 Dark Bargain
 3 Scoured Barrens
+3 Basilica Bell-Haunt
 3 Golden Egg
 3 Omen of the Sun
 3 Cry of the Carnarium
@@ -147,19 +148,18 @@
 3 Dismal Backwater
 3 Murder
 3 Tranquil Cove
-3 Basilica Bell-Haunt
 3 Flicker of Fate
 3 Burglar Rat
 3 Sleeper Dart
 4 Omen of the Sun
 4 Scoured Barrens
+4 Cry of the Carnarium
 4 Swamp
 4 Golden Egg
 4 Murder
 4 Tranquil Cove
 4 Evolving Wilds
 4 Burglar Rat
-4 Cry of the Carnarium
 4 Flicker of Fate
 4 Dismal Backwater
 5 Plains

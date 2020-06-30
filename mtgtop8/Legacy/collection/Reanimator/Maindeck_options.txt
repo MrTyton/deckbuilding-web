@@ -1,8 +1,11 @@
-1 Cabal Therapy
+2 Snow-Covered Swamp
 1 Swamp
 1 Tidespout Tyrant
 3 Polluted Delta
 4 Polluted Delta
+2 Cabal Therapy
+3 Cabal Therapy
+1 Iona, Shield of Emeria
 2 Chrome Mox
 1 Underground Sea
 2 Underground Sea
@@ -20,14 +23,13 @@
 3 Ponder
 4 Brainstorm
 4 Force of Will
-2 Cabal Therapy
-3 Cabal Therapy
+3 Bloodstained Mire
+1 Elesh Norn, Grand Cenobite
 1 Island
 1 Daze
 1 Inkwell Leviathan
 1 Careful Study
 1 Grave Titan
-1 Elesh Norn, Grand Cenobite
 2 Careful Study
 2 Daze
 3 Careful Study
@@ -36,7 +38,6 @@
 4 Daze
 4 Careful Study
 3 Snow-Covered Swamp
-1 Iona, Shield of Emeria
 3 Verdant Catacombs
 4 Cabal Therapy
 1 Drown in the Loch
@@ -60,12 +61,12 @@
 4 Misty Rainforest
 4 Ponder
 4 Arcum's Astrolabe
-3 Bloodstained Mire
-1 Fatal Push
 1 Abundant Growth
 1 Leovold, Emissary of Trest
-1 Notion Thief
 1 Oko, Thief of Crowns
+1 Notion Thief
+1 Fatal Push
+1 Plague Engineer
 1 Dance of the Dead
 1 Scalding Tarn
 1 Dead of Winter
@@ -75,7 +76,6 @@
 1 Stroke of Genius
 1 Force of Negation
 1 Snapcaster Mage
-1 Plague Engineer
 2 Snapcaster Mage
 2 Tropical Island
 2 Leovold, Emissary of Trest
@@ -87,6 +87,7 @@
 3 Oko, Thief of Crowns
 3 Abrupt Decay
 4 Snow-Covered Island
+1 Archetype of Endurance
 1 Mystic Sanctuary
 1 Fae of Wishes
 1 Flooded Strand
