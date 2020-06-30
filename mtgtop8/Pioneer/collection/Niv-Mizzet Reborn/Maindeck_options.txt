@@ -16,12 +16,12 @@
 1 Stomping Ground
 1 Enter the God-Eternals
 1 Slaughter Games
-2 Temple of Silence
 2 Indatha Triome
+2 Temple of Silence
 3 Glacial Fortress
 1 Temple of Malady
-1 Temple of Deceit
 1 Arboreal Grazer
+1 Temple of Deceit
 2 Arboreal Grazer
 3 Arboreal Grazer
 1 Woodland Cemetery
@@ -32,11 +32,6 @@
 2 Dreadbore
 3 Thought Erasure
 3 Dreadbore
-1 Hostage Taker
-1 Kaya, Orzhov Usurper
-2 Kaya, Orzhov Usurper
-2 Temple of Deceit
-3 Rootbound Crag
 1 Deathrite Shaman
 1 Scavenging Ooze
 2 Deathrite Shaman
@@ -44,31 +39,24 @@
 3 Steam Vents
 1 Atris, Oracle of Half-Truths
 1 Temple of Abandon
-1 Trial of Ambition
 1 Blooming Marsh
-1 Satyr Wayfinder
+1 Trial of Ambition
 1 Traverse the Ulvenwald
-1 Elite Guardmage
-1 Temple of Mystery
-1 Silumgar's Command
+1 Satyr Wayfinder
 1 Botanical Sanctum
+1 Temple of Mystery
+1 Elite Guardmage
+1 Silumgar's Command
 1 Supreme Verdict
-2 Paradise Druid
-2 Satyr Wayfinder
-2 Traverse the Ulvenwald
 2 Blooming Marsh
+2 Traverse the Ulvenwald
+2 Satyr Wayfinder
+2 Botanical Sanctum
+2 Paradise Druid
 2 Thoughtseize
 2 Hallowed Fountain
-2 Botanical Sanctum
 3 Blooming Marsh
 3 Botanical Sanctum
-1 Temple of Enlightenment
-1 Temple of Plenty
-1 Sunpetal Grove
-1 Sacred Foundry
-3 Mana Confluence
-3 Breeding Pool
-4 Breeding Pool
 1 Questing Beast
 1 Dovin's Veto
 2 Woodland Cemetery
@@ -76,5 +64,17 @@
 3 Oath of Kaya
 3 Indatha Triome
 3 Woodland Cemetery
-1 Shifting Ceratops
 3 Voice of Resurgence
+1 Temple of Enlightenment
+1 Temple of Plenty
+1 Sunpetal Grove
+1 Sacred Foundry
+3 Breeding Pool
+3 Mana Confluence
+4 Breeding Pool
+1 Kaya, Orzhov Usurper
+1 Hostage Taker
+2 Kaya, Orzhov Usurper
+2 Temple of Deceit
+1 Shifting Ceratops
+3 Rootbound Crag

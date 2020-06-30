@@ -120,8 +120,8 @@
 4 Risen Reef
 4 Ketria Triome
 4 Leafkin Druid
-4 Casualties of War
 4 Temple of Malady
+4 Casualties of War
 4 Growth Spiral
 1 Godless Shrine
 2 Godless Shrine
@@ -172,6 +172,59 @@
 4 Midnight Reaper
 4 Cruel Celebrant
 4 Serrated Scorpion
+3 Island
+4 Island
+5 Island
+1 Stonecoil Serpent
+2 Stonecoil Serpent
+1 Gingerbrute
+2 Gingerbrute
+3 Gingerbrute
+3 Stonecoil Serpent
+4 Gingerbrute
+1 Mystic Forge
+1 Ugin, the Spirit Dragon
+1 Solemn Simulacrum
+1 Steel Overseer
+1 Radiant Fountain
+1 Palladium Myr
+1 Karn's Bastion
+1 Crystalline Giant
+1 Ugin, the Ineffable
+1 Mobilized District
+1 Interplanar Beacon
+2 Mobilized District
+2 Mystic Forge
+2 Solemn Simulacrum
+2 Ugin, the Spirit Dragon
+2 Crystalline Giant
+2 Karn's Bastion
+2 Steel Overseer
+2 Palladium Myr
+2 Radiant Fountain
+2 Ugin, the Ineffable
+2 Interplanar Beacon
+3 Ugin, the Spirit Dragon
+3 Solemn Simulacrum
+3 Ugin, the Ineffable
+3 Crystalline Giant
+3 Mystic Forge
+3 Radiant Fountain
+3 Steel Overseer
+3 Palladium Myr
+3 Karn's Bastion
+3 Interplanar Beacon
+4 Ugin, the Ineffable
+4 Solemn Simulacrum
+4 Ugin, the Spirit Dragon
+4 Crystalline Giant
+4 Steel Overseer
+4 Radiant Fountain
+4 Palladium Myr
+4 Mystic Forge
+4 Karn's Bastion
+4 Stonecoil Serpent
+4 Interplanar Beacon
 2 Steam Vents
 1 Startling Development
 1 Improbable Alliance
@@ -226,8 +279,6 @@
 4 Inspiring Veteran
 4 Worthy Knight
 4 Fervent Champion
-3 Island
-4 Island
 1 Sea-Dasher Octopus
 1 Pouncing Shoreshark
 1 Castle Vantress
@@ -236,7 +287,6 @@
 2 Castle Vantress
 3 Sea-Dasher Octopus
 4 Sea-Dasher Octopus
-5 Island
 1 Quench
 2 Quench
 3 Neutralize
@@ -258,65 +308,15 @@
 2 Slitherwisp
 3 Unsummon
 3 Cunning Nightbonder
-3 Voracious Greatshark
 3 Dirge Bat
 3 Slitherwisp
+3 Voracious Greatshark
 4 Neutralize
 4 Unsummon
 4 Cunning Nightbonder
 4 Dirge Bat
 4 Slitherwisp
 4 Voracious Greatshark
-1 Stonecoil Serpent
-2 Stonecoil Serpent
-1 Gingerbrute
-2 Gingerbrute
-3 Gingerbrute
-3 Stonecoil Serpent
-4 Gingerbrute
-1 Mystic Forge
-1 Ugin, the Spirit Dragon
-1 Solemn Simulacrum
-1 Steel Overseer
-1 Radiant Fountain
-1 Crystalline Giant
-1 Karn's Bastion
-1 Ugin, the Ineffable
-1 Mobilized District
-1 Palladium Myr
-1 Interplanar Beacon
-2 Mobilized District
-2 Mystic Forge
-2 Ugin, the Spirit Dragon
-2 Solemn Simulacrum
-2 Crystalline Giant
-2 Radiant Fountain
-2 Ugin, the Ineffable
-2 Palladium Myr
-2 Interplanar Beacon
-2 Steel Overseer
-2 Karn's Bastion
-3 Solemn Simulacrum
-3 Ugin, the Spirit Dragon
-3 Ugin, the Ineffable
-3 Crystalline Giant
-3 Mystic Forge
-3 Karn's Bastion
-3 Palladium Myr
-3 Interplanar Beacon
-3 Steel Overseer
-3 Radiant Fountain
-4 Ugin, the Ineffable
-4 Ugin, the Spirit Dragon
-4 Solemn Simulacrum
-4 Crystalline Giant
-4 Mystic Forge
-4 Stonecoil Serpent
-4 Karn's Bastion
-4 Interplanar Beacon
-4 Palladium Myr
-4 Radiant Fountain
-4 Steel Overseer
 1 Alseid of Life's Bounty
 1 All That Glitters
 1 Sentinel's Eyes
@@ -450,11 +450,11 @@
 4 Brazen Borrower
 9 Island
 1 Migratory Greathorn
-1 Nylea, Keen-Eyed
 1 Arboreal Grazer
 1 Pollywog Symbiote
 1 End-Raze Forerunners
 1 Paradise Druid
+1 Nylea, Keen-Eyed
 1 Setessan Petitioner
 1 Auspicious Starrix
 1 Beast Whisperer

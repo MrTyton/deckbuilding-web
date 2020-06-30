@@ -17,8 +17,8 @@
 1 Kenrith, the Returned King
 1 Winota, Joiner of Forces
 1 Angrath's Marauders
-2 Sunpetal Grove
 2 Temple Garden
+2 Sunpetal Grove
 2 Voice of Resurgence
 2 Gilded Goose
 2 Winota, Joiner of Forces
@@ -34,9 +34,9 @@
 3 Winota, Joiner of Forces
 3 Angrath's Marauders
 3 Legion Warboss
+4 Voice of Resurgence
 4 Temple Garden
 4 Eldritch Evolution
-4 Voice of Resurgence
 4 Winota, Joiner of Forces
 4 Angrath's Marauders
 1 Sacred Foundry
@@ -50,8 +50,8 @@
 4 Llanowar Elves
 1 Elvish Visionary
 2 Elvish Visionary
-3 Elvish Visionary
 3 Goblin Rabblemaster
+3 Elvish Visionary
 4 Elvish Visionary
 4 Goblin Rabblemaster
 2 Inspiring Vantage
@@ -102,8 +102,8 @@
 4 Sacred Foundry
 4 Soul-Scar Mage
 4 Monastery Swiftspear
-4 Titan's Strength
 4 Reckless Rage
+4 Titan's Strength
 4 Defiant Strike
 4 Tenth District Legionnaire
 4 Favored Hoplite
@@ -160,14 +160,14 @@
 3 Thoughtseize
 4 Thoughtseize
 2 Scavenging Ooze
-1 Experiment One
 1 Pelt Collector
-2 Experiment One
+1 Experiment One
 2 Pelt Collector
-3 Experiment One
+2 Experiment One
 3 Pelt Collector
-4 Experiment One
+3 Experiment One
 4 Pelt Collector
+4 Experiment One
 1 Watery Grave
 2 Watery Grave
 2 Island
@@ -195,8 +195,8 @@
 1 Atris, Oracle of Half-Truths
 1 Ipnu Rivulet
 1 Traverse the Ulvenwald
-1 Jace, Vryn's Prodigy
 1 Hinterland Harbor
+1 Jace, Vryn's Prodigy
 1 Heartless Act
 1 Tireless Tracker
 1 Nissa, Who Shakes the World
@@ -237,8 +237,8 @@
 4 Hangarback Walker
 4 Steel Overseer
 4 Metallic Mimic
-1 Nissa, Voice of Zendikar
 1 Rishkar, Peema Renegade
+1 Nissa, Voice of Zendikar
 1 Hissing Quagmire
 1 Assassin's Trophy
 1 Voracious Hydra
@@ -247,16 +247,16 @@
 2 Voracious Hydra
 2 Rishkar, Peema Renegade
 3 Nissa, Voice of Zendikar
-3 Voracious Hydra
 3 Assassin's Trophy
+3 Voracious Hydra
 3 Rishkar, Peema Renegade
 4 Nissa, Voice of Zendikar
 4 Assassin's Trophy
 4 Voracious Hydra
+1 Domri, Anarch of Bolas
 1 Gruul Spellbreaker
 1 Hashep Oasis
 1 Dryad Militant
-1 Domri, Anarch of Bolas
 1 Burning-Tree Emissary
 1 Bonecrusher Giant
 1 Hazoret the Fervent
@@ -284,9 +284,9 @@
 3 Ghor-Clan Rampager
 3 Voltaic Brawler
 4 Ghor-Clan Rampager
-4 Bonecrusher Giant
 4 Gruul Spellbreaker
 4 Burning-Tree Emissary
+4 Bonecrusher Giant
 4 Voltaic Brawler
 1 Deathrite Shaman
 1 Chevill, Bane of Monsters
@@ -298,7 +298,6 @@
 1 Dead Weight
 1 Unbridled Growth
 2 Deathrite Shaman
-2 Grim Flayer
 2 Dreadbore
 2 Blood Crypt
 2 Kroxa, Titan of Death's Hunger
@@ -306,6 +305,7 @@
 2 Chevill, Bane of Monsters
 2 Dead Weight
 2 Unbridled Growth
+2 Grim Flayer
 3 Blood Crypt
 3 Kroxa, Titan of Death's Hunger
 3 Deathrite Shaman
@@ -327,9 +327,9 @@
 2 Curious Obsession
 2 Sram, Senior Edificer
 2 Ethereal Armor
+3 Curious Obsession
 3 Springleaf Drum
 3 Alseid of Life's Bounty
-3 Curious Obsession
 3 Sram, Senior Edificer
 3 Ethereal Armor
 4 Curious Obsession

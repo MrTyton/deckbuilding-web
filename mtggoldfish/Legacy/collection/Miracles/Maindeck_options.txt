@@ -1,82 +1,83 @@
-2 Prismatic Vista
-2 Predict
-6 Snow-Covered Island
-3 Jace, the Mind Sculptor
+4 Island
+1 Spell Pierce
+3 Scalding Tarn
+4 Scalding Tarn
+1 Mystic Sanctuary
+2 Mystic Sanctuary
 3 Prismatic Vista
 4 Prismatic Vista
-1 Island
-2 Island
-1 Plains
+1 Spell Snare
 1 Preordain
-1 Dovin's Veto
-3 Island
-4 Island
-2 Karakas
-1 Spell Pierce
-2 Council's Judgment
-1 True-Name Nemesis
 1 Batterskull
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
-1 Arid Mesa
+2 Karakas
+2 Plains
+2 Spell Pierce
+2 Predict
+1 Misty Rainforest
+1 Back to Basics
+1 Portent
+2 Portent
+4 Stoneforge Mystic
+1 True-Name Nemesis
+2 Council's Judgment
+1 Shark Typhoon
+1 Standstill
+2 Standstill
+3 Standstill
+2 Spell Snare
 1 Vendilion Clique
 1 Sword of Fire and Ice
 1 Venser, Shaper Savant
 2 True-Name Nemesis
 2 Vendilion Clique
 3 True-Name Nemesis
-4 Stoneforge Mystic
-1 Arcum's Astrolabe
-3 Scalding Tarn
-4 Scalding Tarn
-2 Plains
-1 Misty Rainforest
-2 Dovin's Veto
-1 Spell Snare
-2 Arcum's Astrolabe
-2 Spell Pierce
 1 Supreme Verdict
-1 Sword of Feast and Famine
-1 Jace, Vryn's Prodigy
-1 Lightning Bolt
-1 Snow-Covered Mountain
-3 Polluted Delta
-2 Narset, Parter of Veils
-1 Shark Typhoon
-1 Standstill
-2 Standstill
-3 Standstill
-2 Spell Snare
-2 Lightning Bolt
-1 Sevinne's Reclamation
-2 Back to Basics
-1 Hall of Heliod's Generosity
-1 Myth Realized
 2 Counterspell
 2 Shark Typhoon
-2 Myth Realized
 3 Shark Typhoon
 4 Standstill
 5 Island
+1 Arcum's Astrolabe
+3 Jace, the Mind Sculptor
+6 Snow-Covered Island
+1 Sword of Feast and Famine
+1 Jace, Vryn's Prodigy
+1 Hall of Heliod's Generosity
+1 Myth Realized
+2 Myth Realized
+2 Arcum's Astrolabe
+1 Lightning Bolt
+1 Snow-Covered Mountain
+3 Polluted Delta
 3 Tundra
-1 Rest in Peace
+1 Dovin's Veto
+2 Narset, Parter of Veils
 2 Supreme Verdict
+1 Arid Mesa
+2 Lightning Bolt
+2 Misty Rainforest
+1 Sevinne's Reclamation
+2 Back to Basics
+3 Counterbalance
+2 Dovin's Veto
+1 Rest in Peace
 2 Rest in Peace
 3 Rest in Peace
-1 Underground Sea
 3 Arcum's Astrolabe
-2 Misty Rainforest
+3 Spell Pierce
 2 Volcanic Island
 1 Umezawa's Jitte
 1 Swamp
+1 Underground Sea
 4 Polluted Delta
 3 Snow-Covered Plains
 1 Wasteland
 2 Wasteland
 3 Myth Realized
 2 Entreat the Angels
-3 Counterbalance
 3 Predict
 1 Enlightened Tutor
 1 Detention Sphere
@@ -87,24 +88,15 @@
 3 Teferi, Time Raveler
 2 Preordain
 3 Lightning Bolt
-3 Spell Pierce
 4 Lightning Bolt
-4 True-Name Nemesis
 4 Snapcaster Mage
+4 True-Name Nemesis
 4 Arcum's Astrolabe
 1 Baleful Strix
 1 Liliana, the Last Hope
 2 Baleful Strix
-1 Abrupt Decay
-1 Tropical Island
-1 Bayou
-1 Dryad Arbor
-1 Uro, Titan of Nature's Wrath
-1 Verdant Catacombs
-1 Forest
-2 Abrupt Decay
-1 Academy Ruins
 1 Lavabrink Venturer
+1 Academy Ruins
 1 Path to Exile
 1 The Elderspell
 1 Scrubland
@@ -113,24 +105,32 @@
 2 The Elderspell
 1 Noble Hierarch
 1 Cabal Therapy
-1 Veteran Explorer
 1 Titania, Protector of Argoth
 1 Birthing Pod
 1 Wurmcoil Engine
+1 Abrupt Decay
 1 Oko, Thief of Crowns
-1 Leovold, Emissary of Trest
+1 Tropical Island
+1 Bayou
 1 Shriekmaw
+1 Leovold, Emissary of Trest
+1 Veteran Explorer
+1 Dryad Arbor
+1 Uro, Titan of Nature's Wrath
+1 Verdant Catacombs
 1 Prime Speaker Vannifar
 1 Abyssal Gatekeeper
 1 Scavenging Ooze
-2 Noble Hierarch
+1 Forest
 2 Swamp
 2 Forest
+2 Noble Hierarch
 2 Cabal Therapy
-2 Veteran Explorer
 2 Birthing Pod
 2 Uro, Titan of Nature's Wrath
+2 Abrupt Decay
 2 Leovold, Emissary of Trest
+2 Veteran Explorer
 2 Verdant Catacombs
 2 Bayou
 2 Abyssal Gatekeeper
@@ -138,29 +138,34 @@
 2 Tropical Island
 2 Oko, Thief of Crowns
 3 Noble Hierarch
-3 Veteran Explorer
 3 Cabal Therapy
 3 Abrupt Decay
-3 Birthing Pod
 3 Baleful Strix
-4 Veteran Explorer
+3 Veteran Explorer
+3 Birthing Pod
 4 Cabal Therapy
 4 Baleful Strix
+4 Veteran Explorer
 1 Teferi, Master of Time
-1 Blood Moon
 1 Gideon, Ally of Zendikar
+1 Blood Moon
+1 Mystical Dispute
 1 Monastery Mentor
 1 Flusterstorm
 1 Tragic Lesson
-1 Mystical Dispute
 1 Cling to Dust
 1 Kaya, Orzhov Usurper
 2 Cling to Dust
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
-4 Mishra's Bauble
 4 Terminus
+4 Mishra's Bauble
+1 Energy Field
+1 Humility
+2 Energy Field
+2 Enlightened Tutor
+7 Snow-Covered Island
 1 Mishra's Factory
 1 Noxious Revival
 1 Yidaro, Wandering Monster
@@ -168,30 +173,3 @@
 2 Mishra's Factory
 3 Yidaro, Wandering Monster
 4 Portent
-1 Energy Field
-1 Humility
-2 Energy Field
-2 Enlightened Tutor
-7 Snow-Covered Island
-1 Primeval Titan
-1 Field of the Dead
-1 Dryad of the Ilysian Grove
-1 Valakut, the Molten Pinnacle
-1 Satyr Wayfinder
-1 Snow-Covered Swamp
-1 Drown in the Loch
-1 Snow-Covered Forest
-1 Green Sun's Zenith
-1 Windswept Heath
-1 Life from the Loam
-2 Field of the Dead
-2 Drown in the Loch
-2 Dryad of the Ilysian Grove
-2 Primeval Titan
-2 Valakut, the Molten Pinnacle
-2 Green Sun's Zenith
-2 Life from the Loam
-3 Green Sun's Zenith
-3 Dryad of the Ilysian Grove
-4 Green Sun's Zenith
-4 Dryad of the Ilysian Grove

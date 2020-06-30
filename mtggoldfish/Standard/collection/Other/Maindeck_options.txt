@@ -1,17 +1,133 @@
+9 Plains
+10 Plains
+11 Plains
+12 Plains
+13 Plains
+14 Plains
+15 Plains
+16 Plains
+17 Plains
+1 Castle Ardenvale
+2 Castle Ardenvale
+3 Castle Ardenvale
+1 Venerated Loxodon
+1 Tithe Taker
+2 Venerated Loxodon
+2 Tithe Taker
+3 Tithe Taker
+4 Tithe Taker
+1 Venerable Knight
+2 Venerable Knight
+3 Venerated Loxodon
+3 Venerable Knight
+4 Venerable Knight
+4 Venerated Loxodon
+18 Plains
+1 Raise the Alarm
+2 Raise the Alarm
+1 Fight as One
+1 Unbreakable Formation
+2 Unbreakable Formation
+3 Unbreakable Formation
+4 Unbreakable Formation
+1 Stonecoil Serpent
 2 Stonecoil Serpent
 3 Stonecoil Serpent
 4 Stonecoil Serpent
+1 Giant Killer
+1 Gideon Blackblade
+2 Giant Killer
 1 Faerie Guidemother
 2 Faerie Guidemother
+2 Gideon Blackblade
 3 Giant Killer
+3 Gideon Blackblade
+3 Raise the Alarm
 4 Giant Killer
+4 Raise the Alarm
+4 Gideon Blackblade
+1 Healer's Hawk
+2 Healer's Hawk
+3 Healer's Hawk
+4 Healer's Hawk
+1 Alseid of Life's Bounty
+1 Ajani's Pridemate
+2 Alseid of Life's Bounty
+2 Ajani's Pridemate
+3 Ajani's Pridemate
+3 Alseid of Life's Bounty
+4 Alseid of Life's Bounty
+4 Ajani's Pridemate
 2 Fight as One
 3 Fight as One
-2 Gideon Blackblade
-3 Gideon Blackblade
+1 Hunted Witness
+2 Hunted Witness
 3 Hunted Witness
 4 Hunted Witness
-4 Gideon Blackblade
+1 Loyal Pegasus
+1 Haazda Marshal
+2 Haazda Marshal
+2 Loyal Pegasus
+3 Loyal Pegasus
+3 Haazda Marshal
+4 Fight as One
+4 Haazda Marshal
+4 Loyal Pegasus
+1 Island
+2 Island
+3 Island
+4 Island
+5 Island
+6 Island
+7 Island
+1 Fabled Passage
+8 Island
+9 Island
+1 Temple of Epiphany
+2 Temple of Epiphany
+1 Opt
+1 Shock
+1 Crackling Drake
+1 Steam Vents
+1 Thrill of Possibility
+1 Scorching Dragonfire
+1 Frantic Inventory
+1 Crash Through
+1 Beacon Bolt
+1 Sprite Dragon
+1 Pteramander
+1 Stormwing Entity
+2 Opt
+2 Scorching Dragonfire
+2 Shock
+2 Sprite Dragon
+2 Stormwing Entity
+2 Steam Vents
+2 Frantic Inventory
+2 Pteramander
+2 Crash Through
+2 Thrill of Possibility
+2 Crackling Drake
+3 Opt
+3 Shock
+3 Scorching Dragonfire
+3 Sprite Dragon
+3 Thrill of Possibility
+3 Frantic Inventory
+3 Pteramander
+3 Steam Vents
+3 Crash Through
+4 Opt
+4 Thrill of Possibility
+4 Sprite Dragon
+4 Steam Vents
+4 Pteramander
+4 Crash Through
+4 Frantic Inventory
+4 Shock
+1 Brazen Borrower
+2 Brazen Borrower
+4 Castle Ardenvale
 1 Ajani, Strength of the Pride
 1 Linden, the Steadfast Queen
 1 Heliod, Sun-Crowned
@@ -22,152 +138,24 @@
 2 Heliod, Sun-Crowned
 3 Heliod, Sun-Crowned
 3 Linden, the Steadfast Queen
-1 Fabled Passage
-2 Fabled Passage
-1 Forest
-2 Forest
-3 Forest
-4 Forest
-5 Forest
-6 Forest
-7 Forest
-1 Lovestruck Beast
-2 Lovestruck Beast
-3 Lovestruck Beast
-4 Lovestruck Beast
-1 Swamp
-1 Castle Locthwain
-2 Swamp
-3 Swamp
-4 Swamp
-5 Swamp
-6 Swamp
-7 Swamp
-1 Murderous Rider
-1 Overgrown Tomb
-1 Cauldron Familiar
-1 Witch's Oven
-2 Overgrown Tomb
-2 Witch's Oven
-2 Cauldron Familiar
-3 Overgrown Tomb
-3 Cauldron Familiar
-3 Witch's Oven
-4 Overgrown Tomb
-4 Cauldron Familiar
-4 Witch's Oven
-8 Forest
-9 Forest
-10 Forest
-1 Gilded Goose
-1 Polukranos, Unchained
-1 The Great Henge
-1 Gemrazer
-1 Ilysian Caryatid
-1 Trail of Crumbs
-1 Wilt
-1 Rotting Regisaur
-2 Gilded Goose
-2 Polukranos, Unchained
-2 The Great Henge
-2 Rotting Regisaur
-2 Trail of Crumbs
-2 Ilysian Caryatid
-3 Gilded Goose
-3 The Great Henge
-3 Ilysian Caryatid
-3 Trail of Crumbs
-3 Rotting Regisaur
-4 Gilded Goose
-4 Rotting Regisaur
-4 Trail of Crumbs
-4 The Great Henge
-1 Loyal Pegasus
-1 Haazda Marshal
-2 Haazda Marshal
-2 Loyal Pegasus
-3 Loyal Pegasus
-3 Haazda Marshal
-4 Fight as One
-4 Haazda Marshal
-4 Loyal Pegasus
 1 Conclave Tribunal
 2 Conclave Tribunal
-3 Daxos, Blessed by the Sun
-1 Mountain
-2 Mountain
-3 Mountain
-4 Mountain
-5 Mountain
-6 Mountain
-1 Bonecrusher Giant
-1 Legion Warboss
-1 Tajic, Legion's Edge
-1 Alpine Houndmaster
-1 Selfless Savior
-1 Embercleave
-1 Gingerbrute
-1 Temple of Triumph
-1 Winota, Joiner of Forces
-1 Igneous Cur
-1 Sacred Foundry
-1 Alpine Watchdog
-2 Legion Warboss
-2 Bonecrusher Giant
-2 Winota, Joiner of Forces
-2 Embercleave
-2 Igneous Cur
-2 Temple of Triumph
-2 Sacred Foundry
-2 Alpine Watchdog
-2 Tajic, Legion's Edge
-2 Alpine Houndmaster
-2 Gingerbrute
-2 Selfless Savior
-3 Legion Warboss
-3 Sacred Foundry
-3 Alpine Houndmaster
-3 Selfless Savior
-3 Gingerbrute
-3 Bonecrusher Giant
-3 Embercleave
-3 Temple of Triumph
-4 Alpine Houndmaster
-4 Sacred Foundry
-4 Selfless Savior
-4 Embercleave
-4 Temple of Triumph
-7 Mountain
-3 Faerie Guidemother
-3 Conclave Tribunal
-4 Conclave Tribunal
-1 Island
-2 Island
-3 Island
-4 Island
-5 Island
-6 Island
-7 Island
-8 Island
-9 Island
-1 Temple of Epiphany
-2 Temple of Epiphany
 1 Temple of Deceit
-1 Temple of Enlightenment
 2 Temple of Deceit
-2 Temple of Enlightenment
 3 Temple of Deceit
-3 Temple of Enlightenment
 4 Temple of Deceit
 10 Island
 11 Island
 12 Island
 1 Persistent Petitioners
 1 Temple of Mystery
+1 Temple of Enlightenment
 2 Temple of Mystery
+2 Temple of Enlightenment
 2 Persistent Petitioners
 3 Temple of Mystery
 3 Temple of Epiphany
+3 Temple of Enlightenment
 3 Persistent Petitioners
 4 Temple of Mystery
 4 Temple of Enlightenment
@@ -221,18 +209,40 @@
 50 Persistent Petitioners
 51 Persistent Petitioners
 52 Persistent Petitioners
-1 Brazen Borrower
-2 Brazen Borrower
+1 Spectral Sailor
+2 Spectral Sailor
+2 Fabled Passage
+3 Spectral Sailor
+4 Spectral Sailor
+1 Sea-Dasher Octopus
+2 Sea-Dasher Octopus
+3 Sea-Dasher Octopus
+4 Sea-Dasher Octopus
+1 Swamp
+2 Swamp
+3 Swamp
+4 Swamp
+1 Castle Locthwain
+5 Swamp
+1 Watery Grave
+1 Brineborn Cutthroat
+1 Cunning Nightbonder
+1 Slitherwisp
+2 Watery Grave
+2 Brineborn Cutthroat
+2 Cunning Nightbonder
+2 Slitherwisp
+3 Watery Grave
+3 Brineborn Cutthroat
+3 Slitherwisp
+4 Watery Grave
+4 Brineborn Cutthroat
+4 Slitherwisp
 2 Castle Locthwain
-1 Tymaret, Chosen from Death
-1 Lurrus of the Dream Den
-1 Gray Merchant of Asphodel
-2 Murderous Rider
-2 Lurrus of the Dream Den
-2 Gray Merchant of Asphodel
+6 Swamp
 1 Knight of the Ebon Legion
-1 Gutterbones
 1 Priest of Forgotten Gods
+1 Gutterbones
 2 Knight of the Ebon Legion
 2 Priest of Forgotten Gods
 2 Gutterbones
@@ -244,6 +254,7 @@
 4 Priest of Forgotten Gods
 4 Knight of the Ebon Legion
 4 Gutterbones
+7 Swamp
 8 Swamp
 9 Swamp
 10 Swamp
@@ -255,37 +266,16 @@
 16 Swamp
 17 Swamp
 18 Swamp
-1 Hallowed Fountain
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-2 Hallowed Fountain
-3 Brazen Borrower
-3 Teferi, Time Raveler
-3 Hallowed Fountain
-4 Brazen Borrower
-4 Teferi, Time Raveler
-4 Hallowed Fountain
+19 Plains
 1 Banishing Light
 2 Banishing Light
 3 Banishing Light
 4 Banishing Light
-1 Spectral Sailor
-2 Spectral Sailor
-3 Spectral Sailor
-4 Spectral Sailor
-1 Temple Garden
-2 Temple Garden
-3 Temple Garden
-4 Temple Garden
-1 Lurrus of the Dream-Den
-2 Lurrus of the Dream-Den
-3 Lurrus of the Dream-Den
-4 Lurrus of the Dream-Den
-19 Plains
-1 Heliod's Intervention
+1 Aurelia, Exemplar of Justice
+2 Aurelia, Exemplar of Justice
 1 Gods Willing
-1 Beloved Princess
 1 Glass Casket
+1 Beloved Princess
 1 Impassioned Orator
 2 Glass Casket
 2 Beloved Princess
@@ -293,25 +283,24 @@
 2 Gods Willing
 3 Gods Willing
 3 Glass Casket
+3 Daxos, Blessed by the Sun
 3 Ajani, Strength of the Pride
 3 Impassioned Orator
-1 Sea-Dasher Octopus
-1 Skycat Sovereign
-2 Sea-Dasher Octopus
-2 Skycat Sovereign
-3 Fabled Passage
-3 Sea-Dasher Octopus
-4 Fabled Passage
-4 Sea-Dasher Octopus
+3 Stormwing Entity
+4 Scorching Dragonfire
+1 Lurrus of the Dream-Den
+2 Lurrus of the Dream-Den
+3 Lurrus of the Dream-Den
+4 Lurrus of the Dream-Den
 1 Serrated Scorpion
 1 Archfiend's Vessel
-1 Call of the Death-Dweller
 1 Mire Triton
 1 Village Rites
 1 Kaya's Ghostform
+1 Call of the Death-Dweller
+2 Call of the Death-Dweller
 2 Serrated Scorpion
 2 Archfiend's Vessel
-2 Call of the Death-Dweller
 2 Mire Triton
 2 Village Rites
 2 Kaya's Ghostform
@@ -325,223 +314,246 @@
 4 Call of the Death-Dweller
 4 Mire Triton
 4 Village Rites
-1 Arboreal Grazer
-1 Fiend Artisan
-1 Temple of Malady
-1 Paradise Druid
-1 Assassin's Trophy
-1 Thrashing Brontodon
-1 Woe Strider
-1 Nightmare Shepherd
-2 Arboreal Grazer
-2 Temple of Malady
-2 Fiend Artisan
-2 Paradise Druid
-2 Assassin's Trophy
-2 Thrashing Brontodon
-2 Nightmare Shepherd
-3 Fiend Artisan
-3 Arboreal Grazer
-3 Temple of Malady
-3 Paradise Druid
-3 Nightmare Shepherd
-4 Arboreal Grazer
-4 Temple of Malady
-4 Fiend Artisan
-4 Paradise Druid
-4 Nightmare Shepherd
+1 Glorious Anthem
+2 Glorious Anthem
+3 Glorious Anthem
+4 Glorious Anthem
+1 Temple Garden
+1 Forest
+2 Forest
+3 Forest
+4 Forest
+5 Forest
+6 Forest
+7 Forest
+1 Field of Ruin
+1 Garruk's Harbinger
+1 Scavenging Ooze
+1 Vivien, Monsters' Advocate
+1 Castle Garenbrig
+1 Pelt Collector
+1 Temple of Plenty
+1 Lovestruck Beast
+1 Prison Realm
+1 Nessian Hornbeetle
+1 Questing Beast
+1 Elder Gargaroth
+2 Field of Ruin
+2 Temple Garden
+2 Garruk's Harbinger
+2 Vivien, Monsters' Advocate
+2 Scavenging Ooze
+2 Questing Beast
+2 Nessian Hornbeetle
+2 Lovestruck Beast
+2 Pelt Collector
+2 Temple of Plenty
+2 Prison Realm
+3 Temple Garden
+3 Field of Ruin
+3 Prison Realm
+3 Vivien, Monsters' Advocate
+3 Pelt Collector
+3 Temple of Plenty
+3 Lovestruck Beast
+3 Questing Beast
+3 Nessian Hornbeetle
+4 Temple Garden
+4 Temple of Plenty
+4 Prison Realm
+4 Lovestruck Beast
+4 Pelt Collector
+4 Nessian Hornbeetle
+1 Pouncing Shoreshark
+1 Lofty Denial
+1 Mystical Dispute
+1 Heartless Act
+1 Dirge Bat
+2 Pouncing Shoreshark
+2 Mystical Dispute
+2 Lofty Denial
+2 Dirge Bat
+2 Heartless Act
+3 Pouncing Shoreshark
+3 Lofty Denial
+3 Mystical Dispute
+3 Dirge Bat
+4 Pouncing Shoreshark
+4 Lofty Denial
+4 Dirge Bat
 1 Cubwarden
 1 Hushbringer
 2 Hushbringer
 2 Cubwarden
 3 Hushbringer
 3 Cubwarden
-4 Castle Ardenvale
+3 Conclave Tribunal
 4 Hushbringer
 4 Cubwarden
-1 Watery Grave
-2 Watery Grave
-3 Watery Grave
-4 Watery Grave
-1 Godless Shrine
-1 Thought Erasure
-1 Mortify
-1 Extinction Event
-1 Dovin's Veto
-1 Chemister's Insight
-1 Kaya, Orzhov Usurper
-1 Agonizing Remorse
-1 Aether Gust
-1 Mystical Dispute
-1 Shark Typhoon
-1 Narset, Parter of Veils
-2 Godless Shrine
-2 Thought Erasure
-2 Mortify
-2 Extinction Event
-2 Dovin's Veto
-2 Chemister's Insight
-2 Shark Typhoon
-2 Narset, Parter of Veils
-2 Aether Gust
-3 Shark Typhoon
-3 Godless Shrine
-3 Thought Erasure
-3 Aether Gust
-3 Narset, Parter of Veils
-4 Shark Typhoon
-4 Godless Shrine
-4 Thought Erasure
-4 Narset, Parter of Veils
-1 Scavenging Ooze
-1 Vivien, Monsters' Advocate
-1 Castle Garenbrig
-1 Pelt Collector
-1 Temple of Plenty
-1 Garruk's Harbinger
-1 Prison Realm
-1 Questing Beast
-1 Field of Ruin
-1 Nessian Hornbeetle
-1 Elder Gargaroth
-2 Vivien, Monsters' Advocate
-2 Scavenging Ooze
-2 Questing Beast
-2 Nessian Hornbeetle
-2 Field of Ruin
-2 Pelt Collector
-2 Temple of Plenty
-2 Prison Realm
-2 Garruk's Harbinger
-3 Field of Ruin
-3 Prison Realm
-3 Vivien, Monsters' Advocate
-3 Pelt Collector
-3 Temple of Plenty
-3 Questing Beast
-3 Nessian Hornbeetle
-4 Temple of Plenty
-4 Prison Realm
-4 Pelt Collector
-4 Nessian Hornbeetle
+4 Conclave Tribunal
+1 Hallowed Fountain
+1 Teferi, Time Raveler
+1 Skycat Sovereign
+2 Teferi, Time Raveler
+2 Hallowed Fountain
+2 Skycat Sovereign
+3 Brazen Borrower
+3 Teferi, Time Raveler
+3 Hallowed Fountain
+3 Fabled Passage
+4 Brazen Borrower
+4 Teferi, Time Raveler
+4 Hallowed Fountain
+4 Fabled Passage
 1 Kenrith, the Returned King
 1 Haktos the Unscarred
 2 Kenrith, the Returned King
 2 Haktos the Unscarred
 3 Winota, Joiner of Forces
 4 Winota, Joiner of Forces
-1 Brineborn Cutthroat
-1 Cunning Nightbonder
-1 Eliminate
+1 Ugin, the Spirit Dragon
+1 Interplanar Beacon
+1 Solemn Simulacrum
+1 Mobilized District
+1 Blast Zone
+1 Karn's Bastion
+1 Crystalline Giant
+1 Steel Overseer
+1 Ugin, the Ineffable
+1 Mystic Forge
+1 Palladium Myr
+1 Radiant Fountain
+2 Ugin, the Spirit Dragon
+2 Mobilized District
+2 Interplanar Beacon
+2 Solemn Simulacrum
+2 Palladium Myr
+2 Radiant Fountain
+2 Mystic Forge
+2 Steel Overseer
+2 Crystalline Giant
+2 Karn's Bastion
+2 Ugin, the Ineffable
+3 Ugin, the Spirit Dragon
+3 Solemn Simulacrum
+3 Interplanar Beacon
+3 Karn's Bastion
+3 Ugin, the Ineffable
+3 Crystalline Giant
+3 Palladium Myr
+3 Mystic Forge
+3 Steel Overseer
+3 Radiant Fountain
+4 Ugin, the Spirit Dragon
+4 Solemn Simulacrum
+4 Interplanar Beacon
+4 Karn's Bastion
+4 Crystalline Giant
+4 Mystic Forge
+4 Ugin, the Ineffable
+4 Palladium Myr
+4 Radiant Fountain
+4 Steel Overseer
 1 Liliana's Standard Bearer
+1 Eliminate
 1 Thieves' Guild Enforcer
 1 Stern Dismissal
 1 Blacklance Paragon
 1 Omen of the Sea
 1 Unsummon
-1 Slitherwisp
-2 Brineborn Cutthroat
-2 Eliminate
-2 Cunning Nightbonder
 2 Liliana's Standard Bearer
+2 Eliminate
 2 Unsummon
 2 Omen of the Sea
-2 Slitherwisp
 2 Blacklance Paragon
 2 Thieves' Guild Enforcer
-3 Blacklance Paragon
-3 Brineborn Cutthroat
 3 Eliminate
 3 Cunning Nightbonder
 3 Liliana's Standard Bearer
 3 Omen of the Sea
-3 Slitherwisp
 3 Thieves' Guild Enforcer
+3 Blacklance Paragon
 3 Unsummon
-4 Blacklance Paragon
-4 Brineborn Cutthroat
-4 Cunning Nightbonder
 4 Eliminate
+4 Cunning Nightbonder
 4 Omen of the Sea
-4 Slitherwisp
+4 Blacklance Paragon
 4 Thieves' Guild Enforcer
 4 Liliana's Standard Bearer
-1 Emmara, Soul of the Accord
-1 Edgewall Innkeeper
-1 March of the Multitudes
-1 Shepherd of the Flock
-2 Edgewall Innkeeper
-2 March of the Multitudes
-2 Shepherd of the Flock
-2 Emmara, Soul of the Accord
-3 Shepherd of the Flock
-3 Edgewall Innkeeper
-3 March of the Multitudes
-4 Edgewall Innkeeper
-4 Faerie Guidemother
-4 March of the Multitudes
-1 Opt
-1 Shock
-1 Crackling Drake
-1 Steam Vents
-1 Thrill of Possibility
-1 Scorching Dragonfire
-1 Frantic Inventory
-1 Crash Through
-1 Beacon Bolt
-1 Sprite Dragon
-1 Pteramander
-1 Stormwing Entity
-2 Opt
-2 Shock
-2 Sprite Dragon
-2 Stormwing Entity
-2 Steam Vents
-2 Frantic Inventory
-2 Pteramander
-2 Crash Through
-2 Thrill of Possibility
-2 Crackling Drake
-2 Scorching Dragonfire
-3 Opt
-3 Shock
-3 Scorching Dragonfire
-3 Sprite Dragon
-3 Thrill of Possibility
-3 Frantic Inventory
-3 Pteramander
-3 Steam Vents
-3 Crash Through
-4 Opt
-4 Thrill of Possibility
-4 Sprite Dragon
-4 Steam Vents
-4 Pteramander
-4 Crash Through
-4 Frantic Inventory
-4 Shock
-1 Seasoned Hallowblade
-2 Seasoned Hallowblade
-3 Seasoned Hallowblade
-3 Tajic, Legion's Edge
-4 Gingerbrute
-4 Seasoned Hallowblade
-4 Bonecrusher Giant
-8 Mountain
+1 Savai Triome
+1 Fiend Artisan
+1 Godless Shrine
+1 Splendor Mare
+1 Imposing Vantasaur
+1 Chance for Glory
+1 Flourishing Fox
+1 Drannith Stinger
+1 Memory Leak
+1 Valiant Rescuer
+1 Blood Crypt
+1 Drannith Healer
+1 Zenith Flare
+1 Footfall Crater
+2 Savai Triome
+2 Fiend Artisan
+2 Godless Shrine
+2 Splendor Mare
+2 Imposing Vantasaur
+2 Blood Crypt
+2 Memory Leak
+2 Valiant Rescuer
+2 Drannith Stinger
+2 Drannith Healer
+2 Zenith Flare
+2 Footfall Crater
+2 Flourishing Fox
+3 Savai Triome
+3 Fiend Artisan
+3 Godless Shrine
+3 Imposing Vantasaur
+3 Flourishing Fox
+3 Drannith Stinger
+3 Memory Leak
+3 Blood Crypt
+3 Drannith Healer
+3 Zenith Flare
+3 Footfall Crater
+3 Valiant Rescuer
+3 Splendor Mare
+4 Savai Triome
+4 Godless Shrine
+4 Imposing Vantasaur
+4 Fiend Artisan
+4 Splendor Mare
+4 Zenith Flare
+4 Memory Leak
+4 Flourishing Fox
+4 Valiant Rescuer
+4 Drannith Stinger
+4 Blood Crypt
+4 Drannith Healer
+4 Footfall Crater
 1 Rankle, Master of Pranks
+1 Murderous Rider
+1 Soul-Guide Lantern
 1 Cavalier of Night
 1 Bolas's Citadel
-1 Soul-Guide Lantern
+1 Lurrus of the Dream Den
+1 Tymaret, Chosen from Death
 1 Ayara, First of Locthwain
+1 Gray Merchant of Asphodel
 1 Yarok's Fenlurker
 2 Soul-Guide Lantern
 2 Bolas's Citadel
-2 Yarok's Fenlurker
+2 Murderous Rider
+2 Gray Merchant of Asphodel
 2 Ayara, First of Locthwain
+2 Lurrus of the Dream Den
+2 Yarok's Fenlurker
 3 Yarok's Fenlurker
 3 Murderous Rider
-3 Lurrus of the Dream Den
 3 Gray Merchant of Asphodel
+3 Lurrus of the Dream Den
 4 Yarok's Fenlurker
 4 Murderous Rider
 4 Gray Merchant of Asphodel
@@ -588,6 +600,9 @@
 58 Plains
 59 Plains
 60 Plains
+8 Forest
+9 Forest
+10 Forest
 11 Forest
 12 Forest
 13 Forest

@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                    1|[Manic Scribe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409816)        |                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)       |
-|                    2|[Manic Scribe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409816)        |                    1|[Set Adrift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386661)              |
+|                    1|[Manic Scribe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409816)        |                    1|[Set Adrift](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386661)              |
+|                    2|[Manic Scribe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409816)        |                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)       |
 |                    3|[Manic Scribe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409816)        |                    1|[Extirpate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370384)               |
 |                    4|[Drown in the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473150)   |                    2|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)           |
 |                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|                    1|[Stern Dismissal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476319)         |
@@ -61,6 +61,6 @@
 |                    4|[Darkslick Shores](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209400)    |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)       |
 |                    1|Breaking / Entering                                                                            |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)       |
 |                    4|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)        |
-|                    4|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)       |                    2|[Crypt Incursion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369056)         |
-|                    4|[Manic Scribe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409816)        |                    3|[Vampiric Link](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122366)           |
+|                    4|[Manic Scribe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409816)        |                    2|[Crypt Incursion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=369056)         |
+|                    4|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)       |                    3|[Vampiric Link](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122366)           |
 

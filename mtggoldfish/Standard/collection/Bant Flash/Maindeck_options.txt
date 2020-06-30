@@ -1,28 +1,29 @@
-3 Island
+2 Dovin's Veto
 3 Uro, Titan of Nature's Wrath
-1 Frilled Mystic
 2 Temple of Mystery
 2 Temple of Plenty
-1 Spectral Sailor
+1 Frilled Mystic
+3 Dovin's Veto
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
-3 Dovin's Veto
 3 Forest
+1 Spectral Sailor
+3 Temple of Mystery
 2 Frilled Mystic
 3 Frilled Mystic
-3 Temple of Mystery
-1 Wilt
 4 Temple of Mystery
 3 Nissa, Who Shakes the World
-1 Quench
-2 Quench
+4 Aether Gust
 4 Island
 4 Forest
 5 Island
 6 Island
-4 Aether Gust
+1 Wilt
+5 Forest
+6 Forest
+1 Quench
+2 Quench
 1 Elspeth Conquers Death
-1 Neutralize
 1 Chemister's Insight
 2 Wilt
 3 Negate
@@ -37,13 +38,9 @@
 2 Brineborn Cutthroat
 3 Brineborn Cutthroat
 4 Brineborn Cutthroat
-5 Forest
-6 Forest
 1 Hydroid Krasis
 2 Plains
 2 Elspeth Conquers Death
-2 Neutralize
-3 Temple of Enlightenment
 1 Boon of the Wish-Giver
 1 Indatha Triome
 1 Zagoth Triome
@@ -53,6 +50,9 @@
 2 Boon of the Wish-Giver
 2 Zagoth Triome
 3 Glass Casket
+1 Neutralize
+2 Neutralize
+3 Temple of Enlightenment
 1 Hero of Precinct One
 1 Flower/Flourish
 2 Flower/Flourish
@@ -95,6 +95,16 @@
 4 Frilled Mystic
 4 Quench
 4 Sea-Dasher Octopus
+1 Gilded Goose
+1 Rewind
+1 Lofty Denial
+2 Gilded Goose
+2 Rewind
+2 Lofty Denial
+3 Rewind
+3 Lofty Denial
+4 Lofty Denial
+4 Rewind
 1 Mystic Subdual
 3 Sinister Sabotage
 7 Forest
