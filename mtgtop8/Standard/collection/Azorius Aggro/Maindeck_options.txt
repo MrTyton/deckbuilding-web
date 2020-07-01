@@ -45,6 +45,18 @@
 2 Gingerbrute
 3 Gingerbrute
 4 Gingerbrute
+1 Faerie Guidemother
+1 Ardenvale Tactician
+1 Faerie Miscreant
+1 Gust of Wind
+2 Faerie Guidemother
+2 Ardenvale Tactician
+2 Faerie Miscreant
+2 Gust of Wind
+3 Faerie Guidemother
+3 Faerie Miscreant
+4 Faerie Guidemother
+4 Faerie Miscreant
 1 Loyal Pegasus
 1 Cloudkin Seer
 2 Loyal Pegasus
@@ -59,18 +71,6 @@
 4 Loyal Pegasus
 4 Skycat Sovereign
 4 Spectral Sailor
-1 Faerie Guidemother
-1 Ardenvale Tactician
-1 Faerie Miscreant
-1 Gust of Wind
-2 Faerie Guidemother
-2 Ardenvale Tactician
-2 Faerie Miscreant
-2 Gust of Wind
-3 Faerie Guidemother
-3 Faerie Miscreant
-4 Faerie Miscreant
-4 Faerie Guidemother
 1 Ajani's Pridemate
 1 Ajani, Strength of the Pride
 1 Impassioned Orator
@@ -114,8 +114,8 @@
 4 Omen of the Sea
 4 All That Glitters
 4 Karametra's Blessing
-1 Vulpikeet
 1 Lazotep Plating
+1 Vulpikeet
 1 Stonecoil Serpent
 1 Cubwarden
 1 Huntmaster Liger

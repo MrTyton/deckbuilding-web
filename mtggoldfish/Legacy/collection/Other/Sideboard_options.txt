@@ -1,13 +1,13 @@
-1 Phyrexian Revoker
 1 Plague Engineer
 2 Plague Engineer
-1 Force of Vigor
+1 Phyrexian Revoker
 1 Surgical Extraction
-2 Force of Vigor
+1 Force of Vigor
 1 Veil of Summer
 1 Carpet of Flowers
-2 Carpet of Flowers
 2 Surgical Extraction
+2 Force of Vigor
+2 Carpet of Flowers
 1 Force of Negation
 1 Walking Ballista
 1 Collector Ouphe
@@ -15,46 +15,38 @@
 3 Force of Vigor
 4 Force of Vigor
 1 Ancient Tomb
-1 Grafdigger's Cage
-1 Blood Moon
-1 Abrade
-1 Wasteland
-1 Arcane Artisan
-1 Omniscience
-2 Wasteland
-2 Grafdigger's Cage
-2 Omniscience
-2 Blood Moon
-2 Abrade
-2 Arcane Artisan
-3 Abrade
-3 Blood Moon
 1 Mindbreak Trap
 2 Mindbreak Trap
 1 Primeval Titan
-1 Tormod's Crypt
-1 Drown in the Loch
-2 Drown in the Loch
 1 Nihil Spellbomb
+1 Tormod's Crypt
+1 Flusterstorm
+1 Pyroblast
+1 Mystical Dispute
+1 Lutri, the Spellchaser
+1 Red Elemental Blast
+1 Null Rod
+1 Disenchant
 1 Ensnaring Bridge
 1 Lion's Eye Diamond
 1 Mycosynth Lattice
-1 Disenchant
 1 Containment Priest
+1 Drown in the Loch
+2 Drown in the Loch
+3 Plague Engineer
 2 Disenchant
 1 Liquimetal Coating
 1 Glass Casket
 2 Containment Priest
-3 Plague Engineer
 1 Engineered Explosives
-1 Flusterstorm
 1 Hydroblast
+1 Grafdigger's Cage
 1 Izzet Staticaster
-1 Red Elemental Blast
-1 Pyroblast
-1 Lutri, the Spellchaser
-1 Null Rod
-1 Mystical Dispute
+1 Hymn to Tourach
+1 Abrade
+1 Blood Moon
+1 Cabal Therapy
+2 Cabal Therapy
 1 Damping Sphere
 1 Blue Elemental Blast
 1 Sorcerous Spyglass
@@ -62,6 +54,10 @@
 1 Reclamation Sage
 1 Chandra, Awakened Inferno
 1 Deafening Silence
+1 Vendilion Clique
+1 Soul-Guide Lantern
+1 Painful Truths
+1 Pernicious Deed
 1 Wispmare
 1 Peacekeeper
 2 Walking Ballista
@@ -72,20 +68,19 @@
 1 Kaheera, the Orphanguard
 1 Nether Void
 1 Choke
-2 Choke
 2 Liliana's Triumph
-1 Oko, Thief of Crowns
-1 Grand Architect
-1 Tablet of the Guilds
-2 Tormod's Crypt
+2 Choke
 1 Return to Nature
 1 Ashiok, Dream Render
 2 Nihil Spellbomb
 2 Force of Negation
+1 Oko, Thief of Crowns
+1 Grand Architect
+1 Tablet of the Guilds
+2 Tormod's Crypt
 1 Pithing Needle
-1 Hymn to Tourach
-1 Back to Basics
 1 Wilt
+1 Back to Basics
 2 Back to Basics
 2 Mystical Dispute
 1 Stoneforge Mystic
@@ -112,8 +107,8 @@
 2 Oblivion Ring
 3 Swords to Plowshares
 1 Sylvan Safekeeper
-1 Griselbrand
 1 Dark Depths
+1 Griselbrand
 1 Thespian's Stage
 1 Vampire Hexmage
 1 Children of Korlis
@@ -127,6 +122,11 @@
 1 Gyruda, Doom of Depths
 1 Winter Orb
 3 Containment Priest
+2 Null Rod
+2 Blood Moon
+2 Pyroblast
+2 Abrade
+3 Surgical Extraction
 1 From the Ashes
 1 Force of Will
 2 Force of Will
@@ -147,24 +147,22 @@
 3 Searing Blood
 3 Smash to Smithereens
 4 Smash to Smithereens
+1 Assassin's Trophy
+1 Rotting Regisaur
 1 Archetype of Endurance
 1 Abrupt Decay
 1 Reverent Silence
-1 Rotting Regisaur
-1 Assassin's Trophy
+2 Rotting Regisaur
 2 Archetype of Endurance
 2 Abrupt Decay
 2 Reverent Silence
 2 Assassin's Trophy
-2 Rotting Regisaur
-3 Reverent Silence
 3 Rotting Regisaur
+3 Reverent Silence
 4 Rotting Regisaur
 4 Reverent Silence
 1 Anger
-1 Death's Shadow
 1 Shenanigans
-1 Cabal Therapy
-2 Cabal Therapy
+1 Death's Shadow
 3 Cabal Therapy
 4 Cabal Therapy

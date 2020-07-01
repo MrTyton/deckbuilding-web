@@ -1,16 +1,16 @@
+3 Heraldic Banner
 4 Heraldic Banner
 4 Hunted Nightmare
-2 Rankle, Master of Pranks
-4 Murderous Rider
 1 Stonecoil Serpent
 1 Spawn of Mayhem
 2 Stonecoil Serpent
 2 Spawn of Mayhem
 1 Ayara, First of Locthwain
+4 Murderous Rider
 1 Midnight Reaper
 1 Yarok's Fenlurker
-2 Ayara, First of Locthwain
 2 Yarok's Fenlurker
+2 Ayara, First of Locthwain
 2 Tymaret, Chosen from Death
 3 Spawn of Mayhem
 4 Spawn of Mayhem
@@ -23,13 +23,17 @@
 1 Duress
 2 Duress
 1 Dread Presence
+1 Priest of Forgotten Gods
 21 Swamp
 2 Fiend Artisan
 1 Gray Merchant of Asphodel
 2 Gray Merchant of Asphodel
 3 Gray Merchant of Asphodel
+2 Priest of Forgotten Gods
+3 Priest of Forgotten Gods
 3 Nightmare Shepherd
 2 Dread Presence
+1 Call of the Death-Dweller
 1 Shadowspear
 2 Shadowspear
 1 Blacklance Paragon
@@ -39,14 +43,11 @@
 2 Agonizing Remorse
 3 Agonizing Remorse
 4 Agonizing Remorse
-1 Priest of Forgotten Gods
 2 Midnight Reaper
 4 Gray Merchant of Asphodel
-2 Priest of Forgotten Gods
-3 Priest of Forgotten Gods
 3 Fiend Artisan
 4 Fiend Artisan
-1 Call of the Death-Dweller
+4 Priest of Forgotten Gods
 1 Cauldron Familiar
 1 Witch's Oven
 2 Cauldron Familiar
@@ -54,6 +55,7 @@
 3 Witch's Oven
 3 Cauldron Familiar
 4 Cauldron Familiar
+2 Call of the Death-Dweller
 4 Nightmare Shepherd
 1 Heartless Act
 2 Heartless Act
@@ -61,12 +63,8 @@
 3 Stonecoil Serpent
 4 Stonecoil Serpent
 3 Duress
-4 Priest of Forgotten Gods
 3 Ayara, First of Locthwain
 3 Rankle, Master of Pranks
-1 Lurrus of the Dream-Den
-2 Lurrus of the Dream-Den
-3 Lurrus of the Dream-Den
 1 Lazotep Reaver
 2 Lazotep Reaver
 3 Lazotep Reaver
@@ -78,12 +76,13 @@
 2 Kaya's Ghostform
 2 Hateful Eidolon
 2 Dead Weight
+1 Woe Strider
+2 Woe Strider
 1 Erebos's Intervention
 1 Vampire of the Dire Moon
 2 Vampire of the Dire Moon
 3 Vampire of the Dire Moon
 4 Vampire of the Dire Moon
-2 Call of the Death-Dweller
 1 Grimdancer
 1 Witch's Cottage
 2 Witch's Cottage
@@ -93,24 +92,21 @@
 2 Bloodthirsty Aerialist
 3 Bloodthirsty Aerialist
 4 Bloodthirsty Aerialist
-1 Obosh, the Preypiercer
 3 Mobilized District
 1 Order of Midnight
 3 Heartless Act
 3 Shadowspear
 3 Dead Weight
 3 Hateful Eidolon
-1 Woe Strider
 2 Erebos's Intervention
-2 Woe Strider
 3 Woe Strider
 1 Lampad of Death's Vigil
 1 Cruel Celebrant
 1 Orzhov Guildgate
 1 Soul-Guide Lantern
 1 Scoured Barrens
-1 Burglar Rat
 1 Mire's Grasp
+1 Burglar Rat
 1 Plains
 2 Lampad of Death's Vigil
 2 Cruel Celebrant
@@ -122,6 +118,24 @@
 3 Lampad of Death's Vigil
 4 Scoured Barrens
 4 Orzhov Guildgate
+1 Lurrus of the Dream Den
+1 Village Rites
+1 Archfiend's Vessel
+1 Mire Triton
+2 Village Rites
+2 Lurrus of the Dream Den
+2 Archfiend's Vessel
+2 Mire Triton
+3 Call of the Death-Dweller
+3 Lurrus of the Dream Den
+3 Village Rites
+3 Archfiend's Vessel
+3 Mire Triton
+4 Call of the Death-Dweller
+4 Village Rites
+4 Archfiend's Vessel
+4 Lurrus of the Dream Den
+4 Mire Triton
 1 Demonic Embrace
 1 Eliminate
 1 Kitesail Freebooter
@@ -137,9 +151,9 @@
 2 Foulmire Knight
 3 Foulmire Knight
 4 Foulmire Knight
-1 Omen of the Dead
 1 Dreadhorde Invasion
 1 Spark Harvest
+1 Omen of the Dead
 1 Murder
 1 Boot Nipper
 1 Sorin's Thirst
@@ -167,9 +181,12 @@
 2 Disfigure
 4 Grimdancer
 1 Footlight Fiend
+1 Lurrus of the Dream-Den
 1 Banehound
 2 Footlight Fiend
+2 Lurrus of the Dream-Den
 2 Banehound
+3 Lurrus of the Dream-Den
 3 Footlight Fiend
 3 Banehound
 4 Footlight Fiend
