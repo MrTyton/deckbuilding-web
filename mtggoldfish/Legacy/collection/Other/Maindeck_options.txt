@@ -316,8 +316,8 @@
 1 Hymn to Tourach
 1 Cabal Pit
 1 Hissing Quagmire
-1 Smallpox
 1 Mutavault
+1 Smallpox
 1 Sinkhole
 2 Hymn to Tourach
 2 Liliana of the Veil
@@ -327,13 +327,13 @@
 2 Sinkhole
 2 Life from the Loam
 3 Hymn to Tourach
-3 Smallpox
 3 Liliana of the Veil
+3 Smallpox
 3 Mutavault
 3 Sinkhole
 4 Hymn to Tourach
-4 Smallpox
 4 Liliana of the Veil
+4 Smallpox
 4 Mutavault
 1 Urza's Bauble
 1 Wishclaw Talisman
@@ -384,19 +384,19 @@
 3 True-Name Nemesis
 4 True-Name Nemesis
 2 Island
+1 Spellstutter Sprite
 1 Sea-Dasher Octopus
 1 Spectral Sailor
-1 Spellstutter Sprite
 1 Cunning Nightbonder
 1 Brineborn Cutthroat
 1 Spell Queller
 1 Aether Vial
 1 Mother of Runes
 1 Stonecloaker
-2 Sea-Dasher Octopus
-2 Spectral Sailor
-2 Cunning Nightbonder
 2 Spellstutter Sprite
+2 Spectral Sailor
+2 Sea-Dasher Octopus
+2 Cunning Nightbonder
 2 Brineborn Cutthroat
 2 Spell Queller
 2 Aether Vial
@@ -476,9 +476,9 @@
 4 Mishra's Bauble
 4 Urza, Lord High Artificer
 1 Shallow Grave
+1 Vampire Hexmage
 1 Unburial Rites
 1 Children of Korlis
-1 Vampire Hexmage
 1 Dark Ritual
 2 Dark Depths
 2 Shallow Grave
@@ -498,8 +498,8 @@
 1 Carrion Feeder
 1 Overgrown Tomb
 1 Vengevine
-1 Stitcher's Supplier
 1 Gravecrawler
+1 Stitcher's Supplier
 1 Dread Return
 1 Golgari Grave-Troll
 1 Death's Shadow
@@ -510,8 +510,8 @@
 2 Carrion Feeder
 2 Overgrown Tomb
 2 Vengevine
-2 Gravecrawler
 2 Stitcher's Supplier
+2 Gravecrawler
 2 Blood Crypt
 2 Hogaak, Arisen Necropolis
 2 Satyr Wayfinder

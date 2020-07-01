@@ -96,43 +96,43 @@
 3 Kaya's Ghostform
 1 Blacklance Paragon
 1 Savai Triome
-1 Knight of the Ebon Legion
+1 Venerable Knight
 1 Blood Crypt
 1 Fervent Champion
 1 Worthy Knight
-1 Venerable Knight
 1 Stormfist Crusader
 1 Inspiring Veteran
 1 Tournament Grounds
 1 Sacred Foundry
 1 Fight as One
-2 Stormfist Crusader
-2 Blacklance Paragon
-2 Blood Crypt
-2 Knight of the Ebon Legion
-2 Fervent Champion
+1 Knight of the Ebon Legion
 2 Venerable Knight
+2 Blood Crypt
+2 Fervent Champion
 2 Sacred Foundry
+2 Knight of the Ebon Legion
 2 Worthy Knight
 2 Inspiring Veteran
 2 Tournament Grounds
 2 Fight as One
+2 Blacklance Paragon
+2 Stormfist Crusader
+3 Tournament Grounds
+3 Venerable Knight
 3 Blood Crypt
-3 Knight of the Ebon Legion
+3 Fight as One
 3 Fervent Champion
 3 Worthy Knight
-3 Venerable Knight
 3 Sacred Foundry
-3 Fight as One
-3 Tournament Grounds
+3 Knight of the Ebon Legion
 3 Inspiring Veteran
-4 Fight as One
-4 Blood Crypt
-4 Knight of the Ebon Legion
-4 Fervent Champion
 4 Tournament Grounds
-4 Worthy Knight
 4 Venerable Knight
+4 Blood Crypt
+4 Fight as One
+4 Fervent Champion
+4 Knight of the Ebon Legion
+4 Worthy Knight
 4 Inspiring Veteran
 4 Sacred Foundry
 1 Tymaret, Chosen from Death
@@ -153,16 +153,6 @@
 2 Unbreakable Formation
 3 Skyknight Vanguard
 4 Skyknight Vanguard
-1 Order of Midnight
-1 Smitten Swordmaster
-2 Order of Midnight
-2 Smitten Swordmaster
-3 Stormfist Crusader
-3 Blacklance Paragon
-3 Smitten Swordmaster
-4 Smitten Swordmaster
-4 Stormfist Crusader
-4 Blacklance Paragon
 2 Lampad of Death's Vigil
 4 Call of the Death-Dweller
 1 Erebos's Intervention
@@ -170,20 +160,20 @@
 1 Dawn of Hope
 3 Omen of the Dead
 4 Omen of the Dead
-1 Aphemia, the Cacophony
+1 Karametra's Blessing
 1 Overgrown Tomb
 1 Temple Garden
-1 Drill Bit
 1 Stonecoil Serpent
-1 Karametra's Blessing
+1 Aphemia, the Cacophony
+1 Drill Bit
 1 Mythos of Nethroi
-2 Aphemia, the Cacophony
+2 Karametra's Blessing
 2 Temple Garden
 2 Overgrown Tomb
-2 Drill Bit
 2 Stonecoil Serpent
-2 Karametra's Blessing
+2 Aphemia, the Cacophony
 2 Mythos of Nethroi
+2 Drill Bit
 3 All That Glitters
 3 Stonecoil Serpent
 3 Dead Weight
@@ -191,6 +181,16 @@
 4 All That Glitters
 4 Stonecoil Serpent
 4 Dead Weight
+1 Order of Midnight
+1 Smitten Swordmaster
+2 Order of Midnight
+2 Smitten Swordmaster
+3 Blacklance Paragon
+3 Smitten Swordmaster
+3 Stormfist Crusader
+4 Blacklance Paragon
+4 Smitten Swordmaster
+4 Stormfist Crusader
 1 Whisper Squad
 2 Whisper Squad
 3 Fiend Artisan
@@ -198,20 +198,20 @@
 4 Fiend Artisan
 4 Whisper Squad
 1 Shadowspear
+1 Memory Leak
 1 Pilfering Imp
 1 Boot Nipper
-1 Memory Leak
 1 Murder
-2 Murder
 2 Memory Leak
+2 Murder
 4 Kaya's Ghostform
 1 Luminous Broodmoth
 1 Midnight Reaper
 1 Bastion of Remembrance
-2 Bolas's Citadel
 2 Bastion of Remembrance
-2 Midnight Reaper
+2 Bolas's Citadel
 2 Luminous Broodmoth
+2 Midnight Reaper
 3 Midnight Reaper
 3 Luminous Broodmoth
 3 Bastion of Remembrance
