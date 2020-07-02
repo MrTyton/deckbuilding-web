@@ -1,50 +1,42 @@
-3 Heraldic Banner
-4 Heraldic Banner
-4 Hunted Nightmare
-1 Stonecoil Serpent
-1 Spawn of Mayhem
-2 Stonecoil Serpent
-2 Spawn of Mayhem
+3 Spawn of Mayhem
+4 Spawn of Mayhem
 1 Ayara, First of Locthwain
-4 Murderous Rider
 1 Midnight Reaper
 1 Yarok's Fenlurker
 2 Ayara, First of Locthwain
 2 Yarok's Fenlurker
+4 Murderous Rider
+1 Duress
+2 Duress
 2 Tymaret, Chosen from Death
-3 Spawn of Mayhem
-4 Spawn of Mayhem
-2 Mobilized District
+1 Dread Presence
+1 Priest of Forgotten Gods
+1 Whisper Squad
+2 Whisper Squad
+3 Whisper Squad
+4 Whisper Squad
+1 Heraldic Banner
+2 Hunted Nightmare
+2 Heraldic Banner
+3 Hunted Nightmare
+3 Heraldic Banner
+4 Heraldic Banner
+4 Hunted Nightmare
+1 Shadowspear
+2 Shadowspear
+2 Priest of Forgotten Gods
+3 Priest of Forgotten Gods
 1 Nightmare Shepherd
 2 Nightmare Shepherd
+2 Dread Presence
 3 Yarok's Fenlurker
 4 Yarok's Fenlurker
 1 Fiend Artisan
-1 Duress
-2 Duress
-1 Dread Presence
-1 Priest of Forgotten Gods
-21 Swamp
-2 Fiend Artisan
-1 Gray Merchant of Asphodel
-2 Gray Merchant of Asphodel
-3 Gray Merchant of Asphodel
-2 Priest of Forgotten Gods
-3 Priest of Forgotten Gods
-3 Nightmare Shepherd
-2 Dread Presence
 1 Call of the Death-Dweller
-1 Shadowspear
-2 Shadowspear
-1 Blacklance Paragon
-2 Blacklance Paragon
-3 Blacklance Paragon
-1 Agonizing Remorse
-2 Agonizing Remorse
-3 Agonizing Remorse
-4 Agonizing Remorse
-2 Midnight Reaper
-4 Gray Merchant of Asphodel
+3 Stonecoil Serpent
+4 Stonecoil Serpent
+3 Rankle, Master of Pranks
+2 Fiend Artisan
 3 Fiend Artisan
 4 Fiend Artisan
 4 Priest of Forgotten Gods
@@ -55,16 +47,34 @@
 3 Witch's Oven
 3 Cauldron Familiar
 4 Cauldron Familiar
+21 Swamp
+1 Gray Merchant of Asphodel
+2 Gray Merchant of Asphodel
+3 Gray Merchant of Asphodel
 2 Call of the Death-Dweller
+3 Nightmare Shepherd
 4 Nightmare Shepherd
+1 Demonic Embrace
+1 Eliminate
+1 Kitesail Freebooter
+2 Demonic Embrace
+2 Eliminate
+2 Kitesail Freebooter
+3 Demonic Embrace
+3 Eliminate
+3 Kitesail Freebooter
+4 Kitesail Freebooter
 1 Heartless Act
 2 Heartless Act
 4 Blacklance Paragon
-3 Stonecoil Serpent
-4 Stonecoil Serpent
+1 Agonizing Remorse
+2 Agonizing Remorse
+3 Agonizing Remorse
+4 Agonizing Remorse
 3 Duress
 3 Ayara, First of Locthwain
-3 Rankle, Master of Pranks
+4 Gray Merchant of Asphodel
+2 Midnight Reaper
 1 Lazotep Reaver
 2 Lazotep Reaver
 3 Lazotep Reaver
@@ -76,9 +86,6 @@
 2 Kaya's Ghostform
 2 Hateful Eidolon
 2 Dead Weight
-1 Woe Strider
-2 Woe Strider
-1 Erebos's Intervention
 1 Vampire of the Dire Moon
 2 Vampire of the Dire Moon
 3 Vampire of the Dire Moon
@@ -98,8 +105,6 @@
 3 Shadowspear
 3 Dead Weight
 3 Hateful Eidolon
-2 Erebos's Intervention
-3 Woe Strider
 1 Lampad of Death's Vigil
 1 Cruel Celebrant
 1 Orzhov Guildgate
@@ -119,13 +124,15 @@
 4 Scoured Barrens
 4 Orzhov Guildgate
 1 Archfiend's Vessel
-1 Village Rites
 1 Lurrus of the Dream Den
+1 Village Rites
+1 Woe Strider
 1 Mire Triton
 2 Village Rites
 2 Archfiend's Vessel
 2 Lurrus of the Dream Den
 2 Mire Triton
+2 Woe Strider
 3 Call of the Death-Dweller
 3 Archfiend's Vessel
 3 Lurrus of the Dream Den
@@ -136,16 +143,6 @@
 4 Village Rites
 4 Lurrus of the Dream Den
 4 Mire Triton
-1 Demonic Embrace
-1 Eliminate
-1 Kitesail Freebooter
-2 Demonic Embrace
-2 Eliminate
-2 Kitesail Freebooter
-3 Demonic Embrace
-3 Eliminate
-3 Kitesail Freebooter
-4 Kitesail Freebooter
 1 Foulmire Knight
 1 Erebos, Bleak-Hearted
 2 Foulmire Knight
@@ -182,6 +179,7 @@
 4 Grimdancer
 1 Footlight Fiend
 1 Lurrus of the Dream-Den
+1 Erebos's Intervention
 1 Banehound
 2 Footlight Fiend
 2 Lurrus of the Dream-Den

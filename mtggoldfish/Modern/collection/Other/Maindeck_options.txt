@@ -163,8 +163,8 @@
 1 Sprite Dragon
 1 Darkslick Shores
 1 Lurrus of the Dream Den
-2 Sprite Dragon
 2 Lurrus of the Dream Den
+2 Sprite Dragon
 2 Darkslick Shores
 3 Sprite Dragon
 3 Lurrus of the Dream Den
@@ -334,8 +334,8 @@
 4 Ice-Fang Coatl
 1 Sacred Foundry
 1 Plains
-1 Teferi, Time Raveler
 1 Noble Hierarch
+1 Teferi, Time Raveler
 1 Temple Garden
 2 Noble Hierarch
 3 Noble Hierarch
@@ -395,8 +395,8 @@
 2 Smallpox
 2 Ransack the Lab
 3 Cling to Dust
-3 Young Pyromancer
 3 Marsh Flats
+3 Young Pyromancer
 3 Seasoned Pyromancer
 3 Lingering Souls
 3 Kaya, Orzhov Usurper
@@ -458,8 +458,8 @@
 4 Sling-Gang Lieutenant
 4 Skirk Prospector
 4 Putrid Goblin
-1 Through the Breach
 1 Emrakul, the Aeons Torn
+1 Through the Breach
 1 Izzet Charm
 1 Arcum's Astrolabe
 1 Fact or Fiction
@@ -475,9 +475,9 @@
 3 Arcum's Astrolabe
 3 Remand
 3 Emrakul, the Aeons Torn
-4 Emrakul, the Aeons Torn
 4 Through the Breach
 4 Remand
+4 Emrakul, the Aeons Torn
 4 Arcum's Astrolabe
 1 Elvish Mystic
 1 Llanowar Elves
@@ -527,8 +527,8 @@
 3 Collected Company
 3 Dwynen's Elite
 3 Forest
-4 Nurturing Peatland
 4 Heritage Druid
+4 Nurturing Peatland
 4 Winding Way
 4 Elvish Mystic
 4 Gilt-Leaf Palace
@@ -541,7 +541,6 @@
 1 Narset, Parter of Veils
 1 Notion Thief
 1 Vendilion Clique
-1 Snapback
 1 Day's Undoing
 1 Geier Reach Sanitarium
 1 Commit/Memory
@@ -549,6 +548,7 @@
 1 Disrupting Shoal
 1 Mikokoro, Center of the Sea
 1 Commandeer
+1 Snapback
 1 Thing in the Ice
 1 Mistvein Borderpost
 2 Spell Pierce

@@ -1,5 +1,4 @@
 1 Volcanic Island
-2 Sylvan Library
 1 Scalding Tarn
 1 Jace, the Mind Sculptor
 4 Polluted Delta
@@ -10,10 +9,10 @@
 2 Drown in the Loch
 1 Assassin's Trophy
 1 Cling to Dust
+2 Sylvan Library
 4 Prismatic Vista
 1 Lightning Bolt
 1 Verdant Catacombs
-4 Uro, Titan of Nature's Wrath
 4 Snow-Covered Island
 2 Baleful Strix
 1 Teferi, Time Raveler
@@ -21,10 +20,10 @@
 2 Tropical Island
 2 Scalding Tarn
 1 Grove of the Burnwillows
-1 Toxic Deluge
-1 Pyroblast
 1 Fatal Push
+1 Pyroblast
 1 Dack Fayden
+1 Toxic Deluge
 1 Badlands
 1 Punishing Fire
 2 Assassin's Trophy
@@ -38,6 +37,7 @@
 3 Cling to Dust
 3 Dack Fayden
 4 Assassin's Trophy
+4 Uro, Titan of Nature's Wrath
 1 Spell Pierce
 2 Flooded Strand
 2 Spell Pierce
@@ -50,14 +50,11 @@
 3 Baleful Strix
 4 Baleful Strix
 4 Oko, Thief of Crowns
-1 Back to Basics
 1 Plague Engineer
 1 Sevinne's Reclamation
 1 Snow-Covered Mountain
-2 Dead of Winter
-1 Veil of Summer
-1 Abundant Growth
 1 Preordain
+1 Abundant Growth
 2 Preordain
 2 Jace, the Mind Sculptor
 2 Abundant Growth
@@ -70,11 +67,13 @@
 6 Snow-Covered Island
 3 Force of Negation
 2 Teferi, Time Raveler
+1 Back to Basics
 2 Underground Sea
-3 Sylvan Library
 1 Savannah
+1 Veil of Summer
 2 Leovold, Emissary of Trest
 2 Plague Engineer
+2 Dead of Winter
 1 Stasis
 1 Ral Zarek
 2 Stasis
@@ -111,5 +110,6 @@
 1 Awakening Zone
 2 Awakening Zone
 2 Opposition
+3 Sylvan Library
 3 Ral Zarek
 3 Stasis

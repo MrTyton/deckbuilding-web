@@ -8,8 +8,8 @@
 2 Woe Strider
 2 Mayhem Devil
 3 Priest of Forgotten Gods
-3 Woe Strider
 3 Mayhem Devil
+3 Woe Strider
 4 Priest of Forgotten Gods
 4 Woe Strider
 4 Mayhem Devil
@@ -112,7 +112,6 @@
 3 Ketria Triome
 3 Cavalier of Thorns
 3 Thought Erasure
-4 Cavalier of Thorns
 4 Ketria Triome
 4 Uro, Titan of Nature's Wrath
 4 Zagoth Triome
@@ -121,6 +120,7 @@
 4 Hydroid Krasis
 4 Leafkin Druid
 4 Temple of Malady
+4 Cavalier of Thorns
 4 Casualties of War
 4 Growth Spiral
 1 Godless Shrine
@@ -161,8 +161,8 @@
 1 Serrated Scorpion
 1 Offspring's Revenge
 2 Midnight Reaper
-2 Cruel Celebrant
 2 Luminous Broodmoth
+2 Cruel Celebrant
 2 Mythos of Snapdax
 2 Serrated Scorpion
 3 Midnight Reaper
@@ -193,7 +193,6 @@
 1 Ugin, the Ineffable
 1 Mobilized District
 1 Interplanar Beacon
-2 Mobilized District
 2 Mystic Forge
 2 Solemn Simulacrum
 2 Ugin, the Spirit Dragon
@@ -203,6 +202,7 @@
 2 Palladium Myr
 2 Radiant Fountain
 2 Ugin, the Ineffable
+2 Mobilized District
 2 Interplanar Beacon
 3 Solemn Simulacrum
 3 Ugin, the Spirit Dragon
@@ -242,17 +242,16 @@
 4 Frostveil Ambush
 4 Startling Development
 1 Fervent Champion
-1 Blacklance Paragon
 1 Foulmire Knight
 1 Fight as One
 1 Stormfist Crusader
+1 Blacklance Paragon
 1 Inspiring Veteran
 1 Worthy Knight
 1 Dire Tactics
 1 Tournament Grounds
 1 Smitten Swordmaster
 1 Venerable Knight
-2 Blacklance Paragon
 2 Fight as One
 2 Dire Tactics
 2 Worthy Knight
@@ -262,10 +261,11 @@
 2 Venerable Knight
 2 Inspiring Veteran
 2 Smitten Swordmaster
-3 Blacklance Paragon
+2 Blacklance Paragon
 3 Venerable Knight
 3 Inspiring Veteran
 3 Smitten Swordmaster
+3 Blacklance Paragon
 3 Fight as One
 3 Worthy Knight
 3 Tournament Grounds
@@ -296,26 +296,26 @@
 7 Island
 8 Island
 1 Unsummon
-1 Voracious Greatshark
 1 Cunning Nightbonder
 1 Dirge Bat
+1 Voracious Greatshark
 1 Thryx, the Sudden Storm
 1 Slitherwisp
 2 Unsummon
-2 Voracious Greatshark
 2 Dirge Bat
 2 Cunning Nightbonder
+2 Voracious Greatshark
 2 Slitherwisp
 3 Unsummon
 3 Cunning Nightbonder
-3 Dirge Bat
 3 Slitherwisp
+3 Dirge Bat
 3 Voracious Greatshark
 4 Neutralize
 4 Unsummon
 4 Cunning Nightbonder
-4 Dirge Bat
 4 Slitherwisp
+4 Dirge Bat
 4 Voracious Greatshark
 1 Alseid of Life's Bounty
 1 All That Glitters
@@ -336,8 +336,8 @@
 1 Hateful Eidolon
 1 Kaya's Ghostform
 1 Setessan Training
-1 Aphemia, the Cacophony
 1 Dead Weight
+1 Aphemia, the Cacophony
 1 Pious Wayfarer
 1 Starfield Mystic
 1 Temple Garden
@@ -346,10 +346,10 @@
 2 Hateful Eidolon
 2 Kaya's Ghostform
 2 Setessan Training
-2 Aphemia, the Cacophony
 2 Dead Weight
 2 Pious Wayfarer
 2 Starfield Mystic
+2 Aphemia, the Cacophony
 2 Temple Garden
 3 Indatha Triome
 3 Season of Growth
@@ -360,8 +360,8 @@
 3 Aphemia, the Cacophony
 3 Temple Garden
 3 Pious Wayfarer
-4 Hateful Eidolon
 4 Season of Growth
+4 Hateful Eidolon
 4 Temple Garden
 4 Setessan Training
 1 Gemrazer
@@ -412,16 +412,15 @@
 6 Mountain
 7 Mountain
 8 Mountain
-1 Temple of Epiphany
+1 The Royal Scions
 1 Ionize
+1 Shock
 1 Opt
 1 Omen of the Sea
-1 Shock
 1 Brineborn Cutthroat
+1 Temple of Epiphany
 1 Brazen Borrower
-1 The Royal Scions
 1 Sprite Dragon
-2 Temple of Epiphany
 2 The Royal Scions
 2 Ionize
 2 Shock
@@ -430,24 +429,25 @@
 2 Brineborn Cutthroat
 2 Sprite Dragon
 2 Omen of the Sea
-3 Shock
-3 Steam Vents
+2 Temple of Epiphany
 3 Omen of the Sea
 3 Temple of Epiphany
 3 Ionize
 3 Sprite Dragon
 3 Brazen Borrower
 3 Brineborn Cutthroat
+3 Shock
 3 Opt
-4 Shock
-4 Steam Vents
+3 Steam Vents
 4 Ionize
 4 Omen of the Sea
 4 Temple of Epiphany
 4 Sprite Dragon
 4 Opt
 4 Brineborn Cutthroat
+4 Steam Vents
 4 Brazen Borrower
+4 Shock
 9 Island
 1 Migratory Greathorn
 1 Arboreal Grazer

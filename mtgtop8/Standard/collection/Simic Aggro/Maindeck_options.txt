@@ -35,8 +35,8 @@
 1 Mystical Dispute
 2 Mystical Dispute
 1 Nissa, Who Shakes the World
-2 Stonecoil Serpent
 4 Rewind
+2 Stonecoil Serpent
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 1 Aether Gust
@@ -45,8 +45,6 @@
 2 Brineborn Cutthroat
 3 Frilled Mystic
 1 Blast Zone
-1 Ketria Triome
-3 Stonecoil Serpent
 2 Nissa, Who Shakes the World
 3 Nissa, Who Shakes the World
 1 Negate
@@ -59,11 +57,10 @@
 3 Brineborn Cutthroat
 1 Chemister's Insight
 1 Mystic Subdual
-4 Castle Garenbrig
 1 Barrin, Tolarian Archmage
-1 Questing Beast
-2 Questing Beast
+1 Ketria Triome
 1 Sea-Dasher Octopus
+3 Stonecoil Serpent
 3 Spectral Sailor
 4 Spectral Sailor
 1 Thryx, the Sudden Storm
@@ -72,6 +69,9 @@
 1 Teferi, Master of Time
 1 Sublime Epiphany
 2 Sublime Epiphany
+1 Scavenging Ooze
+2 Scavenging Ooze
+3 Scavenging Ooze
 1 Illuna, Apex of Wishes
 2 Ketria Triome
 2 Illuna, Apex of Wishes
@@ -92,7 +92,9 @@
 1 Hydroid Krasis
 1 Vivien, Arkbow Ranger
 1 Voracious Hydra
+1 Questing Beast
 2 Hydroid Krasis
+2 Questing Beast
 2 Voracious Hydra
 3 Voracious Hydra
 3 Hydroid Krasis
@@ -101,3 +103,4 @@
 4 Nissa, Who Shakes the World
 4 Hydroid Krasis
 4 Stonecoil Serpent
+4 Castle Garenbrig
