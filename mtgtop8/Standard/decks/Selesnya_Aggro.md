@@ -81,6 +81,6 @@
 |                    3|Basri's Lieutenant                                                                                |                     |                                                                                                     |
 |                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                     |                                                                                                     |
 |                    1|[The Great Henge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123)        |                     |                                                                                                     |
-|                    1|[Ajani, the Greathearted](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461111)|                     |                                                                                                     |
 |                    2|[The Great Henge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123)        |                     |                                                                                                     |
+|                    1|[Ajani, the Greathearted](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461111)|                     |                                                                                                     |
 

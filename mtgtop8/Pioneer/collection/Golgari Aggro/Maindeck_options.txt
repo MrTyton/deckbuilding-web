@@ -16,17 +16,17 @@
 2 Woodland Cemetery
 3 Woodland Cemetery
 4 Woodland Cemetery
-1 Experiment One
 1 Pelt Collector
-2 Pelt Collector
+1 Experiment One
 2 Scavenging Ooze
 2 Experiment One
+2 Pelt Collector
 3 Scavenging Ooze
-3 Pelt Collector
 3 Experiment One
-4 Pelt Collector
+3 Pelt Collector
 4 Scavenging Ooze
 4 Experiment One
+4 Pelt Collector
 7 Forest
 1 Rhonas the Indomitable
 1 Scrapheap Scrounger
@@ -70,17 +70,17 @@
 4 Thoughtseize
 1 Hashep Oasis
 1 Grisly Salvage
+1 Lotleth Troll
 1 Gather the Pack
 1 Zetalpa, Primal Dawn
-1 Lotleth Troll
 1 Soulflayer
 1 Sylvan Caryatid
 1 Questing Beast
 2 Gather the Pack
 2 Grisly Salvage
+2 Lotleth Troll
 2 Soulflayer
 2 Zetalpa, Primal Dawn
-2 Lotleth Troll
 2 Questing Beast
 2 Sylvan Caryatid
 3 Grisly Salvage
@@ -91,9 +91,9 @@
 3 Sylvan Caryatid
 4 Grisly Salvage
 4 Gather the Pack
+4 Lotleth Troll
 4 Soulflayer
 4 Zetalpa, Primal Dawn
-4 Lotleth Troll
 4 Sylvan Caryatid
 1 Rankle, Master of Pranks
 1 Murderous Rider
@@ -103,12 +103,12 @@
 4 Murderous Rider
 1 Deathrite Shaman
 2 Deathrite Shaman
-1 Nullhide Ferox
 1 Gifted Aetherborn
+1 Nullhide Ferox
 1 Commune with the Gods
 2 Commune with the Gods
-2 Nullhide Ferox
 2 Gifted Aetherborn
+2 Nullhide Ferox
 3 Questing Beast
 1 Implement of Ferocity
 1 Hope of Ghirapur
@@ -117,13 +117,13 @@
 3 Hope of Ghirapur
 3 The Ozolith
 1 Voracious Hydra
+1 Nissa, Voice of Zendikar
 1 Vivien, Arkbow Ranger
 1 Rishkar, Peema Renegade
-1 Nissa, Voice of Zendikar
-2 Vivien, Arkbow Ranger
-2 Voracious Hydra
 2 Hashep Oasis
+2 Voracious Hydra
 2 Nissa, Voice of Zendikar
+2 Vivien, Arkbow Ranger
 3 Nissa, Voice of Zendikar
 3 Vivien, Arkbow Ranger
 4 Vivien, Arkbow Ranger
@@ -164,8 +164,8 @@
 3 Castle Locthwain
 3 Fiend Artisan
 4 Knight of the Ebon Legion
-4 Swamp
 4 Deathrite Shaman
+4 Swamp
 4 Stitcher's Supplier
 4 Castle Locthwain
 4 Fiend Artisan
@@ -173,9 +173,9 @@
 6 Swamp
 1 Wildborn Preserver
 1 Unclaimed Territory
-1 Dwynen's Elite
 1 Shaman of the Pack
 1 Elvish Clancaller
+1 Dwynen's Elite
 1 Westvale Abbey
 1 Gnarlroot Trapper
 1 Collected Company

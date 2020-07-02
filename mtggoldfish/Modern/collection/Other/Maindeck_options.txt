@@ -1,28 +1,46 @@
-1 Goblin Warchief
-2 Skirk Prospector
-2 Unearth
-1 Mountain
-2 Mountain
-1 Arid Mesa
-1 Swamp
-2 Inquisition of Kozilek
 2 Kiki-Jiki, Mirror Breaker
-1 Krenko, Mob Boss
-3 Inquisition of Kozilek
-1 Polluted Delta
-2 Polluted Delta
-2 Fiery Islet
-1 Lightning Bolt
-2 Lightning Bolt
-3 Lightning Bolt
-4 Lightning Bolt
-1 Scalding Tarn
-1 Steam Vents
-2 Scalding Tarn
-3 Scalding Tarn
-4 Scalding Tarn
-1 Island
-2 Steam Vents
+2 Sling-Gang Lieutenant
+2 Conspicuous Snoop
+2 Auntie's Hovel
+3 Conspicuous Snoop
+3 Boggart Harbinger
+3 Auntie's Hovel
+4 Conspicuous Snoop
+4 Boggart Harbinger
+4 Auntie's Hovel
+2 Thoughtseize
+1 Blackcleave Cliffs
+2 Blackcleave Cliffs
+3 Thoughtseize
+3 Blackcleave Cliffs
+4 Thoughtseize
+4 Blackcleave Cliffs
+1 Unearth
+2 Unearth
+3 Blood Crypt
+4 Inquisition of Kozilek
+1 Goblin Cratermaker
+1 Warren Weirding
+1 Dark Confidant
+1 Goblin Rabblemaster
+1 Tarfire
+2 Dark Confidant
+2 Tarfire
+3 Unearth
+3 Goblin Matron
+3 Dark Confidant
+4 Goblin Matron
+4 Blood Crypt
+4 Unearth
+4 Dark Confidant
+3 Steam Vents
+4 Steam Vents
+1 Opt
+2 Opt
+3 Opt
+4 Opt
+1 Spirebluff Canal
+2 Spirebluff Canal
 1 Monastery Swiftspear
 1 Rift Bolt
 1 Lava Spike
@@ -35,9 +53,6 @@
 4 Monastery Swiftspear
 4 Rift Bolt
 4 Lava Spike
-3 Mountain
-1 Spirebluff Canal
-2 Spirebluff Canal
 1 Stormwing Entity
 1 Manamorphose
 2 Stormwing Entity
@@ -45,6 +60,7 @@
 3 Stormwing Entity
 3 Manamorphose
 4 Manamorphose
+3 Mountain
 1 Light Up the Stage
 1 Soul-Scar Mage
 1 Gut Shot
@@ -57,66 +73,116 @@
 3 Gut Shot
 3 Fiery Islet
 3 Lava Dart
-3 Steam Vents
 3 Soul-Scar Mage
 3 Spirebluff Canal
 4 Light Up the Stage
-4 Stormwing Entity
 4 Gut Shot
+4 Stormwing Entity
 4 Soul-Scar Mage
 4 Lava Dart
 4 Fiery Islet
 4 Spirebluff Canal
-4 Steam Vents
-3 Blood Crypt
-1 Dark Confidant
-1 Goblin Cratermaker
-1 Warren Weirding
-1 Goblin Rabblemaster
-2 Dark Confidant
-2 Tarfire
-3 Dark Confidant
-3 Unearth
-4 Dark Confidant
-4 Blood Crypt
-4 Unearth
-4 Inquisition of Kozilek
-2 Goblin Ringleader
-1 Thought Scour
-2 Thought Scour
+1 Izzet Charm
+2 Izzet Charm
+3 Uro, Titan of Nature's Wrath
+4 Uro, Titan of Nature's Wrath
+1 Growth Spiral
+1 Ketria Triome
+1 Valakut, the Molten Pinnacle
+1 Scapeshift
+2 Growth Spiral
+2 Valakut, the Molten Pinnacle
+2 Stomping Ground
+2 Scapeshift
+2 Ketria Triome
+3 Growth Spiral
+3 Scapeshift
+3 Ketria Triome
+3 Stomping Ground
+4 Growth Spiral
+4 Ketria Triome
+4 Scapeshift
+4 Stomping Ground
+3 Polluted Delta
 3 Thought Scour
 4 Thought Scour
-1 Force of Negation
-1 Snapcaster Mage
-1 Watery Grave
-2 Watery Grave
-3 Polluted Delta
-4 Polluted Delta
 2 Snapcaster Mage
+1 Watery Grave
+1 Spell Snare
+2 Watery Grave
+4 Polluted Delta
+2 Island
+1 Mana Leak
+2 Mana Leak
+1 Archmage's Charm
+1 Brazen Borrower
+3 Snow-Covered Island
+4 Snow-Covered Island
+5 Snow-Covered Island
+6 Snow-Covered Island
+7 Snow-Covered Island
+1 Arcum's Astrolabe
+2 Arcum's Astrolabe
+3 Arcum's Astrolabe
+4 Arcum's Astrolabe
+1 Ice-Fang Coatl
+2 Ice-Fang Coatl
+3 Ice-Fang Coatl
+4 Ice-Fang Coatl
 3 Snapcaster Mage
+2 Spell Snare
+3 Force of Negation
+1 Serum Visions
+2 Serum Visions
+3 Serum Visions
+4 Serum Visions
+1 Drown in the Loch
 1 Kolaghan's Command
 2 Kolaghan's Command
 1 Cling to Dust
-2 Island
-2 Force of Negation
-1 Drown in the Loch
-1 Spell Snare
-1 Stomping Ground
-1 Mana Leak
-2 Mana Leak
-2 Drown in the Loch
-3 Watery Grave
-1 Serum Visions
 1 Delver of Secrets
 2 Delver of Secrets
-2 Serum Visions
-3 Serum Visions
 3 Delver of Secrets
-4 Serum Visions
 4 Delver of Secrets
+2 Drown in the Loch
+3 Watery Grave
+2 Archmage's Charm
+1 Flooded Strand
+2 Brazen Borrower
+3 Cryptic Command
 1 Seal of Fire
-1 Brazen Borrower
-1 Sunbaked Canyon
+2 Snow-Covered Forest
+1 Field of the Dead
+1 Primeval Titan
+1 Hinterland Harbor
+1 Zagoth Triome
+1 Tamiyo, Collector of Tales
+1 Jace, the Mind Sculptor
+1 Dismember
+1 Field of Ruin
+1 Castle Vantress
+1 Search for Tomorrow
+1 Flooded Grove
+1 Blast Zone
+1 Thragtusk
+1 Venser, Shaper Savant
+2 Field of the Dead
+2 Primeval Titan
+2 Jace, the Mind Sculptor
+2 Dismember
+2 Tamiyo, Collector of Tales
+2 Zagoth Triome
+2 Hinterland Harbor
+2 Search for Tomorrow
+2 Field of Ruin
+2 Thragtusk
+3 Mystic Sanctuary
+3 Field of Ruin
+3 Search for Tomorrow
+3 Breeding Pool
+4 Search for Tomorrow
+4 Breeding Pool
+1 Snow-Covered Mountain
 1 Chandra's Incinerator
 1 Skewer the Critics
 1 Shard Volley
@@ -137,87 +203,78 @@
 4 Vexing Devil
 4 Seal of Fire
 4 Chandra's Incinerator
-1 Wooded Foothills
-2 Wooded Foothills
-3 Wooded Foothills
-1 Breeding Pool
-1 Mystic Sanctuary
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
-1 Archmage's Charm
-2 Archmage's Charm
-1 Misty Rainforest
-2 Misty Rainforest
+2 Flooded Strand
 1 Spell Pierce
+1 Vapor Snag
+1 Darkslick Shores
+2 Darkslick Shores
+3 Darkslick Shores
+1 Wooded Foothills
+1 Arid Mesa
+2 Wooded Foothills
+3 Wooded Foothills
+1 Forest
+1 Botanical Sanctum
 2 Cling to Dust
-2 Spell Snare
 1 Tasigur, the Golden Fang
 2 Tasigur, the Golden Fang
-1 Cryptic Command
-2 Cryptic Command
-1 Goblin Chieftain
-2 Goblin Chieftain
-3 Force of Negation
+1 Teferi, Time Raveler
 1 Sprite Dragon
-1 Darkslick Shores
 1 Lurrus of the Dream Den
-2 Lurrus of the Dream Den
 2 Sprite Dragon
-2 Darkslick Shores
+2 Lurrus of the Dream Den
 3 Sprite Dragon
 3 Lurrus of the Dream Den
-3 Darkslick Shores
 3 Archmage's Charm
 4 Force of Negation
 4 Sprite Dragon
 1 Creeping Tar Pit
-1 Logic Knot
 1 Kroxa, Titan of Death's Hunger
 1 Jace, Vryn's Prodigy
 1 Bonecrusher Giant
 1 Terminate
 1 Fatal Push
 1 Cascade Bluffs
+1 Logic Knot
 2 Swamp
 2 Kroxa, Titan of Death's Hunger
-2 Brazen Borrower
-2 Bonecrusher Giant
 2 Terminate
+2 Bonecrusher Giant
 2 Fatal Push
 2 Logic Knot
 2 Jace, Vryn's Prodigy
 2 Creeping Tar Pit
 3 Kolaghan's Command
 3 Island
-3 Cryptic Command
 4 Cryptic Command
 4 Snapcaster Mage
 4 Kolaghan's Command
-1 Forest
-1 Vapor Snag
-3 Misty Rainforest
-4 Misty Rainforest
-1 Opt
-1 Stubborn Denial
 1 Tarmogoyf
-1 Botanical Sanctum
-1 Mutagenic Growth
+1 Stubborn Denial
 1 Hooting Mandrills
-2 Opt
+1 Mutagenic Growth
+2 Tarmogoyf
 2 Stubborn Denial
 2 Mutagenic Growth
 2 Hooting Mandrills
-2 Tarmogoyf
 3 Hooting Mandrills
-3 Opt
-3 Stubborn Denial
 3 Tarmogoyf
-4 Opt
+3 Stubborn Denial
 4 Stubborn Denial
 4 Hooting Mandrills
 1 Snow-Covered Plains
+1 Cavern of Souls
+1 Aether Vial
+2 Cavern of Souls
+2 Aether Vial
+3 Cavern of Souls
+3 Aether Vial
+4 Aether Vial
+4 Cavern of Souls
 1 Dregscape Sliver
 1 Sidewinder Sliver
 1 Syphon Sliver
@@ -239,7 +296,6 @@
 2 Dregscape Sliver
 2 Unclaimed Territory
 2 Predatory Sliver
-2 Striking Sliver
 2 Sinew Sliver
 2 Sidewinder Sliver
 2 Frenzy Sliver
@@ -249,6 +305,7 @@
 2 Unsettled Mariner
 2 Silent Clearing
 2 Cloudshredder Sliver
+2 Striking Sliver
 3 Unsettled Mariner
 3 Leeching Sliver
 3 Sliver Hive
@@ -277,10 +334,22 @@
 3 Vantress Gargoyle
 4 Thieves' Guild Enforcer
 4 Drown in the Loch
+1 Emrakul, the Aeons Torn
+1 Through the Breach
+1 Fact or Fiction
+1 Desolate Lighthouse
+2 Emrakul, the Aeons Torn
+2 Through the Breach
+3 Through the Breach
+3 Emrakul, the Aeons Torn
+4 Through the Breach
+4 Emrakul, the Aeons Torn
+4 Remand
 2 Arid Mesa
 3 Arid Mesa
 4 Wooded Foothills
 1 Street Wraith
+1 Flamewake Phoenix
 1 Gurmag Angler
 1 Burning Inquiry
 1 Insolent Neonate
@@ -289,7 +358,6 @@
 1 Bloodghast
 1 Go for Blood
 1 Goblin Lore
-1 Flamewake Phoenix
 2 Street Wraith
 2 Flameblade Adept
 2 Goblin Lore
@@ -301,11 +369,11 @@
 2 Hollow One
 3 Street Wraith
 3 Flamewake Phoenix
-3 Burning Inquiry
 3 Hollow One
 3 Goblin Lore
 3 Flameblade Adept
 3 Gurmag Angler
+3 Burning Inquiry
 3 Bloodghast
 4 Street Wraith
 4 Flamewake Phoenix
@@ -315,75 +383,90 @@
 4 Flameblade Adept
 4 Hollow One
 4 Gurmag Angler
-1 Snow-Covered Island
-2 Snow-Covered Island
-1 Remand
-2 Remand
-3 Snow-Covered Island
-4 Snow-Covered Island
-5 Snow-Covered Island
-6 Snow-Covered Island
-7 Snow-Covered Island
-1 Flooded Strand
-1 Snow-Covered Forest
-1 Uro, Titan of Nature's Wrath
-1 Ice-Fang Coatl
-2 Ice-Fang Coatl
-2 Uro, Titan of Nature's Wrath
-3 Ice-Fang Coatl
-4 Ice-Fang Coatl
+1 Godless Shrine
+1 Prismatic Vista
+1 Hallowed Fountain
+2 Prismatic Vista
+2 Teferi, Time Raveler
+1 Snow-Covered Swamp
+1 Thassa's Oracle
+1 Pact of Negation
+1 Slaughter Pact
+1 Pentad Prism
+1 Angel's Grace
+1 Sleight of Hand
+1 Spoils of the Vault
+1 Phyrexian Unlife
+2 Spoils of the Vault
+2 Thassa's Oracle
+2 Pact of Negation
+2 Pentad Prism
+2 Sleight of Hand
+2 Angel's Grace
+3 Prismatic Vista
+3 Flooded Strand
+3 Pact of Negation
+3 Pentad Prism
+3 Angel's Grace
+3 Spoils of the Vault
+3 Sleight of Hand
+3 Thassa's Oracle
+4 Prismatic Vista
+4 Pact of Negation
+4 Sleight of Hand
+4 Spoils of the Vault
+4 Pentad Prism
+4 Thassa's Oracle
+4 Angel's Grace
+1 Noble Hierarch
 1 Sacred Foundry
 1 Plains
-1 Noble Hierarch
-1 Teferi, Time Raveler
 1 Temple Garden
 2 Noble Hierarch
 3 Noble Hierarch
 1 Verdant Catacombs
 1 Birds of Paradise
+2 Birds of Paradise
+3 Birds of Paradise
+4 Birds of Paradise
 1 Assassin's Trophy
 1 Sylvan Caryatid
 1 Oath of Nissa
 1 Felidar Guardian
 1 Niv-Mizzet Reborn
 1 Saheeli Rai
-1 Bring to Light
 1 Utopia Sprawl
 1 Eladamri's Call
-2 Birds of Paradise
+1 Bring to Light
 2 Saheeli Rai
 2 Bring to Light
-2 Teferi, Time Raveler
+2 Felidar Guardian
 2 Utopia Sprawl
 2 Eladamri's Call
 2 Oath of Nissa
-2 Felidar Guardian
 2 Niv-Mizzet Reborn
 3 Felidar Guardian
 3 Eladamri's Call
 3 Teferi, Time Raveler
 3 Saheeli Rai
 3 Bring to Light
-3 Birds of Paradise
 3 Oath of Nissa
 3 Utopia Sprawl
 4 Utopia Sprawl
 4 Bring to Light
 4 Arid Mesa
-4 Birds of Paradise
 4 Oath of Nissa
 4 Teferi, Time Raveler
 4 Felidar Guardian
 4 Saheeli Rai
 1 Urborg, Tomb of Yawgmoth
+1 Kaya's Guile
 1 Castle Locthwain
 1 Marsh Flats
 1 Seasoned Pyromancer
-1 Lingering Souls
-1 Godless Shrine
-1 Kaya's Guile
 1 Kaya, Orzhov Usurper
 1 Smallpox
+1 Lingering Souls
 1 Young Pyromancer
 1 Ransack the Lab
 2 Kaya's Guile
@@ -391,25 +474,117 @@
 2 Marsh Flats
 2 Seasoned Pyromancer
 2 Kaya, Orzhov Usurper
-2 Lingering Souls
 2 Smallpox
+2 Lingering Souls
 2 Ransack the Lab
 3 Cling to Dust
-3 Marsh Flats
 3 Young Pyromancer
 3 Seasoned Pyromancer
-3 Lingering Souls
 3 Kaya, Orzhov Usurper
+3 Lingering Souls
 3 Smallpox
+3 Marsh Flats
 4 Young Pyromancer
 4 Lingering Souls
 4 Cling to Dust
 4 Seasoned Pyromancer
 4 Smallpox
 4 Marsh Flats
+1 Elves of Deep Shadow
+1 Pendelhaven
+1 Nurturing Peatland
+1 Blooming Marsh
+2 Blooming Marsh
+2 Nurturing Peatland
+3 Blooming Marsh
+4 Blooming Marsh
+1 Overgrown Tomb
+1 Chord of Calling
+1 Twilight Mire
+1 Scavenging Ooze
+1 Cavalier of Night
+1 Khalni Garden
+1 Eldritch Evolution
+1 Geralf's Messenger
+1 Wall of Roots
+1 Zulaport Cutthroat
+1 Young Wolf
+1 Yawgmoth, Thran Physician
+1 Dryad Arbor
+1 Strangleroot Geist
+2 Overgrown Tomb
+2 Verdant Catacombs
+2 Young Wolf
+2 Strangleroot Geist
+2 Yawgmoth, Thran Physician
+2 Chord of Calling
+2 Geralf's Messenger
+2 Twilight Mire
+2 Wall of Roots
+2 Eldritch Evolution
+3 Verdant Catacombs
+3 Yawgmoth, Thran Physician
+3 Geralf's Messenger
+3 Twilight Mire
+3 Chord of Calling
+3 Eldritch Evolution
+3 Wall of Roots
+3 Young Wolf
+3 Strangleroot Geist
+4 Verdant Catacombs
+4 Wall of Roots
+4 Eldritch Evolution
+4 Geralf's Messenger
+4 Twilight Mire
+4 Strangleroot Geist
+4 Young Wolf
+4 Yawgmoth, Thran Physician
+4 Chord of Calling
+1 Simian Spirit Guide
+1 Pithing Needle
+1 Academy Ruins
+1 Sword of the Meek
+1 Spire of Industry
+1 Glimmervoid
+1 Inventors' Fair
+1 Thopter Foundry
+1 Engineered Explosives
+1 Ensnaring Bridge
+1 Whir of Invention
+1 Codex Shredder
+1 Ghoulcaller's Bell
+1 Pyxis of Pandemonium
+1 Soul-Guide Lantern
+1 Emry, Lurker of the Loch
+1 River of Tears
+1 Lantern of Insight
+2 Simian Spirit Guide
+2 Thopter Foundry
+2 Glimmervoid
+2 Spire of Industry
+2 Ensnaring Bridge
+2 Emry, Lurker of the Loch
+2 River of Tears
+2 Botanical Sanctum
+2 Codex Shredder
+2 Lantern of Insight
+2 Whir of Invention
+2 Sword of the Meek
+3 Thopter Foundry
+3 Spire of Industry
+3 Glimmervoid
+3 Whir of Invention
+3 Sword of the Meek
+3 Emry, Lurker of the Loch
+3 Codex Shredder
+3 Lantern of Insight
+4 Spire of Industry
+4 Glimmervoid
+4 Whir of Invention
+4 Darkslick Shores
+4 Codex Shredder
+4 Lantern of Insight
 1 Prairie Stream
-1 Prismatic Vista
-1 Hallowed Fountain
 1 Time Warp
 1 Coiling Oracle
 1 Path to Exile
@@ -424,8 +599,6 @@
 1 Eternal Witness
 1 Ephemerate
 1 Soulherder
-2 Prismatic Vista
-2 Snow-Covered Forest
 2 Coiling Oracle
 2 Path to Exile
 2 Ephemerate
@@ -446,61 +619,41 @@
 1 Gemstone Caverns
 1 Metallic Mimic
 1 Putrid Goblin
+1 Munitions Expert
 1 Murderous Redcap
 1 Grumgully, the Generous
+1 Skirk Prospector
+2 Munitions Expert
+2 Skirk Prospector
 2 Putrid Goblin
 2 Metallic Mimic
 3 Putrid Goblin
 3 Metallic Mimic
+3 Munitions Expert
 3 Sling-Gang Lieutenant
 3 Skirk Prospector
 4 Metallic Mimic
 4 Sling-Gang Lieutenant
+4 Munitions Expert
 4 Skirk Prospector
 4 Putrid Goblin
-1 Emrakul, the Aeons Torn
-1 Through the Breach
-1 Izzet Charm
-1 Arcum's Astrolabe
-1 Fact or Fiction
-1 Desolate Lighthouse
-2 Flooded Strand
-2 Emrakul, the Aeons Torn
-2 Mystic Sanctuary
-2 Through the Breach
-2 Izzet Charm
-2 Breeding Pool
-2 Arcum's Astrolabe
-3 Through the Breach
-3 Arcum's Astrolabe
-3 Remand
-3 Emrakul, the Aeons Torn
-4 Through the Breach
-4 Remand
-4 Emrakul, the Aeons Torn
-4 Arcum's Astrolabe
 1 Elvish Mystic
 1 Llanowar Elves
 1 Heritage Druid
 1 Ezuri, Renegade Leader
 1 Gilt-Leaf Palace
+1 Dwynen's Elite
 1 Elvish Clancaller
 1 Shaman of the Pack
 1 Winding Way
-1 Elves of Deep Shadow
 1 Nettle Sentinel
 1 Llanowar Wastes
 1 Elvish Archdruid
-1 Pendelhaven
-1 Nurturing Peatland
 1 Collected Company
-1 Dwynen's Elite
-1 Blooming Marsh
 2 Forest
 2 Heritage Druid
 2 Elvish Archdruid
 2 Collected Company
-2 Blooming Marsh
 2 Elvish Clancaller
 2 Llanowar Elves
 2 Gilt-Leaf Palace
@@ -509,7 +662,6 @@
 2 Shaman of the Pack
 2 Elvish Mystic
 2 Dwynen's Elite
-2 Nurturing Peatland
 2 Ezuri, Renegade Leader
 2 Nettle Sentinel
 2 Llanowar Wastes
@@ -522,19 +674,17 @@
 3 Gilt-Leaf Palace
 3 Shaman of the Pack
 3 Elvish Mystic
-3 Blooming Marsh
 3 Elvish Archdruid
 3 Collected Company
 3 Dwynen's Elite
 3 Forest
 4 Heritage Druid
-4 Nurturing Peatland
 4 Winding Way
 4 Elvish Mystic
 4 Gilt-Leaf Palace
 4 Shaman of the Pack
 4 Elvish Archdruid
-4 Blooming Marsh
+4 Nurturing Peatland
 4 Collected Company
 4 Llanowar Elves
 4 Dwynen's Elite
@@ -542,15 +692,15 @@
 1 Notion Thief
 1 Vendilion Clique
 1 Day's Undoing
+1 Mikokoro, Center of the Sea
 1 Geier Reach Sanitarium
 1 Commit/Memory
-1 Engulf the Shore
 1 Disrupting Shoal
-1 Mikokoro, Center of the Sea
 1 Commandeer
 1 Snapback
 1 Thing in the Ice
 1 Mistvein Borderpost
+1 Engulf the Shore
 2 Spell Pierce
 2 Narset, Parter of Veils
 2 Vendilion Clique
@@ -576,7 +726,9 @@
 4 Mistvein Borderpost
 8 Snow-Covered Island
 9 Snow-Covered Island
+1 Sunbaked Canyon
 1 Goblin Guide
+2 Snow-Covered Mountain
 2 Goblin Guide
 2 Sunbaked Canyon
 3 Snow-Covered Mountain

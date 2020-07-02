@@ -1,6 +1,5 @@
 7 Plains
 8 Plains
-9 Plains
 1 Empyrean Eagle
 1 Skycat Sovereign
 1 Healer's Hawk
@@ -9,13 +8,7 @@
 3 Empyrean Eagle
 3 Healer's Hawk
 4 Healer's Hawk
-1 Staggering Insight
-1 Tranquil Cove
-2 Staggering Insight
-2 Tranquil Cove
-3 Staggering Insight
-3 Tranquil Cove
-4 Tranquil Cove
+9 Plains
 7 Island
 8 Island
 1 Winged Words
@@ -26,57 +19,65 @@
 2 Winged Words
 3 Rally of Wings
 3 Winged Words
-4 Rally of Wings
 4 Empyrean Eagle
 4 Winged Words
 1 Spectral Sailor
-2 Skycat Sovereign
 2 Spectral Sailor
+1 Staggering Insight
+1 Tranquil Cove
+2 Staggering Insight
+2 Tranquil Cove
+3 Staggering Insight
+3 Tranquil Cove
+4 Tranquil Cove
 1 Faerie Vandal
 2 Faerie Vandal
 3 Faerie Vandal
 4 Faerie Vandal
-1 Hushbringer
-4 Staggering Insight
-1 Sea-Dasher Octopus
 9 Island
+1 Faerie Miscreant
+2 Faerie Miscreant
+3 Faerie Miscreant
+4 Faerie Miscreant
+4 Rally of Wings
+1 Cloudkin Seer
+3 Spectral Sailor
+4 Spectral Sailor
+2 Skycat Sovereign
+1 Hushbringer
+1 Sea-Dasher Octopus
 10 Plains
+10 Island
+4 Staggering Insight
 1 Gingerbrute
 2 Gingerbrute
 3 Gingerbrute
 4 Gingerbrute
 1 Loyal Pegasus
-1 Cloudkin Seer
 2 Loyal Pegasus
 2 Hanged Executioner
 2 Hushbringer
 2 Cloudkin Seer
 2 Sephara, Sky's Blade
+3 Loyal Pegasus
 3 Skycat Sovereign
 3 Hanged Executioner
-3 Loyal Pegasus
-3 Spectral Sailor
-4 Skycat Sovereign
 4 Loyal Pegasus
-4 Spectral Sailor
+4 Skycat Sovereign
 1 Faerie Guidemother
 1 Ardenvale Tactician
-1 Faerie Miscreant
 1 Gust of Wind
 2 Faerie Guidemother
 2 Ardenvale Tactician
-2 Faerie Miscreant
 2 Gust of Wind
 3 Faerie Guidemother
-3 Faerie Miscreant
-4 Faerie Miscreant
 4 Faerie Guidemother
 1 Ajani's Pridemate
 1 Ajani, Strength of the Pride
 1 Impassioned Orator
 1 Angel of Vitality
-1 Precognitive Perception
 1 Azorius Skyguard
+1 Precognitive Perception
 1 Kasmina's Transmutation
 2 Ajani's Pridemate
 2 Impassioned Orator
@@ -91,11 +92,11 @@
 1 Karametra's Blessing
 1 Sentinel's Eyes
 1 Drannith Magistrate
-1 All That Glitters
 1 Essence Scatter
 1 Evolving Wilds
 1 Transcendent Envoy
 1 Alseid of Life's Bounty
+1 All That Glitters
 2 Alseid of Life's Bounty
 2 Essence Scatter
 2 Karametra's Blessing
@@ -133,8 +134,8 @@
 2 Pouncing Shoreshark
 3 Vulpikeet
 3 Cubwarden
-3 Pouncing Shoreshark
 3 Pollywog Symbiote
+3 Pouncing Shoreshark
 3 Stonecoil Serpent
 3 Huntmaster Liger
 3 Sea-Dasher Octopus
@@ -145,4 +146,14 @@
 4 Pollywog Symbiote
 4 Huntmaster Liger
 4 Sea-Dasher Octopus
-10 Island
+1 Lofty Denial
+1 Faerie Duelist
+1 Dream Trawler
+2 Lofty Denial
+2 Faerie Duelist
+3 Lofty Denial
+3 Faerie Duelist
+4 Lofty Denial
+11 Island
+12 Island
+13 Island

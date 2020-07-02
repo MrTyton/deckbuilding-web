@@ -6,13 +6,13 @@
 3 Knight of the Ebon Legion
 4 Knight of the Ebon Legion
 1 Fervent Champion
-1 Blacklance Paragon
 1 Stormfist Crusader
+1 Blacklance Paragon
 1 Embercleave
-2 Blacklance Paragon
 2 Stormfist Crusader
 2 Fervent Champion
 2 Embercleave
+2 Blacklance Paragon
 3 Stormfist Crusader
 3 Fervent Champion
 3 Embercleave
@@ -28,8 +28,6 @@
 3 Stonecoil Serpent
 1 Heartless Act
 2 Bonecrusher Giant
-1 Midnight Reaper
-1 Temple of Malice
 4 Stonecoil Serpent
 1 Tournament Grounds
 2 Tournament Grounds
@@ -39,23 +37,26 @@
 2 Drill Bit
 1 Spawn of Mayhem
 2 Spawn of Mayhem
-2 Midnight Reaper
-3 Midnight Reaper
+1 Temple of Malice
 2 Temple of Malice
-4 Tournament Grounds
-1 Shadowspear
-3 Bonecrusher Giant
+1 Midnight Reaper
 1 Rankle, Master of Pranks
 9 Swamp
+1 Shadowspear
+3 Bonecrusher Giant
+4 Tournament Grounds
 8 Mountain
 3 Spawn of Mayhem
 4 Spawn of Mayhem
+2 Midnight Reaper
+3 Midnight Reaper
 1 Village Rites
 2 Village Rites
 2 Rankle, Master of Pranks
 3 Village Rites
 3 Castle Locthwain
 4 Village Rites
+10 Swamp
 1 Agonizing Remorse
 1 Rix Maadi Reveler
 2 Rix Maadi Reveler
@@ -66,21 +67,21 @@
 2 Fiend Artisan
 2 Stomping Ground
 3 Fiend Artisan
-1 Bolas's Citadel
 1 Archfiend's Vessel
+1 Bolas's Citadel
 1 Unknown Card
 2 Archfiend's Vessel
 2 Unknown Card
-3 Temple of Malice
 3 Archfiend's Vessel
+3 Temple of Malice
 3 Unknown Card
+4 Archfiend's Vessel
 4 Temple of Malice
 4 Midnight Reaper
-4 Archfiend's Vessel
 3 Robber of the Rich
 4 Robber of the Rich
-1 Zagoth Triome
 1 Marauding Raptor
+1 Zagoth Triome
 1 Dirge Bat
 1 Sea-Dasher Octopus
 1 Pollywog Symbiote
@@ -99,17 +100,17 @@
 2 Everquill Phoenix
 2 Watery Grave
 2 Porcuparrot
-2 Steam Vents
 2 Island
+2 Steam Vents
 3 Island
 3 Marauding Raptor
 3 Sea-Dasher Octopus
-3 Pouncing Shoreshark
 3 Pollywog Symbiote
+3 Pouncing Shoreshark
 3 Insatiable Hemophage
 3 Watery Grave
-3 Steam Vents
 3 Porcuparrot
+3 Steam Vents
 3 Everquill Phoenix
 4 Pollywog Symbiote
 4 Marauding Raptor
@@ -119,10 +120,41 @@
 4 Watery Grave
 4 Steam Vents
 4 Everquill Phoenix
-1 Whisper Squad
+1 Burglar Rat
+1 Chandra, Awakened Inferno
+1 Davriel, Rogue Shadowmage
+1 Evolving Wilds
+1 Skewer the Critics
+1 Reaper of Night
+1 Spark Harvest
+1 Ill-Gotten Inheritance
+1 Liliana, Dreadhorde General
+1 Cavern Whisperer
+1 Bloodfell Caves
+1 Kroxa, Titan of Death's Hunger
+1 Toll of the Invasion
+2 Burglar Rat
+2 Davriel, Rogue Shadowmage
+2 Evolving Wilds
+2 Reaper of Night
+2 Spark Harvest
+2 Ill-Gotten Inheritance
+2 Bloodfell Caves
+2 Cavern Whisperer
+2 Toll of the Invasion
+3 Burglar Rat
+3 Davriel, Rogue Shadowmage
+3 Evolving Wilds
+3 Spark Harvest
+3 Bloodfell Caves
+3 Toll of the Invasion
+4 Burglar Rat
+4 Evolving Wilds
+4 Spark Harvest
+4 Bloodfell Caves
 1 Erebos, Bleak-Hearted
+1 Whisper Squad
 2 Whisper Squad
 3 Whisper Squad
 4 Whisper Squad
 4 Castle Locthwain
-10 Swamp
