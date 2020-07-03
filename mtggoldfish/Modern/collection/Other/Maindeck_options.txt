@@ -1,36 +1,36 @@
 2 Kiki-Jiki, Mirror Breaker
+2 Goblin Matron
 2 Sling-Gang Lieutenant
-2 Conspicuous Snoop
 2 Auntie's Hovel
 3 Conspicuous Snoop
 3 Boggart Harbinger
 3 Auntie's Hovel
-4 Conspicuous Snoop
 4 Boggart Harbinger
+4 Conspicuous Snoop
 4 Auntie's Hovel
 2 Thoughtseize
 1 Blackcleave Cliffs
 2 Blackcleave Cliffs
-3 Thoughtseize
 3 Blackcleave Cliffs
-4 Thoughtseize
+3 Thoughtseize
 4 Blackcleave Cliffs
+4 Thoughtseize
 1 Unearth
 2 Unearth
 3 Blood Crypt
 4 Inquisition of Kozilek
-1 Goblin Cratermaker
 1 Warren Weirding
+1 Goblin Cratermaker
 1 Dark Confidant
 1 Goblin Rabblemaster
 1 Tarfire
-2 Dark Confidant
 2 Tarfire
+2 Dark Confidant
 3 Unearth
 3 Goblin Matron
 3 Dark Confidant
-4 Goblin Matron
 4 Blood Crypt
+4 Goblin Matron
 4 Unearth
 4 Dark Confidant
 3 Steam Vents
@@ -53,12 +53,12 @@
 4 Monastery Swiftspear
 4 Rift Bolt
 4 Lava Spike
-1 Stormwing Entity
 1 Manamorphose
-2 Stormwing Entity
+1 Stormwing Entity
 2 Manamorphose
-3 Stormwing Entity
+2 Stormwing Entity
 3 Manamorphose
+3 Stormwing Entity
 4 Manamorphose
 3 Mountain
 1 Light Up the Stage
@@ -91,8 +91,8 @@
 1 Valakut, the Molten Pinnacle
 1 Scapeshift
 2 Growth Spiral
-2 Valakut, the Molten Pinnacle
 2 Stomping Ground
+2 Valakut, the Molten Pinnacle
 2 Scapeshift
 2 Ketria Triome
 3 Growth Spiral
@@ -266,6 +266,16 @@
 3 Stubborn Denial
 4 Stubborn Denial
 4 Hooting Mandrills
+1 Thieves' Guild Enforcer
+1 Into the Story
+1 Vantress Gargoyle
+2 Thieves' Guild Enforcer
+2 Vantress Gargoyle
+3 Drown in the Loch
+3 Thieves' Guild Enforcer
+3 Vantress Gargoyle
+4 Thieves' Guild Enforcer
+4 Drown in the Loch
 1 Snow-Covered Plains
 1 Cavern of Souls
 1 Aether Vial
@@ -317,23 +327,13 @@
 3 Mutavault
 3 Sinew Sliver
 4 Unsettled Mariner
-4 Unclaimed Territory
 4 Predatory Sliver
 4 Cloudshredder Sliver
 4 Galerider Sliver
 4 Sliver Hive
 4 Leeching Sliver
 4 Sinew Sliver
-1 Thieves' Guild Enforcer
-1 Into the Story
-1 Vantress Gargoyle
-2 Thieves' Guild Enforcer
-2 Vantress Gargoyle
-3 Drown in the Loch
-3 Thieves' Guild Enforcer
-3 Vantress Gargoyle
-4 Thieves' Guild Enforcer
-4 Drown in the Loch
+4 Unclaimed Territory
 1 Emrakul, the Aeons Torn
 1 Through the Breach
 1 Fact or Fiction
@@ -627,10 +627,10 @@
 2 Skirk Prospector
 2 Putrid Goblin
 2 Metallic Mimic
+3 Sling-Gang Lieutenant
 3 Putrid Goblin
 3 Metallic Mimic
 3 Munitions Expert
-3 Sling-Gang Lieutenant
 3 Skirk Prospector
 4 Metallic Mimic
 4 Sling-Gang Lieutenant

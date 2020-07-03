@@ -29,13 +29,13 @@
 9 Island
 1 Absorb
 2 Absorb
-1 Swamp
 1 Watery Grave
+1 Swamp
 1 Godless Shrine
 2 Watery Grave
 2 Godless Shrine
-3 Watery Grave
 3 Godless Shrine
+3 Watery Grave
 4 Watery Grave
 4 Godless Shrine
 4 Shatter the Sky
@@ -91,34 +91,21 @@
 4 Dire Tactics
 3 Temple of Deceit
 4 Temple of Deceit
-1 Mortify
 1 Extinction Event
-2 Mortify
+1 Mortify
 2 Extinction Event
+2 Mortify
 4 Aether Gust
 4 Oath of Kaya
 1 Whirlwind Denial
 2 Teferi, Master of Time
 3 Glass Casket
 2 Agonizing Remorse
-3 Mortify
 3 Extinction Event
 3 Agonizing Remorse
-4 Extinction Event
+3 Mortify
 4 Agonizing Remorse
-1 Elspeth, Sun's Nemesis
-1 Interplanar Beacon
-1 Karn, the Great Creator
-2 Elspeth, Sun's Nemesis
-2 Karn, the Great Creator
-2 Interplanar Beacon
-3 Swamp
-3 Karn, the Great Creator
-3 Interplanar Beacon
-3 Heartless Act
-4 Swamp
-4 Interplanar Beacon
-4 Heartless Act
+4 Extinction Event
 2 Thirst for Meaning
 3 Thirst for Meaning
 4 Absorb
@@ -128,14 +115,27 @@
 4 Elite Guardmage
 2 Tale's End
 4 Neutralize
+1 Karn, the Great Creator
+1 Interplanar Beacon
+1 Elspeth, Sun's Nemesis
+2 Karn, the Great Creator
+2 Elspeth, Sun's Nemesis
+2 Interplanar Beacon
+3 Swamp
+3 Karn, the Great Creator
+3 Heartless Act
+3 Interplanar Beacon
+4 Swamp
+4 Heartless Act
+4 Interplanar Beacon
 1 Ashiok, Dream Render
 1 Charming Prince
 2 Charming Prince
 3 Charming Prince
 1 Discovery/Dispersal
-2 Chemister's Insight
 1 Essence Scatter
 2 Essence Scatter
+2 Chemister's Insight
 1 Mystic Sanctuary
 1 Thassa's Intervention
 1 Fae of Wishes
@@ -146,10 +146,10 @@
 1 Golden Egg
 1 Doom Foretold
 1 Dance of the Manse
-2 Castle Locthwain
 2 Golden Egg
 2 Doom Foretold
 2 Dance of the Manse
+2 Castle Locthwain
 3 Dance of the Manse
 3 Doom Foretold
 3 Golden Egg

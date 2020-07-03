@@ -294,9 +294,9 @@
 4 Prismatic Vista
 1 Tasigur, the Golden Fang
 1 Murderous Cut
-1 Tyrant's Scorn
 1 Lutri, the Spellchaser
 1 Tarmogoyf
+1 Tyrant's Scorn
 1 Toxic Deluge
 1 Crashing Footfalls
 1 Assassin's Trophy
@@ -358,27 +358,27 @@
 3 True-Name Nemesis
 4 True-Name Nemesis
 2 Island
+1 Sea-Dasher Octopus
 1 Brineborn Cutthroat
 1 Spectral Sailor
 1 Spellstutter Sprite
-1 Sea-Dasher Octopus
 1 Spell Queller
 1 Cunning Nightbonder
 1 Aether Vial
 1 Mother of Runes
 1 Stonecloaker
+2 Sea-Dasher Octopus
 2 Brineborn Cutthroat
 2 Spectral Sailor
 2 Spellstutter Sprite
 2 Cunning Nightbonder
-2 Sea-Dasher Octopus
 2 Spell Queller
 2 Aether Vial
 2 Stonecloaker
 2 Mother of Runes
 2 Swords to Plowshares
-3 Sea-Dasher Octopus
 3 Brineborn Cutthroat
+3 Sea-Dasher Octopus
 3 Spellstutter Sprite
 3 Cunning Nightbonder
 3 Spell Queller
@@ -474,8 +474,8 @@
 1 Carrion Feeder
 1 Overgrown Tomb
 1 Vengevine
-1 Gravecrawler
 1 Stitcher's Supplier
+1 Gravecrawler
 1 Golgari Grave-Troll
 1 Dread Return
 1 Death's Shadow
@@ -485,9 +485,9 @@
 2 Street Wraith
 2 Carrion Feeder
 2 Overgrown Tomb
-2 Vengevine
-2 Stitcher's Supplier
 2 Gravecrawler
+2 Stitcher's Supplier
+2 Vengevine
 2 Blood Crypt
 2 Hogaak, Arisen Necropolis
 2 Satyr Wayfinder
@@ -496,12 +496,12 @@
 2 Golgari Grave-Troll
 3 Street Wraith
 3 Overgrown Tomb
+3 Blood Crypt
 3 Marsh Flats
 3 Carrion Feeder
-3 Blood Crypt
-3 Vengevine
-3 Stitcher's Supplier
 3 Gravecrawler
+3 Stitcher's Supplier
+3 Vengevine
 3 Golgari Grave-Troll
 3 Faithless Looting
 3 Hogaak, Arisen Necropolis
@@ -509,10 +509,10 @@
 3 Death's Shadow
 3 Bloodghast
 4 Marsh Flats
-4 Vengevine
+4 Stitcher's Supplier
 4 Bloodghast
 4 Gravecrawler
-4 Stitcher's Supplier
+4 Vengevine
 4 Faithless Looting
 4 Hogaak, Arisen Necropolis
 4 Satyr Wayfinder
@@ -549,13 +549,13 @@
 1 Monastery Swiftspear
 1 Goblin Guide
 2 Chain Lightning
+2 Fiery Islet
 2 Lava Spike
 2 Exquisite Firecraft
 2 Pyrostatic Pillar
 2 Price of Progress
 2 Monastery Swiftspear
 2 Goblin Guide
-2 Fiery Islet
 2 Fireblast
 2 Eidolon of the Great Revel
 2 Rift Bolt

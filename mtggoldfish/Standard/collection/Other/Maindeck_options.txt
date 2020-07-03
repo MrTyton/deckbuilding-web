@@ -157,8 +157,8 @@
 3 Temple of Epiphany
 3 Temple of Enlightenment
 3 Persistent Petitioners
-4 Temple of Enlightenment
 4 Temple of Mystery
+4 Temple of Enlightenment
 4 Temple of Epiphany
 4 Persistent Petitioners
 5 Persistent Petitioners
@@ -224,24 +224,24 @@
 4 Swamp
 1 Castle Locthwain
 5 Swamp
+1 Watery Grave
 1 Brineborn Cutthroat
 1 Cunning Nightbonder
-1 Watery Grave
 1 Slitherwisp
+2 Watery Grave
 2 Brineborn Cutthroat
 2 Cunning Nightbonder
-2 Watery Grave
 2 Slitherwisp
+3 Watery Grave
 3 Brineborn Cutthroat
 3 Slitherwisp
-3 Watery Grave
+4 Watery Grave
 4 Brineborn Cutthroat
 4 Slitherwisp
-4 Watery Grave
 2 Castle Locthwain
 6 Swamp
-1 Knight of the Ebon Legion
 1 Gutterbones
+1 Knight of the Ebon Legion
 1 Priest of Forgotten Gods
 2 Knight of the Ebon Legion
 2 Priest of Forgotten Gods
@@ -250,9 +250,9 @@
 3 Gutterbones
 3 Knight of the Ebon Legion
 3 Priest of Forgotten Gods
-4 Castle Locthwain
 4 Priest of Forgotten Gods
 4 Knight of the Ebon Legion
+4 Castle Locthwain
 4 Gutterbones
 7 Swamp
 8 Swamp
@@ -286,38 +286,16 @@
 3 Daxos, Blessed by the Sun
 3 Ajani, Strength of the Pride
 3 Impassioned Orator
-1 Lurrus of the Dream-Den
-2 Lurrus of the Dream-Den
-3 Lurrus of the Dream-Den
-4 Lurrus of the Dream-Den
-1 Serrated Scorpion
-1 Archfiend's Vessel
-1 Village Rites
-1 Mire Triton
-1 Kaya's Ghostform
-1 Call of the Death-Dweller
-2 Call of the Death-Dweller
-2 Serrated Scorpion
-2 Archfiend's Vessel
-2 Village Rites
-2 Mire Triton
-2 Kaya's Ghostform
-3 Serrated Scorpion
-3 Call of the Death-Dweller
-3 Archfiend's Vessel
-3 Mire Triton
-3 Village Rites
-4 Archfiend's Vessel
-4 Serrated Scorpion
-4 Call of the Death-Dweller
-4 Mire Triton
-4 Village Rites
 3 Stormwing Entity
 4 Scorching Dragonfire
 1 Glorious Anthem
 2 Glorious Anthem
 3 Glorious Anthem
 4 Glorious Anthem
+1 Lurrus of the Dream-Den
+2 Lurrus of the Dream-Den
+3 Lurrus of the Dream-Den
+4 Lurrus of the Dream-Den
 1 Temple Garden
 1 Forest
 2 Forest
@@ -338,6 +316,7 @@
 1 Prison Realm
 1 Nessian Hornbeetle
 1 Elder Gargaroth
+2 Field of Ruin
 2 Temple of Plenty
 2 Scavenging Ooze
 2 Garruk's Harbinger
@@ -346,17 +325,16 @@
 2 Questing Beast
 2 Temple Garden
 2 Nessian Hornbeetle
-2 Field of Ruin
 2 Pelt Collector
 2 Prison Realm
 3 Temple of Plenty
+3 Field of Ruin
 3 Lovestruck Beast
 3 Questing Beast
 3 Prison Realm
 3 Vivien, Monsters' Advocate
 3 Pelt Collector
 3 Temple Garden
-3 Field of Ruin
 3 Nessian Hornbeetle
 4 Temple of Plenty
 4 Lovestruck Beast
@@ -381,6 +359,28 @@
 4 Pouncing Shoreshark
 4 Lofty Denial
 4 Dirge Bat
+1 Call of the Death-Dweller
+1 Village Rites
+1 Kaya's Ghostform
+1 Archfiend's Vessel
+1 Serrated Scorpion
+1 Mire Triton
+2 Village Rites
+2 Call of the Death-Dweller
+2 Kaya's Ghostform
+2 Serrated Scorpion
+2 Mire Triton
+2 Archfiend's Vessel
+3 Mire Triton
+3 Archfiend's Vessel
+3 Village Rites
+3 Call of the Death-Dweller
+3 Serrated Scorpion
+4 Serrated Scorpion
+4 Call of the Death-Dweller
+4 Mire Triton
+4 Archfiend's Vessel
+4 Village Rites
 1 Hushbringer
 1 Cubwarden
 2 Hushbringer
@@ -391,29 +391,30 @@
 4 Cubwarden
 4 Conclave Tribunal
 4 Hushbringer
-1 Kenrith, the Returned King
-1 Haktos the Unscarred
-2 Kenrith, the Returned King
-2 Haktos the Unscarred
-3 Winota, Joiner of Forces
-4 Winota, Joiner of Forces
 1 Hallowed Fountain
 1 Teferi, Time Raveler
 1 Skycat Sovereign
 2 Teferi, Time Raveler
 2 Hallowed Fountain
 2 Skycat Sovereign
+3 Brazen Borrower
 3 Teferi, Time Raveler
 3 Hallowed Fountain
-3 Brazen Borrower
 3 Fabled Passage
+4 Brazen Borrower
 4 Teferi, Time Raveler
 4 Hallowed Fountain
 4 Fabled Passage
-4 Brazen Borrower
+1 Kenrith, the Returned King
+1 Haktos the Unscarred
+2 Kenrith, the Returned King
+2 Haktos the Unscarred
+3 Winota, Joiner of Forces
+4 Winota, Joiner of Forces
 1 Blast Zone
 1 Ugin, the Spirit Dragon
 1 Mobilized District
+1 Interplanar Beacon
 1 Solemn Simulacrum
 1 Karn's Bastion
 1 Crystalline Giant
@@ -421,10 +422,10 @@
 1 Ugin, the Ineffable
 1 Mystic Forge
 1 Palladium Myr
-1 Interplanar Beacon
 1 Radiant Fountain
 2 Ugin, the Spirit Dragon
 2 Mobilized District
+2 Interplanar Beacon
 2 Solemn Simulacrum
 2 Palladium Myr
 2 Radiant Fountain
@@ -433,50 +434,49 @@
 2 Crystalline Giant
 2 Karn's Bastion
 2 Ugin, the Ineffable
-2 Interplanar Beacon
 3 Ugin, the Spirit Dragon
 3 Solemn Simulacrum
+3 Interplanar Beacon
 3 Karn's Bastion
 3 Ugin, the Ineffable
 3 Crystalline Giant
 3 Palladium Myr
-3 Interplanar Beacon
 3 Mystic Forge
 3 Steel Overseer
 3 Radiant Fountain
 4 Ugin, the Spirit Dragon
 4 Solemn Simulacrum
+4 Interplanar Beacon
 4 Karn's Bastion
 4 Crystalline Giant
-4 Interplanar Beacon
 4 Mystic Forge
 4 Ugin, the Ineffable
 4 Palladium Myr
 4 Radiant Fountain
 4 Steel Overseer
-1 Omen of the Sea
 1 Liliana's Standard Bearer
 1 Eliminate
 1 Thieves' Guild Enforcer
 1 Stern Dismissal
 1 Blacklance Paragon
+1 Omen of the Sea
 1 Unsummon
 2 Eliminate
-2 Omen of the Sea
 2 Unsummon
 2 Liliana's Standard Bearer
+2 Omen of the Sea
 2 Blacklance Paragon
 2 Thieves' Guild Enforcer
 3 Eliminate
-3 Omen of the Sea
 3 Cunning Nightbonder
 3 Liliana's Standard Bearer
+3 Omen of the Sea
 3 Thieves' Guild Enforcer
 3 Blacklance Paragon
 3 Unsummon
-4 Omen of the Sea
 4 Cunning Nightbonder
 4 Eliminate
+4 Omen of the Sea
 4 Blacklance Paragon
 4 Thieves' Guild Enforcer
 4 Liliana's Standard Bearer
@@ -508,11 +508,11 @@
 2 Footfall Crater
 2 Flourishing Fox
 3 Savai Triome
-3 Fiend Artisan
 3 Flourishing Fox
 3 Drannith Stinger
 3 Memory Leak
 3 Blood Crypt
+3 Fiend Artisan
 3 Drannith Healer
 3 Zenith Flare
 3 Godless Shrine
@@ -520,7 +520,6 @@
 3 Imposing Vantasaur
 3 Valiant Rescuer
 3 Splendor Mare
-4 Fiend Artisan
 4 Splendor Mare
 4 Zenith Flare
 4 Godless Shrine
@@ -529,19 +528,20 @@
 4 Flourishing Fox
 4 Valiant Rescuer
 4 Drannith Stinger
+4 Fiend Artisan
 4 Blood Crypt
 4 Savai Triome
 4 Drannith Healer
 4 Footfall Crater
-1 Rankle, Master of Pranks
 1 Lurrus of the Dream Den
 1 Murderous Rider
 1 Soul-Guide Lantern
 1 Bolas's Citadel
-1 Tymaret, Chosen from Death
 1 Ayara, First of Locthwain
 1 Cavalier of Night
+1 Rankle, Master of Pranks
 1 Gray Merchant of Asphodel
+1 Tymaret, Chosen from Death
 1 Yarok's Fenlurker
 2 Soul-Guide Lantern
 2 Bolas's Citadel
