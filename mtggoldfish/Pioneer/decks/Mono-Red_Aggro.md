@@ -60,6 +60,7 @@
 |                     |                                                                                                     |                    2|[Tibalt, Rakish Instigator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461073) |
 |                     |                                                                                                     |                    3|[Tibalt, Rakish Instigator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461073) |
 |                     |                                                                                                     |                    3|[Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663)            |
+|                     |                                                                                                     |                    4|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)       |
 |                     |                                                                                                     |                    1|[Glorybringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426836)              |
 |                     |                                                                                                     |                    1|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)               |
 |                     |                                                                                                     |                    1|[Chandra's Defeat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430775)          |
@@ -69,5 +70,4 @@
 |                     |                                                                                                     |                    2|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)               |
 |                     |                                                                                                     |                    3|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)               |
 |                     |                                                                                                     |                    4|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)               |
-|                     |                                                                                                     |                    4|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)       |
 

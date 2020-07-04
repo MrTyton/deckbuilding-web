@@ -79,8 +79,8 @@
 1 Hallowed Fountain
 2 Hallowed Fountain
 3 Hallowed Fountain
-1 Teferi, Hero of Dominaria
 1 Teferi, Time Raveler
+1 Teferi, Hero of Dominaria
 1 Kaya, Orzhov Usurper
 1 Shambling Vent
 2 Teferi, Time Raveler
@@ -147,9 +147,9 @@
 4 Forest
 1 Woodland Cemetery
 2 Woodland Cemetery
+1 Sunpetal Grove
 1 Llanowar Elves
 1 Emrakul, the Promised End
-1 Sunpetal Grove
 1 Temple Garden
 2 Llanowar Elves
 2 Temple Garden
@@ -399,10 +399,10 @@
 4 Experiment One
 1 Anax, Hardened in the Forge
 1 Ash Zealot
+1 Chandra, Torch of Defiance
 1 Eidolon of the Great Revel
 1 Glorybringer
 1 Leyline of Combustion
-1 Chandra, Torch of Defiance
 1 Fanatic of Mogis
 1 Torbran, Thane of Red Fell
 1 Nykthos, Shrine to Nyx
@@ -411,8 +411,8 @@
 2 Glorybringer
 2 Anax, Hardened in the Forge
 2 Ash Zealot
-2 Leyline of Combustion
 2 Chandra, Torch of Defiance
+2 Leyline of Combustion
 2 Fanatic of Mogis
 2 Boros Reckoner
 2 Torbran, Thane of Red Fell
@@ -437,20 +437,20 @@
 4 Ash Zealot
 4 Ramunap Ruins
 1 Nimble Obstructionist
-1 Hieroglyphic Illumination
 1 Azorius Charm
 1 Sulfur Falls
 1 Settle the Wreckage
+1 Hieroglyphic Illumination
 1 Raugrin Triome
-2 Hieroglyphic Illumination
 2 Sulfur Falls
 2 Azorius Charm
 2 Nimble Obstructionist
 2 Raugrin Triome
 2 Settle the Wreckage
+2 Hieroglyphic Illumination
+3 Raugrin Triome
 3 Azorius Charm
 3 Hieroglyphic Illumination
-3 Raugrin Triome
 4 Azorius Charm
 4 Cast Out
 4 Hieroglyphic Illumination
@@ -491,17 +491,17 @@
 2 Ipnu Rivulet
 2 Elite Guardmage
 2 Militia Bugler
-2 Reflector Mage
 2 Declaration in Stone
+2 Reflector Mage
 2 Panharmonicon
 2 Thalia's Lieutenant
 2 Thassa, Deep-Dwelling
 2 Cloudblazer
 3 Elite Guardmage
-3 Militia Bugler
 3 Reflector Mage
 3 Thassa, Deep-Dwelling
 3 Thalia's Lieutenant
+3 Militia Bugler
 4 Militia Bugler
 4 Reflector Mage
 4 Thalia's Lieutenant
@@ -578,8 +578,8 @@
 1 Soulflayer
 1 Gifted Aetherborn
 1 Rhonas the Indomitable
-2 Questing Beast
 2 Nullhide Ferox
+2 Questing Beast
 2 Gifted Aetherborn
 2 Zetalpa, Primal Dawn
 2 Commune with the Gods
@@ -696,13 +696,13 @@
 2 Mana Confluence
 2 Springleaf Drum
 3 All That Glitters
-3 Mana Confluence
 3 Steel Overseer
+3 Mana Confluence
 3 Ornithopter
 3 Springleaf Drum
-4 Mana Confluence
 4 Bomat Courier
 4 Gingerbrute
+4 Mana Confluence
 4 Stonecoil Serpent
 4 Ornithopter
 1 Fiend Artisan
@@ -758,16 +758,16 @@
 1 Worldspine Wurm
 2 Trostani Discordant
 2 Castle Garenbrig
+2 Sunpetal Grove
 2 Dubious Challenge
 2 Ulamog, the Ceaseless Hunger
 2 Worldspine Wurm
 2 Elvish Mystic
-2 Sunpetal Grove
 2 See the Unwritten
 2 Canopy Vista
-3 Sunpetal Grove
 3 Trostani Discordant
 3 Castle Garenbrig
+3 Sunpetal Grove
 3 Dubious Challenge
 3 Elvish Mystic
 3 See the Unwritten
