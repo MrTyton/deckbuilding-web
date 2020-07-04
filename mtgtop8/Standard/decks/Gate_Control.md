@@ -45,8 +45,8 @@
 |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|                     |              |
 |                    1|[Notion Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452943)            |                     |              |
 |                    1|[Rakdos Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376465)       |                     |              |
-|                    2|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                    |                     |              |
 |                    2|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)   |                     |              |
+|                    2|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                    |                     |              |
 |                    2|[Notion Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452943)            |                     |              |
 |                    2|[Rakdos Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376465)       |                     |              |
 |                    2|[Dimir Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376306)        |                     |              |

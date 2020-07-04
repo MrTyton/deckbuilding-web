@@ -68,13 +68,13 @@
 3 Blooming Marsh
 4 Blooming Marsh
 1 Oath of Kaya
-1 Teshar, Ancestor's Apostle
 1 Botanical Sanctum
 1 Springleaf Drum
 1 Lurrus of the Dream Den
 1 Wishclaw Talisman
 1 Teferi, Time Raveler
 1 Island
+1 Teshar, Ancestor's Apostle
 1 Mox Amber
 1 Jace, Wielder of Mysteries
 1 Hallowed Fountain
@@ -85,7 +85,6 @@
 1 Kethis, the Hidden Hand
 1 Lazav, the Multifarious
 1 Hope of Ghirapur
-2 Lurrus of the Dream Den
 2 Springleaf Drum
 2 Emry, Lurker of the Loch
 2 Kethis, the Hidden Hand
@@ -95,6 +94,7 @@
 2 Lazav, the Multifarious
 2 Liliana, the Last Hope
 2 Diligent Excavator
+2 Lurrus of the Dream Den
 2 Hallowed Fountain
 2 Wishclaw Talisman
 2 Spire of Industry
@@ -112,8 +112,8 @@
 3 Diligent Excavator
 3 Kethis, the Hidden Hand
 4 Hallowed Fountain
-4 Lazav, the Multifarious
 4 Kethis, the Hidden Hand
+4 Lazav, the Multifarious
 4 Botanical Sanctum
 4 Diligent Excavator
 4 Hope of Ghirapur
@@ -125,10 +125,11 @@
 1 Swamp
 1 Overgrown Tomb
 1 Soulflayer
-1 Zetalpa, Primal Dawn
 1 Gather the Pack
-1 Lotleth Troll
+1 Zetalpa, Primal Dawn
 1 Grisly Salvage
+1 Lotleth Troll
+1 Vine Mare
 1 Questing Beast
 1 Grapple with the Past
 1 Erebos, God of the Dead
@@ -137,19 +138,18 @@
 1 Sunblade Angel
 1 Spark Trooper
 1 Skull Prophet
-1 Vine Mare
 2 Temple of Malady
 2 Swamp
 2 Zetalpa, Primal Dawn
 2 Soulflayer
-2 Lotleth Troll
-2 Overgrown Tomb
 2 Grisly Salvage
-2 Gather the Pack
+2 Overgrown Tomb
+2 Lotleth Troll
 2 Questing Beast
+2 Gather the Pack
+2 Vine Mare
 2 Gifted Aetherborn
 2 Skull Prophet
-2 Vine Mare
 3 Zetalpa, Primal Dawn
 3 Soulflayer
 3 Lotleth Troll
@@ -162,49 +162,49 @@
 4 Zetalpa, Primal Dawn
 4 Soulflayer
 4 Lotleth Troll
-4 Gather the Pack
 4 Grisly Salvage
+4 Gather the Pack
 4 Overgrown Tomb
 4 Swamp
 4 Gifted Aetherborn
-1 Lukka, Coppercoat Outcast
-1 Borborygmos Enraged
+1 Shared Summons
+1 Enter the Infinite
 1 Captain Lannery Storm
+1 Borborygmos Enraged
+1 Lukka, Coppercoat Outcast
 1 Game Trail
+1 Worldspine Wurm
 1 Possibility Storm
 1 Emrakul, the Promised End
-1 Enter the Infinite
 1 Stonecoil Serpent
 1 Rosethorn Acolyte
 1 Bonecrusher Giant
-1 Shared Summons
 1 Lovestruck Beast
-1 Worldspine Wurm
 2 Lukka, Coppercoat Outcast
-2 Game Trail
+2 Possibility Storm
 2 Captain Lannery Storm
+2 Game Trail
+2 Worldspine Wurm
 2 Mountain
 2 Bonecrusher Giant
 2 Rosethorn Acolyte
 2 Lovestruck Beast
-2 Worldspine Wurm
-2 Possibility Storm
 3 Lukka, Coppercoat Outcast
+3 Possibility Storm
 3 Forest
 3 Rootbound Crag
 3 Game Trail
 3 Bonecrusher Giant
 3 Mountain
-3 Possibility Storm
 3 Lovestruck Beast
 3 Rosethorn Acolyte
 3 Captain Lannery Storm
+4 Possibility Storm
 4 Forest
 4 Rootbound Crag
 4 Game Trail
 4 Bonecrusher Giant
 4 Lovestruck Beast
-4 Possibility Storm
 5 Forest
 6 Forest
 7 Forest

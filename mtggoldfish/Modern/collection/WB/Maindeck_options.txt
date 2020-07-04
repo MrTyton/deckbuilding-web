@@ -3,12 +3,12 @@
 4 Fatal Push
 2 Plains
 4 Path to Exile
-1 Overgrown Tomb
 1 Indatha Triome
 1 Wooded Foothills
 1 Temple Garden
 1 Nurturing Peatland
 1 Scavenging Ooze
+1 Overgrown Tomb
 1 Gavony Township
 1 Siege Rhino
 1 Windswept Heath
@@ -21,10 +21,10 @@
 2 Temple Garden
 2 Nurturing Peatland
 2 Scavenging Ooze
+2 Overgrown Tomb
 2 Forest
 2 Assassin's Trophy
 2 Windswept Heath
-2 Overgrown Tomb
 2 Voice of Resurgence
 2 Siege Rhino
 3 Windswept Heath
@@ -45,19 +45,19 @@
 2 Bitterblossom
 3 Bitterblossom
 1 Tidehollow Sculler
-1 Sorin, Solemn Visitor
 1 Windbrisk Heights
+1 Sorin, Solemn Visitor
 2 Windbrisk Heights
 2 Tidehollow Sculler
 3 Tidehollow Sculler
 4 Bitterblossom
 4 Tidehollow Sculler
-1 Cling to Dust
-2 Cling to Dust
 1 Field of Ruin
 2 Field of Ruin
-1 Snow-Covered Swamp
+1 Cling to Dust
+2 Cling to Dust
 1 Castle Locthwain
+1 Snow-Covered Swamp
 1 Snow-Covered Plains
 2 Snow-Covered Swamp
 2 Snow-Covered Plains
@@ -83,83 +83,44 @@
 4 Shambling Vent
 4 Spectral Procession
 4 Windbrisk Heights
-1 Mystic Sanctuary
-1 Watery Grave
-1 Drown in the Loch
-1 Flooded Strand
-1 Polluted Delta
-1 Snapcaster Mage
-2 Mystic Sanctuary
-2 Drown in the Loch
-2 Snapcaster Mage
-2 Polluted Delta
-3 Polluted Delta
-4 Polluted Delta
-1 Thought Scour
-1 Uro, Titan of Nature's Wrath
-1 Serum Visions
-1 Snow-Covered Forest
-1 Tarmogoyf
-1 Snow-Covered Island
-1 Darkslick Shores
-1 Abrupt Decay
-1 Breeding Pool
-1 Verdant Catacombs
-1 Misty Rainforest
-1 Narnam Renegade
-1 Force of Negation
-1 Deprive
-1 Mishra's Bauble
-2 Verdant Catacombs
-2 Thought Scour
-2 Uro, Titan of Nature's Wrath
-2 Mishra's Bauble
-2 Narnam Renegade
-2 Snow-Covered Island
-2 Deprive
-2 Abrupt Decay
-2 Tarmogoyf
-2 Breeding Pool
-2 Misty Rainforest
-2 Force of Negation
-3 Misty Rainforest
-3 Drown in the Loch
-3 Snapcaster Mage
-3 Uro, Titan of Nature's Wrath
-3 Force of Negation
-3 Thought Scour
-3 Narnam Renegade
-3 Tarmogoyf
-4 Misty Rainforest
-4 Uro, Titan of Nature's Wrath
-4 Snapcaster Mage
-4 Thought Scour
 1 Opt
+1 Watery Grave
 1 Brazen Borrower
+1 Mystic Sanctuary
 1 Island
+1 Drown in the Loch
 1 Archmage's Charm
 1 Vendilion Clique
-1 Cryptic Command
-1 Spellstutter Sprite
 1 Fallen Shinobi
+1 Cryptic Command
+1 Flooded Strand
+1 Spellstutter Sprite
+1 Polluted Delta
+1 Snapcaster Mage
 2 Opt
+2 Mystic Sanctuary
+2 Watery Grave
 2 Brazen Borrower
 2 Spellstutter Sprite
-2 Watery Grave
 2 Island
+2 Drown in the Loch
 2 Archmage's Charm
 2 Fallen Shinobi
 2 Cryptic Command
+2 Snapcaster Mage
 2 Flooded Strand
+2 Polluted Delta
 3 Flooded Strand
-3 Spellstutter Sprite
 3 Watery Grave
+3 Spellstutter Sprite
+3 Polluted Delta
 3 Island
 3 Archmage's Charm
 3 Mystic Sanctuary
 3 Cryptic Command
 4 Flooded Strand
 4 Spellstutter Sprite
+4 Polluted Delta
 4 Island
 5 Island
 6 Island

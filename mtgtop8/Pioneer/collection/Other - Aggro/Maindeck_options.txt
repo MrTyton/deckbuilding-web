@@ -59,10 +59,10 @@
 2 Mountain
 3 Mountain
 1 Clifftop Retreat
-1 Titan's Strength
 1 Monastery Swiftspear
 1 Soul-Scar Mage
 1 Dreadhorde Arcanist
+1 Titan's Strength
 1 Reckless Rage
 1 Favored Hoplite
 1 Tenth District Legionnaire
@@ -72,10 +72,10 @@
 1 Gryff's Boon
 1 Boros Charm
 1 Gods Willing
-2 Titan's Strength
-2 Soul-Scar Mage
 2 Dreadhorde Arcanist
+2 Soul-Scar Mage
 2 Monastery Swiftspear
+2 Titan's Strength
 2 Reckless Rage
 2 Gird for Battle
 2 Gryff's Boon
@@ -87,8 +87,8 @@
 3 Battlefield Forge
 3 Sacred Foundry
 3 Soul-Scar Mage
-3 Monastery Swiftspear
 3 Dreadhorde Arcanist
+3 Monastery Swiftspear
 3 Reckless Rage
 3 Titan's Strength
 3 Favored Hoplite
@@ -102,8 +102,8 @@
 4 Sacred Foundry
 4 Soul-Scar Mage
 4 Monastery Swiftspear
-4 Titan's Strength
 4 Reckless Rage
+4 Titan's Strength
 4 Defiant Strike
 4 Tenth District Legionnaire
 4 Favored Hoplite
@@ -160,8 +160,8 @@
 3 Thoughtseize
 4 Thoughtseize
 2 Scavenging Ooze
-1 Pelt Collector
 1 Experiment One
+1 Pelt Collector
 2 Pelt Collector
 2 Experiment One
 3 Pelt Collector
@@ -237,79 +237,79 @@
 4 Hangarback Walker
 4 Steel Overseer
 4 Metallic Mimic
-1 Rishkar, Peema Renegade
 1 Nissa, Voice of Zendikar
+1 Rishkar, Peema Renegade
 1 Hissing Quagmire
 1 Assassin's Trophy
 1 Voracious Hydra
+2 Rishkar, Peema Renegade
 2 Nissa, Voice of Zendikar
 2 Assassin's Trophy
 2 Voracious Hydra
-2 Rishkar, Peema Renegade
+3 Rishkar, Peema Renegade
 3 Nissa, Voice of Zendikar
 3 Assassin's Trophy
 3 Voracious Hydra
-3 Rishkar, Peema Renegade
 4 Nissa, Voice of Zendikar
 4 Assassin's Trophy
 4 Voracious Hydra
+1 Gallia of the Endless Dance
+1 Domri, Anarch of Bolas
 1 Gruul Spellbreaker
 1 Hashep Oasis
 1 Dryad Militant
-1 Burning-Tree Emissary
 1 Bonecrusher Giant
+1 Burning-Tree Emissary
 1 Hazoret the Fervent
 1 Zhur-Taa Goblin
-1 Domri, Anarch of Bolas
 1 Questing Beast
-1 Gallia of the Endless Dance
 1 Embercleave
 1 Ghor-Clan Rampager
 1 Game Trail
 1 Domri Rade
 1 Voltaic Brawler
+2 Gallia of the Endless Dance
 2 Gruul Spellbreaker
 2 Hashep Oasis
-2 Bonecrusher Giant
 2 Burning-Tree Emissary
+2 Bonecrusher Giant
 2 Zhur-Taa Goblin
 2 Ghor-Clan Rampager
 2 Voltaic Brawler
 2 Embercleave
-2 Gallia of the Endless Dance
 2 Game Trail
 3 Gruul Spellbreaker
 3 Bonecrusher Giant
 3 Burning-Tree Emissary
 3 Ghor-Clan Rampager
 3 Voltaic Brawler
-4 Ghor-Clan Rampager
-4 Bonecrusher Giant
 4 Gruul Spellbreaker
 4 Burning-Tree Emissary
+4 Bonecrusher Giant
+4 Ghor-Clan Rampager
 4 Voltaic Brawler
 1 Deathrite Shaman
 1 Grim Flayer
 1 Blood Crypt
-1 Kroxa, Titan of Death's Hunger
 1 Dreadbore
-1 Kolaghan's Command
 1 Dead Weight
 1 Chevill, Bane of Monsters
+1 Kolaghan's Command
 1 Unbridled Growth
-2 Kolaghan's Command
+1 Kroxa, Titan of Death's Hunger
 2 Grim Flayer
 2 Deathrite Shaman
 2 Blood Crypt
 2 Dreadbore
 2 Chevill, Bane of Monsters
 2 Dead Weight
+2 Kolaghan's Command
 2 Unbridled Growth
 2 Kroxa, Titan of Death's Hunger
 3 Grim Flayer
+3 Kroxa, Titan of Death's Hunger
 3 Deathrite Shaman
 3 Blood Crypt
-3 Kroxa, Titan of Death's Hunger
 3 Chevill, Bane of Monsters
 3 Unbridled Growth
 4 Grim Flayer
@@ -327,13 +327,13 @@
 2 Curious Obsession
 2 Sram, Senior Edificer
 2 Ethereal Armor
-3 Curious Obsession
 3 Springleaf Drum
 3 Alseid of Life's Bounty
+3 Curious Obsession
 3 Sram, Senior Edificer
 3 Ethereal Armor
-4 Curious Obsession
 4 Alseid of Life's Bounty
+4 Curious Obsession
 4 Sram, Senior Edificer
 4 Ethereal Armor
 1 Concealed Courtyard

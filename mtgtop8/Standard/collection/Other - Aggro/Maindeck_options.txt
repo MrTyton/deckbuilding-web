@@ -182,10 +182,10 @@
 3 Gingerbrute
 3 Stonecoil Serpent
 4 Gingerbrute
-1 Steel Overseer
 1 Mystic Forge
 1 Ugin, the Spirit Dragon
 1 Solemn Simulacrum
+1 Steel Overseer
 1 Radiant Fountain
 1 Palladium Myr
 1 Karn's Bastion
@@ -197,10 +197,10 @@
 2 Solemn Simulacrum
 2 Ugin, the Spirit Dragon
 2 Crystalline Giant
-2 Karn's Bastion
 2 Steel Overseer
-2 Palladium Myr
+2 Karn's Bastion
 2 Radiant Fountain
+2 Palladium Myr
 2 Ugin, the Ineffable
 2 Mobilized District
 2 Interplanar Beacon
@@ -209,8 +209,8 @@
 3 Ugin, the Ineffable
 3 Crystalline Giant
 3 Mystic Forge
-3 Radiant Fountain
 3 Steel Overseer
+3 Radiant Fountain
 3 Palladium Myr
 3 Karn's Bastion
 3 Interplanar Beacon
@@ -218,12 +218,12 @@
 4 Ugin, the Ineffable
 4 Solemn Simulacrum
 4 Crystalline Giant
-4 Steel Overseer
+4 Mystic Forge
 4 Radiant Fountain
 4 Palladium Myr
-4 Mystic Forge
-4 Karn's Bastion
+4 Steel Overseer
 4 Stonecoil Serpent
+4 Karn's Bastion
 4 Interplanar Beacon
 2 Steam Vents
 1 Startling Development
@@ -242,17 +242,16 @@
 4 Frostveil Ambush
 4 Startling Development
 1 Fervent Champion
-1 Blacklance Paragon
 1 Foulmire Knight
 1 Fight as One
 1 Stormfist Crusader
+1 Blacklance Paragon
 1 Inspiring Veteran
 1 Worthy Knight
 1 Dire Tactics
 1 Tournament Grounds
 1 Smitten Swordmaster
 1 Venerable Knight
-2 Blacklance Paragon
 2 Fight as One
 2 Dire Tactics
 2 Worthy Knight
@@ -262,10 +261,11 @@
 2 Venerable Knight
 2 Inspiring Veteran
 2 Smitten Swordmaster
-3 Blacklance Paragon
+2 Blacklance Paragon
 3 Venerable Knight
 3 Inspiring Veteran
 3 Smitten Swordmaster
+3 Blacklance Paragon
 3 Fight as One
 3 Worthy Knight
 3 Tournament Grounds
@@ -476,8 +476,8 @@
 3 Setessan Petitioner
 4 Paradise Druid
 4 Migratory Greathorn
-4 Arboreal Grazer
 4 Pollywog Symbiote
+4 Arboreal Grazer
 9 Forest
 10 Forest
 11 Forest

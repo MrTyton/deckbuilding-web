@@ -2,10 +2,11 @@
 3 Past in Flames
 1 Forest
 1 Pentad Prism
+1 Mana Confluence
 1 Mishra's Bauble
 1 Song of Creation
-1 Mana Confluence
 1 Stomping Ground
+1 Memnite
 1 Engineered Explosives
 1 Pact of Negation
 1 Noxious Revival
@@ -17,15 +18,15 @@
 1 Wooded Foothills
 1 Misty Rainforest
 1 Manamorphose
-1 Memnite
 1 Simian Spirit Guide
 1 Shimmer of Possibility
 2 Mana Confluence
 2 Pentad Prism
-2 Song of Creation
 2 Mishra's Bauble
 2 Steam Vents
+2 Song of Creation
 2 Stomping Ground
+2 Memnite
 2 Engineered Explosives
 2 Wild Cantor
 2 Grapeshot
@@ -33,7 +34,6 @@
 2 Shimmer of Possibility
 2 Manamorphose
 2 Simian Spirit Guide
-2 Memnite
 2 Pact of Negation
 3 Engineered Explosives
 3 Mishra's Bauble
@@ -55,10 +55,12 @@
 4 Mana Confluence
 4 Simian Spirit Guide
 4 Wild Cantor
+1 River of Tears
 1 Inquisition of Kozilek
 1 Opt
 1 Darkslick Shores
 1 Omen of the Sea
+1 Jace, Wielder of Mysteries
 1 Drowned Catacomb
 1 Remand
 1 Relic of Progenitus
@@ -68,9 +70,7 @@
 1 Swamp
 1 Watery Grave
 1 Inverter of Truth
-1 River of Tears
 1 Eldrazi Temple
-1 Jace, Wielder of Mysteries
 1 Shelldock Isle
 2 Inquisition of Kozilek
 2 Watery Grave
@@ -79,8 +79,8 @@
 2 Omen of the Sea
 2 Remand
 2 Shelldock Isle
-2 Relic of Progenitus
 2 River of Tears
+2 Relic of Progenitus
 2 Jace, Wielder of Mysteries
 2 Thassa's Oracle
 2 Thoughtseize
@@ -103,22 +103,23 @@
 3 Drowned Catacomb
 3 Eldrazi Temple
 4 Thassa's Oracle
-4 Jace, Wielder of Mysteries
+4 Watery Grave
 4 Opt
 4 Remand
 4 Darkslick Shores
 4 Drowned Catacomb
 4 Fatal Push
 4 Omen of the Sea
-4 Watery Grave
+4 Jace, Wielder of Mysteries
 4 Inverter of Truth
 1 Windswept Heath
 1 Temple Garden
 1 Stoneforge Mystic
-1 Llanowar Elves
+1 Collected Company
 1 Elvish Archdruid
 1 Ezuri, Renegade Leader
 1 Heritage Druid
+1 Llanowar Elves
 1 Elvish Mystic
 1 Selfless Spirit
 1 Leyline of Abundance
@@ -126,16 +127,16 @@
 1 Boreal Druid
 1 Umbral Mantle
 1 Devoted Druid
-1 Collected Company
 1 Marwyn, the Nurturer
 1 Horizon Canopy
 1 Beastcaller Savant
 2 Windswept Heath
 2 Forest
-2 Llanowar Elves
 2 Temple Garden
+2 Collected Company
 2 Ezuri, Renegade Leader
 2 Elvish Mystic
+2 Llanowar Elves
 2 Elvish Archdruid
 2 Heritage Druid
 2 Leyline of Abundance
@@ -143,14 +144,13 @@
 2 Devoted Druid
 2 Umbral Mantle
 2 Razorverge Thicket
-2 Collected Company
 2 Beastcaller Savant
 2 Horizon Canopy
 3 Windswept Heath
-3 Llanowar Elves
+3 Collected Company
 3 Elvish Archdruid
 3 Elvish Mystic
-3 Collected Company
+3 Llanowar Elves
 3 Devoted Druid
 3 Beastcaller Savant
 3 Horizon Canopy
@@ -160,10 +160,10 @@
 3 Razorverge Thicket
 3 Ezuri, Renegade Leader
 4 Windswept Heath
+4 Collected Company
 4 Llanowar Elves
 4 Elvish Archdruid
 4 Elvish Mystic
-4 Collected Company
 4 Leyline of Abundance
 4 Horizon Canopy
 4 Razorverge Thicket
