@@ -1,3 +1,7 @@
+1 Batterskull
+1 Sword of Feast and Famine
+2 Stoneforge Mystic
+3 Stoneforge Mystic
 2 Snow-Covered Forest
 1 Abundant Growth
 2 Abundant Growth
@@ -5,15 +9,13 @@
 3 Abundant Growth
 4 Uro, Titan of Nature's Wrath
 1 Windswept Heath
-2 Teferi, Hero of Dominaria
 4 Stoneforge Mystic
 1 Polluted Delta
-2 Archmage's Charm
-1 Snapcaster Mage
 3 Teferi, Time Raveler
-3 Field of Ruin
+2 Snapcaster Mage
 2 Windswept Heath
 1 Scalding Tarn
+4 Field of Ruin
 4 Force of Negation
 1 Dovin's Veto
 2 Hallowed Fountain
@@ -22,7 +24,6 @@
 2 Polluted Delta
 1 Prairie Stream
 1 Prismatic Vista
-2 Snapcaster Mage
 4 Abundant Growth
 1 Hinterland Harbor
 1 Field of the Dead
@@ -31,8 +32,9 @@
 2 Field of the Dead
 3 Growth Spiral
 4 Growth Spiral
-4 Field of Ruin
+3 Mana Leak
 1 Sword of Fire and Ice
+1 Ashiok, Dream Render
 1 Island
 1 Forest
 1 Primeval Titan
@@ -40,7 +42,6 @@
 3 Archmage's Charm
 3 Field of the Dead
 4 Cryptic Command
-3 Mana Leak
 1 Venser, Shaper Savant
 1 Knight of Autumn
 3 Windswept Heath
@@ -67,7 +68,6 @@
 4 Wall of Omens
 4 Restoration Angel
 4 Knight of Autumn
-1 Ashiok, Dream Render
 3 Snow-Covered Forest
 2 Batterskull
 1 Aether Gust
@@ -81,8 +81,8 @@
 1 Arcades, the Strategist
 2 Wall of Blossoms
 2 Kitchen Finks
-2 Vendilion Clique
 2 Dovin's Veto
+2 Vendilion Clique
 3 Wall of Blossoms
 3 Kitchen Finks
 3 Cavern of Souls
@@ -95,8 +95,8 @@
 1 Ephemerate
 1 Soulherder
 1 Noble Hierarch
-1 Thassa, Deep-Dwelling
 1 Canopy Vista
+1 Thassa, Deep-Dwelling
 1 Eternal Witness
 1 Aether Vial
 1 Meddling Mage
@@ -128,6 +128,7 @@
 4 Spreading Seas
 4 Venser, Shaper Savant
 4 Supreme Verdict
+1 Shark Typhoon
 1 Kaya's Guile
 1 Watery Grave
 1 Assassin's Trophy

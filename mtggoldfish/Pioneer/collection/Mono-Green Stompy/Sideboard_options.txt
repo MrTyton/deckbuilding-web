@@ -65,18 +65,6 @@
 2 Hornet Nest
 2 Vivien Reid
 2 Epic Confrontation
-1 Fairgrounds Warden
-1 Heliod, Sun-Crowned
-1 Dromoka's Command
-1 Fiendslayer Paladin
-1 Rest in Peace
-1 Declaration in Stone
-1 Eidolon of Rhetoric
-2 Dromoka's Command
-2 Rest in Peace
-2 Declaration in Stone
-3 Rest in Peace
-3 Dromoka's Command
 1 Leyline of the Void
 1 Aethersphere Harvester
 2 Aethersphere Harvester
@@ -84,6 +72,18 @@
 3 Leyline of the Void
 1 The Great Henge
 3 Damping Sphere
+1 Fairgrounds Warden
+1 Heliod, Sun-Crowned
+1 Fiendslayer Paladin
+1 Dromoka's Command
+1 Rest in Peace
+1 Declaration in Stone
+1 Eidolon of Rhetoric
+2 Dromoka's Command
+2 Rest in Peace
+2 Declaration in Stone
+3 Dromoka's Command
+3 Rest in Peace
 1 Tireless Tracker
 1 Phyrexian Revoker
 1 Kenrith's Transformation
@@ -91,9 +91,8 @@
 2 Phyrexian Revoker
 2 Tireless Tracker
 2 Surrak, the Hunt Caller
-3 Reclamation Sage
 3 Phyrexian Revoker
-3 Heroic Intervention
+3 Reclamation Sage
 1 Setessan Tactics
 1 Wilt
 2 Questing Beast
@@ -101,3 +100,4 @@
 2 Wilt
 3 Wilt
 4 Wilt
+3 Heroic Intervention

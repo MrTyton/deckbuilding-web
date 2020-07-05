@@ -75,20 +75,20 @@
 2 Elspeth, Sun's Nemesis
 3 Karn, the Great Creator
 4 Atris, Oracle of Half-Truths
-1 Shepherd of the Flock
+1 Charming Prince
 1 Disinformation Campaign
 1 Disfigure
-1 Charming Prince
+1 Shepherd of the Flock
 1 Archon of Sun's Grace
-2 Disfigure
 2 Charming Prince
+2 Disfigure
 2 Disinformation Campaign
 2 Archon of Sun's Grace
-3 Charming Prince
 3 Archon of Sun's Grace
+3 Charming Prince
 3 Disinformation Campaign
-4 Disinformation Campaign
 4 Charming Prince
+4 Disinformation Campaign
 1 Glass Casket
 2 Glass Casket
 1 Neutralize
@@ -108,8 +108,8 @@
 4 The Birth of Meletis
 5 Plains
 6 Plains
-1 Zagoth Triome
 1 Cling to Dust
+1 Zagoth Triome
 1 Basilica Bell-Haunt
 1 Disenchant
 1 Raugrin Triome
@@ -134,9 +134,9 @@
 1 Field of Ruin
 2 Tyrant's Scorn
 2 Field of Ruin
+1 Teferi, Master of Time
 1 Banishing Light
 1 Ugin, the Spirit Dragon
-1 Teferi, Master of Time
 1 Eat to Extinction
 1 Tranquil Cove
 1 Ugin, the Ineffable
@@ -148,20 +148,9 @@
 2 Negate
 2 Eat to Extinction
 3 Ugin, the Ineffable
-1 Dance of the Manse
-1 Doom Foretold
-1 Golden Egg
-2 Castle Locthwain
-2 Dance of the Manse
-2 Doom Foretold
-2 Golden Egg
-3 Doom Foretold
-3 Dance of the Manse
-3 Golden Egg
-4 Doom Foretold
-1 The Elderspell
-1 Legion's End
 1 Liliana's Triumph
+1 Legion's End
+1 The Elderspell
 1 Kasmina, Enigmatic Mentor
 2 The Elderspell
 2 Liliana's Triumph
@@ -172,3 +161,14 @@
 2 Murderous Rider
 3 Mystical Dispute
 4 Mystical Dispute
+1 Dance of the Manse
+1 Golden Egg
+1 Doom Foretold
+2 Castle Locthwain
+2 Dance of the Manse
+2 Golden Egg
+2 Doom Foretold
+3 Dance of the Manse
+3 Golden Egg
+3 Doom Foretold
+4 Doom Foretold

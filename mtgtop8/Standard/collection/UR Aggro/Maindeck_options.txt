@@ -1,3 +1,23 @@
+1 Frantic Inventory
+1 Beacon Bolt
+1 Scorching Dragonfire
+1 Crash Through
+2 Frantic Inventory
+2 Scorching Dragonfire
+2 Crash Through
+3 Crash Through
+3 Frantic Inventory
+3 Scorching Dragonfire
+4 Crash Through
+4 Frantic Inventory
+1 Fire Prophecy
+1 Improbable Alliance
+1 Izzet Guildgate
+2 Fire Prophecy
+2 Improbable Alliance
+2 Izzet Guildgate
+3 Fire Prophecy
+4 Fire Prophecy
 1 Raking Claws
 4 Crackling Drake
 1 Radical Idea
@@ -13,14 +33,13 @@
 2 Cathartic Reunion
 3 Cathartic Reunion
 4 Cathartic Reunion
-4 Thrill of Possibility
-1 Fabled Passage
-1 Pteramander
+3 Stormwing Entity
 1 Brazen Borrower
-2 Pteramander
 2 Brazen Borrower
-3 Pteramander
-4 Pteramander
+1 Castle Vantress
+2 Fabled Passage
+1 Sea-Dasher Octopus
+3 Temple of Epiphany
 1 Unsummon
 1 Chandra, Awakened Inferno
 2 Unsummon
@@ -32,40 +51,36 @@
 2 Raking Claws
 2 Essence Scatter
 3 Winged Words
-1 Arclight Phoenix
-1 Maximize Velocity
-1 Lava Coil
-1 Finale of Promise
-1 Goblin Electromancer
-2 Fabled Passage
-2 Arclight Phoenix
-2 Maximize Velocity
-2 The Royal Scions
-2 Goblin Electromancer
-3 Arclight Phoenix
-3 Goblin Electromancer
-4 Arclight Phoenix
-1 Stormwing Entity
-1 Frantic Inventory
-1 Beacon Bolt
-1 Scorching Dragonfire
-1 Crash Through
-2 Stormwing Entity
-2 Frantic Inventory
-2 Scorching Dragonfire
-2 Crash Through
-3 Crash Through
-3 Frantic Inventory
-3 Scorching Dragonfire
-4 Crash Through
-4 Frantic Inventory
+1 Barrin, Tolarian Archmage
+1 Light Up the Stage
+1 See the Truth
+1 Dreadhorde Arcanist
+1 Samut's Sprint
+1 Infuriate
+1 Stonecoil Serpent
+2 Light Up the Stage
+2 See the Truth
+2 Samut's Sprint
+2 Infuriate
+2 Stonecoil Serpent
+2 Dreadhorde Arcanist
+3 Stonecoil Serpent
+3 See the Truth
+3 Light Up the Stage
+3 Infuriate
+3 Dreadhorde Arcanist
+4 Dreadhorde Arcanist
+4 Stonecoil Serpent
+4 Stormwing Entity
+4 Light Up the Stage
+4 See the Truth
+4 Infuriate
+4 Scorching Dragonfire
 1 Spectral Sailor
 1 Risk Factor
 1 Ionize
-1 Castle Vantress
 1 Stern Dismissal
 1 Bonecrusher Giant
-1 Sea-Dasher Octopus
 1 Mystical Dispute
 1 Neutralize
 1 Skewer the Critics
@@ -80,7 +95,6 @@
 2 Skewer the Critics
 3 Spectral Sailor
 3 Ionize
-3 Temple of Epiphany
 3 Sea-Dasher Octopus
 3 Neutralize
 3 Brazen Borrower
@@ -100,5 +114,17 @@
 2 Merchant of the Vale
 3 Ominous Seas
 3 Improbable Alliance
-4 Ominous Seas
 4 Improbable Alliance
+4 Ominous Seas
+1 Lava Coil
+1 Arclight Phoenix
+1 Finale of Promise
+1 Maximize Velocity
+1 Goblin Electromancer
+2 Arclight Phoenix
+2 Maximize Velocity
+2 The Royal Scions
+2 Goblin Electromancer
+3 Goblin Electromancer
+3 Arclight Phoenix
+4 Arclight Phoenix

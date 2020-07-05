@@ -8,8 +8,8 @@
 1 Oko, Thief of Crowns
 1 Ponder
 1 Ice-Fang Coatl
-2 Uro, Titan of Nature's Wrath
 2 Ice-Fang Coatl
+2 Uro, Titan of Nature's Wrath
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
 2 Baleful Strix
@@ -17,14 +17,14 @@
 4 Misty Rainforest
 1 Prismatic Vista
 1 Leovold, Emissary of Trest
-1 Shardless Agent
 1 Cavern Harpy
 1 Aluren
+1 Shardless Agent
+2 Aluren
 2 Cavern Harpy
 2 Ponder
-2 Aluren
-3 Cavern Harpy
 3 Aluren
+3 Cavern Harpy
 3 Ponder
 3 Snow-Covered Island
 2 Ugin, the Spirit Dragon
@@ -40,8 +40,8 @@
 4 Abrupt Decay
 3 Baleful Strix
 1 Force of Negation
-1 Bojuka Bog
 1 Crop Rotation
+1 Bojuka Bog
 2 Crop Rotation
 3 Crop Rotation
 4 Crop Rotation
@@ -61,18 +61,18 @@
 1 Dark Depths
 1 Thespian's Stage
 2 Thespian's Stage
-1 Maze of Ith
+1 Elvish Reclaimer
+1 Ramunap Excavator
+1 Primeval Titan
 1 Kozilek, Butcher of Truth
 1 Glacial Chasm
-1 Candelabra of Tawnos
 1 Pithing Needle
-1 Emrakul, the Aeons Torn
-1 Primeval Titan
 1 Reclamation Sage
 1 Cloudpost
-1 Ramunap Excavator
 1 Eye of Ugin
-1 Elvish Reclaimer
+1 Candelabra of Tawnos
+1 Emrakul, the Aeons Torn
+1 Maze of Ith
 1 Ulamog, the Ceaseless Hunger
 1 Vesuva
 1 Glimmerpost
@@ -92,9 +92,9 @@
 3 Cloudpost
 3 Expedition Map
 4 Elvish Reclaimer
+4 Forest
 4 Cloudpost
 4 Glimmerpost
-4 Forest
 4 Expedition Map
 5 Forest
 6 Forest
@@ -111,10 +111,10 @@
 1 Nicol Bolas, Planeswalker
 1 Dovescape
 1 Ethereal Absolution
-2 Veil of Summer
 2 Eureka
-3 Veil of Summer
+2 Veil of Summer
 3 Eureka
+3 Veil of Summer
 3 Phyrexian Tower
 4 Veil of Summer
 1 Field of the Dead
@@ -137,15 +137,15 @@
 1 Arcum's Astrolabe
 1 Counterspell
 1 Spell Snare
-1 Volcanic Island
 1 Scalding Tarn
 1 Spell Pierce
+1 Volcanic Island
 1 Flooded Strand
 2 Flooded Strand
 1 True-Name Nemesis
-1 Preordain
-1 Peek
 1 Portent
+1 Peek
+1 Preordain
 1 Narset, Parter of Veils
 1 Lightning Bolt
 1 Snow-Covered Mountain
@@ -159,16 +159,16 @@
 3 Lion's Eye Diamond
 3 Lotus Petal
 4 Lotus Petal
-1 Mox Opal
 1 Walking Ballista
+1 Mox Opal
 1 City of Traitors
 1 Ancient Tomb
 2 City of Traitors
 2 Mox Opal
 2 Ancient Tomb
-3 City of Traitors
 3 Mox Opal
 3 Ancient Tomb
+3 City of Traitors
 4 City of Traitors
 4 Ancient Tomb
 4 Baleful Strix
@@ -205,11 +205,11 @@
 4 Echo of Eons
 1 Sylvan Library
 1 Inquisition of Kozilek
-1 Thought Scour
 1 Gurmag Angler
-1 Mental Note
-1 Cling to Dust
+1 Thought Scour
 1 Fatal Push
+1 Cling to Dust
+1 Mental Note
 2 True-Name Nemesis
 2 Volcanic Island
 4 Snow-Covered Island
@@ -225,9 +225,9 @@
 1 Waterlogged Grove
 3 Underground Sea
 4 Underground Sea
-1 Entomb
 1 Unmask
 1 Griselbrand
+1 Entomb
 1 Exhume
 2 Entomb
 2 Unmask
@@ -239,45 +239,45 @@
 4 Entomb
 4 Exhume
 1 Island
-1 Swords to Plowshares
 1 Venser, Shaper Savant
+1 Swords to Plowshares
 2 Tundra
 3 Flooded Strand
 4 Flooded Strand
 1 Inventors' Fair
 1 The Tabernacle at Pendrell Vale
 1 Nicol Bolas, God-Pharaoh
-1 Dreadhorde Arcanist
-1 Kolaghan's Command
-1 Jace, Vryn's Prodigy
-1 Dark Confidant
-1 Stifle
-1 Young Pyromancer
-1 Magmatic Sinkhole
-1 Liliana's Triumph
-1 Abrade
-1 Plague Engineer
-1 Diabolic Edict
 1 Vraska, Golgari Queen
 1 Curse of Exhaustion
+1 Stifle
+1 Jace, Vryn's Prodigy
+1 Young Pyromancer
+1 Plague Engineer
+1 Kolaghan's Command
+1 Magmatic Sinkhole
+1 Abrade
+1 Dark Confidant
+1 Diabolic Edict
+1 Dreadhorde Arcanist
+1 Liliana's Triumph
 2 Mystic Sanctuary
+1 Counterbalance
 1 Teferi, Hero of Dominaria
-1 Unexpectedly Absent
 1 Mission Briefing
+1 Supreme Verdict
+1 Entreat the Angels
+1 Unexpectedly Absent
 1 Temporal Mastery
-1 Path to Exile
-1 Teferi, Time Raveler
-1 Council's Judgment
-1 Mindbreak Trap
-1 Flusterstorm
+1 Terminus
 1 Fire Prophecy
 1 Soul-Guide Lantern
 1 Engineered Explosives
+1 Mindbreak Trap
 1 Serum Visions
-1 Supreme Verdict
-1 Counterbalance
-1 Terminus
-1 Entreat the Angels
+1 Flusterstorm
+1 Teferi, Time Raveler
+1 Path to Exile
+1 Council's Judgment
 1 Predict
 2 Snow-Covered Plains
 1 Eternal Witness
@@ -287,22 +287,31 @@
 3 See the Truth
 3 Gilded Goose
 4 Prismatic Vista
-1 Tasigur, the Golden Fang
+1 Dryad Arbor
+1 Scavenging Ooze
+1 Birds of Paradise
+2 Drown in the Loch
+2 Leovold, Emissary of Trest
+2 Birds of Paradise
+3 True-Name Nemesis
+3 Birds of Paradise
+4 True-Name Nemesis
 1 Murderous Cut
-1 Lutri, the Spellchaser
-1 Tarmogoyf
-1 Tyrant's Scorn
-1 Toxic Deluge
 1 Crashing Footfalls
+1 Toxic Deluge
+1 Tarmogoyf
 1 Assassin's Trophy
+1 Tasigur, the Golden Fang
+1 Lutri, the Spellchaser
+1 Tyrant's Scorn
 2 Karakas
 3 Tropical Island
 4 Tropical Island
 1 Urza's Bauble
 1 Wishclaw Talisman
 1 Ancient Den
-2 Scrubland
 2 Monastery Mentor
+2 Scrubland
 2 Urza's Bauble
 2 Ancient Den
 2 Wishclaw Talisman
@@ -320,34 +329,25 @@
 2 Sylvan Library
 3 Mox Diamond
 4 Mox Diamond
-1 Birds of Paradise
-1 Dryad Arbor
-1 Scavenging Ooze
-2 Birds of Paradise
-2 Drown in the Loch
-2 Leovold, Emissary of Trest
-3 Birds of Paradise
-3 True-Name Nemesis
-4 True-Name Nemesis
-1 Umezawa's Jitte
 1 Mishra's Factory
 1 Steel Overseer
-1 Stonecoil Serpent
 1 Blinkmoth Nexus
 1 Lodestone Golem
-1 Phyrexian Revoker
 1 Thorn of Amethyst
+1 Stonecoil Serpent
 1 Vault Skirge
 1 Inkmoth Nexus
 1 Hangarback Walker
+1 Umezawa's Jitte
+1 Phyrexian Revoker
 1 Phyrexian Metamorph
 1 Arcbound Ravager
+2 Mishra's Factory
 2 Blinkmoth Nexus
 2 Steel Overseer
 2 Thorn of Amethyst
 2 Lodestone Golem
 2 Arcbound Ravager
-2 Mishra's Factory
 2 Vault Skirge
 2 Stonecoil Serpent
 3 Steel Overseer
@@ -357,20 +357,20 @@
 3 Arcbound Ravager
 3 Mishra's Factory
 4 Steel Overseer
+4 Walking Ballista
 4 Thorn of Amethyst
 4 Mishra's Factory
 4 Lodestone Golem
-4 Walking Ballista
 4 Arcbound Ravager
-1 Thran Dynamo
 1 Voltaic Key
-1 Manifold Key
 1 Basalt Monolith
+1 Manifold Key
 1 Crystal Vein
+1 Thran Dynamo
 1 Paradox Engine
 1 Grim Monolith
-2 Manifold Key
 2 Voltaic Key
+2 Manifold Key
 2 Basalt Monolith
 2 Inventors' Fair
 2 Crystal Vein
@@ -383,35 +383,89 @@
 4 Inventors' Fair
 4 Grim Monolith
 4 Crystal Vein
+1 Reanimate
+1 Bloodstained Mire
+2 Bloodstained Mire
 1 Marsh Flats
+1 Satyr Wayfinder
+1 Blood Crypt
+1 Street Wraith
+1 Overgrown Tomb
+1 Vengevine
+1 Gravecrawler
+1 Golgari Grave-Troll
+1 Dread Return
+1 Faithless Looting
+1 Death's Shadow
+1 Hogaak, Arisen Necropolis
+1 Bloodghast
+1 Stitcher's Supplier
+1 Carrion Feeder
+2 Carrion Feeder
+2 Street Wraith
+2 Satyr Wayfinder
+2 Overgrown Tomb
+2 Blood Crypt
+2 Hogaak, Arisen Necropolis
+2 Bloodghast
+2 Death's Shadow
+2 Marsh Flats
+2 Gravecrawler
+2 Golgari Grave-Troll
+2 Stitcher's Supplier
+2 Vengevine
+2 Faithless Looting
+3 Carrion Feeder
+3 Bloodstained Mire
+3 Street Wraith
+3 Satyr Wayfinder
+3 Marsh Flats
+3 Overgrown Tomb
+3 Blood Crypt
+3 Stitcher's Supplier
+3 Golgari Grave-Troll
+3 Vengevine
+3 Faithless Looting
+3 Hogaak, Arisen Necropolis
+3 Death's Shadow
+3 Bloodghast
+3 Gravecrawler
+4 Satyr Wayfinder
+4 Marsh Flats
+4 Stitcher's Supplier
+4 Faithless Looting
+4 Vengevine
+4 Bloodghast
+4 Hogaak, Arisen Necropolis
+4 Gravecrawler
 2 Island
-1 Brineborn Cutthroat
-1 Spellstutter Sprite
 1 Sea-Dasher Octopus
+1 Spellstutter Sprite
 1 Cunning Nightbonder
+1 Brineborn Cutthroat
 1 Spell Queller
 1 Aether Vial
 1 Mother of Runes
 1 Stonecloaker
 1 Spectral Sailor
-2 Brineborn Cutthroat
-2 Spellstutter Sprite
-2 Cunning Nightbonder
 2 Sea-Dasher Octopus
+2 Cunning Nightbonder
+2 Spellstutter Sprite
+2 Brineborn Cutthroat
 2 Spell Queller
 2 Aether Vial
 2 Stonecloaker
 2 Mother of Runes
 2 Spectral Sailor
 2 Swords to Plowshares
+3 Tundra
 3 Sea-Dasher Octopus
-3 Brineborn Cutthroat
 3 Cunning Nightbonder
 3 Spellstutter Sprite
+3 Brineborn Cutthroat
 3 Spell Queller
 3 Swords to Plowshares
 3 Aether Vial
-3 Tundra
 4 Spellstutter Sprite
 4 Spell Queller
 4 Swords to Plowshares
@@ -421,15 +475,35 @@
 3 Urza, Lord High Artificer
 4 Urza, Lord High Artificer
 4 Mishra's Bauble
-1 Reanimate
-1 Animate Dead
-1 Iona, Shield of Emeria
+1 Shallow Grave
+1 Urborg, Tomb of Yawgmoth
+1 Vampire Hexmage
+1 Unburial Rites
+1 Children of Korlis
+1 Dark Ritual
+2 Shallow Grave
+2 Urborg, Tomb of Yawgmoth
+2 Vampire Hexmage
+2 Dark Depths
+2 Dark Ritual
+3 Thespian's Stage
+3 Shallow Grave
+3 Urborg, Tomb of Yawgmoth
+3 Dark Ritual
+3 Vampire Hexmage
+3 Dark Depths
+4 Thoughtseize
+4 Shallow Grave
+4 Lion's Eye Diamond
+4 Dark Ritual
 1 Elesh Norn, Grand Cenobite
 1 Careful Study
+1 Animate Dead
 1 Daze
-2 Animate Dead
+1 Iona, Shield of Emeria
 2 Reanimate
 2 Daze
+2 Animate Dead
 2 Careful Study
 3 Daze
 3 Animate Dead
@@ -442,80 +516,6 @@
 4 Griselbrand
 4 Careful Study
 4 Animate Dead
-1 Bloodstained Mire
-2 Bloodstained Mire
-1 Children of Korlis
-1 Shallow Grave
-1 Vampire Hexmage
-1 Urborg, Tomb of Yawgmoth
-1 Unburial Rites
-1 Dark Ritual
-2 Urborg, Tomb of Yawgmoth
-2 Shallow Grave
-2 Vampire Hexmage
-2 Dark Depths
-2 Dark Ritual
-3 Urborg, Tomb of Yawgmoth
-3 Shallow Grave
-3 Thespian's Stage
-3 Dark Ritual
-3 Vampire Hexmage
-3 Dark Depths
-4 Shallow Grave
-4 Lion's Eye Diamond
-4 Dark Ritual
-4 Thoughtseize
-1 Blood Crypt
-1 Street Wraith
-1 Carrion Feeder
-1 Overgrown Tomb
-1 Vengevine
-1 Stitcher's Supplier
-1 Gravecrawler
-1 Golgari Grave-Troll
-1 Dread Return
-1 Faithless Looting
-1 Death's Shadow
-1 Hogaak, Arisen Necropolis
-1 Bloodghast
-1 Satyr Wayfinder
-2 Street Wraith
-2 Marsh Flats
-2 Carrion Feeder
-2 Overgrown Tomb
-2 Gravecrawler
-2 Stitcher's Supplier
-2 Vengevine
-2 Blood Crypt
-2 Hogaak, Arisen Necropolis
-2 Satyr Wayfinder
-2 Bloodghast
-2 Death's Shadow
-2 Golgari Grave-Troll
-2 Faithless Looting
-3 Street Wraith
-3 Overgrown Tomb
-3 Blood Crypt
-3 Marsh Flats
-3 Carrion Feeder
-3 Gravecrawler
-3 Stitcher's Supplier
-3 Vengevine
-3 Golgari Grave-Troll
-3 Faithless Looting
-3 Bloodstained Mire
-3 Hogaak, Arisen Necropolis
-3 Satyr Wayfinder
-3 Death's Shadow
-3 Bloodghast
-4 Marsh Flats
-4 Stitcher's Supplier
-4 Bloodghast
-4 Gravecrawler
-4 Vengevine
-4 Faithless Looting
-4 Hogaak, Arisen Necropolis
-4 Satyr Wayfinder
 2 Lightning Bolt
 3 Lightning Bolt
 4 Lightning Bolt
@@ -523,49 +523,50 @@
 1 Bonecrusher Giant
 1 Archmage's Charm
 2 Snapcaster Mage
-2 Spell Snare
-2 Bonecrusher Giant
-2 Impulse
+2 Jace, the Mind Sculptor
 2 Counterspell
+2 Impulse
+2 Bonecrusher Giant
+2 Spell Pierce
 2 Brazen Borrower
 2 Archmage's Charm
-2 Jace, the Mind Sculptor
-2 Spell Pierce
+2 Spell Snare
 3 Snapcaster Mage
 3 Archmage's Charm
-3 Bonecrusher Giant
 3 Impulse
+3 Bonecrusher Giant
 3 Volcanic Island
-4 Bonecrusher Giant
 4 Snapcaster Mage
+4 Bonecrusher Giant
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island
+1 Fiery Islet
 1 Lava Spike
 1 Exquisite Firecraft
+1 Chain Lightning
 1 Price of Progress
 1 Pyrostatic Pillar
 1 Eidolon of the Great Revel
 1 Rift Bolt
 1 Fireblast
-1 Chain Lightning
 1 Mountain
 1 Monastery Swiftspear
-1 Fiery Islet
 1 Goblin Guide
 2 Chain Lightning
 2 Fiery Islet
 2 Lava Spike
+2 Mountain
 2 Exquisite Firecraft
 2 Pyrostatic Pillar
 2 Price of Progress
 2 Monastery Swiftspear
-2 Mountain
 2 Goblin Guide
 2 Fireblast
 2 Eidolon of the Great Revel
 2 Rift Bolt
 3 Lava Spike
+3 Mountain
 3 Eidolon of the Great Revel
 3 Exquisite Firecraft
 3 Price of Progress
@@ -574,9 +575,8 @@
 3 Rift Bolt
 3 Goblin Guide
 3 Chain Lightning
-3 Mountain
-4 Mountain
 4 Lava Spike
+4 Mountain
 4 Chain Lightning
 4 Exquisite Firecraft
 4 Monastery Swiftspear
@@ -610,22 +610,21 @@
 2 Memorial to Genius
 2 Treasure Hunt
 2 Lonely Sandbar
-3 Mystic Sanctuary
 3 Island
+3 Mystic Sanctuary
 3 Memorial to Genius
 3 Desert of the Mindful
 3 Lonely Sandbar
 3 Treasure Hunt
 3 Arch of Orazca
 4 Mystic Sanctuary
+4 Island
 4 Desert of the Mindful
 4 Treasure Hunt
 4 Lonely Sandbar
-4 Island
 5 Island
 6 Island
 7 Island
-8 Island
 9 Island
 10 Island
 11 Island
@@ -653,3 +652,4 @@
 33 Island
 34 Island
 35 Island
+8 Island

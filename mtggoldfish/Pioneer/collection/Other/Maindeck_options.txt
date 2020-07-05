@@ -17,12 +17,12 @@
 2 Satyr Wayfinder
 3 Satyr Wayfinder
 1 Breeding Pool
-1 Prized Amalgam
 1 Silversmote Ghoul
+1 Prized Amalgam
 1 Creeping Chill
-2 Prized Amalgam
 2 Silversmote Ghoul
 2 Creeping Chill
+2 Prized Amalgam
 3 Silversmote Ghoul
 3 Prized Amalgam
 3 Creeping Chill
@@ -70,8 +70,8 @@
 4 Mutavault
 1 Godless Shrine
 1 Isolated Chapel
-2 Godless Shrine
 2 Isolated Chapel
+2 Godless Shrine
 3 Godless Shrine
 3 Fabled Passage
 1 Island
@@ -80,8 +80,8 @@
 2 Hallowed Fountain
 3 Hallowed Fountain
 1 Teferi, Time Raveler
-1 Teferi, Hero of Dominaria
 1 Kaya, Orzhov Usurper
+1 Teferi, Hero of Dominaria
 1 Shambling Vent
 2 Teferi, Time Raveler
 2 Teferi, Hero of Dominaria
@@ -98,21 +98,21 @@
 1 Geier Reach Sanitarium
 1 Drowned Catacomb
 1 Thassa's Intervention
+1 Oath of Kaya
 1 Teferi, Master of Time
 1 Mobilized District
 1 Supreme Verdict
 1 Eliminate
 1 Omen of the Sea
 1 Mystical Dispute
-1 Oath of Kaya
 1 Thought Erasure
 1 Ashiok, Nightmare Muse
 1 Narset, Parter of Veils
 2 Thassa's Intervention
+2 Oath of Kaya
 2 Eliminate
 2 Teferi, Master of Time
 2 Kaya, Orzhov Usurper
-2 Oath of Kaya
 2 Supreme Verdict
 2 Drowned Catacomb
 2 Thought Erasure
@@ -161,12 +161,12 @@
 1 Ishkanah, Grafwidow
 1 Siege Rhino
 1 Discovery/Dispersal
+1 Vraska, Golgari Queen
 1 Courser of Kruphix
 1 Brain Maggot
 1 Tolsimir, Friend to Wolves
 1 Tireless Tracker
 1 Liliana, the Last Hope
-1 Vraska, Golgari Queen
 1 Glass Casket
 1 Cataclysmic Gearhulk
 1 Greenwarden of Murasa
@@ -174,9 +174,9 @@
 1 Nissa, Vastwood Seer
 1 Kalitas, Traitor of Ghet
 2 Courser of Kruphix
+2 Vraska, Golgari Queen
 2 Siege Rhino
 2 Glass Casket
-2 Vraska, Golgari Queen
 2 Liliana, the Last Hope
 2 Indatha Triome
 2 Discovery/Dispersal
@@ -209,11 +209,11 @@
 1 Shivan Reef
 2 Shivan Reef
 1 Stonecoil Serpent
+1 Hope of Ghirapur
 1 Shrapnel Blast
 1 Ensoul Artifact
 1 Bomat Courier
 1 Darksteel Citadel
-1 Hope of Ghirapur
 1 Gingerbrute
 1 Ghostfire Blade
 1 Spire of Industry
@@ -442,10 +442,10 @@
 1 Settle the Wreckage
 1 Hieroglyphic Illumination
 1 Raugrin Triome
+2 Raugrin Triome
 2 Sulfur Falls
 2 Azorius Charm
 2 Nimble Obstructionist
-2 Raugrin Triome
 2 Settle the Wreckage
 2 Hieroglyphic Illumination
 3 Raugrin Triome
@@ -459,11 +459,11 @@
 1 Kunoros, Hound of Athreos
 1 Glory-Bound Initiate
 2 Heart of Kiran
-2 Caves of Koilos
 2 History of Benalia
 2 Glory-Bound Initiate
-3 Gideon, Ally of Zendikar
+2 Caves of Koilos
 3 Caves of Koilos
+3 Gideon, Ally of Zendikar
 3 Heart of Kiran
 3 History of Benalia
 4 History of Benalia
@@ -512,7 +512,6 @@
 4 Opt
 1 Steam Vents
 1 Crash Through
-1 Stormwing Entity
 1 Treasure Cruise
 1 Sprite Dragon
 1 Soul-Scar Mage
@@ -521,14 +520,15 @@
 1 Monastery Swiftspear
 1 Titan's Strength
 1 Shock
+1 Stormwing Entity
 2 Steam Vents
 2 Crash Through
-2 Stormwing Entity
 2 Treasure Cruise
 2 Sprite Dragon
 2 Shock
 2 Titan's Strength
 2 Monastery Swiftspear
+2 Stormwing Entity
 2 Soul-Scar Mage
 2 Warlord's Fury
 3 Steam Vents
@@ -543,9 +543,9 @@
 4 Steam Vents
 4 Shivan Reef
 4 Crash Through
+4 Sprite Dragon
 4 Shock
 4 Stormwing Entity
-4 Sprite Dragon
 4 Soul-Scar Mage
 4 Monastery Swiftspear
 4 Treasure Cruise
@@ -604,24 +604,24 @@
 3 Paradise Druid
 4 Paradise Druid
 1 Wolfwillow Haven
+1 Radiant Fountain
 1 Spark Double
 1 Zhalfirin Void
-1 Radiant Fountain
-1 Thought-Knot Seer
 1 Clever Impersonator
 1 Altered Ego
 1 Gyruda, Doom of Depths
+1 Thought-Knot Seer
 1 Yavimaya Coast
 1 Wispweaver Angel
 1 Dragonlord Kolaghan
 2 Zhalfirin Void
 2 Radiant Fountain
-2 Thought-Knot Seer
 2 Dragonlord Kolaghan
 2 Wispweaver Angel
 2 Wolfwillow Haven
 2 Spark Double
 2 Gyruda, Doom of Depths
+2 Thought-Knot Seer
 2 Clever Impersonator
 2 Altered Ego
 2 Yavimaya Coast
@@ -683,26 +683,26 @@
 4 Drannith Stinger
 4 Footfall Crater
 1 Steel Overseer
-1 Dive Down
 1 Springleaf Drum
+1 Mana Confluence
+1 Dive Down
 1 Shadowspear
 1 Ornithopter
 1 All That Glitters
-1 Mana Confluence
 2 Steel Overseer
+2 Springleaf Drum
+2 Mana Confluence
 2 Dive Down
 2 All That Glitters
 2 Ornithopter
-2 Mana Confluence
-2 Springleaf Drum
-3 All That Glitters
-3 Steel Overseer
 3 Mana Confluence
-3 Ornithopter
 3 Springleaf Drum
+3 Steel Overseer
+3 Ornithopter
+3 All That Glitters
+4 Mana Confluence
 4 Bomat Courier
 4 Gingerbrute
-4 Mana Confluence
 4 Stonecoil Serpent
 4 Ornithopter
 1 Fiend Artisan
@@ -749,28 +749,28 @@
 7 Island
 1 Trostani Discordant
 1 Castle Garenbrig
+1 Ulamog, the Ceaseless Hunger
 1 Canopy Vista
 1 Dragonlord Dromoka
 1 Elvish Mystic
-1 Ulamog, the Ceaseless Hunger
 1 See the Unwritten
 1 Dubious Challenge
 1 Worldspine Wurm
-2 Trostani Discordant
 2 Castle Garenbrig
 2 Sunpetal Grove
+2 Trostani Discordant
 2 Dubious Challenge
 2 Ulamog, the Ceaseless Hunger
 2 Worldspine Wurm
 2 Elvish Mystic
 2 See the Unwritten
 2 Canopy Vista
-3 Trostani Discordant
 3 Castle Garenbrig
 3 Sunpetal Grove
 3 Dubious Challenge
 3 Elvish Mystic
 3 See the Unwritten
+3 Trostani Discordant
 3 Worldspine Wurm
 4 Castle Garenbrig
 4 Sunpetal Grove
@@ -784,28 +784,28 @@
 1 Gideon's Intervention
 1 Shatter the Sky
 1 Elspeth Conquers Death
-1 Lurrus of the Dream-Den
 1 Karn's Bastion
-1 Hushbringer
 1 Authority of the Consuls
+1 Lurrus of the Dream-Den
 1 Swallow Whole
 1 Heliod, Sun-Crowned
 1 Weatherlight
 1 Idyllic Grange
+1 Hushbringer
 1 Spear of Heliod
 1 Karn, the Great Creator
 2 Lurrus of the Dream-Den
 2 Heliod, Sun-Crowned
-2 Hushbringer
-2 Idyllic Grange
-2 Karn, the Great Creator
 2 Authority of the Consuls
+2 Idyllic Grange
+2 Hushbringer
+2 Karn, the Great Creator
 3 Blast Zone
 3 Lurrus of the Dream-Den
-3 Hushbringer
 3 Gideon of the Trials
 3 Authority of the Consuls
 3 Heliod, Sun-Crowned
+3 Hushbringer
 4 Gideon of the Trials
 4 Hushbringer
 4 Heliod, Sun-Crowned
