@@ -13,12 +13,12 @@
 1 Soul-Guide Lantern
 4 Flooded Strand
 1 Aether Spellbomb
-1 Whir of Invention
-1 Sword of the Meek
-1 Thopter Foundry
 1 Ensnaring Bridge
-2 Whir of Invention
+1 Whir of Invention
+1 Thopter Foundry
+1 Sword of the Meek
 2 Thopter Foundry
+2 Whir of Invention
 3 Whir of Invention
 3 Thopter Foundry
 4 Galvanic Blast
@@ -103,21 +103,11 @@
 2 Thraben Inspector
 2 Ephemerate
 2 Wall of Blossoms
-3 Thraben Inspector
 3 Wall of Blossoms
+3 Thraben Inspector
 3 Ephemerate
 4 Thraben Inspector
 4 Metallic Rebuke
-1 Zagoth Triome
-1 Overgrown Tomb
-1 Abrupt Decay
-1 Fatal Push
-2 Abrupt Decay
-2 Fatal Push
-2 Nihil Spellbomb
-3 Fatal Push
-3 Nihil Spellbomb
-4 Fatal Push
 1 Inventors' Fair
 1 Ichor Wellspring
 1 Raugrin Triome
@@ -130,6 +120,16 @@
 2 Hallowed Fountain
 3 Soul-Guide Lantern
 4 Whir of Invention
+1 Zagoth Triome
+1 Overgrown Tomb
+1 Abrupt Decay
+1 Fatal Push
+2 Abrupt Decay
+2 Fatal Push
+2 Nihil Spellbomb
+3 Fatal Push
+3 Nihil Spellbomb
+4 Fatal Push
 1 Ketria Triome
 1 Force of Negation
 1 Remand

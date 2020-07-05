@@ -33,8 +33,8 @@
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|--------------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    4|[Plaza of Harmony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457398)       |                     |              |
-|                    1|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                    |                     |              |
 |                    1|[Drown in the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473150)      |                     |              |
+|                    1|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                    |                     |              |
 |                    1|Vivien, Monsters' Advocate                                                                        |                     |              |
 |                    1|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)   |                     |              |
 |                    1|[Ashiok, Nightmare Muse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476459) |                     |              |
@@ -45,15 +45,14 @@
 |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|                     |              |
 |                    1|[Notion Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452943)            |                     |              |
 |                    1|[Rakdos Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376465)       |                     |              |
-|                    2|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)   |                     |              |
 |                    2|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                    |                     |              |
+|                    2|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)   |                     |              |
 |                    2|[Notion Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452943)            |                     |              |
 |                    2|[Rakdos Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376465)       |                     |              |
 |                    2|[Dimir Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376306)        |                     |              |
 |                    2|[Golgari Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376351)      |                     |              |
 |                    3|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)        |                     |              |
 |                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                 |                     |              |
-|                    3|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)   |                     |              |
 |                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                    |                     |              |
 |                    3|[Gate Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457376)          |                     |              |
 |                    3|[Simic Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376500)        |                     |              |
@@ -61,6 +60,7 @@
 |                    3|[Dimir Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376306)        |                     |              |
 |                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                     |              |
 |                    3|[Golgari Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376351)      |                     |              |
+|                    3|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)   |                     |              |
 |                    4|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)        |                     |              |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                     |              |
 |                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                    |                     |              |

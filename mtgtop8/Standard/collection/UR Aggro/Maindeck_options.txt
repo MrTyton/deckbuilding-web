@@ -5,9 +5,9 @@
 2 Frantic Inventory
 2 Scorching Dragonfire
 2 Crash Through
-3 Crash Through
 3 Frantic Inventory
 3 Scorching Dragonfire
+3 Crash Through
 4 Crash Through
 4 Frantic Inventory
 1 Fire Prophecy
@@ -51,6 +51,18 @@
 2 Raking Claws
 2 Essence Scatter
 3 Winged Words
+1 Merchant of the Vale
+1 Nadir Kraken
+1 Reconnaissance Mission
+1 Go for Blood
+1 Omen of the Sea
+2 Omen of the Sea
+2 Merchant of the Vale
+3 Ominous Seas
+3 Improbable Alliance
+4 Improbable Alliance
+4 Ominous Seas
+4 Scorching Dragonfire
 1 Barrin, Tolarian Archmage
 1 Light Up the Stage
 1 See the Truth
@@ -69,13 +81,12 @@
 3 Light Up the Stage
 3 Infuriate
 3 Dreadhorde Arcanist
-4 Dreadhorde Arcanist
 4 Stonecoil Serpent
 4 Stormwing Entity
 4 Light Up the Stage
 4 See the Truth
 4 Infuriate
-4 Scorching Dragonfire
+4 Dreadhorde Arcanist
 1 Spectral Sailor
 1 Risk Factor
 1 Ionize
@@ -105,17 +116,6 @@
 4 Spectral Sailor
 4 Ionize
 4 Brazen Borrower
-1 Merchant of the Vale
-1 Nadir Kraken
-1 Reconnaissance Mission
-1 Go for Blood
-1 Omen of the Sea
-2 Omen of the Sea
-2 Merchant of the Vale
-3 Ominous Seas
-3 Improbable Alliance
-4 Improbable Alliance
-4 Ominous Seas
 1 Lava Coil
 1 Arclight Phoenix
 1 Finale of Promise

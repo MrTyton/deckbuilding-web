@@ -61,6 +61,6 @@
 |                    2|[Gemstone Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109761)        |                     |                                                                                              |
 |                    3|[Gemstone Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109761)        |                     |                                                                                              |
 |                    1|[Darkblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456055)            |                     |                                                                                              |
-|                    4|[Merchant of the Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473093) |                     |                                                                                              |
 |                    4|[Copperline Gorge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209408)     |                     |                                                                                              |
+|                    4|[Merchant of the Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473093) |                     |                                                                                              |
 

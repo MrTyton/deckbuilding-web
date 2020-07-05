@@ -1,12 +1,14 @@
 1 Hallowed Fountain
 4 Goblin Engineer
-1 Pyrite Spellbomb
 1 Snow-Covered Plains
+1 Pyrite Spellbomb
 1 Damping Sphere
 3 Emry, Lurker of the Loch
 4 Emry, Lurker of the Loch
 1 Talisman of Dominance
 3 Archmage's Charm
+1 Teferi, Time Raveler
+1 Misty Rainforest
 1 Remand
 2 Remand
 1 Opt
@@ -17,55 +19,53 @@
 3 Snapcaster Mage
 1 Island
 1 Lightning Bolt
+2 Steam Vents
 2 Lightning Bolt
 3 Lightning Bolt
-2 Steam Vents
-4 Lightning Bolt
 4 Opt
 2 Island
-1 Misty Rainforest
+4 Lightning Bolt
+3 Mystic Sanctuary
 1 Mountain
 3 Island
 4 Island
 5 Island
+6 Island
 1 Force of Negation
 2 Force of Negation
-6 Island
 1 Thing in the Ice
 2 Thing in the Ice
-1 Teferi, Time Raveler
-1 Engineered Explosives
 3 Remand
-3 Mystic Sanctuary
+1 Engineered Explosives
 1 Mox Amber
 1 Serum Visions
 2 Serum Visions
 7 Snow-Covered Island
-4 Snapcaster Mage
 1 Magmatic Sinkhole
 3 Thing in the Ice
+4 Snapcaster Mage
 7 Island
-1 Cascade Bluffs
-1 Spell Snare
 1 Galvanic Blast
+1 Cascade Bluffs
 3 Serum Visions
+1 Spell Snare
+1 Path to Exile
+2 Path to Exile
 1 The Royal Scions
+2 Teferi, Time Raveler
 2 Galvanic Blast
 3 Galvanic Blast
 2 Engineered Explosives
-1 Path to Exile
-2 Path to Exile
-2 Teferi, Time Raveler
-2 Spell Snare
+3 Path to Exile
 1 Mana Leak
 2 The Royal Scions
 1 Brazen Borrower
 4 Serum Visions
 1 Sulfur Falls
 4 Remand
+2 Spell Snare
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-3 Path to Exile
 1 Deprive
 1 Inventors' Fair
 2 Brazen Borrower
@@ -73,22 +73,22 @@
 2 Misty Rainforest
 1 Metallic Rebuke
 2 Metallic Rebuke
+1 Jace, the Mind Sculptor
 3 Steam Vents
+2 Hallowed Fountain
 1 Sunken Hollow
 1 Spell Pierce
-1 Jace, the Mind Sculptor
-2 Hallowed Fountain
 2 Mana Leak
 8 Island
-1 Abrade
-1 Narset, Parter of Veils
+4 Path to Exile
 1 Electrolyze
 2 Spell Pierce
 1 Field of Ruin
-1 Flame Slash
-2 Narset, Parter of Veils
+1 Abrade
+1 Narset, Parter of Veils
 1 Sacred Foundry
-4 Path to Exile
+1 Celestial Colonnade
+2 Celestial Colonnade
 1 Thoughtseize
 1 Inquisition of Kozilek
 2 Thoughtseize
@@ -101,25 +101,24 @@
 1 Fatal Push
 2 Talisman of Dominance
 2 Fatal Push
-3 Force of Negation
 1 Soul-Guide Lantern
 4 Whir of Invention
-4 Thing in the Ice
-1 Vendilion Clique
 2 Sacred Foundry
-2 Cascade Bluffs
-1 Celestial Colonnade
-2 Celestial Colonnade
-2 Sulfur Falls
-2 Inquisition of Kozilek
-1 Raugrin Triome
 1 Stoneforge Mystic
-1 Plains
 1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
+1 Flame Slash
+2 Narset, Parter of Veils
+1 Vendilion Clique
+4 Thing in the Ice
+3 Force of Negation
+2 Sulfur Falls
+2 Inquisition of Kozilek
 3 Cryptic Command
-1 Fiery Islet
+2 Jace, the Mind Sculptor
+1 Raugrin Triome
+1 Plains
 2 Lonely Sandbar
 3 Teferi, Time Raveler
 2 Relic of Progenitus
@@ -128,48 +127,51 @@
 8 Snow-Covered Island
 3 Misty Rainforest
 4 Misty Rainforest
+2 Cascade Bluffs
 2 Snow-Covered Swamp
 1 Prismatic Vista
 2 Prismatic Vista
 1 Ichor Wellspring
-2 Snow-Covered Plains
 2 Raugrin Triome
+2 Snow-Covered Plains
 2 Damping Sphere
 2 Soul-Guide Lantern
 2 Ichor Wellspring
 3 Soul-Guide Lantern
+3 Celestial Colonnade
+4 Celestial Colonnade
+1 Supreme Verdict
+2 Supreme Verdict
 1 Logic Knot
 1 Lightning Helix
 2 Logic Knot
 2 Lightning Helix
 3 Lightning Helix
-1 Supreme Verdict
-2 Supreme Verdict
 1 Seachrome Coast
+1 Sword of Feast and Famine
+4 Stoneforge Mystic
 1 Glacial Fortress
-2 Jace, the Mind Sculptor
-1 Spirebluff Canal
+1 Fiery Islet
 4 Galvanic Blast
 1 Prairie Stream
 1 Peek
 1 Glimpse of Freedom
+1 Sword of Fire and Ice
+1 Spirebluff Canal
+1 Sphinx's Revelation
+2 Seachrome Coast
+2 Sphinx's Revelation
+4 Lightning Helix
 1 Lurrus of the Dream Den
 2 Lurrus of the Dream Den
 2 Pyrite Spellbomb
 3 Prismatic Vista
 3 Lurrus of the Dream Den
 4 Prismatic Vista
-1 Sword of Fire and Ice
-1 Sphinx's Revelation
-2 Seachrome Coast
-2 Sphinx's Revelation
-3 Celestial Colonnade
-4 Lightning Helix
-4 Celestial Colonnade
 1 Blood Moon
-1 Quicken
-1 Ral, Izzet Viceroy
 1 Day's Undoing
+1 Ral, Izzet Viceroy
+1 Quicken
 2 Blood Moon
 1 Drown in the Loch
 1 Thought Scour
@@ -179,18 +181,15 @@
 3 The Royal Scions
 4 Thought Scour
 4 The Royal Scions
-1 Sword of Feast and Famine
+3 Jace, the Mind Sculptor
 2 Field of Ruin
 3 Field of Ruin
-4 Stoneforge Mystic
 1 Spell Queller
 2 Spell Queller
 3 Spell Queller
 3 Sword of the Meek
 4 Steam Vents
-1 Shark Typhoon
 1 Academy Ruins
-1 Shivan Reef
 1 Simian Spirit Guide
 2 Simian Spirit Guide
 1 Breeding Pool
@@ -207,8 +206,8 @@
 1 Archangel Avacyn
 2 Geist of Saint Traft
 1 Oust
+1 Shark Typhoon
 2 Glacial Fortress
-3 Jace, the Mind Sculptor
 1 Rielle, the Everwise
 2 Rielle, the Everwise
 3 Rielle, the Everwise
@@ -217,6 +216,11 @@
 3 Hallowed Fountain
 4 Force of Negation
 4 Field of Ruin
+1 Terminus
+2 Terminus
+3 Terminus
+4 Terminus
+4 Cryptic Command
 1 Time Warp
 1 Temporal Mastery
 1 Mikokoro, Center of the Sea
@@ -230,51 +234,30 @@
 4 Time Warp
 4 Ancestral Vision
 4 Temporal Mastery
-1 Minamo, School at Water's Edge
-1 Temple of Epiphany
-1 Reflecting Pool
-1 Shadow of Doubt
-1 Oboro, Palace in the Clouds
-2 Shark Typhoon
-2 Temple of Epiphany
-2 Reflecting Pool
-2 Mountain
-2 Spirebluff Canal
-2 Fiery Islet
-3 Mana Leak
-3 Shark Typhoon
-3 Temple of Epiphany
-3 Cascade Bluffs
-3 Reflecting Pool
-3 Spirebluff Canal
-4 Shark Typhoon
-4 Temple of Epiphany
-4 Reflecting Pool
-4 Spirebluff Canal
-4 Cascade Bluffs
 1 Through the Breach
 1 Emrakul, the Aeons Torn
 1 Anger of the Gods
+1 Shivan Reef
 2 Through the Breach
 2 Emrakul, the Aeons Torn
 2 Shivan Reef
-3 Emrakul, the Aeons Torn
 3 Through the Breach
+3 Emrakul, the Aeons Torn
 3 Shivan Reef
 3 Sulfur Falls
 4 Shivan Reef
-4 Through the Breach
 4 Emrakul, the Aeons Torn
+4 Through the Breach
 4 Sulfur Falls
-1 Botanical Sanctum
 1 River of Tears
+1 Botanical Sanctum
 1 Spire of Industry
 1 Glimmervoid
 1 Codex Shredder
 1 Pyxis of Pandemonium
-1 Ghoulcaller's Bell
 1 Darkslick Shores
 1 Lantern of Insight
+1 Ghoulcaller's Bell
 2 Spire of Industry
 2 Glimmervoid
 2 Ensnaring Bridge

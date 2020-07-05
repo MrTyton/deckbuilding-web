@@ -6,8 +6,8 @@
 1 Memory Leak
 2 Memory Leak
 3 Mountain
-4 Mountain
 4 Plains
+4 Mountain
 5 Mountain
 5 Plains
 6 Plains
@@ -16,8 +16,6 @@
 1 Island
 1 Castle Ardenvale
 1 Fabled Passage
-1 Negate
-2 Negate
 1 Temple of Enlightenment
 1 Temple of Triumph
 1 Swiftwater Cliffs
@@ -25,6 +23,8 @@
 2 Island
 3 Island
 3 Memory Leak
+4 Memory Leak
 8 Plains
 9 Plains
-4 Memory Leak
+1 Negate
+2 Negate
