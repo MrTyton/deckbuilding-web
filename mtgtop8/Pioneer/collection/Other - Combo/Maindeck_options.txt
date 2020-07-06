@@ -4,9 +4,9 @@
 3 Vizier of Many Faces
 1 Forest
 1 Llanowar Elves
+1 Gilded Goose
 1 Elvish Mystic
 1 Rootbound Crag
-1 Gilded Goose
 1 Mountain
 1 Stomping Ground
 2 Llanowar Elves
@@ -59,8 +59,8 @@
 4 Temple Garden
 4 Angrath's Marauders
 4 Winota, Joiner of Forces
-4 Voice of Resurgence
 4 Eldritch Evolution
+4 Voice of Resurgence
 4 Legion Warboss
 1 Blooming Marsh
 1 Urborg, Tomb of Yawgmoth
@@ -68,13 +68,13 @@
 3 Blooming Marsh
 4 Blooming Marsh
 1 Oath of Kaya
-1 Mox Amber
 1 Springleaf Drum
 1 Lurrus of the Dream Den
 1 Wishclaw Talisman
 1 Teferi, Time Raveler
 1 Island
 1 Teshar, Ancestor's Apostle
+1 Mox Amber
 1 Jace, Wielder of Mysteries
 1 Hallowed Fountain
 1 Emry, Lurker of the Loch
@@ -85,9 +85,7 @@
 1 Kethis, the Hidden Hand
 1 Lazav, the Multifarious
 1 Hope of Ghirapur
-2 Wishclaw Talisman
 2 Lurrus of the Dream Den
-2 Mox Amber
 2 Springleaf Drum
 2 Emry, Lurker of the Loch
 2 Kethis, the Hidden Hand
@@ -98,21 +96,22 @@
 2 Liliana, the Last Hope
 2 Diligent Excavator
 2 Hallowed Fountain
+2 Wishclaw Talisman
 2 Spire of Industry
+2 Mox Amber
 2 Botanical Sanctum
 3 Teferi, Time Raveler
 3 Hallowed Fountain
-3 Mox Amber
-3 Lazav, the Multifarious
 3 Springleaf Drum
-3 Hope of Ghirapur
+3 Lazav, the Multifarious
 3 Mana Confluence
 3 Botanical Sanctum
+3 Hope of Ghirapur
+3 Mox Amber
 3 Emry, Lurker of the Loch
 3 Diligent Excavator
 3 Kethis, the Hidden Hand
 4 Hallowed Fountain
-4 Mox Amber
 4 Kethis, the Hidden Hand
 4 Lazav, the Multifarious
 4 Botanical Sanctum
@@ -120,15 +119,16 @@
 4 Hope of Ghirapur
 4 Emry, Lurker of the Loch
 4 Mana Confluence
+4 Mox Amber
 1 Temple of Malady
 1 Woodland Cemetery
 1 Swamp
 1 Overgrown Tomb
 1 Soulflayer
-1 Gather the Pack
-1 Zetalpa, Primal Dawn
-1 Grisly Salvage
 1 Lotleth Troll
+1 Gather the Pack
+1 Grisly Salvage
+1 Zetalpa, Primal Dawn
 1 Vine Mare
 1 Questing Beast
 1 Grapple with the Past
@@ -140,10 +140,10 @@
 1 Skull Prophet
 2 Temple of Malady
 2 Swamp
-2 Zetalpa, Primal Dawn
-2 Overgrown Tomb
-2 Soulflayer
 2 Lotleth Troll
+2 Overgrown Tomb
+2 Zetalpa, Primal Dawn
+2 Soulflayer
 2 Grisly Salvage
 2 Questing Beast
 2 Gather the Pack
@@ -159,17 +159,17 @@
 3 Overgrown Tomb
 3 Questing Beast
 3 Gifted Aetherborn
+4 Lotleth Troll
 4 Zetalpa, Primal Dawn
 4 Soulflayer
-4 Lotleth Troll
 4 Grisly Salvage
 4 Gather the Pack
 4 Overgrown Tomb
 4 Swamp
 4 Gifted Aetherborn
-1 Enter the Infinite
 1 Shared Summons
 1 Borborygmos Enraged
+1 Enter the Infinite
 1 Captain Lannery Storm
 1 Game Trail
 1 Worldspine Wurm
@@ -202,8 +202,8 @@
 4 Possibility Storm
 4 Forest
 4 Rootbound Crag
-4 Game Trail
 4 Bonecrusher Giant
+4 Game Trail
 4 Lovestruck Beast
 5 Forest
 6 Forest

@@ -1,6 +1,6 @@
 2 Isolated Chapel
-4 Teferi, Time Raveler
 2 Swamp
+4 Teferi, Time Raveler
 4 Fatal Push
 4 Fabled Passage
 1 Castle Ardenvale
@@ -8,8 +8,8 @@
 1 Omen of the Sun
 3 Thought Erasure
 3 Isolated Chapel
-4 Narset, Parter of Veils
 4 Thought Erasure
+4 Narset, Parter of Veils
 4 Oath of Kaya
 1 Yorion, Sky Nomad
 2 Yorion, Sky Nomad
@@ -21,34 +21,50 @@
 1 Elspeth Conquers Death
 1 Shark Typhoon
 2 Shark Typhoon
-2 Elspeth Conquers Death
 1 Oath of Teferi
 1 Fetid Pools
 2 Fetid Pools
+2 Elspeth Conquers Death
 1 Gideon of the Trials
 4 Trial of Ambition
 3 Fetid Pools
 1 Oath of Liliana
 1 Jace, Architect of Thought
 1 Elspeth's Nightmare
-2 Plains
-1 Irrigated Farmland
-2 Irrigated Farmland
 1 Thassa's Intervention
 2 Thassa's Intervention
 1 Disinformation Campaign
 1 Kaya, Orzhov Usurper
 1 Gideon, Ally of Zendikar
+2 Plains
+1 Irrigated Farmland
+2 Irrigated Farmland
 2 Gideon of the Trials
-1 Flicker of Fate
-2 Flicker of Fate
 1 The Elderspell
 1 Sphinx's Revelation
 4 Fetid Pools
+3 Dovin's Veto
+3 Gideon of the Trials
+1 Flicker of Fate
+2 Flicker of Fate
+1 Solemn Simulacrum
+1 Essence Scatter
+1 Collective Brutality
+1 Urborg, Tomb of Yawgmoth
+1 Karn, Scion of Urza
+1 Dovin Baan
+1 Oath of Jace
+1 Oath of Gideon
+1 Teferi, Master of Time
+1 Eliminate
+2 Eliminate
+2 Teferi, Master of Time
+2 Kaya, Orzhov Usurper
+3 Teferi, Master of Time
 1 Neutralize
+1 Cling to Dust
 1 Settle the Wreckage
 1 Charming Prince
-1 Cling to Dust
 1 Baffling End
 1 Agent of Treachery
 1 Castle Locthwain
@@ -62,23 +78,6 @@
 3 Baffling End
 4 Charming Prince
 4 Neutralize
-3 Dovin's Veto
-3 Gideon of the Trials
-1 Solemn Simulacrum
-1 Essence Scatter
-1 Urborg, Tomb of Yawgmoth
-1 Collective Brutality
-1 Karn, Scion of Urza
-1 Dovin Baan
-1 Oath of Jace
-1 Oath of Gideon
-1 Eliminate
-1 Teferi, Master of Time
-2 Teferi, Master of Time
-2 Kaya, Orzhov Usurper
-2 Eliminate
-3 Teferi, Master of Time
-3 Flicker of Fate
 1 Archon of Sun's Grace
 2 Archon of Sun's Grace
 3 Archon of Sun's Grace
@@ -88,10 +87,10 @@
 1 Demonic Pact
 2 The Birth of Meletis
 2 Demonic Pact
-3 Swamp
 3 The Birth of Meletis
 3 Demonic Pact
 3 Plains
+3 Swamp
 4 Demonic Pact
 1 Karn, the Great Creator
 2 Karn, the Great Creator

@@ -1,6 +1,6 @@
-2 Demonic Embrace
-3 Eliminate
+2 Eliminate
 3 Demonic Embrace
+3 Eliminate
 4 Blacklance Paragon
 2 Mobilized District
 1 Priest of Forgotten Gods
@@ -55,15 +55,15 @@
 4 Witch's Oven
 1 Witch's Cottage
 2 Witch's Cottage
+1 Grasp of Darkness
+4 Eliminate
+4 Demonic Embrace
+3 Nightmare Shepherd
+4 Nightmare Shepherd
 1 Kitesail Freebooter
 2 Kitesail Freebooter
 3 Kitesail Freebooter
 4 Kitesail Freebooter
-3 Nightmare Shepherd
-4 Nightmare Shepherd
-1 Grasp of Darkness
-4 Eliminate
-4 Demonic Embrace
 1 Heartless Act
 2 Heartless Act
 1 Heraldic Banner
@@ -91,8 +91,8 @@
 2 Kaya's Ghostform
 2 Hateful Eidolon
 2 Dead Weight
-1 Village Rites
 1 Archfiend's Vessel
+1 Village Rites
 2 Village Rites
 2 Archfiend's Vessel
 3 Call of the Death-Dweller
@@ -114,12 +114,17 @@
 2 Bloodthirsty Aerialist
 3 Bloodthirsty Aerialist
 4 Bloodthirsty Aerialist
+3 Mobilized District
 3 Shadowspear
 1 Order of Midnight
 3 Heartless Act
 3 Dead Weight
 3 Hateful Eidolon
-3 Mobilized District
+1 Foulmire Knight
+1 Erebos, Bleak-Hearted
+2 Foulmire Knight
+3 Foulmire Knight
+4 Foulmire Knight
 1 Cruel Celebrant
 1 Orzhov Guildgate
 1 Soul-Guide Lantern
@@ -140,17 +145,12 @@
 2 Lurrus of the Dream Den
 2 Mire Triton
 2 Woe Strider
-3 Lurrus of the Dream Den
 3 Village Rites
+3 Lurrus of the Dream Den
 3 Mire Triton
 4 Village Rites
 4 Lurrus of the Dream Den
 4 Mire Triton
-1 Foulmire Knight
-1 Erebos, Bleak-Hearted
-2 Foulmire Knight
-3 Foulmire Knight
-4 Foulmire Knight
 1 Spark Harvest
 1 Dreadhorde Invasion
 1 Murder
@@ -168,8 +168,8 @@
 3 Witch's Cottage
 4 Murder
 4 Boot Nipper
-1 Drag to the Underworld
 1 Davriel, Rogue Shadowmage
+1 Drag to the Underworld
 2 Drag to the Underworld
 2 Davriel, Rogue Shadowmage
 3 Dread Presence

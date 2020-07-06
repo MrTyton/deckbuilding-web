@@ -43,8 +43,8 @@
 2 Yorion, Sky Nomad
 4 Omen of the Sun
 3 Swamp
-4 Swamp
 4 Heartless Act
+4 Swamp
 1 The Birth of Meletis
 2 The Birth of Meletis
 3 The Birth of Meletis
@@ -75,10 +75,10 @@
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 4 Atris, Oracle of Half-Truths
+1 Shepherd of the Flock
 1 Disinformation Campaign
 1 Disfigure
 1 Charming Prince
-1 Shepherd of the Flock
 1 Archon of Sun's Grace
 2 Disfigure
 2 Charming Prince
@@ -141,24 +141,13 @@
 1 Tranquil Cove
 1 Ugin, the Ineffable
 1 Negate
-2 Ugin, the Ineffable
 2 Ugin, the Spirit Dragon
+2 Ugin, the Ineffable
 2 Banishing Light
 2 Tranquil Cove
 2 Negate
 2 Eat to Extinction
 3 Ugin, the Ineffable
-1 Dance of the Manse
-1 Doom Foretold
-1 Golden Egg
-2 Castle Locthwain
-2 Dance of the Manse
-2 Doom Foretold
-2 Golden Egg
-3 Doom Foretold
-3 Dance of the Manse
-3 Golden Egg
-4 Doom Foretold
 1 The Elderspell
 1 Legion's End
 1 Liliana's Triumph
@@ -172,3 +161,14 @@
 2 Murderous Rider
 3 Mystical Dispute
 4 Mystical Dispute
+1 Dance of the Manse
+1 Golden Egg
+1 Doom Foretold
+2 Castle Locthwain
+2 Dance of the Manse
+2 Golden Egg
+2 Doom Foretold
+3 Dance of the Manse
+3 Golden Egg
+3 Doom Foretold
+4 Doom Foretold

@@ -50,8 +50,8 @@
 1 Radha, Heart of Keld
 1 Heroic Intervention
 2 Scavenging Ooze
-2 Radha, Heart of Keld
 2 Terror of the Peaks
+2 Radha, Heart of Keld
 2 Heroic Intervention
 3 Heroic Intervention
 1 Gemrazer
@@ -223,8 +223,8 @@
 1 Murderous Rider
 2 Fiend Artisan
 2 Murderous Rider
-3 Fiend Artisan
 3 Temple of Malice
+3 Fiend Artisan
 4 Claim the Firstborn
 4 Temple of Malice
 1 Migratory Greathorn
@@ -243,12 +243,12 @@
 2 Setessan Petitioner
 2 Beast Whisperer
 2 End-Raze Forerunners
+3 Paradise Druid
 3 Migratory Greathorn
 3 Arboreal Grazer
 3 Pouncing Shoreshark
 3 Pollywog Symbiote
 3 Auspicious Starrix
-3 Paradise Druid
 3 Setessan Petitioner
 4 Paradise Druid
 4 Migratory Greathorn
@@ -279,86 +279,21 @@
 3 Cruel Celebrant
 3 Mythos of Snapdax
 3 Serrated Scorpion
-4 Midnight Reaper
 4 Cruel Celebrant
+4 Midnight Reaper
 4 Serrated Scorpion
-1 The Great Henge
+1 Garruk, Unleashed
 1 Primal Might
+1 The Great Henge
 1 Cultivate
 1 Marauding Raptor
 1 Garruk's Harbinger
-1 Garruk, Unleashed
 2 Garruk's Harbinger
 2 Cultivate
 2 Marauding Raptor
 3 Garruk's Harbinger
 3 Marauding Raptor
 4 Garruk's Harbinger
-1 Gingerbrute
-2 Gingerbrute
-3 Gingerbrute
-4 Gingerbrute
-6 Plains
-7 Plains
-8 Plains
-1 All That Glitters
-1 Alseid of Life's Bounty
-1 Sentinel's Eyes
-1 Karametra's Blessing
-2 All That Glitters
-2 Sentinel's Eyes
-2 Karametra's Blessing
-2 Alseid of Life's Bounty
-3 Karametra's Blessing
-3 All That Glitters
-3 Alseid of Life's Bounty
-3 Sentinel's Eyes
-4 Karametra's Blessing
-4 All That Glitters
-4 Alseid of Life's Bounty
-3 Stonecoil Serpent
-1 Mystic Forge
-1 Ugin, the Spirit Dragon
-1 Solemn Simulacrum
-1 Karn's Bastion
-1 Steel Overseer
-1 Palladium Myr
-1 Crystalline Giant
-1 Ugin, the Ineffable
-1 Mobilized District
-1 Interplanar Beacon
-2 Mystic Forge
-2 Mobilized District
-2 Solemn Simulacrum
-2 Ugin, the Spirit Dragon
-2 Ugin, the Ineffable
-2 Crystalline Giant
-2 Steel Overseer
-2 Karn's Bastion
-2 Palladium Myr
-2 Radiant Fountain
-2 Interplanar Beacon
-3 Mystic Forge
-3 Solemn Simulacrum
-3 Ugin, the Spirit Dragon
-3 Ugin, the Ineffable
-3 Crystalline Giant
-3 Radiant Fountain
-3 Steel Overseer
-3 Palladium Myr
-3 Karn's Bastion
-3 Interplanar Beacon
-4 Mystic Forge
-4 Ugin, the Spirit Dragon
-4 Ugin, the Ineffable
-4 Solemn Simulacrum
-4 Crystalline Giant
-4 Radiant Fountain
-4 Palladium Myr
-4 Steel Overseer
-4 Karn's Bastion
-4 Stonecoil Serpent
-4 Interplanar Beacon
 1 Foulmire Knight
 1 Fight as One
 1 Stormfist Crusader
@@ -408,15 +343,80 @@
 4 Improbable Alliance
 4 Frostveil Ambush
 4 Startling Development
+1 Gingerbrute
+2 Gingerbrute
+3 Gingerbrute
+4 Gingerbrute
+6 Plains
+7 Plains
+8 Plains
+1 All That Glitters
+1 Alseid of Life's Bounty
+1 Sentinel's Eyes
+1 Karametra's Blessing
+2 All That Glitters
+2 Sentinel's Eyes
+2 Karametra's Blessing
+2 Alseid of Life's Bounty
+3 Karametra's Blessing
+3 All That Glitters
+3 Alseid of Life's Bounty
+3 Sentinel's Eyes
+4 Karametra's Blessing
+4 All That Glitters
+4 Alseid of Life's Bounty
+3 Stonecoil Serpent
+1 Ugin, the Spirit Dragon
+1 Solemn Simulacrum
+1 Karn's Bastion
+1 Palladium Myr
+1 Steel Overseer
+1 Crystalline Giant
+1 Mystic Forge
+1 Ugin, the Ineffable
+1 Mobilized District
+1 Interplanar Beacon
+2 Mobilized District
+2 Solemn Simulacrum
+2 Ugin, the Spirit Dragon
+2 Ugin, the Ineffable
+2 Crystalline Giant
+2 Steel Overseer
+2 Karn's Bastion
+2 Palladium Myr
+2 Radiant Fountain
+2 Interplanar Beacon
+2 Mystic Forge
+3 Mystic Forge
+3 Solemn Simulacrum
+3 Ugin, the Spirit Dragon
+3 Ugin, the Ineffable
+3 Crystalline Giant
+3 Radiant Fountain
+3 Steel Overseer
+3 Palladium Myr
+3 Karn's Bastion
+3 Interplanar Beacon
+4 Mystic Forge
+4 Ugin, the Spirit Dragon
+4 Solemn Simulacrum
+4 Crystalline Giant
+4 Radiant Fountain
+4 Palladium Myr
+4 Steel Overseer
+4 Karn's Bastion
+4 Stonecoil Serpent
+4 Interplanar Beacon
+4 Ugin, the Ineffable
 1 Dirge Bat
 1 Cunning Nightbonder
 1 Voracious Greatshark
 1 Thryx, the Sudden Storm
 1 Unsummon
 1 Slitherwisp
-2 Voracious Greatshark
 2 Dirge Bat
 2 Cunning Nightbonder
+2 Voracious Greatshark
 2 Unsummon
 2 Slitherwisp
 3 Voracious Greatshark
@@ -430,8 +430,8 @@
 4 Dirge Bat
 4 Voracious Greatshark
 4 Slitherwisp
-1 Tajic, Legion's Edge
 1 Selfless Savior
+1 Tajic, Legion's Edge
 1 Legion Warboss
 1 Winota, Joiner of Forces
 1 Temple of Triumph
@@ -439,9 +439,9 @@
 1 Seasoned Hallowblade
 1 Alpine Watchdog
 1 Igneous Cur
+2 Selfless Savior
 2 Tajic, Legion's Edge
 2 Temple of Triumph
-2 Selfless Savior
 2 Winota, Joiner of Forces
 2 Legion Warboss
 2 Igneous Cur
@@ -461,29 +461,29 @@
 4 Temple of Triumph
 1 Hateful Eidolon
 1 Kaya's Ghostform
+1 Aphemia, the Cacophony
+1 Setessan Training
 1 Dead Weight
 1 Season of Growth
-1 Aphemia, the Cacophony
 1 Pious Wayfarer
 1 Starfield Mystic
 1 Temple Garden
-1 Setessan Training
 2 Indatha Triome
 2 Hateful Eidolon
 2 Kaya's Ghostform
+2 Aphemia, the Cacophony
+2 Setessan Training
 2 Dead Weight
 2 Season of Growth
 2 Pious Wayfarer
 2 Starfield Mystic
-2 Setessan Training
-2 Aphemia, the Cacophony
 2 Temple Garden
 3 Indatha Triome
+3 Aphemia, the Cacophony
 3 Hateful Eidolon
 3 Dead Weight
 3 Starfield Mystic
 3 Setessan Training
-3 Aphemia, the Cacophony
 3 Temple Garden
 3 Season of Growth
 3 Pious Wayfarer

@@ -1,26 +1,26 @@
 1 From the Ashes
-1 Containment Priest
-2 Disenchant
+1 Red Elemental Blast
 1 Pyroclasm
+2 Disenchant
 2 From the Ashes
-1 Rest in Peace
 2 Vendilion Clique
 1 Force of Negation
+1 Rest in Peace
 1 Council's Judgment
 1 Damping Sphere
 1 Terminus
 1 Palace Jailer
 2 Containment Priest
 2 Red Elemental Blast
-1 Ashiok, Dream Render
-1 Lavinia, Azorius Renegade
 1 Back to Basics
 1 Umezawa's Jitte
+1 Ashiok, Dream Render
 2 Damping Sphere
+1 Null Rod
 1 Submerge
 2 Submerge
+1 Lavinia, Azorius Renegade
 2 Back to Basics
-1 Null Rod
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
@@ -32,16 +32,14 @@
 1 Invasive Surgery
 1 Gideon, Ally of Zendikar
 3 Flusterstorm
-2 Rest in Peace
-1 Deafening Silence
+3 Surgical Extraction
+1 Path to Exile
 1 On Thin Ice
 1 Mystical Dispute
-1 Path to Exile
-1 Ethersworn Canonist
-1 Yorion, Sky Nomad
 1 Tormod's Crypt
 1 Entreat the Angels
 1 Nature's Chant
+1 Deafening Silence
 1 Sorcerous Spyglass
 1 Hydroblast
 1 Celestial Purge
@@ -49,21 +47,26 @@
 1 Nahiri, the Lithomancer
 1 Seal of Cleansing
 2 Terminus
+1 Ethersworn Canonist
+1 Yorion, Sky Nomad
+2 Rest in Peace
 1 Spell Queller
 1 Phyrexian Revoker
 2 Spell Queller
 1 Hymn to Tourach
-1 Liliana's Triumph
 1 Pithing Needle
+1 Liliana's Triumph
 1 Echoing Truth
 2 Pithing Needle
 2 Null Rod
-1 Stony Silence
-1 Meddling Mage
-2 Meddling Mage
-1 Relic of Progenitus
-3 Monastery Mentor
-3 Surgical Extraction
+1 Blood Moon
+1 Baneslayer Angel
+2 Blood Moon
+2 Pyroclasm
+1 Notion Thief
+1 Thoughtseize
+1 Kaya, Ghost Assassin
+2 Thoughtseize
 1 Plague Engineer
 1 Leovold, Emissary of Trest
 1 Veil of Summer
@@ -72,7 +75,5 @@
 2 Assassin's Trophy
 2 Veil of Summer
 3 Veil of Summer
-1 Notion Thief
-1 Thoughtseize
-1 Kaya, Ghost Assassin
-2 Thoughtseize
+1 Relic of Progenitus
+3 Monastery Mentor

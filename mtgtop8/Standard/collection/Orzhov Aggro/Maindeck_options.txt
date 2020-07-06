@@ -96,45 +96,45 @@
 3 Kaya's Ghostform
 1 Blacklance Paragon
 1 Savai Triome
-1 Venerable Knight
+1 Tournament Grounds
 1 Blood Crypt
-1 Knight of the Ebon Legion
+1 Fervent Champion
 1 Worthy Knight
+1 Venerable Knight
 1 Stormfist Crusader
 1 Inspiring Veteran
-1 Tournament Grounds
 1 Sacred Foundry
 1 Fight as One
-1 Fervent Champion
-2 Stormfist Crusader
-2 Venerable Knight
+1 Knight of the Ebon Legion
+2 Tournament Grounds
 2 Blood Crypt
-2 Knight of the Ebon Legion
-2 Blacklance Paragon
 2 Fervent Champion
+2 Venerable Knight
 2 Sacred Foundry
+2 Knight of the Ebon Legion
 2 Worthy Knight
 2 Inspiring Veteran
-2 Tournament Grounds
 2 Fight as One
-3 Venerable Knight
-3 Blood Crypt
-3 Knight of the Ebon Legion
-3 Fight as One
-3 Worthy Knight
-3 Fervent Champion
-3 Sacred Foundry
+2 Blacklance Paragon
+2 Stormfist Crusader
 3 Tournament Grounds
+3 Blood Crypt
+3 Fight as One
+3 Fervent Champion
+3 Worthy Knight
+3 Venerable Knight
+3 Sacred Foundry
+3 Knight of the Ebon Legion
 3 Inspiring Veteran
 4 Sacred Foundry
-4 Venerable Knight
-4 Fight as One
-4 Blood Crypt
-4 Knight of the Ebon Legion
 4 Tournament Grounds
-4 Worthy Knight
-4 Inspiring Veteran
+4 Blood Crypt
+4 Fight as One
 4 Fervent Champion
+4 Worthy Knight
+4 Venerable Knight
+4 Inspiring Veteran
+4 Knight of the Ebon Legion
 1 Tymaret, Chosen from Death
 1 Tithe Taker
 2 Tithe Taker
@@ -154,16 +154,6 @@
 4 Skyknight Vanguard
 2 Lampad of Death's Vigil
 4 Call of the Death-Dweller
-1 Order of Midnight
-1 Smitten Swordmaster
-2 Order of Midnight
-2 Smitten Swordmaster
-3 Stormfist Crusader
-3 Blacklance Paragon
-3 Smitten Swordmaster
-4 Smitten Swordmaster
-4 Stormfist Crusader
-4 Blacklance Paragon
 1 Erebos's Intervention
 1 Finale of Eternity
 1 Dawn of Hope
@@ -177,12 +167,12 @@
 4 Fiend Artisan
 4 Whisper Squad
 1 Shadowspear
-1 Memory Leak
 1 Pilfering Imp
 1 Boot Nipper
+1 Memory Leak
 1 Murder
-2 Memory Leak
 2 Murder
+2 Memory Leak
 4 Kaya's Ghostform
 1 Luminous Broodmoth
 1 Midnight Reaper
@@ -196,12 +186,16 @@
 3 Bastion of Remembrance
 4 Luminous Broodmoth
 4 Bastion of Remembrance
-1 Dreadhorde Invasion
-1 Blood for Bones
-2 Final Payment
-3 Final Payment
-4 Mire's Grasp
-11 Swamp
+1 Order of Midnight
+1 Smitten Swordmaster
+2 Order of Midnight
+2 Smitten Swordmaster
+3 Stormfist Crusader
+3 Smitten Swordmaster
+3 Blacklance Paragon
+4 Stormfist Crusader
+4 Smitten Swordmaster
+4 Blacklance Paragon
 1 Mortify
 1 Liliana, Dreadhorde General
 1 Daxos, Blessed by the Sun
@@ -214,3 +208,9 @@
 3 Foreboding Fruit
 4 Orzhov Guildgate
 4 Imperious Oligarch
+1 Dreadhorde Invasion
+1 Blood for Bones
+2 Final Payment
+3 Final Payment
+4 Mire's Grasp
+11 Swamp

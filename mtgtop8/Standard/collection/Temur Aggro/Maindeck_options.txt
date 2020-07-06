@@ -1,8 +1,8 @@
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
-3 Temple of Epiphany
 3 Temple of Mystery
+3 Temple of Epiphany
 4 Temple of Mystery
 3 Island
 4 Arboreal Grazer
@@ -25,12 +25,12 @@
 1 Cavalier of Flame
 2 Mystical Dispute
 3 Mystical Dispute
-1 Bonecrusher Giant
 1 Nightpack Ambusher
+1 Bonecrusher Giant
 2 Bonecrusher Giant
 2 Nightpack Ambusher
-3 Brazen Borrower
 3 Nightpack Ambusher
+3 Brazen Borrower
 3 Bonecrusher Giant
 1 Frilled Mystic
 2 Frilled Mystic
@@ -45,10 +45,10 @@
 3 Cavalier of Flame
 4 Cavalier of Flame
 1 End-Raze Forerunners
-1 Ugin, the Spirit Dragon
 1 Ugin, the Ineffable
-2 Ugin, the Spirit Dragon
+1 Ugin, the Spirit Dragon
 2 Ugin, the Ineffable
+2 Ugin, the Spirit Dragon
 3 Ugin, the Spirit Dragon
 4 Ugin, the Spirit Dragon
 4 Brazen Borrower
@@ -80,26 +80,26 @@
 1 Cavalier of Gales
 2 Cavalier of Gales
 1 Omen of the Sea
-1 Kogla, the Titan Ape
 1 Omen of the Forge
+1 Kogla, the Titan Ape
 2 Omen of the Sea
 2 Omen of the Forge
 3 Omen of the Sea
 3 Omen of the Forge
 1 Chandra, Awakened Inferno
 1 Thassa's Oracle
-3 Mythos of Illuna
 3 Scampering Scorcher
-1 Finale of Devastation
-2 End-Raze Forerunners
-2 Finale of Devastation
-3 Finale of Devastation
-4 Nissa, Who Shakes the World
+3 Mythos of Illuna
 1 Cultivate
 2 Cultivate
 3 Cultivate
 4 Cultivate
 4 Forest
+1 Finale of Devastation
+2 End-Raze Forerunners
+2 Finale of Devastation
+3 Finale of Devastation
+4 Nissa, Who Shakes the World
 1 Solemn Simulacrum
 2 Solemn Simulacrum
 3 Solemn Simulacrum
@@ -109,6 +109,11 @@
 2 Terror of the Peaks
 2 Yorion, Sky Nomad
 3 Terror of the Peaks
+1 Fire Prophecy
+2 Fire Prophecy
+3 Fire Prophecy
+4 Brineborn Cutthroat
+4 Fire Prophecy
 1 Wilderness Reclamation
 1 Blast Zone
 1 Questing Beast
@@ -119,27 +124,22 @@
 3 Expansion / Explosion
 3 Wilderness Reclamation
 4 Wilderness Reclamation
+3 Quench
+3 Whirlwind Denial
+4 Island
+5 Island
+6 Island
+7 Island
 1 Neutralize
+1 Opt
 1 Gadwick, the Wizened
 1 Ionize
-1 Opt
 2 Opt
+2 Ionize
 2 Negate
 2 Gadwick, the Wizened
-2 Ionize
 3 Opt
 3 Ionize
 3 Gadwick, the Wizened
 4 Opt
 4 Ionize
-3 Whirlwind Denial
-3 Quench
-4 Island
-5 Island
-6 Island
-7 Island
-1 Fire Prophecy
-2 Fire Prophecy
-3 Fire Prophecy
-4 Brineborn Cutthroat
-4 Fire Prophecy

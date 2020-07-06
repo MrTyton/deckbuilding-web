@@ -7,12 +7,12 @@
 3 Stomping Ground
 1 Rootbound Crag
 4 Stomping Ground
-1 Gilded Goose
 1 Temple Garden
 1 Sunpetal Grove
 1 Voice of Resurgence
 1 Elvish Mystic
 1 Eldritch Evolution
+1 Gilded Goose
 1 Legion Warboss
 1 Kenrith, the Returned King
 1 Winota, Joiner of Forces
@@ -34,9 +34,9 @@
 3 Winota, Joiner of Forces
 3 Angrath's Marauders
 3 Legion Warboss
+4 Voice of Resurgence
 4 Temple Garden
 4 Eldritch Evolution
-4 Voice of Resurgence
 4 Winota, Joiner of Forces
 4 Angrath's Marauders
 1 Sacred Foundry
@@ -162,12 +162,12 @@
 2 Scavenging Ooze
 1 Experiment One
 1 Pelt Collector
-2 Pelt Collector
 2 Experiment One
-3 Pelt Collector
+2 Pelt Collector
 3 Experiment One
-4 Pelt Collector
+3 Pelt Collector
 4 Experiment One
+4 Pelt Collector
 1 Watery Grave
 2 Watery Grave
 2 Island
@@ -185,29 +185,29 @@
 1 Ipnu Rivulet
 1 Traverse the Ulvenwald
 1 Shark Typhoon
+1 Hinterland Harbor
+1 Jace, Vryn's Prodigy
 1 Heartless Act
 1 Tireless Tracker
 1 Nissa, Who Shakes the World
 1 Eat to Extinction
 1 Uro, Titan of Nature's Wrath
-1 Jace, Vryn's Prodigy
 1 Zagoth Triome
 1 Satyr Wayfinder
 1 Breeding Pool
-1 Hinterland Harbor
 1 Murderous Rider
 2 Satyr Wayfinder
 2 Breeding Pool
 2 Traverse the Ulvenwald
 2 Shark Typhoon
+2 Jace, Vryn's Prodigy
 2 Murderous Rider
 2 Uro, Titan of Nature's Wrath
-2 Jace, Vryn's Prodigy
+3 Jace, Vryn's Prodigy
 3 Satyr Wayfinder
 3 Breeding Pool
 3 Traverse the Ulvenwald
 3 Uro, Titan of Nature's Wrath
-3 Jace, Vryn's Prodigy
 4 Satyr Wayfinder
 4 Uro, Titan of Nature's Wrath
 1 Duskwatch Recruiter
@@ -220,9 +220,9 @@
 3 Goblin Instigator
 4 Gilded Goose
 4 Gods Willing
-1 Hissing Quagmire
 1 Nissa, Voice of Zendikar
 1 Rishkar, Peema Renegade
+1 Hissing Quagmire
 1 Assassin's Trophy
 1 Voracious Hydra
 2 Rishkar, Peema Renegade
@@ -236,43 +236,43 @@
 4 Nissa, Voice of Zendikar
 4 Assassin's Trophy
 4 Voracious Hydra
-1 Gallia of the Endless Dance
 1 Domri, Anarch of Bolas
 1 Gruul Spellbreaker
 1 Hashep Oasis
 1 Zhur-Taa Goblin
 1 Dryad Militant
-1 Bonecrusher Giant
 1 Burning-Tree Emissary
+1 Bonecrusher Giant
 1 Hazoret the Fervent
 1 Questing Beast
+1 Gallia of the Endless Dance
 1 Embercleave
 1 Ghor-Clan Rampager
 1 Game Trail
 1 Domri Rade
 1 Voltaic Brawler
-2 Gallia of the Endless Dance
 2 Gruul Spellbreaker
 2 Hashep Oasis
 2 Zhur-Taa Goblin
-2 Burning-Tree Emissary
 2 Bonecrusher Giant
+2 Burning-Tree Emissary
 2 Ghor-Clan Rampager
 2 Voltaic Brawler
 2 Embercleave
+2 Gallia of the Endless Dance
 2 Game Trail
 3 Gruul Spellbreaker
 3 Bonecrusher Giant
 3 Burning-Tree Emissary
 3 Ghor-Clan Rampager
 3 Voltaic Brawler
+4 Ghor-Clan Rampager
 4 Gruul Spellbreaker
 4 Burning-Tree Emissary
 4 Bonecrusher Giant
-4 Ghor-Clan Rampager
 4 Voltaic Brawler
-1 Chevill, Bane of Monsters
 1 Deathrite Shaman
+1 Chevill, Bane of Monsters
 1 Grim Flayer
 1 Kroxa, Titan of Death's Hunger
 1 Blood Crypt
@@ -282,24 +282,24 @@
 1 Unbridled Growth
 2 Kroxa, Titan of Death's Hunger
 2 Deathrite Shaman
-2 Grim Flayer
 2 Blood Crypt
 2 Dreadbore
+2 Chevill, Bane of Monsters
 2 Dead Weight
 2 Kolaghan's Command
-2 Chevill, Bane of Monsters
 2 Unbridled Growth
+2 Grim Flayer
 3 Kroxa, Titan of Death's Hunger
-3 Grim Flayer
-3 Blood Crypt
 3 Deathrite Shaman
+3 Blood Crypt
 3 Chevill, Bane of Monsters
 3 Unbridled Growth
-4 Grim Flayer
+3 Grim Flayer
 4 Blood Crypt
 4 Deathrite Shaman
 4 Unbridled Growth
 4 Chevill, Bane of Monsters
+4 Grim Flayer
 1 Springleaf Drum
 1 Alseid of Life's Bounty
 1 Curious Obsession
@@ -348,7 +348,6 @@
 1 Castle Locthwain
 1 Castle Ardenvale
 1 Knight of the Ebon Legion
-2 Karn, Scion of Urza
 2 Godless Shrine
 2 Concealed Courtyard
 2 Caves of Koilos
@@ -356,6 +355,7 @@
 2 Heart of Kiran
 2 Gideon of the Trials
 2 Pack Rat
+2 Karn, Scion of Urza
 2 Knight of the Ebon Legion
 2 Heliod, Sun-Crowned
 3 Karn, Scion of Urza
