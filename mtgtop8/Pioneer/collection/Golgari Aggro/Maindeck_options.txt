@@ -1,4 +1,4 @@
-6 Forest
+3 Swamp
 1 Llanowar Elves
 1 Elvish Mystic
 2 Llanowar Elves
@@ -11,8 +11,8 @@
 2 Woodland Cemetery
 3 Woodland Cemetery
 4 Woodland Cemetery
-1 Pelt Collector
 1 Experiment One
+1 Pelt Collector
 2 Scavenging Ooze
 2 Experiment One
 2 Pelt Collector
@@ -56,16 +56,7 @@
 4 Lovestruck Beast
 8 Forest
 9 Forest
-1 Evolutionary Leap
-2 Evolutionary Leap
 4 Chamber Sentry
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-4 Thoughtseize
-2 Mutavault
-3 Mutavault
-4 Mutavault
 1 Hashep Oasis
 1 Lotleth Troll
 1 Grisly Salvage
@@ -93,6 +84,9 @@
 4 Soulflayer
 4 Zetalpa, Primal Dawn
 4 Sylvan Caryatid
+2 Mutavault
+3 Mutavault
+4 Mutavault
 1 Rankle, Master of Pranks
 1 Murderous Rider
 2 Rankle, Master of Pranks
@@ -101,6 +95,8 @@
 4 Murderous Rider
 1 Deathrite Shaman
 2 Deathrite Shaman
+1 Evolutionary Leap
+2 Evolutionary Leap
 1 Spire of Industry
 2 Spire of Industry
 1 Nullhide Ferox
@@ -147,22 +143,26 @@
 1 Stitcher's Supplier
 1 Fourth Bridge Prowler
 1 Fiend Artisan
+1 Thoughtseize
 2 Castle Locthwain
 2 Knight of the Ebon Legion
 2 Stitcher's Supplier
 2 Urborg, Tomb of Yawgmoth
 2 Fiend Artisan
+2 Thoughtseize
 3 Deathrite Shaman
 3 Knight of the Ebon Legion
 3 Stitcher's Supplier
 3 Castle Locthwain
 3 Fiend Artisan
+3 Thoughtseize
 4 Deathrite Shaman
 4 Knight of the Ebon Legion
 4 Swamp
 4 Stitcher's Supplier
 4 Castle Locthwain
 4 Fiend Artisan
+4 Thoughtseize
 5 Swamp
 6 Swamp
 1 Unclaimed Territory

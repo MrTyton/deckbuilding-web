@@ -2,8 +2,8 @@
 4 Walking Ballista
 1 Charming Prince
 2 Charming Prince
-3 Baffling End
 3 Charming Prince
+3 Baffling End
 4 Baffling End
 4 Charming Prince
 2 Castle Ardenvale
@@ -29,14 +29,14 @@
 20 Plains
 21 Plains
 22 Plains
-1 Kaya, Orzhov Usurper
-1 Isolated Chapel
-1 Trial of Ambition
-1 Oath of Kaya
 1 Temple of Silence
+1 Oath of Kaya
+1 Trial of Ambition
+1 Isolated Chapel
+1 Kaya, Orzhov Usurper
+2 Oath of Kaya
 2 Temple of Silence
 2 Isolated Chapel
-2 Oath of Kaya
 3 Isolated Chapel
 4 Isolated Chapel
 3 Daxos, Blessed by the Sun
@@ -93,8 +93,8 @@
 2 Gideon Blackblade
 3 Elspeth Conquers Death
 1 Kunoros, Hound of Athreos
-2 Kunoros, Hound of Athreos
 2 Trial of Ambition
+2 Kunoros, Hound of Athreos
 3 Temple of Silence
 4 Temple of Silence
 23 Plains

@@ -42,10 +42,10 @@
 
 |*n*<sup>th</sup> copy|                                             Maindeck Card                                             |*n*<sup>th</sup> copy|                                             Sideboard Card                                             |
 |--------------------:|-------------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------------|
-|                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)             |                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)                |
+|                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)             |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)            |
 |                    2|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2240)                |                    1|[Golgari Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405245)                |
 |                    4|[Uro, Titan of Nature's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476480)|                    1|[The Tabernacle at Pendrell Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1690)|
-|                    1|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2240)                |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)            |
+|                    1|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2240)                |                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)                |
 |                     |                                                                                                       |                    3|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)              |
 |                     |                                                                                                       |                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)             |
 

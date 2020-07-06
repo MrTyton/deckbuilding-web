@@ -1,68 +1,34 @@
-1 Agonizing Remorse
-2 Elspeth's Nightmare
-2 Murderous Rider
-2 Agonizing Remorse
-3 Caves of Koilos
-4 Demonic Pact
-4 Swamp
-4 The Birth of Meletis
-1 Duress
-1 Kaya's Wrath
-2 Duress
-4 Caves of Koilos
-4 Oath of Kaya
-6 Plains
-3 Elspeth's Nightmare
-5 Swamp
-1 Gideon, Ally of Zendikar
-2 Gideon, Ally of Zendikar
-1 Supreme Verdict
-1 Sulfur Falls
-1 Hallowed Fountain
-1 Raugrin Triome
-1 Clifftop Retreat
-2 Clifftop Retreat
-2 Supreme Verdict
-2 Sulfur Falls
-2 Hallowed Fountain
-2 Raugrin Triome
-3 Clifftop Retreat
-1 Interplanar Beacon
-1 Elspeth, Sun's Nemesis
-1 Elspeth Conquers Death
-1 Narset, Parter of Veils
-1 Teferi, Time Raveler
-1 Steam Vents
-1 Baffling End
-1 Glacial Fortress
-1 Agent of Treachery
-1 Lukka, Coppercoat Outcast
-1 Sacred Foundry
-1 Omen of the Sea
-2 Interplanar Beacon
-2 Elspeth, Sun's Nemesis
-2 Elspeth Conquers Death
-2 Omen of the Sea
-2 Baffling End
-2 Sacred Foundry
-2 Teferi, Time Raveler
-2 Narset, Parter of Veils
-2 Steam Vents
-2 Glacial Fortress
-2 Lukka, Coppercoat Outcast
-2 Agent of Treachery
-3 Gideon of the Trials
-3 Interplanar Beacon
-3 Raugrin Triome
-3 Steam Vents
-3 Teferi, Time Raveler
-3 Omen of the Sea
-3 Lukka, Coppercoat Outcast
-4 Interplanar Beacon
-4 Raugrin Triome
-4 Lukka, Coppercoat Outcast
-4 Omen of the Sea
-4 Teferi, Time Raveler
+2 Swamp
+3 Swamp
+1 Shambling Vent
+1 Flicker of Fate
+1 Treacherous Blessing
+1 Doom Foretold
+1 Godless Shrine
+1 Isolated Chapel
+1 Trial of Ambition
+1 Urborg, Tomb of Yawgmoth
+1 Oath of Kaya
+2 Flicker of Fate
+2 Treacherous Blessing
+2 Shambling Vent
+2 Doom Foretold
+2 Isolated Chapel
+2 Trial of Ambition
+2 Godless Shrine
+3 Isolated Chapel
+3 Flicker of Fate
+3 Doom Foretold
+3 Treacherous Blessing
+3 Shambling Vent
+3 Trial of Ambition
+3 Godless Shrine
+4 Trial of Ambition
+4 Isolated Chapel
+4 Doom Foretold
+4 Godless Shrine
+5 Plains
+1 Castle Ardenvale
 1 Irrigated Farmland
 1 Azorius Charm
 2 Irrigated Farmland
@@ -74,8 +40,18 @@
 4 Hallowed Fountain
 4 Irrigated Farmland
 4 Azorius Charm
-1 Castle Ardenvale
-4 Treacherous Blessing
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
+1 Demonic Pact
+1 Castle Locthwain
+2 Demonic Pact
+2 Castle Locthwain
+2 Oath of Kaya
+3 Demonic Pact
+3 Oath of Kaya
+4 Shambling Vent
 1 Deafening Clarion
 2 Castle Ardenvale
 2 Deafening Clarion
@@ -86,16 +62,66 @@
 3 Supreme Verdict
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
+1 Caves of Koilos
+2 Caves of Koilos
+4 Flicker of Fate
+1 Fatal Push
+2 Fatal Push
+1 Elspeth's Nightmare
+1 Murderous Rider
+1 Temple of Silence
+1 Agonizing Remorse
+1 Duress
+1 Kaya's Wrath
+2 Elspeth's Nightmare
+2 Murderous Rider
+2 Duress
+2 Agonizing Remorse
+3 Caves of Koilos
+4 Caves of Koilos
+4 Demonic Pact
+4 Swamp
+4 Oath of Kaya
+6 Plains
+1 Fabled Passage
+4 Treacherous Blessing
+1 Island
 3 Fatal Push
-1 History of Benalia
+1 Mountain
+2 Fabled Passage
+3 Fabled Passage
+4 Fabled Passage
+1 Thraben Inspector
+1 Blast Zone
+2 Kaya's Wrath
+2 Thraben Inspector
+3 Murderous Rider
+3 Thraben Inspector
+1 Nahiri, the Harbinger
+1 Sweltering Suns
+1 Chained to the Rocks
+2 Sweltering Suns
+2 Nahiri, the Harbinger
+2 Chained to the Rocks
+3 Sacred Foundry
+3 Agent of Treachery
+3 Sweltering Suns
+3 Chained to the Rocks
+4 Sacred Foundry
+4 Steam Vents
+4 Gideon of the Trials
+4 Sweltering Suns
+4 Chained to the Rocks
 1 Starfield of Nyx
+1 History of Benalia
 1 Kunoros, Hound of Athreos
 2 Kunoros, Hound of Athreos
-2 Kaya's Wrath
-3 Murderous Rider
+3 Elspeth's Nightmare
+5 Swamp
 1 Final Payment
-1 Island
-1 Fabled Passage
+1 Yorion, Sky Nomad
+2 Yorion, Sky Nomad
+2 Final Payment
 1 Censor
 2 Censor
 2 Island
@@ -109,10 +135,10 @@
 1 Hieroglyphic Illumination
 1 Shark Typhoon
 1 Flourishing Fox
-2 Shark Typhoon
 2 Cast Out
 2 Neutralize
 2 Nimble Obstructionist
+2 Shark Typhoon
 2 Flourishing Fox
 2 Hieroglyphic Illumination
 2 Zenith Flare
@@ -130,38 +156,6 @@
 4 Zenith Flare
 4 Cast Out
 4 Sulfur Falls
-4 Fatal Push
-1 Mountain
-2 Fabled Passage
-3 Fabled Passage
-4 Fabled Passage
-2 History of Benalia
-1 Thraben Inspector
-1 Blast Zone
-2 Thraben Inspector
-3 Thraben Inspector
-1 Nahiri, the Harbinger
-1 Sweltering Suns
-1 Chained to the Rocks
-2 Sweltering Suns
-2 Nahiri, the Harbinger
-2 Chained to the Rocks
-3 Sacred Foundry
-3 Agent of Treachery
-3 Sweltering Suns
-3 Chained to the Rocks
-4 Sacred Foundry
-4 Steam Vents
-4 Gideon of the Trials
-4 Sweltering Suns
-4 Chained to the Rocks
-1 Concealed Courtyard
-2 Concealed Courtyard
-3 Kunoros, Hound of Athreos
-6 Swamp
-1 Yorion, Sky Nomad
-2 Yorion, Sky Nomad
-2 Final Payment
 1 Opt
 1 Drown in the Loch
 1 Dragonskull Summit
@@ -195,6 +189,7 @@
 4 Opt
 4 Drown in the Loch
 4 Blood Crypt
+4 Fatal Push
 4 Dreadbore
 4 Tyrant's Scorn
 4 Nicol Bolas, Dragon-God
@@ -202,8 +197,8 @@
 4 Nicol Bolas, the Ravager
 1 Heliod, Sun-Crowned
 1 Shatter the Sky
-1 Walking Ballista
 1 Arcanist's Owl
+1 Walking Ballista
 2 Heliod, Sun-Crowned
 2 Walking Ballista
 2 Shatter the Sky

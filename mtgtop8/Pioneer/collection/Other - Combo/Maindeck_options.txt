@@ -62,14 +62,13 @@
 4 Voice of Resurgence
 4 Eldritch Evolution
 4 Legion Warboss
-1 Urborg, Tomb of Yawgmoth
 1 Blooming Marsh
+1 Urborg, Tomb of Yawgmoth
 2 Blooming Marsh
 3 Blooming Marsh
 4 Blooming Marsh
 1 Oath of Kaya
 1 Mox Amber
-1 Botanical Sanctum
 1 Springleaf Drum
 1 Lurrus of the Dream Den
 1 Wishclaw Talisman
@@ -81,6 +80,7 @@
 1 Emry, Lurker of the Loch
 1 Liliana, the Last Hope
 1 Diligent Excavator
+1 Botanical Sanctum
 1 Spire of Industry
 1 Kethis, the Hidden Hand
 1 Lazav, the Multifarious
@@ -100,6 +100,7 @@
 2 Hallowed Fountain
 2 Spire of Industry
 2 Botanical Sanctum
+3 Teferi, Time Raveler
 3 Hallowed Fountain
 3 Mox Amber
 3 Lazav, the Multifarious
@@ -107,7 +108,6 @@
 3 Hope of Ghirapur
 3 Mana Confluence
 3 Botanical Sanctum
-3 Teferi, Time Raveler
 3 Emry, Lurker of the Loch
 3 Diligent Excavator
 3 Kethis, the Hidden Hand
@@ -141,9 +141,9 @@
 2 Temple of Malady
 2 Swamp
 2 Zetalpa, Primal Dawn
+2 Overgrown Tomb
 2 Soulflayer
 2 Lotleth Troll
-2 Overgrown Tomb
 2 Grisly Salvage
 2 Questing Beast
 2 Gather the Pack
@@ -154,9 +154,9 @@
 3 Soulflayer
 3 Lotleth Troll
 3 Gather the Pack
-3 Overgrown Tomb
 3 Swamp
 3 Grisly Salvage
+3 Overgrown Tomb
 3 Questing Beast
 3 Gifted Aetherborn
 4 Zetalpa, Primal Dawn
@@ -171,7 +171,6 @@
 1 Shared Summons
 1 Borborygmos Enraged
 1 Captain Lannery Storm
-1 Lukka, Coppercoat Outcast
 1 Game Trail
 1 Worldspine Wurm
 1 Possibility Storm
@@ -179,8 +178,8 @@
 1 Stonecoil Serpent
 1 Rosethorn Acolyte
 1 Bonecrusher Giant
+1 Lukka, Coppercoat Outcast
 1 Lovestruck Beast
-2 Lukka, Coppercoat Outcast
 2 Possibility Storm
 2 Captain Lannery Storm
 2 Game Trail
@@ -189,7 +188,7 @@
 2 Bonecrusher Giant
 2 Rosethorn Acolyte
 2 Lovestruck Beast
-3 Lukka, Coppercoat Outcast
+2 Lukka, Coppercoat Outcast
 3 Possibility Storm
 3 Forest
 3 Captain Lannery Storm
@@ -197,6 +196,7 @@
 3 Game Trail
 3 Bonecrusher Giant
 3 Mountain
+3 Lukka, Coppercoat Outcast
 3 Lovestruck Beast
 3 Rosethorn Acolyte
 4 Possibility Storm

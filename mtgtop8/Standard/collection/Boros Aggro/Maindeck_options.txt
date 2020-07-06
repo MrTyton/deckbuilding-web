@@ -1,6 +1,5 @@
 4 Memory Leak
 4 Boon of the Wish-Giver
-10 Plains
 6 Mountain
 7 Mountain
 8 Mountain
@@ -34,16 +33,17 @@
 4 Selfless Savior
 4 Seasoned Hallowblade
 4 Alpine Houndmaster
+10 Plains
 1 Temple of Triumph
 2 Temple of Triumph
 3 Temple of Triumph
 4 Temple of Triumph
 1 Gingerbrute
 2 Gingerbrute
-3 Gingerbrute
-4 Gingerbrute
 1 Winota, Joiner of Forces
 2 Winota, Joiner of Forces
+3 Gingerbrute
+4 Gingerbrute
 1 Imposing Vantasaur
 1 Reptilian Reflection
 2 Imposing Vantasaur
@@ -54,6 +54,8 @@
 4 Reptilian Reflection
 1 Aurelia, Exemplar of Justice
 1 Shredded Sails
+1 Stonecoil Serpent
+2 Stonecoil Serpent
 2 Aurelia, Exemplar of Justice
 1 Fight as One
 2 Fight as One
@@ -73,6 +75,7 @@
 1 Shark Typhoon
 1 Uro, Titan of Nature's Wrath
 1 Mystical Dispute
+1 Aether Gust
 1 Growth Spiral
 1 Fabled Passage
 1 Hallowed Fountain
@@ -81,7 +84,6 @@
 1 Temple Garden
 1 Temple of Plenty
 1 Dovin's Veto
-1 Aether Gust
 1 Breeding Pool
 1 Temple of Mystery
 1 Forest
@@ -110,8 +112,8 @@
 3 Aether Gust
 3 Mystical Dispute
 3 Breeding Pool
-3 Hallowed Fountain
 3 Fabled Passage
+3 Hallowed Fountain
 3 Growth Spiral
 3 Teferi, Time Raveler
 3 Temple Garden

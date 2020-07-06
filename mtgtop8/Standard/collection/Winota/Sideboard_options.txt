@@ -31,11 +31,11 @@
 1 Glass Casket
 2 Glass Casket
 4 Redcap Melee
-1 Disenchant
 1 Containment Priest
+1 Disenchant
 2 Disenchant
-3 Disenchant
 3 Glass Casket
+3 Disenchant
 4 Glass Casket
 3 Aether Gust
 1 Tibalt, Rakish Instigator
@@ -62,11 +62,11 @@
 2 Blazing Volley
 3 Scorching Dragonfire
 1 Shatter the Sky
+1 Heliod's Intervention
 1 Elspeth Conquers Death
 1 Deafening Clarion
 1 Casualties of War
 1 Yorion, Sky Nomad
-1 Heliod's Intervention
 1 Disdainful Stroke
 1 Inspired Ultimatum
 2 Deafening Clarion
@@ -74,9 +74,9 @@
 3 Deafening Clarion
 2 Soul-Guide Lantern
 3 Soul-Guide Lantern
-1 Cosmotronic Wave
-1 Fry
 1 Light of Hope
+1 Fry
+1 Cosmotronic Wave
 1 Sorcerous Spyglass
 2 Fry
 2 Light of Hope
@@ -86,14 +86,14 @@
 3 Fry
 3 Sorcerous Spyglass
 3 Cosmotronic Wave
-1 Deputy of Detention
-2 Drannith Magistrate
-2 Deputy of Detention
-3 Knight of Autumn
-3 Deputy of Detention
 1 Mythos of Vadrok
 2 Mythos of Vadrok
 3 Mythos of Vadrok
+1 Deputy of Detention
+2 Drannith Magistrate
+2 Deputy of Detention
+3 Deputy of Detention
+3 Knight of Autumn
 1 Shadowspear
 1 Necromentia
 1 Ashiok, Dream Render
@@ -106,8 +106,6 @@
 3 Disfigure
 3 Ashiok, Dream Render
 3 Agonizing Remorse
-3 Dovin's Veto
-4 Dovin's Veto
 1 Conclave Tribunal
 1 Blightbeetle
 1 Unbreakable Formation
@@ -115,8 +113,8 @@
 1 Storm's Wrath
 1 Volcanic Salvo
 2 Conclave Tribunal
-2 Blightbeetle
 2 Storm's Wrath
+2 Blightbeetle
 2 Volcanic Salvo
 3 Conclave Tribunal
 4 Conclave Tribunal
@@ -129,3 +127,5 @@
 3 Duress
 4 Leyline of the Void
 4 Duress
+3 Dovin's Veto
+4 Dovin's Veto

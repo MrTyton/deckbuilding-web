@@ -18,24 +18,24 @@
 5 Swamp
 1 Dreadbore
 1 Blood Crypt
-1 Village Rites
 1 Archfiend's Vessel
 1 Kroxa, Titan of Death's Hunger
 1 Dragonskull Summit
+1 Village Rites
 1 Dreadhorde Arcanist
 1 Young Pyromancer
 1 Claim/Fame
 1 Foreboding Ruins
 1 Call of the Death-Dweller
 2 Blood Crypt
-2 Village Rites
 2 Call of the Death-Dweller
+2 Dragonskull Summit
 2 Claim/Fame
 2 Kroxa, Titan of Death's Hunger
 2 Dreadhorde Arcanist
 2 Young Pyromancer
+2 Village Rites
 2 Foreboding Ruins
-2 Dragonskull Summit
 3 Village Rites
 3 Blood Crypt
 3 Call of the Death-Dweller
@@ -135,8 +135,8 @@
 1 Zagoth Triome
 4 Fabled Passage
 1 Isolated Chapel
-2 Godless Shrine
 2 Isolated Chapel
+2 Godless Shrine
 3 Godless Shrine
 1 Temple Garden
 2 Temple Garden
@@ -182,8 +182,8 @@
 1 Ashiok, Nightmare Muse
 1 Narset, Parter of Veils
 2 Thassa's Intervention
-2 Teferi, Master of Time
 2 Kaya, Orzhov Usurper
+2 Teferi, Master of Time
 2 Eliminate
 2 Supreme Verdict
 2 Drowned Catacomb
@@ -230,10 +230,10 @@
 1 Rootbound Crag
 2 Zagoth Triome
 2 Savai Triome
+2 Voice of Resurgence
 2 Bring to Light
 2 Nahiri, the Harbinger
 2 Knight of Autumn
-2 Voice of Resurgence
 2 Abrupt Decay
 2 Niv-Mizzet Reborn
 3 Abrupt Decay
@@ -379,8 +379,8 @@
 4 Haunted Dead
 2 Walking Ballista
 3 Walking Ballista
-1 Experiment One
 1 Pelt Collector
+1 Experiment One
 1 Voracious Hydra
 1 Hangarback Walker
 1 Hardened Scales
@@ -464,15 +464,15 @@
 4 Azorius Charm
 4 Cast Out
 4 Hieroglyphic Illumination
-1 Caves of Koilos
 1 Archangel Avacyn
 1 History of Benalia
 1 Kunoros, Hound of Athreos
+1 Caves of Koilos
 1 Glory-Bound Initiate
 2 Heart of Kiran
-2 Caves of Koilos
 2 History of Benalia
 2 Glory-Bound Initiate
+2 Caves of Koilos
 3 Gideon, Ally of Zendikar
 3 Caves of Koilos
 3 Heart of Kiran
@@ -524,8 +524,8 @@
 1 Shivan Reef
 1 Crash Through
 1 Treasure Cruise
-1 Spirebluff Canal
 1 Sprite Dragon
+1 Spirebluff Canal
 1 Soul-Scar Mage
 1 Warlord's Fury
 1 Rapid Hybridization
@@ -535,7 +535,6 @@
 1 Stormwing Entity
 2 Shivan Reef
 2 Crash Through
-2 Spirebluff Canal
 2 Treasure Cruise
 2 Sprite Dragon
 2 Shock
@@ -543,26 +542,27 @@
 2 Monastery Swiftspear
 2 Stormwing Entity
 2 Soul-Scar Mage
+2 Spirebluff Canal
 2 Warlord's Fury
 3 Steam Vents
 3 Shivan Reef
 3 Crash Through
 3 Stormwing Entity
-3 Spirebluff Canal
 3 Sprite Dragon
 3 Shock
 3 Treasure Cruise
 3 Monastery Swiftspear
+3 Spirebluff Canal
 3 Soul-Scar Mage
 4 Steam Vents
 4 Shivan Reef
 4 Crash Through
-4 Spirebluff Canal
-4 Shock
 4 Sprite Dragon
+4 Shock
 4 Stormwing Entity
 4 Soul-Scar Mage
 4 Monastery Swiftspear
+4 Spirebluff Canal
 4 Treasure Cruise
 1 Conspicuous Snoop
 1 Subira, Tulzidi Caravanner
@@ -749,10 +749,10 @@
 1 See the Unwritten
 1 Worldspine Wurm
 2 Castle Garenbrig
+2 Ulamog, the Ceaseless Hunger
 2 Sunpetal Grove
 2 Trostani Discordant
 2 Dubious Challenge
-2 Ulamog, the Ceaseless Hunger
 2 Worldspine Wurm
 2 Elvish Mystic
 2 See the Unwritten
@@ -773,31 +773,31 @@
 4 Worldspine Wurm
 6 Forest
 7 Forest
-1 Lurrus of the Dream-Den
 1 Gideon's Intervention
 1 Shatter the Sky
 1 Elspeth Conquers Death
 1 Karn's Bastion
-1 Hushbringer
 1 Authority of the Consuls
+1 Lurrus of the Dream-Den
 1 Swallow Whole
 1 Heliod, Sun-Crowned
 1 Weatherlight
 1 Idyllic Grange
+1 Hushbringer
 1 Spear of Heliod
 1 Karn, the Great Creator
 2 Lurrus of the Dream-Den
 2 Heliod, Sun-Crowned
-2 Hushbringer
 2 Authority of the Consuls
 2 Idyllic Grange
+2 Hushbringer
 2 Karn, the Great Creator
 3 Blast Zone
 3 Lurrus of the Dream-Den
-3 Hushbringer
 3 Authority of the Consuls
 3 Heliod, Sun-Crowned
 3 Gideon of the Trials
+3 Hushbringer
 4 Gideon of the Trials
 4 Hushbringer
 4 Heliod, Sun-Crowned
