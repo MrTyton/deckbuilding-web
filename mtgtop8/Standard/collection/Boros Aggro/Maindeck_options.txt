@@ -1,16 +1,15 @@
 4 Memory Leak
+10 Plains
 4 Boon of the Wish-Giver
 6 Mountain
-7 Mountain
-8 Mountain
 1 Embercleave
 1 Igneous Cur
 1 Alpine Watchdog
 1 Seasoned Hallowblade
 1 Alpine Houndmaster
-1 Bonecrusher Giant
 1 Tajic, Legion's Edge
 1 Selfless Savior
+1 Bonecrusher Giant
 1 Legion Warboss
 2 Embercleave
 2 Seasoned Hallowblade
@@ -22,18 +21,19 @@
 2 Bonecrusher Giant
 2 Legion Warboss
 3 Embercleave
+3 Bonecrusher Giant
 3 Seasoned Hallowblade
 3 Alpine Houndmaster
 3 Tajic, Legion's Edge
 3 Selfless Savior
 3 Legion Warboss
-3 Bonecrusher Giant
 4 Embercleave
 4 Bonecrusher Giant
 4 Selfless Savior
 4 Seasoned Hallowblade
 4 Alpine Houndmaster
-10 Plains
+7 Mountain
+8 Mountain
 1 Temple of Triumph
 2 Temple of Triumph
 3 Temple of Triumph
@@ -63,6 +63,12 @@
 1 Alseid of Life's Bounty
 2 Alseid of Life's Bounty
 4 Legion Warboss
+1 Irencrag Pyromancer
+1 Savai Triome
+1 Icon of Ancestry
+2 Irencrag Pyromancer
+3 Irencrag Pyromancer
+4 Irencrag Pyromancer
 1 Raugrin Triome
 2 Raugrin Triome
 3 Raugrin Triome
@@ -74,16 +80,16 @@
 1 Island
 1 Shark Typhoon
 1 Mystical Dispute
-1 Aether Gust
 1 Growth Spiral
+1 Teferi, Time Raveler
 1 Castle Vantress
 1 Fabled Passage
 1 Hallowed Fountain
-1 Teferi, Time Raveler
 1 Frilled Mystic
 1 Temple Garden
 1 Temple of Plenty
 1 Dovin's Veto
+1 Aether Gust
 1 Breeding Pool
 1 Temple of Mystery
 1 Forest
@@ -112,11 +118,11 @@
 3 Aether Gust
 3 Mystical Dispute
 3 Breeding Pool
-3 Fabled Passage
-3 Hallowed Fountain
-3 Growth Spiral
 3 Teferi, Time Raveler
+3 Fabled Passage
+3 Growth Spiral
 3 Temple Garden
+3 Hallowed Fountain
 4 Shark Typhoon
 4 Brazen Borrower
 4 Nightpack Ambusher

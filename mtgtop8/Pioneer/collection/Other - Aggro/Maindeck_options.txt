@@ -1,4 +1,3 @@
-1 Inspiring Vantage
 1 Forest
 2 Forest
 1 Mountain
@@ -39,6 +38,7 @@
 4 Eldritch Evolution
 4 Winota, Joiner of Forces
 4 Angrath's Marauders
+1 Inspiring Vantage
 1 Sacred Foundry
 2 Sacred Foundry
 1 Llanowar Elves
@@ -55,58 +55,6 @@
 4 Elvish Visionary
 4 Goblin Rabblemaster
 2 Inspiring Vantage
-3 Inspiring Vantage
-2 Mountain
-3 Mountain
-1 Monastery Swiftspear
-1 Soul-Scar Mage
-1 Dreadhorde Arcanist
-1 Titan's Strength
-1 Reckless Rage
-1 Clifftop Retreat
-1 Favored Hoplite
-1 Tenth District Legionnaire
-1 Battlefield Forge
-1 Defiant Strike
-1 Gird for Battle
-1 Gryff's Boon
-1 Boros Charm
-1 Gods Willing
-2 Soul-Scar Mage
-2 Dreadhorde Arcanist
-2 Monastery Swiftspear
-2 Titan's Strength
-2 Reckless Rage
-2 Gird for Battle
-2 Gryff's Boon
-2 Tenth District Legionnaire
-2 Gods Willing
-2 Battlefield Forge
-2 Favored Hoplite
-2 Defiant Strike
-3 Battlefield Forge
-3 Sacred Foundry
-3 Soul-Scar Mage
-3 Monastery Swiftspear
-3 Dreadhorde Arcanist
-3 Reckless Rage
-3 Titan's Strength
-3 Favored Hoplite
-3 Defiant Strike
-3 Gird for Battle
-3 Tenth District Legionnaire
-3 Plains
-3 Gods Willing
-4 Inspiring Vantage
-4 Battlefield Forge
-4 Sacred Foundry
-4 Soul-Scar Mage
-4 Monastery Swiftspear
-4 Reckless Rage
-4 Titan's Strength
-4 Defiant Strike
-4 Tenth District Legionnaire
-4 Favored Hoplite
 2 Rootbound Crag
 1 Selfless Spirit
 1 Goblin Instigator
@@ -179,30 +127,29 @@
 2 Abrupt Decay
 3 Fabled Passage
 1 Scampering Scorcher
-4 Gird for Battle
 1 Ashiok, Nightmare Muse
 1 Atris, Oracle of Half-Truths
 1 Ipnu Rivulet
-1 Traverse the Ulvenwald
 1 Shark Typhoon
+1 Traverse the Ulvenwald
+1 Uro, Titan of Nature's Wrath
 1 Hinterland Harbor
+1 Murderous Rider
 1 Jace, Vryn's Prodigy
 1 Heartless Act
 1 Tireless Tracker
 1 Nissa, Who Shakes the World
 1 Eat to Extinction
-1 Uro, Titan of Nature's Wrath
 1 Zagoth Triome
 1 Satyr Wayfinder
 1 Breeding Pool
-1 Murderous Rider
 2 Satyr Wayfinder
 2 Breeding Pool
-2 Traverse the Ulvenwald
 2 Shark Typhoon
+2 Traverse the Ulvenwald
+2 Uro, Titan of Nature's Wrath
 2 Jace, Vryn's Prodigy
 2 Murderous Rider
-2 Uro, Titan of Nature's Wrath
 3 Jace, Vryn's Prodigy
 3 Satyr Wayfinder
 3 Breeding Pool
@@ -219,7 +166,6 @@
 3 Sunpetal Grove
 3 Goblin Instigator
 4 Gilded Goose
-4 Gods Willing
 1 Nissa, Voice of Zendikar
 1 Rishkar, Peema Renegade
 1 Hissing Quagmire
@@ -236,6 +182,8 @@
 4 Nissa, Voice of Zendikar
 4 Assassin's Trophy
 4 Voracious Hydra
+2 Mountain
+3 Mountain
 1 Domri, Anarch of Bolas
 1 Gruul Spellbreaker
 1 Hashep Oasis
@@ -300,6 +248,7 @@
 4 Unbridled Growth
 4 Chevill, Bane of Monsters
 4 Grim Flayer
+3 Inspiring Vantage
 1 Springleaf Drum
 1 Alseid of Life's Bounty
 1 Curious Obsession
@@ -393,3 +342,53 @@
 4 Witch's Oven
 4 Cauldron Familiar
 4 Choked Estuary
+1 Boros Charm
+1 Monastery Swiftspear
+1 Soul-Scar Mage
+1 Dreadhorde Arcanist
+1 Titan's Strength
+1 Reckless Rage
+1 Clifftop Retreat
+1 Favored Hoplite
+1 Tenth District Legionnaire
+1 Battlefield Forge
+1 Defiant Strike
+1 Gird for Battle
+1 Gryff's Boon
+1 Gods Willing
+2 Battlefield Forge
+2 Soul-Scar Mage
+2 Dreadhorde Arcanist
+2 Monastery Swiftspear
+2 Titan's Strength
+2 Reckless Rage
+2 Gird for Battle
+2 Gryff's Boon
+2 Tenth District Legionnaire
+2 Gods Willing
+2 Favored Hoplite
+2 Defiant Strike
+3 Battlefield Forge
+3 Sacred Foundry
+3 Soul-Scar Mage
+3 Monastery Swiftspear
+3 Dreadhorde Arcanist
+3 Reckless Rage
+3 Titan's Strength
+3 Favored Hoplite
+3 Defiant Strike
+3 Gird for Battle
+3 Tenth District Legionnaire
+3 Plains
+3 Gods Willing
+4 Gird for Battle
+4 Inspiring Vantage
+4 Battlefield Forge
+4 Sacred Foundry
+4 Soul-Scar Mage
+4 Monastery Swiftspear
+4 Reckless Rage
+4 Titan's Strength
+4 Defiant Strike
+4 Tenth District Legionnaire
+4 Favored Hoplite

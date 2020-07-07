@@ -4,12 +4,12 @@
 
 # Standard
 
-|                                A                                 |                                    B                                     |                                   C                                    |                                 D                                  |                                  E                                   |
-|------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------|
-|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Jeskai Cycling](./mtggoldfish/Standard/decks/Jeskai_Cycling.md)          |[Mono-Green Stompy](./mtggoldfish/Standard/decks/Mono-Green_Stompy.md)  |[Orzhov Blink](./mtggoldfish/Standard/decks/Orzhov_Blink.md)        |[Sultai Ramp](./mtggoldfish/Standard/decks/Sultai_Ramp.md)            |
-|[Bant Flash](./mtggoldfish/Standard/decks/Bant_Flash.md)          |[Jund Sacrifice](./mtggoldfish/Standard/decks/Jund_Sacrifice.md)          |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)        |[Other](./mtggoldfish/Standard/decks/Other.md)                      |[Temur Reclamation](./mtggoldfish/Standard/decks/Temur_Reclamation.md)|
-|[Bant Ramp](./mtggoldfish/Standard/decks/Bant_Ramp.md)            |[Mardu Knights](./mtggoldfish/Standard/decks/Mardu_Knights.md)            |[Mono-Red Cavalcade](./mtggoldfish/Standard/decks/Mono-Red_Cavalcade.md)|[Rakdos Knights](./mtggoldfish/Standard/decks/Rakdos_Knights.md)    |[WG](./mtggoldfish/Standard/decks/WG.md)                              |
-|[Gruul Midrange](./mtggoldfish/Standard/decks/Gruul_Midrange.md)  |[Mono-Green Monsters](./mtggoldfish/Standard/decks/Mono-Green_Monsters.md)|[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)    |[Rakdos Sacrifice](./mtggoldfish/Standard/decks/Rakdos_Sacrifice.md)|                                                                      |
+|                                A                                 |                                 B                                  |                                    C                                     |                                 D                                  |                                  E                                   |
+|------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------|
+|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Jeskai Cycling](./mtggoldfish/Standard/decks/Jeskai_Cycling.md)    |[Mono-Green Monsters](./mtggoldfish/Standard/decks/Mono-Green_Monsters.md)|[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[Sultai Ramp](./mtggoldfish/Standard/decks/Sultai_Ramp.md)            |
+|[Bant Flash](./mtggoldfish/Standard/decks/Bant_Flash.md)          |[Jund Sacrifice](./mtggoldfish/Standard/decks/Jund_Sacrifice.md)    |[Mono-Green Stompy](./mtggoldfish/Standard/decks/Mono-Green_Stompy.md)    |[Orzhov Blink](./mtggoldfish/Standard/decks/Orzhov_Blink.md)        |[Temur Reclamation](./mtggoldfish/Standard/decks/Temur_Reclamation.md)|
+|[Bant Ramp](./mtggoldfish/Standard/decks/Bant_Ramp.md)            |[Mardu Knights](./mtggoldfish/Standard/decks/Mardu_Knights.md)      |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)          |[Other](./mtggoldfish/Standard/decks/Other.md)                      |[WG](./mtggoldfish/Standard/decks/WG.md)                              |
+|[Gruul Midrange](./mtggoldfish/Standard/decks/Gruul_Midrange.md)  |[Mono-Black Aggro](./mtggoldfish/Standard/decks/Mono-Black_Aggro.md)|[Mono-Red Cavalcade](./mtggoldfish/Standard/decks/Mono-Red_Cavalcade.md)  |[Rakdos Sacrifice](./mtggoldfish/Standard/decks/Rakdos_Sacrifice.md)|                                                                      |
 
 
 # Pioneer
@@ -55,4 +55,4 @@
 
 
 
-#### Last Updated at 12:48PM on July 06, 2020
+#### Last Updated at 01:51AM on July 07, 2020

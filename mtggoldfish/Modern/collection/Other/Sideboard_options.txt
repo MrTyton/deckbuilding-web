@@ -67,9 +67,9 @@
 2 Cryptic Command
 1 Path to Exile
 1 Monastery Mentor
+1 Pyroclasm
 1 Wear/Tear
 1 Echoing Truth
-1 Pyroclasm
 2 Path to Exile
 1 Tormod's Crypt
 1 Yorion, Sky Nomad
@@ -109,15 +109,14 @@
 2 Force of Vigor
 2 Remorseful Cleric
 3 Dismember
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+3 Bonecrusher Giant
 1 Bedevil
 1 Ensnaring Bridge
 2 Bedevil
 2 Ensnaring Bridge
 3 Ensnaring Bridge
-1 Searing Blood
-2 Searing Blood
-2 Shrine of Burning Rage
-3 Searing Blood
 1 Rest in Peace
 2 Rest in Peace
 3 Rest in Peace
@@ -128,6 +127,10 @@
 2 Aven Mindcensor
 2 Winds of Abandon
 3 Choke
+1 Searing Blood
+2 Searing Blood
+2 Shrine of Burning Rage
+3 Searing Blood
 1 On Thin Ice
 1 Burrenton Forge-Tender
 1 Deafening Silence
@@ -140,22 +143,19 @@
 2 On Thin Ice
 2 Authority of the Consuls
 3 On Thin Ice
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-3 Bonecrusher Giant
 1 Vapor Snag
 2 Vapor Snag
 3 Vapor Snag
-1 Great Sable Stag
 1 Alpine Moon
+1 Great Sable Stag
 1 Feed the Clan
 2 Engineered Explosives
-2 Great Sable Stag
 2 Alpine Moon
+2 Great Sable Stag
 2 Feed the Clan
 3 Great Sable Stag
-1 Plague Engineer
 1 Flusterstorm
+1 Plague Engineer
 1 Narset, Parter of Veils
 1 Kalitas, Traitor of Ghet
 2 Plague Engineer

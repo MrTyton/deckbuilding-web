@@ -38,9 +38,9 @@
 3 Fight as One
 1 Voracious Greatshark
 1 Cunning Nightbonder
+1 Grafdigger's Cage
 1 Cry of the Carnarium
 1 Sublime Epiphany
-1 Grafdigger's Cage
 1 Threnody Singer
 1 Narset's Reversal
 2 Cunning Nightbonder
@@ -53,8 +53,8 @@
 2 Tormod's Crypt
 1 Essence Scatter
 1 Nissa, Who Shakes the World
-1 Whirlwind Denial
 1 Wilt
+1 Whirlwind Denial
 1 Shark Typhoon
 2 Essence Scatter
 2 Voracious Greatshark
@@ -70,19 +70,12 @@
 2 Scorching Dragonfire
 2 Shock
 3 Scorching Dragonfire
-1 March of the Multitudes
-1 Jegantha, the Wellspring
-1 Ram Through
-2 March of the Multitudes
-2 Ram Through
-3 March of the Multitudes
-3 Ram Through
 2 Heartless Act
 1 Leyline of the Void
-1 Bolas's Citadel
-1 Cavalier of Night
 1 Lurrus of the Dream Den
+1 Bolas's Citadel
 1 Blacklance Paragon
+1 Cavalier of Night
 1 Vampire of the Dire Moon
 2 Bolas's Citadel
 2 Blacklance Paragon
@@ -100,8 +93,8 @@
 3 Devout Decree
 3 Drannith Magistrate
 1 Shadowspear
-2 Shadowspear
 2 Sorcerous Spyglass
+2 Shadowspear
 3 Shadowspear
 1 Robber of the Rich
 1 Deafening Clarion
@@ -109,9 +102,42 @@
 2 Robber of the Rich
 3 Robber of the Rich
 3 Fry
+1 March of the Multitudes
+1 Jegantha, the Wellspring
+1 Ram Through
+2 March of the Multitudes
+2 Ram Through
+3 March of the Multitudes
+3 Ram Through
+1 Heliod's Intervention
+3 Gideon Blackblade
+4 Gideon Blackblade
+1 Scavenging Ooze
+1 Return to Nature
+1 Shatter the Sky
+2 Shatter the Sky
+2 Scavenging Ooze
+2 Return to Nature
+3 Return to Nature
+4 Shifting Ceratops
+4 Return to Nature
+1 Necromentia
+1 Mystic Subdual
+2 Mystic Subdual
+2 Necromentia
+4 Soul-Guide Lantern
 1 Agonizing Remorse
 2 Agonizing Remorse
 3 Agonizing Remorse
+1 Dead Weight
+2 Leyline of the Void
+2 Dead Weight
+3 Heartless Act
+3 Dead Weight
+3 Leyline of the Void
+4 Agonizing Remorse
+4 Heartless Act
+4 Leyline of the Void
 1 Extinction Event
 1 Legion's End
 1 Massacre Girl
@@ -121,27 +147,6 @@
 2 Massacre Girl
 2 Status/Statue
 4 Duress
-1 Heliod's Intervention
-3 Gideon Blackblade
-4 Gideon Blackblade
-1 Dead Weight
-2 Leyline of the Void
-2 Dead Weight
-3 Heartless Act
-3 Dead Weight
-3 Leyline of the Void
-4 Heartless Act
-4 Agonizing Remorse
-4 Leyline of the Void
-1 Return to Nature
-1 Scavenging Ooze
-1 Shatter the Sky
-2 Return to Nature
-2 Shatter the Sky
-2 Scavenging Ooze
-3 Return to Nature
-4 Return to Nature
-4 Shifting Ceratops
 1 Ionize
 1 Opportunistic Dragon
 1 Risk Factor
@@ -154,8 +159,3 @@
 3 Opportunistic Dragon
 4 Legion Warboss
 4 Risk Factor
-1 Necromentia
-1 Mystic Subdual
-2 Mystic Subdual
-2 Necromentia
-4 Soul-Guide Lantern
