@@ -136,8 +136,8 @@
 1 Hinterland Harbor
 1 Murderous Rider
 1 Jace, Vryn's Prodigy
-1 Heartless Act
 1 Tireless Tracker
+1 Heartless Act
 1 Nissa, Who Shakes the World
 1 Eat to Extinction
 1 Zagoth Triome
@@ -150,11 +150,11 @@
 2 Uro, Titan of Nature's Wrath
 2 Jace, Vryn's Prodigy
 2 Murderous Rider
-3 Jace, Vryn's Prodigy
 3 Satyr Wayfinder
 3 Breeding Pool
 3 Traverse the Ulvenwald
 3 Uro, Titan of Nature's Wrath
+3 Jace, Vryn's Prodigy
 4 Satyr Wayfinder
 4 Uro, Titan of Nature's Wrath
 1 Duskwatch Recruiter
@@ -188,8 +188,8 @@
 1 Gruul Spellbreaker
 1 Hashep Oasis
 1 Zhur-Taa Goblin
-1 Dryad Militant
 1 Burning-Tree Emissary
+1 Dryad Militant
 1 Bonecrusher Giant
 1 Hazoret the Fervent
 1 Questing Beast
@@ -216,38 +216,38 @@
 3 Voltaic Brawler
 4 Ghor-Clan Rampager
 4 Gruul Spellbreaker
-4 Burning-Tree Emissary
 4 Bonecrusher Giant
+4 Burning-Tree Emissary
 4 Voltaic Brawler
+1 Kroxa, Titan of Death's Hunger
 1 Deathrite Shaman
 1 Chevill, Bane of Monsters
 1 Grim Flayer
-1 Kroxa, Titan of Death's Hunger
 1 Blood Crypt
 1 Dreadbore
 1 Kolaghan's Command
 1 Dead Weight
 1 Unbridled Growth
 2 Kroxa, Titan of Death's Hunger
+2 Grim Flayer
 2 Deathrite Shaman
 2 Blood Crypt
 2 Dreadbore
+2 Kolaghan's Command
 2 Chevill, Bane of Monsters
 2 Dead Weight
-2 Kolaghan's Command
 2 Unbridled Growth
-2 Grim Flayer
 3 Kroxa, Titan of Death's Hunger
+3 Grim Flayer
 3 Deathrite Shaman
 3 Blood Crypt
 3 Chevill, Bane of Monsters
 3 Unbridled Growth
-3 Grim Flayer
+4 Grim Flayer
 4 Blood Crypt
 4 Deathrite Shaman
 4 Unbridled Growth
 4 Chevill, Bane of Monsters
-4 Grim Flayer
 3 Inspiring Vantage
 1 Springleaf Drum
 1 Alseid of Life's Bounty
@@ -260,8 +260,8 @@
 2 Sram, Senior Edificer
 2 Ethereal Armor
 3 Springleaf Drum
-3 Alseid of Life's Bounty
 3 Curious Obsession
+3 Alseid of Life's Bounty
 3 Sram, Senior Edificer
 3 Ethereal Armor
 4 Curious Obsession
@@ -311,9 +311,9 @@
 3 Godless Shrine
 3 Concealed Courtyard
 3 Caves of Koilos
-3 Heart of Kiran
 3 Pack Rat
 3 Heliod, Sun-Crowned
+3 Heart of Kiran
 3 Knight of the Ebon Legion
 4 Karn, Scion of Urza
 4 Concealed Courtyard
@@ -334,61 +334,61 @@
 2 Witch's Oven
 2 Cauldron Familiar
 2 Choked Estuary
-3 Choked Estuary
 3 Watery Grave
 3 Cauldron Familiar
+3 Choked Estuary
 3 Witch's Oven
 4 Watery Grave
 4 Witch's Oven
 4 Cauldron Familiar
 4 Choked Estuary
-1 Boros Charm
 1 Monastery Swiftspear
 1 Soul-Scar Mage
-1 Dreadhorde Arcanist
 1 Titan's Strength
+1 Dreadhorde Arcanist
+1 Gods Willing
+1 Defiant Strike
+1 Tenth District Legionnaire
 1 Reckless Rage
 1 Clifftop Retreat
 1 Favored Hoplite
-1 Tenth District Legionnaire
 1 Battlefield Forge
-1 Defiant Strike
 1 Gird for Battle
 1 Gryff's Boon
-1 Gods Willing
+1 Boros Charm
 2 Battlefield Forge
+2 Titan's Strength
 2 Soul-Scar Mage
 2 Dreadhorde Arcanist
 2 Monastery Swiftspear
-2 Titan's Strength
+2 Defiant Strike
+2 Gods Willing
+2 Tenth District Legionnaire
 2 Reckless Rage
 2 Gird for Battle
 2 Gryff's Boon
-2 Tenth District Legionnaire
-2 Gods Willing
 2 Favored Hoplite
-2 Defiant Strike
 3 Battlefield Forge
 3 Sacred Foundry
 3 Soul-Scar Mage
 3 Monastery Swiftspear
 3 Dreadhorde Arcanist
+3 Gods Willing
+3 Tenth District Legionnaire
+3 Defiant Strike
 3 Reckless Rage
 3 Titan's Strength
 3 Favored Hoplite
-3 Defiant Strike
 3 Gird for Battle
-3 Tenth District Legionnaire
 3 Plains
-3 Gods Willing
 4 Gird for Battle
 4 Inspiring Vantage
 4 Battlefield Forge
 4 Sacred Foundry
 4 Soul-Scar Mage
 4 Monastery Swiftspear
+4 Tenth District Legionnaire
+4 Defiant Strike
 4 Reckless Rage
 4 Titan's Strength
-4 Defiant Strike
-4 Tenth District Legionnaire
 4 Favored Hoplite

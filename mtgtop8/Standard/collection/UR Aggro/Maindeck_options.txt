@@ -1,13 +1,13 @@
-1 Crash Through
 1 Frantic Inventory
 1 Beacon Bolt
 1 Scorching Dragonfire
-2 Crash Through
+1 Crash Through
 2 Frantic Inventory
 2 Scorching Dragonfire
-3 Crash Through
+2 Crash Through
 3 Frantic Inventory
 3 Scorching Dragonfire
+3 Crash Through
 4 Crash Through
 4 Frantic Inventory
 1 Fire Prophecy
@@ -24,8 +24,8 @@
 1 The Royal Scions
 2 Radical Idea
 3 Radical Idea
-1 Irencrag Pyromancer
 1 Negate
+1 Irencrag Pyromancer
 2 Negate
 1 Blitz of the Thunder-Raptor
 1 Cathartic Reunion
@@ -40,31 +40,19 @@
 2 Fabled Passage
 1 Sea-Dasher Octopus
 3 Temple of Epiphany
+1 Winged Words
+1 Essence Scatter
+1 Expansion / Explosion
+2 Raking Claws
+2 Winged Words
+2 Essence Scatter
+3 Winged Words
 1 Unsummon
 1 Chandra, Awakened Inferno
 2 Unsummon
 3 Unsummon
-1 Winged Words
-1 Essence Scatter
-1 Expansion / Explosion
-2 Winged Words
-2 Raking Claws
-2 Essence Scatter
-3 Winged Words
-1 Lava Coil
-1 Arclight Phoenix
-1 Maximize Velocity
-1 Finale of Promise
-1 Goblin Electromancer
-2 Arclight Phoenix
-2 Maximize Velocity
-2 The Royal Scions
-2 Goblin Electromancer
-3 Arclight Phoenix
-3 Goblin Electromancer
-4 Arclight Phoenix
-1 Merchant of the Vale
 1 Nadir Kraken
+1 Merchant of the Vale
 1 Reconnaissance Mission
 1 Go for Blood
 1 Omen of the Sea
@@ -80,13 +68,13 @@
 1 See the Truth
 1 Dreadhorde Arcanist
 1 Samut's Sprint
-1 Stonecoil Serpent
 1 Infuriate
+1 Stonecoil Serpent
 2 Light Up the Stage
 2 See the Truth
 2 Samut's Sprint
-2 Stonecoil Serpent
 2 Infuriate
+2 Stonecoil Serpent
 2 Dreadhorde Arcanist
 3 Stonecoil Serpent
 3 See the Truth
@@ -128,3 +116,15 @@
 4 Spectral Sailor
 4 Ionize
 4 Brazen Borrower
+1 Lava Coil
+1 Maximize Velocity
+1 Arclight Phoenix
+1 Finale of Promise
+1 Goblin Electromancer
+2 Arclight Phoenix
+2 Maximize Velocity
+2 The Royal Scions
+2 Goblin Electromancer
+3 Goblin Electromancer
+3 Arclight Phoenix
+4 Arclight Phoenix

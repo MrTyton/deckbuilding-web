@@ -53,8 +53,8 @@
 |                    4|[Cartouche of Solidarity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426709)|                    2|[Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191083)            |
 |                    4|[Gladecover Scout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220082)       |                    2|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)  |
 |                    4|[Sunpetal Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420946)         |                    3|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)|
-|                    4|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)          |                    3|[Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191083)            |
-|                     |                                                                                                  |                    3|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)  |
+|                    4|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)          |                    3|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)  |
+|                     |                                                                                                  |                    3|[Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191083)            |
 |                     |                                                                                                  |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
 |                     |                                                                                                  |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
 

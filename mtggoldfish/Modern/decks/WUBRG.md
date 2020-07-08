@@ -38,8 +38,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    4|[Unsettled Mariner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464165)    |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
-|                    2|[Flickerwisp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376338)          |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)    |
+|                    4|[Unsettled Mariner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464165)    |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)    |
+|                    2|[Flickerwisp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376338)          |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
 |                    3|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)  |                    1|[Shriekmaw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220572)          |
 |                    4|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)  |                    2|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
 |                    4|[Primal Beyond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153464)        |                    2|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)    |

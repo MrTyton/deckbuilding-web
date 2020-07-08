@@ -25,8 +25,8 @@
 1 Cavalier of Flame
 2 Mystical Dispute
 3 Mystical Dispute
-1 Nightpack Ambusher
 1 Bonecrusher Giant
+1 Nightpack Ambusher
 2 Bonecrusher Giant
 2 Nightpack Ambusher
 3 Brazen Borrower
@@ -80,30 +80,30 @@
 1 Cavalier of Gales
 2 Cavalier of Gales
 1 Omen of the Sea
-1 Omen of the Forge
 1 Kogla, the Titan Ape
+1 Omen of the Forge
 2 Omen of the Sea
 2 Omen of the Forge
 3 Omen of the Sea
 3 Omen of the Forge
 1 Chandra, Awakened Inferno
 1 Thassa's Oracle
-3 Scampering Scorcher
 3 Mythos of Illuna
-1 Cultivate
-2 Cultivate
-3 Cultivate
-4 Cultivate
-4 Forest
+3 Scampering Scorcher
+1 Solemn Simulacrum
+2 Solemn Simulacrum
+3 Solemn Simulacrum
+4 Solemn Simulacrum
 1 Finale of Devastation
 2 End-Raze Forerunners
 2 Finale of Devastation
 3 Finale of Devastation
 4 Nissa, Who Shakes the World
-1 Solemn Simulacrum
-2 Solemn Simulacrum
-3 Solemn Simulacrum
-4 Solemn Simulacrum
+1 Cultivate
+2 Cultivate
+3 Cultivate
+4 Forest
+4 Cultivate
 1 Terror of the Peaks
 1 Yorion, Sky Nomad
 2 Terror of the Peaks
@@ -131,9 +131,9 @@
 6 Island
 7 Island
 1 Neutralize
-1 Opt
-1 Gadwick, the Wizened
 1 Ionize
+1 Gadwick, the Wizened
+1 Opt
 2 Opt
 2 Ionize
 2 Negate
