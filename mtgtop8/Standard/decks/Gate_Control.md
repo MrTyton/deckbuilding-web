@@ -34,10 +34,10 @@
 |--------------------:|--------------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    4|[Plaza of Harmony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457398)       |                     |              |
 |                    1|[Drown in the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473150)      |                     |              |
+|                    1|[Ashiok, Nightmare Muse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476459) |                     |              |
 |                    1|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                    |                     |              |
 |                    1|Vivien, Monsters' Advocate                                                                        |                     |              |
 |                    1|[Cry of the Carnarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457214)   |                     |              |
-|                    1|[Ashiok, Nightmare Muse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476459) |                     |              |
 |                    1|[Dimir Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376306)        |                     |              |
 |                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                 |                     |              |
 |                    1|[Orzhov Guildgate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376443)       |                     |              |

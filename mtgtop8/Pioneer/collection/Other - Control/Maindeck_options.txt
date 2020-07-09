@@ -33,8 +33,8 @@
 1 Azorius Charm
 2 Irrigated Farmland
 2 Azorius Charm
-3 Irrigated Farmland
 3 Sulfur Falls
+3 Irrigated Farmland
 3 Azorius Charm
 3 Hallowed Fountain
 4 Hallowed Fountain
@@ -134,28 +134,28 @@
 2 Shark Typhoon
 3 Shark Typhoon
 3 Island
-1 Hieroglyphic Illumination
 1 Cast Out
 1 Nimble Obstructionist
 1 Zenith Flare
+1 Hieroglyphic Illumination
 1 Flourishing Fox
-2 Zenith Flare
-2 Hieroglyphic Illumination
-2 Flourishing Fox
 2 Cast Out
 2 Nimble Obstructionist
-3 Flourishing Fox
-3 Zenith Flare
+2 Flourishing Fox
+2 Hieroglyphic Illumination
+2 Zenith Flare
 3 Hieroglyphic Illumination
 3 Neutralize
 3 Cast Out
-4 Sulfur Falls
-4 Cast Out
-4 Zenith Flare
-4 Flourishing Fox
+3 Zenith Flare
+3 Flourishing Fox
 4 Hieroglyphic Illumination
 4 Shark Typhoon
 4 Neutralize
+4 Flourishing Fox
+4 Zenith Flare
+4 Cast Out
+4 Sulfur Falls
 1 Opt
 2 Opt
 1 Dragonskull Summit
@@ -177,9 +177,9 @@
 2 Watery Grave
 2 Drowned Catacomb
 3 Opt
+3 Dreadbore
 3 Blood Crypt
 3 Dragonskull Summit
-3 Dreadbore
 3 Nicol Bolas, the Ravager
 3 Nicol Bolas, Dragon-God
 3 Tyrant's Scorn
@@ -196,6 +196,7 @@
 4 Fatal Push
 4 Watery Grave
 1 Dig Through Time
+1 Teferi, Master of Time
 1 Sinister Sabotage
 1 Hinterland Harbor
 1 Torrential Gearhulk
@@ -208,13 +209,13 @@
 1 Uro, Titan of Nature's Wrath
 1 Forest
 1 Breeding Pool
-1 Teferi, Master of Time
 2 Dig Through Time
 2 Breeding Pool
+2 Teferi, Master of Time
 2 Sinister Sabotage
+2 Temple of Mystery
 2 Torrential Gearhulk
 2 Growth Spiral
-2 Temple of Mystery
 2 Hinterland Harbor
 2 Sublime Epiphany
 2 Wilderness Reclamation
@@ -222,7 +223,6 @@
 2 Brazen Borrower
 2 Lumbering Falls
 2 Blast Zone
-2 Teferi, Master of Time
 2 Forest
 2 Uro, Titan of Nature's Wrath
 3 Breeding Pool

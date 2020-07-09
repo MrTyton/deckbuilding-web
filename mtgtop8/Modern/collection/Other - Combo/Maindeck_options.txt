@@ -1,23 +1,23 @@
-1 Manamorphose
-2 Steam Vents
-2 Grapeshot
-2 Manamorphose
-1 Tolaria West
-1 Izzet Charm
-1 Watery Grave
-2 Watery Grave
-1 Wishclaw Talisman
-1 Snow-Covered Island
-2 Wishclaw Talisman
-2 Snow-Covered Island
-3 Wishclaw Talisman
 3 Snow-Covered Island
+2 Polluted Delta
+1 Izzet Charm
+1 Merchant Scroll
+1 Sylvan Scrying
+2 Island
+2 Sylvan Scrying
+2 Merchant Scroll
+3 Sleight of Hand
+3 Polluted Delta
+3 Island
+4 Sleight of Hand
+4 Island
 1 Forest
 1 Pentad Prism
 1 Mishra's Bauble
-1 Mana Confluence
 1 Song of Creation
 1 Stomping Ground
+1 Memnite
+1 Mana Confluence
 1 Engineered Explosives
 1 Pact of Negation
 1 Noxious Revival
@@ -25,44 +25,44 @@
 1 Mountain
 1 Scalding Tarn
 1 Laboratory Maniac
+1 Simian Spirit Guide
 1 Commune with the Gods
 1 Wooded Foothills
 1 Misty Rainforest
-1 Memnite
-1 Simian Spirit Guide
 1 Shimmer of Possibility
 2 Pentad Prism
 2 Mishra's Bauble
-2 Mana Confluence
 2 Song of Creation
 2 Noxious Revival
 2 Stomping Ground
+2 Mana Confluence
+2 Memnite
 2 Engineered Explosives
 2 Wild Cantor
 2 Shimmer of Possibility
 2 Simian Spirit Guide
-2 Memnite
 2 Pact of Negation
 3 Engineered Explosives
 3 Mishra's Bauble
-3 Mana Confluence
 3 Steam Vents
+3 Mana Confluence
 3 Song of Creation
 3 Shimmer of Possibility
-3 Pentad Prism
 3 Manamorphose
 3 Noxious Revival
+3 Pentad Prism
 3 Pact of Negation
 3 Wild Cantor
 3 Simian Spirit Guide
 4 Engineered Explosives
+4 Mana Confluence
 4 Song of Creation
 4 Pentad Prism
 4 Shimmer of Possibility
 4 Manamorphose
-4 Mana Confluence
 4 Simian Spirit Guide
 4 Wild Cantor
+1 River of Tears
 1 Darkslick Shores
 1 Opt
 1 Inquisition of Kozilek
@@ -75,7 +75,6 @@
 1 Fatal Push
 1 Swamp
 1 Inverter of Truth
-1 River of Tears
 1 Eldrazi Temple
 1 Jace, Wielder of Mysteries
 1 Shelldock Isle
@@ -84,10 +83,10 @@
 2 Opt
 2 Omen of the Sea
 2 Remand
+2 River of Tears
 2 Shelldock Isle
 2 Thoughtseize
 2 Relic of Progenitus
-2 River of Tears
 2 Jace, Wielder of Mysteries
 2 Thassa's Oracle
 2 Inverter of Truth
@@ -102,12 +101,12 @@
 3 Watery Grave
 3 Relic of Progenitus
 3 Thoughtseize
-3 Eldrazi Temple
 3 Jace, Wielder of Mysteries
 3 Thassa's Oracle
 3 Fatal Push
 3 Inverter of Truth
 3 Drowned Catacomb
+3 Eldrazi Temple
 4 Thassa's Oracle
 4 Jace, Wielder of Mysteries
 4 Opt
@@ -122,9 +121,10 @@
 1 Temple Garden
 1 Stoneforge Mystic
 1 Llanowar Elves
+1 Horizon Canopy
 1 Elvish Archdruid
-1 Ezuri, Renegade Leader
 1 Heritage Druid
+1 Ezuri, Renegade Leader
 1 Elvish Mystic
 1 Selfless Spirit
 1 Leyline of Abundance
@@ -134,17 +134,16 @@
 1 Devoted Druid
 1 Collected Company
 1 Marwyn, the Nurturer
-1 Horizon Canopy
 1 Beastcaller Savant
 2 Windswept Heath
-2 Elvish Mystic
-2 Elvish Archdruid
-2 Ezuri, Renegade Leader
-2 Forest
 2 Llanowar Elves
+2 Forest
+2 Elvish Archdruid
+2 Elvish Mystic
 2 Heritage Druid
 2 Leyline of Abundance
 2 Marwyn, the Nurturer
+2 Ezuri, Renegade Leader
 2 Devoted Druid
 2 Temple Garden
 2 Umbral Mantle
@@ -153,9 +152,9 @@
 2 Beastcaller Savant
 2 Horizon Canopy
 3 Windswept Heath
-3 Elvish Archdruid
-3 Elvish Mystic
 3 Llanowar Elves
+3 Elvish Mystic
+3 Elvish Archdruid
 3 Collected Company
 3 Devoted Druid
 3 Beastcaller Savant
@@ -166,9 +165,9 @@
 3 Razorverge Thicket
 3 Ezuri, Renegade Leader
 4 Windswept Heath
+4 Llanowar Elves
 4 Elvish Archdruid
 4 Elvish Mystic
-4 Llanowar Elves
 4 Collected Company
 4 Leyline of Abundance
 4 Razorverge Thicket

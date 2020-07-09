@@ -1,19 +1,13 @@
-1 Dovin's Veto
-1 Unmoored Ego
-1 Yorion, Sky Nomad
-2 Unmoored Ego
-2 Dovin's Veto
-1 Settle the Wreckage
-2 Settle the Wreckage
-1 Trial of Ambition
-1 Command the Dreadhorde
-2 Trial of Ambition
-3 Dovin's Veto
-4 Dovin's Veto
-1 Soul-Guide Lantern
-2 Soul-Guide Lantern
+3 Fatal Push
+4 Fatal Push
 1 Mystical Dispute
 2 Mystical Dispute
+1 Yorion, Sky Nomad
+1 Dovin's Veto
+1 Unmoored Ego
+2 Unmoored Ego
+2 Dovin's Veto
+3 Mystical Dispute
 1 Duress
 1 Lurrus of the Dream-Den
 1 Noxious Grasp
@@ -27,14 +21,13 @@
 2 Kolaghan's Command
 2 Dreadbore
 2 Pharika's Libation
-1 Pack Rat
-1 Necromentia
-1 Angrath's Rampage
-2 Pack Rat
-2 Angrath's Rampage
-2 Necromentia
-3 Pack Rat
-3 Mystical Dispute
+1 Settle the Wreckage
+2 Settle the Wreckage
+1 Trial of Ambition
+1 Command the Dreadhorde
+2 Trial of Ambition
+3 Dovin's Veto
+4 Dovin's Veto
 1 Ashiok, Dream Render
 1 Ashiok's Erasure
 1 Davriel, Rogue Shadowmage
@@ -43,20 +36,43 @@
 1 Reclamation Sage
 2 Reclamation Sage
 1 Jace's Defeat
-1 Blessed Alliance
-2 Blessed Alliance
 1 Aether Gust
 1 Nightpack Ambusher
 2 Nightpack Ambusher
 2 Aether Gust
+1 Scavenging Ooze
+1 Blessed Alliance
+2 Blessed Alliance
+1 Gideon of the Trials
+2 Gideon of the Trials
+1 Rest in Peace
+2 Rest in Peace
+3 Rest in Peace
+1 Glare of Heresy
+1 Agonizing Remorse
+1 Heartless Act
+2 Heartless Act
+1 Elspeth Conquers Death
+2 Elspeth Conquers Death
+1 Walking Ballista
+1 Leyline of Sanctity
+1 Sorcerous Spyglass
+1 Stonecoil Serpent
+1 Crystalline Giant
+1 Godsend
+1 Perilous Vault
 1 Noxious Gearhulk
 1 Tormod's Crypt
 2 Tormod's Crypt
-1 Gideon of the Trials
-2 Gideon of the Trials
-3 Gideon of the Trials
-1 Fry
-2 Fry
+1 Kaya, Orzhov Usurper
+1 Kalitas, Traitor of Ghet
+1 Anguished Unmaking
+1 Kunoros, Hound of Athreos
+1 Devout Decree
+1 Arguel's Blood Fast
+1 The Elderspell
+2 Agonizing Remorse
+2 Kalitas, Traitor of Ghet
 1 Metallic Rebuke
 1 Fountain of Renewal
 1 Stubborn Denial
@@ -64,55 +80,53 @@
 2 Metallic Rebuke
 2 Fountain of Renewal
 1 Dream Trawler
-1 Glare of Heresy
 1 Zirda, the Dawnwaker
 2 Glare of Heresy
 2 Dream Trawler
-1 Agonizing Remorse
 1 Back to Nature
-1 Heartless Act
 1 Blightbeetle
 1 Infinite Obliteration
 2 Infinite Obliteration
-2 Heartless Act
 2 Blightbeetle
-1 Rest in Peace
-2 Rest in Peace
-1 Isolate
-1 Wear/Tear
-1 Feather, the Redeemed
-1 Ordeal of Heliod
-1 Erase
-2 Isolate
-2 Erase
-2 Ordeal of Heliod
+1 Tireless Tracker
+1 Glass Casket
+1 Questing Beast
+1 Gonti, Lord of Luxury
+1 Knight of Autumn
+1 Mythos of Nethroi
+2 Gonti, Lord of Luxury
+2 Mythos of Nethroi
 1 Thrashing Brontodon
 1 Savage Summoning
 2 Savage Summoning
-1 Baffling End
-1 Forsake the Worldly
-2 Baffling End
-2 Forsake the Worldly
-3 Baffling End
+1 Tomik, Distinguished Advokist
+1 Deicide
+1 Ixalan's Binding
+2 Tomik, Distinguished Advokist
+2 Deicide
 1 Driven/Despair
 1 Distended Mindbender
 2 Distended Mindbender
 2 Driven/Despair
 3 Assassin's Trophy
+1 Fry
+2 Fry
+1 Baffling End
+1 Forsake the Worldly
+2 Baffling End
+2 Forsake the Worldly
+3 Baffling End
+3 Gideon of the Trials
 3 Unmoored Ego
-1 Elspeth Conquers Death
-1 Walking Ballista
-1 Sorcerous Spyglass
-1 Leyline of Sanctity
-1 Stonecoil Serpent
-1 Crystalline Giant
-1 Godsend
-1 Perilous Vault
-2 Elspeth Conquers Death
-3 Rest in Peace
-1 Scavenging Ooze
-1 Wilt
+1 Pack Rat
+1 Necromentia
+1 Angrath's Rampage
+2 Pack Rat
+2 Angrath's Rampage
+2 Necromentia
+3 Pack Rat
 1 Jolrael, Mwonvuli Recluse
+1 Wilt
 2 Scavenging Ooze
 2 Jolrael, Mwonvuli Recluse
 2 Wilt
@@ -129,20 +143,29 @@
 3 Searing Blood
 4 Searing Blood
 1 Goblin Chainwhirler
+2 Goblin Chainwhirler
+3 Goblin Chainwhirler
 1 Kari Zev's Expertise
 1 Hazoret the Fervent
 1 Alpine Moon
-2 Goblin Chainwhirler
 2 Kari Zev's Expertise
 2 Alpine Moon
-3 Goblin Chainwhirler
 3 Rampaging Ferocidon
 4 Goblin Chainwhirler
 4 Rampaging Ferocidon
+1 Mizzium Mortars
+1 Anger of the Gods
+1 Chandra, Awakened Inferno
+2 Mizzium Mortars
+2 Anger of the Gods
+2 Chandra, Awakened Inferno
+3 Anger of the Gods
+3 Mizzium Mortars
+4 Mizzium Mortars
 1 Seal Away
 1 Gideon's Intervention
-2 Seal Away
 2 Gideon's Intervention
+2 Seal Away
 3 Soul-Guide Lantern
 3 Gideon's Intervention
 3 Seal Away
