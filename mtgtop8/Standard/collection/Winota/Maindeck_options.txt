@@ -94,23 +94,23 @@
 8 Mountain
 8 Plains
 1 Selfless Savior
-1 Alpine Houndmaster
 1 Seasoned Hallowblade
+1 Alpine Houndmaster
 1 Alpine Watchdog
 1 Igneous Cur
 1 Gingerbrute
 2 Selfless Savior
+2 Seasoned Hallowblade
 2 Igneous Cur
 2 Alpine Watchdog
 2 Alpine Houndmaster
-2 Seasoned Hallowblade
 2 Gingerbrute
 3 Selfless Savior
-3 Alpine Houndmaster
 3 Seasoned Hallowblade
+3 Alpine Houndmaster
 3 Gingerbrute
-4 Alpine Houndmaster
 4 Seasoned Hallowblade
+4 Alpine Houndmaster
 4 Selfless Savior
 4 Temple of Triumph
 4 Gingerbrute
@@ -159,6 +159,9 @@
 2 Scoured Barrens
 2 Inspiring Captain
 3 Fervent Champion
+1 Elite Guardmage
+2 Elite Guardmage
+3 Elite Guardmage
 1 Robber of the Rich
 1 Blightbeetle
 1 Basri's Lieutenant
@@ -172,9 +175,6 @@
 3 Robber of the Rich
 1 Spark Double
 3 Alirios, Enraptured
-1 Elite Guardmage
-2 Elite Guardmage
-3 Elite Guardmage
 1 Sorin, Vengeful Bloodlord
 1 Hushbringer
 2 Sorin, Vengeful Bloodlord
@@ -184,8 +184,8 @@
 1 Incubation / Incongruity
 2 Incubation / Incongruity
 2 Temple of Enlightenment
-3 Incubation / Incongruity
 3 Fblthp, the Lost
+3 Incubation / Incongruity
 4 Incubation / Incongruity
 1 Spectral Sailor
 2 Spectral Sailor

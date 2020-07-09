@@ -5,6 +5,8 @@
 2 Abundant Growth
 3 Abundant Growth
 4 Uro, Titan of Nature's Wrath
+2 Snow-Covered Plains
+1 Dovin's Veto
 3 Mystic Sanctuary
 3 Teferi, Time Raveler
 1 Ketria Triome
@@ -16,21 +18,19 @@
 1 Steam Vents
 1 Shark Typhoon
 2 Scalding Tarn
-1 Dovin's Veto
-2 Snow-Covered Plains
 1 Spell Snare
 6 Snow-Covered Island
 1 Prismatic Vista
 2 Prismatic Vista
 1 Snow-Covered Mountain
-1 Polluted Delta
-2 Polluted Delta
 1 Deprive
 1 Lightning Helix
 2 Lightning Helix
 2 Ketria Triome
 3 Lightning Helix
 3 Wrenn and Six
+1 Polluted Delta
+2 Polluted Delta
 1 Metallic Rebuke
 1 Emry, Lurker of the Loch
 1 Gilded Goose
@@ -46,38 +46,39 @@
 3 Gilded Goose
 3 Mishra's Bauble
 3 Metallic Rebuke
+4 Emry, Lurker of the Loch
 4 Urza, Lord High Artificer
 4 Gilded Goose
-4 Emry, Lurker of the Loch
 4 Mishra's Bauble
 1 Jolrael, Mwonvuli Recluse
 2 Shark Typhoon
 3 Lightning Bolt
 3 Mana Leak
-3 Polluted Delta
+1 Timely Reinforcements
 1 Glacial Fortress
 1 Time Warp
+1 Hour of Promise
 1 Hinterland Harbor
 1 Remand
 1 Field of the Dead
 1 Island
 1 Prairie Stream
-1 Hour of Promise
 2 Remand
 2 Hour of Promise
 2 Field of the Dead
 3 Shark Typhoon
 3 Field of the Dead
 4 Shark Typhoon
-1 Thraben Inspector
 1 Ephemerate
 1 Springleaf Drum
+1 Thraben Inspector
 2 Ephemerate
 2 Hallowed Fountain
 2 Springleaf Drum
 2 Thraben Inspector
 3 Springleaf Drum
 3 Ephemerate
+3 Polluted Delta
 3 Thraben Inspector
 4 Springleaf Drum
 4 Cryptic Command
@@ -87,15 +88,15 @@
 3 Prismatic Vista
 4 Prismatic Vista
 1 Teferi, Master of Time
-1 Timely Reinforcements
+1 Ashiok, Dream Render
 2 Jolrael, Mwonvuli Recluse
 1 Brazen Borrower
 1 Stoneforge Mystic
 1 Batterskull
 1 Noble Hierarch
 1 Spell Queller
-1 Sword of Fire and Ice
 1 Botanical Sanctum
+1 Sword of Fire and Ice
 2 Brazen Borrower
 2 Stoneforge Mystic
 2 Noble Hierarch
@@ -117,21 +118,11 @@
 2 Galvanic Blast
 3 Scalding Tarn
 4 Scalding Tarn
-1 Growth Spiral
-2 Growth Spiral
-3 Growth Spiral
-1 Elspeth Conquers Death
 1 Winds of Abandon
+1 Elspeth Conquers Death
 2 Elspeth Conquers Death
 4 Abundant Growth
 7 Snow-Covered Island
-1 Snow-Covered Swamp
-1 Watery Grave
-1 Fatal Push
-1 Dead of Winter
-1 Kaya, Orzhov Usurper
-1 Kaya's Guile
-2 Fatal Push
-2 Dead of Winter
-2 Kaya's Guile
-1 Ashiok, Dream Render
+1 Growth Spiral
+2 Growth Spiral
+3 Growth Spiral

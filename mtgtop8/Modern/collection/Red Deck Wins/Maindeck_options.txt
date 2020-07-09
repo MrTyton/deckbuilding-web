@@ -1,6 +1,8 @@
 3 Lightning Helix
 4 Lightning Helix
 3 Wooded Foothills
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
 4 Mountain
 2 Fiery Islet
 1 Soul-Scar Mage
@@ -21,8 +23,8 @@
 2 Manamorphose
 2 Crash Through
 2 Bedlam Reveler
-3 Bedlam Reveler
 3 Manamorphose
+3 Bedlam Reveler
 3 Crash Through
 4 Manamorphose
 4 Crash Through
@@ -45,10 +47,9 @@
 13 Mountain
 14 Mountain
 1 Scalding Tarn
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
 3 Bloodstained Mire
 2 Seal of Fire
+3 Snow-Covered Mountain
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
@@ -72,7 +73,6 @@
 4 Bloodstained Mire
 1 Mutagenic Growth
 2 Mutagenic Growth
-3 Snow-Covered Mountain
 2 Stomping Ground
 3 Copperline Gorge
 1 Runaway Steam-Kin

@@ -1,57 +1,18 @@
 1 Lava Dart
-1 Scalding Tarn
-2 Scalding Tarn
 1 Snow-Covered Mountain
 1 Snow-Covered Swamp
+1 Scalding Tarn
+2 Scalding Tarn
 2 Lava Dart
 2 Snow-Covered Mountain
 1 Marsh Flats
 3 Inquisition of Kozilek
 4 Inquisition of Kozilek
-1 Unearth
-1 Polluted Delta
-2 Polluted Delta
-3 Polluted Delta
-3 Scalding Tarn
-1 Watery Grave
-1 Island
-2 Watery Grave
-4 Polluted Delta
-1 Mana Leak
-1 Drown in the Loch
-1 Serum Visions
-1 Steam Vents
-1 Snapcaster Mage
-2 Mana Leak
-2 Steam Vents
-2 Serum Visions
-1 Darkslick Shores
-2 Darkslick Shores
-1 Sprite Dragon
-1 Spirebluff Canal
-2 Sprite Dragon
-3 Sprite Dragon
-3 Darkslick Shores
-4 Sprite Dragon
-1 Force of Negation
-1 Delver of Secrets
-1 Spell Snare
-2 Delver of Secrets
-2 Snapcaster Mage
-3 Delver of Secrets
-4 Delver of Secrets
-4 Scalding Tarn
-3 Serum Visions
-2 Unearth
 2 Wooded Foothills
+1 Unearth
 1 Kiln Fiend
-2 Force of Negation
-1 Opt
-1 Archmage's Charm
-2 Opt
-3 Opt
-4 Opt
 4 Seal of Fire
+2 Unearth
 1 Magus of the Moon
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
@@ -70,19 +31,19 @@
 1 Utopia Sprawl
 1 Verdant Catacombs
 2 Verdant Catacombs
-2 Kitchen Finks
 2 Bonecrusher Giant
 2 Forest
 2 Stomping Ground
 2 Glorybringer
 2 Utopia Sprawl
+2 Kitchen Finks
 2 Arbor Elf
 2 Windswept Heath
 2 Klothys, God of Destiny
-3 Magus of the Moon
 3 Bonecrusher Giant
 3 Kitchen Finks
 3 Arbor Elf
+3 Magus of the Moon
 3 Klothys, God of Destiny
 3 Wooded Foothills
 3 Forest
@@ -99,39 +60,80 @@
 4 Wooded Foothills
 5 Forest
 6 Forest
+1 Polluted Delta
+2 Polluted Delta
+3 Polluted Delta
+3 Scalding Tarn
+1 Watery Grave
+1 Island
+2 Watery Grave
+4 Polluted Delta
+1 Mana Leak
+1 Drown in the Loch
+1 Serum Visions
+1 Steam Vents
+1 Snapcaster Mage
+2 Mana Leak
+2 Steam Vents
+2 Serum Visions
 1 Dreadhorde Arcanist
 1 Dark Confidant
 2 Dark Confidant
 2 Snow-Covered Swamp
 3 Dark Confidant
-3 Snapcaster Mage
+1 Darkslick Shores
+2 Darkslick Shores
+1 Sprite Dragon
+1 Spirebluff Canal
+2 Sprite Dragon
+3 Sprite Dragon
+3 Darkslick Shores
+4 Sprite Dragon
+1 Force of Negation
 1 Thought Scour
 2 Thought Scour
 3 Thought Scour
+3 Serum Visions
 4 Thought Scour
 4 Serum Visions
+1 Delver of Secrets
+1 Spell Snare
+2 Delver of Secrets
+2 Snapcaster Mage
+3 Delver of Secrets
+3 Snapcaster Mage
+4 Delver of Secrets
+4 Scalding Tarn
 1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
-2 Island
 4 Sunbaked Canyon
-1 Spell Pierce
-1 Murderous Cut
-1 Drowned Catacomb
-2 Spell Snare
+2 Force of Negation
 2 Marsh Flats
 2 Dreadhorde Arcanist
 3 Dreadhorde Arcanist
 3 Snow-Covered Mountain
-2 Spirebluff Canal
-2 Archmage's Charm
-3 Spirebluff Canal
+1 Pillage
+1 Relic of Progenitus
+2 Pillage
+3 Pillage
+3 Windswept Heath
+4 Windswept Heath
 1 Of One Mind
-1 Lurrus of the Dream-Den
 1 Young Pyromancer
+1 Lurrus of the Dream-Den
 2 Lurrus of the Dream-Den
 2 Young Pyromancer
 3 Young Pyromancer
 4 Young Pyromancer
+1 Opt
+1 Archmage's Charm
+2 Spirebluff Canal
+2 Archmage's Charm
+2 Opt
+3 Spirebluff Canal
+3 Opt
+4 Opt
+1 Spell Pierce
 1 Plains
 1 Curious Obsession
 1 Hallowed Fountain
@@ -158,6 +160,7 @@
 2 Rattlechains
 2 Dead Weight
 2 Tallowisp
+2 Island
 2 Remand
 2 Mausoleum Wanderer
 2 Seachrome Coast
@@ -179,26 +182,20 @@
 4 Hateful Eidolon
 4 Tallowisp
 4 Mausoleum Wanderer
-1 Pillage
-1 Relic of Progenitus
-2 Pillage
-3 Pillage
-3 Windswept Heath
-4 Windswept Heath
 1 Arid Mesa
 2 Kiln Fiend
 4 Mountain
+1 Vantress Gargoyle
+1 Into the Story
 1 Thieves' Guild Enforcer
 1 Mystic Sanctuary
 1 Brazen Borrower
-1 Into the Story
-1 Vantress Gargoyle
 2 Drown in the Loch
-2 Thieves' Guild Enforcer
 2 Vantress Gargoyle
+2 Thieves' Guild Enforcer
 3 Watery Grave
-3 Thieves' Guild Enforcer
 3 Vantress Gargoyle
+3 Thieves' Guild Enforcer
 3 Drown in the Loch
 4 Thieves' Guild Enforcer
 4 Drown in the Loch

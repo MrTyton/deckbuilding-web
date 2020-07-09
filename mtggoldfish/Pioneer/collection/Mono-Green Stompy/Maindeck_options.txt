@@ -7,8 +7,8 @@
 2 Blooming Marsh
 2 Overgrown Tomb
 2 Rotting Regisaur
-3 Llanowar Wastes
 3 Blooming Marsh
+3 Llanowar Wastes
 3 Rotting Regisaur
 3 Overgrown Tomb
 4 Llanowar Wastes
@@ -70,7 +70,6 @@
 1 Heliod, Sun-Crowned
 1 Voice of Resurgence
 1 Daxos, Blessed by the Sun
-1 Walking Ballista
 1 Selfless Spirit
 1 Knight of Autumn
 1 Vivien, Arkbow Ranger
@@ -79,6 +78,7 @@
 1 Fleecemane Lion
 1 Temple Garden
 1 Sunpetal Grove
+1 Walking Ballista
 1 Chord of Calling
 1 Courser of Kruphix
 1 Benalish Marshal
@@ -93,8 +93,8 @@
 2 Temple Garden
 2 Fortified Village
 2 Sunpetal Grove
-3 Plains
 3 Walking Ballista
+3 Plains
 3 Sunpetal Grove
 3 Alseid of Life's Bounty
 3 Fortified Village

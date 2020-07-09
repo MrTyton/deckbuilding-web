@@ -5,10 +5,10 @@
 1 Narset, Parter of Veils
 1 Mystical Dispute
 1 General's Enforcer
-2 Mortify
 2 Dovin's Veto
-2 Narset, Parter of Veils
 2 Mystical Dispute
+2 Mortify
+2 Narset, Parter of Veils
 2 General's Enforcer
 2 Castle Locthwain
 3 General's Enforcer
@@ -44,8 +44,8 @@
 2 Thief of Sanity
 2 Hanged Executioner
 2 Rankle, Master of Pranks
-2 Brazen Borrower
 2 Seraph of the Scales
+2 Brazen Borrower
 2 Wingspan Mentor
 2 Empyrean Eagle
 2 Dreamtail Heron
@@ -79,8 +79,8 @@
 1 Eliminate
 2 Eliminate
 4 Elspeth Conquers Death
-1 Castle Ardenvale
 1 Savai Triome
+1 Castle Ardenvale
 1 Dire Tactics
 1 Indatha Triome
 2 Savai Triome
@@ -90,8 +90,8 @@
 2 Indatha Triome
 2 Castle Ardenvale
 3 Dire Tactics
-3 Atris, Oracle of Half-Truths
 3 Dream Trawler
+3 Atris, Oracle of Half-Truths
 4 Dire Tactics
 4 Atris, Oracle of Half-Truths
 4 Oath of Kaya
@@ -100,8 +100,9 @@
 1 Ugin, the Ineffable
 1 Scoured Barrens
 1 Omen of the Sun
-1 Liliana, Dreadhorde General
 1 Golden Egg
+1 Liliana, Dreadhorde General
+1 Flicker of Fate
 1 Cry of the Carnarium
 1 Burglar Rat
 1 Murder
@@ -109,7 +110,6 @@
 1 Meteor Golem
 1 Ob Nixilis's Cruelty
 1 Sleeper Dart
-1 Flicker of Fate
 1 Guild Globe
 1 Tranquil Cove
 1 Evolving Wilds
@@ -120,10 +120,10 @@
 2 Omen of the Sun
 2 Murder
 2 Golden Egg
+2 Flicker of Fate
 2 Cry of the Carnarium
 2 Burglar Rat
 2 Omen of the Dead
-2 Flicker of Fate
 2 Meteor Golem
 2 Sleeper Dart
 2 Tranquil Cove
@@ -135,6 +135,7 @@
 3 Scoured Barrens
 3 Omen of the Sun
 3 Golden Egg
+3 Flicker of Fate
 3 Cry of the Carnarium
 3 Omen of the Dead
 3 Swamp
@@ -142,11 +143,11 @@
 3 Dismal Backwater
 3 Murder
 3 Tranquil Cove
-3 Flicker of Fate
 3 Burglar Rat
 3 Sleeper Dart
 4 Omen of the Sun
 4 Scoured Barrens
+4 Flicker of Fate
 4 Cry of the Carnarium
 4 Swamp
 4 Golden Egg
@@ -154,12 +155,11 @@
 4 Tranquil Cove
 4 Evolving Wilds
 4 Burglar Rat
-4 Flicker of Fate
 4 Dismal Backwater
 5 Plains
 5 Swamp
-6 Plains
 6 Swamp
+6 Plains
 7 Plains
 7 Swamp
 8 Swamp
@@ -168,8 +168,8 @@
 1 Kunoros, Hound of Athreos
 1 Kaya, Orzhov Usurper
 1 Time Wipe
-1 Kaya's Wrath
 1 Deputy of Detention
+1 Kaya's Wrath
 1 Discovery / Dispersal
 1 Revival / Revenge
 2 Kunoros, Hound of Athreos

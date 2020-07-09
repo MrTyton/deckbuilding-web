@@ -76,7 +76,7 @@
 |                    3|[Reckless Bushwhacker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407626)      |                     |                                                                                                     |
 |                    3|[Atarka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394502)          |                     |                                                                                                     |
 |                    4|[Game Trail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410044)                |                     |                                                                                                     |
-|                    4|[Reckless Bushwhacker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407626)      |                     |                                                                                                     |
 |                    4|[Burning-Tree Emissary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426627)     |                     |                                                                                                     |
+|                    4|[Reckless Bushwhacker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407626)      |                     |                                                                                                     |
 |                    4|[Atarka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394502)          |                     |                                                                                                     |
 

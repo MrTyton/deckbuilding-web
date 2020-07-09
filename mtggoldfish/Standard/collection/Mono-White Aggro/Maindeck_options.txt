@@ -27,24 +27,24 @@
 1 Temple Garden
 1 Temple of Plenty
 1 Forest
-2 Forest
-2 Temple of Plenty
 2 Temple Garden
+2 Temple of Plenty
+2 Forest
+3 Temple Garden
 3 Temple of Plenty
 3 Forest
-3 Temple Garden
-4 Forest
 4 Temple Garden
+4 Forest
 5 Forest
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
 4 Lovestruck Beast
+1 Flower/Flourish
 1 Emmara, Soul of the Accord
 1 Trostani Discordant
 1 Woodland Champion
 1 March of the Multitudes
-1 Flower/Flourish
 2 Flower/Flourish
 2 Emmara, Soul of the Accord
 2 Trostani Discordant
@@ -84,9 +84,9 @@
 2 Pledge of Unity
 3 Hanged Executioner
 4 Hanged Executioner
+1 Alseid of Life's Bounty
 1 Gods Willing
 1 Dawn of Hope
-1 Alseid of Life's Bounty
 2 Alseid of Life's Bounty
 2 Gods Willing
 3 Alseid of Life's Bounty
@@ -104,31 +104,31 @@
 3 Huatli's Raptor
 4 Edgewall Innkeeper
 4 Huatli's Raptor
-1 Temple of Triumph
 1 Aurelia, Exemplar of Justice
+1 Haktos the Unscarred
+1 Robber of the Rich
+1 Skarrgan Hellkite
+1 Temple of Triumph
 1 Deafening Clarion
 1 Charming Prince
-1 Skarrgan Hellkite
 1 Experimental Frenzy
 1 Taranika, Akroan Veteran
 1 Castle Embereth
 1 Elspeth Conquers Death
-1 Robber of the Rich
-1 Haktos the Unscarred
 1 Purphoros's Intervention
 1 Mountain
 1 Sacred Foundry
-2 Mountain
-2 Sacred Foundry
 2 Aurelia, Exemplar of Justice
-2 Deafening Clarion
+2 Mountain
 2 Haktos the Unscarred
+2 Robber of the Rich
+2 Skarrgan Hellkite
+2 Sacred Foundry
+2 Deafening Clarion
 2 Charming Prince
 2 Taranika, Akroan Veteran
-2 Robber of the Rich
 2 Castle Embereth
 2 Elspeth Conquers Death
-2 Skarrgan Hellkite
 2 Temple of Triumph
 2 Purphoros's Intervention
 3 Mountain
@@ -144,10 +144,15 @@
 4 Robber of the Rich
 4 Haktos the Unscarred
 4 Sacred Foundry
-1 Return of the Wildspeaker
 1 Divine Visitation
+1 Return of the Wildspeaker
 3 Emmara, Soul of the Accord
 4 Conclave Tribunal
+1 Finale of Glory
+1 Harmonious Archon
+2 Finale of Glory
+7 Forest
+8 Forest
 1 Glorious Anthem
 1 Seasoned Hallowblade
 2 Glorious Anthem
@@ -156,8 +161,3 @@
 3 Glorious Anthem
 4 Glorious Anthem
 4 Seasoned Hallowblade
-1 Finale of Glory
-1 Harmonious Archon
-2 Finale of Glory
-7 Forest
-8 Forest

@@ -1,6 +1,3 @@
-1 Lovestruck Beast
-2 Rimrock Knight
-2 Edgewall Innkeeper
 2 Lovestruck Beast
 3 Rimrock Knight
 3 Edgewall Innkeeper
@@ -8,34 +5,79 @@
 4 Rimrock Knight
 4 Edgewall Innkeeper
 4 Lovestruck Beast
-4 Scavenging Ooze
-3 Gemrazer
-1 Paradise Druid
-2 Paradise Druid
+1 Domri's Ambush
 1 Shifting Ceratops
 2 Shifting Ceratops
+10 Forest
+4 Scavenging Ooze
+4 Temple of Abandon
+1 Castle Embereth
+1 Paradise Druid
+2 Paradise Druid
+1 Primal Might
+3 Zhur-Taa Goblin
+4 Zhur-Taa Goblin
+1 Gallia of the Endless Dance
+2 Gallia of the Endless Dance
+4 Robber of the Rich
+8 Mountain
+3 Gemrazer
+1 Vivien, Monsters' Advocate
+3 Paradise Druid
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 3 Stonecoil Serpent
-1 Castle Embereth
 4 Stonecoil Serpent
-2 Primal Might
-3 Paradise Druid
+1 Scorching Dragonfire
+2 Scorching Dragonfire
+1 Legion Warboss
+2 Legion Warboss
+3 Legion Warboss
+3 Gallia of the Endless Dance
+1 Domri, Anarch of Bolas
+2 Domri, Anarch of Bolas
+4 Gemrazer
+2 Vivien, Monsters' Advocate
+1 Skarrgan Hellkite
+2 Skarrgan Hellkite
+3 Skarrgan Hellkite
+4 Skarrgan Hellkite
+1 Klothys, God of Destiny
+2 Domri's Ambush
 4 Paradise Druid
 1 Castle Garenbrig
-4 Temple of Abandon
-3 Zhur-Taa Goblin
-4 Zhur-Taa Goblin
-4 Robber of the Rich
+1 Migratory Greathorn
+2 Migratory Greathorn
+1 Arboreal Grazer
+2 Arboreal Grazer
+3 Arboreal Grazer
+4 Arboreal Grazer
+3 Shifting Ceratops
 2 Castle Garenbrig
-11 Forest
+3 Migratory Greathorn
+2 Primal Might
+2 Castle Embereth
+2 Klothys, God of Destiny
+1 Radha, Heart of Keld
 3 Castle Garenbrig
+4 Migratory Greathorn
+11 Forest
 1 Vivien, Arkbow Ranger
 2 Vivien, Arkbow Ranger
+1 Auspicious Starrix
+1 Marauding Raptor
+2 Marauding Raptor
+3 Marauding Raptor
+4 Marauding Raptor
+1 Nissa, Who Shakes the World
+1 Mobilized District
 1 Voracious Hydra
+2 Nissa, Who Shakes the World
+2 Mobilized District
 2 Voracious Hydra
-3 Voracious Hydra
 3 Vivien, Arkbow Ranger
+3 Voracious Hydra
+4 Voracious Hydra
 4 Castle Garenbrig
 12 Forest
 13 Forest
@@ -45,66 +87,22 @@
 17 Forest
 18 Forest
 19 Forest
-4 Gemrazer
-1 Growth-Chamber Guardian
-2 Growth-Chamber Guardian
-3 Growth-Chamber Guardian
-4 Growth-Chamber Guardian
-1 Garruk, Unleashed
-1 Skarrgan Hellkite
-2 Skarrgan Hellkite
-3 Skarrgan Hellkite
-4 Skarrgan Hellkite
-4 Voracious Hydra
-1 Klothys, God of Destiny
-2 Domri's Ambush
-8 Mountain
-1 Gallia of the Endless Dance
-2 Gallia of the Endless Dance
-1 Vivien, Monsters' Advocate
-1 Migratory Greathorn
-2 Migratory Greathorn
-1 Legion Warboss
-2 Legion Warboss
-3 Legion Warboss
-3 Gallia of the Endless Dance
-1 Domri, Anarch of Bolas
-2 Domri, Anarch of Bolas
-2 Castle Embereth
-2 Klothys, God of Destiny
-2 Vivien, Monsters' Advocate
-1 Radha, Heart of Keld
-3 Shifting Ceratops
-1 Arboreal Grazer
-2 Arboreal Grazer
-3 Arboreal Grazer
-4 Arboreal Grazer
-3 Migratory Greathorn
-1 Scorching Dragonfire
-2 Scorching Dragonfire
-2 Garruk, Unleashed
-1 Auspicious Starrix
-1 Marauding Raptor
-2 Marauding Raptor
-3 Marauding Raptor
-4 Marauding Raptor
-1 Yorvo, Lord of Garenbrig
-2 Radha, Heart of Keld
-4 Vivien, Arkbow Ranger
-4 Migratory Greathorn
-1 Breeding Pool
+1 Gilded Goose
+2 Gilded Goose
+3 Gilded Goose
 1 End-Raze Forerunners
+1 Breeding Pool
 1 Pouncing Shoreshark
 1 Island
 1 Castle Vantress
 1 Pollywog Symbiote
 1 Temple of Mystery
+2 Temple of Mystery
 2 Breeding Pool
 2 Pouncing Shoreshark
 2 Island
 2 Auspicious Starrix
 2 Pollywog Symbiote
-2 Temple of Mystery
 2 End-Raze Forerunners
 3 Temple of Mystery
 3 Breeding Pool
@@ -113,23 +111,20 @@
 3 Auspicious Starrix
 3 Pollywog Symbiote
 3 Island
-4 Breeding Pool
 4 Temple of Mystery
+4 Breeding Pool
 4 Pouncing Shoreshark
 4 Island
 4 Pollywog Symbiote
 4 Auspicious Starrix
-1 Mobilized District
-1 Gilded Goose
-2 Gilded Goose
-3 Gilded Goose
+2 Radha, Heart of Keld
+1 Garruk, Unleashed
 1 Terror of the Peaks
 2 Terror of the Peaks
 1 Giant Growth
 1 Lukka, Coppercoat Outcast
 2 Castle Vantress
-1 Incubation Druid
-2 Incubation Druid
+2 Garruk, Unleashed
 1 Wildborn Preserver
 2 Wildborn Preserver
 3 Radha, Heart of Keld
@@ -139,12 +134,5 @@
 3 Terror of the Peaks
 3 Anax, Hardened in the Forge
 3 Klothys, God of Destiny
-1 Garruk's Harbinger
-2 Garruk's Harbinger
-3 Garruk's Harbinger
-3 Primal Might
-1 Nissa, Who Shakes the World
-2 Mobilized District
-2 Nissa, Who Shakes the World
 4 Gilded Goose
 5 Island

@@ -1,10 +1,10 @@
 1 Brazen Borrower
+1 Misty Rainforest
 1 Abrade
 1 Spell Pierce
 2 Bonecrusher Giant
 1 Flame Slash
 2 Brazen Borrower
-1 Misty Rainforest
 1 Electrolyze
 2 Sulfur Falls
 1 Narset, Parter of Veils
@@ -14,34 +14,37 @@
 1 Deprive
 1 Flooded Strand
 2 Spell Pierce
+4 Thing in the Ice
 2 Mana Leak
 2 Cascade Bluffs
 4 Archmage's Charm
-4 Thing in the Ice
 1 Ral, Izzet Viceroy
 3 Force of Negation
-3 Cryptic Command
-1 Vendilion Clique
 2 Misty Rainforest
-3 Misty Rainforest
-4 Misty Rainforest
-1 Fiery Islet
-1 Jace, the Mind Sculptor
-3 Sulfur Falls
 1 Thought Scour
 2 Thought Scour
 3 Thought Scour
 4 Thought Scour
+3 Cryptic Command
 1 Spirebluff Canal
+1 Fiery Islet
+3 Misty Rainforest
+4 Misty Rainforest
+2 Spirebluff Canal
+1 Vendilion Clique
+1 Jace, the Mind Sculptor
+3 Sulfur Falls
 1 Snow-Covered Mountain
 1 Snow-Covered Island
 2 Snow-Covered Island
-2 Spirebluff Canal
 1 Shark Typhoon
 1 Shadow of Doubt
 2 Shark Typhoon
 3 Shark Typhoon
 4 Shark Typhoon
+2 Mountain
+3 Spirebluff Canal
+4 Spirebluff Canal
 1 Peek
 1 Glimpse of Freedom
 1 Blast Zone
@@ -56,17 +59,14 @@
 1 Temple of Epiphany
 1 Minamo, School at Water's Edge
 1 Reflecting Pool
-2 Mountain
-2 Temple of Epiphany
 2 Fiery Islet
 2 Reflecting Pool
+2 Temple of Epiphany
 3 Temple of Epiphany
 3 Mana Leak
 3 Cascade Bluffs
 3 Reflecting Pool
-3 Spirebluff Canal
 4 Temple of Epiphany
-4 Spirebluff Canal
 4 Reflecting Pool
 4 Cascade Bluffs
 2 Magmatic Sinkhole
@@ -79,6 +79,14 @@
 2 Flooded Strand
 3 Flooded Strand
 4 Flooded Strand
+1 Delver of Secrets
+2 Delver of Secrets
+3 Delver of Secrets
+4 Delver of Secrets
+1 Manamorphose
+2 Manamorphose
+3 Manamorphose
+4 Manamorphose
 1 Logic Knot
 1 River of Tears
 1 Rielle, the Everwise
@@ -132,8 +140,8 @@
 2 Supreme Verdict
 2 Stoneforge Mystic
 2 Lightning Helix
-2 Sacred Foundry
 2 Logic Knot
+2 Sacred Foundry
 2 Path to Exile
 2 Hallowed Fountain
 2 Seachrome Coast
@@ -148,36 +156,71 @@
 1 Of One Mind
 1 Forked Bolt
 1 Young Pyromancer
-1 Delver of Secrets
 1 Monastery Swiftspear
 2 Of One Mind
 2 Young Pyromancer
-2 Delver of Secrets
 2 Monastery Swiftspear
 3 Young Pyromancer
-3 Monastery Swiftspear
 3 Of One Mind
-3 Delver of Secrets
+3 Monastery Swiftspear
 4 Force of Negation
 4 Young Pyromancer
-4 Delver of Secrets
 4 Monastery Swiftspear
+1 Stubborn Denial
+1 Stormwing Entity
+1 Vapor Snag
+1 Hooting Mandrills
+1 Tarmogoyf
+1 Breeding Pool
+1 Botanical Sanctum
+1 Stomping Ground
+1 Mutagenic Growth
+1 Forest
+2 Stormwing Entity
+2 Stubborn Denial
+2 Hooting Mandrills
+2 Mutagenic Growth
+2 Tarmogoyf
+3 Hooting Mandrills
+3 Stormwing Entity
+3 Stubborn Denial
+3 Tarmogoyf
+4 Hooting Mandrills
+4 Stubborn Denial
+1 Simian Spirit Guide
+1 Emrakul, the Aeons Torn
+1 Through the Breach
+1 Anger of the Gods
+2 Simian Spirit Guide
+2 Emrakul, the Aeons Torn
+2 Through the Breach
+2 Shivan Reef
+3 Shivan Reef
+3 Through the Breach
+3 Emrakul, the Aeons Torn
+4 Shivan Reef
+4 Through the Breach
+4 Sulfur Falls
+4 Emrakul, the Aeons Torn
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island
 8 Snow-Covered Island
-1 Simian Spirit Guide
-1 Through the Breach
-1 Emrakul, the Aeons Torn
-1 Anger of the Gods
-2 Simian Spirit Guide
-2 Through the Breach
-2 Emrakul, the Aeons Torn
-2 Shivan Reef
-3 Emrakul, the Aeons Torn
-3 Through the Breach
-3 Shivan Reef
-4 Shivan Reef
-4 Through the Breach
-4 Emrakul, the Aeons Torn
-4 Sulfur Falls
+1 Izzet Charm
+1 Chart a Course
+1 Bedlam Reveler
+1 Arclight Phoenix
+1 Finale of Promise
+1 Sleight of Hand
+1 Lightning Axe
+1 Merchant of the Vale
+2 Izzet Charm
+2 Finale of Promise
+2 Arclight Phoenix
+2 Merchant of the Vale
+2 Lightning Axe
+2 Chart a Course
+3 Arclight Phoenix
+3 Merchant of the Vale
+4 Arclight Phoenix
+4 Merchant of the Vale
