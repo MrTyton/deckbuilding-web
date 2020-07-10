@@ -1,35 +1,39 @@
 1 Plains
 2 Plains
+1 Godless Shrine
 1 Watery Grave
-2 Watery Grave
-3 Watery Grave
-4 Watery Grave
 1 Island
 2 Island
 1 Hallowed Fountain
+2 Hallowed Fountain
+3 Hallowed Fountain
 1 Irrigated Farmland
 1 Glacial Fortress
 2 Irrigated Farmland
 2 Glacial Fortress
 3 Glacial Fortress
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
 1 Shark Typhoon
 2 Shark Typhoon
+2 Watery Grave
+3 Watery Grave
 1 Neutralize
 2 Neutralize
 3 Neutralize
 4 Neutralize
-2 Hallowed Fountain
-3 Hallowed Fountain
 4 Hallowed Fountain
-1 Godless Shrine
 1 Isolated Chapel
 2 Godless Shrine
 2 Isolated Chapel
 3 Godless Shrine
-1 Teferi, Time Raveler
+1 Teferi, Hero of Dominaria
+1 Cling to Dust
+2 Teferi, Hero of Dominaria
+3 Teferi, Time Raveler
+4 Teferi, Time Raveler
 1 Supreme Verdict
 2 Supreme Verdict
-2 Teferi, Time Raveler
 3 Supreme Verdict
 1 Charming Prince
 2 Charming Prince
@@ -40,20 +44,18 @@
 2 Flicker of Fate
 1 Castle Locthwain
 2 Castle Locthwain
+4 Watery Grave
 4 Godless Shrine
 1 Settle the Wreckage
 1 Elspeth Conquers Death
 1 Oath of Kaya
 1 Trial of Ambition
 1 Baffling End
-1 Teferi, Hero of Dominaria
 1 Omen of the Sea
-1 Cling to Dust
 1 Drowned Catacomb
 1 Narset, Parter of Veils
 2 Oath of Kaya
 2 Baffling End
-2 Teferi, Hero of Dominaria
 2 Trial of Ambition
 2 Elspeth Conquers Death
 2 Drowned Catacomb
@@ -64,10 +66,8 @@
 3 Narset, Parter of Veils
 3 Baffling End
 3 Omen of the Sea
-3 Teferi, Time Raveler
 3 Drowned Catacomb
 3 Trial of Ambition
-4 Teferi, Time Raveler
 4 Drowned Catacomb
 4 Omen of the Sea
 1 Overgrown Tomb
@@ -98,61 +98,10 @@
 3 Silversmote Ghoul
 3 Prized Amalgam
 3 Creeping Chill
-4 Satyr Wayfinder
 4 Silversmote Ghoul
+4 Satyr Wayfinder
 4 Creeping Chill
 4 Prized Amalgam
-1 Scrapheap Scrounger
-2 Scrapheap Scrounger
-1 Shrapnel Blast
-1 Spire of Industry
-1 Stonecoil Serpent
-1 Ensoul Artifact
-1 Bomat Courier
-1 Darksteel Citadel
-1 Hope of Ghirapur
-1 Shivan Reef
-1 Gingerbrute
-1 Ghostfire Blade
-2 Shivan Reef
-2 Spire of Industry
-2 Darksteel Citadel
-2 Gingerbrute
-2 Ensoul Artifact
-2 Stonecoil Serpent
-2 Bomat Courier
-2 Ghostfire Blade
-2 Shrapnel Blast
-3 Spire of Industry
-3 Darksteel Citadel
-3 Stonecoil Serpent
-3 Gingerbrute
-3 Ghostfire Blade
-3 Bomat Courier
-3 Shrapnel Blast
-3 Ensoul Artifact
-4 Darksteel Citadel
-4 Ghostfire Blade
-4 Shrapnel Blast
-4 Ensoul Artifact
-4 Spire of Industry
-3 Scrapheap Scrounger
-1 Metallic Rebuke
-1 Hangarback Walker
-1 Skewer the Critics
-1 Drown in the Loch
-1 Spirebluff Canal
-2 Skewer the Critics
-2 Metallic Rebuke
-2 Hangarback Walker
-2 Spirebluff Canal
-2 Drown in the Loch
-3 Metallic Rebuke
-3 Spirebluff Canal
-3 Hangarback Walker
-4 Metallic Rebuke
-4 Hangarback Walker
-4 Spirebluff Canal
 1 Deathrite Shaman
 2 Deathrite Shaman
 4 Gather the Pack
@@ -177,43 +126,64 @@
 2 Forest
 3 Deathrite Shaman
 4 Deathrite Shaman
+1 Censor
 1 Castle Vantress
-1 Murderous Rider
-1 Urborg, Tomb of Yawgmoth
-1 Thought Erasure
-3 Flicker of Fate
+2 Censor
+3 Censor
+3 Island
+4 Censor
 3 Irrigated Farmland
 4 Irrigated Farmland
 4 Glacial Fortress
-1 Censor
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+4 Thraben Inspector
 3 Shark Typhoon
 4 Shark Typhoon
+3 Fabled Passage
 1 Cast Out
 2 Cast Out
 3 Cast Out
-1 Hieroglyphic Illumination
-2 Censor
-2 Hieroglyphic Illumination
-3 Censor
-3 Hieroglyphic Illumination
-3 Island
-4 Censor
-4 Cast Out
-4 Hieroglyphic Illumination
 1 Castle Ardenvale
 2 Castle Ardenvale
-1 Traverse the Ulvenwald
-2 Traverse the Ulvenwald
+1 Hieroglyphic Illumination
+2 Hieroglyphic Illumination
+3 Hieroglyphic Illumination
+4 Cast Out
+4 Hieroglyphic Illumination
+1 Murderous Rider
+1 Thought Erasure
+1 Urborg, Tomb of Yawgmoth
+3 Plains
+3 Flicker of Fate
+4 Plains
+1 Mutavault
+2 Mutavault
+1 Scrapheap Scrounger
+1 Knight of the Ebon Legion
+2 Scrapheap Scrounger
+2 Knight of the Ebon Legion
+3 Knight of the Ebon Legion
+3 Mutavault
+4 Knight of the Ebon Legion
+4 Mutavault
 1 Llanowar Wastes
 2 Llanowar Wastes
 3 Llanowar Wastes
-1 Woodland Cemetery
+1 Rankle, Master of Pranks
+2 Murderous Rider
+2 Rankle, Master of Pranks
+3 Murderous Rider
+4 Murderous Rider
+1 Traverse the Ulvenwald
+2 Traverse the Ulvenwald
 1 Sylvan Caryatid
-2 Woodland Cemetery
 2 Sylvan Caryatid
 3 Sylvan Caryatid
 4 Sylvan Caryatid
-3 Fabled Passage
+1 Woodland Cemetery
+2 Woodland Cemetery
 4 Fabled Passage
 1 Llanowar Elves
 1 Emrakul, the Promised End
@@ -235,19 +205,19 @@
 1 Vraska, Golgari Queen
 1 Siege Rhino
 1 Liliana, the Last Hope
+1 Glass Casket
 1 Tireless Tracker
 1 Discovery/Dispersal
 1 Brain Maggot
 1 Tolsimir, Friend to Wolves
-1 Glass Casket
 1 Cataclysmic Gearhulk
 1 Greenwarden of Murasa
 1 Indatha Triome
 1 Kalitas, Traitor of Ghet
 2 Courser of Kruphix
 2 Siege Rhino
-2 Glass Casket
 2 Liliana, the Last Hope
+2 Glass Casket
 2 Discovery/Dispersal
 2 Vraska, Golgari Queen
 2 Indatha Triome
@@ -260,21 +230,10 @@
 4 Traverse the Ulvenwald
 4 Discovery/Dispersal
 4 Courser of Kruphix
-1 Rankle, Master of Pranks
-2 Murderous Rider
-2 Rankle, Master of Pranks
-3 Murderous Rider
-4 Murderous Rider
-3 Plains
-1 Mutavault
-2 Mutavault
-1 Knight of the Ebon Legion
-2 Knight of the Ebon Legion
-3 Knight of the Ebon Legion
-3 Mutavault
-4 Knight of the Ebon Legion
-4 Mutavault
-4 Plains
+1 Concealed Courtyard
+2 Concealed Courtyard
+3 Concealed Courtyard
+4 Concealed Courtyard
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
@@ -288,29 +247,6 @@
 3 Zenith Flare
 4 Zenith Flare
 4 Flourishing Fox
-1 Caves of Koilos
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
-4 Thraben Inspector
-1 Seal Away
-1 Drake Haven
-1 Abandoned Sarcophagus
-1 Field of Ruin
-1 Teferi, Master of Time
-2 Teferi, Master of Time
-2 Seal Away
-2 Drake Haven
-2 Field of Ruin
-3 Drake Haven
-3 Seal Away
-4 Seal Away
-4 Supreme Verdict
-4 Island
-5 Island
-1 Zetalpa, Primal Dawn
-1 Eliminate
-1 Heartless Act
 1 Heart of Kiran
 1 Gideon, Ally of Zendikar
 1 Gideon Blackblade
@@ -318,6 +254,22 @@
 2 Gideon, Ally of Zendikar
 2 Gideon Blackblade
 2 Gideon of the Trials
+1 Teferi, Master of Time
+1 Field of Ruin
+1 Seal Away
+1 Drake Haven
+1 Abandoned Sarcophagus
+2 Teferi, Master of Time
+2 Field of Ruin
+2 Seal Away
+2 Drake Haven
+3 Drake Haven
+3 Seal Away
+4 Seal Away
+4 Island
+4 Supreme Verdict
+5 Island
+1 Zetalpa, Primal Dawn
 2 Archfiend's Vessel
 3 Kroxa, Titan of Death's Hunger
 1 Nimble Obstructionist
@@ -360,6 +312,7 @@
 4 Reflector Mage
 4 Thalia's Lieutenant
 4 Militia Bugler
+4 Llanowar Wastes
 1 Gurmag Angler
 1 Decimator of the Provinces
 1 Zagoth Triome
@@ -369,53 +322,138 @@
 2 Decimator of the Provinces
 3 Gurmag Angler
 3 Haunted Dead
-4 Llanowar Wastes
 4 Haunted Dead
-1 Concealed Courtyard
+1 Caves of Koilos
 1 Archangel Avacyn
 1 Kunoros, Hound of Athreos
 1 History of Benalia
 1 Glory-Bound Initiate
 2 Heart of Kiran
 2 Caves of Koilos
-2 Concealed Courtyard
 2 History of Benalia
 2 Glory-Bound Initiate
-3 Concealed Courtyard
 3 Gideon, Ally of Zendikar
 3 Caves of Koilos
 3 Heart of Kiran
 3 History of Benalia
-4 Concealed Courtyard
 4 History of Benalia
 4 Caves of Koilos
-1 Steel Overseer
-1 Aether Hub
-1 Springleaf Drum
-1 Dive Down
-1 Shadowspear
-1 All That Glitters
-1 Mana Confluence
-1 Ornithopter
-2 All That Glitters
-2 Steel Overseer
-2 Springleaf Drum
-2 Aether Hub
-2 Dive Down
-2 Ornithopter
-2 Mana Confluence
-3 Mana Confluence
-3 All That Glitters
-3 Steel Overseer
-3 Springleaf Drum
-3 Aether Hub
-3 Ornithopter
-4 Mana Confluence
-4 Aether Hub
-4 Ornithopter
-4 Bomat Courier
-4 Gingerbrute
-4 Stonecoil Serpent
+1 Shambling Vent
+1 Kaya, Orzhov Usurper
+1 Karn, Scion of Urza
+1 Temple of Deceit
+1 Dovin's Veto
+1 Search for Azcanta
+1 The Scarab God
+1 Heartless Act
+1 Spell Queller
+1 Dig Through Time
+1 Temple of Enlightenment
+2 Temple of Deceit
+2 Dovin's Veto
+2 Temple of Enlightenment
+2 Heartless Act
+2 Spell Queller
+3 Heartless Act
+3 Spell Queller
+4 Heartless Act
+4 Spell Queller
+1 Castle Embereth
+1 Burning-Tree Emissary
+2 Burning-Tree Emissary
+2 Castle Embereth
+3 Burning-Tree Emissary
+4 Burning-Tree Emissary
+4 Mountain
+5 Mountain
+6 Mountain
+7 Mountain
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+13 Mountain
+14 Mountain
+15 Mountain
+1 Ash Zealot
+1 Anax, Hardened in the Forge
+1 Eidolon of the Great Revel
+1 Chandra, Torch of Defiance
+1 Leyline of Combustion
+1 Glorybringer
+1 Fanatic of Mogis
+1 Nykthos, Shrine to Nyx
+1 Torbran, Thane of Red Fell
+1 Boros Reckoner
+1 Ramunap Ruins
+2 Anax, Hardened in the Forge
+2 Ash Zealot
+2 Chandra, Torch of Defiance
+2 Leyline of Combustion
+2 Glorybringer
+2 Boros Reckoner
+2 Torbran, Thane of Red Fell
+2 Fanatic of Mogis
+2 Nykthos, Shrine to Nyx
+2 Eidolon of the Great Revel
+2 Ramunap Ruins
+3 Anax, Hardened in the Forge
+3 Chandra, Torch of Defiance
+3 Ash Zealot
+3 Leyline of Combustion
+3 Nykthos, Shrine to Nyx
+3 Torbran, Thane of Red Fell
+3 Eidolon of the Great Revel
+3 Ramunap Ruins
+3 Boros Reckoner
+3 Fanatic of Mogis
+4 Leyline of Combustion
+4 Boros Reckoner
+4 Fanatic of Mogis
+4 Nykthos, Shrine to Nyx
+4 Ash Zealot
+4 Ramunap Ruins
+4 Eidolon of the Great Revel
+1 Goblin Instigator
+1 Conspicuous Snoop
+1 Embercleave
+1 Legion Loyalist
+1 Frenzied Goblin
+1 Goblin Piledriver
+1 Goblin Rabblemaster
+1 Fanatical Firebrand
+1 Foundry Street Denizen
+1 Reckless Bushwhacker
+2 Conspicuous Snoop
+2 Goblin Instigator
+2 Legion Loyalist
+2 Embercleave
+2 Reckless Bushwhacker
+2 Fanatical Firebrand
+2 Frenzied Goblin
+2 Goblin Piledriver
+2 Foundry Street Denizen
+2 Goblin Rabblemaster
+3 Goblin Piledriver
+3 Conspicuous Snoop
+3 Goblin Instigator
+3 Castle Embereth
+3 Goblin Rabblemaster
+3 Fanatical Firebrand
+3 Frenzied Goblin
+3 Foundry Street Denizen
+3 Legion Loyalist
+3 Reckless Bushwhacker
+4 Conspicuous Snoop
+4 Goblin Instigator
+4 Fanatical Firebrand
+4 Castle Embereth
+4 Legion Loyalist
+4 Goblin Piledriver
+4 Foundry Street Denizen
+4 Goblin Rabblemaster
+4 Reckless Bushwhacker
 1 Battlefield Forge
 1 Inspiring Vantage
 2 Battlefield Forge
@@ -464,35 +502,87 @@
 4 Monastery Swiftspear
 4 Boros Charm
 4 Favored Hoplite
+1 Paradise Druid
+2 Paradise Druid
+3 Paradise Druid
+4 Paradise Druid
+1 Aether Hub
+1 Wolfwillow Haven
+1 Radiant Fountain
+1 Spark Double
+1 Zhalfirin Void
+1 Clever Impersonator
+1 Altered Ego
+1 Gyruda, Doom of Depths
+1 Thought-Knot Seer
+1 Temple of Mystery
+1 Yavimaya Coast
+1 Wispweaver Angel
+1 Dragonlord Kolaghan
+2 Aether Hub
+2 Wolfwillow Haven
+2 Zhalfirin Void
+2 Radiant Fountain
+2 Dragonlord Kolaghan
+2 Wispweaver Angel
+2 Spark Double
+2 Gyruda, Doom of Depths
+2 Thought-Knot Seer
+2 Clever Impersonator
+2 Temple of Mystery
+2 Altered Ego
+2 Yavimaya Coast
+3 Yavimaya Coast
+3 Aether Hub
+3 Wolfwillow Haven
+3 Radiant Fountain
+3 Temple of Mystery
+3 Thought-Knot Seer
+3 Clever Impersonator
+3 Altered Ego
+3 Wispweaver Angel
+3 Zhalfirin Void
+3 Spark Double
+3 Gyruda, Doom of Depths
+4 Aether Hub
+4 Radiant Fountain
+4 Yavimaya Coast
+4 Zhalfirin Void
+4 Temple of Mystery
+4 Spark Double
+4 Altered Ego
+4 Thought-Knot Seer
+4 Clever Impersonator
+4 Wispweaver Angel
+1 Hollow One
 1 Valiant Rescuer
+1 Flameblade Adept
 1 Djeru's Renunciation
 1 Drannith Stinger
-1 Flameblade Adept
 1 Go for Blood
 1 Drannith Healer
 1 Footfall Crater
-1 Hollow One
+2 Hollow One
+2 Flameblade Adept
 2 Valiant Rescuer
 2 Go for Blood
 2 Footfall Crater
 2 Drannith Stinger
-2 Flameblade Adept
 2 Drannith Healer
 2 Djeru's Renunciation
-2 Hollow One
-3 Valiant Rescuer
+3 Flameblade Adept
 3 Hollow One
+3 Valiant Rescuer
 3 Drannith Stinger
 3 Go for Blood
 3 Drannith Healer
 3 Footfall Crater
-3 Flameblade Adept
 3 Djeru's Renunciation
+4 Hollow One
+4 Flameblade Adept
 4 Drannith Healer
 4 Djeru's Renunciation
 4 Drannith Stinger
-4 Flameblade Adept
-4 Hollow One
 4 Go for Blood
 4 Footfall Crater
 1 Rhonas the Indomitable
@@ -526,9 +616,9 @@
 1 Expansion/Explosion
 1 Negate
 1 Pull from Tomorrow
-1 Growth Spiral
 1 Mystical Dispute
 1 Steam Vents
+1 Growth Spiral
 1 Bonecrusher Giant
 1 Stomping Ground
 2 Expansion/Explosion
@@ -536,9 +626,9 @@
 2 Sweltering Suns
 2 Wilderness Reclamation
 2 Bonecrusher Giant
+2 Pull from Tomorrow
 2 Growth Spiral
 2 Steam Vents
-2 Pull from Tomorrow
 2 Stomping Ground
 3 Steam Vents
 3 Ketria Triome
@@ -560,6 +650,7 @@
 1 Scavenging Ooze
 2 Fiend Artisan
 2 Urborg, Tomb of Yawgmoth
+3 Scrapheap Scrounger
 3 Fiend Artisan
 3 Castle Locthwain
 4 Scrapheap Scrounger
@@ -569,7 +660,6 @@
 1 Trostani Discordant
 1 Castle Garenbrig
 1 Canopy Vista
-1 Paradise Druid
 1 Worldspine Wurm
 1 Dragonlord Dromoka
 1 Elvish Mystic
@@ -577,7 +667,6 @@
 1 Dubious Challenge
 1 See the Unwritten
 2 Castle Garenbrig
-2 Paradise Druid
 2 Trostani Discordant
 2 Dubious Challenge
 2 Ulamog, the Ceaseless Hunger
@@ -588,14 +677,12 @@
 2 Canopy Vista
 3 Sunpetal Grove
 3 Castle Garenbrig
-3 Paradise Druid
 3 Dubious Challenge
 3 Elvish Mystic
 3 See the Unwritten
 3 Trostani Discordant
 3 Worldspine Wurm
 4 Sunpetal Grove
-4 Paradise Druid
 4 Castle Garenbrig
 4 Elvish Mystic
 4 Trostani Discordant
@@ -642,60 +729,3 @@
 12 Plains
 13 Plains
 14 Plains
-1 Ash Zealot
-1 Anax, Hardened in the Forge
-1 Eidolon of the Great Revel
-1 Chandra, Torch of Defiance
-1 Leyline of Combustion
-1 Glorybringer
-1 Fanatic of Mogis
-1 Nykthos, Shrine to Nyx
-1 Torbran, Thane of Red Fell
-1 Castle Embereth
-1 Burning-Tree Emissary
-1 Boros Reckoner
-1 Ramunap Ruins
-2 Anax, Hardened in the Forge
-2 Ash Zealot
-2 Chandra, Torch of Defiance
-2 Leyline of Combustion
-2 Glorybringer
-2 Fanatic of Mogis
-2 Castle Embereth
-2 Boros Reckoner
-2 Torbran, Thane of Red Fell
-2 Burning-Tree Emissary
-2 Nykthos, Shrine to Nyx
-2 Eidolon of the Great Revel
-2 Ramunap Ruins
-3 Anax, Hardened in the Forge
-3 Chandra, Torch of Defiance
-3 Ash Zealot
-3 Leyline of Combustion
-3 Nykthos, Shrine to Nyx
-3 Eidolon of the Great Revel
-3 Ramunap Ruins
-3 Boros Reckoner
-3 Burning-Tree Emissary
-3 Torbran, Thane of Red Fell
-3 Fanatic of Mogis
-4 Leyline of Combustion
-4 Boros Reckoner
-4 Burning-Tree Emissary
-4 Fanatic of Mogis
-4 Nykthos, Shrine to Nyx
-4 Ash Zealot
-4 Ramunap Ruins
-4 Mountain
-4 Eidolon of the Great Revel
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain
-15 Mountain
