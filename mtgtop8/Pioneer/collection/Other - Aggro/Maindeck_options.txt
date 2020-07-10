@@ -33,9 +33,9 @@
 3 Winota, Joiner of Forces
 3 Angrath's Marauders
 3 Legion Warboss
-4 Voice of Resurgence
 4 Temple Garden
 4 Eldritch Evolution
+4 Voice of Resurgence
 4 Winota, Joiner of Forces
 4 Angrath's Marauders
 1 Inspiring Vantage
@@ -127,28 +127,28 @@
 2 Abrupt Decay
 3 Fabled Passage
 1 Scampering Scorcher
+1 Breeding Pool
 1 Ashiok, Nightmare Muse
-1 Atris, Oracle of Half-Truths
 1 Ipnu Rivulet
 1 Shark Typhoon
 1 Traverse the Ulvenwald
-1 Tireless Tracker
 1 Uro, Titan of Nature's Wrath
 1 Hinterland Harbor
 1 Murderous Rider
 1 Jace, Vryn's Prodigy
 1 Heartless Act
+1 Tireless Tracker
+1 Atris, Oracle of Half-Truths
 1 Nissa, Who Shakes the World
 1 Eat to Extinction
 1 Zagoth Triome
 1 Satyr Wayfinder
-1 Breeding Pool
-2 Satyr Wayfinder
 2 Breeding Pool
-2 Shark Typhoon
 2 Traverse the Ulvenwald
+2 Shark Typhoon
 2 Uro, Titan of Nature's Wrath
 2 Jace, Vryn's Prodigy
+2 Satyr Wayfinder
 2 Murderous Rider
 3 Jace, Vryn's Prodigy
 3 Satyr Wayfinder
@@ -209,40 +209,40 @@
 2 Embercleave
 2 Gallia of the Endless Dance
 2 Game Trail
+3 Ghor-Clan Rampager
 3 Gruul Spellbreaker
 3 Bonecrusher Giant
 3 Burning-Tree Emissary
-3 Ghor-Clan Rampager
 3 Voltaic Brawler
 4 Ghor-Clan Rampager
+4 Burning-Tree Emissary
 4 Bonecrusher Giant
 4 Gruul Spellbreaker
-4 Burning-Tree Emissary
 4 Voltaic Brawler
 1 Grim Flayer
-1 Kroxa, Titan of Death's Hunger
 1 Chevill, Bane of Monsters
 1 Deathrite Shaman
 1 Blood Crypt
 1 Dreadbore
-1 Kolaghan's Command
 1 Dead Weight
+1 Kolaghan's Command
 1 Unbridled Growth
+1 Kroxa, Titan of Death's Hunger
 2 Grim Flayer
-2 Kroxa, Titan of Death's Hunger
 2 Deathrite Shaman
 2 Blood Crypt
 2 Dreadbore
-2 Kolaghan's Command
 2 Chevill, Bane of Monsters
 2 Dead Weight
 2 Unbridled Growth
+2 Kroxa, Titan of Death's Hunger
+2 Kolaghan's Command
 3 Kroxa, Titan of Death's Hunger
-3 Grim Flayer
-3 Deathrite Shaman
 3 Blood Crypt
+3 Deathrite Shaman
 3 Chevill, Bane of Monsters
 3 Unbridled Growth
+3 Grim Flayer
 4 Blood Crypt
 4 Deathrite Shaman
 4 Unbridled Growth
@@ -300,8 +300,8 @@
 2 Godless Shrine
 2 Concealed Courtyard
 2 Caves of Koilos
-2 Shambling Vent
 2 Heart of Kiran
+2 Shambling Vent
 2 Gideon of the Trials
 2 Karn, Scion of Urza
 2 Pack Rat
@@ -310,10 +310,10 @@
 3 Godless Shrine
 3 Concealed Courtyard
 3 Caves of Koilos
+3 Heart of Kiran
 3 Karn, Scion of Urza
 3 Pack Rat
 3 Heliod, Sun-Crowned
-3 Heart of Kiran
 3 Knight of the Ebon Legion
 4 Concealed Courtyard
 4 Godless Shrine
@@ -342,13 +342,13 @@
 4 Witch's Oven
 4 Cauldron Familiar
 4 Choked Estuary
+1 Titan's Strength
 1 Monastery Swiftspear
 1 Soul-Scar Mage
 1 Dreadhorde Arcanist
+1 Tenth District Legionnaire
 1 Gods Willing
 1 Defiant Strike
-1 Tenth District Legionnaire
-1 Titan's Strength
 1 Reckless Rage
 1 Clifftop Retreat
 1 Favored Hoplite
@@ -357,12 +357,12 @@
 1 Gryff's Boon
 1 Boros Charm
 2 Battlefield Forge
+2 Titan's Strength
 2 Soul-Scar Mage
 2 Dreadhorde Arcanist
-2 Defiant Strike
 2 Monastery Swiftspear
+2 Defiant Strike
 2 Gods Willing
-2 Titan's Strength
 2 Tenth District Legionnaire
 2 Reckless Rage
 2 Gird for Battle

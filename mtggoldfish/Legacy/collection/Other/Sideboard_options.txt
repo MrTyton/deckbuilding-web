@@ -1,36 +1,32 @@
-1 Grafdigger's Cage
-1 Baleful Strix
-1 Hymn to Tourach
-1 Liliana, the Last Hope
-1 Brazen Borrower
 2 Baleful Strix
 2 Brazen Borrower
 2 Hymn to Tourach
+1 Abrade
+1 Force of Negation
+1 Thoughtseize
+1 Pyroblast
+2 Pyroblast
 2 Thoughtseize
 1 Karakas
 2 Eliminate
 1 Null Rod
-2 Narset, Parter of Veils
-3 Plague Engineer
-1 Notion Thief
-1 Submerge
-1 Mystical Dispute
-2 Mystical Dispute
 1 Sorcerous Spyglass
 1 Ensnaring Bridge
 1 Tormod's Crypt
+1 Submerge
+1 Notion Thief
+1 Mystical Dispute
+2 Mystical Dispute
 1 Blood Moon
-1 Red Elemental Blast
-3 Pyroblast
 2 Abrade
+2 Sorcerous Spyglass
 3 Surgical Extraction
 2 Force of Negation
-1 Flusterstorm
 1 Collector Ouphe
-2 Sorcerous Spyglass
+1 Flusterstorm
+1 Pithing Needle
 1 Containment Priest
 1 Echoing Truth
-1 Pithing Needle
 1 Disenchant
 1 Mycosynth Lattice
 1 Cling to Dust
@@ -39,13 +35,15 @@
 1 Damping Sphere
 1 Toxic Deluge
 2 Containment Priest
+1 Red Elemental Blast
 2 Red Elemental Blast
 1 Grindstone
 1 Council's Judgment
+2 Pithing Needle
 1 Liquimetal Coating
 1 Walking Ballista
-1 Curse of Exhaustion
 1 Island
+2 Narset, Parter of Veils
 1 Mindbreak Trap
 2 Mindbreak Trap
 1 Oblivion Ring
@@ -65,7 +63,6 @@
 1 Crop Rotation
 1 Bojuka Bog
 2 Carpet of Flowers
-2 Pithing Needle
 1 Sylvan Library
 1 Gut Shot
 2 Flusterstorm
@@ -83,8 +80,8 @@
 2 Grafdigger's Cage
 2 Search for Azcanta
 2 Teferi's Realm
-1 Jace, the Mind Sculptor
 1 Nihil Spellbomb
+1 Jace, the Mind Sculptor
 1 Leovold, Emissary of Trest
 1 Assassin's Trophy
 1 Back to Basics
@@ -106,6 +103,8 @@
 2 Swords to Plowshares
 2 Disenchant
 3 Swords to Plowshares
+1 Curse of Exhaustion
+3 Plague Engineer
 1 Cindervines
 2 Cindervines
 3 Mystical Dispute
@@ -141,8 +140,12 @@
 3 Oblivion Ring
 3 Holy Light
 3 Fairgrounds Warden
-1 Kolaghan's Command
-4 Plague Engineer
+1 Lightning Bolt
+1 Engineered Explosives
+1 Ethersworn Canonist
+2 Lightning Bolt
+3 Lightning Bolt
+4 Lightning Bolt
 1 Ratchet Bomb
 1 Wurmcoil Engine
 1 Helm of Obedience
@@ -151,10 +154,10 @@
 3 Null Rod
 3 Toxic Deluge
 4 Null Rod
-1 Death's Shadow
 1 Anger
 1 Shenanigans
 1 Cabal Therapy
+1 Death's Shadow
 1 Force of Vigor
 2 Cabal Therapy
 2 Force of Vigor
@@ -162,6 +165,19 @@
 3 Force of Vigor
 4 Cabal Therapy
 4 Force of Vigor
+1 Veil of Summer
+1 Postmortem Lunge
+1 Steam Vents
+1 Ingot Chewer
+2 Veil of Summer
+2 Postmortem Lunge
+2 Ingot Chewer
+3 Pithing Needle
+3 Ingot Chewer
+3 Postmortem Lunge
+4 Pithing Needle
+4 Postmortem Lunge
+4 Ingot Chewer
 1 Volcanic Fallout
 1 Ashen Rider
 2 Volcanic Fallout
@@ -169,12 +185,6 @@
 3 Sorcerous Spyglass
 3 Ashen Rider
 4 Ashen Rider
-1 Engineered Explosives
-1 Ethersworn Canonist
-1 Lightning Bolt
-2 Lightning Bolt
-3 Lightning Bolt
-4 Lightning Bolt
 1 Phyrexian Revoker
 1 Spatial Contortion
 1 Karn, Scion of Urza
@@ -185,6 +195,7 @@
 1 Soul-Guide Lantern
 1 Electrickery
 2 Echoing Truth
+3 Pyroblast
 4 Pyroblast
 1 Seal of Cleansing
 1 Deafening Silence
