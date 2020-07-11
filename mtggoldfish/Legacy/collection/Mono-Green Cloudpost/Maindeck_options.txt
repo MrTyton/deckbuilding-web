@@ -1,6 +1,6 @@
 1 Once Upon a Time
-2 Once Upon a Time
 2 Forest
+2 Once Upon a Time
 3 Forest
 3 Once Upon a Time
 4 Forest
@@ -11,8 +11,8 @@
 1 Pithing Needle
 1 Expedition Map
 1 Crop Rotation
-2 Pithing Needle
 2 Elvish Reclaimer
+2 Pithing Needle
 2 Crop Rotation
 2 Expedition Map
 3 Pithing Needle
@@ -38,11 +38,6 @@
 3 Primeval Titan
 2 Stonecoil Serpent
 3 Stonecoil Serpent
-1 Matter Reshaper
-2 Matter Reshaper
-3 Matter Reshaper
-4 Matter Reshaper
-4 Eldrazi Temple
 1 Glacial Chasm
 1 Ramunap Excavator
 1 Candelabra of Tawnos
@@ -54,8 +49,13 @@
 2 Candelabra of Tawnos
 3 Green Sun's Zenith
 3 Expedition Map
-4 Expedition Map
 4 Green Sun's Zenith
+4 Expedition Map
+1 Matter Reshaper
+2 Matter Reshaper
+3 Matter Reshaper
+4 Matter Reshaper
+4 Eldrazi Temple
 1 Conduit of Ruin
 1 Ulamog, the Infinite Gyre
 2 Ulamog, the Infinite Gyre

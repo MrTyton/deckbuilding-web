@@ -1,12 +1,13 @@
 3 Lightning Helix
-4 Lightning Helix
 3 Wooded Foothills
+4 Lightning Helix
+1 Seal of Fire
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
-4 Mountain
 2 Fiery Islet
-1 Soul-Scar Mage
+4 Mountain
 1 Lava Dart
+1 Soul-Scar Mage
 1 Light Up the Stage
 2 Lava Dart
 2 Soul-Scar Mage
@@ -17,21 +18,6 @@
 4 Lava Dart
 4 Soul-Scar Mage
 4 Light Up the Stage
-1 Crash Through
-1 Manamorphose
-1 Bedlam Reveler
-2 Manamorphose
-2 Crash Through
-2 Bedlam Reveler
-3 Manamorphose
-3 Bedlam Reveler
-3 Crash Through
-4 Manamorphose
-4 Crash Through
-1 Firebolt
-2 Firebolt
-1 Burst Lightning
-2 Burst Lightning
 5 Mountain
 6 Mountain
 7 Mountain
@@ -40,21 +26,39 @@
 10 Mountain
 11 Mountain
 12 Mountain
-1 Seal of Fire
+1 Crash Through
+1 Bedlam Reveler
+1 Manamorphose
+2 Manamorphose
+2 Bedlam Reveler
+2 Crash Through
+3 Manamorphose
+3 Bedlam Reveler
+3 Crash Through
+4 Manamorphose
+4 Crash Through
+13 Mountain
+1 Burst Lightning
+2 Burst Lightning
+1 Scalding Tarn
+2 Seal of Fire
 1 Kiln Fiend
 2 Kiln Fiend
-3 Kiln Fiend
-13 Mountain
 14 Mountain
-1 Scalding Tarn
+1 Firebolt
+2 Firebolt
+4 Wooded Foothills
 3 Bloodstained Mire
-2 Seal of Fire
 3 Snow-Covered Mountain
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
-3 Arid Mesa
-4 Arid Mesa
+3 Kiln Fiend
+3 Sacred Foundry
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
+4 Mishra's Bauble
 1 Vexing Devil
 2 Vexing Devil
 3 Vexing Devil
@@ -66,25 +70,27 @@
 2 Copperline Gorge
 3 Atarka's Command
 4 Atarka's Command
-3 Sacred Foundry
 3 Burst Lightning
 4 Burst Lightning
-4 Wooded Foothills
 4 Bloodstained Mire
-1 Mutagenic Growth
-2 Mutagenic Growth
+1 Grim Lavamancer
+1 Wild Slash
+2 Wild Slash
 2 Stomping Ground
 3 Copperline Gorge
+3 Arid Mesa
+4 Arid Mesa
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
 3 Fiery Islet
 4 Fiery Islet
-1 Mishra's Bauble
-2 Mishra's Bauble
-3 Mishra's Bauble
-4 Mishra's Bauble
-1 Grim Lavamancer
+1 Chandra's Incinerator
+2 Chandra's Incinerator
+3 Seal of Fire
+3 Chandra's Incinerator
+4 Seal of Fire
+4 Chandra's Incinerator
 1 Abbot of Keral Keep
 1 Bonecrusher Giant
 2 Grim Lavamancer
@@ -92,8 +98,8 @@
 2 Abbot of Keral Keep
 3 Bonecrusher Giant
 3 Grim Lavamancer
-3 Abbot of Keral Keep
 3 Firebolt
+3 Abbot of Keral Keep
 4 Grim Lavamancer
 4 Bonecrusher Giant
 4 Firebolt

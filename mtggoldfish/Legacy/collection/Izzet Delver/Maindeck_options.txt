@@ -23,12 +23,12 @@
 1 Karakas
 2 Fatal Push
 3 Young Pyromancer
-1 Badlands
 1 Mishra's Bauble
+1 Badlands
 1 Baleful Strix
 2 Mishra's Bauble
-2 Kolaghan's Command
 2 Baleful Strix
+2 Kolaghan's Command
 3 Mishra's Bauble
 4 Mishra's Bauble
 1 Sprite Dragon
@@ -41,8 +41,8 @@
 1 Spell Snare
 1 Prismatic Vista
 1 Wooded Foothills
-1 Unearth
 1 Of One Mind
+1 Unearth
 2 Of One Mind
 4 Young Pyromancer
 4 Preordain
@@ -72,33 +72,44 @@
 1 Snow-Covered Swamp
 2 Hymn to Tourach
 2 Badlands
-3 Baleful Strix
 3 Hymn to Tourach
-3 Kolaghan's Command
+3 Baleful Strix
 3 Snapcaster Mage
+3 Kolaghan's Command
 4 Baleful Strix
-1 Mystic Sanctuary
-1 Counterspell
 1 Accumulated Knowledge
+1 Counterspell
+1 Mystic Sanctuary
 2 Accumulated Knowledge
 3 Accumulated Knowledge
 4 Accumulated Knowledge
+1 Bedlam Reveler
+1 Soul-Scar Mage
+1 Vapor Snag
+1 Urza's Bauble
+2 Prismatic Vista
+2 Soul-Scar Mage
+2 Urza's Bauble
+3 Chain Lightning
+3 Urza's Bauble
+4 Chain Lightning
+4 Urza's Bauble
 1 Dark Confidant
 1 Tundra
-1 Scrubland
-1 Swords to Plowshares
-1 Marsh Flats
 1 Meddling Mage
+1 Scrubland
+1 Marsh Flats
+1 Swords to Plowshares
 2 Dark Confidant
 2 Tundra
 2 Meddling Mage
 2 Swords to Plowshares
 3 Dark Confidant
-3 Swords to Plowshares
-3 Thoughtseize
+3 Meddling Mage
 3 Tundra
 3 Force of Negation
-3 Meddling Mage
+3 Thoughtseize
+3 Swords to Plowshares
 4 Dark Confidant
 4 Swords to Plowshares
 1 Mishra's Factory
@@ -119,17 +130,6 @@
 4 Island
 4 Phyrexian Dreadnought
 4 Standstill
-1 Soul-Scar Mage
-1 Urza's Bauble
-1 Vapor Snag
-1 Bedlam Reveler
-2 Soul-Scar Mage
-2 Urza's Bauble
-2 Prismatic Vista
-3 Urza's Bauble
-3 Chain Lightning
-4 Urza's Bauble
-4 Chain Lightning
 1 Gut Shot
 1 Stormchaser Mage
 2 Fiery Islet

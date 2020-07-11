@@ -2,18 +2,14 @@
 2 Verdant Catacombs
 1 Blossoming Defense
 2 Plains
-1 Nurturing Peatland
-4 Horizon Canopy
 4 Wooded Foothills
-3 Noble Hierarch
-2 Chord of Calling
 1 Snow-Covered Forest
 1 Snow-Covered Plains
+1 Snow-Covered Mountain
 1 Sacred Foundry
 1 Seasoned Pyromancer
 1 Stomping Ground
 1 Eldritch Evolution
-1 Snow-Covered Mountain
 2 Seasoned Pyromancer
 2 Stomping Ground
 2 Eldritch Evolution
@@ -38,8 +34,8 @@
 1 Arcum's Astrolabe
 2 Prismatic Vista
 2 Arcum's Astrolabe
-3 Prismatic Vista
 3 Arcum's Astrolabe
+3 Prismatic Vista
 4 Arcum's Astrolabe
 1 Spike Feeder
 1 Heliod, Sun-Crowned
@@ -61,6 +57,7 @@
 3 Winota, Joiner of Forces
 4 Winota, Joiner of Forces
 1 Abundant Growth
+1 Agent of Treachery
 1 Coiling Oracle
 1 Arboreal Grazer
 1 Ice-Fang Coatl
@@ -68,37 +65,37 @@
 1 Dryad Arbor
 1 Blade Splicer
 1 Snow-Covered Island
-1 Agent of Treachery
 1 Pia Nalaar
 1 Wrenn and Six
 1 Colossification
 1 Sakura-Tribe Scout
 1 Auratouched Mage
 2 Abundant Growth
+2 Arboreal Grazer
+2 Agent of Treachery
 2 Coiling Oracle
 2 Snow-Covered Island
 2 Wrenn and Six
 2 Ice-Fang Coatl
 2 Sakura-Tribe Scout
-2 Arboreal Grazer
 2 Colossification
 2 Auratouched Mage
-2 Agent of Treachery
-3 Sakura-Tribe Scout
-3 Wrenn and Six
 3 Abundant Growth
+3 Wrenn and Six
+3 Arboreal Grazer
 3 Coiling Oracle
 3 Agent of Treachery
-3 Arboreal Grazer
-4 Sakura-Tribe Scout
+3 Sakura-Tribe Scout
 4 Abundant Growth
-4 Wrenn and Six
-4 Prismatic Vista
 4 Arboreal Grazer
+4 Prismatic Vista
+4 Wrenn and Six
 4 Coiling Oracle
+4 Sakura-Tribe Scout
 4 Agent of Treachery
 1 Savai Triome
 1 Restoration Angel
+1 Eidolon of Rhetoric
 1 Grove of the Burnwillows
 1 Kiki-Jiki, Mirror Breaker
 1 Linvala, Keeper of Silence
@@ -107,10 +104,10 @@
 1 Eternal Witness
 1 Stoneforge Mystic
 1 Gilded Goose
-1 Eidolon of Rhetoric
 1 Scavenging Ooze
 1 Path to Exile
 2 Restoration Angel
+2 Chord of Calling
 2 Path to Exile
 2 Arid Mesa
 2 Eternal Witness
@@ -123,20 +120,19 @@
 3 Stoneforge Mystic
 4 Chord of Calling
 4 Restoration Angel
-4 Stoneforge Mystic
 4 Path to Exile
+4 Stoneforge Mystic
 5 Snow-Covered Forest
+1 Nurturing Peatland
 1 Nihil Spellbomb
 2 Nihil Spellbomb
 3 Nihil Spellbomb
-2 Walking Ballista
-4 Noble Hierarch
 1 Godless Shrine
 1 Gavony Township
-1 Carrion Feeder
 1 Collected Company
 1 Kitchen Finks
 1 Flooded Strand
+1 Carrion Feeder
 2 Spike Feeder
 2 Collected Company
 2 Heliod, Sun-Crowned
@@ -144,12 +140,14 @@
 2 Ranger-Captain of Eos
 3 Verdant Catacombs
 3 Kitchen Finks
+3 Noble Hierarch
 3 Collected Company
 3 Heliod, Sun-Crowned
 3 Ranger-Captain of Eos
 4 Verdant Catacombs
 4 Collected Company
 4 Ranger-Captain of Eos
+4 Horizon Canopy
 1 Karn, the Great Creator
 1 Uro, Titan of Nature's Wrath
 1 Oath of Nissa
@@ -172,9 +170,9 @@
 2 Angrath's Marauders
 2 Lightning Bolt
 2 Strangleroot Geist
-3 Lightning Bolt
 3 Copperline Gorge
 3 Stomping Ground
+3 Lightning Bolt
 3 Angrath's Marauders
 3 Strangleroot Geist
 4 Lightning Bolt

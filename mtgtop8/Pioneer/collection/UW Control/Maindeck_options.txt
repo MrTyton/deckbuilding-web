@@ -3,6 +3,9 @@
 4 Fabled Passage
 1 Geier Reach Sanitarium
 1 Dovin's Veto
+1 Censor
+2 Censor
+3 Censor
 1 Omen of the Sun
 2 Omen of the Sun
 1 Essence Scatter
@@ -10,31 +13,28 @@
 4 Teferi, Time Raveler
 4 Baffling End
 2 Gideon of the Trials
+5 Island
 6 Plains
-1 Censor
-2 Censor
-3 Censor
 1 Opt
 2 Opt
 3 Opt
 4 Opt
 1 Fumigate
-5 Island
+1 Cast Out
 1 The Birth of Meletis
 2 The Birth of Meletis
 3 The Birth of Meletis
-1 Cast Out
+4 Censor
 2 Essence Scatter
 1 Prairie Stream
-4 Censor
 6 Island
 1 Dig Through Time
 2 Dig Through Time
 3 Castle Ardenvale
 1 Elspeth, Sun's Nemesis
 1 Chemister's Insight
-1 Commit / Memory
 1 Dream Trawler
+1 Commit / Memory
 2 Prairie Stream
 2 Dream Trawler
 1 Jace, Architect of Thought
@@ -42,16 +42,18 @@
 4 The Birth of Meletis
 2 Dovin's Veto
 1 Seal Away
-2 Chemister's Insight
 2 Seal Away
-3 Essence Scatter
-7 Island
 4 Shark Typhoon
 2 Cast Out
+2 Chemister's Insight
+3 Essence Scatter
+7 Island
 3 Dig Through Time
+3 Cast Out
 1 Sinister Sabotage
 2 Sinister Sabotage
 3 Sinister Sabotage
+1 Neutralize
 1 Settle the Wreckage
 1 Interplanar Beacon
 2 Elspeth, Sun's Nemesis
@@ -59,10 +61,9 @@
 3 Gideon of the Trials
 1 Disallow
 1 Yorion, Sky Nomad
-3 Omen of the Sun
 3 Field of Ruin
+3 Omen of the Sun
 3 Dovin's Veto
-3 Cast Out
 4 Omen of the Sun
 4 Field of Ruin
 1 Sphinx's Revelation
@@ -83,34 +84,34 @@
 1 Charming Prince
 1 Thraben Inspector
 1 Archon of Sun's Grace
-1 Temple of Enlightenment
 1 Reflector Mage
 1 Karn, the Great Creator
 1 Heliod, Sun-Crowned
-1 Walking Ballista
-1 Stasis Snare
 1 Silkwrap
+1 Walking Ballista
+1 Temple of Enlightenment
+1 Stasis Snare
 2 Charming Prince
-2 Thraben Inspector
-2 Archon of Sun's Grace
 2 Temple of Enlightenment
+2 Thraben Inspector
 2 Reflector Mage
+2 Archon of Sun's Grace
 2 Walking Ballista
-2 Karn, the Great Creator
 2 Heliod, Sun-Crowned
+2 Karn, the Great Creator
 2 Silkwrap
 2 Stasis Snare
 3 Charming Prince
-3 Thraben Inspector
 3 Temple of Enlightenment
+3 Thraben Inspector
 3 Reflector Mage
 3 Walking Ballista
 3 Heliod, Sun-Crowned
 3 Silkwrap
 3 Karn, the Great Creator
 4 Charming Prince
-4 Thraben Inspector
 4 Temple of Enlightenment
+4 Thraben Inspector
 4 Reflector Mage
 4 Karn, the Great Creator
 4 Silkwrap
@@ -123,9 +124,24 @@
 13 Plains
 14 Plains
 15 Plains
+1 Horribly Awry
+2 Horribly Awry
 1 Blast Zone
 1 Gideon, Ally of Zendikar
 4 Sinister Sabotage
-1 Horribly Awry
-2 Horribly Awry
-1 Neutralize
+1 Teferi, Master of Time
+1 Hieroglyphic Illumination
+1 Abandoned Sarcophagus
+1 Drake Haven
+2 Teferi, Master of Time
+2 Hieroglyphic Illumination
+2 Neutralize
+2 Drake Haven
+3 Neutralize
+3 Hieroglyphic Illumination
+3 Drake Haven
+4 Neutralize
+4 Hieroglyphic Illumination
+4 Cast Out
+4 Seal Away
+3 Seal Away

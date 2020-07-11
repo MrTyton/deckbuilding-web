@@ -1,49 +1,57 @@
 1 Damping Sphere
 2 Damping Sphere
 3 Damping Sphere
+1 Assassin's Trophy
 1 Thoughtseize
+2 Assassin's Trophy
 2 Thoughtseize
 3 Thoughtseize
+1 Fatal Push
+2 Fatal Push
 4 Thoughtseize
-1 Assassin's Trophy
-2 Assassin's Trophy
+1 Abrupt Decay
+2 Abrupt Decay
 1 Mystical Dispute
 2 Mystical Dispute
 3 Mystical Dispute
-1 Gideon of the Trials
-2 Gideon of the Trials
-1 Dovin's Veto
-1 Fatal Push
-2 Fatal Push
-1 Abrupt Decay
-2 Abrupt Decay
-2 Dovin's Veto
-1 Rest in Peace
+1 Aether Gust
+2 Aether Gust
+1 Nightpack Ambusher
+1 Jace's Defeat
+2 Nightpack Ambusher
+1 Scavenging Ooze
+1 Jolrael, Mwonvuli Recluse
+1 Wilt
+2 Wilt
+2 Jolrael, Mwonvuli Recluse
+2 Scavenging Ooze
+3 Jolrael, Mwonvuli Recluse
 3 Fatal Push
 4 Fatal Push
-1 Unmoored Ego
-1 Reclamation Sage
-2 Reclamation Sage
-1 Yorion, Sky Nomad
+1 Dovin's Veto
+2 Dovin's Veto
 1 Ashiok, Dream Render
 1 Ashiok's Erasure
 1 Davriel, Rogue Shadowmage
+1 Unmoored Ego
 1 Moment of Craving
 1 Cleansing Nova
+1 Yorion, Sky Nomad
 2 Unmoored Ego
-2 Rest in Peace
-3 Gideon of the Trials
+1 Reclamation Sage
+2 Reclamation Sage
+1 Gideon of the Trials
+2 Gideon of the Trials
 1 Fry
 2 Fry
-1 Aether Gust
-2 Aether Gust
-3 Rest in Peace
 1 Anger of the Gods
 2 Anger of the Gods
 3 Anger of the Gods
-1 Kalitas, Traitor of Ghet
-1 Agonizing Remorse
+1 Rest in Peace
+2 Rest in Peace
+3 Rest in Peace
 1 Devout Decree
+1 Agonizing Remorse
 1 Heartless Act
 2 Heartless Act
 1 Elspeth Conquers Death
@@ -51,7 +59,6 @@
 1 Glare of Heresy
 1 Blessed Alliance
 2 Blessed Alliance
-1 Healing Grace
 1 Walking Ballista
 1 Leyline of Sanctity
 1 Sorcerous Spyglass
@@ -59,21 +66,21 @@
 1 Stonecoil Serpent
 1 Godsend
 1 Perilous Vault
-1 Jace's Defeat
 1 Noxious Gearhulk
-2 Agonizing Remorse
+1 Kaya, Orzhov Usurper
 1 Anguished Unmaking
 1 Kunoros, Hound of Athreos
-1 Kaya, Orzhov Usurper
 1 Arguel's Blood Fast
+1 Kalitas, Traitor of Ghet
 1 The Elderspell
+2 Agonizing Remorse
 2 Kalitas, Traitor of Ghet
 1 Dream Trawler
 1 Settle the Wreckage
 1 Zirda, the Dawnwaker
 2 Settle the Wreckage
-2 Glare of Heresy
 2 Dream Trawler
+2 Glare of Heresy
 1 Back to Nature
 1 Blightbeetle
 1 Infinite Obliteration
@@ -81,26 +88,8 @@
 2 Blightbeetle
 1 Negate
 1 Magma Spray
-1 Nightpack Ambusher
 2 Magma Spray
 2 Negate
-1 Tireless Tracker
-1 Glass Casket
-1 Scavenging Ooze
-1 Questing Beast
-1 Gonti, Lord of Luxury
-1 Knight of Autumn
-1 Mythos of Nethroi
-2 Gonti, Lord of Luxury
-2 Mythos of Nethroi
-1 Isolate
-1 Wear/Tear
-1 Feather, the Redeemed
-1 Ordeal of Heliod
-1 Erase
-2 Isolate
-2 Erase
-2 Ordeal of Heliod
 1 Thrashing Brontodon
 1 Savage Summoning
 2 Savage Summoning
@@ -109,17 +98,18 @@
 1 Ixalan's Binding
 2 Tomik, Distinguished Advokist
 2 Deicide
-1 Baffling End
-1 Forsake the Worldly
-2 Baffling End
-2 Forsake the Worldly
-3 Baffling End
 1 Driven/Despair
 1 Distended Mindbender
 2 Distended Mindbender
 2 Driven/Despair
 3 Assassin's Trophy
 3 Unmoored Ego
+1 Baffling End
+1 Forsake the Worldly
+2 Baffling End
+2 Forsake the Worldly
+3 Baffling End
+3 Gideon of the Trials
 1 Pack Rat
 1 Angrath's Rampage
 1 Necromentia
@@ -130,23 +120,27 @@
 1 Goblin Chainwhirler
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
+1 Rampaging Ferocidon
+1 Tormod's Crypt
+2 Rampaging Ferocidon
+2 Tormod's Crypt
+1 Roast
+1 Searing Blood
+1 Abrade
+1 Icon of Ancestry
+2 Searing Blood
+2 Abrade
+2 Icon of Ancestry
+3 Searing Blood
+4 Searing Blood
 1 Hazoret the Fervent
 1 Kari Zev's Expertise
 1 Alpine Moon
-1 Rampaging Ferocidon
-1 Tormod's Crypt
 2 Kari Zev's Expertise
 2 Alpine Moon
-2 Tormod's Crypt
-2 Rampaging Ferocidon
 3 Rampaging Ferocidon
 4 Goblin Chainwhirler
 4 Rampaging Ferocidon
-1 Valiant Rescuer
-2 Valiant Rescuer
-2 Devout Decree
-3 Valiant Rescuer
-4 Mystical Dispute
 1 Mizzium Mortars
 1 Chandra, Awakened Inferno
 2 Chandra, Awakened Inferno
@@ -162,13 +156,15 @@
 3 Gideon's Intervention
 4 Seal Away
 4 Gideon's Intervention
-1 Legion's End
-1 Gyruda, Doom of Depths
-1 Blink of an Eye
-2 Legion's End
-2 Blink of an Eye
-3 Agonizing Remorse
-3 Legion's End
-3 Blink of an Eye
-4 Damping Sphere
-4 Blink of an Eye
+1 Valiant Rescuer
+2 Valiant Rescuer
+2 Devout Decree
+3 Valiant Rescuer
+4 Mystical Dispute
+2 Jace's Defeat
+3 Aether Gust
+3 Nightpack Ambusher
+3 Jace's Defeat
+4 Aether Gust
+4 Nightpack Ambusher
+4 Jace's Defeat

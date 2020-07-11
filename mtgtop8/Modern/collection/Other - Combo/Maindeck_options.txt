@@ -6,17 +6,17 @@
 2 Island
 2 Sylvan Scrying
 2 Merchant Scroll
-3 Sleight of Hand
 3 Polluted Delta
+3 Sleight of Hand
 3 Island
 4 Sleight of Hand
 4 Island
 1 Forest
 1 Pentad Prism
-1 Mishra's Bauble
 1 Song of Creation
-1 Stomping Ground
 1 Noxious Revival
+1 Stomping Ground
+1 Mishra's Bauble
 1 Memnite
 1 Mana Confluence
 1 Engineered Explosives
@@ -31,19 +31,19 @@
 1 Misty Rainforest
 1 Shimmer of Possibility
 2 Pentad Prism
-2 Mishra's Bauble
-2 Song of Creation
 2 Noxious Revival
+2 Mishra's Bauble
 2 Stomping Ground
 2 Mana Confluence
 2 Memnite
+2 Song of Creation
 2 Engineered Explosives
 2 Wild Cantor
 2 Shimmer of Possibility
 2 Simian Spirit Guide
 2 Pact of Negation
-3 Mishra's Bauble
 3 Steam Vents
+3 Mishra's Bauble
 3 Mana Confluence
 3 Song of Creation
 3 Engineered Explosives
@@ -63,10 +63,10 @@
 4 Simian Spirit Guide
 4 Wild Cantor
 1 River of Tears
-1 Inquisition of Kozilek
 1 Darkslick Shores
 1 Remand
 1 Opt
+1 Inquisition of Kozilek
 1 Omen of the Sea
 1 Relic of Progenitus
 1 Thassa's Oracle
@@ -78,11 +78,11 @@
 1 Eldrazi Temple
 1 Jace, Wielder of Mysteries
 1 Shelldock Isle
-2 Inquisition of Kozilek
 2 Darkslick Shores
 2 Remand
 2 River of Tears
 2 Shelldock Isle
+2 Inquisition of Kozilek
 2 Opt
 2 Thoughtseize
 2 Omen of the Sea
@@ -119,7 +119,6 @@
 4 Inverter of Truth
 1 Windswept Heath
 1 Temple Garden
-1 Stoneforge Mystic
 1 Horizon Canopy
 1 Elvish Archdruid
 1 Ezuri, Renegade Leader
@@ -134,16 +133,17 @@
 1 Devoted Druid
 1 Collected Company
 1 Marwyn, the Nurturer
+1 Stoneforge Mystic
 1 Beastcaller Savant
 2 Windswept Heath
-2 Forest
-2 Elvish Archdruid
 2 Elvish Mystic
 2 Heritage Druid
+2 Ezuri, Renegade Leader
+2 Forest
+2 Elvish Archdruid
 2 Llanowar Elves
 2 Leyline of Abundance
 2 Marwyn, the Nurturer
-2 Ezuri, Renegade Leader
 2 Devoted Druid
 2 Temple Garden
 2 Umbral Mantle

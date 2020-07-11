@@ -11,10 +11,10 @@
 1 Prismatic Vista
 2 Prismatic Vista
 2 Scalding Tarn
-1 Ketria Triome
 1 Raugrin Triome
 1 Lightning Bolt
 1 Wrenn and Six
+1 Ketria Triome
 2 Lightning Bolt
 2 Wrenn and Six
 1 Steam Vents
@@ -47,33 +47,33 @@
 1 Jolrael, Mwonvuli Recluse
 3 Teferi, Time Raveler
 1 Spell Snare
-1 Brazen Borrower
-1 Stoneforge Mystic
-1 Batterskull
 1 Spell Queller
+1 Batterskull
 1 Sword of Fire and Ice
-2 Stoneforge Mystic
+1 Stoneforge Mystic
+1 Brazen Borrower
 2 Spell Queller
+2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-1 Engineered Explosives
-1 Metallic Rebuke
 1 Emry, Lurker of the Loch
 1 Urza, Lord High Artificer
-1 Gilded Goose
 1 Mishra's Bauble
+1 Gilded Goose
+1 Engineered Explosives
+1 Metallic Rebuke
 2 Gilded Goose
 2 Emry, Lurker of the Loch
-2 Metallic Rebuke
 2 Urza, Lord High Artificer
 2 Mishra's Bauble
+2 Metallic Rebuke
 3 Gilded Goose
-3 Mishra's Bauble
 3 Emry, Lurker of the Loch
 3 Urza, Lord High Artificer
+3 Mishra's Bauble
+4 Gilded Goose
 4 Urza, Lord High Artificer
 4 Emry, Lurker of the Loch
-4 Gilded Goose
 4 Mishra's Bauble
 1 Time Warp
 1 Hour of Promise
@@ -88,8 +88,8 @@
 2 Jolrael, Mwonvuli Recluse
 1 Noble Hierarch
 1 Botanical Sanctum
-2 Brazen Borrower
 2 Noble Hierarch
+2 Brazen Borrower
 2 Botanical Sanctum
 3 Noble Hierarch
 3 Snow-Covered Forest
@@ -98,15 +98,15 @@
 4 Noble Hierarch
 4 Botanical Sanctum
 4 Spell Queller
-1 Aether Spellbomb
-1 Pyrite Spellbomb
 1 Galvanic Blast
+1 Pyrite Spellbomb
+1 Aether Spellbomb
 2 Galvanic Blast
 3 Scalding Tarn
 3 Metallic Rebuke
 4 Scalding Tarn
-1 Sword of Feast and Famine
 1 Spellstutter Sprite
+1 Sword of Feast and Famine
 1 Mutavault
 2 Spellstutter Sprite
 1 Growth Spiral
@@ -119,22 +119,22 @@
 4 Abundant Growth
 7 Snow-Covered Island
 1 Snow-Covered Swamp
-1 Fatal Push
 1 Abrupt Decay
 1 Zagoth Triome
 1 Overgrown Tomb
+1 Fatal Push
 1 Watery Grave
 1 Nihil Spellbomb
 2 Engineered Explosives
-2 Nihil Spellbomb
 2 Abrupt Decay
 2 Fatal Push
-3 Nihil Spellbomb
-3 Engineered Explosives
-3 Polluted Delta
+2 Nihil Spellbomb
 3 Fatal Push
-4 Fatal Push
+3 Engineered Explosives
+3 Nihil Spellbomb
+3 Polluted Delta
 4 Cryptic Command
+4 Fatal Push
 4 Nihil Spellbomb
 4 Engineered Explosives
 4 Archmage's Charm

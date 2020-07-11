@@ -26,10 +26,10 @@
 1 Flicker of Fate
 1 Treacherous Blessing
 1 Doom Foretold
-1 Isolated Chapel
-1 Godless Shrine
 1 Trial of Ambition
 1 Urborg, Tomb of Yawgmoth
+1 Godless Shrine
+1 Isolated Chapel
 1 Oath of Kaya
 2 Flicker of Fate
 2 Treacherous Blessing
@@ -63,27 +63,27 @@
 3 Demonic Pact
 3 Oath of Kaya
 4 Shambling Vent
+1 Island
 4 Treacherous Blessing
 1 Caves of Koilos
 2 Caves of Koilos
 4 Flicker of Fate
-1 Island
 2 Fabled Passage
 3 Fabled Passage
 1 Mountain
 4 Fabled Passage
-1 Nahiri, the Harbinger
 1 Sweltering Suns
-1 Chained to the Rocks
 2 Sweltering Suns
+3 Sweltering Suns
+4 Steam Vents
+1 Nahiri, the Harbinger
+1 Chained to the Rocks
 2 Nahiri, the Harbinger
 2 Chained to the Rocks
 3 Sacred Foundry
 3 Agent of Treachery
-3 Sweltering Suns
 3 Chained to the Rocks
 4 Sacred Foundry
-4 Steam Vents
 4 Gideon of the Trials
 4 Sweltering Suns
 4 Chained to the Rocks
@@ -117,103 +117,123 @@
 2 Censor
 3 Censor
 4 Censor
+1 Castle Vantress
+1 Shark Typhoon
+2 Shark Typhoon
+3 Shark Typhoon
+4 Shark Typhoon
+1 Growth Spiral
+1 Wilderness Reclamation
+1 Blast Zone
+1 Breeding Pool
+1 Uro, Titan of Nature's Wrath
+1 Forest
+2 Growth Spiral
+2 Wilderness Reclamation
+2 Blast Zone
+2 Castle Vantress
+2 Forest
+2 Breeding Pool
+2 Uro, Titan of Nature's Wrath
+3 Breeding Pool
+3 Growth Spiral
+3 Wilderness Reclamation
+3 Uro, Titan of Nature's Wrath
+4 Growth Spiral
+4 Wilderness Reclamation
+4 Breeding Pool
+1 Neutralize
+2 Neutralize
+3 Island
+1 Opt
+2 Opt
 1 Final Payment
 1 Yorion, Sky Nomad
 2 Yorion, Sky Nomad
 2 Final Payment
-1 Neutralize
-1 Castle Vantress
-1 Shark Typhoon
-2 Neutralize
-2 Shark Typhoon
-3 Shark Typhoon
-3 Island
 1 Cast Out
-1 Nimble Obstructionist
 1 Zenith Flare
-1 Hieroglyphic Illumination
+1 Nimble Obstructionist
 1 Flourishing Fox
+1 Hieroglyphic Illumination
 2 Cast Out
-2 Nimble Obstructionist
 2 Flourishing Fox
-2 Hieroglyphic Illumination
+2 Nimble Obstructionist
 2 Zenith Flare
-3 Hieroglyphic Illumination
-3 Neutralize
+2 Hieroglyphic Illumination
 3 Cast Out
+3 Neutralize
 3 Zenith Flare
 3 Flourishing Fox
-4 Hieroglyphic Illumination
-4 Shark Typhoon
+3 Hieroglyphic Illumination
 4 Neutralize
 4 Flourishing Fox
 4 Zenith Flare
 4 Cast Out
+4 Hieroglyphic Illumination
 4 Sulfur Falls
+1 Ketria Triome
+1 Stomping Ground
+1 Pull from Tomorrow
+1 Expansion / Explosion
+1 Bonecrusher Giant
+1 Mystical Dispute
+1 Negate
+2 Stomping Ground
+2 Pull from Tomorrow
+2 Ketria Triome
+2 Expansion / Explosion
+2 Bonecrusher Giant
+3 Castle Vantress
+3 Stomping Ground
+3 Pull from Tomorrow
+3 Ketria Triome
+3 Expansion / Explosion
+4 Ketria Triome
+4 Pull from Tomorrow
+4 Expansion / Explosion
 1 Heliod, Sun-Crowned
 1 Shatter the Sky
 1 Arcanist's Owl
 1 Walking Ballista
-2 Heliod, Sun-Crowned
 2 Shatter the Sky
+2 Heliod, Sun-Crowned
 2 Walking Ballista
 2 Arcanist's Owl
 3 Heliod, Sun-Crowned
 3 Walking Ballista
 4 Heliod, Sun-Crowned
 4 Walking Ballista
-1 Opt
-2 Opt
 1 Dig Through Time
-1 Sinister Sabotage
-1 Blast Zone
-1 Growth Spiral
+1 Hinterland Harbor
+1 Temple of Mystery
 1 Torrential Gearhulk
 1 Lumbering Falls
 1 Sublime Epiphany
-1 Hinterland Harbor
-1 Uro, Titan of Nature's Wrath
-1 Teferi, Master of Time
 1 Brazen Borrower
-1 Forest
-1 Breeding Pool
-1 Wilderness Reclamation
-1 Temple of Mystery
+1 Sinister Sabotage
+1 Teferi, Master of Time
 2 Dig Through Time
-2 Sinister Sabotage
-2 Blast Zone
-2 Growth Spiral
-2 Lumbering Falls
-2 Hinterland Harbor
-2 Teferi, Master of Time
-2 Forest
-2 Castle Vantress
-2 Uro, Titan of Nature's Wrath
-2 Brazen Borrower
-2 Sublime Epiphany
 2 Temple of Mystery
+2 Hinterland Harbor
+2 Sublime Epiphany
 2 Torrential Gearhulk
-2 Breeding Pool
-2 Wilderness Reclamation
-3 Breeding Pool
-3 Uro, Titan of Nature's Wrath
-3 Wilderness Reclamation
+2 Brazen Borrower
+2 Lumbering Falls
+2 Sinister Sabotage
+2 Teferi, Master of Time
 3 Temple of Mystery
-3 Growth Spiral
 3 Hinterland Harbor
-4 Breeding Pool
-4 Wilderness Reclamation
 4 Island
-4 Growth Spiral
 5 Island
 1 Nicol Bolas, the Ravager
 1 Drown in the Loch
 1 Tyrant's Scorn
 1 Blood Crypt
 1 Nicol Bolas, Dragon-God
+1 Dreadbore
 1 Dragonskull Summit
 1 Watery Grave
-1 Dreadbore
 1 Drowned Catacomb
 2 Dreadbore
 2 Drown in the Loch
@@ -235,10 +255,10 @@
 3 Nicol Bolas, the Ravager
 3 Drowned Catacomb
 4 Opt
+4 Tyrant's Scorn
 4 Fatal Push
 4 Drown in the Loch
 4 Dreadbore
-4 Tyrant's Scorn
 4 Nicol Bolas, Dragon-God
 4 Watery Grave
 4 Nicol Bolas, the Ravager

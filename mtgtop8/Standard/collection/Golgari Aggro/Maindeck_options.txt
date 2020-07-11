@@ -4,8 +4,8 @@
 2 Lovestruck Beast
 3 Lovestruck Beast
 3 Murderous Rider
-4 Lovestruck Beast
 4 Murderous Rider
+4 Lovestruck Beast
 5 Forest
 6 Forest
 7 Forest
@@ -15,8 +15,8 @@
 1 Paradise Druid
 1 Foulmire Knight
 1 The Great Henge
-1 Jolrael, Mwonvuli Recluse
 1 Order of Midnight
+1 Jolrael, Mwonvuli Recluse
 1 Village Rites
 1 Rotting Regisaur
 1 Edgewall Innkeeper
@@ -42,67 +42,65 @@
 8 Swamp
 1 Heartless Act
 1 Brineborn Cutthroat
-1 Pollywog Symbiote
 1 Pouncing Shoreshark
+1 Pollywog Symbiote
 1 Sea-Dasher Octopus
 1 Brazen Borrower
-1 Dirge Bat
 1 Stonecoil Serpent
 1 Watery Grave
 1 Island
+1 Dirge Bat
 1 Temple of Deceit
 1 Insatiable Hemophage
 2 Island
 2 Heartless Act
 2 Brineborn Cutthroat
-2 Pollywog Symbiote
 2 Pouncing Shoreshark
+2 Pollywog Symbiote
 2 Sea-Dasher Octopus
 2 Brazen Borrower
-2 Dirge Bat
 2 Stonecoil Serpent
+2 Dirge Bat
 2 Watery Grave
 2 Insatiable Hemophage
 3 Stonecoil Serpent
 3 Pollywog Symbiote
 3 Brineborn Cutthroat
 3 Pouncing Shoreshark
-3 Island
 3 Brazen Borrower
+3 Island
 3 Sea-Dasher Octopus
-3 Dirge Bat
 3 Insatiable Hemophage
+3 Dirge Bat
 3 Watery Grave
 4 Pollywog Symbiote
 4 Pouncing Shoreshark
 4 Island
 4 Brineborn Cutthroat
-4 Sea-Dasher Octopus
 4 Stonecoil Serpent
 4 Insatiable Hemophage
 4 Watery Grave
+4 Sea-Dasher Octopus
 5 Island
 6 Island
 7 Island
 8 Island
 9 Island
-1 Deathless Knight
 1 Kogla, the Titan Ape
 1 Incubation Druid
-1 Syr Konrad, the Grim
 1 Questing Beast
-1 Nightmare Shepherd
 1 Voracious Hydra
 1 Arboreal Grazer
 1 Gnarlback Rhino
 1 Garenbrig Paladin
 1 Oakhame Adversary
 1 Fierce Witchstalker
+1 Nightmare Shepherd
 1 Jungle Hollow
+1 Syr Konrad, the Grim
+1 Deathless Knight
 1 Renata, Called to the Hunt
-2 Deathless Knight
 2 Incubation Druid
-2 Syr Konrad, the Grim
 2 Questing Beast
 2 Voracious Hydra
 2 Kogla, the Titan Ape
@@ -111,6 +109,8 @@
 2 Garenbrig Paladin
 2 Fierce Witchstalker
 2 Gnarlback Rhino
+2 Deathless Knight
+2 Syr Konrad, the Grim
 2 Arboreal Grazer
 2 Nightmare Shepherd
 3 Arboreal Grazer

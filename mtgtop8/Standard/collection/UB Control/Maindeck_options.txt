@@ -1,15 +1,10 @@
-8 Island
 1 Quench
 2 Quench
 4 Negate
-4 Dimir Guildgate
-1 Didn't Say Please
-2 Didn't Say Please
-3 Didn't Say Please
-4 Chemister's Insight
-4 Essence Scatter
+8 Island
 1 Thirst for Meaning
 2 Thirst for Meaning
+4 Dimir Guildgate
 2 Ashiok, Dream Render
 1 Tyrant's Scorn
 2 Sinister Sabotage
@@ -22,12 +17,15 @@
 2 Kasmina, Enigmatic Mentor
 2 Ominous Seas
 1 Extinction Event
-4 Narset, Parter of Veils
 1 Mire's Grasp
 2 Mire's Grasp
 3 Thirst for Meaning
 3 Mire's Grasp
-4 Didn't Say Please
+4 Essence Scatter
+1 Didn't Say Please
+2 Didn't Say Please
+3 Didn't Say Please
+4 Chemister's Insight
 9 Island
 2 Tyrant's Scorn
 3 Tyrant's Scorn
@@ -45,15 +43,6 @@
 2 Temple of Deceit
 3 Watery Grave
 4 Watery Grave
-1 Elspeth's Nightmare
-1 God-Eternal Kefnet
-1 Ugin, the Spirit Dragon
-1 Opt
-1 Eliminate
-1 Grasp of Darkness
-2 Opt
-2 Eliminate
-2 Grasp of Darkness
 1 Murderous Rider
 1 Disdainful Stroke
 2 Murderous Rider
@@ -69,6 +58,16 @@
 4 Mire's Grasp
 4 Neutralize
 4 Thirst for Meaning
+1 Ugin, the Spirit Dragon
+1 Opt
+1 Eliminate
+1 Grasp of Darkness
+2 Opt
+2 Eliminate
+2 Grasp of Darkness
+4 Didn't Say Please
+1 God-Eternal Kefnet
+4 Narset, Parter of Veils
 1 Blast Zone
 1 Zagoth Triome
 1 Easy Prey
@@ -84,26 +83,26 @@
 2 Castle Locthwain
 3 Shark Typhoon
 3 Brazen Borrower
-3 Zagoth Triome
 3 Castle Vantress
+3 Zagoth Triome
 3 Easy Prey
 3 Castle Locthwain
 4 Shark Typhoon
 4 Brazen Borrower
 4 Zagoth Triome
-4 Easy Prey
 4 Sinister Sabotage
+4 Easy Prey
 4 Thought Erasure
 1 Witching Well
 1 Drown in the Loch
-1 Ob Nixilis's Cruelty
 1 Duress
 1 Pharika's Libation
 1 Thought Collapse
+1 Ob Nixilis's Cruelty
 1 Saheeli, Sublime Artificer
-2 Ob Nixilis's Cruelty
 2 Drown in the Loch
 2 Duress
+2 Ob Nixilis's Cruelty
 2 Witching Well
 2 Thought Collapse
 3 Thought Collapse

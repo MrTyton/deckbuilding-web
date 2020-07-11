@@ -115,8 +115,8 @@
 1 Pillage
 1 Relic of Progenitus
 2 Pillage
-3 Pillage
 3 Windswept Heath
+3 Pillage
 4 Windswept Heath
 1 Of One Mind
 1 Young Pyromancer
@@ -158,9 +158,9 @@
 2 Hateful Eidolon
 2 Flooded Strand
 2 Dead Weight
-2 Rattlechains
 2 Tallowisp
 2 Island
+2 Rattlechains
 2 Remand
 2 Mausoleum Wanderer
 2 Seachrome Coast
@@ -170,9 +170,9 @@
 3 Curious Obsession
 3 Hateful Eidolon
 3 Force of Negation
-3 Rattlechains
 3 Dead Weight
 3 Supreme Phantom
+3 Rattlechains
 3 Flooded Strand
 3 Spell Queller
 3 Tallowisp
@@ -185,17 +185,17 @@
 1 Arid Mesa
 2 Kiln Fiend
 4 Mountain
-1 Vantress Gargoyle
 1 Into the Story
+1 Vantress Gargoyle
 1 Thieves' Guild Enforcer
 1 Mystic Sanctuary
 1 Brazen Borrower
 2 Drown in the Loch
 2 Vantress Gargoyle
 2 Thieves' Guild Enforcer
-3 Watery Grave
-3 Thieves' Guild Enforcer
 3 Vantress Gargoyle
+3 Thieves' Guild Enforcer
+3 Watery Grave
 3 Drown in the Loch
 4 Thieves' Guild Enforcer
 4 Drown in the Loch
@@ -208,6 +208,7 @@
 4 Blood Crypt
 4 Light Up the Stage
 1 Shadowspear
+1 Spellskite
 1 Stoneforge Mystic
 1 Magnetic Theft
 1 Giver of Runes
@@ -217,7 +218,6 @@
 1 Steelshaper's Gift
 1 Kor Outfitter
 1 Colossus Hammer
-1 Spellskite
 1 Apostle's Blessing
 1 Inspiring Vantage
 2 Sacred Foundry

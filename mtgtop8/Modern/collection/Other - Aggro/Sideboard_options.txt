@@ -21,18 +21,9 @@
 1 Flame Slash
 1 Plague Engineer
 2 Plague Engineer
-1 Magus of the Moon
-1 Erebos's Intervention
-1 Extirpate
-1 Ashiok, Dream Render
-1 Terminate
-1 Anger of the Gods
-2 Magus of the Moon
-2 Erebos's Intervention
-2 Extirpate
 1 Pillage
-1 Alpine Moon
 1 Stone Rain
+1 Alpine Moon
 1 Cling to Dust
 1 Aether Gust
 2 Alpine Moon
@@ -47,9 +38,21 @@
 2 Disdainful Stroke
 2 Flusterstorm
 2 Fulminator Mage
+1 Erebos's Intervention
+1 Magus of the Moon
+1 Extirpate
+1 Ashiok, Dream Render
+1 Terminate
+1 Anger of the Gods
+2 Magus of the Moon
+2 Extirpate
+2 Erebos's Intervention
 1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
 2 Kolaghan's Command
+3 Angrath's Rampage
+3 Thoughtseize
+3 Unearth
 1 Thragtusk
 1 Grim Lavamancer
 1 Trinisphere
@@ -57,9 +60,6 @@
 2 Thragtusk
 2 Trinisphere
 3 Relic of Progenitus
-3 Angrath's Rampage
-3 Thoughtseize
-3 Unearth
 1 Grand Abolisher
 1 Path to Exile
 1 Burrenton Forge-Tender
@@ -73,22 +73,22 @@
 3 Burrenton Forge-Tender
 3 Wear / Tear
 1 Spell Snare
-1 Bitterblossom
 1 Surgical Extraction
 1 Ceremonious Rejection
-2 Bitterblossom
+1 Bitterblossom
 2 Ceremonious Rejection
 2 Surgical Extraction
+2 Bitterblossom
 3 Surgical Extraction
 1 Spell Pierce
 1 Kaya's Guile
-1 Remorseful Cleric
 1 Lingering Souls
 1 Geist of Saint Traft
-2 Lingering Souls
+1 Remorseful Cleric
 2 Kaya's Guile
 2 Geist of Saint Traft
 2 Spell Pierce
+2 Lingering Souls
 2 Remorseful Cleric
 3 Lingering Souls
 3 Fatal Push
@@ -100,7 +100,7 @@
 4 Dragon's Claw
 1 Life Goes On
 1 Natural State
-2 Life Goes On
 2 Natural State
+2 Life Goes On
 3 Natural State
 3 Life Goes On
