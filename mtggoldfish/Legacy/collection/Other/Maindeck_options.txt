@@ -7,39 +7,39 @@
 3 Faithless Looting
 4 Faithless Looting
 1 Lava Dart
-1 Arclight Phoenix
 1 Abrade
 1 Manamorphose
 1 Soul-Scar Mage
 1 Bedlam Reveler
 1 Fireblast
 1 Monastery Swiftspear
+1 Arclight Phoenix
 1 Crash Through
 2 Lava Dart
-2 Arclight Phoenix
 2 Manamorphose
 2 Abrade
 2 Monastery Swiftspear
 2 Mountain
 2 Bedlam Reveler
+2 Arclight Phoenix
 2 Soul-Scar Mage
 2 Crash Through
 2 Fireblast
 3 Lava Dart
-3 Arclight Phoenix
 3 Manamorphose
+3 Arclight Phoenix
 3 Monastery Swiftspear
 3 Chain Lightning
 3 Mountain
 3 Crash Through
 3 Soul-Scar Mage
-4 Arclight Phoenix
 4 Manamorphose
 4 Lava Dart
 4 Soul-Scar Mage
 4 Chain Lightning
 4 Monastery Swiftspear
 4 Mountain
+4 Arclight Phoenix
 5 Mountain
 6 Mountain
 7 Mountain
@@ -266,6 +266,7 @@
 1 Cabal Therapy
 1 Scrubland
 1 Cabal Pit
+1 Smallpox
 1 Urborg, Tomb of Yawgmoth
 1 Liliana, the Last Hope
 1 Castle Locthwain
@@ -277,9 +278,9 @@
 1 Vindicate
 1 Myth Realized
 1 Mox Diamond
-1 Smallpox
 1 Sphere of Resistance
 2 Cabal Therapy
+2 Smallpox
 2 Urborg, Tomb of Yawgmoth
 2 Scrubland
 2 Liliana of the Veil
@@ -287,10 +288,10 @@
 2 Liliana, the Last Hope
 2 Sphere of Resistance
 2 Vampire Hexmage
-2 Smallpox
 2 Mox Diamond
 2 Myth Realized
 2 Vindicate
+3 Smallpox
 3 Urborg, Tomb of Yawgmoth
 3 Cabal Therapy
 3 Liliana of the Veil
@@ -298,13 +299,12 @@
 3 Sphere of Resistance
 3 Castle Locthwain
 3 Vindicate
-3 Smallpox
 3 Mox Diamond
+4 Smallpox
 4 Cabal Therapy
 4 Liliana of the Veil
 4 Sphere of Resistance
 4 Vindicate
-4 Smallpox
 2 Verdant Catacombs
 1 Leovold, Emissary of Trest
 1 Abrupt Decay
@@ -396,11 +396,11 @@
 2 Hogaak, Arisen Necropolis
 2 Golgari Grave-Troll
 3 Carrion Feeder
+3 Marsh Flats
 3 Satyr Wayfinder
 3 Blood Crypt
 3 Gravecrawler
 3 Stitcher's Supplier
-3 Marsh Flats
 3 Vengevine
 3 Hogaak, Arisen Necropolis
 3 Overgrown Tomb
@@ -408,13 +408,13 @@
 3 Bloodstained Mire
 4 Satyr Wayfinder
 4 Stitcher's Supplier
-4 Gravecrawler
 4 Marsh Flats
+4 Gravecrawler
 4 Vengevine
 4 Hogaak, Arisen Necropolis
 1 Tarmogoyf
-1 Snow-Covered Forest
 1 Chart a Course
+1 Snow-Covered Forest
 1 True-Name Nemesis
 2 Tarmogoyf
 2 Spell Pierce
@@ -430,18 +430,18 @@
 1 Llanowar Wastes
 1 Sulfurous Springs
 1 Nurturing Peatland
+1 Crystalline Giant
 1 Dismember
 1 Trinisphere
 1 Elvish Spirit Guide
-1 Crystalline Giant
 1 Leyline of the Void
 1 Matter Reshaper
 2 Llanowar Wastes
 2 Sulfurous Springs
+2 Crystalline Giant
 2 Dismember
 2 Elvish Spirit Guide
 2 Trinisphere
-2 Crystalline Giant
 2 Leyline of the Void
 2 Matter Reshaper
 3 Trinisphere
@@ -614,21 +614,21 @@
 1 Vault Skirge
 2 Stonecoil Serpent
 2 Blinkmoth Nexus
+2 Steel Overseer
 2 Thorn of Amethyst
 2 Lodestone Golem
-2 Steel Overseer
 2 Arcbound Ravager
 2 Vault Skirge
 3 Stonecoil Serpent
+3 Steel Overseer
 3 Thorn of Amethyst
 3 Lodestone Golem
-3 Steel Overseer
 3 Arcbound Ravager
+4 Steel Overseer
 4 Thorn of Amethyst
 4 Walking Ballista
 4 Arcbound Ravager
 4 Lodestone Golem
-4 Steel Overseer
 1 Counterspell
 1 Terminus
 1 Entreat the Angels

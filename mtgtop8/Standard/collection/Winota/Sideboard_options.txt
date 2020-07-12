@@ -4,11 +4,9 @@
 1 Fire Prophecy
 2 Fire Prophecy
 1 Aether Gust
-2 Aether Gust
 1 Dovin's Veto
+2 Aether Gust
 2 Dovin's Veto
-3 Fire Prophecy
-4 Mystical Dispute
 1 Redcap Melee
 2 Redcap Melee
 3 Redcap Melee
@@ -28,16 +26,18 @@
 2 Lavabrink Venturer
 2 Unchained Berserker
 3 Unchained Berserker
-1 Glass Casket
-2 Glass Casket
 4 Redcap Melee
 1 Containment Priest
 1 Disenchant
+1 Glass Casket
+2 Glass Casket
 2 Disenchant
 3 Glass Casket
 3 Disenchant
 4 Glass Casket
+3 Fire Prophecy
 3 Aether Gust
+4 Mystical Dispute
 1 Tibalt, Rakish Instigator
 2 Tibalt, Rakish Instigator
 1 Soul-Guide Lantern
@@ -61,6 +61,18 @@
 2 Scorching Dragonfire
 2 Blazing Volley
 3 Scorching Dragonfire
+1 Agonizing Remorse
+2 Agonizing Remorse
+3 Agonizing Remorse
+1 Shadowspear
+1 Necromentia
+1 Ashiok, Dream Render
+1 Disfigure
+2 Necromentia
+2 Disfigure
+2 Ashiok, Dream Render
+3 Disfigure
+3 Ashiok, Dream Render
 1 Shatter the Sky
 1 Elspeth Conquers Death
 1 Deafening Clarion
@@ -72,12 +84,24 @@
 2 Deafening Clarion
 2 Shatter the Sky
 3 Deafening Clarion
+1 Mayhem Devil
+1 Jegantha, the Wellspring
+1 Noxious Grasp
+1 Devout Decree
+1 Rotting Regisaur
+1 Embereth Shieldbreaker
+1 Kenrith, the Returned King
+2 Embereth Shieldbreaker
+2 Devout Decree
+2 Noxious Grasp
+2 Rotting Regisaur
+3 Rotting Regisaur
 2 Soul-Guide Lantern
 3 Soul-Guide Lantern
 1 Fry
+1 Light of Hope
 1 Cosmotronic Wave
 1 Sorcerous Spyglass
-1 Light of Hope
 2 Light of Hope
 2 Fry
 2 Sorcerous Spyglass
@@ -94,32 +118,16 @@
 2 Drannith Magistrate
 3 Deputy of Detention
 3 Knight of Autumn
-1 Shadowspear
-1 Necromentia
-1 Ashiok, Dream Render
-1 Disfigure
-1 Agonizing Remorse
-2 Necromentia
-2 Disfigure
-2 Ashiok, Dream Render
-2 Agonizing Remorse
-3 Disfigure
-3 Ashiok, Dream Render
-3 Agonizing Remorse
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-3 Teferi, Time Raveler
-4 Fire Prophecy
 1 Blightbeetle
 1 Conclave Tribunal
 1 Unbreakable Formation
 1 Ruinous Ultimatum
 1 Storm's Wrath
 1 Volcanic Salvo
-2 Storm's Wrath
 2 Blightbeetle
 2 Conclave Tribunal
 2 Volcanic Salvo
+2 Storm's Wrath
 3 Conclave Tribunal
 4 Conclave Tribunal
 3 Dovin's Veto

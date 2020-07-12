@@ -1,15 +1,15 @@
-4 Temple of Malice
-7 Swamp
+3 Temple of Malice
 3 Call of the Death-Dweller
 4 Serrated Scorpion
+4 Temple of Malice
 4 Mountain
-3 Gutterbones
-5 Mountain
-8 Swamp
 1 Dreadhorde Butcher
 2 Dreadhorde Butcher
 3 Dreadhorde Butcher
 4 Dreadhorde Butcher
+5 Mountain
+8 Swamp
+3 Gutterbones
 1 Judith, the Scourge Diva
 2 Judith, the Scourge Diva
 4 Gutterbones
@@ -37,13 +37,21 @@
 4 Fervent Champion
 4 Stormfist Crusader
 4 Knight of the Ebon Legion
-9 Swamp
-1 Archfiend's Vessel
-2 Archfiend's Vessel
-1 Bolas's Citadel
-1 Robber of the Rich
-2 Robber of the Rich
-4 Village Rites
+1 Mire Triton
+1 Demonic Embrace
+1 Tymaret Calls the Dead
+1 Kroxa, Titan of Death's Hunger
+2 Mire Triton
+2 Tymaret Calls the Dead
+2 Demonic Embrace
+2 Kroxa, Titan of Death's Hunger
+3 Mire Triton
+3 Kroxa, Titan of Death's Hunger
+3 Tymaret Calls the Dead
+3 Demonic Embrace
+4 Mire Triton
+4 Kroxa, Titan of Death's Hunger
+4 Tymaret Calls the Dead
 1 Drill Bit
 2 Drill Bit
 6 Mountain
@@ -53,24 +61,18 @@
 4 Spawn of Mayhem
 3 Blacklance Paragon
 4 Blacklance Paragon
-1 Rankle, Master of Pranks
-1 Kroxa, Titan of Death's Hunger
+9 Swamp
+1 Archfiend's Vessel
+2 Archfiend's Vessel
 1 Shadowspear
 1 Murderous Rider
+1 Robber of the Rich
 2 Murderous Rider
+2 Robber of the Rich
+1 Bolas's Citadel
 2 Bolas's Citadel
-1 Fiend Artisan
-1 Stomping Ground
-2 Fiend Artisan
-2 Stomping Ground
-3 Fiend Artisan
+4 Demonic Embrace
 4 Call of the Death-Dweller
-1 Unknown Card
-2 Unknown Card
-3 Archfiend's Vessel
-3 Unknown Card
-4 Archfiend's Vessel
-4 Midnight Reaper
 1 Stonecoil Serpent
 1 Eliminate
 1 Tournament Grounds
@@ -79,8 +81,8 @@
 2 Eliminate
 3 Tournament Grounds
 3 Stonecoil Serpent
-4 Tournament Grounds
 4 Stonecoil Serpent
+4 Tournament Grounds
 1 Castle Embereth
 1 Bonecrusher Giant
 1 Light Up the Stage
@@ -93,51 +95,5 @@
 2 Whisper Squad
 3 Whisper Squad
 4 Whisper Squad
+4 Village Rites
 4 Castle Locthwain
-1 Mire Triton
-1 Demonic Embrace
-1 Tymaret Calls the Dead
-2 Mire Triton
-2 Tymaret Calls the Dead
-2 Demonic Embrace
-2 Kroxa, Titan of Death's Hunger
-3 Mire Triton
-3 Kroxa, Titan of Death's Hunger
-3 Tymaret Calls the Dead
-3 Demonic Embrace
-4 Demonic Embrace
-4 Mire Triton
-4 Kroxa, Titan of Death's Hunger
-4 Tymaret Calls the Dead
-1 Burglar Rat
-1 Bloodfell Caves
-1 Evolving Wilds
-1 Skewer the Critics
-1 Reaper of Night
-1 Spark Harvest
-1 Ill-Gotten Inheritance
-1 Chandra, Awakened Inferno
-1 Liliana, Dreadhorde General
-1 Cavern Whisperer
-1 Toll of the Invasion
-1 Davriel, Rogue Shadowmage
-2 Burglar Rat
-2 Bloodfell Caves
-2 Davriel, Rogue Shadowmage
-2 Evolving Wilds
-2 Reaper of Night
-2 Spark Harvest
-2 Ill-Gotten Inheritance
-2 Toll of the Invasion
-2 Cavern Whisperer
-3 Burglar Rat
-3 Bloodfell Caves
-3 Davriel, Rogue Shadowmage
-3 Evolving Wilds
-3 Spark Harvest
-3 Toll of the Invasion
-4 Burglar Rat
-4 Bloodfell Caves
-4 Evolving Wilds
-4 Spark Harvest
-10 Swamp

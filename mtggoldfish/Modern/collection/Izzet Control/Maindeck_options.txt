@@ -1,7 +1,7 @@
 2 The Royal Scions
 1 Brazen Borrower
-1 Misty Rainforest
 2 Bonecrusher Giant
+1 Misty Rainforest
 2 Brazen Borrower
 1 Abrade
 1 Flame Slash
@@ -18,26 +18,21 @@
 4 Archmage's Charm
 1 Ral, Izzet Viceroy
 2 Spell Pierce
-4 Thing in the Ice
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
+4 Thing in the Ice
 3 Force of Negation
 1 Jace, the Mind Sculptor
 3 Sulfur Falls
-1 Fiery Islet
 1 Blast Zone
 1 Venser, Shaper Savant
 2 Deprive
 2 Blast Zone
 1 Vendilion Clique
 3 Cryptic Command
+1 Fiery Islet
 1 Spirebluff Canal
-2 Spirebluff Canal
-1 Thought Scour
-2 Thought Scour
-3 Thought Scour
-4 Thought Scour
 1 Snow-Covered Mountain
 1 Snow-Covered Island
 2 Snow-Covered Island
@@ -47,9 +42,7 @@
 1 Quicken
 1 Day's Undoing
 2 Blood Moon
-2 Mountain
-3 Spirebluff Canal
-4 Spirebluff Canal
+2 Spirebluff Canal
 1 Oboro, Palace in the Clouds
 1 Temple of Epiphany
 1 Minamo, School at Water's Edge
@@ -60,17 +53,24 @@
 2 Fiery Islet
 2 Reflecting Pool
 2 Shark Typhoon
+2 Mountain
 3 Temple of Epiphany
 3 Mana Leak
+3 Spirebluff Canal
 3 Cascade Bluffs
 3 Shark Typhoon
 3 Reflecting Pool
 4 Temple of Epiphany
+4 Spirebluff Canal
 4 Shark Typhoon
 4 Reflecting Pool
 4 Cascade Bluffs
+1 Thought Scour
+2 Thought Scour
 2 Magmatic Sinkhole
+3 Thought Scour
 3 The Royal Scions
+4 Thought Scour
 4 The Royal Scions
 1 Shivan Reef
 4 Steam Vents
@@ -79,9 +79,9 @@
 2 Flooded Strand
 3 Flooded Strand
 4 Flooded Strand
+1 River of Tears
 1 Burst Lightning
 1 Ashiok, Dream Render
-1 River of Tears
 1 Rielle, the Everwise
 2 Rielle, the Everwise
 3 Rielle, the Everwise
@@ -108,8 +108,8 @@
 1 Sword of Fire and Ice
 1 Batterskull
 1 Sphinx's Revelation
-1 Hallowed Fountain
 1 Logic Knot
+1 Hallowed Fountain
 1 Plains
 1 Path to Exile
 2 Celestial Colonnade
@@ -148,6 +148,10 @@
 4 Monastery Swiftspear
 3 Brazen Borrower
 4 Brazen Borrower
+5 Snow-Covered Island
+6 Snow-Covered Island
+7 Snow-Covered Island
+8 Snow-Covered Island
 1 Simian Spirit Guide
 1 Through the Breach
 1 Emrakul, the Aeons Torn
@@ -163,29 +167,3 @@
 4 Emrakul, the Aeons Torn
 4 Sulfur Falls
 4 Shivan Reef
-5 Snow-Covered Island
-6 Snow-Covered Island
-7 Snow-Covered Island
-8 Snow-Covered Island
-1 Izzet Charm
-1 Chart a Course
-1 Manamorphose
-1 Finale of Promise
-1 Sleight of Hand
-1 Lightning Axe
-1 Merchant of the Vale
-1 Arclight Phoenix
-1 Bedlam Reveler
-2 Finale of Promise
-2 Izzet Charm
-2 Manamorphose
-2 Arclight Phoenix
-2 Merchant of the Vale
-2 Lightning Axe
-2 Chart a Course
-3 Manamorphose
-3 Arclight Phoenix
-3 Merchant of the Vale
-4 Manamorphose
-4 Arclight Phoenix
-4 Merchant of the Vale

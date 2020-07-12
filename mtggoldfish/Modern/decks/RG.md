@@ -62,7 +62,7 @@
 |                    2|[Uro, Titan of Nature's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476480)|                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |
 |                    2|[Simic Growth Chamber](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405379)        |                    3|[Memoricide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=215103)       |
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)            |                    4|[Memoricide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=215103)       |
-|                    4|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)             |                     |                                                                                            |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)            |                     |                                                                                            |
+|                    4|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)             |                     |                                                                                            |
 |                    3|[Uro, Titan of Nature's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476480)|                     |                                                                                            |
 

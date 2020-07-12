@@ -12,24 +12,24 @@
 8 Forest
 1 Fabled Passage
 2 Fabled Passage
-1 Paradise Druid
+1 Edgewall Innkeeper
 1 Foulmire Knight
 1 The Great Henge
+1 Paradise Druid
 1 Order of Midnight
 1 Jolrael, Mwonvuli Recluse
 1 Village Rites
 1 Rotting Regisaur
-1 Edgewall Innkeeper
 2 Edgewall Innkeeper
-2 Paradise Druid
 2 Foulmire Knight
+2 Paradise Druid
 2 Jolrael, Mwonvuli Recluse
 2 The Great Henge
 2 Village Rites
 2 Rotting Regisaur
 3 Edgewall Innkeeper
-3 Paradise Druid
 3 Jolrael, Mwonvuli Recluse
+3 Paradise Druid
 3 Rotting Regisaur
 3 The Great Henge
 3 Foulmire Knight
@@ -64,8 +64,8 @@
 2 Watery Grave
 2 Insatiable Hemophage
 3 Stonecoil Serpent
-3 Pollywog Symbiote
 3 Brineborn Cutthroat
+3 Pollywog Symbiote
 3 Pouncing Shoreshark
 3 Brazen Borrower
 3 Island
@@ -76,11 +76,11 @@
 4 Pollywog Symbiote
 4 Pouncing Shoreshark
 4 Island
+4 Sea-Dasher Octopus
 4 Brineborn Cutthroat
 4 Stonecoil Serpent
 4 Insatiable Hemophage
 4 Watery Grave
-4 Sea-Dasher Octopus
 5 Island
 6 Island
 7 Island
@@ -103,10 +103,10 @@
 2 Incubation Druid
 2 Questing Beast
 2 Voracious Hydra
-2 Kogla, the Titan Ape
 2 Oakhame Adversary
 2 Jungle Hollow
 2 Garenbrig Paladin
+2 Kogla, the Titan Ape
 2 Fierce Witchstalker
 2 Gnarlback Rhino
 2 Deathless Knight

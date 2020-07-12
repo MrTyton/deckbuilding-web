@@ -122,26 +122,26 @@
 2 Shark Typhoon
 3 Shark Typhoon
 4 Shark Typhoon
-1 Growth Spiral
-1 Wilderness Reclamation
 1 Blast Zone
+1 Growth Spiral
 1 Breeding Pool
 1 Uro, Titan of Nature's Wrath
+1 Wilderness Reclamation
 1 Forest
-2 Growth Spiral
-2 Wilderness Reclamation
 2 Blast Zone
+2 Growth Spiral
 2 Castle Vantress
 2 Forest
 2 Breeding Pool
+2 Wilderness Reclamation
 2 Uro, Titan of Nature's Wrath
 3 Breeding Pool
-3 Growth Spiral
-3 Wilderness Reclamation
 3 Uro, Titan of Nature's Wrath
-4 Growth Spiral
-4 Wilderness Reclamation
+3 Wilderness Reclamation
+3 Growth Spiral
 4 Breeding Pool
+4 Wilderness Reclamation
+4 Growth Spiral
 1 Neutralize
 2 Neutralize
 3 Island
@@ -153,13 +153,13 @@
 2 Final Payment
 1 Cast Out
 1 Zenith Flare
-1 Nimble Obstructionist
 1 Flourishing Fox
+1 Nimble Obstructionist
 1 Hieroglyphic Illumination
 2 Cast Out
 2 Flourishing Fox
-2 Nimble Obstructionist
 2 Zenith Flare
+2 Nimble Obstructionist
 2 Hieroglyphic Illumination
 3 Cast Out
 3 Neutralize
@@ -175,8 +175,8 @@
 1 Ketria Triome
 1 Stomping Ground
 1 Pull from Tomorrow
-1 Expansion / Explosion
 1 Bonecrusher Giant
+1 Expansion / Explosion
 1 Mystical Dispute
 1 Negate
 2 Stomping Ground
@@ -184,9 +184,9 @@
 2 Ketria Triome
 2 Expansion / Explosion
 2 Bonecrusher Giant
-3 Castle Vantress
 3 Stomping Ground
 3 Pull from Tomorrow
+3 Castle Vantress
 3 Ketria Triome
 3 Expansion / Explosion
 4 Ketria Triome
@@ -205,23 +205,23 @@
 4 Heliod, Sun-Crowned
 4 Walking Ballista
 1 Dig Through Time
-1 Hinterland Harbor
-1 Temple of Mystery
+1 Sinister Sabotage
+1 Teferi, Master of Time
 1 Torrential Gearhulk
 1 Lumbering Falls
 1 Sublime Epiphany
+1 Hinterland Harbor
 1 Brazen Borrower
-1 Sinister Sabotage
-1 Teferi, Master of Time
+1 Temple of Mystery
 2 Dig Through Time
-2 Temple of Mystery
-2 Hinterland Harbor
-2 Sublime Epiphany
-2 Torrential Gearhulk
-2 Brazen Borrower
-2 Lumbering Falls
 2 Sinister Sabotage
 2 Teferi, Master of Time
+2 Lumbering Falls
+2 Hinterland Harbor
+2 Brazen Borrower
+2 Sublime Epiphany
+2 Temple of Mystery
+2 Torrential Gearhulk
 3 Temple of Mystery
 3 Hinterland Harbor
 4 Island
