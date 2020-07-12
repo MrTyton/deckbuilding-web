@@ -78,7 +78,7 @@
 |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)      |                    4|[Archon of Sun's Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476254) |
 |                    1|Mythos of Illuna                                                                                  |                     |                                                                                                 |
 |                    2|Mythos of Illuna                                                                                  |                     |                                                                                                 |
+|                    1|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)      |                     |                                                                                                 |
 |                    2|Narset of the Ancient Way                                                                         |                     |                                                                                                 |
 |                    2|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)      |                     |                                                                                                 |
-|                    1|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)      |                     |                                                                                                 |
 

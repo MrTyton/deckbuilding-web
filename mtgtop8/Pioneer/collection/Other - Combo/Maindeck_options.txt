@@ -64,15 +64,14 @@
 4 Mana Confluence
 1 Forest
 1 Temple of Malady
-1 Woodland Cemetery
 1 Swamp
 1 Overgrown Tomb
 1 Soulflayer
-1 Lotleth Troll
-1 Zetalpa, Primal Dawn
-1 Vine Mare
 1 Gather the Pack
 1 Grisly Salvage
+1 Vine Mare
+1 Lotleth Troll
+1 Zetalpa, Primal Dawn
 1 Questing Beast
 1 Grapple with the Past
 1 Erebos, God of the Dead
@@ -81,32 +80,33 @@
 1 Sunblade Angel
 1 Spark Trooper
 1 Skull Prophet
+1 Woodland Cemetery
 2 Temple of Malady
 2 Swamp
+2 Grisly Salvage
 2 Lotleth Troll
 2 Overgrown Tomb
 2 Zetalpa, Primal Dawn
-2 Soulflayer
-2 Grisly Salvage
 2 Gather the Pack
+2 Soulflayer
 2 Questing Beast
 2 Vine Mare
 2 Gifted Aetherborn
 2 Skull Prophet
 3 Zetalpa, Primal Dawn
-3 Soulflayer
-3 Lotleth Troll
 3 Gather the Pack
 3 Grisly Salvage
+3 Soulflayer
+3 Lotleth Troll
 3 Swamp
 3 Overgrown Tomb
 3 Questing Beast
 3 Gifted Aetherborn
+4 Grisly Salvage
 4 Lotleth Troll
 4 Zetalpa, Primal Dawn
-4 Soulflayer
-4 Grisly Salvage
 4 Gather the Pack
+4 Soulflayer
 4 Overgrown Tomb
 4 Swamp
 4 Gifted Aetherborn
@@ -172,20 +172,20 @@
 1 Enter the Infinite
 1 Borborygmos Enraged
 1 Captain Lannery Storm
-1 Rosethorn Acolyte
 1 Game Trail
 1 Worldspine Wurm
 1 Possibility Storm
 1 Emrakul, the Promised End
+1 Rosethorn Acolyte
 1 Bonecrusher Giant
 1 Lukka, Coppercoat Outcast
 1 Lovestruck Beast
 2 Possibility Storm
 2 Captain Lannery Storm
 2 Game Trail
-2 Rosethorn Acolyte
 2 Worldspine Wurm
 2 Mountain
+2 Rosethorn Acolyte
 2 Lovestruck Beast
 2 Bonecrusher Giant
 2 Lukka, Coppercoat Outcast
@@ -194,11 +194,11 @@
 3 Forest
 3 Captain Lannery Storm
 3 Rootbound Crag
-3 Rosethorn Acolyte
 3 Bonecrusher Giant
 3 Mountain
 3 Lukka, Coppercoat Outcast
 3 Lovestruck Beast
+3 Rosethorn Acolyte
 4 Rootbound Crag
 4 Possibility Storm
 4 Game Trail

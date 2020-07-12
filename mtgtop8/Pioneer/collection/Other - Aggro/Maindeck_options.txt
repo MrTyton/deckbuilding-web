@@ -135,10 +135,10 @@
 1 Hinterland Harbor
 1 Traverse the Ulvenwald
 1 Uro, Titan of Nature's Wrath
-1 Tireless Tracker
 1 Murderous Rider
 1 Jace, Vryn's Prodigy
 1 Heartless Act
+1 Tireless Tracker
 1 Atris, Oracle of Half-Truths
 1 Nissa, Who Shakes the World
 1 Eat to Extinction
@@ -168,8 +168,8 @@
 3 Goblin Instigator
 4 Gilded Goose
 1 Pia and Kiran Nalaar
-1 Garruk's Harbinger
 1 Tithe Taker
+1 Garruk's Harbinger
 1 Fortified Village
 2 Pia and Kiran Nalaar
 2 Tithe Taker
@@ -178,26 +178,25 @@
 3 Garruk's Harbinger
 4 Tithe Taker
 4 Garruk's Harbinger
+1 Metallic Mimic
+1 Chamber Sentry
 1 Steel Overseer
 1 Evolutionary Leap
 1 Urborg, Tomb of Yawgmoth
-1 Metallic Mimic
-1 Chamber Sentry
 1 The Ozolith
-2 Steel Overseer
-2 Chamber Sentry
-2 The Ozolith
 2 Metallic Mimic
+2 Chamber Sentry
+2 Steel Overseer
+2 The Ozolith
+3 Metallic Mimic
+3 Chamber Sentry
 3 Steel Overseer
 3 Hangarback Walker
-3 Chamber Sentry
-3 Metallic Mimic
+4 Metallic Mimic
 4 Hangarback Walker
 4 Steel Overseer
-4 Metallic Mimic
 2 Mountain
 3 Mountain
-1 Domri, Anarch of Bolas
 1 Gruul Spellbreaker
 1 Burning-Tree Emissary
 1 Hashep Oasis
@@ -205,6 +204,7 @@
 1 Dryad Militant
 1 Bonecrusher Giant
 1 Hazoret the Fervent
+1 Domri, Anarch of Bolas
 1 Questing Beast
 1 Gallia of the Endless Dance
 1 Embercleave
@@ -244,16 +244,16 @@
 2 Grim Flayer
 2 Deathrite Shaman
 2 Blood Crypt
+2 Chevill, Bane of Monsters
 2 Dreadbore
 2 Dead Weight
-2 Chevill, Bane of Monsters
 2 Unbridled Growth
 2 Kroxa, Titan of Death's Hunger
 2 Kolaghan's Command
 3 Kroxa, Titan of Death's Hunger
-3 Blood Crypt
-3 Deathrite Shaman
 3 Chevill, Bane of Monsters
+3 Deathrite Shaman
+3 Blood Crypt
 3 Unbridled Growth
 3 Grim Flayer
 4 Blood Crypt
@@ -294,8 +294,8 @@
 3 Nissa, Voice of Zendikar
 3 Assassin's Trophy
 3 Voracious Hydra
-4 Nissa, Voice of Zendikar
 4 Assassin's Trophy
+4 Nissa, Voice of Zendikar
 4 Voracious Hydra
 1 Fetid Pools
 1 Cauldron Familiar
@@ -360,8 +360,8 @@
 4 Sacred Foundry
 4 Soul-Scar Mage
 4 Monastery Swiftspear
-4 Reckless Rage
 4 Tenth District Legionnaire
 4 Defiant Strike
+4 Reckless Rage
 4 Titan's Strength
 4 Favored Hoplite

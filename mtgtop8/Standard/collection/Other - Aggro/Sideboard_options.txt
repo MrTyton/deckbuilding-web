@@ -53,8 +53,8 @@
 2 The Akroan War
 2 Destiny Spinner
 1 Assassin's Trophy
-2 Eidolon of Obstruction
 2 Assassin's Trophy
+2 Eidolon of Obstruction
 3 Fight as One
 1 Mythos of Nethroi
 1 Mythos of Snapdax
@@ -69,13 +69,6 @@
 2 Mutual Destruction
 2 Act of Treason
 3 Scorching Dragonfire
-1 Negate
-1 Sorcerous Spyglass
-2 Negate
-2 Shadowspear
-2 Sorcerous Spyglass
-3 Negate
-3 Shadowspear
 1 Yorion, Sky Nomad
 1 Mythos of Illuna
 1 Extinction Event
@@ -100,6 +93,13 @@
 3 Flame Sweep
 3 Lava Coil
 3 Spectral Sailor
+1 Negate
+1 Sorcerous Spyglass
+2 Negate
+2 Shadowspear
+2 Sorcerous Spyglass
+3 Negate
+3 Shadowspear
 1 Consecrate / Consume
 1 Dire Tactics
 1 Duress
@@ -108,6 +108,13 @@
 2 Duress
 3 Dead Weight
 3 Duress
+1 Disenchant
+1 Containment Priest
+2 Disenchant
+2 Containment Priest
+3 Disenchant
+3 Redcap Melee
+4 Redcap Melee
 1 Omen of the Sea
 1 Brazen Borrower
 1 Whirlwind Denial
@@ -119,19 +126,12 @@
 3 Heartless Act
 4 Whirlwind Denial
 4 Brazen Borrower
-1 Disenchant
-1 Containment Priest
-2 Disenchant
-2 Containment Priest
-3 Disenchant
-3 Redcap Melee
-4 Redcap Melee
 1 Heroic Intervention
 1 Cultivate
 1 Elder Gargaroth
 1 Quartzwood Crasher
-1 Ugin, the Spirit Dragon
 1 Solemn Simulacrum
+1 Ugin, the Spirit Dragon
 1 Sparkhunter Masticore
 2 Elder Gargaroth
 2 Sparkhunter Masticore
@@ -139,8 +139,8 @@
 2 Solemn Simulacrum
 1 Gemrazer
 1 Pouncing Shoreshark
-1 Dreamtail Heron
 1 Voracious Greatshark
+1 Dreamtail Heron
 1 Crystalline Giant
 1 Umori, the Collector
 1 Boneyard Lurker

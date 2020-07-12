@@ -13,8 +13,8 @@
 1 Orzhov Enforcer
 2 Orzhov Enforcer
 3 Orzhov Enforcer
-1 Woe Strider
 1 Bolas's Citadel
+1 Woe Strider
 2 Woe Strider
 3 Woe Strider
 4 Woe Strider
@@ -29,8 +29,8 @@
 3 Scoured Barrens
 4 Scoured Barrens
 1 Dead Weight
-2 Dead Weight
 2 Mire's Grasp
+2 Dead Weight
 1 Healer's Hawk
 2 Healer's Hawk
 3 Healer's Hawk
@@ -51,16 +51,16 @@
 4 Gutterbones
 1 Orzhov Guildgate
 2 Orzhov Guildgate
-1 Ajani, Strength of the Pride
 1 Blade Juggler
+1 Ajani, Strength of the Pride
 1 Banishing Light
-1 Impassioned Orator
 1 Gideon Blackblade
 1 Bloodthirsty Aerialist
 1 Omen of the Sun
-2 Impassioned Orator
+1 Impassioned Orator
 2 Bloodthirsty Aerialist
 2 Omen of the Sun
+2 Impassioned Orator
 3 Impassioned Orator
 3 Bloodthirsty Aerialist
 4 Bloodthirsty Aerialist
@@ -113,22 +113,22 @@
 1 Luminous Broodmoth
 1 Bastion of Remembrance
 1 Midnight Reaper
+2 Bastion of Remembrance
 2 Bolas's Citadel
 2 Luminous Broodmoth
-2 Bastion of Remembrance
 2 Midnight Reaper
+3 Bastion of Remembrance
 3 Midnight Reaper
 3 Luminous Broodmoth
-3 Bastion of Remembrance
 4 Luminous Broodmoth
 4 Bastion of Remembrance
-1 Order of Midnight
 1 Fight as One
 1 Knight of the Ebon Legion
 1 Stormfist Crusader
 1 Blood Crypt
 1 Worthy Knight
 1 Venerable Knight
+1 Order of Midnight
 1 Inspiring Veteran
 1 Tournament Grounds
 1 Smitten Swordmaster
@@ -137,7 +137,6 @@
 2 Knight of the Ebon Legion
 2 Stormfist Crusader
 2 Blood Crypt
-2 Fight as One
 2 Venerable Knight
 2 Sacred Foundry
 2 Fervent Champion
@@ -146,7 +145,9 @@
 2 Smitten Swordmaster
 2 Inspiring Veteran
 2 Tournament Grounds
+2 Fight as One
 2 Blacklance Paragon
+3 Stormfist Crusader
 3 Knight of the Ebon Legion
 3 Blood Crypt
 3 Fight as One
@@ -156,24 +157,23 @@
 3 Venerable Knight
 3 Sacred Foundry
 3 Blacklance Paragon
-3 Stormfist Crusader
 3 Tournament Grounds
 3 Inspiring Veteran
 4 Sacred Foundry
+4 Stormfist Crusader
 4 Smitten Swordmaster
 4 Knight of the Ebon Legion
 4 Blood Crypt
 4 Fight as One
 4 Tournament Grounds
-4 Stormfist Crusader
 4 Worthy Knight
 4 Venerable Knight
 4 Inspiring Veteran
 4 Fervent Champion
 4 Blacklance Paragon
-1 Daxos, Blessed by the Sun
 1 Liliana, Dreadhorde General
 1 Mortify
+1 Daxos, Blessed by the Sun
 1 Grasping Thrull
 1 Imperious Oligarch
 2 Imperious Oligarch
@@ -191,11 +191,11 @@
 4 Mire's Grasp
 11 Swamp
 1 Sorin, Vengeful Bloodlord
+1 Spark Harvest
 1 Heliod, Sun-Crowned
 1 Show of Valor
-1 Spark Harvest
 2 Banishing Light
-2 Show of Valor
 2 Spark Harvest
+2 Show of Valor
 3 Banishing Light
 10 Plains

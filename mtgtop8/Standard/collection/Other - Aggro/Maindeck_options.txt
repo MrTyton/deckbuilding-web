@@ -126,6 +126,8 @@
 1 Overgrown Tomb
 2 Overgrown Tomb
 3 Overgrown Tomb
+1 Zagoth Triome
+1 Uro, Titan of Nature's Wrath
 1 Cavalier of Thorns
 1 Negate
 1 Aether Gust
@@ -135,8 +137,6 @@
 1 Growth Spiral
 1 Leafkin Druid
 1 Mystical Dispute
-1 Uro, Titan of Nature's Wrath
-1 Zagoth Triome
 1 Thought Erasure
 1 Temple of Deceit
 1 Temple of Malady
@@ -156,11 +156,11 @@
 2 Ketria Triome
 3 Uro, Titan of Nature's Wrath
 3 Zagoth Triome
-3 Casualties of War
 3 Hydroid Krasis
 3 Risen Reef
 3 Leafkin Druid
 3 Cavalier of Thorns
+3 Casualties of War
 3 Temple of Malady
 3 Growth Spiral
 3 Ketria Triome
@@ -213,8 +213,8 @@
 8 Island
 1 Castle Embereth
 1 Scorching Dragonfire
-1 Lava Coil
 1 Sporeweb Weaver
+1 Lava Coil
 2 Castle Embereth
 2 Sporeweb Weaver
 3 Radha, Heart of Keld
@@ -227,18 +227,33 @@
 3 Temple of Malice
 4 Temple of Malice
 4 Claim the Firstborn
-1 The Great Henge
-1 Garruk, Unleashed
-1 Marauding Raptor
-1 Cultivate
-1 Primal Might
-1 Garruk's Harbinger
-2 Marauding Raptor
-2 Cultivate
-2 Garruk's Harbinger
-3 Marauding Raptor
-3 Garruk's Harbinger
-4 Garruk's Harbinger
+1 Auspicious Starrix
+1 Migratory Greathorn
+1 Nylea, Keen-Eyed
+1 Pollywog Symbiote
+1 End-Raze Forerunners
+1 Paradise Druid
+1 Setessan Petitioner
+1 Beast Whisperer
+2 End-Raze Forerunners
+2 Auspicious Starrix
+2 Migratory Greathorn
+2 Nylea, Keen-Eyed
+2 Pollywog Symbiote
+2 Paradise Druid
+2 Setessan Petitioner
+2 Beast Whisperer
+3 Paradise Druid
+3 Auspicious Starrix
+3 Migratory Greathorn
+3 Arboreal Grazer
+3 Pouncing Shoreshark
+3 Pollywog Symbiote
+3 Setessan Petitioner
+4 Migratory Greathorn
+4 Paradise Druid
+4 Arboreal Grazer
+4 Pollywog Symbiote
 1 Cruel Celebrant
 1 Luminous Broodmoth
 1 Mythos of Snapdax
@@ -256,71 +271,18 @@
 4 Cruel Celebrant
 4 Midnight Reaper
 4 Serrated Scorpion
-1 Gingerbrute
-2 Gingerbrute
-3 Gingerbrute
-4 Gingerbrute
-6 Plains
-7 Plains
-8 Plains
-1 All That Glitters
-1 Alseid of Life's Bounty
-1 Sentinel's Eyes
-1 Karametra's Blessing
-2 All That Glitters
-2 Sentinel's Eyes
-2 Karametra's Blessing
-2 Alseid of Life's Bounty
-3 Karametra's Blessing
-3 All That Glitters
-3 Alseid of Life's Bounty
-3 Sentinel's Eyes
-4 Karametra's Blessing
-4 All That Glitters
-4 Alseid of Life's Bounty
-3 Stonecoil Serpent
-1 Solemn Simulacrum
-1 Ugin, the Spirit Dragon
-1 Mystic Forge
-1 Karn's Bastion
-1 Palladium Myr
-1 Steel Overseer
-1 Crystalline Giant
-1 Ugin, the Ineffable
-1 Mobilized District
-1 Interplanar Beacon
-2 Mobilized District
-2 Solemn Simulacrum
-2 Ugin, the Spirit Dragon
-2 Ugin, the Ineffable
-2 Mystic Forge
-2 Steel Overseer
-2 Crystalline Giant
-2 Karn's Bastion
-2 Palladium Myr
-2 Radiant Fountain
-2 Interplanar Beacon
-3 Solemn Simulacrum
-3 Mystic Forge
-3 Ugin, the Ineffable
-3 Steel Overseer
-3 Ugin, the Spirit Dragon
-3 Radiant Fountain
-3 Palladium Myr
-3 Crystalline Giant
-3 Karn's Bastion
-3 Interplanar Beacon
-4 Ugin, the Spirit Dragon
-4 Mystic Forge
-4 Ugin, the Ineffable
-4 Solemn Simulacrum
-4 Radiant Fountain
-4 Palladium Myr
-4 Crystalline Giant
-4 Steel Overseer
-4 Stonecoil Serpent
-4 Karn's Bastion
-4 Interplanar Beacon
+1 Marauding Raptor
+1 Garruk, Unleashed
+1 The Great Henge
+1 Cultivate
+1 Primal Might
+1 Garruk's Harbinger
+2 Marauding Raptor
+2 Cultivate
+2 Garruk's Harbinger
+3 Marauding Raptor
+3 Garruk's Harbinger
+4 Garruk's Harbinger
 1 Improbable Alliance
 1 Startling Development
 1 Frostveil Ambush
@@ -336,6 +298,28 @@
 4 Improbable Alliance
 4 Frostveil Ambush
 4 Startling Development
+1 Slitherwisp
+1 Voracious Greatshark
+1 Dirge Bat
+1 Cunning Nightbonder
+1 Unsummon
+1 Thryx, the Sudden Storm
+2 Slitherwisp
+2 Voracious Greatshark
+2 Dirge Bat
+2 Cunning Nightbonder
+2 Unsummon
+3 Slitherwisp
+3 Voracious Greatshark
+3 Dirge Bat
+3 Unsummon
+3 Cunning Nightbonder
+4 Slitherwisp
+4 Unsummon
+4 Voracious Greatshark
+4 Dirge Bat
+4 Cunning Nightbonder
+4 Neutralize
 1 Foulmire Knight
 1 Fight as One
 1 Stormfist Crusader
@@ -370,28 +354,71 @@
 4 Worthy Knight
 4 Stormfist Crusader
 4 Blacklance Paragon
-1 Slitherwisp
-1 Dirge Bat
-1 Cunning Nightbonder
-1 Voracious Greatshark
-1 Unsummon
-1 Thryx, the Sudden Storm
-2 Slitherwisp
-2 Dirge Bat
-2 Cunning Nightbonder
-2 Voracious Greatshark
-2 Unsummon
-3 Slitherwisp
-3 Voracious Greatshark
-3 Dirge Bat
-3 Unsummon
-3 Cunning Nightbonder
-4 Unsummon
-4 Slitherwisp
-4 Voracious Greatshark
-4 Cunning Nightbonder
-4 Neutralize
-4 Dirge Bat
+1 Gingerbrute
+2 Gingerbrute
+3 Gingerbrute
+4 Gingerbrute
+6 Plains
+7 Plains
+8 Plains
+1 All That Glitters
+1 Alseid of Life's Bounty
+1 Sentinel's Eyes
+1 Karametra's Blessing
+2 All That Glitters
+2 Sentinel's Eyes
+2 Karametra's Blessing
+2 Alseid of Life's Bounty
+3 Karametra's Blessing
+3 All That Glitters
+3 Alseid of Life's Bounty
+3 Sentinel's Eyes
+4 Karametra's Blessing
+4 All That Glitters
+4 Alseid of Life's Bounty
+3 Stonecoil Serpent
+1 Ugin, the Spirit Dragon
+1 Solemn Simulacrum
+1 Mystic Forge
+1 Karn's Bastion
+1 Steel Overseer
+1 Crystalline Giant
+1 Ugin, the Ineffable
+1 Mobilized District
+1 Palladium Myr
+1 Interplanar Beacon
+2 Mobilized District
+2 Solemn Simulacrum
+2 Ugin, the Spirit Dragon
+2 Ugin, the Ineffable
+2 Mystic Forge
+2 Crystalline Giant
+2 Steel Overseer
+2 Radiant Fountain
+2 Palladium Myr
+2 Interplanar Beacon
+2 Karn's Bastion
+3 Solemn Simulacrum
+3 Ugin, the Ineffable
+3 Mystic Forge
+3 Steel Overseer
+3 Ugin, the Spirit Dragon
+3 Karn's Bastion
+3 Crystalline Giant
+3 Palladium Myr
+3 Interplanar Beacon
+3 Radiant Fountain
+4 Ugin, the Spirit Dragon
+4 Ugin, the Ineffable
+4 Mystic Forge
+4 Solemn Simulacrum
+4 Steel Overseer
+4 Stonecoil Serpent
+4 Karn's Bastion
+4 Interplanar Beacon
+4 Crystalline Giant
+4 Palladium Myr
+4 Radiant Fountain
 1 Selfless Savior
 1 Tajic, Legion's Edge
 1 Seasoned Hallowblade
@@ -402,8 +429,8 @@
 1 Alpine Watchdog
 1 Igneous Cur
 2 Selfless Savior
-2 Tajic, Legion's Edge
 2 Temple of Triumph
+2 Tajic, Legion's Edge
 2 Seasoned Hallowblade
 2 Winota, Joiner of Forces
 2 Legion Warboss
@@ -421,37 +448,10 @@
 4 Alpine Houndmaster
 4 Selfless Savior
 4 Temple of Triumph
-1 Migratory Greathorn
-1 Nylea, Keen-Eyed
-1 Pollywog Symbiote
-1 Beast Whisperer
-1 End-Raze Forerunners
-1 Paradise Druid
-1 Setessan Petitioner
-1 Auspicious Starrix
-2 Pollywog Symbiote
-2 Paradise Druid
-2 Auspicious Starrix
-2 Nylea, Keen-Eyed
-2 Setessan Petitioner
-2 Beast Whisperer
-2 Migratory Greathorn
-2 End-Raze Forerunners
-3 Paradise Druid
-3 Arboreal Grazer
-3 Pollywog Symbiote
-3 Pouncing Shoreshark
-3 Migratory Greathorn
-3 Auspicious Starrix
-3 Setessan Petitioner
-4 Paradise Druid
-4 Arboreal Grazer
-4 Pollywog Symbiote
-4 Migratory Greathorn
 1 Aphemia, the Cacophony
 1 Setessan Training
-1 Hateful Eidolon
 1 Kaya's Ghostform
+1 Hateful Eidolon
 1 Dead Weight
 1 Season of Growth
 1 Pious Wayfarer
@@ -460,8 +460,8 @@
 2 Indatha Triome
 2 Aphemia, the Cacophony
 2 Setessan Training
-2 Hateful Eidolon
 2 Kaya's Ghostform
+2 Hateful Eidolon
 2 Dead Weight
 2 Season of Growth
 2 Pious Wayfarer
@@ -493,9 +493,9 @@
 3 Pelt Collector
 4 Temple of Abandon
 4 Stomping Ground
+1 Shark Typhoon
 1 Ominous Seas
 1 Savai Triome
-1 Shark Typhoon
 1 Sanctuary Smasher
 2 Ominous Seas
 2 Yidaro, Wandering Monster

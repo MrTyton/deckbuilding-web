@@ -1,25 +1,31 @@
 1 Boil
-1 Tireless Tracker
-1 Fry
-1 Obstinate Baloth
-2 Obstinate Baloth
-1 Engineered Explosives
-1 Tormod's Crypt
+1 Pithing Needle
+1 Liquimetal Coating
+1 Ensnaring Bridge
+1 Walking Ballista
 2 Boil
 2 Weather the Storm
+1 Nihil Spellbomb
+2 Nihil Spellbomb
+1 Collective Brutality
+2 Collective Brutality
+1 Aether Gust
+2 Aether Gust
+1 Ashiok, Dream Render
+2 Ashiok, Dream Render
+1 Ceremonious Rejection
+2 Ceremonious Rejection
+1 Force of Negation
+1 Damnation
+1 Kalitas, Traitor of Ghet
+2 Damnation
+2 Kalitas, Traitor of Ghet
 1 Lightning Bolt
 2 Lightning Bolt
-1 Relic of Progenitus
-1 Yorion, Sky Nomad
-1 Galvanic Blast
-1 Sword of Fire and Ice
-1 Sorcerous Spyglass
-1 Knowledge Pool
-1 Skysovereign, Consul Flagship
 1 Wrenn and Six
 1 Wheel of Sun and Moon
 2 Wheel of Sun and Moon
-1 Pithing Needle
+1 Tormod's Crypt
 1 Elder Gargaroth
 1 Trinisphere
 1 God-Pharaoh's Statue
@@ -27,10 +33,20 @@
 2 Elder Gargaroth
 3 Anger of the Gods
 3 Elder Gargaroth
+2 Relic of Progenitus
+1 Cavern of Souls
+1 Dismember
+1 Emrakul, the Promised End
+1 Wilt
+2 Dismember
+2 Wilt
+2 Pithing Needle
+3 Grafdigger's Cage
+3 Wilt
 1 Torpor Orb
 1 Eidolon of the Great Revel
-1 Dragon's Claw
 1 Kozilek's Return
+1 Dragon's Claw
 2 Kozilek's Return
 2 Torpor Orb
 2 Eidolon of the Great Revel
@@ -38,60 +54,43 @@
 3 Dragon's Claw
 3 Torpor Orb
 3 Eidolon of the Great Revel
-1 Nihil Spellbomb
-2 Nihil Spellbomb
 1 Plague Engineer
 1 Pillage
-1 Collective Brutality
+1 Engineered Explosives
 1 Golgari Charm
 2 Pillage
-2 Collective Brutality
 3 Pillage
 3 Collective Brutality
 1 Firespout
-2 Grafdigger's Cage
-2 Beast Within
 3 Weather the Storm
 4 Weather the Storm
-1 Hour of Devastation
+1 Fry
+1 Tireless Tracker
+1 Obstinate Baloth
 2 Tireless Tracker
-1 Thragtusk
+2 Obstinate Baloth
 1 Reclamation Sage
-1 Choke
-2 Choke
-1 Chandra, Heart of Fire
-1 Mwonvuli Acid-Moss
-1 Path to Exile
-1 Rest in Peace
-1 Aven Mindcensor
-1 Sword of Light and Shadow
-2 Rest in Peace
-1 Celestial Purge
-1 Phyrexian Revoker
-2 Phyrexian Revoker
-1 Teferi, Time Raveler
-1 Deputy of Detention
-1 Unsettled Mariner
-1 Geist of Saint Traft
-1 Kor Firewalker
-1 Settle the Wreckage
-2 Kor Firewalker
-1 Abrupt Decay
-1 Scavenging Ooze
-1 Thoughtseize
-1 Assassin's Trophy
-1 Stain the Mind
-2 Abrupt Decay
-2 Scavenging Ooze
-2 Thoughtseize
-2 Reclamation Sage
-2 Stain the Mind
-1 Leyline of Sanctity
 1 Sweltering Suns
-2 Leyline of Sanctity
+1 Path to Exile
 2 Path to Exile
-2 Relic of Progenitus
+1 Chandra, Heart of Fire
+1 Hour of Devastation
+1 Mwonvuli Acid-Moss
+1 Thoughtseize
+1 Teferi, Time Raveler
+1 Goblin Cratermaker
+1 Mystical Dispute
+2 Thoughtseize
+2 Teferi, Time Raveler
+2 Goblin Cratermaker
+2 Plague Engineer
+2 Mystical Dispute
+3 Teferi, Time Raveler
+1 Leyline of Sanctity
+1 Choke
+2 Leyline of Sanctity
 2 Sweltering Suns
+2 Choke
 3 Path to Exile
 1 Grim Lavamancer
 1 Blood Moon
@@ -106,60 +105,55 @@
 2 Witch's Vengeance
 2 Shenanigans
 3 Fatal Push
-1 Ashiok, Dream Render
-2 Ashiok, Dream Render
+1 Yorion, Sky Nomad
 1 Dovin's Veto
+1 Celestial Purge
 1 Disdainful Stroke
 1 Supreme Verdict
+1 Thragtusk
 2 Supreme Verdict
 2 Dovin's Veto
 2 Celestial Purge
 2 Disdainful Stroke
 3 Ashiok, Dream Render
-1 Vryn Wingmare
-1 Blessed Alliance
-1 Winds of Abandon
-2 Aven Mindcensor
-2 Winds of Abandon
-3 Choke
-3 Rest in Peace
-1 Kunoros, Hound of Athreos
-1 Burrenton Forge-Tender
-1 Spellskite
-1 Gonti, Lord of Luxury
-1 Leonin Relic-Warder
-1 Containment Priest
-2 Kunoros, Hound of Athreos
-2 Burrenton Forge-Tender
-2 Containment Priest
-2 Leonin Relic-Warder
-2 Plague Engineer
-3 Burrenton Forge-Tender
-1 Abrade
-1 Cryptic Command
-1 Jegantha, the Wellspring
-1 Laboratory Maniac
-2 Abrade
-2 Cryptic Command
+1 Jace, the Mind Sculptor
+1 Field of the Dead
+2 Jace, the Mind Sculptor
+3 Damping Sphere
+1 Echoing Truth
+1 Wear/Tear
+1 Pyroclasm
+1 Monastery Mentor
+1 Timely Reinforcements
 4 Veil of Summer
-1 Force of Negation
-1 Ratchet Bomb
-1 Leyline of the Void
 1 Hero's Downfall
+1 Ratchet Bomb
 1 Liliana, the Last Hope
-1 Aether Gust
+1 Leyline of the Void
 2 Leyline of the Void
 2 Ratchet Bomb
-2 Aether Gust
 3 Aether Gust
 3 Leyline of the Void
 4 Aether Gust
 4 Leyline of the Void
-1 Dismember
-1 Knight of Autumn
-1 Remorseful Cleric
-2 Dismember
-2 Knight of Autumn
-2 Remorseful Cleric
-3 Dismember
-3 Damping Sphere
+1 Witchbane Orb
+1 Paradox Engine
+1 Crucible of Worlds
+1 Mindslaver
+1 Spatial Contortion
+2 Spatial Contortion
+3 Spatial Contortion
+4 Spatial Contortion
+1 Abrade
+1 Funeral Charm
+1 Angrath's Rampage
+1 Lightning Strike
+1 Blightning
+2 Funeral Charm
+2 Angrath's Rampage
+2 Blightning
+2 Lightning Strike
+3 Lightning Bolt
+3 Angrath's Rampage
+4 Lightning Bolt
+4 Angrath's Rampage

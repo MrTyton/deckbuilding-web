@@ -1,11 +1,13 @@
-2 Aether Gust
-3 Aether Gust
+4 Cultivate
+4 Nissa, Who Shakes the World
+5 Island
 1 Solemn Simulacrum
 2 Solemn Simulacrum
 3 Solemn Simulacrum
-3 Hydroid Krasis
-1 Ketria Triome
-2 Ketria Triome
+1 Wilderness Reclamation
+2 Wilderness Reclamation
+3 Wilderness Reclamation
+4 Wilderness Reclamation
 4 Shark Typhoon
 4 Mystical Dispute
 3 Arboreal Grazer
@@ -19,8 +21,6 @@
 3 Opt
 4 Quench
 4 Opt
-4 Cultivate
-4 Nissa, Who Shakes the World
 1 Tale's End
 1 Whirlwind Denial
 1 Chemister's Insight
@@ -60,8 +60,8 @@
 1 Thassa's Intervention
 2 Thassa's Intervention
 1 Llanowar Visionary
-1 Bonders' Enclave
 1 Scavenging Ooze
+1 Bonders' Enclave
 1 Mass Manipulation
 1 Castle Garenbrig
 1 Ugin, the Ineffable
@@ -82,21 +82,21 @@
 2 Cavalier of Thorns
 3 Cavalier of Thorns
 4 Aether Gust
-1 Frantic Inventory
-1 Root Snare
-1 Discontinuity
-1 Narset, Parter of Veils
-2 Teferi, Master of Time
-2 Frantic Inventory
-2 Root Snare
-2 Discontinuity
-3 Discontinuity
-3 Teferi, Master of Time
-3 Frantic Inventory
-3 Ketria Triome
-3 Root Snare
-4 Discontinuity
-4 Frantic Inventory
-4 Ketria Triome
 3 Thassa's Intervention
 4 Thassa's Intervention
+1 Frantic Inventory
+1 Discontinuity
+1 Narset, Parter of Veils
+1 Root Snare
+2 Teferi, Master of Time
+2 Frantic Inventory
+2 Discontinuity
+2 Root Snare
+3 Frantic Inventory
+3 Teferi, Master of Time
+3 Ketria Triome
+3 Discontinuity
+3 Root Snare
+4 Frantic Inventory
+4 Ketria Triome
+4 Discontinuity
