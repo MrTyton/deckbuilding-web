@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    4|[Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)         |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)           |
-|                    4|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)        |                    3|[Archon of Sun's Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476254) |
+|                    4|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)        |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)           |
+|                    4|[Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)         |                    3|[Archon of Sun's Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476254) |
 |                    4|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)            |                    2|[Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977)          |
 |                    3|[The Birth of Meletis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476256)   |                    1|[Dream Trawler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476465)         |
 |                    4|[Fires of Invention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473087)     |                    1|[Commence the Endgame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460972)  |
@@ -78,7 +78,7 @@
 |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)      |                    4|[Archon of Sun's Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476254) |
 |                    1|Mythos of Illuna                                                                                  |                     |                                                                                                 |
 |                    2|Mythos of Illuna                                                                                  |                     |                                                                                                 |
-|                    1|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)      |                     |                                                                                                 |
 |                    2|Narset of the Ancient Way                                                                         |                     |                                                                                                 |
 |                    2|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)      |                     |                                                                                                 |
+|                    1|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)      |                     |                                                                                                 |
 

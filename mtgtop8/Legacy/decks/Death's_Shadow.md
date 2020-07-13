@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)   |                    1|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2240)          |
-|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)    |                    1|[Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643)               |
+|                    1|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)   |                    1|[Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643)               |
+|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)    |                    1|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2240)          |
 |                    1|[Drown in the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473150)|                    1|[Golgari Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405245)         |
 |                    1|[Street Wraith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442097)    |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)        |
 |                    1|[Reanimate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220576)        |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)          |

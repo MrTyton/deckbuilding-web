@@ -2,95 +2,85 @@
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
-1 Surgical Extraction
-1 Plague Engineer
-2 Surgical Extraction
-2 Plague Engineer
-1 Pyroblast
 1 Abrade
+1 Pyroblast
 2 Pyroblast
-1 Thoughtseize
-1 Force of Negation
-1 Narset, Parter of Veils
-1 Eliminate
-1 Grafdigger's Cage
-1 Brazen Borrower
-1 Baleful Strix
-1 Liliana, the Last Hope
-1 Hymn to Tourach
-2 Baleful Strix
-2 Brazen Borrower
-2 Hymn to Tourach
-2 Thoughtseize
-1 Karakas
-2 Eliminate
-1 Null Rod
-3 Surgical Extraction
-1 Submerge
-1 Notion Thief
-1 Mystical Dispute
-2 Mystical Dispute
 2 Abrade
-1 Sorcerous Spyglass
-1 Ensnaring Bridge
-2 Sorcerous Spyglass
-1 Containment Priest
+1 Flusterstorm
+1 Relic of Progenitus
+2 Relic of Progenitus
+2 Flusterstorm
+1 Engineered Explosives
+1 Dispel
+2 Dispel
+3 Relic of Progenitus
+3 Pyroblast
+4 Relic of Progenitus
+1 Surgical Extraction
+2 Surgical Extraction
+1 Plague Engineer
 1 Pithing Needle
+1 Force of Negation
+3 Surgical Extraction
+1 Ensnaring Bridge
+2 Plague Engineer
+1 Null Rod
+1 Sorcerous Spyglass
+1 Containment Priest
+2 Sorcerous Spyglass
 1 Mindbreak Trap
 2 Mindbreak Trap
-1 Flusterstorm
-2 Force of Negation
-1 Collector Ouphe
 2 Pithing Needle
-1 Echoing Truth
+1 Submerge
+1 Thoughtseize
+2 Thoughtseize
+1 Collector Ouphe
+1 Mystical Dispute
+2 Mystical Dispute
+2 Force of Negation
+1 Notion Thief
 1 Disenchant
 1 Mycosynth Lattice
 1 Force of Vigor
 2 Containment Priest
 1 Council's Judgment
-1 Cling to Dust
 1 Damping Sphere
-1 Toxic Deluge
+1 Chains of Mephistopheles
+2 Chains of Mephistopheles
 1 Liquimetal Coating
+1 Toxic Deluge
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
 1 Walking Ballista
-1 Island
 1 Oblivion Ring
 2 Oblivion Ring
 1 Sanctum Prelate
 2 Sanctum Prelate
 1 Palace Jailer
-1 Dismember
 1 Deputy of Detention
+1 Dismember
 1 Orzhov Pontiff
 1 Imperial Recruiter
 1 Tomik, Distinguished Advokist
 1 Manic Vandal
 2 Dismember
+1 Karakas
 1 Carpet of Flowers
 1 Pernicious Deed
-1 Crop Rotation
 1 Bojuka Bog
+1 Crop Rotation
 2 Carpet of Flowers
 1 Pharika's Libation
 1 Duress
-1 Relic of Progenitus
 2 Duress
 2 Liquimetal Coating
-2 Relic of Progenitus
 2 Pharika's Libation
-2 Narset, Parter of Veils
 1 Sylvan Library
 1 Gut Shot
-2 Flusterstorm
+1 Echoing Truth
 2 Gut Shot
 2 Collector Ouphe
-1 Nihil Spellbomb
-1 Jace, the Mind Sculptor
-1 Leovold, Emissary of Trest
-1 Assassin's Trophy
-1 Liliana's Triumph
-1 Back to Basics
-2 Back to Basics
+1 Grafdigger's Cage
 1 Search for Azcanta
 1 Turnabout
 1 Pact of Negation
@@ -109,23 +99,24 @@
 1 Vendilion Clique
 2 Monastery Mentor
 2 Vendilion Clique
+1 Cling to Dust
 1 Trinisphere
-1 Chains of Mephistopheles
 1 Celestial Purge
 1 The Abyss
-2 Chains of Mephistopheles
 2 Celestial Purge
 1 Blazing Volley
 1 Veil of Summer
 2 Blazing Volley
 2 Veil of Summer
-1 Swords to Plowshares
 1 Lion's Eye Diamond
+1 Swords to Plowshares
 1 Glass Casket
 2 Swords to Plowshares
 2 Disenchant
 3 Swords to Plowshares
+1 Eliminate
 1 Curse of Exhaustion
+2 Eliminate
 3 Plague Engineer
 1 Blood Moon
 1 Cindervines
@@ -138,6 +129,15 @@
 2 Faerie Macabre
 2 Council's Judgment
 3 Faerie Macabre
+1 Yorion, Sky Nomad
+1 Collective Brutality
+1 Arcane Laboratory
+1 Engineered Plague
+2 Collective Brutality
+2 Arcane Laboratory
+2 Engineered Plague
+3 Collective Brutality
+3 Engineered Plague
 1 Rest in Peace
 1 Holy Light
 1 Fairgrounds Warden
@@ -155,22 +155,28 @@
 3 Null Rod
 3 Toxic Deluge
 4 Null Rod
-1 Death's Shadow
 1 Anger
 1 Cabal Therapy
+1 Death's Shadow
 2 Cabal Therapy
 2 Force of Vigor
 3 Cabal Therapy
 3 Force of Vigor
 4 Cabal Therapy
 4 Force of Vigor
-1 Volcanic Fallout
-1 Ashen Rider
-2 Volcanic Fallout
-2 Ashen Rider
-3 Sorcerous Spyglass
-3 Ashen Rider
-4 Ashen Rider
+1 Force of Will
+1 Seal of Cleansing
+1 Deafening Silence
+1 Parallax Tide
+1 Nevermore
+2 Force of Will
+2 Deafening Silence
+2 Parallax Tide
+2 Seal of Cleansing
+3 Force of Will
+3 Deafening Silence
+4 Force of Will
+4 Deafening Silence
 1 Spatial Contortion
 1 Phyrexian Revoker
 1 Karn, Scion of Urza
@@ -178,8 +184,10 @@
 2 Ensnaring Bridge
 2 Karn, Scion of Urza
 3 Ensnaring Bridge
-1 Soul-Guide Lantern
-1 Electrickery
-2 Echoing Truth
-3 Pyroblast
-4 Pyroblast
+1 Volcanic Fallout
+1 Ashen Rider
+2 Volcanic Fallout
+2 Ashen Rider
+3 Sorcerous Spyglass
+3 Ashen Rider
+4 Ashen Rider

@@ -2,8 +2,8 @@
 2 Clone
 2 Vizier of Many Faces
 3 Vizier of Many Faces
-1 Blooming Marsh
 1 Urborg, Tomb of Yawgmoth
+1 Blooming Marsh
 2 Blooming Marsh
 3 Blooming Marsh
 4 Blooming Marsh
@@ -31,6 +31,7 @@
 2 Hope of Ghirapur
 2 Mox Amber
 2 Lurrus of the Dream Den
+2 Spire of Industry
 2 Springleaf Drum
 2 Emry, Lurker of the Loch
 2 Kethis, the Hidden Hand
@@ -40,7 +41,6 @@
 2 Liliana, the Last Hope
 2 Diligent Excavator
 2 Hallowed Fountain
-2 Spire of Industry
 2 Botanical Sanctum
 3 Teferi, Time Raveler
 3 Mox Amber
@@ -65,9 +65,9 @@
 1 Forest
 1 Temple of Malady
 1 Swamp
-1 Overgrown Tomb
 1 Soulflayer
 1 Gather the Pack
+1 Overgrown Tomb
 1 Grisly Salvage
 1 Vine Mare
 1 Lotleth Troll
@@ -85,22 +85,22 @@
 2 Swamp
 2 Grisly Salvage
 2 Lotleth Troll
-2 Overgrown Tomb
 2 Zetalpa, Primal Dawn
 2 Gather the Pack
+2 Overgrown Tomb
 2 Soulflayer
 2 Questing Beast
 2 Vine Mare
 2 Gifted Aetherborn
 2 Skull Prophet
 3 Zetalpa, Primal Dawn
-3 Gather the Pack
 3 Grisly Salvage
 3 Soulflayer
 3 Lotleth Troll
+3 Gather the Pack
 3 Swamp
-3 Overgrown Tomb
 3 Questing Beast
+3 Overgrown Tomb
 3 Gifted Aetherborn
 4 Grisly Salvage
 4 Lotleth Troll
@@ -173,21 +173,21 @@
 1 Borborygmos Enraged
 1 Captain Lannery Storm
 1 Game Trail
+1 Bonecrusher Giant
 1 Worldspine Wurm
 1 Possibility Storm
 1 Emrakul, the Promised End
 1 Rosethorn Acolyte
-1 Bonecrusher Giant
 1 Lukka, Coppercoat Outcast
 1 Lovestruck Beast
 2 Possibility Storm
 2 Captain Lannery Storm
 2 Game Trail
 2 Worldspine Wurm
+2 Bonecrusher Giant
 2 Mountain
 2 Rosethorn Acolyte
 2 Lovestruck Beast
-2 Bonecrusher Giant
 2 Lukka, Coppercoat Outcast
 3 Possibility Storm
 3 Game Trail

@@ -40,7 +40,7 @@
 |                    4|Shark Typhoon                                                                                 |                     |                                                                                             |
 |                    4|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)  |                     |                                                                                             |
 |                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                |                     |                                                                                             |
-|                    4|[Hinterland Harbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443128)  |                     |                                                                                             |
-|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                             |
 |                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                             |
+|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                             |
+|                    4|[Hinterland Harbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443128)  |                     |                                                                                             |
 

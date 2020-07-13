@@ -1,23 +1,23 @@
-2 Irrigated Farmland
-2 Azorius Charm
-3 Sulfur Falls
-3 Irrigated Farmland
-3 Azorius Charm
-3 Hallowed Fountain
-4 Hallowed Fountain
-4 Irrigated Farmland
-4 Azorius Charm
-1 Castle Ardenvale
+1 Azorius Charm
 1 Deafening Clarion
+2 Irrigated Farmland
 2 Castle Ardenvale
+2 Azorius Charm
 2 Deafening Clarion
 3 Elspeth Conquers Death
 3 Deafening Clarion
+3 Sulfur Falls
+3 Irrigated Farmland
+3 Azorius Charm
 3 Glacial Fortress
 3 Gideon, Ally of Zendikar
 3 Supreme Verdict
+3 Hallowed Fountain
 3 Narset, Parter of Veils
+4 Hallowed Fountain
+4 Irrigated Farmland
 4 Narset, Parter of Veils
+4 Azorius Charm
 4 Plains
 1 Swamp
 2 Swamp
@@ -63,11 +63,11 @@
 3 Demonic Pact
 3 Oath of Kaya
 4 Shambling Vent
-1 Island
 4 Treacherous Blessing
 1 Caves of Koilos
 2 Caves of Koilos
 4 Flicker of Fate
+1 Island
 2 Fabled Passage
 3 Fabled Passage
 1 Mountain
@@ -114,27 +114,23 @@
 6 Plains
 1 Censor
 2 Island
-2 Censor
-3 Censor
-4 Censor
-1 Castle Vantress
-1 Shark Typhoon
-2 Shark Typhoon
-3 Shark Typhoon
-4 Shark Typhoon
 1 Blast Zone
 1 Growth Spiral
-1 Breeding Pool
+1 Castle Vantress
 1 Uro, Titan of Nature's Wrath
+1 Breeding Pool
 1 Wilderness Reclamation
+1 Shark Typhoon
 1 Forest
+2 Breeding Pool
 2 Blast Zone
 2 Growth Spiral
 2 Castle Vantress
 2 Forest
-2 Breeding Pool
+2 Shark Typhoon
 2 Wilderness Reclamation
 2 Uro, Titan of Nature's Wrath
+3 Shark Typhoon
 3 Breeding Pool
 3 Uro, Titan of Nature's Wrath
 3 Wilderness Reclamation
@@ -142,38 +138,12 @@
 4 Breeding Pool
 4 Wilderness Reclamation
 4 Growth Spiral
-1 Neutralize
-2 Neutralize
-3 Island
-1 Opt
-2 Opt
 1 Final Payment
 1 Yorion, Sky Nomad
 2 Yorion, Sky Nomad
 2 Final Payment
-1 Cast Out
-1 Zenith Flare
-1 Flourishing Fox
-1 Nimble Obstructionist
-1 Hieroglyphic Illumination
-2 Cast Out
-2 Flourishing Fox
-2 Zenith Flare
-2 Nimble Obstructionist
-2 Hieroglyphic Illumination
-3 Cast Out
-3 Neutralize
-3 Zenith Flare
-3 Flourishing Fox
-3 Hieroglyphic Illumination
-4 Neutralize
-4 Flourishing Fox
-4 Zenith Flare
-4 Cast Out
-4 Hieroglyphic Illumination
-4 Sulfur Falls
-1 Ketria Triome
 1 Stomping Ground
+1 Ketria Triome
 1 Pull from Tomorrow
 1 Bonecrusher Giant
 1 Expansion / Explosion
@@ -189,6 +159,7 @@
 3 Castle Vantress
 3 Ketria Triome
 3 Expansion / Explosion
+4 Shark Typhoon
 4 Ketria Triome
 4 Pull from Tomorrow
 4 Expansion / Explosion
@@ -204,8 +175,14 @@
 3 Walking Ballista
 4 Heliod, Sun-Crowned
 4 Walking Ballista
+1 Opt
+2 Censor
+2 Opt
+3 Censor
+4 Censor
 1 Dig Through Time
 1 Sinister Sabotage
+1 Neutralize
 1 Teferi, Master of Time
 1 Torrential Gearhulk
 1 Lumbering Falls
@@ -215,6 +192,7 @@
 1 Temple of Mystery
 2 Dig Through Time
 2 Sinister Sabotage
+2 Neutralize
 2 Teferi, Master of Time
 2 Lumbering Falls
 2 Hinterland Harbor
@@ -223,6 +201,7 @@
 2 Temple of Mystery
 2 Torrential Gearhulk
 3 Temple of Mystery
+3 Island
 3 Hinterland Harbor
 4 Island
 5 Island
@@ -235,14 +214,14 @@
 1 Dragonskull Summit
 1 Watery Grave
 1 Drowned Catacomb
-2 Dreadbore
 2 Drown in the Loch
 2 Tyrant's Scorn
 2 Blood Crypt
 2 Nicol Bolas, Dragon-God
+2 Dreadbore
 2 Nicol Bolas, the Ravager
-2 Watery Grave
 2 Drowned Catacomb
+2 Watery Grave
 2 Dragonskull Summit
 3 Opt
 3 Dreadbore
@@ -256,10 +235,10 @@
 3 Drowned Catacomb
 4 Opt
 4 Tyrant's Scorn
-4 Drown in the Loch
 4 Fatal Push
+4 Drown in the Loch
 4 Dreadbore
 4 Nicol Bolas, Dragon-God
-4 Watery Grave
 4 Nicol Bolas, the Ravager
+4 Watery Grave
 4 Blood Crypt

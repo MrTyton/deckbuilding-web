@@ -1,18 +1,13 @@
-1 Lava Dart
+1 Sacred Foundry
 1 Snow-Covered Mountain
 1 Snow-Covered Swamp
-1 Scalding Tarn
-2 Scalding Tarn
 2 Lava Dart
 2 Snow-Covered Mountain
-1 Marsh Flats
-3 Inquisition of Kozilek
-4 Inquisition of Kozilek
 2 Wooded Foothills
-1 Unearth
 1 Kiln Fiend
-4 Seal of Fire
-2 Unearth
+1 Unearth
+1 Scalding Tarn
+2 Scalding Tarn
 1 Magus of the Moon
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
@@ -60,9 +55,11 @@
 4 Wooded Foothills
 5 Forest
 6 Forest
+2 Unearth
 1 Polluted Delta
 2 Polluted Delta
 3 Polluted Delta
+3 Inquisition of Kozilek
 3 Scalding Tarn
 1 Watery Grave
 1 Island
@@ -76,11 +73,13 @@
 2 Mana Leak
 2 Steam Vents
 2 Serum Visions
+1 Marsh Flats
 1 Dreadhorde Arcanist
 1 Dark Confidant
 2 Dark Confidant
 2 Snow-Covered Swamp
 3 Dark Confidant
+4 Inquisition of Kozilek
 1 Darkslick Shores
 2 Darkslick Shores
 1 Sprite Dragon
@@ -205,61 +204,62 @@
 3 Blood Crypt
 3 Lava Dart
 3 Light Up the Stage
+4 Seal of Fire
 4 Blood Crypt
 4 Light Up the Stage
 1 Shadowspear
 1 Spellskite
-1 Stoneforge Mystic
-1 Magnetic Theft
-1 Giver of Runes
-1 Sigarda's Aid
-1 Kor Duelist
-1 Inkmoth Nexus
-1 Steelshaper's Gift
-1 Kor Outfitter
-1 Colossus Hammer
 1 Apostle's Blessing
 1 Inspiring Vantage
+1 Inkmoth Nexus
+1 Sigarda's Aid
+1 Giver of Runes
+1 Magnetic Theft
+1 Stoneforge Mystic
+1 Steelshaper's Gift
+1 Colossus Hammer
+1 Kor Outfitter
+1 Kor Duelist
 2 Sacred Foundry
-2 Kor Duelist
-2 Magnetic Theft
-2 Kor Outfitter
-2 Giver of Runes
-2 Colossus Hammer
-2 Stoneforge Mystic
-2 Sigarda's Aid
-2 Inkmoth Nexus
-2 Steelshaper's Gift
-2 Shadowspear
 2 Spellskite
+2 Shadowspear
 2 Plains
+2 Kor Outfitter
+2 Steelshaper's Gift
+2 Sigarda's Aid
+2 Stoneforge Mystic
+2 Colossus Hammer
+2 Kor Duelist
 2 Inspiring Vantage
-3 Inkmoth Nexus
-3 Steelshaper's Gift
-3 Kor Outfitter
-3 Plains
-3 Colossus Hammer
-3 Stoneforge Mystic
-3 Sigarda's Aid
-3 Kor Duelist
-3 Spellskite
-3 Magnetic Theft
-3 Giver of Runes
+2 Giver of Runes
+2 Magnetic Theft
+2 Inkmoth Nexus
 3 Sacred Foundry
 3 Inspiring Vantage
-4 Stoneforge Mystic
-4 Magnetic Theft
-4 Inkmoth Nexus
-4 Giver of Runes
-4 Colossus Hammer
-4 Steelshaper's Gift
-4 Plains
-4 Sigarda's Aid
-4 Kor Outfitter
-4 Spellskite
-4 Kor Duelist
+3 Spellskite
+3 Kor Duelist
+3 Inkmoth Nexus
+3 Giver of Runes
+3 Magnetic Theft
+3 Sigarda's Aid
+3 Stoneforge Mystic
+3 Colossus Hammer
+3 Plains
+3 Kor Outfitter
+3 Steelshaper's Gift
 4 Sacred Foundry
+4 Kor Duelist
+4 Magnetic Theft
+4 Giver of Runes
+4 Sigarda's Aid
+4 Steelshaper's Gift
 4 Inspiring Vantage
+4 Kor Outfitter
+4 Plains
+4 Colossus Hammer
+4 Inkmoth Nexus
+4 Stoneforge Mystic
+4 Spellskite
 5 Plains
 1 Misty Rainforest
 1 Lukka, Coppercoat Outcast

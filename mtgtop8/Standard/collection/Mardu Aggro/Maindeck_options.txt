@@ -28,18 +28,18 @@
 2 Cauldron Familiar
 2 Serrated Scorpion
 2 Priest of Forgotten Gods
-3 Dreadhorde Butcher
 3 Call of the Death-Dweller
+3 Dreadhorde Butcher
 3 Cauldron Familiar
 3 Priest of Forgotten Gods
 3 Claim the Firstborn
 3 Serrated Scorpion
 3 Witch's Oven
 3 Cruel Celebrant
-4 Dreadhorde Butcher
 4 Priest of Forgotten Gods
-4 Call of the Death-Dweller
+4 Dreadhorde Butcher
 4 Claim the Firstborn
+4 Call of the Death-Dweller
 4 Serrated Scorpion
 4 Cauldron Familiar
 4 Witch's Oven
@@ -80,9 +80,9 @@
 3 Mountain
 1 Sorin, Vengeful Bloodlord
 2 Sorin, Vengeful Bloodlord
+1 Tajic, Legion's Edge
 1 Judith, the Scourge Diva
 1 General's Enforcer
-1 Tajic, Legion's Edge
 2 Judith, the Scourge Diva
 2 General's Enforcer
 2 Tajic, Legion's Edge
@@ -112,9 +112,9 @@
 3 Footlight Fiend
 4 Footlight Fiend
 1 Raise the Alarm
-1 Kenrith, the Returned King
 1 Chandra, Acolyte of Flame
 1 Winota, Joiner of Forces
+1 Kenrith, the Returned King
 1 Legion Warboss
 1 Tin Street Dodger
 1 Robber of the Rich
@@ -125,11 +125,11 @@
 2 Winota, Joiner of Forces
 2 Tin Street Dodger
 2 Robber of the Rich
-3 Tin Street Dodger
 3 Legion Warboss
 3 Raise the Alarm
 3 Winota, Joiner of Forces
 3 Robber of the Rich
+3 Tin Street Dodger
 4 Raise the Alarm
 4 Winota, Joiner of Forces
 4 Robber of the Rich
@@ -140,8 +140,8 @@
 1 Fling
 1 Syr Gwyn, Hero of Ashvale
 1 Steelclaw Lance
-2 Luminous Broodmoth
 2 Weaponize the Monsters
+2 Luminous Broodmoth
 2 Colossus Hammer
 2 Fling
 2 Midnight Reaper

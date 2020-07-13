@@ -24,15 +24,11 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------------|
-|                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|                    1|[Invasive Surgery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409811)         |
-|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)    |                    1|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470)       |
-|                    2|[Tundra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=885)              |                    2|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470)       |
-|                    3|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676)  |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)      |
-|                     |                                                                                            |                    1|[On Thin Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463969)              |
-|                     |                                                                                            |                    1|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)                  |
-|                     |                                                                                            |                    1|[Lavinia, Azorius Renegade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457333)|
-|                     |                                                                                            |                    1|[Nahiri, the Lithomancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389612)  |
-|                     |                                                                                            |                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)        |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|                    1|[Invasive Surgery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409811)   |
+|                     |                                                                                            |                    1|[On Thin Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463969)        |
+|                     |                                                                                            |                    1|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470) |
+|                     |                                                                                            |                    2|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470) |
+|                     |                                                                                            |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 

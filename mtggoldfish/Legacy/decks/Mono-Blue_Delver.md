@@ -29,9 +29,9 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249373)    |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
-|                    2|[Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249373)    |                    1|[Divert](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429872)             |
-|                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107) |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)       |
+|                    1|[Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249373)    |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)       |
+|                    2|[Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249373)    |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
+|                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107) |                    1|[Divert](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429872)             |
 |                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)|                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
 |                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                    2|[Divert](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=429872)             |
 |                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107) |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
