@@ -77,13 +77,13 @@
 1 The Ozolith
 2 The Ozolith
 1 Mystic Repeal
-1 Knight of Autumn
-1 Destiny Spinner
 1 Leyline of Sanctity
+1 Destiny Spinner
+1 Knight of Autumn
 1 Shifting Ceratops
 2 Mystic Repeal
-2 Destiny Spinner
 2 Knight of Autumn
+2 Destiny Spinner
 2 Shifting Ceratops
 3 Shatter the Sky
 1 Prison Realm
@@ -94,9 +94,9 @@
 2 Take Vengeance
 2 Speaker of the Heavens
 3 Take Vengeance
-1 Kaya, Orzhov Usurper
 1 The Elderspell
 1 Kaya's Wrath
+1 Kaya, Orzhov Usurper
 2 Kaya, Orzhov Usurper
 2 The Elderspell
 2 Kaya's Wrath
@@ -114,8 +114,6 @@
 3 Conclave Tribunal
 3 Pacifism
 4 Pacifism
-3 Tithe Taker
-4 Apostle of Purifying Light
 3 Unbreakable Formation
 3 Lavabrink Venturer
 4 Unbreakable Formation
@@ -135,16 +133,16 @@
 4 Garrison Cat
 4 Griffin Aerie
 1 Stonecoil Serpent
-1 Runed Halo
 1 Containment Priest
+1 Runed Halo
 2 Gods Willing
 2 Stonecoil Serpent
 2 Containment Priest
 2 Runed Halo
+3 Stonecoil Serpent
 3 Gods Willing
 3 Runed Halo
 3 Containment Priest
-3 Stonecoil Serpent
 4 Gods Willing
 4 Runed Halo
 1 Beloved Princess
@@ -156,5 +154,7 @@
 3 Revoke Existence
 4 Beloved Princess
 4 Revoke Existence
+3 Tithe Taker
+4 Apostle of Purifying Light
 1 Bounty Agent
 2 Bounty Agent

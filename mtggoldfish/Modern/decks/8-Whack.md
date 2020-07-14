@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                    Maindeck Card                                    |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|-------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Hexdrinker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464117)|                    1|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796)|
-|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)    |                    2|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796)|
+|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)    |                    1|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796)|
+|                    1|[Hexdrinker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464117)|                    2|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796)|
 |                    2|[Hexdrinker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464117)|                    3|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796)|
 |                     |                                                                                     |                    4|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)  |
 

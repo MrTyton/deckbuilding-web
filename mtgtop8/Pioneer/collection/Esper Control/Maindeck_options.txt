@@ -1,34 +1,34 @@
 1 Shambling Vent
-1 Elspeth Conquers Death
 2 Teferi, Hero of Dominaria
 3 Isolated Chapel
 1 Thought Erasure
 2 Island
 4 Fabled Passage
-2 Elspeth Conquers Death
 2 Thought Erasure
+1 Elspeth Conquers Death
 4 Supreme Verdict
-1 Gideon of the Trials
+2 Elspeth Conquers Death
 1 Dovin's Veto
 1 Ashiok, Nightmare Muse
-2 Plains
-4 Trial of Ambition
+1 Gideon of the Trials
 2 Dovin's Veto
 3 Thought Erasure
 4 Thought Erasure
-2 Gideon of the Trials
 4 Narset, Parter of Veils
 1 Castle Ardenvale
-3 Gideon of the Trials
 1 Omen of the Sun
+2 Plains
+4 Trial of Ambition
+3 Teferi, Hero of Dominaria
+2 Gideon of the Trials
+1 Yorion, Sky Nomad
+2 Yorion, Sky Nomad
+3 Gideon of the Trials
 1 Shark Typhoon
 2 Shark Typhoon
-3 Teferi, Hero of Dominaria
 1 Fetid Pools
 2 Fetid Pools
 3 Fetid Pools
-1 Yorion, Sky Nomad
-2 Yorion, Sky Nomad
 1 Flicker of Fate
 2 Flicker of Fate
 3 Flicker of Fate
@@ -54,6 +54,7 @@
 3 Baffling End
 3 Swamp
 1 Azorius Charm
+1 The Elderspell
 2 Omen of the Sun
 1 Essence Scatter
 1 Elspeth, Sun's Nemesis
@@ -101,7 +102,6 @@
 1 Oath of Gideon
 1 Dovin Baan
 1 Karn, Scion of Urza
-1 The Elderspell
 1 Disinformation Campaign
 1 Legion's End
 2 Legion's End
@@ -114,13 +114,13 @@
 3 Thirst for Meaning
 4 Thirst for Meaning
 1 Cling to Dust
+1 Agent of Treachery
 1 Charming Prince
 1 Neutralize
 1 Settle the Wreckage
-1 Agent of Treachery
+2 Agent of Treachery
 2 Charming Prince
 2 Neutralize
-2 Agent of Treachery
 3 Charming Prince
 3 Neutralize
 4 Charming Prince
@@ -143,8 +143,8 @@
 1 Thraben Inspector
 1 Urborg, Tomb of Yawgmoth
 1 Blast Zone
-1 Duress
 1 Agonizing Remorse
+1 Duress
 1 Starfield of Nyx
 1 Murderous Rider
 2 Thraben Inspector
@@ -152,11 +152,11 @@
 2 Kaya's Wrath
 2 Duress
 3 Thraben Inspector
-3 Shambling Vent
 3 Murderous Rider
+3 Shambling Vent
 4 Shambling Vent
-4 Doom Foretold
 4 Swamp
+4 Doom Foretold
 5 Plains
 6 Plains
 1 Solemn Simulacrum

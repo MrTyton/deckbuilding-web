@@ -164,8 +164,8 @@
 3 Risen Reef
 3 Leafkin Druid
 3 Cavalier of Thorns
-3 Casualties of War
 3 Temple of Malady
+3 Casualties of War
 3 Growth Spiral
 3 Ketria Triome
 3 Thought Erasure
@@ -189,16 +189,16 @@
 6 Island
 7 Island
 1 Slitherwisp
-1 Cunning Nightbonder
 1 Dirge Bat
+1 Cunning Nightbonder
 2 Slitherwisp
 2 Dirge Bat
 2 Cunning Nightbonder
 3 Slitherwisp
 3 Dirge Bat
 3 Cunning Nightbonder
-4 Cunning Nightbonder
 4 Slitherwisp
+4 Cunning Nightbonder
 1 Arboreal Grazer
 2 Arboreal Grazer
 11 Forest
@@ -249,17 +249,17 @@
 1 Auspicious Starrix
 1 Beast Whisperer
 1 Migratory Greathorn
+1 Nylea, Keen-Eyed
 1 Pollywog Symbiote
 1 End-Raze Forerunners
 1 Paradise Druid
-1 Nylea, Keen-Eyed
 1 Setessan Petitioner
 2 Auspicious Starrix
 2 End-Raze Forerunners
 2 Migratory Greathorn
+2 Nylea, Keen-Eyed
 2 Pollywog Symbiote
 2 Paradise Druid
-2 Nylea, Keen-Eyed
 2 Setessan Petitioner
 2 Beast Whisperer
 3 Auspicious Starrix
@@ -302,8 +302,8 @@
 1 The Great Henge
 1 Cultivate
 1 Primal Might
-1 Marauding Raptor
 1 Garruk's Harbinger
+1 Marauding Raptor
 2 Garruk's Harbinger
 2 Cultivate
 2 Marauding Raptor
@@ -342,17 +342,6 @@
 4 Improbable Alliance
 4 Frostveil Ambush
 4 Startling Development
-1 Voracious Greatshark
-1 Unsummon
-1 Thryx, the Sudden Storm
-2 Voracious Greatshark
-2 Unsummon
-3 Voracious Greatshark
-3 Unsummon
-4 Voracious Greatshark
-4 Unsummon
-4 Dirge Bat
-4 Neutralize
 1 Foulmire Knight
 1 Fight as One
 1 Stormfist Crusader
@@ -409,6 +398,49 @@
 4 Karametra's Blessing
 4 All That Glitters
 4 Alseid of Life's Bounty
+1 Setessan Training
+1 Pious Wayfarer
+1 Hateful Eidolon
+1 Kaya's Ghostform
+1 Dead Weight
+1 Season of Growth
+1 Aphemia, the Cacophony
+1 Starfield Mystic
+1 Temple Garden
+2 Indatha Triome
+2 Setessan Training
+2 Hateful Eidolon
+2 Kaya's Ghostform
+2 Dead Weight
+2 Season of Growth
+2 Pious Wayfarer
+2 Starfield Mystic
+2 Aphemia, the Cacophony
+2 Temple Garden
+3 Indatha Triome
+3 Hateful Eidolon
+3 Setessan Training
+3 Dead Weight
+3 Starfield Mystic
+3 Aphemia, the Cacophony
+3 Temple Garden
+3 Season of Growth
+3 Pious Wayfarer
+4 Hateful Eidolon
+4 Setessan Training
+4 Temple Garden
+4 Season of Growth
+1 Voracious Greatshark
+1 Unsummon
+1 Thryx, the Sudden Storm
+2 Voracious Greatshark
+2 Unsummon
+3 Voracious Greatshark
+3 Unsummon
+4 Voracious Greatshark
+4 Neutralize
+4 Unsummon
+4 Dirge Bat
 3 Stonecoil Serpent
 1 Ugin, the Spirit Dragon
 1 Solemn Simulacrum
@@ -434,9 +466,9 @@
 3 Solemn Simulacrum
 3 Ugin, the Ineffable
 3 Mystic Forge
+3 Radiant Fountain
 3 Steel Overseer
 3 Ugin, the Spirit Dragon
-3 Radiant Fountain
 3 Karn's Bastion
 3 Crystalline Giant
 3 Palladium Myr
@@ -446,12 +478,12 @@
 4 Solemn Simulacrum
 4 Ugin, the Spirit Dragon
 4 Steel Overseer
-4 Radiant Fountain
 4 Stonecoil Serpent
 4 Karn's Bastion
 4 Interplanar Beacon
 4 Crystalline Giant
 4 Palladium Myr
+4 Radiant Fountain
 1 Selfless Savior
 1 Tajic, Legion's Edge
 1 Seasoned Hallowblade
@@ -494,38 +526,6 @@
 3 Pelt Collector
 4 Temple of Abandon
 4 Stomping Ground
-1 Setessan Training
-1 Pious Wayfarer
-1 Hateful Eidolon
-1 Kaya's Ghostform
-1 Dead Weight
-1 Season of Growth
-1 Aphemia, the Cacophony
-1 Starfield Mystic
-1 Temple Garden
-2 Indatha Triome
-2 Setessan Training
-2 Hateful Eidolon
-2 Kaya's Ghostform
-2 Dead Weight
-2 Season of Growth
-2 Pious Wayfarer
-2 Starfield Mystic
-2 Aphemia, the Cacophony
-2 Temple Garden
-3 Indatha Triome
-3 Hateful Eidolon
-3 Dead Weight
-3 Starfield Mystic
-3 Setessan Training
-3 Aphemia, the Cacophony
-3 Temple Garden
-3 Season of Growth
-3 Pious Wayfarer
-4 Hateful Eidolon
-4 Temple Garden
-4 Season of Growth
-4 Setessan Training
 1 The Royal Scions
 1 Ionize
 1 Shock

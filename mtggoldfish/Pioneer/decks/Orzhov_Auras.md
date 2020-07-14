@@ -75,6 +75,6 @@
 |                     |                                                                                                     |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)         |
 |                     |                                                                                                     |                    1|[Witch's Vengeance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473073)         |
 |                     |                                                                                                     |                    2|[Witch's Vengeance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473073)         |
-|                     |                                                                                                     |                    3|[Witch's Vengeance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473073)         |
 |                     |                                                                                                     |                    3|[Erase](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386533)                     |
+|                     |                                                                                                     |                    3|[Witch's Vengeance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473073)         |
 

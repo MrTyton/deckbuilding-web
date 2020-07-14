@@ -65,9 +65,9 @@
 1 Forest
 1 Temple of Malady
 1 Swamp
+1 Overgrown Tomb
 1 Soulflayer
 1 Gather the Pack
-1 Overgrown Tomb
 1 Lotleth Troll
 1 Vine Mare
 1 Grisly Salvage
@@ -82,14 +82,14 @@
 1 Skull Prophet
 1 Woodland Cemetery
 2 Temple of Malady
-2 Swamp
-2 Zetalpa, Primal Dawn
-2 Lotleth Troll
-2 Gather the Pack
-2 Overgrown Tomb
-2 Soulflayer
 2 Questing Beast
+2 Swamp
+2 Lotleth Troll
+2 Zetalpa, Primal Dawn
+2 Gather the Pack
+2 Soulflayer
 2 Grisly Salvage
+2 Overgrown Tomb
 2 Vine Mare
 2 Gifted Aetherborn
 2 Skull Prophet
@@ -99,14 +99,14 @@
 3 Lotleth Troll
 3 Grisly Salvage
 3 Swamp
-3 Questing Beast
 3 Overgrown Tomb
+3 Questing Beast
 3 Gifted Aetherborn
 4 Lotleth Troll
-4 Grisly Salvage
-4 Gather the Pack
 4 Zetalpa, Primal Dawn
+4 Gather the Pack
 4 Soulflayer
+4 Grisly Salvage
 4 Overgrown Tomb
 4 Swamp
 4 Gifted Aetherborn
@@ -189,8 +189,8 @@
 2 Mountain
 2 Lovestruck Beast
 2 Lukka, Coppercoat Outcast
-3 Possibility Storm
 3 Game Trail
+3 Possibility Storm
 3 Forest
 3 Captain Lannery Storm
 3 Rosethorn Acolyte
@@ -199,9 +199,9 @@
 3 Mountain
 3 Lukka, Coppercoat Outcast
 3 Lovestruck Beast
+4 Game Trail
 4 Rootbound Crag
 4 Possibility Storm
-4 Game Trail
 4 Forest
 4 Bonecrusher Giant
 4 Lovestruck Beast

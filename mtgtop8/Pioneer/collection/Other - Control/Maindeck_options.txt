@@ -11,8 +11,8 @@
 3 Azorius Charm
 3 Gideon, Ally of Zendikar
 3 Glacial Fortress
-3 Supreme Verdict
 3 Hallowed Fountain
+3 Supreme Verdict
 3 Narset, Parter of Veils
 4 Hallowed Fountain
 4 Irrigated Farmland
@@ -28,23 +28,23 @@
 1 Doom Foretold
 1 Trial of Ambition
 1 Urborg, Tomb of Yawgmoth
-1 Godless Shrine
-1 Isolated Chapel
 1 Oath of Kaya
+1 Isolated Chapel
+1 Godless Shrine
 2 Flicker of Fate
 2 Treacherous Blessing
 2 Shambling Vent
 2 Doom Foretold
 2 Isolated Chapel
-2 Trial of Ambition
 2 Godless Shrine
+2 Trial of Ambition
 3 Isolated Chapel
 3 Flicker of Fate
 3 Doom Foretold
 3 Treacherous Blessing
 3 Shambling Vent
-3 Trial of Ambition
 3 Godless Shrine
+3 Trial of Ambition
 4 Trial of Ambition
 4 Isolated Chapel
 4 Doom Foretold
@@ -70,8 +70,8 @@
 1 Island
 2 Fabled Passage
 3 Fabled Passage
-1 Mountain
 4 Fabled Passage
+1 Mountain
 1 Sweltering Suns
 2 Sweltering Suns
 3 Sweltering Suns
@@ -112,24 +112,24 @@
 4 Oath of Kaya
 5 Swamp
 6 Plains
-1 Censor
 2 Island
-1 Blast Zone
-1 Growth Spiral
-1 Castle Vantress
-1 Uro, Titan of Nature's Wrath
+1 Censor
 1 Breeding Pool
-1 Wilderness Reclamation
-1 Shark Typhoon
+1 Uro, Titan of Nature's Wrath
 1 Forest
 2 Breeding Pool
-2 Blast Zone
-2 Growth Spiral
-2 Castle Vantress
 2 Forest
-2 Shark Typhoon
-2 Wilderness Reclamation
 2 Uro, Titan of Nature's Wrath
+1 Blast Zone
+1 Wilderness Reclamation
+1 Growth Spiral
+1 Castle Vantress
+1 Shark Typhoon
+2 Blast Zone
+2 Shark Typhoon
+2 Castle Vantress
+2 Wilderness Reclamation
+2 Growth Spiral
 3 Shark Typhoon
 3 Breeding Pool
 3 Uro, Titan of Nature's Wrath
@@ -142,77 +142,97 @@
 1 Yorion, Sky Nomad
 2 Yorion, Sky Nomad
 2 Final Payment
+1 Arboreal Grazer
+1 Satyr Wayfinder
+1 Thassa, Deep-Dwelling
+1 Unesh, Criosphinx Sovereign
+1 Grapple with the Past
+1 Woodland Bellower
+1 Hostage Taker
+1 Eldritch Evolution
+1 Tasigur, the Golden Fang
+1 Cavalier of Gales
+1 Massacre Girl
+1 Cavalier of Night
+1 Botanical Sanctum
+1 Neoform
+1 Elvish Rejuvenator
+1 Yavimaya Coast
+1 Reclamation Sage
+1 Scavenging Ooze
+1 Thought-Knot Seer
+1 Overgrown Tomb
+1 Llanowar Wastes
+1 Blooming Marsh
+2 Arboreal Grazer
+2 Satyr Wayfinder
+2 Eldritch Evolution
+2 Grapple with the Past
+2 Tasigur, the Golden Fang
+2 Neoform
+2 Elvish Rejuvenator
+2 Yavimaya Coast
+2 Blooming Marsh
+2 Overgrown Tomb
+2 Llanowar Wastes
+3 Arboreal Grazer
+3 Satyr Wayfinder
+3 Eldritch Evolution
+3 Grapple with the Past
+3 Neoform
+3 Yavimaya Coast
+3 Llanowar Wastes
+3 Blooming Marsh
+3 Forest
+4 Satyr Wayfinder
+4 Arboreal Grazer
+4 Neoform
 1 Stomping Ground
 1 Ketria Triome
 1 Pull from Tomorrow
+1 Negate
 1 Bonecrusher Giant
 1 Expansion / Explosion
 1 Mystical Dispute
-1 Negate
 2 Stomping Ground
 2 Pull from Tomorrow
 2 Ketria Triome
-2 Expansion / Explosion
 2 Bonecrusher Giant
+2 Expansion / Explosion
 3 Castle Vantress
 3 Pull from Tomorrow
 3 Ketria Triome
-3 Stomping Ground
 3 Expansion / Explosion
+3 Stomping Ground
 4 Shark Typhoon
 4 Pull from Tomorrow
 4 Ketria Triome
 4 Expansion / Explosion
+1 Heliod, Sun-Crowned
+1 Shatter the Sky
+1 Arcanist's Owl
+1 Walking Ballista
+2 Heliod, Sun-Crowned
+2 Arcanist's Owl
+2 Shatter the Sky
+2 Walking Ballista
+3 Heliod, Sun-Crowned
+3 Walking Ballista
+4 Heliod, Sun-Crowned
+4 Walking Ballista
 1 Opt
 2 Censor
 2 Opt
 3 Censor
 4 Censor
-1 Nicol Bolas, the Ravager
-1 Drown in the Loch
-1 Tyrant's Scorn
-1 Blood Crypt
-1 Dragonskull Summit
-1 Nicol Bolas, Dragon-God
-1 Dreadbore
-1 Watery Grave
-1 Drowned Catacomb
-2 Drown in the Loch
-2 Tyrant's Scorn
-2 Blood Crypt
-2 Dragonskull Summit
-2 Nicol Bolas, Dragon-God
-2 Dreadbore
-2 Nicol Bolas, the Ravager
-2 Drowned Catacomb
-2 Watery Grave
-3 Opt
-3 Dreadbore
-3 Tyrant's Scorn
-3 Blood Crypt
-3 Dragonskull Summit
-3 Drown in the Loch
-3 Nicol Bolas, Dragon-God
-3 Watery Grave
-3 Nicol Bolas, the Ravager
-3 Drowned Catacomb
-4 Opt
-4 Tyrant's Scorn
-4 Blood Crypt
-4 Fatal Push
-4 Drown in the Loch
-4 Dreadbore
-4 Nicol Bolas, Dragon-God
-4 Nicol Bolas, the Ravager
-4 Watery Grave
 1 Lumbering Falls
 1 Dig Through Time
 1 Sinister Sabotage
 1 Sublime Epiphany
-1 Torrential Gearhulk
 1 Neutralize
-1 Teferi, Master of Time
+1 Torrential Gearhulk
 1 Temple of Mystery
+1 Teferi, Master of Time
 1 Hinterland Harbor
 1 Brazen Borrower
 2 Lumbering Falls
@@ -230,15 +250,40 @@
 3 Island
 4 Island
 5 Island
-1 Heliod, Sun-Crowned
-1 Arcanist's Owl
-1 Shatter the Sky
-1 Walking Ballista
-2 Heliod, Sun-Crowned
-2 Arcanist's Owl
-2 Shatter the Sky
-2 Walking Ballista
-3 Heliod, Sun-Crowned
-3 Walking Ballista
-4 Heliod, Sun-Crowned
-4 Walking Ballista
+1 Nicol Bolas, the Ravager
+1 Drown in the Loch
+1 Tyrant's Scorn
+1 Blood Crypt
+1 Dragonskull Summit
+1 Dreadbore
+1 Drowned Catacomb
+1 Nicol Bolas, Dragon-God
+1 Watery Grave
+2 Drown in the Loch
+2 Tyrant's Scorn
+2 Blood Crypt
+2 Dragonskull Summit
+2 Nicol Bolas, Dragon-God
+2 Nicol Bolas, the Ravager
+2 Watery Grave
+2 Dreadbore
+2 Drowned Catacomb
+3 Opt
+3 Dreadbore
+3 Tyrant's Scorn
+3 Blood Crypt
+3 Dragonskull Summit
+3 Drown in the Loch
+3 Nicol Bolas, Dragon-God
+3 Nicol Bolas, the Ravager
+3 Drowned Catacomb
+3 Watery Grave
+4 Opt
+4 Tyrant's Scorn
+4 Blood Crypt
+4 Fatal Push
+4 Dreadbore
+4 Nicol Bolas, Dragon-God
+4 Nicol Bolas, the Ravager
+4 Drown in the Loch
+4 Watery Grave

@@ -27,8 +27,8 @@
 3 Mystical Dispute
 1 Bonecrusher Giant
 1 Nightpack Ambusher
-2 Nightpack Ambusher
 2 Bonecrusher Giant
+2 Nightpack Ambusher
 3 Brazen Borrower
 3 Nightpack Ambusher
 3 Bonecrusher Giant
@@ -102,12 +102,12 @@
 1 Cultivate
 2 Cultivate
 3 Cultivate
-4 Cultivate
 4 Forest
+4 Cultivate
 1 Terror of the Peaks
 1 Yorion, Sky Nomad
-2 Yorion, Sky Nomad
 2 Terror of the Peaks
+2 Yorion, Sky Nomad
 3 Terror of the Peaks
 1 Wilderness Reclamation
 1 Questing Beast
@@ -119,11 +119,6 @@
 3 Expansion / Explosion
 3 Wilderness Reclamation
 4 Wilderness Reclamation
-1 Fire Prophecy
-2 Fire Prophecy
-3 Fire Prophecy
-4 Fire Prophecy
-4 Brineborn Cutthroat
 1 Gadwick, the Wizened
 1 Neutralize
 1 Ionize
@@ -133,10 +128,15 @@
 2 Negate
 2 Ionize
 3 Opt
-3 Gadwick, the Wizened
 3 Ionize
+3 Gadwick, the Wizened
 4 Opt
 4 Ionize
+1 Fire Prophecy
+2 Fire Prophecy
+3 Fire Prophecy
+4 Brineborn Cutthroat
+4 Fire Prophecy
 3 Quench
 3 Whirlwind Denial
 4 Island
