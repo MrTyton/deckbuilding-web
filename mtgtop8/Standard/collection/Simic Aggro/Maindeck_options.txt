@@ -25,18 +25,18 @@
 4 Migratory Greathorn
 9 Forest
 1 End-Raze Forerunners
-1 Auspicious Starrix
 1 Pollywog Symbiote
 1 Pouncing Shoreshark
+1 Auspicious Starrix
 2 End-Raze Forerunners
-2 Auspicious Starrix
 2 Pollywog Symbiote
 2 Pouncing Shoreshark
+2 Auspicious Starrix
 3 Arboreal Grazer
-3 Auspicious Starrix
-3 End-Raze Forerunners
 3 Pollywog Symbiote
 3 Pouncing Shoreshark
+3 End-Raze Forerunners
+3 Auspicious Starrix
 4 Gemrazer
 4 Pouncing Shoreshark
 1 Sinister Sabotage
@@ -47,8 +47,8 @@
 2 Brineborn Cutthroat
 1 Stonecoil Serpent
 4 Arboreal Grazer
-4 Auspicious Starrix
 4 Pollywog Symbiote
+4 Auspicious Starrix
 2 Uro, Titan of Nature's Wrath
 2 Quench
 3 Brineborn Cutthroat
@@ -58,8 +58,8 @@
 4 Frilled Mystic
 2 Stonecoil Serpent
 1 Blast Zone
-1 Mystic Subdual
 1 Chemister's Insight
+1 Mystic Subdual
 1 Essence Scatter
 3 Mystical Dispute
 3 Aether Gust
@@ -84,18 +84,18 @@
 1 Hydroid Krasis
 2 Hydroid Krasis
 3 Stonecoil Serpent
-4 Nissa, Who Shakes the World
 4 Stonecoil Serpent
+4 Nissa, Who Shakes the World
 1 Teferi, Master of Time
 1 Thryx, the Sudden Storm
 2 Barrin, Tolarian Archmage
 1 Unsummon
 2 Sea-Dasher Octopus
 3 Quench
-1 Zagoth Triome
 1 Voracious Greatshark
-2 Zagoth Triome
+1 Zagoth Triome
 2 Voracious Greatshark
+2 Zagoth Triome
 3 Voracious Greatshark
 1 Illuna, Apex of Wishes
 1 Ketria Triome
@@ -114,10 +114,10 @@
 4 Hydroid Krasis
 1 Frantic Inventory
 2 Frantic Inventory
-3 Frantic Inventory
 3 Sublime Epiphany
-4 Frantic Inventory
+3 Frantic Inventory
 4 Sublime Epiphany
+4 Frantic Inventory
 9 Island
 10 Island
 1 Ugin, the Spirit Dragon
@@ -129,8 +129,8 @@
 3 Elder Gargaroth
 3 Ugin, the Spirit Dragon
 3 Cultivate
-4 Cultivate
 4 Gilded Goose
+4 Cultivate
 10 Forest
 11 Forest
 12 Forest

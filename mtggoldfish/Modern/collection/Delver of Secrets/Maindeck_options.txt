@@ -57,15 +57,15 @@
 1 Vapor Snag
 3 Steam Vents
 2 Misty Rainforest
+1 Vantress Gargoyle
 1 Thieves' Guild Enforcer
 1 Spell Pierce
 1 Brazen Borrower
-1 Vantress Gargoyle
 1 Into the Story
-2 Thieves' Guild Enforcer
 2 Vantress Gargoyle
-3 Thieves' Guild Enforcer
+2 Thieves' Guild Enforcer
 3 Vantress Gargoyle
+3 Thieves' Guild Enforcer
 4 Drown in the Loch
 4 Thieves' Guild Enforcer
 2 Seal of Fire
@@ -77,21 +77,21 @@
 1 Deprive
 2 Cryptic Command
 1 Izzet Charm
-1 Underworld Breach
+1 Lotus Field
 1 Wishclaw Talisman
 1 Dream's Grip
 1 Tome Scour
+1 Underworld Breach
 1 Thassa's Oracle
-1 Lotus Field
-2 Underworld Breach
+2 Lotus Field
 2 Wishclaw Talisman
+2 Underworld Breach
 2 Tome Scour
 2 Dream's Grip
-2 Lotus Field
-3 Underworld Breach
-3 Tome Scour
 3 Lotus Field
+3 Tome Scour
 3 Dream's Grip
+3 Underworld Breach
 4 Remand
 4 Lotus Field
 4 Steam Vents
@@ -121,18 +121,6 @@
 3 Seachrome Coast
 3 Spell Snare
 3 Spirebluff Canal
-1 Raugrin Triome
-1 Shadow of Doubt
-1 Fact or Fiction
-1 Brineborn Cutthroat
-1 Plains
-2 Shadow of Doubt
-2 Fact or Fiction
-2 Brineborn Cutthroat
-3 Island
-3 Brineborn Cutthroat
-3 Path to Exile
-4 Brineborn Cutthroat
 1 Bitterblossom
 1 Creeping Tar Pit
 1 Field of Ruin
@@ -140,20 +128,27 @@
 2 Field of Ruin
 3 Bitterblossom
 4 Bitterblossom
-2 Izzet Charm
-4 Underworld Breach
 1 Sulfur Falls
 1 Glacial Fortress
 1 Disrupting Shoal
 2 Disrupting Shoal
 3 Disrupting Shoal
 4 Dreadhorde Arcanist
-1 Young Pyromancer
-1 Heartless Act
-2 Young Pyromancer
-3 Young Pyromancer
-4 Young Pyromancer
+1 Raugrin Triome
+1 Fact or Fiction
+1 Brineborn Cutthroat
+1 Shadow of Doubt
+1 Plains
+2 Fact or Fiction
+2 Brineborn Cutthroat
+2 Shadow of Doubt
+3 Island
+3 Brineborn Cutthroat
+3 Path to Exile
+4 Brineborn Cutthroat
 4 Meddling Mage
+2 Izzet Charm
+4 Underworld Breach
 1 Stomping Ground
 1 Stubborn Denial
 1 Manamorphose
@@ -178,3 +173,8 @@
 4 Hooting Mandrills
 4 Manamorphose
 4 Stubborn Denial
+1 Young Pyromancer
+1 Heartless Act
+2 Young Pyromancer
+3 Young Pyromancer
+4 Young Pyromancer

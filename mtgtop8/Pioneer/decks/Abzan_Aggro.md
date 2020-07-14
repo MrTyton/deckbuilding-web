@@ -29,10 +29,10 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|Drannith Magistrate                                                                         |                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)  |
-|                    2|[Sunpetal Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420946)   |                    3|Mythos of Nethroi                                                                             |
-|                    3|[Cruel Celebrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461115)  |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)       |
-|                    4|[Cartel Aristocrat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366364)|                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |
+|                    2|[Sunpetal Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420946)   |                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)  |
+|                    3|[Cruel Celebrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461115)  |                    3|Mythos of Nethroi                                                                             |
+|                    4|[Cartel Aristocrat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366364)|                    1|[Enlightened Ascetic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398414)|
+|                    1|Drannith Magistrate                                                                         |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |
 |                     |                                                                                            |                    3|[Dead Weight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452817)        |
-|                     |                                                                                            |                    1|[Enlightened Ascetic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398414)|
+|                     |                                                                                            |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)       |
 

@@ -1,18 +1,20 @@
-4 Cultivate
-4 Nissa, Who Shakes the World
-5 Island
+3 Shark Typhoon
+4 Fabled Passage
 1 Solemn Simulacrum
 2 Solemn Simulacrum
 3 Solemn Simulacrum
+3 Arboreal Grazer
+9 Forest
+4 Uro, Titan of Nature's Wrath
+5 Island
 1 Wilderness Reclamation
 2 Wilderness Reclamation
 3 Wilderness Reclamation
 4 Wilderness Reclamation
 4 Shark Typhoon
 4 Mystical Dispute
-3 Arboreal Grazer
-9 Forest
-4 Uro, Titan of Nature's Wrath
+1 Tamiyo, Collector of Tales
+6 Island
 1 Opt
 1 Quench
 2 Opt
@@ -21,23 +23,19 @@
 3 Opt
 4 Quench
 4 Opt
-1 Tale's End
-1 Whirlwind Denial
-1 Chemister's Insight
-1 Negate
-2 Whirlwind Denial
-2 Chemister's Insight
-2 Negate
-3 Whirlwind Denial
-3 Negate
-6 Island
-1 Tamiyo, Collector of Tales
 1 Nightpack Ambusher
 2 Nightpack Ambusher
 3 Nightpack Ambusher
 4 Nightpack Ambusher
-3 Chemister's Insight
-4 Whirlwind Denial
+1 Llanowar Visionary
+1 Mass Manipulation
+1 Castle Garenbrig
+2 Llanowar Visionary
+2 Castle Garenbrig
+4 Hydroid Krasis
+4 Arboreal Grazer
+7 Island
+10 Forest
 1 Frilled Mystic
 1 Neutralize
 1 Brazen Borrower
@@ -49,30 +47,30 @@
 3 Castle Vantress
 3 Brazen Borrower
 4 Frilled Mystic
+4 Castle Vantress
 4 Neutralize
 4 Brazen Borrower
-4 Castle Vantress
-7 Island
-10 Forest
+1 Tale's End
+1 Whirlwind Denial
+1 Chemister's Insight
+1 Negate
+2 Whirlwind Denial
+2 Chemister's Insight
+2 Negate
+3 Whirlwind Denial
+3 Negate
 3 Blast Zone
 4 Blast Zone
 1 Teferi, Master of Time
 1 Thassa's Intervention
 2 Thassa's Intervention
-1 Llanowar Visionary
-1 Scavenging Ooze
 1 Bonders' Enclave
-1 Mass Manipulation
-1 Castle Garenbrig
+1 Scavenging Ooze
 1 Ugin, the Ineffable
-2 Llanowar Visionary
 2 Ugin, the Ineffable
-2 Castle Garenbrig
 3 Castle Garenbrig
 3 Llanowar Visionary
 4 Solemn Simulacrum
-4 Hydroid Krasis
-4 Arboreal Grazer
 11 Forest
 12 Forest
 13 Forest
@@ -81,6 +79,10 @@
 2 Temple of Enlightenment
 2 Cavalier of Thorns
 3 Cavalier of Thorns
+1 Zagoth Triome
+2 Zagoth Triome
+2 Mass Manipulation
+4 Ugin, the Spirit Dragon
 4 Aether Gust
 3 Thassa's Intervention
 4 Thassa's Intervention
@@ -92,11 +94,13 @@
 2 Frantic Inventory
 2 Discontinuity
 2 Root Snare
-3 Frantic Inventory
 3 Teferi, Master of Time
-3 Ketria Triome
 3 Discontinuity
+3 Frantic Inventory
+3 Ketria Triome
 3 Root Snare
+4 Discontinuity
 4 Frantic Inventory
 4 Ketria Triome
-4 Discontinuity
+3 Chemister's Insight
+4 Whirlwind Denial

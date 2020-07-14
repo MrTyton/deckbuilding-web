@@ -13,17 +13,17 @@
 4 Island
 1 Forest
 1 Pentad Prism
+1 Scalding Tarn
 1 Song of Creation
-1 Noxious Revival
 1 Stomping Ground
-1 Mishra's Bauble
 1 Memnite
-1 Mana Confluence
+1 Mishra's Bauble
 1 Engineered Explosives
+1 Mana Confluence
 1 Pact of Negation
+1 Noxious Revival
 1 Wild Cantor
 1 Mountain
-1 Scalding Tarn
 1 Laboratory Maniac
 1 Simian Spirit Guide
 1 Commune with the Gods
@@ -33,8 +33,8 @@
 2 Pentad Prism
 2 Song of Creation
 2 Noxious Revival
-2 Mishra's Bauble
 2 Stomping Ground
+2 Mishra's Bauble
 2 Mana Confluence
 2 Memnite
 2 Engineered Explosives
@@ -62,9 +62,69 @@
 4 Song of Creation
 4 Simian Spirit Guide
 4 Wild Cantor
+1 Windswept Heath
+1 Umbral Mantle
+1 Leyline of Abundance
+1 Temple Garden
+1 Boreal Druid
+1 Horizon Canopy
+1 Selfless Spirit
+1 Ezuri, Renegade Leader
+1 Elvish Archdruid
+1 Heritage Druid
+1 Razorverge Thicket
+1 Devoted Druid
+1 Collected Company
+1 Marwyn, the Nurturer
+1 Stoneforge Mystic
+1 Llanowar Elves
+1 Beastcaller Savant
+1 Elvish Mystic
+2 Windswept Heath
+2 Leyline of Abundance
+2 Umbral Mantle
+2 Forest
+2 Elvish Mystic
+2 Marwyn, the Nurturer
+2 Llanowar Elves
+2 Ezuri, Renegade Leader
+2 Devoted Druid
+2 Temple Garden
+2 Elvish Archdruid
+2 Heritage Druid
+2 Razorverge Thicket
+2 Collected Company
+2 Beastcaller Savant
+2 Horizon Canopy
+3 Windswept Heath
+3 Leyline of Abundance
+3 Umbral Mantle
+3 Collected Company
+3 Devoted Druid
+3 Llanowar Elves
+3 Beastcaller Savant
+3 Horizon Canopy
+3 Elvish Mystic
+3 Temple Garden
+3 Elvish Archdruid
+3 Razorverge Thicket
+3 Ezuri, Renegade Leader
+4 Windswept Heath
+4 Ezuri, Renegade Leader
+4 Umbral Mantle
+4 Leyline of Abundance
+4 Collected Company
+4 Razorverge Thicket
+4 Elvish Mystic
+4 Horizon Canopy
+4 Devoted Druid
+4 Elvish Archdruid
+4 Llanowar Elves
+4 Temple Garden
 1 River of Tears
 1 Darkslick Shores
 1 Remand
+1 Jace, Wielder of Mysteries
 1 Opt
 1 Inquisition of Kozilek
 1 Omen of the Sea
@@ -76,14 +136,13 @@
 1 Drowned Catacomb
 1 Inverter of Truth
 1 Eldrazi Temple
-1 Jace, Wielder of Mysteries
 1 Shelldock Isle
 2 Darkslick Shores
 2 Remand
 2 River of Tears
 2 Shelldock Isle
-2 Inquisition of Kozilek
 2 Opt
+2 Inquisition of Kozilek
 2 Omen of the Sea
 2 Relic of Progenitus
 2 Jace, Wielder of Mysteries
@@ -117,62 +176,3 @@
 4 Fatal Push
 4 Watery Grave
 4 Inverter of Truth
-1 Windswept Heath
-1 Elvish Mystic
-1 Temple Garden
-1 Horizon Canopy
-1 Selfless Spirit
-1 Leyline of Abundance
-1 Ezuri, Renegade Leader
-1 Elvish Archdruid
-1 Heritage Druid
-1 Razorverge Thicket
-1 Boreal Druid
-1 Umbral Mantle
-1 Devoted Druid
-1 Collected Company
-1 Marwyn, the Nurturer
-1 Stoneforge Mystic
-1 Llanowar Elves
-1 Beastcaller Savant
-2 Windswept Heath
-2 Llanowar Elves
-2 Forest
-2 Leyline of Abundance
-2 Elvish Mystic
-2 Marwyn, the Nurturer
-2 Ezuri, Renegade Leader
-2 Devoted Druid
-2 Temple Garden
-2 Elvish Archdruid
-2 Heritage Druid
-2 Umbral Mantle
-2 Razorverge Thicket
-2 Collected Company
-2 Beastcaller Savant
-2 Horizon Canopy
-3 Windswept Heath
-3 Collected Company
-3 Devoted Druid
-3 Llanowar Elves
-3 Beastcaller Savant
-3 Horizon Canopy
-3 Elvish Mystic
-3 Leyline of Abundance
-3 Temple Garden
-3 Umbral Mantle
-3 Elvish Archdruid
-3 Razorverge Thicket
-3 Ezuri, Renegade Leader
-4 Windswept Heath
-4 Collected Company
-4 Leyline of Abundance
-4 Razorverge Thicket
-4 Umbral Mantle
-4 Elvish Mystic
-4 Horizon Canopy
-4 Devoted Druid
-4 Elvish Archdruid
-4 Llanowar Elves
-4 Temple Garden
-4 Ezuri, Renegade Leader
