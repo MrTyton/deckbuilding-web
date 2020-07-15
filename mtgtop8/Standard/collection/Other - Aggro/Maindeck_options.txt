@@ -45,12 +45,12 @@
 6 Mountain
 9 Forest
 10 Forest
-1 Radha, Heart of Keld
-1 Terror of the Peaks
 1 Heroic Intervention
 1 Scavenging Ooze
-2 Terror of the Peaks
+1 Terror of the Peaks
+1 Radha, Heart of Keld
 2 Radha, Heart of Keld
+2 Terror of the Peaks
 2 Heroic Intervention
 2 Scavenging Ooze
 3 Heroic Intervention
@@ -188,9 +188,9 @@
 5 Island
 6 Island
 7 Island
-1 Slitherwisp
-1 Dirge Bat
 1 Cunning Nightbonder
+1 Dirge Bat
+1 Slitherwisp
 2 Slitherwisp
 2 Dirge Bat
 2 Cunning Nightbonder
@@ -203,8 +203,8 @@
 2 Arboreal Grazer
 11 Forest
 1 Castle Vantress
-2 Pouncing Shoreshark
 2 Castle Vantress
+2 Pouncing Shoreshark
 1 Quench
 2 Quench
 3 Neutralize
@@ -217,8 +217,8 @@
 2 Brineborn Cutthroat
 3 Brazen Borrower
 3 Brineborn Cutthroat
-4 Brineborn Cutthroat
 4 Brazen Borrower
+4 Brineborn Cutthroat
 2 Steam Vents
 4 Plains
 5 Plains
@@ -246,33 +246,6 @@
 3 Fiend Artisan
 4 Temple of Malice
 4 Claim the Firstborn
-1 Auspicious Starrix
-1 Beast Whisperer
-1 Migratory Greathorn
-1 Nylea, Keen-Eyed
-1 Pollywog Symbiote
-1 End-Raze Forerunners
-1 Paradise Druid
-1 Setessan Petitioner
-2 Auspicious Starrix
-2 End-Raze Forerunners
-2 Migratory Greathorn
-2 Nylea, Keen-Eyed
-2 Pollywog Symbiote
-2 Paradise Druid
-2 Setessan Petitioner
-2 Beast Whisperer
-3 Auspicious Starrix
-3 Paradise Druid
-3 Migratory Greathorn
-3 Arboreal Grazer
-3 Pouncing Shoreshark
-3 Pollywog Symbiote
-3 Setessan Petitioner
-4 Migratory Greathorn
-4 Paradise Druid
-4 Arboreal Grazer
-4 Pollywog Symbiote
 1 Shark Typhoon
 1 Ominous Seas
 1 Savai Triome
@@ -284,25 +257,52 @@
 3 Footfall Crater
 4 Footfall Crater
 4 Yidaro, Wandering Monster
-1 Spectral Sailor
+1 Paradise Druid
+1 Auspicious Starrix
+1 Beast Whisperer
+1 Migratory Greathorn
+1 Nylea, Keen-Eyed
+1 Pollywog Symbiote
+1 End-Raze Forerunners
+1 Setessan Petitioner
+2 Auspicious Starrix
+2 Paradise Druid
+2 End-Raze Forerunners
+2 Migratory Greathorn
+2 Nylea, Keen-Eyed
+2 Pollywog Symbiote
+2 Setessan Petitioner
+2 Beast Whisperer
+3 Auspicious Starrix
+3 Migratory Greathorn
+3 Paradise Druid
+3 Arboreal Grazer
+3 Pouncing Shoreshark
+3 Pollywog Symbiote
+3 Setessan Petitioner
+4 Migratory Greathorn
+4 Paradise Druid
+4 Arboreal Grazer
+4 Pollywog Symbiote
 1 Heartless Act
+1 Spectral Sailor
 1 Ashiok's Erasure
-2 Spectral Sailor
 2 Heartless Act
 2 Ashiok's Erasure
 2 Temple of Deceit
-3 Spectral Sailor
+2 Spectral Sailor
 3 Mystical Dispute
 3 Heartless Act
 3 Temple of Deceit
-4 Spectral Sailor
+3 Spectral Sailor
 4 Temple of Deceit
 4 Heartless Act
+4 Spectral Sailor
 1 Garruk, Unleashed
-1 The Great Henge
-1 Cultivate
 1 Primal Might
+1 Cultivate
 1 Garruk's Harbinger
+1 The Great Henge
 1 Marauding Raptor
 2 Garruk's Harbinger
 2 Cultivate
@@ -316,16 +316,16 @@
 1 Serrated Scorpion
 1 Offspring's Revenge
 2 Cruel Celebrant
-2 Midnight Reaper
 2 Luminous Broodmoth
+2 Midnight Reaper
 2 Mythos of Snapdax
 2 Serrated Scorpion
+3 Serrated Scorpion
 3 Cruel Celebrant
 3 Midnight Reaper
 3 Mythos of Snapdax
-3 Serrated Scorpion
-4 Cruel Celebrant
 4 Serrated Scorpion
+4 Cruel Celebrant
 4 Midnight Reaper
 1 Improbable Alliance
 1 Startling Development
@@ -342,8 +342,8 @@
 4 Improbable Alliance
 4 Frostveil Ambush
 4 Startling Development
-1 Foulmire Knight
 1 Fight as One
+1 Foulmire Knight
 1 Stormfist Crusader
 1 Blacklance Paragon
 1 Inspiring Veteran
@@ -391,20 +391,20 @@
 2 Sentinel's Eyes
 2 Karametra's Blessing
 2 Alseid of Life's Bounty
+3 Sentinel's Eyes
 3 Karametra's Blessing
 3 All That Glitters
 3 Alseid of Life's Bounty
-3 Sentinel's Eyes
 4 Karametra's Blessing
 4 All That Glitters
 4 Alseid of Life's Bounty
 1 Setessan Training
-1 Pious Wayfarer
 1 Hateful Eidolon
 1 Kaya's Ghostform
 1 Dead Weight
 1 Season of Growth
 1 Aphemia, the Cacophony
+1 Pious Wayfarer
 1 Starfield Mystic
 1 Temple Garden
 2 Indatha Triome
@@ -438,15 +438,15 @@
 3 Voracious Greatshark
 3 Unsummon
 4 Voracious Greatshark
-4 Neutralize
 4 Unsummon
+4 Neutralize
 4 Dirge Bat
 3 Stonecoil Serpent
 1 Ugin, the Spirit Dragon
-1 Solemn Simulacrum
 1 Mystic Forge
 1 Karn's Bastion
 1 Steel Overseer
+1 Solemn Simulacrum
 1 Crystalline Giant
 1 Ugin, the Ineffable
 1 Mobilized District
@@ -463,9 +463,9 @@
 2 Karn's Bastion
 2 Palladium Myr
 2 Interplanar Beacon
-3 Solemn Simulacrum
 3 Ugin, the Ineffable
 3 Mystic Forge
+3 Solemn Simulacrum
 3 Radiant Fountain
 3 Steel Overseer
 3 Ugin, the Spirit Dragon
@@ -526,51 +526,51 @@
 3 Pelt Collector
 4 Temple of Abandon
 4 Stomping Ground
-1 The Royal Scions
 1 Ionize
 1 Shock
 1 Opt
 1 Omen of the Sea
 1 Temple of Epiphany
+1 The Royal Scions
 1 Sprite Dragon
-2 The Royal Scions
 2 Ionize
 2 Shock
+2 The Royal Scions
 2 Opt
 2 Sprite Dragon
 2 Omen of the Sea
 2 Temple of Epiphany
 3 Temple of Epiphany
-3 Omen of the Sea
 3 Ionize
+3 Omen of the Sea
 3 Sprite Dragon
 3 Shock
 3 Opt
 3 Steam Vents
-4 Omen of the Sea
-4 Ionize
 4 Temple of Epiphany
+4 Ionize
+4 Omen of the Sea
 4 Sprite Dragon
 4 Opt
 4 Steam Vents
 4 Shock
 9 Island
-1 Healer's Hawk
 1 Shadowspear
 1 Gods Willing
+1 Healer's Hawk
 1 Glaring Aegis
 1 Solid Footing
-2 Healer's Hawk
 2 Gods Willing
 2 Solid Footing
 2 Glaring Aegis
-3 Healer's Hawk
+2 Healer's Hawk
 3 Gods Willing
 3 Glaring Aegis
+3 Healer's Hawk
 3 Solid Footing
-4 Healer's Hawk
 4 Sentinel's Eyes
 4 Glaring Aegis
+4 Healer's Hawk
 4 Solid Footing
 9 Plains
 10 Plains

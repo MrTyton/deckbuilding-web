@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Golgari%20Aggro/Golgari%20Aggro.txt)
 #### [Export Arena List](../collection/Golgari%20Aggro/Golgari%20Aggro_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Castle%20Locthwain%0A1%09Chevill,%20Bane%20of%20Monsters%0A4%09Edgewall%20Innkeeper%0A2%09Fabled%20Passage%0A8%09Forest%0A4%09Foulmire%20Knight%0A3%09Jolrael,%20Mwonvuli%20Recluse%0A4%09Lovestruck%20Beast%0A4%09Murderous%20Rider%0A1%09Order%20of%20Midnight%0A4%09Overgrown%20Tomb%0A4%09Paradise%20Druid%0A4%09Rotting%20Regisaur%0A6%09Swamp%0A4%09Temple%20of%20Malady%0A3%09The%20Great%20Henge%0A3%09Village%20Rites&deckside=2%09Blightbeetle%0A1%09Izoni,%20Thousand-Eyed%0A2%09Order%20of%20Midnight%0A3%09Shifting%20Ceratops%0A2%09Thrashing%20Brontodon%0A1%09Titanoth%20Rex%0A1%09Umori,%20the%20Collector%0A2%09Yarok's%20Fenlurker%0A1%09Yorvo,%20Lord%20of%20Garenbrig)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Castle%20Locthwain%0A1%09Chevill,%20Bane%20of%20Monsters%0A4%09Edgewall%20Innkeeper%0A2%09Fabled%20Passage%0A8%09Forest%0A4%09Foulmire%20Knight%0A3%09Jolrael,%20Mwonvuli%20Recluse%0A4%09Lovestruck%20Beast%0A4%09Murderous%20Rider%0A1%09Order%20of%20Midnight%0A4%09Overgrown%20Tomb%0A4%09Paradise%20Druid%0A4%09Rotting%20Regisaur%0A6%09Swamp%0A4%09Temple%20of%20Malady%0A3%09The%20Great%20Henge%0A3%09Village%20Rites&deckside=1%09Chevill,%20Bane%20of%20Monsters%0A3%09Duress%0A2%09Eliminate%0A2%09Heartless%20Act%0A2%09Midnight%20Reaper%0A2%09Noxious%20Grasp%0A3%09Scavenging%20Ooze)
 # Maindeck
 
 |                                        Artifact (3)                                        |                                         Creature (25)                                         |                                          Land (25)                                          |        Unknown (7)        |
@@ -18,104 +18,67 @@
 
 # Sideboard
 
-|                                            Creature (13)                                            |     Unknown (2)      |
-|-----------------------------------------------------------------------------------------------------|----------------------|
-|2 [Blightbeetle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466841)            |1 Titanoth Rex        |
-|1 [Izoni, Thousand-Eyed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456054)    |1 Umori, the Collector|
-|2 [Order of Midnight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473061)       |                      |
-|3 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)       |                      |
-|2 [Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)     |                      |
-|2 [Yarok's Fenlurker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466877)       |                      |
-|1 [Yorvo, Lord of Garenbrig](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473147)|                      |
+|                                        Creature (5)                                        |                                       Instant (2)                                        |                                   Sorcery (3)                                    |        Unknown (5)        |
+|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------|
+|2 [Midnight Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452827)|2 [Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)|3 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)|1 Chevill, Bane of Monsters|
+|3 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)|                                                                                          |                                                                                  |2 Eliminate                |
+|                                                                                            |                                                                                          |                                                                                  |2 Heartless Act            |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
-|--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    7|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                     |                    1|Eliminate                                                                                 |
-|                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                     |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)|
-|                    1|Kogla, the Titan Ape                                                                                 |                    1|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)  |
-|                    1|[Syr Konrad, the Grim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473069)      |                    1|[Midnight Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452827)|
-|                    1|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)            |                    1|Heartless Act                                                                             |
-|                    1|[Jungle Hollow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405273)             |                    1|Chevill, Bane of Monsters                                                                 |
-|                    1|[Incubation Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457275)          |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)          |
-|                    1|[Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954)           |                    2|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)|
-|                    1|[Oakhame Adversary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473129)         |                    2|Eliminate                                                                                 |
-|                    1|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)           |                    2|[Noxious Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466864)  |
-|                    1|[Nightmare Shepherd](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476359)        |                    2|[Midnight Reaper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452827)|
-|                    1|[Gnarlback Rhino](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=469853)           |                    2|Heartless Act                                                                             |
-|                    1|[Garenbrig Paladin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473119)         |                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)          |
-|                    1|[Fierce Witchstalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473116)       |                    3|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)|
-|                    1|[Deathless Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473170)          |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)          |
-|                    1|[Renata, Called to the Hunt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476447)|                     |                                                                                          |
-|                    2|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)            |                     |                                                                                          |
-|                    2|[Incubation Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457275)          |                     |                                                                                          |
-|                    2|[Jungle Hollow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405273)             |                     |                                                                                          |
-|                    2|[Voracious Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466954)           |                     |                                                                                          |
-|                    2|[Oakhame Adversary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473129)         |                     |                                                                                          |
-|                    2|[Fierce Witchstalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473116)       |                     |                                                                                          |
-|                    2|[Garenbrig Paladin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473119)         |                     |                                                                                          |
-|                    2|[Deathless Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473170)          |                     |                                                                                          |
-|                    2|[Syr Konrad, the Grim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473069)      |                     |                                                                                          |
-|                    2|[Nightmare Shepherd](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476359)        |                     |                                                                                          |
-|                    2|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)           |                     |                                                                                          |
-|                    2|[Gnarlback Rhino](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=469853)           |                     |                                                                                          |
-|                    2|Kogla, the Titan Ape                                                                                 |                     |                                                                                          |
-|                    3|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)           |                     |                                                                                          |
-|                    3|[Gnarlback Rhino](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=469853)           |                     |                                                                                          |
-|                    4|[Arboreal Grazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461076)           |                     |                                                                                          |
-|                    9|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                     |                     |                                                                                          |
-|                    9|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                    |                     |                                                                                          |
-|                   10|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                    |                     |                                                                                          |
-|                    1|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)         |                     |                                                                                          |
-|                    1|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)       |                     |                                                                                          |
-|                    1|Heartless Act                                                                                        |                     |                                                                                          |
-|                    1|Pouncing Shoreshark                                                                                  |                     |                                                                                          |
-|                    1|Sea-Dasher Octopus                                                                                   |                     |                                                                                          |
-|                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)           |                     |                                                                                          |
-|                    1|Insatiable Hemophage                                                                                 |                     |                                                                                          |
-|                    1|[Knight of the Ebon Legion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466859) |                     |                                                                                          |
-|                    1|Dirge Bat                                                                                            |                     |                                                                                          |
-|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                    |                     |                                                                                          |
-|                    1|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)              |                     |                                                                                          |
-|                    1|[Temple of Deceit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373734)          |                     |                                                                                          |
-|                    1|Pollywog Symbiote                                                                                    |                     |                                                                                          |
-|                    2|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)         |                     |                                                                                          |
-|                    2|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)       |                     |                                                                                          |
-|                    2|Pouncing Shoreshark                                                                                  |                     |                                                                                          |
-|                    2|Sea-Dasher Octopus                                                                                   |                     |                                                                                          |
-|                    2|Heartless Act                                                                                        |                     |                                                                                          |
-|                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)           |                     |                                                                                          |
-|                    2|Insatiable Hemophage                                                                                 |                     |                                                                                          |
-|                    2|Dirge Bat                                                                                            |                     |                                                                                          |
-|                    2|[Knight of the Ebon Legion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466859) |                     |                                                                                          |
-|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                    |                     |                                                                                          |
-|                    2|Pollywog Symbiote                                                                                    |                     |                                                                                          |
-|                    2|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)              |                     |                                                                                          |
-|                    3|Pouncing Shoreshark                                                                                  |                     |                                                                                          |
-|                    3|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)         |                     |                                                                                          |
-|                    3|Dirge Bat                                                                                            |                     |                                                                                          |
-|                    3|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)       |                     |                                                                                          |
-|                    3|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)           |                     |                                                                                          |
-|                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                    |                     |                                                                                          |
-|                    3|Sea-Dasher Octopus                                                                                   |                     |                                                                                          |
-|                    3|Insatiable Hemophage                                                                                 |                     |                                                                                          |
-|                    3|[Knight of the Ebon Legion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466859) |                     |                                                                                          |
-|                    3|Pollywog Symbiote                                                                                    |                     |                                                                                          |
-|                    3|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)              |                     |                                                                                          |
-|                    4|Pouncing Shoreshark                                                                                  |                     |                                                                                          |
-|                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                    |                     |                                                                                          |
-|                    4|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)       |                     |                                                                                          |
-|                    4|Insatiable Hemophage                                                                                 |                     |                                                                                          |
-|                    4|[Knight of the Ebon Legion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466859) |                     |                                                                                          |
-|                    4|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)         |                     |                                                                                          |
-|                    4|Pollywog Symbiote                                                                                    |                     |                                                                                          |
-|                    4|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)              |                     |                                                                                          |
-|                    4|Sea-Dasher Octopus                                                                                   |                     |                                                                                          |
-|                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                    |                     |                                                                                          |
-|                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                    |                     |                                                                                          |
-|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                    |                     |                                                                                          |
-|                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                    |                     |                                                                                          |
-|                    9|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                    |                     |                                                                                          |
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|----------------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    1|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)        |                     |              |
+|                    1|Dirge Bat                                                                                           |                     |              |
+|                    1|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)      |                     |              |
+|                    1|Heartless Act                                                                                       |                     |              |
+|                    1|Sea-Dasher Octopus                                                                                  |                     |              |
+|                    1|Pouncing Shoreshark                                                                                 |                     |              |
+|                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)          |                     |              |
+|                    1|[Knight of the Ebon Legion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466859)|                     |              |
+|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |              |
+|                    1|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)             |                     |              |
+|                    1|[Temple of Deceit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373734)         |                     |              |
+|                    1|Pollywog Symbiote                                                                                   |                     |              |
+|                    1|Insatiable Hemophage                                                                                |                     |              |
+|                    2|Dirge Bat                                                                                           |                     |              |
+|                    2|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)        |                     |              |
+|                    2|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)      |                     |              |
+|                    2|Sea-Dasher Octopus                                                                                  |                     |              |
+|                    2|Heartless Act                                                                                       |                     |              |
+|                    2|Pouncing Shoreshark                                                                                 |                     |              |
+|                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)          |                     |              |
+|                    2|[Knight of the Ebon Legion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466859)|                     |              |
+|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |              |
+|                    2|Pollywog Symbiote                                                                                   |                     |              |
+|                    2|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)             |                     |              |
+|                    2|Insatiable Hemophage                                                                                |                     |              |
+|                    3|Pouncing Shoreshark                                                                                 |                     |              |
+|                    3|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)        |                     |              |
+|                    3|Dirge Bat                                                                                           |                     |              |
+|                    3|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)      |                     |              |
+|                    3|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)          |                     |              |
+|                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |              |
+|                    3|Sea-Dasher Octopus                                                                                  |                     |              |
+|                    3|[Knight of the Ebon Legion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466859)|                     |              |
+|                    3|Pollywog Symbiote                                                                                   |                     |              |
+|                    3|Insatiable Hemophage                                                                                |                     |              |
+|                    3|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)             |                     |              |
+|                    4|Pouncing Shoreshark                                                                                 |                     |              |
+|                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |              |
+|                    4|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)      |                     |              |
+|                    4|[Knight of the Ebon Legion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466859)|                     |              |
+|                    4|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)        |                     |              |
+|                    4|Insatiable Hemophage                                                                                |                     |              |
+|                    4|Pollywog Symbiote                                                                                   |                     |              |
+|                    4|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)             |                     |              |
+|                    4|Sea-Dasher Octopus                                                                                  |                     |              |
+|                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |              |
+|                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |              |
+|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |              |
+|                    7|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                    |                     |              |
+|                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |              |
+|                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                    |                     |              |
+|                    9|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |              |
 

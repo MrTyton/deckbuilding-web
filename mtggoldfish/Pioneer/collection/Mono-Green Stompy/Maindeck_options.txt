@@ -1,4 +1,3 @@
-1 Overgrown Tomb
 2 Blooming Marsh
 2 Llanowar Wastes
 2 Rotting Regisaur
@@ -11,32 +10,40 @@
 4 Llanowar Wastes
 4 Rotting Regisaur
 4 Overgrown Tomb
+1 Scrapheap Scrounger
+2 Scrapheap Scrounger
+4 Hashep Oasis
+3 Scrapheap Scrounger
+4 Scrapheap Scrounger
 4 Surrak, the Hunt Caller
 1 Syr Faren, the Hengehammer
 4 Aspect of Hydra
-1 Scrapheap Scrounger
-2 Scrapheap Scrounger
-15 Forest
-3 Scrapheap Scrounger
-4 Scrapheap Scrounger
 1 Questing Beast
-1 Heart of Kiran
 1 Scavenging Ooze
-2 Heart of Kiran
+15 Forest
 2 Scavenging Ooze
+1 Heart of Kiran
+2 Heart of Kiran
 1 Collected Company
 2 Collected Company
 3 Collected Company
 4 Collected Company
 1 Shadowspear
-2 Questing Beast
-4 Ghalta, Primal Hunger
-3 Scavenging Ooze
 4 The Great Henge
+2 Questing Beast
+3 Scavenging Ooze
+4 Ghalta, Primal Hunger
 2 Syr Faren, the Hengehammer
 1 Castle Garenbrig
+1 Garruk's Harbinger
+2 Garruk's Harbinger
+3 Garruk's Harbinger
+4 Garruk's Harbinger
 16 Forest
 3 Syr Faren, the Hengehammer
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
 1 Growth-Chamber Guardian
 2 Growth-Chamber Guardian
 3 Growth-Chamber Guardian
@@ -44,18 +51,11 @@
 1 Nessian Hornbeetle
 1 Kraul Harpooner
 2 Kraul Harpooner
-1 Garruk's Harbinger
-2 Garruk's Harbinger
-3 Garruk's Harbinger
-4 Garruk's Harbinger
 1 Tireless Tracker
 1 Kiora, Behemoth Beckoner
 2 Kiora, Behemoth Beckoner
 1 Setessan Tactics
 2 Setessan Tactics
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
 1 Rishkar, Peema Renegade
 2 Rishkar, Peema Renegade
 3 Rishkar, Peema Renegade
@@ -107,9 +107,9 @@
 4 Mutavault
 1 Gilded Goose
 2 Castle Garenbrig
-3 Yorvo, Lord of Garenbrig
 3 Castle Garenbrig
 3 Kraul Harpooner
+3 Yorvo, Lord of Garenbrig
 3 Rhonas the Indomitable
 4 Kraul Harpooner
 17 Forest

@@ -1,13 +1,13 @@
-4 Demonic Embrace
-20 Swamp
-1 Murderous Rider
-2 Murderous Rider
+3 Serrated Scorpion
+4 Serrated Scorpion
 3 Stonecoil Serpent
 4 Stonecoil Serpent
-2 Mobilized District
-3 Murderous Rider
+1 Murderous Rider
+2 Murderous Rider
 4 Eliminate
 2 Grasp of Darkness
+2 Mobilized District
+3 Murderous Rider
 1 Kitesail Freebooter
 2 Kitesail Freebooter
 3 Kitesail Freebooter
@@ -18,13 +18,6 @@
 1 Priest of Forgotten Gods
 1 Call of the Death-Dweller
 2 Call of the Death-Dweller
-1 Ayara, First of Locthwain
-1 Yarok's Fenlurker
-2 Yarok's Fenlurker
-2 Ayara, First of Locthwain
-4 Murderous Rider
-2 Priest of Forgotten Gods
-3 Priest of Forgotten Gods
 1 Village Rites
 1 Archfiend's Vessel
 2 Village Rites
@@ -40,6 +33,8 @@
 3 Witch's Oven
 3 Cauldron Familiar
 4 Kitesail Freebooter
+3 Grasp of Darkness
+4 Grasp of Darkness
 1 Lampad of Death's Vigil
 1 Witch's Cottage
 1 Whisper Squad
@@ -67,51 +62,48 @@
 3 Agonizing Remorse
 4 Agonizing Remorse
 3 Duress
+1 Ayara, First of Locthwain
+1 Yarok's Fenlurker
 1 Dread Presence
 2 Dread Presence
+2 Yarok's Fenlurker
+2 Ayara, First of Locthwain
 3 Yarok's Fenlurker
 4 Yarok's Fenlurker
-1 Midnight Reaper
-1 Nightmare Shepherd
-2 Nightmare Shepherd
-2 Tymaret, Chosen from Death
-1 Gray Merchant of Asphodel
-2 Gray Merchant of Asphodel
-3 Ayara, First of Locthwain
-3 Gray Merchant of Asphodel
-4 Gray Merchant of Asphodel
-1 Fiend Artisan
-2 Fiend Artisan
-3 Fiend Artisan
-4 Fiend Artisan
+4 Murderous Rider
+2 Priest of Forgotten Gods
+3 Priest of Forgotten Gods
 4 Priest of Forgotten Gods
-21 Swamp
 1 Drill Bit
 2 Drill Bit
 3 Drill Bit
 4 Drill Bit
+1 Liliana's Standard Bearer
+2 Liliana's Standard Bearer
+3 Mobilized District
 1 Order of Midnight
 3 Heartless Act
 3 Sanitarium Skeleton
-3 Mobilized District
 1 Kaya's Ghostform
 1 Hateful Eidolon
+1 Fiend Artisan
 1 Dead Weight
 2 Kaya's Ghostform
 2 Hateful Eidolon
+2 Fiend Artisan
 2 Dead Weight
 3 Hateful Eidolon
+3 Fiend Artisan
 3 Dead Weight
 4 Cauldron Familiar
+4 Fiend Artisan
 1 Hunted Nightmare
+1 Midnight Reaper
+1 Nightmare Shepherd
+2 Tymaret, Chosen from Death
+2 Nightmare Shepherd
 3 Nightmare Shepherd
 4 Nightmare Shepherd
-1 Erebos, Bleak-Hearted
-1 Foulmire Knight
-2 Midnight Reaper
-2 Foulmire Knight
-3 Foulmire Knight
-4 Foulmire Knight
 1 Mire Triton
 1 Lurrus of the Dream Den
 1 Woe Strider
@@ -123,16 +115,19 @@
 4 Mire Triton
 4 Lurrus of the Dream Den
 1 Davriel, Rogue Shadowmage
+1 Gray Merchant of Asphodel
 1 Drag to the Underworld
 2 Davriel, Rogue Shadowmage
 2 Drag to the Underworld
+2 Gray Merchant of Asphodel
 3 Dread Presence
 3 Davriel, Rogue Shadowmage
 3 Drag to the Underworld
+3 Ayara, First of Locthwain
+3 Gray Merchant of Asphodel
 4 Duress
 4 Drag to the Underworld
-3 Grasp of Darkness
-4 Grasp of Darkness
+4 Gray Merchant of Asphodel
 1 Banehound
 1 Bloodthirsty Aerialist
 1 Footlight Fiend
@@ -153,5 +148,6 @@
 4 Bloodthirsty Aerialist
 4 Footlight Fiend
 4 Vampire of the Dire Moon
+21 Swamp
 22 Swamp
 23 Swamp

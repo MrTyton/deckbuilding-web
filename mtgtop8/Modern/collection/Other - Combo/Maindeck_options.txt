@@ -18,14 +18,14 @@
 1 Stomping Ground
 1 Memnite
 1 Mishra's Bauble
-1 Wild Cantor
 1 Engineered Explosives
+1 Mana Confluence
 1 Pact of Negation
 1 Noxious Revival
+1 Wild Cantor
 1 Mountain
 1 Laboratory Maniac
 1 Simian Spirit Guide
-1 Mana Confluence
 1 Commune with the Gods
 1 Wooded Foothills
 1 Misty Rainforest
@@ -35,31 +35,31 @@
 2 Noxious Revival
 2 Stomping Ground
 2 Mishra's Bauble
+2 Mana Confluence
 2 Memnite
 2 Engineered Explosives
 2 Wild Cantor
 2 Shimmer of Possibility
 2 Simian Spirit Guide
 2 Pact of Negation
-2 Mana Confluence
 3 Steam Vents
 3 Mishra's Bauble
+3 Mana Confluence
+3 Song of Creation
 3 Engineered Explosives
 3 Shimmer of Possibility
-3 Mana Confluence
 3 Manamorphose
 3 Noxious Revival
 3 Pentad Prism
 3 Pact of Negation
-3 Song of Creation
 3 Wild Cantor
 3 Simian Spirit Guide
 4 Engineered Explosives
+4 Mana Confluence
+4 Song of Creation
 4 Pentad Prism
 4 Shimmer of Possibility
 4 Manamorphose
-4 Song of Creation
-4 Mana Confluence
 4 Simian Spirit Guide
 4 Wild Cantor
 1 Windswept Heath
@@ -67,6 +67,7 @@
 1 Temple Garden
 1 Leyline of Abundance
 1 Boreal Druid
+1 Horizon Canopy
 1 Selfless Spirit
 1 Ezuri, Renegade Leader
 1 Elvish Archdruid
@@ -75,7 +76,6 @@
 1 Devoted Druid
 1 Collected Company
 1 Marwyn, the Nurturer
-1 Horizon Canopy
 1 Stoneforge Mystic
 1 Llanowar Elves
 1 Beastcaller Savant
@@ -122,9 +122,9 @@
 4 Llanowar Elves
 4 Temple Garden
 1 River of Tears
+1 Drowned Catacomb
 1 Darkslick Shores
 1 Remand
-1 Jace, Wielder of Mysteries
 1 Opt
 1 Inquisition of Kozilek
 1 Omen of the Sea
@@ -133,9 +133,9 @@
 1 Thoughtseize
 1 Fatal Push
 1 Swamp
-1 Drowned Catacomb
 1 Inverter of Truth
 1 Eldrazi Temple
+1 Jace, Wielder of Mysteries
 1 Shelldock Isle
 2 Darkslick Shores
 2 Remand
@@ -172,7 +172,7 @@
 4 Remand
 4 Opt
 4 Darkslick Shores
+4 Watery Grave
 4 Drowned Catacomb
 4 Fatal Push
-4 Watery Grave
 4 Inverter of Truth

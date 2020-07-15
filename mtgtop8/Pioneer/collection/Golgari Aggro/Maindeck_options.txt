@@ -1,15 +1,15 @@
 4 Woodland Cemetery
 1 Pelt Collector
 1 Experiment One
-2 Scavenging Ooze
 2 Experiment One
 2 Pelt Collector
-3 Scavenging Ooze
+2 Scavenging Ooze
 3 Experiment One
 3 Pelt Collector
-4 Scavenging Ooze
-4 Pelt Collector
+3 Scavenging Ooze
 4 Experiment One
+4 Pelt Collector
+4 Scavenging Ooze
 7 Forest
 1 Rhonas the Indomitable
 1 Steel Leaf Champion
@@ -23,12 +23,12 @@
 1 Lovestruck Beast
 1 Rotting Regisaur
 1 Ghalta, Primal Hunger
+1 Shadowspear
 1 The Great Henge
 1 Heart of Kiran
 1 Surrak, the Hunt Caller
-1 Shadowspear
-2 Heart of Kiran
 2 Lovestruck Beast
+2 Heart of Kiran
 2 Rotting Regisaur
 2 Ghalta, Primal Hunger
 2 Rhonas the Indomitable
@@ -57,8 +57,8 @@
 4 Steel Overseer
 4 Metallic Mimic
 1 Hashep Oasis
-1 Zetalpa, Primal Dawn
 1 Grisly Salvage
+1 Zetalpa, Primal Dawn
 1 Lotleth Troll
 1 Gather the Pack
 1 Soulflayer
@@ -67,8 +67,8 @@
 2 Grisly Salvage
 2 Soulflayer
 2 Gather the Pack
-2 Zetalpa, Primal Dawn
 2 Lotleth Troll
+2 Zetalpa, Primal Dawn
 2 Questing Beast
 2 Sylvan Caryatid
 3 Grisly Salvage
@@ -79,8 +79,8 @@
 3 Sylvan Caryatid
 4 Grisly Salvage
 4 Soulflayer
-4 Gather the Pack
 4 Zetalpa, Primal Dawn
+4 Gather the Pack
 4 Lotleth Troll
 4 Sylvan Caryatid
 1 Murderous Rider
@@ -100,21 +100,21 @@
 2 Evolutionary Leap
 4 Chamber Sentry
 1 Blood Crypt
-1 Bomat Courier
 1 Traverse the Ulvenwald
+1 Bomat Courier
+1 Ghor-Clan Rampager
 1 Mana Confluence
 1 Samut, Voice of Dissent
 1 Chromanticore
-1 Ghor-Clan Rampager
 1 Carnage Tyrant
+2 Mana Confluence
 2 Blood Crypt
 2 Bomat Courier
 2 Traverse the Ulvenwald
-2 Mana Confluence
 2 Samut, Voice of Dissent
 2 Carnage Tyrant
-3 Bomat Courier
 3 Mana Confluence
+3 Bomat Courier
 3 Traverse the Ulvenwald
 3 Samut, Voice of Dissent
 4 Traverse the Ulvenwald
@@ -123,9 +123,9 @@
 1 Rishkar, Peema Renegade
 1 Voracious Hydra
 1 Nissa, Voice of Zendikar
+2 Hashep Oasis
 2 Vivien, Arkbow Ranger
 2 Voracious Hydra
-2 Hashep Oasis
 2 Nissa, Voice of Zendikar
 3 Vivien, Arkbow Ranger
 3 Nissa, Voice of Zendikar
@@ -148,51 +148,51 @@
 2 Thoughtseize
 3 Knight of the Ebon Legion
 3 Mutavault
-3 Castle Locthwain
 3 Stitcher's Supplier
 3 Fiend Artisan
+3 Castle Locthwain
 3 Deathrite Shaman
 3 Thoughtseize
 4 Knight of the Ebon Legion
 4 Mutavault
 4 Swamp
-4 Castle Locthwain
 4 Stitcher's Supplier
 4 Fiend Artisan
+4 Castle Locthwain
 4 Deathrite Shaman
 4 Thoughtseize
 5 Swamp
 6 Swamp
 1 Wildborn Preserver
 1 Unclaimed Territory
-1 Collected Company
 1 Westvale Abbey
 1 Chord of Calling
 1 Gnarlroot Trapper
+1 Collected Company
 1 Dwynen, Gilt-Leaf Daen
 1 Shaman of the Pack
 1 Elvish Clancaller
 1 Dwynen's Elite
 1 Lead the Stampede
-2 Unclaimed Territory
 2 Collected Company
+2 Unclaimed Territory
 2 Wildborn Preserver
 2 Dwynen's Elite
 2 Shaman of the Pack
 2 Lead the Stampede
 2 Elvish Clancaller
 2 Gnarlroot Trapper
-3 Unclaimed Territory
 3 Collected Company
+3 Unclaimed Territory
 3 Wildborn Preserver
 3 Gnarlroot Trapper
 3 Lead the Stampede
 3 Dwynen's Elite
 3 Shaman of the Pack
 3 Elvish Clancaller
-4 Wildborn Preserver
-4 Unclaimed Territory
 4 Collected Company
+4 Unclaimed Territory
 4 Elvish Clancaller
+4 Wildborn Preserver
 4 Shaman of the Pack
 4 Dwynen's Elite

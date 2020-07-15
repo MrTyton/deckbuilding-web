@@ -1,77 +1,76 @@
-1 Skycat Sovereign
-1 Empyrean Eagle
-1 Healer's Hawk
-2 Empyrean Eagle
-2 Healer's Hawk
-3 Empyrean Eagle
-3 Healer's Hawk
-4 Healer's Hawk
-7 Island
-8 Island
-1 Spectral Sailor
-2 Spectral Sailor
-1 Rally of Wings
-1 Hanged Executioner
-2 Rally of Wings
-4 Empyrean Eagle
-3 Spectral Sailor
-4 Spectral Sailor
-1 Sephara, Sky's Blade
-3 Rally of Wings
-1 Faerie Miscreant
-2 Faerie Miscreant
-3 Faerie Miscreant
-4 Faerie Miscreant
-1 Winged Words
-2 Winged Words
-3 Winged Words
-4 Winged Words
-9 Island
+1 Castle Ardenvale
+1 Elspeth Conquers Death
+1 Cavalier of Dawn
+1 Teferi, Time Raveler
+1 Deputy of Detention
+1 Yorion, Sky Nomad
+1 Thassa, Deep-Dwelling
+1 Castle Vantress
+1 Charming Prince
+1 Time Wipe
+1 Elite Guardmage
+2 Cavalier of Dawn
+2 Fblthp, the Lost
+2 Teferi, Time Raveler
+2 Castle Vantress
+2 Deputy of Detention
+2 Charming Prince
+2 Yorion, Sky Nomad
+2 Time Wipe
+2 Elite Guardmage
+2 Elspeth Conquers Death
+2 Thassa, Deep-Dwelling
+3 Fblthp, the Lost
+3 Teferi, Time Raveler
+3 Elspeth Conquers Death
+3 Elite Guardmage
+3 Thassa, Deep-Dwelling
+3 Charming Prince
+4 Elspeth Conquers Death
+4 Elite Guardmage
+4 Thassa, Deep-Dwelling
+4 Teferi, Time Raveler
+4 Charming Prince
 1 Faerie Vandal
 2 Faerie Vandal
 3 Faerie Vandal
 4 Faerie Vandal
-1 Tranquil Cove
-2 Tranquil Cove
-1 Lofty Denial
-2 Lofty Denial
-3 Lofty Denial
-4 Lofty Denial
+1 Brazen Borrower
 1 Cloudkin Seer
 1 Loyal Pegasus
-9 Plains
 2 Skycat Sovereign
+3 Skycat Sovereign
+4 Skycat Sovereign
+4 Rally of Wings
 10 Island
 1 Sea-Dasher Octopus
-1 Staggering Insight
-2 Staggering Insight
-3 Staggering Insight
-3 Tranquil Cove
-4 Tranquil Cove
+1 Tranquil Cove
+2 Tranquil Cove
+9 Plains
 1 Scrabbling Claws
-1 Brazen Borrower
 1 Faerie Duelist
 2 Faerie Duelist
 3 Faerie Duelist
 11 Island
 2 Cloudkin Seer
-2 Sephara, Sky's Blade
 2 Loyal Pegasus
 2 Hanged Executioner
-3 Skycat Sovereign
-4 Skycat Sovereign
-4 Rally of Wings
-1 Hushbringer
+2 Sephara, Sky's Blade
+1 Watcher of the Spheres
+2 Watcher of the Spheres
+3 Watcher of the Spheres
 2 Sea-Dasher Octopus
 10 Plains
-4 Staggering Insight
+1 Hushbringer
+1 Staggering Insight
+2 Staggering Insight
+3 Staggering Insight
+3 Tranquil Cove
+4 Tranquil Cove
 1 Gingerbrute
 2 Gingerbrute
 3 Gingerbrute
 4 Gingerbrute
-1 Watcher of the Spheres
-2 Watcher of the Spheres
-3 Watcher of the Spheres
 1 Unbreakable Formation
 1 Dovin's Veto
 2 Dovin's Veto
@@ -79,36 +78,19 @@
 3 Loyal Pegasus
 3 Hanged Executioner
 4 Loyal Pegasus
-1 Faerie Guidemother
 1 Ardenvale Tactician
+1 Faerie Guidemother
 1 Gust of Wind
 2 Faerie Guidemother
 2 Ardenvale Tactician
 2 Gust of Wind
 3 Faerie Guidemother
 4 Faerie Guidemother
-1 Ajani's Pridemate
-1 Ajani, Strength of the Pride
-1 Impassioned Orator
-1 Angel of Vitality
-1 Kasmina's Transmutation
-1 Azorius Skyguard
-1 Precognitive Perception
-2 Ajani's Pridemate
-2 Impassioned Orator
-2 Angel of Vitality
-2 Kasmina's Transmutation
-3 Ajani's Pridemate
-3 Impassioned Orator
-3 Angel of Vitality
-3 Kasmina's Transmutation
-4 Ajani's Pridemate
-4 Angel of Vitality
 1 Transcendent Envoy
 1 Essence Scatter
 1 Karametra's Blessing
-1 Sentinel's Eyes
 1 Drannith Magistrate
+1 Sentinel's Eyes
 1 Evolving Wilds
 1 Alseid of Life's Bounty
 1 All That Glitters
@@ -122,44 +104,54 @@
 3 Evolving Wilds
 3 Transcendent Envoy
 3 Omen of the Sea
-3 Sentinel's Eyes
 3 Alseid of Life's Bounty
 3 All That Glitters
 3 Karametra's Blessing
+3 Sentinel's Eyes
+4 Staggering Insight
 4 Evolving Wilds
 4 Omen of the Sea
 4 All That Glitters
 4 Karametra's Blessing
+1 Heraldic Banner
+1 Pteramander
+2 Pteramander
+2 Brazen Borrower
+3 Pteramander
+3 Brazen Borrower
+4 Pteramander
+4 Watcher of the Spheres
+4 Brazen Borrower
 1 Pollywog Symbiote
 1 Lazotep Plating
+1 Pouncing Shoreshark
 1 Fight as One
 1 Stonecoil Serpent
-1 Pouncing Shoreshark
 1 Cubwarden
 1 Huntmaster Liger
 1 Vulpikeet
 2 Pollywog Symbiote
 2 Stonecoil Serpent
+2 Pouncing Shoreshark
 2 Cubwarden
 2 Lazotep Plating
 2 Fight as One
-2 Pouncing Shoreshark
 2 Huntmaster Liger
 2 Vulpikeet
 3 Pollywog Symbiote
 3 Stonecoil Serpent
-3 Cubwarden
 3 Pouncing Shoreshark
+3 Cubwarden
 3 Vulpikeet
 3 Huntmaster Liger
 3 Sea-Dasher Octopus
-4 Pouncing Shoreshark
 4 Pollywog Symbiote
 4 Stonecoil Serpent
+4 Pouncing Shoreshark
 4 Cubwarden
 4 Vulpikeet
-4 Huntmaster Liger
 4 Sea-Dasher Octopus
+4 Huntmaster Liger
 1 Dream Trawler
 12 Island
 13 Island

@@ -64,6 +64,6 @@
 |                    2|[Seal of Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185817)              |                    4|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
 |                    1|[Burst Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397662)           |                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)     |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)          |                    2|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)     |
-|                    6|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)       |                    3|[Pillage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14755)             |
-|                    3|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
+|                    6|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)       |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
+|                    3|[Chandra, Torch of Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417683)|                    3|[Pillage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14755)             |
 

@@ -1,22 +1,19 @@
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-3 Damping Sphere
-1 Elspeth Conquers Death
-1 Gideon of the Trials
-4 Thoughtseize
-1 Shatter the Sky
 2 Gideon of the Trials
-1 Soul-Guide Lantern
-1 Duress
+2 Dovin's Veto
+1 Yorion, Sky Nomad
+1 Unmoored Ego
+4 Thoughtseize
 1 Ashiok, Dream Render
+1 Duress
 1 Ashiok's Erasure
 1 Davriel, Rogue Shadowmage
 1 Cleansing Nova
 1 Moment of Craving
-1 Kalitas, Traitor of Ghet
-2 Soul-Guide Lantern
+2 Unmoored Ego
+4 Mystical Dispute
 1 Agonizing Remorse
+1 Elspeth Conquers Death
+2 Rest in Peace
 2 Agonizing Remorse
 4 Damping Sphere
 1 Legion's End
@@ -27,28 +24,36 @@
 3 Blink of an Eye
 1 Abrupt Decay
 1 Lurrus of the Dream Den
-1 Questing Beast
 1 Heartless Act
 2 Heartless Act
+2 Kalitas, Traitor of Ghet
 1 Infinite Obliteration
 2 Abrupt Decay
+1 Grafdigger's Cage
+1 Scavenging Ooze
+1 Heroic Intervention
+1 Destructive Revelry
+1 Rending Volley
+1 Shadowspear
+2 Destructive Revelry
+3 Rest in Peace
 1 Sorcerous Spyglass
 1 Assassin's Trophy
 2 Assassin's Trophy
 2 Elspeth Conquers Death
+1 Negate
 1 Gideon's Intervention
 1 Reclamation Sage
 2 Reclamation Sage
+1 The Elderspell
 1 Isolate
 1 Healing Grace
-1 The Elderspell
-2 Kalitas, Traitor of Ghet
 1 Kunoros, Hound of Athreos
+1 Kaya, Orzhov Usurper
 1 Anguished Unmaking
 1 Glare of Heresy
 1 Devout Decree
 1 Arguel's Blood Fast
-1 Kaya, Orzhov Usurper
 1 Murderous Rider
 1 Liliana, the Last Hope
 1 Disfigure
@@ -62,22 +67,20 @@
 1 Perilous Vault
 1 Jace's Defeat
 1 Noxious Gearhulk
-2 Shatter the Sky
+1 Cry of the Carnarium
+1 Ashiok, Nightmare Muse
+1 Narset, Parter of Veils
+2 Cry of the Carnarium
 1 Settle the Wreckage
 1 Deafening Silence
 1 Starfield of Nyx
 2 Settle the Wreckage
 2 Sorcerous Spyglass
-1 Kaya's Wrath
-2 Kaya's Wrath
-1 Glass Casket
-1 Scavenging Ooze
-1 Tireless Tracker
-1 Mythos of Nethroi
-1 Gonti, Lord of Luxury
-1 Knight of Autumn
-2 Gonti, Lord of Luxury
-2 Mythos of Nethroi
+1 Fatal Push
+1 Thrashing Brontodon
+1 Savage Summoning
+2 Fatal Push
+2 Savage Summoning
 1 Tomik, Distinguished Advokist
 1 Deicide
 1 Ixalan's Binding
@@ -87,11 +90,13 @@
 1 Blightbeetle
 2 Blightbeetle
 2 Infinite Obliteration
-1 Thrashing Brontodon
-1 Fatal Push
-1 Savage Summoning
-2 Savage Summoning
-2 Fatal Push
+1 Thought-Knot Seer
+1 Hornet Queen
+1 Phyrexian Revoker
+1 Ugin, the Spirit Dragon
+1 Deathgorge Scavenger
+3 Abrupt Decay
+1 Questing Beast
 2 Questing Beast
 3 Questing Beast
 1 Baffling End
@@ -103,46 +108,52 @@
 3 Baffling End
 3 Gideon of the Trials
 3 Unmoored Ego
-1 Thought-Knot Seer
-1 Hornet Queen
-1 Phyrexian Revoker
-1 Ugin, the Spirit Dragon
-1 Deathgorge Scavenger
-3 Abrupt Decay
 1 Drannith Magistrate
 1 Caustic Caterpillar
 1 Dead Weight
 1 Enlightened Ascetic
 2 Dead Weight
 3 Dead Weight
+1 Lava Coil
+2 Lava Coil
+2 Scavenging Ooze
+2 Rending Volley
+3 Rending Volley
 1 Disdainful Stroke
 2 Disdainful Stroke
 1 Brazen Borrower
 1 Flaying Tendrils
-1 Negate
 1 Wilt
 2 Brazen Borrower
-2 Negate
 2 Flaying Tendrils
 2 Wilt
+2 Negate
 3 Flaying Tendrils
+1 Blossoming Defense
+1 Chandra, Torch of Defiance
+1 Magma Spray
+1 Roast
+2 Roast
+3 Destructive Revelry
 1 Dusk/Dawn
 2 Dusk/Dawn
+3 Dovin's Veto
 4 Dovin's Veto
 3 Soul-Guide Lantern
 1 Anger of the Gods
 2 Anger of the Gods
-1 Rankle, Master of Pranks
 1 Ratchet Bomb
+1 Rankle, Master of Pranks
 1 Necromentia
 2 Rankle, Master of Pranks
 2 Necromentia
 3 Necromentia
 4 Soul-Guide Lantern
+1 Glass Casket
 1 Stubborn Denial
 1 Tormod's Crypt
-2 Glass Casket
 2 Isolate
+2 Glass Casket
 2 Tormod's Crypt
 3 Glass Casket
 3 Isolate
@@ -166,6 +177,12 @@
 3 Gideon's Intervention
 4 Seal Away
 4 Gideon's Intervention
-3 Agonizing Remorse
 3 Legion's End
+3 Agonizing Remorse
 4 Blink of an Eye
+1 Annul
+2 Grafdigger's Cage
+2 Ashiok, Dream Render
+2 Annul
+3 Annul
+4 Annul
