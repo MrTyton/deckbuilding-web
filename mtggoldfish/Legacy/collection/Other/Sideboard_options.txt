@@ -16,49 +16,50 @@
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
-1 Disenchant
-1 Ensnaring Bridge
-1 Abrade
-2 Abrade
+1 Force of Negation
 1 Pyroblast
+1 Surgical Extraction
 2 Pyroblast
+3 Pyroblast
+1 Abrade
+1 Flusterstorm
 1 Relic of Progenitus
 2 Relic of Progenitus
-3 Pyroblast
-1 Flusterstorm
+2 Abrade
 1 Engineered Explosives
 1 Dispel
 2 Flusterstorm
 2 Dispel
 3 Relic of Progenitus
 4 Relic of Progenitus
-1 Force of Negation
-1 Mycosynth Lattice
-1 Surgical Extraction
+1 Disenchant
 1 Containment Priest
 1 Pithing Needle
+1 Ensnaring Bridge
 2 Containment Priest
 1 Sorcerous Spyglass
 2 Sorcerous Spyglass
+1 Path to Exile
 1 Mindbreak Trap
 2 Mindbreak Trap
-2 Surgical Extraction
-1 Path to Exile
 2 Pithing Needle
+4 Pyroblast
+1 Mycosynth Lattice
+2 Plague Engineer
+1 Karakas
 1 Council's Judgment
 1 Force of Vigor
+2 Surgical Extraction
 1 Oblivion Ring
 2 Oblivion Ring
-2 Plague Engineer
-1 Damping Sphere
 1 Grand Abolisher
 1 Bitterblossom
 1 Sanctum Prelate
 2 Sanctum Prelate
 1 Deputy of Detention
 1 Imperial Recruiter
-1 Orzhov Pontiff
 1 Dismember
+1 Orzhov Pontiff
 1 Tomik, Distinguished Advokist
 1 Manic Vandal
 2 Dismember
@@ -68,18 +69,30 @@
 2 Duress
 2 Pharika's Libation
 2 Liquimetal Coating
-1 Lion's Eye Diamond
 1 Walking Ballista
+1 Lion's Eye Diamond
 1 Glass Casket
 2 Disenchant
+1 Jace, the Mind Sculptor
+1 Nihil Spellbomb
+1 Cling to Dust
+1 Leovold, Emissary of Trest
+1 Liliana's Triumph
+1 Back to Basics
+1 Assassin's Trophy
+2 Back to Basics
+1 Maze of Ith
+1 Gaddock Teeg
+1 Ancient Grudge
+2 Ancient Grudge
 1 Search for Azcanta
 1 Turnabout
 1 Pact of Negation
 1 Wipe Away
 1 Hurkyl's Recall
 1 Blue Sun's Zenith
-1 Teferi's Realm
 1 Grafdigger's Cage
+1 Teferi's Realm
 1 Brain Freeze
 1 Snap
 2 Grafdigger's Cage
@@ -90,14 +103,6 @@
 1 Vendilion Clique
 2 Monastery Mentor
 2 Vendilion Clique
-1 Cling to Dust
-1 Toxic Deluge
-1 Chains of Mephistopheles
-1 Trinisphere
-1 Celestial Purge
-1 The Abyss
-2 Chains of Mephistopheles
-2 Celestial Purge
 1 Mystical Dispute
 1 Curse of Exhaustion
 1 Notion Thief
@@ -107,8 +112,9 @@
 3 Plague Engineer
 1 Null Rod
 1 Thorn of Amethyst
-1 Worship
 1 Faerie Macabre
+1 Worship
+1 Damping Sphere
 2 Thorn of Amethyst
 2 Faerie Macabre
 2 Council's Judgment
@@ -120,16 +126,9 @@
 3 Surgical Extraction
 1 Brazen Borrower
 3 True-Name Nemesis
-1 Painter's Servant
-1 Grindstone
-1 Echoing Truth
-1 Force of Will
-2 Echoing Truth
-2 Force of Will
-3 Force of Will
+1 Fairgrounds Warden
 1 Rest in Peace
 1 Holy Light
-1 Fairgrounds Warden
 2 Rest in Peace
 2 Holy Light
 2 Fairgrounds Warden
@@ -152,24 +151,12 @@
 3 Sorcerous Spyglass
 3 Ashen Rider
 4 Ashen Rider
-1 Maze of Ith
-1 Gaddock Teeg
-1 Ancient Grudge
-2 Ancient Grudge
-4 Pyroblast
-1 Spatial Contortion
-1 Phyrexian Revoker
-1 Karn, Scion of Urza
-2 Spatial Contortion
-2 Ensnaring Bridge
-2 Karn, Scion of Urza
-3 Ensnaring Bridge
 1 Emrakul, the Aeons Torn
 1 Show and Tell
 1 Omniscience
 1 Griselbrand
-2 Show and Tell
 2 Emrakul, the Aeons Torn
+2 Show and Tell
 2 Omniscience
 2 Griselbrand
 3 Emrakul, the Aeons Torn
@@ -179,3 +166,14 @@
 4 Emrakul, the Aeons Torn
 4 Griselbrand
 4 Show and Tell
+1 Electrickery
+1 Soul-Guide Lantern
+1 Echoing Truth
+2 Echoing Truth
+1 Spatial Contortion
+1 Phyrexian Revoker
+1 Karn, Scion of Urza
+2 Spatial Contortion
+2 Ensnaring Bridge
+2 Karn, Scion of Urza
+3 Ensnaring Bridge

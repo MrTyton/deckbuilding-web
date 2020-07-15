@@ -1,11 +1,20 @@
 4 Rewind
+2 Nissa, Who Shakes the World
+3 Nissa, Who Shakes the World
+1 Sinister Sabotage
+1 Negate
+2 Sinister Sabotage
+2 Negate
 1 Uro, Titan of Nature's Wrath
 1 Quench
 3 Frilled Mystic
-2 Nissa, Who Shakes the World
-3 Nissa, Who Shakes the World
+1 Brineborn Cutthroat
+2 Brineborn Cutthroat
 1 Gilded Goose
+1 Scavenging Ooze
+2 Scavenging Ooze
 2 Gilded Goose
+8 Forest
 1 Castle Garenbrig
 1 Gemrazer
 1 Paradise Druid
@@ -13,7 +22,6 @@
 2 Paradise Druid
 3 Paradise Druid
 4 Paradise Druid
-8 Forest
 2 Gemrazer
 3 Gemrazer
 3 Castle Garenbrig
@@ -37,32 +45,24 @@
 3 Pollywog Symbiote
 3 Pouncing Shoreshark
 3 Auspicious Starrix
-4 Gemrazer
 4 Pouncing Shoreshark
-1 Sinister Sabotage
-1 Negate
-2 Sinister Sabotage
-2 Negate
-1 Brineborn Cutthroat
-2 Brineborn Cutthroat
+4 Gemrazer
+2 Uro, Titan of Nature's Wrath
+2 Quench
+3 Brineborn Cutthroat
 1 Stonecoil Serpent
 4 Arboreal Grazer
 4 Pollywog Symbiote
 4 Auspicious Starrix
-2 Uro, Titan of Nature's Wrath
-2 Quench
-3 Brineborn Cutthroat
-1 Scavenging Ooze
-2 Scavenging Ooze
+1 Essence Scatter
+3 Mystical Dispute
+3 Aether Gust
 3 Sinister Sabotage
 4 Frilled Mystic
 2 Stonecoil Serpent
 1 Blast Zone
-1 Mystic Subdual
 1 Chemister's Insight
-1 Essence Scatter
-3 Mystical Dispute
-3 Aether Gust
+1 Mystic Subdual
 3 Scavenging Ooze
 1 Barrin, Tolarian Archmage
 1 Sea-Dasher Octopus
@@ -88,6 +88,8 @@
 4 Nissa, Who Shakes the World
 1 Teferi, Master of Time
 1 Thryx, the Sudden Storm
+1 Whirlwind Denial
+2 Whirlwind Denial
 2 Barrin, Tolarian Archmage
 1 Unsummon
 2 Sea-Dasher Octopus

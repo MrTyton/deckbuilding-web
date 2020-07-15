@@ -47,14 +47,14 @@
 1 Spell Snare
 2 Prairie Stream
 1 Ephemerate
-1 Soulherder
 1 Eternal Witness
 1 Eladamri's Call
 1 Canopy Vista
+1 Soulherder
 2 Ephemerate
 2 Eternal Witness
-3 Eternal Witness
 3 Ephemerate
+3 Eternal Witness
 4 Ephemerate
 1 Knight of Autumn
 3 Windswept Heath
@@ -77,11 +77,11 @@
 2 Cavern of Souls
 2 Wall of Blossoms
 2 Kitchen Finks
+2 Vendilion Clique
 2 Celestial Colonnade
 2 Dovin's Veto
-2 On Thin Ice
 2 Knight of Autumn
-2 Vendilion Clique
+2 On Thin Ice
 2 Restoration Angel
 2 Wall of Omens
 3 Wall of Blossoms
@@ -89,9 +89,9 @@
 3 Cavern of Souls
 3 Celestial Colonnade
 3 Snow-Covered Plains
+3 Knight of Autumn
 3 Restoration Angel
 3 Wall of Omens
-3 Knight of Autumn
 4 Snow-Covered Forest
 4 Celestial Colonnade
 4 Snow-Covered Plains
@@ -100,23 +100,23 @@
 4 Knight of Autumn
 4 Wall of Blossoms
 1 Remand
+1 Stonehorn Dignitary
 1 Thassa, Deep-Dwelling
 1 Aether Vial
 1 Noble Hierarch
 1 Meddling Mage
-1 Stonehorn Dignitary
 2 Remand
-2 Noble Hierarch
 2 Eladamri's Call
+2 Noble Hierarch
 2 Aether Vial
 2 Meddling Mage
 3 Remand
 3 Eladamri's Call
 3 Noble Hierarch
 3 Aether Vial
+4 Eladamri's Call
 4 Aether Vial
 4 Eternal Witness
-4 Eladamri's Call
 4 Noble Hierarch
 1 Timely Reinforcements
 1 Shark Typhoon
@@ -134,14 +134,14 @@
 2 Wrenn and Six
 2 Lightning Bolt
 2 Lightning Helix
-1 Coiling Oracle
 1 Time Warp
+1 Coiling Oracle
 2 Prismatic Vista
-2 Coiling Oracle
 2 Time Warp
+2 Coiling Oracle
 2 Soulherder
 3 Prismatic Vista
 3 Coiling Oracle
 3 Soulherder
-4 Coiling Oracle
 4 Soulherder
+4 Coiling Oracle

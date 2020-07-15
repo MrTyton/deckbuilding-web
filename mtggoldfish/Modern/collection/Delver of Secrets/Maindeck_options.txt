@@ -11,8 +11,8 @@
 2 Fatal Push
 2 Flooded Strand
 1 Mystic Sanctuary
-1 Sacred Foundry
 1 Hallowed Fountain
+1 Sacred Foundry
 2 Hallowed Fountain
 1 Cling to Dust
 1 Remand
@@ -58,20 +58,20 @@
 3 Drown in the Loch
 1 Vapor Snag
 3 Spirebluff Canal
-1 Stormwing Entity
 1 Manamorphose
+1 Stormwing Entity
 2 Stormwing Entity
 2 Manamorphose
-3 Stormwing Entity
 3 Manamorphose
+3 Stormwing Entity
 4 Manamorphose
 1 Breeding Pool
 3 Misty Rainforest
 1 Izzet Charm
 1 Thieves' Guild Enforcer
-1 Spell Pierce
 1 Brazen Borrower
 1 Thoughtseize
+1 Spell Pierce
 1 Vantress Gargoyle
 1 Into the Story
 2 Thieves' Guild Enforcer
@@ -88,28 +88,28 @@
 2 Meddling Mage
 3 Meddling Mage
 2 Cryptic Command
-1 Underworld Breach
 1 Wishclaw Talisman
 1 Dream's Grip
 1 Tome Scour
+1 Underworld Breach
 1 Thassa's Oracle
 1 Lotus Field
-2 Underworld Breach
 2 Wishclaw Talisman
+2 Underworld Breach
 2 Tome Scour
 2 Dream's Grip
 2 Lotus Field
-3 Underworld Breach
 3 Tome Scour
 3 Lotus Field
 3 Dream's Grip
+3 Underworld Breach
 4 Steam Vents
 4 Lotus Field
 4 Remand
 4 Dream's Grip
 3 Fatal Push
-4 Arcum's Astrolabe
 4 Fatal Push
+4 Arcum's Astrolabe
 1 Dreadhorde Arcanist
 2 Dreadhorde Arcanist
 2 Vapor Snag
@@ -126,34 +126,32 @@
 1 Gut Shot
 2 Gut Shot
 4 Stormwing Entity
-1 Murderous Cut
-1 Jace, Vryn's Prodigy
 1 Fae of Wishes
+1 Jace, Vryn's Prodigy
 1 Blackcleave Cliffs
+1 Murderous Cut
 2 Cling to Dust
 1 Arid Mesa
 1 Fight as One
 3 Seachrome Coast
 3 Spell Snare
-1 Creeping Tar Pit
 1 Bitterblossom
 1 Field of Ruin
+1 Creeping Tar Pit
 2 Bitterblossom
 2 Field of Ruin
 3 Bitterblossom
 4 Bitterblossom
-2 Izzet Charm
-4 Underworld Breach
+1 Fact or Fiction
 1 Raugrin Triome
 1 Shadow of Doubt
-1 Plains
-1 Fact or Fiction
 1 Brineborn Cutthroat
+1 Plains
 2 Fact or Fiction
 2 Brineborn Cutthroat
 2 Shadow of Doubt
-3 Brineborn Cutthroat
 3 Path to Exile
+3 Brineborn Cutthroat
 4 Brineborn Cutthroat
 1 Glacial Fortress
 1 Sulfur Falls
@@ -161,29 +159,31 @@
 2 Disrupting Shoal
 3 Disrupting Shoal
 4 Dreadhorde Arcanist
+2 Izzet Charm
+4 Underworld Breach
 1 Heartless Act
 4 Darkslick Shores
 1 Surgical Extraction
 2 Surgical Extraction
 4 Lightning Helix
 4 Spirebluff Canal
-1 Ketria Triome
-1 Of One Mind
 1 Magmatic Sinkhole
+1 Ketria Triome
 1 Jolrael, Mwonvuli Recluse
+1 Of One Mind
 1 Flame Slash
-2 Of One Mind
 2 Jolrael, Mwonvuli Recluse
-2 Deprive
+2 Of One Mind
 2 Breeding Pool
+2 Deprive
 3 Jolrael, Mwonvuli Recluse
 3 Of One Mind
 4 Island
 1 Stubborn Denial
+1 Botanical Sanctum
 1 Tarmogoyf
 1 Mutagenic Growth
 1 Hooting Mandrills
-1 Botanical Sanctum
 1 Stomping Ground
 1 Forest
 2 Tarmogoyf
@@ -196,28 +196,28 @@
 4 Hooting Mandrills
 4 Stubborn Denial
 4 Meddling Mage
+1 Lava Spike
 1 Rift Bolt
 1 Assault Strobe
 1 Monastery Swiftspear
-1 Lava Spike
 1 Light Up the Stage
+2 Lava Spike
 2 Mountain
 2 Rift Bolt
-2 Lava Spike
 2 Monastery Swiftspear
 2 Light Up the Stage
 2 Fiery Islet
-3 Fiery Islet
-3 Rift Bolt
 3 Lava Spike
+3 Rift Bolt
 3 Monastery Swiftspear
 3 Light Up the Stage
+3 Fiery Islet
 3 Mountain
 3 Lava Dart
+4 Lava Spike
 4 Fiery Islet
 4 Rift Bolt
 4 Lava Dart
 4 Monastery Swiftspear
-4 Lava Spike
 4 Mountain
 4 Light Up the Stage

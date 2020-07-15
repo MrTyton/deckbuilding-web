@@ -6,41 +6,41 @@
 4 Wooded Foothills
 1 Gurmag Angler
 1 Polluted Delta
-1 Skaab Ruinator
-1 Vengevine
 1 Overgrown Tomb
 1 Merfolk Secretkeeper
 1 Watery Grave
 1 Glimpse the Unthinkable
 1 Gravecrawler
+1 Skaab Ruinator
 1 Hedron Crab
 1 Stitcher's Supplier
 1 Verdant Catacombs
+1 Vengevine
 2 Watery Grave
 2 Polluted Delta
-2 Vengevine
 2 Verdant Catacombs
 2 Overgrown Tomb
 2 Merfolk Secretkeeper
+2 Vengevine
 2 Stitcher's Supplier
 2 Gravecrawler
 2 Hedron Crab
 2 Glimpse the Unthinkable
 3 Polluted Delta
-3 Vengevine
 3 Hedron Crab
 3 Merfolk Secretkeeper
+3 Vengevine
 3 Glimpse the Unthinkable
 3 Stitcher's Supplier
 3 Gravecrawler
 3 Verdant Catacombs
 4 Polluted Delta
-4 Vengevine
 4 Gravecrawler
 4 Hedron Crab
 4 Stitcher's Supplier
 4 Merfolk Secretkeeper
 4 Glimpse the Unthinkable
+4 Vengevine
 1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
@@ -55,14 +55,6 @@
 3 Gurmag Angler
 3 Misty Rainforest
 4 Gurmag Angler
-1 Smiting Helix
-1 Gemstone Caverns
-1 Silversmote Ghoul
-1 Sacred Foundry
-2 Conflagrate
-2 Silversmote Ghoul
-3 Silversmote Ghoul
-4 Silversmote Ghoul
 1 Darkblast
 3 Stomping Ground
 4 Bloodghast
@@ -75,7 +67,15 @@
 2 Swamp
 2 Marsh Flats
 2 Carrion Feeder
-3 Watery Grave
 3 Overgrown Tomb
+3 Watery Grave
 4 Verdant Catacombs
 4 Watery Grave
+1 Smiting Helix
+1 Gemstone Caverns
+1 Sacred Foundry
+1 Silversmote Ghoul
+2 Conflagrate
+2 Silversmote Ghoul
+3 Silversmote Ghoul
+4 Silversmote Ghoul
