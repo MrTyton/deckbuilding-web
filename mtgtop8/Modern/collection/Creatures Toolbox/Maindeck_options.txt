@@ -1,15 +1,15 @@
-3 Forest
 2 Verdant Catacombs
 1 Blossoming Defense
 2 Plains
+3 Forest
 4 Wooded Foothills
 1 Snow-Covered Forest
 1 Snow-Covered Plains
 1 Sacred Foundry
+1 Snow-Covered Mountain
 1 Seasoned Pyromancer
 1 Stomping Ground
 1 Eldritch Evolution
-1 Snow-Covered Mountain
 2 Seasoned Pyromancer
 2 Stomping Ground
 2 Eldritch Evolution
@@ -86,8 +86,8 @@
 3 Coiling Oracle
 3 Agent of Treachery
 3 Sakura-Tribe Scout
-4 Arboreal Grazer
 4 Prismatic Vista
+4 Arboreal Grazer
 4 Wrenn and Six
 4 Abundant Growth
 4 Coiling Oracle
@@ -96,20 +96,20 @@
 1 Savai Triome
 1 Eidolon of Rhetoric
 1 Restoration Angel
-1 Kiki-Jiki, Mirror Breaker
 1 Linvala, Keeper of Silence
 1 Sword of Fire and Ice
 1 Grove of the Burnwillows
+1 Kiki-Jiki, Mirror Breaker
 1 Knight of Autumn
 1 Eternal Witness
 1 Stoneforge Mystic
 1 Gilded Goose
 1 Scavenging Ooze
 1 Path to Exile
+2 Arid Mesa
 2 Restoration Angel
 2 Chord of Calling
 2 Path to Exile
-2 Arid Mesa
 2 Eternal Witness
 2 Stoneforge Mystic
 2 Snow-Covered Plains
@@ -131,13 +131,13 @@
 1 Godless Shrine
 1 Carrion Feeder
 1 Kitchen Finks
-1 Collected Company
 1 Flooded Strand
+1 Collected Company
 2 Kitchen Finks
 2 Heliod, Sun-Crowned
-2 Collected Company
 2 Ranger-Captain of Eos
 2 Spike Feeder
+2 Collected Company
 3 Verdant Catacombs
 3 Kitchen Finks
 3 Noble Hierarch
@@ -147,18 +147,17 @@
 4 Verdant Catacombs
 4 Collected Company
 4 Ranger-Captain of Eos
-4 Horizon Canopy
+1 Oath of Nissa
 1 Karn, the Great Creator
 1 Uro, Titan of Nature's Wrath
-1 Oath of Nissa
-2 Karn, the Great Creator
 2 Oath of Nissa
+2 Karn, the Great Creator
 2 Breeding Pool
+3 Oath of Nissa
 3 Teferi, Time Raveler
 3 Karn, the Great Creator
-3 Oath of Nissa
-4 Teferi, Time Raveler
 4 Oath of Nissa
+4 Teferi, Time Raveler
 4 Karn, the Great Creator
 1 Smuggler's Copter
 1 Resolute Blademaster

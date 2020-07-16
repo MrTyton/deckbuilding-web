@@ -1,8 +1,6 @@
 3 Lightning Helix
 3 Wooded Foothills
 4 Lightning Helix
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
 2 Fiery Islet
 4 Mountain
 1 Lava Dart
@@ -34,31 +32,27 @@
 3 Bedlam Reveler
 3 Manamorphose
 3 Crash Through
-4 Crash Through
 4 Manamorphose
+4 Crash Through
 13 Mountain
 1 Burst Lightning
 2 Burst Lightning
-1 Scalding Tarn
 1 Seal of Fire
 2 Seal of Fire
+1 Scalding Tarn
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
 1 Kiln Fiend
 2 Kiln Fiend
 14 Mountain
 1 Firebolt
 2 Firebolt
 4 Wooded Foothills
-3 Bloodstained Mire
 3 Snow-Covered Mountain
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
 3 Kiln Fiend
-3 Sacred Foundry
-1 Mishra's Bauble
-2 Mishra's Bauble
-3 Mishra's Bauble
-4 Mishra's Bauble
 1 Vexing Devil
 2 Vexing Devil
 3 Vexing Devil
@@ -72,14 +66,19 @@
 4 Atarka's Command
 3 Burst Lightning
 4 Burst Lightning
-4 Bloodstained Mire
+3 Bloodstained Mire
 1 Grim Lavamancer
-1 Wild Slash
-2 Wild Slash
 2 Stomping Ground
 3 Copperline Gorge
+3 Sacred Foundry
 3 Arid Mesa
 4 Arid Mesa
+1 Wild Slash
+1 Mishra's Bauble
+2 Wild Slash
+2 Mishra's Bauble
+3 Mishra's Bauble
+4 Mishra's Bauble
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
@@ -101,6 +100,7 @@
 3 Firebolt
 3 Abbot of Keral Keep
 4 Grim Lavamancer
+4 Bloodstained Mire
 4 Firebolt
 4 Abbot of Keral Keep
 4 Bonecrusher Giant

@@ -5,8 +5,6 @@
 2 Searing Blood
 1 Grafdigger's Cage
 2 Grafdigger's Cage
-1 Tormod's Crypt
-2 Tormod's Crypt
 1 Abrade
 2 Abrade
 1 Dragon's Claw
@@ -16,10 +14,8 @@
 3 Abrade
 1 Dismember
 2 Dragon's Claw
-3 Skullcrack
-4 Skullcrack
-1 Searing Blaze
-2 Searing Blaze
+1 Tormod's Crypt
+2 Tormod's Crypt
 3 Dragon's Claw
 1 Kozilek's Return
 1 Bonecrusher Giant
@@ -29,10 +25,12 @@
 2 Destructive Revelry
 3 Destructive Revelry
 4 Destructive Revelry
-1 Lurrus of the Dream Den
 1 Lightning Helix
 1 Relic of Progenitus
 2 Relic of Progenitus
+1 Searing Blaze
+1 Lurrus of the Dream Den
+2 Searing Blaze
 1 Shattering Spree
 1 Deflecting Palm
 2 Deflecting Palm
@@ -45,7 +43,8 @@
 2 Surgical Extraction
 3 Bonecrusher Giant
 3 Molten Rain
-3 Searing Blaze
+3 Skullcrack
+4 Skullcrack
 1 Veil of Summer
 2 Veil of Summer
 3 Veil of Summer

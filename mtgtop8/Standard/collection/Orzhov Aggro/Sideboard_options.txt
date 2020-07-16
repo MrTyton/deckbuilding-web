@@ -1,3 +1,5 @@
+1 Soul-Guide Lantern
+2 Soul-Guide Lantern
 1 Despark
 2 Despark
 2 Dead Weight
@@ -10,11 +12,11 @@
 1 Hushbringer
 2 Hushbringer
 2 Dire Tactics
-3 Agonizing Remorse
 3 Hushbringer
+3 Agonizing Remorse
+1 Light of Hope
+2 Spark Harvest
 1 Pacifism
-1 Murder
-1 Spark Harvest
 2 Suffocating Fumes
 1 Heliod's Intervention
 1 Call of the Death-Dweller
@@ -23,11 +25,9 @@
 1 Disenchant
 1 Omen of the Dead
 1 Boot Nipper
-1 Light of Hope
 1 Legion's End
 1 Finale of Eternity
 1 Ill-Gotten Inheritance
-2 Spark Harvest
 2 Ill-Gotten Inheritance
 1 Tymaret, Chosen from Death
 1 Yarok's Fenlurker
@@ -36,9 +36,18 @@
 2 Yarok's Fenlurker
 2 Pacifism
 3 Mire's Grasp
-1 Memory Leak
-2 Memory Leak
-3 Memory Leak
+1 Lampad of Death's Vigil
+1 Blade Banish
+1 Lazotep Reaver
+1 Bone Splinters
+2 Omen of the Dead
+2 Lampad of Death's Vigil
+2 Disenchant
+2 Blade Banish
+2 Lazotep Reaver
+2 Bone Splinters
+3 Lampad of Death's Vigil
+3 Omen of the Dead
 1 Unbreakable Formation
 1 Embereth Shieldbreaker
 1 Cosmotronic Wave
@@ -58,15 +67,6 @@
 2 Grafdigger's Cage
 3 Grafdigger's Cage
 4 Grafdigger's Cage
-1 Lampad of Death's Vigil
-1 Blade Banish
-1 Lazotep Reaver
-1 Bone Splinters
-2 Omen of the Dead
-2 Blade Banish
-2 Disenchant
-2 Lazotep Reaver
-2 Lampad of Death's Vigil
-2 Bone Splinters
-3 Omen of the Dead
-3 Lampad of Death's Vigil
+1 Memory Leak
+2 Memory Leak
+3 Memory Leak

@@ -19,10 +19,10 @@
 1 Quench
 2 Opt
 2 Quench
-3 Quench
 3 Opt
-4 Quench
+3 Quench
 4 Opt
+4 Quench
 1 Nightpack Ambusher
 2 Nightpack Ambusher
 3 Nightpack Ambusher
@@ -47,8 +47,8 @@
 3 Castle Vantress
 3 Brazen Borrower
 4 Frilled Mystic
-4 Castle Vantress
 4 Neutralize
+4 Castle Vantress
 4 Brazen Borrower
 1 Tale's End
 1 Whirlwind Denial
@@ -74,6 +74,9 @@
 11 Forest
 12 Forest
 13 Forest
+1 Jolrael, Mwonvuli Recluse
+2 Jolrael, Mwonvuli Recluse
+3 Jolrael, Mwonvuli Recluse
 1 Temple of Enlightenment
 1 Cavalier of Thorns
 2 Temple of Enlightenment
@@ -86,13 +89,15 @@
 4 Aether Gust
 3 Thassa's Intervention
 4 Thassa's Intervention
-1 Frantic Inventory
+3 Chemister's Insight
+4 Whirlwind Denial
 1 Discontinuity
 1 Root Snare
+1 Frantic Inventory
 1 Narset, Parter of Veils
 2 Teferi, Master of Time
-2 Frantic Inventory
 2 Discontinuity
+2 Frantic Inventory
 2 Root Snare
 3 Teferi, Master of Time
 3 Discontinuity
@@ -100,7 +105,5 @@
 3 Ketria Triome
 3 Root Snare
 4 Discontinuity
-4 Frantic Inventory
 4 Ketria Triome
-3 Chemister's Insight
-4 Whirlwind Denial
+4 Frantic Inventory
