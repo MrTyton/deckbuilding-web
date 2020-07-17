@@ -1,6 +1,6 @@
 1 Cavalier of Dawn
-1 Castle Ardenvale
 1 Fblthp, the Lost
+1 Castle Ardenvale
 1 Elspeth Conquers Death
 1 Teferi, Time Raveler
 1 Deputy of Detention
@@ -9,8 +9,8 @@
 1 Charming Prince
 1 Time Wipe
 1 Elite Guardmage
-2 Cavalier of Dawn
 2 Fblthp, the Lost
+2 Cavalier of Dawn
 2 Teferi, Time Raveler
 2 Castle Vantress
 2 Deputy of Detention
@@ -53,8 +53,8 @@
 3 Faerie Duelist
 11 Island
 2 Cloudkin Seer
-2 Loyal Pegasus
 2 Sephara, Sky's Blade
+2 Loyal Pegasus
 2 Hanged Executioner
 1 Watcher of the Spheres
 2 Watcher of the Spheres
@@ -96,6 +96,10 @@
 1 Unbreakable Formation
 1 Dovin's Veto
 2 Dovin's Veto
+2 Hushbringer
+3 Loyal Pegasus
+3 Hanged Executioner
+4 Loyal Pegasus
 1 Faerie Guidemother
 1 Ardenvale Tactician
 1 Gust of Wind
@@ -104,10 +108,6 @@
 2 Gust of Wind
 3 Faerie Guidemother
 4 Faerie Guidemother
-2 Hushbringer
-3 Loyal Pegasus
-3 Hanged Executioner
-4 Loyal Pegasus
 1 Transcendent Envoy
 1 Essence Scatter
 1 Karametra's Blessing
@@ -123,8 +123,8 @@
 2 Sentinel's Eyes
 2 Evolving Wilds
 2 All That Glitters
-3 Transcendent Envoy
 3 Evolving Wilds
+3 Transcendent Envoy
 3 Alseid of Life's Bounty
 3 Omen of the Sea
 3 All That Glitters
@@ -141,9 +141,9 @@
 2 Brazen Borrower
 3 Pteramander
 3 Brazen Borrower
-4 Watcher of the Spheres
 4 Pteramander
 4 Brazen Borrower
+4 Watcher of the Spheres
 1 Lazotep Plating
 1 Stonecoil Serpent
 2 Lazotep Plating

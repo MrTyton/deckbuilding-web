@@ -1,18 +1,3 @@
-4 Woodland Cemetery
-1 Pelt Collector
-1 Experiment One
-2 Experiment One
-2 Pelt Collector
-2 Scavenging Ooze
-3 Experiment One
-3 Pelt Collector
-3 Scavenging Ooze
-4 Scavenging Ooze
-4 Experiment One
-4 Pelt Collector
-7 Forest
-1 Rhonas the Indomitable
-1 Steel Leaf Champion
 2 Steel Leaf Champion
 3 Steel Leaf Champion
 4 Steel Leaf Champion
@@ -21,21 +6,21 @@
 3 Scrapheap Scrounger
 4 Scrapheap Scrounger
 1 Lovestruck Beast
-1 Rotting Regisaur
 1 Shadowspear
-1 The Great Henge
 1 Heart of Kiran
+1 The Great Henge
 1 Surrak, the Hunt Caller
 1 Ghalta, Primal Hunger
-2 Lovestruck Beast
+1 Rotting Regisaur
 2 Rotting Regisaur
+2 Lovestruck Beast
 2 Heart of Kiran
-2 Surrak, the Hunt Caller
 2 Rhonas the Indomitable
 2 The Great Henge
 2 Ghalta, Primal Hunger
-3 Lovestruck Beast
+2 Surrak, the Hunt Caller
 3 Rotting Regisaur
+3 Lovestruck Beast
 3 The Great Henge
 3 Ghalta, Primal Hunger
 3 Surrak, the Hunt Caller
@@ -56,9 +41,13 @@
 3 Metallic Mimic
 4 Steel Overseer
 4 Metallic Mimic
+1 Woodland Cemetery
+2 Woodland Cemetery
+3 Woodland Cemetery
+4 Woodland Cemetery
 1 Hashep Oasis
-1 Grisly Salvage
 1 Zetalpa, Primal Dawn
+1 Grisly Salvage
 1 Lotleth Troll
 1 Gather the Pack
 1 Soulflayer
@@ -83,15 +72,15 @@
 4 Gather the Pack
 4 Lotleth Troll
 4 Sylvan Caryatid
-1 Murderous Rider
 1 Rankle, Master of Pranks
-2 Murderous Rider
+1 Murderous Rider
 2 Rankle, Master of Pranks
+2 Murderous Rider
 3 Murderous Rider
 4 Murderous Rider
 1 Nullhide Ferox
-1 Gifted Aetherborn
 1 Commune with the Gods
+1 Gifted Aetherborn
 2 Commune with the Gods
 2 Nullhide Ferox
 2 Gifted Aetherborn
@@ -99,6 +88,17 @@
 1 Evolutionary Leap
 2 Evolutionary Leap
 4 Chamber Sentry
+1 Pelt Collector
+1 Experiment One
+2 Experiment One
+2 Pelt Collector
+2 Scavenging Ooze
+3 Experiment One
+3 Pelt Collector
+3 Scavenging Ooze
+4 Scavenging Ooze
+4 Experiment One
+4 Pelt Collector
 1 Blood Crypt
 1 Traverse the Ulvenwald
 1 Bomat Courier
@@ -148,17 +148,17 @@
 2 Thoughtseize
 3 Knight of the Ebon Legion
 3 Mutavault
-3 Castle Locthwain
 3 Stitcher's Supplier
 3 Fiend Artisan
+3 Castle Locthwain
 3 Deathrite Shaman
 3 Thoughtseize
 4 Knight of the Ebon Legion
-4 Swamp
-4 Castle Locthwain
-4 Stitcher's Supplier
 4 Mutavault
+4 Swamp
+4 Stitcher's Supplier
 4 Fiend Artisan
+4 Castle Locthwain
 4 Deathrite Shaman
 4 Thoughtseize
 5 Swamp

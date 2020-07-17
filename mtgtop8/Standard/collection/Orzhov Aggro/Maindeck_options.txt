@@ -1,24 +1,24 @@
+1 Ajani's Pridemate
 2 Ajani's Pridemate
 3 Ajani's Pridemate
 4 Ajani's Pridemate
-1 Scoured Barrens
+3 Dire Tactics
 2 Scoured Barrens
 3 Scoured Barrens
 4 Scoured Barrens
 1 Mire's Grasp
-1 Dead Weight
-2 Mire's Grasp
+8 Plains
 1 Healer's Hawk
 2 Healer's Hawk
 3 Healer's Hawk
-8 Plains
+1 Dead Weight
+2 Mire's Grasp
 1 Alseid of Life's Bounty
 2 Alseid of Life's Bounty
 3 Alseid of Life's Bounty
 4 Alseid of Life's Bounty
 1 Corpse Knight
 2 Corpse Knight
-3 Dire Tactics
 3 Corpse Knight
 4 Corpse Knight
 1 Fabled Passage
@@ -53,6 +53,7 @@
 1 Lurrus of the Dream-Den
 2 Lurrus of the Dream-Den
 3 Lurrus of the Dream-Den
+4 Dire Tactics
 4 Orzhov Enforcer
 10 Swamp
 1 Blade Juggler
@@ -60,13 +61,14 @@
 3 Hateful Eidolon
 4 Hateful Eidolon
 3 Mire's Grasp
+1 Shadowspear
 1 Omen of the Dead
 1 Memory Leak
 1 Murder
-1 Shadowspear
-2 Murder
 2 Memory Leak
+2 Murder
 4 Kaya's Ghostform
+1 Elspeth, Sun's Nemesis
 1 Impassioned Orator
 1 Banishing Light
 1 Bloodthirsty Aerialist
@@ -77,10 +79,8 @@
 2 Omen of the Sun
 3 Impassioned Orator
 3 Bloodthirsty Aerialist
-4 Bloodthirsty Aerialist
 4 Impassioned Orator
-4 Dire Tactics
-1 Elspeth, Sun's Nemesis
+4 Bloodthirsty Aerialist
 1 Kaya, Orzhov Usurper
 1 Foreboding Fruit
 1 Consecrate / Consume
@@ -97,47 +97,49 @@
 1 Tithe Taker
 2 Tithe Taker
 1 All That Glitters
-1 Boot Nipper
 1 Pilfering Imp
+1 Boot Nipper
 1 Soul-Guide Lantern
 2 Omen of the Dead
 1 Heartless Act
 2 Heartless Act
 3 Call of the Death-Dweller
 3 Omen of the Sun
-2 Knight of the Ebon Legion
-2 Blacklance Paragon
-3 Knight of the Ebon Legion
-3 Blacklance Paragon
-4 Blacklance Paragon
-4 Knight of the Ebon Legion
-1 Demonic Embrace
-1 Seasoned Hallowblade
-1 Grasp of Darkness
-1 Eliminate
-1 Hunted Nightmare
-1 Murderous Rider
-1 Rotting Regisaur
-1 Spawn of Mayhem
-2 Demonic Embrace
-2 Seasoned Hallowblade
-2 Eliminate
-2 Hunted Nightmare
-2 Murderous Rider
-2 Rotting Regisaur
-2 Spawn of Mayhem
-3 Seasoned Hallowblade
-3 Demonic Embrace
-3 Eliminate
-3 Rotting Regisaur
-3 Spawn of Mayhem
-4 Spawn of Mayhem
-4 Seasoned Hallowblade
-4 Eliminate
-4 Rotting Regisaur
+1 Venerable Knight
+2 Venerable Knight
+3 Venerable Knight
+4 Venerable Knight
+1 General's Enforcer
+1 Adherent of Hope
+1 Basri Ket
+1 Haazda Marshal
+1 General Kudro of Drannith
+1 Disfigure
+1 Icon of Ancestry
+1 Giant Killer
+1 Castle Ardenvale
+2 General's Enforcer
+2 Adherent of Hope
+2 Icon of Ancestry
+2 Haazda Marshal
+2 Basri Ket
+2 General Kudro of Drannith
+2 Disfigure
+2 Castle Ardenvale
+3 General Kudro of Drannith
+3 General's Enforcer
+3 Adherent of Hope
+3 Icon of Ancestry
+3 Tithe Taker
+3 Haazda Marshal
+3 Basri Ket
+3 Disfigure
+4 General's Enforcer
+4 Tithe Taker
+4 Haazda Marshal
 1 Luminous Broodmoth
-1 Midnight Reaper
 1 Bastion of Remembrance
+1 Midnight Reaper
 2 Bastion of Remembrance
 2 Midnight Reaper
 2 Luminous Broodmoth
@@ -147,6 +149,43 @@
 3 Luminous Broodmoth
 4 Bastion of Remembrance
 4 Luminous Broodmoth
+1 Whisper Squad
+2 Whisper Squad
+3 Fiend Artisan
+3 Whisper Squad
+3 Castle Locthwain
+4 Whisper Squad
+4 Fiend Artisan
+2 Knight of the Ebon Legion
+2 Blacklance Paragon
+3 Knight of the Ebon Legion
+3 Blacklance Paragon
+4 Knight of the Ebon Legion
+4 Blacklance Paragon
+1 Eliminate
+1 Demonic Embrace
+1 Spawn of Mayhem
+1 Hunted Nightmare
+1 Grasp of Darkness
+1 Murderous Rider
+1 Seasoned Hallowblade
+1 Rotting Regisaur
+2 Eliminate
+2 Demonic Embrace
+2 Spawn of Mayhem
+2 Hunted Nightmare
+2 Murderous Rider
+2 Seasoned Hallowblade
+2 Rotting Regisaur
+3 Demonic Embrace
+3 Spawn of Mayhem
+3 Seasoned Hallowblade
+3 Eliminate
+3 Rotting Regisaur
+4 Spawn of Mayhem
+4 Seasoned Hallowblade
+4 Eliminate
+4 Rotting Regisaur
 1 Archfiend's Vessel
 2 Archfiend's Vessel
 2 Lampad of Death's Vigil
@@ -154,54 +193,43 @@
 3 Archfiend's Vessel
 4 Archfiend's Vessel
 1 Smitten Swordmaster
-1 Venerable Knight
 1 Fight as One
 1 Order of Midnight
-1 Blood Crypt
 1 Stormfist Crusader
 1 Inspiring Veteran
 1 Fervent Champion
 1 Tournament Grounds
+1 Blood Crypt
 1 Worthy Knight
 1 Sacred Foundry
 2 Smitten Swordmaster
-2 Venerable Knight
+2 Fight as One
 2 Order of Midnight
 2 Sacred Foundry
 2 Blood Crypt
 2 Fervent Champion
 2 Inspiring Veteran
 2 Tournament Grounds
-2 Fight as One
 2 Worthy Knight
 2 Stormfist Crusader
-3 Venerable Knight
 3 Smitten Swordmaster
+3 Fight as One
 3 Blood Crypt
 3 Fervent Champion
 3 Sacred Foundry
-3 Fight as One
+3 Inspiring Veteran
 3 Stormfist Crusader
 3 Worthy Knight
 3 Tournament Grounds
-3 Inspiring Veteran
 4 Sacred Foundry
-4 Venerable Knight
 4 Smitten Swordmaster
 4 Fight as One
 4 Blood Crypt
 4 Tournament Grounds
-4 Worthy Knight
 4 Stormfist Crusader
+4 Worthy Knight
 4 Inspiring Veteran
 4 Fervent Champion
-1 Whisper Squad
-2 Whisper Squad
-3 Fiend Artisan
-3 Castle Locthwain
-3 Whisper Squad
-4 Fiend Artisan
-4 Whisper Squad
 1 Liliana, Dreadhorde General
 1 Mortify
 1 Daxos, Blessed by the Sun

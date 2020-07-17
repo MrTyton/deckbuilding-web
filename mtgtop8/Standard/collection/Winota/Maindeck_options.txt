@@ -8,13 +8,13 @@
 1 Raugrin Triome
 2 Raugrin Triome
 1 Gilded Goose
-1 Breeding Pool
 1 Arboreal Grazer
+1 Breeding Pool
 1 Temple Garden
 1 Stomping Ground
+2 Arboreal Grazer
 2 Gilded Goose
 2 Breeding Pool
-2 Arboreal Grazer
 2 Temple Garden
 2 Stomping Ground
 3 Gilded Goose
@@ -110,9 +110,9 @@
 3 Seasoned Hallowblade
 3 Alpine Houndmaster
 3 Gingerbrute
-4 Selfless Savior
 4 Seasoned Hallowblade
 4 Alpine Houndmaster
+4 Selfless Savior
 4 Temple of Triumph
 4 Gingerbrute
 1 Temple of Epiphany
@@ -157,9 +157,9 @@
 1 Elite Guardmage
 2 Elite Guardmage
 3 Elite Guardmage
-1 Scoured Barrens
 1 Fervent Champion
 1 Inspiring Captain
+1 Scoured Barrens
 2 Scoured Barrens
 2 Fervent Champion
 2 Inspiring Captain
@@ -167,12 +167,12 @@
 1 Castle Embereth
 1 Blightbeetle
 1 Robber of the Rich
+2 Robber of the Rich
 2 Castle Embereth
 2 Blightbeetle
-2 Robber of the Rich
 2 Castle Locthwain
-3 Blightbeetle
 3 Robber of the Rich
+3 Blightbeetle
 1 Spark Double
 3 Alirios, Enraptured
 1 Hushbringer
@@ -242,15 +242,15 @@
 1 Daxos, Blessed by the Sun
 1 Syr Konrad, the Grim
 1 Despark
+1 Flame Sweep
 1 Leyline of the Void
 1 Corpse Knight
-1 Flame Sweep
 1 The Elderspell
 2 Corpse Knight
 2 Daxos, Blessed by the Sun
 2 The Elderspell
 2 Despark
-2 Leyline of the Void
-2 Syr Konrad, the Grim
-3 Corpse Knight
 2 Flame Sweep
+2 Leyline of the Void
+3 Corpse Knight
+2 Syr Konrad, the Grim

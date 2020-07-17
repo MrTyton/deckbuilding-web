@@ -1,16 +1,16 @@
-1 Cabal Therapy
 3 Polluted Delta
 4 Polluted Delta
-1 Underground Sea
-2 Underground Sea
+1 Cabal Therapy
 1 Tropical Island
 1 Brainstorm
 1 Ponder
+1 Underground Sea
 1 Misty Rainforest
 1 Force of Will
 2 Brainstorm
 2 Ponder
 2 Force of Will
+2 Underground Sea
 2 Misty Rainforest
 3 Brainstorm
 3 Force of Will
@@ -27,8 +27,8 @@
 1 Abrupt Decay
 2 Ice-Fang Coatl
 2 Snow-Covered Island
-2 Abrupt Decay
 2 Arcum's Astrolabe
+2 Abrupt Decay
 3 Ice-Fang Coatl
 3 Misty Rainforest
 3 Snow-Covered Island
@@ -39,10 +39,10 @@
 4 Arcum's Astrolabe
 1 Swamp
 1 Tidespout Tyrant
-2 Cabal Therapy
-3 Cabal Therapy
 3 Snow-Covered Swamp
 1 Iona, Shield of Emeria
+2 Cabal Therapy
+3 Cabal Therapy
 1 Mystic Sanctuary
 1 Flooded Strand
 2 Drown in the Loch
@@ -91,28 +91,11 @@
 2 Chrome Mox
 3 Verdant Catacombs
 4 Cabal Therapy
-3 Bloodstained Mire
 1 Plague Engineer
 1 Notion Thief
 1 Assassin's Trophy
 1 Archetype of Endurance
+3 Bloodstained Mire
 1 Fae of Wishes
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils
-1 Burning Wish
-1 Veil of Summer
-1 Shallow Grave
-1 Simian Spirit Guide
-1 Borborygmos Enraged
-1 Emrakul, the Aeons Torn
-1 Goryo's Vengeance
-2 Burning Wish
-2 Veil of Summer
-2 Goryo's Vengeance
-2 Bayou
-2 Shallow Grave
-3 Marsh Flats
-3 Goryo's Vengeance
-3 Shallow Grave
-4 Shallow Grave
-4 Goryo's Vengeance

@@ -1,9 +1,10 @@
 4 Arcanist's Owl
 4 Walking Ballista
+1 Tomik, Distinguished Advokist
 1 Gideon's Intervention
 2 Gideon's Intervention
 2 Castle Ardenvale
-1 Tomik, Distinguished Advokist
+2 Tomik, Distinguished Advokist
 1 Charming Prince
 2 Charming Prince
 4 Idyllic Grange
@@ -14,7 +15,6 @@
 3 Charming Prince
 4 Baffling End
 4 Charming Prince
-2 Tomik, Distinguished Advokist
 1 Godless Shrine
 1 Caves of Koilos
 1 Concealed Courtyard
@@ -26,8 +26,8 @@
 4 Godless Shrine
 4 Concealed Courtyard
 1 Isolated Chapel
-1 Oath of Kaya
 1 Temple of Silence
+1 Oath of Kaya
 1 Trial of Ambition
 1 Kaya, Orzhov Usurper
 2 Oath of Kaya
@@ -39,47 +39,49 @@
 4 Gideon of the Trials
 1 Gideon, Ally of Zendikar
 3 Daxos, Blessed by the Sun
-1 Kytheon, Hero of Akros
-1 Brave the Elements
-1 Dauntless Bodyguard
-2 Kytheon, Hero of Akros
-2 Brave the Elements
-2 Dauntless Bodyguard
-3 Brave the Elements
-3 Dauntless Bodyguard
-4 Dauntless Bodyguard
-4 Brave the Elements
-1 Dire Tactics
-1 Benalish Marshal
+1 Fiendslayer Paladin
+1 Shefet Dunes
+1 Skysovereign, Consul Flagship
+2 Fiendslayer Paladin
 1 Thalia's Lieutenant
 1 Venerable Knight
-1 General Kudro of Drannith
 1 Mardu Woe-Reaper
+1 General Kudro of Drannith
+1 Dauntless Bodyguard
+1 Kytheon, Hero of Akros
 1 Soldier of the Pantheon
-2 Dire Tactics
-2 General Kudro of Drannith
+1 Brave the Elements
+1 Benalish Marshal
+1 Dire Tactics
 2 Thalia's Lieutenant
-2 Venerable Knight
-2 Mardu Woe-Reaper
+2 Dauntless Bodyguard
 2 Benalish Marshal
 2 Soldier of the Pantheon
-3 Dire Tactics
-3 General Kudro of Drannith
+2 Venerable Knight
+2 Kytheon, Hero of Akros
+2 Brave the Elements
+2 Mardu Woe-Reaper
+2 General Kudro of Drannith
+2 Dire Tactics
 3 Thalia's Lieutenant
-3 Venerable Knight
-3 Mardu Woe-Reaper
+3 Dauntless Bodyguard
 3 Benalish Marshal
 3 Soldier of the Pantheon
+3 Brave the Elements
+3 Mardu Woe-Reaper
+3 General Kudro of Drannith
+3 Dire Tactics
+3 Venerable Knight
 3 Caves of Koilos
-4 Dire Tactics
 4 Thalia's Lieutenant
+4 Brave the Elements
+4 Dauntless Bodyguard
+4 Benalish Marshal
 4 Venerable Knight
 4 Soldier of the Pantheon
-4 Benalish Marshal
+4 Dire Tactics
 4 Caves of Koilos
 4 Mardu Woe-Reaper
-1 Law-Rune Enforcer
-2 Law-Rune Enforcer
 2 Kaya, Orzhov Usurper
 3 Elspeth Conquers Death
 1 Shambling Vent
@@ -91,27 +93,8 @@
 20 Plains
 21 Plains
 22 Plains
-1 Fiendslayer Paladin
-1 Shefet Dunes
-1 Skysovereign, Consul Flagship
-2 Fiendslayer Paladin
 4 Stasis Snare
+1 Law-Rune Enforcer
+2 Law-Rune Enforcer
 3 Law-Rune Enforcer
 4 Law-Rune Enforcer
-1 Declaration in Stone
-1 Dryad Militant
-1 Selfless Spirit
-1 Alseid of Life's Bounty
-2 Declaration in Stone
-2 Dryad Militant
-2 Selfless Spirit
-2 Alseid of Life's Bounty
-3 Dryad Militant
-3 Declaration in Stone
-3 Selfless Spirit
-3 Alseid of Life's Bounty
-3 Kytheon, Hero of Akros
-4 Alseid of Life's Bounty
-4 Selfless Spirit
-4 Dryad Militant
-4 Declaration in Stone

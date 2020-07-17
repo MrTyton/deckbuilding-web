@@ -1,3 +1,11 @@
+4 Mana Confluence
+2 Plains
+1 All That Glitters
+1 Hallowed Fountain
+1 Ensoul Artifact
+1 Spire of Industry
+1 Bomat Courier
+1 Darksteel Citadel
 1 Gingerbrute
 2 All That Glitters
 2 Hallowed Fountain
@@ -13,13 +21,13 @@
 3 Gingerbrute
 3 Ensoul Artifact
 3 Bomat Courier
-4 Spire of Industry
 4 All That Glitters
 4 Hallowed Fountain
 4 Darksteel Citadel
 4 Bomat Courier
 4 Gingerbrute
 4 Ensoul Artifact
+4 Spire of Industry
 1 Mutavault
 1 Stonecoil Serpent
 2 Stonecoil Serpent
@@ -35,8 +43,8 @@
 1 Spirebluff Canal
 1 Stubborn Denial
 2 Toolcraft Exemplar
-2 Stubborn Denial
 2 Hope of Ghirapur
+2 Stubborn Denial
 2 Thraben Inspector
 2 Ghostfire Blade
 3 Toolcraft Exemplar
@@ -46,24 +54,29 @@
 4 Toolcraft Exemplar
 4 Thraben Inspector
 4 Ghostfire Blade
-1 Goblin Rabblemaster
-2 Goblin Rabblemaster
-1 Elvish Visionary
-2 Elvish Visionary
-3 Elvish Visionary
-3 Goblin Rabblemaster
-4 Elvish Visionary
-4 Goblin Rabblemaster
-2 Inspiring Vantage
 2 Rootbound Crag
 4 Legion Warboss
+2 Inspiring Vantage
 1 Selfless Spirit
+1 Fortified Village
+1 Battlefield Forge
+2 Battlefield Forge
+3 Sacred Foundry
+1 Pia and Kiran Nalaar
+1 Tithe Taker
+1 Garruk's Harbinger
+2 Pia and Kiran Nalaar
+2 Tithe Taker
+2 Garruk's Harbinger
+3 Tithe Taker
+3 Garruk's Harbinger
+4 Tithe Taker
+4 Garruk's Harbinger
 1 Goblin Instigator
 2 Selfless Spirit
 3 Forest
 4 Forest
 3 Sunpetal Grove
-1 Fortified Village
 1 Island
 5 Forest
 1 Walking Ballista
@@ -107,20 +120,7 @@
 2 Scavenging Ooze
 2 Swamp
 3 Swamp
-1 Battlefield Forge
-2 Battlefield Forge
-3 Sacred Foundry
 1 Scampering Scorcher
-1 Pia and Kiran Nalaar
-1 Tithe Taker
-1 Garruk's Harbinger
-2 Pia and Kiran Nalaar
-2 Tithe Taker
-2 Garruk's Harbinger
-3 Tithe Taker
-3 Garruk's Harbinger
-4 Tithe Taker
-4 Garruk's Harbinger
 1 Duskwatch Recruiter
 2 Duskwatch Recruiter
 2 Goblin Instigator
@@ -155,8 +155,8 @@
 1 Hashep Oasis
 1 Domri Rade
 1 Domri, Anarch of Bolas
-1 Hazoret the Fervent
 1 Dryad Militant
+1 Hazoret the Fervent
 1 Zhur-Taa Goblin
 1 Gallia of the Endless Dance
 1 Bonecrusher Giant
@@ -181,9 +181,9 @@
 3 Ghor-Clan Rampager
 3 Voltaic Brawler
 4 Burning-Tree Emissary
-4 Voltaic Brawler
 4 Ghor-Clan Rampager
 4 Bonecrusher Giant
+4 Voltaic Brawler
 4 Gruul Spellbreaker
 1 Fabled Passage
 1 Abrupt Decay
@@ -212,8 +212,8 @@
 2 Chevill, Bane of Monsters
 2 Dead Weight
 2 Unbridled Growth
-3 Kroxa, Titan of Death's Hunger
 3 Deathrite Shaman
+3 Kroxa, Titan of Death's Hunger
 3 Blood Crypt
 3 Chevill, Bane of Monsters
 3 Unbridled Growth
@@ -225,27 +225,27 @@
 4 Grim Flayer
 3 Inspiring Vantage
 1 Springleaf Drum
-1 Alseid of Life's Bounty
 1 Curious Obsession
+1 Alseid of Life's Bounty
 1 Sram, Senior Edificer
 1 Ethereal Armor
 1 Ornithopter
 2 Springleaf Drum
-2 Alseid of Life's Bounty
 2 Curious Obsession
+2 Alseid of Life's Bounty
 2 Sram, Senior Edificer
 2 Ethereal Armor
 2 Ornithopter
 3 Springleaf Drum
-3 Alseid of Life's Bounty
 3 Curious Obsession
 3 Ornithopter
+3 Alseid of Life's Bounty
 3 Sram, Senior Edificer
 3 Ethereal Armor
-4 Alseid of Life's Bounty
 4 Curious Obsession
 4 Ornithopter
 4 Sram, Senior Edificer
+4 Alseid of Life's Bounty
 4 Ethereal Armor
 1 Nissa, Voice of Zendikar
 1 Rishkar, Peema Renegade
@@ -266,11 +266,11 @@
 4 Voracious Hydra
 1 Breeding Pool
 1 Ashiok, Nightmare Muse
-1 Jace, Vryn's Prodigy
 1 Ipnu Rivulet
+1 Jace, Vryn's Prodigy
 1 Shark Typhoon
-1 Hinterland Harbor
 1 Traverse the Ulvenwald
+1 Hinterland Harbor
 1 Watery Grave
 1 Uro, Titan of Nature's Wrath
 1 Murderous Rider
@@ -284,8 +284,8 @@
 2 Breeding Pool
 2 Jace, Vryn's Prodigy
 2 Traverse the Ulvenwald
-2 Uro, Titan of Nature's Wrath
 2 Watery Grave
+2 Uro, Titan of Nature's Wrath
 2 Shark Typhoon
 2 Island
 2 Satyr Wayfinder
@@ -301,48 +301,48 @@
 1 Monastery Swiftspear
 1 Soul-Scar Mage
 1 Dreadhorde Arcanist
-1 Gods Willing
-1 Defiant Strike
-1 Tenth District Legionnaire
 1 Reckless Rage
 1 Clifftop Retreat
 1 Favored Hoplite
 1 Titan's Strength
+1 Tenth District Legionnaire
+1 Defiant Strike
 1 Gird for Battle
 1 Gryff's Boon
 1 Boros Charm
+1 Gods Willing
 2 Soul-Scar Mage
 2 Dreadhorde Arcanist
 2 Monastery Swiftspear
-2 Gods Willing
-2 Defiant Strike
-2 Tenth District Legionnaire
 2 Reckless Rage
 2 Gird for Battle
 2 Gryff's Boon
+2 Tenth District Legionnaire
+2 Gods Willing
 2 Titan's Strength
 2 Favored Hoplite
+2 Defiant Strike
 3 Battlefield Forge
 3 Soul-Scar Mage
-3 Monastery Swiftspear
 3 Dreadhorde Arcanist
-3 Gods Willing
-3 Tenth District Legionnaire
-3 Defiant Strike
+3 Monastery Swiftspear
 3 Reckless Rage
 3 Titan's Strength
 3 Favored Hoplite
+3 Defiant Strike
 3 Gird for Battle
+3 Tenth District Legionnaire
+3 Gods Willing
 4 Gird for Battle
 4 Inspiring Vantage
 4 Battlefield Forge
 4 Sacred Foundry
 4 Soul-Scar Mage
 4 Monastery Swiftspear
-4 Tenth District Legionnaire
-4 Defiant Strike
-4 Reckless Rage
 4 Titan's Strength
+4 Reckless Rage
+4 Defiant Strike
+4 Tenth District Legionnaire
 4 Favored Hoplite
 1 Charming Prince
 1 Llanowar Visionary
@@ -360,11 +360,11 @@
 2 Militia Bugler
 2 Chord of Calling
 2 Radiant Fountain
-2 Collected Company
 2 Prophet of Kruphix
+2 Collected Company
 2 Heliod, Sun-Crowned
-3 Fortified Village
 3 Militia Bugler
+3 Fortified Village
 3 Heliod, Sun-Crowned
 3 Prophet of Kruphix
 3 Collected Company

@@ -4,13 +4,13 @@
 2 Irrigated Farmland
 2 Azorius Charm
 2 Deafening Clarion
-3 Elspeth Conquers Death
 3 Deafening Clarion
 3 Azorius Charm
+3 Gideon, Ally of Zendikar
 3 Glacial Fortress
 3 Sulfur Falls
 3 Irrigated Farmland
-3 Gideon, Ally of Zendikar
+3 Elspeth Conquers Death
 3 Hallowed Fountain
 3 Supreme Verdict
 3 Narset, Parter of Veils
@@ -22,7 +22,6 @@
 1 Swamp
 2 Swamp
 3 Swamp
-1 Shambling Vent
 1 Flicker of Fate
 1 Treacherous Blessing
 1 Doom Foretold
@@ -31,6 +30,7 @@
 1 Oath of Kaya
 1 Isolated Chapel
 1 Godless Shrine
+1 Shambling Vent
 2 Flicker of Fate
 2 Treacherous Blessing
 2 Shambling Vent
@@ -94,11 +94,11 @@
 1 Murderous Rider
 1 Starfield of Nyx
 1 Temple of Silence
+1 History of Benalia
 1 Kunoros, Hound of Athreos
 1 Agonizing Remorse
 1 Duress
 1 Kaya's Wrath
-1 History of Benalia
 2 Elspeth's Nightmare
 2 Murderous Rider
 2 Duress
@@ -106,10 +106,10 @@
 2 Kunoros, Hound of Athreos
 3 Caves of Koilos
 3 Elspeth's Nightmare
+4 Oath of Kaya
 4 Caves of Koilos
 4 Demonic Pact
 4 Swamp
-4 Oath of Kaya
 5 Swamp
 6 Plains
 2 Island
@@ -144,17 +144,17 @@
 2 Final Payment
 1 Hostage Taker
 1 Arboreal Grazer
-1 Satyr Wayfinder
 1 Thassa, Deep-Dwelling
+1 Satyr Wayfinder
 1 Unesh, Criosphinx Sovereign
 1 Grapple with the Past
 1 Woodland Bellower
 1 Eldritch Evolution
+1 Tasigur, the Golden Fang
 1 Cavalier of Gales
 1 Yavimaya Coast
 1 Massacre Girl
 1 Cavalier of Night
-1 Tasigur, the Golden Fang
 1 Botanical Sanctum
 1 Neoform
 1 Elvish Rejuvenator
@@ -184,9 +184,9 @@
 3 Llanowar Wastes
 3 Blooming Marsh
 3 Forest
-4 Satyr Wayfinder
 4 Arboreal Grazer
 4 Neoform
+4 Satyr Wayfinder
 1 Stomping Ground
 1 Ketria Triome
 1 Pull from Tomorrow
@@ -209,9 +209,9 @@
 4 Ketria Triome
 4 Expansion / Explosion
 1 Heliod, Sun-Crowned
-1 Shatter the Sky
 1 Arcanist's Owl
 1 Walking Ballista
+1 Shatter the Sky
 2 Heliod, Sun-Crowned
 2 Arcanist's Owl
 2 Shatter the Sky
@@ -229,12 +229,12 @@
 1 Dig Through Time
 1 Sinister Sabotage
 1 Sublime Epiphany
-1 Torrential Gearhulk
 1 Neutralize
 1 Teferi, Master of Time
 1 Hinterland Harbor
 1 Temple of Mystery
 1 Brazen Borrower
+1 Torrential Gearhulk
 2 Lumbering Falls
 2 Dig Through Time
 2 Sinister Sabotage
@@ -250,40 +250,40 @@
 3 Island
 4 Island
 5 Island
-1 Drown in the Loch
 1 Nicol Bolas, the Ravager
+1 Nicol Bolas, Dragon-God
 1 Tyrant's Scorn
 1 Blood Crypt
-1 Dragonskull Summit
+1 Drown in the Loch
 1 Dreadbore
 1 Drowned Catacomb
-1 Nicol Bolas, Dragon-God
+1 Dragonskull Summit
 1 Watery Grave
-2 Drown in the Loch
 2 Tyrant's Scorn
 2 Blood Crypt
-2 Dragonskull Summit
-2 Nicol Bolas, Dragon-God
 2 Nicol Bolas, the Ravager
+2 Nicol Bolas, Dragon-God
 2 Watery Grave
+2 Drown in the Loch
 2 Dreadbore
 2 Drowned Catacomb
+2 Dragonskull Summit
 3 Opt
 3 Dreadbore
-3 Drown in the Loch
-3 Tyrant's Scorn
 3 Blood Crypt
 3 Dragonskull Summit
-3 Nicol Bolas, Dragon-God
 3 Nicol Bolas, the Ravager
+3 Nicol Bolas, Dragon-God
+3 Tyrant's Scorn
+3 Drown in the Loch
 3 Drowned Catacomb
 3 Watery Grave
 4 Opt
-4 Drown in the Loch
-4 Tyrant's Scorn
 4 Blood Crypt
-4 Fatal Push
-4 Dreadbore
 4 Nicol Bolas, Dragon-God
 4 Nicol Bolas, the Ravager
+4 Drown in the Loch
+4 Dreadbore
+4 Tyrant's Scorn
+4 Fatal Push
 4 Watery Grave
