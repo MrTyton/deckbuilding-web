@@ -22,12 +22,12 @@
 2 Castle Locthwain
 1 Call of the Death-Dweller
 1 Dreadhorde Butcher
-1 Priest of Forgotten Gods
 1 Claim the Firstborn
 1 Lampad of Death's Vigil
 1 Cauldron Familiar
 1 Cruel Celebrant
 1 Witch's Oven
+1 Priest of Forgotten Gods
 1 Serrated Scorpion
 2 Claim the Firstborn
 2 Call of the Death-Dweller
@@ -38,11 +38,11 @@
 2 Cauldron Familiar
 2 Serrated Scorpion
 2 Priest of Forgotten Gods
+3 Claim the Firstborn
 3 Call of the Death-Dweller
 3 Dreadhorde Butcher
 3 Cauldron Familiar
 3 Priest of Forgotten Gods
-3 Claim the Firstborn
 3 Serrated Scorpion
 3 Witch's Oven
 3 Cruel Celebrant
@@ -99,16 +99,16 @@
 2 Unbreakable Formation
 1 Acclaimed Contender
 2 Acclaimed Contender
-1 Footlight Fiend
-2 Footlight Fiend
-3 Footlight Fiend
-4 Footlight Fiend
 1 Venerated Loxodon
 2 Venerated Loxodon
 3 Venerated Loxodon
 4 Venerated Loxodon
 2 Chance for Glory
 4 Rimrock Knight
+1 Footlight Fiend
+2 Footlight Fiend
+3 Footlight Fiend
+4 Footlight Fiend
 1 Kenrith, the Returned King
 1 Raise the Alarm
 1 Winota, Joiner of Forces
@@ -144,18 +144,18 @@
 2 Fling
 2 Weaponize the Monsters
 3 Fabled Passage
-3 Luminous Broodmoth
 3 Sorin, Vengeful Bloodlord
+3 Luminous Broodmoth
 3 Colossus Hammer
 4 Luminous Broodmoth
 4 Fabled Passage
-1 Outlaws' Merriment
 1 Lavabrink Venturer
 1 Hero of Precinct One
+1 Outlaws' Merriment
 1 Revival / Revenge
-2 Outlaws' Merriment
 2 Lavabrink Venturer
 2 Hero of Precinct One
+2 Outlaws' Merriment
 2 Revival / Revenge
 3 Hero of Precinct One
 3 Judith, the Scourge Diva

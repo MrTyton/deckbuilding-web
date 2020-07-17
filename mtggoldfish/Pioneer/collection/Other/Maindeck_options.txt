@@ -39,8 +39,8 @@
 1 Questing Beast
 1 Ghor-Clan Rampager
 1 Experiment One
-1 Pelt Collector
 1 Gruul Spellbreaker
+1 Pelt Collector
 1 Bonecrusher Giant
 1 Zhur-Taa Goblin
 1 Gallia of the Endless Dance
@@ -187,8 +187,8 @@
 3 Indatha Triome
 3 Siege Rhino
 3 Courser of Kruphix
-3 Traverse the Ulvenwald
 3 Vraska, Golgari Queen
+3 Traverse the Ulvenwald
 3 Discovery/Dispersal
 4 Traverse the Ulvenwald
 4 Discovery/Dispersal
@@ -352,13 +352,6 @@
 3 Gallia of the Endless Dance
 3 Game Trail
 4 Game Trail
-1 Domri, Anarch of Bolas
-1 Dryad Militant
-1 Hashep Oasis
-1 Domri Rade
-2 Hashep Oasis
-4 Ghor-Clan Rampager
-4 Gruul Spellbreaker
 1 The Birth of Meletis
 1 Treacherous Blessing
 1 Doom Foretold
@@ -388,8 +381,8 @@
 1 Panharmonicon
 2 Reflector Mage
 2 Thassa, Deep-Dwelling
-2 Militia Bugler
 2 Thalia's Lieutenant
+2 Militia Bugler
 2 Elite Guardmage
 2 Declaration in Stone
 2 Panharmonicon
@@ -478,23 +471,6 @@
 4 Zulaport Cutthroat
 4 Cartel Aristocrat
 4 Return to the Ranks
-1 Censor
-1 Karn, Scion of Urza
-1 The Scarab God
-1 Heartless Act
-1 Search for Azcanta
-1 Spell Queller
-1 Dovin's Veto
-2 Censor
-2 Heartless Act
-2 Spell Queller
-2 Dovin's Veto
-3 Censor
-3 Heartless Act
-3 Spell Queller
-4 Censor
-4 Heartless Act
-4 Spell Queller
 1 Anguished Unmaking
 1 Thalia, Heretic Cathar
 1 Glory-Bound Initiate
@@ -508,6 +484,23 @@
 3 Glory-Bound Initiate
 4 Caves of Koilos
 4 Gideon, Ally of Zendikar
+1 Censor
+1 Karn, Scion of Urza
+1 Search for Azcanta
+1 The Scarab God
+1 Heartless Act
+1 Spell Queller
+1 Dovin's Veto
+2 Censor
+2 Heartless Act
+2 Spell Queller
+2 Dovin's Veto
+3 Censor
+3 Heartless Act
+3 Spell Queller
+4 Heartless Act
+4 Spell Queller
+4 Censor
 1 Paradise Druid
 2 Paradise Druid
 3 Paradise Druid
@@ -549,16 +542,16 @@
 4 Thought-Knot Seer
 4 Aether Hub
 4 Llanowar Wastes
-4 Temple of Mystery
 4 Radiant Fountain
+4 Temple of Mystery
 4 Yavimaya Coast
 4 Zhalfirin Void
 4 Wispweaver Angel
 4 Clever Impersonator
 4 Spark Double
 4 Altered Ego
-1 Blood Crypt
 1 Liliana, Waker of the Dead
+1 Blood Crypt
 1 Davriel, Rogue Shadowmage
 1 Kolaghan's Command
 1 Kroxa, Titan of Death's Hunger
@@ -566,9 +559,9 @@
 1 Eliminate
 1 Waste Not
 1 Field of Ruin
-2 Liliana, Waker of the Dead
 2 Blood Crypt
 2 Davriel, Rogue Shadowmage
+2 Liliana, Waker of the Dead
 2 Eliminate
 2 Waste Not
 2 Field of Ruin
@@ -672,6 +665,13 @@
 4 Ghostfire Blade
 4 Ensoul Artifact
 4 Spire of Industry
+1 Dryad Militant
+1 Domri, Anarch of Bolas
+1 Hashep Oasis
+1 Domri Rade
+2 Hashep Oasis
+4 Ghor-Clan Rampager
+4 Gruul Spellbreaker
 1 Inspiring Vantage
 1 Battlefield Forge
 1 Sacred Foundry
@@ -684,19 +684,17 @@
 4 Sacred Foundry
 4 Inspiring Vantage
 4 Battlefield Forge
-1 Cast Out
-1 Flourishing Fox
 1 Zenith Flare
 1 Drannith Healer
 1 Valiant Rescuer
 1 Djeru's Renunciation
+1 Flourishing Fox
 1 Drannith Stinger
 1 Flameblade Adept
 1 Go for Blood
+1 Cast Out
 1 Footfall Crater
 1 Hollow One
-2 Cast Out
-2 Flourishing Fox
 2 Zenith Flare
 2 Drannith Healer
 2 Valiant Rescuer
@@ -705,11 +703,12 @@
 2 Footfall Crater
 2 Flameblade Adept
 2 Djeru's Renunciation
+2 Cast Out
+2 Flourishing Fox
 2 Hollow One
-3 Cast Out
-3 Flourishing Fox
 3 Zenith Flare
 3 Valiant Rescuer
+3 Flourishing Fox
 3 Hollow One
 3 Drannith Stinger
 3 Go for Blood
@@ -717,11 +716,12 @@
 3 Footfall Crater
 3 Flameblade Adept
 3 Djeru's Renunciation
-4 Flourishing Fox
+3 Cast Out
 4 Zenith Flare
 4 Drannith Healer
 4 Hollow One
 4 Djeru's Renunciation
+4 Flourishing Fox
 4 Drannith Stinger
 4 Flameblade Adept
 4 Go for Blood
@@ -753,8 +753,8 @@
 4 Soulflayer
 1 Lurrus of the Dream-Den
 1 Feather, the Redeemed
-1 Reckless Rage
 1 Selfless Savior
+1 Reckless Rage
 1 Clifftop Retreat
 1 Favored Hoplite
 1 Tenth District Legionnaire
@@ -766,7 +766,6 @@
 1 Dreadhorde Arcanist
 2 Feather, the Redeemed
 2 Fight as One
-2 Reckless Rage
 2 Selfless Savior
 2 Tenth District Legionnaire
 2 Monastery Swiftspear
@@ -774,9 +773,9 @@
 2 Defiant Strike
 2 Gods Willing
 2 Dreadhorde Arcanist
+2 Reckless Rage
 2 Favored Hoplite
 2 Clifftop Retreat
-3 Reckless Rage
 3 Fight as One
 3 Feather, the Redeemed
 3 Favored Hoplite
@@ -785,6 +784,7 @@
 3 Tenth District Legionnaire
 3 Boros Charm
 3 Gods Willing
+3 Reckless Rage
 3 Dreadhorde Arcanist
 4 Fight as One
 4 Reckless Rage
@@ -803,23 +803,23 @@
 4 Deathrite Shaman
 5 Swamp
 6 Swamp
-1 Blast Zone
 1 Karn's Bastion
 1 Authority of the Consuls
 1 Gideon's Intervention
 1 Gideon Blackblade
 1 Weatherlight
 1 Swallow Whole
+1 Blast Zone
 1 Hushbringer
 1 Geier Reach Sanitarium
 1 Spear of Heliod
 1 Idyllic Grange
 1 Karn, the Great Creator
-2 Blast Zone
 2 Authority of the Consuls
 2 Lurrus of the Dream-Den
 2 Gideon Blackblade
 2 Idyllic Grange
+2 Blast Zone
 2 Hushbringer
 2 Karn, the Great Creator
 3 Blast Zone
@@ -827,8 +827,8 @@
 3 Gideon of the Trials
 3 Authority of the Consuls
 3 Hushbringer
-4 Gideon of the Trials
 4 Hushbringer
+4 Gideon of the Trials
 7 Plains
 8 Plains
 9 Plains

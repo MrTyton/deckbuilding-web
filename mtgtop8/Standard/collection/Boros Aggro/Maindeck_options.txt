@@ -1,12 +1,12 @@
 3 Boon of the Wish-Giver
 6 Mountain
 1 Bonecrusher Giant
+1 Embercleave
 1 Igneous Cur
 1 Alpine Watchdog
 1 Alpine Houndmaster
 1 Legion Warboss
 1 Seasoned Hallowblade
-1 Embercleave
 1 Tajic, Legion's Edge
 1 Selfless Savior
 2 Bonecrusher Giant
@@ -14,14 +14,14 @@
 2 Alpine Watchdog
 2 Igneous Cur
 2 Legion Warboss
+2 Embercleave
 2 Seasoned Hallowblade
 2 Tajic, Legion's Edge
-2 Embercleave
 2 Selfless Savior
 3 Alpine Houndmaster
 3 Seasoned Hallowblade
-3 Embercleave
 3 Selfless Savior
+3 Embercleave
 4 Alpine Houndmaster
 4 Seasoned Hallowblade
 4 Embercleave
@@ -48,8 +48,8 @@
 1 Reptilian Reflection
 2 Imposing Vantasaur
 2 Reptilian Reflection
-3 Imposing Vantasaur
 3 Reptilian Reflection
+3 Imposing Vantasaur
 4 Imposing Vantasaur
 4 Reptilian Reflection
 1 Aurelia, Exemplar of Justice
@@ -66,8 +66,8 @@
 2 Haktos the Unscarred
 2 Lavabrink Venturer
 1 Island
-1 Temple of Epiphany
 1 Tranquil Cove
+1 Temple of Epiphany
 1 Improbable Alliance
 1 Ominous Seas
 1 Swiftwater Cliffs
@@ -92,13 +92,13 @@
 3 Raugrin Triome
 4 Raugrin Triome
 4 Tajic, Legion's Edge
+1 Castle Vantress
 1 Shark Typhoon
 1 Brazen Borrower
-1 Frilled Mystic
 1 Nightpack Ambusher
+1 Frilled Mystic
 1 Aether Gust
 1 Growth Spiral
-1 Castle Vantress
 1 Mystical Dispute
 1 Hallowed Fountain
 1 Teferi, Time Raveler
@@ -109,7 +109,7 @@
 1 Uro, Titan of Nature's Wrath
 1 Temple of Mystery
 1 Forest
-2 Temple of Plenty
+2 Temple of Mystery
 2 Castle Vantress
 2 Brazen Borrower
 2 Shark Typhoon
@@ -117,19 +117,19 @@
 2 Teferi, Time Raveler
 2 Dovin's Veto
 2 Growth Spiral
+2 Temple of Plenty
 2 Island
 2 Temple Garden
 2 Aether Gust
 2 Hallowed Fountain
-2 Temple of Mystery
 2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
 2 Mystical Dispute
 3 Island
 3 Shark Typhoon
 3 Mystical Dispute
-3 Dovin's Veto
 3 Nightpack Ambusher
+3 Dovin's Veto
 3 Aether Gust
 3 Brazen Borrower
 3 Breeding Pool
@@ -139,12 +139,12 @@
 3 Growth Spiral
 3 Temple Garden
 4 Shark Typhoon
-4 Nightpack Ambusher
-4 Mystical Dispute
 4 Brazen Borrower
 4 Teferi, Time Raveler
 4 Hallowed Fountain
 4 Fabled Passage
 4 Temple Garden
+4 Mystical Dispute
+4 Nightpack Ambusher
 4 Breeding Pool
 4 Growth Spiral

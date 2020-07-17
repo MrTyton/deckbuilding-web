@@ -16,15 +16,13 @@
 1 Citywide Bust
 2 Basri's Lieutenant
 2 Citywide Bust
-1 Agonizing Remorse
-2 Agonizing Remorse
 1 Revoke Existence
 1 The Elderspell
 2 Revoke Existence
 1 Justice Strike
 2 Justice Strike
-1 Duress
-2 Duress
+1 Agonizing Remorse
+2 Agonizing Remorse
 1 Shatter the Sky
 2 Shatter the Sky
 1 Legion Warboss
@@ -32,10 +30,12 @@
 2 Bonecrusher Giant
 3 Bonecrusher Giant
 1 Conclave Tribunal
+2 Gideon Blackblade
 1 Sorin, Vengeful Bloodlord
+1 Duress
 1 Dire Tactics
 2 Dire Tactics
-2 Gideon Blackblade
+2 Duress
 1 Tormod's Crypt
 2 Tormod's Crypt
 1 Murderous Rider
@@ -50,26 +50,20 @@
 1 Soul Sear
 1 Giant Killer
 1 Phoenix of Ash
-2 Soul Sear
 2 Giant Killer
+2 Soul Sear
 2 Phoenix of Ash
 3 Phoenix of Ash
 1 Banishing Light
 2 Banishing Light
 3 Banishing Light
-1 Heartless Act
 1 Rotting Regisaur
+1 Heartless Act
 1 Noxious Grasp
-2 Heartless Act
 2 Rotting Regisaur
+2 Heartless Act
 2 Noxious Grasp
 3 Noxious Grasp
-1 Embereth Shieldbreaker
-2 Embereth Shieldbreaker
-3 Fight as One
-3 Duress
-4 Fight as One
-4 Duress
 1 Stonecoil Serpent
 1 Luminous Broodmoth
 1 Runed Halo
@@ -79,3 +73,11 @@
 2 Hushbringer
 2 Legion Warboss
 3 Legion Warboss
+1 Chandra, Acolyte of Flame
+1 Unchained Berserker
+1 Irreverent Revelers
+2 Chandra, Acolyte of Flame
+2 Unchained Berserker
+2 Irreverent Revelers
+3 Irreverent Revelers
+3 Unchained Berserker

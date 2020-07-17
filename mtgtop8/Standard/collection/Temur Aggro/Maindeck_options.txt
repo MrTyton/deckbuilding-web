@@ -61,8 +61,8 @@
 2 Scorching Dragonfire
 1 Whirlwind Denial
 1 Quench
-2 Quench
 2 Whirlwind Denial
+2 Quench
 1 Sinister Sabotage
 2 Sinister Sabotage
 1 Shark Typhoon
@@ -80,8 +80,8 @@
 1 Cavalier of Gales
 2 Cavalier of Gales
 1 Omen of the Sea
-1 Kogla, the Titan Ape
 1 Omen of the Forge
+1 Kogla, the Titan Ape
 2 Omen of the Sea
 2 Omen of the Forge
 3 Omen of the Sea
@@ -102,8 +102,8 @@
 1 Cultivate
 2 Cultivate
 3 Cultivate
-4 Cultivate
 4 Forest
+4 Cultivate
 1 Terror of the Peaks
 1 Yorion, Sky Nomad
 2 Terror of the Peaks
@@ -119,6 +119,11 @@
 3 Expansion / Explosion
 3 Wilderness Reclamation
 4 Wilderness Reclamation
+1 Fire Prophecy
+2 Fire Prophecy
+3 Fire Prophecy
+4 Brineborn Cutthroat
+4 Fire Prophecy
 1 Gadwick, the Wizened
 1 Neutralize
 1 Ionize
@@ -132,11 +137,6 @@
 3 Ionize
 4 Opt
 4 Ionize
-1 Fire Prophecy
-2 Fire Prophecy
-3 Fire Prophecy
-4 Brineborn Cutthroat
-4 Fire Prophecy
 3 Quench
 3 Whirlwind Denial
 4 Island

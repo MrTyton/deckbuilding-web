@@ -1,19 +1,20 @@
-3 Serrated Scorpion
-4 Serrated Scorpion
+2 Stonecoil Serpent
+20 Swamp
 3 Stonecoil Serpent
 4 Stonecoil Serpent
-1 Murderous Rider
-2 Murderous Rider
+2 Mobilized District
 4 Eliminate
 2 Grasp of Darkness
-2 Mobilized District
+1 Murderous Rider
+2 Murderous Rider
 3 Murderous Rider
 1 Kitesail Freebooter
 2 Kitesail Freebooter
 3 Kitesail Freebooter
+1 Shadowspear
+1 Heartless Act
 1 Duress
 2 Duress
-1 Heartless Act
 1 Tymaret, Chosen from Death
 1 Priest of Forgotten Gods
 1 Call of the Death-Dweller
@@ -36,8 +37,8 @@
 3 Grasp of Darkness
 4 Grasp of Darkness
 1 Lampad of Death's Vigil
-1 Witch's Cottage
 1 Whisper Squad
+1 Witch's Cottage
 1 Burglar Rat
 1 Sanitarium Skeleton
 2 Lampad of Death's Vigil
@@ -52,7 +53,6 @@
 4 Whisper Squad
 4 Lampad of Death's Vigil
 4 Burglar Rat
-1 Shadowspear
 2 Heartless Act
 2 Shadowspear
 3 Village Rites
@@ -63,42 +63,42 @@
 4 Agonizing Remorse
 3 Duress
 1 Ayara, First of Locthwain
-1 Dread Presence
 1 Yarok's Fenlurker
-2 Dread Presence
-2 Yarok's Fenlurker
+1 Dread Presence
 2 Ayara, First of Locthwain
+2 Yarok's Fenlurker
+2 Dread Presence
 3 Yarok's Fenlurker
 4 Yarok's Fenlurker
 4 Murderous Rider
 2 Priest of Forgotten Gods
 3 Priest of Forgotten Gods
 4 Priest of Forgotten Gods
-1 Drill Bit
-2 Drill Bit
-3 Drill Bit
-4 Drill Bit
 1 Liliana's Standard Bearer
 2 Liliana's Standard Bearer
 3 Mobilized District
+3 Sanitarium Skeleton
 1 Order of Midnight
 3 Heartless Act
-3 Sanitarium Skeleton
-1 Kaya's Ghostform
 1 Hateful Eidolon
+1 Kaya's Ghostform
 1 Fiend Artisan
 1 Dead Weight
-2 Kaya's Ghostform
+1 Drill Bit
 2 Hateful Eidolon
+2 Kaya's Ghostform
 2 Fiend Artisan
 2 Dead Weight
+2 Drill Bit
 3 Hateful Eidolon
 3 Fiend Artisan
+3 Drill Bit
 3 Dead Weight
 4 Cauldron Familiar
 4 Fiend Artisan
-1 Hunted Nightmare
+4 Drill Bit
 1 Midnight Reaper
+1 Hunted Nightmare
 1 Nightmare Shepherd
 2 Tymaret, Chosen from Death
 2 Nightmare Shepherd
@@ -114,12 +114,12 @@
 3 Mire Triton
 4 Mire Triton
 4 Lurrus of the Dream Den
-1 Davriel, Rogue Shadowmage
 1 Gray Merchant of Asphodel
+1 Davriel, Rogue Shadowmage
 1 Drag to the Underworld
+2 Gray Merchant of Asphodel
 2 Davriel, Rogue Shadowmage
 2 Drag to the Underworld
-2 Gray Merchant of Asphodel
 3 Dread Presence
 3 Davriel, Rogue Shadowmage
 3 Drag to the Underworld
@@ -128,26 +128,3 @@
 4 Duress
 4 Drag to the Underworld
 4 Gray Merchant of Asphodel
-1 Banehound
-1 Bloodthirsty Aerialist
-1 Footlight Fiend
-1 Vampire of the Dire Moon
-1 Lurrus of the Dream-Den
-1 Erebos's Intervention
-2 Banehound
-2 Bloodthirsty Aerialist
-2 Footlight Fiend
-2 Vampire of the Dire Moon
-2 Lurrus of the Dream-Den
-3 Banehound
-3 Bloodthirsty Aerialist
-3 Lurrus of the Dream-Den
-3 Footlight Fiend
-3 Vampire of the Dire Moon
-4 Banehound
-4 Bloodthirsty Aerialist
-4 Footlight Fiend
-4 Vampire of the Dire Moon
-21 Swamp
-22 Swamp
-23 Swamp

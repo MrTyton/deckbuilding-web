@@ -127,8 +127,8 @@
 3 Risen Reef
 3 Leafkin Druid
 3 Cavalier of Thorns
-3 Casualties of War
 3 Temple of Malady
+3 Casualties of War
 3 Growth Spiral
 3 Ketria Triome
 3 Thought Erasure
@@ -204,15 +204,15 @@
 2 Murderous Rider
 3 Temple of Malice
 3 Fiend Artisan
-4 Temple of Malice
 4 Claim the Firstborn
+4 Temple of Malice
 1 Paradise Druid
 1 Auspicious Starrix
 1 Pollywog Symbiote
 1 Beast Whisperer
 1 Migratory Greathorn
-1 Nylea, Keen-Eyed
 1 End-Raze Forerunners
+1 Nylea, Keen-Eyed
 1 Setessan Petitioner
 2 Paradise Druid
 2 Auspicious Starrix
@@ -269,12 +269,12 @@
 2 Midnight Reaper
 2 Mythos of Snapdax
 2 Serrated Scorpion
-3 Serrated Scorpion
 3 Cruel Celebrant
 3 Midnight Reaper
 3 Mythos of Snapdax
-4 Serrated Scorpion
+3 Serrated Scorpion
 4 Cruel Celebrant
+4 Serrated Scorpion
 4 Midnight Reaper
 1 Yidaro, Wandering Monster
 1 Gingerbrute
@@ -304,18 +304,18 @@
 4 Alseid of Life's Bounty
 1 Indatha Triome
 1 Setessan Training
-1 Pious Wayfarer
-1 Hateful Eidolon
 1 Kaya's Ghostform
+1 Hateful Eidolon
 1 Season of Growth
 1 Dead Weight
 1 Aphemia, the Cacophony
+1 Pious Wayfarer
 1 Starfield Mystic
 1 Temple Garden
 2 Indatha Triome
 2 Setessan Training
-2 Hateful Eidolon
 2 Kaya's Ghostform
+2 Hateful Eidolon
 2 Season of Growth
 2 Dead Weight
 2 Pious Wayfarer
@@ -380,6 +380,50 @@
 4 Dirge Bat
 4 Neutralize
 4 Unsummon
+3 Stonecoil Serpent
+1 Blast Zone
+1 Ugin, the Spirit Dragon
+1 Karn's Bastion
+1 Mystic Forge
+1 Crystalline Giant
+1 Solemn Simulacrum
+1 Steel Overseer
+1 Ugin, the Ineffable
+1 Mobilized District
+1 Palladium Myr
+1 Interplanar Beacon
+2 Mobilized District
+2 Solemn Simulacrum
+2 Ugin, the Spirit Dragon
+2 Ugin, the Ineffable
+2 Mystic Forge
+2 Crystalline Giant
+2 Steel Overseer
+2 Karn's Bastion
+2 Palladium Myr
+2 Radiant Fountain
+2 Interplanar Beacon
+3 Ugin, the Ineffable
+3 Mystic Forge
+3 Solemn Simulacrum
+3 Ugin, the Spirit Dragon
+3 Steel Overseer
+3 Karn's Bastion
+3 Crystalline Giant
+3 Palladium Myr
+3 Interplanar Beacon
+3 Radiant Fountain
+4 Ugin, the Ineffable
+4 Mystic Forge
+4 Solemn Simulacrum
+4 Ugin, the Spirit Dragon
+4 Stonecoil Serpent
+4 Steel Overseer
+4 Karn's Bastion
+4 Interplanar Beacon
+4 Crystalline Giant
+4 Palladium Myr
+4 Radiant Fountain
 1 Selfless Savior
 1 Tajic, Legion's Edge
 1 Seasoned Hallowblade
@@ -399,8 +443,8 @@
 2 Alpine Watchdog
 2 Alpine Houndmaster
 3 Selfless Savior
-3 Tajic, Legion's Edge
 3 Seasoned Hallowblade
+3 Tajic, Legion's Edge
 3 Legion Warboss
 3 Alpine Houndmaster
 3 Temple of Triumph
@@ -422,50 +466,6 @@
 3 Pelt Collector
 4 Temple of Abandon
 4 Stomping Ground
-3 Stonecoil Serpent
-1 Blast Zone
-1 Ugin, the Spirit Dragon
-1 Mystic Forge
-1 Karn's Bastion
-1 Solemn Simulacrum
-1 Crystalline Giant
-1 Steel Overseer
-1 Ugin, the Ineffable
-1 Mobilized District
-1 Palladium Myr
-1 Interplanar Beacon
-2 Mobilized District
-2 Solemn Simulacrum
-2 Ugin, the Spirit Dragon
-2 Ugin, the Ineffable
-2 Mystic Forge
-2 Radiant Fountain
-2 Crystalline Giant
-2 Karn's Bastion
-2 Palladium Myr
-2 Interplanar Beacon
-2 Steel Overseer
-3 Ugin, the Ineffable
-3 Mystic Forge
-3 Solemn Simulacrum
-3 Radiant Fountain
-3 Crystalline Giant
-3 Ugin, the Spirit Dragon
-3 Karn's Bastion
-3 Palladium Myr
-3 Interplanar Beacon
-3 Steel Overseer
-4 Ugin, the Ineffable
-4 Mystic Forge
-4 Solemn Simulacrum
-4 Ugin, the Spirit Dragon
-4 Radiant Fountain
-4 Stonecoil Serpent
-4 Karn's Bastion
-4 Interplanar Beacon
-4 Crystalline Giant
-4 Palladium Myr
-4 Steel Overseer
 1 Steam Vents
 1 Shark Typhoon
 1 Ominous Seas

@@ -8,8 +8,8 @@
 1 Duress
 1 Ashiok's Erasure
 1 Davriel, Rogue Shadowmage
-1 Cleansing Nova
 1 Moment of Craving
+1 Cleansing Nova
 2 Unmoored Ego
 4 Mystical Dispute
 1 Abrupt Decay
@@ -142,10 +142,6 @@
 1 Roast
 2 Roast
 3 Destructive Revelry
-1 Dusk/Dawn
-2 Dusk/Dawn
-3 Dovin's Veto
-4 Dovin's Veto
 3 Soul-Guide Lantern
 1 Anger of the Gods
 2 Anger of the Gods
@@ -164,9 +160,13 @@
 3 Glass Casket
 3 Isolate
 4 Glass Casket
+1 Dusk/Dawn
+2 Dusk/Dawn
+3 Dovin's Veto
+4 Dovin's Veto
 1 Goblin Chainwhirler
-1 Mizzium Mortars
 1 Chandra, Awakened Inferno
+1 Mizzium Mortars
 2 Chandra, Awakened Inferno
 2 Goblin Chainwhirler
 2 Mizzium Mortars
@@ -176,9 +176,9 @@
 4 Mizzium Mortars
 1 Blessed Alliance
 1 Seal Away
-2 Seal Away
-2 Blessed Alliance
 2 Gideon's Intervention
+2 Blessed Alliance
+2 Seal Away
 3 Seal Away
 3 Gideon's Intervention
 4 Seal Away
