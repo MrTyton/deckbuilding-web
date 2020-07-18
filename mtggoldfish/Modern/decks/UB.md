@@ -26,33 +26,9 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|[Sunken Hollow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402051)    |                    1|[Yixlid Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130702)          |
-|                    1|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380203)    |                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)           |
-|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102) |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
-|                    1|Shark Typhoon                                                                               |                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)        |
-|                    1|Frantic Inventory                                                                           |                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)        |
-|                    1|[Logic Knot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126151)       |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)           |
-|                    1|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)      |                    2|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|
-|                    1|[Shadow of Doubt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83827)   |                    2|[Yixlid Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130702)          |
-|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)    |                    3|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)        |
-|                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|                    3|[Yixlid Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130702)          |
-|                    2|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)      |                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)            |
-|                    2|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380203)    |                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)            |
-|                    2|Shark Typhoon                                                                               |                     |                                                                                                  |
-|                    2|Frantic Inventory                                                                           |                     |                                                                                                  |
-|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)    |                     |                                                                                                  |
-|                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|                     |                                                                                                  |
-|                    3|Shark Typhoon                                                                               |                     |                                                                                                  |
-|                    3|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380203)    |                     |                                                                                                  |
-|                    3|[Drown in the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473150)|                     |                                                                                                  |
-|                    3|Frantic Inventory                                                                           |                     |                                                                                                  |
-|                    3|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676)  |                     |                                                                                                  |
-|                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)    |                     |                                                                                                  |
-|                    4|Shark Typhoon                                                                               |                     |                                                                                                  |
-|                    4|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380203)    |                     |                                                                                                  |
-|                    4|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676)  |                     |                                                                                                  |
-|                    4|Frantic Inventory                                                                           |                     |                                                                                                  |
-|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)    |                     |                                                                                                  |
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
+|                     |             |                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)  |
+|                     |             |                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)  |
 

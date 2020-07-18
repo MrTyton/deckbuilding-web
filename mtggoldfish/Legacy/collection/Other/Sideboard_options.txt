@@ -1,85 +1,80 @@
-1 Price of Progress
-1 Shenanigans
-1 Ravenous Trap
-1 Eidolon of the Great Revel
-2 Ravenous Trap
-2 Price of Progress
-2 Eidolon of the Great Revel
-3 Price of Progress
-3 Red Elemental Blast
-3 Eidolon of the Great Revel
-4 Eidolon of the Great Revel
-4 Red Elemental Blast
-1 Eliminate
-1 Lavinia, Azorius Renegade
-1 Force of Negation
-1 Surgical Extraction
-1 Pyroblast
-2 Pyroblast
-1 Abrade
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
-2 Surgical Extraction
-2 Abrade
-1 Disenchant
-2 Plague Engineer
+1 Pyroblast
+1 Surgical Extraction
+2 Pyroblast
+1 Abrade
 1 Pithing Needle
-3 Surgical Extraction
-2 Pithing Needle
+2 Surgical Extraction
 3 Pyroblast
-1 Echoing Truth
-1 Ensnaring Bridge
-1 Mycosynth Lattice
+2 Abrade
 1 Flusterstorm
-1 Containment Priest
-1 Null Rod
-2 Echoing Truth
-4 Pyroblast
-1 Karakas
-1 Submerge
-1 Notion Thief
-1 Mystical Dispute
-2 Mystical Dispute
-2 Force of Negation
-1 Collector Ouphe
-1 Mindbreak Trap
-2 Mindbreak Trap
-1 Path to Exile
-2 Flusterstorm
+1 Engineered Explosives
 1 Relic of Progenitus
 2 Relic of Progenitus
-2 Containment Priest
-1 Council's Judgment
+2 Flusterstorm
+1 Dispel
+2 Dispel
+3 Relic of Progenitus
+4 Relic of Progenitus
+1 Plague Engineer
+1 Thoughtseize
+2 Plague Engineer
+1 Force of Negation
+3 Surgical Extraction
+2 Pithing Needle
+1 Ensnaring Bridge
+1 Null Rod
+1 Containment Priest
+1 Mindbreak Trap
+2 Mindbreak Trap
 1 Sorcerous Spyglass
 2 Sorcerous Spyglass
-1 Grand Abolisher
-1 Bitterblossom
+1 Submerge
+1 Collector Ouphe
+1 Blood Moon
+1 Mystical Dispute
+2 Mystical Dispute
+2 Thoughtseize
+2 Force of Negation
+1 Echoing Truth
+1 Notion Thief
+1 Karakas
+4 Pyroblast
+1 Path to Exile
+1 Force of Vigor
+1 Council's Judgment
+2 Containment Priest
+1 Disenchant
+1 Mycosynth Lattice
+1 Oblivion Ring
+2 Oblivion Ring
+1 Sanctum Prelate
+2 Sanctum Prelate
+1 Palace Jailer
+1 Imperial Recruiter
+1 Deputy of Detention
+1 Dismember
+1 Orzhov Pontiff
+1 Tomik, Distinguished Advokist
+1 Manic Vandal
+2 Dismember
 1 Carpet of Flowers
 1 Bojuka Bog
 1 Pernicious Deed
 1 Crop Rotation
 2 Carpet of Flowers
 1 Blazing Volley
-1 Force of Vigor
 1 Veil of Summer
 2 Blazing Volley
 2 Veil of Summer
-1 Deputy of Detention
-1 Orzhov Pontiff
-1 Dismember
-1 Imperial Recruiter
-1 Tomik, Distinguished Advokist
-1 Manic Vandal
-1 Sanctum Prelate
-2 Dismember
-2 Sanctum Prelate
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
-1 Liquimetal Coating
 1 Pharika's Libation
 1 Duress
+1 Liquimetal Coating
 2 Duress
 2 Pharika's Libation
 2 Liquimetal Coating
@@ -91,20 +86,14 @@
 1 Gaddock Teeg
 1 Ancient Grudge
 2 Ancient Grudge
-1 Lion's Eye Diamond
-1 Walking Ballista
-1 Oblivion Ring
-1 Glass Casket
-2 Oblivion Ring
-2 Disenchant
 1 Search for Azcanta
 1 Blue Sun's Zenith
 1 Turnabout
 1 Pact of Negation
 1 Wipe Away
 1 Hurkyl's Recall
-1 Teferi's Realm
 1 Grafdigger's Cage
+1 Teferi's Realm
 1 Brain Freeze
 1 Snap
 2 Grafdigger's Cage
@@ -115,39 +104,52 @@
 1 Vendilion Clique
 2 Monastery Mentor
 2 Vendilion Clique
-1 Brazen Borrower
-3 True-Name Nemesis
+1 Swords to Plowshares
+1 Lion's Eye Diamond
+1 Walking Ballista
+1 Glass Casket
+2 Swords to Plowshares
+2 Disenchant
+3 Swords to Plowshares
+1 Eliminate
 1 Curse of Exhaustion
 2 Eliminate
 3 Plague Engineer
-1 Blood Moon
 1 Cindervines
 2 Cindervines
 3 Mystical Dispute
+1 Thorn of Amethyst
 1 Worship
 1 Faerie Macabre
-1 Thorn of Amethyst
 1 Damping Sphere
-2 Faerie Macabre
 2 Thorn of Amethyst
+2 Faerie Macabre
 2 Council's Judgment
 3 Faerie Macabre
-1 Grindstone
-1 Painter's Servant
-1 Force of Will
-2 Force of Will
-3 Force of Will
-1 Engineered Explosives
-1 Dispel
-2 Dispel
-3 Relic of Progenitus
-4 Relic of Progenitus
+1 Rest in Peace
+1 Fairgrounds Warden
+1 Holy Light
+2 Rest in Peace
+2 Holy Light
+2 Fairgrounds Warden
+3 Oblivion Ring
+3 Fairgrounds Warden
+3 Holy Light
+1 Cabal Therapy
+1 Anger
+1 Death's Shadow
+2 Cabal Therapy
+2 Force of Vigor
+3 Cabal Therapy
+3 Force of Vigor
+4 Cabal Therapy
+4 Force of Vigor
 1 Emrakul, the Aeons Torn
 1 Show and Tell
 1 Griselbrand
 1 Omniscience
-2 Show and Tell
 2 Emrakul, the Aeons Torn
+2 Show and Tell
 2 Omniscience
 2 Griselbrand
 3 Emrakul, the Aeons Torn
@@ -157,8 +159,6 @@
 4 Emrakul, the Aeons Torn
 4 Show and Tell
 4 Griselbrand
-1 Soul-Guide Lantern
-1 Electrickery
 1 Volcanic Fallout
 1 Ashen Rider
 2 Volcanic Fallout
@@ -166,3 +166,19 @@
 3 Sorcerous Spyglass
 3 Ashen Rider
 4 Ashen Rider
+1 Electrickery
+1 Soul-Guide Lantern
+2 Echoing Truth
+1 Spatial Contortion
+1 Phyrexian Revoker
+1 Karn, Scion of Urza
+2 Spatial Contortion
+2 Ensnaring Bridge
+2 Karn, Scion of Urza
+3 Ensnaring Bridge
+1 Grindstone
+1 Ethersworn Canonist
+1 Lightning Bolt
+2 Lightning Bolt
+3 Lightning Bolt
+4 Lightning Bolt

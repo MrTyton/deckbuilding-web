@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    1|[Kozilek's Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407608)|
-|                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                    2|[Kozilek's Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407608)|
+|                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                    2|[Kozilek's Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407608)|
+|                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                    1|[Kozilek's Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407608)|
 |                    2|[Bedlam Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414415)     |                     |                                                                                           |
 |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                     |                                                                                           |
 |                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                     |                                                                                           |

@@ -12,7 +12,6 @@
 4 Sleight of Hand
 4 Island
 1 Forest
-1 Pentad Prism
 1 Song of Creation
 1 Memnite
 1 Stomping Ground
@@ -26,22 +25,24 @@
 1 Mana Confluence
 1 Commune with the Gods
 1 Wooded Foothills
+1 Pentad Prism
 1 Simian Spirit Guide
 1 Shimmer of Possibility
 1 Mishra's Bauble
 1 Misty Rainforest
-2 Pentad Prism
 2 Song of Creation
-2 Noxious Revival
 2 Stomping Ground
+2 Noxious Revival
 2 Memnite
 2 Engineered Explosives
 2 Wild Cantor
 2 Shimmer of Possibility
 2 Simian Spirit Guide
 2 Pact of Negation
+2 Pentad Prism
 2 Mishra's Bauble
 2 Mana Confluence
+3 Steam Vents
 3 Engineered Explosives
 3 Shimmer of Possibility
 3 Pentad Prism
@@ -51,14 +52,13 @@
 3 Pact of Negation
 3 Song of Creation
 3 Mishra's Bauble
-3 Steam Vents
 3 Wild Cantor
 3 Simian Spirit Guide
-4 Engineered Explosives
 4 Pentad Prism
 4 Shimmer of Possibility
 4 Manamorphose
 4 Song of Creation
+4 Engineered Explosives
 4 Mana Confluence
 4 Simian Spirit Guide
 4 Wild Cantor
@@ -69,12 +69,12 @@
 1 Remand
 1 Opt
 1 Omen of the Sea
-1 Relic of Progenitus
 1 Thassa's Oracle
 1 Thoughtseize
 1 Fatal Push
 1 Swamp
 1 Inverter of Truth
+1 Relic of Progenitus
 1 Eldrazi Temple
 1 Jace, Wielder of Mysteries
 1 Shelldock Isle
@@ -83,8 +83,8 @@
 2 Remand
 2 River of Tears
 2 Opt
-2 Shelldock Isle
 2 Omen of the Sea
+2 Shelldock Isle
 2 Relic of Progenitus
 2 Jace, Wielder of Mysteries
 2 Thassa's Oracle
@@ -95,12 +95,12 @@
 2 Fatal Push
 3 Darkslick Shores
 3 Remand
-3 Omen of the Sea
 3 Inquisition of Kozilek
 3 Opt
 3 Watery Grave
-3 Relic of Progenitus
+3 Omen of the Sea
 3 Thoughtseize
+3 Relic of Progenitus
 3 Jace, Wielder of Mysteries
 3 Thassa's Oracle
 3 Fatal Push
@@ -109,11 +109,11 @@
 3 Eldrazi Temple
 4 Jace, Wielder of Mysteries
 4 Thassa's Oracle
-4 Omen of the Sea
+4 Remand
 4 Opt
 4 Darkslick Shores
 4 Watery Grave
-4 Remand
+4 Omen of the Sea
 4 Drowned Catacomb
 4 Fatal Push
 4 Inverter of Truth

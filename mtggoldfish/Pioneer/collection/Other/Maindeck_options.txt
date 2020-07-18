@@ -236,7 +236,6 @@
 3 Siren Stormtamer
 4 Island
 1 Brazen Borrower
-1 Thassa, God of the Sea
 1 Gadwick, the Wizened
 1 Harbinger of the Tides
 1 Brineborn Cutthroat
@@ -245,6 +244,7 @@
 1 Wizard's Retort
 1 Merfolk Trickster
 1 Spectral Sailor
+1 Thassa, God of the Sea
 2 Brazen Borrower
 2 Gadwick, the Wizened
 2 Master of Waves
@@ -395,8 +395,8 @@
 1 Skysovereign, Consul Flagship
 1 Panharmonicon
 2 Reflector Mage
-2 Thassa, Deep-Dwelling
 2 Militia Bugler
+2 Thassa, Deep-Dwelling
 2 Elite Guardmage
 2 Declaration in Stone
 2 Panharmonicon
@@ -416,12 +416,12 @@
 1 Elvish Rejuvenator
 1 Neoform
 1 Botanical Sanctum
+1 Tasigur, the Golden Fang
 1 Cavalier of Night
 1 Massacre Girl
 1 Reclamation Sage
 1 Cavalier of Gales
 1 Arboreal Grazer
-1 Tasigur, the Golden Fang
 1 Eldritch Evolution
 1 Hostage Taker
 1 Woodland Bellower
@@ -429,8 +429,8 @@
 1 Unesh, Criosphinx Sovereign
 2 Elvish Rejuvenator
 2 Neoform
-2 Arboreal Grazer
 2 Tasigur, the Golden Fang
+2 Arboreal Grazer
 2 Grapple with the Past
 2 Eldritch Evolution
 3 Neoform

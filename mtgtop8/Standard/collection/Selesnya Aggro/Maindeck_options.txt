@@ -50,27 +50,27 @@
 1 Ajani, the Greathearted
 1 Speaker of the Heavens
 2 Speaker of the Heavens
-1 Setessan Training
-2 Setessan Training
 1 The Great Henge
 2 The Great Henge
+1 Setessan Training
+2 Setessan Training
 2 Unbreakable Formation
 3 Basri's Lieutenant
 1 Questing Beast
+1 Scavenging Ooze
 1 Seasoned Hallowblade
 1 Selfless Savior
 1 Lurrus of the Dream-Den
 1 Primal Might
 1 Bronzehide Lion
-1 Gideon Blackblade
 1 Lovestruck Beast
+1 Gideon Blackblade
 1 Gemrazer
-1 Scavenging Ooze
 2 Seasoned Hallowblade
 2 Selfless Savior
 2 Primal Might
-2 Scavenging Ooze
 2 Questing Beast
+2 Scavenging Ooze
 2 Bronzehide Lion
 2 Gideon Blackblade
 2 Lovestruck Beast
@@ -78,16 +78,16 @@
 3 Lovestruck Beast
 3 Seasoned Hallowblade
 3 Selfless Savior
-3 Questing Beast
 3 Lurrus of the Dream-Den
 3 Bronzehide Lion
 3 Primal Might
 3 Scavenging Ooze
+3 Questing Beast
 4 Lovestruck Beast
 4 Selfless Savior
 4 Seasoned Hallowblade
-4 Questing Beast
 4 Bronzehide Lion
+4 Questing Beast
 1 Elspeth, Sun's Nemesis
 1 Vivien, Arkbow Ranger
 1 Kronch Wrangler
@@ -122,8 +122,8 @@
 4 Kronch Wrangler
 4 Barkhide Troll
 4 Evolution Sage
+4 Blossoming Sands
 9 Forest
-10 Forest
 11 Forest
 12 Forest
-4 Blossoming Sands
+10 Forest

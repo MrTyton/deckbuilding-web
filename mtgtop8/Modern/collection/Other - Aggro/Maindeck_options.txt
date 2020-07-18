@@ -1,59 +1,55 @@
-1 Snow-Covered Swamp
-1 Unearth
-2 Wooded Foothills
-1 Magus of the Moon
-1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 2 Magus of the Moon
 3 Seasoned Pyromancer
 4 Seasoned Pyromancer
 1 Grim Lavamancer
-1 Glorybringer
 1 Bonecrusher Giant
-1 Kitchen Finks
-1 Arbor Elf
-1 Windswept Heath
-1 Klothys, God of Destiny
-1 Forest
-1 Stomping Ground
 1 Utopia Sprawl
 1 Verdant Catacombs
+1 Arbor Elf
+1 Stomping Ground
+1 Klothys, God of Destiny
+1 Windswept Heath
+1 Glorybringer
+1 Forest
+1 Kitchen Finks
 2 Verdant Catacombs
-2 Bonecrusher Giant
+2 Windswept Heath
 2 Forest
-2 Stomping Ground
-2 Glorybringer
 2 Utopia Sprawl
 2 Kitchen Finks
 2 Arbor Elf
-2 Windswept Heath
 2 Klothys, God of Destiny
+2 Stomping Ground
+2 Bonecrusher Giant
+2 Glorybringer
 3 Bonecrusher Giant
 3 Kitchen Finks
 3 Arbor Elf
-3 Magus of the Moon
 3 Klothys, God of Destiny
-3 Wooded Foothills
+3 Magus of the Moon
 3 Forest
 3 Stomping Ground
 3 Glorybringer
+3 Wooded Foothills
 3 Utopia Sprawl
 4 Magus of the Moon
 4 Bonecrusher Giant
 4 Glorybringer
+4 Stomping Ground
 4 Utopia Sprawl
 4 Arbor Elf
-4 Forest
-4 Stomping Ground
 4 Wooded Foothills
+4 Forest
 5 Forest
 6 Forest
-2 Lava Dart
-2 Unearth
+3 Fatal Push
+3 Seal of Fire
 1 Polluted Delta
 2 Polluted Delta
 3 Polluted Delta
 3 Inquisition of Kozilek
+1 Unearth
 1 Watery Grave
 1 Island
 2 Watery Grave
@@ -61,53 +57,48 @@
 1 Mana Leak
 1 Drown in the Loch
 1 Serum Visions
+1 Steam Vents
 1 Scalding Tarn
 1 Snapcaster Mage
-1 Steam Vents
 2 Mana Leak
 2 Steam Vents
 2 Scalding Tarn
 2 Serum Visions
-1 Marsh Flats
-2 Snow-Covered Mountain
-4 Fatal Push
-1 Dark Confidant
-1 Dreadhorde Arcanist
-2 Dark Confidant
-2 Snow-Covered Swamp
-3 Dark Confidant
-4 Inquisition of Kozilek
 1 Darkslick Shores
 2 Darkslick Shores
 1 Sprite Dragon
 1 Spirebluff Canal
 2 Sprite Dragon
-3 Sprite Dragon
 3 Darkslick Shores
+3 Sprite Dragon
 4 Sprite Dragon
 1 Force of Negation
 1 Thought Scour
 2 Thought Scour
 3 Thought Scour
 3 Serum Visions
-4 Thought Scour
 4 Serum Visions
+4 Thought Scour
 1 Spell Snare
 1 Delver of Secrets
-2 Delver of Secrets
 2 Snapcaster Mage
+2 Delver of Secrets
 3 Scalding Tarn
-3 Delver of Secrets
 3 Snapcaster Mage
-4 Scalding Tarn
+3 Delver of Secrets
 4 Delver of Secrets
-1 Kroxa, Titan of Death's Hunger
-2 Kroxa, Titan of Death's Hunger
+4 Scalding Tarn
+1 Dreadhorde Arcanist
+1 Dark Confidant
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
+2 Snow-Covered Swamp
+2 Dark Confidant
+3 Dark Confidant
+4 Inquisition of Kozilek
+2 Unearth
 1 Sacred Foundry
 2 Force of Negation
-2 Dreadhorde Arcanist
-2 Marsh Flats
-3 Dreadhorde Arcanist
 1 Pillage
 1 Relic of Progenitus
 2 Pillage
@@ -115,18 +106,10 @@
 3 Pillage
 4 Windswept Heath
 1 Arid Mesa
+2 Lava Dart
 2 Kiln Fiend
 4 Mountain
 4 Cling to Dust
-1 Light Up the Stage
-1 Collective Brutality
-2 Light Up the Stage
-3 Lava Dart
-3 Light Up the Stage
-3 Blood Crypt
-4 Seal of Fire
-4 Light Up the Stage
-4 Blood Crypt
 1 Of One Mind
 1 Young Pyromancer
 1 Lurrus of the Dream-Den
@@ -134,65 +117,15 @@
 2 Young Pyromancer
 3 Young Pyromancer
 4 Young Pyromancer
-1 Opt
-1 Archmage's Charm
-2 Spirebluff Canal
-2 Archmage's Charm
-2 Opt
-3 Spirebluff Canal
-3 Opt
-4 Opt
+1 Marsh Flats
+2 Dreadhorde Arcanist
+2 Snow-Covered Mountain
+2 Marsh Flats
+3 Dreadhorde Arcanist
+4 Fatal Push
 1 Spell Pierce
-1 Plains
-1 Curious Obsession
-1 Hallowed Fountain
-1 Dead Weight
-1 Hateful Eidolon
-1 Flooded Strand
-1 Silent Clearing
-1 Teferi, Time Raveler
-1 Remand
-1 Spell Queller
-1 Mogis's Favor
-1 Rattlechains
-1 Tallowisp
-1 Cavern of Souls
-1 Mausoleum Wanderer
-1 Seachrome Coast
-1 Sunken Ruins
-1 Godless Shrine
-1 Angelic Destiny
-1 Supreme Phantom
-2 Curious Obsession
-2 Flooded Strand
-2 Hateful Eidolon
-2 Dead Weight
-2 Tallowisp
-2 Island
-2 Rattlechains
-2 Remand
-2 Mausoleum Wanderer
-2 Seachrome Coast
-2 Supreme Phantom
-2 Spell Queller
-2 Spell Pierce
-3 Curious Obsession
-3 Force of Negation
-3 Hateful Eidolon
-3 Dead Weight
-3 Supreme Phantom
-3 Rattlechains
-3 Flooded Strand
-3 Spell Queller
-3 Tallowisp
-3 Mausoleum Wanderer
-4 Curious Obsession
-4 Flooded Strand
-4 Hateful Eidolon
-4 Tallowisp
-4 Mausoleum Wanderer
-1 Vantress Gargoyle
 1 Into the Story
+1 Vantress Gargoyle
 1 Thieves' Guild Enforcer
 1 Mystic Sanctuary
 1 Brazen Borrower
@@ -205,60 +138,116 @@
 3 Drown in the Loch
 4 Thieves' Guild Enforcer
 4 Drown in the Loch
+1 Archmage's Charm
+1 Opt
+2 Spirebluff Canal
+2 Opt
+2 Archmage's Charm
+3 Spirebluff Canal
+3 Opt
+4 Opt
+1 Plains
+1 Godless Shrine
+1 Curious Obsession
+1 Hallowed Fountain
+1 Hateful Eidolon
+1 Flooded Strand
+1 Silent Clearing
+1 Teferi, Time Raveler
+1 Dead Weight
+1 Remand
+1 Angelic Destiny
+1 Tallowisp
+1 Cavern of Souls
+1 Rattlechains
+1 Spell Queller
+1 Mausoleum Wanderer
+1 Seachrome Coast
+1 Supreme Phantom
+1 Sunken Ruins
+1 Mogis's Favor
+2 Curious Obsession
+2 Spell Pierce
+2 Flooded Strand
+2 Hateful Eidolon
+2 Dead Weight
+2 Rattlechains
+2 Tallowisp
+2 Supreme Phantom
+2 Remand
+2 Island
+2 Mausoleum Wanderer
+2 Seachrome Coast
+2 Spell Queller
+3 Curious Obsession
+3 Force of Negation
+3 Hateful Eidolon
+3 Dead Weight
+3 Flooded Strand
+3 Spell Queller
+3 Mausoleum Wanderer
+3 Supreme Phantom
+3 Rattlechains
+3 Tallowisp
+4 Curious Obsession
+4 Flooded Strand
+4 Hateful Eidolon
+4 Tallowisp
+4 Mausoleum Wanderer
 1 Shadowspear
 1 Spellskite
-1 Inspiring Vantage
-1 Inkmoth Nexus
-1 Apostle's Blessing
-1 Sigarda's Aid
-1 Giver of Runes
-1 Magnetic Theft
-1 Stoneforge Mystic
 1 Steelshaper's Gift
-1 Colossus Hammer
+1 Apostle's Blessing
 1 Kor Outfitter
 1 Kor Duelist
-2 Shadowspear
-2 Sacred Foundry
+1 Colossus Hammer
+1 Inkmoth Nexus
+1 Sigarda's Aid
+1 Inspiring Vantage
+1 Magnetic Theft
+1 Stoneforge Mystic
+1 Giver of Runes
 2 Spellskite
+2 Shadowspear
 2 Plains
-2 Kor Outfitter
 2 Steelshaper's Gift
+2 Sacred Foundry
+2 Inkmoth Nexus
+2 Kor Outfitter
+2 Inspiring Vantage
 2 Sigarda's Aid
 2 Stoneforge Mystic
 2 Colossus Hammer
-2 Kor Duelist
-2 Inspiring Vantage
 2 Giver of Runes
 2 Magnetic Theft
-2 Inkmoth Nexus
+2 Kor Duelist
 3 Sacred Foundry
-3 Inspiring Vantage
-3 Spellskite
-3 Kor Duelist
-3 Inkmoth Nexus
 3 Giver of Runes
 3 Magnetic Theft
-3 Sigarda's Aid
+3 Kor Duelist
+3 Spellskite
 3 Stoneforge Mystic
 3 Colossus Hammer
 3 Plains
-3 Kor Outfitter
+3 Sigarda's Aid
 3 Steelshaper's Gift
+3 Inspiring Vantage
+3 Kor Outfitter
+3 Inkmoth Nexus
 4 Sacred Foundry
 4 Sunbaked Canyon
-4 Kor Duelist
-4 Magnetic Theft
-4 Giver of Runes
 4 Sigarda's Aid
-4 Steelshaper's Gift
-4 Inspiring Vantage
+4 Kor Duelist
+4 Spellskite
 4 Kor Outfitter
 4 Plains
+4 Steelshaper's Gift
+4 Giver of Runes
 4 Colossus Hammer
 4 Inkmoth Nexus
+4 Magnetic Theft
+4 Inspiring Vantage
 4 Stoneforge Mystic
-4 Spellskite
 5 Plains
 1 Lukka, Coppercoat Outcast
 1 Blood Moon
@@ -266,12 +255,14 @@
 2 Misty Rainforest
 4 Kitchen Finks
 7 Forest
-1 Castle Locthwain
 1 Fiend Artisan
-1 Liliana of the Veil
+1 Kroxa, Titan of Death's Hunger
+1 Castle Locthwain
 1 Lightning Skelemental
+1 Liliana of the Veil
 2 Fiend Artisan
 2 Castle Locthwain
+2 Kroxa, Titan of Death's Hunger
 2 Lightning Skelemental
 2 Liliana of the Veil
 3 Liliana of the Veil

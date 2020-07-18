@@ -5,8 +5,8 @@
 2 Omen of the Sea
 2 Plains
 2 Fabled Passage
-3 Extinction Event
 3 Omen of the Sea
+3 Extinction Event
 3 Fabled Passage
 4 Extinction Event
 4 Savai Triome
@@ -22,8 +22,8 @@
 2 Narset of the Ancient Way
 1 Temple of Silence
 2 Temple of Silence
-1 Blood Crypt
 1 Cry of the Carnarium
+1 Blood Crypt
 2 Cry of the Carnarium
 1 Shatter the Sky
 4 Elspeth Conquers Death
@@ -55,8 +55,9 @@
 2 Steam Vents
 1 Temple of Enlightenment
 2 Temple of Enlightenment
-2 Ashiok, Nightmare Muse
 2 Blood Crypt
+2 Ashiok, Nightmare Muse
+4 Shatter the Sky
 1 Shark Typhoon
 2 Shark Typhoon
 1 Dream Trawler
@@ -65,12 +66,11 @@
 2 Agonizing Remorse
 3 Agonizing Remorse
 4 Agonizing Remorse
-4 Shatter the Sky
 1 Baneslayer Angel
 1 Elspeth's Nightmare
 1 Mu Yanling, Sky Dancer
-2 The Elderspell
 2 Liliana, Dreadhorde General
+2 The Elderspell
 2 Elspeth's Nightmare
 4 Teferi, Master of Time
 2 Castle Vantress
@@ -84,10 +84,8 @@
 1 Spark Double
 1 Dovin's Veto
 2 Dovin's Veto
-1 Ashiok, Dream Render
-4 Oath of Kaya
-1 Deafening Clarion
 1 Sacred Foundry
+1 Deafening Clarion
 2 Deafening Clarion
 2 Sacred Foundry
 3 Ashiok, Nightmare Muse
@@ -99,3 +97,5 @@
 3 Mystical Dispute
 4 Shark Typhoon
 4 Cry of the Carnarium
+1 Ashiok, Dream Render
+4 Oath of Kaya
