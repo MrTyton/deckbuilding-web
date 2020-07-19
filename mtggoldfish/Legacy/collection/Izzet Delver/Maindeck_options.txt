@@ -26,8 +26,8 @@
 2 Stormwing Entity
 4 Preordain
 2 Gut Shot
-1 Underground Sea
 1 Thoughtseize
+1 Underground Sea
 2 Underground Sea
 2 Thoughtseize
 3 Underground Sea
@@ -49,13 +49,24 @@
 1 Stifle
 2 Stifle
 1 Arid Mesa
-1 Surgical Extraction
 1 Flusterstorm
+1 Surgical Extraction
 1 Kolaghan's Command
 2 Snapcaster Mage
 3 Of One Mind
 3 Misty Rainforest
 3 Snow-Covered Island
+1 Vapor Snag
+1 Soul-Scar Mage
+1 Urza's Bauble
+1 Bedlam Reveler
+2 Prismatic Vista
+2 Soul-Scar Mage
+2 Urza's Bauble
+3 Chain Lightning
+3 Urza's Bauble
+4 Chain Lightning
+4 Urza's Bauble
 1 Counterspell
 1 Accumulated Knowledge
 1 Mystic Sanctuary
@@ -67,21 +78,21 @@
 2 Ethereal Forager
 2 Embodiment of Agonies
 4 Underground Sea
-1 Dark Confidant
 1 Tundra
 1 Marsh Flats
-1 Karakas
 1 Meddling Mage
+1 Dark Confidant
+1 Karakas
 1 Scrubland
 1 Swords to Plowshares
+2 Meddling Mage
 2 Dark Confidant
 2 Tundra
-2 Meddling Mage
-2 Fatal Push
 2 Swords to Plowshares
-3 Dark Confidant
-3 Meddling Mage
+2 Fatal Push
 3 Tundra
+3 Meddling Mage
+3 Dark Confidant
 3 Force of Negation
 3 Thoughtseize
 3 Swords to Plowshares
@@ -92,8 +103,8 @@
 2 Pteramander
 2 Manamorphose
 3 Pteramander
-3 Stormwing Entity
 3 Manamorphose
+3 Stormwing Entity
 4 Pteramander
 4 Manamorphose
 4 Stormwing Entity
@@ -120,14 +131,3 @@
 4 Island
 4 Phyrexian Dreadnought
 4 Standstill
-1 Vapor Snag
-1 Urza's Bauble
-1 Soul-Scar Mage
-1 Bedlam Reveler
-2 Prismatic Vista
-2 Urza's Bauble
-2 Soul-Scar Mage
-3 Urza's Bauble
-3 Chain Lightning
-4 Urza's Bauble
-4 Chain Lightning

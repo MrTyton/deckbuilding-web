@@ -66,12 +66,12 @@
 |                    3|Insatiable Hemophage                                                                                |                     |              |
 |                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |              |
 |                    4|Pouncing Shoreshark                                                                                 |                     |              |
+|                    4|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)        |                     |              |
 |                    4|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)             |                     |              |
 |                    4|[Knight of the Ebon Legion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466859)|                     |              |
-|                    4|Pollywog Symbiote                                                                                   |                     |              |
 |                    4|Sea-Dasher Octopus                                                                                  |                     |              |
+|                    4|Pollywog Symbiote                                                                                   |                     |              |
 |                    4|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)      |                     |              |
-|                    4|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)        |                     |              |
 |                    4|Insatiable Hemophage                                                                                |                     |              |
 |                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |              |
 |                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |              |

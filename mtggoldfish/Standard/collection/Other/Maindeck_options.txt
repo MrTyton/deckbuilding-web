@@ -9,38 +9,38 @@
 3 Overgrown Tomb
 4 Overgrown Tomb
 1 Vraska, Golgari Queen
-1 Casualties of War
-2 Casualties of War
 1 Castle Locthwain
 3 Swamp
+1 Casualties of War
+2 Casualties of War
 3 Arboreal Grazer
 4 Arboreal Grazer
+1 Castle Ardenvale
 1 Elspeth Conquers Death
 2 Elspeth Conquers Death
-1 Castle Ardenvale
-1 Temple of Plenty
 1 Godless Shrine
 2 Godless Shrine
 3 Godless Shrine
+1 Elspeth, Sun's Nemesis
 1 Heartless Act
 2 Castle Locthwain
-1 Elspeth, Sun's Nemesis
+1 Temple of Plenty
 1 Temple of Malady
 2 Vraska, Golgari Queen
 1 Scavenging Ooze
-2 Scavenging Ooze
-2 Temple of Plenty
-1 Llanowar Visionary
 1 Indatha Triome
+1 Llanowar Visionary
 1 Oath of Kaya
 1 Doom Foretold
 1 Treacherous Blessing
 1 Cavalier of Dawn
 2 Llanowar Visionary
+2 Scavenging Ooze
 2 Indatha Triome
 2 Doom Foretold
 2 Treacherous Blessing
 2 Oath of Kaya
+2 Temple of Plenty
 3 Llanowar Visionary
 3 Oath of Kaya
 3 Vraska, Golgari Queen
@@ -51,46 +51,40 @@
 4 Llanowar Visionary
 4 Treacherous Blessing
 4 Indatha Triome
-2 Forest
 2 Castle Ardenvale
-3 Forest
-3 Casualties of War
-3 Breeding Pool
-4 Breeding Pool
-1 Temple of Mystery
 2 Plains
 3 Plains
+4 Swamp
+5 Swamp
 4 Plains
+1 Temple of Silence
+2 Temple of Silence
+4 Godless Shrine
 5 Plains
 6 Plains
 7 Plains
 8 Plains
-4 Swamp
-5 Swamp
-1 Temple of Silence
-2 Temple of Silence
-4 Godless Shrine
 1 Giant Killer
 1 Dire Tactics
 1 Adherent of Hope
 1 Basri Ket
 1 General's Enforcer
 1 Scoured Barrens
-1 Disfigure
 1 General Kudro of Drannith
 1 Haazda Marshal
+1 Disfigure
 1 Venerable Knight
 1 Tithe Taker
 1 Icon of Ancestry
 2 Dire Tactics
-2 General Kudro of Drannith
 2 Haazda Marshal
 2 Tithe Taker
 2 Adherent of Hope
 2 Basri Ket
 2 Venerable Knight
-2 Icon of Ancestry
 2 General's Enforcer
+2 Icon of Ancestry
+2 General Kudro of Drannith
 3 General's Enforcer
 3 Venerable Knight
 3 Icon of Ancestry
@@ -105,7 +99,14 @@
 4 Dire Tactics
 4 Haazda Marshal
 4 Tithe Taker
-4 Forest
+2 Forest
+3 Forest
+2 Disfigure
+3 Disfigure
+3 Casualties of War
+3 Breeding Pool
+4 Breeding Pool
+1 Temple of Mystery
 1 Nissa, Who Shakes the World
 1 Cultivate
 2 Cultivate
@@ -116,11 +117,12 @@
 2 Temple of Mystery
 3 Aether Gust
 2 Heartless Act
+4 Forest
 3 Island
 2 Ugin, the Spirit Dragon
 3 Nissa, Who Shakes the World
-1 Jolrael, Mwonvuli Recluse
 1 Zagoth Triome
+1 Jolrael, Mwonvuli Recluse
 1 Watery Grave
 2 Watery Grave
 2 Zagoth Triome
@@ -133,48 +135,20 @@
 1 Justice Strike
 1 Steam Vents
 1 Narset, Parter of Veils
-2 Narset, Parter of Veils
 2 Steam Vents
+2 Narset, Parter of Veils
 3 Steam Vents
 1 Ashiok, Dream Render
-1 Questing Beast
-2 Questing Beast
 3 Hallowed Fountain
 4 Hallowed Fountain
-1 Gemrazer
-3 Questing Beast
-4 Questing Beast
-1 Lovestruck Beast
-2 Lovestruck Beast
-3 Lovestruck Beast
-5 Forest
-6 Forest
-7 Forest
-8 Forest
-1 Seasoned Hallowblade
-2 Seasoned Hallowblade
-3 Seasoned Hallowblade
-4 Seasoned Hallowblade
-1 Blacklance Paragon
-2 Eliminate
-2 Blacklance Paragon
-3 Eliminate
-3 Blacklance Paragon
-4 Eliminate
-1 Murderous Rider
-1 Rotting Regisaur
-2 Murderous Rider
-2 Rotting Regisaur
-3 Rotting Regisaur
-4 Rotting Regisaur
-6 Swamp
-7 Swamp
 1 Shatter the Sky
 2 Shatter the Sky
 3 Shatter the Sky
 4 Shatter the Sky
 1 Temple of Enlightenment
 2 Temple of Enlightenment
+1 Healer's Hawk
+1 Spectral Sailor
 1 Faerie Miscreant
 1 Empyrean Eagle
 1 Skycat Sovereign
@@ -182,62 +156,66 @@
 1 Hanged Executioner
 1 Rally of Wings
 1 Loyal Pegasus
-1 Healer's Hawk
 1 Sephara, Sky's Blade
 1 Watcher of the Spheres
-1 Spectral Sailor
-2 Lofty Denial
-2 Spectral Sailor
-2 Rally of Wings
-2 Sea-Dasher Octopus
 2 Healer's Hawk
+2 Spectral Sailor
+2 Lofty Denial
+2 Rally of Wings
 2 Sephara, Sky's Blade
 2 Hanged Executioner
 2 Loyal Pegasus
 2 Watcher of the Spheres
 2 Empyrean Eagle
+2 Sea-Dasher Octopus
 2 Faerie Miscreant
 2 Skycat Sovereign
 3 Temple of Enlightenment
+3 Healer's Hawk
+3 Lofty Denial
 3 Empyrean Eagle
 3 Faerie Miscreant
 3 Skycat Sovereign
 3 Spectral Sailor
-3 Lofty Denial
 3 Rally of Wings
-3 Healer's Hawk
 3 Watcher of the Spheres
 4 Temple of Enlightenment
-4 Island
+4 Lofty Denial
+4 Healer's Hawk
 4 Empyrean Eagle
 4 Faerie Miscreant
 4 Spectral Sailor
 4 Skycat Sovereign
-4 Healer's Hawk
-4 Lofty Denial
+4 Island
 5 Island
 6 Island
 7 Island
 8 Island
-1 Blood Crypt
+1 Blacklance Paragon
+2 Eliminate
+2 Blacklance Paragon
+3 Eliminate
+3 Blacklance Paragon
+4 Eliminate
+1 Eat to Extinction
 1 Agonizing Remorse
+1 Ugin, the Ineffable
+1 Blood Crypt
 1 Radha, Heart of Keld
 1 Chandra, Heart of Fire
-1 Eat to Extinction
 1 Extinction Event
-1 Temple of Malice
-1 Ugin, the Ineffable
 1 Klothys, God of Destiny
 1 Liliana, Dreadhorde General
+1 Temple of Malice
 2 Agonizing Remorse
-2 Bonecrusher Giant
 2 Blood Crypt
+2 Bonecrusher Giant
+2 Extinction Event
 2 Liliana, Dreadhorde General
 2 Temple of Malice
 2 Eat to Extinction
 2 Radha, Heart of Keld
 2 Temple of Malady
-2 Extinction Event
 3 Bonecrusher Giant
 3 Blood Crypt
 3 Agonizing Remorse
@@ -249,37 +227,13 @@
 1 Chevill, Bane of Monsters
 1 Despark
 2 Giant Killer
-2 Disfigure
-3 Disfigure
 1 Thought Distortion
 1 Hydroid Krasis
-2 Hydroid Krasis
 2 Thought Distortion
+2 Hydroid Krasis
 3 Hydroid Krasis
 3 Cultivate
 4 Hydroid Krasis
-1 Lurrus of the Dream-Den
-1 Primal Might
-1 Pelt Collector
-1 Bronzehide Lion
-1 Selfless Savior
-1 Gideon Blackblade
-2 Primal Might
-2 Lurrus of the Dream-Den
-2 Selfless Savior
-2 Gideon Blackblade
-2 Pelt Collector
-2 Bronzehide Lion
-3 Scavenging Ooze
-3 Selfless Savior
-3 Lurrus of the Dream-Den
-3 Pelt Collector
-3 Bronzehide Lion
-3 Primal Might
-4 Lovestruck Beast
-4 Pelt Collector
-4 Bronzehide Lion
-4 Selfless Savior
 1 Genesis Ultimatum
 1 Chandra, Awakened Inferno
 1 Chandra, Flame's Catalyst
@@ -291,6 +245,92 @@
 3 Genesis Ultimatum
 3 Chandra, Awakened Inferno
 4 Genesis Ultimatum
+1 Opt
+1 Neutralize
+1 Drown in the Loch
+1 Liliana, Waker of the Dead
+1 Enter the God-Eternals
+1 Ritual of Soot
+1 Lazav, the Multifarious
+1 Chemister's Insight
+2 Opt
+2 Liliana, Waker of the Dead
+2 Drown in the Loch
+2 Enter the God-Eternals
+2 Chemister's Insight
+2 Lazav, the Multifarious
+3 Jolrael, Mwonvuli Recluse
+3 Opt
+3 Watery Grave
+3 Drown in the Loch
+4 Opt
+4 Watery Grave
+1 Frantic Inventory
+1 Banishing Light
+1 Teferi's Tutelage
+1 Omen of the Sun
+1 Revitalize
+1 Omen of the Sea
+1 Calix, Destiny's Hand
+2 Banishing Light
+2 Frantic Inventory
+2 Teferi's Tutelage
+2 Ashiok, Dream Render
+2 Omen of the Sun
+2 Revitalize
+2 Calix, Destiny's Hand
+2 Omen of the Sea
+3 Banishing Light
+3 Frantic Inventory
+3 Teferi's Tutelage
+3 Ashiok, Dream Render
+3 Omen of the Sea
+3 Omen of the Sun
+3 Calix, Destiny's Hand
+4 Banishing Light
+4 Frantic Inventory
+4 Teferi's Tutelage
+4 Calix, Destiny's Hand
+1 Murderous Rider
+1 Rotting Regisaur
+2 Murderous Rider
+2 Rotting Regisaur
+3 Rotting Regisaur
+4 Rotting Regisaur
+6 Swamp
+7 Swamp
+1 Questing Beast
+2 Questing Beast
+1 Temple of Abandon
+1 Gemrazer
+1 Vivien, Monsters' Advocate
+1 Illuna, Apex of Wishes
+1 End-Raze Forerunners
+1 Pollywog Symbiote
+1 Migratory Greathorn
+1 Auspicious Starrix
+1 Pouncing Shoreshark
+1 Terror of the Peaks
+2 Mountain
+2 Auspicious Starrix
+2 Migratory Greathorn
+2 Pollywog Symbiote
+2 Pouncing Shoreshark
+2 Illuna, Apex of Wishes
+2 Terror of the Peaks
+2 End-Raze Forerunners
+2 Vivien, Monsters' Advocate
+2 Temple of Abandon
+2 Gemrazer
+3 Questing Beast
+3 Terror of the Peaks
+3 Auspicious Starrix
+3 Pollywog Symbiote
+3 Migratory Greathorn
+4 Pollywog Symbiote
+4 Migratory Greathorn
+4 Questing Beast
+4 Auspicious Starrix
 1 Dream Trawler
 1 Narset of the Ancient Way
 1 Sacred Foundry
@@ -311,99 +351,29 @@
 3 Glass Casket
 3 Sarkhan the Masterless
 3 Narset, Parter of Veils
+4 Narset, Parter of Veils
 4 Interplanar Beacon
 4 Teferi, Time Raveler
 4 Sacred Foundry
-4 Sarkhan the Masterless
-4 Narset, Parter of Veils
 4 Steam Vents
-1 Neutralize
-1 Opt
-1 Liliana, Waker of the Dead
-1 Drown in the Loch
-1 Lazav, the Multifarious
-1 Chemister's Insight
-1 Ritual of Soot
-1 Enter the God-Eternals
-2 Opt
-2 Liliana, Waker of the Dead
-2 Enter the God-Eternals
-2 Drown in the Loch
-2 Lazav, the Multifarious
-2 Chemister's Insight
-3 Jolrael, Mwonvuli Recluse
-3 Opt
-3 Drown in the Loch
-3 Watery Grave
-4 Opt
-4 Watery Grave
-1 Teferi's Tutelage
-1 Revitalize
-1 Banishing Light
-1 Omen of the Sea
-1 Frantic Inventory
-1 Omen of the Sun
-1 Calix, Destiny's Hand
-2 Teferi's Tutelage
-2 Ashiok, Dream Render
-2 Revitalize
-2 Omen of the Sun
-2 Frantic Inventory
-2 Calix, Destiny's Hand
-2 Omen of the Sea
-2 Banishing Light
-3 Teferi's Tutelage
-3 Ashiok, Dream Render
-3 Omen of the Sea
-3 Omen of the Sun
-3 Frantic Inventory
-3 Calix, Destiny's Hand
-3 Banishing Light
-4 Teferi's Tutelage
-4 Banishing Light
-4 Frantic Inventory
-4 Calix, Destiny's Hand
-1 Temple of Abandon
-1 Vivien, Monsters' Advocate
-1 Illuna, Apex of Wishes
-1 End-Raze Forerunners
-1 Pollywog Symbiote
-1 Migratory Greathorn
-1 Auspicious Starrix
-1 Pouncing Shoreshark
-1 Terror of the Peaks
-2 Auspicious Starrix
-2 Mountain
-2 Migratory Greathorn
-2 Pollywog Symbiote
-2 Pouncing Shoreshark
-2 Illuna, Apex of Wishes
-2 Terror of the Peaks
-2 End-Raze Forerunners
-2 Vivien, Monsters' Advocate
-2 Temple of Abandon
-2 Gemrazer
-3 Terror of the Peaks
-3 Auspicious Starrix
-3 Pollywog Symbiote
-3 Migratory Greathorn
-4 Migratory Greathorn
-4 Pollywog Symbiote
-4 Auspicious Starrix
+4 Sarkhan the Masterless
+1 Lovestruck Beast
 1 The Great Henge
 1 Gilded Goose
 1 Ilysian Caryatid
 1 Cauldron Familiar
 1 Trail of Crumbs
 1 Witch's Oven
+2 Lovestruck Beast
 2 Gilded Goose
 2 Witch's Oven
-2 Cauldron Familiar
 2 Trail of Crumbs
-2 Ilysian Caryatid
 2 The Great Henge
+2 Ilysian Caryatid
+2 Cauldron Familiar
 3 The Great Henge
 3 Ilysian Caryatid
+3 Lovestruck Beast
 3 Gilded Goose
 3 Cauldron Familiar
 3 Trail of Crumbs
@@ -414,11 +384,16 @@
 4 Trail of Crumbs
 4 The Great Henge
 4 Gilded Goose
+5 Forest
+6 Forest
+7 Forest
+8 Forest
 9 Forest
 1 Hunted Nightmare
 1 Gutterbones
 1 Knight of the Ebon Legion
 1 Demonic Embrace
+1 Seasoned Hallowblade
 1 Grasp of Darkness
 1 Spawn of Mayhem
 2 Demonic Embrace
@@ -426,13 +401,16 @@
 2 Spawn of Mayhem
 2 Hunted Nightmare
 2 Gutterbones
+2 Seasoned Hallowblade
 3 Temple of Silence
 3 Gutterbones
+3 Seasoned Hallowblade
 3 Knight of the Ebon Legion
 3 Spawn of Mayhem
 3 Demonic Embrace
 4 Spawn of Mayhem
 4 Temple of Silence
+4 Seasoned Hallowblade
 4 Knight of the Ebon Legion
 4 Blacklance Paragon
 4 Gutterbones

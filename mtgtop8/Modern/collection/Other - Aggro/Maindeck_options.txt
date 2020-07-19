@@ -88,10 +88,10 @@
 3 Delver of Secrets
 4 Delver of Secrets
 4 Scalding Tarn
-1 Dreadhorde Arcanist
 1 Dark Confidant
 1 Snow-Covered Mountain
 1 Snow-Covered Swamp
+1 Dreadhorde Arcanist
 2 Snow-Covered Swamp
 2 Dark Confidant
 3 Dark Confidant
@@ -110,6 +110,12 @@
 2 Kiln Fiend
 4 Mountain
 4 Cling to Dust
+1 Marsh Flats
+2 Snow-Covered Mountain
+2 Dreadhorde Arcanist
+2 Marsh Flats
+3 Dreadhorde Arcanist
+4 Fatal Push
 1 Of One Mind
 1 Young Pyromancer
 1 Lurrus of the Dream-Den
@@ -117,12 +123,6 @@
 2 Young Pyromancer
 3 Young Pyromancer
 4 Young Pyromancer
-1 Marsh Flats
-2 Dreadhorde Arcanist
-2 Snow-Covered Mountain
-2 Marsh Flats
-3 Dreadhorde Arcanist
-4 Fatal Push
 1 Spell Pierce
 1 Into the Story
 1 Vantress Gargoyle
@@ -150,8 +150,8 @@
 1 Godless Shrine
 1 Curious Obsession
 1 Hallowed Fountain
-1 Hateful Eidolon
 1 Flooded Strand
+1 Hateful Eidolon
 1 Silent Clearing
 1 Teferi, Time Raveler
 1 Dead Weight
@@ -207,8 +207,8 @@
 1 Magnetic Theft
 1 Stoneforge Mystic
 1 Giver of Runes
-2 Spellskite
 2 Shadowspear
+2 Spellskite
 2 Plains
 2 Steelshaper's Gift
 2 Sacred Foundry

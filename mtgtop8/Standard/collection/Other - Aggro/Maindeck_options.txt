@@ -107,8 +107,8 @@
 1 Mayhem Devil
 2 Witch's Oven
 2 Cauldron Familiar
-2 Priest of Forgotten Gods
 2 Woe Strider
+2 Priest of Forgotten Gods
 2 Mayhem Devil
 3 Cauldron Familiar
 3 Witch's Oven
@@ -116,9 +116,9 @@
 3 Mayhem Devil
 3 Woe Strider
 4 Woe Strider
+4 Cauldron Familiar
 4 Witch's Oven
 4 Priest of Forgotten Gods
-4 Cauldron Familiar
 4 Mayhem Devil
 2 Plains
 1 Sacred Foundry
@@ -164,10 +164,10 @@
 3 Radha, Heart of Keld
 3 Robber of the Rich
 1 Call of the Death-Dweller
-1 Lazotep Reaver
 1 Claim the Firstborn
 1 Dreadhorde Butcher
 1 Temple of Malice
+1 Lazotep Reaver
 1 Fiend Artisan
 1 Murderous Rider
 1 Gutterbones
@@ -205,12 +205,12 @@
 2 Midnight Reaper
 2 Mythos of Snapdax
 2 Serrated Scorpion
+3 Serrated Scorpion
 3 Cruel Celebrant
 3 Midnight Reaper
 3 Mythos of Snapdax
-3 Serrated Scorpion
-4 Cruel Celebrant
 4 Serrated Scorpion
+4 Cruel Celebrant
 4 Midnight Reaper
 3 Sacred Foundry
 4 Sacred Foundry
@@ -270,50 +270,6 @@
 2 Gingerbrute
 3 Gingerbrute
 4 Gingerbrute
-1 Blast Zone
-3 Stonecoil Serpent
-1 Ugin, the Spirit Dragon
-1 Crystalline Giant
-1 Mystic Forge
-1 Steel Overseer
-1 Karn's Bastion
-1 Solemn Simulacrum
-1 Ugin, the Ineffable
-1 Mobilized District
-1 Palladium Myr
-1 Interplanar Beacon
-2 Mobilized District
-2 Solemn Simulacrum
-2 Ugin, the Spirit Dragon
-2 Ugin, the Ineffable
-2 Mystic Forge
-2 Crystalline Giant
-2 Radiant Fountain
-2 Steel Overseer
-2 Karn's Bastion
-2 Palladium Myr
-2 Interplanar Beacon
-3 Ugin, the Ineffable
-3 Mystic Forge
-3 Solemn Simulacrum
-3 Radiant Fountain
-3 Steel Overseer
-3 Ugin, the Spirit Dragon
-3 Karn's Bastion
-3 Crystalline Giant
-3 Palladium Myr
-3 Interplanar Beacon
-4 Ugin, the Ineffable
-4 Mystic Forge
-4 Solemn Simulacrum
-4 Ugin, the Spirit Dragon
-4 Steel Overseer
-4 Stonecoil Serpent
-4 Interplanar Beacon
-4 Karn's Bastion
-4 Crystalline Giant
-4 Palladium Myr
-4 Radiant Fountain
 4 Plains
 5 Plains
 6 Plains
@@ -361,6 +317,50 @@
 3 Pelt Collector
 4 Temple of Abandon
 4 Stomping Ground
+3 Stonecoil Serpent
+1 Blast Zone
+1 Ugin, the Spirit Dragon
+1 Karn's Bastion
+1 Crystalline Giant
+1 Mystic Forge
+1 Solemn Simulacrum
+1 Steel Overseer
+1 Ugin, the Ineffable
+1 Mobilized District
+1 Palladium Myr
+1 Interplanar Beacon
+2 Mobilized District
+2 Solemn Simulacrum
+2 Ugin, the Spirit Dragon
+2 Ugin, the Ineffable
+2 Mystic Forge
+2 Crystalline Giant
+2 Karn's Bastion
+2 Palladium Myr
+2 Radiant Fountain
+2 Interplanar Beacon
+2 Steel Overseer
+3 Ugin, the Ineffable
+3 Mystic Forge
+3 Solemn Simulacrum
+3 Ugin, the Spirit Dragon
+3 Karn's Bastion
+3 Crystalline Giant
+3 Palladium Myr
+3 Interplanar Beacon
+3 Steel Overseer
+3 Radiant Fountain
+4 Ugin, the Ineffable
+4 Mystic Forge
+4 Solemn Simulacrum
+4 Ugin, the Spirit Dragon
+4 Stonecoil Serpent
+4 Interplanar Beacon
+4 Karn's Bastion
+4 Crystalline Giant
+4 Palladium Myr
+4 Radiant Fountain
+4 Steel Overseer
 1 Castle Ardenvale
 1 All That Glitters
 1 Alseid of Life's Bounty
@@ -423,18 +423,18 @@
 4 Go for Blood
 4 Drannith Stinger
 1 Setessan Training
-1 Pious Wayfarer
-1 Kaya's Ghostform
 1 Hateful Eidolon
+1 Kaya's Ghostform
 1 Season of Growth
 1 Dead Weight
 1 Aphemia, the Cacophony
+1 Pious Wayfarer
 1 Starfield Mystic
 1 Temple Garden
 2 Indatha Triome
 2 Setessan Training
-2 Kaya's Ghostform
 2 Hateful Eidolon
+2 Kaya's Ghostform
 2 Season of Growth
 2 Dead Weight
 2 Pious Wayfarer

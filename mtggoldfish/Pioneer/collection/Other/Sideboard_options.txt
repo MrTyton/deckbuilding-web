@@ -1,7 +1,6 @@
 2 Gideon of the Trials
 2 Dovin's Veto
 1 Unmoored Ego
-2 Soul-Guide Lantern
 1 Ashiok, Dream Render
 1 Duress
 1 Ashiok's Erasure
@@ -9,15 +8,16 @@
 1 Cleansing Nova
 1 Moment of Craving
 2 Unmoored Ego
+2 Soul-Guide Lantern
 4 Damping Sphere
+1 Grafdigger's Cage
+2 Grafdigger's Cage
 2 Rest in Peace
 1 Elspeth Conquers Death
 1 Kalitas, Traitor of Ghet
 1 Agonizing Remorse
 1 Abrupt Decay
 1 Lurrus of the Dream Den
-1 Grafdigger's Cage
-2 Grafdigger's Cage
 1 Fatal Push
 2 Fatal Push
 4 Mystical Dispute
@@ -29,19 +29,16 @@
 1 Assassin's Trophy
 2 Assassin's Trophy
 1 Scavenging Ooze
+1 Shadowspear
 1 Heroic Intervention
 1 Destructive Revelry
 1 Rending Volley
-1 Shadowspear
 2 Destructive Revelry
 3 Rest in Peace
 1 Sorcerous Spyglass
 1 Legion's End
 1 Questing Beast
-1 Reclamation Sage
-2 Reclamation Sage
 2 Elspeth Conquers Death
-1 Gideon's Intervention
 1 Baffling End
 2 Baffling End
 3 Baffling End
@@ -72,18 +69,21 @@
 1 Stain the Mind
 2 Stain the Mind
 1 Settle the Wreckage
+1 Gideon's Intervention
 1 Deafening Silence
 1 Starfield of Nyx
 2 Settle the Wreckage
 2 Sorcerous Spyglass
 1 Tireless Tracker
-1 Mythos of Nethroi
 1 Gonti, Lord of Luxury
+1 Mythos of Nethroi
 1 Knight of Autumn
 2 Gonti, Lord of Luxury
 2 Mythos of Nethroi
+1 Reclamation Sage
 1 Thrashing Brontodon
 1 Savage Summoning
+2 Reclamation Sage
 2 Savage Summoning
 1 Tomik, Distinguished Advokist
 1 Ixalan's Binding
@@ -99,13 +99,13 @@
 2 Fry
 2 Forsake the Worldly
 3 Gideon of the Trials
+3 Unmoored Ego
 1 Phyrexian Revoker
 1 Thought-Knot Seer
 1 Hornet Queen
 1 Ugin, the Spirit Dragon
 1 Deathgorge Scavenger
 3 Abrupt Decay
-3 Unmoored Ego
 1 Drannith Magistrate
 1 Caustic Caterpillar
 1 Dead Weight
@@ -120,8 +120,8 @@
 3 Questing Beast
 3 Blink of an Eye
 1 Lava Coil
-2 Lava Coil
 2 Scavenging Ooze
+2 Lava Coil
 2 Rending Volley
 3 Rending Volley
 1 Disdainful Stroke
@@ -135,8 +135,8 @@
 2 Wilt
 2 Negate
 3 Flaying Tendrils
-1 Blossoming Defense
 1 Chandra, Torch of Defiance
+1 Blossoming Defense
 1 Magma Spray
 1 Roast
 2 Roast
@@ -153,6 +153,18 @@
 3 Glass Casket
 3 Isolate
 4 Glass Casket
+1 Gemrazer
+1 Heaven/Earth
+1 Rampaging Ferocidon
+1 Collective Defiance
+2 Shadowspear
+2 Rampaging Ferocidon
+2 Gemrazer
+2 Heaven/Earth
+2 Collective Defiance
+3 Collective Defiance
+3 Gemrazer
+4 Collective Defiance
 1 Selfless Spirit
 1 Kitesail Freebooter
 1 Arashin Cleric
@@ -175,16 +187,6 @@
 3 Goblin Chainwhirler
 3 Mizzium Mortars
 4 Mizzium Mortars
-1 Blessed Alliance
-1 Seal Away
-2 Blessed Alliance
-2 Gideon's Intervention
-2 Seal Away
-3 Seal Away
-3 Gideon's Intervention
-3 Soul-Guide Lantern
-4 Seal Away
-4 Gideon's Intervention
 1 Annul
 2 Annul
 2 Ashiok, Dream Render

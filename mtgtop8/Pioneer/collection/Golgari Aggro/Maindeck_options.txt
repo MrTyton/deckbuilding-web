@@ -1,34 +1,34 @@
-2 Steel Leaf Champion
-3 Steel Leaf Champion
-4 Steel Leaf Champion
-1 Scrapheap Scrounger
-2 Scrapheap Scrounger
-3 Scrapheap Scrounger
-4 Scrapheap Scrounger
+2 Stonecoil Serpent
+2 Hangarback Walker
+2 Winding Constrictor
+2 Hardened Scales
+3 Walking Ballista
+3 Stonecoil Serpent
+3 Hardened Scales
+4 Walking Ballista
+4 Hardened Scales
+3 Fatal Push
+4 Fatal Push
+1 Urborg, Tomb of Yawgmoth
+1 Swamp
+2 Swamp
+3 Winding Constrictor
+4 Winding Constrictor
+1 The Ozolith
+2 The Ozolith
+3 Hangarback Walker
+4 Hangarback Walker
+4 Stonecoil Serpent
+3 Swamp
 1 Lovestruck Beast
 1 Shadowspear
 1 Heart of Kiran
-1 The Great Henge
-1 Surrak, the Hunt Caller
-1 Ghalta, Primal Hunger
-1 Rotting Regisaur
-2 Rotting Regisaur
 2 Lovestruck Beast
 2 Heart of Kiran
-2 Rhonas the Indomitable
-2 The Great Henge
-2 Ghalta, Primal Hunger
-2 Surrak, the Hunt Caller
-3 Rotting Regisaur
 3 Lovestruck Beast
-3 The Great Henge
 3 Ghalta, Primal Hunger
 3 Surrak, the Hunt Caller
-4 Rotting Regisaur
-4 The Great Henge
 4 Lovestruck Beast
-8 Forest
-9 Forest
 1 Mutavault
 1 Steel Overseer
 1 Chamber Sentry
@@ -41,13 +41,14 @@
 3 Metallic Mimic
 4 Steel Overseer
 4 Metallic Mimic
+2 Scavenging Ooze
 1 Woodland Cemetery
 2 Woodland Cemetery
 3 Woodland Cemetery
 4 Woodland Cemetery
 1 Hashep Oasis
-1 Zetalpa, Primal Dawn
 1 Grisly Salvage
+1 Zetalpa, Primal Dawn
 1 Lotleth Troll
 1 Gather the Pack
 1 Soulflayer
@@ -72,12 +73,17 @@
 4 Gather the Pack
 4 Lotleth Troll
 4 Sylvan Caryatid
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
 1 Rankle, Master of Pranks
 1 Murderous Rider
 2 Rankle, Master of Pranks
 2 Murderous Rider
 3 Murderous Rider
 4 Murderous Rider
+1 Deathrite Shaman
+2 Deathrite Shaman
 1 Nullhide Ferox
 1 Commune with the Gods
 1 Gifted Aetherborn
@@ -85,6 +91,10 @@
 2 Nullhide Ferox
 2 Gifted Aetherborn
 3 Questing Beast
+1 Garruk's Harbinger
+2 Garruk's Harbinger
+3 Garruk's Harbinger
+4 Garruk's Harbinger
 1 Evolutionary Leap
 2 Evolutionary Leap
 4 Chamber Sentry
@@ -92,7 +102,6 @@
 1 Experiment One
 2 Experiment One
 2 Pelt Collector
-2 Scavenging Ooze
 3 Experiment One
 3 Pelt Collector
 3 Scavenging Ooze
@@ -101,8 +110,8 @@
 4 Pelt Collector
 1 Blood Crypt
 1 Traverse the Ulvenwald
-1 Bomat Courier
 1 Ghor-Clan Rampager
+1 Bomat Courier
 1 Mana Confluence
 1 Samut, Voice of Dissent
 1 Chromanticore
@@ -131,28 +140,23 @@
 3 Nissa, Voice of Zendikar
 4 Vivien, Arkbow Ranger
 4 Nissa, Voice of Zendikar
-1 Deathrite Shaman
-2 Deathrite Shaman
 1 Castle Locthwain
 1 Knight of the Ebon Legion
 1 Stitcher's Supplier
 1 Fiend Artisan
 1 Fourth Bridge Prowler
-1 Thoughtseize
 2 Mutavault
 2 Castle Locthwain
 2 Knight of the Ebon Legion
 2 Stitcher's Supplier
 2 Fiend Artisan
 2 Urborg, Tomb of Yawgmoth
-2 Thoughtseize
 3 Knight of the Ebon Legion
 3 Mutavault
 3 Stitcher's Supplier
 3 Fiend Artisan
 3 Castle Locthwain
 3 Deathrite Shaman
-3 Thoughtseize
 4 Knight of the Ebon Legion
 4 Mutavault
 4 Swamp

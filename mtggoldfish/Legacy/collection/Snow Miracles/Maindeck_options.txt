@@ -52,9 +52,9 @@
 1 Verdant Catacombs
 2 Verdant Catacombs
 1 Quickling
+1 Eternal Witness
 1 Parasitic Strix
 1 Cavern Harpy
-1 Eternal Witness
 1 Aluren
 1 Recruiter of the Guard
 2 Recruiter of the Guard
@@ -76,9 +76,9 @@
 3 Counterspell
 2 Spell Pierce
 1 Monastery Mentor
-1 Dead of Winter
 1 Kaya, Orzhov Usurper
 1 Sevinne's Reclamation
+1 Dead of Winter
 2 Dead of Winter
 1 Scrubland
 1 Hymn to Tourach
@@ -110,8 +110,8 @@
 1 Plague Engineer
 2 Snow-Covered Swamp
 1 Spell Snare
-1 Forest
 1 Island
+1 Forest
 1 Swamp
 1 Cabal Therapy
 2 Cabal Therapy
@@ -122,15 +122,15 @@
 1 Zealous Conscripts
 1 Taiga
 1 Green Sun's Zenith
-1 Bojuka Bog
 1 Fiend Artisan
 1 Ketria Triome
-1 Primeval Titan
-1 Scavenging Ooze
-1 Field of the Dead
-1 Dryad Arbor
 1 Veteran Explorer
+1 Primeval Titan
+1 Field of the Dead
+1 Scavenging Ooze
+1 Dryad Arbor
 1 Zagoth Triome
+1 Bojuka Bog
 2 Restoration Angel
 2 Birthing Pod
 2 Primeval Titan
@@ -138,19 +138,19 @@
 2 Veteran Explorer
 2 Green Sun's Zenith
 3 Field of the Dead
+3 Cabal Therapy
 3 Green Sun's Zenith
 3 Veteran Explorer
-3 Cabal Therapy
+4 Cabal Therapy
 4 Veteran Explorer
 4 Green Sun's Zenith
-4 Cabal Therapy
 1 Windswept Heath
 1 Assassin's Trophy
-1 Nihil Spellbomb
 1 Oath of Nissa
-1 Notion Thief
 1 Nissa, Steward of Elements
+1 Notion Thief
 1 Pernicious Deed
+1 Nihil Spellbomb
 1 Fatal Push
 1 Lightning Bolt
 2 Fatal Push
@@ -163,11 +163,11 @@
 1 Wasteland
 1 Thoughtseize
 2 Snow-Covered Plains
+2 Kaya, Orzhov Usurper
 2 Wasteland
 2 Plague Engineer
 2 Monastery Mentor
 2 Thoughtseize
-2 Kaya, Orzhov Usurper
 2 Narset, Parter of Veils
 3 Thoughtseize
 3 Wasteland
@@ -186,8 +186,8 @@
 1 Eternal Scourge
 1 Walking Ballista
 1 Birds of Paradise
-2 Island
 2 Forest
+2 Island
 2 Cling to Dust
 2 Manipulate Fate
 2 Misthollow Griffin

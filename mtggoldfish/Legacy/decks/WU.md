@@ -28,7 +28,7 @@
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
 |                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|                    1|[Invasive Surgery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409811)   |
 |                     |                                                                                            |                    1|[On Thin Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463969)        |
+|                     |                                                                                            |                    1|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470) |
 |                     |                                                                                            |                    2|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470) |
 |                     |                                                                                            |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                     |                                                                                            |                    1|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470) |
 

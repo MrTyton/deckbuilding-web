@@ -99,12 +99,12 @@
 1 Llanowar Wastes
 1 Hardened Scales
 1 Winding Constrictor
-2 Llanowar Wastes
-2 Winding Constrictor
 2 Hardened Scales
-3 Llanowar Wastes
+2 Winding Constrictor
+2 Llanowar Wastes
 3 Hardened Scales
 3 Winding Constrictor
+3 Llanowar Wastes
 4 Hardened Scales
 4 Winding Constrictor
 4 Llanowar Wastes
@@ -129,25 +129,25 @@
 3 Gilded Goose
 3 Goblin Instigator
 4 Gilded Goose
+1 The Ozolith
 1 Metallic Mimic
 1 Chamber Sentry
 1 Steel Overseer
 1 Hangarback Walker
 1 Evolutionary Leap
 1 Urborg, Tomb of Yawgmoth
-1 The Ozolith
+2 The Ozolith
 2 Metallic Mimic
 2 Chamber Sentry
 2 Steel Overseer
 2 Hangarback Walker
-2 The Ozolith
 3 Metallic Mimic
 3 Chamber Sentry
 3 Steel Overseer
 3 Hangarback Walker
 4 Metallic Mimic
-4 Hangarback Walker
 4 Steel Overseer
+4 Hangarback Walker
 2 Mountain
 3 Mountain
 1 Gruul Spellbreaker
@@ -157,9 +157,9 @@
 1 Domri, Anarch of Bolas
 1 Dryad Militant
 1 Hazoret the Fervent
+1 Bonecrusher Giant
 1 Zhur-Taa Goblin
 1 Gallia of the Endless Dance
-1 Bonecrusher Giant
 1 Voltaic Brawler
 1 Questing Beast
 1 Embercleave
@@ -196,8 +196,8 @@
 4 Thoughtseize
 1 Grim Flayer
 1 Kolaghan's Command
-1 Chevill, Bane of Monsters
 1 Deathrite Shaman
+1 Chevill, Bane of Monsters
 1 Blood Crypt
 1 Kroxa, Titan of Death's Hunger
 1 Dreadbore
@@ -283,8 +283,8 @@
 1 Satyr Wayfinder
 2 Breeding Pool
 2 Jace, Vryn's Prodigy
-2 Traverse the Ulvenwald
 2 Watery Grave
+2 Traverse the Ulvenwald
 2 Uro, Titan of Nature's Wrath
 2 Shark Typhoon
 2 Island
@@ -334,8 +334,8 @@
 3 Tenth District Legionnaire
 3 Gods Willing
 4 Gird for Battle
-4 Inspiring Vantage
 4 Battlefield Forge
+4 Inspiring Vantage
 4 Sacred Foundry
 4 Soul-Scar Mage
 4 Monastery Swiftspear

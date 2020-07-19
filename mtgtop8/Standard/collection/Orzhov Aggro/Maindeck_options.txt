@@ -86,8 +86,8 @@
 2 Dead Weight
 1 Heartless Act
 2 Heartless Act
-1 Vito, Thorn of the Dusk Rose
 1 Village Rites
+1 Vito, Thorn of the Dusk Rose
 1 Liliana's Standard Bearer
 2 Village Rites
 2 Vito, Thorn of the Dusk Rose
@@ -100,27 +100,27 @@
 4 Venerable Knight
 1 Haazda Marshal
 1 General's Enforcer
+1 Adherent of Hope
 1 Basri Ket
 1 Icon of Ancestry
-1 Adherent of Hope
 1 General Kudro of Drannith
 1 Disfigure
 1 Giant Killer
 1 Castle Ardenvale
-2 Basri Ket
 2 General's Enforcer
 2 Haazda Marshal
 2 Adherent of Hope
+2 Basri Ket
 2 Icon of Ancestry
 2 General Kudro of Drannith
 2 Disfigure
 2 Castle Ardenvale
-3 Basri Ket
 3 General Kudro of Drannith
-3 Haazda Marshal
-3 General's Enforcer
 3 Adherent of Hope
+3 Haazda Marshal
 3 Icon of Ancestry
+3 General's Enforcer
+3 Basri Ket
 3 Tithe Taker
 3 Disfigure
 4 Haazda Marshal
@@ -151,17 +151,17 @@
 4 Knight of the Ebon Legion
 1 Demonic Embrace
 1 Grasp of Darkness
-1 Hunted Nightmare
-1 Murderous Rider
-1 Seasoned Hallowblade
 1 Eliminate
+1 Hunted Nightmare
+1 Seasoned Hallowblade
+1 Murderous Rider
 1 Rotting Regisaur
 1 Spawn of Mayhem
 2 Demonic Embrace
 2 Eliminate
 2 Hunted Nightmare
-2 Murderous Rider
 2 Seasoned Hallowblade
+2 Murderous Rider
 2 Rotting Regisaur
 2 Spawn of Mayhem
 3 Demonic Embrace
@@ -176,19 +176,19 @@
 1 Smitten Swordmaster
 1 Fight as One
 1 Order of Midnight
-1 Blood Crypt
 1 Stormfist Crusader
 1 Inspiring Veteran
 1 Fervent Champion
 1 Tournament Grounds
+1 Blood Crypt
 1 Worthy Knight
 1 Sacred Foundry
 2 Smitten Swordmaster
 2 Fight as One
 2 Order of Midnight
-2 Blood Crypt
 2 Fervent Champion
 2 Sacred Foundry
+2 Blood Crypt
 2 Worthy Knight
 2 Inspiring Veteran
 2 Tournament Grounds
@@ -213,10 +213,10 @@
 4 Fervent Champion
 1 Kaya's Ghostform
 1 Hateful Eidolon
+1 Murder
 1 Shadowspear
 1 Omen of the Dead
 1 Memory Leak
-1 Murder
 1 Archfiend's Vessel
 2 Kaya's Ghostform
 2 Hateful Eidolon
@@ -230,9 +230,9 @@
 3 Archfiend's Vessel
 4 Archfiend's Vessel
 4 Kaya's Ghostform
+1 Daxos, Blessed by the Sun
 1 Liliana, Dreadhorde General
 1 Mortify
-1 Daxos, Blessed by the Sun
 1 Grasping Thrull
 1 Imperious Oligarch
 2 Imperious Oligarch

@@ -37,8 +37,8 @@
 |                    3|[Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)            |                    1|[Ignite Memories](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109756)     |
 |                    1|[Peer Through Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=78690)   |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)    |
 |                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)        |                    1|[Smallpox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382367)            |
-|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)             |                    1|[Wipe Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118911)           |
+|                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)               |                    1|[Wipe Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118911)           |
 |                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)               |                    1|[Fact or Fiction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405223)     |
-|                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)               |                    1|[Rebuild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464015)             |
+|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)             |                    1|[Rebuild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464015)             |
 |                     |                                                                                                |                    3|[Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|
 
