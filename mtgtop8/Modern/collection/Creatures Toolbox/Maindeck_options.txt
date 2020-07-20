@@ -9,8 +9,8 @@
 1 Eldritch Evolution
 1 Snow-Covered Mountain
 1 Seasoned Pyromancer
-2 Seasoned Pyromancer
 2 Stomping Ground
+2 Seasoned Pyromancer
 2 Eldritch Evolution
 3 Seasoned Pyromancer
 3 Eldritch Evolution
@@ -56,6 +56,7 @@
 3 Winota, Joiner of Forces
 4 Winota, Joiner of Forces
 1 Abundant Growth
+1 Blade Splicer
 1 Agent of Treachery
 1 Coiling Oracle
 1 Wrenn and Six
@@ -63,7 +64,6 @@
 1 Ice-Fang Coatl
 1 Steam Vents
 1 Dryad Arbor
-1 Blade Splicer
 1 Snow-Covered Island
 1 Pia Nalaar
 1 Colossification
@@ -85,9 +85,9 @@
 3 Coiling Oracle
 3 Agent of Treachery
 3 Sakura-Tribe Scout
-4 Arboreal Grazer
 4 Wrenn and Six
 4 Prismatic Vista
+4 Arboreal Grazer
 4 Abundant Growth
 4 Coiling Oracle
 4 Sakura-Tribe Scout
@@ -96,9 +96,9 @@
 1 Savai Triome
 1 Eidolon of Rhetoric
 1 Restoration Angel
+1 Kiki-Jiki, Mirror Breaker
 1 Linvala, Keeper of Silence
 1 Sword of Fire and Ice
-1 Kiki-Jiki, Mirror Breaker
 1 Knight of Autumn
 1 Gilded Goose
 1 Eternal Witness
@@ -113,13 +113,13 @@
 2 Snow-Covered Plains
 2 Scavenging Ooze
 2 Chord of Calling
-3 Restoration Angel
 3 Stoneforge Mystic
+3 Restoration Angel
 3 Path to Exile
 3 Chord of Calling
 4 Path to Exile
-4 Restoration Angel
 4 Stoneforge Mystic
+4 Restoration Angel
 4 Chord of Calling
 5 Snow-Covered Forest
 1 Nurturing Peatland
@@ -135,9 +135,9 @@
 2 Ranger-Captain of Eos
 2 Spike Feeder
 2 Collected Company
-3 Verdant Catacombs
 3 Kitchen Finks
 3 Noble Hierarch
+3 Verdant Catacombs
 3 Heliod, Sun-Crowned
 3 Collected Company
 3 Ranger-Captain of Eos

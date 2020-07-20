@@ -1,8 +1,7 @@
-1 Grafdigger's Cage
 1 Choke
-2 Choke
 2 Grafdigger's Cage
 2 Relic of Progenitus
+2 Choke
 3 Choke
 2 Mystical Dispute
 1 Wear / Tear
@@ -16,7 +15,17 @@
 1 Aether Gust
 2 Alpine Moon
 2 Stone Rain
+1 Erebos's Intervention
+1 Terminate
+1 Magus of the Moon
+1 Anger of the Gods
+1 Ashiok, Dream Render
+1 Extirpate
+2 Erebos's Intervention
+2 Magus of the Moon
+2 Extirpate
 1 Engineered Explosives
+1 Kolaghan's Command
 1 Smash to Smithereens
 2 Smash to Smithereens
 1 Dead Weight
@@ -26,15 +35,6 @@
 2 Disdainful Stroke
 2 Flusterstorm
 2 Fulminator Mage
-1 Terminate
-1 Erebos's Intervention
-1 Anger of the Gods
-1 Magus of the Moon
-1 Ashiok, Dream Render
-1 Extirpate
-2 Magus of the Moon
-2 Extirpate
-2 Erebos's Intervention
 1 Lingering Souls
 1 Spell Pierce
 1 Kaya's Guile
@@ -62,29 +62,18 @@
 2 Ceremonious Rejection
 2 Surgical Extraction
 3 Surgical Extraction
-1 Angrath's Rampage
-1 Kroxa, Titan of Death's Hunger
-1 Molten Rain
-2 Angrath's Rampage
-2 Kroxa, Titan of Death's Hunger
-2 Molten Rain
-2 Kolaghan's Command
-3 Molten Rain
-1 Ethersworn Canonist
 1 Grand Abolisher
 1 Burrenton Forge-Tender
+1 Ethersworn Canonist
 1 Kor Firewalker
 1 Soul-Guide Lantern
 1 Path to Exile
+2 Path to Exile
 2 Grand Abolisher
 2 Burrenton Forge-Tender
 2 Soul-Guide Lantern
-2 Path to Exile
 3 Burrenton Forge-Tender
 3 Wear / Tear
-1 Kiln Fiend
-2 Unearth
-4 Collective Brutality
 1 Blood Moon
 1 Life Goes On
 1 Natural State
@@ -92,3 +81,19 @@
 2 Natural State
 3 Natural State
 3 Life Goes On
+1 Kiln Fiend
+2 Unearth
+4 Collective Brutality
+1 Leyline of the Void
+1 Dragon's Claw
+1 Goblin Chainwhirler
+1 Goblin Trashmaster
+1 Boil
+2 Boil
+2 Dragon's Claw
+2 Goblin Chainwhirler
+2 Leyline of the Void
+3 Thoughtseize
+3 Leyline of the Void
+4 Leyline of the Void
+4 Thoughtseize

@@ -1,28 +1,30 @@
 1 Aether Gust
 1 Noxious Grasp
 2 Aether Gust
+3 Aether Gust
 1 Duress
 2 Duress
-3 Aether Gust
-1 Disdainful Stroke
+2 Noxious Grasp
+3 Noxious Grasp
+4 Aether Gust
 1 Grafdigger's Cage
+1 Disdainful Stroke
 1 Eliminate
 1 Disfigure
 2 Disfigure
 1 Cry of the Carnarium
 2 Cry of the Carnarium
-2 Noxious Grasp
 1 Sorin's Thirst
 2 Sorin's Thirst
-3 Noxious Grasp
-4 Aether Gust
 1 Unmoored Ego
 2 Unmoored Ego
 3 Unmoored Ego
 4 Unmoored Ego
-1 Unsummon
-2 Unsummon
 2 Grafdigger's Cage
+1 Unsummon
+1 Cerulean Drake
+2 Cerulean Drake
+2 Unsummon
 1 Commence the Endgame
 1 Warrant/Warden
 2 Warrant/Warden
@@ -30,13 +32,11 @@
 2 Tale's End
 3 Duress
 2 Disdainful Stroke
-1 Cerulean Drake
-2 Cerulean Drake
 1 Legion's End
-1 Soul-Guide Lantern
 1 Epic Downfall
-2 Legion's End
+1 Soul-Guide Lantern
 2 Soul-Guide Lantern
+2 Legion's End
 1 Miscast
 2 Miscast
 3 Miscast
@@ -47,56 +47,57 @@
 2 Enter the God-Eternals
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
-1 Tormod's Crypt
 1 Frilled Mystic
+1 Tormod's Crypt
 2 Frilled Mystic
-1 Voracious Greatshark
-1 Whirlwind Denial
-1 Village Rites
-2 Voracious Greatshark
-2 Whirlwind Denial
-2 Village Rites
 1 Lazotep Plating
 2 Lazotep Plating
+1 Voracious Greatshark
+1 Village Rites
+1 Whirlwind Denial
+2 Voracious Greatshark
+2 Village Rites
+2 Whirlwind Denial
+3 Grafdigger's Cage
 1 Stern Dismissal
-1 Essence Scatter
 1 Keep Safe
+1 Essence Scatter
 2 Keep Safe
-3 Cerulean Drake
 3 Keep Safe
+3 Cerulean Drake
 3 Disdainful Stroke
 1 Shadowspear
-1 Extinction Event
 1 Agonizing Remorse
+1 Extinction Event
 2 Extinction Event
-2 Epic Downfall
 2 Agonizing Remorse
+2 Epic Downfall
 3 Legion's End
 4 Ashiok's Erasure
+1 Stonecoil Serpent
+1 Unsubstantiate
+1 Selfless Savior
+2 Stonecoil Serpent
+2 Unsubstantiate
+2 Selfless Savior
+3 Stonecoil Serpent
+3 Unsubstantiate
+3 Selfless Savior
+4 Stonecoil Serpent
+4 Selfless Savior
+4 Unsubstantiate
 1 Grasp of Darkness
 2 Grasp of Darkness
 3 Cry of the Carnarium
 4 Duress
+1 Shark Typhoon
+2 Shark Typhoon
+4 Noxious Grasp
 1 Mystic Subdual
 2 Mystic Subdual
 3 Unsummon
 3 Mystic Subdual
 4 Mystic Subdual
-1 Shark Typhoon
-2 Shark Typhoon
-4 Noxious Grasp
-1 Stonecoil Serpent
-1 Selfless Savior
-1 Unsubstantiate
-2 Stonecoil Serpent
-2 Unsubstantiate
-2 Selfless Savior
-3 Stonecoil Serpent
-3 Selfless Savior
-3 Unsubstantiate
-4 Stonecoil Serpent
-4 Selfless Savior
-4 Unsubstantiate
 1 Plains
 1 Hallowed Fountain
 1 Temple of Enlightenment
@@ -107,6 +108,6 @@
 3 Temple of Enlightenment
 3 Hallowed Fountain
 3 Teferi, Time Raveler
-4 Hallowed Fountain
 4 Temple of Enlightenment
+4 Hallowed Fountain
 4 Teferi, Time Raveler

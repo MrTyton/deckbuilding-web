@@ -47,30 +47,30 @@
 3 Woodland Cemetery
 4 Woodland Cemetery
 1 Hashep Oasis
-1 Grisly Salvage
 1 Zetalpa, Primal Dawn
+1 Grisly Salvage
 1 Lotleth Troll
 1 Gather the Pack
 1 Soulflayer
 1 Questing Beast
 1 Sylvan Caryatid
+2 Questing Beast
 2 Grisly Salvage
 2 Soulflayer
 2 Gather the Pack
-2 Lotleth Troll
 2 Zetalpa, Primal Dawn
-2 Questing Beast
+2 Lotleth Troll
 2 Sylvan Caryatid
 3 Grisly Salvage
 3 Lotleth Troll
-3 Gather the Pack
 3 Soulflayer
+3 Gather the Pack
 3 Zetalpa, Primal Dawn
 3 Sylvan Caryatid
-4 Grisly Salvage
 4 Soulflayer
-4 Zetalpa, Primal Dawn
+4 Grisly Salvage
 4 Gather the Pack
+4 Zetalpa, Primal Dawn
 4 Lotleth Troll
 4 Sylvan Caryatid
 1 Thoughtseize
@@ -78,8 +78,8 @@
 3 Thoughtseize
 1 Rankle, Master of Pranks
 1 Murderous Rider
-2 Rankle, Master of Pranks
 2 Murderous Rider
+2 Rankle, Master of Pranks
 3 Murderous Rider
 4 Murderous Rider
 1 Deathrite Shaman
@@ -98,16 +98,6 @@
 1 Evolutionary Leap
 2 Evolutionary Leap
 4 Chamber Sentry
-1 Pelt Collector
-1 Experiment One
-2 Experiment One
-2 Pelt Collector
-3 Experiment One
-3 Pelt Collector
-3 Scavenging Ooze
-4 Scavenging Ooze
-4 Experiment One
-4 Pelt Collector
 1 Blood Crypt
 1 Traverse the Ulvenwald
 1 Ghor-Clan Rampager
@@ -128,6 +118,16 @@
 3 Samut, Voice of Dissent
 4 Traverse the Ulvenwald
 4 Mana Confluence
+1 Pelt Collector
+1 Experiment One
+2 Experiment One
+2 Pelt Collector
+3 Experiment One
+3 Pelt Collector
+3 Scavenging Ooze
+4 Experiment One
+4 Pelt Collector
+4 Scavenging Ooze
 1 Rishkar, Peema Renegade
 1 Vivien, Arkbow Ranger
 1 Voracious Hydra
@@ -138,8 +138,8 @@
 2 Nissa, Voice of Zendikar
 3 Vivien, Arkbow Ranger
 3 Nissa, Voice of Zendikar
-4 Vivien, Arkbow Ranger
 4 Nissa, Voice of Zendikar
+4 Vivien, Arkbow Ranger
 1 Castle Locthwain
 1 Knight of the Ebon Legion
 1 Stitcher's Supplier
@@ -195,8 +195,8 @@
 3 Shaman of the Pack
 3 Elvish Clancaller
 4 Collected Company
-4 Unclaimed Territory
 4 Wildborn Preserver
+4 Unclaimed Territory
 4 Elvish Clancaller
 4 Shaman of the Pack
 4 Dwynen's Elite

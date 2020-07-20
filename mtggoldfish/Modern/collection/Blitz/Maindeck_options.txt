@@ -1,4 +1,6 @@
-4 Gut Shot
+4 Mountain
+1 Sprite Dragon
+2 Sprite Dragon
 1 Lava Spike
 2 Lava Spike
 3 Lava Spike
@@ -12,12 +14,13 @@
 11 Mountain
 12 Mountain
 13 Mountain
-1 Sprite Dragon
-2 Sprite Dragon
-1 Kiln Fiend
-2 Kiln Fiend
 1 Wild Slash
 2 Wild Slash
+1 Kiln Fiend
+2 Kiln Fiend
+1 Opt
+2 Opt
+3 Opt
 1 Sunbaked Canyon
 2 Sunbaked Canyon
 3 Mutagenic Growth
@@ -25,9 +28,7 @@
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
-1 Opt
-2 Opt
-3 Opt
+4 Opt
 14 Mountain
 3 Sunbaked Canyon
 4 Sunbaked Canyon
@@ -35,27 +36,26 @@
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
-4 Opt
 1 Burst Lightning
 2 Burst Lightning
-3 Kiln Fiend
+3 Wooded Foothills
 4 Fiery Islet
 1 Surgical Extraction
 2 Surgical Extraction
-3 Wooded Foothills
 1 Bloodstained Mire
 2 Bloodstained Mire
 3 Bloodstained Mire
+3 Kiln Fiend
 1 Peek
 2 Peek
 3 Peek
-4 Mutagenic Growth
 1 Serum Visions
 1 Rift Bolt
 2 Serum Visions
 2 Rift Bolt
 3 Rift Bolt
 3 Serum Visions
+4 Mutagenic Growth
 4 Steam Vents
 4 Serum Visions
 4 Rift Bolt
@@ -69,21 +69,6 @@
 3 Runaway Steam-Kin
 3 Arid Mesa
 3 Sprite Dragon
-1 Bonecrusher Giant
-1 Sacred Foundry
-1 Temur Battle Rage
-1 Inspiring Vantage
-2 Bonecrusher Giant
-2 Sacred Foundry
-2 Temur Battle Rage
-2 Inspiring Vantage
-3 Temur Battle Rage
-3 Sacred Foundry
-3 Inspiring Vantage
-4 Sacred Foundry
-4 Temur Battle Rage
-4 Inspiring Vantage
-4 Kiln Fiend
 1 Abbot of Keral Keep
 15 Mountain
 4 Bedlam Reveler

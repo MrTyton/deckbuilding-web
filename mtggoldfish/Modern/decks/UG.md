@@ -36,9 +36,9 @@
 |                    3|[Emry, Lurker of the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005) |                     |              |
 |                    3|[Urza, Lord High Artificer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464024)|                     |              |
 |                    4|[Springleaf Drum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378534)          |                     |              |
+|                    4|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)          |                     |              |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)           |                     |              |
 |                    4|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)             |                     |              |
-|                    4|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)          |                     |              |
 |                    4|[Metallic Rebuke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423706)          |                     |              |
 |                    4|[Arcum's Astrolabe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464169)        |                     |              |
 |                    4|[Urza, Lord High Artificer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464024)|                     |              |

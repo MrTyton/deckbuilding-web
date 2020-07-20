@@ -33,26 +33,26 @@
 |                    1|Pollywog Symbiote                                                                                   |                     |              |
 |                    1|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)      |                     |              |
 |                    1|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)             |                     |              |
+|                    1|Dirge Bat                                                                                           |                     |              |
+|                    1|Insatiable Hemophage                                                                                |                     |              |
 |                    1|Sea-Dasher Octopus                                                                                  |                     |              |
 |                    1|Pouncing Shoreshark                                                                                 |                     |              |
-|                    1|Dirge Bat                                                                                           |                     |              |
 |                    1|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)        |                     |              |
 |                    1|Heartless Act                                                                                       |                     |              |
 |                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)          |                     |              |
 |                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |              |
 |                    1|[Temple of Deceit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373734)         |                     |              |
-|                    1|Insatiable Hemophage                                                                                |                     |              |
 |                    2|[Knight of the Ebon Legion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466859)|                     |              |
 |                    2|Pollywog Symbiote                                                                                   |                     |              |
 |                    2|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)             |                     |              |
 |                    2|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)      |                     |              |
+|                    2|Dirge Bat                                                                                           |                     |              |
+|                    2|Insatiable Hemophage                                                                                |                     |              |
 |                    2|Sea-Dasher Octopus                                                                                  |                     |              |
 |                    2|Pouncing Shoreshark                                                                                 |                     |              |
-|                    2|Dirge Bat                                                                                           |                     |              |
 |                    2|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)        |                     |              |
 |                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)          |                     |              |
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |              |
-|                    2|Insatiable Hemophage                                                                                |                     |              |
 |                    2|Heartless Act                                                                                       |                     |              |
 |                    3|Pollywog Symbiote                                                                                   |                     |              |
 |                    3|[Knight of the Ebon Legion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466859)|                     |              |
@@ -61,16 +61,16 @@
 |                    3|Sea-Dasher Octopus                                                                                  |                     |              |
 |                    3|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)      |                     |              |
 |                    3|Dirge Bat                                                                                           |                     |              |
+|                    3|Insatiable Hemophage                                                                                |                     |              |
 |                    3|Pouncing Shoreshark                                                                                 |                     |              |
 |                    3|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)        |                     |              |
-|                    3|Insatiable Hemophage                                                                                |                     |              |
 |                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |              |
-|                    4|Pouncing Shoreshark                                                                                 |                     |              |
 |                    4|[Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197)        |                     |              |
+|                    4|Pouncing Shoreshark                                                                                 |                     |              |
 |                    4|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)             |                     |              |
 |                    4|[Knight of the Ebon Legion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466859)|                     |              |
-|                    4|Sea-Dasher Octopus                                                                                  |                     |              |
 |                    4|Pollywog Symbiote                                                                                   |                     |              |
+|                    4|Sea-Dasher Octopus                                                                                  |                     |              |
 |                    4|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)      |                     |              |
 |                    4|Insatiable Hemophage                                                                                |                     |              |
 |                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |              |
