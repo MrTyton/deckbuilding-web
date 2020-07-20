@@ -25,11 +25,11 @@
 3 Conclave Mentor
 4 Conclave Mentor
 1 Growth-Chamber Guardian
-1 Basri's Lieutenant
 1 Basri Ket
 1 Venerated Loxodon
 1 Huatli's Raptor
 1 Karn's Bastion
+1 Basri's Lieutenant
 1 Chamber Sentry
 2 Growth-Chamber Guardian
 2 Basri's Lieutenant
@@ -75,19 +75,19 @@
 2 Gideon Blackblade
 2 Lovestruck Beast
 2 Lurrus of the Dream-Den
-3 Lovestruck Beast
 3 Selfless Savior
+3 Lovestruck Beast
 3 Seasoned Hallowblade
-3 Lurrus of the Dream-Den
-3 Bronzehide Lion
-3 Primal Might
-3 Scavenging Ooze
 3 Questing Beast
-4 Lovestruck Beast
+3 Lurrus of the Dream-Den
+3 Primal Might
+3 Bronzehide Lion
+3 Scavenging Ooze
 4 Selfless Savior
+4 Lovestruck Beast
 4 Seasoned Hallowblade
-4 Bronzehide Lion
 4 Questing Beast
+4 Bronzehide Lion
 1 Elspeth, Sun's Nemesis
 1 Vivien, Arkbow Ranger
 1 Kronch Wrangler
@@ -122,8 +122,8 @@
 4 Kronch Wrangler
 4 Barkhide Troll
 4 Evolution Sage
-4 Blossoming Sands
 9 Forest
+10 Forest
 11 Forest
 12 Forest
-10 Forest
+4 Blossoming Sands

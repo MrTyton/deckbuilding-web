@@ -1,3 +1,12 @@
+1 Scavenging Ooze
+1 Fatal Push
+2 Fatal Push
+1 Stonecoil Serpent
+1 Hangarback Walker
+1 Walking Ballista
+1 Hardened Scales
+1 Winding Constrictor
+2 Walking Ballista
 2 Stonecoil Serpent
 2 Hangarback Walker
 2 Winding Constrictor
@@ -9,9 +18,7 @@
 4 Hardened Scales
 3 Fatal Push
 4 Fatal Push
-1 Urborg, Tomb of Yawgmoth
-1 Swamp
-2 Swamp
+2 Scavenging Ooze
 3 Winding Constrictor
 4 Winding Constrictor
 1 The Ozolith
@@ -19,105 +26,44 @@
 3 Hangarback Walker
 4 Hangarback Walker
 4 Stonecoil Serpent
+1 Urborg, Tomb of Yawgmoth
+1 Swamp
+2 Swamp
 3 Swamp
-1 Lovestruck Beast
-1 Shadowspear
-1 Heart of Kiran
-2 Lovestruck Beast
-2 Heart of Kiran
-3 Lovestruck Beast
-3 Ghalta, Primal Hunger
-3 Surrak, the Hunt Caller
-4 Lovestruck Beast
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
 1 Mutavault
+1 Woodland Cemetery
+2 Woodland Cemetery
+3 Woodland Cemetery
+4 Woodland Cemetery
+1 Deathrite Shaman
+2 Deathrite Shaman
+1 Rankle, Master of Pranks
+1 Murderous Rider
+2 Rankle, Master of Pranks
+2 Murderous Rider
+3 Murderous Rider
+4 Murderous Rider
+1 Garruk's Harbinger
+2 Garruk's Harbinger
+3 Garruk's Harbinger
+4 Garruk's Harbinger
 1 Steel Overseer
 1 Chamber Sentry
+1 Evolutionary Leap
 1 Metallic Mimic
 2 Steel Overseer
 2 Chamber Sentry
+2 Evolutionary Leap
 2 Metallic Mimic
 3 Steel Overseer
 3 Chamber Sentry
 3 Metallic Mimic
 4 Steel Overseer
-4 Metallic Mimic
-2 Scavenging Ooze
-1 Woodland Cemetery
-2 Woodland Cemetery
-3 Woodland Cemetery
-4 Woodland Cemetery
-1 Hashep Oasis
-1 Zetalpa, Primal Dawn
-1 Grisly Salvage
-1 Lotleth Troll
-1 Gather the Pack
-1 Soulflayer
-1 Questing Beast
-1 Sylvan Caryatid
-2 Questing Beast
-2 Grisly Salvage
-2 Soulflayer
-2 Gather the Pack
-2 Zetalpa, Primal Dawn
-2 Lotleth Troll
-2 Sylvan Caryatid
-3 Grisly Salvage
-3 Lotleth Troll
-3 Soulflayer
-3 Gather the Pack
-3 Zetalpa, Primal Dawn
-3 Sylvan Caryatid
-4 Soulflayer
-4 Grisly Salvage
-4 Gather the Pack
-4 Zetalpa, Primal Dawn
-4 Lotleth Troll
-4 Sylvan Caryatid
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-1 Rankle, Master of Pranks
-1 Murderous Rider
-2 Murderous Rider
-2 Rankle, Master of Pranks
-3 Murderous Rider
-4 Murderous Rider
-1 Deathrite Shaman
-2 Deathrite Shaman
-1 Nullhide Ferox
-1 Commune with the Gods
-1 Gifted Aetherborn
-2 Commune with the Gods
-2 Nullhide Ferox
-2 Gifted Aetherborn
-3 Questing Beast
-1 Garruk's Harbinger
-2 Garruk's Harbinger
-3 Garruk's Harbinger
-4 Garruk's Harbinger
-1 Evolutionary Leap
-2 Evolutionary Leap
 4 Chamber Sentry
-1 Blood Crypt
-1 Traverse the Ulvenwald
-1 Ghor-Clan Rampager
-1 Bomat Courier
-1 Mana Confluence
-1 Samut, Voice of Dissent
-1 Chromanticore
-1 Carnage Tyrant
-2 Blood Crypt
-2 Traverse the Ulvenwald
-2 Bomat Courier
-2 Mana Confluence
-2 Samut, Voice of Dissent
-2 Carnage Tyrant
-3 Mana Confluence
-3 Traverse the Ulvenwald
-3 Bomat Courier
-3 Samut, Voice of Dissent
-4 Traverse the Ulvenwald
-4 Mana Confluence
+4 Metallic Mimic
 1 Pelt Collector
 1 Experiment One
 2 Experiment One
@@ -128,7 +74,41 @@
 4 Experiment One
 4 Pelt Collector
 4 Scavenging Ooze
+1 Zetalpa, Primal Dawn
+1 Grisly Salvage
+1 Lotleth Troll
+1 Gather the Pack
+1 Soulflayer
+1 Nullhide Ferox
+1 Commune with the Gods
+1 Gifted Aetherborn
+1 Questing Beast
+1 Sylvan Caryatid
+2 Questing Beast
+2 Grisly Salvage
+2 Soulflayer
+2 Commune with the Gods
+2 Gather the Pack
+2 Zetalpa, Primal Dawn
+2 Lotleth Troll
+2 Nullhide Ferox
+2 Gifted Aetherborn
+2 Sylvan Caryatid
+3 Grisly Salvage
+3 Lotleth Troll
+3 Soulflayer
+3 Gather the Pack
+3 Zetalpa, Primal Dawn
+3 Questing Beast
+3 Sylvan Caryatid
+4 Soulflayer
+4 Grisly Salvage
+4 Gather the Pack
+4 Zetalpa, Primal Dawn
+4 Lotleth Troll
+4 Sylvan Caryatid
 1 Rishkar, Peema Renegade
+1 Hashep Oasis
 1 Vivien, Arkbow Ranger
 1 Voracious Hydra
 1 Nissa, Voice of Zendikar
@@ -195,8 +175,8 @@
 3 Shaman of the Pack
 3 Elvish Clancaller
 4 Collected Company
-4 Wildborn Preserver
 4 Unclaimed Territory
+4 Wildborn Preserver
 4 Elvish Clancaller
 4 Shaman of the Pack
 4 Dwynen's Elite

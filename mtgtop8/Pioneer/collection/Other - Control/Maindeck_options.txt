@@ -4,16 +4,16 @@
 2 Irrigated Farmland
 2 Azorius Charm
 2 Deafening Clarion
-3 Deafening Clarion
+3 Narset, Parter of Veils
+3 Supreme Verdict
 3 Azorius Charm
+3 Deafening Clarion
 3 Gideon, Ally of Zendikar
 3 Glacial Fortress
 3 Sulfur Falls
 3 Irrigated Farmland
 3 Elspeth Conquers Death
 3 Hallowed Fountain
-3 Supreme Verdict
-3 Narset, Parter of Veils
 4 Hallowed Fountain
 4 Irrigated Farmland
 4 Azorius Charm
@@ -23,8 +23,8 @@
 2 Swamp
 3 Swamp
 1 Flicker of Fate
-1 Treacherous Blessing
 1 Doom Foretold
+1 Treacherous Blessing
 1 Urborg, Tomb of Yawgmoth
 1 Trial of Ambition
 1 Oath of Kaya
@@ -32,17 +32,17 @@
 1 Godless Shrine
 1 Shambling Vent
 2 Flicker of Fate
-2 Treacherous Blessing
 2 Shambling Vent
 2 Doom Foretold
+2 Treacherous Blessing
 2 Isolated Chapel
 2 Godless Shrine
 2 Trial of Ambition
 3 Isolated Chapel
 3 Flicker of Fate
 3 Doom Foretold
-3 Treacherous Blessing
 3 Shambling Vent
+3 Treacherous Blessing
 3 Godless Shrine
 3 Trial of Ambition
 4 Trial of Ambition
@@ -91,17 +91,17 @@
 2 Fatal Push
 3 Fatal Push
 1 Elspeth's Nightmare
-1 Murderous Rider
-1 Starfield of Nyx
-1 Temple of Silence
 1 History of Benalia
+1 Starfield of Nyx
+1 Murderous Rider
+1 Temple of Silence
 1 Kunoros, Hound of Athreos
 1 Duress
 1 Kaya's Wrath
 1 Agonizing Remorse
+2 Duress
 2 Elspeth's Nightmare
 2 Murderous Rider
-2 Duress
 2 Kunoros, Hound of Athreos
 2 Agonizing Remorse
 3 Caves of Koilos
@@ -156,19 +156,19 @@
 4 Heliod, Sun-Crowned
 1 Satyr Wayfinder
 1 Hostage Taker
-1 Arboreal Grazer
 1 Thassa, Deep-Dwelling
 1 Unesh, Criosphinx Sovereign
 1 Woodland Bellower
 1 Yavimaya Coast
 1 Eldritch Evolution
 1 Grapple with the Past
+1 Arboreal Grazer
 1 Cavalier of Night
 1 Cavalier of Gales
 1 Massacre Girl
+1 Neoform
 1 Tasigur, the Golden Fang
 1 Botanical Sanctum
-1 Neoform
 1 Elvish Rejuvenator
 1 Reclamation Sage
 1 Scavenging Ooze
@@ -177,10 +177,10 @@
 1 Llanowar Wastes
 1 Blooming Marsh
 2 Satyr Wayfinder
-2 Arboreal Grazer
 2 Eldritch Evolution
 2 Grapple with the Past
 2 Tasigur, the Golden Fang
+2 Arboreal Grazer
 2 Neoform
 2 Elvish Rejuvenator
 2 Yavimaya Coast
@@ -202,10 +202,10 @@
 1 Stomping Ground
 1 Ketria Triome
 1 Pull from Tomorrow
-1 Mystical Dispute
 1 Negate
 1 Bonecrusher Giant
 1 Expansion / Explosion
+1 Mystical Dispute
 2 Stomping Ground
 2 Pull from Tomorrow
 2 Ketria Triome
@@ -221,10 +221,47 @@
 4 Ketria Triome
 4 Expansion / Explosion
 1 Opt
-2 Censor
 2 Opt
+2 Censor
 3 Censor
 4 Censor
+1 Blood Crypt
+1 Nicol Bolas, the Ravager
+1 Tyrant's Scorn
+1 Nicol Bolas, Dragon-God
+1 Drown in the Loch
+1 Dreadbore
+1 Drowned Catacomb
+1 Dragonskull Summit
+1 Watery Grave
+2 Blood Crypt
+2 Tyrant's Scorn
+2 Nicol Bolas, the Ravager
+2 Nicol Bolas, Dragon-God
+2 Watery Grave
+2 Drown in the Loch
+2 Dreadbore
+2 Drowned Catacomb
+2 Dragonskull Summit
+3 Opt
+3 Blood Crypt
+3 Dragonskull Summit
+3 Nicol Bolas, the Ravager
+3 Nicol Bolas, Dragon-God
+3 Tyrant's Scorn
+3 Drown in the Loch
+3 Dreadbore
+3 Drowned Catacomb
+3 Watery Grave
+4 Opt
+4 Blood Crypt
+4 Nicol Bolas, Dragon-God
+4 Nicol Bolas, the Ravager
+4 Dreadbore
+4 Tyrant's Scorn
+4 Drown in the Loch
+4 Fatal Push
+4 Watery Grave
 1 Lumbering Falls
 1 Dig Through Time
 1 Sinister Sabotage
@@ -250,40 +287,3 @@
 3 Island
 4 Island
 5 Island
-1 Nicol Bolas, the Ravager
-1 Tyrant's Scorn
-1 Nicol Bolas, Dragon-God
-1 Blood Crypt
-1 Drown in the Loch
-1 Dreadbore
-1 Drowned Catacomb
-1 Dragonskull Summit
-1 Watery Grave
-2 Tyrant's Scorn
-2 Blood Crypt
-2 Nicol Bolas, the Ravager
-2 Nicol Bolas, Dragon-God
-2 Watery Grave
-2 Drown in the Loch
-2 Dreadbore
-2 Drowned Catacomb
-2 Dragonskull Summit
-3 Opt
-3 Dreadbore
-3 Blood Crypt
-3 Dragonskull Summit
-3 Nicol Bolas, the Ravager
-3 Nicol Bolas, Dragon-God
-3 Tyrant's Scorn
-3 Drown in the Loch
-3 Drowned Catacomb
-3 Watery Grave
-4 Opt
-4 Blood Crypt
-4 Nicol Bolas, Dragon-God
-4 Nicol Bolas, the Ravager
-4 Dreadbore
-4 Tyrant's Scorn
-4 Drown in the Loch
-4 Fatal Push
-4 Watery Grave

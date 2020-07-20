@@ -9,8 +9,6 @@
 1 Skewer the Critics
 2 Skewer the Critics
 3 Skewer the Critics
-1 Grim Initiate
-2 Grim Initiate
 1 Phoenix of Ash
 2 Phoenix of Ash
 4 Skewer the Critics
@@ -22,9 +20,10 @@
 1 Soul Sear
 1 Risk Factor
 2 Risk Factor
+1 Grim Initiate
+2 Grim Initiate
 1 Scorching Dragonfire
 2 Scorching Dragonfire
-3 Grim Initiate
 1 Bolt Hound
 1 Claim the Firstborn
 2 Bolt Hound
@@ -33,6 +32,27 @@
 3 Claim the Firstborn
 4 Bolt Hound
 4 Claim the Firstborn
+1 Barge In
+1 Goblin Arsonist
+1 Chandra's Pyreling
+1 Slaying Fire
+1 Spear Spewer
+1 Chandra's Magmutt
+2 Goblin Arsonist
+2 Barge In
+2 Chandra's Pyreling
+2 Slaying Fire
+2 Spear Spewer
+2 Chandra's Magmutt
+3 Chandra's Pyreling
+3 Spear Spewer
+3 Slaying Fire
+3 Chandra's Magmutt
+4 Chandra's Pyreling
+4 Chandra's Spitfire
+4 Slaying Fire
+4 Chandra's Magmutt
+4 Spear Spewer
 1 Stomping Ground
 2 Stomping Ground
 3 Stomping Ground
@@ -59,26 +79,5 @@
 4 Electrostatic Field
 4 Flame Spill
 4 Samut's Sprint
-4 Spelleater Wolverine
 21 Mountain
-1 Barge In
-1 Goblin Arsonist
-1 Chandra's Pyreling
-1 Slaying Fire
-1 Spear Spewer
-1 Chandra's Magmutt
-2 Goblin Arsonist
-2 Barge In
-2 Chandra's Pyreling
-2 Slaying Fire
-2 Spear Spewer
-2 Chandra's Magmutt
-3 Chandra's Pyreling
-3 Spear Spewer
-3 Slaying Fire
-3 Chandra's Magmutt
-4 Chandra's Pyreling
-4 Chandra's Spitfire
-4 Slaying Fire
-4 Spear Spewer
-4 Chandra's Magmutt
+4 Spelleater Wolverine
