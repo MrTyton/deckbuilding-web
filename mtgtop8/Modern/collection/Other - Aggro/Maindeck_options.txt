@@ -43,9 +43,9 @@
 5 Forest
 6 Forest
 2 Kolaghan's Command
+1 Watery Grave
 1 Island
 1 Polluted Delta
-1 Watery Grave
 2 Watery Grave
 2 Polluted Delta
 3 Polluted Delta
@@ -72,26 +72,26 @@
 1 Force of Negation
 1 Thought Scour
 2 Thought Scour
-3 Serum Visions
 3 Thought Scour
-4 Serum Visions
+3 Serum Visions
 4 Thought Scour
-1 Spell Snare
+4 Serum Visions
 1 Delver of Secrets
+1 Spell Snare
 2 Delver of Secrets
 2 Snapcaster Mage
-3 Scalding Tarn
 3 Delver of Secrets
+3 Scalding Tarn
 3 Snapcaster Mage
-4 Scalding Tarn
 4 Delver of Secrets
+4 Scalding Tarn
 2 Force of Negation
 1 Sacred Foundry
 1 Pillage
 1 Relic of Progenitus
 2 Pillage
-3 Pillage
 3 Windswept Heath
+3 Pillage
 4 Windswept Heath
 1 Arid Mesa
 2 Lava Dart
@@ -101,10 +101,10 @@
 3 Fatal Push
 4 Cling to Dust
 1 Of One Mind
-1 Young Pyromancer
 1 Lurrus of the Dream-Den
-2 Unearth
+1 Young Pyromancer
 2 Lurrus of the Dream-Den
+2 Unearth
 2 Young Pyromancer
 3 Young Pyromancer
 4 Young Pyromancer
@@ -165,6 +165,7 @@
 4 Hateful Eidolon
 4 Tallowisp
 4 Mausoleum Wanderer
+1 Goblin Warchief
 1 Tarfire
 1 Munitions Expert
 1 Goblin Ringleader
@@ -177,7 +178,6 @@
 1 Conspicuous Snoop
 1 Boggart Harbinger
 1 Kiki-Jiki, Mirror Breaker
-1 Goblin Warchief
 1 Skirk Prospector
 1 Sling-Gang Lieutenant
 2 Cavern of Souls
@@ -222,9 +222,9 @@
 1 Colossus Hammer
 1 Kor Outfitter
 1 Kor Duelist
-2 Plains
 2 Spellskite
 2 Shadowspear
+2 Plains
 2 Kor Outfitter
 2 Steelshaper's Gift
 2 Sigarda's Aid
@@ -264,8 +264,8 @@
 4 Stoneforge Mystic
 4 Spellskite
 5 Plains
-1 Misty Rainforest
 1 Blood Moon
+1 Misty Rainforest
 1 Lukka, Coppercoat Outcast
 2 Misty Rainforest
 4 Kitchen Finks
@@ -280,8 +280,8 @@
 2 Thieves' Guild Enforcer
 3 Vantress Gargoyle
 3 Thieves' Guild Enforcer
-3 Inquisition of Kozilek
 3 Watery Grave
 3 Drown in the Loch
+3 Inquisition of Kozilek
 4 Thieves' Guild Enforcer
 4 Drown in the Loch

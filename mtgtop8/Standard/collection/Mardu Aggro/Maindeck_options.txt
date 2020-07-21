@@ -41,37 +41,37 @@
 2 Castle Locthwain
 1 Lampad of Death's Vigil
 1 Call of the Death-Dweller
+1 Dreadhorde Butcher
 1 Claim the Firstborn
 1 Cauldron Familiar
 1 Cruel Celebrant
 1 Witch's Oven
-1 Dreadhorde Butcher
 1 Priest of Forgotten Gods
 1 Serrated Scorpion
 2 Lampad of Death's Vigil
 2 Claim the Firstborn
+2 Dreadhorde Butcher
 2 Call of the Death-Dweller
 2 Cruel Celebrant
 2 Witch's Oven
 2 Cauldron Familiar
-2 Dreadhorde Butcher
 2 Serrated Scorpion
 2 Priest of Forgotten Gods
 3 Claim the Firstborn
 3 Call of the Death-Dweller
+3 Dreadhorde Butcher
 3 Witch's Oven
 3 Cauldron Familiar
 3 Priest of Forgotten Gods
-3 Dreadhorde Butcher
 3 Serrated Scorpion
 3 Cruel Celebrant
 4 Priest of Forgotten Gods
-4 Claim the Firstborn
-4 Call of the Death-Dweller
 4 Serrated Scorpion
+4 Claim the Firstborn
+4 Dreadhorde Butcher
 4 Cauldron Familiar
 4 Witch's Oven
-4 Dreadhorde Butcher
+4 Call of the Death-Dweller
 4 Cruel Celebrant
 1 Sorin, Vengeful Bloodlord
 2 Sorin, Vengeful Bloodlord
@@ -86,10 +86,10 @@
 4 General's Enforcer
 4 Plains
 1 Village Rites
-1 Grim Tutor
-1 The Circle of Loyalty
 1 Liliana's Standard Bearer
 1 Basri's Solidarity
+1 Grim Tutor
+1 The Circle of Loyalty
 1 Castle Ardenvale
 2 Basri's Solidarity
 1 Redcap Melee
@@ -107,10 +107,6 @@
 4 Venerated Loxodon
 2 Chance for Glory
 4 Rimrock Knight
-1 Footlight Fiend
-2 Footlight Fiend
-3 Footlight Fiend
-4 Footlight Fiend
 1 Raise the Alarm
 1 Kenrith, the Returned King
 1 Winota, Joiner of Forces
@@ -118,8 +114,8 @@
 1 Chandra, Acolyte of Flame
 1 Tin Street Dodger
 1 Robber of the Rich
-2 Legion Warboss
 2 Raise the Alarm
+2 Legion Warboss
 2 Chandra, Acolyte of Flame
 2 Winota, Joiner of Forces
 2 Tin Street Dodger
@@ -133,11 +129,15 @@
 4 Raise the Alarm
 4 Winota, Joiner of Forces
 4 Robber of the Rich
+1 Footlight Fiend
+2 Footlight Fiend
+3 Footlight Fiend
+4 Footlight Fiend
 1 Midnight Reaper
 1 Colossus Hammer
+1 Weaponize the Monsters
 1 Luminous Broodmoth
 1 Fling
-1 Weaponize the Monsters
 1 Syr Gwyn, Hero of Ashvale
 1 Steelclaw Lance
 2 Midnight Reaper
@@ -155,9 +155,9 @@
 1 Lavabrink Venturer
 1 Hero of Precinct One
 1 Revival / Revenge
-2 Lavabrink Venturer
-2 Hero of Precinct One
 2 Outlaws' Merriment
+2 Hero of Precinct One
+2 Lavabrink Venturer
 2 Revival / Revenge
 3 Judith, the Scourge Diva
 3 Hero of Precinct One
@@ -175,8 +175,8 @@
 1 Alpine Houndmaster
 1 Bonecrusher Giant
 1 Alpine Watchdog
-2 Pack Leader
 2 Banehound
+2 Pack Leader
 2 Bolt Hound
 2 Selfless Savior
 2 Kunoros, Hound of Athreos
@@ -184,17 +184,17 @@
 2 Alpine Watchdog
 2 Bonecrusher Giant
 2 Alpine Houndmaster
-3 Pack Leader
 3 Banehound
-3 Bolt Hound
+3 Pack Leader
 3 Selfless Savior
+3 Bolt Hound
 3 Kunoros, Hound of Athreos
 3 Alpine Houndmaster
 3 Bonecrusher Giant
-4 Pack Leader
 4 Banehound
-4 Bolt Hound
+4 Pack Leader
 4 Selfless Savior
+4 Bolt Hound
 4 Alpine Houndmaster
 4 Bonecrusher Giant
 5 Plains

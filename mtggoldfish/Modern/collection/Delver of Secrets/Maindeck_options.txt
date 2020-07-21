@@ -14,11 +14,11 @@
 1 Cling to Dust
 1 Snow-Covered Swamp
 1 Mountain
+1 Lightning Helix
 1 Sacred Foundry
 1 Hallowed Fountain
-1 Lightning Helix
-2 Hallowed Fountain
 2 Lightning Helix
+2 Hallowed Fountain
 1 Manamorphose
 1 Stormwing Entity
 2 Stormwing Entity
@@ -72,9 +72,9 @@
 1 Breeding Pool
 4 Misty Rainforest
 1 Thieves' Guild Enforcer
-1 Brazen Borrower
 1 Thoughtseize
 1 Spell Pierce
+1 Brazen Borrower
 1 Vantress Gargoyle
 1 Into the Story
 2 Thieves' Guild Enforcer
@@ -88,17 +88,17 @@
 4 Lightning Helix
 4 Spirebluff Canal
 1 Fiery Islet
-1 Lava Spike
 1 Assault Strobe
+1 Lava Spike
 1 Monastery Swiftspear
 1 Rift Bolt
 1 Light Up the Stage
-2 Mountain
+2 Fiery Islet
 2 Lava Spike
 2 Monastery Swiftspear
 2 Rift Bolt
+2 Mountain
 2 Light Up the Stage
-2 Fiery Islet
 3 Lava Spike
 3 Monastery Swiftspear
 3 Light Up the Stage
@@ -106,12 +106,12 @@
 3 Rift Bolt
 3 Lava Dart
 3 Mountain
-4 Mountain
-4 Lava Spike
 4 Fiery Islet
+4 Lava Spike
 4 Lava Dart
 4 Monastery Swiftspear
 4 Rift Bolt
+4 Mountain
 4 Light Up the Stage
 2 Seal of Fire
 1 Drowned Catacomb
@@ -119,21 +119,21 @@
 2 Unearth
 2 Cryptic Command
 3 Fatal Push
-4 Arcum's Astrolabe
 4 Fatal Push
+4 Arcum's Astrolabe
 1 Snow-Covered Plains
+1 Hooting Mandrills
 1 Stubborn Denial
 1 Tarmogoyf
 1 Botanical Sanctum
-1 Hooting Mandrills
 1 Forest
 1 Stomping Ground
+2 Hooting Mandrills
 2 Tarmogoyf
 2 Stubborn Denial
-2 Hooting Mandrills
 3 Hooting Mandrills
-3 Tarmogoyf
 3 Stubborn Denial
+3 Tarmogoyf
 4 Stubborn Denial
 2 Vapor Snag
 1 Young Pyromancer
@@ -144,35 +144,52 @@
 3 Island
 1 Izzet Charm
 3 Steam Vents
-1 Jace, Vryn's Prodigy
 1 Blackcleave Cliffs
+1 Jace, Vryn's Prodigy
 1 Murderous Cut
 2 Cling to Dust
-1 Arid Mesa
 1 Dreadhorde Arcanist
+1 Arid Mesa
 1 Fight as One
 2 Dreadhorde Arcanist
 3 Dreadhorde Arcanist
 3 Seachrome Coast
 3 Spell Snare
 1 Bitterblossom
-1 Creeping Tar Pit
 1 Field of Ruin
+1 Creeping Tar Pit
 2 Bitterblossom
 2 Field of Ruin
 3 Bitterblossom
 4 Bitterblossom
+1 Ketria Triome
+1 Of One Mind
+1 Jolrael, Mwonvuli Recluse
+1 Magmatic Sinkhole
+2 Jolrael, Mwonvuli Recluse
+2 Breeding Pool
+2 Deprive
+2 Of One Mind
+3 Jolrael, Mwonvuli Recluse
+3 Of One Mind
+4 Island
 1 Fact or Fiction
 1 Raugrin Triome
 1 Shadow of Doubt
 1 Brineborn Cutthroat
 1 Plains
 2 Brineborn Cutthroat
-2 Fact or Fiction
 2 Shadow of Doubt
-3 Brineborn Cutthroat
+2 Fact or Fiction
 3 Path to Exile
+3 Brineborn Cutthroat
 4 Brineborn Cutthroat
+1 Meddling Mage
+2 Meddling Mage
+3 Meddling Mage
+4 Meddling Mage
+1 Heartless Act
+4 Darkslick Shores
 1 Tarfire
 1 Blossoming Defense
 2 Tarfire
@@ -180,14 +197,12 @@
 2 Blossoming Defense
 3 Tarfire
 4 Tarmogoyf
-1 Heartless Act
-4 Darkslick Shores
 1 Mutagenic Growth
 2 Mutagenic Growth
 4 Hooting Mandrills
 1 Lotus Field
-1 Wishclaw Talisman
 1 Fae of Wishes
+1 Wishclaw Talisman
 1 Dream's Grip
 1 Tome Scour
 1 Underworld Breach
@@ -205,18 +220,3 @@
 4 Lotus Field
 4 Remand
 4 Dream's Grip
-1 Magmatic Sinkhole
-1 Ketria Triome
-1 Jolrael, Mwonvuli Recluse
-1 Of One Mind
-2 Deprive
-2 Breeding Pool
-2 Jolrael, Mwonvuli Recluse
-2 Of One Mind
-3 Jolrael, Mwonvuli Recluse
-3 Of One Mind
-4 Island
-1 Meddling Mage
-2 Meddling Mage
-3 Meddling Mage
-4 Meddling Mage

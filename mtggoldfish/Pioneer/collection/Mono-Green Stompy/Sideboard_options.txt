@@ -51,6 +51,8 @@
 1 Questing Beast
 1 Walking Ballista
 2 Walking Ballista
+1 Aethersphere Harvester
+2 Aethersphere Harvester
 2 Stain the Mind
 1 Run Afoul
 1 Heaven/Earth
@@ -58,8 +60,6 @@
 1 Windstorm
 1 Polukranos, World Eater
 2 Windstorm
-1 Aethersphere Harvester
-2 Aethersphere Harvester
 1 Heartless Act
 2 Heartless Act
 2 Back to Nature
@@ -76,14 +76,14 @@
 2 Primal Might
 3 Primal Might
 1 Fairgrounds Warden
+1 Dromoka's Command
 1 Eidolon of Rhetoric
 1 Heliod, Sun-Crowned
 1 Declaration in Stone
-1 Dromoka's Command
 1 Rest in Peace
 1 Fiendslayer Paladin
-2 Rest in Peace
 2 Dromoka's Command
+2 Rest in Peace
 2 Declaration in Stone
 3 Rest in Peace
 3 Dromoka's Command

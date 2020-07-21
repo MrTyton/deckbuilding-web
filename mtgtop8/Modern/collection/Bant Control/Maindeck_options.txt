@@ -1,13 +1,13 @@
+2 Teferi, Hero of Dominaria
 1 Dovin's Veto
-2 Breeding Pool
-1 Scalding Tarn
 2 Snow-Covered Forest
+1 Scalding Tarn
+3 Mystic Sanctuary
 1 Prairie Stream
 1 Abundant Growth
-2 Scalding Tarn
 2 Abundant Growth
+2 Scalding Tarn
 3 Abundant Growth
-3 Mystic Sanctuary
 4 Uro, Titan of Nature's Wrath
 1 Batterskull
 1 Stoneforge Mystic
@@ -15,25 +15,25 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 1 Polluted Delta
+1 Growth Spiral
 1 Hinterland Harbor
 1 Field of the Dead
-1 Growth Spiral
-2 Field of the Dead
 2 Growth Spiral
+2 Field of the Dead
 3 Growth Spiral
 4 Growth Spiral
+2 Hallowed Fountain
+3 Archmage's Charm
 1 Prismatic Vista
 2 Polluted Delta
 1 Windswept Heath
 2 Windswept Heath
 4 Stoneforge Mystic
 3 Teferi, Time Raveler
-2 Hallowed Fountain
 1 Island
 1 Forest
 1 Primeval Titan
 2 Primeval Titan
-3 Archmage's Charm
 3 Field of the Dead
 3 Mana Leak
 1 Venser, Shaper Savant
@@ -42,6 +42,8 @@
 1 Spell Snare
 4 Force of Negation
 2 Prairie Stream
+1 Remand
+2 Remand
 1 Ephemerate
 1 Soulherder
 1 Eternal Witness
@@ -56,13 +58,13 @@
 3 Windswept Heath
 4 Windswept Heath
 2 Venser, Shaper Savant
-3 Scalding Tarn
-4 Scalding Tarn
 1 Aether Gust
 2 Aether Gust
 4 Abundant Growth
 4 Teferi, Time Raveler
 4 Cryptic Command
+3 Scalding Tarn
+4 Scalding Tarn
 1 Vendilion Clique
 1 Restoration Angel
 1 Wall of Blossoms
@@ -77,8 +79,8 @@
 2 Vendilion Clique
 2 Kitchen Finks
 2 Cavern of Souls
-2 Dovin's Veto
 2 On Thin Ice
+2 Dovin's Veto
 2 Knight of Autumn
 2 Celestial Colonnade
 2 Wall of Omens
@@ -97,13 +99,11 @@
 4 Wall of Omens
 4 Wall of Blossoms
 4 Snow-Covered Plains
-1 Remand
 1 Thassa, Deep-Dwelling
 1 Aether Vial
 1 Noble Hierarch
 1 Meddling Mage
 1 Stonehorn Dignitary
-2 Remand
 2 Aether Vial
 2 Noble Hierarch
 2 Eladamri's Call
@@ -121,26 +121,37 @@
 1 Ashiok, Dream Render
 1 Kaya's Guile
 1 Watery Grave
-1 Assassin's Trophy
 1 Snow-Covered Swamp
+1 Assassin's Trophy
 2 Kaya's Guile
-1 Steam Vents
 1 Ketria Triome
 1 Raugrin Triome
 1 Lightning Helix
+1 Steam Vents
 1 Lightning Bolt
 1 Wrenn and Six
 2 Wrenn and Six
 2 Lightning Bolt
 2 Lightning Helix
+1 Wilderness Reclamation
+1 Nexus of Fate
+1 Fact or Fiction
+1 Opt
+2 Fact or Fiction
+2 Wilderness Reclamation
+2 Opt
+3 Fact or Fiction
+3 Wilderness Reclamation
+3 Opt
+4 Opt
 1 Time Warp
 1 Coiling Oracle
 2 Coiling Oracle
-2 Prismatic Vista
 2 Time Warp
+2 Prismatic Vista
 2 Soulherder
 3 Prismatic Vista
 3 Coiling Oracle
 3 Soulherder
-4 Coiling Oracle
 4 Soulherder
+4 Coiling Oracle

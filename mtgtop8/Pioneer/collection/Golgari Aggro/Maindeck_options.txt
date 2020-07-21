@@ -1,9 +1,13 @@
-1 Scavenging Ooze
+1 Shadowspear
+1 Heart of Kiran
+2 Heart of Kiran
+3 Ghalta, Primal Hunger
+3 Surrak, the Hunt Caller
 1 Fatal Push
 2 Fatal Push
+1 Walking Ballista
 1 Stonecoil Serpent
 1 Hangarback Walker
-1 Walking Ballista
 1 Hardened Scales
 1 Winding Constrictor
 2 Walking Ballista
@@ -16,9 +20,14 @@
 3 Hardened Scales
 4 Walking Ballista
 4 Hardened Scales
+1 Garruk's Harbinger
+2 Garruk's Harbinger
+3 Garruk's Harbinger
+4 Garruk's Harbinger
+1 Mutavault
+1 Hashep Oasis
 3 Fatal Push
 4 Fatal Push
-2 Scavenging Ooze
 3 Winding Constrictor
 4 Winding Constrictor
 1 The Ozolith
@@ -30,10 +39,11 @@
 1 Swamp
 2 Swamp
 3 Swamp
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-1 Mutavault
+1 Collected Company
+2 Collected Company
+3 Collected Company
+4 Collected Company
+4 Thoughtseize
 1 Woodland Cemetery
 2 Woodland Cemetery
 3 Woodland Cemetery
@@ -46,6 +56,8 @@
 2 Rankle, Master of Pranks
 3 Murderous Rider
 4 Murderous Rider
+1 Kraul Harpooner
+2 Kraul Harpooner
 1 Chamber Sentry
 1 Evolutionary Leap
 1 Steel Overseer
@@ -60,43 +72,51 @@
 4 Steel Overseer
 4 Chamber Sentry
 4 Metallic Mimic
-1 Garruk's Harbinger
-2 Garruk's Harbinger
-3 Garruk's Harbinger
-4 Garruk's Harbinger
 1 Zetalpa, Primal Dawn
-1 Lotleth Troll
 1 Gather the Pack
-1 Soulflayer
 1 Gifted Aetherborn
 1 Nullhide Ferox
 1 Commune with the Gods
+1 Soulflayer
+1 Lotleth Troll
 1 Grisly Salvage
 1 Questing Beast
 1 Sylvan Caryatid
 2 Questing Beast
-2 Soulflayer
 2 Commune with the Gods
 2 Gather the Pack
-2 Zetalpa, Primal Dawn
-2 Lotleth Troll
 2 Gifted Aetherborn
 2 Nullhide Ferox
+2 Zetalpa, Primal Dawn
+2 Lotleth Troll
+2 Soulflayer
 2 Grisly Salvage
 2 Sylvan Caryatid
-3 Lotleth Troll
-3 Soulflayer
 3 Grisly Salvage
 3 Gather the Pack
 3 Zetalpa, Primal Dawn
+3 Soulflayer
+3 Lotleth Troll
 3 Questing Beast
 3 Sylvan Caryatid
-4 Soulflayer
 4 Gather the Pack
+4 Grisly Salvage
 4 Zetalpa, Primal Dawn
 4 Lotleth Troll
-4 Grisly Salvage
+4 Soulflayer
 4 Sylvan Caryatid
+1 Rishkar, Peema Renegade
+1 Voracious Hydra
+1 Vivien, Arkbow Ranger
+1 Nissa, Voice of Zendikar
+2 Voracious Hydra
+2 Hashep Oasis
+2 Vivien, Arkbow Ranger
+2 Nissa, Voice of Zendikar
+3 Vivien, Arkbow Ranger
+3 Nissa, Voice of Zendikar
+4 Vivien, Arkbow Ranger
+4 Nissa, Voice of Zendikar
 1 Pelt Collector
 1 Experiment One
 2 Experiment One
@@ -107,51 +127,36 @@
 4 Experiment One
 4 Pelt Collector
 4 Scavenging Ooze
-1 Hashep Oasis
-1 Rishkar, Peema Renegade
-1 Voracious Hydra
-1 Vivien, Arkbow Ranger
-1 Nissa, Voice of Zendikar
-2 Hashep Oasis
-2 Voracious Hydra
-2 Vivien, Arkbow Ranger
-2 Nissa, Voice of Zendikar
-3 Nissa, Voice of Zendikar
-3 Vivien, Arkbow Ranger
-4 Nissa, Voice of Zendikar
-4 Vivien, Arkbow Ranger
 1 Castle Locthwain
 1 Knight of the Ebon Legion
+1 Fourth Bridge Prowler
 1 Stitcher's Supplier
 1 Fiend Artisan
-1 Fourth Bridge Prowler
 2 Mutavault
 2 Castle Locthwain
 2 Knight of the Ebon Legion
+2 Urborg, Tomb of Yawgmoth
 2 Stitcher's Supplier
 2 Fiend Artisan
-2 Urborg, Tomb of Yawgmoth
 3 Mutavault
 3 Knight of the Ebon Legion
+3 Castle Locthwain
 3 Stitcher's Supplier
 3 Fiend Artisan
-3 Castle Locthwain
 3 Deathrite Shaman
 4 Knight of the Ebon Legion
 4 Mutavault
-4 Stitcher's Supplier
 4 Swamp
-4 Fiend Artisan
 4 Castle Locthwain
+4 Stitcher's Supplier
+4 Fiend Artisan
 4 Deathrite Shaman
-4 Thoughtseize
 5 Swamp
 6 Swamp
 1 Wildborn Preserver
 1 Unclaimed Territory
-1 Collected Company
-1 Chord of Calling
 1 Westvale Abbey
+1 Chord of Calling
 1 Gnarlroot Trapper
 1 Dwynen, Gilt-Leaf Daen
 1 Shaman of the Pack
@@ -160,7 +165,6 @@
 1 Lead the Stampede
 2 Unclaimed Territory
 2 Wildborn Preserver
-2 Collected Company
 2 Dwynen's Elite
 2 Shaman of the Pack
 2 Lead the Stampede
@@ -168,7 +172,6 @@
 2 Gnarlroot Trapper
 3 Unclaimed Territory
 3 Wildborn Preserver
-3 Collected Company
 3 Gnarlroot Trapper
 3 Lead the Stampede
 3 Dwynen's Elite
@@ -176,7 +179,6 @@
 3 Elvish Clancaller
 4 Wildborn Preserver
 4 Unclaimed Territory
-4 Collected Company
 4 Elvish Clancaller
 4 Shaman of the Pack
 4 Dwynen's Elite

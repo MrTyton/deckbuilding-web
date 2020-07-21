@@ -1,9 +1,9 @@
-1 Glass Casket
-1 Tormod's Crypt
-2 Tormod's Crypt
 2 Disdainful Stroke
 2 Glass Casket
+2 Isolate
+2 Tormod's Crypt
 3 Glass Casket
+3 Isolate
 3 Selfless Spirit
 1 Fairgrounds Warden
 2 Fairgrounds Warden
@@ -15,47 +15,49 @@
 4 Glass Casket
 1 Glare of Heresy
 3 Disdainful Stroke
-1 Soul-Guide Lantern
-1 Damping Sphere
-2 Soul-Guide Lantern
 1 Silkwrap
 2 Silkwrap
 3 Silkwrap
-1 Hushbringer
-4 Isolate
-2 Damping Sphere
 1 Scavenging Ooze
-2 Hushbringer
+1 Hushbringer
 3 Rest in Peace
+1 Soul-Guide Lantern
 1 Duress
-1 Shadowspear
-1 Chandra, Torch of Defiance
-1 Charming Prince
+2 Soul-Guide Lantern
+1 Damping Sphere
+2 Damping Sphere
 1 Barrier Breach
 2 Barrier Breach
-2 Scavenging Ooze
+2 Duress
+3 Duress
+1 Charming Prince
 2 Glare of Heresy
-1 Kari Zev's Expertise
-1 Boros Charm
-1 Wild Slash
-2 Boros Charm
-2 Kari Zev's Expertise
-2 Wild Slash
+1 Dreadbore
+2 Dreadbore
+1 Cling to Dust
+1 Kolaghan's Command
+1 Noxious Grasp
+1 Pharika's Libation
+2 Kolaghan's Command
+2 Pharika's Libation
+2 Noxious Grasp
+2 Scavenging Ooze
+2 Hushbringer
+1 Chandra, Torch of Defiance
+1 Blossoming Defense
+1 Rending Volley
 1 Destructive Revelry
 1 Roast
-1 Blossoming Defense
 1 Magma Spray
 1 Heroic Intervention
-1 Rending Volley
+1 Shadowspear
 2 Destructive Revelry
 2 Roast
 3 Destructive Revelry
 1 Assassin's Trophy
 1 Slaughter Games
 2 Assassin's Trophy
-2 Duress
 2 Slaughter Games
-3 Duress
 3 Damping Sphere
 1 Skylasher
 1 Declaration in Stone
@@ -68,17 +70,12 @@
 2 Declaration in Stone
 2 Gideon of the Trials
 3 Declaration in Stone
-3 Soul-Guide Lantern
-1 Oppressive Rays
-2 Stubborn Denial
-2 Shadowspear
-2 Oppressive Rays
-3 Hushbringer
-1 Thoughtseize
+4 Isolate
 1 Abrupt Decay
+1 Thoughtseize
 1 Dead Weight
-2 Thoughtseize
 2 Abrupt Decay
+2 Thoughtseize
 2 Dead Weight
 3 Thoughtseize
 3 Barrier Breach
@@ -104,6 +101,18 @@
 3 Skylasher
 3 Devout Decree
 4 Skylasher
+1 Necromentia
+1 Leyline of the Void
+1 Gifted Aetherborn
+1 Drill Bit
+2 Necromentia
+2 Leyline of the Void
+2 Gifted Aetherborn
+2 Drill Bit
+3 Necromentia
+3 Dreadbore
+3 Leyline of the Void
+4 Leyline of the Void
 1 Knight of Grace
 2 Knight of Grace
 3 Knight of Grace
@@ -113,9 +122,9 @@
 1 Heartless Act
 1 Disfigure
 1 Extinction Event
-1 Emrakul, the Promised End
 1 Negate
 1 Languish
+1 Emrakul, the Promised End
 3 Mystical Dispute
 4 Mystical Dispute
 1 Fatal Push
@@ -124,6 +133,7 @@
 2 Fatal Push
 2 Golgari Charm
 3 Fatal Push
+3 Soul-Guide Lantern
 3 Golgari Charm
 4 Fatal Push
 4 Soul-Guide Lantern

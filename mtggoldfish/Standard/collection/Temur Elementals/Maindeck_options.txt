@@ -3,8 +3,8 @@
 2 Ugin, the Spirit Dragon
 1 Temple of Epiphany
 1 Temple of Mystery
-2 Temple of Mystery
 2 Temple of Epiphany
+2 Temple of Mystery
 1 Temple of Abandon
 2 Temple of Abandon
 3 Temple of Mystery
@@ -43,8 +43,8 @@
 2 Radha, Heart of Keld
 3 Radha, Heart of Keld
 1 Aether Gust
-1 Mythos of Illuna
 1 Scampering Scorcher
+1 Mythos of Illuna
 2 Scampering Scorcher
 3 Scorching Dragonfire
 1 Chandra, Awakened Inferno
@@ -57,13 +57,13 @@
 2 Thassa's Intervention
 1 Thryx, the Sudden Storm
 1 Cavalier of Flame
+2 Thryx, the Sudden Storm
 2 Aether Gust
 2 Cavalier of Flame
-2 Thryx, the Sudden Storm
 3 Cavalier of Flame
 1 Thassa, Deep-Dwelling
-2 Mythos of Illuna
 2 Thassa, Deep-Dwelling
+2 Mythos of Illuna
 3 Scampering Scorcher
 4 Nissa, Who Shakes the World
 1 Sublime Epiphany
@@ -88,9 +88,9 @@
 6 Island
 7 Forest
 8 Forest
-1 Shock
 1 Volcanic Geyser
 1 Miscast
+1 Shock
 1 Scorch Spitter
 1 Creeping Trailblazer
 1 Thornwood Falls
@@ -108,12 +108,12 @@
 2 Thornwood Falls
 2 Lightning Stormkin
 2 Swiftwater Cliffs
-3 Chandra, Acolyte of Flame
-3 Miscast
 3 Shock
+3 Miscast
 3 Lightning Stormkin
 3 Lavakin Brawler
 3 Creeping Trailblazer
+3 Chandra, Acolyte of Flame
 3 Scorch Spitter
 3 Thornwood Falls
 3 Rugged Highlands
