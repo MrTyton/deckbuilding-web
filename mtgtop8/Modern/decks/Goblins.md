@@ -76,6 +76,6 @@
 |                    2|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)  |                     |                                                                                               |
 |                    3|[Blackcleave Cliffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209401)      |                     |                                                                                               |
 |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)            |                     |                                                                                               |
-|                    4|[Blackcleave Cliffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209401)      |                     |                                                                                               |
 |                    4|[Mogg War Marshal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157924)        |                     |                                                                                               |
+|                    4|[Blackcleave Cliffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209401)      |                     |                                                                                               |
 

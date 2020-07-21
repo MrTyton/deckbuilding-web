@@ -1,7 +1,7 @@
 # Hogaak
 
 #### [Export MTGO List](../collection/Hogaak/Hogaak.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Altar%20of%20Dementia%0A3%09Bayou%0A4%09Bloodghast%0A1%09Bloodstained%20Mire%0A4%09Bridge%20from%20Below%0A3%09Cabal%20Therapy%0A4%09Careful%20Study%0A2%09Carrion%20Feeder%0A1%09Dryad%20Arbor%0A4%09Gravecrawler%0A4%09Hedron%20Crab%0A4%09Hogaak,%20Arisen%20Necropolis%0A1%09Marsh%20Flats%0A4%09Misty%20Rainforest%0A1%09Polluted%20Delta%0A4%09Stitcher's%20Supplier%0A1%09Swamp%0A3%09Underground%20Sea%0A4%09Vengevine%0A4%09Verdant%20Catacombs&deckside=2%09Abrupt%20Decay%0A2%09Assassin's%20Trophy%0A4%09Force%20of%20Vigor%0A4%09Leyline%20of%20the%20Void%0A3%09Thoughtseize)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Altar%20of%20Dementia%0A3%09Bayou%0A4%09Bloodghast%0A1%09Bloodstained%20Mire%0A4%09Bridge%20from%20Below%0A3%09Cabal%20Therapy%0A4%09Careful%20Study%0A2%09Carrion%20Feeder%0A1%09Dryad%20Arbor%0A4%09Gravecrawler%0A4%09Hedron%20Crab%0A4%09Hogaak,%20Arisen%20Necropolis%0A1%09Marsh%20Flats%0A4%09Misty%20Rainforest%0A1%09Polluted%20Delta%0A4%09Stitcher's%20Supplier%0A1%09Swamp%0A3%09Underground%20Sea%0A4%09Vengevine%0A4%09Verdant%20Catacombs&deckside=2%09Abrupt%20Decay%0A2%09Assassin's%20Trophy%0A1%09Cabal%20Therapy%0A4%09Force%20of%20Vigor%0A4%09Leyline%20of%20the%20Void%0A2%09Thoughtseize)
 # Maindeck
 
 |                                         Artifact (4)                                         |                                            Creature (26)                                             |                                       Enchantment (4)                                        |                                          Land (19)                                           |                                       Sorcery (7)                                        |
@@ -19,20 +19,20 @@
 
 # Sideboard
 
-|                                        Enchantment (4)                                         |                                         Instant (8)                                          |                                       Sorcery (3)                                       |
-|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|2 [Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)     |3 [Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)|
-|                                                                                                |2 [Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|                                                                                         |
-|                                                                                                |4 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)   |                                                                                         |
+|                                        Enchantment (4)                                         |                                         Instant (8)                                          |                                       Sorcery (3)                                        |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|2 [Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)     |1 [Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625)|
+|                                                                                                |2 [Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|2 [Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676) |
+|                                                                                                |4 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)   |                                                                                          |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    1|[Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625)      |
-|                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)    |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |
-|                    1|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)  |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    2|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)    |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |
+|                    1|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)  |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |
+|                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                    2|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)  |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                    1|[Badlands](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=878)             |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)              |
 |                    1|[Putrid Imp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270459)        |                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)              |

@@ -62,8 +62,8 @@
 1 Cavalier of Thorns
 1 Negate
 1 Aether Gust
-1 Mythos of Illuna
 1 Casualties of War
+1 Mythos of Illuna
 1 Risen Reef
 1 Breeding Pool
 1 Growth Spiral
@@ -205,24 +205,41 @@
 1 Legion Warboss
 2 Legion Warboss
 3 Legion Warboss
+1 Lazotep Reaver
 1 Call of the Death-Dweller
-1 Temple of Malice
-1 Claim the Firstborn
 1 Dreadhorde Butcher
+1 Claim the Firstborn
 1 Fiend Artisan
 1 Murderous Rider
 1 Gutterbones
-1 Lazotep Reaver
-2 Temple of Malice
+1 Temple of Malice
 2 Claim the Firstborn
 2 Fiend Artisan
 2 Murderous Rider
+2 Temple of Malice
 2 Gutterbones
 3 Temple of Malice
 3 Claim the Firstborn
 3 Fiend Artisan
 4 Temple of Malice
 4 Claim the Firstborn
+1 Cruel Celebrant
+1 Luminous Broodmoth
+1 Mythos of Snapdax
+1 Serrated Scorpion
+1 Offspring's Revenge
+2 Cruel Celebrant
+2 Luminous Broodmoth
+2 Midnight Reaper
+2 Mythos of Snapdax
+2 Serrated Scorpion
+3 Serrated Scorpion
+3 Cruel Celebrant
+3 Midnight Reaper
+3 Mythos of Snapdax
+4 Serrated Scorpion
+4 Cruel Celebrant
+4 Midnight Reaper
 1 Bolt Hound
 1 Pack Leader
 2 Bolt Hound
@@ -244,23 +261,99 @@
 4 Temple of Deceit
 4 Spectral Sailor
 4 Heartless Act
-1 Cruel Celebrant
-1 Luminous Broodmoth
-1 Mythos of Snapdax
-1 Serrated Scorpion
-1 Offspring's Revenge
-2 Cruel Celebrant
-2 Luminous Broodmoth
-2 Midnight Reaper
-2 Mythos of Snapdax
-2 Serrated Scorpion
-3 Serrated Scorpion
-3 Cruel Celebrant
-3 Midnight Reaper
-3 Mythos of Snapdax
-4 Serrated Scorpion
-4 Cruel Celebrant
-4 Midnight Reaper
+3 Stonecoil Serpent
+1 Blast Zone
+1 Karn's Bastion
+1 Mystic Forge
+1 Ugin, the Spirit Dragon
+1 Solemn Simulacrum
+1 Crystalline Giant
+1 Palladium Myr
+1 Steel Overseer
+1 Ugin, the Ineffable
+1 Mobilized District
+1 Interplanar Beacon
+2 Mobilized District
+2 Mystic Forge
+2 Ugin, the Ineffable
+2 Ugin, the Spirit Dragon
+2 Solemn Simulacrum
+2 Crystalline Giant
+2 Radiant Fountain
+2 Steel Overseer
+2 Palladium Myr
+2 Karn's Bastion
+2 Interplanar Beacon
+3 Mystic Forge
+3 Solemn Simulacrum
+3 Crystalline Giant
+3 Radiant Fountain
+3 Ugin, the Spirit Dragon
+3 Ugin, the Ineffable
+3 Steel Overseer
+3 Palladium Myr
+3 Karn's Bastion
+3 Interplanar Beacon
+4 Mystic Forge
+4 Ugin, the Ineffable
+4 Solemn Simulacrum
+4 Ugin, the Spirit Dragon
+4 Crystalline Giant
+4 Stonecoil Serpent
+4 Palladium Myr
+4 Steel Overseer
+4 Radiant Fountain
+4 Interplanar Beacon
+4 Karn's Bastion
+1 Castle Ardenvale
+1 All That Glitters
+1 Alseid of Life's Bounty
+1 Sentinel's Eyes
+1 Karametra's Blessing
+2 All That Glitters
+2 Sentinel's Eyes
+2 Karametra's Blessing
+2 Alseid of Life's Bounty
+3 Sentinel's Eyes
+3 Karametra's Blessing
+3 All That Glitters
+3 Alseid of Life's Bounty
+4 Karametra's Blessing
+4 All That Glitters
+4 Alseid of Life's Bounty
+1 Indatha Triome
+1 Setessan Training
+1 Pious Wayfarer
+1 Hateful Eidolon
+1 Kaya's Ghostform
+1 Season of Growth
+1 Dead Weight
+1 Aphemia, the Cacophony
+1 Starfield Mystic
+1 Temple Garden
+2 Indatha Triome
+2 Setessan Training
+2 Hateful Eidolon
+2 Kaya's Ghostform
+2 Season of Growth
+2 Dead Weight
+2 Pious Wayfarer
+2 Starfield Mystic
+2 Aphemia, the Cacophony
+2 Temple Garden
+3 Indatha Triome
+3 Setessan Training
+3 Hateful Eidolon
+3 Season of Growth
+3 Dead Weight
+3 Starfield Mystic
+3 Aphemia, the Cacophony
+3 Temple Garden
+3 Pious Wayfarer
+4 Season of Growth
+4 Hateful Eidolon
+4 Setessan Training
+4 Temple Garden
 1 Fight as One
 1 Foulmire Knight
 1 Stormfist Crusader
@@ -324,68 +417,7 @@
 3 Pelt Collector
 4 Temple of Abandon
 4 Stomping Ground
-3 Stonecoil Serpent
-1 Blast Zone
-1 Ugin, the Spirit Dragon
-1 Solemn Simulacrum
-1 Crystalline Giant
-1 Mystic Forge
-1 Karn's Bastion
-1 Palladium Myr
-1 Steel Overseer
-1 Ugin, the Ineffable
-1 Mobilized District
-1 Interplanar Beacon
-2 Mobilized District
-2 Ugin, the Spirit Dragon
-2 Ugin, the Ineffable
-2 Solemn Simulacrum
-2 Mystic Forge
-2 Crystalline Giant
-2 Radiant Fountain
-2 Palladium Myr
-2 Karn's Bastion
-2 Interplanar Beacon
-2 Steel Overseer
-3 Ugin, the Ineffable
-3 Solemn Simulacrum
-3 Mystic Forge
-3 Radiant Fountain
-3 Ugin, the Spirit Dragon
-3 Palladium Myr
-3 Karn's Bastion
-3 Crystalline Giant
-3 Interplanar Beacon
-3 Steel Overseer
-4 Ugin, the Ineffable
-4 Mystic Forge
-4 Solemn Simulacrum
-4 Ugin, the Spirit Dragon
-4 Stonecoil Serpent
-4 Radiant Fountain
-4 Palladium Myr
-4 Interplanar Beacon
-4 Karn's Bastion
-4 Crystalline Giant
-4 Steel Overseer
-1 Castle Ardenvale
-1 All That Glitters
-1 Alseid of Life's Bounty
-1 Sentinel's Eyes
-1 Karametra's Blessing
-2 All That Glitters
-2 Sentinel's Eyes
-2 Karametra's Blessing
-2 Alseid of Life's Bounty
-3 Sentinel's Eyes
-3 Karametra's Blessing
-3 All That Glitters
-3 Alseid of Life's Bounty
-4 Karametra's Blessing
-4 All That Glitters
-4 Alseid of Life's Bounty
 1 Steam Vents
-1 Indatha Triome
 1 Shark Typhoon
 1 Go for Blood
 1 Ominous Seas
@@ -429,38 +461,6 @@
 4 Drannith Healer
 4 Go for Blood
 4 Drannith Stinger
-1 Setessan Training
-1 Pious Wayfarer
-1 Kaya's Ghostform
-1 Hateful Eidolon
-1 Season of Growth
-1 Dead Weight
-1 Aphemia, the Cacophony
-1 Starfield Mystic
-1 Temple Garden
-2 Indatha Triome
-2 Setessan Training
-2 Kaya's Ghostform
-2 Hateful Eidolon
-2 Season of Growth
-2 Dead Weight
-2 Pious Wayfarer
-2 Starfield Mystic
-2 Aphemia, the Cacophony
-2 Temple Garden
-3 Indatha Triome
-3 Setessan Training
-3 Season of Growth
-3 Hateful Eidolon
-3 Dead Weight
-3 Starfield Mystic
-3 Aphemia, the Cacophony
-3 Temple Garden
-3 Pious Wayfarer
-4 Season of Growth
-4 Hateful Eidolon
-4 Temple Garden
-4 Setessan Training
 1 Opt
 1 Ionize
 1 Shock

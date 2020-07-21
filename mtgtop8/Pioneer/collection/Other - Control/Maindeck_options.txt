@@ -10,15 +10,20 @@
 3 Deafening Clarion
 3 Gideon, Ally of Zendikar
 3 Glacial Fortress
-3 Sulfur Falls
 3 Irrigated Farmland
+3 Sulfur Falls
 3 Elspeth Conquers Death
 3 Hallowed Fountain
 4 Hallowed Fountain
 4 Irrigated Farmland
 4 Azorius Charm
 4 Narset, Parter of Veils
+1 Fabled Passage
 4 Plains
+1 Island
+2 Fabled Passage
+3 Fabled Passage
+4 Fabled Passage
 1 Swamp
 2 Swamp
 3 Swamp
@@ -27,50 +32,30 @@
 1 Treacherous Blessing
 1 Urborg, Tomb of Yawgmoth
 1 Trial of Ambition
-1 Oath of Kaya
 1 Isolated Chapel
+1 Oath of Kaya
 1 Godless Shrine
 1 Shambling Vent
 2 Flicker of Fate
 2 Shambling Vent
 2 Doom Foretold
 2 Treacherous Blessing
+2 Trial of Ambition
 2 Isolated Chapel
 2 Godless Shrine
-2 Trial of Ambition
 3 Isolated Chapel
 3 Flicker of Fate
 3 Doom Foretold
 3 Shambling Vent
 3 Treacherous Blessing
-3 Godless Shrine
 3 Trial of Ambition
+3 Godless Shrine
 4 Trial of Ambition
 4 Isolated Chapel
+4 Treacherous Blessing
 4 Doom Foretold
 4 Godless Shrine
 5 Plains
-1 Fabled Passage
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-4 Thoughtseize
-1 Demonic Pact
-1 Castle Locthwain
-2 Demonic Pact
-2 Castle Locthwain
-2 Oath of Kaya
-3 Demonic Pact
-3 Oath of Kaya
-4 Shambling Vent
-4 Treacherous Blessing
-1 Caves of Koilos
-2 Caves of Koilos
-4 Flicker of Fate
-1 Island
-2 Fabled Passage
-3 Fabled Passage
-4 Fabled Passage
 1 Mountain
 1 Sweltering Suns
 2 Sweltering Suns
@@ -87,79 +72,69 @@
 4 Gideon of the Trials
 4 Sweltering Suns
 4 Chained to the Rocks
-1 Fatal Push
-2 Fatal Push
-3 Fatal Push
-1 Elspeth's Nightmare
-1 History of Benalia
-1 Starfield of Nyx
-1 Murderous Rider
-1 Temple of Silence
-1 Kunoros, Hound of Athreos
-1 Duress
-1 Kaya's Wrath
-1 Agonizing Remorse
-2 Duress
-2 Elspeth's Nightmare
-2 Murderous Rider
-2 Kunoros, Hound of Athreos
-2 Agonizing Remorse
-3 Caves of Koilos
-3 Elspeth's Nightmare
-4 Oath of Kaya
-4 Caves of Koilos
-4 Demonic Pact
-4 Swamp
-5 Swamp
-6 Plains
 2 Island
-1 Censor
-1 Breeding Pool
 1 Uro, Titan of Nature's Wrath
+1 Breeding Pool
 1 Forest
 2 Breeding Pool
 2 Forest
 2 Uro, Titan of Nature's Wrath
-1 Blast Zone
-1 Wilderness Reclamation
+1 Censor
 1 Growth Spiral
+1 Blast Zone
 1 Castle Vantress
+1 Wilderness Reclamation
 1 Shark Typhoon
-2 Blast Zone
-2 Shark Typhoon
-2 Castle Vantress
-2 Wilderness Reclamation
 2 Growth Spiral
+2 Blast Zone
+2 Castle Vantress
+2 Shark Typhoon
+2 Wilderness Reclamation
 3 Shark Typhoon
 3 Breeding Pool
+3 Growth Spiral
 3 Uro, Titan of Nature's Wrath
 3 Wilderness Reclamation
-3 Growth Spiral
+4 Growth Spiral
 4 Breeding Pool
 4 Wilderness Reclamation
-4 Growth Spiral
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
+1 Demonic Pact
 1 Final Payment
+1 Castle Locthwain
 1 Yorion, Sky Nomad
 2 Yorion, Sky Nomad
+2 Demonic Pact
+2 Castle Locthwain
+2 Oath of Kaya
 2 Final Payment
+3 Demonic Pact
+3 Oath of Kaya
+4 Shambling Vent
 1 Heliod, Sun-Crowned
 1 Arcanist's Owl
-1 Walking Ballista
+1 Caves of Koilos
 1 Shatter the Sky
+1 Walking Ballista
 2 Shatter the Sky
-2 Arcanist's Owl
 2 Heliod, Sun-Crowned
+2 Arcanist's Owl
+2 Caves of Koilos
 2 Walking Ballista
 3 Walking Ballista
 3 Heliod, Sun-Crowned
 4 Walking Ballista
 4 Heliod, Sun-Crowned
+4 Flicker of Fate
 1 Satyr Wayfinder
 1 Hostage Taker
 1 Thassa, Deep-Dwelling
+1 Botanical Sanctum
 1 Unesh, Criosphinx Sovereign
 1 Woodland Bellower
-1 Yavimaya Coast
 1 Eldritch Evolution
 1 Grapple with the Past
 1 Arboreal Grazer
@@ -168,14 +143,14 @@
 1 Massacre Girl
 1 Neoform
 1 Tasigur, the Golden Fang
-1 Botanical Sanctum
 1 Elvish Rejuvenator
+1 Yavimaya Coast
 1 Reclamation Sage
 1 Scavenging Ooze
 1 Thought-Knot Seer
 1 Overgrown Tomb
-1 Llanowar Wastes
 1 Blooming Marsh
+1 Llanowar Wastes
 2 Satyr Wayfinder
 2 Eldritch Evolution
 2 Grapple with the Past
@@ -193,12 +168,12 @@
 3 Grapple with the Past
 3 Neoform
 3 Yavimaya Coast
+3 Forest
 3 Llanowar Wastes
 3 Blooming Marsh
-3 Forest
+4 Satyr Wayfinder
 4 Arboreal Grazer
 4 Neoform
-4 Satyr Wayfinder
 1 Stomping Ground
 1 Ketria Triome
 1 Pull from Tomorrow
@@ -209,8 +184,8 @@
 2 Stomping Ground
 2 Pull from Tomorrow
 2 Ketria Triome
-2 Bonecrusher Giant
 2 Expansion / Explosion
+2 Bonecrusher Giant
 3 Castle Vantress
 3 Stomping Ground
 3 Pull from Tomorrow
@@ -226,61 +201,64 @@
 3 Censor
 4 Censor
 1 Blood Crypt
-1 Nicol Bolas, the Ravager
-1 Tyrant's Scorn
-1 Nicol Bolas, Dragon-God
 1 Drown in the Loch
-1 Dreadbore
-1 Drowned Catacomb
+1 Nicol Bolas, the Ravager
 1 Dragonskull Summit
+1 Tyrant's Scorn
+1 Dreadbore
 1 Watery Grave
+1 Drowned Catacomb
+1 Nicol Bolas, Dragon-God
+1 Fatal Push
 2 Blood Crypt
-2 Tyrant's Scorn
-2 Nicol Bolas, the Ravager
-2 Nicol Bolas, Dragon-God
-2 Watery Grave
 2 Drown in the Loch
-2 Dreadbore
-2 Drowned Catacomb
 2 Dragonskull Summit
+2 Tyrant's Scorn
+2 Nicol Bolas, Dragon-God
+2 Dreadbore
+2 Nicol Bolas, the Ravager
+2 Fatal Push
+2 Watery Grave
+2 Drowned Catacomb
 3 Opt
+3 Dreadbore
+3 Drown in the Loch
 3 Blood Crypt
 3 Dragonskull Summit
-3 Nicol Bolas, the Ravager
-3 Nicol Bolas, Dragon-God
 3 Tyrant's Scorn
-3 Drown in the Loch
-3 Dreadbore
-3 Drowned Catacomb
+3 Fatal Push
+3 Nicol Bolas, Dragon-God
 3 Watery Grave
+3 Nicol Bolas, the Ravager
+3 Drowned Catacomb
 4 Opt
-4 Blood Crypt
-4 Nicol Bolas, Dragon-God
-4 Nicol Bolas, the Ravager
-4 Dreadbore
 4 Tyrant's Scorn
+4 Blood Crypt
 4 Drown in the Loch
 4 Fatal Push
+4 Dreadbore
+4 Nicol Bolas, the Ravager
+4 Nicol Bolas, Dragon-God
 4 Watery Grave
 1 Lumbering Falls
+1 Brazen Borrower
 1 Dig Through Time
 1 Sinister Sabotage
 1 Sublime Epiphany
-1 Neutralize
-1 Teferi, Master of Time
-1 Hinterland Harbor
-1 Brazen Borrower
-1 Temple of Mystery
 1 Torrential Gearhulk
+1 Neutralize
+1 Hinterland Harbor
+1 Teferi, Master of Time
+1 Temple of Mystery
 2 Lumbering Falls
 2 Dig Through Time
+2 Brazen Borrower
 2 Sinister Sabotage
 2 Torrential Gearhulk
 2 Sublime Epiphany
 2 Neutralize
-2 Teferi, Master of Time
 2 Hinterland Harbor
-2 Brazen Borrower
+2 Teferi, Master of Time
 2 Temple of Mystery
 3 Hinterland Harbor
 3 Temple of Mystery

@@ -1,28 +1,26 @@
+3 Watery Grave
+4 Teferi, Time Raveler
+1 Flicker of Fate
 2 Flicker of Fate
-1 Settle the Wreckage
-1 Drowned Catacomb
-2 Drowned Catacomb
-3 Drowned Catacomb
-4 Drowned Catacomb
-4 Watery Grave
-1 Castle Locthwain
-2 Castle Locthwain
 2 Agent of Treachery
-1 Omen of the Sea
+1 Neutralize
+1 Drowned Catacomb
 1 Narset, Parter of Veils
 2 Trial of Ambition
-2 Omen of the Sea
+2 Drowned Catacomb
 2 Narset, Parter of Veils
+2 Neutralize
 3 Trial of Ambition
-3 Omen of the Sea
 3 Narset, Parter of Veils
-4 Omen of the Sea
+3 Neutralize
+3 Drowned Catacomb
+4 Drowned Catacomb
+4 Neutralize
+4 Watery Grave
 1 Thraben Inspector
 2 Thraben Inspector
 3 Thraben Inspector
 4 Thraben Inspector
-3 Plains
-4 Plains
 1 Concealed Courtyard
 2 Concealed Courtyard
 3 Concealed Courtyard
@@ -31,45 +29,115 @@
 2 Fatal Push
 3 Fatal Push
 4 Fatal Push
-1 Caves of Koilos
-2 Caves of Koilos
-5 Plains
-1 Mutavault
-2 Mutavault
-3 Mutavault
-4 Mutavault
-1 Urborg, Tomb of Yawgmoth
-1 Scrapheap Scrounger
-1 Knight of the Ebon Legion
-2 Scrapheap Scrounger
-2 Knight of the Ebon Legion
-3 Knight of the Ebon Legion
-4 Knight of the Ebon Legion
-3 Caves of Koilos
-4 Caves of Koilos
-1 Castle Ardenvale
-1 Heart of Kiran
-1 Gideon, Ally of Zendikar
-2 Gideon, Ally of Zendikar
-1 Gideon of the Trials
-2 Gideon of the Trials
-1 Glory-Bound Initiate
-1 Kunoros, Hound of Athreos
-2 Heart of Kiran
-2 Glory-Bound Initiate
-3 Gideon, Ally of Zendikar
-1 Thought Erasure
+3 Plains
+4 Plains
+2 Swamp
+3 Fabled Passage
+4 Fabled Passage
 1 Murderous Rider
-1 Overgrown Tomb
-2 Overgrown Tomb
-1 Forest
-2 Forest
-3 Forest
-4 Forest
-5 Forest
 1 Mountain
 2 Mountain
 3 Mountain
+2 Murderous Rider
+3 Swamp
+3 Castle Locthwain
+4 Swamp
+4 Castle Locthwain
+1 Hazoret the Fervent
+1 Liliana, Waker of the Dead
+1 Blood Crypt
+1 Collective Brutality
+1 Eliminate
+1 Davriel, Rogue Shadowmage
+1 Kolaghan's Command
+1 Dragonskull Summit
+1 Waste Not
+1 Kroxa, Titan of Death's Hunger
+1 Field of Ruin
+2 Blood Crypt
+2 Liliana, Waker of the Dead
+2 Davriel, Rogue Shadowmage
+2 Collective Brutality
+2 Eliminate
+2 Waste Not
+2 Field of Ruin
+2 Kroxa, Titan of Death's Hunger
+2 Kolaghan's Command
+2 Hazoret the Fervent
+2 Dragonskull Summit
+3 Eliminate
+3 Kroxa, Titan of Death's Hunger
+3 Kolaghan's Command
+3 Davriel, Rogue Shadowmage
+3 Dragonskull Summit
+3 Blood Crypt
+3 Liliana, Waker of the Dead
+3 Waste Not
+4 Kroxa, Titan of Death's Hunger
+4 Waste Not
+4 Blood Crypt
+4 Liliana, Waker of the Dead
+4 Dragonskull Summit
+5 Plains
+1 Caves of Koilos
+2 Caves of Koilos
+1 Gideon of the Trials
+2 Gideon of the Trials
+1 Mutavault
+2 Mutavault
+1 Scrapheap Scrounger
+2 Scrapheap Scrounger
+1 Urborg, Tomb of Yawgmoth
+1 Knight of the Ebon Legion
+2 Knight of the Ebon Legion
+3 Knight of the Ebon Legion
+3 Mutavault
+4 Knight of the Ebon Legion
+6 Plains
+3 Caves of Koilos
+4 Caves of Koilos
+1 Heart of Kiran
+1 Gideon, Ally of Zendikar
+2 Gideon, Ally of Zendikar
+3 Gideon of the Trials
+1 History of Benalia
+2 Heart of Kiran
+2 History of Benalia
+3 Heart of Kiran
+3 Gideon, Ally of Zendikar
+3 History of Benalia
+4 History of Benalia
+1 Forest
+3 Scrapheap Scrounger
+4 Scrapheap Scrounger
+1 Overgrown Tomb
+2 Overgrown Tomb
+1 Blooming Marsh
+2 Blooming Marsh
+3 Blooming Marsh
+2 Forest
+3 Forest
+1 Sunpetal Grove
+1 Temple Garden
+2 Temple Garden
+3 Temple Garden
+4 Temple Garden
+3 Overgrown Tomb
+4 Overgrown Tomb
+4 Forest
+5 Forest
+1 Llanowar Elves
+2 Llanowar Elves
+3 Llanowar Elves
+4 Llanowar Elves
+4 Blooming Marsh
+1 Scavenging Ooze
+6 Forest
+1 Elvish Mystic
+2 Elvish Mystic
+3 Elvish Mystic
+4 Elvish Mystic
+7 Forest
 1 Questing Beast
 1 Gruul Spellbreaker
 1 Bonecrusher Giant
@@ -90,6 +158,8 @@
 2 Burning-Tree Emissary
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
+1 Hashep Oasis
+2 Questing Beast
 1 Ghor-Clan Rampager
 1 Experiment One
 1 Pelt Collector
@@ -111,35 +181,28 @@
 4 Pelt Collector
 4 Voltaic Brawler
 4 Experiment One
-3 Island
-2 Swamp
+4 Mountain
+1 Heartless Act
+2 Heartless Act
+4 Mutavault
+1 Walking Ballista
+1 Garruk's Harbinger
+2 Garruk's Harbinger
+3 Garruk's Harbinger
 1 Mana Confluence
 2 Mana Confluence
-4 Glacial Fortress
-1 Censor
-2 Censor
-3 Censor
-4 Censor
-6 Plains
-1 Castle Vantress
-3 Irrigated Farmland
-4 Irrigated Farmland
-1 Kaya, Orzhov Usurper
-2 Murderous Rider
-6 Forest
-2 Questing Beast
-4 Mountain
-2 Castle Ardenvale
-3 Overgrown Tomb
-1 Walking Ballista
+4 Gruul Spellbreaker
+1 Castle Ardenvale
 7 Plains
 8 Plains
+1 Nykthos, Shrine to Nyx
+2 Nykthos, Shrine to Nyx
+3 Nykthos, Shrine to Nyx
 1 Gideon Blackblade
 2 Gideon Blackblade
 1 Heliod, Sun-Crowned
 2 Heliod, Sun-Crowned
 2 Walking Ballista
-3 Gideon of the Trials
 3 Heliod, Sun-Crowned
 3 Walking Ballista
 4 Heliod, Sun-Crowned
@@ -147,53 +210,55 @@
 10 Plains
 11 Plains
 12 Plains
-3 Scrapheap Scrounger
-4 Gruul Spellbreaker
-3 Fabled Passage
-1 Llanowar Elves
-2 Llanowar Elves
-3 Llanowar Elves
-4 Llanowar Elves
-1 Scavenging Ooze
-1 Blooming Marsh
-2 Blooming Marsh
-3 Blooming Marsh
-4 Overgrown Tomb
-1 Sunpetal Grove
-1 Temple Garden
-2 Temple Garden
-3 Temple Garden
-4 Temple Garden
 1 Satyr Wayfinder
 2 Satyr Wayfinder
 3 Satyr Wayfinder
-1 Cast Out
-2 Cast Out
-3 Cast Out
-1 Hieroglyphic Illumination
-2 Hieroglyphic Illumination
-3 Shark Typhoon
-3 Hieroglyphic Illumination
-4 Shark Typhoon
-4 Hieroglyphic Illumination
-4 Cast Out
+1 Llanowar Wastes
+2 Llanowar Wastes
+3 Llanowar Wastes
+2 Scavenging Ooze
+1 Thought Erasure
+2 Hashep Oasis
 3 Flicker of Fate
-4 Blooming Marsh
-1 Emrakul, the Promised End
+1 Fiend Artisan
+1 Stitcher's Supplier
+2 Fiend Artisan
+2 Stitcher's Supplier
+3 Fiend Artisan
+3 Stitcher's Supplier
+4 Fiend Artisan
+4 Stitcher's Supplier
+3 Island
+1 Castle Vantress
+3 Irrigated Farmland
+4 Glacial Fortress
+4 Irrigated Farmland
+1 Uro, Titan of Nature's Wrath
+1 Breeding Pool
+2 Breeding Pool
+2 Uro, Titan of Nature's Wrath
+1 Oath of Nissa
+2 Oath of Nissa
+3 Oath of Nissa
+4 Oath of Nissa
+1 Rankle, Master of Pranks
+2 Rankle, Master of Pranks
+3 Murderous Rider
+4 Murderous Rider
 1 Woodland Cemetery
 1 Sylvan Caryatid
 2 Woodland Cemetery
 2 Sylvan Caryatid
 3 Sylvan Caryatid
 4 Sylvan Caryatid
-4 Fabled Passage
+1 Emrakul, the Promised End
 1 Ishkanah, Grafwidow
-1 Discovery/Dispersal
 1 Nissa, Vastwood Seer
 1 Courser of Kruphix
-1 Cataclysmic Gearhulk
+1 Discovery/Dispersal
 1 Siege Rhino
 1 Vraska, Golgari Queen
+1 Cataclysmic Gearhulk
 1 Liliana, the Last Hope
 1 Glass Casket
 1 Tolsimir, Friend to Wolves
@@ -213,23 +278,20 @@
 2 Traverse the Ulvenwald
 3 Indatha Triome
 3 Siege Rhino
-3 Discovery/Dispersal
 3 Traverse the Ulvenwald
 3 Vraska, Golgari Queen
+3 Discovery/Dispersal
 3 Courser of Kruphix
 4 Traverse the Ulvenwald
 4 Discovery/Dispersal
 4 Courser of Kruphix
-1 Nykthos, Shrine to Nyx
-2 Nykthos, Shrine to Nyx
-3 Nykthos, Shrine to Nyx
 4 Nykthos, Shrine to Nyx
 1 Temple of Silence
 1 Stasis Snare
 1 Lurrus of the Dream Den
-1 Knight of the White Orchid
 1 Daxos, Blessed by the Sun
 1 Arcanist's Owl
+1 Knight of the White Orchid
 1 Anafenza, Kin-Tree Spirit
 1 Yorion, Sky Nomad
 2 Yorion, Sky Nomad
@@ -239,121 +301,89 @@
 2 Daxos, Blessed by the Sun
 2 Arcanist's Owl
 2 Knight of the White Orchid
+3 Isolated Chapel
 3 Elspeth Conquers Death
 3 Arcanist's Owl
 3 Knight of the White Orchid
-3 Isolated Chapel
+4 Baffling End
+4 Isolated Chapel
 4 Arcanist's Owl
 4 Walking Ballista
-4 Isolated Chapel
-4 Baffling End
 4 Knight of the White Orchid
-7 Forest
-1 Fiend Artisan
-1 Stitcher's Supplier
-2 Fiend Artisan
-2 Stitcher's Supplier
-3 Fiend Artisan
-3 Stitcher's Supplier
-4 Fiend Artisan
-4 Stitcher's Supplier
-1 Rankle, Master of Pranks
-2 Rankle, Master of Pranks
-3 Murderous Rider
-3 Swamp
-4 Murderous Rider
-3 Mana Confluence
-1 Flourishing Fox
-1 Sacred Foundry
-1 Zenith Flare
-2 Zenith Flare
-2 Sacred Foundry
-2 Flourishing Fox
-3 Flourishing Fox
-3 Zenith Flare
-3 Sacred Foundry
-4 Sacred Foundry
-4 Flourishing Fox
-4 Zenith Flare
+1 Tamiyo, Collector of Tales
+1 Ashiok's Erasure
+1 Thirst for Meaning
+1 Jolrael, Mwonvuli Recluse
+1 Growth Spiral
+1 Seal Away
+1 Calix, Destiny's Hand
+1 Hinterland Harbor
+2 Thirst for Meaning
+2 Ashiok's Erasure
+2 Tamiyo, Collector of Tales
+2 Jolrael, Mwonvuli Recluse
+2 Hinterland Harbor
+2 Calix, Destiny's Hand
+2 Seal Away
+2 Growth Spiral
+3 Ashiok's Erasure
+3 Thirst for Meaning
+3 Jolrael, Mwonvuli Recluse
+3 Uro, Titan of Nature's Wrath
+3 Growth Spiral
+3 Breeding Pool
+3 Seal Away
+3 Shark Typhoon
+4 Ashiok's Erasure
+4 Seal Away
+4 Shark Typhoon
+4 Breeding Pool
+4 Growth Spiral
+1 Rhonas the Indomitable
+8 Forest
 1 Declaration in Stone
+2 Castle Ardenvale
+1 Thassa, Deep-Dwelling
 1 Thalia's Lieutenant
 2 Thalia's Lieutenant
 3 Thalia's Lieutenant
 4 Thalia's Lieutenant
-1 Elvish Mystic
-2 Elvish Mystic
-3 Elvish Mystic
-4 Elvish Mystic
-4 Island
-1 Temple of Enlightenment
-2 Temple of Enlightenment
-1 All That Glitters
-1 Stonecoil Serpent
-1 Gingerbrute
-1 Ghostfire Blade
-2 All That Glitters
-2 Gingerbrute
-2 Stonecoil Serpent
-2 Ghostfire Blade
-3 All That Glitters
-3 Stonecoil Serpent
-3 Gingerbrute
-4 All That Glitters
-4 Gingerbrute
-4 Stonecoil Serpent
-1 Thassa, Deep-Dwelling
+4 Satyr Wayfinder
 2 Sunpetal Grove
-1 Teferi, Master of Time
-1 Seal Away
-1 Abandoned Sarcophagus
-1 Drake Haven
-1 Field of Ruin
-2 Drake Haven
-2 Field of Ruin
-2 Seal Away
-2 Teferi, Master of Time
-3 Seal Away
-3 Drake Haven
-4 Seal Away
-4 Supreme Verdict
-5 Island
-1 Chandra, Torch of Defiance
+1 Zetalpa, Primal Dawn
 1 Glorybringer
+1 Chandra, Torch of Defiance
 2 Glorybringer
 2 Chandra, Torch of Defiance
-1 Nimble Obstructionist
-1 Sulfur Falls
-1 Azorius Charm
-1 Raugrin Triome
-2 Azorius Charm
-2 Settle the Wreckage
-2 Nimble Obstructionist
-2 Raugrin Triome
-2 Castle Vantress
-2 Sulfur Falls
-3 Azorius Charm
-3 Raugrin Triome
-4 Azorius Charm
-1 Garruk's Harbinger
-2 Garruk's Harbinger
-3 Garruk's Harbinger
+1 Archangel Avacyn
+1 Kunoros, Hound of Athreos
+1 Glory-Bound Initiate
+2 Glory-Bound Initiate
 3 Embercleave
 3 Gallia of the Endless Dance
 3 Game Trail
 4 Game Trail
-1 Hazoret the Fervent
-1 Dryad Militant
 1 Domri, Anarch of Bolas
-1 Hashep Oasis
+1 Dryad Militant
 1 Domri Rade
-2 Hashep Oasis
+3 Mana Confluence
 4 Ghor-Clan Rampager
-1 Archangel Avacyn
-1 History of Benalia
-2 History of Benalia
-3 Heart of Kiran
-3 History of Benalia
-4 History of Benalia
+1 Klothys, God of Destiny
+1 Xenagos, the Reveler
+1 Rekindling Phoenix
+1 Bonders' Enclave
+1 Kiora, Behemoth Beckoner
+2 Klothys, God of Destiny
+2 Bonders' Enclave
+2 Rekindling Phoenix
+2 Kiora, Behemoth Beckoner
+2 Xenagos, the Reveler
+3 Rekindling Phoenix
+3 Glorybringer
+3 Rootbound Crag
+4 Rekindling Phoenix
+4 Glorybringer
+4 Rootbound Crag
 1 Ipnu Rivulet
 1 Reflector Mage
 1 Elite Guardmage
@@ -363,8 +393,8 @@
 1 Panharmonicon
 2 Ipnu Rivulet
 2 Reflector Mage
-2 Thassa, Deep-Dwelling
 2 Elite Guardmage
+2 Thassa, Deep-Dwelling
 2 Militia Bugler
 2 Declaration in Stone
 2 Panharmonicon
@@ -375,7 +405,36 @@
 3 Militia Bugler
 4 Reflector Mage
 4 Militia Bugler
-4 Satyr Wayfinder
+1 Yavimaya Coast
+1 Elvish Rejuvenator
+1 Botanical Sanctum
+1 Tasigur, the Golden Fang
+1 Neoform
+1 Massacre Girl
+1 Cavalier of Gales
+1 Reclamation Sage
+1 Cavalier of Night
+1 Arboreal Grazer
+1 Grapple with the Past
+1 Eldritch Evolution
+1 Hostage Taker
+1 Woodland Bellower
+1 Thought-Knot Seer
+1 Unesh, Criosphinx Sovereign
+2 Yavimaya Coast
+2 Elvish Rejuvenator
+2 Neoform
+2 Arboreal Grazer
+2 Tasigur, the Golden Fang
+2 Grapple with the Past
+2 Eldritch Evolution
+3 Yavimaya Coast
+3 Neoform
+3 Grapple with the Past
+3 Eldritch Evolution
+3 Arboreal Grazer
+4 Neoform
+4 Arboreal Grazer
 1 Hunted Witness
 1 Cruel Celebrant
 1 Priest of Forgotten Gods
@@ -408,16 +467,16 @@
 1 Brave the Elements
 1 Soldier of the Pantheon
 1 Kytheon, Hero of Akros
-1 Dauntless Bodyguard
 1 General Kudro of Drannith
+1 Dauntless Bodyguard
 1 Mardu Woe-Reaper
 1 Boros Elite
 2 Dire Tactics
 2 General Kudro of Drannith
-2 Boros Elite
 2 Mardu Woe-Reaper
 2 Brave the Elements
 2 Kytheon, Hero of Akros
+2 Boros Elite
 2 Soldier of the Pantheon
 2 Benalish Marshal
 2 Dauntless Bodyguard
@@ -432,106 +491,64 @@
 4 Dire Tactics
 4 Soldier of the Pantheon
 4 Benalish Marshal
-4 Dauntless Bodyguard
 4 Brave the Elements
+4 Dauntless Bodyguard
 4 Boros Elite
-1 Zetalpa, Primal Dawn
-1 Llanowar Wastes
-2 Llanowar Wastes
-3 Llanowar Wastes
-1 Grisly Salvage
-2 Grisly Salvage
-3 Grisly Salvage
-4 Grisly Salvage
-1 Uro, Titan of Nature's Wrath
-1 Breeding Pool
-2 Breeding Pool
-2 Uro, Titan of Nature's Wrath
-1 Elvish Rejuvenator
-1 Botanical Sanctum
-1 Tasigur, the Golden Fang
-1 Neoform
-1 Massacre Girl
-1 Reclamation Sage
-1 Cavalier of Gales
-1 Cavalier of Night
-1 Arboreal Grazer
-1 Grapple with the Past
-1 Eldritch Evolution
-1 Yavimaya Coast
-1 Hostage Taker
-1 Woodland Bellower
-1 Thought-Knot Seer
-1 Unesh, Criosphinx Sovereign
-2 Yavimaya Coast
-2 Elvish Rejuvenator
-2 Neoform
-2 Arboreal Grazer
-2 Tasigur, the Golden Fang
-2 Grapple with the Past
-2 Eldritch Evolution
-3 Yavimaya Coast
-3 Neoform
-3 Grapple with the Past
-3 Eldritch Evolution
-3 Arboreal Grazer
-4 Neoform
-4 Arboreal Grazer
+1 Lovestruck Beast
+1 Kraul Harpooner
+1 Steel Leaf Champion
+1 Collected Company
+2 Collected Company
+2 Lovestruck Beast
+2 Rhonas the Indomitable
+2 Kraul Harpooner
+2 Steel Leaf Champion
+3 Collected Company
+3 Lovestruck Beast
+3 Steel Leaf Champion
+4 Collected Company
+4 Lovestruck Beast
+4 Garruk's Harbinger
+4 Llanowar Wastes
+4 Steel Leaf Champion
+4 Gideon, Ally of Zendikar
 1 Temple of Deceit
-1 Dovin's Veto
 1 The Scarab God
 1 Karn, Scion of Urza
-1 Heartless Act
 1 Search for Azcanta
+1 Kaya, Orzhov Usurper
 1 Spell Queller
+1 Dovin's Veto
 1 Dig Through Time
+1 Temple of Enlightenment
+1 Censor
 1 Shambling Vent
 2 Temple of Deceit
-2 Dovin's Veto
-2 Heartless Act
+2 Temple of Enlightenment
+2 Censor
 2 Spell Queller
+2 Dovin's Veto
+3 Censor
 3 Heartless Act
 3 Spell Queller
 4 Heartless Act
 4 Spell Queller
-1 Anguished Unmaking
-1 Thalia, Heretic Cathar
-2 Kunoros, Hound of Athreos
-2 Kaya, Orzhov Usurper
-3 Glory-Bound Initiate
-4 Gideon, Ally of Zendikar
-1 Kiora, Behemoth Beckoner
-1 Klothys, God of Destiny
-1 Bonders' Enclave
-1 Rekindling Phoenix
-1 Xenagos, the Reveler
-2 Kiora, Behemoth Beckoner
-2 Klothys, God of Destiny
-2 Scavenging Ooze
-2 Xenagos, the Reveler
-2 Bonders' Enclave
-2 Rekindling Phoenix
-3 Glorybringer
-3 Rootbound Crag
-3 Rekindling Phoenix
-4 Glorybringer
-4 Rootbound Crag
-4 Rekindling Phoenix
+4 Censor
 1 Paradise Druid
 1 Trostani Discordant
-1 Castle Garenbrig
 1 Canopy Vista
 1 Worldspine Wurm
+1 Castle Garenbrig
 1 Dragonlord Dromoka
-1 Ulamog, the Ceaseless Hunger
 1 Dubious Challenge
 1 See the Unwritten
-2 Castle Garenbrig
+1 Ulamog, the Ceaseless Hunger
 2 Paradise Druid
+2 Castle Garenbrig
 2 Trostani Discordant
+2 Worldspine Wurm
 2 Dubious Challenge
 2 Ulamog, the Ceaseless Hunger
-2 Worldspine Wurm
 2 See the Unwritten
 2 Canopy Vista
 3 Castle Garenbrig
@@ -548,81 +565,38 @@
 4 Dubious Challenge
 4 See the Unwritten
 4 Worldspine Wurm
-1 Curious Obsession
-1 Staggering Insight
-1 Cartouche of Solidarity
-1 Siren Stormtamer
-1 Ethereal Armor
-1 Karametra's Blessing
-1 Ornithopter
-2 Curious Obsession
-2 Staggering Insight
-2 Karametra's Blessing
-2 Ethereal Armor
-2 Ornithopter
-2 Cartouche of Solidarity
-2 Siren Stormtamer
-3 Staggering Insight
-3 Curious Obsession
-3 Ornithopter
-3 Cartouche of Solidarity
-3 Ethereal Armor
-3 Siren Stormtamer
-3 Karametra's Blessing
-4 Staggering Insight
-4 Curious Obsession
-4 Ornithopter
-4 Karametra's Blessing
-4 Ethereal Armor
-1 Toolcraft Exemplar
-1 Spirebluff Canal
-1 Ensoul Artifact
-1 Spire of Industry
-1 Bomat Courier
-1 Darksteel Citadel
-1 Hope of Ghirapur
-1 Stubborn Denial
-2 Toolcraft Exemplar
-2 Hope of Ghirapur
-2 Stubborn Denial
-2 Spire of Industry
-2 Ensoul Artifact
-2 Bomat Courier
-2 Darksteel Citadel
-3 Toolcraft Exemplar
-3 Stubborn Denial
-3 Spire of Industry
-3 Darksteel Citadel
-3 Ensoul Artifact
-3 Ghostfire Blade
-3 Bomat Courier
-4 Mana Confluence
-4 Toolcraft Exemplar
-4 Darksteel Citadel
-4 Bomat Courier
-4 Ghostfire Blade
-4 Ensoul Artifact
-4 Spire of Industry
+1 Sacred Foundry
+1 Flourishing Fox
+1 Zenith Flare
 1 Drannith Healer
+1 Valiant Rescuer
 1 Inspiring Vantage
-1 Djeru's Renunciation
 1 Drannith Stinger
 1 Battlefield Forge
-1 Valiant Rescuer
 1 Flameblade Adept
+1 Djeru's Renunciation
 1 Go for Blood
+1 Cast Out
 1 Hollow One
 1 Footfall Crater
+2 Zenith Flare
+2 Flourishing Fox
+2 Sacred Foundry
 2 Drannith Healer
-2 Drannith Stinger
+2 Valiant Rescuer
 2 Go for Blood
 2 Footfall Crater
+2 Drannith Stinger
 2 Flameblade Adept
 2 Battlefield Forge
 2 Djeru's Renunciation
+2 Cast Out
 2 Inspiring Vantage
 2 Hollow One
-2 Valiant Rescuer
+3 Flourishing Fox
+3 Zenith Flare
+3 Sacred Foundry
+3 Valiant Rescuer
 3 Inspiring Vantage
 3 Hollow One
 3 Drannith Stinger
@@ -630,9 +604,12 @@
 3 Drannith Healer
 3 Footfall Crater
 3 Battlefield Forge
-3 Valiant Rescuer
 3 Flameblade Adept
 3 Djeru's Renunciation
+3 Cast Out
+4 Sacred Foundry
+4 Zenith Flare
+4 Flourishing Fox
 4 Drannith Healer
 4 Djeru's Renunciation
 4 Drannith Stinger
@@ -642,15 +619,16 @@
 4 Go for Blood
 4 Battlefield Forge
 4 Footfall Crater
-1 Rhonas the Indomitable
-1 Gifted Aetherborn
+1 Grisly Salvage
 1 Commune with the Gods
 1 Nullhide Ferox
+1 Gifted Aetherborn
 1 Soulflayer
 1 Gather the Pack
 1 Lotleth Troll
-2 Gifted Aetherborn
+2 Grisly Salvage
 2 Nullhide Ferox
+2 Gifted Aetherborn
 2 Lotleth Troll
 2 Zetalpa, Primal Dawn
 2 Gather the Pack
@@ -660,77 +638,42 @@
 3 Questing Beast
 3 Zetalpa, Primal Dawn
 3 Gather the Pack
+3 Grisly Salvage
 3 Soulflayer
 3 Lotleth Troll
+4 Grisly Salvage
 4 Lotleth Troll
 4 Zetalpa, Primal Dawn
 4 Gather the Pack
 4 Woodland Cemetery
 4 Soulflayer
-1 Hero's Downfall
-1 Abrupt Decay
-1 Thassa's Oracle
-1 Opt
-1 Inverter of Truth
-1 Zagoth Triome
-1 Hinterland Harbor
-1 Jace, Wielder of Mysteries
-2 Zagoth Triome
-2 Thought Erasure
-2 Inverter of Truth
-2 Hinterland Harbor
-2 Thassa's Oracle
-2 Opt
-2 Jace, Wielder of Mysteries
-2 Abrupt Decay
-2 Hero's Downfall
-3 Abrupt Decay
-3 Hinterland Harbor
-3 Jace, Wielder of Mysteries
-3 Uro, Titan of Nature's Wrath
-3 Breeding Pool
-3 Zagoth Triome
-3 Inverter of Truth
-3 Thassa's Oracle
-3 Opt
-4 Thassa's Oracle
-4 Abrupt Decay
-4 Uro, Titan of Nature's Wrath
-4 Breeding Pool
-4 Zagoth Triome
-4 Inverter of Truth
-4 Opt
 1 Deathrite Shaman
 1 Fourth Bridge Prowler
 2 Urborg, Tomb of Yawgmoth
 2 Deathrite Shaman
 3 Deathrite Shaman
-3 Castle Locthwain
-4 Scrapheap Scrounger
 4 Deathrite Shaman
-4 Swamp
-4 Castle Locthwain
 5 Swamp
 6 Swamp
 1 Geier Reach Sanitarium
+1 Karn, the Great Creator
 1 Blast Zone
+1 Gideon's Intervention
 1 Karn's Bastion
 1 Shatter the Sky
 1 Lurrus of the Dream-Den
-1 Gideon's Intervention
 1 Authority of the Consuls
 1 Weatherlight
 1 Hushbringer
 1 Swallow Whole
 1 Spear of Heliod
 1 Idyllic Grange
-1 Karn, the Great Creator
+2 Karn, the Great Creator
 2 Blast Zone
 2 Authority of the Consuls
 2 Lurrus of the Dream-Den
 2 Idyllic Grange
 2 Hushbringer
-2 Karn, the Great Creator
 3 Blast Zone
 3 Lurrus of the Dream-Den
 3 Authority of the Consuls
@@ -742,19 +685,19 @@
 1 Ash Zealot
 1 Anax, Hardened in the Forge
 1 Leyline of Combustion
-1 Eidolon of the Great Revel
 1 Fanatic of Mogis
+1 Torbran, Thane of Red Fell
 1 Castle Embereth
+1 Eidolon of the Great Revel
 1 Ramunap Ruins
 1 Boros Reckoner
-1 Torbran, Thane of Red Fell
 2 Anax, Hardened in the Forge
 2 Ash Zealot
 2 Leyline of Combustion
 2 Castle Embereth
 2 Boros Reckoner
-2 Torbran, Thane of Red Fell
 2 Fanatic of Mogis
+2 Torbran, Thane of Red Fell
 2 Eidolon of the Great Revel
 2 Ramunap Ruins
 3 Anax, Hardened in the Forge
@@ -783,3 +726,34 @@
 13 Mountain
 14 Mountain
 15 Mountain
+1 Nissa, Who Shakes the World
+1 Llanowar Visionary
+1 The Great Henge
+1 Genesis Hydra
+1 Voracious Hydra
+1 Elvish Visionary
+2 Elvish Visionary
+2 Llanowar Visionary
+2 Voracious Hydra
+2 Nissa, Who Shakes the World
+2 Genesis Hydra
+2 The Great Henge
+3 Elvish Visionary
+3 Llanowar Visionary
+3 Nissa, Who Shakes the World
+3 Genesis Hydra
+3 Voracious Hydra
+3 The Great Henge
+4 Elvish Visionary
+4 Llanowar Visionary
+4 Nissa, Who Shakes the World
+4 Genesis Hydra
+9 Forest
+10 Forest
+11 Forest
+12 Forest
+13 Forest
+14 Forest
+15 Forest
+16 Forest
+17 Forest

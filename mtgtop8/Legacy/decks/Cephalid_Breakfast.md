@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                    Sideboard Card                                    |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------|
-|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                    1|[Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48146) |
-|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)    |                    1|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)|
+|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)    |                    1|[Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48146) |
+|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                    1|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)|
 |                    2|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)             |                    2|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)|
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102) |                     |                                                                                      |
 |                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)   |                     |                                                                                      |

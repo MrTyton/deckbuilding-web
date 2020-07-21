@@ -13,6 +13,9 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+1 Giver of Runes
+2 Giver of Runes
+3 Giver of Runes
 4 Snow-Covered Plains
 1 Sword of Feast and Famine
 5 Snow-Covered Plains
@@ -20,16 +23,13 @@
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
-1 Giver of Runes
-2 Giver of Runes
-3 Giver of Runes
 1 Sunbaked Canyon
 1 Gemstone Caverns
 1 Reality Smasher
 1 Simian Spirit Guide
 1 Chalice of the Void
-2 Gemstone Caverns
 2 Reality Smasher
+2 Gemstone Caverns
 2 Simian Spirit Guide
 2 Chalice of the Void
 3 Chalice of the Void
@@ -38,6 +38,7 @@
 4 Chalice of the Void
 4 Reality Smasher
 4 Simian Spirit Guide
+4 Plains
 4 Charming Prince
 2 Sunbaked Canyon
 1 Dismember
@@ -52,15 +53,16 @@
 3 Battlefield Forge
 4 Sunbaked Canyon
 4 Battlefield Forge
-4 Plains
+1 Horizon Canopy
+1 Scavenger Grounds
 1 Snow-Covered Swamp
 1 Dark Confidant
 1 Spirit of the Labyrinth
 1 Luminous Broodmoth
 2 Dark Confidant
 3 Dark Confidant
-1 Sacred Foundry
 1 Bonecrusher Giant
+1 Sacred Foundry
 2 Bonecrusher Giant
 3 Bonecrusher Giant
 4 Bonecrusher Giant
@@ -68,7 +70,6 @@
 1 Cast Out
 1 Aven Mindcensor
 1 Rest in Peace
-1 Scavenger Grounds
 1 Blast Zone
 1 Eternal Scourge
 1 Winds of Abandon
@@ -81,20 +82,25 @@
 3 Eternal Scourge
 3 Scavenger Grounds
 4 Eternal Scourge
-1 Horizon Canopy
+1 Containment Priest
+2 Containment Priest
+2 Horizon Canopy
+5 Plains
+6 Plains
 1 Shambling Vent
 1 Blade Splicer
 1 Kor Firewalker
 1 Mirran Crusader
 2 Shambling Vent
 2 Kor Firewalker
-1 Containment Priest
 1 Cavern of Souls
-2 Containment Priest
 3 Dismember
 1 Sword of Light and Shadow
-2 Horizon Canopy
-5 Plains
-6 Plains
-7 Plains
 3 Horizon Canopy
+7 Plains
+1 Field of Ruin
+1 Thraben Inspector
+1 Restoration Angel
+2 Thraben Inspector
+2 Restoration Angel
+4 Giver of Runes
