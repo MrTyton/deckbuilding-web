@@ -38,11 +38,11 @@
 1 Castle Garenbrig
 1 Swamp
 2 Swamp
-1 Island
-2 Island
 2 Fabled Passage
 3 Fabled Passage
 4 Fabled Passage
+1 Island
+2 Island
 1 Watery Grave
 2 Watery Grave
 3 Watery Grave
@@ -53,12 +53,10 @@
 1 Ketria Triome
 1 Extinction Event
 2 Extinction Event
-1 Overgrown Tomb
-2 Overgrown Tomb
-3 Overgrown Tomb
 1 Uro, Titan of Nature's Wrath
 1 Zagoth Triome
 1 Hydroid Krasis
+1 Overgrown Tomb
 1 Cavalier of Thorns
 1 Negate
 1 Aether Gust
@@ -70,10 +68,11 @@
 1 Leafkin Druid
 1 Thought Erasure
 1 Temple of Malady
-2 Zagoth Triome
 2 Uro, Titan of Nature's Wrath
+2 Zagoth Triome
 2 Hydroid Krasis
 2 Nissa, Who Shakes the World
+2 Overgrown Tomb
 2 Cavalier of Thorns
 2 Negate
 2 Aether Gust
@@ -87,16 +86,18 @@
 2 Ketria Triome
 3 Uro, Titan of Nature's Wrath
 3 Zagoth Triome
+3 Overgrown Tomb
 3 Hydroid Krasis
 3 Risen Reef
 3 Leafkin Druid
 3 Cavalier of Thorns
-3 Casualties of War
 3 Temple of Malady
+3 Breeding Pool
 3 Growth Spiral
 3 Ketria Triome
+3 Casualties of War
 3 Thought Erasure
-3 Breeding Pool
+4 Casualties of War
 4 Cavalier of Thorns
 4 Ketria Triome
 4 Uro, Titan of Nature's Wrath
@@ -106,7 +107,6 @@
 4 Risen Reef
 4 Leafkin Druid
 4 Temple of Malady
-4 Casualties of War
 4 Breeding Pool
 4 Growth Spiral
 4 Gingerbrute
@@ -141,12 +141,10 @@
 5 Swamp
 6 Swamp
 7 Swamp
+2 Castle Locthwain
 3 Island
 4 Island
 5 Island
-2 Castle Locthwain
-6 Island
-7 Island
 1 Sea-Dasher Octopus
 1 Pouncing Shoreshark
 1 Dirge Bat
@@ -163,37 +161,22 @@
 4 Sea-Dasher Octopus
 4 Cunning Nightbonder
 4 Slitherwisp
-1 Neutralize
-2 Neutralize
-1 Brazen Borrower
-1 Brineborn Cutthroat
-2 Brazen Borrower
-2 Brineborn Cutthroat
-3 Brazen Borrower
-3 Brineborn Cutthroat
-4 Brazen Borrower
-4 Brineborn Cutthroat
-1 Quench
-2 Quench
-3 Neutralize
-3 Quench
-4 Quench
-8 Island
+6 Island
+7 Island
 1 Stonecoil Serpent
 2 Stonecoil Serpent
+7 Plains
+8 Plains
+2 Fervent Champion
+3 Fervent Champion
+4 Fervent Champion
 1 Godless Shrine
 2 Godless Shrine
 3 Godless Shrine
 4 Godless Shrine
-2 Fervent Champion
-3 Fervent Champion
-4 Fervent Champion
-7 Plains
-8 Plains
 1 Knight of the Ebon Legion
 2 Knight of the Ebon Legion
 1 Radiant Fountain
-1 Yidaro, Wandering Monster
 1 Robber of the Rich
 1 Scorching Dragonfire
 1 Sporeweb Weaver
@@ -205,45 +188,31 @@
 1 Legion Warboss
 2 Legion Warboss
 3 Legion Warboss
-1 Temple of Malice
+1 Murderous Rider
 1 Call of the Death-Dweller
 1 Claim the Firstborn
+1 Temple of Malice
 1 Dreadhorde Butcher
 1 Fiend Artisan
-1 Murderous Rider
 1 Gutterbones
 1 Lazotep Reaver
-2 Temple of Malice
-2 Claim the Firstborn
-2 Fiend Artisan
 2 Murderous Rider
+2 Claim the Firstborn
+2 Temple of Malice
+2 Fiend Artisan
 2 Gutterbones
-3 Temple of Malice
 3 Claim the Firstborn
+3 Temple of Malice
 3 Fiend Artisan
 4 Temple of Malice
 4 Claim the Firstborn
-1 Bolt Hound
 1 Pack Leader
-2 Bolt Hound
+1 Bolt Hound
 2 Pack Leader
+2 Bolt Hound
 3 Bolt Hound
 3 Pack Leader
 4 Pack Leader
-1 Spectral Sailor
-1 Heartless Act
-1 Ashiok's Erasure
-2 Spectral Sailor
-2 Ashiok's Erasure
-2 Heartless Act
-2 Temple of Deceit
-3 Spectral Sailor
-3 Mystical Dispute
-3 Heartless Act
-3 Temple of Deceit
-4 Temple of Deceit
-4 Spectral Sailor
-4 Heartless Act
 1 Cruel Celebrant
 1 Luminous Broodmoth
 1 Mythos of Snapdax
@@ -254,115 +223,44 @@
 2 Midnight Reaper
 2 Mythos of Snapdax
 2 Serrated Scorpion
-3 Serrated Scorpion
 3 Cruel Celebrant
 3 Midnight Reaper
 3 Mythos of Snapdax
-4 Serrated Scorpion
+3 Serrated Scorpion
 4 Cruel Celebrant
+4 Serrated Scorpion
 4 Midnight Reaper
-3 Stonecoil Serpent
-1 Blast Zone
-1 Mystic Forge
-1 Ugin, the Spirit Dragon
-1 Solemn Simulacrum
-1 Crystalline Giant
-1 Palladium Myr
-1 Karn's Bastion
-1 Steel Overseer
-1 Ugin, the Ineffable
-1 Mobilized District
-1 Interplanar Beacon
-2 Mobilized District
-2 Mystic Forge
-2 Ugin, the Ineffable
-2 Ugin, the Spirit Dragon
-2 Solemn Simulacrum
-2 Crystalline Giant
-2 Karn's Bastion
-2 Palladium Myr
-2 Radiant Fountain
-2 Steel Overseer
-2 Interplanar Beacon
-3 Mystic Forge
-3 Solemn Simulacrum
-3 Palladium Myr
-3 Crystalline Giant
-3 Radiant Fountain
-3 Steel Overseer
-3 Ugin, the Spirit Dragon
-3 Ugin, the Ineffable
-3 Karn's Bastion
-3 Interplanar Beacon
-4 Mystic Forge
-4 Ugin, the Ineffable
-4 Radiant Fountain
-4 Palladium Myr
-4 Solemn Simulacrum
-4 Ugin, the Spirit Dragon
-4 Crystalline Giant
-4 Stonecoil Serpent
-4 Steel Overseer
-4 Interplanar Beacon
-4 Karn's Bastion
-1 Castle Ardenvale
-1 All That Glitters
-1 Alseid of Life's Bounty
-1 Sentinel's Eyes
-1 Karametra's Blessing
-2 All That Glitters
-2 Sentinel's Eyes
-2 Karametra's Blessing
-2 Alseid of Life's Bounty
-3 Sentinel's Eyes
-3 Karametra's Blessing
-3 All That Glitters
-3 Alseid of Life's Bounty
-4 Karametra's Blessing
-4 All That Glitters
-4 Alseid of Life's Bounty
-1 Indatha Triome
-1 Setessan Training
-1 Hateful Eidolon
-1 Kaya's Ghostform
-1 Season of Growth
-1 Dead Weight
-1 Aphemia, the Cacophony
-1 Pious Wayfarer
-1 Starfield Mystic
-1 Temple Garden
-2 Indatha Triome
-2 Setessan Training
-2 Hateful Eidolon
-2 Kaya's Ghostform
-2 Season of Growth
-2 Dead Weight
-2 Pious Wayfarer
-2 Starfield Mystic
-2 Aphemia, the Cacophony
-2 Temple Garden
-3 Indatha Triome
-3 Setessan Training
-3 Hateful Eidolon
-3 Season of Growth
-3 Dead Weight
-3 Starfield Mystic
-3 Aphemia, the Cacophony
-3 Temple Garden
-3 Pious Wayfarer
-4 Setessan Training
-4 Season of Growth
-4 Hateful Eidolon
-4 Temple Garden
+1 Spectral Sailor
+1 Heartless Act
+1 Brazen Borrower
+1 Brineborn Cutthroat
+1 Ashiok's Erasure
+2 Spectral Sailor
+2 Brazen Borrower
+2 Ashiok's Erasure
+2 Heartless Act
+2 Temple of Deceit
+2 Brineborn Cutthroat
+3 Spectral Sailor
+3 Brazen Borrower
+3 Mystical Dispute
+3 Heartless Act
+3 Temple of Deceit
+3 Brineborn Cutthroat
+4 Temple of Deceit
+4 Spectral Sailor
+4 Brazen Borrower
+4 Heartless Act
+4 Brineborn Cutthroat
 1 Fight as One
 1 Foulmire Knight
 1 Stormfist Crusader
+1 Smitten Swordmaster
 1 Blacklance Paragon
 1 Inspiring Veteran
 1 Worthy Knight
 1 Dire Tactics
 1 Tournament Grounds
-1 Smitten Swordmaster
 1 Venerable Knight
 2 Fight as One
 2 Dire Tactics
@@ -390,20 +288,51 @@
 4 Stormfist Crusader
 4 Knight of the Ebon Legion
 4 Blacklance Paragon
-1 Voracious Greatshark
-1 Thryx, the Sudden Storm
-1 Unsummon
-1 Castle Vantress
-2 Voracious Greatshark
-2 Pouncing Shoreshark
-2 Unsummon
-2 Castle Vantress
-3 Voracious Greatshark
-3 Unsummon
-4 Neutralize
-4 Voracious Greatshark
-4 Dirge Bat
-4 Unsummon
+1 Yidaro, Wandering Monster
+3 Stonecoil Serpent
+1 Blast Zone
+1 Mystic Forge
+1 Ugin, the Spirit Dragon
+1 Solemn Simulacrum
+1 Crystalline Giant
+1 Karn's Bastion
+1 Palladium Myr
+1 Steel Overseer
+1 Ugin, the Ineffable
+1 Mobilized District
+1 Interplanar Beacon
+2 Mystic Forge
+2 Mobilized District
+2 Ugin, the Ineffable
+2 Ugin, the Spirit Dragon
+2 Solemn Simulacrum
+2 Crystalline Giant
+2 Karn's Bastion
+2 Steel Overseer
+2 Palladium Myr
+2 Radiant Fountain
+2 Interplanar Beacon
+3 Mystic Forge
+3 Solemn Simulacrum
+3 Radiant Fountain
+3 Ugin, the Spirit Dragon
+3 Ugin, the Ineffable
+3 Steel Overseer
+3 Palladium Myr
+3 Crystalline Giant
+3 Karn's Bastion
+3 Interplanar Beacon
+4 Mystic Forge
+4 Ugin, the Ineffable
+4 Solemn Simulacrum
+4 Ugin, the Spirit Dragon
+4 Stonecoil Serpent
+4 Steel Overseer
+4 Radiant Fountain
+4 Palladium Myr
+4 Karn's Bastion
+4 Interplanar Beacon
+4 Crystalline Giant
 1 Zhur-Taa Goblin
 1 Thrashing Brontodon
 1 Pelt Collector
@@ -417,23 +346,28 @@
 3 Pelt Collector
 4 Temple of Abandon
 4 Stomping Ground
-1 Steam Vents
+1 Neutralize
+2 Neutralize
+1 Castle Ardenvale
+1 Indatha Triome
 1 Shark Typhoon
 1 Go for Blood
 1 Ominous Seas
 1 Raugrin Triome
+1 Steam Vents
 1 Hallowed Fountain
 1 Flourishing Fox
 1 Savai Triome
-1 Drannith Stinger
 1 Sanctuary Smasher
 1 Valiant Rescuer
+1 Drannith Stinger
 1 Drannith Healer
 1 Zenith Flare
 1 Boon of the Wish-Giver
 1 Footfall Crater
 2 Yidaro, Wandering Monster
 2 Ominous Seas
+2 Drannith Stinger
 2 Go for Blood
 2 Boon of the Wish-Giver
 2 Valiant Rescuer
@@ -443,7 +377,6 @@
 2 Hallowed Fountain
 2 Footfall Crater
 2 Flourishing Fox
-2 Drannith Stinger
 3 Yidaro, Wandering Monster
 3 Boon of the Wish-Giver
 3 Flourishing Fox
@@ -458,39 +391,29 @@
 4 Zenith Flare
 4 Flourishing Fox
 4 Valiant Rescuer
+4 Drannith Stinger
 4 Drannith Healer
 4 Go for Blood
-4 Drannith Stinger
-1 Opt
-1 Ionize
-1 Shock
-1 Omen of the Sea
-1 Temple of Epiphany
-1 The Royal Scions
-1 Sprite Dragon
-2 Opt
-2 Ionize
-2 Shock
-2 The Royal Scions
-2 Steam Vents
-2 Omen of the Sea
-2 Sprite Dragon
-2 Temple of Epiphany
-3 Omen of the Sea
-3 Opt
-3 Temple of Epiphany
-3 Ionize
-3 Sprite Dragon
-3 Shock
-3 Steam Vents
-4 Omen of the Sea
-4 Opt
-4 Ionize
-4 Temple of Epiphany
-4 Sprite Dragon
-4 Steam Vents
-4 Shock
-9 Island
+1 Voracious Greatshark
+1 Thryx, the Sudden Storm
+1 Quench
+1 Unsummon
+1 Castle Vantress
+2 Voracious Greatshark
+2 Pouncing Shoreshark
+2 Unsummon
+2 Quench
+2 Castle Vantress
+3 Voracious Greatshark
+3 Neutralize
+3 Quench
+3 Unsummon
+4 Quench
+4 Neutralize
+4 Voracious Greatshark
+4 Dirge Bat
+4 Unsummon
+8 Island
 1 Garruk, Unleashed
 1 Cultivate
 1 Arboreal Grazer
@@ -508,21 +431,36 @@
 11 Forest
 1 Healer's Hawk
 1 Gods Willing
+1 All That Glitters
+1 Alseid of Life's Bounty
+1 Sentinel's Eyes
+1 Karametra's Blessing
 1 Shadowspear
 1 Glaring Aegis
 1 Solid Footing
 2 Healer's Hawk
 2 Gods Willing
+2 All That Glitters
+2 Sentinel's Eyes
+2 Karametra's Blessing
+2 Alseid of Life's Bounty
 2 Solid Footing
 2 Glaring Aegis
 3 Healer's Hawk
 3 Gods Willing
+3 Sentinel's Eyes
+3 Karametra's Blessing
+3 All That Glitters
+3 Alseid of Life's Bounty
 3 Glaring Aegis
 3 Solid Footing
 4 Healer's Hawk
+4 Karametra's Blessing
+4 All That Glitters
 4 Sentinel's Eyes
 4 Glaring Aegis
 4 Solid Footing
+4 Alseid of Life's Bounty
 9 Plains
 10 Plains
 11 Plains

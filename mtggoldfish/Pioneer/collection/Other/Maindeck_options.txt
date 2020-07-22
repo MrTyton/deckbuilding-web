@@ -104,8 +104,8 @@
 4 Swamp
 4 Castle Locthwain
 1 Liliana, Waker of the Dead
-1 Blood Crypt
 1 Collective Brutality
+1 Blood Crypt
 1 Eliminate
 1 Davriel, Rogue Shadowmage
 1 Waste Not
@@ -126,13 +126,13 @@
 2 Hazoret the Fervent
 2 Dragonskull Summit
 3 Eliminate
+3 Liliana, Waker of the Dead
 3 Kroxa, Titan of Death's Hunger
+3 Kolaghan's Command
 3 Waste Not
 3 Davriel, Rogue Shadowmage
 3 Dragonskull Summit
 3 Blood Crypt
-3 Liliana, Waker of the Dead
-3 Kolaghan's Command
 4 Kroxa, Titan of Death's Hunger
 4 Waste Not
 4 Blood Crypt
@@ -225,7 +225,6 @@
 3 Sylvan Caryatid
 4 Sylvan Caryatid
 1 Ishkanah, Grafwidow
-1 Discovery/Dispersal
 1 Nissa, Vastwood Seer
 1 Courser of Kruphix
 1 Siege Rhino
@@ -237,22 +236,23 @@
 1 Brain Maggot
 1 Tireless Tracker
 1 Traverse the Ulvenwald
+1 Discovery/Dispersal
 1 Greenwarden of Murasa
 1 Indatha Triome
 1 Kalitas, Traitor of Ghet
 2 Indatha Triome
 2 Courser of Kruphix
 2 Siege Rhino
-2 Discovery/Dispersal
 2 Liliana, the Last Hope
 2 Glass Casket
 2 Vraska, Golgari Queen
 2 Traverse the Ulvenwald
+2 Discovery/Dispersal
 3 Indatha Triome
+3 Discovery/Dispersal
 3 Siege Rhino
 3 Traverse the Ulvenwald
 3 Vraska, Golgari Queen
-3 Discovery/Dispersal
 3 Courser of Kruphix
 4 Traverse the Ulvenwald
 4 Discovery/Dispersal
@@ -364,29 +364,6 @@
 1 Kunoros, Hound of Athreos
 1 Glory-Bound Initiate
 2 Glory-Bound Initiate
-1 Glorybringer
-1 Chandra, Torch of Defiance
-2 Glorybringer
-2 Chandra, Torch of Defiance
-1 Mana Confluence
-1 Klothys, God of Destiny
-1 Xenagos, the Reveler
-1 Rekindling Phoenix
-1 Bonders' Enclave
-1 Kiora, Behemoth Beckoner
-2 Mana Confluence
-2 Klothys, God of Destiny
-2 Bonders' Enclave
-2 Rekindling Phoenix
-2 Kiora, Behemoth Beckoner
-2 Xenagos, the Reveler
-3 Rekindling Phoenix
-3 Glorybringer
-3 Rootbound Crag
-4 Gruul Spellbreaker
-4 Rekindling Phoenix
-4 Glorybringer
-4 Rootbound Crag
 1 Ipnu Rivulet
 1 Reflector Mage
 1 Thalia's Lieutenant
@@ -407,11 +384,34 @@
 3 Elite Guardmage
 3 Thalia's Lieutenant
 3 Reflector Mage
-3 Thassa, Deep-Dwelling
 3 Militia Bugler
+3 Thassa, Deep-Dwelling
 4 Thalia's Lieutenant
 4 Reflector Mage
 4 Militia Bugler
+1 Glorybringer
+1 Chandra, Torch of Defiance
+2 Glorybringer
+2 Chandra, Torch of Defiance
+1 Mana Confluence
+1 Klothys, God of Destiny
+1 Xenagos, the Reveler
+1 Rekindling Phoenix
+1 Bonders' Enclave
+1 Kiora, Behemoth Beckoner
+2 Mana Confluence
+2 Klothys, God of Destiny
+2 Bonders' Enclave
+2 Rekindling Phoenix
+2 Kiora, Behemoth Beckoner
+2 Xenagos, the Reveler
+3 Rekindling Phoenix
+3 Glorybringer
+3 Rootbound Crag
+4 Gruul Spellbreaker
+4 Glorybringer
+4 Rekindling Phoenix
+4 Rootbound Crag
 1 Yavimaya Coast
 1 Elvish Rejuvenator
 1 Botanical Sanctum
@@ -420,10 +420,10 @@
 1 Massacre Girl
 1 Cavalier of Gales
 1 Reclamation Sage
-1 Cavalier of Night
 1 Arboreal Grazer
 1 Grapple with the Past
 1 Eldritch Evolution
+1 Cavalier of Night
 1 Hostage Taker
 1 Woodland Bellower
 1 Thought-Knot Seer
@@ -474,8 +474,8 @@
 1 Azorius Charm
 1 Raugrin Triome
 2 Azorius Charm
-2 Sulfur Falls
 2 Raugrin Triome
+2 Sulfur Falls
 2 Nimble Obstructionist
 2 Castle Vantress
 2 Settle the Wreckage
@@ -486,34 +486,6 @@
 4 Azorius Charm
 4 Hieroglyphic Illumination
 4 Cast Out
-1 Grisly Salvage
-1 Lotleth Troll
-1 Soulflayer
-1 Commune with the Gods
-1 Nullhide Ferox
-1 Gifted Aetherborn
-1 Gather the Pack
-2 Grisly Salvage
-2 Soulflayer
-2 Lotleth Troll
-2 Zetalpa, Primal Dawn
-2 Nullhide Ferox
-2 Gifted Aetherborn
-2 Gather the Pack
-2 Commune with the Gods
-3 Woodland Cemetery
-3 Questing Beast
-3 Lotleth Troll
-3 Soulflayer
-3 Zetalpa, Primal Dawn
-3 Gather the Pack
-3 Grisly Salvage
-4 Soulflayer
-4 Lotleth Troll
-4 Zetalpa, Primal Dawn
-4 Grisly Salvage
-4 Gather the Pack
-4 Woodland Cemetery
 1 Temple of Deceit
 1 The Scarab God
 1 Karn, Scion of Urza
@@ -560,26 +532,26 @@
 1 Ulamog, the Ceaseless Hunger
 2 Sunpetal Grove
 2 Ulamog, the Ceaseless Hunger
+2 Worldspine Wurm
 2 Paradise Druid
 2 Trostani Discordant
 2 Dubious Challenge
-2 Worldspine Wurm
 2 See the Unwritten
 2 Canopy Vista
 3 Castle Garenbrig
+3 Worldspine Wurm
 3 Sunpetal Grove
 3 Paradise Druid
 3 Dubious Challenge
 3 See the Unwritten
 3 Trostani Discordant
-3 Worldspine Wurm
 4 Castle Garenbrig
+4 Worldspine Wurm
 4 Sunpetal Grove
 4 Paradise Druid
 4 Trostani Discordant
 4 Dubious Challenge
 4 See the Unwritten
-4 Worldspine Wurm
 1 Drannith Healer
 1 Valiant Rescuer
 1 Inspiring Vantage
@@ -619,6 +591,34 @@
 4 Go for Blood
 4 Battlefield Forge
 4 Footfall Crater
+1 Grisly Salvage
+1 Commune with the Gods
+1 Nullhide Ferox
+1 Gifted Aetherborn
+1 Soulflayer
+1 Gather the Pack
+1 Lotleth Troll
+2 Grisly Salvage
+2 Nullhide Ferox
+2 Gifted Aetherborn
+2 Lotleth Troll
+2 Zetalpa, Primal Dawn
+2 Gather the Pack
+2 Commune with the Gods
+2 Soulflayer
+3 Woodland Cemetery
+3 Questing Beast
+3 Zetalpa, Primal Dawn
+3 Gather the Pack
+3 Grisly Salvage
+3 Soulflayer
+3 Lotleth Troll
+4 Lotleth Troll
+4 Zetalpa, Primal Dawn
+4 Grisly Salvage
+4 Gather the Pack
+4 Woodland Cemetery
+4 Soulflayer
 1 Fiend Artisan
 1 Deathrite Shaman
 1 Stitcher's Supplier

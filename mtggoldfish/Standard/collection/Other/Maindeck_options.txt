@@ -1,4 +1,64 @@
-1 Forest
+2 Plains
+3 Plains
+4 Plains
+5 Plains
+6 Plains
+7 Plains
+8 Plains
+9 Plains
+1 Castle Ardenvale
+2 Castle Ardenvale
+1 Unbreakable Formation
+1 Seasoned Hallowblade
+2 Seasoned Hallowblade
+3 Seasoned Hallowblade
+1 Giant Killer
+1 Selfless Savior
+1 Glorious Anthem
+1 Venerated Loxodon
+2 Giant Killer
+2 Venerated Loxodon
+2 Glorious Anthem
+2 Selfless Savior
+3 Selfless Savior
+3 Venerated Loxodon
+3 Castle Ardenvale
+3 Glorious Anthem
+4 Seasoned Hallowblade
+4 Glorious Anthem
+4 Selfless Savior
+10 Plains
+11 Plains
+12 Plains
+13 Plains
+14 Plains
+15 Plains
+16 Plains
+1 Basri's Solidarity
+2 Basri's Solidarity
+1 Hunted Witness
+2 Hunted Witness
+1 Garrison Cat
+1 Raise the Alarm
+2 Raise the Alarm
+2 Unbreakable Formation
+2 Garrison Cat
+3 Unbreakable Formation
+3 Basri's Solidarity
+3 Giant Killer
+3 Hunted Witness
+3 Garrison Cat
+3 Raise the Alarm
+4 Castle Ardenvale
+4 Basri's Solidarity
+4 Hunted Witness
+4 Garrison Cat
+4 Raise the Alarm
+4 Venerated Loxodon
+17 Plains
+4 Mystical Dispute
+4 Giant Killer
+3 Breeding Pool
 2 Forest
 3 Forest
 4 Forest
@@ -7,71 +67,56 @@
 7 Forest
 1 Scavenging Ooze
 2 Scavenging Ooze
-1 Fabled Passage
-2 Fabled Passage
-1 Island
-1 Castle Vantress
-2 Island
+1 Nissa, Who Shakes the World
+2 Nissa, Who Shakes the World
+1 Jolrael, Mwonvuli Recluse
+2 Jolrael, Mwonvuli Recluse
 3 Island
 4 Island
 5 Island
-1 Breeding Pool
-2 Breeding Pool
-1 Nissa, Who Shakes the World
-2 Nissa, Who Shakes the World
-2 Castle Vantress
-3 Breeding Pool
 4 Breeding Pool
-1 Shark Typhoon
-1 Growth Spiral
-2 Growth Spiral
-3 Growth Spiral
-4 Growth Spiral
-2 Shark Typhoon
-3 Shark Typhoon
-1 Uro, Titan of Nature's Wrath
-2 Uro, Titan of Nature's Wrath
-4 Shark Typhoon
-1 Ugin, the Spirit Dragon
-1 Ugin, the Ineffable
-2 Ugin, the Spirit Dragon
 3 Nissa, Who Shakes the World
-1 Zagoth Triome
-2 Zagoth Triome
-3 Uro, Titan of Nature's Wrath
-1 Llanowar Visionary
-2 Llanowar Visionary
-1 Castle Garenbrig
+1 Ugin, the Spirit Dragon
 1 Temple of Mystery
 2 Temple of Mystery
+2 Ugin, the Spirit Dragon
+6 Island
+1 Llanowar Visionary
+2 Llanowar Visionary
 3 Temple of Mystery
 4 Temple of Mystery
-1 Jolrael, Mwonvuli Recluse
-2 Jolrael, Mwonvuli Recluse
+1 Castle Garenbrig
+1 Ugin, the Ineffable
+1 Swamp
+2 Swamp
+1 Zagoth Triome
+1 Hydroid Krasis
+2 Zagoth Triome
+2 Hydroid Krasis
+3 Hydroid Krasis
+4 Hydroid Krasis
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
-3 Fabled Passage
-2 Ugin, the Ineffable
-3 Ugin, the Spirit Dragon
-4 Fabled Passage
-1 Swamp
-6 Island
+3 Aether Gust
+1 Overgrown Tomb
+1 Temple of Malady
+2 Overgrown Tomb
+3 Overgrown Tomb
+4 Overgrown Tomb
 1 Questing Beast
 2 Questing Beast
-1 Stonecoil Serpent
-2 Stonecoil Serpent
-3 Stonecoil Serpent
-1 Temple Garden
-2 Temple Garden
-3 Temple Garden
-4 Temple Garden
-1 Gemrazer
-2 Gemrazer
+7 Island
 8 Forest
 9 Forest
 10 Forest
+1 Gemrazer
+2 Gemrazer
 3 Questing Beast
+1 Stonecoil Serpent
+2 Stonecoil Serpent
+3 Stonecoil Serpent
+1 Fight as One
 1 Pelt Collector
 1 Conclave Mentor
 2 Conclave Mentor
@@ -80,169 +125,74 @@
 3 Conclave Mentor
 4 Conclave Mentor
 4 Pelt Collector
-1 Hydroid Krasis
-2 Hydroid Krasis
-3 Hydroid Krasis
-3 Jolrael, Mwonvuli Recluse
-4 Hydroid Krasis
-1 Temple of Plenty
-2 Temple of Plenty
-3 Scavenging Ooze
-11 Forest
-1 Primal Might
-1 Vivien, Arkbow Ranger
-2 Vivien, Arkbow Ranger
-2 Primal Might
-3 Temple of Plenty
-3 Gemrazer
-4 Stonecoil Serpent
-1 Overgrown Tomb
-2 Swamp
+3 Hallowed Fountain
 1 Elspeth Conquers Death
 2 Elspeth Conquers Death
-7 Island
 1 Solemn Simulacrum
 2 Solemn Simulacrum
-4 Questing Beast
-1 Sublime Epiphany
-2 Sublime Epiphany
-8 Island
-9 Island
-10 Island
-1 Crystalline Giant
-1 Karn, the Great Creator
-1 Renowned Weaponsmith
-1 Mobilized District
-1 Palladium Myr
-1 Radiant Fountain
-2 Crystalline Giant
-2 Palladium Myr
-2 Radiant Fountain
-2 Renowned Weaponsmith
-2 Karn, the Great Creator
-3 Solemn Simulacrum
-3 Ugin, the Ineffable
-3 Crystalline Giant
-3 Palladium Myr
-3 Radiant Fountain
-3 Renowned Weaponsmith
-4 Solemn Simulacrum
-4 Ugin, the Spirit Dragon
-4 Renowned Weaponsmith
-4 Palladium Myr
-4 Radiant Fountain
-11 Island
-12 Island
-13 Island
-1 Heartless Act
-1 Vraska, Golgari Queen
-2 Heartless Act
-2 Vraska, Golgari Queen
-2 Overgrown Tomb
-3 Overgrown Tomb
-4 Overgrown Tomb
-3 Elspeth Conquers Death
-1 Castle Locthwain
-1 Watery Grave
-2 Watery Grave
-1 Godless Shrine
-2 Godless Shrine
-3 Godless Shrine
-1 Aether Gust
+1 Temple of Plenty
+2 Temple of Plenty
 3 Swamp
-1 Fight as One
 3 Llanowar Visionary
+3 Scavenging Ooze
+1 Heartless Act
 1 Indatha Triome
-1 Temple of Malady
+1 Vraska, Golgari Queen
 1 Casualties of War
 2 Indatha Triome
+2 Heartless Act
 2 Casualties of War
+2 Vraska, Golgari Queen
 3 Indatha Triome
 4 Indatha Triome
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-1 Hallowed Fountain
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-2 Hallowed Fountain
-3 Teferi, Time Raveler
-1 Oath of Kaya
-1 Doom Foretold
-2 Doom Foretold
-3 Doom Foretold
-4 Doom Foretold
-2 Aether Gust
-3 Aether Gust
-1 Negate
-1 Mystical Dispute
-2 Negate
-2 Mystical Dispute
-3 Mystical Dispute
-4 Mystical Dispute
-1 Eliminate
-2 Eliminate
-3 Watery Grave
-1 Narset's Reversal
-1 Unsubstantiate
-2 Unsubstantiate
-1 Omen of the Sea
-1 Temple of Enlightenment
-2 Omen of the Sea
-2 Temple of Enlightenment
-3 Omen of the Sea
-4 Omen of the Sea
-3 Zagoth Triome
-4 Zagoth Triome
 1 Elder Gargaroth
 2 Elder Gargaroth
-4 Arboreal Grazer
-1 Heroic Intervention
-2 Castle Garenbrig
-2 Heroic Intervention
+1 Sublime Epiphany
+1 Narset's Reversal
+1 Unsubstantiate
+2 Sublime Epiphany
+2 Unsubstantiate
 1 Gilded Goose
 1 Planewide Celebration
 2 Gilded Goose
 3 Gilded Goose
 4 Gilded Goose
-12 Forest
-13 Forest
-4 Godless Shrine
-1 Mountain
-1 Glass Casket
-2 Glass Casket
-1 Shatter the Sky
-2 Shatter the Sky
-3 Narset, Parter of Veils
-3 Shatter the Sky
-4 Teferi, Time Raveler
-1 Interplanar Beacon
-2 Interplanar Beacon
-3 Interplanar Beacon
-4 Interplanar Beacon
-3 Hallowed Fountain
-4 Elspeth Conquers Death
-4 Hallowed Fountain
+11 Forest
+1 Heroic Intervention
+2 Castle Garenbrig
+2 Heroic Intervention
+3 Elspeth Conquers Death
+2 Ugin, the Ineffable
+3 Ugin, the Spirit Dragon
+8 Island
+9 Island
+10 Island
+1 Omen of the Sea
 1 Mystic Sanctuary
-1 Lazotep Plating
-1 Angel of Grace
 1 Flicker of Fate
-1 Lofty Denial
+1 Angel of Grace
 1 Medomai's Prophecy
 1 Charming Prince
 1 Thryx, the Sudden Storm
 1 Discontinuity
+1 Lazotep Plating
 1 Omen of the Sun
+1 Temple of Enlightenment
 1 The Birth of Meletis
+1 Lofty Denial
+2 Omen of the Sea
 2 Narset's Reversal
-2 Lazotep Plating
+2 Flicker of Fate
+2 Temple of Enlightenment
 2 Lofty Denial
 2 Thryx, the Sudden Storm
-2 Flicker of Fate
+2 Lazotep Plating
 2 Angel of Grace
 2 Mystic Sanctuary
 2 Discontinuity
 2 Medomai's Prophecy
 3 Temple of Enlightenment
+3 Omen of the Sea
 3 Angel of Grace
 3 Unsubstantiate
 3 Lofty Denial
@@ -251,32 +201,27 @@
 3 Lazotep Plating
 3 Sublime Epiphany
 3 Flicker of Fate
+4 Elspeth Conquers Death
+4 Omen of the Sea
 4 Temple of Enlightenment
 4 Discontinuity
+4 Hallowed Fountain
 4 Sublime Epiphany
 4 Unsubstantiate
 4 Flicker of Fate
 4 Lofty Denial
+4 Arboreal Grazer
+1 Godless Shrine
+2 Godless Shrine
+3 Godless Shrine
+1 Castle Locthwain
 2 Castle Locthwain
 1 Temple of Silence
 2 Temple of Silence
-1 Barkhide Troll
-1 Wildwood Scourge
-1 Setessan Training
-2 Wildwood Scourge
-2 Fight as One
-2 Setessan Training
-2 Barkhide Troll
-3 Wildwood Scourge
+3 Jolrael, Mwonvuli Recluse
 1 Angelic Ascension
 2 Angelic Ascension
 3 Angelic Ascension
-1 Treacherous Blessing
-2 Treacherous Blessing
-2 Oath of Kaya
-3 Oath of Kaya
-3 Treacherous Blessing
-4 Treacherous Blessing
 1 Tamiyo, Collector of Tales
 1 Paradise Druid
 1 Spark Double
@@ -287,36 +232,29 @@
 3 Elder Gargaroth
 3 Paradise Druid
 4 Paradise Druid
+1 Primal Might
 1 Basri's Lieutenant
+1 Vivien, Arkbow Ranger
 1 Basri Ket
 1 Growth-Chamber Guardian
+2 Vivien, Arkbow Ranger
 2 Basri's Lieutenant
+2 Primal Might
 2 Growth-Chamber Guardian
 2 Basri Ket
 3 Growth-Chamber Guardian
+3 Temple of Plenty
+3 Gemrazer
 3 Basri's Lieutenant
+4 Stonecoil Serpent
 4 Temple of Plenty
 4 Gemrazer
 4 Growth-Chamber Guardian
-1 Opt
-1 Neutralize
-1 Murderous Rider
-1 Drown in the Loch
-1 Lazav, the Multifarious
-1 Enter the God-Eternals
-1 Foulmire Knight
-2 Opt
-2 Neutralize
-2 Foulmire Knight
-2 Drown in the Loch
-2 Lazav, the Multifarious
-3 Opt
-3 Drown in the Loch
 4 Uro, Titan of Nature's Wrath
-1 Sacred Foundry
-2 Sacred Foundry
-3 Sacred Foundry
-4 Sacred Foundry
+1 Boon of the Wish-Giver
+2 Boon of the Wish-Giver
+4 Teferi, Time Raveler
+4 Godless Shrine
 1 Savai Triome
 1 Blood Crypt
 1 Kitesail Freebooter
@@ -326,9 +264,10 @@
 1 Sorin, Vengeful Bloodlord
 1 Stormfist Crusader
 1 Judith, the Scourge Diva
-1 General Kudro of Drannith
 1 Outlaws' Merriment
+1 General Kudro of Drannith
 1 Hero of Precinct One
+1 Sacred Foundry
 1 Teysa Karlov
 1 General's Enforcer
 1 Bastion of Remembrance
@@ -341,6 +280,7 @@
 2 General Kudro of Drannith
 2 Mountain
 2 Teysa Karlov
+2 Sacred Foundry
 2 Judith, the Scourge Diva
 2 Stormfist Crusader
 2 General's Enforcer
@@ -355,6 +295,7 @@
 3 Hero of Precinct One
 3 General Kudro of Drannith
 3 Teysa Karlov
+3 Sacred Foundry
 3 Stormfist Crusader
 3 Tajic, Legion's Edge
 3 Judith, the Scourge Diva
@@ -362,6 +303,20 @@
 4 Savai Triome
 4 General's Enforcer
 4 Hero of Precinct One
+4 Sacred Foundry
+1 Cultivate
+1 Thought Distortion
+1 Teferi, Master of Time
+1 Watery Grave
+2 Cultivate
+2 Watery Grave
+2 Teferi, Master of Time
+2 Thought Distortion
+3 Cultivate
+3 Zagoth Triome
+4 Cultivate
+4 Aether Gust
+4 Zagoth Triome
 1 Agonizing Remorse
 1 Tolsimir, Friend to Wolves
 1 Polukranos, Unchained
@@ -382,56 +337,20 @@
 4 Agonizing Remorse
 4 Temple of Malady
 4 Mythos of Nethroi
-1 Blast Zone
-1 Mazemind Tome
-1 Golos, Tireless Pilgrim
-1 Chromatic Lantern
-1 Labyrinth of Skophos
-2 Mobilized District
-2 Blast Zone
-2 Mazemind Tome
-2 Chromatic Lantern
-2 Golos, Tireless Pilgrim
-3 Blast Zone
-3 Mobilized District
-4 Crystalline Giant
-1 Raugrin Triome
-1 Steam Vents
-1 Dream Trawler
-1 Justice Strike
-1 Teferi, Master of Time
-1 Narset of the Ancient Way
-1 Sarkhan the Masterless
-1 Deafening Clarion
-2 Raugrin Triome
-2 Dream Trawler
-2 Narset of the Ancient Way
-2 Deafening Clarion
-2 Steam Vents
-2 Sarkhan the Masterless
-3 Raugrin Triome
-3 Glass Casket
-3 Steam Vents
-3 Sarkhan the Masterless
-4 Raugrin Triome
-4 Narset, Parter of Veils
-4 Shatter the Sky
-4 Sarkhan the Masterless
-4 Steam Vents
-1 Ranger's Guile
-1 Ugin's Conjurant
-1 Huatli's Raptor
-2 Huatli's Raptor
-2 Ugin's Conjurant
-3 Huatli's Raptor
-3 Primal Might
-4 Scavenging Ooze
-4 Primal Might
-4 Huatli's Raptor
+1 Oath of Kaya
+1 Doom Foretold
+1 Treacherous Blessing
+2 Doom Foretold
+2 Treacherous Blessing
+2 Oath of Kaya
+3 Oath of Kaya
+3 Doom Foretold
+3 Treacherous Blessing
+4 Treacherous Blessing
+4 Doom Foretold
 1 Nightpack Ambusher
 1 Whirlwind Denial
 1 Essence Scatter
-1 Brazen Borrower
 1 Sinister Sabotage
 2 Brazen Borrower
 2 Nightpack Ambusher
@@ -460,37 +379,17 @@
 4 Gingerbrute
 4 Tithe Taker
 4 Healer's Hawk
-1 Stomping Ground
-1 Extinction Event
-1 Wilderness Reclamation
-1 Thought Distortion
-1 Ketria Triome
-1 Expansion/Explosion
-1 Assassin's Trophy
-2 Stomping Ground
-2 Extinction Event
-2 Expansion/Explosion
-2 Assassin's Trophy
-2 Thought Distortion
-2 Wilderness Reclamation
-2 Ketria Triome
-3 Ketria Triome
-3 Expansion/Explosion
-3 Wilderness Reclamation
-4 Expansion/Explosion
-4 Ketria Triome
-4 Wilderness Reclamation
-1 Atris, Oracle of Half-Truths
-1 Dovin's Veto
-1 Temple of Deceit
-1 Ashiok, Nightmare Muse
-1 Dance of the Manse
-2 Dance of the Manse
-2 Ashiok, Nightmare Muse
-2 Atris, Oracle of Half-Truths
-2 Dovin's Veto
-3 Dovin's Veto
-4 Watery Grave
+1 Barkhide Troll
+1 Wildwood Scourge
+1 Glass Casket
+1 Setessan Training
+2 Fight as One
+2 Glass Casket
+2 Setessan Training
+2 Wildwood Scourge
+2 Barkhide Troll
+3 Wildwood Scourge
+4 Questing Beast
 1 Priest of Forgotten Gods
 1 Liliana's Standard Bearer
 1 Luminous Broodmoth
@@ -505,10 +404,10 @@
 2 Priest of Forgotten Gods
 2 Liliana's Standard Bearer
 2 Cauldron Familiar
+2 Luminous Broodmoth
 2 Call of the Death-Dweller
 2 Vito, Thorn of the Dusk Rose
 2 Woe Strider
-2 Luminous Broodmoth
 2 Serrated Scorpion
 2 Witch's Oven
 2 Village Rites
@@ -522,21 +421,50 @@
 3 Woe Strider
 3 Call of the Death-Dweller
 3 Serrated Scorpion
-4 Cauldron Familiar
 4 Witch's Oven
+4 Cauldron Familiar
 4 Swamp
 4 Priest of Forgotten Gods
 4 Cruel Celebrant
 5 Swamp
+1 Crystalline Giant
+1 Karn, the Great Creator
+1 Renowned Weaponsmith
 1 Karn's Bastion
 1 Mystic Forge
 1 Steel Overseer
+1 Mobilized District
+1 Palladium Myr
+1 Interplanar Beacon
+1 Radiant Fountain
+2 Crystalline Giant
+2 Palladium Myr
+2 Radiant Fountain
+2 Interplanar Beacon
 2 Mystic Forge
 2 Steel Overseer
+2 Renowned Weaponsmith
 2 Karn's Bastion
+2 Karn, the Great Creator
+3 Solemn Simulacrum
+3 Ugin, the Ineffable
+3 Crystalline Giant
+3 Palladium Myr
+3 Interplanar Beacon
 3 Steel Overseer
+3 Radiant Fountain
+3 Renowned Weaponsmith
+4 Solemn Simulacrum
+4 Ugin, the Spirit Dragon
+4 Interplanar Beacon
+4 Renowned Weaponsmith
 4 Ugin, the Ineffable
+4 Palladium Myr
+4 Radiant Fountain
 4 Steel Overseer
+11 Island
+12 Island
+13 Island
 14 Island
 15 Island
 1 Yorvo, Lord of Garenbrig
@@ -548,9 +476,9 @@
 1 Gingerbread Cabin
 2 Gingerbread Cabin
 2 Trail of Crumbs
-2 The Great Henge
 2 Planewide Celebration
 2 Wicked Wolf
+2 The Great Henge
 2 Yorvo, Lord of Garenbrig
 3 Wicked Wolf
 3 Gingerbread Cabin
@@ -561,6 +489,8 @@
 4 Wicked Wolf
 4 Trail of Crumbs
 4 Planewide Celebration
+12 Forest
+13 Forest
 14 Forest
 15 Forest
 16 Forest

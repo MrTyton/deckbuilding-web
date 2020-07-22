@@ -5,29 +5,29 @@
 1 Temple Garden
 1 Snow-Covered Forest
 2 Snow-Covered Forest
-1 Leyline of Abundance
 1 Razorverge Thicket
+1 Leyline of Abundance
 1 Joraga Treespeaker
 1 Umbral Mantle
 1 Devoted Druid
 1 Horizon Canopy
 2 Horizon Canopy
+2 Razorverge Thicket
+2 Temple Garden
 2 Leyline of Abundance
 2 Devoted Druid
-2 Temple Garden
 2 Joraga Treespeaker
-2 Razorverge Thicket
 3 Horizon Canopy
+3 Razorverge Thicket
+3 Temple Garden
 3 Devoted Druid
 3 Leyline of Abundance
-3 Temple Garden
-3 Razorverge Thicket
-4 Horizon Canopy
 4 Razorverge Thicket
+4 Horizon Canopy
 4 Devoted Druid
 4 Ezuri, Renegade Leader
-1 Verdant Catacombs
 1 Windswept Heath
+1 Verdant Catacombs
 1 Wooded Foothills
 1 Westvale Abbey
 1 Beast Whisperer
@@ -36,16 +36,16 @@
 3 Llanowar Wastes
 3 Snow-Covered Forest
 4 Elvish Clancaller
+1 Misty Rainforest
+1 Stomping Ground
 1 Overgrown Tomb
-1 Chord of Calling
 1 Nykthos, Shrine to Nyx
 1 Elvish Champion
 1 Elvish Visionary
-1 Misty Rainforest
-1 Stomping Ground
-2 Chord of Calling
+1 Chord of Calling
 2 Elvish Champion
 2 Elvish Visionary
+2 Chord of Calling
 3 Chord of Calling
 3 Elvish Visionary
 4 Elvish Visionary
@@ -59,8 +59,8 @@
 3 Windswept Heath
 3 Umbral Mantle
 4 Umbral Mantle
-1 Noble Hierarch
 1 Batterskull
+1 Noble Hierarch
 1 Stoneforge Mystic
 2 Wooded Foothills
 2 Stoneforge Mystic

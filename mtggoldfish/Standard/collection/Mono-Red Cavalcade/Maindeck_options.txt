@@ -1,39 +1,41 @@
-2 Embercleave
-3 Forbidden Friendship
-3 Chandra's Pyreling
+3 Chandra, Acolyte of Flame
+4 Castle Embereth
 4 Forbidden Friendship
+3 Chandra's Pyreling
 4 Torbran, Thane of Red Fell
 1 Shock
 2 Shock
 4 Chandra, Acolyte of Flame
-4 Chandra's Pyreling
 4 Anax, Hardened in the Forge
 19 Mountain
+4 Chandra's Pyreling
+1 Robber of the Rich
+2 Robber of the Rich
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 1 Chandra's Spitfire
 2 Chandra's Spitfire
-1 Robber of the Rich
-2 Robber of the Rich
-3 Shock
-3 Bonecrusher Giant
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
-3 Chandra's Spitfire
 3 Robber of the Rich
 4 Robber of the Rich
+3 Bonecrusher Giant
+3 Shock
+3 Chandra's Spitfire
 4 Shock
 1 Goblin Arsonist
 2 Goblin Arsonist
 3 Goblin Arsonist
 4 Goblin Arsonist
 20 Mountain
+3 Runaway Steam-Kin
 4 Chandra's Spitfire
 1 Torch Courier
 2 Torch Courier
 4 Bonecrusher Giant
+1 Subira, Tulzidi Caravanner
 1 Chandra's Incinerator
-3 Runaway Steam-Kin
+3 Embercleave
 4 Runaway Steam-Kin
 1 Legion Warboss
 2 Legion Warboss
@@ -43,12 +45,12 @@
 1 Skewer the Critics
 2 Skewer the Critics
 3 Skewer the Critics
-1 Subira, Tulzidi Caravanner
 3 Torch Courier
-1 Heartfire
-2 Heartfire
-3 Embercleave
-1 Tibalt, Rakish Instigator
+1 Scorching Dragonfire
+1 Phoenix of Ash
+2 Scorching Dragonfire
+3 Scorching Dragonfire
+4 Scorching Dragonfire
 1 Barge In
 2 Barge In
 2 Infuriate
@@ -65,6 +67,7 @@
 1 Chandra, Novice Pyromancer
 1 Chandra's Regulator
 1 Risk Factor
+1 Tibalt, Rakish Instigator
 1 Traitorous Greed
 2 Irencrag Feat
 2 Risk Factor
@@ -83,14 +86,21 @@
 1 Terror of the Peaks
 1 Chandra's Pyrohelix
 2 Chandra's Pyrohelix
-2 Tibalt, Rakish Instigator
 1 Heraldic Banner
 2 Heraldic Banner
+2 Phoenix of Ash
+3 Phoenix of Ash
 1 Scampering Scorcher
 2 Scampering Scorcher
 3 Scampering Scorcher
+1 Heartfire
+2 Heartfire
 3 Heartfire
 4 Heartfire
+1 Krenko, Tin Street Kingpin
+2 Krenko, Tin Street Kingpin
+3 Dwarven Mine
+4 Dwarven Mine
 1 Rimrock Knight
 2 Rimrock Knight
 3 Rimrock Knight
@@ -107,12 +117,3 @@
 3 Blisterspit Gremlin
 4 Blisterspit Gremlin
 4 Torch Courier
-1 Scorching Dragonfire
-1 Krenko, Tin Street Kingpin
-1 Phoenix of Ash
-2 Scorching Dragonfire
-2 Krenko, Tin Street Kingpin
-3 Scorching Dragonfire
-3 Dwarven Mine
-4 Dwarven Mine
-4 Scorching Dragonfire

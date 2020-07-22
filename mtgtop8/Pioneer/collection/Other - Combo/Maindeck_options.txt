@@ -4,6 +4,7 @@
 2 Sylvan Caryatid
 2 Radiant Fountain
 2 Paradise Druid
+2 Zhalfirin Void
 2 Wispweaver Angel
 2 Gyruda, Doom of Depths
 2 Wolfwillow Haven
@@ -13,7 +14,6 @@
 2 Temple of Mystery
 2 Altered Ego
 2 Spark Double
-2 Zhalfirin Void
 2 Yavimaya Coast
 3 Thought-Knot Seer
 3 Llanowar Wastes
@@ -21,10 +21,10 @@
 3 Sylvan Caryatid
 3 Paradise Druid
 3 Radiant Fountain
+3 Zhalfirin Void
 3 Wispweaver Angel
 3 Clever Impersonator
 3 Altered Ego
-3 Zhalfirin Void
 3 Yavimaya Coast
 3 Temple of Mystery
 3 Spark Double
@@ -35,13 +35,13 @@
 4 Aether Hub
 4 Paradise Druid
 4 Radiant Fountain
+4 Zhalfirin Void
 4 Temple of Mystery
 4 Altered Ego
 4 Clever Impersonator
 4 Spark Double
 4 Yavimaya Coast
 4 Wispweaver Angel
-4 Zhalfirin Void
 1 Temple Garden
 2 Temple Garden
 1 Oath of Nissa
@@ -144,9 +144,9 @@
 4 Garruk's Harbinger
 4 Tithe Taker
 1 Shared Summons
-1 Borborygmos Enraged
 1 Enter the Infinite
 1 Captain Lannery Storm
+1 Borborygmos Enraged
 1 Rosethorn Acolyte
 1 Stonecoil Serpent
 1 Game Trail
