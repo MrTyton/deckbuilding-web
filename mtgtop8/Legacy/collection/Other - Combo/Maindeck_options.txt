@@ -20,14 +20,14 @@
 1 Palace Jailer
 1 Lodestone Bauble
 2 Impulse
-2 Karakas
 2 Palace Jailer
+2 Karakas
 2 Defense Grid
 2 Walking Ballista
 2 Auriok Salvagers
+3 Thought-Knot Seer
 3 Walking Ballista
 3 Flooded Strand
-3 Thought-Knot Seer
 3 Auriok Salvagers
 3 Urza, Lord High Artificer
 4 Auriok Salvagers
@@ -43,12 +43,12 @@
 3 Misty Rainforest
 4 Misty Rainforest
 1 Sevinne's Reclamation
+1 Emry, Lurker of the Loch
 1 Basalt Monolith
 1 Teferi, Time Raveler
 1 Prophetic Prism
 1 Mox Amber
 1 Intuition
-1 Emry, Lurker of the Loch
 1 Kinnan, Bonder Prodigy
 2 Emry, Lurker of the Loch
 2 Kinnan, Bonder Prodigy
@@ -56,9 +56,9 @@
 2 Basalt Monolith
 2 Prophetic Prism
 3 Mishra's Bauble
+3 Emry, Lurker of the Loch
 3 Oko, Thief of Crowns
 3 Basalt Monolith
-3 Emry, Lurker of the Loch
 3 Kinnan, Bonder Prodigy
 4 Mishra's Bauble
 1 Polluted Delta
@@ -66,8 +66,8 @@
 1 Drown in the Loch
 1 Dance of the Dead
 1 Fae of Wishes
-1 Underground Sea
 1 Snow-Covered Swamp
+1 Underground Sea
 1 Abrupt Decay
 1 Brainstorm
 1 Mystic Sanctuary
@@ -84,7 +84,6 @@
 2 Snow-Covered Swamp
 2 Drown in the Loch
 2 Narset, Parter of Veils
-2 Veil of Summer
 2 Abrupt Decay
 2 Ponder
 2 Arcum's Astrolabe
@@ -92,6 +91,7 @@
 2 Brainstorm
 2 Ice-Fang Coatl
 2 Entomb
+2 Veil of Summer
 2 Animate Dead
 2 Dance of the Dead
 3 Polluted Delta

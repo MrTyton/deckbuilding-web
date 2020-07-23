@@ -25,8 +25,8 @@
 2 Time Wipe
 2 Elite Guardmage
 3 Elite Guardmage
-4 Elite Guardmage
 4 Thassa, Deep-Dwelling
+4 Elite Guardmage
 1 Sephara, Sky's Blade
 1 Winged Words
 2 Winged Words
@@ -72,20 +72,20 @@
 3 Gingerbrute
 4 Gingerbrute
 10 Plains
-1 Pollywog Symbiote
 1 Pouncing Shoreshark
+1 Pollywog Symbiote
 1 Fight as One
 1 Cubwarden
 1 Huntmaster Liger
 1 Vulpikeet
-2 Pollywog Symbiote
 2 Pouncing Shoreshark
+2 Pollywog Symbiote
 2 Cubwarden
 2 Fight as One
 2 Huntmaster Liger
 2 Vulpikeet
-3 Pollywog Symbiote
 3 Pouncing Shoreshark
+3 Pollywog Symbiote
 3 Cubwarden
 3 Vulpikeet
 3 Huntmaster Liger
@@ -114,9 +114,18 @@
 3 Solemn Simulacrum
 3 Fabled Passage
 3 Omen of the Sun
-4 Fabled Passage
 4 Fblthp, the Lost
+4 Fabled Passage
 1 Unbreakable Formation
+1 Dreamtail Heron
+1 Gods Willing
+2 Dreamtail Heron
+2 Gods Willing
+3 Dreamtail Heron
+3 Gods Willing
+3 Fight as One
+4 Gods Willing
+4 Fight as One
 1 Faerie Guidemother
 1 Ardenvale Tactician
 1 Gust of Wind
@@ -129,24 +138,24 @@
 3 Loyal Pegasus
 3 Hanged Executioner
 4 Loyal Pegasus
+1 Transcendent Envoy
 1 Essence Scatter
 1 Karametra's Blessing
 1 Drannith Magistrate
 1 Sentinel's Eyes
 1 Evolving Wilds
-1 Transcendent Envoy
 1 Alseid of Life's Bounty
 1 All That Glitters
+2 Transcendent Envoy
 2 Essence Scatter
 2 Alseid of Life's Bounty
 2 Karametra's Blessing
-2 Transcendent Envoy
 2 Sentinel's Eyes
 2 Evolving Wilds
 2 All That Glitters
+3 Transcendent Envoy
 3 Evolving Wilds
 3 Alseid of Life's Bounty
-3 Transcendent Envoy
 3 All That Glitters
 3 Karametra's Blessing
 3 Sentinel's Eyes
@@ -168,15 +177,6 @@
 3 Sea-Dasher Octopus
 4 Stonecoil Serpent
 4 Sea-Dasher Octopus
-1 Dreamtail Heron
-1 Gods Willing
-2 Dreamtail Heron
-2 Gods Willing
-3 Dreamtail Heron
-3 Gods Willing
-3 Fight as One
-4 Fight as One
-4 Gods Willing
 1 Dream Trawler
 12 Island
 13 Island

@@ -1,4 +1,3 @@
-1 Walking Ballista
 1 Voracious Hydra
 1 Emrakul, the Promised End
 1 The Great Henge
@@ -7,10 +6,9 @@
 1 Meteor Golem
 1 God-Pharaoh's Statue
 1 Pithing Needle
-1 Tormod's Crypt
 1 Verdurous Gearhulk
 1 Darksteel Citadel
-2 Dovin's Veto
+2 Soul-Guide Lantern
 3 Damping Sphere
 1 Kalitas, Traitor of Ghet
 2 Kalitas, Traitor of Ghet
@@ -25,9 +23,11 @@
 2 Necromentia
 3 Necromentia
 4 Soul-Guide Lantern
+1 Dovin's Veto
 1 Rest in Peace
 1 Gideon of the Trials
 2 Gideon of the Trials
+2 Dovin's Veto
 1 Unmoored Ego
 1 Ashiok, Dream Render
 1 Davriel, Rogue Shadowmage
@@ -36,32 +36,42 @@
 1 Cleansing Nova
 1 Moment of Craving
 2 Unmoored Ego
-2 Rest in Peace
+1 Fatal Push
 1 Heartless Act
+2 Fatal Push
+1 Shadowspear
+1 Vivien, Arkbow Ranger
+1 Kraul Harpooner
+1 Leyline of the Void
+1 Barrier Breach
+2 Kraul Harpooner
+2 Barrier Breach
+2 Leyline of the Void
+3 Leyline of the Void
+2 Heartless Act
+2 Rest in Peace
+1 Agonizing Remorse
 1 Elspeth Conquers Death
 2 Elspeth Conquers Death
-1 Agonizing Remorse
-1 Fatal Push
-2 Fatal Push
-2 Heartless Act
-1 Shadowspear
+1 Heroic Intervention
 2 Scavenging Ooze
 1 Kunoros, Hound of Athreos
 2 Agonizing Remorse
+1 Aether Gust
+2 Aether Gust
+3 Aether Gust
+1 Lava Coil
+2 Lava Coil
 1 Abrupt Decay
 2 Abrupt Decay
 3 Rest in Peace
-1 Glare of Heresy
-1 Settle the Wreckage
-1 Blessed Alliance
-2 Blessed Alliance
+1 Fry
 1 Reclamation Sage
 2 Reclamation Sage
-2 Grafdigger's Cage
-1 Heroic Intervention
 1 Healing Grace
 1 Anguished Unmaking
 1 Kaya, Orzhov Usurper
+1 Glare of Heresy
 1 Arguel's Blood Fast
 1 Devout Decree
 1 Sorcerous Spyglass
@@ -72,19 +82,20 @@
 1 Perilous Vault
 1 Jace's Defeat
 1 Noxious Gearhulk
+2 Vivien, Arkbow Ranger
 1 Legion's End
 1 Disfigure
 2 Legion's End
 2 Kunoros, Hound of Athreos
 2 Disfigure
-1 Dream Trawler
-1 Zirda, the Dawnwaker
-2 Glare of Heresy
-2 Settle the Wreckage
-2 Dream Trawler
-1 Questing Beast
-1 Tireless Tracker
+1 Infinite Obliteration
+1 Back to Nature
+1 Blightbeetle
+2 Infinite Obliteration
+2 Blightbeetle
 1 Glass Casket
+1 Tireless Tracker
+1 Questing Beast
 1 Mythos of Nethroi
 1 Gonti, Lord of Luxury
 1 Knight of Autumn
@@ -100,45 +111,33 @@
 1 Ixalan's Binding
 2 Tomik, Distinguished Advokist
 2 Deicide
-1 Back to Nature
-1 Blightbeetle
-1 Infinite Obliteration
-2 Blightbeetle
-2 Infinite Obliteration
-1 Gemrazer
-2 Gemrazer
-3 Gemrazer
 1 Phyrexian Revoker
 1 Thought-Knot Seer
 1 Hornet Queen
 1 Ugin, the Spirit Dragon
 1 Deathgorge Scavenger
 3 Abrupt Decay
+1 The Royal Scions
+1 Magma Spray
+2 Magma Spray
+2 Tormod's Crypt
+3 Tormod's Crypt
 3 Unmoored Ego
 1 Primal Might
 1 Setessan Tactics
+1 Gemrazer
 1 Shapers' Sanctuary
 2 Primal Might
+2 Gemrazer
 2 Setessan Tactics
 2 Shapers' Sanctuary
 3 Scavenging Ooze
-1 Vivien, Arkbow Ranger
-1 Kraul Harpooner
-1 Leyline of the Void
-1 Barrier Breach
-2 Vivien, Arkbow Ranger
-2 Barrier Breach
-2 Kraul Harpooner
-2 Leyline of the Void
-3 Leyline of the Void
-1 Lava Coil
+3 Gemrazer
 1 Destructive Revelry
 1 Rending Volley
-2 Lava Coil
 2 Destructive Revelry
 2 Rending Volley
 3 Rending Volley
-1 Fry
 1 Forsake the Worldly
 1 Baffling End
 2 Fry
@@ -147,21 +146,11 @@
 3 Gideon of the Trials
 3 Baffling End
 1 Stain the Mind
+2 Grafdigger's Cage
 2 Stain the Mind
 4 Damping Sphere
-1 Rampaging Ferocidon
-1 Heaven/Earth
-1 Collective Defiance
-2 Shadowspear
-2 Rampaging Ferocidon
-2 Heaven/Earth
-2 Collective Defiance
-3 Collective Defiance
-4 Collective Defiance
 1 Baneslayer Angel
-1 Aether Gust
-2 Aether Gust
-3 Aether Gust
+1 Settle the Wreckage
 3 Dovin's Veto
 4 Aether Gust
 1 Chandra, Awakened Inferno
@@ -176,8 +165,10 @@
 4 Mizzium Mortars
 1 Seal Away
 1 Gideon's Intervention
+1 Blessed Alliance
 2 Gideon's Intervention
 2 Seal Away
+2 Blessed Alliance
 3 Seal Away
 3 Gideon's Intervention
 4 Seal Away

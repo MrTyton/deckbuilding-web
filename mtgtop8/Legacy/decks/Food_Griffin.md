@@ -29,3 +29,16 @@
 |                                                                                           |                                                                                             |                                                                                            |1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|                                                                                            |
 |                                                                                           |                                                                                             |                                                                                            |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |                                                                                            |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327) |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
+|                    1|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)   |                    1|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)|
+|                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)|                    1|[Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)         |
+|                     |                                                                                          |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)  |
+|                     |                                                                                          |                    2|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)|
+|                     |                                                                                          |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
+|                     |                                                                                          |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
+
