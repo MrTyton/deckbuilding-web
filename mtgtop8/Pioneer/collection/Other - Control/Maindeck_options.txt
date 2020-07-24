@@ -1,23 +1,23 @@
 1 Azorius Charm
 1 Deafening Clarion
-2 Castle Ardenvale
-2 Irrigated Farmland
-2 Azorius Charm
 2 Deafening Clarion
-3 Narset, Parter of Veils
-3 Supreme Verdict
-3 Azorius Charm
-3 Deafening Clarion
-3 Gideon, Ally of Zendikar
-3 Glacial Fortress
-3 Irrigated Farmland
-3 Sulfur Falls
+2 Azorius Charm
+2 Irrigated Farmland
+2 Castle Ardenvale
 3 Elspeth Conquers Death
+3 Sulfur Falls
+3 Supreme Verdict
+3 Narset, Parter of Veils
+3 Azorius Charm
+3 Irrigated Farmland
+3 Deafening Clarion
+3 Glacial Fortress
+3 Gideon, Ally of Zendikar
 3 Hallowed Fountain
-4 Hallowed Fountain
+4 Narset, Parter of Veils
 4 Irrigated Farmland
 4 Azorius Charm
-4 Narset, Parter of Veils
+4 Hallowed Fountain
 1 Fabled Passage
 2 Fabled Passage
 3 Fabled Passage
@@ -63,8 +63,8 @@
 4 Steam Vents
 1 Nahiri, the Harbinger
 1 Chained to the Rocks
-2 Nahiri, the Harbinger
 2 Chained to the Rocks
+2 Nahiri, the Harbinger
 3 Sacred Foundry
 3 Agent of Treachery
 3 Chained to the Rocks
@@ -84,18 +84,18 @@
 2 Breeding Pool
 2 Forest
 2 Uro, Titan of Nature's Wrath
-1 Growth Spiral
 1 Blast Zone
+1 Growth Spiral
 1 Wilderness Reclamation
 1 Castle Vantress
 1 Shark Typhoon
+2 Shark Typhoon
 2 Growth Spiral
 2 Blast Zone
-2 Shark Typhoon
 2 Castle Vantress
 2 Wilderness Reclamation
-3 Shark Typhoon
 3 Breeding Pool
+3 Shark Typhoon
 3 Growth Spiral
 3 Uro, Titan of Nature's Wrath
 3 Wilderness Reclamation
@@ -114,29 +114,13 @@
 3 Demonic Pact
 3 Oath of Kaya
 4 Shambling Vent
-1 Heliod, Sun-Crowned
-1 Arcanist's Owl
-1 Caves of Koilos
-1 Walking Ballista
-1 Shatter the Sky
-2 Shatter the Sky
-2 Heliod, Sun-Crowned
-2 Arcanist's Owl
-2 Caves of Koilos
-2 Walking Ballista
-3 Heliod, Sun-Crowned
-3 Walking Ballista
-4 Walking Ballista
-4 Heliod, Sun-Crowned
-4 Flicker of Fate
 1 Hostage Taker
-1 Satyr Wayfinder
 1 Thassa, Deep-Dwelling
 1 Botanical Sanctum
-1 Unesh, Criosphinx Sovereign
+1 Grapple with the Past
 1 Woodland Bellower
 1 Eldritch Evolution
-1 Grapple with the Past
+1 Unesh, Criosphinx Sovereign
 1 Arboreal Grazer
 1 Cavalier of Gales
 1 Massacre Girl
@@ -144,6 +128,7 @@
 1 Neoform
 1 Tasigur, the Golden Fang
 1 Elvish Rejuvenator
+1 Satyr Wayfinder
 1 Yavimaya Coast
 1 Reclamation Sage
 1 Thought-Knot Seer
@@ -151,7 +136,6 @@
 1 Llanowar Wastes
 1 Scavenging Ooze
 1 Blooming Marsh
-2 Satyr Wayfinder
 2 Eldritch Evolution
 2 Grapple with the Past
 2 Tasigur, the Golden Fang
@@ -159,15 +143,16 @@
 2 Neoform
 2 Elvish Rejuvenator
 2 Yavimaya Coast
+2 Satyr Wayfinder
 2 Blooming Marsh
 2 Overgrown Tomb
 2 Llanowar Wastes
-3 Satyr Wayfinder
 3 Arboreal Grazer
 3 Eldritch Evolution
 3 Grapple with the Past
 3 Neoform
 3 Yavimaya Coast
+3 Satyr Wayfinder
 3 Llanowar Wastes
 3 Blooming Marsh
 3 Forest
@@ -192,23 +177,23 @@
 4 Fatal Push
 1 Field of Ruin
 1 Kolaghan's Command
-1 Kroxa, Titan of Death's Hunger
-1 Waste Not
 1 Eliminate
 1 Liliana, Waker of the Dead
+1 Kroxa, Titan of Death's Hunger
+1 Waste Not
 1 Hazoret the Fervent
-1 Collective Brutality
 1 Murderous Rider
 1 Davriel, Rogue Shadowmage
+1 Collective Brutality
 2 Field of Ruin
+2 Eliminate
 2 Kolaghan's Command
 2 Kroxa, Titan of Death's Hunger
-2 Eliminate
 2 Waste Not
-2 Collective Brutality
 2 Liliana, Waker of the Dead
 2 Murderous Rider
 2 Hazoret the Fervent
+2 Collective Brutality
 2 Davriel, Rogue Shadowmage
 2 Mountain
 3 Davriel, Rogue Shadowmage
@@ -225,6 +210,21 @@
 4 Waste Not
 4 Swamp
 4 Castle Locthwain
+1 Caves of Koilos
+1 Heliod, Sun-Crowned
+1 Arcanist's Owl
+1 Walking Ballista
+1 Shatter the Sky
+2 Shatter the Sky
+2 Caves of Koilos
+2 Heliod, Sun-Crowned
+2 Walking Ballista
+2 Arcanist's Owl
+3 Walking Ballista
+3 Heliod, Sun-Crowned
+4 Walking Ballista
+4 Flicker of Fate
+4 Heliod, Sun-Crowned
 1 Stomping Ground
 1 Ketria Triome
 1 Pull from Tomorrow
@@ -242,8 +242,8 @@
 3 Pull from Tomorrow
 3 Ketria Triome
 3 Expansion / Explosion
-4 Shark Typhoon
 4 Pull from Tomorrow
+4 Shark Typhoon
 4 Ketria Triome
 4 Expansion / Explosion
 1 Drown in the Loch
@@ -269,32 +269,32 @@
 3 Drowned Catacomb
 3 Watery Grave
 4 Opt
-4 Drown in the Loch
 4 Tyrant's Scorn
+4 Drown in the Loch
 4 Dreadbore
 4 Nicol Bolas, Dragon-God
 4 Nicol Bolas, the Ravager
 4 Watery Grave
-1 Lumbering Falls
-1 Brazen Borrower
 1 Dig Through Time
 1 Sinister Sabotage
 1 Sublime Epiphany
-1 Torrential Gearhulk
 1 Neutralize
-1 Hinterland Harbor
+1 Torrential Gearhulk
 1 Teferi, Master of Time
+1 Brazen Borrower
 1 Temple of Mystery
+1 Lumbering Falls
+1 Hinterland Harbor
 2 Lumbering Falls
 2 Dig Through Time
-2 Brazen Borrower
 2 Sinister Sabotage
 2 Torrential Gearhulk
 2 Sublime Epiphany
 2 Neutralize
-2 Hinterland Harbor
-2 Teferi, Master of Time
 2 Temple of Mystery
+2 Brazen Borrower
+2 Teferi, Master of Time
+2 Hinterland Harbor
 3 Hinterland Harbor
 3 Temple of Mystery
 3 Island

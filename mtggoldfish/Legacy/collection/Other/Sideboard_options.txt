@@ -1,20 +1,25 @@
-2 Ravenous Trap
-2 Eidolon of the Great Revel
-3 Eidolon of the Great Revel
-4 Eidolon of the Great Revel
-1 Red Elemental Blast
-1 Price of Progress
-1 Shenanigans
-2 Red Elemental Blast
-2 Price of Progress
-3 Red Elemental Blast
-3 Price of Progress
-4 Red Elemental Blast
+1 Plague Engineer
+1 Swords to Plowshares
+2 Swords to Plowshares
+3 Swords to Plowshares
+1 Thoughtseize
+2 Thoughtseize
+4 Swords to Plowshares
 1 Eliminate
-1 Lavinia, Azorius Renegade
+1 Umezawa's Jitte
+1 Palace Jailer
+1 Thassa's Oracle
+1 True-Name Nemesis
+2 True-Name Nemesis
 1 Force of Negation
-1 Grand Abolisher
+1 Lavinia, Azorius Renegade
+1 Surgical Extraction
 1 Disenchant
+1 Pyroblast
+2 Pyroblast
+1 Abrade
+2 Surgical Extraction
+1 Pithing Needle
 1 Mycosynth Lattice
 1 Walking Ballista
 1 Containment Priest
@@ -23,9 +28,9 @@
 1 Glass Casket
 2 Containment Priest
 2 Disenchant
-1 Surgical Extraction
-1 Pithing Needle
-2 Surgical Extraction
+2 Abrade
+2 Plague Engineer
+3 Surgical Extraction
 1 Grafdigger's Cage
 1 Mindbreak Trap
 2 Mindbreak Trap
@@ -37,32 +42,29 @@
 1 Sanctum Prelate
 2 Sanctum Prelate
 2 Grafdigger's Cage
+1 Echoing Truth
+2 Force of Negation
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
-2 Force of Negation
 1 Flusterstorm
 1 Veil of Summer
 2 Veil of Summer
-1 Pyroblast
-2 Pyroblast
+1 Null Rod
+3 Pyroblast
+4 Pyroblast
 2 Pithing Needle
-3 Surgical Extraction
-1 Abrade
-2 Abrade
 3 Abrade
-1 Liquimetal Coating
+2 Echoing Truth
 1 Relic of Progenitus
 2 Relic of Progenitus
-1 Echoing Truth
+1 Karakas
+1 Liquimetal Coating
 1 Back to Basics
 2 Back to Basics
-2 Plague Engineer
-1 Batterskull
-1 Bitterblossom
 1 Nihil Spellbomb
-1 Karakas
+1 Batterskull
 1 Assassin's Trophy
 1 Cling to Dust
 1 Leovold, Emissary of Trest
@@ -70,11 +72,10 @@
 1 Jace, the Mind Sculptor
 1 Tomik, Distinguished Advokist
 1 Manic Vandal
-1 Null Rod
 1 Carpet of Flowers
 1 Hydroblast
-1 Curfew
 1 Hail Storm
+1 Curfew
 1 Propaganda
 1 Mirran Crusader
 2 Mirran Crusader
@@ -84,18 +85,21 @@
 1 Blightsteel Colossus
 1 Great Furnace
 2 Faerie Macabre
-1 Oblivion Ring
-2 Oblivion Ring
 1 Blazing Volley
 1 Force of Vigor
 2 Blazing Volley
+1 Oblivion Ring
+2 Oblivion Ring
+1 Submerge
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
 1 Pharika's Libation
 1 Duress
 2 Duress
 2 Pharika's Libation
 2 Liquimetal Coating
-1 Sylvan Library
 1 Collector Ouphe
+1 Sylvan Library
 1 Gut Shot
 2 Flusterstorm
 2 Gut Shot
@@ -119,11 +123,11 @@
 2 Fatal Push
 2 Contamination
 2 Diabolic Edict
+1 Grand Abolisher
 3 True-Name Nemesis
 1 Maze of Ith
 1 Venser, Shaper Savant
 2 Umezawa's Jitte
-2 Echoing Truth
 3 Dismember
 1 Curse of Exhaustion
 1 Mystical Dispute
@@ -131,37 +135,22 @@
 2 Eliminate
 2 Mystical Dispute
 3 Plague Engineer
+1 Sulfuric Vortex
+3 Ravenous Trap
 1 Dystopia
 1 Ashiok, Dream Render
 1 Engineered Plague
 1 Spinning Darkness
 2 Null Rod
 2 Ashiok, Dream Render
-2 Dystopia
 2 Spinning Darkness
+2 Dystopia
 2 Engineered Plague
 3 Ashiok, Dream Render
 3 Spinning Darkness
 4 Ashiok, Dream Render
-1 Griselbrand
-1 Emrakul, the Aeons Torn
-1 Show and Tell
-1 Omniscience
-2 Griselbrand
-2 Emrakul, the Aeons Torn
-2 Omniscience
-2 Show and Tell
-3 Griselbrand
-3 Emrakul, the Aeons Torn
-3 Show and Tell
-3 Omniscience
-4 Emrakul, the Aeons Torn
-4 Show and Tell
-4 Griselbrand
-1 Sulfuric Vortex
-3 Pyroblast
-3 Ravenous Trap
-4 Pyroblast
+1 Electrickery
+1 Soul-Guide Lantern
 1 Tarmogoyf
 1 Return to Nature
 1 Ghirapur Aether Grid

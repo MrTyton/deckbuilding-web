@@ -51,21 +51,21 @@
 1 Spirebluff Canal
 2 Spirebluff Canal
 1 Reflecting Pool
+1 Shadow of Doubt
 1 Minamo, School at Water's Edge
 1 Oboro, Palace in the Clouds
 1 Temple of Epiphany
-1 Shadow of Doubt
 1 Shark Typhoon
-2 Shark Typhoon
-2 Reflecting Pool
 2 Fiery Islet
+2 Reflecting Pool
 2 Temple of Epiphany
+2 Shark Typhoon
 2 Mountain
-3 Shark Typhoon
 3 Spirebluff Canal
 3 Mana Leak
 3 Temple of Epiphany
 3 Cascade Bluffs
+3 Shark Typhoon
 3 Reflecting Pool
 4 Spirebluff Canal
 4 Shark Typhoon
@@ -90,18 +90,18 @@
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island
-1 River of Tears
 1 Blood Moon
 1 Ashiok, Dream Render
 1 Burst Lightning
+1 River of Tears
 1 Rielle, the Everwise
 2 Rielle, the Everwise
 3 Rielle, the Everwise
 4 Flooded Strand
 1 Snow-Covered Forest
 1 Arcum's Astrolabe
-1 Uro, Titan of Nature's Wrath
 1 Ice-Fang Coatl
+1 Uro, Titan of Nature's Wrath
 1 Fact or Fiction
 1 Breeding Pool
 1 Desolate Lighthouse
@@ -114,19 +114,17 @@
 3 Ice-Fang Coatl
 4 Arcum's Astrolabe
 4 Ice-Fang Coatl
-3 Brazen Borrower
-4 Brazen Borrower
 1 Forked Bolt
-1 Young Pyromancer
 1 Monastery Swiftspear
+1 Young Pyromancer
 1 Of One Mind
 1 Delver of Secrets
-2 Young Pyromancer
 2 Monastery Swiftspear
+2 Young Pyromancer
 2 Of One Mind
 2 Delver of Secrets
-3 Young Pyromancer
 3 Monastery Swiftspear
+3 Young Pyromancer
 3 Of One Mind
 3 Delver of Secrets
 4 Force of Negation
@@ -147,11 +145,13 @@
 4 Ancestral Vision
 4 Time Warp
 4 Temporal Mastery
+3 Brazen Borrower
+4 Brazen Borrower
 8 Snow-Covered Island
-1 Anger of the Gods
 1 Simian Spirit Guide
-2 Shivan Reef
+1 Anger of the Gods
 2 Simian Spirit Guide
+2 Shivan Reef
 3 Shivan Reef
 4 Sulfur Falls
 4 Shivan Reef

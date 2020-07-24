@@ -1,9 +1,9 @@
 2 Disdainful Stroke
-2 Glass Casket
 2 Isolate
+2 Glass Casket
 2 Tormod's Crypt
-3 Isolate
 3 Glass Casket
+3 Isolate
 3 Selfless Spirit
 1 Fairgrounds Warden
 2 Fairgrounds Warden
@@ -22,16 +22,14 @@
 1 Hushbringer
 3 Rest in Peace
 1 Soul-Guide Lantern
-1 Duress
-2 Soul-Guide Lantern
 1 Damping Sphere
 2 Damping Sphere
-1 Barrier Breach
-2 Barrier Breach
-2 Duress
-3 Duress
+1 Duress
 1 Charming Prince
 2 Glare of Heresy
+2 Soul-Guide Lantern
+2 Duress
+3 Duress
 1 Dreadbore
 2 Dreadbore
 1 Cling to Dust
@@ -55,30 +53,23 @@
 2 Roast
 3 Destructive Revelry
 1 Assassin's Trophy
+1 Barrier Breach
 1 Slaughter Games
 2 Assassin's Trophy
+2 Barrier Breach
 2 Slaughter Games
 3 Damping Sphere
 1 Skylasher
 1 Declaration in Stone
 1 Gideon of the Trials
-1 Remorseful Cleric
 1 Tomik, Distinguished Advokist
 1 Archangel Avacyn
 1 Sparkhunter Masticore
+1 Remorseful Cleric
 1 Eidolon of Rhetoric
 2 Declaration in Stone
 2 Gideon of the Trials
 3 Declaration in Stone
-1 Abrupt Decay
-1 Thoughtseize
-1 Dead Weight
-2 Abrupt Decay
-2 Thoughtseize
-2 Dead Weight
-3 Thoughtseize
-3 Barrier Breach
-4 Thoughtseize
 2 Chandra, Torch of Defiance
 1 Collective Defiance
 1 Fire Prophecy
@@ -119,17 +110,17 @@
 4 Isolate
 1 Unravel the Aether
 2 Unravel the Aether
+1 Languish
 1 Heartless Act
 1 Disfigure
 1 Extinction Event
 1 Negate
-1 Languish
 1 Emrakul, the Promised End
 3 Mystical Dispute
 4 Mystical Dispute
-1 Fatal Push
 1 Scrapheap Scrounger
 1 Golgari Charm
+1 Fatal Push
 2 Fatal Push
 2 Golgari Charm
 3 Fatal Push

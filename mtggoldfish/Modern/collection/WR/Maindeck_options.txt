@@ -1,18 +1,19 @@
+1 Sword of Feast and Famine
 3 Plains
 4 Sunbaked Canyon
 1 Sacred Foundry
 2 Inspiring Vantage
 2 Sacred Foundry
-3 Sacred Foundry
 3 Inspiring Vantage
-1 Sword of Feast and Famine
+3 Sacred Foundry
 1 Restoration Angel
 1 Stonecloaker
 10 Snow-Covered Plains
+2 Horizon Canopy
 1 Cavern of Souls
 1 Selfless Savior
-1 Mountain
 1 Seasoned Pyromancer
+1 Mountain
 2 Seasoned Pyromancer
 4 Inspiring Vantage
 1 Flagstones of Trokair
@@ -27,16 +28,19 @@
 5 Plains
 6 Plains
 7 Plains
-2 Horizon Canopy
 3 Horizon Canopy
+1 Temple Garden
+1 Snow-Covered Forest
+2 Temple Garden
+3 Temple Garden
 2 Selfless Savior
 1 Selfless Spirit
 1 Gideon of the Trials
 2 Selfless Spirit
 3 Phyrexian Revoker
 1 Island
-1 Hallowed Fountain
 1 Spell Queller
+1 Hallowed Fountain
 1 Teferi, Time Raveler
 1 Seachrome Coast
 1 Geist of Saint Traft
@@ -53,8 +57,8 @@
 3 Spell Queller
 4 Seachrome Coast
 4 Spell Queller
-1 Goblin Cratermaker
 1 Dire Fleet Daredevil
+1 Goblin Cratermaker
 2 Cavern of Souls
 2 Goblin Cratermaker
 2 Dire Fleet Daredevil
@@ -67,17 +71,13 @@
 2 Seal of Fire
 3 Seal of Fire
 4 Seal of Fire
-1 Snow-Covered Forest
 1 Razorverge Thicket
-1 Temple Garden
 1 Serra Avenger
 1 Voice of Resurgence
 1 Knight of Autumn
-2 Temple Garden
 2 Voice of Resurgence
 2 Razorverge Thicket
 3 Voice of Resurgence
-3 Temple Garden
 3 Razorverge Thicket
 4 Razorverge Thicket
 1 Snow-Covered Mountain
@@ -87,14 +87,36 @@
 2 Magus of the Moon
 3 Magus of the Moon
 4 Magus of the Moon
-1 Simian Spirit Guide
-2 Simian Spirit Guide
-3 Simian Spirit Guide
-3 Seasoned Pyromancer
-3 Aven Mindcensor
-4 Seasoned Pyromancer
-4 Simian Spirit Guide
-4 Aven Mindcensor
+1 Collected Company
+1 Windswept Heath
+1 Qasali Pridemage
+1 Birds of Paradise
+1 Castle Ardenvale
+1 Stirring Wildwood
+1 Dryad Arbor
+1 Brimaz, King of Oreskos
+1 Mana Tithe
+1 Regal Caracal
+1 Pride Sovereign
+1 Qasali Ambusher
+2 Snow-Covered Forest
+2 Collected Company
+2 Windswept Heath
+2 Birds of Paradise
+2 Qasali Ambusher
+2 Qasali Pridemage
+2 Mana Tithe
+2 Pride Sovereign
+2 Brimaz, King of Oreskos
+3 Windswept Heath
+3 Birds of Paradise
+3 Pride Sovereign
+3 Qasali Pridemage
+3 Qasali Ambusher
+3 Mana Tithe
+4 Windswept Heath
+4 Birds of Paradise
+4 Temple Garden
 1 Eiganjo Castle
 1 Tectonic Edge
 1 Thraben Inspector
@@ -109,3 +131,11 @@
 8 Plains
 9 Plains
 10 Plains
+1 Simian Spirit Guide
+2 Simian Spirit Guide
+3 Simian Spirit Guide
+3 Seasoned Pyromancer
+3 Aven Mindcensor
+4 Seasoned Pyromancer
+4 Simian Spirit Guide
+4 Aven Mindcensor

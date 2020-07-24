@@ -32,13 +32,14 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327) |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
-|                    1|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)   |                    1|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)|
-|                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)|                    1|[Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)         |
-|                     |                                                                                          |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)  |
-|                     |                                                                                          |                    2|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)|
-|                     |                                                                                          |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
-|                     |                                                                                          |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Arcum's Astrolabe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464169)|                    1|[Back to Basics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456642)   |
+|                    2|[Arcum's Astrolabe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464169)|                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
+|                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)   |                    1|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)|
+|                    3|[Arcum's Astrolabe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464169)|                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)  |
+|                    4|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)   |                    1|[Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)         |
+|                    1|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)   |                    2|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)|
+|                    1|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)     |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
+|                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)  |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
 

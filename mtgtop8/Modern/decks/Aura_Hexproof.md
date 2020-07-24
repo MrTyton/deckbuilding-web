@@ -27,20 +27,11 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
-|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|                    1|[Spore Frog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464129)         |
-|                    1|[Silhana Ledgewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96825) |                    2|[Spore Frog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464129)         |
-|                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
-|                    2|[Silhana Ledgewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96825) |                    3|[Spore Frog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464129)         |
-|                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |
-|                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)   |                    1|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)      |
-|                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|                    1|[Heroic Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423776)|
-|                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)   |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
-|                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |
-|                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |                    2|[Heroic Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423776)|
-|                    3|[Spirit Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220154)      |                    2|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)      |
-|                    4|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)      |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
-|                    4|[Hyena Umbra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=271150)        |                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |
-|                     |                                                                                              |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
+|*n*<sup>th</sup> copy|                                     Maindeck Card                                      |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
+|--------------------:|----------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
+|                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|                    1|[Spore Frog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464129)    |
+|                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|                    2|[Spore Frog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464129)    |
+|                    3|[Spirit Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220154)|                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
+|                    4|[Hyena Umbra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=271150)  |                    3|[Spore Frog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464129)    |
+|                    4|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)|                     |                                                                                         |
 

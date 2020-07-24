@@ -3,29 +3,29 @@
 1 Solemn Simulacrum
 2 Solemn Simulacrum
 3 Solemn Simulacrum
-4 Fabled Passage
 9 Forest
-5 Island
 4 Uro, Titan of Nature's Wrath
+4 Fabled Passage
+5 Island
+1 Llanowar Visionary
+1 Castle Garenbrig
+2 Llanowar Visionary
+4 Hydroid Krasis
 4 Shark Typhoon
 1 Wilderness Reclamation
 2 Wilderness Reclamation
 3 Wilderness Reclamation
 4 Wilderness Reclamation
-4 Mystical Dispute
-1 Llanowar Visionary
-1 Castle Garenbrig
-2 Llanowar Visionary
-4 Hydroid Krasis
 1 Tamiyo, Collector of Tales
-6 Island
 1 Nightpack Ambusher
 2 Nightpack Ambusher
 3 Nightpack Ambusher
+4 Mystical Dispute
 4 Nightpack Ambusher
 1 Mass Manipulation
 2 Castle Garenbrig
 4 Arboreal Grazer
+6 Island
 7 Island
 10 Forest
 1 Scavenging Ooze
@@ -51,16 +51,6 @@
 1 Zagoth Triome
 2 Zagoth Triome
 1 Teferi, Master of Time
-1 Opt
-1 Quench
-2 Opt
-2 Quench
-3 Blast Zone
-3 Opt
-3 Quench
-4 Opt
-4 Blast Zone
-4 Quench
 1 Thassa's Intervention
 2 Thassa's Intervention
 1 Bonders' Enclave
@@ -71,15 +61,6 @@
 12 Forest
 13 Forest
 2 Scavenging Ooze
-1 Tale's End
-1 Whirlwind Denial
-1 Chemister's Insight
-1 Negate
-2 Whirlwind Denial
-2 Chemister's Insight
-2 Negate
-3 Whirlwind Denial
-3 Negate
 1 Temple of Enlightenment
 1 Cavalier of Thorns
 2 Temple of Enlightenment
@@ -88,6 +69,18 @@
 2 Mass Manipulation
 4 Ugin, the Spirit Dragon
 4 Aether Gust
+1 Opt
+1 Quench
+2 Opt
+2 Quench
+3 Blast Zone
+3 Opt
+3 Quench
+3 Thassa's Intervention
+4 Opt
+4 Blast Zone
+4 Quench
+4 Thassa's Intervention
 1 Frantic Inventory
 1 Discontinuity
 1 Root Snare
@@ -96,13 +89,11 @@
 2 Frantic Inventory
 2 Discontinuity
 2 Root Snare
+3 Teferi, Master of Time
 3 Discontinuity
 3 Frantic Inventory
-3 Teferi, Master of Time
 3 Ketria Triome
 3 Root Snare
-4 Discontinuity
 4 Frantic Inventory
 4 Ketria Triome
-3 Thassa's Intervention
-4 Thassa's Intervention
+4 Discontinuity

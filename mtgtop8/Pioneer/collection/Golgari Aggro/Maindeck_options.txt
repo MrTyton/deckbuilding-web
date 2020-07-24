@@ -5,8 +5,8 @@
 3 Surrak, the Hunt Caller
 1 Fatal Push
 2 Fatal Push
-1 Stonecoil Serpent
 1 Hangarback Walker
+1 Stonecoil Serpent
 1 Hardened Scales
 1 Walking Ballista
 1 Winding Constrictor
@@ -18,8 +18,8 @@
 3 Walking Ballista
 3 Stonecoil Serpent
 3 Hardened Scales
-4 Walking Ballista
 4 Hardened Scales
+4 Walking Ballista
 1 Garruk's Harbinger
 2 Garruk's Harbinger
 3 Garruk's Harbinger
@@ -62,9 +62,9 @@
 1 Evolutionary Leap
 1 Steel Overseer
 1 Metallic Mimic
+2 Steel Overseer
 2 Chamber Sentry
 2 Evolutionary Leap
-2 Steel Overseer
 2 Metallic Mimic
 3 Steel Overseer
 3 Chamber Sentry
@@ -72,96 +72,15 @@
 4 Steel Overseer
 4 Chamber Sentry
 4 Metallic Mimic
-1 Zetalpa, Primal Dawn
-1 Lotleth Troll
-1 Gather the Pack
-1 Soulflayer
-1 Gifted Aetherborn
-1 Nullhide Ferox
-1 Commune with the Gods
-1 Grisly Salvage
-1 Questing Beast
-1 Sylvan Caryatid
-2 Questing Beast
-2 Soulflayer
-2 Commune with the Gods
-2 Gather the Pack
-2 Zetalpa, Primal Dawn
-2 Lotleth Troll
-2 Gifted Aetherborn
-2 Nullhide Ferox
-2 Grisly Salvage
-2 Sylvan Caryatid
-3 Lotleth Troll
-3 Soulflayer
-3 Grisly Salvage
-3 Gather the Pack
-3 Zetalpa, Primal Dawn
-3 Questing Beast
-3 Sylvan Caryatid
-4 Soulflayer
-4 Gather the Pack
-4 Grisly Salvage
-4 Zetalpa, Primal Dawn
-4 Lotleth Troll
-4 Sylvan Caryatid
-1 Rishkar, Peema Renegade
-1 Vivien, Arkbow Ranger
-1 Voracious Hydra
-1 Nissa, Voice of Zendikar
-2 Voracious Hydra
-2 Hashep Oasis
-2 Vivien, Arkbow Ranger
-2 Nissa, Voice of Zendikar
-3 Vivien, Arkbow Ranger
-3 Nissa, Voice of Zendikar
-4 Vivien, Arkbow Ranger
-4 Nissa, Voice of Zendikar
-1 Pelt Collector
-1 Experiment One
-2 Experiment One
-2 Pelt Collector
-3 Experiment One
-3 Pelt Collector
-3 Scavenging Ooze
-4 Experiment One
-4 Pelt Collector
-4 Scavenging Ooze
-1 Castle Locthwain
-1 Knight of the Ebon Legion
-1 Fourth Bridge Prowler
-1 Stitcher's Supplier
-1 Fiend Artisan
-2 Mutavault
-2 Castle Locthwain
-2 Knight of the Ebon Legion
-2 Urborg, Tomb of Yawgmoth
-2 Stitcher's Supplier
-2 Fiend Artisan
-3 Mutavault
-3 Knight of the Ebon Legion
-3 Castle Locthwain
-3 Stitcher's Supplier
-3 Fiend Artisan
-3 Deathrite Shaman
-4 Knight of the Ebon Legion
-4 Mutavault
-4 Castle Locthwain
-4 Swamp
-4 Stitcher's Supplier
-4 Fiend Artisan
-4 Deathrite Shaman
-5 Swamp
-6 Swamp
-1 Wildborn Preserver
 1 Unclaimed Territory
 1 Westvale Abbey
+1 Wildborn Preserver
 1 Chord of Calling
+1 Shaman of the Pack
+1 Dwynen's Elite
 1 Gnarlroot Trapper
 1 Dwynen, Gilt-Leaf Daen
-1 Shaman of the Pack
 1 Elvish Clancaller
-1 Dwynen's Elite
 1 Lead the Stampede
 2 Unclaimed Territory
 2 Wildborn Preserver
@@ -172,13 +91,94 @@
 2 Gnarlroot Trapper
 3 Unclaimed Territory
 3 Wildborn Preserver
+3 Shaman of the Pack
+3 Dwynen's Elite
 3 Gnarlroot Trapper
 3 Lead the Stampede
-3 Dwynen's Elite
-3 Shaman of the Pack
 3 Elvish Clancaller
 4 Wildborn Preserver
 4 Unclaimed Territory
 4 Elvish Clancaller
-4 Shaman of the Pack
 4 Dwynen's Elite
+4 Shaman of the Pack
+1 Zetalpa, Primal Dawn
+1 Lotleth Troll
+1 Gather the Pack
+1 Soulflayer
+1 Nullhide Ferox
+1 Gifted Aetherborn
+1 Commune with the Gods
+1 Grisly Salvage
+1 Questing Beast
+1 Sylvan Caryatid
+2 Questing Beast
+2 Soulflayer
+2 Commune with the Gods
+2 Gather the Pack
+2 Zetalpa, Primal Dawn
+2 Lotleth Troll
+2 Nullhide Ferox
+2 Gifted Aetherborn
+2 Grisly Salvage
+2 Sylvan Caryatid
+3 Lotleth Troll
+3 Soulflayer
+3 Grisly Salvage
+3 Gather the Pack
+3 Zetalpa, Primal Dawn
+3 Questing Beast
+3 Sylvan Caryatid
+4 Soulflayer
+4 Zetalpa, Primal Dawn
+4 Gather the Pack
+4 Grisly Salvage
+4 Lotleth Troll
+4 Sylvan Caryatid
+1 Rishkar, Peema Renegade
+1 Vivien, Arkbow Ranger
+1 Nissa, Voice of Zendikar
+1 Voracious Hydra
+2 Voracious Hydra
+2 Hashep Oasis
+2 Vivien, Arkbow Ranger
+2 Nissa, Voice of Zendikar
+3 Vivien, Arkbow Ranger
+3 Nissa, Voice of Zendikar
+4 Vivien, Arkbow Ranger
+4 Nissa, Voice of Zendikar
+1 Castle Locthwain
+1 Knight of the Ebon Legion
+1 Fourth Bridge Prowler
+1 Stitcher's Supplier
+1 Fiend Artisan
+2 Castle Locthwain
+2 Knight of the Ebon Legion
+2 Stitcher's Supplier
+2 Urborg, Tomb of Yawgmoth
+2 Fiend Artisan
+2 Mutavault
+3 Castle Locthwain
+3 Mutavault
+3 Knight of the Ebon Legion
+3 Stitcher's Supplier
+3 Fiend Artisan
+3 Deathrite Shaman
+4 Castle Locthwain
+4 Knight of the Ebon Legion
+4 Swamp
+4 Stitcher's Supplier
+4 Fiend Artisan
+4 Deathrite Shaman
+4 Mutavault
+5 Swamp
+6 Swamp
+1 Experiment One
+1 Pelt Collector
+2 Experiment One
+2 Pelt Collector
+3 Experiment One
+3 Pelt Collector
+3 Scavenging Ooze
+4 Experiment One
+4 Pelt Collector
+4 Scavenging Ooze

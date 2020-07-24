@@ -1,12 +1,14 @@
-3 Wooded Foothills
-4 Gut Shot
+4 Crash Through
 1 Burst Lightning
-4 Opt
 2 Burst Lightning
-4 Mountain
+4 Gut Shot
+1 Arid Mesa
+2 Arid Mesa
+4 Opt
 1 Scalding Tarn
 2 Scalding Tarn
 3 Bedlam Reveler
+4 Mountain
 1 Kiln Fiend
 2 Kiln Fiend
 1 Lava Spike
@@ -22,8 +24,8 @@
 11 Mountain
 12 Mountain
 13 Mountain
-1 Arid Mesa
-2 Arid Mesa
+3 Arid Mesa
+3 Sprite Dragon
 3 Scalding Tarn
 4 Scalding Tarn
 1 Wild Slash
@@ -32,12 +34,10 @@
 3 Kiln Fiend
 1 Sunbaked Canyon
 2 Sunbaked Canyon
-3 Arid Mesa
-3 Sprite Dragon
 2 Bloodstained Mire
 3 Bloodstained Mire
-3 Sunbaked Canyon
 14 Mountain
+3 Sunbaked Canyon
 4 Fiery Islet
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
@@ -48,9 +48,12 @@
 3 Mishra's Bauble
 4 Sunbaked Canyon
 4 Mishra's Bauble
+1 Firebolt
+1 Runaway Steam-Kin
 1 Inspiring Vantage
 1 Sacred Foundry
 1 Temur Battle Rage
+1 Boros Charm
 2 Inspiring Vantage
 2 Sacred Foundry
 2 Temur Battle Rage
@@ -60,12 +63,5 @@
 4 Inspiring Vantage
 4 Sacred Foundry
 4 Kiln Fiend
-1 Firebolt
-1 Runaway Steam-Kin
-1 Boros Charm
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-3 Temur Battle Rage
-4 Temur Battle Rage
 1 Abbot of Keral Keep
 15 Mountain

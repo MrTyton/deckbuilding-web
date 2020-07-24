@@ -44,11 +44,11 @@
 2 Prairie Stream
 1 Remand
 2 Remand
-1 Eternal Witness
+1 Canopy Vista
 1 Soulherder
+1 Eternal Witness
 1 Ephemerate
 1 Eladamri's Call
-1 Canopy Vista
 2 Ephemerate
 2 Eternal Witness
 3 Ephemerate
@@ -68,22 +68,22 @@
 1 Wall of Blossoms
 1 Vendilion Clique
 1 Restoration Angel
+1 Kitchen Finks
 1 Wall of Omens
 1 Cavern of Souls
 1 On Thin Ice
 1 Celestial Colonnade
 1 Arcades, the Strategist
-1 Kitchen Finks
 2 Restoration Angel
 2 Kitchen Finks
 2 Wall of Blossoms
-2 Vendilion Clique
 2 Cavern of Souls
 2 Wall of Omens
 2 On Thin Ice
 2 Dovin's Veto
-2 Knight of Autumn
 2 Celestial Colonnade
+2 Knight of Autumn
+2 Vendilion Clique
 3 Celestial Colonnade
 3 Restoration Angel
 3 Wall of Blossoms
@@ -133,6 +133,17 @@
 2 Wrenn and Six
 2 Lightning Bolt
 2 Lightning Helix
+1 Coiling Oracle
+1 Time Warp
+2 Prismatic Vista
+2 Soulherder
+2 Coiling Oracle
+2 Time Warp
+3 Prismatic Vista
+3 Coiling Oracle
+3 Soulherder
+4 Coiling Oracle
+4 Soulherder
 1 Wilderness Reclamation
 1 Nexus of Fate
 1 Fact or Fiction
@@ -142,16 +153,5 @@
 2 Opt
 3 Fact or Fiction
 3 Wilderness Reclamation
-3 Opt
 4 Opt
-1 Time Warp
-1 Coiling Oracle
-2 Coiling Oracle
-2 Prismatic Vista
-2 Time Warp
-2 Soulherder
-3 Prismatic Vista
-3 Coiling Oracle
-3 Soulherder
-4 Soulherder
-4 Coiling Oracle
+3 Opt

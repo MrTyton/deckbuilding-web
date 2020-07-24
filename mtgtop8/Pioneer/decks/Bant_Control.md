@@ -38,16 +38,16 @@
 |                    3|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)               |                     |              |
 |                    3|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)             |                     |              |
 |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)        |                     |              |
+|                    4|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)             |                     |              |
 |                    4|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)            |                     |              |
 |                    4|[Azorius Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460137)               |                     |              |
 |                    4|[Irrigated Farmland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426947)          |                     |              |
 |                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)              |                     |              |
-|                    4|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)             |                     |              |
 |                    4|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)               |                     |              |
 |                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)                |                     |              |
 |                    4|[Uro, Titan of Nature's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476480)|                     |              |
-|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                         |                     |              |
 |                    4|Shark Typhoon                                                                                          |                     |              |
+|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                         |                     |              |
 |                    4|[Glacial Fortress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190562)            |                     |              |
 |                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)        |                     |              |
 |                    4|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)               |                     |              |

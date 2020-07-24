@@ -12,9 +12,10 @@
 4 Sleight of Hand
 4 Island
 1 Forest
-1 Song of Creation
 1 Stomping Ground
+1 Song of Creation
 1 Scalding Tarn
+1 Wooded Foothills
 1 Mana Confluence
 1 Mountain
 1 Engineered Explosives
@@ -23,7 +24,6 @@
 1 Wild Cantor
 1 Laboratory Maniac
 1 Commune with the Gods
-1 Wooded Foothills
 1 Pentad Prism
 1 Memnite
 1 Simian Spirit Guide
@@ -110,8 +110,8 @@
 4 Jace, Wielder of Mysteries
 4 Remand
 4 Thassa's Oracle
-4 Opt
 4 Watery Grave
+4 Opt
 4 Omen of the Sea
 4 Drowned Catacomb
 4 Fatal Push
