@@ -1,6 +1,7 @@
 3 Polluted Delta
 4 Polluted Delta
 1 Cabal Therapy
+1 Swamp
 1 Brainstorm
 1 Tropical Island
 1 Ponder
@@ -9,8 +10,8 @@
 1 Force of Will
 2 Brainstorm
 2 Ponder
-2 Force of Will
 2 Underground Sea
+2 Force of Will
 2 Misty Rainforest
 3 Brainstorm
 3 Force of Will
@@ -18,10 +19,10 @@
 4 Brainstorm
 4 Force of Will
 1 Worldgorger Dragon
-1 Drown in the Loch
 1 Ice-Fang Coatl
 1 Uro, Titan of Nature's Wrath
 1 Snow-Covered Island
+1 Drown in the Loch
 1 Snow-Covered Forest
 1 Arcum's Astrolabe
 1 Abrupt Decay
@@ -37,7 +38,6 @@
 4 Misty Rainforest
 4 Ponder
 4 Arcum's Astrolabe
-1 Swamp
 1 Tidespout Tyrant
 3 Snow-Covered Swamp
 1 Iona, Shield of Emeria
@@ -52,24 +52,24 @@
 1 Abundant Growth
 1 Eternal Witness
 1 Dance of the Dead
-1 Scalding Tarn
+1 Snapcaster Mage
 1 Leovold, Emissary of Trest
 1 Oko, Thief of Crowns
-1 Volcanic Island
 1 Fatal Push
+1 Volcanic Island
+1 Scalding Tarn
 1 Dead of Winter
 1 Prismatic Vista
 1 Stroke of Genius
 1 Force of Negation
-1 Snapcaster Mage
 2 Tropical Island
-2 Force of Negation
-2 Oko, Thief of Crowns
 2 Snapcaster Mage
-2 Leovold, Emissary of Trest
 2 Fatal Push
+2 Oko, Thief of Crowns
+2 Leovold, Emissary of Trest
 2 Prismatic Vista
 2 Snow-Covered Forest
+2 Force of Negation
 3 Oko, Thief of Crowns
 3 Abrupt Decay
 4 Snow-Covered Island
@@ -91,11 +91,16 @@
 2 Chrome Mox
 3 Verdant Catacombs
 4 Cabal Therapy
+3 Bloodstained Mire
 1 Plague Engineer
 1 Notion Thief
 1 Assassin's Trophy
 1 Archetype of Endurance
-3 Bloodstained Mire
+2 Swamp
+2 Bayou
+3 Marsh Flats
+4 Marsh Flats
+4 Bloodstained Mire
 1 Fae of Wishes
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils

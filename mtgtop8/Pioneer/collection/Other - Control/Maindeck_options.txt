@@ -23,8 +23,68 @@
 3 Fabled Passage
 1 Island
 4 Fabled Passage
-4 Plains
+2 Island
+1 Breeding Pool
+1 Uro, Titan of Nature's Wrath
+1 Forest
+2 Breeding Pool
+2 Forest
+2 Uro, Titan of Nature's Wrath
+1 Censor
+1 Blast Zone
+1 Growth Spiral
+1 Wilderness Reclamation
+1 Castle Vantress
+1 Shark Typhoon
+2 Shark Typhoon
+2 Blast Zone
+2 Growth Spiral
+2 Castle Vantress
+2 Wilderness Reclamation
+3 Breeding Pool
+3 Shark Typhoon
+3 Growth Spiral
+3 Uro, Titan of Nature's Wrath
+3 Wilderness Reclamation
+4 Growth Spiral
+4 Breeding Pool
+4 Wilderness Reclamation
+1 Opt
+2 Opt
+2 Censor
+3 Censor
+4 Censor
+1 Dig Through Time
+1 Sinister Sabotage
+1 Sublime Epiphany
+1 Neutralize
+1 Torrential Gearhulk
+1 Teferi, Master of Time
+1 Brazen Borrower
+1 Temple of Mystery
+1 Lumbering Falls
+1 Hinterland Harbor
+2 Lumbering Falls
+2 Dig Through Time
+2 Sinister Sabotage
+2 Torrential Gearhulk
+2 Sublime Epiphany
+2 Neutralize
+2 Teferi, Master of Time
+2 Temple of Mystery
+2 Brazen Borrower
+2 Hinterland Harbor
+3 Hinterland Harbor
+3 Temple of Mystery
+3 Island
+4 Island
+5 Island
 1 Mountain
+1 Sweltering Suns
+2 Sweltering Suns
+3 Sweltering Suns
+4 Steam Vents
+4 Plains
 1 Swamp
 2 Swamp
 3 Swamp
@@ -57,10 +117,10 @@
 4 Doom Foretold
 4 Godless Shrine
 5 Plains
-1 Sweltering Suns
-2 Sweltering Suns
-3 Sweltering Suns
-4 Steam Vents
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
 1 Nahiri, the Harbinger
 1 Chained to the Rocks
 2 Chained to the Rocks
@@ -72,36 +132,6 @@
 4 Gideon of the Trials
 4 Sweltering Suns
 4 Chained to the Rocks
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-4 Thoughtseize
-2 Island
-1 Censor
-1 Breeding Pool
-1 Uro, Titan of Nature's Wrath
-1 Forest
-2 Breeding Pool
-2 Forest
-2 Uro, Titan of Nature's Wrath
-1 Blast Zone
-1 Growth Spiral
-1 Wilderness Reclamation
-1 Castle Vantress
-1 Shark Typhoon
-2 Shark Typhoon
-2 Growth Spiral
-2 Blast Zone
-2 Castle Vantress
-2 Wilderness Reclamation
-3 Breeding Pool
-3 Shark Typhoon
-3 Growth Spiral
-3 Uro, Titan of Nature's Wrath
-3 Wilderness Reclamation
-4 Growth Spiral
-4 Breeding Pool
-4 Wilderness Reclamation
 1 Castle Locthwain
 2 Castle Locthwain
 1 Demonic Pact
@@ -159,11 +189,6 @@
 4 Arboreal Grazer
 4 Neoform
 4 Satyr Wayfinder
-1 Opt
-2 Opt
-2 Censor
-3 Censor
-4 Censor
 1 Blood Crypt
 1 Dragonskull Summit
 1 Fatal Push
@@ -242,8 +267,8 @@
 3 Pull from Tomorrow
 3 Ketria Triome
 3 Expansion / Explosion
-4 Pull from Tomorrow
 4 Shark Typhoon
+4 Pull from Tomorrow
 4 Ketria Triome
 4 Expansion / Explosion
 1 Drown in the Loch
@@ -260,8 +285,8 @@
 2 Drowned Catacomb
 2 Watery Grave
 2 Dreadbore
-3 Dreadbore
 3 Opt
+3 Dreadbore
 3 Drown in the Loch
 3 Tyrant's Scorn
 3 Nicol Bolas, Dragon-God
@@ -275,28 +300,3 @@
 4 Nicol Bolas, Dragon-God
 4 Nicol Bolas, the Ravager
 4 Watery Grave
-1 Dig Through Time
-1 Sinister Sabotage
-1 Sublime Epiphany
-1 Neutralize
-1 Torrential Gearhulk
-1 Teferi, Master of Time
-1 Brazen Borrower
-1 Temple of Mystery
-1 Lumbering Falls
-1 Hinterland Harbor
-2 Lumbering Falls
-2 Dig Through Time
-2 Sinister Sabotage
-2 Torrential Gearhulk
-2 Sublime Epiphany
-2 Neutralize
-2 Temple of Mystery
-2 Brazen Borrower
-2 Teferi, Master of Time
-2 Hinterland Harbor
-3 Hinterland Harbor
-3 Temple of Mystery
-3 Island
-4 Island
-5 Island

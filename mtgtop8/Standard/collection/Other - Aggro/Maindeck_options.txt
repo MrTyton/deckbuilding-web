@@ -118,15 +118,15 @@
 4 Blood Crypt
 1 Castle Locthwain
 1 Cauldron Familiar
-1 Priest of Forgotten Gods
 1 Witch's Oven
-1 Woe Strider
+1 Priest of Forgotten Gods
 1 Midnight Reaper
+1 Woe Strider
 1 Mayhem Devil
 2 Witch's Oven
 2 Cauldron Familiar
-2 Woe Strider
 2 Priest of Forgotten Gods
+2 Woe Strider
 2 Mayhem Devil
 3 Witch's Oven
 3 Cauldron Familiar
@@ -236,9 +236,9 @@
 1 Brineborn Cutthroat
 1 Ashiok's Erasure
 2 Spectral Sailor
+2 Heartless Act
 2 Brazen Borrower
 2 Ashiok's Erasure
-2 Heartless Act
 2 Temple of Deceit
 2 Brineborn Cutthroat
 3 Spectral Sailor
@@ -289,6 +289,50 @@
 4 Knight of the Ebon Legion
 4 Blacklance Paragon
 1 Yidaro, Wandering Monster
+3 Stonecoil Serpent
+1 Blast Zone
+1 Solemn Simulacrum
+1 Interplanar Beacon
+1 Mobilized District
+1 Ugin, the Ineffable
+1 Steel Overseer
+1 Palladium Myr
+1 Crystalline Giant
+1 Ugin, the Spirit Dragon
+1 Karn's Bastion
+1 Mystic Forge
+2 Mobilized District
+2 Solemn Simulacrum
+2 Palladium Myr
+2 Steel Overseer
+2 Interplanar Beacon
+2 Radiant Fountain
+2 Karn's Bastion
+2 Crystalline Giant
+2 Ugin, the Spirit Dragon
+2 Ugin, the Ineffable
+2 Mystic Forge
+3 Mystic Forge
+3 Solemn Simulacrum
+3 Crystalline Giant
+3 Palladium Myr
+3 Steel Overseer
+3 Interplanar Beacon
+3 Radiant Fountain
+3 Ugin, the Ineffable
+3 Ugin, the Spirit Dragon
+3 Karn's Bastion
+4 Mystic Forge
+4 Stonecoil Serpent
+4 Interplanar Beacon
+4 Steel Overseer
+4 Palladium Myr
+4 Radiant Fountain
+4 Ugin, the Ineffable
+4 Ugin, the Spirit Dragon
+4 Solemn Simulacrum
+4 Karn's Bastion
+4 Crystalline Giant
 1 Zhur-Taa Goblin
 1 Thrashing Brontodon
 1 Pelt Collector
@@ -304,7 +348,6 @@
 4 Stomping Ground
 1 Neutralize
 2 Neutralize
-1 Blast Zone
 1 Castle Ardenvale
 1 Indatha Triome
 1 Shark Typhoon
@@ -351,49 +394,6 @@
 4 Drannith Stinger
 4 Drannith Healer
 4 Go for Blood
-3 Stonecoil Serpent
-1 Karn's Bastion
-1 Mystic Forge
-1 Ugin, the Spirit Dragon
-1 Solemn Simulacrum
-1 Crystalline Giant
-1 Steel Overseer
-1 Ugin, the Ineffable
-1 Mobilized District
-1 Palladium Myr
-1 Interplanar Beacon
-2 Mystic Forge
-2 Ugin, the Ineffable
-2 Mobilized District
-2 Ugin, the Spirit Dragon
-2 Solemn Simulacrum
-2 Crystalline Giant
-2 Karn's Bastion
-2 Radiant Fountain
-2 Palladium Myr
-2 Interplanar Beacon
-2 Steel Overseer
-3 Mystic Forge
-3 Solemn Simulacrum
-3 Ugin, the Spirit Dragon
-3 Ugin, the Ineffable
-3 Radiant Fountain
-3 Karn's Bastion
-3 Crystalline Giant
-3 Palladium Myr
-3 Interplanar Beacon
-3 Steel Overseer
-4 Mystic Forge
-4 Solemn Simulacrum
-4 Ugin, the Spirit Dragon
-4 Ugin, the Ineffable
-4 Stonecoil Serpent
-4 Radiant Fountain
-4 Karn's Bastion
-4 Interplanar Beacon
-4 Crystalline Giant
-4 Palladium Myr
-4 Steel Overseer
 1 Voracious Greatshark
 1 Thryx, the Sudden Storm
 1 Quench
@@ -429,30 +429,30 @@
 3 Marauding Raptor
 4 Garruk's Harbinger
 11 Forest
-1 Glaring Aegis
 1 Healer's Hawk
+1 Glaring Aegis
 1 Solid Footing
 1 Gods Willing
-1 Alseid of Life's Bounty
 1 All That Glitters
 1 Karametra's Blessing
 1 Sentinel's Eyes
+1 Alseid of Life's Bounty
 1 Shadowspear
 2 Glaring Aegis
-2 Solid Footing
 2 Healer's Hawk
+2 Solid Footing
 2 Gods Willing
 2 All That Glitters
 2 Karametra's Blessing
-2 Alseid of Life's Bounty
 2 Sentinel's Eyes
+2 Alseid of Life's Bounty
 3 Glaring Aegis
 3 Solid Footing
 3 Healer's Hawk
 3 Gods Willing
-3 Alseid of Life's Bounty
 3 All That Glitters
 3 Karametra's Blessing
+3 Alseid of Life's Bounty
 3 Sentinel's Eyes
 4 Glaring Aegis
 4 Solid Footing

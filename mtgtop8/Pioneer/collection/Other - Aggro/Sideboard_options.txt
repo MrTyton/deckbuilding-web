@@ -1,5 +1,5 @@
-2 Disdainful Stroke
 2 Isolate
+2 Disdainful Stroke
 2 Glass Casket
 2 Tormod's Crypt
 3 Glass Casket
@@ -21,9 +21,9 @@
 1 Scavenging Ooze
 1 Hushbringer
 3 Rest in Peace
-1 Soul-Guide Lantern
 1 Damping Sphere
 2 Damping Sphere
+1 Soul-Guide Lantern
 1 Duress
 1 Charming Prince
 2 Glare of Heresy
@@ -33,8 +33,8 @@
 1 Dreadbore
 2 Dreadbore
 1 Cling to Dust
-1 Kolaghan's Command
 1 Noxious Grasp
+1 Kolaghan's Command
 1 Pharika's Libation
 2 Kolaghan's Command
 2 Pharika's Libation
@@ -59,13 +59,26 @@
 2 Barrier Breach
 2 Slaughter Games
 3 Damping Sphere
+1 Self-Inflicted Wound
+1 Annul
+1 Moment of Craving
+1 Spell Pierce
+1 Grafdigger's Cage
+1 Kalitas, Traitor of Ghet
+2 Kalitas, Traitor of Ghet
+2 Self-Inflicted Wound
+2 Annul
+2 Grafdigger's Cage
+2 Moment of Craving
+2 Spell Pierce
+3 Kalitas, Traitor of Ghet
 1 Skylasher
 1 Declaration in Stone
 1 Gideon of the Trials
-1 Tomik, Distinguished Advokist
-1 Archangel Avacyn
 1 Sparkhunter Masticore
+1 Archangel Avacyn
 1 Remorseful Cleric
+1 Tomik, Distinguished Advokist
 1 Eidolon of Rhetoric
 2 Declaration in Stone
 2 Gideon of the Trials
@@ -103,11 +116,11 @@
 3 Dreadbore
 3 Leyline of the Void
 4 Leyline of the Void
+4 Isolate
 1 Knight of Grace
 2 Knight of Grace
 3 Knight of Grace
 4 Knight of Grace
-4 Isolate
 1 Unravel the Aether
 2 Unravel the Aether
 1 Languish
@@ -119,8 +132,8 @@
 3 Mystical Dispute
 4 Mystical Dispute
 1 Scrapheap Scrounger
-1 Golgari Charm
 1 Fatal Push
+1 Golgari Charm
 2 Fatal Push
 2 Golgari Charm
 3 Fatal Push
