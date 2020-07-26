@@ -1,4 +1,21 @@
+2 Rootbound Crag
+4 Legion Warboss
+1 Selfless Spirit
+1 Fortified Village
 4 Mana Confluence
+1 Pia and Kiran Nalaar
+1 Tithe Taker
+1 Battlefield Forge
+1 Garruk's Harbinger
+2 Pia and Kiran Nalaar
+2 Tithe Taker
+2 Battlefield Forge
+2 Garruk's Harbinger
+3 Tithe Taker
+3 Sacred Foundry
+3 Garruk's Harbinger
+4 Tithe Taker
+4 Garruk's Harbinger
 2 Plains
 1 Mutavault
 2 Mutavault
@@ -54,29 +71,11 @@
 4 Ensoul Artifact
 4 Spire of Industry
 4 Stonecoil Serpent
-2 Rootbound Crag
-4 Legion Warboss
-1 Selfless Spirit
-1 Fortified Village
-1 Pia and Kiran Nalaar
-1 Tithe Taker
-1 Battlefield Forge
-1 Garruk's Harbinger
-2 Pia and Kiran Nalaar
-2 Tithe Taker
-2 Battlefield Forge
-2 Garruk's Harbinger
-3 Tithe Taker
-3 Sacred Foundry
-3 Garruk's Harbinger
-4 Tithe Taker
-4 Garruk's Harbinger
 2 Inspiring Vantage
 1 Goblin Instigator
 2 Selfless Spirit
 3 Forest
 4 Forest
-1 Island
 1 Swamp
 1 Fatal Push
 1 Thoughtseize
@@ -98,27 +97,28 @@
 4 Blood Crypt
 4 Swamp
 1 Young Pyromancer
-1 Dragonskull Summit
 1 Stitcher's Supplier
-1 Claim / Fame
+1 Dragonskull Summit
 1 Village Rites
+1 Claim / Fame
 1 Foreboding Ruins
 2 Young Pyromancer
+2 Village Rites
 2 Dragonskull Summit
 2 Stitcher's Supplier
 2 Foreboding Ruins
 2 Claim / Fame
-2 Village Rites
 3 Young Pyromancer
+3 Village Rites
 3 Dragonskull Summit
 3 Stitcher's Supplier
 3 Claim / Fame
-3 Village Rites
 3 Foreboding Ruins
 4 Stitcher's Supplier
 4 Dragonskull Summit
 4 Foreboding Ruins
 4 Village Rites
+3 Sunpetal Grove
 1 Dreadbore
 2 Dreadbore
 3 Kroxa, Titan of Death's Hunger
@@ -132,18 +132,51 @@
 4 Overgrown Tomb
 4 Blooming Marsh
 3 Fabled Passage
-3 Sunpetal Grove
 1 Walking Ballista
 1 Abrupt Decay
 2 Abrupt Decay
-5 Swamp
-1 Castle Locthwain
-2 Castle Locthwain
 2 Mountain
 3 Mountain
+5 Swamp
 5 Forest
+1 Castle Locthwain
+2 Castle Locthwain
 2 Scavenging Ooze
 1 Scampering Scorcher
+1 Island
+1 Watery Grave
+1 Murderous Rider
+2 Watery Grave
+2 Island
+2 Murderous Rider
+1 Ashiok, Nightmare Muse
+1 Breeding Pool
+1 Ipnu Rivulet
+1 Hinterland Harbor
+1 Traverse the Ulvenwald
+1 Shark Typhoon
+1 Jace, Vryn's Prodigy
+1 Uro, Titan of Nature's Wrath
+1 Heartless Act
+1 Tireless Tracker
+1 Atris, Oracle of Half-Truths
+1 Nissa, Who Shakes the World
+1 Eat to Extinction
+1 Zagoth Triome
+1 Satyr Wayfinder
+2 Breeding Pool
+2 Jace, Vryn's Prodigy
+2 Traverse the Ulvenwald
+2 Shark Typhoon
+2 Uro, Titan of Nature's Wrath
+2 Satyr Wayfinder
+3 Satyr Wayfinder
+3 Uro, Titan of Nature's Wrath
+3 Traverse the Ulvenwald
+3 Breeding Pool
+3 Jace, Vryn's Prodigy
+4 Satyr Wayfinder
+4 Uro, Titan of Nature's Wrath
 1 Duskwatch Recruiter
 2 Duskwatch Recruiter
 2 Goblin Instigator
@@ -164,8 +197,8 @@
 4 Experiment One
 4 Pelt Collector
 1 Domri, Anarch of Bolas
-1 Hashep Oasis
 1 Gruul Spellbreaker
+1 Hashep Oasis
 1 Burning-Tree Emissary
 1 Gallia of the Endless Dance
 1 Bonecrusher Giant
@@ -194,8 +227,8 @@
 3 Ghor-Clan Rampager
 3 Voltaic Brawler
 4 Burning-Tree Emissary
-4 Voltaic Brawler
 4 Bonecrusher Giant
+4 Voltaic Brawler
 4 Gruul Spellbreaker
 4 Ghor-Clan Rampager
 1 Dead Weight
@@ -204,14 +237,14 @@
 1 Kolaghan's Command
 1 Unbridled Growth
 1 Grim Flayer
+2 Dead Weight
 2 Deathrite Shaman
 2 Kolaghan's Command
-2 Dead Weight
 2 Chevill, Bane of Monsters
 2 Unbridled Growth
 2 Grim Flayer
-3 Grim Flayer
 3 Deathrite Shaman
+3 Grim Flayer
 3 Chevill, Bane of Monsters
 3 Unbridled Growth
 4 Grim Flayer
@@ -274,39 +307,6 @@
 4 Mire Triton
 4 Fiend Artisan
 4 Bloodsoaked Champion
-1 Watery Grave
-1 Murderous Rider
-2 Watery Grave
-2 Island
-2 Murderous Rider
-1 Ashiok, Nightmare Muse
-1 Breeding Pool
-1 Ipnu Rivulet
-1 Hinterland Harbor
-1 Traverse the Ulvenwald
-1 Shark Typhoon
-1 Jace, Vryn's Prodigy
-1 Tireless Tracker
-1 Uro, Titan of Nature's Wrath
-1 Heartless Act
-1 Atris, Oracle of Half-Truths
-1 Nissa, Who Shakes the World
-1 Eat to Extinction
-1 Zagoth Triome
-1 Satyr Wayfinder
-2 Breeding Pool
-2 Shark Typhoon
-2 Jace, Vryn's Prodigy
-2 Traverse the Ulvenwald
-2 Uro, Titan of Nature's Wrath
-2 Satyr Wayfinder
-3 Breeding Pool
-3 Uro, Titan of Nature's Wrath
-3 Jace, Vryn's Prodigy
-3 Traverse the Ulvenwald
-3 Satyr Wayfinder
-4 Uro, Titan of Nature's Wrath
-4 Satyr Wayfinder
 1 Eliminate
 1 Brazen Borrower
 1 Choked Estuary
@@ -335,38 +335,38 @@
 3 Glint-Sleeve Siphoner
 3 Rankle, Master of Pranks
 3 Murderous Rider
-4 Murderous Rider
 4 Fabled Passage
-4 Watery Grave
 4 Thieves' Guild Enforcer
+4 Watery Grave
 4 Brazen Borrower
 4 Glint-Sleeve Siphoner
+4 Murderous Rider
 4 Drowned Catacomb
 6 Swamp
 1 Charming Prince
+1 Fairgrounds Warden
 1 Radiant Fountain
-1 Sporeweb Weaver
 1 Prophet of Kruphix
 1 Llanowar Visionary
-1 Militia Bugler
 1 Chord of Calling
-1 Fairgrounds Warden
+1 Militia Bugler
+1 Sporeweb Weaver
 1 Knight of Autumn
 1 Heliod, Sun-Crowned
 1 Collected Company
-2 Fortified Village
-2 Militia Bugler
-2 Llanowar Visionary
 2 Chord of Calling
+2 Fortified Village
+2 Llanowar Visionary
+2 Militia Bugler
 2 Radiant Fountain
 2 Prophet of Kruphix
 2 Collected Company
 2 Heliod, Sun-Crowned
-3 Fortified Village
 3 Militia Bugler
 3 Prophet of Kruphix
 3 Heliod, Sun-Crowned
 3 Plains
+3 Fortified Village
 3 Collected Company
 4 Militia Bugler
 4 Heliod, Sun-Crowned

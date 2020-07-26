@@ -4,8 +4,8 @@
 2 Solemn Simulacrum
 3 Solemn Simulacrum
 9 Forest
-4 Uro, Titan of Nature's Wrath
 4 Fabled Passage
+4 Uro, Titan of Nature's Wrath
 5 Island
 1 Llanowar Visionary
 1 Castle Garenbrig
@@ -28,22 +28,22 @@
 6 Island
 7 Island
 10 Forest
-1 Scavenging Ooze
 1 Ugin, the Ineffable
+1 Scavenging Ooze
 2 Ugin, the Ineffable
 1 Neutralize
 1 Brazen Borrower
 1 Frilled Mystic
 2 Neutralize
-2 Frilled Mystic
 2 Brazen Borrower
+2 Frilled Mystic
 3 Neutralize
 3 Frilled Mystic
 3 Castle Vantress
 3 Brazen Borrower
 4 Frilled Mystic
-4 Castle Vantress
 4 Neutralize
+4 Castle Vantress
 4 Brazen Borrower
 1 Jolrael, Mwonvuli Recluse
 2 Jolrael, Mwonvuli Recluse
@@ -69,18 +69,6 @@
 2 Mass Manipulation
 4 Ugin, the Spirit Dragon
 4 Aether Gust
-1 Opt
-1 Quench
-2 Opt
-2 Quench
-3 Blast Zone
-3 Opt
-3 Quench
-3 Thassa's Intervention
-4 Opt
-4 Blast Zone
-4 Quench
-4 Thassa's Intervention
 1 Frantic Inventory
 1 Discontinuity
 1 Root Snare
@@ -95,5 +83,17 @@
 3 Ketria Triome
 3 Root Snare
 4 Frantic Inventory
-4 Ketria Triome
 4 Discontinuity
+4 Ketria Triome
+1 Quench
+1 Opt
+2 Opt
+2 Quench
+3 Blast Zone
+3 Opt
+3 Quench
+3 Thassa's Intervention
+4 Blast Zone
+4 Opt
+4 Quench
+4 Thassa's Intervention

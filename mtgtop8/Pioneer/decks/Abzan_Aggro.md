@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    2|[Sunpetal Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420946)   |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)       |
+|                    2|[Sunpetal Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420946)   |                    1|[Enlightened Ascetic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398414)|
 |                    3|[Cruel Celebrant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461115)  |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)  |
 |                    4|[Blisterpod](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401825)       |                    3|[Dead Weight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452817)        |
-|                    4|[Cartel Aristocrat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366364)|                    1|[Enlightened Ascetic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398414)|
+|                    4|[Cartel Aristocrat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366364)|                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)       |
 

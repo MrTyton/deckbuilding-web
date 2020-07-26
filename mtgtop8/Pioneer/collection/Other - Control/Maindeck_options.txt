@@ -11,8 +11,8 @@
 3 Azorius Charm
 3 Irrigated Farmland
 3 Deafening Clarion
-3 Glacial Fortress
 3 Gideon, Ally of Zendikar
+3 Glacial Fortress
 3 Hallowed Fountain
 4 Narset, Parter of Veils
 4 Irrigated Farmland
@@ -113,8 +113,8 @@
 3 Trial of Ambition
 4 Trial of Ambition
 4 Isolated Chapel
-4 Treacherous Blessing
 4 Doom Foretold
+4 Treacherous Blessing
 4 Godless Shrine
 5 Plains
 1 Thoughtseize
@@ -125,11 +125,11 @@
 1 Chained to the Rocks
 2 Chained to the Rocks
 2 Nahiri, the Harbinger
-3 Sacred Foundry
 3 Agent of Treachery
+3 Sacred Foundry
 3 Chained to the Rocks
-4 Sacred Foundry
 4 Gideon of the Trials
+4 Sacred Foundry
 4 Sweltering Suns
 4 Chained to the Rocks
 1 Castle Locthwain
@@ -144,56 +144,11 @@
 3 Demonic Pact
 3 Oath of Kaya
 4 Shambling Vent
-1 Hostage Taker
-1 Thassa, Deep-Dwelling
-1 Botanical Sanctum
-1 Grapple with the Past
-1 Woodland Bellower
-1 Eldritch Evolution
-1 Unesh, Criosphinx Sovereign
-1 Arboreal Grazer
-1 Cavalier of Gales
-1 Massacre Girl
-1 Cavalier of Night
-1 Neoform
-1 Tasigur, the Golden Fang
-1 Elvish Rejuvenator
-1 Satyr Wayfinder
-1 Yavimaya Coast
-1 Reclamation Sage
-1 Thought-Knot Seer
-1 Overgrown Tomb
-1 Llanowar Wastes
-1 Scavenging Ooze
-1 Blooming Marsh
-2 Eldritch Evolution
-2 Grapple with the Past
-2 Tasigur, the Golden Fang
-2 Arboreal Grazer
-2 Neoform
-2 Elvish Rejuvenator
-2 Yavimaya Coast
-2 Satyr Wayfinder
-2 Blooming Marsh
-2 Overgrown Tomb
-2 Llanowar Wastes
-3 Arboreal Grazer
-3 Eldritch Evolution
-3 Grapple with the Past
-3 Neoform
-3 Yavimaya Coast
-3 Satyr Wayfinder
-3 Llanowar Wastes
-3 Blooming Marsh
-3 Forest
-4 Arboreal Grazer
-4 Neoform
-4 Satyr Wayfinder
-1 Blood Crypt
 1 Dragonskull Summit
+1 Blood Crypt
 1 Fatal Push
-2 Blood Crypt
 2 Dragonskull Summit
+2 Blood Crypt
 2 Fatal Push
 3 Blood Crypt
 3 Dragonskull Summit
@@ -202,44 +157,89 @@
 4 Fatal Push
 1 Field of Ruin
 1 Kolaghan's Command
-1 Eliminate
-1 Liliana, Waker of the Dead
 1 Kroxa, Titan of Death's Hunger
+1 Liliana, Waker of the Dead
 1 Waste Not
 1 Hazoret the Fervent
 1 Murderous Rider
-1 Davriel, Rogue Shadowmage
 1 Collective Brutality
+1 Davriel, Rogue Shadowmage
+1 Eliminate
 2 Field of Ruin
-2 Eliminate
 2 Kolaghan's Command
 2 Kroxa, Titan of Death's Hunger
 2 Waste Not
 2 Liliana, Waker of the Dead
 2 Murderous Rider
+2 Eliminate
 2 Hazoret the Fervent
 2 Collective Brutality
 2 Davriel, Rogue Shadowmage
 2 Mountain
-3 Davriel, Rogue Shadowmage
-3 Liliana, Waker of the Dead
 3 Waste Not
+3 Davriel, Rogue Shadowmage
 3 Kolaghan's Command
+3 Liliana, Waker of the Dead
 3 Kroxa, Titan of Death's Hunger
 3 Eliminate
 3 Castle Locthwain
 3 Mountain
 4 Dragonskull Summit
 4 Liliana, Waker of the Dead
-4 Kroxa, Titan of Death's Hunger
 4 Waste Not
+4 Kroxa, Titan of Death's Hunger
 4 Swamp
 4 Castle Locthwain
+1 Hostage Taker
+1 Satyr Wayfinder
+1 Botanical Sanctum
+1 Thassa, Deep-Dwelling
+1 Unesh, Criosphinx Sovereign
+1 Massacre Girl
+1 Grapple with the Past
+1 Woodland Bellower
+1 Arboreal Grazer
+1 Eldritch Evolution
+1 Elvish Rejuvenator
+1 Cavalier of Gales
+1 Neoform
+1 Tasigur, the Golden Fang
+1 Cavalier of Night
+1 Yavimaya Coast
+1 Reclamation Sage
+1 Thought-Knot Seer
+1 Overgrown Tomb
+1 Llanowar Wastes
+1 Scavenging Ooze
+1 Blooming Marsh
+2 Satyr Wayfinder
+2 Eldritch Evolution
+2 Grapple with the Past
+2 Tasigur, the Golden Fang
+2 Neoform
+2 Yavimaya Coast
+2 Arboreal Grazer
+2 Elvish Rejuvenator
+2 Blooming Marsh
+2 Overgrown Tomb
+2 Llanowar Wastes
+3 Satyr Wayfinder
+3 Eldritch Evolution
+3 Grapple with the Past
+3 Neoform
+3 Yavimaya Coast
+3 Arboreal Grazer
+3 Llanowar Wastes
+3 Blooming Marsh
+3 Forest
+4 Neoform
+4 Satyr Wayfinder
+4 Arboreal Grazer
+1 Shatter the Sky
 1 Caves of Koilos
 1 Heliod, Sun-Crowned
 1 Arcanist's Owl
 1 Walking Ballista
-1 Shatter the Sky
 2 Shatter the Sky
 2 Caves of Koilos
 2 Heliod, Sun-Crowned
@@ -258,8 +258,8 @@
 1 Expansion / Explosion
 1 Mystical Dispute
 2 Stomping Ground
-2 Pull from Tomorrow
 2 Ketria Triome
+2 Pull from Tomorrow
 2 Bonecrusher Giant
 2 Expansion / Explosion
 3 Castle Vantress
@@ -286,16 +286,16 @@
 2 Watery Grave
 2 Dreadbore
 3 Opt
-3 Dreadbore
 3 Drown in the Loch
 3 Tyrant's Scorn
+3 Dreadbore
 3 Nicol Bolas, Dragon-God
 3 Nicol Bolas, the Ravager
 3 Drowned Catacomb
 3 Watery Grave
 4 Opt
-4 Tyrant's Scorn
 4 Drown in the Loch
+4 Tyrant's Scorn
 4 Dreadbore
 4 Nicol Bolas, Dragon-God
 4 Nicol Bolas, the Ravager

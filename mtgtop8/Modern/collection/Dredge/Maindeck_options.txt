@@ -14,6 +14,8 @@
 1 Stitcher's Supplier
 1 Verdant Catacombs
 1 Vengevine
+2 Verdant Catacombs
+2 Polluted Delta
 2 Overgrown Tomb
 2 Merfolk Secretkeeper
 2 Vengevine
@@ -21,9 +23,8 @@
 2 Stitcher's Supplier
 2 Gravecrawler
 2 Hedron Crab
-2 Polluted Delta
-2 Verdant Catacombs
 2 Glimpse the Unthinkable
+3 Verdant Catacombs
 3 Hedron Crab
 3 Merfolk Secretkeeper
 3 Polluted Delta
@@ -31,7 +32,6 @@
 3 Glimpse the Unthinkable
 3 Stitcher's Supplier
 3 Gravecrawler
-3 Verdant Catacombs
 4 Polluted Delta
 4 Hedron Crab
 4 Stitcher's Supplier
@@ -51,8 +51,8 @@
 3 Misty Rainforest
 1 Swamp
 4 Verdant Catacombs
-1 Gurmag Angler
 1 Skaab Ruinator
+1 Gurmag Angler
 4 Gravecrawler
 1 Gemstone Caverns
 2 Conflagrate
@@ -60,23 +60,23 @@
 2 Scalding Tarn
 3 Scalding Tarn
 1 Snow-Covered Island
-1 Snow-Covered Swamp
 1 Darkslick Shores
+1 Snow-Covered Swamp
 2 Gurmag Angler
 2 Darkslick Shores
 3 Gurmag Angler
 4 Gurmag Angler
-1 Darkblast
-3 Stomping Ground
-4 Bloodghast
-4 Merchant of the Vale
-4 Copperline Gorge
 1 Uro, Titan of Nature's Wrath
 1 Island
 2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
 4 Misty Rainforest
+1 Darkblast
+3 Stomping Ground
+4 Bloodghast
+4 Merchant of the Vale
+4 Copperline Gorge
 1 Carrion Feeder
 1 Marsh Flats
 2 Carrion Feeder

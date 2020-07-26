@@ -39,8 +39,8 @@
 |                    3|[Charming Prince](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970)|                    1|[Lavinia, Azorius Renegade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457333)|
 |                    3|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)    |                    1|[Leonin Relic-Warder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=432997)      |
 |                     |                                                                                          |                    2|Eliminate                                                                                           |
-|                     |                                                                                          |                    1|[Painful Truths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401981)           |
 |                     |                                                                                          |                    1|[Disenchant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=847)                  |
+|                     |                                                                                          |                    1|[Painful Truths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401981)           |
 |                     |                                                                                          |                    1|[Submerge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21296)                  |
 |                     |                                                                                          |                    2|[Submerge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21296)                  |
 

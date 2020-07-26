@@ -1,41 +1,40 @@
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
 11 Mountain
 12 Mountain
+1 Wooded Foothills
+1 Bloodstained Mire
+2 Bloodstained Mire
 1 Arid Mesa
+4 Searing Blaze
 13 Mountain
+2 Wooded Foothills
 14 Mountain
+1 Lava Dart
 1 Light Up the Stage
 1 Soul-Scar Mage
-1 Lava Dart
 2 Lava Dart
-2 Soul-Scar Mage
 2 Light Up the Stage
+2 Soul-Scar Mage
+3 Lava Dart
 3 Light Up the Stage
 3 Soul-Scar Mage
-3 Lava Dart
+4 Light Up the Stage
 4 Lava Dart
 4 Soul-Scar Mage
-4 Light Up the Stage
-1 Bedlam Reveler
+2 Arid Mesa
 1 Crash Through
+1 Bedlam Reveler
 1 Manamorphose
+2 Crash Through
 2 Bedlam Reveler
 2 Manamorphose
-2 Crash Through
+3 Crash Through
 3 Bedlam Reveler
 3 Manamorphose
-3 Crash Through
 4 Crash Through
 4 Manamorphose
-2 Wooded Foothills
-2 Fiery Islet
-2 Arid Mesa
-3 Wooded Foothills
-3 Lightning Helix
-4 Lightning Helix
+3 Bloodstained Mire
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
 1 Seal of Fire
 1 Chandra's Incinerator
 2 Seal of Fire
@@ -44,72 +43,83 @@
 3 Chandra's Incinerator
 4 Seal of Fire
 4 Chandra's Incinerator
-3 Fiery Islet
+2 Fiery Islet
 1 Vexing Devil
 2 Vexing Devil
 3 Vexing Devil
 4 Vexing Devil
-1 Kiln Fiend
-2 Kiln Fiend
-1 Burst Lightning
-2 Burst Lightning
+3 Wooded Foothills
 1 Firebolt
 2 Firebolt
-3 Bloodstained Mire
 1 Shard Volley
 2 Shard Volley
+3 Fiery Islet
 3 Shard Volley
-4 Fiery Islet
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-4 Wooded Foothills
 1 Wild Slash
 1 Mishra's Bauble
 2 Wild Slash
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
+1 Kiln Fiend
+2 Kiln Fiend
 3 Snow-Covered Mountain
+3 Lightning Helix
+4 Lightning Helix
+4 Wooded Foothills
+4 Bloodstained Mire
+1 Burst Lightning
+2 Burst Lightning
+4 Fiery Islet
 1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
-3 Kiln Fiend
-1 Runaway Steam-Kin
-2 Runaway Steam-Kin
-3 Runaway Steam-Kin
 1 Grim Lavamancer
-3 Burst Lightning
-4 Burst Lightning
-4 Bloodstained Mire
-1 Gut Shot
-2 Gut Shot
-3 Arid Mesa
-3 Sacred Foundry
 1 Bonecrusher Giant
 1 Abbot of Keral Keep
-2 Grim Lavamancer
 2 Bonecrusher Giant
 2 Abbot of Keral Keep
-3 Grim Lavamancer
+3 Burst Lightning
 3 Bonecrusher Giant
 3 Firebolt
 3 Abbot of Keral Keep
+4 Burst Lightning
 4 Bonecrusher Giant
-4 Grim Lavamancer
 4 Firebolt
 4 Abbot of Keral Keep
-1 Desperate Ritual
+15 Mountain
+16 Mountain
+17 Mountain
+18 Mountain
+3 Arid Mesa
+3 Kiln Fiend
+3 Sacred Foundry
+1 Gut Shot
+1 Runaway Steam-Kin
+2 Gut Shot
+2 Runaway Steam-Kin
+3 Runaway Steam-Kin
+3 Skullcrack
+1 Blistercoil Weird
+2 Blistercoil Weird
+3 Blistercoil Weird
+4 Blistercoil Weird
+2 Grim Lavamancer
+3 Grim Lavamancer
+4 Grim Lavamancer
+4 Bedlam Reveler
 1 Legion Warboss
 1 Hazoret the Fervent
+1 Goblin Rabblemaster
 1 Gemstone Caverns
 1 Chandra, Awakened Inferno
 1 Magus of the Moon
-1 Goblin Rabblemaster
 1 Simian Spirit Guide
 1 Chalice of the Void
 1 Seasoned Pyromancer
 1 Abrade
+1 Desperate Ritual
 1 Blood Moon
 1 Karn, the Great Creator
 1 Chandra, Torch of Defiance
@@ -126,17 +136,13 @@
 3 Gemstone Caverns
 3 Simian Spirit Guide
 3 Goblin Rabblemaster
-3 Blood Moon
 3 Chalice of the Void
+3 Blood Moon
 3 Abrade
 4 Simian Spirit Guide
 4 Abrade
 4 Goblin Rabblemaster
 4 Gemstone Caverns
-15 Mountain
-16 Mountain
-17 Mountain
-18 Mountain
 1 Atarka's Command
 1 Copperline Gorge
 1 Stomping Ground

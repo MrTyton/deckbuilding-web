@@ -1,14 +1,14 @@
 3 Gideon Blackblade
+2 Disenchant
 1 Shatter the Sky
 2 Shatter the Sky
-2 Disenchant
+3 Disenchant
 1 Unbreakable Formation
 1 Drannith Magistrate
 2 Drannith Magistrate
 1 Fight as One
 2 Fight as One
 3 Fight as One
-3 Disenchant
 1 Lavabrink Venturer
 2 Lavabrink Venturer
 3 Drannith Magistrate
@@ -17,8 +17,8 @@
 1 Grafdigger's Cage
 2 Grafdigger's Cage
 3 Grafdigger's Cage
-1 Pacifism
 1 Lurrus of the Dream Den
+1 Pacifism
 4 Glass Casket
 1 Banishing Light
 2 Banishing Light
@@ -28,12 +28,12 @@
 1 Daxos, Blessed by the Sun
 2 Lurrus of the Dream Den
 4 Gideon Blackblade
-1 Conclave Tribunal
 1 Tithe Taker
 2 Tithe Taker
 1 Hushbringer
 2 Hushbringer
 3 Hushbringer
+1 Conclave Tribunal
 2 Heliod's Intervention
 1 Baneslayer Angel
 1 Deafening Silence
@@ -42,15 +42,14 @@
 4 Hushbringer
 1 Ravnica at War
 2 Ravnica at War
-1 Gods Willing
-2 Pacifism
 1 Light of Hope
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 1 Revoke Existence
+2 Pacifism
 2 Revoke Existence
-1 Swallow Whole
 1 Shadowspear
+1 Gods Willing
 1 Basri Ket
 1 Lurrus of the Dream-Den
 1 Sorcerous Spyglass
@@ -78,22 +77,24 @@
 2 Take Vengeance
 2 Speaker of the Heavens
 3 Take Vengeance
+1 The Elderspell
+1 Kaya's Wrath
+1 Kaya, Orzhov Usurper
+2 Shadowspear
+2 Kaya, Orzhov Usurper
+2 The Elderspell
+2 Kaya's Wrath
+3 Kaya, Orzhov Usurper
+3 Kaya's Wrath
+3 The Elderspell
+3 Shadowspear
+1 Swallow Whole
 2 Swallow Whole
 3 Swallow Whole
 1 Prison Realm
 2 Prison Realm
 3 Prison Realm
 4 Banishing Light
-1 Tormod's Crypt
-1 Bond of Discipline
-1 Divine Arrow
-1 Triumphant Surge
-1 Summary Judgment
-2 Conclave Tribunal
-2 Summary Judgment
-3 Conclave Tribunal
-3 Pacifism
-4 Pacifism
 3 Unbreakable Formation
 3 Lavabrink Venturer
 4 Unbreakable Formation
@@ -117,9 +118,9 @@
 2 Stonecoil Serpent
 2 Runed Halo
 3 Gods Willing
-3 Stonecoil Serpent
 3 Runed Halo
 3 Containment Priest
+3 Stonecoil Serpent
 4 Gods Willing
 4 Runed Halo
 1 Beloved Princess

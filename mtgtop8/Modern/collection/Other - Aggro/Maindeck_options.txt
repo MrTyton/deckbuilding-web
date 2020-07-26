@@ -2,27 +2,27 @@
 2 Thoughtseize
 4 Mishra's Bauble
 2 Force of Negation
-1 Of One Mind
 1 Young Pyromancer
+1 Of One Mind
 1 Lurrus of the Dream-Den
-2 Lurrus of the Dream-Den
-2 Unearth
 2 Young Pyromancer
+2 Unearth
+2 Lurrus of the Dream-Den
 3 Young Pyromancer
 4 Young Pyromancer
 1 Spell Pierce
-1 Thieves' Guild Enforcer
 1 Vantress Gargoyle
+1 Thieves' Guild Enforcer
 1 Into the Story
 1 Mystic Sanctuary
 1 Brazen Borrower
 2 Drown in the Loch
-2 Thieves' Guild Enforcer
 2 Vantress Gargoyle
-3 Thieves' Guild Enforcer
-3 Vantress Gargoyle
-3 Watery Grave
+2 Thieves' Guild Enforcer
 3 Inquisition of Kozilek
+3 Vantress Gargoyle
+3 Thieves' Guild Enforcer
+3 Watery Grave
 3 Drown in the Loch
 4 Thieves' Guild Enforcer
 4 Drown in the Loch
@@ -43,38 +43,39 @@
 2 Sunbaked Canyon
 3 Blackcleave Cliffs
 3 Bloodstained Mire
-4 Bloodstained Mire
 4 Blackcleave Cliffs
+4 Bloodstained Mire
+1 Monastery Swiftspear
 1 Seal of Fire
-1 Abbot of Keral Keep
 1 Soul-Scar Mage
 1 Lava Dart
-1 Monastery Swiftspear
+1 Abbot of Keral Keep
 1 Arid Mesa
 1 Kiln Fiend
 1 Manamorphose
-2 Seal of Fire
-2 Abbot of Keral Keep
-2 Soul-Scar Mage
-2 Lava Dart
 2 Monastery Swiftspear
+2 Seal of Fire
+2 Soul-Scar Mage
+2 Abbot of Keral Keep
+2 Lava Dart
 2 Cling to Dust
 2 Manamorphose
 2 Kiln Fiend
+3 Monastery Swiftspear
 3 Cling to Dust
 3 Seal of Fire
 3 Mountain
-3 Abbot of Keral Keep
 3 Soul-Scar Mage
-3 Monastery Swiftspear
+3 Abbot of Keral Keep
 3 Manamorphose
 3 Sunbaked Canyon
-4 Abbot of Keral Keep
-4 Mountain
-4 Soul-Scar Mage
 4 Monastery Swiftspear
+4 Soul-Scar Mage
+4 Mountain
+4 Abbot of Keral Keep
 4 Manamorphose
 1 Cavern of Souls
+1 Goblin Warchief
 1 Kiki-Jiki, Mirror Breaker
 1 Munitions Expert
 1 Goblin Ringleader
@@ -85,7 +86,6 @@
 1 Skirk Prospector
 1 Goblin Chieftain
 1 Mogg War Marshal
-1 Goblin Warchief
 1 Conspicuous Snoop
 1 Boggart Harbinger
 1 Auntie's Hovel
@@ -121,8 +121,8 @@
 4 Boggart Harbinger
 1 Godless Shrine
 1 Curious Obsession
-1 Flooded Strand
 1 Hateful Eidolon
+1 Flooded Strand
 1 Mogis's Favor
 1 Teferi, Time Raveler
 1 Dead Weight
@@ -141,22 +141,22 @@
 2 Curious Obsession
 2 Spell Pierce
 2 Flooded Strand
+2 Hateful Eidolon
 2 Dead Weight
 2 Seachrome Coast
 2 Rattlechains
 2 Tallowisp
 2 Supreme Phantom
-2 Hateful Eidolon
 2 Remand
 2 Island
 2 Mausoleum Wanderer
 2 Spell Queller
 3 Curious Obsession
 3 Force of Negation
+3 Hateful Eidolon
 3 Dead Weight
 3 Spell Queller
 3 Mausoleum Wanderer
-3 Hateful Eidolon
 3 Flooded Strand
 3 Supreme Phantom
 3 Rattlechains

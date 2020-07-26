@@ -1,0 +1,45 @@
+# Five-color Humans
+
+#### [Export MTGO List](../collection/Five-color%20Humans/Five-color%20Humans.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A4%09Ancient%20Ziggurat%0A1%09Barrin,%20Tolarian%20Archmage%0A4%09Cavern%20of%20Souls%0A4%09Champion%20of%20the%20Parish%0A1%09Deputy%20of%20Detention%0A2%09General%20Kudro%20of%20Drannith%0A2%09Horizon%20Canopy%0A2%09Imperial%20Recruiter%0A2%09Karakas%0A3%09Kitesail%20Freebooter%0A3%09Meddling%20Mage%0A4%09Mother%20of%20Runes%0A4%09Noble%20Hierarch%0A1%09Orzhov%20Pontiff%0A1%09Palace%20Jailer%0A1%09Silent%20Clearing%0A4%09Thalia's%20Lieutenant%0A4%09Thalia,%20Guardian%20of%20Thraben%0A1%09Tomik,%20Distinguished%20Advokist%0A4%09Unclaimed%20Territory%0A4%09Wasteland&deckside=1%09Containment%20Priest%0A1%09Deputy%20of%20Detention%0A2%09Dismember%0A1%09Imperial%20Recruiter%0A1%09Manic%20Vandal%0A2%09Mindbreak%20Trap%0A1%09Orzhov%20Pontiff%0A1%09Palace%20Jailer%0A2%09Sanctum%20Prelate%0A2%09Surgical%20Extraction%0A1%09Tomik,%20Distinguished%20Advokist)
+# Maindeck
+
+|                                     Artifact (4)                                      |                                              Creature (32)                                               |                                           Land (21)                                            |        Unknown (3)        |
+|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|---------------------------|
+|4 [Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48146)|4 [Champion of the Parish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409580)       |4 [Ancient Ziggurat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189271)   |1 Barrin, Tolarian Archmage|
+|                                                                                       |1 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)          |4 [Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)    |2 General Kudro of Drannith|
+|                                                                                       |2 [Imperial Recruiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442125)           |2 [Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)     |                           |
+|                                                                                       |3 [Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264)          |2 [Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)            |                           |
+|                                                                                       |3 [Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)                |1 [Silent Clearing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464195)    |                           |
+|                                                                                       |4 [Mother of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430236)              |4 [Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)|                           |
+|                                                                                       |4 [Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)               |4 [Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)          |                           |
+|                                                                                       |1 [Orzhov Pontiff](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460469)               |                                                                                                |                           |
+|                                                                                       |1 [Palace Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416775)                |                                                                                                |                           |
+|                                                                                       |4 [Thalia's Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409783)          |                                                                                                |                           |
+|                                                                                       |4 [Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)  |                                                                                                |                           |
+|                                                                                       |1 [Tomik, Distinguished Advokist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460961)|                                                                                                |                           |
+
+
+# Sideboard
+
+|                                               Creature (9)                                               |                                          Instant (6)                                           |
+|----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|1 [Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470)           |2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
+|1 [Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)          |2 [Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)     |
+|1 [Imperial Recruiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442125)           |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|1 [Manic Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208007)                 |                                                                                                |
+|1 [Orzhov Pontiff](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460469)               |                                                                                                |
+|1 [Palace Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416775)                |                                                                                                |
+|2 [Sanctum Prelate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416780)              |                                                                                                |
+|1 [Tomik, Distinguished Advokist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460961)|                                                                                                |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)  |                    1|[Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802)  |
+|                    4|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264)|                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
+|                     |                                                                                              |                    2|[Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802)  |
+|                     |                                                                                              |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
+

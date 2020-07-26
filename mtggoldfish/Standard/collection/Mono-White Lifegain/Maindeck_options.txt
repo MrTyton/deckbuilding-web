@@ -1,17 +1,17 @@
-2 Basri Ket
-4 Daxos, Blessed by the Sun
+1 Unbreakable Formation
 2 Unbreakable Formation
-3 Banishing Light
-3 Ajani, Strength of the Pride
-1 Venerated Loxodon
+1 Fight as One
+2 Fight as One
+3 Fight as One
+1 Archon of Sun's Grace
 1 Luminous Broodmoth
 1 Glass Casket
 2 Glass Casket
 4 Castle Ardenvale
 3 Basri Ket
-1 Archon of Sun's Grace
 1 Gideon Blackblade
 1 Conclave Tribunal
+1 Venerated Loxodon
 2 Venerated Loxodon
 2 Archon of Sun's Grace
 3 Archon of Sun's Grace
@@ -21,10 +21,10 @@
 4 Linden, the Steadfast Queen
 2 Conclave Tribunal
 1 Selfless Savior
-1 Light of Hope
 2 Selfless Savior
 3 Selfless Savior
 3 Glass Casket
+1 Light of Hope
 2 Light of Hope
 4 Banishing Light
 21 Plains
@@ -33,10 +33,10 @@
 2 Griffin Aerie
 3 Impassioned Orator
 3 Conclave Tribunal
-1 Haazda Marshal
 1 Tithe Taker
-2 Haazda Marshal
+1 Haazda Marshal
 2 Tithe Taker
+2 Haazda Marshal
 3 Tithe Taker
 3 Haazda Marshal
 4 Haazda Marshal
@@ -44,24 +44,24 @@
 3 Venerated Loxodon
 4 Venerated Loxodon
 1 Venerable Knight
-1 Loyal Pegasus
-2 Loyal Pegasus
-2 Venerable Knight
-3 Loyal Pegasus
-3 Unbreakable Formation
-3 Venerable Knight
-4 Loyal Pegasus
-4 Venerable Knight
-4 Tithe Taker
-4 Unbreakable Formation
-1 Raise the Alarm
-2 Raise the Alarm
-3 Raise the Alarm
 1 Elspeth Conquers Death
 1 The Birth of Meletis
 2 The Birth of Meletis
 2 Elspeth Conquers Death
 3 The Birth of Meletis
+1 Loyal Pegasus
+2 Loyal Pegasus
+2 Venerable Knight
+3 Loyal Pegasus
+3 Venerable Knight
+3 Unbreakable Formation
+4 Venerable Knight
+4 Loyal Pegasus
+4 Unbreakable Formation
+4 Tithe Taker
+1 Raise the Alarm
+2 Raise the Alarm
+3 Raise the Alarm
 4 Archon of Sun's Grace
 1 Cubwarden
 2 Cubwarden
@@ -76,7 +76,6 @@
 4 Impassioned Orator
 4 Conclave Tribunal
 1 Radiant Fountain
-1 Angelic Ascension
 1 Gods Willing
 2 Gods Willing
 3 Gods Willing
@@ -85,50 +84,51 @@
 3 Idyllic Grange
 4 Idyllic Grange
 4 Ajani, Strength of the Pride
+1 Hushbringer
+2 Hushbringer
+3 Hushbringer
+4 Hushbringer
 1 Animal Sanctuary
-1 Basri's Solidarity
-1 Charmed Stray
-2 Charmed Stray
-2 Basri's Solidarity
-2 Animal Sanctuary
-3 Charmed Stray
-4 Charmed Stray
-1 Sentinel's Eyes
-1 Solid Footing
-1 Pack Leader
-2 Solid Footing
-1 Swift Response
 1 Shatter the Sky
+1 Swift Response
 1 Feat of Resistance
 1 Kaheera, the Orphanguard
 1 Pacifism
-1 Maned Serval
 1 Basri's Acolyte
+1 Basri's Solidarity
+1 Maned Serval
 1 Legion's Judgment
+1 Charmed Stray
 2 Swift Response
 2 Kaheera, the Orphanguard
 2 Feat of Resistance
 2 Pacifism
+2 Charmed Stray
 2 Maned Serval
+2 Basri's Solidarity
 2 Legion's Judgment
 2 Basri's Acolyte
+2 Animal Sanctuary
 3 Swift Response
 3 Pacifism
 3 Animal Sanctuary
 3 Kaheera, the Orphanguard
 3 Feat of Resistance
+3 Charmed Stray
 3 Legion's Judgment
 3 Basri's Acolyte
 3 Maned Serval
 3 Basri's Solidarity
 4 Swift Response
 4 Pacifism
+4 Charmed Stray
 4 Basri's Solidarity
 4 Animal Sanctuary
 4 Feat of Resistance
 4 Legion's Judgment
 4 Maned Serval
 4 Basri's Acolyte
+1 Angelic Ascension
 1 Deafening Silence
 2 Angelic Ascension
 2 Deafening Silence
@@ -138,11 +138,11 @@
 23 Plains
 1 Basri's Lieutenant
 2 Basri's Lieutenant
-1 Lavabrink Venturer
-2 Lavabrink Venturer
 1 Drannith Magistrate
 1 Bounty Agent
 2 Drannith Magistrate
+1 Lavabrink Venturer
+2 Lavabrink Venturer
 1 Planar Cleansing
 2 Planar Cleansing
 3 Lurrus of the Dream-Den
@@ -157,17 +157,12 @@
 2 Radiant Fountain
 3 Radiant Fountain
 3 Glorious Anthem
-1 Pious Wayfarer
-1 Tempered Veteran
-1 Elspeth, Sun's Nemesis
-1 Anointed Chorister
-1 Take Heart
-1 Hero of the Pride
-1 Alpine Watchdog
-1 Sunhome Stalwart
-2 Anointed Chorister
-2 Alpine Watchdog
-3 Anointed Chorister
+2 Tomik, Distinguished Advokist
+3 Gideon Blackblade
+3 Light of Hope
+3 Tomik, Distinguished Advokist
+4 Light of Hope
+4 Gideon Blackblade
 1 Hunted Witness
 1 Heliod's Intervention
 2 Hunted Witness
@@ -176,23 +171,52 @@
 2 Angel of Vitality
 3 Angel of Vitality
 4 Angel of Vitality
-1 Hushbringer
-2 Hushbringer
-3 Hushbringer
-4 Hushbringer
 4 Cubwarden
 1 Soulmender
 2 Soulmender
 4 Selfless Savior
 4 Basri Ket
-1 All That Glitters
-1 Stonecoil Serpent
+1 Castle Locthwain
+1 Sorin, Vengeful Bloodlord
+1 Swamp
+1 Karn's Bastion
+1 Scoured Barrens
+1 Bloodthirsty Aerialist
+1 Vampire of the Dire Moon
+1 Godless Shrine
+2 Sorin, Vengeful Bloodlord
+2 Swamp
+2 Bloodthirsty Aerialist
+2 Scoured Barrens
+2 Vampire of the Dire Moon
+2 Godless Shrine
+3 Swamp
+3 Bloodthirsty Aerialist
+3 Elspeth Conquers Death
+3 Vampire of the Dire Moon
+3 Sorin, Vengeful Bloodlord
+3 Scoured Barrens
+3 Godless Shrine
+4 Swamp
+4 Godless Shrine
+4 Vampire of the Dire Moon
+4 Bloodthirsty Aerialist
+4 Sorin, Vengeful Bloodlord
+4 Scoured Barrens
+5 Swamp
+6 Swamp
 1 Gingerbrute
 1 Shadowspear
+1 Stonecoil Serpent
 1 Karametra's Blessing
+1 Sentinel's Eyes
+1 All That Glitters
 1 Glaring Aegis
-2 Stonecoil Serpent
+1 Solid Footing
+1 Pack Leader
 2 Gingerbrute
+2 Stonecoil Serpent
+2 Solid Footing
 2 All That Glitters
 2 Karametra's Blessing
 2 Glaring Aegis
@@ -209,9 +233,3 @@
 4 Solid Footing
 4 Gods Willing
 4 All That Glitters
-2 Tomik, Distinguished Advokist
-3 Light of Hope
-3 Tomik, Distinguished Advokist
-3 Gideon Blackblade
-4 Light of Hope
-4 Gideon Blackblade
