@@ -93,10 +93,6 @@
 1 Disinformation Campaign
 1 Legion's End
 2 Legion's End
-1 Karn, the Great Creator
-2 Karn, the Great Creator
-3 Karn, the Great Creator
-4 Karn, the Great Creator
 1 Basilica Bell-Haunt
 1 Heartless Act
 2 Basilica Bell-Haunt
@@ -104,6 +100,10 @@
 3 Basilica Bell-Haunt
 3 Yorion, Sky Nomad
 4 Basilica Bell-Haunt
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+3 Karn, the Great Creator
+4 Karn, the Great Creator
 1 Murderous Rider
 1 Blast Zone
 1 Urborg, Tomb of Yawgmoth
@@ -146,9 +146,9 @@
 1 Agent of Treachery
 2 Agent of Treachery
 2 Neutralize
-2 Charming Prince
-3 Neutralize
 3 Charming Prince
+3 Neutralize
+4 Charming Prince
 4 Neutralize
 1 Solemn Simulacrum
-4 Charming Prince
+2 Charming Prince
