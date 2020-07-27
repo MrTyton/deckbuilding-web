@@ -69,8 +69,8 @@
 2 Dire Tactics
 3 Elite Guardmage
 3 Hero of Precinct One
-3 Atris, Oracle of Half-Truths
 3 Dire Tactics
+3 Atris, Oracle of Half-Truths
 4 Dire Tactics
 4 Hero of Precinct One
 1 Ugin, the Spirit Dragon
@@ -158,8 +158,8 @@
 4 Dismal Backwater
 8 Island
 1 Neutralize
-1 Solemn Simulacrum
 1 Cling to Dust
+1 Solemn Simulacrum
 1 Tyrant's Scorn
 2 The Wanderer
 1 The Elderspell
@@ -167,10 +167,8 @@
 2 Castle Vantress
 3 Teferi, Master of Time
 3 Eliminate
-4 Atris, Oracle of Half-Truths
-4 Elite Guardmage
-1 Indatha Triome
 1 Zagoth Triome
+1 Indatha Triome
 1 Mythos of Nethroi
 1 Forest
 2 Indatha Triome
@@ -198,6 +196,8 @@
 4 Brazen Borrower
 4 Yarok's Fenlurker
 4 Treacherous Blessing
+4 Elite Guardmage
+4 Atris, Oracle of Half-Truths
 1 Cry of the Carnarium
 1 Murderous Rider
 2 Castle Ardenvale
@@ -206,11 +206,11 @@
 1 Eat to Extinction
 1 Negate
 1 Despark
-2 Ugin, the Spirit Dragon
 2 Liliana, Dreadhorde General
 2 Ugin, the Ineffable
 2 Eat to Extinction
 2 Banishing Light
+2 Ugin, the Spirit Dragon
 2 Negate
 2 Despark
 3 Ugin, the Ineffable
