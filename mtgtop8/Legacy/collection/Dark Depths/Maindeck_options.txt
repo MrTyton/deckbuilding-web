@@ -1,20 +1,20 @@
-2 Elvish Reclaimer
 1 Snow-Covered Forest
 1 Snow-Covered Swamp
+2 Elvish Reclaimer
 3 Elvish Reclaimer
-1 Sylvan Safekeeper
-1 Wasteland
-1 Abrupt Decay
-2 Abrupt Decay
 4 Elvish Reclaimer
-1 Dryad Arbor
 1 Nurturing Peatland
+1 Wasteland
+1 Sylvan Safekeeper
 1 Mox Diamond
 2 Mox Diamond
 3 Mox Diamond
-3 Abrupt Decay
+1 Abrupt Decay
+2 Abrupt Decay
 1 Sylvan Library
+3 Bayou
 1 Misty Rainforest
+1 Dryad Arbor
 2 Nurturing Peatland
 1 Cabal Therapy
 1 Satyr Wayfinder
@@ -30,17 +30,16 @@
 3 Stitcher's Supplier
 3 Satyr Wayfinder
 4 Stitcher's Supplier
+1 Once Upon a Time
+2 Once Upon a Time
+3 Duress
+3 Abrupt Decay
 1 Dark Confidant
 2 Dark Confidant
 3 Dark Confidant
-3 Duress
-3 Bayou
+3 Inquisition of Kozilek
 1 Polluted Delta
 4 Mox Diamond
-1 Green Sun's Zenith
-1 Maze of Ith
-2 Green Sun's Zenith
-2 Sejiri Steppe
 4 Cabal Therapy
 4 Hogaak, Arisen Necropolis
 1 Brainstorm
@@ -55,19 +54,21 @@
 3 Misty Rainforest
 3 Brainstorm
 4 Brainstorm
-1 Once Upon a Time
-2 Once Upon a Time
 2 Sylvan Safekeeper
+3 Once Upon a Time
+4 Dark Confidant
 4 Duress
 1 Blooming Marsh
 2 Blooming Marsh
 1 Blast Zone
 1 Sorcerous Spyglass
 1 Assassin's Trophy
-3 Inquisition of Kozilek
 4 Inquisition of Kozilek
 1 Windswept Heath
-3 Once Upon a Time
+1 Green Sun's Zenith
+1 Maze of Ith
+2 Green Sun's Zenith
+2 Sejiri Steppe
 1 Hymn to Tourach
 1 Surgical Extraction
 1 Rite of Consumption
@@ -77,7 +78,8 @@
 1 Life from the Loam
 2 Wasteland
 3 Wasteland
-4 Dark Confidant
+1 Wooded Foothills
+4 Once Upon a Time
 4 Polluted Delta
 1 Veil of Summer
 1 Living Wish

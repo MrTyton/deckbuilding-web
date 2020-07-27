@@ -21,9 +21,9 @@
 2 Mutavault
 3 Mutavault
 4 Mutavault
+1 Toolcraft Exemplar
 1 All That Glitters
 1 Hallowed Fountain
-1 Toolcraft Exemplar
 1 Stonecoil Serpent
 1 Ensoul Artifact
 1 Spire of Industry
@@ -35,9 +35,9 @@
 1 Hope of Ghirapur
 1 Spirebluff Canal
 1 Stubborn Denial
+2 Toolcraft Exemplar
 2 All That Glitters
 2 Hallowed Fountain
-2 Toolcraft Exemplar
 2 Hope of Ghirapur
 2 Spire of Industry
 2 Stubborn Denial
@@ -48,10 +48,10 @@
 2 Bomat Courier
 2 Thraben Inspector
 2 Ghostfire Blade
+3 Toolcraft Exemplar
 3 Stubborn Denial
 3 All That Glitters
 3 Hallowed Fountain
-3 Toolcraft Exemplar
 3 Spire of Industry
 3 Darksteel Citadel
 3 Stonecoil Serpent
@@ -60,9 +60,8 @@
 3 Thraben Inspector
 3 Ghostfire Blade
 3 Bomat Courier
-4 All That Glitters
-4 Hallowed Fountain
 4 Toolcraft Exemplar
+4 Hallowed Fountain
 4 Darksteel Citadel
 4 Bomat Courier
 4 Gingerbrute
@@ -71,6 +70,7 @@
 4 Ensoul Artifact
 4 Spire of Industry
 4 Stonecoil Serpent
+4 All That Glitters
 2 Inspiring Vantage
 1 Goblin Instigator
 2 Selfless Spirit
@@ -151,9 +151,9 @@
 2 Murderous Rider
 1 Ashiok, Nightmare Muse
 1 Breeding Pool
-1 Ipnu Rivulet
 1 Hinterland Harbor
 1 Traverse the Ulvenwald
+1 Ipnu Rivulet
 1 Shark Typhoon
 1 Jace, Vryn's Prodigy
 1 Uro, Titan of Nature's Wrath
@@ -171,25 +171,25 @@
 2 Uro, Titan of Nature's Wrath
 2 Satyr Wayfinder
 3 Satyr Wayfinder
-3 Uro, Titan of Nature's Wrath
 3 Traverse the Ulvenwald
-3 Breeding Pool
+3 Uro, Titan of Nature's Wrath
 3 Jace, Vryn's Prodigy
+3 Breeding Pool
 4 Satyr Wayfinder
 4 Uro, Titan of Nature's Wrath
 1 Duskwatch Recruiter
 2 Duskwatch Recruiter
 2 Goblin Instigator
-3 Rootbound Crag
 3 Duskwatch Recruiter
 3 Gilded Goose
 3 Goblin Instigator
+3 Rootbound Crag
 4 Gilded Goose
 2 Walking Ballista
 3 Walking Ballista
 4 Walking Ballista
-1 Experiment One
 1 Pelt Collector
+1 Experiment One
 2 Experiment One
 2 Pelt Collector
 3 Experiment One
@@ -197,9 +197,7 @@
 4 Experiment One
 4 Pelt Collector
 1 Domri, Anarch of Bolas
-1 Gruul Spellbreaker
 1 Hashep Oasis
-1 Burning-Tree Emissary
 1 Gallia of the Endless Dance
 1 Bonecrusher Giant
 1 Zhur-Taa Goblin
@@ -210,32 +208,34 @@
 1 Embercleave
 1 Ghor-Clan Rampager
 1 Game Trail
+1 Gruul Spellbreaker
 1 Domri Rade
-2 Gruul Spellbreaker
-2 Burning-Tree Emissary
+1 Burning-Tree Emissary
 2 Hashep Oasis
 2 Gallia of the Endless Dance
 2 Bonecrusher Giant
 2 Zhur-Taa Goblin
 2 Voltaic Brawler
+2 Gruul Spellbreaker
 2 Embercleave
 2 Ghor-Clan Rampager
+2 Burning-Tree Emissary
 2 Game Trail
-3 Gruul Spellbreaker
-3 Burning-Tree Emissary
 3 Bonecrusher Giant
 3 Ghor-Clan Rampager
 3 Voltaic Brawler
-4 Burning-Tree Emissary
+3 Gruul Spellbreaker
+3 Burning-Tree Emissary
 4 Bonecrusher Giant
 4 Voltaic Brawler
 4 Gruul Spellbreaker
 4 Ghor-Clan Rampager
-1 Dead Weight
+4 Burning-Tree Emissary
 1 Chevill, Bane of Monsters
 1 Deathrite Shaman
 1 Kolaghan's Command
 1 Unbridled Growth
+1 Dead Weight
 1 Grim Flayer
 2 Dead Weight
 2 Deathrite Shaman
@@ -243,8 +243,8 @@
 2 Chevill, Bane of Monsters
 2 Unbridled Growth
 2 Grim Flayer
-3 Deathrite Shaman
 3 Grim Flayer
+3 Deathrite Shaman
 3 Chevill, Bane of Monsters
 3 Unbridled Growth
 4 Grim Flayer
@@ -263,33 +263,33 @@
 3 Call of the Death-Dweller
 4 Young Pyromancer
 4 Dreadhorde Arcanist
+1 Scrapheap Scrounger
 1 Winding Constrictor
 1 Hardened Scales
-1 Nissa, Voice of Zendikar
-1 Rishkar, Peema Renegade
-1 Scrapheap Scrounger
 1 Llanowar Wastes
 1 Hissing Quagmire
 1 Voracious Hydra
 1 Assassin's Trophy
+1 Rishkar, Peema Renegade
+1 Nissa, Voice of Zendikar
+2 Llanowar Wastes
 2 Hardened Scales
 2 Winding Constrictor
-2 Rishkar, Peema Renegade
-2 Nissa, Voice of Zendikar
-2 Llanowar Wastes
 2 Assassin's Trophy
 2 Voracious Hydra
+2 Rishkar, Peema Renegade
+2 Nissa, Voice of Zendikar
+3 Llanowar Wastes
 3 Hardened Scales
 3 Winding Constrictor
-3 Rishkar, Peema Renegade
-3 Nissa, Voice of Zendikar
-3 Llanowar Wastes
 3 Assassin's Trophy
+3 Nissa, Voice of Zendikar
 3 Voracious Hydra
+3 Rishkar, Peema Renegade
 4 Hardened Scales
 4 Winding Constrictor
-4 Nissa, Voice of Zendikar
 4 Assassin's Trophy
+4 Nissa, Voice of Zendikar
 4 Voracious Hydra
 4 Llanowar Wastes
 1 Mire Triton
@@ -308,7 +308,6 @@
 4 Fiend Artisan
 4 Bloodsoaked Champion
 1 Eliminate
-1 Brazen Borrower
 1 Choked Estuary
 1 Thieves' Guild Enforcer
 1 Drown in the Loch
@@ -316,6 +315,7 @@
 1 Glint-Sleeve Siphoner
 1 Rankle, Master of Pranks
 1 Mystical Dispute
+1 Brazen Borrower
 2 Eliminate
 2 Brazen Borrower
 2 Choked Estuary

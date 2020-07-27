@@ -54,8 +54,8 @@
 1 Thassa's Intervention
 2 Thassa's Intervention
 1 Bonders' Enclave
-3 Llanowar Visionary
 3 Castle Garenbrig
+3 Llanowar Visionary
 4 Solemn Simulacrum
 11 Forest
 12 Forest
@@ -69,22 +69,6 @@
 2 Mass Manipulation
 4 Ugin, the Spirit Dragon
 4 Aether Gust
-1 Frantic Inventory
-1 Discontinuity
-1 Root Snare
-1 Narset, Parter of Veils
-2 Teferi, Master of Time
-2 Discontinuity
-2 Frantic Inventory
-2 Root Snare
-3 Teferi, Master of Time
-3 Discontinuity
-3 Frantic Inventory
-3 Ketria Triome
-3 Root Snare
-4 Frantic Inventory
-4 Discontinuity
-4 Ketria Triome
 1 Quench
 1 Opt
 2 Opt
@@ -97,3 +81,19 @@
 4 Opt
 4 Quench
 4 Thassa's Intervention
+1 Root Snare
+1 Frantic Inventory
+1 Discontinuity
+1 Narset, Parter of Veils
+2 Teferi, Master of Time
+2 Root Snare
+2 Discontinuity
+2 Frantic Inventory
+3 Root Snare
+3 Teferi, Master of Time
+3 Discontinuity
+3 Frantic Inventory
+3 Ketria Triome
+4 Frantic Inventory
+4 Ketria Triome
+4 Discontinuity

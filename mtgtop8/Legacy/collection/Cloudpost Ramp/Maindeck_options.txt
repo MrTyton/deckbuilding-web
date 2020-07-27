@@ -1,6 +1,10 @@
 1 Karn, the Great Creator
-2 Thought-Knot Seer
+1 Thought-Knot Seer
+1 Sorcerous Spyglass
+1 Ancient Tomb
+1 Grim Monolith
 2 Karn, the Great Creator
+2 Thought-Knot Seer
 2 Grim Monolith
 2 Ancient Tomb
 3 Karn, the Great Creator
@@ -17,7 +21,6 @@
 4 Thought-Knot Seer
 2 Sorcerous Spyglass
 1 Walking Ballista
-1 Kozilek, Butcher of Truth
 1 Manifold Key
 2 Manifold Key
 4 Karn, the Great Creator
@@ -34,9 +37,6 @@
 2 Golos, Tireless Pilgrim
 1 Cascading Cataracts
 2 City of Traitors
-3 Primeval Titan
-4 Expedition Map
-8 Forest
 1 Candelabra of Tawnos
 2 Candelabra of Tawnos
 1 All Is Dust
@@ -44,6 +44,8 @@
 3 City of Traitors
 2 Ulamog, the Ceaseless Hunger
 3 Ugin, the Spirit Dragon
+1 Allosaurus Shepherd
+4 Pithing Needle
 2 Trinisphere
 2 All Is Dust
 1 Urborg, Tomb of Yawgmoth
@@ -58,8 +60,6 @@
 2 Kuldotha Forgemaster
 2 Eye of Ugin
 3 Thran Dynamo
-1 Allosaurus Shepherd
-4 Pithing Needle
 1 Reality Smasher
 2 Reality Smasher
 3 Reality Smasher
@@ -69,8 +69,8 @@
 1 Stonecoil Serpent
 2 Walking Ballista
 2 Stonecoil Serpent
-3 Trinisphere
 3 Stonecoil Serpent
+3 Trinisphere
 4 Vesuva
 1 Sylvan Library
 1 Emrakul, the Promised End
@@ -85,8 +85,8 @@
 1 Mystic Forge
 2 Voltaic Key
 2 Karakas
-3 Candelabra of Tawnos
 3 Ugin, the Ineffable
-4 Manifold Key
+3 Candelabra of Tawnos
 4 Ugin, the Ineffable
+4 Manifold Key
 4 Golos, Tireless Pilgrim

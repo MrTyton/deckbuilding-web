@@ -1,6 +1,6 @@
-1 Brazen Borrower
-1 Dive Down
+1 Stubborn Denial
 2 Dive Down
+3 Mutavault
 1 Steel Overseer
 2 Steel Overseer
 3 Steel Overseer
@@ -10,18 +10,6 @@
 2 Emry, Lurker of the Loch
 1 Aether Hub
 2 Aether Hub
-1 Ipnu Rivulet
-1 Springleaf Drum
-1 Mana Confluence
-1 All That Glitters
-2 Springleaf Drum
-2 Mana Confluence
-2 All That Glitters
-3 Mana Confluence
-3 Springleaf Drum
-3 All That Glitters
-4 Mana Confluence
-4 Springleaf Drum
 1 Wild Slash
 1 Mountain
 2 Wild Slash
@@ -43,14 +31,26 @@
 5 Mountain
 6 Mountain
 7 Mountain
+1 Ipnu Rivulet
 1 Phyrexian Revoker
 2 Phyrexian Revoker
 1 Lightning Strike
 2 Lightning Strike
+1 Springleaf Drum
 1 Caves of Koilos
+1 Mana Confluence
+1 All That Glitters
 1 Soul-Guide Lantern
+2 Springleaf Drum
+2 Mana Confluence
+2 All That Glitters
+3 Mana Confluence
+3 Springleaf Drum
 3 Aether Hub
+3 All That Glitters
+4 Mana Confluence
 4 Aether Hub
+4 Springleaf Drum
 1 Blood Crypt
 1 Watery Grave
 1 Hangarback Walker
@@ -60,8 +60,8 @@
 1 Swamp
 1 Scrapheap Scrounger
 2 Skewer the Critics
-2 Blood Crypt
 2 Hangarback Walker
+2 Blood Crypt
 2 Watery Grave
 2 Drown in the Loch
 2 Swamp
@@ -98,19 +98,9 @@
 3 Dreadhorde Arcanist
 4 Of One Mind
 4 Crash Through
-4 Opt
 4 Sprite Dragon
+4 Opt
 4 Young Pyromancer
-1 Toolcraft Exemplar
-1 Hallowed Fountain
-2 Toolcraft Exemplar
-2 Hallowed Fountain
-2 Stubborn Denial
-3 Toolcraft Exemplar
-3 Hallowed Fountain
-4 Toolcraft Exemplar
-4 Hallowed Fountain
-4 All That Glitters
 4 Mutavault
 1 Temple of Epiphany
 1 Rampaging Ferocidon
@@ -118,8 +108,8 @@
 1 Collective Defiance
 1 Bonecrusher Giant
 1 Ramunap Ruins
-2 Rampaging Ferocidon
 2 Shock
+2 Rampaging Ferocidon
 2 Collective Defiance
 2 Bonecrusher Giant
 2 Ramunap Ruins

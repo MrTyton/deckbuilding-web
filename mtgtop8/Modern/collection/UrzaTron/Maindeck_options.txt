@@ -1,21 +1,19 @@
-1 Walking Ballista
-4 Forest
+4 Wurmcoil Engine
+1 All Is Dust
 2 Walking Ballista
 1 Spatial Contortion
 2 Spatial Contortion
 1 Thragtusk
-1 Thought-Knot Seer
-2 Thought-Knot Seer
-1 Cascading Cataracts
-1 Golos, Tireless Pilgrim
-2 Golos, Tireless Pilgrim
 3 Snow-Covered Forest
 4 Oblivion Stone
-1 Relic of Progenitus
-1 World Breaker
-2 All Is Dust
-4 Snow-Covered Forest
 1 Dismember
+1 Relic of Progenitus
+1 Thought-Knot Seer
+2 Thought-Knot Seer
+4 Snow-Covered Forest
+1 Golos, Tireless Pilgrim
+1 Cascading Cataracts
+2 Golos, Tireless Pilgrim
 1 Ghost Quarter
 1 Remand
 1 Hydroid Krasis
@@ -80,6 +78,8 @@
 4 Arcum's Astrolabe
 5 Snow-Covered Island
 1 Kozilek, Butcher of Truth
+1 World Breaker
+2 All Is Dust
 1 Nurturing Peatland
 2 Thragtusk
 3 Ulamog, the Ceaseless Hunger
@@ -90,8 +90,8 @@
 1 Sea Gate Wreckage
 1 Mazemind Tome
 1 Wastes
-1 Mystic Forge
 1 Ensnaring Bridge
+1 Mystic Forge
 1 Spine of Ish Sah
 1 Buried Ruin
 1 Astral Cornucopia
@@ -103,9 +103,9 @@
 2 Mazemind Tome
 2 Blast Zone
 2 Mystic Forge
-2 Ensnaring Bridge
 2 Paradox Engine
 2 Everflowing Chalice
+2 Ensnaring Bridge
 2 Surge Node
 2 Ugin, the Ineffable
 2 Astral Cornucopia

@@ -17,12 +17,13 @@
 
 # Sideboard
 
-|                                        Enchantment (4)                                         |                                            Instant (9)                                             |Unknown (2)|
-|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------|
-|4 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|2 [Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|2 Wilt     |
-|                                                                                                |4 [Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)       |           |
-|                                                                                                |1 [Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)         |           |
-|                                                                                                |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |           |
+|                                        Enchantment (4)                                         |                                            Instant (11)                                            |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+|4 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|2 [Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
+|                                                                                                |4 [Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)       |
+|                                                                                                |1 [Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)         |
+|                                                                                                |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
+|                                                                                                |2 [Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)                   |
 
 
 # Other Options
@@ -34,16 +35,16 @@
 |                    1|[Children of Korlis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=110525)     |                    4|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
 |                    1|[Edge of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=243442)         |                    3|[Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)         |
 |                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)         |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)   |
-|                    1|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)            |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)           |
-|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                 |                    1|[Eladamri's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442192)        |
+|                    1|[City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4178)            |                    1|[Eladamri's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442192)        |
+|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                 |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)           |
 |                    1|[Street Wraith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442097)          |                    1|[Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)                |
 |                    1|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)           |                    1|[Guttural Response](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426628)      |
 |                    1|[Glittering Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136157)        |                    2|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)           |
 |                    1|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)        |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)           |
 |                    2|[Glittering Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136157)        |                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)           |
 |                    3|[Glittering Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136157)        |                    1|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)       |
-|                    4|[Glittering Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136157)        |                    3|Wilt                                                                                              |
-|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                    4|Wilt                                                                                              |
+|                    4|[Glittering Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136157)        |                    3|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)                   |
+|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                    4|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)                   |
 |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)           |
 |                    1|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)         |                    1|[Safewright Quest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=142038)       |
 |                    2|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)      |
@@ -61,7 +62,7 @@
 |                    4|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)        |                    2|[Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129801)              |
 |                    1|[Conflagrate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=114909)            |                    3|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)         |
 |                    1|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)         |                    1|[Rhonas's Last Stand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430821)    |
-|                    2|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)         |                    1|Yorion, Sky Nomad                                                                                 |
+|                    2|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)         |                    1|[Yorion, Sky Nomad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479752)      |
 |                    2|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)         |                    2|[Rhonas's Last Stand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430821)    |
 |                    3|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)         |                    3|[Rhonas's Last Stand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430821)    |
 |                    3|[Autochthon Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=89096)         |                    4|[Rhonas's Last Stand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430821)    |

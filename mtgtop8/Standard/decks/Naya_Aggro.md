@@ -18,8 +18,7 @@
 
 # Sideboard
 
-|       Unknown (15)       |
-|--------------------------|
-|1 Jegantha, the Wellspring|
-|14 Unknown Card           |
+|                                            Creature (1)                                             | Unknown (14)  |
+|-----------------------------------------------------------------------------------------------------|---------------|
+|1 [Jegantha, the Wellspring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479742)|14 Unknown Card|
 

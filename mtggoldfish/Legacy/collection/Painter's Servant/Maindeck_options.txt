@@ -53,9 +53,6 @@
 1 Sundering Titan
 4 Goblin Welder
 2 Plateau
-1 Walking Ballista
-2 Ensnaring Bridge
-4 Karn, the Great Creator
 1 Mishra's Bauble
 1 Sevinne's Reclamation
 1 Swords to Plowshares
@@ -66,20 +63,23 @@
 3 Mishra's Bauble
 3 Snow-Covered Plains
 4 Mishra's Bauble
-1 Aether Vial
+1 Walking Ballista
+2 Ensnaring Bridge
+4 Karn, the Great Creator
 1 Winter Orb
 1 Tangle Wire
 1 Lodestone Golem
+1 Aether Vial
 1 Ichor Wellspring
 1 Spellskite
-2 Aether Vial
 2 Phyrexian Revoker
+2 Aether Vial
 2 Tangle Wire
 2 Lodestone Golem
-3 Aether Vial
 3 Tangle Wire
-4 Aether Vial
+3 Aether Vial
 4 Tangle Wire
+4 Aether Vial
 12 Snow-Covered Mountain
 1 Wurmcoil Engine
 2 Abrade
@@ -91,8 +91,8 @@
 2 Prismatic Vista
 2 Urza's Bauble
 2 Kolaghan's Command
-3 Prismatic Vista
 3 Urza's Bauble
+3 Prismatic Vista
 4 Prismatic Vista
 4 Urza's Bauble
 1 Solemn Simulacrum
@@ -118,12 +118,12 @@
 3 Bomat Courier
 4 Once Upon a Time
 1 Dark Confidant
-1 Scrubland
 1 Sword of the Meek
 1 Thopter Foundry
 1 Nihil Spellbomb
 1 Raugrin Triome
 1 Badlands
+1 Scrubland
 2 Dark Confidant
 2 Thopter Foundry
 2 Goblin Cratermaker

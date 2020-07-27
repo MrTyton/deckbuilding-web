@@ -4,14 +4,14 @@
 1 Isolate
 1 Stubborn Denial
 1 Disdainful Stroke
-1 Glass Casket
 1 Tormod's Crypt
+1 Glass Casket
+2 Glass Casket
 2 Isolate
 2 Disdainful Stroke
-2 Glass Casket
 2 Tormod's Crypt
-3 Isolate
 3 Glass Casket
+3 Isolate
 4 Glass Casket
 1 Silkwrap
 2 Silkwrap
@@ -49,18 +49,11 @@
 2 Destructive Revelry
 2 Roast
 3 Destructive Revelry
-1 Assassin's Trophy
-1 Barrier Breach
-1 Slaughter Games
-2 Assassin's Trophy
-2 Barrier Breach
-2 Slaughter Games
-3 Damping Sphere
 1 Self-Inflicted Wound
 1 Annul
 1 Moment of Craving
-1 Spell Pierce
 1 Grafdigger's Cage
+1 Spell Pierce
 1 Kalitas, Traitor of Ghet
 2 Kalitas, Traitor of Ghet
 2 Self-Inflicted Wound
@@ -69,6 +62,13 @@
 2 Grafdigger's Cage
 2 Spell Pierce
 3 Kalitas, Traitor of Ghet
+1 Assassin's Trophy
+1 Barrier Breach
+1 Slaughter Games
+2 Assassin's Trophy
+2 Barrier Breach
+2 Slaughter Games
+3 Damping Sphere
 1 Skylasher
 1 Eidolon of Rhetoric
 1 Declaration in Stone
@@ -84,12 +84,12 @@
 1 Collective Defiance
 1 Fire Prophecy
 1 Klothys, God of Destiny
-2 Klothys, God of Destiny
 2 Collective Defiance
 2 Fire Prophecy
+2 Klothys, God of Destiny
 3 Collective Defiance
-3 Fire Prophecy
 3 Chandra, Torch of Defiance
+3 Fire Prophecy
 4 Fire Prophecy
 4 Collective Defiance
 1 Devout Decree

@@ -1,7 +1,7 @@
 # Aura Hexproof
 
 #### [Export MTGO List](../collection/Aura%20Hexproof/Aura%20Hexproof.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09All%20That%20Glitters%0A4%09Daybreak%20Coronet%0A1%09Dryad%20Arbor%0A4%09Ethereal%20Armor%0A1%09Forest%0A4%09Gladecover%20Scout%0A2%09Gryff's%20Boon%0A4%09Horizon%20Canopy%0A3%09Hyena%20Umbra%0A4%09Kor%20Spiritdancer%0A2%09Plains%0A4%09Rancor%0A4%09Razorverge%20Thicket%0A4%09Slippery%20Bogle%0A4%09Spider%20Umbra%0A2%09Spirit%20Link%0A2%09Spirit%20Mantle%0A3%09Temple%20Garden%0A4%09Windswept%20Heath%0A2%09Wooded%20Foothills&deckside=3%09Damping%20Sphere%0A2%09Force%20of%20Vigor%0A3%09Gaddock%20Teeg%0A1%09Lurrus%20of%20the%20Dream-Den%0A3%09Soul-Guide%20Lantern%0A3%09Suppression%20Field)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09All%20That%20Glitters%0A4%09Daybreak%20Coronet%0A1%09Dryad%20Arbor%0A4%09Ethereal%20Armor%0A1%09Forest%0A4%09Gladecover%20Scout%0A2%09Gryff's%20Boon%0A4%09Horizon%20Canopy%0A3%09Hyena%20Umbra%0A4%09Kor%20Spiritdancer%0A2%09Plains%0A4%09Rancor%0A4%09Razorverge%20Thicket%0A4%09Slippery%20Bogle%0A4%09Spider%20Umbra%0A2%09Spirit%20Link%0A2%09Spirit%20Mantle%0A3%09Temple%20Garden%0A4%09Windswept%20Heath%0A2%09Wooded%20Foothills&deckside=2%09Damping%20Sphere%0A3%09Force%20of%20Vigor%0A1%09Lurrus%20of%20the%20Dream-Den%0A3%09Soul-Guide%20Lantern%0A3%09Spore%20Frog%0A3%09Suppression%20Field)
 # Maindeck
 
 |                                        Creature (12)                                        |                                       Enchantment (27)                                       |                                           Land (21)                                           |
@@ -19,19 +19,8 @@
 
 # Sideboard
 
-|                                         Artifact (6)                                          |                                      Creature (3)                                       |                                       Enchantment (3)                                       |                                        Instant (2)                                        |       Unknown (1)       |
-|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------|
-|3 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)    |3 [Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)|3 [Suppression Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83617)|2 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|1 Lurrus of the Dream-Den|
-|3 [Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|                                                                                         |                                                                                             |                                                                                           |                         |
-
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                     Maindeck Card                                      |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
-|--------------------:|----------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|                    1|[Spore Frog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464129)    |
-|                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|                    2|[Spore Frog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464129)    |
-|                    3|[Spirit Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220154)|                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
-|                    4|[Hyena Umbra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=271150)  |                    3|[Spore Frog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464129)    |
-|                    4|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)|                     |                                                                                         |
+|                                         Artifact (5)                                          |                                            Creature (4)                                            |                                       Enchantment (3)                                       |                                        Instant (3)                                        |
+|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|2 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)    |1 [Lurrus of the Dream-Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479746)|3 [Suppression Field](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83617)|3 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
+|3 [Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|3 [Spore Frog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464129)             |                                                                                             |                                                                                           |
 

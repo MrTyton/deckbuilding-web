@@ -16,10 +16,11 @@
 
 # Sideboard
 
-|                                         Enchantment (6)                                         |                                       Instant (6)                                        |       Unknown (3)       |
-|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------|
-|4 [Chained to the Rocks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373521)|3 [Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)|2 Light of Hope          |
-|2 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |3 [Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)   |1 Lurrus of the Dream-Den|
+|                                            Creature (1)                                            |                                         Enchantment (6)                                         |                                       Instant (8)                                        |
+|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|1 [Lurrus of the Dream-Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479746)|4 [Chained to the Rocks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373521)|2 [Light of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479540)|
+|                                                                                                    |2 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |3 [Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)|
+|                                                                                                    |                                                                                                 |3 [Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)   |
 
 
 # Other Options
