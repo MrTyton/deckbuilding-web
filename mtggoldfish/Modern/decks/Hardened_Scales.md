@@ -94,8 +94,8 @@
 |                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                     |                                                                                                  |
 |                    3|[Llanowar Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129627)         |                     |                                                                                                  |
 |                    4|[Llanowar Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129627)         |                     |                                                                                                  |
+|                    4|[Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=39439)          |                     |                                                                                                  |
 |                    4|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)     |                     |                                                                                                  |
 |                    5|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)     |                     |                                                                                                  |
 |                    6|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)     |                     |                                                                                                  |
-|                    4|[Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=39439)          |                     |                                                                                                  |
 

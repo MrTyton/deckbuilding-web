@@ -72,7 +72,7 @@
 |                     |                                                                                                      |                    1|[Charming Prince](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970)             |
 |                     |                                                                                                      |                    2|[Charming Prince](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970)             |
 |                     |                                                                                                      |                    3|[Charming Prince](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970)             |
-|                     |                                                                                                      |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)           |
 |                     |                                                                                                      |                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)                   |
+|                     |                                                                                                      |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)           |
 |                     |                                                                                                      |                    3|[Sin Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368968)               |
 
