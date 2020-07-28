@@ -1,204 +1,34 @@
-18 Plains
-1 Gingerbrute
-2 Gingerbrute
-1 Heraldic Banner
 1 Venerable Knight
 2 Venerable Knight
-2 Heraldic Banner
 3 Venerable Knight
-3 Heraldic Banner
 4 Venerable Knight
+1 Heraldic Banner
+2 Heraldic Banner
+3 Heraldic Banner
 4 Heraldic Banner
-1 Tithe Taker
-2 Tithe Taker
+4 Unbreakable Formation
 1 Fabled Passage
 2 Fabled Passage
 1 Swamp
 1 Godless Shrine
+1 Temple of Silence
 2 Godless Shrine
 3 Godless Shrine
 4 Godless Shrine
-1 Island
-2 Island
-3 Fabled Passage
-1 Watery Grave
-2 Watery Grave
-3 Watery Grave
-4 Fabled Passage
-4 Watery Grave
-1 Hallowed Fountain
-1 Teferi, Time Raveler
-1 Temple of Enlightenment
-2 Temple of Enlightenment
-2 Teferi, Time Raveler
-2 Hallowed Fountain
-3 Teferi, Time Raveler
-3 Hallowed Fountain
-4 Teferi, Time Raveler
-4 Hallowed Fountain
-1 Temple of Silence
-1 Mystical Dispute
-1 Brazen Borrower
-2 Brazen Borrower
-2 Mystical Dispute
-3 Brazen Borrower
-4 Brazen Borrower
-3 Mystical Dispute
-4 Mystical Dispute
-1 Dovin's Veto
-2 Dovin's Veto
-1 Rotting Regisaur
-2 Rotting Regisaur
-3 Rotting Regisaur
-4 Rotting Regisaur
-1 Dire Tactics
-1 Kunoros, Hound of Athreos
-1 Sphinx of Foresight
-1 Aether Gust
-2 Aether Gust
-2 Sphinx of Foresight
-3 Sphinx of Foresight
-3 Tithe Taker
-4 Sphinx of Foresight
-4 Tithe Taker
-1 Temple of Deceit
-4 Unbreakable Formation
-1 Stonecoil Serpent
-2 Stonecoil Serpent
-2 Kunoros, Hound of Athreos
-1 Alseid of Life's Bounty
-3 Temple of Enlightenment
-3 Dovin's Veto
-1 Elspeth Conquers Death
-1 Omen of the Sea
-1 Yorion, Sky Nomad
-1 Oath of Kaya
-2 Yorion, Sky Nomad
-2 Elspeth Conquers Death
-2 Omen of the Sea
-2 Oath of Kaya
-3 Elspeth Conquers Death
-3 Omen of the Sea
-3 Oath of Kaya
-3 Yorion, Sky Nomad
-4 Elspeth Conquers Death
-4 Omen of the Sea
-4 Oath of Kaya
-1 Forest
-2 Swamp
-1 Thought Erasure
-2 Thought Erasure
-3 Thought Erasure
-4 Thought Erasure
-1 Zagoth Triome
-2 Zagoth Triome
-3 Zagoth Triome
-4 Zagoth Triome
-1 Heartless Act
-2 Heartless Act
-1 Indatha Triome
-1 Narset, Parter of Veils
-1 Eliminate
-1 The Birth of Meletis
-1 Shatter the Sky
-1 Omen of the Sun
-1 Mythos of Nethroi
-1 Glass Casket
-1 Interplanar Beacon
-1 The Wanderer
-2 Indatha Triome
-2 Eliminate
-2 Narset, Parter of Veils
-2 Omen of the Sun
-2 Glass Casket
-2 Interplanar Beacon
-2 Mythos of Nethroi
-2 Shatter the Sky
-2 The Birth of Meletis
-3 Narset, Parter of Veils
-3 The Birth of Meletis
-3 Omen of the Sun
-3 Mythos of Nethroi
-4 Temple of Enlightenment
-4 Dovin's Veto
-4 Narset, Parter of Veils
-3 Swamp
-1 Doom Foretold
-1 Burglar Rat
-1 Yarok's Fenlurker
-1 Treacherous Blessing
-2 Temple of Deceit
-2 Doom Foretold
-2 Burglar Rat
-2 Treacherous Blessing
-2 Temple of Silence
-2 Yarok's Fenlurker
-3 Temple of Silence
-3 Yarok's Fenlurker
-3 Temple of Deceit
-3 Doom Foretold
-3 Burglar Rat
-3 Treacherous Blessing
-4 Treacherous Blessing
-4 Temple of Silence
-4 Doom Foretold
-4 Yarok's Fenlurker
-4 Temple of Deceit
-4 Burglar Rat
-3 Stonecoil Serpent
-4 Stonecoil Serpent
-1 Faerie Guidemother
-1 Conclave Tribunal
-1 Law-Rune Enforcer
-2 Law-Rune Enforcer
-2 Forest
-1 Breeding Pool
-2 Breeding Pool
-3 Breeding Pool
-4 Breeding Pool
-1 Ashiok, Dream Render
-1 Overgrown Tomb
-1 Tymaret Calls the Dead
-1 Uro, Titan of Nature's Wrath
-1 Glowspore Shaman
-1 Merfolk Secretkeeper
-1 Demonic Embrace
-1 Silversmote Ghoul
-1 Mire Triton
-2 Ashiok, Dream Render
-2 Demonic Embrace
-2 Silversmote Ghoul
-2 Overgrown Tomb
-2 Tymaret Calls the Dead
-2 Mire Triton
-2 Uro, Titan of Nature's Wrath
-2 Glowspore Shaman
-2 Merfolk Secretkeeper
-3 Silversmote Ghoul
-3 Overgrown Tomb
-3 Tymaret Calls the Dead
-3 Uro, Titan of Nature's Wrath
-3 Glowspore Shaman
-3 Merfolk Secretkeeper
-4 Uro, Titan of Nature's Wrath
-4 Glowspore Shaman
-4 Merfolk Secretkeeper
-4 Silversmote Ghoul
-4 Overgrown Tomb
-1 Mountain
 1 Kitesail Freebooter
 1 Knight of the Ebon Legion
 2 Kitesail Freebooter
 3 Kitesail Freebooter
+1 Mountain
 1 Savai Triome
 1 Blood Crypt
 1 Temple of Triumph
 1 Basri's Lieutenant
 1 Tajic, Legion's Edge
 1 General's Enforcer
-1 Woe Strider
 1 Castle Embereth
 1 Winota, Joiner of Forces
+1 Woe Strider
 1 Lazotep Reaver
 1 Sacred Foundry
 1 Judith, the Scourge Diva
@@ -212,10 +42,10 @@
 2 Judith, the Scourge Diva
 3 Savai Triome
 3 Blood Crypt
-3 Winota, Joiner of Forces
-3 Woe Strider
 3 Lazotep Reaver
+3 Winota, Joiner of Forces
 3 Basri's Lieutenant
+3 Woe Strider
 3 Sacred Foundry
 3 Judith, the Scourge Diva
 4 Blood Crypt
@@ -223,73 +53,21 @@
 4 Basri's Lieutenant
 4 Sacred Foundry
 4 Winota, Joiner of Forces
-1 Healer's Hawk
-1 Speaker of the Heavens
-1 Charmed Stray
-2 Alseid of Life's Bounty
-2 Healer's Hawk
-2 Speaker of the Heavens
-2 Charmed Stray
-3 Alseid of Life's Bounty
-3 Charmed Stray
-3 Healer's Hawk
-3 Speaker of the Heavens
-4 Alseid of Life's Bounty
-4 Healer's Hawk
-4 Speaker of the Heavens
-4 Charmed Stray
-1 Temple of Mystery
-1 Steam Vents
-1 Temple of Epiphany
-1 Nightpack Ambusher
-1 Stomping Ground
-1 Scorching Dragonfire
-1 Bonecrusher Giant
-1 Frilled Mystic
-1 Growth Spiral
-1 Quench
-1 Brineborn Cutthroat
-1 Ionize
-1 Ketria Triome
-1 Shark Typhoon
-2 Shark Typhoon
-2 Frilled Mystic
-2 Stomping Ground
-2 Bonecrusher Giant
-2 Scorching Dragonfire
-2 Nightpack Ambusher
-2 Brineborn Cutthroat
-2 Ionize
-2 Steam Vents
-2 Growth Spiral
-2 Ketria Triome
-3 Ketria Triome
-3 Bonecrusher Giant
-3 Frilled Mystic
-3 Stomping Ground
-3 Scorching Dragonfire
-3 Nightpack Ambusher
-3 Growth Spiral
-3 Brineborn Cutthroat
-3 Ionize
-3 Steam Vents
-4 Stomping Ground
-4 Nightpack Ambusher
-4 Ketria Triome
-4 Frilled Mystic
-4 Steam Vents
-4 Bonecrusher Giant
-4 Growth Spiral
+1 Heartless Act
+1 Castle Locthwain
+2 Swamp
+1 Murderous Rider
+1 Duress
+2 Heartless Act
+2 Duress
+3 Duress
 1 Mobilized District
 1 Tymaret, Chosen from Death
 1 Spawn of Mayhem
-1 Murderous Rider
-1 Duress
 1 Hunted Nightmare
 1 Gutterbones
 1 Blacklance Paragon
 1 Rankle, Master of Pranks
-1 Castle Locthwain
 2 Mobilized District
 2 Knight of the Ebon Legion
 2 Spawn of Mayhem
@@ -298,13 +76,12 @@
 2 Castle Locthwain
 2 Gutterbones
 2 Rankle, Master of Pranks
-2 Duress
 2 Blacklance Paragon
-3 Duress
 3 Hunted Nightmare
 3 Castle Locthwain
 3 Gutterbones
 3 Rankle, Master of Pranks
+3 Swamp
 3 Knight of the Ebon Legion
 3 Heartless Act
 3 Spawn of Mayhem
@@ -331,57 +108,195 @@
 17 Swamp
 18 Swamp
 19 Swamp
-1 Scavenging Ooze
-1 Primal Might
-1 Questing Beast
-1 Gemrazer
-1 Castle Garenbrig
-1 Yorvo, Lord of Garenbrig
-1 Pelt Collector
-1 Lovestruck Beast
-1 Barkhide Troll
-1 Vivien, Arkbow Ranger
-2 Questing Beast
-2 Scavenging Ooze
-2 Vivien, Arkbow Ranger
-2 Castle Garenbrig
-2 Primal Might
-2 Lovestruck Beast
-2 Yorvo, Lord of Garenbrig
-2 Pelt Collector
-2 Gemrazer
-2 Barkhide Troll
+18 Plains
+1 Island
+2 Island
+3 Fabled Passage
+4 Fabled Passage
+1 Breeding Pool
+1 Uro, Titan of Nature's Wrath
+1 Forest
+2 Breeding Pool
+2 Uro, Titan of Nature's Wrath
+3 Breeding Pool
+1 Watery Grave
+2 Watery Grave
+3 Watery Grave
+1 Tithe Taker
+2 Tithe Taker
+1 Dovin's Veto
+2 Dovin's Veto
+1 Hallowed Fountain
+1 Aether Gust
+2 Aether Gust
+1 Mystical Dispute
+1 Brazen Borrower
+2 Brazen Borrower
+2 Mystical Dispute
+3 Mystical Dispute
+2 Forest
+3 Dovin's Veto
+1 Growth Spiral
+1 Shark Typhoon
+2 Growth Spiral
+3 Growth Spiral
+4 Growth Spiral
+1 Teferi, Time Raveler
+1 Gingerbrute
+2 Gingerbrute
+1 Temple Garden
+2 Temple Garden
+3 Temple Garden
+4 Temple Garden
+1 Castle Vantress
+1 Raugrin Triome
+1 Nightpack Ambusher
+1 Stomping Ground
+1 Wilderness Reclamation
+1 Ketria Triome
+1 Expansion/Explosion
+2 Raugrin Triome
+2 Shark Typhoon
+2 Nightpack Ambusher
+2 Expansion/Explosion
+2 Castle Vantress
+2 Wilderness Reclamation
+2 Ketria Triome
+3 Ketria Triome
+3 Shark Typhoon
+3 Raugrin Triome
+3 Nightpack Ambusher
+3 Wilderness Reclamation
+3 Expansion/Explosion
+4 Shark Typhoon
+4 Raugrin Triome
+4 Nightpack Ambusher
+4 Expansion/Explosion
+4 Ketria Triome
+4 Dovin's Veto
+4 Wilderness Reclamation
+3 Uro, Titan of Nature's Wrath
+4 Uro, Titan of Nature's Wrath
+4 Breeding Pool
+2 Teferi, Time Raveler
+3 Teferi, Time Raveler
+2 Hallowed Fountain
+3 Hallowed Fountain
+4 Hallowed Fountain
+1 Rotting Regisaur
+2 Rotting Regisaur
+3 Rotting Regisaur
+4 Rotting Regisaur
+4 Watery Grave
+1 Dire Tactics
+1 Kunoros, Hound of Athreos
+1 Sphinx of Foresight
+1 Temple of Enlightenment
+2 Temple of Enlightenment
+2 Sphinx of Foresight
+3 Brazen Borrower
+3 Sphinx of Foresight
+3 Tithe Taker
+4 Brazen Borrower
+4 Mystical Dispute
+4 Sphinx of Foresight
+4 Teferi, Time Raveler
+4 Tithe Taker
+1 Zagoth Triome
+2 Zagoth Triome
+3 Zagoth Triome
+4 Zagoth Triome
+1 Eliminate
+1 Wilt
+1 Narset, Parter of Veils
+1 Vraska, Golgari Queen
+2 Eliminate
+2 Narset, Parter of Veils
+2 Wilt
+1 Temple of Deceit
+1 Overgrown Tomb
+1 Thought Erasure
+2 Thought Erasure
+3 Island
+1 Alseid of Life's Bounty
+1 Faerie Guidemother
+2 Kunoros, Hound of Athreos
+3 Temple of Enlightenment
+1 Opt
+1 Drown in the Loch
+1 Neutralize
+1 Enter the God-Eternals
+2 Opt
+2 Drown in the Loch
+2 Vraska, Golgari Queen
+2 Neutralize
+3 Aether Gust
+3 Drown in the Loch
+1 Ashiok, Dream Render
+1 Tymaret Calls the Dead
+1 Glowspore Shaman
+1 Merfolk Secretkeeper
+1 Demonic Embrace
+1 Silversmote Ghoul
+1 Mire Triton
+2 Ashiok, Dream Render
+2 Silversmote Ghoul
+2 Overgrown Tomb
+2 Tymaret Calls the Dead
+2 Demonic Embrace
+2 Mire Triton
+2 Glowspore Shaman
+2 Merfolk Secretkeeper
+3 Silversmote Ghoul
+3 Overgrown Tomb
+3 Tymaret Calls the Dead
+3 Glowspore Shaman
+3 Merfolk Secretkeeper
+3 Thought Erasure
+4 Glowspore Shaman
+4 Merfolk Secretkeeper
+4 Silversmote Ghoul
+4 Thought Erasure
+4 Overgrown Tomb
+1 Indatha Triome
+1 Kaya, Orzhov Usurper
+1 Eat to Extinction
+1 Extinction Event
+1 Mazemind Tome
+1 Oath of Kaya
+2 Indatha Triome
+2 Kaya, Orzhov Usurper
+2 Mazemind Tome
+2 Oath of Kaya
+3 Eliminate
+3 Indatha Triome
+4 Indatha Triome
+1 Elspeth Conquers Death
+1 Dream Trawler
+1 Lurrus of the Dream-Den
+1 Faith's Fetters
+1 Elite Guardmage
+1 Ajani, Strength of the Pride
+1 Bond of Flourishing
+1 Griffin Aerie
+1 Pulse of Murasa
+1 Speaker of the Heavens
+1 Elder Gargaroth
+2 Elder Gargaroth
+2 Ajani, Strength of the Pride
+2 Bond of Flourishing
+2 Elite Guardmage
+2 Elspeth Conquers Death
+2 Faith's Fetters
+2 Griffin Aerie
+2 Speaker of the Heavens
 3 Forest
-3 Scavenging Ooze
-3 Yorvo, Lord of Garenbrig
-3 Pelt Collector
-3 Lovestruck Beast
-3 Gemrazer
-3 Barkhide Troll
-3 Vivien, Arkbow Ranger
-3 Castle Garenbrig
-3 Primal Might
-4 Forest
-4 Gemrazer
-4 Barkhide Troll
-4 Castle Garenbrig
-4 Lovestruck Beast
-4 Pelt Collector
-4 Scavenging Ooze
-4 Primal Might
-5 Forest
-6 Forest
-7 Forest
-8 Forest
-9 Forest
-10 Forest
-11 Forest
-12 Forest
-13 Forest
-14 Forest
-15 Forest
-16 Forest
-17 Forest
-18 Forest
-19 Forest
-20 Forest
+3 Elder Gargaroth
+3 Faith's Fetters
+3 Bond of Flourishing
+3 Elite Guardmage
+3 Griffin Aerie
+4 Faith's Fetters
+4 Elite Guardmage
+4 Bond of Flourishing
+4 Griffin Aerie

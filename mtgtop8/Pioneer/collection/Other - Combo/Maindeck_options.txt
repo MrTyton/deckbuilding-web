@@ -1,9 +1,8 @@
 1 Wolfwillow Haven
 1 Gyruda, Doom of Depths
-1 Zhalfirin Void
+1 Radiant Fountain
 1 Sylvan Caryatid
 1 Llanowar Wastes
-1 Radiant Fountain
 1 Thought-Knot Seer
 1 Vizier of Many Faces
 1 Clever Impersonator
@@ -11,44 +10,44 @@
 1 Yavimaya Coast
 1 Altered Ego
 1 Dragonlord Kolaghan
+1 Zhalfirin Void
 1 Temple of Mystery
 1 Spark Double
 2 Aether Hub
-2 Zhalfirin Void
-2 Sylvan Caryatid
+2 Gyruda, Doom of Depths
 2 Radiant Fountain
-2 Llanowar Wastes
 2 Paradise Druid
+2 Sylvan Caryatid
+2 Llanowar Wastes
 2 Thought-Knot Seer
 2 Wispweaver Angel
-2 Gyruda, Doom of Depths
 2 Wolfwillow Haven
 2 Dragonlord Kolaghan
 2 Clever Impersonator
 2 Temple of Mystery
 2 Altered Ego
 2 Spark Double
+2 Zhalfirin Void
 2 Yavimaya Coast
-3 Zhalfirin Void
+3 Radiant Fountain
+3 Gyruda, Doom of Depths
 3 Aether Hub
 3 Sylvan Caryatid
 3 Paradise Druid
 3 Llanowar Wastes
-3 Radiant Fountain
 3 Thought-Knot Seer
 3 Wispweaver Angel
 3 Clever Impersonator
 3 Altered Ego
+3 Zhalfirin Void
 3 Yavimaya Coast
 3 Temple of Mystery
 3 Spark Double
-3 Gyruda, Doom of Depths
-4 Sylvan Caryatid
 4 Llanowar Wastes
-4 Zhalfirin Void
+4 Radiant Fountain
 4 Aether Hub
 4 Paradise Druid
-4 Radiant Fountain
+4 Sylvan Caryatid
 4 Thought-Knot Seer
 4 Temple of Mystery
 4 Wispweaver Angel
@@ -56,6 +55,7 @@
 4 Clever Impersonator
 4 Spark Double
 4 Yavimaya Coast
+4 Zhalfirin Void
 2 Jace, Wielder of Mysteries
 1 Springleaf Drum
 1 Spire of Industry
@@ -132,9 +132,9 @@
 2 Liliana, the Last Hope
 3 Springleaf Drum
 1 Fortified Village
+1 Tithe Taker
 1 Garruk's Harbinger
 1 Battlefield Forge
-1 Tithe Taker
 1 Pia and Kiran Nalaar
 2 Garruk's Harbinger
 2 Battlefield Forge
@@ -145,10 +145,10 @@
 3 Tithe Taker
 4 Garruk's Harbinger
 4 Tithe Taker
-1 Sidisi, Brood Tyrant
 1 Concealed Courtyard
 1 Overgrown Tomb
 1 Neoform
+1 Sidisi, Brood Tyrant
 2 Concealed Courtyard
 2 Neoform
 3 Neoform
@@ -159,9 +159,9 @@
 1 Borborygmos Enraged
 1 Lovestruck Beast
 1 Rosethorn Acolyte
+1 Worldspine Wurm
 1 Game Trail
 1 Stonecoil Serpent
-1 Worldspine Wurm
 1 Emrakul, the Promised End
 1 Possibility Storm
 1 Bonecrusher Giant
@@ -176,8 +176,8 @@
 2 Bonecrusher Giant
 2 Lukka, Coppercoat Outcast
 3 Possibility Storm
-3 Lovestruck Beast
 3 Forest
+3 Lovestruck Beast
 3 Mountain
 3 Rosethorn Acolyte
 3 Rootbound Crag
@@ -186,8 +186,8 @@
 3 Game Trail
 3 Bonecrusher Giant
 4 Possibility Storm
-4 Lovestruck Beast
 4 Forest
+4 Lovestruck Beast
 4 Bonecrusher Giant
 4 Game Trail
 5 Forest

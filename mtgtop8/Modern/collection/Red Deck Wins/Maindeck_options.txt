@@ -92,6 +92,7 @@
 16 Mountain
 17 Mountain
 18 Mountain
+3 Arid Mesa
 3 Kiln Fiend
 3 Sacred Foundry
 1 Gut Shot
@@ -100,7 +101,6 @@
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
 3 Skullcrack
-3 Arid Mesa
 1 Blistercoil Weird
 2 Blistercoil Weird
 3 Blistercoil Weird
@@ -109,15 +109,15 @@
 2 Grim Lavamancer
 3 Grim Lavamancer
 4 Grim Lavamancer
-1 Legion Warboss
 1 Desperate Ritual
-1 Chandra, Torch of Defiance
-1 Simian Spirit Guide
+1 Legion Warboss
+1 Chandra, Awakened Inferno
 1 Hazoret the Fervent
 1 Goblin Rabblemaster
 1 Gemstone Caverns
-1 Chandra, Awakened Inferno
 1 Magus of the Moon
+1 Simian Spirit Guide
+1 Chandra, Torch of Defiance
 1 Chalice of the Void
 1 Seasoned Pyromancer
 1 Abrade
@@ -125,26 +125,26 @@
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 2 Chandra, Torch of Defiance
-2 Goblin Rabblemaster
-2 Simian Spirit Guide
 2 Magus of the Moon
+2 Simian Spirit Guide
 2 Hazoret the Fervent
+2 Goblin Rabblemaster
 2 Abrade
 2 Chalice of the Void
 2 Gemstone Caverns
 2 Blood Moon
 3 Gemstone Caverns
-3 Goblin Rabblemaster
 3 Simian Spirit Guide
-3 Abrade
+3 Goblin Rabblemaster
 3 Blood Moon
 3 Chalice of the Void
+3 Abrade
 4 Simian Spirit Guide
 4 Goblin Rabblemaster
-4 Abrade
 4 Gemstone Caverns
-1 Atarka's Command
+4 Abrade
 1 Copperline Gorge
+1 Atarka's Command
 1 Stomping Ground
 2 Stomping Ground
 2 Copperline Gorge

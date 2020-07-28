@@ -10,10 +10,10 @@
 1 Heart of Kiran
 1 Shadowspear
 2 Heart of Kiran
-3 Ghalta, Primal Hunger
 3 Surrak, the Hunt Caller
-1 Kraul Harpooner
+3 Ghalta, Primal Hunger
 1 Hashep Oasis
+1 Kraul Harpooner
 2 Kraul Harpooner
 1 Fatal Push
 2 Fatal Push
@@ -23,10 +23,58 @@
 1 Vivien, Arkbow Ranger
 1 Deathrite Shaman
 2 Deathrite Shaman
+3 Fatal Push
+4 Fatal Push
+1 Murderous Rider
+1 Urborg, Tomb of Yawgmoth
+1 Swamp
+1 Rankle, Master of Pranks
+2 Murderous Rider
+2 Rankle, Master of Pranks
+2 Swamp
+3 Swamp
+3 Murderous Rider
+4 Murderous Rider
+1 Woodland Cemetery
+2 Woodland Cemetery
+3 Woodland Cemetery
+4 Woodland Cemetery
+1 Winding Constrictor
+1 Hardened Scales
+1 The Ozolith
+1 Experiment One
+1 Walking Ballista
+1 Pelt Collector
+1 Stonecoil Serpent
+1 Hangarback Walker
+2 Walking Ballista
+2 Stonecoil Serpent
+2 Hardened Scales
+2 Winding Constrictor
+2 The Ozolith
+2 Experiment One
+2 Pelt Collector
+2 Hangarback Walker
+3 Walking Ballista
+3 Winding Constrictor
+3 Hardened Scales
+3 Experiment One
+3 Stonecoil Serpent
+3 Pelt Collector
+3 Scavenging Ooze
+3 Hangarback Walker
+4 Walking Ballista
+4 Stonecoil Serpent
+4 Winding Constrictor
+4 Experiment One
+4 Hardened Scales
+4 Hangarback Walker
+4 Pelt Collector
+4 Scavenging Ooze
 1 Unclaimed Territory
 1 Wildborn Preserver
-1 Shaman of the Pack
 1 Dwynen's Elite
+1 Shaman of the Pack
 1 Westvale Abbey
 1 Gnarlroot Trapper
 1 Dwynen, Gilt-Leaf Daen
@@ -48,114 +96,66 @@
 3 Lead the Stampede
 3 Elvish Clancaller
 4 Unclaimed Territory
-4 Elvish Clancaller
 4 Wildborn Preserver
 4 Dwynen's Elite
 4 Shaman of the Pack
-3 Fatal Push
-4 Fatal Push
-1 Urborg, Tomb of Yawgmoth
-1 Murderous Rider
-1 Rankle, Master of Pranks
-1 Swamp
-2 Murderous Rider
-2 Rankle, Master of Pranks
-2 Swamp
-3 Murderous Rider
-3 Swamp
-4 Murderous Rider
-1 Woodland Cemetery
-2 Woodland Cemetery
-3 Woodland Cemetery
-4 Woodland Cemetery
-1 Lotleth Troll
-1 Questing Beast
-1 Gather the Pack
-1 Soulflayer
-1 Nullhide Ferox
-1 Gifted Aetherborn
-1 Commune with the Gods
-1 Zetalpa, Primal Dawn
-1 Grisly Salvage
-1 Sylvan Caryatid
-2 Soulflayer
-2 Commune with the Gods
-2 Gather the Pack
-2 Zetalpa, Primal Dawn
-2 Lotleth Troll
-2 Nullhide Ferox
-2 Questing Beast
-2 Gifted Aetherborn
-2 Grisly Salvage
-2 Sylvan Caryatid
-3 Lotleth Troll
-3 Soulflayer
-3 Grisly Salvage
-3 Gather the Pack
-3 Zetalpa, Primal Dawn
-3 Questing Beast
-3 Sylvan Caryatid
-4 Soulflayer
-4 Zetalpa, Primal Dawn
-4 Gather the Pack
-4 Lotleth Troll
-4 Grisly Salvage
-4 Sylvan Caryatid
+4 Elvish Clancaller
 1 Castle Locthwain
 1 Knight of the Ebon Legion
 1 Stitcher's Supplier
 1 Fiend Artisan
 1 Fourth Bridge Prowler
+2 Mutavault
+2 Urborg, Tomb of Yawgmoth
 2 Castle Locthwain
 2 Knight of the Ebon Legion
 2 Stitcher's Supplier
 2 Fiend Artisan
-2 Urborg, Tomb of Yawgmoth
-2 Mutavault
+3 Castle Locthwain
+3 Deathrite Shaman
 3 Mutavault
 3 Knight of the Ebon Legion
-3 Castle Locthwain
 3 Stitcher's Supplier
 3 Fiend Artisan
-3 Deathrite Shaman
-4 Knight of the Ebon Legion
 4 Mutavault
 4 Castle Locthwain
-4 Stitcher's Supplier
 4 Swamp
-4 Fiend Artisan
+4 Knight of the Ebon Legion
 4 Deathrite Shaman
+4 Stitcher's Supplier
+4 Fiend Artisan
 5 Swamp
 6 Swamp
-1 Hangarback Walker
-1 Experiment One
-1 Pelt Collector
-1 Stonecoil Serpent
-1 The Ozolith
-1 Walking Ballista
-1 Hardened Scales
-1 Winding Constrictor
-2 Walking Ballista
-2 Hangarback Walker
-2 Experiment One
-2 Pelt Collector
-2 The Ozolith
-2 Stonecoil Serpent
-2 Winding Constrictor
-2 Hardened Scales
-3 Walking Ballista
-3 Hangarback Walker
-3 Experiment One
-3 Scavenging Ooze
-3 Pelt Collector
-3 Winding Constrictor
-3 Stonecoil Serpent
-3 Hardened Scales
-4 Hangarback Walker
-4 Walking Ballista
-4 Experiment One
-4 Pelt Collector
-4 Winding Constrictor
-4 Scavenging Ooze
-4 Hardened Scales
-4 Stonecoil Serpent
+1 Grisly Salvage
+1 Zetalpa, Primal Dawn
+1 Questing Beast
+1 Gifted Aetherborn
+1 Commune with the Gods
+1 Nullhide Ferox
+1 Sylvan Caryatid
+1 Lotleth Troll
+1 Soulflayer
+1 Gather the Pack
+2 Grisly Salvage
+2 Questing Beast
+2 Gifted Aetherborn
+2 Nullhide Ferox
+2 Gather the Pack
+2 Soulflayer
+2 Sylvan Caryatid
+2 Zetalpa, Primal Dawn
+2 Commune with the Gods
+2 Lotleth Troll
+3 Questing Beast
+3 Soulflayer
+3 Zetalpa, Primal Dawn
+3 Gather the Pack
+3 Lotleth Troll
+3 Sylvan Caryatid
+3 Grisly Salvage
+4 Sylvan Caryatid
+4 Gather the Pack
+4 Grisly Salvage
+4 Lotleth Troll
+4 Zetalpa, Primal Dawn
+4 Soulflayer
