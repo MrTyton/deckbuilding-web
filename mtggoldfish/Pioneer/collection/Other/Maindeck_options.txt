@@ -27,9 +27,9 @@
 3 Opt
 4 Opt
 2 Fetid Pools
+1 Frantic Inventory
 1 Mystic Sanctuary
 1 Sinister Sabotage
-1 Frantic Inventory
 2 Sinister Sabotage
 2 Frantic Inventory
 2 Mystic Sanctuary
@@ -135,8 +135,8 @@
 2 Thought Erasure
 2 Basilica Bell-Haunt
 2 Atris, Oracle of Half-Truths
-2 Reflector Mage
 2 Elite Guardmage
+2 Reflector Mage
 2 Thassa, Deep-Dwelling
 3 Thought Erasure
 3 Basilica Bell-Haunt
@@ -393,7 +393,6 @@
 3 Sacred Foundry
 4 Sacred Foundry
 1 The Birth of Meletis
-1 Gideon's Triumph
 1 Temple of Triumph
 1 Deafening Clarion
 1 Elspeth, Sun's Champion
@@ -401,6 +400,7 @@
 1 Nahiri, the Harbinger
 1 Clifftop Retreat
 1 Void Winnower
+1 Gideon's Triumph
 2 Temple of Triumph
 2 The Birth of Meletis
 2 Shatter the Sky
@@ -598,21 +598,21 @@
 1 Dubious Challenge
 1 Trostani Discordant
 2 Ulamog, the Ceaseless Hunger
-2 Worldspine Wurm
 2 Paradise Druid
 2 Trostani Discordant
+2 Worldspine Wurm
 2 Dubious Challenge
 2 See the Unwritten
 2 Canopy Vista
-3 Worldspine Wurm
 3 Paradise Druid
 3 Dubious Challenge
 3 See the Unwritten
 3 Trostani Discordant
-4 Worldspine Wurm
+3 Worldspine Wurm
 4 Paradise Druid
 4 Trostani Discordant
 4 See the Unwritten
+4 Worldspine Wurm
 4 Dubious Challenge
 1 Inspiring Vantage
 1 Cast Out

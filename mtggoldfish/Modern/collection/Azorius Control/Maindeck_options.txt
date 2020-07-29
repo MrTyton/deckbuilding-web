@@ -4,9 +4,9 @@
 1 Remand
 2 Supreme Verdict
 1 Scalding Tarn
-1 Temple Garden
 1 Uro, Titan of Nature's Wrath
 1 Breeding Pool
+1 Temple Garden
 2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
@@ -61,25 +61,25 @@
 1 Castle Vantress
 1 Elspeth, Sun's Nemesis
 2 Teferi, Master of Time
-3 Mystic Sanctuary
 3 Terminus
+3 Mystic Sanctuary
 4 Mystic Sanctuary
 4 Terminus
+1 Steam Vents
+1 Lightning Bolt
 1 Raugrin Triome
 1 Snow-Covered Mountain
 1 Lightning Helix
-1 Steam Vents
-1 Lightning Bolt
-2 Lightning Helix
-2 Steam Vents
 2 Lightning Bolt
+2 Steam Vents
+2 Lightning Helix
 2 Raugrin Triome
 3 Scalding Tarn
-3 Lightning Helix
 3 Lightning Bolt
+3 Lightning Helix
 3 Archmage's Charm
-4 Scalding Tarn
 4 Lightning Bolt
+4 Scalding Tarn
 1 Forest
 1 Elspeth, Knight-Errant
 1 Jolrael, Mwonvuli Recluse
@@ -91,11 +91,6 @@
 1 Brazen Borrower
 3 Mana Leak
 3 Supreme Verdict
-1 Sword of Fire and Ice
-1 Castle Ardenvale
-1 Geist of Saint Traft
-1 Dismember
-3 Celestial Colonnade
 2 Polluted Delta
 3 Jace, the Mind Sculptor
 3 Polluted Delta
@@ -104,3 +99,8 @@
 2 Prismatic Vista
 2 Deprive
 4 Uro, Titan of Nature's Wrath
+1 Sword of Fire and Ice
+1 Castle Ardenvale
+1 Geist of Saint Traft
+1 Dismember
+3 Celestial Colonnade
