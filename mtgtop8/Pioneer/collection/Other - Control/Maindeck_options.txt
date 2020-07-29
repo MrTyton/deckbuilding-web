@@ -35,10 +35,10 @@
 1 Dig Through Time
 1 Sinister Sabotage
 1 Sublime Epiphany
-1 Torrential Gearhulk
 1 Neutralize
-1 Brazen Borrower
 1 Teferi, Master of Time
+1 Brazen Borrower
+1 Torrential Gearhulk
 1 Hinterland Harbor
 1 Temple of Mystery
 1 Lumbering Falls
@@ -68,8 +68,8 @@
 2 Swamp
 3 Swamp
 1 Flicker of Fate
-1 Doom Foretold
 1 Treacherous Blessing
+1 Doom Foretold
 1 Urborg, Tomb of Yawgmoth
 1 Trial of Ambition
 1 Oath of Kaya
@@ -77,9 +77,9 @@
 1 Godless Shrine
 1 Shambling Vent
 2 Flicker of Fate
-2 Doom Foretold
 2 Treacherous Blessing
 2 Shambling Vent
+2 Doom Foretold
 2 Isolated Chapel
 2 Godless Shrine
 2 Trial of Ambition
@@ -147,10 +147,11 @@
 1 Botanical Sanctum
 1 Hostage Taker
 1 Woodland Bellower
+1 Thassa, Deep-Dwelling
 1 Elvish Rejuvenator
-1 Arboreal Grazer
 1 Yavimaya Coast
 1 Satyr Wayfinder
+1 Arboreal Grazer
 1 Unesh, Criosphinx Sovereign
 1 Grapple with the Past
 1 Eldritch Evolution
@@ -158,7 +159,6 @@
 1 Massacre Girl
 1 Cavalier of Night
 1 Tasigur, the Golden Fang
-1 Thassa, Deep-Dwelling
 1 Neoform
 1 Reclamation Sage
 1 Thought-Knot Seer
@@ -167,9 +167,9 @@
 1 Scavenging Ooze
 1 Blooming Marsh
 2 Elvish Rejuvenator
-2 Arboreal Grazer
 2 Yavimaya Coast
 2 Satyr Wayfinder
+2 Arboreal Grazer
 2 Eldritch Evolution
 2 Grapple with the Past
 2 Tasigur, the Golden Fang
@@ -186,8 +186,8 @@
 3 Llanowar Wastes
 3 Blooming Marsh
 3 Forest
-4 Arboreal Grazer
 4 Satyr Wayfinder
+4 Arboreal Grazer
 4 Neoform
 1 Heliod, Sun-Crowned
 1 Shatter the Sky
@@ -201,8 +201,8 @@
 2 Arcanist's Owl
 3 Heliod, Sun-Crowned
 3 Walking Ballista
-4 Flicker of Fate
 4 Heliod, Sun-Crowned
+4 Flicker of Fate
 4 Walking Ballista
 1 Dragonskull Summit
 1 Blood Crypt
@@ -218,31 +218,31 @@
 1 Field of Ruin
 1 Kolaghan's Command
 1 Kroxa, Titan of Death's Hunger
-1 Waste Not
 1 Murderous Rider
-1 Davriel, Rogue Shadowmage
 1 Collective Brutality
+1 Davriel, Rogue Shadowmage
 1 Eliminate
 1 Hazoret the Fervent
 1 Liliana, Waker of the Dead
+1 Waste Not
 2 Field of Ruin
 2 Kolaghan's Command
 2 Kroxa, Titan of Death's Hunger
 2 Waste Not
-2 Collective Brutality
+2 Liliana, Waker of the Dead
 2 Murderous Rider
 2 Eliminate
+2 Collective Brutality
 2 Hazoret the Fervent
 2 Davriel, Rogue Shadowmage
 2 Mountain
-2 Liliana, Waker of the Dead
 3 Liliana, Waker of the Dead
 3 Waste Not
 3 Davriel, Rogue Shadowmage
 3 Kolaghan's Command
 3 Kroxa, Titan of Death's Hunger
-3 Eliminate
 3 Castle Locthwain
+3 Eliminate
 3 Mountain
 4 Dragonskull Summit
 4 Liliana, Waker of the Dead
@@ -271,23 +271,23 @@
 4 Pull from Tomorrow
 4 Ketria Triome
 4 Expansion / Explosion
-1 Nicol Bolas, the Ravager
 1 Drown in the Loch
+1 Nicol Bolas, the Ravager
 1 Tyrant's Scorn
 1 Dreadbore
 1 Drowned Catacomb
 1 Nicol Bolas, Dragon-God
 1 Watery Grave
-2 Tyrant's Scorn
 2 Drown in the Loch
+2 Tyrant's Scorn
 2 Nicol Bolas, Dragon-God
 2 Nicol Bolas, the Ravager
 2 Drowned Catacomb
 2 Watery Grave
 2 Dreadbore
 3 Opt
-3 Tyrant's Scorn
 3 Drown in the Loch
+3 Tyrant's Scorn
 3 Dreadbore
 3 Nicol Bolas, Dragon-God
 3 Nicol Bolas, the Ravager

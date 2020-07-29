@@ -1,78 +1,40 @@
-2 Corpse Knight
-4 Blacklance Paragon
 2 Mountain
-3 Savai Triome
-3 Plains
+4 Blacklance Paragon
+1 General Kudro of Drannith
+2 General Kudro of Drannith
+1 Corpse Knight
+2 Corpse Knight
+1 Embercleave
+2 Embercleave
 1 Skyknight Vanguard
 2 Skyknight Vanguard
 3 Skyknight Vanguard
-4 Skyknight Vanguard
-1 General Kudro of Drannith
-2 General Kudro of Drannith
-1 Embercleave
-2 Embercleave
-1 Fabled Passage
 3 Corpse Knight
 4 Corpse Knight
+4 Skyknight Vanguard
 3 Embercleave
 4 Embercleave
-4 Smitten Swordmaster
+3 Plains
+1 Fabled Passage
 3 Swamp
-4 Fight as One
-1 Chance for Glory
-1 Drill Bit
-2 Drill Bit
 3 General Kudro of Drannith
 4 Savai Triome
 1 Castle Embereth
-1 Castle Locthwain
-4 Dire Tactics
+4 Smitten Swordmaster
 1 Rimrock Knight
 2 Rimrock Knight
 3 Rimrock Knight
+1 Drill Bit
 1 Rotting Regisaur
+2 Drill Bit
 2 Rotting Regisaur
 3 Drill Bit
 3 Rotting Regisaur
-4 Drill Bit
 4 Rotting Regisaur
+4 Drill Bit
+1 Chance for Glory
 3 Mountain
-2 Fabled Passage
-2 Castle Locthwain
-1 Lampad of Death's Vigil
-1 Priest of Forgotten Gods
-1 Dreadhorde Butcher
-1 Claim the Firstborn
-1 Cauldron Familiar
-1 Cruel Celebrant
-1 Witch's Oven
-1 Call of the Death-Dweller
-1 Serrated Scorpion
-2 Lampad of Death's Vigil
-2 Claim the Firstborn
-2 Call of the Death-Dweller
-2 Cruel Celebrant
-2 Witch's Oven
-2 Cauldron Familiar
-2 Dreadhorde Butcher
-2 Serrated Scorpion
-2 Priest of Forgotten Gods
-3 Call of the Death-Dweller
-3 Witch's Oven
-3 Cauldron Familiar
-3 Priest of Forgotten Gods
-3 Claim the Firstborn
-3 Dreadhorde Butcher
-3 Serrated Scorpion
-3 Cruel Celebrant
-4 Priest of Forgotten Gods
-4 Claim the Firstborn
-4 Serrated Scorpion
-4 Cauldron Familiar
-4 Witch's Oven
-4 Dreadhorde Butcher
-4 Call of the Death-Dweller
-4 Cruel Celebrant
+1 Castle Locthwain
 1 Sorin, Vengeful Bloodlord
 2 Sorin, Vengeful Bloodlord
 4 Mountain
@@ -83,8 +45,10 @@
 2 General's Enforcer
 2 Tajic, Legion's Edge
 3 General's Enforcer
+4 Dire Tactics
 4 General's Enforcer
 4 Plains
+2 Fabled Passage
 1 Liliana's Standard Bearer
 1 Grim Tutor
 1 Village Rites
@@ -92,21 +56,14 @@
 1 Castle Ardenvale
 1 Basri's Solidarity
 2 Basri's Solidarity
-1 Redcap Melee
+2 Castle Locthwain
 1 Acclaimed Contender
 2 Acclaimed Contender
-1 Grim Initiate
-1 Soul-Guide Lantern
-2 Grim Initiate
-2 Soul-Guide Lantern
 1 Unbreakable Formation
 2 Unbreakable Formation
 2 Chance for Glory
 4 Rimrock Knight
-1 Footlight Fiend
-2 Footlight Fiend
-3 Footlight Fiend
-4 Footlight Fiend
+4 Fight as One
 1 Kenrith, the Returned King
 1 Chandra, Acolyte of Flame
 1 Legion Warboss
@@ -133,9 +90,9 @@
 2 Venerated Loxodon
 3 Venerated Loxodon
 4 Venerated Loxodon
-1 Luminous Broodmoth
 1 Weaponize the Monsters
 1 Midnight Reaper
+1 Luminous Broodmoth
 1 Colossus Hammer
 1 Fling
 1 Syr Gwyn, Hero of Ashvale
@@ -146,11 +103,49 @@
 2 Midnight Reaper
 2 Colossus Hammer
 3 Luminous Broodmoth
+3 Sorin, Vengeful Bloodlord
 3 Colossus Hammer
 3 Fabled Passage
-3 Sorin, Vengeful Bloodlord
 4 Luminous Broodmoth
 4 Fabled Passage
+1 Grim Initiate
+1 Lampad of Death's Vigil
+1 Soul-Guide Lantern
+1 Priest of Forgotten Gods
+1 Dreadhorde Butcher
+1 Claim the Firstborn
+1 Cauldron Familiar
+1 Cruel Celebrant
+1 Witch's Oven
+1 Call of the Death-Dweller
+1 Serrated Scorpion
+2 Grim Initiate
+2 Lampad of Death's Vigil
+2 Soul-Guide Lantern
+2 Claim the Firstborn
+2 Call of the Death-Dweller
+2 Cruel Celebrant
+2 Witch's Oven
+2 Cauldron Familiar
+2 Dreadhorde Butcher
+2 Serrated Scorpion
+2 Priest of Forgotten Gods
+3 Call of the Death-Dweller
+3 Witch's Oven
+3 Cauldron Familiar
+3 Priest of Forgotten Gods
+3 Claim the Firstborn
+3 Dreadhorde Butcher
+3 Serrated Scorpion
+3 Cruel Celebrant
+4 Priest of Forgotten Gods
+4 Claim the Firstborn
+4 Serrated Scorpion
+4 Cauldron Familiar
+4 Witch's Oven
+4 Dreadhorde Butcher
+4 Call of the Death-Dweller
+4 Cruel Celebrant
 1 Lavabrink Venturer
 1 Outlaws' Merriment
 1 Revival / Revenge

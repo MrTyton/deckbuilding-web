@@ -4,8 +4,8 @@
 1 Fortified Village
 4 Mana Confluence
 1 Pia and Kiran Nalaar
-1 Battlefield Forge
 1 Garruk's Harbinger
+1 Battlefield Forge
 1 Tithe Taker
 2 Pia and Kiran Nalaar
 2 Tithe Taker
@@ -176,11 +176,11 @@
 1 Ipnu Rivulet
 1 Shark Typhoon
 1 Uro, Titan of Nature's Wrath
+1 Tireless Tracker
 1 Heartless Act
 1 Nissa, Who Shakes the World
 1 Eat to Extinction
 1 Zagoth Triome
-1 Tireless Tracker
 1 Satyr Wayfinder
 2 Breeding Pool
 2 Shark Typhoon
@@ -203,16 +203,17 @@
 3 Goblin Instigator
 3 Rootbound Crag
 4 Gilded Goose
-1 Pelt Collector
 1 Experiment One
+1 Pelt Collector
 2 Experiment One
 2 Pelt Collector
 3 Experiment One
 3 Pelt Collector
 4 Experiment One
 4 Pelt Collector
-1 Domri, Anarch of Bolas
+1 Burning-Tree Emissary
 1 Hashep Oasis
+1 Domri, Anarch of Bolas
 1 Gallia of the Endless Dance
 1 Bonecrusher Giant
 1 Zhur-Taa Goblin
@@ -225,27 +226,26 @@
 1 Game Trail
 1 Gruul Spellbreaker
 1 Domri Rade
-1 Burning-Tree Emissary
-2 Gallia of the Endless Dance
+2 Burning-Tree Emissary
 2 Bonecrusher Giant
-2 Zhur-Taa Goblin
 2 Hashep Oasis
+2 Gallia of the Endless Dance
+2 Zhur-Taa Goblin
 2 Voltaic Brawler
 2 Gruul Spellbreaker
 2 Embercleave
 2 Ghor-Clan Rampager
-2 Burning-Tree Emissary
 2 Game Trail
+3 Burning-Tree Emissary
 3 Bonecrusher Giant
 3 Ghor-Clan Rampager
 3 Voltaic Brawler
 3 Gruul Spellbreaker
-3 Burning-Tree Emissary
+4 Burning-Tree Emissary
+4 Gruul Spellbreaker
 4 Bonecrusher Giant
 4 Voltaic Brawler
-4 Gruul Spellbreaker
 4 Ghor-Clan Rampager
-4 Burning-Tree Emissary
 1 Grim Flayer
 1 Deathrite Shaman
 1 Kolaghan's Command
@@ -319,8 +319,8 @@
 3 Fiend Artisan
 3 Knight of the Ebon Legion
 3 Bloodsoaked Champion
-4 Fiend Artisan
 4 Mire Triton
+4 Fiend Artisan
 4 Bloodsoaked Champion
 1 Courser of Kruphix
 1 Scattered Groves
@@ -342,9 +342,9 @@
 1 Eliminate
 1 Choked Estuary
 1 Drown in the Loch
+1 Glint-Sleeve Siphoner
 1 Thieves' Guild Enforcer
 1 Drowned Catacomb
-1 Glint-Sleeve Siphoner
 1 Rankle, Master of Pranks
 1 Mystical Dispute
 1 Brazen Borrower
@@ -352,32 +352,32 @@
 2 Brazen Borrower
 2 Drown in the Loch
 2 Choked Estuary
+2 Glint-Sleeve Siphoner
 2 Thieves' Guild Enforcer
 2 Drowned Catacomb
-2 Glint-Sleeve Siphoner
 2 Mystical Dispute
 2 Rankle, Master of Pranks
 3 Island
 3 Watery Grave
+3 Glint-Sleeve Siphoner
 3 Eliminate
 3 Drowned Catacomb
 3 Thieves' Guild Enforcer
 3 Brazen Borrower
 3 Drown in the Loch
-3 Glint-Sleeve Siphoner
 3 Rankle, Master of Pranks
 3 Murderous Rider
 4 Fabled Passage
 4 Watery Grave
+4 Glint-Sleeve Siphoner
 4 Thieves' Guild Enforcer
 4 Brazen Borrower
-4 Glint-Sleeve Siphoner
 4 Murderous Rider
 4 Drowned Catacomb
 6 Swamp
 1 Charming Prince
-1 Fairgrounds Warden
 1 Radiant Fountain
+1 Fairgrounds Warden
 1 Prophet of Kruphix
 1 Llanowar Visionary
 1 Chord of Calling
