@@ -44,8 +44,8 @@
 |                    2|[Urza's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3818)    |                     |                                                                                             |
 |                    2|[Notion Thief](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442200)   |                     |                                                                                             |
 |                    2|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)        |                     |                                                                                             |
-|                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098) |                     |                                                                                             |
 |                    3|[Urza's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3818)    |                     |                                                                                             |
+|                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098) |                     |                                                                                             |
 |                    4|[Urza's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3818)    |                     |                                                                                             |
 |                    3|[Notion Thief](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442200)   |                     |                                                                                             |
 

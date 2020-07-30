@@ -36,8 +36,8 @@
 1 Neutralize
 2 Blast Zone
 1 Teferi, Master of Time
-2 Teferi, Master of Time
 2 Neutralize
+2 Teferi, Master of Time
 3 Mystical Dispute
 1 Planar Cleansing
 1 Dance of the Manse
@@ -61,22 +61,22 @@
 3 Field of Ruin
 1 Interplanar Beacon
 1 Ugin, the Ineffable
-1 Gideon Blackblade
 1 God-Eternal Oketra
-1 Mu Yanling, Sky Dancer
 1 God-Eternal Kefnet
 1 Dovin, Grand Arbiter
-1 Karn's Bastion
+1 Mu Yanling, Sky Dancer
 1 Labyrinth of Skophos
+1 Karn's Bastion
 1 Heliod's Intervention
+1 Gideon Blackblade
 2 Ugin, the Ineffable
 2 Time Wipe
 2 Dovin, Grand Arbiter
 2 Heliod's Intervention
+3 Ugin, the Ineffable
 3 Time Wipe
 3 Dovin, Grand Arbiter
 3 Castle Vantress
-3 Ugin, the Ineffable
 4 Time Wipe
 4 Ugin, the Ineffable
 8 Plains
@@ -85,18 +85,25 @@
 1 Faith's Fetters
 1 Gadwick, the Wizened
 1 Baneslayer Angel
-2 Radiant Fountain
 2 Faith's Fetters
+2 Radiant Fountain
 2 Gadwick, the Wizened
 2 Baneslayer Angel
 3 Baneslayer Angel
 3 Swift Response
 3 Radiant Fountain
 4 Swift Response
+3 Archon of Sun's Grace
+4 Archon of Sun's Grace
+1 Frantic Inventory
+2 Frantic Inventory
+2 Dream Trawler
+3 Frantic Inventory
+4 Frantic Inventory
 1 Tranquil Cove
 1 Mystic Sanctuary
-1 Opt
 1 Chemister's Insight
+1 Opt
 1 Prison Realm
 1 Realm-Cloaked Giant
 1 Evolving Wilds
@@ -105,19 +112,12 @@
 2 Chemister's Insight
 2 Prison Realm
 3 Tranquil Cove
-3 Banishing Light
 3 Opt
 3 Essence Scatter
+3 Banishing Light
 3 Thirst for Meaning
-3 Chemister's Insight
 4 Tranquil Cove
 4 Opt
 4 Essence Scatter
 4 Banishing Light
-3 Archon of Sun's Grace
-4 Archon of Sun's Grace
-1 Frantic Inventory
-2 Dream Trawler
-2 Frantic Inventory
-3 Frantic Inventory
-4 Frantic Inventory
+3 Chemister's Insight

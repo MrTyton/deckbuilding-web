@@ -106,39 +106,52 @@
 3 Thoughtseize
 4 Fatal Push
 4 Thoughtseize
-1 Fabled Passage
-2 Fabled Passage
 2 Swamp
 3 Swamp
-1 Blood Crypt
-1 Kroxa, Titan of Death's Hunger
-2 Blood Crypt
-2 Kroxa, Titan of Death's Hunger
-3 Blood Crypt
-4 Blood Crypt
 4 Swamp
 1 Young Pyromancer
-1 Stitcher's Supplier
+1 Blood Crypt
 1 Dragonskull Summit
+1 Stitcher's Supplier
+1 Kroxa, Titan of Death's Hunger
 1 Village Rites
 1 Claim / Fame
 1 Foreboding Ruins
+2 Blood Crypt
 2 Young Pyromancer
-2 Stitcher's Supplier
 2 Dragonskull Summit
+2 Stitcher's Supplier
 2 Village Rites
+2 Kroxa, Titan of Death's Hunger
 2 Foreboding Ruins
 2 Claim / Fame
 3 Young Pyromancer
 3 Dragonskull Summit
-3 Stitcher's Supplier
 3 Village Rites
+3 Blood Crypt
+3 Stitcher's Supplier
 3 Claim / Fame
 3 Foreboding Ruins
 4 Stitcher's Supplier
+4 Blood Crypt
 4 Dragonskull Summit
 4 Village Rites
 4 Foreboding Ruins
+1 Fabled Passage
+2 Fabled Passage
+2 Mountain
+3 Mountain
+5 Swamp
+1 Castle Locthwain
+2 Castle Locthwain
+1 Scampering Scorcher
+1 Island
+1 Watery Grave
+1 Murderous Rider
+2 Watery Grave
+2 Island
+2 Murderous Rider
+3 Fabled Passage
 1 Blooming Marsh
 1 Overgrown Tomb
 1 Scavenging Ooze
@@ -148,36 +161,18 @@
 3 Overgrown Tomb
 4 Overgrown Tomb
 4 Blooming Marsh
-1 Dreadbore
-2 Dreadbore
-3 Kroxa, Titan of Death's Hunger
-3 Fabled Passage
-1 Abrupt Decay
-2 Abrupt Decay
-2 Mountain
-3 Mountain
-5 Swamp
-1 Castle Locthwain
-2 Castle Locthwain
-2 Scavenging Ooze
-1 Scampering Scorcher
-1 Island
-1 Watery Grave
-1 Murderous Rider
-2 Watery Grave
-2 Island
-2 Murderous Rider
 1 Ashiok, Nightmare Muse
 1 Breeding Pool
 1 Ipnu Rivulet
 1 Jace, Vryn's Prodigy
 1 Hinterland Harbor
 1 Traverse the Ulvenwald
-1 Atris, Oracle of Half-Truths
 1 Shark Typhoon
 1 Uro, Titan of Nature's Wrath
 1 Tireless Tracker
 1 Heartless Act
+1 Abrupt Decay
+1 Atris, Oracle of Half-Truths
 1 Nissa, Who Shakes the World
 1 Eat to Extinction
 1 Zagoth Triome
@@ -186,6 +181,7 @@
 2 Shark Typhoon
 2 Jace, Vryn's Prodigy
 2 Uro, Titan of Nature's Wrath
+2 Abrupt Decay
 2 Satyr Wayfinder
 2 Traverse the Ulvenwald
 3 Satyr Wayfinder
@@ -203,14 +199,14 @@
 3 Goblin Instigator
 3 Rootbound Crag
 4 Gilded Goose
-1 Experiment One
 1 Pelt Collector
-2 Experiment One
+1 Experiment One
 2 Pelt Collector
-3 Experiment One
+2 Experiment One
 3 Pelt Collector
-4 Experiment One
+3 Experiment One
 4 Pelt Collector
+4 Experiment One
 1 Burning-Tree Emissary
 1 Hashep Oasis
 1 Domri, Anarch of Bolas
@@ -246,31 +242,13 @@
 4 Bonecrusher Giant
 4 Voltaic Brawler
 4 Ghor-Clan Rampager
-1 Grim Flayer
-1 Deathrite Shaman
-1 Kolaghan's Command
-1 Chevill, Bane of Monsters
-1 Unbridled Growth
-1 Dead Weight
-2 Grim Flayer
-2 Deathrite Shaman
-2 Kolaghan's Command
-2 Dead Weight
-2 Chevill, Bane of Monsters
-2 Unbridled Growth
-3 Grim Flayer
-3 Deathrite Shaman
-3 Chevill, Bane of Monsters
-3 Unbridled Growth
-4 Grim Flayer
-4 Deathrite Shaman
-4 Unbridled Growth
-4 Chevill, Bane of Monsters
 1 Dreadhorde Arcanist
+1 Dreadbore
 1 Wild Slash
 1 Archfiend's Vessel
 1 Call of the Death-Dweller
 2 Dreadhorde Arcanist
+2 Dreadbore
 2 Wild Slash
 2 Call of the Death-Dweller
 3 Dreadhorde Arcanist
@@ -280,29 +258,30 @@
 4 Dreadhorde Arcanist
 1 Scrapheap Scrounger
 1 Llanowar Wastes
+1 Winding Constrictor
 1 Hissing Quagmire
 1 Hardened Scales
-1 Winding Constrictor
 1 Voracious Hydra
 1 Assassin's Trophy
 1 Rishkar, Peema Renegade
 1 Nissa, Voice of Zendikar
 2 Llanowar Wastes
-2 Winding Constrictor
 2 Hardened Scales
+2 Winding Constrictor
 2 Assassin's Trophy
 2 Voracious Hydra
 2 Rishkar, Peema Renegade
 2 Nissa, Voice of Zendikar
+2 Scavenging Ooze
 3 Llanowar Wastes
-3 Hardened Scales
 3 Winding Constrictor
+3 Hardened Scales
 3 Assassin's Trophy
 3 Nissa, Voice of Zendikar
 3 Voracious Hydra
 3 Rishkar, Peema Renegade
-4 Hardened Scales
 4 Winding Constrictor
+4 Hardened Scales
 4 Assassin's Trophy
 4 Nissa, Voice of Zendikar
 4 Voracious Hydra
@@ -316,6 +295,7 @@
 2 Knight of the Ebon Legion
 2 Bloodsoaked Champion
 3 Mire Triton
+3 Kroxa, Titan of Death's Hunger
 3 Fiend Artisan
 3 Knight of the Ebon Legion
 3 Bloodsoaked Champion

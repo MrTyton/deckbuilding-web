@@ -42,8 +42,8 @@
 3 Brazen Borrower
 3 Castle Vantress
 4 Frilled Mystic
-4 Brazen Borrower
 4 Neutralize
+4 Brazen Borrower
 4 Castle Vantress
 1 Jolrael, Mwonvuli Recluse
 2 Jolrael, Mwonvuli Recluse
@@ -54,8 +54,8 @@
 1 Thassa's Intervention
 2 Thassa's Intervention
 1 Bonders' Enclave
-3 Castle Garenbrig
 3 Llanowar Visionary
+3 Castle Garenbrig
 4 Solemn Simulacrum
 11 Forest
 12 Forest
@@ -69,17 +69,17 @@
 2 Mass Manipulation
 4 Ugin, the Spirit Dragon
 4 Aether Gust
-1 Opt
 1 Quench
-2 Opt
+1 Opt
 2 Quench
+2 Opt
 3 Blast Zone
-3 Opt
 3 Quench
+3 Opt
 3 Thassa's Intervention
-4 Blast Zone
-4 Opt
 4 Quench
+4 Opt
+4 Blast Zone
 4 Thassa's Intervention
 1 Discontinuity
 1 Frantic Inventory
@@ -89,9 +89,9 @@
 2 Discontinuity
 2 Frantic Inventory
 2 Root Snare
-3 Teferi, Master of Time
 3 Discontinuity
 3 Frantic Inventory
+3 Teferi, Master of Time
 3 Ketria Triome
 3 Root Snare
 4 Frantic Inventory

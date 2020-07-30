@@ -1,20 +1,23 @@
 3 Boon of the Wish-Giver
-4 Boon of the Wish-Giver
 6 Mountain
+4 Boon of the Wish-Giver
 7 Mountain
 1 Savai Triome
 1 Raugrin Triome
 10 Plains
 2 Raugrin Triome
 2 Savai Triome
+11 Plains
+1 Steam Vents
+1 Blood Crypt
+1 Godless Shrine
 1 Imposing Vantasaur
 2 Imposing Vantasaur
 3 Imposing Vantasaur
 1 Shredded Sails
 2 Shredded Sails
-11 Plains
 1 Scorching Dragonfire
-1 Steam Vents
+1 Swamp
 1 Hallowed Fountain
 3 Raugrin Triome
 4 Raugrin Triome
@@ -22,9 +25,6 @@
 2 Irencrag Pyromancer
 3 Irencrag Pyromancer
 4 Irencrag Pyromancer
-1 Swamp
-1 Blood Crypt
-1 Godless Shrine
 1 Temple of Triumph
 1 Island
 2 Island
@@ -35,8 +35,7 @@
 1 Fiend Artisan
 2 Fiend Artisan
 2 Temple Garden
-1 Raking Claws
-2 Raking Claws
+1 Watery Grave
 1 Reptilian Reflection
 1 Blast Zone
 2 Reptilian Reflection
@@ -67,12 +66,12 @@
 1 Bonecrusher Giant
 1 Embercleave
 1 Temple of Plenty
-1 Experimental Frenzy
 1 Robber of the Rich
 1 Questing Beast
 1 Stomping Ground
 1 Radha, Heart of Keld
 1 Jolrael, Mwonvuli Recluse
+1 Experimental Frenzy
 1 Forest
 2 Bonecrusher Giant
 2 Forest
@@ -93,28 +92,28 @@
 2 Indatha Triome
 2 Splendor Mare
 2 Godless Shrine
+3 Savai Triome
 3 Splendor Mare
 3 Blood Crypt
 3 Fiend Artisan
 3 Godless Shrine
-3 Savai Triome
 4 Savai Triome
 4 Godless Shrine
 4 Fiend Artisan
 4 Splendor Mare
 4 Blood Crypt
+1 Ashiok, Dream Render
 1 Didn't Say Please
 1 Teferi's Tutelage
 1 Ketria Triome
-1 Ashiok, Dream Render
 1 Folio of Fancies
-2 Didn't Say Please
 2 Ashiok, Dream Render
+2 Didn't Say Please
 2 Teferi's Tutelage
+3 Island
 3 Ashiok, Dream Render
 3 Teferi's Tutelage
 3 Didn't Say Please
-3 Island
 4 Teferi's Tutelage
 4 Island
 4 Didn't Say Please
@@ -123,12 +122,12 @@
 7 Island
 8 Island
 1 Easy Prey
-1 Will of the All-Hunter
 1 Castle Locthwain
+1 Will of the All-Hunter
 2 Easy Prey
-2 Temple of Triumph
 2 Will of the All-Hunter
 2 Swamp
+2 Temple of Triumph
 3 Will of the All-Hunter
 3 Easy Prey
 4 Will of the All-Hunter

@@ -36,8 +36,8 @@
 1 Sinister Sabotage
 1 Sublime Epiphany
 1 Neutralize
-1 Teferi, Master of Time
 1 Brazen Borrower
+1 Teferi, Master of Time
 1 Torrential Gearhulk
 1 Hinterland Harbor
 1 Temple of Mystery
@@ -84,16 +84,16 @@
 2 Godless Shrine
 2 Trial of Ambition
 3 Isolated Chapel
+3 Shambling Vent
 3 Flicker of Fate
 3 Doom Foretold
 3 Treacherous Blessing
-3 Shambling Vent
 3 Godless Shrine
 3 Trial of Ambition
+4 Doom Foretold
 4 Isolated Chapel
 4 Trial of Ambition
 4 Treacherous Blessing
-4 Doom Foretold
 4 Godless Shrine
 5 Plains
 1 Thoughtseize
@@ -141,17 +141,31 @@
 2 Demonic Pact
 2 Final Payment
 2 Oath of Kaya
-3 Demonic Pact
 3 Oath of Kaya
+3 Demonic Pact
 4 Shambling Vent
+1 Heliod, Sun-Crowned
+1 Shatter the Sky
+1 Caves of Koilos
+1 Arcanist's Owl
+1 Walking Ballista
+2 Heliod, Sun-Crowned
+2 Caves of Koilos
+2 Walking Ballista
+2 Shatter the Sky
+2 Arcanist's Owl
+3 Heliod, Sun-Crowned
+3 Walking Ballista
+4 Heliod, Sun-Crowned
+4 Flicker of Fate
+4 Walking Ballista
 1 Botanical Sanctum
 1 Hostage Taker
 1 Woodland Bellower
-1 Thassa, Deep-Dwelling
 1 Elvish Rejuvenator
+1 Arboreal Grazer
 1 Yavimaya Coast
 1 Satyr Wayfinder
-1 Arboreal Grazer
 1 Unesh, Criosphinx Sovereign
 1 Grapple with the Past
 1 Eldritch Evolution
@@ -159,17 +173,18 @@
 1 Massacre Girl
 1 Cavalier of Night
 1 Tasigur, the Golden Fang
+1 Thassa, Deep-Dwelling
 1 Neoform
-1 Reclamation Sage
 1 Thought-Knot Seer
+1 Reclamation Sage
 1 Overgrown Tomb
 1 Llanowar Wastes
 1 Scavenging Ooze
 1 Blooming Marsh
 2 Elvish Rejuvenator
 2 Yavimaya Coast
-2 Satyr Wayfinder
 2 Arboreal Grazer
+2 Satyr Wayfinder
 2 Eldritch Evolution
 2 Grapple with the Past
 2 Tasigur, the Golden Fang
@@ -186,26 +201,11 @@
 3 Llanowar Wastes
 3 Blooming Marsh
 3 Forest
-4 Satyr Wayfinder
 4 Arboreal Grazer
+4 Satyr Wayfinder
 4 Neoform
-1 Heliod, Sun-Crowned
-1 Shatter the Sky
-1 Caves of Koilos
-1 Arcanist's Owl
-1 Walking Ballista
-2 Heliod, Sun-Crowned
-2 Caves of Koilos
-2 Walking Ballista
-2 Shatter the Sky
-2 Arcanist's Owl
-3 Heliod, Sun-Crowned
-3 Walking Ballista
-4 Heliod, Sun-Crowned
-4 Flicker of Fate
-4 Walking Ballista
-1 Dragonskull Summit
 1 Blood Crypt
+1 Dragonskull Summit
 1 Fatal Push
 2 Dragonskull Summit
 2 Blood Crypt
@@ -220,21 +220,21 @@
 1 Kroxa, Titan of Death's Hunger
 1 Murderous Rider
 1 Collective Brutality
-1 Davriel, Rogue Shadowmage
 1 Eliminate
+1 Davriel, Rogue Shadowmage
 1 Hazoret the Fervent
 1 Liliana, Waker of the Dead
 1 Waste Not
 2 Field of Ruin
 2 Kolaghan's Command
 2 Kroxa, Titan of Death's Hunger
+2 Davriel, Rogue Shadowmage
 2 Waste Not
 2 Liliana, Waker of the Dead
 2 Murderous Rider
 2 Eliminate
 2 Collective Brutality
 2 Hazoret the Fervent
-2 Davriel, Rogue Shadowmage
 2 Mountain
 3 Liliana, Waker of the Dead
 3 Waste Not

@@ -1,4 +1,3 @@
-1 Dragonskull Summit
 1 Kroxa, Titan of Death's Hunger
 2 Blood Crypt
 2 Liliana, Waker of the Dead
@@ -23,86 +22,33 @@
 4 Liliana, Waker of the Dead
 4 Dragonskull Summit
 4 Castle Locthwain
+1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Opt
 4 Opt
-2 Fetid Pools
 1 Frantic Inventory
 1 Mystic Sanctuary
 1 Sinister Sabotage
 2 Sinister Sabotage
 2 Frantic Inventory
 2 Mystic Sanctuary
+2 Fetid Pools
 3 Frantic Inventory
 4 Frantic Inventory
 4 Island
 4 Dig Through Time
 5 Island
 6 Island
-1 Plains
-1 Hallowed Fountain
-1 Teferi, Time Raveler
-2 Hallowed Fountain
-2 Teferi, Time Raveler
-3 Hallowed Fountain
-3 Teferi, Time Raveler
-4 Hallowed Fountain
-2 Plains
-1 Godless Shrine
-2 Godless Shrine
-3 Godless Shrine
-4 Godless Shrine
-1 Glacial Fortress
-2 Glacial Fortress
-3 Glacial Fortress
-1 Elspeth Conquers Death
-2 Elspeth Conquers Death
-1 Isolated Chapel
-1 Oath of Kaya
-1 Trial of Ambition
-1 Omen of the Sea
-1 Thought Erasure
-1 Irrigated Farmland
-2 Oath of Kaya
-2 Trial of Ambition
-2 Omen of the Sea
-2 Isolated Chapel
-2 Irrigated Farmland
-3 Trial of Ambition
-3 Oath of Kaya
-3 Omen of the Sea
-4 Teferi, Time Raveler
-4 Omen of the Sea
 1 Languish
 3 Shark Typhoon
 2 Jace, Vryn's Prodigy
-1 Mutavault
-1 Drown in the Loch
-2 Drown in the Loch
-3 Drown in the Loch
-1 Supreme Verdict
-1 Teferi, Hero of Dominaria
-2 Supreme Verdict
-2 Teferi, Hero of Dominaria
-3 Narset, Parter of Veils
-3 Supreme Verdict
-1 Geier Reach Sanitarium
-1 Agent of Treachery
-2 Agent of Treachery
-1 Charming Prince
-2 Charming Prince
-3 Charming Prince
-4 Charming Prince
+1 Plains
+2 Plains
 1 Forest
 2 Forest
 3 Forest
 4 Forest
 5 Forest
-1 Radiant Fountain
-1 Temple Garden
-2 Temple Garden
-3 Temple Garden
-4 Temple Garden
 1 Llanowar Elves
 1 Elvish Mystic
 2 Llanowar Elves
@@ -111,86 +57,116 @@
 3 Elvish Mystic
 4 Elvish Mystic
 4 Llanowar Elves
-1 Temple of Enlightenment
-1 Baffling End
-1 Neutralize
-1 Settle the Wreckage
-1 Flicker of Fate
-1 Cling to Dust
-2 Baffling End
-2 Neutralize
-2 Flicker of Fate
-3 Baffling End
-3 Neutralize
-4 Neutralize
-1 Thassa, Deep-Dwelling
-1 Basilica Bell-Haunt
-1 Barrin, Tolarian Archmage
-1 Elite Guardmage
-1 Reflector Mage
-1 Temple of Deceit
-1 Atris, Oracle of Half-Truths
-1 Yorion, Sky Nomad
-2 Yorion, Sky Nomad
-2 Thought Erasure
-2 Basilica Bell-Haunt
-2 Atris, Oracle of Half-Truths
-2 Elite Guardmage
-2 Reflector Mage
-2 Thassa, Deep-Dwelling
-3 Thought Erasure
-3 Basilica Bell-Haunt
-3 Fetid Pools
-3 Yorion, Sky Nomad
-3 Reflector Mage
-3 Irrigated Farmland
-3 Isolated Chapel
-4 Thought Erasure
-4 Glacial Fortress
-4 Isolated Chapel
-4 Trial of Ambition
-4 Basilica Bell-Haunt
-4 Reflector Mage
-4 Oath of Kaya
+1 Temple Garden
+2 Temple Garden
+3 Temple Garden
+4 Temple Garden
 1 Walking Ballista
-3 Plains
+1 Mutavault
 2 Walking Ballista
 3 Walking Ballista
 1 Sunpetal Grove
+6 Forest
+1 Radiant Fountain
+1 Drown in the Loch
+2 Drown in the Loch
+3 Drown in the Loch
+1 Heliod, Sun-Crowned
+7 Forest
+2 Sunpetal Grove
+1 Castle Garenbrig
+2 Castle Garenbrig
+3 Plains
+1 Hallowed Fountain
+1 Teferi, Time Raveler
+2 Hallowed Fountain
+2 Teferi, Time Raveler
+3 Hallowed Fountain
+3 Teferi, Time Raveler
+4 Hallowed Fountain
+1 Godless Shrine
+2 Godless Shrine
+3 Godless Shrine
+4 Godless Shrine
+1 Charming Prince
+2 Charming Prince
+3 Charming Prince
+4 Charming Prince
+1 Supreme Verdict
+1 Teferi, Hero of Dominaria
+2 Supreme Verdict
+2 Teferi, Hero of Dominaria
+3 Narset, Parter of Veils
+3 Supreme Verdict
+1 Glacial Fortress
+2 Glacial Fortress
+3 Glacial Fortress
+1 Elspeth Conquers Death
+1 Agent of Treachery
+2 Agent of Treachery
+2 Elspeth Conquers Death
+1 Baffling End
+1 Isolated Chapel
+1 Oath of Kaya
+1 Trial of Ambition
+1 Neutralize
+1 Settle the Wreckage
+1 Flicker of Fate
+1 Omen of the Sea
+1 Cling to Dust
+1 Thought Erasure
+1 Irrigated Farmland
+2 Baffling End
+2 Oath of Kaya
+2 Neutralize
+2 Trial of Ambition
+2 Omen of the Sea
+2 Isolated Chapel
+2 Flicker of Fate
+2 Irrigated Farmland
+3 Trial of Ambition
+3 Baffling End
+3 Oath of Kaya
+3 Neutralize
+3 Omen of the Sea
+4 Teferi, Time Raveler
+4 Neutralize
+4 Omen of the Sea
 4 Walking Ballista
 4 Plains
 5 Plains
-1 Heliod, Sun-Crowned
 2 Heliod, Sun-Crowned
 3 Heliod, Sun-Crowned
 4 Heliod, Sun-Crowned
-6 Forest
+1 Oath of Nissa
+2 Oath of Nissa
+3 Oath of Nissa
+1 Nissa, Who Shakes the World
+2 Nissa, Who Shakes the World
 1 Fortified Village
 2 Fortified Village
 3 Fortified Village
 4 Fortified Village
 1 Mana Confluence
 2 Mana Confluence
-2 Sunpetal Grove
+4 Oath of Nissa
 3 Sunpetal Grove
 4 Sunpetal Grove
-7 Forest
-1 Castle Garenbrig
 1 Ulamog, the Ceaseless Hunger
-2 Castle Garenbrig
 3 Castle Garenbrig
 4 Castle Garenbrig
+8 Forest
 1 Emrakul, the Promised End
 1 Breeding Pool
 2 Breeding Pool
-2 Radiant Fountain
-3 Radiant Fountain
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
-1 Oath of Nissa
-2 Oath of Nissa
-3 Oath of Nissa
+2 Radiant Fountain
+3 Radiant Fountain
+9 Forest
+10 Forest
+11 Forest
 1 World Breaker
 1 Ugin, the Spirit Dragon
 1 Sanctum of Ugin
@@ -201,9 +177,6 @@
 3 Nissa's Pilgrimage
 4 Ugin, the Spirit Dragon
 4 Nissa's Pilgrimage
-8 Forest
-1 Nissa, Who Shakes the World
-2 Nissa, Who Shakes the World
 3 Breeding Pool
 4 Breeding Pool
 1 Satyr Wayfinder
@@ -215,14 +188,6 @@
 3 Satyr Wayfinder
 3 Yavimaya Coast
 4 Satyr Wayfinder
-1 Gideon, Ally of Zendikar
-1 Gideon of the Trials
-1 Heart of Kiran
-2 Gideon of the Trials
-2 Mutavault
-2 Gideon, Ally of Zendikar
-3 Gideon of the Trials
-6 Plains
 1 Elvish Rejuvenator
 1 Woodland Bellower
 2 Elvish Rejuvenator
@@ -248,24 +213,18 @@
 3 Stomping Ground
 4 Bonecrusher Giant
 4 Stomping Ground
-1 Llanowar Wastes
-1 Overgrown Tomb
-1 Blooming Marsh
-2 Llanowar Wastes
-2 Blooming Marsh
-2 Overgrown Tomb
-3 Llanowar Wastes
-3 Blooming Marsh
-1 Brazen Borrower
-2 Brazen Borrower
-3 Brazen Borrower
+1 Gideon, Ally of Zendikar
+1 Gideon of the Trials
+1 Heart of Kiran
+2 Gideon of the Trials
+2 Mutavault
+2 Gideon, Ally of Zendikar
+3 Gideon of the Trials
+6 Plains
 1 Lurrus of the Dream-Den
-1 Sacred Foundry
-2 Heart of Kiran
-3 Gideon, Ally of Zendikar
-3 Heart of Kiran
-3 Mutavault
-4 Gideon, Ally of Zendikar
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+1 Geier Reach Sanitarium
 1 Shatter the Sky
 1 Castle Ardenvale
 1 Gideon Blackblade
@@ -274,6 +233,23 @@
 7 Plains
 8 Plains
 9 Plains
+2 Heart of Kiran
+3 Gideon, Ally of Zendikar
+3 Heart of Kiran
+3 Mutavault
+4 Gideon, Ally of Zendikar
+1 Sacred Foundry
+1 Brazen Borrower
+2 Brazen Borrower
+3 Brazen Borrower
+1 Llanowar Wastes
+1 Overgrown Tomb
+1 Blooming Marsh
+2 Llanowar Wastes
+2 Blooming Marsh
+2 Overgrown Tomb
+3 Llanowar Wastes
+3 Blooming Marsh
 1 Urborg, Tomb of Yawgmoth
 1 Caves of Koilos
 1 Concealed Courtyard
@@ -286,20 +262,21 @@
 2 Teferi, Master of Time
 1 Kalitas, Traitor of Ghet
 2 Kalitas, Traitor of Ghet
-1 Censor
 1 Torrential Gearhulk
 1 Castle Vantress
 1 Negate
+1 Censor
 2 Censor
 2 Negate
 3 Jace, Vryn's Prodigy
 3 Censor
 4 Censor
 1 Neoform
+1 Thassa, Deep-Dwelling
 1 Botanical Sanctum
-1 Reclamation Sage
 1 Tasigur, the Golden Fang
 1 Cavalier of Night
+1 Reclamation Sage
 1 Thought-Knot Seer
 1 Massacre Girl
 1 Cavalier of Gales
@@ -335,9 +312,30 @@
 4 Gruul Spellbreaker
 4 Rekindling Phoenix
 4 Glorybringer
+1 Wolfwillow Haven
+1 Vivien, Monsters' Advocate
+1 Nykthos, Shrine to Nyx
+1 Sylvan Caryatid
+1 Voracious Hydra
+1 Jadelight Ranger
+2 Wolfwillow Haven
+2 Vivien, Monsters' Advocate
+2 Jadelight Ranger
+2 Voracious Hydra
+2 Nykthos, Shrine to Nyx
+2 Sylvan Caryatid
+3 Karn, the Great Creator
+3 Wolfwillow Haven
+3 Nykthos, Shrine to Nyx
+3 Jadelight Ranger
+3 Sylvan Caryatid
+3 Vivien, Monsters' Advocate
+4 Karn, the Great Creator
+4 Sylvan Caryatid
+4 Vivien, Monsters' Advocate
+1 Ipnu Rivulet
 1 Solemn Simulacrum
 1 Cavalier of Thorns
-1 Ipnu Rivulet
 1 Hinterland Harbor
 2 Ipnu Rivulet
 2 Cavalier of Thorns
@@ -369,6 +367,36 @@
 4 Scrapheap Scrounger
 4 History of Benalia
 4 Knight of the Ebon Legion
+1 Gallia of the Endless Dance
+1 Pelt Collector
+1 Embercleave
+1 Zhur-Taa Goblin
+1 Ghor-Clan Rampager
+1 Burning-Tree Emissary
+1 Experiment One
+1 Voltaic Brawler
+2 Pelt Collector
+2 Gallia of the Endless Dance
+2 Embercleave
+2 Zhur-Taa Goblin
+2 Voltaic Brawler
+2 Ghor-Clan Rampager
+2 Burning-Tree Emissary
+2 Experiment One
+3 Embercleave
+3 Pelt Collector
+3 Garruk's Harbinger
+3 Gallia of the Endless Dance
+3 Game Trail
+3 Experiment One
+3 Ghor-Clan Rampager
+3 Burning-Tree Emissary
+3 Voltaic Brawler
+4 Pelt Collector
+4 Voltaic Brawler
+4 Game Trail
+4 Experiment One
+4 Burning-Tree Emissary
 1 Selfless Savior
 1 Incubation/Incongruity
 1 Vivien, Champion of the Wilds
@@ -384,7 +412,6 @@
 3 Incubation/Incongruity
 3 Silhana Wayfinder
 4 Mana Confluence
-4 Oath of Nissa
 4 Selfless Savior
 4 Radiant Fountain
 4 Silhana Wayfinder
@@ -440,32 +467,32 @@
 1 Serrated Scorpion
 1 Fiend Artisan
 1 Priest of Forgotten Gods
-1 Cruel Celebrant
 1 Zulaport Cutthroat
 1 Cartel Aristocrat
 1 Stitcher's Supplier
 1 Village Rites
+1 Cruel Celebrant
 1 Garrison Cat
 1 Rally the Ancestors
 1 Hunted Witness
 2 Serrated Scorpion
 2 Fiend Artisan
 2 Priest of Forgotten Gods
-2 Cruel Celebrant
 2 Hunted Witness
 2 Cartel Aristocrat
 2 Garrison Cat
 2 Village Rites
 2 Stitcher's Supplier
 2 Zulaport Cutthroat
+2 Cruel Celebrant
 2 Rally the Ancestors
 3 Serrated Scorpion
 3 Fiend Artisan
-3 Cruel Celebrant
 3 Priest of Forgotten Gods
 3 Cartel Aristocrat
 3 Stitcher's Supplier
 3 Village Rites
+3 Cruel Celebrant
 3 Garrison Cat
 3 Rally the Ancestors
 3 Zulaport Cutthroat
@@ -521,11 +548,11 @@
 4 Steam Vents
 4 Spirebluff Canal
 1 Shock
+1 Titan's Strength
 1 Soul-Scar Mage
 1 Crash Through
 1 Warlord's Fury
 1 Shivan Reef
-1 Titan's Strength
 1 Treasure Cruise
 1 Sprite Dragon
 1 Rapid Hybridization
@@ -559,36 +586,6 @@
 4 Treasure Cruise
 4 Crash Through
 4 Shock
-1 Gallia of the Endless Dance
-1 Pelt Collector
-1 Embercleave
-1 Zhur-Taa Goblin
-1 Ghor-Clan Rampager
-1 Burning-Tree Emissary
-1 Experiment One
-1 Voltaic Brawler
-2 Pelt Collector
-2 Gallia of the Endless Dance
-2 Embercleave
-2 Zhur-Taa Goblin
-2 Voltaic Brawler
-2 Ghor-Clan Rampager
-2 Burning-Tree Emissary
-2 Experiment One
-3 Embercleave
-3 Pelt Collector
-3 Garruk's Harbinger
-3 Gallia of the Endless Dance
-3 Game Trail
-3 Experiment One
-3 Ghor-Clan Rampager
-3 Burning-Tree Emissary
-3 Voltaic Brawler
-4 Pelt Collector
-4 Game Trail
-4 Experiment One
-4 Burning-Tree Emissary
-4 Voltaic Brawler
 1 Paradise Druid
 1 Canopy Vista
 1 Worldspine Wurm
@@ -598,21 +595,21 @@
 1 Dubious Challenge
 1 Trostani Discordant
 2 Ulamog, the Ceaseless Hunger
+2 Worldspine Wurm
 2 Paradise Druid
 2 Trostani Discordant
-2 Worldspine Wurm
 2 Dubious Challenge
 2 See the Unwritten
 2 Canopy Vista
+3 Worldspine Wurm
 3 Paradise Druid
 3 Dubious Challenge
 3 See the Unwritten
 3 Trostani Discordant
-3 Worldspine Wurm
+4 Worldspine Wurm
 4 Paradise Druid
 4 Trostani Discordant
 4 See the Unwritten
-4 Worldspine Wurm
 4 Dubious Challenge
 1 Inspiring Vantage
 1 Cast Out
@@ -620,13 +617,13 @@
 1 Zenith Flare
 1 Valiant Rescuer
 1 Drannith Healer
-1 Djeru's Renunciation
 1 Footfall Crater
 1 Battlefield Forge
 1 Drannith Stinger
 1 Flameblade Adept
-1 Hollow One
+1 Djeru's Renunciation
 1 Go for Blood
+1 Hollow One
 2 Cast Out
 2 Zenith Flare
 2 Flourishing Fox
@@ -667,6 +664,7 @@
 1 Commit/Memory
 1 Lumbering Falls
 1 Tamiyo, Collector of Tales
+1 Temple of Enlightenment
 1 Fog
 1 Search for Azcanta
 1 Elixir of Immortality
@@ -692,11 +690,11 @@
 4 Growth Spiral
 1 Fiery Impulse
 1 Lightning Strike
-1 Izzet Charm
 1 Raugrin Triome
 1 Tale's End
 1 Soulfire Grand Master
 1 Spell Queller
+1 Izzet Charm
 1 Syncopate
 1 Needle Spires
 1 Render Silent
@@ -750,29 +748,24 @@
 3 Woodland Bellower
 4 Woodland Bellower
 4 Shrine of the Forsaken Gods
-9 Forest
-10 Forest
-11 Forest
 12 Forest
 13 Forest
-1 Karn, the Great Creator
 1 Blast Zone
 1 Karn's Bastion
 1 Gideon's Intervention
-1 Authority of the Consuls
 1 Swallow Whole
 1 Weatherlight
 1 Declaration in Stone
 1 Hushbringer
+1 Authority of the Consuls
 1 Spear of Heliod
 1 Idyllic Grange
-2 Karn, the Great Creator
 2 Blast Zone
-2 Authority of the Consuls
 2 Lurrus of the Dream-Den
 2 Idyllic Grange
 2 Castle Ardenvale
 2 Hushbringer
+2 Authority of the Consuls
 3 Lurrus of the Dream-Den
 3 Blast Zone
 3 Authority of the Consuls
