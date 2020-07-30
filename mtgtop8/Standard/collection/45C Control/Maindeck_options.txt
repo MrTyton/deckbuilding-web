@@ -1,19 +1,20 @@
 1 Fabled Passage
 1 Plains
 2 Fabled Passage
-1 Heartless Act
 3 Fabled Passage
+1 Heartless Act
 4 Thought Erasure
 1 Eliminate
 1 Ritual of Soot
 2 Ritual of Soot
-1 Shark Typhoon
 4 Fabled Passage
+2 Island
+1 Shark Typhoon
 1 Omen of the Sea
 2 Omen of the Sea
 3 Omen of the Sea
 4 Omen of the Sea
-2 Island
+2 Plains
 1 Zagoth Triome
 1 Uro, Titan of Nature's Wrath
 1 Growth Spiral
@@ -22,9 +23,10 @@
 2 Uro, Titan of Nature's Wrath
 2 Growth Spiral
 2 Breeding Pool
-3 Breeding Pool
 3 Uro, Titan of Nature's Wrath
-2 Plains
+3 Breeding Pool
+1 Steam Vents
+1 Mountain
 2 Shark Typhoon
 3 Shark Typhoon
 2 Zagoth Triome
@@ -42,8 +44,6 @@
 4 Shark Typhoon
 1 Temple of Enlightenment
 2 Temple of Enlightenment
-1 Steam Vents
-1 Mountain
 2 Swamp
 2 Forest
 4 Uro, Titan of Nature's Wrath
@@ -140,6 +140,11 @@
 4 Shatter the Sky
 4 Temple of Mystery
 4 Forest
+2 Steam Vents
+1 Kenrith, the Returned King
+1 Brazen Borrower
+2 Brazen Borrower
+3 Brazen Borrower
 2 Aether Gust
 1 Mazemind Tome
 1 Discontinuity
@@ -147,25 +152,53 @@
 1 Liliana, Waker of the Dead
 2 Mazemind Tome
 2 Discontinuity
-2 Steam Vents
 2 Liliana, Waker of the Dead
 3 Temple of Silence
-1 Kenrith, the Returned King
-1 Brazen Borrower
+1 Aurelia, Exemplar of Justice
+1 Lavabrink Venturer
+1 Scorching Dragonfire
+1 Dream Trawler
+1 God-Eternal Kefnet
+1 Storm's Wrath
+1 Seasoned Hallowblade
+1 The Royal Scions
+1 Sacred Foundry
+1 Justice Strike
+2 Kenrith, the Returned King
+2 Aurelia, Exemplar of Justice
+2 Storm's Wrath
+2 Lavabrink Venturer
+2 Justice Strike
+2 Scorching Dragonfire
+2 Dream Trawler
+2 Sacred Foundry
+2 Seasoned Hallowblade
+2 Raugrin Triome
+2 Mountain
+2 The Royal Scions
+3 Lavabrink Venturer
+3 Scorching Dragonfire
+3 Steam Vents
+3 Raugrin Triome
+3 Seasoned Hallowblade
+3 Aurelia, Exemplar of Justice
+4 Raugrin Triome
+4 Steam Vents
+4 Lavabrink Venturer
+4 Scorching Dragonfire
+4 Seasoned Hallowblade
 1 Primal Might
-1 Negate
 1 Ketria Triome
+1 Negate
 1 Lazav, the Multifarious
 2 Primal Might
-2 Brazen Borrower
 2 Negate
 2 Lazav, the Multifarious
 2 Ketria Triome
 3 Primal Might
 3 Negate
-3 Ketria Triome
 3 Lazav, the Multifarious
-3 Brazen Borrower
+3 Ketria Triome
 4 Ketria Triome
 4 Negate
 4 Brazen Borrower

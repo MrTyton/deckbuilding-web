@@ -1,19 +1,19 @@
 2 Tajic, Legion's Edge
 2 Winota, Joiner of Forces
 2 Selfless Savior
+2 Seasoned Hallowblade
 2 Alpine Houndmaster
 2 Alpine Watchdog
 2 Igneous Cur
-2 Seasoned Hallowblade
 3 Tajic, Legion's Edge
+3 Seasoned Hallowblade
 3 Selfless Savior
 3 Alpine Houndmaster
-3 Seasoned Hallowblade
 3 Temple of Triumph
 4 Embercleave
+4 Seasoned Hallowblade
 4 Selfless Savior
 4 Alpine Houndmaster
-4 Seasoned Hallowblade
 4 Temple of Triumph
 3 Temple of Abandon
 2 Klothys, God of Destiny
@@ -124,8 +124,8 @@
 2 Risen Reef
 2 Temple of Malady
 2 Aether Gust
-3 Uro, Titan of Nature's Wrath
 3 Breeding Pool
+3 Uro, Titan of Nature's Wrath
 3 Zagoth Triome
 3 Growth Spiral
 3 Overgrown Tomb
@@ -270,45 +270,6 @@
 4 Worthy Knight
 4 Stormfist Crusader
 4 Blacklance Paragon
-3 Stonecoil Serpent
-1 Solemn Simulacrum
-1 Interplanar Beacon
-1 Mobilized District
-1 Palladium Myr
-1 Karn's Bastion
-1 Crystalline Giant
-1 Steel Overseer
-1 Mystic Forge
-1 Ugin, the Ineffable
-2 Mobilized District
-2 Solemn Simulacrum
-2 Palladium Myr
-2 Steel Overseer
-2 Karn's Bastion
-2 Interplanar Beacon
-2 Radiant Fountain
-2 Crystalline Giant
-2 Ugin, the Ineffable
-2 Mystic Forge
-3 Mystic Forge
-3 Solemn Simulacrum
-3 Crystalline Giant
-3 Palladium Myr
-3 Steel Overseer
-3 Interplanar Beacon
-3 Radiant Fountain
-3 Ugin, the Ineffable
-3 Karn's Bastion
-4 Mystic Forge
-4 Stonecoil Serpent
-4 Interplanar Beacon
-4 Steel Overseer
-4 Palladium Myr
-4 Radiant Fountain
-4 Solemn Simulacrum
-4 Ugin, the Ineffable
-4 Karn's Bastion
-4 Crystalline Giant
 1 Lazotep Reaver
 1 Temple of Malice
 1 Midnight Reaper
@@ -366,6 +327,45 @@
 4 Raugrin Triome
 4 Startling Development
 4 Unpredictable Cyclone
+3 Stonecoil Serpent
+1 Solemn Simulacrum
+1 Ugin, the Ineffable
+1 Interplanar Beacon
+1 Palladium Myr
+1 Karn's Bastion
+1 Crystalline Giant
+1 Steel Overseer
+1 Mobilized District
+1 Mystic Forge
+2 Mobilized District
+2 Solemn Simulacrum
+2 Palladium Myr
+2 Steel Overseer
+2 Karn's Bastion
+2 Interplanar Beacon
+2 Radiant Fountain
+2 Crystalline Giant
+2 Ugin, the Ineffable
+2 Mystic Forge
+3 Mystic Forge
+3 Solemn Simulacrum
+3 Crystalline Giant
+3 Palladium Myr
+3 Steel Overseer
+3 Interplanar Beacon
+3 Radiant Fountain
+3 Ugin, the Ineffable
+3 Karn's Bastion
+4 Mystic Forge
+4 Interplanar Beacon
+4 Steel Overseer
+4 Palladium Myr
+4 Radiant Fountain
+4 Solemn Simulacrum
+4 Ugin, the Ineffable
+4 Karn's Bastion
+4 Crystalline Giant
+4 Stonecoil Serpent
 1 Castle Ardenvale
 1 Indatha Triome
 1 Footfall Crater
@@ -388,15 +388,15 @@
 4 Yidaro, Wandering Monster
 4 Go for Blood
 4 Footfall Crater
-1 Pouncing Shoreshark
 1 Dirge Bat
+1 Ashiok's Erasure
 1 Cunning Nightbonder
 1 Brineborn Cutthroat
 1 Heartless Act
 1 Spectral Sailor
 1 Sea-Dasher Octopus
 1 Brazen Borrower
-1 Ashiok's Erasure
+1 Pouncing Shoreshark
 1 Slitherwisp
 2 Temple of Deceit
 2 Dirge Bat
@@ -409,6 +409,7 @@
 2 Slitherwisp
 2 Sea-Dasher Octopus
 3 Heartless Act
+3 Cunning Nightbonder
 3 Dirge Bat
 3 Mystical Dispute
 3 Slitherwisp
@@ -417,10 +418,9 @@
 3 Brineborn Cutthroat
 3 Spectral Sailor
 3 Sea-Dasher Octopus
-3 Cunning Nightbonder
 4 Heartless Act
-4 Spectral Sailor
 4 Cunning Nightbonder
+4 Spectral Sailor
 4 Brazen Borrower
 4 Sea-Dasher Octopus
 4 Slitherwisp
@@ -483,9 +483,9 @@
 1 Gods Willing
 1 Karametra's Blessing
 1 Glaring Aegis
-1 Shadowspear
 1 Sentinel's Eyes
 1 All That Glitters
+1 Shadowspear
 2 Healer's Hawk
 2 Solid Footing
 2 Gods Willing
