@@ -1,5 +1,6 @@
 1 Seal Away
 2 Seal Away
+3 Damping Sphere
 1 Shacklegeist
 1 Surge of Righteousness
 1 Elite Guardmage
@@ -13,7 +14,6 @@
 1 Disdainful Stroke
 3 Devout Decree
 1 Erase
-3 Damping Sphere
 1 Deputy of Detention
 2 Deputy of Detention
 2 Disdainful Stroke
@@ -26,6 +26,7 @@
 3 Knight of Autumn
 1 Baffling End
 2 Baffling End
+4 Damping Sphere
 1 Irrigated Farmland
 1 Remorseful Cleric
 1 Spell Pierce
@@ -48,8 +49,8 @@
 1 Permeating Mass
 2 Permeating Mass
 3 Permeating Mass
-1 Garruk's Harbinger
 1 Isolate
+1 Garruk's Harbinger
 2 Isolate
 2 Garruk's Harbinger
 3 Isolate
@@ -59,7 +60,13 @@
 3 Mystic Subdual
 3 Disdainful Stroke
 4 Mystic Subdual
-4 Damping Sphere
+1 Heroic Intervention
+1 Essence Capture
+2 Essence Capture
+2 Heroic Intervention
+3 Essence Capture
+3 Heroic Intervention
+4 Essence Capture
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
