@@ -50,8 +50,8 @@
 |                    1|[Sword of Light and Shadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=47453) |                     |                                                                                                |
 |                    1|[Ugin, the Ineffable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460929)      |                     |                                                                                                |
 |                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)            |                     |                                                                                                |
-|                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)            |                     |                                                                                                |
 |                    2|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)         |                     |                                                                                                |
+|                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)            |                     |                                                                                                |
 |                    4|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)        |                     |                                                                                                |
 |                    4|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)            |                     |                                                                                                |
 

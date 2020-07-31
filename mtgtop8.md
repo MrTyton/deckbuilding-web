@@ -11,10 +11,10 @@
 |[Abzan Midrange](./mtgtop8/Standard/decks/Abzan_Midrange.md)|[Fires of Invention](./mtgtop8/Standard/decks/Fires_of_Invention.md)|[Mono Black Aggro](./mtgtop8/Standard/decks/Mono_Black_Aggro.md)|[Selesnya Aggro](./mtgtop8/Standard/decks/Selesnya_Aggro.md)|[UW Control](./mtgtop8/Standard/decks/UW_Control.md)    |
 |[Adventure](./mtgtop8/Standard/decks/Adventure.md)          |[Golgari Aggro](./mtgtop8/Standard/decks/Golgari_Aggro.md)          |[Mono Blue Aggro](./mtgtop8/Standard/decks/Mono_Blue_Aggro.md)  |[Simic Aggro](./mtgtop8/Standard/decks/Simic_Aggro.md)      |[Weenie White](./mtgtop8/Standard/decks/Weenie_White.md)|
 |[Azorius Aggro](./mtgtop8/Standard/decks/Azorius_Aggro.md)  |[Golgari Control](./mtgtop8/Standard/decks/Golgari_Control.md)      |[Mono Green Aggro](./mtgtop8/Standard/decks/Mono_Green_Aggro.md)|[Simic Control](./mtgtop8/Standard/decks/Simic_Control.md)  |[Winota](./mtgtop8/Standard/decks/Winota.md)            |
-|[Bant Aggro](./mtgtop8/Standard/decks/Bant_Aggro.md)        |[Gruul Aggro](./mtgtop8/Standard/decks/Gruul_Aggro.md)              |[Orzhov Aggro](./mtgtop8/Standard/decks/Orzhov_Aggro.md)        |[Sultai Aggro](./mtgtop8/Standard/decks/Sultai_Aggro.md)    |                                                        |
-|[Bant Control](./mtgtop8/Standard/decks/Bant_Control.md)    |[Izzet Control](./mtgtop8/Standard/decks/Izzet_Control.md)          |[Orzhov Control](./mtgtop8/Standard/decks/Orzhov_Control.md)    |[Sultai Control](./mtgtop8/Standard/decks/Sultai_Control.md)|                                                        |
-|[Boros Aggro](./mtgtop8/Standard/decks/Boros_Aggro.md)      |[Jeskai Aggro](./mtgtop8/Standard/decks/Jeskai_Aggro.md)            |[Other - Aggro](./mtgtop8/Standard/decks/Other_-_Aggro.md)      |[Temur Aggro](./mtgtop8/Standard/decks/Temur_Aggro.md)      |                                                        |
-|[Dimir Midrange](./mtgtop8/Standard/decks/Dimir_Midrange.md)|[Jeskai Control](./mtgtop8/Standard/decks/Jeskai_Control.md)        |[Other - Control](./mtgtop8/Standard/decks/Other_-_Control.md)  |[Temur Control](./mtgtop8/Standard/decks/Temur_Control.md)  |                                                        |
+|[Bant Aggro](./mtgtop8/Standard/decks/Bant_Aggro.md)        |[Grixis Control](./mtgtop8/Standard/decks/Grixis_Control.md)        |[Orzhov Aggro](./mtgtop8/Standard/decks/Orzhov_Aggro.md)        |[Sultai Aggro](./mtgtop8/Standard/decks/Sultai_Aggro.md)    |                                                        |
+|[Bant Control](./mtgtop8/Standard/decks/Bant_Control.md)    |[Gruul Aggro](./mtgtop8/Standard/decks/Gruul_Aggro.md)              |[Orzhov Control](./mtgtop8/Standard/decks/Orzhov_Control.md)    |[Sultai Control](./mtgtop8/Standard/decks/Sultai_Control.md)|                                                        |
+|[Boros Aggro](./mtgtop8/Standard/decks/Boros_Aggro.md)      |[Izzet Control](./mtgtop8/Standard/decks/Izzet_Control.md)          |[Other - Aggro](./mtgtop8/Standard/decks/Other_-_Aggro.md)      |[Temur Aggro](./mtgtop8/Standard/decks/Temur_Aggro.md)      |                                                        |
+|[Dimir Midrange](./mtgtop8/Standard/decks/Dimir_Midrange.md)|[Jeskai Aggro](./mtgtop8/Standard/decks/Jeskai_Aggro.md)            |[Other - Control](./mtgtop8/Standard/decks/Other_-_Control.md)  |[Temur Control](./mtgtop8/Standard/decks/Temur_Control.md)  |                                                        |
 
 
 # Pioneer
@@ -63,4 +63,4 @@
 
 
 
-#### Last Updated at 01:17PM on July 30, 2020
+#### Last Updated at 12:57AM on July 31, 2020

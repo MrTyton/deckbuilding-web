@@ -1,4 +1,8 @@
 2 Tundra
+1 Spell Pierce
+1 Umezawa's Jitte
+1 Urza, Lord High Artificer
+2 Urza, Lord High Artificer
 1 Mishra's Bauble
 1 Urza's Bauble
 1 Cavern of Souls
@@ -9,18 +13,16 @@
 1 Mox Opal
 1 Ancient Tomb
 1 Lotus Petal
-1 Urza, Lord High Artificer
 1 City of Traitors
 1 Chalice of the Void
 2 Mishra's Bauble
 2 Urza's Bauble
 2 Lion's Eye Diamond
-2 Auriok Salvagers
 2 Karn, the Great Creator
 2 Mox Opal
 2 Ancient Tomb
+2 Auriok Salvagers
 2 Chalice of the Void
-2 Urza, Lord High Artificer
 2 City of Traitors
 2 Walking Ballista
 2 Cavern of Souls
@@ -48,10 +50,9 @@
 4 Cavern of Souls
 1 Island
 1 Plains
-1 Spell Pierce
-1 Umezawa's Jitte
 1 Polluted Delta
 2 Polluted Delta
+3 Snapcaster Mage
 1 Stonecoil Serpent
 1 Seat of the Synod
 2 Stonecoil Serpent
@@ -72,11 +73,27 @@
 4 Daze
 4 True-Name Nemesis
 4 Delver of Secrets
+2 Force of Negation
 3 Tundra
+1 Underground Sea
+1 Arcum's Astrolabe
+2 Arcum's Astrolabe
 1 Ethereal Forager
 2 Ethereal Forager
-2 Force of Negation
 3 Seat of the Synod
+1 Scalding Tarn
+1 Volcanic Island
+1 Spell Snare
+1 Hall of Heliod's Generosity
+1 Shark Typhoon
+1 Counterspell
+1 Supreme Verdict
+2 Scalding Tarn
+2 Spell Snare
+2 Shark Typhoon
+3 Scalding Tarn
+3 Shark Typhoon
+4 Scalding Tarn
 1 Ancient Den
 1 Monastery Mentor
 2 Ancient Den
@@ -87,6 +104,23 @@
 4 Urza's Bauble
 4 Tundra
 4 Monastery Mentor
+1 Oko, Thief of Crowns
+1 Sword of the Meek
+1 Thopter Foundry
+1 Snow-Covered Forest
+1 Sevinne's Reclamation
+1 Tropical Island
+1 Mystic Sanctuary
+1 Veil of Summer
+1 Misty Rainforest
+2 Oko, Thief of Crowns
+2 Thopter Foundry
+2 Veil of Summer
+2 Misty Rainforest
+3 Arcum's Astrolabe
+3 Misty Rainforest
+4 Arcum's Astrolabe
+6 Snow-Covered Island
 1 Scrubland
 1 Swamp
 1 Marsh Flats
@@ -94,14 +128,12 @@
 1 Thoughtseize
 1 Baleful Strix
 1 Drown in the Loch
-1 Underground Sea
 1 Plague Engineer
 2 Island
 2 Thoughtseize
 2 Drown in the Loch
 2 Baleful Strix
 3 Thoughtseize
-3 Snapcaster Mage
 3 Polluted Delta
 3 Island
 4 Polluted Delta

@@ -1,7 +1,7 @@
 2 Tajic, Legion's Edge
 2 Winota, Joiner of Forces
-2 Selfless Savior
 2 Seasoned Hallowblade
+2 Selfless Savior
 2 Alpine Houndmaster
 2 Alpine Watchdog
 2 Igneous Cur
@@ -50,13 +50,13 @@
 1 Yidaro, Wandering Monster
 1 Boon of the Wish-Giver
 1 Raugrin Triome
-1 Zenith Flare
 1 Steam Vents
 1 Hallowed Fountain
 1 Flourishing Fox
 1 Drannith Stinger
 1 Valiant Rescuer
 1 Drannith Healer
+1 Zenith Flare
 2 Boon of the Wish-Giver
 2 Drannith Stinger
 2 Valiant Rescuer
@@ -213,14 +213,14 @@
 1 Incubation Druid
 1 Vivien, Arkbow Ranger
 1 Sarkhan the Masterless
-1 Chandra, Fire Artisan
 1 Domri, Anarch of Bolas
+1 Chandra, Fire Artisan
 2 Chandra, Heart of Fire
 2 Paradise Druid
 2 Domri, Anarch of Bolas
-2 The Great Henge
-2 Vivien, Arkbow Ranger
 2 Chandra, Fire Artisan
+2 Vivien, Arkbow Ranger
+2 The Great Henge
 3 Paradise Druid
 3 Chandra, Heart of Fire
 3 Scavenging Ooze
@@ -253,10 +253,10 @@
 2 Inspiring Veteran
 2 Smitten Swordmaster
 2 Blacklance Paragon
+3 Smitten Swordmaster
 3 Fight as One
 3 Venerable Knight
 3 Inspiring Veteran
-3 Smitten Swordmaster
 3 Blacklance Paragon
 3 Godless Shrine
 3 Worthy Knight
@@ -270,18 +270,18 @@
 4 Worthy Knight
 4 Stormfist Crusader
 4 Blacklance Paragon
-1 Lazotep Reaver
 1 Temple of Malice
 1 Midnight Reaper
 1 Murderous Rider
 1 Fiend Artisan
-1 Priest of Forgotten Gods
 1 Dreadhorde Butcher
+1 Priest of Forgotten Gods
 1 Claim the Firstborn
 1 Gutterbones
 1 Woe Strider
 1 Cauldron Familiar
 1 Castle Locthwain
+1 Lazotep Reaver
 1 Witch's Oven
 1 Mayhem Devil
 1 Call of the Death-Dweller
@@ -296,8 +296,8 @@
 2 Mayhem Devil
 2 Castle Locthwain
 2 Gutterbones
-3 Temple of Malice
 3 Fiend Artisan
+3 Temple of Malice
 3 Woe Strider
 3 Cauldron Familiar
 3 Claim the Firstborn
@@ -305,8 +305,8 @@
 3 Mayhem Devil
 3 Priest of Forgotten Gods
 4 Priest of Forgotten Gods
-4 Claim the Firstborn
 4 Temple of Malice
+4 Claim the Firstborn
 4 Witch's Oven
 4 Cauldron Familiar
 4 Woe Strider
@@ -341,9 +341,9 @@
 2 Solemn Simulacrum
 2 Palladium Myr
 2 Steel Overseer
-2 Karn's Bastion
 2 Interplanar Beacon
 2 Radiant Fountain
+2 Karn's Bastion
 2 Crystalline Giant
 2 Ugin, the Ineffable
 2 Mystic Forge
@@ -398,8 +398,8 @@
 1 Brazen Borrower
 1 Pouncing Shoreshark
 1 Slitherwisp
-2 Temple of Deceit
 2 Dirge Bat
+2 Temple of Deceit
 2 Cunning Nightbonder
 2 Ashiok's Erasure
 2 Spectral Sailor
@@ -477,38 +477,38 @@
 12 Forest
 13 Forest
 14 Forest
+1 All That Glitters
+1 Sentinel's Eyes
 1 Healer's Hawk
-1 Solid Footing
 1 Alseid of Life's Bounty
 1 Gods Willing
+1 Shadowspear
 1 Karametra's Blessing
 1 Glaring Aegis
-1 Sentinel's Eyes
-1 All That Glitters
-1 Shadowspear
+1 Solid Footing
+2 All That Glitters
+2 Sentinel's Eyes
 2 Healer's Hawk
-2 Solid Footing
+2 Alseid of Life's Bounty
 2 Gods Willing
+2 Solid Footing
 2 Glaring Aegis
 2 Karametra's Blessing
-2 Alseid of Life's Bounty
-2 Sentinel's Eyes
-2 All That Glitters
 3 Healer's Hawk
-3 Gods Willing
-3 Solid Footing
-3 Glaring Aegis
-3 All That Glitters
-3 Karametra's Blessing
-3 Sentinel's Eyes
 3 Alseid of Life's Bounty
+3 Gods Willing
+3 Glaring Aegis
+3 Sentinel's Eyes
+3 Karametra's Blessing
+3 All That Glitters
+3 Solid Footing
 4 Healer's Hawk
+4 Alseid of Life's Bounty
 4 Sentinel's Eyes
 4 Solid Footing
 4 Karametra's Blessing
 4 Glaring Aegis
 4 All That Glitters
-4 Alseid of Life's Bounty
 9 Plains
 10 Plains
 11 Plains
@@ -517,7 +517,7 @@
 14 Plains
 15 Plains
 16 Plains
-17 Plains
 18 Plains
 19 Plains
 20 Plains
+17 Plains

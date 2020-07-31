@@ -16,66 +16,12 @@
 3 Garruk's Harbinger
 4 Tithe Taker
 4 Garruk's Harbinger
+2 Inspiring Vantage
 3 Forest
 4 Forest
-2 Plains
-1 Mutavault
-2 Mutavault
-3 Mutavault
-4 Mutavault
-1 Toolcraft Exemplar
-1 All That Glitters
-1 Hallowed Fountain
-1 Stonecoil Serpent
-1 Ensoul Artifact
-1 Spire of Industry
-1 Bomat Courier
-1 Darksteel Citadel
-1 Gingerbrute
-1 Thraben Inspector
-1 Ghostfire Blade
-1 Hope of Ghirapur
-1 Spirebluff Canal
-1 Stubborn Denial
-2 Toolcraft Exemplar
-2 All That Glitters
-2 Hallowed Fountain
-2 Hope of Ghirapur
-2 Spire of Industry
-2 Stubborn Denial
-2 Darksteel Citadel
-2 Gingerbrute
-2 Ensoul Artifact
-2 Stonecoil Serpent
-2 Bomat Courier
-2 Thraben Inspector
-2 Ghostfire Blade
-3 Stubborn Denial
-3 Toolcraft Exemplar
-3 All That Glitters
-3 Hallowed Fountain
-3 Spire of Industry
-3 Darksteel Citadel
-3 Stonecoil Serpent
-3 Gingerbrute
-3 Ensoul Artifact
-3 Thraben Inspector
-3 Ghostfire Blade
-3 Bomat Courier
-4 Toolcraft Exemplar
-4 Hallowed Fountain
-4 Darksteel Citadel
-4 Bomat Courier
-4 Gingerbrute
-4 Thraben Inspector
-4 Ghostfire Blade
-4 Ensoul Artifact
-4 Spire of Industry
-4 Stonecoil Serpent
-4 All That Glitters
-2 Inspiring Vantage
 1 Goblin Instigator
 2 Selfless Spirit
+2 Plains
 3 Sunpetal Grove
 5 Forest
 1 Walking Ballista
@@ -109,32 +55,32 @@
 2 Swamp
 3 Swamp
 4 Swamp
-1 Young Pyromancer
-1 Blood Crypt
 1 Dragonskull Summit
+1 Blood Crypt
 1 Stitcher's Supplier
 1 Kroxa, Titan of Death's Hunger
 1 Village Rites
+1 Young Pyromancer
 1 Claim / Fame
 1 Foreboding Ruins
 2 Blood Crypt
-2 Young Pyromancer
 2 Dragonskull Summit
 2 Stitcher's Supplier
-2 Village Rites
 2 Kroxa, Titan of Death's Hunger
+2 Village Rites
+2 Young Pyromancer
 2 Foreboding Ruins
 2 Claim / Fame
-3 Young Pyromancer
+3 Blood Crypt
 3 Dragonskull Summit
 3 Village Rites
-3 Blood Crypt
 3 Stitcher's Supplier
+3 Young Pyromancer
 3 Claim / Fame
 3 Foreboding Ruins
-4 Stitcher's Supplier
-4 Blood Crypt
 4 Dragonskull Summit
+4 Blood Crypt
+4 Stitcher's Supplier
 4 Village Rites
 4 Foreboding Ruins
 1 Fabled Passage
@@ -155,8 +101,8 @@
 1 Blooming Marsh
 1 Overgrown Tomb
 1 Scavenging Ooze
-2 Overgrown Tomb
 2 Blooming Marsh
+2 Overgrown Tomb
 3 Blooming Marsh
 3 Overgrown Tomb
 4 Overgrown Tomb
@@ -165,30 +111,30 @@
 1 Breeding Pool
 1 Ipnu Rivulet
 1 Jace, Vryn's Prodigy
-1 Hinterland Harbor
 1 Traverse the Ulvenwald
-1 Shark Typhoon
-1 Uro, Titan of Nature's Wrath
+1 Eat to Extinction
 1 Tireless Tracker
-1 Heartless Act
 1 Abrupt Decay
+1 Heartless Act
 1 Atris, Oracle of Half-Truths
 1 Nissa, Who Shakes the World
-1 Eat to Extinction
+1 Uro, Titan of Nature's Wrath
+1 Shark Typhoon
 1 Zagoth Triome
 1 Satyr Wayfinder
+1 Hinterland Harbor
 2 Breeding Pool
-2 Shark Typhoon
 2 Jace, Vryn's Prodigy
-2 Uro, Titan of Nature's Wrath
 2 Abrupt Decay
+2 Shark Typhoon
 2 Satyr Wayfinder
 2 Traverse the Ulvenwald
+2 Uro, Titan of Nature's Wrath
 3 Satyr Wayfinder
-3 Uro, Titan of Nature's Wrath
-3 Breeding Pool
 3 Jace, Vryn's Prodigy
+3 Breeding Pool
 3 Traverse the Ulvenwald
+3 Uro, Titan of Nature's Wrath
 4 Satyr Wayfinder
 4 Uro, Titan of Nature's Wrath
 1 Duskwatch Recruiter
@@ -199,6 +145,20 @@
 3 Goblin Instigator
 3 Rootbound Crag
 4 Gilded Goose
+1 Dreadbore
+1 Wild Slash
+1 Dreadhorde Arcanist
+1 Archfiend's Vessel
+1 Call of the Death-Dweller
+2 Dreadbore
+2 Wild Slash
+2 Dreadhorde Arcanist
+2 Call of the Death-Dweller
+3 Dreadhorde Arcanist
+3 Wild Slash
+3 Call of the Death-Dweller
+4 Young Pyromancer
+4 Dreadhorde Arcanist
 1 Pelt Collector
 1 Experiment One
 2 Pelt Collector
@@ -207,75 +167,30 @@
 3 Experiment One
 4 Pelt Collector
 4 Experiment One
-1 Burning-Tree Emissary
-1 Hashep Oasis
-1 Domri, Anarch of Bolas
-1 Gallia of the Endless Dance
-1 Bonecrusher Giant
-1 Zhur-Taa Goblin
-1 Voltaic Brawler
-1 Hazoret the Fervent
-1 Dryad Militant
-1 Questing Beast
-1 Embercleave
-1 Ghor-Clan Rampager
-1 Game Trail
-1 Gruul Spellbreaker
-1 Domri Rade
-2 Burning-Tree Emissary
-2 Bonecrusher Giant
-2 Hashep Oasis
-2 Gallia of the Endless Dance
-2 Zhur-Taa Goblin
-2 Voltaic Brawler
-2 Gruul Spellbreaker
-2 Embercleave
-2 Ghor-Clan Rampager
-2 Game Trail
-3 Burning-Tree Emissary
-3 Bonecrusher Giant
-3 Ghor-Clan Rampager
-3 Voltaic Brawler
-3 Gruul Spellbreaker
-4 Burning-Tree Emissary
-4 Gruul Spellbreaker
-4 Bonecrusher Giant
-4 Voltaic Brawler
-4 Ghor-Clan Rampager
-1 Dreadhorde Arcanist
-1 Dreadbore
-1 Wild Slash
-1 Archfiend's Vessel
-1 Call of the Death-Dweller
-2 Dreadhorde Arcanist
-2 Dreadbore
-2 Wild Slash
-2 Call of the Death-Dweller
-3 Dreadhorde Arcanist
-3 Wild Slash
-3 Call of the Death-Dweller
-4 Young Pyromancer
-4 Dreadhorde Arcanist
+1 Mutavault
+2 Mutavault
+3 Mutavault
+4 Mutavault
+1 Winding Constrictor
+1 Hardened Scales
 1 Scrapheap Scrounger
 1 Llanowar Wastes
-1 Winding Constrictor
 1 Hissing Quagmire
-1 Hardened Scales
 1 Voracious Hydra
 1 Assassin's Trophy
 1 Rishkar, Peema Renegade
 1 Nissa, Voice of Zendikar
-2 Llanowar Wastes
 2 Hardened Scales
 2 Winding Constrictor
+2 Llanowar Wastes
 2 Assassin's Trophy
 2 Voracious Hydra
 2 Rishkar, Peema Renegade
 2 Nissa, Voice of Zendikar
 2 Scavenging Ooze
-3 Llanowar Wastes
 3 Winding Constrictor
 3 Hardened Scales
+3 Llanowar Wastes
 3 Assassin's Trophy
 3 Nissa, Voice of Zendikar
 3 Voracious Hydra
@@ -302,6 +217,91 @@
 4 Mire Triton
 4 Fiend Artisan
 4 Bloodsoaked Champion
+1 Burning-Tree Emissary
+1 Hashep Oasis
+1 Domri, Anarch of Bolas
+1 Gallia of the Endless Dance
+1 Zhur-Taa Goblin
+1 Voltaic Brawler
+1 Hazoret the Fervent
+1 Dryad Militant
+1 Questing Beast
+1 Embercleave
+1 Ghor-Clan Rampager
+1 Game Trail
+1 Gruul Spellbreaker
+1 Domri Rade
+1 Bonecrusher Giant
+2 Burning-Tree Emissary
+2 Hashep Oasis
+2 Gallia of the Endless Dance
+2 Zhur-Taa Goblin
+2 Voltaic Brawler
+2 Bonecrusher Giant
+2 Gruul Spellbreaker
+2 Embercleave
+2 Ghor-Clan Rampager
+2 Game Trail
+3 Burning-Tree Emissary
+3 Ghor-Clan Rampager
+3 Voltaic Brawler
+3 Bonecrusher Giant
+3 Gruul Spellbreaker
+4 Burning-Tree Emissary
+4 Gruul Spellbreaker
+4 Voltaic Brawler
+4 Ghor-Clan Rampager
+4 Bonecrusher Giant
+1 Toolcraft Exemplar
+1 Hallowed Fountain
+1 Stonecoil Serpent
+1 Ensoul Artifact
+1 Spire of Industry
+1 Bomat Courier
+1 Darksteel Citadel
+1 Gingerbrute
+1 Thraben Inspector
+1 Ghostfire Blade
+1 Hope of Ghirapur
+1 Spirebluff Canal
+1 All That Glitters
+1 Stubborn Denial
+2 Toolcraft Exemplar
+2 Hallowed Fountain
+2 Hope of Ghirapur
+2 All That Glitters
+2 Spire of Industry
+2 Stubborn Denial
+2 Darksteel Citadel
+2 Gingerbrute
+2 Ensoul Artifact
+2 Stonecoil Serpent
+2 Bomat Courier
+2 Thraben Inspector
+2 Ghostfire Blade
+3 Stubborn Denial
+3 Toolcraft Exemplar
+3 Hallowed Fountain
+3 Spire of Industry
+3 Darksteel Citadel
+3 Stonecoil Serpent
+3 Gingerbrute
+3 Ensoul Artifact
+3 Thraben Inspector
+3 Ghostfire Blade
+3 Bomat Courier
+3 All That Glitters
+4 Toolcraft Exemplar
+4 Hallowed Fountain
+4 Darksteel Citadel
+4 Bomat Courier
+4 Gingerbrute
+4 Thraben Inspector
+4 Ghostfire Blade
+4 Ensoul Artifact
+4 Spire of Industry
+4 Stonecoil Serpent
+4 All That Glitters
 1 Courser of Kruphix
 1 Scattered Groves
 1 Conclave Mentor
@@ -322,28 +322,28 @@
 1 Eliminate
 1 Brazen Borrower
 1 Choked Estuary
-1 Drown in the Loch
 1 Glint-Sleeve Siphoner
 1 Thieves' Guild Enforcer
+1 Drown in the Loch
 1 Drowned Catacomb
 1 Rankle, Master of Pranks
 1 Mystical Dispute
 2 Eliminate
 2 Brazen Borrower
-2 Drown in the Loch
 2 Choked Estuary
+2 Drown in the Loch
 2 Glint-Sleeve Siphoner
 2 Thieves' Guild Enforcer
 2 Drowned Catacomb
 2 Mystical Dispute
 2 Rankle, Master of Pranks
 3 Island
+3 Brazen Borrower
 3 Watery Grave
 3 Glint-Sleeve Siphoner
 3 Eliminate
 3 Drowned Catacomb
 3 Thieves' Guild Enforcer
-3 Brazen Borrower
 3 Drown in the Loch
 3 Rankle, Master of Pranks
 3 Murderous Rider
