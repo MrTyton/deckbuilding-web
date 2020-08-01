@@ -50,13 +50,13 @@
 1 Yidaro, Wandering Monster
 1 Boon of the Wish-Giver
 1 Raugrin Triome
+1 Zenith Flare
 1 Steam Vents
 1 Hallowed Fountain
 1 Flourishing Fox
 1 Drannith Stinger
 1 Valiant Rescuer
 1 Drannith Healer
-1 Zenith Flare
 2 Boon of the Wish-Giver
 2 Drannith Stinger
 2 Valiant Rescuer
@@ -213,13 +213,13 @@
 1 Incubation Druid
 1 Vivien, Arkbow Ranger
 1 Sarkhan the Masterless
-1 Domri, Anarch of Bolas
 1 Chandra, Fire Artisan
+1 Domri, Anarch of Bolas
 2 Chandra, Heart of Fire
 2 Paradise Druid
 2 Domri, Anarch of Bolas
-2 Chandra, Fire Artisan
 2 Vivien, Arkbow Ranger
+2 Chandra, Fire Artisan
 2 The Great Henge
 3 Paradise Druid
 3 Chandra, Heart of Fire
@@ -233,7 +233,6 @@
 3 Blood Crypt
 4 Blood Crypt
 1 Fight as One
-1 Foulmire Knight
 1 Stormfist Crusader
 1 Smitten Swordmaster
 1 Blacklance Paragon
@@ -243,6 +242,7 @@
 1 Godless Shrine
 1 Tournament Grounds
 1 Venerable Knight
+1 Foulmire Knight
 2 Fight as One
 2 Dire Tactics
 2 Worthy Knight
@@ -296,8 +296,8 @@
 2 Mayhem Devil
 2 Castle Locthwain
 2 Gutterbones
-3 Fiend Artisan
 3 Temple of Malice
+3 Fiend Artisan
 3 Woe Strider
 3 Cauldron Familiar
 3 Claim the Firstborn
@@ -398,8 +398,8 @@
 1 Brazen Borrower
 1 Pouncing Shoreshark
 1 Slitherwisp
-2 Dirge Bat
 2 Temple of Deceit
+2 Dirge Bat
 2 Cunning Nightbonder
 2 Ashiok's Erasure
 2 Spectral Sailor

@@ -50,6 +50,16 @@
 1 Flame Sweep
 2 Domri, Anarch of Bolas
 2 Flame Sweep
+1 Storm's Wrath
+1 Wilt
+1 Fry
+2 Storm's Wrath
+2 Fry
+2 Wilt
+2 Grafdigger's Cage
+3 Storm's Wrath
+3 Fry
+3 Wilt
 1 Eidolon of Obstruction
 2 Apostle of Purifying Light
 3 Apostle of Purifying Light
@@ -65,16 +75,6 @@
 3 Duress
 3 Soul-Guide Lantern
 3 Dead Weight
-1 Storm's Wrath
-1 Wilt
-1 Fry
-2 Storm's Wrath
-2 Fry
-2 Wilt
-2 Grafdigger's Cage
-3 Storm's Wrath
-3 Wilt
-3 Fry
 1 Drill Bit
 1 Underworld Dreams
 1 Murderous Rider
@@ -117,8 +117,8 @@
 3 Unmoored Ego
 3 Noxious Grasp
 3 Aether Gust
-4 Negate
 4 Unmoored Ego
+4 Negate
 1 Heroic Intervention
 1 Cultivate
 1 Ugin, the Spirit Dragon

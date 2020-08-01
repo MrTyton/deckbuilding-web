@@ -1,26 +1,26 @@
-1 Swamp
+2 Driven/Despair
 3 Haunted Dead
-1 Deathrite Shaman
-2 Deathrite Shaman
 1 Llanowar Wastes
 2 Llanowar Wastes
 3 Llanowar Wastes
+1 Deathrite Shaman
+2 Deathrite Shaman
 4 Llanowar Wastes
 3 Driven/Despair
 2 Swamp
 3 Swamp
 4 Haunted Dead
+1 Forest
+2 Forest
 1 Cling to Dust
 2 Cling to Dust
 1 Traverse the Ulvenwald
 1 Zagoth Triome
 1 Decimator of the Provinces
 1 Gurmag Angler
-1 Forest
 1 Abundant Maw
 2 Traverse the Ulvenwald
 2 Gurmag Angler
-2 Forest
 2 Decimator of the Provinces
 2 Abundant Maw
 3 Gurmag Angler
@@ -30,14 +30,52 @@
 2 Merfolk Secretkeeper
 3 Merfolk Secretkeeper
 4 Merfolk Secretkeeper
-1 Chronic Flooding
 1 Island
+2 Island
+1 Elvish Rejuvenator
+1 Arboreal Grazer
+1 Woodland Bellower
+2 Elvish Rejuvenator
+2 Arboreal Grazer
+3 Arboreal Grazer
+3 Forest
+4 Arboreal Grazer
+1 Yavimaya Coast
+1 Thassa, Deep-Dwelling
+1 Neoform
+1 Scavenging Ooze
+1 Tasigur, the Golden Fang
+1 Cavalier of Night
+1 Agent of Treachery
+1 Hostage Taker
+1 Thought-Knot Seer
+1 Massacre Girl
+1 Cavalier of Gales
+1 Reclamation Sage
+1 Unesh, Criosphinx Sovereign
+1 Grapple with the Past
+1 Fabled Passage
+1 Eldritch Evolution
+2 Yavimaya Coast
+2 Neoform
+2 Agent of Treachery
+2 Grapple with the Past
+2 Tasigur, the Golden Fang
+2 Eldritch Evolution
+2 Fabled Passage
+3 Yavimaya Coast
+3 Neoform
+3 Grapple with the Past
+3 Fabled Passage
+3 Eldritch Evolution
+4 Neoform
+4 Fabled Passage
+1 Chronic Flooding
 1 Perpetual Timepiece
-1 Choked Estuary
 1 Minister of Inquiries
+1 Choked Estuary
 1 Scrapheap Scrounger
 1 Mana Confluence
-2 Island
 2 Mana Confluence
 2 Perpetual Timepiece
 2 Minister of Inquiries
@@ -50,9 +88,59 @@
 3 Chronic Flooding
 3 Choked Estuary
 3 Minister of Inquiries
+4 Minister of Inquiries
 4 Driven/Despair
 4 Mana Confluence
 4 Chronic Flooding
-4 Perpetual Timepiece
 4 Choked Estuary
-4 Minister of Inquiries
+4 Perpetual Timepiece
+1 Wastes
+1 Emrakul, the Promised End
+1 Radiant Fountain
+1 Castle Garenbrig
+1 Oblivion Sower
+1 Arch of Orazca
+1 Fierce Empath
+1 World Breaker
+1 Nissa's Pilgrimage
+1 Shrine of the Forsaken Gods
+1 Ugin, the Spirit Dragon
+1 Ulamog, the Ceaseless Hunger
+1 Hashep Oasis
+1 Sanctum of Ugin
+1 Llanowar Elves
+1 Walking Ballista
+1 Cultivate
+1 Elvish Mystic
+2 Ugin, the Spirit Dragon
+2 Castle Garenbrig
+2 Fierce Empath
+2 Radiant Fountain
+2 Cultivate
+2 Woodland Bellower
+2 Elvish Mystic
+2 Nissa's Pilgrimage
+2 Shrine of the Forsaken Gods
+2 Llanowar Elves
+3 Ugin, the Spirit Dragon
+3 Castle Garenbrig
+3 Fierce Empath
+3 Radiant Fountain
+3 Woodland Bellower
+3 Shrine of the Forsaken Gods
+3 Nissa's Pilgrimage
+4 Castle Garenbrig
+4 Ugin, the Spirit Dragon
+4 Woodland Bellower
+4 Shrine of the Forsaken Gods
+4 Forest
+4 Nissa's Pilgrimage
+5 Forest
+6 Forest
+7 Forest
+8 Forest
+10 Forest
+11 Forest
+12 Forest
+13 Forest
+9 Forest

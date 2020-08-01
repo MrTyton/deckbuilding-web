@@ -1,10 +1,13 @@
-3 Charming Prince
 3 Silent Clearing
 1 Snow-Covered Plains
+3 Charming Prince
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 1 Shefet Dunes
 2 Shefet Dunes
+1 Giver of Runes
+2 Giver of Runes
+3 Giver of Runes
 4 Snow-Covered Plains
 3 Shefet Dunes
 4 Shefet Dunes
@@ -21,9 +24,6 @@
 8 Snow-Covered Plains
 9 Snow-Covered Plains
 1 Sunbaked Canyon
-1 Giver of Runes
-2 Giver of Runes
-3 Giver of Runes
 1 Reality Smasher
 2 Reality Smasher
 3 Reality Smasher
@@ -49,13 +49,15 @@
 3 Gemstone Caverns
 3 Sunbaked Canyon
 4 Sunbaked Canyon
-4 Charming Prince
-3 Battlefield Forge
-4 Battlefield Forge
 1 Containment Priest
 2 Containment Priest
 1 Horizon Canopy
 4 Plains
+4 Charming Prince
+3 Battlefield Forge
+4 Battlefield Forge
+5 Plains
+1 Blade Splicer
 1 Snow-Covered Swamp
 1 Dark Confidant
 1 Spirit of the Labyrinth
@@ -69,9 +71,13 @@
 4 Bonecrusher Giant
 1 Cavern of Souls
 3 Dismember
-5 Plains
-1 Blade Splicer
+1 Field of Ruin
+1 Restoration Angel
+2 Restoration Angel
+4 Giver of Runes
+6 Plains
 1 Scavenger Grounds
+2 Blade Splicer
 2 Horizon Canopy
 1 Blast Zone
 2 Cavern of Souls
@@ -80,6 +86,8 @@
 1 Mirran Crusader
 2 Shambling Vent
 2 Kor Firewalker
+1 Thraben Inspector
+2 Thraben Inspector
 1 Brushland
 1 Snow-Covered Forest
 1 Knight of Autumn
@@ -87,7 +95,6 @@
 1 Razorverge Thicket
 2 Brushland
 2 Knight of Autumn
-2 Blade Splicer
 2 Noble Hierarch
 2 Razorverge Thicket
 3 Noble Hierarch
@@ -104,18 +111,12 @@
 1 Rest in Peace
 1 Eternal Scourge
 2 Scavenger Grounds
-2 Aven Mindcensor
 2 Banishing Light
 2 Winds of Abandon
+2 Aven Mindcensor
 2 Rest in Peace
 2 Eternal Scourge
 3 Eternal Scourge
 3 Scavenger Grounds
 4 Eternal Scourge
-1 Field of Ruin
-1 Thraben Inspector
-1 Restoration Angel
-2 Thraben Inspector
-2 Restoration Angel
-6 Plains
-4 Giver of Runes
+4 Silent Clearing

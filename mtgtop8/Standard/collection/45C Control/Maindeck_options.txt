@@ -1,12 +1,12 @@
 1 Fabled Passage
 1 Plains
 2 Fabled Passage
-3 Fabled Passage
 1 Heartless Act
-4 Thought Erasure
 1 Eliminate
 1 Ritual of Soot
 2 Ritual of Soot
+3 Fabled Passage
+4 Thought Erasure
 4 Fabled Passage
 2 Island
 1 Shark Typhoon
@@ -115,15 +115,15 @@
 4 Hero of Precinct One
 4 Oath of Kaya
 1 Castle Vantress
-1 Murderous Rider
 1 Ugin, the Spirit Dragon
 1 Kaya, Orzhov Usurper
 1 Enter the God-Eternals
+1 Murderous Rider
 2 Teferi, Master of Time
 2 Ugin, the Spirit Dragon
 2 Kaya, Orzhov Usurper
-3 Savai Triome
 3 Teferi, Master of Time
+3 Savai Triome
 3 Ritual of Soot
 4 Ritual of Soot
 1 Thirst for Meaning
@@ -146,17 +146,17 @@
 2 Brazen Borrower
 3 Brazen Borrower
 2 Aether Gust
-1 Mazemind Tome
 1 Discontinuity
 1 Liliana, Waker of the Dead
 1 Agonizing Remorse
-2 Mazemind Tome
+1 Mazemind Tome
 2 Discontinuity
 2 Liliana, Waker of the Dead
+2 Mazemind Tome
 3 Temple of Silence
-1 Dream Trawler
 1 Aurelia, Exemplar of Justice
 1 Lavabrink Venturer
+1 Dream Trawler
 1 Scorching Dragonfire
 1 Justice Strike
 1 God-Eternal Kefnet
@@ -168,9 +168,9 @@
 2 Aurelia, Exemplar of Justice
 2 Raugrin Triome
 2 Scorching Dragonfire
-2 Dream Trawler
 2 Storm's Wrath
 2 Lavabrink Venturer
+2 Dream Trawler
 2 Justice Strike
 2 Sacred Foundry
 2 Seasoned Hallowblade

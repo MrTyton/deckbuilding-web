@@ -1,9 +1,8 @@
-10 Plains
-1 Hushbringer
-1 Castle Ardenvale
 2 Forest
-4 Solid Footing
 2 Hushbringer
+1 Healer's Hawk
+2 Healer's Hawk
+10 Plains
 2 Castle Ardenvale
 3 Forest
 4 Forest
@@ -30,12 +29,12 @@
 3 Huatli's Raptor
 4 Huatli's Raptor
 4 Venerated Loxodon
-3 Healer's Hawk
+4 Solid Footing
 1 Angelic Gift
 3 Gods Willing
 8 Forest
-1 Growth-Chamber Guardian
 1 Karn's Bastion
+1 Growth-Chamber Guardian
 1 Basri's Lieutenant
 1 Chamber Sentry
 2 Growth-Chamber Guardian
@@ -65,18 +64,18 @@
 4 Blossoming Sands
 1 Thassa, Deep-Dwelling
 1 Tranquil Cove
+1 Arboreal Grazer
 1 Farfinder
 1 Negate
 1 Witching Well
 1 Fierce Empath
 1 Imposing Vantasaur
 1 Realm-Cloaked Giant
-1 Arboreal Grazer
 1 Meteor Golem
 1 Dream Trawler
 1 Banishing Light
-1 Kasmina's Transmutation
 1 Destiny Spinner
+1 Kasmina's Transmutation
 1 Cloudkin Seer
 1 Island
 1 Leafkin Druid
@@ -102,8 +101,8 @@
 2 Thornwood Falls
 3 Island
 3 Fierce Empath
-3 Tranquil Cove
 3 Imposing Vantasaur
+3 Tranquil Cove
 3 Witching Well
 3 Cloudkin Seer
 3 Leafkin Druid
@@ -134,19 +133,20 @@
 1 The Great Henge
 2 The Great Henge
 2 Angelic Gift
+3 Healer's Hawk
 3 Basri's Lieutenant
+1 Gemrazer
 1 Lurrus of the Dream-Den
 1 Primal Might
 1 Bronzehide Lion
-1 Gemrazer
 1 Gideon Blackblade
 1 Lovestruck Beast
 2 Primal Might
 2 Lurrus of the Dream-Den
 2 Questing Beast
-2 Bronzehide Lion
 2 Gideon Blackblade
 2 Lovestruck Beast
+2 Bronzehide Lion
 3 Lovestruck Beast
 3 Lurrus of the Dream-Den
 3 Primal Might
