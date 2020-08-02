@@ -74,7 +74,7 @@
 |                    2|[Feather, the Redeemed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461124)     |                     |                                                                                                     |
 |                    3|[Feather, the Redeemed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461124)     |                     |                                                                                                     |
 |                    3|[Fight as One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479532)              |                     |                                                                                                     |
-|                    4|[Fight as One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479532)              |                     |                                                                                                     |
 |                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                    |                     |                                                                                                     |
+|                    4|[Fight as One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479532)              |                     |                                                                                                     |
 |                    1|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)                     |                     |                                                                                                     |
 

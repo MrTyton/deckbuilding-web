@@ -11,8 +11,8 @@
 1 Mystic Sanctuary
 1 Snow-Covered Island
 3 Watery Grave
-1 Sacred Foundry
 1 Lightning Helix
+1 Sacred Foundry
 1 Hallowed Fountain
 2 Lightning Helix
 1 Cling to Dust
@@ -23,12 +23,12 @@
 2 Path to Exile
 1 Snow-Covered Swamp
 1 Mountain
-1 Manamorphose
 1 Stormwing Entity
-2 Stormwing Entity
+1 Manamorphose
 2 Manamorphose
-3 Stormwing Entity
+2 Stormwing Entity
 3 Manamorphose
+3 Stormwing Entity
 4 Manamorphose
 3 Spirebluff Canal
 1 Remand
@@ -44,13 +44,13 @@
 1 Thought Scour
 1 Plains
 3 Path to Exile
+1 Sleight of Hand
 1 Sword of Fire and Ice
 1 Batterskull
 1 Mantis Rider
-1 Sleight of Hand
 1 Stoneforge Mystic
-2 Stoneforge Mystic
 2 Sleight of Hand
+2 Stoneforge Mystic
 2 Mantis Rider
 3 Sleight of Hand
 3 Stoneforge Mystic
@@ -85,8 +85,8 @@
 3 Misty Rainforest
 4 Misty Rainforest
 1 Into the Story
-1 Thieves' Guild Enforcer
 1 Thoughtseize
+1 Thieves' Guild Enforcer
 1 Vantress Gargoyle
 2 Thieves' Guild Enforcer
 2 Vantress Gargoyle
@@ -98,18 +98,18 @@
 2 Surgical Extraction
 4 Lightning Helix
 4 Spirebluff Canal
-1 Lava Spike
 1 Assault Strobe
+1 Lava Spike
 1 Fiery Islet
 1 Monastery Swiftspear
 1 Rift Bolt
 1 Light Up the Stage
-2 Mountain
+2 Fiery Islet
 2 Lava Spike
 2 Monastery Swiftspear
 2 Rift Bolt
+2 Mountain
 2 Light Up the Stage
-2 Fiery Islet
 3 Lava Spike
 3 Fiery Islet
 3 Monastery Swiftspear
@@ -117,13 +117,13 @@
 3 Rift Bolt
 3 Mountain
 3 Lava Dart
-4 Light Up the Stage
-4 Mountain
-4 Lava Spike
 4 Fiery Islet
 4 Lava Dart
 4 Monastery Swiftspear
+4 Lava Spike
 4 Rift Bolt
+4 Mountain
+4 Light Up the Stage
 1 Drowned Catacomb
 1 Terminate
 2 Unearth
@@ -134,18 +134,18 @@
 4 Spellstutter Sprite
 1 Cryptic Command
 3 Fatal Push
-4 Arcum's Astrolabe
 4 Fatal Push
+4 Arcum's Astrolabe
 1 Snow-Covered Mountain
-1 Botanical Sanctum
-1 Hooting Mandrills
-1 Tarmogoyf
-1 Stubborn Denial
 1 Stomping Ground
 1 Forest
+1 Stubborn Denial
+1 Hooting Mandrills
+1 Tarmogoyf
+1 Botanical Sanctum
 2 Hooting Mandrills
-2 Stubborn Denial
 2 Tarmogoyf
+2 Stubborn Denial
 3 Stubborn Denial
 3 Hooting Mandrills
 3 Tarmogoyf
@@ -162,26 +162,39 @@
 1 Murderous Cut
 2 Cryptic Command
 2 Cling to Dust
-1 Snow-Covered Plains
+3 Spell Snare
 1 Dreadhorde Arcanist
 1 Fight as One
+1 Snow-Covered Plains
 1 Arid Mesa
 2 Dreadhorde Arcanist
-3 Dreadhorde Arcanist
 3 Seachrome Coast
-3 Spell Snare
-1 Shadow of Doubt
-1 Brineborn Cutthroat
+3 Dreadhorde Arcanist
 1 Fact or Fiction
 1 Raugrin Triome
-2 Brineborn Cutthroat
+1 Shadow of Doubt
+1 Brineborn Cutthroat
 2 Shadow of Doubt
 2 Fact or Fiction
+2 Brineborn Cutthroat
 3 Brineborn Cutthroat
 4 Brineborn Cutthroat
+1 Ketria Triome
+1 Of One Mind
+1 Jolrael, Mwonvuli Recluse
+1 Magmatic Sinkhole
+1 Izzet Charm
+2 Breeding Pool
+2 Jolrael, Mwonvuli Recluse
+2 Deprive
+2 Of One Mind
+3 Jolrael, Mwonvuli Recluse
+3 Steam Vents
+3 Of One Mind
+4 Island
+1 Field of Ruin
 1 Bitterblossom
 1 Creeping Tar Pit
-1 Field of Ruin
 2 Bitterblossom
 2 Field of Ruin
 3 Bitterblossom
@@ -198,16 +211,3 @@
 1 Mutagenic Growth
 2 Mutagenic Growth
 4 Hooting Mandrills
-1 Izzet Charm
-1 Of One Mind
-1 Jolrael, Mwonvuli Recluse
-1 Ketria Triome
-1 Magmatic Sinkhole
-2 Deprive
-2 Breeding Pool
-2 Jolrael, Mwonvuli Recluse
-2 Of One Mind
-3 Jolrael, Mwonvuli Recluse
-3 Steam Vents
-3 Of One Mind
-4 Island
