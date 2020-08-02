@@ -93,6 +93,6 @@
 |                    2|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)        |                     |                                                                                                    |
 |                    2|[Putrid Leech](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179612)          |                     |                                                                                                    |
 |                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)           |                     |                                                                                                    |
-|                    3|[Putrid Leech](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179612)          |                     |                                                                                                    |
 |                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)           |                     |                                                                                                    |
+|                    3|[Putrid Leech](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179612)          |                     |                                                                                                    |
 

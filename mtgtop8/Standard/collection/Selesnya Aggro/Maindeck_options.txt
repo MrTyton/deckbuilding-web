@@ -1,8 +1,6 @@
-2 Forest
-2 Hushbringer
-1 Healer's Hawk
-2 Healer's Hawk
+4 Glaring Aegis
 10 Plains
+1 Castle Ardenvale
 2 Castle Ardenvale
 3 Forest
 4 Forest
@@ -30,11 +28,11 @@
 4 Huatli's Raptor
 4 Venerated Loxodon
 4 Solid Footing
-1 Angelic Gift
+1 Hushbringer
 3 Gods Willing
 8 Forest
-1 Karn's Bastion
 1 Growth-Chamber Guardian
+1 Karn's Bastion
 1 Basri's Lieutenant
 1 Chamber Sentry
 2 Growth-Chamber Guardian
@@ -65,12 +63,12 @@
 1 Thassa, Deep-Dwelling
 1 Tranquil Cove
 1 Arboreal Grazer
-1 Farfinder
+1 Teferi's Time Twist
 1 Negate
 1 Witching Well
-1 Fierce Empath
-1 Imposing Vantasaur
 1 Realm-Cloaked Giant
+1 Imposing Vantasaur
+1 Fierce Empath
 1 Meteor Golem
 1 Dream Trawler
 1 Banishing Light
@@ -85,7 +83,7 @@
 1 Simic Guildgate
 1 Beanstalk Giant
 1 Omen of the Sea
-1 Teferi's Time Twist
+1 Farfinder
 2 Tranquil Cove
 2 Negate
 2 Witching Well
@@ -93,30 +91,30 @@
 2 Imposing Vantasaur
 2 Cloudkin Seer
 2 Omen of the Sea
-2 Teferi's Time Twist
 2 Leafkin Druid
 2 Risen Reef
 2 Neoform
 2 Island
 2 Thornwood Falls
+2 Teferi's Time Twist
 3 Island
-3 Fierce Empath
 3 Imposing Vantasaur
 3 Tranquil Cove
 3 Witching Well
 3 Cloudkin Seer
+3 Fierce Empath
 3 Leafkin Druid
 3 Negate
-3 Neoform
 3 Risen Reef
+3 Neoform
 3 Omen of the Sea
 3 Thornwood Falls
 4 Island
-4 Fierce Empath
-4 Tranquil Cove
 4 Imposing Vantasaur
+4 Tranquil Cove
 4 Witching Well
 4 Leafkin Druid
+4 Fierce Empath
 4 Thornwood Falls
 4 Omen of the Sea
 4 Cloudkin Seer
@@ -127,12 +125,11 @@
 8 Island
 9 Island
 1 Questing Beast
-1 Warbriar Blessing
-1 Speaker of the Heavens
-2 Speaker of the Heavens
 1 The Great Henge
 2 The Great Henge
-2 Angelic Gift
+2 Hushbringer
+1 Speaker of the Heavens
+2 Speaker of the Heavens
 3 Healer's Hawk
 3 Basri's Lieutenant
 1 Gemrazer
@@ -143,10 +140,10 @@
 1 Lovestruck Beast
 2 Primal Might
 2 Lurrus of the Dream-Den
+2 Bronzehide Lion
 2 Questing Beast
 2 Gideon Blackblade
 2 Lovestruck Beast
-2 Bronzehide Lion
 3 Lovestruck Beast
 3 Lurrus of the Dream-Den
 3 Primal Might

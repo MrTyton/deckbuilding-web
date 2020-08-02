@@ -1,18 +1,8 @@
-1 Liliana's Standard Bearer
-1 Vito, Thorn of the Dusk Rose
-1 Village Rites
-1 Fabled Passage
-2 Liliana's Standard Bearer
-2 Vito, Thorn of the Dusk Rose
-2 Village Rites
-2 Luminous Broodmoth
-2 Fabled Passage
 3 Call of the Death-Dweller
 3 Liliana's Standard Bearer
 3 Luminous Broodmoth
 3 Fabled Passage
 4 Fabled Passage
-3 Dire Tactics
 1 Scoured Barrens
 7 Plains
 8 Plains
@@ -21,30 +11,35 @@
 2 Scoured Barrens
 2 Healer's Hawk
 2 Ajani's Pridemate
-3 Scoured Barrens
 3 Ajani's Pridemate
+3 Scoured Barrens
 3 Healer's Hawk
-4 Scoured Barrens
 4 Ajani's Pridemate
+4 Scoured Barrens
+3 Temple of Silence
+4 Temple of Silence
+1 Indatha Triome
+1 Fiend Artisan
 1 Bolas's Citadel
 1 Lurrus of the Dream-Den
+2 Indatha Triome
+2 Fiend Artisan
 2 Lurrus of the Dream-Den
+3 Indatha Triome
 3 Lurrus of the Dream-Den
+4 Serrated Scorpion
+4 Indatha Triome
 4 Woe Strider
-1 Orzhov Enforcer
-2 Orzhov Enforcer
-3 Orzhov Enforcer
-4 Orzhov Enforcer
-4 Dire Tactics
 1 Orzhov Guildgate
 2 Orzhov Guildgate
 1 Ajani, Strength of the Pride
 1 Blade Juggler
 4 Healer's Hawk
 1 Elspeth, Sun's Nemesis
+3 Dire Tactics
 1 Kaya, Orzhov Usurper
-1 Ob Nixilis, the Hate-Twisted
 1 Foreboding Fruit
+1 Ob Nixilis, the Hate-Twisted
 1 Consecrate / Consume
 2 Consecrate / Consume
 2 Blade Juggler
@@ -55,16 +50,16 @@
 1 Banishing Light
 1 Gideon Blackblade
 1 Final Payment
-1 Impassioned Orator
 1 Omen of the Sun
 1 Bloodthirsty Aerialist
+1 Impassioned Orator
+2 Bloodthirsty Aerialist
 2 Omen of the Sun
 2 Impassioned Orator
-2 Bloodthirsty Aerialist
 3 Impassioned Orator
 3 Bloodthirsty Aerialist
-4 Impassioned Orator
 4 Bloodthirsty Aerialist
+4 Impassioned Orator
 1 Gutterbones
 2 Gutterbones
 3 Gutterbones
@@ -78,52 +73,20 @@
 9 Swamp
 10 Swamp
 1 Knight of the Ebon Legion
-1 Corpse Knight
-2 Corpse Knight
+4 Dire Tactics
 3 Omen of the Sun
-1 Blacklance Paragon
-2 Knight of the Ebon Legion
-2 Blacklance Paragon
-3 Knight of the Ebon Legion
-3 Blacklance Paragon
-4 Blacklance Paragon
-4 Knight of the Ebon Legion
-1 Seasoned Hallowblade
-1 Grasp of Darkness
-1 Spawn of Mayhem
-1 Demonic Embrace
-1 Hunted Nightmare
-1 Rotting Regisaur
-1 Eliminate
-1 Murderous Rider
-2 Seasoned Hallowblade
-2 Spawn of Mayhem
-2 Demonic Embrace
-2 Hunted Nightmare
-2 Rotting Regisaur
-2 Murderous Rider
-2 Eliminate
-3 Seasoned Hallowblade
-3 Eliminate
-3 Spawn of Mayhem
-3 Demonic Embrace
-3 Rotting Regisaur
-4 Seasoned Hallowblade
-4 Eliminate
-4 Spawn of Mayhem
-4 Rotting Regisaur
 1 Shadowspear
+1 Murder
 1 Omen of the Dead
 1 Kaya's Ghostform
 1 Hateful Eidolon
 1 Dead Weight
-1 Murder
 1 Lampad of Death's Vigil
 1 Memory Leak
 1 Archfiend's Vessel
+2 Murder
 2 Kaya's Ghostform
 2 Hateful Eidolon
-2 Murder
 2 Mire's Grasp
 2 Archfiend's Vessel
 2 Memory Leak
@@ -134,10 +97,13 @@
 3 Archfiend's Vessel
 4 Kaya's Ghostform
 4 Archfiend's Vessel
-3 Corpse Knight
-3 Hunted Witness
-4 Corpse Knight
-4 Hunted Witness
+1 Blacklance Paragon
+2 Knight of the Ebon Legion
+2 Blacklance Paragon
+3 Knight of the Ebon Legion
+3 Blacklance Paragon
+4 Blacklance Paragon
+4 Knight of the Ebon Legion
 1 Venerable Knight
 2 Venerable Knight
 3 Venerable Knight
@@ -145,19 +111,21 @@
 1 Smitten Swordmaster
 1 Fight as One
 1 Sacred Foundry
-1 Order of Midnight
+1 Fervent Champion
 1 Blood Crypt
 1 Stormfist Crusader
+1 Order of Midnight
+1 Corpse Knight
 1 Inspiring Veteran
 1 Tournament Grounds
 1 Worthy Knight
-1 Fervent Champion
 2 Smitten Swordmaster
 2 Fight as One
 2 Sacred Foundry
 2 Blood Crypt
-2 Order of Midnight
 2 Fervent Champion
+2 Order of Midnight
+2 Corpse Knight
 2 Worthy Knight
 2 Inspiring Veteran
 2 Tournament Grounds
@@ -165,8 +133,8 @@
 3 Sacred Foundry
 3 Fight as One
 3 Smitten Swordmaster
-3 Blood Crypt
 3 Fervent Champion
+3 Blood Crypt
 3 Inspiring Veteran
 3 Stormfist Crusader
 3 Worthy Knight
@@ -174,15 +142,19 @@
 4 Sacred Foundry
 4 Fight as One
 4 Smitten Swordmaster
+4 Fervent Champion
 4 Blood Crypt
 4 Tournament Grounds
 4 Stormfist Crusader
 4 Worthy Knight
 4 Inspiring Veteran
-4 Fervent Champion
+1 Orzhov Enforcer
+2 Orzhov Enforcer
+3 Orzhov Enforcer
+4 Orzhov Enforcer
+1 General's Enforcer
 1 Disfigure
 1 Basri Ket
-1 General's Enforcer
 1 Icon of Ancestry
 1 Tithe Taker
 1 Haazda Marshal
@@ -191,17 +163,17 @@
 1 General Kudro of Drannith
 1 Giant Killer
 2 Castle Ardenvale
-2 Disfigure
-2 Basri Ket
-2 Icon of Ancestry
 2 General's Enforcer
+2 Disfigure
+2 Icon of Ancestry
+2 Basri Ket
 2 Tithe Taker
 2 General Kudro of Drannith
 2 Haazda Marshal
 2 Adherent of Hope
 3 General Kudro of Drannith
-3 Disfigure
 3 General's Enforcer
+3 Disfigure
 3 Tithe Taker
 3 Icon of Ancestry
 3 Adherent of Hope
@@ -210,19 +182,43 @@
 4 General's Enforcer
 4 Tithe Taker
 4 Haazda Marshal
+1 Seasoned Hallowblade
+1 Spawn of Mayhem
+1 Grasp of Darkness
+1 Eliminate
+1 Demonic Embrace
+1 Hunted Nightmare
+1 Rotting Regisaur
+1 Murderous Rider
+2 Seasoned Hallowblade
+2 Spawn of Mayhem
+2 Demonic Embrace
+2 Eliminate
+2 Hunted Nightmare
+2 Rotting Regisaur
+2 Murderous Rider
+3 Seasoned Hallowblade
+3 Spawn of Mayhem
+3 Demonic Embrace
+3 Rotting Regisaur
+3 Eliminate
+4 Seasoned Hallowblade
+4 Spawn of Mayhem
+4 Rotting Regisaur
+4 Eliminate
 1 Heliod, Sun-Crowned
 1 Sorin, Vengeful Bloodlord
-1 Spark Harvest
 1 Show of Valor
+1 Spark Harvest
 2 Banishing Light
-2 Spark Harvest
 2 Show of Valor
+2 Spark Harvest
 3 Banishing Light
 10 Plains
 1 Tymaret, Chosen from Death
-1 Daxos, Blessed by the Sun
 1 Liliana, Dreadhorde General
 1 Mortify
+1 Daxos, Blessed by the Sun
 1 Grasping Thrull
 1 Imperious Oligarch
 2 Imperious Oligarch

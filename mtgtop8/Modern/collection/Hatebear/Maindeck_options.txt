@@ -1,3 +1,7 @@
+2 Thought-Knot Seer
+2 Caves of Koilos
+2 Eldrazi Displacer
+2 Eldrazi Temple
 3 Thought-Knot Seer
 3 Caves of Koilos
 3 Eldrazi Displacer
@@ -5,14 +9,15 @@
 4 Thought-Knot Seer
 4 Caves of Koilos
 4 Eldrazi Temple
-1 Serra Avenger
-2 Serra Avenger
-1 Lurrus of the Dream-Den
-4 Plains
 4 Field of Ruin
 5 Plains
-1 Castle Ardenvale
+1 Blade Splicer
+1 Restoration Angel
+2 Restoration Angel
+2 Blade Splicer
+3 Restoration Angel
 1 Selfless Spirit
+1 Castle Ardenvale
 3 Aven Mindcensor
 6 Snow-Covered Plains
 7 Snow-Covered Plains
@@ -35,65 +40,60 @@
 6 Plains
 7 Plains
 8 Plains
-1 Restoration Angel
-1 Blade Splicer
-2 Restoration Angel
-2 Blade Splicer
-3 Restoration Angel
 4 Restoration Angel
+2 Lurrus of the Dream-Den
 1 Horizon Canopy
+2 Horizon Canopy
+3 Horizon Canopy
+1 Stirring Wildwood
 1 Eternal Witness
 1 Knight of Autumn
 1 Noble Hierarch
-1 Winds of Abandon
 1 Razorverge Thicket
+1 Winds of Abandon
 1 Temple Garden
-1 Stirring Wildwood
 1 Scavenging Ooze
 1 Forest
 2 Knight of Autumn
 2 Noble Hierarch
-2 Horizon Canopy
+2 Razorverge Thicket
 2 Temple Garden
 2 Stirring Wildwood
-2 Razorverge Thicket
 2 Scavenging Ooze
+3 Temple Garden
 3 Noble Hierarch
+3 Razorverge Thicket
 3 Scavenging Ooze
 3 Blade Splicer
 3 Stirring Wildwood
-3 Horizon Canopy
-3 Temple Garden
-3 Razorverge Thicket
+4 Razorverge Thicket
 4 Noble Hierarch
 4 Temple Garden
 4 Horizon Canopy
-4 Razorverge Thicket
 1 Inspiring Vantage
 1 Sacred Foundry
-1 Magus of the Moon
+1 Seasoned Pyromancer
 1 Remorseful Cleric
 1 Mountain
+1 Magus of the Moon
 1 Seal of Fire
 1 Sunbaked Canyon
-1 Seasoned Pyromancer
 2 Sunbaked Canyon
-2 Sacred Foundry
 2 Inspiring Vantage
-2 Remorseful Cleric
-2 Magus of the Moon
+2 Sacred Foundry
 2 Seasoned Pyromancer
-2 Lurrus of the Dream-Den
+2 Remorseful Cleric
 2 Seal of Fire
+2 Magus of the Moon
 3 Magus of the Moon
-3 Sacred Foundry
 3 Inspiring Vantage
 3 Sunbaked Canyon
+3 Sacred Foundry
 3 Seal of Fire
 4 Magus of the Moon
-4 Sacred Foundry
 4 Sunbaked Canyon
 4 Inspiring Vantage
+4 Sacred Foundry
 4 Seal of Fire
 1 Dark Confidant
 1 Tectonic Edge
@@ -103,9 +103,31 @@
 1 Charming Prince
 2 Charming Prince
 4 Concealed Courtyard
-1 Selfless Savior
+1 Seachrome Coast
+1 Spell Queller
+1 Island
+1 Deputy of Detention
+1 Flooded Strand
+1 Hallowed Fountain
+1 Meddling Mage
+2 Seachrome Coast
+2 Spell Queller
+2 Island
+2 Meddling Mage
+2 Deputy of Detention
+2 Hallowed Fountain
+2 Flooded Strand
+3 Spell Queller
+3 Seachrome Coast
+3 Deputy of Detention
+3 Meddling Mage
+4 Seachrome Coast
+4 Deputy of Detention
+4 Spell Queller
+4 Meddling Mage
 1 Eiganjo Castle
+1 Selfless Savior
 2 Selfless Savior
-9 Plains
 10 Plains
 11 Plains
+9 Plains
