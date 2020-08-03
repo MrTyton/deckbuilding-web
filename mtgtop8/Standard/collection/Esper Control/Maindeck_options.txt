@@ -68,9 +68,9 @@
 2 Dire Tactics
 2 Elite Guardmage
 3 Hero of Precinct One
-3 Dire Tactics
 3 Elite Guardmage
 3 Atris, Oracle of Half-Truths
+3 Dire Tactics
 4 Dire Tactics
 4 Hero of Precinct One
 1 Ugin, the Spirit Dragon
@@ -83,8 +83,8 @@
 2 Elspeth, Sun's Nemesis
 2 Karn, the Great Creator
 3 Karn, the Great Creator
-4 Swamp
 4 Heartless Act
+4 Swamp
 4 Omen of the Sun
 4 Extinction Event
 1 The Wanderer
@@ -110,8 +110,8 @@
 1 Mythos of Illuna
 1 Thassa, Deep-Dwelling
 2 Mythos of Illuna
-1 Tranquil Cove
 1 Banishing Light
+1 Tranquil Cove
 2 Tranquil Cove
 3 Ashiok, Nightmare Muse
 4 The Birth of Meletis
@@ -121,10 +121,10 @@
 1 Precognitive Perception
 1 Folio of Fancies
 1 Wall of Lost Thoughts
+1 Ashiok, Dream Render
 1 Merfolk Secretkeeper
 1 Conclave Tribunal
 1 Teferi's Tutelage
-1 Ashiok, Dream Render
 1 Realm-Cloaked Giant
 1 Unexplained Vision
 1 Time Wipe
@@ -153,9 +153,9 @@
 3 Dismal Backwater
 4 Tranquil Cove
 4 Merfolk Secretkeeper
-4 Conclave Tribunal
 4 Dream Trawler
 4 Dismal Backwater
+4 Conclave Tribunal
 8 Island
 1 Neutralize
 1 Cling to Dust
@@ -177,9 +177,11 @@
 3 Mythos of Nethroi
 3 Zagoth Triome
 4 Zagoth Triome
+4 Elite Guardmage
+4 Atris, Oracle of Half-Truths
+1 Treacherous Blessing
 1 Burglar Rat
 1 Yarok's Fenlurker
-1 Treacherous Blessing
 2 Burglar Rat
 2 Yarok's Fenlurker
 2 Treacherous Blessing
@@ -187,11 +189,9 @@
 3 Burglar Rat
 3 Treacherous Blessing
 4 Brazen Borrower
-4 Burglar Rat
 4 Yarok's Fenlurker
 4 Treacherous Blessing
-4 Elite Guardmage
-4 Atris, Oracle of Half-Truths
+4 Burglar Rat
 1 Disinformation Campaign
 1 Duress
 2 Disinformation Campaign
@@ -206,13 +206,13 @@
 1 Eat to Extinction
 1 Negate
 1 Despark
-2 Liliana, Dreadhorde General
-2 Ugin, the Ineffable
-2 Despark
-2 Eat to Extinction
 2 Banishing Light
+2 Liliana, Dreadhorde General
 2 Ugin, the Spirit Dragon
+2 Ugin, the Ineffable
+2 Eat to Extinction
 2 Negate
+2 Despark
 3 Ugin, the Ineffable
 1 Basilica Bell-Haunt
 2 Basilica Bell-Haunt

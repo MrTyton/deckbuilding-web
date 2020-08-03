@@ -30,7 +30,7 @@
 
 |                                   A                                    |                                         B                                          |                                   C                                    |                                 D                                  |                      E                       |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------|
-|[Ad Nauseam](./mtggoldfish/Modern/decks/Ad_Nauseam.md)                  |[Dredge](./mtggoldfish/Modern/decks/Dredge.md)                                      |[Hardened Scales](./mtggoldfish/Modern/decks/Hardened_Scales.md)        |[Orzhov Stoneblade](./mtggoldfish/Modern/decks/Orzhov_Stoneblade.md)|[URG](./mtggoldfish/Modern/decks/URG.md)      |
+|[Ad Nauseam](./mtggoldfish/Modern/decks/Ad_Nauseam.md)                  |[Dredge](./mtggoldfish/Modern/decks/Dredge.md)                                      |[Hardened Scales](./mtggoldfish/Modern/decks/Hardened_Scales.md)        |[Orzhov Stoneblade](./mtggoldfish/Modern/decks/Orzhov_Stoneblade.md)|[WRG](./mtggoldfish/Modern/decks/WRG.md)      |
 |[Amulet Titan](./mtggoldfish/Modern/decks/Amulet_Titan.md)              |[Eldrazi & Taxes](./mtggoldfish/Modern/decks/Eldrazi_&_Taxes.md)                    |[Humans](./mtggoldfish/Modern/decks/Humans.md)                          |[RG](./mtggoldfish/Modern/decks/RG.md)                              |[WR](./mtggoldfish/Modern/decks/WR.md)        |
 |[Azorius Control](./mtggoldfish/Modern/decks/Azorius_Control.md)        |[Eldrazi Tron](./mtggoldfish/Modern/decks/Eldrazi_Tron.md)                          |[Infect](./mtggoldfish/Modern/decks/Infect.md)                          |[R](./mtggoldfish/Modern/decks/R.md)                                |[WUBRG](./mtggoldfish/Modern/decks/WUBRG.md)  |
 |[BG](./mtggoldfish/Modern/decks/BG.md)                                  |[Electrobalance](./mtggoldfish/Modern/decks/Electrobalance.md)                      |[Izzet Control](./mtggoldfish/Modern/decks/Izzet_Control.md)            |[Rakdos Discard](./mtggoldfish/Modern/decks/Rakdos_Discard.md)      |[WUBR](./mtggoldfish/Modern/decks/WUBR.md)    |
@@ -61,4 +61,4 @@
 
 
 
-#### Last Updated at 12:31AM on August 03, 2020
+#### Last Updated at 01:36PM on August 03, 2020

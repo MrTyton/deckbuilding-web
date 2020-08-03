@@ -1,8 +1,7 @@
-3 Boon of the Wish-Giver
 6 Mountain
 7 Mountain
-1 Embercleave
 1 Legion Warboss
+1 Embercleave
 1 Bonecrusher Giant
 1 Igneous Cur
 1 Alpine Houndmaster
@@ -13,10 +12,10 @@
 2 Igneous Cur
 2 Alpine Watchdog
 2 Alpine Houndmaster
-2 Embercleave
 2 Selfless Savior
 2 Seasoned Hallowblade
 2 Legion Warboss
+2 Embercleave
 2 Bonecrusher Giant
 2 Tajic, Legion's Edge
 3 Alpine Houndmaster
@@ -36,6 +35,7 @@
 2 Gingerbrute
 1 Temple of Triumph
 10 Plains
+3 Boon of the Wish-Giver
 2 Temple of Triumph
 3 Temple of Triumph
 4 Temple of Triumph
@@ -47,6 +47,8 @@
 1 Aurelia, Exemplar of Justice
 1 Stonecoil Serpent
 2 Stonecoil Serpent
+1 Raugrin Triome
+2 Raugrin Triome
 1 Shredded Sails
 1 Fabled Passage
 2 Fabled Passage
@@ -57,6 +59,13 @@
 2 Haktos the Unscarred
 2 Lavabrink Venturer
 2 Aurelia, Exemplar of Justice
+1 Imposing Vantasaur
+1 Sanctuary Smasher
+1 Splendor Mare
+1 Fling
+2 Imposing Vantasaur
+2 Fling
+2 Splendor Mare
 1 Island
 1 Tranquil Cove
 1 Improbable Alliance
@@ -79,8 +88,6 @@
 2 Irencrag Pyromancer
 3 Irencrag Pyromancer
 4 Irencrag Pyromancer
-1 Raugrin Triome
-2 Raugrin Triome
 3 Raugrin Triome
 4 Raugrin Triome
 4 Tajic, Legion's Edge
@@ -101,8 +108,8 @@
 1 Uro, Titan of Nature's Wrath
 1 Shark Typhoon
 1 Forest
-2 Shark Typhoon
 2 Temple of Mystery
+2 Shark Typhoon
 2 Aether Gust
 2 Brazen Borrower
 2 Nightpack Ambusher
@@ -118,9 +125,9 @@
 2 Uro, Titan of Nature's Wrath
 2 Mystical Dispute
 3 Shark Typhoon
-3 Brazen Borrower
 3 Island
 3 Aether Gust
+3 Brazen Borrower
 3 Nightpack Ambusher
 3 Dovin's Veto
 3 Breeding Pool
@@ -132,11 +139,11 @@
 3 Temple Garden
 4 Mystical Dispute
 4 Shark Typhoon
+4 Nightpack Ambusher
 4 Brazen Borrower
 4 Teferi, Time Raveler
 4 Hallowed Fountain
 4 Fabled Passage
 4 Temple Garden
-4 Nightpack Ambusher
 4 Breeding Pool
 4 Growth Spiral

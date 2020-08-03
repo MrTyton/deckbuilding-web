@@ -395,9 +395,9 @@
 1 Clifftop Retreat
 1 Void Winnower
 1 Gideon's Triumph
+2 Temple of Triumph
 2 The Birth of Meletis
 2 Shatter the Sky
-2 Temple of Triumph
 2 Deafening Clarion
 2 Nahiri, the Harbinger
 2 Transmogrify
@@ -433,7 +433,6 @@
 4 Collected Company
 1 Serrated Scorpion
 1 Fiend Artisan
-1 Priest of Forgotten Gods
 1 Zulaport Cutthroat
 1 Cartel Aristocrat
 1 Stitcher's Supplier
@@ -442,6 +441,7 @@
 1 Garrison Cat
 1 Rally the Ancestors
 1 Hunted Witness
+1 Priest of Forgotten Gods
 2 Serrated Scorpion
 2 Fiend Artisan
 2 Priest of Forgotten Gods
@@ -455,7 +455,6 @@
 2 Rally the Ancestors
 3 Serrated Scorpion
 3 Fiend Artisan
-3 Priest of Forgotten Gods
 3 Cartel Aristocrat
 3 Stitcher's Supplier
 3 Village Rites
@@ -464,11 +463,12 @@
 3 Rally the Ancestors
 3 Hunted Witness
 3 Zulaport Cutthroat
+3 Priest of Forgotten Gods
 4 Serrated Scorpion
-4 Priest of Forgotten Gods
 4 Zulaport Cutthroat
 4 Stitcher's Supplier
 4 Hunted Witness
+4 Priest of Forgotten Gods
 4 Rally the Ancestors
 1 Steam Vents
 1 Wild Slash
@@ -556,8 +556,8 @@
 1 Ghor-Clan Rampager
 1 Burning-Tree Emissary
 1 Voltaic Brawler
-2 Gallia of the Endless Dance
 2 Embercleave
+2 Gallia of the Endless Dance
 2 Zhur-Taa Goblin
 2 Voltaic Brawler
 2 Ghor-Clan Rampager
