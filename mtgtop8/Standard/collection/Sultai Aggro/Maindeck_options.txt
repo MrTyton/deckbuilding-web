@@ -1,14 +1,14 @@
 1 Overgrown Tomb
 1 Fabled Passage
-1 Breeding Pool
 1 Watery Grave
+1 Breeding Pool
 2 Overgrown Tomb
 2 Fabled Passage
-2 Breeding Pool
 2 Watery Grave
+2 Breeding Pool
 3 Overgrown Tomb
-3 Breeding Pool
 3 Watery Grave
+3 Breeding Pool
 1 Zagoth Triome
 2 Zagoth Triome
 3 Zagoth Triome
@@ -37,8 +37,8 @@
 3 Brineborn Cutthroat
 3 Slitherwisp
 3 Nightpack Ambusher
-3 Brazen Borrower
 3 Cunning Nightbonder
+3 Brazen Borrower
 4 Slitherwisp
 4 Brineborn Cutthroat
 1 Castle Vantress
@@ -48,8 +48,8 @@
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
 1 Lofty Denial
-1 Sea-Dasher Octopus
 1 Shark Typhoon
+1 Sea-Dasher Octopus
 1 Frilled Mystic
 1 Spectral Sailor
 2 Sea-Dasher Octopus
@@ -58,15 +58,15 @@
 2 Spectral Sailor
 3 Frilled Mystic
 3 Spectral Sailor
-4 Spectral Sailor
 4 Brazen Borrower
+4 Spectral Sailor
 1 Temple of Malady
 1 Opt
 1 Eliminate
 1 Rewind
 1 Thieves' Guild Enforcer
-2 Eliminate
 2 Opt
+2 Eliminate
 2 Rewind
 2 Thieves' Guild Enforcer
 3 Opt
@@ -80,33 +80,34 @@
 1 Liliana, Waker of the Dead
 1 Drown in the Loch
 1 Questing Beast
+1 Skull Prophet
 1 Hydroid Krasis
 1 Rankle, Master of Pranks
 1 Mystical Dispute
 1 Enter the God-Eternals
 1 Growth Spiral
-1 Murderous Rider
 1 Commence the Endgame
-1 Skull Prophet
+1 Murderous Rider
 2 Liliana, Waker of the Dead
 2 Drown in the Loch
 2 Questing Beast
+2 Skull Prophet
 2 Mystical Dispute
 2 Murderous Rider
 2 Growth Spiral
 2 Castle Vantress
-2 Rankle, Master of Pranks
 2 Enter the God-Eternals
+2 Rankle, Master of Pranks
 2 Commence the Endgame
 2 Hydroid Krasis
-2 Skull Prophet
-3 Growth Spiral
 3 Skull Prophet
+3 Growth Spiral
 3 Murderous Rider
 3 Questing Beast
 4 Skull Prophet
 4 Questing Beast
 1 Merfolk Secretkeeper
+1 Mire Triton
 1 Demonic Embrace
 1 Ashiok, Dream Render
 1 Tymaret Calls the Dead
@@ -114,15 +115,14 @@
 1 Rotting Regisaur
 1 Glowspore Shaman
 1 Silversmote Ghoul
-1 Mire Triton
 2 Merfolk Secretkeeper
+2 Mire Triton
 2 Demonic Embrace
 2 Ashiok, Dream Render
 2 Tymaret Calls the Dead
 2 Silversmote Ghoul
 2 Thought Erasure
 2 Rotting Regisaur
-2 Mire Triton
 2 Glowspore Shaman
 3 Merfolk Secretkeeper
 3 Thought Erasure
@@ -131,8 +131,8 @@
 3 Silversmote Ghoul
 3 Tymaret Calls the Dead
 4 Thought Erasure
+4 Rotting Regisaur
 4 Merfolk Secretkeeper
 4 Glowspore Shaman
-4 Rotting Regisaur
 4 Silversmote Ghoul
 4 Uro, Titan of Nature's Wrath

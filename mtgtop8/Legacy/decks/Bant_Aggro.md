@@ -60,8 +60,8 @@
 |                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)           |                     |                                                                                              |
 |                    3|[Natural Order](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413719)               |                     |                                                                                              |
 |                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)             |                     |                                                                                              |
-|                    4|[Natural Order](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413719)               |                     |                                                                                              |
 |                    4|[Green Sun's Zenith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413711)          |                     |                                                                                              |
 |                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)           |                     |                                                                                              |
+|                    4|[Natural Order](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413719)               |                     |                                                                                              |
 |                    4|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)           |                     |                                                                                              |
 

@@ -69,8 +69,8 @@
 |                    3|[The Great Henge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123)           |                     |                                                                                                 |
 |                    3|[Genesis Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438729)             |                     |                                                                                                 |
 |                    4|[Elvish Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175124)          |                     |                                                                                                 |
-|                    4|[Llanowar Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485516)        |                     |                                                                                                 |
 |                    4|[Genesis Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438729)             |                     |                                                                                                 |
+|                    4|[Llanowar Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485516)        |                     |                                                                                                 |
 |                   16|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                    |                     |                                                                                                 |
 |                   17|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                    |                     |                                                                                                 |
 

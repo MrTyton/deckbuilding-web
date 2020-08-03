@@ -1,12 +1,12 @@
-2 Fight as One
-1 Embercleave
-2 Embercleave
-1 Skyknight Vanguard
-2 Skyknight Vanguard
-3 Skyknight Vanguard
+1 Savai Triome
+2 Savai Triome
+3 Savai Triome
 1 Corpse Knight
+1 Skyknight Vanguard
 2 Corpse Knight
+2 Skyknight Vanguard
 3 Corpse Knight
+3 Skyknight Vanguard
 4 Skyknight Vanguard
 4 Corpse Knight
 3 Smitten Swordmaster
@@ -29,25 +29,24 @@
 4 Drill Bit
 3 Plains
 3 Mountain
-1 Sorin, Vengeful Bloodlord
-2 Sorin, Vengeful Bloodlord
-1 Fabled Passage
 4 Mountain
 1 Castle Locthwain
 1 Judith, the Scourge Diva
-1 General's Enforcer
 1 Tajic, Legion's Edge
+1 General's Enforcer
 2 Judith, the Scourge Diva
 2 General's Enforcer
 2 Tajic, Legion's Edge
 3 General's Enforcer
 4 Dire Tactics
 4 General's Enforcer
+1 Sorin, Vengeful Bloodlord
+2 Sorin, Vengeful Bloodlord
 4 Plains
 1 Grim Tutor
 1 Village Rites
-1 The Circle of Loyalty
 1 Chance for Glory
+1 The Circle of Loyalty
 1 Castle Ardenvale
 1 Basri's Solidarity
 1 Liliana's Standard Bearer
@@ -57,6 +56,11 @@
 1 Rimrock Knight
 2 Rimrock Knight
 3 Rimrock Knight
+1 Fabled Passage
+1 Venerated Loxodon
+2 Venerated Loxodon
+3 Venerated Loxodon
+4 Venerated Loxodon
 1 Winota, Joiner of Forces
 1 Kenrith, the Returned King
 1 Legion Warboss
@@ -80,32 +84,9 @@
 4 Winota, Joiner of Forces
 4 Robber of the Rich
 4 Raise the Alarm
-1 Venerated Loxodon
-2 Venerated Loxodon
-3 Venerated Loxodon
-4 Venerated Loxodon
-1 Midnight Reaper
-1 Weaponize the Monsters
-1 Luminous Broodmoth
-1 Colossus Hammer
-1 Fling
-1 Syr Gwyn, Hero of Ashvale
-1 Steelclaw Lance
-2 Fling
-2 Weaponize the Monsters
-2 Midnight Reaper
-2 Colossus Hammer
-2 Fabled Passage
-2 Luminous Broodmoth
-3 Luminous Broodmoth
-3 Colossus Hammer
-3 Fabled Passage
-3 Sorin, Vengeful Bloodlord
-4 Luminous Broodmoth
-4 Fabled Passage
-1 Outlaws' Merriment
 1 Revival / Revenge
 1 Lavabrink Venturer
+1 Outlaws' Merriment
 1 Hero of Precinct One
 2 Lavabrink Venturer
 2 Revival / Revenge
@@ -128,8 +109,8 @@
 1 Selfless Savior
 1 Alpine Watchdog
 2 Pack Leader
-2 Bolt Hound
 2 Banehound
+2 Bolt Hound
 2 Kunoros, Hound of Athreos
 2 Igneous Cur
 2 Alpine Watchdog

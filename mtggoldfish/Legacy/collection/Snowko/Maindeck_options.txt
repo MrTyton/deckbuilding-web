@@ -1,6 +1,6 @@
 2 Tropical Island
-1 Bayou
 1 Leovold, Emissary of Trest
+1 Bayou
 1 Flooded Strand
 1 Jace, the Mind Sculptor
 1 Baleful Strix
@@ -12,11 +12,11 @@
 2 Wasteland
 2 Leovold, Emissary of Trest
 1 Green Sun's Zenith
-1 Questing Beast
 1 Dryad Arbor
 1 Noble Hierarch
-1 Verdant Catacombs
 1 Scavenging Ooze
+1 Questing Beast
+1 Verdant Catacombs
 2 Green Sun's Zenith
 3 Green Sun's Zenith
 4 Green Sun's Zenith
@@ -55,34 +55,34 @@
 4 Wasteland
 1 Scalding Tarn
 2 Scalding Tarn
-1 Stifle
 1 Daze
-2 Stifle
+1 Stifle
 2 Daze
-3 Stifle
+2 Stifle
 3 Daze
+3 Stifle
 1 Cling to Dust
 2 Drown in the Loch
 1 Tireless Tracker
 3 Verdant Catacombs
 1 Counterspell
-1 Batterskull
 1 Stoneforge Mystic
+1 Batterskull
 2 Stoneforge Mystic
 2 Tundra
 1 Mystic Sanctuary
 1 Supreme Verdict
 2 Supreme Verdict
 2 Jace, the Mind Sculptor
-1 Preordain
 1 Lightning Bolt
 1 Dreadhorde Arcanist
+1 Preordain
 2 Volcanic Island
-2 Preordain
 2 Lightning Bolt
 2 Dreadhorde Arcanist
-3 Lightning Bolt
+2 Preordain
 3 Scalding Tarn
+3 Lightning Bolt
 3 Dreadhorde Arcanist
 4 Stifle
 4 Lightning Bolt
@@ -90,21 +90,21 @@
 2 Back to Basics
 1 Spell Pierce
 1 Pyroblast
-2 Cling to Dust
-2 Underground Sea
-3 Drown in the Loch
-4 Force of Negation
-1 Eternal Witness
 1 Utopia Sprawl
 1 Elvish Reclaimer
 1 Bojuka Bog
+1 Eternal Witness
 2 Utopia Sprawl
 3 Utopia Sprawl
-4 Utopia Sprawl
 4 Verdant Catacombs
+4 Utopia Sprawl
+2 Underground Sea
+2 Cling to Dust
+3 Drown in the Loch
+4 Force of Negation
 1 Umezawa's Jitte
-1 Council's Judgment
 1 Soul-Guide Lantern
+1 Council's Judgment
 2 Counterspell
 2 Snow-Covered Plains
 3 Counterspell
@@ -114,17 +114,17 @@
 1 Dovin's Veto
 1 Flusterstorm
 2 Gilded Goose
-1 Shark Typhoon
-1 Sword of Feast and Famine
-2 Shark Typhoon
-1 Fatal Push
-1 Courser of Kruphix
-2 Fatal Push
-3 Sylvan Library
 1 Spell Snare
 1 Venser, Shaper Savant
 1 Vendilion Clique
 1 Veil of Summer
-2 Karakas
-2 Venser, Shaper Savant
 2 Teferi, Time Raveler
+2 Venser, Shaper Savant
+2 Karakas
+1 Shark Typhoon
+1 Sword of Feast and Famine
+2 Shark Typhoon
+3 Sylvan Library
+1 Fatal Push
+1 Courser of Kruphix
+2 Fatal Push

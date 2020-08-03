@@ -4,7 +4,6 @@
 1 Fortified Village
 3 Forest
 4 Forest
-4 Mana Confluence
 1 Pia and Kiran Nalaar
 1 Garruk's Harbinger
 1 Battlefield Forge
@@ -18,6 +17,7 @@
 3 Sacred Foundry
 4 Tithe Taker
 4 Garruk's Harbinger
+4 Mana Confluence
 2 Inspiring Vantage
 2 Plains
 1 Goblin Instigator
@@ -32,12 +32,12 @@
 1 Militia Bugler
 1 Heliod, Sun-Crowned
 1 Collected Company
-2 Militia Bugler
 2 Fortified Village
+2 Militia Bugler
 2 Collected Company
 2 Heliod, Sun-Crowned
-3 Militia Bugler
 3 Fortified Village
+3 Militia Bugler
 3 Heliod, Sun-Crowned
 3 Collected Company
 4 Militia Bugler
@@ -56,31 +56,31 @@
 3 Swamp
 4 Swamp
 1 Blood Crypt
-1 Dragonskull Summit
 1 Stitcher's Supplier
+1 Dragonskull Summit
 1 Village Rites
-1 Kroxa, Titan of Death's Hunger
 1 Young Pyromancer
+1 Kroxa, Titan of Death's Hunger
 1 Claim / Fame
 1 Foreboding Ruins
 2 Blood Crypt
-2 Dragonskull Summit
-2 Village Rites
 2 Stitcher's Supplier
+2 Dragonskull Summit
 2 Young Pyromancer
+2 Village Rites
 2 Kroxa, Titan of Death's Hunger
 2 Foreboding Ruins
 2 Claim / Fame
+3 Stitcher's Supplier
 3 Village Rites
 3 Dragonskull Summit
 3 Blood Crypt
-3 Stitcher's Supplier
 3 Young Pyromancer
 3 Claim / Fame
 3 Foreboding Ruins
-4 Blood Crypt
 4 Stitcher's Supplier
 4 Dragonskull Summit
+4 Blood Crypt
 4 Village Rites
 4 Foreboding Ruins
 1 Fabled Passage
@@ -99,15 +99,15 @@
 1 Island
 1 Watery Grave
 1 Murderous Rider
-2 Watery Grave
 2 Island
+2 Watery Grave
 2 Murderous Rider
 3 Fabled Passage
 1 Blooming Marsh
 1 Overgrown Tomb
 1 Scavenging Ooze
-2 Blooming Marsh
 2 Overgrown Tomb
+2 Blooming Marsh
 3 Blooming Marsh
 3 Overgrown Tomb
 4 Overgrown Tomb
@@ -159,8 +159,8 @@
 2 The Great Henge
 2 Anafenza, Kin-Tree Spirit
 3 Conclave Mentor
-4 Sunpetal Grove
 4 Fortified Village
+4 Sunpetal Grove
 4 Conclave Mentor
 1 Dreadbore
 1 Wild Slash
@@ -184,16 +184,13 @@
 3 Experiment One
 4 Pelt Collector
 4 Experiment One
-1 Mutavault
-2 Mutavault
-3 Mutavault
-4 Mutavault
 1 Hissing Quagmire
 1 Winding Constrictor
 1 Hardened Scales
 1 Scrapheap Scrounger
 1 Llanowar Wastes
 1 Assassin's Trophy
+1 Mutavault
 1 Voracious Hydra
 1 Rishkar, Peema Renegade
 1 Nissa, Voice of Zendikar
@@ -203,8 +200,10 @@
 2 Assassin's Trophy
 2 Voracious Hydra
 2 Rishkar, Peema Renegade
+2 Mutavault
 2 Nissa, Voice of Zendikar
 2 Scavenging Ooze
+3 Mutavault
 3 Winding Constrictor
 3 Hardened Scales
 3 Llanowar Wastes
@@ -212,11 +211,12 @@
 3 Nissa, Voice of Zendikar
 3 Voracious Hydra
 3 Rishkar, Peema Renegade
+4 Voracious Hydra
 4 Winding Constrictor
 4 Hardened Scales
+4 Mutavault
 4 Assassin's Trophy
 4 Nissa, Voice of Zendikar
-4 Voracious Hydra
 4 Llanowar Wastes
 1 Calix, Destiny's Hand
 1 Banishing Light
@@ -243,13 +243,13 @@
 2 Temple of Plenty
 3 Cast Out
 3 Banishing Light
+3 Calix, Destiny's Hand
 3 Starfield Mystic
 3 Temple of Plenty
 3 Eidolon of Blossoms
 3 Setessan Champion
 3 Herald of the Pantheon
 3 Alseid of Life's Bounty
-3 Calix, Destiny's Hand
 4 Cast Out
 4 Temple of Plenty
 4 Banishing Light
@@ -310,56 +310,6 @@
 4 Voltaic Brawler
 4 Ghor-Clan Rampager
 4 Bonecrusher Giant
-1 Toolcraft Exemplar
-1 Hallowed Fountain
-1 Stonecoil Serpent
-1 Ensoul Artifact
-1 Spire of Industry
-1 Bomat Courier
-1 Darksteel Citadel
-1 Gingerbrute
-1 Thraben Inspector
-1 Ghostfire Blade
-1 Hope of Ghirapur
-1 Spirebluff Canal
-1 All That Glitters
-1 Stubborn Denial
-2 Toolcraft Exemplar
-2 Hallowed Fountain
-2 Hope of Ghirapur
-2 All That Glitters
-2 Spire of Industry
-2 Stubborn Denial
-2 Darksteel Citadel
-2 Gingerbrute
-2 Ensoul Artifact
-2 Stonecoil Serpent
-2 Bomat Courier
-2 Thraben Inspector
-2 Ghostfire Blade
-3 Stubborn Denial
-3 Toolcraft Exemplar
-3 Hallowed Fountain
-3 Spire of Industry
-3 Darksteel Citadel
-3 Stonecoil Serpent
-3 Gingerbrute
-3 Ensoul Artifact
-3 Thraben Inspector
-3 Ghostfire Blade
-3 Bomat Courier
-3 All That Glitters
-4 Toolcraft Exemplar
-4 Hallowed Fountain
-4 Darksteel Citadel
-4 Bomat Courier
-4 Gingerbrute
-4 Thraben Inspector
-4 Ghostfire Blade
-4 Ensoul Artifact
-4 Spire of Industry
-4 Stonecoil Serpent
-4 All That Glitters
 1 Eliminate
 1 Brazen Borrower
 1 Rankle, Master of Pranks
@@ -373,25 +323,25 @@
 2 Rankle, Master of Pranks
 2 Brazen Borrower
 2 Choked Estuary
-2 Glint-Sleeve Siphoner
 2 Drown in the Loch
+2 Glint-Sleeve Siphoner
 2 Thieves' Guild Enforcer
 2 Drowned Catacomb
 2 Mystical Dispute
 3 Island
 3 Rankle, Master of Pranks
 3 Brazen Borrower
-3 Glint-Sleeve Siphoner
-3 Thieves' Guild Enforcer
 3 Watery Grave
+3 Glint-Sleeve Siphoner
 3 Drowned Catacomb
+3 Thieves' Guild Enforcer
 3 Eliminate
 3 Drown in the Loch
 3 Murderous Rider
 4 Fabled Passage
+4 Watery Grave
 4 Glint-Sleeve Siphoner
 4 Thieves' Guild Enforcer
-4 Watery Grave
 4 Brazen Borrower
 4 Murderous Rider
 4 Drowned Catacomb
