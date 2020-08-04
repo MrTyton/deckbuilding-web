@@ -36,8 +36,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|----------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)   |                     |              |
 |                    1|[Terror of the Peaks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485487)|                     |              |
+|                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)   |                     |              |
 |                    1|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)          |                     |              |
 |                    2|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2240)       |                     |              |
 |                    2|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)    |                     |              |

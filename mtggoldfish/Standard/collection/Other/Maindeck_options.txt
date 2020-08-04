@@ -1,8 +1,3 @@
-2 Swamp
-2 Knight of the Ebon Legion
-1 Castle Locthwain
-3 Swamp
-3 Kitesail Freebooter
 4 Swamp
 2 Castle Locthwain
 5 Swamp
@@ -10,13 +5,10 @@
 4 Knight of the Ebon Legion
 6 Swamp
 1 Heartless Act
-1 Hunted Nightmare
-1 Rankle, Master of Pranks
 1 Tymaret, Chosen from Death
+1 Hunted Nightmare
 1 Murderous Rider
-2 Rankle, Master of Pranks
 2 Tymaret, Chosen from Death
-3 Rankle, Master of Pranks
 3 Castle Locthwain
 7 Swamp
 8 Swamp
@@ -31,21 +23,13 @@
 17 Swamp
 18 Swamp
 19 Swamp
-1 Duress
-2 Duress
-1 Gutterbones
-1 Blacklance Paragon
 1 Mobilized District
 1 Spawn of Mayhem
 2 Mobilized District
 2 Heartless Act
 2 Spawn of Mayhem
 2 Hunted Nightmare
-2 Gutterbones
-2 Blacklance Paragon
-3 Duress
 3 Hunted Nightmare
-3 Gutterbones
 3 Heartless Act
 3 Spawn of Mayhem
 4 Spawn of Mayhem
@@ -53,11 +37,27 @@
 4 Hunted Nightmare
 4 Kitesail Freebooter
 4 Castle Locthwain
+1 Rankle, Master of Pranks
+2 Rankle, Master of Pranks
+3 Rankle, Master of Pranks
+1 Duress
+2 Duress
+1 Gutterbones
+1 Blacklance Paragon
+2 Gutterbones
+2 Blacklance Paragon
+3 Duress
+3 Gutterbones
 4 Gutterbones
+1 Temple of Triumph
+4 Savai Triome
+3 Plains
+4 Plains
+2 Temple of Silence
+1 Stonecoil Serpent
+2 Stonecoil Serpent
 1 Tithe Taker
 2 Tithe Taker
-4 Venerated Loxodon
-1 Temple of Triumph
 1 Forest
 2 Forest
 1 Overgrown Tomb
@@ -73,232 +73,171 @@
 1 Island
 2 Island
 1 Watery Grave
-1 Hydroid Krasis
-1 Breeding Pool
-1 Zagoth Triome
-1 Growth Spiral
-1 Uro, Titan of Nature's Wrath
-2 Zagoth Triome
-2 Uro, Titan of Nature's Wrath
-2 Growth Spiral
-3 Uro, Titan of Nature's Wrath
-3 Growth Spiral
-4 Growth Spiral
-1 Casualties of War
-2 Hydroid Krasis
 1 Narset, Parter of Veils
+1 Zagoth Triome
+1 Hydroid Krasis
 1 Hallowed Fountain
+1 Breeding Pool
+1 Growth Spiral
 1 Teferi, Time Raveler
+1 Uro, Titan of Nature's Wrath
 1 Aether Gust
 2 Narset, Parter of Veils
+2 Zagoth Triome
+2 Hydroid Krasis
 2 Teferi, Time Raveler
 2 Hallowed Fountain
+2 Uro, Titan of Nature's Wrath
+2 Growth Spiral
 3 Teferi, Time Raveler
+3 Uro, Titan of Nature's Wrath
 3 Zagoth Triome
+3 Growth Spiral
 4 Teferi, Time Raveler
 4 Zagoth Triome
-1 Nissa, Who Shakes the World
-2 Nissa, Who Shakes the World
-2 Breeding Pool
-3 Breeding Pool
-4 Breeding Pool
-3 Island
-1 Thought Distortion
+4 Growth Spiral
+1 Casualties of War
 2 Casualties of War
+1 Nissa, Who Shakes the World
 1 Shatter the Sky
 2 Shatter the Sky
+2 Nissa, Who Shakes the World
 3 Nissa, Who Shakes the World
+3 Island
 1 Cultivate
+1 Thought Distortion
 2 Cultivate
+2 Breeding Pool
+3 Breeding Pool
 3 Hydroid Krasis
 4 Hydroid Krasis
+4 Breeding Pool
 1 Tajic, Legion's Edge
 1 Temple of Malady
-2 Temple of Malady
 2 Overgrown Tomb
+2 Temple of Malady
 3 Overgrown Tomb
 4 Overgrown Tomb
 1 Yorion, Sky Nomad
 2 Yorion, Sky Nomad
 3 Elspeth Conquers Death
+1 Castle Ardenvale
 1 Temple of Plenty
-1 Temple Garden
-2 Temple of Plenty
-2 Temple Garden
-3 Temple Garden
-4 Temple Garden
-1 Vito, Thorn of the Dusk Rose
-1 Oath of Kaya
-1 Charming Prince
-2 Charming Prince
-2 Vito, Thorn of the Dusk Rose
-2 Oath of Kaya
-3 Oath of Kaya
-3 Charming Prince
-3 Vito, Thorn of the Dusk Rose
-4 Charming Prince
-1 Treacherous Blessing
-2 Treacherous Blessing
 1 Knight of Autumn
+1 Temple Garden
 1 Mythos of Nethroi
 2 Mythos of Nethroi
+2 Temple of Plenty
+2 Temple Garden
 2 Knight of Autumn
+3 Temple Garden
 3 Mythos of Nethroi
+4 Temple Garden
+1 Vito, Thorn of the Dusk Rose
 1 Agonizing Remorse
-2 Agonizing Remorse
-3 Agonizing Remorse
-1 Gilded Goose
-2 Gilded Goose
 1 Destiny Spinner
+1 Gilded Goose
+1 Oath of Kaya
 1 Liliana, Waker of the Dead
 1 Chevill, Bane of Monsters
-1 Castle Ardenvale
+1 Charming Prince
 1 Solemn Simulacrum
 1 Acolyte of Affliction
+2 Gilded Goose
 2 Chevill, Bane of Monsters
 2 Liliana, Waker of the Dead
 2 Acolyte of Affliction
 2 Solemn Simulacrum
+2 Vito, Thorn of the Dusk Rose
+2 Agonizing Remorse
+2 Oath of Kaya
+2 Charming Prince
 2 Destiny Spinner
+3 Oath of Kaya
 3 Acolyte of Affliction
+3 Charming Prince
 3 Yorion, Sky Nomad
-1 Llanowar Visionary
-2 Llanowar Visionary
-3 Llanowar Visionary
-3 Forest
-3 Treacherous Blessing
-1 Castle Vantress
+3 Vito, Thorn of the Dusk Rose
+3 Agonizing Remorse
+4 Charming Prince
+1 Treacherous Blessing
+2 Treacherous Blessing
 1 General's Enforcer
-3 Eliminate
 1 Kenrith, the Returned King
-1 Mystical Dispute
-2 Mystical Dispute
 3 Knight of Autumn
-2 Watery Grave
-1 Jolrael, Mwonvuli Recluse
-2 Jolrael, Mwonvuli Recluse
-1 Paradise Druid
-2 Paradise Druid
-3 Paradise Druid
-3 Temple of Plenty
-4 Llanowar Visionary
-4 Fabled Passage
+1 Gray Merchant of Asphodel
+1 Nightmare Shepherd
+1 Yarok's Fenlurker
+2 Murderous Rider
+2 Yarok's Fenlurker
+2 Gray Merchant of Asphodel
+2 Nightmare Shepherd
+3 Nightmare Shepherd
+3 Gray Merchant of Asphodel
+3 Yarok's Fenlurker
+4 Gray Merchant of Asphodel
+1 Garrison Cat
+2 Garrison Cat
+3 Garrison Cat
+4 Garrison Cat
+5 Plains
+1 Unbreakable Formation
+1 Giant Killer
+1 Seasoned Hallowblade
+1 Hunted Witness
+2 Castle Ardenvale
+2 Unbreakable Formation
+2 Seasoned Hallowblade
+2 Hunted Witness
+2 Giant Killer
+3 Unbreakable Formation
+3 Giant Killer
+3 Seasoned Hallowblade
+3 Hunted Witness
+4 Hunted Witness
+4 Giant Killer
+6 Plains
+7 Plains
+8 Plains
+9 Plains
+10 Plains
+11 Plains
+12 Plains
+13 Plains
+14 Plains
+15 Plains
+16 Plains
+17 Plains
 2 Mountain
+3 Stonecoil Serpent
+4 Stonecoil Serpent
+3 Eliminate
+1 Llanowar Visionary
 1 Cavalier of Thorns
 1 Eerie Ultimatum
+2 Llanowar Visionary
 2 Cavalier of Thorns
 2 Eerie Ultimatum
+3 Llanowar Visionary
 1 Tolsimir, Friend to Wolves
 1 Vraska, Golgari Queen
 2 Tolsimir, Friend to Wolves
 2 Vraska, Golgari Queen
 3 Tolsimir, Friend to Wolves
+3 Treacherous Blessing
 1 Questing Beast
+1 Paradise Druid
 2 Questing Beast
+2 Paradise Druid
 3 Questing Beast
 3 Temple of Malady
-2 Castle Vantress
-1 Castle Garenbrig
-4 Forest
-4 Paradise Druid
-5 Forest
-6 Forest
-1 Brazen Borrower
-2 Brazen Borrower
-4 Island
-5 Island
-6 Island
-1 Temple of Mystery
-1 Sublime Epiphany
-1 Negate
-1 Finale of Revelation
-1 Ilysian Caryatid
-1 The Great Henge
-1 Heroic Intervention
-1 Mass Manipulation
-1 Nyxbloom Ancient
-1 End-Raze Forerunners
-1 Nylea, Keen-Eyed
-1 God-Eternal Rhonas
-1 Kiora, Behemoth Beckoner
-1 Kinnan, Bonder Prodigy
-1 Gadwick, the Wizened
-1 Chromatic Orrery
-1 Beast Whisperer
-2 Temple of Mystery
-2 Negate
-2 Gadwick, the Wizened
-2 Nyxbloom Ancient
-2 Nylea, Keen-Eyed
-2 Castle Garenbrig
-2 Kiora, Behemoth Beckoner
-2 Kinnan, Bonder Prodigy
-2 God-Eternal Rhonas
-2 Beast Whisperer
-2 The Great Henge
-2 End-Raze Forerunners
-2 Ilysian Caryatid
-2 Heroic Intervention
-3 Temple of Mystery
-3 Beast Whisperer
-3 Gilded Goose
-3 Ilysian Caryatid
-3 Kiora, Behemoth Beckoner
-3 Kinnan, Bonder Prodigy
-4 Ilysian Caryatid
-4 Temple of Mystery
-4 Gilded Goose
-4 Kinnan, Bonder Prodigy
-1 Kaya, Orzhov Usurper
-1 Revitalize
-1 Gift of Paradise
-1 Griffin Aerie
-1 Revival/Revenge
-1 Elder Gargaroth
-2 Kaya, Orzhov Usurper
-2 Revitalize
-2 Gift of Paradise
-2 Revival/Revenge
-2 Elder Gargaroth
-2 Griffin Aerie
-3 Jolrael, Mwonvuli Recluse
-3 Revitalize
-3 Revival/Revenge
-3 Gift of Paradise
-3 Griffin Aerie
-4 Temple of Plenty
-4 Vito, Thorn of the Dusk Rose
-4 Revitalize
-4 Revival/Revenge
-4 Gift of Paradise
-4 Griffin Aerie
-1 Temple of Deceit
-1 Steam Vents
-1 Stomping Ground
-1 Ugin, the Spirit Dragon
-1 Commence the Endgame
-1 Wilderness Reclamation
-1 Ketria Triome
-1 Shark Typhoon
-1 Ritual of Soot
-1 Extinction Event
-1 Chemister's Insight
-1 Expansion/Explosion
-2 Shark Typhoon
-2 Ugin, the Spirit Dragon
-2 Expansion/Explosion
-2 Steam Vents
-2 Wilderness Reclamation
-2 Ketria Triome
-3 Ketria Triome
-3 Wilderness Reclamation
-3 Expansion/Explosion
+3 Paradise Druid
+1 Castle Vantress
+2 Watery Grave
 1 General Kudro of Drannith
 1 Haktos the Unscarred
 1 Temple of Malice
 2 Tajic, Legion's Edge
-1 Basri Ket
-2 Basri Ket
 1 Scavenging Ooze
 1 Bronzehide Lion
 1 Seraph of the Scales
@@ -311,48 +250,68 @@
 2 Garruk, Cursed Huntsman
 3 Shatter the Sky
 3 Temple of Silence
-3 Scavenging Ooze
+3 Temple of Plenty
 3 Bronzehide Lion
+3 Scavenging Ooze
 4 Shatter the Sky
 4 Knight of Autumn
+1 Glorious Anthem
+2 Glorious Anthem
+3 Glorious Anthem
+3 Castle Ardenvale
+4 Castle Ardenvale
+4 Seasoned Hallowblade
+4 Glorious Anthem
+1 Jolrael, Mwonvuli Recluse
+1 Mystical Dispute
+2 Jolrael, Mwonvuli Recluse
+2 Mystical Dispute
 2 Aether Gust
 3 Aether Gust
 3 Hallowed Fountain
 4 Uro, Titan of Nature's Wrath
 4 Hallowed Fountain
+4 Fabled Passage
+4 Nightmare Shepherd
+1 Brazen Borrower
+1 Pteramander
+2 Brazen Borrower
+2 Pteramander
+3 Brazen Borrower
+4 Island
+4 Brazen Borrower
+5 Island
+6 Island
 1 Didn't Say Please
 1 Drown in the Loch
 1 Thieves' Guild Enforcer
 1 Thought Erasure
 1 Grafdigger's Cage
+1 Temple of Deceit
 1 Lochmere Serpent
 1 Orzhov Enforcer
 1 Into the Story
 1 Vantress Gargoyle
-1 Pteramander
 2 Didn't Say Please
 2 Temple of Deceit
 2 Thought Erasure
-2 Pteramander
 2 Orzhov Enforcer
 2 Vantress Gargoyle
 2 Into the Story
 2 Thieves' Guild Enforcer
 2 Drown in the Loch
 3 Didn't Say Please
-3 Brazen Borrower
 3 Vantress Gargoyle
 3 Drown in the Loch
+3 Thieves' Guild Enforcer
 3 Temple of Deceit
 3 Thought Erasure
-3 Thieves' Guild Enforcer
 3 Watery Grave
 3 Orzhov Enforcer
-4 Brazen Borrower
 4 Didn't Say Please
 4 Vantress Gargoyle
-4 Eliminate
 4 Temple of Deceit
+4 Eliminate
 4 Thought Erasure
 4 Drown in the Loch
 4 Thieves' Guild Enforcer
@@ -360,10 +319,9 @@
 1 Dire Tactics
 1 Lurrus of the Dream-Den
 1 Twilight Panther
-1 Necropanther
-1 Garrison Cat
 1 Regal Leosaur
 1 Dead Weight
+1 Necropanther
 1 Snapdax, Apex of the Hunt
 1 Kaheera, the Orphanguard
 1 Charmed Stray
@@ -375,10 +333,8 @@
 2 Charmed Stray
 2 Twilight Panther
 2 Lurrus of the Dream-Den
-2 Garrison Cat
 2 Necropanther
 3 Lurrus of the Dream-Den
-3 Garrison Cat
 3 Necropanther
 3 Regal Leosaur
 3 Dead Weight
@@ -389,13 +345,12 @@
 3 Twilight Panther
 4 Twilight Panther
 4 Lurrus of the Dream-Den
-4 Necropanther
-4 Garrison Cat
 4 Regal Leosaur
+4 Necropanther
 4 Charmed Stray
 4 Snapdax, Apex of the Hunt
-5 Plains
 1 Gemrazer
+1 Castle Garenbrig
 1 Pelt Collector
 1 Demonic Embrace
 1 Rotting Regisaur
@@ -403,42 +358,90 @@
 2 Demonic Embrace
 2 Pelt Collector
 2 Gemrazer
-3 Stonecoil Serpent
+3 Forest
 3 Pelt Collector
 3 Gemrazer
 3 Demonic Embrace
 3 Rotting Regisaur
+4 Forest
 4 Gemrazer
+4 Paradise Druid
+4 Questing Beast
 4 Pelt Collector
 4 Rotting Regisaur
-4 Questing Beast
 4 Demonic Embrace
-4 Stonecoil Serpent
+5 Forest
+6 Forest
 7 Forest
 8 Forest
+1 Opt
+1 Sea-Dasher Octopus
+1 Spectral Sailor
+1 Nadir Kraken
+1 Whirlwind Denial
+1 Neutralize
+1 Unsummon
+1 Lofty Denial
+2 Lofty Denial
+2 Unsummon
+2 Spectral Sailor
+2 Castle Vantress
+2 Nadir Kraken
+2 Whirlwind Denial
+2 Sea-Dasher Octopus
+2 Opt
+2 Neutralize
+3 Castle Vantress
+3 Whirlwind Denial
+3 Neutralize
+3 Spectral Sailor
+3 Sea-Dasher Octopus
+3 Lofty Denial
+3 Nadir Kraken
+3 Pteramander
+3 Opt
+4 Spectral Sailor
+4 Pteramander
+4 Whirlwind Denial
+4 Opt
+4 Neutralize
+4 Castle Vantress
+4 Sea-Dasher Octopus
+4 Nadir Kraken
+4 Lofty Denial
+7 Island
+8 Island
+9 Island
+10 Island
+11 Island
+12 Island
+13 Island
+14 Island
+15 Island
+16 Island
+17 Island
+18 Island
+1 Basri's Solidarity
+1 Law-Rune Enforcer
+2 Basri's Solidarity
+2 Law-Rune Enforcer
+3 Basri's Solidarity
+4 Basri's Solidarity
+4 Unbreakable Formation
+18 Plains
+19 Plains
 1 Witch's Cottage
 1 Doom Whisperer
-1 Gray Merchant of Asphodel
 1 Village Rites
-1 Nightmare Shepherd
-1 Yarok's Fenlurker
 1 Serrated Scorpion
 1 Foulmire Knight
 1 Underworld Dreams
-2 Murderous Rider
 2 Serrated Scorpion
 2 Foulmire Knight
 2 Village Rites
-2 Gray Merchant of Asphodel
-2 Yarok's Fenlurker
-2 Nightmare Shepherd
-3 Nightmare Shepherd
-3 Gray Merchant of Asphodel
-3 Yarok's Fenlurker
 3 Tymaret, Chosen from Death
 3 Murderous Rider
 3 Serrated Scorpion
 4 Serrated Scorpion
 4 Murderous Rider
-4 Gray Merchant of Asphodel
 20 Swamp

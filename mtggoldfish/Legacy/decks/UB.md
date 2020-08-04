@@ -31,6 +31,6 @@
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
 |--------------------:|------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------|
 |                    1|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)    |                    1|[Eliminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485420)   |
-|                    2|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)    |                    2|[Eliminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485420)   |
-|                    2|[Helm of Obedience](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3047)|                    2|[Dreamstealer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430752)|
+|                    2|[Helm of Obedience](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3047)|                    2|[Eliminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485420)   |
+|                    2|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)    |                    2|[Dreamstealer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430752)|
 

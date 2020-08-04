@@ -1,55 +1,64 @@
-4 Omen of the Sea
-2 Gideon of the Trials
-3 Absorb
+4 Irrigated Farmland
 2 Fabled Passage
 4 Censor
-1 Cast Out
-1 Sinister Sabotage
-2 Sinister Sabotage
-1 Dig Through Time
-1 Opt
-2 Dig Through Time
-2 Opt
-3 Opt
-4 Opt
-3 Baffling End
-4 Baffling End
+2 Gideon of the Trials
+1 Baffling End
+1 Elspeth Conquers Death
+1 Omen of the Sea
+2 Elspeth Conquers Death
+2 Omen of the Sea
+2 Baffling End
+3 Omen of the Sea
+3 Plains
+4 Omen of the Sea
+3 Absorb
+1 Commit/Memory
 3 Teferi, Time Raveler
-4 Absorb
-4 Plains
-1 Elspeth, Sun's Nemesis
-4 Teferi, Time Raveler
-3 Fabled Passage
+3 Sinister Sabotage
 1 Seal Away
 2 Seal Away
 1 Prairie Stream
+4 Absorb
+4 Plains
 5 Plains
 6 Plains
-1 Commit/Memory
-1 Essence Scatter
-3 Sinister Sabotage
+3 Baffling End
+4 Baffling End
+4 Teferi, Time Raveler
+3 Fabled Passage
+4 Sinister Sabotage
 1 Dream Trawler
 2 Dream Trawler
 2 Prairie Stream
 6 Island
-1 Fumigate
+2 Dovin's Veto
+1 Elspeth, Sun's Nemesis
 1 Gideon, Ally of Zendikar
-1 Jace, Architect of Thought
-4 Sinister Sabotage
+1 Essence Scatter
+3 Dig Through Time
 3 Seal Away
 4 Seal Away
-2 Dovin's Veto
-3 Narset, Parter of Veils
-4 Fabled Passage
-3 Dig Through Time
-4 Shark Typhoon
-7 Island
+1 Fumigate
+1 Jace, Architect of Thought
 1 Blast Zone
-3 Gideon of the Trials
-3 Field of Ruin
-2 Cast Out
 2 Essence Scatter
 3 Essence Scatter
+7 Island
+3 Narset, Parter of Veils
+4 Shark Typhoon
+1 Chemister's Insight
+4 Fabled Passage
+3 Field of Ruin
+1 Void Shatter
+2 Void Shatter
+2 Blast Zone
+3 Dovin's Veto
+4 Dovin's Veto
+4 Teferi, Hero of Dominaria
+1 Neutralize
+2 Cast Out
+3 Castle Ardenvale
+2 Chemister's Insight
 1 Oath of Kaya
 1 Fetid Pools
 1 Isolated Chapel
@@ -60,29 +69,17 @@
 2 Fetid Pools
 3 Oath of Kaya
 3 Fetid Pools
+3 Gideon of the Trials
 4 Fetid Pools
-1 Chemister's Insight
-1 Omen of the Sun
-3 Cast Out
-1 Neutralize
-1 Void Shatter
-2 Blast Zone
-2 Void Shatter
-3 Dovin's Veto
-4 Dovin's Veto
-4 Teferi, Hero of Dominaria
-3 Castle Ardenvale
-4 Gideon of the Trials
-2 Chemister's Insight
-2 Omen of the Sun
 1 Hieroglyphic Illumination
 2 Neutralize
 2 Hieroglyphic Illumination
 3 Neutralize
 3 Hieroglyphic Illumination
+3 Cast Out
 4 Neutralize
-4 Cast Out
 4 Hieroglyphic Illumination
+4 Cast Out
 1 Drake Haven
 1 Abandoned Sarcophagus
 1 Teferi, Master of Time
@@ -90,31 +87,27 @@
 2 Teferi, Master of Time
 3 Drake Haven
 1 Settle the Wreckage
-1 Interplanar Beacon
-2 Elspeth, Sun's Nemesis
-2 Interplanar Beacon
-1 The Birth of Meletis
-2 The Birth of Meletis
-3 The Birth of Meletis
-1 Shatter the Sky
-2 Shatter the Sky
-3 Shatter the Sky
-3 Elspeth Conquers Death
 1 Search for Azcanta
+1 The Birth of Meletis
+1 Omen of the Sun
+2 The Birth of Meletis
+2 Omen of the Sun
+3 The Birth of Meletis
+4 Gideon of the Trials
+1 Sacred Foundry
+1 Raugrin Triome
+2 Raugrin Triome
 1 Ipnu Rivulet
 1 Thassa's Intervention
 2 Thassa's Intervention
 1 Horribly Awry
 2 Horribly Awry
 1 Sulfur Falls
+2 Sulfur Falls
 1 Nimble Obstructionist
 1 Zenith Flare
-1 Sacred Foundry
-1 Raugrin Triome
 1 Flourishing Fox
-2 Raugrin Triome
 2 Settle the Wreckage
-2 Sulfur Falls
 2 Sacred Foundry
 2 Nimble Obstructionist
 2 Flourishing Fox
@@ -126,3 +119,116 @@
 4 Flourishing Fox
 4 Zenith Flare
 4 Sacred Foundry
+1 Tamiyo, Collector of Tales
+1 Temple of Enlightenment
+1 Temple Garden
+1 Fog
+1 Elixir of Immortality
+1 Lumbering Falls
+1 Sphinx's Revelation
+1 Nissa, Who Shakes the World
+1 Spring/Mind
+1 Breeding Pool
+1 Growth Spiral
+1 Forest
+1 Temple of Mystery
+2 Commit/Memory
+2 Tamiyo, Collector of Tales
+2 Search for Azcanta
+2 Temple Garden
+2 Temple of Enlightenment
+2 Growth Spiral
+2 Nissa, Who Shakes the World
+2 Spring/Mind
+2 Temple of Mystery
+2 Fog
+2 Breeding Pool
+3 Temple Garden
+3 Breeding Pool
+3 Fog
+3 Temple of Enlightenment
+3 Temple of Mystery
+3 Growth Spiral
+4 Temple Garden
+4 Fog
+4 Breeding Pool
+4 Growth Spiral
+1 Steam Vents
+1 Spirebluff Canal
+1 Mountain
+2 Steam Vents
+2 Spirebluff Canal
+3 Steam Vents
+3 Spirebluff Canal
+4 Steam Vents
+4 Spirebluff Canal
+1 Fiery Impulse
+1 Tale's End
+1 Brazen Borrower
+1 Wild Slash
+1 Needle Spires
+1 Lightning Strike
+1 Spell Queller
+1 Inspiring Vantage
+1 Soulfire Grand Master
+1 Syncopate
+1 Render Silent
+1 Izzet Charm
+2 Fiery Impulse
+2 Izzet Charm
+2 Needle Spires
+2 Brazen Borrower
+2 Lightning Strike
+2 Wild Slash
+2 Syncopate
+2 Render Silent
+2 Spell Queller
+2 Soulfire Grand Master
+3 Brazen Borrower
+3 Spell Queller
+3 Render Silent
+3 Soulfire Grand Master
+4 Spell Queller
+4 Render Silent
+1 See the Truth
+1 Forbidden Friendship
+1 Shivan Reef
+1 Chandra, Acolyte of Flame
+1 Terror of the Peaks
+1 Anger of the Gods
+1 Chandra, Torch of Defiance
+1 Fire Prophecy
+1 Indomitable Creativity
+1 Irencrag Feat
+1 Angrath's Marauders
+1 Pirate's Pillage
+2 See the Truth
+2 Forbidden Friendship
+2 Terror of the Peaks
+2 Shivan Reef
+2 Chandra, Acolyte of Flame
+2 Anger of the Gods
+2 Mountain
+2 Fire Prophecy
+2 Chandra, Torch of Defiance
+2 Pirate's Pillage
+2 Indomitable Creativity
+3 Sulfur Falls
+3 Forbidden Friendship
+3 See the Truth
+3 Chandra, Acolyte of Flame
+3 Shivan Reef
+3 Terror of the Peaks
+3 Anger of the Gods
+3 Pirate's Pillage
+3 Indomitable Creativity
+3 Fire Prophecy
+3 Mountain
+4 Terror of the Peaks
+4 Forbidden Friendship
+4 Shivan Reef
+4 Chandra, Acolyte of Flame
+4 Pirate's Pillage
+4 Indomitable Creativity
+4 Mountain
+4 Sulfur Falls

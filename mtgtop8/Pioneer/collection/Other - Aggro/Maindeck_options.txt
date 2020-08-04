@@ -1,34 +1,80 @@
 2 Rootbound Crag
 4 Legion Warboss
 1 Selfless Spirit
-1 Fortified Village
 3 Forest
 4 Forest
-1 Pia and Kiran Nalaar
+1 Fortified Village
+2 Plains
+4 Mana Confluence
 1 Garruk's Harbinger
 1 Battlefield Forge
 1 Tithe Taker
+1 Pia and Kiran Nalaar
 2 Pia and Kiran Nalaar
-2 Tithe Taker
 2 Garruk's Harbinger
 2 Battlefield Forge
+2 Tithe Taker
 3 Tithe Taker
-3 Garruk's Harbinger
 3 Sacred Foundry
+3 Garruk's Harbinger
 4 Tithe Taker
 4 Garruk's Harbinger
-4 Mana Confluence
 2 Inspiring Vantage
-2 Plains
+3 Sunpetal Grove
 1 Goblin Instigator
 2 Selfless Spirit
-3 Sunpetal Grove
 5 Forest
-3 Plains
 1 Walking Ballista
 2 Walking Ballista
 3 Walking Ballista
 4 Walking Ballista
+1 Swamp
+1 Fatal Push
+1 Thoughtseize
+2 Fatal Push
+2 Thoughtseize
+3 Fatal Push
+3 Thoughtseize
+4 Fatal Push
+1 Fabled Passage
+2 Fabled Passage
+2 Swamp
+3 Swamp
+4 Swamp
+4 Thoughtseize
+1 Blood Crypt
+1 Dragonskull Summit
+1 Stitcher's Supplier
+1 Kroxa, Titan of Death's Hunger
+2 Blood Crypt
+2 Dragonskull Summit
+2 Stitcher's Supplier
+2 Kroxa, Titan of Death's Hunger
+3 Dragonskull Summit
+3 Stitcher's Supplier
+3 Blood Crypt
+4 Stitcher's Supplier
+4 Dragonskull Summit
+4 Blood Crypt
+2 Mountain
+3 Mountain
+1 Castle Locthwain
+2 Castle Locthwain
+1 Young Pyromancer
+1 Village Rites
+1 Claim / Fame
+1 Foreboding Ruins
+2 Young Pyromancer
+2 Village Rites
+2 Foreboding Ruins
+2 Claim / Fame
+3 Village Rites
+3 Young Pyromancer
+3 Foreboding Ruins
+3 Claim / Fame
+4 Village Rites
+4 Foreboding Ruins
+3 Plains
 1 Militia Bugler
 1 Heliod, Sun-Crowned
 1 Collected Company
@@ -43,66 +89,48 @@
 4 Militia Bugler
 4 Heliod, Sun-Crowned
 4 Collected Company
-1 Swamp
-1 Fatal Push
-1 Thoughtseize
-2 Fatal Push
-2 Thoughtseize
-3 Fatal Push
-3 Thoughtseize
-4 Thoughtseize
-4 Fatal Push
-2 Swamp
-3 Swamp
-4 Swamp
-1 Blood Crypt
-1 Stitcher's Supplier
-1 Dragonskull Summit
-1 Young Pyromancer
-1 Kroxa, Titan of Death's Hunger
-1 Village Rites
-1 Claim / Fame
-1 Foreboding Ruins
-2 Blood Crypt
-2 Stitcher's Supplier
-2 Dragonskull Summit
-2 Young Pyromancer
-2 Village Rites
-2 Kroxa, Titan of Death's Hunger
-2 Foreboding Ruins
-2 Claim / Fame
-3 Stitcher's Supplier
-3 Dragonskull Summit
-3 Village Rites
-3 Blood Crypt
-3 Young Pyromancer
-3 Claim / Fame
-3 Foreboding Ruins
-4 Stitcher's Supplier
-4 Dragonskull Summit
-4 Blood Crypt
-4 Village Rites
-4 Foreboding Ruins
-1 Fabled Passage
-2 Fabled Passage
+3 Kroxa, Titan of Death's Hunger
+1 Conclave Mentor
+2 Conclave Mentor
+3 Conclave Mentor
+4 Sunpetal Grove
+4 Conclave Mentor
+6 Forest
+7 Forest
+1 Pelt Collector
+1 Experiment One
+2 Pelt Collector
+2 Experiment One
+3 Pelt Collector
+3 Experiment One
+4 Experiment One
+1 Nissa, Voice of Zendikar
+1 Hardened Scales
+1 Voracious Hydra
+1 Rishkar, Peema Renegade
+2 Nissa, Voice of Zendikar
+2 Hardened Scales
+2 Voracious Hydra
+2 Rishkar, Peema Renegade
+3 Nissa, Voice of Zendikar
+3 Hardened Scales
+3 Voracious Hydra
+3 Rishkar, Peema Renegade
+4 Hardened Scales
+1 Murderous Rider
+2 Murderous Rider
+3 Fabled Passage
 1 Courser of Kruphix
 2 Courser of Kruphix
 3 Courser of Kruphix
 4 Plains
 5 Plains
-2 Mountain
-3 Mountain
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+3 Bonecrusher Giant
+4 Bonecrusher Giant
 5 Swamp
-1 Castle Locthwain
-2 Castle Locthwain
-1 Scampering Scorcher
-1 Island
-1 Watery Grave
-1 Murderous Rider
-2 Island
-2 Watery Grave
-2 Murderous Rider
-3 Fabled Passage
+4 Pelt Collector
 1 Blooming Marsh
 1 Overgrown Tomb
 1 Scavenging Ooze
@@ -112,27 +140,47 @@
 3 Overgrown Tomb
 4 Overgrown Tomb
 4 Blooming Marsh
+4 Fabled Passage
+1 Field of Ruin
+1 Scampering Scorcher
+1 Radiant Fountain
+1 Fairgrounds Warden
+1 Charming Prince
+1 Llanowar Visionary
+1 Prophet of Kruphix
+1 Chord of Calling
+1 Sporeweb Weaver
+1 Knight of Autumn
+2 Chord of Calling
+2 Llanowar Visionary
+2 Radiant Fountain
+2 Prophet of Kruphix
+3 Prophet of Kruphix
+1 Island
+1 Watery Grave
+2 Island
+2 Watery Grave
 1 Ashiok, Nightmare Muse
-1 Breeding Pool
 1 Ipnu Rivulet
-1 Jace, Vryn's Prodigy
 1 Traverse the Ulvenwald
 1 Eat to Extinction
+1 Jace, Vryn's Prodigy
 1 Tireless Tracker
-1 Abrupt Decay
 1 Heartless Act
+1 Abrupt Decay
 1 Atris, Oracle of Half-Truths
 1 Nissa, Who Shakes the World
+1 Breeding Pool
 1 Uro, Titan of Nature's Wrath
 1 Shark Typhoon
 1 Zagoth Triome
 1 Satyr Wayfinder
 1 Hinterland Harbor
+2 Satyr Wayfinder
 2 Breeding Pool
 2 Jace, Vryn's Prodigy
 2 Abrupt Decay
 2 Shark Typhoon
-2 Satyr Wayfinder
 2 Traverse the Ulvenwald
 2 Uro, Titan of Nature's Wrath
 3 Satyr Wayfinder
@@ -151,19 +199,63 @@
 3 Rootbound Crag
 4 Gilded Goose
 1 Scattered Groves
-1 Conclave Mentor
 1 Lurrus of the Dream-Den
 1 The Great Henge
 1 Anafenza, Kin-Tree Spirit
-2 Conclave Mentor
 2 The Great Henge
 2 Anafenza, Kin-Tree Spirit
-3 Conclave Mentor
 4 Fortified Village
-4 Sunpetal Grove
-4 Conclave Mentor
-1 Dreadbore
+1 Elspeth's Nightmare
+1 Ritual of Soot
+1 Chandra, Torch of Defiance
+1 Liliana, the Last Hope
+1 Collective Brutality
+1 Kolaghan's Command
+1 Ox of Agonas
+1 Anger of the Gods
+1 Kalitas, Traitor of Ghet
+2 Ox of Agonas
+2 Elspeth's Nightmare
+2 Collective Brutality
+2 Kolaghan's Command
+2 Kalitas, Traitor of Ghet
+3 Collective Brutality
+3 Ox of Agonas
+4 Kroxa, Titan of Death's Hunger
+4 Mountain
+1 Burning-Tree Emissary
+1 Hashep Oasis
+1 Domri, Anarch of Bolas
+1 Gallia of the Endless Dance
+1 Zhur-Taa Goblin
+1 Voltaic Brawler
+1 Hazoret the Fervent
+1 Dryad Militant
+1 Questing Beast
+1 Embercleave
+1 Ghor-Clan Rampager
+1 Game Trail
+1 Gruul Spellbreaker
+1 Domri Rade
+2 Burning-Tree Emissary
+2 Hashep Oasis
+2 Gallia of the Endless Dance
+2 Zhur-Taa Goblin
+2 Voltaic Brawler
+2 Gruul Spellbreaker
+2 Embercleave
+2 Ghor-Clan Rampager
+2 Game Trail
+3 Burning-Tree Emissary
+3 Ghor-Clan Rampager
+3 Voltaic Brawler
+3 Gruul Spellbreaker
+4 Burning-Tree Emissary
+4 Voltaic Brawler
+4 Gruul Spellbreaker
+4 Ghor-Clan Rampager
 1 Wild Slash
+1 Dreadbore
 1 Dreadhorde Arcanist
 1 Archfiend's Vessel
 1 Call of the Death-Dweller
@@ -176,57 +268,35 @@
 3 Call of the Death-Dweller
 4 Young Pyromancer
 4 Dreadhorde Arcanist
-1 Pelt Collector
-1 Experiment One
-2 Pelt Collector
-2 Experiment One
-3 Pelt Collector
-3 Experiment One
-4 Pelt Collector
-4 Experiment One
 1 Hissing Quagmire
-1 Winding Constrictor
-1 Hardened Scales
 1 Scrapheap Scrounger
+1 Winding Constrictor
 1 Llanowar Wastes
 1 Assassin's Trophy
 1 Mutavault
-1 Voracious Hydra
-1 Rishkar, Peema Renegade
-1 Nissa, Voice of Zendikar
-2 Hardened Scales
-2 Winding Constrictor
 2 Llanowar Wastes
+2 Winding Constrictor
 2 Assassin's Trophy
-2 Voracious Hydra
-2 Rishkar, Peema Renegade
 2 Mutavault
-2 Nissa, Voice of Zendikar
 2 Scavenging Ooze
 3 Mutavault
-3 Winding Constrictor
-3 Hardened Scales
 3 Llanowar Wastes
+3 Winding Constrictor
 3 Assassin's Trophy
-3 Nissa, Voice of Zendikar
-3 Voracious Hydra
-3 Rishkar, Peema Renegade
 4 Voracious Hydra
-4 Winding Constrictor
-4 Hardened Scales
-4 Mutavault
-4 Assassin's Trophy
 4 Nissa, Voice of Zendikar
+4 Mutavault
+4 Winding Constrictor
+4 Assassin's Trophy
 4 Llanowar Wastes
 1 Calix, Destiny's Hand
 1 Banishing Light
-1 Field of Ruin
+1 Temple of Plenty
 1 Starfield Mystic
 1 Sigil of the Empty Throne
-1 Setessan Champion
 1 Sphere of Safety
+1 Setessan Champion
 1 Alseid of Life's Bounty
-1 Temple of Plenty
 1 Eidolon of Blossoms
 1 Cast Out
 1 Herald of the Pantheon
@@ -243,13 +313,13 @@
 2 Temple of Plenty
 3 Cast Out
 3 Banishing Light
-3 Calix, Destiny's Hand
 3 Starfield Mystic
 3 Temple of Plenty
 3 Eidolon of Blossoms
 3 Setessan Champion
 3 Herald of the Pantheon
 3 Alseid of Life's Bounty
+3 Calix, Destiny's Hand
 4 Cast Out
 4 Temple of Plenty
 4 Banishing Light
@@ -268,96 +338,55 @@
 2 Knight of the Ebon Legion
 2 Bloodsoaked Champion
 3 Mire Triton
-3 Kroxa, Titan of Death's Hunger
 3 Fiend Artisan
 3 Knight of the Ebon Legion
 3 Bloodsoaked Champion
 4 Mire Triton
 4 Fiend Artisan
 4 Bloodsoaked Champion
-1 Burning-Tree Emissary
-1 Hashep Oasis
-1 Domri, Anarch of Bolas
-1 Gallia of the Endless Dance
-1 Zhur-Taa Goblin
-1 Voltaic Brawler
-1 Hazoret the Fervent
-1 Dryad Militant
-1 Questing Beast
-1 Embercleave
-1 Ghor-Clan Rampager
-1 Game Trail
-1 Gruul Spellbreaker
-1 Domri Rade
-1 Bonecrusher Giant
-2 Burning-Tree Emissary
-2 Hashep Oasis
-2 Gallia of the Endless Dance
-2 Zhur-Taa Goblin
-2 Voltaic Brawler
-2 Bonecrusher Giant
-2 Gruul Spellbreaker
-2 Embercleave
-2 Ghor-Clan Rampager
-2 Game Trail
-3 Burning-Tree Emissary
-3 Ghor-Clan Rampager
-3 Voltaic Brawler
-3 Bonecrusher Giant
-3 Gruul Spellbreaker
-4 Burning-Tree Emissary
-4 Gruul Spellbreaker
-4 Voltaic Brawler
-4 Ghor-Clan Rampager
-4 Bonecrusher Giant
 1 Eliminate
 1 Brazen Borrower
-1 Rankle, Master of Pranks
 1 Choked Estuary
 1 Glint-Sleeve Siphoner
 1 Thieves' Guild Enforcer
 1 Drown in the Loch
+1 Rankle, Master of Pranks
 1 Drowned Catacomb
 1 Mystical Dispute
 2 Eliminate
-2 Rankle, Master of Pranks
 2 Brazen Borrower
 2 Choked Estuary
-2 Drown in the Loch
 2 Glint-Sleeve Siphoner
+2 Drown in the Loch
 2 Thieves' Guild Enforcer
 2 Drowned Catacomb
+2 Rankle, Master of Pranks
 2 Mystical Dispute
 3 Island
-3 Rankle, Master of Pranks
+3 Glint-Sleeve Siphoner
 3 Brazen Borrower
 3 Watery Grave
-3 Glint-Sleeve Siphoner
-3 Drowned Catacomb
 3 Thieves' Guild Enforcer
+3 Drowned Catacomb
 3 Eliminate
 3 Drown in the Loch
+3 Rankle, Master of Pranks
 3 Murderous Rider
-4 Fabled Passage
-4 Watery Grave
 4 Glint-Sleeve Siphoner
 4 Thieves' Guild Enforcer
+4 Watery Grave
 4 Brazen Borrower
 4 Murderous Rider
 4 Drowned Catacomb
 6 Swamp
-1 Charming Prince
-1 Radiant Fountain
-1 Fairgrounds Warden
-1 Prophet of Kruphix
-1 Llanowar Visionary
-1 Chord of Calling
-1 Sporeweb Weaver
-1 Knight of Autumn
-2 Chord of Calling
-2 Llanowar Visionary
-2 Radiant Fountain
-2 Prophet of Kruphix
-3 Prophet of Kruphix
-6 Forest
-7 Forest
+1 Hangarback Walker
+1 Dromoka's Command
+1 Stonecoil Serpent
+2 Hangarback Walker
+2 Dromoka's Command
+2 Stonecoil Serpent
+3 Hangarback Walker
+3 Stonecoil Serpent
+4 Stonecoil Serpent
+8 Forest
+9 Forest

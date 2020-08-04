@@ -3,8 +3,8 @@
 3 Savai Triome
 1 Corpse Knight
 1 Skyknight Vanguard
-2 Corpse Knight
 2 Skyknight Vanguard
+2 Corpse Knight
 3 Corpse Knight
 3 Skyknight Vanguard
 4 Skyknight Vanguard
@@ -43,10 +43,10 @@
 1 Sorin, Vengeful Bloodlord
 2 Sorin, Vengeful Bloodlord
 4 Plains
-1 Grim Tutor
-1 Village Rites
-1 Chance for Glory
 1 The Circle of Loyalty
+1 Grim Tutor
+1 Chance for Glory
+1 Village Rites
 1 Castle Ardenvale
 1 Basri's Solidarity
 1 Liliana's Standard Bearer
@@ -61,17 +61,17 @@
 2 Venerated Loxodon
 3 Venerated Loxodon
 4 Venerated Loxodon
+1 Chandra, Acolyte of Flame
 1 Winota, Joiner of Forces
 1 Kenrith, the Returned King
 1 Legion Warboss
-1 Chandra, Acolyte of Flame
 1 Tin Street Dodger
 1 Robber of the Rich
 1 Raise the Alarm
+2 Tin Street Dodger
 2 Winota, Joiner of Forces
 2 Legion Warboss
 2 Chandra, Acolyte of Flame
-2 Tin Street Dodger
 2 Robber of the Rich
 2 Castle Embereth
 2 Raise the Alarm
@@ -84,9 +84,9 @@
 4 Winota, Joiner of Forces
 4 Robber of the Rich
 4 Raise the Alarm
-1 Lavabrink Venturer
-1 Revival / Revenge
 1 Outlaws' Merriment
+1 Revival / Revenge
+1 Lavabrink Venturer
 1 Hero of Precinct One
 2 Lavabrink Venturer
 2 Revival / Revenge
@@ -109,8 +109,8 @@
 1 Selfless Savior
 1 Alpine Watchdog
 2 Pack Leader
-2 Bolt Hound
 2 Banehound
+2 Bolt Hound
 2 Kunoros, Hound of Athreos
 2 Igneous Cur
 2 Alpine Watchdog
