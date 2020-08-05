@@ -8,14 +8,14 @@
 8 Plains
 1 Ajani's Pridemate
 1 Healer's Hawk
-2 Ajani's Pridemate
 2 Scoured Barrens
 2 Healer's Hawk
-3 Ajani's Pridemate
+2 Ajani's Pridemate
 3 Scoured Barrens
+3 Ajani's Pridemate
 3 Healer's Hawk
-4 Ajani's Pridemate
 4 Scoured Barrens
+4 Ajani's Pridemate
 3 Temple of Silence
 4 Temple of Silence
 1 Indatha Triome
@@ -50,9 +50,9 @@
 1 Banishing Light
 1 Impassioned Orator
 1 Final Payment
-1 Gideon Blackblade
-1 Omen of the Sun
 1 Bloodthirsty Aerialist
+1 Omen of the Sun
+1 Gideon Blackblade
 2 Impassioned Orator
 2 Bloodthirsty Aerialist
 2 Omen of the Sun
@@ -64,8 +64,8 @@
 2 Gutterbones
 3 Gutterbones
 4 Gutterbones
-1 Mire's Grasp
 1 Alseid of Life's Bounty
+1 Mire's Grasp
 2 Alseid of Life's Bounty
 3 Alseid of Life's Bounty
 4 Alseid of Life's Bounty
@@ -75,64 +75,42 @@
 4 Dire Tactics
 1 Knight of the Ebon Legion
 3 Omen of the Sun
-1 Archfiend's Vessel
-1 Kaya's Ghostform
-1 Shadowspear
-1 Memory Leak
-1 Lampad of Death's Vigil
-1 Omen of the Dead
-1 Murder
-1 Hateful Eidolon
-1 Dead Weight
-2 Archfiend's Vessel
-2 Mire's Grasp
-2 Kaya's Ghostform
-2 Lampad of Death's Vigil
-2 Memory Leak
-2 Hateful Eidolon
-2 Murder
-3 Archfiend's Vessel
-3 Kaya's Ghostform
-3 Lampad of Death's Vigil
-3 Mire's Grasp
-4 Archfiend's Vessel
-4 Kaya's Ghostform
 1 Haazda Marshal
-1 Venerable Knight
-1 Basri Ket
-1 General's Enforcer
-1 Icon of Ancestry
 1 Disfigure
+1 Icon of Ancestry
+1 Basri Ket
 1 Tithe Taker
 1 Castle Ardenvale
 1 Adherent of Hope
 1 Giant Killer
+1 Venerable Knight
 1 General Kudro of Drannith
+1 General's Enforcer
 2 Castle Ardenvale
+2 Basri Ket
 2 Haazda Marshal
 2 Icon of Ancestry
-2 General's Enforcer
 2 Disfigure
 2 Tithe Taker
 2 Venerable Knight
 2 General Kudro of Drannith
+2 General's Enforcer
 2 Adherent of Hope
-2 Basri Ket
-3 Basri Ket
 3 General Kudro of Drannith
+3 Basri Ket
 3 Haazda Marshal
+3 Disfigure
 3 Tithe Taker
 3 General's Enforcer
-3 Disfigure
 3 Venerable Knight
 3 Icon of Ancestry
 3 Adherent of Hope
 4 Haazda Marshal
 4 Tithe Taker
-4 General's Enforcer
 4 Venerable Knight
-1 Grasp of Darkness
+4 General's Enforcer
 1 Seasoned Hallowblade
+1 Grasp of Darkness
 1 Eliminate
 1 Demonic Embrace
 1 Hunted Nightmare
@@ -140,8 +118,8 @@
 1 Spawn of Mayhem
 1 Blacklance Paragon
 1 Murderous Rider
-2 Knight of the Ebon Legion
 2 Seasoned Hallowblade
+2 Knight of the Ebon Legion
 2 Demonic Embrace
 2 Eliminate
 2 Hunted Nightmare
@@ -149,37 +127,59 @@
 2 Murderous Rider
 2 Spawn of Mayhem
 2 Blacklance Paragon
+3 Seasoned Hallowblade
 3 Knight of the Ebon Legion
 3 Demonic Embrace
 3 Rotting Regisaur
 3 Blacklance Paragon
 3 Eliminate
 3 Spawn of Mayhem
-3 Seasoned Hallowblade
-4 Blacklance Paragon
-4 Knight of the Ebon Legion
-4 Rotting Regisaur
 4 Seasoned Hallowblade
-4 Eliminate
 4 Spawn of Mayhem
+4 Blacklance Paragon
+4 Rotting Regisaur
+4 Eliminate
+4 Knight of the Ebon Legion
 1 Orzhov Enforcer
 2 Orzhov Enforcer
 3 Orzhov Enforcer
 4 Orzhov Enforcer
-1 Heliod, Sun-Crowned
+1 Shadowspear
+1 Kaya's Ghostform
+1 Hateful Eidolon
+1 Dead Weight
+1 Murder
+1 Lampad of Death's Vigil
+1 Omen of the Dead
+1 Memory Leak
+1 Archfiend's Vessel
+2 Hateful Eidolon
+2 Murder
+2 Kaya's Ghostform
+2 Mire's Grasp
+2 Archfiend's Vessel
+2 Memory Leak
+2 Lampad of Death's Vigil
+3 Mire's Grasp
+3 Kaya's Ghostform
+3 Lampad of Death's Vigil
+3 Archfiend's Vessel
+4 Archfiend's Vessel
+4 Kaya's Ghostform
 1 Sorin, Vengeful Bloodlord
-1 Spark Harvest
+1 Heliod, Sun-Crowned
 1 Show of Valor
+1 Spark Harvest
 2 Banishing Light
-2 Spark Harvest
 2 Show of Valor
+2 Spark Harvest
 3 Banishing Light
 10 Plains
+1 Tymaret, Chosen from Death
 1 Daxos, Blessed by the Sun
 1 Mortify
 1 Liliana, Dreadhorde General
 1 Grasping Thrull
-1 Tymaret, Chosen from Death
 1 Imperious Oligarch
 2 Imperious Oligarch
 2 Grasping Thrull

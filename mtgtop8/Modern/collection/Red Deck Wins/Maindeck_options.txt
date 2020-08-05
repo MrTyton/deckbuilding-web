@@ -7,15 +7,15 @@
 1 Arid Mesa
 2 Wooded Foothills
 14 Mountain
-1 Soul-Scar Mage
 1 Lava Dart
 1 Light Up the Stage
+1 Soul-Scar Mage
 2 Lava Dart
-2 Soul-Scar Mage
 2 Light Up the Stage
+2 Soul-Scar Mage
+3 Lava Dart
 3 Light Up the Stage
 3 Soul-Scar Mage
-3 Lava Dart
 4 Light Up the Stage
 4 Lava Dart
 4 Soul-Scar Mage
@@ -29,14 +29,14 @@
 4 Seal of Fire
 4 Chandra's Incinerator
 1 Crash Through
-1 Bedlam Reveler
 1 Manamorphose
+1 Bedlam Reveler
 2 Crash Through
-2 Bedlam Reveler
 2 Manamorphose
+2 Bedlam Reveler
 3 Crash Through
-3 Bedlam Reveler
 3 Manamorphose
+3 Bedlam Reveler
 4 Crash Through
 4 Manamorphose
 4 Searing Blaze
@@ -45,12 +45,12 @@
 2 Fiery Islet
 1 Firebolt
 2 Firebolt
-1 Shard Volley
 1 Vexing Devil
+1 Shard Volley
 2 Vexing Devil
 2 Shard Volley
-3 Fiery Islet
 3 Vexing Devil
+3 Fiery Islet
 3 Shard Volley
 4 Vexing Devil
 1 Wild Slash
@@ -85,13 +85,13 @@
 2 Bonecrusher Giant
 2 Abbot of Keral Keep
 3 Burst Lightning
-3 Bonecrusher Giant
 3 Firebolt
 3 Abbot of Keral Keep
-4 Burst Lightning
-4 Bonecrusher Giant
+3 Bonecrusher Giant
 4 Firebolt
 4 Abbot of Keral Keep
+4 Burst Lightning
+4 Bonecrusher Giant
 15 Mountain
 16 Mountain
 17 Mountain
@@ -100,50 +100,50 @@
 1 Leyline of Combustion
 2 Leyline of Combustion
 3 Kiln Fiend
-1 Blistercoil Weird
-2 Blistercoil Weird
-3 Blistercoil Weird
-4 Blistercoil Weird
+1 Gut Shot
+1 Runaway Steam-Kin
+2 Gut Shot
+2 Runaway Steam-Kin
+3 Runaway Steam-Kin
 2 Grim Lavamancer
 3 Grim Lavamancer
 4 Grim Lavamancer
-1 Chandra, Torch of Defiance
-1 Simian Spirit Guide
-1 Legion Warboss
 1 Desperate Ritual
+1 Legion Warboss
+1 Chandra, Torch of Defiance
 1 Hazoret the Fervent
+1 Simian Spirit Guide
 1 Goblin Rabblemaster
 1 Gemstone Caverns
-1 Magus of the Moon
 1 Chandra, Awakened Inferno
+1 Magus of the Moon
 1 Chalice of the Void
 1 Seasoned Pyromancer
 1 Abrade
 1 Blood Moon
 1 Karn, the Great Creator
-2 Simian Spirit Guide
-2 Chandra, Torch of Defiance
 2 Goblin Rabblemaster
 2 Magus of the Moon
+2 Chandra, Torch of Defiance
+2 Simian Spirit Guide
 2 Hazoret the Fervent
 2 Chalice of the Void
 2 Abrade
 2 Gemstone Caverns
 2 Karn, the Great Creator
 2 Blood Moon
-3 Simian Spirit Guide
-3 Gemstone Caverns
-3 Abrade
 3 Goblin Rabblemaster
+3 Gemstone Caverns
+3 Simian Spirit Guide
+3 Abrade
 3 Blood Moon
 3 Chalice of the Void
-4 Simian Spirit Guide
 4 Goblin Rabblemaster
 4 Abrade
 4 Gemstone Caverns
+4 Simian Spirit Guide
 4 Bedlam Reveler
-1 Gut Shot
-1 Runaway Steam-Kin
-2 Runaway Steam-Kin
-2 Gut Shot
-3 Runaway Steam-Kin
+1 Blistercoil Weird
+2 Blistercoil Weird
+3 Blistercoil Weird
+4 Blistercoil Weird

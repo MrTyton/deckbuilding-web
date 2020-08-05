@@ -1,20 +1,20 @@
+2 Tajic, Legion's Edge
 2 Seasoned Hallowblade
 2 Winota, Joiner of Forces
 2 Selfless Savior
-2 Alpine Houndmaster
-2 Alpine Watchdog
 2 Igneous Cur
-2 Temple of Triumph
-3 Tajic, Legion's Edge
+2 Alpine Watchdog
+2 Alpine Houndmaster
+3 Temple of Triumph
 3 Seasoned Hallowblade
+3 Tajic, Legion's Edge
 3 Selfless Savior
 3 Alpine Houndmaster
-3 Temple of Triumph
+4 Temple of Triumph
 4 Embercleave
 4 Seasoned Hallowblade
 4 Selfless Savior
 4 Alpine Houndmaster
-4 Temple of Triumph
 3 Temple of Abandon
 2 Klothys, God of Destiny
 9 Forest
@@ -41,8 +41,8 @@
 2 Fabled Passage
 3 Fabled Passage
 4 Fabled Passage
-1 Arboreal Grazer
 1 Cultivate
+1 Arboreal Grazer
 2 Arboreal Grazer
 2 Cultivate
 11 Forest
@@ -94,12 +94,12 @@
 2 Zhur-Taa Goblin
 2 Gruul Spellbreaker
 2 Pelt Collector
-3 Gemrazer
 3 Zhur-Taa Goblin
+3 Gemrazer
 3 Pelt Collector
-1 Garruk, Unleashed
 1 Castle Garenbrig
 1 Garruk's Harbinger
+1 Garruk, Unleashed
 1 Marauding Raptor
 1 Primal Might
 2 Garruk's Harbinger
@@ -117,19 +117,19 @@
 1 Chandra, Heart of Fire
 1 Paradise Druid
 1 Domri, Anarch of Bolas
-1 Vivien, Arkbow Ranger
+1 Incubation Druid
 1 Sarkhan the Masterless
 1 Chandra, Fire Artisan
-1 Incubation Druid
+1 Vivien, Arkbow Ranger
 2 Chandra, Heart of Fire
 2 Paradise Druid
 2 Domri, Anarch of Bolas
-2 Vivien, Arkbow Ranger
-2 The Great Henge
 2 Chandra, Fire Artisan
+2 The Great Henge
+2 Vivien, Arkbow Ranger
 3 Paradise Druid
-3 Scavenging Ooze
 3 Chandra, Heart of Fire
+3 Scavenging Ooze
 4 Paradise Druid
 4 Scavenging Ooze
 1 Lurrus of the Dream-Den
@@ -191,8 +191,8 @@
 2 Knight of the Ebon Legion
 1 Temple of Malice
 1 Dreadhorde Butcher
-1 Fiend Artisan
 1 Priest of Forgotten Gods
+1 Fiend Artisan
 1 Claim the Firstborn
 1 Gutterbones
 1 Woe Strider
@@ -205,9 +205,9 @@
 1 Mayhem Devil
 1 Murderous Rider
 1 Call of the Death-Dweller
+2 Temple of Malice
 2 Murderous Rider
 2 Fiend Artisan
-2 Temple of Malice
 2 Claim the Firstborn
 2 Blood Crypt
 2 Witch's Oven
@@ -244,10 +244,10 @@
 3 Robber of the Rich
 3 Fervent Champion
 4 Fervent Champion
+1 Imposing Vantasaur
 1 Startling Development
 1 Inspired Ultimatum
 1 Unpredictable Cyclone
-1 Imposing Vantasaur
 2 Raugrin Triome
 2 Imposing Vantasaur
 2 Unpredictable Cyclone
@@ -263,12 +263,12 @@
 1 Castle Ardenvale
 1 Indatha Triome
 1 Footfall Crater
-1 Savai Triome
 1 Shark Typhoon
 1 Sanctuary Smasher
 1 Ketria Triome
 1 Go for Blood
 1 Ominous Seas
+1 Savai Triome
 1 Neutralize
 2 Footfall Crater
 2 Neutralize
@@ -331,26 +331,26 @@
 6 Island
 7 Island
 1 Zagoth Triome
-1 Acolyte of Affliction
+1 Neoform
 1 Vito, Thorn of the Dusk Rose
 1 Cling to Dust
 1 Casualties of War
-1 Neoform
 1 Thassa, Deep-Dwelling
 1 Thirsting Shade
 1 Cavalier of Night
 1 Vampire Opportunist
 1 Golgari Findbroker
 1 Biomancer's Familiar
+1 Acolyte of Affliction
 2 Zagoth Triome
-2 Acolyte of Affliction
+2 Neoform
 2 Vito, Thorn of the Dusk Rose
 2 Casualties of War
-2 Neoform
 2 Golgari Findbroker
 2 Vampire Opportunist
 2 Biomancer's Familiar
 2 Thirsting Shade
+2 Acolyte of Affliction
 2 Thassa, Deep-Dwelling
 3 Neoform
 3 Thirsting Shade
@@ -366,8 +366,8 @@
 4 Biomancer's Familiar
 8 Swamp
 1 Cavalier of Thorns
-1 Voracious Hydra
 1 Chandra, Awakened Inferno
+1 Voracious Hydra
 1 Escape to the Wilds
 1 Dryad of the Ilysian Grove
 2 Nissa, Who Shakes the World
@@ -381,8 +381,8 @@
 3 Cavalier of Thorns
 3 Arboreal Grazer
 3 Cultivate
-3 Dryad of the Ilysian Grove
 3 Voracious Hydra
+3 Dryad of the Ilysian Grove
 4 Nissa, Who Shakes the World
 4 Arboreal Grazer
 4 Cultivate
@@ -397,32 +397,32 @@
 1 Alseid of Life's Bounty
 1 Gods Willing
 1 Solid Footing
-1 Shadowspear
-1 Karametra's Blessing
 1 Glaring Aegis
+1 Karametra's Blessing
+1 Shadowspear
 2 All That Glitters
 2 Sentinel's Eyes
 2 Healer's Hawk
 2 Alseid of Life's Bounty
 2 Gods Willing
 2 Glaring Aegis
-2 Karametra's Blessing
 2 Solid Footing
+2 Karametra's Blessing
 3 Healer's Hawk
 3 Alseid of Life's Bounty
 3 Gods Willing
-3 All That Glitters
-3 Glaring Aegis
 3 Sentinel's Eyes
-3 Karametra's Blessing
 3 Solid Footing
+3 Glaring Aegis
+3 Karametra's Blessing
+3 All That Glitters
 4 Healer's Hawk
 4 Alseid of Life's Bounty
 4 All That Glitters
-4 Sentinel's Eyes
-4 Glaring Aegis
 4 Solid Footing
+4 Glaring Aegis
 4 Karametra's Blessing
+4 Sentinel's Eyes
 9 Plains
 10 Plains
 11 Plains

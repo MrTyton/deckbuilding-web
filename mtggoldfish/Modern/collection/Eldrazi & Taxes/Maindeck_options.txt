@@ -29,19 +29,19 @@
 3 Reality Smasher
 4 Reality Smasher
 1 Gemstone Caverns
-1 Simian Spirit Guide
 1 Chalice of the Void
+1 Simian Spirit Guide
+2 Chalice of the Void
 2 Gemstone Caverns
 2 Simian Spirit Guide
-2 Chalice of the Void
-3 Simian Spirit Guide
 3 Chalice of the Void
-4 Simian Spirit Guide
+3 Simian Spirit Guide
 4 Chalice of the Void
-1 Dismember
+4 Simian Spirit Guide
 1 Thalia, Heretic Cathar
 1 Battlefield Forge
 1 Wastes
+1 Dismember
 2 Thalia, Heretic Cathar
 2 Battlefield Forge
 2 Dismember
@@ -60,8 +60,8 @@
 1 Blade Splicer
 1 Snow-Covered Swamp
 1 Dark Confidant
-1 Luminous Broodmoth
 1 Spirit of the Labyrinth
+1 Luminous Broodmoth
 2 Dark Confidant
 3 Dark Confidant
 1 Bonecrusher Giant
@@ -81,16 +81,15 @@
 2 Horizon Canopy
 1 Blast Zone
 2 Cavern of Souls
-1 Thraben Inspector
-2 Thraben Inspector
+1 Shambling Vent
 1 Kor Firewalker
 1 Mirran Crusader
-1 Shambling Vent
-2 Kor Firewalker
 2 Shambling Vent
-4 Silent Clearing
-1 Brushland
+2 Kor Firewalker
+1 Thraben Inspector
+2 Thraben Inspector
 1 Snow-Covered Forest
+1 Brushland
 1 Knight of Autumn
 1 Noble Hierarch
 1 Razorverge Thicket
@@ -102,17 +101,17 @@
 3 Brushland
 3 Horizon Canopy
 3 Razorverge Thicket
-4 Brushland
 4 Noble Hierarch
+4 Brushland
 4 Horizon Canopy
-1 Banishing Light
 1 Aven Mindcensor
+1 Banishing Light
 1 Winds of Abandon
 1 Cast Out
 1 Rest in Peace
 1 Eternal Scourge
-2 Banishing Light
 2 Scavenger Grounds
+2 Banishing Light
 2 Winds of Abandon
 2 Aven Mindcensor
 2 Rest in Peace
@@ -120,3 +119,4 @@
 3 Eternal Scourge
 3 Scavenger Grounds
 4 Eternal Scourge
+4 Silent Clearing

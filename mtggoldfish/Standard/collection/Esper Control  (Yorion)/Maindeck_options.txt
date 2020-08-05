@@ -34,8 +34,8 @@
 2 Omen of the Sun
 1 Doom Foretold
 1 Oath of Kaya
-2 Watery Grave
 2 Doom Foretold
+2 Watery Grave
 2 Godless Shrine
 3 Doom Foretold
 3 Godless Shrine
@@ -81,13 +81,13 @@
 2 Swamp
 1 Temple of Deceit
 1 Elite Guardmage
-1 Into the Story
 1 Teferi's Tutelage
+1 Into the Story
 1 Overwhelmed Apprentice
 1 Dovin's Acuity
+2 Elite Guardmage
 2 Teferi's Tutelage
 2 Into the Story
-2 Elite Guardmage
 2 Overwhelmed Apprentice
 2 Dovin's Acuity
 3 Elite Guardmage
@@ -101,19 +101,19 @@
 1 Devious Cover-Up
 1 Karn's Bastion
 1 Mu Yanling, Sky Dancer
-1 Heliod's Intervention
 1 Dovin, Grand Arbiter
+1 Heliod's Intervention
 1 God-Eternal Kefnet
 1 God-Eternal Oketra
 1 Gideon Blackblade
 2 Ugin, the Ineffable
 2 Devious Cover-Up
-2 Heliod's Intervention
 2 Dovin, Grand Arbiter
 2 Time Wipe
+2 Heliod's Intervention
 2 Blast Zone
-3 Omen of the Sun
 3 Castle Vantress
+3 Omen of the Sun
 3 Ugin, the Ineffable
 3 Dovin, Grand Arbiter
 3 Time Wipe
@@ -138,14 +138,14 @@
 2 Banishing Light
 4 Archon of Sun's Grace
 1 Neutralize
+1 Swift Response
 1 Gadwick, the Wizened
 1 Baneslayer Angel
-1 Swift Response
 1 Faith's Fetters
-2 Gadwick, the Wizened
 2 Neutralize
 2 Radiant Fountain
 2 Swift Response
+2 Gadwick, the Wizened
 2 Baneslayer Angel
 2 Faith's Fetters
 3 Neutralize
@@ -203,12 +203,12 @@
 2 Heartless Act
 2 Davriel, Rogue Shadowmage
 2 Rewind
-3 Thought Erasure
 3 Temple of Deceit
 3 Heartless Act
+3 Thought Erasure
 3 Ugin, the Spirit Dragon
 3 Absorb
-4 Thought Erasure
 4 Temple of Deceit
+4 Thought Erasure
 4 Heartless Act
 4 Absorb

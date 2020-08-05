@@ -1,14 +1,10 @@
-1 Sprite Dragon
-1 Spirebluff Canal
-2 Sprite Dragon
-3 Sprite Dragon
+1 Fiery Islet
 1 Bedlam Reveler
 1 Mutagenic Growth
 1 Arid Mesa
 1 Light Up the Stage
 2 Bedlam Reveler
 2 Mutagenic Growth
-2 Wooded Foothills
 2 Light Up the Stage
 3 Mutagenic Growth
 3 Manamorphose
@@ -17,15 +13,61 @@
 4 Lava Dart
 4 Manamorphose
 4 Light Up the Stage
-1 Sacred Foundry
-1 Sunbaked Canyon
-2 Sunbaked Canyon
-3 Sunbaked Canyon
+1 Scalding Tarn
+1 Steam Vents
+2 Steam Vents
+1 Sprite Dragon
+1 Spirebluff Canal
+2 Sprite Dragon
+3 Sprite Dragon
+1 Polluted Delta
+1 Island
+1 Watery Grave
+2 Watery Grave
+2 Polluted Delta
+3 Polluted Delta
+4 Polluted Delta
+1 Drown in the Loch
+1 Serum Visions
+1 Mana Leak
+1 Inquisition of Kozilek
+1 Thought Scour
+1 Snapcaster Mage
+2 Mana Leak
+2 Thought Scour
+2 Scalding Tarn
+2 Inquisition of Kozilek
+2 Serum Visions
+3 Thought Scour
+3 Serum Visions
+4 Serum Visions
+4 Thought Scour
+1 Dreadhorde Arcanist
+1 Kiln Fiend
+1 Kroxa, Titan of Death's Hunger
 1 Darkslick Shores
 2 Darkslick Shores
+1 Stormwing Entity
+1 Gut Shot
+1 Opt
+2 Fiery Islet
+2 Stormwing Entity
+2 Gut Shot
+2 Spirebluff Canal
+2 Arid Mesa
+2 Opt
+3 Gut Shot
+3 Spirebluff Canal
+3 Stormwing Entity
+3 Fiery Islet
+3 Opt
+3 Arid Mesa
+3 Wooded Foothills
+4 Stormwing Entity
+4 Spirebluff Canal
 1 Crash Through
-1 Inspiring Vantage
 1 Seeker of the Way
+1 Inspiring Vantage
 1 Monastery Mentor
 1 Boros Charm
 2 Crash Through
@@ -41,56 +83,16 @@
 4 Mutagenic Growth
 4 Seeker of the Way
 4 Inspiring Vantage
-1 Of One Mind
 1 Young Pyromancer
+1 Of One Mind
 1 Lurrus of the Dream-Den
+2 Young Pyromancer
 2 Lurrus of the Dream-Den
 2 Unearth
-2 Young Pyromancer
 3 Young Pyromancer
 3 Darkslick Shores
-4 Sprite Dragon
 4 Young Pyromancer
-1 Dreadhorde Arcanist
-1 Seal of Fire
-1 Blackcleave Cliffs
-1 Abbot of Keral Keep
-2 Seal of Fire
-2 Blackcleave Cliffs
-2 Cling to Dust
-2 Blood Crypt
-2 Abbot of Keral Keep
-3 Abbot of Keral Keep
-3 Seal of Fire
-3 Cling to Dust
-3 Blackcleave Cliffs
-3 Thoughtseize
-3 Bloodstained Mire
-3 Fatal Push
-4 Abbot of Keral Keep
-4 Blackcleave Cliffs
-4 Thoughtseize
-4 Bloodstained Mire
-4 Mishra's Bauble
-1 Fiery Islet
-1 Gut Shot
-1 Opt
-1 Stormwing Entity
-2 Fiery Islet
-2 Gut Shot
-2 Stormwing Entity
-2 Spirebluff Canal
-2 Arid Mesa
-2 Opt
-3 Gut Shot
-3 Fiery Islet
-3 Stormwing Entity
-3 Opt
-3 Arid Mesa
-3 Spirebluff Canal
-3 Wooded Foothills
-4 Stormwing Entity
-4 Spirebluff Canal
+4 Sprite Dragon
 1 Spell Pierce
 1 Force of Negation
 1 Vantress Gargoyle
@@ -109,9 +111,9 @@
 3 Vantress Gargoyle
 3 Thieves' Guild Enforcer
 3 Watery Grave
+3 Drown in the Loch
 3 Snapcaster Mage
 3 Scalding Tarn
-3 Drown in the Loch
 3 Delver of Secrets
 4 Thieves' Guild Enforcer
 4 Drown in the Loch
@@ -119,7 +121,6 @@
 4 Scalding Tarn
 1 Godless Shrine
 1 Curious Obsession
-1 Hateful Eidolon
 1 Dead Weight
 1 Sunken Ruins
 1 Teferi, Time Raveler
@@ -133,31 +134,32 @@
 1 Remand
 1 Seachrome Coast
 1 Hallowed Fountain
+1 Hateful Eidolon
 1 Silent Clearing
 1 Supreme Phantom
 1 Plains
 1 Mogis's Favor
 2 Curious Obsession
-2 Hateful Eidolon
 2 Spell Pierce
 2 Dead Weight
-2 Tallowisp
+2 Seachrome Coast
 2 Supreme Phantom
 2 Flooded Strand
 2 Island
 2 Remand
 2 Rattlechains
-2 Seachrome Coast
+2 Tallowisp
+2 Hateful Eidolon
 2 Mausoleum Wanderer
 2 Spell Queller
 2 Force of Negation
 3 Curious Obsession
-3 Hateful Eidolon
 3 Force of Negation
 3 Dead Weight
 3 Flooded Strand
 3 Spell Queller
 3 Mausoleum Wanderer
+3 Hateful Eidolon
 3 Supreme Phantom
 3 Rattlechains
 3 Tallowisp

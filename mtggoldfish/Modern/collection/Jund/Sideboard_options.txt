@@ -1,13 +1,13 @@
-1 Damping Sphere
-1 Plague Engineer
-2 Plague Engineer
+1 Klothys, God of Destiny
 1 Fulminator Mage
 2 Fulminator Mage
-2 Damping Sphere
+1 Plague Engineer
 1 Anger of the Gods
+1 Damping Sphere
 1 Engineered Explosives
+2 Plague Engineer
 3 Fulminator Mage
-1 Klothys, God of Destiny
+2 Damping Sphere
 1 Maelstrom Pulse
 4 Fulminator Mage
 1 Surgical Extraction
@@ -15,11 +15,6 @@
 2 Anger of the Gods
 1 Grafdigger's Cage
 2 Maelstrom Pulse
-1 Pillage
-2 Pillage
-1 Veil of Summer
-2 Veil of Summer
-3 Pillage
 1 Choke
 1 Dragon's Claw
 1 Doom Blade
@@ -32,11 +27,16 @@
 1 Seal of Primordium
 1 Tectonic Edge
 2 Tectonic Edge
-1 Platinum Emperion
+1 Pillage
+2 Pillage
 1 Madcap Experiment
+1 Platinum Emperion
+1 Veil of Summer
 2 Madcap Experiment
 2 Platinum Emperion
+2 Veil of Summer
 3 Madcap Experiment
+3 Pillage
 4 Madcap Experiment
 1 Kolaghan's Command
 1 Blood Moon
@@ -45,6 +45,7 @@
 3 Anger of the Gods
 1 Weather the Storm
 1 Huntmaster of the Fells
+1 Ghost Quarter
 1 Liliana, the Last Hope
 1 Damnation
 1 Seal of Fire
@@ -61,9 +62,9 @@
 1 Unearth
 1 Kiln Fiend
 1 Assassin's Trophy
-2 Unearth
 2 Kiln Fiend
 2 Assassin's Trophy
+2 Unearth
 3 Unearth
 3 Kiln Fiend
 3 Terminate
