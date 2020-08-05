@@ -1,57 +1,63 @@
 1 Swamp
-1 Eliminate
 1 Fabled Passage
 1 Plains
 2 Fabled Passage
+1 Eliminate
 1 Ritual of Soot
 2 Ritual of Soot
 3 Fabled Passage
 4 Thought Erasure
 4 Fabled Passage
-2 Island
 1 Shark Typhoon
-2 Extinction Event
-1 Zagoth Triome
-1 Uro, Titan of Nature's Wrath
-1 Growth Spiral
-1 Breeding Pool
-1 Forest
-2 Uro, Titan of Nature's Wrath
-2 Growth Spiral
-2 Breeding Pool
-3 Uro, Titan of Nature's Wrath
-3 Breeding Pool
+1 Mountain
+2 Island
 1 Omen of the Sea
 2 Omen of the Sea
 3 Omen of the Sea
 4 Omen of the Sea
-1 Steam Vents
-1 Mountain
-3 Cry of the Carnarium
-4 Cry of the Carnarium
+1 Uro, Titan of Nature's Wrath
+1 Breeding Pool
+1 Forest
+2 Uro, Titan of Nature's Wrath
+2 Breeding Pool
+3 Uro, Titan of Nature's Wrath
+3 Breeding Pool
+2 Extinction Event
+1 Zagoth Triome
+1 Growth Spiral
+2 Growth Spiral
 2 Plains
 2 Shark Typhoon
+1 Steam Vents
+4 Uro, Titan of Nature's Wrath
+4 Breeding Pool
+3 Cry of the Carnarium
+4 Cry of the Carnarium
 2 Zagoth Triome
 3 Zagoth Triome
 3 Growth Spiral
-4 Uro, Titan of Nature's Wrath
-4 Breeding Pool
 4 Growth Spiral
+2 Forest
 2 Swamp
 2 Heartless Act
 2 Eliminate
 3 Eliminate
 3 Shark Typhoon
-2 Forest
-4 Zagoth Triome
-1 Narset of the Ancient Way
-1 Aether Gust
+1 Temple of Enlightenment
 1 Hydroid Krasis
 1 Temple Garden
 2 Hydroid Krasis
 2 Temple Garden
 3 Temple Garden
 4 Temple Garden
+4 Zagoth Triome
+1 Nissa, Who Shakes the World
+2 Nissa, Who Shakes the World
+3 Nissa, Who Shakes the World
+1 Aether Gust
+1 Narset of the Ancient Way
+3 Oath of Kaya
+2 Temple of Enlightenment
 4 Shark Typhoon
 1 Dovin's Veto
 1 Indatha Triome
@@ -59,32 +65,41 @@
 2 Indatha Triome
 3 Indatha Triome
 4 Indatha Triome
-3 Oath of Kaya
-1 Temple of Enlightenment
-2 Temple of Enlightenment
 1 Teferi, Master of Time
 3 Island
 1 Ashiok, Nightmare Muse
+1 Kenrith, the Returned King
+1 Brazen Borrower
+2 Brazen Borrower
+1 Temple of Plenty
+1 Shatter the Sky
+2 Shatter the Sky
+3 Shatter the Sky
+3 Hydroid Krasis
+4 Nissa, Who Shakes the World
 1 Overgrown Tomb
 2 Overgrown Tomb
 3 Overgrown Tomb
 4 Overgrown Tomb
-1 Nissa, Who Shakes the World
-2 Nissa, Who Shakes the World
-3 Nissa, Who Shakes the World
-4 Nissa, Who Shakes the World
+1 Jolrael, Mwonvuli Recluse
+2 Jolrael, Mwonvuli Recluse
+1 Ketria Triome
+2 Ketria Triome
+3 Ketria Triome
+4 Ketria Triome
+1 Wilt
 1 Yorion, Sky Nomad
 1 Nightpack Ambusher
-1 Wilt
 1 Mythos of Nethroi
 2 Mythos of Nethroi
 2 Nightpack Ambusher
 3 Mythos of Nethroi
 4 Mythos of Nethroi
-1 Ugin, the Spirit Dragon
+2 Steam Vents
 1 Castle Vantress
 1 Kaya, Orzhov Usurper
 1 Enter the God-Eternals
+1 Ugin, the Spirit Dragon
 1 Murderous Rider
 2 Teferi, Master of Time
 2 Ugin, the Spirit Dragon
@@ -114,29 +129,20 @@
 1 Thirst for Meaning
 1 Migration Path
 1 Neutralize
-1 Temple of Plenty
-1 Shatter the Sky
 1 Temple of Mystery
 2 Neutralize
-2 Shatter the Sky
 2 Migration Path
 2 Temple of Mystery
-3 Shatter the Sky
-3 Hydroid Krasis
 3 Forest
 3 Temple of Mystery
-3 Temple of Enlightenment
 3 Plains
 3 Migration Path
+3 Temple of Enlightenment
 4 Shatter the Sky
 4 Temple of Enlightenment
 4 Hydroid Krasis
 4 Temple of Mystery
 4 Forest
-2 Steam Vents
-1 Kenrith, the Returned King
-1 Brazen Borrower
-2 Brazen Borrower
 3 Brazen Borrower
 2 Aether Gust
 1 Discontinuity
@@ -144,14 +150,19 @@
 1 Mazemind Tome
 1 Liliana, Waker of the Dead
 2 Discontinuity
-2 Liliana, Waker of the Dead
 2 Mazemind Tome
+2 Liliana, Waker of the Dead
+1 Llanowar Visionary
+1 Glass Casket
+2 Llanowar Visionary
+2 Temple of Plenty
+2 Glass Casket
+3 Jolrael, Mwonvuli Recluse
+3 Llanowar Visionary
 1 Vraska, Golgari Queen
 1 Drown in the Loch
 1 Opt
-1 Jolrael, Mwonvuli Recluse
 1 Castle Locthwain
-2 Jolrael, Mwonvuli Recluse
 2 Drown in the Loch
 2 Opt
 3 Dovin's Veto
@@ -159,22 +170,17 @@
 3 Drown in the Loch
 3 Temple of Silence
 1 Primal Might
-1 Ketria Triome
 1 Negate
 1 Lazav, the Multifarious
 2 Primal Might
 2 Negate
 2 Lazav, the Multifarious
-2 Ketria Triome
 3 Negate
 3 Primal Might
 3 Lazav, the Multifarious
-3 Ketria Triome
 4 Primal Might
 4 Negate
-4 Ketria Triome
 4 Brazen Borrower
-1 Lavabrink Venturer
 1 Sacred Foundry
 1 Scorching Dragonfire
 1 Justice Strike
@@ -183,6 +189,7 @@
 1 God-Eternal Kefnet
 1 Aurelia, Exemplar of Justice
 1 Storm's Wrath
+1 Lavabrink Venturer
 1 The Royal Scions
 2 Kenrith, the Returned King
 2 Dream Trawler
