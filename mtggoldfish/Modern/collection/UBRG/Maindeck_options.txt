@@ -19,8 +19,8 @@
 1 Zagoth Triome
 6 Snow-Covered Island
 3 Wilderness Reclamation
-1 Snow-Covered Swamp
 1 Watery Grave
+1 Snow-Covered Swamp
 1 Fatal Push
 2 Fatal Push
 3 Fatal Push
@@ -41,9 +41,9 @@
 1 Dead of Winter
 2 Search for Azcanta
 1 Snow-Covered Mountain
-1 Serum Visions
 1 Chandra, Torch of Defiance
 1 Gemstone Caverns
+1 Serum Visions
 1 Walk the Aeons
 1 Lonely Sandbar
 1 Time Warp
@@ -54,23 +54,23 @@
 3 Wrenn and Six
 3 Time Warp
 3 Serum Visions
+4 Serum Visions
 4 Time Warp
 4 Wrenn and Six
-4 Serum Visions
 7 Snow-Covered Island
 1 Hinterland Harbor
 1 Flooded Grove
 1 Bojuka Bog
 1 Spell Snare
+1 Temple Garden
 1 Supreme Verdict
 1 Hallowed Fountain
-1 Temple Garden
 1 Path to Exile
 2 Path to Exile
-3 Path to Exile
 3 Flooded Strand
-4 Flooded Strand
+3 Path to Exile
 4 Path to Exile
+4 Flooded Strand
 1 Mana Leak
 1 Brazen Borrower
 1 Ice-Fang Coatl
@@ -84,8 +84,8 @@
 4 Archmage's Charm
 1 Exhaustion
 2 Chandra, Torch of Defiance
-1 Thought Scour
 1 Expansion/Explosion
+1 Thought Scour
 2 Snapcaster Mage
 2 Thought Scour
 3 Thought Scour
@@ -96,8 +96,8 @@
 2 Teferi, Time Raveler
 4 Force of Negation
 1 Aether Gust
-1 Dismember
 1 Repeal
+1 Dismember
 2 Mana Leak
 1 Jace, Wielder of Mysteries
 2 Spell Snare
@@ -109,10 +109,10 @@
 1 Temur Charm
 2 Gemstone Caverns
 2 Temur Charm
-1 Ghost Quarter
 1 Search for Tomorrow
-2 Supreme Verdict
+1 Ghost Quarter
 2 Search for Tomorrow
+2 Supreme Verdict
 1 Windswept Heath
 1 Prairie Stream
 1 Plains
@@ -124,24 +124,24 @@
 1 Yavimaya Coast
 1 Waterlogged Grove
 1 Temple of Mystery
-2 Dismember
-2 Repeal
 2 Engineered Explosives
+2 Repeal
+2 Dismember
 3 Field of the Dead
 3 Mana Leak
 3 Hour of Promise
 1 Prismatic Vista
-1 Eliminate
 1 Overgrown Tomb
+1 Eliminate
 2 Eliminate
 4 Fatal Push
 1 Frantic Inventory
 1 Lumbering Falls
 2 Frantic Inventory
 2 Forest
-3 Frantic Inventory
 3 Island
-4 Frantic Inventory
+3 Frantic Inventory
 4 Shark Typhoon
-4 Island
+4 Frantic Inventory
 5 Island
+4 Island

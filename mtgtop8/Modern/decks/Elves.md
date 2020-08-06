@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)    |                    1|[Necromentia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485439)        |
-|                    1|[Elvish Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175124)   |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                    1|[Elvish Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175124)   |                    1|[Necromentia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485439)        |
+|                    1|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)    |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                    1|[Llanowar Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129627)    |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)    |
 |                    1|[Blooming Marsh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417816)     |                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)    |
 |                    1|[Chord of Calling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383209)   |                    1|[Leyline of Vitality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205031)|
