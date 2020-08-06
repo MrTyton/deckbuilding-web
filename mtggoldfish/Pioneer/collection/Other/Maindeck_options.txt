@@ -103,10 +103,10 @@
 2 Dragonskull Summit
 3 Kroxa, Titan of Death's Hunger
 3 Kolaghan's Command
+3 Liliana, Waker of the Dead
 3 Davriel, Rogue Shadowmage
 3 Dragonskull Summit
 3 Blood Crypt
-3 Liliana, Waker of the Dead
 3 Waste Not
 4 Kroxa, Titan of Death's Hunger
 4 Blood Crypt
@@ -114,29 +114,29 @@
 4 Liliana, Waker of the Dead
 4 Dragonskull Summit
 1 Woodland Cemetery
-1 Pelt Collector
 1 Hashep Oasis
 1 Barkhide Troll
-1 Avatar of the Resolute
 1 Experiment One
-2 Pelt Collector
+1 Avatar of the Resolute
+1 Pelt Collector
 2 Hashep Oasis
 2 Avatar of the Resolute
 2 Experiment One
+2 Pelt Collector
 3 Pelt Collector
-3 Scavenging Ooze
 3 Avatar of the Resolute
+3 Scavenging Ooze
 3 Experiment One
 4 Pelt Collector
 4 Experiment One
 1 Drown in the Loch
+3 Island
 1 Hangarback Walker
 2 Hangarback Walker
 3 Hangarback Walker
 4 Hangarback Walker
 1 Scrapheap Scrounger
 2 Scrapheap Scrounger
-3 Island
 1 Mana Confluence
 1 Rankle, Master of Pranks
 2 Rankle, Master of Pranks
@@ -193,6 +193,8 @@
 2 Grisly Salvage
 3 Grisly Salvage
 4 Grisly Salvage
+1 Opt
+2 Opt
 1 Lurrus of the Dream-Den
 1 Castle Ardenvale
 3 Mutavault
@@ -216,8 +218,6 @@
 1 Zetalpa, Primal Dawn
 1 Blossoming Defense
 2 Blossoming Defense
-1 Opt
-2 Opt
 1 Torrential Gearhulk
 1 Teferi, Master of Time
 1 Hero's Downfall
@@ -256,8 +256,8 @@
 2 Brazen Borrower
 2 Thieves' Guild Enforcer
 2 Glint-Sleeve Siphoner
-2 Mystical Dispute
 2 Choked Estuary
+2 Mystical Dispute
 3 Thieves' Guild Enforcer
 3 Brazen Borrower
 3 Glint-Sleeve Siphoner
@@ -277,8 +277,8 @@
 4 Nissa, Voice of Zendikar
 1 Lumbering Falls
 1 Botanical Sanctum
-1 Eternal Scourge
 1 Tasigur, the Golden Fang
+1 Eternal Scourge
 1 Karn, Scion of Urza
 1 Tale's End
 1 Heartless Act
@@ -287,8 +287,8 @@
 1 Uro, Titan of Nature's Wrath
 2 Lumbering Falls
 2 Eternal Scourge
-2 Heartless Act
 2 Karn, Scion of Urza
+2 Heartless Act
 2 Botanical Sanctum
 2 Eat to Extinction
 2 Uro, Titan of Nature's Wrath
@@ -312,15 +312,15 @@
 4 Knight of the Ebon Legion
 1 Oath of Nissa
 1 Selfless Savior
-1 Incubation/Incongruity
 1 Vivien, Champion of the Wilds
 1 Silhana Wayfinder
+1 Incubation/Incongruity
 1 Crypt of the Eternals
 2 Oath of Nissa
 2 Selfless Savior
-2 Incubation/Incongruity
 2 Radiant Fountain
 2 Vivien, Champion of the Wilds
+2 Incubation/Incongruity
 2 Crypt of the Eternals
 2 Silhana Wayfinder
 3 Mana Confluence
@@ -349,9 +349,9 @@
 2 Thassa, Deep-Dwelling
 2 Elite Guardmage
 2 Reflector Mage
-2 Declaration in Stone
 2 Panharmonicon
 2 Thalia's Lieutenant
+2 Declaration in Stone
 2 Cloudblazer
 3 Elite Guardmage
 3 Thraben Inspector
@@ -389,26 +389,26 @@
 1 Deafening Clarion
 1 Temple of Triumph
 1 Transmogrify
+1 Gideon's Triumph
 1 Elspeth, Sun's Champion
 1 Nahiri, the Harbinger
 1 Clifftop Retreat
 1 Void Winnower
-1 Gideon's Triumph
+2 Temple of Triumph
 2 Shatter the Sky
 2 The Birth of Meletis
-2 Temple of Triumph
 2 Transmogrify
 2 Heart of Kiran
 2 Deafening Clarion
 2 Nahiri, the Harbinger
-3 Temple of Triumph
 3 The Birth of Meletis
 3 Transmogrify
+3 Temple of Triumph
 3 Heart of Kiran
 3 Deafening Clarion
 3 Gideon, Ally of Zendikar
-4 Temple of Triumph
 4 The Birth of Meletis
+4 Temple of Triumph
 4 Deafening Clarion
 4 Heart of Kiran
 4 Transmogrify
@@ -482,20 +482,25 @@
 4 Dubious Challenge
 4 See the Unwritten
 4 Worldspine Wurm
+1 Shivan Reef
+1 Spirebluff Canal
+2 Shivan Reef
+2 Spirebluff Canal
+3 Spirebluff Canal
+4 Spirebluff Canal
+4 Mountain
 1 Questing Beast
 2 Questing Beast
-4 Mountain
 1 Chandra, Torch of Defiance
-1 Glorybringer
 2 Chandra, Torch of Defiance
-2 Glorybringer
 1 Garruk's Harbinger
 1 Bonecrusher Giant
-1 Rekindling Phoenix
 1 Gruul Spellbreaker
+1 Rekindling Phoenix
 1 Bonders' Enclave
 1 Stomping Ground
 1 Kiora, Behemoth Beckoner
+1 Glorybringer
 1 Game Trail
 1 Klothys, God of Destiny
 1 Rootbound Crag
@@ -507,6 +512,7 @@
 2 Rekindling Phoenix
 2 Stomping Ground
 2 Bonders' Enclave
+2 Glorybringer
 2 Rootbound Crag
 2 Game Trail
 3 Rootbound Crag
@@ -521,19 +527,20 @@
 4 Rekindling Phoenix
 4 Glorybringer
 4 Stomping Ground
-1 Shivan Reef
-1 Spirebluff Canal
-2 Shivan Reef
-2 Spirebluff Canal
-3 Spirebluff Canal
-4 Spirebluff Canal
+1 Steam Vents
+2 Steam Vents
+3 Shivan Reef
+3 Opt
+3 Steam Vents
+4 Steam Vents
+4 Shivan Reef
+4 Opt
 1 Shock
 1 Rapid Hybridization
 1 Soul-Scar Mage
 1 Crash Through
 1 Warlord's Fury
 1 Titan's Strength
-1 Steam Vents
 1 Treasure Cruise
 1 Wild Slash
 1 Monastery Swiftspear
@@ -543,7 +550,6 @@
 2 Monastery Swiftspear
 2 Wild Slash
 2 Stormwing Entity
-2 Steam Vents
 2 Soul-Scar Mage
 2 Crash Through
 2 Titan's Strength
@@ -553,35 +559,64 @@
 3 Wild Slash
 3 Shock
 3 Treasure Cruise
-3 Shivan Reef
 3 Monastery Swiftspear
 3 Sprite Dragon
 3 Stormwing Entity
-3 Opt
-3 Steam Vents
 3 Soul-Scar Mage
 3 Crash Through
-4 Steam Vents
 4 Stormwing Entity
 4 Shock
 4 Wild Slash
 4 Sprite Dragon
-4 Shivan Reef
 4 Soul-Scar Mage
-4 Opt
 4 Monastery Swiftspear
 4 Treasure Cruise
 4 Crash Through
+1 See the Truth
+1 Forbidden Friendship
+1 Indomitable Creativity
+1 Sulfur Falls
+1 Chandra, Acolyte of Flame
+1 Terror of the Peaks
+1 Anger of the Gods
+1 Irencrag Feat
+1 Pirate's Pillage
+1 Angrath's Marauders
+1 Fire Prophecy
+2 See the Truth
+2 Terror of the Peaks
+2 Forbidden Friendship
+2 Indomitable Creativity
+2 Sulfur Falls
+2 Chandra, Acolyte of Flame
+2 Anger of the Gods
+2 Pirate's Pillage
+2 Fire Prophecy
+3 Sulfur Falls
+3 See the Truth
+3 Chandra, Acolyte of Flame
+3 Terror of the Peaks
+3 Forbidden Friendship
+3 Indomitable Creativity
+3 Anger of the Gods
+3 Pirate's Pillage
+3 Fire Prophecy
+4 Terror of the Peaks
+4 Forbidden Friendship
+4 Indomitable Creativity
+4 Chandra, Acolyte of Flame
+4 Pirate's Pillage
+4 Sulfur Falls
 1 Skewer the Critics
 1 Metallic Rebuke
 1 Shrapnel Blast
-1 Ensoul Artifact
 1 Spire of Industry
+1 Ensoul Artifact
 1 Bomat Courier
 1 Darksteel Citadel
+1 Hope of Ghirapur
 1 Gingerbrute
 1 Ghostfire Blade
-1 Hope of Ghirapur
 2 Skewer the Critics
 2 Metallic Rebuke
 2 Spire of Industry
@@ -623,14 +658,14 @@
 2 Flourishing Fox
 2 Drannith Healer
 2 Valiant Rescuer
-2 Drannith Stinger
 2 Go for Blood
 2 Footfall Crater
+2 Drannith Stinger
 2 Flameblade Adept
 2 Battlefield Forge
 2 Djeru's Renunciation
-2 Inspiring Vantage
 2 Hollow One
+2 Inspiring Vantage
 3 Cast Out
 3 Flourishing Fox
 3 Zenith Flare
@@ -648,12 +683,12 @@
 4 Flourishing Fox
 4 Drannith Healer
 4 Djeru's Renunciation
-4 Drannith Stinger
-4 Flameblade Adept
 4 Inspiring Vantage
+4 Flameblade Adept
 4 Hollow One
 4 Go for Blood
 4 Battlefield Forge
+4 Drannith Stinger
 4 Footfall Crater
 1 Sylvan Caryatid
 1 Gifted Aetherborn
@@ -690,12 +725,12 @@
 1 Karn's Bastion
 1 Gideon's Intervention
 1 Geier Reach Sanitarium
-1 Swallow Whole
 1 Weatherlight
 1 Hushbringer
 1 Authority of the Consuls
-1 Spear of Heliod
+1 Swallow Whole
 1 Idyllic Grange
+1 Spear of Heliod
 2 Karn, the Great Creator
 2 Blast Zone
 2 Lurrus of the Dream-Den
@@ -712,55 +747,3 @@
 12 Plains
 13 Plains
 14 Plains
-1 Ash Zealot
-1 Leyline of Combustion
-1 Fanatic of Mogis
-1 Castle Embereth
-1 Torbran, Thane of Red Fell
-1 Burning-Tree Emissary
-1 Eidolon of the Great Revel
-1 Ramunap Ruins
-1 Boros Reckoner
-1 Nykthos, Shrine to Nyx
-1 Anax, Hardened in the Forge
-2 Ash Zealot
-2 Leyline of Combustion
-2 Anax, Hardened in the Forge
-2 Burning-Tree Emissary
-2 Fanatic of Mogis
-2 Nykthos, Shrine to Nyx
-2 Torbran, Thane of Red Fell
-2 Castle Embereth
-2 Eidolon of the Great Revel
-2 Ramunap Ruins
-2 Boros Reckoner
-3 Ash Zealot
-3 Chandra, Torch of Defiance
-3 Leyline of Combustion
-3 Nykthos, Shrine to Nyx
-3 Torbran, Thane of Red Fell
-3 Eidolon of the Great Revel
-3 Ramunap Ruins
-3 Boros Reckoner
-3 Anax, Hardened in the Forge
-3 Burning-Tree Emissary
-3 Fanatic of Mogis
-4 Leyline of Combustion
-4 Boros Reckoner
-4 Burning-Tree Emissary
-4 Eidolon of the Great Revel
-4 Fanatic of Mogis
-4 Nykthos, Shrine to Nyx
-4 Ash Zealot
-4 Ramunap Ruins
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain
-15 Mountain

@@ -1,6 +1,3 @@
-7 Forest
-1 Pelt Collector
-2 Pelt Collector
 3 Pelt Collector
 4 Pelt Collector
 1 Conclave Mentor
@@ -8,7 +5,6 @@
 2 Conclave Mentor
 3 Conclave Mentor
 4 Conclave Mentor
-2 Fabled Passage
 1 Basri Ket
 1 Venerated Loxodon
 1 Huatli's Raptor
@@ -22,24 +18,22 @@
 4 Venerated Loxodon
 8 Forest
 1 Growth-Chamber Guardian
-1 Karn's Bastion
 1 Chamber Sentry
+1 Karn's Bastion
 1 Basri's Lieutenant
 2 Growth-Chamber Guardian
 2 Chamber Sentry
+2 Fabled Passage
 2 Basri's Lieutenant
 3 Growth-Chamber Guardian
 3 Chamber Sentry
 4 Growth-Chamber Guardian
 4 Chamber Sentry
 1 Indatha Triome
+1 Gods Willing
+2 Gods Willing
 3 Solid Footing
-1 Healer's Hawk
-2 Healer's Hawk
-1 Castle Ardenvale
-1 Setessan Training
-2 Castle Ardenvale
-2 Setessan Training
+3 Glaring Aegis
 2 Unbreakable Formation
 1 Seasoned Hallowblade
 2 Seasoned Hallowblade
@@ -123,8 +117,6 @@
 1 Questing Beast
 1 The Great Henge
 2 The Great Henge
-1 Hushbringer
-3 Gods Willing
 3 Basri's Lieutenant
 1 Lurrus of the Dream-Den
 1 Primal Might
@@ -134,8 +126,8 @@
 1 Lovestruck Beast
 2 Questing Beast
 2 Primal Might
-2 Lurrus of the Dream-Den
 2 Gideon Blackblade
+2 Lurrus of the Dream-Den
 2 Bronzehide Lion
 2 Lovestruck Beast
 3 Lurrus of the Dream-Den
@@ -147,16 +139,16 @@
 4 Lovestruck Beast
 4 Questing Beast
 4 Bronzehide Lion
+1 Healer's Hawk
+2 Healer's Hawk
+4 Solid Footing
 1 Speaker of the Heavens
 2 Speaker of the Heavens
 4 Glaring Aegis
-4 Solid Footing
-1 Wildwood Scourge
-2 Wildwood Scourge
-3 Unbreakable Formation
-3 Wildwood Scourge
-4 Basri Ket
-4 Wildwood Scourge
+1 Castle Ardenvale
+1 Setessan Training
+2 Castle Ardenvale
+2 Setessan Training
 3 Setessan Training
 11 Plains
 1 Elspeth, Sun's Nemesis
@@ -170,27 +162,33 @@
 1 Outmuscle
 1 Renata, Called to the Hunt
 1 Evolution Sage
-2 Feat of Resistance
 2 Kronch Wrangler
 2 Ram Through
 2 Selesnya Guildgate
 2 Bloom Hulk
-2 Renata, Called to the Hunt
 2 Evolution Sage
 2 Barkhide Troll
+2 Renata, Called to the Hunt
+2 Feat of Resistance
 2 Outmuscle
-3 Feat of Resistance
 3 Kronch Wrangler
 3 Ram Through
 3 Renata, Called to the Hunt
+3 Feat of Resistance
 3 Evolution Sage
 3 Bloom Hulk
 3 Barkhide Troll
 4 Kronch Wrangler
 4 Ram Through
 4 Barkhide Troll
+4 Evolution Sage
 9 Forest
 10 Forest
 11 Forest
 12 Forest
-4 Evolution Sage
+1 Wildwood Scourge
+2 Wildwood Scourge
+3 Unbreakable Formation
+3 Wildwood Scourge
+4 Wildwood Scourge
+4 Basri Ket

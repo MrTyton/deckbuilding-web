@@ -1,19 +1,18 @@
+2 Necromentia
 2 Kalitas, Traitor of Ghet
 1 Anger of the Gods
-2 Anger of the Gods
 3 Soul-Guide Lantern
 1 Rankle, Master of Pranks
 1 Ratchet Bomb
 1 The Elderspell
 2 Rankle, Master of Pranks
+2 Anger of the Gods
 3 Necromentia
 4 Soul-Guide Lantern
-1 Duress
 1 Hangarback Walker
 1 Witch's Vengeance
 2 Hangarback Walker
 2 Witch's Vengeance
-3 Mystical Dispute
 1 Moment of Craving
 1 Ashiok's Erasure
 1 Davriel, Rogue Shadowmage
@@ -23,6 +22,7 @@
 1 Dovin's Veto
 1 Cleansing Nova
 2 Unmoored Ego
+3 Damping Sphere
 1 Jace's Defeat
 1 Heartless Act
 1 Abrupt Decay
@@ -32,6 +32,7 @@
 3 Thoughtseize
 2 Heartless Act
 3 Fatal Push
+1 Fry
 1 Gideon of the Trials
 2 Gideon of the Trials
 1 Rest in Peace
@@ -39,17 +40,20 @@
 3 Rest in Peace
 1 Deicide
 1 Ixalan's Binding
-1 Fry
 1 Baffling End
 2 Baffling End
 3 Baffling End
 4 Thoughtseize
 1 Dead Weight
+2 Fry
 1 Tireless Tracker
 1 Reclamation Sage
 2 Reclamation Sage
+4 Mystical Dispute
 1 Scrapheap Scrounger
 1 Noxious Gearhulk
+1 Abrade
+2 Abrade
 1 Legion's End
 2 Legion's End
 2 Dead Weight
@@ -59,15 +63,28 @@
 1 Gideon, Ally of Zendikar
 2 Scavenging Ooze
 2 Gideon, Ally of Zendikar
+1 Collective Brutality
+1 Disdainful Stroke
+1 Liliana's Triumph
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
+2 Collective Brutality
+2 Disdainful Stroke
 2 Duress
-1 Assassin's Trophy
 1 Thrashing Brontodon
+1 Assassin's Trophy
 1 Savage Summoning
 2 Assassin's Trophy
 2 Savage Summoning
 1 Tomik, Distinguished Advokist
 2 Tomik, Distinguished Advokist
 2 Deicide
+1 Sarkhan the Masterless
+1 Scorching Dragonfire
+1 Chandra, Heart of Fire
+1 Neutralize
+2 Chandra, Heart of Fire
+2 Neutralize
 1 Jace, Vryn's Prodigy
 1 Tale's End
 1 Jegantha, the Wellspring
@@ -91,7 +108,6 @@
 2 Infinite Obliteration
 2 Blightbeetle
 1 Forsake the Worldly
-2 Fry
 2 Forsake the Worldly
 3 Gideon of the Trials
 2 Dovin's Veto
@@ -132,24 +148,14 @@
 2 Noxious Grasp
 4 Fatal Push
 1 Pithing Needle
-1 Abrade
 1 Shatter the Sky
 1 Wear/Tear
 1 Silence
 2 Shatter the Sky
-2 Abrade
 2 Leyline of Sanctity
 2 Silence
 3 Silence
 4 Silence
-1 Collective Brutality
-1 Disdainful Stroke
-1 Liliana's Triumph
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-2 Collective Brutality
-2 Disdainful Stroke
-4 Mystical Dispute
 1 Rampaging Ferocidon
 1 Gemrazer
 1 Heaven/Earth
@@ -160,16 +166,6 @@
 3 Collective Defiance
 3 Gemrazer
 4 Collective Defiance
-1 Chandra, Awakened Inferno
-1 Goblin Chainwhirler
-1 Mizzium Mortars
-2 Chandra, Awakened Inferno
-2 Goblin Chainwhirler
-2 Mizzium Mortars
-3 Anger of the Gods
-3 Goblin Chainwhirler
-3 Mizzium Mortars
-4 Mizzium Mortars
 1 Seal Away
 1 Blessed Alliance
 1 Gideon's Intervention

@@ -45,12 +45,12 @@
 2 Liliana, Waker of the Dead
 1 Field of Ruin
 1 Archon of Sun's Grace
-1 Grasp of Darkness
-2 Grasp of Darkness
-3 Grasp of Darkness
 1 Duress
 2 Duress
 3 Duress
+1 Grasp of Darkness
+2 Grasp of Darkness
+3 Grasp of Darkness
 1 Solemn Simulacrum
 1 Ugin, the Spirit Dragon
 1 Mazemind Tome
@@ -60,8 +60,8 @@
 2 Mazemind Tome
 3 Mazemind Tome
 4 Mazemind Tome
-1 Karn, the Great Creator
 1 Teyo, the Shieldmage
+1 Karn, the Great Creator
 1 Cry of the Carnarium
 2 Karn, the Great Creator
 2 Cry of the Carnarium
@@ -75,11 +75,11 @@
 1 Light of Hope
 1 Revival / Revenge
 1 Vito, Thorn of the Dusk Rose
-1 Speaker of the Heavens
 1 Revitalize
+1 Speaker of the Heavens
 1 Radiant Fountain
-1 Indulging Patrician
 1 Sorin, Imperious Bloodlord
+1 Indulging Patrician
 2 Bloodthirsty Aerialist
 2 Scoured Barrens
 2 Consecrate / Consume
@@ -89,7 +89,6 @@
 2 Radiant Fountain
 2 Light of Hope
 2 Indulging Patrician
-3 The Birth of Meletis
 3 Bloodthirsty Aerialist
 3 Vito, Thorn of the Dusk Rose
 3 Revival / Revenge
@@ -98,6 +97,7 @@
 3 Radiant Fountain
 3 Kaya's Wrath
 3 Light of Hope
+3 The Birth of Meletis
 3 Indulging Patrician
 4 The Birth of Meletis
 4 Revitalize

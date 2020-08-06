@@ -61,8 +61,8 @@
 3 Extinction Event
 2 Teferi, Master of Time
 1 Elite Guardmage
-1 Hero of Precinct One
 1 Dire Tactics
+1 Hero of Precinct One
 1 Discovery / Dispersal
 2 Hero of Precinct One
 2 Dire Tactics
@@ -110,19 +110,19 @@
 1 Mythos of Illuna
 1 Thassa, Deep-Dwelling
 2 Mythos of Illuna
-1 Banishing Light
 1 Tranquil Cove
+1 Banishing Light
 2 Tranquil Cove
 3 Ashiok, Nightmare Muse
 4 The Birth of Meletis
 6 Plains
 1 Thief of Sanity
 1 Ominous Seas
-1 Folio of Fancies
-1 Wall of Lost Thoughts
+1 Precognitive Perception
 1 Merfolk Secretkeeper
 1 Teferi's Tutelage
 1 Ashiok, Dream Render
+1 Folio of Fancies
 1 Realm-Cloaked Giant
 1 Unexplained Vision
 1 Conclave Tribunal
@@ -130,12 +130,12 @@
 1 Teferi's Ageless Insight
 1 Gyruda, Doom of Depths
 1 Obsessive Stitcher
-1 Precognitive Perception
 1 Sage of Mysteries
 1 Arrester's Admonition
 1 Cloudkin Seer
 1 Dismal Backwater
 1 Mu Yanling, Sky Dancer
+1 Wall of Lost Thoughts
 2 Ominous Seas
 2 Merfolk Secretkeeper
 2 Dream Trawler
@@ -146,8 +146,8 @@
 2 Sage of Mysteries
 2 Conclave Tribunal
 3 Dream Trawler
-3 Teferi's Tutelage
 3 Tranquil Cove
+3 Teferi's Tutelage
 3 Merfolk Secretkeeper
 3 Conclave Tribunal
 3 Dismal Backwater
@@ -157,9 +157,9 @@
 4 Dismal Backwater
 4 Conclave Tribunal
 8 Island
-1 Neutralize
 1 Cling to Dust
 1 Solemn Simulacrum
+1 Neutralize
 1 Tyrant's Scorn
 2 The Wanderer
 1 The Elderspell
@@ -167,8 +167,8 @@
 2 Castle Vantress
 3 Eliminate
 3 Teferi, Master of Time
-1 Zagoth Triome
 1 Indatha Triome
+1 Zagoth Triome
 1 Mythos of Nethroi
 1 Forest
 2 Indatha Triome
@@ -206,12 +206,12 @@
 1 Eat to Extinction
 1 Negate
 1 Despark
-2 Banishing Light
 2 Liliana, Dreadhorde General
-2 Ugin, the Ineffable
-2 Despark
-2 Eat to Extinction
 2 Ugin, the Spirit Dragon
+2 Despark
+2 Ugin, the Ineffable
+2 Eat to Extinction
+2 Banishing Light
 2 Negate
 3 Ugin, the Ineffable
 1 Basilica Bell-Haunt

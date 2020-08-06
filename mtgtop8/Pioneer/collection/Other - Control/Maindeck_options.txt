@@ -7,13 +7,13 @@
 1 Woodland Bellower
 1 Elvish Rejuvenator
 1 Eldritch Evolution
-1 Grapple with the Past
 1 Yavimaya Coast
+1 Grapple with the Past
 1 Unesh, Criosphinx Sovereign
-1 Tasigur, the Golden Fang
 1 Cavalier of Gales
 1 Arboreal Grazer
 1 Massacre Girl
+1 Tasigur, the Golden Fang
 1 Cavalier of Night
 1 Thassa, Deep-Dwelling
 1 Neoform
@@ -71,26 +71,26 @@
 1 Kroxa, Titan of Death's Hunger
 1 Waste Not
 1 Liliana, Waker of the Dead
-1 Field of Ruin
 1 Murderous Rider
 1 Eliminate
 1 Davriel, Rogue Shadowmage
 1 Collective Brutality
 1 Hazoret the Fervent
+1 Field of Ruin
 2 Kolaghan's Command
 2 Kroxa, Titan of Death's Hunger
 2 Waste Not
 2 Davriel, Rogue Shadowmage
 2 Liliana, Waker of the Dead
-2 Field of Ruin
 2 Murderous Rider
 2 Eliminate
-2 Hazoret the Fervent
 2 Collective Brutality
+2 Hazoret the Fervent
+2 Field of Ruin
 2 Mountain
 3 Waste Not
-3 Liliana, Waker of the Dead
 3 Davriel, Rogue Shadowmage
+3 Liliana, Waker of the Dead
 3 Kolaghan's Command
 3 Kroxa, Titan of Death's Hunger
 3 Eliminate
@@ -113,11 +113,11 @@
 1 Temple of Epiphany
 1 Jace, Vryn's Prodigy
 1 Sacred Foundry
+1 Settle the Wreckage
 1 Izzet Charm
 1 Narset, Parter of Veils
 1 Dream Trawler
 1 Teferi, Time Raveler
-1 Settle the Wreckage
 1 Castle Ardenvale
 1 Collective Defiance
 1 Sulfur Falls
@@ -145,9 +145,9 @@
 2 Clifftop Retreat
 3 Narset, Parter of Veils
 3 Izzet Charm
-3 Collective Defiance
-3 Sulfur Falls
 3 Anger of the Gods
+3 Sulfur Falls
+3 Collective Defiance
 3 Raugrin Triome
 3 Teferi, Time Raveler
 3 Hallowed Fountain
@@ -183,8 +183,8 @@
 4 Ketria Triome
 4 Expansion / Explosion
 1 Drown in the Loch
-1 Tyrant's Scorn
 1 Nicol Bolas, the Ravager
+1 Tyrant's Scorn
 1 Dreadbore
 1 Watery Grave
 1 Drowned Catacomb
@@ -205,11 +205,11 @@
 3 Drowned Catacomb
 4 Opt
 4 Dreadbore
+4 Tyrant's Scorn
 4 Drown in the Loch
 4 Nicol Bolas, the Ravager
 4 Nicol Bolas, Dragon-God
 4 Watery Grave
-4 Tyrant's Scorn
 1 Doom Foretold
 1 Gideon, Ally of Zendikar
 1 Final Payment
@@ -241,17 +241,17 @@
 2 Godless Shrine
 2 Demonic Pact
 2 Gideon of the Trials
-3 Isolated Chapel
 3 Doom Foretold
 3 Shambling Vent
 3 Treacherous Blessing
-3 Flicker of Fate
 3 Plains
+3 Flicker of Fate
 3 The Birth of Meletis
 3 Oath of Kaya
 3 Trial of Ambition
 3 Godless Shrine
 3 Demonic Pact
+3 Isolated Chapel
 4 Plains
 4 Doom Foretold
 4 Shambling Vent

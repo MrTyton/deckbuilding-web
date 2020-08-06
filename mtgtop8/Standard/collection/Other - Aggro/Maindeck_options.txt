@@ -1,44 +1,34 @@
-2 Tajic, Legion's Edge
-2 Seasoned Hallowblade
-2 Winota, Joiner of Forces
-2 Selfless Savior
-2 Igneous Cur
-2 Alpine Watchdog
-2 Alpine Houndmaster
-3 Temple of Triumph
-3 Seasoned Hallowblade
-3 Tajic, Legion's Edge
-3 Selfless Savior
-3 Alpine Houndmaster
-4 Temple of Triumph
-4 Embercleave
-4 Seasoned Hallowblade
-4 Selfless Savior
-4 Alpine Houndmaster
-3 Temple of Abandon
-2 Klothys, God of Destiny
-9 Forest
-10 Forest
+1 Klothys, God of Destiny
+1 Stomping Ground
+2 Stomping Ground
+3 Stomping Ground
+1 Scavenging Ooze
+1 Radha, Heart of Keld
+1 Temple of Abandon
+1 Questing Beast
+2 Radha, Heart of Keld
+2 Scavenging Ooze
+2 Questing Beast
+2 Temple of Abandon
+3 Questing Beast
 1 Castle Embereth
 2 Castle Embereth
-4 Stomping Ground
-7 Mountain
-8 Mountain
-1 Fervent Champion
+8 Forest
+9 Forest
+10 Forest
 1 Heroic Intervention
 1 Terror of the Peaks
 2 Terror of the Peaks
 2 Heroic Intervention
 3 Heroic Intervention
-1 Gemrazer
-1 Shifting Ceratops
-1 Vivien, Monsters' Advocate
-2 Gemrazer
-2 Shifting Ceratops
+1 Domri's Ambush
+2 Domri's Ambush
 3 Radha, Heart of Keld
-4 Temple of Abandon
+4 Questing Beast
 1 The Great Henge
+3 Temple of Abandon
 2 Fabled Passage
+2 Klothys, God of Destiny
 3 Fabled Passage
 4 Fabled Passage
 1 Arboreal Grazer
@@ -46,66 +36,25 @@
 2 Arboreal Grazer
 2 Cultivate
 11 Forest
-1 Nissa, Who Shakes the World
-1 Yidaro, Wandering Monster
-1 Boon of the Wish-Giver
-1 Zenith Flare
-1 Steam Vents
-1 Hallowed Fountain
-1 Flourishing Fox
-1 Drannith Stinger
-1 Valiant Rescuer
-1 Drannith Healer
-1 Raugrin Triome
-2 Boon of the Wish-Giver
-2 Drannith Stinger
-2 Valiant Rescuer
-2 Drannith Healer
-2 Zenith Flare
-2 Hallowed Fountain
-2 Flourishing Fox
-3 Flourishing Fox
-3 Drannith Stinger
-3 Drannith Healer
-3 Zenith Flare
-3 Valiant Rescuer
-4 Flourishing Fox
-4 Valiant Rescuer
-4 Drannith Stinger
-4 Zenith Flare
-4 Drannith Healer
+4 Stomping Ground
 4 Gingerbrute
 7 Plains
 8 Plains
-1 Stonecoil Serpent
-2 Stonecoil Serpent
-1 Island
-2 Island
-3 Island
 1 Radiant Fountain
-1 Legion Warboss
-2 Legion Warboss
-3 Legion Warboss
-1 Zhur-Taa Goblin
-1 Lukka, Coppercoat Outcast
-1 Thrashing Brontodon
-1 Pelt Collector
-1 Gruul Spellbreaker
-2 Zhur-Taa Goblin
-2 Gruul Spellbreaker
-2 Pelt Collector
-3 Zhur-Taa Goblin
-3 Gemrazer
-3 Pelt Collector
 1 Castle Garenbrig
+1 Marauding Raptor
+1 Gemrazer
 1 Garruk's Harbinger
 1 Garruk, Unleashed
-1 Marauding Raptor
+1 Shifting Ceratops
+1 Vivien, Monsters' Advocate
 1 Primal Might
-2 Garruk's Harbinger
 2 Marauding Raptor
-3 Garruk's Harbinger
+2 Garruk's Harbinger
+2 Gemrazer
+2 Shifting Ceratops
 3 Marauding Raptor
+3 Garruk's Harbinger
 4 Garruk's Harbinger
 1 Bolt Hound
 1 Pack Leader
@@ -117,9 +66,9 @@
 1 Chandra, Heart of Fire
 1 Paradise Druid
 1 Domri, Anarch of Bolas
+1 Chandra, Fire Artisan
 1 Incubation Druid
 1 Sarkhan the Masterless
-1 Chandra, Fire Artisan
 1 Vivien, Arkbow Ranger
 2 Chandra, Heart of Fire
 2 Paradise Druid
@@ -130,22 +79,26 @@
 3 Paradise Druid
 3 Chandra, Heart of Fire
 3 Scavenging Ooze
+4 Temple of Abandon
 4 Paradise Druid
 4 Scavenging Ooze
-1 Lurrus of the Dream-Den
-2 Lurrus of the Dream-Den
+1 Island
+2 Island
+3 Island
 1 Swamp
 2 Swamp
 3 Swamp
 4 Swamp
-1 Blast Zone
 1 Ugin, the Spirit Dragon
 2 Ugin, the Spirit Dragon
 3 Ugin, the Spirit Dragon
 4 Ugin, the Spirit Dragon
 4 Island
 5 Island
+1 Stonecoil Serpent
+2 Stonecoil Serpent
 3 Stonecoil Serpent
+1 Blast Zone
 1 Solemn Simulacrum
 1 Interplanar Beacon
 1 Mobilized District
@@ -157,51 +110,51 @@
 1 Mystic Forge
 2 Solemn Simulacrum
 2 Palladium Myr
-2 Karn's Bastion
 2 Interplanar Beacon
 2 Radiant Fountain
 2 Steel Overseer
 2 Crystalline Giant
+2 Karn's Bastion
 2 Ugin, the Ineffable
 2 Mystic Forge
 2 Mobilized District
 3 Mystic Forge
 3 Solemn Simulacrum
-3 Crystalline Giant
+3 Karn's Bastion
 3 Palladium Myr
 3 Interplanar Beacon
 3 Radiant Fountain
 3 Steel Overseer
 3 Ugin, the Ineffable
-3 Karn's Bastion
+3 Crystalline Giant
 4 Mystic Forge
+4 Crystalline Giant
 4 Stonecoil Serpent
 4 Interplanar Beacon
 4 Palladium Myr
+4 Steel Overseer
 4 Ugin, the Ineffable
 4 Radiant Fountain
-4 Steel Overseer
 4 Solemn Simulacrum
 4 Karn's Bastion
-4 Crystalline Giant
 5 Swamp
 6 Swamp
 7 Swamp
 1 Knight of the Ebon Legion
 2 Knight of the Ebon Legion
-1 Temple of Malice
 1 Dreadhorde Butcher
 1 Priest of Forgotten Gods
 1 Fiend Artisan
 1 Claim the Firstborn
+1 Midnight Reaper
 1 Gutterbones
 1 Woe Strider
 1 Cauldron Familiar
 1 Castle Locthwain
 1 Lazotep Reaver
 1 Blood Crypt
+1 Temple of Malice
 1 Witch's Oven
-1 Midnight Reaper
 1 Mayhem Devil
 1 Murderous Rider
 1 Call of the Death-Dweller
@@ -238,51 +191,57 @@
 1 Robber of the Rich
 1 Sporeweb Weaver
 1 Scorching Dragonfire
+1 Fervent Champion
 2 Robber of the Rich
 2 Sporeweb Weaver
 2 Fervent Champion
 3 Robber of the Rich
 3 Fervent Champion
 4 Fervent Champion
+1 Lurrus of the Dream-Den
+2 Lurrus of the Dream-Den
+1 Boon of the Wish-Giver
 1 Imposing Vantasaur
 1 Startling Development
+1 Zenith Flare
+1 Steam Vents
+1 Hallowed Fountain
 1 Inspired Ultimatum
+1 Flourishing Fox
+1 Drannith Stinger
 1 Unpredictable Cyclone
+1 Valiant Rescuer
+1 Drannith Healer
+1 Raugrin Triome
+2 Boon of the Wish-Giver
 2 Raugrin Triome
 2 Imposing Vantasaur
+2 Drannith Stinger
+2 Valiant Rescuer
+2 Drannith Healer
+2 Zenith Flare
 2 Unpredictable Cyclone
 2 Inspired Ultimatum
 2 Startling Development
+2 Hallowed Fountain
+2 Flourishing Fox
 3 Raugrin Triome
 3 Startling Development
 3 Hallowed Fountain
+3 Flourishing Fox
+3 Drannith Stinger
+3 Drannith Healer
+3 Zenith Flare
 3 Unpredictable Cyclone
+3 Valiant Rescuer
 4 Raugrin Triome
+4 Flourishing Fox
+4 Valiant Rescuer
 4 Startling Development
+4 Drannith Stinger
+4 Zenith Flare
+4 Drannith Healer
 4 Unpredictable Cyclone
-1 Castle Ardenvale
-1 Indatha Triome
-1 Footfall Crater
-1 Ketria Triome
-1 Sanctuary Smasher
-1 Go for Blood
-1 Ominous Seas
-1 Shark Typhoon
-1 Savai Triome
-1 Neutralize
-2 Footfall Crater
-2 Neutralize
-2 Yidaro, Wandering Monster
-2 Ominous Seas
-2 Go for Blood
-2 Sanctuary Smasher
-3 Boon of the Wish-Giver
-3 Yidaro, Wandering Monster
-3 Footfall Crater
-3 Go for Blood
-4 Yidaro, Wandering Monster
-4 Go for Blood
-4 Footfall Crater
 1 Spectral Sailor
 1 Sea-Dasher Octopus
 1 Pouncing Shoreshark
@@ -330,23 +289,28 @@
 4 Watery Grave
 6 Island
 7 Island
+1 Legion Warboss
+2 Legion Warboss
+3 Legion Warboss
+7 Mountain
+8 Mountain
 1 Zagoth Triome
-1 Neoform
+1 Golgari Findbroker
 1 Vito, Thorn of the Dusk Rose
 1 Cling to Dust
 1 Casualties of War
+1 Neoform
 1 Thassa, Deep-Dwelling
 1 Thirsting Shade
 1 Cavalier of Night
 1 Vampire Opportunist
-1 Golgari Findbroker
 1 Biomancer's Familiar
 1 Acolyte of Affliction
 2 Zagoth Triome
-2 Neoform
+2 Golgari Findbroker
 2 Vito, Thorn of the Dusk Rose
 2 Casualties of War
-2 Golgari Findbroker
+2 Neoform
 2 Vampire Opportunist
 2 Biomancer's Familiar
 2 Thirsting Shade
@@ -366,8 +330,9 @@
 4 Biomancer's Familiar
 8 Swamp
 1 Cavalier of Thorns
-1 Chandra, Awakened Inferno
 1 Voracious Hydra
+1 Chandra, Awakened Inferno
+1 Nissa, Who Shakes the World
 1 Escape to the Wilds
 1 Dryad of the Ilysian Grove
 2 Nissa, Who Shakes the World
@@ -396,33 +361,34 @@
 1 Healer's Hawk
 1 Alseid of Life's Bounty
 1 Gods Willing
-1 Solid Footing
-1 Glaring Aegis
 1 Karametra's Blessing
+1 Solid Footing
 1 Shadowspear
+1 Castle Ardenvale
+1 Glaring Aegis
 2 All That Glitters
 2 Sentinel's Eyes
 2 Healer's Hawk
 2 Gods Willing
-2 Glaring Aegis
-2 Solid Footing
 2 Alseid of Life's Bounty
 2 Karametra's Blessing
+2 Glaring Aegis
+2 Solid Footing
 3 Healer's Hawk
 3 Gods Willing
-3 Sentinel's Eyes
-3 Solid Footing
-3 Glaring Aegis
 3 Alseid of Life's Bounty
 3 Karametra's Blessing
+3 Sentinel's Eyes
+3 Glaring Aegis
 3 All That Glitters
+3 Solid Footing
 4 Healer's Hawk
-4 All That Glitters
-4 Solid Footing
-4 Alseid of Life's Bounty
-4 Glaring Aegis
 4 Karametra's Blessing
+4 Alseid of Life's Bounty
 4 Sentinel's Eyes
+4 Glaring Aegis
+4 Solid Footing
+4 All That Glitters
 9 Plains
 10 Plains
 11 Plains

@@ -80,46 +80,46 @@
 1 Castle Locthwain
 2 Swamp
 1 Temple of Deceit
-1 Elite Guardmage
 1 Teferi's Tutelage
+1 Elite Guardmage
 1 Into the Story
 1 Overwhelmed Apprentice
 1 Dovin's Acuity
-2 Elite Guardmage
 2 Teferi's Tutelage
 2 Into the Story
 2 Overwhelmed Apprentice
+2 Elite Guardmage
 2 Dovin's Acuity
-3 Elite Guardmage
 3 Teferi's Tutelage
 3 Into the Story
 3 Overwhelmed Apprentice
+3 Elite Guardmage
 3 Dovin's Acuity
 4 Teferi's Tutelage
 4 Overwhelmed Apprentice
-1 Labyrinth of Skophos
-1 Devious Cover-Up
+1 God-Eternal Oketra
 1 Karn's Bastion
+1 Labyrinth of Skophos
 1 Mu Yanling, Sky Dancer
-1 Dovin, Grand Arbiter
 1 Heliod's Intervention
 1 God-Eternal Kefnet
-1 God-Eternal Oketra
+1 Dovin, Grand Arbiter
+1 Devious Cover-Up
 1 Gideon Blackblade
-2 Ugin, the Ineffable
-2 Devious Cover-Up
-2 Dovin, Grand Arbiter
-2 Time Wipe
 2 Heliod's Intervention
+2 Ugin, the Ineffable
 2 Blast Zone
+2 Time Wipe
+2 Dovin, Grand Arbiter
+2 Devious Cover-Up
 3 Castle Vantress
 3 Omen of the Sun
 3 Ugin, the Ineffable
 3 Dovin, Grand Arbiter
 3 Time Wipe
+4 Ugin, the Ineffable
 4 The Birth of Meletis
 4 Omen of the Sun
-4 Ugin, the Ineffable
 4 Time Wipe
 9 Plains
 1 Whirlwind Denial
@@ -137,23 +137,12 @@
 3 Oath of Kaya
 2 Banishing Light
 4 Archon of Sun's Grace
-1 Neutralize
-1 Swift Response
-1 Gadwick, the Wizened
-1 Baneslayer Angel
-1 Faith's Fetters
-2 Neutralize
-2 Radiant Fountain
-2 Swift Response
-2 Gadwick, the Wizened
-2 Baneslayer Angel
-2 Faith's Fetters
-3 Neutralize
-3 Radiant Fountain
-3 Swift Response
-3 Baneslayer Angel
-4 Swift Response
-4 Mystical Dispute
+1 Mazemind Tome
+2 Mazemind Tome
+3 Teferi, Master of Time
+3 Mazemind Tome
+4 Teferi, Master of Time
+4 Mazemind Tome
 1 Boon of the Wish-Giver
 1 Temple of Epiphany
 1 Whirlwind of Thought
@@ -167,12 +156,23 @@
 2 Scorching Dragonfire
 3 Scorching Dragonfire
 4 Scorching Dragonfire
-1 Mazemind Tome
-2 Mazemind Tome
-3 Mazemind Tome
-3 Teferi, Master of Time
-4 Teferi, Master of Time
-4 Mazemind Tome
+4 Mystical Dispute
+1 Neutralize
+1 Gadwick, the Wizened
+1 Swift Response
+1 Baneslayer Angel
+1 Faith's Fetters
+2 Gadwick, the Wizened
+2 Neutralize
+2 Radiant Fountain
+2 Baneslayer Angel
+2 Swift Response
+2 Faith's Fetters
+3 Neutralize
+3 Radiant Fountain
+3 Baneslayer Angel
+3 Swift Response
+4 Swift Response
 4 Shark Typhoon
 1 Sarkhan the Masterless
 1 Justice Strike
@@ -183,8 +183,8 @@
 3 Steam Vents
 3 Sacred Foundry
 3 Sarkhan the Masterless
-4 Interplanar Beacon
 4 Steam Vents
+4 Interplanar Beacon
 4 Sarkhan the Masterless
 4 Sacred Foundry
 1 Sinister Sabotage
@@ -195,20 +195,20 @@
 1 Heartless Act
 1 Thought Erasure
 1 Davriel, Rogue Shadowmage
-2 Sinister Sabotage
 2 Temple of Deceit
+2 Sinister Sabotage
 2 Ugin, the Spirit Dragon
 2 Murderous Rider
 2 Thought Erasure
 2 Heartless Act
 2 Davriel, Rogue Shadowmage
 2 Rewind
-3 Temple of Deceit
 3 Heartless Act
+3 Temple of Deceit
 3 Thought Erasure
 3 Ugin, the Spirit Dragon
 3 Absorb
-4 Temple of Deceit
 4 Thought Erasure
+4 Temple of Deceit
 4 Heartless Act
 4 Absorb

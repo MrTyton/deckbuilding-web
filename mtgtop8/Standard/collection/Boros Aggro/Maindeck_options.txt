@@ -1,7 +1,7 @@
 6 Mountain
 7 Mountain
-1 Legion Warboss
 1 Embercleave
+1 Legion Warboss
 1 Bonecrusher Giant
 1 Igneous Cur
 1 Alpine Houndmaster
@@ -9,27 +9,27 @@
 1 Tajic, Legion's Edge
 1 Seasoned Hallowblade
 1 Alpine Watchdog
-2 Alpine Houndmaster
-2 Alpine Watchdog
-2 Igneous Cur
-2 Selfless Savior
-2 Seasoned Hallowblade
-2 Tajic, Legion's Edge
-2 Legion Warboss
 2 Embercleave
+2 Legion Warboss
 2 Bonecrusher Giant
-3 Alpine Houndmaster
+2 Seasoned Hallowblade
+2 Igneous Cur
+2 Alpine Watchdog
+2 Alpine Houndmaster
+2 Selfless Savior
+2 Tajic, Legion's Edge
+3 Embercleave
 3 Selfless Savior
 3 Seasoned Hallowblade
-3 Embercleave
+3 Alpine Houndmaster
+4 Embercleave
 4 Alpine Houndmaster
 4 Selfless Savior
 4 Seasoned Hallowblade
-4 Embercleave
 8 Mountain
-3 Tajic, Legion's Edge
 3 Legion Warboss
 3 Bonecrusher Giant
+3 Tajic, Legion's Edge
 4 Bonecrusher Giant
 1 Gingerbrute
 2 Gingerbrute
@@ -54,13 +54,13 @@
 2 Fabled Passage
 1 Haktos the Unscarred
 1 Wind-Scarred Crag
-1 Castle Embereth
 1 Lavabrink Venturer
+1 Castle Embereth
 2 Haktos the Unscarred
 2 Lavabrink Venturer
 2 Aurelia, Exemplar of Justice
-1 Imposing Vantasaur
 1 Sanctuary Smasher
+1 Imposing Vantasaur
 1 Splendor Mare
 1 Fling
 2 Imposing Vantasaur
@@ -109,10 +109,10 @@
 1 Shark Typhoon
 1 Forest
 2 Temple of Mystery
+2 Shark Typhoon
 2 Aether Gust
 2 Brazen Borrower
 2 Nightpack Ambusher
-2 Shark Typhoon
 2 Teferi, Time Raveler
 2 Dovin's Veto
 2 Castle Vantress
@@ -128,8 +128,8 @@
 3 Island
 3 Aether Gust
 3 Brazen Borrower
-3 Nightpack Ambusher
 3 Dovin's Veto
+3 Nightpack Ambusher
 3 Breeding Pool
 3 Teferi, Time Raveler
 3 Fabled Passage
@@ -137,6 +137,7 @@
 3 Hallowed Fountain
 3 Growth Spiral
 3 Temple Garden
+4 Mystical Dispute
 4 Shark Typhoon
 4 Nightpack Ambusher
 4 Brazen Borrower
@@ -144,6 +145,5 @@
 4 Hallowed Fountain
 4 Fabled Passage
 4 Temple Garden
-4 Mystical Dispute
 4 Breeding Pool
 4 Growth Spiral
