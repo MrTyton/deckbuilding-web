@@ -1,7 +1,7 @@
 1 Ugin, the Spirit Dragon
 1 Temple of Mystery
-2 Ugin, the Spirit Dragon
 2 Temple of Mystery
+2 Ugin, the Spirit Dragon
 1 Temple of Epiphany
 1 Temple of Abandon
 2 Temple of Abandon
@@ -29,11 +29,10 @@
 2 Nissa, Who Shakes the World
 4 Island
 3 Mountain
-1 Yorion, Sky Nomad
+4 Terror of the Peaks
 1 Scampering Scorcher
 2 Scampering Scorcher
-4 Terror of the Peaks
-2 Yorion, Sky Nomad
+1 Yorion, Sky Nomad
 3 Nissa, Who Shakes the World
 1 Aether Gust
 1 Mythos of Illuna
@@ -41,16 +40,17 @@
 2 Scorching Dragonfire
 1 Chandra, Awakened Inferno
 2 Castle Vantress
-5 Island
 5 Forest
+5 Island
 6 Forest
+1 Cultivate
+2 Cultivate
+2 Yorion, Sky Nomad
 1 Radha, Heart of Keld
 2 Radha, Heart of Keld
 3 Radha, Heart of Keld
 2 Mythos of Illuna
 3 Scorching Dragonfire
-1 Cultivate
-2 Cultivate
 1 Hydroid Krasis
 1 Finale of Devastation
 1 Chandra, Acolyte of Flame
@@ -65,56 +65,56 @@
 2 Cavalier of Flame
 2 Thryx, the Sudden Storm
 3 Cavalier of Flame
-1 Omen of the Sea
 1 Omen of the Forge
 1 Omen of the Hunt
+1 Omen of the Sea
 2 Omen of the Sea
-2 Hydroid Krasis
 2 Omen of the Forge
+2 Hydroid Krasis
 2 Omen of the Hunt
 3 Omen of the Forge
-1 Thassa, Deep-Dwelling
-2 Thassa, Deep-Dwelling
-3 Scampering Scorcher
-4 Nissa, Who Shakes the World
+1 Healer of the Glade
 1 Fiery Emancipation
 1 Thicket Crasher
-1 Healer of the Glade
-2 Fiery Emancipation
 2 Healer of the Glade
+2 Fiery Emancipation
 3 Cultivate
 3 Fiery Emancipation
 4 Cultivate
 4 Fiery Emancipation
-1 Domri, Anarch of Bolas
+1 Thassa, Deep-Dwelling
+2 Thassa, Deep-Dwelling
+3 Scampering Scorcher
+4 Nissa, Who Shakes the World
 1 Sublime Epiphany
 1 End-Raze Forerunners
+1 Domri, Anarch of Bolas
 3 Chandra, Awakened Inferno
-1 Return to Nature
+1 Swiftwater Cliffs
 1 Shock
 1 Scorch Spitter
 1 Volcanic Geyser
 1 Creeping Trailblazer
 1 Thornwood Falls
+1 Return to Nature
 1 Lavakin Brawler
 1 Lightning Stormkin
-1 Swiftwater Cliffs
 1 Rugged Highlands
+2 Swiftwater Cliffs
 2 Return to Nature
 2 Shock
 2 Scorch Spitter
 2 Volcanic Geyser
 2 Creeping Trailblazer
-2 Swiftwater Cliffs
 2 Lavakin Brawler
 2 Rugged Highlands
 2 Thornwood Falls
 2 Lightning Stormkin
 3 Shock
+3 Chandra, Acolyte of Flame
 3 Lightning Stormkin
 3 Lavakin Brawler
 3 Creeping Trailblazer
-3 Chandra, Acolyte of Flame
 3 Scorch Spitter
 3 Thornwood Falls
 3 Rugged Highlands
@@ -127,10 +127,10 @@
 5 Mountain
 6 Mountain
 7 Mountain
+1 The Great Henge
 1 Shark Typhoon
 1 Wilderness Reclamation
 1 Fae of Wishes
-1 The Great Henge
 2 Shark Typhoon
 2 The Great Henge
 2 Wilderness Reclamation
@@ -140,5 +140,5 @@
 3 Fae of Wishes
 4 Fae of Wishes
 6 Island
-7 Forest
 8 Forest
+7 Forest

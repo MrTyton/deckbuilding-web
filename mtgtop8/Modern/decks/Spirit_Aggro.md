@@ -60,7 +60,7 @@
 |                    3|[Seachrome Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209399)     |                     |                                                                                                      |
 |                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                 |                     |                                                                                                      |
 |                    4|[Rattlechains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409824)        |                     |                                                                                                      |
-|                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)      |                     |                                                                                                      |
 |                    4|[Seachrome Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209399)     |                     |                                                                                                      |
+|                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)      |                     |                                                                                                      |
 |                    4|[Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48146)          |                     |                                                                                                      |
 

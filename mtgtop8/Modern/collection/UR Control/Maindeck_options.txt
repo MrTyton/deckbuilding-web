@@ -1,13 +1,8 @@
-8 Island
-1 Spell Pierce
-2 Spell Pierce
-4 Archmage's Charm
-1 Spell Snare
-2 Spell Snare
-3 Misty Rainforest
-4 Misty Rainforest
-3 Force of Negation
 1 Vendilion Clique
+1 Polluted Delta
+2 Polluted Delta
+3 Polluted Delta
+4 Polluted Delta
 1 Snow-Covered Island
 1 Snow-Covered Mountain
 2 Snow-Covered Island
@@ -24,8 +19,6 @@
 3 Emrakul, the Aeons Torn
 4 Through the Breach
 4 Emrakul, the Aeons Torn
-1 Peek
-1 Glimpse of Freedom
 1 Breeding Pool
 1 Snow-Covered Forest
 1 Fact or Fiction
@@ -45,17 +38,15 @@
 3 Arcum's Astrolabe
 4 Ice-Fang Coatl
 4 Arcum's Astrolabe
-1 Electrolyze
 1 Narset, Parter of Veils
+1 Electrolyze
 1 Abrade
 1 Mana Leak
 1 Flame Slash
-2 Narset, Parter of Veils
 2 Cascade Bluffs
+2 Narset, Parter of Veils
 4 Thing in the Ice
 4 Snapcaster Mage
-1 Fiery Islet
-8 Snow-Covered Island
 1 Omen of the Sea
 2 Omen of the Sea
 3 Cryptic Command
@@ -64,3 +55,12 @@
 3 Mystic Sanctuary
 4 Omen of the Sea
 4 Steam Vents
+1 Spell Pierce
+1 Fiery Islet
+2 Spell Pierce
+4 Archmage's Charm
+8 Snow-Covered Island
+1 Peek
+1 Glimpse of Freedom
+1 Sulfur Falls
+8 Island

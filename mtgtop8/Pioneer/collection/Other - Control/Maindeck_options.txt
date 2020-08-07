@@ -1,33 +1,33 @@
 4 Fabled Passage
 1 Swamp
-1 Satyr Wayfinder
 1 Botanical Sanctum
 1 Agent of Treachery
 1 Hostage Taker
 1 Woodland Bellower
 1 Elvish Rejuvenator
+1 Satyr Wayfinder
 1 Eldritch Evolution
-1 Yavimaya Coast
+1 Tasigur, the Golden Fang
 1 Grapple with the Past
+1 Yavimaya Coast
 1 Unesh, Criosphinx Sovereign
 1 Cavalier of Gales
-1 Arboreal Grazer
 1 Massacre Girl
-1 Tasigur, the Golden Fang
+1 Arboreal Grazer
 1 Cavalier of Night
-1 Thassa, Deep-Dwelling
 1 Neoform
+1 Thassa, Deep-Dwelling
 1 Reclamation Sage
 1 Thought-Knot Seer
 1 Overgrown Tomb
 1 Blooming Marsh
 1 Llanowar Wastes
 1 Scavenging Ooze
-2 Satyr Wayfinder
 2 Agent of Treachery
 2 Elvish Rejuvenator
 2 Eldritch Evolution
 2 Grapple with the Past
+2 Satyr Wayfinder
 2 Tasigur, the Golden Fang
 2 Neoform
 2 Yavimaya Coast
@@ -35,18 +35,18 @@
 2 Blooming Marsh
 2 Llanowar Wastes
 2 Overgrown Tomb
-3 Satyr Wayfinder
 3 Eldritch Evolution
 3 Grapple with the Past
 3 Neoform
+3 Satyr Wayfinder
 3 Yavimaya Coast
 3 Arboreal Grazer
 3 Forest
 3 Llanowar Wastes
 3 Blooming Marsh
-4 Satyr Wayfinder
 4 Arboreal Grazer
 4 Neoform
+4 Satyr Wayfinder
 1 Mountain
 1 Thoughtseize
 2 Swamp
@@ -70,21 +70,21 @@
 1 Kolaghan's Command
 1 Kroxa, Titan of Death's Hunger
 1 Waste Not
+1 Collective Brutality
 1 Liliana, Waker of the Dead
 1 Murderous Rider
 1 Eliminate
 1 Davriel, Rogue Shadowmage
-1 Collective Brutality
 1 Hazoret the Fervent
 1 Field of Ruin
 2 Kolaghan's Command
 2 Kroxa, Titan of Death's Hunger
-2 Waste Not
+2 Collective Brutality
 2 Davriel, Rogue Shadowmage
+2 Waste Not
 2 Liliana, Waker of the Dead
 2 Murderous Rider
 2 Eliminate
-2 Collective Brutality
 2 Hazoret the Fervent
 2 Field of Ruin
 2 Mountain
@@ -100,17 +100,17 @@
 4 Waste Not
 4 Liliana, Waker of the Dead
 4 Kroxa, Titan of Death's Hunger
-4 Castle Locthwain
 4 Swamp
+4 Castle Locthwain
 1 Steam Vents
 2 Steam Vents
 3 Steam Vents
 4 Steam Vents
 3 Opt
 1 Commit / Memory
-1 Temple of Enlightenment
 1 Temple of Triumph
 1 Temple of Epiphany
+1 Temple of Enlightenment
 1 Jace, Vryn's Prodigy
 1 Sacred Foundry
 1 Settle the Wreckage
@@ -129,10 +129,9 @@
 1 Supreme Verdict
 1 Raugrin Triome
 1 Clifftop Retreat
+2 Temple of Enlightenment
 2 Sacred Foundry
 2 Izzet Charm
-2 Temple of Enlightenment
-2 Anger of the Gods
 2 Teferi, Time Raveler
 2 Karn, the Great Creator
 2 Narset, Parter of Veils
@@ -140,6 +139,7 @@
 2 Sulfur Falls
 2 Commit / Memory
 2 Hallowed Fountain
+2 Anger of the Gods
 2 Raugrin Triome
 2 Collective Defiance
 2 Clifftop Retreat
@@ -189,15 +189,15 @@
 1 Watery Grave
 1 Drowned Catacomb
 1 Nicol Bolas, Dragon-God
-2 Drown in the Loch
 2 Tyrant's Scorn
+2 Drown in the Loch
 2 Dreadbore
 2 Nicol Bolas, the Ravager
 2 Nicol Bolas, Dragon-God
 2 Watery Grave
 2 Drowned Catacomb
-3 Drown in the Loch
 3 Tyrant's Scorn
+3 Drown in the Loch
 3 Nicol Bolas, Dragon-God
 3 Dreadbore
 3 Nicol Bolas, the Ravager
@@ -228,11 +228,11 @@
 1 Oath of Kaya
 2 Yorion, Sky Nomad
 2 Doom Foretold
-2 Shambling Vent
 2 Gideon, Ally of Zendikar
 2 Plains
 2 Flicker of Fate
 2 The Birth of Meletis
+2 Shambling Vent
 2 Final Payment
 2 Treacherous Blessing
 2 Oath of Kaya
@@ -243,9 +243,9 @@
 2 Gideon of the Trials
 3 Doom Foretold
 3 Shambling Vent
+3 Flicker of Fate
 3 Treacherous Blessing
 3 Plains
-3 Flicker of Fate
 3 The Birth of Meletis
 3 Oath of Kaya
 3 Trial of Ambition

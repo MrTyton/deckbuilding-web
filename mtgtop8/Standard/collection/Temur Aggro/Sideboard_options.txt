@@ -1,7 +1,5 @@
-3 Aether Gust
+3 Flame Sweep
 1 Disdainful Stroke
-1 Return to Nature
-2 Return to Nature
 1 Shark Typhoon
 2 Disdainful Stroke
 1 Lovestruck Beast
@@ -9,20 +7,22 @@
 3 Scorching Dragonfire
 1 Questing Beast
 2 Questing Beast
+1 Return to Nature
+2 Return to Nature
 1 Chandra, Awakened Inferno
 1 Brazen Borrower
 1 Klothys, God of Destiny
 2 Brazen Borrower
 1 Hydroid Krasis
-1 Chemister's Insight
 1 Shock
+1 Chemister's Insight
 1 Uro, Titan of Nature's Wrath
 2 Hydroid Krasis
+1 Soul-Guide Lantern
+2 Soul-Guide Lantern
 1 Cunning Nightbonder
 1 Sorcerous Spyglass
 2 Cunning Nightbonder
-1 Soul-Guide Lantern
-2 Soul-Guide Lantern
 1 Chandra's Pyrohelix
 1 Grafdigger's Cage
 2 Shark Typhoon
@@ -41,9 +41,8 @@
 3 Shatter the Sky
 4 Shatter the Sky
 4 The Birth of Meletis
-1 Fire Prophecy
-2 Fire Prophecy
-4 Flame Sweep
+3 Lovestruck Beast
+4 Lovestruck Beast
 1 Thryx, the Sudden Storm
 2 Thryx, the Sudden Storm
 4 Scorching Dragonfire
@@ -53,8 +52,6 @@
 2 Soul Sear
 3 Shifting Ceratops
 4 Shifting Ceratops
-3 Lovestruck Beast
-4 Lovestruck Beast
 1 Scavenging Ooze
 1 Solar Blaze
 2 Scavenging Ooze

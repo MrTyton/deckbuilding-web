@@ -34,32 +34,8 @@
 1 Horizon Canopy
 2 Horizon Canopy
 3 Horizon Canopy
-1 Sunbaked Canyon
 1 Winds of Abandon
-1 Seasoned Pyromancer
-1 Sacred Foundry
-1 Inspiring Vantage
-1 Remorseful Cleric
-1 Magus of the Moon
-1 Mountain
-1 Seal of Fire
-2 Sunbaked Canyon
-2 Seasoned Pyromancer
-2 Inspiring Vantage
-2 Sacred Foundry
-2 Remorseful Cleric
-2 Magus of the Moon
-2 Seal of Fire
-3 Seal of Fire
-3 Inspiring Vantage
-3 Sunbaked Canyon
-3 Sacred Foundry
-3 Magus of the Moon
-4 Seal of Fire
-4 Sunbaked Canyon
-4 Inspiring Vantage
-4 Magus of the Moon
-4 Sacred Foundry
+1 Sunbaked Canyon
 1 Noble Hierarch
 1 Stirring Wildwood
 1 Eternal Witness
@@ -75,20 +51,45 @@
 2 Stirring Wildwood
 2 Scavenging Ooze
 3 Noble Hierarch
-3 Blade Splicer
 3 Razorverge Thicket
 3 Scavenging Ooze
 3 Temple Garden
+3 Blade Splicer
 3 Stirring Wildwood
 4 Razorverge Thicket
 4 Noble Hierarch
 4 Temple Garden
 4 Horizon Canopy
+1 Inspiring Vantage
+1 Sacred Foundry
+1 Seasoned Pyromancer
+1 Remorseful Cleric
+1 Magus of the Moon
+1 Mountain
+1 Seal of Fire
+2 Sunbaked Canyon
+2 Inspiring Vantage
+2 Sacred Foundry
+2 Remorseful Cleric
+2 Seasoned Pyromancer
+2 Magus of the Moon
+2 Seal of Fire
+3 Inspiring Vantage
+3 Magus of the Moon
+3 Sunbaked Canyon
+3 Sacred Foundry
+3 Seal of Fire
+4 Magus of the Moon
+4 Sunbaked Canyon
+4 Inspiring Vantage
+4 Sacred Foundry
+4 Seal of Fire
 1 Dark Confidant
 1 Tectonic Edge
 2 Dark Confidant
 1 Reality Smasher
 1 Scavenger Grounds
+1 Shefet Dunes
 1 Eternal Scourge
 1 Cast Out
 1 Gemstone Caverns
@@ -96,9 +97,9 @@
 1 Chalice of the Void
 1 Rest in Peace
 1 Dismember
-1 Shefet Dunes
 1 Blast Zone
 2 Reality Smasher
+2 Shefet Dunes
 2 Blast Zone
 2 Eternal Scourge
 2 Scavenger Grounds
@@ -106,7 +107,6 @@
 2 Chalice of the Void
 2 Rest in Peace
 2 Winds of Abandon
-2 Shefet Dunes
 2 Dismember
 3 Reality Smasher
 3 Scavenger Grounds
@@ -119,28 +119,34 @@
 4 Eternal Scourge
 4 Simian Spirit Guide
 4 Chalice of the Void
+1 Seachrome Coast
 1 Spell Queller
 1 Island
 1 Deputy of Detention
-1 Meddling Mage
-1 Seachrome Coast
 1 Flooded Strand
 1 Hallowed Fountain
+1 Meddling Mage
+2 Seachrome Coast
 2 Spell Queller
 2 Island
-2 Deputy of Detention
 2 Meddling Mage
-2 Seachrome Coast
+2 Deputy of Detention
 2 Hallowed Fountain
 2 Flooded Strand
-3 Spell Queller
 3 Deputy of Detention
-3 Meddling Mage
+3 Spell Queller
 3 Seachrome Coast
+3 Meddling Mage
 4 Deputy of Detention
-4 Seachrome Coast
 4 Spell Queller
+4 Seachrome Coast
 4 Meddling Mage
+1 Eiganjo Castle
+1 Selfless Savior
+2 Selfless Savior
+9 Plains
+10 Plains
+11 Plains
 1 Concealed Courtyard
 1 Charming Prince
 1 Tidehollow Sculler
@@ -155,9 +161,3 @@
 4 Concealed Courtyard
 4 Eldrazi Displacer
 4 Tidehollow Sculler
-1 Selfless Savior
-1 Eiganjo Castle
-2 Selfless Savior
-9 Plains
-10 Plains
-11 Plains
