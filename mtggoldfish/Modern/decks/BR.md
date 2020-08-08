@@ -28,7 +28,9 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|-------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Geier Reach Sanitarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414510)|                     |              |
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    3|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                 |                    1|[Crumble to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401850)     |
+|                    1|[Geier Reach Sanitarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414510)|                    3|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+|                     |                                                                                                 |                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)   |
 

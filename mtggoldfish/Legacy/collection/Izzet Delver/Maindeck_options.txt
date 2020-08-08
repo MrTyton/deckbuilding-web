@@ -1,31 +1,31 @@
-2 Chain Lightning
 2 Polluted Delta
 1 Snow-Covered Island
 2 Flooded Strand
+2 Chain Lightning
 1 Snow-Covered Mountain
 2 Snow-Covered Island
 1 Bloodstained Mire
 2 Misty Rainforest
 1 Magmatic Sinkhole
-1 Pyroblast
-3 True-Name Nemesis
 3 Young Pyromancer
 3 Flooded Strand
 4 Flooded Strand
-1 Prismatic Vista
-4 Preordain
-2 Pyroblast
 1 Wooded Foothills
-1 Arid Mesa
-1 Sprite Dragon
+4 Preordain
 1 Stormwing Entity
 1 Gut Shot
 2 Stormwing Entity
+1 Pyroblast
+3 True-Name Nemesis
+1 Arid Mesa
+1 Prismatic Vista
+1 Sprite Dragon
+3 Polluted Delta
+2 Gut Shot
 4 Volcanic Island
 3 Island
-3 Polluted Delta
+2 Pyroblast
 1 Spell Snare
-2 Gut Shot
 1 Stifle
 2 Stifle
 1 Vapor Snag
@@ -50,6 +50,9 @@
 4 Island
 4 Phyrexian Dreadnought
 4 Standstill
+3 Gut Shot
+3 Stormwing Entity
+4 Stormwing Entity
 1 Shark Typhoon
 2 Shark Typhoon
 1 Grim Lavamancer
@@ -57,7 +60,15 @@
 1 Flusterstorm
 1 Bedlam Reveler
 2 Bedlam Reveler
-3 Misty Rainforest
+1 Pteramander
+1 Manamorphose
+2 Manamorphose
+2 Pteramander
+3 Manamorphose
+3 Pteramander
+4 Pteramander
+4 Gut Shot
+4 Manamorphose
 1 Counterspell
 1 Accumulated Knowledge
 1 Mystic Sanctuary
@@ -65,15 +76,4 @@
 2 Accumulated Knowledge
 3 Accumulated Knowledge
 4 Accumulated Knowledge
-1 Manamorphose
-1 Pteramander
-2 Manamorphose
-2 Pteramander
-3 Pteramander
-3 Gut Shot
-3 Manamorphose
-3 Stormwing Entity
-4 Pteramander
-4 Gut Shot
-4 Manamorphose
-4 Stormwing Entity
+3 Misty Rainforest

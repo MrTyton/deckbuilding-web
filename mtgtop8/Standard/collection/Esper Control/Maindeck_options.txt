@@ -119,15 +119,16 @@
 1 Ominous Seas
 1 Precognitive Perception
 1 Thief of Sanity
+1 Folio of Fancies
+1 Teferi's Ageless Insight
 1 Merfolk Secretkeeper
+1 Wall of Lost Thoughts
 1 Teferi's Tutelage
 1 Ashiok, Dream Render
-1 Folio of Fancies
 1 Realm-Cloaked Giant
 1 Unexplained Vision
 1 Conclave Tribunal
 1 Time Wipe
-1 Teferi's Ageless Insight
 1 Gyruda, Doom of Depths
 1 Obsessive Stitcher
 1 Sage of Mysteries
@@ -135,14 +136,13 @@
 1 Cloudkin Seer
 1 Dismal Backwater
 1 Mu Yanling, Sky Dancer
-1 Wall of Lost Thoughts
 2 Ominous Seas
 2 Merfolk Secretkeeper
+2 Teferi's Ageless Insight
 2 Dream Trawler
 2 Teferi's Tutelage
 2 Dismal Backwater
 2 Arrester's Admonition
-2 Teferi's Ageless Insight
 2 Sage of Mysteries
 2 Conclave Tribunal
 3 Dream Trawler
@@ -151,9 +151,9 @@
 3 Merfolk Secretkeeper
 3 Conclave Tribunal
 3 Dismal Backwater
+4 Dream Trawler
 4 Tranquil Cove
 4 Merfolk Secretkeeper
-4 Dream Trawler
 4 Dismal Backwater
 4 Conclave Tribunal
 8 Island
@@ -177,10 +177,10 @@
 3 Zagoth Triome
 3 Mythos of Nethroi
 4 Zagoth Triome
-1 Disinformation Campaign
 1 Duress
-2 Disinformation Campaign
+1 Disinformation Campaign
 2 Duress
+2 Disinformation Campaign
 3 Duress
 4 Duress
 1 Yarok's Fenlurker
@@ -202,14 +202,6 @@
 1 Murderous Rider
 2 Murderous Rider
 2 Castle Ardenvale
-3 Dance of the Manse
-3 Golden Egg
-1 Basilica Bell-Haunt
-2 Basilica Bell-Haunt
-2 Thassa, Deep-Dwelling
-3 Basilica Bell-Haunt
-4 Basilica Bell-Haunt
-4 Yorion, Sky Nomad
 1 Ugin, the Ineffable
 1 Eat to Extinction
 1 Negate
@@ -220,5 +212,13 @@
 2 Ugin, the Ineffable
 2 Despark
 2 Eat to Extinction
-3 Ugin, the Ineffable
 2 Negate
+3 Ugin, the Ineffable
+1 Basilica Bell-Haunt
+2 Basilica Bell-Haunt
+2 Thassa, Deep-Dwelling
+3 Basilica Bell-Haunt
+4 Basilica Bell-Haunt
+4 Yorion, Sky Nomad
+3 Golden Egg
+3 Dance of the Manse

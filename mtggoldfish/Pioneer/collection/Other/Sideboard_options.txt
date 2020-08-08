@@ -1,9 +1,7 @@
 1 Rest in Peace
 2 Rest in Peace
-1 Abrade
-2 Abrade
-3 Rest in Peace
 1 Pithing Needle
+3 Rest in Peace
 1 Shatter the Sky
 1 Wear/Tear
 1 Leyline of Sanctity
@@ -13,86 +11,106 @@
 2 Silence
 3 Silence
 4 Silence
-1 Damping Sphere
 1 Scavenging Ooze
 1 Fatal Push
 2 Fatal Push
+1 Damping Sphere
+1 Soul-Guide Lantern
+2 Soul-Guide Lantern
 1 Lurrus of the Dream-Den
 1 Agonizing Remorse
-2 Damping Sphere
 1 Hangarback Walker
 1 Witch's Vengeance
 1 Duress
 2 Hangarback Walker
 2 Witch's Vengeance
+2 Damping Sphere
+1 Verdurous Gearhulk
+1 Emrakul, the Promised End
+1 The Great Henge
+1 Grafdigger's Cage
+1 God-Pharaoh's Statue
+1 Ulamog, the Ceaseless Hunger
+1 Meteor Golem
+1 Tormod's Crypt
+1 Darksteel Citadel
+1 Skysovereign, Consul Flagship
+2 Anger of the Gods
+1 Aether Gust
+2 Aether Gust
+1 Abrupt Decay
+2 Abrupt Decay
 1 Thoughtseize
 2 Thoughtseize
 1 Dead Weight
-3 Thoughtseize
-1 Abrupt Decay
-2 Abrupt Decay
 2 Dead Weight
+3 Thoughtseize
 4 Thoughtseize
-1 Remorseful Cleric
-1 Enlightened Ascetic
-1 Tireless Tracker
-1 Noxious Grasp
-2 Noxious Grasp
-1 Heartless Act
-1 Tale's End
-1 Jace, Vryn's Prodigy
-1 Verdurous Gearhulk
-1 Mystical Dispute
-2 Mystical Dispute
-3 Mystical Dispute
+1 Necromentia
+2 Necromentia
+1 Disdainful Stroke
+1 Wilt
+1 Narset, Parter of Veils
+1 Negate
+2 Narset, Parter of Veils
+1 Kalitas, Traitor of Ghet
+3 Aether Gust
 1 Dovin's Veto
 2 Dovin's Veto
-1 Aether Gust
-2 Aether Gust
+2 Disdainful Stroke
+1 Garruk's Harbinger
 1 Devout Decree
 2 Devout Decree
 3 Devout Decree
-1 Fry
+1 Tireless Tracker
+1 Noxious Grasp
+2 Noxious Grasp
+1 Jace, Vryn's Prodigy
+1 Heartless Act
+1 Tale's End
+1 Thought Distortion
+1 Ugin, the Spirit Dragon
+2 Wilt
+1 Voracious Hydra
 1 Scrapheap Scrounger
 1 Legion's End
 2 Legion's End
-4 Mystical Dispute
-1 Scorching Dragonfire
-2 Fry
-1 Neutralize
-1 Sarkhan the Masterless
-1 Chandra, Heart of Fire
-2 Neutralize
-2 Chandra, Heart of Fire
+1 Chandra, Awakened Inferno
+1 Enter the Infinite
+1 Omniscience
+1 Ratchet Bomb
+1 Finale of Revelation
+1 Storm's Wrath
+1 Void Snare
+1 Jace, Wielder of Mysteries
+2 Ratchet Bomb
+1 Stonecoil Serpent
 1 Heart of Kiran
-1 The Great Henge
-1 Glass Casket
-1 God-Pharaoh's Statue
-1 Bow of Nylea
-1 Tormod's Crypt
-1 Meteor Golem
-1 Walking Ballista
 1 Aligned Hedron Network
-1 Darksteel Citadel
-1 Skysovereign, Consul Flagship
 2 Pithing Needle
+1 Remorseful Cleric
 1 Assassin's Trophy
+1 Enlightened Ascetic
 2 Remorseful Cleric
-1 Eliminate
 1 Knight of Autumn
 2 Knight of Autumn
-1 Kaya, Orzhov Usurper
 1 Basri's Lieutenant
-1 Kambal, Consul of Allocation
+1 Kaya, Orzhov Usurper
 1 Anafenza, the Foremost
+1 Kambal, Consul of Allocation
 1 Sin Collector
+1 Eliminate
 1 Deputy of Detention
 1 Sorin, Vengeful Bloodlord
-2 Eliminate
 2 Sin Collector
 2 Anafenza, the Foremost
+2 Eliminate
 2 Kambal, Consul of Allocation
 2 Deputy of Detention
+1 Saheeli, Sublime Artificer
+1 Lava Coil
+1 Magma Spray
+2 Saheeli, Sublime Artificer
 2 Duress
 1 Jegantha, the Wellspring
 1 Extinction Event
@@ -104,93 +122,59 @@
 1 Selfless Spirit
 2 Gideon, Ally of Zendikar
 1 Baffling End
+1 Gideon of the Trials
 1 Deicide
 1 Ixalan's Binding
-1 Gideon of the Trials
+2 Scavenging Ooze
 2 Baffling End
 2 Gideon of the Trials
-2 Scavenging Ooze
 3 Baffling End
 1 Yorion, Sky Nomad
-3 Aether Gust
 3 Dovin's Veto
+1 Shifting Ceratops
+1 Niv-Mizzet, Parun
+2 Niv-Mizzet, Parun
+2 Shifting Ceratops
+3 Niv-Mizzet, Parun
+3 Shifting Ceratops
 1 Tamiyo, Collector of Tales
 1 Nissa, Steward of Elements
-1 Questing Beast
 1 Reclamation Sage
+1 Questing Beast
 1 Hostage Taker
 2 Jace, Vryn's Prodigy
 2 Tale's End
 3 Noxious Grasp
-1 Supreme Verdict
-1 Chandra, Awakened Inferno
+1 Collective Brutality
+2 Kalitas, Traitor of Ghet
+2 Collective Brutality
+2 Negate
+3 Soul-Guide Lantern
 1 Teferi, Time Raveler
+1 Supreme Verdict
+1 Elspeth Conquers Death
+1 Eerie Ultimatum
 1 Inspired Ultimatum
 1 Ruinous Ultimatum
 1 Casualties of War
-1 Eerie Ultimatum
-1 Elspeth Conquers Death
 2 Chandra, Awakened Inferno
 2 Scorching Dragonfire
 3 Scorching Dragonfire
-1 Chandra, Torch of Defiance
-1 Klothys, God of Destiny
-1 Magma Spray
-1 Vivien Reid
-1 Mizzium Mortars
-2 Chandra, Torch of Defiance
-2 Klothys, God of Destiny
-2 Magma Spray
-2 Mizzium Mortars
-2 Vivien Reid
-3 Chandra, Torch of Defiance
-1 Grafdigger's Cage
-1 Spell Pierce
-1 Annul
-1 Self-Inflicted Wound
-1 Moment of Craving
-2 Spell Pierce
-2 Grafdigger's Cage
-2 Annul
-2 Self-Inflicted Wound
-2 Moment of Craving
-3 Kalitas, Traitor of Ghet
-1 Ashiok, Dream Render
 1 Lyra Dawnbringer
 1 Settle the Wreckage
 1 Fumigate
-1 Disdainful Stroke
+1 Ashiok, Dream Render
 2 Lyra Dawnbringer
 2 Ashiok, Dream Render
-2 Disdainful Stroke
 3 Ashiok, Dream Render
-1 Dire Tactics
-1 Fragmentize
-2 Dire Tactics
-2 Fragmentize
-3 Fragmentize
-1 Anguished Unmaking
-1 Oath of Kaya
-1 Void Shatter
-1 Kaheera, the Orphanguard
-1 Cry of the Carnarium
-1 Entrancing Melody
-2 Kaya, Orzhov Usurper
-2 Void Shatter
-3 Void Shatter
+1 Nine Lives
+2 Thought Distortion
+2 Ugin, the Spirit Dragon
+3 Anger of the Gods
+3 Wilt
 1 Barrier Breach
 3 Fatal Push
 4 Fatal Push
-1 Gemrazer
-1 Heaven/Earth
-1 Collective Defiance
-1 Rampaging Ferocidon
-1 Shadowspear
-2 Gemrazer
-2 Collective Defiance
-3 Collective Defiance
-3 Gemrazer
-4 Collective Defiance
 1 Declaration in Stone
 1 Unbreakable Formation
 1 Apostle of Purifying Light
@@ -200,7 +184,6 @@
 3 Apostle of Purifying Light
 4 Apostle of Purifying Light
 4 Rest in Peace
-1 Garruk's Harbinger
 1 Glare of Heresy
 2 Garruk's Harbinger
 2 Glare of Heresy

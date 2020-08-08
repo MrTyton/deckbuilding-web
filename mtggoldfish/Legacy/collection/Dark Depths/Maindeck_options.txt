@@ -62,16 +62,16 @@
 1 Helm of Obedience
 1 Ill-Gotten Gains
 2 Ancient Tomb
-2 Swamp
 2 Lion's Eye Diamond
+2 Swamp
 2 Infernal Tutor
 2 Leyline of the Void
 2 Ill-Gotten Gains
 2 Helm of Obedience
 3 Lion's Eye Diamond
 3 Duress
-3 Infernal Tutor
 3 Swamp
+3 Infernal Tutor
 3 Leyline of the Void
 4 Infernal Tutor
 4 Lion's Eye Diamond
@@ -114,7 +114,6 @@
 4 Inquisition of Kozilek
 4 Living Wish
 1 Dakmor Salvage
-1 Chalice of the Void
 1 Liliana's Triumph
 1 Liliana of the Veil
 1 Liliana, the Last Hope
@@ -124,22 +123,23 @@
 1 Desolation
 1 Cabal Pit
 1 Gurmag Angler
+1 Chalice of the Void
 1 Plague Engineer
-2 Chalice of the Void
 2 Snow-Covered Swamp
-2 Liliana's Triumph
 2 Liliana of the Veil
+2 Liliana's Triumph
 2 Lake of the Dead
 2 Trinisphere
 2 Gurmag Angler
+2 Chalice of the Void
 2 Desolation
 2 Wishclaw Talisman
-3 Chalice of the Void
 3 Liliana of the Veil
 3 Snow-Covered Swamp
 3 Chrome Mox
 3 Karn, the Great Creator
 3 Desolation
+3 Chalice of the Void
 4 Snow-Covered Swamp
 4 Chalice of the Void
 5 Snow-Covered Swamp
@@ -152,8 +152,8 @@
 1 Dryad Arbor
 1 Cabal Therapy
 1 Hogaak, Arisen Necropolis
-2 Stitcher's Supplier
 2 Satyr Wayfinder
+2 Stitcher's Supplier
 2 Hogaak, Arisen Necropolis
 2 Cabal Therapy
 3 Stitcher's Supplier

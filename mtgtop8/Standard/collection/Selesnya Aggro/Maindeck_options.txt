@@ -1,7 +1,7 @@
 3 Pelt Collector
 4 Pelt Collector
-1 Conclave Mentor
 1 Unbreakable Formation
+1 Conclave Mentor
 2 Conclave Mentor
 3 Conclave Mentor
 4 Conclave Mentor
@@ -18,8 +18,8 @@
 4 Venerated Loxodon
 8 Forest
 1 Growth-Chamber Guardian
-1 Chamber Sentry
 1 Karn's Bastion
+1 Chamber Sentry
 1 Basri's Lieutenant
 2 Growth-Chamber Guardian
 2 Chamber Sentry
@@ -35,16 +35,16 @@
 3 Glaring Aegis
 3 Solid Footing
 2 Unbreakable Formation
-1 Seasoned Hallowblade
-2 Seasoned Hallowblade
-3 Seasoned Hallowblade
-4 Seasoned Hallowblade
 1 Scavenging Ooze
 1 Selfless Savior
 2 Scavenging Ooze
 2 Selfless Savior
 3 Selfless Savior
 4 Selfless Savior
+1 Seasoned Hallowblade
+2 Seasoned Hallowblade
+3 Seasoned Hallowblade
+4 Seasoned Hallowblade
 1 Ajani, the Greathearted
 1 Blossoming Sands
 2 Blossoming Sands
@@ -59,7 +59,6 @@
 1 Witching Well
 1 Realm-Cloaked Giant
 1 Arboreal Grazer
-1 Simic Guildgate
 1 Meteor Golem
 1 Dream Trawler
 1 Banishing Light
@@ -71,13 +70,14 @@
 1 Risen Reef
 1 Neoform
 1 Thornwood Falls
+1 Simic Guildgate
 1 Beanstalk Giant
 1 Omen of the Sea
 1 Farfinder
 2 Fierce Empath
 2 Tranquil Cove
-2 Negate
 2 Imposing Vantasaur
+2 Negate
 2 Witching Well
 2 Cloudkin Seer
 2 Omen of the Sea
@@ -88,11 +88,11 @@
 2 Thornwood Falls
 2 Teferi's Time Twist
 3 Island
+3 Imposing Vantasaur
 3 Tranquil Cove
 3 Witching Well
-3 Fierce Empath
-3 Imposing Vantasaur
 3 Cloudkin Seer
+3 Fierce Empath
 3 Leafkin Druid
 3 Negate
 3 Risen Reef
@@ -100,11 +100,11 @@
 3 Omen of the Sea
 3 Thornwood Falls
 4 Island
+4 Imposing Vantasaur
 4 Tranquil Cove
 4 Witching Well
-4 Fierce Empath
-4 Imposing Vantasaur
 4 Leafkin Druid
+4 Fierce Empath
 4 Thornwood Falls
 4 Omen of the Sea
 4 Cloudkin Seer
@@ -124,27 +124,12 @@
 1 Healer's Hawk
 2 Healer's Hawk
 4 Solid Footing
-1 Lurrus of the Dream-Den
-1 Gideon Blackblade
-1 Primal Might
-1 Bronzehide Lion
-1 Lovestruck Beast
-1 Gemrazer
-2 Questing Beast
-2 Primal Might
-2 Gideon Blackblade
-2 Lurrus of the Dream-Den
-2 Bronzehide Lion
-2 Lovestruck Beast
-3 Lurrus of the Dream-Den
-3 Questing Beast
-3 Scavenging Ooze
-3 Primal Might
-3 Bronzehide Lion
-3 Lovestruck Beast
-4 Questing Beast
-4 Bronzehide Lion
-4 Lovestruck Beast
+1 Wildwood Scourge
+2 Wildwood Scourge
+3 Unbreakable Formation
+3 Wildwood Scourge
+4 Basri Ket
+4 Wildwood Scourge
 1 Castle Ardenvale
 1 Setessan Training
 2 Castle Ardenvale
@@ -155,26 +140,26 @@
 1 Vivien, Arkbow Ranger
 1 Ram Through
 1 Kronch Wrangler
-1 Selesnya Guildgate
 1 Feat of Resistance
+1 Selesnya Guildgate
 1 Bloom Hulk
 1 Barkhide Troll
 1 Outmuscle
 1 Renata, Called to the Hunt
 1 Evolution Sage
-2 Selesnya Guildgate
+2 Feat of Resistance
 2 Kronch Wrangler
 2 Ram Through
+2 Selesnya Guildgate
 2 Bloom Hulk
 2 Evolution Sage
 2 Barkhide Troll
 2 Renata, Called to the Hunt
-2 Feat of Resistance
 2 Outmuscle
+3 Feat of Resistance
 3 Kronch Wrangler
 3 Ram Through
 3 Renata, Called to the Hunt
-3 Feat of Resistance
 3 Evolution Sage
 3 Bloom Hulk
 3 Barkhide Troll
@@ -186,9 +171,24 @@
 10 Forest
 11 Forest
 12 Forest
-1 Wildwood Scourge
-2 Wildwood Scourge
-3 Unbreakable Formation
-3 Wildwood Scourge
-4 Wildwood Scourge
-4 Basri Ket
+1 Lurrus of the Dream-Den
+1 Gideon Blackblade
+1 Primal Might
+1 Lovestruck Beast
+1 Gemrazer
+1 Bronzehide Lion
+2 Questing Beast
+2 Primal Might
+2 Gideon Blackblade
+2 Lurrus of the Dream-Den
+2 Lovestruck Beast
+2 Bronzehide Lion
+3 Lurrus of the Dream-Den
+3 Questing Beast
+3 Scavenging Ooze
+3 Primal Might
+3 Lovestruck Beast
+3 Bronzehide Lion
+4 Questing Beast
+4 Lovestruck Beast
+4 Bronzehide Lion

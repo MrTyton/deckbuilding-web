@@ -1,17 +1,26 @@
+1 Swamp
+1 Driven/Despair
 2 Driven/Despair
 3 Haunted Dead
 1 Llanowar Wastes
 2 Llanowar Wastes
 3 Llanowar Wastes
-1 Deathrite Shaman
-2 Deathrite Shaman
+1 Merfolk Secretkeeper
+2 Merfolk Secretkeeper
+3 Merfolk Secretkeeper
+4 Merfolk Secretkeeper
 4 Llanowar Wastes
 3 Driven/Despair
+1 Scrapheap Scrounger
+1 Mana Confluence
+2 Scrapheap Scrounger
 1 Forest
 2 Forest
 2 Swamp
 3 Swamp
 4 Haunted Dead
+1 Island
+2 Island
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
@@ -23,11 +32,11 @@
 1 World Breaker
 1 Nissa's Pilgrimage
 1 Ugin, the Spirit Dragon
-1 Sanctum of Ugin
 1 Ulamog, the Ceaseless Hunger
+1 Sanctum of Ugin
+2 Ugin, the Spirit Dragon
 2 Castle Garenbrig
 2 Nissa's Pilgrimage
-2 Ugin, the Spirit Dragon
 3 Castle Garenbrig
 3 Ugin, the Spirit Dragon
 3 Nissa's Pilgrimage
@@ -39,8 +48,6 @@
 6 Forest
 7 Forest
 8 Forest
-1 Island
-2 Island
 1 Elvish Rejuvenator
 1 Woodland Bellower
 2 Elvish Rejuvenator
@@ -49,46 +56,43 @@
 2 Cling to Dust
 1 Traverse the Ulvenwald
 1 Gurmag Angler
-1 Decimator of the Provinces
 1 Zagoth Triome
+1 Decimator of the Provinces
 1 Abundant Maw
 2 Traverse the Ulvenwald
 2 Gurmag Angler
 2 Decimator of the Provinces
 2 Abundant Maw
 3 Gurmag Angler
+1 Cavalier of Thorns
 1 Solemn Simulacrum
 1 Ipnu Rivulet
 1 Hinterland Harbor
 1 Nissa, Who Shakes the World
 1 Oath of Nissa
-1 Cavalier of Thorns
-2 Oath of Nissa
+2 Cavalier of Thorns
 2 Hinterland Harbor
 2 Solemn Simulacrum
 2 Sanctum of Ugin
 2 World Breaker
+2 Oath of Nissa
 2 Ipnu Rivulet
 2 Nissa, Who Shakes the World
-2 Cavalier of Thorns
-3 Oath of Nissa
 3 Cavalier of Thorns
 3 Solemn Simulacrum
 3 Ipnu Rivulet
 3 Hinterland Harbor
+3 Oath of Nissa
 3 Deathrite Shaman
 4 Deathrite Shaman
-1 Merfolk Secretkeeper
-2 Merfolk Secretkeeper
-3 Merfolk Secretkeeper
-4 Merfolk Secretkeeper
+1 Reclamation Sage
 1 Thassa, Deep-Dwelling
 1 Neoform
 1 Scavenging Ooze
+1 Hostage Taker
 1 Agent of Treachery
 1 Tasigur, the Golden Fang
 1 Cavalier of Night
-1 Hostage Taker
 1 Thought-Knot Seer
 1 Massacre Girl
 1 Cavalier of Gales
@@ -96,7 +100,6 @@
 1 Grapple with the Past
 1 Fabled Passage
 1 Eldritch Evolution
-1 Reclamation Sage
 2 Neoform
 2 Agent of Treachery
 2 Tasigur, the Golden Fang
@@ -109,30 +112,35 @@
 3 Eldritch Evolution
 4 Neoform
 4 Fabled Passage
+1 Brokkos, Apex of Forever
+1 Lotleth Troll
+1 Breaking/Entering
+2 Lotleth Troll
+2 Breaking/Entering
+3 Breaking/Entering
+3 Lotleth Troll
+4 Lotleth Troll
 1 Chronic Flooding
+1 Perpetual Timepiece
 1 Minister of Inquiries
 1 Choked Estuary
-1 Scrapheap Scrounger
-1 Perpetual Timepiece
-1 Mana Confluence
 2 Mana Confluence
 2 Perpetual Timepiece
 2 Minister of Inquiries
 2 Choked Estuary
-2 Scrapheap Scrounger
 2 Chronic Flooding
 3 Island
 3 Mana Confluence
+3 Perpetual Timepiece
 3 Chronic Flooding
 3 Choked Estuary
 3 Minister of Inquiries
-3 Perpetual Timepiece
 4 Minister of Inquiries
 4 Driven/Despair
-4 Choked Estuary
 4 Mana Confluence
 4 Chronic Flooding
 4 Perpetual Timepiece
+4 Choked Estuary
 1 Wastes
 1 Emrakul, the Promised End
 1 Oblivion Sower

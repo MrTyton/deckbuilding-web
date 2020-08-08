@@ -44,10 +44,6 @@
 2 Duress
 3 Witching Well
 4 Witching Well
-4 Cry of the Carnarium
-1 Opt
-2 Opt
-4 Chemister's Insight
 1 Merfolk Secretkeeper
 1 Teferi's Tutelage
 1 Pestilent Haze
@@ -60,16 +56,20 @@
 3 Teferi's Tutelage
 3 Pestilent Haze
 4 Merfolk Secretkeeper
-4 Drown in the Loch
 4 Thought Collapse
+4 Drown in the Loch
 4 Pestilent Haze
+4 Cry of the Carnarium
+1 Opt
+2 Opt
+4 Chemister's Insight
 1 Blast Zone
-1 Watery Grave
+1 Cling to Dust
 1 Zagoth Triome
 1 Easy Prey
 1 Heartless Act
 1 Castle Vantress
-1 Cling to Dust
+1 Watery Grave
 1 Temple of Deceit
 1 Extinction Event
 1 Brazen Borrower
@@ -77,29 +77,29 @@
 1 Castle Locthwain
 2 Zagoth Triome
 2 Sinister Sabotage
+2 Cling to Dust
 2 Castle Locthwain
-2 Watery Grave
-2 Temple of Deceit
 2 Blast Zone
 2 Heartless Act
 2 Easy Prey
 2 Extinction Event
 2 Castle Vantress
-2 Cling to Dust
+2 Temple of Deceit
 2 Brazen Borrower
 2 Shark Typhoon
-3 Castle Locthwain
+2 Watery Grave
 3 Sinister Sabotage
-3 Zagoth Triome
 3 Castle Vantress
-3 Watery Grave
-3 Brazen Borrower
+3 Castle Locthwain
 3 Shark Typhoon
 3 Easy Prey
+3 Brazen Borrower
+3 Zagoth Triome
+3 Watery Grave
 4 Thought Erasure
 4 Sinister Sabotage
-4 Watery Grave
-4 Brazen Borrower
 4 Easy Prey
+4 Brazen Borrower
 4 Shark Typhoon
+4 Watery Grave
 4 Zagoth Triome

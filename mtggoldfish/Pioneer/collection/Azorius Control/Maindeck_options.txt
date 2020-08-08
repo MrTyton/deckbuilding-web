@@ -1,10 +1,15 @@
-2 Castle Vantress
-1 Cast Out
 3 Absorb
 1 Elspeth Conquers Death
 2 Elspeth Conquers Death
-2 Gideon of the Trials
+1 Cast Out
 3 Teferi, Time Raveler
+4 Absorb
+4 Censor
+4 Irrigated Farmland
+3 Dig Through Time
+6 Island
+2 Gideon of the Trials
+1 Commit/Memory
 1 Baffling End
 1 Omen of the Sea
 2 Omen of the Sea
@@ -12,13 +17,6 @@
 3 Omen of the Sea
 3 Plains
 4 Omen of the Sea
-4 Censor
-1 Commit/Memory
-4 Absorb
-3 Fabled Passage
-3 Baffling End
-4 Baffling End
-4 Teferi, Time Raveler
 3 Sinister Sabotage
 1 Seal Away
 2 Seal Away
@@ -26,43 +24,31 @@
 4 Plains
 5 Plains
 6 Plains
-6 Island
-1 Elspeth, Sun's Nemesis
-1 Gideon, Ally of Zendikar
-1 Essence Scatter
 4 Sinister Sabotage
-3 Dig Through Time
 1 Dream Trawler
 2 Dream Trawler
 2 Prairie Stream
 2 Dovin's Veto
-1 Fumigate
-1 Jace, Architect of Thought
+3 Baffling End
+4 Baffling End
+4 Teferi, Time Raveler
+1 Neutralize
+3 Fabled Passage
 3 Seal Away
 4 Seal Away
+1 Elspeth, Sun's Nemesis
+1 Gideon, Ally of Zendikar
+2 Neutralize
+1 Essence Scatter
+7 Island
 1 Blast Zone
-4 Fabled Passage
-3 Field of Ruin
+4 Shark Typhoon
 2 Essence Scatter
 3 Essence Scatter
-7 Island
-1 Oath of Kaya
-1 Fetid Pools
-1 Isolated Chapel
-1 Swamp
-1 Watery Grave
-1 Godless Shrine
-2 Oath of Kaya
-2 Fetid Pools
-3 Oath of Kaya
-3 Fetid Pools
-3 Gideon of the Trials
-4 Fetid Pools
-4 Shark Typhoon
-1 Neutralize
+1 Fumigate
 1 Chemister's Insight
+1 Jace, Architect of Thought
 3 Narset, Parter of Veils
-2 Neutralize
 2 Cast Out
 1 Void Shatter
 2 Void Shatter
@@ -71,7 +57,6 @@
 4 Dovin's Veto
 4 Teferi, Hero of Dominaria
 3 Castle Ardenvale
-4 Gideon of the Trials
 2 Chemister's Insight
 1 Hieroglyphic Illumination
 2 Hieroglyphic Illumination
@@ -81,6 +66,8 @@
 4 Neutralize
 4 Hieroglyphic Illumination
 4 Cast Out
+4 Fabled Passage
+3 Field of Ruin
 1 Drake Haven
 1 Abandoned Sarcophagus
 1 Teferi, Master of Time
@@ -93,6 +80,18 @@
 2 The Birth of Meletis
 2 Omen of the Sun
 3 The Birth of Meletis
+1 Oath of Kaya
+1 Fetid Pools
+1 Isolated Chapel
+1 Swamp
+1 Watery Grave
+1 Godless Shrine
+2 Oath of Kaya
+2 Fetid Pools
+3 Fetid Pools
+3 Oath of Kaya
+3 Gideon of the Trials
+4 Fetid Pools
 1 Sacred Foundry
 1 Raugrin Triome
 2 Raugrin Triome
@@ -106,8 +105,8 @@
 1 Nimble Obstructionist
 1 Zenith Flare
 1 Flourishing Fox
-2 Settle the Wreckage
 2 Sulfur Falls
+2 Settle the Wreckage
 2 Nimble Obstructionist
 2 Sacred Foundry
 2 Flourishing Fox

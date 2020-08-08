@@ -1,12 +1,12 @@
-2 Terror of the Peaks
+2 Temple of Mystery
+3 Terror of the Peaks
+1 Yorion, Sky Nomad
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
 1 Temple of Abandon
 1 Temple of Epiphany
 2 Arboreal Grazer
 3 Arboreal Grazer
-1 Yorion, Sky Nomad
-3 Terror of the Peaks
 2 Temple of Epiphany
 2 Temple of Abandon
 3 Temple of Epiphany
@@ -15,33 +15,38 @@
 4 Arboreal Grazer
 4 Temple of Mystery
 3 Nissa, Who Shakes the World
-2 Yorion, Sky Nomad
-1 Aether Gust
+1 Paradise Druid
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+3 Bonecrusher Giant
 1 Nightpack Ambusher
 1 Brazen Borrower
 2 Nightpack Ambusher
 2 Brazen Borrower
 3 Brazen Borrower
+1 Aether Gust
+2 Yorion, Sky Nomad
 1 Castle Vantress
-1 Bonecrusher Giant
-2 Bonecrusher Giant
+2 Paradise Druid
+3 Paradise Druid
+1 Wolfwillow Haven
+2 Wolfwillow Haven
 3 Nightpack Ambusher
-3 Bonecrusher Giant
 4 Nightpack Ambusher
 1 Shark Typhoon
 2 Shark Typhoon
 1 Sinister Sabotage
+1 Frilled Mystic
 1 Quench
 1 Mystical Dispute
-1 Frilled Mystic
 1 Flame Sweep
 2 Sinister Sabotage
+2 Frilled Mystic
 2 Quench
 2 Mystical Dispute
 2 Flame Sweep
-2 Frilled Mystic
-1 Ugin, the Spirit Dragon
 1 Ugin, the Ineffable
+1 Ugin, the Spirit Dragon
 2 Ugin, the Spirit Dragon
 2 Ugin, the Ineffable
 3 Ugin, the Spirit Dragon
@@ -49,17 +54,14 @@
 4 Temple of Abandon
 4 Temple of Epiphany
 4 Nissa, Who Shakes the World
-2 Castle Vantress
 1 Negate
-1 Wolfwillow Haven
-2 Wolfwillow Haven
+2 Castle Vantress
 3 Wolfwillow Haven
-1 Paradise Druid
-1 Sublime Epiphany
 1 Wilt
+1 Sublime Epiphany
 2 Aether Gust
-3 Quench
 3 Sinister Sabotage
+3 Quench
 3 Aether Gust
 1 Hydroid Krasis
 2 Hydroid Krasis
@@ -102,8 +104,6 @@
 3 Cultivate
 4 Cultivate
 4 Forest
-2 Paradise Druid
-3 Paradise Druid
 1 Whirlwind Denial
 2 Whirlwind Denial
 3 Frilled Mystic
@@ -116,8 +116,8 @@
 1 Stonecoil Serpent
 1 Castle Ardenvale
 1 Shifting Ceratops
-1 Elspeth Conquers Death
 1 Narset, Parter of Veils
+1 Elspeth Conquers Death
 2 Plains
 2 Stonecoil Serpent
 2 Shifting Ceratops
@@ -131,20 +131,36 @@
 2 Raugrin Triome
 3 Hydroid Krasis
 3 Teferi, Time Raveler
+4 Jolrael, Mwonvuli Recluse
 4 Hydroid Krasis
 4 Teferi, Time Raveler
-4 Jolrael, Mwonvuli Recluse
+1 Questing Beast
+1 Elder Gargaroth
+1 Incubation Druid
+1 Vivien, Monsters' Advocate
+2 Vivien, Monsters' Advocate
+2 Questing Beast
+2 Elder Gargaroth
+2 Incubation Druid
+3 Elder Gargaroth
+3 Questing Beast
+3 Incubation Druid
+4 Terror of the Peaks
+4 Paradise Druid
+4 Elder Gargaroth
+4 Questing Beast
+4 Incubation Druid
 1 Brineborn Cutthroat
+1 Ionize
 1 Gadwick, the Wizened
 1 Neutralize
 1 Scorching Dragonfire
-1 Ionize
 1 Opt
 2 Brineborn Cutthroat
+2 Ionize
 2 Gadwick, the Wizened
 2 Scorching Dragonfire
 2 Opt
-2 Ionize
 3 Brineborn Cutthroat
 3 Ionize
 3 Opt
