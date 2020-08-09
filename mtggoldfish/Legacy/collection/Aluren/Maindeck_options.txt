@@ -12,8 +12,8 @@
 1 Karakas
 1 Shardless Agent
 2 Tropical Island
-1 Teferi, Time Raveler
 1 Swords to Plowshares
+1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 3 Verdant Catacombs
 3 Snow-Covered Forest
@@ -23,10 +23,10 @@
 1 Sylvan Library
 2 Bayou
 4 Verdant Catacombs
-1 Faerie Impostor
-1 Intuition
-1 Reclamation Sage
 1 Windswept Heath
+1 Reclamation Sage
+1 Intuition
+1 Faerie Impostor
 2 Intuition
 2 Sylvan Library
 1 Assassin's Trophy
@@ -52,19 +52,19 @@
 4 Snow-Covered Forest
 4 Snow-Covered Island
 2 Veteran Explorer
-1 Forest
 1 Swamp
+1 Forest
 1 Island
 1 Mirri's Guile
-2 Island
 2 Forest
+2 Island
 1 Flooded Strand
 2 Shardless Agent
 1 Noble Hierarch
 1 Scavenging Ooze
 2 Noble Hierarch
-3 Green Sun's Zenith
 3 Noble Hierarch
+3 Green Sun's Zenith
 4 Noble Hierarch
 4 Green Sun's Zenith
 1 Abundant Growth
@@ -79,19 +79,22 @@
 2 Underground Sea
 1 See the Truth
 3 Shardless Agent
-4 Polluted Delta
 4 Shardless Agent
+4 Polluted Delta
 1 Ukkima, Stalking Shadow
 1 Snow-Covered Mountain
-1 Taiga
 1 Imperial Recruiter
+1 Taiga
 2 Imperial Recruiter
 3 Imperial Recruiter
 4 Imperial Recruiter
-1 Volrath's Stronghold
 1 Ayara, First of Locthwain
+1 Volrath's Stronghold
 1 Jolrael, Mwonvuli Recluse
 1 Academy Rector
+1 Unearth
+1 Veil of Summer
+1 Snapcaster Mage
 1 Vito, Thorn of the Dusk Rose
 1 Mystic Sanctuary
 1 Dream Stalker
@@ -101,6 +104,3 @@
 2 Thoughtseize
 3 Thoughtseize
 3 Veteran Explorer
-1 Unearth
-1 Veil of Summer
-1 Snapcaster Mage

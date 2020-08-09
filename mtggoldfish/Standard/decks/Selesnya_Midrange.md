@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Gemrazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479675)         |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)|
-|                    3|[Temple of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378537) |                    1|[Banishing Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405135)|
+|                    1|[Gemrazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479675)         |                    1|[Banishing Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405135)|
+|                    3|[Temple of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378537) |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)|
 |                    4|[Temple of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378537) |                    2|[Banishing Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405135)|
 |                    3|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)   |                    1|[Giant Killer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472976)   |
 |                    3|[Gideon Blackblade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463943)|                    1|[Ram Through](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479690)    |
