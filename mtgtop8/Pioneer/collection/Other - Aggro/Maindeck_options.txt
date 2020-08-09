@@ -76,30 +76,30 @@
 2 Collected Company
 3 Collected Company
 4 Collected Company
-1 Militia Bugler
 1 Heliod, Sun-Crowned
+1 Militia Bugler
 2 Fortified Village
 2 Militia Bugler
 2 Heliod, Sun-Crowned
+3 Heliod, Sun-Crowned
 3 Fortified Village
 3 Militia Bugler
-3 Heliod, Sun-Crowned
 4 Militia Bugler
 4 Heliod, Sun-Crowned
 3 Kroxa, Titan of Death's Hunger
 1 Conclave Mentor
 2 Conclave Mentor
 3 Conclave Mentor
-4 Sunpetal Grove
 4 Conclave Mentor
+4 Sunpetal Grove
 6 Forest
 7 Forest
-1 Pelt Collector
 1 Experiment One
+1 Pelt Collector
 2 Experiment One
 2 Pelt Collector
-3 Pelt Collector
 3 Experiment One
+3 Pelt Collector
 4 Experiment One
 1 Nissa, Voice of Zendikar
 1 Hardened Scales
@@ -145,8 +145,8 @@
 1 Charming Prince
 1 Prophet of Kruphix
 1 Llanowar Visionary
-1 Radiant Fountain
 1 Chord of Calling
+1 Radiant Fountain
 1 Sporeweb Weaver
 1 Knight of Autumn
 2 Chord of Calling
@@ -160,13 +160,13 @@
 1 Ashiok, Nightmare Muse
 1 Ipnu Rivulet
 1 Traverse the Ulvenwald
-1 Eat to Extinction
 1 Jace, Vryn's Prodigy
 1 Tireless Tracker
-1 Heartless Act
 1 Abrupt Decay
+1 Heartless Act
 1 Atris, Oracle of Half-Truths
 1 Nissa, Who Shakes the World
+1 Eat to Extinction
 1 Uro, Titan of Nature's Wrath
 1 Shark Typhoon
 1 Zagoth Triome
@@ -197,37 +197,12 @@
 3 Goblin Instigator
 3 Rootbound Crag
 4 Gilded Goose
-1 Scattered Groves
-1 Lurrus of the Dream-Den
-1 The Great Henge
-1 Anafenza, Kin-Tree Spirit
-2 The Great Henge
-2 Anafenza, Kin-Tree Spirit
-4 Fortified Village
-1 Elspeth's Nightmare
-1 Ritual of Soot
-1 Chandra, Torch of Defiance
-1 Liliana, the Last Hope
-1 Collective Brutality
-1 Kolaghan's Command
-1 Ox of Agonas
-1 Kalitas, Traitor of Ghet
-1 Anger of the Gods
-2 Ox of Agonas
-2 Elspeth's Nightmare
-2 Kolaghan's Command
-2 Collective Brutality
-2 Kalitas, Traitor of Ghet
-3 Collective Brutality
-3 Ox of Agonas
-4 Mountain
-4 Kroxa, Titan of Death's Hunger
 1 Burning-Tree Emissary
 1 Hashep Oasis
 1 Domri, Anarch of Bolas
-1 Voltaic Brawler
 1 Gallia of the Endless Dance
 1 Zhur-Taa Goblin
+1 Voltaic Brawler
 1 Dryad Militant
 1 Questing Beast
 1 Hazoret the Fervent
@@ -238,9 +213,9 @@
 1 Domri Rade
 2 Burning-Tree Emissary
 2 Hashep Oasis
-2 Voltaic Brawler
 2 Gallia of the Endless Dance
 2 Zhur-Taa Goblin
+2 Voltaic Brawler
 2 Gruul Spellbreaker
 2 Ghor-Clan Rampager
 2 Embercleave
@@ -250,9 +225,27 @@
 3 Ghor-Clan Rampager
 3 Gruul Spellbreaker
 4 Burning-Tree Emissary
-4 Voltaic Brawler
-4 Gruul Spellbreaker
 4 Ghor-Clan Rampager
+4 Gruul Spellbreaker
+4 Voltaic Brawler
+1 Elspeth's Nightmare
+1 Ritual of Soot
+1 Chandra, Torch of Defiance
+1 Liliana, the Last Hope
+1 Collective Brutality
+1 Kolaghan's Command
+1 Ox of Agonas
+1 Kalitas, Traitor of Ghet
+1 Anger of the Gods
+2 Ox of Agonas
+2 Kolaghan's Command
+2 Collective Brutality
+2 Elspeth's Nightmare
+2 Kalitas, Traitor of Ghet
+3 Collective Brutality
+3 Ox of Agonas
+4 Mountain
+4 Kroxa, Titan of Death's Hunger
 1 Dreadbore
 1 Wild Slash
 1 Dreadhorde Arcanist
@@ -267,31 +260,38 @@
 3 Call of the Death-Dweller
 4 Young Pyromancer
 4 Dreadhorde Arcanist
-1 Unclaimed Territory
+1 Lurrus of the Dream-Den
+1 Scattered Groves
+1 The Great Henge
+1 Anafenza, Kin-Tree Spirit
+2 The Great Henge
+2 Anafenza, Kin-Tree Spirit
+4 Fortified Village
 1 Rogue Refiner
 1 General's Enforcer
-1 Kytheon, Hero of Akros
 1 General Kudro of Drannith
-1 Hallowed Fountain
 1 Niambi, Esteemed Speaker
-1 Thalia's Lieutenant
 1 Reflector Mage
 1 Hero of Precinct One
 1 Dire Tactics
+1 Unclaimed Territory
+1 Hallowed Fountain
+1 Kytheon, Hero of Akros
+1 Thalia's Lieutenant
 1 Concealed Courtyard
 1 Thraben Inspector
 1 Botanical Sanctum
-2 Unclaimed Territory
-2 Hallowed Fountain
 2 Rogue Refiner
 2 General Kudro of Drannith
 2 Niambi, Esteemed Speaker
 2 Reflector Mage
-2 Kytheon, Hero of Akros
 2 General's Enforcer
-2 Thalia's Lieutenant
 2 Hero of Precinct One
 2 Dire Tactics
+2 Unclaimed Territory
+2 Hallowed Fountain
+2 Kytheon, Hero of Akros
+2 Thalia's Lieutenant
 2 Concealed Courtyard
 2 Thraben Inspector
 3 Rogue Refiner
@@ -299,16 +299,16 @@
 3 General's Enforcer
 3 General Kudro of Drannith
 3 Hero of Precinct One
-3 Thalia's Lieutenant
-3 Unclaimed Territory
 3 Dire Tactics
+3 Unclaimed Territory
+3 Thalia's Lieutenant
 3 Kytheon, Hero of Akros
 3 Thraben Inspector
 3 Concealed Courtyard
 4 General Kudro of Drannith
 4 Reflector Mage
-4 Unclaimed Territory
 4 Hero of Precinct One
+4 Unclaimed Territory
 4 Thalia's Lieutenant
 4 Thraben Inspector
 4 Concealed Courtyard
@@ -318,8 +318,8 @@
 1 Llanowar Wastes
 1 Assassin's Trophy
 1 Mutavault
-2 Llanowar Wastes
 2 Winding Constrictor
+2 Llanowar Wastes
 2 Assassin's Trophy
 2 Mutavault
 2 Scavenging Ooze
@@ -328,15 +328,15 @@
 3 Winding Constrictor
 3 Assassin's Trophy
 4 Voracious Hydra
-4 Nissa, Voice of Zendikar
 4 Mutavault
+4 Nissa, Voice of Zendikar
 4 Winding Constrictor
 4 Assassin's Trophy
 4 Llanowar Wastes
 1 Calix, Destiny's Hand
 1 Banishing Light
-1 Temple of Plenty
 1 Starfield Mystic
+1 Temple of Plenty
 1 Sigil of the Empty Throne
 1 Sphere of Safety
 1 Setessan Champion
@@ -347,13 +347,13 @@
 2 Cast Out
 2 Calix, Destiny's Hand
 2 Banishing Light
+2 Starfield Mystic
 2 Field of Ruin
 2 Sigil of the Empty Throne
 2 Eidolon of Blossoms
 2 Herald of the Pantheon
 2 Alseid of Life's Bounty
 2 Setessan Champion
-2 Starfield Mystic
 2 Temple of Plenty
 3 Cast Out
 3 Banishing Light
@@ -364,12 +364,12 @@
 3 Herald of the Pantheon
 3 Alseid of Life's Bounty
 3 Calix, Destiny's Hand
+4 Starfield Mystic
 4 Cast Out
 4 Temple of Plenty
 4 Banishing Light
 4 Eidolon of Blossoms
 4 Herald of the Pantheon
-4 Starfield Mystic
 4 Courser of Kruphix
 4 Alseid of Life's Bounty
 4 Setessan Champion
@@ -408,8 +408,8 @@
 2 Mystical Dispute
 3 Island
 3 Thieves' Guild Enforcer
-3 Drowned Catacomb
 3 Watery Grave
+3 Drowned Catacomb
 3 Brazen Borrower
 3 Drown in the Loch
 3 Eliminate

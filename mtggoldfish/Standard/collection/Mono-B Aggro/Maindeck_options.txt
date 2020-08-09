@@ -1,6 +1,6 @@
 2 Murderous Rider
-1 Blood Crypt
 1 Embercleave
+1 Blood Crypt
 1 Mountain
 1 Rotting Regisaur
 2 Blood Crypt
@@ -11,49 +11,44 @@
 3 Blood Crypt
 3 Rotting Regisaur
 3 Mountain
-4 Blood Crypt
 4 Rotting Regisaur
 4 Mountain
+4 Blood Crypt
 5 Mountain
 6 Mountain
-1 Fabled Passage
 1 Dreadhorde Butcher
-2 Fabled Passage
+1 Fabled Passage
 2 Dreadhorde Butcher
+2 Fabled Passage
 3 Dreadhorde Butcher
 4 Dreadhorde Butcher
 7 Mountain
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-1 Cavalier of Night
 1 Kroxa, Titan of Death's Hunger
+1 Cavalier of Night
 1 Castle Embereth
 2 Kroxa, Titan of Death's Hunger
-3 Fabled Passage
 3 Murderous Rider
 3 Kroxa, Titan of Death's Hunger
+3 Fabled Passage
 3 Bonecrusher Giant
 4 Murderous Rider
 4 Bonecrusher Giant
-1 Eliminate
 1 Fervent Champion
 2 Fervent Champion
-2 Eliminate
 3 Fervent Champion
-4 Embercleave
 4 Fervent Champion
-1 Temple of Malice
+4 Embercleave
+1 Demonic Embrace
+1 Eliminate
+2 Eliminate
 1 Judith, the Scourge Diva
+1 Temple of Malice
 2 Temple of Malice
 2 Judith, the Scourge Diva
-3 Eliminate
 3 Judith, the Scourge Diva
-1 Demonic Embrace
-1 Robber of the Rich
-2 Robber of the Rich
-3 Robber of the Rich
-4 Robber of the Rich
-1 Shadowspear
+3 Eliminate
 1 Stormfist Crusader
 1 Tournament Grounds
 2 Tournament Grounds
@@ -62,6 +57,13 @@
 3 Tournament Grounds
 4 Tournament Grounds
 4 Stormfist Crusader
+1 Shadowspear
+1 Drill Bit
+1 Oathsworn Knight
+2 Oathsworn Knight
+2 Drill Bit
+3 Blacklance Paragon
+3 Oathsworn Knight
 1 Gray Merchant of Asphodel
 1 Yarok's Fenlurker
 1 Nightmare Shepherd
@@ -73,3 +75,6 @@
 3 Yarok's Fenlurker
 4 Nightmare Shepherd
 4 Gray Merchant of Asphodel
+1 Erebos, Bleak-Hearted
+2 Demonic Embrace
+20 Swamp

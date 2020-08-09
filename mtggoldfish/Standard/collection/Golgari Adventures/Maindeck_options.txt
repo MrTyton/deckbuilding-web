@@ -1,8 +1,8 @@
 3 The Great Henge
-4 Paradise Druid
 4 Rotting Regisaur
 2 Vivien, Arkbow Ranger
 3 Vivien, Arkbow Ranger
+4 Paradise Druid
 4 Questing Beast
 1 Vraska, Golgari Queen
 3 Order of Midnight
@@ -16,10 +16,10 @@
 9 Forest
 1 Eliminate
 1 Jolrael, Mwonvuli Recluse
-1 Village Rites
 2 Jolrael, Mwonvuli Recluse
-2 Village Rites
 3 Jolrael, Mwonvuli Recluse
+1 Village Rites
+2 Village Rites
 3 Village Rites
 1 Scavenging Ooze
 1 Massacre Girl
@@ -41,19 +41,9 @@
 1 Garruk, Cursed Huntsman
 2 Garruk, Cursed Huntsman
 4 Order of Midnight
-1 Nissa, Who Shakes the World
-1 Stomping Ground
-1 Bonecrusher Giant
-1 Mountain
-2 Stomping Ground
-2 Bonecrusher Giant
-2 Mountain
-3 Bonecrusher Giant
-3 Stomping Ground
-4 Bonecrusher Giant
-4 Stomping Ground
 4 Vivien, Arkbow Ranger
 1 Thrashing Brontodon
+1 Nissa, Who Shakes the World
 4 Smitten Swordmaster
 1 Midnight Reaper
 2 Find/Finality
@@ -66,19 +56,26 @@
 2 Reaper of Night
 4 Beanstalk Giant
 1 Blood Crypt
+1 Bonecrusher Giant
+1 Stomping Ground
+1 Mountain
+2 Bonecrusher Giant
 2 Blood Crypt
+2 Stomping Ground
+2 Mountain
 3 Blood Crypt
+3 Bonecrusher Giant
+3 Stomping Ground
 4 Blood Crypt
+4 Bonecrusher Giant
+4 Stomping Ground
 1 Garruk, Unleashed
 2 Eliminate
 4 Fabled Passage
-1 Temple of Abandon
-1 Embercleave
-2 Embercleave
 1 Cavalier of Night
 1 Noxious Grasp
-2 Noxious Grasp
 2 Massacre Girl
+2 Noxious Grasp
 2 Midnight Reaper
 1 Duress
 1 Sorin's Thirst
@@ -86,17 +83,20 @@
 2 Sorin's Thirst
 3 Sorin's Thirst
 1 Davriel, Rogue Shadowmage
+1 Temple of Abandon
+1 Embercleave
+1 Radha, Heart of Keld
+1 Temple of Malice
+1 Escape to the Wilds
+2 Embercleave
+2 Garruk, Unleashed
+2 Radha, Heart of Keld
 1 Elder Gargaroth
 2 Vivien, Monsters' Advocate
 2 Thrashing Brontodon
 1 Field of Ruin
 2 Nissa, Who Shakes the World
 2 Field of Ruin
-1 Temple of Malice
-1 Radha, Heart of Keld
-1 Escape to the Wilds
-2 Radha, Heart of Keld
-2 Garruk, Unleashed
 1 Rimrock Knight
 2 Rimrock Knight
 3 Rimrock Knight
@@ -107,57 +107,67 @@
 2 God-Eternal Rhonas
 3 Arboreal Grazer
 1 Gemrazer
-1 Shifting Ceratops
 1 Agonizing Remorse
+1 Shifting Ceratops
 2 Gemrazer
 2 Agonizing Remorse
-3 Eliminate
 3 Agonizing Remorse
+3 Eliminate
 4 Agonizing Remorse
-1 Knight of the Ebon Legion
 1 Spawn of Mayhem
-2 Knight of the Ebon Legion
+1 Knight of the Ebon Legion
 2 Spawn of Mayhem
+2 Knight of the Ebon Legion
 3 Knight of the Ebon Legion
-3 Demonic Embrace
 3 Spawn of Mayhem
+3 Demonic Embrace
 4 Knight of the Ebon Legion
 1 Heartless Act
 2 Heartless Act
 4 Village Rites
-1 Giant Killer
-1 Basri's Lieutenant
-1 Faerie Guidemother
-1 Winota, Joiner of Forces
-1 Temple Garden
-1 Temple of Plenty
-1 Sacred Foundry
-1 Plains
-2 Giant Killer
-2 Winota, Joiner of Forces
-2 Sacred Foundry
-2 Plains
-2 Faerie Guidemother
-2 Temple Garden
-2 Basri's Lieutenant
-3 Faerie Guidemother
-3 Sacred Foundry
-3 Basri's Lieutenant
-3 Winota, Joiner of Forces
-3 Temple Garden
-4 Faerie Guidemother
-4 Sacred Foundry
-4 Temple Garden
-4 Basri's Lieutenant
-4 Winota, Joiner of Forces
+1 Liliana, Dreadhorde General
 1 Ugin, the Spirit Dragon
 1 Jungle Hollow
-1 Liliana, Dreadhorde General
 1 Deathsprout
 2 Jungle Hollow
 3 Jungle Hollow
 3 Reaper of Night
 4 Reaper of Night
+1 Castle Vantress
+1 Zagoth Triome
+1 Watery Grave
+1 Teferi, Master of Time
+1 Breeding Pool
+1 Sublime Epiphany
+1 Brazen Borrower
+1 Island
+1 Mystical Dispute
+1 Uro, Titan of Nature's Wrath
+1 Aether Gust
+1 Opt
+2 Zagoth Triome
+2 Watery Grave
+2 Castle Vantress
+2 Breeding Pool
+2 Brazen Borrower
+2 Uro, Titan of Nature's Wrath
+2 Island
+2 Aether Gust
+2 Mystical Dispute
+2 Opt
+3 Watery Grave
+3 Zagoth Triome
+3 Uro, Titan of Nature's Wrath
+3 Breeding Pool
+3 Opt
+3 Mystical Dispute
+3 Aether Gust
+4 Zagoth Triome
+4 Breeding Pool
+4 Uro, Titan of Nature's Wrath
+4 Aether Gust
+4 Mystical Dispute
+4 Opt
 1 Epic Downfall
 2 Epic Downfall
 3 Epic Downfall

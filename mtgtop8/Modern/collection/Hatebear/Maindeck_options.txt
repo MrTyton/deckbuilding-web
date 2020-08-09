@@ -1,7 +1,7 @@
 2 Restoration Angel
 3 Restoration Angel
-1 Selfless Spirit
 1 Castle Ardenvale
+1 Selfless Spirit
 3 Aven Mindcensor
 6 Snow-Covered Plains
 7 Snow-Covered Plains
@@ -38,32 +38,32 @@
 1 Winds of Abandon
 1 Inspiring Vantage
 1 Sacred Foundry
+1 Magus of the Moon
 1 Seasoned Pyromancer
 1 Remorseful Cleric
 1 Mountain
-1 Magus of the Moon
 1 Seal of Fire
-2 Sacred Foundry
-2 Inspiring Vantage
 2 Sunbaked Canyon
+2 Magus of the Moon
+2 Inspiring Vantage
+2 Sacred Foundry
 2 Remorseful Cleric
 2 Seasoned Pyromancer
 2 Seal of Fire
-2 Magus of the Moon
-3 Magus of the Moon
-3 Sacred Foundry
-3 Inspiring Vantage
 3 Sunbaked Canyon
+3 Inspiring Vantage
+3 Sacred Foundry
+3 Magus of the Moon
 3 Seal of Fire
-4 Magus of the Moon
-4 Inspiring Vantage
-4 Sacred Foundry
 4 Sunbaked Canyon
+4 Inspiring Vantage
+4 Magus of the Moon
+4 Sacred Foundry
 4 Seal of Fire
-1 Razorverge Thicket
-1 Stirring Wildwood
-1 Knight of Autumn
 1 Eternal Witness
+1 Stirring Wildwood
+1 Razorverge Thicket
+1 Knight of Autumn
 1 Noble Hierarch
 1 Temple Garden
 1 Scavenging Ooze
@@ -74,19 +74,51 @@
 2 Temple Garden
 2 Stirring Wildwood
 2 Scavenging Ooze
-3 Temple Garden
 3 Razorverge Thicket
+3 Temple Garden
 3 Scavenging Ooze
 3 Blade Splicer
 3 Stirring Wildwood
 3 Noble Hierarch
 4 Razorverge Thicket
-4 Horizon Canopy
 4 Temple Garden
+4 Horizon Canopy
 4 Noble Hierarch
 1 Dark Confidant
 1 Tectonic Edge
 2 Dark Confidant
+1 Reality Smasher
+1 Scavenger Grounds
+1 Simian Spirit Guide
+1 Eternal Scourge
+1 Cast Out
+1 Gemstone Caverns
+1 Shefet Dunes
+1 Chalice of the Void
+1 Rest in Peace
+1 Dismember
+1 Blast Zone
+2 Reality Smasher
+2 Simian Spirit Guide
+2 Blast Zone
+2 Shefet Dunes
+2 Eternal Scourge
+2 Scavenger Grounds
+2 Chalice of the Void
+2 Winds of Abandon
+2 Rest in Peace
+2 Dismember
+3 Reality Smasher
+3 Shefet Dunes
+3 Simian Spirit Guide
+3 Scavenger Grounds
+3 Eternal Scourge
+3 Chalice of the Void
+4 Reality Smasher
+4 Shefet Dunes
+4 Simian Spirit Guide
+4 Eternal Scourge
+4 Chalice of the Void
 1 Seachrome Coast
 1 Spell Queller
 1 Island
@@ -101,46 +133,14 @@
 2 Deputy of Detention
 2 Hallowed Fountain
 2 Flooded Strand
-3 Deputy of Detention
 3 Spell Queller
+3 Deputy of Detention
 3 Seachrome Coast
 3 Meddling Mage
 4 Deputy of Detention
 4 Spell Queller
 4 Seachrome Coast
 4 Meddling Mage
-1 Reality Smasher
-1 Scavenger Grounds
-1 Eternal Scourge
-1 Cast Out
-1 Gemstone Caverns
-1 Shefet Dunes
-1 Chalice of the Void
-1 Rest in Peace
-1 Dismember
-1 Blast Zone
-1 Simian Spirit Guide
-2 Reality Smasher
-2 Shefet Dunes
-2 Blast Zone
-2 Eternal Scourge
-2 Scavenger Grounds
-2 Winds of Abandon
-2 Chalice of the Void
-2 Rest in Peace
-2 Simian Spirit Guide
-2 Dismember
-3 Reality Smasher
-3 Shefet Dunes
-3 Scavenger Grounds
-3 Eternal Scourge
-3 Chalice of the Void
-3 Simian Spirit Guide
-4 Reality Smasher
-4 Shefet Dunes
-4 Eternal Scourge
-4 Chalice of the Void
-4 Simian Spirit Guide
 1 Eiganjo Castle
 1 Selfless Savior
 2 Selfless Savior
@@ -152,8 +152,8 @@
 1 Tidehollow Sculler
 1 Wasteland Strangler
 2 Concealed Courtyard
-2 Tidehollow Sculler
 2 Charming Prince
+2 Tidehollow Sculler
 2 Wasteland Strangler
 3 Concealed Courtyard
 3 Wasteland Strangler

@@ -67,21 +67,6 @@
 4 Paradise Druid
 4 Scavenging Ooze
 1 Radiant Fountain
-1 Castle Garenbrig
-1 Marauding Raptor
-1 Gemrazer
-1 Garruk's Harbinger
-1 Garruk, Unleashed
-1 Shifting Ceratops
-1 Vivien, Monsters' Advocate
-1 Primal Might
-2 Marauding Raptor
-2 Garruk's Harbinger
-2 Gemrazer
-2 Shifting Ceratops
-3 Marauding Raptor
-3 Garruk's Harbinger
-4 Garruk's Harbinger
 1 Island
 2 Island
 3 Island
@@ -103,20 +88,20 @@
 1 Mobilized District
 1 Palladium Myr
 1 Ugin, the Ineffable
-1 Steel Overseer
 1 Crystalline Giant
 1 Karn's Bastion
+1 Steel Overseer
 1 Blast Zone
 1 Mystic Forge
 2 Solemn Simulacrum
 2 Palladium Myr
-2 Karn's Bastion
 2 Interplanar Beacon
 2 Radiant Fountain
-2 Steel Overseer
+2 Karn's Bastion
 2 Crystalline Giant
-2 Ugin, the Ineffable
+2 Steel Overseer
 2 Mystic Forge
+2 Ugin, the Ineffable
 2 Mobilized District
 3 Mystic Forge
 3 Solemn Simulacrum
@@ -124,19 +109,34 @@
 3 Palladium Myr
 3 Interplanar Beacon
 3 Radiant Fountain
-3 Steel Overseer
 3 Ugin, the Ineffable
+3 Steel Overseer
 3 Karn's Bastion
 4 Mystic Forge
+4 Crystalline Giant
 4 Stonecoil Serpent
 4 Interplanar Beacon
 4 Palladium Myr
 4 Ugin, the Ineffable
 4 Radiant Fountain
-4 Steel Overseer
 4 Solemn Simulacrum
+4 Steel Overseer
 4 Karn's Bastion
-4 Crystalline Giant
+1 Castle Garenbrig
+1 Marauding Raptor
+1 Gemrazer
+1 Garruk's Harbinger
+1 Garruk, Unleashed
+1 Shifting Ceratops
+1 Vivien, Monsters' Advocate
+1 Primal Might
+2 Marauding Raptor
+2 Garruk's Harbinger
+2 Gemrazer
+2 Shifting Ceratops
+3 Marauding Raptor
+3 Garruk's Harbinger
+4 Garruk's Harbinger
 5 Swamp
 6 Swamp
 7 Swamp
@@ -201,6 +201,7 @@
 1 Lurrus of the Dream-Den
 2 Lurrus of the Dream-Den
 1 Boon of the Wish-Giver
+1 Imposing Vantasaur
 1 Zenith Flare
 1 Startling Development
 1 Steam Vents
@@ -209,14 +210,13 @@
 1 Flourishing Fox
 1 Drannith Stinger
 1 Unpredictable Cyclone
-1 Imposing Vantasaur
 1 Valiant Rescuer
 1 Drannith Healer
 1 Raugrin Triome
 2 Boon of the Wish-Giver
 2 Raugrin Triome
-2 Drannith Stinger
 2 Imposing Vantasaur
+2 Drannith Stinger
 2 Valiant Rescuer
 2 Drannith Healer
 2 Zenith Flare
@@ -255,8 +255,8 @@
 1 Temple of Deceit
 1 Watery Grave
 1 Slitherwisp
-2 Dirge Bat
 2 Spectral Sailor
+2 Dirge Bat
 2 Sea-Dasher Octopus
 2 Brazen Borrower
 2 Heartless Act
@@ -267,11 +267,11 @@
 2 Brineborn Cutthroat
 2 Watery Grave
 2 Slitherwisp
-3 Dirge Bat
 3 Spectral Sailor
 3 Brazen Borrower
 3 Cunning Nightbonder
 3 Sea-Dasher Octopus
+3 Dirge Bat
 3 Mystical Dispute
 3 Slitherwisp
 3 Temple of Deceit
@@ -295,33 +295,33 @@
 7 Mountain
 8 Mountain
 1 Zagoth Triome
+1 Neoform
 1 Golgari Findbroker
 1 Vito, Thorn of the Dusk Rose
 1 Cling to Dust
 1 Casualties of War
-1 Neoform
 1 Thassa, Deep-Dwelling
 1 Thirsting Shade
 1 Cavalier of Night
 1 Vampire Opportunist
 1 Biomancer's Familiar
 1 Acolyte of Affliction
+2 Acolyte of Affliction
 2 Zagoth Triome
+2 Neoform
 2 Golgari Findbroker
 2 Vito, Thorn of the Dusk Rose
 2 Casualties of War
-2 Neoform
 2 Vampire Opportunist
 2 Biomancer's Familiar
 2 Thirsting Shade
-2 Acolyte of Affliction
 2 Thassa, Deep-Dwelling
+3 Casualties of War
 3 Neoform
 3 Thirsting Shade
 3 Biomancer's Familiar
 3 Vampire Opportunist
 3 Knight of the Ebon Legion
-3 Casualties of War
 4 Casualties of War
 4 Neoform
 4 Thirsting Shade
@@ -329,25 +329,25 @@
 4 Knight of the Ebon Legion
 4 Biomancer's Familiar
 8 Swamp
+1 Dryad of the Ilysian Grove
 1 Cavalier of Thorns
 1 Voracious Hydra
 1 Chandra, Awakened Inferno
 1 Nissa, Who Shakes the World
 1 Escape to the Wilds
-1 Dryad of the Ilysian Grove
+2 Dryad of the Ilysian Grove
 2 Nissa, Who Shakes the World
 2 Cavalier of Thorns
 2 Voracious Hydra
 2 Escape to the Wilds
 2 Chandra, Awakened Inferno
-2 Dryad of the Ilysian Grove
 3 Chandra, Awakened Inferno
 3 Nissa, Who Shakes the World
 3 Arboreal Grazer
 3 Cultivate
 3 Cavalier of Thorns
-3 Voracious Hydra
 3 Dryad of the Ilysian Grove
+3 Voracious Hydra
 4 Nissa, Who Shakes the World
 4 Arboreal Grazer
 4 Cultivate
@@ -361,9 +361,9 @@
 1 Healer's Hawk
 1 Alseid of Life's Bounty
 1 Gods Willing
+1 Karametra's Blessing
 1 Solid Footing
 1 Glaring Aegis
-1 Karametra's Blessing
 1 Shadowspear
 1 Castle Ardenvale
 2 All That Glitters
@@ -371,9 +371,9 @@
 2 Healer's Hawk
 2 Alseid of Life's Bounty
 2 Gods Willing
-2 Glaring Aegis
 2 Karametra's Blessing
 2 Solid Footing
+2 Glaring Aegis
 3 Healer's Hawk
 3 Alseid of Life's Bounty
 3 Gods Willing

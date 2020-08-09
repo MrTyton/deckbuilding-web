@@ -1,8 +1,7 @@
-1 Island
-1 Opt
-2 Remand
-2 Island
-2 Opt
+3 Arcum's Astrolabe
+4 Snow-Covered Island
+4 Ice-Fang Coatl
+4 Arcum's Astrolabe
 1 Field of the Dead
 2 Field of the Dead
 1 Mountain
@@ -10,20 +9,20 @@
 3 Remand
 4 Remand
 4 Fact or Fiction
+5 Snow-Covered Island
 1 Flooded Strand
 1 Castle Vantress
-2 Archmage's Charm
 3 Wilderness Reclamation
 4 Wilderness Reclamation
+2 Flooded Strand
 6 Snow-Covered Island
 1 Polluted Delta
-2 Flooded Strand
-2 Wrenn and Six
-3 Wrenn and Six
+2 Archmage's Charm
 1 Expansion / Explosion
 2 Expansion / Explosion
-1 Snow-Covered Mountain
 4 Mystic Sanctuary
+2 Wrenn and Six
+3 Wrenn and Six
 2 Steam Vents
 3 Expansion / Explosion
 1 Thought Scour
@@ -36,13 +35,7 @@
 4 Cryptic Command
 4 Uro, Titan of Nature's Wrath
 4 Thought Scour
-2 Snapcaster Mage
-1 Lonely Sandbar
-1 Jace, the Mind Sculptor
-1 Mana Leak
-2 Field of Ruin
-2 Mana Leak
-2 Jace, the Mind Sculptor
+1 Snow-Covered Mountain
 1 Mwonvuli Acid-Moss
 1 Weather the Storm
 1 Aether Gust
@@ -56,44 +49,45 @@
 2 Veil of Summer
 2 Weather the Storm
 2 Magus of the Moon
+2 Snapcaster Mage
 1 Ghost Quarter
-1 Deprive
-1 Spell Snare
-1 Skred
-2 Skred
-3 Jace, the Mind Sculptor
-3 Field of Ruin
-3 Skred
+1 Lonely Sandbar
 1 Narset, Parter of Veils
 1 Sweltering Suns
+1 Jace, the Mind Sculptor
 1 Ashiok, Dream Render
+1 Mana Leak
 2 Sweltering Suns
+2 Field of Ruin
+2 Mana Leak
+2 Jace, the Mind Sculptor
 3 Mana Leak
 2 Forest
 1 Gemstone Caverns
 1 Verdant Catacombs
 1 Swamp
-1 Chalice of the Void
+1 Mosswort Bridge
 1 Solemn Simulacrum
+1 Inferno Titan
+1 Sire of Insanity
+1 Kogla, the Titan Ape
+1 Chalice of the Void
 1 Cavern of Souls
 1 Overgrown Tomb
-1 Sire of Insanity
 1 Wurmcoil Engine
 1 Castle Garenbrig
 1 Chandra, Torch of Defiance
 1 Snow-Covered Swamp
 1 Sakura-Tribe Elder
-1 Kogla, the Titan Ape
 1 Primeval Titan
 1 Explore
 1 Radiant Fountain
 1 Farseek
-1 Inferno Titan
-1 Mosswort Bridge
+2 Solemn Simulacrum
+2 Inferno Titan
 2 Gemstone Caverns
 2 Verdant Catacombs
 2 Explore
-2 Solemn Simulacrum
 2 Wurmcoil Engine
 2 Castle Garenbrig
 2 Chandra, Torch of Defiance
@@ -101,7 +95,6 @@
 2 Chalice of the Void
 2 Cavern of Souls
 2 Sakura-Tribe Elder
-2 Inferno Titan
 2 Primeval Titan
 3 Solemn Simulacrum
 3 Gemstone Caverns
@@ -113,11 +106,11 @@
 3 Sakura-Tribe Elder
 3 Castle Garenbrig
 3 Explore
-4 Solemn Simulacrum
 4 Castle Garenbrig
-4 Gemstone Caverns
 4 Explore
 4 Farseek
+4 Gemstone Caverns
+4 Solemn Simulacrum
 4 Sakura-Tribe Elder
 4 Primeval Titan
 2 Wooded Foothills
@@ -133,14 +126,14 @@
 2 Shark Typhoon
 2 Frantic Inventory
 3 Archmage's Charm
-3 Island
 3 Breeding Pool
 3 Frantic Inventory
+3 Island
 3 Shark Typhoon
 3 Opt
 4 Shark Typhoon
-4 Archmage's Charm
 4 Frantic Inventory
+4 Archmage's Charm
 4 Opt
 4 Island
 5 Island

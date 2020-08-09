@@ -30,19 +30,19 @@
 1 Omen of the Sun
 2 Omen of the Sun
 1 Godless Shrine
-1 Oath of Kaya
 1 Doom Foretold
+1 Oath of Kaya
 1 Watery Grave
 1 Swamp
-2 Godless Shrine
 2 Doom Foretold
+2 Godless Shrine
 2 Watery Grave
 3 Godless Shrine
 3 Doom Foretold
 3 Watery Grave
+4 Watery Grave
 4 Doom Foretold
 4 Godless Shrine
-4 Watery Grave
 3 Castle Ardenvale
 3 Glass Casket
 1 Time Wipe
@@ -73,14 +73,14 @@
 2 Fae of Wishes
 3 Raugrin Triome
 4 Raugrin Triome
-1 Mountain
-1 Steam Vents
 1 Narset of the Ancient Way
+1 Steam Vents
+1 Mountain
 1 Deafening Clarion
 1 Sacred Foundry
+2 Narset of the Ancient Way
 2 Steam Vents
 2 Interplanar Beacon
-2 Narset of the Ancient Way
 1 Teferi's Tutelage
 1 Overwhelmed Apprentice
 1 Dovin's Acuity
@@ -95,10 +95,10 @@
 3 Overwhelmed Apprentice
 4 Teferi's Tutelage
 4 Overwhelmed Apprentice
-1 God-Eternal Kefnet
 1 Labyrinth of Skophos
 1 Mu Yanling, Sky Dancer
 1 Heliod's Intervention
+1 God-Eternal Kefnet
 1 Dovin, Grand Arbiter
 1 Karn's Bastion
 1 God-Eternal Oketra
@@ -120,20 +120,20 @@
 4 Time Wipe
 9 Plains
 1 Whirlwind Denial
+1 Atris, Oracle of Half-Truths
+1 Temple of Deceit
+1 Ashiok, Nightmare Muse
+2 Atris, Oracle of Half-Truths
+2 Ashiok, Nightmare Muse
 2 Field of Ruin
 1 Treacherous Blessing
 1 Extinction Event
 2 Treacherous Blessing
 1 Tale's End
 2 Tale's End
-1 Temple of Deceit
-1 Atris, Oracle of Half-Truths
-1 Ashiok, Nightmare Muse
-2 Ashiok, Nightmare Muse
-2 Atris, Oracle of Half-Truths
 1 Castle Locthwain
-2 Castle Locthwain
 2 Swamp
+2 Castle Locthwain
 3 Oath of Kaya
 2 Banishing Light
 4 Archon of Sun's Grace
@@ -143,6 +143,20 @@
 3 Teferi, Master of Time
 4 Teferi, Master of Time
 4 Mazemind Tome
+4 Mystical Dispute
+1 Boon of the Wish-Giver
+1 Temple of Epiphany
+1 Whirlwind of Thought
+1 Scorching Dragonfire
+1 Shock
+1 Negate
+2 Shock
+2 Scorching Dragonfire
+2 Boon of the Wish-Giver
+2 Negate
+2 Mountain
+3 Scorching Dragonfire
+4 Scorching Dragonfire
 1 Neutralize
 1 Gadwick, the Wizened
 1 Swift Response
@@ -151,52 +165,38 @@
 2 Neutralize
 2 Gadwick, the Wizened
 2 Radiant Fountain
-2 Swift Response
 2 Baneslayer Angel
 2 Faith's Fetters
+2 Swift Response
 3 Neutralize
 3 Radiant Fountain
-3 Swift Response
 3 Baneslayer Angel
+3 Swift Response
 4 Swift Response
-4 Shark Typhoon
-4 Mystical Dispute
-1 Boon of the Wish-Giver
-1 Temple of Epiphany
-1 Whirlwind of Thought
-1 Scorching Dragonfire
-1 Shock
-1 Negate
-2 Boon of the Wish-Giver
-2 Mountain
-2 Scorching Dragonfire
-2 Negate
-2 Shock
-3 Scorching Dragonfire
-4 Scorching Dragonfire
-1 Deputy of Detention
 1 Thassa, Deep-Dwelling
-1 Charming Prince
 1 Cavalier of Dawn
+1 Charming Prince
+1 Deputy of Detention
 1 Fblthp, the Lost
-2 Deputy of Detention
 2 Thassa, Deep-Dwelling
 2 Cavalier of Dawn
 2 Charming Prince
 2 Fblthp, the Lost
+2 Deputy of Detention
 3 Charming Prince
 3 Fblthp, the Lost
 3 Thassa, Deep-Dwelling
-4 Elite Guardmage
 4 Charming Prince
+4 Elite Guardmage
 4 Thassa, Deep-Dwelling
+4 Shark Typhoon
 1 Sarkhan the Masterless
 1 Justice Strike
 2 Deafening Clarion
 2 Sarkhan the Masterless
 2 Sacred Foundry
-3 Steam Vents
 3 Interplanar Beacon
+3 Steam Vents
 3 Sacred Foundry
 3 Sarkhan the Masterless
 4 Steam Vents

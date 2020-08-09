@@ -55,8 +55,8 @@
 1 Temple of Epiphany
 1 Bonecrusher Giant
 1 Omen of the Forge
-1 Sacred Foundry
 1 Rewind
+1 Sacred Foundry
 1 Dance of the Manse
 1 Transmogrify
 1 Temple of Triumph
@@ -65,10 +65,10 @@
 1 Steam Vents
 2 Bonecrusher Giant
 2 Dance of the Manse
+2 Rewind
 2 Sacred Foundry
 2 Deafening Clarion
 2 Steam Vents
-2 Rewind
 2 Transmogrify
 2 Mountain
 3 Bonecrusher Giant
@@ -94,12 +94,12 @@
 4 Archon of Sun's Grace
 1 Frantic Inventory
 1 Chemister's Insight
-1 Essence Scatter
 2 Absorb
-2 Essence Scatter
 2 Frantic Inventory
-3 Essence Scatter
+2 Essence Scatter
+3 Absorb
 3 Frantic Inventory
+3 Essence Scatter
 4 Essence Scatter
 4 Frantic Inventory
-3 Absorb
+1 Essence Scatter
