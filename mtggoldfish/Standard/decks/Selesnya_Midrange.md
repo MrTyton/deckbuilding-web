@@ -39,6 +39,6 @@
 |                     |                                                                                            |                    1|[Runed Halo](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154005)     |
 |                     |                                                                                            |                    2|[Giant Killer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472976)   |
 |                     |                                                                                            |                    2|[Ram Through](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479690)    |
-|                     |                                                                                            |                    2|[Runed Halo](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154005)     |
 |                     |                                                                                            |                    3|[Giant Killer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472976)   |
+|                     |                                                                                            |                    2|[Runed Halo](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=154005)     |
 

@@ -1,19 +1,22 @@
 2 Elvish Reclaimer
-3 Elvish Reclaimer
-4 Elvish Reclaimer
 1 Forest
 1 Swamp
-1 Wasteland
+3 Elvish Reclaimer
+4 Elvish Reclaimer
 1 Nurturing Peatland
+1 Wasteland
 3 Inquisition of Kozilek
+1 Dryad Arbor
+2 Nurturing Peatland
+1 Sylvan Safekeeper
+1 Once Upon a Time
+2 Once Upon a Time
 1 Mox Diamond
 2 Mox Diamond
 3 Mox Diamond
-1 Dryad Arbor
-2 Nurturing Peatland
 1 Cabal Therapy
-1 Satyr Wayfinder
 1 Stitcher's Supplier
+1 Satyr Wayfinder
 1 Khalni Garden
 1 Hogaak, Arisen Necropolis
 2 Cabal Therapy
@@ -25,9 +28,6 @@
 3 Satyr Wayfinder
 3 Stitcher's Supplier
 4 Stitcher's Supplier
-1 Sylvan Safekeeper
-1 Once Upon a Time
-2 Once Upon a Time
 1 Sylvan Library
 1 Abrupt Decay
 2 Abrupt Decay
@@ -38,28 +38,14 @@
 4 Dark Confidant
 3 Bayou
 1 Assassin's Trophy
-4 Mox Diamond
-1 Misty Rainforest
-4 Cabal Therapy
-4 Hogaak, Arisen Necropolis
-1 Brainstorm
-1 Tropical Island
-1 Stifle
-1 Gemstone Mine
-1 Polluted Delta
-1 Underground Sea
-2 Brainstorm
-2 Polluted Delta
-2 Misty Rainforest
-3 Polluted Delta
-3 Brainstorm
-3 Misty Rainforest
-4 Brainstorm
 3 Once Upon a Time
 4 Once Upon a Time
 2 Sylvan Safekeeper
-4 Satyr Wayfinder
 1 Wooded Foothills
+4 Mox Diamond
+4 Cabal Therapy
+4 Hogaak, Arisen Necropolis
+4 Satyr Wayfinder
 3 Abrupt Decay
 1 Hymn to Tourach
 2 Hymn to Tourach
@@ -70,28 +56,66 @@
 2 Assassin's Trophy
 1 Sorcerous Spyglass
 4 Inquisition of Kozilek
-1 Maze of Ith
+1 Misty Rainforest
 2 Sejiri Steppe
+1 Windswept Heath
+2 Snow-Covered Forest
+2 Wasteland
+1 Maze of Ith
 1 Surgical Extraction
 1 Rite of Consumption
 1 Golgari Charm
-1 Windswept Heath
-2 Snow-Covered Forest
 1 Badlands
 1 Taiga
-2 Wasteland
 3 Wasteland
 4 Abrupt Decay
+1 Stifle
+1 Brainstorm
+1 Tropical Island
+1 Underground Sea
+1 Gemstone Mine
+1 Polluted Delta
+2 Brainstorm
+2 Polluted Delta
+2 Misty Rainforest
+3 Polluted Delta
+3 Brainstorm
+3 Misty Rainforest
 4 Polluted Delta
+4 Brainstorm
 1 Blast Zone
 1 Veil of Summer
 1 Living Wish
 2 Veil of Summer
 2 Living Wish
-3 Living Wish
 3 Assassin's Trophy
+3 Living Wish
 4 Assassin's Trophy
 4 Living Wish
+1 Savannah
+1 Snow-Covered Plains
+1 Horizon Canopy
+1 Green Sun's Zenith
+1 Ancient Tomb
+1 Tomik, Distinguished Advokist
+1 Knight of the Reliquary
+1 Flagstones of Trokair
+1 Giver of Runes
+1 Gaddock Teeg
+1 Knight of Autumn
+2 Green Sun's Zenith
+2 Tomik, Distinguished Advokist
+2 Savannah
+2 Windswept Heath
+2 Wooded Foothills
+2 Giver of Runes
+2 Knight of the Reliquary
+3 Windswept Heath
+3 Green Sun's Zenith
+3 Knight of the Reliquary
+4 Windswept Heath
+4 Knight of the Reliquary
+4 Green Sun's Zenith
 1 Llanowar Wastes
 2 Llanowar Wastes
 3 Llanowar Wastes

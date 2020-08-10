@@ -58,22 +58,26 @@
 1 Mystic Repeal
 1 Unsummon
 1 Thassa's Oracle
-1 Essence Scatter
-1 Emergent Ultimatum
 1 Elspeth Conquers Death
 1 Casualties of War
 1 Nicol Bolas, Dragon-God
 1 Chandra, Awakened Inferno
 1 Liliana, Dreadhorde General
-1 Enhanced Surveillance
-1 Planar Cleansing
 1 The Elderspell
+1 Planar Cleansing
+1 Enhanced Surveillance
+1 Essence Scatter
+1 Emergent Ultimatum
 1 Blast Zone
 1 Citywide Bust
 2 Blast Zone
 1 Gemrazer
 2 Gemrazer
 3 Heartless Act
+1 Assassin's Trophy
+2 Grafdigger's Cage
+2 Assassin's Trophy
+3 Duress
 1 Eliminate
 1 Dreadhorde Butcher
 1 Leyline of Combustion
@@ -90,9 +94,6 @@
 2 Oakhame Adversary
 2 Garruk's Harbinger
 3 Shifting Ceratops
-1 Tibalt, Rakish Instigator
-2 Tibalt, Rakish Instigator
-3 Redcap Melee
 1 Fling
 1 Escape to the Wilds
 1 Flame Sweep
@@ -100,6 +101,9 @@
 1 Storm's Wrath
 2 Flame Sweep
 3 Flame Sweep
+1 Tibalt, Rakish Instigator
+2 Tibalt, Rakish Instigator
+3 Redcap Melee
 1 Legion Warboss
 2 Legion Warboss
 3 Necromentia
@@ -113,8 +117,8 @@
 2 Murmuring Mystic
 3 Murmuring Mystic
 3 Saheeli, Sublime Artificer
-1 Brazen Borrower
 1 Cling to Dust
+1 Brazen Borrower
 1 Witch's Vengeance
 1 Embodiment of Agonies
 1 Swamp
@@ -130,30 +134,26 @@
 2 Massacre Wurm
 3 Disfigure
 3 Cry of the Carnarium
-1 Assassin's Trophy
-2 Grafdigger's Cage
-2 Assassin's Trophy
-3 Duress
+1 Robber of the Rich
+1 Angrath's Rampage
+2 Robber of the Rich
+2 Goblin Cratermaker
+2 Angrath's Rampage
+3 Robber of the Rich
+3 Angrath's Rampage
+3 Goblin Cratermaker
+4 Robber of the Rich
 1 Kaya's Wrath
 1 Sorin, Vengeful Bloodlord
 2 Sorin, Vengeful Bloodlord
 2 Kaya's Wrath
 3 Kaya's Wrath
 4 Agonizing Remorse
+1 Finale of Revelation
 1 Heliod's Intervention
 1 Inspired Ultimatum
-1 Finale of Revelation
 3 Dovin's Veto
 4 Dovin's Veto
-1 Robber of the Rich
-1 Angrath's Rampage
-2 Goblin Cratermaker
-2 Angrath's Rampage
-2 Robber of the Rich
-3 Robber of the Rich
-3 Angrath's Rampage
-3 Goblin Cratermaker
-4 Robber of the Rich
 1 Leyline of Sanctity
 1 Hushbringer
 2 Shadowspear
@@ -164,9 +164,9 @@
 1 Kitesail Freebooter
 2 Kitesail Freebooter
 3 Kitesail Freebooter
-4 Kitesail Freebooter
 4 Noxious Grasp
 4 Embereth Shieldbreaker
+4 Kitesail Freebooter
 2 Return to Nature
 3 Soul-Guide Lantern
 3 Negate

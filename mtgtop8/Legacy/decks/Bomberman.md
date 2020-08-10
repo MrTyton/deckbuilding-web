@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883) |                    1|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|
-|                    1|[Wishclaw Talisman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473072)|                    1|[Oblivion Ring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174909)    |
+|                    1|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883) |                    1|[Oblivion Ring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174909)    |
+|                    1|[Wishclaw Talisman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473072)|                    1|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|
 |                    1|[Scrubland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=882)           |                    2|[Oblivion Ring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174909)    |
 |                    1|[Urza's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3818)      |                    3|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|
 |                    1|[Ancient Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205275)      |                    2|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|

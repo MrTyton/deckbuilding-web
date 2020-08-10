@@ -34,8 +34,8 @@
 |                    1|[Thrill of Possibility](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473108)|                    2|[Rumbling Rockslide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479654)|
 |                    2|[Merchant of the Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473093) |                     |                                                                                             |
 |                    2|[Thrill of Possibility](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473108)|                     |                                                                                             |
-|                    3|[Thrill of Possibility](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473108)|                     |                                                                                             |
 |                    3|[Merchant of the Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473093) |                     |                                                                                             |
-|                    4|[Merchant of the Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473093) |                     |                                                                                             |
 |                    4|[Thrill of Possibility](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473108)|                     |                                                                                             |
+|                    4|[Merchant of the Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473093) |                     |                                                                                             |
+|                    3|[Thrill of Possibility](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473108)|                     |                                                                                             |
 

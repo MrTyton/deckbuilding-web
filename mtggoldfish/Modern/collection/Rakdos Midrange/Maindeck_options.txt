@@ -29,8 +29,8 @@
 2 Collective Brutality
 3 Insolent Neonate
 3 Fulminator Mage
-3 Bonecrusher Giant
 3 Collective Brutality
+3 Bonecrusher Giant
 3 Verdant Catacombs
 4 Insolent Neonate
 4 Fulminator Mage
@@ -44,17 +44,17 @@
 1 Arid Mesa
 4 Marsh Flats
 2 Castle Locthwain
-1 Ghost Quarter
-3 Kolaghan's Command
-4 Polluted Delta
+1 Vexing Devil
 1 Graven Cairns
 1 Scalding Tarn
-1 Vexing Devil
-2 Scalding Tarn
 2 Vexing Devil
+2 Scalding Tarn
 3 Vexing Devil
 3 Scalding Tarn
 4 Vexing Devil
+1 Ghost Quarter
+3 Kolaghan's Command
+4 Polluted Delta
 1 Sulfurous Springs
 1 Death's Shadow
 1 Dismember
@@ -68,9 +68,8 @@
 3 Street Wraith
 4 Death's Shadow
 4 Street Wraith
-1 Godless Shrine
-1 Chandra, Torch of Defiance
 1 Savai Triome
+1 Godless Shrine
 1 Eliminate
 1 Plains
 1 Batterskull
@@ -78,6 +77,7 @@
 1 Lightning Helix
 1 Sword of Fire and Ice
 1 Silent Clearing
+1 Chandra, Torch of Defiance
 1 Sacred Foundry
 1 Stoneforge Mystic
 1 Path to Exile
