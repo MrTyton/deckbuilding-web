@@ -1,71 +1,123 @@
 3 Castle Vantress
 4 Shark Typhoon
 3 Opt
-4 Opt
 4 Fabled Passage
-3 Sublime Epiphany
-4 Temple of Mystery
+1 Mountain
 1 Swamp
+1 Kolaghan's Command
+1 Blood Crypt
+1 Dragonskull Summit
+1 Waste Not
+1 Collective Brutality
+1 Kroxa, Titan of Death's Hunger
+1 Liliana, Waker of the Dead
+1 Murderous Rider
+1 Castle Locthwain
+1 Eliminate
+1 Davriel, Rogue Shadowmage
+1 Thoughtseize
+1 Field of Ruin
+1 Hazoret the Fervent
+1 Fatal Push
+2 Davriel, Rogue Shadowmage
+2 Dragonskull Summit
+2 Waste Not
+2 Collective Brutality
+2 Blood Crypt
+2 Kolaghan's Command
+2 Liliana, Waker of the Dead
+2 Kroxa, Titan of Death's Hunger
+2 Murderous Rider
+2 Swamp
+2 Castle Locthwain
+2 Eliminate
+2 Hazoret the Fervent
+2 Mountain
+2 Fatal Push
+2 Thoughtseize
+2 Field of Ruin
+3 Waste Not
+3 Blood Crypt
+3 Dragonskull Summit
+3 Davriel, Rogue Shadowmage
+3 Liliana, Waker of the Dead
+3 Kroxa, Titan of Death's Hunger
+3 Kolaghan's Command
+3 Eliminate
+3 Swamp
+3 Castle Locthwain
+3 Fatal Push
+3 Thoughtseize
+3 Mountain
+4 Dragonskull Summit
+4 Blood Crypt
+4 Waste Not
+4 Liliana, Waker of the Dead
+4 Kroxa, Titan of Death's Hunger
+4 Swamp
+4 Castle Locthwain
+4 Thoughtseize
+4 Fatal Push
+3 Sublime Epiphany
+4 Opt
+4 Temple of Mystery
+1 Elvish Rejuvenator
 1 Botanical Sanctum
+1 Thassa, Deep-Dwelling
+1 Neoform
 1 Agent of Treachery
 1 Hostage Taker
+1 Yavimaya Coast
 1 Satyr Wayfinder
-1 Woodland Bellower
-1 Elvish Rejuvenator
-1 Eldritch Evolution
-1 Grapple with the Past
-1 Unesh, Criosphinx Sovereign
-1 Cavalier of Gales
-1 Massacre Girl
-1 Cavalier of Night
 1 Tasigur, the Golden Fang
-1 Neoform
-1 Thassa, Deep-Dwelling
 1 Reclamation Sage
+1 Cavalier of Night
 1 Thought-Knot Seer
+1 Massacre Girl
+1 Cavalier of Gales
+1 Eldritch Evolution
 1 Overgrown Tomb
 1 Arboreal Grazer
-1 Blooming Marsh
-1 Yavimaya Coast
+1 Unesh, Criosphinx Sovereign
+1 Grapple with the Past
 1 Llanowar Wastes
+1 Blooming Marsh
 1 Scavenging Ooze
-2 Agent of Treachery
+1 Woodland Bellower
 2 Elvish Rejuvenator
-2 Eldritch Evolution
-2 Grapple with the Past
-2 Tasigur, the Golden Fang
+2 Agent of Treachery
 2 Neoform
+2 Yavimaya Coast
+2 Tasigur, the Golden Fang
 2 Satyr Wayfinder
 2 Blooming Marsh
-2 Llanowar Wastes
+2 Grapple with the Past
 2 Overgrown Tomb
+2 Eldritch Evolution
 2 Arboreal Grazer
-2 Yavimaya Coast
-3 Eldritch Evolution
-3 Grapple with the Past
+2 Llanowar Wastes
 3 Neoform
 3 Satyr Wayfinder
 3 Yavimaya Coast
+3 Grapple with the Past
 3 Arboreal Grazer
 3 Forest
 3 Llanowar Wastes
+3 Eldritch Evolution
 3 Blooming Marsh
 4 Neoform
 4 Satyr Wayfinder
 4 Arboreal Grazer
-1 Mountain
 1 Steam Vents
 2 Steam Vents
 3 Steam Vents
 4 Steam Vents
 1 Commit / Memory
-1 Temple of Epiphany
 1 Temple of Triumph
-1 Jace, Vryn's Prodigy
+1 Temple of Epiphany
 1 Temple of Enlightenment
-1 Sacred Foundry
+1 Jace, Vryn's Prodigy
 1 Settle the Wreckage
-1 Izzet Charm
 1 Narset, Parter of Veils
 1 Dream Trawler
 1 Teferi, Time Raveler
@@ -75,39 +127,41 @@
 1 Hallowed Fountain
 1 Glacial Fortress
 1 Anger of the Gods
+1 Sacred Foundry
 1 Wandering Fumarole
 1 Karn, the Great Creator
+1 Izzet Charm
 1 Supreme Verdict
 1 Raugrin Triome
 1 Clifftop Retreat
 2 Temple of Enlightenment
-2 Sacred Foundry
-2 Izzet Charm
 2 Anger of the Gods
+2 Sacred Foundry
 2 Teferi, Time Raveler
 2 Karn, the Great Creator
 2 Narset, Parter of Veils
 2 Supreme Verdict
 2 Sulfur Falls
-2 Commit / Memory
 2 Hallowed Fountain
+2 Izzet Charm
 2 Raugrin Triome
 2 Collective Defiance
 2 Clifftop Retreat
+2 Commit / Memory
 3 Narset, Parter of Veils
 3 Sulfur Falls
-3 Izzet Charm
 3 Anger of the Gods
 3 Collective Defiance
+3 Izzet Charm
 3 Raugrin Triome
 3 Teferi, Time Raveler
 3 Commit / Memory
 3 Hallowed Fountain
-4 Narset, Parter of Veils
-4 Izzet Charm
 4 Collective Defiance
+4 Narset, Parter of Veils
 4 Raugrin Triome
 4 Hallowed Fountain
+4 Izzet Charm
 4 Teferi, Time Raveler
 1 Stomping Ground
 1 Sweltering Suns
@@ -131,135 +185,3 @@
 4 Ketria Triome
 4 Pull from Tomorrow
 4 Expansion / Explosion
-1 Thoughtseize
-2 Swamp
-2 Thoughtseize
-3 Swamp
-3 Thoughtseize
-4 Thoughtseize
-1 Blood Crypt
-1 Dragonskull Summit
-1 Fatal Push
-2 Blood Crypt
-2 Fatal Push
-2 Dragonskull Summit
-3 Fatal Push
-3 Dragonskull Summit
-3 Blood Crypt
-4 Fatal Push
-4 Blood Crypt
-1 Castle Locthwain
-2 Castle Locthwain
-1 Liliana, Waker of the Dead
-1 Kolaghan's Command
-1 Murderous Rider
-1 Waste Not
-1 Eliminate
-1 Collective Brutality
-1 Davriel, Rogue Shadowmage
-1 Hazoret the Fervent
-1 Kroxa, Titan of Death's Hunger
-1 Field of Ruin
-2 Liliana, Waker of the Dead
-2 Murderous Rider
-2 Davriel, Rogue Shadowmage
-2 Waste Not
-2 Eliminate
-2 Hazoret the Fervent
-2 Collective Brutality
-2 Kroxa, Titan of Death's Hunger
-2 Mountain
-2 Kolaghan's Command
-2 Field of Ruin
-3 Kroxa, Titan of Death's Hunger
-3 Kolaghan's Command
-3 Eliminate
-3 Liliana, Waker of the Dead
-3 Castle Locthwain
-3 Waste Not
-3 Davriel, Rogue Shadowmage
-3 Mountain
-4 Kroxa, Titan of Death's Hunger
-4 Liliana, Waker of the Dead
-4 Swamp
-4 Castle Locthwain
-4 Waste Not
-4 Dragonskull Summit
-1 Tyrant's Scorn
-1 Nicol Bolas, the Ravager
-1 Drown in the Loch
-1 Dreadbore
-1 Watery Grave
-1 Drowned Catacomb
-1 Nicol Bolas, Dragon-God
-2 Tyrant's Scorn
-2 Drown in the Loch
-2 Dreadbore
-2 Nicol Bolas, the Ravager
-2 Nicol Bolas, Dragon-God
-2 Watery Grave
-2 Drowned Catacomb
-3 Tyrant's Scorn
-3 Drown in the Loch
-3 Nicol Bolas, Dragon-God
-3 Dreadbore
-3 Nicol Bolas, the Ravager
-3 Watery Grave
-3 Drowned Catacomb
-4 Dreadbore
-4 Drown in the Loch
-4 Nicol Bolas, the Ravager
-4 Nicol Bolas, Dragon-God
-4 Watery Grave
-4 Tyrant's Scorn
-1 Doom Foretold
-1 Gideon, Ally of Zendikar
-1 Final Payment
-1 Urborg, Tomb of Yawgmoth
-1 Flicker of Fate
-1 The Birth of Meletis
-1 Gideon of the Trials
-1 Treacherous Blessing
-1 Trial of Ambition
-1 Isolated Chapel
-1 Demonic Pact
-1 Godless Shrine
-1 Yorion, Sky Nomad
-1 Plains
-1 Shambling Vent
-1 Oath of Kaya
-2 Yorion, Sky Nomad
-2 Doom Foretold
-2 Shambling Vent
-2 Gideon, Ally of Zendikar
-2 Plains
-2 Flicker of Fate
-2 The Birth of Meletis
-2 Final Payment
-2 Treacherous Blessing
-2 Oath of Kaya
-2 Trial of Ambition
-2 Isolated Chapel
-2 Godless Shrine
-2 Demonic Pact
-2 Gideon of the Trials
-3 Doom Foretold
-3 Shambling Vent
-3 Flicker of Fate
-3 Treacherous Blessing
-3 Plains
-3 The Birth of Meletis
-3 Oath of Kaya
-3 Trial of Ambition
-3 Isolated Chapel
-3 Godless Shrine
-3 Demonic Pact
-4 Plains
-4 Doom Foretold
-4 Shambling Vent
-4 Isolated Chapel
-4 Treacherous Blessing
-4 Trial of Ambition
-4 The Birth of Meletis
-5 Plains
-4 Godless Shrine

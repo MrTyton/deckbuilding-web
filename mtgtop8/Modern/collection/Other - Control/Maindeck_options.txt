@@ -64,16 +64,14 @@
 3 Mana Leak
 2 Forest
 1 Gemstone Caverns
+1 Kogla, the Titan Ape
 1 Verdant Catacombs
 1 Swamp
-1 Mosswort Bridge
-1 Solemn Simulacrum
-1 Inferno Titan
-1 Sire of Insanity
-1 Kogla, the Titan Ape
 1 Chalice of the Void
+1 Solemn Simulacrum
 1 Cavern of Souls
 1 Overgrown Tomb
+1 Sire of Insanity
 1 Wurmcoil Engine
 1 Castle Garenbrig
 1 Chandra, Torch of Defiance
@@ -83,11 +81,12 @@
 1 Explore
 1 Radiant Fountain
 1 Farseek
-2 Solemn Simulacrum
-2 Inferno Titan
+1 Inferno Titan
+1 Mosswort Bridge
 2 Gemstone Caverns
 2 Verdant Catacombs
 2 Explore
+2 Solemn Simulacrum
 2 Wurmcoil Engine
 2 Castle Garenbrig
 2 Chandra, Torch of Defiance
@@ -95,6 +94,7 @@
 2 Chalice of the Void
 2 Cavern of Souls
 2 Sakura-Tribe Elder
+2 Inferno Titan
 2 Primeval Titan
 3 Solemn Simulacrum
 3 Gemstone Caverns
@@ -108,9 +108,9 @@
 3 Explore
 4 Castle Garenbrig
 4 Explore
-4 Farseek
-4 Gemstone Caverns
 4 Solemn Simulacrum
+4 Gemstone Caverns
+4 Farseek
 4 Sakura-Tribe Elder
 4 Primeval Titan
 2 Wooded Foothills
@@ -126,9 +126,9 @@
 2 Shark Typhoon
 2 Frantic Inventory
 3 Archmage's Charm
+3 Island
 3 Breeding Pool
 3 Frantic Inventory
-3 Island
 3 Shark Typhoon
 3 Opt
 4 Shark Typhoon

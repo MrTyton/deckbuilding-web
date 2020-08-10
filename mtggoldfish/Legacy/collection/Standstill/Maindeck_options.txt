@@ -41,23 +41,23 @@
 3 Teferi, Time Raveler
 1 Uro, Titan of Nature's Wrath
 1 Glacial Chasm
-1 Cascading Cataracts
 1 Golos, Tireless Pilgrim
+1 Cascading Cataracts
+1 Green Sun's Zenith
+1 Maze of Ith
 1 Prophetic Prism
 1 Glimmerpost
-1 Kiora, Behemoth Beckoner
 1 Vesuva
-1 Maze of Ith
+1 Kiora, Behemoth Beckoner
 1 Cloudpost
 1 Candelabra of Tawnos
 1 Ulamog, the Ceaseless Hunger
 1 Primeval Titan
-1 Bojuka Bog
 1 Cyclonic Rift
 1 Emrakul, the Aeons Torn
 1 Thespian's Stage
 1 Dark Depths
-1 Green Sun's Zenith
+1 Crop Rotation
 1 Pithing Needle
 1 Thought-Knot Seer
 1 Elvish Reclaimer
@@ -67,37 +67,37 @@
 1 Ugin, the Spirit Dragon
 1 Cavern of Souls
 1 Once Upon a Time
-1 Crop Rotation
+1 Bojuka Bog
 1 Ramunap Excavator
 2 Snow-Covered Forest
 2 Tropical Island
+2 Elvish Reclaimer
 2 Primeval Titan
 2 Glimmerpost
 2 Cloudpost
 2 Vesuva
-2 Crop Rotation
 2 Pithing Needle
 2 Green Sun's Zenith
 2 Thespian's Stage
-2 Elvish Reclaimer
+2 Crop Rotation
 2 Thought-Knot Seer
 2 Once Upon a Time
 2 Dryad of the Ilysian Grove
 2 Cavern of Souls
-3 Snow-Covered Forest
-3 Tropical Island
+3 Elvish Reclaimer
 3 Cloudpost
 3 Glimmerpost
+3 Snow-Covered Forest
 3 Green Sun's Zenith
 3 Cavern of Souls
+3 Tropical Island
 3 Crop Rotation
 3 Pithing Needle
-3 Elvish Reclaimer
 3 Once Upon a Time
+4 Elvish Reclaimer
 4 Snow-Covered Forest
 4 Glimmerpost
 4 Cloudpost
-4 Elvish Reclaimer
 4 Pithing Needle
 4 Crop Rotation
 4 Green Sun's Zenith
@@ -114,8 +114,8 @@
 2 Daze
 3 Myth Realized
 1 Lonely Sandbar
-1 Forest
 1 Verdant Catacombs
+1 Forest
 1 Bayou
 1 Mox Diamond
 1 Savannah
@@ -164,7 +164,6 @@
 4 Stifle
 4 Prismatic Vista
 5 Snow-Covered Island
-6 Island
 1 Street Wraith
 1 Cast Out
 1 Replenish
@@ -199,5 +198,6 @@
 4 Secluded Steppe
 4 Astral Slide
 4 Street Wraith
-5 Snow-Covered Plains
 4 Lonely Sandbar
+5 Snow-Covered Plains
+6 Island

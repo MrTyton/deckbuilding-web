@@ -1,26 +1,26 @@
-4 Fabled Passage
 2 Supreme Verdict
 3 Supreme Verdict
+4 Fabled Passage
 2 Island
-3 Fatal Push
-1 Trial of Ambition
 4 Supreme Verdict
-2 Trial of Ambition
+3 Fatal Push
 4 Fatal Push
+1 Trial of Ambition
 1 Yorion, Sky Nomad
+2 Trial of Ambition
 1 Dovin's Veto
-3 Trial of Ambition
 2 Dovin's Veto
-2 Swamp
 1 Ashiok, Nightmare Muse
+1 Eliminate
+2 Swamp
+3 Trial of Ambition
 1 Castle Ardenvale
 1 Omen of the Sun
-1 Eliminate
-2 Yorion, Sky Nomad
 2 Eliminate
+2 Yorion, Sky Nomad
 3 Teferi, Hero of Dominaria
-1 Shark Typhoon
 1 Elspeth Conquers Death
+1 Shark Typhoon
 4 Isolated Chapel
 2 Plains
 1 Basilica Bell-Haunt
@@ -29,15 +29,17 @@
 2 Omen of the Sun
 1 Kaya, Orzhov Usurper
 2 Kaya, Orzhov Usurper
-3 Yorion, Sky Nomad
-4 Trial of Ambition
+2 Ashiok, Nightmare Muse
+3 Dovin's Veto
 1 Mystical Dispute
 1 Thassa's Intervention
 2 Thassa's Intervention
 3 Kaya, Orzhov Usurper
 3 Eliminate
 1 Agonizing Remorse
+3 Yorion, Sky Nomad
 4 Basilica Bell-Haunt
+4 Trial of Ambition
 1 Elspeth, Sun's Champion
 2 Agonizing Remorse
 3 Agonizing Remorse
@@ -46,16 +48,13 @@
 1 Teferi, Master of Time
 2 Teferi, Master of Time
 3 Teferi, Master of Time
-2 Ashiok, Nightmare Muse
-3 Dovin's Veto
 2 Elspeth Conquers Death
 2 Shark Typhoon
 1 Gideon of the Trials
-1 Fetid Pools
 1 Irrigated Farmland
+1 Fetid Pools
 2 Irrigated Farmland
 2 Fetid Pools
-1 Oath of Teferi
 1 Temple of Enlightenment
 2 Gideon of the Trials
 1 Heartless Act
@@ -72,13 +71,14 @@
 1 Atris, Oracle of Half-Truths
 1 Reflector Mage
 2 Atris, Oracle of Half-Truths
-2 Elite Guardmage
 2 Thassa, Deep-Dwelling
 2 Reflector Mage
+2 Elite Guardmage
 3 Reflector Mage
 4 Reflector Mage
 3 Fetid Pools
 1 Solemn Simulacrum
+1 Oath of Teferi
 3 Gideon of the Trials
 1 Dig Through Time
 1 Concealed Courtyard
@@ -93,26 +93,21 @@
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 4 Karn, the Great Creator
-1 Archon of Sun's Grace
-1 Oath of Liliana
-2 Archon of Sun's Grace
-3 Archon of Sun's Grace
-4 Archon of Sun's Grace
+1 Mountain
+1 Castle Vantress
 1 Interplanar Beacon
 1 Narset of the Ancient Way
 1 Raugrin Triome
-1 Detention Sphere
 1 Sulfur Falls
 1 Chance for Glory
 1 Temple of Epiphany
 1 Steam Vents
 1 Deafening Clarion
-1 Castle Vantress
+1 Detention Sphere
 1 Oath of Chandra
 1 Day's Undoing
 1 Fires of Invention
 1 Jace, Architect of Thought
-1 Mountain
 1 Temple of Triumph
 1 Fae of Wishes
 1 Sacred Foundry
@@ -121,9 +116,9 @@
 2 Raugrin Triome
 2 Steam Vents
 2 Deafening Clarion
+2 Chance for Glory
 2 Fires of Invention
 2 Sacred Foundry
-2 Chance for Glory
 2 Jace, Architect of Thought
 2 Oath of Chandra
 2 Sulfur Falls
@@ -143,6 +138,6 @@
 4 Fae of Wishes
 4 Fires of Invention
 4 Sacred Foundry
-1 Gideon, Ally of Zendikar
-3 Shark Typhoon
 1 Elspeth's Nightmare
+3 Shark Typhoon
+1 Gideon, Ally of Zendikar

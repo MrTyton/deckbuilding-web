@@ -57,6 +57,6 @@
 |                     |                                                                                                       |                    1|[Narset's Reversal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460989)        |
 |                     |                                                                                                       |                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)          |
 |                     |                                                                                                       |                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)              |
-|                     |                                                                                                       |                    3|[Shatter the Sky](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476288)          |
 |                     |                                                                                                       |                    3|[Spectral Sailor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466830)          |
+|                     |                                                                                                       |                    3|[Shatter the Sky](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476288)          |
 

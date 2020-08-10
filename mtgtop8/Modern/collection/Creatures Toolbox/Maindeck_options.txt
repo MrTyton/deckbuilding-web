@@ -9,11 +9,11 @@
 1 Godless Shrine
 1 Kitchen Finks
 2 Ranger-Captain of Eos
-2 Heliod, Sun-Crowned
 2 Collected Company
+2 Heliod, Sun-Crowned
 2 Kitchen Finks
-3 Ranger-Captain of Eos
 3 Collected Company
+3 Ranger-Captain of Eos
 3 Kitchen Finks
 3 Noble Hierarch
 4 Collected Company
@@ -74,20 +74,20 @@
 4 Chord of Calling
 1 Eidolon of Rhetoric
 1 Kiki-Jiki, Mirror Breaker
+1 Grove of the Burnwillows
 1 Sword of Fire and Ice
 1 Gilded Goose
-1 Grove of the Burnwillows
 1 Prismatic Vista
 1 Restoration Angel
 1 Stoneforge Mystic
 1 Path to Exile
+2 Restoration Angel
 2 Prismatic Vista
 2 Scavenging Ooze
 2 Stoneforge Mystic
 2 Path to Exile
 2 Arid Mesa
 2 Eternal Witness
-2 Restoration Angel
 3 Restoration Angel
 3 Path to Exile
 3 Stoneforge Mystic
@@ -105,16 +105,16 @@
 4 Heliod, Sun-Crowned
 4 Noble Hierarch
 1 Carrion Feeder
-1 Wall of Blossoms
 1 Batterskull
 1 Phyrexian Revoker
 1 Sunbaked Canyon
+1 Wall of Blossoms
+2 Grove of the Burnwillows
 2 Wall of Blossoms
 2 Gilded Goose
-2 Grove of the Burnwillows
 2 Knight of Autumn
-3 Wall of Blossoms
 3 Grove of the Burnwillows
+3 Wall of Blossoms
 4 Voice of Resurgence
 1 Linvala, Keeper of Silence
 1 Savai Triome
@@ -131,8 +131,6 @@
 4 Strangleroot Geist
 1 Selfless Savior
 1 Lurrus of the Dream-Den
-1 Flooded Strand
-4 Ranger-Captain of Eos
 1 Swamp
 4 Spike Feeder
 1 Uro, Titan of Nature's Wrath
@@ -164,7 +162,8 @@
 4 Lightning Bolt
 4 Winota, Joiner of Forces
 4 Angrath's Marauders
-1 Wall of Roots
+1 Flooded Strand
+4 Ranger-Captain of Eos
 1 Dryad Arbor
 1 Elves of Deep Shadow
 1 Blooming Marsh
@@ -173,17 +172,18 @@
 1 Urborg, Tomb of Yawgmoth
 1 Snow-Covered Swamp
 1 Zulaport Cutthroat
-1 Geralf's Messenger
 1 Nurturing Peatland
+1 Geralf's Messenger
 1 Khalni Garden
 1 Young Wolf
 1 Yawgmoth, Thran Physician
 1 Pendelhaven
+1 Wall of Roots
+2 Twilight Mire
 2 Overgrown Tomb
 2 Nurturing Peatland
 2 Blooming Marsh
 2 Geralf's Messenger
-2 Twilight Mire
 2 Young Wolf
 2 Yawgmoth, Thran Physician
 2 Wall of Roots

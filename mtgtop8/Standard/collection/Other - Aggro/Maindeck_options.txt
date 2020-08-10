@@ -40,33 +40,48 @@
 4 Gingerbrute
 7 Plains
 8 Plains
-1 Bolt Hound
+1 Radiant Fountain
+1 Marauding Raptor
+1 Castle Garenbrig
+1 Gemrazer
+1 Garruk's Harbinger
+1 Garruk, Unleashed
+1 Shifting Ceratops
+1 Vivien, Monsters' Advocate
+1 Primal Might
+2 Marauding Raptor
+2 Garruk's Harbinger
+2 Gemrazer
+2 Shifting Ceratops
+3 Marauding Raptor
+3 Garruk's Harbinger
+4 Garruk's Harbinger
 1 Pack Leader
-2 Bolt Hound
+1 Bolt Hound
 2 Pack Leader
+2 Bolt Hound
 3 Bolt Hound
 3 Pack Leader
 4 Pack Leader
 1 Chandra, Heart of Fire
 1 Paradise Druid
 1 Domri, Anarch of Bolas
-1 Chandra, Fire Artisan
 1 Sarkhan the Masterless
 1 Incubation Druid
 1 Vivien, Arkbow Ranger
+1 Chandra, Fire Artisan
 2 Chandra, Heart of Fire
 2 Paradise Druid
 2 Domri, Anarch of Bolas
-2 Chandra, Fire Artisan
 2 The Great Henge
 2 Vivien, Arkbow Ranger
+2 Chandra, Fire Artisan
 3 Paradise Druid
-3 Chandra, Heart of Fire
 3 Scavenging Ooze
+3 Chandra, Heart of Fire
 4 Temple of Abandon
 4 Paradise Druid
 4 Scavenging Ooze
-1 Radiant Fountain
 1 Island
 2 Island
 3 Island
@@ -105,38 +120,23 @@
 2 Mobilized District
 3 Mystic Forge
 3 Solemn Simulacrum
-3 Crystalline Giant
 3 Palladium Myr
 3 Interplanar Beacon
 3 Radiant Fountain
+3 Crystalline Giant
 3 Ugin, the Ineffable
 3 Steel Overseer
 3 Karn's Bastion
 4 Mystic Forge
-4 Crystalline Giant
 4 Stonecoil Serpent
 4 Interplanar Beacon
 4 Palladium Myr
-4 Ugin, the Ineffable
 4 Radiant Fountain
+4 Ugin, the Ineffable
 4 Solemn Simulacrum
 4 Steel Overseer
 4 Karn's Bastion
-1 Castle Garenbrig
-1 Marauding Raptor
-1 Gemrazer
-1 Garruk's Harbinger
-1 Garruk, Unleashed
-1 Shifting Ceratops
-1 Vivien, Monsters' Advocate
-1 Primal Might
-2 Marauding Raptor
-2 Garruk's Harbinger
-2 Gemrazer
-2 Shifting Ceratops
-3 Marauding Raptor
-3 Garruk's Harbinger
-4 Garruk's Harbinger
+4 Crystalline Giant
 5 Swamp
 6 Swamp
 7 Swamp
@@ -159,8 +159,8 @@
 1 Murderous Rider
 1 Call of the Death-Dweller
 2 Murderous Rider
-2 Fiend Artisan
 2 Temple of Malice
+2 Fiend Artisan
 2 Claim the Firstborn
 2 Blood Crypt
 2 Witch's Oven
@@ -170,8 +170,8 @@
 2 Cauldron Familiar
 2 Gutterbones
 2 Woe Strider
-3 Fiend Artisan
 3 Temple of Malice
+3 Fiend Artisan
 3 Mayhem Devil
 3 Woe Strider
 3 Cauldron Familiar
@@ -201,22 +201,22 @@
 1 Lurrus of the Dream-Den
 2 Lurrus of the Dream-Den
 1 Boon of the Wish-Giver
-1 Imposing Vantasaur
-1 Zenith Flare
+1 Inspired Ultimatum
 1 Startling Development
 1 Steam Vents
 1 Hallowed Fountain
-1 Inspired Ultimatum
 1 Flourishing Fox
 1 Drannith Stinger
 1 Unpredictable Cyclone
+1 Imposing Vantasaur
 1 Valiant Rescuer
 1 Drannith Healer
+1 Zenith Flare
 1 Raugrin Triome
 2 Boon of the Wish-Giver
 2 Raugrin Triome
-2 Imposing Vantasaur
 2 Drannith Stinger
+2 Imposing Vantasaur
 2 Valiant Rescuer
 2 Drannith Healer
 2 Zenith Flare
@@ -255,8 +255,8 @@
 1 Temple of Deceit
 1 Watery Grave
 1 Slitherwisp
-2 Spectral Sailor
 2 Dirge Bat
+2 Spectral Sailor
 2 Sea-Dasher Octopus
 2 Brazen Borrower
 2 Heartless Act
@@ -295,33 +295,33 @@
 7 Mountain
 8 Mountain
 1 Zagoth Triome
-1 Neoform
 1 Golgari Findbroker
 1 Vito, Thorn of the Dusk Rose
 1 Cling to Dust
 1 Casualties of War
+1 Neoform
 1 Thassa, Deep-Dwelling
 1 Thirsting Shade
 1 Cavalier of Night
 1 Vampire Opportunist
 1 Biomancer's Familiar
 1 Acolyte of Affliction
-2 Acolyte of Affliction
 2 Zagoth Triome
-2 Neoform
 2 Golgari Findbroker
 2 Vito, Thorn of the Dusk Rose
 2 Casualties of War
+2 Neoform
 2 Vampire Opportunist
 2 Biomancer's Familiar
 2 Thirsting Shade
+2 Acolyte of Affliction
 2 Thassa, Deep-Dwelling
-3 Casualties of War
 3 Neoform
 3 Thirsting Shade
 3 Biomancer's Familiar
 3 Vampire Opportunist
 3 Knight of the Ebon Legion
+3 Casualties of War
 4 Casualties of War
 4 Neoform
 4 Thirsting Shade
@@ -329,25 +329,25 @@
 4 Knight of the Ebon Legion
 4 Biomancer's Familiar
 8 Swamp
+1 Dryad of the Ilysian Grove
 1 Cavalier of Thorns
 1 Voracious Hydra
 1 Chandra, Awakened Inferno
 1 Nissa, Who Shakes the World
 1 Escape to the Wilds
-1 Dryad of the Ilysian Grove
+2 Dryad of the Ilysian Grove
 2 Nissa, Who Shakes the World
 2 Cavalier of Thorns
 2 Voracious Hydra
-2 Escape to the Wilds
 2 Chandra, Awakened Inferno
-2 Dryad of the Ilysian Grove
+2 Escape to the Wilds
 3 Chandra, Awakened Inferno
 3 Nissa, Who Shakes the World
 3 Arboreal Grazer
 3 Cultivate
 3 Cavalier of Thorns
-3 Voracious Hydra
 3 Dryad of the Ilysian Grove
+3 Voracious Hydra
 4 Nissa, Who Shakes the World
 4 Arboreal Grazer
 4 Cultivate
@@ -362,8 +362,8 @@
 1 Alseid of Life's Bounty
 1 Gods Willing
 1 Karametra's Blessing
-1 Solid Footing
 1 Glaring Aegis
+1 Solid Footing
 1 Shadowspear
 1 Castle Ardenvale
 2 All That Glitters
@@ -376,18 +376,18 @@
 2 Glaring Aegis
 3 Healer's Hawk
 3 Alseid of Life's Bounty
+3 All That Glitters
 3 Gods Willing
-3 Sentinel's Eyes
-3 Solid Footing
 3 Glaring Aegis
 3 Karametra's Blessing
-3 All That Glitters
+3 Solid Footing
+3 Sentinel's Eyes
 4 Healer's Hawk
 4 Alseid of Life's Bounty
-4 Solid Footing
 4 All That Glitters
-4 Glaring Aegis
 4 Karametra's Blessing
+4 Glaring Aegis
+4 Solid Footing
 4 Sentinel's Eyes
 9 Plains
 10 Plains
