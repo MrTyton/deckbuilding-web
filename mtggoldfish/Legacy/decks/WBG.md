@@ -28,3 +28,18 @@
 |                                                                                                |                                                                                         |2 [Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)  |                                                                                          |                                                                                                  |
 |                                                                                                |                                                                                         |4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|                                                                                          |                                                                                                  |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)                |                    1|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470)|
+|                    1|[Leovold, Emissary of Trest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416834)|                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)      |
+|                    1|[Qasali Pridemage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179556)          |                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)   |
+|                    1|[Tropical Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=884)              |                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)  |
+|                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)          |                    2|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470)|
+|                    2|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2240)              |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)      |
+|                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)              |                     |                                                                                             |
+|                    4|[Green Sun's Zenith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413711)        |                     |                                                                                             |
+|                    2|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)         |                     |                                                                                             |
+

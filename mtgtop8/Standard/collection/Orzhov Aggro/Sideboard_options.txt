@@ -5,42 +5,46 @@
 2 Blightbeetle
 1 Kaya, Orzhov Usurper
 2 Kaya, Orzhov Usurper
-1 Mortify
 1 Eliminate
+1 Mortify
 2 Eliminate
 2 Mortify
-1 Hushbringer
-1 Despark
-2 Despark
-2 Hushbringer
-3 Hushbringer
 1 Agonizing Remorse
+1 Despark
+1 Hushbringer
+2 Hushbringer
+2 Despark
+3 Hushbringer
 1 Lurrus of the Dream-Den
 1 Light of Hope
 1 Ill-Gotten Inheritance
 2 Ill-Gotten Inheritance
+2 Agonizing Remorse
+3 Agonizing Remorse
+1 Memory Leak
+2 Dead Weight
+2 Memory Leak
+3 Memory Leak
 1 Omen of the Dead
 1 Pacifism
 2 Mire's Grasp
 2 Pacifism
 3 Mire's Grasp
-1 Apostle of Purifying Light
-2 Apostle of Purifying Light
-3 Blightbeetle
-1 Dire Tactics
 1 Soul-Guide Lantern
 1 Drannith Magistrate
-2 Dire Tactics
-2 Agonizing Remorse
+1 Dire Tactics
 2 Soul-Guide Lantern
 2 Drannith Magistrate
-3 Agonizing Remorse
+2 Dire Tactics
 3 Soul-Guide Lantern
 1 Hunted Nightmare
 1 Heliod's Intervention
 2 Hunted Nightmare
 2 Heliod's Intervention
 3 Hunted Nightmare
+1 Apostle of Purifying Light
+2 Apostle of Purifying Light
+3 Blightbeetle
 1 The Wanderer
 1 Kitesail Freebooter
 2 Kitesail Freebooter
@@ -49,7 +53,12 @@
 1 Orzhov Enforcer
 2 Orzhov Enforcer
 3 Despark
-1 Memory Leak
-2 Dead Weight
-2 Memory Leak
-3 Memory Leak
+1 Banishing Light
+1 Disenchant
+1 Sanctum of Stone Fangs
+2 Banishing Light
+2 Disenchant
+2 Sanctum of Stone Fangs
+3 Sanctum of Stone Fangs
+4 Sanctum of Stone Fangs
+4 Agonizing Remorse

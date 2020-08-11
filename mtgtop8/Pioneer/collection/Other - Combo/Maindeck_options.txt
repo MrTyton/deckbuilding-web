@@ -1,8 +1,3 @@
-1 Rootbound Crag
-2 Rootbound Crag
-2 Forest
-2 Stomping Ground
-2 Elvish Mystic
 2 Llanowar Elves
 3 Llanowar Elves
 3 Stomping Ground
@@ -22,12 +17,12 @@
 2 Voice of Resurgence
 2 Eldritch Evolution
 2 Legion Warboss
+3 Angrath's Marauders
 3 Voice of Resurgence
 3 Legion Warboss
 3 Winota, Joiner of Forces
 3 Eldritch Evolution
 3 Temple Garden
-3 Angrath's Marauders
 4 Temple Garden
 4 Legion Warboss
 4 Winota, Joiner of Forces
@@ -36,19 +31,25 @@
 4 Angrath's Marauders
 1 Pia and Kiran Nalaar
 1 Tithe Taker
-1 Battlefield Forge
 1 Garruk's Harbinger
 2 Pia and Kiran Nalaar
 2 Tithe Taker
-2 Battlefield Forge
 2 Garruk's Harbinger
 3 Sacred Foundry
 3 Tithe Taker
 3 Garruk's Harbinger
 4 Tithe Taker
 4 Garruk's Harbinger
+1 Breeding Pool
+1 Uro, Titan of Nature's Wrath
+1 Lurrus of the Dream-Den
+4 Teferi, Time Raveler
+4 Botanical Sanctum
+1 Battlefield Forge
+2 Battlefield Forge
 2 Uro, Titan of Nature's Wrath
 2 Urborg, Tomb of Yawgmoth
+1 Game Trail
 1 Fortified Village
 1 Gilded Goose
 2 Jace, Wielder of Mysteries
@@ -57,8 +58,9 @@
 1 Spire of Industry
 2 Springleaf Drum
 2 Spire of Industry
+1 Inspiring Vantage
+2 Inspiring Vantage
 2 Gilded Goose
-1 Game Trail
 1 Mountain
 1 Soul-Guide Lantern
 1 Ashiok, Dream Render
@@ -66,12 +68,10 @@
 1 Scampering Scorcher
 1 Goblin Instigator
 1 Selfless Spirit
-1 Inspiring Vantage
 1 Sunpetal Grove
 1 Goblin Rabblemaster
 1 Kenrith, the Returned King
 1 Plains
-2 Inspiring Vantage
 2 Selfless Spirit
 2 Goblin Rabblemaster
 2 Sunpetal Grove
@@ -79,9 +79,9 @@
 2 Breeding Pool
 1 Wishclaw Talisman
 1 Liliana, the Last Hope
+1 Oath of Kaya
 1 Lurrus of the Dream Den
 1 Island
-1 Oath of Kaya
 2 Wishclaw Talisman
 2 Liliana, the Last Hope
 2 Lurrus of the Dream Den
@@ -100,11 +100,11 @@
 3 Neoform
 4 Neoform
 1 Lukka, Coppercoat Outcast
+1 Possibility Storm
 1 Enter the Infinite
 1 Stonecoil Serpent
-1 Possibility Storm
-1 Captain Lannery Storm
 1 Borborygmos Enraged
+1 Captain Lannery Storm
 1 Shared Summons
 1 Emrakul, the Promised End
 1 Rosethorn Acolyte

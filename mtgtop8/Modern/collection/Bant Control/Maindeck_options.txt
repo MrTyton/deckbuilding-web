@@ -1,5 +1,8 @@
+2 Breeding Pool
+1 Spell Snare
+2 Snow-Covered Forest
 1 Scalding Tarn
-2 Snow-Covered Plains
+3 Teferi, Time Raveler
 1 Dovin's Veto
 1 Polluted Delta
 1 Growth Spiral
@@ -9,12 +12,15 @@
 2 Field of the Dead
 3 Growth Spiral
 4 Growth Spiral
-3 Mystic Sanctuary
 3 Archmage's Charm
+3 Mystic Sanctuary
+1 Shark Typhoon
+1 Remand
+2 Remand
 1 Prairie Stream
-1 Spell Snare
 4 Uro, Titan of Nature's Wrath
-2 Snow-Covered Forest
+1 Prismatic Vista
+2 Hallowed Fountain
 1 Abundant Growth
 1 Hinterland Harbor
 1 Primeval Titan
@@ -25,20 +31,14 @@
 2 Scalding Tarn
 3 Abundant Growth
 3 Field of the Dead
-3 Teferi, Time Raveler
-1 Shark Typhoon
-1 Remand
-2 Remand
-1 Prismatic Vista
-2 Hallowed Fountain
 1 Windswept Heath
 2 Windswept Heath
 3 Snow-Covered Forest
 1 Timely Reinforcements
 1 Ashiok, Dream Render
+1 Raugrin Triome
 1 Lightning Bolt
 1 Wrenn and Six
-1 Raugrin Triome
 1 Steam Vents
 1 Lightning Helix
 1 Ketria Triome
@@ -57,8 +57,8 @@
 3 Opt
 3 Fact or Fiction
 4 Opt
-1 Irrigated Farmland
 1 Hour of Promise
+1 Irrigated Farmland
 2 Hour of Promise
 2 Island
 3 Remand
@@ -66,19 +66,19 @@
 1 Birds of Paradise
 1 Ghost Quarter
 1 Sword of Fire and Ice
+1 Karn, the Great Creator
 1 Scavenging Ooze
 1 Mwonvuli Acid-Moss
 1 Batterskull
 1 Utopia Sprawl
 1 Stoneforge Mystic
-1 Karn, the Great Creator
 2 Birds of Paradise
-2 Temple Garden
 2 Karn, the Great Creator
+2 Temple Garden
+2 Ghost Quarter
 2 Mwonvuli Acid-Moss
 2 Utopia Sprawl
 2 Scavenging Ooze
-2 Ghost Quarter
 2 Stoneforge Mystic
 3 Scavenging Ooze
 3 Mwonvuli Acid-Moss
@@ -95,12 +95,12 @@
 4 Teferi, Time Raveler
 4 Utopia Sprawl
 4 Karn, the Great Creator
-1 Eladamri's Call
 1 Soulherder
 1 Ephemerate
 1 Venser, Shaper Savant
-1 Eternal Witness
 1 Time Warp
+1 Eternal Witness
+1 Eladamri's Call
 1 Canopy Vista
 1 Coiling Oracle
 2 Prismatic Vista

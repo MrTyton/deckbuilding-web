@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|---------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Garruk's Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485508)|                     |              |
 |                    2|[Garruk's Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485508)|                     |              |
 |                    3|[Garruk's Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485508)|                     |              |
 |                    4|[Garruk's Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485508)|                     |              |
+|                    1|[Garruk's Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485508)|                     |              |
 
