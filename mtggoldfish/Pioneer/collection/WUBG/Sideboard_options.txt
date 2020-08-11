@@ -12,13 +12,13 @@
 1 Kaya, Orzhov Usurper
 1 Knight of Autumn
 2 Knight of Autumn
-1 Basri's Lieutenant
 1 Sin Collector
+2 Sin Collector
+1 Basri's Lieutenant
 1 Deputy of Detention
 1 Eliminate
 1 Sorin, Vengeful Bloodlord
 2 Eliminate
-2 Sin Collector
 2 Deputy of Detention
 1 Erase
 1 Leyline of the Void
@@ -54,8 +54,16 @@
 1 Sidisi, Brood Tyrant
 2 Sidisi, Brood Tyrant
 3 Heart of Kiran
-3 Mystical Dispute
-4 Leyline of the Void
+1 Seasoned Hallowblade
+1 Hostage Taker
+1 Heron's Grace Champion
+1 Arashin Cleric
+2 Seasoned Hallowblade
+2 Hostage Taker
+2 Arashin Cleric
+3 Seasoned Hallowblade
+3 Arashin Cleric
+4 Fatal Push
 1 Selfless Spirit
 1 Declaration in Stone
 1 Unbreakable Formation
@@ -68,6 +76,8 @@
 2 Rest in Peace
 3 Selfless Spirit
 3 Apostle of Purifying Light
+3 Rest in Peace
 4 Apostle of Purifying Light
 4 Rest in Peace
-3 Rest in Peace
+4 Leyline of the Void
+3 Mystical Dispute

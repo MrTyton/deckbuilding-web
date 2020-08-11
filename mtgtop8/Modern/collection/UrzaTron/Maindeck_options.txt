@@ -7,8 +7,8 @@
 4 Forest
 1 Ghost Quarter
 1 Ugin, the Ineffable
-1 Cascading Cataracts
 1 Golos, Tireless Pilgrim
+1 Cascading Cataracts
 2 Golos, Tireless Pilgrim
 2 Relic of Progenitus
 3 Ugin, the Spirit Dragon
@@ -17,6 +17,7 @@
 1 Omen of the Sea
 1 Flooded Strand
 1 Polluted Delta
+1 Hydroid Krasis
 1 Remand
 1 Commandeer
 1 Force of Negation
@@ -25,7 +26,6 @@
 1 Arcum's Astrolabe
 1 Cyclonic Rift
 1 Breeding Pool
-1 Hydroid Krasis
 1 Snow-Covered Island
 1 Scalding Tarn
 1 Wilderness Reclamation
@@ -36,13 +36,13 @@
 1 Condescend
 1 Misty Rainforest
 2 Omen of the Sea
+2 Hydroid Krasis
 2 Flooded Strand
 2 Polluted Delta
 2 Breeding Pool
 2 Remand
 2 Commandeer
 2 Force of Negation
-2 Hydroid Krasis
 2 Shark Typhoon
 2 Snow-Covered Island
 2 Arcum's Astrolabe
@@ -56,8 +56,8 @@
 3 Wilderness Reclamation
 3 Shark Typhoon
 3 Trinket Mage
-3 Breeding Pool
 3 Hydroid Krasis
+3 Breeding Pool
 3 Simic Signet
 3 Commandeer
 3 Remand
@@ -66,9 +66,9 @@
 3 Condescend
 4 Remand
 4 Omen of the Sea
+4 Hydroid Krasis
 4 Shark Typhoon
 4 Wilderness Reclamation
-4 Hydroid Krasis
 4 Snow-Covered Island
 4 Commandeer
 4 Condescend
@@ -86,9 +86,9 @@
 1 Nurturing Peatland
 2 Thragtusk
 3 Ulamog, the Ceaseless Hunger
-1 Inventors' Fair
 1 Wastes
 1 Mazemind Tome
+1 Inventors' Fair
 1 Spine of Ish Sah
 1 Mystic Forge
 1 Ensnaring Bridge
@@ -101,24 +101,24 @@
 1 Paradox Engine
 1 Sea Gate Wreckage
 2 Mazemind Tome
+2 Mystic Forge
 2 Blast Zone
 2 Paradox Engine
 2 Everflowing Chalice
 2 Ensnaring Bridge
-2 Mystic Forge
 2 Surge Node
 2 Astral Cornucopia
 2 Coretapper
+3 Ugin, the Ineffable
 3 Mazemind Tome
 3 Mystic Forge
 3 Surge Node
 3 Astral Cornucopia
 3 Everflowing Chalice
-3 Ugin, the Ineffable
 3 Coretapper
+4 Mazemind Tome
 4 Astral Cornucopia
 4 Coretapper
 4 Mystic Forge
 4 Surge Node
-4 Mazemind Tome
 4 Everflowing Chalice

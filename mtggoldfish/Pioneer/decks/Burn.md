@@ -38,6 +38,6 @@
 |                     |                                                                                     |                    2|[Light of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479540)      |
 |                     |                                                                                     |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
 |                     |                                                                                     |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
-|                     |                                                                                     |                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
 |                     |                                                                                     |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
+|                     |                                                                                     |                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
 

@@ -94,8 +94,8 @@
 4 Sunpetal Grove
 6 Forest
 7 Forest
-1 Experiment One
 1 Pelt Collector
+1 Experiment One
 2 Pelt Collector
 2 Experiment One
 3 Experiment One
@@ -189,13 +189,13 @@
 4 Satyr Wayfinder
 1 Duskwatch Recruiter
 1 Goblin Instigator
-2 Goblin Instigator
 2 Duskwatch Recruiter
+2 Goblin Instigator
 2 Selfless Spirit
 3 Rootbound Crag
 3 Gilded Goose
-3 Goblin Instigator
 3 Duskwatch Recruiter
+3 Goblin Instigator
 4 Gilded Goose
 1 Hashep Oasis
 1 Gruul Spellbreaker
@@ -267,57 +267,57 @@
 3 Ox of Agonas
 4 Kroxa, Titan of Death's Hunger
 4 Mountain
-1 Niambi, Esteemed Speaker
 1 General's Enforcer
-1 Reflector Mage
+1 Kytheon, Hero of Akros
 1 Dire Tactics
 1 Hero of Precinct One
-1 Kytheon, Hero of Akros
+1 Niambi, Esteemed Speaker
+1 Rogue Refiner
+1 General Kudro of Drannith
+1 Reflector Mage
+1 Thalia's Lieutenant
 1 Unclaimed Territory
 1 Hallowed Fountain
-1 Thalia's Lieutenant
-1 General Kudro of Drannith
-1 Rogue Refiner
 1 Concealed Courtyard
 1 Thraben Inspector
 1 Botanical Sanctum
-2 Niambi, Esteemed Speaker
 2 Dire Tactics
+2 Kytheon, Hero of Akros
 2 Hero of Precinct One
 2 General's Enforcer
+2 Rogue Refiner
+2 General Kudro of Drannith
+2 Niambi, Esteemed Speaker
 2 Reflector Mage
-2 Kytheon, Hero of Akros
+2 Thalia's Lieutenant
 2 Hallowed Fountain
 2 Unclaimed Territory
-2 Thalia's Lieutenant
-2 General Kudro of Drannith
-2 Rogue Refiner
 2 Concealed Courtyard
 2 Thraben Inspector
 3 General's Enforcer
-3 Hero of Precinct One
-3 Dire Tactics
-3 Reflector Mage
-3 Kytheon, Hero of Akros
-3 Unclaimed Territory
-3 Thalia's Lieutenant
-3 General Kudro of Drannith
 3 Rogue Refiner
+3 Hero of Precinct One
+3 General Kudro of Drannith
+3 Dire Tactics
+3 Kytheon, Hero of Akros
+3 Reflector Mage
+3 Thalia's Lieutenant
+3 Unclaimed Territory
 3 Thraben Inspector
 3 Concealed Courtyard
 4 General Kudro of Drannith
 4 Hero of Precinct One
+4 Thalia's Lieutenant
 4 Reflector Mage
 4 Unclaimed Territory
-4 Thalia's Lieutenant
 4 Thraben Inspector
 4 Concealed Courtyard
-1 Hissing Quagmire
 1 Scrapheap Scrounger
 1 Winding Constrictor
 1 Llanowar Wastes
 1 Assassin's Trophy
 1 Mutavault
+1 Hissing Quagmire
 2 Llanowar Wastes
 2 Winding Constrictor
 2 Assassin's Trophy
@@ -335,8 +335,8 @@
 4 Llanowar Wastes
 1 Calix, Destiny's Hand
 1 Banishing Light
-1 Starfield Mystic
 1 Temple of Plenty
+1 Starfield Mystic
 1 Sigil of the Empty Throne
 1 Sphere of Safety
 1 Setessan Champion
@@ -348,12 +348,12 @@
 2 Calix, Destiny's Hand
 2 Banishing Light
 2 Field of Ruin
-2 Starfield Mystic
 2 Sigil of the Empty Throne
 2 Eidolon of Blossoms
 2 Herald of the Pantheon
 2 Alseid of Life's Bounty
 2 Setessan Champion
+2 Starfield Mystic
 2 Temple of Plenty
 3 Cast Out
 3 Banishing Light

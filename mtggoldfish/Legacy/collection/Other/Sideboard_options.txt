@@ -1,59 +1,58 @@
-1 Tormod's Crypt
-2 Ensnaring Bridge
-1 Swords to Plowshares
+1 Grafdigger's Cage
+1 Disenchant
 2 Swords to Plowshares
+1 Ensnaring Bridge
+1 Teferi, Time Raveler
+2 Ensnaring Bridge
 1 Defense Grid
 1 Oblivion Ring
 2 Ethersworn Canonist
 2 Oblivion Ring
 3 Oblivion Ring
 3 Ethersworn Canonist
-1 Teferi, Time Raveler
-1 Disenchant
-3 Surgical Extraction
 1 Collector Ouphe
+2 Veil of Summer
 3 Veil of Summer
-3 Swords to Plowshares
-1 Karakas
-1 Force of Negation
-1 Abrade
-3 Pyroblast
-1 Containment Priest
 1 Rest in Peace
-1 True-Name Nemesis
-2 True-Name Nemesis
+3 Swords to Plowshares
+1 Pithing Needle
+1 Engineered Explosives
+1 Deafening Silence
+1 Flusterstorm
 1 Walking Ballista
 3 Ensnaring Bridge
 4 Ensnaring Bridge
+1 Tormod's Crypt
+1 Faerie Macabre
 2 Force of Negation
 1 Echoing Truth
 2 Echoing Truth
-2 Grafdigger's Cage
-1 Umezawa's Jitte
-1 Faerie Macabre
+1 Thorn of Amethyst
 1 Dismember
 2 Dismember
-1 Mycosynth Lattice
-1 Damping Sphere
-1 Sorcerous Spyglass
-1 Thorn of Amethyst
+2 Thorn of Amethyst
+2 Faerie Macabre
+1 Council's Judgment
+2 Grafdigger's Cage
+1 Umezawa's Jitte
+1 Eliminate
+1 Leonin Relic-Warder
+1 Lavinia, Azorius Renegade
+3 Force of Negation
+4 Pyroblast
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
-1 Leonin Relic-Warder
-1 Eliminate
-1 Lavinia, Azorius Renegade
-3 Force of Negation
-1 Nihil Spellbomb
-1 Trinisphere
+1 Sorcerous Spyglass
+3 Surgical Extraction
 1 Yorion, Sky Nomad
-1 Skysovereign, Consul Flagship
-1 Liquimetal Coating
-1 Glass Casket
-1 Phyrexian Metamorph
-1 Sphere of Resistance
-1 Deafening Silence
+1 Nihil Spellbomb
+1 Electrickery
+1 Soul-Guide Lantern
+1 Aether Gust
+1 Zuran Orb
+1 Torpor Orb
 1 Engineered Plague
 1 Detention Sphere
 1 Wheel of Sun and Moon
@@ -62,18 +61,23 @@
 1 Runed Halo
 1 Stony Silence
 1 Spreading Seas
-1 Back to Basics
 1 Tsabo's Web
-1 Zuran Orb
-1 Torpor Orb
-2 Teferi, Time Raveler
-1 Grindstone
-1 Painter's Servant
-1 Enlightened Tutor
-1 Blood Moon
-2 Enlightened Tutor
-2 Red Elemental Blast
+1 Back to Basics
+1 Trinisphere
+1 Skysovereign, Consul Flagship
+1 Liquimetal Coating
+1 Glass Casket
+1 Mycosynth Lattice
+1 Phyrexian Metamorph
+1 Sphere of Resistance
+1 Damping Sphere
+1 Sylvan Library
+1 Return to Nature
+1 Supreme Verdict
+2 Return to Nature
+2 Supreme Verdict
 1 Brazen Borrower
+1 Red Elemental Blast
 1 Izzet Staticaster
 1 Cindervines
 1 Scavenging Ooze
@@ -88,28 +92,21 @@
 2 Engineered Plague
 2 Arcane Laboratory
 2 Chains of Mephistopheles
-1 Carpet of Flowers
-1 Null Rod
-1 Power Armor
-1 Chill
-1 Propaganda
-2 Chill
-2 Damping Sphere
-1 Unearth
-1 Sevinne's Reclamation
-1 Gilded Drake
-1 Remorseful Cleric
-2 Gilded Drake
+2 Teferi, Time Raveler
 1 Seasoned Pyromancer
 1 Cling to Dust
 2 Seasoned Pyromancer
 2 Karakas
 2 Cling to Dust
+1 Unearth
+1 Sevinne's Reclamation
+1 Gilded Drake
+1 Remorseful Cleric
+2 Gilded Drake
 1 Bitterblossom
-1 Flusterstorm
 2 Bitterblossom
-2 Eliminate
 2 Disenchant
+2 Eliminate
 3 Bitterblossom
 1 Spatial Contortion
 1 Karn, Scion of Urza
@@ -118,17 +115,20 @@
 2 Karn, Scion of Urza
 2 Choke
 3 Spatial Contortion
-1 Thoughtseize
-1 Island
-1 Shenanigans
-2 Shenanigans
-3 Plague Engineer
 1 Venser, Shaper Savant
 1 Relic of Progenitus
 1 Maze of Ith
 2 Relic of Progenitus
 2 Umezawa's Jitte
 3 Dismember
+1 Holy Light
+1 Armageddon
+2 Rest in Peace
+2 Holy Light
+2 Council's Judgment
+2 Armageddon
+3 Council's Judgment
+3 Armageddon
 1 Grim Monolith
 1 Swamp
 1 Inquisition of Kozilek
@@ -143,13 +143,11 @@
 3 Inquisition of Kozilek
 4 Grim Monolith
 1 Meddling Mage
+1 True-Name Nemesis
 1 Sword of Fire and Ice
+2 True-Name Nemesis
 3 True-Name Nemesis
 4 Swords to Plowshares
-1 Electrickery
-1 Soul-Guide Lantern
-1 Aether Gust
-4 Pyroblast
 1 Price of Progress
 1 Blistercoil Weird
 1 Searing Blaze
@@ -171,13 +169,11 @@
 1 Submerge
 1 Lightning Bolt
 2 Blazing Volley
-2 Submerge
 2 Shattering Spree
+2 Submerge
 3 Shattering Spree
 4 Surgical Extraction
-2 Thorn of Amethyst
 2 Tormod's Crypt
-2 Faerie Macabre
 3 Thorn of Amethyst
 3 Faerie Macabre
 4 Thorn of Amethyst
@@ -192,6 +188,16 @@
 3 Force of Vigor
 4 Leyline of Sanctity
 4 Force of Vigor
+1 Ravenous Trap
+1 Sulfuric Vortex
+1 Eidolon of the Great Revel
+2 Abrade
+2 Ravenous Trap
+2 Eidolon of the Great Revel
+3 Ravenous Trap
+3 Eidolon of the Great Revel
+3 Abrade
+4 Eidolon of the Great Revel
 2 Defense Grid
 3 Defense Grid
 4 Ethersworn Canonist
@@ -210,8 +216,8 @@
 1 Naturalize
 2 Jagged-Scar Archers
 2 Pithing Needle
-2 Return of the Wildspeaker
 2 Naturalize
+2 Return of the Wildspeaker
 2 Hunting Triad
 3 Hunting Triad
 1 Magmatic Sinkhole

@@ -8,8 +8,8 @@
 1 Collected Company
 1 Godless Shrine
 1 Kitchen Finks
-2 Ranger-Captain of Eos
 2 Collected Company
+2 Ranger-Captain of Eos
 2 Heliod, Sun-Crowned
 2 Kitchen Finks
 3 Collected Company
@@ -62,12 +62,12 @@
 1 Prismatic Vista
 1 Restoration Angel
 1 Path to Exile
-2 Restoration Angel
 2 Prismatic Vista
 2 Path to Exile
 2 Arid Mesa
 2 Eternal Witness
 2 Stoneforge Mystic
+2 Restoration Angel
 3 Restoration Angel
 3 Path to Exile
 3 Stoneforge Mystic
@@ -159,6 +159,8 @@
 1 Mountain
 1 Cavern of Souls
 2 Smuggler's Copter
+1 Flooded Strand
+4 Ranger-Captain of Eos
 1 Swamp
 4 Spike Feeder
 1 Uro, Titan of Nature's Wrath
@@ -169,8 +171,6 @@
 3 Forest
 4 Horizon Canopy
 4 Temple Garden
-1 Flooded Strand
-4 Ranger-Captain of Eos
 1 Wall of Roots
 1 Dryad Arbor
 1 Elves of Deep Shadow
@@ -178,8 +178,8 @@
 1 Ravenous Chupacabra
 1 Urborg, Tomb of Yawgmoth
 1 Snow-Covered Swamp
-1 Zulaport Cutthroat
 1 Nurturing Peatland
+1 Zulaport Cutthroat
 1 Blooming Marsh
 1 Pendelhaven
 1 Geralf's Messenger
