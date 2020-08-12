@@ -63,10 +63,10 @@
 1 Paradise Druid
 1 Domri, Anarch of Bolas
 1 Chandra, Heart of Fire
-1 Incubation Druid
 1 Sarkhan the Masterless
 1 Chandra, Fire Artisan
 1 Vivien, Arkbow Ranger
+1 Incubation Druid
 2 Paradise Druid
 2 Domri, Anarch of Bolas
 2 Chandra, Heart of Fire
@@ -169,12 +169,12 @@
 2 Gutterbones
 2 Woe Strider
 3 Temple of Malice
-3 Fiend Artisan
 3 Mayhem Devil
 3 Woe Strider
 3 Cauldron Familiar
 3 Blood Crypt
 3 Claim the Firstborn
+3 Fiend Artisan
 3 Witch's Oven
 3 Priest of Forgotten Gods
 4 Claim the Firstborn
@@ -187,22 +187,22 @@
 4 Mayhem Devil
 1 Robber of the Rich
 1 Lava Coil
-1 Sporeweb Weaver
 1 Scorching Dragonfire
+1 Sporeweb Weaver
 1 Fervent Champion
 2 Robber of the Rich
-2 Sporeweb Weaver
 2 Fervent Champion
+2 Sporeweb Weaver
 3 Robber of the Rich
 3 Fervent Champion
 4 Fervent Champion
 1 Lurrus of the Dream-Den
 2 Lurrus of the Dream-Den
-1 Startling Development
+1 Inspired Ultimatum
 1 Boon of the Wish-Giver
+1 Startling Development
 1 Steam Vents
 1 Hallowed Fountain
-1 Inspired Ultimatum
 1 Flourishing Fox
 1 Drannith Stinger
 1 Unpredictable Cyclone
@@ -211,7 +211,7 @@
 1 Drannith Healer
 1 Zenith Flare
 1 Raugrin Triome
-2 Startling Development
+2 Inspired Ultimatum
 2 Boon of the Wish-Giver
 2 Raugrin Triome
 2 Drannith Stinger
@@ -220,11 +220,11 @@
 2 Drannith Healer
 2 Zenith Flare
 2 Unpredictable Cyclone
-2 Inspired Ultimatum
+2 Startling Development
 2 Hallowed Fountain
 2 Flourishing Fox
-3 Startling Development
 3 Raugrin Triome
+3 Startling Development
 3 Hallowed Fountain
 3 Flourishing Fox
 3 Drannith Stinger
@@ -232,10 +232,10 @@
 3 Zenith Flare
 3 Unpredictable Cyclone
 3 Valiant Rescuer
-4 Startling Development
 4 Raugrin Triome
 4 Flourishing Fox
 4 Valiant Rescuer
+4 Startling Development
 4 Drannith Stinger
 4 Zenith Flare
 4 Drannith Healer
@@ -266,8 +266,8 @@
 2 Watery Grave
 2 Slitherwisp
 3 Brazen Borrower
-3 Dirge Bat
 3 Sea-Dasher Octopus
+3 Dirge Bat
 3 Cunning Nightbonder
 3 Heartless Act
 3 Mystical Dispute
@@ -297,8 +297,8 @@
 1 Dryad of the Ilysian Grove
 1 Cavalier of Thorns
 1 Voracious Hydra
-1 Nissa, Who Shakes the World
 1 Chandra, Awakened Inferno
+1 Nissa, Who Shakes the World
 1 Escape to the Wilds
 2 Dryad of the Ilysian Grove
 2 Nissa, Who Shakes the World
@@ -321,6 +321,7 @@
 12 Forest
 13 Forest
 14 Forest
+1 Acolyte of Affliction
 1 Zagoth Triome
 1 Golgari Findbroker
 1 Vito, Thorn of the Dusk Rose
@@ -332,7 +333,7 @@
 1 Cavalier of Night
 1 Vampire Opportunist
 1 Biomancer's Familiar
-1 Acolyte of Affliction
+2 Acolyte of Affliction
 2 Zagoth Triome
 2 Golgari Findbroker
 2 Vito, Thorn of the Dusk Rose
@@ -341,7 +342,6 @@
 2 Biomancer's Familiar
 2 Neoform
 2 Thirsting Shade
-2 Acolyte of Affliction
 2 Thassa, Deep-Dwelling
 3 Casualties of War
 3 Thirsting Shade
@@ -349,10 +349,10 @@
 3 Knight of the Ebon Legion
 3 Biomancer's Familiar
 3 Neoform
+4 Casualties of War
 4 Neoform
 4 Thirsting Shade
 4 Vampire Opportunist
 4 Knight of the Ebon Legion
 4 Biomancer's Familiar
-4 Casualties of War
 8 Swamp

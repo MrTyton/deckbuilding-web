@@ -1,11 +1,11 @@
-5 Plains
+1 Omen of the Sun
+2 Omen of the Sun
+4 Fabled Passage
 1 Yorion, Sky Nomad
-2 Glass Casket
 2 Raugrin Triome
 4 Elspeth Conquers Death
 6 Plains
 8 Island
-4 Fabled Passage
 4 Shark Typhoon
 1 Aether Gust
 7 Plains
@@ -20,19 +20,20 @@
 2 Thirst for Meaning
 1 Brazen Borrower
 1 Blast Zone
-2 Brazen Borrower
 2 Castle Ardenvale
+2 Brazen Borrower
 3 Omen of the Sun
 1 Dream Trawler
 1 Banishing Light
 1 Teferi, Master of Time
+2 Dream Trawler
+3 Dream Trawler
+1 Absorb
 1 Thassa's Intervention
 2 Thassa's Intervention
 3 Raugrin Triome
 3 Mystical Dispute
-2 Dream Trawler
-3 Dream Trawler
-1 Absorb
+2 Absorb
 4 Shatter the Sky
 8 Plains
 3 Castle Ardenvale
@@ -40,8 +41,12 @@
 4 The Birth of Meletis
 2 Teferi, Master of Time
 1 Essence Scatter
-2 Absorb
 2 Essence Scatter
+1 Frantic Inventory
+2 Frantic Inventory
+3 Frantic Inventory
+3 Absorb
+4 Frantic Inventory
 1 Tranquil Cove
 1 Thryx, the Sudden Storm
 1 Neutralize
@@ -55,8 +60,8 @@
 3 Brazen Borrower
 4 Brazen Borrower
 4 Castle Ardenvale
-1 Rewind
 1 Temple of Epiphany
+1 Rewind
 1 Omen of the Forge
 1 Sacred Foundry
 1 Bonecrusher Giant
@@ -74,8 +79,8 @@
 2 Transmogrify
 2 Steam Vents
 2 Mountain
-3 Rewind
 3 Sacred Foundry
+3 Rewind
 3 Bonecrusher Giant
 3 Steam Vents
 4 Raugrin Triome
@@ -92,15 +97,14 @@
 12 Island
 13 Island
 14 Island
+1 Chemister's Insight
+3 Essence Scatter
+4 Essence Scatter
+1 Whirlwind Denial
+2 Whirlwind Denial
+4 Absorb
+4 Dream Trawler
 3 Archon of Sun's Grace
 4 Archon of Sun's Grace
-1 Frantic Inventory
-1 Chemister's Insight
-2 Frantic Inventory
-3 Absorb
-3 Essence Scatter
-3 Frantic Inventory
-4 Essence Scatter
-4 Frantic Inventory
 1 Ugin, the Spirit Dragon
 1 Tale's End

@@ -116,7 +116,6 @@
 3 Ashiok, Nightmare Muse
 4 The Birth of Meletis
 6 Plains
-1 Folio of Fancies
 1 Teferi's Ageless Insight
 1 Ominous Seas
 1 Precognitive Perception
@@ -134,15 +133,16 @@
 1 Sage of Mysteries
 1 Arrester's Admonition
 1 Cloudkin Seer
+1 Folio of Fancies
 1 Dismal Backwater
 1 Mu Yanling, Sky Dancer
 2 Ominous Seas
-2 Teferi's Ageless Insight
 2 Merfolk Secretkeeper
 2 Dream Trawler
 2 Teferi's Tutelage
 2 Dismal Backwater
 2 Arrester's Admonition
+2 Teferi's Ageless Insight
 2 Sage of Mysteries
 2 Conclave Tribunal
 3 Dream Trawler
@@ -151,9 +151,9 @@
 3 Teferi's Tutelage
 3 Conclave Tribunal
 3 Dismal Backwater
+4 Dream Trawler
 4 Tranquil Cove
 4 Merfolk Secretkeeper
-4 Dream Trawler
 4 Dismal Backwater
 4 Conclave Tribunal
 8 Island
@@ -177,10 +177,10 @@
 3 Zagoth Triome
 3 Mythos of Nethroi
 4 Zagoth Triome
-1 Duress
 1 Disinformation Campaign
-2 Duress
+1 Duress
 2 Disinformation Campaign
+2 Duress
 3 Duress
 4 Duress
 4 Elite Guardmage
@@ -206,9 +206,9 @@
 1 Eat to Extinction
 1 Negate
 1 Despark
+2 Eat to Extinction
 2 Banishing Light
 2 Liliana, Dreadhorde General
-2 Eat to Extinction
 2 Ugin, the Spirit Dragon
 2 Ugin, the Ineffable
 2 Despark

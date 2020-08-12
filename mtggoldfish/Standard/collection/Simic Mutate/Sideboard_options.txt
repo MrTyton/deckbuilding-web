@@ -5,8 +5,8 @@
 1 Questing Beast
 2 Questing Beast
 3 Questing Beast
-1 Wicked Wolf
 1 Negate
+1 Wicked Wolf
 2 Negate
 1 Elder Gargaroth
 2 Elder Gargaroth
@@ -24,18 +24,20 @@
 1 Nullhide Ferox
 2 Nullhide Ferox
 1 Uro, Titan of Nature's Wrath
-2 Pouncing Shoreshark
-3 Pouncing Shoreshark
-1 Ranger's Guile
-2 Ranger's Guile
 1 Cerulean Drake
-2 Uro, Titan of Nature's Wrath
 2 Cerulean Drake
-2 Gemrazer
+1 Ranger's Guile
+1 Flame Sweep
+2 Flame Sweep
+1 Klothys, God of Destiny
 1 Heroic Intervention
 2 Heroic Intervention
+2 Uro, Titan of Nature's Wrath
+2 Ranger's Guile
+2 Pouncing Shoreshark
+3 Pouncing Shoreshark
+2 Gemrazer
 3 Hydroid Krasis
-1 Klothys, God of Destiny
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 3 Bonecrusher Giant
@@ -43,69 +45,65 @@
 1 Thrashing Brontodon
 2 Thrashing Brontodon
 2 Klothys, God of Destiny
-1 Flame Sweep
-2 Flame Sweep
+3 Cerulean Drake
+3 Flame Sweep
 1 Mystical Dispute
 2 Mystical Dispute
 1 Scorching Dragonfire
 2 Scorching Dragonfire
 3 Scorching Dragonfire
+1 Disdainful Stroke
+2 Disdainful Stroke
 2 Stonecoil Serpent
 1 Aether Gust
+1 Duress
+2 Duress
+1 Kraul Harpooner
 1 Auspicious Starrix
 1 Nissa, Who Shakes the World
 1 Vivien, Monsters' Advocate
 1 Sea-Dasher Octopus
 2 Vivien, Monsters' Advocate
-1 Soul-Guide Lantern
 1 Dirge Bat
+1 Soul-Guide Lantern
 1 Chittering Harvester
 1 Nylea, Keen-Eyed
 1 Neutralize
-1 Ashiok, Dream Render
 1 Casualties of War
 1 Elspeth's Nightmare
+1 Ashiok, Dream Render
 1 Vraska, Golgari Queen
 2 Soul-Guide Lantern
-2 Dirge Bat
 2 Neutralize
+2 Dirge Bat
 2 Nylea, Keen-Eyed
+1 Shadowspear
+1 Grafdigger's Cage
+2 Grafdigger's Cage
 1 Domri's Ambush
 2 Domri's Ambush
-1 Duress
-1 Tymaret, Chosen from Death
 1 Return to Nature
-2 Duress
-2 Tymaret, Chosen from Death
 2 Return to Nature
+1 Tymaret, Chosen from Death
 1 Grimdancer
 1 Cavern Whisperer
 1 Grasp of Darkness
 1 Agonizing Remorse
-2 Grimdancer
+2 Tymaret, Chosen from Death
 2 Agonizing Remorse
 2 Cavern Whisperer
+2 Grimdancer
 2 Grasp of Darkness
 3 Mystical Dispute
-1 Cancel
-1 Stern Dismissal
-1 Omen of the Sea
-1 Mystic Repeal
-1 Convolute
-2 Stern Dismissal
-2 Aether Gust
-2 Omen of the Sea
-2 Mystic Repeal
-3 Aether Gust
-3 Stern Dismissal
 1 Narset's Reversal
-1 Disdainful Stroke
 1 Cindervines
 1 Chandra, Awakened Inferno
-2 Disdainful Stroke
 2 Cindervines
 2 Narset's Reversal
 3 Cindervines
+1 Embereth Shieldbreaker
+2 Embereth Shieldbreaker
+3 Disdainful Stroke
 2 Wicked Wolf
 3 Wicked Wolf
 1 Growth-Chamber Guardian
@@ -119,19 +117,30 @@
 2 Oakhame Adversary
 3 Klothys, God of Destiny
 3 Thrashing Brontodon
-1 Shadowspear
-1 Grafdigger's Cage
-2 Grafdigger's Cage
-3 Flame Sweep
+1 Mystic Repeal
+2 Mystic Repeal
+1 Cancel
+1 Stern Dismissal
+1 Convolute
+1 Omen of the Sea
+2 Aether Gust
+2 Omen of the Sea
+2 Stern Dismissal
+3 Stern Dismissal
+3 Aether Gust
 3 Gemrazer
 4 Gemrazer
+1 Teferi, Master of Time
+1 Pollywog Symbiote
+2 Teferi, Master of Time
+4 Brazen Borrower
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
 4 Lovestruck Beast
+1 Essence Symbiote
 1 Trumpeting Gnarr
 1 Dreamtail Heron
-1 Essence Symbiote
 1 Sparkhunter Masticore
 1 Barkhide Troll
 2 Dreamtail Heron
@@ -141,10 +150,15 @@
 3 Barkhide Troll
 4 Barkhide Troll
 4 Sparkhunter Masticore
-1 Teferi, Master of Time
-1 Pollywog Symbiote
-2 Teferi, Master of Time
-4 Brazen Borrower
+1 Unsummon
+2 Essence Symbiote
+2 Kraul Harpooner
+2 Unsummon
+3 Essence Symbiote
+3 Return to Nature
+3 Mystic Repeal
+3 Unsummon
+4 Unsummon
 1 Gilded Goose
 1 Wildborn Preserver
 1 Paradise Druid
@@ -152,19 +166,10 @@
 2 Paradise Druid
 3 Paradise Druid
 4 Paradise Druid
-1 Kraul Harpooner
 3 Uro, Titan of Nature's Wrath
-3 Cerulean Drake
 4 Cerulean Drake
 3 Elder Gargaroth
 4 Pouncing Shoreshark
 3 Voracious Hydra
 4 Hydroid Krasis
 4 Voracious Hydra
-1 The Elderspell
-1 Spawn of Mayhem
-1 Call of the Death-Dweller
-2 Spawn of Mayhem
-3 Duress
-4 Duress
-2 Call of the Death-Dweller

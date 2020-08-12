@@ -1,13 +1,24 @@
+1 Arcum's Astrolabe
+2 Arcum's Astrolabe
+3 Arcum's Astrolabe
+4 Arcum's Astrolabe
+1 Misty Rainforest
+4 Lightning Bolt
+1 Ancient Tomb
+1 Cavern of Souls
+2 Cavern of Souls
+2 Ancient Tomb
+3 Ancient Tomb
 4 Ancient Tomb
-1 Chalice of the Void
-2 Chalice of the Void
-3 Chalice of the Void
-4 Chalice of the Void
 1 City of Traitors
 2 City of Traitors
 1 Lotus Petal
 2 Lotus Petal
 3 Lotus Petal
+1 Chalice of the Void
+2 Chalice of the Void
+3 Chalice of the Void
+4 Chalice of the Void
 1 Mox Opal
 2 Mox Opal
 3 City of Traitors
@@ -18,26 +29,18 @@
 3 Mox Opal
 3 Emry, Lurker of the Loch
 4 Emry, Lurker of the Loch
-1 Batterskull
-1 Stoneforge Mystic
-2 Stoneforge Mystic
-4 Swords to Plowshares
-1 Misty Rainforest
-1 Scrubland
-1 Arcum's Astrolabe
-2 Arcum's Astrolabe
-3 Arcum's Astrolabe
-4 Arcum's Astrolabe
 2 Marsh Flats
 1 Cabal Therapy
 2 Cabal Therapy
-3 Teferi, Time Raveler
 1 Jace, the Mind Sculptor
 1 Narset, Parter of Veils
+3 Teferi, Time Raveler
 1 Swamp
 3 Oko, Thief of Crowns
 1 Walking Ballista
 2 Walking Ballista
+2 Snow-Covered Plains
+1 Snow-Covered Forest
 1 Monastery Mentor
 2 Monastery Mentor
 3 Monastery Mentor
@@ -46,9 +49,9 @@
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mox Opal
+1 Lion's Eye Diamond
 3 Cavern of Souls
 4 Cavern of Souls
-1 Lion's Eye Diamond
 2 Lion's Eye Diamond
 3 Lion's Eye Diamond
 4 Lion's Eye Diamond
@@ -67,18 +70,13 @@
 4 Mishra's Bauble
 4 Monastery Mentor
 4 Urza's Bauble
-2 Snow-Covered Plains
-1 Snow-Covered Forest
 1 Veil of Summer
 3 Walking Ballista
-4 Lightning Bolt
 3 Tundra
 1 Thassa's Oracle
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
-1 Recruiter of the Guard
-2 Recruiter of the Guard
 1 Force of Negation
 1 Preordain
 4 Oko, Thief of Crowns
@@ -94,12 +92,14 @@
 1 Dread Return
 1 Cephalid Illusionist
 1 Nomads en-Kor
+1 Recruiter of the Guard
+2 Recruiter of the Guard
 3 Stoneforge Mystic
 2 Volcanic Island
 3 Scalding Tarn
 4 Scalding Tarn
-1 Snapcaster Mage
 1 Venser, Shaper Savant
+1 Snapcaster Mage
 1 Prismatic Vista
 2 Prismatic Vista
 1 Mystic Sanctuary
@@ -116,8 +116,8 @@
 1 Arcbound Ravager
 1 Vault Skirge
 2 Stonecoil Serpent
-2 Mishra's Factory
 2 Steel Overseer
+2 Mishra's Factory
 2 Hangarback Walker
 2 Arcbound Ravager
 3 Stonecoil Serpent
@@ -153,17 +153,17 @@
 4 Dreadhorde Arcanist
 2 Veil of Summer
 1 Drown in the Loch
+1 Mountain
 1 Gurmag Angler
 2 Gurmag Angler
 4 Wasteland
 1 Barrin, Tolarian Archmage
 4 Aether Vial
-1 Plains
-1 Palace Jailer
-3 Recruiter of the Guard
 2 Narset, Parter of Veils
 3 Thoughtseize
 1 Plague Engineer
+1 Plains
+1 Palace Jailer
 1 Spellseeker
 1 Flickerwisp
 1 Unearth
@@ -172,6 +172,7 @@
 1 Soulherder
 2 Soulherder
 2 Charming Prince
+3 Recruiter of the Guard
 4 Recruiter of the Guard
 4 Cabal Therapy
 1 Snow-Covered Swamp
@@ -190,38 +191,52 @@
 2 Bitterblossom
 2 Lingering Souls
 3 Enlightened Tutor
-3 Saheeli, Sublime Artificer
 3 Lingering Souls
 3 Prismatic Vista
+3 Saheeli, Sublime Artificer
 4 Lingering Souls
 4 Enlightened Tutor
 4 Misty Rainforest
-2 Island
-1 Vendilion Clique
-1 Mountain
 1 Sylvan Library
 1 Taiga
+1 Pyroblast
+1 Red Elemental Blast
+1 Painter's Servant
+1 Grindstone
+2 Pyroblast
+2 Painter's Servant
+3 Pyroblast
+3 Painter's Servant
+2 Island
+1 Vendilion Clique
 1 Forest
-1 Thought-Knot Seer
-2 Thought-Knot Seer
+1 Wooded Foothills
+2 Wooded Foothills
+3 Wooded Foothills
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+3 Karn, the Great Creator
+4 Karn, the Great Creator
 1 Kolaghan's Command
 1 Snow-Covered Mountain
-1 Chain Lightning
+1 Thought-Knot Seer
+2 Thought-Knot Seer
 1 Badlands
+2 Mountain
+3 Mountain
+4 Mountain
 1 Grove of the Burnwillows
 1 Punishing Fire
 2 Grove of the Burnwillows
 2 Punishing Fire
 3 Punishing Fire
 3 Grove of the Burnwillows
-1 Narcomoeba
-2 Narcomoeba
-3 Narcomoeba
+1 Chain Lightning
 1 Savannah
+1 Plateau
 2 Force of Negation
-1 Wooded Foothills
-2 Wooded Foothills
-3 Wooded Foothills
+1 Simian Spirit Guide
+2 Simian Spirit Guide
 1 Ramunap Excavator
 1 Dryad Arbor
 1 Scavenging Ooze
@@ -229,6 +244,9 @@
 2 Taiga
 2 Green Sun's Zenith
 3 Green Sun's Zenith
+1 Narcomoeba
+2 Narcomoeba
+3 Narcomoeba
 4 Wooded Foothills
 1 Gilded Goose
 1 Mazemind Tome
@@ -263,11 +281,8 @@
 3 Greater Gargadon
 4 Verdant Catacombs
 4 Abrupt Decay
-4 Orcish Lumberjack
 4 Titania, Protector of Argoth
-1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
-3 Thalia, Guardian of Thraben
+4 Orcish Lumberjack
 1 Spell Pierce
 1 Carpet of Flowers
 2 Spell Pierce
@@ -292,8 +307,8 @@
 2 Sprite Dragon
 3 Sprite Dragon
 1 Counterspell
-1 Engineered Explosives
 1 Search for Azcanta
+1 Engineered Explosives
 1 Tezzeret, Agent of Bolas
 2 Counterspell
 2 Engineered Explosives
@@ -311,67 +326,88 @@
 4 Hymn to Tourach
 1 Interplanar Beacon
 1 Elvish Spirit Guide
-1 Karn, the Great Creator
 1 Simic Signet
 1 Azorius Signet
 1 Tamiyo, Collector of Tales
 1 Dovin, Hand of Control
 2 Elvish Spirit Guide
-2 Karn, the Great Creator
 2 Interplanar Beacon
 2 Simic Signet
 2 Dovin, Hand of Control
 2 Azorius Signet
 2 Jace, the Mind Sculptor
-3 Karn, the Great Creator
 3 Elvish Spirit Guide
 3 Interplanar Beacon
 3 Force of Negation
 3 Jace, the Mind Sculptor
 3 Dovin, Hand of Control
-4 Karn, the Great Creator
 4 Teferi, Time Raveler
 4 Elvish Spirit Guide
 4 Interplanar Beacon
 2 Vault Skirge
 3 Tropical Island
 4 Tropical Island
+1 Bloodstained Mire
+2 Bloodstained Mire
+1 Goblin Engineer
+1 Smuggler's Copter
+1 Goblin Cratermaker
+1 Ensnaring Bridge
+1 Goblin Welder
+1 Ethersworn Canonist
+1 Imperial Recruiter
+1 Great Furnace
+2 Goblin Engineer
+2 Smuggler's Copter
+2 Plateau
+2 Imperial Recruiter
+2 Goblin Welder
+2 Grindstone
+3 Goblin Engineer
+3 Imperial Recruiter
+3 Smuggler's Copter
+3 Goblin Welder
+3 Grindstone
+4 Imperial Recruiter
+4 Pyroblast
 1 Fiery Islet
 1 Accumulated Knowledge
 1 Improbable Alliance
 1 Portent
 1 The Royal Scions
 2 Accumulated Knowledge
-2 Improbable Alliance
 2 Drown in the Loch
+2 Improbable Alliance
 2 The Royal Scions
-2 Fiery Islet
 2 Portent
+2 Fiery Islet
 3 The Royal Scions
-3 Accumulated Knowledge
 3 Improbable Alliance
+3 Accumulated Knowledge
 3 Portent
 3 Fiery Islet
+4 Improbable Alliance
 4 Fiery Islet
 4 Accumulated Knowledge
-4 Improbable Alliance
 4 Portent
 1 Birds of Paradise
 2 Birds of Paradise
 1 Qasali Pridemage
-1 Plateau
 1 Noble Hierarch
 1 Sword of Fire and Ice
 1 Windswept Heath
 1 Knight of the Reliquary
 1 Gaddock Teeg
+1 Thalia, Guardian of Thraben
 2 Sylvan Library
 2 Noble Hierarch
 2 Knight of the Reliquary
 2 Savannah
+2 Thalia, Guardian of Thraben
 2 Windswept Heath
 3 Sylvan Library
 3 Noble Hierarch
+3 Thalia, Guardian of Thraben
 3 Windswept Heath
 3 Knight of the Reliquary
 4 Noble Hierarch
@@ -385,17 +421,9 @@
 3 Cephalid Illusionist
 4 Cephalid Illusionist
 4 Stoneforge Mystic
-1 Pyroblast
-1 Red Elemental Blast
-1 Painter's Servant
-1 Grindstone
 2 Red Elemental Blast
-2 Pyroblast
-2 Painter's Servant
 3 Red Elemental Blast
-3 Pyroblast
 3 Veil of Summer
-3 Painter's Servant
 3 Preordain
 4 Volcanic Island
 4 Preordain
@@ -410,11 +438,11 @@
 1 Flayer of the Hatebound
 1 Golgari Grave-Troll
 1 Bridge from Below
-1 Hogaak, Arisen Necropolis
 1 Balustrade Spy
 1 Golgari Thug
 1 Prized Amalgam
 1 Street Wraith
+1 Hogaak, Arisen Necropolis
 2 Shambling Shell
 2 Nether Shadow
 2 Phantasmagorian
@@ -433,11 +461,11 @@
 3 Phantasmagorian
 3 Nether Shadow
 3 Dread Return
+3 Hogaak, Arisen Necropolis
+3 Prized Amalgam
 3 Stinkweed Imp
 3 Golgari Grave-Troll
-3 Prized Amalgam
 3 Balustrade Spy
-3 Hogaak, Arisen Necropolis
 3 Street Wraith
 3 Ichorid
 3 Bridge from Below
@@ -453,29 +481,24 @@
 4 Street Wraith
 4 Ichorid
 4 Bridge from Below
-1 Chrome Mox
-2 Chrome Mox
-2 Mountain
-3 Mountain
-4 Mountain
 5 Mountain
+1 Chrome Mox
 1 Goblin Rabblemaster
 1 Blood Sun
 1 Dead/Gone
 1 Fiery Confluence
 1 Reality Smasher
-1 Simian Spirit Guide
 1 Hazoret the Fervent
 1 Wastes
 1 Bonecrusher Giant
 1 Anje's Ravager
 1 Eldrazi Temple
+2 Chrome Mox
 2 Goblin Rabblemaster
 2 Blood Sun
 2 Bonecrusher Giant
 2 Anje's Ravager
 2 Fiery Confluence
-2 Simian Spirit Guide
 2 Eldrazi Temple
 2 Reality Smasher
 3 Goblin Rabblemaster
@@ -494,9 +517,9 @@
 4 Thought-Knot Seer
 1 Vantress Gargoyle
 1 Weathered Wayfarer
-1 Lotus Field
 1 Cataclysm
 1 Lavinia, Azorius Renegade
+1 Lotus Field
 1 Flagstones of Trokair
 1 Fathom Seer
 1 Knight of the White Orchid
@@ -528,7 +551,6 @@
 2 Entomb
 3 Entomb
 4 Entomb
-1 Bloodstained Mire
 1 Faithless Looting
 1 Manamorphose
 1 Bedlam Reveler
@@ -538,7 +560,6 @@
 1 Light Up the Stage
 1 Arclight Phoenix
 2 Chain Lightning
-2 Bloodstained Mire
 2 Manamorphose
 2 Bedlam Reveler
 2 Lava Dart
@@ -552,8 +573,8 @@
 3 Bloodstained Mire
 3 Chain Lightning
 3 Manamorphose
-3 Faithless Looting
 3 Fireblast
+3 Faithless Looting
 3 Monastery Swiftspear
 3 Light Up the Stage
 3 Arclight Phoenix
@@ -562,50 +583,13 @@
 4 Chain Lightning
 4 Bloodstained Mire
 4 Manamorphose
-4 Faithless Looting
+4 Arclight Phoenix
 4 Lava Dart
 4 Monastery Swiftspear
-4 Arclight Phoenix
+4 Faithless Looting
 6 Mountain
 7 Mountain
 8 Mountain
-2 Karakas
-1 Cast Out
-1 Enlistment Officer
-1 Thalia, Heretic Cathar
-1 Suppression Field
-1 Daru Warchief
-1 Aerial Responder
-1 Preeminent Captain
-1 Captain of the Watch
-2 Thalia, Heretic Cathar
-2 Palace Jailer
-2 Plains
-2 Captain of the Watch
-2 Preeminent Captain
-2 Daru Warchief
-2 Enlistment Officer
-2 Suppression Field
-2 Aerial Responder
-3 Chrome Mox
-3 Thalia, Heretic Cathar
-3 Suppression Field
-3 Plains
-3 Palace Jailer
-3 Preeminent Captain
-3 Enlistment Officer
-3 Aerial Responder
-4 Chrome Mox
-4 Plains
-4 Thalia, Guardian of Thraben
-4 Enlistment Officer
-4 Thalia, Heretic Cathar
-4 Suppression Field
-4 Preeminent Captain
-5 Plains
-6 Plains
-7 Plains
-8 Plains
 1 Oboro, Palace in the Clouds
 1 Watcher for Tomorrow
 1 Riptide Laboratory
@@ -616,6 +600,7 @@
 2 Thassa's Oracle
 2 Watcher for Tomorrow
 2 Merfolk Trickster
+2 Karakas
 2 True-Name Nemesis
 2 Riptide Laboratory
 2 Barrin, Tolarian Archmage
@@ -641,61 +626,6 @@
 9 Island
 10 Island
 11 Island
-1 Llanowar Visionary
-1 Imperious Perfect
-1 Archon of Valor's Reach
-1 Craterhoof Behemoth
-1 Elvish Visionary
-1 Autumn's Veil
-1 Elvish Clancaller
-1 Llanowar Elves
-1 Somberwald Sage
-1 Elvish Mystic
-1 Elvish Promenade
-1 Elvish Archdruid
-1 Lys Alana Huntmaster
-1 Joraga Warcaller
-1 Dwynen, Gilt-Leaf Daen
-1 Jagged-Scar Archers
-1 Elvish Piper
-1 Gaea's Cradle
-2 Llanowar Visionary
-2 Imperious Perfect
-2 Elvish Visionary
-2 Jagged-Scar Archers
-2 Somberwald Sage
-2 Elvish Piper
-2 Elvish Archdruid
-2 Joraga Warcaller
-2 Dwynen, Gilt-Leaf Daen
-2 Elvish Clancaller
-2 Lys Alana Huntmaster
-2 Llanowar Elves
-2 Elvish Mystic
-2 Archon of Valor's Reach
-2 Craterhoof Behemoth
-2 Elvish Promenade
-2 Gaea's Cradle
-3 Forest
-3 Elvish Clancaller
-3 Llanowar Elves
-3 Elvish Mystic
-3 Lys Alana Huntmaster
-3 Gaea's Cradle
-4 Gaea's Cradle
-4 Forest
-4 Elvish Mystic
-4 Lys Alana Huntmaster
-4 Elvish Clancaller
-4 Llanowar Elves
-5 Forest
-6 Forest
-7 Forest
-8 Forest
-9 Forest
-10 Forest
-11 Forest
-12 Forest
 1 Infernal Tutor
 1 Grave Titan
 1 Tendrils of Agony
@@ -738,3 +668,58 @@
 13 Swamp
 14 Swamp
 15 Swamp
+1 Llanowar Visionary
+1 Imperious Perfect
+1 Archon of Valor's Reach
+1 Craterhoof Behemoth
+1 Elvish Visionary
+1 Autumn's Veil
+1 Elvish Clancaller
+1 Llanowar Elves
+1 Somberwald Sage
+1 Elvish Mystic
+1 Elvish Promenade
+1 Elvish Archdruid
+1 Lys Alana Huntmaster
+1 Joraga Warcaller
+1 Dwynen, Gilt-Leaf Daen
+1 Jagged-Scar Archers
+1 Elvish Piper
+1 Gaea's Cradle
+2 Llanowar Visionary
+2 Imperious Perfect
+2 Elvish Visionary
+2 Jagged-Scar Archers
+2 Somberwald Sage
+2 Elvish Piper
+2 Elvish Archdruid
+2 Joraga Warcaller
+2 Dwynen, Gilt-Leaf Daen
+2 Elvish Clancaller
+2 Lys Alana Huntmaster
+2 Llanowar Elves
+2 Elvish Mystic
+2 Gaea's Cradle
+2 Archon of Valor's Reach
+2 Craterhoof Behemoth
+2 Elvish Promenade
+3 Forest
+3 Elvish Clancaller
+3 Llanowar Elves
+3 Elvish Mystic
+3 Lys Alana Huntmaster
+3 Gaea's Cradle
+4 Gaea's Cradle
+4 Forest
+4 Elvish Mystic
+4 Lys Alana Huntmaster
+4 Elvish Clancaller
+4 Llanowar Elves
+5 Forest
+7 Forest
+8 Forest
+9 Forest
+10 Forest
+11 Forest
+12 Forest
+6 Forest

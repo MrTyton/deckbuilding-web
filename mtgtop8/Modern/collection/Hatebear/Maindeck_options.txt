@@ -47,22 +47,22 @@
 1 Magus of the Moon
 1 Seal of Fire
 2 Magus of the Moon
-2 Inspiring Vantage
-2 Sacred Foundry
 2 Sunbaked Canyon
+2 Sacred Foundry
+2 Inspiring Vantage
 2 Remorseful Cleric
 2 Seasoned Pyromancer
 2 Seal of Fire
 3 Magus of the Moon
 3 Seal of Fire
-3 Sunbaked Canyon
-3 Inspiring Vantage
 3 Sacred Foundry
+3 Inspiring Vantage
+3 Sunbaked Canyon
 4 Magus of the Moon
 4 Seal of Fire
-4 Inspiring Vantage
 4 Sacred Foundry
 4 Sunbaked Canyon
+4 Inspiring Vantage
 1 Razorverge Thicket
 1 Knight of Autumn
 1 Stirring Wildwood
@@ -77,8 +77,8 @@
 2 Scavenging Ooze
 3 Temple Garden
 3 Razorverge Thicket
-3 Blade Splicer
 3 Scavenging Ooze
+3 Blade Splicer
 3 Stirring Wildwood
 3 Noble Hierarch
 4 Razorverge Thicket
@@ -89,6 +89,7 @@
 2 Dark Confidant
 1 Reality Smasher
 1 Scavenger Grounds
+1 Simian Spirit Guide
 1 Eternal Scourge
 1 Cast Out
 1 Gemstone Caverns
@@ -97,23 +98,22 @@
 1 Rest in Peace
 1 Dismember
 1 Blast Zone
-1 Simian Spirit Guide
 2 Reality Smasher
+2 Blast Zone
 2 Shefet Dunes
 2 Eternal Scourge
+2 Simian Spirit Guide
 2 Scavenger Grounds
 2 Dismember
 2 Winds of Abandon
-2 Blast Zone
 2 Chalice of the Void
 2 Rest in Peace
-2 Simian Spirit Guide
 3 Reality Smasher
 3 Shefet Dunes
+3 Simian Spirit Guide
 3 Scavenger Grounds
 3 Eternal Scourge
 3 Chalice of the Void
-3 Simian Spirit Guide
 4 Reality Smasher
 4 Shefet Dunes
 4 Eternal Scourge
@@ -137,15 +137,15 @@
 3 Seachrome Coast
 3 Meddling Mage
 3 Deputy of Detention
+4 Seachrome Coast
 4 Spell Queller
 4 Deputy of Detention
 4 Meddling Mage
-4 Seachrome Coast
 1 Ranger-Captain of Eos
 1 Idyllic Grange
+1 Phyrexian Revoker
 1 Snow-Covered Forest
 1 Hexdrinker
-1 Phyrexian Revoker
 1 Weathered Wayfarer
 1 Windswept Heath
 2 Ranger-Captain of Eos
@@ -155,8 +155,8 @@
 3 Windswept Heath
 4 Windswept Heath
 4 Ranger-Captain of Eos
-1 Selfless Savior
 1 Eiganjo Castle
+1 Selfless Savior
 2 Selfless Savior
 9 Plains
 10 Plains

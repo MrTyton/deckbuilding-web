@@ -1,36 +1,41 @@
 1 Lava Coil
 2 Lava Coil
-1 Redcap Melee
-1 Narset, Parter of Veils
-2 Redcap Melee
-3 Redcap Melee
-1 Shredded Sails
-1 Fry
+1 Essence Scatter
 1 Noxious Grasp
-2 Noxious Grasp
-1 Disdainful Stroke
 1 Grafdigger's Cage
+2 Noxious Grasp
 1 Disfigure
 1 Duress
 2 Duress
 1 Cry of the Carnarium
 2 Cry of the Carnarium
-1 Chemister's Insight
-1 Erebos's Intervention
+1 Disdainful Stroke
+1 Fry
+1 Narset, Parter of Veils
 2 Disfigure
+1 Redcap Melee
+1 Chemister's Insight
 1 Narset's Reversal
-1 Essence Scatter
+2 Narset, Parter of Veils
+1 Shredded Sails
+2 Shredded Sails
 1 Shadowspear
+1 Erebos's Intervention
 2 Chemister's Insight
 2 Grafdigger's Cage
 2 Disdainful Stroke
+1 Soul-Guide Lantern
+2 Soul-Guide Lantern
+3 Scorching Dragonfire
+3 Shredded Sails
+3 Soul-Guide Lantern
 1 Ashiok's Erasure
-2 Narset, Parter of Veils
 1 Blitz of the Thunder-Raptor
 2 Blitz of the Thunder-Raptor
 2 Fry
 1 Niv-Mizzet, Parun
-2 Shredded Sails
+2 Redcap Melee
+3 Redcap Melee
 1 Commence the Endgame
 1 Cerulean Drake
 1 Tale's End
@@ -43,11 +48,11 @@
 1 Miscast
 2 Miscast
 3 Miscast
+1 Rewind
+1 Blightbeetle
+1 Mystic Repeal
 1 Crackling Drake
 1 Chandra, Awakened Inferno
-1 Rewind
-1 Mystic Repeal
-1 Blightbeetle
 1 Brazen Borrower
 1 Embercleave
 1 Skarrgan Hellkite
@@ -58,8 +63,8 @@
 1 Spectral Sailor
 2 Spectral Sailor
 1 Voracious Greatshark
-1 Ashiok, Dream Render
 1 Discontinuity
+1 Ashiok, Dream Render
 1 Ashiok, Nightmare Muse
 1 Mirror Shield
 1 Thryx, the Sudden Storm
@@ -69,15 +74,10 @@
 2 Mystic Subdual
 2 Commence the Endgame
 3 Narset, Parter of Veils
-1 Soul-Guide Lantern
-2 Soul-Guide Lantern
-3 Scorching Dragonfire
-3 Soul-Guide Lantern
-3 Shredded Sails
-3 Noxious Grasp
 3 Disfigure
-1 Legion's End
+3 Noxious Grasp
 1 Demonic Embrace
+1 Legion's End
 2 Legion's End
 3 Legion's End
 1 Unsummon
@@ -86,8 +86,8 @@
 2 Unsummon
 2 Drown in the Loch
 2 Orzhov Enforcer
-3 Drown in the Loch
 3 Eliminate
+3 Drown in the Loch
 3 Orzhov Enforcer
 4 Orzhov Enforcer
 1 Essence Capture
@@ -95,6 +95,23 @@
 2 Essence Capture
 3 Cerulean Drake
 4 Cerulean Drake
+1 Wilt
+1 Lovestruck Beast
+2 Wilt
+2 Lovestruck Beast
+3 Lovestruck Beast
+4 Aether Gust
+4 Lovestruck Beast
+1 Stonecoil Serpent
+1 Selfless Savior
+2 Stonecoil Serpent
+2 Selfless Savior
+3 Unsubstantiate
+3 Selfless Savior
+3 Stonecoil Serpent
+4 Unsubstantiate
+4 Selfless Savior
+4 Stonecoil Serpent
 1 Blacklance Paragon
 1 Extinction Event
 2 Heartless Act
@@ -105,24 +122,10 @@
 3 Blacklance Paragon
 3 Extinction Event
 4 Blacklance Paragon
-4 Extinction Event
 4 Heartless Act
-1 Selfless Savior
-1 Stonecoil Serpent
-2 Selfless Savior
-2 Stonecoil Serpent
-3 Selfless Savior
-3 Unsubstantiate
-3 Stonecoil Serpent
-4 Selfless Savior
-4 Unsubstantiate
-4 Stonecoil Serpent
-1 Enter the God-Eternals
-2 Enter the God-Eternals
-3 Enter the God-Eternals
-4 Enter the God-Eternals
+4 Extinction Event
 3 Essence Scatter
 3 Cry of the Carnarium
 4 Negate
-4 Cry of the Carnarium
 4 Miscast
+4 Cry of the Carnarium
