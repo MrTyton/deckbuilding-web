@@ -9,19 +9,19 @@
 3 Flooded Strand
 2 Young Pyromancer
 1 Mountain
+1 Fiery Islet
 2 Misty Rainforest
 4 Flooded Strand
 1 Wooded Foothills
 2 Island
-1 Fiery Islet
 3 Polluted Delta
 2 Chain Lightning
 1 Snow-Covered Mountain
 2 Snow-Covered Island
-1 Bloodstained Mire
-1 Sprite Dragon
 4 Polluted Delta
 3 Young Pyromancer
+1 Bloodstained Mire
+1 Sprite Dragon
 2 Sprite Dragon
 3 Misty Rainforest
 4 Misty Rainforest
@@ -31,10 +31,10 @@
 1 Stifle
 1 Pyroblast
 1 Magmatic Sinkhole
-1 Prismatic Vista
 1 Spell Snare
 1 Snapcaster Mage
 1 Arid Mesa
+1 Ethereal Forager
 1 Gut Shot
 1 Flusterstorm
 1 Serum Visions
@@ -42,10 +42,10 @@
 2 Spell Snare
 2 Snapcaster Mage
 3 Snapcaster Mage
-3 Island
 3 True-Name Nemesis
-1 Mystic Sanctuary
+3 Island
 1 Counterspell
+1 Mystic Sanctuary
 1 Accumulated Knowledge
 2 Stifle
 2 Accumulated Knowledge
@@ -53,6 +53,7 @@
 4 Volcanic Island
 4 Accumulated Knowledge
 4 Young Pyromancer
+1 Prismatic Vista
 1 Ral Zarek
 1 Stasis
 2 Ral Zarek

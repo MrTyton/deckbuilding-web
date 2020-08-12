@@ -20,7 +20,6 @@
 1 Lotus Field
 2 Lonely Sandbar
 2 Peer Through Depths
-2 Wishclaw Talisman
 2 Ideas Unbound
 2 Snow-Covered Island
 2 Grapeshot
@@ -29,17 +28,18 @@
 2 Dream's Grip
 2 Reach Through Mists
 2 Sleight of Hand
+2 Wishclaw Talisman
 2 Flooded Strand
 2 Breeding Pool
 2 Lotus Field
 2 Serum Visions
 2 Past in Flames
 2 Twiddle
-3 Wishclaw Talisman
 3 Snow-Covered Island
 3 Psychic Puppetry
 3 Peer Through Depths
 3 Past in Flames
+3 Wishclaw Talisman
 3 Flooded Strand
 3 Lotus Field
 3 Serum Visions
@@ -56,10 +56,11 @@
 4 Reach Through Mists
 4 Peer Through Depths
 1 Vendilion Clique
+1 Mission Briefing
 1 Rakdos Charm
 1 Scalding Tarn
-1 Muddle the Mixture
 1 Godless Shrine
+1 Muddle the Mixture
 1 Sunken Ruins
 1 Blood Crypt
 1 Darkness
@@ -69,23 +70,22 @@
 1 Hunted Phantasm
 1 Bloodstained Mire
 1 Forbidden Orchard
-1 Mission Briefing
 1 Pongify
 1 Rapid Hybridization
 1 Force of Negation
+2 Mission Briefing
 2 Darkness
 2 Bloodstained Mire
 2 Trespasser's Curse
 2 Batwing Brume
 2 Hunted Phantasm
-2 Mission Briefing
 2 Force of Negation
 2 Forbidden Orchard
 2 Rapid Hybridization
 2 Rakdos Charm
+3 Mission Briefing
 3 Force of Negation
 3 Polluted Delta
-3 Mission Briefing
 3 Forbidden Orchard
 3 Hunted Phantasm
 3 Bloodstained Mire
@@ -93,8 +93,8 @@
 3 Darkness
 3 Trespasser's Curse
 3 Batwing Brume
-4 Inquisition of Kozilek
 4 Polluted Delta
+4 Inquisition of Kozilek
 4 Forbidden Orchard
 4 Hunted Phantasm
 4 Batwing Brume

@@ -29,29 +29,3 @@
 |1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |                                                                                                   |                                                                                    |
 |1 [Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643)             |                                                                                                   |                                                                                    |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883) |                    1|[Oblivion Ring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174909)    |
-|                    1|[Wishclaw Talisman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473072)|                    1|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|
-|                    1|[Scrubland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=882)           |                    2|[Oblivion Ring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174909)    |
-|                    1|[Urza's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3818)      |                    3|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|
-|                    1|[Ancient Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205275)      |                    2|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|
-|                    1|[Mystic Forge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466987)     |                     |                                                                                            |
-|                    2|[Scrubland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=882)           |                     |                                                                                            |
-|                    2|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883) |                     |                                                                                            |
-|                    2|[Urza's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3818)      |                     |                                                                                            |
-|                    2|[Ancient Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205275)      |                     |                                                                                            |
-|                    2|[Mystic Forge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466987)     |                     |                                                                                            |
-|                    2|[Wishclaw Talisman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473072)|                     |                                                                                            |
-|                    3|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883) |                     |                                                                                            |
-|                    3|[Ancient Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205275)      |                     |                                                                                            |
-|                    3|[Scrubland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=882)           |                     |                                                                                            |
-|                    3|[Urza's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3818)      |                     |                                                                                            |
-|                    4|[Monastery Mentor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391883) |                     |                                                                                            |
-|                    4|[Urza's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3818)      |                     |                                                                                            |
-|                    4|[Scrubland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=882)           |                     |                                                                                            |
-|                    4|[Ancient Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205275)      |                     |                                                                                            |
-

@@ -41,8 +41,8 @@
 4 Thoughtseize
 1 Blood Crypt
 1 Stitcher's Supplier
-1 Dragonskull Summit
 1 Kroxa, Titan of Death's Hunger
+1 Dragonskull Summit
 2 Blood Crypt
 2 Stitcher's Supplier
 2 Dragonskull Summit
@@ -96,17 +96,17 @@
 7 Forest
 1 Pelt Collector
 1 Experiment One
-2 Pelt Collector
 2 Experiment One
-3 Experiment One
+2 Pelt Collector
 3 Pelt Collector
+3 Experiment One
 4 Experiment One
-1 Nissa, Voice of Zendikar
 1 Hardened Scales
+1 Nissa, Voice of Zendikar
 1 Rishkar, Peema Renegade
 1 Voracious Hydra
-2 Nissa, Voice of Zendikar
 2 Hardened Scales
+2 Nissa, Voice of Zendikar
 2 Voracious Hydra
 2 Rishkar, Peema Renegade
 3 Hardened Scales
@@ -143,10 +143,10 @@
 2 Inspiring Vantage
 1 Charming Prince
 1 Llanowar Visionary
-1 Sporeweb Weaver
-1 Radiant Fountain
 1 Prophet of Kruphix
 1 Chord of Calling
+1 Radiant Fountain
+1 Sporeweb Weaver
 1 Fairgrounds Warden
 1 Knight of Autumn
 2 Chord of Calling
@@ -175,15 +175,15 @@
 1 Hinterland Harbor
 2 Satyr Wayfinder
 2 Breeding Pool
-2 Jace, Vryn's Prodigy
 2 Traverse the Ulvenwald
+2 Jace, Vryn's Prodigy
 2 Abrupt Decay
 2 Shark Typhoon
 2 Uro, Titan of Nature's Wrath
 3 Satyr Wayfinder
+3 Traverse the Ulvenwald
 3 Jace, Vryn's Prodigy
 3 Breeding Pool
-3 Traverse the Ulvenwald
 3 Uro, Titan of Nature's Wrath
 4 Uro, Titan of Nature's Wrath
 4 Satyr Wayfinder
@@ -193,9 +193,9 @@
 2 Goblin Instigator
 2 Selfless Spirit
 3 Rootbound Crag
-3 Gilded Goose
 3 Duskwatch Recruiter
 3 Goblin Instigator
+3 Gilded Goose
 4 Gilded Goose
 1 Hashep Oasis
 1 Gruul Spellbreaker
@@ -229,8 +229,8 @@
 4 Gruul Spellbreaker
 4 Ghor-Clan Rampager
 1 Call of the Death-Dweller
-1 Wild Slash
 1 Dreadbore
+1 Wild Slash
 1 Archfiend's Vessel
 1 Dreadhorde Arcanist
 2 Dreadbore
@@ -252,8 +252,8 @@
 1 Ritual of Soot
 1 Chandra, Torch of Defiance
 1 Elspeth's Nightmare
-1 Liliana, the Last Hope
 1 Ox of Agonas
+1 Liliana, the Last Hope
 1 Collective Brutality
 1 Kolaghan's Command
 1 Kalitas, Traitor of Ghet
@@ -277,23 +277,23 @@
 1 Reflector Mage
 1 Thalia's Lieutenant
 1 Unclaimed Territory
+1 Thraben Inspector
 1 Hallowed Fountain
 1 Concealed Courtyard
-1 Thraben Inspector
 1 Botanical Sanctum
 2 Dire Tactics
+2 General's Enforcer
 2 Kytheon, Hero of Akros
 2 Hero of Precinct One
-2 General's Enforcer
 2 Rogue Refiner
 2 General Kudro of Drannith
 2 Niambi, Esteemed Speaker
 2 Reflector Mage
 2 Thalia's Lieutenant
-2 Hallowed Fountain
-2 Unclaimed Territory
-2 Concealed Courtyard
 2 Thraben Inspector
+2 Unclaimed Territory
+2 Hallowed Fountain
+2 Concealed Courtyard
 3 General's Enforcer
 3 Rogue Refiner
 3 Hero of Precinct One
@@ -302,24 +302,24 @@
 3 Kytheon, Hero of Akros
 3 Reflector Mage
 3 Thalia's Lieutenant
-3 Unclaimed Territory
 3 Thraben Inspector
+3 Unclaimed Territory
 3 Concealed Courtyard
 4 General Kudro of Drannith
 4 Hero of Precinct One
-4 Thalia's Lieutenant
 4 Reflector Mage
-4 Unclaimed Territory
+4 Thalia's Lieutenant
 4 Thraben Inspector
+4 Unclaimed Territory
 4 Concealed Courtyard
+1 Hissing Quagmire
 1 Scrapheap Scrounger
 1 Winding Constrictor
 1 Llanowar Wastes
 1 Assassin's Trophy
 1 Mutavault
-1 Hissing Quagmire
-2 Llanowar Wastes
 2 Winding Constrictor
+2 Llanowar Wastes
 2 Assassin's Trophy
 2 Mutavault
 2 Scavenging Ooze
@@ -327,11 +327,11 @@
 3 Llanowar Wastes
 3 Winding Constrictor
 3 Assassin's Trophy
-4 Assassin's Trophy
 4 Voracious Hydra
+4 Assassin's Trophy
 4 Mutavault
-4 Nissa, Voice of Zendikar
 4 Winding Constrictor
+4 Nissa, Voice of Zendikar
 4 Llanowar Wastes
 1 Calix, Destiny's Hand
 1 Banishing Light
@@ -388,20 +388,20 @@
 4 Mire Triton
 4 Fiend Artisan
 4 Bloodsoaked Champion
-1 Eliminate
 1 Brazen Borrower
+1 Eliminate
 1 Thieves' Guild Enforcer
 1 Drowned Catacomb
 1 Choked Estuary
-1 Rankle, Master of Pranks
 1 Drown in the Loch
+1 Rankle, Master of Pranks
 1 Glint-Sleeve Siphoner
 1 Mystical Dispute
 2 Eliminate
 2 Brazen Borrower
 2 Thieves' Guild Enforcer
-2 Drown in the Loch
 2 Choked Estuary
+2 Drown in the Loch
 2 Rankle, Master of Pranks
 2 Glint-Sleeve Siphoner
 2 Drowned Catacomb
@@ -411,8 +411,8 @@
 3 Drown in the Loch
 3 Watery Grave
 3 Thieves' Guild Enforcer
-3 Rankle, Master of Pranks
 3 Eliminate
+3 Rankle, Master of Pranks
 3 Glint-Sleeve Siphoner
 3 Drowned Catacomb
 3 Murderous Rider

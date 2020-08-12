@@ -1,17 +1,18 @@
 3 Arid Mesa
 1 Seal of Fire
 1 Chandra's Incinerator
-2 Seal of Fire
 2 Chandra's Incinerator
-3 Seal of Fire
+2 Seal of Fire
 3 Chandra's Incinerator
-4 Seal of Fire
+3 Seal of Fire
 4 Chandra's Incinerator
+4 Seal of Fire
 3 Bloodstained Mire
 4 Arid Mesa
 4 Mountain
 5 Mountain
 6 Mountain
+2 Fiery Islet
 7 Mountain
 8 Mountain
 9 Mountain
@@ -19,7 +20,6 @@
 11 Mountain
 12 Mountain
 13 Mountain
-2 Fiery Islet
 14 Mountain
 4 Bloodstained Mire
 3 Lightning Helix
@@ -34,6 +34,11 @@
 4 Vexing Devil
 1 Scalding Tarn
 2 Scalding Tarn
+3 Wooded Foothills
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
+4 Fiery Islet
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
@@ -44,33 +49,16 @@
 2 Lava Dart
 2 Light Up the Stage
 2 Soul-Scar Mage
-3 Light Up the Stage
 3 Lava Dart
+3 Light Up the Stage
 3 Soul-Scar Mage
-4 Lava Dart
 4 Light Up the Stage
+4 Lava Dart
 4 Soul-Scar Mage
-3 Wooded Foothills
-4 Fiery Islet
-1 Manamorphose
-1 Wild Slash
-1 Crash Through
-1 Bedlam Reveler
-2 Manamorphose
-2 Wild Slash
-2 Crash Through
-2 Bedlam Reveler
-3 Manamorphose
-3 Crash Through
-3 Bedlam Reveler
-4 Manamorphose
-4 Crash Through
 15 Mountain
 16 Mountain
 17 Mountain
 18 Mountain
-1 Kiln Fiend
-2 Kiln Fiend
 1 Grim Lavamancer
 1 Stomping Ground
 2 Stomping Ground
@@ -78,53 +66,41 @@
 1 Leyline of Combustion
 2 Leyline of Combustion
 3 Sacred Foundry
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
-3 Scalding Tarn
-4 Scalding Tarn
+1 Crash Through
+1 Manamorphose
+1 Wild Slash
+1 Bedlam Reveler
+2 Crash Through
+2 Manamorphose
+2 Wild Slash
+2 Bedlam Reveler
+3 Crash Through
+3 Manamorphose
+3 Bedlam Reveler
+4 Crash Through
+4 Manamorphose
 4 Bedlam Reveler
-4 Lightning Helix
-1 Blistercoil Weird
-1 Bonecrusher Giant
-1 Burst Lightning
-1 Abbot of Keral Keep
-1 Firebolt
-2 Blistercoil Weird
-2 Bonecrusher Giant
-2 Burst Lightning
-2 Firebolt
-2 Abbot of Keral Keep
-3 Blistercoil Weird
-3 Bonecrusher Giant
-3 Firebolt
-3 Abbot of Keral Keep
-3 Burst Lightning
-4 Blistercoil Weird
-4 Bonecrusher Giant
-4 Firebolt
-4 Abbot of Keral Keep
-4 Burst Lightning
 4 Skullcrack
-1 Chandra, Torch of Defiance
-1 Karn, the Great Creator
-1 Desperate Ritual
-1 Chandra, Awakened Inferno
+4 Lightning Helix
 1 Gemstone Caverns
 1 Simian Spirit Guide
+1 Chandra, Torch of Defiance
+1 Karn, the Great Creator
 1 Hazoret the Fervent
 1 Goblin Rabblemaster
+1 Chandra, Awakened Inferno
 1 Magus of the Moon
 1 Legion Warboss
 1 Chalice of the Void
 1 Seasoned Pyromancer
 1 Abrade
+1 Desperate Ritual
 1 Blood Moon
-2 Karn, the Great Creator
-2 Chandra, Torch of Defiance
 2 Magus of the Moon
 2 Goblin Rabblemaster
 2 Simian Spirit Guide
+2 Karn, the Great Creator
+2 Chandra, Torch of Defiance
 2 Hazoret the Fervent
 2 Chalice of the Void
 2 Abrade
@@ -132,11 +108,33 @@
 2 Blood Moon
 3 Goblin Rabblemaster
 3 Simian Spirit Guide
-3 Gemstone Caverns
+3 Abrade
 3 Blood Moon
 3 Chalice of the Void
-3 Abrade
+3 Gemstone Caverns
 4 Goblin Rabblemaster
 4 Simian Spirit Guide
-4 Gemstone Caverns
 4 Abrade
+4 Gemstone Caverns
+1 Bonecrusher Giant
+1 Firebolt
+1 Blistercoil Weird
+1 Abbot of Keral Keep
+1 Burst Lightning
+2 Blistercoil Weird
+2 Firebolt
+2 Bonecrusher Giant
+2 Burst Lightning
+2 Abbot of Keral Keep
+3 Blistercoil Weird
+3 Bonecrusher Giant
+3 Firebolt
+3 Abbot of Keral Keep
+3 Burst Lightning
+4 Blistercoil Weird
+4 Firebolt
+4 Abbot of Keral Keep
+4 Burst Lightning
+4 Bonecrusher Giant
+3 Scalding Tarn
+4 Scalding Tarn

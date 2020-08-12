@@ -1,19 +1,24 @@
-2 Elspeth Conquers Death
-2 Castle Vantress
-1 Geier Reach Sanitarium
-3 Dig Through Time
-1 Cast Out
-4 Censor
 6 Island
+1 Neutralize
+4 Censor
+2 Narset, Parter of Veils
+1 Gideon of the Trials
 1 Sinister Sabotage
 2 Sinister Sabotage
+2 Castle Vantress
+1 Geier Reach Sanitarium
+1 Cast Out
 4 Irrigated Farmland
-1 Neutralize
 1 Seal Away
 2 Seal Away
-2 Gideon of the Trials
 3 Seal Away
+2 Gideon of the Trials
+3 Sinister Sabotage
+4 Seal Away
+3 Fabled Passage
+2 Neutralize
 3 Plains
+4 Teferi, Time Raveler
 1 Commit/Memory
 1 Omen of the Sea
 1 Baffling End
@@ -21,25 +26,20 @@
 2 Omen of the Sea
 2 Baffling End
 3 Omen of the Sea
+3 Baffling End
 4 Omen of the Sea
+4 Baffling End
 4 Plains
 5 Plains
 6 Plains
-2 Dovin's Veto
-3 Fabled Passage
-4 Teferi, Time Raveler
-1 Dream Trawler
-3 Sinister Sabotage
-4 Seal Away
-2 Neutralize
-2 Dream Trawler
-2 Prairie Stream
-3 Baffling End
-4 Baffling End
+1 Elspeth, Sun's Nemesis
 7 Island
 1 Essence Scatter
 2 Essence Scatter
-1 Elspeth, Sun's Nemesis
+2 Dovin's Veto
+1 Dream Trawler
+2 Dream Trawler
+2 Prairie Stream
 3 Essence Scatter
 4 Sinister Sabotage
 4 Shark Typhoon
@@ -54,7 +54,6 @@
 4 Teferi, Hero of Dominaria
 1 Teferi, Master of Time
 1 Fumigate
-1 Settle the Wreckage
 1 Hieroglyphic Illumination
 2 Hieroglyphic Illumination
 3 Neutralize
@@ -63,9 +62,6 @@
 4 Neutralize
 4 Cast Out
 4 Hieroglyphic Illumination
-1 Chemister's Insight
-3 Narset, Parter of Veils
-1 Jace, Architect of Thought
 1 Abandoned Sarcophagus
 1 Drake Haven
 2 Teferi, Master of Time
@@ -74,31 +70,33 @@
 3 Field of Ruin
 1 Sulfur Falls
 1 Raugrin Triome
+1 Settle the Wreckage
 1 Sacred Foundry
 2 Sulfur Falls
 2 Raugrin Triome
 2 Settle the Wreckage
 2 Sacred Foundry
 3 Raugrin Triome
-2 Chemister's Insight
 1 The Birth of Meletis
 1 Omen of the Sun
-2 Omen of the Sun
+1 Chemister's Insight
 2 The Birth of Meletis
+2 Omen of the Sun
 3 The Birth of Meletis
 4 Fabled Passage
 1 Brazen Borrower
-1 Thassa's Intervention
-2 Thassa's Intervention
 1 Arch of Orazca
 1 Mazemind Tome
 2 Mazemind Tome
+1 Thassa's Intervention
+2 Thassa's Intervention
+3 Narset, Parter of Veils
 1 Horribly Awry
 2 Horribly Awry
 3 Castle Ardenvale
 1 Steam Vents
-1 Magma Spray
 1 Scorching Dragonfire
+1 Magma Spray
 1 Clifftop Retreat
 2 Steam Vents
 2 Scorching Dragonfire
@@ -106,6 +104,7 @@
 3 Steam Vents
 3 Magma Spray
 4 Raugrin Triome
+1 Jace, Architect of Thought
 1 Detention Sphere
 2 Detention Sphere
 3 Gideon of the Trials

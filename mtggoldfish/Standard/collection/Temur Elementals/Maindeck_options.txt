@@ -1,13 +1,13 @@
-1 Temple of Abandon
 1 Aether Gust
 2 Aether Gust
+1 Temple of Abandon
 1 Bonecrusher Giant
 1 Temple of Epiphany
 2 Temple of Mystery
+3 Paradise Druid
 2 Temple of Abandon
 2 Temple of Epiphany
 3 Temple of Mystery
-3 Paradise Druid
 1 Hydroid Krasis
 1 Ugin, the Spirit Dragon
 2 Ugin, the Spirit Dragon
@@ -15,6 +15,7 @@
 3 Aether Gust
 1 Castle Vantress
 2 Bonecrusher Giant
+1 Yorion, Sky Nomad
 4 Terror of the Peaks
 2 Hydroid Krasis
 3 Temple of Abandon
@@ -24,23 +25,22 @@
 3 Bonecrusher Giant
 1 Gilded Goose
 2 Gilded Goose
-1 Yorion, Sky Nomad
 3 Temple of Epiphany
 5 Forest
 2 Arboreal Grazer
 3 Gilded Goose
 1 Wolfwillow Haven
-4 Paradise Druid
-4 Temple of Mystery
 2 Wolfwillow Haven
 3 Wolfwillow Haven
-4 Gilded Goose
+4 Paradise Druid
+4 Temple of Mystery
 2 Yorion, Sky Nomad
+4 Gilded Goose
+3 Arboreal Grazer
 3 Hydroid Krasis
 1 Incubation/Incongruity
 2 Incubation/Incongruity
 3 Incubation/Incongruity
-3 Arboreal Grazer
 4 Arboreal Grazer
 4 Aether Gust
 1 Solemn Simulacrum
@@ -51,9 +51,17 @@
 2 Quasiduplicate
 3 Quasiduplicate
 3 Solemn Simulacrum
+4 Wolfwillow Haven
 4 Solemn Simulacrum
 4 Island
-4 Wolfwillow Haven
+1 Sublime Epiphany
+1 Thassa's Intervention
+1 Tamiyo, Collector of Tales
+1 Disdainful Stroke
+1 Teferi, Master of Time
+1 Mystical Dispute
+2 Teferi, Master of Time
+2 Tamiyo, Collector of Tales
 1 Ilysian Caryatid
 2 Castle Vantress
 3 Nissa, Who Shakes the World
