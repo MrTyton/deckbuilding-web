@@ -1,75 +1,65 @@
+1 Destructive Revelry
+2 Destructive Revelry
+3 Destructive Revelry
 1 Cindervines
 2 Cindervines
-1 Questing Beast
 1 Skylasher
+1 Questing Beast
 1 Eidolon of the Great Revel
-1 Destructive Revelry
 1 Rampaging Ferocidon
 1 Stoke the Flames
 1 Hornet Nest
 1 Savage Alliance
 2 Skylasher
 2 Rampaging Ferocidon
-2 Destructive Revelry
 2 Hornet Nest
-3 Destructive Revelry
 1 Scavenging Ooze
 1 Fatal Push
 2 Fatal Push
 1 Damping Sphere
+2 Damping Sphere
 1 Agonizing Remorse
 1 Soul-Guide Lantern
-2 Damping Sphere
 1 Hangarback Walker
-1 Witch's Vengeance
 1 Lurrus of the Dream-Den
+1 Witch's Vengeance
 1 Duress
 2 Hangarback Walker
 2 Soul-Guide Lantern
 2 Witch's Vengeance
+1 Pithing Needle
+1 Chandra, Awakened Inferno
 1 Aether Gust
 2 Aether Gust
-1 Negate
-2 Negate
-2 Scavenging Ooze
-1 Chandra, Awakened Inferno
-1 Pithing Needle
 1 Rest in Peace
 2 Rest in Peace
-1 Return to Nature
+2 Scavenging Ooze
+2 Chandra, Awakened Inferno
+1 Negate
+2 Negate
+1 Kalitas, Traitor of Ghet
+3 Fatal Push
+1 Inspired Ultimatum
+1 Ruinous Ultimatum
 1 Wilt
 3 Aether Gust
-1 Disdainful Stroke
-2 Disdainful Stroke
 1 Ulamog, the Ceaseless Hunger
 1 Emrakul, the Promised End
 3 Scavenging Ooze
-1 Kalitas, Traitor of Ghet
-1 Dovin's Veto
-1 Yorion, Sky Nomad
-2 Dovin's Veto
-3 Fatal Push
+1 Return to Nature
 2 Wilt
+2 Kalitas, Traitor of Ghet
 1 Mazemind Tome
 1 Tormod's Crypt
 1 Hope of Ghirapur
 2 Hope of Ghirapur
 2 Pithing Needle
-2 Chandra, Awakened Inferno
-2 Kalitas, Traitor of Ghet
+1 Declaration in Stone
 1 Heartless Act
 2 Heartless Act
 3 Heartless Act
 4 Fatal Push
 1 Scrapheap Scrounger
-1 Unmoored Ego
-1 Day's Undoing
-1 Gideon of the Trials
-1 Oath of Teferi
-1 Supreme Verdict
-1 Narset, Parter of Veils
-1 Thought Distortion
-1 Casualties of War
 1 Redcap Melee
 1 Dig Through Time
 1 Fabled Passage
@@ -77,8 +67,8 @@
 1 Possibility Storm
 1 Life Goes On
 1 Shadowspear
-1 Tireless Tracker
 1 Noxious Grasp
+1 Tireless Tracker
 1 Necromentia
 1 Barrier Breach
 1 Verdurous Gearhulk
@@ -98,22 +88,20 @@
 2 Mazemind Tome
 2 Metallic Rebuke
 2 Radiant Flames
-1 Inspired Ultimatum
-1 Ruinous Ultimatum
 1 Bontu's Last Reckoning
 1 Collective Brutality
 2 Bontu's Last Reckoning
 2 Collective Brutality
 3 Collective Brutality
+2 Declaration in Stone
 1 Selfless Spirit
-1 Declaration in Stone
 2 Selfless Spirit
 3 Selfless Spirit
 3 Rest in Peace
 1 Gideon, Ally of Zendikar
 1 Fairgrounds Warden
-1 Baffling End
 1 Embereth Shieldbreaker
+1 Baffling End
 1 Chandra, Torch of Defiance
 1 Phyrexian Revoker
 1 Remorseful Cleric
@@ -133,6 +121,12 @@
 2 Tormod's Crypt
 2 Baral's Expertise
 3 Negate
+1 Grafdigger's Cage
+1 Valorous Stance
+2 Grafdigger's Cage
+2 Valorous Stance
+3 Declaration in Stone
+3 Damping Sphere
 1 Dreadbore
 1 Korvold, Fae-Cursed King
 1 Claim the Firstborn
@@ -141,12 +135,19 @@
 2 Thoughtseize
 2 Korvold, Fae-Cursed King
 3 Claim the Firstborn
+1 Eerie Ultimatum
+1 Elspeth Conquers Death
+1 Teferi, Time Raveler
+1 Supreme Verdict
+1 Casualties of War
+2 Scorching Dragonfire
+3 Scorching Dragonfire
 1 Warping Wail
 1 Spatial Contortion
 2 Warping Wail
 2 Spatial Contortion
-3 Spatial Contortion
 3 Warping Wail
+3 Spatial Contortion
 1 Star of Extinction
 1 Glorybringer
 1 Oracle of Bones
@@ -159,13 +160,15 @@
 1 Giant Killer
 1 Bonecrusher Giant
 1 Cloudblazer
-2 Declaration in Stone
 2 Giant Killer
 2 Bonecrusher Giant
 2 Cloudblazer
 3 Bonecrusher Giant
 1 Devout Decree
+1 Dovin's Veto
+1 Yorion, Sky Nomad
 2 Devout Decree
+2 Dovin's Veto
 3 Devout Decree
 3 Dovin's Veto
 1 Silence
@@ -177,6 +180,11 @@
 2 Leyline of Sanctity
 3 Silence
 4 Silence
+1 Disdainful Stroke
+2 Disdainful Stroke
+3 Disdainful Stroke
+4 Scavenging Ooze
+4 Aether Gust
 1 Unbreakable Formation
 1 Apostle of Purifying Light
 2 Gideon, Ally of Zendikar
@@ -184,9 +192,6 @@
 3 Apostle of Purifying Light
 4 Apostle of Purifying Light
 4 Rest in Peace
-3 Disdainful Stroke
-4 Scavenging Ooze
-4 Aether Gust
 1 Cry of the Carnarium
 1 The Scarab God
 1 Torrential Gearhulk
@@ -201,11 +206,3 @@
 2 Drill Bit
 3 Lifebane Zombie
 4 Lifebane Zombie
-1 Tamiyo, Collector of Tales
-1 Hornet Queen
-1 Vivien Reid
-1 Entrancing Melody
-2 Return to Nature
-2 Entrancing Melody
-3 Entrancing Melody
-4 Entrancing Melody

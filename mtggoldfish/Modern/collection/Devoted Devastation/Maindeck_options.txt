@@ -27,9 +27,9 @@
 3 Verdant Catacombs
 4 Verdant Catacombs
 3 Forest
-1 Swamp
 1 Overgrown Tomb
 1 Kitchen Finks
+1 Swamp
 1 Godless Shrine
 1 Collected Company
 1 Knight of Autumn
@@ -73,6 +73,7 @@
 3 Snow-Covered Forest
 1 Misty Rainforest
 2 Misty Rainforest
+1 Path to Exile
 1 Sword of Light and Shadow
 1 Eternal Witness
 1 Castle Ardenvale
@@ -82,11 +83,10 @@
 1 Viridian Longbow
 1 Field of Ruin
 1 Stoneforge Mystic
-1 Path to Exile
 1 Winds of Abandon
-2 Field of Ruin
 2 Snow-Covered Plains
 2 Path to Exile
+2 Field of Ruin
 2 Winds of Abandon
 2 Marsh Flats
 2 Stoneforge Mystic
@@ -110,11 +110,11 @@
 4 Flooded Strand
 1 Sunpetal Grove
 4 Duskwatch Recruiter
-1 Snow-Covered Island
 1 Spectral Sailor
 1 Leyline of Abundance
 1 Kinnan, Bonder Prodigy
 1 Waterlogged Grove
+1 Snow-Covered Island
 1 Sylvan Caryatid
 1 Freed from the Real
 1 Heliod's Pilgrim

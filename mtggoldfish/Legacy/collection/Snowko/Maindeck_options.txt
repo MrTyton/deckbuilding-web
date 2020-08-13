@@ -1,17 +1,17 @@
 1 Dead of Winter
 1 Bayou
-1 Flooded Strand
+1 Leovold, Emissary of Trest
 1 Scalding Tarn
-3 Wasteland
 1 Spell Pierce
+3 Wasteland
+1 Snow-Covered Mountain
+1 Lightning Bolt
+2 Lightning Bolt
+4 Wasteland
 1 Preordain
 2 Preordain
-4 Wasteland
-1 Snow-Covered Mountain
 1 Dreadhorde Arcanist
-1 Lightning Bolt
 2 Dreadhorde Arcanist
-2 Lightning Bolt
 3 Lightning Bolt
 1 Stifle
 1 Daze
@@ -27,7 +27,7 @@
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 4 Abrupt Decay
-1 Leovold, Emissary of Trest
+1 Flooded Strand
 3 Polluted Delta
 1 Green Sun's Zenith
 1 Dryad Arbor
@@ -36,56 +36,55 @@
 3 Green Sun's Zenith
 4 Green Sun's Zenith
 3 Snow-Covered Forest
-1 Snapcaster Mage
-4 Snow-Covered Island
+1 Drown in the Loch
+1 Jace, the Mind Sculptor
 1 Baleful Strix
 2 Baleful Strix
+4 Snow-Covered Island
+1 Snapcaster Mage
 1 Scavenging Ooze
+2 Leovold, Emissary of Trest
 1 Noble Hierarch
-1 Drown in the Loch
 2 Sylvan Library
 4 Polluted Delta
-1 Jace, the Mind Sculptor
+2 Dead of Winter
 2 Flooded Strand
 1 Ramunap Excavator
-2 Leovold, Emissary of Trest
 1 Questing Beast
 1 Plague Engineer
 3 Force of Negation
-2 Dead of Winter
+2 Drown in the Loch
+1 Mystic Sanctuary
 1 Klothys, God of Destiny
 1 Gilded Goose
 2 Noble Hierarch
 3 Noble Hierarch
 4 Uro, Titan of Nature's Wrath
-2 Drown in the Loch
-2 Verdant Catacombs
-3 Verdant Catacombs
+4 Prismatic Vista
 1 Fatal Push
 2 Fatal Push
-2 Snapcaster Mage
-1 Mystic Sanctuary
-3 Daze
-1 Teferi, Time Raveler
+2 Verdant Catacombs
+3 Verdant Catacombs
 1 Veil of Summer
 3 Flooded Strand
 2 Underground Sea
-4 Prismatic Vista
 4 Force of Negation
 4 Oko, Thief of Crowns
-1 Cling to Dust
 1 Back to Basics
 1 Eternal Witness
 1 Tireless Tracker
 4 Verdant Catacombs
+1 Cling to Dust
 3 Fatal Push
 2 Plague Engineer
 5 Snow-Covered Island
+2 Snapcaster Mage
 2 Jace, the Mind Sculptor
-1 Life from the Loam
+3 Daze
 1 Shark Typhoon
 2 Shark Typhoon
 1 Pyroblast
+1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 4 Flooded Strand
 1 Meren of Clan Nel Toth
@@ -111,13 +110,14 @@
 6 Snow-Covered Island
 1 Courser of Kruphix
 1 Thoughtseize
-1 Flusterstorm
-2 Back to Basics
 1 Sword of Feast and Famine
 1 Batterskull
 1 Stoneforge Mystic
-2 Tundra
+1 Life from the Loam
 2 Stoneforge Mystic
+2 Tundra
+1 Flusterstorm
+2 Back to Basics
 1 Counterbalance
 2 Counterbalance
 1 Vendilion Clique
@@ -128,6 +128,12 @@
 2 Supreme Verdict
 2 Karakas
 2 Spell Pierce
+1 Unearth
+1 Field of Ruin
+1 Kolaghan's Command
+1 Assassin's Trophy
+2 Field of Ruin
+3 Dead of Winter
 1 Sevinne's Reclamation
 1 Monastery Mentor
 1 Engineered Explosives

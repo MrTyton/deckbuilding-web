@@ -1,52 +1,53 @@
+2 Oblivion Ring
 3 Oblivion Ring
 3 Ethersworn Canonist
-1 Veil of Summer
 1 Force of Negation
 1 Engineered Explosives
-1 Red Elemental Blast
 1 Tormod's Crypt
-2 Veil of Summer
 3 Surgical Extraction
-2 Plague Engineer
+1 Veil of Summer
 1 Hydroblast
 1 Disenchant
 1 Teferi, Time Raveler
-1 Containment Priest
 1 Karakas
-1 Grafdigger's Cage
-1 Collector Ouphe
-3 Veil of Summer
+1 Containment Priest
+3 Swords to Plowshares
 1 Abrade
 3 Pyroblast
-3 Swords to Plowshares
-1 Flusterstorm
-1 Deafening Silence
-1 Rest in Peace
+1 Grafdigger's Cage
+2 Veil of Summer
+1 Red Elemental Blast
 1 Blazing Volley
 2 Blazing Volley
-2 Red Elemental Blast
+1 Flusterstorm
 1 Walking Ballista
-1 Mycosynth Lattice
 3 Ensnaring Bridge
 4 Ensnaring Bridge
-1 Eliminate
-2 Force of Negation
-1 Echoing Truth
-2 Echoing Truth
-1 Lavinia, Azorius Renegade
-3 Force of Negation
+1 Faerie Macabre
+1 Deafening Silence
+1 Collector Ouphe
+1 Rest in Peace
+1 Mycosynth Lattice
 1 Force of Vigor
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
-1 Leonin Relic-Warder
-1 Faerie Macabre
+1 Sorcerous Spyglass
 1 Thorn of Amethyst
+1 Choke
+2 Choke
+2 Force of Negation
+1 Echoing Truth
+2 Echoing Truth
+2 Faerie Macabre
 1 Dismember
 2 Dismember
+1 Eliminate
+1 Lavinia, Azorius Renegade
+3 Force of Negation
+1 Leonin Relic-Warder
 1 Umezawa's Jitte
-1 Sorcerous Spyglass
 2 Pithing Needle
 1 Yorion, Sky Nomad
 1 Nihil Spellbomb
@@ -55,13 +56,11 @@
 1 Wheel of Sun and Moon
 1 Humility
 1 Seal of Cleansing
-1 Runed Halo
 1 Spreading Seas
+1 Runed Halo
 1 Stony Silence
 1 Back to Basics
 1 Tsabo's Web
-1 Zuran Orb
-1 Torpor Orb
 1 Trinisphere
 1 Skysovereign, Consul Flagship
 1 Glass Casket
@@ -74,6 +73,7 @@
 1 Enlightened Tutor
 1 Blood Moon
 2 Enlightened Tutor
+2 Red Elemental Blast
 1 Sylvan Library
 1 Council's Judgment
 1 Return to Nature
@@ -105,23 +105,24 @@
 2 Gilded Drake
 1 Spatial Contortion
 1 Karn, Scion of Urza
-1 Choke
 2 Spatial Contortion
 2 Karn, Scion of Urza
-2 Choke
 3 Spatial Contortion
 1 Bitterblossom
 2 Bitterblossom
-2 Disenchant
 2 Eliminate
+2 Disenchant
 3 Bitterblossom
-1 Klothys, God of Destiny
-1 Knight of Autumn
-1 Oko, Thief of Crowns
-1 Bojuka Bog
-2 Oko, Thief of Crowns
-3 Oko, Thief of Crowns
-3 Red Elemental Blast
+1 Zuran Orb
+1 Torpor Orb
+3 Veil of Summer
+1 Reclamation Sage
+1 Field of the Dead
+1 Thoughtseize
+1 Shifting Ceratops
+1 Toxic Deluge
+1 Liliana, Dreadhorde General
+3 Plague Engineer
 1 Venser, Shaper Savant
 1 Relic of Progenitus
 1 Maze of Ith
@@ -142,6 +143,12 @@
 3 Lake of the Dead
 3 Inquisition of Kozilek
 4 Grim Monolith
+1 Meddling Mage
+1 True-Name Nemesis
+1 Sword of Fire and Ice
+2 True-Name Nemesis
+3 True-Name Nemesis
+4 Swords to Plowshares
 1 Electrickery
 1 Soul-Guide Lantern
 1 Aether Gust
@@ -163,18 +170,9 @@
 4 Blistercoil Weird
 2 Thorn of Amethyst
 2 Tormod's Crypt
-2 Faerie Macabre
 3 Thorn of Amethyst
 3 Faerie Macabre
 4 Thorn of Amethyst
-1 Blue Elemental Blast
-1 Shattering Spree
-1 Submerge
-1 Lightning Bolt
-2 Submerge
-2 Shattering Spree
-3 Shattering Spree
-4 Surgical Extraction
 1 Contagion
 1 Leyline of Sanctity
 2 Force of Vigor
@@ -185,6 +183,14 @@
 3 Force of Vigor
 4 Leyline of Sanctity
 4 Force of Vigor
+1 Blue Elemental Blast
+1 Shattering Spree
+1 Submerge
+1 Lightning Bolt
+2 Submerge
+2 Shattering Spree
+3 Shattering Spree
+4 Surgical Extraction
 2 Defense Grid
 3 Defense Grid
 4 Ethersworn Canonist
@@ -195,14 +201,7 @@
 3 Containment Priest
 4 Force of Negation
 4 Containment Priest
-1 Meddling Mage
-1 Sword of Fire and Ice
-1 True-Name Nemesis
-2 True-Name Nemesis
-3 True-Name Nemesis
-4 Swords to Plowshares
 1 Jagged-Scar Archers
-1 Reclamation Sage
 1 Return of the Wildspeaker
 1 Ezuri, Renegade Leader
 1 Hunting Triad

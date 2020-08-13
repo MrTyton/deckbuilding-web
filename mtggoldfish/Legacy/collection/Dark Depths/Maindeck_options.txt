@@ -12,20 +12,20 @@
 3 Mox Diamond
 1 Abrupt Decay
 2 Abrupt Decay
+1 Nurturing Peatland
+1 Sylvan Library
 3 Abrupt Decay
 3 Bayou
-1 Nurturing Peatland
-4 Dark Confidant
-1 Sylvan Library
-2 Wasteland
-3 Wasteland
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
 3 Inquisition of Kozilek
-1 Sylvan Safekeeper
+4 Dark Confidant
+2 Wasteland
+3 Wasteland
 1 Blast Zone
 4 Once Upon a Time
+1 Sylvan Safekeeper
 1 Assassin's Trophy
 1 Life from the Loam
 1 Hymn to Tourach
@@ -55,19 +55,18 @@
 2 Helm of Obedience
 3 Lion's Eye Diamond
 3 Duress
-3 Swamp
 3 Infernal Tutor
+3 Swamp
 3 Leyline of the Void
-4 Infernal Tutor
 4 Lion's Eye Diamond
 4 Swamp
 4 Leyline of the Void
+4 Infernal Tutor
 5 Swamp
 6 Swamp
 7 Swamp
 8 Swamp
 9 Swamp
-1 Misty Rainforest
 1 Windswept Heath
 1 Castle Locthwain
 1 Wishclaw Talisman
@@ -84,10 +83,6 @@
 1 Grindstone
 3 Ancient Tomb
 4 Duress
-2 Sylvan Safekeeper
-2 Misty Rainforest
-3 Sylvan Safekeeper
-4 Abrupt Decay
 4 Mox Diamond
 1 Grim Flayer
 1 Marsh Flats
@@ -113,6 +108,7 @@
 1 Sorcerous Spyglass
 1 Veil of Summer
 1 Living Wish
+1 Misty Rainforest
 2 Assassin's Trophy
 2 Veil of Summer
 2 Living Wish
@@ -122,6 +118,7 @@
 4 Inquisition of Kozilek
 4 Living Wish
 1 Dakmor Salvage
+1 Cabal Pit
 1 Gurmag Angler
 1 Liliana of the Veil
 1 Liliana, the Last Hope
@@ -132,7 +129,6 @@
 1 Liliana's Triumph
 1 Trinisphere
 1 Desolation
-1 Cabal Pit
 1 Polluted Delta
 2 Gurmag Angler
 2 Snow-Covered Swamp

@@ -1,7 +1,3 @@
-6 Mountain
-7 Mountain
-1 Embercleave
-1 Bonecrusher Giant
 1 Legion Warboss
 1 Igneous Cur
 1 Alpine Houndmaster
@@ -34,15 +30,18 @@
 1 Gingerbrute
 2 Gingerbrute
 1 Temple of Triumph
+3 Memory Leak
+4 Memory Leak
+4 Startling Development
 2 Temple of Triumph
 3 Temple of Triumph
 4 Temple of Triumph
 1 Winota, Joiner of Forces
 2 Winota, Joiner of Forces
+2 Boon of the Wish-Giver
 3 Gingerbrute
 4 Gingerbrute
 3 Boon of the Wish-Giver
-10 Plains
 4 Boon of the Wish-Giver
 1 Aurelia, Exemplar of Justice
 1 Stonecoil Serpent
@@ -67,24 +66,31 @@
 2 Fling
 2 Imposing Vantasaur
 1 Island
-1 Swiftwater Cliffs
 1 Temple of Epiphany
-1 Improbable Alliance
 1 Tranquil Cove
 1 Ominous Seas
-2 Swiftwater Cliffs
-2 Improbable Alliance
+1 Improbable Alliance
+1 Swiftwater Cliffs
 2 Tranquil Cove
 2 Ominous Seas
+2 Swiftwater Cliffs
+2 Improbable Alliance
 3 Ominous Seas
 3 Improbable Alliance
-1 Hanged Executioner
 1 Alseid of Life's Bounty
+1 Hanged Executioner
 2 Alseid of Life's Bounty
 4 Legion Warboss
 3 Raugrin Triome
 4 Raugrin Triome
 4 Tajic, Legion's Edge
+1 Savai Triome
+1 Icon of Ancestry
+1 Irencrag Pyromancer
+2 Irencrag Pyromancer
+3 Irencrag Pyromancer
+4 Irencrag Pyromancer
+10 Plains
 1 Temple of Mystery
 1 Castle Vantress
 1 Nightpack Ambusher
@@ -141,9 +147,3 @@
 4 Temple Garden
 4 Breeding Pool
 4 Growth Spiral
-1 Irencrag Pyromancer
-1 Savai Triome
-1 Icon of Ancestry
-2 Irencrag Pyromancer
-3 Irencrag Pyromancer
-4 Irencrag Pyromancer

@@ -28,18 +28,18 @@
 2 Brazen Borrower
 4 Fabled Passage
 1 Temple of Malady
-1 Quench
+1 Omen of the Sea
 1 Slitherwisp
 1 Brineborn Cutthroat
 1 Cunning Nightbonder
 1 Nightpack Ambusher
-1 Omen of the Sea
-2 Quench
+1 Quench
+2 Omen of the Sea
 2 Slitherwisp
 2 Brineborn Cutthroat
 2 Cunning Nightbonder
 2 Nightpack Ambusher
-2 Omen of the Sea
+2 Quench
 3 Quench
 3 Brineborn Cutthroat
 3 Slitherwisp
@@ -86,17 +86,17 @@
 3 Rotting Regisaur
 1 Tamiyo, Collector of Tales
 1 Arboreal Grazer
-1 Ilysian Caryatid
 1 Paradise Druid
 1 Voracious Hydra
 1 Cavalier of Thorns
 1 Garruk's Harbinger
 1 Nissa, Who Shakes the World
 1 Ram Through
+1 Ilysian Caryatid
+2 Polukranos, Unchained
 2 Paradise Druid
 2 Voracious Hydra
 2 Cavalier of Thorns
-2 Polukranos, Unchained
 2 Garruk's Harbinger
 2 Nissa, Who Shakes the World
 2 Ilysian Caryatid
@@ -104,8 +104,8 @@
 3 Shifting Ceratops
 3 Ilysian Caryatid
 1 Shark Typhoon
-1 Sea-Dasher Octopus
 1 Frilled Mystic
+1 Sea-Dasher Octopus
 1 Spectral Sailor
 1 Lofty Denial
 2 Sea-Dasher Octopus
@@ -131,19 +131,19 @@
 4 Knight of the Ebon Legion
 4 Stonecoil Serpent
 1 Tymaret Calls the Dead
-1 Merfolk Secretkeeper
-1 Demonic Embrace
 1 Silversmote Ghoul
+1 Merfolk Secretkeeper
 1 Ashiok, Dream Render
+1 Demonic Embrace
 1 Glowspore Shaman
 2 Tymaret Calls the Dead
-2 Demonic Embrace
-2 Merfolk Secretkeeper
 2 Silversmote Ghoul
 2 Ashiok, Dream Render
+2 Demonic Embrace
+2 Merfolk Secretkeeper
 2 Glowspore Shaman
-3 Tymaret Calls the Dead
 3 Silversmote Ghoul
+3 Tymaret Calls the Dead
 3 Merfolk Secretkeeper
 3 Glowspore Shaman
 4 Silversmote Ghoul
@@ -194,6 +194,6 @@
 3 Liliana, Waker of the Dead
 3 Liliana's Triumph
 4 Mire Triton
-4 Thief of Sanity
 4 Liliana's Triumph
+4 Thief of Sanity
 4 Liliana, Waker of the Dead
