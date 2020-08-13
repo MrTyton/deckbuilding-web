@@ -1,7 +1,9 @@
-3 Opt
-4 Opt
-3 Castle Vantress
-4 Shark Typhoon
+1 Teferi, Master of Time
+2 Lumbering Falls
+2 Teferi, Master of Time
+5 Island
+3 Sublime Epiphany
+4 Temple of Mystery
 4 Fabled Passage
 1 Steam Vents
 2 Steam Vents
@@ -17,6 +19,9 @@
 3 Expansion / Explosion
 4 Ketria Triome
 4 Expansion / Explosion
+1 Aetherspouts
+2 Aetherspouts
+3 Blast Zone
 1 Stomping Ground
 1 Pull from Tomorrow
 1 Sweltering Suns
@@ -30,32 +35,31 @@
 3 Sweltering Suns
 3 Pull from Tomorrow
 4 Pull from Tomorrow
-3 Sublime Epiphany
-4 Temple of Mystery
 1 Commit / Memory
 1 Temple of Triumph
 1 Temple of Epiphany
 1 Jace, Vryn's Prodigy
 1 Settle the Wreckage
+1 Wandering Fumarole
 1 Dream Trawler
 1 Narset, Parter of Veils
-1 Temple of Enlightenment
 1 Teferi, Time Raveler
 1 Castle Ardenvale
 1 Collective Defiance
 1 Sulfur Falls
 1 Hallowed Fountain
 1 Glacial Fortress
+1 Temple of Enlightenment
 1 Anger of the Gods
-1 Supreme Verdict
 1 Sacred Foundry
-1 Wandering Fumarole
 1 Karn, the Great Creator
 1 Izzet Charm
+1 Supreme Verdict
 1 Raugrin Triome
 1 Clifftop Retreat
 2 Clifftop Retreat
 2 Temple of Enlightenment
+2 Anger of the Gods
 2 Sacred Foundry
 2 Teferi, Time Raveler
 2 Karn, the Great Creator
@@ -64,12 +68,11 @@
 2 Sulfur Falls
 2 Commit / Memory
 2 Hallowed Fountain
-2 Anger of the Gods
 2 Izzet Charm
 2 Raugrin Triome
 2 Collective Defiance
-3 Collective Defiance
 3 Anger of the Gods
+3 Collective Defiance
 3 Izzet Charm
 3 Raugrin Triome
 3 Teferi, Time Raveler
@@ -84,52 +87,52 @@
 4 Izzet Charm
 4 Teferi, Time Raveler
 1 Swamp
-1 Agent of Treachery
-1 Woodland Bellower
+1 Thassa, Deep-Dwelling
 1 Elvish Rejuvenator
-1 Arboreal Grazer
+1 Neoform
+1 Agent of Treachery
 1 Yavimaya Coast
 1 Hostage Taker
-1 Grapple with the Past
-1 Unesh, Criosphinx Sovereign
-1 Eldritch Evolution
-1 Cavalier of Gales
-1 Massacre Girl
-1 Cavalier of Night
-1 Tasigur, the Golden Fang
-1 Neoform
-1 Thassa, Deep-Dwelling
+1 Arboreal Grazer
 1 Botanical Sanctum
+1 Tasigur, the Golden Fang
 1 Reclamation Sage
+1 Cavalier of Night
 1 Thought-Knot Seer
+1 Massacre Girl
+1 Cavalier of Gales
+1 Eldritch Evolution
 1 Overgrown Tomb
+1 Unesh, Criosphinx Sovereign
+1 Grapple with the Past
 1 Llanowar Wastes
 1 Satyr Wayfinder
 1 Blooming Marsh
 1 Scavenging Ooze
-2 Agent of Treachery
+1 Woodland Bellower
 2 Elvish Rejuvenator
-2 Arboreal Grazer
-2 Yavimaya Coast
-2 Eldritch Evolution
-2 Grapple with the Past
-2 Tasigur, the Golden Fang
 2 Neoform
+2 Agent of Treachery
+2 Yavimaya Coast
+2 Arboreal Grazer
+2 Tasigur, the Golden Fang
 2 Blooming Marsh
 2 Overgrown Tomb
 2 Satyr Wayfinder
+2 Grapple with the Past
+2 Eldritch Evolution
 2 Llanowar Wastes
-3 Arboreal Grazer
-3 Yavimaya Coast
-3 Eldritch Evolution
-3 Grapple with the Past
 3 Neoform
+3 Yavimaya Coast
+3 Arboreal Grazer
+3 Grapple with the Past
 3 Forest
 3 Llanowar Wastes
+3 Eldritch Evolution
 3 Satyr Wayfinder
 3 Blooming Marsh
-4 Arboreal Grazer
 4 Neoform
+4 Arboreal Grazer
 4 Satyr Wayfinder
 1 Rootbound Crag
 1 Scorching Dragonfire
@@ -145,12 +148,12 @@
 1 Liliana, Waker of the Dead
 1 Dragonskull Summit
 1 Collective Brutality
-1 Kolaghan's Command
 1 Castle Locthwain
 1 Murderous Rider
 1 Blood Crypt
 1 Eliminate
 1 Davriel, Rogue Shadowmage
+1 Kolaghan's Command
 1 Waste Not
 1 Thoughtseize
 1 Kroxa, Titan of Death's Hunger
@@ -161,17 +164,17 @@
 2 Swamp
 2 Murderous Rider
 2 Blood Crypt
-2 Hazoret the Fervent
 2 Castle Locthwain
 2 Collective Brutality
-2 Davriel, Rogue Shadowmage
 2 Eliminate
+2 Davriel, Rogue Shadowmage
+2 Hazoret the Fervent
 2 Thoughtseize
 2 Mountain
-2 Fatal Push
 2 Field of Ruin
 2 Kroxa, Titan of Death's Hunger
 2 Kolaghan's Command
+2 Fatal Push
 2 Dragonskull Summit
 2 Waste Not
 3 Kroxa, Titan of Death's Hunger
@@ -180,8 +183,8 @@
 3 Swamp
 3 Castle Locthwain
 3 Fatal Push
-3 Davriel, Rogue Shadowmage
 3 Liliana, Waker of the Dead
+3 Davriel, Rogue Shadowmage
 3 Dragonskull Summit
 3 Blood Crypt
 3 Thoughtseize

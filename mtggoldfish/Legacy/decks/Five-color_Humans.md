@@ -69,6 +69,6 @@
 |                    3|[Wingcrafter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=239979)                  |                     |                                                                                                        |
 |                    3|[Tundra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=885)                          |                     |                                                                                                        |
 |                    3|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)                  |                     |                                                                                                        |
-|                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)               |                     |                                                                                                        |
 |                    4|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)                  |                     |                                                                                                        |
+|                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)               |                     |                                                                                                        |
 

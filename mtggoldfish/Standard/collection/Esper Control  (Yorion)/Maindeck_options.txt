@@ -40,8 +40,8 @@
 3 Doom Foretold
 3 Godless Shrine
 3 Watery Grave
-4 Godless Shrine
 4 Watery Grave
+4 Godless Shrine
 4 Doom Foretold
 3 Castle Ardenvale
 3 Glass Casket
@@ -73,10 +73,10 @@
 2 Fae of Wishes
 3 Raugrin Triome
 4 Raugrin Triome
-1 Deafening Clarion
 1 Narset of the Ancient Way
 1 Steam Vents
 1 Mountain
+1 Deafening Clarion
 1 Sacred Foundry
 2 Narset of the Ancient Way
 2 Steam Vents
@@ -95,20 +95,20 @@
 3 Overwhelmed Apprentice
 4 Teferi's Tutelage
 4 Overwhelmed Apprentice
-1 Devious Cover-Up
 1 Gideon Blackblade
 1 God-Eternal Kefnet
-1 Dovin, Grand Arbiter
-1 Labyrinth of Skophos
 1 Mu Yanling, Sky Dancer
+1 Dovin, Grand Arbiter
 1 Heliod's Intervention
+1 Labyrinth of Skophos
 1 Karn's Bastion
 1 God-Eternal Oketra
-2 Ugin, the Ineffable
-2 Devious Cover-Up
+1 Devious Cover-Up
+2 Blast Zone
 2 Heliod's Intervention
 2 Dovin, Grand Arbiter
-2 Blast Zone
+2 Ugin, the Ineffable
+2 Devious Cover-Up
 3 Omen of the Sun
 3 Castle Vantress
 3 Ugin, the Ineffable
@@ -141,22 +141,22 @@
 2 Mazemind Tome
 3 Mazemind Tome
 3 Teferi, Master of Time
-4 Teferi, Master of Time
 4 Mazemind Tome
+4 Teferi, Master of Time
 4 Mystical Dispute
-1 Neutralize
 1 Gadwick, the Wizened
+1 Neutralize
 1 Baneslayer Angel
 1 Swift Response
 1 Faith's Fetters
-2 Neutralize
 2 Gadwick, the Wizened
+2 Neutralize
 2 Radiant Fountain
 2 Baneslayer Angel
 2 Swift Response
 2 Faith's Fetters
-3 Radiant Fountain
 3 Neutralize
+3 Radiant Fountain
 3 Swift Response
 3 Baneslayer Angel
 4 Swift Response
@@ -166,22 +166,21 @@
 1 Shock
 1 Scorching Dragonfire
 1 Negate
-2 Boon of the Wish-Giver
 2 Mountain
+2 Boon of the Wish-Giver
 2 Shock
 2 Negate
 2 Scorching Dragonfire
 3 Scorching Dragonfire
 4 Scorching Dragonfire
-4 Shark Typhoon
 1 Deputy of Detention
 1 Cavalier of Dawn
 1 Thassa, Deep-Dwelling
 1 Charming Prince
 1 Fblthp, the Lost
 2 Deputy of Detention
-2 Thassa, Deep-Dwelling
 2 Cavalier of Dawn
+2 Thassa, Deep-Dwelling
 2 Fblthp, the Lost
 2 Charming Prince
 3 Fblthp, the Lost
@@ -190,6 +189,7 @@
 4 Elite Guardmage
 4 Charming Prince
 4 Thassa, Deep-Dwelling
+4 Shark Typhoon
 1 Sarkhan the Masterless
 1 Justice Strike
 2 Deafening Clarion

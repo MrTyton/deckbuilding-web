@@ -48,6 +48,6 @@
 |                     |                                                                                              |                    1|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)             |
 |                     |                                                                                              |                    2|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)       |
 |                     |                                                                                              |                    2|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)             |
-|                     |                                                                                              |                    4|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)             |
 |                     |                                                                                              |                    3|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)             |
+|                     |                                                                                              |                    4|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)             |
 

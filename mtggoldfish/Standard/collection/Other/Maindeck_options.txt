@@ -1,20 +1,26 @@
-1 Woe Strider
-2 Woe Strider
-5 Mountain
-4 Serrated Scorpion
-1 Mayhem Devil
-2 Mayhem Devil
-3 Mayhem Devil
-1 Temple of Malice
 4 Gutterbones
-3 Castle Locthwain
-4 Mayhem Devil
-6 Mountain
-2 Temple of Malice
+1 Temple of Malice
 1 Rankle, Master of Pranks
-1 Liliana's Standard Bearer
-1 Stomping Ground
+4 Archfiend's Vessel
+1 Dreadhorde Butcher
+2 Dreadhorde Butcher
+4 Serrated Scorpion
+4 Mayhem Devil
+1 Weaponize the Monsters
+2 Temple of Malice
+3 Dreadhorde Butcher
+4 Dreadhorde Butcher
 3 Woe Strider
+1 Demonic Embrace
+5 Mountain
+1 Liliana's Standard Bearer
+1 Witch's Oven
+1 Stomping Ground
+1 Lurrus of the Dream-Den
+2 Lurrus of the Dream-Den
+2 Demonic Embrace
+8 Swamp
+1 Island
 1 Forest
 1 Overgrown Tomb
 2 Overgrown Tomb
@@ -25,109 +31,99 @@
 2 Gilded Goose
 3 Gilded Goose
 4 Gilded Goose
-3 Forest
-2 Stomping Ground
-3 Stomping Ground
-4 Stomping Ground
-1 Paradise Druid
-2 Paradise Druid
-3 Paradise Druid
-1 Island
+1 Liliana, Waker of the Dead
 1 Plains
+1 Watery Grave
+2 Watery Grave
+3 Watery Grave
 1 Godless Shrine
 2 Godless Shrine
 3 Godless Shrine
-4 Forest
+3 Forest
 1 Elspeth Conquers Death
 2 Elspeth Conquers Death
 3 Elspeth Conquers Death
-1 Scavenging Ooze
-2 Scavenging Ooze
+1 Paradise Druid
+2 Paradise Druid
+3 Paradise Druid
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
 3 Nissa, Who Shakes the World
-1 Garruk's Harbinger
-2 Garruk's Harbinger
-3 Garruk's Harbinger
-4 Paradise Druid
+4 Forest
 1 Temple Garden
 1 Indatha Triome
 2 Indatha Triome
 3 Indatha Triome
 4 Elspeth Conquers Death
 4 Indatha Triome
+1 Scavenging Ooze
+2 Scavenging Ooze
 4 Nissa, Who Shakes the World
+1 Garruk's Harbinger
 1 Vito, Thorn of the Dusk Rose
 1 Nethroi, Apex of Death
+1 Basri's Lieutenant
 1 Lavabrink Venturer
 1 Revival/Revenge
-1 Basri's Lieutenant
+2 Basri's Lieutenant
 2 Vito, Thorn of the Dusk Rose
-2 Nethroi, Apex of Death
 2 Lavabrink Venturer
 2 Revival/Revenge
-2 Basri's Lieutenant
 2 Temple Garden
-3 Basri's Lieutenant
+2 Nethroi, Apex of Death
+2 Garruk's Harbinger
+3 Garruk's Harbinger
 3 Temple Garden
+3 Basri's Lieutenant
 3 Lavabrink Venturer
 4 Basri's Lieutenant
+4 Paradise Druid
 4 Temple Garden
 4 Lavabrink Venturer
-1 Watery Grave
-2 Watery Grave
-3 Watery Grave
-4 Watery Grave
-4 Godless Shrine
-1 Castle Vantress
-2 Island
-1 Hallowed Fountain
-2 Plains
-2 Hallowed Fountain
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-3 Island
-3 Hallowed Fountain
-4 Hallowed Fountain
-2 Castle Vantress
-1 Shark Typhoon
-2 Shark Typhoon
-3 Narset, Parter of Veils
-1 Shatter the Sky
-3 Shark Typhoon
-4 Island
-1 Temple of Enlightenment
-2 Temple of Enlightenment
-2 Shatter the Sky
-3 Temple of Enlightenment
-3 Plains
-3 Shatter the Sky
-4 Plains
-4 Shatter the Sky
-4 Narset, Parter of Veils
-4 Temple of Enlightenment
-1 Teferi, Master of Time
-2 Teferi, Master of Time
-1 Glass Casket
-2 Glass Casket
-5 Island
-6 Island
-7 Island
-1 Steam Vents
-1 Aether Gust
-2 Aether Gust
+1 Tymaret Calls the Dead
+1 Carnival/Carnage
+2 Tymaret Calls the Dead
+3 Tymaret Calls the Dead
+4 Kroxa, Titan of Death's Hunger
+6 Mountain
+2 Rankle, Master of Pranks
 1 Bolas's Citadel
 1 Trail of Crumbs
 2 Bolas's Citadel
 2 Trail of Crumbs
+2 Stomping Ground
 3 Bolas's Citadel
 3 Trail of Crumbs
+3 Stomping Ground
+4 Stomping Ground
+1 Sacred Foundry
+4 Watery Grave
+1 Steam Vents
+2 Steam Vents
+3 Steam Vents
+4 Steam Vents
+2 Island
+2 Liliana's Standard Bearer
+1 Castle Vantress
+1 Hallowed Fountain
+2 Plains
+2 Hallowed Fountain
+4 Godless Shrine
+3 Island
+3 Hallowed Fountain
+4 Hallowed Fountain
+1 Omen of the Sea
+2 Omen of the Sea
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
+1 Aether Gust
 1 Zagoth Triome
 2 Zagoth Triome
 3 Zagoth Triome
 4 Zagoth Triome
-1 Omen of the Sea
-2 Omen of the Sea
+3 Omen of the Sea
+3 Narset, Parter of Veils
+4 Omen of the Sea
 1 Yorion, Sky Nomad
 1 Oath of Kaya
 1 Doom Foretold
@@ -141,37 +137,19 @@
 3 Doom Foretold
 3 Yorion, Sky Nomad
 4 Oath of Kaya
-1 Dream Trawler
-1 Castle Ardenvale
-2 Castle Ardenvale
-1 The Birth of Meletis
-2 The Birth of Meletis
-4 Shark Typhoon
-4 Call of the Death-Dweller
-1 Witch's Oven
-5 Forest
-3 Omen of the Sea
-4 Omen of the Sea
-1 Eliminate
-2 Eliminate
-3 Eliminate
-4 Eliminate
-1 Liliana, Waker of the Dead
-2 Liliana's Standard Bearer
-1 Frantic Inventory
-1 Absorb
-2 Absorb
-2 Frantic Inventory
-2 Dream Trawler
-3 Frantic Inventory
-3 Absorb
-4 Frantic Inventory
-2 Steam Vents
-3 Steam Vents
-4 Steam Vents
-8 Island
-1 Ugin, the Spirit Dragon
+1 Temple of Enlightenment
+2 Temple of Enlightenment
+4 Island
+1 Shatter the Sky
+1 Brazen Borrower
+1 Shark Typhoon
+2 Shark Typhoon
+2 Castle Vantress
 1 Extinction Event
+1 Teferi, Master of Time
+1 Ugin, the Spirit Dragon
+2 Teferi, Master of Time
+2 Aether Gust
 1 Llanowar Visionary
 2 Llanowar Visionary
 3 Llanowar Visionary
@@ -186,41 +164,28 @@
 3 Breeding Pool
 4 Uro, Titan of Nature's Wrath
 4 Breeding Pool
-1 Brazen Borrower
+5 Forest
+1 Glass Casket
+2 Glass Casket
+2 Shatter the Sky
+3 Temple of Enlightenment
+3 Plains
+3 Shatter the Sky
+4 Plains
+4 Temple of Enlightenment
+1 Castle Ardenvale
+3 Shark Typhoon
+4 Shark Typhoon
+5 Island
+1 Mystical Dispute
 1 Miscast
-1 Temple of Epiphany
-2 Temple of Epiphany
-3 Aether Gust
-1 Opt
-1 Spectral Sailor
-1 Sea-Dasher Octopus
-1 Lofty Denial
-1 Pteramander
 2 Brazen Borrower
-2 Lofty Denial
-2 Spectral Sailor
-2 Pteramander
-2 Opt
-2 Sea-Dasher Octopus
-3 Spectral Sailor
-3 Temple of Epiphany
-3 Opt
-3 Pteramander
-4 Spectral Sailor
-4 Pteramander
-4 Temple of Epiphany
-4 Opt
-6 Forest
-7 Forest
-1 Neutralize
-1 Blast Zone
-1 Raugrin Triome
-1 Chemister's Insight
-2 Chemister's Insight
-1 Sacred Foundry
-2 Sacred Foundry
-3 Sacred Foundry
-4 Sacred Foundry
+1 Temple of Epiphany
+1 Sublime Epiphany
+2 Sublime Epiphany
+1 Dovin's Veto
+1 Absorb
+2 Absorb
 1 Yarok's Fenlurker
 1 Disdainful Stroke
 1 Agonizing Remorse
@@ -234,16 +199,16 @@
 2 Treacherous Blessing
 2 Agonizing Remorse
 3 Yarok's Fenlurker
-3 Charming Prince
 3 Burglar Rat
+3 Charming Prince
 3 Treacherous Blessing
 3 Agonizing Remorse
 4 Llanowar Visionary
 4 Agonizing Remorse
 4 Charming Prince
 4 Temple of Silence
-4 Yarok's Fenlurker
 4 Burglar Rat
+4 Yarok's Fenlurker
 1 Temple of Mystery
 1 Tamiyo, Collector of Tales
 1 Risen Reef
@@ -262,8 +227,8 @@
 3 Ketria Triome
 3 Temple of Mystery
 3 Leafkin Druid
-3 Risen Reef
 3 Cavalier of Thorns
+3 Risen Reef
 3 Casualties of War
 3 Hydroid Krasis
 4 Ketria Triome
@@ -272,36 +237,56 @@
 4 Cavalier of Thorns
 4 Temple of Mystery
 4 Casualties of War
+1 Eliminate
 1 Disinformation Campaign
+1 The Birth of Meletis
 1 Thought Erasure
 1 Temple of Deceit
+2 Eliminate
 2 Temple of Deceit
 2 Thought Erasure
 2 Disinformation Campaign
+2 The Birth of Meletis
+3 Eliminate
 3 The Birth of Meletis
 3 Temple of Deceit
 3 Thought Erasure
 3 Disinformation Campaign
+4 Eliminate
+4 Shatter the Sky
 4 Disinformation Campaign
 4 Doom Foretold
+4 Narset, Parter of Veils
 4 Thought Erasure
 4 Temple of Deceit
-1 Lurrus of the Dream-Den
-2 Lurrus of the Dream-Den
-1 Demonic Embrace
-2 Demonic Embrace
-8 Swamp
+2 Sacred Foundry
+3 Sacred Foundry
+4 Sacred Foundry
+1 Blast Zone
+1 Dream Trawler
+2 Castle Ardenvale
+3 Aether Gust
+1 Raugrin Triome
+2 Raugrin Triome
+3 Raugrin Triome
+4 Raugrin Triome
+1 Opt
+2 Opt
+3 Opt
+4 Opt
+3 Brazen Borrower
 1 Nightmare Shepherd
+2 Temple of Epiphany
+1 Sea-Dasher Octopus
+2 Sea-Dasher Octopus
+1 Lazotep Reaver
 1 Duress
 2 Weaponize the Monsters
 1 Judith, the Scourge Diva
 1 Chandra, Acolyte of Flame
 2 Judith, the Scourge Diva
-1 Essence Scatter
-1 Dovin's Veto
-1 Field of Ruin
-2 Essence Scatter
-2 Dovin's Veto
+1 Liliana's Steward
+2 Liliana's Steward
 1 Lazav, the Multifarious
 2 Lazav, the Multifarious
 1 Wicked Wolf
@@ -309,64 +294,11 @@
 2 Witch's Oven
 2 Solemn Simulacrum
 2 Wicked Wolf
-2 Rankle, Master of Pranks
 3 Lurrus of the Dream-Den
 3 Rankle, Master of Pranks
 3 Temple of Malice
-1 Cultivate
-1 Sublime Epiphany
-1 Mystical Dispute
-1 Ashiok, Dream Render
-2 Cultivate
-2 Sublime Epiphany
-2 Ashiok, Dream Render
-3 Castle Vantress
-3 Teferi, Master of Time
-3 Ashiok, Dream Render
-4 Aether Gust
-4 Teferi, Master of Time
-1 Radha, Heart of Keld
-1 Vivien, Monsters' Advocate
-1 Gemrazer
-1 Terror of the Peaks
-1 Garruk, Unleashed
-1 Questing Beast
-1 Elder Gargaroth
-1 Murderous Rider
-2 Murderous Rider
-2 Questing Beast
-2 Elder Gargaroth
-2 Terror of the Peaks
-2 Vivien, Monsters' Advocate
-2 Radha, Heart of Keld
-2 Gemrazer
-3 Terror of the Peaks
-3 Questing Beast
-3 Scavenging Ooze
-3 Elder Gargaroth
-4 Terror of the Peaks
 4 Woe Strider
 4 Trail of Crumbs
-1 Shock
-1 Crash Through
-1 Unsummon
-1 Sprite Dragon
-2 Shock
-2 Unsummon
-2 Miscast
-2 Crash Through
-2 Sprite Dragon
-3 Sprite Dragon
-3 Shock
-3 Crash Through
-4 Sprite Dragon
-1 Tymaret Calls the Dead
-1 Liliana's Steward
-1 Carnival/Carnage
-2 Tymaret Calls the Dead
-2 Liliana's Steward
-3 Tymaret Calls the Dead
-4 Kroxa, Titan of Death's Hunger
 1 Luminous Broodmoth
 1 Selfless Savior
 1 Cruel Celebrant
@@ -374,54 +306,133 @@
 2 Cruel Celebrant
 3 Selfless Savior
 3 Cruel Celebrant
+4 Call of the Death-Dweller
 4 Selfless Savior
 4 Cruel Celebrant
 1 Tranquil Cove
 1 Justice Strike
 1 Deafening Clarion
 1 Chandra, Awakened Inferno
+1 Chemister's Insight
 1 Outlaws' Merriment
 1 Narset of the Ancient Way
+1 Neutralize
 1 Elspeth, Sun's Nemesis
 1 Realm-Cloaked Giant
-2 Raugrin Triome
 2 Justice Strike
 2 Deafening Clarion
 2 Narset of the Ancient Way
 2 Blast Zone
 2 Tranquil Cove
 2 Realm-Cloaked Giant
-2 Neutralize
 2 Outlaws' Merriment
-3 Raugrin Triome
+2 Neutralize
+2 Chemister's Insight
 3 Deafening Clarion
 3 Neutralize
-3 Tranquil Cove
 3 Justice Strike
-4 Raugrin Triome
+3 Tranquil Cove
 4 Justice Strike
 4 Deafening Clarion
-1 Ionize
-1 Bonecrusher Giant
-1 Blitz of the Thunder-Raptor
-2 Blitz of the Thunder-Raptor
-2 Bonecrusher Giant
-2 Ionize
-3 Brazen Borrower
-3 Bonecrusher Giant
-3 Ionize
+1 Stonecoil Serpent
+1 Pouncing Shoreshark
+1 Dirge Bat
+1 Marauding Raptor
+1 Everquill Phoenix
+1 Pollywog Symbiote
+1 Chamber Sentry
+1 Insatiable Hemophage
+2 Stonecoil Serpent
+2 Marauding Raptor
+2 Pollywog Symbiote
+2 Pouncing Shoreshark
+2 Chamber Sentry
+2 Insatiable Hemophage
+2 Everquill Phoenix
+3 Stonecoil Serpent
+3 Insatiable Hemophage
+3 Chamber Sentry
+3 Everquill Phoenix
 3 Sea-Dasher Octopus
-3 Lofty Denial
+3 Marauding Raptor
+3 Pollywog Symbiote
+3 Pouncing Shoreshark
+4 Stonecoil Serpent
+4 Pouncing Shoreshark
+4 Sea-Dasher Octopus
+4 Marauding Raptor
+4 Chamber Sentry
+4 Pollywog Symbiote
+4 Everquill Phoenix
+4 Insatiable Hemophage
+1 Rain of Revelation
+1 Essence Scatter
+1 Rewind
+1 Bonecrusher Giant
+2 Rain of Revelation
+2 Bonecrusher Giant
+2 Essence Scatter
+2 Rewind
+3 Rewind
+3 Bonecrusher Giant
+3 Rain of Revelation
 4 Brazen Borrower
-4 Ionize
+4 Rewind
+4 Rain of Revelation
 4 Bonecrusher Giant
-4 Lofty Denial
-1 Banishing Light
-2 Banishing Light
-3 Glass Casket
-4 Glass Casket
+1 Whirlwind Denial
+1 Frantic Inventory
+2 Frantic Inventory
+2 Whirlwind Denial
+2 Mystical Dispute
+2 Dovin's Veto
+2 Dream Trawler
+3 Dream Trawler
+3 Frantic Inventory
+3 Absorb
+4 Dream Trawler
 4 Absorb
+4 Frantic Inventory
 5 Plains
+1 Cultivate
+1 Ashiok, Dream Render
+2 Cultivate
+2 Ashiok, Dream Render
+3 Castle Vantress
+3 Teferi, Master of Time
+3 Ashiok, Dream Render
+4 Aether Gust
+4 Teferi, Master of Time
+6 Forest
+7 Forest
+1 Shock
+1 Crash Through
+1 Unsummon
+1 Spectral Sailor
+1 Lofty Denial
+1 Sprite Dragon
+1 Pteramander
+2 Shock
+2 Lofty Denial
+2 Unsummon
+2 Spectral Sailor
+2 Miscast
+2 Pteramander
+2 Crash Through
+2 Sprite Dragon
+3 Sprite Dragon
+3 Spectral Sailor
+3 Temple of Epiphany
+3 Shock
+3 Pteramander
+3 Crash Through
+4 Spectral Sailor
+4 Pteramander
+4 Sprite Dragon
+4 Temple of Epiphany
+6 Island
+7 Island
+8 Island
 1 Vampire of the Dire Moon
 1 Orzhov Enforcer
 1 Epic Downfall
