@@ -67,8 +67,8 @@
 1 Ominous Seas
 1 God-Eternal Kefnet
 1 Flame Sweep
-2 Flame Sweep
 2 Ominous Seas
+2 Flame Sweep
 3 Flame Sweep
 3 Ominous Seas
 3 Finale of Promise
@@ -76,17 +76,27 @@
 1 Merchant of the Vale
 2 Merchant of the Vale
 1 Embercleave
-1 Raking Claws
-2 Raking Claws
 1 Lore Drakkis
 2 Lore Drakkis
 1 Experimental Overload
 2 Experimental Overload
+1 Raking Claws
+2 Raking Claws
 1 Castle Embereth
 1 Lava Coil
 2 The Royal Scions
 2 Lava Coil
 3 The Royal Scions
+1 Soul Sear
+1 Faerie Vandal
+1 Miscast
+2 Faerie Vandal
+2 Soul Sear
+2 Miscast
+3 Faerie Vandal
+3 Soul Sear
+4 Faerie Vandal
+4 Crackling Drake
 1 Shark Typhoon
 2 Shark Typhoon
 2 Castle Vantress
@@ -98,16 +108,6 @@
 4 Brazen Borrower
 4 Bonecrusher Giant
 4 Scorching Dragonfire
-1 Soul Sear
-1 Faerie Vandal
-1 Miscast
-2 Faerie Vandal
-2 Soul Sear
-2 Miscast
-3 Faerie Vandal
-3 Soul Sear
-4 Faerie Vandal
-4 Crackling Drake
 1 Merfolk Secretkeeper
 1 Arclight Phoenix
 1 Ox of Agonas
@@ -141,9 +141,9 @@
 3 Maximize Velocity
 4 Maximize Velocity
 1 Omen of the Sea
+1 Go for Blood
 1 Negate
 1 Fire Prophecy
-1 Go for Blood
 1 Nadir Kraken
 1 Reconnaissance Mission
 2 Omen of the Sea

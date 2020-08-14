@@ -126,6 +126,6 @@
 |                   17|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                    1|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)            |
 |                   18|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                    2|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)            |
 |                   19|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                    3|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)         |
-|                     |                                                                                                 |                    3|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)            |
 |                     |                                                                                                 |                    4|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)            |
+|                     |                                                                                                 |                    3|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)            |
 

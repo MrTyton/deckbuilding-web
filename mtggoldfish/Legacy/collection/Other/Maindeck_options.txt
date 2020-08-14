@@ -274,8 +274,8 @@
 3 Jace, the Mind Sculptor
 3 Dovin, Hand of Control
 4 Teferi, Time Raveler
-4 Elvish Spirit Guide
 4 Interplanar Beacon
+4 Elvish Spirit Guide
 2 Vault Skirge
 3 Tropical Island
 4 Tropical Island
@@ -392,10 +392,10 @@
 3 Red Elemental Blast
 3 Volcanic Island
 3 Preordain
-4 Dreadhorde Arcanist
 4 Volcanic Island
 4 Preordain
 4 Painter's Servant
+4 Dreadhorde Arcanist
 1 Shambling Shell
 1 Nether Shadow
 1 Phantasmagorian
@@ -575,6 +575,61 @@
 6 Mountain
 7 Mountain
 8 Mountain
+1 Imperious Perfect
+1 Llanowar Visionary
+1 Craterhoof Behemoth
+1 Elvish Visionary
+1 Autumn's Veil
+1 Birds of Paradise
+1 Elvish Clancaller
+1 Llanowar Elves
+1 Somberwald Sage
+1 Elvish Mystic
+1 Elvish Promenade
+1 Archon of Valor's Reach
+1 Elvish Archdruid
+1 Lys Alana Huntmaster
+1 Joraga Warcaller
+1 Dwynen, Gilt-Leaf Daen
+1 Jagged-Scar Archers
+1 Elvish Piper
+1 Gaea's Cradle
+2 Imperious Perfect
+2 Birds of Paradise
+2 Llanowar Visionary
+2 Elvish Visionary
+2 Jagged-Scar Archers
+2 Somberwald Sage
+2 Elvish Piper
+2 Elvish Archdruid
+2 Joraga Warcaller
+2 Gaea's Cradle
+2 Lys Alana Huntmaster
+2 Dwynen, Gilt-Leaf Daen
+2 Elvish Clancaller
+2 Llanowar Elves
+2 Elvish Mystic
+2 Craterhoof Behemoth
+2 Elvish Promenade
+2 Archon of Valor's Reach
+3 Elvish Clancaller
+3 Llanowar Elves
+3 Elvish Mystic
+3 Lys Alana Huntmaster
+3 Gaea's Cradle
+4 Gaea's Cradle
+4 Elvish Mystic
+4 Lys Alana Huntmaster
+4 Elvish Clancaller
+4 Llanowar Elves
+5 Forest
+6 Forest
+7 Forest
+8 Forest
+9 Forest
+10 Forest
+11 Forest
+12 Forest
 1 Infernal Tutor
 1 Grave Titan
 1 Tendrils of Agony
@@ -617,58 +672,3 @@
 13 Swamp
 14 Swamp
 15 Swamp
-1 Llanowar Visionary
-1 Imperious Perfect
-1 Craterhoof Behemoth
-1 Elvish Visionary
-1 Autumn's Veil
-1 Birds of Paradise
-1 Elvish Clancaller
-1 Llanowar Elves
-1 Somberwald Sage
-1 Elvish Mystic
-1 Elvish Promenade
-1 Archon of Valor's Reach
-1 Elvish Archdruid
-1 Lys Alana Huntmaster
-1 Joraga Warcaller
-1 Dwynen, Gilt-Leaf Daen
-1 Jagged-Scar Archers
-1 Elvish Piper
-1 Gaea's Cradle
-2 Llanowar Visionary
-2 Imperious Perfect
-2 Birds of Paradise
-2 Elvish Visionary
-2 Jagged-Scar Archers
-2 Somberwald Sage
-2 Elvish Piper
-2 Elvish Archdruid
-2 Joraga Warcaller
-2 Gaea's Cradle
-2 Lys Alana Huntmaster
-2 Dwynen, Gilt-Leaf Daen
-2 Elvish Clancaller
-2 Llanowar Elves
-2 Elvish Mystic
-2 Craterhoof Behemoth
-2 Elvish Promenade
-2 Archon of Valor's Reach
-3 Elvish Clancaller
-3 Llanowar Elves
-3 Elvish Mystic
-3 Lys Alana Huntmaster
-3 Gaea's Cradle
-4 Gaea's Cradle
-4 Elvish Mystic
-4 Lys Alana Huntmaster
-4 Elvish Clancaller
-4 Llanowar Elves
-5 Forest
-7 Forest
-8 Forest
-9 Forest
-10 Forest
-11 Forest
-12 Forest
-6 Forest

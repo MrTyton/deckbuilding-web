@@ -1,7 +1,7 @@
-2 Sea-Dasher Octopus
 4 Gemrazer
 1 Questing Beast
 2 Questing Beast
+2 Sea-Dasher Octopus
 2 Stonecoil Serpent
 3 Gilded Goose
 3 End-Raze Forerunners
@@ -10,37 +10,60 @@
 3 Sea-Dasher Octopus
 1 Illuna, Apex of Wishes
 2 Illuna, Apex of Wishes
+3 Stonecoil Serpent
+1 Nissa, Who Shakes the World
+2 Nissa, Who Shakes the World
 1 Parcelbeast
 2 Parcelbeast
 3 Parcelbeast
-1 Nissa, Who Shakes the World
-2 Nissa, Who Shakes the World
 1 Trumpeting Gnarr
 2 Trumpeting Gnarr
 7 Island
 8 Island
+1 Mountain
 2 Castle Vantress
-3 Stonecoil Serpent
 12 Forest
 1 Ugin, the Spirit Dragon
 2 Ugin, the Spirit Dragon
+4 Stonecoil Serpent
+3 Questing Beast
+1 Terror of the Peaks
+1 Stomping Ground
+2 Terror of the Peaks
+2 Stomping Ground
+2 Mountain
+3 Stomping Ground
+3 Mountain
+4 Stomping Ground
 4 Sea-Dasher Octopus
+4 Parcelbeast
 1 Zagoth Triome
+1 Scavenging Ooze
 1 Dreamtail Heron
 2 Dreamtail Heron
 9 Island
-4 Parcelbeast
-1 Mountain
-4 Stonecoil Serpent
-3 Questing Beast
+4 Questing Beast
+1 Radha, Heart of Keld
+1 Temple of Abandon
+1 Marauding Raptor
+2 Marauding Raptor
+2 Temple of Abandon
+3 Temple of Abandon
+3 Marauding Raptor
+4 Mountain
+4 Temple of Abandon
+4 Marauding Raptor
+5 Mountain
+3 Terror of the Peaks
+4 Gilded Goose
 1 Yorvo, Lord of Garenbrig
 1 Season of Growth
 2 Season of Growth
 3 Season of Growth
 4 Season of Growth
-1 Scavenging Ooze
 1 Essence Symbiote
 1 Glowstone Recluse
+1 Shifting Ceratops
 1 Fabled Passage
 2 Fabled Passage
 3 Illuna, Apex of Wishes
@@ -49,18 +72,11 @@
 2 Ketria Triome
 3 Ketria Triome
 4 Ketria Triome
-4 Gilded Goose
-4 Questing Beast
-1 Shifting Ceratops
-1 Terror of the Peaks
-1 Radha, Heart of Keld
-1 Stomping Ground
-2 Stomping Ground
-2 Terror of the Peaks
-2 Mountain
-3 Stomping Ground
-3 Mountain
-4 Stomping Ground
+2 Radha, Heart of Keld
+1 Embercleave
+2 Embercleave
+6 Mountain
+1 Primal Might
 2 Zagoth Triome
 1 Ranger's Guile
 1 Thornwood Falls
@@ -77,30 +93,38 @@
 2 Essence Symbiote
 3 Essence Symbiote
 3 Ugin, the Spirit Dragon
-1 Vampire of the Dire Moon
 1 Watery Grave
+1 Vampire of the Dire Moon
 1 Temple of Deceit
 1 Chittering Harvester
 1 Insatiable Hemophage
 1 Sparkhunter Masticore
 1 Castle Locthwain
 1 Zagoth Mamba
-2 Vampire of the Dire Moon
 2 Zagoth Mamba
 2 Sparkhunter Masticore
+2 Vampire of the Dire Moon
+2 Chittering Harvester
 2 Nethroi, Apex of Death
 2 Insatiable Hemophage
-2 Chittering Harvester
 3 Insatiable Hemophage
 3 Zagoth Triome
 1 Steam Vents
 2 Steam Vents
-2 Radha, Heart of Keld
 3 Steam Vents
-3 Terror of the Peaks
 4 Steam Vents
-1 Uro, Titan of Nature's Wrath
+1 Elder Gargaroth
+1 Bonecrusher Giant
+1 Klothys, God of Destiny
+2 Bonecrusher Giant
+2 Scavenging Ooze
+2 Elder Gargaroth
+3 Embercleave
+3 Bonecrusher Giant
+3 Elder Gargaroth
+4 Terror of the Peaks
 1 Umori, the Collector
+1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 2 Umori, the Collector
 3 Uro, Titan of Nature's Wrath
@@ -110,34 +134,24 @@
 1 Lead the Stampede
 2 Lead the Stampede
 2 Meteor Golem
-3 Trumpeting Gnarr
 3 Thornwood Falls
+3 Trumpeting Gnarr
 4 Thornwood Falls
 4 Trumpeting Gnarr
 1 Hydroid Krasis
 2 Hydroid Krasis
 3 Nissa, Who Shakes the World
 4 Nissa, Who Shakes the World
-1 Temple of Abandon
-1 Marauding Raptor
-1 Mobilized District
 1 Ravager Wurm
-2 Marauding Raptor
+1 Mobilized District
 2 Shifting Ceratops
-2 Temple of Abandon
 3 Shifting Ceratops
-3 Temple of Abandon
-3 Marauding Raptor
-4 Marauding Raptor
 4 Shifting Ceratops
-4 Mountain
-4 Temple of Abandon
-5 Mountain
-1 Murderous Rider
 1 Dirge Bat
-1 Polukranos, Unchained
 1 Brokkos, Apex of Forever
+1 Polukranos, Unchained
 1 Jungle Hollow
+1 Murderous Rider
 1 Boneyard Lurker
 1 Cavalier of Thorns
 2 Murderous Rider
@@ -145,27 +159,33 @@
 2 Polukranos, Unchained
 2 Dirge Bat
 2 Boneyard Lurker
-3 Murderous Rider
 3 Boneyard Lurker
+3 Murderous Rider
 3 Jungle Hollow
 3 Dirge Bat
 4 Swamp
 4 Jungle Hollow
 5 Swamp
 6 Swamp
+1 Garruk, Unleashed
+1 Skarrgan Hellkite
+2 Garruk, Unleashed
+2 Skarrgan Hellkite
+7 Mountain
+8 Mountain
 1 Essence Scatter
 1 Titanoth Rex
+1 Kogla, the Titan Ape
 1 Hornbash Mentor
 1 Fully Grown
-1 Kogla, the Titan Ape
 1 Kasmina's Transmutation
 1 Archipelagore
 1 Neutralize
 2 Ranger's Guile
 2 Fully Grown
 2 Essence Scatter
-2 Hornbash Mentor
 2 Archipelagore
+2 Hornbash Mentor
 2 Kasmina's Transmutation
 2 Neutralize
 2 Titanoth Rex
@@ -173,7 +193,6 @@
 3 Neutralize
 10 Island
 1 Nylea, Keen-Eyed
-1 Primal Might
 1 Vivien, Arkbow Ranger
 2 Primal Might
 2 Vivien, Arkbow Ranger

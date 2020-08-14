@@ -1,75 +1,80 @@
-1 Pithing Needle
-1 Grafdigger's Cage
-2 Grafdigger's Cage
-1 Declaration in Stone
-1 Damping Sphere
-2 Damping Sphere
-2 Declaration in Stone
-1 Destructive Revelry
-1 Valorous Stance
-2 Destructive Revelry
-2 Valorous Stance
-3 Declaration in Stone
-3 Damping Sphere
-3 Destructive Revelry
 1 Aether Gust
-2 Aether Gust
-1 Negate
-2 Negate
-1 Disdainful Stroke
-2 Disdainful Stroke
 1 Mystical Dispute
 2 Mystical Dispute
-3 Aether Gust
-4 Scavenging Ooze
+2 Aether Gust
+2 Scavenging Ooze
+1 Disdainful Stroke
+2 Disdainful Stroke
+1 Negate
+2 Negate
 3 Mystical Dispute
+3 Scavenging Ooze
 1 Heroic Intervention
-1 Fatal Push
-2 Fatal Push
-1 Thoughtseize
-2 Thoughtseize
-1 Cindervines
-2 Cindervines
-1 Rest in Peace
-2 Rest in Peace
 1 Fry
+1 Abrade
+2 Abrade
+2 Fry
+1 Anger of the Gods
 1 Chandra, Awakened Inferno
 2 Chandra, Awakened Inferno
-1 Lava Coil
-2 Lava Coil
-1 Abrade
-1 Anger of the Gods
-2 Anger of the Gods
-3 Anger of the Gods
+3 Aether Gust
+1 Rest in Peace
+2 Rest in Peace
+4 Scavenging Ooze
 1 Glorybringer
 2 Glorybringer
-2 Abrade
+2 Anger of the Gods
+3 Anger of the Gods
+1 Sarkhan the Masterless
+1 Lava Coil
+2 Lava Coil
+4 Mystical Dispute
+1 Chandra, Heart of Fire
+2 Chandra, Heart of Fire
+1 Chandra's Defeat
+2 Heroic Intervention
+1 Cindervines
+2 Cindervines
+1 Wilt
 1 Tormod's Crypt
 1 Hope of Ghirapur
 2 Pithing Needle
 2 Hope of Ghirapur
-1 Chandra's Defeat
-2 Fry
-1 Nightpack Ambusher
+1 Soul-Guide Lantern
+1 Neutralize
+1 Scorching Dragonfire
+2 Neutralize
 1 Lead the Stampede
 1 Shifting Ceratops
-2 Nightpack Ambusher
+1 Nightpack Ambusher
 2 Lead the Stampede
 2 Shifting Ceratops
-1 Soul-Guide Lantern
+2 Nightpack Ambusher
+2 Wilt
+1 Mazemind Tome
 1 Jhoira, Weatherlight Captain
 1 Metallic Rebuke
 1 Radiant Flames
-2 Mazemind Tome
 2 Metallic Rebuke
+2 Mazemind Tome
 2 Radiant Flames
+1 Questing Beast
+1 Oakhame Adversary
+1 Primal Might
+1 Prowling Serpopard
+1 Gemrazer
+2 Questing Beast
+2 Oakhame Adversary
+2 Primal Might
+2 Gemrazer
+2 Prowling Serpopard
 1 Noxious Grasp
+2 Noxious Grasp
 1 Legion's End
 1 Ashiok, Dream Render
 1 Pharika's Libation
 1 Unmoored Ego
 1 Enter the God-Eternals
-2 Noxious Grasp
 2 Legion's End
 2 Ashiok, Dream Render
 2 Unmoored Ego
@@ -83,19 +88,19 @@
 2 Collective Brutality
 2 Bontu's Last Reckoning
 3 Collective Brutality
+1 Wild Slash
+1 Stubborn Denial
+1 Lightning Axe
+1 Redcap Melee
+2 Wild Slash
+2 Stubborn Denial
+2 Redcap Melee
+3 Wild Slash
+3 Stubborn Denial
 1 Star of Extinction
 1 Oracle of Bones
 2 Oracle of Bones
 3 Glorybringer
-1 Stubborn Denial
-1 Wild Slash
-1 Lightning Axe
-1 Redcap Melee
-2 Stubborn Denial
-2 Wild Slash
-2 Redcap Melee
-3 Stubborn Denial
-3 Wild Slash
 1 Selfless Spirit
 2 Selfless Spirit
 3 Selfless Spirit
@@ -123,6 +128,20 @@
 2 Tormod's Crypt
 2 Baral's Expertise
 3 Negate
+1 Tamiyo, Collector of Tales
+1 Thoughtseize
+2 Thoughtseize
+1 Heartless Act
+1 Reclamation Sage
+1 Tale's End
+1 Jace, Vryn's Prodigy
+1 Nissa, Steward of Elements
+1 Hostage Taker
+2 Tale's End
+2 Jace, Vryn's Prodigy
+3 Noxious Grasp
+1 Fatal Push
+2 Fatal Push
 3 Fatal Push
 1 Dreadbore
 1 Korvold, Fae-Cursed King
@@ -131,16 +150,17 @@
 2 Korvold, Fae-Cursed King
 3 Claim the Firstborn
 1 Hunt the Hunter
-2 Heroic Intervention
 3 Heroic Intervention
 3 Lava Coil
-1 Assassin's Trophy
-1 Garruk, Cursed Huntsman
-1 Jegantha, the Wellspring
-1 Hornet Nest
-1 Garruk, Apex Predator
-2 Hornet Nest
-3 Grafdigger's Cage
+1 Settle the Wreckage
+1 Surge of Righteousness
+1 Dragonlord Ojutai
+1 Lyra Dawnbringer
+1 Horribly Awry
+2 Surge of Righteousness
+2 Settle the Wreckage
+3 Surge of Righteousness
+3 Settle the Wreckage
 1 Lavinia of the Tenth
 1 Giant Killer
 1 Bonecrusher Giant
@@ -172,44 +192,32 @@
 3 Apostle of Purifying Light
 4 Rest in Peace
 4 Apostle of Purifying Light
-1 Sarkhan the Masterless
 1 Rending Volley
 2 Sarkhan the Masterless
 2 Rending Volley
 3 Chandra, Torch of Defiance
 4 Anger of the Gods
+1 Ulamog, the Ceaseless Hunger
+1 Emrakul, the Promised End
 3 Disdainful Stroke
 4 Aether Gust
-1 Chandra, Heart of Fire
 1 Anax, Hardened in the Forge
 1 Hazoret the Fervent
 2 Soul-Guide Lantern
-2 Chandra, Heart of Fire
 2 Chandra's Defeat
 2 Hazoret the Fervent
 2 Anax, Hardened in the Forge
 3 Soul-Guide Lantern
 3 Chandra's Defeat
 4 Soul-Guide Lantern
-1 Settle the Wreckage
-1 Surge of Righteousness
-1 Dragonlord Ojutai
-1 Lyra Dawnbringer
-1 Horribly Awry
-2 Surge of Righteousness
-2 Settle the Wreckage
-3 Surge of Righteousness
-3 Settle the Wreckage
-4 Mystical Dispute
-1 Tamiyo, Collector of Tales
 1 Hornet Queen
 1 Vivien Reid
 1 Entrancing Melody
+1 Return to Nature
 2 Return to Nature
 2 Entrancing Melody
 3 Entrancing Melody
 4 Entrancing Melody
-1 Heartless Act
 1 Liliana's Mastery
 1 Drill Bit
 1 Lifebane Zombie
