@@ -1,3 +1,4 @@
+1 Batterskull
 1 Path to Exile
 1 Lingering Souls
 2 Lingering Souls
@@ -26,7 +27,6 @@
 2 Bitterblossom
 2 Windbrisk Heights
 3 Bitterblossom
-2 Unearth
 1 Liliana of the Veil
 2 Liliana of the Veil
 3 Shambling Vent
@@ -36,15 +36,15 @@
 2 Dark Confidant
 1 Snow-Covered Plains
 2 Snow-Covered Plains
-1 Tectonic Edge
 1 Thalia, Guardian of Thraben
-1 Eldrazi Displacer
 1 Thought-Knot Seer
 1 Leonin Arbiter
 1 Flickerwisp
 1 Aether Vial
 1 Eldrazi Temple
+1 Eldrazi Displacer
 1 Ghost Quarter
+1 Tectonic Edge
 2 Flickerwisp
 2 Thalia, Guardian of Thraben
 2 Leonin Arbiter
@@ -58,8 +58,8 @@
 3 Eldrazi Displacer
 3 Giver of Runes
 3 Eldrazi Temple
-3 Leonin Arbiter
 3 Thought-Knot Seer
+3 Leonin Arbiter
 3 Aether Vial
 4 Caves of Koilos
 4 Eldrazi Temple
@@ -84,9 +84,9 @@
 1 Smallpox
 2 Flagstones of Trokair
 2 Smallpox
-3 Swamp
 3 Flagstones of Trokair
 3 Smallpox
+3 Swamp
 4 Flagstones of Trokair
 4 Smallpox
 3 Dark Confidant
@@ -111,9 +111,9 @@
 2 Windswept Heath
 2 Wooded Foothills
 2 Overgrown Tomb
-2 Siege Rhino
 2 Nurturing Peatland
 2 Assassin's Trophy
+2 Siege Rhino
 2 Scavenging Ooze
 3 Wooded Foothills
 3 Voice of Resurgence
@@ -141,6 +141,12 @@
 1 Field of Ruin
 2 Snow-Covered Swamp
 2 Field of Ruin
+1 Polluted Delta
+1 Flooded Strand
+2 Polluted Delta
+2 Flooded Strand
+3 Flooded Strand
+3 Polluted Delta
 1 Mana Tithe
 2 Elspeth, Sun's Nemesis
 3 Kaya's Guile

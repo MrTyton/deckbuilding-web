@@ -41,9 +41,9 @@
 1 Castle Garenbrig
 1 Vivien, Monsters' Advocate
 1 Garruk's Harbinger
-1 Marauding Raptor
 1 Gemrazer
 1 Garruk, Unleashed
+1 Marauding Raptor
 1 Shifting Ceratops
 1 Primal Might
 2 Garruk's Harbinger
@@ -199,6 +199,7 @@
 1 Lurrus of the Dream-Den
 2 Lurrus of the Dream-Den
 1 Boon of the Wish-Giver
+1 Imposing Vantasaur
 1 Startling Development
 1 Steam Vents
 1 Hallowed Fountain
@@ -206,15 +207,14 @@
 1 Flourishing Fox
 1 Drannith Stinger
 1 Unpredictable Cyclone
-1 Imposing Vantasaur
 1 Valiant Rescuer
 1 Drannith Healer
 1 Zenith Flare
 1 Raugrin Triome
 2 Boon of the Wish-Giver
 2 Raugrin Triome
-2 Drannith Stinger
 2 Imposing Vantasaur
+2 Drannith Stinger
 2 Valiant Rescuer
 2 Drannith Healer
 2 Zenith Flare
@@ -267,6 +267,7 @@
 2 Slitherwisp
 3 Brazen Borrower
 3 Sea-Dasher Octopus
+3 Dirge Bat
 3 Cunning Nightbonder
 3 Heartless Act
 3 Mystical Dispute
@@ -274,8 +275,8 @@
 3 Temple of Deceit
 3 Brineborn Cutthroat
 3 Spectral Sailor
-3 Dirge Bat
 3 Watery Grave
+4 Temple of Deceit
 4 Brazen Borrower
 4 Sea-Dasher Octopus
 4 Cunning Nightbonder
@@ -283,7 +284,6 @@
 4 Spectral Sailor
 4 Brineborn Cutthroat
 4 Slitherwisp
-4 Temple of Deceit
 4 Watery Grave
 6 Island
 7 Island
@@ -321,6 +321,7 @@
 12 Forest
 13 Forest
 14 Forest
+1 Acolyte of Affliction
 1 Zagoth Triome
 1 Golgari Findbroker
 1 Vito, Thorn of the Dusk Rose
@@ -332,7 +333,7 @@
 1 Cling to Dust
 1 Vampire Opportunist
 1 Biomancer's Familiar
-1 Acolyte of Affliction
+2 Acolyte of Affliction
 2 Zagoth Triome
 2 Golgari Findbroker
 2 Vito, Thorn of the Dusk Rose
@@ -341,13 +342,12 @@
 2 Biomancer's Familiar
 2 Neoform
 2 Thirsting Shade
-2 Acolyte of Affliction
 2 Thassa, Deep-Dwelling
+3 Casualties of War
 3 Thirsting Shade
 3 Vampire Opportunist
 3 Knight of the Ebon Legion
 3 Biomancer's Familiar
-3 Casualties of War
 3 Neoform
 4 Casualties of War
 4 Neoform

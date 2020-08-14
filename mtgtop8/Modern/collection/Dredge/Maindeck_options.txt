@@ -1,15 +1,10 @@
-1 Arid Mesa
-4 Wooded Foothills
-4 Bloodstained Mire
-3 Golgari Thug
-1 Bloodghast
-4 Narcomoeba
-2 Arid Mesa
-1 Dakmor Salvage
-2 Bloodghast
-3 Bloodghast
+2 Forgotten Cave
+4 Life from the Loam
 2 Smiting Helix
-3 Arid Mesa
+3 Golgari Thug
+1 Arid Mesa
+2 Arid Mesa
+4 Narcomoeba
 1 Verdant Catacombs
 1 Overgrown Tomb
 1 Merfolk Secretkeeper
@@ -47,9 +42,9 @@
 1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
+3 Arid Mesa
 2 Conflagrate
-4 Arid Mesa
-3 Copperline Gorge
+1 Bloodghast
 1 Misty Rainforest
 1 Breeding Pool
 2 Misty Rainforest
@@ -62,17 +57,15 @@
 2 Breeding Pool
 3 Uro, Titan of Nature's Wrath
 4 Misty Rainforest
-1 Darkblast
-4 Bloodghast
+1 Dakmor Salvage
+2 Bloodghast
+3 Bloodghast
+4 Arid Mesa
 1 Gurmag Angler
 1 Skaab Ruinator
 4 Gravecrawler
 1 Mana Confluence
 1 Gemstone Caverns
-1 Blast Zone
-1 Blackcleave Cliffs
-1 Steam Vents
-2 Blackcleave Cliffs
 1 Snow-Covered Island
 1 Snow-Covered Swamp
 1 Darkslick Shores
@@ -80,6 +73,13 @@
 2 Darkslick Shores
 3 Gurmag Angler
 4 Gurmag Angler
+1 Darkblast
+1 Blast Zone
+1 Blackcleave Cliffs
+1 Steam Vents
+2 Blackcleave Cliffs
+3 Copperline Gorge
+4 Bloodghast
 1 Carrion Feeder
 1 Marsh Flats
 2 Carrion Feeder
@@ -88,9 +88,6 @@
 3 Watery Grave
 3 Overgrown Tomb
 4 Watery Grave
-3 Stomping Ground
-4 Merchant of the Vale
-4 Copperline Gorge
 1 Inspiring Vantage
 2 Sacred Foundry
 2 Inspiring Vantage

@@ -154,9 +154,9 @@
 5 Island
 6 Island
 1 Field of Ruin
-1 Censor
-1 Temple of Enlightenment
 1 Irrigated Farmland
+1 Temple of Enlightenment
+1 Censor
 1 Teferi, Master of Time
 1 Dig Through Time
 1 Supreme Verdict
@@ -177,8 +177,8 @@
 2 Castle Ardenvale
 2 Absorb
 2 Supreme Verdict
-2 Baffling End
 2 Omen of the Sun
+2 Baffling End
 2 Omen of the Sea
 2 Azorius Charm
 2 Temple of Enlightenment
@@ -431,25 +431,25 @@
 1 Gifted Aetherborn
 1 Fatal Push
 1 Murderous Rider
-2 Fetid Pools
 2 Atris, Oracle of Half-Truths
+2 Fetid Pools
 2 Tasigur, the Golden Fang
 2 Aether Hub
 2 Glint-Sleeve Siphoner
 2 Drown in the Loch
 2 Thief of Sanity
+2 Collective Brutality
 2 Kalitas, Traitor of Ghet
 2 Gifted Aetherborn
 2 Drowned Catacomb
 2 Fatal Push
 2 Murderous Rider
 2 Ashiok, Nightmare Weaver
-2 Collective Brutality
 3 Fetid Pools
 3 Drown in the Loch
 3 Aether Hub
-3 Glint-Sleeve Siphoner
 3 Thief of Sanity
+3 Glint-Sleeve Siphoner
 3 Drowned Catacomb
 3 Murderous Rider
 3 Fatal Push
@@ -591,22 +591,22 @@
 8 Plains
 9 Plains
 1 Nahiri, the Harbinger
-1 Shatter the Sky
 1 Transmogrify
 1 Deafening Clarion
 1 Gideon of the Trials
 1 Heart of Kiran
 1 Gideon, Ally of Zendikar
-1 Gideon Blackblade
 1 Void Winnower
+1 Gideon Blackblade
+1 Shatter the Sky
 1 Gideon's Triumph
 2 Transmogrify
-2 Deafening Clarion
 2 Nahiri, the Harbinger
+2 Deafening Clarion
 2 Shatter the Sky
 2 Heart of Kiran
-2 Gideon of the Trials
 2 Gideon, Ally of Zendikar
+2 Gideon of the Trials
 2 Gideon Blackblade
 3 Gideon of the Trials
 3 Temple of Triumph
@@ -719,22 +719,22 @@
 12 Island
 13 Island
 14 Island
+1 Cryptbreaker
 1 Dark Salvation
 1 Death Baron
-1 Cryptbreaker
 1 Dread Wanderer
 1 Graveyard Marshal
 1 Lazotep Reaver
 1 Diregraf Ghoul
 1 Lord of the Accursed
 1 Diregraf Colossus
+2 Cryptbreaker
 2 Dread Wanderer
 2 Lazotep Reaver
 2 Diregraf Ghoul
 2 Dark Salvation
 2 Lord of the Accursed
 2 Death Baron
-2 Cryptbreaker
 2 Diregraf Colossus
 3 Cryptbreaker
 3 Death Baron
@@ -818,13 +818,13 @@
 1 Pirate's Pillage
 2 Terror of the Peaks
 2 Forbidden Friendship
-2 Chandra, Acolyte of Flame
 2 Dwarven Mine
+2 Chandra, Acolyte of Flame
 2 Pirate's Pillage
 2 Abrade
 2 Indomitable Creativity
-3 Chandra, Acolyte of Flame
 3 Saheeli, Sublime Artificer
+3 Chandra, Acolyte of Flame
 3 Forbidden Friendship
 3 Dwarven Mine
 3 Abrade

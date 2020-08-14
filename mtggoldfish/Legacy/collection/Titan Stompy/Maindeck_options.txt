@@ -14,13 +14,13 @@
 1 Thespian's Stage
 1 Dark Depths
 2 Life from the Loam
-1 Polukranos, Unchained
 1 Fierce Empath
-1 Collector Ouphe
+1 Polukranos, Unchained
 1 Volrath's Stronghold
-1 Swamp
-1 Castle Locthwain
 1 Arasta of the Endless Web
+1 Castle Locthwain
+1 Swamp
+1 Collector Ouphe
 1 Grasping Dunes
 1 Hogaak, Arisen Necropolis
 2 Fierce Empath
@@ -48,8 +48,8 @@
 3 Crop Rotation
 3 Life from the Loam
 3 Exploration
-4 Crop Rotation
 4 Life from the Loam
+4 Crop Rotation
 4 Exploration
 1 Thought-Knot Seer
 1 Elder Gargaroth
@@ -58,12 +58,8 @@
 2 Shifting Ceratops
 3 Thought-Knot Seer
 4 Cavern of Souls
-1 Taiga
 1 Leovold, Emissary of Trest
-1 Cabal Therapy
-1 Khalni Garden
-2 Cabal Therapy
-3 Cabal Therapy
+1 Taiga
 1 Manabond
 1 Breeding Pool
 2 Waterlogged Grove
@@ -72,6 +68,10 @@
 3 Ghost Quarter
 3 Field of the Dead
 3 Tropical Island
+1 Khalni Garden
+1 Cabal Therapy
+2 Cabal Therapy
+3 Cabal Therapy
 1 Karn, the Great Creator
 1 Overgrown Tomb
 1 City of Traitors
@@ -87,8 +87,8 @@
 1 Zagoth Triome
 1 Oko, Thief of Crowns
 2 Thespian's Stage
-2 Rishadan Port
 2 Oko, Thief of Crowns
+2 Rishadan Port
 3 Oko, Thief of Crowns
 3 Rishadan Port
 4 Rishadan Port

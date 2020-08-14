@@ -21,14 +21,14 @@
 4 Uro, Titan of Nature's Wrath
 1 Prismatic Vista
 2 Hallowed Fountain
-1 Abundant Growth
 1 Primeval Titan
 1 Hinterland Harbor
+1 Abundant Growth
 1 Forest
-2 Abundant Growth
 2 Polluted Delta
 2 Primeval Titan
 2 Scalding Tarn
+2 Abundant Growth
 3 Abundant Growth
 3 Field of the Dead
 1 Windswept Heath
@@ -63,30 +63,6 @@
 2 Island
 3 Remand
 4 Remand
-1 Ephemerate
-1 Soulherder
-1 Canopy Vista
-1 Venser, Shaper Savant
-1 Time Warp
-1 Eternal Witness
-1 Eladamri's Call
-1 Coiling Oracle
-2 Ephemerate
-2 Soulherder
-2 Coiling Oracle
-2 Venser, Shaper Savant
-2 Time Warp
-2 Eternal Witness
-2 Prismatic Vista
-2 Prairie Stream
-3 Ephemerate
-3 Eternal Witness
-3 Coiling Oracle
-3 Prismatic Vista
-3 Soulherder
-4 Ephemerate
-4 Coiling Oracle
-4 Soulherder
 1 Birds of Paradise
 1 Ghost Quarter
 1 Sword of Fire and Ice
@@ -99,10 +75,10 @@
 2 Birds of Paradise
 2 Karn, the Great Creator
 2 Temple Garden
+2 Ghost Quarter
 2 Mwonvuli Acid-Moss
 2 Utopia Sprawl
 2 Scavenging Ooze
-2 Ghost Quarter
 2 Stoneforge Mystic
 3 Mwonvuli Acid-Moss
 3 Karn, the Great Creator
@@ -119,3 +95,27 @@
 4 Utopia Sprawl
 4 Windswept Heath
 4 Karn, the Great Creator
+1 Venser, Shaper Savant
+1 Soulherder
+1 Ephemerate
+1 Time Warp
+1 Eternal Witness
+1 Eladamri's Call
+1 Canopy Vista
+1 Coiling Oracle
+2 Ephemerate
+2 Coiling Oracle
+2 Eternal Witness
+2 Time Warp
+2 Prismatic Vista
+2 Prairie Stream
+2 Venser, Shaper Savant
+2 Soulherder
+3 Ephemerate
+3 Coiling Oracle
+3 Eternal Witness
+3 Prismatic Vista
+3 Soulherder
+4 Soulherder
+4 Ephemerate
+4 Coiling Oracle

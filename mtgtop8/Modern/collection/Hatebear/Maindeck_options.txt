@@ -39,34 +39,34 @@
 2 Lurrus of the Dream-Den
 1 Winds of Abandon
 1 Sunbaked Canyon
-1 Inspiring Vantage
 1 Sacred Foundry
-1 Seasoned Pyromancer
+1 Inspiring Vantage
 1 Remorseful Cleric
 1 Mountain
 1 Magus of the Moon
+1 Seasoned Pyromancer
 1 Seal of Fire
 2 Magus of the Moon
 2 Sunbaked Canyon
-2 Inspiring Vantage
 2 Sacred Foundry
+2 Inspiring Vantage
 2 Remorseful Cleric
 2 Seasoned Pyromancer
 2 Seal of Fire
 3 Magus of the Moon
-3 Sunbaked Canyon
 3 Inspiring Vantage
+3 Sunbaked Canyon
 3 Sacred Foundry
 3 Seal of Fire
 4 Magus of the Moon
+4 Sacred Foundry
 4 Sunbaked Canyon
 4 Inspiring Vantage
-4 Sacred Foundry
 4 Seal of Fire
-1 Eternal Witness
 1 Razorverge Thicket
-1 Stirring Wildwood
 1 Knight of Autumn
+1 Stirring Wildwood
+1 Eternal Witness
 1 Noble Hierarch
 1 Forest
 1 Scavenging Ooze
@@ -77,8 +77,8 @@
 2 Scavenging Ooze
 3 Temple Garden
 3 Razorverge Thicket
-3 Blade Splicer
 3 Scavenging Ooze
+3 Blade Splicer
 3 Stirring Wildwood
 3 Noble Hierarch
 4 Razorverge Thicket
@@ -87,20 +87,6 @@
 1 Dark Confidant
 1 Tectonic Edge
 2 Dark Confidant
-1 Snow-Covered Forest
-1 Idyllic Grange
-1 Phyrexian Revoker
-1 Hexdrinker
-1 Ranger-Captain of Eos
-1 Weathered Wayfarer
-1 Windswept Heath
-2 Phyrexian Revoker
-2 Ranger-Captain of Eos
-2 Windswept Heath
-3 Ranger-Captain of Eos
-3 Windswept Heath
-4 Ranger-Captain of Eos
-4 Windswept Heath
 1 Reality Smasher
 1 Scavenger Grounds
 1 Simian Spirit Guide
@@ -114,9 +100,9 @@
 1 Blast Zone
 2 Reality Smasher
 2 Shefet Dunes
+2 Simian Spirit Guide
 2 Scavenger Grounds
 2 Eternal Scourge
-2 Simian Spirit Guide
 2 Blast Zone
 2 Dismember
 2 Winds of Abandon
@@ -131,15 +117,29 @@
 4 Reality Smasher
 4 Shefet Dunes
 4 Eternal Scourge
-4 Chalice of the Void
 4 Simian Spirit Guide
+4 Chalice of the Void
+1 Ranger-Captain of Eos
+1 Snow-Covered Forest
+1 Idyllic Grange
+1 Phyrexian Revoker
+1 Hexdrinker
+1 Weathered Wayfarer
+1 Windswept Heath
+2 Ranger-Captain of Eos
+2 Phyrexian Revoker
+2 Windswept Heath
+3 Ranger-Captain of Eos
+3 Windswept Heath
+4 Ranger-Captain of Eos
+4 Windswept Heath
 1 Spell Queller
-1 Deputy of Detention
 1 Island
 1 Seachrome Coast
-1 Meddling Mage
+1 Deputy of Detention
 1 Flooded Strand
 1 Hallowed Fountain
+1 Meddling Mage
 2 Spell Queller
 2 Island
 2 Seachrome Coast
@@ -155,8 +155,8 @@
 4 Spell Queller
 4 Deputy of Detention
 4 Meddling Mage
-1 Selfless Savior
 1 Eiganjo Castle
+1 Selfless Savior
 2 Selfless Savior
 9 Plains
 10 Plains
