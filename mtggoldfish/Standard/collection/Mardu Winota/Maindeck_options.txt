@@ -1,13 +1,51 @@
 1 Embercleave
 4 Venerated Loxodon
+2 Swamp
+2 Tajic, Legion's Edge
+2 Mountain
 1 Tithe Taker
 2 Tithe Taker
 3 Plains
-2 Tajic, Legion's Edge
-2 Mountain
-2 Swamp
-4 Plains
 3 Fabled Passage
+4 Plains
+1 Kenrith, the Returned King
+4 Fabled Passage
+1 Haktos the Unscarred
+1 Barrin, Tolarian Archmage
+1 Steam Vents
+1 Raugrin Triome
+1 Bonecrusher Giant
+1 Brazen Borrower
+1 Island
+1 Hallowed Fountain
+1 Seasoned Hallowblade
+1 Sphinx of Foresight
+2 Barrin, Tolarian Archmage
+2 Kenrith, the Returned King
+2 Steam Vents
+2 Raugrin Triome
+2 Brazen Borrower
+2 Bonecrusher Giant
+2 Seasoned Hallowblade
+2 Island
+2 Hallowed Fountain
+2 Sphinx of Foresight
+3 Brazen Borrower
+3 Kenrith, the Returned King
+3 Raugrin Triome
+3 Steam Vents
+3 Bonecrusher Giant
+3 Sphinx of Foresight
+3 Seasoned Hallowblade
+3 Hallowed Fountain
+3 Barrin, Tolarian Archmage
+4 Raugrin Triome
+4 Steam Vents
+4 Bonecrusher Giant
+4 Sphinx of Foresight
+4 Hallowed Fountain
+4 Brazen Borrower
+1 Castle Locthwain
 2 Embercleave
 2 Temple of Triumph
 3 Mountain
@@ -25,44 +63,7 @@
 6 Plains
 7 Plains
 8 Plains
-1 Kenrith, the Returned King
-4 Fabled Passage
-1 Haktos the Unscarred
-1 Steam Vents
-1 Barrin, Tolarian Archmage
-1 Raugrin Triome
-1 Bonecrusher Giant
-1 Brazen Borrower
-1 Island
-1 Hallowed Fountain
-1 Seasoned Hallowblade
-1 Sphinx of Foresight
-2 Kenrith, the Returned King
-2 Steam Vents
-2 Raugrin Triome
-2 Brazen Borrower
-2 Bonecrusher Giant
-2 Seasoned Hallowblade
-2 Island
-2 Hallowed Fountain
-2 Barrin, Tolarian Archmage
-2 Sphinx of Foresight
-3 Kenrith, the Returned King
-3 Raugrin Triome
-3 Steam Vents
-3 Brazen Borrower
-3 Bonecrusher Giant
-3 Sphinx of Foresight
-3 Seasoned Hallowblade
-3 Hallowed Fountain
-3 Barrin, Tolarian Archmage
-4 Raugrin Triome
-4 Steam Vents
-4 Bonecrusher Giant
-4 Sphinx of Foresight
-4 Hallowed Fountain
-4 Brazen Borrower
-1 Castle Locthwain
+2 Castle Locthwain
 1 Stonecoil Serpent
 1 Gingerbrute
 2 Stonecoil Serpent
@@ -70,35 +71,16 @@
 3 Stonecoil Serpent
 3 Embercleave
 3 Tajic, Legion's Edge
+4 Stonecoil Serpent
 7 Mountain
 8 Mountain
-2 Castle Locthwain
-4 Stonecoil Serpent
 2 General's Enforcer
 3 General's Enforcer
 2 General Kudro of Drannith
 3 Swamp
-4 Lazotep Reaver
-1 Charming Prince
-1 Yarok's Fenlurker
-1 Burglar Rat
-2 Temple of Silence
-2 Yarok's Fenlurker
-2 Charming Prince
-2 Burglar Rat
-3 Yarok's Fenlurker
-3 Temple of Silence
-3 Charming Prince
-3 Burglar Rat
-4 Woe Strider
-4 Yarok's Fenlurker
-4 Charming Prince
-4 Burglar Rat
 1 Dreadhorde Butcher
-1 Dire Tactics
 1 Gutterbones
 2 Dreadhorde Butcher
-2 Dire Tactics
 2 Knight of the Ebon Legion
 2 Gutterbones
 3 Dreadhorde Butcher
@@ -108,6 +90,24 @@
 4 Knight of the Ebon Legion
 4 Gutterbones
 4 Swamp
+1 Dire Tactics
+2 Dire Tactics
+4 Lazotep Reaver
+1 Charming Prince
+1 Burglar Rat
+1 Yarok's Fenlurker
+2 Temple of Silence
+2 Charming Prince
+2 Burglar Rat
+2 Yarok's Fenlurker
+3 Temple of Silence
+3 Charming Prince
+3 Burglar Rat
+3 Yarok's Fenlurker
+4 Woe Strider
+4 Charming Prince
+4 Yarok's Fenlurker
+4 Burglar Rat
 1 Alseid of Life's Bounty
 1 Forbidden Friendship
 2 Forbidden Friendship

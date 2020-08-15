@@ -32,8 +32,8 @@
 4 Banishing Light
 1 Venerated Loxodon
 4 Selfless Savior
-1 The Birth of Meletis
 1 Elspeth Conquers Death
+1 The Birth of Meletis
 2 The Birth of Meletis
 2 Elspeth Conquers Death
 3 The Birth of Meletis
@@ -76,8 +76,8 @@
 1 Beloved Princess
 2 Beloved Princess
 2 Venerated Loxodon
-1 Drannith Magistrate
 1 Bounty Agent
+1 Drannith Magistrate
 1 Mangara, the Diplomat
 2 Drannith Magistrate
 2 Mangara, the Diplomat
@@ -92,18 +92,13 @@
 2 Radiant Fountain
 3 Radiant Fountain
 3 Glorious Anthem
-4 Glass Casket
-1 Revitalize
-2 Revitalize
-2 Baneslayer Angel
-3 Revitalize
-4 Revitalize
 1 Raise the Alarm
 2 Raise the Alarm
 3 Raise the Alarm
 4 Fight as One
-1 Giant Killer
+4 Glass Casket
 1 Charming Prince
+1 Giant Killer
 2 Giant Killer
 2 Charming Prince
 3 Giant Killer
@@ -140,6 +135,11 @@
 1 Soulmender
 2 Soulmender
 4 Basri Ket
+1 Revitalize
+2 Baneslayer Angel
+2 Revitalize
+3 Revitalize
+4 Revitalize
 1 Tomik, Distinguished Advokist
 2 Tomik, Distinguished Advokist
 3 Light of Hope

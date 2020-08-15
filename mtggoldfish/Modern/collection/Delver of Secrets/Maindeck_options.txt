@@ -1,5 +1,5 @@
-1 Lightning Helix
 1 Sacred Foundry
+1 Lightning Helix
 2 Lightning Helix
 1 Seachrome Coast
 2 Seachrome Coast
@@ -16,19 +16,19 @@
 1 Brazen Borrower
 1 Plains
 3 Path to Exile
-1 Stoneforge Mystic
-1 Batterskull
 1 Sword of Fire and Ice
+1 Batterskull
+1 Stoneforge Mystic
 1 Mantis Rider
 1 Sleight of Hand
 2 Stoneforge Mystic
 2 Sleight of Hand
 2 Mantis Rider
-3 Stoneforge Mystic
 3 Sleight of Hand
+3 Stoneforge Mystic
 3 Mantis Rider
-4 Stoneforge Mystic
 4 Sleight of Hand
+4 Stoneforge Mystic
 4 Mantis Rider
 2 Kolaghan's Command
 2 Fatal Push
@@ -131,8 +131,8 @@
 4 Spellstutter Sprite
 1 Cryptic Command
 3 Fatal Push
-4 Fatal Push
 4 Arcum's Astrolabe
+4 Fatal Push
 1 Snow-Covered Mountain
 1 Breeding Pool
 1 Tarmogoyf
@@ -164,13 +164,6 @@
 2 Dreadhorde Arcanist
 3 Dreadhorde Arcanist
 3 Seachrome Coast
-1 Bitterblossom
-1 Field of Ruin
-1 Creeping Tar Pit
-2 Bitterblossom
-2 Field of Ruin
-3 Bitterblossom
-4 Bitterblossom
 1 Raugrin Triome
 1 Shadow of Doubt
 1 Brineborn Cutthroat
@@ -181,6 +174,13 @@
 3 Brineborn Cutthroat
 3 Island
 4 Brineborn Cutthroat
+1 Bitterblossom
+1 Field of Ruin
+1 Creeping Tar Pit
+2 Bitterblossom
+2 Field of Ruin
+3 Bitterblossom
+4 Bitterblossom
 1 Tarfire
 1 Flame Slash
 1 Blossoming Defense

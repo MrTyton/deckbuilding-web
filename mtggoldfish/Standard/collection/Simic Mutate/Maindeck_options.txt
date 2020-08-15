@@ -1,44 +1,46 @@
-1 Stonecoil Serpent
+2 Sea-Dasher Octopus
 4 Gemrazer
-3 End-Raze Forerunners
 1 Questing Beast
 2 Questing Beast
 2 Stonecoil Serpent
 3 Gilded Goose
+3 End-Raze Forerunners
+11 Forest
+6 Island
 3 Sea-Dasher Octopus
 1 Illuna, Apex of Wishes
-6 Island
-11 Forest
 2 Illuna, Apex of Wishes
 1 Parcelbeast
 2 Parcelbeast
 3 Parcelbeast
-2 Castle Vantress
-1 Ugin, the Spirit Dragon
-2 Ugin, the Spirit Dragon
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
-4 Sea-Dasher Octopus
 1 Trumpeting Gnarr
 2 Trumpeting Gnarr
 7 Island
 8 Island
+2 Castle Vantress
+3 Stonecoil Serpent
+12 Forest
+1 Ugin, the Spirit Dragon
+2 Ugin, the Spirit Dragon
+4 Sea-Dasher Octopus
 1 Zagoth Triome
 1 Dreamtail Heron
 2 Dreamtail Heron
+9 Island
 4 Parcelbeast
-3 Stonecoil Serpent
-12 Forest
 1 Mountain
+4 Stonecoil Serpent
 3 Questing Beast
-1 Season of Growth
 1 Yorvo, Lord of Garenbrig
+1 Season of Growth
 2 Season of Growth
 3 Season of Growth
 4 Season of Growth
 1 Scavenging Ooze
 1 Essence Symbiote
-9 Island
+1 Glowstone Recluse
 1 Fabled Passage
 2 Fabled Passage
 3 Illuna, Apex of Wishes
@@ -47,9 +49,9 @@
 2 Ketria Triome
 3 Ketria Triome
 4 Ketria Triome
+4 Gilded Goose
 4 Questing Beast
 1 Shifting Ceratops
-4 Stonecoil Serpent
 1 Stomping Ground
 1 Terror of the Peaks
 1 Radha, Heart of Keld
@@ -60,17 +62,20 @@
 3 Mountain
 4 Stomping Ground
 2 Zagoth Triome
+1 Ranger's Guile
+1 Thornwood Falls
+2 Thornwood Falls
 1 Overgrown Tomb
 1 Swamp
 1 Temple of Malady
 1 Nethroi, Apex of Death
 2 Swamp
 3 Swamp
+2 Glowstone Recluse
 1 Brazen Borrower
 2 Brazen Borrower
 2 Essence Symbiote
 3 Essence Symbiote
-1 Ranger's Guile
 3 Ugin, the Spirit Dragon
 1 Vampire of the Dire Moon
 1 Watery Grave
@@ -81,11 +86,11 @@
 1 Castle Locthwain
 1 Zagoth Mamba
 2 Vampire of the Dire Moon
-2 Nethroi, Apex of Death
 2 Zagoth Mamba
 2 Sparkhunter Masticore
-2 Chittering Harvester
+2 Nethroi, Apex of Death
 2 Insatiable Hemophage
+2 Chittering Harvester
 3 Insatiable Hemophage
 3 Zagoth Triome
 1 Steam Vents
@@ -94,8 +99,8 @@
 3 Steam Vents
 3 Terror of the Peaks
 4 Steam Vents
-1 Umori, the Collector
 1 Uro, Titan of Nature's Wrath
+1 Umori, the Collector
 2 Uro, Titan of Nature's Wrath
 2 Umori, the Collector
 3 Uro, Titan of Nature's Wrath
@@ -103,9 +108,7 @@
 4 Fabled Passage
 1 Meteor Golem
 1 Lead the Stampede
-1 Thornwood Falls
 2 Lead the Stampede
-2 Thornwood Falls
 2 Meteor Golem
 3 Trumpeting Gnarr
 3 Thornwood Falls
@@ -114,7 +117,6 @@
 1 Hydroid Krasis
 2 Hydroid Krasis
 3 Nissa, Who Shakes the World
-4 Gilded Goose
 4 Nissa, Who Shakes the World
 1 Temple of Abandon
 1 Marauding Raptor
@@ -126,22 +128,20 @@
 3 Shifting Ceratops
 3 Temple of Abandon
 3 Marauding Raptor
+4 Marauding Raptor
 4 Shifting Ceratops
 4 Mountain
 4 Temple of Abandon
-4 Marauding Raptor
 5 Mountain
 1 Dirge Bat
 1 Polukranos, Unchained
-1 Glowstone Recluse
 1 Brokkos, Apex of Forever
-1 Cavalier of Thorns
 1 Jungle Hollow
 1 Murderous Rider
 1 Boneyard Lurker
+1 Cavalier of Thorns
 2 Murderous Rider
 2 Jungle Hollow
-2 Glowstone Recluse
 2 Polukranos, Unchained
 2 Dirge Bat
 2 Boneyard Lurker
@@ -153,3 +153,38 @@
 4 Jungle Hollow
 5 Swamp
 6 Swamp
+1 Essence Scatter
+1 Titanoth Rex
+1 Hornbash Mentor
+1 Fully Grown
+1 Kogla, the Titan Ape
+1 Kasmina's Transmutation
+1 Archipelagore
+1 Neutralize
+2 Ranger's Guile
+2 Fully Grown
+2 Essence Scatter
+2 Hornbash Mentor
+2 Archipelagore
+2 Kasmina's Transmutation
+2 Neutralize
+2 Titanoth Rex
+2 Kogla, the Titan Ape
+3 Neutralize
+10 Island
+1 Nylea, Keen-Eyed
+1 Primal Might
+1 Vivien, Arkbow Ranger
+2 Primal Might
+2 Vivien, Arkbow Ranger
+13 Forest
+14 Forest
+15 Forest
+16 Forest
+17 Forest
+18 Forest
+19 Forest
+20 Forest
+21 Forest
+22 Forest
+23 Forest

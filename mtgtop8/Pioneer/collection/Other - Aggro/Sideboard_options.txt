@@ -27,13 +27,6 @@
 2 Eliminate
 2 Kambal, Consul of Allocation
 2 Deputy of Detention
-1 Assassin's Trophy
-1 Tasigur, the Golden Fang
-1 Abrupt Decay
-1 Reclamation Sage
-1 Driven / Despair
-2 Driven / Despair
-2 Abrupt Decay
 1 Enter the God-Eternals
 1 Mystical Dispute
 1 Unmoored Ego
@@ -41,8 +34,15 @@
 2 Mystical Dispute
 2 Disdainful Stroke
 2 Ashiok, Dream Render
-2 Unmoored Ego
 2 Enter the God-Eternals
+2 Unmoored Ego
+1 Assassin's Trophy
+1 Tasigur, the Golden Fang
+1 Abrupt Decay
+1 Reclamation Sage
+1 Driven / Despair
+2 Driven / Despair
+2 Abrupt Decay
 1 Selfless Spirit
 1 Ixalan's Binding
 1 Deicide
@@ -50,19 +50,6 @@
 2 Baffling End
 2 Gideon, Ally of Zendikar
 3 Baffling End
-1 Kalitas, Traitor of Ghet
-1 Damping Sphere
-1 Self-Inflicted Wound
-1 Moment of Craving
-1 Spell Pierce
-1 Annul
-2 Kalitas, Traitor of Ghet
-2 Damping Sphere
-2 Self-Inflicted Wound
-2 Spell Pierce
-2 Moment of Craving
-2 Annul
-3 Kalitas, Traitor of Ghet
 1 Ugin, the Ineffable
 1 Hour of Devastation
 3 Legion's End
@@ -85,6 +72,19 @@
 1 Hushbringer
 2 Declaration in Stone
 3 Declaration in Stone
+1 Kalitas, Traitor of Ghet
+1 Damping Sphere
+1 Annul
+1 Self-Inflicted Wound
+1 Moment of Craving
+1 Spell Pierce
+2 Kalitas, Traitor of Ghet
+2 Damping Sphere
+2 Self-Inflicted Wound
+2 Annul
+2 Spell Pierce
+2 Moment of Craving
+3 Kalitas, Traitor of Ghet
 1 Kolaghan's Command
 1 Soul-Guide Lantern
 2 Kolaghan's Command
@@ -97,8 +97,8 @@
 2 Midnight Reaper
 2 Distended Mindbender
 4 Thoughtseize
-1 Drill Bit
 1 Gifted Aetherborn
+1 Drill Bit
 2 Necromentia
 2 Drill Bit
 2 Gifted Aetherborn

@@ -1,31 +1,34 @@
+3 Sea-Dasher Octopus
+4 Spectral Sailor
+7 Mountain
+2 Pteramander
+3 Pteramander
+4 Pteramander
+2 Crackling Drake
+1 Thrill of Possibility
 2 Thrill of Possibility
+2 Brazen Borrower
 9 Island
 1 Frantic Inventory
 2 Frantic Inventory
 3 Frantic Inventory
 4 Frantic Inventory
-2 Brazen Borrower
 3 Thrill of Possibility
-1 Sea-Dasher Octopus
-4 Lofty Denial
+4 Sea-Dasher Octopus
 1 Swiftwater Cliffs
 2 Swiftwater Cliffs
 3 Swiftwater Cliffs
 4 Swiftwater Cliffs
+1 Ionize
+2 Ionize
 1 Scorching Dragonfire
 2 Scorching Dragonfire
 1 Beacon Bolt
-1 Spectral Sailor
-2 Sea-Dasher Octopus
-2 Spectral Sailor
-3 Spectral Sailor
-3 Sea-Dasher Octopus
-4 Spectral Sailor
 1 Castle Vantress
-4 Thrill of Possibility
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 1 Fabled Passage
+4 Thrill of Possibility
 1 Samut's Sprint
 2 Samut's Sprint
 1 See the Truth
@@ -38,19 +41,17 @@
 1 Irencrag Pyromancer
 1 Izzet Guildgate
 2 Izzet Guildgate
+1 Embercleave
 1 Riddleform
 1 Aether Gust
 2 Aether Gust
 2 Riddleform
-3 Aether Gust
 3 Unsummon
+3 Aether Gust
 3 Riddleform
 4 Riddleform
 3 Scorching Dragonfire
 8 Mountain
-4 Sea-Dasher Octopus
-1 Ionize
-2 Ionize
 1 Maximize Velocity
 1 Infuriate
 2 Infuriate
@@ -59,8 +60,8 @@
 1 The Royal Scions
 1 Winged Words
 2 Winged Words
-3 Crackling Drake
 3 Winged Words
+3 Crackling Drake
 1 Improbable Alliance
 2 Improbable Alliance
 1 Niv-Mizzet, Parun
@@ -75,7 +76,6 @@
 4 Finale of Promise
 1 Merchant of the Vale
 2 Merchant of the Vale
-1 Embercleave
 1 Raking Claws
 2 Raking Claws
 1 Lore Drakkis
@@ -87,6 +87,17 @@
 2 The Royal Scions
 2 Lava Coil
 3 The Royal Scions
+1 Shark Typhoon
+2 Shark Typhoon
+2 Castle Vantress
+3 Shark Typhoon
+3 Brazen Borrower
+3 Ionize
+3 Bonecrusher Giant
+4 Ionize
+4 Bonecrusher Giant
+4 Brazen Borrower
+4 Scorching Dragonfire
 1 Soul Sear
 1 Faerie Vandal
 1 Miscast
@@ -97,35 +108,17 @@
 3 Soul Sear
 4 Faerie Vandal
 4 Crackling Drake
-1 Shark Typhoon
-2 Shark Typhoon
-2 Castle Vantress
-3 Shark Typhoon
-3 Brazen Borrower
-3 Ionize
-3 Bonecrusher Giant
-4 Ionize
-4 Brazen Borrower
-4 Bonecrusher Giant
-4 Scorching Dragonfire
-1 Merfolk Secretkeeper
-1 Ox of Agonas
-1 Arclight Phoenix
-1 Cathartic Reunion
-2 Merfolk Secretkeeper
-2 Arclight Phoenix
-2 Ox of Agonas
-2 Cathartic Reunion
-3 Merfolk Secretkeeper
-3 Arclight Phoenix
-3 Blitz of the Thunder-Raptor
-3 Cathartic Reunion
-3 Merchant of the Vale
-4 Merchant of the Vale
-4 Merfolk Secretkeeper
-4 Arclight Phoenix
-4 Blitz of the Thunder-Raptor
-4 Cathartic Reunion
+1 Stonecoil Serpent
+1 Barrin, Tolarian Archmage
+1 Light Up the Stage
+2 Stonecoil Serpent
+2 Fabled Passage
+2 Light Up the Stage
+3 Light Up the Stage
+3 Stonecoil Serpent
+4 Light Up the Stage
+4 Infuriate
+4 Stonecoil Serpent
 2 Maximize Velocity
 3 Maximize Velocity
 4 Maximize Velocity
@@ -136,21 +129,28 @@
 1 Go for Blood
 1 Nadir Kraken
 2 Omen of the Sea
-2 Negate
 2 Fire Prophecy
+2 Negate
 3 Fire Prophecy
 3 Improbable Alliance
 4 Fire Prophecy
 4 Improbable Alliance
 4 Ominous Seas
-1 Stonecoil Serpent
-1 Barrin, Tolarian Archmage
-1 Light Up the Stage
-2 Stonecoil Serpent
-2 Fabled Passage
-2 Light Up the Stage
-3 Light Up the Stage
-3 Stonecoil Serpent
-4 Light Up the Stage
-4 Stonecoil Serpent
-4 Infuriate
+1 Merfolk Secretkeeper
+1 Ox of Agonas
+1 Arclight Phoenix
+1 Cathartic Reunion
+2 Merfolk Secretkeeper
+2 Ox of Agonas
+2 Arclight Phoenix
+2 Cathartic Reunion
+3 Merfolk Secretkeeper
+3 Blitz of the Thunder-Raptor
+3 Cathartic Reunion
+3 Merchant of the Vale
+3 Arclight Phoenix
+4 Merfolk Secretkeeper
+4 Blitz of the Thunder-Raptor
+4 Cathartic Reunion
+4 Merchant of the Vale
+4 Arclight Phoenix

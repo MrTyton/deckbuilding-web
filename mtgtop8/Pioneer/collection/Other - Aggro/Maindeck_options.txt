@@ -11,11 +11,11 @@
 4 Thoughtseize
 1 Kroxa, Titan of Death's Hunger
 1 Dragonskull Summit
-2 Kroxa, Titan of Death's Hunger
 2 Dragonskull Summit
+2 Kroxa, Titan of Death's Hunger
 3 Dragonskull Summit
-4 Dragonskull Summit
 4 Blood Crypt
+4 Dragonskull Summit
 1 Fabled Passage
 2 Fabled Passage
 1 Claim / Fame
@@ -143,30 +143,30 @@
 2 Shanna, Sisay's Legacy
 4 Rogue Refiner
 1 Atris, Oracle of Half-Truths
+1 Aether Hub
 1 Fetid Pools
 1 Thought Erasure
+1 Thief of Sanity
 1 Tasigur, the Golden Fang
 1 Ashiok, Nightmare Weaver
 1 Gifted Aetherborn
 1 Ashiok, Nightmare Muse
 1 Urborg, Tomb of Yawgmoth
-1 Aether Hub
-1 Thief of Sanity
 2 Gifted Aetherborn
+2 Aether Hub
 2 Fetid Pools
 2 Atris, Oracle of Half-Truths
 2 Tasigur, the Golden Fang
 2 Thought Erasure
-2 Ashiok, Nightmare Weaver
-2 Aether Hub
 2 Thief of Sanity
+2 Ashiok, Nightmare Weaver
+3 Aether Hub
 3 Fetid Pools
 3 Thief of Sanity
-3 Aether Hub
 3 Castle Locthwain
+4 Aether Hub
 4 Fetid Pools
 4 Thief of Sanity
-4 Aether Hub
 1 Mire Triton
 1 Fiend Artisan
 1 Bloodsoaked Champion
@@ -206,9 +206,9 @@
 4 Fortified Village
 1 Cast Out
 1 Calix, Destiny's Hand
+1 Starfield Mystic
 1 Banishing Light
 1 Temple of Plenty
-1 Starfield Mystic
 1 Sphere of Safety
 1 Sigil of the Empty Throne
 1 Setessan Champion
@@ -217,6 +217,7 @@
 1 Herald of the Pantheon
 2 Cast Out
 2 Calix, Destiny's Hand
+2 Starfield Mystic
 2 Banishing Light
 2 Field of Ruin
 2 Sigil of the Empty Throne
@@ -224,7 +225,6 @@
 2 Alseid of Life's Bounty
 2 Setessan Champion
 2 Eidolon of Blossoms
-2 Starfield Mystic
 2 Temple of Plenty
 3 Cast Out
 3 Banishing Light
@@ -235,12 +235,12 @@
 3 Herald of the Pantheon
 3 Alseid of Life's Bounty
 3 Calix, Destiny's Hand
+4 Starfield Mystic
 4 Cast Out
 4 Temple of Plenty
 4 Banishing Light
 4 Eidolon of Blossoms
 4 Herald of the Pantheon
-4 Starfield Mystic
 4 Courser of Kruphix
 4 Alseid of Life's Bounty
 4 Setessan Champion
@@ -249,8 +249,8 @@
 4 Overgrown Tomb
 4 Blooming Marsh
 1 Gilded Goose
-1 Mayhem Devil
 1 Catacomb Sifter
+1 Mayhem Devil
 1 Blisterpod
 1 Zulaport Cutthroat
 1 Woe Strider
@@ -259,18 +259,18 @@
 1 Priest of Forgotten Gods
 1 Stomping Ground
 2 Blisterpod
-2 Mayhem Devil
 2 Catacomb Sifter
 2 Llanowar Wastes
 2 Zulaport Cutthroat
+2 Mayhem Devil
 2 Bolas's Citadel
 2 Priest of Forgotten Gods
 2 Woe Strider
 2 Gilded Goose
 2 Stomping Ground
 3 Gilded Goose
-3 Mayhem Devil
 3 Llanowar Wastes
+3 Mayhem Devil
 3 Zulaport Cutthroat
 3 Woe Strider
 3 Catacomb Sifter
@@ -367,30 +367,30 @@
 3 Island
 3 Eliminate
 3 Rankle, Master of Pranks
-4 Brazen Borrower
 4 Thieves' Guild Enforcer
+4 Brazen Borrower
 4 Murderous Rider
 6 Swamp
 1 Pelt Collector
 1 Voracious Hydra
 1 Nissa, Voice of Zendikar
-1 Stonecoil Serpent
 1 Hardened Scales
+1 Stonecoil Serpent
 1 Hangarback Walker
 1 Dromoka's Command
 1 Rishkar, Peema Renegade
 2 Voracious Hydra
-2 Pelt Collector
 2 Nissa, Voice of Zendikar
 2 Hardened Scales
+2 Pelt Collector
 2 Hangarback Walker
 2 Dromoka's Command
 2 Rishkar, Peema Renegade
 2 Stonecoil Serpent
 3 Hangarback Walker
 3 Pelt Collector
-3 Nissa, Voice of Zendikar
 3 Hardened Scales
+3 Nissa, Voice of Zendikar
 3 Stonecoil Serpent
 3 Voracious Hydra
 3 Rishkar, Peema Renegade
