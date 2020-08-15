@@ -1,17 +1,17 @@
 1 Forest
 2 Forest
 3 Forest
+4 Forest
+5 Forest
 1 Llanowar Elves
 1 Elvish Mystic
 2 Llanowar Elves
 2 Elvish Mystic
 3 Llanowar Elves
 3 Elvish Mystic
-4 Elvish Mystic
-4 Forest
 4 Llanowar Elves
-5 Forest
 6 Forest
+4 Elvish Mystic
 7 Forest
 8 Forest
 1 Botanical Sanctum
@@ -35,50 +35,82 @@
 2 Yavimaya Coast
 9 Forest
 10 Forest
-4 Botanical Sanctum
-1 Hydroid Krasis
-2 Hydroid Krasis
-1 The Great Henge
-1 Ghalta, Primal Hunger
+1 Scavenging Ooze
 1 Hashep Oasis
 2 Hashep Oasis
+1 Vivien, Arkbow Ranger
+2 Vivien, Arkbow Ranger
+1 Hydroid Krasis
+2 Hydroid Krasis
+1 Swamp
+1 Thoughtseize
+2 Thoughtseize
+1 Overgrown Tomb
+2 Overgrown Tomb
+3 Overgrown Tomb
+1 Tireless Tracker
+2 Tireless Tracker
+1 Blooming Marsh
+2 Blooming Marsh
+3 Blooming Marsh
+4 Blooming Marsh
+4 Overgrown Tomb
+1 Urborg, Tomb of Yawgmoth
+3 Thoughtseize
+4 Thoughtseize
+1 Hardened Scales
+1 Walking Ballista
+1 Winding Constrictor
+1 Llanowar Wastes
+2 Walking Ballista
+2 Winding Constrictor
+2 Hardened Scales
+2 Llanowar Wastes
+3 Hardened Scales
+3 Llanowar Wastes
+3 Walking Ballista
+3 Winding Constrictor
+4 Walking Ballista
+4 Winding Constrictor
+4 Hardened Scales
+4 Llanowar Wastes
+2 Scavenging Ooze
+4 Botanical Sanctum
+1 Island
+1 Uro, Titan of Nature's Wrath
+2 Uro, Titan of Nature's Wrath
+3 Vivien, Arkbow Ranger
+1 Questing Beast
+2 Questing Beast
+1 The Great Henge
+1 Ghalta, Primal Hunger
 2 Rhonas the Indomitable
 4 Steel Leaf Champion
 1 Oath of Nissa
 3 Voracious Hydra
 4 Voracious Hydra
-1 Questing Beast
-2 Questing Beast
-1 Island
-1 Uro, Titan of Nature's Wrath
-2 Uro, Titan of Nature's Wrath
-1 Nykthos, Shrine to Nyx
-2 Nykthos, Shrine to Nyx
-1 Vivien, Arkbow Ranger
-2 Vivien, Arkbow Ranger
-3 Nykthos, Shrine to Nyx
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
 3 Nissa, Who Shakes the World
 4 Nissa, Who Shakes the World
+1 Nykthos, Shrine to Nyx
+2 Nykthos, Shrine to Nyx
+3 Nykthos, Shrine to Nyx
 1 Mountain
-1 Scavenging Ooze
-2 Mountain
 1 Brazen Borrower
 2 Brazen Borrower
-3 Brazen Borrower
-2 Island
 1 Fabled Passage
 2 Fabled Passage
 3 Fabled Passage
+2 Island
+3 Brazen Borrower
+4 Fabled Passage
 1 Hinterland Harbor
 1 Growth Spiral
-2 Scavenging Ooze
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
-1 Tireless Tracker
-2 Tireless Tracker
+2 Mountain
 3 Mountain
 4 Mountain
 4 Bonecrusher Giant
@@ -111,22 +143,20 @@
 2 Glacial Fortress
 3 Hallowed Fountain
 4 Hallowed Fountain
-1 Narset, Parter of Veils
-1 Castle Vantress
-2 Narset, Parter of Veils
-3 Narset, Parter of Veils
 4 Island
 5 Island
 6 Island
 1 Field of Ruin
+1 Absorb
 1 Irrigated Farmland
 1 Temple of Enlightenment
 1 Censor
 1 Teferi, Master of Time
 1 Dig Through Time
 1 Supreme Verdict
-1 Absorb
 1 Omen of the Sun
+1 Narset, Parter of Veils
+1 Castle Vantress
 1 Baffling End
 1 Elspeth, Sun's Nemesis
 1 Cast Out
@@ -137,10 +167,11 @@
 1 Omen of the Sea
 2 Field of Ruin
 2 Irrigated Farmland
+2 Absorb
 2 Censor
 2 Teferi, Master of Time
 2 Castle Ardenvale
-2 Absorb
+2 Narset, Parter of Veils
 2 Supreme Verdict
 2 Omen of the Sun
 2 Baffling End
@@ -160,11 +191,12 @@
 3 Teferi, Time Raveler
 3 Glacial Fortress
 3 Temple of Enlightenment
+3 Narset, Parter of Veils
 4 Supreme Verdict
 4 Glacial Fortress
 4 Omen of the Sea
 4 Temple of Enlightenment
-4 Fabled Passage
+3 Uro, Titan of Nature's Wrath
 2 Embercleave
 1 Selfless Spirit
 2 Selfless Spirit
@@ -175,26 +207,28 @@
 4 Sacred Foundry
 1 Fire Prophecy
 2 Fire Prophecy
+5 Plains
+6 Plains
 1 Angrath's Marauders
-1 Steam Vents
-1 Sulfur Falls
-2 Steam Vents
-3 Steam Vents
 1 Selfless Savior
 1 Winota, Joiner of Forces
 2 Selfless Savior
-2 Angrath's Marauders
 2 Winota, Joiner of Forces
+2 Angrath's Marauders
 3 Selfless Savior
 3 Winota, Joiner of Forces
 3 Angrath's Marauders
 4 Selfless Savior
 4 Winota, Joiner of Forces
 4 Angrath's Marauders
-5 Plains
-6 Plains
+1 Steam Vents
+1 Sulfur Falls
+2 Steam Vents
 2 Sulfur Falls
+3 Steam Vents
 4 Steam Vents
+1 Mutavault
+2 Mutavault
 1 Spirebluff Canal
 1 Shivan Reef
 2 Spirebluff Canal
@@ -222,26 +256,21 @@
 4 Pirate's Pillage
 4 Indomitable Creativity
 4 Chandra, Acolyte of Flame
-1 Chandra, Torch of Defiance
 3 Spirebluff Canal
 4 Spirebluff Canal
-1 Mutavault
-2 Mutavault
+3 Yavimaya Coast
+4 Yavimaya Coast
+1 Hangarback Walker
+1 Stonecoil Serpent
+2 Stonecoil Serpent
+3 Stonecoil Serpent
+4 Stonecoil Serpent
 1 Temple of Triumph
 2 Temple of Triumph
 7 Mountain
 8 Mountain
 9 Mountain
 10 Mountain
-3 Yavimaya Coast
-4 Yavimaya Coast
-1 Irencrag Feat
-2 Chandra, Torch of Defiance
-1 Anger of the Gods
-2 Anger of the Gods
-3 Anger of the Gods
-3 Uro, Titan of Nature's Wrath
-1 Swamp
 1 Wild Slash
 2 Wild Slash
 3 Wild Slash
@@ -249,31 +278,45 @@
 11 Mountain
 12 Mountain
 13 Mountain
-1 Shark Typhoon
-2 Shark Typhoon
-3 Shark Typhoon
-1 Watery Grave
-2 Watery Grave
-3 Watery Grave
-1 Blood Crypt
-2 Blood Crypt
-3 Blood Crypt
-1 Thoughtseize
-2 Thoughtseize
+1 Chandra, Torch of Defiance
+1 Irencrag Feat
+2 Chandra, Torch of Defiance
 1 Gilded Goose
 2 Gilded Goose
 3 Gilded Goose
 4 Gilded Goose
-2 Swamp
-1 The Scarab God
-1 Overgrown Tomb
-2 Overgrown Tomb
-3 Overgrown Tomb
-4 Fire Prophecy
 3 Mutavault
+1 Saheeli, Sublime Artificer
+2 Saheeli, Sublime Artificer
+1 Springleaf Drum
+1 Sai, Master Thopterist
+1 Mox Amber
+1 Emry, Lurker of the Loch
+1 Ornithopter
+2 Springleaf Drum
+2 Emry, Lurker of the Loch
+2 Sai, Master Thopterist
+2 Ornithopter
+2 Mox Amber
+3 Springleaf Drum
+3 Ornithopter
+3 Mox Amber
+3 Emry, Lurker of the Loch
+3 Sai, Master Thopterist
+4 Mox Amber
+4 Ornithopter
+4 Fire Prophecy
 1 Rekindling Phoenix
 2 Rekindling Phoenix
 1 Clifftop Retreat
+1 Barkhide Troll
+1 Blossoming Defense
+1 Avatar of the Resolute
+1 Woodland Cemetery
+2 Blossoming Defense
+2 Avatar of the Resolute
+3 Scavenging Ooze
+3 Avatar of the Resolute
 1 Collected Company
 1 Klothys, God of Destiny
 1 Game Trail
@@ -283,6 +326,14 @@
 2 Crater's Claws
 3 Collected Company
 4 Collected Company
+1 Vraska, Golgari Queen
+1 Nissa, Voice of Zendikar
+2 Hangarback Walker
+2 Nissa, Voice of Zendikar
+3 Hangarback Walker
+3 Nissa, Voice of Zendikar
+4 Hangarback Walker
+4 Nissa, Voice of Zendikar
 1 Castle Garenbrig
 1 Sylvan Caryatid
 1 Garruk's Harbinger
@@ -293,7 +344,6 @@
 2 Oath of Nissa
 2 Garruk's Harbinger
 3 Sylvan Caryatid
-3 Vivien, Arkbow Ranger
 3 Garruk's Harbinger
 3 Oath of Nissa
 4 Vivien, Arkbow Ranger
@@ -312,6 +362,27 @@
 4 Battlefield Forge
 4 Selfless Spirit
 4 Adanto Vanguard
+1 Watery Grave
+1 Llanowar Visionary
+1 Prophet of Kruphix
+1 The Scarab God
+1 Grisly Salvage
+1 Vivien, Monsters' Advocate
+1 Heartless Act
+1 Fatal Push
+2 Vivien, Monsters' Advocate
+2 Watery Grave
+2 Llanowar Visionary
+2 Heartless Act
+2 Grisly Salvage
+2 Fatal Push
+3 Llanowar Visionary
+3 Vivien, Monsters' Advocate
+3 Fatal Push
+3 Watery Grave
+4 Fatal Push
+4 Uro, Titan of Nature's Wrath
+4 Vivien, Monsters' Advocate
 1 Venerated Loxodon
 2 Venerated Loxodon
 3 Venerated Loxodon
@@ -354,8 +425,12 @@
 3 Hinterland Harbor
 4 Hydroid Krasis
 4 Tireless Tracker
+1 Blood Crypt
+2 Blood Crypt
+3 Blood Crypt
 4 Blood Crypt
 1 Castle Locthwain
+2 Swamp
 3 Swamp
 1 Cauldron Familiar
 1 Witch's Oven
@@ -364,8 +439,8 @@
 1 Deathrite Shaman
 1 Woe Strider
 1 Bolas's Citadel
-1 Priest of Forgotten Gods
 1 Satyr Wayfinder
+1 Priest of Forgotten Gods
 1 Trail of Crumbs
 1 Mayhem Devil
 2 Witch's Oven
@@ -385,104 +460,11 @@
 3 Mayhem Devil
 4 Cauldron Familiar
 4 Witch's Oven
-4 Deathrite Shaman
 4 Trail of Crumbs
-4 Overgrown Tomb
+4 Deathrite Shaman
 4 Mayhem Devil
 1 Castle Embereth
 2 Castle Embereth
-1 Dragonskull Summit
-1 Fatal Push
-2 Fatal Push
-3 Fatal Push
-4 Fatal Push
-1 Fetid Pools
-1 Drowned Catacomb
-1 Thought Erasure
-1 Ashiok, Nightmare Muse
-2 Thought Erasure
-4 Watery Grave
-1 Temple of Deceit
-1 Grim Tutor
-1 Jace, Architect of Thought
-1 Fires of Invention
-1 Dreadbore
-1 Interplanar Beacon
-1 Mastermind's Acquisition
-1 Nicol Bolas, Dragon-God
-1 Nicol Bolas, the Ravager
-2 Fires of Invention
-2 Ashiok, Nightmare Muse
-2 Interplanar Beacon
-2 Nicol Bolas, Dragon-God
-2 Nicol Bolas, the Ravager
-2 Mastermind's Acquisition
-2 The Scarab God
-2 Dreadbore
-2 Grim Tutor
-3 Fires of Invention
-3 Dreadbore
-3 Thought Erasure
-4 Fires of Invention
-4 Thought Erasure
-1 Llanowar Visionary
-1 Prophet of Kruphix
-1 Grisly Salvage
-1 Vivien, Monsters' Advocate
-1 Heartless Act
-1 Blooming Marsh
-2 Vivien, Monsters' Advocate
-2 Llanowar Visionary
-2 Heartless Act
-2 Grisly Salvage
-2 Blooming Marsh
-3 Llanowar Visionary
-3 Blooming Marsh
-3 Vivien, Monsters' Advocate
-4 Uro, Titan of Nature's Wrath
-4 Vivien, Monsters' Advocate
-4 Blooming Marsh
-1 Urborg, Tomb of Yawgmoth
-2 Castle Locthwain
-3 Castle Locthwain
-3 Thoughtseize
-4 Thoughtseize
-1 Atris, Oracle of Half-Truths
-1 Tasigur, the Golden Fang
-1 Ashiok, Nightmare Weaver
-1 Aether Hub
-1 Glint-Sleeve Siphoner
-1 Drown in the Loch
-1 Kalitas, Traitor of Ghet
-1 Collective Brutality
-1 Thief of Sanity
-1 Gifted Aetherborn
-1 Murderous Rider
-2 Atris, Oracle of Half-Truths
-2 Fetid Pools
-2 Tasigur, the Golden Fang
-2 Aether Hub
-2 Glint-Sleeve Siphoner
-2 Drown in the Loch
-2 Thief of Sanity
-2 Collective Brutality
-2 Kalitas, Traitor of Ghet
-2 Gifted Aetherborn
-2 Drowned Catacomb
-2 Murderous Rider
-2 Ashiok, Nightmare Weaver
-3 Fetid Pools
-3 Drown in the Loch
-3 Aether Hub
-3 Thief of Sanity
-3 Glint-Sleeve Siphoner
-3 Drowned Catacomb
-3 Murderous Rider
-4 Aether Hub
-4 Thief of Sanity
-4 Glint-Sleeve Siphoner
-4 Drowned Catacomb
-4 Fetid Pools
 4 Mutavault
 1 Ramunap Ruins
 1 Hanweir Battlements
@@ -518,6 +500,7 @@
 1 Minotaur Aggressor
 1 Wily Goblin
 1 Vessel of Volatility
+1 Dragonskull Summit
 1 Temple of Malice
 1 Rageblood Shaman
 1 Boros Reckoner
@@ -534,71 +517,50 @@
 2 Kragma Warcaller
 2 Dragonskull Summit
 3 Dragonskull Summit
-3 Wily Goblin
 3 Deathbellow War Cry
 3 Irencrag Feat
 3 Boros Reckoner
+3 Wily Goblin
 3 Chandra, Torch of Defiance
-4 Irencrag Feat
 4 Wily Goblin
+4 Irencrag Feat
 4 Deathbellow War Cry
 4 Boros Reckoner
 4 Dragonskull Summit
-1 See the Truth
-1 Opt
-2 See the Truth
-2 Opt
-3 Sulfur Falls
-3 Opt
-3 See the Truth
-4 Opt
-4 Sulfur Falls
-1 Saheeli, Sublime Artificer
-2 Saheeli, Sublime Artificer
-1 Springleaf Drum
-1 Sai, Master Thopterist
-1 Mox Amber
-1 Emry, Lurker of the Loch
-1 Ornithopter
-2 Springleaf Drum
-2 Emry, Lurker of the Loch
-2 Ornithopter
-2 Sai, Master Thopterist
-2 Mox Amber
-3 Springleaf Drum
-3 Ornithopter
-3 Mox Amber
-3 Emry, Lurker of the Loch
-3 Sai, Master Thopterist
-4 Mox Amber
-4 Ornithopter
 1 Thassa's Oracle
 1 Spire of Industry
-1 Song of Creation
 1 Westvale Abbey
-1 Hangarback Walker
-1 Stonecoil Serpent
-1 Commune with the Gods
 1 Kinnan, Bonder Prodigy
+1 Song of Creation
+1 Commune with the Gods
 1 Soul-Guide Lantern
 1 Void Snare
 2 Spire of Industry
 2 Thassa's Oracle
-2 Stonecoil Serpent
+2 Kinnan, Bonder Prodigy
 2 Void Snare
 2 Westvale Abbey
 2 Song of Creation
-2 Kinnan, Bonder Prodigy
-3 Kinnan, Bonder Prodigy
 3 Spire of Industry
-3 Stonecoil Serpent
+3 Kinnan, Bonder Prodigy
 3 Song of Creation
 4 Springleaf Drum
 4 Spire of Industry
 4 Sai, Master Thopterist
 4 Song of Creation
 4 Emry, Lurker of the Loch
-4 Stonecoil Serpent
+1 See the Truth
+1 Opt
+1 Anger of the Gods
+2 See the Truth
+2 Opt
+2 Anger of the Gods
+3 Sulfur Falls
+3 Opt
+3 See the Truth
+3 Anger of the Gods
+4 Opt
+4 Sulfur Falls
 7 Plains
 8 Plains
 9 Plains
@@ -614,8 +576,8 @@
 1 Shatter the Sky
 1 Gideon's Triumph
 2 Transmogrify
-2 Nahiri, the Harbinger
 2 Deafening Clarion
+2 Nahiri, the Harbinger
 2 Shatter the Sky
 2 Heart of Kiran
 2 Gideon, Ally of Zendikar
@@ -636,12 +598,15 @@
 4 Gideon of the Trials
 1 Lofty Denial
 1 Dromoka's Command
+1 Shark Typhoon
 1 Spell Queller
 1 Dragonlord Ojutai
 1 Remorseful Cleric
 1 Sunpetal Grove
 2 Lofty Denial
+2 Shark Typhoon
 2 Spell Queller
+3 Shark Typhoon
 3 Lofty Denial
 3 Spell Queller
 4 Brazen Borrower
@@ -678,21 +643,21 @@
 4 Izzet Charm
 4 Elder Deep-Fiend
 4 Flamewake Phoenix
-1 Whir of Invention
 1 Mystic Sanctuary
 1 Darksteel Citadel
 1 Witching Well
-1 Tormod's Crypt
 1 Aetherflux Reservoir
+1 Tormod's Crypt
+1 Whir of Invention
 1 Paradoxical Outcome
 1 Inspiring Statuary
 1 Glint-Nest Crane
-2 Whir of Invention
 2 Mystic Sanctuary
 2 Witching Well
 2 Aetherflux Reservoir
 2 Glint-Nest Crane
 2 Inspiring Statuary
+2 Whir of Invention
 2 Paradoxical Outcome
 2 Darksteel Citadel
 3 Mystic Sanctuary
@@ -724,14 +689,16 @@
 1 Lord of the Accursed
 2 Cryptbreaker
 2 Lazotep Reaver
-2 Diregraf Ghoul
 2 Dark Salvation
 2 Lord of the Accursed
+2 Diregraf Ghoul
 2 Death Baron
+2 Castle Locthwain
 2 Diregraf Colossus
 2 Dread Wanderer
 3 Cryptbreaker
 3 Death Baron
+3 Castle Locthwain
 3 Diregraf Colossus
 3 Lazotep Reaver
 3 Diregraf Ghoul

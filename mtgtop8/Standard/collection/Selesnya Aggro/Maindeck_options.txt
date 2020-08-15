@@ -55,7 +55,6 @@
 1 Fierce Empath
 1 Imposing Vantasaur
 1 Negate
-1 Simic Guildgate
 1 Witching Well
 1 Realm-Cloaked Giant
 1 Arboreal Grazer
@@ -69,6 +68,7 @@
 1 Risen Reef
 1 Neoform
 1 Thornwood Falls
+1 Simic Guildgate
 1 Kasmina's Transmutation
 1 Beanstalk Giant
 1 Omen of the Sea
@@ -91,8 +91,8 @@
 3 Imposing Vantasaur
 3 Tranquil Cove
 3 Witching Well
-3 Cloudkin Seer
 3 Fierce Empath
+3 Cloudkin Seer
 3 Leafkin Druid
 3 Negate
 3 Risen Reef
@@ -153,16 +153,15 @@
 4 Bronzehide Lion
 1 Elspeth, Sun's Nemesis
 1 Ram Through
-1 Selesnya Guildgate
 1 Vivien, Arkbow Ranger
-1 Kronch Wrangler
 1 Feat of Resistance
+1 Selesnya Guildgate
 1 Bloom Hulk
 1 Barkhide Troll
+1 Kronch Wrangler
 1 Outmuscle
 1 Renata, Called to the Hunt
 1 Evolution Sage
-2 Kronch Wrangler
 2 Feat of Resistance
 2 Selesnya Guildgate
 2 Bloom Hulk
@@ -170,17 +169,18 @@
 2 Evolution Sage
 2 Barkhide Troll
 2 Renata, Called to the Hunt
+2 Kronch Wrangler
 2 Outmuscle
-3 Kronch Wrangler
 3 Feat of Resistance
+3 Kronch Wrangler
 3 Renata, Called to the Hunt
 3 Evolution Sage
 3 Bloom Hulk
 3 Ram Through
 3 Barkhide Troll
 4 Ram Through
-4 Kronch Wrangler
 4 Barkhide Troll
+4 Kronch Wrangler
 4 Evolution Sage
 9 Forest
 10 Forest

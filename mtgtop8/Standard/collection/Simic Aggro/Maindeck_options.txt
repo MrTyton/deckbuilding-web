@@ -1,17 +1,16 @@
-8 Island
-2 Quench
+1 Lofty Denial
+4 Fabled Passage
+3 Spectral Sailor
 3 Brineborn Cutthroat
-4 Frilled Mystic
+4 Brineborn Cutthroat
 1 Uro, Titan of Nature's Wrath
+1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
 3 Nissa, Who Shakes the World
 2 Lofty Denial
 3 Lofty Denial
-4 Shark Typhoon
 1 Aether Gust
 1 Negate
-3 Spectral Sailor
-4 Brineborn Cutthroat
 1 Paradise Druid
 2 Paradise Druid
 1 Sinister Sabotage
@@ -20,6 +19,7 @@
 2 Scavenging Ooze
 2 Negate
 3 Mystical Dispute
+4 Shark Typhoon
 2 Aether Gust
 3 Paradise Druid
 4 Paradise Druid
@@ -58,9 +58,9 @@
 2 Mobilized District
 2 Questing Beast
 3 Arboreal Grazer
+3 Mobilized District
 3 Hydroid Krasis
 3 Questing Beast
-3 Mobilized District
 4 Arboreal Grazer
 4 Mobilized District
 2 Sublime Epiphany
@@ -75,7 +75,6 @@
 3 Essence Scatter
 4 Ketria Triome
 4 Essence Scatter
-1 Sea-Dasher Octopus
 1 Blast Zone
 1 Zagoth Triome
 2 Zagoth Triome
@@ -84,6 +83,10 @@
 2 Cunning Nightbonder
 3 Cunning Nightbonder
 3 Castle Vantress
+1 Opt
+2 Opt
+3 Opt
+4 Opt
 1 Gilded Goose
 2 Gilded Goose
 1 Wildborn Preserver
@@ -94,6 +97,7 @@
 1 Disdainful Stroke
 1 Whirlwind Denial
 2 Whirlwind Denial
+1 Sea-Dasher Octopus
 2 Sea-Dasher Octopus
 3 Sea-Dasher Octopus
 3 Scavenging Ooze
@@ -103,24 +107,20 @@
 2 Leafkin Druid
 2 Thryx, the Sudden Storm
 3 Uro, Titan of Nature's Wrath
+4 Voracious Greatshark
+4 Castle Vantress
 4 Mystical Dispute
 1 Dream Eater
 1 Raugrin Triome
 2 Raugrin Triome
 2 Dream Eater
 4 Cunning Nightbonder
-4 Castle Vantress
-4 Voracious Greatshark
-1 Opt
 1 Frantic Inventory
-2 Opt
 2 Frantic Inventory
-3 Sublime Epiphany
 3 Frantic Inventory
-3 Opt
+3 Sublime Epiphany
 4 Frantic Inventory
 4 Sublime Epiphany
-4 Opt
 9 Island
 10 Island
 1 Ugin, the Ineffable

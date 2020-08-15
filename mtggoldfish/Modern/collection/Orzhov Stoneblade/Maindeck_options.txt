@@ -1,23 +1,25 @@
-1 Batterskull
-1 Path to Exile
-1 Lingering Souls
-2 Lingering Souls
-3 Lingering Souls
-4 Lingering Souls
-2 Path to Exile
-4 Stoneforge Mystic
 3 Path to Exile
+4 Lingering Souls
+1 Arid Mesa
+1 Bloodstained Mire
+2 Bloodstained Mire
+2 Arid Mesa
+3 Bloodstained Mire
+3 Arid Mesa
+2 Unearth
 4 Path to Exile
 1 Shambling Vent
-1 Gideon, Ally of Zendikar
-1 Caves of Koilos
-2 Caves of Koilos
-3 Caves of Koilos
 1 Concealed Courtyard
 2 Concealed Courtyard
 3 Concealed Courtyard
 4 Concealed Courtyard
 2 Shambling Vent
+1 Gideon, Ally of Zendikar
+1 Liliana of the Veil
+2 Liliana of the Veil
+1 Caves of Koilos
+2 Caves of Koilos
+3 Caves of Koilos
 1 Fetid Heath
 2 Fetid Heath
 2 Plains
@@ -27,16 +29,13 @@
 2 Bitterblossom
 2 Windbrisk Heights
 3 Bitterblossom
-1 Liliana of the Veil
-2 Liliana of the Veil
 3 Shambling Vent
 4 Shambling Vent
-3 Plains
 1 Dark Confidant
 2 Dark Confidant
 1 Snow-Covered Plains
 2 Snow-Covered Plains
-1 Ghost Quarter
+3 Plains
 1 Leonin Arbiter
 1 Thalia, Guardian of Thraben
 1 Thought-Knot Seer
@@ -44,11 +43,12 @@
 1 Aether Vial
 1 Eldrazi Temple
 1 Eldrazi Displacer
+1 Ghost Quarter
 1 Tectonic Edge
 2 Flickerwisp
 2 Leonin Arbiter
-2 Ghost Quarter
 2 Thalia, Guardian of Thraben
+2 Ghost Quarter
 2 Thought-Knot Seer
 2 Eldrazi Displacer
 2 Eldrazi Temple
@@ -64,8 +64,9 @@
 4 Ghost Quarter
 4 Leonin Arbiter
 4 Caves of Koilos
-4 Eldrazi Temple
 4 Aether Vial
+4 Eldrazi Temple
+3 Liliana of the Veil
 1 Kaya's Guile
 2 Kaya's Guile
 1 Thalia, Heretic Cathar
@@ -75,22 +76,22 @@
 4 Thalia, Guardian of Thraben
 4 Thought-Knot Seer
 5 Snow-Covered Plains
-4 Bitterblossom
-1 Urborg, Tomb of Yawgmoth
-3 Liliana of the Veil
-4 Liliana of the Veil
-1 Kaya, Orzhov Usurper
-1 Smallpox
-1 Flagstones of Trokair
-2 Smallpox
-2 Flagstones of Trokair
-3 Swamp
-3 Flagstones of Trokair
-3 Smallpox
-4 Flagstones of Trokair
-4 Smallpox
 3 Dark Confidant
 4 Dark Confidant
+1 Snow-Covered Swamp
+4 Bitterblossom
+1 Urborg, Tomb of Yawgmoth
+4 Liliana of the Veil
+1 Kaya, Orzhov Usurper
+1 Flagstones of Trokair
+1 Smallpox
+2 Smallpox
+2 Flagstones of Trokair
+3 Flagstones of Trokair
+3 Smallpox
+3 Swamp
+4 Flagstones of Trokair
+4 Smallpox
 1 Indatha Triome
 1 Forest
 1 Voice of Resurgence
@@ -131,16 +132,15 @@
 3 Spectral Procession
 3 Windbrisk Heights
 4 Spectral Procession
-1 Snow-Covered Swamp
+1 Field of Ruin
+2 Field of Ruin
+2 Snow-Covered Swamp
 1 Elspeth, Sun's Nemesis
 2 Urborg, Tomb of Yawgmoth
 3 Urborg, Tomb of Yawgmoth
 1 Castle Locthwain
 1 Collective Brutality
 1 Gurmag Angler
-1 Field of Ruin
-2 Snow-Covered Swamp
-2 Field of Ruin
 1 Polluted Delta
 1 Flooded Strand
 2 Polluted Delta
@@ -150,6 +150,9 @@
 1 Mana Tithe
 2 Elspeth, Sun's Nemesis
 3 Kaya's Guile
+3 Snow-Covered Swamp
+3 Field of Ruin
+4 Snow-Covered Swamp
 1 Cling to Dust
 1 Nihil Spellbomb
 2 Kaya, Orzhov Usurper

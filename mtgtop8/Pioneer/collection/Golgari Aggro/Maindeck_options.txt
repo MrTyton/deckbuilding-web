@@ -37,8 +37,8 @@
 4 Swamp
 1 Murderous Rider
 1 Rankle, Master of Pranks
-2 Murderous Rider
 2 Rankle, Master of Pranks
+2 Murderous Rider
 3 Murderous Rider
 4 Murderous Rider
 1 Abrupt Decay
@@ -49,21 +49,21 @@
 4 Abrupt Decay
 1 Lotleth Troll
 1 Commune with the Gods
-1 Gifted Aetherborn
 1 Sylvan Caryatid
 1 Nullhide Ferox
 1 Zetalpa, Primal Dawn
 1 Soulflayer
 1 Questing Beast
+1 Gifted Aetherborn
 1 Grisly Salvage
 1 Gather the Pack
 2 Questing Beast
 2 Sylvan Caryatid
 2 Lotleth Troll
-2 Gifted Aetherborn
 2 Zetalpa, Primal Dawn
 2 Soulflayer
 2 Nullhide Ferox
+2 Gifted Aetherborn
 2 Gather the Pack
 2 Grisly Salvage
 2 Commune with the Gods
@@ -109,28 +109,6 @@
 4 Bolas's Citadel
 4 Blisterpod
 4 Catacomb Sifter
-1 Vraska, Golgari Queen
-1 Walking Ballista
-1 Mana Confluence
-1 Tireless Tracker
-1 Hardened Scales
-1 Nissa, Voice of Zendikar
-1 Winding Constrictor
-2 Tireless Tracker
-2 Winding Constrictor
-2 Vivien, Arkbow Ranger
-2 Hardened Scales
-2 Nissa, Voice of Zendikar
-2 Walking Ballista
-3 Walking Ballista
-3 Winding Constrictor
-3 Nissa, Voice of Zendikar
-3 Vivien, Arkbow Ranger
-3 Hardened Scales
-4 Nissa, Voice of Zendikar
-4 Hardened Scales
-4 Winding Constrictor
-4 Walking Ballista
 1 Deathrite Shaman
 1 Knight of the Ebon Legion
 1 Fiend Artisan
@@ -144,18 +122,40 @@
 2 Stitcher's Supplier
 2 Urborg, Tomb of Yawgmoth
 3 Deathrite Shaman
+3 Mutavault
 3 Knight of the Ebon Legion
 3 Fiend Artisan
 3 Fatal Push
 3 Castle Locthwain
 3 Stitcher's Supplier
-3 Mutavault
 4 Fatal Push
-4 Mutavault
 4 Deathrite Shaman
 4 Fiend Artisan
 4 Castle Locthwain
+4 Mutavault
 4 Knight of the Ebon Legion
 4 Stitcher's Supplier
 5 Swamp
 6 Swamp
+1 Vraska, Golgari Queen
+1 Walking Ballista
+1 Winding Constrictor
+1 Hardened Scales
+1 Nissa, Voice of Zendikar
+1 Mana Confluence
+1 Tireless Tracker
+2 Hardened Scales
+2 Winding Constrictor
+2 Nissa, Voice of Zendikar
+2 Tireless Tracker
+2 Vivien, Arkbow Ranger
+2 Walking Ballista
+3 Winding Constrictor
+3 Hardened Scales
+3 Nissa, Voice of Zendikar
+3 Walking Ballista
+3 Vivien, Arkbow Ranger
+4 Hardened Scales
+4 Winding Constrictor
+4 Nissa, Voice of Zendikar
+4 Walking Ballista

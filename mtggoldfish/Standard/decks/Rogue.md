@@ -1,0 +1,56 @@
+# Rogue
+
+#### [Export MTGO List](../collection/Rogue/Rogue.txt)
+#### [Export Arena List](../collection/Rogue/Rogue_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Anax,%20Hardened%20in%20the%20Forge%0A2%09Basri's%20Lieutenant%0A4%09Embercleave%0A4%09Grim%20Initiate%0A2%09Lavabrink%20Venturer%0A2%09Marauding%20Raptor%0A12%09Mountain%0A8%09Plains%0A4%09Robber%20of%20the%20Rich%0A4%09Sacred%20Foundry%0A2%09Skyknight%20Vanguard%0A4%09Tajic,%20Legion's%20Edge%0A4%09Tin%20Street%20Dodger%0A4%09Winota,%20Joiner%20of%20Forces&deckside=4%09Bonecrusher%20Giant%0A1%09Claim%20the%20Firstborn%0A3%09Embereth%20Shieldbreaker%0A1%09Justice%20Strike%0A4%09Lavabrink%20Venturer%0A2%09Unchained%20Berserker)
+# Maindeck
+
+|                                      Artifact (4)                                      |                                             Creature (32)                                              |                                         Land (24)                                         |
+|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|4 [Embercleave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473082)|4 [Anax, Hardened in the Forge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476376)|12 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)     |
+|                                                                                        |2 [Basri's Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488904)         |8 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)        |
+|                                                                                        |4 [Grim Initiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461057)              |4 [Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)|
+|                                                                                        |2 [Lavabrink Venturer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479539)         |                                                                                           |
+|                                                                                        |2 [Marauding Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466904)           |                                                                                           |
+|                                                                                        |4 [Robber of the Rich](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473100)         |                                                                                           |
+|                                                                                        |2 [Skyknight Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466972)         |                                                                                           |
+|                                                                                        |4 [Tajic, Legion's Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452954)       |                                                                                           |
+|                                                                                        |4 [Tin Street Dodger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457264)          |                                                                                           |
+|                                                                                        |4 [Winota, Joiner of Forces](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479736)   |                                                                                           |
+
+
+# Sideboard
+
+|                                           Creature (13)                                           |                                        Instant (1)                                        |                                          Sorcery (1)                                           |
+|---------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|4 [Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)     |1 [Justice Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452932)|1 [Claim the Firstborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473080)|
+|3 [Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|                                                                                           |                                                                                                |
+|4 [Lavabrink Venturer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479539)    |                                                                                           |                                                                                                |
+|2 [Unchained Berserker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466918)   |                                                                                           |                                                                                                |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    3|[Marauding Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466904)  |                    2|[Claim the Firstborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473080)   |
+|                    3|[Lavabrink Venturer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479539)|                    2|[Justice Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452932)        |
+|                    4|[Marauding Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466904)  |                    3|[Claim the Firstborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473080)   |
+|                    4|[Lavabrink Venturer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479539)|                    3|[Justice Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452932)        |
+|                    1|[Fervent Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473086)  |                    4|[Claim the Firstborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473080)   |
+|                    2|[Fervent Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473086)  |                    3|[Unchained Berserker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466918)   |
+|                    3|[Fervent Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473086)  |                    4|[Unchained Berserker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466918)   |
+|                    3|[Skyknight Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466972)|                    1|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)  |
+|                    4|[Skyknight Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466972)|                    2|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)  |
+|                    4|[Fervent Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473086)  |                    3|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)  |
+|                    1|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)    |                    4|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
+|                    1|[Inspiring Captain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456534) |                     |                                                                                                 |
+|                    1|[Castle Embereth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473201)   |                     |                                                                                                 |
+|                    2|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)    |                     |                                                                                                 |
+|                    2|[Inspiring Captain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456534) |                     |                                                                                                 |
+|                    2|[Castle Embereth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473201)   |                     |                                                                                                 |
+|                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)    |                     |                                                                                                 |
+|                    3|[Inspiring Captain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456534) |                     |                                                                                                 |
+|                    4|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)    |                     |                                                                                                 |
+|                    4|[Inspiring Captain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456534) |                     |                                                                                                 |
+

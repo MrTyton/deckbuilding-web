@@ -41,9 +41,9 @@
 1 Castle Garenbrig
 1 Vivien, Monsters' Advocate
 1 Garruk's Harbinger
+1 Marauding Raptor
 1 Gemrazer
 1 Garruk, Unleashed
-1 Marauding Raptor
 1 Shifting Ceratops
 1 Primal Might
 2 Garruk's Harbinger
@@ -104,7 +104,6 @@
 1 Steel Overseer
 1 Blast Zone
 1 Mystic Forge
-2 Mobilized District
 2 Solemn Simulacrum
 2 Stonecoil Serpent
 2 Palladium Myr
@@ -115,6 +114,7 @@
 2 Crystalline Giant
 2 Steel Overseer
 2 Ugin, the Ineffable
+2 Mobilized District
 3 Mystic Forge
 3 Solemn Simulacrum
 3 Stonecoil Serpent
@@ -140,9 +140,8 @@
 7 Swamp
 1 Knight of the Ebon Legion
 2 Knight of the Ebon Legion
-1 Dreadhorde Butcher
-1 Temple of Malice
 1 Fiend Artisan
+1 Dreadhorde Butcher
 1 Claim the Firstborn
 1 Call of the Death-Dweller
 1 Priest of Forgotten Gods
@@ -153,16 +152,17 @@
 1 Castle Locthwain
 1 Lazotep Reaver
 1 Blood Crypt
+1 Temple of Malice
 1 Witch's Oven
 1 Mayhem Devil
 1 Murderous Rider
+2 Temple of Malice
 2 Fiend Artisan
 2 Murderous Rider
 2 Blood Crypt
 2 Witch's Oven
 2 Claim the Firstborn
 2 Priest of Forgotten Gods
-2 Temple of Malice
 2 Mayhem Devil
 2 Castle Locthwain
 2 Cauldron Familiar
@@ -199,7 +199,6 @@
 1 Lurrus of the Dream-Den
 2 Lurrus of the Dream-Den
 1 Boon of the Wish-Giver
-1 Imposing Vantasaur
 1 Startling Development
 1 Steam Vents
 1 Hallowed Fountain
@@ -207,14 +206,15 @@
 1 Flourishing Fox
 1 Drannith Stinger
 1 Unpredictable Cyclone
+1 Imposing Vantasaur
 1 Valiant Rescuer
 1 Drannith Healer
 1 Zenith Flare
 1 Raugrin Triome
 2 Boon of the Wish-Giver
 2 Raugrin Triome
-2 Imposing Vantasaur
 2 Drannith Stinger
+2 Imposing Vantasaur
 2 Valiant Rescuer
 2 Drannith Healer
 2 Zenith Flare
@@ -242,8 +242,8 @@
 4 Unpredictable Cyclone
 1 Sea-Dasher Octopus
 1 Pouncing Shoreshark
-1 Heartless Act
 1 Dirge Bat
+1 Heartless Act
 1 Brazen Borrower
 1 Ashiok's Erasure
 1 Mystical Dispute
@@ -276,7 +276,6 @@
 3 Brineborn Cutthroat
 3 Spectral Sailor
 3 Watery Grave
-4 Temple of Deceit
 4 Brazen Borrower
 4 Sea-Dasher Octopus
 4 Cunning Nightbonder
@@ -284,6 +283,7 @@
 4 Spectral Sailor
 4 Brineborn Cutthroat
 4 Slitherwisp
+4 Temple of Deceit
 4 Watery Grave
 6 Island
 7 Island
@@ -322,9 +322,8 @@
 13 Forest
 14 Forest
 1 Zagoth Triome
-1 Acolyte of Affliction
-1 Vito, Thorn of the Dusk Rose
 1 Golgari Findbroker
+1 Vito, Thorn of the Dusk Rose
 1 Casualties of War
 1 Thassa, Deep-Dwelling
 1 Neoform
@@ -333,15 +332,16 @@
 1 Cling to Dust
 1 Vampire Opportunist
 1 Biomancer's Familiar
+1 Acolyte of Affliction
 2 Zagoth Triome
 2 Golgari Findbroker
-2 Acolyte of Affliction
 2 Vito, Thorn of the Dusk Rose
 2 Casualties of War
 2 Vampire Opportunist
 2 Biomancer's Familiar
 2 Neoform
 2 Thirsting Shade
+2 Acolyte of Affliction
 2 Thassa, Deep-Dwelling
 3 Thirsting Shade
 3 Vampire Opportunist
@@ -349,10 +349,10 @@
 3 Biomancer's Familiar
 3 Casualties of War
 3 Neoform
-4 Casualties of War
 4 Neoform
 4 Thirsting Shade
 4 Vampire Opportunist
 4 Knight of the Ebon Legion
 4 Biomancer's Familiar
+4 Casualties of War
 8 Swamp

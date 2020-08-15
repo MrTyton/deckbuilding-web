@@ -25,26 +25,25 @@
 4 Remand
 4 Condescend
 1 Omen of the Sea
-1 Flooded Strand
-1 Polluted Delta
+1 Hydroid Krasis
+1 Misty Rainforest
+1 Breeding Pool
 1 Commandeer
+1 Trinket Mage
 1 Force of Negation
 1 Alchemist's Refuge
-1 Trinket Mage
+1 Flooded Strand
 1 Arcum's Astrolabe
-1 Breeding Pool
-1 Hydroid Krasis
 1 Snow-Covered Island
 1 Scalding Tarn
 1 Wilderness Reclamation
 1 Shark Typhoon
 1 Simic Signet
+1 Polluted Delta
 1 Panglacial Wurm
-1 Misty Rainforest
 2 Breeding Pool
 2 Omen of the Sea
-2 Flooded Strand
-2 Polluted Delta
+2 Trinket Mage
 2 Hydroid Krasis
 2 Commandeer
 2 Force of Negation
@@ -52,26 +51,27 @@
 2 Snow-Covered Island
 2 Arcum's Astrolabe
 2 Cyclonic Rift
-2 Trinket Mage
+2 Flooded Strand
 2 Simic Signet
+2 Polluted Delta
 2 Scalding Tarn
 2 Wilderness Reclamation
 3 Wilderness Reclamation
+3 Omen of the Sea
 3 Shark Typhoon
 3 Trinket Mage
 3 Breeding Pool
 3 Hydroid Krasis
 3 Simic Signet
 3 Commandeer
-3 Omen of the Sea
 3 Snow-Covered Island
 3 Arcum's Astrolabe
+4 Omen of the Sea
 4 Wilderness Reclamation
-4 Hydroid Krasis
 4 Shark Typhoon
+4 Hydroid Krasis
 4 Snow-Covered Island
 4 Commandeer
-4 Omen of the Sea
 4 Trinket Mage
 4 Simic Signet
 4 Arcum's Astrolabe
@@ -87,8 +87,8 @@
 1 Nurturing Peatland
 2 Thragtusk
 3 Ulamog, the Ceaseless Hunger
-1 River of Tears
 1 Spell Burst
+1 River of Tears
 1 Oboro, Palace in the Clouds
 1 Gemstone Caverns
 1 Island
@@ -110,6 +110,7 @@
 1 Inventors' Fair
 1 Wastes
 1 Spine of Ish Sah
+1 Ensnaring Bridge
 1 Buried Ruin
 1 Astral Cornucopia
 1 Throne of Geth
@@ -118,7 +119,6 @@
 1 Surge Node
 1 Coretapper
 1 Paradox Engine
-1 Ensnaring Bridge
 1 Sea Gate Wreckage
 2 Mazemind Tome
 2 Blast Zone
@@ -136,9 +136,9 @@
 3 Astral Cornucopia
 3 Everflowing Chalice
 3 Coretapper
-4 Mazemind Tome
 4 Astral Cornucopia
 4 Coretapper
 4 Mystic Forge
 4 Surge Node
+4 Mazemind Tome
 4 Everflowing Chalice
