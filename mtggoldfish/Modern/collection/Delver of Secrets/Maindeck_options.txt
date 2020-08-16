@@ -12,24 +12,24 @@
 1 Remand
 3 Flooded Strand
 4 Flooded Strand
-1 Spell Pierce
 1 Brazen Borrower
+1 Spell Pierce
 1 Plains
 3 Path to Exile
-1 Sword of Fire and Ice
-1 Batterskull
-1 Stoneforge Mystic
-1 Mantis Rider
 1 Sleight of Hand
-2 Stoneforge Mystic
+1 Batterskull
+1 Sword of Fire and Ice
+1 Mantis Rider
+1 Stoneforge Mystic
 2 Sleight of Hand
+2 Stoneforge Mystic
 2 Mantis Rider
 3 Sleight of Hand
 3 Stoneforge Mystic
 3 Mantis Rider
 4 Sleight of Hand
-4 Stoneforge Mystic
 4 Mantis Rider
+4 Stoneforge Mystic
 2 Kolaghan's Command
 2 Fatal Push
 2 Remand
@@ -47,8 +47,8 @@
 2 Spell Snare
 1 Manamorphose
 1 Stormwing Entity
-2 Manamorphose
 2 Stormwing Entity
+2 Manamorphose
 3 Manamorphose
 3 Stormwing Entity
 4 Manamorphose
@@ -67,8 +67,8 @@
 4 Snapcaster Mage
 4 Archmage's Charm
 1 Arcum's Astrolabe
-2 Arcum's Astrolabe
 2 Snow-Covered Island
+2 Arcum's Astrolabe
 3 Arcum's Astrolabe
 3 Snow-Covered Island
 4 Snow-Covered Island
@@ -90,12 +90,12 @@
 1 Monastery Swiftspear
 1 Rift Bolt
 1 Light Up the Stage
-2 Mountain
+2 Fiery Islet
 2 Lava Spike
 2 Monastery Swiftspear
 2 Rift Bolt
+2 Mountain
 2 Light Up the Stage
-2 Fiery Islet
 3 Lava Spike
 3 Monastery Swiftspear
 3 Light Up the Stage
@@ -103,8 +103,8 @@
 3 Rift Bolt
 3 Mountain
 3 Lava Dart
-4 Lava Dart
 4 Fiery Islet
+4 Lava Dart
 4 Monastery Swiftspear
 4 Lava Spike
 4 Rift Bolt
@@ -131,43 +131,43 @@
 4 Spellstutter Sprite
 1 Cryptic Command
 3 Fatal Push
-4 Arcum's Astrolabe
 4 Fatal Push
+4 Arcum's Astrolabe
 1 Snow-Covered Mountain
-1 Breeding Pool
-1 Tarmogoyf
-1 Hooting Mandrills
-1 Botanical Sanctum
-1 Stubborn Denial
 1 Stomping Ground
+1 Breeding Pool
 1 Forest
-2 Tarmogoyf
+1 Stubborn Denial
+1 Hooting Mandrills
+1 Tarmogoyf
+1 Botanical Sanctum
 2 Hooting Mandrills
+2 Tarmogoyf
 2 Stubborn Denial
-3 Misty Rainforest
 3 Hooting Mandrills
-3 Tarmogoyf
+3 Misty Rainforest
 3 Stubborn Denial
+3 Tarmogoyf
 4 Misty Rainforest
 4 Stubborn Denial
 2 Vapor Snag
 1 Murderous Cut
+1 Blackcleave Cliffs
 1 Jace, Vryn's Prodigy
 1 Terminate
-1 Blackcleave Cliffs
 2 Cryptic Command
 2 Cling to Dust
-1 Snow-Covered Plains
 1 Dreadhorde Arcanist
+1 Snow-Covered Plains
 1 Arid Mesa
 1 Fight as One
 2 Dreadhorde Arcanist
-3 Dreadhorde Arcanist
 3 Seachrome Coast
-1 Raugrin Triome
-1 Shadow of Doubt
-1 Brineborn Cutthroat
+3 Dreadhorde Arcanist
 1 Fact or Fiction
+1 Shadow of Doubt
+1 Raugrin Triome
+1 Brineborn Cutthroat
 2 Brineborn Cutthroat
 2 Shadow of Doubt
 2 Fact or Fiction
@@ -181,20 +181,20 @@
 2 Field of Ruin
 3 Bitterblossom
 4 Bitterblossom
-1 Tarfire
-1 Flame Slash
-1 Blossoming Defense
-2 Tarfire
-2 Blossoming Defense
-2 Flame Slash
-3 Tarfire
-4 Tarmogoyf
 1 Heartless Act
 1 Young Pyromancer
 2 Young Pyromancer
 3 Young Pyromancer
-4 Darkslick Shores
 4 Young Pyromancer
+4 Darkslick Shores
+1 Tarfire
+1 Blossoming Defense
+1 Flame Slash
+2 Blossoming Defense
+2 Flame Slash
+2 Tarfire
+3 Tarfire
+4 Tarmogoyf
 1 Mutagenic Growth
 2 Mutagenic Growth
 4 Hooting Mandrills

@@ -11,9 +11,9 @@
 1 Sheltered Thicket
 1 Tropical Island
 2 Tropical Island
-1 Barbarian Ring
-1 Horizon Canopy
 1 Klothys, God of Destiny
+1 Horizon Canopy
+1 Barbarian Ring
 1 Waterlogged Grove
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
@@ -30,21 +30,21 @@
 3 Elvish Reclaimer
 1 Tundra
 1 Noble Hierarch
+1 Ramunap Excavator
+1 Knight of the Reliquary
+1 Green Sun's Zenith
+1 Gaddock Teeg
 1 Snow-Covered Plains
 1 Dryad Arbor
-1 Ramunap Excavator
 1 Savannah
-1 Knight of the Reliquary
-1 Gaddock Teeg
-1 Green Sun's Zenith
 1 Swords to Plowshares
 2 Windswept Heath
-2 Swords to Plowshares
-2 Green Sun's Zenith
 2 Knight of the Reliquary
-3 Swords to Plowshares
-3 Windswept Heath
+2 Green Sun's Zenith
+2 Swords to Plowshares
 3 Green Sun's Zenith
+3 Windswept Heath
+3 Swords to Plowshares
 3 Knight of the Reliquary
 4 Windswept Heath
 4 Knight of the Reliquary
@@ -56,48 +56,32 @@
 1 Scalding Tarn
 1 Volcanic Island
 3 Tropical Island
-1 Primeval Titan
 1 Dryad of the Ilysian Grove
+1 Primeval Titan
 1 Valakut, the Molten Pinnacle
 2 Dryad of the Ilysian Grove
 3 Taiga
 1 Manabond
 1 Molten Vortex
 4 Gamble
-1 Daze
-1 Stifle
-1 Force of Negation
-1 Tarmogoyf
-1 Spell Pierce
-1 Dreadhorde Arcanist
-1 Mystic Sanctuary
-1 Ponder
-1 Lightning Bolt
-1 Flooded Strand
-1 Polluted Delta
-1 Force of Will
-2 Volcanic Island
-2 Scalding Tarn
-2 Daze
-2 Stifle
-2 Force of Negation
-2 Ponder
-2 Force of Will
-2 Flooded Strand
-2 Lightning Bolt
-2 Dreadhorde Arcanist
-3 Ponder
-3 Force of Will
-3 Lightning Bolt
-3 Dreadhorde Arcanist
-4 Ponder
-4 Force of Will
-1 Scavenging Ooze
-2 Savannah
-4 Swords to Plowshares
+1 Urborg, Tomb of Yawgmoth
+1 Underground Sea
+1 Thoughtseize
+1 Dark Confidant
+1 Snow-Covered Swamp
+2 Dark Confidant
+2 Thoughtseize
+2 Verdant Catacombs
+3 Dark Confidant
+3 Verdant Catacombs
+3 Thoughtseize
+4 Dark Confidant
+4 Thoughtseize
+4 Abrupt Decay
+4 Verdant Catacombs
 1 Ice-Fang Coatl
-1 Marit Lage's Slumber
 1 Arcum's Astrolabe
+1 Marit Lage's Slumber
 1 Mouth of Ronom
 1 Scrying Sheets
 1 Frostwalk Bastion
@@ -110,25 +94,41 @@
 2 Scrying Sheets
 2 Marit Lage's Slumber
 3 Ice-Fang Coatl
+3 Arcum's Astrolabe
 3 Frostwalk Bastion
 3 Riftstone Portal
-3 Arcum's Astrolabe
 3 Scrying Sheets
 4 Ice-Fang Coatl
 4 Arcum's Astrolabe
 4 Frostwalk Bastion
-1 Urborg, Tomb of Yawgmoth
-1 Dark Confidant
-1 Thoughtseize
-1 Underground Sea
-1 Snow-Covered Swamp
-2 Dark Confidant
-2 Thoughtseize
-2 Verdant Catacombs
-3 Verdant Catacombs
-3 Thoughtseize
-3 Dark Confidant
-4 Verdant Catacombs
-4 Abrupt Decay
-4 Dark Confidant
-4 Thoughtseize
+1 Scavenging Ooze
+2 Savannah
+4 Swords to Plowshares
+1 Ponder
+1 Daze
+1 Force of Will
+1 Stifle
+1 Mystic Sanctuary
+1 Force of Negation
+1 Tarmogoyf
+1 Spell Pierce
+1 Dreadhorde Arcanist
+1 Lightning Bolt
+1 Flooded Strand
+1 Polluted Delta
+2 Daze
+2 Ponder
+2 Force of Will
+2 Scalding Tarn
+2 Stifle
+2 Force of Negation
+2 Flooded Strand
+2 Lightning Bolt
+2 Dreadhorde Arcanist
+2 Volcanic Island
+3 Force of Will
+3 Ponder
+3 Lightning Bolt
+3 Dreadhorde Arcanist
+4 Force of Will
+4 Ponder
