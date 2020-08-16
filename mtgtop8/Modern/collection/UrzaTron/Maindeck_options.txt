@@ -1,14 +1,14 @@
-2 Walking Ballista
 4 Wurmcoil Engine
+3 Snow-Covered Forest
 3 Forest
 4 Forest
 1 Relic of Progenitus
-1 Ugin, the Ineffable
 1 Thragtusk
+1 Ugin, the Ineffable
+2 Relic of Progenitus
 4 Snow-Covered Forest
 1 Dismember
 1 Ghost Quarter
-2 Relic of Progenitus
 1 Cascading Cataracts
 1 Golos, Tireless Pilgrim
 2 Golos, Tireless Pilgrim
@@ -80,6 +80,8 @@
 1 Kozilek, Butcher of Truth
 1 Horizon Canopy
 1 World Breaker
+1 Tectonic Edge
+2 All Is Dust
 1 Thought-Knot Seer
 2 Thought-Knot Seer
 1 Spatial Contortion
@@ -87,26 +89,6 @@
 1 Nurturing Peatland
 2 Thragtusk
 3 Ulamog, the Ceaseless Hunger
-1 Spell Burst
-1 River of Tears
-1 Oboro, Palace in the Clouds
-1 Gemstone Caverns
-1 Island
-1 Mindslaver
-1 Field of Ruin
-1 Engineered Explosives
-1 Thirst for Knowledge
-1 Repeal
-1 Academy Ruins
-1 Chalice of the Void
-2 Island
-2 Thirst for Knowledge
-2 Repeal
-3 Island
-3 Thirst for Knowledge
-4 Thirst for Knowledge
-4 Island
-5 Island
 1 Inventors' Fair
 1 Wastes
 1 Spine of Ish Sah
@@ -142,3 +124,27 @@
 4 Mystic Forge
 4 Surge Node
 4 Everflowing Chalice
+1 Spell Burst
+1 River of Tears
+1 Oboro, Palace in the Clouds
+1 Gemstone Caverns
+1 Island
+1 Mindslaver
+1 Field of Ruin
+1 Engineered Explosives
+1 Thirst for Knowledge
+1 Repeal
+1 Academy Ruins
+1 Chalice of the Void
+2 Island
+2 Thirst for Knowledge
+2 Repeal
+3 Island
+3 Thirst for Knowledge
+4 Thirst for Knowledge
+4 Island
+5 Island
+1 Kozilek, the Great Distortion
+3 Walking Ballista
+4 Oblivion Stone
+5 Forest
