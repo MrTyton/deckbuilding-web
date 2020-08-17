@@ -1,318 +1,521 @@
-1 Sacred Foundry
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-1 Teferi, Master of Time
-2 Teferi, Master of Time
-1 Castle Vantress
-2 Castle Vantress
-1 Castle Ardenvale
-1 Dream Trawler
-1 Hallowed Fountain
-1 Elspeth Conquers Death
-1 Plains
-1 Shatter the Sky
-2 Elspeth Conquers Death
-2 Dream Trawler
-2 Plains
-2 Hallowed Fountain
-3 Elspeth Conquers Death
-1 Ugin, the Spirit Dragon
-1 Shark Typhoon
-1 Chemister's Insight
-1 Thassa's Intervention
-1 Raugrin Triome
-1 Temple of Epiphany
-1 Deafening Clarion
-1 Justice Strike
-1 Chandra, Awakened Inferno
-1 Narset of the Ancient Way
-2 Chemister's Insight
-2 Raugrin Triome
-2 Temple of Epiphany
-2 Deafening Clarion
-2 Justice Strike
-2 Shark Typhoon
-2 Narset of the Ancient Way
-2 Thassa's Intervention
-2 Sacred Foundry
-3 Raugrin Triome
-3 Deafening Clarion
-3 Thassa's Intervention
-3 Justice Strike
-3 Sacred Foundry
-4 Raugrin Triome
-4 Sacred Foundry
-2 Rankle, Master of Pranks
-1 Temple of Malice
-3 Hallowed Fountain
-4 Hallowed Fountain
-1 Outlaws' Merriment
-1 Realm-Cloaked Giant
-2 Outlaws' Merriment
-4 Elspeth Conquers Death
-2 Serrated Scorpion
-2 Temple of Malice
-4 Mire Triton
-3 Call of the Death-Dweller
-5 Mountain
-4 Justice Strike
-4 Deafening Clarion
-4 Mayhem Devil
+4 Vito, Thorn of the Dusk Rose
+3 Swamp
+1 Mountain
+2 Mountain
+1 Island
+2 Island
 1 Stomping Ground
+1 Aether Gust
+2 Aether Gust
+1 Breeding Pool
+2 Breeding Pool
+3 Breeding Pool
+4 Breeding Pool
+1 Mystical Dispute
+2 Mystical Dispute
+2 Stomping Ground
+3 Stomping Ground
+4 Stomping Ground
+1 Ketria Triome
+2 Ketria Triome
+3 Ketria Triome
+3 Scavenging Ooze
+1 Temple of Mystery
+1 Steam Vents
+2 Steam Vents
+3 Steam Vents
+4 Ketria Triome
+1 Negate
+3 Mystical Dispute
+1 Uro, Titan of Nature's Wrath
+2 Uro, Titan of Nature's Wrath
+1 Temple of Abandon
+1 Cavalier of Thorns
+1 Genesis Ultimatum
+1 Scorching Dragonfire
+1 Ugin, the Spirit Dragon
+1 Cultivate
+1 End-Raze Forerunners
+1 Finale of Devastation
+2 Cavalier of Thorns
+2 Scorching Dragonfire
+2 Negate
+2 Genesis Ultimatum
+2 Cultivate
+3 Uro, Titan of Nature's Wrath
+3 Scorching Dragonfire
+3 Genesis Ultimatum
+3 Cavalier of Thorns
+4 Uro, Titan of Nature's Wrath
+4 Mystical Dispute
+2 Castle Locthwain
+1 Blood Crypt
+1 Priest of Forgotten Gods
+1 Claim the Firstborn
+2 Blood Crypt
+2 Claim the Firstborn
+2 Priest of Forgotten Gods
+3 Blood Crypt
+3 Claim the Firstborn
+3 Priest of Forgotten Gods
+4 Priest of Forgotten Gods
+3 Mountain
+4 Swamp
+5 Swamp
+6 Swamp
+1 Village Rites
+2 Village Rites
+3 Village Rites
+1 Gutterbones
+2 Gutterbones
+3 Gutterbones
+4 Gutterbones
+4 Claim the Firstborn
+4 Blood Crypt
+7 Swamp
+1 Woe Strider
+1 Mayhem Devil
+2 Mayhem Devil
+2 Woe Strider
+3 Mayhem Devil
+3 Woe Strider
+4 Mayhem Devil
+4 Mountain
+5 Mountain
+1 Weaponize the Monsters
+4 Village Rites
+1 Call of the Death-Dweller
+2 Call of the Death-Dweller
+1 Temple of Malice
+1 Paradise Druid
+2 Paradise Druid
+3 Paradise Druid
+3 Island
+1 Godless Shrine
+1 Temple of Silence
+2 Godless Shrine
+3 Godless Shrine
+4 Godless Shrine
+3 Castle Locthwain
+3 Plains
+1 Castle Ardenvale
+1 Oath of Kaya
+1 Agonizing Remorse
+1 Doom Foretold
+1 Yorion, Sky Nomad
+2 Doom Foretold
+2 Yorion, Sky Nomad
+2 Agonizing Remorse
+2 Oath of Kaya
+3 Oath of Kaya
+3 Yorion, Sky Nomad
+3 Doom Foretold
+3 Agonizing Remorse
+4 Elspeth Conquers Death
+4 Agonizing Remorse
+4 Doom Foretold
+2 Temple of Silence
+1 Extinction Event
+2 Extinction Event
+1 Glass Casket
+2 Glass Casket
+1 Kaya, Orzhov Usurper
+1 Polukranos, Unchained
+1 Burglar Rat
+1 Yarok's Fenlurker
+1 Charming Prince
+2 Kaya, Orzhov Usurper
+2 Burglar Rat
+2 Charming Prince
+2 Yarok's Fenlurker
+3 Temple of Silence
+3 Charming Prince
+3 Burglar Rat
+3 Yarok's Fenlurker
+3 Treacherous Blessing
+4 Charming Prince
+4 Treacherous Blessing
+4 Temple of Silence
+4 Burglar Rat
+4 Yarok's Fenlurker
+1 Serrated Scorpion
+2 Serrated Scorpion
+1 Mire Triton
+1 Kroxa, Titan of Death's Hunger
+1 Fiend Artisan
+2 Mire Triton
+2 Kroxa, Titan of Death's Hunger
+2 Fiend Artisan
+3 Mire Triton
+3 Kroxa, Titan of Death's Hunger
+1 Dreadhorde Butcher
+2 Dreadhorde Butcher
+3 Call of the Death-Dweller
+3 Dreadhorde Butcher
+5 Forest
+6 Forest
+4 Island
+4 Paradise Druid
+1 Questing Beast
+1 Brazen Borrower
+2 Brazen Borrower
+3 Brazen Borrower
+1 Castle Vantress
+5 Island
+1 Nightpack Ambusher
+2 Nightpack Ambusher
+3 Nightpack Ambusher
+1 Shatter the Sky
+2 Shatter the Sky
+3 Shatter the Sky
+1 Temple of Malady
+1 Murderous Rider
+2 Temple of Malady
+1 Elder Gargaroth
+2 Questing Beast
+3 Questing Beast
+4 Mire Triton
+6 Island
+1 Rankle, Master of Pranks
+2 Rankle, Master of Pranks
+4 Dreadhorde Butcher
+3 Serrated Scorpion
+4 Serrated Scorpion
+6 Mountain
+1 Midnight Reaper
+4 Woe Strider
+1 Heartless Act
+2 Heartless Act
+1 Omen of the Sea
+1 Narset, Parter of Veils
+1 Hallowed Fountain
+1 Temple of Enlightenment
+2 Omen of the Sea
+2 Narset, Parter of Veils
+2 Temple of Enlightenment
+2 Hallowed Fountain
+3 Omen of the Sea
+3 Narset, Parter of Veils
+3 Hallowed Fountain
+4 Omen of the Sea
+4 Hallowed Fountain
+1 Knight of the Ebon Legion
+2 Knight of the Ebon Legion
+3 Knight of the Ebon Legion
+4 Knight of the Ebon Legion
+1 Shark Typhoon
+2 Temple of Mystery
+2 Shark Typhoon
+3 Temple of Mystery
+1 Blast Zone
+2 Castle Vantress
+4 Nightpack Ambusher
+2 Garruk, Cursed Huntsman
+3 Temple of Malady
+7 Forest
+2 Murderous Rider
+2 Elder Gargaroth
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+3 Bonecrusher Giant
+4 Brazen Borrower
+1 Lovestruck Beast
+2 Lovestruck Beast
+3 Lovestruck Beast
+4 Lovestruck Beast
+1 Temple of Deceit
+1 Cling to Dust
+1 Teferi, Master of Time
+1 Disinformation Campaign
+1 Watery Grave
+1 Dance of the Manse
+2 Cling to Dust
+2 Temple of Deceit
+2 Watery Grave
+2 Disinformation Campaign
+3 Temple of Deceit
+3 Watery Grave
+3 Disinformation Campaign
+4 Oath of Kaya
+4 Shatter the Sky
+4 Narset, Parter of Veils
+4 Disinformation Campaign
+4 Watery Grave
+1 Opt
+2 Opt
+3 Opt
+4 Opt
+1 Frantic Inventory
+2 Frantic Inventory
+3 Frantic Inventory
+4 Frantic Inventory
+4 Steam Vents
+2 Temple of Malice
+1 Voracious Greatshark
+1 Sinister Sabotage
+1 Jolrael, Mwonvuli Recluse
+2 Sinister Sabotage
+2 Jolrael, Mwonvuli Recluse
+3 Sinister Sabotage
+3 Shark Typhoon
+1 Hanged Executioner
+1 Knight of Autumn
+1 Chevill, Bane of Monsters
+1 Mythos of Nethroi
+1 Temple of Plenty
+2 Chevill, Bane of Monsters
+2 Knight of Autumn
+2 Mythos of Nethroi
+2 Temple of Plenty
+3 Knight of Autumn
+3 Temple of Plenty
+3 Chevill, Bane of Monsters
+3 Mythos of Nethroi
+4 Mythos of Nethroi
+1 Bastion of Remembrance
+1 Lazotep Reaver
+2 Bastion of Remembrance
+2 Lazotep Reaver
+3 Lazotep Reaver
+4 Lazotep Reaver
 1 Archfiend's Vessel
 2 Archfiend's Vessel
 3 Archfiend's Vessel
-1 Dreadhorde Butcher
-2 Dreadhorde Butcher
-3 Dreadhorde Butcher
-1 Lazotep Reaver
-4 Woe Strider
+4 Archfiend's Vessel
+4 Kroxa, Titan of Death's Hunger
+7 Island
+1 Frilled Mystic
+1 Essence Scatter
+1 Brineborn Cutthroat
+1 Quench
+1 Wolfwillow Haven
+2 Frilled Mystic
+2 Quench
+2 Brineborn Cutthroat
+2 Wolfwillow Haven
+3 Quench
+3 Frilled Mystic
+4 Temple of Mystery
+4 Frilled Mystic
+1 Liliana, Waker of the Dead
+1 Terror of the Peaks
+1 Chandra, Heart of Fire
+1 Arboreal Grazer
+1 Radha, Heart of Keld
+2 Terror of the Peaks
+2 Liliana, Waker of the Dead
+2 Radha, Heart of Keld
+2 Arboreal Grazer
+2 Temple of Abandon
+3 Terror of the Peaks
+3 Heartless Act
+3 Arboreal Grazer
+4 Arboreal Grazer
+4 Plains
+5 Plains
+1 Absorb
+1 Dovin's Veto
+1 Whirlwind Denial
+1 Dream Trawler
+2 Absorb
+2 Castle Ardenvale
+2 Dovin's Veto
+2 Dream Trawler
+2 Whirlwind Denial
+3 Absorb
+3 Dream Trawler
+3 Temple of Enlightenment
+4 Temple of Enlightenment
+4 Absorb
+4 Dream Trawler
+1 Bolas's Citadel
+1 Trail of Crumbs
+2 Bolas's Citadel
+2 Trail of Crumbs
+3 Bolas's Citadel
+3 Trail of Crumbs
+4 Trail of Crumbs
+4 Gilded Goose
+1 Edgewall Innkeeper
+1 Fae of Wishes
+1 Beanstalk Giant
+1 Lucky Clover
+1 Escape to the Wilds
+2 Edgewall Innkeeper
+2 Fae of Wishes
+2 Lucky Clover
+2 Beanstalk Giant
+3 Edgewall Innkeeper
+3 Fae of Wishes
+3 Lucky Clover
+3 Beanstalk Giant
+4 Edgewall Innkeeper
+4 Bonecrusher Giant
+4 Fae of Wishes
+4 Beanstalk Giant
+4 Lucky Clover
+1 Thirst for Meaning
+1 Thrill of Possibility
+1 Blitz of the Thunder-Raptor
+1 Swiftwater Cliffs
+1 Cathartic Reunion
+1 Teferi's Tutelage
+1 Ominous Seas
+1 Temple of Epiphany
+1 Storm's Wrath
+2 Thirst for Meaning
+2 Temple of Epiphany
+2 Ominous Seas
+2 Thrill of Possibility
+2 Storm's Wrath
+2 Swiftwater Cliffs
+2 Cathartic Reunion
+2 Teferi's Tutelage
+2 Blitz of the Thunder-Raptor
+3 Thirst for Meaning
+3 Temple of Epiphany
+3 Thrill of Possibility
+3 Cathartic Reunion
+3 Teferi's Tutelage
+3 Storm's Wrath
+3 Blitz of the Thunder-Raptor
+3 Ominous Seas
+4 Thrill of Possibility
+4 Teferi's Tutelage
+4 Cathartic Reunion
+4 Blitz of the Thunder-Raptor
+4 Storm's Wrath
+4 Ominous Seas
+4 Thirst for Meaning
+1 The Great Henge
+1 Assassin's Trophy
+1 Stonecoil Serpent
+1 Gemrazer
+2 Assassin's Trophy
+2 The Great Henge
+2 Stonecoil Serpent
+2 Gemrazer
+3 Stonecoil Serpent
+3 Elder Gargaroth
+3 Eliminate
+3 Murderous Rider
+4 Stonecoil Serpent
+4 Elder Gargaroth
+8 Forest
 1 Judith, the Scourge Diva
 1 Whisper Squad
 2 Judith, the Scourge Diva
+2 Midnight Reaper
 2 Whisper Squad
 3 Whisper Squad
 4 Whisper Squad
-4 Dreadhorde Butcher
-4 Archfiend's Vessel
-3 Serrated Scorpion
-4 Kroxa, Titan of Death's Hunger
-1 Dovin's Veto
-2 Dovin's Veto
-3 Narset, Parter of Veils
-2 Stomping Ground
-3 Fiend Artisan
-1 Watery Grave
-2 Steam Vents
-2 Watery Grave
-3 Steam Vents
-3 Watery Grave
-4 Steam Vents
-4 Watery Grave
-1 Lochmere Serpent
-1 Ashiok, Nightmare Muse
-1 Angrath's Rampage
-1 Extinction Event
-1 Nicol Bolas, Dragon-God
-1 Negate
-1 Scorching Dragonfire
-1 Thought Erasure
-1 Temple of Deceit
-1 Aether Gust
-2 Temple of Deceit
-2 Ashiok, Nightmare Muse
-2 Extinction Event
-2 Angrath's Rampage
-2 Nicol Bolas, Dragon-God
-2 Thought Erasure
-2 Aether Gust
-2 Negate
-2 Scorching Dragonfire
-3 Temple of Malice
-3 Temple of Deceit
-3 Scorching Dragonfire
-3 Angrath's Rampage
-3 Extinction Event
-3 Thought Erasure
-3 Nicol Bolas, Dragon-God
-4 Nicol Bolas, Dragon-God
-4 Temple of Malice
-4 Temple of Deceit
-4 Scorching Dragonfire
-4 Extinction Event
-4 Narset, Parter of Veils
-4 Angrath's Rampage
-4 Thought Erasure
-3 Island
-4 Island
-5 Island
-1 Stonecoil Serpent
-2 Stonecoil Serpent
-3 Stonecoil Serpent
-4 Stonecoil Serpent
-1 Dirge Bat
-1 Pouncing Shoreshark
-1 Sea-Dasher Octopus
-1 Insatiable Hemophage
-1 Marauding Raptor
-1 Brazen Borrower
-1 Pollywog Symbiote
-1 Everquill Phoenix
-1 Chamber Sentry
-2 Pouncing Shoreshark
-2 Insatiable Hemophage
-2 Marauding Raptor
-2 Chamber Sentry
-2 Brazen Borrower
-2 Sea-Dasher Octopus
-2 Pollywog Symbiote
-2 Everquill Phoenix
-3 Pouncing Shoreshark
-3 Insatiable Hemophage
-3 Marauding Raptor
-3 Chamber Sentry
-3 Everquill Phoenix
-3 Brazen Borrower
-3 Sea-Dasher Octopus
-3 Pollywog Symbiote
-4 Marauding Raptor
-4 Pouncing Shoreshark
-4 Sea-Dasher Octopus
-4 Everquill Phoenix
-4 Insatiable Hemophage
-4 Pollywog Symbiote
-4 Chamber Sentry
-6 Mountain
-1 Demonic Embrace
-4 Serrated Scorpion
 8 Swamp
-1 Temple of Enlightenment
-2 Shatter the Sky
-1 Duress
-1 Agonizing Remorse
-1 Lurrus of the Dream-Den
-2 Lurrus of the Dream-Den
-1 Tranquil Cove
-2 Tranquil Cove
-2 Realm-Cloaked Giant
-1 Midnight Reaper
-2 Midnight Reaper
-1 Liliana, Waker of the Dead
-1 Tymaret Calls the Dead
-1 Carnival/Carnage
-1 Witch's Oven
-2 Demonic Embrace
-2 Tymaret Calls the Dead
-3 Tymaret Calls the Dead
-1 Bastion of Remembrance
-2 Lazotep Reaver
-2 Bastion of Remembrance
-2 Weaponize the Monsters
-3 Lazotep Reaver
-3 Bastion of Remembrance
-4 Lazotep Reaver
-1 Blast Zone
-1 Forest
-2 Forest
-3 Forest
-4 Forest
-5 Forest
-6 Forest
-7 Forest
-8 Forest
-1 Wolfwillow Haven
-1 Ketria Triome
-1 Paradise Druid
-1 Uro, Titan of Nature's Wrath
-1 Arboreal Grazer
-1 Mass Manipulation
-1 Hydroid Krasis
-1 Nissa, Who Shakes the World
-1 Breeding Pool
-1 Temple of Mystery
-1 Cultivate
-2 Wolfwillow Haven
-2 Ugin, the Spirit Dragon
-2 Paradise Druid
-2 Ketria Triome
-2 Uro, Titan of Nature's Wrath
-2 Hydroid Krasis
-2 Mass Manipulation
-2 Blast Zone
-2 Arboreal Grazer
-2 Nissa, Who Shakes the World
-2 Temple of Mystery
-2 Breeding Pool
-2 Cultivate
-3 Ugin, the Spirit Dragon
-3 Nissa, Who Shakes the World
-3 Wolfwillow Haven
-3 Hydroid Krasis
-3 Temple of Mystery
-3 Breeding Pool
-3 Cultivate
-3 Arboreal Grazer
-4 Nissa, Who Shakes the World
-4 Wolfwillow Haven
-4 Ugin, the Spirit Dragon
-4 Temple of Mystery
-4 Arboreal Grazer
-4 Cultivate
-4 Hydroid Krasis
-4 Breeding Pool
-1 Absorb
-1 Frantic Inventory
-1 Glass Casket
-1 Whirlwind Denial
-1 Omen of the Sea
-1 Mystical Dispute
-2 Absorb
-2 Castle Ardenvale
-2 Temple of Enlightenment
-2 Frantic Inventory
-2 Glass Casket
-2 Whirlwind Denial
-2 Omen of the Sea
-2 Mystical Dispute
-3 Absorb
-3 Temple of Enlightenment
-3 Plains
-3 Dream Trawler
-3 Frantic Inventory
-3 Omen of the Sea
-3 Shatter the Sky
-4 Absorb
-4 Temple of Enlightenment
-4 Dream Trawler
-4 Frantic Inventory
-4 Omen of the Sea
-4 Plains
-5 Plains
-1 Scavenging Ooze
-1 Lovestruck Beast
-1 The Great Henge
-1 Barkhide Troll
-1 Bonders' Enclave
-1 Primal Might
-1 Questing Beast
-1 Garruk, Unleashed
-1 Garruk's Harbinger
-1 Gemrazer
-1 Castle Garenbrig
-1 Pelt Collector
-2 Bonders' Enclave
-2 Lovestruck Beast
-2 Primal Might
-2 Questing Beast
-2 The Great Henge
-2 Garruk's Harbinger
-2 Scavenging Ooze
-2 Gemrazer
-2 Castle Garenbrig
-2 Pelt Collector
-2 Barkhide Troll
-3 Scavenging Ooze
-3 Lovestruck Beast
-3 Garruk's Harbinger
-3 Questing Beast
-3 Gemrazer
-3 Primal Might
-3 Pelt Collector
-3 Barkhide Troll
-3 Castle Garenbrig
-4 Scavenging Ooze
-4 Primal Might
-4 Lovestruck Beast
-4 Barkhide Troll
-4 Pelt Collector
-9 Forest
-10 Forest
-11 Forest
-12 Forest
-13 Forest
-14 Forest
-15 Forest
-16 Forest
-17 Forest
-18 Forest
-19 Forest
+9 Swamp
+1 All That Glitters
+1 Gingerbrute
+1 Sentinel's Eyes
+1 Glaring Aegis
+1 Solid Footing
+1 Karametra's Blessing
+1 Gods Willing
+1 Speaker of the Heavens
+1 Light of Hope
+1 Alseid of Life's Bounty
+1 Healer's Hawk
+2 All That Glitters
+2 Gingerbrute
+2 Sentinel's Eyes
+2 Karametra's Blessing
+2 Solid Footing
+2 Glaring Aegis
+2 Speaker of the Heavens
+2 Light of Hope
+2 Gods Willing
+2 Alseid of Life's Bounty
+2 Healer's Hawk
+3 All That Glitters
+3 Sentinel's Eyes
+3 Solid Footing
+3 Glaring Aegis
+3 Karametra's Blessing
+3 Gingerbrute
+3 Gods Willing
+3 Alseid of Life's Bounty
+3 Speaker of the Heavens
+3 Healer's Hawk
+4 All That Glitters
+4 Solid Footing
+4 Glaring Aegis
+4 Karametra's Blessing
+4 Sentinel's Eyes
+4 Gods Willing
+4 Alseid of Life's Bounty
+4 Healer's Hawk
+6 Plains
+7 Plains
+8 Plains
+9 Plains
+10 Plains
+11 Plains
+12 Plains
+13 Plains
+14 Plains
+15 Plains
+16 Plains
+17 Plains
+18 Plains
+19 Plains
+20 Plains
+8 Island
+9 Island
+10 Island
+11 Island
+12 Island
+13 Island
+14 Island
+15 Island
+16 Island
+17 Island
+18 Island
+19 Island
+20 Island
+21 Island
+22 Island
+23 Island
+24 Island
+25 Island
+26 Island
+27 Island
+28 Island
+29 Island
+30 Island
+31 Island
+32 Island
+33 Island
+34 Island
+35 Island
+36 Island
+37 Island
+38 Island
+39 Island
+40 Island
+41 Island
+42 Island
+43 Island
+44 Island
+45 Island
+46 Island
+47 Island
+48 Island
+49 Island
+50 Island
+51 Island
+52 Island
+53 Island
+54 Island
+55 Island
+56 Island
+57 Island
+58 Island
+59 Island
+60 Island

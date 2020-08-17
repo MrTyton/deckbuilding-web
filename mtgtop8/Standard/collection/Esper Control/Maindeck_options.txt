@@ -119,6 +119,7 @@
 1 Teferi's Ageless Insight
 1 Ominous Seas
 1 Precognitive Perception
+1 Gyruda, Doom of Depths
 1 Thief of Sanity
 1 Merfolk Secretkeeper
 1 Wall of Lost Thoughts
@@ -128,7 +129,6 @@
 1 Conclave Tribunal
 1 Time Wipe
 1 Teferi's Tutelage
-1 Gyruda, Doom of Depths
 1 Obsessive Stitcher
 1 Sage of Mysteries
 1 Arrester's Admonition
@@ -163,8 +163,8 @@
 1 Tyrant's Scorn
 2 The Wanderer
 1 The Elderspell
-2 Castle Vantress
 2 The Elderspell
+2 Castle Vantress
 3 Eliminate
 3 Teferi, Master of Time
 1 Zagoth Triome
@@ -177,12 +177,6 @@
 3 Zagoth Triome
 3 Mythos of Nethroi
 4 Zagoth Triome
-1 Duress
-1 Disinformation Campaign
-2 Duress
-2 Disinformation Campaign
-3 Duress
-4 Duress
 1 Burglar Rat
 1 Treacherous Blessing
 1 Yarok's Fenlurker
@@ -196,6 +190,12 @@
 4 Yarok's Fenlurker
 4 Treacherous Blessing
 4 Burglar Rat
+1 Disinformation Campaign
+1 Duress
+2 Disinformation Campaign
+2 Duress
+3 Duress
+4 Duress
 1 Cry of the Carnarium
 1 Murderous Rider
 2 Murderous Rider
@@ -206,9 +206,9 @@
 1 Ugin, the Ineffable
 2 Banishing Light
 2 Liliana, Dreadhorde General
-2 Eat to Extinction
 2 Ugin, the Spirit Dragon
 2 Ugin, the Ineffable
+2 Eat to Extinction
 2 Negate
 2 Despark
 3 Ugin, the Ineffable

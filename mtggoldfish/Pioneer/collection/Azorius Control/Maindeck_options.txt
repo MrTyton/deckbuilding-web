@@ -27,18 +27,18 @@
 3 Plains
 1 Dream Trawler
 1 Prairie Stream
-1 Omen of the Sea
 1 Baffling End
+1 Omen of the Sea
 2 Dream Trawler
-2 Omen of the Sea
 2 Prairie Stream
+2 Omen of the Sea
 2 Baffling End
-3 Omen of the Sea
 3 Baffling End
 3 Essence Scatter
-4 Omen of the Sea
+3 Omen of the Sea
 4 Baffling End
 4 Plains
+4 Omen of the Sea
 5 Plains
 6 Plains
 4 Sinister Sabotage
@@ -64,14 +64,14 @@
 4 Neutralize
 4 Cast Out
 4 Hieroglyphic Illumination
-1 Raugrin Triome
 1 Sulfur Falls
-1 Settle the Wreckage
+1 Raugrin Triome
 1 Sacred Foundry
+1 Settle the Wreckage
 2 Raugrin Triome
+2 Sacred Foundry
 2 Sulfur Falls
 2 Settle the Wreckage
-2 Sacred Foundry
 3 Raugrin Triome
 1 Fumigate
 1 Drake Haven
@@ -79,8 +79,8 @@
 2 Teferi, Master of Time
 2 Drake Haven
 3 Drake Haven
-1 Mazemind Tome
 1 Arch of Orazca
+1 Mazemind Tome
 2 Mazemind Tome
 1 Thassa's Intervention
 2 Thassa's Intervention
@@ -99,6 +99,18 @@
 2 Detention Sphere
 3 Gideon of the Trials
 4 Field of Ruin
+1 Zenith Flare
+1 Nimble Obstructionist
+1 Flourishing Fox
+2 Nimble Obstructionist
+2 Flourishing Fox
+2 Zenith Flare
+3 Sacred Foundry
+3 Zenith Flare
+3 Flourishing Fox
+4 Sacred Foundry
+4 Flourishing Fox
+4 Zenith Flare
 1 Tamiyo, Collector of Tales
 1 Temple Garden
 1 Uro, Titan of Nature's Wrath
@@ -114,15 +126,3 @@
 4 Fabled Passage
 4 Uro, Titan of Nature's Wrath
 4 Breeding Pool
-1 Zenith Flare
-1 Nimble Obstructionist
-1 Flourishing Fox
-2 Nimble Obstructionist
-2 Flourishing Fox
-2 Zenith Flare
-3 Sacred Foundry
-3 Zenith Flare
-3 Flourishing Fox
-4 Flourishing Fox
-4 Zenith Flare
-4 Sacred Foundry

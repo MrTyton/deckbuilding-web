@@ -47,12 +47,12 @@
 1 Dungeon Geists
 1 Stern Dismissal
 1 Elspeth Conquers Death
-1 Disenchant
 1 Pacifism
+1 Disenchant
 2 Pacifism
-1 Giant Killer
 1 Tale's End
 1 Righteousness
+1 Giant Killer
 1 Essence Capture
 1 Gideon's Sacrifice
 1 Sleep of the Dead
@@ -60,11 +60,15 @@
 1 Frogify
 1 Angelic Ascension
 2 Angelic Ascension
-1 Heliod's Intervention
-2 Heliod's Intervention
+1 Blast Zone
+1 Citywide Bust
+1 Shatter the Sky
+2 Blast Zone
 1 Brazen Borrower
 2 Grafdigger's Cage
 2 Sorcerous Spyglass
+1 Heliod's Intervention
+2 Heliod's Intervention
 2 Unsummon
 1 Stormwild Capridor
 2 Stormwild Capridor
@@ -75,10 +79,6 @@
 1 Fight as One
 2 Elite Guardmage
 2 Dovin, Grand Arbiter
-1 Blast Zone
-1 Citywide Bust
-1 Shatter the Sky
-2 Blast Zone
 1 Swift Response
 1 Disdainful Stroke
 1 Shadowspear
@@ -88,16 +88,16 @@
 3 Swift Response
 1 Conclave Tribunal
 3 Lofty Denial
-2 Banishing Light
-4 Teferi, Time Raveler
 1 Essence Scatter
-2 Disenchant
 2 Essence Scatter
-3 Pacifism
+2 Disenchant
 3 Essence Scatter
+3 Pacifism
 4 Essence Scatter
 4 Pacifism
 4 Negate
+2 Banishing Light
+4 Teferi, Time Raveler
 2 Baneslayer Angel
 3 Baneslayer Angel
 4 Baneslayer Angel
