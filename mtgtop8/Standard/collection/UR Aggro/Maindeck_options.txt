@@ -1,48 +1,52 @@
+2 Brazen Borrower
+4 Lofty Denial
+1 Riddleform
+2 Riddleform
+3 Riddleform
+4 Riddleform
+3 Unsummon
+7 Mountain
+2 Pteramander
 3 Pteramander
 4 Pteramander
-1 Spectral Sailor
 2 Sea-Dasher Octopus
-2 Spectral Sailor
 3 Sea-Dasher Octopus
 3 Spectral Sailor
 4 Spectral Sailor
+1 Bonecrusher Giant
 1 Thrill of Possibility
 2 Thrill of Possibility
-1 Bonecrusher Giant
-1 Samut's Sprint
-2 Samut's Sprint
+1 Castle Vantress
+1 See the Truth
+2 See the Truth
+3 See the Truth
 9 Island
 1 Frantic Inventory
 2 Frantic Inventory
 3 Frantic Inventory
 4 Frantic Inventory
-1 Castle Vantress
-1 See the Truth
-2 See the Truth
-3 See the Truth
 1 Finale of Promise
 2 Finale of Promise
 3 Thrill of Possibility
+1 Aether Gust
+2 Aether Gust
+3 Aether Gust
 4 Sea-Dasher Octopus
 1 Swiftwater Cliffs
 2 Swiftwater Cliffs
 3 Swiftwater Cliffs
 4 Swiftwater Cliffs
+2 Bonecrusher Giant
 1 Scorching Dragonfire
 2 Scorching Dragonfire
-1 Riddleform
-2 Riddleform
-3 Riddleform
-4 Riddleform
 1 Ionize
 2 Ionize
-3 Unsummon
-2 Bonecrusher Giant
 1 Maximize Velocity
 1 Beacon Bolt
 1 Infuriate
 2 Infuriate
 4 See the Truth
+1 The Royal Scions
 1 Fabled Passage
 4 Thrill of Possibility
 1 Blitz of the Thunder-Raptor
@@ -51,9 +55,6 @@
 1 Izzet Guildgate
 2 Izzet Guildgate
 1 Embercleave
-1 Aether Gust
-2 Aether Gust
-3 Aether Gust
 3 Scorching Dragonfire
 8 Mountain
 1 Lava Coil
@@ -63,7 +64,6 @@
 1 Raking Claws
 2 Raking Claws
 3 Infuriate
-1 The Royal Scions
 1 Winged Words
 2 Winged Words
 3 Winged Words
@@ -82,16 +82,31 @@
 4 Finale of Promise
 1 Merchant of the Vale
 2 Merchant of the Vale
-1 Lore Drakkis
-2 Lore Drakkis
 1 Experimental Overload
 2 Experimental Overload
-1 Castle Embereth
-2 The Royal Scions
-3 The Royal Scions
+1 Lore Drakkis
+2 Lore Drakkis
 1 Unsubstantiate
 2 Unsubstantiate
 3 Samut's Sprint
+1 Castle Embereth
+2 The Royal Scions
+3 The Royal Scions
+4 Unsummon
+1 Omen of the Sea
+1 Go for Blood
+1 Negate
+1 Fire Prophecy
+1 Nadir Kraken
+1 Reconnaissance Mission
+2 Omen of the Sea
+2 Fire Prophecy
+2 Negate
+3 Fire Prophecy
+3 Improbable Alliance
+4 Ominous Seas
+4 Improbable Alliance
+4 Fire Prophecy
 1 Shark Typhoon
 2 Shark Typhoon
 2 Castle Vantress
@@ -102,21 +117,6 @@
 4 Ionize
 4 Brazen Borrower
 4 Bonecrusher Giant
-1 Omen of the Sea
-1 Reconnaissance Mission
-1 Negate
-1 Fire Prophecy
-1 Go for Blood
-1 Nadir Kraken
-2 Omen of the Sea
-2 Fire Prophecy
-2 Negate
-3 Fire Prophecy
-3 Improbable Alliance
-4 Fire Prophecy
-4 Ominous Seas
-4 Improbable Alliance
-4 Scorching Dragonfire
 1 Soul Sear
 1 Faerie Vandal
 1 Miscast
@@ -127,7 +127,25 @@
 3 Soul Sear
 4 Faerie Vandal
 4 Crackling Drake
-4 Maximize Velocity
+4 Scorching Dragonfire
+1 Merfolk Secretkeeper
+1 Arclight Phoenix
+1 Ox of Agonas
+1 Cathartic Reunion
+2 Merfolk Secretkeeper
+2 Arclight Phoenix
+2 Cathartic Reunion
+2 Ox of Agonas
+3 Merfolk Secretkeeper
+3 Arclight Phoenix
+3 Blitz of the Thunder-Raptor
+3 Cathartic Reunion
+3 Merchant of the Vale
+4 Merchant of the Vale
+4 Merfolk Secretkeeper
+4 Arclight Phoenix
+4 Blitz of the Thunder-Raptor
+4 Cathartic Reunion
 1 Stonecoil Serpent
 1 Barrin, Tolarian Archmage
 1 Light Up the Stage
@@ -137,23 +155,6 @@
 3 Light Up the Stage
 3 Stonecoil Serpent
 4 Light Up the Stage
-4 Stonecoil Serpent
 4 Infuriate
-1 Merfolk Secretkeeper
-1 Ox of Agonas
-1 Arclight Phoenix
-1 Cathartic Reunion
-2 Merfolk Secretkeeper
-2 Arclight Phoenix
-2 Cathartic Reunion
-2 Ox of Agonas
-3 Merfolk Secretkeeper
-3 Blitz of the Thunder-Raptor
-3 Cathartic Reunion
-3 Arclight Phoenix
-3 Merchant of the Vale
-4 Blitz of the Thunder-Raptor
-4 Merfolk Secretkeeper
-4 Cathartic Reunion
-4 Merchant of the Vale
-4 Arclight Phoenix
+4 Stonecoil Serpent
+4 Maximize Velocity

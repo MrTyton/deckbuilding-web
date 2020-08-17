@@ -52,19 +52,19 @@
 2 Aurelia, Exemplar of Justice
 1 Fabled Passage
 2 Fabled Passage
-1 Wind-Scarred Crag
 1 Haktos the Unscarred
+1 Wind-Scarred Crag
 1 Castle Embereth
 1 Lavabrink Venturer
 2 Haktos the Unscarred
 2 Lavabrink Venturer
-1 Sanctuary Smasher
-1 Imposing Vantasaur
-1 Splendor Mare
 1 Fling
-2 Splendor Mare
+1 Splendor Mare
+1 Imposing Vantasaur
+1 Sanctuary Smasher
 2 Fling
 2 Imposing Vantasaur
+2 Splendor Mare
 1 Island
 1 Temple of Epiphany
 1 Tranquil Cove
@@ -84,8 +84,16 @@
 3 Raugrin Triome
 4 Raugrin Triome
 4 Tajic, Legion's Edge
+1 Savai Triome
+1 Icon of Ancestry
+1 Irencrag Pyromancer
+2 Irencrag Pyromancer
+3 Irencrag Pyromancer
+4 Irencrag Pyromancer
+10 Plains
 1 Temple of Mystery
 1 Castle Vantress
+1 Frilled Mystic
 1 Nightpack Ambusher
 1 Aether Gust
 1 Growth Spiral
@@ -93,7 +101,6 @@
 1 Mystical Dispute
 1 Hallowed Fountain
 1 Teferi, Time Raveler
-1 Frilled Mystic
 1 Temple Garden
 1 Temple of Plenty
 1 Dovin's Veto
@@ -120,8 +127,8 @@
 3 Shark Typhoon
 3 Island
 3 Aether Gust
-3 Nightpack Ambusher
 3 Brazen Borrower
+3 Nightpack Ambusher
 3 Dovin's Veto
 3 Breeding Pool
 3 Teferi, Time Raveler
@@ -140,10 +147,3 @@
 4 Shark Typhoon
 4 Breeding Pool
 4 Growth Spiral
-1 Savai Triome
-1 Icon of Ancestry
-1 Irencrag Pyromancer
-2 Irencrag Pyromancer
-3 Irencrag Pyromancer
-10 Plains
-4 Irencrag Pyromancer

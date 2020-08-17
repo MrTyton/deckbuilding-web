@@ -1,11 +1,11 @@
 1 Rotting Regisaur
 1 Eliminate
-2 Eliminate
-2 Rotting Regisaur
 20 Swamp
-3 Eliminate
+2 Rotting Regisaur
+2 Eliminate
 1 Demonic Embrace
 3 Rotting Regisaur
+3 Eliminate
 2 Demonic Embrace
 4 Rotting Regisaur
 2 Murderous Rider
@@ -13,28 +13,24 @@
 1 Shadowspear
 3 Blacklance Paragon
 4 Demonic Embrace
-1 Serrated Scorpion
-2 Serrated Scorpion
+1 Grasp of Darkness
 1 Thieves' Guild Enforcer
 2 Thieves' Guild Enforcer
 3 Thieves' Guild Enforcer
 4 Eliminate
-4 Blacklance Paragon
-1 Grasp of Darkness
-3 Serrated Scorpion
 2 Grasp of Darkness
+1 Serrated Scorpion
+2 Serrated Scorpion
+3 Serrated Scorpion
+3 Tymaret, Chosen from Death
 2 Shadowspear
 3 Grasp of Darkness
 3 Shadowspear
 4 Grasp of Darkness
-4 Serrated Scorpion
-1 Agonizing Remorse
-2 Agonizing Remorse
-21 Swamp
-1 Elspeth's Nightmare
 1 Village Rites
 1 Archfiend's Vessel
 1 Foulmire Knight
+1 Elspeth's Nightmare
 1 Davriel, Rogue Shadowmage
 1 Yarok's Fenlurker
 1 Easy Prey
@@ -44,15 +40,15 @@
 1 Order of Midnight
 1 Alchemist's Gift
 1 Call of the Death-Dweller
-2 Elspeth's Nightmare
 2 Village Rites
+2 Order of Midnight
 2 Archfiend's Vessel
 2 Foulmire Knight
 2 Davriel, Rogue Shadowmage
+2 Elspeth's Nightmare
 2 Call of the Death-Dweller
 2 Easy Prey
 2 Witch's Cottage
-2 Order of Midnight
 2 Minion's Return
 2 Burglar Rat
 2 Alchemist's Gift
@@ -61,7 +57,12 @@
 3 Archfiend's Vessel
 3 Foulmire Knight
 3 Call of the Death-Dweller
-4 Yarok's Fenlurker
-4 Call of the Death-Dweller
-4 Archfiend's Vessel
 3 Yarok's Fenlurker
+4 Yarok's Fenlurker
+4 Archfiend's Vessel
+4 Call of the Death-Dweller
+1 Agonizing Remorse
+2 Agonizing Remorse
+21 Swamp
+4 Serrated Scorpion
+4 Blacklance Paragon

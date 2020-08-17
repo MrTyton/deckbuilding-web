@@ -1,3 +1,16 @@
+1 Scavenging Ooze
+2 Scavenging Ooze
+1 Questing Beast
+2 Questing Beast
+3 Questing Beast
+1 Frilled Mystic
+1 Nullhide Ferox
+2 Frilled Mystic
+2 Nullhide Ferox
+3 Frilled Mystic
+1 Voracious Hydra
+2 Voracious Hydra
+1 Bonecrusher Giant
 2 Bonecrusher Giant
 3 Bonecrusher Giant
 4 Bonecrusher Giant
@@ -9,22 +22,14 @@
 2 Thrashing Brontodon
 3 Klothys, God of Destiny
 3 Thrashing Brontodon
-1 Brazen Borrower
-2 Brazen Borrower
-3 Brazen Borrower
-1 Garruk's Harbinger
-1 Ram Through
-2 Ram Through
-2 Garruk's Harbinger
-3 Garruk's Harbinger
-3 Ram Through
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
 4 Lovestruck Beast
-1 Wicked Wolf
 1 Gemrazer
-1 Negate
+3 Scavenging Ooze
+1 Shifting Ceratops
+1 Wicked Wolf
 1 Elder Gargaroth
 2 Negate
 2 Elder Gargaroth
@@ -32,57 +37,47 @@
 1 Pouncing Shoreshark
 1 Destiny Spinner
 2 Destiny Spinner
-3 Scavenging Ooze
+2 Gemrazer
+2 Shifting Ceratops
 1 Hydroid Krasis
 2 Hydroid Krasis
-2 Shifting Ceratops
-1 Stonecoil Serpent
-2 Gemrazer
 3 Hydroid Krasis
 2 Pouncing Shoreshark
 3 Pouncing Shoreshark
+1 Stonecoil Serpent
 1 Uro, Titan of Nature's Wrath
 3 Shifting Ceratops
 4 Shifting Ceratops
-1 Cerulean Drake
 2 Uro, Titan of Nature's Wrath
-2 Cerulean Drake
 1 Ranger's Guile
 2 Ranger's Guile
+1 Brazen Borrower
 2 Stonecoil Serpent
-1 Auspicious Starrix
-1 Chittering Harvester
-1 Nylea, Keen-Eyed
-1 Dirge Bat
-1 Neutralize
-1 Soul-Guide Lantern
-1 Casualties of War
-1 Elspeth's Nightmare
-1 Ashiok, Dream Render
-1 Vraska, Golgari Queen
-2 Dirge Bat
-2 Soul-Guide Lantern
-2 Nylea, Keen-Eyed
-2 Neutralize
+1 Kraul Harpooner
 1 Nissa, Who Shakes the World
 1 Vivien, Monsters' Advocate
 1 Sea-Dasher Octopus
 2 Vivien, Monsters' Advocate
-1 Kraul Harpooner
+1 Nethroi, Apex of Death
+1 Thief of Sanity
+1 Thought Distortion
+1 Plains
+1 Majestic Auricorn
+2 Thief of Sanity
+2 Majestic Auricorn
+2 Thought Distortion
 1 Return to Nature
 2 Return to Nature
-1 Agonizing Remorse
-1 Grasp of Darkness
 1 Grimdancer
-1 Cavern Whisperer
-1 Duress
 1 Tymaret, Chosen from Death
-2 Agonizing Remorse
-2 Grasp of Darkness
-2 Duress
-2 Cavern Whisperer
-2 Tymaret, Chosen from Death
+1 Cavern Whisperer
+1 Grasp of Darkness
+1 Agonizing Remorse
 2 Grimdancer
+2 Cavern Whisperer
+2 Agonizing Remorse
+2 Tymaret, Chosen from Death
+2 Grasp of Darkness
 1 Mystical Dispute
 1 Heroic Intervention
 2 Mystical Dispute
@@ -90,6 +85,9 @@
 3 Mystical Dispute
 2 Wicked Wolf
 3 Wicked Wolf
+1 Heartless Act
+1 Eliminate
+3 Embereth Shieldbreaker
 1 Aether Gust
 1 Growth-Chamber Guardian
 2 Growth-Chamber Guardian
@@ -100,17 +98,15 @@
 3 Destiny Spinner
 3 Gemrazer
 4 Gemrazer
-1 Teferi, Master of Time
-1 Pollywog Symbiote
-2 Teferi, Master of Time
-4 Brazen Borrower
 3 Elder Gargaroth
 4 Pouncing Shoreshark
+1 Auspicious Starrix
 1 Essence Symbiote
 1 Trumpeting Gnarr
 1 Dreamtail Heron
-1 Sparkhunter Masticore
 1 Barkhide Troll
+1 Garruk's Harbinger
+1 Sparkhunter Masticore
 2 Dreamtail Heron
 2 Sparkhunter Masticore
 2 Barkhide Troll
@@ -118,6 +114,12 @@
 3 Barkhide Troll
 4 Barkhide Troll
 4 Sparkhunter Masticore
+1 Teferi, Master of Time
+1 Pollywog Symbiote
+2 Brazen Borrower
+2 Teferi, Master of Time
+3 Brazen Borrower
+4 Brazen Borrower
 1 Unsummon
 1 Mystic Repeal
 2 Essence Symbiote
@@ -137,8 +139,13 @@
 3 Paradise Druid
 4 Paradise Druid
 3 Uro, Titan of Nature's Wrath
-3 Cerulean Drake
 4 Cerulean Drake
+1 Dirge Bat
+1 Miscast
+2 Dirge Bat
+2 Miscast
+3 Miscast
+4 Miscast
 3 Voracious Hydra
 4 Hydroid Krasis
 4 Voracious Hydra

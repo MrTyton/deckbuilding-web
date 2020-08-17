@@ -136,7 +136,7 @@
 |                    3|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)                 |                     |                                                                                                     |
 |                    4|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)                 |                     |                                                                                                     |
 |                    1|[Blood Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97102)                  |                     |                                                                                                     |
-|                    1|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)              |                     |                                                                                                     |
 |                    1|[Vito, Thorn of the Dusk Rose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485450)|                     |                                                                                                     |
+|                    1|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)              |                     |                                                                                                     |
 |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)                |                     |                                                                                                     |
 
