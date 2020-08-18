@@ -64,4 +64,4 @@
 
 
 
-#### Last Updated at 12:35PM on August 17, 2020
+#### Last Updated at 12:42AM on August 18, 2020

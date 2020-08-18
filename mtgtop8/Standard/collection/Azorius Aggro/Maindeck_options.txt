@@ -1,12 +1,12 @@
-2 Teferi, Time Raveler
 2 Fblthp, the Lost
 2 Castle Vantress
 2 Charming Prince
 2 Yorion, Sky Nomad
-3 Thassa, Deep-Dwelling
+2 Elspeth Conquers Death
 3 Elspeth Conquers Death
 3 Teferi, Time Raveler
 3 Fblthp, the Lost
+3 Thassa, Deep-Dwelling
 3 Charming Prince
 4 Elspeth Conquers Death
 4 Charming Prince
@@ -51,8 +51,8 @@
 1 Watcher of the Spheres
 2 Skycat Sovereign
 2 Watcher of the Spheres
-3 Skycat Sovereign
 3 Watcher of the Spheres
+3 Skycat Sovereign
 4 Skycat Sovereign
 1 Sea-Dasher Octopus
 2 Sea-Dasher Octopus
@@ -79,26 +79,26 @@
 3 Pouncing Shoreshark
 3 Huntmaster Liger
 4 Gingerbrute
-4 Cubwarden
 4 Pouncing Shoreshark
 4 Vulpikeet
+4 Cubwarden
 4 Pollywog Symbiote
 4 Huntmaster Liger
 1 Omen of the Sun
 1 Barrin, Tolarian Archmage
-1 Heliod's Punishment
-1 Solemn Simulacrum
 1 Banishing Light
-2 Omen of the Sun
-2 Barrin, Tolarian Archmage
-2 Solemn Simulacrum
-2 Banishing Light
+1 Solemn Simulacrum
+1 Heliod's Punishment
 2 Castle Ardenvale
-3 Omen of the Sea
-3 Omen of the Sun
-3 Solemn Simulacrum
+2 Omen of the Sun
+2 Solemn Simulacrum
+2 Barrin, Tolarian Archmage
+2 Banishing Light
 3 Fabled Passage
+3 Solemn Simulacrum
+3 Omen of the Sea
 3 Banishing Light
+3 Omen of the Sun
 4 Omen of the Sea
 4 Fabled Passage
 4 Fblthp, the Lost
@@ -113,8 +113,8 @@
 2 Pteramander
 3 Pteramander
 4 Pteramander
-4 Rally of Wings
 4 Watcher of the Spheres
+4 Rally of Wings
 1 Gods Willing
 1 Dreamtail Heron
 2 Gods Willing
@@ -126,9 +126,6 @@
 4 Gods Willing
 4 Fight as One
 4 Tranquil Cove
-1 Dream Trawler
-12 Island
-13 Island
 1 Lazotep Plating
 1 Stonecoil Serpent
 2 Lazotep Plating
@@ -139,3 +136,6 @@
 4 Sea-Dasher Octopus
 9 Plains
 10 Plains
+1 Dream Trawler
+12 Island
+13 Island

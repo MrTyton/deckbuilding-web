@@ -41,11 +41,11 @@
 2 Nightpack Ambusher
 2 Quench
 3 Brineborn Cutthroat
-3 Quench
 3 Slitherwisp
+3 Quench
 3 Cunning Nightbonder
-3 Nightpack Ambusher
 3 Brazen Borrower
+3 Nightpack Ambusher
 4 Brineborn Cutthroat
 4 Slitherwisp
 4 Uro, Titan of Nature's Wrath
@@ -103,19 +103,6 @@
 3 Garruk's Harbinger
 3 Shifting Ceratops
 3 Ilysian Caryatid
-1 Sea-Dasher Octopus
-1 Shark Typhoon
-1 Spectral Sailor
-1 Frilled Mystic
-1 Lofty Denial
-2 Sea-Dasher Octopus
-2 Frilled Mystic
-2 Shark Typhoon
-2 Spectral Sailor
-3 Spectral Sailor
-3 Frilled Mystic
-4 Spectral Sailor
-4 Brazen Borrower
 1 Knight of the Ebon Legion
 1 Gemrazer
 1 Massacre Wurm
@@ -130,17 +117,30 @@
 3 Assassin's Trophy
 4 Knight of the Ebon Legion
 4 Stonecoil Serpent
+1 Sea-Dasher Octopus
+1 Shark Typhoon
+1 Spectral Sailor
+1 Frilled Mystic
+1 Lofty Denial
+2 Sea-Dasher Octopus
+2 Frilled Mystic
+2 Shark Typhoon
+2 Spectral Sailor
+3 Spectral Sailor
+3 Frilled Mystic
+4 Spectral Sailor
+4 Brazen Borrower
 1 Tymaret Calls the Dead
 1 Demonic Embrace
 1 Glowspore Shaman
 1 Silversmote Ghoul
-1 Ashiok, Dream Render
 1 Merfolk Secretkeeper
+1 Ashiok, Dream Render
 2 Tymaret Calls the Dead
 2 Demonic Embrace
 2 Silversmote Ghoul
-2 Ashiok, Dream Render
 2 Merfolk Secretkeeper
+2 Ashiok, Dream Render
 2 Glowspore Shaman
 3 Silversmote Ghoul
 3 Tymaret Calls the Dead
@@ -175,9 +175,9 @@
 2 Mystical Dispute
 2 Growth Spiral
 2 Castle Vantress
-2 Enter the God-Eternals
 2 Commence the Endgame
 2 Skull Prophet
+2 Enter the God-Eternals
 3 Growth Spiral
 3 Skull Prophet
 4 Questing Beast
@@ -186,8 +186,8 @@
 1 Chevill, Bane of Monsters
 1 Liliana's Triumph
 1 Duress
-2 Liliana's Triumph
 2 Thief of Sanity
+2 Liliana's Triumph
 2 Duress
 3 Thief of Sanity
 3 Liliana, Waker of the Dead

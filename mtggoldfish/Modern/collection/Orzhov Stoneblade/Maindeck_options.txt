@@ -4,8 +4,8 @@
 1 Bloodstained Mire
 2 Bloodstained Mire
 2 Arid Mesa
-3 Arid Mesa
 3 Bloodstained Mire
+3 Arid Mesa
 2 Unearth
 4 Path to Exile
 1 Shambling Vent
@@ -107,15 +107,15 @@
 1 Siege Rhino
 1 Scavenging Ooze
 2 Forest
-2 Nurturing Peatland
-2 Scavenging Ooze
 2 Temple Garden
 2 Voice of Resurgence
 2 Windswept Heath
 2 Wooded Foothills
 2 Overgrown Tomb
+2 Nurturing Peatland
 2 Assassin's Trophy
 2 Siege Rhino
+2 Scavenging Ooze
 3 Wooded Foothills
 3 Voice of Resurgence
 3 Assassin's Trophy
@@ -143,8 +143,8 @@
 1 Gurmag Angler
 1 Flooded Strand
 1 Polluted Delta
-2 Flooded Strand
 2 Polluted Delta
+2 Flooded Strand
 3 Flooded Strand
 3 Polluted Delta
 1 Mana Tithe

@@ -16,12 +16,13 @@
 3 Inquisition of Kozilek
 1 Nurturing Peatland
 3 Bayou
+4 Dark Confidant
 1 Assassin's Trophy
 1 Mox Diamond
 2 Mox Diamond
-4 Dark Confidant
 1 Sylvan Library
 3 Mox Diamond
+1 Wooded Foothills
 1 Sylvan Safekeeper
 3 Abrupt Decay
 2 Wasteland
@@ -30,7 +31,6 @@
 2 Nurturing Peatland
 1 Hymn to Tourach
 2 Hymn to Tourach
-1 Wooded Foothills
 2 Sylvan Safekeeper
 1 Sorcerous Spyglass
 1 Blast Zone
@@ -40,31 +40,31 @@
 1 Eliminate
 1 Riftstone Portal
 2 Life from the Loam
+1 Windswept Heath
 1 Marsh Flats
-1 Mishra's Bauble
 1 Grim Flayer
+1 Mishra's Bauble
 1 Street Wraith
-1 Swords to Plowshares
 1 Traverse the Ulvenwald
 1 Knight of the Reliquary
 1 Spirit of the Labyrinth
-1 Windswept Heath
 1 Savannah
 1 Scrubland
+1 Swords to Plowshares
 2 Grim Flayer
 2 Mishra's Bauble
 2 Traverse the Ulvenwald
 2 Swords to Plowshares
 2 Windswept Heath
 2 Knight of the Reliquary
+3 Swords to Plowshares
 3 Mishra's Bauble
 3 Traverse the Ulvenwald
-3 Swords to Plowshares
 4 Mishra's Bauble
 4 Swords to Plowshares
+1 Misty Rainforest
 1 Veil of Summer
 1 Living Wish
-1 Misty Rainforest
 2 Veil of Summer
 2 Living Wish
 3 Assassin's Trophy
@@ -72,46 +72,46 @@
 4 Assassin's Trophy
 4 Inquisition of Kozilek
 4 Living Wish
-1 Ancient Tomb
 1 Wishclaw Talisman
 1 Dark Ritual
+1 Ancient Tomb
 1 Karn, the Great Creator
 1 Castle Locthwain
 2 Dark Ritual
 2 Karn, the Great Creator
 3 Dark Ritual
 4 Dark Ritual
-1 Chrome Mox
-1 Cabal Pit
 1 Dakmor Salvage
+1 Cabal Pit
 1 Liliana, the Last Hope
+1 Trinisphere
 1 Liliana of the Veil
 1 Toxic Deluge
+1 Gurmag Angler
 1 Chalice of the Void
 1 Liliana's Triumph
-1 Gurmag Angler
-1 Plague Engineer
 1 Lake of the Dead
 1 Cabal Ritual
-1 Trinisphere
 1 Desolation
+1 Chrome Mox
 1 Polluted Delta
-2 Chrome Mox
-2 Trinisphere
+1 Plague Engineer
 2 Liliana of the Veil
-2 Chalice of the Void
 2 Snow-Covered Swamp
 2 Gurmag Angler
 2 Liliana's Triumph
 2 Lake of the Dead
+2 Trinisphere
+2 Chrome Mox
+2 Chalice of the Void
 2 Wishclaw Talisman
 2 Desolation
-3 Chrome Mox
 3 Liliana of the Veil
 3 Snow-Covered Swamp
-3 Chalice of the Void
 3 Karn, the Great Creator
 3 Desolation
+3 Chrome Mox
+3 Chalice of the Void
 4 Snow-Covered Swamp
 4 Chalice of the Void
 5 Snow-Covered Swamp
@@ -120,23 +120,23 @@
 8 Snow-Covered Swamp
 1 Tendrils of Agony
 1 Infernal Tutor
-1 Lion's Eye Diamond
 1 Helm of Obedience
+1 Leyline of the Void
+1 Lion's Eye Diamond
 1 Echo of Eons
 1 Ill-Gotten Gains
-1 Leyline of the Void
-2 Ancient Tomb
 2 Lion's Eye Diamond
 2 Infernal Tutor
-2 Ill-Gotten Gains
 2 Leyline of the Void
+2 Ill-Gotten Gains
 2 Helm of Obedience
+2 Ancient Tomb
 3 Lion's Eye Diamond
 3 Infernal Tutor
 3 Swamp
 3 Duress
-3 Helm of Obedience
 3 Leyline of the Void
+3 Helm of Obedience
 4 Lion's Eye Diamond
 4 Swamp
 4 Leyline of the Void
@@ -146,20 +146,20 @@
 7 Swamp
 8 Swamp
 9 Swamp
-1 Satyr Wayfinder
-1 Stitcher's Supplier
-1 Khalni Garden
-1 Hogaak, Arisen Necropolis
 1 Dryad Arbor
+1 Satyr Wayfinder
 1 Cabal Therapy
+1 Khalni Garden
+1 Stitcher's Supplier
+1 Hogaak, Arisen Necropolis
 2 Satyr Wayfinder
+2 Cabal Therapy
 2 Stitcher's Supplier
 2 Hogaak, Arisen Necropolis
-2 Cabal Therapy
-3 Stitcher's Supplier
-3 Satyr Wayfinder
-3 Hogaak, Arisen Necropolis
 3 Cabal Therapy
-4 Stitcher's Supplier
+3 Satyr Wayfinder
+3 Stitcher's Supplier
+3 Hogaak, Arisen Necropolis
 4 Cabal Therapy
+4 Stitcher's Supplier
 4 Hogaak, Arisen Necropolis

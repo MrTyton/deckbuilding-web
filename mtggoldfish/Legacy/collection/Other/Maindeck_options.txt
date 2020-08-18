@@ -1,42 +1,47 @@
-1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
-2 Preordain
-4 Flooded Strand
 2 Thoughtseize
+4 Lightning Bolt
 1 Fatal Push
 3 Underground Sea
 4 Daze
-4 Lightning Bolt
+2 Dreadhorde Arcanist
 3 Misty Rainforest
 4 Misty Rainforest
-2 Dreadhorde Arcanist
-1 Gurmag Angler
-2 Gurmag Angler
-1 Jace, the Mind Sculptor
-1 Narset, Parter of Veils
+3 Polluted Delta
+4 Polluted Delta
+2 Snow-Covered Island
 1 Veil of Summer
+3 Scalding Tarn
+4 Scalding Tarn
+3 Tundra
+1 Mystic Sanctuary
 1 Ancient Tomb
 1 Prismatic Vista
 2 Prismatic Vista
-1 Snow-Covered Swamp
+1 Sylvan Library
 1 Snow-Covered Forest
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
 3 Arcum's Astrolabe
 4 Arcum's Astrolabe
-1 Sylvan Library
 1 Spell Pierce
 2 Spell Pierce
-1 Marsh Flats
 4 Wasteland
-1 Baleful Strix
-2 Baleful Strix
-3 Baleful Strix
-1 Island
+1 Counterspell
+1 Snapcaster Mage
+1 Stifle
+1 Magmatic Sinkhole
+1 Accumulated Knowledge
+2 Stifle
+2 Accumulated Knowledge
+2 Mystic Sanctuary
+3 Accumulated Knowledge
+4 Accumulated Knowledge
 2 Tropical Island
 3 Thoughtseize
-3 Teferi, Time Raveler
-4 Baleful Strix
+4 Flooded Strand
+1 Narset, Parter of Veils
+1 Jace, the Mind Sculptor
 3 Oko, Thief of Crowns
 2 Ancient Tomb
 1 Lotus Petal
@@ -92,48 +97,46 @@
 4 Urza's Bauble
 4 Auriok Salvagers
 4 Cavern of Souls
+1 Snow-Covered Swamp
+1 Baleful Strix
+2 Baleful Strix
+3 Baleful Strix
 1 Collective Brutality
 2 Collective Brutality
-4 Swords to Plowshares
 4 Oko, Thief of Crowns
-1 Scrubland
-3 Collective Brutality
 1 Urza, Lord High Artificer
-1 Eliminate
-2 Marsh Flats
-3 Marsh Flats
-1 Umezawa's Jitte
-1 Mystic Sanctuary
-3 Snow-Covered Island
-1 Cabal Therapy
-2 Cabal Therapy
+3 Collective Brutality
+1 Scrubland
+1 Gurmag Angler
+2 Gurmag Angler
 3 Dreadhorde Arcanist
 3 Preordain
 4 Dreadhorde Arcanist
 4 Volcanic Island
+1 Marsh Flats
+1 Umezawa's Jitte
+1 Cabal Therapy
+2 Cabal Therapy
+3 Snow-Covered Island
+4 Baleful Strix
 1 Uro, Titan of Nature's Wrath
 2 Sylvan Library
 2 Uro, Titan of Nature's Wrath
-1 Counterspell
-3 Scalding Tarn
-4 Scalding Tarn
 3 Walking Ballista
 1 Batterskull
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
-3 Tundra
 1 Dark Confidant
 2 Dark Confidant
-3 Prismatic Vista
 1 Swamp
-2 Narset, Parter of Veils
-2 Jace, the Mind Sculptor
-2 Force of Negation
+3 Teferi, Time Raveler
+3 Prismatic Vista
 1 Abrupt Decay
 2 Snow-Covered Forest
 2 Abrupt Decay
 3 Abrupt Decay
+2 Narset, Parter of Veils
 1 Seat of the Synod
 2 Seat of the Synod
 3 Seat of the Synod
@@ -196,12 +199,14 @@
 1 Vindicate
 1 Aminatou, the Fateshifter
 1 Breya, Etherium Shaper
+2 Marsh Flats
 2 Enlightened Tutor
 2 Saheeli, Sublime Artificer
 2 Lingering Souls
 2 Bitterblossom
 3 Enlightened Tutor
 3 Saheeli, Sublime Artificer
+3 Marsh Flats
 3 Lingering Souls
 4 Lingering Souls
 4 Marsh Flats
@@ -221,6 +226,7 @@
 1 Waterlogged Grove
 2 Waterlogged Grove
 3 Tropical Island
+4 Swords to Plowshares
 1 True-Name Nemesis
 2 True-Name Nemesis
 1 Shark Typhoon
@@ -228,6 +234,7 @@
 1 Dead of Winter
 2 Shark Typhoon
 2 Dead of Winter
+1 Eliminate
 1 Sprite Dragon
 2 Sprite Dragon
 1 Carpet of Flowers
@@ -242,23 +249,6 @@
 3 Fatal Push
 4 Fatal Push
 4 Hymn to Tourach
-1 Snapcaster Mage
-1 Stifle
-1 Magmatic Sinkhole
-1 Accumulated Knowledge
-2 Stifle
-2 Accumulated Knowledge
-2 Mystic Sanctuary
-3 Accumulated Knowledge
-4 Accumulated Knowledge
-1 Plague Engineer
-1 Kaya, Orzhov Usurper
-2 Eliminate
-2 Plague Engineer
-3 Plague Engineer
-3 Eliminate
-4 Eliminate
-4 Plague Engineer
 1 Leovold, Emissary of Trest
 1 Tranquil Thicket
 1 Dryad Arbor
@@ -349,8 +339,8 @@
 1 Emrakul, the Promised End
 1 Surgical Extraction
 1 Divest
-1 Rogue's Passage
 1 Phage the Untouchable
+1 Rogue's Passage
 2 Putrid Imp
 2 Leyline of the Void
 2 Surgical Extraction
@@ -368,22 +358,24 @@
 4 Surgical Extraction
 4 Divest
 1 Elvish Spirit Guide
-1 Interplanar Beacon
 1 Simic Signet
-1 Tamiyo, Collector of Tales
+1 Interplanar Beacon
 1 Savannah
 1 Azorius Signet
+1 Tamiyo, Collector of Tales
 1 Dovin, Hand of Control
 1 Karn, the Great Creator
+2 Jace, the Mind Sculptor
 2 Elvish Spirit Guide
-2 Interplanar Beacon
 2 Simic Signet
+2 Interplanar Beacon
+2 Force of Negation
 2 Dovin, Hand of Control
 2 Azorius Signet
 2 Karn, the Great Creator
 3 Elvish Spirit Guide
-3 Interplanar Beacon
 3 Jace, the Mind Sculptor
+3 Interplanar Beacon
 3 Karn, the Great Creator
 3 Dovin, Hand of Control
 3 Force of Negation
@@ -505,8 +497,8 @@
 1 Eldrazi Displacer
 1 Wasteland Strangler
 1 Palace Jailer
-1 Mesmeric Fiend
 1 Volrath's Stronghold
+1 Mesmeric Fiend
 1 Flickerwisp
 1 Plains
 1 Silent Clearing
@@ -550,12 +542,12 @@
 1 Badlands
 1 Bloodstained Mire
 1 Faithless Looting
+1 Mountain
 1 Manamorphose
 1 Bedlam Reveler
-1 Fireblast
 1 Gut Shot
+1 Fireblast
 1 Chain Lightning
-1 Mountain
 1 Lava Dart
 1 Monastery Swiftspear
 1 Light Up the Stage
@@ -598,9 +590,10 @@
 5 Mountain
 6 Mountain
 7 Mountain
+1 Imperious Perfect
 1 Llanowar Visionary
-1 Elvish Visionary
 1 Craterhoof Behemoth
+1 Elvish Visionary
 1 Autumn's Veil
 1 Birds of Paradise
 1 Elvish Clancaller
@@ -609,7 +602,6 @@
 1 Elvish Mystic
 1 Elvish Promenade
 1 Archon of Valor's Reach
-1 Imperious Perfect
 1 Elvish Archdruid
 1 Lys Alana Huntmaster
 1 Joraga Warcaller
@@ -617,14 +609,14 @@
 1 Jagged-Scar Archers
 1 Elvish Piper
 1 Gaea's Cradle
-2 Llanowar Visionary
+2 Imperious Perfect
 2 Birds of Paradise
+2 Llanowar Visionary
 2 Craterhoof Behemoth
 2 Elvish Visionary
 2 Jagged-Scar Archers
 2 Somberwald Sage
 2 Elvish Piper
-2 Imperious Perfect
 2 Joraga Warcaller
 2 Gaea's Cradle
 2 Elvish Promenade
