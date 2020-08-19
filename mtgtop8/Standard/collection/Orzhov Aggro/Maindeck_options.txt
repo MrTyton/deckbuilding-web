@@ -14,24 +14,24 @@
 1 Healer's Hawk
 2 Healer's Hawk
 3 Healer's Hawk
-1 Ajani, Strength of the Pride
 1 Final Payment
+1 Ajani, Strength of the Pride
 1 Gideon Blackblade
 4 Healer's Hawk
 9 Plains
 1 Orzhov Guildgate
 2 Orzhov Guildgate
 9 Swamp
-1 Revitalize
 1 Basilica Bell-Haunt
 1 Light of Hope
 1 Griffin Aerie
+1 Revitalize
 1 Silversmote Ghoul
 1 Indulging Patrician
-2 Revitalize
 2 Basilica Bell-Haunt
 2 Light of Hope
 2 Griffin Aerie
+2 Revitalize
 2 Silversmote Ghoul
 2 Indulging Patrician
 3 Revitalize
@@ -40,16 +40,16 @@
 3 Silversmote Ghoul
 3 Indulging Patrician
 4 Revitalize
-4 Griffin Aerie
 4 Light of Hope
 4 Indulging Patrician
 4 Silversmote Ghoul
+4 Griffin Aerie
 1 Consecrate / Consume
 2 Consecrate / Consume
 3 Orzhov Guildgate
 10 Plains
-1 Banishing Light
 1 Impassioned Orator
+1 Banishing Light
 1 Omen of the Sun
 1 Bloodthirsty Aerialist
 1 Blade Juggler
@@ -89,41 +89,6 @@
 2 Anointed Chorister
 3 Basilica Bell-Haunt
 3 Anointed Chorister
-1 Venerable Knight
-1 Haazda Marshal
-1 General's Enforcer
-1 Tithe Taker
-1 Icon of Ancestry
-1 Basri Ket
-1 Disfigure
-1 Castle Ardenvale
-1 Adherent of Hope
-1 Giant Killer
-1 General Kudro of Drannith
-2 Castle Ardenvale
-2 Venerable Knight
-2 Haazda Marshal
-2 General's Enforcer
-2 Tithe Taker
-2 Disfigure
-2 Basri Ket
-2 Icon of Ancestry
-2 General Kudro of Drannith
-2 Adherent of Hope
-3 Basri Ket
-3 Venerable Knight
-3 General Kudro of Drannith
-3 Haazda Marshal
-3 General's Enforcer
-3 Tithe Taker
-3 Disfigure
-3 Icon of Ancestry
-3 Adherent of Hope
-4 Tithe Taker
-4 Venerable Knight
-4 Haazda Marshal
-4 Dire Tactics
-4 General's Enforcer
 1 Kaya, Orzhov Usurper
 1 Foreboding Fruit
 1 Ob Nixilis, the Hate-Twisted
@@ -138,18 +103,18 @@
 3 Heartless Act
 4 Orzhov Guildgate
 1 Archfiend's Vessel
-1 Lampad of Death's Vigil
+1 Memory Leak
+1 Dead Weight
 1 Kaya's Ghostform
 1 Shadowspear
 1 Murder
-1 Dead Weight
+1 Lampad of Death's Vigil
 1 Omen of the Dead
 1 Hateful Eidolon
-1 Memory Leak
 2 Archfiend's Vessel
+2 Memory Leak
 2 Murder
 2 Kaya's Ghostform
-2 Memory Leak
 2 Mire's Grasp
 2 Hateful Eidolon
 2 Lampad of Death's Vigil
@@ -159,37 +124,72 @@
 3 Lampad of Death's Vigil
 4 Archfiend's Vessel
 4 Kaya's Ghostform
-1 Demonic Embrace
+1 Venerable Knight
+1 Haazda Marshal
+1 General's Enforcer
+1 Tithe Taker
+1 Icon of Ancestry
+1 Basri Ket
+1 Disfigure
+1 Castle Ardenvale
+1 Adherent of Hope
+1 Giant Killer
+1 General Kudro of Drannith
+2 Castle Ardenvale
+2 Venerable Knight
+2 Disfigure
+2 Haazda Marshal
+2 Icon of Ancestry
+2 General's Enforcer
+2 Tithe Taker
+2 Basri Ket
+2 General Kudro of Drannith
+2 Adherent of Hope
+3 Venerable Knight
+3 Basri Ket
+3 General Kudro of Drannith
+3 General's Enforcer
+3 Tithe Taker
+3 Disfigure
+3 Icon of Ancestry
+3 Adherent of Hope
+3 Haazda Marshal
+4 Tithe Taker
+4 Venerable Knight
+4 General's Enforcer
+4 Dire Tactics
+4 Haazda Marshal
 1 Gutterbones
-1 Hunted Nightmare
-1 Rotting Regisaur
-1 Grasp of Darkness
-1 Seasoned Hallowblade
-1 Spawn of Mayhem
 1 Blacklance Paragon
+1 Spawn of Mayhem
+1 Demonic Embrace
+1 Rotting Regisaur
+1 Hunted Nightmare
+1 Seasoned Hallowblade
+1 Grasp of Darkness
 1 Murderous Rider
-2 Demonic Embrace
-2 Gutterbones
 2 Knight of the Ebon Legion
+2 Gutterbones
+2 Blacklance Paragon
+2 Spawn of Mayhem
+2 Demonic Embrace
 2 Hunted Nightmare
 2 Rotting Regisaur
 2 Murderous Rider
-2 Spawn of Mayhem
 2 Seasoned Hallowblade
-2 Blacklance Paragon
 3 Gutterbones
-3 Temple of Silence
-3 Demonic Embrace
+3 Spawn of Mayhem
 3 Knight of the Ebon Legion
+3 Demonic Embrace
 3 Rotting Regisaur
 3 Blacklance Paragon
-3 Spawn of Mayhem
 3 Seasoned Hallowblade
-4 Gutterbones
+3 Temple of Silence
 4 Temple of Silence
+4 Gutterbones
+4 Blacklance Paragon
+4 Spawn of Mayhem
 4 Knight of the Ebon Legion
 4 Rotting Regisaur
 4 Eliminate
-4 Spawn of Mayhem
-4 Blacklance Paragon
 4 Seasoned Hallowblade

@@ -1,3 +1,4 @@
+1 Scavenging Ooze
 1 Pithing Needle
 1 Damping Sphere
 2 Damping Sphere
@@ -27,34 +28,18 @@
 3 Heartless Act
 4 Fatal Push
 4 Lifebane Zombie
-1 Rending Volley
-2 Rending Volley
+1 Chandra, Torch of Defiance
 1 Magma Spray
 2 Magma Spray
-1 Chandra, Torch of Defiance
-3 Rending Volley
 4 Rending Volley
 1 Embereth Shieldbreaker
-2 Chandra, Torch of Defiance
 2 Embereth Shieldbreaker
+2 Chandra, Torch of Defiance
 3 Magma Spray
-1 Soul-Guide Lantern
-1 Disdainful Stroke
-2 Disdainful Stroke
-1 Mystical Dispute
-2 Mystical Dispute
-1 Aether Gust
-2 Aether Gust
-3 Aether Gust
-1 Negate
-2 Negate
-3 Mystical Dispute
 1 Thoughtseize
 2 Thoughtseize
-1 Abrade
-1 Radiant Flames
-2 Radiant Flames
 1 Dreadbore
+2 Scavenging Ooze
 1 Cindervines
 2 Cindervines
 1 Searing Blood
@@ -67,86 +52,83 @@
 2 Goblin Chainwhirler
 1 Chandra, Acolyte of Flame
 2 Chandra, Acolyte of Flame
-2 Soul-Guide Lantern
-1 Aethersphere Harvester
-2 Aethersphere Harvester
-1 Heroic Intervention
-2 Heroic Intervention
-1 Oakhame Adversary
-1 Questing Beast
-1 Primal Might
-1 Prowling Serpopard
-1 Gemrazer
-2 Questing Beast
-2 Oakhame Adversary
-2 Primal Might
-2 Gemrazer
-2 Prowling Serpopard
+1 Fry
+1 Mystical Dispute
+2 Mystical Dispute
+1 Radiant Flames
+2 Radiant Flames
+1 Mazemind Tome
+1 Wilt
 1 Tormod's Crypt
 1 Hope of Ghirapur
 1 Jhoira, Weatherlight Captain
 1 Metallic Rebuke
 2 Pithing Needle
+2 Mazemind Tome
 2 Hope of Ghirapur
 2 Metallic Rebuke
-2 Mazemind Tome
+1 Aethersphere Harvester
+2 Aethersphere Harvester
+1 Heroic Intervention
+2 Heroic Intervention
+3 Scavenging Ooze
+1 Oakhame Adversary
+1 Questing Beast
+1 Primal Might
+1 Gemrazer
+1 Prowling Serpopard
+2 Questing Beast
+2 Oakhame Adversary
+2 Primal Might
+2 Gemrazer
+2 Prowling Serpopard
 1 Korvold, Fae-Cursed King
 1 Claim the Firstborn
 2 Claim the Firstborn
 2 Korvold, Fae-Cursed King
 3 Claim the Firstborn
-1 Selfless Spirit
-1 Bonecrusher Giant
-1 Lavinia of the Tenth
-1 Giant Killer
-1 Cloudblazer
-2 Selfless Spirit
-2 Bonecrusher Giant
-2 Giant Killer
-2 Cloudblazer
-3 Selfless Spirit
-3 Bonecrusher Giant
-1 Stubborn Denial
-1 Glorybringer
-2 Glorybringer
-1 Wild Slash
-1 Lightning Axe
-1 Redcap Melee
-2 Wild Slash
-2 Stubborn Denial
-2 Redcap Melee
-3 Stubborn Denial
-3 Wild Slash
+1 Warping Wail
+1 Spatial Contortion
+1 Emrakul, the Promised End
+1 Ulamog, the Ceaseless Hunger
+1 Return to Nature
+2 Warping Wail
+2 Spatial Contortion
+2 Wilt
+3 Spatial Contortion
+3 Warping Wail
 1 Duress
 1 Karn, Scion of Urza
 1 Rampaging Ferocidon
-1 Hazoret the Fervent
 2 Duress
-2 Rampaging Ferocidon
 2 Dreadbore
+2 Rampaging Ferocidon
 3 Rampaging Ferocidon
 1 Shapers' Sanctuary
 1 Collision/Colossus
 2 Shapers' Sanctuary
 3 Embereth Shieldbreaker
-1 Fry
+3 Mystical Dispute
+1 Aether Gust
 1 Uro, Titan of Nature's Wrath
-1 Teferi, Time Raveler
 1 Monastery Mentor
-2 Teferi, Time Raveler
+1 Teferi, Time Raveler
 2 Monastery Mentor
+2 Teferi, Time Raveler
+2 Aether Gust
+3 Aether Gust
 3 Teferi, Time Raveler
-1 Star of Extinction
-1 Chandra, Awakened Inferno
-1 Oracle of Bones
-1 Anger of the Gods
-2 Anger of the Gods
-2 Chandra, Awakened Inferno
-2 Fry
-2 Abrade
-2 Oracle of Bones
-3 Anger of the Gods
-3 Glorybringer
+1 Stubborn Denial
+1 Lightning Axe
+1 Redcap Melee
+1 Glorybringer
+1 Wild Slash
+2 Stubborn Denial
+2 Redcap Melee
+2 Glorybringer
+2 Wild Slash
+3 Stubborn Denial
+3 Wild Slash
 1 Remorseful Cleric
 1 Gideon, Ally of Zendikar
 1 Baffling End
@@ -158,6 +140,21 @@
 2 Fairgrounds Warden
 3 Baffling End
 3 Fairgrounds Warden
+1 Selfless Spirit
+1 Negate
+1 Lavinia of the Tenth
+1 Giant Killer
+1 Bonecrusher Giant
+1 Cloudblazer
+2 Selfless Spirit
+2 Negate
+2 Giant Killer
+2 Bonecrusher Giant
+2 Cloudblazer
+3 Selfless Spirit
+3 Bonecrusher Giant
+1 Disdainful Stroke
+2 Disdainful Stroke
 1 Surge of Righteousness
 1 Dragonlord Ojutai
 1 Lyra Dawnbringer
@@ -168,8 +165,8 @@
 3 Surge of Righteousness
 3 Settle the Wreckage
 4 Mystical Dispute
-1 Assassin's Trophy
 1 Yahenni's Expertise
+1 Assassin's Trophy
 2 Yahenni's Expertise
 2 Assassin's Trophy
 3 Thoughtseize
@@ -184,9 +181,12 @@
 3 Glass Casket
 3 Isolate
 4 Glass Casket
-3 Disdainful Stroke
-4 Scavenging Ooze
-4 Aether Gust
+1 Chandra, Heart of Fire
+1 Anax, Hardened in the Forge
+2 Chandra, Heart of Fire
+2 Fry
+2 Anax, Hardened in the Forge
+4 Soul-Guide Lantern
 1 Elspeth, Sun's Champion
 1 Banishing Light
 1 Apostle of Purifying Light

@@ -1,25 +1,24 @@
-1 Temple Garden
 1 Breeding Pool
-2 Snow-Covered Forest
-3 Shark Typhoon
-4 Misty Rainforest
-1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
+3 Teferi, Time Raveler
+2 Supreme Verdict
+5 Snow-Covered Island
+2 Snow-Covered Plains
+2 Snow-Covered Forest
+3 Cryptic Command
+1 Polluted Delta
+3 Shark Typhoon
 1 Spell Queller
 2 Spell Queller
 3 Spell Queller
-3 Cryptic Command
-2 Supreme Verdict
-1 Polluted Delta
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
-4 Ice-Fang Coatl
-1 Prairie Stream
-1 Glacial Fortress
-2 Celestial Colonnade
 2 Breeding Pool
 3 Uro, Titan of Nature's Wrath
+1 Prairie Stream
+4 Ice-Fang Coatl
+2 Celestial Colonnade
 4 Snapcaster Mage
 1 Scalding Tarn
 2 Polluted Delta
@@ -29,9 +28,8 @@
 3 Island
 4 Island
 5 Island
+1 Glacial Fortress
 1 Oust
-1 Remand
-1 Sword of Fire and Ice
 1 Thought Scour
 2 Thought Scour
 3 Thought Scour
@@ -41,6 +39,7 @@
 4 Frantic Inventory
 4 Spell Queller
 3 Archmage's Charm
+1 Sword of Fire and Ice
 1 Noble Hierarch
 1 Windswept Heath
 1 Birds of Paradise
@@ -50,7 +49,7 @@
 3 Noble Hierarch
 4 Noble Hierarch
 1 Mystic Gate
-3 Mana Leak
+1 Remand
 1 Restoration Angel
 1 Wall of Omens
 1 Fact or Fiction
@@ -65,8 +64,10 @@
 2 Birds of Paradise
 2 Teferi, Hero of Dominaria
 3 Snow-Covered Forest
+3 Mana Leak
 2 Spell Snare
 4 Shark Typhoon
+4 Force of Negation
 1 Logic Knot
 3 Polluted Delta
 1 Hall of Heliod's Generosity
@@ -77,9 +78,8 @@
 1 Horizon Canopy
 3 Windswept Heath
 4 Windswept Heath
-1 Dovin's Veto
 3 Mystic Sanctuary
-2 Glacial Fortress
+1 Dovin's Veto
 1 Brazen Borrower
 1 On Thin Ice
 1 Deprive
@@ -88,6 +88,7 @@
 1 Tireless Tracker
 1 Detention Sphere
 2 Censor
+2 Glacial Fortress
 1 Terminus
 1 Search for Azcanta
 1 Crucible of Worlds
@@ -101,17 +102,6 @@
 3 Breeding Pool
 3 Utopia Sprawl
 4 Utopia Sprawl
-4 Force of Negation
-1 Prismatic Vista
-1 Spell Pierce
-1 Serum Visions
-2 Prismatic Vista
-2 Spell Pierce
-2 Serum Visions
-3 Prismatic Vista
-3 Spell Pierce
-3 Serum Visions
-4 Prismatic Vista
 1 Snow-Covered Mountain
 1 Lightning Helix
 1 Steam Vents

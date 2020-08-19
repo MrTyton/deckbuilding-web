@@ -1,5 +1,4 @@
 1 Cavalier of Thorns
-1 Leafkin Druid
 1 Genesis Ultimatum
 1 Risen Reef
 1 Omnath, Locus of the Roil
@@ -7,27 +6,25 @@
 2 Leafkin Druid
 2 Omnath, Locus of the Roil
 2 Risen Reef
-3 Forest
 3 Leafkin Druid
+3 Forest
 3 Risen Reef
 3 Omnath, Locus of the Roil
 3 Uro, Titan of Nature's Wrath
-4 Uro, Titan of Nature's Wrath
 4 Fabled Passage
+4 Uro, Titan of Nature's Wrath
 4 Leafkin Druid
 4 Risen Reef
 1 Temple of Epiphany
 2 Genesis Ultimatum
 3 Cavalier of Thorns
 3 Genesis Ultimatum
-4 Cavalier of Thorns
 4 Omnath, Locus of the Roil
+4 Cavalier of Thorns
 3 Island
 1 Ugin, the Spirit Dragon
 2 Ugin, the Spirit Dragon
-3 Paradise Druid
 4 Forest
-4 Paradise Druid
 5 Forest
 1 Arboreal Grazer
 2 Arboreal Grazer
@@ -36,45 +33,51 @@
 2 Terror of the Peaks
 3 Terror of the Peaks
 4 Terror of the Peaks
-1 Essence Scatter
-1 Negate
+3 Paradise Druid
+4 Paradise Druid
 1 Temple of Abandon
-4 Aether Gust
 2 Temple of Epiphany
 3 Temple of Mystery
-4 Bonecrusher Giant
-4 Quench
+3 Frilled Mystic
+4 Aether Gust
 3 Temple of Epiphany
-1 Flame Sweep
-2 Flame Sweep
 2 Mountain
 4 Genesis Ultimatum
-1 Spectral Sailor
-2 Essence Scatter
+1 Essence Scatter
+1 Negate
+4 Quench
 2 Temple of Abandon
 4 Arboreal Grazer
+1 Flame Sweep
+2 Flame Sweep
+1 Spectral Sailor
+4 Bonecrusher Giant
+2 Essence Scatter
+3 Temple of Abandon
 1 Hydroid Krasis
 2 Castle Vantress
 1 Chemister's Insight
 2 Negate
-3 Temple of Abandon
-1 Wilt
+3 Ugin, the Spirit Dragon
 4 Brazen Borrower
-4 Temple of Mystery
+1 Beanstalk Giant
+2 Beanstalk Giant
 1 Rugged Highlands
 2 Hydroid Krasis
 2 Rugged Highlands
-3 Ugin, the Spirit Dragon
 4 Ugin, the Spirit Dragon
+4 Temple of Mystery
 6 Forest
 7 Forest
 8 Forest
+1 Wilt
 1 Teferi, Master of Time
 1 Niv-Mizzet, Parun
 1 Disdainful Stroke
 1 Tamiyo, Collector of Tales
 2 Tamiyo, Collector of Tales
 2 Teferi, Master of Time
+3 Shark Typhoon
 1 Wolfwillow Haven
 1 Yorion, Sky Nomad
 2 Wolfwillow Haven
@@ -88,6 +91,5 @@
 2 Spectral Sailor
 3 Ionize
 3 Brineborn Cutthroat
-3 Wildborn Preserver
 4 Brineborn Cutthroat
-3 Shark Typhoon
+3 Wildborn Preserver

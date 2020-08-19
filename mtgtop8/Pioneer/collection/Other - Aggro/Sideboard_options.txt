@@ -76,13 +76,13 @@
 2 Baffling End
 2 Gideon, Ally of Zendikar
 3 Baffling End
-1 Mistcutter Hydra
 1 Deafening Silence
 1 Settle the Wreckage
+1 Mistcutter Hydra
 1 Display of Dominance
-2 Mistcutter Hydra
-2 Deafening Silence
 2 Settle the Wreckage
+2 Deafening Silence
+2 Mistcutter Hydra
 2 Display of Dominance
 3 Mistcutter Hydra
 1 Kolaghan's Command
@@ -105,9 +105,6 @@
 3 Necromentia
 3 Dreadbore
 4 Leyline of the Void
-1 Heron's Grace Champion
-2 Basri's Lieutenant
-4 Fatal Push
 1 Gideon's Intervention
 1 Seal Away
 1 Destiny Spinner
@@ -120,5 +117,8 @@
 3 Rest in Peace
 3 Gideon's Intervention
 3 Destiny Spinner
-4 Gideon's Intervention
 4 Destiny Spinner
+4 Gideon's Intervention
+1 Heron's Grace Champion
+2 Basri's Lieutenant
+4 Fatal Push

@@ -43,14 +43,14 @@
 2 Mountain
 1 Erebos's Intervention
 1 Cling to Dust
-1 Yorion, Sky Nomad
 1 Omen of the Forge
+1 Yorion, Sky Nomad
 1 Blacklance Paragon
-2 Yorion, Sky Nomad
 2 Omen of the Forge
+2 Yorion, Sky Nomad
 2 Blacklance Paragon
-3 Yorion, Sky Nomad
 3 Omen of the Forge
+3 Yorion, Sky Nomad
 4 Omen of the Forge
 1 Scorching Dragonfire
 2 Scorching Dragonfire
@@ -92,14 +92,13 @@
 1 Sarkhan the Masterless
 1 Niv-Mizzet, Parun
 2 Niv-Mizzet, Parun
-1 Ashiok, Dream Render
 1 Chandra, Heart of Fire
+1 Ashiok, Dream Render
 2 Chandra, Heart of Fire
 1 Dismal Backwater
 1 Elspeth's Nightmare
 2 Dismal Backwater
 2 Elspeth's Nightmare
-3 Teferi, Master of Time
 1 Ionize
 1 Rielle, the Everwise
 2 Ionize
@@ -107,6 +106,7 @@
 2 Rielle, the Everwise
 3 Ionize
 3 Rielle, the Everwise
+3 Teferi, Master of Time
 1 Neutralize
 1 The Elderspell
 2 Neutralize
@@ -114,9 +114,9 @@
 3 Murderous Rider
 4 Neutralize
 1 Disdainful Stroke
+1 Mission Briefing
 1 Ral, Storm Conduit
 1 Bond of Insight
-1 Mission Briefing
 1 Purphoros's Intervention
 1 Experimental Overload
 2 Blitz of the Thunder-Raptor
@@ -125,8 +125,8 @@
 2 Mission Briefing
 3 Erebos's Intervention
 4 Erebos's Intervention
-1 Discovery/Dispersal
 1 Ugin, the Spirit Dragon
+1 Discovery/Dispersal
 2 Mystical Dispute
 2 Discovery/Dispersal
 3 Mystical Dispute
