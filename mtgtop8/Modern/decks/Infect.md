@@ -68,7 +68,7 @@
 |                     |                                                                                               |                    2|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130903)                        |
 |                     |                                                                                               |                    2|[Piracy Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=124066)                |
 |                     |                                                                                               |                    3|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130903)                        |
-|                     |                                                                                               |                    4|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130903)                        |
 |                     |                                                                                               |                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)              |
+|                     |                                                                                               |                    4|[Peek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130903)                        |
 |                     |                                                                                               |                    3|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)                  |
 

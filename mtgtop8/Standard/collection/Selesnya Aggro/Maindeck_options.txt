@@ -17,18 +17,18 @@
 4 Huatli's Raptor
 4 Venerated Loxodon
 8 Forest
-1 Chamber Sentry
 1 Karn's Bastion
 1 Growth-Chamber Guardian
+1 Chamber Sentry
 1 Basri's Lieutenant
-2 Chamber Sentry
 2 Growth-Chamber Guardian
+2 Chamber Sentry
 2 Fabled Passage
 2 Basri's Lieutenant
-3 Chamber Sentry
 3 Growth-Chamber Guardian
-4 Chamber Sentry
+3 Chamber Sentry
 4 Growth-Chamber Guardian
+4 Chamber Sentry
 1 Indatha Triome
 1 Gods Willing
 2 Gods Willing
@@ -53,8 +53,8 @@
 1 Thassa, Deep-Dwelling
 1 Tranquil Cove
 1 Fierce Empath
-1 Simic Guildgate
 1 Imposing Vantasaur
+1 Simic Guildgate
 1 Negate
 1 Witching Well
 1 Realm-Cloaked Giant
@@ -89,26 +89,26 @@
 2 Teferi's Time Twist
 3 Island
 3 Imposing Vantasaur
+3 Neoform
+3 Thornwood Falls
+3 Leafkin Druid
+3 Risen Reef
 3 Tranquil Cove
 3 Witching Well
 3 Fierce Empath
 3 Cloudkin Seer
-3 Leafkin Druid
 3 Negate
-3 Risen Reef
-3 Neoform
 3 Omen of the Sea
-3 Thornwood Falls
 4 Island
 4 Imposing Vantasaur
+4 Cloudkin Seer
+4 Thornwood Falls
+4 Leafkin Druid
+4 Risen Reef
 4 Tranquil Cove
 4 Witching Well
-4 Leafkin Druid
 4 Fierce Empath
-4 Thornwood Falls
 4 Omen of the Sea
-4 Cloudkin Seer
-4 Risen Reef
 5 Island
 6 Island
 7 Island
@@ -142,8 +142,8 @@
 2 Lovestruck Beast
 2 Bronzehide Lion
 2 Gideon Blackblade
-3 Questing Beast
 3 Scavenging Ooze
+3 Questing Beast
 3 Primal Might
 3 Lurrus of the Dream-Den
 3 Lovestruck Beast

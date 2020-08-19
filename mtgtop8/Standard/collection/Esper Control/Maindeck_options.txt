@@ -84,13 +84,13 @@
 1 Dire Tactics
 1 Hero of Precinct One
 1 Discovery / Dispersal
-2 Elite Guardmage
 2 Hero of Precinct One
+2 Elite Guardmage
 2 Dire Tactics
-3 Elite Guardmage
 3 Hero of Precinct One
-3 Atris, Oracle of Half-Truths
+3 Elite Guardmage
 3 Dire Tactics
+3 Atris, Oracle of Half-Truths
 4 Hero of Precinct One
 4 Dire Tactics
 2 Castle Locthwain
@@ -106,8 +106,8 @@
 1 Banishing Light
 1 Tranquil Cove
 2 Tranquil Cove
+1 Time Wipe
 1 Ominous Seas
-1 Teferi's Ageless Insight
 1 Precognitive Perception
 1 Conclave Tribunal
 1 Thief of Sanity
@@ -116,7 +116,7 @@
 1 Ashiok, Dream Render
 1 Realm-Cloaked Giant
 1 Unexplained Vision
-1 Time Wipe
+1 Teferi's Ageless Insight
 1 Teferi's Tutelage
 1 Gyruda, Doom of Depths
 1 Obsessive Stitcher
@@ -126,26 +126,26 @@
 1 Folio of Fancies
 1 Dismal Backwater
 1 Mu Yanling, Sky Dancer
+2 Dismal Backwater
 2 Ominous Seas
-2 Teferi's Ageless Insight
 2 Merfolk Secretkeeper
 2 Dream Trawler
 2 Conclave Tribunal
 2 Teferi's Tutelage
-2 Dismal Backwater
 2 Arrester's Admonition
+2 Teferi's Ageless Insight
 2 Sage of Mysteries
 3 Dream Trawler
+3 Dismal Backwater
 3 Merfolk Secretkeeper
 3 Teferi's Tutelage
 3 Tranquil Cove
 3 Conclave Tribunal
-3 Dismal Backwater
 4 Dream Trawler
-4 Tranquil Cove
+4 Dismal Backwater
 4 Conclave Tribunal
 4 Merfolk Secretkeeper
-4 Dismal Backwater
+4 Tranquil Cove
 5 Plains
 8 Island
 1 Cling to Dust
@@ -157,16 +157,6 @@
 3 Teferi, Master of Time
 1 Neutralize
 3 Aether Gust
-1 Zagoth Triome
-1 Mythos of Nethroi
-1 Indatha Triome
-1 Forest
-2 Zagoth Triome
-2 Mythos of Nethroi
-2 Indatha Triome
-3 Zagoth Triome
-3 Mythos of Nethroi
-4 Zagoth Triome
 1 Tyrant's Scorn
 2 The Wanderer
 4 Omen of the Sun
@@ -185,12 +175,22 @@
 4 Mystical Dispute
 4 Treacherous Blessing
 4 Burglar Rat
-1 Duress
 1 Disinformation Campaign
+1 Duress
 2 Duress
 2 Disinformation Campaign
 3 Duress
 4 Duress
+1 Mythos of Nethroi
+1 Indatha Triome
+1 Zagoth Triome
+1 Forest
+2 Mythos of Nethroi
+2 Indatha Triome
+2 Zagoth Triome
+3 Mythos of Nethroi
+3 Zagoth Triome
+4 Zagoth Triome
 1 Kaya's Wrath
 1 Cry of the Carnarium
 2 Kaya's Wrath

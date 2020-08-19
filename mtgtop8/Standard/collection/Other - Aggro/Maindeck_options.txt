@@ -48,9 +48,9 @@
 1 Radha, Heart of Keld
 1 Temple of Abandon
 1 Questing Beast
-2 Radha, Heart of Keld
 2 Questing Beast
 2 Temple of Abandon
+2 Radha, Heart of Keld
 3 Questing Beast
 1 Castle Embereth
 2 Castle Embereth
@@ -59,8 +59,8 @@
 10 Forest
 1 Terror of the Peaks
 1 Heroic Intervention
-2 Heroic Intervention
 2 Terror of the Peaks
+2 Heroic Intervention
 3 Heroic Intervention
 1 Domri's Ambush
 2 Domri's Ambush
@@ -77,10 +77,10 @@
 1 Spectral Sailor
 2 Sea-Dasher Octopus
 2 Spectral Sailor
-3 Sea-Dasher Octopus
 3 Spectral Sailor
-4 Sea-Dasher Octopus
+3 Sea-Dasher Octopus
 4 Spectral Sailor
+4 Sea-Dasher Octopus
 2 Klothys, God of Destiny
 1 Arboreal Grazer
 1 Cultivate
@@ -111,14 +111,14 @@
 3 Brineborn Cutthroat
 7 Island
 1 Radiant Fountain
-1 Marauding Raptor
 1 Castle Garenbrig
+1 Marauding Raptor
+1 Primal Might
 1 Vivien, Monsters' Advocate
 1 Garruk's Harbinger
-1 Gemrazer
 1 Garruk, Unleashed
+1 Gemrazer
 1 Shifting Ceratops
-1 Primal Might
 2 Marauding Raptor
 2 Garruk's Harbinger
 2 Gemrazer
@@ -134,9 +134,9 @@
 3 Pack Leader
 4 Pack Leader
 1 Domri, Anarch of Bolas
+1 Sarkhan the Masterless
 1 Chandra, Fire Artisan
 1 Chandra, Heart of Fire
-1 Sarkhan the Masterless
 1 Vivien, Arkbow Ranger
 1 Incubation Druid
 2 Domri, Anarch of Bolas
@@ -156,12 +156,12 @@
 1 Eliminate
 1 Garruk, Cursed Huntsman
 1 Overgrown Tomb
-1 Vraska, Golgari Queen
 1 Temple Garden
+1 Vraska, Golgari Queen
+1 Elspeth Conquers Death
 1 Basri's Lieutenant
 1 Llanowar Visionary
 1 Revival / Revenge
-1 Elspeth Conquers Death
 1 Gilded Goose
 1 Treacherous Blessing
 2 Indatha Triome
@@ -185,8 +185,8 @@
 3 Gilded Goose
 3 Basri's Lieutenant
 4 Overgrown Tomb
-4 Temple Garden
 4 Indatha Triome
+4 Temple Garden
 4 Vito, Thorn of the Dusk Rose
 4 Llanowar Visionary
 4 Basri's Lieutenant
@@ -198,50 +198,6 @@
 3 Riddleform
 4 Riddleform
 4 Dreadhorde Arcanist
-1 Ugin, the Spirit Dragon
-2 Ugin, the Spirit Dragon
-3 Ugin, the Spirit Dragon
-4 Ugin, the Spirit Dragon
-1 Mystic Forge
-1 Crystalline Giant
-1 Karn's Bastion
-1 Stonecoil Serpent
-1 Steel Overseer
-1 Ugin, the Ineffable
-1 Blast Zone
-1 Mobilized District
-1 Palladium Myr
-1 Interplanar Beacon
-2 Ugin, the Ineffable
-2 Mystic Forge
-2 Crystalline Giant
-2 Karn's Bastion
-2 Stonecoil Serpent
-2 Steel Overseer
-2 Radiant Fountain
-2 Palladium Myr
-2 Mobilized District
-2 Interplanar Beacon
-3 Mystic Forge
-3 Ugin, the Ineffable
-3 Solemn Simulacrum
-3 Crystalline Giant
-3 Stonecoil Serpent
-3 Steel Overseer
-3 Radiant Fountain
-3 Karn's Bastion
-3 Palladium Myr
-3 Interplanar Beacon
-4 Mystic Forge
-4 Solemn Simulacrum
-4 Radiant Fountain
-4 Steel Overseer
-4 Stonecoil Serpent
-4 Ugin, the Ineffable
-4 Karn's Bastion
-4 Interplanar Beacon
-4 Crystalline Giant
-4 Palladium Myr
 1 Lava Coil
 1 Robber of the Rich
 1 Sporeweb Weaver
@@ -256,26 +212,26 @@
 1 Lurrus of the Dream-Den
 2 Lurrus of the Dream-Den
 1 Boon of the Wish-Giver
-1 Imposing Vantasaur
 1 Startling Development
 1 Hallowed Fountain
 1 Flourishing Fox
 1 Drannith Stinger
 1 Unpredictable Cyclone
 1 Zenith Flare
+1 Imposing Vantasaur
 1 Valiant Rescuer
 1 Inspired Ultimatum
 1 Drannith Healer
 1 Raugrin Triome
-2 Inspired Ultimatum
 2 Boon of the Wish-Giver
 2 Raugrin Triome
-2 Imposing Vantasaur
 2 Drannith Stinger
+2 Imposing Vantasaur
 2 Valiant Rescuer
 2 Drannith Healer
 2 Zenith Flare
 2 Unpredictable Cyclone
+2 Inspired Ultimatum
 2 Hallowed Fountain
 2 Startling Development
 2 Flourishing Fox
@@ -298,25 +254,25 @@
 4 Unpredictable Cyclone
 1 Temple of Mystery
 1 Wolfwillow Haven
-1 Breeding Pool
 1 Quench
 1 Ketria Triome
-1 Nightpack Ambusher
-1 Essence Scatter
+1 Breeding Pool
 1 Shark Typhoon
 1 Negate
+1 Essence Scatter
 1 Frilled Mystic
+1 Nightpack Ambusher
 2 Wolfwillow Haven
 2 Temple of Mystery
-2 Breeding Pool
 2 Quench
 2 Ketria Triome
-2 Nightpack Ambusher
+2 Breeding Pool
 2 Shark Typhoon
+2 Nightpack Ambusher
 2 Frilled Mystic
-3 Breeding Pool
 3 Quench
 3 Ketria Triome
+3 Breeding Pool
 3 Temple of Mystery
 3 Frilled Mystic
 3 Nightpack Ambusher
@@ -324,20 +280,64 @@
 4 Frilled Mystic
 4 Temple of Mystery
 4 Nightpack Ambusher
+1 Ugin, the Spirit Dragon
+2 Ugin, the Spirit Dragon
+3 Ugin, the Spirit Dragon
+4 Ugin, the Spirit Dragon
+1 Mystic Forge
+1 Crystalline Giant
+1 Karn's Bastion
+1 Steel Overseer
+1 Ugin, the Ineffable
+1 Stonecoil Serpent
+1 Blast Zone
+1 Mobilized District
+1 Palladium Myr
+1 Interplanar Beacon
+2 Mobilized District
+2 Ugin, the Ineffable
+2 Mystic Forge
+2 Crystalline Giant
+2 Karn's Bastion
+2 Steel Overseer
+2 Radiant Fountain
+2 Palladium Myr
+2 Interplanar Beacon
+2 Stonecoil Serpent
+3 Mystic Forge
+3 Ugin, the Ineffable
+3 Solemn Simulacrum
+3 Crystalline Giant
+3 Steel Overseer
+3 Radiant Fountain
+3 Karn's Bastion
+3 Stonecoil Serpent
+3 Palladium Myr
+3 Interplanar Beacon
+4 Mystic Forge
+4 Solemn Simulacrum
+4 Radiant Fountain
+4 Steel Overseer
+4 Ugin, the Ineffable
+4 Karn's Bastion
+4 Interplanar Beacon
+4 Crystalline Giant
+4 Palladium Myr
+4 Stonecoil Serpent
 5 Swamp
 6 Swamp
 7 Swamp
-1 Pouncing Shoreshark
-1 Dirge Bat
 1 Ashiok's Erasure
+1 Pouncing Shoreshark
 1 Heartless Act
 1 Cunning Nightbonder
+1 Dirge Bat
 1 Temple of Deceit
 1 Watery Grave
 1 Slitherwisp
-2 Dirge Bat
 2 Ashiok's Erasure
 2 Heartless Act
+2 Dirge Bat
 2 Cunning Nightbonder
 2 Temple of Deceit
 2 Watery Grave
@@ -348,24 +348,52 @@
 3 Temple of Deceit
 3 Slitherwisp
 3 Watery Grave
-4 Temple of Deceit
 4 Brazen Borrower
 4 Cunning Nightbonder
 4 Heartless Act
 4 Slitherwisp
 4 Brineborn Cutthroat
+4 Temple of Deceit
 4 Watery Grave
 1 Ionize
 2 Ionize
 3 Lofty Denial
 4 Lofty Denial
-1 Legion Warboss
-2 Legion Warboss
-3 Legion Warboss
-7 Mountain
-7 Plains
-8 Plains
-8 Mountain
+1 Zagoth Triome
+1 Acolyte of Affliction
+1 Thassa, Deep-Dwelling
+1 Cavalier of Night
+1 Golgari Findbroker
+1 Casualties of War
+1 Neoform
+1 Thirsting Shade
+1 Cling to Dust
+1 Vampire Opportunist
+1 Knight of the Ebon Legion
+1 Biomancer's Familiar
+2 Thassa, Deep-Dwelling
+2 Acolyte of Affliction
+2 Zagoth Triome
+2 Golgari Findbroker
+2 Casualties of War
+2 Vampire Opportunist
+2 Biomancer's Familiar
+2 Knight of the Ebon Legion
+2 Neoform
+2 Thirsting Shade
+3 Casualties of War
+3 Thirsting Shade
+3 Vampire Opportunist
+3 Knight of the Ebon Legion
+3 Biomancer's Familiar
+3 Neoform
+4 Casualties of War
+4 Neoform
+4 Thirsting Shade
+4 Vampire Opportunist
+4 Knight of the Ebon Legion
+4 Biomancer's Familiar
+8 Swamp
 1 Cavalier of Thorns
 1 Voracious Hydra
 1 Chandra, Awakened Inferno
@@ -389,38 +417,10 @@
 12 Forest
 13 Forest
 14 Forest
-1 Zagoth Triome
-1 Acolyte of Affliction
-1 Cavalier of Night
-1 Golgari Findbroker
-1 Casualties of War
-1 Thassa, Deep-Dwelling
-1 Neoform
-1 Thirsting Shade
-1 Cling to Dust
-1 Vampire Opportunist
-1 Knight of the Ebon Legion
-1 Biomancer's Familiar
-2 Zagoth Triome
-2 Acolyte of Affliction
-2 Golgari Findbroker
-2 Casualties of War
-2 Vampire Opportunist
-2 Biomancer's Familiar
-2 Knight of the Ebon Legion
-2 Neoform
-2 Thirsting Shade
-2 Thassa, Deep-Dwelling
-3 Casualties of War
-3 Thirsting Shade
-3 Vampire Opportunist
-3 Knight of the Ebon Legion
-3 Biomancer's Familiar
-3 Neoform
-4 Casualties of War
-4 Neoform
-4 Thirsting Shade
-4 Vampire Opportunist
-4 Knight of the Ebon Legion
-4 Biomancer's Familiar
-8 Swamp
+1 Legion Warboss
+2 Legion Warboss
+3 Legion Warboss
+7 Mountain
+7 Plains
+8 Mountain
+8 Plains
