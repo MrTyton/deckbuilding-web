@@ -8,29 +8,29 @@
 1 Veil of Summer
 1 Candelabra of Tawnos
 1 Ulamog, the Ceaseless Hunger
-1 Emrakul, the Aeons Torn
-1 Thespian's Stage
 1 Maze of Ith
+1 Thespian's Stage
 1 Vesuva
-1 Lotus Field
 1 Crop Rotation
+1 Lotus Field
 1 Hydroid Krasis
 1 Pithing Needle
-1 Repeal
 1 Walking Ballista
+1 Repeal
 1 Karakas
 1 Cloudpost
 1 Glimmerpost
 1 Eye of Ugin
 1 Unbound Flourishing
+1 Emrakul, the Aeons Torn
 1 Shark Typhoon
 1 Animist's Awakening
 2 Candelabra of Tawnos
 2 Hydroid Krasis
 2 Snow-Covered Forest
 2 Crop Rotation
-2 Pithing Needle
 2 Veil of Summer
+2 Pithing Needle
 2 Walking Ballista
 2 Shark Typhoon
 2 Unbound Flourishing
@@ -38,17 +38,17 @@
 2 Cloudpost
 2 Glimmerpost
 2 Animist's Awakening
-3 Shark Typhoon
 3 Crop Rotation
 3 Candelabra of Tawnos
+3 Shark Typhoon
 3 Cloudpost
 3 Glimmerpost
 3 Unbound Flourishing
 4 Cloudpost
 4 Glimmerpost
-1 Counterspell
-1 Teferi, Hero of Dominaria
 1 Mystic Sanctuary
+1 Teferi, Hero of Dominaria
+1 Counterspell
 1 Stasis
 1 Wilderness Reclamation
 1 Chain of Vapor
@@ -62,7 +62,7 @@
 1 Forsaken City
 1 Winter Orb
 1 Daze
-2 Tundra
+2 Daze
 2 Counterspell
 2 Stasis
 2 Echoing Truth
@@ -70,8 +70,8 @@
 2 Chain of Vapor
 2 Mystic Sanctuary
 2 Ensnare
+2 Tundra
 2 Forsaken City
-2 Daze
 3 Daze
 3 Stasis
 3 Snow-Covered Island
@@ -79,15 +79,15 @@
 4 Stasis
 5 Snow-Covered Island
 6 Snow-Covered Island
-1 Forest
+1 Imperious Perfect
 1 Llanowar Visionary
 1 Birds of Paradise
 1 Gaea's Cradle
-1 Elvish Visionary
+1 Forest
 1 Craterhoof Behemoth
+1 Elvish Visionary
 1 Autumn's Veil
 1 Elvish Piper
-1 Imperious Perfect
 1 Elvish Archdruid
 1 Lys Alana Huntmaster
 1 Joraga Warcaller
@@ -99,19 +99,19 @@
 1 Llanowar Elves
 1 Elvish Promenade
 1 Elvish Mystic
+2 Imperious Perfect
 2 Craterhoof Behemoth
 2 Llanowar Visionary
 2 Birds of Paradise
 2 Forest
-2 Elvish Visionary
 2 Gaea's Cradle
+2 Elvish Visionary
 2 Jagged-Scar Archers
 2 Archon of Valor's Reach
 2 Lys Alana Huntmaster
 2 Elvish Archdruid
 2 Elvish Mystic
 2 Somberwald Sage
-2 Imperious Perfect
 2 Llanowar Elves
 2 Dwynen, Gilt-Leaf Daen
 2 Elvish Piper
@@ -131,10 +131,10 @@
 4 Elvish Clancaller
 4 Forest
 5 Forest
-6 Forest
 7 Forest
 8 Forest
 9 Forest
 10 Forest
 11 Forest
 12 Forest
+6 Forest

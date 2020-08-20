@@ -2,29 +2,28 @@
 2 Serrated Scorpion
 3 Castle Locthwain
 2 Temple of Malice
+6 Mountain
 1 Woe Strider
 2 Woe Strider
-6 Mountain
 1 Mayhem Devil
 2 Mayhem Devil
+3 Serrated Scorpion
 3 Woe Strider
 1 Rankle, Master of Pranks
 2 Rankle, Master of Pranks
 3 Mayhem Devil
 4 Mayhem Devil
-3 Serrated Scorpion
+4 Serrated Scorpion
 1 Knight of the Ebon Legion
 2 Knight of the Ebon Legion
 3 Knight of the Ebon Legion
 4 Knight of the Ebon Legion
-4 Serrated Scorpion
 8 Swamp
 1 Spawn of Mayhem
 1 Embercleave
 1 Rotting Regisaur
 2 Rotting Regisaur
 2 Embercleave
-4 Woe Strider
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 2 Spawn of Mayhem
@@ -49,21 +48,16 @@
 2 Stormfist Crusader
 3 Stormfist Crusader
 4 Stormfist Crusader
+2 Weaponize the Monsters
 9 Swamp
 1 Heartless Act
 2 Heartless Act
 3 Blacklance Paragon
 4 Blacklance Paragon
-2 Weaponize the Monsters
 4 Kroxa, Titan of Death's Hunger
-1 Stomping Ground
-1 Tymaret Calls the Dead
-2 Tymaret Calls the Dead
-3 Fiend Artisan
+4 Woe Strider
 3 Temple of Malice
 3 Rankle, Master of Pranks
-1 Judith, the Scourge Diva
-1 Midnight Reaper
 1 Robber of the Rich
 2 Robber of the Rich
 3 Rotting Regisaur
@@ -73,19 +67,24 @@
 10 Swamp
 1 Demonic Embrace
 2 Demonic Embrace
-1 Lurrus of the Dream-Den
-1 Fling
-1 Hunted Nightmare
-2 Lurrus of the Dream-Den
-2 Fling
-2 Hunted Nightmare
-3 Demonic Embrace
 7 Mountain
 8 Mountain
 9 Mountain
 10 Mountain
+1 Judith, the Scourge Diva
+1 Lurrus of the Dream-Den
+1 Fling
+1 Hunted Nightmare
+2 Fling
+2 Lurrus of the Dream-Den
+2 Hunted Nightmare
+3 Demonic Embrace
 1 Duress
+1 Stomping Ground
+1 Tymaret Calls the Dead
+2 Tymaret Calls the Dead
 3 Tymaret Calls the Dead
+3 Fiend Artisan
 1 Noxious Grasp
 2 Noxious Grasp
 3 Noxious Grasp
@@ -100,6 +99,38 @@
 3 Lazotep Reaver
 4 Lazotep Reaver
 4 Call of the Death-Dweller
+1 Scorch Spitter
+1 Goblin Arsonist
+1 Light Up the Stage
+1 Grim Initiate
+1 Bloodfell Caves
+1 Footlight Fiend
+1 Evolving Wilds
+1 Chandra, Acolyte of Flame
+1 Anax, Hardened in the Forge
+1 Sanitarium Skeleton
+2 Scorch Spitter
+2 Grim Initiate
+2 Light Up the Stage
+2 Evolving Wilds
+2 Bloodfell Caves
+2 Footlight Fiend
+2 Anax, Hardened in the Forge
+2 Sanitarium Skeleton
+3 Footlight Fiend
+3 Scorch Spitter
+3 Light Up the Stage
+3 Grim Initiate
+3 Bloodfell Caves
+3 Evolving Wilds
+3 Weaponize the Monsters
+3 Anax, Hardened in the Forge
+4 Footlight Fiend
+4 Evolving Wilds
+4 Scorch Spitter
+4 Light Up the Stage
+4 Grim Initiate
+4 Anax, Hardened in the Forge
 1 Shadowspear
 1 Murderous Rider
 2 Murderous Rider
@@ -110,6 +141,7 @@
 1 Rimrock Knight
 1 Mobilized District
 1 Kitesail Freebooter
+1 Midnight Reaper
 2 Rimrock Knight
 2 Kitesail Freebooter
 2 Midnight Reaper
@@ -117,8 +149,3 @@
 3 Kitesail Freebooter
 4 Kitesail Freebooter
 4 Midnight Reaper
-1 Whisper Squad
-2 Stomping Ground
-2 Whisper Squad
-3 Whisper Squad
-4 Whisper Squad

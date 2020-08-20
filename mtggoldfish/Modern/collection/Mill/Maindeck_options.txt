@@ -12,10 +12,10 @@
 1 Flooded Strand
 1 Winds of Rebuke
 1 Mission Briefing
-1 Island
 1 Swamp
-2 Island
+1 Island
 2 Swamp
+2 Island
 3 Island
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
@@ -53,10 +53,6 @@
 4 Flooded Strand
 4 Jace's Phantasm
 1 Maelstrom Pulse
-1 Thing in the Ice
-2 Cling to Dust
-2 Eliminate
-2 Thing in the Ice
 1 Mana Leak
 1 Ensnaring Bridge
 2 Ensnaring Bridge
@@ -66,6 +62,10 @@
 2 Snapcaster Mage
 1 Fraying Sanity
 2 Fraying Sanity
+1 Thing in the Ice
+2 Eliminate
+2 Cling to Dust
+2 Thing in the Ice
 2 Mission Briefing
 3 Swamp
 4 Island

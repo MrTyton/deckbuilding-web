@@ -41,7 +41,6 @@
 
 |*n*<sup>th</sup> copy|                                             Maindeck Card                                             |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-------------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)        |                     |              |
 |                    3|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)           |                     |              |
 |                    3|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)         |                     |              |
 |                    3|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)              |                     |              |
@@ -51,6 +50,7 @@
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)            |                     |              |
 |                    3|[Uro, Titan of Nature's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476480)|                     |              |
 |                    3|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)              |                     |              |
+|                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)        |                     |              |
 |                    3|[Bloodbraid Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185053)              |                     |              |
 |                    4|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)           |                     |              |
 |                    4|[Uro, Titan of Nature's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476480)|                     |              |

@@ -35,7 +35,7 @@
 |                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)     |                    1|[Telekinetic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=111085) |
 |                    1|[Sidewinder Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118908)  |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                    2|[Sidewinder Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118908)  |                    1|[Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643)            |
-|                    4|[Striking Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370589)    |                    2|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470) |
+|                    4|[Striking Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370589)    |                    2|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|
 |                    4|[Unclaimed Territory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435419)|                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |
-|                     |                                                                                              |                    2|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|
+|                     |                                                                                              |                    2|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470) |
 

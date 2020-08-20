@@ -1,30 +1,29 @@
 1 Island
-1 Swamp
-1 Steam Vents
 1 Fabled Passage
 1 Plains
 2 Fabled Passage
 3 Fabled Passage
-4 Thought Erasure
-1 Oath of Kaya
-2 Heartless Act
-2 Oath of Kaya
+1 Swamp
 1 Mountain
+1 Steam Vents
 2 Eliminate
 3 Eliminate
 4 Fabled Passage
 1 Teferi, Master of Time
 2 Swamp
+4 Thought Erasure
 2 Plains
 2 Island
 1 Shark Typhoon
 2 Shark Typhoon
+1 Oath of Kaya
+2 Heartless Act
+2 Oath of Kaya
 1 Temple of Enlightenment
 1 Omen of the Sea
 2 Omen of the Sea
 3 Omen of the Sea
 4 Omen of the Sea
-2 Extinction Event
 1 Uro, Titan of Nature's Wrath
 1 Breeding Pool
 1 Forest
@@ -72,15 +71,14 @@
 4 Ritual of Soot
 2 Steam Vents
 3 Brazen Borrower
-3 Temple of Silence
 1 Mazemind Tome
+1 Liliana, Waker of the Dead
 1 Discontinuity
 1 Agonizing Remorse
 1 Ashiok, Nightmare Muse
-1 Liliana, Waker of the Dead
 2 Mazemind Tome
-2 Discontinuity
 2 Liliana, Waker of the Dead
+2 Discontinuity
 3 Shark Typhoon
 1 Llanowar Visionary
 1 Temple of Plenty
@@ -111,10 +109,10 @@
 1 Storm's Wrath
 1 Sacred Foundry
 2 Kenrith, the Returned King
+2 Storm's Wrath
 2 Lavabrink Venturer
 2 The Royal Scions
 2 Scorching Dragonfire
-2 Storm's Wrath
 2 Aurelia, Exemplar of Justice
 2 Sacred Foundry
 2 Justice Strike
@@ -141,6 +139,7 @@
 1 Indatha Triome
 2 Drown in the Loch
 2 Opt
+2 Extinction Event
 2 Dovin's Veto
 2 Indatha Triome
 3 Opt
@@ -149,8 +148,8 @@
 3 Dovin's Veto
 4 Indatha Triome
 1 Lazav, the Multifarious
-1 Primal Might
 1 Overgrown Tomb
+1 Primal Might
 1 Negate
 2 Lazav, the Multifarious
 2 Primal Might
