@@ -1,32 +1,18 @@
-1 Scavenging Ooze
-2 Scavenging Ooze
-3 Scavenging Ooze
-1 Ulamog, the Ceaseless Hunger
-1 Emrakul, the Promised End
-1 Mazemind Tome
-1 Wilt
-1 Warping Wail
-1 Spatial Contortion
-1 Return to Nature
-2 Warping Wail
-2 Spatial Contortion
-2 Wilt
-3 Spatial Contortion
-3 Warping Wail
-1 Damping Sphere
-2 Damping Sphere
-3 Damping Sphere
-1 Pithing Needle
-1 Declaration in Stone
-2 Declaration in Stone
-1 Destructive Revelry
-1 Grafdigger's Cage
-1 Valorous Stance
-2 Destructive Revelry
-2 Valorous Stance
-2 Grafdigger's Cage
-3 Declaration in Stone
-3 Destructive Revelry
+1 Disdainful Stroke
+2 Disdainful Stroke
+1 Mystical Dispute
+2 Mystical Dispute
+1 Unmoored Ego
+1 Legion's End
+1 Ashiok, Dream Render
+1 Noxious Grasp
+1 Pharika's Libation
+1 Enter the God-Eternals
+2 Unmoored Ego
+2 Ashiok, Dream Render
+2 Legion's End
+2 Noxious Grasp
+2 Enter the God-Eternals
 1 Rending Volley
 2 Rending Volley
 1 Magma Spray
@@ -39,24 +25,37 @@
 2 Embereth Shieldbreaker
 3 Magma Spray
 1 Soul-Guide Lantern
-1 Disdainful Stroke
-2 Disdainful Stroke
-1 Mystical Dispute
-2 Mystical Dispute
+2 Scavenging Ooze
+1 Fatal Push
+1 Thoughtseize
+2 Fatal Push
+2 Thoughtseize
+3 Scavenging Ooze
+1 Heroic Intervention
+2 Heroic Intervention
+1 Cindervines
+2 Cindervines
+1 Aethersphere Harvester
+4 Scavenging Ooze
 1 Aether Gust
+1 Ulamog, the Ceaseless Hunger
+1 Emrakul, the Promised End
 2 Aether Gust
 3 Aether Gust
 1 Negate
 2 Negate
+3 Fatal Push
+3 Thoughtseize
+4 Thoughtseize
 3 Mystical Dispute
-1 Thoughtseize
-2 Thoughtseize
+1 Fry
+1 Dreadbore
 1 Radiant Flames
 2 Radiant Flames
 1 Abrade
-1 Dreadbore
-1 Cindervines
-2 Cindervines
+1 Mazemind Tome
+1 Wilt
+2 Aethersphere Harvester
 1 Searing Blood
 2 Searing Blood
 1 Collective Defiance
@@ -65,9 +64,8 @@
 2 Collective Defiance
 2 Eidolon of the Great Revel
 2 Goblin Chainwhirler
-1 Chandra, Acolyte of Flame
-2 Chandra, Acolyte of Flame
-2 Soul-Guide Lantern
+1 Cry of the Carnarium
+2 Cry of the Carnarium
 1 Tormod's Crypt
 1 Metallic Rebuke
 1 Hope of Ghirapur
@@ -76,36 +74,32 @@
 2 Mazemind Tome
 2 Hope of Ghirapur
 2 Metallic Rebuke
-1 Aethersphere Harvester
-2 Aethersphere Harvester
-1 Heroic Intervention
-2 Heroic Intervention
-1 Oakhame Adversary
+1 Heartless Act
+1 Shadowspear
+1 Golgari Charm
+1 Stain the Mind
+1 Eliminate
+2 Heartless Act
+2 Stain the Mind
+2 Golgari Charm
 1 Questing Beast
+1 Oakhame Adversary
 1 Primal Might
 1 Prowling Serpopard
 1 Gemrazer
+2 Primal Might
 2 Questing Beast
 2 Oakhame Adversary
-2 Primal Might
 2 Gemrazer
 2 Prowling Serpopard
+1 Chandra, Acolyte of Flame
+2 Chandra, Acolyte of Flame
+2 Soul-Guide Lantern
 1 Korvold, Fae-Cursed King
 1 Claim the Firstborn
 2 Claim the Firstborn
 2 Korvold, Fae-Cursed King
 3 Claim the Firstborn
-1 Selfless Spirit
-1 Bonecrusher Giant
-1 Lavinia of the Tenth
-1 Giant Killer
-1 Cloudblazer
-2 Bonecrusher Giant
-2 Selfless Spirit
-2 Giant Killer
-2 Cloudblazer
-3 Bonecrusher Giant
-3 Selfless Spirit
 1 Stubborn Denial
 1 Wild Slash
 1 Lightning Axe
@@ -117,6 +111,14 @@
 2 Glorybringer
 3 Stubborn Denial
 3 Wild Slash
+1 Warping Wail
+1 Spatial Contortion
+1 Return to Nature
+2 Warping Wail
+2 Spatial Contortion
+2 Wilt
+3 Spatial Contortion
+3 Warping Wail
 1 Duress
 1 Karn, Scion of Urza
 1 Hazoret the Fervent
@@ -125,14 +127,24 @@
 2 Dreadbore
 2 Rampaging Ferocidon
 3 Rampaging Ferocidon
-1 Shapers' Sanctuary
+1 Chandra's Defeat
+1 Lava Coil
+1 Hunt the Hunter
+2 Lava Coil
+3 Heroic Intervention
+3 Lava Coil
+1 Yahenni's Expertise
+1 Assassin's Trophy
+2 Yahenni's Expertise
+2 Assassin's Trophy
+3 Assassin's Trophy
 1 Collision/Colossus
+1 Shapers' Sanctuary
 2 Shapers' Sanctuary
 3 Embereth Shieldbreaker
 1 Uro, Titan of Nature's Wrath
 1 Teferi, Time Raveler
 1 Monastery Mentor
-1 Fry
 2 Teferi, Time Raveler
 2 Monastery Mentor
 3 Teferi, Time Raveler
@@ -147,6 +159,17 @@
 2 Fairgrounds Warden
 3 Baffling End
 3 Fairgrounds Warden
+1 Selfless Spirit
+1 Lavinia of the Tenth
+1 Giant Killer
+1 Bonecrusher Giant
+1 Cloudblazer
+2 Selfless Spirit
+2 Giant Killer
+2 Bonecrusher Giant
+2 Cloudblazer
+3 Selfless Spirit
+3 Bonecrusher Giant
 1 Surge of Righteousness
 1 Dragonlord Ojutai
 1 Lyra Dawnbringer
@@ -167,7 +190,6 @@
 3 Isolate
 4 Glass Casket
 3 Disdainful Stroke
-4 Scavenging Ooze
 4 Aether Gust
 1 Elspeth, Sun's Champion
 1 Banishing Light
@@ -192,13 +214,6 @@
 2 Gruul Spellbreaker
 3 Gruul Spellbreaker
 4 Magma Spray
-1 Yahenni's Expertise
-1 Assassin's Trophy
-2 Yahenni's Expertise
-2 Assassin's Trophy
-3 Assassin's Trophy
-3 Thoughtseize
-4 Thoughtseize
 1 Dire Fleet Daredevil
 1 Chained to the Rocks
 1 Exquisite Firecraft

@@ -8,10 +8,10 @@
 1 Spell Snare
 1 Delver of Secrets
 1 Serum Visions
-1 Inquisition of Kozilek
 1 Spell Pierce
 1 Force of Negation
 1 Drown in the Loch
+1 Inquisition of Kozilek
 1 Kolaghan's Command
 1 Steam Vents
 1 Scalding Tarn
@@ -29,9 +29,9 @@
 2 Watery Grave
 2 Delver of Secrets
 2 Serum Visions
-2 Inquisition of Kozilek
 2 Scalding Tarn
 2 Lightning Bolt
+2 Inquisition of Kozilek
 2 Kolaghan's Command
 3 Thought Scour
 3 Vantress Gargoyle
@@ -40,9 +40,9 @@
 3 Delver of Secrets
 3 Watery Grave
 3 Serum Visions
-3 Inquisition of Kozilek
 3 Polluted Delta
 3 Lightning Bolt
+3 Inquisition of Kozilek
 3 Scalding Tarn
 3 Drown in the Loch
 4 Thought Scour
@@ -60,8 +60,8 @@
 1 Ghor-Clan Rampager
 1 Bomat Courier
 1 Verdant Catacombs
-1 Cavern of Souls
 1 Overgrown Tomb
+1 Cavern of Souls
 1 Klothys, God of Destiny
 1 Bloodstained Mire
 1 Nurturing Peatland
@@ -78,6 +78,7 @@
 2 Traverse the Ulvenwald
 2 Bomat Courier
 2 Blooming Marsh
+2 Swamp
 2 Verdant Catacombs
 2 Bloodstained Mire
 2 Blood Crypt
@@ -85,7 +86,6 @@
 2 Soulflayer
 2 Sylvan Caryatid
 2 Grisly Salvage
-2 Swamp
 2 Drogskol Reaver
 2 Zetalpa, Primal Dawn
 2 Samut, Voice of Dissent

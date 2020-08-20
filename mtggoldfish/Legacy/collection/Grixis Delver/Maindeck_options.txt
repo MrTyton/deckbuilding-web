@@ -1,10 +1,7 @@
 1 Bloodstained Mire
-1 Brazen Borrower
 4 Volcanic Island
 1 Pyroblast
 4 Polluted Delta
-1 Island
-1 Snapcaster Mage
 2 Bloodstained Mire
 1 True-Name Nemesis
 1 Bedlam Reveler
@@ -13,24 +10,22 @@
 1 Of One Mind
 2 Of One Mind
 3 Young Pyromancer
-1 Drown in the Loch
 1 Fiery Islet
+1 Brazen Borrower
+1 Drown in the Loch
 3 Flooded Strand
-3 Scalding Tarn
 1 Kolaghan's Command
 1 Badlands
 1 Plague Engineer
+1 Island
 1 Swamp
+1 Snapcaster Mage
 2 Snapcaster Mage
 2 Island
 3 Snapcaster Mage
 2 True-Name Nemesis
 1 Baleful Strix
 2 Baleful Strix
-1 Stifle
-2 Stifle
-1 Mystic Sanctuary
-4 Scalding Tarn
 3 Misty Rainforest
 1 Jace, the Mind Sculptor
 1 Tropical Island
@@ -55,24 +50,9 @@
 3 Dack Fayden
 3 Uro, Titan of Nature's Wrath
 4 Assassin's Trophy
-1 Accumulated Knowledge
-1 Magmatic Sinkhole
-1 Teferi, Time Raveler
-1 Counterspell
-1 Tundra
-1 Swords to Plowshares
-2 Accumulated Knowledge
-2 Mystic Sanctuary
-2 Teferi, Time Raveler
-2 Swords to Plowshares
-2 Tundra
-3 Accumulated Knowledge
-3 Tundra
-3 Swords to Plowshares
-4 Accumulated Knowledge
 2 Brazen Borrower
-4 Flooded Strand
 2 Spell Pierce
+4 Flooded Strand
 2 Drown in the Loch
 1 Hymn to Tourach
 1 Liliana, the Last Hope
@@ -81,13 +61,16 @@
 2 Swamp
 3 Kolaghan's Command
 3 Baleful Strix
+3 Scalding Tarn
 1 Toxic Deluge
+1 Mystic Sanctuary
 1 Creeping Tar Pit
 1 Murderous Rider
 1 Mountain
 2 Jace, the Mind Sculptor
 2 Murderous Rider
 2 Plague Engineer
+4 Scalding Tarn
 4 Baleful Strix
 1 Narset, Parter of Veils
 1 Angrath's Rampage
@@ -99,8 +82,10 @@
 1 Dark Confidant
 2 Dark Confidant
 4 Misty Rainforest
+1 Stifle
 1 Eliminate
 2 Eliminate
+2 Stifle
 2 Force of Negation
 3 Stifle
 4 Stifle

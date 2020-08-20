@@ -1,51 +1,98 @@
 1 Brainstorm
-2 Tropical Island
-2 Snow-Covered Island
 2 Brainstorm
-3 Tropical Island
 3 Brainstorm
 4 Brainstorm
+2 Snow-Covered Island
+2 Tropical Island
+3 Tropical Island
+1 Lotus Field
+1 Karakas
 1 Veil of Summer
 1 Candelabra of Tawnos
 1 Ulamog, the Ceaseless Hunger
-1 Maze of Ith
+1 Shark Typhoon
 1 Thespian's Stage
+1 Maze of Ith
 1 Vesuva
-1 Crop Rotation
-1 Lotus Field
 1 Hydroid Krasis
+1 Crop Rotation
 1 Pithing Needle
 1 Walking Ballista
 1 Repeal
-1 Karakas
 1 Cloudpost
 1 Glimmerpost
 1 Eye of Ugin
 1 Unbound Flourishing
 1 Emrakul, the Aeons Torn
-1 Shark Typhoon
 1 Animist's Awakening
 2 Candelabra of Tawnos
+2 Shark Typhoon
 2 Hydroid Krasis
 2 Snow-Covered Forest
 2 Crop Rotation
 2 Veil of Summer
 2 Pithing Needle
 2 Walking Ballista
-2 Shark Typhoon
-2 Unbound Flourishing
 2 Vesuva
+2 Unbound Flourishing
 2 Cloudpost
 2 Glimmerpost
 2 Animist's Awakening
+3 Shark Typhoon
 3 Crop Rotation
 3 Candelabra of Tawnos
-3 Shark Typhoon
 3 Cloudpost
 3 Glimmerpost
 3 Unbound Flourishing
-4 Cloudpost
 4 Glimmerpost
+4 Cloudpost
+1 Daze
+2 Tundra
+2 Daze
+3 Daze
+1 Marsh Flats
+1 Weathered Wayfarer
+1 Knight of the White Orchid
+1 Cataclysm
+1 Lavinia, Azorius Renegade
+1 Vantress Gargoyle
+1 Snow-Covered Plains
+1 Flagstones of Trokair
+1 Meddling Mage
+1 Fathom Seer
+1 Wasteland
+1 Polluted Delta
+1 Swords to Plowshares
+2 Snow-Covered Plains
+2 Marsh Flats
+2 Weathered Wayfarer
+2 Knight of the White Orchid
+2 Vantress Gargoyle
+2 Swords to Plowshares
+2 Polluted Delta
+2 Meddling Mage
+2 Wasteland
+2 Flooded Strand
+2 Fathom Seer
+2 Cataclysm
+3 Weathered Wayfarer
+3 Tundra
+3 Knight of the White Orchid
+3 Vantress Gargoyle
+3 Swords to Plowshares
+3 Cataclysm
+3 Wasteland
+3 Flooded Strand
+3 Meddling Mage
+3 Fathom Seer
+4 Flooded Strand
+4 Weathered Wayfarer
+4 Wasteland
+4 Swords to Plowshares
+4 Tundra
+4 Vantress Gargoyle
+4 Fathom Seer
+4 Meddling Mage
 1 Mystic Sanctuary
 1 Teferi, Hero of Dominaria
 1 Counterspell
@@ -61,29 +108,25 @@
 1 Equipoise
 1 Forsaken City
 1 Winter Orb
-1 Daze
-2 Daze
+2 Mystic Sanctuary
 2 Counterspell
 2 Stasis
 2 Echoing Truth
 2 Teferi, Hero of Dominaria
 2 Chain of Vapor
-2 Mystic Sanctuary
 2 Ensnare
-2 Tundra
 2 Forsaken City
-3 Daze
-3 Stasis
 3 Snow-Covered Island
+3 Stasis
 4 Snow-Covered Island
 4 Stasis
 5 Snow-Covered Island
 6 Snow-Covered Island
 1 Imperious Perfect
 1 Llanowar Visionary
+1 Forest
 1 Birds of Paradise
 1 Gaea's Cradle
-1 Forest
 1 Craterhoof Behemoth
 1 Elvish Visionary
 1 Autumn's Veil
@@ -92,28 +135,28 @@
 1 Lys Alana Huntmaster
 1 Joraga Warcaller
 1 Dwynen, Gilt-Leaf Daen
-1 Jagged-Scar Archers
 1 Somberwald Sage
+1 Elvish Mystic
 1 Elvish Clancaller
+1 Jagged-Scar Archers
 1 Archon of Valor's Reach
 1 Llanowar Elves
 1 Elvish Promenade
-1 Elvish Mystic
 2 Imperious Perfect
-2 Craterhoof Behemoth
 2 Llanowar Visionary
+2 Craterhoof Behemoth
 2 Birds of Paradise
 2 Forest
 2 Gaea's Cradle
 2 Elvish Visionary
 2 Jagged-Scar Archers
 2 Archon of Valor's Reach
-2 Lys Alana Huntmaster
 2 Elvish Archdruid
 2 Elvish Mystic
 2 Somberwald Sage
 2 Llanowar Elves
 2 Dwynen, Gilt-Leaf Daen
+2 Lys Alana Huntmaster
 2 Elvish Piper
 2 Elvish Promenade
 2 Elvish Clancaller
@@ -126,8 +169,8 @@
 3 Llanowar Elves
 4 Gaea's Cradle
 4 Llanowar Elves
-4 Elvish Mystic
 4 Lys Alana Huntmaster
+4 Elvish Mystic
 4 Elvish Clancaller
 4 Forest
 5 Forest

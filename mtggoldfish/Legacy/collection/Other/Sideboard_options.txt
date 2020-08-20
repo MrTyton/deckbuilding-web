@@ -1,10 +1,11 @@
+1 Plague Engineer
 2 Plague Engineer
-1 Leyline of the Void
-2 Leyline of the Void
-3 Leyline of the Void
-4 Leyline of the Void
-1 Surgical Extraction
+1 Null Rod
+1 Grafdigger's Cage
 1 Pithing Needle
+1 Containment Priest
+1 Collector Ouphe
+1 Rest in Peace
 1 Ethersworn Canonist
 2 Ethersworn Canonist
 1 Ensnaring Bridge
@@ -14,33 +15,30 @@
 2 Oblivion Ring
 3 Ethersworn Canonist
 3 Oblivion Ring
-1 Rest in Peace
-1 Containment Priest
 1 Teferi, Time Raveler
 1 Hydroblast
-1 Collector Ouphe
-1 Grafdigger's Cage
 1 Veil of Summer
 2 Veil of Summer
 3 Veil of Summer
-1 Force of Negation
 1 Nihil Spellbomb
-1 Red Elemental Blast
-1 Null Rod
-1 Engineered Plague
 1 Abrade
-1 Path to Exile
-2 Rest in Peace
-1 Back to Basics
-1 Lavinia, Azorius Renegade
-2 Force of Negation
-3 Force of Negation
+1 Karakas
+2 Pithing Needle
+1 Red Elemental Blast
+2 Deafening Silence
 2 Containment Priest
+2 Rest in Peace
 2 Nihil Spellbomb
 1 Submerge
 2 Surgical Extraction
 3 Surgical Extraction
-1 Lightning Bolt
+1 Engineered Plague
+1 Leyline of the Void
+2 Leyline of the Void
+3 Leyline of the Void
+4 Leyline of the Void
+1 Blazing Volley
+1 Force of Negation
 1 Walking Ballista
 3 Ensnaring Bridge
 4 Ensnaring Bridge
@@ -51,16 +49,19 @@
 2 Faerie Macabre
 1 Chains of Mephistopheles
 2 Chains of Mephistopheles
-2 Pithing Needle
 1 Collective Brutality
 1 Ashiok, Dream Render
 2 Collective Brutality
+1 Back to Basics
 1 Dismember
 2 Dismember
 2 Grafdigger's Cage
 3 Thorn of Amethyst
 1 Blue Elemental Blast
 1 Palace Jailer
+1 Torpor Orb
+1 Disenchant
+1 Zuran Orb
 1 Eliminate
 1 Kolaghan's Command
 1 Detention Sphere
@@ -70,46 +71,33 @@
 1 Stony Silence
 1 Tsabo's Web
 1 Yorion, Sky Nomad
-1 Torpor Orb
-1 Disenchant
-1 Zuran Orb
 2 Narset, Parter of Veils
-1 Flusterstorm
-1 Snow-Covered Mountain
-1 Supreme Verdict
-2 Red Elemental Blast
 1 Brazen Borrower
+1 Scavenging Ooze
 1 Izzet Staticaster
 1 Cindervines
-1 Scavenging Ooze
 2 Izzet Staticaster
+1 Path to Exile
 1 Kaya, Orzhov Usurper
-2 Deafening Silence
 2 Kaya, Orzhov Usurper
 2 Path to Exile
 1 Smallpox
 1 Phage the Untouchable
 1 Doom Blade
+1 Murder
 1 Sadistic Sacrament
 1 Endless Whispers
 1 Skithiryx, the Blight Dragon
 1 Archfiend of Depravity
 1 Ruinous Path
-1 Murder
 2 Smallpox
-2 Doom Blade
 2 Murder
+2 Doom Blade
 2 Sadistic Sacrament
 2 Ruinous Path
 2 Endless Whispers
-1 Knight of Autumn
-1 Deputy of Detention
-1 Gilded Drake
-1 Remorseful Cleric
-2 Gilded Drake
 1 Seasoned Pyromancer
 1 Cling to Dust
-1 Karakas
 2 Seasoned Pyromancer
 2 Karakas
 2 Cling to Dust
@@ -127,6 +115,11 @@
 2 Dark Confidant
 2 Liliana's Triumph
 3 Dark Confidant
+1 Nissa, Vital Force
+1 Electrickery
+2 Red Elemental Blast
+2 Electrickery
+3 Deafening Silence
 1 Carpet of Flowers
 1 Echoing Truth
 1 Reclamation Sage
@@ -136,17 +129,30 @@
 2 Jolrael, Mwonvuli Recluse
 2 Reclamation Sage
 3 Grafdigger's Cage
-2 Teferi, Time Raveler
-2 Swords to Plowshares
-3 Swords to Plowshares
 1 Council's Judgment
 1 Armageddon
 1 Holy Light
 2 Council's Judgment
 2 Armageddon
 2 Holy Light
-3 Armageddon
 3 Council's Judgment
+3 Armageddon
+2 Teferi, Time Raveler
+2 Swords to Plowshares
+3 Swords to Plowshares
+1 Wear/Tear
+1 Snow-Covered Mountain
+1 Aria of Flame
+2 Aria of Flame
+3 Aria of Flame
+1 Knight of Autumn
+1 Deputy of Detention
+1 Lavinia, Azorius Renegade
+1 Gilded Drake
+1 Remorseful Cleric
+2 Force of Negation
+2 Gilded Drake
+3 Force of Negation
 1 Price of Progress
 1 Kiln Fiend
 1 Searing Blaze
@@ -172,8 +178,8 @@
 3 Chalice of the Void
 3 Vapor Snag
 4 Chalice of the Void
-1 Blazing Volley
 1 Shattering Spree
+1 Lightning Bolt
 2 Submerge
 2 Blazing Volley
 2 Shattering Spree
@@ -211,9 +217,3 @@
 3 Primeval Titan
 3 Sphere of Resistance
 4 Sphere of Resistance
-1 Oust
-1 Cataclysm
-2 Oust
-3 Containment Priest
-4 Force of Negation
-4 Containment Priest
