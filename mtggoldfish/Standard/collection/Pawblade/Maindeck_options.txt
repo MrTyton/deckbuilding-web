@@ -14,8 +14,8 @@
 2 Blood Crypt
 3 Godless Shrine
 1 Kunoros, Hound of Athreos
-2 Swamp
 2 Kunoros, Hound of Athreos
+2 Swamp
 3 Kunoros, Hound of Athreos
 3 Blood Crypt
 4 Godless Shrine
@@ -68,8 +68,8 @@
 2 Kenrith, the Returned King
 3 Savai Triome
 1 Mangara, the Diplomat
-1 Glass Casket
 1 Fight as One
+1 Glass Casket
 2 Mangara, the Diplomat
 2 Glass Casket
 2 Fight as One
@@ -80,12 +80,23 @@
 2 Glorious Anthem
 1 Giant Killer
 2 Giant Killer
-3 Stonecoil Serpent
-4 Stonecoil Serpent
-1 Anax, Hardened in the Forge
+1 General's Enforcer
+1 Knight of the Ebon Legion
+1 Judith, the Scourge Diva
+1 Rakdos Firewheeler
+2 General's Enforcer
+2 Judith, the Scourge Diva
+2 Knight of the Ebon Legion
+2 Rakdos Firewheeler
+3 General's Enforcer
+3 Knight of the Ebon Legion
+4 Savai Triome
+4 General's Enforcer
+4 Knight of the Ebon Legion
 1 Raugrin Triome
-2 Anax, Hardened in the Forge
+1 Anax, Hardened in the Forge
 2 Raugrin Triome
+2 Anax, Hardened in the Forge
 3 Raugrin Triome
 3 Kenrith, the Returned King
 4 Raugrin Triome
@@ -94,19 +105,8 @@
 3 Basri's Lieutenant
 3 Tithe Taker
 4 Tithe Taker
-1 Judith, the Scourge Diva
-1 Knight of the Ebon Legion
-1 General's Enforcer
-1 Rakdos Firewheeler
-2 Judith, the Scourge Diva
-2 General's Enforcer
-2 Rakdos Firewheeler
-2 Knight of the Ebon Legion
-3 General's Enforcer
-3 Knight of the Ebon Legion
-4 Savai Triome
-4 General's Enforcer
-4 Knight of the Ebon Legion
+3 Stonecoil Serpent
+4 Stonecoil Serpent
 3 Underworld Rage-Hound
 4 Underworld Rage-Hound
 9 Plains

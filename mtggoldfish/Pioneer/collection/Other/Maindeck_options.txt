@@ -32,20 +32,20 @@
 2 Plains
 1 Hallowed Fountain
 2 Hallowed Fountain
+3 Hallowed Fountain
+4 Hallowed Fountain
 1 Thraben Inspector
 2 Thraben Inspector
 3 Thraben Inspector
 4 Thraben Inspector
-3 Hallowed Fountain
-4 Hallowed Fountain
 1 Spire of Industry
 1 Stubborn Denial
 1 Hope of Ghirapur
 1 Toolcraft Exemplar
 1 Ensoul Artifact
 1 Gingerbrute
-1 Darksteel Citadel
 1 Ghostfire Blade
+1 Darksteel Citadel
 1 All That Glitters
 2 Spire of Industry
 2 Stubborn Denial
@@ -111,12 +111,6 @@
 4 Goblin Chainwhirler
 1 Embercleave
 2 Embercleave
-1 Forest
-2 Forest
-1 Fabled Passage
-2 Fabled Passage
-3 Fabled Passage
-1 Island
 1 Rimrock Knight
 2 Rimrock Knight
 3 Rimrock Knight
@@ -141,9 +135,14 @@
 3 Wizard's Lightning
 4 Wizard's Lightning
 4 Skewer the Critics
-1 Swamp
+1 Forest
+1 Island
+1 Fabled Passage
 1 Steam Vents
-3 Forest
+1 Swamp
+2 Fabled Passage
+3 Fabled Passage
+2 Forest
 1 Overgrown Tomb
 2 Overgrown Tomb
 1 Blooming Marsh
@@ -152,6 +151,7 @@
 3 Overgrown Tomb
 4 Overgrown Tomb
 4 Blooming Marsh
+3 Forest
 4 Forest
 5 Forest
 1 Llanowar Elves
@@ -165,7 +165,6 @@
 6 Forest
 7 Forest
 8 Forest
-4 Fabled Passage
 2 Swamp
 2 Steam Vents
 1 Fatal Push
@@ -174,8 +173,7 @@
 4 Fatal Push
 1 Drowned Catacomb
 1 Watery Grave
-1 Scavenging Ooze
-2 Scavenging Ooze
+4 Fabled Passage
 1 Murderous Rider
 2 Murderous Rider
 1 Dreadbore
@@ -194,9 +192,11 @@
 1 Kalitas, Traitor of Ghet
 2 Kalitas, Traitor of Ghet
 1 Shark Typhoon
+1 Omen of the Sea
 2 Island
 2 Shark Typhoon
-3 Shark Typhoon
+2 Omen of the Sea
+3 Omen of the Sea
 2 Sulfur Falls
 1 Fetid Pools
 1 Sweltering Suns
@@ -205,7 +205,6 @@
 1 Narset, Parter of Veils
 1 Jace, Architect of Thought
 1 Wandering Fumarole
-1 Omen of the Sea
 1 Aetherling
 1 Oath of Chandra
 1 Fires of Invention
@@ -215,11 +214,10 @@
 2 Thought Erasure
 2 Fires of Invention
 2 Search for Azcanta
-2 Omen of the Sea
 2 Wandering Fumarole
 2 Jace, Architect of Thought
 2 Canyon Slough
-3 Omen of the Sea
+3 Shark Typhoon
 3 Sweltering Suns
 3 Jace, Architect of Thought
 3 Dreadbore
@@ -237,69 +235,50 @@
 1 Rhonas the Indomitable
 2 Steel Leaf Champion
 3 Steel Leaf Champion
+1 Shock
+3 Light Up the Stage
+3 Wild Slash
+4 Wild Slash
 1 Liliana, the Last Hope
 1 Aether Hub
 2 Aether Hub
 3 Aether Hub
 4 Aether Hub
-1 Shock
-3 Light Up the Stage
-3 Wild Slash
-4 Wild Slash
 1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
 2 Spirebluff Canal
+1 Scavenging Ooze
+2 Scavenging Ooze
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
 4 Sacred Foundry
 1 Vraska, Golgari Queen
 1 Klothys, God of Destiny
-1 Glacial Fortress
+1 Legion Warboss
+2 Legion Warboss
+3 Legion Warboss
 1 Abrupt Decay
+1 Glacial Fortress
 1 Sylvan Caryatid
 2 Sylvan Caryatid
 3 Sylvan Caryatid
 4 Sylvan Caryatid
-1 Dromoka's Command
-1 Spell Queller
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-2 Spell Queller
-3 Spell Queller
-1 Gilded Goose
-2 Gilded Goose
-3 Gilded Goose
-4 Gilded Goose
-1 Legion Warboss
-2 Legion Warboss
-3 Legion Warboss
 1 Izzet Charm
-1 Breeding Pool
-1 Uro, Titan of Nature's Wrath
-1 Botanical Sanctum
-2 Breeding Pool
-2 Botanical Sanctum
-3 Botanical Sanctum
-4 Botanical Sanctum
-1 Opt
-2 Opt
-3 Opt
-4 Opt
-1 Attune with Aether
-2 Attune with Aether
-3 Attune with Aether
-4 Attune with Aether
 1 Castle Locthwain
 2 Castle Locthwain
 3 Murderous Rider
 1 Raugrin Triome
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+1 Ketria Triome
 1 Radha, Heart of Keld
 1 Indatha Triome
+1 Dromoka's Command
 1 Niv-Mizzet Reborn
 1 Chevill, Bane of Monsters
 1 Arlinn Kord
-1 Ketria Triome
+1 Spell Queller
 1 Zagoth Triome
 1 Warleader's Helix
 1 Siege Rhino
@@ -311,10 +290,12 @@
 2 Arlinn Kord
 2 Warleader's Helix
 2 Cut/Ribbons
+2 Spell Queller
 2 Niv-Mizzet Reborn
 3 Siege Rhino
 3 Indatha Triome
 3 Teferi, Time Raveler
+3 Spell Queller
 3 Niv-Mizzet Reborn
 4 Niv-Mizzet Reborn
 1 Heartless Act
@@ -356,21 +337,14 @@
 3 Abbot of Keral Keep
 4 Forbidden Friendship
 4 Abbot of Keral Keep
-1 Fervent Champion
-1 Gallia of the Endless Dance
-1 Runaway Steam-Kin
-2 Fervent Champion
-2 Gallia of the Endless Dance
-2 Runaway Steam-Kin
-3 Fervent Champion
-3 Gallia of the Endless Dance
-3 Runaway Steam-Kin
-4 Fervent Champion
-4 Runaway Steam-Kin
 4 Unlicensed Disintegration
-1 Bedlam Reveler
+1 Opt
+2 Opt
+3 Opt
+4 Opt
 1 Dreadhorde Arcanist
 1 Crash Through
+1 Bedlam Reveler
 1 Sprite Dragon
 1 Reckless Rage
 1 Warlord's Fury
@@ -383,8 +357,8 @@
 2 Sprite Dragon
 2 Shivan Reef
 2 Slip Through Space
-2 Reckless Rage
 2 Young Pyromancer
+2 Reckless Rage
 3 Crash Through
 3 Dreadhorde Arcanist
 3 Sprite Dragon
@@ -395,6 +369,7 @@
 4 Sprite Dragon
 4 Shivan Reef
 4 Spirebluff Canal
+1 Gilded Goose
 1 Mayhem Devil
 1 Trail of Crumbs
 1 Claim the Firstborn
@@ -403,23 +378,41 @@
 1 Priest of Forgotten Gods
 1 Witch's Oven
 2 Mayhem Devil
-2 Claim the Firstborn
 2 Trail of Crumbs
+2 Gilded Goose
+2 Claim the Firstborn
 2 Witch's Oven
 2 Priest of Forgotten Gods
 2 Cauldron Familiar
 2 Stitcher's Supplier
 3 Mayhem Devil
 3 Trail of Crumbs
+3 Gilded Goose
 3 Stitcher's Supplier
 3 Cauldron Familiar
 3 Witch's Oven
 3 Priest of Forgotten Gods
 4 Mayhem Devil
+4 Gilded Goose
 4 Witch's Oven
 4 Cauldron Familiar
 4 Priest of Forgotten Gods
 4 Stitcher's Supplier
+1 Fervent Champion
+1 Gallia of the Endless Dance
+1 Runaway Steam-Kin
+2 Fervent Champion
+2 Gallia of the Endless Dance
+2 Runaway Steam-Kin
+3 Fervent Champion
+3 Gallia of the Endless Dance
+3 Runaway Steam-Kin
+4 Fervent Champion
+4 Runaway Steam-Kin
+1 Attune with Aether
+2 Attune with Aether
+3 Attune with Aether
+4 Attune with Aether
 1 Blossoming Defense
 1 Collision/Colossus
 1 Ranger's Guile
@@ -432,9 +425,9 @@
 2 Collision/Colossus
 2 Ranger's Guile
 2 Bristling Hydra
-2 Temur Battle Rage
 2 Electrostatic Pummeler
 2 Harnessed Lightning
+2 Temur Battle Rage
 2 Longtusk Cub
 3 Blossoming Defense
 3 Temur Battle Rage
@@ -465,8 +458,8 @@
 2 Rhonas the Indomitable
 3 Rotting Regisaur
 3 Llanowar Wastes
-3 Garruk's Harbinger
 3 The Great Henge
+3 Garruk's Harbinger
 3 Ghalta, Primal Hunger
 3 Surrak, the Hunt Caller
 4 Garruk's Harbinger
@@ -475,9 +468,9 @@
 4 Steel Leaf Champion
 1 Lovestruck Beast
 1 Goblin Rabblemaster
-1 Game Trail
 1 Collected Company
 1 Crater's Claws
+1 Game Trail
 2 Game Trail
 2 Lovestruck Beast
 2 Goblin Rabblemaster
@@ -535,8 +528,8 @@
 1 Gonti, Lord of Luxury
 1 Nicol Bolas, Dragon-God
 1 Anger of the Gods
-2 Kolaghan's Command
 2 Anger of the Gods
+2 Kolaghan's Command
 2 Jace, Vryn's Prodigy
 2 Magma Spray
 2 Nicol Bolas, Dragon-God
@@ -545,17 +538,22 @@
 3 Nicol Bolas, the Ravager
 4 Jace, Vryn's Prodigy
 1 Dig Through Time
+2 Dig Through Time
+1 Breeding Pool
 1 Paradise Druid
 1 Commune with the Gods
 1 Fiery Impulse
 1 Sylvan Awakening
+1 Uro, Titan of Nature's Wrath
 1 Unbridled Growth
+1 Botanical Sanctum
 1 Jeskai Ascendancy
 1 Strategic Planning
+2 Breeding Pool
 2 Paradise Druid
 2 Strategic Planning
 2 Unbridled Growth
-2 Dig Through Time
+2 Botanical Sanctum
 2 Sylvan Awakening
 2 Izzet Charm
 2 Commune with the Gods
@@ -567,11 +565,14 @@
 3 Strategic Planning
 3 Unbridled Growth
 3 Dig Through Time
+3 Botanical Sanctum
 4 Unbridled Growth
 4 Strategic Planning
 4 Jeskai Ascendancy
+4 Botanical Sanctum
 4 Dig Through Time
 4 Fiery Impulse
+2 Glacial Fortress
 1 Goblin Instigator
 1 Venerated Loxodon
 1 Selfless Savior
@@ -592,7 +593,6 @@
 2 Raise the Alarm
 2 Alseid of Life's Bounty
 2 Reflector Mage
-2 Glacial Fortress
 2 Clifftop Retreat
 3 Venerated Loxodon
 3 Mantis Rider
@@ -610,28 +610,46 @@
 4 Reflector Mage
 4 Winota, Joiner of Forces
 4 Angrath's Marauders
-1 Brazen Borrower
-1 Hinterland Harbor
-1 Growth Spiral
-1 Selfless Spirit
-1 Lofty Denial
-1 Dragonlord Ojutai
-1 Remorseful Cleric
-1 Sunpetal Grove
-2 Brazen Borrower
-2 Growth Spiral
-2 Lofty Denial
-2 Selfless Spirit
-2 Uro, Titan of Nature's Wrath
-3 Brazen Borrower
-3 Growth Spiral
-3 Uro, Titan of Nature's Wrath
-3 Lofty Denial
-4 Brazen Borrower
-4 Shark Typhoon
-4 Spell Queller
-4 Lofty Denial
-4 Growth Spiral
+1 Castle Ardenvale
+1 Elspeth, Sun's Nemesis
+2 Castle Ardenvale
+3 Castle Ardenvale
+1 Field of Ruin
+1 Irrigated Farmland
+1 Censor
+1 Castle Vantress
+1 Supreme Verdict
+1 Azorius Charm
+1 Sinister Sabotage
+1 Teferi, Hero of Dominaria
+1 Dovin's Veto
+1 Mystical Dispute
+2 Field of Ruin
+2 Irrigated Farmland
+2 Censor
+2 Supreme Verdict
+2 Sinister Sabotage
+2 Azorius Charm
+2 Teferi, Hero of Dominaria
+2 Mystical Dispute
+2 Dovin's Veto
+3 Censor
+3 Teferi, Hero of Dominaria
+3 Island
+3 Irrigated Farmland
+3 Sinister Sabotage
+3 Field of Ruin
+3 Supreme Verdict
+3 Glacial Fortress
+3 Azorius Charm
+4 Supreme Verdict
+4 Censor
+4 Sinister Sabotage
+4 Omen of the Sea
+4 Glacial Fortress
+4 Azorius Charm
+4 Island
+5 Island
 1 Kozilek, the Great Distortion
 1 Arch of Orazca
 1 World Breaker
@@ -640,21 +658,21 @@
 1 Castle Garenbrig
 1 Mazemind Tome
 1 Cascading Cataracts
+1 Shrine of the Forsaken Gods
 1 Ugin, the Spirit Dragon
 1 Ulamog, the Ceaseless Hunger
 1 Sanctum of Ugin
 1 Golos, Tireless Pilgrim
 1 Cultivate
 1 Blast Zone
-1 Shrine of the Forsaken Gods
 1 Nissa's Pilgrimage
 1 Courser of Kruphix
 2 Cultivate
 2 Castle Garenbrig
+2 Mazemind Tome
 2 Oblivion Sower
 2 Cavalier of Thorns
 2 Ugin, the Spirit Dragon
-2 Mazemind Tome
 2 Sanctum of Ugin
 2 World Breaker
 2 Courser of Kruphix
@@ -676,14 +694,12 @@
 10 Forest
 11 Forest
 12 Forest
-1 Castle Ardenvale
 1 Heliod, Sun-Crowned
 1 Speaker of the Heavens
 1 Shalai, Voice of Plenty
 1 Archangel Avacyn
 1 Shefet Dunes
 1 Baffling End
-1 Elspeth, Sun's Nemesis
 1 Lyra Dawnbringer
 1 Banishing Light
 1 Gideon, Ally of Zendikar
@@ -693,7 +709,6 @@
 1 Resplendent Angel
 2 Heliod, Sun-Crowned
 2 Speaker of the Heavens
-2 Castle Ardenvale
 2 Banishing Light
 2 Shefet Dunes
 2 Lyra Dawnbringer
@@ -703,7 +718,6 @@
 2 Shalai, Voice of Plenty
 2 Bishop of Wings
 2 Archangel Avacyn
-3 Castle Ardenvale
 3 Plains
 3 Baffling End
 3 Gideon, Ally of Zendikar
