@@ -1,7 +1,7 @@
 # Burn
 
 #### [Export MTGO List](../collection/Burn/Burn.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Battlefield%20Forge%0A4%09Boros%20Charm%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Ghitu%20Lavarunner%0A4%09Inspiring%20Vantage%0A4%09Light%20Up%20the%20Stage%0A4%09Lightning%20Strike%0A4%09Monastery%20Swiftspear%0A7%09Mountain%0A4%09Sacred%20Foundry%0A4%09Soul-Scar%20Mage%0A4%09Viashino%20Pyromancer%0A4%09Wild%20Slash%0A4%09Wizard's%20Lightning%0A1%09Zurgo%20Bellstriker&deckside=4%09Chained%20to%20the%20Rocks%0A1%09Lurrus%20of%20the%20Dream-Den%0A1%09Rest%20in%20Peace%0A4%09Searing%20Blood%0A4%09Skullcrack%0A1%09Wear/Tear)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Battlefield%20Forge%0A4%09Boros%20Charm%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Ghitu%20Lavarunner%0A4%09Inspiring%20Vantage%0A4%09Light%20Up%20the%20Stage%0A4%09Lightning%20Strike%0A4%09Monastery%20Swiftspear%0A7%09Mountain%0A4%09Sacred%20Foundry%0A4%09Soul-Scar%20Mage%0A4%09Viashino%20Pyromancer%0A4%09Wild%20Slash%0A4%09Wizard's%20Lightning%0A1%09Zurgo%20Bellstriker&deckside=4%09Chained%20to%20the%20Rocks%0A1%09Lurrus%20of%20the%20Dream-Den%0A4%09Searing%20Blood%0A4%09Skullcrack%0A2%09Wear/Tear)
 # Maindeck
 
 |                                             Creature (21)                                             |                                         Instant (16)                                          |                                          Land (19)                                           |                                          Sorcery (4)                                          |
@@ -16,29 +16,29 @@
 
 # Sideboard
 
-|                                            Creature (1)                                            |                                         Enchantment (5)                                         |                                       Instant (9)                                        |
+|                                            Creature (1)                                            |                                         Enchantment (4)                                         |                                       Instant (10)                                       |
 |----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 |1 [Lurrus of the Dream-Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479746)|4 [Chained to the Rocks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373521)|4 [Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)|
-|                                                                                                    |1 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |4 [Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)   |
-|                                                                                                    |                                                                                                 |1 [Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)    |
+|                                                                                                    |                                                                                                 |4 [Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)   |
+|                                                                                                    |                                                                                                 |2 [Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)    |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Ash Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253623)        |                    2|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)          |
+|                    1|[Ash Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253623)        |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
 |                    1|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)             |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
-|                    1|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)|                    1|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|
-|                    2|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)|                    2|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|
-|                    3|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)|                    1|[Ash Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253623)         |
-|                    4|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)|                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
-|                    2|[Ash Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253623)        |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
-|                     |                                                                                             |                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
-|                     |                                                                                             |                    2|[Ash Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253623)         |
+|                    2|[Ash Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253623)        |                    1|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|
+|                    1|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)|                    2|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|
+|                    2|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)|                    1|[Ash Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253623)         |
+|                    3|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)|                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
+|                    4|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)|                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
+|                    2|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)     |                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
+|                    1|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)     |                    2|[Ash Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253623)         |
 |                     |                                                                                             |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
-|                     |                                                                                             |                    2|[Deflecting Palm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386516)    |
+|                     |                                                                                             |                    1|[Deflecting Palm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386516)    |
 |                     |                                                                                             |                    1|[Light of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479540)      |
 |                     |                                                                                             |                    2|[Light of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479540)      |
-|                     |                                                                                             |                    1|[Deflecting Palm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386516)    |
+|                     |                                                                                             |                    2|[Deflecting Palm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386516)    |
 

@@ -1,15 +1,15 @@
 2 Flooded Strand
-3 Thoughtseize
 1 Murderous Cut
+3 Thoughtseize
 1 Misty Rainforest
 4 Yuriko, the Tiger's Shadow
 1 Snow-Covered Island
 1 Snow-Covered Swamp
+1 Force of Negation
 2 Misty Rainforest
 2 Snow-Covered Swamp
 2 Snow-Covered Island
 2 Brazen Borrower
-1 Force of Negation
 1 Tropical Island
 1 Abrupt Decay
 1 Bayou
@@ -23,6 +23,8 @@
 3 Misty Rainforest
 1 Mothdust Changeling
 2 Mothdust Changeling
+2 Drown in the Loch
+3 Swamp
 3 Snow-Covered Island
 4 Snow-Covered Island
 1 Ninja of the Deep Hours
@@ -35,8 +37,6 @@
 3 Spellstutter Sprite
 3 Faerie Seer
 4 Spellstutter Sprite
-2 Drown in the Loch
-3 Swamp
 4 Misty Rainforest
 3 Snow-Covered Swamp
 4 Thoughtseize
@@ -63,4 +63,13 @@
 3 Wasteland
 4 Fatal Push
 4 Wasteland
+1 Mystic Sanctuary
+1 Shark Typhoon
+1 Standstill
+1 Commandeer
+2 Force of Negation
+2 Shark Typhoon
+2 Standstill
+3 Standstill
+4 Standstill
 5 Island

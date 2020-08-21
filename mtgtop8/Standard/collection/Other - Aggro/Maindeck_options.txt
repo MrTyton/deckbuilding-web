@@ -126,28 +126,6 @@
 3 Marauding Raptor
 3 Garruk's Harbinger
 4 Garruk's Harbinger
-1 Bolt Hound
-1 Pack Leader
-2 Bolt Hound
-2 Pack Leader
-3 Bolt Hound
-3 Pack Leader
-4 Pack Leader
-1 Domri, Anarch of Bolas
-1 Sarkhan the Masterless
-1 Chandra, Heart of Fire
-1 Chandra, Fire Artisan
-1 Vivien, Arkbow Ranger
-1 Incubation Druid
-2 Domri, Anarch of Bolas
-2 Chandra, Heart of Fire
-2 Chandra, Fire Artisan
-2 The Great Henge
-2 Vivien, Arkbow Ranger
-3 Chandra, Heart of Fire
-3 Scavenging Ooze
-4 Temple of Abandon
-4 Scavenging Ooze
 1 Vito, Thorn of the Dusk Rose
 2 Vito, Thorn of the Dusk Rose
 1 Solemn Simulacrum
@@ -175,6 +153,7 @@
 2 Revival / Revenge
 2 Gilded Goose
 2 Treacherous Blessing
+3 Basri's Lieutenant
 3 Indatha Triome
 3 Elspeth Conquers Death
 3 Overgrown Tomb
@@ -183,13 +162,34 @@
 3 Vito, Thorn of the Dusk Rose
 3 Revival / Revenge
 3 Gilded Goose
-3 Basri's Lieutenant
+4 Basri's Lieutenant
 4 Overgrown Tomb
 4 Indatha Triome
 4 Temple Garden
 4 Vito, Thorn of the Dusk Rose
 4 Llanowar Visionary
-4 Basri's Lieutenant
+1 Bolt Hound
+1 Pack Leader
+2 Bolt Hound
+2 Pack Leader
+3 Bolt Hound
+3 Pack Leader
+4 Pack Leader
+1 Domri, Anarch of Bolas
+1 Chandra, Heart of Fire
+1 Chandra, Fire Artisan
+1 Vivien, Arkbow Ranger
+1 Incubation Druid
+1 Sarkhan the Masterless
+2 Domri, Anarch of Bolas
+2 Chandra, Heart of Fire
+2 Chandra, Fire Artisan
+2 The Great Henge
+2 Vivien, Arkbow Ranger
+3 Chandra, Heart of Fire
+3 Scavenging Ooze
+4 Temple of Abandon
+4 Scavenging Ooze
 1 Samut's Sprint
 1 Riddleform
 2 Aether Gust
@@ -336,17 +336,17 @@
 1 Watery Grave
 1 Slitherwisp
 2 Ashiok's Erasure
-2 Dirge Bat
 2 Cunning Nightbonder
+2 Dirge Bat
 2 Heartless Act
 2 Temple of Deceit
 2 Watery Grave
 2 Slitherwisp
+3 Dirge Bat
 3 Cunning Nightbonder
 3 Heartless Act
 3 Temple of Deceit
 3 Slitherwisp
-3 Dirge Bat
 3 Watery Grave
 4 Brazen Borrower
 4 Cunning Nightbonder
@@ -372,8 +372,8 @@
 1 Knight of the Ebon Legion
 1 Biomancer's Familiar
 2 Thassa, Deep-Dwelling
-2 Zagoth Triome
 2 Acolyte of Affliction
+2 Zagoth Triome
 2 Golgari Findbroker
 2 Casualties of War
 2 Vampire Opportunist
@@ -415,8 +415,8 @@
 3 Arboreal Grazer
 3 Cavalier of Thorns
 3 Chandra, Awakened Inferno
-3 Dryad of the Ilysian Grove
 3 Voracious Hydra
+3 Dryad of the Ilysian Grove
 4 Cultivate
 4 Arboreal Grazer
 4 Dryad of the Ilysian Grove

@@ -4,13 +4,13 @@
 2 Dismal Backwater
 2 Healer of the Glade
 2 Frost Lynx
+3 Parcelbeast
+3 Thornwood Falls
 3 Neoform
 3 Jungle Hollow
-3 Thornwood Falls
 3 Cloudkin Seer
 3 Leafkin Druid
 3 Dismal Backwater
-3 Parcelbeast
 3 Frost Lynx
 3 Risen Reef
 3 Healer of the Glade
@@ -111,8 +111,8 @@
 1 Assassin's Trophy
 2 Knight of the Ebon Legion
 2 Gemrazer
-2 Massacre Wurm
 2 Assassin's Trophy
+2 Massacre Wurm
 2 Castle Locthwain
 3 Knight of the Ebon Legion
 3 Stonecoil Serpent
@@ -165,32 +165,6 @@
 4 Nightpack Ambusher
 4 Cunning Nightbonder
 4 Thieves' Guild Enforcer
-1 Gingerbread Cabin
-1 Gilded Goose
-1 Wicked Wolf
-1 Aether Gust
-1 Trail of Crumbs
-2 Gingerbread Cabin
-2 Aether Gust
-2 Gilded Goose
-2 Wicked Wolf
-2 Trail of Crumbs
-3 Wicked Wolf
-3 Gingerbread Cabin
-3 Aether Gust
-3 Gilded Goose
-3 Hydroid Krasis
-3 Nissa, Who Shakes the World
-3 Trail of Crumbs
-3 Mystical Dispute
-4 Mystical Dispute
-4 Wicked Wolf
-4 Gingerbread Cabin
-4 Nissa, Who Shakes the World
-4 Hydroid Krasis
-4 Trail of Crumbs
-4 Aether Gust
-4 Gilded Goose
 1 Rankle, Master of Pranks
 1 Drown in the Loch
 1 Commence the Endgame
@@ -208,6 +182,32 @@
 3 Growth Spiral
 4 Questing Beast
 4 Skull Prophet
+1 Gilded Goose
+1 Wicked Wolf
+1 Gingerbread Cabin
+1 Aether Gust
+1 Trail of Crumbs
+2 Aether Gust
+2 Gilded Goose
+2 Wicked Wolf
+2 Gingerbread Cabin
+2 Trail of Crumbs
+3 Aether Gust
+3 Gilded Goose
+3 Wicked Wolf
+3 Hydroid Krasis
+3 Nissa, Who Shakes the World
+3 Gingerbread Cabin
+3 Trail of Crumbs
+3 Mystical Dispute
+4 Mystical Dispute
+4 Nissa, Who Shakes the World
+4 Hydroid Krasis
+4 Gingerbread Cabin
+4 Trail of Crumbs
+4 Aether Gust
+4 Gilded Goose
+4 Wicked Wolf
 1 Liliana's Triumph
 1 Thief of Sanity
 1 Chevill, Bane of Monsters
@@ -216,10 +216,10 @@
 2 Thief of Sanity
 2 Duress
 3 Liliana's Triumph
-3 Liliana, Waker of the Dead
 3 Thief of Sanity
 3 Mire Triton
-4 Thief of Sanity
+3 Liliana, Waker of the Dead
 4 Liliana's Triumph
+4 Thief of Sanity
 4 Mire Triton
 4 Liliana, Waker of the Dead

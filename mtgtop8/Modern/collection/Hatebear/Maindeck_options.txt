@@ -61,29 +61,6 @@
 2 Brushland
 3 Brushland
 4 Brushland
-1 Island
-1 Seachrome Coast
-1 Deputy of Detention
-1 Spell Queller
-1 Meddling Mage
-1 Flooded Strand
-1 Hallowed Fountain
-2 Island
-2 Seachrome Coast
-2 Meddling Mage
-2 Spell Queller
-2 Deputy of Detention
-2 Lurrus of the Dream-Den
-2 Hallowed Fountain
-2 Flooded Strand
-3 Meddling Mage
-3 Seachrome Coast
-3 Spell Queller
-3 Deputy of Detention
-4 Meddling Mage
-4 Seachrome Coast
-4 Spell Queller
-4 Deputy of Detention
 1 Idyllic Grange
 1 Ranger-Captain of Eos
 1 Weathered Wayfarer
@@ -95,10 +72,10 @@
 2 Windswept Heath
 3 Ranger-Captain of Eos
 3 Windswept Heath
-4 Windswept Heath
 4 Ranger-Captain of Eos
-1 Sunbaked Canyon
+4 Windswept Heath
 1 Dismember
+1 Sunbaked Canyon
 1 Scavenger Grounds
 1 Shefet Dunes
 1 Rest in Peace
@@ -107,8 +84,8 @@
 1 Cast Out
 1 Simian Spirit Guide
 1 Eternal Scourge
-2 Shefet Dunes
 2 Dismember
+2 Shefet Dunes
 2 Blast Zone
 2 Chalice of the Void
 2 Rest in Peace
@@ -125,15 +102,6 @@
 4 Chalice of the Void
 4 Eternal Scourge
 4 Simian Spirit Guide
-1 Selfless Savior
-1 Eiganjo Castle
-2 Selfless Savior
-6 Plains
-7 Plains
-8 Plains
-9 Plains
-10 Plains
-11 Plains
 1 Concealed Courtyard
 1 Charming Prince
 1 Tidehollow Sculler
@@ -152,3 +120,35 @@
 4 Tidehollow Sculler
 4 Concealed Courtyard
 4 Caves of Koilos
+1 Selfless Savior
+1 Eiganjo Castle
+2 Selfless Savior
+6 Plains
+7 Plains
+8 Plains
+9 Plains
+10 Plains
+11 Plains
+1 Island
+1 Spell Queller
+1 Seachrome Coast
+1 Meddling Mage
+1 Deputy of Detention
+1 Flooded Strand
+1 Hallowed Fountain
+2 Island
+2 Meddling Mage
+2 Spell Queller
+2 Seachrome Coast
+2 Deputy of Detention
+2 Lurrus of the Dream-Den
+2 Hallowed Fountain
+2 Flooded Strand
+3 Meddling Mage
+3 Seachrome Coast
+3 Spell Queller
+3 Deputy of Detention
+4 Meddling Mage
+4 Seachrome Coast
+4 Spell Queller
+4 Deputy of Detention

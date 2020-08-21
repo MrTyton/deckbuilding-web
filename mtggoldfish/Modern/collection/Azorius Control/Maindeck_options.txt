@@ -1,7 +1,7 @@
-1 Spell Queller
 2 Spell Queller
 3 Spell Queller
 1 Polluted Delta
+3 Shark Typhoon
 1 Snow-Covered Forest
 1 Temple Garden
 1 Breeding Pool
@@ -10,7 +10,6 @@
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 3 Cryptic Command
-2 Supreme Verdict
 1 Glacial Fortress
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
@@ -22,14 +21,16 @@
 1 Plains
 2 Island
 3 Island
+1 Sword of Fire and Ice
+2 Supreme Verdict
 4 Island
 5 Island
 2 Celestial Colonnade
-1 Sword of Fire and Ice
+1 Remand
+2 Plains
+4 Spell Queller
 4 Snapcaster Mage
 1 Scalding Tarn
-1 Remand
-4 Spell Queller
 3 Archmage's Charm
 3 Hallowed Fountain
 1 Noble Hierarch
@@ -43,12 +44,10 @@
 2 Breeding Pool
 3 Uro, Titan of Nature's Wrath
 1 Mystic Gate
-1 Oust
 1 Vendilion Clique
-2 Plains
+1 Oust
 1 Restoration Angel
 2 Restoration Angel
-3 Mana Leak
 1 Wall of Omens
 1 Fact or Fiction
 2 Wall of Omens
@@ -64,11 +63,13 @@
 3 Thought Scour
 2 Birds of Paradise
 2 Teferi, Hero of Dominaria
+3 Mana Leak
 3 Snow-Covered Forest
+3 Polluted Delta
+1 Brazen Borrower
 2 Spell Snare
 4 Shark Typhoon
 1 Logic Knot
-3 Polluted Delta
 1 Hall of Heliod's Generosity
 1 Geist of Saint Traft
 2 Geist of Saint Traft
@@ -79,11 +80,14 @@
 4 Windswept Heath
 1 Dovin's Veto
 3 Mystic Sanctuary
-1 Brazen Borrower
 2 Glacial Fortress
 1 Spell Pierce
 2 Spell Pierce
 3 Spell Pierce
+1 Serum Visions
+2 Serum Visions
+3 Serum Visions
+2 Brazen Borrower
 1 On Thin Ice
 1 Deprive
 1 Deputy of Detention
@@ -105,30 +109,32 @@
 3 Utopia Sprawl
 4 Utopia Sprawl
 4 Force of Negation
-1 Snow-Covered Mountain
-1 Lightning Helix
-1 Steam Vents
-1 Lightning Bolt
-1 Sacred Foundry
-2 Scalding Tarn
-2 Lightning Bolt
-2 Steam Vents
-3 Lightning Bolt
-3 Scalding Tarn
-4 Lightning Bolt
-4 Scalding Tarn
-4 Mana Leak
+1 Swamp
+1 Godless Shrine
+1 Inquisition of Kozilek
+1 Castle Ardenvale
+1 Watery Grave
+1 Thoughtseize
+1 Eliminate
+1 Fatal Push
+1 Drowned Catacomb
+2 Inquisition of Kozilek
+2 Thoughtseize
+2 Eliminate
+2 Watery Grave
+2 Fatal Push
+3 Fatal Push
+3 Thoughtseize
+3 Inquisition of Kozilek
+4 Polluted Delta
+4 Serum Visions
 1 Brineborn Cutthroat
-2 Brazen Borrower
 2 Brineborn Cutthroat
 2 Vendilion Clique
 3 Brineborn Cutthroat
 3 Brazen Borrower
 4 Brineborn Cutthroat
 1 Prismatic Vista
-1 Serum Visions
 2 Prismatic Vista
-2 Serum Visions
 3 Prismatic Vista
-3 Serum Visions
 4 Prismatic Vista

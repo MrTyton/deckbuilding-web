@@ -1,11 +1,13 @@
-1 Plague Engineer
-2 Plague Engineer
 1 Null Rod
+1 Plague Engineer
+1 Leyline of the Void
+2 Leyline of the Void
+3 Leyline of the Void
+4 Leyline of the Void
+2 Plague Engineer
 1 Grafdigger's Cage
-1 Pithing Needle
-1 Containment Priest
 1 Collector Ouphe
-1 Rest in Peace
+1 Pithing Needle
 1 Ethersworn Canonist
 2 Ethersworn Canonist
 1 Ensnaring Bridge
@@ -15,70 +17,73 @@
 2 Oblivion Ring
 3 Ethersworn Canonist
 3 Oblivion Ring
+1 Nihil Spellbomb
+1 Rest in Peace
 1 Teferi, Time Raveler
-1 Hydroblast
+2 Narset, Parter of Veils
+2 Surgical Extraction
+3 Surgical Extraction
+1 Eliminate
+1 Containment Priest
 1 Veil of Summer
 2 Veil of Summer
 3 Veil of Summer
-1 Nihil Spellbomb
-1 Abrade
-1 Karakas
-2 Pithing Needle
-1 Red Elemental Blast
-2 Deafening Silence
-2 Containment Priest
-2 Rest in Peace
+1 Scavenging Ooze
+1 Engineered Plague
 2 Nihil Spellbomb
 1 Submerge
-2 Surgical Extraction
-3 Surgical Extraction
-1 Engineered Plague
-1 Leyline of the Void
-2 Leyline of the Void
-3 Leyline of the Void
-4 Leyline of the Void
-1 Blazing Volley
-1 Force of Negation
+1 Hydroblast
+2 Rest in Peace
 1 Walking Ballista
 3 Ensnaring Bridge
 4 Ensnaring Bridge
+1 Blazing Volley
 1 Thorn of Amethyst
 2 Thorn of Amethyst
 1 Tormod's Crypt
 1 Faerie Macabre
 2 Faerie Macabre
+1 Dismember
+2 Dismember
+1 Reclamation Sage
+2 Grafdigger's Cage
+2 Pithing Needle
 1 Chains of Mephistopheles
 2 Chains of Mephistopheles
 1 Collective Brutality
 1 Ashiok, Dream Render
 2 Collective Brutality
-1 Back to Basics
-1 Dismember
-2 Dismember
-2 Grafdigger's Cage
-3 Thorn of Amethyst
 1 Blue Elemental Blast
+3 Thorn of Amethyst
+4 Surgical Extraction
+1 Back to Basics
 1 Palace Jailer
 1 Torpor Orb
 1 Disenchant
 1 Zuran Orb
-1 Eliminate
+1 Abrade
 1 Kolaghan's Command
 1 Detention Sphere
 1 Spreading Seas
-1 Runed Halo
 1 Wheel of Sun and Moon
+1 Runed Halo
 1 Stony Silence
 1 Tsabo's Web
 1 Yorion, Sky Nomad
-2 Narset, Parter of Veils
 1 Brazen Borrower
-1 Scavenging Ooze
+1 Red Elemental Blast
 1 Izzet Staticaster
 1 Cindervines
 2 Izzet Staticaster
-1 Path to Exile
+1 Damping Sphere
+1 Leovold, Emissary of Trest
+1 Assassin's Trophy
+2 Damping Sphere
+2 Assassin's Trophy
 1 Kaya, Orzhov Usurper
+1 Path to Exile
+2 Deafening Silence
+2 Containment Priest
 2 Kaya, Orzhov Usurper
 2 Path to Exile
 1 Smallpox
@@ -96,11 +101,6 @@
 2 Sadistic Sacrament
 2 Ruinous Path
 2 Endless Whispers
-1 Seasoned Pyromancer
-1 Cling to Dust
-2 Seasoned Pyromancer
-2 Karakas
-2 Cling to Dust
 1 Bitterblossom
 1 Dystopia
 2 Bitterblossom
@@ -109,26 +109,26 @@
 2 Dystopia
 2 Engineered Plague
 3 Collective Brutality
-1 Dark Confidant
 1 Liliana, the Last Hope
+1 Dark Confidant
 1 Liliana's Triumph
-2 Dark Confidant
 2 Liliana's Triumph
+2 Dark Confidant
 3 Dark Confidant
-1 Nissa, Vital Force
-1 Electrickery
-2 Red Elemental Blast
-2 Electrickery
-3 Deafening Silence
 1 Carpet of Flowers
 1 Echoing Truth
-1 Reclamation Sage
 1 Jolrael, Mwonvuli Recluse
 1 Ceremonious Rejection
 2 Carpet of Flowers
 2 Jolrael, Mwonvuli Recluse
 2 Reclamation Sage
 3 Grafdigger's Cage
+1 Shattering Spree
+1 Lightning Bolt
+2 Submerge
+2 Blazing Volley
+2 Shattering Spree
+3 Shattering Spree
 1 Council's Judgment
 1 Armageddon
 1 Holy Light
@@ -141,6 +141,7 @@
 2 Swords to Plowshares
 3 Swords to Plowshares
 1 Wear/Tear
+1 Karakas
 1 Snow-Covered Mountain
 1 Aria of Flame
 2 Aria of Flame
@@ -150,6 +151,7 @@
 1 Lavinia, Azorius Renegade
 1 Gilded Drake
 1 Remorseful Cleric
+1 Force of Negation
 2 Force of Negation
 2 Gilded Drake
 3 Force of Negation
@@ -178,13 +180,6 @@
 3 Chalice of the Void
 3 Vapor Snag
 4 Chalice of the Void
-1 Shattering Spree
-1 Lightning Bolt
-2 Submerge
-2 Blazing Volley
-2 Shattering Spree
-3 Shattering Spree
-4 Surgical Extraction
 2 Tormod's Crypt
 3 Faerie Macabre
 4 Thorn of Amethyst
@@ -208,6 +203,15 @@
 2 Defense Grid
 3 Defense Grid
 4 Ethersworn Canonist
+1 Thoughtseize
+1 Gideon, Ally of Zendikar
+1 Riptide Pilferer
+2 Thoughtseize
+2 Riptide Pilferer
+3 Thoughtseize
+3 Riptide Pilferer
+4 Thoughtseize
+4 Riptide Pilferer
 1 Primeval Titan
 1 Blast Zone
 1 Drop of Honey

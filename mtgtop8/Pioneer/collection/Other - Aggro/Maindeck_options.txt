@@ -91,19 +91,19 @@
 4 Fabled Passage
 1 Collective Brutality
 1 Kalitas, Traitor of Ghet
-2 Kalitas, Traitor of Ghet
 2 Collective Brutality
+2 Kalitas, Traitor of Ghet
 2 Watery Grave
 3 Watery Grave
 4 Watery Grave
 1 Drowned Catacomb
 1 Drown in the Loch
 1 Glint-Sleeve Siphoner
-2 Drown in the Loch
 2 Drowned Catacomb
+2 Drown in the Loch
 2 Glint-Sleeve Siphoner
-3 Drown in the Loch
 3 Drowned Catacomb
+3 Drown in the Loch
 3 Glint-Sleeve Siphoner
 3 Murderous Rider
 4 Drowned Catacomb
@@ -120,9 +120,9 @@
 1 Llanowar Visionary
 1 Knight of Autumn
 1 Sporeweb Weaver
-1 Fairgrounds Warden
 1 Chord of Calling
 1 Voice of Resurgence
+1 Fairgrounds Warden
 2 Chord of Calling
 2 Llanowar Visionary
 2 Radiant Fountain
@@ -130,57 +130,32 @@
 2 Voice of Resurgence
 3 Voice of Resurgence
 3 Prophet of Kruphix
-1 Niambi, Esteemed Speaker
 1 Kytheon, Hero of Akros
+1 Niambi, Esteemed Speaker
 1 Dire Tactics
-2 Dire Tactics
 2 Kytheon, Hero of Akros
+2 Dire Tactics
 2 Niambi, Esteemed Speaker
 3 General's Enforcer
 3 Kytheon, Hero of Akros
 3 Dire Tactics
-1 Aether Hub
-1 Fetid Pools
-1 Thief of Sanity
-1 Thought Erasure
-1 Tasigur, the Golden Fang
-1 Ashiok, Nightmare Weaver
-1 Gifted Aetherborn
-1 Ashiok, Nightmare Muse
-1 Atris, Oracle of Half-Truths
-1 Urborg, Tomb of Yawgmoth
-2 Gifted Aetherborn
-2 Aether Hub
-2 Fetid Pools
-2 Atris, Oracle of Half-Truths
-2 Thief of Sanity
-2 Thought Erasure
-2 Tasigur, the Golden Fang
-2 Ashiok, Nightmare Weaver
-3 Aether Hub
-3 Thief of Sanity
-3 Fetid Pools
-3 Castle Locthwain
-4 Aether Hub
-4 Fetid Pools
-4 Thief of Sanity
 1 Shanna, Sisay's Legacy
 2 Shanna, Sisay's Legacy
 4 Rogue Refiner
-1 Mire Triton
 1 Fiend Artisan
+1 Mire Triton
 1 Bloodsoaked Champion
 1 Knight of the Ebon Legion
-2 Mire Triton
 2 Fiend Artisan
+2 Mire Triton
 2 Knight of the Ebon Legion
 2 Bloodsoaked Champion
-3 Mire Triton
 3 Fiend Artisan
+3 Mire Triton
 3 Knight of the Ebon Legion
 3 Bloodsoaked Champion
-4 Mire Triton
 4 Fiend Artisan
+4 Mire Triton
 4 Bloodsoaked Champion
 1 Dreadbore
 1 Call of the Death-Dweller
@@ -204,21 +179,21 @@
 2 Anafenza, Kin-Tree Spirit
 4 Elvish Mystic
 4 Fortified Village
-1 Cast Out
 1 Sigil of the Empty Throne
 1 Banishing Light
-1 Starfield Mystic
 1 Calix, Destiny's Hand
+1 Starfield Mystic
 1 Temple of Plenty
 1 Sphere of Safety
 1 Setessan Champion
 1 Alseid of Life's Bounty
 1 Eidolon of Blossoms
+1 Cast Out
 1 Herald of the Pantheon
 2 Cast Out
-2 Starfield Mystic
 2 Banishing Light
 2 Field of Ruin
+2 Starfield Mystic
 2 Sigil of the Empty Throne
 2 Herald of the Pantheon
 2 Alseid of Life's Bounty
@@ -260,8 +235,8 @@
 1 Mayhem Devil
 2 Priest of Forgotten Gods
 2 Blisterpod
-2 Catacomb Sifter
 2 Llanowar Wastes
+2 Catacomb Sifter
 2 Zulaport Cutthroat
 2 Woe Strider
 2 Bolas's Citadel
@@ -278,11 +253,11 @@
 3 Mayhem Devil
 3 Gilded Goose
 3 Stomping Ground
-4 Catacomb Sifter
 4 Blisterpod
 4 Bolas's Citadel
 4 Zulaport Cutthroat
 4 Woe Strider
+4 Catacomb Sifter
 4 Priest of Forgotten Gods
 4 Gilded Goose
 4 Mayhem Devil
@@ -348,6 +323,31 @@
 4 Botanical Sanctum
 4 Creeping Chill
 4 Satyr Wayfinder
+1 Fetid Pools
+1 Thought Erasure
+1 Tasigur, the Golden Fang
+1 Gifted Aetherborn
+1 Ashiok, Nightmare Muse
+1 Atris, Oracle of Half-Truths
+1 Urborg, Tomb of Yawgmoth
+1 Aether Hub
+1 Thief of Sanity
+1 Ashiok, Nightmare Weaver
+2 Gifted Aetherborn
+2 Atris, Oracle of Half-Truths
+2 Fetid Pools
+2 Thought Erasure
+2 Tasigur, the Golden Fang
+2 Ashiok, Nightmare Weaver
+2 Aether Hub
+2 Thief of Sanity
+3 Thief of Sanity
+3 Castle Locthwain
+3 Fetid Pools
+3 Aether Hub
+4 Thief of Sanity
+4 Fetid Pools
+4 Aether Hub
 1 Eliminate
 1 Thieves' Guild Enforcer
 1 Choked Estuary
@@ -367,8 +367,8 @@
 3 Island
 3 Eliminate
 3 Rankle, Master of Pranks
-4 Thieves' Guild Enforcer
 4 Brazen Borrower
+4 Thieves' Guild Enforcer
 4 Murderous Rider
 6 Swamp
 1 Pelt Collector
@@ -388,9 +388,9 @@
 2 Rishkar, Peema Renegade
 2 Stonecoil Serpent
 3 Hangarback Walker
-3 Pelt Collector
 3 Hardened Scales
 3 Nissa, Voice of Zendikar
+3 Pelt Collector
 3 Stonecoil Serpent
 3 Voracious Hydra
 3 Rishkar, Peema Renegade

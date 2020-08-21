@@ -18,15 +18,15 @@
 4 Venerated Loxodon
 8 Forest
 1 Karn's Bastion
+1 Growth-Chamber Guardian
 1 Chamber Sentry
 1 Basri's Lieutenant
-1 Growth-Chamber Guardian
+2 Growth-Chamber Guardian
 2 Chamber Sentry
 2 Fabled Passage
-2 Growth-Chamber Guardian
 2 Basri's Lieutenant
-3 Chamber Sentry
 3 Growth-Chamber Guardian
+3 Chamber Sentry
 4 Growth-Chamber Guardian
 4 Chamber Sentry
 1 Indatha Triome
@@ -50,18 +50,19 @@
 2 Blossoming Sands
 3 Blossoming Sands
 4 Blossoming Sands
-1 Thassa, Deep-Dwelling
 1 Fierce Empath
+1 Thassa, Deep-Dwelling
 1 Tranquil Cove
 1 Banishing Light
 1 Imposing Vantasaur
 1 Negate
 1 Witching Well
-1 Realm-Cloaked Giant
 1 Arboreal Grazer
+1 Realm-Cloaked Giant
 1 Teferi's Time Twist
-1 Destiny Spinner
+1 Meteor Golem
 1 Dream Trawler
+1 Destiny Spinner
 1 Cloudkin Seer
 1 Island
 1 Leafkin Druid
@@ -70,7 +71,6 @@
 1 Thornwood Falls
 1 Simic Guildgate
 1 Kasmina's Transmutation
-1 Meteor Golem
 1 Beanstalk Giant
 1 Omen of the Sea
 1 Farfinder
@@ -87,20 +87,20 @@
 2 Island
 2 Thornwood Falls
 2 Teferi's Time Twist
-3 Island
 3 Imposing Vantasaur
+3 Island
 3 Risen Reef
 3 Leafkin Druid
-3 Thornwood Falls
 3 Neoform
+3 Thornwood Falls
 3 Tranquil Cove
 3 Fierce Empath
 3 Witching Well
 3 Cloudkin Seer
 3 Negate
 3 Omen of the Sea
-4 Island
 4 Imposing Vantasaur
+4 Island
 4 Risen Reef
 4 Cloudkin Seer
 4 Leafkin Druid
@@ -188,7 +188,7 @@
 12 Forest
 1 Castle Ardenvale
 1 Setessan Training
-2 Castle Ardenvale
 2 Setessan Training
+2 Castle Ardenvale
 3 Setessan Training
 11 Plains
