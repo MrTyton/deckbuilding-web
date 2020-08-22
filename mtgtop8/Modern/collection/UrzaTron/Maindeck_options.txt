@@ -29,9 +29,9 @@
 4 Condescend
 3 Thought-Knot Seer
 1 Gemstone Caverns
-1 Oboro, Palace in the Clouds
 1 Island
 1 Thirst for Knowledge
+1 Oboro, Palace in the Clouds
 1 Field of Ruin
 1 Academy Ruins
 2 Island
@@ -44,6 +44,7 @@
 2 Blast Zone
 2 Cyclonic Rift
 1 Mazemind Tome
+1 Wilderness Reclamation
 1 Trinket Mage
 1 Omen of the Sea
 1 Arcum's Astrolabe
@@ -57,7 +58,6 @@
 1 Flooded Strand
 1 Snow-Covered Island
 1 Scalding Tarn
-1 Wilderness Reclamation
 1 Simic Signet
 1 Panglacial Wurm
 1 Force of Negation
@@ -66,7 +66,6 @@
 2 Arcum's Astrolabe
 2 Polluted Delta
 2 Breeding Pool
-2 Commandeer
 2 Shark Typhoon
 2 Scalding Tarn
 2 Snow-Covered Island
@@ -75,23 +74,24 @@
 2 Force of Negation
 2 Flooded Strand
 2 Simic Signet
+2 Commandeer
 3 Shark Typhoon
+3 Omen of the Sea
 3 Arcum's Astrolabe
 3 Wilderness Reclamation
 3 Breeding Pool
 3 Hydroid Krasis
 3 Simic Signet
 3 Commandeer
-3 Omen of the Sea
 3 Snow-Covered Island
 3 Trinket Mage
+4 Omen of the Sea
+4 Shark Typhoon
 4 Arcum's Astrolabe
 4 Wilderness Reclamation
-4 Shark Typhoon
 4 Hydroid Krasis
 4 Snow-Covered Island
 4 Commandeer
-4 Omen of the Sea
 4 Trinket Mage
 4 Simic Signet
 5 Snow-Covered Island
@@ -125,8 +125,8 @@
 1 Coretapper
 1 Paradox Engine
 1 Sea Gate Wreckage
-2 Ensnaring Bridge
 2 Mazemind Tome
+2 Ensnaring Bridge
 2 Paradox Engine
 2 Everflowing Chalice
 2 Mystic Forge

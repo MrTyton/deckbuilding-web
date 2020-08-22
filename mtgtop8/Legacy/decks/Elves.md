@@ -69,7 +69,7 @@
 |                    1|[Fyndhorn Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2568)       |                    3|[Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625)               |
 |                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |                    1|Driven / Despair                                                                                       |
 |                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)   |                    2|Driven / Despair                                                                                       |
-|                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)    |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)              |
-|                     |                                                                                              |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)           |
+|                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)    |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)           |
+|                     |                                                                                              |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)              |
 |                     |                                                                                              |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)         |
 

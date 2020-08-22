@@ -115,16 +115,16 @@
 1 Primal Might
 1 Vivien, Monsters' Advocate
 1 Garruk's Harbinger
+1 Marauding Raptor
 1 Garruk, Unleashed
 1 Gemrazer
 1 Shifting Ceratops
-1 Marauding Raptor
 2 Garruk's Harbinger
-2 Gemrazer
 2 Marauding Raptor
+2 Gemrazer
 2 Shifting Ceratops
-3 Garruk's Harbinger
 3 Marauding Raptor
+3 Garruk's Harbinger
 4 Garruk's Harbinger
 1 Bolt Hound
 1 Pack Leader
@@ -134,11 +134,11 @@
 3 Pack Leader
 4 Pack Leader
 1 Domri, Anarch of Bolas
+1 Sarkhan the Masterless
 1 Chandra, Heart of Fire
 1 Chandra, Fire Artisan
 1 Vivien, Arkbow Ranger
 1 Incubation Druid
-1 Sarkhan the Masterless
 2 Domri, Anarch of Bolas
 2 Chandra, Heart of Fire
 2 Chandra, Fire Artisan
@@ -224,6 +224,7 @@
 1 Drannith Healer
 1 Raugrin Triome
 2 Boon of the Wish-Giver
+2 Inspired Ultimatum
 2 Raugrin Triome
 2 Drannith Stinger
 2 Imposing Vantasaur
@@ -231,7 +232,6 @@
 2 Drannith Healer
 2 Zenith Flare
 2 Unpredictable Cyclone
-2 Inspired Ultimatum
 2 Hallowed Fountain
 2 Startling Development
 2 Flourishing Fox
@@ -263,9 +263,9 @@
 1 Frilled Mystic
 1 Nightpack Ambusher
 2 Wolfwillow Haven
-2 Temple of Mystery
 2 Ketria Triome
 2 Breeding Pool
+2 Temple of Mystery
 2 Shark Typhoon
 2 Quench
 2 Nightpack Ambusher
@@ -287,9 +287,9 @@
 1 Ugin, the Ineffable
 1 Mystic Forge
 1 Crystalline Giant
-1 Karn's Bastion
 1 Steel Overseer
 1 Stonecoil Serpent
+1 Karn's Bastion
 1 Blast Zone
 1 Mobilized District
 1 Palladium Myr
@@ -298,27 +298,27 @@
 2 Ugin, the Ineffable
 2 Mystic Forge
 2 Crystalline Giant
-2 Karn's Bastion
 2 Steel Overseer
 2 Radiant Fountain
 2 Palladium Myr
 2 Interplanar Beacon
+2 Karn's Bastion
 2 Stonecoil Serpent
+3 Mystic Forge
 3 Solemn Simulacrum
 3 Steel Overseer
 3 Crystalline Giant
 3 Ugin, the Ineffable
-3 Mystic Forge
 3 Radiant Fountain
 3 Karn's Bastion
 3 Stonecoil Serpent
 3 Palladium Myr
 3 Interplanar Beacon
+4 Mystic Forge
 4 Solemn Simulacrum
 4 Steel Overseer
 4 Radiant Fountain
 4 Ugin, the Ineffable
-4 Mystic Forge
 4 Karn's Bastion
 4 Interplanar Beacon
 4 Crystalline Giant
@@ -372,8 +372,8 @@
 1 Knight of the Ebon Legion
 1 Biomancer's Familiar
 2 Thassa, Deep-Dwelling
-2 Zagoth Triome
 2 Acolyte of Affliction
+2 Zagoth Triome
 2 Golgari Findbroker
 2 Casualties of War
 2 Vampire Opportunist
@@ -381,11 +381,11 @@
 2 Knight of the Ebon Legion
 2 Neoform
 2 Thirsting Shade
-3 Casualties of War
 3 Thirsting Shade
 3 Vampire Opportunist
 3 Knight of the Ebon Legion
 3 Biomancer's Familiar
+3 Casualties of War
 3 Neoform
 4 Neoform
 4 Thirsting Shade
@@ -397,8 +397,8 @@
 1 Legion Warboss
 2 Legion Warboss
 3 Legion Warboss
-7 Plains
 7 Mountain
+7 Plains
 8 Mountain
 8 Plains
 1 Cavalier of Thorns
@@ -414,8 +414,8 @@
 3 Cultivate
 3 Arboreal Grazer
 3 Cavalier of Thorns
-3 Voracious Hydra
 3 Chandra, Awakened Inferno
+3 Voracious Hydra
 3 Dryad of the Ilysian Grove
 4 Cultivate
 4 Arboreal Grazer

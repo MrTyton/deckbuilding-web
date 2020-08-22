@@ -1,5 +1,5 @@
-1 Sacred Foundry
 1 Lightning Helix
+1 Sacred Foundry
 2 Lightning Helix
 1 Seachrome Coast
 2 Seachrome Coast
@@ -16,16 +16,16 @@
 1 Spell Pierce
 1 Plains
 3 Path to Exile
-1 Sleight of Hand
 1 Batterskull
 1 Sword of Fire and Ice
 1 Mantis Rider
+1 Sleight of Hand
 1 Stoneforge Mystic
-2 Sleight of Hand
 2 Stoneforge Mystic
+2 Sleight of Hand
 2 Mantis Rider
-3 Sleight of Hand
 3 Stoneforge Mystic
+3 Sleight of Hand
 3 Mantis Rider
 4 Sleight of Hand
 4 Mantis Rider
@@ -49,8 +49,8 @@
 1 Manamorphose
 2 Stormwing Entity
 2 Manamorphose
-3 Manamorphose
 3 Stormwing Entity
+3 Manamorphose
 4 Manamorphose
 3 Spirebluff Canal
 1 Mountain
@@ -110,9 +110,9 @@
 4 Rift Bolt
 4 Mountain
 4 Light Up the Stage
+1 Into the Story
 1 Thieves' Guild Enforcer
 1 Thoughtseize
-1 Into the Story
 1 Vantress Gargoyle
 2 Thieves' Guild Enforcer
 2 Vantress Gargoyle
@@ -134,9 +134,9 @@
 4 Fatal Push
 4 Arcum's Astrolabe
 1 Snow-Covered Mountain
+1 Breeding Pool
 1 Stomping Ground
 1 Forest
-1 Breeding Pool
 1 Stubborn Denial
 1 Hooting Mandrills
 1 Tarmogoyf
@@ -171,16 +171,6 @@
 2 Field of Ruin
 3 Bitterblossom
 4 Bitterblossom
-1 Fact or Fiction
-1 Raugrin Triome
-1 Shadow of Doubt
-1 Brineborn Cutthroat
-2 Brineborn Cutthroat
-2 Shadow of Doubt
-2 Fact or Fiction
-3 Island
-3 Brineborn Cutthroat
-4 Brineborn Cutthroat
 1 Heartless Act
 1 Young Pyromancer
 2 Young Pyromancer
@@ -190,11 +180,21 @@
 1 Tarfire
 1 Flame Slash
 1 Blossoming Defense
-2 Blossoming Defense
 2 Tarfire
 2 Flame Slash
+2 Blossoming Defense
 3 Tarfire
 4 Tarmogoyf
 1 Mutagenic Growth
 2 Mutagenic Growth
 4 Hooting Mandrills
+1 Fact or Fiction
+1 Raugrin Triome
+1 Shadow of Doubt
+1 Brineborn Cutthroat
+2 Fact or Fiction
+2 Shadow of Doubt
+2 Brineborn Cutthroat
+3 Island
+3 Brineborn Cutthroat
+4 Brineborn Cutthroat

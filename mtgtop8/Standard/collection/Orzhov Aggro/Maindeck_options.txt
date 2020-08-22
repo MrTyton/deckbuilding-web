@@ -7,77 +7,52 @@
 2 Scoured Barrens
 3 Scoured Barrens
 4 Scoured Barrens
+9 Swamp
+1 Healer's Hawk
+2 Healer's Hawk
+3 Healer's Hawk
+9 Plains
 1 Ajani's Pridemate
 2 Ajani's Pridemate
 3 Ajani's Pridemate
 4 Ajani's Pridemate
-1 Healer's Hawk
-2 Healer's Hawk
-3 Healer's Hawk
-9 Swamp
-1 Ajani, Strength of the Pride
-1 Gideon Blackblade
-1 Final Payment
-4 Healer's Hawk
-9 Plains
-1 Orzhov Guildgate
-2 Orzhov Guildgate
 1 Basilica Bell-Haunt
+1 Indulging Patrician
+1 Revitalize
 1 Light of Hope
 1 Griffin Aerie
-1 Revitalize
 1 Silversmote Ghoul
-1 Indulging Patrician
 2 Basilica Bell-Haunt
+2 Indulging Patrician
+2 Revitalize
 2 Light of Hope
 2 Griffin Aerie
-2 Revitalize
 2 Silversmote Ghoul
-2 Indulging Patrician
 3 Revitalize
 3 Light of Hope
 3 Griffin Aerie
 3 Silversmote Ghoul
 3 Indulging Patrician
-4 Revitalize
 4 Light of Hope
+4 Revitalize
 4 Indulging Patrician
 4 Silversmote Ghoul
 4 Griffin Aerie
-1 Elspeth, Sun's Nemesis
-1 Dire Tactics
-2 Dire Tactics
-3 Dire Tactics
-1 Consecrate / Consume
-2 Consecrate / Consume
-3 Orzhov Guildgate
+1 Ajani, Strength of the Pride
+1 Gideon Blackblade
+1 Final Payment
+4 Healer's Hawk
 10 Plains
-1 Banishing Light
-1 Bloodthirsty Aerialist
-1 Impassioned Orator
-1 Omen of the Sun
-1 Blade Juggler
-2 Impassioned Orator
-2 Bloodthirsty Aerialist
-2 Omen of the Sun
-3 Impassioned Orator
-3 Bloodthirsty Aerialist
-4 Impassioned Orator
-4 Bloodthirsty Aerialist
-1 Alseid of Life's Bounty
-1 Mire's Grasp
-2 Alseid of Life's Bounty
-3 Alseid of Life's Bounty
-4 Alseid of Life's Bounty
+1 Orzhov Guildgate
+2 Orzhov Guildgate
 1 Knight of the Ebon Legion
 1 Eliminate
 2 Eliminate
 3 Eliminate
-10 Swamp
 1 Demonic Embrace
 1 Seasoned Hallowblade
-2 Demonic Embrace
 2 Knight of the Ebon Legion
+2 Demonic Embrace
 2 Seasoned Hallowblade
 3 Temple of Silence
 3 Demonic Embrace
@@ -86,21 +61,23 @@
 4 Knight of the Ebon Legion
 4 Seasoned Hallowblade
 4 Temple of Silence
+1 Elspeth, Sun's Nemesis
 1 General's Enforcer
+1 Dire Tactics
 1 General Kudro of Drannith
+2 Dire Tactics
 2 General's Enforcer
 2 General Kudro of Drannith
 3 General Kudro of Drannith
 3 General's Enforcer
+3 Dire Tactics
 4 General's Enforcer
-1 Sorin, Vengeful Bloodlord
-1 Heliod, Sun-Crowned
-1 Spark Harvest
-1 Show of Valor
-2 Banishing Light
-2 Show of Valor
-2 Spark Harvest
-3 Banishing Light
+1 Alseid of Life's Bounty
+1 Mire's Grasp
+2 Alseid of Life's Bounty
+3 Alseid of Life's Bounty
+4 Alseid of Life's Bounty
+10 Swamp
 1 Duress
 1 Anointed Chorister
 1 Sorin, Imperious Bloodlord
@@ -108,14 +85,26 @@
 2 Anointed Chorister
 3 Basilica Bell-Haunt
 3 Anointed Chorister
-1 Kaya, Orzhov Usurper
-1 Foreboding Fruit
-1 Ob Nixilis, the Hate-Twisted
-2 Foreboding Fruit
-2 Blade Juggler
-3 Omen of the Sun
-3 Blade Juggler
-4 Blade Juggler
+1 Impassioned Orator
+1 Banishing Light
+1 Sorin, Vengeful Bloodlord
+1 Heliod, Sun-Crowned
+1 Omen of the Sun
+1 Spark Harvest
+1 Blade Juggler
+1 Bloodthirsty Aerialist
+1 Show of Valor
+2 Impassioned Orator
+2 Banishing Light
+2 Bloodthirsty Aerialist
+2 Omen of the Sun
+2 Spark Harvest
+2 Show of Valor
+3 Impassioned Orator
+3 Bloodthirsty Aerialist
+3 Banishing Light
+4 Impassioned Orator
+4 Bloodthirsty Aerialist
 1 Gutterbones
 1 Grasp of Darkness
 1 Spawn of Mayhem
@@ -129,49 +118,52 @@
 2 Rotting Regisaur
 2 Murderous Rider
 2 Blacklance Paragon
+3 Spawn of Mayhem
 3 Gutterbones
 3 Rotting Regisaur
 3 Blacklance Paragon
-3 Spawn of Mayhem
 4 Blacklance Paragon
 4 Spawn of Mayhem
 4 Gutterbones
 4 Rotting Regisaur
 4 Eliminate
 1 Heartless Act
+1 Consecrate / Consume
 1 Faith's Fetters
 2 Heartless Act
+2 Consecrate / Consume
 3 Heartless Act
+3 Orzhov Guildgate
 4 Orzhov Guildgate
-1 Lavabrink Venturer
 1 Rankle, Master of Pranks
+1 Lavabrink Venturer
 1 Kitesail Freebooter
+2 Rankle, Master of Pranks
 2 Lavabrink Venturer
 2 Elspeth, Sun's Nemesis
-2 Rankle, Master of Pranks
 2 Kitesail Freebooter
 3 Rankle, Master of Pranks
 3 Lavabrink Venturer
 3 Kitesail Freebooter
 4 Demonic Embrace
-4 General Kudro of Drannith
 4 Kitesail Freebooter
+4 General Kudro of Drannith
 4 Lavabrink Venturer
 1 Archfiend's Vessel
-1 Memory Leak
-1 Dead Weight
-1 Hateful Eidolon
 1 Lampad of Death's Vigil
+1 Hateful Eidolon
+1 Dead Weight
 1 Kaya's Ghostform
 1 Shadowspear
 1 Omen of the Dead
 1 Murder
+1 Memory Leak
 2 Archfiend's Vessel
-2 Memory Leak
 2 Lampad of Death's Vigil
 2 Mire's Grasp
 2 Murder
 2 Kaya's Ghostform
+2 Memory Leak
 2 Hateful Eidolon
 3 Archfiend's Vessel
 3 Lampad of Death's Vigil
@@ -180,18 +172,18 @@
 4 Archfiend's Vessel
 4 Kaya's Ghostform
 1 Haazda Marshal
-1 Icon of Ancestry
-1 Tithe Taker
-1 Basri Ket
 1 Disfigure
+1 Icon of Ancestry
+1 Basri Ket
+1 Tithe Taker
 1 Castle Ardenvale
 1 Adherent of Hope
 1 Giant Killer
 1 Venerable Knight
 2 Castle Ardenvale
-2 Basri Ket
-2 Haazda Marshal
 2 Disfigure
+2 Haazda Marshal
+2 Basri Ket
 2 Tithe Taker
 2 Venerable Knight
 2 Icon of Ancestry
@@ -203,7 +195,7 @@
 3 Icon of Ancestry
 3 Adherent of Hope
 3 Haazda Marshal
-4 Dire Tactics
 4 Tithe Taker
 4 Venerable Knight
+4 Dire Tactics
 4 Haazda Marshal

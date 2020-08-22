@@ -1,6 +1,6 @@
 2 Archmage's Charm
 1 Batterskull
-2 Celestial Colonnade
+1 Celestial Colonnade
 3 Cryptic Command
 4 Field of Ruin
 4 Flooded Strand
@@ -17,11 +17,11 @@
 5 Snow-Covered Island
 2 Snow-Covered Plains
 1 Spell Snare
-2 Stoneforge Mystic
+4 Stoneforge Mystic
 1 Supreme Verdict
 1 Sword of Feast and Famine
 1 Teferi, Hero of Dominaria
-3 Teferi, Time Raveler
+2 Teferi, Time Raveler
 1 Vendilion Clique
 Sideboard
 3 Aether Gust
@@ -29,6 +29,7 @@ Sideboard
 2 Celestial Purge
 2 Ceremonious Rejection
 1 Disenchant
-2 Monastery Mentor
-1 Surgical Extraction
+1 Dovin's Veto
+1 Monastery Mentor
+1 Supreme Verdict
 2 Timely Reinforcements

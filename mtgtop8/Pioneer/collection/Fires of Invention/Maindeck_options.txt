@@ -1,36 +1,30 @@
-2 Castle Ardenvale
-3 Shark Typhoon
-4 Lukka, Coppercoat Outcast
-1 Sulfur Falls
-2 Sulfur Falls
-4 Steam Vents
-4 Fabled Passage
-1 Chained to the Rocks
-1 Omen of the Sun
-2 Chained to the Rocks
-2 Island
-2 Omen of the Sun
-3 Chained to the Rocks
-2 Castle Vantress
-3 Elspeth Conquers Death
-4 Narset, Parter of Veils
+2 Elspeth Conquers Death
 1 Oath of Chandra
 2 Oath of Chandra
-2 Glacial Fortress
+1 The Birth of Meletis
+2 The Birth of Meletis
+3 Plains
+3 The Birth of Meletis
+4 The Birth of Meletis
+1 Omen of the Sun
 1 Gideon of the Trials
 2 Gideon of the Trials
 3 Gideon of the Trials
-1 Ketria Triome
-2 Mountain
-3 Castle Ardenvale
-3 Omen of the Sun
+2 Glacial Fortress
+4 Narset, Parter of Veils
+2 Island
+4 Fabled Passage
+2 Castle Vantress
+3 Elspeth Conquers Death
+1 Chained to the Rocks
+2 Chained to the Rocks
+2 Omen of the Sun
+3 Chained to the Rocks
 1 Gideon, Ally of Zendikar
 2 Gideon, Ally of Zendikar
 3 Deafening Clarion
-4 Supreme Verdict
 1 Irrigated Farmland
 2 Irrigated Farmland
-1 Geier Reach Sanitarium
 1 Clifftop Retreat
 1 Interplanar Beacon
 1 Narset of the Ancient Way
@@ -38,28 +32,30 @@
 2 Interplanar Beacon
 3 Interplanar Beacon
 4 Interplanar Beacon
+2 Mountain
+1 Ketria Triome
+2 Narset of the Ancient Way
+3 Oath of Chandra
+3 Castle Ardenvale
+3 Irrigated Farmland
+3 Omen of the Sun
+4 Supreme Verdict
+1 Geier Reach Sanitarium
 1 Temple of Enlightenment
-2 Ketria Triome
-1 Savai Triome
-1 Nahiri, the Harbinger
 1 Wandering Fumarole
 2 Wandering Fumarole
-3 Ketria Triome
+2 Ketria Triome
+1 Savai Triome
+1 Jace, Architect of Thought
+2 Jace, Architect of Thought
+1 Nahiri, the Harbinger
 1 Elspeth, Sun's Nemesis
 1 Teyo, the Shieldmage
 1 Sarkhan the Masterless
-2 Narset of the Ancient Way
 2 Teyo, the Shieldmage
-3 Oath of Chandra
-1 Mazemind Tome
-1 Transmogrify
-2 Transmogrify
-2 Mazemind Tome
-3 Mazemind Tome
-3 Irrigated Farmland
-4 Shark Typhoon
-4 Mazemind Tome
-1 Jace, Architect of Thought
+1 Baffling End
+2 Baffling End
+3 Ketria Triome
 1 Temple of Triumph
 1 Elspeth, Sun's Champion
 1 Fae of Wishes
@@ -70,49 +66,103 @@
 1 Oath of Teferi
 2 Clifftop Retreat
 2 Fae of Wishes
-2 Jace, Architect of Thought
 2 Day's Undoing
 2 Chance for Glory
 3 Fae of Wishes
 3 Chance for Glory
 3 Glacial Fortress
 4 Fae of Wishes
+1 Blood Crypt
+1 Dreadbore
+1 Swamp
+1 Watery Grave
+1 Drowned Catacomb
+2 Dreadbore
+1 Search for Azcanta
+1 Nicol Bolas, the Ravager
+1 Fetid Pools
+1 Dragonskull Summit
+1 Sweltering Suns
+1 Canyon Slough
+1 Aetherling
+1 Kalitas, Traitor of Ghet
+1 Chandra, Torch of Defiance
+1 Fatal Push
+1 Thought Erasure
+2 Nicol Bolas, the Ravager
+2 Canyon Slough
+2 Search for Azcanta
+2 Sweltering Suns
+2 Kalitas, Traitor of Ghet
+2 Chandra, Torch of Defiance
+2 Blood Crypt
+2 Fatal Push
+2 Watery Grave
+2 Drowned Catacomb
+2 Thought Erasure
+2 Dragonskull Summit
+3 Fatal Push
+3 Jace, Architect of Thought
+3 Sweltering Suns
+3 Thought Erasure
+3 Dragonskull Summit
+3 Dreadbore
+3 Sulfur Falls
+3 Blood Crypt
+3 Watery Grave
+3 Drowned Catacomb
+4 Fatal Push
+4 Thought Erasure
+4 Blood Crypt
+4 Sweltering Suns
+4 Drowned Catacomb
+4 Dragonskull Summit
+4 Sulfur Falls
+4 Watery Grave
+1 Karn, the Great Creator
+2 Savai Triome
+2 Karn, the Great Creator
+3 Karn, the Great Creator
+4 Omen of the Sun
+4 Chained to the Rocks
+4 Karn, the Great Creator
+1 Mazemind Tome
+1 Transmogrify
+2 Transmogrify
+2 Mazemind Tome
+3 Mazemind Tome
+4 Shark Typhoon
+4 Mazemind Tome
 1 Temple Garden
 1 Woodland Cemetery
-1 Blood Crypt
 1 Hinterland Harbor
 1 Siege Rhino
-1 Botanical Sanctum
+1 Abrupt Decay
 1 Yorion, Sky Nomad
 1 Overgrown Tomb
 1 Sylvan Caryatid
-1 Dreadbore
-1 Swamp
 1 Niv-Mizzet Reborn
 1 Godless Shrine
 1 Zagoth Triome
-1 Watery Grave
-1 Drowned Catacomb
+1 Indatha Triome
 1 Oath of Kaya
 1 Terror of the Peaks
 1 Utter End
-1 Sunpetal Grove
 1 Uro, Titan of Nature's Wrath
 1 Clever Impersonator
+1 Sunpetal Grove
 1 Mana Confluence
-1 Abrupt Decay
 1 Breeding Pool
+1 Botanical Sanctum
 1 Enigmatic Incarnation
 1 Slaughter Games
 1 Bring to Light
-1 Indatha Triome
 1 Forest
 1 Stomping Ground
 1 Spark Double
 2 Abrupt Decay
 2 Zagoth Triome
 2 Bring to Light
-2 Dreadbore
 2 Sylvan Caryatid
 2 Oath of Kaya
 2 Niv-Mizzet Reborn
@@ -124,14 +174,7 @@
 3 Sylvan Caryatid
 3 Oath of Kaya
 3 Enigmatic Incarnation
-4 Sylvan Caryatid
 4 Enigmatic Incarnation
 4 Bring to Light
 4 Oath of Kaya
-1 Karn, the Great Creator
-2 Savai Triome
-2 Karn, the Great Creator
-3 Karn, the Great Creator
-4 Omen of the Sun
-4 Chained to the Rocks
-4 Karn, the Great Creator
+4 Sylvan Caryatid

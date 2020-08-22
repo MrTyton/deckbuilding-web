@@ -1,20 +1,20 @@
 1 Walking Ballista
-1 Nykthos, Shrine to Nyx
 1 Heliod, Sun-Crowned
+1 Nykthos, Shrine to Nyx
+1 Leyline of Sanctity
 1 Auriok Champion
 1 Weathered Wayfarer
 1 Wildfield Borderpost
 1 Mastery of the Unseen
-1 Leyline of Sanctity
 1 Knight of the White Orchid
 1 Fieldmist Borderpost
-2 Walking Ballista
 2 Heliod, Sun-Crowned
+2 Leyline of Sanctity
 2 Auriok Champion
+2 Walking Ballista
 2 Fieldmist Borderpost
 2 Nykthos, Shrine to Nyx
 2 Mastery of the Unseen
-2 Leyline of Sanctity
 2 Knight of the White Orchid
 2 Wildfield Borderpost
 2 Weathered Wayfarer
@@ -25,21 +25,21 @@
 3 Nykthos, Shrine to Nyx
 3 Weathered Wayfarer
 3 Mastery of the Unseen
-4 Walking Ballista
 4 Heliod, Sun-Crowned
+4 Walking Ballista
 4 Auriok Champion
 4 Leyline of Sanctity
 4 Weathered Wayfarer
 1 Giver of Runes
-1 Runed Halo
 1 Daxos, Blessed by the Sun
+1 Runed Halo
 1 Plains
 2 Plains
 2 Giver of Runes
 2 Runed Halo
 2 Daxos, Blessed by the Sun
-3 Plains
 3 Giver of Runes
+3 Plains
 3 Runed Halo
 3 Fieldmist Borderpost
 3 Wildfield Borderpost
@@ -58,9 +58,9 @@
 13 Plains
 14 Plains
 2 Snow-Covered Plains
+1 Noble Hierarch
 1 Meddling Mage
 1 Teferi, Time Raveler
-1 Noble Hierarch
 1 Watcher for Tomorrow
 1 Flooded Strand
 2 Noble Hierarch
@@ -70,6 +70,17 @@
 3 Watcher for Tomorrow
 1 Elesh Norn, Grand Cenobite
 1 Elspeth, Sun's Champion
+1 Wall of Blossoms
+1 Neoform
+2 Breeding Pool
+2 Neoform
+2 Teferi, Time Raveler
+3 Noble Hierarch
+3 Teferi, Time Raveler
+3 Neoform
+4 Noble Hierarch
+4 Teferi, Time Raveler
+4 Watcher for Tomorrow
 1 Prairie Stream
 1 Thassa, Deep-Dwelling
 1 Gaddock Teeg
@@ -83,34 +94,23 @@
 4 Aether Vial
 4 Eternal Witness
 4 Eladamri's Call
-1 Wall of Blossoms
-1 Neoform
-2 Breeding Pool
-2 Neoform
-2 Teferi, Time Raveler
-3 Neoform
-3 Teferi, Time Raveler
-3 Noble Hierarch
-4 Watcher for Tomorrow
-4 Teferi, Time Raveler
-4 Noble Hierarch
+1 Tectonic Edge
 1 Field of Ruin
 1 Dawn of Hope
-1 Tectonic Edge
 1 On Thin Ice
 1 Rest in Peace
 1 Marsh Flats
-2 Rest in Peace
 2 Dawn of Hope
+2 Rest in Peace
 2 On Thin Ice
 2 Marsh Flats
 3 Marsh Flats
+3 On Thin Ice
 3 Knight of the White Orchid
 3 Snow-Covered Plains
-3 On Thin Ice
+4 On Thin Ice
 4 Marsh Flats
 4 Knight of the White Orchid
-4 On Thin Ice
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains
