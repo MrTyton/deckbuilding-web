@@ -1,24 +1,17 @@
-1 Mystical Dispute
-2 Mystical Dispute
-1 Disdainful Stroke
-2 Disdainful Stroke
-1 Lurrus of the Dream-Den
-1 Stubborn Denial
-1 Tormod's Crypt
-1 Isolate
-1 Glass Casket
-2 Tormod's Crypt
-2 Isolate
-2 Glass Casket
-3 Glass Casket
-3 Isolate
-4 Glass Casket
 1 Magma Spray
 2 Magma Spray
-1 Fry
-3 Magma Spray
 1 Rending Volley
 2 Rending Volley
+1 Chandra, Torch of Defiance
+1 Embereth Shieldbreaker
+2 Embereth Shieldbreaker
+3 Rending Volley
+4 Rending Volley
+2 Chandra, Torch of Defiance
+3 Magma Spray
+1 Soul-Guide Lantern
+3 Mystical Dispute
+1 Fry
 1 Aethersphere Harvester
 1 Duress
 1 Dreadbore
@@ -28,29 +21,17 @@
 2 Dreadbore
 2 Rampaging Ferocidon
 3 Rampaging Ferocidon
-1 Soul-Guide Lantern
-1 Chandra, Torch of Defiance
-3 Rending Volley
-4 Rending Volley
-1 Embereth Shieldbreaker
-2 Embereth Shieldbreaker
-2 Chandra, Torch of Defiance
-3 Mystical Dispute
 2 Soul-Guide Lantern
+4 Mystical Dispute
+1 Abrade
+1 Fatal Push
+2 Fatal Push
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
-1 Fatal Push
-2 Fatal Push
-4 Mystical Dispute
-1 Abrade
-2 Aethersphere Harvester
-3 Fatal Push
-1 Assassin's Trophy
-1 Hazoret the Fervent
-1 Anger of the Gods
-2 Anger of the Gods
+1 Scavenging Ooze
+2 Scavenging Ooze
 1 Searing Blood
 2 Searing Blood
 1 Goblin Chainwhirler
@@ -61,7 +42,7 @@
 2 Eidolon of the Great Revel
 1 Chandra, Acolyte of Flame
 2 Chandra, Acolyte of Flame
-2 Scavenging Ooze
+3 Fatal Push
 1 Murderous Rider
 1 Vraska, Golgari Queen
 1 Claim the Firstborn
@@ -73,14 +54,13 @@
 1 Reckless Rage
 1 Spell Pierce
 2 Fry
-1 Shadowspear
-1 Heartless Act
-1 Golgari Charm
-1 Stain the Mind
-1 Eliminate
-2 Heartless Act
-2 Stain the Mind
-2 Golgari Charm
+1 Damping Sphere
+1 Assassin's Trophy
+2 Damping Sphere
+1 Anger of the Gods
+2 Anger of the Gods
+1 Grafdigger's Cage
+2 Grafdigger's Cage
 1 Liliana, the Last Hope
 1 Nissa, Who Shakes the World
 1 Tireless Tracker
@@ -91,6 +71,29 @@
 1 Nissa, Vital Force
 2 Extinction Event
 2 Infinite Obliteration
+1 Shadowspear
+1 Golgari Charm
+1 Heartless Act
+1 Stain the Mind
+1 Eliminate
+2 Heartless Act
+2 Stain the Mind
+2 Golgari Charm
+1 Hazoret the Fervent
+2 Aethersphere Harvester
+3 Scavenging Ooze
+1 Heroic Intervention
+2 Heroic Intervention
+1 Questing Beast
+1 Oakhame Adversary
+1 Primal Might
+1 Prowling Serpopard
+1 Gemrazer
+2 Primal Might
+2 Questing Beast
+2 Oakhame Adversary
+2 Gemrazer
+2 Prowling Serpopard
 2 Karn, Scion of Urza
 3 Dreadbore
 1 Negate
@@ -102,7 +105,19 @@
 2 Unmoored Ego
 2 Ashiok, Dream Render
 3 Kalitas, Traitor of Ghet
-3 Scavenging Ooze
+1 Bonecrusher Giant
+1 Selfless Spirit
+1 Declaration in Stone
+1 Giant Killer
+1 Lavinia of the Tenth
+1 Cloudblazer
+2 Bonecrusher Giant
+2 Selfless Spirit
+2 Giant Killer
+2 Declaration in Stone
+2 Cloudblazer
+3 Bonecrusher Giant
+3 Selfless Spirit
 1 Warping Wail
 1 Spatial Contortion
 1 Emrakul, the Promised End
@@ -118,10 +133,11 @@
 1 Yahenni's Expertise
 2 Assassin's Trophy
 2 Yahenni's Expertise
+3 Damping Sphere
 3 Assassin's Trophy
+1 Aether Gust
 1 Teferi, Time Raveler
 1 Uro, Titan of Nature's Wrath
-1 Aether Gust
 1 Radiant Flames
 1 Monastery Mentor
 2 Teferi, Time Raveler
@@ -130,6 +146,16 @@
 2 Monastery Mentor
 3 Teferi, Time Raveler
 3 Aether Gust
+1 Wild Slash
+1 Lightning Axe
+1 Redcap Melee
+1 Glorybringer
+2 Wild Slash
+2 Redcap Melee
+2 Glorybringer
+2 Stubborn Denial
+3 Wild Slash
+3 Stubborn Denial
 1 Collision/Colossus
 1 Shapers' Sanctuary
 2 Shapers' Sanctuary
@@ -143,17 +169,6 @@
 2 Settle the Wreckage
 3 Surge of Righteousness
 3 Settle the Wreckage
-1 Selfless Spirit
-1 Lavinia of the Tenth
-1 Giant Killer
-1 Bonecrusher Giant
-1 Cloudblazer
-2 Selfless Spirit
-2 Giant Killer
-2 Bonecrusher Giant
-2 Cloudblazer
-3 Selfless Spirit
-3 Bonecrusher Giant
 1 Aetherling
 1 Kolaghan's Command
 1 Slaughter Games
@@ -161,8 +176,17 @@
 2 Kolaghan's Command
 2 Slaughter Games
 3 Grafdigger's Cage
-1 Heroic Intervention
-2 Heroic Intervention
+1 Remorseful Cleric
+1 Gideon, Ally of Zendikar
+1 Baffling End
+1 Phyrexian Revoker
+1 Fairgrounds Warden
+2 Baffling End
+2 Remorseful Cleric
+2 Phyrexian Revoker
+2 Fairgrounds Warden
+3 Baffling End
+3 Fairgrounds Warden
 1 Cindervines
 2 Cindervines
 1 Chandra's Defeat
@@ -172,20 +196,12 @@
 3 Heroic Intervention
 3 Lava Coil
 4 Scavenging Ooze
-1 Gruul Charm
-2 Gruul Charm
-1 Bristling Hydra
-1 Gruul Spellbreaker
-2 Bristling Hydra
-2 Gruul Spellbreaker
-3 Gruul Spellbreaker
-4 Magma Spray
 1 Rest in Peace
 1 Elspeth, Sun's Champion
 1 Banishing Light
 1 Apostle of Purifying Light
-1 Basri's Lieutenant
 1 Soldier of the Pantheon
+1 Basri's Lieutenant
 1 Gideon's Intervention
 1 Containment Priest
 2 Rest in Peace
@@ -197,11 +213,13 @@
 4 Soldier of the Pantheon
 1 Klothys, God of Destiny
 1 Abrupt Decay
+1 Gruul Charm
 1 Izzet Staticaster
 1 Rakdos's Return
 1 The Scarab God
 1 Dovin's Veto
 1 Hero of Precinct One
+2 Gruul Charm
 2 Dovin's Veto
 2 Rakdos's Return
 2 Hero of Precinct One

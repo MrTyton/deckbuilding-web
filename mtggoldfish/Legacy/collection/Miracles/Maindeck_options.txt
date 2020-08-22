@@ -39,8 +39,8 @@
 3 Counterbalance
 1 True-Name Nemesis
 2 Volcanic Island
-1 Stoneforge Mystic
 1 Batterskull
+1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 2 Misty Rainforest
@@ -88,13 +88,13 @@
 1 Baleful Strix
 2 Baleful Strix
 1 Academy Ruins
-1 Lavabrink Venturer
-1 Path to Exile
 1 The Elderspell
+1 Path to Exile
+1 Lavabrink Venturer
 1 Scrubland
 1 Plague Engineer
-2 Lavabrink Venturer
 2 The Elderspell
+2 Lavabrink Venturer
 1 Prime Speaker Vannifar
 1 Wurmcoil Engine
 1 Noble Hierarch
@@ -115,6 +115,7 @@
 1 Forest
 1 Oko, Thief of Crowns
 2 Leovold, Emissary of Trest
+2 Noble Hierarch
 2 Uro, Titan of Nature's Wrath
 2 Swamp
 2 Veteran Explorer
@@ -122,7 +123,6 @@
 2 Forest
 2 Abrupt Decay
 2 Verdant Catacombs
-2 Noble Hierarch
 2 Bayou
 2 Cabal Therapy
 2 Abyssal Gatekeeper
@@ -130,11 +130,11 @@
 2 Tropical Island
 2 Oko, Thief of Crowns
 3 Baleful Strix
+3 Noble Hierarch
 3 Abrupt Decay
 3 Veteran Explorer
 3 Birthing Pod
 3 Cabal Therapy
-3 Noble Hierarch
 4 Baleful Strix
 4 Veteran Explorer
 4 Cabal Therapy
@@ -158,6 +158,12 @@
 2 Monastery Mentor
 3 Accumulated Knowledge
 4 Accumulated Knowledge
+1 Enlightened Tutor
+1 Blood Moon
+1 Detention Sphere
+1 Helm of Obedience
+2 Helm of Obedience
+4 Rest in Peace
 4 Terminus
 1 Mishra's Factory
 1 Noxious Revival
@@ -167,8 +173,8 @@
 3 Yidaro, Wandering Monster
 4 Portent
 1 Possibility Storm
-1 Orim's Chant
 1 Lavinia, Azorius Renegade
+1 Orim's Chant
 1 Pyroblast
 1 Isochron Scepter
 2 Lavinia, Azorius Renegade
@@ -178,12 +184,6 @@
 3 Mystic Sanctuary
 3 Narset, Parter of Veils
 4 Teferi, Time Raveler
-1 Enlightened Tutor
-1 Blood Moon
-1 Detention Sphere
-1 Helm of Obedience
-2 Helm of Obedience
-4 Rest in Peace
 1 Wasteland
 1 Hall of Heliod's Generosity
 1 Myth Realized

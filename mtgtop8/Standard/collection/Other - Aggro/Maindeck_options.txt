@@ -126,12 +126,12 @@
 3 Marauding Raptor
 3 Garruk's Harbinger
 4 Garruk's Harbinger
-1 Bolt Hound
 1 Pack Leader
-2 Bolt Hound
+1 Bolt Hound
 2 Pack Leader
-3 Bolt Hound
+2 Bolt Hound
 3 Pack Leader
+3 Bolt Hound
 4 Pack Leader
 1 Domri, Anarch of Bolas
 1 Sarkhan the Masterless
@@ -213,25 +213,25 @@
 2 Lurrus of the Dream-Den
 1 Boon of the Wish-Giver
 1 Startling Development
+1 Imposing Vantasaur
 1 Hallowed Fountain
 1 Flourishing Fox
 1 Drannith Stinger
 1 Unpredictable Cyclone
 1 Zenith Flare
-1 Imposing Vantasaur
 1 Valiant Rescuer
 1 Inspired Ultimatum
 1 Drannith Healer
 1 Raugrin Triome
 2 Boon of the Wish-Giver
-2 Inspired Ultimatum
 2 Raugrin Triome
-2 Drannith Stinger
 2 Imposing Vantasaur
+2 Drannith Stinger
 2 Valiant Rescuer
 2 Drannith Healer
 2 Zenith Flare
 2 Unpredictable Cyclone
+2 Inspired Ultimatum
 2 Hallowed Fountain
 2 Startling Development
 2 Flourishing Fox
@@ -288,8 +288,8 @@
 1 Mystic Forge
 1 Crystalline Giant
 1 Steel Overseer
-1 Stonecoil Serpent
 1 Karn's Bastion
+1 Stonecoil Serpent
 1 Blast Zone
 1 Mobilized District
 1 Palladium Myr
@@ -299,26 +299,26 @@
 2 Mystic Forge
 2 Crystalline Giant
 2 Steel Overseer
+2 Karn's Bastion
 2 Radiant Fountain
 2 Palladium Myr
 2 Interplanar Beacon
-2 Karn's Bastion
 2 Stonecoil Serpent
-3 Mystic Forge
 3 Solemn Simulacrum
 3 Steel Overseer
 3 Crystalline Giant
-3 Ugin, the Ineffable
 3 Radiant Fountain
+3 Ugin, the Ineffable
+3 Mystic Forge
 3 Karn's Bastion
 3 Stonecoil Serpent
 3 Palladium Myr
 3 Interplanar Beacon
-4 Mystic Forge
 4 Solemn Simulacrum
 4 Steel Overseer
 4 Radiant Fountain
 4 Ugin, the Ineffable
+4 Mystic Forge
 4 Karn's Bastion
 4 Interplanar Beacon
 4 Crystalline Giant
@@ -360,8 +360,8 @@
 3 Lofty Denial
 4 Lofty Denial
 1 Zagoth Triome
-1 Acolyte of Affliction
 1 Thassa, Deep-Dwelling
+1 Acolyte of Affliction
 1 Golgari Findbroker
 1 Cavalier of Night
 1 Casualties of War
@@ -372,8 +372,8 @@
 1 Knight of the Ebon Legion
 1 Biomancer's Familiar
 2 Thassa, Deep-Dwelling
-2 Acolyte of Affliction
 2 Zagoth Triome
+2 Acolyte of Affliction
 2 Golgari Findbroker
 2 Casualties of War
 2 Vampire Opportunist
@@ -381,18 +381,18 @@
 2 Knight of the Ebon Legion
 2 Neoform
 2 Thirsting Shade
+3 Casualties of War
 3 Thirsting Shade
 3 Vampire Opportunist
 3 Knight of the Ebon Legion
 3 Biomancer's Familiar
-3 Casualties of War
 3 Neoform
+4 Casualties of War
 4 Neoform
 4 Thirsting Shade
 4 Vampire Opportunist
 4 Knight of the Ebon Legion
 4 Biomancer's Familiar
-4 Casualties of War
 8 Swamp
 1 Legion Warboss
 2 Legion Warboss
@@ -402,21 +402,21 @@
 8 Mountain
 8 Plains
 1 Cavalier of Thorns
+1 Dryad of the Ilysian Grove
 1 Voracious Hydra
 1 Chandra, Awakened Inferno
 1 Escape to the Wilds
-1 Dryad of the Ilysian Grove
 2 Cavalier of Thorns
+2 Dryad of the Ilysian Grove
 2 Chandra, Awakened Inferno
 2 Voracious Hydra
 2 Escape to the Wilds
-2 Dryad of the Ilysian Grove
 3 Cultivate
 3 Arboreal Grazer
 3 Cavalier of Thorns
+3 Dryad of the Ilysian Grove
 3 Chandra, Awakened Inferno
 3 Voracious Hydra
-3 Dryad of the Ilysian Grove
 4 Cultivate
 4 Arboreal Grazer
 4 Dryad of the Ilysian Grove

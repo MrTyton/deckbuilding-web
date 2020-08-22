@@ -32,8 +32,8 @@
 1 Indatha Triome
 1 Gods Willing
 2 Gods Willing
-3 Glaring Aegis
 3 Solid Footing
+3 Glaring Aegis
 2 Unbreakable Formation
 1 Scavenging Ooze
 1 Selfless Savior
@@ -50,19 +50,19 @@
 2 Blossoming Sands
 3 Blossoming Sands
 4 Blossoming Sands
-1 Witching Well
-1 Fierce Empath
 1 Thassa, Deep-Dwelling
 1 Tranquil Cove
 1 Banishing Light
 1 Imposing Vantasaur
 1 Negate
 1 Realm-Cloaked Giant
+1 Fierce Empath
 1 Arboreal Grazer
-1 Teferi's Time Twist
+1 Witching Well
 1 Risen Reef
 1 Thornwood Falls
 1 Neoform
+1 Teferi's Time Twist
 1 Leafkin Druid
 1 Meteor Golem
 1 Destiny Spinner
@@ -74,11 +74,11 @@
 1 Beanstalk Giant
 1 Omen of the Sea
 1 Farfinder
-2 Witching Well
 2 Fierce Empath
 2 Tranquil Cove
 2 Imposing Vantasaur
 2 Negate
+2 Witching Well
 2 Risen Reef
 2 Thornwood Falls
 2 Neoform
@@ -87,11 +87,11 @@
 2 Omen of the Sea
 2 Island
 2 Teferi's Time Twist
-3 Witching Well
 3 Imposing Vantasaur
 3 Island
 3 Tranquil Cove
 3 Fierce Empath
+3 Witching Well
 3 Risen Reef
 3 Leafkin Druid
 3 Neoform
@@ -124,33 +124,33 @@
 1 Speaker of the Heavens
 2 Speaker of the Heavens
 4 Glaring Aegis
-1 Wildwood Scourge
-2 Wildwood Scourge
-3 Unbreakable Formation
-3 Wildwood Scourge
-4 Basri Ket
-4 Wildwood Scourge
-1 Bronzehide Lion
 1 Lurrus of the Dream-Den
 1 Primal Might
 1 Lovestruck Beast
 1 Gideon Blackblade
 1 Gemrazer
+1 Bronzehide Lion
 2 Questing Beast
 2 Primal Might
-2 Bronzehide Lion
 2 Lurrus of the Dream-Den
 2 Lovestruck Beast
+2 Bronzehide Lion
 2 Gideon Blackblade
 3 Scavenging Ooze
 3 Questing Beast
-3 Bronzehide Lion
 3 Primal Might
 3 Lurrus of the Dream-Den
 3 Lovestruck Beast
+3 Bronzehide Lion
 4 Questing Beast
 4 Lovestruck Beast
 4 Bronzehide Lion
+1 Wildwood Scourge
+2 Wildwood Scourge
+3 Unbreakable Formation
+3 Wildwood Scourge
+4 Wildwood Scourge
+4 Basri Ket
 1 Elspeth, Sun's Nemesis
 1 Vivien, Arkbow Ranger
 1 Ram Through
@@ -188,7 +188,7 @@
 12 Forest
 1 Castle Ardenvale
 1 Setessan Training
-2 Setessan Training
 2 Castle Ardenvale
+2 Setessan Training
 3 Setessan Training
 11 Plains

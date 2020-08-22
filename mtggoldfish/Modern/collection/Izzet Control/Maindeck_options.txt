@@ -44,9 +44,9 @@
 2 Deprive
 4 Misty Rainforest
 3 Shark Typhoon
+1 Blast Zone
 1 Ral, Izzet Viceroy
 1 Venser, Shaper Savant
-1 Blast Zone
 2 Blast Zone
 3 Sulfur Falls
 1 Day's Undoing
@@ -57,22 +57,22 @@
 2 Mountain
 3 Mana Leak
 1 Reflecting Pool
-1 Fiery Islet
 1 Temple of Epiphany
 1 Minamo, School at Water's Edge
 1 Oboro, Palace in the Clouds
 1 Shadow of Doubt
-2 Reflecting Pool
-2 Fiery Islet
-2 Temple of Epiphany
+1 Fiery Islet
 2 Spirebluff Canal
-3 Spirebluff Canal
+2 Fiery Islet
+2 Reflecting Pool
+2 Temple of Epiphany
 3 Cascade Bluffs
 3 Temple of Epiphany
+3 Spirebluff Canal
 3 Reflecting Pool
 4 Shark Typhoon
-4 Spirebluff Canal
 4 Temple of Epiphany
+4 Spirebluff Canal
 4 Reflecting Pool
 4 Cascade Bluffs
 1 Burst Lightning
@@ -80,8 +80,8 @@
 2 Spell Pierce
 1 Fire Prophecy
 2 Fire Prophecy
-1 Snow-Covered Island
 1 Snow-Covered Mountain
+1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
@@ -102,19 +102,19 @@
 1 Anger of the Gods
 2 Brineborn Cutthroat
 2 Anger of the Gods
-4 Flooded Strand
-1 Prismatic Vista
-1 Snow-Covered Forest
-1 Ice-Fang Coatl
-1 Logic Knot
-2 Prismatic Vista
-2 Ice-Fang Coatl
-3 Ice-Fang Coatl
-4 Ice-Fang Coatl
 1 Frantic Inventory
 2 Frantic Inventory
 3 Frantic Inventory
 4 Frantic Inventory
+1 Snow-Covered Forest
+1 Logic Knot
+1 Prismatic Vista
+1 Ice-Fang Coatl
+2 Prismatic Vista
+2 Ice-Fang Coatl
+3 Ice-Fang Coatl
+4 Ice-Fang Coatl
+4 Flooded Strand
 1 Thought Scour
 2 Thought Scour
 3 Thought Scour
@@ -126,17 +126,17 @@
 3 Narset, Parter of Veils
 4 Mana Leak
 4 Narset, Parter of Veils
-1 Of One Mind
 1 Young Pyromancer
+1 Of One Mind
 1 Delver of Secrets
 1 Jolrael, Mwonvuli Recluse
-2 Breeding Pool
 2 Young Pyromancer
+2 Breeding Pool
 2 Of One Mind
 2 Delver of Secrets
 2 Jolrael, Mwonvuli Recluse
-3 Young Pyromancer
 3 Jolrael, Mwonvuli Recluse
+3 Young Pyromancer
 3 Of One Mind
 3 Delver of Secrets
 4 Young Pyromancer

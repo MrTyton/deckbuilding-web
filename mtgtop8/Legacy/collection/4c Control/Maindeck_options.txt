@@ -4,24 +4,34 @@
 1 Baleful Strix
 3 Polluted Delta
 4 Polluted Delta
-1 Leovold, Emissary of Trest
-1 Assassin's Trophy
 1 Scalding Tarn
 2 Snapcaster Mage
 2 Tropical Island
-1 Cling to Dust
-1 Lightning Bolt
-2 Dead of Winter
-2 Sylvan Library
+1 Leovold, Emissary of Trest
+1 Assassin's Trophy
+1 Teferi, Time Raveler
+1 Spell Pierce
+2 Spell Pierce
+2 Teferi, Time Raveler
+2 Flooded Strand
+3 Flooded Strand
 2 Scalding Tarn
 2 Drown in the Loch
+1 Cling to Dust
+1 Lightning Bolt
+2 Baleful Strix
+3 Baleful Strix
+4 Oko, Thief of Crowns
+4 Baleful Strix
+2 Dead of Winter
+2 Sylvan Library
 1 Toxic Deluge
+1 Verdant Catacombs
 1 Punishing Fire
 1 Grove of the Burnwillows
 1 Pyroblast
 1 Fatal Push
 1 Dack Fayden
-1 Verdant Catacombs
 1 Badlands
 1 Waterlogged Grove
 2 Assassin's Trophy
@@ -40,23 +50,27 @@
 4 Grove of the Burnwillows
 4 Assassin's Trophy
 4 Dack Fayden
-1 Teferi, Time Raveler
-1 Spell Pierce
-2 Spell Pierce
-2 Teferi, Time Raveler
-2 Flooded Strand
-3 Flooded Strand
 1 Plague Engineer
 4 Uro, Titan of Nature's Wrath
-2 Baleful Strix
-3 Baleful Strix
-4 Oko, Thief of Crowns
-4 Baleful Strix
 1 Sevinne's Reclamation
 1 Counterspell
 1 Snow-Covered Mountain
 4 Snow-Covered Island
 5 Snow-Covered Island
+1 Inquisition of Kozilek
+1 Hymn to Tourach
+2 Hymn to Tourach
+2 Underground Sea
+2 Tundra
+2 Inquisition of Kozilek
+3 Inquisition of Kozilek
+3 Teferi, Time Raveler
+3 Underground Sea
+3 Snapcaster Mage
+3 Hymn to Tourach
+4 Inquisition of Kozilek
+4 Flooded Strand
+4 Hymn to Tourach
 1 Abundant Growth
 2 Abundant Growth
 3 Force of Negation
@@ -74,20 +88,6 @@
 1 Notion Thief
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
-1 Inquisition of Kozilek
-1 Hymn to Tourach
-2 Hymn to Tourach
-2 Underground Sea
-2 Tundra
-2 Inquisition of Kozilek
-3 Inquisition of Kozilek
-3 Teferi, Time Raveler
-3 Underground Sea
-3 Snapcaster Mage
-3 Hymn to Tourach
-4 Inquisition of Kozilek
-4 Flooded Strand
-4 Hymn to Tourach
 1 Windswept Heath
 1 Preordain
 2 Preordain
@@ -99,9 +99,9 @@
 4 Snow-Covered Forest
 4 Abundant Growth
 6 Snow-Covered Island
-1 Jace, Wielder of Mysteries
 1 Wilt
+1 Jace, Wielder of Mysteries
 2 Jace, Wielder of Mysteries
 1 Veil of Summer
-1 Thoughtseize
 1 Shark Typhoon
+1 Thoughtseize

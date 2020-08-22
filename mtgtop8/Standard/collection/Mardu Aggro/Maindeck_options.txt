@@ -13,8 +13,8 @@
 1 Fabled Passage
 1 Smitten Swordmaster
 1 Grim Tutor
-1 The Circle of Loyalty
 1 Chance for Glory
+1 The Circle of Loyalty
 1 Castle Ardenvale
 1 Basri's Solidarity
 2 Smitten Swordmaster
@@ -33,6 +33,7 @@
 4 Venerated Loxodon
 2 Castle Locthwain
 3 Mountain
+1 Judith, the Scourge Diva
 1 Winota, Joiner of Forces
 1 General's Enforcer
 1 Legion Warboss
@@ -40,28 +41,27 @@
 1 Kenrith, the Returned King
 1 Chandra, Acolyte of Flame
 1 Tin Street Dodger
-1 Judith, the Scourge Diva
 1 Robber of the Rich
 1 Raise the Alarm
-2 Winota, Joiner of Forces
+2 Judith, the Scourge Diva
 2 Castle Embereth
 2 Legion Warboss
 2 General's Enforcer
+2 Winota, Joiner of Forces
 2 Tin Street Dodger
 2 Chandra, Acolyte of Flame
 2 Robber of the Rich
-2 Judith, the Scourge Diva
 2 Raise the Alarm
 2 Tajic, Legion's Edge
-3 Winota, Joiner of Forces
-3 Legion Warboss
 3 General's Enforcer
+3 Winota, Joiner of Forces
 3 Robber of the Rich
 3 Tin Street Dodger
 3 Raise the Alarm
-4 Winota, Joiner of Forces
+3 Legion Warboss
 4 General's Enforcer
 4 Dire Tactics
+4 Winota, Joiner of Forces
 4 Robber of the Rich
 4 Raise the Alarm
 1 Selfless Savior
@@ -102,38 +102,38 @@
 4 Priest of Forgotten Gods
 4 Call of the Death-Dweller
 4 Cruel Celebrant
-1 Pack Leader
 1 Sorin, Vengeful Bloodlord
-1 Banehound
 1 Bolt Hound
 1 Bonecrusher Giant
 1 Igneous Cur
+1 Pack Leader
 1 Alpine Houndmaster
 1 Alpine Watchdog
+1 Banehound
 1 Kunoros, Hound of Athreos
-2 Pack Leader
-2 Banehound
-2 Bolt Hound
 2 Sorin, Vengeful Bloodlord
+2 Bolt Hound
 2 Bonecrusher Giant
 2 Igneous Cur
 2 Alpine Watchdog
 2 Alpine Houndmaster
 2 Kunoros, Hound of Athreos
-3 Pack Leader
-3 Banehound
+2 Pack Leader
+2 Banehound
 3 Bolt Hound
-3 Kunoros, Hound of Athreos
 3 Embercleave
+3 Banehound
 3 Plains
 3 Alpine Houndmaster
+3 Pack Leader
 3 Bonecrusher Giant
+3 Kunoros, Hound of Athreos
 4 Embercleave
-4 Pack Leader
-4 Bolt Hound
-4 Banehound
 4 Alpine Houndmaster
 4 Plains
+4 Banehound
 4 Bonecrusher Giant
+4 Pack Leader
 4 Mountain
+4 Bolt Hound
 5 Plains

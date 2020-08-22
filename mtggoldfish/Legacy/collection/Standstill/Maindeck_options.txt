@@ -18,9 +18,9 @@
 1 Mystic Sanctuary
 1 Arcum's Astrolabe
 2 Mystic Sanctuary
+1 Oko, Thief of Crowns
 1 Tropical Island
 1 Snow-Covered Forest
-1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
 2 Misty Rainforest
 3 Misty Rainforest
@@ -43,8 +43,8 @@
 4 Ice-Fang Coatl
 3 Prismatic Vista
 4 Prismatic Vista
-1 Vendilion Clique
 1 Snow-Covered Mountain
+1 Vendilion Clique
 5 Snow-Covered Island
 3 Spell Pierce
 6 Island
@@ -58,10 +58,13 @@
 1 Green Sun's Zenith
 1 Once Upon a Time
 1 Glacial Chasm
+1 Candelabra of Tawnos
 1 Golos, Tireless Pilgrim
+1 Ulamog, the Ceaseless Hunger
 1 Cascading Cataracts
 1 Cyclonic Rift
 1 Maze of Ith
+1 Vesuva
 1 Prophetic Prism
 1 Prophet of Kruphix
 1 Pithing Needle
@@ -70,7 +73,6 @@
 1 Bojuka Bog
 1 Dark Depths
 1 Kiora, Behemoth Beckoner
-1 Ulamog, the Ceaseless Hunger
 1 Elvish Reclaimer
 1 Dryad of the Ilysian Grove
 1 Cloudpost
@@ -79,11 +81,10 @@
 1 Eye of Ugin
 1 Ugin, the Spirit Dragon
 1 Cavern of Souls
-1 Candelabra of Tawnos
-1 Vesuva
 1 Emrakul, the Aeons Torn
 1 Thespian's Stage
 1 Ramunap Excavator
+2 Tropical Island
 2 Green Sun's Zenith
 2 Once Upon a Time
 2 Elvish Reclaimer
@@ -95,15 +96,14 @@
 2 Crop Rotation
 2 Cloudpost
 2 Thought-Knot Seer
-2 Tropical Island
 2 Dryad of the Ilysian Grove
 2 Glimmerpost
 2 Cavern of Souls
 3 Green Sun's Zenith
 3 Once Upon a Time
 3 Elvish Reclaimer
-3 Cavern of Souls
 3 Tropical Island
+3 Cavern of Souls
 3 Crop Rotation
 3 Cloudpost
 3 Glimmerpost
@@ -119,10 +119,10 @@
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 3 Wasteland
+1 Brazen Borrower
 1 The Tabernacle at Pendrell Vale
 1 Back to Basics
 1 Dovin's Veto
-1 Brazen Borrower
 1 Lay Claim
 2 Dovin's Veto
 2 Lay Claim
@@ -143,15 +143,15 @@
 1 Sevinne's Reclamation
 1 Enlightened Tutor
 1 Search for Azcanta
+1 Stifle
 1 Scroll of Fate
 1 Phyrexian Dreadnought
 1 Mishra's Factory
 1 Karn, the Great Creator
-1 Stifle
+2 Stifle
 2 Phyrexian Dreadnought
 2 Mishra's Factory
 2 Karn, the Great Creator
-2 Stifle
 3 Stifle
 3 Phyrexian Dreadnought
 3 Mishra's Factory
@@ -161,6 +161,7 @@
 1 Bayou
 1 Mox Diamond
 1 Assassin's Trophy
+1 Life from the Loam
 1 Savannah
 1 Abrupt Decay
 1 Chalice of the Void
@@ -168,19 +169,18 @@
 1 Tranquil Thicket
 1 Underground Sea
 1 Blast Zone
-1 Life from the Loam
 1 Snow-Covered Swamp
 2 Abrupt Decay
 2 Mox Diamond
-2 Chalice of the Void
 2 Life from the Loam
+2 Chalice of the Void
 2 Uro, Titan of Nature's Wrath
+3 Oko, Thief of Crowns
 3 Mox Diamond
 3 Life from the Loam
 3 Chalice of the Void
 3 Abrupt Decay
 3 Uro, Titan of Nature's Wrath
-3 Oko, Thief of Crowns
 4 Mox Diamond
 4 Uro, Titan of Nature's Wrath
 4 Chalice of the Void
@@ -200,8 +200,8 @@
 2 Astral Slide
 2 Gilded Drake
 3 Snow-Covered Plains
-3 Street Wraith
 3 Containment Priest
+3 Street Wraith
 3 Astral Slide
 3 Secluded Steppe
 3 Gilded Drake
@@ -209,10 +209,10 @@
 3 Astral Drift
 4 Snow-Covered Plains
 4 Street Wraith
-4 Containment Priest
 4 Astral Drift
 4 Cast Out
 4 Gilded Drake
+4 Containment Priest
 4 Secluded Steppe
 4 Astral Slide
 5 Snow-Covered Plains

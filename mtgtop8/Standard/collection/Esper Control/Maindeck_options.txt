@@ -73,6 +73,7 @@
 1 Dream Trawler
 2 Tranquil Cove
 1 Time Wipe
+1 Teferi's Ageless Insight
 1 Ominous Seas
 1 Precognitive Perception
 1 Thief of Sanity
@@ -84,7 +85,6 @@
 1 Ashiok, Dream Render
 1 Realm-Cloaked Giant
 1 Unexplained Vision
-1 Teferi's Ageless Insight
 1 Teferi's Tutelage
 1 Gyruda, Doom of Depths
 1 Obsessive Stitcher
@@ -108,10 +108,10 @@
 3 Tranquil Cove
 3 Conclave Tribunal
 4 Dream Trawler
-4 Conclave Tribunal
 4 Merfolk Secretkeeper
 4 Dismal Backwater
 4 Tranquil Cove
+4 Conclave Tribunal
 5 Plains
 5 Island
 6 Island
@@ -130,9 +130,9 @@
 1 Disinformation Campaign
 1 Duress
 1 Golden Egg
+2 Disinformation Campaign
 2 Duress
 2 Golden Egg
-2 Disinformation Campaign
 3 Duress
 4 Duress
 1 Brazen Borrower
@@ -182,12 +182,12 @@
 1 Negate
 1 Eat to Extinction
 1 Karn, the Great Creator
-2 Eat to Extinction
 2 Banishing Light
 2 Liliana, Dreadhorde General
 2 Ugin, the Spirit Dragon
 2 Ugin, the Ineffable
 2 Negate
+2 Eat to Extinction
 3 Ugin, the Ineffable
 3 Shatter the Sky
 2 Despark

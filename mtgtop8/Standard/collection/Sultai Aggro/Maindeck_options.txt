@@ -57,8 +57,8 @@
 1 Assassin's Trophy
 2 Knight of the Ebon Legion
 2 Gemrazer
-2 Assassin's Trophy
 2 Massacre Wurm
+2 Assassin's Trophy
 2 Castle Locthwain
 3 Knight of the Ebon Legion
 3 Stonecoil Serpent
@@ -81,14 +81,14 @@
 1 Demonic Embrace
 1 Glowspore Shaman
 1 Silversmote Ghoul
+1 Tymaret Calls the Dead
 1 Ashiok, Dream Render
 1 Merfolk Secretkeeper
-1 Tymaret Calls the Dead
 2 Demonic Embrace
 2 Silversmote Ghoul
+2 Tymaret Calls the Dead
 2 Ashiok, Dream Render
 2 Merfolk Secretkeeper
-2 Tymaret Calls the Dead
 2 Glowspore Shaman
 3 Silversmote Ghoul
 3 Merfolk Secretkeeper
@@ -117,20 +117,20 @@
 1 Parcelbeast
 1 Leafkin Druid
 1 Vivien, Monsters' Advocate
-1 Neoform
+1 Yarok, the Desecrated
+1 Jace, Wielder of Mysteries
 1 Evolving Wilds
-1 Thassa, Deep-Dwelling
+1 Neoform
 1 Thornwood Falls
 1 Acolyte of Affliction
+1 Thassa, Deep-Dwelling
 1 Jungle Hollow
 1 Spark Harvest
-1 Jace, Wielder of Mysteries
 1 Cloudkin Seer
 1 Risen Reef
 1 Ob Nixilis's Cruelty
 1 Meteor Golem
 1 Healer of the Glade
-1 Yarok, the Desecrated
 1 Nightveil Predator
 1 Dismal Backwater
 1 Frost Lynx
@@ -138,9 +138,9 @@
 2 Leafkin Druid
 2 Neoform
 2 Evolving Wilds
-2 Jungle Hollow
-2 Acolyte of Affliction
 2 Thornwood Falls
+2 Acolyte of Affliction
+2 Jungle Hollow
 2 Ob Nixilis's Cruelty
 2 Cloudkin Seer
 2 Nightveil Predator
@@ -172,12 +172,12 @@
 1 Growth Spiral
 1 Skull Prophet
 2 Rankle, Master of Pranks
-2 Enter the God-Eternals
 2 Drown in the Loch
 2 Commence the Endgame
 2 Castle Vantress
 2 Growth Spiral
 2 Skull Prophet
+2 Enter the God-Eternals
 3 Skull Prophet
 3 Growth Spiral
 4 Questing Beast

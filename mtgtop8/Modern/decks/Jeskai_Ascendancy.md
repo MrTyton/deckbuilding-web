@@ -49,10 +49,10 @@
 |                    3|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)     |                     |                                                                                               |
 |                    3|[Gemstone Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109761)    |                     |                                                                                               |
 |                    3|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380203)    |                     |                                                                                               |
-|                    4|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)   |                     |                                                                                               |
 |                    4|[Underworld Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476412)|                     |                                                                                               |
 |                    4|[Birds of Paradise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129906)|                     |                                                                                               |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)   |                     |                                                                                               |
 |                    4|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)     |                     |                                                                                               |
+|                    4|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)   |                     |                                                                                               |
 |                    4|[Thought Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380203)    |                     |                                                                                               |
 

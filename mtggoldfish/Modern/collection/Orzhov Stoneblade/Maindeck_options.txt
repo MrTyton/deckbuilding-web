@@ -38,44 +38,44 @@
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Plains
-1 Thalia, Guardian of Thraben
-1 Tectonic Edge
-1 Thought-Knot Seer
 1 Leonin Arbiter
+1 Thalia, Guardian of Thraben
+1 Thought-Knot Seer
 1 Eldrazi Temple
 1 Flickerwisp
 1 Aether Vial
 1 Eldrazi Displacer
 1 Ghost Quarter
+1 Tectonic Edge
 2 Flickerwisp
+2 Ghost Quarter
+2 Leonin Arbiter
 2 Thalia, Guardian of Thraben
 2 Thought-Knot Seer
-2 Leonin Arbiter
-2 Ghost Quarter
 2 Eldrazi Displacer
 2 Eldrazi Temple
 2 Aether Vial
-3 Thalia, Guardian of Thraben
 3 Ghost Quarter
-3 Eldrazi Displacer
+3 Leonin Arbiter
+3 Thalia, Guardian of Thraben
 3 Giver of Runes
+3 Eldrazi Displacer
 3 Eldrazi Temple
 3 Thought-Knot Seer
-3 Leonin Arbiter
 3 Aether Vial
 4 Caves of Koilos
-4 Aether Vial
-4 Leonin Arbiter
-4 Eldrazi Temple
 4 Ghost Quarter
+4 Leonin Arbiter
+4 Aether Vial
+4 Eldrazi Temple
 3 Liliana of the Veil
 2 Kaya's Guile
 3 Swamp
 1 Thalia, Heretic Cathar
 3 Snow-Covered Plains
 3 Flickerwisp
-4 Thought-Knot Seer
 4 Thalia, Guardian of Thraben
+4 Thought-Knot Seer
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 4 Dark Confidant
@@ -85,11 +85,11 @@
 4 Bitterblossom
 1 Urborg, Tomb of Yawgmoth
 4 Liliana of the Veil
-1 Flagstones of Trokair
 1 Smallpox
 1 Kaya, Orzhov Usurper
-2 Flagstones of Trokair
+1 Flagstones of Trokair
 2 Smallpox
+2 Flagstones of Trokair
 3 Flagstones of Trokair
 3 Smallpox
 4 Flagstones of Trokair
@@ -98,9 +98,8 @@
 1 Forest
 1 Gavony Township
 1 Voice of Resurgence
-1 Stirring Wildwood
-1 Assassin's Trophy
 1 Sword of Light and Shadow
+1 Assassin's Trophy
 1 Overgrown Tomb
 1 Nurturing Peatland
 1 Temple Garden
@@ -108,13 +107,14 @@
 1 Wooded Foothills
 1 Siege Rhino
 1 Scavenging Ooze
+1 Stirring Wildwood
 2 Forest
-2 Temple Garden
+2 Nurturing Peatland
 2 Voice of Resurgence
 2 Windswept Heath
 2 Wooded Foothills
 2 Overgrown Tomb
-2 Nurturing Peatland
+2 Temple Garden
 2 Assassin's Trophy
 2 Siege Rhino
 2 Scavenging Ooze
@@ -124,8 +124,8 @@
 3 Siege Rhino
 3 Windswept Heath
 4 Voice of Resurgence
-4 Assassin's Trophy
 4 Wooded Foothills
+4 Assassin's Trophy
 4 Windswept Heath
 4 Siege Rhino
 1 Spectral Procession
@@ -153,6 +153,11 @@
 1 Mana Tithe
 2 Elspeth, Sun's Nemesis
 3 Kaya's Guile
+1 Wasteland Strangler
+1 Monastery Mentor
+2 Wasteland Strangler
+2 Monastery Mentor
+4 Field of Ruin
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 1 Nihil Spellbomb
@@ -167,8 +172,3 @@
 4 Giver of Runes
 1 Vault of the Archangel
 4 Windbrisk Heights
-1 Wasteland Strangler
-1 Monastery Mentor
-2 Wasteland Strangler
-2 Monastery Mentor
-4 Field of Ruin
