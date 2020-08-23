@@ -4,8 +4,8 @@
 2 Wasteland
 1 Snow-Covered Island
 1 Snow-Covered Plains
-2 Snow-Covered Island
 2 Snow-Covered Plains
+2 Snow-Covered Island
 3 Snow-Covered Island
 1 Supreme Verdict
 4 Snow-Covered Island
@@ -56,7 +56,6 @@
 3 Cast Out
 1 Uro, Titan of Nature's Wrath
 1 Green Sun's Zenith
-1 Once Upon a Time
 1 Glacial Chasm
 1 Candelabra of Tawnos
 1 Golos, Tireless Pilgrim
@@ -64,12 +63,12 @@
 1 Cascading Cataracts
 1 Cyclonic Rift
 1 Maze of Ith
+1 Crop Rotation
 1 Vesuva
 1 Prophetic Prism
 1 Prophet of Kruphix
 1 Pithing Needle
 1 Primeval Titan
-1 Crop Rotation
 1 Bojuka Bog
 1 Dark Depths
 1 Kiora, Behemoth Beckoner
@@ -81,12 +80,12 @@
 1 Eye of Ugin
 1 Ugin, the Spirit Dragon
 1 Cavern of Souls
+1 Once Upon a Time
 1 Emrakul, the Aeons Torn
 1 Thespian's Stage
 1 Ramunap Excavator
-2 Tropical Island
 2 Green Sun's Zenith
-2 Once Upon a Time
+2 Tropical Island
 2 Elvish Reclaimer
 2 Snow-Covered Forest
 2 Pithing Needle
@@ -96,11 +95,11 @@
 2 Crop Rotation
 2 Cloudpost
 2 Thought-Knot Seer
+2 Once Upon a Time
 2 Dryad of the Ilysian Grove
 2 Glimmerpost
 2 Cavern of Souls
 3 Green Sun's Zenith
-3 Once Upon a Time
 3 Elvish Reclaimer
 3 Tropical Island
 3 Cavern of Souls
@@ -109,8 +108,9 @@
 3 Glimmerpost
 3 Snow-Covered Forest
 3 Pithing Needle
-4 Elvish Reclaimer
+3 Once Upon a Time
 4 Green Sun's Zenith
+4 Elvish Reclaimer
 4 Snow-Covered Forest
 4 Glimmerpost
 4 Pithing Needle
@@ -140,35 +140,35 @@
 2 Volcanic Island
 3 Myth Realized
 1 Jace, Vryn's Prodigy
+1 Mishra's Factory
 1 Sevinne's Reclamation
 1 Enlightened Tutor
 1 Search for Azcanta
 1 Stifle
 1 Scroll of Fate
 1 Phyrexian Dreadnought
-1 Mishra's Factory
 1 Karn, the Great Creator
 2 Stifle
-2 Phyrexian Dreadnought
 2 Mishra's Factory
+2 Phyrexian Dreadnought
 2 Karn, the Great Creator
 3 Stifle
-3 Phyrexian Dreadnought
 3 Mishra's Factory
+3 Phyrexian Dreadnought
 4 Stifle
-1 Forest
 1 Verdant Catacombs
 1 Bayou
 1 Mox Diamond
+1 Forest
 1 Assassin's Trophy
 1 Life from the Loam
-1 Savannah
 1 Abrupt Decay
-1 Chalice of the Void
 1 Field of the Dead
 1 Tranquil Thicket
 1 Underground Sea
+1 Savannah
 1 Blast Zone
+1 Chalice of the Void
 1 Snow-Covered Swamp
 2 Abrupt Decay
 2 Mox Diamond
@@ -177,15 +177,15 @@
 2 Uro, Titan of Nature's Wrath
 3 Oko, Thief of Crowns
 3 Mox Diamond
-3 Life from the Loam
-3 Chalice of the Void
 3 Abrupt Decay
+3 Life from the Loam
 3 Uro, Titan of Nature's Wrath
+3 Chalice of the Void
+4 Wasteland
 4 Mox Diamond
 4 Uro, Titan of Nature's Wrath
-4 Chalice of the Void
 4 Abrupt Decay
-4 Wasteland
+4 Chalice of the Void
 1 Street Wraith
 1 Secluded Steppe
 1 Gilded Drake

@@ -18,8 +18,8 @@
 4 Venerated Loxodon
 8 Forest
 1 Chamber Sentry
-1 Growth-Chamber Guardian
 1 Karn's Bastion
+1 Growth-Chamber Guardian
 1 Basri's Lieutenant
 2 Chamber Sentry
 2 Growth-Chamber Guardian
@@ -32,8 +32,8 @@
 1 Indatha Triome
 1 Gods Willing
 2 Gods Willing
-3 Solid Footing
 3 Glaring Aegis
+3 Solid Footing
 2 Unbreakable Formation
 1 Scavenging Ooze
 1 Selfless Savior
@@ -50,13 +50,13 @@
 2 Blossoming Sands
 3 Blossoming Sands
 4 Blossoming Sands
+1 Fierce Empath
 1 Thassa, Deep-Dwelling
 1 Tranquil Cove
 1 Banishing Light
 1 Imposing Vantasaur
 1 Negate
 1 Realm-Cloaked Giant
-1 Fierce Empath
 1 Arboreal Grazer
 1 Witching Well
 1 Risen Reef
@@ -118,12 +118,18 @@
 1 The Great Henge
 2 The Great Henge
 3 Basri's Lieutenant
-1 Healer's Hawk
-2 Healer's Hawk
-4 Solid Footing
 1 Speaker of the Heavens
 2 Speaker of the Heavens
 4 Glaring Aegis
+1 Healer's Hawk
+2 Healer's Hawk
+4 Solid Footing
+1 Wildwood Scourge
+2 Wildwood Scourge
+3 Unbreakable Formation
+3 Wildwood Scourge
+4 Basri Ket
+4 Wildwood Scourge
 1 Lurrus of the Dream-Den
 1 Primal Might
 1 Lovestruck Beast
@@ -145,12 +151,6 @@
 4 Questing Beast
 4 Lovestruck Beast
 4 Bronzehide Lion
-1 Wildwood Scourge
-2 Wildwood Scourge
-3 Unbreakable Formation
-3 Wildwood Scourge
-4 Wildwood Scourge
-4 Basri Ket
 1 Elspeth, Sun's Nemesis
 1 Vivien, Arkbow Ranger
 1 Ram Through
@@ -188,7 +188,7 @@
 12 Forest
 1 Castle Ardenvale
 1 Setessan Training
-2 Castle Ardenvale
 2 Setessan Training
+2 Castle Ardenvale
 3 Setessan Training
 11 Plains

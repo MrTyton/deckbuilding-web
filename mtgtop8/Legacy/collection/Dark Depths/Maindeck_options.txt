@@ -1,9 +1,9 @@
-1 Snow-Covered Forest
 1 Snow-Covered Swamp
+1 Forest
 2 Elvish Reclaimer
 3 Elvish Reclaimer
-4 Elvish Reclaimer
 1 Wasteland
+4 Elvish Reclaimer
 3 Duress
 1 Once Upon a Time
 2 Once Upon a Time
@@ -12,13 +12,19 @@
 3 Dark Confidant
 1 Abrupt Decay
 2 Abrupt Decay
+3 Once Upon a Time
+1 Sylvan Library
+4 Dark Confidant
 1 Dryad Arbor
+3 Abrupt Decay
 1 Nurturing Peatland
+1 Wooded Foothills
+2 Wasteland
 1 Mox Diamond
 2 Mox Diamond
 3 Mox Diamond
-4 Dark Confidant
-3 Abrupt Decay
+1 Sylvan Safekeeper
+3 Bayou
 1 Cabal Therapy
 2 Cabal Therapy
 1 Stitcher's Supplier
@@ -28,52 +34,48 @@
 2 Hogaak, Arisen Necropolis
 2 Satyr Wayfinder
 2 Stitcher's Supplier
-3 Once Upon a Time
-2 Wasteland
-1 Wooded Foothills
-1 Sylvan Safekeeper
+4 Once Upon a Time
+4 Mox Diamond
+2 Sylvan Safekeeper
+1 Badlands
+1 Taiga
+3 Wasteland
+4 Abrupt Decay
+3 Inquisition of Kozilek
 2 Nurturing Peatland
 3 Cabal Therapy
 3 Hogaak, Arisen Necropolis
 3 Satyr Wayfinder
 3 Stitcher's Supplier
 4 Stitcher's Supplier
-3 Bayou
-1 Sylvan Library
-4 Once Upon a Time
-2 Sylvan Safekeeper
-4 Mox Diamond
-1 Badlands
-1 Taiga
-3 Wasteland
-4 Abrupt Decay
-3 Inquisition of Kozilek
 4 Satyr Wayfinder
 2 Sejiri Steppe
 1 Windswept Heath
 2 Snow-Covered Forest
-1 Assassin's Trophy
-1 Steely Resolve
-1 Life from the Loam
-2 Life from the Loam
-2 Snow-Covered Swamp
 1 Hymn to Tourach
 2 Hymn to Tourach
 4 Duress
+1 Assassin's Trophy
+1 Ancient Tomb
+1 Steely Resolve
+1 Life from the Loam
+2 Life from the Loam
+1 Into the North
+2 Into the North
+2 Snow-Covered Swamp
 1 Savannah
 1 Snow-Covered Plains
 1 Horizon Canopy
 1 Green Sun's Zenith
 1 Giver of Runes
-1 Ancient Tomb
 1 Tomik, Distinguished Advokist
 1 Gaddock Teeg
 1 Knight of the Reliquary
 1 Flagstones of Trokair
 1 Knight of Autumn
+2 Windswept Heath
 2 Green Sun's Zenith
 2 Tomik, Distinguished Advokist
-2 Windswept Heath
 2 Savannah
 2 Wooded Foothills
 2 Giver of Runes
@@ -84,5 +86,40 @@
 4 Windswept Heath
 4 Knight of the Reliquary
 4 Green Sun's Zenith
-4 Cabal Therapy
-4 Hogaak, Arisen Necropolis
+1 Grim Tutor
+1 Leyline of the Void
+1 Toxic Deluge
+1 Infernal Tutor
+1 Dark Ritual
+1 Helm of Obedience
+1 Ill-Gotten Gains
+1 Lion's Eye Diamond
+1 Painter's Servant
+1 Grindstone
+1 Tendrils of Agony
+2 Infernal Tutor
+2 Ancient Tomb
+2 Swamp
+2 Dark Ritual
+2 Leyline of the Void
+2 Ill-Gotten Gains
+2 Helm of Obedience
+2 Lion's Eye Diamond
+3 Infernal Tutor
+3 Swamp
+3 Ancient Tomb
+3 Dark Ritual
+3 Leyline of the Void
+3 Lion's Eye Diamond
+3 Hymn to Tourach
+4 Infernal Tutor
+4 Swamp
+4 Dark Ritual
+4 Leyline of the Void
+4 Lion's Eye Diamond
+4 Hymn to Tourach
+5 Swamp
+6 Swamp
+7 Swamp
+8 Swamp
+9 Swamp
