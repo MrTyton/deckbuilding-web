@@ -1,12 +1,12 @@
+1 Bayou
 1 Drown in the Loch
-1 Sylvan Library
+1 Jace, the Mind Sculptor
 1 Baleful Strix
 3 Polluted Delta
 4 Polluted Delta
-1 Scalding Tarn
-1 Jace, the Mind Sculptor
 2 Snapcaster Mage
 2 Tropical Island
+1 Scalding Tarn
 1 Teferi, Time Raveler
 1 Spell Pierce
 2 Teferi, Time Raveler
@@ -20,32 +20,32 @@
 3 Baleful Strix
 4 Oko, Thief of Crowns
 4 Baleful Strix
-1 Assassin's Trophy
-1 Cling to Dust
-1 Lightning Bolt
-2 Dead of Winter
 2 Sylvan Library
+1 Assassin's Trophy
+2 Dead of Winter
 1 Inquisition of Kozilek
 1 Hymn to Tourach
 2 Hymn to Tourach
-2 Tundra
 2 Underground Sea
+2 Tundra
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
 3 Teferi, Time Raveler
 3 Underground Sea
 3 Snapcaster Mage
 3 Hymn to Tourach
-4 Inquisition of Kozilek
 4 Hymn to Tourach
+4 Inquisition of Kozilek
 4 Flooded Strand
 1 Toxic Deluge
-1 Verdant Catacombs
+1 Cling to Dust
+1 Lightning Bolt
 1 Punishing Fire
 1 Grove of the Burnwillows
 1 Pyroblast
 1 Fatal Push
 1 Dack Fayden
+1 Verdant Catacombs
 1 Badlands
 1 Waterlogged Grove
 2 Assassin's Trophy
@@ -54,10 +54,10 @@
 2 Cling to Dust
 2 Dack Fayden
 2 Volcanic Island
-3 Drown in the Loch
 3 Punishing Fire
 3 Grove of the Burnwillows
 3 Assassin's Trophy
+3 Drown in the Loch
 3 Cling to Dust
 3 Dack Fayden
 3 Scalding Tarn
@@ -66,24 +66,17 @@
 4 Dack Fayden
 1 Plague Engineer
 4 Uro, Titan of Nature's Wrath
+4 Prismatic Vista
 1 Sevinne's Reclamation
 1 Counterspell
-1 Snow-Covered Mountain
-4 Snow-Covered Island
-5 Snow-Covered Island
 1 Abundant Growth
 2 Abundant Growth
 3 Force of Negation
 3 Abundant Growth
-4 Prismatic Vista
 4 Abrupt Decay
-1 Stasis
-1 Ral Zarek
-2 Stasis
-2 Ral Zarek
-2 Lightning Bolt
-3 Ral Zarek
-3 Stasis
+1 Snow-Covered Mountain
+4 Snow-Covered Island
+5 Snow-Covered Island
 1 Back to Basics
 1 Notion Thief
 1 Narset, Parter of Veils
@@ -99,9 +92,16 @@
 4 Snow-Covered Forest
 4 Abundant Growth
 6 Snow-Covered Island
-1 Wilt
 1 Jace, Wielder of Mysteries
+1 Wilt
 2 Jace, Wielder of Mysteries
 1 Veil of Summer
-1 Thoughtseize
 1 Shark Typhoon
+1 Thoughtseize
+1 Stasis
+1 Ral Zarek
+2 Stasis
+2 Ral Zarek
+2 Lightning Bolt
+3 Ral Zarek
+3 Stasis

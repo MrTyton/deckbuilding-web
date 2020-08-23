@@ -1,39 +1,46 @@
-1 Rampaging Ferocidon
-2 Duress
-2 Dreadbore
-2 Rampaging Ferocidon
-3 Rampaging Ferocidon
-1 Soul-Guide Lantern
-1 Fry
-2 Soul-Guide Lantern
-1 Mystical Dispute
-2 Mystical Dispute
 1 Aether Gust
-2 Aether Gust
 1 Disdainful Stroke
 2 Disdainful Stroke
 1 Negate
 2 Negate
+2 Aether Gust
 1 Scavenging Ooze
 2 Scavenging Ooze
-3 Mystical Dispute
-3 Aether Gust
-1 Abrade
 1 Fatal Push
 2 Fatal Push
 1 Thoughtseize
 2 Thoughtseize
 3 Fatal Push
-1 Claim the Firstborn
-2 Claim the Firstborn
 3 Thoughtseize
 4 Thoughtseize
-4 Mystical Dispute
 3 Scavenging Ooze
-1 Ulamog, the Ceaseless Hunger
-1 Emrakul, the Promised End
 1 Grafdigger's Cage
 2 Grafdigger's Cage
+1 Shadowspear
+1 Gruul Charm
+2 Gruul Charm
+1 Vivien Reid
+1 Prowling Serpopard
+1 Gemrazer
+2 Gemrazer
+2 Prowling Serpopard
+1 Wild Slash
+2 Wild Slash
+3 Wild Slash
+3 Magma Spray
+2 Aethersphere Harvester
+1 Heroic Intervention
+2 Heroic Intervention
+1 Rending Volley
+2 Rending Volley
+1 Soul-Guide Lantern
+1 Abrade
+3 Aether Gust
+1 Ulamog, the Ceaseless Hunger
+1 Emrakul, the Promised End
+1 Claim the Firstborn
+2 Claim the Firstborn
+4 Mystical Dispute
 1 Anger of the Gods
 2 Anger of the Gods
 1 Damping Sphere
@@ -44,30 +51,23 @@
 2 Radiant Flames
 1 Mazemind Tome
 1 Wilt
+1 Hazoret the Fervent
 1 Cindervines
 2 Cindervines
-1 Chandra, Acolyte of Flame
-2 Chandra, Acolyte of Flame
+1 Embereth Shieldbreaker
+2 Embereth Shieldbreaker
 1 Vraska, Golgari Queen
 1 Murderous Rider
 1 Trail of Crumbs
 1 Midnight Reaper
 2 Murderous Rider
 2 Midnight Reaper
-1 Reckless Rage
-1 Spell Pierce
-2 Fry
-1 Tireless Tracker
-1 Liliana, the Last Hope
-1 Nissa, Who Shakes the World
-1 Disfigure
-1 Noxious Grasp
-1 Extinction Event
-1 Nissa, Vital Force
-1 Infinite Obliteration
-2 Extinction Event
-2 Infinite Obliteration
-1 Shadowspear
+1 Questing Beast
+1 Oakhame Adversary
+1 Primal Might
+2 Questing Beast
+2 Primal Might
+2 Oakhame Adversary
 1 Heartless Act
 1 Golgari Charm
 1 Stain the Mind
@@ -75,45 +75,29 @@
 2 Heartless Act
 2 Stain the Mind
 2 Golgari Charm
-1 Searing Blood
-2 Searing Blood
-1 Collective Defiance
-1 Eidolon of the Great Revel
-1 Goblin Chainwhirler
-2 Collective Defiance
-2 Eidolon of the Great Revel
-2 Goblin Chainwhirler
-1 Hazoret the Fervent
-2 Aethersphere Harvester
+1 Tireless Tracker
+1 Liliana, the Last Hope
+1 Nissa, Who Shakes the World
+1 Disfigure
+1 Noxious Grasp
+1 Extinction Event
+1 Infinite Obliteration
+1 Nissa, Vital Force
+2 Extinction Event
+2 Infinite Obliteration
+1 Reckless Rage
+1 Spell Pierce
+2 Fry
+2 Soul-Guide Lantern
 1 Metallic Rebuke
 1 Pithing Needle
-1 Jhoira, Weatherlight Captain
 1 Tormod's Crypt
+1 Jhoira, Weatherlight Captain
 1 Hope of Ghirapur
 2 Pithing Needle
 2 Mazemind Tome
 2 Metallic Rebuke
 2 Hope of Ghirapur
-1 Questing Beast
-1 Heroic Intervention
-1 Oakhame Adversary
-1 Primal Might
-1 Prowling Serpopard
-1 Gemrazer
-2 Questing Beast
-2 Heroic Intervention
-2 Primal Might
-2 Oakhame Adversary
-2 Gemrazer
-2 Prowling Serpopard
-1 Dovin's Veto
-2 Dovin's Veto
-1 Settle the Wreckage
-1 Seal Away
-1 Summary Dismissal
-1 Baneslayer Angel
-1 Fumigate
-2 Summary Dismissal
 2 Karn, Scion of Urza
 3 Dreadbore
 1 Korvold, Fae-Cursed King
@@ -144,25 +128,40 @@
 2 Yahenni's Expertise
 3 Damping Sphere
 3 Assassin's Trophy
-1 Collision/Colossus
-1 Shapers' Sanctuary
-2 Shapers' Sanctuary
-3 Embereth Shieldbreaker
+1 Chandra, Awakened Inferno
+3 Gemrazer
+1 Glorybringer
+1 Lightning Axe
+1 Redcap Melee
+1 Stubborn Denial
+2 Glorybringer
+2 Redcap Melee
+2 Stubborn Denial
+3 Stubborn Denial
+1 Chandra, Torch of Defiance
+1 Phyrexian Revoker
 1 Baffling End
 1 Gideon, Ally of Zendikar
-1 Phyrexian Revoker
 1 Fairgrounds Warden
 1 Remorseful Cleric
 2 Baffling End
-2 Remorseful Cleric
 2 Phyrexian Revoker
+2 Remorseful Cleric
+2 Chandra, Torch of Defiance
 2 Fairgrounds Warden
 3 Baffling End
 3 Fairgrounds Warden
+1 Aetherling
+1 Kolaghan's Command
+1 Slaughter Games
+1 Yorion, Sky Nomad
+2 Kolaghan's Command
+2 Slaughter Games
+3 Grafdigger's Cage
 1 Selfless Spirit
+1 Lavinia of the Tenth
 1 Declaration in Stone
 1 Giant Killer
-1 Lavinia of the Tenth
 1 Bonecrusher Giant
 1 Cloudblazer
 2 Selfless Spirit
@@ -172,13 +171,6 @@
 2 Cloudblazer
 3 Selfless Spirit
 3 Bonecrusher Giant
-1 Aetherling
-1 Kolaghan's Command
-1 Slaughter Games
-1 Yorion, Sky Nomad
-2 Kolaghan's Command
-2 Slaughter Games
-3 Grafdigger's Cage
 3 Disdainful Stroke
 4 Scavenging Ooze
 4 Aether Gust
@@ -197,7 +189,22 @@
 2 Soldier of the Pantheon
 3 Soldier of the Pantheon
 4 Soldier of the Pantheon
-1 Vivien Reid
+1 Searing Blood
+2 Searing Blood
+1 Collective Defiance
+1 Eidolon of the Great Revel
+1 Goblin Chainwhirler
+2 Collective Defiance
+2 Eidolon of the Great Revel
+2 Goblin Chainwhirler
+3 Rending Volley
+4 Rending Volley
+1 Gruul Spellbreaker
+1 Bristling Hydra
+2 Gruul Spellbreaker
+2 Bristling Hydra
+3 Gruul Spellbreaker
+4 Magma Spray
 1 Tamiyo, Collector of Tales
 1 Hornet Queen
 1 Entrancing Melody
@@ -207,12 +214,12 @@
 4 Entrancing Melody
 1 Abrupt Decay
 1 Klothys, God of Destiny
-1 Gruul Charm
 1 Izzet Staticaster
 1 Rakdos's Return
 1 The Scarab God
 1 Hero of Precinct One
-2 Gruul Charm
+1 Dovin's Veto
+2 Dovin's Veto
 2 Rakdos's Return
 2 Hero of Precinct One
 3 Hero of Precinct One

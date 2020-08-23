@@ -5,19 +5,19 @@
 1 Ponder
 1 Drown in the Loch
 1 Snow-Covered Forest
-1 Arcum's Astrolabe
 1 Underground Sea
-1 Misty Rainforest
 1 Abrupt Decay
 1 Force of Will
+1 Misty Rainforest
+1 Arcum's Astrolabe
 2 Ice-Fang Coatl
 2 Snow-Covered Island
 2 Ponder
 2 Arcum's Astrolabe
+2 Underground Sea
 2 Abrupt Decay
 2 Brainstorm
 2 Force of Will
-2 Underground Sea
 2 Misty Rainforest
 3 Ice-Fang Coatl
 3 Misty Rainforest
@@ -35,6 +35,8 @@
 1 Marsh Flats
 1 Chrome Mox
 2 Snow-Covered Swamp
+1 Swamp
+3 Bloodstained Mire
 1 Leovold, Emissary of Trest
 1 Scalding Tarn
 1 Teferi, Master of Time
@@ -44,10 +46,10 @@
 1 Dead of Winter
 1 Fatal Push
 1 Oko, Thief of Crowns
-1 Narset, Parter of Veils
+1 Stroke of Genius
 1 Volcanic Island
 1 Prismatic Vista
-1 Stroke of Genius
+1 Narset, Parter of Veils
 1 Force of Negation
 1 Snapcaster Mage
 2 Tropical Island
@@ -56,61 +58,69 @@
 2 Oko, Thief of Crowns
 2 Snapcaster Mage
 2 Prismatic Vista
-2 Snow-Covered Forest
 2 Force of Negation
+2 Snow-Covered Forest
 3 Oko, Thief of Crowns
 3 Abrupt Decay
 4 Snow-Covered Island
 2 Marsh Flats
-1 Swamp
-3 Bloodstained Mire
+2 Swamp
+4 Bloodstained Mire
 1 Mystic Sanctuary
 1 Duskmantle Guildmage
 2 Drown in the Loch
 2 Uro, Titan of Nature's Wrath
 1 Cabal Therapy
-2 Swamp
-4 Bloodstained Mire
 1 Assassin's Trophy
+4 Thoughtseize
 1 Flooded Strand
 2 Teferi, Master of Time
 1 Elesh Norn, Grand Cenobite
 1 Sire of Insanity
 2 Cabal Therapy
-3 Snow-Covered Swamp
-4 Thoughtseize
-1 Notion Thief
-1 Plague Engineer
-1 Vito, Thorn of the Dusk Rose
-1 Blood Crypt
-1 Godless Shrine
-3 Badlands
 3 Swamp
-3 Uro, Titan of Nature's Wrath
-3 Cabal Therapy
 2 Bayou
-3 Marsh Flats
-4 Marsh Flats
-1 Iona, Shield of Emeria
-1 Grim Tutor
-1 Duress
+3 Snow-Covered Swamp
 1 Grave Titan
-1 Sphinx of the Steel Wind
 1 Collective Brutality
 1 Ashen Rider
 1 Lake of the Dead
 2 Lake of the Dead
-2 Duress
 2 Collective Brutality
 2 Grave Titan
-3 Duress
 3 Collective Brutality
-3 Grave Titan
 3 Lake of the Dead
+4 Collective Brutality
+1 Notion Thief
+1 Plague Engineer
+1 Godless Shrine
+1 Vito, Thorn of the Dusk Rose
+1 Blood Crypt
+3 Badlands
+3 Uro, Titan of Nature's Wrath
+3 Cabal Therapy
+3 Marsh Flats
+4 Marsh Flats
+1 Urborg, Tomb of Yawgmoth
+1 Karn, the Great Creator
+1 Massacre Wurm
+1 Ashiok, Dream Render
+1 Wasteland
+1 Tectonic Hellion
+4 Swamp
+5 Swamp
+6 Swamp
+7 Swamp
+1 Iona, Shield of Emeria
+1 Grim Tutor
+1 Duress
+1 Sphinx of the Steel Wind
+2 Duress
+3 Duress
+3 Grave Titan
 4 Duress
 4 Snow-Covered Swamp
 4 Grave Titan
-4 Collective Brutality
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp

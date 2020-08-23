@@ -133,21 +133,6 @@
 3 Pack Leader
 3 Bolt Hound
 4 Pack Leader
-1 Domri, Anarch of Bolas
-1 Chandra, Heart of Fire
-1 Incubation Druid
-1 Sarkhan the Masterless
-1 Chandra, Fire Artisan
-1 Vivien, Arkbow Ranger
-2 Domri, Anarch of Bolas
-2 Chandra, Heart of Fire
-2 Chandra, Fire Artisan
-2 The Great Henge
-2 Vivien, Arkbow Ranger
-3 Chandra, Heart of Fire
-3 Scavenging Ooze
-4 Temple of Abandon
-4 Scavenging Ooze
 1 Vito, Thorn of the Dusk Rose
 2 Vito, Thorn of the Dusk Rose
 1 Solemn Simulacrum
@@ -179,17 +164,32 @@
 3 Elspeth Conquers Death
 3 Overgrown Tomb
 3 Temple Garden
+3 Basri's Lieutenant
 3 Llanowar Visionary
 3 Vito, Thorn of the Dusk Rose
 3 Revival / Revenge
 3 Gilded Goose
-3 Basri's Lieutenant
 4 Overgrown Tomb
 4 Indatha Triome
 4 Temple Garden
-4 Vito, Thorn of the Dusk Rose
-4 Llanowar Visionary
 4 Basri's Lieutenant
+4 Llanowar Visionary
+4 Vito, Thorn of the Dusk Rose
+1 Domri, Anarch of Bolas
+1 Chandra, Heart of Fire
+1 Incubation Druid
+1 Sarkhan the Masterless
+1 Vivien, Arkbow Ranger
+1 Chandra, Fire Artisan
+2 Domri, Anarch of Bolas
+2 Chandra, Heart of Fire
+2 Chandra, Fire Artisan
+2 The Great Henge
+2 Vivien, Arkbow Ranger
+3 Chandra, Heart of Fire
+3 Scavenging Ooze
+4 Temple of Abandon
+4 Scavenging Ooze
 1 Samut's Sprint
 1 Riddleform
 2 Aether Gust
@@ -211,44 +211,44 @@
 4 Fervent Champion
 1 Lurrus of the Dream-Den
 2 Lurrus of the Dream-Den
-1 Boon of the Wish-Giver
+1 Drannith Stinger
 1 Startling Development
+1 Boon of the Wish-Giver
 1 Imposing Vantasaur
 1 Hallowed Fountain
 1 Flourishing Fox
-1 Drannith Stinger
 1 Unpredictable Cyclone
 1 Zenith Flare
 1 Valiant Rescuer
 1 Inspired Ultimatum
 1 Drannith Healer
 1 Raugrin Triome
+2 Drannith Stinger
 2 Boon of the Wish-Giver
+2 Startling Development
+2 Inspired Ultimatum
 2 Raugrin Triome
 2 Imposing Vantasaur
-2 Drannith Stinger
 2 Valiant Rescuer
 2 Drannith Healer
 2 Zenith Flare
 2 Unpredictable Cyclone
-2 Inspired Ultimatum
 2 Hallowed Fountain
-2 Startling Development
 2 Flourishing Fox
-3 Raugrin Triome
+3 Drannith Stinger
 3 Startling Development
+3 Raugrin Triome
 3 Hallowed Fountain
 3 Flourishing Fox
-3 Drannith Stinger
 3 Drannith Healer
 3 Zenith Flare
 3 Unpredictable Cyclone
 3 Valiant Rescuer
+4 Drannith Stinger
+4 Startling Development
 4 Raugrin Triome
 4 Flourishing Fox
 4 Valiant Rescuer
-4 Startling Development
-4 Drannith Stinger
 4 Zenith Flare
 4 Drannith Healer
 4 Unpredictable Cyclone
@@ -286,59 +286,59 @@
 4 Ugin, the Spirit Dragon
 1 Ugin, the Ineffable
 1 Crystalline Giant
+1 Karn's Bastion
 1 Mystic Forge
 1 Steel Overseer
+1 Palladium Myr
 1 Stonecoil Serpent
-1 Karn's Bastion
 1 Blast Zone
 1 Mobilized District
-1 Palladium Myr
 1 Interplanar Beacon
-2 Mobilized District
 2 Ugin, the Ineffable
 2 Crystalline Giant
 2 Mystic Forge
 2 Steel Overseer
-2 Radiant Fountain
 2 Palladium Myr
-2 Interplanar Beacon
+2 Radiant Fountain
 2 Karn's Bastion
+2 Mobilized District
+2 Interplanar Beacon
 2 Stonecoil Serpent
-3 Mystic Forge
 3 Solemn Simulacrum
 3 Steel Overseer
-3 Crystalline Giant
-3 Ugin, the Ineffable
-3 Radiant Fountain
-3 Karn's Bastion
-3 Stonecoil Serpent
 3 Palladium Myr
+3 Radiant Fountain
+3 Ugin, the Ineffable
+3 Mystic Forge
+3 Karn's Bastion
+3 Crystalline Giant
+3 Stonecoil Serpent
 3 Interplanar Beacon
-4 Mystic Forge
 4 Solemn Simulacrum
 4 Steel Overseer
 4 Radiant Fountain
+4 Palladium Myr
 4 Ugin, the Ineffable
+4 Crystalline Giant
+4 Mystic Forge
 4 Karn's Bastion
 4 Interplanar Beacon
-4 Crystalline Giant
-4 Palladium Myr
 4 Stonecoil Serpent
 5 Swamp
 6 Swamp
 7 Swamp
 1 Ashiok's Erasure
 1 Cunning Nightbonder
-1 Dirge Bat
-1 Pouncing Shoreshark
 1 Heartless Act
+1 Pouncing Shoreshark
+1 Dirge Bat
 1 Temple of Deceit
 1 Watery Grave
 1 Slitherwisp
 2 Ashiok's Erasure
 2 Cunning Nightbonder
-2 Dirge Bat
 2 Heartless Act
+2 Dirge Bat
 2 Temple of Deceit
 2 Watery Grave
 2 Slitherwisp
@@ -359,6 +359,7 @@
 2 Ionize
 3 Lofty Denial
 4 Lofty Denial
+1 Cling to Dust
 1 Zagoth Triome
 1 Acolyte of Affliction
 1 Thassa, Deep-Dwelling
@@ -367,7 +368,6 @@
 1 Casualties of War
 1 Neoform
 1 Thirsting Shade
-1 Cling to Dust
 1 Vampire Opportunist
 1 Knight of the Ebon Legion
 1 Biomancer's Familiar
@@ -387,12 +387,12 @@
 3 Knight of the Ebon Legion
 3 Biomancer's Familiar
 3 Neoform
-4 Casualties of War
 4 Neoform
 4 Thirsting Shade
 4 Vampire Opportunist
 4 Knight of the Ebon Legion
 4 Biomancer's Familiar
+4 Casualties of War
 8 Swamp
 1 Legion Warboss
 2 Legion Warboss
@@ -402,21 +402,21 @@
 8 Mountain
 8 Plains
 1 Cavalier of Thorns
+1 Dryad of the Ilysian Grove
 1 Voracious Hydra
 1 Chandra, Awakened Inferno
 1 Escape to the Wilds
-1 Dryad of the Ilysian Grove
 2 Cavalier of Thorns
+2 Dryad of the Ilysian Grove
 2 Chandra, Awakened Inferno
 2 Voracious Hydra
 2 Escape to the Wilds
-2 Dryad of the Ilysian Grove
 3 Cultivate
 3 Arboreal Grazer
 3 Cavalier of Thorns
-3 Chandra, Awakened Inferno
-3 Voracious Hydra
 3 Dryad of the Ilysian Grove
+3 Voracious Hydra
+3 Chandra, Awakened Inferno
 4 Cultivate
 4 Arboreal Grazer
 4 Dryad of the Ilysian Grove

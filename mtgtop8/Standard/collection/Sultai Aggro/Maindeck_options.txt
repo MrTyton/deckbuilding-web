@@ -1,6 +1,12 @@
-1 Eliminate
-2 Eliminate
-3 Eliminate
+2 Elder Gargaroth
+1 Hydroid Krasis
+2 Hydroid Krasis
+3 Island
+1 Rewind
+2 Rewind
+4 Nightpack Ambusher
+1 Shark Typhoon
+2 Shark Typhoon
 1 Stonecoil Serpent
 1 The Great Henge
 1 Polukranos, Unchained
@@ -15,6 +21,7 @@
 1 Scavenging Ooze
 2 Scavenging Ooze
 3 Scavenging Ooze
+2 Castle Vantress
 1 Murderous Rider
 1 Liliana, Waker of the Dead
 2 Murderous Rider
@@ -30,10 +37,13 @@
 2 Rotting Regisaur
 3 Rotting Regisaur
 3 Forest
-1 Nissa, Who Shakes the World
-2 Nissa, Who Shakes the World
 1 Mystical Dispute
 2 Mystical Dispute
+1 Aether Gust
+2 Aether Gust
+3 Aether Gust
+1 Nissa, Who Shakes the World
+2 Nissa, Who Shakes the World
 1 Tamiyo, Collector of Tales
 1 Arboreal Grazer
 1 Paradise Druid
@@ -42,10 +52,10 @@
 1 Garruk's Harbinger
 1 Ram Through
 1 Ilysian Caryatid
+2 Polukranos, Unchained
 2 Paradise Druid
 2 Cavalier of Thorns
 2 Voracious Hydra
-2 Polukranos, Unchained
 2 Garruk's Harbinger
 2 Ilysian Caryatid
 3 Garruk's Harbinger
@@ -57,8 +67,8 @@
 1 Assassin's Trophy
 2 Knight of the Ebon Legion
 2 Gemrazer
-2 Assassin's Trophy
 2 Massacre Wurm
+2 Assassin's Trophy
 2 Castle Locthwain
 3 Knight of the Ebon Legion
 3 Stonecoil Serpent
@@ -69,23 +79,37 @@
 1 Frilled Mystic
 1 Spectral Sailor
 1 Lofty Denial
-1 Shark Typhoon
 2 Sea-Dasher Octopus
 2 Frilled Mystic
 2 Spectral Sailor
-2 Shark Typhoon
 3 Spectral Sailor
 3 Frilled Mystic
 4 Spectral Sailor
 4 Brazen Borrower
-1 Demonic Embrace
+1 Narset, Parter of Veils
+1 Essence Scatter
+1 Disdainful Stroke
+1 Heartless Act
+1 Negate
+1 Frantic Inventory
+2 Essence Scatter
+2 Negate
+2 Narset, Parter of Veils
+2 Frantic Inventory
+2 Heartless Act
+3 Shark Typhoon
+3 Narset, Parter of Veils
+3 Frantic Inventory
+4 Shark Typhoon
+4 Frantic Inventory
 1 Glowspore Shaman
 1 Silversmote Ghoul
+1 Demonic Embrace
 1 Ashiok, Dream Render
 1 Merfolk Secretkeeper
 1 Tymaret Calls the Dead
-2 Demonic Embrace
 2 Silversmote Ghoul
+2 Demonic Embrace
 2 Ashiok, Dream Render
 2 Merfolk Secretkeeper
 2 Tymaret Calls the Dead
@@ -98,49 +122,35 @@
 4 Silversmote Ghoul
 4 Merfolk Secretkeeper
 4 Glowspore Shaman
-3 Island
-1 Opt
-1 Thieves' Guild Enforcer
-1 Rewind
-2 Opt
-2 Thieves' Guild Enforcer
-2 Rewind
-3 Thieves' Guild Enforcer
-3 Opt
-3 Swamp
-4 Opt
-4 Nightpack Ambusher
-4 Cunning Nightbonder
-4 Thieves' Guild Enforcer
 4 Forest
 5 Forest
-1 Parcelbeast
+1 Yarok, the Desecrated
 1 Leafkin Druid
+1 Thornwood Falls
+1 Parcelbeast
 1 Vivien, Monsters' Advocate
 1 Jace, Wielder of Mysteries
-1 Jungle Hollow
 1 Evolving Wilds
 1 Neoform
-1 Thornwood Falls
 1 Thassa, Deep-Dwelling
 1 Acolyte of Affliction
+1 Jungle Hollow
 1 Spark Harvest
 1 Cloudkin Seer
 1 Risen Reef
-1 Ob Nixilis's Cruelty
 1 Meteor Golem
 1 Healer of the Glade
-1 Yarok, the Desecrated
 1 Nightveil Predator
 1 Dismal Backwater
+1 Ob Nixilis's Cruelty
 1 Frost Lynx
-2 Parcelbeast
 2 Leafkin Druid
+2 Thornwood Falls
+2 Parcelbeast
 2 Neoform
 2 Evolving Wilds
-2 Jungle Hollow
-2 Thornwood Falls
 2 Acolyte of Affliction
+2 Jungle Hollow
 2 Ob Nixilis's Cruelty
 2 Cloudkin Seer
 2 Nightveil Predator
@@ -159,12 +169,22 @@
 3 Risen Reef
 3 Healer of the Glade
 4 Thornwood Falls
+4 Island
 4 Jungle Hollow
 4 Leafkin Druid
 4 Dismal Backwater
 4 Cloudkin Seer
 4 Risen Reef
-4 Island
+1 Opt
+1 Thieves' Guild Enforcer
+2 Opt
+2 Thieves' Guild Enforcer
+3 Thieves' Guild Enforcer
+3 Opt
+3 Swamp
+4 Opt
+4 Cunning Nightbonder
+4 Thieves' Guild Enforcer
 1 Rankle, Master of Pranks
 1 Drown in the Loch
 1 Commence the Endgame
@@ -172,12 +192,11 @@
 1 Growth Spiral
 1 Skull Prophet
 2 Rankle, Master of Pranks
-2 Enter the God-Eternals
 2 Drown in the Loch
 2 Commence the Endgame
-2 Castle Vantress
 2 Growth Spiral
 2 Skull Prophet
+2 Enter the God-Eternals
 3 Skull Prophet
 3 Growth Spiral
 4 Questing Beast
@@ -185,14 +204,11 @@
 1 Gilded Goose
 1 Wicked Wolf
 1 Gingerbread Cabin
-1 Aether Gust
 1 Trail of Crumbs
-2 Aether Gust
 2 Gilded Goose
 2 Wicked Wolf
 2 Gingerbread Cabin
 2 Trail of Crumbs
-3 Aether Gust
 3 Gilded Goose
 3 Wicked Wolf
 3 Hydroid Krasis
@@ -201,12 +217,12 @@
 3 Trail of Crumbs
 3 Mystical Dispute
 4 Mystical Dispute
-4 Hydroid Krasis
 4 Aether Gust
 4 Nissa, Who Shakes the World
+4 Hydroid Krasis
+4 Gilded Goose
 4 Gingerbread Cabin
 4 Trail of Crumbs
-4 Gilded Goose
 4 Wicked Wolf
 1 Liliana's Triumph
 1 Thief of Sanity
