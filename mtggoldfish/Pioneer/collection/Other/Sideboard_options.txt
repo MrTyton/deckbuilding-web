@@ -62,12 +62,6 @@
 1 Midnight Reaper
 2 Murderous Rider
 2 Midnight Reaper
-1 Questing Beast
-1 Oakhame Adversary
-1 Primal Might
-2 Questing Beast
-2 Primal Might
-2 Oakhame Adversary
 1 Heartless Act
 1 Golgari Charm
 1 Stain the Mind
@@ -85,6 +79,12 @@
 1 Nissa, Vital Force
 2 Extinction Event
 2 Infinite Obliteration
+1 Questing Beast
+1 Primal Might
+1 Oakhame Adversary
+2 Questing Beast
+2 Primal Might
+2 Oakhame Adversary
 1 Reckless Rage
 1 Spell Pierce
 2 Fry
@@ -205,9 +205,9 @@
 2 Bristling Hydra
 3 Gruul Spellbreaker
 4 Magma Spray
-1 Tamiyo, Collector of Tales
 1 Hornet Queen
 1 Entrancing Melody
+1 Tamiyo, Collector of Tales
 2 Return to Nature
 2 Entrancing Melody
 3 Entrancing Melody

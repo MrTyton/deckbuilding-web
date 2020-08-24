@@ -103,8 +103,8 @@
 4 Arcum's Astrolabe
 4 Flooded Strand
 4 Lingering Souls
-4 Marsh Flats
 4 Enlightened Tutor
+4 Marsh Flats
 1 Mox Opal
 1 Emry, Lurker of the Loch
 2 Emry, Lurker of the Loch
@@ -154,13 +154,13 @@
 3 Dark Ritual
 1 Gurmag Angler
 2 Gurmag Angler
-1 Smallpox
 1 Liliana, the Last Hope
 1 Liliana of the Veil
-2 Smallpox
+1 Smallpox
 2 Liliana of the Veil
-3 Smallpox
+2 Smallpox
 3 Liliana of the Veil
+3 Smallpox
 4 Smallpox
 1 Griselbrand
 1 Thespian's Stage
@@ -223,6 +223,7 @@
 1 Plains
 1 Sprite Dragon
 2 Sprite Dragon
+1 Jace, Wielder of Mysteries
 1 Botanical Sanctum
 1 Thought Lash
 1 Thassa's Oracle
@@ -230,14 +231,13 @@
 1 Paradigm Shift
 1 Shelldock Isle
 1 Relic of Progenitus
-1 Jace, Wielder of Mysteries
 2 Thassa's Oracle
 2 Island
 2 Shelldock Isle
 2 Botanical Sanctum
 2 Thought Lash
-2 Spell Pierce
 2 Jace, Wielder of Mysteries
+2 Spell Pierce
 2 Paradigm Shift
 3 Island
 3 Botanical Sanctum
@@ -249,23 +249,23 @@
 4 Thassa's Oracle
 4 Paradigm Shift
 4 Thought Lash
+1 Castle Locthwain
+1 Murderous Rider
 1 Liliana's Triumph
 1 Bloodghast
-1 Castle Locthwain
 1 Field of Ruin
 1 Spinning Darkness
 1 Sinkhole
-1 Murderous Rider
 2 Blast Zone
-2 Castle Locthwain
+2 Murderous Rider
 2 Bloodghast
 2 Liliana, the Last Hope
 2 Liliana's Triumph
 2 Sinkhole
 2 Spinning Darkness
 2 Field of Ruin
-2 Murderous Rider
 2 Ensnaring Bridge
+2 Castle Locthwain
 3 Bloodghast
 3 Field of Ruin
 3 Liliana's Triumph
@@ -301,6 +301,25 @@
 4 Stonecoil Serpent
 4 Tropical Island
 4 Walking Ballista
+1 Gravecrawler
+1 Mutavault
+1 Cabal Pit
+1 Dread Wanderer
+2 Eliminate
+2 Gravecrawler
+2 Dread Wanderer
+2 Mutavault
+3 Gurmag Angler
+3 Eliminate
+3 Hymn to Tourach
+3 Gravecrawler
+3 Dread Wanderer
+3 Mutavault
+4 Hymn to Tourach
+4 Liliana of the Veil
+4 Mutavault
+4 Gravecrawler
+4 Dread Wanderer
 1 Entomb
 2 Entomb
 3 Entomb
@@ -335,13 +354,13 @@
 1 Birds of Paradise
 2 Birds of Paradise
 1 True-Name Nemesis
-1 Collected Company
 1 Deputy of Detention
 1 Soulherder
 1 Vendilion Clique
 1 Eternal Witness
 1 Spell Queller
 1 Edric, Spymaster of Trest
+1 Collected Company
 1 Ice-Fang Coatl
 1 Phantasmal Image
 2 Ice-Fang Coatl
@@ -386,24 +405,24 @@
 4 Knight of the Reliquary
 1 Badlands
 1 Drown in the Loch
-1 Accumulated Knowledge
 1 Improbable Alliance
 1 The Royal Scions
 1 Portent
+1 Accumulated Knowledge
 2 The Royal Scions
 2 Drown in the Loch
-2 Accumulated Knowledge
 2 Improbable Alliance
 2 Portent
 2 Fiery Islet
-3 Accumulated Knowledge
+2 Accumulated Knowledge
 3 The Royal Scions
 3 Improbable Alliance
 3 Portent
+3 Accumulated Knowledge
 3 Fiery Islet
-4 Accumulated Knowledge
 4 Fiery Islet
 4 Improbable Alliance
+4 Accumulated Knowledge
 4 Portent
 2 Red Elemental Blast
 3 Red Elemental Blast
@@ -443,9 +462,9 @@
 3 Scrubland
 3 Mesmeric Fiend
 3 Ghost Quarter
+3 Silent Clearing
 3 Eldrazi Temple
 3 Flickerwisp
-3 Silent Clearing
 3 Mother of Runes
 3 Leonin Arbiter
 3 Aether Vial
@@ -454,9 +473,9 @@
 4 Mesmeric Fiend
 4 Ghost Quarter
 4 Scrubland
+4 Silent Clearing
 4 Swords to Plowshares
 4 Mother of Runes
-4 Silent Clearing
 4 Aether Vial
 4 Leonin Arbiter
 2 Forest
@@ -489,25 +508,6 @@
 4 Exploration
 4 Mox Diamond
 4 Life from the Loam
-1 Mutavault
-1 Cabal Pit
-1 Gravecrawler
-1 Dread Wanderer
-2 Eliminate
-2 Dread Wanderer
-2 Gravecrawler
-2 Mutavault
-3 Gurmag Angler
-3 Eliminate
-3 Hymn to Tourach
-3 Dread Wanderer
-3 Mutavault
-3 Gravecrawler
-4 Hymn to Tourach
-4 Liliana of the Veil
-4 Mutavault
-4 Dread Wanderer
-4 Gravecrawler
 1 Lake of the Dead
 1 Grave Titan
 1 Tendrils of Agony
@@ -747,12 +747,12 @@
 4 Blood Moon
 8 Mountain
 9 Mountain
-1 Putrid Imp
 1 Leyline of the Void
 1 Lightning Greaves
 1 Emrakul, the Promised End
 1 Divest
 1 Rogue's Passage
+1 Putrid Imp
 1 Phage the Untouchable
 2 Putrid Imp
 2 Leyline of the Void
@@ -773,9 +773,10 @@
 11 Swamp
 12 Swamp
 13 Swamp
+1 Imperious Perfect
 1 Llanowar Visionary
-1 Elvish Visionary
 1 Craterhoof Behemoth
+1 Elvish Visionary
 1 Autumn's Veil
 1 Elvish Clancaller
 1 Llanowar Elves
@@ -783,20 +784,19 @@
 1 Elvish Mystic
 1 Elvish Promenade
 1 Archon of Valor's Reach
-1 Imperious Perfect
 1 Elvish Archdruid
 1 Lys Alana Huntmaster
 1 Joraga Warcaller
 1 Dwynen, Gilt-Leaf Daen
 1 Jagged-Scar Archers
 1 Elvish Piper
+2 Imperious Perfect
 2 Craterhoof Behemoth
 2 Llanowar Visionary
 2 Elvish Visionary
 2 Jagged-Scar Archers
 2 Somberwald Sage
 2 Elvish Piper
-2 Imperious Perfect
 2 Joraga Warcaller
 2 Elvish Promenade
 2 Lys Alana Huntmaster
@@ -819,10 +819,10 @@
 4 Elvish Clancaller
 4 Llanowar Elves
 5 Forest
-6 Forest
 7 Forest
 8 Forest
 9 Forest
+10 Forest
 11 Forest
 12 Forest
-10 Forest
+6 Forest

@@ -1,7 +1,4 @@
-1 Teferi, Master of Time
-1 Castle Locthwain
 2 Heartless Act
-2 Dovin's Veto
 4 Oath of Kaya
 1 Agonizing Remorse
 2 Agonizing Remorse
@@ -9,15 +6,16 @@
 2 Doom Foretold
 3 Doom Foretold
 4 Doom Foretold
+1 Castle Ardenvale
 1 Shatter the Sky
+1 Thought Erasure
+1 Glass Casket
 1 Interplanar Beacon
 2 Interplanar Beacon
-1 Glass Casket
-2 Thought Erasure
-3 Thought Erasure
 3 Swamp
 2 Temple of Silence
 4 Temple of Deceit
+2 Dovin's Veto
 1 Dance of the Manse
 1 Aether Gust
 2 Aether Gust
@@ -25,22 +23,22 @@
 3 Agonizing Remorse
 4 Agonizing Remorse
 2 Teferi, Master of Time
-1 Ashiok, Nightmare Muse
 1 Ugin, the Spirit Dragon
 3 Interplanar Beacon
+2 Thought Erasure
+3 Thought Erasure
 3 Temple of Silence
 4 Temple of Silence
-1 Atris, Oracle of Half-Truths
-2 Atris, Oracle of Half-Truths
 3 Island
 2 Glass Casket
 1 Disinformation Campaign
 2 Disinformation Campaign
 1 Cling to Dust
+3 Eliminate
 1 Extinction Event
 2 Extinction Event
 3 Extinction Event
-3 Eliminate
+1 Ashiok, Nightmare Muse
 1 Omen of the Sun
 2 Omen of the Sun
 1 The Birth of Meletis
@@ -48,19 +46,8 @@
 1 Mystical Dispute
 2 Mystical Dispute
 2 Castle Locthwain
-1 Elite Guardmage
-1 Hero of Precinct One
-1 Dire Tactics
-1 Discovery / Dispersal
-2 Elite Guardmage
-2 Hero of Precinct One
-2 Dire Tactics
-3 Hero of Precinct One
-3 Elite Guardmage
-3 Dire Tactics
-3 Atris, Oracle of Half-Truths
-4 Hero of Precinct One
-4 Dire Tactics
+1 Atris, Oracle of Half-Truths
+2 Atris, Oracle of Half-Truths
 3 Shatter the Sky
 1 Liliana, Dreadhorde General
 4 Interplanar Beacon
@@ -74,6 +61,7 @@
 1 Thassa, Deep-Dwelling
 2 Mythos of Illuna
 4 Plains
+1 Elite Guardmage
 1 Banishing Light
 1 Tranquil Cove
 1 Dream Trawler
@@ -176,12 +164,6 @@
 1 Shark Typhoon
 2 Shark Typhoon
 2 Dance of the Manse
-1 Basilica Bell-Haunt
-2 Basilica Bell-Haunt
-2 Thassa, Deep-Dwelling
-3 Basilica Bell-Haunt
-4 Basilica Bell-Haunt
-4 Yorion, Sky Nomad
 1 Ugin, the Ineffable
 1 Despark
 1 Negate
@@ -193,5 +175,23 @@
 2 Ugin, the Spirit Dragon
 2 Ugin, the Ineffable
 2 Negate
-3 Ugin, the Ineffable
 2 Despark
+3 Ugin, the Ineffable
+1 Basilica Bell-Haunt
+2 Basilica Bell-Haunt
+2 Thassa, Deep-Dwelling
+3 Basilica Bell-Haunt
+4 Basilica Bell-Haunt
+4 Yorion, Sky Nomad
+1 Hero of Precinct One
+1 Dire Tactics
+1 Discovery / Dispersal
+2 Elite Guardmage
+2 Hero of Precinct One
+2 Dire Tactics
+3 Hero of Precinct One
+3 Elite Guardmage
+3 Dire Tactics
+4 Hero of Precinct One
+4 Dire Tactics
+3 Atris, Oracle of Half-Truths
