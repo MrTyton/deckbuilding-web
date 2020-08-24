@@ -13,11 +13,14 @@
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 1 Wear / Tear
-1 Chained to the Rocks
 1 Lurrus of the Dream-Den
+1 Chained to the Rocks
 2 Chained to the Rocks
 2 Wear / Tear
 3 Chained to the Rocks
+1 Rending Volley
+2 Rending Volley
+3 Damping Sphere
 1 Abbot of Keral Keep
 1 Fight as One
 1 Satyr Firedancer
@@ -25,9 +28,6 @@
 2 Abbot of Keral Keep
 3 Abbot of Keral Keep
 3 Wear / Tear
-1 Rending Volley
-2 Rending Volley
-3 Damping Sphere
 1 Eidolon of the Great Revel
 2 Eidolon of the Great Revel
 3 Eidolon of the Great Revel
@@ -35,12 +35,6 @@
 2 Ash Zealot
 3 Fry
 3 Ash Zealot
-1 Glorybringer
-1 Burning Earth
-2 Glorybringer
-2 Burning Earth
-3 Glorybringer
-4 Glorybringer
 1 Anax, Hardened in the Forge
 1 Chandra, Heart of Fire
 2 Hazoret the Fervent
@@ -48,10 +42,16 @@
 2 Chandra, Heart of Fire
 3 Soul-Guide Lantern
 4 Soul-Guide Lantern
+1 Glorybringer
+1 Burning Earth
+2 Glorybringer
+2 Burning Earth
+3 Glorybringer
+4 Glorybringer
 1 Skullcrack
 2 Skullcrack
-3 Skullcrack
 3 Searing Blood
+3 Skullcrack
 4 Chained to the Rocks
 4 Searing Blood
 4 Skullcrack

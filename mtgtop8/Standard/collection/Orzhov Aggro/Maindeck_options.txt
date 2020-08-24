@@ -8,28 +8,28 @@
 3 Scoured Barrens
 4 Scoured Barrens
 9 Swamp
-1 Revitalize
-1 Light of Hope
-1 Griffin Aerie
 1 Basilica Bell-Haunt
+1 Griffin Aerie
+1 Light of Hope
+1 Revitalize
 1 Silversmote Ghoul
 1 Indulging Patrician
-2 Revitalize
-2 Light of Hope
-2 Griffin Aerie
-2 Silversmote Ghoul
 2 Basilica Bell-Haunt
+2 Griffin Aerie
+2 Light of Hope
+2 Revitalize
+2 Silversmote Ghoul
 2 Indulging Patrician
 3 Revitalize
-3 Light of Hope
 3 Griffin Aerie
+3 Light of Hope
 3 Silversmote Ghoul
 3 Indulging Patrician
-4 Light of Hope
 4 Revitalize
+4 Griffin Aerie
+4 Light of Hope
 4 Indulging Patrician
 4 Silversmote Ghoul
-4 Griffin Aerie
 1 Ajani's Pridemate
 1 Orzhov Guildgate
 2 Ajani's Pridemate
@@ -44,21 +44,21 @@
 1 Eliminate
 2 Eliminate
 3 Eliminate
-1 Demonic Embrace
 1 Seasoned Hallowblade
-2 Demonic Embrace
-2 Knight of the Ebon Legion
+1 Demonic Embrace
 2 Seasoned Hallowblade
-3 Temple of Silence
-3 Knight of the Ebon Legion
-3 Demonic Embrace
+2 Knight of the Ebon Legion
+2 Demonic Embrace
 3 Seasoned Hallowblade
-4 Temple of Silence
-4 Knight of the Ebon Legion
+3 Demonic Embrace
+3 Knight of the Ebon Legion
+3 Temple of Silence
 4 Seasoned Hallowblade
+4 Knight of the Ebon Legion
+4 Temple of Silence
 1 Elspeth, Sun's Nemesis
-1 Dire Tactics
 1 General's Enforcer
+1 Dire Tactics
 1 General Kudro of Drannith
 2 General's Enforcer
 2 Dire Tactics
@@ -70,52 +70,103 @@
 1 Lavabrink Venturer
 1 Kitesail Freebooter
 1 Rankle, Master of Pranks
-2 Lavabrink Venturer
 2 Elspeth, Sun's Nemesis
+2 Lavabrink Venturer
 2 Rankle, Master of Pranks
 2 Kitesail Freebooter
 3 Rankle, Master of Pranks
 3 Lavabrink Venturer
 3 Kitesail Freebooter
-4 General Kudro of Drannith
-4 Lavabrink Venturer
 4 Demonic Embrace
+4 Lavabrink Venturer
+4 General Kudro of Drannith
 4 Kitesail Freebooter
 1 Heartless Act
 1 Consecrate / Consume
 1 Faith's Fetters
-2 Consecrate / Consume
 2 Heartless Act
+2 Consecrate / Consume
 3 Heartless Act
 3 Orzhov Guildgate
 4 Orzhov Guildgate
 1 Alseid of Life's Bounty
-1 Memory Leak
-1 Hateful Eidolon
-1 Dead Weight
 1 Archfiend's Vessel
+1 Memory Leak
+1 Dead Weight
+1 Hateful Eidolon
 1 Kaya's Ghostform
 1 Shadowspear
+1 Mire's Grasp
 1 Omen of the Dead
 1 Murder
 1 Lampad of Death's Vigil
-1 Mire's Grasp
 2 Alseid of Life's Bounty
 2 Memory Leak
-2 Hateful Eidolon
 2 Archfiend's Vessel
+2 Mire's Grasp
+2 Hateful Eidolon
 2 Murder
 2 Kaya's Ghostform
-2 Mire's Grasp
 2 Lampad of Death's Vigil
-3 Alseid of Life's Bounty
-3 Archfiend's Vessel
 3 Mire's Grasp
+3 Archfiend's Vessel
 3 Kaya's Ghostform
+3 Alseid of Life's Bounty
 3 Lampad of Death's Vigil
 4 Archfiend's Vessel
 4 Alseid of Life's Bounty
 4 Kaya's Ghostform
+1 Tithe Taker
+1 Haazda Marshal
+1 Icon of Ancestry
+1 Venerable Knight
+1 Basri Ket
+1 Disfigure
+1 Castle Ardenvale
+1 Adherent of Hope
+1 Giant Killer
+2 Castle Ardenvale
+2 Tithe Taker
+2 Haazda Marshal
+2 Venerable Knight
+2 Disfigure
+2 Basri Ket
+2 Icon of Ancestry
+2 Adherent of Hope
+3 Tithe Taker
+3 Basri Ket
+3 Venerable Knight
+3 Disfigure
+3 Icon of Ancestry
+3 Adherent of Hope
+3 Haazda Marshal
+4 Tithe Taker
+4 Venerable Knight
+4 Dire Tactics
+4 Haazda Marshal
+1 Gutterbones
+1 Hunted Nightmare
+1 Spawn of Mayhem
+1 Grasp of Darkness
+1 Rotting Regisaur
+1 Blacklance Paragon
+1 Murderous Rider
+2 Gutterbones
+2 Hunted Nightmare
+2 Spawn of Mayhem
+2 Rotting Regisaur
+2 Murderous Rider
+2 Blacklance Paragon
+3 Blacklance Paragon
+3 Spawn of Mayhem
+3 Gutterbones
+3 Rotting Regisaur
+4 Blacklance Paragon
+4 Gutterbones
+4 Rotting Regisaur
+4 Eliminate
+4 Spawn of Mayhem
+10 Swamp
 1 Duress
 1 Gideon Blackblade
 1 Ajani, Strength of the Pride
@@ -128,54 +179,3 @@
 3 Anointed Chorister
 4 Healer's Hawk
 10 Plains
-1 Gutterbones
-1 Spawn of Mayhem
-1 Hunted Nightmare
-1 Grasp of Darkness
-1 Rotting Regisaur
-1 Blacklance Paragon
-1 Murderous Rider
-2 Gutterbones
-2 Spawn of Mayhem
-2 Hunted Nightmare
-2 Rotting Regisaur
-2 Murderous Rider
-2 Blacklance Paragon
-3 Blacklance Paragon
-3 Gutterbones
-3 Rotting Regisaur
-3 Spawn of Mayhem
-4 Blacklance Paragon
-4 Spawn of Mayhem
-4 Gutterbones
-4 Rotting Regisaur
-4 Eliminate
-10 Swamp
-1 Haazda Marshal
-1 Disfigure
-1 Icon of Ancestry
-1 Tithe Taker
-1 Basri Ket
-1 Castle Ardenvale
-1 Adherent of Hope
-1 Giant Killer
-1 Venerable Knight
-2 Venerable Knight
-2 Castle Ardenvale
-2 Disfigure
-2 Haazda Marshal
-2 Basri Ket
-2 Tithe Taker
-2 Icon of Ancestry
-2 Adherent of Hope
-3 Venerable Knight
-3 Basri Ket
-3 Disfigure
-3 Tithe Taker
-3 Icon of Ancestry
-3 Adherent of Hope
-3 Haazda Marshal
-4 Venerable Knight
-4 Dire Tactics
-4 Tithe Taker
-4 Haazda Marshal

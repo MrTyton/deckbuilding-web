@@ -11,25 +11,25 @@
 4 Thoughtseize
 1 Dragonskull Summit
 1 Kroxa, Titan of Death's Hunger
-2 Kroxa, Titan of Death's Hunger
 2 Dragonskull Summit
+2 Kroxa, Titan of Death's Hunger
 3 Dragonskull Summit
-4 Blood Crypt
 4 Dragonskull Summit
+4 Blood Crypt
 1 Fabled Passage
 2 Fabled Passage
-1 Claim / Fame
-1 Village Rites
 1 Foreboding Ruins
 1 Young Pyromancer
+1 Claim / Fame
+1 Village Rites
 2 Foreboding Ruins
 2 Young Pyromancer
 2 Claim / Fame
 2 Village Rites
+3 Foreboding Ruins
 3 Young Pyromancer
 3 Village Rites
 3 Claim / Fame
-3 Foreboding Ruins
 4 Foreboding Ruins
 4 Village Rites
 2 Temple Garden
@@ -114,15 +114,15 @@
 4 Plains
 5 Plains
 1 Field of Ruin
-1 Radiant Fountain
+1 Charming Prince
 1 Prophet of Kruphix
 1 Llanowar Visionary
+1 Radiant Fountain
 1 Knight of Autumn
 1 Sporeweb Weaver
-1 Charming Prince
-1 Fairgrounds Warden
 1 Chord of Calling
 1 Voice of Resurgence
+1 Fairgrounds Warden
 2 Chord of Calling
 2 Llanowar Visionary
 2 Prophet of Kruphix
@@ -142,33 +142,33 @@
 1 Shanna, Sisay's Legacy
 2 Shanna, Sisay's Legacy
 4 Rogue Refiner
-1 Fiend Artisan
 1 Mire Triton
+1 Fiend Artisan
 1 Bloodsoaked Champion
 1 Knight of the Ebon Legion
-2 Fiend Artisan
 2 Mire Triton
+2 Fiend Artisan
 2 Knight of the Ebon Legion
 2 Bloodsoaked Champion
 3 Fiend Artisan
 3 Mire Triton
 3 Knight of the Ebon Legion
 3 Bloodsoaked Champion
-4 Fiend Artisan
 4 Mire Triton
+4 Fiend Artisan
 4 Bloodsoaked Champion
 1 Dreadbore
-1 Call of the Death-Dweller
-1 Archfiend's Vessel
-1 Wild Slash
 1 Dreadhorde Arcanist
+1 Call of the Death-Dweller
+1 Wild Slash
+1 Archfiend's Vessel
 2 Dreadbore
-2 Wild Slash
 2 Call of the Death-Dweller
 2 Dreadhorde Arcanist
+2 Wild Slash
+3 Dreadhorde Arcanist
 3 Wild Slash
 3 Call of the Death-Dweller
-3 Dreadhorde Arcanist
 4 Young Pyromancer
 4 Dreadhorde Arcanist
 1 Lurrus of the Dream-Den
@@ -224,15 +224,16 @@
 4 Overgrown Tomb
 4 Blooming Marsh
 1 Gilded Goose
+1 Mayhem Devil
 1 Priest of Forgotten Gods
 1 Catacomb Sifter
+1 Llanowar Wastes
 1 Blisterpod
 1 Bolas's Citadel
-1 Llanowar Wastes
 1 Zulaport Cutthroat
 1 Woe Strider
 1 Stomping Ground
-1 Mayhem Devil
+2 Mayhem Devil
 2 Llanowar Wastes
 2 Priest of Forgotten Gods
 2 Blisterpod
@@ -241,29 +242,28 @@
 2 Woe Strider
 2 Bolas's Citadel
 2 Gilded Goose
-2 Mayhem Devil
 2 Stomping Ground
 3 Llanowar Wastes
+3 Gilded Goose
 3 Zulaport Cutthroat
 3 Woe Strider
+3 Mayhem Devil
 3 Catacomb Sifter
 3 Blisterpod
 3 Priest of Forgotten Gods
 3 Bolas's Citadel
-3 Mayhem Devil
-3 Gilded Goose
 3 Stomping Ground
 4 Blisterpod
+4 Gilded Goose
 4 Bolas's Citadel
 4 Zulaport Cutthroat
 4 Woe Strider
+4 Mayhem Devil
 4 Catacomb Sifter
 4 Priest of Forgotten Gods
-4 Gilded Goose
-4 Mayhem Devil
 4 Stomping Ground
-1 Elspeth's Nightmare
 1 Chandra, Torch of Defiance
+1 Elspeth's Nightmare
 1 Ox of Agonas
 1 Kolaghan's Command
 1 Ritual of Soot
@@ -280,9 +280,11 @@
 4 Kroxa, Titan of Death's Hunger
 4 Mountain
 4 Bonecrusher Giant
+1 Prized Amalgam
 1 Merfolk Secretkeeper
-1 Brokkos, Apex of Forever
 1 Breaking / Entering
+1 Creeping Chill
+1 Brokkos, Apex of Forever
 1 Silversmote Ghoul
 1 Satyr Wayfinder
 1 Grisly Salvage
@@ -290,38 +292,36 @@
 1 Scrapheap Scrounger
 1 Haunted Dead
 1 Uro, Titan of Nature's Wrath
-1 Prized Amalgam
-1 Creeping Chill
 1 Breeding Pool
+2 Creeping Chill
 2 Botanical Sanctum
+2 Prized Amalgam
 2 Merfolk Secretkeeper
 2 Breaking / Entering
+2 Silversmote Ghoul
 2 Satyr Wayfinder
 2 Narcomoeba
-2 Creeping Chill
 2 Haunted Dead
-2 Silversmote Ghoul
 2 Grisly Salvage
 2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
-2 Prized Amalgam
+3 Silversmote Ghoul
+3 Creeping Chill
 3 Grisly Salvage
+3 Prized Amalgam
 3 Merfolk Secretkeeper
 3 Haunted Dead
 3 Satyr Wayfinder
-3 Silversmote Ghoul
 3 Uro, Titan of Nature's Wrath
 3 Breeding Pool
-3 Prized Amalgam
 3 Botanical Sanctum
-3 Creeping Chill
+4 Creeping Chill
 4 Merfolk Secretkeeper
+4 Silversmote Ghoul
+4 Prized Amalgam
 4 Grisly Salvage
 4 Breeding Pool
-4 Prized Amalgam
-4 Silversmote Ghoul
 4 Botanical Sanctum
-4 Creeping Chill
 4 Satyr Wayfinder
 1 Fetid Pools
 1 Tasigur, the Golden Fang
@@ -379,22 +379,22 @@
 1 Dromoka's Command
 1 Stonecoil Serpent
 1 Rishkar, Peema Renegade
+2 Stonecoil Serpent
 2 Voracious Hydra
 2 Hardened Scales
-2 Pelt Collector
 2 Nissa, Voice of Zendikar
+2 Pelt Collector
 2 Hangarback Walker
 2 Dromoka's Command
 2 Rishkar, Peema Renegade
-2 Stonecoil Serpent
+3 Stonecoil Serpent
 3 Hangarback Walker
+3 Pelt Collector
 3 Hardened Scales
 3 Nissa, Voice of Zendikar
-3 Pelt Collector
-3 Stonecoil Serpent
 3 Voracious Hydra
 3 Rishkar, Peema Renegade
-4 Hardened Scales
 4 Stonecoil Serpent
+4 Hardened Scales
 8 Forest
 9 Forest

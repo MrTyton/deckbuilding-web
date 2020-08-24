@@ -1,29 +1,33 @@
-1 Lion's Eye Diamond
-4 Goblin Engineer
+1 Chandra, Torch of Defiance
 3 Red Elemental Blast
 2 Chandra, Torch of Defiance
 3 Simian Spirit Guide
 4 Simian Spirit Guide
 2 Great Furnace
 3 Great Furnace
-4 Goblin Welder
 10 Snow-Covered Mountain
+4 Goblin Engineer
+4 Goblin Welder
 4 Blood Moon
-4 Arcum's Astrolabe
 1 Stonecoil Serpent
 1 Soul-Guide Lantern
 1 Ichor Wellspring
 1 Sundering Titan
 1 Mox Opal
-2 Mox Opal
-4 Grindstone
-2 Seasoned Pyromancer
 1 Mountain
 2 Mountain
 3 Mountain
 4 Mountain
+4 Arcum's Astrolabe
+2 Mox Opal
+4 Grindstone
+2 Seasoned Pyromancer
 1 Dire Fleet Daredevil
 3 Mox Opal
+4 Karn, the Great Creator
+1 Wooded Foothills
+2 Wooded Foothills
+1 Smuggler's Copter
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
@@ -34,28 +38,24 @@
 6 Mountain
 7 Mountain
 8 Mountain
-1 Smuggler's Copter
 3 Lotus Petal
-4 Lotus Petal
-4 Karn, the Great Creator
-1 Wooded Foothills
-2 Wooded Foothills
-2 Smuggler's Copter
 1 Bloodstained Mire
+2 Bloodstained Mire
+2 Smuggler's Copter
+1 Plateau
+4 Lotus Petal
 11 Snow-Covered Mountain
 1 Walking Ballista
 2 Ensnaring Bridge
-2 Bloodstained Mire
 3 Bloodstained Mire
+1 Ethersworn Canonist
+2 Plateau
 1 Abrade
+1 Wurmcoil Engine
+12 Snow-Covered Mountain
 1 Enlightened Tutor
 2 Enlightened Tutor
 3 Enlightened Tutor
-1 Plateau
-1 Wurmcoil Engine
-12 Snow-Covered Mountain
-1 Ethersworn Canonist
-2 Plateau
 1 Aether Vial
 1 Lodestone Golem
 1 Spellskite
@@ -69,39 +69,28 @@
 3 Tangle Wire
 4 Aether Vial
 4 Tangle Wire
-2 Abrade
-1 Snow-Covered Plains
-1 Arid Mesa
-1 Urza's Bauble
-1 Karakas
-2 Arid Mesa
-2 Karakas
 1 Lightning Bolt
-1 Snow-Covered Swamp
-1 Prismatic Vista
-1 Pyrite Spellbomb
-1 Engineered Explosives
-1 Kolaghan's Command
-2 Prismatic Vista
-2 Urza's Bauble
-2 Kolaghan's Command
-3 Prismatic Vista
-3 Urza's Bauble
-4 Urza's Bauble
-4 Prismatic Vista
+2 Abrade
+3 Wooded Foothills
 1 Solemn Simulacrum
 1 Sparkhunter Masticore
 1 Blood Sun
 1 Jaya Ballard, Task Mage
 2 Blood Sun
 1 Sevinne's Reclamation
+1 Snow-Covered Plains
+1 Arid Mesa
 1 Mishra's Bauble
+1 Urza's Bauble
 1 Mother of Runes
 1 Swords to Plowshares
+1 Karakas
 2 Snow-Covered Plains
+2 Arid Mesa
 2 Sevinne's Reclamation
 2 Swords to Plowshares
 2 Mishra's Bauble
+2 Karakas
 3 Snow-Covered Plains
 3 Arid Mesa
 3 Mishra's Bauble
@@ -113,7 +102,6 @@
 1 Veil of Summer
 1 Chandra, Awakened Inferno
 2 Veil of Summer
-3 Wooded Foothills
 3 Seasoned Pyromancer
 4 Wooded Foothills
 1 Grim Monolith
@@ -124,5 +112,9 @@
 2 Liquimetal Coating
 3 Grim Monolith
 3 Shenanigans
-13 Snow-Covered Mountain
 3 Liquimetal Coating
+13 Snow-Covered Mountain
+2 Lightning Bolt
+3 Smuggler's Copter
+3 Lightning Bolt
+4 Lightning Bolt

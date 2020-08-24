@@ -9,8 +9,8 @@
 1 Mystical Dispute
 2 Mystical Dispute
 2 Negate
-3 Negate
 3 Essence Scatter
+3 Negate
 4 Essence Scatter
 4 Omen of the Sea
 9 Swamp
@@ -20,6 +20,7 @@
 1 Opt
 2 Opt
 4 Chemister's Insight
+1 Teferi, Master of Time
 1 Mobilized District
 1 Neutralize
 1 Zagoth Triome
@@ -28,7 +29,6 @@
 1 Extinction Event
 1 Heartless Act
 1 Eat to Extinction
-1 Teferi, Master of Time
 1 Agonizing Remorse
 1 Fabled Passage
 1 Castle Vantress
@@ -37,12 +37,12 @@
 1 Temple of Deceit
 1 Shark Typhoon
 1 Murderous Rider
+2 Teferi, Master of Time
 2 Neutralize
 2 Thought Erasure
 2 Watery Grave
 2 Temple of Deceit
 2 Extinction Event
-2 Teferi, Master of Time
 2 Agonizing Remorse
 2 Shark Typhoon
 2 Fabled Passage
@@ -54,8 +54,8 @@
 4 Temple of Deceit
 1 Merfolk Secretkeeper
 1 Drown in the Loch
-1 Teferi's Tutelage
 1 Thought Collapse
+1 Teferi's Tutelage
 1 Pestilent Haze
 2 Merfolk Secretkeeper
 2 Into the Story
@@ -63,13 +63,13 @@
 2 Thought Collapse
 2 Teferi's Tutelage
 2 Pestilent Haze
+3 Thought Collapse
 3 Merfolk Secretkeeper
 3 Teferi's Tutelage
 3 Drown in the Loch
 3 Pestilent Haze
-3 Thought Collapse
 4 Merfolk Secretkeeper
-4 Drown in the Loch
-4 Pestilent Haze
-9 Island
 4 Thought Collapse
+4 Drown in the Loch
+9 Island
+4 Pestilent Haze

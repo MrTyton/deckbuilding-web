@@ -3,7 +3,9 @@
 2 Dig Through Time
 1 Opt
 2 Opt
+3 Opt
 3 Island
+4 Opt
 1 Hinterland Harbor
 2 Hinterland Harbor
 2 Neutralize
@@ -15,21 +17,20 @@
 2 Sinister Sabotage
 2 Temple of Mystery
 2 Torrential Gearhulk
-3 Temple of Mystery
-4 Island
-3 Opt
-4 Opt
 3 Sublime Epiphany
+3 Temple of Mystery
 4 Temple of Mystery
+4 Island
+4 Shark Typhoon
 3 Hinterland Harbor
 1 Brazen Borrower
 2 Brazen Borrower
-4 Shark Typhoon
 4 Rootbound Crag
-1 Lumbering Falls
+2 Stomping Ground
 1 Aetherspouts
 2 Aetherspouts
 3 Blast Zone
+1 Lumbering Falls
 1 Frantic Inventory
 1 Sulfur Falls
 1 Scorching Dragonfire
@@ -39,27 +40,31 @@
 3 Scorching Dragonfire
 4 Frantic Inventory
 4 Scorching Dragonfire
+1 Izzet Charm
+2 Izzet Charm
+3 Stomping Ground
 2 Aether Gust
-2 Stomping Ground
 4 Fabled Passage
 1 Hallowed Fountain
-1 Sphinx's Revelation
 1 Teferi, Time Raveler
+1 Sphinx's Revelation
 1 Temple Garden
 1 Plains
 2 Teferi, Time Raveler
 2 Temple Garden
 3 Teferi, Time Raveler
 1 Search for Azcanta
+1 Temple of Epiphany
 1 Thassa's Intervention
 1 Sweltering Suns
 2 Sweltering Suns
 3 Sweltering Suns
+4 Anger of the Gods
+1 Castle Ardenvale
 1 Sunpetal Grove
 1 Azorius Charm
 1 Supreme Verdict
 1 Dovin's Veto
-1 Castle Ardenvale
 1 Teferi, Hero of Dominaria
 1 Glacial Fortress
 2 Hallowed Fountain
@@ -75,22 +80,18 @@
 3 Glacial Fortress
 3 Sphinx's Revelation
 4 Hallowed Fountain
-4 Anger of the Gods
-1 Izzet Charm
 1 Storm's Wrath
-2 Izzet Charm
-3 Dig Through Time
 3 Izzet Charm
-3 Stomping Ground
+3 Dig Through Time
 4 Dig Through Time
-4 Izzet Charm
 4 Stomping Ground
+4 Izzet Charm
 1 Deafening Clarion
 1 Kenrith, the Returned King
 1 Satyr Wayfinder
 1 Raugrin Triome
-2 Deafening Clarion
 2 Raugrin Triome
+2 Deafening Clarion
 2 Satyr Wayfinder
 3 Raugrin Triome
 3 Deafening Clarion
@@ -101,7 +102,3 @@
 4 Teferi, Time Raveler
 4 Satyr Wayfinder
 4 Uro, Titan of Nature's Wrath
-1 Teferi, Master of Time
-2 Teferi, Master of Time
-2 Lumbering Falls
-5 Island

@@ -9,8 +9,8 @@
 2 Island
 4 Narset, Parter of Veils
 1 Chained to the Rocks
-2 Chained to the Rocks
 2 Omen of the Sun
+2 Chained to the Rocks
 3 Chained to the Rocks
 2 Castle Vantress
 3 Elspeth Conquers Death
@@ -32,9 +32,9 @@
 2 Irrigated Farmland
 3 Irrigated Farmland
 1 Geier Reach Sanitarium
-1 Clifftop Retreat
 1 Narset of the Ancient Way
 1 Interplanar Beacon
+1 Clifftop Retreat
 1 Teferi, Hero of Dominaria
 2 Interplanar Beacon
 3 Interplanar Beacon
@@ -53,20 +53,20 @@
 2 Baffling End
 3 Oath of Chandra
 1 Day's Undoing
-1 Elspeth, Sun's Champion
-1 Fae of Wishes
-1 Temple of Triumph
-1 Temple of Epiphany
 1 Chance for Glory
-1 Detention Sphere
+1 Temple of Triumph
 1 Oath of Teferi
-2 Clifftop Retreat
-2 Fae of Wishes
+1 Fae of Wishes
+1 Temple of Epiphany
+1 Elspeth, Sun's Champion
+1 Detention Sphere
 2 Day's Undoing
+2 Fae of Wishes
+2 Clifftop Retreat
 2 Chance for Glory
 3 Fae of Wishes
-3 Chance for Glory
 3 Glacial Fortress
+3 Chance for Glory
 4 Fae of Wishes
 1 Blood Crypt
 1 Dreadbore
@@ -74,53 +74,53 @@
 1 Watery Grave
 1 Drowned Catacomb
 2 Dreadbore
-1 Search for Azcanta
 1 Nicol Bolas, the Ravager
+1 Search for Azcanta
 1 Fetid Pools
+1 Canyon Slough
+1 Chandra, Torch of Defiance
 1 Sweltering Suns
 1 Dragonskull Summit
-1 Canyon Slough
-1 Aetherling
 1 Kalitas, Traitor of Ghet
-1 Chandra, Torch of Defiance
+1 Aetherling
 1 Fatal Push
 1 Thought Erasure
+2 Dragonskull Summit
 2 Nicol Bolas, the Ravager
 2 Canyon Slough
 2 Search for Azcanta
 2 Sweltering Suns
-2 Kalitas, Traitor of Ghet
 2 Chandra, Torch of Defiance
 2 Blood Crypt
+2 Kalitas, Traitor of Ghet
 2 Fatal Push
 2 Watery Grave
 2 Drowned Catacomb
 2 Thought Erasure
-2 Dragonskull Summit
 3 Fatal Push
+3 Dragonskull Summit
+3 Sulfur Falls
 3 Jace, Architect of Thought
 3 Sweltering Suns
-3 Thought Erasure
-3 Dragonskull Summit
-3 Dreadbore
-3 Sulfur Falls
 3 Blood Crypt
+3 Thought Erasure
+3 Dreadbore
 3 Watery Grave
 3 Drowned Catacomb
 4 Fatal Push
 4 Thought Erasure
-4 Blood Crypt
-4 Sweltering Suns
-4 Drowned Catacomb
 4 Dragonskull Summit
 4 Sulfur Falls
+4 Sweltering Suns
+4 Blood Crypt
+4 Drowned Catacomb
 4 Watery Grave
 1 Karn, the Great Creator
 2 Savai Triome
 2 Karn, the Great Creator
 3 Karn, the Great Creator
-4 Chained to the Rocks
 4 Omen of the Sun
+4 Chained to the Rocks
 4 Karn, the Great Creator
 1 Mazemind Tome
 1 Transmogrify
@@ -133,6 +133,7 @@
 1 Woodland Cemetery
 1 Hinterland Harbor
 1 Siege Rhino
+1 Botanical Sanctum
 1 Abrupt Decay
 1 Yorion, Sky Nomad
 1 Overgrown Tomb
@@ -149,7 +150,6 @@
 1 Sunpetal Grove
 1 Mana Confluence
 1 Breeding Pool
-1 Botanical Sanctum
 1 Enigmatic Incarnation
 1 Slaughter Games
 1 Bring to Light

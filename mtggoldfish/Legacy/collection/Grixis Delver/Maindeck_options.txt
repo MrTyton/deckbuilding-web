@@ -1,5 +1,6 @@
 1 Bloodstained Mire
 2 Bloodstained Mire
+1 Island
 1 Bedlam Reveler
 1 Pyroblast
 2 Bedlam Reveler
@@ -8,51 +9,52 @@
 1 Spell Pierce
 2 Of One Mind
 3 Young Pyromancer
-1 Island
-1 Snapcaster Mage
 3 Polluted Delta
 3 Scalding Tarn
-1 Mystic Sanctuary
+1 Snapcaster Mage
+1 Fiery Islet
 4 Scalding Tarn
-1 Kolaghan's Command
 1 Badlands
 1 Drown in the Loch
-1 Plague Engineer
 1 Swamp
+4 Polluted Delta
+1 Accumulated Knowledge
+2 Accumulated Knowledge
+3 Accumulated Knowledge
+4 Accumulated Knowledge
+1 Mystic Sanctuary
+1 Baleful Strix
+2 Baleful Strix
+3 Baleful Strix
+1 Kolaghan's Command
+1 Plague Engineer
 2 Snapcaster Mage
 2 Island
 3 Snapcaster Mage
-4 Polluted Delta
-1 Fiery Islet
-1 Accumulated Knowledge
 1 Magmatic Sinkhole
 1 Stifle
 1 Teferi, Time Raveler
 1 Counterspell
 1 Tundra
 1 Swords to Plowshares
-2 Accumulated Knowledge
 2 Mystic Sanctuary
 2 Stifle
 2 Teferi, Time Raveler
 2 Swords to Plowshares
 2 Tundra
-3 Accumulated Knowledge
 3 Tundra
 3 Swords to Plowshares
-4 Accumulated Knowledge
 2 Brazen Borrower
 3 Flooded Strand
 1 True-Name Nemesis
 1 Liliana, the Last Hope
 1 Hymn to Tourach
-1 Baleful Strix
-2 Kolaghan's Command
 2 Hymn to Tourach
 2 Swamp
-2 Baleful Strix
+2 Kolaghan's Command
 3 Kolaghan's Command
-3 Baleful Strix
+2 Drown in the Loch
+4 Baleful Strix
 1 Jace, the Mind Sculptor
 1 Creeping Tar Pit
 1 Murderous Rider
@@ -61,10 +63,8 @@
 2 Murderous Rider
 2 True-Name Nemesis
 2 Plague Engineer
-4 Baleful Strix
 1 Narset, Parter of Veils
 1 Angrath's Rampage
-2 Drown in the Loch
 2 Badlands
 2 Narset, Parter of Veils
 2 Angrath's Rampage
@@ -93,4 +93,21 @@
 3 Uro, Titan of Nature's Wrath
 3 Dack Fayden
 4 Assassin's Trophy
+1 Portent
+1 Improbable Alliance
+1 The Royal Scions
+1 Cabal Therapy
+2 Fiery Islet
+2 Portent
+2 Improbable Alliance
+2 The Royal Scions
+2 Cabal Therapy
+3 Fiery Islet
+3 Improbable Alliance
+3 Portent
+3 The Royal Scions
+3 Cabal Therapy
+4 Portent
+4 Fiery Islet
+4 Improbable Alliance
 4 Flooded Strand

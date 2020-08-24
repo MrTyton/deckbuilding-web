@@ -1,50 +1,49 @@
-1 Portent
-2 Portent
+2 Island
 3 Island
 2 Plains
-5 Snow-Covered Island
-4 Island
 1 Spell Pierce
+4 Island
+3 Jace, the Mind Sculptor
+5 Snow-Covered Island
 1 Prismatic Vista
-6 Snow-Covered Island
-3 Polluted Delta
 1 Dovin's Veto
-5 Island
+6 Snow-Covered Island
 2 Force of Negation
+2 Prismatic Vista
+3 Polluted Delta
+5 Island
+1 Misty Rainforest
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
-2 Prismatic Vista
 2 Dovin's Veto
+3 Prismatic Vista
+4 Prismatic Vista
+1 Preordain
+1 Snow-Covered Mountain
+4 Polluted Delta
 3 Scalding Tarn
 4 Scalding Tarn
 2 Narset, Parter of Veils
-1 Misty Rainforest
-1 Snow-Covered Mountain
-1 Preordain
-3 Prismatic Vista
-4 Prismatic Vista
-4 Polluted Delta
-1 Supreme Verdict
-1 Spell Snare
 2 Back to Basics
 1 Lightning Bolt
 2 Lightning Bolt
+1 Monastery Mentor
+1 Supreme Verdict
 2 Council's Judgment
 2 Karakas
+1 Spell Snare
+2 Misty Rainforest
 1 Teferi, Master of Time
 3 Arcum's Astrolabe
 1 Sevinne's Reclamation
-1 Monastery Mentor
 3 Predict
 3 Counterbalance
 1 True-Name Nemesis
-2 Volcanic Island
 1 Batterskull
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 1 Underground Sea
-2 Misty Rainforest
 1 Arid Mesa
 1 Sword of Fire and Ice
 1 Vendilion Clique
@@ -60,19 +59,15 @@
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
+2 Volcanic Island
 1 Umezawa's Jitte
 1 Swamp
 2 Spell Pierce
 2 Entreat the Angels
+2 Monastery Mentor
 1 Baleful Strix
 2 Baleful Strix
 2 Counterspell
-1 Rest in Peace
-2 Rest in Peace
-2 Supreme Verdict
-3 Rest in Peace
-2 Spell Snare
-3 Tundra
 1 Personal Tutor
 1 Plague Engineer
 3 Teferi, Time Raveler
@@ -87,12 +82,17 @@
 3 Baleful Strix
 4 Baleful Strix
 1 Academy Ruins
-1 Path to Exile
+1 Rest in Peace
 1 The Elderspell
+1 Path to Exile
 1 Lavabrink Venturer
 1 Scrubland
+2 Rest in Peace
+2 Supreme Verdict
 2 Lavabrink Venturer
 2 The Elderspell
+3 Rest in Peace
+1 Prime Speaker Vannifar
 1 Wurmcoil Engine
 1 Noble Hierarch
 1 Dryad Arbor
@@ -108,7 +108,6 @@
 1 Forest
 1 Abrupt Decay
 1 Verdant Catacombs
-1 Prime Speaker Vannifar
 1 Abyssal Gatekeeper
 1 Scavenging Ooze
 1 Oko, Thief of Crowns
@@ -151,15 +150,8 @@
 1 Search for Azcanta
 1 Brazen Borrower
 2 Accumulated Knowledge
-2 Monastery Mentor
 3 Accumulated Knowledge
 4 Accumulated Knowledge
-1 Enlightened Tutor
-1 Blood Moon
-1 Detention Sphere
-1 Helm of Obedience
-2 Helm of Obedience
-4 Rest in Peace
 4 Terminus
 1 Possibility Storm
 1 Lavinia, Azorius Renegade
@@ -189,12 +181,14 @@
 1 Standstill
 1 Hall of Heliod's Generosity
 1 Myth Realized
-1 Shark Typhoon
 1 Wasteland
+1 Shark Typhoon
 2 Shark Typhoon
+2 Spell Snare
 2 Wasteland
-2 Myth Realized
 2 Standstill
+2 Myth Realized
+3 Tundra
 3 Myth Realized
 3 Shark Typhoon
 3 Standstill

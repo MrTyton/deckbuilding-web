@@ -45,8 +45,8 @@
 1 Elspeth, Sun's Nemesis
 4 Venerable Knight
 1 Blast Zone
-2 Shadowspear
 2 Blast Zone
+2 Shadowspear
 2 Elspeth, Sun's Nemesis
 4 Speaker of the Heavens
 18 Plains
@@ -75,11 +75,11 @@
 5 Forest
 6 Forest
 4 Temple of Plenty
-1 Flower/Flourish
 1 Emmara, Soul of the Accord
 1 Trostani Discordant
 1 Woodland Champion
 1 March of the Multitudes
+1 Flower/Flourish
 2 Flower/Flourish
 2 Emmara, Soul of the Accord
 2 Woodland Champion
@@ -96,8 +96,8 @@
 4 Season of Growth
 1 Lovestruck Beast
 2 Lovestruck Beast
-3 Flower/Flourish
 3 Lovestruck Beast
+3 Flower/Flourish
 4 Lovestruck Beast
 4 Flower/Flourish
 2 Fabled Passage
@@ -116,6 +116,10 @@
 1 Daxos, Blessed by the Sun
 2 Daxos, Blessed by the Sun
 3 Elspeth, Sun's Nemesis
+1 Loyal Pegasus
+2 Loyal Pegasus
+3 Apostle of Purifying Light
+4 Apostle of Purifying Light
 1 Pledge of Unity
 1 Ajani, the Greathearted
 1 Hanged Executioner
@@ -154,10 +158,6 @@
 4 Paradise Druid
 4 Setessan Champion
 4 Setessan Training
-1 Loyal Pegasus
-2 Loyal Pegasus
-3 Apostle of Purifying Light
-4 Apostle of Purifying Light
 4 Unbreakable Formation
 4 Gideon Blackblade
 1 Knight of the Ebon Legion
@@ -173,6 +173,7 @@
 1 Mutual Destruction
 1 Call of the Death-Dweller
 2 Knight of the Ebon Legion
+2 Swamp
 2 Pacifism
 2 Griffin Aerie
 2 Call of the Death-Dweller
@@ -182,7 +183,6 @@
 2 Unexpected Fangs
 2 Spontaneous Flight
 2 Vampire of the Dire Moon
-2 Swamp
 2 Ajani's Pridemate
 3 Swamp
 3 Pacifism
