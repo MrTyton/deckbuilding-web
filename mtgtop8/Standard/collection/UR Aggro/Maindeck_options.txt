@@ -1,13 +1,13 @@
-7 Island
+1 The Royal Scions
+4 Unsummon
+1 Lofty Denial
 2 Lofty Denial
 3 Lofty Denial
-1 The Royal Scions
-3 Aether Gust
-1 Sea-Dasher Octopus
 4 Lofty Denial
-4 Unsummon
 7 Mountain
+7 Island
 1 Bonecrusher Giant
+1 Sea-Dasher Octopus
 2 Sea-Dasher Octopus
 3 Sea-Dasher Octopus
 3 Spectral Sailor
@@ -15,9 +15,6 @@
 1 Pteramander
 1 Crackling Drake
 8 Island
-1 See the Truth
-2 See the Truth
-3 See the Truth
 1 Finale of Promise
 2 Finale of Promise
 1 Unsubstantiate
@@ -33,10 +30,10 @@
 2 Ionize
 1 Raking Claws
 2 Raking Claws
+1 See the Truth
 1 Maximize Velocity
-1 Infuriate
-2 Infuriate
-4 See the Truth
+2 See the Truth
+3 See the Truth
 1 Castle Vantress
 2 Pteramander
 3 Pteramander
@@ -48,11 +45,13 @@
 8 Mountain
 1 Embercleave
 2 Unsubstantiate
+1 Infuriate
+2 Infuriate
 2 Maximize Velocity
 3 Maximize Velocity
+4 See the Truth
 1 Lava Coil
 2 Lava Coil
-3 Infuriate
 1 Irencrag Pyromancer
 1 Frantic Inventory
 2 Frantic Inventory
@@ -61,7 +60,6 @@
 1 Thrill of Possibility
 2 Thrill of Possibility
 9 Island
-1 Fabled Passage
 1 Izzet Guildgate
 2 Izzet Guildgate
 3 Crackling Drake
@@ -79,16 +77,17 @@
 2 The Royal Scions
 2 Scorching Dragonfire
 3 The Royal Scions
-1 Experimental Overload
-1 Niv-Mizzet, Parun
 1 Ominous Seas
 1 God-Eternal Kefnet
+1 Niv-Mizzet, Parun
 1 Flame Sweep
-2 Experimental Overload
-2 Ominous Seas
+1 Experimental Overload
 2 Flame Sweep
+2 Ominous Seas
+2 Experimental Overload
 3 Ominous Seas
 3 Flame Sweep
+1 Fabled Passage
 1 Shark Typhoon
 2 Shark Typhoon
 2 Castle Vantress
@@ -125,12 +124,11 @@
 3 Merfolk Secretkeeper
 3 Cathartic Reunion
 3 Merchant of the Vale
-4 Blitz of the Thunder-Raptor
 4 Merchant of the Vale
 4 Arclight Phoenix
 4 Merfolk Secretkeeper
+4 Blitz of the Thunder-Raptor
 4 Cathartic Reunion
-4 Maximize Velocity
 1 Heartfire Immolator
 1 Satyr's Cunning
 1 Mizzium Tank
@@ -140,14 +138,5 @@
 3 Heartfire Immolator
 4 Heartfire Immolator
 9 Mountain
-1 Light Up the Stage
-1 Barrin, Tolarian Archmage
-1 Stonecoil Serpent
-2 Stonecoil Serpent
-2 Light Up the Stage
-2 Fabled Passage
-3 Stonecoil Serpent
-3 Light Up the Stage
-4 Stonecoil Serpent
-4 Light Up the Stage
-4 Infuriate
+3 Infuriate
+4 Maximize Velocity

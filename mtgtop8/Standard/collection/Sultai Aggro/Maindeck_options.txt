@@ -22,10 +22,10 @@
 2 Scavenging Ooze
 3 Scavenging Ooze
 2 Castle Vantress
-1 Murderous Rider
 1 Liliana, Waker of the Dead
-2 Murderous Rider
+1 Murderous Rider
 2 Liliana, Waker of the Dead
+2 Murderous Rider
 3 Murderous Rider
 1 Thought Erasure
 1 Mire Triton
@@ -52,8 +52,8 @@
 1 Garruk's Harbinger
 1 Ram Through
 1 Ilysian Caryatid
-2 Paradise Druid
 2 Polukranos, Unchained
+2 Paradise Druid
 2 Cavalier of Thorns
 2 Voracious Hydra
 2 Garruk's Harbinger
@@ -61,6 +61,26 @@
 3 Garruk's Harbinger
 3 Shifting Ceratops
 3 Ilysian Caryatid
+1 Tymaret Calls the Dead
+1 Silversmote Ghoul
+1 Merfolk Secretkeeper
+1 Glowspore Shaman
+1 Demonic Embrace
+1 Ashiok, Dream Render
+2 Tymaret Calls the Dead
+2 Silversmote Ghoul
+2 Glowspore Shaman
+2 Merfolk Secretkeeper
+2 Demonic Embrace
+2 Ashiok, Dream Render
+3 Tymaret Calls the Dead
+3 Silversmote Ghoul
+3 Glowspore Shaman
+3 Merfolk Secretkeeper
+4 Rotting Regisaur
+4 Silversmote Ghoul
+4 Glowspore Shaman
+4 Merfolk Secretkeeper
 1 Sea-Dasher Octopus
 1 Frilled Mystic
 1 Spectral Sailor
@@ -88,39 +108,19 @@
 3 Frantic Inventory
 4 Shark Typhoon
 4 Frantic Inventory
-1 Glowspore Shaman
-1 Silversmote Ghoul
-1 Merfolk Secretkeeper
-1 Ashiok, Dream Render
-1 Demonic Embrace
-1 Tymaret Calls the Dead
-2 Silversmote Ghoul
-2 Merfolk Secretkeeper
-2 Ashiok, Dream Render
-2 Demonic Embrace
-2 Tymaret Calls the Dead
-2 Glowspore Shaman
-3 Silversmote Ghoul
-3 Merfolk Secretkeeper
-3 Glowspore Shaman
-3 Tymaret Calls the Dead
-4 Silversmote Ghoul
-4 Merfolk Secretkeeper
-4 Rotting Regisaur
-4 Glowspore Shaman
 4 Forest
 5 Forest
-1 Parcelbeast
 1 Leafkin Druid
 1 Yarok, the Desecrated
+1 Parcelbeast
 1 Vivien, Monsters' Advocate
 1 Risen Reef
+1 Jungle Hollow
 1 Thornwood Falls
 1 Neoform
-1 Evolving Wilds
 1 Thassa, Deep-Dwelling
+1 Evolving Wilds
 1 Acolyte of Affliction
-1 Jungle Hollow
 1 Spark Harvest
 1 Jace, Wielder of Mysteries
 1 Cloudkin Seer
@@ -130,14 +130,14 @@
 1 Dismal Backwater
 1 Ob Nixilis's Cruelty
 1 Frost Lynx
-2 Parcelbeast
 2 Leafkin Druid
+2 Parcelbeast
 2 Risen Reef
 2 Neoform
 2 Thornwood Falls
+2 Jungle Hollow
 2 Acolyte of Affliction
 2 Evolving Wilds
-2 Jungle Hollow
 2 Ob Nixilis's Cruelty
 2 Cloudkin Seer
 2 Nightveil Predator
@@ -155,12 +155,12 @@
 3 Frost Lynx
 3 Healer of the Glade
 4 Thornwood Falls
-4 Cloudkin Seer
 4 Risen Reef
 4 Island
 4 Leafkin Druid
 4 Jungle Hollow
 4 Dismal Backwater
+4 Cloudkin Seer
 1 Opt
 1 Thieves' Guild Enforcer
 2 Opt
@@ -231,11 +231,11 @@
 2 Thief of Sanity
 2 Liliana's Triumph
 2 Duress
-3 Mire Triton
 3 Thief of Sanity
 3 Liliana, Waker of the Dead
 3 Liliana's Triumph
+3 Mire Triton
 4 Mire Triton
-4 Liliana's Triumph
 4 Thief of Sanity
+4 Liliana's Triumph
 4 Liliana, Waker of the Dead
