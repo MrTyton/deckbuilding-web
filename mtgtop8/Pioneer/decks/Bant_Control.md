@@ -58,7 +58,7 @@
 |                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)     |                     |                                                                                               |
 |                    2|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)             |                     |                                                                                               |
 |                    2|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)     |                     |                                                                                               |
-|                    2|[Neutralize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479579)                  |                     |                                                                                               |
-|                    3|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)     |                     |                                                                                               |
 |                    2|[Dream Trawler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476465)               |                     |                                                                                               |
+|                    3|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)     |                     |                                                                                               |
+|                    2|[Neutralize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479579)                  |                     |                                                                                               |
 

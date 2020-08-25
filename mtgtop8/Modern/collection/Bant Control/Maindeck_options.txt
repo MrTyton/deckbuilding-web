@@ -1,39 +1,41 @@
+2 Field of the Dead
+2 Remand
+1 Archmage's Charm
+2 Archmage's Charm
+1 Arcum's Astrolabe
+2 Arcum's Astrolabe
+3 Arcum's Astrolabe
+4 Arcum's Astrolabe
+1 Forest
+1 Scalding Tarn
+3 Growth Spiral
+2 Supreme Verdict
+1 Shark Typhoon
+3 Field of Ruin
 2 Snow-Covered Forest
-1 Remand
+2 Hallowed Fountain
 2 Snapcaster Mage
 4 Field of Ruin
-2 Remand
-1 Shark Typhoon
-1 Island
-1 Scalding Tarn
-1 Polluted Delta
-1 Hour of Promise
-1 Growth Spiral
-1 Field of the Dead
-2 Island
-2 Growth Spiral
-2 Field of the Dead
-2 Hallowed Fountain
-2 Snow-Covered Plains
-1 Forest
-3 Growth Spiral
 4 Growth Spiral
+1 Plains
+2 Snow-Covered Plains
 1 Prismatic Vista
 1 Batterskull
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
+4 Uro, Titan of Nature's Wrath
 1 Sword of Fire and Ice
 3 Snow-Covered Forest
 4 Stoneforge Mystic
-1 Plains
+1 Prairie Stream
 2 Prismatic Vista
 3 Prismatic Vista
 2 Shark Typhoon
 1 Windswept Heath
 2 Windswept Heath
 2 Temple Garden
-4 Uro, Titan of Nature's Wrath
+4 Force of Negation
 1 Venser, Shaper Savant
 1 Ephemerate
 1 Eternal Witness
@@ -47,10 +49,15 @@
 3 Ephemerate
 4 Ephemerate
 4 Coiling Oracle
-4 Prismatic Vista
+1 Wall of Omens
+1 Oboro, Palace in the Clouds
+1 Aether Gust
+2 Wall of Omens
+2 Aether Gust
 2 Hour of Promise
+4 Prismatic Vista
+1 Ketria Triome
 3 Mana Leak
-1 Prairie Stream
 1 Sword of Feast and Famine
 1 Noble Hierarch
 2 Noble Hierarch
@@ -77,7 +84,6 @@
 3 Aether Vial
 4 Cryptic Command
 4 Eternal Witness
-4 Force of Negation
 4 Aether Vial
 1 Mox Amber
 1 Springleaf Drum
@@ -86,8 +92,8 @@
 1 Zagoth Triome
 1 Minamo, School at Water's Edge
 1 Botanical Sanctum
-1 Emry, Lurker of the Loch
 1 Seachrome Coast
+1 Emry, Lurker of the Loch
 1 Monastery Mentor
 1 Aether Spellbomb
 1 Mishra's Bauble
@@ -116,16 +122,10 @@
 1 Dovin's Veto
 1 Timely Reinforcements
 1 Ashiok, Dream Render
-1 Wall of Omens
-1 Oboro, Palace in the Clouds
-1 Aether Gust
-2 Wall of Omens
-2 Aether Gust
 1 Raugrin Triome
 1 Steam Vents
 1 Wrenn and Six
 1 Lightning Bolt
-1 Ketria Triome
 1 Lightning Helix
 2 Wrenn and Six
 2 Lightning Helix
@@ -151,6 +151,16 @@
 2 Soulherder
 3 Soulherder
 4 Soulherder
+1 Birds of Paradise
+1 Ghost Quarter
+1 Scavenging Ooze
+2 Birds of Paradise
+2 Ghost Quarter
+2 Scavenging Ooze
+3 Scavenging Ooze
+3 Ghost Quarter
+3 Birds of Paradise
+4 Birds of Paradise
 1 Nexus of Fate
 1 Opt
 1 Wilderness Reclamation
@@ -164,16 +174,6 @@
 3 Archmage's Charm
 3 Fact or Fiction
 4 Opt
-1 Birds of Paradise
-1 Ghost Quarter
-1 Scavenging Ooze
-2 Birds of Paradise
-2 Ghost Quarter
-2 Scavenging Ooze
-3 Scavenging Ooze
-3 Ghost Quarter
-3 Birds of Paradise
-4 Birds of Paradise
 1 Irrigated Farmland
 3 Remand
 4 Remand
@@ -187,5 +187,7 @@
 3 Arbor Elf
 3 Oath of Nissa
 4 Oath of Nissa
-5 Snow-Covered Forest
 4 Arbor Elf
+5 Snow-Covered Forest
+3 Aether Gust
+4 Aether Gust

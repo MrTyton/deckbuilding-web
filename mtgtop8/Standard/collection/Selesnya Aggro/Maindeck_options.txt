@@ -1,3 +1,8 @@
+5 Forest
+6 Forest
+7 Forest
+1 Pelt Collector
+2 Pelt Collector
 3 Pelt Collector
 4 Pelt Collector
 1 Unbreakable Formation
@@ -16,41 +21,21 @@
 3 Huatli's Raptor
 4 Huatli's Raptor
 4 Venerated Loxodon
-8 Forest
-1 Chamber Sentry
-1 Growth-Chamber Guardian
-1 Karn's Bastion
-1 Basri's Lieutenant
-2 Chamber Sentry
-2 Growth-Chamber Guardian
-2 Fabled Passage
-2 Basri's Lieutenant
-3 Chamber Sentry
-3 Growth-Chamber Guardian
-4 Chamber Sentry
-4 Growth-Chamber Guardian
-1 Indatha Triome
-1 Gods Willing
-2 Gods Willing
-3 Glaring Aegis
-3 Solid Footing
-2 Unbreakable Formation
+1 Seasoned Hallowblade
+2 Seasoned Hallowblade
+3 Seasoned Hallowblade
+4 Seasoned Hallowblade
 1 Scavenging Ooze
 1 Selfless Savior
 2 Scavenging Ooze
 2 Selfless Savior
 3 Selfless Savior
 4 Selfless Savior
-1 Seasoned Hallowblade
-2 Seasoned Hallowblade
-3 Seasoned Hallowblade
-4 Seasoned Hallowblade
-1 Ajani, the Greathearted
+8 Forest
 1 Blossoming Sands
 2 Blossoming Sands
 3 Blossoming Sands
 4 Blossoming Sands
-1 Fierce Empath
 1 Thassa, Deep-Dwelling
 1 Tranquil Cove
 1 Banishing Light
@@ -59,12 +44,13 @@
 1 Negate
 1 Realm-Cloaked Giant
 1 Arboreal Grazer
+1 Fierce Empath
 1 Witching Well
-1 Risen Reef
 1 Neoform
-1 Teferi's Time Twist
-1 Leafkin Druid
 1 Thornwood Falls
+1 Teferi's Time Twist
+1 Risen Reef
+1 Leafkin Druid
 1 Meteor Golem
 1 Destiny Spinner
 1 Dream Trawler
@@ -79,10 +65,10 @@
 2 Imposing Vantasaur
 2 Negate
 2 Witching Well
-2 Risen Reef
-2 Neoform
-2 Leafkin Druid
 2 Thornwood Falls
+2 Neoform
+2 Risen Reef
+2 Leafkin Druid
 2 Cloudkin Seer
 2 Omen of the Sea
 2 Island
@@ -92,9 +78,9 @@
 3 Fierce Empath
 3 Imposing Vantasaur
 3 Witching Well
-3 Risen Reef
-3 Leafkin Druid
 3 Neoform
+3 Leafkin Druid
+3 Risen Reef
 3 Thornwood Falls
 3 Negate
 3 Cloudkin Seer
@@ -102,9 +88,9 @@
 4 Witching Well
 4 Island
 4 Tranquil Cove
-4 Risen Reef
 4 Leafkin Druid
 4 Imposing Vantasaur
+4 Risen Reef
 4 Cloudkin Seer
 4 Thornwood Falls
 4 Fierce Empath
@@ -114,17 +100,30 @@
 7 Island
 8 Island
 9 Island
+1 Ajani, the Greathearted
 1 Questing Beast
+1 Chamber Sentry
+1 Growth-Chamber Guardian
 1 The Great Henge
+1 Karn's Bastion
+1 Basri's Lieutenant
+2 Chamber Sentry
+2 Growth-Chamber Guardian
 2 The Great Henge
-3 Basri's Lieutenant
-1 Healer's Hawk
-2 Healer's Hawk
-4 Solid Footing
+2 Fabled Passage
+2 Basri's Lieutenant
+3 Chamber Sentry
+3 Growth-Chamber Guardian
+4 Chamber Sentry
+4 Growth-Chamber Guardian
 1 Speaker of the Heavens
 2 Speaker of the Heavens
 4 Glaring Aegis
+1 Healer's Hawk
+2 Healer's Hawk
+4 Solid Footing
 1 Wildwood Scourge
+2 Unbreakable Formation
 2 Wildwood Scourge
 3 Unbreakable Formation
 3 Wildwood Scourge
@@ -188,7 +187,7 @@
 12 Forest
 1 Castle Ardenvale
 1 Setessan Training
-2 Setessan Training
 2 Castle Ardenvale
+2 Setessan Training
 3 Setessan Training
 11 Plains

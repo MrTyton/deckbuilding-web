@@ -50,8 +50,8 @@
 1 Murderous Rider
 2 Murderous Rider
 3 Murderous Rider
-1 Eerie Ultimatum
 1 Temple of Malady
+1 Eerie Ultimatum
 1 Llanowar Visionary
 2 Eerie Ultimatum
 2 Llanowar Visionary
@@ -70,20 +70,29 @@
 1 Cavalier of Dawn
 1 Extinction Event
 2 Extinction Event
-1 Ugin, the Spirit Dragon
-1 Solemn Simulacrum
-1 Faith's Fetters
-2 Solemn Simulacrum
-2 Ugin, the Spirit Dragon
 1 Zagoth Triome
 1 Vraska, Swarm's Eminence
 2 Zagoth Triome
 1 Rankle, Master of Pranks
 2 Forest
+1 Ugin, the Spirit Dragon
+1 Solemn Simulacrum
+1 Faith's Fetters
+2 Solemn Simulacrum
+2 Ugin, the Spirit Dragon
 1 Davriel, Rogue Shadowmage
 1 Cling to Dust
 2 Cling to Dust
 3 Grasp of Darkness
+1 Karn, the Great Creator
+1 Teyo, the Shieldmage
+1 Cry of the Carnarium
+2 Karn, the Great Creator
+2 Cry of the Carnarium
+3 Karn, the Great Creator
+3 Cry of the Carnarium
+4 Kaya, Orzhov Usurper
+4 Karn, the Great Creator
 4 Heartless Act
 1 Mythos of Nethroi
 2 Mythos of Nethroi
@@ -92,15 +101,6 @@
 3 Mythos of Nethroi
 4 Mythos of Nethroi
 4 Castle Ardenvale
-1 Teyo, the Shieldmage
-1 Cry of the Carnarium
-1 Karn, the Great Creator
-2 Cry of the Carnarium
-2 Karn, the Great Creator
-3 Cry of the Carnarium
-3 Karn, the Great Creator
-4 Kaya, Orzhov Usurper
-4 Karn, the Great Creator
 1 Shepherd of the Flock
 2 Shepherd of the Flock
 1 Revival / Revenge
@@ -137,8 +137,8 @@
 4 The Birth of Meletis
 4 Vito, Thorn of the Dusk Rose
 4 Indulging Patrician
-4 Light of Hope
 4 Radiant Fountain
+4 Light of Hope
 4 Revival / Revenge
 4 Revitalize
 4 Consecrate / Consume

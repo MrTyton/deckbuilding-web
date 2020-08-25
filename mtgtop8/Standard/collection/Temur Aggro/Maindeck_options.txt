@@ -4,24 +4,21 @@
 3 Arboreal Grazer
 1 Terror of the Peaks
 2 Terror of the Peaks
+2 Mountain
 1 Castle Vantress
 5 Forest
+1 Hydroid Krasis
 1 Temple of Abandon
 2 Temple of Epiphany
 3 Terror of the Peaks
+4 Genesis Ultimatum
 4 Aether Gust
 3 Temple of Mystery
-2 Mountain
 4 Terror of the Peaks
 2 Temple of Abandon
-1 Hydroid Krasis
-4 Genesis Ultimatum
 3 Paradise Druid
 4 Paradise Druid
-3 Temple of Epiphany
-4 Arboreal Grazer
 1 Mystical Dispute
-3 Temple of Abandon
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
 1 Bonecrusher Giant
@@ -30,11 +27,10 @@
 1 Shark Typhoon
 1 Brazen Borrower
 2 Shark Typhoon
-1 Sinister Sabotage
 1 Quench
+1 Sinister Sabotage
 1 Frilled Mystic
 1 Nightpack Ambusher
-2 Sinister Sabotage
 2 Quench
 2 Frilled Mystic
 2 Nightpack Ambusher
@@ -42,22 +38,26 @@
 3 Nightpack Ambusher
 3 Quench
 4 Nightpack Ambusher
-2 Castle Vantress
 2 Mystical Dispute
 1 Sublime Epiphany
-3 Sinister Sabotage
-2 Hydroid Krasis
+2 Sinister Sabotage
+3 Temple of Epiphany
+4 Arboreal Grazer
+2 Castle Vantress
 1 Negate
 2 Negate
-3 Ugin, the Spirit Dragon
 3 Frilled Mystic
+3 Sinister Sabotage
+3 Brazen Borrower
+2 Hydroid Krasis
+4 Bonecrusher Giant
+3 Temple of Abandon
+3 Ugin, the Spirit Dragon
 1 Flame Sweep
 2 Flame Sweep
-3 Brazen Borrower
 4 Temple of Mystery
-4 Bonecrusher Giant
-1 Spectral Sailor
 1 Essence Scatter
+1 Spectral Sailor
 2 Essence Scatter
 4 Quench
 4 Ugin, the Spirit Dragon
@@ -69,9 +69,9 @@
 2 Beanstalk Giant
 1 Cultivate
 2 Cultivate
+3 Cultivate
 3 Hydroid Krasis
 3 Mystical Dispute
-3 Cultivate
 4 Cultivate
 6 Forest
 7 Forest
@@ -79,6 +79,8 @@
 1 Scavenging Ooze
 1 Chemister's Insight
 1 Yorion, Sky Nomad
+1 Whirlwind Denial
+2 Whirlwind Denial
 1 Tamiyo, Collector of Tales
 2 Tamiyo, Collector of Tales
 1 Scorching Dragonfire

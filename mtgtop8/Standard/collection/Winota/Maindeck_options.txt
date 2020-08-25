@@ -33,20 +33,20 @@
 7 Mountain
 3 Knight of the Ebon Legion
 4 Knight of the Ebon Legion
-1 Fervent Champion
-1 Stormfist Crusader
 1 Blacklance Paragon
+1 Fervent Champion
 1 Tournament Grounds
-2 Fervent Champion
-2 Stormfist Crusader
+1 Stormfist Crusader
 2 Blacklance Paragon
+2 Fervent Champion
 2 Tournament Grounds
+2 Stormfist Crusader
 3 Fervent Champion
-3 Stormfist Crusader
 3 Tournament Grounds
+3 Stormfist Crusader
 4 Fervent Champion
-4 Stormfist Crusader
 4 Tournament Grounds
+4 Stormfist Crusader
 1 Gingerbrute
 2 Gingerbrute
 8 Mountain
@@ -109,6 +109,10 @@
 1 Claim the Firstborn
 2 Claim the Firstborn
 3 Claim the Firstborn
+1 Forbidden Friendship
+2 Forbidden Friendship
+3 Forbidden Friendship
+4 Forbidden Friendship
 1 Grim Initiate
 2 Haktos the Unscarred
 2 Grim Initiate
@@ -116,10 +120,6 @@
 3 Grim Initiate
 4 Seasoned Hallowblade
 4 Grim Initiate
-1 Forbidden Friendship
-2 Forbidden Friendship
-3 Forbidden Friendship
-4 Forbidden Friendship
 1 Dreadhorde Butcher
 1 Dire Tactics
 2 Dreadhorde Butcher

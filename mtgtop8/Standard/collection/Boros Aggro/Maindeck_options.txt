@@ -1,10 +1,13 @@
+6 Mountain
+7 Mountain
 1 Temple of Triumph
+1 Selfless Savior
+2 Selfless Savior
 1 Embercleave
 1 Legion Warboss
 1 Seasoned Hallowblade
 1 Igneous Cur
 1 Alpine Houndmaster
-1 Selfless Savior
 1 Tajic, Legion's Edge
 1 Bonecrusher Giant
 1 Alpine Watchdog
@@ -15,7 +18,6 @@
 2 Igneous Cur
 2 Alpine Watchdog
 2 Alpine Houndmaster
-2 Selfless Savior
 2 Tajic, Legion's Edge
 3 Embercleave
 3 Seasoned Hallowblade
@@ -32,8 +34,6 @@
 4 Bonecrusher Giant
 1 Gingerbrute
 2 Gingerbrute
-3 Memory Leak
-4 Memory Leak
 2 Temple of Triumph
 3 Temple of Triumph
 4 Temple of Triumph
@@ -51,11 +51,11 @@
 1 Splendor Mare
 2 Splendor Mare
 2 Aurelia, Exemplar of Justice
-1 Fling
 1 Imposing Vantasaur
+1 Fling
 1 Sanctuary Smasher
-2 Fling
 2 Imposing Vantasaur
+2 Fling
 1 Castle Embereth
 1 Wind-Scarred Crag
 1 Lavabrink Venturer
