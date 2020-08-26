@@ -1,14 +1,30 @@
-2 Forest
 1 Dig Through Time
+2 Stomping Ground
+2 Forest
 2 Dig Through Time
+1 Izzet Charm
+2 Izzet Charm
+3 Stomping Ground
+4 Rootbound Crag
+1 Hinterland Harbor
+1 Sulfur Falls
 1 Opt
 2 Opt
 3 Opt
 3 Island
 4 Opt
-1 Hinterland Harbor
+1 Temple of Epiphany
 2 Hinterland Harbor
 2 Neutralize
+1 Lumbering Falls
+1 Frantic Inventory
+1 Scorching Dragonfire
+2 Frantic Inventory
+2 Scorching Dragonfire
+3 Frantic Inventory
+3 Scorching Dragonfire
+4 Frantic Inventory
+4 Scorching Dragonfire
 1 Torrential Gearhulk
 1 Sublime Epiphany
 1 Sinister Sabotage
@@ -21,29 +37,8 @@
 3 Temple of Mystery
 4 Temple of Mystery
 4 Island
-4 Shark Typhoon
-3 Hinterland Harbor
-1 Brazen Borrower
-2 Brazen Borrower
-4 Rootbound Crag
-2 Stomping Ground
-1 Aetherspouts
-2 Aetherspouts
-3 Blast Zone
-1 Lumbering Falls
-1 Frantic Inventory
-1 Sulfur Falls
-1 Scorching Dragonfire
-2 Frantic Inventory
-2 Scorching Dragonfire
-3 Frantic Inventory
-3 Scorching Dragonfire
-4 Frantic Inventory
-4 Scorching Dragonfire
-1 Izzet Charm
-2 Izzet Charm
-3 Stomping Ground
 2 Aether Gust
+3 Hinterland Harbor
 4 Fabled Passage
 1 Hallowed Fountain
 1 Teferi, Time Raveler
@@ -54,11 +49,20 @@
 2 Temple Garden
 3 Teferi, Time Raveler
 1 Search for Azcanta
-1 Temple of Epiphany
 1 Thassa's Intervention
+1 Cyclonic Rift
+2 Cyclonic Rift
+1 Brazen Borrower
+2 Brazen Borrower
+1 Negate
+2 Sulfur Falls
 1 Sweltering Suns
 2 Sweltering Suns
 3 Sweltering Suns
+1 Aetherspouts
+2 Aetherspouts
+3 Blast Zone
+4 Shark Typhoon
 4 Anger of the Gods
 1 Castle Ardenvale
 1 Sunpetal Grove
@@ -83,9 +87,9 @@
 1 Storm's Wrath
 3 Izzet Charm
 3 Dig Through Time
-4 Izzet Charm
 4 Dig Through Time
 4 Stomping Ground
+4 Izzet Charm
 1 Deafening Clarion
 1 Kenrith, the Returned King
 1 Satyr Wayfinder

@@ -37,7 +37,6 @@
 3 Blossoming Sands
 4 Blossoming Sands
 1 Thassa, Deep-Dwelling
-1 Fierce Empath
 1 Tranquil Cove
 1 Banishing Light
 1 Simic Guildgate
@@ -45,6 +44,7 @@
 1 Negate
 1 Realm-Cloaked Giant
 1 Arboreal Grazer
+1 Fierce Empath
 1 Witching Well
 1 Neoform
 1 Thornwood Falls
@@ -102,20 +102,6 @@
 9 Island
 1 Ajani, the Greathearted
 1 Questing Beast
-1 Chamber Sentry
-1 Growth-Chamber Guardian
-1 The Great Henge
-1 Karn's Bastion
-1 Basri's Lieutenant
-2 Chamber Sentry
-2 Growth-Chamber Guardian
-2 The Great Henge
-2 Fabled Passage
-2 Basri's Lieutenant
-3 Chamber Sentry
-3 Growth-Chamber Guardian
-4 Chamber Sentry
-4 Growth-Chamber Guardian
 1 Speaker of the Heavens
 2 Speaker of the Heavens
 4 Glaring Aegis
@@ -129,6 +115,20 @@
 3 Wildwood Scourge
 4 Basri Ket
 4 Wildwood Scourge
+1 Growth-Chamber Guardian
+1 The Great Henge
+1 Karn's Bastion
+1 Chamber Sentry
+1 Basri's Lieutenant
+2 Growth-Chamber Guardian
+2 The Great Henge
+2 Chamber Sentry
+2 Fabled Passage
+2 Basri's Lieutenant
+3 Growth-Chamber Guardian
+3 Chamber Sentry
+4 Growth-Chamber Guardian
+4 Chamber Sentry
 1 Lurrus of the Dream-Den
 1 Primal Might
 1 Lovestruck Beast

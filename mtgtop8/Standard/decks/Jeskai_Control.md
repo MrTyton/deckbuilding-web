@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Interplanar Beacon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461174)       |                    1|[Narset's Reversal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460989)|
-|                    1|[Fae of Wishes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473006)            |                    1|[Whirlwind Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476332) |
+|                    1|[Fae of Wishes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473006)            |                    1|[Narset's Reversal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460989)|
+|                    1|[Interplanar Beacon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461174)       |                    1|[Whirlwind Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476332) |
 |                    1|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)     |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)      |
 |                    1|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)        |                    1|[Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977)     |
 |                    1|Warrant / Warden                                                                                    |                    2|[Narset's Reversal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460989)|

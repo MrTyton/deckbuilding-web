@@ -1,10 +1,10 @@
 4 Stonecoil Serpent
 1 Raise the Alarm
 1 Venerated Loxodon
-2 Raise the Alarm
 2 Venerated Loxodon
-3 Raise the Alarm
+2 Raise the Alarm
 3 Venerated Loxodon
+3 Raise the Alarm
 4 Raise the Alarm
 4 Venerated Loxodon
 1 Giant Killer
@@ -117,14 +117,6 @@
 1 Swamp
 2 Swamp
 3 Swamp
-1 Seasoned Hallowblade
-1 Setessan Training
-2 Seasoned Hallowblade
-2 Setessan Training
-3 Seasoned Hallowblade
-4 Seasoned Hallowblade
-3 Selfless Savior
-4 Selfless Savior
 1 Pledge of Unity
 1 Ajani, the Greathearted
 1 Hanged Executioner
@@ -134,6 +126,14 @@
 3 Fabled Passage
 3 Hanged Executioner
 4 Hanged Executioner
+1 Seasoned Hallowblade
+1 Setessan Training
+2 Setessan Training
+2 Seasoned Hallowblade
+3 Seasoned Hallowblade
+4 Seasoned Hallowblade
+3 Selfless Savior
+4 Selfless Savior
 1 Pious Wayfarer
 2 Pious Wayfarer
 3 Pious Wayfarer
@@ -143,8 +143,8 @@
 1 Divine Visitation
 3 Emmara, Soul of the Accord
 4 Conclave Tribunal
-1 Hateful Eidolon
 1 Mogis's Favor
+1 Hateful Eidolon
 1 Overgrown Tomb
 1 Godless Shrine
 1 Quirion Dryad
@@ -180,7 +180,6 @@
 1 Call of the Death-Dweller
 2 Knight of the Ebon Legion
 2 Vampire of the Dire Moon
-2 Pacifism
 2 Griffin Aerie
 2 Archfiend's Vessel
 2 Call of the Death-Dweller
@@ -189,18 +188,19 @@
 2 Unexpected Fangs
 2 Spontaneous Flight
 2 Ajani's Pridemate
+2 Pacifism
 3 Vampire of the Dire Moon
-3 Pacifism
-3 Light of Hope
 3 Ajani's Pridemate
+3 Light of Hope
 3 Unexpected Fangs
 3 Mutual Destruction
+3 Pacifism
 3 Scoured Barrens
 3 Archfiend's Vessel
 4 Swamp
 4 Vampire of the Dire Moon
-4 Pacifism
 4 Unexpected Fangs
+4 Pacifism
 4 Archfiend's Vessel
 4 Ajani's Pridemate
 4 Scoured Barrens

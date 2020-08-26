@@ -1,16 +1,16 @@
-1 Treacherous Blessing
 1 Mire Triton
 2 Mire Triton
-2 Treacherous Blessing
-3 Treacherous Blessing
-1 Eliminate
-2 Eliminate
-1 Vraska, Golgari Queen
-2 Vraska, Golgari Queen
+1 Treacherous Blessing
 1 Arboreal Grazer
+1 Eliminate
 2 Arboreal Grazer
-3 Mire Triton
+2 Eliminate
 3 Forest
+3 Mire Triton
+1 Vraska, Golgari Queen
+2 Treacherous Blessing
+2 Vraska, Golgari Queen
+3 Treacherous Blessing
 1 Paradise Druid
 2 Paradise Druid
 3 Paradise Druid
@@ -18,24 +18,22 @@
 2 Doom Foretold
 3 Doom Foretold
 4 Doom Foretold
-3 Elspeth Conquers Death
 1 Vito, Thorn of the Dusk Rose
 2 Vito, Thorn of the Dusk Rose
+3 Elspeth Conquers Death
 3 Vito, Thorn of the Dusk Rose
 1 Gilded Goose
 1 Solemn Simulacrum
 2 Gilded Goose
 2 Solemn Simulacrum
-2 Plains
 1 Polukranos, Unchained
 2 Polukranos, Unchained
 3 Llanowar Visionary
-1 Chevill, Bane of Monsters
-2 Chevill, Bane of Monsters
-3 Knight of Autumn
 1 Sorin, Vengeful Bloodlord
-1 Eerie Ultimatum
-2 Eerie Ultimatum
+3 Knight of Autumn
+1 Chevill, Bane of Monsters
+2 Plains
+2 Chevill, Bane of Monsters
 2 Sorin, Vengeful Bloodlord
 3 Tolsimir, Friend to Wolves
 1 Destiny Spinner
@@ -45,23 +43,19 @@
 2 Liliana, Waker of the Dead
 2 Destiny Spinner
 1 Cavalier of Thorns
+1 Eerie Ultimatum
 2 Cavalier of Thorns
+2 Eerie Ultimatum
 1 Elspeth, Sun's Nemesis
-4 Mythos of Nethroi
 1 Ugin, the Spirit Dragon
 1 Heroic Intervention
 1 Bastion of Remembrance
-2 Heroic Intervention
 2 Bastion of Remembrance
+2 Heroic Intervention
 1 Casualties of War
 2 Casualties of War
-1 Liliana, Dreadhorde General
-1 Garruk, Cursed Huntsman
-3 Plains
-3 Castle Locthwain
-4 Fabled Passage
-1 Yarok's Fenlurker
 1 Jolrael, Mwonvuli Recluse
+1 Yarok's Fenlurker
 1 Fiend Artisan
 1 Wildborn Preserver
 1 Lurrus of the Dream-Den
@@ -70,47 +64,4 @@
 1 Kenrith, the Returned King
 1 Cling to Dust
 2 Cling to Dust
-1 Shatter the Sky
-1 Thought Distortion
-1 The Birth of Meletis
-1 Ugin, the Ineffable
-1 The Binding of the Titans
-2 Shatter the Sky
-2 Liliana, Dreadhorde General
-2 The Binding of the Titans
-2 The Birth of Meletis
-2 Garruk, Cursed Huntsman
-3 Eliminate
-3 Eerie Ultimatum
-3 Shatter the Sky
-3 Chevill, Bane of Monsters
-3 Vraska, Golgari Queen
-4 Eerie Ultimatum
-4 Castle Locthwain
-4 Shatter the Sky
-4 Vraska, Golgari Queen
-1 Kaya, Orzhov Usurper
-1 Calix, Destiny's Hand
-1 Duress
-1 Mazemind Tome
-1 Memory Leak
-1 Omen of the Sun
-2 Calix, Destiny's Hand
-2 Memory Leak
-2 Duress
-2 Kaya, Orzhov Usurper
-2 Mazemind Tome
-2 Omen of the Sun
-2 Castle Ardenvale
-3 Swamp
-3 Duress
-3 Kaya, Orzhov Usurper
-3 Omen of the Sun
-3 Castle Ardenvale
-3 Calix, Destiny's Hand
-4 Swamp
-4 Agonizing Remorse
-4 Duress
-4 Treacherous Blessing
-4 Elspeth Conquers Death
-4 Omen of the Sun
+4 Mythos of Nethroi

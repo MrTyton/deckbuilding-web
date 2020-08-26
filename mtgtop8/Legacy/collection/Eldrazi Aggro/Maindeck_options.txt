@@ -1,8 +1,8 @@
-1 Endbringer
-2 Walking Ballista
 1 Urborg, Tomb of Yawgmoth
+4 Eldrazi Displacer
 1 Brushland
 1 Dismember
+2 Walking Ballista
 2 Brushland
 3 Brushland
 1 Mishra's Factory
@@ -20,19 +20,10 @@
 1 Elvish Spirit Guide
 2 Elvish Spirit Guide
 3 Elvish Spirit Guide
-1 Mox Diamond
-2 Mox Diamond
 1 Plains
 2 Urborg, Tomb of Yawgmoth
-1 Snow-Covered Plains
-1 Savannah
-1 Thalia, Heretic Cathar
-1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
-3 Mox Diamond
-3 Thalia, Guardian of Thraben
-4 Mox Diamond
-4 Thalia, Guardian of Thraben
+1 Mox Diamond
+2 Mox Diamond
 1 Karn, the Great Creator
 1 Ulamog, the Ceaseless Hunger
 1 Grim Monolith
@@ -66,25 +57,28 @@
 2 Mishra's Factory
 3 Mishra's Factory
 4 Elvish Spirit Guide
-1 Palace Jailer
-2 Palace Jailer
-2 Thalia, Heretic Cathar
-2 Snow-Covered Plains
-3 Walking Ballista
-2 Savannah
-2 Plains
 4 Karn, the Great Creator
 2 Plague Engineer
-3 Karakas
 2 Ulamog, the Ceaseless Hunger
+1 Snow-Covered Plains
+2 Plains
+1 Savannah
+1 Thalia, Heretic Cathar
+1 Thalia, Guardian of Thraben
+2 Savannah
+2 Thalia, Guardian of Thraben
+3 Mox Diamond
+3 Thalia, Guardian of Thraben
+4 Mox Diamond
+4 Thalia, Guardian of Thraben
 4 Eye of Ugin
 1 Trinisphere
 3 City of Traitors
-1 Golos, Tireless Pilgrim
 1 Ugin, the Ineffable
 1 Sorcerous Spyglass
 1 Cascading Cataracts
 1 Thran Dynamo
+1 Golos, Tireless Pilgrim
 1 Thespian's Stage
 2 Sorcerous Spyglass
 2 Ugin, the Ineffable
@@ -92,8 +86,8 @@
 2 Thran Dynamo
 3 Sorcerous Spyglass
 3 Ugin, the Spirit Dragon
-3 Trinisphere
 3 Ugin, the Ineffable
+3 Trinisphere
 3 Thran Dynamo
 1 Mountain
 2 Mountain
@@ -105,6 +99,11 @@
 1 Thorn of Amethyst
 2 Thorn of Amethyst
 3 Thorn of Amethyst
+1 Palace Jailer
+2 Palace Jailer
+2 Thalia, Heretic Cathar
+2 Snow-Covered Plains
+3 Walking Ballista
 1 Mind Stone
 1 Oblivion Sower
 2 Mind Stone
@@ -129,6 +128,7 @@
 1 Sword of Fire and Ice
 1 Stoneforge Mystic
 2 Stoneforge Mystic
+3 Karakas
 3 Stoneforge Mystic
 3 Savannah
 4 Stoneforge Mystic
@@ -144,18 +144,15 @@
 4 Eldrazi Obligator
 4 Dismember
 4 Ramunap Ruins
-1 Windswept Heath
-1 Flooded Strand
-4 Walking Ballista
 1 Blood Sun
 1 Grove of the Burnwillows
 1 Yidaro, Wandering Monster
+1 Purphoros's Intervention
 1 Fiery Confluence
 1 Chrome Mox
 1 Chandra, Awakened Inferno
 1 Punishing Fire
 1 Goblin Rabblemaster
-1 Purphoros's Intervention
 2 Blood Sun
 2 Grove of the Burnwillows
 2 Yidaro, Wandering Monster
@@ -164,8 +161,8 @@
 2 Goblin Rabblemaster
 2 Purphoros's Intervention
 3 Blood Sun
-3 Yidaro, Wandering Monster
 3 Grove of the Burnwillows
+3 Yidaro, Wandering Monster
 3 Punishing Fire
 3 Goblin Rabblemaster
 4 Blood Sun
