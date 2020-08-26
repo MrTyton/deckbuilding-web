@@ -1,32 +1,34 @@
-1 Forest
-1 Maze of Ith
-2 Elvish Reclaimer
+1 Elvish Reclaimer
+1 Glacial Chasm
 2 Once Upon a Time
 2 Green Sun's Zenith
-2 Forest
-2 Crop Rotation
-2 Pithing Needle
+2 Elvish Reclaimer
 2 Primeval Titan
 3 Green Sun's Zenith
-3 Forest
-3 Crop Rotation
 3 Once Upon a Time
-4 Forest
-4 Crop Rotation
+1 Dark Depths
 1 Expedition Map
-1 Ramunap Excavator
-2 Thespian's Stage
 2 Expedition Map
-3 Elvish Reclaimer
 3 Pithing Needle
 3 Expedition Map
-4 Elvish Reclaimer
-4 Green Sun's Zenith
-4 Once Upon a Time
 5 Forest
 6 Forest
 7 Forest
+1 Wastes
+1 Trinisphere
+1 Manifold Key
+2 Manifold Key
+1 Cascading Cataracts
+1 Walking Ballista
+1 Ramunap Excavator
+2 Thespian's Stage
+3 Elvish Reclaimer
+4 Green Sun's Zenith
+4 Once Upon a Time
+4 Elvish Reclaimer
 1 Kozilek, Butcher of Truth
+8 Forest
+1 Candelabra of Tawnos
 3 Eldrazi Temple
 4 Karn, the Great Creator
 1 All Is Dust
@@ -34,19 +36,17 @@
 1 Thran Dynamo
 3 Primeval Titan
 4 Expedition Map
-8 Forest
-1 Candelabra of Tawnos
 2 Golos, Tireless Pilgrim
+2 Ulamog, the Ceaseless Hunger
+2 Ugin, the Spirit Dragon
 1 Allosaurus Shepherd
 4 Pithing Needle
-1 Mazemind Tome
 3 Sorcerous Spyglass
-2 Ulamog, the Ceaseless Hunger
+1 Mazemind Tome
 4 Eldrazi Temple
 1 Emrakul, the Promised End
 1 Mirage Mirror
 1 City of Traitors
-2 Ugin, the Spirit Dragon
 2 Ugin, the Ineffable
 2 Thran Dynamo
 1 Karn Liberated
@@ -64,10 +64,12 @@
 2 Eye of Ugin
 1 Kuldotha Forgemaster
 3 Ugin, the Spirit Dragon
+4 Vesuva
+1 Warping Wail
+2 Warping Wail
 2 Stonecoil Serpent
 3 Stonecoil Serpent
 3 Trinisphere
-4 Vesuva
 1 Crystal Vein
 1 Karn, Scion of Urza
 1 Sylvan Library
@@ -84,10 +86,8 @@
 3 City of Traitors
 3 Thran Dynamo
 3 Golos, Tireless Pilgrim
-1 Warping Wail
 1 Elvish Rejuvenator
 2 Reclamation Sage
-2 Warping Wail
 2 Windswept Heath
 2 Elvish Rejuvenator
 2 Cavern of Souls
@@ -100,3 +100,17 @@
 2 Matter Reshaper
 3 Matter Reshaper
 4 Matter Reshaper
+1 Sylvan Scrying
+1 Retrofitter Foundry
+1 Boompile
+1 From Beyond
+1 Hour of Promise
+1 Ancient Stirrings
+2 Hour of Promise
+2 Retrofitter Foundry
+2 Ancient Stirrings
+2 Boompile
+3 Ancient Stirrings
+3 Hour of Promise
+4 Ancient Stirrings
+9 Forest

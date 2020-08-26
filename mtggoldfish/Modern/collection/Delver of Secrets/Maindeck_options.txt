@@ -16,9 +16,9 @@
 1 Brazen Borrower
 1 Plains
 3 Path to Exile
-1 Stoneforge Mystic
-1 Sword of Fire and Ice
 1 Batterskull
+1 Sword of Fire and Ice
+1 Stoneforge Mystic
 1 Mantis Rider
 1 Sleight of Hand
 2 Stoneforge Mystic
@@ -110,12 +110,12 @@
 4 Rift Bolt
 4 Mountain
 4 Light Up the Stage
-1 Vantress Gargoyle
+1 Into the Story
 1 Thieves' Guild Enforcer
 1 Thoughtseize
-1 Into the Story
-2 Vantress Gargoyle
+1 Vantress Gargoyle
 2 Thieves' Guild Enforcer
+2 Vantress Gargoyle
 3 Thieves' Guild Enforcer
 3 Vantress Gargoyle
 4 Drown in the Loch
@@ -135,19 +135,19 @@
 4 Arcum's Astrolabe
 1 Snow-Covered Mountain
 1 Stomping Ground
-1 Tarmogoyf
-1 Forest
 1 Breeding Pool
+1 Forest
 1 Hooting Mandrills
+1 Tarmogoyf
 1 Botanical Sanctum
 1 Stubborn Denial
-2 Tarmogoyf
 2 Hooting Mandrills
 2 Stubborn Denial
+2 Tarmogoyf
 3 Misty Rainforest
 3 Hooting Mandrills
-3 Tarmogoyf
 3 Stubborn Denial
+3 Tarmogoyf
 4 Misty Rainforest
 4 Stubborn Denial
 2 Vapor Snag
@@ -171,6 +171,22 @@
 2 Field of Ruin
 3 Bitterblossom
 4 Bitterblossom
+1 Young Pyromancer
+1 Heartless Act
+2 Young Pyromancer
+3 Young Pyromancer
+4 Darkslick Shores
+4 Young Pyromancer
+1 Fact or Fiction
+1 Shadow of Doubt
+1 Raugrin Triome
+1 Brineborn Cutthroat
+2 Fact or Fiction
+2 Brineborn Cutthroat
+2 Shadow of Doubt
+3 Brineborn Cutthroat
+3 Island
+4 Brineborn Cutthroat
 1 Tarfire
 1 Flame Slash
 1 Blossoming Defense
@@ -179,22 +195,6 @@
 2 Blossoming Defense
 3 Tarfire
 4 Tarmogoyf
-1 Young Pyromancer
-1 Heartless Act
-2 Young Pyromancer
-3 Young Pyromancer
-4 Darkslick Shores
-4 Young Pyromancer
-1 Shadow of Doubt
-1 Raugrin Triome
-1 Brineborn Cutthroat
-1 Fact or Fiction
-2 Fact or Fiction
-2 Brineborn Cutthroat
-2 Shadow of Doubt
-3 Brineborn Cutthroat
-3 Island
-4 Brineborn Cutthroat
 1 Mutagenic Growth
 2 Mutagenic Growth
 4 Hooting Mandrills

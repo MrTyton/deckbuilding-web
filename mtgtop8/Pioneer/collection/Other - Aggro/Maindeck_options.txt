@@ -1,49 +1,49 @@
-2 Collected Company
-3 Collected Company
-4 Collected Company
+1 Thraben Inspector
+1 General Kudro of Drannith
+2 Reflector Mage
+2 Unclaimed Territory
+2 Thalia's Lieutenant
+2 Hero of Precinct One
+2 Concealed Courtyard
+2 General Kudro of Drannith
+2 Thraben Inspector
+3 Reflector Mage
+3 Thalia's Lieutenant
+3 Hero of Precinct One
+3 Thraben Inspector
+3 Concealed Courtyard
+3 General Kudro of Drannith
+3 Unclaimed Territory
+4 Reflector Mage
+4 Thalia's Lieutenant
+4 Hero of Precinct One
+4 Concealed Courtyard
+4 General Kudro of Drannith
+4 Thraben Inspector
+4 Unclaimed Territory
 1 Temple Garden
 1 Plains
 1 Overgrown Tomb
 1 Blooming Marsh
 2 Blooming Marsh
+1 Dreadhorde Arcanist
+1 Wild Slash
+2 Dreadhorde Arcanist
+2 Wild Slash
+3 Dreadhorde Arcanist
+3 Wild Slash
+4 Young Pyromancer
+4 Dreadhorde Arcanist
+1 Fabled Passage
+2 Fabled Passage
 1 Botanical Sanctum
-3 Mana Confluence
-4 Mana Confluence
-1 Reflector Mage
-1 Unclaimed Territory
 1 Hallowed Fountain
-1 Hero of Precinct One
 1 General's Enforcer
-1 Concealed Courtyard
-1 Thraben Inspector
-1 Thalia's Lieutenant
-1 General Kudro of Drannith
 1 Rogue Refiner
-2 Reflector Mage
-2 Unclaimed Territory
 2 Hallowed Fountain
-2 Hero of Precinct One
-2 Concealed Courtyard
-2 Thalia's Lieutenant
-2 General Kudro of Drannith
 2 Rogue Refiner
 2 General's Enforcer
-2 Thraben Inspector
-3 Reflector Mage
-3 Hero of Precinct One
-3 Thraben Inspector
-3 Unclaimed Territory
-3 Concealed Courtyard
-3 Thalia's Lieutenant
-3 General Kudro of Drannith
 3 Rogue Refiner
-4 Reflector Mage
-4 Hero of Precinct One
-4 Concealed Courtyard
-4 Thalia's Lieutenant
-4 General Kudro of Drannith
-4 Thraben Inspector
-4 Unclaimed Territory
 4 Mountain
 2 Temple Garden
 1 Forest
@@ -132,27 +132,27 @@
 1 Charming Prince
 1 Prophet of Kruphix
 1 Llanowar Visionary
-1 Radiant Fountain
 1 Knight of Autumn
 1 Sporeweb Weaver
 1 Chord of Calling
 1 Voice of Resurgence
 1 Fairgrounds Warden
+1 Radiant Fountain
 2 Chord of Calling
-2 Llanowar Visionary
 2 Prophet of Kruphix
+2 Llanowar Visionary
 2 Radiant Fountain
 2 Voice of Resurgence
 3 Voice of Resurgence
 3 Prophet of Kruphix
-1 Niambi, Esteemed Speaker
 1 Kytheon, Hero of Akros
+1 Niambi, Esteemed Speaker
 1 Dire Tactics
-2 Dire Tactics
 2 Kytheon, Hero of Akros
+2 Dire Tactics
 2 Niambi, Esteemed Speaker
-3 General's Enforcer
 3 Kytheon, Hero of Akros
+3 General's Enforcer
 3 Dire Tactics
 1 Shanna, Sisay's Legacy
 2 Shanna, Sisay's Legacy
@@ -171,6 +171,7 @@
 2 Anafenza, Kin-Tree Spirit
 4 Elvish Mystic
 4 Fortified Village
+1 Cast Out
 1 Sigil of the Empty Throne
 1 Banishing Light
 1 Calix, Destiny's Hand
@@ -179,10 +180,10 @@
 1 Sphere of Safety
 1 Alseid of Life's Bounty
 1 Eidolon of Blossoms
-1 Cast Out
 1 Starfield Mystic
 1 Herald of the Pantheon
 2 Cast Out
+2 Calix, Destiny's Hand
 2 Banishing Light
 2 Field of Ruin
 2 Sigil of the Empty Throne
@@ -191,9 +192,9 @@
 2 Setessan Champion
 2 Eidolon of Blossoms
 2 Starfield Mystic
-2 Calix, Destiny's Hand
 2 Temple of Plenty
 3 Cast Out
+3 Calix, Destiny's Hand
 3 Setessan Champion
 3 Banishing Light
 3 Starfield Mystic
@@ -201,7 +202,6 @@
 3 Eidolon of Blossoms
 3 Herald of the Pantheon
 3 Alseid of Life's Bounty
-3 Calix, Destiny's Hand
 4 Setessan Champion
 4 Cast Out
 4 Banishing Light
@@ -219,55 +219,59 @@
 2 Fiend Artisan
 2 Knight of the Ebon Legion
 2 Bloodsoaked Champion
-3 Fiend Artisan
 3 Mire Triton
+3 Fiend Artisan
 3 Knight of the Ebon Legion
 3 Bloodsoaked Champion
 4 Mire Triton
 4 Fiend Artisan
 4 Bloodsoaked Champion
+1 Breeding Pool
+2 Breeding Pool
+3 Breeding Pool
+4 Breeding Pool
 2 Overgrown Tomb
 3 Overgrown Tomb
 4 Overgrown Tomb
 4 Blooming Marsh
 1 Gilded Goose
-1 Mayhem Devil
-1 Priest of Forgotten Gods
 1 Catacomb Sifter
-1 Llanowar Wastes
 1 Blisterpod
 1 Bolas's Citadel
 1 Zulaport Cutthroat
 1 Woe Strider
+1 Priest of Forgotten Gods
+1 Mayhem Devil
+1 Llanowar Wastes
 1 Stomping Ground
-2 Mayhem Devil
-2 Llanowar Wastes
-2 Priest of Forgotten Gods
 2 Blisterpod
 2 Catacomb Sifter
 2 Zulaport Cutthroat
 2 Woe Strider
 2 Bolas's Citadel
+2 Priest of Forgotten Gods
 2 Gilded Goose
+2 Mayhem Devil
+2 Llanowar Wastes
 2 Stomping Ground
-3 Llanowar Wastes
-3 Gilded Goose
 3 Zulaport Cutthroat
 3 Woe Strider
-3 Mayhem Devil
 3 Catacomb Sifter
-3 Blisterpod
-3 Priest of Forgotten Gods
 3 Bolas's Citadel
+3 Priest of Forgotten Gods
+3 Gilded Goose
+3 Blisterpod
+3 Llanowar Wastes
+3 Mayhem Devil
 3 Stomping Ground
-4 Blisterpod
-4 Gilded Goose
 4 Bolas's Citadel
 4 Zulaport Cutthroat
 4 Woe Strider
-4 Mayhem Devil
 4 Catacomb Sifter
 4 Priest of Forgotten Gods
+4 Gilded Goose
+4 Blisterpod
+4 Mayhem Devil
 4 Stomping Ground
 1 Chandra, Torch of Defiance
 1 Elspeth's Nightmare
@@ -286,7 +290,6 @@
 3 Ox of Agonas
 4 Kroxa, Titan of Death's Hunger
 4 Bonecrusher Giant
-1 Brokkos, Apex of Forever
 1 Prized Amalgam
 1 Merfolk Secretkeeper
 1 Breaking / Entering
@@ -298,7 +301,7 @@
 1 Scrapheap Scrounger
 1 Haunted Dead
 1 Uro, Titan of Nature's Wrath
-1 Breeding Pool
+1 Brokkos, Apex of Forever
 2 Creeping Chill
 2 Botanical Sanctum
 2 Prized Amalgam
@@ -309,7 +312,6 @@
 2 Narcomoeba
 2 Haunted Dead
 2 Grisly Salvage
-2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
 3 Silversmote Ghoul
 3 Creeping Chill
@@ -319,14 +321,12 @@
 3 Haunted Dead
 3 Satyr Wayfinder
 3 Uro, Titan of Nature's Wrath
-3 Breeding Pool
 3 Botanical Sanctum
 4 Creeping Chill
 4 Merfolk Secretkeeper
 4 Silversmote Ghoul
 4 Prized Amalgam
 4 Grisly Salvage
-4 Breeding Pool
 4 Botanical Sanctum
 4 Satyr Wayfinder
 1 Fetid Pools
@@ -336,12 +336,12 @@
 1 Ashiok, Nightmare Muse
 1 Atris, Oracle of Half-Truths
 1 Urborg, Tomb of Yawgmoth
-1 Aether Hub
 1 Thief of Sanity
 1 Ashiok, Nightmare Weaver
+1 Aether Hub
 2 Gifted Aetherborn
-2 Atris, Oracle of Half-Truths
 2 Fetid Pools
+2 Atris, Oracle of Half-Truths
 2 Tasigur, the Golden Fang
 2 Thought Erasure
 2 Ashiok, Nightmare Weaver
@@ -354,6 +354,26 @@
 4 Thief of Sanity
 4 Fetid Pools
 4 Aether Hub
+1 Thalia, Heretic Cathar
+1 Kitesail Freebooter
+1 Inspiring Vantage
+1 Gideon Blackblade
+1 Mutavault
+1 Mantis Rider
+1 Anafenza, the Foremost
+2 Inspiring Vantage
+2 Kitesail Freebooter
+2 Mutavault
+2 Gideon Blackblade
+2 Mantis Rider
+3 Inspiring Vantage
+3 Mantis Rider
+3 Kitesail Freebooter
+3 Gideon Blackblade
+3 Mutavault
+4 Inspiring Vantage
+4 Mantis Rider
+4 Mutavault
 1 Eliminate
 1 Brazen Borrower
 1 Thieves' Guild Enforcer
@@ -378,29 +398,29 @@
 4 Murderous Rider
 6 Swamp
 1 Pelt Collector
+1 Stonecoil Serpent
 1 Voracious Hydra
 1 Nissa, Voice of Zendikar
 1 Hardened Scales
 1 Hangarback Walker
 1 Dromoka's Command
-1 Stonecoil Serpent
 1 Rishkar, Peema Renegade
-2 Stonecoil Serpent
 2 Voracious Hydra
+2 Stonecoil Serpent
 2 Hardened Scales
 2 Pelt Collector
 2 Nissa, Voice of Zendikar
 2 Hangarback Walker
 2 Dromoka's Command
 2 Rishkar, Peema Renegade
-3 Stonecoil Serpent
 3 Hangarback Walker
 3 Pelt Collector
 3 Hardened Scales
 3 Nissa, Voice of Zendikar
+3 Stonecoil Serpent
 3 Voracious Hydra
 3 Rishkar, Peema Renegade
-4 Stonecoil Serpent
 4 Hardened Scales
+4 Stonecoil Serpent
 8 Forest
 9 Forest

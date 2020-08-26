@@ -62,11 +62,12 @@
 3 Lingering Souls
 4 Cabal Therapy
 1 Intangible Virtue
+1 Marsh Flats
 1 Bitterblossom
 1 Mystic Sanctuary
 1 Opposition
 1 Arcum's Astrolabe
-1 Marsh Flats
+1 Snow-Covered Swamp
 1 Umezawa's Jitte
 1 Narset, Parter of Veils
 1 Goblin Bombardment
@@ -74,17 +75,16 @@
 1 Aminatou, the Fateshifter
 1 Breya, Etherium Shaper
 1 Saheeli, Sublime Artificer
-1 Snow-Covered Swamp
 2 Tundra
-2 Marsh Flats
 2 Arcum's Astrolabe
+2 Marsh Flats
 2 Bitterblossom
 2 Saheeli, Sublime Artificer
 3 Arcum's Astrolabe
-3 Teferi, Time Raveler
-3 Baleful Strix
 3 Enlightened Tutor
 3 Marsh Flats
+3 Baleful Strix
+3 Teferi, Time Raveler
 3 Saheeli, Sublime Artificer
 4 Arcum's Astrolabe
 4 Lingering Souls
@@ -93,8 +93,8 @@
 4 Marsh Flats
 2 Preordain
 1 Gurmag Angler
-2 Eliminate
 2 Gurmag Angler
+2 Eliminate
 1 Lotus Petal
 2 Lotus Petal
 3 Lotus Petal
@@ -292,9 +292,9 @@
 2 Dread Wanderer
 2 Mutavault
 3 Gurmag Angler
+3 Eliminate
 3 Hymn to Tourach
 3 Gravecrawler
-3 Eliminate
 3 Dread Wanderer
 3 Mutavault
 4 Hymn to Tourach
@@ -332,43 +332,6 @@
 3 Grindstone
 4 Imperial Recruiter
 4 Pyroblast
-1 Windswept Heath
-1 Recruiter of the Guard
-2 Recruiter of the Guard
-1 Birds of Paradise
-2 Birds of Paradise
-1 True-Name Nemesis
-1 Deputy of Detention
-1 Soulherder
-1 Knight of Autumn
-1 Vendilion Clique
-1 Eternal Witness
-1 Savannah
-1 Spell Queller
-1 Dryad Arbor
-1 Edric, Spymaster of Trest
-1 Collected Company
-1 Ice-Fang Coatl
-1 Green Sun's Zenith
-1 Phantasmal Image
-2 Ice-Fang Coatl
-2 Snow-Covered Forest
-2 True-Name Nemesis
-2 Collected Company
-2 Green Sun's Zenith
-2 Phantasmal Image
-2 Spell Queller
-3 Ice-Fang Coatl
-3 True-Name Nemesis
-3 Collected Company
-3 Snow-Covered Forest
-3 Spell Queller
-3 Green Sun's Zenith
-4 Ice-Fang Coatl
-4 Collected Company
-4 True-Name Nemesis
-4 Green Sun's Zenith
-4 Spell Queller
 1 Buried Alive
 1 Bayou
 1 Abrupt Decay
@@ -434,13 +397,14 @@
 4 Leonin Arbiter
 1 Waterlogged Grove
 2 Waterlogged Grove
+1 Windswept Heath
 1 Cavern of Souls
 2 Cavern of Souls
 3 Cavern of Souls
 1 Forest
 2 Forest
-1 Intuition
 1 Mox Diamond
+1 Intuition
 1 Bojuka Bog
 1 Crop Rotation
 1 Rishadan Port
@@ -505,6 +469,42 @@
 4 Manamorphose
 4 Lava Dart
 4 Light Up the Stage
+1 Recruiter of the Guard
+2 Recruiter of the Guard
+1 Birds of Paradise
+2 Birds of Paradise
+1 True-Name Nemesis
+1 Deputy of Detention
+1 Soulherder
+1 Knight of Autumn
+1 Vendilion Clique
+1 Eternal Witness
+1 Savannah
+1 Spell Queller
+1 Dryad Arbor
+1 Edric, Spymaster of Trest
+1 Collected Company
+1 Ice-Fang Coatl
+1 Green Sun's Zenith
+1 Phantasmal Image
+2 Ice-Fang Coatl
+2 Snow-Covered Forest
+2 True-Name Nemesis
+2 Collected Company
+2 Green Sun's Zenith
+2 Phantasmal Image
+2 Spell Queller
+3 Ice-Fang Coatl
+3 True-Name Nemesis
+3 Snow-Covered Forest
+3 Spell Queller
+3 Green Sun's Zenith
+3 Collected Company
+4 Ice-Fang Coatl
+4 True-Name Nemesis
+4 Green Sun's Zenith
+4 Spell Queller
+4 Collected Company
 1 Shambling Shell
 1 Nether Shadow
 1 Phantasmagorian
@@ -563,35 +563,35 @@
 4 Ichorid
 1 Veil of Summer
 1 Botanical Sanctum
-1 Thought Lash
-1 Jace, Wielder of Mysteries
 1 Thassa's Oracle
 1 Spell Pierce
+1 Thought Lash
 1 Paradigm Shift
 1 Shelldock Isle
 1 Island
 1 Relic of Progenitus
+1 Jace, Wielder of Mysteries
 2 Thassa's Oracle
 2 Island
 2 Shelldock Isle
 2 Botanical Sanctum
-2 Thought Lash
-2 Jace, Wielder of Mysteries
 2 Veil of Summer
 2 Spell Pierce
+2 Jace, Wielder of Mysteries
+2 Thought Lash
 2 Paradigm Shift
 3 Island
 3 Botanical Sanctum
-3 Paradigm Shift
-3 Thought Lash
 3 Veil of Summer
+3 Thought Lash
 3 Waterlogged Grove
+3 Paradigm Shift
 3 Thassa's Oracle
 4 Waterlogged Grove
 4 Thassa's Oracle
 4 Paradigm Shift
-4 Thought Lash
 4 Veil of Summer
+4 Thought Lash
 1 Gaea's Cradle
 2 Gaea's Cradle
 1 Tree of Tales
@@ -633,9 +633,9 @@
 2 Vault Skirge
 2 Walking Ballista
 3 Walking Ballista
-4 Oko, Thief of Crowns
 4 Stonecoil Serpent
 4 Tropical Island
+4 Oko, Thief of Crowns
 4 Walking Ballista
 4 City of Traitors
 4 Emry, Lurker of the Loch
@@ -681,25 +681,25 @@
 1 Blood Sun
 1 Magus of the Moon
 1 Seasoned Pyromancer
+1 Lukka, Coppercoat Outcast
 1 Trinisphere
 1 Emrakul, the Aeons Torn
 1 Once Upon a Time
-1 Lukka, Coppercoat Outcast
 2 Blood Sun
 2 Seasoned Pyromancer
+2 Lukka, Coppercoat Outcast
 2 Blood Moon
 2 Trinisphere
 2 Magus of the Moon
-2 Lukka, Coppercoat Outcast
 2 Once Upon a Time
 3 Magus of the Moon
 3 Seasoned Pyromancer
 3 Blood Moon
 3 Blood Sun
+3 Lukka, Coppercoat Outcast
 3 Trinisphere
 3 Simian Spirit Guide
 3 Once Upon a Time
-3 Lukka, Coppercoat Outcast
 4 Magus of the Moon
 4 Seasoned Pyromancer
 4 Simian Spirit Guide
@@ -707,6 +707,32 @@
 4 Blood Moon
 8 Mountain
 9 Mountain
+1 Putrid Imp
+1 Leyline of the Void
+1 Lightning Greaves
+1 Emrakul, the Promised End
+1 Divest
+1 Rogue's Passage
+1 Phage the Untouchable
+2 Putrid Imp
+2 Leyline of the Void
+2 Divest
+2 Phage the Untouchable
+2 Emrakul, the Promised End
+2 Rogue's Passage
+2 Lightning Greaves
+3 Putrid Imp
+3 Leyline of the Void
+3 Surgical Extraction
+3 Phage the Untouchable
+3 Divest
+4 Putrid Imp
+4 Surgical Extraction
+4 Divest
+10 Swamp
+11 Swamp
+12 Swamp
+13 Swamp
 1 Imperious Perfect
 1 Llanowar Visionary
 1 Craterhoof Behemoth
@@ -753,36 +779,10 @@
 4 Elvish Clancaller
 4 Llanowar Elves
 5 Forest
-6 Forest
 7 Forest
 8 Forest
 9 Forest
 10 Forest
 11 Forest
 12 Forest
-1 Leyline of the Void
-1 Lightning Greaves
-1 Emrakul, the Promised End
-1 Putrid Imp
-1 Divest
-1 Rogue's Passage
-1 Phage the Untouchable
-2 Putrid Imp
-2 Leyline of the Void
-2 Divest
-2 Phage the Untouchable
-2 Emrakul, the Promised End
-2 Rogue's Passage
-2 Lightning Greaves
-3 Putrid Imp
-3 Leyline of the Void
-3 Surgical Extraction
-3 Phage the Untouchable
-3 Divest
-4 Putrid Imp
-4 Surgical Extraction
-4 Divest
-10 Swamp
-11 Swamp
-12 Swamp
-13 Swamp
+6 Forest

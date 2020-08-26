@@ -1,9 +1,9 @@
 3 Fatal Push
 1 Knight of Autumn
-1 Sin Collector
-1 Basri's Lieutenant
-1 Sorin, Vengeful Bloodlord
 1 Anafenza, the Foremost
+1 Sin Collector
+1 Sorin, Vengeful Bloodlord
+1 Basri's Lieutenant
 2 Anafenza, the Foremost
 2 Sin Collector
 1 Cling to Dust
@@ -47,24 +47,24 @@
 2 Ashiok, Dream Render
 2 Disdainful Stroke
 2 Enter the God-Eternals
-1 Tomik, Distinguished Advokist
 1 Archangel Avacyn
 1 Remorseful Cleric
 1 Sparkhunter Masticore
-1 Declaration in Stone
-1 Eidolon of Rhetoric
+1 Tomik, Distinguished Advokist
 1 Skylasher
+1 Eidolon of Rhetoric
+1 Declaration in Stone
 1 Hushbringer
 2 Declaration in Stone
 3 Declaration in Stone
+1 Damping Sphere
+2 Damping Sphere
 1 Kalitas, Traitor of Ghet
 1 Self-Inflicted Wound
 1 Moment of Craving
 1 Spell Pierce
 1 Annul
-1 Damping Sphere
 2 Kalitas, Traitor of Ghet
-2 Damping Sphere
 2 Self-Inflicted Wound
 2 Moment of Craving
 2 Annul
@@ -80,8 +80,8 @@
 2 Baffling End
 2 Gideon, Ally of Zendikar
 3 Baffling End
-1 Magma Spray
 1 Pack Rat
+1 Magma Spray
 2 Magma Spray
 2 Pack Rat
 3 Noxious Grasp
@@ -98,6 +98,19 @@
 2 Kolaghan's Command
 2 Pharika's Libation
 3 Duress
+1 Dire Tactics
+1 Elder Deep-Fiend
+1 Watery Grave
+2 Watery Grave
+2 Dire Tactics
+2 Elder Deep-Fiend
+3 Dire Tactics
+3 Watery Grave
+3 Elder Deep-Fiend
+3 Damping Sphere
+4 Watery Grave
+4 Dire Tactics
+4 Damping Sphere
 1 Drill Bit
 1 Gifted Aetherborn
 2 Necromentia
@@ -110,10 +123,10 @@
 1 Destiny Spinner
 1 Seal Away
 1 Nyx-Fleece Ram
-2 Rest in Peace
 2 Seal Away
 2 Gideon's Intervention
 2 Destiny Spinner
+2 Rest in Peace
 2 Nyx-Fleece Ram
 3 Rest in Peace
 3 Gideon's Intervention

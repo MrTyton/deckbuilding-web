@@ -1,16 +1,3 @@
-3 Uro, Titan of Nature's Wrath
-5 Island
-3 Sublime Epiphany
-3 Castle Vantress
-4 Temple of Mystery
-4 Shark Typhoon
-1 Aetherspouts
-2 Aetherspouts
-3 Blast Zone
-1 Swamp
-4 Fabled Passage
-1 Eliminate
-1 Fatal Push
 1 Thoughtseize
 2 Swamp
 2 Thoughtseize
@@ -30,9 +17,9 @@
 1 Watery Grave
 1 Fetid Pools
 1 Choked Estuary
+1 Kalitas, Traitor of Ghet
 1 Day's Undoing
 1 Ashiok, Nightmare Muse
-1 Kalitas, Traitor of Ghet
 1 Heartless Act
 1 Hero's Downfall
 2 Thing in the Ice
@@ -49,87 +36,53 @@
 4 Dig Through Time
 4 Watery Grave
 4 Drowned Catacomb
-1 Satyr Wayfinder
-1 Thassa, Deep-Dwelling
-1 Elvish Rejuvenator
-1 Scavenging Ooze
-1 Hostage Taker
-1 Botanical Sanctum
-1 Yavimaya Coast
-1 Woodland Bellower
-1 Neoform
-1 Cavalier of Night
-1 Massacre Girl
-1 Cavalier of Gales
-1 Reclamation Sage
-1 Thought-Knot Seer
-1 Eldritch Evolution
-1 Overgrown Tomb
-1 Arboreal Grazer
-1 Unesh, Criosphinx Sovereign
-1 Grapple with the Past
-1 Llanowar Wastes
-1 Blooming Marsh
-1 Tasigur, the Golden Fang
-1 Agent of Treachery
-2 Satyr Wayfinder
-2 Elvish Rejuvenator
-2 Yavimaya Coast
-2 Neoform
-2 Blooming Marsh
-2 Overgrown Tomb
-2 Tasigur, the Golden Fang
-2 Grapple with the Past
-2 Agent of Treachery
-2 Eldritch Evolution
-2 Arboreal Grazer
-2 Llanowar Wastes
-3 Satyr Wayfinder
-3 Neoform
-3 Yavimaya Coast
-3 Grapple with the Past
-3 Arboreal Grazer
-3 Forest
-3 Llanowar Wastes
-3 Eldritch Evolution
-3 Blooming Marsh
-4 Satyr Wayfinder
-4 Neoform
-4 Arboreal Grazer
+1 Lumbering Falls
+1 Teferi, Master of Time
+2 Lumbering Falls
+2 Teferi, Master of Time
+3 Uro, Titan of Nature's Wrath
+5 Island
+3 Sublime Epiphany
+3 Castle Vantress
+4 Temple of Mystery
+4 Shark Typhoon
+1 Aetherspouts
+2 Aetherspouts
+3 Blast Zone
 1 Liliana, Waker of the Dead
 1 Kroxa, Titan of Death's Hunger
-1 Blood Crypt
-1 Dragonskull Summit
 1 Castle Locthwain
+1 Blood Crypt
+1 Field of Ruin
+1 Dragonskull Summit
 1 Davriel, Rogue Shadowmage
+1 Murderous Rider
 1 Kolaghan's Command
 1 Waste Not
 1 Mountain
-1 Field of Ruin
 1 Collective Brutality
-1 Murderous Rider
 1 Hazoret the Fervent
 2 Kroxa, Titan of Death's Hunger
-2 Blood Crypt
 2 Dragonskull Summit
+2 Blood Crypt
 2 Eliminate
 2 Liliana, Waker of the Dead
 2 Davriel, Rogue Shadowmage
+2 Murderous Rider
 2 Hazoret the Fervent
 2 Kolaghan's Command
 2 Mountain
-2 Murderous Rider
 2 Field of Ruin
 2 Collective Brutality
 2 Waste Not
 2 Castle Locthwain
 3 Kolaghan's Command
+3 Swamp
 3 Eliminate
-3 Blood Crypt
 3 Dragonskull Summit
+3 Blood Crypt
 3 Kroxa, Titan of Death's Hunger
 3 Castle Locthwain
-3 Swamp
 3 Davriel, Rogue Shadowmage
 3 Liliana, Waker of the Dead
 3 Waste Not
@@ -144,11 +97,11 @@
 1 Temple of Enlightenment
 1 Clifftop Retreat
 1 Wandering Fumarole
-1 Jace, Vryn's Prodigy
 1 Sacred Foundry
-1 Temple of Epiphany
 1 Izzet Charm
+1 Jace, Vryn's Prodigy
 1 Temple of Triumph
+1 Temple of Epiphany
 1 Commit / Memory
 1 Settle the Wreckage
 1 Dream Trawler
@@ -192,3 +145,50 @@
 4 Steam Vents
 4 Hallowed Fountain
 4 Teferi, Time Raveler
+1 Thassa, Deep-Dwelling
+1 Elvish Rejuvenator
+1 Scavenging Ooze
+1 Hostage Taker
+1 Botanical Sanctum
+1 Woodland Bellower
+1 Neoform
+1 Cavalier of Night
+1 Massacre Girl
+1 Cavalier of Gales
+1 Reclamation Sage
+1 Thought-Knot Seer
+1 Eldritch Evolution
+1 Overgrown Tomb
+1 Arboreal Grazer
+1 Unesh, Criosphinx Sovereign
+1 Grapple with the Past
+1 Llanowar Wastes
+1 Satyr Wayfinder
+1 Blooming Marsh
+1 Tasigur, the Golden Fang
+1 Agent of Treachery
+1 Yavimaya Coast
+2 Elvish Rejuvenator
+2 Neoform
+2 Blooming Marsh
+2 Overgrown Tomb
+2 Tasigur, the Golden Fang
+2 Satyr Wayfinder
+2 Grapple with the Past
+2 Agent of Treachery
+2 Eldritch Evolution
+2 Arboreal Grazer
+2 Llanowar Wastes
+2 Yavimaya Coast
+3 Neoform
+3 Yavimaya Coast
+3 Grapple with the Past
+3 Arboreal Grazer
+3 Forest
+3 Llanowar Wastes
+3 Eldritch Evolution
+3 Satyr Wayfinder
+3 Blooming Marsh
+4 Neoform
+4 Arboreal Grazer
+4 Satyr Wayfinder

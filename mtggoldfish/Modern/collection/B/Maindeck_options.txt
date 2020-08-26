@@ -1,55 +1,18 @@
 4 Cling to Dust
-1 Snow-Covered Swamp
-1 Collective Brutality
-1 Ghost Quarter
-1 Crucible of Worlds
-2 Collective Brutality
-1 Shambling Vent
-1 Fetid Heath
-1 Flagstones of Trokair
-1 Nameless Inversion
-1 Silent Clearing
-1 Godless Shrine
-1 Bloodghast
-1 Lingering Souls
-1 Haakon, Stromgald Scourge
-1 Plains
-1 Rankle, Master of Pranks
-2 Shambling Vent
-2 Fetid Heath
-2 Ghost Quarter
-2 Snow-Covered Swamp
-2 Flagstones of Trokair
-2 Rankle, Master of Pranks
-2 Nameless Inversion
-2 Lingering Souls
-2 Silent Clearing
-2 Bloodghast
-2 Haakon, Stromgald Scourge
-2 Godless Shrine
-3 Ghost Quarter
-3 Snow-Covered Swamp
-3 Flagstones of Trokair
-3 Lingering Souls
-3 Collective Brutality
-3 Bloodghast
-4 Lingering Souls
-4 Collective Brutality
-4 Bloodghast
+1 The Rack
 1 Shrieking Affliction
 1 Raven's Crime
 1 Funeral Charm
 1 Dismember
 1 Wrench Mind
-1 The Rack
-2 Wrench Mind
-2 The Rack
 2 Shrieking Affliction
 2 Raven's Crime
+2 Wrench Mind
+2 The Rack
 3 Wrench Mind
+3 The Rack
 3 Shrieking Affliction
 3 Raven's Crime
-3 The Rack
 4 Castle Locthwain
 4 Shrieking Affliction
 4 Raven's Crime
@@ -57,51 +20,40 @@
 7 Swamp
 8 Swamp
 9 Swamp
-1 Indatha Triome
-1 Ancient Stirrings
-1 Blooming Marsh
-1 Glimmervoid
-1 Surgical Extraction
-1 Grafdigger's Cage
-1 Zagoth Triome
-1 Academy Ruins
-1 Engineered Explosives
-1 Welding Jar
-1 Pithing Needle
-1 Sorcerous Spyglass
-1 Inventors' Fair
-1 Lantern of Insight
-1 Snow-Covered Forest
-1 Mastermind's Acquisition
-1 Codex Shredder
-1 Ghoulcaller's Bell
-1 Spire of Industry
-1 Ensnaring Bridge
-1 Pyxis of Pandemonium
-1 Forest
-1 Assassin's Trophy
-2 Glimmervoid
-2 Ancient Stirrings
-2 Inventors' Fair
-2 Surgical Extraction
-2 Assassin's Trophy
-2 Blooming Marsh
-2 Pyxis of Pandemonium
-2 Codex Shredder
-2 Ensnaring Bridge
-2 Lantern of Insight
-2 Spire of Industry
-2 Academy Ruins
-2 Pithing Needle
-3 Ancient Stirrings
-3 Ensnaring Bridge
-3 Glimmervoid
-3 Lantern of Insight
-3 Blooming Marsh
-3 Codex Shredder
-4 Glimmervoid
-4 Codex Shredder
-4 Ancient Stirrings
-4 Lantern of Insight
-4 Ensnaring Bridge
-4 Blooming Marsh
+1 Shambling Vent
+1 Fetid Heath
+1 Flagstones of Trokair
+1 Snow-Covered Swamp
+1 Crucible of Worlds
+1 Collective Brutality
+1 Ghost Quarter
+1 Rankle, Master of Pranks
+1 Nameless Inversion
+1 Silent Clearing
+1 Godless Shrine
+1 Bloodghast
+1 Haakon, Stromgald Scourge
+1 Plains
+1 Lingering Souls
+2 Shambling Vent
+2 Fetid Heath
+2 Ghost Quarter
+2 Snow-Covered Swamp
+2 Flagstones of Trokair
+2 Collective Brutality
+2 Rankle, Master of Pranks
+2 Nameless Inversion
+2 Bloodghast
+2 Lingering Souls
+2 Silent Clearing
+2 Haakon, Stromgald Scourge
+2 Godless Shrine
+3 Ghost Quarter
+3 Snow-Covered Swamp
+3 Flagstones of Trokair
+3 Collective Brutality
+3 Lingering Souls
+3 Bloodghast
+4 Lingering Souls
+4 Collective Brutality
+4 Bloodghast

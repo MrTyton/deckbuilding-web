@@ -1,9 +1,13 @@
-3 Collected Company
-3 Kitchen Finks
-3 Noble Hierarch
-4 Collected Company
+4 Vizier of Remedies
+3 Verdant Catacombs
+3 Horizon Canopy
+2 Spike Feeder
+3 Spike Feeder
+3 Heliod, Sun-Crowned
+4 Birds of Paradise
+3 Finale of Devastation
+4 Finale of Devastation
 4 Giver of Runes
-2 Walking Ballista
 1 Duskwatch Recruiter
 2 Postmortem Lunge
 2 Duskwatch Recruiter
@@ -13,12 +17,8 @@
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
-3 Verdant Catacombs
 2 Plains
 1 Viscera Seer
-2 Spike Feeder
-3 Spike Feeder
-3 Heliod, Sun-Crowned
 4 Heliod, Sun-Crowned
 4 Noble Hierarch
 3 Duskwatch Recruiter
@@ -37,6 +37,7 @@
 4 Utopia Sprawl
 4 Snow-Covered Forest
 1 Eternal Witness
+2 Chord of Calling
 1 Seasoned Pyromancer
 1 Magus of the Moon
 1 Stomping Ground
@@ -47,7 +48,6 @@
 3 Seasoned Pyromancer
 3 Voice of Resurgence
 4 Seasoned Pyromancer
-2 Chord of Calling
 3 Chord of Calling
 4 Chord of Calling
 1 Sacred Foundry
@@ -83,6 +83,7 @@
 4 Path to Exile
 4 Restoration Angel
 4 Stoneforge Mystic
+4 Verdant Catacombs
 1 Arbor Elf
 2 Arbor Elf
 3 Arbor Elf
@@ -105,14 +106,15 @@
 4 Teferi, Time Raveler
 4 Oath of Nissa
 1 Gavony Township
+1 Carrion Feeder
+4 Ranger-Captain of Eos
 3 Temple Garden
 1 Lightning Bolt
 2 Lightning Bolt
 3 Eldritch Evolution
 4 Eldritch Evolution
-1 Swamp
-4 Verdant Catacombs
 1 Pendelhaven
+1 Swamp
 1 Phyrexian Revoker
 2 Scavenging Ooze
 2 Grove of the Burnwillows
@@ -128,13 +130,11 @@
 2 Strangleroot Geist
 3 Strangleroot Geist
 4 Strangleroot Geist
+1 Marsh Flats
 1 Spellskite
 1 Selfless Savior
-1 Carrion Feeder
 1 Lurrus of the Dream-Den
 4 Spike Feeder
-1 Marsh Flats
-4 Ranger-Captain of Eos
 1 Copperline Gorge
 1 Embercleave
 1 Winota, Joiner of Forces
@@ -147,8 +147,8 @@
 2 Winota, Joiner of Forces
 2 Angrath's Marauders
 3 Copperline Gorge
-3 Angrath's Marauders
 3 Lightning Bolt
+3 Angrath's Marauders
 3 Stomping Ground
 3 Winota, Joiner of Forces
 4 Copperline Gorge
