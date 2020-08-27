@@ -1,15 +1,19 @@
 1 Knight of the Ebon Legion
 3 Woe Strider
+1 Temple of Silence
+1 General's Enforcer
+2 Swamp
 1 Embercleave
+4 Legion Warboss
 4 Mountain
 5 Plains
 6 Plains
 7 Plains
-4 Legion Warboss
+3 Blood Crypt
+2 Embercleave
 8 Plains
 5 Mountain
 6 Mountain
-2 Embercleave
 1 Tithe Taker
 2 Tithe Taker
 2 Castle Embereth
@@ -18,25 +22,21 @@
 3 Stonecoil Serpent
 7 Mountain
 3 Tithe Taker
-1 Temple of Silence
-1 General's Enforcer
-2 Swamp
+3 Swamp
 3 Tajic, Legion's Edge
 4 Stonecoil Serpent
-3 Blood Crypt
-3 Swamp
+4 Godless Shrine
 3 Embercleave
 8 Mountain
-4 Godless Shrine
-4 Tithe Taker
 4 Blood Crypt
-1 Gingerbrute
-2 Gingerbrute
 1 Kenrith, the Returned King
+4 Tithe Taker
 3 Savai Triome
 4 Savai Triome
-1 Haktos the Unscarred
 3 Fabled Passage
+1 Haktos the Unscarred
+1 Gingerbrute
+2 Gingerbrute
 2 Kenrith, the Returned King
 4 Lazotep Reaver
 1 General Kudro of Drannith
@@ -53,14 +53,35 @@
 3 Seasoned Hallowblade
 4 Seasoned Hallowblade
 2 Haktos the Unscarred
+1 Scavenging Ooze
+1 Temple Garden
+1 Pelt Collector
+1 Stomping Ground
+1 Conclave Mentor
+1 Forest
+2 Scavenging Ooze
+2 Temple Garden
+2 Pelt Collector
+2 Stomping Ground
+2 Forest
+2 Conclave Mentor
+3 Temple Garden
+3 Pelt Collector
+3 Stomping Ground
+3 Conclave Mentor
+3 Scavenging Ooze
+3 Forest
+4 Temple Garden
+4 Stomping Ground
 4 Swamp
-4 Kitesail Freebooter
 4 Woe Strider
+4 Kitesail Freebooter
 2 Knight of the Ebon Legion
 1 Gutterbones
 2 Gutterbones
 3 Gutterbones
 1 Chandra, Acolyte of Flame
+1 Temple of Plenty
 2 Alseid of Life's Bounty
 2 General's Enforcer
 2 General Kudro of Drannith
@@ -75,31 +96,45 @@
 2 Forbidden Friendship
 3 Forbidden Friendship
 4 Forbidden Friendship
-1 Scavenging Ooze
-1 Temple Garden
-1 Stomping Ground
-1 Pelt Collector
-1 Temple of Plenty
-1 Conclave Mentor
-1 Forest
-2 Scavenging Ooze
-2 Temple Garden
-2 Pelt Collector
-2 Stomping Ground
-2 Forest
-2 Conclave Mentor
-3 Temple Garden
-3 Pelt Collector
-3 Stomping Ground
-3 Scavenging Ooze
-3 Conclave Mentor
-3 Forest
-4 Temple Garden
-4 Stomping Ground
 1 Robber of the Rich
 2 Robber of the Rich
 3 Robber of the Rich
 4 Robber of the Rich
+1 Hallowed Fountain
+1 Barrin, Tolarian Archmage
+1 Steam Vents
+1 Brazen Borrower
+1 Island
+1 Sphinx of Foresight
+1 Raugrin Triome
+2 Hallowed Fountain
+2 Barrin, Tolarian Archmage
+2 Steam Vents
+2 Brazen Borrower
+2 Island
+2 Raugrin Triome
+2 Sphinx of Foresight
+3 Raugrin Triome
+3 Brazen Borrower
+3 Hallowed Fountain
+3 Barrin, Tolarian Archmage
+3 Steam Vents
+3 Kenrith, the Returned King
+3 Sphinx of Foresight
+4 Raugrin Triome
+4 Hallowed Fountain
+4 Brazen Borrower
+4 Steam Vents
+4 Sphinx of Foresight
+1 Gilded Goose
+1 Giant Killer
+1 Temple of Abandon
+1 Gruul Spellbreaker
+2 Gilded Goose
+2 Gruul Spellbreaker
+3 Gilded Goose
+4 Pelt Collector
+4 Conclave Mentor
 1 Castle Locthwain
 1 Lurrus of the Dream-Den
 1 Priest of Forgotten Gods
@@ -116,37 +151,11 @@
 3 Knight of the Ebon Legion
 4 Gutterbones
 4 Knight of the Ebon Legion
-1 Brazen Borrower
-1 Hallowed Fountain
-1 Raugrin Triome
-1 Steam Vents
-1 Barrin, Tolarian Archmage
-1 Island
-1 Sphinx of Foresight
-2 Brazen Borrower
-2 Hallowed Fountain
-2 Steam Vents
-2 Island
-2 Raugrin Triome
-2 Sphinx of Foresight
-2 Barrin, Tolarian Archmage
-3 Raugrin Triome
-3 Brazen Borrower
-3 Hallowed Fountain
-3 Steam Vents
-3 Kenrith, the Returned King
-3 Sphinx of Foresight
-3 Barrin, Tolarian Archmage
-4 Raugrin Triome
-4 Hallowed Fountain
-4 Sphinx of Foresight
-4 Steam Vents
-4 Brazen Borrower
-3 Castle Embereth
-4 Castle Embereth
-9 Plains
 1 Silverwing Squadron
 2 Silverwing Squadron
 3 Silverwing Squadron
 4 Silverwing Squadron
 9 Mountain
+9 Plains
+3 Castle Embereth
+4 Castle Embereth

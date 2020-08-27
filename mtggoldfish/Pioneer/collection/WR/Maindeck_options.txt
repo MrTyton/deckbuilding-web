@@ -1,5 +1,5 @@
-1 Thraben Inspector
 1 Shefet Dunes
+1 Thraben Inspector
 1 Brave the Elements
 2 Thraben Inspector
 2 Shefet Dunes
@@ -11,7 +11,6 @@
 13 Plains
 14 Plains
 15 Plains
-1 Soldier of the Pantheon
 1 Venerated Loxodon
 1 Knight of the White Orchid
 1 Dauntless Bodyguard
@@ -21,6 +20,7 @@
 1 Kytheon, Hero of Akros
 1 Mardu Woe-Reaper
 1 Boros Elite
+1 Soldier of the Pantheon
 2 Venerated Loxodon
 2 Knight of the White Orchid
 2 Dauntless Bodyguard
@@ -51,21 +51,21 @@
 1 Heliod, Sun-Crowned
 1 Speaker of the Heavens
 1 Archangel Avacyn
+1 Baffling End
+1 Elspeth, Sun's Nemesis
 1 Banishing Light
-1 Shalai, Voice of Plenty
 1 Lyra Dawnbringer
+1 Shalai, Voice of Plenty
 1 Nykthos, Shrine to Nyx
 1 Resplendent Angel
-1 Elspeth, Sun's Nemesis
 1 Bishop of Wings
-1 Baffling End
-2 Castle Ardenvale
 2 Heliod, Sun-Crowned
 2 Banishing Light
+2 Castle Ardenvale
 2 Speaker of the Heavens
 2 Lyra Dawnbringer
-2 Resplendent Angel
 2 Baffling End
+2 Resplendent Angel
 2 Shalai, Voice of Plenty
 2 Bishop of Wings
 2 Archangel Avacyn
@@ -74,8 +74,8 @@
 3 Shalai, Voice of Plenty
 3 Resplendent Angel
 3 Bishop of Wings
-4 Baffling End
 4 Castle Ardenvale
 4 Resplendent Angel
 4 Bishop of Wings
+4 Baffling End
 16 Plains

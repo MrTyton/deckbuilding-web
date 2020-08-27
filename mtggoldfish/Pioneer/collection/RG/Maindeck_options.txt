@@ -18,6 +18,14 @@
 1 Domri, Anarch of Bolas
 2 Domri, Anarch of Bolas
 2 Klothys, God of Destiny
+1 Burning-Tree Emissary
+1 Reckless Bushwhacker
+2 Reckless Bushwhacker
+2 Burning-Tree Emissary
+3 Burning-Tree Emissary
+3 Reckless Bushwhacker
+4 Burning-Tree Emissary
+4 Reckless Bushwhacker
 3 Game Trail
 4 Game Trail
 1 Scavenging Ooze
@@ -26,16 +34,8 @@
 2 Scavenging Ooze
 3 Gruul Spellbreaker
 1 Atarka's Command
-1 Burning-Tree Emissary
-1 Reckless Bushwhacker
 2 Atarka's Command
-2 Reckless Bushwhacker
-2 Burning-Tree Emissary
 3 Atarka's Command
-3 Burning-Tree Emissary
-3 Reckless Bushwhacker
-4 Burning-Tree Emissary
-4 Reckless Bushwhacker
 1 Garruk's Harbinger
 1 Pelt Collector
 1 Yorvo, Lord of Garenbrig
@@ -45,17 +45,31 @@
 2 Cinder Glade
 3 Scavenging Ooze
 2 Mana Confluence
+1 Zurgo Bellstriker
+1 Monastery Swiftspear
+1 Soul-Scar Mage
+1 Rimrock Knight
+2 Rimrock Knight
+2 Soul-Scar Mage
+2 Monastery Swiftspear
+3 Rimrock Knight
+3 Monastery Swiftspear
+3 Soul-Scar Mage
+4 Rimrock Knight
+4 Monastery Swiftspear
+7 Mountain
+8 Mountain
 1 Xenagos, the Reveler
 1 Gilded Goose
-1 Emrakul, the Promised End
 1 Lukka, Coppercoat Outcast
 1 Worldspine Wurm
 1 Rosethorn Acolyte
+1 Emrakul, the Promised End
 2 Lukka, Coppercoat Outcast
 2 Rosethorn Acolyte
 3 Lukka, Coppercoat Outcast
-3 Captain Lannery Storm
 3 Rosethorn Acolyte
+3 Captain Lannery Storm
 1 Questing Beast
 1 Bonders' Enclave
 1 Vivien, Arkbow Ranger
@@ -70,14 +84,50 @@
 4 Gruul Spellbreaker
 4 Glorybringer
 4 Rekindling Phoenix
+1 Fervent Champion
+1 Gallia of the Endless Dance
+1 Runaway Steam-Kin
+2 Fervent Champion
+2 Gallia of the Endless Dance
+2 Runaway Steam-Kin
+3 Fervent Champion
+3 Gallia of the Endless Dance
+3 Runaway Steam-Kin
+3 Mana Confluence
+4 Fervent Champion
+4 Atarka's Command
+4 Runaway Steam-Kin
+1 Marauding Raptor
+1 Ghalta, Primal Hunger
+1 Reckless Rage
+1 Ripjaw Raptor
+1 Commune with Dinosaurs
+1 Regisaur Alpha
+2 Marauding Raptor
+2 Rhonas the Indomitable
+2 Ghalta, Primal Hunger
+2 Commune with Dinosaurs
+2 Reckless Rage
+2 Regisaur Alpha
+2 Ripjaw Raptor
+3 Marauding Raptor
+3 Regisaur Alpha
+3 Commune with Dinosaurs
+3 Reckless Rage
+3 Ripjaw Raptor
+4 Marauding Raptor
+4 Reckless Rage
+4 Regisaur Alpha
+4 Commune with Dinosaurs
+4 Ripjaw Raptor
 1 Castle Vantress
 1 Sulfur Falls
 1 Beanstalk Giant
 1 Brazen Borrower
 1 Island
 1 Dig Through Time
-1 Breeding Pool
 1 Steam Vents
+1 Breeding Pool
 1 Fae of Wishes
 1 Ketria Triome
 1 Lucky Clover
@@ -100,55 +150,31 @@
 4 Brazen Borrower
 4 Ketria Triome
 4 Fae of Wishes
-4 Lucky Clover
 4 Beanstalk Giant
-1 Marauding Raptor
-1 Ghalta, Primal Hunger
-1 Reckless Rage
-1 Ripjaw Raptor
-1 Commune with Dinosaurs
-1 Regisaur Alpha
-2 Marauding Raptor
-2 Rhonas the Indomitable
-2 Commune with Dinosaurs
-2 Ghalta, Primal Hunger
-2 Reckless Rage
-2 Regisaur Alpha
-2 Ripjaw Raptor
-3 Marauding Raptor
-3 Regisaur Alpha
-3 Commune with Dinosaurs
-3 Reckless Rage
-3 Ripjaw Raptor
-4 Marauding Raptor
-4 Reckless Rage
-4 Regisaur Alpha
-4 Commune with Dinosaurs
-4 Ripjaw Raptor
-1 Fervent Champion
-1 Gallia of the Endless Dance
-1 Zurgo Bellstriker
-1 Runaway Steam-Kin
-1 Soul-Scar Mage
-1 Rimrock Knight
-1 Monastery Swiftspear
-2 Fervent Champion
-2 Gallia of the Endless Dance
-2 Rimrock Knight
-2 Soul-Scar Mage
-2 Monastery Swiftspear
-2 Runaway Steam-Kin
-3 Rimrock Knight
-3 Fervent Champion
-3 Gallia of the Endless Dance
-3 Mana Confluence
-3 Runaway Steam-Kin
-3 Monastery Swiftspear
-3 Soul-Scar Mage
-4 Rimrock Knight
-4 Fervent Champion
-4 Atarka's Command
-4 Runaway Steam-Kin
-4 Monastery Swiftspear
-7 Mountain
-8 Mountain
+4 Lucky Clover
+1 Forbidden Friendship
+1 Abbot of Keral Keep
+1 Castle Embereth
+1 Mutavault
+1 Bomat Courier
+2 Castle Embereth
+2 Forbidden Friendship
+2 Bomat Courier
+2 Abbot of Keral Keep
+2 Mutavault
+3 Embercleave
+3 Forbidden Friendship
+3 Bomat Courier
+3 Mutavault
+3 Abbot of Keral Keep
+4 Forbidden Friendship
+4 Bomat Courier
+4 Abbot of Keral Keep
+4 Soul-Scar Mage
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+13 Mountain
+14 Mountain
+15 Mountain

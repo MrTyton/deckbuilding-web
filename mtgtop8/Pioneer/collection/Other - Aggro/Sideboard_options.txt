@@ -1,11 +1,11 @@
 3 Fatal Push
 1 Knight of Autumn
 1 Anafenza, the Foremost
-1 Sin Collector
 1 Sorin, Vengeful Bloodlord
+1 Sin Collector
 1 Basri's Lieutenant
-2 Anafenza, the Foremost
 2 Sin Collector
+2 Anafenza, the Foremost
 1 Cling to Dust
 1 Scavenging Ooze
 3 Thoughtseize
@@ -24,13 +24,6 @@
 1 Gideon, Ally of Zendikar
 1 Grafdigger's Cage
 2 Grafdigger's Cage
-1 Tasigur, the Golden Fang
-1 Reclamation Sage
-1 Driven / Despair
-1 Assassin's Trophy
-1 Abrupt Decay
-2 Driven / Despair
-2 Abrupt Decay
 1 Eliminate
 1 Deputy of Detention
 1 Kaya, Orzhov Usurper
@@ -38,6 +31,13 @@
 2 Eliminate
 2 Deputy of Detention
 2 Kambal, Consul of Allocation
+1 Tasigur, the Golden Fang
+1 Reclamation Sage
+1 Driven / Despair
+1 Assassin's Trophy
+1 Abrupt Decay
+2 Driven / Despair
+2 Abrupt Decay
 1 Enter the God-Eternals
 1 Mystical Dispute
 1 Unmoored Ego
@@ -112,10 +112,10 @@
 2 Watery Grave
 2 Dire Tactics
 2 Elder Deep-Fiend
-3 Dire Tactics
 3 Watery Grave
-3 Elder Deep-Fiend
+3 Dire Tactics
 3 Damping Sphere
+3 Elder Deep-Fiend
 4 Watery Grave
 4 Dire Tactics
 4 Damping Sphere

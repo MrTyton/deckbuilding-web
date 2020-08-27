@@ -32,8 +32,8 @@
 1 Joraga Treespeaker
 1 Umbral Mantle
 1 Horizon Canopy
-2 Horizon Canopy
 2 Temple Garden
+2 Horizon Canopy
 2 Joraga Treespeaker
 2 Razorverge Thicket
 3 Horizon Canopy
@@ -46,8 +46,8 @@
 1 Beast Whisperer
 1 Wildborn Preserver
 1 Scavenging Ooze
-2 Wildborn Preserver
 2 Scavenging Ooze
+2 Wildborn Preserver
 1 Llanowar Wastes
 2 Llanowar Wastes
 3 Llanowar Wastes
@@ -70,24 +70,24 @@
 1 Selfless Spirit
 1 Mirror Entity
 1 Boreal Druid
+2 Windswept Heath
 2 Boreal Druid
 2 Umbral Mantle
-2 Windswept Heath
 3 Windswept Heath
 3 Umbral Mantle
 4 Umbral Mantle
+1 Stoneforge Mystic
 1 Batterskull
 1 Noble Hierarch
-1 Stoneforge Mystic
 2 Wooded Foothills
 2 Stoneforge Mystic
-3 Wooded Foothills
 3 Stoneforge Mystic
+3 Wooded Foothills
 3 Joraga Treespeaker
+4 Stoneforge Mystic
 4 Wooded Foothills
 4 Leyline of Abundance
 4 Joraga Treespeaker
-4 Stoneforge Mystic
 1 Lead the Stampede
 1 Arbor Elf
 2 Lead the Stampede
@@ -98,7 +98,6 @@
 4 Arbor Elf
 5 Forest
 6 Forest
-7 Forest
 8 Forest
 9 Forest
 10 Forest
@@ -110,3 +109,4 @@
 16 Forest
 17 Forest
 18 Forest
+7 Forest
