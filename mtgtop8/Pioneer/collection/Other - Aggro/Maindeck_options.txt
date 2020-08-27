@@ -89,8 +89,8 @@
 1 Conclave Mentor
 2 Conclave Mentor
 3 Conclave Mentor
-4 Conclave Mentor
 4 Sunpetal Grove
+4 Conclave Mentor
 6 Forest
 7 Forest
 5 Swamp
@@ -139,8 +139,8 @@
 1 Fairgrounds Warden
 1 Radiant Fountain
 2 Chord of Calling
-2 Prophet of Kruphix
 2 Llanowar Visionary
+2 Prophet of Kruphix
 2 Radiant Fountain
 2 Voice of Resurgence
 3 Voice of Resurgence
@@ -193,10 +193,10 @@
 2 Eidolon of Blossoms
 2 Starfield Mystic
 2 Temple of Plenty
-3 Cast Out
-3 Calix, Destiny's Hand
 3 Setessan Champion
+3 Cast Out
 3 Banishing Light
+3 Calix, Destiny's Hand
 3 Starfield Mystic
 3 Temple of Plenty
 3 Eidolon of Blossoms
@@ -235,21 +235,21 @@
 4 Overgrown Tomb
 4 Blooming Marsh
 1 Gilded Goose
+1 Priest of Forgotten Gods
 1 Catacomb Sifter
 1 Blisterpod
 1 Bolas's Citadel
 1 Zulaport Cutthroat
 1 Woe Strider
-1 Priest of Forgotten Gods
 1 Mayhem Devil
 1 Llanowar Wastes
 1 Stomping Ground
+2 Priest of Forgotten Gods
 2 Blisterpod
 2 Catacomb Sifter
 2 Zulaport Cutthroat
 2 Woe Strider
 2 Bolas's Citadel
-2 Priest of Forgotten Gods
 2 Gilded Goose
 2 Mayhem Devil
 2 Llanowar Wastes
@@ -257,8 +257,8 @@
 3 Zulaport Cutthroat
 3 Woe Strider
 3 Catacomb Sifter
-3 Bolas's Citadel
 3 Priest of Forgotten Gods
+3 Bolas's Citadel
 3 Gilded Goose
 3 Blisterpod
 3 Llanowar Wastes
@@ -273,16 +273,16 @@
 4 Blisterpod
 4 Mayhem Devil
 4 Stomping Ground
+1 Liliana, the Last Hope
 1 Chandra, Torch of Defiance
 1 Elspeth's Nightmare
 1 Ox of Agonas
-1 Kolaghan's Command
 1 Ritual of Soot
-1 Liliana, the Last Hope
+1 Kolaghan's Command
 1 Bonecrusher Giant
 1 Anger of the Gods
-2 Ox of Agonas
 2 Elspeth's Nightmare
+2 Ox of Agonas
 2 Kolaghan's Command
 2 Bonecrusher Giant
 3 Collective Brutality
@@ -291,25 +291,25 @@
 4 Kroxa, Titan of Death's Hunger
 4 Bonecrusher Giant
 1 Prized Amalgam
+1 Haunted Dead
 1 Merfolk Secretkeeper
-1 Breaking / Entering
 1 Creeping Chill
 1 Silversmote Ghoul
+1 Brokkos, Apex of Forever
 1 Satyr Wayfinder
 1 Grisly Salvage
 1 Narcomoeba
 1 Scrapheap Scrounger
-1 Haunted Dead
 1 Uro, Titan of Nature's Wrath
-1 Brokkos, Apex of Forever
+1 Breaking / Entering
 2 Creeping Chill
 2 Botanical Sanctum
 2 Prized Amalgam
 2 Merfolk Secretkeeper
-2 Breaking / Entering
 2 Silversmote Ghoul
 2 Satyr Wayfinder
 2 Narcomoeba
+2 Breaking / Entering
 2 Haunted Dead
 2 Grisly Salvage
 2 Uro, Titan of Nature's Wrath
@@ -329,11 +329,11 @@
 4 Grisly Salvage
 4 Botanical Sanctum
 4 Satyr Wayfinder
-1 Fetid Pools
-1 Tasigur, the Golden Fang
-1 Thought Erasure
-1 Gifted Aetherborn
 1 Ashiok, Nightmare Muse
+1 Fetid Pools
+1 Thought Erasure
+1 Tasigur, the Golden Fang
+1 Gifted Aetherborn
 1 Atris, Oracle of Half-Truths
 1 Urborg, Tomb of Yawgmoth
 1 Thief of Sanity
@@ -342,8 +342,8 @@
 2 Gifted Aetherborn
 2 Fetid Pools
 2 Atris, Oracle of Half-Truths
-2 Tasigur, the Golden Fang
 2 Thought Erasure
+2 Tasigur, the Golden Fang
 2 Ashiok, Nightmare Weaver
 2 Aether Hub
 2 Thief of Sanity
@@ -374,25 +374,25 @@
 4 Inspiring Vantage
 4 Mantis Rider
 4 Mutavault
+1 Choked Estuary
 1 Eliminate
 1 Brazen Borrower
 1 Thieves' Guild Enforcer
-1 Choked Estuary
 1 Rankle, Master of Pranks
 1 Mystical Dispute
 1 Island
+2 Choked Estuary
 2 Eliminate
 2 Brazen Borrower
 2 Thieves' Guild Enforcer
-2 Choked Estuary
 2 Rankle, Master of Pranks
 2 Island
 2 Mystical Dispute
 3 Brazen Borrower
 3 Thieves' Guild Enforcer
-3 Island
 3 Eliminate
 3 Rankle, Master of Pranks
+3 Island
 4 Brazen Borrower
 4 Thieves' Guild Enforcer
 4 Murderous Rider
@@ -405,11 +405,11 @@
 1 Hangarback Walker
 1 Dromoka's Command
 1 Rishkar, Peema Renegade
-2 Voracious Hydra
 2 Stonecoil Serpent
+2 Voracious Hydra
 2 Hardened Scales
-2 Pelt Collector
 2 Nissa, Voice of Zendikar
+2 Pelt Collector
 2 Hangarback Walker
 2 Dromoka's Command
 2 Rishkar, Peema Renegade

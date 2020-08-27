@@ -1,6 +1,6 @@
+3 Containment Priest
 1 Seal of Cleansing
 2 Seal of Cleansing
-3 Containment Priest
 1 Surgical Extraction
 1 Back to Basics
 1 Ashiok, Dream Render
@@ -20,16 +20,16 @@
 1 Liquimetal Coating
 1 Palace Jailer
 1 Disenchant
-1 Meddling Mage
 1 Rest in Peace
+1 Meddling Mage
 1 Flusterstorm
 2 Disenchant
-2 Rest in Peace
 1 Lavinia, Azorius Renegade
+2 Rest in Peace
+1 Force of Negation
+1 Deafening Silence
 1 Hydroblast
 2 Meddling Mage
-1 Deafening Silence
-1 Force of Negation
 1 Engineered Explosives
 1 Path to Exile
 1 Grafdigger's Cage
@@ -37,12 +37,13 @@
 2 Ashiok, Dream Render
 1 Pyroblast
 2 Pyroblast
+2 Force of Negation
 1 Narset, Parter of Veils
 1 Pithing Needle
 1 Veil of Summer
 1 Sylvan Library
-2 Force of Negation
 2 Veil of Summer
+1 Cataclysm
 1 Sword of Feast and Famine
 1 Red Elemental Blast
 1 Wear/Tear
@@ -51,7 +52,6 @@
 1 Jace, the Mind Sculptor
 1 Vendilion Clique
 1 Liliana's Triumph
-1 Cataclysm
 1 On Thin Ice
 1 Mystic Forge
 1 Spell Pierce
@@ -64,6 +64,18 @@
 2 Flusterstorm
 1 Batterskull
 4 Swords to Plowshares
+1 Grim Lavamancer
+1 Karakas
+2 Karakas
+2 Grim Lavamancer
+3 Meddling Mage
+4 Meddling Mage
+1 Oust
+1 Ethersworn Canonist
+2 Oust
+3 Force of Negation
+4 Force of Negation
+4 Containment Priest
 1 Thoughtseize
 1 Riptide Pilferer
 2 Thoughtseize
@@ -74,9 +86,3 @@
 4 Thoughtseize
 4 Surgical Extraction
 4 Riptide Pilferer
-1 Grim Lavamancer
-1 Karakas
-2 Karakas
-2 Grim Lavamancer
-3 Meddling Mage
-4 Meddling Mage
