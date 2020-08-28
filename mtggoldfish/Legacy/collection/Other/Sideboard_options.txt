@@ -1,88 +1,89 @@
-3 Pyroblast
-1 Engineered Explosives
-1 Deafening Silence
-1 Seal of Cleansing
-1 Humility
-1 Swords to Plowshares
-1 Narset, Parter of Veils
-1 Meddling Mage
-1 Monastery Mentor
-2 Meddling Mage
-2 Monastery Mentor
-3 Monastery Mentor
-2 Plague Engineer
-1 Pithing Needle
-1 Nihil Spellbomb
 1 Tormod's Crypt
-2 Nihil Spellbomb
-1 Engineered Plague
-2 Pithing Needle
+1 Surgical Extraction
+1 Ethersworn Canonist
+1 Ensnaring Bridge
+1 Mycosynth Lattice
+2 Surgical Extraction
+1 Walking Ballista
+1 Plague Engineer
+2 Plague Engineer
+1 Rest in Peace
+1 Containment Priest
+2 Rest in Peace
+1 Thorn of Amethyst
+2 Thorn of Amethyst
+2 Tormod's Crypt
+1 Faerie Macabre
+2 Faerie Macabre
+2 Ensnaring Bridge
+3 Ensnaring Bridge
+4 Ensnaring Bridge
+1 Grafdigger's Cage
+1 Dismember
+2 Dismember
+2 Containment Priest
+1 Lavinia, Azorius Renegade
+1 Force of Negation
+2 Force of Negation
+3 Force of Negation
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
-1 Palace Jailer
-1 Eliminate
-1 Kolaghan's Command
+1 Engineered Plague
+1 Back to Basics
+2 Ethersworn Canonist
+3 Thorn of Amethyst
+1 Liquimetal Coating
+1 Defense Grid
+2 Pithing Needle
+1 Nihil Spellbomb
+1 Chains of Mephistopheles
+2 Chains of Mephistopheles
+1 Null Rod
 1 Collective Brutality
 1 Ashiok, Dream Render
 2 Collective Brutality
-1 Chains of Mephistopheles
-2 Chains of Mephistopheles
-1 Rest in Peace
-2 Rest in Peace
-1 Back to Basics
-1 Detention Sphere
+1 Palace Jailer
 1 Spreading Seas
 1 Runed Halo
 1 Wheel of Sun and Moon
 1 Stony Silence
+1 Detention Sphere
 1 Tsabo's Web
 1 Yorion, Sky Nomad
-1 Containment Priest
-1 Thorn of Amethyst
-2 Thorn of Amethyst
-2 Tormod's Crypt
-1 Ensnaring Bridge
-1 Faerie Macabre
-2 Faerie Macabre
-1 Ethersworn Canonist
-1 Mycosynth Lattice
-1 Enlightened Tutor
-1 Blood Moon
-1 Grindstone
-1 Painter's Servant
-2 Enlightened Tutor
-2 Red Elemental Blast
+1 Sphere of Resistance
+1 Skysovereign, Consul Flagship
+1 Damping Sphere
+1 Trinisphere
+1 Sorcerous Spyglass
+1 Phyrexian Metamorph
+1 Glass Casket
 2 Narset, Parter of Veils
-1 Grafdigger's Cage
-1 Dismember
-2 Dismember
-1 Collector Ouphe
-2 Grafdigger's Cage
-1 Veil of Summer
-2 Veil of Summer
-3 Veil of Summer
-1 Izzet Staticaster
-1 Brazen Borrower
-1 Cindervines
-1 Scavenging Ooze
-2 Izzet Staticaster
-1 Walking Ballista
-1 Liquimetal Coating
+1 Lightning Bolt
 1 Goblin Cratermaker
-1 Defense Grid
 1 Wurmcoil Engine
 1 Pyroclasm
 1 Pyrokinesis
-1 Lightning Bolt
 1 Embereth Shieldbreaker
 2 Goblin Cratermaker
 2 Embereth Shieldbreaker
+1 Grindstone
+1 Painter's Servant
+1 Red Elemental Blast
+1 Blood Moon
+1 Enlightened Tutor
+2 Red Elemental Blast
+2 Enlightened Tutor
+1 Remorseful Cleric
+1 Knight of Autumn
+1 Deputy of Detention
+1 Gilded Drake
+1 Collector Ouphe
+2 Gilded Drake
 1 Path to Exile
 1 Kaya, Orzhov Usurper
 2 Deafening Silence
-2 Containment Priest
 2 Kaya, Orzhov Usurper
 2 Path to Exile
 1 Smallpox
@@ -100,11 +101,15 @@
 2 Ruinous Path
 2 Endless Whispers
 2 Doom Blade
+1 Force of Vigor
+2 Force of Vigor
+3 Force of Vigor
 1 Dark Confidant
 1 Liliana, the Last Hope
 1 Liliana's Triumph
 2 Dark Confidant
 2 Liliana's Triumph
+2 Nihil Spellbomb
 3 Dark Confidant
 1 Bitterblossom
 1 Dystopia
@@ -114,25 +119,17 @@
 2 Dystopia
 2 Engineered Plague
 3 Collective Brutality
+1 Blue Elemental Blast
 1 Reclamation Sage
 1 Carpet of Flowers
-1 Blue Elemental Blast
 1 Echoing Truth
 1 Ceremonious Rejection
 1 Jolrael, Mwonvuli Recluse
+2 Grafdigger's Cage
 2 Carpet of Flowers
 2 Jolrael, Mwonvuli Recluse
 2 Reclamation Sage
 3 Grafdigger's Cage
-1 Lavinia, Azorius Renegade
-1 Remorseful Cleric
-1 Knight of Autumn
-1 Deputy of Detention
-1 Gilded Drake
-2 Force of Negation
-2 Ethersworn Canonist
-2 Gilded Drake
-3 Force of Negation
 1 Council's Judgment
 1 Armageddon
 1 Holy Light
@@ -153,21 +150,35 @@
 1 Phyrexian Revoker
 2 Chalice of the Void
 2 Walking Ballista
-2 Vapor Snag
 2 Phyrexian Revoker
+2 Vapor Snag
 3 Chalice of the Void
 3 Vapor Snag
 4 Chalice of the Void
-1 Helm of Obedience
+1 Submerge
+1 Hydroblast
+1 Blazing Volley
+1 Shattering Spree
+2 Submerge
+2 Blazing Volley
+2 Shattering Spree
+3 Surgical Extraction
+3 Shattering Spree
+4 Surgical Extraction
+3 Faerie Macabre
+4 Thorn of Amethyst
+1 Oust
+1 Cataclysm
+2 Oust
+3 Containment Priest
+4 Force of Negation
+4 Containment Priest
 1 Iona, Shield of Emeria
 1 Ashen Rider
+1 Helm of Obedience
 1 Elesh Norn, Grand Cenobite
 3 Pithing Needle
 4 Pithing Needle
-3 Thorn of Amethyst
-1 Force of Vigor
-2 Force of Vigor
-3 Force of Vigor
 1 Contagion
 1 Leyline of Sanctity
 2 Leyline of Sanctity
@@ -176,27 +187,31 @@
 3 Contagion
 4 Leyline of Sanctity
 4 Force of Vigor
+1 Oblivion Ring
+2 Defense Grid
+2 Oblivion Ring
+3 Defense Grid
+3 Ethersworn Canonist
+3 Oblivion Ring
+4 Ethersworn Canonist
 1 Primeval Titan
 1 Blast Zone
 1 Drop of Honey
-1 Sphere of Resistance
 2 Primeval Titan
 2 Sphere of Resistance
 3 Primeval Titan
 3 Sphere of Resistance
 4 Sphere of Resistance
-2 Ensnaring Bridge
-3 Faerie Macabre
-3 Ensnaring Bridge
-4 Thorn of Amethyst
-4 Ensnaring Bridge
-1 Karakas
-1 Chain of Vapor
 1 Island
+1 Veil of Summer
+1 Chain of Vapor
 1 Nature's Claim
+1 Karakas
+2 Veil of Summer
 2 Karakas
 2 Nature's Claim
 2 Chain of Vapor
+3 Veil of Summer
 3 Nature's Claim
 3 Chain of Vapor
 4 Veil of Summer
@@ -218,12 +233,12 @@
 3 Tyrant's Choice
 4 Price of Progress
 1 Jagged-Scar Archers
-1 Naturalize
 1 Return of the Wildspeaker
 1 Ezuri, Renegade Leader
 1 Hunting Triad
+1 Naturalize
 2 Jagged-Scar Archers
-2 Hunting Triad
-2 Naturalize
 2 Return of the Wildspeaker
+2 Naturalize
+2 Hunting Triad
 3 Hunting Triad

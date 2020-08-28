@@ -20,8 +20,8 @@
 2 Klothys, God of Destiny
 1 Burning-Tree Emissary
 1 Reckless Bushwhacker
-2 Reckless Bushwhacker
 2 Burning-Tree Emissary
+2 Reckless Bushwhacker
 3 Burning-Tree Emissary
 3 Reckless Bushwhacker
 4 Burning-Tree Emissary
@@ -30,15 +30,15 @@
 4 Game Trail
 1 Scavenging Ooze
 1 Gruul Spellbreaker
-2 Gruul Spellbreaker
 2 Scavenging Ooze
+2 Gruul Spellbreaker
 3 Gruul Spellbreaker
 1 Atarka's Command
 2 Atarka's Command
 3 Atarka's Command
 1 Garruk's Harbinger
-1 Pelt Collector
 1 Yorvo, Lord of Garenbrig
+1 Pelt Collector
 1 Wildborn Preserver
 1 Legion Loyalist
 1 Cinder Glade
@@ -61,29 +61,61 @@
 8 Mountain
 1 Xenagos, the Reveler
 1 Gilded Goose
+1 Emrakul, the Promised End
 1 Lukka, Coppercoat Outcast
 1 Worldspine Wurm
 1 Rosethorn Acolyte
-1 Emrakul, the Promised End
 2 Lukka, Coppercoat Outcast
 2 Rosethorn Acolyte
 3 Lukka, Coppercoat Outcast
 3 Rosethorn Acolyte
 3 Captain Lannery Storm
-1 Questing Beast
-1 Bonders' Enclave
-1 Vivien, Arkbow Ranger
-1 Kiora, Behemoth Beckoner
 1 Rekindling Phoenix
+2 Rekindling Phoenix
+1 Kiora, Behemoth Beckoner
+1 Bonders' Enclave
+1 Questing Beast
+1 Vivien, Arkbow Ranger
 2 Bonders' Enclave
 2 Kiora, Behemoth Beckoner
-2 Rekindling Phoenix
 2 Questing Beast
 3 Glorybringer
 3 Rekindling Phoenix
 4 Gruul Spellbreaker
 4 Glorybringer
 4 Rekindling Phoenix
+1 Sulfur Falls
+1 Brazen Borrower
+1 Steam Vents
+1 Island
+2 Island
+2 Sulfur Falls
+2 Brazen Borrower
+2 Steam Vents
+3 Brazen Borrower
+1 Castle Vantress
+1 Beanstalk Giant
+1 Dig Through Time
+1 Breeding Pool
+1 Ketria Triome
+1 Fae of Wishes
+1 Lucky Clover
+2 Ketria Triome
+2 Breeding Pool
+2 Enter the Infinite
+2 Beanstalk Giant
+2 Lucky Clover
+2 Fae of Wishes
+3 Ketria Triome
+3 Breeding Pool
+3 Lucky Clover
+3 Fae of Wishes
+3 Beanstalk Giant
+4 Brazen Borrower
+4 Ketria Triome
+4 Fae of Wishes
+4 Lucky Clover
+4 Beanstalk Giant
 1 Fervent Champion
 1 Gallia of the Endless Dance
 1 Runaway Steam-Kin
@@ -97,15 +129,58 @@
 4 Fervent Champion
 4 Atarka's Command
 4 Runaway Steam-Kin
-1 Marauding Raptor
+1 Mutavault
+2 Mutavault
+1 Kozilek's Return
+1 Ox of Agonas
+1 Chart a Course
+1 Spirebluff Canal
+1 Shivan Reef
+1 Elder Deep-Fiend
+1 Stitchwing Skaab
+1 Lightning Axe
+1 Sanctum of Ugin
+1 Flamewake Phoenix
+1 Champion of Wits
+1 Wandering Fumarole
+1 Izzet Charm
+2 Kozilek's Return
+2 Ox of Agonas
+2 Stitchwing Skaab
+2 Shivan Reef
+2 Sanctum of Ugin
+2 Elder Deep-Fiend
+2 Spirebluff Canal
+2 Izzet Charm
+2 Lightning Axe
+2 Champion of Wits
+2 Flamewake Phoenix
+2 Chart a Course
+3 Steam Vents
+3 Island
+3 Kozilek's Return
+3 Flamewake Phoenix
+3 Izzet Charm
+3 Elder Deep-Fiend
+3 Spirebluff Canal
+3 Stitchwing Skaab
+3 Shivan Reef
+3 Lightning Axe
+4 Shivan Reef
+4 Elder Deep-Fiend
+4 Flamewake Phoenix
+4 Steam Vents
+4 Izzet Charm
+4 Spirebluff Canal
 1 Ghalta, Primal Hunger
+1 Marauding Raptor
 1 Reckless Rage
 1 Ripjaw Raptor
 1 Commune with Dinosaurs
 1 Regisaur Alpha
+2 Ghalta, Primal Hunger
 2 Marauding Raptor
 2 Rhonas the Indomitable
-2 Ghalta, Primal Hunger
 2 Commune with Dinosaurs
 2 Reckless Rage
 2 Regisaur Alpha
@@ -115,58 +190,24 @@
 3 Commune with Dinosaurs
 3 Reckless Rage
 3 Ripjaw Raptor
-4 Marauding Raptor
 4 Reckless Rage
 4 Regisaur Alpha
 4 Commune with Dinosaurs
 4 Ripjaw Raptor
-1 Castle Vantress
-1 Sulfur Falls
-1 Beanstalk Giant
-1 Brazen Borrower
-1 Island
-1 Dig Through Time
-1 Steam Vents
-1 Breeding Pool
-1 Fae of Wishes
-1 Ketria Triome
-1 Lucky Clover
-2 Island
-2 Ketria Triome
-2 Breeding Pool
-2 Sulfur Falls
-2 Enter the Infinite
-2 Brazen Borrower
-2 Steam Vents
-2 Beanstalk Giant
-2 Lucky Clover
-2 Fae of Wishes
-3 Breeding Pool
-3 Brazen Borrower
-3 Ketria Triome
-3 Lucky Clover
-3 Fae of Wishes
-3 Beanstalk Giant
-4 Brazen Borrower
-4 Ketria Triome
-4 Fae of Wishes
-4 Beanstalk Giant
-4 Lucky Clover
+4 Marauding Raptor
 1 Forbidden Friendship
 1 Abbot of Keral Keep
 1 Castle Embereth
-1 Mutavault
 1 Bomat Courier
 2 Castle Embereth
 2 Forbidden Friendship
 2 Bomat Courier
 2 Abbot of Keral Keep
-2 Mutavault
 3 Embercleave
 3 Forbidden Friendship
 3 Bomat Courier
-3 Mutavault
 3 Abbot of Keral Keep
+3 Mutavault
 4 Forbidden Friendship
 4 Bomat Courier
 4 Abbot of Keral Keep

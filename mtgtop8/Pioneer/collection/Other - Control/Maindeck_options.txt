@@ -15,8 +15,8 @@
 1 Geier Reach Sanitarium
 1 Drowned Catacomb
 1 Watery Grave
-1 Fetid Pools
 1 Choked Estuary
+1 Fetid Pools
 1 Kalitas, Traitor of Ghet
 1 Day's Undoing
 1 Ashiok, Nightmare Muse
@@ -49,85 +49,38 @@
 1 Aetherspouts
 2 Aetherspouts
 3 Blast Zone
-1 Thassa, Deep-Dwelling
-1 Elvish Rejuvenator
-1 Scavenging Ooze
-1 Hostage Taker
-1 Botanical Sanctum
-1 Woodland Bellower
-1 Satyr Wayfinder
-1 Neoform
-1 Cavalier of Night
-1 Massacre Girl
-1 Cavalier of Gales
-1 Reclamation Sage
-1 Thought-Knot Seer
-1 Eldritch Evolution
-1 Overgrown Tomb
-1 Arboreal Grazer
-1 Unesh, Criosphinx Sovereign
-1 Grapple with the Past
-1 Llanowar Wastes
-1 Blooming Marsh
-1 Tasigur, the Golden Fang
-1 Agent of Treachery
-1 Yavimaya Coast
-2 Elvish Rejuvenator
-2 Satyr Wayfinder
-2 Neoform
-2 Blooming Marsh
-2 Overgrown Tomb
-2 Tasigur, the Golden Fang
-2 Grapple with the Past
-2 Agent of Treachery
-2 Eldritch Evolution
-2 Arboreal Grazer
-2 Llanowar Wastes
-2 Yavimaya Coast
-3 Neoform
-3 Satyr Wayfinder
-3 Yavimaya Coast
-3 Grapple with the Past
-3 Arboreal Grazer
-3 Forest
-3 Llanowar Wastes
-3 Eldritch Evolution
-3 Blooming Marsh
-4 Satyr Wayfinder
-4 Neoform
-4 Arboreal Grazer
 1 Liliana, Waker of the Dead
-1 Kroxa, Titan of Death's Hunger
 1 Castle Locthwain
 1 Blood Crypt
+1 Field of Ruin
 1 Dragonskull Summit
+1 Kroxa, Titan of Death's Hunger
 1 Davriel, Rogue Shadowmage
 1 Murderous Rider
+1 Collective Brutality
 1 Kolaghan's Command
 1 Waste Not
 1 Mountain
-1 Field of Ruin
-1 Collective Brutality
 1 Hazoret the Fervent
-2 Kroxa, Titan of Death's Hunger
-2 Blood Crypt
 2 Dragonskull Summit
-2 Eliminate
+2 Blood Crypt
+2 Kroxa, Titan of Death's Hunger
 2 Liliana, Waker of the Dead
 2 Davriel, Rogue Shadowmage
 2 Murderous Rider
+2 Collective Brutality
 2 Hazoret the Fervent
 2 Kolaghan's Command
 2 Mountain
+2 Eliminate
 2 Field of Ruin
-2 Collective Brutality
 2 Waste Not
 2 Castle Locthwain
 3 Kolaghan's Command
 3 Swamp
 3 Eliminate
-3 Blood Crypt
 3 Dragonskull Summit
+3 Blood Crypt
 3 Kroxa, Titan of Death's Hunger
 3 Castle Locthwain
 3 Davriel, Rogue Shadowmage
@@ -135,8 +88,8 @@
 3 Waste Not
 3 Mountain
 4 Kroxa, Titan of Death's Hunger
-4 Dragonskull Summit
 4 Blood Crypt
+4 Dragonskull Summit
 4 Liliana, Waker of the Dead
 4 Swamp
 4 Waste Not
@@ -145,11 +98,11 @@
 1 Clifftop Retreat
 1 Commit / Memory
 1 Wandering Fumarole
-1 Jace, Vryn's Prodigy
 1 Sacred Foundry
-1 Izzet Charm
 1 Temple of Epiphany
+1 Jace, Vryn's Prodigy
 1 Temple of Triumph
+1 Izzet Charm
 1 Settle the Wreckage
 1 Dream Trawler
 1 Teferi, Time Raveler
@@ -166,11 +119,11 @@
 2 Sulfur Falls
 2 Sacred Foundry
 2 Clifftop Retreat
+2 Temple of Enlightenment
 2 Izzet Charm
 2 Anger of the Gods
 2 Teferi, Time Raveler
 2 Karn, the Great Creator
-2 Temple of Enlightenment
 2 Supreme Verdict
 2 Steam Vents
 2 Hallowed Fountain
@@ -179,16 +132,63 @@
 2 Commit / Memory
 3 Sulfur Falls
 3 Anger of the Gods
-3 Collective Defiance
 3 Izzet Charm
+3 Collective Defiance
 3 Teferi, Time Raveler
 3 Raugrin Triome
 3 Steam Vents
 3 Commit / Memory
 3 Hallowed Fountain
+4 Izzet Charm
 4 Collective Defiance
 4 Raugrin Triome
 4 Steam Vents
 4 Hallowed Fountain
 4 Teferi, Time Raveler
-4 Izzet Charm
+1 Thassa, Deep-Dwelling
+1 Elvish Rejuvenator
+1 Scavenging Ooze
+1 Hostage Taker
+1 Botanical Sanctum
+1 Woodland Bellower
+1 Neoform
+1 Cavalier of Night
+1 Cavalier of Gales
+1 Massacre Girl
+1 Reclamation Sage
+1 Thought-Knot Seer
+1 Eldritch Evolution
+1 Overgrown Tomb
+1 Arboreal Grazer
+1 Unesh, Criosphinx Sovereign
+1 Grapple with the Past
+1 Llanowar Wastes
+1 Satyr Wayfinder
+1 Blooming Marsh
+1 Tasigur, the Golden Fang
+1 Agent of Treachery
+1 Yavimaya Coast
+2 Elvish Rejuvenator
+2 Neoform
+2 Blooming Marsh
+2 Overgrown Tomb
+2 Tasigur, the Golden Fang
+2 Satyr Wayfinder
+2 Grapple with the Past
+2 Agent of Treachery
+2 Eldritch Evolution
+2 Arboreal Grazer
+2 Llanowar Wastes
+2 Yavimaya Coast
+3 Neoform
+3 Yavimaya Coast
+3 Grapple with the Past
+3 Arboreal Grazer
+3 Forest
+3 Llanowar Wastes
+3 Eldritch Evolution
+3 Satyr Wayfinder
+3 Blooming Marsh
+4 Neoform
+4 Arboreal Grazer
+4 Satyr Wayfinder

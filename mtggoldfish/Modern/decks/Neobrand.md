@@ -68,9 +68,9 @@
 |                    3|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)         |                     |                                                                                               |
 |                    3|[Autochthon Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=89096)         |                     |                                                                                               |
 |                    3|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)         |                     |                                                                                               |
-|                    4|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)         |                     |                                                                                               |
 |                    4|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|                     |                                                                                               |
 |                    4|[Autochthon Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=89096)         |                     |                                                                                               |
+|                    4|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)         |                     |                                                                                               |
 |                    4|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)         |                     |                                                                                               |
 |                    1|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)        |                     |                                                                                               |
 

@@ -12,14 +12,14 @@
 1 Ashiok, Dream Render
 2 Gideon, Ally of Zendikar
 4 Mystical Dispute
-1 Ornithopter
-1 Darksteel Citadel
 1 Cataclysmic Gearhulk
-1 Pithing Needle
-1 Isolate
 1 Glass Casket
-1 Tormod's Crypt
+1 Isolate
 1 God-Pharaoh's Statue
+1 Pithing Needle
+1 Ornithopter
+1 Tormod's Crypt
+1 Darksteel Citadel
 2 Isolate
 1 Ashiok, Nightmare Muse
 1 Elspeth, Sun's Nemesis
@@ -33,8 +33,8 @@
 1 Fatal Push
 1 Wear / Tear
 1 The Scarab God
-2 Detention Sphere
 2 Fatal Push
+2 Detention Sphere
 2 Wear / Tear
 3 Fatal Push
 1 Dream Trawler
@@ -43,6 +43,18 @@
 2 Void Winnower
 3 Baffling End
 4 Dovin's Veto
+1 Aetherling
+1 Kolaghan's Command
+1 Grafdigger's Cage
+1 Thoughtseize
+2 Anger of the Gods
+2 Kolaghan's Command
+2 Grafdigger's Cage
+2 Slaughter Games
+2 Thoughtseize
+3 Grafdigger's Cage
+3 Thoughtseize
+4 Thoughtseize
 1 Runed Halo
 1 Fry
 1 Angelic Ascension
@@ -50,15 +62,3 @@
 2 Runed Halo
 3 Rest in Peace
 4 Rest in Peace
-1 Aetherling
-1 Kolaghan's Command
-1 Grafdigger's Cage
-1 Thoughtseize
-2 Anger of the Gods
-2 Grafdigger's Cage
-2 Slaughter Games
-2 Kolaghan's Command
-2 Thoughtseize
-3 Grafdigger's Cage
-3 Thoughtseize
-4 Thoughtseize

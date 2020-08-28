@@ -9,18 +9,17 @@
 1 Castle Vantress
 2 Fabled Passage
 1 Omen of the Sea
-1 Castle Ardenvale
 1 Thassa, Deep-Dwelling
 1 Time Wipe
 1 Fblthp, the Lost
 1 Dovin's Veto
-1 Elspeth Conquers Death
 1 Teferi, Time Raveler
 1 Deputy of Detention
 1 Charming Prince
+1 Castle Ardenvale
+1 Elspeth Conquers Death
 1 Yorion, Sky Nomad
 2 Omen of the Sea
-2 Thassa, Deep-Dwelling
 2 Fblthp, the Lost
 2 Dovin's Veto
 2 Teferi, Time Raveler
@@ -29,9 +28,10 @@
 2 Charming Prince
 2 Yorion, Sky Nomad
 2 Elspeth Conquers Death
-3 Thassa, Deep-Dwelling
+2 Thassa, Deep-Dwelling
 3 Elspeth Conquers Death
 3 Teferi, Time Raveler
+3 Thassa, Deep-Dwelling
 3 Charming Prince
 3 Fblthp, the Lost
 4 Elspeth Conquers Death
@@ -44,8 +44,8 @@
 2 Winged Words
 2 Faerie Vandal
 2 Faerie Duelist
-3 Winged Words
 3 Faerie Vandal
+3 Winged Words
 3 Faerie Duelist
 4 Faerie Vandal
 4 Winged Words
@@ -79,62 +79,62 @@
 1 Mystical Dispute
 2 Mystical Dispute
 3 Mystical Dispute
-1 Heraldic Banner
 1 Pteramander
+1 Heraldic Banner
 2 Pteramander
 3 Pteramander
 4 Pteramander
 1 Cavalier of Dawn
 1 Elite Guardmage
-2 Cavalier of Dawn
 2 Elite Guardmage
+2 Cavalier of Dawn
 2 Time Wipe
 3 Elite Guardmage
-4 Thassa, Deep-Dwelling
 4 Elite Guardmage
+4 Thassa, Deep-Dwelling
 1 Gingerbrute
 1 Dreamtail Heron
-1 Cubwarden
 1 Vulpikeet
 1 Gods Willing
+1 Cubwarden
 1 Fight as One
 1 Huntmaster Liger
 1 Pollywog Symbiote
 1 Pouncing Shoreshark
 2 Gingerbrute
-2 Vulpikeet
 2 Dreamtail Heron
-2 Cubwarden
+2 Vulpikeet
 2 Gods Willing
+2 Cubwarden
 2 Fight as One
 2 Huntmaster Liger
 2 Pollywog Symbiote
 2 Pouncing Shoreshark
 3 Vulpikeet
 3 Dreamtail Heron
-3 Cubwarden
 3 Gingerbrute
 3 Gods Willing
+3 Cubwarden
 3 Fight as One
 3 Tranquil Cove
 3 Pollywog Symbiote
 3 Pouncing Shoreshark
 3 Huntmaster Liger
-4 Vulpikeet
-4 Fight as One
-4 Gods Willing
-4 Cubwarden
-4 Tranquil Cove
-4 Pouncing Shoreshark
 4 Gingerbrute
+4 Vulpikeet
+4 Gods Willing
+4 Fight as One
+4 Pouncing Shoreshark
+4 Tranquil Cove
+4 Cubwarden
 4 Pollywog Symbiote
 4 Huntmaster Liger
+1 Jubilant Skybonder
 1 Faerie Guidemother
 1 Dungeon Geists
-1 Jubilant Skybonder
+2 Jubilant Skybonder
 2 Faerie Guidemother
 2 Dungeon Geists
-2 Jubilant Skybonder
 3 Jubilant Skybonder
 3 Loyal Pegasus
 3 Faerie Guidemother
