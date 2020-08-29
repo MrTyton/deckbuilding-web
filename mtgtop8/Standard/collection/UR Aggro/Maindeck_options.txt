@@ -48,8 +48,8 @@
 4 Pteramander
 1 Izzet Guildgate
 2 Izzet Guildgate
-3 Winged Words
 3 Crackling Drake
+3 Winged Words
 1 Blitz of the Thunder-Raptor
 2 Blitz of the Thunder-Raptor
 1 Claim the Firstborn
@@ -63,6 +63,17 @@
 2 Scorching Dragonfire
 2 The Royal Scions
 3 The Royal Scions
+1 Fabled Passage
+1 Shark Typhoon
+2 Shark Typhoon
+2 Castle Vantress
+3 Brazen Borrower
+3 Ionize
+3 Bonecrusher Giant
+3 Shark Typhoon
+4 Ionize
+4 Bonecrusher Giant
+4 Brazen Borrower
 1 Infuriate
 2 Infuriate
 2 Maximize Velocity
@@ -90,21 +101,10 @@
 4 Blitz of the Thunder-Raptor
 4 Cathartic Reunion
 4 Finale of Promise
-1 Fabled Passage
-1 Shark Typhoon
-2 Shark Typhoon
-2 Castle Vantress
-3 Brazen Borrower
-3 Ionize
-3 Bonecrusher Giant
-3 Shark Typhoon
-4 Bonecrusher Giant
-4 Brazen Borrower
-4 Ionize
 1 Thrill of Possibility
-1 Beacon Bolt
 1 Soul Sear
 1 Miscast
+1 Beacon Bolt
 1 Faerie Vandal
 2 Faerie Vandal
 2 Thrill of Possibility
@@ -125,9 +125,9 @@
 4 Heartfire Immolator
 9 Mountain
 1 Niv-Mizzet, Parun
+1 Experimental Overload
 1 Ominous Seas
 1 Irencrag Pyromancer
-1 Experimental Overload
 1 God-Eternal Kefnet
 1 Flame Sweep
 1 Frantic Inventory

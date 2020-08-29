@@ -25,9 +25,9 @@
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
-1 Stoneforge Mystic
-1 Sword of Feast and Famine
 1 Batterskull
+1 Sword of Feast and Famine
+1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Tundra
 2 Arcum's Astrolabe
@@ -56,12 +56,11 @@
 3 Cast Out
 1 Uro, Titan of Nature's Wrath
 1 Green Sun's Zenith
-1 Cascading Cataracts
 1 Cyclonic Rift
 1 Maze of Ith
 1 Kiora, Behemoth Beckoner
-1 Bojuka Bog
 1 Candelabra of Tawnos
+1 Bojuka Bog
 1 Crop Rotation
 1 Prophetic Prism
 1 Prophet of Kruphix
@@ -83,6 +82,7 @@
 1 Once Upon a Time
 1 Emrakul, the Aeons Torn
 1 Thespian's Stage
+1 Cascading Cataracts
 1 Ramunap Excavator
 2 Green Sun's Zenith
 2 Tropical Island
@@ -110,8 +110,8 @@
 3 Snow-Covered Forest
 3 Once Upon a Time
 4 Green Sun's Zenith
-4 Snow-Covered Forest
 4 Crop Rotation
+4 Snow-Covered Forest
 4 Pithing Needle
 4 Elvish Reclaimer
 4 Glimmerpost
@@ -142,11 +142,11 @@
 1 Jace, Vryn's Prodigy
 1 Mishra's Factory
 1 Sevinne's Reclamation
-1 Enlightened Tutor
 1 Search for Azcanta
 1 Stifle
 1 Scroll of Fate
 1 Phyrexian Dreadnought
+1 Enlightened Tutor
 1 Karn, the Great Creator
 2 Stifle
 2 Phyrexian Dreadnought
@@ -200,8 +200,8 @@
 2 Astral Slide
 2 Gilded Drake
 3 Snow-Covered Plains
-3 Street Wraith
 3 Containment Priest
+3 Street Wraith
 3 Astral Slide
 3 Secluded Steppe
 3 Gilded Drake

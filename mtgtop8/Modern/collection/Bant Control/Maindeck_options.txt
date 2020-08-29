@@ -1,34 +1,30 @@
-1 Forest
+2 Ice-Fang Coatl
+3 Snow-Covered Island
+3 Ice-Fang Coatl
+4 Ice-Fang Coatl
+1 Snapcaster Mage
+1 Shark Typhoon
+1 Plains
+2 Snow-Covered Forest
 4 Snow-Covered Island
 5 Snow-Covered Island
-3 Growth Spiral
-1 Scalding Tarn
-1 Shark Typhoon
-2 Hallowed Fountain
-1 Archmage's Charm
-2 Archmage's Charm
-1 Arcum's Astrolabe
-2 Arcum's Astrolabe
-3 Arcum's Astrolabe
-4 Arcum's Astrolabe
-4 Growth Spiral
-2 Supreme Verdict
-3 Field of Ruin
-2 Snow-Covered Forest
-1 Plains
-2 Snow-Covered Plains
-2 Snapcaster Mage
-4 Field of Ruin
 1 Prismatic Vista
 1 Batterskull
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Uro, Titan of Nature's Wrath
+1 Archmage's Charm
+2 Archmage's Charm
 1 Sword of Fire and Ice
-3 Snow-Covered Forest
 4 Stoneforge Mystic
+3 Snow-Covered Forest
 1 Prairie Stream
+1 Arcum's Astrolabe
+2 Arcum's Astrolabe
+3 Arcum's Astrolabe
+4 Arcum's Astrolabe
+2 Snow-Covered Plains
 2 Prismatic Vista
 3 Prismatic Vista
 2 Shark Typhoon
@@ -36,19 +32,19 @@
 2 Windswept Heath
 2 Temple Garden
 4 Force of Negation
-1 Eternal Witness
-1 Ephemerate
-1 Time Warp
 1 Venser, Shaper Savant
+1 Eternal Witness
+1 Time Warp
+1 Ephemerate
 1 Coiling Oracle
-2 Eternal Witness
 2 Ephemerate
+2 Eternal Witness
 2 Coiling Oracle
-3 Eternal Witness
-3 Ephemerate
 3 Coiling Oracle
-4 Ephemerate
+3 Ephemerate
+3 Eternal Witness
 4 Coiling Oracle
+4 Ephemerate
 1 Wall of Omens
 1 Oboro, Palace in the Clouds
 1 Aether Gust
@@ -57,20 +53,21 @@
 2 Hour of Promise
 4 Prismatic Vista
 1 Ketria Triome
-3 Mana Leak
+2 Supreme Verdict
+3 Field of Ruin
 1 Sword of Feast and Famine
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
 1 Karn, the Great Creator
-1 Mwonvuli Acid-Moss
 1 Utopia Sprawl
+1 Mwonvuli Acid-Moss
 2 Karn, the Great Creator
 2 Mwonvuli Acid-Moss
 2 Utopia Sprawl
-3 Karn, the Great Creator
 3 Mwonvuli Acid-Moss
+3 Karn, the Great Creator
 3 Windswept Heath
 3 Utopia Sprawl
 4 Snow-Covered Forest
@@ -82,46 +79,43 @@
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
-4 Cryptic Command
 4 Eternal Witness
+4 Cryptic Command
 4 Aether Vial
-1 Aether Spellbomb
+1 Springleaf Drum
+1 Kinnan, Bonder Prodigy
 1 Zagoth Triome
 1 Minamo, School at Water's Edge
 1 Botanical Sanctum
-1 Kinnan, Bonder Prodigy
-1 Springleaf Drum
 1 Emry, Lurker of the Loch
 1 Seachrome Coast
 1 Mox Amber
 1 Monastery Mentor
 1 Engineered Explosives
+1 Aether Spellbomb
 1 Mishra's Bauble
-2 Botanical Sanctum
-2 Kinnan, Bonder Prodigy
 2 Springleaf Drum
+2 Kinnan, Bonder Prodigy
+2 Botanical Sanctum
 2 Emry, Lurker of the Loch
 2 Monastery Mentor
 2 Engineered Explosives
 2 Mishra's Bauble
 2 Mox Amber
-3 Springleaf Drum
+3 Kinnan, Bonder Prodigy
 3 Monastery Mentor
 3 Emry, Lurker of the Loch
-3 Kinnan, Bonder Prodigy
 3 Engineered Explosives
 3 Mox Amber
+3 Springleaf Drum
 3 Mishra's Bauble
-4 Engineered Explosives
-4 Springleaf Drum
+4 Kinnan, Bonder Prodigy
 4 Monastery Mentor
 4 Emry, Lurker of the Loch
-4 Kinnan, Bonder Prodigy
 4 Mishra's Bauble
+4 Engineered Explosives
 4 Mox Amber
-1 Dovin's Veto
-1 Timely Reinforcements
-1 Ashiok, Dream Render
+4 Springleaf Drum
 1 Raugrin Triome
 1 Steam Vents
 1 Wrenn and Six
@@ -138,10 +132,15 @@
 2 Spell Pierce
 2 Serum Visions
 2 Spell Queller
+3 Mana Leak
 3 Shark Typhoon
 3 Spell Pierce
 3 Serum Visions
 3 Spell Queller
+1 Dovin's Veto
+1 Timely Reinforcements
+2 Snapcaster Mage
+4 Field of Ruin
 1 Canopy Vista
 1 Eladamri's Call
 1 Soulherder
