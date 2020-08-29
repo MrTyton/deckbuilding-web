@@ -1,32 +1,32 @@
 4 Gingerbrute
-1 Stonecoil Serpent
+19 Plains
+2 Stonecoil Serpent
 1 Light of Hope
 2 Light of Hope
-2 Stonecoil Serpent
-1 Selfless Savior
-20 Plains
 3 Stonecoil Serpent
+1 Selfless Savior
 1 Season of Growth
-1 Temple of Plenty
 1 Temple Garden
-1 Forest
 2 Season of Growth
 2 Temple Garden
-2 Temple of Plenty
 3 Season of Growth
 4 Season of Growth
+1 Temple of Plenty
+1 Forest
+2 Temple of Plenty
+3 Temple Garden
+4 Temple Garden
+20 Plains
 2 Selfless Savior
 1 Sentinel's Mark
 2 Sentinel's Mark
-3 Temple Garden
 3 Temple of Plenty
-4 Temple Garden
+4 Stonecoil Serpent
 1 Setessan Training
 2 Forest
 2 Setessan Training
 3 Sentinel's Mark
 1 Fabled Passage
-4 Stonecoil Serpent
 4 Temple of Plenty
 1 Seasoned Hallowblade
 2 Seasoned Hallowblade
@@ -40,7 +40,6 @@
 3 Forest
 3 Setessan Training
 4 Forest
-21 Plains
 1 Fight as One
 2 Fight as One
 3 Selfless Savior
@@ -50,74 +49,33 @@
 3 Pious Wayfarer
 4 Pious Wayfarer
 4 Sentinel's Mark
-1 Banishing Light
-1 Heliod, Sun-Crowned
-2 Banishing Light
-1 Sorin, Vengeful Bloodlord
-1 Impassioned Orator
-1 Memory Leak
+1 Indatha Triome
+1 Godless Shrine
+1 Mogis's Favor
 1 Hateful Eidolon
-1 Lurrus of the Dream-Den
-1 Omen of the Sun
-1 Ajani, Strength of the Pride
-1 Mire's Grasp
-1 Lampad of Death's Vigil
-1 Bloodthirsty Aerialist
-1 Pharika's Libation
-1 Ajani's Pridemate
+1 Overgrown Tomb
+1 Quirion Dryad
 1 Swamp
-1 Orzhov Guildgate
-1 Scoured Barrens
 2 Swamp
-2 Memory Leak
-2 Scoured Barrens
-2 Bloodthirsty Aerialist
-2 Omen of the Sun
-2 Orzhov Guildgate
-2 Lampad of Death's Vigil
-2 Ajani's Pridemate
-3 Omen of the Sun
-3 Memory Leak
-3 Ajani's Pridemate
-3 Bloodthirsty Aerialist
-3 Scoured Barrens
+2 Indatha Triome
+2 Godless Shrine
+2 Hateful Eidolon
+2 Quirion Dryad
+2 Overgrown Tomb
+2 Mogis's Favor
+3 Indatha Triome
+3 Godless Shrine
+3 Hateful Eidolon
+3 Overgrown Tomb
 3 Swamp
-3 Lampad of Death's Vigil
-4 Memory Leak
-4 Bloodthirsty Aerialist
-4 Swamp
-4 Ajani's Pridemate
-4 Scoured Barrens
-5 Swamp
-6 Swamp
-7 Swamp
-8 Swamp
-9 Swamp
-1 Charming Prince
-1 Griffin Aerie
-1 Pacifism
-1 Archon of Sun's Grace
-1 Daxos, Blessed by the Sun
-1 Linden, the Steadfast Queen
-1 The Birth of Meletis
-2 Charming Prince
-2 Archon of Sun's Grace
-2 Griffin Aerie
-2 Pacifism
-2 Heliod, Sun-Crowned
-2 Linden, the Steadfast Queen
-2 Daxos, Blessed by the Sun
-2 The Birth of Meletis
-3 Charming Prince
-3 Banishing Light
-3 Griffin Aerie
-3 Heliod, Sun-Crowned
-3 Pacifism
-3 Daxos, Blessed by the Sun
-22 Plains
-23 Plains
-1 Setessan Champion
+3 Quirion Dryad
+4 Godless Shrine
+4 Quirion Dryad
+4 Hateful Eidolon
+4 Overgrown Tomb
+21 Plains
 1 Siona, Captain of the Pyleas
+1 Setessan Champion
 1 Transcendent Envoy
 1 Bronzehide Lion
 2 Setessan Champion
@@ -128,8 +86,8 @@
 3 Setessan Champion
 3 Siona, Captain of the Pyleas
 4 Setessan Champion
-4 Setessan Training
 4 Transcendent Envoy
+4 Setessan Training
 5 Forest
 6 Forest
 7 Forest
