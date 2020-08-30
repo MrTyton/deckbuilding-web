@@ -2,10 +2,10 @@
 1 City of Brass
 2 Mountain
 2 Arid Mesa
-2 Smiting Helix
 3 Arid Mesa
-3 Golgari Thug
+2 Smiting Helix
 2 Conflagrate
+3 Golgari Thug
 1 Bloodghast
 4 Narcomoeba
 1 Dakmor Salvage
@@ -21,12 +21,12 @@
 1 Merfolk Secretkeeper
 1 Hedron Crab
 1 Swamp
+1 Watery Grave
+1 Gravecrawler
 1 Glimpse the Unthinkable
 1 Stitcher's Supplier
 1 Vengevine
-1 Watery Grave
 1 Polluted Delta
-1 Gravecrawler
 2 Verdant Catacombs
 2 Overgrown Tomb
 2 Merfolk Secretkeeper
@@ -35,8 +35,8 @@
 2 Stitcher's Supplier
 2 Gravecrawler
 2 Hedron Crab
-2 Polluted Delta
 2 Glimpse the Unthinkable
+2 Polluted Delta
 3 Verdant Catacombs
 3 Hedron Crab
 3 Merfolk Secretkeeper
@@ -70,8 +70,8 @@
 1 Mana Confluence
 1 Gemstone Caverns
 1 Steam Vents
-1 Skaab Ruinator
 1 Carrion Feeder
+1 Skaab Ruinator
 1 Marsh Flats
 1 Gurmag Angler
 2 Carrion Feeder

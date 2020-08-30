@@ -99,7 +99,7 @@
 |                    3|[Goblin Chieftain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438481)        |                     |                                                                                              |
 |                    3|[Krenko, Mob Boss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386339)        |                     |                                                                                              |
 |                    3|[Skirk Prospector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159051)        |                     |                                                                                              |
-|                    4|[Skirk Prospector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159051)        |                     |                                                                                              |
 |                   10|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                |                     |                                                                                              |
 |                   11|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                |                     |                                                                                              |
+|                    4|[Skirk Prospector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=159051)        |                     |                                                                                              |
 
