@@ -158,6 +158,6 @@
 |                    5|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                        |                     |                                                                                                      |
 |                    6|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                        |                     |                                                                                                      |
 |                    7|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                        |                     |                                                                                                      |
-|                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                        |                     |                                                                                                      |
 |                    9|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                        |                     |                                                                                                      |
+|                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                        |                     |                                                                                                      |
 
