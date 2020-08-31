@@ -17,15 +17,58 @@
 4 Reflector Mage
 4 General Kudro of Drannith
 4 Hero of Precinct One
-4 Concealed Courtyard
+4 Unclaimed Territory
 4 Thalia's Lieutenant
 4 Thraben Inspector
-4 Unclaimed Territory
-1 Temple Garden
-1 Plains
+4 Concealed Courtyard
 1 Overgrown Tomb
 1 Blooming Marsh
 2 Blooming Marsh
+1 Temple Garden
+1 Plains
+3 Blooming Marsh
+1 Forest
+1 Elvish Mystic
+1 Llanowar Elves
+2 Llanowar Elves
+2 Elvish Mystic
+2 Overgrown Tomb
+3 Overgrown Tomb
+4 Overgrown Tomb
+4 Blooming Marsh
+1 Gilded Goose
+1 Catacomb Sifter
+1 Bolas's Citadel
+1 Zulaport Cutthroat
+1 Woe Strider
+1 Priest of Forgotten Gods
+1 Mayhem Devil
+1 Stomping Ground
+2 Catacomb Sifter
+2 Zulaport Cutthroat
+2 Woe Strider
+2 Bolas's Citadel
+2 Priest of Forgotten Gods
+2 Gilded Goose
+2 Mayhem Devil
+2 Stomping Ground
+3 Zulaport Cutthroat
+3 Woe Strider
+3 Catacomb Sifter
+3 Bolas's Citadel
+3 Priest of Forgotten Gods
+3 Gilded Goose
+3 Mayhem Devil
+3 Stomping Ground
+4 Bolas's Citadel
+4 Zulaport Cutthroat
+4 Woe Strider
+4 Catacomb Sifter
+4 Priest of Forgotten Gods
+4 Gilded Goose
+4 Mayhem Devil
+4 Stomping Ground
+1 Botanical Sanctum
 1 Dreadhorde Arcanist
 1 Wild Slash
 2 Dreadhorde Arcanist
@@ -36,7 +79,6 @@
 4 Dreadhorde Arcanist
 1 Fabled Passage
 2 Fabled Passage
-1 Botanical Sanctum
 1 General's Enforcer
 1 Hallowed Fountain
 1 Rogue Refiner
@@ -44,12 +86,13 @@
 2 Hallowed Fountain
 2 Rogue Refiner
 3 Rogue Refiner
-4 Mountain
+2 Forest
 2 Temple Garden
-1 Forest
+3 Llanowar Elves
+3 Elvish Mystic
+4 Mountain
 1 Sunpetal Grove
 2 Plains
-2 Forest
 2 Sunpetal Grove
 3 Temple Garden
 3 Forest
@@ -61,10 +104,6 @@
 3 Sunpetal Grove
 3 Walking Ballista
 4 Walking Ballista
-1 Elvish Mystic
-1 Llanowar Elves
-2 Llanowar Elves
-2 Elvish Mystic
 3 Plains
 1 Selfless Spirit
 1 Fortified Village
@@ -75,13 +114,10 @@
 2 Heliod, Sun-Crowned
 3 Fortified Village
 3 Militia Bugler
-3 Llanowar Elves
 3 Heliod, Sun-Crowned
-3 Elvish Mystic
 4 Militia Bugler
 4 Heliod, Sun-Crowned
 4 Llanowar Elves
-3 Blooming Marsh
 1 Experiment One
 2 Experiment One
 3 Experiment One
@@ -93,18 +129,19 @@
 4 Sunpetal Grove
 6 Forest
 7 Forest
-5 Swamp
+1 Urborg, Tomb of Yawgmoth
 1 Murderous Rider
 2 Murderous Rider
+5 Swamp
+2 Watery Grave
+3 Watery Grave
+4 Watery Grave
 3 Fabled Passage
 4 Fabled Passage
 1 Collective Brutality
 1 Kalitas, Traitor of Ghet
 2 Collective Brutality
 2 Kalitas, Traitor of Ghet
-2 Watery Grave
-3 Watery Grave
-4 Watery Grave
 1 Drowned Catacomb
 1 Drown in the Loch
 1 Glint-Sleeve Siphoner
@@ -123,6 +160,11 @@
 4 Plains
 5 Plains
 1 Field of Ruin
+1 Breeding Pool
+2 Breeding Pool
+3 Breeding Pool
+4 Breeding Pool
+1 Rootbound Crag
 1 Dreadbore
 1 Call of the Death-Dweller
 1 Archfiend's Vessel
@@ -154,6 +196,13 @@
 2 Voice of Resurgence
 3 Voice of Resurgence
 3 Prophet of Kruphix
+1 Blisterpod
+1 Llanowar Wastes
+2 Blisterpod
+2 Llanowar Wastes
+3 Blisterpod
+3 Llanowar Wastes
+4 Blisterpod
 1 Crash Through
 1 Canyon Slough
 1 Abbot of Keral Keep
@@ -183,11 +232,11 @@
 2 Calix, Destiny's Hand
 2 Banishing Light
 2 Field of Ruin
-2 Sigil of the Empty Throne
 2 Herald of the Pantheon
 2 Alseid of Life's Bounty
 2 Setessan Champion
 2 Eidolon of Blossoms
+2 Sigil of the Empty Throne
 2 Starfield Mystic
 2 Temple of Plenty
 3 Calix, Destiny's Hand
@@ -226,53 +275,6 @@
 4 Mire Triton
 4 Fiend Artisan
 4 Bloodsoaked Champion
-1 Breeding Pool
-2 Breeding Pool
-3 Breeding Pool
-4 Breeding Pool
-2 Overgrown Tomb
-3 Overgrown Tomb
-4 Overgrown Tomb
-4 Blooming Marsh
-1 Gilded Goose
-1 Catacomb Sifter
-1 Blisterpod
-1 Bolas's Citadel
-1 Zulaport Cutthroat
-1 Woe Strider
-1 Priest of Forgotten Gods
-1 Mayhem Devil
-1 Llanowar Wastes
-1 Stomping Ground
-2 Blisterpod
-2 Catacomb Sifter
-2 Zulaport Cutthroat
-2 Woe Strider
-2 Bolas's Citadel
-2 Priest of Forgotten Gods
-2 Gilded Goose
-2 Mayhem Devil
-2 Llanowar Wastes
-2 Stomping Ground
-3 Zulaport Cutthroat
-3 Woe Strider
-3 Catacomb Sifter
-3 Bolas's Citadel
-3 Priest of Forgotten Gods
-3 Gilded Goose
-3 Blisterpod
-3 Llanowar Wastes
-3 Mayhem Devil
-3 Stomping Ground
-4 Bolas's Citadel
-4 Zulaport Cutthroat
-4 Woe Strider
-4 Catacomb Sifter
-4 Priest of Forgotten Gods
-4 Gilded Goose
-4 Blisterpod
-4 Mayhem Devil
-4 Stomping Ground
 1 Liliana, the Last Hope
 1 Chandra, Torch of Defiance
 1 Ox of Agonas
@@ -335,7 +337,6 @@
 1 Tasigur, the Golden Fang
 1 Gifted Aetherborn
 1 Atris, Oracle of Half-Truths
-1 Urborg, Tomb of Yawgmoth
 1 Thief of Sanity
 1 Ashiok, Nightmare Weaver
 1 Aether Hub
@@ -379,8 +380,8 @@
 1 Brazen Borrower
 1 Thieves' Guild Enforcer
 1 Rankle, Master of Pranks
-1 Mystical Dispute
 1 Island
+1 Mystical Dispute
 2 Choked Estuary
 2 Eliminate
 2 Brazen Borrower

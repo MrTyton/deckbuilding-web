@@ -32,13 +32,13 @@
 1 Deprive
 1 Monastery Mentor
 1 Celestial Purge
-2 Deprive
 2 Fatal Push
+2 Deprive
 3 Fatal Push
-1 Seal of Fire
 1 Goblin Cratermaker
 1 Light of Hope
 1 Blood Moon
+1 Seal of Fire
 2 Teferi, Time Raveler
 2 Goblin Cratermaker
 2 Light of Hope
@@ -55,18 +55,14 @@
 1 Force of Negation
 2 Force of Negation
 1 Drown in the Loch
-1 Wrath of God
-1 Winds of Abandon
 1 Archmage's Charm
 1 Kolaghan's Command
+1 Wrath of God
 1 Damnation
+1 Winds of Abandon
+2 Collective Brutality
 2 Disdainful Stroke
 2 Metallic Rebuke
-2 Collective Brutality
-1 Path to Exile
-1 Wear/Tear
-2 Path to Exile
-3 Aether Gust
 1 Kor Firewalker
 2 Kor Firewalker
 3 Kor Firewalker
@@ -74,9 +70,13 @@
 1 Spreading Seas
 2 Spreading Seas
 3 Spreading Seas
-1 Yorion, Sky Nomad
+1 Path to Exile
+1 Wear/Tear
+2 Path to Exile
+3 Aether Gust
 1 Veil of Summer
-1 Ensnaring Bridge
+1 Yorion, Sky Nomad
+2 Veil of Summer
 3 Veil of Summer
 3 Damping Sphere
-2 Veil of Summer
+1 Ensnaring Bridge

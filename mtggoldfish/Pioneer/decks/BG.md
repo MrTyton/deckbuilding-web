@@ -38,9 +38,9 @@
 |                     |                                                                                              |                    1|[Casualties of War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461114)       |
 |                     |                                                                                              |                    1|[Cavalier of Night](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466848)       |
 |                     |                                                                                              |                    1|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)     |
+|                     |                                                                                              |                    1|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)            |
 |                     |                                                                                              |                    2|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)     |
 |                     |                                                                                              |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)       |
 |                     |                                                                                              |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)              |
 |                     |                                                                                              |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)            |
-|                     |                                                                                              |                    1|[Legion's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466860)            |
 
