@@ -9,8 +9,8 @@
 1 Dark Depths
 1 Expedition Map
 2 Expedition Map
-3 Pithing Needle
 3 Expedition Map
+3 Pithing Needle
 5 Forest
 6 Forest
 7 Forest
@@ -68,8 +68,8 @@
 1 Warping Wail
 2 Warping Wail
 2 Stonecoil Serpent
-3 Stonecoil Serpent
 3 Trinisphere
+3 Stonecoil Serpent
 1 Crystal Vein
 1 Karn, Scion of Urza
 1 Sylvan Library
@@ -96,6 +96,10 @@
 2 Reality Smasher
 3 Reality Smasher
 4 Reality Smasher
+1 Matter Reshaper
+2 Matter Reshaper
+3 Matter Reshaper
+4 Matter Reshaper
 1 Sylvan Scrying
 1 Retrofitter Foundry
 1 Boompile
@@ -110,7 +114,3 @@
 3 Hour of Promise
 4 Ancient Stirrings
 9 Forest
-1 Matter Reshaper
-2 Matter Reshaper
-3 Matter Reshaper
-4 Matter Reshaper

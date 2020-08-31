@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    4|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)      |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |
 |                    1|[Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)   |                    1|[Ignite Memories](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109756)     |
+|                    4|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)      |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |
 |                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                 |                    3|[Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)       |
 |                    4|[Goblin Electromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405244)|                    3|[Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)   |
 |                    1|[Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|                    1|[Rebuild](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464015)             |

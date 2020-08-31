@@ -10,8 +10,8 @@
 2 Darkslick Shores
 2 Drown in the Loch
 1 Remand
-1 Spell Pierce
 1 Brazen Borrower
+1 Spell Pierce
 1 Plains
 3 Path to Exile
 1 Sleight of Hand
@@ -69,8 +69,8 @@
 1 Arcum's Astrolabe
 2 Snow-Covered Island
 2 Arcum's Astrolabe
-3 Snow-Covered Island
 3 Arcum's Astrolabe
+3 Snow-Covered Island
 4 Snow-Covered Island
 3 Mana Leak
 1 Misty Rainforest
@@ -94,30 +94,30 @@
 2 Surgical Extraction
 4 Lightning Helix
 4 Spirebluff Canal
-1 Lava Spike
-1 Rift Bolt
 1 Fiery Islet
 1 Assault Strobe
+1 Lava Spike
 1 Monastery Swiftspear
+1 Rift Bolt
 1 Light Up the Stage
-2 Rift Bolt
-2 Lava Spike
 2 Fiery Islet
+2 Lava Spike
 2 Monastery Swiftspear
+2 Rift Bolt
 2 Mountain
 2 Light Up the Stage
-3 Rift Bolt
-3 Lava Spike
 3 Fiery Islet
 3 Mountain
+3 Lava Spike
 3 Monastery Swiftspear
 3 Light Up the Stage
+3 Rift Bolt
 3 Lava Dart
-4 Lava Spike
-4 Rift Bolt
 4 Fiery Islet
 4 Lava Dart
 4 Monastery Swiftspear
+4 Lava Spike
+4 Rift Bolt
 4 Mountain
 4 Light Up the Stage
 1 Thieves' Guild Enforcer
@@ -127,8 +127,8 @@
 2 Thieves' Guild Enforcer
 2 Vantress Gargoyle
 3 Thieves' Guild Enforcer
-3 Vantress Gargoyle
 3 Inquisition of Kozilek
+3 Vantress Gargoyle
 4 Thieves' Guild Enforcer
 4 Drown in the Loch
 1 Swamp
@@ -170,16 +170,6 @@
 2 Dreadhorde Arcanist
 3 Dreadhorde Arcanist
 3 Seachrome Coast
-1 Shadow of Doubt
-1 Raugrin Triome
-1 Brineborn Cutthroat
-1 Fact or Fiction
-2 Fact or Fiction
-2 Brineborn Cutthroat
-2 Shadow of Doubt
-3 Brineborn Cutthroat
-3 Island
-4 Brineborn Cutthroat
 1 Bitterblossom
 1 Field of Ruin
 1 Creeping Tar Pit
@@ -197,13 +187,13 @@
 2 Mutagenic Growth
 4 Hooting Mandrills
 1 Uro, Titan of Nature's Wrath
-1 Wooded Foothills
 1 Hexdrinker
+1 Wooded Foothills
 1 Disrupting Shoal
-2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
-2 Wooded Foothills
+2 Breeding Pool
 2 Hexdrinker
+2 Wooded Foothills
 2 Forest
 2 Disrupting Shoal
 3 Uro, Titan of Nature's Wrath
@@ -212,3 +202,13 @@
 4 Hexdrinker
 4 Mana Leak
 4 Disrupting Shoal
+1 Shadow of Doubt
+1 Raugrin Triome
+1 Brineborn Cutthroat
+1 Fact or Fiction
+2 Fact or Fiction
+2 Brineborn Cutthroat
+2 Shadow of Doubt
+3 Island
+3 Brineborn Cutthroat
+4 Brineborn Cutthroat

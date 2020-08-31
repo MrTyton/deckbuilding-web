@@ -1,69 +1,90 @@
-3 Stonecoil Serpent
-1 Mountain
-4 Stonecoil Serpent
-1 Swamp
-1 Insatiable Hemophage
-2 Insatiable Hemophage
-3 Insatiable Hemophage
-4 Insatiable Hemophage
-1 Watery Grave
-2 Watery Grave
-3 Watery Grave
-4 Watery Grave
-1 Dirge Bat
-2 Swamp
-1 Marauding Raptor
-2 Marauding Raptor
-2 Mountain
-3 Marauding Raptor
-4 Marauding Raptor
-1 Blood Crypt
-1 Steam Vents
-1 Everquill Phoenix
-2 Blood Crypt
-2 Steam Vents
-2 Everquill Phoenix
-3 Blood Crypt
-3 Steam Vents
-3 Everquill Phoenix
-4 Blood Crypt
-4 Steam Vents
-4 Everquill Phoenix
-3 Fabled Passage
-3 Temple of Mystery
-1 Gilded Goose
-2 Gilded Goose
+4 Forest
+5 Forest
+6 Forest
+1 Arboreal Grazer
+2 Arboreal Grazer
+3 Arboreal Grazer
+4 Arboreal Grazer
+1 Auspicious Starrix
+2 Auspicious Starrix
+7 Forest
+8 Forest
+3 Auspicious Starrix
+9 Forest
+1 Breeding Pool
+2 Breeding Pool
+3 Breeding Pool
+4 Breeding Pool
+1 Gemrazer
+2 Gemrazer
+1 Paradise Druid
+2 Paradise Druid
 1 Chamber Sentry
 2 Chamber Sentry
 3 Chamber Sentry
 4 Chamber Sentry
+3 Paradise Druid
+4 Paradise Druid
+1 End-Raze Forerunners
 1 Brazen Borrower
 2 Brazen Borrower
+1 Castle Garenbrig
+2 Castle Garenbrig
+4 Auspicious Starrix
+1 Ugin, the Spirit Dragon
+1 Nissa, Who Shakes the World
+1 Castle Vantress
+3 Gemrazer
+3 Brazen Borrower
+1 Gilded Goose
+2 Gilded Goose
+1 Temple of Mystery
+2 Temple of Mystery
+1 Parcelbeast
+1 Dreamtail Heron
+2 Dreamtail Heron
+1 Thornwood Falls
+2 Thornwood Falls
+3 Thornwood Falls
+4 Thornwood Falls
+1 Barkhide Troll
+1 Ethereal Absolution
+1 Blossoming Sands
+1 Vulpikeet
+1 Tranquil Cove
+1 Boneyard Lurker
+1 Plains
+1 Majestic Auricorn
+2 Plains
+2 Vulpikeet
+2 Tranquil Cove
+2 Barkhide Troll
+2 Majestic Auricorn
+2 Blossoming Sands
+3 Dreamtail Heron
+3 Barkhide Troll
+3 Vulpikeet
+3 Blossoming Sands
+3 Majestic Auricorn
+4 Vulpikeet
+4 Blossoming Sands
+4 Dreamtail Heron
+3 Temple of Mystery
+2 Ugin, the Spirit Dragon
+10 Forest
+2 Nissa, Who Shakes the World
+1 Illuna, Apex of Wishes
+6 Island
+4 Gemrazer
+2 End-Raze Forerunners
+1 Evolving Wilds
 3 Castle Garenbrig
 4 Temple of Mystery
-3 End-Raze Forerunners
-4 Gemrazer
-1 Illuna, Apex of Wishes
-3 Brazen Borrower
-2 Illuna, Apex of Wishes
-6 Island
-10 Forest
-2 Castle Vantress
-3 Gilded Goose
 1 Zagoth Triome
-1 Ugin, the Spirit Dragon
-2 Ugin, the Spirit Dragon
-1 Nissa, Who Shakes the World
-2 Nissa, Who Shakes the World
-1 Parcelbeast
-2 Parcelbeast
-3 Parcelbeast
-3 Illuna, Apex of Wishes
-4 Illuna, Apex of Wishes
-4 Parcelbeast
-11 Forest
+2 Illuna, Apex of Wishes
 3 Swamp
 3 Mountain
+11 Forest
 1 Porcuparrot
 1 Knight of the Ebon Legion
 2 Porcuparrot
@@ -74,28 +95,39 @@
 1 Scavenging Ooze
 1 Ranger's Guile
 3 Ugin, the Spirit Dragon
-1 Hydroid Krasis
-1 Ketria Triome
-2 Ketria Triome
-1 Umori, the Collector
+3 End-Raze Forerunners
 3 Nissa, Who Shakes the World
+3 Gilded Goose
+2 Castle Vantress
 2 Dirge Bat
 1 Overgrown Tomb
 2 Overgrown Tomb
 3 Overgrown Tomb
 4 Overgrown Tomb
-12 Forest
+3 Illuna, Apex of Wishes
+4 Illuna, Apex of Wishes
+1 Hydroid Krasis
+1 Ketria Triome
+2 Ketria Triome
+1 Umori, the Collector
+2 Parcelbeast
+3 Parcelbeast
+4 Parcelbeast
 1 Trumpeting Gnarr
 2 Trumpeting Gnarr
 7 Island
 8 Island
+1 Shifting Ceratops
 1 Questing Beast
 2 Questing Beast
-1 Shifting Ceratops
+1 Meteor Golem
+2 Meteor Golem
+12 Forest
 2 Ranger's Guile
 2 Zagoth Triome
 1 Disdainful Stroke
 2 Disdainful Stroke
+3 Tranquil Cove
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 2 Umori, the Collector
@@ -105,15 +137,9 @@
 2 Season of Growth
 3 Season of Growth
 4 Season of Growth
-1 Meteor Golem
 1 Lead the Stampede
-1 Thornwood Falls
 2 Lead the Stampede
-2 Meteor Golem
-2 Thornwood Falls
 3 Trumpeting Gnarr
-3 Thornwood Falls
-4 Thornwood Falls
 4 Trumpeting Gnarr
 2 Hydroid Krasis
 3 Ketria Triome
@@ -125,8 +151,8 @@
 4 Swamp
 1 Stomping Ground
 1 Temple of Abandon
-1 Ravager Wurm
 1 Radha, Heart of Keld
+1 Ravager Wurm
 1 Terror of the Peaks
 2 Stomping Ground
 2 Terror of the Peaks
@@ -143,9 +169,35 @@
 4 Temple of Abandon
 5 Mountain
 6 Mountain
-1 Dreamtail Heron
 1 Essence Symbiote
-2 Dreamtail Heron
 2 Essence Symbiote
 3 Essence Symbiote
 9 Island
+1 Elder Gargaroth
+1 Glowstone Recluse
+1 Ugin, the Ineffable
+1 Fierce Witchstalker
+1 Llanowar Visionary
+2 Glowstone Recluse
+2 Llanowar Visionary
+2 Fierce Witchstalker
+3 Meteor Golem
+3 Llanowar Visionary
+3 Glowstone Recluse
+3 Fierce Witchstalker
+4 Fierce Witchstalker
+4 Llanowar Visionary
+4 Meteor Golem
+13 Forest
+14 Forest
+15 Forest
+16 Forest
+17 Forest
+18 Forest
+19 Forest
+20 Forest
+21 Forest
+22 Forest
+23 Forest
+24 Forest
+25 Forest

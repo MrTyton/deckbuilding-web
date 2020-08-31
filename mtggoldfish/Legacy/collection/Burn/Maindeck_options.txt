@@ -7,12 +7,12 @@
 1 Wooded Foothills
 2 Wooded Foothills
 1 Snow-Covered Mountain
-1 Bedlam Reveler
 1 Risk Factor
 1 Ensnaring Bridge
-2 Bedlam Reveler
+1 Bedlam Reveler
 2 Ensnaring Bridge
 2 Risk Factor
+2 Bedlam Reveler
 3 Ensnaring Bridge
 1 Pyrostatic Pillar
 2 Pyrostatic Pillar
@@ -47,18 +47,6 @@
 2 Flame Rift
 3 Flame Rift
 4 Flame Rift
-1 Badlands
-1 Urza's Bauble
-2 Badlands
-2 Urza's Bauble
-2 Volcanic Fallout
-2 Seal of Fire
-3 Badlands
-3 Arid Mesa
-3 Urza's Bauble
-4 Bloodstained Mire
-4 Arid Mesa
-4 Urza's Bauble
 1 Searing Blood
 2 Searing Blood
 4 Pyrostatic Pillar
@@ -76,3 +64,15 @@
 4 Mishra's Bauble
 4 Boros Charm
 4 Plateau
+1 Urza's Bauble
+1 Badlands
+2 Urza's Bauble
+2 Volcanic Fallout
+2 Seal of Fire
+2 Badlands
+3 Badlands
+3 Arid Mesa
+3 Urza's Bauble
+4 Arid Mesa
+4 Urza's Bauble
+4 Bloodstained Mire

@@ -1,49 +1,51 @@
-2 Island
-3 Island
 2 Plains
-1 Spell Pierce
-4 Island
-3 Jace, the Mind Sculptor
-5 Snow-Covered Island
+1 Portent
+2 Portent
 1 Prismatic Vista
-1 Dovin's Veto
-6 Snow-Covered Island
+1 Spell Pierce
+3 Jace, the Mind Sculptor
+4 Island
+5 Snow-Covered Island
 2 Force of Negation
+6 Snow-Covered Island
 2 Prismatic Vista
 3 Polluted Delta
+1 Dovin's Veto
 5 Island
-1 Misty Rainforest
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
+4 Polluted Delta
 2 Dovin's Veto
+1 Misty Rainforest
 3 Prismatic Vista
 4 Prismatic Vista
 1 Preordain
 1 Snow-Covered Mountain
-4 Polluted Delta
 3 Scalding Tarn
 4 Scalding Tarn
-2 Narset, Parter of Veils
 2 Back to Basics
 1 Lightning Bolt
 2 Lightning Bolt
-1 Monastery Mentor
 1 Supreme Verdict
 2 Council's Judgment
+1 Underground Sea
 2 Karakas
-1 Spell Snare
-2 Misty Rainforest
+2 Narset, Parter of Veils
 1 Teferi, Master of Time
+1 Monastery Mentor
 3 Arcum's Astrolabe
-1 Sevinne's Reclamation
-3 Predict
+2 Entreat the Angels
 3 Counterbalance
+3 Predict
+1 Swamp
 1 True-Name Nemesis
-1 Stoneforge Mystic
+2 Counterspell
 1 Batterskull
+1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
-1 Underground Sea
+1 Spell Snare
+2 Misty Rainforest
 1 Arid Mesa
 1 Sword of Fire and Ice
 1 Vendilion Clique
@@ -52,7 +54,11 @@
 2 True-Name Nemesis
 3 True-Name Nemesis
 4 Stoneforge Mystic
+1 Sevinne's Reclamation
 1 Gideon, Ally of Zendikar
+1 Kaya, Orzhov Usurper
+1 Cling to Dust
+2 Cling to Dust
 6 Island
 1 Unexpectedly Absent
 1 Mishra's Bauble
@@ -61,13 +67,10 @@
 4 Mishra's Bauble
 2 Volcanic Island
 1 Umezawa's Jitte
-1 Swamp
 2 Spell Pierce
-2 Entreat the Angels
 2 Monastery Mentor
 1 Baleful Strix
 2 Baleful Strix
-2 Counterspell
 1 Personal Tutor
 1 Plague Engineer
 3 Teferi, Time Raveler
@@ -82,15 +85,15 @@
 3 Baleful Strix
 4 Baleful Strix
 1 Academy Ruins
-1 Rest in Peace
-1 The Elderspell
 1 Lavabrink Venturer
 1 Path to Exile
+1 The Elderspell
 1 Scrubland
+1 Rest in Peace
+2 Lavabrink Venturer
 2 Rest in Peace
 2 Supreme Verdict
 2 The Elderspell
-2 Lavabrink Venturer
 3 Rest in Peace
 1 Cabal Therapy
 1 Forest
@@ -112,8 +115,8 @@
 1 Scavenging Ooze
 1 Oko, Thief of Crowns
 2 Cabal Therapy
-2 Swamp
 2 Forest
+2 Swamp
 2 Veteran Explorer
 2 Noble Hierarch
 2 Uro, Titan of Nature's Wrath
@@ -136,11 +139,6 @@
 1 Jace, Vryn's Prodigy
 1 Sword of Feast and Famine
 1 Mystical Dispute
-1 Flusterstorm
-1 Tragic Lesson
-1 Kaya, Orzhov Usurper
-1 Cling to Dust
-2 Cling to Dust
 1 See the Truth
 1 Precognition Field
 2 See the Truth
@@ -154,16 +152,16 @@
 4 Accumulated Knowledge
 4 Terminus
 1 Pyroblast
-1 Lavinia, Azorius Renegade
 1 Isochron Scepter
+1 Lavinia, Azorius Renegade
 1 Possibility Storm
 1 Orim's Chant
 2 Pyroblast
 2 Lavinia, Azorius Renegade
 2 Possibility Storm
 2 Orim's Chant
-3 Mystic Sanctuary
 3 Narset, Parter of Veils
+3 Mystic Sanctuary
 4 Teferi, Time Raveler
 1 Marsh Flats
 1 Eliminate
