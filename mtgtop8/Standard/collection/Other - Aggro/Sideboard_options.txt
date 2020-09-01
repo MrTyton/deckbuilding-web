@@ -1,46 +1,33 @@
-1 Negate
-2 Negate
-1 Scorching Dragonfire
-2 Scorching Dragonfire
-3 Scorching Dragonfire
-1 Miscast
-1 Flame Sweep
-2 Miscast
-2 Flame Sweep
-2 Containment Priest
-1 Lava Coil
-2 Lava Coil
-1 Fire Prophecy
-1 The Royal Scions
-1 Keep Safe
-1 Disdainful Stroke
-2 Fire Prophecy
 2 Keep Safe
+2 Lava Coil
 2 Disdainful Stroke
-1 Elder Gargaroth
-1 Shifting Ceratops
-2 Shifting Ceratops
-1 Tormod's Crypt
-2 Tormod's Crypt
-1 Shadowspear
-1 Garruk's Harbinger
-1 Destiny Spinner
-1 The Akroan War
-1 Return to Nature
-2 Garruk's Harbinger
-2 Destiny Spinner
-2 The Akroan War
-2 Return to Nature
+1 Glass Casket
+2 Glass Casket
+3 Glass Casket
+1 Questing Beast
+1 Duress
+1 Seasoned Hallowblade
+1 Baneslayer Angel
+1 Heroic Intervention
+1 Kaervek, the Spiteful
+2 Questing Beast
+2 Duress
+2 Seasoned Hallowblade
+3 Questing Beast
+3 Seasoned Hallowblade
+3 Duress
 1 Whirlwind Denial
 1 Narset, Parter of Veils
 2 Whirlwind Denial
 2 Narset, Parter of Veils
 3 Flame Sweep
 3 Miscast
+1 Grafdigger's Cage
 1 Sorcerous Spyglass
 1 Wilt
 1 Fry
 1 Storm's Wrath
+1 Shadowspear
 2 Wilt
 2 Storm's Wrath
 2 Fry
@@ -50,18 +37,6 @@
 3 Wilt
 3 Storm's Wrath
 3 Fry
-1 Heroic Intervention
-1 Questing Beast
-1 Duress
-1 Baneslayer Angel
-1 Seasoned Hallowblade
-1 Kaervek, the Spiteful
-2 Questing Beast
-2 Duress
-2 Seasoned Hallowblade
-3 Questing Beast
-3 Duress
-3 Seasoned Hallowblade
 4 Scorching Dragonfire
 1 Unbreakable Formation
 1 Light of Hope
@@ -69,17 +44,31 @@
 1 Heliod's Intervention
 2 Light of Hope
 2 Shredded Sails
-2 Heliod's Intervention
 2 Unbreakable Formation
+2 Heliod's Intervention
 3 Light of Hope
 3 Heliod's Intervention
 4 Light of Hope
+1 Redcap Melee
+1 Elder Gargaroth
 1 Cindervines
+1 Shifting Ceratops
 2 Cindervines
+2 Shifting Ceratops
 3 Cindervines
 3 Shifting Ceratops
 4 Shifting Ceratops
 4 Cindervines
+1 Fight as One
+1 Disenchant
+1 Containment Priest
+2 Fight as One
+2 Disenchant
+2 Redcap Melee
+3 Redcap Melee
+3 Disenchant
+4 Redcap Melee
+4 Glass Casket
 1 Aether Gust
 1 Mystical Dispute
 2 Aether Gust
@@ -100,12 +89,3 @@
 3 Noxious Grasp
 4 Negate
 4 Unmoored Ego
-1 Cultivate
-1 Ugin, the Spirit Dragon
-1 Solemn Simulacrum
-1 Sparkhunter Masticore
-1 Quartzwood Crasher
-2 Solemn Simulacrum
-2 Ugin, the Spirit Dragon
-2 Sparkhunter Masticore
-2 Elder Gargaroth

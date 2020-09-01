@@ -6,19 +6,19 @@
 4 Blossoming Sands
 1 Dream Trawler
 1 Leafkin Druid
-1 Thassa, Deep-Dwelling
 1 Fierce Empath
 1 Simic Guildgate
 1 Imposing Vantasaur
-1 Realm-Cloaked Giant
 1 Arboreal Grazer
+1 Realm-Cloaked Giant
+1 Thassa, Deep-Dwelling
 1 Risen Reef
-1 Tranquil Cove
 1 Thornwood Falls
-1 Banishing Light
+1 Tranquil Cove
 1 Neoform
-1 Teferi's Time Twist
+1 Banishing Light
 1 Destiny Spinner
+1 Teferi's Time Twist
 1 Negate
 1 Kasmina's Transmutation
 1 Cloudkin Seer
@@ -57,12 +57,12 @@
 4 Island
 4 Tranquil Cove
 4 Thornwood Falls
-4 Cloudkin Seer
 4 Risen Reef
 4 Leafkin Druid
 4 Fierce Empath
 4 Imposing Vantasaur
 4 Omen of the Sea
+4 Cloudkin Seer
 5 Island
 6 Island
 7 Island
@@ -93,6 +93,27 @@
 3 Glaring Aegis
 3 Solid Footing
 4 Glaring Aegis
+1 Lurrus of the Dream-Den
+1 Bronzehide Lion
+1 Primal Might
+1 Lovestruck Beast
+1 Gideon Blackblade
+1 Gemrazer
+2 Questing Beast
+2 Lurrus of the Dream-Den
+2 Bronzehide Lion
+2 Primal Might
+2 Lovestruck Beast
+2 Gideon Blackblade
+3 Scavenging Ooze
+3 Questing Beast
+3 Primal Might
+3 Lurrus of the Dream-Den
+3 Bronzehide Lion
+3 Lovestruck Beast
+4 Questing Beast
+4 Lovestruck Beast
+4 Bronzehide Lion
 1 Basri Ket
 1 Wildwood Scourge
 1 Venerated Loxodon
@@ -107,37 +128,16 @@
 3 Wildwood Scourge
 3 Venerated Loxodon
 3 Huatli's Raptor
-4 Basri Ket
 4 Wildwood Scourge
 4 Venerated Loxodon
 4 Huatli's Raptor
-1 Lurrus of the Dream-Den
-1 Primal Might
-1 Lovestruck Beast
-1 Gideon Blackblade
-1 Gemrazer
-1 Bronzehide Lion
-2 Questing Beast
-2 Lurrus of the Dream-Den
-2 Primal Might
-2 Lovestruck Beast
-2 Bronzehide Lion
-2 Gideon Blackblade
-3 Scavenging Ooze
-3 Questing Beast
-3 Primal Might
-3 Lurrus of the Dream-Den
-3 Lovestruck Beast
-3 Bronzehide Lion
-4 Questing Beast
-4 Lovestruck Beast
-4 Bronzehide Lion
+4 Basri Ket
 1 Elspeth, Sun's Nemesis
+1 Ajani, the Greathearted
 1 Ram Through
 1 Vivien, Arkbow Ranger
 1 Feat of Resistance
 1 Selesnya Guildgate
-1 Ajani, the Greathearted
 1 Evolution Sage
 1 Bloom Hulk
 1 Barkhide Troll

@@ -26,8 +26,8 @@
 4 Chrome Mox
 2 City of Traitors
 1 Mountain
-1 Blood Sun
 1 Seasoned Pyromancer
+1 Blood Sun
 1 Plateau
 1 Winota, Joiner of Forces
 1 Angrath's Marauders
@@ -56,13 +56,13 @@
 3 Legion Warboss
 3 Simian Spirit Guide
 3 Goblin Rabblemaster
+4 Goblin Rabblemaster
 4 Simian Spirit Guide
+4 Legion Warboss
 4 Plateau
 4 Winota, Joiner of Forces
 4 Blood Sun
 4 Angrath's Marauders
-4 Legion Warboss
-4 Goblin Rabblemaster
 4 City of Traitors
 1 Horizon Canopy
 4 Palace Jailer
@@ -79,14 +79,14 @@
 7 Plains
 1 Aven Mindcensor
 1 Vryn Wingmare
-2 Vryn Wingmare
 2 Aven Mindcensor
+2 Vryn Wingmare
 3 Ghost Quarter
-3 Sanctum Prelate
 3 Vryn Wingmare
-4 Sanctum Prelate
+3 Sanctum Prelate
 4 Ghost Quarter
 4 Vryn Wingmare
+4 Sanctum Prelate
 2 Containment Priest
 1 Council's Judgment
 1 Oblivion Ring
@@ -98,11 +98,12 @@
 2 Lavabrink Venturer
 3 Lavabrink Venturer
 4 Seasoned Pyromancer
+4 Walking Ballista
+1 Swamp
 1 Marsh Flats
 1 Wasteland Strangler
 1 Silent Clearing
 1 Agonizing Remorse
-1 Swamp
 1 Scrubland
 2 Scrubland
 2 Marsh Flats
@@ -114,7 +115,6 @@
 4 Marsh Flats
 4 Wasteland Strangler
 4 Agonizing Remorse
-4 Walking Ballista
 1 Mirran Crusader
 2 Mirran Crusader
 5 Snow-Covered Plains

@@ -24,15 +24,15 @@
 1 Inventors' Fair
 1 Chromatic Star
 2 Chromatic Star
-1 Spirebluff Canal
-1 Spire of Industry
-1 Glimmervoid
 1 Island
+1 Spirebluff Canal
+1 Glimmervoid
 1 Mountain
 1 Darkslick Shores
+1 Spire of Industry
+2 Darkslick Shores
 2 Spirebluff Canal
 2 Island
-2 Darkslick Shores
 3 Island
 4 Island
 3 Metallic Rebuke
@@ -76,19 +76,19 @@
 2 Gilded Goose
 2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
-3 Gilded Goose
 3 Misty Rainforest
 3 Uro, Titan of Nature's Wrath
-4 Gilded Goose
+3 Gilded Goose
 4 Misty Rainforest
-1 Ghirapur Aether Grid
+4 Gilded Goose
 1 Sorcerous Spyglass
-2 Steam Vents
+1 Ghirapur Aether Grid
 1 Godless Shrine
 1 Executioner's Capsule
 1 Necrogen Spellbomb
-2 Aether Spellbomb
 2 Pithing Needle
+2 Aether Spellbomb
+2 Steam Vents
 1 Spellskite
 3 Spire of Industry
 2 Pyrite Spellbomb
@@ -102,14 +102,14 @@
 1 Drown in the Loch
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
-1 Abrupt Decay
+1 Zagoth Triome
 1 Ice-Fang Coatl
 1 Overgrown Tomb
 1 Snow-Covered Forest
-1 Zagoth Triome
+1 Abrupt Decay
 2 Snow-Covered Forest
-2 Abrupt Decay
 2 Ice-Fang Coatl
+2 Abrupt Decay
 3 Cryptic Command
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
@@ -122,10 +122,10 @@
 1 Talisman of Creativity
 1 Serum Visions
 1 Darksteel Citadel
-2 Relic of Progenitus
 1 Glacial Fortress
 1 Sai, Master Thopterist
 2 Sai, Master Thopterist
+2 Relic of Progenitus
 1 Thoughtseize
 1 Sunken Hollow
 2 Thoughtseize

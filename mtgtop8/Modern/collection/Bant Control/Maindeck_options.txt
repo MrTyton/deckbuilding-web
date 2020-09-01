@@ -35,17 +35,17 @@
 2 Windswept Heath
 2 Temple Garden
 4 Force of Negation
-1 Venser, Shaper Savant
 1 Eternal Witness
+1 Venser, Shaper Savant
 1 Time Warp
 1 Ephemerate
 1 Coiling Oracle
 2 Ephemerate
 2 Eternal Witness
 2 Coiling Oracle
-3 Coiling Oracle
-3 Ephemerate
 3 Eternal Witness
+3 Ephemerate
+3 Coiling Oracle
 4 Coiling Oracle
 4 Ephemerate
 1 Wall of Omens
@@ -83,39 +83,39 @@
 4 Cryptic Command
 4 Aether Vial
 4 Eternal Witness
+1 Springleaf Drum
 1 Kinnan, Bonder Prodigy
 1 Zagoth Triome
 1 Minamo, School at Water's Edge
 1 Botanical Sanctum
-1 Springleaf Drum
+1 Aether Spellbomb
 1 Emry, Lurker of the Loch
 1 Seachrome Coast
 1 Mox Amber
 1 Monastery Mentor
-1 Aether Spellbomb
 1 Mishra's Bauble
+2 Springleaf Drum
 2 Kinnan, Bonder Prodigy
 2 Botanical Sanctum
 2 Emry, Lurker of the Loch
-2 Springleaf Drum
 2 Engineered Explosives
 2 Monastery Mentor
 2 Mishra's Bauble
 2 Mox Amber
 3 Kinnan, Bonder Prodigy
-3 Springleaf Drum
-3 Monastery Mentor
 3 Emry, Lurker of the Loch
+3 Monastery Mentor
 3 Engineered Explosives
 3 Mox Amber
+3 Springleaf Drum
 3 Mishra's Bauble
 4 Kinnan, Bonder Prodigy
-4 Engineered Explosives
-4 Springleaf Drum
 4 Monastery Mentor
 4 Emry, Lurker of the Loch
 4 Mishra's Bauble
+4 Engineered Explosives
 4 Mox Amber
+4 Springleaf Drum
 1 Wall of Blossoms
 1 Seaside Citadel
 2 Wall of Blossoms
@@ -144,13 +144,13 @@
 1 Timely Reinforcements
 2 Snapcaster Mage
 4 Field of Ruin
+1 Soulherder
 1 Canopy Vista
 1 Eladamri's Call
-1 Soulherder
+2 Soulherder
+2 Venser, Shaper Savant
 2 Time Warp
 2 Prairie Stream
-2 Venser, Shaper Savant
-2 Soulherder
 3 Soulherder
 4 Soulherder
 1 Birds of Paradise

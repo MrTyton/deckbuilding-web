@@ -40,8 +40,8 @@
 4 Pteramander
 1 Izzet Guildgate
 2 Izzet Guildgate
-3 Winged Words
 3 Crackling Drake
+3 Winged Words
 1 Blitz of the Thunder-Raptor
 2 Blitz of the Thunder-Raptor
 1 Finale of Promise
@@ -54,20 +54,10 @@
 2 Starlit Mantle
 1 Lore Drakkis
 2 Lore Drakkis
-1 Fabled Passage
-1 Shark Typhoon
-2 Shark Typhoon
-2 Castle Vantress
-3 Ionize
-3 Bonecrusher Giant
-3 Shark Typhoon
-4 Ionize
-4 Bonecrusher Giant
-4 Brazen Borrower
-1 See the Truth
 1 Infuriate
-1 Lava Coil
+1 See the Truth
 1 Maximize Velocity
+1 Lava Coil
 2 See the Truth
 2 Infuriate
 2 Lava Coil
@@ -75,6 +65,16 @@
 3 See the Truth
 3 Maximize Velocity
 4 See the Truth
+1 Fabled Passage
+1 Shark Typhoon
+2 Shark Typhoon
+2 Castle Vantress
+3 Ionize
+3 Bonecrusher Giant
+3 Shark Typhoon
+4 Bonecrusher Giant
+4 Brazen Borrower
+4 Ionize
 1 Irencrag Pyromancer
 1 Experimental Overload
 1 Niv-Mizzet, Parun
@@ -83,8 +83,8 @@
 1 Flame Sweep
 1 Frantic Inventory
 2 Experimental Overload
-2 Flame Sweep
 2 Ominous Seas
+2 Flame Sweep
 2 Frantic Inventory
 3 Ominous Seas
 3 Flame Sweep
@@ -101,8 +101,8 @@
 2 Soul Sear
 3 Faerie Vandal
 3 Soul Sear
-4 Faerie Vandal
 4 Crackling Drake
+4 Faerie Vandal
 9 Island
 1 Heartfire Immolator
 1 Wee Dragonauts
@@ -123,15 +123,15 @@
 2 Cathartic Reunion
 2 Ox of Agonas
 2 Merchant of the Vale
-3 Blitz of the Thunder-Raptor
 3 Finale of Promise
+3 Blitz of the Thunder-Raptor
 3 Merfolk Secretkeeper
 3 Cathartic Reunion
 3 Merchant of the Vale
 3 Arclight Phoenix
 4 Merchant of the Vale
-4 Blitz of the Thunder-Raptor
 4 Merfolk Secretkeeper
+4 Blitz of the Thunder-Raptor
 4 Cathartic Reunion
 4 Finale of Promise
 4 Arclight Phoenix
