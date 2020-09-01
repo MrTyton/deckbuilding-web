@@ -1,68 +1,69 @@
 1 Stonecoil Serpent
 2 Stonecoil Serpent
-18 Plains
 3 Stonecoil Serpent
+18 Plains
 4 Stonecoil Serpent
 1 Tithe Taker
 1 Conclave Tribunal
 1 Heraldic Banner
-1 Elspeth, Sun's Nemesis
-2 Conclave Tribunal
+2 Heraldic Banner
+3 Heraldic Banner
+1 Healer's Hawk
+2 Healer's Hawk
+2 Tithe Taker
+3 Tithe Taker
+1 Apostle of Purifying Light
 1 Faerie Guidemother
+1 Tomik, Distinguished Advokist
+2 Apostle of Purifying Light
 2 Faerie Guidemother
 3 Faerie Guidemother
 4 Faerie Guidemother
-2 Elspeth, Sun's Nemesis
-1 Temple Garden
-1 Fabled Passage
-1 March of the Multitudes
-1 Forest
-2 Fabled Passage
-2 Temple Garden
-2 Forest
-2 March of the Multitudes
-3 Temple Garden
-3 March of the Multitudes
-3 Forest
-3 Conclave Tribunal
-4 Temple Garden
-4 Forest
-5 Forest
-6 Forest
+1 Elspeth, Sun's Nemesis
+1 Blast Zone
+1 Shadowspear
+2 Blast Zone
+2 Shadowspear
+4 Tithe Taker
+4 Heraldic Banner
 1 Law-Rune Enforcer
 4 Unbreakable Formation
-1 Healer's Hawk
-2 Healer's Hawk
-2 Heraldic Banner
-3 Heraldic Banner
-2 Tithe Taker
-3 Tithe Taker
 1 Loyal Pegasus
 2 Loyal Pegasus
 3 Loyal Pegasus
 4 Loyal Pegasus
-1 Apostle of Purifying Light
-1 Tomik, Distinguished Advokist
-2 Apostle of Purifying Light
-1 Lovestruck Beast
-2 Lovestruck Beast
-3 Lovestruck Beast
-4 Lovestruck Beast
-4 Conclave Tribunal
-1 Temple of Plenty
+2 Elspeth, Sun's Nemesis
+2 Conclave Tribunal
+1 Temple Garden
+1 Fabled Passage
 1 Emmara, Soul of the Accord
+1 Temple of Plenty
 1 Trostani Discordant
 1 Woodland Champion
+1 March of the Multitudes
+1 Forest
 1 Flower/Flourish
+2 Fabled Passage
+2 Temple Garden
 2 Flower/Flourish
+2 Emmara, Soul of the Accord
+2 Forest
 2 Temple of Plenty
 2 Trostani Discordant
 2 Woodland Champion
-2 Emmara, Soul of the Accord
+2 March of the Multitudes
+3 Temple Garden
 3 Temple of Plenty
 3 Woodland Champion
-4 March of the Multitudes
+3 Conclave Tribunal
+3 March of the Multitudes
+3 Forest
+4 Temple Garden
+4 Forest
 4 Woodland Champion
+4 March of the Multitudes
+5 Forest
+6 Forest
 1 Basri's Lieutenant
 19 Plains
 1 God-Eternal Oketra
@@ -89,33 +90,23 @@
 2 Venerable Knight
 3 Venerable Knight
 4 Venerable Knight
-1 Edgewall Innkeeper
-1 Flaxen Intruder
-1 Shepherd of the Flock
-2 Edgewall Innkeeper
-2 Flaxen Intruder
-2 Shepherd of the Flock
-3 Shepherd of the Flock
-3 Edgewall Innkeeper
-4 Edgewall Innkeeper
 1 Return of the Wildspeaker
 1 Divine Visitation
+1 Lovestruck Beast
+2 Lovestruck Beast
+3 Lovestruck Beast
 3 Flower/Flourish
 3 Emmara, Soul of the Accord
+4 Lovestruck Beast
 4 Flower/Flourish
-1 Blast Zone
-1 Shadowspear
-2 Blast Zone
-2 Shadowspear
-4 Tithe Taker
-4 Heraldic Banner
+4 Conclave Tribunal
 1 Call of the Death-Dweller
 1 Archfiend's Vessel
-1 Knight of the Ebon Legion
 1 Vampire of the Dire Moon
 1 Light of Hope
-1 Pacifism
+1 Knight of the Ebon Legion
 1 Speaker of the Heavens
+1 Pacifism
 1 Swamp
 1 Spontaneous Flight
 1 Ajani's Pridemate
@@ -128,31 +119,31 @@
 2 Vampire of the Dire Moon
 2 Knight of the Ebon Legion
 2 Light of Hope
-2 Pacifism
 2 Scoured Barrens
+2 Speaker of the Heavens
 2 Mutual Destruction
 2 Swamp
 2 Unexpected Fangs
 2 Spontaneous Flight
 2 Griffin Aerie
 2 Ajani's Pridemate
-2 Speaker of the Heavens
+2 Pacifism
 3 Archfiend's Vessel
 3 Vampire of the Dire Moon
-3 Pacifism
 3 Swamp
-3 Light of Hope
 3 Ajani's Pridemate
-3 Unexpected Fangs
-3 Scoured Barrens
 3 Mutual Destruction
+3 Unexpected Fangs
+3 Pacifism
+3 Scoured Barrens
+3 Light of Hope
 4 Archfiend's Vessel
 4 Vampire of the Dire Moon
-4 Pacifism
 4 Unexpected Fangs
-4 Scoured Barrens
-4 Ajani's Pridemate
+4 Pacifism
 4 Swamp
+4 Ajani's Pridemate
+4 Scoured Barrens
 5 Swamp
 6 Swamp
 7 Swamp

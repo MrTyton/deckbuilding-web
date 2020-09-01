@@ -1,10 +1,10 @@
-2 Ice-Fang Coatl
-3 Snow-Covered Island
-3 Ice-Fang Coatl
-4 Ice-Fang Coatl
-1 Snapcaster Mage
-1 Shark Typhoon
 1 Plains
+1 Ice-Fang Coatl
+2 Ice-Fang Coatl
+3 Ice-Fang Coatl
+3 Snow-Covered Island
+4 Ice-Fang Coatl
+1 Shark Typhoon
 2 Snow-Covered Forest
 4 Uro, Titan of Nature's Wrath
 1 Prairie Stream
@@ -85,30 +85,30 @@
 4 Eternal Witness
 1 Springleaf Drum
 1 Kinnan, Bonder Prodigy
-1 Zagoth Triome
 1 Minamo, School at Water's Edge
 1 Botanical Sanctum
 1 Aether Spellbomb
-1 Emry, Lurker of the Loch
 1 Seachrome Coast
 1 Mox Amber
+1 Zagoth Triome
+1 Emry, Lurker of the Loch
 1 Monastery Mentor
 1 Mishra's Bauble
 2 Springleaf Drum
 2 Kinnan, Bonder Prodigy
 2 Botanical Sanctum
-2 Emry, Lurker of the Loch
 2 Engineered Explosives
+2 Emry, Lurker of the Loch
 2 Monastery Mentor
 2 Mishra's Bauble
 2 Mox Amber
 3 Kinnan, Bonder Prodigy
-3 Emry, Lurker of the Loch
 3 Monastery Mentor
 3 Engineered Explosives
 3 Mox Amber
 3 Springleaf Drum
 3 Mishra's Bauble
+3 Emry, Lurker of the Loch
 4 Kinnan, Bonder Prodigy
 4 Monastery Mentor
 4 Emry, Lurker of the Loch
@@ -120,13 +120,15 @@
 1 Seaside Citadel
 2 Wall of Blossoms
 1 Raugrin Triome
+1 Lightning Helix
 1 Steam Vents
 1 Wrenn and Six
 1 Lightning Bolt
-1 Lightning Helix
 2 Wrenn and Six
 2 Lightning Helix
 2 Lightning Bolt
+2 Forest
+3 Island
 1 Glacial Fortress
 1 Serum Visions
 1 Spell Pierce
@@ -153,6 +155,19 @@
 2 Prairie Stream
 3 Soulherder
 4 Soulherder
+1 Wilderness Reclamation
+1 Nexus of Fate
+1 Opt
+1 Fact or Fiction
+2 Wilderness Reclamation
+2 Fact or Fiction
+2 Opt
+3 Archmage's Charm
+3 Mystic Sanctuary
+3 Wilderness Reclamation
+3 Fact or Fiction
+3 Opt
+4 Opt
 1 Birds of Paradise
 1 Ghost Quarter
 1 Scavenging Ooze
@@ -163,19 +178,6 @@
 3 Ghost Quarter
 3 Birds of Paradise
 4 Birds of Paradise
-1 Nexus of Fate
-1 Opt
-1 Wilderness Reclamation
-1 Fact or Fiction
-2 Fact or Fiction
-2 Wilderness Reclamation
-2 Opt
-3 Mystic Sanctuary
-3 Opt
-3 Wilderness Reclamation
-3 Archmage's Charm
-3 Fact or Fiction
-4 Opt
 1 Irrigated Farmland
 3 Remand
 4 Remand

@@ -129,7 +129,7 @@
 |                     |                                                                                                      |                    1|[Runaway Steam-Kin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452865)          |
 |                     |                                                                                                      |                    4|[Tibalt, Rakish Instigator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461073)  |
 |                     |                                                                                                      |                    1|[Porcuparrot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479648)                |
-|                     |                                                                                                      |                    1|[Chandra, Heart of Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485458)     |
 |                     |                                                                                                      |                    2|[Porcuparrot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479648)                |
 |                     |                                                                                                      |                    3|[Porcuparrot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479648)                |
+|                     |                                                                                                      |                    1|[Chandra, Heart of Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485458)     |
 

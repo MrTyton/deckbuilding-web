@@ -1,48 +1,48 @@
-1 Aether Gust
-1 Soul-Guide Lantern
-1 Rending Volley
-2 Rending Volley
-3 Rending Volley
-4 Rending Volley
-2 Soul-Guide Lantern
-2 Aether Gust
-2 Gruul Charm
-1 Heroic Intervention
-2 Heroic Intervention
-4 Mystical Dispute
+2 Grafdigger's Cage
+3 Grafdigger's Cage
+1 Thoughtseize
+2 Thoughtseize
+1 Fatal Push
+2 Fatal Push
+1 Scavenging Ooze
+2 Scavenging Ooze
+1 Damping Sphere
+1 Assassin's Trophy
+1 Anger of the Gods
+2 Anger of the Gods
+3 Thoughtseize
+4 Thoughtseize
+1 Kolaghan's Command
+1 Yorion, Sky Nomad
+2 Kolaghan's Command
 1 Abrade
 1 Fry
 1 Disdainful Stroke
 2 Disdainful Stroke
-3 Magma Spray
+4 Mystical Dispute
 1 Embereth Shieldbreaker
 2 Embereth Shieldbreaker
-1 Anger of the Gods
-2 Anger of the Gods
-3 Scavenging Ooze
-1 Stubborn Denial
-2 Stubborn Denial
-3 Stubborn Denial
-1 Wild Slash
-2 Wild Slash
-3 Wild Slash
+2 Damping Sphere
 1 Kalitas, Traitor of Ghet
-1 Reckless Air Strike
-1 By Force
+1 Ruinous Ultimatum
 2 Kalitas, Traitor of Ghet
+3 Fatal Push
+2 Chandra, Torch of Defiance
+3 Magma Spray
 1 Dovin's Veto
 2 Dovin's Veto
-1 Grafdigger's Cage
 1 Spell Queller
 1 Narset, Parter of Veils
 1 Summary Dismissal
 2 Spell Queller
 2 Narset, Parter of Veils
+1 Kambal, Consul of Allocation
+1 Sin Collector
+1 Despark
+2 Sin Collector
+2 Despark
 1 Chandra, Acolyte of Flame
 2 Chandra, Acolyte of Flame
-1 Fatal Push
-2 Fatal Push
-3 Fatal Push
 1 Murderous Rider
 1 Vraska, Golgari Queen
 1 Claim the Firstborn
@@ -54,15 +54,22 @@
 1 Reckless Rage
 1 Spell Pierce
 2 Fry
+1 Aetherling
+1 Slaughter Games
+2 Slaughter Games
 1 The Elderspell
 1 Chandra, Awakened Inferno
 1 Inspired Ultimatum
 1 Collective Brutality
 1 Bontu's Last Reckoning
-1 Ruinous Ultimatum
 2 Chandra, Awakened Inferno
 2 Collective Brutality
 2 Bontu's Last Reckoning
+1 Garruk, Cursed Huntsman
+1 Hornet Nest
+1 Garruk, Apex Predator
+1 Jegantha, the Wellspring
+2 Hornet Nest
 1 Searing Blood
 2 Searing Blood
 1 Eidolon of the Great Revel
@@ -71,11 +78,9 @@
 2 Eidolon of the Great Revel
 2 Collective Defiance
 2 Goblin Chainwhirler
-1 Glorybringer
-1 Redcap Melee
-1 Lightning Axe
-2 Redcap Melee
-2 Glorybringer
+1 Stubborn Denial
+2 Stubborn Denial
+3 Stubborn Denial
 1 The Immortal Sun
 1 Anguished Unmaking
 1 Remorseful Cleric
@@ -90,19 +95,18 @@
 2 Languish
 2 Anguished Unmaking
 3 Mortify
-1 Izzet Staticaster
-1 Teferi, Time Raveler
 1 Klothys, God of Destiny
+1 Bonecrusher Giant
+2 Bonecrusher Giant
 1 Knight of Autumn
 1 Fire Prophecy
-1 Bonecrusher Giant
 1 Skylasher
 2 Knight of Autumn
-2 Bonecrusher Giant
+2 Skylasher
 2 Klothys, God of Destiny
 2 Fire Prophecy
-2 Skylasher
 3 Skylasher
+1 Teferi, Time Raveler
 1 Uro, Titan of Nature's Wrath
 1 Radiant Flames
 1 Monastery Mentor
@@ -111,16 +115,11 @@
 2 Radiant Flames
 3 Teferi, Time Raveler
 3 Aether Gust
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-4 Thoughtseize
-1 Damping Sphere
 1 Leyline of the Void
 1 Skysovereign, Consul Flagship
 1 Davriel, Rogue Shadowmage
-1 Pithing Needle
 1 Nyx Lotus
+1 Pithing Needle
 1 Wishclaw Talisman
 1 Heart of Kiran
 1 Tormod's Crypt
@@ -129,6 +128,17 @@
 2 Davriel, Rogue Shadowmage
 2 Leyline of the Void
 3 Davriel, Rogue Shadowmage
+1 Lurrus of the Dream-Den
+1 Adanto Vanguard
+1 Ornithopter
+1 Baffling End
+1 Hushbringer
+2 Ornithopter
+2 Adanto Vanguard
+2 Baffling End
+2 Hushbringer
+3 Baffling End
+3 Hushbringer
 1 Dragonlord Ojutai
 1 Settle the Wreckage
 1 Lyra Dawnbringer
@@ -139,29 +149,47 @@
 3 Surge of Righteousness
 3 Settle the Wreckage
 1 Yahenni's Expertise
-1 Assassin's Trophy
 2 Assassin's Trophy
-2 Damping Sphere
 2 Yahenni's Expertise
 3 Assassin's Trophy
 3 Damping Sphere
-1 Ashiok, Dream Render
+1 Glorybringer
+1 Redcap Melee
+1 Lightning Axe
+1 Wild Slash
+2 Glorybringer
+2 Redcap Melee
+2 Wild Slash
+3 Wild Slash
+1 Lavinia of the Tenth
+1 Selfless Spirit
 1 Negate
-1 Unmoored Ego
-2 Ashiok, Dream Render
-2 Unmoored Ego
+1 Declaration in Stone
+1 Giant Killer
+1 Cloudblazer
 2 Negate
-3 Kalitas, Traitor of Ghet
-1 Aetherling
-1 Kolaghan's Command
-1 Slaughter Games
-1 Yorion, Sky Nomad
-2 Kolaghan's Command
-2 Slaughter Games
-2 Grafdigger's Cage
-3 Grafdigger's Cage
-3 Destructive Revelry
-3 Gruul Charm
+2 Selfless Spirit
+2 Giant Killer
+2 Declaration in Stone
+2 Cloudblazer
+3 Selfless Spirit
+3 Bonecrusher Giant
+1 Banishing Light
+1 Karametra's Blessing
+1 Leyline of Sanctity
+1 Silkwrap
+2 Karametra's Blessing
+2 Leyline of Sanctity
+2 Silkwrap
+3 Karametra's Blessing
+3 Soul-Guide Lantern
+3 Leyline of Sanctity
+3 Silkwrap
+4 Karametra's Blessing
+4 Soul-Guide Lantern
+1 Izzet Staticaster
+1 Gruul Charm
+2 Gruul Charm
 1 The Scarab God
 1 Abrupt Decay
 1 Hero of Precinct One
@@ -170,19 +198,16 @@
 2 Rakdos's Return
 3 Hero of Precinct One
 4 Hero of Precinct One
-1 Banishing Light
-1 Karametra's Blessing
-1 Leyline of Sanctity
-1 Silkwrap
-2 Karametra's Blessing
-2 Leyline of Sanctity
-2 Silkwrap
-3 Soul-Guide Lantern
-3 Karametra's Blessing
-3 Leyline of Sanctity
-3 Silkwrap
-4 Karametra's Blessing
-4 Soul-Guide Lantern
+1 Bristling Hydra
+1 Heroic Intervention
+1 Aethersphere Harvester
+1 Gruul Spellbreaker
+2 Bristling Hydra
+2 Heroic Intervention
+2 Aethersphere Harvester
+2 Gruul Spellbreaker
+3 Gruul Spellbreaker
+4 Magma Spray
 1 Silence
 1 Oppressive Rays
 1 Guildscorn Ward
@@ -194,37 +219,20 @@
 3 Guildscorn Ward
 4 Oppressive Rays
 4 Guildscorn Ward
-1 Shadowspear
-1 Back to Nature
-1 Mizzium Mortars
-2 Shadowspear
-2 Mizzium Mortars
-3 Mizzium Mortars
-4 Wild Slash
-4 Scavenging Ooze
-4 Mizzium Mortars
-1 Elspeth, Sun's Champion
-1 Rest in Peace
 1 Containment Priest
+1 Rest in Peace
 1 Apostle of Purifying Light
+1 Elspeth, Sun's Champion
 1 Soldier of the Pantheon
 1 Gideon's Intervention
 1 Basri's Lieutenant
-2 Rest in Peace
 2 Banishing Light
+2 Rest in Peace
 2 Apostle of Purifying Light
 2 Soldier of the Pantheon
 2 Basri's Lieutenant
 3 Soldier of the Pantheon
 4 Soldier of the Pantheon
-1 Bristling Hydra
-1 Aethersphere Harvester
-1 Gruul Spellbreaker
-2 Bristling Hydra
-2 Aethersphere Harvester
-2 Gruul Spellbreaker
-3 Gruul Spellbreaker
-4 Magma Spray
 1 Young Pyromancer
 1 Fevered Visions
 2 Young Pyromancer
@@ -235,7 +243,6 @@
 1 Dire Fleet Daredevil
 1 Cindervines
 1 Chained to the Rocks
-1 Lurrus of the Dream-Den
 1 Exquisite Firecraft
 2 Dire Fleet Daredevil
 2 Cindervines

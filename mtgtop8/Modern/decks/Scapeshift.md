@@ -72,7 +72,6 @@
 |                    1|[Sweltering Suns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426851)        |                     |                                                                                               |
 |                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)               |                     |                                                                                               |
 |                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)      |                     |                                                                                               |
-|                    4|[Censor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426748)                 |                     |                                                                                               |
 |                    1|[Flooded Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442228)          |                     |                                                                                               |
 |                    1|[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442051)|                     |                                                                                               |
 |                    1|[Bring to Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401831)         |                     |                                                                                               |
@@ -93,4 +92,5 @@
 |                    3|[Bring to Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401831)         |                     |                                                                                               |
 |                    4|[Bring to Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401831)         |                     |                                                                                               |
 |                    4|[Sakura-Tribe Elder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220582)     |                     |                                                                                               |
+|                    4|[Censor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426748)                 |                     |                                                                                               |
 

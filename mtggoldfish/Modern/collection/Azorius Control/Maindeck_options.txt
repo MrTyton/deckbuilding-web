@@ -17,10 +17,10 @@
 3 Misty Rainforest
 4 Shark Typhoon
 2 Glacial Fortress
-1 Breeding Pool
 1 Snow-Covered Forest
 1 Ice-Fang Coatl
 1 Temple Garden
+1 Breeding Pool
 2 Snow-Covered Forest
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
@@ -28,8 +28,8 @@
 2 Teferi, Hero of Dominaria
 4 Spell Queller
 1 Noble Hierarch
-1 Uro, Titan of Nature's Wrath
 1 Windswept Heath
+1 Uro, Titan of Nature's Wrath
 2 Noble Hierarch
 2 Windswept Heath
 2 Uro, Titan of Nature's Wrath
@@ -65,16 +65,16 @@
 3 Prismatic Vista
 4 Prismatic Vista
 1 Lightning Bolt
-1 Steam Vents
 1 Omen of the Sea
 1 Narset, Parter of Veils
 1 Snow-Covered Mountain
-1 Sacred Foundry
 1 Pyroclasm
 1 Lightning Helix
 1 Sulfur Falls
 1 Electrolyze
+1 Steam Vents
 1 Logic Knot
+1 Sacred Foundry
 2 Scalding Tarn
 2 Lightning Bolt
 2 Omen of the Sea
@@ -85,8 +85,8 @@
 2 Electrolyze
 3 Scalding Tarn
 3 Lightning Bolt
-3 Omen of the Sea
 3 Lightning Helix
+3 Omen of the Sea
 3 Narset, Parter of Veils
 4 Scalding Tarn
 4 Lightning Bolt
@@ -94,11 +94,11 @@
 4 Misty Rainforest
 3 Snow-Covered Forest
 3 Brazen Borrower
-1 Seachrome Coast
+1 Peek
 1 Moorland Haunt
 1 Arid Mesa
-1 Peek
 1 Giver of Runes
+1 Seachrome Coast
 1 Meddling Mage
 2 Seachrome Coast
 2 Vendilion Clique
@@ -109,8 +109,8 @@
 3 Meddling Mage
 3 Giver of Runes
 3 Peek
-4 Giver of Runes
 4 Seachrome Coast
+4 Giver of Runes
 4 Meddling Mage
 4 Peek
 1 Spell Pierce
@@ -125,17 +125,18 @@
 1 Condemn
 1 Oust
 1 Dismember
-3 Spell Pierce
 1 Wall of Omens
 1 Fact or Fiction
 2 Remand
 2 Wall of Omens
 3 Wall of Omens
 3 Restoration Angel
+3 Spell Pierce
 3 Birds of Paradise
+4 Archmage's Charm
 4 Force of Negation
-1 Frantic Inventory
 1 Deprive
+1 Frantic Inventory
 2 Frantic Inventory
 3 Frantic Inventory
 4 Frantic Inventory
@@ -161,4 +162,3 @@
 3 On Thin Ice
 3 Uro, Titan of Nature's Wrath
 4 On Thin Ice
-4 Archmage's Charm
