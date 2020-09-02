@@ -1,4 +1,3 @@
-1 Fatal Push
 2 Swamp
 2 Thoughtseize
 2 Fatal Push
@@ -6,6 +5,14 @@
 3 Thoughtseize
 4 Fatal Push
 4 Thoughtseize
+1 Eliminate
+1 Drowned Catacomb
+1 Watery Grave
+2 Drowned Catacomb
+2 Watery Grave
+3 Drowned Catacomb
+3 Watery Grave
+4 Watery Grave
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils
@@ -13,8 +20,6 @@
 1 Thing in the Ice
 1 Geier Reach Sanitarium
 1 Cling to Dust
-1 Drowned Catacomb
-1 Watery Grave
 1 Fetid Pools
 1 Choked Estuary
 1 Kalitas, Traitor of Ghet
@@ -23,18 +28,13 @@
 1 Heartless Act
 1 Hero's Downfall
 2 Thing in the Ice
-2 Drowned Catacomb
-2 Watery Grave
 2 Fetid Pools
 2 Choked Estuary
 2 Heartless Act
 3 Thing in the Ice
-3 Drowned Catacomb
-3 Watery Grave
-3 Dig Through Time
 3 Fetid Pools
+3 Dig Through Time
 4 Dig Through Time
-4 Watery Grave
 4 Drowned Catacomb
 1 Teferi, Master of Time
 1 Lumbering Falls
@@ -46,10 +46,10 @@
 3 Sublime Epiphany
 4 Shark Typhoon
 4 Temple of Mystery
+3 Swamp
 1 Castle Locthwain
 2 Eliminate
 2 Castle Locthwain
-3 Swamp
 1 Castle Ardenvale
 1 Basilica Bell-Haunt
 1 Treacherous Blessing
@@ -64,10 +64,10 @@
 1 Trial of Ambition
 1 Flicker of Fate
 1 The Birth of Meletis
+1 Elspeth Conquers Death
 1 Concealed Courtyard
 1 Isolated Chapel
 1 Yorion, Sky Nomad
-1 Elspeth Conquers Death
 1 Plains
 1 Starfield of Nyx
 1 Shambling Vent
@@ -91,6 +91,7 @@
 2 The Birth of Meletis
 2 Kaya's Wrath
 3 Isolated Chapel
+3 Trial of Ambition
 3 Plains
 3 Treacherous Blessing
 3 Mazemind Tome
@@ -98,11 +99,10 @@
 3 Shambling Vent
 3 Concealed Courtyard
 3 The Birth of Meletis
+3 Flicker of Fate
 3 Kaya's Wrath
-3 Trial of Ambition
 3 Godless Shrine
 3 Doom Foretold
-3 Flicker of Fate
 4 Plains
 4 Isolated Chapel
 4 Mazemind Tome
@@ -110,31 +110,54 @@
 4 Oath of Kaya
 4 Shambling Vent
 4 Kaya's Wrath
-4 Concealed Courtyard
 4 Doom Foretold
 4 Godless Shrine
+4 Concealed Courtyard
 5 Plains
 6 Plains
+1 Dragonskull Summit
+1 Blood Crypt
+1 Kroxa, Titan of Death's Hunger
+1 Murderous Rider
+1 Mountain
+2 Dragonskull Summit
+2 Blood Crypt
+2 Kroxa, Titan of Death's Hunger
+2 Murderous Rider
+3 Dragonskull Summit
+3 Kroxa, Titan of Death's Hunger
+3 Blood Crypt
+4 Kroxa, Titan of Death's Hunger
+4 Blood Crypt
 1 Aetherspouts
 2 Aetherspouts
 3 Blast Zone
+1 Dreadbore
+1 Nicol Bolas, the Ravager
+1 The Royal Scions
+1 Chart a Course
+1 Bonecrusher Giant
+1 Discovery / Dispersal
+2 Dreadbore
+2 Nicol Bolas, the Ravager
+2 The Royal Scions
+2 Discovery / Dispersal
+2 Bonecrusher Giant
+2 Chart a Course
+3 Dreadbore
+3 Nicol Bolas, the Ravager
+3 Murderous Rider
+3 Discovery / Dispersal
+4 Nicol Bolas, the Ravager
+4 Discovery / Dispersal
 1 Liliana, Waker of the Dead
-1 Dragonskull Summit
-1 Kroxa, Titan of Death's Hunger
-1 Blood Crypt
 1 Field of Ruin
-1 Murderous Rider
 1 Kolaghan's Command
 1 Davriel, Rogue Shadowmage
 1 Waste Not
-1 Mountain
 1 Collective Brutality
 1 Hazoret the Fervent
-2 Dragonskull Summit
-2 Kroxa, Titan of Death's Hunger
 2 Liliana, Waker of the Dead
-2 Blood Crypt
-2 Murderous Rider
 2 Davriel, Rogue Shadowmage
 2 Hazoret the Fervent
 2 Kolaghan's Command
@@ -143,72 +166,18 @@
 2 Collective Brutality
 2 Waste Not
 3 Kolaghan's Command
-3 Eliminate
-3 Dragonskull Summit
-3 Kroxa, Titan of Death's Hunger
 3 Castle Locthwain
-3 Blood Crypt
+3 Eliminate
 3 Davriel, Rogue Shadowmage
 3 Liliana, Waker of the Dead
 3 Mountain
 3 Waste Not
-4 Kroxa, Titan of Death's Hunger
 4 Dragonskull Summit
-4 Blood Crypt
 4 Swamp
 4 Liliana, Waker of the Dead
 4 Castle Locthwain
 4 Waste Not
-1 Clifftop Retreat
-1 Commit / Memory
-1 Wandering Fumarole
-1 Temple of Enlightenment
-1 Temple of Triumph
-1 Temple of Epiphany
-1 Sacred Foundry
-1 Jace, Vryn's Prodigy
-1 Settle the Wreckage
-1 Dream Trawler
-1 Teferi, Time Raveler
-1 Collective Defiance
-1 Sulfur Falls
-1 Steam Vents
-1 Hallowed Fountain
-1 Glacial Fortress
-1 Karn, the Great Creator
-1 Izzet Charm
-1 Supreme Verdict
-1 Anger of the Gods
-1 Raugrin Triome
-2 Sulfur Falls
-2 Sacred Foundry
-2 Clifftop Retreat
-2 Temple of Enlightenment
-2 Anger of the Gods
-2 Teferi, Time Raveler
-2 Karn, the Great Creator
-2 Supreme Verdict
-2 Hallowed Fountain
-2 Izzet Charm
-2 Raugrin Triome
-2 Steam Vents
-2 Collective Defiance
-2 Commit / Memory
-3 Sulfur Falls
-3 Anger of the Gods
-3 Collective Defiance
-3 Commit / Memory
-3 Izzet Charm
-3 Teferi, Time Raveler
-3 Hallowed Fountain
-3 Raugrin Triome
-3 Steam Vents
-4 Collective Defiance
-4 Raugrin Triome
-4 Steam Vents
-4 Hallowed Fountain
-4 Teferi, Time Raveler
-4 Izzet Charm
+1 Tasigur, the Golden Fang
 1 Scavenging Ooze
 1 Thassa, Deep-Dwelling
 1 Hostage Taker
@@ -224,21 +193,20 @@
 1 Reclamation Sage
 1 Thought-Knot Seer
 1 Overgrown Tomb
-1 Arboreal Grazer
 1 Unesh, Criosphinx Sovereign
+1 Arboreal Grazer
 1 Llanowar Wastes
 1 Satyr Wayfinder
-1 Blooming Marsh
-1 Tasigur, the Golden Fang
-1 Agent of Treachery
 1 Yavimaya Coast
+1 Blooming Marsh
+1 Agent of Treachery
+2 Tasigur, the Golden Fang
 2 Grapple with the Past
 2 Eldritch Evolution
 2 Elvish Rejuvenator
 2 Neoform
 2 Arboreal Grazer
 2 Overgrown Tomb
-2 Tasigur, the Golden Fang
 2 Satyr Wayfinder
 2 Blooming Marsh
 2 Llanowar Wastes
@@ -247,12 +215,62 @@
 3 Neoform
 3 Grapple with the Past
 3 Eldritch Evolution
+3 Forest
 3 Yavimaya Coast
 3 Arboreal Grazer
-3 Forest
 3 Llanowar Wastes
 3 Satyr Wayfinder
 3 Blooming Marsh
 4 Neoform
 4 Arboreal Grazer
 4 Satyr Wayfinder
+1 Clifftop Retreat
+1 Commit / Memory
+1 Wandering Fumarole
+1 Temple of Enlightenment
+1 Temple of Triumph
+1 Temple of Epiphany
+1 Sacred Foundry
+1 Izzet Charm
+1 Settle the Wreckage
+1 Dream Trawler
+1 Teferi, Time Raveler
+1 Collective Defiance
+1 Sulfur Falls
+1 Steam Vents
+1 Hallowed Fountain
+1 Glacial Fortress
+1 Jace, Vryn's Prodigy
+1 Supreme Verdict
+1 Karn, the Great Creator
+1 Anger of the Gods
+1 Raugrin Triome
+2 Izzet Charm
+2 Sulfur Falls
+2 Sacred Foundry
+2 Clifftop Retreat
+2 Temple of Enlightenment
+2 Anger of the Gods
+2 Teferi, Time Raveler
+2 Steam Vents
+2 Karn, the Great Creator
+2 Supreme Verdict
+2 Commit / Memory
+2 Hallowed Fountain
+2 Raugrin Triome
+2 Collective Defiance
+3 Anger of the Gods
+3 Sulfur Falls
+3 Collective Defiance
+3 Commit / Memory
+3 Izzet Charm
+3 Teferi, Time Raveler
+3 Hallowed Fountain
+3 Raugrin Triome
+3 Steam Vents
+4 Raugrin Triome
+4 Hallowed Fountain
+4 Teferi, Time Raveler
+4 Collective Defiance
+4 Izzet Charm
+4 Steam Vents

@@ -1,3 +1,12 @@
+4 Collected Company
+1 Plains
+3 Mana Confluence
+4 Mana Confluence
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
+4 Thraben Inspector
+1 General Kudro of Drannith
 1 Unclaimed Territory
 1 Reflector Mage
 1 Hero of Precinct One
@@ -24,26 +33,79 @@
 1 Overgrown Tomb
 1 Blooming Marsh
 2 Blooming Marsh
-1 Plains
-1 Wild Slash
-2 Wild Slash
 1 Temple Garden
+1 Hallowed Fountain
+2 Hallowed Fountain
+1 Mutavault
+2 Mutavault
+3 Mutavault
+4 Mutavault
+1 Stonecoil Serpent
+2 Stonecoil Serpent
+2 Plains
+1 Bomat Courier
+2 Bomat Courier
+3 Bomat Courier
+4 Bomat Courier
+3 Stonecoil Serpent
+4 Stonecoil Serpent
+1 Spirebluff Canal
+1 All That Glitters
+1 Stubborn Denial
+1 Toolcraft Exemplar
+1 Ensoul Artifact
+1 Spire of Industry
+1 Darksteel Citadel
+1 Gingerbrute
+1 Ghostfire Blade
+1 Hope of Ghirapur
+2 All That Glitters
+2 Stubborn Denial
+2 Hope of Ghirapur
+2 Spire of Industry
+2 Darksteel Citadel
+2 Gingerbrute
+2 Ensoul Artifact
+2 Toolcraft Exemplar
+2 Ghostfire Blade
+3 Hallowed Fountain
+3 All That Glitters
+3 Stubborn Denial
+3 Spire of Industry
+3 Darksteel Citadel
+3 Toolcraft Exemplar
+3 Gingerbrute
+3 Ensoul Artifact
+3 Ghostfire Blade
+4 Hallowed Fountain
+4 Darksteel Citadel
+4 Gingerbrute
+4 Ghostfire Blade
+4 Ensoul Artifact
+4 Spire of Industry
+4 Toolcraft Exemplar
+4 All That Glitters
+1 Canyon Slough
+4 Wild Slash
+4 Claim / Fame
+4 Dreadhorde Arcanist
+1 Botanical Sanctum
 3 Blooming Marsh
 1 Forest
-1 Elvish Mystic
-1 Llanowar Elves
-2 Llanowar Elves
-2 Elvish Mystic
 2 Overgrown Tomb
 3 Overgrown Tomb
 4 Overgrown Tomb
 4 Blooming Marsh
+1 Elvish Mystic
+1 Llanowar Elves
+2 Llanowar Elves
+2 Elvish Mystic
 1 Gilded Goose
 1 Priest of Forgotten Gods
 1 Catacomb Sifter
-1 Bolas's Citadel
 1 Zulaport Cutthroat
 1 Woe Strider
+1 Bolas's Citadel
 1 Mayhem Devil
 1 Stomping Ground
 2 Priest of Forgotten Gods
@@ -70,16 +132,6 @@
 4 Mayhem Devil
 4 Gilded Goose
 4 Stomping Ground
-1 Botanical Sanctum
-1 Hallowed Fountain
-2 Hallowed Fountain
-4 Mountain
-1 Dreadhorde Arcanist
-2 Dreadhorde Arcanist
-3 Wild Slash
-3 Dreadhorde Arcanist
-4 Young Pyromancer
-4 Dreadhorde Arcanist
 1 Fabled Passage
 2 Fabled Passage
 1 General's Enforcer
@@ -89,49 +141,20 @@
 3 Rogue Refiner
 2 Forest
 2 Temple Garden
+1 Experiment One
+2 Experiment One
+3 Experiment One
+4 Experiment One
 3 Llanowar Elves
 3 Elvish Mystic
-2 Plains
+1 Lurrus of the Dream-Den
 1 Sunpetal Grove
 2 Sunpetal Grove
 3 Temple Garden
 3 Forest
 4 Temple Garden
 4 Forest
-5 Forest
-1 Walking Ballista
-2 Walking Ballista
-3 Sunpetal Grove
-3 Walking Ballista
-4 Walking Ballista
-3 Plains
-1 Fortified Village
-1 Selfless Spirit
-1 Heliod, Sun-Crowned
-1 Militia Bugler
-2 Fortified Village
-2 Militia Bugler
-2 Heliod, Sun-Crowned
-3 Fortified Village
-3 Militia Bugler
-3 Heliod, Sun-Crowned
-4 Militia Bugler
-4 Heliod, Sun-Crowned
-4 Llanowar Elves
-1 Experiment One
-2 Experiment One
-3 Experiment One
-4 Experiment One
-1 Conclave Mentor
-2 Conclave Mentor
-3 Conclave Mentor
-4 Conclave Mentor
-4 Sunpetal Grove
-6 Forest
-7 Forest
 1 Urborg, Tomb of Yawgmoth
-1 Stonecoil Serpent
-2 Stonecoil Serpent
 1 Murderous Rider
 2 Murderous Rider
 5 Swamp
@@ -160,24 +183,45 @@
 3 Murderous Rider
 4 Drowned Catacomb
 4 Glint-Sleeve Siphoner
-1 Courser of Kruphix
-2 Courser of Kruphix
-3 Courser of Kruphix
+3 Sunpetal Grove
+4 Sunpetal Grove
+5 Forest
+3 Plains
 4 Plains
 5 Plains
-1 Field of Ruin
+1 Walking Ballista
+1 Conclave Mentor
+2 Conclave Mentor
+2 Walking Ballista
+3 Conclave Mentor
+3 Walking Ballista
+4 Conclave Mentor
+4 Walking Ballista
 1 Breeding Pool
 2 Breeding Pool
 3 Breeding Pool
 4 Breeding Pool
-1 Mutavault
-2 Mutavault
-3 Mutavault
-4 Mutavault
+1 Field of Ruin
+1 Scattered Groves
+1 Fortified Village
+2 Fortified Village
+1 Courser of Kruphix
+2 Courser of Kruphix
+3 Courser of Kruphix
+1 Rix Maadi Reveler
+1 Duress
+2 Rix Maadi Reveler
+3 Rix Maadi Reveler
+4 Rix Maadi Reveler
 1 Rootbound Crag
+1 Chamber Sentry
+2 Chamber Sentry
+1 Abbot of Keral Keep
+1 Crash Through
+2 Abbot of Keral Keep
 1 Archfiend's Vessel
-1 Dreadbore
 1 Call of the Death-Dweller
+1 Dreadbore
 2 Call of the Death-Dweller
 2 Dreadbore
 3 Call of the Death-Dweller
@@ -190,22 +234,6 @@
 3 General's Enforcer
 3 Dire Tactics
 3 Kytheon, Hero of Akros
-1 Charming Prince
-1 Prophet of Kruphix
-1 Llanowar Visionary
-1 Knight of Autumn
-1 Sporeweb Weaver
-1 Chord of Calling
-1 Voice of Resurgence
-1 Fairgrounds Warden
-1 Radiant Fountain
-2 Chord of Calling
-2 Llanowar Visionary
-2 Prophet of Kruphix
-2 Radiant Fountain
-2 Voice of Resurgence
-3 Voice of Resurgence
-3 Prophet of Kruphix
 1 Blisterpod
 1 Llanowar Wastes
 2 Blisterpod
@@ -213,46 +241,38 @@
 3 Blisterpod
 3 Llanowar Wastes
 4 Blisterpod
-1 Scattered Groves
-1 Lurrus of the Dream-Den
-1 Anafenza, Kin-Tree Spirit
-1 The Great Henge
-2 The Great Henge
-2 Anafenza, Kin-Tree Spirit
-4 Elvish Mystic
-4 Fortified Village
 1 Ashiok, Nightmare Muse
+1 Ashiok, Nightmare Weaver
+1 Thief of Sanity
 1 Fetid Pools
 1 Thought Erasure
 1 Tasigur, the Golden Fang
 1 Gifted Aetherborn
 1 Atris, Oracle of Half-Truths
 1 Aether Hub
-1 Thief of Sanity
-1 Ashiok, Nightmare Weaver
 2 Gifted Aetherborn
 2 Fetid Pools
+2 Ashiok, Nightmare Weaver
+2 Thief of Sanity
 2 Atris, Oracle of Half-Truths
 2 Thought Erasure
 2 Tasigur, the Golden Fang
-2 Ashiok, Nightmare Weaver
 2 Aether Hub
-2 Thief of Sanity
 3 Fetid Pools
 3 Thief of Sanity
 3 Aether Hub
 3 Castle Locthwain
-4 Aether Hub
-4 Thief of Sanity
 4 Fetid Pools
+4 Thief of Sanity
+4 Aether Hub
 1 Cast Out
 1 Setessan Champion
 1 Banishing Light
+1 Alseid of Life's Bounty
 1 Starfield Mystic
 1 Eidolon of Blossoms
 1 Sigil of the Empty Throne
 1 Sphere of Safety
-1 Alseid of Life's Bounty
 1 Temple of Plenty
 1 Calix, Destiny's Hand
 1 Herald of the Pantheon
@@ -260,31 +280,31 @@
 2 Setessan Champion
 2 Banishing Light
 2 Field of Ruin
+2 Alseid of Life's Bounty
 2 Starfield Mystic
 2 Sigil of the Empty Throne
 2 Herald of the Pantheon
-2 Alseid of Life's Bounty
 2 Eidolon of Blossoms
 2 Calix, Destiny's Hand
 2 Temple of Plenty
 3 Cast Out
 3 Setessan Champion
 3 Banishing Light
+3 Alseid of Life's Bounty
 3 Starfield Mystic
 3 Eidolon of Blossoms
 3 Temple of Plenty
 3 Herald of the Pantheon
-3 Alseid of Life's Bounty
 3 Calix, Destiny's Hand
 4 Setessan Champion
 4 Cast Out
+4 Alseid of Life's Bounty
 4 Banishing Light
 4 Temple of Plenty
 4 Eidolon of Blossoms
 4 Herald of the Pantheon
 4 Starfield Mystic
 4 Courser of Kruphix
-4 Alseid of Life's Bounty
 1 Shanna, Sisay's Legacy
 2 Shanna, Sisay's Legacy
 4 Rogue Refiner
@@ -304,66 +324,35 @@
 4 Mire Triton
 4 Bloodsoaked Champion
 1 Liliana, the Last Hope
-1 Ritual of Soot
-1 Elspeth's Nightmare
 1 Ox of Agonas
 1 Kolaghan's Command
+1 Elspeth's Nightmare
+1 Ritual of Soot
 1 Anger of the Gods
-2 Elspeth's Nightmare
 2 Ox of Agonas
+2 Elspeth's Nightmare
 2 Kolaghan's Command
 3 Collective Brutality
 3 Ox of Agonas
 4 Kroxa, Titan of Death's Hunger
 4 Bonecrusher Giant
-1 Crash Through
-1 Canyon Slough
-1 Abbot of Keral Keep
-2 Abbot of Keral Keep
-4 Wild Slash
-4 Claim / Fame
-3 Stonecoil Serpent
-4 Stonecoil Serpent
-1 Bomat Courier
-2 Bomat Courier
-3 Bomat Courier
-4 Bomat Courier
-1 Spirebluff Canal
-1 Toolcraft Exemplar
-1 Ensoul Artifact
-1 Spire of Industry
-1 Darksteel Citadel
-1 Gingerbrute
-1 Ghostfire Blade
-1 Hope of Ghirapur
-1 All That Glitters
-1 Stubborn Denial
-2 Stubborn Denial
-2 Hope of Ghirapur
-2 All That Glitters
-2 Spire of Industry
-2 Darksteel Citadel
-2 Gingerbrute
-2 Ensoul Artifact
-2 Toolcraft Exemplar
-2 Ghostfire Blade
-3 Stubborn Denial
-3 Hallowed Fountain
-3 Spire of Industry
-3 Darksteel Citadel
-3 Toolcraft Exemplar
-3 Gingerbrute
-3 Ensoul Artifact
-3 Ghostfire Blade
-3 All That Glitters
-4 Hallowed Fountain
-4 Darksteel Citadel
-4 Gingerbrute
-4 Ghostfire Blade
-4 Ensoul Artifact
-4 Spire of Industry
-4 Toolcraft Exemplar
-4 All That Glitters
+1 Selfless Spirit
+1 Anafenza, Kin-Tree Spirit
+1 The Great Henge
+1 Heliod, Sun-Crowned
+1 Militia Bugler
+2 Militia Bugler
+2 The Great Henge
+2 Anafenza, Kin-Tree Spirit
+2 Heliod, Sun-Crowned
+3 Fortified Village
+3 Militia Bugler
+3 Heliod, Sun-Crowned
+4 Militia Bugler
+4 Elvish Mystic
+4 Heliod, Sun-Crowned
+4 Fortified Village
+4 Llanowar Elves
 1 Mantis Rider
 1 Kitesail Freebooter
 1 Inspiring Vantage
@@ -381,9 +370,9 @@
 4 Inspiring Vantage
 4 Mantis Rider
 1 Scrapheap Scrounger
+1 Merfolk Secretkeeper
 1 Brokkos, Apex of Forever
 1 Breaking / Entering
-1 Merfolk Secretkeeper
 1 Silversmote Ghoul
 1 Satyr Wayfinder
 1 Grisly Salvage
@@ -392,9 +381,9 @@
 1 Uro, Titan of Nature's Wrath
 1 Prized Amalgam
 1 Creeping Chill
+2 Merfolk Secretkeeper
 2 Botanical Sanctum
 2 Breaking / Entering
-2 Merfolk Secretkeeper
 2 Prized Amalgam
 2 Satyr Wayfinder
 2 Creeping Chill
@@ -404,8 +393,8 @@
 2 Grisly Salvage
 2 Uro, Titan of Nature's Wrath
 3 Haunted Dead
-3 Grisly Salvage
 3 Merfolk Secretkeeper
+3 Grisly Salvage
 3 Silversmote Ghoul
 3 Uro, Titan of Nature's Wrath
 3 Prized Amalgam
@@ -442,6 +431,43 @@
 4 Thieves' Guild Enforcer
 4 Murderous Rider
 6 Swamp
+1 Fleecemane Lion
+1 Bronzehide Lion
+1 Kaheera, the Orphanguard
+1 Pride Sovereign
+1 Feline Sovereign
+1 Ajani, Adversary of Tyrants
+1 Sacred Cat
+1 Regal Caracal
+1 Brimaz, King of Oreskos
+1 Adorned Pouncer
+1 Leonin Vanguard
+1 Ajani Steadfast
+1 Animal Sanctuary
+2 Scattered Groves
+2 Fleecemane Lion
+2 Bronzehide Lion
+2 Sacred Cat
+2 Kaheera, the Orphanguard
+2 Animal Sanctuary
+2 Brimaz, King of Oreskos
+2 Adorned Pouncer
+2 Feline Sovereign
+2 Regal Caracal
+2 Pride Sovereign
+2 Ajani, Adversary of Tyrants
+2 Leonin Vanguard
+3 Feline Sovereign
+3 Pride Sovereign
+3 Leonin Vanguard
+3 Sacred Cat
+3 Regal Caracal
+4 Regal Caracal
+4 Sacred Cat
+4 Pride Sovereign
+4 Feline Sovereign
+6 Plains
+7 Plains
 1 Pelt Collector
 1 Voracious Hydra
 1 Nissa, Voice of Zendikar
@@ -463,6 +489,8 @@
 3 Voracious Hydra
 3 Rishkar, Peema Renegade
 4 Hardened Scales
+6 Forest
+7 Forest
 8 Forest
 9 Forest
 1 Hazoret the Fervent

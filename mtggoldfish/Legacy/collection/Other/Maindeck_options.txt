@@ -132,13 +132,13 @@
 2 Surgical Extraction
 2 Hymn to Tourach
 9 Swamp
+1 Smallpox
 1 Liliana, the Last Hope
 1 Liliana of the Veil
-1 Smallpox
-2 Liliana of the Veil
 2 Smallpox
-3 Liliana of the Veil
+2 Liliana of the Veil
 3 Smallpox
+3 Liliana of the Veil
 4 Smallpox
 4 Karn, the Great Creator
 1 Chalice of the Void
@@ -239,16 +239,16 @@
 3 Dread Wanderer
 3 Mutavault
 4 Hymn to Tourach
+4 Mutavault
 4 Liliana of the Veil
 4 Gravecrawler
-4 Mutavault
 4 Dread Wanderer
 1 Ensnaring Bridge
 1 Murderous Rider
 1 Castle Locthwain
+1 Bloodghast
 1 Mishra's Factory
 1 Liliana's Triumph
-1 Bloodghast
 1 Field of Ruin
 1 Spinning Darkness
 1 Lingering Souls
@@ -257,8 +257,8 @@
 2 Mishra's Factory
 2 Murderous Rider
 2 Castle Locthwain
-2 Liliana's Triumph
 2 Bloodghast
+2 Liliana's Triumph
 2 Liliana, the Last Hope
 2 Lingering Souls
 2 Sinkhole
@@ -326,8 +326,8 @@
 3 Pyroblast
 3 Grindstone
 3 Goblin Welder
-4 Imperial Recruiter
 4 Goblin Welder
+4 Imperial Recruiter
 4 Pyroblast
 4 Painter's Servant
 1 Intuition
@@ -378,9 +378,9 @@
 4 Eldritch Evolution
 4 Tropical Island
 4 Chancellor of the Tangle
+4 Allosaurus Shepherd
 4 Elvish Spirit Guide
 4 Neoform
-4 Allosaurus Shepherd
 4 Summoner's Pact
 4 Nourishing Shoal
 4 Allosaurus Rider
@@ -503,8 +503,8 @@
 2 Leonin Arbiter
 2 Eldrazi Temple
 3 Eldrazi Displacer
-3 Wasteland Strangler
 3 Ghost Quarter
+3 Wasteland Strangler
 3 Scrubland
 3 Mesmeric Fiend
 3 Eldrazi Temple
@@ -558,12 +558,12 @@
 4 Arclight Phoenix
 1 Sword of Fire and Ice
 1 Umezawa's Jitte
+1 Mirran Crusader
 1 Sword of War and Peace
 1 Batterskull
 1 Orzhov Pontiff
 1 Mana Tithe
 1 Phyrexian Revoker
-1 Mirran Crusader
 1 Stoneforge Mystic
 1 Sanctum Prelate
 2 Snow-Covered Plains
@@ -577,15 +577,15 @@
 5 Snow-Covered Plains
 1 Lukka, Coppercoat Outcast
 1 Blood Sun
-1 Magus of the Moon
 1 Trinisphere
+1 Magus of the Moon
 1 Blood Moon
 1 Worldspine Wurm
 2 Seasoned Pyromancer
 2 Blood Sun
 2 Lukka, Coppercoat Outcast
-2 Blood Moon
 2 Trinisphere
+2 Blood Moon
 2 Magus of the Moon
 2 Simian Spirit Guide
 3 Magus of the Moon
@@ -662,5 +662,5 @@
 4 Cavern of Souls
 5 Plains
 6 Plains
-8 Plains
 7 Plains
+8 Plains
