@@ -9,8 +9,8 @@
 4 Scoured Barrens
 9 Swamp
 1 Griffin Aerie
-1 Light of Hope
 1 Basilica Bell-Haunt
+1 Light of Hope
 1 Revitalize
 1 Silversmote Ghoul
 1 Indulging Patrician
@@ -63,9 +63,9 @@
 2 General's Enforcer
 2 Dire Tactics
 2 General Kudro of Drannith
+3 Dire Tactics
 3 General Kudro of Drannith
 3 General's Enforcer
-3 Dire Tactics
 4 General's Enforcer
 1 Heartless Act
 1 Consecrate / Consume
@@ -76,12 +76,12 @@
 3 Orzhov Guildgate
 4 Orzhov Guildgate
 1 Lavabrink Venturer
-1 Kitesail Freebooter
 1 Rankle, Master of Pranks
+1 Kitesail Freebooter
 2 Elspeth, Sun's Nemesis
 2 Lavabrink Venturer
-2 Kitesail Freebooter
 2 Rankle, Master of Pranks
+2 Kitesail Freebooter
 3 Rankle, Master of Pranks
 3 Lavabrink Venturer
 3 Kitesail Freebooter
@@ -91,22 +91,22 @@
 4 Lavabrink Venturer
 1 Alseid of Life's Bounty
 1 Dead Weight
-1 Memory Leak
-1 Hateful Eidolon
 1 Archfiend's Vessel
+1 Hateful Eidolon
 1 Kaya's Ghostform
 1 Shadowspear
 1 Mire's Grasp
 1 Murder
 1 Lampad of Death's Vigil
 1 Omen of the Dead
+1 Memory Leak
 2 Alseid of Life's Bounty
-2 Memory Leak
-2 Hateful Eidolon
 2 Mire's Grasp
 2 Archfiend's Vessel
+2 Hateful Eidolon
 2 Murder
 2 Kaya's Ghostform
+2 Memory Leak
 2 Lampad of Death's Vigil
 3 Mire's Grasp
 3 Archfiend's Vessel
@@ -116,56 +116,56 @@
 4 Archfiend's Vessel
 4 Alseid of Life's Bounty
 4 Kaya's Ghostform
-1 Basri Ket
+1 Venerable Knight
 1 Icon of Ancestry
+1 Basri Ket
+1 Tithe Taker
 1 Disfigure
 1 Haazda Marshal
-1 Tithe Taker
 1 Castle Ardenvale
 1 Adherent of Hope
 1 Giant Killer
-1 Venerable Knight
+2 Venerable Knight
 2 Castle Ardenvale
 2 Basri Ket
 2 Tithe Taker
 2 Disfigure
-2 Venerable Knight
 2 Icon of Ancestry
 2 Haazda Marshal
 2 Adherent of Hope
+3 Venerable Knight
 3 Basri Ket
 3 Tithe Taker
 3 Disfigure
-3 Venerable Knight
 3 Icon of Ancestry
 3 Adherent of Hope
 3 Haazda Marshal
-4 Tithe Taker
-4 Dire Tactics
 4 Venerable Knight
+4 Dire Tactics
+4 Tithe Taker
 4 Haazda Marshal
 1 Gutterbones
-1 Murderous Rider
-1 Spawn of Mayhem
+1 Hunted Nightmare
 1 Rotting Regisaur
 1 Blacklance Paragon
 1 Grasp of Darkness
-1 Hunted Nightmare
+1 Spawn of Mayhem
+1 Murderous Rider
 2 Gutterbones
-2 Murderous Rider
-2 Spawn of Mayhem
-2 Blacklance Paragon
-2 Rotting Regisaur
 2 Hunted Nightmare
+2 Rotting Regisaur
+2 Blacklance Paragon
+2 Spawn of Mayhem
+2 Murderous Rider
+3 Blacklance Paragon
 3 Gutterbones
 3 Rotting Regisaur
-3 Blacklance Paragon
 3 Spawn of Mayhem
-4 Eliminate
-4 Gutterbones
-4 Rotting Regisaur
 4 Spawn of Mayhem
 4 Blacklance Paragon
+4 Gutterbones
+4 Rotting Regisaur
+4 Eliminate
 10 Swamp
 1 Gideon Blackblade
 1 Duress

@@ -1,27 +1,20 @@
 1 Castle Vantress
 2 Snow-Covered Island
 1 Flooded Strand
-1 Snow-Covered Mountain
 2 Ketria Triome
-1 Jace, the Mind Sculptor
+1 Snow-Covered Mountain
 1 Shark Typhoon
-2 Field of Ruin
+1 Jace, the Mind Sculptor
+1 Polluted Delta
 1 Thought Scour
 2 Thought Scour
-1 Polluted Delta
 3 Mystic Sanctuary
+2 Field of Ruin
+1 Magmatic Sinkhole
+2 Flooded Strand
 3 Snow-Covered Island
 4 Snow-Covered Island
 2 Archmage's Charm
-1 Magmatic Sinkhole
-2 Flooded Strand
-1 Ice-Fang Coatl
-2 Ice-Fang Coatl
-3 Ice-Fang Coatl
-1 Mana Leak
-2 Jace, the Mind Sculptor
-2 Mana Leak
-3 Wrenn and Six
 1 Primeval Titan
 2 Magmatic Sinkhole
 2 Wooded Foothills
@@ -29,25 +22,26 @@
 3 Wooded Foothills
 4 Wooded Foothills
 3 Flooded Strand
-1 Brazen Borrower
-2 Brazen Borrower
-3 Thought Scour
+2 Snapcaster Mage
+2 Jace, the Mind Sculptor
+1 Expansion / Explosion
 4 Cryptic Command
 4 Uro, Titan of Nature's Wrath
-1 Arcum's Astrolabe
-2 Arcum's Astrolabe
-3 Arcum's Astrolabe
-4 Arcum's Astrolabe
-4 Ice-Fang Coatl
-1 Expansion / Explosion
-2 Snapcaster Mage
+1 Ice-Fang Coatl
+1 Brazen Borrower
+2 Ice-Fang Coatl
+2 Brazen Borrower
+3 Ice-Fang Coatl
+3 Thought Scour
+1 Mana Leak
 2 Snow-Covered Forest
-5 Snow-Covered Island
-3 Mana Leak
+2 Mana Leak
 2 Shark Typhoon
+5 Snow-Covered Island
+3 Wrenn and Six
 1 Spell Snare
 2 Primeval Titan
-1 Ghost Quarter
+2 Polluted Delta
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
 1 Explore
@@ -56,21 +50,6 @@
 1 Oboro, Palace in the Clouds
 1 Hour of Promise
 1 Engineered Explosives
-2 Forest
-1 Lonely Sandbar
-1 Narset, Parter of Veils
-1 Sweltering Suns
-1 Ashiok, Dream Render
-2 Sweltering Suns
-1 Search for Azcanta
-1 Obliterate
-1 Klothys, God of Destiny
-1 Skred
-2 Snow-Covered Mountain
-2 Obliterate
-2 Steam Vents
-2 Skred
-3 Chandra, Torch of Defiance
 1 Zagoth Triome
 1 Irrigated Farmland
 1 Prismatic Vista
@@ -81,18 +60,74 @@
 2 Spell Snare
 2 Expansion / Explosion
 3 Field of the Dead
+1 Search for Azcanta
+1 Obliterate
+1 Klothys, God of Destiny
+1 Skred
+2 Snow-Covered Mountain
+2 Obliterate
+2 Steam Vents
+2 Skred
+3 Chandra, Torch of Defiance
+3 Mana Leak
 3 Jace, the Mind Sculptor
 3 Brazen Borrower
 3 Field of Ruin
 4 Flooded Strand
+2 Forest
+1 Snow-Covered Swamp
+1 Sunken Ruins
+1 Geier Reach Sanitarium
+1 Drown in the Loch
+1 Watery Grave
+1 River of Tears
+1 Narset, Parter of Veils
+1 Serum Visions
+1 Cling to Dust
+1 Ashiok, Nightmare Muse
+1 Fatal Push
+1 Thoughtseize
+1 Marsh Flats
+1 Darkslick Shores
+1 Damnation
+1 Creeping Tar Pit
+1 Inquisition of Kozilek
+1 Liliana of the Veil
+2 Geier Reach Sanitarium
+2 Watery Grave
+2 Drown in the Loch
+2 Snow-Covered Swamp
+2 Serum Visions
+2 Narset, Parter of Veils
+2 Darkslick Shores
+2 Damnation
+2 Creeping Tar Pit
+2 Inquisition of Kozilek
+2 Fatal Push
+2 Liliana of the Veil
+3 Creeping Tar Pit
+3 Watery Grave
+3 Serum Visions
+3 Narset, Parter of Veils
+3 Polluted Delta
+3 Liliana of the Veil
+3 Snapcaster Mage
+3 Fatal Push
+3 Inquisition of Kozilek
+4 Serum Visions
+4 Snapcaster Mage
+4 Narset, Parter of Veils
+4 Polluted Delta
+4 Fatal Push
+4 Inquisition of Kozilek
 1 Sire of Insanity
 1 Inferno Titan
+1 Radiant Fountain
 1 Gemstone Caverns
 1 Mosswort Bridge
-1 Radiant Fountain
-1 Snow-Covered Swamp
 1 Kogla, the Titan Ape
 1 Wurmcoil Engine
+1 Ghost Quarter
 1 Solemn Simulacrum
 1 Chalice of the Void
 1 Overgrown Tomb
@@ -100,8 +135,8 @@
 1 Castle Garenbrig
 1 Cavern of Souls
 1 Verdant Catacombs
-1 Sakura-Tribe Elder
 1 Farseek
+1 Sakura-Tribe Elder
 2 Verdant Catacombs
 2 Inferno Titan
 2 Solemn Simulacrum
@@ -123,13 +158,17 @@
 3 Castle Garenbrig
 4 Explore
 4 Solemn Simulacrum
-4 Castle Garenbrig
 4 Farseek
 4 Gemstone Caverns
+4 Castle Garenbrig
 4 Primeval Titan
 4 Sakura-Tribe Elder
-2 Polluted Delta
+1 Arcum's Astrolabe
+2 Arcum's Astrolabe
+3 Arcum's Astrolabe
+4 Arcum's Astrolabe
 4 Thought Scour
+4 Ice-Fang Coatl
 6 Snow-Covered Island
 1 Frantic Inventory
 1 Lumbering Falls
@@ -143,9 +182,9 @@
 3 Archmage's Charm
 4 Shark Typhoon
 4 Frantic Inventory
-4 Mystic Sanctuary
 4 Archmage's Charm
+4 Mystic Sanctuary
 4 Opt
-4 Wilderness Reclamation
 4 Island
+4 Wilderness Reclamation
 5 Island

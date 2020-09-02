@@ -26,8 +26,8 @@
 1 Blitz of the Thunder-Raptor
 2 Swiftwater Cliffs
 3 Swiftwater Cliffs
-1 Thrill of Possibility
 1 Scorching Dragonfire
+1 Thrill of Possibility
 2 Scorching Dragonfire
 2 Thrill of Possibility
 9 Island
@@ -35,8 +35,6 @@
 1 Mistral Singer
 1 Ketria Triome
 1 See the Truth
-1 Starlit Mantle
-2 Starlit Mantle
 2 Unsubstantiate
 2 Bonecrusher Giant
 1 Soul Sear
@@ -46,15 +44,8 @@
 2 Soul Sear
 1 Miscast
 2 Miscast
-1 Crackling Drake
-1 Beacon Bolt
-2 Pteramander
-2 Crackling Drake
-3 Scorching Dragonfire
-3 Thrill of Possibility
-3 Pteramander
-4 Pteramander
-4 Thrill of Possibility
+1 Starlit Mantle
+2 Starlit Mantle
 1 Sea-Dasher Octopus
 1 Lofty Denial
 1 Embercleave
@@ -62,12 +53,33 @@
 2 Sea-Dasher Octopus
 2 Lofty Denial
 2 Ionize
-3 Sea-Dasher Octopus
 3 Lofty Denial
+3 Sea-Dasher Octopus
 3 Spectral Sailor
+4 Sea-Dasher Octopus
 4 Lofty Denial
 4 Spectral Sailor
-4 Sea-Dasher Octopus
+1 Crackling Drake
+1 Beacon Bolt
+2 Pteramander
+2 Crackling Drake
+3 Scorching Dragonfire
+3 Thrill of Possibility
+3 Pteramander
+4 Thrill of Possibility
+4 Pteramander
+1 Satyr's Cunning
+1 Heartfire Immolator
+1 Winged Words
+1 Mizzium Tank
+1 Burning Prophet
+1 Wee Dragonauts
+2 Heartfire Immolator
+2 Winged Words
+3 Heartfire Immolator
+4 Swiftwater Cliffs
+4 Heartfire Immolator
+9 Mountain
 1 Infuriate
 2 Infuriate
 3 Infuriate
@@ -75,15 +87,3 @@
 10 Island
 11 Island
 12 Island
-1 Satyr's Cunning
-1 Winged Words
-1 Heartfire Immolator
-1 Mizzium Tank
-1 Burning Prophet
-1 Wee Dragonauts
-2 Winged Words
-2 Heartfire Immolator
-3 Heartfire Immolator
-4 Swiftwater Cliffs
-4 Heartfire Immolator
-9 Mountain

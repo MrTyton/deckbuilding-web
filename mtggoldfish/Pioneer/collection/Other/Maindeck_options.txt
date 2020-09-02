@@ -73,8 +73,8 @@
 2 Gryff's Boon
 2 Cartouche of Solidarity
 2 Ethereal Armor
-3 Gryff's Boon
 3 Cartouche of Solidarity
+3 Gryff's Boon
 3 Ethereal Armor
 4 Gryff's Boon
 4 Cartouche of Solidarity
@@ -148,16 +148,16 @@
 1 Mazemind Tome
 1 Goblin Rabblemaster
 1 Savai Triome
+2 Mazemind Tome
 2 Sorin, Vengeful Bloodlord
 2 Kambal, Consul of Allocation
-2 Mazemind Tome
 2 Goblin Rabblemaster
 2 Glorybringer
 2 Obzedat, Ghost Council
 2 Savai Triome
 3 Goblin Rabblemaster
-3 Kroxa, Titan of Death's Hunger
 3 Sorin, Vengeful Bloodlord
+3 Kroxa, Titan of Death's Hunger
 3 Savai Triome
 3 Glorybringer
 4 Goblin Rabblemaster
@@ -165,14 +165,14 @@
 4 Savai Triome
 4 Clifftop Retreat
 1 Canyon Slough
-1 Sweltering Suns
 1 Search for Azcanta
+1 Sweltering Suns
 1 Jace, Architect of Thought
 1 Omen of the Sea
 1 Aetherling
 1 Oath of Chandra
-2 Sweltering Suns
 2 Search for Azcanta
+2 Sweltering Suns
 2 Oath of Chandra
 2 Drowned Catacomb
 2 Omen of the Sea
@@ -281,12 +281,12 @@
 7 Plains
 8 Plains
 1 Ashiok, Nightmare Muse
-1 Castle Vantress
 1 Interplanar Beacon
 1 Temple of Deceit
 1 Grim Tutor
 1 Kasmina, Enigmatic Mentor
 1 The Scarab God
+1 Castle Vantress
 1 Anger of the Gods
 1 Mastermind's Acquisition
 1 Angrath, the Flame-Chained
@@ -304,13 +304,14 @@
 1 Eliminate
 1 Basilica Bell-Haunt
 1 Settle the Wreckage
+1 Knight of the White Orchid
 1 Dawn of Hope
 1 Thalia, Heretic Cathar
 1 Isolated Chapel
 1 History of Benalia
 1 The Immortal Sun
-1 Knight of the White Orchid
 2 Eliminate
+2 Knight of the White Orchid
 2 Basilica Bell-Haunt
 2 Settle the Wreckage
 2 Dawn of Hope
@@ -318,11 +319,10 @@
 2 The Immortal Sun
 2 History of Benalia
 2 Thalia, Heretic Cathar
-2 Knight of the White Orchid
 3 Basilica Bell-Haunt
 3 Shambling Vent
-3 Eliminate
 3 History of Benalia
+3 Eliminate
 1 Bedlam Reveler
 1 Reckless Rage
 1 Warlord's Fury
@@ -337,28 +337,28 @@
 3 Slip Through Space
 3 Dreadhorde Arcanist
 1 Zagoth Triome
+1 Ketria Triome
 1 Indatha Triome
 1 Niv-Mizzet Reborn
+1 Abrupt Decay
 1 Radha, Heart of Keld
 1 Siege Rhino
-1 Abrupt Decay
 1 Chevill, Bane of Monsters
 1 Arlinn Kord
 1 Cut/Ribbons
-1 Ketria Triome
 1 Klothys, God of Destiny
 1 Warleader's Helix
+2 Siege Rhino
 2 Indatha Triome
 2 Niv-Mizzet Reborn
 2 Dromoka's Command
 2 Arlinn Kord
-2 Siege Rhino
 2 Warleader's Helix
 2 Cut/Ribbons
 2 Abrupt Decay
+3 Siege Rhino
 3 Niv-Mizzet Reborn
 3 Indatha Triome
-3 Siege Rhino
 4 Niv-Mizzet Reborn
 1 Izzet Charm
 2 Izzet Charm
@@ -412,18 +412,18 @@
 4 Goblin Instigator
 4 Venerated Loxodon
 4 Raise the Alarm
-1 Unflinching Courage
-1 Scattered Groves
-1 Bassara Tower Archer
 1 Sentinel's Mark
+1 Scattered Groves
+1 Unflinching Courage
+1 Bassara Tower Archer
 1 Fleecemane Lion
+2 Sentinel's Mark
 2 Sunpetal Grove
-2 Unflinching Courage
 2 Fleecemane Lion
 2 Adanto Vanguard
 2 Scattered Groves
 2 Bassara Tower Archer
-2 Sentinel's Mark
+2 Unflinching Courage
 3 Sunpetal Grove
 3 Fleecemane Lion
 3 Unflinching Courage
@@ -735,19 +735,19 @@
 4 Growth Spiral
 1 Nykthos, Shrine to Nyx
 1 Yarok's Fenlurker
-1 Tymaret, Chosen from Death
 1 Cling to Dust
-1 Gray Merchant of Asphodel
+1 Tymaret, Chosen from Death
 1 Urborg, Tomb of Yawgmoth
 1 Crypt Ghast
 1 The Eldest Reborn
 1 Karn, the Great Creator
+1 Gray Merchant of Asphodel
 2 Yarok's Fenlurker
 2 Nykthos, Shrine to Nyx
-2 Gray Merchant of Asphodel
 2 Crypt Ghast
 2 Karn, the Great Creator
 2 Urborg, Tomb of Yawgmoth
+2 Gray Merchant of Asphodel
 3 Yarok's Fenlurker
 3 Nykthos, Shrine to Nyx
 3 Liliana, the Last Hope

@@ -1,12 +1,20 @@
-1 Snow-Covered Forest
 2 Snow-Covered Forest
+3 Snow-Covered Forest
+4 Nurturing Peatland
 1 Elvish Champion
 2 Elvish Champion
 1 Winding Way
 2 Winding Way
 3 Winding Way
 4 Winding Way
-3 Snow-Covered Forest
+1 Elves of Deep Shadow
+2 Elves of Deep Shadow
+1 Devoted Druid
+2 Devoted Druid
+3 Devoted Druid
+4 Devoted Druid
+4 Snow-Covered Forest
+5 Snow-Covered Forest
 1 Imperious Perfect
 2 Imperious Perfect
 3 Elvish Champion
@@ -15,16 +23,12 @@
 4 Forest
 4 Imperious Perfect
 1 Leyline of Abundance
-1 Devoted Druid
 2 Leyline of Abundance
-2 Devoted Druid
-3 Devoted Druid
 3 Leyline of Abundance
-4 Devoted Druid
-1 Elves of Deep Shadow
-2 Elves of Deep Shadow
-4 Snow-Covered Forest
-5 Snow-Covered Forest
+1 Wildborn Preserver
+1 Scavenging Ooze
+2 Wildborn Preserver
+2 Scavenging Ooze
 1 Temple Garden
 1 Windswept Heath
 1 Verdant Catacombs
@@ -44,10 +48,6 @@
 4 Ezuri, Renegade Leader
 1 Wooded Foothills
 1 Beast Whisperer
-1 Wildborn Preserver
-1 Scavenging Ooze
-2 Scavenging Ooze
-2 Wildborn Preserver
 1 Llanowar Wastes
 2 Llanowar Wastes
 3 Llanowar Wastes
@@ -56,8 +56,8 @@
 3 Llanowar Visionary
 4 Llanowar Visionary
 1 Misty Rainforest
-1 Overgrown Tomb
 1 Nykthos, Shrine to Nyx
+1 Overgrown Tomb
 1 Elvish Visionary
 1 Chord of Calling
 1 Stomping Ground
@@ -70,9 +70,9 @@
 1 Selfless Spirit
 1 Mirror Entity
 1 Boreal Druid
-2 Windswept Heath
 2 Boreal Druid
 2 Umbral Mantle
+2 Windswept Heath
 3 Windswept Heath
 3 Umbral Mantle
 4 Umbral Mantle
@@ -88,6 +88,12 @@
 4 Wooded Foothills
 4 Leyline of Abundance
 4 Joraga Treespeaker
+1 Gilt-Leaf Archdruid
+2 Gilt-Leaf Archdruid
+3 Gilt-Leaf Archdruid
+3 Elves of Deep Shadow
+4 Elves of Deep Shadow
+4 Gilt-Leaf Archdruid
 1 Lead the Stampede
 1 Arbor Elf
 2 Lead the Stampede
