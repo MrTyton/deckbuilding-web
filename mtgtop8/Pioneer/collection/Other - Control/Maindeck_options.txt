@@ -116,13 +116,13 @@
 5 Plains
 6 Plains
 1 Dragonskull Summit
-1 Kroxa, Titan of Death's Hunger
 1 Blood Crypt
+1 Kroxa, Titan of Death's Hunger
 1 Murderous Rider
 1 Mountain
 2 Dragonskull Summit
-2 Kroxa, Titan of Death's Hunger
 2 Blood Crypt
+2 Kroxa, Titan of Death's Hunger
 2 Murderous Rider
 3 Dragonskull Summit
 3 Kroxa, Titan of Death's Hunger
@@ -159,15 +159,15 @@
 1 Collective Brutality
 2 Liliana, Waker of the Dead
 2 Davriel, Rogue Shadowmage
-2 Kolaghan's Command
 2 Hazoret the Fervent
+2 Kolaghan's Command
 2 Mountain
 2 Field of Ruin
 2 Collective Brutality
 2 Waste Not
 3 Kolaghan's Command
-3 Eliminate
 3 Castle Locthwain
+3 Eliminate
 3 Davriel, Rogue Shadowmage
 3 Liliana, Waker of the Dead
 3 Mountain
@@ -175,17 +175,17 @@
 4 Dragonskull Summit
 4 Swamp
 4 Liliana, Waker of the Dead
-4 Waste Not
 4 Castle Locthwain
+4 Waste Not
+1 Cavalier of Gales
 1 Tasigur, the Golden Fang
 1 Scavenging Ooze
 1 Thassa, Deep-Dwelling
-1 Hostage Taker
 1 Grapple with the Past
 1 Eldritch Evolution
-1 Cavalier of Gales
-1 Botanical Sanctum
 1 Elvish Rejuvenator
+1 Botanical Sanctum
+1 Hostage Taker
 1 Woodland Bellower
 1 Neoform
 1 Cavalier of Night
@@ -233,16 +233,16 @@
 1 Temple of Enlightenment
 1 Temple of Triumph
 1 Temple of Epiphany
-1 Jace, Vryn's Prodigy
+1 Izzet Charm
 1 Collective Defiance
 1 Settle the Wreckage
 1 Dream Trawler
 1 Teferi, Time Raveler
 1 Steam Vents
 1 Hallowed Fountain
+1 Jace, Vryn's Prodigy
 1 Supreme Verdict
 1 Karn, the Great Creator
-1 Izzet Charm
 1 Anger of the Gods
 1 Raugrin Triome
 2 Sulfur Falls
@@ -259,8 +259,8 @@
 2 Hallowed Fountain
 2 Izzet Charm
 2 Raugrin Triome
-3 Sulfur Falls
 3 Anger of the Gods
+3 Sulfur Falls
 3 Collective Defiance
 3 Commit / Memory
 3 Izzet Charm

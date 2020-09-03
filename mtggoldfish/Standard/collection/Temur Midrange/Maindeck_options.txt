@@ -2,37 +2,37 @@
 3 Mountain
 1 Castle Vantress
 1 Hydroid Krasis
+2 Hydroid Krasis
 1 Terror of the Peaks
 1 Temple of Mystery
-2 Hydroid Krasis
+1 Nissa, Who Shakes the World
 2 Forest
 1 Ral, Izzet Viceroy
 1 Ionize
 2 Ionize
-1 The Royal Scions
-1 Scavenging Ooze
 1 Soul Sear
 2 Soul Sear
-1 Nissa, Who Shakes the World
+1 Scavenging Ooze
+1 The Royal Scions
+1 Neutralize
 1 Thrill of Possibility
 1 Bonecrusher Giant
-1 Llanowar Visionary
-2 Llanowar Visionary
+2 Bonecrusher Giant
 3 Fire Prophecy
 2 The Royal Scions
 4 Teferi, Master of Time
 4 Jolrael, Mwonvuli Recluse
-1 Neutralize
 2 Terror of the Peaks
 1 Whirlwind Denial
 2 Whirlwind Denial
-3 Llanowar Visionary
 4 Mountain
-2 Bonecrusher Giant
 2 Nissa, Who Shakes the World
 2 Castle Vantress
+1 Llanowar Visionary
+2 Llanowar Visionary
 1 Boon of the Wish-Giver
 2 Boon of the Wish-Giver
+3 Brazen Borrower
 4 Island
 1 Ugin, the Spirit Dragon
 2 Ugin, the Spirit Dragon
@@ -40,13 +40,13 @@
 1 Sublime Epiphany
 1 Shipwreck Dowser
 2 Sublime Epiphany
+3 Llanowar Visionary
 3 Sublime Epiphany
 3 Ionize
 1 Swiftwater Cliffs
 1 Spectral Sailor
 2 Swiftwater Cliffs
 3 Forest
-3 Brazen Borrower
 3 Whirlwind Denial
 2 Scavenging Ooze
 3 Hydroid Krasis
@@ -61,13 +61,8 @@
 3 God-Eternal Kefnet
 3 Aether Gust
 4 Boon of the Wish-Giver
-1 Lukka, Coppercoat Outcast
-2 Lukka, Coppercoat Outcast
-3 Lukka, Coppercoat Outcast
-4 Lukka, Coppercoat Outcast
-4 Llanowar Visionary
-1 Keep Safe
 1 Irencrag Pyromancer
+1 Keep Safe
 1 Lorescale Coatl
 2 Thrill of Possibility
 2 Irencrag Pyromancer
@@ -75,6 +70,17 @@
 2 Lorescale Coatl
 3 Thrill of Possibility
 3 Irencrag Pyromancer
+3 Lorescale Coatl
 4 Thrill of Possibility
 4 Fire Prophecy
-3 Lorescale Coatl
+1 Nightpack Ambusher
+1 Frilled Mystic
+2 Neutralize
+2 Nightpack Ambusher
+2 Frilled Mystic
+3 Neutralize
+3 Nightpack Ambusher
+3 Bonecrusher Giant
+4 Neutralize
+4 Nightpack Ambusher
+4 Bonecrusher Giant

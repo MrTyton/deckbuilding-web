@@ -1,9 +1,10 @@
-1 Tundra
-1 Barrin, Tolarian Archmage
-1 Savannah
 1 Cauldron Familiar
 1 Gilded Goose
 2 Gilded Goose
+4 Snow-Covered Island
+1 Tundra
+3 Baleful Strix
+1 Savannah
 1 Teferi, Time Raveler
 1 Snow-Covered Plains
 1 Karakas
@@ -18,7 +19,6 @@
 4 Prismatic Vista
 3 Polluted Delta
 3 Verdant Catacombs
-3 Baleful Strix
 4 Baleful Strix
 1 Shardless Agent
 1 Island
@@ -29,10 +29,10 @@
 1 Veteran Explorer
 1 Mirri's Guile
 1 Forest
-2 Cabal Therapy
 2 Veteran Explorer
 2 Forest
 2 Island
+2 Cabal Therapy
 3 Cabal Therapy
 4 Verdant Catacombs
 4 Cabal Therapy
@@ -41,11 +41,14 @@
 2 Spell Pierce
 3 Swords to Plowshares
 1 Force of Negation
+2 Tropical Island
 4 Abrupt Decay
 2 Leovold, Emissary of Trest
 1 Dryad Arbor
 1 Green Sun's Zenith
 2 Green Sun's Zenith
+3 Gilded Goose
+3 Snow-Covered Forest
 1 Vraska, Golgari Queen
 1 Noble Hierarch
 1 Windswept Heath
@@ -55,13 +58,10 @@
 4 Noble Hierarch
 5 Snow-Covered Island
 1 Flooded Strand
-2 Tropical Island
 1 Sylvan Library
 2 Sylvan Library
 3 Green Sun's Zenith
-3 Gilded Goose
 1 Brazen Borrower
-3 Snow-Covered Forest
 1 Palace Jailer
 1 Flusterstorm
 2 Flusterstorm
@@ -80,3 +80,5 @@
 2 Echoing Decay
 3 Echoing Decay
 4 Polluted Delta
+2 Underground Sea
+4 Snow-Covered Forest

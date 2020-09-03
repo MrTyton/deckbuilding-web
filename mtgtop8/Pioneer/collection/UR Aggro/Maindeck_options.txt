@@ -15,12 +15,12 @@
 1 Mountain
 4 Wild Slash
 1 Crash Through
-1 Sprite Dragon
 1 Opt
 1 Soul-Scar Mage
+1 Sprite Dragon
 1 Monastery Swiftspear
-2 Sprite Dragon
 2 Monastery Swiftspear
+2 Sprite Dragon
 2 Soul-Scar Mage
 2 Crash Through
 2 Opt
@@ -75,8 +75,8 @@
 3 Slip Through Space
 2 The Royal Scions
 2 Sulfur Falls
-3 Lightning Strike
 3 The Royal Scions
+3 Lightning Strike
 3 Invigorated Rampage
 1 Springleaf Drum
 1 Dive Down
@@ -84,6 +84,24 @@
 2 Dive Down
 3 Springleaf Drum
 4 Springleaf Drum
+1 Expedite
+1 Treasure Cruise
+1 Ramunap Ruins
+1 Stormwing Entity
+2 Expedite
+2 Treasure Cruise
+2 Brazen Borrower
+2 Stormwing Entity
+2 Island
+2 Ramunap Ruins
+3 Treasure Cruise
+3 Expedite
+3 Stormwing Entity
+3 Ramunap Ruins
+4 Expedite
+4 Treasure Cruise
+4 Stormwing Entity
+4 Light Up the Stage
 1 Of One Mind
 2 Of One Mind
 2 Shock
@@ -91,24 +109,6 @@
 3 Of One Mind
 4 Shock
 4 Of One Mind
-1 Stormwing Entity
-1 Expedite
-1 Treasure Cruise
-1 Ramunap Ruins
-2 Stormwing Entity
-2 Expedite
-2 Brazen Borrower
-2 Treasure Cruise
-2 Island
-2 Ramunap Ruins
-3 Expedite
-3 Stormwing Entity
-3 Ramunap Ruins
-3 Treasure Cruise
-4 Expedite
-4 Stormwing Entity
-4 Light Up the Stage
-4 Treasure Cruise
 1 Plains
 1 Hallowed Fountain
 1 Toolcraft Exemplar

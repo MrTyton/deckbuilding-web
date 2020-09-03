@@ -18,9 +18,9 @@
 4 The Birth of Meletis
 3 Mystical Dispute
 3 Aether Gust
-1 Godless Shrine
 1 Oath of Kaya
 1 Swamp
+1 Godless Shrine
 2 Oath of Kaya
 3 Dovin's Veto
 1 Temple of Silence
@@ -42,8 +42,8 @@
 1 Brazen Borrower
 3 Swamp
 1 Kaya, Orzhov Usurper
-2 Temple of Silence
 2 Kaya, Orzhov Usurper
+2 Temple of Silence
 1 Heartless Act
 1 Eliminate
 2 Eliminate
@@ -91,8 +91,8 @@
 2 Steam Vents
 3 Sacred Foundry
 3 Steam Vents
-1 Elspeth, Sun's Nemesis
 1 Lukka, Coppercoat Outcast
+1 Elspeth, Sun's Nemesis
 2 Elspeth, Sun's Nemesis
 2 Lukka, Coppercoat Outcast
 2 Temple of Epiphany
@@ -136,16 +136,26 @@
 2 Essence Scatter
 2 Fblthp, the Lost
 3 Castle Ardenvale
-1 Interplanar Beacon
+1 Treacherous Blessing
+1 Bolas's Citadel
+1 Faith's Fetters
+2 Treacherous Blessing
+2 Charming Prince
+2 Faith's Fetters
+3 Charming Prince
+3 Heartless Act
+4 Temple of Silence
+4 Charming Prince
 1 Fae of Wishes
-1 Bonecrusher Giant
+1 Interplanar Beacon
 1 Ugin, the Spirit Dragon
+1 Bonecrusher Giant
 1 Chandra, Awakened Inferno
 1 Narset of the Ancient Way
 2 Narset of the Ancient Way
-2 Interplanar Beacon
-2 Ugin, the Spirit Dragon
 2 Fae of Wishes
+2 Ugin, the Spirit Dragon
+2 Interplanar Beacon
 2 Chandra, Awakened Inferno
 2 Bonecrusher Giant
 2 Mountain
@@ -158,24 +168,14 @@
 4 Fae of Wishes
 3 Teferi, Master of Time
 4 Teferi, Master of Time
-1 Treacherous Blessing
-1 Bolas's Citadel
-1 Faith's Fetters
-2 Treacherous Blessing
-2 Charming Prince
-2 Faith's Fetters
-3 Charming Prince
-3 Heartless Act
-4 Charming Prince
-4 Temple of Silence
 1 Zagoth Triome
 1 Overgrown Tomb
 1 Indatha Triome
-1 Extinction Event
 1 Temple Garden
 1 Hydroid Krasis
-1 Atris, Oracle of Half-Truths
+1 Extinction Event
 1 Casualties of War
+1 Atris, Oracle of Half-Truths
 1 Breeding Pool
 1 Uro, Titan of Nature's Wrath
 1 Forest
@@ -201,33 +201,33 @@
 4 Indatha Triome
 4 Zagoth Triome
 4 Uro, Titan of Nature's Wrath
-1 Deputy of Detention
-1 God-Eternal Kefnet
-1 Baneslayer Angel
-1 Thassa, Deep-Dwelling
-1 Frogify
-1 Time Wipe
-1 Pacifism
-1 Dungeon Geists
-1 Spectral Sailor
-2 Spectral Sailor
-2 Negate
-10 Plains
-11 Plains
-11 Island
-12 Island
+1 Teferi's Tutelage
 1 Ashiok, Dream Render
 1 Elspeth's Nightmare
-1 Teferi's Tutelage
+2 Teferi's Tutelage
 2 Ashiok, Dream Render
 2 Elspeth's Nightmare
-2 Teferi's Tutelage
 2 Temple of Deceit
-3 Ashiok, Dream Render
 3 Teferi's Tutelage
-3 Opt
+3 Ashiok, Dream Render
 3 Kaya, Orzhov Usurper
+3 Opt
 4 Teferi's Tutelage
 4 Opt
 5 Swamp
 6 Swamp
+1 Deputy of Detention
+1 Thassa, Deep-Dwelling
+1 Time Wipe
+1 God-Eternal Kefnet
+1 Dungeon Geists
+1 Pacifism
+1 Baneslayer Angel
+1 Spectral Sailor
+1 Frogify
+2 Spectral Sailor
+2 Negate
+10 Plains
+11 Island
+12 Island
+11 Plains
