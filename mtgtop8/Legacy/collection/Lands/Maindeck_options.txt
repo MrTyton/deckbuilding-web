@@ -1,16 +1,18 @@
-1 Tranquil Thicket
-1 Misty Rainforest
+1 Ancient Tomb
 1 Snow-Covered Forest
-1 Elvish Reclaimer
+2 Maze of Ith
+1 Tranquil Thicket
+1 Nurturing Peatland
 1 Tropical Island
 1 Waterlogged Grove
-2 Field of the Dead
+1 Uro, Titan of Nature's Wrath
+2 Uro, Titan of Nature's Wrath
 1 Cavern of Souls
 1 Primeval Titan
 2 Primeval Titan
 2 Cavern of Souls
-1 Uro, Titan of Nature's Wrath
-2 Uro, Titan of Nature's Wrath
+2 Field of the Dead
+1 Elvish Reclaimer
 3 Uro, Titan of Nature's Wrath
 1 Once Upon a Time
 2 Once Upon a Time
@@ -33,41 +35,36 @@
 3 Dryad of the Ilysian Grove
 4 Green Sun's Zenith
 4 Chalice of the Void
+4 Abrupt Decay
 4 Dryad of the Ilysian Grove
 4 Ancient Tomb
-1 Nurturing Peatland
-2 Maze of Ith
-4 Once Upon a Time
-4 Grove of the Burnwillows
-2 Wooded Foothills
-4 Abrupt Decay
-2 Forest
 2 Verdant Catacombs
+4 Once Upon a Time
 4 Rishadan Port
-1 Sheltered Thicket
+2 Wooded Foothills
+4 Grove of the Burnwillows
 1 Courser of Kruphix
+2 Forest
+2 Windswept Heath
+2 Tropical Island
+1 Sheltered Thicket
+2 Waterlogged Grove
 4 Cavern of Souls
 2 Elvish Reclaimer
 2 Snow-Covered Forest
+1 Tireless Tracker
 1 Horizon Canopy
 1 Barbarian Ring
 2 Ghost Quarter
-1 Tireless Tracker
-3 Punishing Fire
-2 Windswept Heath
-2 Tropical Island
-2 Waterlogged Grove
 1 Academy Ruins
 1 Engineered Explosives
 1 Tolaria West
 4 Uro, Titan of Nature's Wrath
 1 Manabond
+3 Punishing Fire
 3 Gamble
 4 Gamble
 1 Scavenging Ooze
-2 Ramunap Excavator
-3 Primeval Titan
-4 Primeval Titan
 2 Misty Rainforest
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
@@ -76,12 +73,14 @@
 1 Zagoth Triome
 1 Riftstone Portal
 1 Radha, Heart of Keld
-2 Tireless Tracker
 3 Sylvan Library
 1 Shifting Ceratops
 2 Shifting Ceratops
+2 Ramunap Excavator
+3 Primeval Titan
 3 Shifting Ceratops
 4 Verdant Catacombs
+4 Primeval Titan
 1 Underground Sea
 1 Sejiri Steppe
 1 Brainstorm
@@ -101,7 +100,6 @@
 4 Thoughtseize
 4 Dark Confidant
 4 Brainstorm
-1 Kozilek, Butcher of Truth
 1 Candelabra of Tawnos
 1 Elvish Rejuvenator
 1 Emrakul, the Aeons Torn
@@ -118,17 +116,18 @@
 1 Golos, Tireless Pilgrim
 1 Walking Ballista
 1 Ugin, the Ineffable
+1 Kozilek, Butcher of Truth
 1 Vesuva
-2 Ulamog, the Ceaseless Hunger
 2 Golos, Tireless Pilgrim
-2 Ugin, the Spirit Dragon
-2 Pithing Needle
+2 Ulamog, the Ceaseless Hunger
 2 Ugin, the Ineffable
-2 Candelabra of Tawnos
 2 Elvish Rejuvenator
+2 Ugin, the Spirit Dragon
 2 Vesuva
 2 Cloudpost
 2 Glimmerpost
+2 Pithing Needle
+2 Candelabra of Tawnos
 3 Pithing Needle
 3 Snow-Covered Forest
 3 Golos, Tireless Pilgrim
@@ -138,8 +137,8 @@
 3 Vesuva
 3 Glimmerpost
 3 Cloudpost
-4 Vesuva
 4 Snow-Covered Forest
+4 Vesuva
 4 Cloudpost
 4 Glimmerpost
 4 Elvish Rejuvenator

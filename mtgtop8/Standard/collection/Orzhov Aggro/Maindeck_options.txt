@@ -20,14 +20,14 @@
 2 Revitalize
 2 Silversmote Ghoul
 2 Indulging Patrician
-3 Revitalize
 3 Griffin Aerie
 3 Light of Hope
+3 Revitalize
 3 Silversmote Ghoul
 3 Indulging Patrician
-4 Revitalize
 4 Griffin Aerie
 4 Light of Hope
+4 Revitalize
 4 Indulging Patrician
 4 Silversmote Ghoul
 1 Orzhov Guildgate
@@ -50,8 +50,8 @@
 2 Knight of the Ebon Legion
 2 Demonic Embrace
 3 Seasoned Hallowblade
-3 Demonic Embrace
 3 Knight of the Ebon Legion
+3 Demonic Embrace
 3 Temple of Silence
 4 Seasoned Hallowblade
 4 Knight of the Ebon Legion
@@ -67,9 +67,9 @@
 3 General Kudro of Drannith
 3 General's Enforcer
 4 General's Enforcer
+1 Faith's Fetters
 1 Heartless Act
 1 Consecrate / Consume
-1 Faith's Fetters
 2 Heartless Act
 2 Consecrate / Consume
 3 Heartless Act
@@ -90,6 +90,7 @@
 4 Kitesail Freebooter
 4 Lavabrink Venturer
 1 Alseid of Life's Bounty
+1 Memory Leak
 1 Dead Weight
 1 Archfiend's Vessel
 1 Hateful Eidolon
@@ -99,14 +100,13 @@
 1 Murder
 1 Lampad of Death's Vigil
 1 Omen of the Dead
-1 Memory Leak
 2 Alseid of Life's Bounty
+2 Memory Leak
 2 Mire's Grasp
 2 Archfiend's Vessel
 2 Hateful Eidolon
 2 Murder
 2 Kaya's Ghostform
-2 Memory Leak
 2 Lampad of Death's Vigil
 3 Mire's Grasp
 3 Archfiend's Vessel
@@ -117,10 +117,10 @@
 4 Alseid of Life's Bounty
 4 Kaya's Ghostform
 1 Venerable Knight
+1 Disfigure
 1 Icon of Ancestry
 1 Basri Ket
 1 Tithe Taker
-1 Disfigure
 1 Haazda Marshal
 1 Castle Ardenvale
 1 Adherent of Hope
@@ -128,8 +128,8 @@
 2 Venerable Knight
 2 Castle Ardenvale
 2 Basri Ket
-2 Tithe Taker
 2 Disfigure
+2 Tithe Taker
 2 Icon of Ancestry
 2 Haazda Marshal
 2 Adherent of Hope
@@ -144,26 +144,26 @@
 4 Dire Tactics
 4 Tithe Taker
 4 Haazda Marshal
-1 Gutterbones
-1 Hunted Nightmare
-1 Rotting Regisaur
 1 Blacklance Paragon
+1 Rotting Regisaur
+1 Hunted Nightmare
 1 Grasp of Darkness
 1 Spawn of Mayhem
+1 Gutterbones
 1 Murderous Rider
-2 Gutterbones
+2 Blacklance Paragon
 2 Hunted Nightmare
 2 Rotting Regisaur
-2 Blacklance Paragon
 2 Spawn of Mayhem
 2 Murderous Rider
+2 Gutterbones
 3 Blacklance Paragon
-3 Gutterbones
 3 Rotting Regisaur
+3 Gutterbones
 3 Spawn of Mayhem
 4 Spawn of Mayhem
-4 Blacklance Paragon
 4 Gutterbones
+4 Blacklance Paragon
 4 Rotting Regisaur
 4 Eliminate
 10 Swamp

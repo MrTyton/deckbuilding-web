@@ -97,7 +97,6 @@
 3 Rest in Peace
 1 Cabal Therapy
 1 Veteran Explorer
-1 Forest
 1 Dryad Arbor
 1 Prime Speaker Vannifar
 1 Titania, Protector of Argoth
@@ -109,19 +108,20 @@
 1 Tropical Island
 1 Birthing Pod
 1 Uro, Titan of Nature's Wrath
+1 Forest
 1 Abrupt Decay
 1 Verdant Catacombs
 1 Abyssal Gatekeeper
 1 Scavenging Ooze
 1 Oko, Thief of Crowns
 2 Cabal Therapy
-2 Forest
 2 Veteran Explorer
 2 Swamp
 2 Noble Hierarch
 2 Uro, Titan of Nature's Wrath
 2 Leovold, Emissary of Trest
 2 Birthing Pod
+2 Forest
 2 Abrupt Decay
 2 Verdant Catacombs
 2 Bayou
@@ -150,6 +150,7 @@
 2 Accumulated Knowledge
 3 Accumulated Knowledge
 4 Accumulated Knowledge
+4 Terminus
 1 Pyroblast
 1 Isochron Scepter
 1 Lavinia, Azorius Renegade
@@ -162,7 +163,6 @@
 3 Narset, Parter of Veils
 3 Mystic Sanctuary
 4 Teferi, Time Raveler
-4 Terminus
 1 Marsh Flats
 1 Eliminate
 1 Gurmag Angler
@@ -177,8 +177,8 @@
 3 Eliminate
 4 Eliminate
 1 Myth Realized
-1 Hall of Heliod's Generosity
 1 Shark Typhoon
+1 Hall of Heliod's Generosity
 1 Standstill
 1 Wasteland
 2 Myth Realized

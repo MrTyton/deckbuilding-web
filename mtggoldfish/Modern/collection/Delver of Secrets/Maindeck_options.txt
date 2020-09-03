@@ -13,16 +13,16 @@
 1 Plains
 3 Path to Exile
 1 Sword of Fire and Ice
-1 Stoneforge Mystic
 1 Batterskull
 1 Mantis Rider
-2 Stoneforge Mystic
+1 Stoneforge Mystic
 2 Mantis Rider
+2 Stoneforge Mystic
 3 Stoneforge Mystic
 3 Mantis Rider
 4 Sleight of Hand
-4 Stoneforge Mystic
 4 Mantis Rider
+4 Stoneforge Mystic
 2 Drown in the Loch
 4 Force of Negation
 2 Remand
@@ -61,14 +61,14 @@
 3 Thought Scour
 4 Thought Scour
 1 Breeding Pool
-1 Tarmogoyf
-1 Stubborn Denial
 1 Forest
+1 Stubborn Denial
+1 Tarmogoyf
 2 Tarmogoyf
 2 Stubborn Denial
-3 Tarmogoyf
 3 Misty Rainforest
 3 Stubborn Denial
+3 Tarmogoyf
 4 Misty Rainforest
 4 Stubborn Denial
 4 Remand
@@ -99,11 +99,11 @@
 1 Hexdrinker
 1 Wooded Foothills
 1 Disrupting Shoal
-2 Uro, Titan of Nature's Wrath
 2 Breeding Pool
+2 Uro, Titan of Nature's Wrath
+2 Hexdrinker
 2 Forest
 2 Wooded Foothills
-2 Hexdrinker
 2 Disrupting Shoal
 3 Uro, Titan of Nature's Wrath
 3 Hexdrinker
@@ -117,12 +117,12 @@
 1 Monastery Swiftspear
 1 Rift Bolt
 1 Light Up the Stage
+2 Fiery Islet
 2 Lava Spike
-2 Mountain
 2 Monastery Swiftspear
 2 Rift Bolt
+2 Mountain
 2 Light Up the Stage
-2 Fiery Islet
 3 Lava Spike
 3 Monastery Swiftspear
 3 Light Up the Stage
@@ -130,8 +130,8 @@
 3 Rift Bolt
 3 Mountain
 3 Lava Dart
-4 Lava Spike
 4 Fiery Islet
+4 Lava Spike
 4 Lava Dart
 4 Monastery Swiftspear
 4 Rift Bolt
@@ -139,8 +139,8 @@
 4 Light Up the Stage
 1 Thieves' Guild Enforcer
 1 Thoughtseize
-1 Vantress Gargoyle
 1 Into the Story
+1 Vantress Gargoyle
 2 Thieves' Guild Enforcer
 2 Vantress Gargoyle
 3 Thieves' Guild Enforcer
@@ -168,42 +168,42 @@
 2 Vapor Snag
 1 Blackcleave Cliffs
 2 Cryptic Command
-2 Cling to Dust
 2 Unearth
+2 Cling to Dust
 1 Tarfire
 1 Flame Slash
 1 Blossoming Defense
-2 Tarfire
 2 Flame Slash
+2 Tarfire
 2 Blossoming Defense
 3 Tarfire
 1 Snow-Covered Plains
 1 Fight as One
-1 Arid Mesa
 1 Dreadhorde Arcanist
+1 Arid Mesa
 2 Dreadhorde Arcanist
-3 Dreadhorde Arcanist
 3 Seachrome Coast
-1 Bitterblossom
+3 Dreadhorde Arcanist
 1 Field of Ruin
 1 Creeping Tar Pit
+1 Bitterblossom
 2 Bitterblossom
 2 Field of Ruin
 3 Bitterblossom
 4 Bitterblossom
-1 Heartless Act
 1 Young Pyromancer
+1 Heartless Act
 2 Young Pyromancer
 3 Young Pyromancer
-4 Darkslick Shores
 4 Young Pyromancer
+4 Darkslick Shores
 1 Mutagenic Growth
 2 Mutagenic Growth
 4 Hooting Mandrills
-1 Fact or Fiction
 1 Raugrin Triome
-1 Shadow of Doubt
+1 Fact or Fiction
 1 Brineborn Cutthroat
+1 Shadow of Doubt
 2 Fact or Fiction
 2 Shadow of Doubt
 2 Brineborn Cutthroat

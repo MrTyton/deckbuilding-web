@@ -3,20 +3,20 @@
 1 Heartless Act
 2 Heartless Act
 4 Spawn of Mayhem
-1 Murderous Rider
-2 Murderous Rider
-8 Mountain
 1 Robber of the Rich
 2 Robber of the Rich
-1 Rankle, Master of Pranks
-9 Swamp
+8 Mountain
+1 Murderous Rider
+2 Murderous Rider
 4 Bonecrusher Giant
-2 Rankle, Master of Pranks
+1 Rankle, Master of Pranks
 4 Gutterbones
-3 Robber of the Rich
+9 Swamp
+2 Rankle, Master of Pranks
 9 Mountain
 1 Eliminate
 10 Swamp
+3 Robber of the Rich
 4 Robber of the Rich
 1 Dreadhorde Butcher
 2 Dreadhorde Butcher
@@ -24,18 +24,17 @@
 4 Dreadhorde Butcher
 1 Demonic Embrace
 2 Demonic Embrace
-1 Stonecoil Serpent
 1 Shadowspear
+1 Stonecoil Serpent
 2 Stonecoil Serpent
 3 Stonecoil Serpent
 4 Stonecoil Serpent
 1 Rimrock Knight
 2 Rimrock Knight
 3 Rankle, Master of Pranks
+1 Fabled Passage
 1 Light Up the Stage
 2 Light Up the Stage
-1 Fabled Passage
-2 Fabled Passage
 1 Skewer the Critics
 2 Skewer the Critics
 1 Temple of Malice
@@ -44,15 +43,6 @@
 3 Light Up the Stage
 2 Eliminate
 3 Eliminate
-1 Order of Midnight
-1 Bedevil
-1 Scorching Dragonfire
-1 Agonizing Remorse
-2 Scorching Dragonfire
-2 Order of Midnight
-2 Agonizing Remorse
-3 Murderous Rider
-3 Agonizing Remorse
 1 Midnight Reaper
 2 Midnight Reaper
 3 Skewer the Critics
@@ -60,11 +50,12 @@
 1 Grimdancer
 1 Dreadmalkin
 1 Labyrinth Raptor
-2 Grimdancer
 2 Labyrinth Raptor
 2 Dreadmalkin
+2 Grimdancer
 3 Dreadmalkin
 3 Labyrinth Raptor
+2 Fabled Passage
 3 Fabled Passage
 4 Fabled Passage
 3 Heartless Act
@@ -75,5 +66,5 @@
 2 Anax, Hardened in the Forge
 3 Liliana's Standard Bearer
 4 Liliana's Standard Bearer
-11 Swamp
 10 Mountain
+11 Swamp

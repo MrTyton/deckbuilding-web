@@ -30,9 +30,9 @@
 3 Reality Smasher
 4 Reality Smasher
 1 Sunbaked Canyon
-1 Shefet Dunes
 1 Dismember
 1 Scavenger Grounds
+1 Shefet Dunes
 1 Cast Out
 1 Winds of Abandon
 1 Chalice of the Void
@@ -41,8 +41,8 @@
 1 Eternal Scourge
 1 Simian Spirit Guide
 2 Shefet Dunes
-2 Dismember
 2 Blast Zone
+2 Dismember
 2 Rest in Peace
 2 Chalice of the Void
 2 Winds of Abandon
@@ -60,8 +60,8 @@
 4 Simian Spirit Guide
 1 Lightning Bolt
 1 Battlefield Forge
-1 Sacred Foundry
 1 Inspiring Vantage
+1 Sacred Foundry
 1 Snow-Covered Mountain
 1 Smuggler's Copter
 1 Goblin Rabblemaster
@@ -75,8 +75,8 @@
 2 Inspiring Vantage
 2 Smuggler's Copter
 2 Goblin Rabblemaster
-2 Seasoned Pyromancer
 2 Winota, Joiner of Forces
+2 Seasoned Pyromancer
 2 Angrath's Marauders
 2 Mountain
 2 Lightning Bolt
@@ -95,7 +95,6 @@
 4 Winota, Joiner of Forces
 4 Lightning Bolt
 4 Angrath's Marauders
-1 Seachrome Coast
 1 Island
 1 Restoration Angel
 1 Spell Queller
@@ -103,7 +102,7 @@
 1 Flooded Strand
 1 Hallowed Fountain
 1 Meddling Mage
-2 Seachrome Coast
+1 Seachrome Coast
 2 Island
 2 Spell Queller
 2 Restoration Angel
@@ -111,12 +110,13 @@
 2 Meddling Mage
 2 Hallowed Fountain
 2 Lurrus of the Dream-Den
+2 Seachrome Coast
 2 Flooded Strand
 3 Spell Queller
 3 Restoration Angel
-3 Seachrome Coast
 3 Meddling Mage
 3 Deputy of Detention
+3 Seachrome Coast
 4 Meddling Mage
 4 Spell Queller
 4 Deputy of Detention
@@ -158,15 +158,15 @@
 9 Plains
 10 Plains
 11 Plains
+1 Concealed Courtyard
 1 Charming Prince
 1 Tidehollow Sculler
 1 Swamp
 1 Caves of Koilos
-1 Concealed Courtyard
 1 Wasteland Strangler
+2 Concealed Courtyard
 2 Charming Prince
 2 Tidehollow Sculler
-2 Concealed Courtyard
 2 Caves of Koilos
 2 Wasteland Strangler
 3 Concealed Courtyard
