@@ -52,11 +52,11 @@
 2 Jace, Architect of Thought
 1 Narset of the Ancient Way
 1 Temple of Enlightenment
-1 Temple of Epiphany
-1 Fae of Wishes
-1 Temple of Triumph
-1 Elspeth, Sun's Champion
 1 Detention Sphere
+1 Temple of Triumph
+1 Fae of Wishes
+1 Temple of Epiphany
+1 Elspeth, Sun's Champion
 2 Fae of Wishes
 3 Fae of Wishes
 1 Chandra, Torch of Defiance
@@ -88,27 +88,27 @@
 3 Transmogrify
 3 Wandering Fumarole
 4 Transmogrify
-1 Day's Undoing
-1 Chance for Glory
-1 Oath of Teferi
-2 Clifftop Retreat
-2 Day's Undoing
-2 Chance for Glory
-3 Chance for Glory
-3 Glacial Fortress
-4 Fae of Wishes
 2 Nahiri, the Harbinger
 4 Ketria Triome
 4 Agent of Treachery
-3 Island
-4 Elspeth Conquers Death
-4 Island
+1 Day's Undoing
+1 Chance for Glory
+1 Oath of Teferi
+2 Day's Undoing
+2 Chance for Glory
+2 Clifftop Retreat
+3 Chance for Glory
+3 Glacial Fortress
+4 Fae of Wishes
 1 Karn, the Great Creator
 2 Savai Triome
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 4 Omen of the Sun
 4 Karn, the Great Creator
+3 Island
+4 Elspeth Conquers Death
+4 Island
 1 Canyon Slough
 1 Fetid Pools
 1 Sweltering Suns
@@ -123,16 +123,16 @@
 2 Fatal Push
 2 Thought Erasure
 3 Fatal Push
+3 Sulfur Falls
 3 Dragonskull Summit
 3 Thought Erasure
 3 Dreadbore
-3 Sulfur Falls
 3 Sweltering Suns
 3 Jace, Architect of Thought
 4 Fatal Push
-4 Dragonskull Summit
 4 Sulfur Falls
 4 Blood Crypt
+4 Dragonskull Summit
 4 Drowned Catacomb
 4 Watery Grave
 4 Sweltering Suns
@@ -143,10 +143,10 @@
 4 Shark Typhoon
 4 Mazemind Tome
 1 Temple Garden
-1 Botanical Sanctum
 1 Woodland Cemetery
 1 Terror of the Peaks
 1 Hinterland Harbor
+1 Botanical Sanctum
 1 Siege Rhino
 1 Abrupt Decay
 1 Overgrown Tomb
@@ -189,9 +189,9 @@
 4 Sylvan Caryatid
 1 Needle Spires
 1 Heart of Kiran
-2 Temple of Triumph
 2 Heart of Kiran
 2 Detention Sphere
+2 Temple of Triumph
 2 Teferi, Hero of Dominaria
 3 Teferi, Hero of Dominaria
 1 Ashiok, Nightmare Muse
