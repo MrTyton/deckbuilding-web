@@ -41,8 +41,8 @@
 
 |*n*<sup>th</sup> copy|                                             Maindeck Card                                             |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-------------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    3|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)              |                     |              |
 |                    3|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)           |                     |              |
+|                    3|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)              |                     |              |
 |                    3|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)         |                     |              |
 |                    3|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)              |                     |              |
 |                    3|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)             |                     |              |
@@ -55,9 +55,9 @@
 |                    4|[Uro, Titan of Nature's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476480)|                     |              |
 |                    4|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)              |                     |              |
 |                    4|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)           |                     |              |
-|                    4|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)              |                     |              |
 |                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)             |                     |              |
 |                    4|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)         |                     |              |
+|                    4|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)              |                     |              |
 |                    4|[Oath of Nissa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407650)               |                     |              |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)            |                     |              |
 |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)               |                     |              |

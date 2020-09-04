@@ -1,8 +1,8 @@
 1 Ranger-Captain of Eos
-1 Walking Ballista
 1 Heliod, Sun-Crowned
-1 Speaker of the Heavens
 1 Auriok Champion
+1 Walking Ballista
+1 Speaker of the Heavens
 1 Lurrus of the Dream-Den
 1 Serra Ascendant
 1 Soul Warden
@@ -10,7 +10,6 @@
 1 Martyr of Sands
 1 Ajani's Pridemate
 2 Heliod, Sun-Crowned
-2 Walking Ballista
 2 Lurrus of the Dream-Den
 2 Auriok Champion
 2 Speaker of the Heavens
@@ -18,6 +17,7 @@
 2 Soul's Attendant
 2 Martyr of Sands
 2 Soul Warden
+2 Walking Ballista
 2 Ajani's Pridemate
 3 Heliod, Sun-Crowned
 3 Auriok Champion
@@ -56,25 +56,25 @@
 1 Shefet Dunes
 1 Spectral Procession
 1 Force of Virtue
-1 Lingering Souls
 1 Intangible Virtue
 1 Gather the Townsfolk
 1 Legion's Landing
 1 Concealed Courtyard
 1 Raise the Alarm
+1 Lingering Souls
 2 Spectral Procession
 2 Force of Virtue
-2 Lingering Souls
 2 Concealed Courtyard
+2 Lingering Souls
 2 Intangible Virtue
 2 Gather the Townsfolk
 2 Legion's Landing
 2 Raise the Alarm
 3 Spectral Procession
 3 Force of Virtue
-3 Lingering Souls
 3 Legion's Landing
 3 Concealed Courtyard
+3 Lingering Souls
 3 Raise the Alarm
 3 Intangible Virtue
 3 Gather the Townsfolk
@@ -116,8 +116,8 @@
 1 Kambal, Consul of Allocation
 1 Godless Shrine
 1 Battle Screech
-2 Godless Shrine
 2 Battle Screech
+2 Godless Shrine
 3 Godless Shrine
 4 Godless Shrine
 3 Shefet Dunes
