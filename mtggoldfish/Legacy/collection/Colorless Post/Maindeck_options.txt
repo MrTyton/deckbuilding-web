@@ -7,13 +7,13 @@
 1 Karn, Scion of Urza
 1 Voltaic Key
 1 Inventors' Fair
-1 The Tabernacle at Pendrell Vale
 1 Mazemind Tome
-1 Buried Ruin
 1 Candelabra of Tawnos
 1 Mystic Forge
-1 Warping Wail
 1 Defense Grid
+1 Warping Wail
+1 The Tabernacle at Pendrell Vale
+1 Buried Ruin
 1 Chromatic Orrery
 1 Ensnaring Bridge
 2 Mystic Forge
@@ -34,14 +34,6 @@
 2 Walking Ballista
 3 Trinisphere
 3 Stonecoil Serpent
-1 Oblivion Sower
-1 Reality Smasher
-1 Mirage Mirror
-1 Meteor Golem
-2 Oblivion Sower
-2 Reality Smasher
-3 Reality Smasher
-4 Eldrazi Temple
 1 Elvish Reclaimer
 1 Forest
 1 Once Upon a Time
@@ -52,8 +44,8 @@
 2 Forest
 2 Once Upon a Time
 2 Lotus Petal
-2 Pithing Needle
 2 Crop Rotation
+2 Pithing Needle
 3 Forest
 3 Elvish Reclaimer
 3 Lotus Petal
@@ -67,6 +59,14 @@
 4 Pithing Needle
 4 Crop Rotation
 5 Forest
+6 Forest
 7 Forest
 8 Forest
-6 Forest
+1 Oblivion Sower
+1 Mirage Mirror
+1 Reality Smasher
+1 Meteor Golem
+2 Oblivion Sower
+2 Reality Smasher
+3 Reality Smasher
+4 Eldrazi Temple

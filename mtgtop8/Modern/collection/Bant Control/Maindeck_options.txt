@@ -11,8 +11,8 @@
 2 Snow-Covered Forest
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
-3 Ice-Fang Coatl
 3 Snow-Covered Island
+3 Ice-Fang Coatl
 4 Ice-Fang Coatl
 1 Batterskull
 1 Stoneforge Mystic
@@ -42,8 +42,8 @@
 1 Karn, the Great Creator
 1 Utopia Sprawl
 1 Mwonvuli Acid-Moss
-2 Mwonvuli Acid-Moss
 2 Karn, the Great Creator
+2 Mwonvuli Acid-Moss
 2 Utopia Sprawl
 3 Mwonvuli Acid-Moss
 3 Karn, the Great Creator
@@ -60,8 +60,8 @@
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
-1 Venser, Shaper Savant
 1 Ephemerate
+1 Venser, Shaper Savant
 1 Time Warp
 1 Aether Vial
 1 Eternal Witness
@@ -82,22 +82,22 @@
 1 Springleaf Drum
 1 Kinnan, Bonder Prodigy
 1 Minamo, School at Water's Edge
-1 Botanical Sanctum
 1 Seachrome Coast
 1 Mox Amber
 1 Zagoth Triome
 1 Emry, Lurker of the Loch
 1 Monastery Mentor
+1 Botanical Sanctum
 1 Aether Spellbomb
 1 Mishra's Bauble
 2 Springleaf Drum
 2 Kinnan, Bonder Prodigy
-2 Botanical Sanctum
 2 Engineered Explosives
 2 Emry, Lurker of the Loch
 2 Monastery Mentor
 2 Mishra's Bauble
 2 Mox Amber
+2 Botanical Sanctum
 3 Kinnan, Bonder Prodigy
 3 Monastery Mentor
 3 Engineered Explosives
@@ -116,31 +116,31 @@
 2 Forest
 3 Island
 1 Glacial Fortress
+1 Spell Pierce
 1 Spell Queller
 1 Serum Visions
-1 Spell Pierce
 2 Glacial Fortress
-2 Snow-Covered Plains
 2 Spell Queller
+2 Snow-Covered Plains
 2 Spell Pierce
 2 Serum Visions
-3 Field of Ruin
 3 Mana Leak
-3 Shark Typhoon
+3 Field of Ruin
 3 Spell Queller
+3 Shark Typhoon
 3 Spell Pierce
 3 Serum Visions
-1 Arcum's Astrolabe
 1 Raugrin Triome
+1 Lightning Bolt
+1 Arcum's Astrolabe
 1 Lightning Helix
 1 Steam Vents
 1 Wrenn and Six
-1 Lightning Bolt
-2 Arcum's Astrolabe
 2 Supreme Verdict
+2 Arcum's Astrolabe
+2 Lightning Bolt
 2 Wrenn and Six
 2 Lightning Helix
-2 Lightning Bolt
 3 Arcum's Astrolabe
 4 Arcum's Astrolabe
 1 Wilderness Reclamation
@@ -150,9 +150,9 @@
 2 Wilderness Reclamation
 2 Fact or Fiction
 2 Opt
-3 Archmage's Charm
 3 Mystic Sanctuary
 3 Wilderness Reclamation
+3 Archmage's Charm
 3 Fact or Fiction
 3 Opt
 4 Opt
@@ -170,10 +170,10 @@
 3 Remand
 4 Remand
 1 Waterlogged Grove
+1 Horizon Canopy
 1 Wooded Foothills
 1 Arbor Elf
 1 Oath of Nissa
-1 Horizon Canopy
 2 Arbor Elf
 2 Oath of Nissa
 3 Arbor Elf

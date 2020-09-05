@@ -16,8 +16,8 @@
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
-1 Thing in the Ice
 1 Cling to Dust
+1 Thing in the Ice
 1 Geier Reach Sanitarium
 1 Choked Estuary
 1 Hero's Downfall
@@ -128,16 +128,16 @@
 3 Blast Zone
 1 Dreadbore
 1 Nicol Bolas, the Ravager
-1 Chart a Course
 1 The Royal Scions
+1 Chart a Course
 1 Bonecrusher Giant
 1 Discovery / Dispersal
 2 Dreadbore
 2 Nicol Bolas, the Ravager
-2 Chart a Course
 2 The Royal Scions
 2 Discovery / Dispersal
 2 Bonecrusher Giant
+2 Chart a Course
 3 Dreadbore
 3 Nicol Bolas, the Ravager
 3 Murderous Rider
@@ -153,11 +153,11 @@
 1 Hazoret the Fervent
 2 Field of Ruin
 2 Liliana, Waker of the Dead
+2 Collective Brutality
 2 Davriel, Rogue Shadowmage
 2 Hazoret the Fervent
 2 Kolaghan's Command
 2 Mountain
-2 Collective Brutality
 2 Waste Not
 3 Kolaghan's Command
 3 Eliminate
@@ -175,21 +175,21 @@
 1 Scavenging Ooze
 1 Grapple with the Past
 1 Eldritch Evolution
-1 Botanical Sanctum
 1 Elvish Rejuvenator
+1 Botanical Sanctum
 1 Hostage Taker
 1 Woodland Bellower
-1 Neoform
-1 Thassa, Deep-Dwelling
 1 Cavalier of Night
 1 Massacre Girl
 1 Reclamation Sage
 1 Thought-Knot Seer
 1 Overgrown Tomb
 1 Unesh, Criosphinx Sovereign
+1 Thassa, Deep-Dwelling
 1 Cavalier of Gales
 1 Arboreal Grazer
 1 Llanowar Wastes
+1 Neoform
 1 Satyr Wayfinder
 1 Yavimaya Coast
 1 Blooming Marsh
@@ -198,21 +198,21 @@
 2 Grapple with the Past
 2 Eldritch Evolution
 2 Elvish Rejuvenator
-2 Neoform
 2 Arboreal Grazer
 2 Overgrown Tomb
+2 Neoform
 2 Satyr Wayfinder
 2 Blooming Marsh
 2 Llanowar Wastes
 2 Agent of Treachery
 2 Yavimaya Coast
-3 Neoform
 3 Grapple with the Past
 3 Eldritch Evolution
 3 Forest
 3 Yavimaya Coast
 3 Arboreal Grazer
 3 Llanowar Wastes
+3 Neoform
 3 Satyr Wayfinder
 3 Blooming Marsh
 4 Neoform
@@ -241,9 +241,8 @@
 1 Raugrin Triome
 2 Sulfur Falls
 2 Sacred Foundry
-2 Clifftop Retreat
 2 Temple of Enlightenment
-2 Izzet Charm
+2 Clifftop Retreat
 2 Collective Defiance
 2 Anger of the Gods
 2 Teferi, Time Raveler
@@ -252,21 +251,22 @@
 2 Supreme Verdict
 2 Commit / Memory
 2 Hallowed Fountain
+2 Izzet Charm
 2 Raugrin Triome
-3 Anger of the Gods
 3 Sulfur Falls
-3 Izzet Charm
+3 Anger of the Gods
+3 Collective Defiance
 3 Commit / Memory
+3 Izzet Charm
 3 Teferi, Time Raveler
 3 Hallowed Fountain
-3 Collective Defiance
 3 Raugrin Triome
 3 Steam Vents
-4 Izzet Charm
+4 Collective Defiance
 4 Raugrin Triome
 4 Hallowed Fountain
 4 Teferi, Time Raveler
-4 Collective Defiance
+4 Izzet Charm
 4 Steam Vents
 1 Teferi, Master of Time
 1 Lumbering Falls

@@ -27,18 +27,18 @@
 1 Castle Vantress
 2 Polluted Delta
 3 Mystic Sanctuary
-1 Spell Queller
-1 Restoration Angel
+1 Remand
 1 Wall of Omens
 1 Fact or Fiction
-1 Remand
-2 Spell Queller
-2 Restoration Angel
-2 Wall of Omens
+1 Spell Queller
+1 Restoration Angel
 2 Remand
-3 Spell Queller
+2 Wall of Omens
+2 Restoration Angel
+2 Spell Queller
 3 Restoration Angel
 3 Wall of Omens
+3 Spell Queller
 1 Brazen Borrower
 2 Scalding Tarn
 3 Scalding Tarn
@@ -67,12 +67,15 @@
 1 Crucible of Worlds
 1 Dovin's Veto
 4 Archmage's Charm
-1 Time Warp
+1 Condemn
+1 Blessed Alliance
+6 Island
 1 God-Eternal Kefnet
 1 Monastery Mentor
 1 Counterbalance
 1 Mission Briefing
 1 Entreat the Angels
+1 Time Warp
 1 Telling Time
 2 Monastery Mentor
 2 Counterbalance
@@ -80,6 +83,3 @@
 3 Terminus
 3 Telling Time
 4 Terminus
-1 Condemn
-1 Blessed Alliance
-6 Island

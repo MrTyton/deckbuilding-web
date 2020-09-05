@@ -1,14 +1,15 @@
+2 Pithing Needle
 1 Cavern of Souls
-1 Once Upon a Time
 1 Crop Rotation
+1 Once Upon a Time
 1 Forest
 1 Maze of Ith
 2 Forest
 2 Crop Rotation
 3 Forest
 3 Crop Rotation
-4 Crop Rotation
 4 Forest
+4 Crop Rotation
 1 Dark Depths
 1 Green Sun's Zenith
 1 Primeval Titan
@@ -29,9 +30,11 @@
 6 Forest
 7 Forest
 8 Forest
+2 Thespian's Stage
+2 Golos, Tireless Pilgrim
+2 Ugin, the Ineffable
 1 Allosaurus Shepherd
 1 Ramunap Excavator
-2 Thespian's Stage
 3 Primeval Titan
 3 Elvish Reclaimer
 4 Pithing Needle
@@ -39,10 +42,8 @@
 4 Green Sun's Zenith
 4 Expedition Map
 4 Elvish Reclaimer
-3 Sorcerous Spyglass
 1 Mazemind Tome
 1 Mirage Mirror
-2 Golos, Tireless Pilgrim
 2 Thran Dynamo
 1 Karn Liberated
 2 Ulamog, the Ceaseless Hunger
@@ -51,44 +52,43 @@
 1 Reality Smasher
 2 Wasteland
 1 Candelabra of Tawnos
-2 Ugin, the Ineffable
+1 City of Traitors
 2 Eye of Ugin
+3 Ugin, the Spirit Dragon
+1 Crystal Vein
 1 Warping Wail
 2 Warping Wail
 2 Mazemind Tome
-2 Reality Smasher
-3 Reality Smasher
 1 Matter Reshaper
 2 Matter Reshaper
 3 Matter Reshaper
 4 Matter Reshaper
-1 Crystal Vein
 2 Trinisphere
+2 Reality Smasher
+3 Reality Smasher
 3 Wasteland
-3 Ugin, the Spirit Dragon
-1 City of Traitors
 1 Kuldotha Forgemaster
 1 Emrakul, the Promised End
 1 Oblivion Sower
-1 Karn, Scion of Urza
 1 Stonecoil Serpent
+1 Ensnaring Bridge
+2 Blast Zone
+2 City of Traitors
+3 Golos, Tireless Pilgrim
+1 Karn, Scion of Urza
 1 Blightsteel Colossus
 1 Lightning Greaves
 2 Walking Ballista
+1 Planar Bridge
+2 Kuldotha Forgemaster
+3 City of Traitors
+3 Thran Dynamo
 1 Phyrexian Tower
 1 Crucible of Worlds
 2 Crystal Vein
 3 Trinisphere
 2 Oblivion Sower
 3 Oblivion Sower
-1 Ensnaring Bridge
-1 Planar Bridge
-2 Blast Zone
-2 Kuldotha Forgemaster
-2 City of Traitors
-3 City of Traitors
-3 Thran Dynamo
-3 Golos, Tireless Pilgrim
 1 Elvish Rejuvenator
 1 Windswept Heath
 2 Reclamation Sage
@@ -113,3 +113,13 @@
 4 Vesuva
 4 Ancient Stirrings
 9 Forest
+1 Buried Ruin
+1 Mystic Forge
+1 Sphere of Resistance
+2 Ensnaring Bridge
+2 Stonecoil Serpent
+2 Mystic Forge
+2 Sphere of Resistance
+3 Stonecoil Serpent
+3 Sphere of Resistance
+4 Sphere of Resistance

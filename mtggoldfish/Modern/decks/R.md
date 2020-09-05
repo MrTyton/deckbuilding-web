@@ -26,7 +26,7 @@
 |*n*<sup>th</sup> copy|                                    Maindeck Card                                     |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|--------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
 |                    1|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)|                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)|
-|                   16|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)   |                    4|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)    |
+|                   16|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)   |                    2|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)|
 |                   17|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)   |                    4|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)          |
-|                   18|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)   |                    2|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)|
+|                   18|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)   |                    4|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)    |
 
