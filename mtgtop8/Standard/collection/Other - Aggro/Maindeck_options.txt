@@ -98,8 +98,8 @@
 1 Temple Garden
 1 Overgrown Tomb
 1 Vraska, Golgari Queen
-1 Elspeth Conquers Death
 1 Garruk, Cursed Huntsman
+1 Elspeth Conquers Death
 1 Solemn Simulacrum
 1 Basri's Lieutenant
 1 Revival / Revenge
@@ -124,9 +124,9 @@
 3 Temple Garden
 3 Elspeth Conquers Death
 3 Basri's Lieutenant
-3 Vito, Thorn of the Dusk Rose
 3 Llanowar Visionary
 3 Revival / Revenge
+3 Vito, Thorn of the Dusk Rose
 3 Gilded Goose
 4 Overgrown Tomb
 4 Indatha Triome
@@ -134,55 +134,6 @@
 4 Basri's Lieutenant
 4 Llanowar Visionary
 4 Vito, Thorn of the Dusk Rose
-1 Lurrus of the Dream-Den
-2 Lurrus of the Dream-Den
-1 Sacred Foundry
-2 Sacred Foundry
-3 Plains
-3 Sacred Foundry
-4 Sacred Foundry
-4 Plains
-1 Drannith Stinger
-1 Boon of the Wish-Giver
-1 Startling Development
-1 Imposing Vantasaur
-1 Hallowed Fountain
-1 Flourishing Fox
-1 Unpredictable Cyclone
-1 Valiant Rescuer
-1 Inspired Ultimatum
-1 Drannith Healer
-1 Zenith Flare
-1 Raugrin Triome
-2 Boon of the Wish-Giver
-2 Drannith Stinger
-2 Raugrin Triome
-2 Imposing Vantasaur
-2 Valiant Rescuer
-2 Drannith Healer
-2 Zenith Flare
-2 Unpredictable Cyclone
-2 Inspired Ultimatum
-2 Hallowed Fountain
-2 Startling Development
-2 Flourishing Fox
-3 Drannith Stinger
-3 Raugrin Triome
-3 Startling Development
-3 Hallowed Fountain
-3 Flourishing Fox
-3 Drannith Healer
-3 Zenith Flare
-3 Unpredictable Cyclone
-3 Valiant Rescuer
-4 Drannith Stinger
-4 Raugrin Triome
-4 Zenith Flare
-4 Flourishing Fox
-4 Valiant Rescuer
-4 Startling Development
-4 Drannith Healer
-4 Unpredictable Cyclone
 1 Samut's Sprint
 1 Riddleform
 2 Samut's Sprint
@@ -213,10 +164,10 @@
 1 Radha, Heart of Keld
 1 Domri, Anarch of Bolas
 1 Chandra, Heart of Fire
+1 Incubation Druid
 1 The Great Henge
 1 Chandra, Fire Artisan
 1 Vivien, Arkbow Ranger
-1 Incubation Druid
 1 Questing Beast
 1 Sarkhan the Masterless
 1 Domri's Ambush
@@ -237,6 +188,55 @@
 4 Temple of Abandon
 4 Scavenging Ooze
 4 Questing Beast
+1 Lurrus of the Dream-Den
+2 Lurrus of the Dream-Den
+1 Sacred Foundry
+2 Sacred Foundry
+3 Plains
+3 Sacred Foundry
+4 Sacred Foundry
+4 Plains
+1 Boon of the Wish-Giver
+1 Imposing Vantasaur
+1 Startling Development
+1 Hallowed Fountain
+1 Flourishing Fox
+1 Drannith Stinger
+1 Unpredictable Cyclone
+1 Valiant Rescuer
+1 Inspired Ultimatum
+1 Drannith Healer
+1 Zenith Flare
+1 Raugrin Triome
+2 Boon of the Wish-Giver
+2 Raugrin Triome
+2 Imposing Vantasaur
+2 Drannith Stinger
+2 Valiant Rescuer
+2 Drannith Healer
+2 Zenith Flare
+2 Unpredictable Cyclone
+2 Inspired Ultimatum
+2 Hallowed Fountain
+2 Startling Development
+2 Flourishing Fox
+3 Raugrin Triome
+3 Startling Development
+3 Hallowed Fountain
+3 Flourishing Fox
+3 Drannith Stinger
+3 Drannith Healer
+3 Zenith Flare
+3 Unpredictable Cyclone
+3 Valiant Rescuer
+4 Raugrin Triome
+4 Zenith Flare
+4 Flourishing Fox
+4 Valiant Rescuer
+4 Startling Development
+4 Drannith Healer
+4 Unpredictable Cyclone
+4 Drannith Stinger
 3 Swamp
 4 Swamp
 5 Swamp
@@ -318,8 +318,8 @@
 6 Plains
 1 Cling to Dust
 1 Zagoth Triome
-1 Thassa, Deep-Dwelling
 1 Acolyte of Affliction
+1 Thassa, Deep-Dwelling
 1 Golgari Findbroker
 1 Neoform
 1 Cavalier of Night
@@ -351,19 +351,19 @@
 4 Biomancer's Familiar
 4 Casualties of War
 8 Swamp
-1 Dryad of the Ilysian Grove
 1 Arboreal Grazer
 1 Chandra, Awakened Inferno
 1 Voracious Hydra
+1 Dryad of the Ilysian Grove
 1 Escape to the Wilds
-2 Dryad of the Ilysian Grove
 2 Chandra, Awakened Inferno
 2 Arboreal Grazer
 2 Klothys, God of Destiny
 2 Voracious Hydra
 2 Escape to the Wilds
-3 Chandra, Awakened Inferno
+2 Dryad of the Ilysian Grove
 3 Arboreal Grazer
+3 Chandra, Awakened Inferno
 3 Dryad of the Ilysian Grove
 3 Voracious Hydra
 4 Arboreal Grazer

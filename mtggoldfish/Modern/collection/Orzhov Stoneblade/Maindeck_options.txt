@@ -3,8 +3,8 @@
 3 Death's Shadow
 3 Street Wraith
 4 Godless Shrine
-4 Silent Clearing
 4 Ranger-Captain of Eos
+4 Silent Clearing
 4 Thoughtseize
 4 Street Wraith
 4 Death's Shadow
@@ -40,7 +40,6 @@
 2 Snow-Covered Plains
 3 Plains
 1 Thalia, Guardian of Thraben
-1 Tectonic Edge
 1 Flickerwisp
 1 Leonin Arbiter
 1 Thought-Knot Seer
@@ -48,25 +47,26 @@
 1 Aether Vial
 1 Eldrazi Displacer
 1 Ghost Quarter
+1 Tectonic Edge
+2 Ghost Quarter
 2 Thalia, Guardian of Thraben
 2 Flickerwisp
 2 Leonin Arbiter
-2 Ghost Quarter
 2 Thought-Knot Seer
 2 Eldrazi Displacer
 2 Eldrazi Temple
 2 Aether Vial
 3 Giver of Runes
+3 Ghost Quarter
 3 Thalia, Guardian of Thraben
 3 Leonin Arbiter
-3 Ghost Quarter
 3 Eldrazi Displacer
 3 Eldrazi Temple
 3 Thought-Knot Seer
 3 Aether Vial
 4 Caves of Koilos
-4 Leonin Arbiter
 4 Ghost Quarter
+4 Leonin Arbiter
 4 Aether Vial
 4 Eldrazi Temple
 1 Field of Ruin
@@ -107,8 +107,8 @@
 1 Forest
 1 Gavony Township
 1 Voice of Resurgence
-1 Siege Rhino
 1 Sword of Light and Shadow
+1 Siege Rhino
 1 Scavenging Ooze
 1 Assassin's Trophy
 1 Overgrown Tomb

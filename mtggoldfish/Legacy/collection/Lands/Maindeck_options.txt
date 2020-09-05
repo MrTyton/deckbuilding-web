@@ -13,8 +13,8 @@
 1 Sheltered Thicket
 1 Oko, Thief of Crowns
 1 Tropical Island
-2 Oko, Thief of Crowns
 2 Tropical Island
+2 Oko, Thief of Crowns
 1 Barbarian Ring
 2 Ghost Quarter
 1 Waterlogged Grove
@@ -29,10 +29,10 @@
 2 Uro, Titan of Nature's Wrath
 1 Snow-Covered Forest
 1 Cabal Pit
+1 Green Sun's Zenith
+1 Scavenging Ooze
 1 Dryad Arbor
 1 Ramunap Excavator
-1 Scavenging Ooze
-1 Green Sun's Zenith
 2 Green Sun's Zenith
 3 Green Sun's Zenith
 1 Brainstorm
@@ -43,20 +43,12 @@
 1 Riftstone Portal
 1 Molten Vortex
 4 Gamble
-1 Mishra's Factory
-1 Sphere of Resistance
-2 Blast Zone
-2 Sphere of Resistance
-3 Sphere of Resistance
-3 Maze of Ith
-3 Bayou
-4 Sphere of Resistance
 1 Swamp
 1 Eliminate
 1 Underground Sea
+1 Leovold, Emissary of Trest
 1 Dark Confidant
 1 Drown in the Loch
-1 Leovold, Emissary of Trest
 1 Raven's Crime
 2 Dark Confidant
 2 Verdant Catacombs
@@ -72,8 +64,8 @@
 1 Tundra
 1 Swords to Plowshares
 1 Sejiri Steppe
-2 Knight of the Reliquary
 2 Windswept Heath
+2 Knight of the Reliquary
 2 Savannah
 2 Swords to Plowshares
 3 Elvish Reclaimer
@@ -84,6 +76,14 @@
 4 Windswept Heath
 4 Swords to Plowshares
 4 Knight of the Reliquary
+1 Mishra's Factory
+1 Sphere of Resistance
+2 Blast Zone
+2 Sphere of Resistance
+3 Maze of Ith
+3 Bayou
+3 Sphere of Resistance
+4 Sphere of Resistance
 1 Volcanic Island
 1 Flooded Strand
 1 Lightning Bolt
@@ -108,9 +108,9 @@
 2 Force of Negation
 2 Dreadhorde Arcanist
 2 Volcanic Island
+3 Tropical Island
 3 Ponder
 3 Lightning Bolt
-3 Tropical Island
 3 Force of Will
 3 Dreadhorde Arcanist
 4 Force of Will

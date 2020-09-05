@@ -1,5 +1,3 @@
-1 Light Up the Stage
-1 Soul-Scar Mage
 2 Light Up the Stage
 2 Soul-Scar Mage
 3 Light Up the Stage
@@ -14,6 +12,13 @@
 3 Lava Dart
 4 Light Up the Stage
 4 Lava Dart
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+13 Mountain
+14 Mountain
 1 Crash Through
 1 Bedlam Reveler
 1 Manamorphose
@@ -23,24 +28,21 @@
 3 Crash Through
 3 Manamorphose
 4 Manamorphose
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain
 3 Skullcrack
-3 Arid Mesa
-4 Arid Mesa
+4 Searing Blaze
+2 Arid Mesa
 1 Seal of Fire
 3 Bedlam Reveler
 4 Crash Through
-3 Lightning Helix
-1 Scalding Tarn
-3 Wooded Foothills
-1 Mishra's Bauble
 2 Fiery Islet
+3 Lightning Helix
+3 Wooded Foothills
+1 Scalding Tarn
+3 Arid Mesa
+4 Arid Mesa
+1 Mishra's Bauble
+1 Firebolt
+2 Firebolt
 1 Chandra's Incinerator
 2 Chandra's Incinerator
 2 Seal of Fire
@@ -54,8 +56,11 @@
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
-1 Firebolt
-2 Firebolt
+1 Bonecrusher Giant
+1 Burst Lightning
+2 Burst Lightning
+3 Burst Lightning
+4 Burst Lightning
 1 Gut Shot
 2 Gut Shot
 3 Bloodstained Mire
@@ -64,16 +69,24 @@
 4 Wooded Foothills
 1 Grim Lavamancer
 2 Scalding Tarn
+1 Blistercoil Weird
+2 Blistercoil Weird
+2 Bonecrusher Giant
+3 Firebolt
+3 Bonecrusher Giant
+3 Blistercoil Weird
+4 Firebolt
+4 Bonecrusher Giant
+4 Blistercoil Weird
+15 Mountain
+16 Mountain
+17 Mountain
+18 Mountain
 1 Kiln Fiend
 2 Kiln Fiend
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
-1 Bonecrusher Giant
-1 Burst Lightning
-2 Burst Lightning
-3 Burst Lightning
-4 Burst Lightning
 1 Deflecting Palm
 4 Lightning Helix
 1 Mutagenic Growth
@@ -89,9 +102,17 @@
 4 Scalding Tarn
 3 Fiery Islet
 4 Fiery Islet
+1 Seasoned Pyromancer
+2 Seasoned Pyromancer
+3 Seasoned Pyromancer
+4 Seasoned Pyromancer
 1 Wild Slash
 2 Wild Slash
 4 Bedlam Reveler
+1 Bomat Courier
+2 Bomat Courier
+3 Bomat Courier
+4 Bomat Courier
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
@@ -103,20 +124,3 @@
 12 Snow-Covered Mountain
 13 Snow-Covered Mountain
 14 Snow-Covered Mountain
-1 Blistercoil Weird
-1 Bomat Courier
-2 Bonecrusher Giant
-2 Bomat Courier
-2 Blistercoil Weird
-3 Bomat Courier
-3 Firebolt
-3 Bonecrusher Giant
-3 Blistercoil Weird
-4 Firebolt
-4 Bomat Courier
-4 Bonecrusher Giant
-4 Blistercoil Weird
-16 Mountain
-17 Mountain
-18 Mountain
-15 Mountain

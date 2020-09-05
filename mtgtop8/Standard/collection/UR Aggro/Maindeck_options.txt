@@ -8,8 +8,8 @@
 1 Bonecrusher Giant
 1 Sea-Dasher Octopus
 2 Sea-Dasher Octopus
-3 Sea-Dasher Octopus
 3 Spectral Sailor
+3 Sea-Dasher Octopus
 4 Spectral Sailor
 7 Island
 1 Unsubstantiate
@@ -54,6 +54,16 @@
 2 Starlit Mantle
 1 Lore Drakkis
 2 Lore Drakkis
+1 Fabled Passage
+1 Shark Typhoon
+2 Shark Typhoon
+2 Castle Vantress
+3 Ionize
+3 Bonecrusher Giant
+3 Shark Typhoon
+4 Ionize
+4 Bonecrusher Giant
+4 Brazen Borrower
 1 See the Truth
 1 Infuriate
 1 Lava Coil
@@ -65,34 +75,24 @@
 3 See the Truth
 3 Maximize Velocity
 4 See the Truth
-1 Fabled Passage
-1 Shark Typhoon
-2 Shark Typhoon
-2 Castle Vantress
-3 Ionize
-3 Bonecrusher Giant
-3 Shark Typhoon
-4 Bonecrusher Giant
-4 Brazen Borrower
-4 Ionize
 1 Irencrag Pyromancer
-1 Niv-Mizzet, Parun
 1 Experimental Overload
 1 Ominous Seas
+1 Niv-Mizzet, Parun
 1 God-Eternal Kefnet
 1 Flame Sweep
 1 Frantic Inventory
+2 Ominous Seas
 2 Experimental Overload
 2 Flame Sweep
-2 Ominous Seas
 2 Frantic Inventory
 3 Ominous Seas
 3 Flame Sweep
 3 Frantic Inventory
 4 Frantic Inventory
 1 Thrill of Possibility
-1 Soul Sear
 1 Miscast
+1 Soul Sear
 1 Beacon Bolt
 1 Faerie Vandal
 2 Faerie Vandal

@@ -3,8 +3,8 @@
 2 Woe Strider
 2 Bolas's Citadel
 2 Zulaport Cutthroat
-2 Gilded Goose
 2 Priest of Forgotten Gods
+2 Gilded Goose
 2 Blood Crypt
 2 Mayhem Devil
 2 Stomping Ground
@@ -226,8 +226,8 @@
 1 Shanna, Sisay's Legacy
 2 Shanna, Sisay's Legacy
 4 Rogue Refiner
-1 Brazen Borrower
 1 Island
+1 Brazen Borrower
 2 Brazen Borrower
 1 Scrapheap Scrounger
 1 Irrigated Farmland
@@ -238,9 +238,9 @@
 1 Teferi, Time Raveler
 1 Gideon of the Trials
 1 Nimble Obstructionist
-1 Spell Pierce
 1 Supreme Verdict
 1 Toolcraft Exemplar
+1 Spell Pierce
 1 Heart of Kiran
 1 Godless Shrine
 2 Irrigated Farmland
@@ -249,15 +249,14 @@
 2 Glacial Fortress
 2 Teferi, Time Raveler
 2 Nimble Obstructionist
-2 Spell Pierce
 2 Supreme Verdict
 2 Heart of Kiran
 2 Godless Shrine
 2 Gideon of the Trials
 2 Toolcraft Exemplar
+2 Spell Pierce
 2 Scrapheap Scrounger
 3 Irrigated Farmland
-3 Spell Pierce
 3 Heart of Kiran
 3 Seasoned Hallowblade
 3 Hallowed Fountain
@@ -267,6 +266,7 @@
 3 Supreme Verdict
 3 Gideon of the Trials
 3 Toolcraft Exemplar
+3 Spell Pierce
 3 Scrapheap Scrounger
 3 Godless Shrine
 4 Hallowed Fountain
@@ -298,9 +298,9 @@
 2 Breaking / Entering
 2 Stitcher's Supplier
 2 Merfolk Secretkeeper
-2 Silversmote Ghoul
 2 Prized Amalgam
 2 Creeping Chill
+2 Silversmote Ghoul
 2 Satyr Wayfinder
 2 Narcomoeba
 2 Haunted Dead
@@ -320,8 +320,8 @@
 4 Merfolk Secretkeeper
 4 Silversmote Ghoul
 4 Creeping Chill
-4 Prized Amalgam
 4 Grisly Salvage
+4 Prized Amalgam
 4 Botanical Sanctum
 4 Satyr Wayfinder
 1 Kitesail Freebooter
@@ -357,21 +357,20 @@
 2 Island
 2 Mystical Dispute
 2 Fabled Passage
-3 Brazen Borrower
 3 Thieves' Guild Enforcer
 3 Eliminate
 3 Rankle, Master of Pranks
 3 Fabled Passage
 3 Island
+3 Brazen Borrower
 4 Fabled Passage
-4 Brazen Borrower
 4 Thieves' Guild Enforcer
 4 Murderous Rider
 4 Swamp
+4 Brazen Borrower
 5 Swamp
 6 Swamp
 1 Fleecemane Lion
-1 Animal Sanctuary
 1 Bronzehide Lion
 1 Kaheera, the Orphanguard
 1 Feline Sovereign
@@ -382,9 +381,9 @@
 1 Adorned Pouncer
 1 Leonin Vanguard
 1 Ajani Steadfast
+1 Animal Sanctuary
 1 Pride Sovereign
 2 Fleecemane Lion
-2 Animal Sanctuary
 2 Scattered Groves
 2 Bronzehide Lion
 2 Sacred Cat
@@ -393,6 +392,7 @@
 2 Adorned Pouncer
 2 Feline Sovereign
 2 Regal Caracal
+2 Animal Sanctuary
 2 Pride Sovereign
 2 Leonin Vanguard
 2 Ajani, Adversary of Tyrants
@@ -408,12 +408,12 @@
 6 Plains
 7 Plains
 1 Pelt Collector
-1 Stonecoil Serpent
 1 Voracious Hydra
 1 Nissa, Voice of Zendikar
 1 Hardened Scales
 1 Hangarback Walker
 1 Dromoka's Command
+1 Stonecoil Serpent
 1 Rishkar, Peema Renegade
 2 Stonecoil Serpent
 2 Voracious Hydra

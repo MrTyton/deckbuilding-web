@@ -12,16 +12,16 @@
 3 Sleight of Hand
 1 Plains
 3 Path to Exile
-1 Batterskull
 1 Sword of Fire and Ice
 1 Stoneforge Mystic
+1 Batterskull
 1 Mantis Rider
 2 Stoneforge Mystic
 2 Mantis Rider
 3 Stoneforge Mystic
 3 Mantis Rider
-4 Stoneforge Mystic
 4 Sleight of Hand
+4 Stoneforge Mystic
 4 Mantis Rider
 2 Drown in the Loch
 4 Force of Negation
@@ -60,14 +60,14 @@
 2 Thought Scour
 3 Thought Scour
 4 Thought Scour
+1 Breeding Pool
 1 Tarmogoyf
 1 Stubborn Denial
-1 Breeding Pool
 1 Forest
 2 Tarmogoyf
 2 Stubborn Denial
-3 Tarmogoyf
 3 Misty Rainforest
+3 Tarmogoyf
 3 Stubborn Denial
 4 Misty Rainforest
 4 Stubborn Denial
@@ -95,16 +95,16 @@
 2 Surgical Extraction
 4 Lightning Helix
 4 Spirebluff Canal
+1 Uro, Titan of Nature's Wrath
 1 Hexdrinker
 1 Disrupting Shoal
-1 Uro, Titan of Nature's Wrath
 1 Wooded Foothills
 2 Breeding Pool
+2 Uro, Titan of Nature's Wrath
 2 Forest
 2 Hexdrinker
 2 Disrupting Shoal
 2 Wooded Foothills
-2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
 3 Hexdrinker
 3 Disrupting Shoal
@@ -146,8 +146,8 @@
 3 Thieves' Guild Enforcer
 3 Inquisition of Kozilek
 3 Vantress Gargoyle
-4 Thieves' Guild Enforcer
 4 Drown in the Loch
+4 Thieves' Guild Enforcer
 1 Swamp
 1 Deprive
 2 Seal of Fire
@@ -184,6 +184,16 @@
 2 Dreadhorde Arcanist
 3 Dreadhorde Arcanist
 3 Seachrome Coast
+1 Raugrin Triome
+1 Fact or Fiction
+1 Shadow of Doubt
+1 Brineborn Cutthroat
+2 Fact or Fiction
+2 Shadow of Doubt
+2 Brineborn Cutthroat
+3 Island
+3 Brineborn Cutthroat
+4 Brineborn Cutthroat
 1 Bitterblossom
 1 Field of Ruin
 1 Creeping Tar Pit
@@ -200,13 +210,3 @@
 1 Mutagenic Growth
 2 Mutagenic Growth
 4 Hooting Mandrills
-1 Raugrin Triome
-1 Fact or Fiction
-1 Brineborn Cutthroat
-1 Shadow of Doubt
-2 Fact or Fiction
-2 Shadow of Doubt
-2 Brineborn Cutthroat
-3 Island
-3 Brineborn Cutthroat
-4 Brineborn Cutthroat

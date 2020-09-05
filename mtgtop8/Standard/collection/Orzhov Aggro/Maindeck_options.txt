@@ -8,26 +8,26 @@
 3 Scoured Barrens
 4 Scoured Barrens
 9 Swamp
-1 Griffin Aerie
 1 Revitalize
+1 Griffin Aerie
 1 Basilica Bell-Haunt
 1 Light of Hope
 1 Silversmote Ghoul
 1 Indulging Patrician
 2 Basilica Bell-Haunt
-2 Griffin Aerie
 2 Revitalize
+2 Griffin Aerie
 2 Light of Hope
 2 Silversmote Ghoul
 2 Indulging Patrician
-3 Griffin Aerie
 3 Revitalize
+3 Griffin Aerie
 3 Light of Hope
 3 Silversmote Ghoul
 3 Indulging Patrician
+4 Revitalize
 4 Griffin Aerie
 4 Light of Hope
-4 Revitalize
 4 Indulging Patrician
 4 Silversmote Ghoul
 1 Orzhov Guildgate
@@ -85,29 +85,29 @@
 3 Rankle, Master of Pranks
 3 Lavabrink Venturer
 3 Kitesail Freebooter
-4 Demonic Embrace
 4 General Kudro of Drannith
 4 Kitesail Freebooter
+4 Demonic Embrace
 4 Lavabrink Venturer
 1 Alseid of Life's Bounty
 1 Dead Weight
-1 Archfiend's Vessel
-1 Lampad of Death's Vigil
-1 Hateful Eidolon
-1 Kaya's Ghostform
-1 Shadowspear
 1 Mire's Grasp
+1 Kaya's Ghostform
+1 Hateful Eidolon
+1 Archfiend's Vessel
+1 Shadowspear
 1 Murder
+1 Lampad of Death's Vigil
 1 Omen of the Dead
 1 Memory Leak
 2 Alseid of Life's Bounty
-2 Mire's Grasp
 2 Kaya's Ghostform
-2 Archfiend's Vessel
-2 Lampad of Death's Vigil
+2 Mire's Grasp
 2 Hateful Eidolon
+2 Archfiend's Vessel
 2 Murder
 2 Memory Leak
+2 Lampad of Death's Vigil
 3 Mire's Grasp
 3 Archfiend's Vessel
 3 Kaya's Ghostform
@@ -116,12 +116,47 @@
 4 Archfiend's Vessel
 4 Alseid of Life's Bounty
 4 Kaya's Ghostform
+1 Gideon Blackblade
+1 Duress
+1 Ajani, Strength of the Pride
+1 Final Payment
+1 Anointed Chorister
+1 Sorin, Imperious Bloodlord
+2 Final Payment
+2 Anointed Chorister
+3 Basilica Bell-Haunt
+3 Anointed Chorister
+4 Healer's Hawk
+10 Plains
+1 Murderous Rider
+1 Gutterbones
+1 Hunted Nightmare
+1 Rotting Regisaur
+1 Blacklance Paragon
+1 Grasp of Darkness
+1 Spawn of Mayhem
+2 Murderous Rider
+2 Gutterbones
+2 Hunted Nightmare
+2 Rotting Regisaur
+2 Blacklance Paragon
+2 Spawn of Mayhem
+3 Blacklance Paragon
+3 Gutterbones
+3 Rotting Regisaur
+3 Spawn of Mayhem
+4 Blacklance Paragon
+4 Spawn of Mayhem
+4 Eliminate
+4 Gutterbones
+4 Rotting Regisaur
+10 Swamp
 1 Venerable Knight
 1 Basri Ket
 1 Icon of Ancestry
+1 Haazda Marshal
 1 Tithe Taker
 1 Disfigure
-1 Haazda Marshal
 1 Castle Ardenvale
 1 Adherent of Hope
 1 Giant Killer
@@ -144,38 +179,3 @@
 4 Tithe Taker
 4 Dire Tactics
 4 Haazda Marshal
-1 Murderous Rider
-1 Gutterbones
-1 Rotting Regisaur
-1 Hunted Nightmare
-1 Blacklance Paragon
-1 Grasp of Darkness
-1 Spawn of Mayhem
-2 Murderous Rider
-2 Gutterbones
-2 Hunted Nightmare
-2 Rotting Regisaur
-2 Blacklance Paragon
-2 Spawn of Mayhem
-3 Blacklance Paragon
-3 Gutterbones
-3 Rotting Regisaur
-3 Spawn of Mayhem
-4 Blacklance Paragon
-4 Spawn of Mayhem
-4 Eliminate
-4 Gutterbones
-4 Rotting Regisaur
-10 Swamp
-1 Gideon Blackblade
-1 Duress
-1 Ajani, Strength of the Pride
-1 Final Payment
-1 Anointed Chorister
-1 Sorin, Imperious Bloodlord
-2 Final Payment
-2 Anointed Chorister
-3 Basilica Bell-Haunt
-3 Anointed Chorister
-4 Healer's Hawk
-10 Plains
