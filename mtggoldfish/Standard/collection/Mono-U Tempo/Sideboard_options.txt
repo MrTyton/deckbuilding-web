@@ -1,24 +1,23 @@
 3 Aether Gust
-1 Sublime Epiphany
-2 Negate
 1 Whirlwind Denial
+2 Negate
+1 Sublime Epiphany
 1 Grafdigger's Cage
 2 Whirlwind Denial
 1 Uro, Titan of Nature's Wrath
 1 Scavenging Ooze
 2 Uro, Titan of Nature's Wrath
 2 Scavenging Ooze
-3 Mystical Dispute
+2 Eliminate
 1 Duress
 2 Duress
-1 Essence Scatter
-2 Essence Scatter
-1 Erebos's Intervention
-1 Disfigure
+2 Cry of the Carnarium
+3 Mystical Dispute
 1 Wilt
-1 Murderous Rider
 2 Extinction Event
-2 Eliminate
+1 Erebos's Intervention
+1 Murderous Rider
+1 Disfigure
 1 Ashiok, Nightmare Muse
 2 Murderous Rider
 2 Ashiok, Nightmare Muse
@@ -35,34 +34,29 @@
 1 Mangara, the Diplomat
 2 Spectral Sailor
 2 Mangara, the Diplomat
+1 Essence Scatter
+2 Essence Scatter
 1 Commence the Endgame
-2 Cry of the Carnarium
-3 Essence Scatter
-1 Miscast
-2 Miscast
-3 Miscast
-4 Aether Gust
+3 Cry of the Carnarium
+2 Grafdigger's Cage
+1 Disdainful Stroke
+2 Disdainful Stroke
 1 Devout Decree
 2 Devout Decree
 3 Devout Decree
-1 Disdainful Stroke
-2 Disdainful Stroke
 1 Glass Casket
 2 Glass Casket
 3 Dovin's Veto
 1 Mystic Subdual
 1 Starlit Mantle
-1 Staggering Insight
-2 Staggering Insight
 1 Lochmere Serpent
 1 Topple the Statue
 2 Topple the Statue
 2 Sublime Epiphany
 2 Mystic Subdual
 1 Ritual of Soot
-1 Enter the God-Eternals
 1 Unmoored Ego
-2 Grafdigger's Cage
+1 Enter the God-Eternals
 2 Ritual of Soot
 2 Unmoored Ego
 1 Tale's End
@@ -75,20 +69,23 @@
 2 Expansion/Explosion
 1 Threnody Singer
 2 Threnody Singer
-1 Unsummon
-2 Unsummon
-2 Legion's End
 1 Elspeth's Nightmare
-2 Elspeth's Nightmare
 2 Erebos's Intervention
+2 Elspeth's Nightmare
+1 Unsummon
+2 Legion's End
+2 Unsummon
 1 Lovestruck Beast
 2 Lovestruck Beast
+3 Essence Scatter
 3 Lovestruck Beast
 1 Unsubstantiate
-2 Disfigure
 2 Unsubstantiate
+2 Disfigure
 2 Commence the Endgame
 3 Disfigure
+1 Staggering Insight
+2 Staggering Insight
 3 Negate
 4 Negate
 1 Rewind
@@ -108,14 +105,18 @@
 1 Heliod's Intervention
 2 Heliod's Intervention
 3 Glass Casket
+1 Cling to Dust
+2 Cling to Dust
+3 Cling to Dust
 2 Lochmere Serpent
 3 Noxious Grasp
-3 Cry of the Carnarium
 3 Lochmere Serpent
+1 Miscast
+2 Miscast
+3 Miscast
+4 Aether Gust
 4 Miscast
 4 Devout Decree
-4 Mystical Dispute
-4 Essence Scatter
 1 Sephara, Sky's Blade
 1 Sky Tether
 2 Sephara, Sky's Blade
@@ -134,8 +135,8 @@
 3 Staggering Insight
 1 Voracious Greatshark
 1 Mutual Destruction
-1 Gravebreaker Lamia
 1 Cerulean Drake
+1 Gravebreaker Lamia
 1 Nightmare Shepherd
 2 Mutual Destruction
 2 Cerulean Drake

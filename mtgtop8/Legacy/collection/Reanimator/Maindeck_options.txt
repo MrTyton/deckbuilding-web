@@ -1,14 +1,12 @@
-1 Cabal Therapy
-1 Sire of Insanity
 1 Verdant Catacombs
 4 Thoughtseize
-1 Ashen Rider
-2 Verdant Catacombs
 4 Bloodstained Mire
 2 Swamp
-1 Elesh Norn, Grand Cenobite
-2 Cabal Therapy
+1 Ashen Rider
 1 Marsh Flats
+1 Sire of Insanity
+1 Cabal Therapy
+2 Verdant Catacombs
 1 Ice-Fang Coatl
 1 Uro, Titan of Nature's Wrath
 1 Tropical Island
@@ -47,7 +45,6 @@
 4 Brainstorm
 4 Force of Will
 1 Grave Titan
-3 Cabal Therapy
 1 Collective Brutality
 1 Lake of the Dead
 2 Lake of the Dead
@@ -64,8 +61,8 @@
 3 Duress
 3 Snow-Covered Swamp
 3 Grave Titan
-4 Snow-Covered Swamp
 4 Duress
+4 Snow-Covered Swamp
 4 Grave Titan
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
@@ -81,14 +78,18 @@
 16 Snow-Covered Swamp
 17 Snow-Covered Swamp
 18 Snow-Covered Swamp
+1 Elesh Norn, Grand Cenobite
+2 Cabal Therapy
+2 Marsh Flats
 1 Leovold, Emissary of Trest
 1 Duskmantle Guildmage
 2 Uro, Titan of Nature's Wrath
 2 Drown in the Loch
 3 Swamp
-2 Marsh Flats
+2 Bayou
 1 Mystic Sanctuary
 3 Uro, Titan of Nature's Wrath
+3 Cabal Therapy
 3 Badlands
 1 Vito, Thorn of the Dusk Rose
 1 Oko, Thief of Crowns
@@ -96,7 +97,6 @@
 1 Assassin's Trophy
 1 Veil of Summer
 1 Urborg, Tomb of Yawgmoth
-2 Bayou
 1 Teferi, Master of Time
 1 Eternal Witness
 1 Dance of the Dead
@@ -125,9 +125,11 @@
 1 Tidespout Tyrant
 1 Zagoth Triome
 2 Veil of Summer
+3 Marsh Flats
+4 Marsh Flats
 1 Karn, the Great Creator
-1 Massacre Wurm
 1 Ashiok, Dream Render
+1 Massacre Wurm
 1 Wasteland
 1 Tectonic Hellion
 4 Swamp
@@ -135,24 +137,24 @@
 6 Swamp
 7 Swamp
 1 Thespian's Stage
-1 Dark Depths
 1 Vampire Hexmage
 1 Shallow Grave
+1 Dark Depths
 1 Wishclaw Talisman
 1 Lion's Eye Diamond
 1 Unburial Rites
 1 Living Wish
 2 Urborg, Tomb of Yawgmoth
 2 Vampire Hexmage
-2 Dark Depths
-2 Thespian's Stage
 2 Living Wish
+2 Thespian's Stage
+2 Dark Depths
 2 Lion's Eye Diamond
 2 Shallow Grave
-3 Dark Depths
 3 Thespian's Stage
 3 Living Wish
 3 Shallow Grave
+3 Dark Depths
 3 Lion's Eye Diamond
 3 Verdant Catacombs
 4 Shallow Grave

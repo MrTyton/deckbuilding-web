@@ -56,8 +56,8 @@
 |                    4|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)    |                     |                                                                                                      |
 |                    4|[Shacklegeist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488252)       |                     |                                                                                                      |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)     |                     |                                                                                                      |
-|                    4|[Spectral Sailor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466830)    |                     |                                                                                                      |
 |                    4|[Seachrome Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209399)    |                     |                                                                                                      |
+|                    4|[Spectral Sailor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466830)    |                     |                                                                                                      |
 |                    4|[Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48146)         |                     |                                                                                                      |
 |                    4|[Rattlechains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409824)       |                     |                                                                                                      |
 

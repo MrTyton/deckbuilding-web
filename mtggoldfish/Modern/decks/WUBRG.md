@@ -1,7 +1,7 @@
 # WUBRG
 
 #### [Export MTGO List](../collection/WUBRG/WUBRG.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A4%09Cavern%20of%20Souls%0A4%09Cloudshredder%20Sliver%0A3%09Dregscape%20Sliver%0A2%09Fiery%20Islet%0A3%09Frenetic%20Sliver%0A2%09Frenzy%20Sliver%0A4%09Galerider%20Sliver%0A4%09Leeching%20Sliver%0A3%09Mutavault%0A4%09Predatory%20Sliver%0A2%09Sidewinder%20Sliver%0A2%09Silent%20Clearing%0A4%09Sinew%20Sliver%0A4%09Sliver%20Hive%0A1%09Snow-Covered%20Plains%0A2%09Striking%20Sliver%0A4%09Unclaimed%20Territory%0A4%09Unsettled%20Mariner&deckside=4%09Chalice%20of%20the%20Void%0A2%09Damping%20Sphere%0A2%09Dismember%0A3%09Harmonic%20Sliver%0A4%09Leyline%20of%20the%20Void)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A4%09Cavern%20of%20Souls%0A4%09Cloudshredder%20Sliver%0A3%09Dregscape%20Sliver%0A2%09Fiery%20Islet%0A3%09Frenetic%20Sliver%0A2%09Frenzy%20Sliver%0A4%09Galerider%20Sliver%0A4%09Leeching%20Sliver%0A3%09Mutavault%0A4%09Predatory%20Sliver%0A2%09Sidewinder%20Sliver%0A2%09Silent%20Clearing%0A4%09Sinew%20Sliver%0A4%09Sliver%20Hive%0A1%09Snow-Covered%20Plains%0A2%09Striking%20Sliver%0A4%09Unclaimed%20Territory%0A4%09Unsettled%20Mariner&deckside=4%09Chalice%20of%20the%20Void%0A4%09Dismember%0A3%09Harmonic%20Sliver%0A4%09Leyline%20of%20the%20Void)
 # Maindeck
 
 |                                     Artifact (4)                                      |                                          Creature (36)                                          |                                           Land (20)                                            |
@@ -21,23 +21,22 @@
 
 # Sideboard
 
-|                                          Artifact (6)                                          |                                        Creature (3)                                        |                                        Enchantment (4)                                         |                                     Instant (2)                                      |
+|                                          Artifact (4)                                          |                                        Creature (3)                                        |                                        Enchantment (4)                                         |                                     Instant (4)                                      |
 |------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-|4 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|3 [Harmonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109706)|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|2 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)|
-|2 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |                                                                                            |                                                                                                |                                                                                      |
+|4 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|3 [Harmonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109706)|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|4 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)|
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)     |                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)     |
-|                    1|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)    |                    4|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)     |
+|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)     |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
+|                    1|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)    |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
 |                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
 |                    1|[Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)   |                     |                                                                                         |
 |                    1|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)             |                     |                                                                                         |
 |                    2|[Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)   |                     |                                                                                         |
-|                    4|[Striking Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370589)    |                     |                                                                                         |
-|                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                         |
 |                    3|[Striking Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370589)    |                     |                                                                                         |
+|                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                         |
+|                    4|[Striking Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370589)    |                     |                                                                                         |
 

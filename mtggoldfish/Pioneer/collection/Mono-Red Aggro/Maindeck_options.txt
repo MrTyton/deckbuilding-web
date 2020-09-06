@@ -12,13 +12,13 @@
 3 Mutavault
 4 Mutavault
 1 Hanweir Battlements
-1 Hanweir Garrison
 1 Glorybringer
-2 Glorybringer
+1 Hanweir Garrison
 2 Hanweir Garrison
 2 Hanweir Battlements
-3 Glorybringer
+2 Glorybringer
 3 Hanweir Garrison
+3 Glorybringer
 4 Glorybringer
 2 Chandra, Torch of Defiance
 3 Chandra, Torch of Defiance
@@ -29,9 +29,6 @@
 4 Torbran, Thane of Red Fell
 1 Rimrock Knight
 2 Rimrock Knight
-1 Embercleave
-3 Hanweir Battlements
-4 Rekindling Phoenix
 1 Earthshaker Khenra
 2 Earthshaker Khenra
 3 Earthshaker Khenra
@@ -43,6 +40,9 @@
 3 Legion Warboss
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
+1 Embercleave
+3 Hanweir Battlements
+4 Rekindling Phoenix
 1 Satyr's Cunning
 1 Eldrazi Obligator
 1 Sacred Foundry
@@ -52,8 +52,8 @@
 2 Boros Charm
 2 Battlefield Forge
 2 Sacred Foundry
-3 Eldrazi Obligator
 3 Boros Charm
+3 Eldrazi Obligator
 3 Sacred Foundry
 3 Battlefield Forge
 4 Boros Charm

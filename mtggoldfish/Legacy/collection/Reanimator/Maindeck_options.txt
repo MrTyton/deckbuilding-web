@@ -1,50 +1,80 @@
 1 Cabal Therapy
 3 Polluted Delta
-4 Polluted Delta
-2 Cabal Therapy
 1 Swamp
+2 Cabal Therapy
+4 Polluted Delta
 1 Tidespout Tyrant
 3 Badlands
 1 Ashen Rider
 2 Swamp
 3 Snow-Covered Swamp
-4 Thoughtseize
 3 Bloodstained Mire
-3 Cabal Therapy
+4 Thoughtseize
 4 Bloodstained Mire
-4 Cabal Therapy
 1 Iona, Shield of Emeria
+3 Cabal Therapy
 2 Bayou
 3 Swamp
 2 Chrome Mox
 3 Verdant Catacombs
+4 Cabal Therapy
 1 Elesh Norn, Grand Cenobite
-1 Sire of Insanity
-1 Ponder
-1 Underground Sea
-2 Ponder
-2 Underground Sea
-3 Underground Sea
-3 Ponder
 3 Marsh Flats
 4 Marsh Flats
-1 Scalding Tarn
-1 Portent
-1 Careful Study
-2 Scalding Tarn
-2 Careful Study
-3 Careful Study
-4 Underground Sea
-4 Careful Study
+1 Grave Titan
+1 Underground Sea
+2 Underground Sea
+1 Sire of Insanity
+1 Snow-Covered Island
+1 Creeping Chill
+1 Thieves' Guild Enforcer
+1 Daze
+1 Disrupt
+1 Curator of Mysteries
+1 Force of Will
+1 Stifle
+1 Brainstorm
+1 Ponder
+1 Delver of Secrets
+1 Spell Pierce
+1 Wasteland
+1 Misty Rainforest
+1 Bloodghast
+2 Snow-Covered Island
+2 Thieves' Guild Enforcer
+2 Daze
+2 Disrupt
+2 Force of Will
+2 Stifle
+2 Ponder
+2 Wasteland
+2 Brainstorm
+2 Delver of Secrets
+2 Misty Rainforest
+3 Daze
+3 Thieves' Guild Enforcer
+3 Disrupt
+3 Force of Will
+3 Wasteland
+3 Misty Rainforest
+3 Underground Sea
+3 Brainstorm
+3 Delver of Secrets
+3 Ponder
+4 Thieves' Guild Enforcer
+4 Daze
+4 Force of Will
+4 Wasteland
+4 Delver of Secrets
+4 Brainstorm
 1 Cling to Dust
 1 Massacre Wurm
-1 Hymn to Tourach
 1 Lake of the Dead
+1 Hymn to Tourach
 1 Duress
-1 Grave Titan
 1 Scrying Sheets
-2 Grave Titan
 2 Lake of the Dead
+2 Grave Titan
 2 Hymn to Tourach
 2 Duress
 2 Cling to Dust
@@ -60,7 +90,6 @@
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
-9 Snow-Covered Swamp
 10 Snow-Covered Swamp
 11 Snow-Covered Swamp
 12 Snow-Covered Swamp
@@ -68,41 +97,4 @@
 14 Snow-Covered Swamp
 15 Snow-Covered Swamp
 16 Snow-Covered Swamp
-1 Creeping Chill
-1 Spell Pierce
-1 Thieves' Guild Enforcer
-1 Disrupt
-1 Curator of Mysteries
-1 Force of Will
-1 Stifle
-1 Daze
-1 Brainstorm
-1 Delver of Secrets
-1 Snow-Covered Island
-1 Wasteland
-1 Misty Rainforest
-1 Bloodghast
-2 Thieves' Guild Enforcer
-2 Disrupt
-2 Force of Will
-2 Stifle
-2 Snow-Covered Island
-2 Wasteland
-2 Brainstorm
-2 Delver of Secrets
-2 Daze
-2 Misty Rainforest
-3 Daze
-3 Thieves' Guild Enforcer
-3 Disrupt
-3 Force of Will
-3 Wasteland
-3 Misty Rainforest
-3 Brainstorm
-3 Delver of Secrets
-4 Thieves' Guild Enforcer
-4 Daze
-4 Force of Will
-4 Wasteland
-4 Delver of Secrets
-4 Brainstorm
+9 Snow-Covered Swamp
