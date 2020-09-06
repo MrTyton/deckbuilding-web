@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    2|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)      |                    1|[Yorion, Sky Nomad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479752)   |
-|                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)      |
+|                    2|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)      |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)      |
+|                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                    1|[Yorion, Sky Nomad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479752)   |
 |                    2|[Kaya's Guile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464154)       |                    1|[Revoke Existence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378397)    |
 |                    3|[Shambling Vent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402031)     |                    1|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470)  |
 |                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)    |                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)     |

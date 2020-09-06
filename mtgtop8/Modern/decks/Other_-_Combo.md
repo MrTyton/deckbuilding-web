@@ -32,3 +32,13 @@
 |                                                                                                  |                                                                                                |2 [Swan Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420715)     |                                                                                  |
 |                                                                                                  |                                                                                                |1 [Tale's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466831)    |                                                                                  |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
+|                    1|[Hydrolash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456542)        |                    2|[Tale's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466831)    |
+|                    2|[Hydrolash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456542)        |                    2|[Shadow of Doubt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83827)|
+|                    4|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|                    2|[Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1434)        |
+|                    3|[Hydrolash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456542)        |                    3|[Darkness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1434)        |
+

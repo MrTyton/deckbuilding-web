@@ -87,9 +87,9 @@
 1 Feed the Clan
 2 Flaying Tendrils
 2 Feed the Clan
-1 Pact of Negation
-1 Flame Slash
 1 Claim the Firstborn
+1 Flame Slash
+1 Pact of Negation
 1 Pyromancer Ascension
 2 Claim the Firstborn
 2 Flame Slash
@@ -149,10 +149,6 @@
 2 Blood Moon
 2 Cindervines
 3 Blood Moon
-2 Tormod's Crypt
-3 Tormod's Crypt
-3 Mystical Dispute
-4 Aether Gust
 1 Deafening Silence
 1 On Thin Ice
 1 Containment Priest
@@ -163,6 +159,10 @@
 3 On Thin Ice
 3 Containment Priest
 4 On Thin Ice
+2 Tormod's Crypt
+3 Tormod's Crypt
+3 Mystical Dispute
+4 Aether Gust
 1 Lurrus of the Dream-Den
 1 Disenchant
 1 Ethersworn Canonist

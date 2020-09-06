@@ -1,7 +1,7 @@
 # UR Storm
 
 #### [Export MTGO List](../collection/UR%20Storm/UR%20Storm.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Baral,%20Chief%20of%20Compliance%0A4%09Desperate%20Ritual%0A1%09Fiery%20Islet%0A4%09Gifts%20Ungiven%0A3%09Goblin%20Electromancer%0A3%09Grapeshot%0A2%09Island%0A4%09Manamorphose%0A1%09Mountain%0A3%09Opt%0A2%09Past%20in%20Flames%0A4%09Pyretic%20Ritual%0A3%09Remand%0A1%09Repeal%0A4%09Serum%20Visions%0A4%09Shivan%20Reef%0A3%09Sleight%20of%20Hand%0A2%09Snow-Covered%20Island%0A4%09Spirebluff%20Canal%0A4%09Steam%20Vents&deckside=1%09Abrade%0A2%09Aria%20of%20Flame%0A2%09Empty%20the%20Warrens%0A4%09Lightning%20Bolt%0A3%09Mystical%20Dispute%0A2%09Pieces%20of%20the%20Puzzle%0A1%09Shenanigans)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Baral,%20Chief%20of%20Compliance%0A4%09Desperate%20Ritual%0A1%09Fiery%20Islet%0A4%09Gifts%20Ungiven%0A3%09Goblin%20Electromancer%0A3%09Grapeshot%0A2%09Island%0A4%09Manamorphose%0A1%09Mountain%0A3%09Opt%0A2%09Past%20in%20Flames%0A4%09Pyretic%20Ritual%0A3%09Remand%0A1%09Repeal%0A4%09Serum%20Visions%0A4%09Shivan%20Reef%0A3%09Sleight%20of%20Hand%0A2%09Snow-Covered%20Island%0A4%09Spirebluff%20Canal%0A4%09Steam%20Vents&deckside=1%09Abrade%0A3%09Aria%20of%20Flame%0A2%09Empty%20the%20Warrens%0A3%09Lightning%20Bolt%0A3%09Mystical%20Dispute%0A2%09Pieces%20of%20the%20Puzzle%0A1%09Shenanigans)
 # Maindeck
 
 |                                             Creature (7)                                              |                                        Instant (23)                                        |                                           Land (18)                                            |                                       Sorcery (12)                                        |
@@ -17,10 +17,10 @@
 
 # Sideboard
 
-|                                     Enchantment (2)                                      |                                         Instant (8)                                         |                                           Sorcery (5)                                           |
+|                                     Enchantment (3)                                      |                                         Instant (7)                                         |                                           Sorcery (5)                                           |
 |------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|2 [Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)|1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)          |2 [Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)   |
-|                                                                                          |4 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)     |2 [Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|
+|3 [Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)|1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)          |2 [Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)   |
+|                                                                                          |3 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)     |2 [Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|
 |                                                                                          |3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|1 [Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)         |
 
 
@@ -28,7 +28,7 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                 |                    3|[Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)    |
+|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                 |                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)      |
 |                    1|[Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)   |                    1|[Fact or Fiction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405223)  |
 |                    1|[Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)     |
 |                    4|[Goblin Electromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405244)|                    2|[Fact or Fiction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405223)  |

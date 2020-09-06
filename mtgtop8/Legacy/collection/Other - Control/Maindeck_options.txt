@@ -7,34 +7,34 @@
 3 Snow-Covered Island
 4 Scalding Tarn
 4 Snow-Covered Island
-1 Grove of the Burnwillows
 1 Klothys, God of Destiny
-1 Jace, the Mind Sculptor
 1 Engineered Explosives
 1 Flusterstorm
 1 Mystic Sanctuary
+1 Jace, the Mind Sculptor
 1 Pyroblast
 1 Counterspell
 1 Punishing Fire
+1 Grove of the Burnwillows
 1 Dack Fayden
 1 Lonely Sandbar
 1 Wooded Foothills
 1 Sylvan Library
 1 Astrolabe
 1 Academy Ruins
-2 Grove of the Burnwillows
-2 Snow-Covered Forest
 2 Engineered Explosives
 2 Punishing Fire
 2 Wooded Foothills
 2 Dack Fayden
+2 Grove of the Burnwillows
 2 Astrolabe
-3 Grove of the Burnwillows
+2 Snow-Covered Forest
 3 Narset, Parter of Veils
 3 Tropical Island
 3 Punishing Fire
 3 Astrolabe
 3 Dack Fayden
+3 Grove of the Burnwillows
 4 Ice-Fang Coatl
 4 Astrolabe
 1 Castle Locthwain
@@ -95,6 +95,7 @@
 4 Hymn to Tourach
 5 Swamp
 6 Swamp
+1 Fiery Islet
 1 Flooded Strand
 1 Chandra, Acolyte of Flame
 1 Abrade
@@ -105,43 +106,42 @@
 1 Retrofitter Foundry
 1 Vapor Snag
 1 Polluted Delta
-1 Fiery Islet
+2 Snow-Covered Mountain
 2 Ral Zarek
 2 Retrofitter Foundry
 2 Stasis
 2 Prismatic Vista
-2 Snow-Covered Mountain
 3 Retrofitter Foundry
 3 Ral Zarek
 3 Snapcaster Mage
 3 Stasis
 4 Retrofitter Foundry
 5 Snow-Covered Island
+1 City of Traitors
 1 Snow-Covered Swamp
 1 Ancient Tomb
-1 Trinisphere
-1 Helm of Obedience
 1 Leyline of the Void
 1 Curse of Misfortunes
 1 Curse of Fool's Wisdom
+1 Trinisphere
+1 Helm of Obedience
 1 Chrome Mox
 1 Curse of Death's Hold
 1 Cruel Reality
-1 City of Traitors
 1 Karn, the Great Creator
 1 Overwhelming Splendor
 1 Chalice of the Void
+2 City of Traitors
 2 Snow-Covered Swamp
 2 Ancient Tomb
-2 Trinisphere
 2 Leyline of the Void
+2 Trinisphere
 2 Karn, the Great Creator
 2 Curse of Misfortunes
 2 Chrome Mox
-2 City of Traitors
 2 Chalice of the Void
-3 Leyline of the Void
 3 Ancient Tomb
+3 Leyline of the Void
 3 Chalice of the Void
 3 City of Traitors
 3 Karn, the Great Creator
@@ -150,14 +150,14 @@
 3 Curse of Misfortunes
 3 Chrome Mox
 4 Chrome Mox
-4 Leyline of the Void
+4 Ancient Tomb
 4 Chalice of the Void
 4 Eliminate
 4 City of Traitors
 4 Curse of Misfortunes
 4 Trinisphere
 4 Snow-Covered Swamp
-4 Ancient Tomb
+4 Leyline of the Void
 4 Karn, the Great Creator
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
