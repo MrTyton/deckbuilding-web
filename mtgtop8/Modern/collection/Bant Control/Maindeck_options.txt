@@ -1,34 +1,37 @@
 2 Hallowed Fountain
-1 Oboro, Palace in the Clouds
-1 Prairie Stream
-1 Aether Gust
-4 Uro, Titan of Nature's Wrath
+2 Jace, the Mind Sculptor
+1 Snapcaster Mage
+2 Teferi, Hero of Dominaria
 1 Shark Typhoon
+2 Aether Gust
+4 Uro, Titan of Nature's Wrath
+1 Seaside Citadel
+1 Wall of Omens
 2 Snow-Covered Forest
+1 Batterskull
+1 Stoneforge Mystic
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+4 Stoneforge Mystic
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
 3 Snow-Covered Island
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
-1 Batterskull
-1 Stoneforge Mystic
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-2 Aether Gust
-4 Stoneforge Mystic
-1 Prismatic Vista
-3 Snow-Covered Forest
-1 Sword of Fire and Ice
 1 Windswept Heath
+3 Snow-Covered Forest
+1 Prismatic Vista
+1 Sword of Fire and Ice
+2 Shark Typhoon
+1 Wall of Blossoms
+2 Wall of Omens
 2 Windswept Heath
 1 Sword of Feast and Famine
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
-1 Seaside Citadel
-1 Wall of Omens
-2 Wall of Omens
+4 Teferi, Time Raveler
 2 Prismatic Vista
 3 Prismatic Vista
 4 Prismatic Vista
@@ -36,21 +39,25 @@
 2 Spell Queller
 2 Snow-Covered Plains
 3 Spell Queller
-4 Snow-Covered Island
-5 Snow-Covered Island
 1 Engineered Explosives
-2 Shark Typhoon
 2 Temple Garden
-4 Teferi, Time Raveler
 3 Windswept Heath
 4 Windswept Heath
-1 Wall of Blossoms
 2 Wall of Blossoms
-4 Force of Negation
 2 Hour of Promise
+4 Force of Negation
+4 Cryptic Command
 1 Questing Beast
 4 Spell Queller
-1 Ketria Triome
+4 Snow-Covered Island
+5 Snow-Covered Island
+1 Wilderness Reclamation
+1 Nexus of Fate
+1 Fact or Fiction
+2 Wilderness Reclamation
+2 Fact or Fiction
+3 Mystic Sanctuary
+3 Fact or Fiction
 1 Waterlogged Grove
 1 Horizon Canopy
 1 Birds of Paradise
@@ -68,8 +75,6 @@
 4 Karn, the Great Creator
 4 Mwonvuli Acid-Moss
 4 Utopia Sprawl
-1 Archmage's Charm
-2 Archmage's Charm
 1 Ephemerate
 1 Venser, Shaper Savant
 1 Time Warp
@@ -85,7 +90,6 @@
 3 Coiling Oracle
 3 Aether Vial
 4 Coiling Oracle
-4 Cryptic Command
 4 Aether Vial
 4 Eternal Witness
 4 Ephemerate
@@ -122,6 +126,8 @@
 4 Engineered Explosives
 4 Mox Amber
 4 Springleaf Drum
+1 Elder Gargaroth
+1 Brazen Borrower
 1 Gilded Goose
 2 Gilded Goose
 3 Wall of Omens
@@ -138,30 +144,17 @@
 3 Shark Typhoon
 3 Spell Pierce
 3 Serum Visions
-1 Raugrin Triome
-1 Lightning Bolt
-1 Arcum's Astrolabe
-1 Lightning Helix
-1 Wrenn and Six
-1 Steam Vents
+1 Explore
 2 Supreme Verdict
-2 Arcum's Astrolabe
-2 Lightning Bolt
-2 Wrenn and Six
-2 Lightning Helix
-3 Arcum's Astrolabe
-4 Arcum's Astrolabe
-1 Wilderness Reclamation
-1 Nexus of Fate
+2 Polluted Delta
+3 Supreme Verdict
+4 Fact or Fiction
 1 Opt
-1 Fact or Fiction
-2 Wilderness Reclamation
-2 Fact or Fiction
+1 Archmage's Charm
+2 Archmage's Charm
 2 Opt
-3 Mystic Sanctuary
 3 Wilderness Reclamation
 3 Archmage's Charm
-3 Fact or Fiction
 3 Opt
 4 Opt
 1 Ghost Quarter
@@ -191,5 +184,6 @@
 4 Oath of Nissa
 4 Arbor Elf
 5 Snow-Covered Forest
+1 Ketria Triome
 3 Aether Gust
 4 Aether Gust

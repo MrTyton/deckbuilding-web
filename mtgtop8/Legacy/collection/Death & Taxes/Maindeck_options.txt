@@ -1,31 +1,30 @@
-5 Snow-Covered Plains
-10 Plains
+9 Plains
 1 Ancient Tomb
 2 Ancient Tomb
-11 Plains
+10 Plains
+1 Thalia, Heretic Cathar
 1 Mishra's Factory
 6 Snow-Covered Plains
+11 Plains
+1 Spirit of the Labyrinth
+4 Phyrexian Revoker
 2 Mirran Crusader
 12 Plains
-4 Phyrexian Revoker
-1 Spirit of the Labyrinth
-1 Thalia, Heretic Cathar
-2 Sanctum Prelate
 1 Tomik, Distinguished Advokist
-1 Silent Clearing
-1 Castle Ardenvale
 2 Palace Jailer
-13 Plains
+1 Silent Clearing
+2 Sanctum Prelate
+1 Castle Ardenvale
 1 Cavern of Souls
 2 Cavern of Souls
 2 Tomik, Distinguished Advokist
 1 Charming Prince
-1 Marsh Flats
 1 Robber of the Rich
 1 Plateau
 1 Arid Mesa
 1 Magus of the Moon
 1 Pia and Kiran Nalaar
+1 Marsh Flats
 1 Pia Nalaar
 2 Robber of the Rich
 2 Arid Mesa
@@ -34,11 +33,6 @@
 2 Plateau
 3 Cavern of Souls
 3 Recruiter of the Guard
-1 Council's Judgment
-1 Ethersworn Canonist
-2 Ethersworn Canonist
-3 Ethersworn Canonist
-3 Sanctum Prelate
 1 Serra Avenger
 1 Land Tax
 1 Squadron Hawk
@@ -53,13 +47,13 @@
 4 Squadron Hawk
 4 Force of Virtue
 1 Volrath's Stronghold
-1 Scrubland
+1 Ghost Quarter
 1 Leonin Arbiter
 1 Eldrazi Displacer
 1 Mesmeric Fiend
 1 Swamp
+1 Scrubland
 1 Eldrazi Temple
-1 Ghost Quarter
 1 Wasteland Strangler
 2 Ghost Quarter
 2 Leonin Arbiter
@@ -84,6 +78,9 @@
 4 Leonin Arbiter
 4 Ghost Quarter
 4 Wasteland Strangler
-14 Plains
-15 Plains
-16 Plains
+1 Council's Judgment
+1 Ethersworn Canonist
+2 Ethersworn Canonist
+3 Ethersworn Canonist
+3 Sanctum Prelate
+13 Plains

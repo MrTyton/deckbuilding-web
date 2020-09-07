@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
-|                    1|[Ashiok, Nightmare Muse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476459)|                    1|[Notion Thief](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442200)            |
+|                    1|[Ashiok, Nightmare Muse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476459)|                    1|[Ashiok, Nightmare Weaver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373500)|
 |                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)      |                    2|[Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|
 |                    1|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)           |                    3|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)    |
-|                     |                                                                                                 |                    1|[Ashiok, Nightmare Weaver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373500)|
+|                     |                                                                                                 |                    1|[Notion Thief](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442200)            |
 
