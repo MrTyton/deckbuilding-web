@@ -7,12 +7,12 @@
 4 Risen Reef
 4 Tranquil Cove
 4 Imposing Vantasaur
-4 Thornwood Falls
-4 Cloudkin Seer
-4 Fierce Empath
-4 Omen of the Sea
-4 Blossoming Sands
 4 Witching Well
+4 Fierce Empath
+4 Thornwood Falls
+4 Omen of the Sea
+4 Cloudkin Seer
+4 Blossoming Sands
 5 Island
 6 Island
 7 Island
@@ -48,28 +48,6 @@
 2 Stonecoil Serpent
 3 Stonecoil Serpent
 4 Stonecoil Serpent
-1 Questing Beast
-1 Lurrus of the Dream-Den
-1 Bronzehide Lion
-1 Primal Might
-1 Lovestruck Beast
-1 Gideon Blackblade
-1 Gemrazer
-2 Questing Beast
-2 Lurrus of the Dream-Den
-2 Bronzehide Lion
-2 Lovestruck Beast
-2 Primal Might
-2 Gideon Blackblade
-3 Questing Beast
-3 Lurrus of the Dream-Den
-3 Primal Might
-3 Lovestruck Beast
-3 Scavenging Ooze
-3 Bronzehide Lion
-4 Questing Beast
-4 Lovestruck Beast
-4 Bronzehide Lion
 1 Basri Ket
 1 Unbreakable Formation
 1 Wildwood Scourge
@@ -89,43 +67,65 @@
 3 Venerated Loxodon
 3 Huatli's Raptor
 4 Conclave Mentor
+4 Basri Ket
 4 Wildwood Scourge
 4 Venerated Loxodon
 4 Huatli's Raptor
-4 Basri Ket
+1 Questing Beast
+1 Lurrus of the Dream-Den
+1 Primal Might
+1 Lovestruck Beast
+1 Gideon Blackblade
+1 Gemrazer
+1 Bronzehide Lion
+2 Questing Beast
+2 Lurrus of the Dream-Den
+2 Lovestruck Beast
+2 Primal Might
+2 Bronzehide Lion
+2 Gideon Blackblade
+3 Questing Beast
+3 Lurrus of the Dream-Den
+3 Primal Might
+3 Lovestruck Beast
+3 Scavenging Ooze
+3 Bronzehide Lion
+4 Questing Beast
+4 Lovestruck Beast
+4 Bronzehide Lion
 1 Castle Ardenvale
-1 Season of Growth
 1 Gingerbrute
-1 Setessan Training
 1 All That Glitters
 1 Alseid of Life's Bounty
+1 Karametra's Blessing
 1 Solid Footing
 1 Glaring Aegis
-1 Karametra's Blessing
 1 Sentinel's Eyes
-2 Season of Growth
+1 Season of Growth
+1 Setessan Training
 2 Gingerbrute
-2 Setessan Training
 2 All That Glitters
-2 Karametra's Blessing
-2 Solid Footing
 2 Glaring Aegis
+2 Solid Footing
+2 Karametra's Blessing
 2 Sentinel's Eyes
 2 Castle Ardenvale
 2 Alseid of Life's Bounty
-3 Season of Growth
+2 Season of Growth
+2 Setessan Training
 3 All That Glitters
-3 Sentinel's Eyes
 3 Karametra's Blessing
-3 Setessan Training
+3 Sentinel's Eyes
 3 Gingerbrute
 3 Alseid of Life's Bounty
+3 Setessan Training
+3 Season of Growth
 4 Alseid of Life's Bounty
-4 Season of Growth
-4 All That Glitters
-4 Karametra's Blessing
 4 Sentinel's Eyes
+4 Karametra's Blessing
+4 All That Glitters
 4 Gingerbrute
+4 Season of Growth
 9 Plains
 10 Plains
 11 Plains

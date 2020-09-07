@@ -23,8 +23,8 @@
 1 Manamorphose
 1 Bedlam Reveler
 2 Crash Through
-2 Manamorphose
 2 Bedlam Reveler
+2 Manamorphose
 3 Crash Through
 3 Manamorphose
 4 Manamorphose
@@ -45,10 +45,10 @@
 1 Chandra's Incinerator
 2 Chandra's Incinerator
 2 Seal of Fire
-3 Chandra's Incinerator
 3 Seal of Fire
-4 Chandra's Incinerator
+3 Chandra's Incinerator
 4 Seal of Fire
+4 Chandra's Incinerator
 1 Bonecrusher Giant
 1 Mishra's Bauble
 1 Burst Lightning
@@ -59,8 +59,8 @@
 1 Blistercoil Weird
 2 Blistercoil Weird
 2 Bonecrusher Giant
-3 Bonecrusher Giant
 3 Firebolt
+3 Bonecrusher Giant
 3 Blistercoil Weird
 4 Firebolt
 4 Bonecrusher Giant
@@ -93,6 +93,10 @@
 4 Lightning Helix
 1 Flame Slash
 2 Flame Slash
+1 Bomat Courier
+2 Bomat Courier
+3 Bomat Courier
+4 Bomat Courier
 1 Mutagenic Growth
 1 Temur Battle Rage
 2 Mutagenic Growth
@@ -109,10 +113,6 @@
 1 Wild Slash
 2 Wild Slash
 4 Bedlam Reveler
-1 Bomat Courier
-2 Bomat Courier
-3 Bomat Courier
-4 Bomat Courier
 3 Bloodstained Mire
 4 Bloodstained Mire
 4 Snow-Covered Mountain

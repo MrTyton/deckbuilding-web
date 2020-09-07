@@ -98,8 +98,8 @@
 1 Temple Garden
 1 Overgrown Tomb
 1 Vraska, Golgari Queen
-1 Elspeth Conquers Death
 1 Garruk, Cursed Huntsman
+1 Elspeth Conquers Death
 1 Solemn Simulacrum
 1 Basri's Lieutenant
 1 Revival / Revenge
@@ -124,9 +124,9 @@
 3 Temple Garden
 3 Elspeth Conquers Death
 3 Basri's Lieutenant
-3 Vito, Thorn of the Dusk Rose
 3 Llanowar Visionary
 3 Revival / Revenge
+3 Vito, Thorn of the Dusk Rose
 3 Gilded Goose
 4 Overgrown Tomb
 4 Indatha Triome
@@ -197,21 +197,21 @@
 4 Sacred Foundry
 4 Plains
 1 Boon of the Wish-Giver
-1 Imposing Vantasaur
 1 Startling Development
 1 Hallowed Fountain
 1 Flourishing Fox
 1 Drannith Stinger
 1 Unpredictable Cyclone
+1 Imposing Vantasaur
 1 Valiant Rescuer
 1 Inspired Ultimatum
 1 Drannith Healer
 1 Zenith Flare
 1 Raugrin Triome
-2 Raugrin Triome
 2 Boon of the Wish-Giver
-2 Imposing Vantasaur
+2 Raugrin Triome
 2 Drannith Stinger
+2 Imposing Vantasaur
 2 Valiant Rescuer
 2 Drannith Healer
 2 Zenith Flare
@@ -279,12 +279,12 @@
 1 Castle Embereth
 1 Selfless Savior
 1 Seasoned Hallowblade
-1 Pack Leader
+1 Alpine Watchdog
+1 Alpine Houndmaster
 1 Igneous Cur
 1 Bolt Hound
-1 Alpine Houndmaster
-1 Alpine Watchdog
 1 Gingerbrute
+1 Pack Leader
 1 Tajic, Legion's Edge
 2 Winota, Joiner of Forces
 2 Castle Embereth
@@ -292,22 +292,22 @@
 2 Seasoned Hallowblade
 2 Pack Leader
 2 Embercleave
-2 Igneous Cur
-2 Bolt Hound
-2 Gingerbrute
-2 Alpine Watchdog
 2 Alpine Houndmaster
-2 Tajic, Legion's Edge
+2 Alpine Watchdog
+2 Igneous Cur
+2 Gingerbrute
+2 Bolt Hound
 2 Temple of Triumph
+2 Tajic, Legion's Edge
+3 Tajic, Legion's Edge
 3 Temple of Triumph
 3 Seasoned Hallowblade
 3 Pack Leader
+3 Alpine Houndmaster
 3 Selfless Savior
+3 Gingerbrute
 3 Embercleave
 3 Bolt Hound
-3 Alpine Houndmaster
-3 Gingerbrute
-3 Tajic, Legion's Edge
 4 Temple of Triumph
 4 Seasoned Hallowblade
 4 Pack Leader
@@ -345,11 +345,11 @@
 3 Knight of the Ebon Legion
 3 Biomancer's Familiar
 4 Neoform
+4 Casualties of War
 4 Thirsting Shade
 4 Vampire Opportunist
 4 Knight of the Ebon Legion
 4 Biomancer's Familiar
-4 Casualties of War
 8 Swamp
 1 Arboreal Grazer
 1 Chandra, Awakened Inferno

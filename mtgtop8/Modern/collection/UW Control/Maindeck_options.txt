@@ -33,17 +33,17 @@
 3 Polluted Delta
 3 Terminus
 4 Terminus
+1 Remand
+1 Spell Queller
 1 Wall of Omens
 1 Restoration Angel
 1 Fact or Fiction
-1 Spell Queller
-1 Remand
+2 Spell Queller
+2 Remand
 2 Wall of Omens
 2 Restoration Angel
-2 Remand
-2 Spell Queller
-3 Restoration Angel
 3 Spell Queller
+3 Restoration Angel
 3 Wall of Omens
 1 Brazen Borrower
 2 Scalding Tarn
@@ -63,11 +63,11 @@
 1 Omen of the Sea
 2 Omen of the Sea
 1 Entreat the Angels
-1 Teferi, Master of Time
 1 Dismember
+1 Teferi, Master of Time
 1 Narset, Parter of Veils
-2 Narset, Parter of Veils
 2 Vendilion Clique
+2 Narset, Parter of Veils
 3 Celestial Colonnade
 1 God-Eternal Kefnet
 1 Monastery Mentor
@@ -83,9 +83,12 @@
 1 Crucible of Worlds
 1 Dovin's Veto
 4 Archmage's Charm
+1 Condemn
+1 Blessed Alliance
+6 Island
+1 Deprive
 1 Cast Out
 1 Mazemind Tome
-1 Deprive
 1 Porphyry Nodes
 1 Thirst for Knowledge
 2 Mazemind Tome
@@ -94,12 +97,9 @@
 3 Omen of the Sea
 3 Mazemind Tome
 3 Thirst for Knowledge
-4 Force of Negation
 4 Omen of the Sea
+4 Force of Negation
 4 Thirst for Knowledge
 4 Mazemind Tome
 4 Polluted Delta
 4 Jace, the Mind Sculptor
-1 Condemn
-1 Blessed Alliance
-6 Island

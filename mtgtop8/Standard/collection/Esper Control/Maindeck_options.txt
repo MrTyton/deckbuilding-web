@@ -65,17 +65,16 @@
 1 Time Wipe
 1 Banishing Light
 1 Mythos of Illuna
-1 Teferi's Ageless Insight
 1 Elite Guardmage
 1 Tranquil Cove
 1 Ominous Seas
 1 Thief of Sanity
+1 Teferi's Ageless Insight
 1 Merfolk Secretkeeper
 1 Conclave Tribunal
 1 Teferi's Tutelage
 1 Thassa, Deep-Dwelling
 1 Ashiok, Dream Render
-1 Cloudkin Seer
 1 Realm-Cloaked Giant
 1 Unexplained Vision
 1 Gyruda, Doom of Depths
@@ -83,6 +82,7 @@
 1 Arrester's Admonition
 1 Dismal Backwater
 1 Precognitive Perception
+1 Cloudkin Seer
 1 Folio of Fancies
 1 Mu Yanling, Sky Dancer
 1 Sage of Mysteries
@@ -90,11 +90,11 @@
 2 Mythos of Illuna
 2 Tranquil Cove
 2 Ominous Seas
+2 Teferi's Ageless Insight
 2 Merfolk Secretkeeper
 2 Dream Trawler
 2 Conclave Tribunal
 2 Dismal Backwater
-2 Teferi's Ageless Insight
 2 Sage of Mysteries
 2 Arrester's Admonition
 2 Teferi's Tutelage
@@ -105,9 +105,9 @@
 3 Conclave Tribunal
 3 Dismal Backwater
 4 Dream Trawler
+4 Conclave Tribunal
 4 Merfolk Secretkeeper
 4 Tranquil Cove
-4 Conclave Tribunal
 4 Dismal Backwater
 5 Plains
 5 Island
@@ -121,6 +121,11 @@
 2 Charming Prince
 2 Archon of Sun's Grace
 3 Charming Prince
+1 Atris, Oracle of Half-Truths
+1 Solemn Simulacrum
+1 Kaya, Orzhov Usurper
+2 Atris, Oracle of Half-Truths
+4 Extinction Event
 1 Duress
 1 Golden Egg
 2 Duress
@@ -134,11 +139,6 @@
 3 Teferi, Master of Time
 3 Heartless Act
 4 Interplanar Beacon
-1 Atris, Oracle of Half-Truths
-1 Solemn Simulacrum
-1 Kaya, Orzhov Usurper
-2 Atris, Oracle of Half-Truths
-4 Extinction Event
 1 Mythos of Nethroi
 1 Indatha Triome
 1 The Wanderer

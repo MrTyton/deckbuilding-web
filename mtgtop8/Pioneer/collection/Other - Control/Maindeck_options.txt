@@ -16,27 +16,27 @@
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
-1 Thing in the Ice
 1 Cling to Dust
 1 Geier Reach Sanitarium
+1 Choked Estuary
 1 Fetid Pools
+1 Hero's Downfall
 1 Kalitas, Traitor of Ghet
 1 Day's Undoing
+1 Thing in the Ice
 1 Ashiok, Nightmare Muse
-1 Choked Estuary
 1 Heartless Act
-1 Hero's Downfall
 2 Thing in the Ice
-2 Fetid Pools
 2 Choked Estuary
+2 Fetid Pools
 2 Heartless Act
 3 Thing in the Ice
-3 Fetid Pools
 3 Dig Through Time
+3 Fetid Pools
 4 Dig Through Time
 4 Drowned Catacomb
-3 Sublime Epiphany
 3 Castle Vantress
+3 Sublime Epiphany
 4 Shark Typhoon
 4 Temple of Mystery
 3 Hinterland Harbor
@@ -145,19 +145,19 @@
 4 Nicol Bolas, the Ravager
 4 Discovery / Dispersal
 1 Liliana, Waker of the Dead
-1 Collective Brutality
 1 Field of Ruin
 1 Kolaghan's Command
 1 Davriel, Rogue Shadowmage
 1 Waste Not
+1 Collective Brutality
 1 Hazoret the Fervent
-2 Collective Brutality
 2 Field of Ruin
 2 Liliana, Waker of the Dead
 2 Davriel, Rogue Shadowmage
 2 Hazoret the Fervent
 2 Kolaghan's Command
 2 Mountain
+2 Collective Brutality
 2 Waste Not
 3 Castle Locthwain
 3 Eliminate
@@ -171,7 +171,6 @@
 4 Liliana, Waker of the Dead
 4 Castle Locthwain
 4 Waste Not
-1 Tasigur, the Golden Fang
 1 Grapple with the Past
 1 Eldritch Evolution
 1 Elvish Rejuvenator
@@ -193,13 +192,14 @@
 1 Satyr Wayfinder
 1 Yavimaya Coast
 1 Blooming Marsh
+1 Tasigur, the Golden Fang
 1 Agent of Treachery
-2 Tasigur, the Golden Fang
 2 Grapple with the Past
 2 Eldritch Evolution
 2 Elvish Rejuvenator
 2 Arboreal Grazer
 2 Overgrown Tomb
+2 Tasigur, the Golden Fang
 2 Neoform
 2 Satyr Wayfinder
 2 Blooming Marsh
@@ -227,6 +227,7 @@
 1 Temple of Enlightenment
 1 Temple of Epiphany
 1 Temple of Triumph
+1 Jace, Vryn's Prodigy
 1 Izzet Charm
 1 Collective Defiance
 1 Settle the Wreckage
@@ -234,7 +235,6 @@
 1 Steam Vents
 1 Hallowed Fountain
 1 Dream Trawler
-1 Jace, Vryn's Prodigy
 1 Supreme Verdict
 1 Karn, the Great Creator
 1 Anger of the Gods
@@ -253,9 +253,9 @@
 2 Commit / Memory
 2 Hallowed Fountain
 2 Raugrin Triome
+3 Anger of the Gods
 3 Sulfur Falls
 3 Izzet Charm
-3 Anger of the Gods
 3 Commit / Memory
 3 Teferi, Time Raveler
 3 Hallowed Fountain

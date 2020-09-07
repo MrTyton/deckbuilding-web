@@ -1,6 +1,6 @@
 1 Dreadbore
-2 Savai Triome
 2 Dragonskull Summit
+2 Savai Triome
 2 Liliana, the Last Hope
 2 Mazemind Tome
 2 Glorybringer
@@ -10,8 +10,8 @@
 2 Dreadbore
 3 Dragonskull Summit
 3 Kroxa, Titan of Death's Hunger
-3 Glorybringer
 3 Sorin, Vengeful Bloodlord
+3 Glorybringer
 3 Savai Triome
 3 Dreadbore
 4 Dragonskull Summit
@@ -134,18 +134,18 @@
 4 The Birth of Meletis
 4 Supreme Verdict
 1 Temple of Epiphany
-1 Geier Reach Sanitarium
 1 Fae of Wishes
 1 Detention Sphere
 1 Castle Vantress
 1 Chained to the Rocks
 1 Deafening Clarion
+1 Geier Reach Sanitarium
 2 Castle Vantress
 2 Castle Ardenvale
 2 Fae of Wishes
 2 Detention Sphere
-2 Chained to the Rocks
 2 Deafening Clarion
+2 Chained to the Rocks
 2 Yorion, Sky Nomad
 3 Fae of Wishes
 3 Elspeth Conquers Death
@@ -259,9 +259,9 @@
 3 Murderous Rider
 1 Day's Undoing
 1 Hydroid Krasis
+1 Languish
 1 Assassin's Trophy
 1 Silumgar's Command
-1 Languish
 1 Opulent Palace
 1 Nissa, Who Shakes the World
 1 Elder Gargaroth
@@ -292,9 +292,9 @@
 4 Priest of Forgotten Gods
 1 Ketria Triome
 1 Klothys, God of Destiny
+1 Siege Rhino
 1 Radha, Heart of Keld
 1 Chevill, Bane of Monsters
-1 Siege Rhino
 1 Arlinn Kord
 1 Niv-Mizzet Reborn
 1 Drowned Catacomb
@@ -352,16 +352,16 @@
 2 Rally the Ancestors
 3 Archfiend's Vessel
 3 Cruel Celebrant
-3 Fiend Artisan
 3 Cartel Aristocrat
 3 Blisterpod
 3 Concealed Courtyard
+3 Fiend Artisan
 3 Return to the Ranks
 3 Zulaport Cutthroat
 4 Temple Garden
-4 Fiend Artisan
 4 Cartel Aristocrat
 4 Return to the Ranks
+4 Fiend Artisan
 4 Concealed Courtyard
 1 Spirebluff Canal
 1 Izzet Charm
@@ -417,8 +417,8 @@
 4 Aether Hub
 4 Attune with Aether
 1 Blossoming Defense
-1 Collision/Colossus
 1 Ranger's Guile
+1 Collision/Colossus
 1 Ghor-Clan Rampager
 1 Longtusk Cub
 1 Voltaic Brawler
@@ -427,8 +427,8 @@
 1 Harnessed Lightning
 1 Bristling Hydra
 2 Blossoming Defense
-2 Collision/Colossus
 2 Ranger's Guile
+2 Collision/Colossus
 2 Bristling Hydra
 2 Ghor-Clan Rampager
 2 Voltaic Brawler
@@ -492,8 +492,8 @@
 1 Soul-Guide Lantern
 1 Tamiyo, Collector of Tales
 1 Arboreal Grazer
-1 Emrakul, the Promised End
 1 Heartless Act
+1 Emrakul, the Promised End
 1 Cultivate
 1 Oath of Nissa
 1 Shrine of the Forsaken Gods
@@ -533,6 +533,7 @@
 1 Emry, Lurker of the Loch
 1 Song of Creation
 1 Void Snare
+2 Thassa's Oracle
 2 Springleaf Drum
 2 Mox Amber
 2 Kinnan, Bonder Prodigy
@@ -541,7 +542,6 @@
 2 Void Snare
 2 Westvale Abbey
 2 Song of Creation
-2 Thassa's Oracle
 2 Spire of Industry
 2 Ornithopter
 2 Yavimaya Coast
@@ -610,13 +610,13 @@
 4 Elvish Mystic
 4 Eldritch Evolution
 4 Llanowar Elves
-1 Breaking/Entering
 1 Prized Amalgam
-1 Brokkos, Apex of Forever
+1 Breaking/Entering
 1 Merfolk Secretkeeper
 1 Silversmote Ghoul
 1 Creeping Chill
 1 Deathrite Shaman
+1 Brokkos, Apex of Forever
 2 Creeping Chill
 2 Prized Amalgam
 2 Merfolk Secretkeeper
@@ -714,8 +714,8 @@
 4 Spell Queller
 4 Lofty Denial
 1 Mortify
-1 History of Benalia
 1 Kalitas, Traitor of Ghet
+1 History of Benalia
 1 Knight of the White Orchid
 1 Dawn of Hope
 1 Eliminate
@@ -756,41 +756,41 @@
 4 Adanto Vanguard
 5 Plains
 6 Plains
-1 Steel Leaf Champion
 1 Hashep Oasis
+1 Gemrazer
 1 Yorvo, Lord of Garenbrig
+1 Primal Might
+1 Steel Leaf Champion
+1 Castle Garenbrig
 1 Avatar of the Resolute
 1 Barkhide Troll
-1 Gemrazer
-1 Primal Might
-1 Castle Garenbrig
 1 Pelt Collector
 1 Experiment One
-2 Steel Leaf Champion
 2 Hashep Oasis
-2 Barkhide Troll
-2 Avatar of the Resolute
+2 Primal Might
 2 Yorvo, Lord of Garenbrig
 2 Gemrazer
-2 Primal Might
+2 Steel Leaf Champion
+2 Avatar of the Resolute
+2 Barkhide Troll
 2 Pelt Collector
 2 Experiment One
-3 Steel Leaf Champion
-3 Barkhide Troll
-3 Yorvo, Lord of Garenbrig
-3 Avatar of the Resolute
-3 Hashep Oasis
 3 Primal Might
 3 Gemrazer
+3 Yorvo, Lord of Garenbrig
 3 Pelt Collector
+3 Avatar of the Resolute
+3 Barkhide Troll
 3 Experiment One
-4 Steel Leaf Champion
-4 Avatar of the Resolute
-4 Hashep Oasis
+3 Hashep Oasis
+3 Steel Leaf Champion
 4 Primal Might
 4 Barkhide Troll
+4 Avatar of the Resolute
+4 Hashep Oasis
 4 Pelt Collector
 4 Experiment One
+4 Steel Leaf Champion
 6 Forest
 7 Forest
 8 Forest
@@ -824,11 +824,11 @@
 3 Fire Prophecy
 3 Forbidden Friendship
 3 Chandra, Acolyte of Flame
-3 Saheeli, Sublime Artificer
 3 Abrade
 3 Pirate's Pillage
 3 Indomitable Creativity
 3 Dwarven Mine
+3 Saheeli, Sublime Artificer
 4 Terror of the Peaks
 4 Fire Prophecy
 4 Forbidden Friendship
