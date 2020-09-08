@@ -17,22 +17,22 @@
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
 1 Cling to Dust
-1 Thing in the Ice
 1 Geier Reach Sanitarium
 1 Choked Estuary
 1 Hero's Downfall
 1 Fetid Pools
+1 Thing in the Ice
 1 Kalitas, Traitor of Ghet
 1 Day's Undoing
 1 Ashiok, Nightmare Muse
 1 Heartless Act
-2 Thing in the Ice
 2 Choked Estuary
 2 Fetid Pools
 2 Heartless Act
-3 Thing in the Ice
+2 Thing in the Ice
 3 Fetid Pools
 3 Dig Through Time
+3 Thing in the Ice
 4 Dig Through Time
 4 Drowned Catacomb
 3 Sublime Epiphany
@@ -53,13 +53,13 @@
 1 Flicker of Fate
 1 Oath of Kaya
 1 Godless Shrine
+1 Elspeth Conquers Death
 1 Concealed Courtyard
 1 Kaya's Wrath
 1 Doom Foretold
 1 Temple of Silence
 1 Trial of Ambition
 1 The Birth of Meletis
-1 Elspeth Conquers Death
 1 Isolated Chapel
 1 Yorion, Sky Nomad
 1 Arch of Orazca
@@ -128,16 +128,16 @@
 3 Blast Zone
 1 Dreadbore
 1 Nicol Bolas, the Ravager
-1 The Royal Scions
 1 Chart a Course
+1 The Royal Scions
 1 Bonecrusher Giant
 1 Discovery / Dispersal
 2 Dreadbore
 2 Nicol Bolas, the Ravager
+2 Chart a Course
 2 The Royal Scions
 2 Discovery / Dispersal
 2 Bonecrusher Giant
-2 Chart a Course
 3 Dreadbore
 3 Nicol Bolas, the Ravager
 3 Murderous Rider
@@ -145,23 +145,23 @@
 4 Nicol Bolas, the Ravager
 4 Discovery / Dispersal
 1 Field of Ruin
+1 Hazoret the Fervent
+1 Collective Brutality
+1 Davriel, Rogue Shadowmage
 1 Liliana, Waker of the Dead
 1 Kolaghan's Command
-1 Davriel, Rogue Shadowmage
 1 Waste Not
-1 Collective Brutality
-1 Hazoret the Fervent
 2 Field of Ruin
 2 Liliana, Waker of the Dead
-2 Collective Brutality
 2 Davriel, Rogue Shadowmage
+2 Collective Brutality
 2 Hazoret the Fervent
 2 Kolaghan's Command
 2 Mountain
 2 Waste Not
-3 Castle Locthwain
 3 Eliminate
 3 Kolaghan's Command
+3 Castle Locthwain
 3 Davriel, Rogue Shadowmage
 3 Liliana, Waker of the Dead
 3 Mountain
@@ -169,8 +169,8 @@
 4 Dragonskull Summit
 4 Swamp
 4 Liliana, Waker of the Dead
-4 Castle Locthwain
 4 Waste Not
+4 Castle Locthwain
 1 Tasigur, the Golden Fang
 1 Grapple with the Past
 1 Elvish Rejuvenator
@@ -178,8 +178,8 @@
 1 Botanical Sanctum
 1 Eldritch Evolution
 1 Hostage Taker
-1 Woodland Bellower
 1 Cavalier of Night
+1 Woodland Bellower
 1 Massacre Girl
 1 Reclamation Sage
 1 Thought-Knot Seer
@@ -218,8 +218,8 @@
 4 Neoform
 4 Arboreal Grazer
 4 Satyr Wayfinder
-1 Sulfur Falls
 1 Glacial Fortress
+1 Sulfur Falls
 1 Wandering Fumarole
 1 Sacred Foundry
 1 Clifftop Retreat
@@ -227,6 +227,7 @@
 1 Temple of Enlightenment
 1 Temple of Epiphany
 1 Temple of Triumph
+1 Supreme Verdict
 1 Izzet Charm
 1 Collective Defiance
 1 Settle the Wreckage
@@ -235,7 +236,6 @@
 1 Hallowed Fountain
 1 Dream Trawler
 1 Jace, Vryn's Prodigy
-1 Supreme Verdict
 1 Karn, the Great Creator
 1 Anger of the Gods
 1 Raugrin Triome
@@ -243,6 +243,7 @@
 2 Sacred Foundry
 2 Temple of Enlightenment
 2 Clifftop Retreat
+2 Izzet Charm
 2 Collective Defiance
 2 Anger of the Gods
 2 Teferi, Time Raveler
@@ -251,22 +252,21 @@
 2 Supreme Verdict
 2 Commit / Memory
 2 Hallowed Fountain
-2 Izzet Charm
 2 Raugrin Triome
 3 Anger of the Gods
 3 Sulfur Falls
+3 Izzet Charm
 3 Collective Defiance
 3 Commit / Memory
-3 Izzet Charm
 3 Teferi, Time Raveler
 3 Hallowed Fountain
 3 Raugrin Triome
 3 Steam Vents
+4 Izzet Charm
 4 Collective Defiance
 4 Raugrin Triome
 4 Hallowed Fountain
 4 Teferi, Time Raveler
-4 Izzet Charm
 4 Steam Vents
 1 Teferi, Master of Time
 1 Lumbering Falls

@@ -4,17 +4,17 @@
 2 Anger of the Gods
 2 Weather the Storm
 1 Dismember
-1 Nature's Claim
-1 Pithing Needle
-1 Surgical Extraction
 1 Thragtusk
+1 Surgical Extraction
+1 Pithing Needle
+1 Nature's Claim
 1 Thought-Knot Seer
 1 Spatial Contortion
-2 Nature's Claim
 2 Surgical Extraction
 2 Spatial Contortion
-3 Knight of Autumn
+2 Nature's Claim
 3 Soul-Guide Lantern
+3 Knight of Autumn
 1 Tireless Tracker
 1 Relic of Progenitus
 1 Obstinate Baloth
@@ -54,31 +54,31 @@
 3 Rest in Peace
 1 Leonin Relic-Warder
 1 Carnage Tyrant
+1 Ramunap Excavator
+1 Seal of Primordium
+1 Crumble to Dust
 1 Pillage
-1 Witchbane Orb
 1 Chalice of the Void
 1 Walking Ballista
 1 Chandra, Awakened Inferno
-1 Goblin Cratermaker
 1 Dragon's Claw
+1 Goblin Cratermaker
+1 Witchbane Orb
 1 Liquimetal Coating
-1 Seal of Primordium
-1 Ramunap Excavator
-1 Crumble to Dust
 1 Bonecrusher Giant
 1 Force of Negation
 2 Bonecrusher Giant
 1 Kaya's Guile
-1 Flaying Tendrils
 1 Feed the Clan
-2 Flaying Tendrils
+1 Flaying Tendrils
 2 Feed the Clan
-1 Claim the Firstborn
+2 Flaying Tendrils
 1 Flame Slash
+1 Claim the Firstborn
 1 Pact of Negation
 1 Pyromancer Ascension
-2 Claim the Firstborn
 2 Flame Slash
+2 Claim the Firstborn
 2 Pyromancer Ascension
 2 Pact of Negation
 1 Sword of Feast and Famine
@@ -88,59 +88,59 @@
 1 Field of the Dead
 2 Force of Vigor
 3 Force of Vigor
-1 Molten Rain
-1 Bedevil
-1 Fatal Push
-1 Infernal Reckoning
-2 Fatal Push
-2 Infernal Reckoning
-2 Bedevil
-3 Fatal Push
-3 Damping Sphere
-1 Chandra, Torch of Defiance
 1 Ratchet Bomb
+1 Chandra, Torch of Defiance
 1 Blood Moon
-1 Fiery Justice
 1 Cindervines
+1 Fiery Justice
 2 Blood Moon
 2 Cindervines
 3 Blood Moon
+1 Bedevil
+1 Fatal Push
+1 Infernal Reckoning
+1 Molten Rain
+2 Bedevil
+2 Fatal Push
+2 Infernal Reckoning
+3 Fatal Push
+3 Damping Sphere
+1 Runed Halo
+1 Deputy of Detention
+2 Runed Halo
+2 Spell Pierce
+2 Eidolon of Rhetoric
+3 Runed Halo
+3 Burrenton Forge-Tender
 1 Infinite Obliteration
 2 Ensnaring Bridge
 2 Sorcerous Spyglass
 2 Infinite Obliteration
-3 Ashiok, Dream Render
-3 Nihil Spellbomb
 3 Ensnaring Bridge
-2 Lightning Bolt
-1 Klothys, God of Destiny
-1 Fulminator Mage
-1 Bojuka Bog
-1 Ghost Quarter
-1 Kitchen Finks
-1 Choke
-1 Collector Ouphe
-2 Fulminator Mage
-3 Fulminator Mage
+3 Nihil Spellbomb
+3 Ashiok, Dream Render
 1 Settle the Wreckage
+2 Lightning Bolt
 1 Lightning Helix
-1 Wear/Tear
 1 Rakdos Charm
-1 Wheel of Sun and Moon
 1 Deflecting Palm
+1 Wheel of Sun and Moon
 1 Hallowed Moonlight
 1 Crackling Doom
 1 Into the Core
+1 Wear/Tear
 1 Render Silent
 2 Wear/Tear
 3 Wear/Tear
-1 Deputy of Detention
-1 Runed Halo
-2 Eidolon of Rhetoric
-2 Spell Pierce
-2 Runed Halo
-3 Runed Halo
-3 Burrenton Forge-Tender
+1 Klothys, God of Destiny
+1 Collector Ouphe
+1 Ghost Quarter
+1 Bojuka Bog
+1 Kitchen Finks
+1 Choke
+1 Fulminator Mage
+2 Fulminator Mage
+3 Fulminator Mage
 1 Batterskull
 1 Gideon, Ally of Zendikar
 1 Stoneforge Mystic
@@ -148,36 +148,36 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-1 Galvanic Blast
-2 Tormod's Crypt
-3 Tormod's Crypt
-3 Mystical Dispute
-4 Aether Gust
-1 Eternal Witness
-1 Yorion, Sky Nomad
-2 Celestial Purge
-3 Celestial Purge
-3 Boil
-4 Celestial Purge
-2 Obstinate Baloth
-3 Weather the Storm
-4 Veil of Summer
-1 Disenchant
 1 Ethersworn Canonist
+1 Disenchant
 1 Lurrus of the Dream-Den
 2 Kor Firewalker
 3 Kor Firewalker
 4 Kor Firewalker
-1 On Thin Ice
 1 Deafening Silence
 1 Containment Priest
+1 On Thin Ice
 2 Deafening Silence
 2 Containment Priest
 2 On Thin Ice
 2 Leonin Relic-Warder
-3 Containment Priest
 3 On Thin Ice
+3 Containment Priest
 4 On Thin Ice
+1 Eternal Witness
+1 Yorion, Sky Nomad
+2 Celestial Purge
+3 Boil
+3 Celestial Purge
+4 Celestial Purge
+1 Galvanic Blast
+2 Tormod's Crypt
+3 Mystical Dispute
+3 Tormod's Crypt
+4 Aether Gust
+2 Obstinate Baloth
+3 Weather the Storm
+4 Veil of Summer
 1 Time Wipe
 1 Unmoored Ego
 1 Ravenous Trap
@@ -185,9 +185,9 @@
 2 Unmoored Ego
 2 Ravenous Trap
 2 Leyline of Sanctity
-3 Leyline of Sanctity
-3 Unmoored Ego
 3 Ravenous Trap
+3 Unmoored Ego
+3 Leyline of Sanctity
 4 Leyline of Sanctity
 4 Unmoored Ego
 4 Ravenous Trap

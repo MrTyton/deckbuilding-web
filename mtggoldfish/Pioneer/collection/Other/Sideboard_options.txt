@@ -1,4 +1,4 @@
-1 Soul-Guide Lantern
+2 Thoughtseize
 1 Noxious Grasp
 1 Enter the God-Eternals
 1 Negate
@@ -13,26 +13,29 @@
 2 Damping Sphere
 1 Ruinous Ultimatum
 1 Kalitas, Traitor of Ghet
-1 Sin Collector
-2 Sin Collector
 1 Magma Spray
 2 Magma Spray
 1 Kambal, Consul of Allocation
 1 Kolaghan's Command
+1 Sin Collector
 2 Kalitas, Traitor of Ghet
 2 Kolaghan's Command
+2 Sin Collector
+1 Assassin's Trophy
+2 Assassin's Trophy
+3 Thoughtseize
+1 Narset, Parter of Veils
 1 Fatal Push
 2 Fatal Push
 3 Fatal Push
-3 Thoughtseize
 4 Thoughtseize
+1 Fry
+3 Assassin's Trophy
+1 Scavenging Ooze
 1 Anger of the Gods
 2 Anger of the Gods
-1 Narset, Parter of Veils
-1 Assassin's Trophy
-2 Assassin's Trophy
-1 Fry
-1 Scavenging Ooze
+2 Soul-Guide Lantern
+3 Soul-Guide Lantern
 1 Lyra Dawnbringer
 3 Damping Sphere
 1 Heroic Intervention
@@ -41,18 +44,16 @@
 1 Kraul Harpooner
 2 Kraul Harpooner
 2 Grafdigger's Cage
-1 Gideon's Intervention
 1 Sarkhan the Masterless
 1 Possibility Storm
 1 Sorcerous Spyglass
+1 Gideon's Intervention
 1 Ashiok, Dream Render
 1 Pithing Needle
 1 Slaughter Games
 1 Inspired Ultimatum
 1 Day's Undoing
 1 Supreme Verdict
-1 Basri's Lieutenant
-2 Basri's Lieutenant
 1 Oath of Kaya
 2 Oath of Kaya
 1 Demonic Embrace
@@ -64,7 +65,10 @@
 1 Spell Queller
 2 Spell Queller
 2 Narset, Parter of Veils
-1 Knight of Autumn
+1 Lurrus of the Dream-Den
+1 Dead Weight
+1 Caustic Caterpillar
+2 Dead Weight
 1 Skylasher
 2 Skylasher
 1 Questing Beast
@@ -74,26 +78,30 @@
 1 Wilt
 2 Shapers' Sanctuary
 2 Wilt
-3 Anger of the Gods
-1 Alpine Moon
-1 Ratchet Bomb
-1 Chandra, Awakened Inferno
-1 Jaya Ballard
-1 Hour of Devastation
-2 Alpine Moon
-2 Hour of Devastation
-2 Chandra, Awakened Inferno
+1 Chandra, Torch of Defiance
+1 Rending Volley
+2 Rending Volley
+3 Rending Volley
+4 Rending Volley
+1 Searing Blood
+2 Searing Blood
+1 Eidolon of the Great Revel
+1 Collective Defiance
+1 Goblin Chainwhirler
+1 Abrade
+2 Eidolon of the Great Revel
+2 Collective Defiance
+2 Goblin Chainwhirler
 1 Yahenni's Expertise
 2 Yahenni's Expertise
-3 Assassin's Trophy
 1 Klothys, God of Destiny
-1 Chandra, Torch of Defiance
-1 Bonecrusher Giant
 1 Fire Prophecy
-2 Chandra, Torch of Defiance
-2 Knight of Autumn
-2 Bonecrusher Giant
+1 Knight of Autumn
+1 Bonecrusher Giant
 2 Fire Prophecy
+2 Chandra, Torch of Defiance
+2 Bonecrusher Giant
+2 Knight of Autumn
 2 Klothys, God of Destiny
 3 Skylasher
 2 Lyra Dawnbringer
@@ -109,6 +117,17 @@
 3 Surge of Righteousness
 3 Settle the Wreckage
 3 Rest in Peace
+1 Glorybringer
+1 Wild Slash
+1 Lightning Axe
+1 Redcap Melee
+1 Stubborn Denial
+2 Glorybringer
+2 Wild Slash
+2 Redcap Melee
+2 Stubborn Denial
+3 Wild Slash
+3 Stubborn Denial
 1 Teferi, Time Raveler
 1 Uro, Titan of Nature's Wrath
 1 Radiant Flames
@@ -121,20 +140,12 @@
 3 Heroic Intervention
 3 Scavenging Ooze
 3 Kraul Harpooner
-1 Sorin, Vengeful Bloodlord
-1 Heron's Grace Champion
-1 Anafenza, the Foremost
-2 Anafenza, the Foremost
-4 Fatal Push
 1 Chained to the Rocks
 1 Dire Fleet Daredevil
-1 Lurrus of the Dream-Den
-1 Searing Blood
 1 Cindervines
 1 Exquisite Firecraft
 2 Chained to the Rocks
 2 Dire Fleet Daredevil
-2 Searing Blood
 2 Cindervines
 2 Exquisite Firecraft
 3 Chained to the Rocks
@@ -155,10 +166,9 @@
 1 Shock
 1 Spell Pierce
 2 Shock
-2 Soul-Guide Lantern
 2 Spell Pierce
+3 Anger of the Gods
 3 Spell Pierce
-3 Soul-Guide Lantern
 4 Soul-Guide Lantern
 1 Emrakul, the Promised End
 1 Thought-Knot Seer
@@ -179,28 +189,14 @@
 3 Gruul Spellbreaker
 3 Magma Spray
 4 Magma Spray
-1 Rending Volley
 1 Silence
 1 Oppressive Rays
 1 Guildscorn Ward
-2 Rending Volley
 2 Silence
 2 Oppressive Rays
 2 Guildscorn Ward
 3 Silence
-3 Rending Volley
 3 Oppressive Rays
 3 Guildscorn Ward
-4 Rending Volley
 4 Oppressive Rays
 4 Guildscorn Ward
-1 Soldier of the Pantheon
-1 Elspeth, Sun's Champion
-1 Banishing Light
-1 Containment Priest
-1 Apostle of Purifying Light
-2 Banishing Light
-2 Soldier of the Pantheon
-2 Apostle of Purifying Light
-3 Soldier of the Pantheon
-4 Soldier of the Pantheon

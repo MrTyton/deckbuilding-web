@@ -26,17 +26,17 @@
 5 Plains
 1 Dismember
 1 Winds of Abandon
+1 Simian Spirit Guide
 1 Chalice of the Void
 1 Gemstone Caverns
-1 Simian Spirit Guide
 2 Dismember
+2 Simian Spirit Guide
 2 Winds of Abandon
 2 Chalice of the Void
-2 Simian Spirit Guide
-3 Chalice of the Void
 3 Simian Spirit Guide
-4 Chalice of the Void
+3 Chalice of the Void
 4 Simian Spirit Guide
+4 Chalice of the Void
 1 Snow-Covered Forest
 4 Horizon Canopy
 1 Blast Zone
@@ -55,15 +55,30 @@
 3 Silent Clearing
 4 Battlefield Forge
 4 Containment Priest
+1 Idyllic Grange
+1 Windswept Heath
+1 Ranger-Captain of Eos
+1 Hexdrinker
+1 Phyrexian Revoker
+1 Weathered Wayfarer
+1 Temple Garden
+2 Temple Garden
+2 Windswept Heath
+2 Ranger-Captain of Eos
+2 Phyrexian Revoker
+3 Ranger-Captain of Eos
+3 Windswept Heath
+4 Ranger-Captain of Eos
+4 Windswept Heath
 1 Scavenger Grounds
 1 Cast Out
+1 Shefet Dunes
 1 Rest in Peace
 1 Eternal Scourge
-1 Shefet Dunes
-2 Blast Zone
 2 Rest in Peace
-2 Eternal Scourge
 2 Shefet Dunes
+2 Blast Zone
+2 Eternal Scourge
 2 Scavenger Grounds
 3 Shefet Dunes
 3 Eternal Scourge
@@ -72,80 +87,65 @@
 4 Eternal Scourge
 1 Restoration Angel
 1 Spell Queller
+1 Seachrome Coast
 1 Meddling Mage
 1 Deputy of Detention
 1 Island
 1 Flooded Strand
 1 Hallowed Fountain
-1 Seachrome Coast
 2 Restoration Angel
 2 Spell Queller
-2 Meddling Mage
 2 Deputy of Detention
+2 Seachrome Coast
+2 Meddling Mage
 2 Island
 2 Lurrus of the Dream-Den
 2 Hallowed Fountain
-2 Seachrome Coast
 2 Flooded Strand
 3 Restoration Angel
 3 Spell Queller
+3 Seachrome Coast
 3 Deputy of Detention
 3 Meddling Mage
-3 Seachrome Coast
-4 Seachrome Coast
 4 Spell Queller
-4 Meddling Mage
 4 Deputy of Detention
+4 Seachrome Coast
+4 Meddling Mage
 1 Smuggler's Copter
 1 Lightning Bolt
+1 Seasoned Pyromancer
 1 Sacred Foundry
 1 Inspiring Vantage
 1 Snow-Covered Mountain
 1 Goblin Rabblemaster
-1 Seasoned Pyromancer
 1 Winota, Joiner of Forces
 1 Mountain
 1 Angrath's Marauders
-2 Inspiring Vantage
-2 Sacred Foundry
 2 Smuggler's Copter
-2 Sunbaked Canyon
-2 Goblin Rabblemaster
-2 Winota, Joiner of Forces
 2 Seasoned Pyromancer
+2 Sunbaked Canyon
+2 Sacred Foundry
+2 Inspiring Vantage
+2 Goblin Rabblemaster
+2 Lightning Bolt
+2 Winota, Joiner of Forces
 2 Angrath's Marauders
 2 Mountain
-2 Lightning Bolt
-3 Inspiring Vantage
-3 Sacred Foundry
-3 Smuggler's Copter
-3 Angrath's Marauders
-3 Lightning Bolt
 3 Seasoned Pyromancer
+3 Smuggler's Copter
+3 Lightning Bolt
+3 Sacred Foundry
+3 Inspiring Vantage
+3 Angrath's Marauders
 3 Winota, Joiner of Forces
 3 Mountain
-4 Inspiring Vantage
+4 Seasoned Pyromancer
+4 Lightning Bolt
 4 Mountain
 4 Sacred Foundry
-4 Seasoned Pyromancer
+4 Inspiring Vantage
 4 Winota, Joiner of Forces
-4 Lightning Bolt
 4 Angrath's Marauders
-1 Windswept Heath
-1 Hexdrinker
-1 Phyrexian Revoker
-1 Weathered Wayfarer
-1 Temple Garden
-1 Idyllic Grange
-1 Ranger-Captain of Eos
-2 Windswept Heath
-2 Temple Garden
-2 Phyrexian Revoker
-2 Ranger-Captain of Eos
-3 Windswept Heath
-3 Ranger-Captain of Eos
-4 Windswept Heath
-4 Ranger-Captain of Eos
 1 Razorverge Thicket
 1 Brushland
 1 Noble Hierarch

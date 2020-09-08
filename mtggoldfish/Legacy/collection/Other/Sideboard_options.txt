@@ -1,29 +1,35 @@
-1 Pyroblast
-2 Pyroblast
-1 Carpet of Flowers
-1 Deafening Silence
-1 Veil of Summer
-2 Carpet of Flowers
+1 Gaddock Teeg
+1 Bojuka Bog
+3 Deafening Silence
+1 Pithing Needle
+1 Rest in Peace
+2 Rest in Peace
+1 Ethersworn Canonist
+2 Ethersworn Canonist
+3 Surgical Extraction
+1 Ensnaring Bridge
+1 Red Elemental Blast
+1 Tormod's Crypt
+1 Abrade
+2 Abrade
 1 Magus of the Moon
 1 Grindstone
 2 Red Elemental Blast
-1 Nihil Spellbomb
-1 Rest in Peace
-2 Rest in Peace
+2 Carpet of Flowers
 1 Collector Ouphe
-2 Deafening Silence
-3 Pyroblast
 1 Council's Judgment
-1 Eliminate
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
 4 Leyline of the Void
+1 Null Rod
+1 Pyroblast
+2 Pyroblast
+2 Containment Priest
 1 Engineered Explosives
 1 Back to Basics
-2 Containment Priest
 1 Walking Ballista
-2 Nihil Spellbomb
+1 Nihil Spellbomb
 3 Plague Engineer
 1 Abrupt Decay
 1 Sorcerous Spyglass
@@ -31,29 +37,26 @@
 1 Ashiok, Dream Render
 1 Chains of Mephistopheles
 2 Chains of Mephistopheles
-2 Pithing Needle
-1 Engineered Plague
-1 Collective Brutality
-2 Collective Brutality
+1 Faerie Macabre
+2 Council's Judgment
+1 Necromentia
 1 Helm of Obedience
+1 Engineered Plague
 1 Dystopia
 2 Dystopia
-1 Necromentia
-2 Council's Judgment
-1 Faerie Macabre
+1 Collective Brutality
+2 Collective Brutality
+2 Pithing Needle
 1 Liquimetal Coating
 1 Mycosynth Lattice
 1 Mindbreak Trap
-2 Sorcerous Spyglass
 1 Thorn of Amethyst
 2 Thorn of Amethyst
+2 Sorcerous Spyglass
 1 Pyrokinesis
-1 Grafdigger's Cage
-1 Submerge
-1 Kolaghan's Command
+1 Scavenging Ooze
 1 Return to Nature
 1 Jegantha, the Wellspring
-1 Scavenging Ooze
 1 Chalice of the Void
 1 Phyrexian Revoker
 2 Chalice of the Void
@@ -63,6 +66,7 @@
 2 Pyrokinesis
 2 Goblin Sharpshooter
 2 Goblin Trashmaster
+1 Grafdigger's Cage
 1 Defense Grid
 1 Pyroclasm
 1 Wurmcoil Engine
@@ -71,25 +75,24 @@
 1 Embereth Shieldbreaker
 2 Goblin Cratermaker
 2 Embereth Shieldbreaker
-1 Path to Exile
 1 Kaya, Orzhov Usurper
 2 Kaya, Orzhov Usurper
-2 Path to Exile
 1 Smallpox
 1 Phage the Untouchable
 1 Doom Blade
-1 Murder
 1 Sadistic Sacrament
 1 Endless Whispers
 1 Skithiryx, the Blight Dragon
 1 Archfiend of Depravity
 1 Ruinous Path
+1 Murder
 2 Smallpox
 2 Murder
 2 Sadistic Sacrament
 2 Ruinous Path
 2 Endless Whispers
 2 Doom Blade
+1 Eliminate
 1 Gideon, Ally of Zendikar
 1 Cataclysm
 2 Cataclysm
@@ -100,10 +103,11 @@
 2 Spell Pierce
 2 Sai, Master Thopterist
 3 Thoughtseize
-1 Liliana, the Last Hope
 1 Dark Confidant
+1 Liliana, the Last Hope
 1 Liliana's Triumph
 2 Dark Confidant
+2 Nihil Spellbomb
 2 Liliana's Triumph
 3 Dark Confidant
 1 Bitterblossom
@@ -111,23 +115,22 @@
 2 Bitterblossom
 2 Engineered Plague
 3 Collective Brutality
-2 Veil of Summer
 1 Reclamation Sage
 1 Run Afoul
 2 Run Afoul
 2 Necromentia
 3 Necromentia
-1 Armageddon
 1 Holy Light
 2 Faerie Macabre
 2 Armageddon
 2 Holy Light
 3 Council's Judgment
 3 Armageddon
+3 Pyroblast
 1 Karakas
-1 Swords to Plowshares
 1 Blazing Volley
 1 Wear/Tear
+1 Swords to Plowshares
 1 Snow-Covered Mountain
 1 Aria of Flame
 2 Aria of Flame
@@ -135,15 +138,14 @@
 1 Force of Negation
 1 Lavinia, Azorius Renegade
 1 Remorseful Cleric
-1 Knight of Autumn
 1 Deputy of Detention
 1 Gilded Drake
 2 Force of Negation
 2 Gilded Drake
 3 Force of Negation
 1 Ashen Rider
-1 Elesh Norn, Grand Cenobite
 1 Iona, Shield of Emeria
+1 Elesh Norn, Grand Cenobite
 3 Pithing Needle
 4 Pithing Needle
 1 Seasoned Pyromancer
@@ -178,8 +180,8 @@
 4 Chain of Vapor
 4 Nature's Claim
 4 Veil of Summer
-1 Griselbrand
 1 Emrakul, the Aeons Torn
+1 Griselbrand
 1 Omniscience
 1 Show and Tell
 2 Griselbrand
@@ -197,18 +199,3 @@
 1 Dreamstealer
 2 Dreamstealer
 4 Plague Engineer
-1 Kiln Fiend
-1 Price of Progress
-1 Searing Blaze
-1 Tyrant's Choice
-1 Smash to Smithereens
-2 Kiln Fiend
-2 Price of Progress
-2 Searing Blaze
-2 Tyrant's Choice
-2 Smash to Smithereens
-3 Kiln Fiend
-3 Price of Progress
-3 Smash to Smithereens
-3 Tyrant's Choice
-4 Price of Progress

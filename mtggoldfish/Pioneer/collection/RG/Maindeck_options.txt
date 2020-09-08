@@ -70,11 +70,11 @@
 4 Regisaur Alpha
 4 Reckless Rage
 4 Ripjaw Raptor
-1 Rekindling Phoenix
-2 Rekindling Phoenix
 1 Bonders' Enclave
 1 Kiora, Behemoth Beckoner
+1 Rekindling Phoenix
 2 Kiora, Behemoth Beckoner
+2 Rekindling Phoenix
 3 Rekindling Phoenix
 3 Glorybringer
 4 Gruul Spellbreaker
@@ -102,14 +102,14 @@
 3 The Great Henge
 3 Ghalta, Primal Hunger
 4 Steel Leaf Champion
-1 Brazen Borrower
-1 Island
-2 Brazen Borrower
-3 Brazen Borrower
 9 Forest
 10 Forest
+1 Brazen Borrower
 1 Breeding Pool
+1 Island
 2 Breeding Pool
+2 Brazen Borrower
+3 Brazen Borrower
 3 Breeding Pool
 1 Xenagos, the Reveler
 1 Gilded Goose
@@ -152,18 +152,18 @@
 4 Experiment One
 4 Voltaic Brawler
 1 Sulfur Falls
-1 Steam Vents
-2 Sulfur Falls
-2 Island
-2 Steam Vents
-1 Castle Vantress
 1 Dig Through Time
+1 Steam Vents
 1 Fae of Wishes
+1 Castle Vantress
 1 Ketria Triome
 1 Lucky Clover
 1 Beanstalk Giant
 2 Ketria Triome
+2 Sulfur Falls
 2 Enter the Infinite
+2 Island
+2 Steam Vents
 2 Lucky Clover
 2 Fae of Wishes
 2 Beanstalk Giant
@@ -176,93 +176,50 @@
 4 Fae of Wishes
 4 Beanstalk Giant
 4 Lucky Clover
-1 Mutavault
-2 Mutavault
-1 Kozilek's Return
-1 Ox of Agonas
-1 Lightning Axe
-1 Wandering Fumarole
-1 Izzet Charm
-1 Shivan Reef
-1 Sanctum of Ugin
-1 Chart a Course
-1 Spirebluff Canal
-1 Elder Deep-Fiend
-1 Stitchwing Skaab
-1 Flamewake Phoenix
-1 Champion of Wits
-2 Kozilek's Return
-2 Ox of Agonas
-2 Stitchwing Skaab
-2 Elder Deep-Fiend
-2 Shivan Reef
-2 Sanctum of Ugin
-2 Spirebluff Canal
-2 Champion of Wits
-2 Chart a Course
-2 Lightning Axe
-2 Flamewake Phoenix
-2 Izzet Charm
-3 Steam Vents
-3 Kozilek's Return
-3 Flamewake Phoenix
-3 Izzet Charm
-3 Elder Deep-Fiend
-3 Stitchwing Skaab
-3 Shivan Reef
-3 Spirebluff Canal
-3 Island
-3 Lightning Axe
-4 Steam Vents
-4 Flamewake Phoenix
-4 Izzet Charm
-4 Shivan Reef
-4 Spirebluff Canal
-4 Elder Deep-Fiend
+1 Blooming Marsh
+1 Llanowar Wastes
 1 Rotting Regisaur
 1 Overgrown Tomb
 1 Scrapheap Scrounger
 1 Heart of Kiran
-1 Llanowar Wastes
-1 Blooming Marsh
 1 Surrak, the Hunt Caller
+2 Blooming Marsh
+2 Llanowar Wastes
 2 Garruk's Harbinger
 2 Rotting Regisaur
 2 Heart of Kiran
-2 Blooming Marsh
 2 Overgrown Tomb
 2 Surrak, the Hunt Caller
 2 Scrapheap Scrounger
-2 Llanowar Wastes
 3 Overgrown Tomb
+3 Blooming Marsh
 3 Rotting Regisaur
+3 Llanowar Wastes
 3 Garruk's Harbinger
 3 Surrak, the Hunt Caller
 3 Scrapheap Scrounger
-3 Llanowar Wastes
-3 Blooming Marsh
 4 Garruk's Harbinger
+4 Blooming Marsh
 4 Rotting Regisaur
 4 Scrapheap Scrounger
 4 Overgrown Tomb
-4 Blooming Marsh
 4 Llanowar Wastes
 2 Bonders' Enclave
 4 Glorybringer
 4 Rekindling Phoenix
 1 Hinterland Harbor
+1 Tireless Tracker
 1 Growth Spiral
 1 Voracious Hydra
 1 Nissa, Who Shakes the World
 1 Uro, Titan of Nature's Wrath
 1 Yavimaya Coast
-1 Tireless Tracker
 1 Hydroid Krasis
 1 Botanical Sanctum
 2 Hinterland Harbor
+2 Tireless Tracker
 2 Growth Spiral
 2 Voracious Hydra
-2 Tireless Tracker
 2 Botanical Sanctum
 2 Hydroid Krasis
 2 Nissa, Who Shakes the World
@@ -283,12 +240,14 @@
 4 Growth Spiral
 1 Forbidden Friendship
 1 Abbot of Keral Keep
+1 Mutavault
 1 Bomat Courier
 1 Castle Embereth
 2 Castle Embereth
 2 Forbidden Friendship
-2 Abbot of Keral Keep
+2 Mutavault
 2 Bomat Courier
+2 Abbot of Keral Keep
 3 Embercleave
 3 Forbidden Friendship
 3 Abbot of Keral Keep
