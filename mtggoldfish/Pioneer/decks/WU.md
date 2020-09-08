@@ -36,8 +36,8 @@
 |                    2|[Springleaf Drum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378534)|                    2|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)    |
 |                    3|[Ornithopter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129665)    |                    2|[Oppressive Rays](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380465) |
 |                    3|[Selfless Savior](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485359)|                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
-|                    3|[Springleaf Drum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378534)|                    3|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)    |
-|                    4|[Ornithopter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129665)    |                    3|[Oppressive Rays](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380465) |
+|                    3|[Springleaf Drum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378534)|                    3|[Oppressive Rays](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380465) |
+|                    4|[Ornithopter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129665)    |                    3|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)    |
 |                    4|[Springleaf Drum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378534)|                    4|[Oppressive Rays](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380465) |
 |                    1|[Springleaf Drum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378534)|                    4|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)    |
 

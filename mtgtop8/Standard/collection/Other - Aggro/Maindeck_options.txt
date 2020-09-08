@@ -98,8 +98,8 @@
 1 Temple Garden
 1 Overgrown Tomb
 1 Vraska, Golgari Queen
-1 Garruk, Cursed Huntsman
 1 Elspeth Conquers Death
+1 Garruk, Cursed Huntsman
 1 Solemn Simulacrum
 1 Basri's Lieutenant
 1 Revival / Revenge
@@ -124,9 +124,9 @@
 3 Temple Garden
 3 Elspeth Conquers Death
 3 Basri's Lieutenant
+3 Vito, Thorn of the Dusk Rose
 3 Llanowar Visionary
 3 Revival / Revenge
-3 Vito, Thorn of the Dusk Rose
 3 Gilded Goose
 4 Overgrown Tomb
 4 Indatha Triome
@@ -208,8 +208,8 @@
 1 Drannith Healer
 1 Zenith Flare
 1 Raugrin Triome
-2 Boon of the Wish-Giver
 2 Raugrin Triome
+2 Boon of the Wish-Giver
 2 Drannith Stinger
 2 Imposing Vantasaur
 2 Valiant Rescuer
@@ -279,12 +279,12 @@
 1 Castle Embereth
 1 Selfless Savior
 1 Seasoned Hallowblade
-1 Alpine Watchdog
-1 Alpine Houndmaster
+1 Pack Leader
 1 Igneous Cur
 1 Bolt Hound
+1 Alpine Houndmaster
+1 Alpine Watchdog
 1 Gingerbrute
-1 Pack Leader
 1 Tajic, Legion's Edge
 2 Winota, Joiner of Forces
 2 Castle Embereth
@@ -292,22 +292,22 @@
 2 Seasoned Hallowblade
 2 Pack Leader
 2 Embercleave
-2 Alpine Houndmaster
-2 Alpine Watchdog
 2 Igneous Cur
-2 Gingerbrute
 2 Bolt Hound
-2 Temple of Triumph
+2 Gingerbrute
+2 Alpine Watchdog
+2 Alpine Houndmaster
 2 Tajic, Legion's Edge
+2 Temple of Triumph
 3 Tajic, Legion's Edge
 3 Temple of Triumph
 3 Seasoned Hallowblade
 3 Pack Leader
-3 Alpine Houndmaster
 3 Selfless Savior
-3 Gingerbrute
 3 Embercleave
 3 Bolt Hound
+3 Alpine Houndmaster
+3 Gingerbrute
 4 Temple of Triumph
 4 Seasoned Hallowblade
 4 Pack Leader
@@ -363,9 +363,9 @@
 2 Escape to the Wilds
 2 Dryad of the Ilysian Grove
 3 Arboreal Grazer
+3 Voracious Hydra
 3 Chandra, Awakened Inferno
 3 Dryad of the Ilysian Grove
-3 Voracious Hydra
 4 Arboreal Grazer
 4 Dryad of the Ilysian Grove
 4 Chandra, Awakened Inferno
