@@ -1,66 +1,39 @@
-2 Island
-3 Island
-4 Island
 5 Island
-3 Teferi, Time Raveler
 2 Spell Snare
-1 Scalding Tarn
-1 Glacial Fortress
-2 Snow-Covered Plains
-2 Polluted Delta
+4 Snow-Covered Island
+3 Shark Typhoon
+1 Sword of Fire and Ice
 2 Plains
+1 Scalding Tarn
+3 Teferi, Time Raveler
 2 Misty Rainforest
+2 Polluted Delta
+4 Snapcaster Mage
+1 Glacial Fortress
 1 Logic Knot
 2 Teferi, Hero of Dominaria
+2 Snow-Covered Plains
 5 Snow-Covered Island
-2 Glacial Fortress
-4 Snapcaster Mage
+1 Prairie Stream
 1 Omen of the Sea
 2 Omen of the Sea
+2 Glacial Fortress
 3 Misty Rainforest
 3 Omen of the Sea
-1 Prairie Stream
 1 Terminus
 2 Terminus
-1 Serum Visions
-2 Serum Visions
-4 Shark Typhoon
 1 Breeding Pool
 1 Snow-Covered Forest
+1 Ice-Fang Coatl
 1 Temple Garden
 2 Snow-Covered Forest
-3 Mana Leak
-1 Ice-Fang Coatl
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
-3 Polluted Delta
-2 Scalding Tarn
-3 Scalding Tarn
-1 Sacred Foundry
-1 Narset, Parter of Veils
-1 Steam Vents
-1 Snow-Covered Mountain
-1 Lightning Helix
-1 Sulfur Falls
-1 Electrolyze
-1 Lightning Bolt
-2 Lightning Helix
-2 Narset, Parter of Veils
-2 Sulfur Falls
-2 Steam Vents
-2 Lightning Bolt
-3 Lightning Bolt
-3 Lightning Helix
-3 Narset, Parter of Veils
-4 Omen of the Sea
-4 Scalding Tarn
-4 Lightning Bolt
-3 Cryptic Command
+4 Misty Rainforest
 1 Spell Queller
 2 Spell Queller
 3 Spell Queller
-4 Misty Rainforest
 1 Noble Hierarch
 1 Uro, Titan of Nature's Wrath
 1 Windswept Heath
@@ -70,49 +43,78 @@
 3 Noble Hierarch
 3 Windswept Heath
 4 Noble Hierarch
-3 Serum Visions
+4 Shark Typhoon
+3 Polluted Delta
+2 Scalding Tarn
+3 Scalding Tarn
+1 Serum Visions
+2 Serum Visions
+1 Narset, Parter of Veils
+1 Steam Vents
+1 Sacred Foundry
+1 Snow-Covered Mountain
+1 Lightning Bolt
+1 Lightning Helix
+1 Sulfur Falls
+1 Electrolyze
+2 Narset, Parter of Veils
+2 Lightning Bolt
+2 Lightning Helix
+2 Sulfur Falls
+2 Steam Vents
+3 Lightning Bolt
+3 Lightning Helix
+3 Narset, Parter of Veils
+4 Omen of the Sea
+4 Lightning Bolt
+4 Scalding Tarn
+3 Cryptic Command
+3 Mystic Sanctuary
+3 Mana Leak
 1 Birds of Paradise
-3 Snow-Covered Forest
+4 Spell Queller
+1 Waterlogged Grove
+2 Birds of Paradise
 2 Celestial Colonnade
 3 Jace, the Mind Sculptor
 3 Terminus
-3 Mystic Sanctuary
+6 Island
+1 Search for Azcanta
+1 Brazen Borrower
 1 Pyroclasm
 2 Electrolyze
-1 Brazen Borrower
+3 Serum Visions
+3 Snow-Covered Forest
+1 Dismember
+1 Crucible of Worlds
+1 Dovin's Veto
+4 Archmage's Charm
+1 Supreme Verdict
+1 Geist of Saint Traft
+2 Geist of Saint Traft
+4 Windswept Heath
 1 Prismatic Vista
 2 Prismatic Vista
 3 Prismatic Vista
 4 Prismatic Vista
-4 Spell Queller
-2 Birds of Paradise
-1 Waterlogged Grove
-4 Windswept Heath
-1 Dismember
-1 Search for Azcanta
-1 Crucible of Worlds
-1 Dovin's Veto
-4 Archmage's Charm
-6 Island
-1 Spell Pierce
-2 Spell Pierce
-1 Geist of Saint Traft
-2 Geist of Saint Traft
 2 Brazen Borrower
-3 Birds of Paradise
 1 Horizon Canopy
-3 Uro, Titan of Nature's Wrath
-2 Breeding Pool
 1 Raugrin Triome
 1 Spreading Seas
 2 Spreading Seas
-1 Supreme Verdict
+1 Spell Pierce
 1 Condemn
 1 Oust
+2 Spell Pierce
 1 Aether Gust
 2 Aether Gust
-1 Remand
-3 Spell Pierce
+3 Birds of Paradise
+1 Frantic Inventory
+1 Secure the Wastes
+2 Frantic Inventory
+2 Supreme Verdict
+3 Frantic Inventory
+4 Frantic Inventory
 4 Polluted Delta
 1 Teferi, Master of Time
 4 Terminus
@@ -122,13 +124,14 @@
 1 Frilled Mystic
 1 Prophet of Kruphix
 2 Restoration Angel
+2 Breeding Pool
 2 Elder Gargaroth
 2 Rashmi, Eternities Crafter
 2 Prophet of Kruphix
 2 Frilled Mystic
+3 Elder Gargaroth
 3 Brazen Borrower
 3 Rashmi, Eternities Crafter
-3 Elder Gargaroth
 3 Frilled Mystic
 4 Frilled Mystic
 1 On Thin Ice
@@ -138,21 +141,5 @@
 2 On Thin Ice
 3 Geist of Saint Traft
 3 On Thin Ice
+3 Uro, Titan of Nature's Wrath
 4 On Thin Ice
-1 Karn, the Great Creator
-1 Ghost Quarter
-1 Scavenging Ooze
-2 Karn, the Great Creator
-2 Scavenging Ooze
-2 Temple Garden
-2 Ghost Quarter
-3 Scavenging Ooze
-3 Karn, the Great Creator
-3 Ghost Quarter
-4 Karn, the Great Creator
-4 Scavenging Ooze
-4 Teferi, Time Raveler
-4 Birds of Paradise
-4 Snow-Covered Forest
-4 Ghost Quarter
-4 Uro, Titan of Nature's Wrath

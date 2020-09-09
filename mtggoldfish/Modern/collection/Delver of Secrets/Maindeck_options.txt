@@ -1,16 +1,17 @@
-2 Lightning Helix
-2 Path to Exile
+4 Flooded Strand
 1 Brazen Borrower
 1 Spell Pierce
-3 Flooded Strand
-4 Flooded Strand
 1 Seachrome Coast
 2 Seachrome Coast
 3 Lightning Helix
-1 Remand
 1 Sleight of Hand
 2 Sleight of Hand
 3 Sleight of Hand
+1 Remand
+2 Island
+1 Kolaghan's Command
+1 Archmage's Charm
+2 Archmage's Charm
 1 Plains
 3 Path to Exile
 1 Sword of Fire and Ice
@@ -24,23 +25,15 @@
 4 Sleight of Hand
 4 Mantis Rider
 4 Stoneforge Mystic
-2 Island
+3 Watery Grave
+2 Remand
+3 Archmage's Charm
+1 Mystic Sanctuary
+1 Seal of Fire
+4 Force of Negation
 1 Unearth
 2 Kolaghan's Command
-3 Watery Grave
 1 Fatal Push
-1 Darkslick Shores
-2 Darkslick Shores
-3 Archmage's Charm
-4 Force of Negation
-2 Remand
-1 Seal of Fire
-1 Mystic Sanctuary
-1 Cling to Dust
-1 Snow-Covered Island
-1 Snow-Covered Swamp
-3 Remand
-3 Darkslick Shores
 1 Thought Scour
 1 Manamorphose
 1 Stormwing Entity
@@ -49,18 +42,10 @@
 3 Manamorphose
 3 Stormwing Entity
 4 Manamorphose
-3 Spirebluff Canal
-1 Mountain
+3 Mana Leak
 2 Thought Scour
 3 Thought Scour
 4 Thought Scour
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
-4 Snapcaster Mage
-2 Fatal Push
-2 Mystic Sanctuary
-3 Mana Leak
-3 Drown in the Loch
 1 Misty Rainforest
 2 Misty Rainforest
 1 Breeding Pool
@@ -74,10 +59,42 @@
 3 Tarmogoyf
 4 Misty Rainforest
 4 Stubborn Denial
+3 Remand
+1 Darkslick Shores
+2 Darkslick Shores
+3 Spirebluff Canal
+1 Mountain
+4 Snapcaster Mage
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
+2 Fatal Push
+1 Cling to Dust
+2 Mystic Sanctuary
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+3 Drown in the Loch
 4 Remand
+4 Tarmogoyf
+1 Uro, Titan of Nature's Wrath
+1 Hexdrinker
+1 Wooded Foothills
+1 Disrupting Shoal
+2 Breeding Pool
+2 Uro, Titan of Nature's Wrath
+2 Forest
+2 Wooded Foothills
+2 Disrupting Shoal
+2 Hexdrinker
+3 Uro, Titan of Nature's Wrath
+3 Hexdrinker
+3 Disrupting Shoal
+4 Hexdrinker
+4 Disrupting Shoal
+4 Mana Leak
 1 Gut Shot
 2 Gut Shot
 4 Stormwing Entity
+3 Darkslick Shores
 2 Spell Snare
 1 Swamp
 1 Thieves' Guild Enforcer
@@ -95,33 +112,16 @@
 3 Arcum's Astrolabe
 3 Snow-Covered Island
 4 Snow-Covered Island
-4 Tarmogoyf
 1 Lava Dart
 2 Lava Dart
-1 Into the Story
 1 Vantress Gargoyle
+1 Into the Story
 2 Vantress Gargoyle
 3 Vantress Gargoyle
 1 Surgical Extraction
 2 Surgical Extraction
 4 Lightning Helix
 4 Spirebluff Canal
-1 Uro, Titan of Nature's Wrath
-1 Hexdrinker
-1 Wooded Foothills
-1 Disrupting Shoal
-2 Breeding Pool
-2 Uro, Titan of Nature's Wrath
-2 Forest
-2 Wooded Foothills
-2 Disrupting Shoal
-2 Hexdrinker
-3 Uro, Titan of Nature's Wrath
-3 Hexdrinker
-3 Disrupting Shoal
-4 Hexdrinker
-4 Disrupting Shoal
-4 Mana Leak
 1 Lava Spike
 1 Assault Strobe
 1 Fiery Islet
@@ -158,10 +158,10 @@
 3 Fatal Push
 4 Arcum's Astrolabe
 4 Fatal Push
+1 Stomping Ground
 1 Hooting Mandrills
 1 Vapor Snag
 1 Botanical Sanctum
-1 Stomping Ground
 2 Hooting Mandrills
 3 Hooting Mandrills
 1 Blackcleave Cliffs
@@ -199,12 +199,6 @@
 2 Field of Ruin
 3 Bitterblossom
 4 Bitterblossom
-1 Young Pyromancer
-1 Heartless Act
-2 Young Pyromancer
-3 Young Pyromancer
-4 Young Pyromancer
-4 Darkslick Shores
 1 Mutagenic Growth
 2 Mutagenic Growth
 4 Hooting Mandrills

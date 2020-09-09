@@ -6,32 +6,32 @@
 2 Aether Hub
 3 Aether Hub
 4 Aether Hub
-1 Discovery/Dispersal
 1 Teferi, Master of Time
 1 Castle Vantress
 1 Liliana, Dreadhorde General
 1 The Scarab God
+1 Discovery/Dispersal
 2 Teferi, Master of Time
 2 Ashiok, Nightmare Muse
-1 Geier Reach Sanitarium
 1 Languish
 1 Hero's Downfall
+1 Geier Reach Sanitarium
 1 Torrential Gearhulk
-1 Notion Thief
 1 Day's Undoing
-2 Hero's Downfall
-2 Notion Thief
-2 Day's Undoing
+1 Notion Thief
 2 Geier Reach Sanitarium
+2 Hero's Downfall
+2 Day's Undoing
 2 Languish
 2 Narset, Parter of Veils
-3 Notion Thief
-3 Day's Undoing
+2 Notion Thief
 3 Narset, Parter of Veils
+3 Day's Undoing
+3 Notion Thief
 4 Narset, Parter of Veils
-4 Notion Thief
 4 Dig Through Time
 4 Day's Undoing
+4 Notion Thief
 1 Tasigur, the Golden Fang
 1 Thief of Sanity
 1 Ashiok, Nightmare Weaver
@@ -54,10 +54,8 @@
 2 Gifted Aetherborn
 3 Castle Locthwain
 1 Mortify
-1 Obzedat, Ghost Council
+1 Castle Ardenvale
 1 History of Benalia
-1 Shambling Vent
-1 Godless Shrine
 1 Tithe Taker
 1 Knight of the White Orchid
 1 Dawn of Hope
@@ -65,30 +63,32 @@
 1 Settle the Wreckage
 1 The Immortal Sun
 1 Isolated Chapel
-1 Castle Ardenvale
 1 Thalia, Heretic Cathar
+1 Godless Shrine
+1 Obzedat, Ghost Council
 1 Plains
+1 Shambling Vent
 2 Basilica Bell-Haunt
 2 Shambling Vent
+2 Plains
 2 History of Benalia
-2 Godless Shrine
 2 The Immortal Sun
 2 Tithe Taker
 2 Knight of the White Orchid
 2 Dawn of Hope
 2 Settle the Wreckage
 2 Thalia, Heretic Cathar
-2 Plains
 2 Isolated Chapel
+2 Godless Shrine
 3 Basilica Bell-Haunt
+3 Godless Shrine
 3 Plains
 3 History of Benalia
-3 Godless Shrine
 3 Shambling Vent
 3 Tithe Taker
 4 Godless Shrine
-4 Plains
 4 Tithe Taker
+4 Plains
 1 Thieves' Guild Enforcer
 1 Brazen Borrower
 1 Rankle, Master of Pranks
@@ -130,30 +130,30 @@
 4 Overgrown Tomb
 4 Blooming Marsh
 1 Nicol Bolas, Dragon-God
-1 Dragonskull Summit
+1 Steam Vents
 1 Spirebluff Canal
 1 Izzet Charm
-1 Kolaghan's Command
 1 Anger of the Gods
+1 Kolaghan's Command
 1 Magma Spray
 1 Dreadbore
 1 Blood Crypt
 1 Nicol Bolas, the Ravager
 1 Mountain
 1 Kroxa, Titan of Death's Hunger
-1 Steam Vents
+1 Dragonskull Summit
 1 Gonti, Lord of Luxury
 2 Dreadbore
 2 Nicol Bolas, Dragon-God
-2 Liliana, the Last Hope
-2 Dragonskull Summit
 2 Spirebluff Canal
 2 Kolaghan's Command
 2 Anger of the Gods
 2 Magma Spray
 2 Blood Crypt
 2 Nicol Bolas, the Ravager
+2 Liliana, the Last Hope
 2 Kroxa, Titan of Death's Hunger
+2 Dragonskull Summit
 3 Dragonskull Summit
 3 Nicol Bolas, the Ravager
 3 Blood Crypt

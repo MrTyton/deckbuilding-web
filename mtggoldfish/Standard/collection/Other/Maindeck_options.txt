@@ -1,4 +1,4 @@
-8 Swamp
+3 Mire Triton
 1 Agonizing Remorse
 1 Lazotep Reaver
 2 Lazotep Reaver
@@ -8,10 +8,10 @@
 4 Mayhem Devil
 5 Mountain
 6 Mountain
+1 Call of the Death-Dweller
 1 Archfiend's Vessel
 1 Weaponize the Monsters
 1 Dreadhorde Butcher
-1 Call of the Death-Dweller
 2 Call of the Death-Dweller
 2 Dreadhorde Butcher
 2 Archfiend's Vessel
@@ -21,80 +21,6 @@
 4 Dreadhorde Butcher
 4 Mire Triton
 9 Swamp
-1 Plains
-1 Island
-1 Hallowed Fountain
-1 Godless Shrine
-2 Plains
-3 Plains
-4 Plains
-2 Island
-2 Hallowed Fountain
-3 Hallowed Fountain
-1 Extinction Event
-1 Watery Grave
-2 Extinction Event
-2 Watery Grave
-3 Watery Grave
-1 Temple of Silence
-2 Temple of Silence
-1 Castle Vantress
-1 Dovin's Veto
-2 Dovin's Veto
-1 Temple of Deceit
-2 Godless Shrine
-4 Hallowed Fountain
-1 Omen of the Sea
-1 Yorion, Sky Nomad
-1 Glass Casket
-1 Narset, Parter of Veils
-1 Elspeth Conquers Death
-1 Oath of Kaya
-1 Dream Trawler
-1 Archon of Sun's Grace
-1 Dance of the Manse
-1 Doom Foretold
-1 Omen of the Sun
-1 Treacherous Blessing
-1 Temple of Enlightenment
-1 Kaya, Orzhov Usurper
-2 Omen of the Sea
-2 Yorion, Sky Nomad
-2 Glass Casket
-2 Kaya, Orzhov Usurper
-2 Archon of Sun's Grace
-2 Elspeth Conquers Death
-2 Temple of Enlightenment
-2 Temple of Deceit
-2 Doom Foretold
-2 Omen of the Sun
-2 Treacherous Blessing
-2 Narset, Parter of Veils
-2 Agonizing Remorse
-2 Oath of Kaya
-3 Temple of Deceit
-3 Temple of Silence
-3 Narset, Parter of Veils
-3 Omen of the Sea
-3 Island
-3 Agonizing Remorse
-3 Glass Casket
-3 Elspeth Conquers Death
-3 Oath of Kaya
-3 Temple of Enlightenment
-3 Godless Shrine
-3 Doom Foretold
-3 Archon of Sun's Grace
-4 Omen of the Sea
-4 Oath of Kaya
-4 Narset, Parter of Veils
-4 Agonizing Remorse
-4 Glass Casket
-4 Godless Shrine
-4 Doom Foretold
-4 Watery Grave
-1 Fiend Artisan
-2 Fiend Artisan
 1 Eliminate
 2 Eliminate
 1 Heartless Act
@@ -104,8 +30,8 @@
 3 Eliminate
 1 Demonic Embrace
 2 Demonic Embrace
-3 Knight of the Ebon Legion
 3 Demonic Embrace
+3 Knight of the Ebon Legion
 4 Eliminate
 4 Demonic Embrace
 10 Swamp
@@ -119,29 +45,55 @@
 18 Swamp
 19 Swamp
 20 Swamp
-1 Forest
+1 Fiend Artisan
+2 Fiend Artisan
+1 Island
 1 Murderous Rider
 2 Murderous Rider
 3 Murderous Rider
+1 Forest
+1 Plains
+1 Stomping Ground
 1 Steam Vents
 2 Steam Vents
-1 Stomping Ground
 1 Breeding Pool
-1 Angrath's Rampage
 1 Overgrown Tomb
 1 Uro, Titan of Nature's Wrath
 1 Thought Erasure
+1 Angrath's Rampage
+2 Thought Erasure
 2 Angrath's Rampage
 2 Overgrown Tomb
-2 Thought Erasure
 2 Uro, Titan of Nature's Wrath
 3 Thought Erasure
 4 Thought Erasure
-1 Disfigure
-1 Spawn of Mayhem
+1 Ugin, the Spirit Dragon
+1 Liliana, Dreadhorde General
+2 Island
+1 Negate
+1 Omen of the Sea
+1 Dismal Backwater
+1 Frantic Inventory
+2 Frantic Inventory
+2 Negate
+2 Omen of the Sea
+2 Dismal Backwater
+3 Island
+3 Omen of the Sea
+3 Dismal Backwater
+3 Frantic Inventory
+3 Negate
+4 Island
+4 Dismal Backwater
+4 Frantic Inventory
+5 Island
+6 Island
+1 Hallowed Fountain
 2 Stomping Ground
 2 Breeding Pool
 3 Breeding Pool
+2 Hallowed Fountain
+3 Hallowed Fountain
 2 Forest
 1 Temple Garden
 1 Thassa, Deep-Dwelling
@@ -175,102 +127,138 @@
 3 Spark Double
 3 Gyruda, Doom of Depths
 4 Temple Garden
-4 Terror of the Peaks
 4 Fiend Artisan
 4 Thassa, Deep-Dwelling
 4 Cultivate
 4 Gyruda, Doom of Depths
+4 Terror of the Peaks
 4 Migration Path
 4 Gilded Goose
 4 Spark Double
+4 Hallowed Fountain
 4 Stomping Ground
 4 Breeding Pool
 4 Charming Prince
-1 Liliana's Standard Bearer
+1 Spawn of Mayhem
+1 Disfigure
 1 Judith, the Scourge Diva
-2 Judith, the Scourge Diva
+1 Liliana's Standard Bearer
 2 Liliana's Standard Bearer
-1 Tymaret Calls the Dead
-1 Serrated Scorpion
-2 Bolas's Citadel
-2 Serrated Scorpion
-2 Tymaret Calls the Dead
-3 Serrated Scorpion
-4 Bastion of Remembrance
+2 Judith, the Scourge Diva
 3 Archfiend's Vessel
 4 Archfiend's Vessel
 1 Questing Beast
 2 Questing Beast
-1 Liliana, Dreadhorde General
-1 Quench
-1 Ugin, the Spirit Dragon
-1 Lazav, the Multifarious
-1 Zagoth Triome
-1 Chandra, Awakened Inferno
-1 Kitesail Freebooter
 1 Storm's Wrath
+1 Chandra, Awakened Inferno
+1 Lazav, the Multifarious
+1 Kitesail Freebooter
+1 Quench
+1 Extinction Event
+1 Zagoth Triome
+1 Watery Grave
+2 Extinction Event
+2 Kitesail Freebooter
+2 Storm's Wrath
+2 Watery Grave
+2 Ugin, the Spirit Dragon
 2 Quench
 2 Lazav, the Multifarious
-2 Storm's Wrath
-2 Kitesail Freebooter
-2 Ugin, the Spirit Dragon
 3 Quench
 3 Lazav, the Multifarious
 3 Kitesail Freebooter
+3 Watery Grave
 4 Murderous Rider
 4 Kitesail Freebooter
 4 Quench
+1 Blitz of the Thunder-Raptor
+1 Ominous Seas
+1 Evolving Wilds
+1 Swiftwater Cliffs
+1 Firemind's Research
+1 Bloodfell Caves
+1 Opt
+1 Thassa's Intervention
+1 Flame Sweep
+1 Mass Manipulation
+1 Cancel
+1 Improbable Alliance
+1 Mire's Grasp
+1 Devious Cover-Up
+2 Ominous Seas
+2 Evolving Wilds
+2 Blitz of the Thunder-Raptor
+2 Flame Sweep
+2 Improbable Alliance
+2 Mire's Grasp
+2 Opt
+2 Devious Cover-Up
+2 Swiftwater Cliffs
+2 Bloodfell Caves
+2 Cancel
+3 Blitz of the Thunder-Raptor
+3 Swiftwater Cliffs
+3 Bloodfell Caves
+3 Improbable Alliance
+4 Swiftwater Cliffs
+4 Bloodfell Caves
+4 Improbable Alliance
+1 Godless Shrine
 1 Raugrin Triome
 1 Deafening Clarion
 2 Raugrin Triome
 2 Deafening Clarion
 1 Savai Triome
-1 Indatha Triome
 1 Ketria Triome
 1 Niv-Mizzet Reborn
 1 Hydroid Krasis
 1 Aether Gust
-2 Indatha Triome
+1 Temple of Deceit
+1 Indatha Triome
+2 Godless Shrine
 2 Hydroid Krasis
 2 Aether Gust
+2 Indatha Triome
 2 Niv-Mizzet Reborn
 2 Ketria Triome
-3 Indatha Triome
 3 Angrath's Rampage
 3 Uro, Titan of Nature's Wrath
 3 Niv-Mizzet Reborn
 3 Aether Gust
 3 Deafening Clarion
 3 Hydroid Krasis
-4 Aether Gust
+3 Indatha Triome
 4 Uro, Titan of Nature's Wrath
+4 Aether Gust
 4 Niv-Mizzet Reborn
 4 Hydroid Krasis
 4 Angrath's Rampage
 4 Deafening Clarion
 1 Gods Willing
 1 Shock
-1 Blitz of the Thunder-Raptor
 1 Light of Hope
-1 Unsubstantiate
-1 Sea-Dasher Octopus
 1 See the Truth
+1 Castle Vantress
 1 Callous Dismissal
+1 Dovin's Veto
 1 Vadrok, Apex of Thunder
 1 Cubwarden
+1 Sea-Dasher Octopus
+1 Unsubstantiate
 1 Sacred Foundry
 1 Lofty Denial
 1 Lore Drakkis
 1 Stormwing Entity
-2 Castle Vantress
 2 Shock
 2 Lofty Denial
 2 Stormwing Entity
 2 Sea-Dasher Octopus
 2 Sacred Foundry
+2 Castle Vantress
 2 Unsubstantiate
 2 Lore Drakkis
 2 Vadrok, Apex of Thunder
+2 Dovin's Veto
 2 Cubwarden
 2 Callous Dismissal
 2 See the Truth
@@ -287,46 +275,51 @@
 4 Sea-Dasher Octopus
 4 See the Truth
 4 Steam Vents
-1 Rotting Regisaur
-1 Blacklance Paragon
 1 Hunted Nightmare
+1 Blacklance Paragon
+1 Rotting Regisaur
 2 Disfigure
 2 Rotting Regisaur
-2 Blacklance Paragon
 2 Spawn of Mayhem
 2 Hunted Nightmare
-3 Heartless Act
-3 Rotting Regisaur
-3 Disfigure
+2 Blacklance Paragon
 3 Hunted Nightmare
+3 Disfigure
 3 Blacklance Paragon
+3 Heartless Act
 3 Spawn of Mayhem
+3 Rotting Regisaur
 4 Disfigure
 4 Rankle, Master of Pranks
 4 Heartless Act
 4 Rotting Regisaur
 4 Hunted Nightmare
-1 Castle Ardenvale
+2 Plains
+3 Plains
+4 Plains
 1 Sorin, Vengeful Bloodlord
-1 Mortify
 1 Vito, Thorn of the Dusk Rose
 1 Doom Whisperer
 1 Ajani's Pridemate
 1 Bloodthirsty Aerialist
 1 Scoured Barrens
 1 Fight as One
+1 Mortify
 1 Indulging Patrician
 1 Healer's Hawk
+1 Castle Ardenvale
 1 Orzhov Guildgate
+1 Temple of Silence
 1 Impassioned Orator
-2 Mortify
-2 Vito, Thorn of the Dusk Rose
 2 Scoured Barrens
 2 Fight as One
 2 Impassioned Orator
 2 Healer's Hawk
+2 Vito, Thorn of the Dusk Rose
 2 Ajani's Pridemate
 2 Orzhov Guildgate
+2 Temple of Silence
+2 Mortify
 2 Bloodthirsty Aerialist
 2 Indulging Patrician
 3 Ajani's Pridemate
@@ -342,62 +335,40 @@
 4 Impassioned Orator
 4 Healer's Hawk
 4 Ajani's Pridemate
-5 Plains
-6 Plains
-7 Plains
-8 Plains
-9 Plains
-10 Plains
-11 Plains
-12 Plains
-13 Plains
-14 Plains
-15 Plains
-16 Plains
-17 Plains
-18 Plains
-19 Plains
-20 Plains
-21 Plains
-1 Lurrus of the Dream-Den
-1 Giant Killer
-1 Stonecoil Serpent
-1 Basri Ket
-1 Selfless Savior
-1 Loyal Pegasus
-1 Basri's Solidarity
-1 Glorious Anthem
-1 Seasoned Hallowblade
-1 Raise the Alarm
-1 Venerated Loxodon
-1 Venerable Knight
-2 Giant Killer
-2 Stonecoil Serpent
-2 Venerated Loxodon
-2 Raise the Alarm
-2 Basri Ket
-2 Glorious Anthem
-2 Venerable Knight
-2 Basri's Solidarity
-2 Loyal Pegasus
-2 Selfless Savior
-2 Seasoned Hallowblade
-3 Stonecoil Serpent
-3 Venerable Knight
-3 Selfless Savior
-3 Basri's Solidarity
-3 Giant Killer
-3 Seasoned Hallowblade
-3 Venerated Loxodon
-3 Raise the Alarm
-3 Loyal Pegasus
-4 Venerable Knight
-4 Basri's Solidarity
-4 Seasoned Hallowblade
-4 Raise the Alarm
-4 Venerated Loxodon
-4 Selfless Savior
-4 Loyal Pegasus
+1 Tymaret Calls the Dead
+1 Serrated Scorpion
+2 Bolas's Citadel
+2 Serrated Scorpion
+2 Tymaret Calls the Dead
+3 Serrated Scorpion
+4 Bastion of Remembrance
+1 Mystic Sanctuary
+1 Essence Scatter
+1 Chemister's Insight
+1 Nightveil Predator
+1 Dimir Guildgate
+1 Didn't Say Please
+1 Grasp of Darkness
+1 Ashiok, Nightmare Muse
+1 Lochmere Serpent
+1 Narset, Parter of Veils
+1 Mystical Dispute
+1 Murder
+2 Nightveil Predator
+2 Didn't Say Please
+2 Mystical Dispute
+2 Essence Scatter
+2 Narset, Parter of Veils
+2 Chemister's Insight
+2 Dimir Guildgate
+2 Grasp of Darkness
+3 Essence Scatter
+3 Dimir Guildgate
+3 Grasp of Darkness
+3 Didn't Say Please
+4 Grasp of Darkness
+7 Island
+8 Island
 3 Forest
 4 Forest
 5 Forest
@@ -410,7 +381,6 @@
 1 Radha, Heart of Keld
 1 Gruul Guildgate
 1 Chandra, Heart of Fire
-1 Bolt Hound
 1 Scorch Spitter
 1 Vivien, Monsters' Advocate
 1 Tin Street Dodger
@@ -419,12 +389,13 @@
 1 Grumgully, the Generous
 1 Rugged Highlands
 1 Skewer the Critics
+1 Bolt Hound
 1 Anax, Hardened in the Forge
 1 Rhythm of the Wild
-2 Grumgully, the Generous
-2 Gingerbrute
-2 Rugged Highlands
 2 Wildwood Tracker
+2 Gingerbrute
+2 Grumgully, the Generous
+2 Rugged Highlands
 2 Anax, Hardened in the Forge
 2 Rhythm of the Wild
 2 Arboreal Grazer
@@ -433,24 +404,23 @@
 2 Llanowar Visionary
 2 Scorch Spitter
 2 Skewer the Critics
-3 Bolt Hound
 3 Llanowar Visionary
 3 Gingerbrute
+3 Bolt Hound
 3 Scorch Spitter
 3 Grumgully, the Generous
 3 Tin Street Dodger
 3 Rugged Highlands
 3 Wildwood Tracker
-4 Gingerbrute
 4 Tin Street Dodger
-4 Llanowar Visionary
+4 Gingerbrute
 4 Wildwood Tracker
-4 Rugged Highlands
+4 Llanowar Visionary
 4 Scorch Spitter
+4 Rugged Highlands
 7 Mountain
 8 Mountain
 9 Mountain
-1 Mobilized District
 1 Castle Garenbrig
 1 Pelt Collector
 1 Shifting Ceratops
@@ -460,22 +430,23 @@
 1 Barkhide Troll
 1 Vivien, Arkbow Ranger
 1 Thrash/Threat
+1 Mobilized District
 1 Scavenging Ooze
 1 Elder Gargaroth
 1 Primal Might
+2 Thrash/Threat
 2 Vivien, Arkbow Ranger
 2 Elder Gargaroth
 2 Primal Might
 2 Castle Garenbrig
-2 Thrash/Threat
 2 Lovestruck Beast
+2 Garruk's Harbinger
 2 Pelt Collector
 2 Barkhide Troll
-2 Garruk's Harbinger
 2 Scavenging Ooze
-3 Lovestruck Beast
 3 Pelt Collector
 3 Scavenging Ooze
+3 Lovestruck Beast
 3 Garruk's Harbinger
 3 Barkhide Troll
 3 Castle Garenbrig
@@ -505,10 +476,10 @@
 1 Boot Nipper
 1 Foulmire Knight
 2 Vampire of the Dire Moon
-2 Boot Nipper
+2 Foulmire Knight
 2 Orzhov Enforcer
 2 Grimdancer
-2 Foulmire Knight
+2 Boot Nipper
 2 Hooded Blightfang
 2 Vraska, Swarm's Eminence
 3 Foulmire Knight
@@ -517,14 +488,31 @@
 3 Boot Nipper
 3 Grimdancer
 3 Orzhov Enforcer
-4 Knight of the Ebon Legion
 4 Grimdancer
 4 Hooded Blightfang
+4 Knight of the Ebon Legion
 4 Foulmire Knight
 4 Vampire of the Dire Moon
 4 Boot Nipper
 4 Orzhov Enforcer
 21 Swamp
+5 Plains
+6 Plains
+7 Plains
+8 Plains
+9 Plains
+10 Plains
+11 Plains
+12 Plains
+13 Plains
+14 Plains
+15 Plains
+16 Plains
+17 Plains
+18 Plains
+19 Plains
+20 Plains
+21 Plains
 22 Plains
 23 Plains
 24 Plains

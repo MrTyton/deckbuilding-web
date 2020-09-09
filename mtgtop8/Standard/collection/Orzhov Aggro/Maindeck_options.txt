@@ -8,28 +8,28 @@
 3 Scoured Barrens
 4 Scoured Barrens
 9 Swamp
-1 Revitalize
 1 Griffin Aerie
 1 Indulging Patrician
 1 Silversmote Ghoul
 1 Basilica Bell-Haunt
 1 Light of Hope
+1 Revitalize
 2 Basilica Bell-Haunt
-2 Revitalize
 2 Griffin Aerie
 2 Indulging Patrician
 2 Silversmote Ghoul
 2 Light of Hope
-3 Revitalize
+2 Revitalize
 3 Griffin Aerie
 3 Light of Hope
 3 Indulging Patrician
 3 Silversmote Ghoul
-4 Revitalize
+3 Revitalize
 4 Griffin Aerie
-4 Light of Hope
 4 Silversmote Ghoul
+4 Light of Hope
 4 Indulging Patrician
+4 Revitalize
 1 Orzhov Guildgate
 1 Ajani's Pridemate
 2 Orzhov Guildgate
@@ -50,8 +50,8 @@
 2 Knight of the Ebon Legion
 2 Demonic Embrace
 3 Seasoned Hallowblade
-3 Knight of the Ebon Legion
 3 Demonic Embrace
+3 Knight of the Ebon Legion
 3 Temple of Silence
 4 Seasoned Hallowblade
 4 Knight of the Ebon Legion
@@ -67,13 +67,13 @@
 3 General's Enforcer
 3 Dire Tactics
 4 General's Enforcer
-1 Heartless Act
 1 Faith's Fetters
+1 Heartless Act
 1 Consecrate / Consume
 2 Heartless Act
 2 Consecrate / Consume
-3 Heartless Act
 3 Orzhov Guildgate
+3 Heartless Act
 4 Orzhov Guildgate
 1 Lavabrink Venturer
 1 Rankle, Master of Pranks
@@ -86,24 +86,24 @@
 3 Lavabrink Venturer
 3 Kitesail Freebooter
 4 Kitesail Freebooter
+4 Lavabrink Venturer
 4 General Kudro of Drannith
 4 Demonic Embrace
-4 Lavabrink Venturer
 1 Alseid of Life's Bounty
-1 Archfiend's Vessel
-1 Omen of the Dead
-1 Mire's Grasp
 1 Hateful Eidolon
 1 Shadowspear
 1 Dead Weight
 1 Kaya's Ghostform
+1 Archfiend's Vessel
+1 Mire's Grasp
 1 Murder
 1 Lampad of Death's Vigil
+1 Omen of the Dead
 1 Memory Leak
 2 Alseid of Life's Bounty
-2 Archfiend's Vessel
-2 Mire's Grasp
 2 Hateful Eidolon
+2 Mire's Grasp
+2 Archfiend's Vessel
 2 Murder
 2 Kaya's Ghostform
 2 Memory Leak
@@ -128,35 +128,35 @@
 3 Anointed Chorister
 4 Healer's Hawk
 10 Plains
-1 Murderous Rider
-1 Blacklance Paragon
+1 Gutterbones
 1 Hunted Nightmare
+1 Blacklance Paragon
 1 Rotting Regisaur
 1 Grasp of Darkness
 1 Spawn of Mayhem
-1 Gutterbones
-2 Murderous Rider
-2 Blacklance Paragon
+1 Murderous Rider
+2 Gutterbones
 2 Hunted Nightmare
+2 Blacklance Paragon
 2 Rotting Regisaur
 2 Spawn of Mayhem
-2 Gutterbones
+2 Murderous Rider
 3 Blacklance Paragon
-3 Rotting Regisaur
 3 Gutterbones
+3 Rotting Regisaur
 3 Spawn of Mayhem
+4 Blacklance Paragon
 4 Spawn of Mayhem
 4 Gutterbones
 4 Eliminate
-4 Blacklance Paragon
 4 Rotting Regisaur
 10 Swamp
 1 Venerable Knight
 1 Basri Ket
+1 Haazda Marshal
 1 Icon of Ancestry
 1 Tithe Taker
 1 Disfigure
-1 Haazda Marshal
 1 Castle Ardenvale
 1 Adherent of Hope
 1 Giant Killer
@@ -169,11 +169,11 @@
 2 Haazda Marshal
 2 Adherent of Hope
 3 Venerable Knight
-3 Basri Ket
 3 Tithe Taker
 3 Disfigure
 3 Icon of Ancestry
 3 Adherent of Hope
+3 Basri Ket
 3 Haazda Marshal
 4 Venerable Knight
 4 Tithe Taker
