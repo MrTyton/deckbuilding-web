@@ -55,14 +55,14 @@
 3 Silent Clearing
 4 Battlefield Forge
 4 Containment Priest
-1 Shefet Dunes
 1 Scavenger Grounds
+1 Shefet Dunes
 1 Cast Out
 1 Rest in Peace
 1 Eternal Scourge
 2 Shefet Dunes
-2 Rest in Peace
 2 Blast Zone
+2 Rest in Peace
 2 Eternal Scourge
 2 Scavenger Grounds
 3 Shefet Dunes
@@ -70,35 +70,9 @@
 3 Scavenger Grounds
 4 Shefet Dunes
 4 Eternal Scourge
-1 Restoration Angel
-1 Spell Queller
-1 Meddling Mage
-1 Deputy of Detention
-1 Island
-1 Flooded Strand
-1 Hallowed Fountain
-1 Seachrome Coast
-2 Restoration Angel
-2 Spell Queller
-2 Meddling Mage
-2 Deputy of Detention
-2 Island
-2 Lurrus of the Dream-Den
-2 Hallowed Fountain
-2 Seachrome Coast
-2 Flooded Strand
-3 Restoration Angel
-3 Spell Queller
-3 Deputy of Detention
-3 Meddling Mage
-3 Seachrome Coast
-4 Spell Queller
-4 Seachrome Coast
-4 Meddling Mage
-4 Deputy of Detention
 1 Smuggler's Copter
-1 Sacred Foundry
 1 Inspiring Vantage
+1 Sacred Foundry
 1 Snow-Covered Mountain
 1 Goblin Rabblemaster
 1 Seasoned Pyromancer
@@ -106,37 +80,63 @@
 1 Mountain
 1 Lightning Bolt
 1 Angrath's Marauders
-2 Inspiring Vantage
-2 Sacred Foundry
 2 Smuggler's Copter
 2 Sunbaked Canyon
 2 Lightning Bolt
+2 Inspiring Vantage
+2 Sacred Foundry
 2 Goblin Rabblemaster
 2 Winota, Joiner of Forces
 2 Seasoned Pyromancer
 2 Angrath's Marauders
 2 Mountain
+3 Smuggler's Copter
 3 Inspiring Vantage
 3 Sacred Foundry
-3 Smuggler's Copter
 3 Angrath's Marauders
 3 Lightning Bolt
 3 Seasoned Pyromancer
 3 Winota, Joiner of Forces
 3 Mountain
-4 Inspiring Vantage
 4 Sacred Foundry
+4 Inspiring Vantage
 4 Mountain
 4 Seasoned Pyromancer
 4 Winota, Joiner of Forces
 4 Lightning Bolt
 4 Angrath's Marauders
+1 Spell Queller
+1 Restoration Angel
+1 Meddling Mage
+1 Deputy of Detention
+1 Island
+1 Flooded Strand
+1 Hallowed Fountain
+1 Seachrome Coast
+2 Spell Queller
+2 Restoration Angel
+2 Meddling Mage
+2 Deputy of Detention
+2 Island
+2 Lurrus of the Dream-Den
+2 Hallowed Fountain
+2 Seachrome Coast
+2 Flooded Strand
+3 Spell Queller
+3 Restoration Angel
+3 Meddling Mage
+3 Deputy of Detention
+3 Seachrome Coast
+4 Deputy of Detention
+4 Spell Queller
+4 Meddling Mage
+4 Seachrome Coast
+1 Idyllic Grange
 1 Windswept Heath
 1 Hexdrinker
 1 Phyrexian Revoker
 1 Weathered Wayfarer
 1 Temple Garden
-1 Idyllic Grange
 1 Ranger-Captain of Eos
 2 Windswept Heath
 2 Temple Garden
@@ -146,29 +146,29 @@
 3 Ranger-Captain of Eos
 4 Windswept Heath
 4 Ranger-Captain of Eos
+1 Razorverge Thicket
 1 Brushland
 1 Noble Hierarch
 1 Knight of Autumn
-1 Razorverge Thicket
+2 Razorverge Thicket
 2 Brushland
 2 Noble Hierarch
 2 Knight of Autumn
-2 Razorverge Thicket
+3 Razorverge Thicket
 3 Brushland
 3 Noble Hierarch
-3 Razorverge Thicket
 4 Brushland
 4 Noble Hierarch
-1 Charming Prince
 1 Concealed Courtyard
+1 Charming Prince
 1 Tidehollow Sculler
 1 Swamp
 1 Caves of Koilos
 1 Wasteland Strangler
-2 Charming Prince
 2 Concealed Courtyard
 2 Tidehollow Sculler
 2 Caves of Koilos
+2 Charming Prince
 2 Wasteland Strangler
 3 Concealed Courtyard
 3 Wasteland Strangler

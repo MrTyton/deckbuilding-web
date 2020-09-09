@@ -12,6 +12,13 @@
 1 Tasigur, the Golden Fang
 1 Reclamation Sage
 2 Driven / Despair
+1 Eliminate
+1 Deputy of Detention
+1 Kaya, Orzhov Usurper
+1 Kambal, Consul of Allocation
+2 Kambal, Consul of Allocation
+2 Eliminate
+2 Deputy of Detention
 1 Settle the Wreckage
 2 Settle the Wreckage
 2 Rest in Peace
@@ -39,13 +46,6 @@
 2 Unmoored Ego
 2 Legion's End
 2 Disdainful Stroke
-1 Deputy of Detention
-1 Eliminate
-1 Kaya, Orzhov Usurper
-1 Kambal, Consul of Allocation
-2 Deputy of Detention
-2 Eliminate
-2 Kambal, Consul of Allocation
 1 Collective Brutality
 1 Gurmag Angler
 1 Thief of Sanity
@@ -113,12 +113,12 @@
 1 Elder Deep-Fiend
 1 Watery Grave
 2 Dire Tactics
-2 Elder Deep-Fiend
 2 Watery Grave
+2 Elder Deep-Fiend
 3 Dire Tactics
-3 Elder Deep-Fiend
 3 Watery Grave
 3 Damping Sphere
+3 Elder Deep-Fiend
 4 Watery Grave
 4 Dire Tactics
 4 Damping Sphere

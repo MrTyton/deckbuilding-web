@@ -40,8 +40,6 @@
 |                    3|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)   |                    3|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)       |
 |                    4|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)   |                    1|[Trash for Treasure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420753) |
 |                    1|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)|                    1|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)     |
-|                     |                                                                                          |                    1|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)  |
-|                     |                                                                                          |                    1|[Telemin Performance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189085)|
 |                     |                                                                                          |                    1|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)    |
 |                     |                                                                                          |                    2|[Irencrag Feat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473089)      |
 |                     |                                                                                          |                    3|[Irencrag Feat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473089)      |
@@ -49,7 +47,9 @@
 |                     |                                                                                          |                    1|[Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)          |
 |                     |                                                                                          |                    4|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)       |
 |                     |                                                                                          |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
+|                     |                                                                                          |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
 |                     |                                                                                          |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
 |                     |                                                                                          |                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
-|                     |                                                                                          |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)     |
+|                     |                                                                                          |                    1|[Telemin Performance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189085)|
+|                     |                                                                                          |                    1|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)  |
 

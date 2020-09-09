@@ -48,8 +48,8 @@
 |                    2|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)             |                     |                                                                                            |
 |                    3|[Nissa, Who Shakes the World](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461096)|                     |                                                                                            |
 |                    3|[Hydroid Krasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457327)             |                     |                                                                                            |
+|                    3|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)     |                     |                                                                                            |
 |                    3|[Oath of Nissa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407650)              |                     |                                                                                            |
 |                    3|[Ipnu Rivulet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430869)               |                     |                                                                                            |
-|                    3|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)     |                     |                                                                                            |
 |                    4|[Oath of Nissa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407650)              |                     |                                                                                            |
 

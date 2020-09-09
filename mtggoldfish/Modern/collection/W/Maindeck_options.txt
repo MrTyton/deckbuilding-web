@@ -5,13 +5,9 @@
 5 Plains
 6 Plains
 7 Plains
-1 Path to Exile
-2 Path to Exile
-3 Path to Exile
 8 Plains
 9 Plains
 1 Shefet Dunes
-2 Shefet Dunes
 1 Spectral Procession
 1 Lingering Souls
 1 Force of Virtue
@@ -34,64 +30,23 @@
 3 Legion's Landing
 3 Concealed Courtyard
 3 Raise the Alarm
-3 Gather the Townsfolk
 3 Intangible Virtue
+3 Gather the Townsfolk
 4 Spectral Procession
 4 Force of Virtue
 4 Raise the Alarm
 4 Intangible Virtue
 4 Gather the Townsfolk
-4 Path to Exile
-1 Horizon Canopy
-1 Restoration Angel
-1 Leonin Arbiter
-1 Flickerwisp
-1 Aether Vial
-1 Thalia, Guardian of Thraben
-1 Ghost Quarter
-2 Restoration Angel
-2 Leonin Arbiter
-2 Flickerwisp
-2 Aether Vial
-2 Ghost Quarter
-2 Thalia, Guardian of Thraben
-3 Restoration Angel
-3 Thalia, Guardian of Thraben
-3 Ghost Quarter
-3 Leonin Arbiter
-3 Flickerwisp
-3 Aether Vial
-4 Restoration Angel
-4 Aether Vial
-4 Leonin Arbiter
-4 Flickerwisp
-4 Thalia, Guardian of Thraben
-4 Ghost Quarter
-1 Blade Splicer
-1 Eiganjo Castle
-1 Tectonic Edge
-1 Sunbaked Canyon
-2 Blade Splicer
-2 Tectonic Edge
-3 Blade Splicer
-3 Tectonic Edge
-4 Tectonic Edge
-4 Blade Splicer
+1 Path to Exile
+2 Path to Exile
+3 Path to Exile
 10 Plains
 1 Servo Exhibition
+2 Shefet Dunes
 2 Servo Exhibition
 4 Legion's Landing
 4 Concealed Courtyard
 4 Lingering Souls
-1 Charming Prince
-2 Charming Prince
-1 Ranger-Captain of Eos
-1 Thraben Inspector
-1 Thalia, Heretic Cathar
-2 Thraben Inspector
-3 Charming Prince
-3 Thraben Inspector
-4 Thraben Inspector
 1 Signal Pest
 1 Venerated Loxodon
 2 Signal Pest
@@ -102,6 +57,38 @@
 4 Signal Pest
 11 Plains
 12 Plains
+4 Colossus Hammer
+1 Inspiring Vantage
+1 Apostle's Blessing
+1 Spellskite
+1 Kor Outfitter
+1 Sunbaked Canyon
+1 Kor Duelist
+1 Giver of Runes
+1 Magnetic Theft
+1 Sacred Foundry
+2 Inspiring Vantage
+2 Sacred Foundry
+2 Sunbaked Canyon
+2 Spellskite
+2 Kor Outfitter
+2 Giver of Runes
+2 Magnetic Theft
+2 Kor Duelist
+3 Inspiring Vantage
+3 Sacred Foundry
+3 Sunbaked Canyon
+3 Giver of Runes
+3 Magnetic Theft
+3 Kor Duelist
+3 Kor Outfitter
+4 Inspiring Vantage
+4 Sunbaked Canyon
+4 Kor Duelist
+4 Kor Outfitter
+4 Sacred Foundry
+4 Giver of Runes
+4 Magnetic Theft
 1 Windbrisk Heights
 1 Gideon, Ally of Zendikar
 1 Leyline of the Meek
@@ -109,7 +96,9 @@
 2 Leyline of the Meek
 3 Leyline of the Meek
 4 Leyline of the Meek
-3 Shefet Dunes
+1 Swiftblade Vindicator
+2 Apostle's Blessing
+2 Swiftblade Vindicator
 1 Godless Shrine
 1 Battle Screech
 2 Castle Ardenvale
@@ -117,48 +106,14 @@
 2 Battle Screech
 3 Godless Shrine
 4 Godless Shrine
-1 Windswept Heath
-1 Noble Hierarch
-1 Razorverge Thicket
-1 Forest
-1 Kitchen Finks
-1 Renegade Rallier
-1 Stirring Wildwood
-1 Temple Garden
-1 Field of Ruin
-1 Scavenging Ooze
-1 Qasali Pridemage
-1 Voice of Resurgence
-2 Horizon Canopy
-2 Noble Hierarch
-2 Razorverge Thicket
-2 Forest
-2 Renegade Rallier
-2 Scavenging Ooze
-2 Temple Garden
-2 Qasali Pridemage
-2 Voice of Resurgence
-3 Temple Garden
-3 Noble Hierarch
-3 Razorverge Thicket
-3 Horizon Canopy
-4 Noble Hierarch
-4 Horizon Canopy
-4 Razorverge Thicket
+3 Shefet Dunes
+4 Path to Exile
+1 Swiftfoot Boots
+3 Spellskite
+4 Spellskite
 1 Gingerbrute
 1 Surestrike Trident
 2 Gingerbrute
 3 Gingerbrute
-4 Colossus Hammer
 4 Gingerbrute
 4 Mishra's Bauble
-1 Scavenger Grounds
-1 Containment Priest
-1 Eldrazi Displacer
-1 Giver of Runes
-2 Containment Priest
-2 Eldrazi Displacer
-2 Giver of Runes
-3 Giver of Runes
-3 Eldrazi Displacer
-4 Giver of Runes

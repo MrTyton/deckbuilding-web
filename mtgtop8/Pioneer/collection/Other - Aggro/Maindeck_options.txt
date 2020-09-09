@@ -38,8 +38,8 @@
 1 Stitcher's Supplier
 1 Creeping Chill
 1 Merfolk Secretkeeper
-1 Prized Amalgam
 1 Silversmote Ghoul
+1 Prized Amalgam
 1 Satyr Wayfinder
 1 Narcomoeba
 1 Grisly Salvage
@@ -70,10 +70,10 @@
 4 Satyr Wayfinder
 1 Hallowed Fountain
 2 Hallowed Fountain
-1 General's Enforcer
 1 Rogue Refiner
-2 General's Enforcer
+1 General's Enforcer
 2 Rogue Refiner
+2 General's Enforcer
 3 Rogue Refiner
 3 Breeding Pool
 4 Breeding Pool
@@ -151,10 +151,10 @@
 3 Dire Tactics
 3 Kytheon, Hero of Akros
 1 Gifted Aetherborn
+1 Fetid Pools
 1 Aether Hub
 1 Ashiok, Nightmare Weaver
 1 Thief of Sanity
-1 Fetid Pools
 1 Ashiok, Nightmare Muse
 1 Thought Erasure
 1 Tasigur, the Golden Fang
@@ -162,8 +162,8 @@
 1 Collective Brutality
 1 Kalitas, Traitor of Ghet
 2 Gifted Aetherborn
-2 Aether Hub
 2 Fetid Pools
+2 Aether Hub
 2 Ashiok, Nightmare Weaver
 2 Thief of Sanity
 2 Atris, Oracle of Half-Truths
@@ -186,22 +186,25 @@
 1 Dragonskull Summit
 1 Rootbound Crag
 4 Blood Crypt
+1 Shanna, Sisay's Legacy
+2 Shanna, Sisay's Legacy
+4 Rogue Refiner
 1 Cast Out
+1 Field of Ruin
 1 Sigil of the Empty Throne
 1 Banishing Light
 1 Calix, Destiny's Hand
 1 Alseid of Life's Bounty
 1 Temple of Plenty
-1 Field of Ruin
 1 Starfield Mystic
 1 Setessan Champion
 1 Sphere of Safety
 1 Eidolon of Blossoms
 1 Herald of the Pantheon
 2 Cast Out
+2 Field of Ruin
 2 Banishing Light
 2 Alseid of Life's Bounty
-2 Field of Ruin
 2 Temple of Plenty
 2 Herald of the Pantheon
 2 Eidolon of Blossoms
@@ -241,9 +244,6 @@
 2 Abundant Maw
 3 Narcomoeba
 4 Narcomoeba
-1 Shanna, Sisay's Legacy
-2 Shanna, Sisay's Legacy
-4 Rogue Refiner
 1 Island
 1 Brazen Borrower
 2 Brazen Borrower
@@ -286,10 +286,10 @@
 3 Scrapheap Scrounger
 3 Godless Shrine
 4 Irrigated Farmland
-4 Hallowed Fountain
-4 Seasoned Hallowblade
-4 Teferi, Time Raveler
 4 Glacial Fortress
+4 Seasoned Hallowblade
+4 Hallowed Fountain
+4 Teferi, Time Raveler
 4 Godless Shrine
 4 Heart of Kiran
 4 Scrapheap Scrounger
@@ -315,10 +315,10 @@
 1 Kitesail Freebooter
 1 Inspiring Vantage
 1 Gideon Blackblade
+1 Anafenza, the Foremost
 1 Thalia, Heretic Cathar
 1 Mutavault
 1 Mantis Rider
-1 Anafenza, the Foremost
 2 Kitesail Freebooter
 2 Inspiring Vantage
 2 Gideon Blackblade
@@ -358,6 +358,7 @@
 4 Brazen Borrower
 5 Swamp
 6 Swamp
+1 Brimaz, King of Oreskos
 1 Bronzehide Lion
 1 Fleecemane Lion
 1 Kaheera, the Orphanguard
@@ -366,17 +367,16 @@
 1 Ajani, Adversary of Tyrants
 1 Sacred Cat
 1 Regal Caracal
-1 Brimaz, King of Oreskos
 1 Adorned Pouncer
 1 Leonin Vanguard
 1 Ajani Steadfast
 1 Animal Sanctuary
 2 Fleecemane Lion
 2 Bronzehide Lion
+2 Brimaz, King of Oreskos
 2 Scattered Groves
 2 Sacred Cat
 2 Kaheera, the Orphanguard
-2 Brimaz, King of Oreskos
 2 Adorned Pouncer
 2 Feline Sovereign
 2 Regal Caracal
@@ -403,8 +403,8 @@
 1 Dromoka's Command
 1 Stonecoil Serpent
 1 Rishkar, Peema Renegade
-2 Dromoka's Command
 2 Stonecoil Serpent
+2 Dromoka's Command
 2 Voracious Hydra
 2 Nissa, Voice of Zendikar
 2 Pelt Collector

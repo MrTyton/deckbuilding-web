@@ -61,8 +61,8 @@
 |                    2|[Cunning Nightbonder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479739) |                     |                                                                                             |
 |                    3|[Cunning Nightbonder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479739) |                     |                                                                                             |
 |                    3|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136218)            |                     |                                                                                             |
-|                    4|[Pouncing Shoreshark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479584) |                     |                                                                                             |
 |                    4|[Cunning Nightbonder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479739) |                     |                                                                                             |
+|                    4|[Pouncing Shoreshark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479584) |                     |                                                                                             |
 |                   23|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                     |                                                                                             |
 |                   24|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                     |                                                                                             |
 

@@ -1,7 +1,7 @@
 # Allosaurus Combo
 
 #### [Export MTGO List](../collection/Allosaurus%20Combo/Allosaurus%20Combo.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Allosaurus%20Rider%0A2%09Autochthon%20Wurm%0A4%09Botanical%20Sanctum%0A4%09Chancellor%20of%20the%20Tangle%0A4%09Eldritch%20Evolution%0A4%09Gemstone%20Mine%0A2%09Griselbrand%0A1%09Laboratory%20Maniac%0A1%09Life%20Goes%20On%0A4%09Manamorphose%0A4%09Neoform%0A4%09Nourishing%20Shoal%0A1%09Noxious%20Revival%0A4%09Serum%20Visions%0A4%09Simian%20Spirit%20Guide%0A1%09Snow-Covered%20Island%0A4%09Summoner's%20Pact%0A3%09Veil%20of%20Summer%0A4%09Waterlogged%20Grove%0A1%09Wild%20Cantor&deckside=3%09Dissenter's%20Deliverance%0A4%09Force%20of%20Negation%0A1%09Hope%20of%20Ghirapur%0A3%09Leyline%20of%20Sanctity%0A1%09Slaughter%20Pact%0A1%09Veil%20of%20Summer%0A2%09Wilt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Allosaurus%20Rider%0A2%09Autochthon%20Wurm%0A4%09Botanical%20Sanctum%0A4%09Chancellor%20of%20the%20Tangle%0A4%09Eldritch%20Evolution%0A4%09Gemstone%20Mine%0A2%09Griselbrand%0A1%09Laboratory%20Maniac%0A1%09Life%20Goes%20On%0A4%09Manamorphose%0A4%09Neoform%0A4%09Nourishing%20Shoal%0A1%09Noxious%20Revival%0A4%09Serum%20Visions%0A4%09Simian%20Spirit%20Guide%0A1%09Snow-Covered%20Island%0A4%09Summoner's%20Pact%0A3%09Veil%20of%20Summer%0A4%09Waterlogged%20Grove%0A1%09Wild%20Cantor&deckside=4%09Dissenter's%20Deliverance%0A4%09Leyline%20of%20Sanctity%0A4%09Pact%20of%20Negation%0A2%09Slaughter%20Pact%0A1%09Veil%20of%20Summer)
 # Maindeck
 
 |                                            Creature (18)                                            |                                        Instant (17)                                        |                                           Land (13)                                            |                                         Sorcery (12)                                          |
@@ -17,11 +17,23 @@
 
 # Sideboard
 
-|                                        Creature (1)                                         |                                        Enchantment (3)                                         |                                            Instant (11)                                            |
-|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-|1 [Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)|3 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|3 [Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
-|                                                                                             |                                                                                                |4 [Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)      |
-|                                                                                             |                                                                                                |1 [Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)         |
-|                                                                                             |                                                                                                |1 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
-|                                                                                             |                                                                                                |2 [Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)                   |
+|                                        Enchantment (4)                                         |                                            Instant (11)                                            |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+|4 [Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|4 [Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
+|                                                                                                |4 [Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)       |
+|                                                                                                |2 [Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)         |
+|                                                                                                |1 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)            |                    1|[Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821) |
+|                    1|[Edge of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=243442)    |                    1|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)             |
+|                    1|[Children of Korlis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=110525)|                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
+|                     |                                                                                             |                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
+|                     |                                                                                             |                    2|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)             |
+|                     |                                                                                             |                    4|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
+|                     |                                                                                             |                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
 

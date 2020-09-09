@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Rakdos%20Control/Rakdos%20Control.txt)
 #### [Export Arena List](../collection/Rakdos%20Control/Rakdos%20Control_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Bastion%20of%20Remembrance%0A4%09Bloodfell%20Caves%0A1%09Chandra,%20Acolyte%20of%20Flame%0A1%09Chandra,%20Awakened%20Inferno%0A1%09Claim%20the%20Firstborn%0A2%09Grim%20Initiate%0A4%09Heartfire%0A4%09Light%20Up%20the%20Stage%0A1%09Liliana,%20Dreadhorde%20General%0A4%09Mayhem%20Devil%0A8%09Mountain%0A3%09Serrated%20Scorpion%0A12%09Swamp%0A2%09Tibalt,%20Rakish%20Instigator%0A4%09Village%20Rites%0A1%09Weaponize%20the%20Monsters%0A4%09Whisper%20Squad%0A1%09Woe%20Strider&deckside=3%09Act%20of%20Treason%0A1%09Aid%20the%20Fallen%0A4%09Duress%0A1%09Foreboding%20Fruit%0A2%09Pharika's%20Libation%0A2%09Shredded%20Sails%0A2%09Spark%20Harvest)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Bastion%20of%20Remembrance%0A4%09Bloodfell%20Caves%0A1%09Chandra,%20Acolyte%20of%20Flame%0A1%09Chandra,%20Awakened%20Inferno%0A1%09Claim%20the%20Firstborn%0A2%09Grim%20Initiate%0A4%09Heartfire%0A4%09Light%20Up%20the%20Stage%0A1%09Liliana,%20Dreadhorde%20General%0A4%09Mayhem%20Devil%0A8%09Mountain%0A3%09Serrated%20Scorpion%0A12%09Swamp%0A2%09Tibalt,%20Rakish%20Instigator%0A4%09Village%20Rites%0A1%09Weaponize%20the%20Monsters%0A4%09Whisper%20Squad%0A1%09Woe%20Strider&deckside=3%09Act%20of%20Treason%0A1%09Aid%20the%20Fallen%0A4%09Duress%0A2%09Pharika's%20Libation%0A3%09Shredded%20Sails%0A2%09Spark%20Harvest)
 # Maindeck
 
 |                                        Creature (14)                                         |                                          Enchantment (4)                                          |                                       Instant (8)                                        |                                         Land (24)                                          |                                            Planeswalker (5)                                            |                                          Sorcery (5)                                           |
@@ -16,11 +16,17 @@
 
 # Sideboard
 
-|                                          Instant (4)                                          |                                        Sorcery (11)                                         |
-|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-|2 [Pharika's Libation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476362)|3 [Act of Treason](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442107)  |
-|2 [Shredded Sails](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479656)    |1 [Aid the Fallen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461003)  |
-|                                                                                               |4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)           |
-|                                                                                               |1 [Foreboding Fruit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473050)|
-|                                                                                               |2 [Spark Harvest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461032)   |
+|                                          Instant (5)                                          |                                       Sorcery (10)                                        |
+|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|2 [Pharika's Libation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476362)|3 [Act of Treason](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442107)|
+|3 [Shredded Sails](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479656)    |1 [Aid the Fallen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461003)|
+|                                                                                               |4 [Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)         |
+|                                                                                               |2 [Spark Harvest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461032) |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                    1|[Theater of Horrors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457357)|                    1|[Foreboding Fruit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473050)|
 
