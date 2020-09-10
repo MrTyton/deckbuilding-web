@@ -1,54 +1,53 @@
-1 Dream Trawler
 4 Island
 1 Archon of Sun's Grace
 1 Aether Gust
+1 Temple of Silence
 1 Temple of Deceit
 2 Archon of Sun's Grace
 3 The Birth of Meletis
 2 Aether Gust
-1 Castle Ardenvale
 4 Shatter the Sky
+1 Castle Ardenvale
+1 Raugrin Triome
 4 Temple of Enlightenment
 4 Oath of Kaya
-1 Dance of the Manse
 1 Doom Foretold
+1 Dance of the Manse
 2 Doom Foretold
 3 Doom Foretold
 4 Doom Foretold
-1 Raugrin Triome
+3 Glass Casket
 2 Temple of Silence
-3 Swamp
 1 Agonizing Remorse
 2 Agonizing Remorse
 3 Agonizing Remorse
 4 Agonizing Remorse
+3 Swamp
+3 Temple of Silence
+1 Shark Typhoon
 1 Treacherous Blessing
 2 Treacherous Blessing
-3 Glass Casket
-1 Shark Typhoon
-3 Temple of Silence
+4 The Birth of Meletis
 1 Dovin's Veto
 2 Dovin's Veto
-2 Shark Typhoon
-4 The Birth of Meletis
 2 Raugrin Triome
-3 Shark Typhoon
-4 Shark Typhoon
-1 Thought Erasure
-2 Thought Erasure
-3 Thought Erasure
+2 Shark Typhoon
 3 Aether Gust
+4 Glass Casket
 1 Kaya, Orzhov Usurper
 2 Kaya, Orzhov Usurper
+3 Archon of Sun's Grace
 3 Raugrin Triome
 4 Raugrin Triome
-3 Archon of Sun's Grace
-3 Treacherous Blessing
-2 Temple of Deceit
-4 Glass Casket
+3 Shark Typhoon
+4 Shark Typhoon
 5 Island
 1 Mystical Dispute
 2 Mystical Dispute
+2 Temple of Deceit
+1 Thought Erasure
+2 Thought Erasure
+3 Thought Erasure
 4 Thought Erasure
 2 Castle Ardenvale
 6 Island
@@ -57,43 +56,41 @@
 9 Island
 2 Dream Trawler
 3 Mystical Dispute
+3 Treacherous Blessing
+3 Dovin's Veto
+1 Heartless Act
+1 Charming Prince
+7 Plains
+1 Teferi, Master of Time
+4 Aether Gust
 1 Extinction Event
 2 Extinction Event
+2 Charming Prince
+3 Charming Prince
 2 Castle Vantress
 1 Castle Locthwain
 1 Eliminate
 2 Eliminate
-1 Heartless Act
-3 Dovin's Veto
 2 Dance of the Manse
-1 Charming Prince
-7 Plains
-4 Aether Gust
-2 Charming Prince
-3 Charming Prince
-3 Eliminate
-3 Dance of the Manse
-4 Treacherous Blessing
 1 Elspeth's Nightmare
 2 Elspeth's Nightmare
-1 Teferi, Master of Time
 8 Plains
+1 Steam Vents
 1 Sacred Foundry
 1 Elspeth, Sun's Nemesis
 1 Temple of Epiphany
 1 Mountain
 1 Lukka, Coppercoat Outcast
-1 Steam Vents
-2 Sacred Foundry
 2 Elspeth, Sun's Nemesis
 2 Steam Vents
-2 Lukka, Coppercoat Outcast
+2 Sacred Foundry
 2 Temple of Epiphany
-3 Sacred Foundry
+2 Lukka, Coppercoat Outcast
 3 Dream Trawler
-3 Lukka, Coppercoat Outcast
 3 Steam Vents
+3 Sacred Foundry
 3 Temple of Epiphany
+3 Lukka, Coppercoat Outcast
 4 Sacred Foundry
 4 Dream Trawler
 4 Lukka, Coppercoat Outcast
@@ -105,6 +102,7 @@
 2 Cling to Dust
 2 Disinformation Campaign
 2 Castle Locthwain
+3 Eliminate
 3 Disinformation Campaign
 4 Disinformation Campaign
 1 Mazemind Tome
@@ -119,6 +117,8 @@
 3 Neutralize
 4 Neutralize
 3 Elspeth's Nightmare
+3 Dance of the Manse
+4 Treacherous Blessing
 4 Dance of the Manse
 4 Mystical Dispute
 4 Swamp
@@ -128,8 +128,8 @@
 3 Temple of Deceit
 3 Thirst for Meaning
 4 Thirst for Meaning
-1 Zagoth Triome
 1 Indatha Triome
+1 Zagoth Triome
 2 Zagoth Triome
 3 Zagoth Triome
 4 Zagoth Triome
@@ -143,10 +143,10 @@
 2 Elite Guardmage
 1 Opt
 2 Opt
-1 Cavalier of Dawn
+2 Teferi, Master of Time
 1 Blast Zone
 1 Essence Scatter
-2 Teferi, Master of Time
+1 Cavalier of Dawn
 1 Cancel
 3 Castle Ardenvale
 1 Solemn Simulacrum
@@ -155,22 +155,59 @@
 2 Solemn Simulacrum
 2 Soul-Guide Lantern
 3 Banishing Light
+2 Indatha Triome
+3 Indatha Triome
+4 Indatha Triome
 1 Bolas's Citadel
 1 Faith's Fetters
 2 Faith's Fetters
 3 Heartless Act
 4 Charming Prince
-1 Despark
+1 Nissa, Who Shakes the World
+1 Temple of Mystery
+1 Llanowar Visionary
+1 Hydroid Krasis
+1 Uro, Titan of Nature's Wrath
+1 Breeding Pool
+1 Forest
+1 Jolrael, Mwonvuli Recluse
+1 Temple of Plenty
+1 Temple Garden
 1 Ugin, the Spirit Dragon
-1 Lochmere Serpent
-2 Despark
-3 Extinction Event
-4 Eliminate
-2 Indatha Triome
-3 Indatha Triome
-4 Indatha Triome
-1 Ashiok, Dream Render
+1 Ugin, the Ineffable
+1 Knight of Autumn
+1 Elder Gargaroth
+1 Castle Garenbrig
+1 Tamiyo, Collector of Tales
+2 Elder Gargaroth
+2 Temple of Plenty
+2 Jolrael, Mwonvuli Recluse
+2 Uro, Titan of Nature's Wrath
+2 Breeding Pool
+2 Llanowar Visionary
+2 Nissa, Who Shakes the World
+2 Temple of Mystery
+2 Forest
+2 Temple Garden
+2 Knight of Autumn
+2 Hydroid Krasis
+2 Tamiyo, Collector of Tales
+3 Temple of Plenty
+3 Temple of Mystery
+3 Uro, Titan of Nature's Wrath
+3 Breeding Pool
+3 Llanowar Visionary
+3 Temple Garden
+3 Forest
+3 Elder Gargaroth
+3 Jolrael, Mwonvuli Recluse
+4 Temple Garden
+4 Llanowar Visionary
+4 Breeding Pool
+4 Jolrael, Mwonvuli Recluse
+4 Uro, Titan of Nature's Wrath
 1 Teferi's Tutelage
+1 Ashiok, Dream Render
 2 Ashiok, Dream Render
 2 Teferi's Tutelage
 3 Ashiok, Dream Render
@@ -184,14 +221,14 @@
 1 Deputy of Detention
 1 Baneslayer Angel
 1 Thassa, Deep-Dwelling
+1 God-Eternal Kefnet
 1 Time Wipe
 1 Pacifism
-1 God-Eternal Kefnet
 1 Spectral Sailor
-1 Dungeon Geists
 1 Frogify
-2 Negate
+1 Dungeon Geists
 2 Spectral Sailor
+2 Negate
 9 Plains
 10 Plains
 11 Island

@@ -22,11 +22,11 @@
 4 Once Upon a Time
 2 Urborg, Tomb of Yawgmoth
 2 Endbringer
-1 Ulamog, the Ceaseless Hunger
-1 Karn, the Great Creator
 1 Grim Monolith
-2 Karn, the Great Creator
+1 Karn, the Great Creator
+1 Ulamog, the Ceaseless Hunger
 2 Grim Monolith
+2 Karn, the Great Creator
 3 Karn, the Great Creator
 3 Grim Monolith
 4 Grim Monolith
@@ -65,19 +65,19 @@
 3 City of Traitors
 1 Ugin, the Ineffable
 1 Cascading Cataracts
-1 Golos, Tireless Pilgrim
-1 Sorcerous Spyglass
-1 Thran Dynamo
 1 Thespian's Stage
+1 Golos, Tireless Pilgrim
+1 Thran Dynamo
+1 Sorcerous Spyglass
 2 Ugin, the Ineffable
 2 Trinisphere
 2 Sorcerous Spyglass
 2 Thran Dynamo
-3 Trinisphere
 3 Ugin, the Ineffable
 3 Sorcerous Spyglass
 3 Ugin, the Spirit Dragon
 3 Thran Dynamo
+3 Trinisphere
 1 Mountain
 2 Mountain
 3 Mountain
@@ -93,10 +93,10 @@
 1 Oblivion Sower
 2 Mind Stone
 2 Oblivion Sower
+3 Urborg, Tomb of Yawgmoth
 3 Ulamog, the Ceaseless Hunger
 3 Oblivion Sower
 3 Mind Stone
-3 Urborg, Tomb of Yawgmoth
 4 Mind Stone
 4 Oblivion Sower
 1 Eldrazi Obligator
@@ -152,6 +152,6 @@
 4 Grove of the Burnwillows
 4 Goblin Rabblemaster
 4 Punishing Fire
+5 Mountain
 6 Mountain
 7 Mountain
-5 Mountain

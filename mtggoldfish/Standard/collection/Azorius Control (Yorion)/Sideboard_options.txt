@@ -2,12 +2,12 @@
 1 Cry of the Carnarium
 2 Cry of the Carnarium
 4 Mystical Dispute
-1 Duress
-2 Duress
 2 Eliminate
 1 Heliod's Intervention
 1 Devout Decree
 2 Devout Decree
+1 Duress
+2 Duress
 1 Disdainful Stroke
 2 Disdainful Stroke
 1 Bonecrusher Giant
@@ -19,43 +19,43 @@
 3 Prison Realm
 3 Bonecrusher Giant
 4 Bonecrusher Giant
+1 Time Wipe
 3 Devout Decree
 1 Dream Trawler
-1 Commence the Endgame
-1 Time Wipe
-1 Archon of Sun's Grace
 1 Kaya, Orzhov Usurper
 1 Cerulean Drake
 2 Cerulean Drake
 3 Shatter the Sky
 4 Shatter the Sky
+1 Commence the Endgame
 2 Heliod's Intervention
-1 Glass Casket
+3 Heartless Act
+3 Extinction Event
+4 Heartless Act
 1 Negate
 2 Negate
-3 Extinction Event
-3 Heartless Act
-4 Heartless Act
+1 Archon of Sun's Grace
+1 Grafdigger's Cage
 3 Cerulean Drake
 4 Devout Decree
 4 Cerulean Drake
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Aether Gust
-1 Grafdigger's Cage
+1 Glass Casket
 1 Ashiok, Dream Render
-1 Thought Distortion
-2 Archon of Sun's Grace
-2 Glass Casket
+2 Ashiok, Dream Render
 2 Commence the Endgame
+2 Grafdigger's Cage
 1 Sorcerous Spyglass
 1 Agonizing Remorse
 2 Agonizing Remorse
-2 Ashiok, Dream Render
-1 Narset's Reversal
-2 Narset's Reversal
 1 Lazotep Plating
 2 Lazotep Plating
+1 Narset's Reversal
+2 Archon of Sun's Grace
+2 Narset's Reversal
+2 Glass Casket
 1 Banishing Light
 1 Essence Scatter
 1 Dungeon Geists
@@ -73,15 +73,15 @@
 1 Brazen Borrower
 2 Brazen Borrower
 3 Brazen Borrower
+1 Knight of Autumn
+1 Swift Response
+2 Time Wipe
+2 Knight of Autumn
+2 Swift Response
+3 Ashiok, Dream Render
+1 Thought Distortion
 2 Thought Distortion
-2 Grafdigger's Cage
 3 Grafdigger's Cage
-1 Necromentia
-1 Ashiok's Erasure
-1 Memory Theft
-2 Memory Theft
-3 Cry of the Carnarium
-3 Memory Theft
 1 Soul-Guide Lantern
 4 Aether Gust
 1 Noxious Grasp
@@ -89,5 +89,9 @@
 3 Eliminate
 3 Noxious Grasp
 4 Noxious Grasp
-1 Kaya's Wrath
-3 Duress
+1 Ashiok's Erasure
+1 Necromentia
+1 Memory Theft
+2 Memory Theft
+3 Cry of the Carnarium
+3 Memory Theft

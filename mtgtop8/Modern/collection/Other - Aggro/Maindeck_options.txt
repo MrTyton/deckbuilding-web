@@ -66,7 +66,6 @@
 2 Mountain
 1 Dakmor Salvage
 1 Forgotten Cave
-1 Bloodghast
 1 Mana Confluence
 1 Conflagrate
 1 Copperline Gorge
@@ -81,6 +80,7 @@
 1 Cathartic Reunion
 1 Ox of Agonas
 1 Creeping Chill
+1 Bloodghast
 1 Prized Amalgam
 2 Stinkweed Imp
 2 Creeping Chill
@@ -114,10 +114,10 @@
 4 Shriekhorn
 4 Silversmote Ghoul
 4 Cathartic Reunion
-1 Force of Virtue
 1 Squadron Hawk
 1 Mutavault
 1 Moorland Haunt
+1 Force of Virtue
 1 Selfless Spirit
 1 Marsh Flats
 1 Island
@@ -136,8 +136,8 @@
 1 Path to Exile
 1 Supreme Phantom
 2 Plains
-2 Force of Virtue
 2 Squadron Hawk
+2 Force of Virtue
 2 Mutavault
 2 Selfless Spirit
 2 Geist of Saint Traft
@@ -160,8 +160,8 @@
 3 Spell Queller
 3 Seachrome Coast
 3 Aether Vial
-4 Force of Virtue
 4 Aether Vial
+4 Force of Virtue
 4 Squadron Hawk
 4 Empyrean Eagle
 4 Mausoleum Wanderer

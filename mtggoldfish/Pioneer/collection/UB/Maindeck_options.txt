@@ -1,3 +1,5 @@
+1 Choked Estuary
+2 Choked Estuary
 2 Drown in the Loch
 3 Drown in the Loch
 1 Aether Hub
@@ -11,14 +13,33 @@
 1 The Scarab God
 2 Teferi, Master of Time
 2 Ashiok, Nightmare Muse
+1 Languish
+1 Hero's Downfall
+1 Torrential Gearhulk
+1 Geier Reach Sanitarium
+1 Notion Thief
+1 Day's Undoing
+2 Geier Reach Sanitarium
+2 Hero's Downfall
+2 Day's Undoing
+2 Languish
+2 Narset, Parter of Veils
+2 Notion Thief
+3 Narset, Parter of Veils
+3 Day's Undoing
+3 Notion Thief
+4 Narset, Parter of Veils
+4 Dig Through Time
+4 Day's Undoing
+4 Notion Thief
 1 Tasigur, the Golden Fang
 1 Thief of Sanity
 1 Ashiok, Nightmare Weaver
 1 Collective Brutality
 2 Tasigur, the Golden Fang
 2 Thief of Sanity
-2 Ashiok, Nightmare Weaver
 2 Collective Brutality
+2 Ashiok, Nightmare Weaver
 3 Thief of Sanity
 3 Fetid Pools
 4 Thief of Sanity
@@ -27,44 +48,22 @@
 2 Mystical Dispute
 5 Swamp
 6 Swamp
-1 Choked Estuary
-2 Choked Estuary
 1 Gifted Aetherborn
 2 Gifted Aetherborn
 3 Castle Locthwain
 2 Liliana, the Last Hope
 1 Atris, Oracle of Half-Truths
 2 Atris, Oracle of Half-Truths
-4 Thought Erasure
-1 Languish
-1 Hero's Downfall
-1 Torrential Gearhulk
-1 Geier Reach Sanitarium
-1 Notion Thief
-1 Day's Undoing
-2 Hero's Downfall
-2 Notion Thief
-2 Day's Undoing
-2 Geier Reach Sanitarium
-2 Languish
-2 Narset, Parter of Veils
-3 Narset, Parter of Veils
-3 Notion Thief
-3 Day's Undoing
-4 Narset, Parter of Veils
-4 Notion Thief
-4 Dig Through Time
-4 Day's Undoing
 1 Mortify
+1 History of Benalia
 1 Castle Ardenvale
 1 Tithe Taker
 1 Knight of the White Orchid
 1 Dawn of Hope
 1 Basilica Bell-Haunt
+1 Settle the Wreckage
 1 The Immortal Sun
 1 Isolated Chapel
-1 Settle the Wreckage
-1 History of Benalia
 1 Thalia, Heretic Cathar
 1 Godless Shrine
 1 Obzedat, Ghost Council
@@ -72,25 +71,25 @@
 1 Shambling Vent
 2 Basilica Bell-Haunt
 2 Shambling Vent
-2 Godless Shrine
 2 Plains
+2 History of Benalia
 2 The Immortal Sun
 2 Tithe Taker
 2 Knight of the White Orchid
 2 Dawn of Hope
+2 Settle the Wreckage
 2 Thalia, Heretic Cathar
 2 Isolated Chapel
-2 History of Benalia
-2 Settle the Wreckage
+2 Godless Shrine
 3 Basilica Bell-Haunt
-3 Godless Shrine
-3 Shambling Vent
-3 Plains
-3 Tithe Taker
 3 History of Benalia
-4 Godless Shrine
+3 Shambling Vent
+3 Tithe Taker
+3 Plains
+3 Godless Shrine
 4 Tithe Taker
 4 Plains
+4 Godless Shrine
 1 Thieves' Guild Enforcer
 1 Brazen Borrower
 1 Rankle, Master of Pranks
@@ -102,10 +101,11 @@
 3 Rankle, Master of Pranks
 4 Brazen Borrower
 4 Thieves' Guild Enforcer
+4 Thought Erasure
 1 Tireless Tracker
 1 Heartless Act
-1 Hissing Quagmire
 1 Nissa, Who Shakes the World
+1 Hissing Quagmire
 1 Assassin's Trophy
 1 Abrupt Decay
 1 Overgrown Tomb
@@ -115,8 +115,8 @@
 1 Scavenging Ooze
 1 Forest
 2 Tireless Tracker
-2 Hissing Quagmire
 2 Nissa, Who Shakes the World
+2 Hissing Quagmire
 2 Blooming Marsh
 2 Forest
 2 Overgrown Tomb
@@ -130,28 +130,28 @@
 3 Servant of the Conduit
 4 Overgrown Tomb
 4 Blooming Marsh
+1 Nicol Bolas, Dragon-God
 1 Steam Vents
 1 Spirebluff Canal
-1 Nicol Bolas, the Ravager
-1 Nicol Bolas, Dragon-God
 1 Izzet Charm
 1 Kolaghan's Command
-1 Magma Spray
 1 Anger of the Gods
+1 Magma Spray
 1 Dreadbore
 1 Blood Crypt
+1 Nicol Bolas, the Ravager
 1 Mountain
 1 Kroxa, Titan of Death's Hunger
 1 Dragonskull Summit
 1 Gonti, Lord of Luxury
-2 Nicol Bolas, the Ravager
+2 Dreadbore
 2 Nicol Bolas, Dragon-God
 2 Spirebluff Canal
 2 Kolaghan's Command
 2 Magma Spray
 2 Anger of the Gods
 2 Blood Crypt
-2 Dreadbore
+2 Nicol Bolas, the Ravager
 2 Kroxa, Titan of Death's Hunger
 2 Dragonskull Summit
 3 Dragonskull Summit
@@ -160,17 +160,17 @@
 4 Dragonskull Summit
 4 Blood Crypt
 1 Yarok's Fenlurker
-1 Nykthos, Shrine to Nyx
 1 Tymaret, Chosen from Death
 1 The Eldest Reborn
 1 Gray Merchant of Asphodel
+1 Nykthos, Shrine to Nyx
 1 Crypt Ghast
 1 Cling to Dust
 1 Karn, the Great Creator
 2 Urborg, Tomb of Yawgmoth
 2 Yarok's Fenlurker
-2 Nykthos, Shrine to Nyx
 2 Karn, the Great Creator
+2 Nykthos, Shrine to Nyx
 2 Gray Merchant of Asphodel
 2 Crypt Ghast
 3 Yarok's Fenlurker

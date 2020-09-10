@@ -12,13 +12,6 @@
 1 Tasigur, the Golden Fang
 1 Reclamation Sage
 2 Driven / Despair
-1 Eliminate
-1 Deputy of Detention
-1 Kaya, Orzhov Usurper
-1 Kambal, Consul of Allocation
-2 Kambal, Consul of Allocation
-2 Eliminate
-2 Deputy of Detention
 1 Settle the Wreckage
 2 Settle the Wreckage
 2 Rest in Peace
@@ -29,8 +22,8 @@
 1 Prowling Serpopard
 1 Felidar Cub
 1 Leonin Warleader
-2 Heroic Intervention
 2 Prowling Serpopard
+2 Heroic Intervention
 2 Glass Casket
 1 Noxious Grasp
 2 Noxious Grasp
@@ -46,14 +39,21 @@
 2 Unmoored Ego
 2 Legion's End
 2 Disdainful Stroke
+1 Eliminate
+1 Deputy of Detention
+1 Kaya, Orzhov Usurper
+1 Kambal, Consul of Allocation
+2 Eliminate
+2 Deputy of Detention
+2 Kambal, Consul of Allocation
 1 Collective Brutality
 1 Thief of Sanity
 1 Return to Nature
 1 Den Protector
 1 Gurmag Angler
 1 Golgari Charm
-2 Collective Brutality
 2 Gurmag Angler
+2 Collective Brutality
 2 Den Protector
 1 Kalitas, Traitor of Ghet
 1 Vraska, Golgari Queen
@@ -116,9 +116,9 @@
 2 Watery Grave
 2 Elder Deep-Fiend
 3 Dire Tactics
-3 Elder Deep-Fiend
 3 Watery Grave
 3 Damping Sphere
+3 Elder Deep-Fiend
 4 Watery Grave
 4 Dire Tactics
 4 Damping Sphere
