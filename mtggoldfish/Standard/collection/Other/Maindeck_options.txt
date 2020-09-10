@@ -1,10 +1,10 @@
-8 Swamp
 1 Agonizing Remorse
 1 Lazotep Reaver
 2 Lazotep Reaver
-3 Rankle, Master of Pranks
+8 Swamp
 2 Temple of Malice
 3 Bastion of Remembrance
+3 Rankle, Master of Pranks
 4 Mayhem Devil
 1 Archfiend's Vessel
 1 Weaponize the Monsters
@@ -25,81 +25,8 @@
 3 Archfiend's Vessel
 4 Archfiend's Vessel
 9 Swamp
-1 Plains
-1 Forest
-1 Overgrown Tomb
-2 Overgrown Tomb
-1 Godless Shrine
-2 Plains
-3 Plains
-4 Plains
-1 Castle Ardenvale
-1 Sorin, Vengeful Bloodlord
-1 Temple of Silence
-2 Temple of Silence
-1 Indatha Triome
-2 Godless Shrine
-2 Indatha Triome
-3 Indatha Triome
-2 Forest
-1 Temple Garden
-1 Charming Prince
-2 Temple Garden
-2 Charming Prince
-3 Temple Garden
-3 Charming Prince
-4 Temple Garden
-4 Charming Prince
-1 Yorion, Sky Nomad
-1 Temple of Malady
-1 Glass Casket
-1 Elspeth Conquers Death
-1 Oath of Kaya
-1 Llanowar Visionary
-1 Doom Foretold
-1 Burglar Rat
-1 Yarok's Fenlurker
-1 Eerie Ultimatum
-1 Kaya's Wrath
-1 Basilica Bell-Haunt
-1 Treacherous Blessing
-1 Kaya, Orzhov Usurper
-2 Yorion, Sky Nomad
-2 Glass Casket
-2 Elspeth Conquers Death
-2 Doom Foretold
-2 Kaya's Wrath
-2 Basilica Bell-Haunt
-2 Treacherous Blessing
-2 Oath of Kaya
-2 Burglar Rat
-2 Llanowar Visionary
-2 Yarok's Fenlurker
-2 Eerie Ultimatum
-3 Yorion, Sky Nomad
-3 Doom Foretold
-3 Elspeth Conquers Death
-3 Godless Shrine
-3 Overgrown Tomb
-3 Oath of Kaya
-3 Llanowar Visionary
-3 Burglar Rat
-3 Yarok's Fenlurker
-3 Basilica Bell-Haunt
-3 Treacherous Blessing
-4 Oath of Kaya
-4 Godless Shrine
-4 Burglar Rat
-4 Llanowar Visionary
-4 Doom Foretold
-4 Overgrown Tomb
-4 Yarok's Fenlurker
-4 Indatha Triome
-1 Island
 1 Eliminate
 2 Eliminate
-1 Heartless Act
-2 Heartless Act
 1 Knight of the Ebon Legion
 2 Knight of the Ebon Legion
 3 Eliminate
@@ -120,41 +47,63 @@
 18 Swamp
 19 Swamp
 20 Swamp
-1 Breeding Pool
-1 Disfigure
-1 Spawn of Mayhem
-1 Stomping Ground
+1 Heartless Act
+2 Heartless Act
 1 Murderous Rider
 2 Murderous Rider
 3 Murderous Rider
+1 Island
+1 Plains
+1 Forest
+1 Breeding Pool
+1 Stomping Ground
 1 Steam Vents
 2 Steam Vents
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 1 Hallowed Fountain
+2 Breeding Pool
+3 Breeding Pool
+1 Overgrown Tomb
 1 Thought Erasure
 1 Angrath's Rampage
 2 Thought Erasure
 2 Angrath's Rampage
+2 Overgrown Tomb
 3 Thought Erasure
 4 Thought Erasure
-2 Breeding Pool
-3 Breeding Pool
 2 Stomping Ground
-2 Island
-1 Paradise Druid
-2 Paradise Druid
-4 Breeding Pool
+1 Raugrin Triome
 2 Hallowed Fountain
 3 Hallowed Fountain
+2 Island
+4 Breeding Pool
+4 Hallowed Fountain
+1 Temple Garden
+1 Gilded Goose
+1 Charming Prince
+2 Temple Garden
+2 Gilded Goose
+2 Charming Prince
+3 Temple Garden
+3 Gilded Goose
+3 Charming Prince
+3 Stomping Ground
+4 Temple Garden
+4 Charming Prince
+4 Gilded Goose
+4 Stomping Ground
+1 Questing Beast
+2 Questing Beast
+2 Forest
+1 Paradise Druid
+2 Paradise Druid
 1 Thassa, Deep-Dwelling
 1 Gyruda, Doom of Depths
-1 Gilded Goose
 1 Terror of the Peaks
 1 Cultivate
 1 Spark Double
 1 Migration Path
-2 Gilded Goose
 2 Migration Path
 2 Cultivate
 2 Gyruda, Doom of Depths
@@ -163,11 +112,9 @@
 2 Spark Double
 3 Thassa, Deep-Dwelling
 3 Terror of the Peaks
-3 Gilded Goose
 3 Cultivate
 3 Migration Path
 3 Fiend Artisan
-3 Stomping Ground
 3 Spark Double
 3 Gyruda, Doom of Depths
 4 Fiend Artisan
@@ -176,40 +123,26 @@
 4 Gyruda, Doom of Depths
 4 Terror of the Peaks
 4 Migration Path
-4 Gilded Goose
 4 Spark Double
-4 Hallowed Fountain
-4 Stomping Ground
-1 Liliana's Standard Bearer
-1 Judith, the Scourge Diva
-2 Judith, the Scourge Diva
-2 Liliana's Standard Bearer
-1 Raugrin Triome
-1 Deafening Clarion
-2 Raugrin Triome
-2 Deafening Clarion
-1 Aether Gust
-2 Aether Gust
-3 Aether Gust
-1 Questing Beast
-2 Questing Beast
-1 Liliana, Dreadhorde General
-1 Ugin, the Spirit Dragon
-1 Lazav, the Multifarious
+1 Disfigure
+1 Spawn of Mayhem
+1 Kitesail Freebooter
 1 Extinction Event
 1 Storm's Wrath
+1 Ugin, the Spirit Dragon
 1 Chandra, Awakened Inferno
-1 Kitesail Freebooter
+1 Lazav, the Multifarious
 1 Quench
 1 Zagoth Triome
+1 Liliana, Dreadhorde General
 1 Watery Grave
-2 Lazav, the Multifarious
+2 Extinction Event
 2 Kitesail Freebooter
 2 Storm's Wrath
 2 Watery Grave
 2 Ugin, the Spirit Dragon
 2 Quench
-2 Extinction Event
+2 Lazav, the Multifarious
 3 Quench
 3 Lazav, the Multifarious
 3 Kitesail Freebooter
@@ -217,12 +150,22 @@
 4 Murderous Rider
 4 Kitesail Freebooter
 4 Quench
-1 Savai Triome
 1 Ketria Triome
+1 Aether Gust
+2 Aether Gust
+3 Aether Gust
+1 Godless Shrine
+1 Deafening Clarion
+2 Raugrin Triome
+2 Deafening Clarion
+1 Savai Triome
 1 Niv-Mizzet Reborn
 1 Hydroid Krasis
 1 Temple of Deceit
+1 Indatha Triome
+2 Godless Shrine
 2 Hydroid Krasis
+2 Indatha Triome
 2 Niv-Mizzet Reborn
 2 Ketria Triome
 3 Angrath's Rampage
@@ -230,15 +173,18 @@
 3 Niv-Mizzet Reborn
 3 Deafening Clarion
 3 Hydroid Krasis
+3 Indatha Triome
 4 Uro, Titan of Nature's Wrath
 4 Aether Gust
 4 Niv-Mizzet Reborn
 4 Hydroid Krasis
 4 Angrath's Rampage
 4 Deafening Clarion
+1 Sacred Foundry
+2 Sacred Foundry
+3 Sacred Foundry
 1 Castle Vantress
 2 Castle Vantress
-1 Dovin's Veto
 1 Gods Willing
 1 Shock
 1 Blitz of the Thunder-Raptor
@@ -246,22 +192,21 @@
 1 Sea-Dasher Octopus
 1 See the Truth
 1 Callous Dismissal
+1 Dovin's Veto
 1 Vadrok, Apex of Thunder
 1 Cubwarden
 1 Unsubstantiate
-1 Sacred Foundry
 1 Lofty Denial
 1 Lore Drakkis
 1 Stormwing Entity
 2 Shock
-2 Dovin's Veto
 2 Lofty Denial
 2 Stormwing Entity
-2 Sacred Foundry
+2 Sea-Dasher Octopus
 2 Unsubstantiate
 2 Lore Drakkis
-2 Sea-Dasher Octopus
 2 Vadrok, Apex of Thunder
+2 Dovin's Veto
 2 Cubwarden
 2 Callous Dismissal
 2 See the Truth
@@ -271,73 +216,87 @@
 3 Callous Dismissal
 3 Sea-Dasher Octopus
 3 Shock
-3 Sacred Foundry
 3 Steam Vents
 4 Lore Drakkis
 4 Callous Dismissal
 4 Sea-Dasher Octopus
 4 See the Truth
 4 Steam Vents
-1 Rotting Regisaur
-1 Blacklance Paragon
-1 Hunted Nightmare
-2 Disfigure
-2 Rotting Regisaur
-2 Spawn of Mayhem
-2 Blacklance Paragon
-2 Hunted Nightmare
-3 Rotting Regisaur
-3 Disfigure
-3 Hunted Nightmare
-3 Blacklance Paragon
-3 Heartless Act
-3 Spawn of Mayhem
-4 Disfigure
-4 Rankle, Master of Pranks
-4 Heartless Act
-4 Rotting Regisaur
-4 Hunted Nightmare
-1 Mortify
+1 Temple of Triumph
+1 Temple of Plenty
+1 Arboreal Grazer
+1 Neoform
+1 Tajic, Legion's Edge
+1 Haktos the Unscarred
+1 Alirios, Enraptured
+1 Legion Warboss
+1 Kenrith, the Returned King
+1 Winota, Joiner of Forces
+1 Hanged Executioner
+2 Winota, Joiner of Forces
+2 Kenrith, the Returned King
+2 Neoform
+2 Hanged Executioner
+2 Arboreal Grazer
+2 Haktos the Unscarred
+2 Alirios, Enraptured
+2 Legion Warboss
+3 Alirios, Enraptured
+3 Winota, Joiner of Forces
+3 Legion Warboss
+3 Hanged Executioner
+3 Arboreal Grazer
+3 Neoform
+3 Haktos the Unscarred
+4 Sacred Foundry
+4 Legion Warboss
+4 Neoform
+4 Winota, Joiner of Forces
+2 Plains
+3 Plains
+4 Plains
+1 Ajani's Pridemate
+1 Castle Ardenvale
+2 Ajani's Pridemate
+3 Ajani's Pridemate
+4 Ajani's Pridemate
+1 Sorin, Vengeful Bloodlord
 1 Vito, Thorn of the Dusk Rose
 1 Doom Whisperer
-1 Ajani's Pridemate
 1 Bloodthirsty Aerialist
 1 Scoured Barrens
-1 Fight as One
+1 Mortify
 1 Indulging Patrician
+1 Fight as One
 1 Healer's Hawk
 1 Orzhov Guildgate
+1 Temple of Silence
 1 Impassioned Orator
-2 Mortify
-2 Vito, Thorn of the Dusk Rose
 2 Scoured Barrens
 2 Fight as One
 2 Impassioned Orator
 2 Healer's Hawk
-2 Ajani's Pridemate
+2 Vito, Thorn of the Dusk Rose
 2 Orzhov Guildgate
+2 Temple of Silence
+2 Mortify
 2 Bloodthirsty Aerialist
 2 Indulging Patrician
-3 Ajani's Pridemate
 3 Bloodthirsty Aerialist
 3 Indulging Patrician
 3 Scoured Barrens
+3 Orzhov Guildgate
 3 Impassioned Orator
 3 Healer's Hawk
-3 Orzhov Guildgate
 4 Scoured Barrens
 4 Bloodthirsty Aerialist
 4 Orzhov Guildgate
 4 Impassioned Orator
 4 Healer's Hawk
-4 Ajani's Pridemate
-1 Tymaret Calls the Dead
-1 Serrated Scorpion
-2 Bolas's Citadel
-2 Serrated Scorpion
-2 Tymaret Calls the Dead
-3 Serrated Scorpion
-4 Bastion of Remembrance
+1 Selfless Savior
+2 Selfless Savior
+3 Selfless Savior
+4 Selfless Savior
 5 Plains
 6 Plains
 7 Plains
@@ -346,54 +305,78 @@
 10 Plains
 11 Plains
 12 Plains
-13 Plains
-14 Plains
-15 Plains
-16 Plains
-17 Plains
-18 Plains
-19 Plains
-20 Plains
-21 Plains
-1 Giant Killer
-1 Stonecoil Serpent
-1 Basri Ket
-1 Lurrus of the Dream-Den
-1 Selfless Savior
-1 Loyal Pegasus
-1 Basri's Solidarity
-1 Glorious Anthem
-1 Seasoned Hallowblade
-1 Raise the Alarm
-1 Venerated Loxodon
-1 Venerable Knight
-2 Giant Killer
-2 Stonecoil Serpent
-2 Venerated Loxodon
-2 Raise the Alarm
-2 Basri Ket
-2 Glorious Anthem
-2 Venerable Knight
-2 Basri's Solidarity
-2 Loyal Pegasus
-2 Selfless Savior
-2 Seasoned Hallowblade
-3 Stonecoil Serpent
-3 Venerable Knight
-3 Selfless Savior
-3 Basri's Solidarity
-3 Giant Killer
-3 Seasoned Hallowblade
-3 Venerated Loxodon
-3 Raise the Alarm
-3 Loyal Pegasus
-4 Venerable Knight
-4 Basri's Solidarity
-4 Seasoned Hallowblade
-4 Raise the Alarm
-4 Venerated Loxodon
-4 Selfless Savior
-4 Loyal Pegasus
+1 Baneslayer Angel
+1 Banishing Light
+1 Heraldic Banner
+1 Heliod, Sun-Crowned
+1 Tranquil Cove
+1 Alseid of Life's Bounty
+1 Speaker of the Heavens
+1 Daxos, Blessed by the Sun
+1 Linden, the Steadfast Queen
+2 Linden, the Steadfast Queen
+2 Castle Ardenvale
+2 Alseid of Life's Bounty
+2 Tranquil Cove
+2 Baneslayer Angel
+2 Banishing Light
+2 Daxos, Blessed by the Sun
+2 Heraldic Banner
+2 Heliod, Sun-Crowned
+2 Speaker of the Heavens
+3 Daxos, Blessed by the Sun
+3 Baneslayer Angel
+3 Heliod, Sun-Crowned
+3 Tranquil Cove
+3 Linden, the Steadfast Queen
+3 Alseid of Life's Bounty
+3 Speaker of the Heavens
+3 Banishing Light
+4 Banishing Light
+4 Linden, the Steadfast Queen
+4 Speaker of the Heavens
+4 Baneslayer Angel
+4 Heliod, Sun-Crowned
+4 Daxos, Blessed by the Sun
+4 Alseid of Life's Bounty
+4 Tranquil Cove
+1 Hunted Nightmare
+1 Rotting Regisaur
+1 Blacklance Paragon
+2 Hunted Nightmare
+2 Disfigure
+2 Rotting Regisaur
+2 Spawn of Mayhem
+2 Blacklance Paragon
+3 Blacklance Paragon
+3 Hunted Nightmare
+3 Rotting Regisaur
+3 Disfigure
+3 Heartless Act
+3 Spawn of Mayhem
+4 Hunted Nightmare
+4 Disfigure
+4 Heartless Act
+4 Rotting Regisaur
+4 Rankle, Master of Pranks
+1 Serrated Scorpion
+1 Tymaret Calls the Dead
+2 Serrated Scorpion
+2 Bolas's Citadel
+2 Tymaret Calls the Dead
+3 Serrated Scorpion
+4 Bastion of Remembrance
+1 Scavenging Ooze
+1 Elder Gargaroth
+2 Elder Gargaroth
+2 Scavenging Ooze
+3 Scavenging Ooze
+3 Questing Beast
+3 Forest
+4 Forest
+5 Forest
+6 Forest
+7 Forest
 1 Temple of Mystery
 1 Nissa, Who Shakes the World
 1 Opt
@@ -401,43 +384,75 @@
 1 Essence Scatter
 1 Shark Typhoon
 1 Blast Zone
+1 Sinister Sabotage
 1 Frilled Mystic
 1 Wolfwillow Haven
-1 Scavenging Ooze
-1 Sinister Sabotage
-1 Elder Gargaroth
 1 Nightpack Ambusher
 2 Shark Typhoon
-2 Elder Gargaroth
 2 Brazen Borrower
 2 Wolfwillow Haven
 2 Nightpack Ambusher
 2 Opt
 2 Nissa, Who Shakes the World
 2 Temple of Mystery
-2 Scavenging Ooze
 3 Island
 3 Temple of Mystery
 3 Nissa, Who Shakes the World
-3 Scavenging Ooze
-3 Questing Beast
 3 Paradise Druid
 3 Nightpack Ambusher
-3 Forest
 3 Brazen Borrower
 4 Island
-4 Forest
 4 Paradise Druid
 5 Island
-5 Forest
-6 Forest
-7 Forest
+1 Castle Garenbrig
+1 Pelt Collector
+1 Shifting Ceratops
+1 Lovestruck Beast
+1 Garruk's Harbinger
+1 The Great Henge
+1 Barkhide Troll
+1 Vivien, Arkbow Ranger
+1 Thrash/Threat
+1 Mobilized District
+1 Primal Might
+2 Thrash/Threat
+2 Vivien, Arkbow Ranger
+2 Primal Might
+2 Castle Garenbrig
+2 Lovestruck Beast
+2 Pelt Collector
+2 Barkhide Troll
+2 Garruk's Harbinger
+3 Pelt Collector
+3 Lovestruck Beast
+3 Garruk's Harbinger
+3 Barkhide Troll
+3 Castle Garenbrig
+3 Primal Might
+4 Barkhide Troll
+4 Garruk's Harbinger
+4 Primal Might
+4 Lovestruck Beast
+4 Pelt Collector
+4 Scavenging Ooze
+8 Forest
+9 Forest
+10 Forest
+11 Forest
+12 Forest
+13 Forest
+14 Forest
+15 Forest
+16 Forest
+17 Forest
+18 Forest
+19 Forest
 1 Hooded Blightfang
 1 Vampire of the Dire Moon
+1 Boot Nipper
 1 Vraska, Swarm's Eminence
 1 Grimdancer
 1 Orzhov Enforcer
-1 Boot Nipper
 1 Foulmire Knight
 2 Vampire of the Dire Moon
 2 Boot Nipper
@@ -460,42 +475,47 @@
 4 Boot Nipper
 4 Orzhov Enforcer
 21 Swamp
-22 Plains
-23 Plains
-24 Plains
-25 Plains
-26 Plains
-27 Plains
-28 Plains
-29 Plains
-30 Plains
-31 Plains
-32 Plains
-33 Plains
-34 Plains
-35 Plains
-36 Plains
-37 Plains
-38 Plains
-39 Plains
-40 Plains
-41 Plains
-42 Plains
-43 Plains
-44 Plains
-45 Plains
-46 Plains
-47 Plains
-48 Plains
-49 Plains
-50 Plains
-51 Plains
-52 Plains
-53 Plains
-54 Plains
-55 Plains
-56 Plains
-57 Plains
-58 Plains
-59 Plains
-60 Plains
+1 Stonecoil Serpent
+1 Giant Killer
+1 Basri Ket
+1 Basri's Solidarity
+1 Glorious Anthem
+1 Seasoned Hallowblade
+1 Raise the Alarm
+1 Venerated Loxodon
+1 Loyal Pegasus
+1 Lurrus of the Dream-Den
+1 Venerable Knight
+2 Stonecoil Serpent
+2 Giant Killer
+2 Venerated Loxodon
+2 Raise the Alarm
+2 Loyal Pegasus
+2 Basri Ket
+2 Glorious Anthem
+2 Venerable Knight
+2 Basri's Solidarity
+2 Seasoned Hallowblade
+3 Stonecoil Serpent
+3 Venerable Knight
+3 Basri's Solidarity
+3 Giant Killer
+3 Seasoned Hallowblade
+3 Venerated Loxodon
+3 Raise the Alarm
+3 Loyal Pegasus
+4 Venerable Knight
+4 Basri's Solidarity
+4 Seasoned Hallowblade
+4 Raise the Alarm
+4 Venerated Loxodon
+4 Loyal Pegasus
+13 Plains
+14 Plains
+15 Plains
+16 Plains
+17 Plains
+18 Plains
+19 Plains
+20 Plains
+21 Plains

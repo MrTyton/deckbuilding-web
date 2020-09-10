@@ -1,25 +1,25 @@
 3 Venerated Loxodon
 1 Judith, the Scourge Diva
-1 Swamp
 1 Blood Crypt
 1 Godless Shrine
+1 Swamp
 1 Woe Strider
 1 Lazotep Reaver
 1 Savai Triome
-2 Woe Strider
 2 Lazotep Reaver
 2 Savai Triome
 2 Judith, the Scourge Diva
+2 Woe Strider
 2 Blood Crypt
 2 Godless Shrine
-3 Judith, the Scourge Diva
 3 Blood Crypt
 3 Godless Shrine
+3 Judith, the Scourge Diva
 4 Godless Shrine
 3 Tajic, Legion's Edge
 1 General's Enforcer
-1 Knight of the Ebon Legion
 1 Kitesail Freebooter
+1 Knight of the Ebon Legion
 2 Kitesail Freebooter
 3 Kitesail Freebooter
 3 Savai Triome
@@ -57,24 +57,24 @@
 2 Haktos the Unscarred
 2 Knight of the Ebon Legion
 3 Swamp
+1 Stomping Ground
+1 Scavenging Ooze
 1 Pelt Collector
-1 Forest
 1 Temple Garden
 1 Conclave Mentor
-1 Scavenging Ooze
-1 Stomping Ground
-2 Scavenging Ooze
-2 Pelt Collector
-2 Forest
-2 Temple Garden
+1 Forest
 2 Stomping Ground
+2 Scavenging Ooze
+2 Forest
+2 Pelt Collector
+2 Temple Garden
 2 Conclave Mentor
-3 Pelt Collector
 3 Forest
+3 Stomping Ground
 3 Scavenging Ooze
 3 Conclave Mentor
-3 Stomping Ground
 3 Temple Garden
+3 Pelt Collector
 4 Stomping Ground
 4 Temple Garden
 1 Chandra, Acolyte of Flame
@@ -89,15 +89,6 @@
 2 Robber of the Rich
 3 Robber of the Rich
 4 Robber of the Rich
-1 Gilded Goose
-1 Temple of Abandon
-1 Giant Killer
-1 Gruul Spellbreaker
-2 Gilded Goose
-2 Gruul Spellbreaker
-3 Gilded Goose
-4 Pelt Collector
-4 Conclave Mentor
 1 Gods Willing
 1 Charming Prince
 1 Lavabrink Venturer
@@ -115,24 +106,33 @@
 3 Lavabrink Venturer
 4 Charming Prince
 4 Alseid of Life's Bounty
-1 Barrin, Tolarian Archmage
+1 Gilded Goose
+1 Temple of Abandon
+1 Giant Killer
+1 Gruul Spellbreaker
+2 Gilded Goose
+2 Gruul Spellbreaker
+3 Gilded Goose
+4 Conclave Mentor
+4 Pelt Collector
 1 Raugrin Triome
-1 Hallowed Fountain
 1 Brazen Borrower
+1 Hallowed Fountain
+1 Barrin, Tolarian Archmage
 1 Island
 1 Steam Vents
 1 Sphinx of Foresight
-2 Barrin, Tolarian Archmage
-2 Hallowed Fountain
-2 Steam Vents
-2 Brazen Borrower
-2 Island
 2 Raugrin Triome
+2 Brazen Borrower
+2 Hallowed Fountain
+2 Barrin, Tolarian Archmage
+2 Steam Vents
+2 Island
 2 Sphinx of Foresight
 3 Raugrin Triome
-3 Barrin, Tolarian Archmage
-3 Hallowed Fountain
 3 Brazen Borrower
+3 Hallowed Fountain
+3 Barrin, Tolarian Archmage
 3 Sphinx of Foresight
 3 Steam Vents
 3 Kenrith, the Returned King
