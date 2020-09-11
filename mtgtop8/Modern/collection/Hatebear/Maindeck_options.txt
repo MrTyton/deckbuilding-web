@@ -1,27 +1,17 @@
-3 Eldrazi Temple
-4 Thought-Knot Seer
-4 Eldrazi Temple
-1 Selfless Spirit
-1 Castle Ardenvale
-6 Snow-Covered Plains
-7 Snow-Covered Plains
-8 Snow-Covered Plains
-9 Snow-Covered Plains
-10 Snow-Covered Plains
-11 Snow-Covered Plains
-12 Snow-Covered Plains
-1 Horizon Canopy
-2 Horizon Canopy
-3 Horizon Canopy
 1 Eldrazi Displacer
 2 Eldrazi Displacer
 3 Eldrazi Displacer
 4 Eldrazi Displacer
+1 Horizon Canopy
+2 Horizon Canopy
+3 Horizon Canopy
 4 Plains
 1 Reality Smasher
 2 Reality Smasher
 3 Reality Smasher
 4 Reality Smasher
+3 Aven Mindcensor
+5 Snow-Covered Plains
 4 Field of Ruin
 5 Plains
 1 Dismember
@@ -40,11 +30,21 @@
 1 Snow-Covered Forest
 4 Horizon Canopy
 1 Blast Zone
+1 Lurrus of the Dream-Den
 1 Blade Splicer
 2 Blade Splicer
 1 Battlefield Forge
 2 Battlefield Forge
 1 Sunbaked Canyon
+1 Selfless Spirit
+1 Castle Ardenvale
+6 Snow-Covered Plains
+7 Snow-Covered Plains
+8 Snow-Covered Plains
+9 Snow-Covered Plains
+10 Snow-Covered Plains
+11 Snow-Covered Plains
+12 Snow-Covered Plains
 1 Wastes
 1 Containment Priest
 1 Cavern of Souls
@@ -61,8 +61,8 @@
 1 Rest in Peace
 1 Eternal Scourge
 2 Shefet Dunes
-2 Blast Zone
 2 Rest in Peace
+2 Blast Zone
 2 Eternal Scourge
 2 Scavenger Grounds
 3 Shefet Dunes
@@ -146,17 +146,17 @@
 3 Ranger-Captain of Eos
 4 Windswept Heath
 4 Ranger-Captain of Eos
-1 Noble Hierarch
-1 Razorverge Thicket
 1 Brushland
+1 Noble Hierarch
 1 Knight of Autumn
-2 Noble Hierarch
-2 Razorverge Thicket
+1 Razorverge Thicket
 2 Brushland
+2 Noble Hierarch
 2 Knight of Autumn
-3 Razorverge Thicket
+2 Razorverge Thicket
 3 Brushland
 3 Noble Hierarch
+3 Razorverge Thicket
 4 Brushland
 4 Noble Hierarch
 1 Charming Prince

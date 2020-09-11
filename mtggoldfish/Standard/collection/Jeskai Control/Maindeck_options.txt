@@ -1,8 +1,8 @@
-1 Teferi, Master of Time
 2 Teferi, Master of Time
-3 Fabled Passage
-1 Omen of the Sun
+4 Shatter the Sky
 2 Dream Trawler
+1 Blast Zone
+1 Omen of the Sun
 8 Island
 1 Whirlwind Denial
 1 Soul-Guide Lantern
@@ -10,80 +10,69 @@
 2 Whirlwind Denial
 2 Gadwick, the Wizened
 3 Whirlwind Denial
-3 Shark Typhoon
+4 Narset, Parter of Veils
 4 The Birth of Meletis
-1 Blast Zone
+3 Mystical Dispute
+3 Shark Typhoon
+1 Chemister's Insight
 1 Raugrin Triome
 3 Dovin's Veto
-1 Chemister's Insight
+2 Chemister's Insight
 2 Raugrin Triome
+3 Raugrin Triome
+1 Time Wipe
+6 Plains
+2 Blast Zone
 1 Narset of the Ancient Way
 1 Steam Vents
 2 Narset of the Ancient Way
-3 Mystical Dispute
+1 Banishing Light
 1 Mountain
 1 Sacred Foundry
+4 Raugrin Triome
+2 Brazen Borrower
 1 Temple of Epiphany
 2 Steam Vents
-3 Raugrin Triome
-2 Chemister's Insight
 4 Shark Typhoon
+1 Tranquil Cove
 4 Elspeth Conquers Death
-2 Sacred Foundry
-6 Plains
-2 Blast Zone
-2 Ugin, the Spirit Dragon
-1 Interplanar Beacon
-2 Interplanar Beacon
-1 Time Wipe
-1 Fae of Wishes
-2 Fae of Wishes
-3 Narset of the Ancient Way
-3 Steam Vents
-4 Raugrin Triome
-1 Banishing Light
-1 Chandra, Awakened Inferno
-3 Sacred Foundry
-1 Field of Ruin
-3 Interplanar Beacon
-4 Interplanar Beacon
+3 Dream Trawler
 7 Plains
 1 Deafening Clarion
 1 Scorching Dragonfire
 2 Scorching Dragonfire
-1 Tranquil Cove
-4 Narset of the Ancient Way
-3 Dream Trawler
 4 Fabled Passage
-8 Plains
-2 Temple of Epiphany
+2 Sacred Foundry
+2 Ugin, the Spirit Dragon
+1 Interplanar Beacon
+2 Interplanar Beacon
 1 Essence Scatter
-2 Chandra, Awakened Inferno
+8 Plains
 2 Banishing Light
-1 Neutralize
+2 Temple of Epiphany
+3 Narset of the Ancient Way
+1 Fae of Wishes
+2 Fae of Wishes
+3 Steam Vents
 1 Temple of Triumph
-2 Deafening Clarion
 2 Temple of Triumph
+2 Deafening Clarion
 3 Scorching Dragonfire
 4 Scorching Dragonfire
-2 Brazen Borrower
-4 Dovin's Veto
-3 Fae of Wishes
-4 Fae of Wishes
-4 Absorb
-2 Neutralize
-3 Neutralize
-4 Neutralize
+1 Chandra, Awakened Inferno
+3 Sacred Foundry
 1 Mazemind Tome
 2 Mazemind Tome
+3 Interplanar Beacon
+4 Interplanar Beacon
 1 Solemn Simulacrum
 1 Radiant Fountain
 2 Radiant Fountain
 3 Radiant Fountain
 4 Radiant Fountain
-1 Mobilized District
 1 Stonecoil Serpent
 1 Ugin, the Ineffable
+1 Mobilized District
 1 Orzhov Locket
 1 Cavalier of Dawn
 2 Mobilized District
@@ -110,38 +99,37 @@
 3 Frantic Inventory
 4 Frantic Inventory
 2 Tranquil Cove
+1 Archon of Sun's Grace
 2 Essence Scatter
-1 Bonecrusher Giant
-2 Mountain
-2 Bonecrusher Giant
+1 Field of Ruin
 3 Teferi, Master of Time
 1 Aether Gust
 2 Aether Gust
+4 Narset of the Ancient Way
 1 Justice Strike
 2 Justice Strike
 2 Time Wipe
+2 Chandra, Awakened Inferno
 4 Sacred Foundry
 3 Deafening Clarion
-1 Elspeth, Sun's Nemesis
 1 Sublime Epiphany
+1 Elspeth, Sun's Nemesis
+1 Neutralize
 1 Godless Shrine
-1 Swamp
 1 Thought Erasure
+1 Swamp
 1 Watery Grave
+2 Godless Shrine
 2 Thought Erasure
 2 Watery Grave
-2 Godless Shrine
 3 Thought Erasure
 3 Godless Shrine
 3 Watery Grave
-4 Watery Grave
 4 Thought Erasure
+4 Watery Grave
 4 Godless Shrine
-3 Glass Casket
-3 Chandra, Awakened Inferno
 1 Tale's End
 1 Labyrinth of Skophos
-1 Archon of Sun's Grace
 1 Thirst for Meaning
 1 Dance of the Manse
 2 Archon of Sun's Grace
@@ -149,22 +137,21 @@
 2 Thirst for Meaning
 1 Quench
 2 Quench
-3 Tranquil Cove
-1 Castle Locthwain
 1 Liliana, Dreadhorde General
-1 Murderous Rider
-1 Mortify
 1 Eliminate
+1 Mortify
 1 Cavalier of Gales
-2 Mortify
-2 Liliana, Dreadhorde General
+1 Murderous Rider
+1 Castle Locthwain
 2 Murderous Rider
+2 Liliana, Dreadhorde General
 2 Eliminate
+2 Mortify
 2 Swamp
 2 Cavalier of Gales
 3 Mortify
-3 Murderous Rider
 3 Eliminate
+3 Murderous Rider
 1 Temple Garden
 1 Temple of Plenty
 1 Jolrael, Mwonvuli Recluse
@@ -186,23 +173,12 @@
 3 Breeding Pool
 3 Uro, Titan of Nature's Wrath
 4 Forest
-1 Opt
-1 Thryx, the Sudden Storm
-2 Opt
-2 Elspeth, Sun's Nemesis
-3 Opt
-4 Opt
-1 Baneslayer Angel
-1 Inspired Ultimatum
-2 Baneslayer Angel
-2 Inspired Ultimatum
-4 Deafening Clarion
 1 Charming Prince
 1 Thassa, Deep-Dwelling
 1 Elite Guardmage
-1 Negate
 1 Barrin, Tolarian Archmage
 1 Niambi, Esteemed Speaker
+1 Negate
 2 Charming Prince
 2 Barrin, Tolarian Archmage
 2 Elite Guardmage
@@ -213,26 +189,45 @@
 3 Elite Guardmage
 3 Barrin, Tolarian Archmage
 4 Charming Prince
+3 Tranquil Cove
+4 Dovin's Veto
+1 Baneslayer Angel
+1 Inspired Ultimatum
+2 Baneslayer Angel
+2 Inspired Ultimatum
+3 Fae of Wishes
+4 Deafening Clarion
+4 Fae of Wishes
 3 Temple of Epiphany
 3 Justice Strike
 4 Steam Vents
+1 Opt
+1 Thryx, the Sudden Storm
+2 Opt
+2 Elspeth, Sun's Nemesis
+2 Neutralize
+3 Opt
+3 Neutralize
+4 Opt
+4 Neutralize
 3 Brazen Borrower
 3 Chemister's Insight
+4 Absorb
 4 Brazen Borrower
-1 Cry of the Carnarium
-1 Unmoored Ego
 1 Extinction Event
+1 Ashiok, Nightmare Muse
 1 Nine Lives
+1 Unmoored Ego
 1 Necromentia
+1 Cry of the Carnarium
 1 Temple of Silence
 1 Grim Tutor
-1 Ashiok, Nightmare Muse
 1 Kaya, Orzhov Usurper
 2 Cry of the Carnarium
-2 Unmoored Ego
-2 Kaya, Orzhov Usurper
-2 Necromentia
 2 Ashiok, Nightmare Muse
+2 Kaya, Orzhov Usurper
+2 Unmoored Ego
+2 Necromentia
 2 Temple of Silence
 2 Nine Lives
 3 Temple of Silence
@@ -246,10 +241,13 @@
 4 Teferi, Master of Time
 1 Thrill of Possibility
 1 Fire Prophecy
+1 Bonecrusher Giant
 1 Chandra, Fire Artisan
 1 Outlaws' Merriment
+2 Mountain
 2 Thrill of Possibility
 2 Fire Prophecy
+2 Bonecrusher Giant
 2 Outlaws' Merriment
 3 Mountain
 3 Temple of Triumph

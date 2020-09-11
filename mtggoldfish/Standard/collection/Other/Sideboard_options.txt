@@ -1,88 +1,66 @@
-1 Duress
-2 Duress
-1 Bedevil
-1 Redcap Melee
-2 Redcap Melee
-3 Agonizing Remorse
-1 Lava Coil
+2 Blightbeetle
 3 Noxious Grasp
+1 Redcap Melee
+1 Duress
+1 Bedevil
+2 Redcap Melee
+2 Duress
+1 Lava Coil
+1 Spark Harvest
+1 Act of Treason
 3 Duress
 4 Duress
 1 Pharika's Libation
 2 Pharika's Libation
-1 Essence Scatter
-2 Essence Scatter
 1 Lurrus of the Dream-Den
-1 Negate
 3 Heartless Act
-1 Cry of the Carnarium
-2 Cry of the Carnarium
-3 Cry of the Carnarium
+1 Negate
 1 The Elderspell
 2 The Elderspell
 1 Tormod's Crypt
 2 Tormod's Crypt
 1 Sorcerous Spyglass
 2 Sorcerous Spyglass
-1 Mystical Dispute
-2 Mystical Dispute
-1 Fire Prophecy
-2 Fire Prophecy
-1 Dovin's Veto
-2 Dovin's Veto
-1 Suffocating Fumes
-2 Suffocating Fumes
-1 Aether Gust
-2 Aether Gust
-1 Devout Decree
-2 Devout Decree
-3 Dovin's Veto
+1 Essence Scatter
+2 Essence Scatter
 2 Negate
 3 Negate
 4 Negate
 1 Wilt
 2 Wilt
-3 Mystical Dispute
-1 Glass Casket
-1 Dead Weight
-1 Murder
-1 Callous Dismissal
-1 Disdainful Stroke
-2 Disdainful Stroke
 1 Ob Nixilis's Cruelty
 1 Destiny Spinner
+1 Suffocating Fumes
+2 Suffocating Fumes
 2 Destiny Spinner
 1 Angrath's Rampage
 2 Angrath's Rampage
 3 Angrath's Rampage
+1 Cry of the Carnarium
+2 Cry of the Carnarium
+3 Cry of the Carnarium
 1 Scorching Dragonfire
 2 Scorching Dragonfire
+1 Mystical Dispute
 1 Ashiok, Dream Render
-1 Blitz of the Thunder-Raptor
+2 Mystical Dispute
 1 Tibalt, Rakish Instigator
+1 Blitz of the Thunder-Raptor
 1 Unsubstantiate
 1 Light of Hope
 1 Lazotep Plating
-2 Blitz of the Thunder-Raptor
 2 Tibalt, Rakish Instigator
-2 Lazotep Plating
+2 Blitz of the Thunder-Raptor
 2 Ashiok, Dream Render
+2 Lazotep Plating
 3 Lazotep Plating
-1 Irreverent Revelers
-1 Ranger's Guile
-2 Irreverent Revelers
-3 Aether Gust
-3 Fire Prophecy
 1 Mire's Grasp
+1 Fire Prophecy
+2 Fire Prophecy
 2 Mire's Grasp
 3 Pharika's Libation
-1 Gods Willing
-1 Deputy of Detention
-2 Gods Willing
-2 Deputy of Detention
-3 Deputy of Detention
-1 Massacre Girl
 1 Eat to Extinction
+1 Massacre Girl
 1 Necromentia
 2 Massacre Girl
 2 Eat to Extinction
@@ -92,52 +70,52 @@
 3 Eat to Extinction
 3 Massacre Girl
 1 Shredded Sails
-1 Spark Harvest
-1 Act of Treason
 1 Aid the Fallen
 2 Shredded Sails
 2 Spark Harvest
 2 Act of Treason
 3 Shredded Sails
 3 Act of Treason
-1 Vraska, Golgari Queen
-1 Yorion, Sky Nomad
-1 Kaya's Wrath
-1 Extinction Event
-1 Tolsimir, Friend to Wolves
-1 Knight of Autumn
-2 Kaya's Wrath
-2 Knight of Autumn
-4 Agonizing Remorse
-1 Faerie Duelist
-1 Whisper Agent
-1 Teferi's Tutelage
-1 Thought Distortion
-2 Faerie Duelist
-2 Whisper Agent
-3 Faerie Duelist
-4 Faerie Duelist
-1 Narset, Parter of Veils
-1 Grafdigger's Cage
-1 Fae of Wishes
-1 Leyline of the Void
-1 Unmoored Ego
-2 Narset, Parter of Veils
-2 Grafdigger's Cage
-2 Fae of Wishes
-4 Mystical Dispute
+1 Devout Decree
+1 Glass Casket
+1 Dovin's Veto
 1 Gideon Blackblade
 2 Glass Casket
+2 Devout Decree
+2 Dovin's Veto
 2 Gideon Blackblade
-3 Devout Decree
 3 Glass Casket
+3 Devout Decree
+3 Dovin's Veto
 3 Sorcerous Spyglass
 4 Dovin's Veto
+1 Giant Killer
+1 Shatter the Sky
+1 Kiora Bests the Sea God
+2 Shatter the Sky
+2 Giant Killer
+2 Kiora Bests the Sea God
+3 Shatter the Sky
+3 Giant Killer
+3 Kiora Bests the Sea God
+4 Heartless Act
+4 Shatter the Sky
+4 Giant Killer
+1 Grafdigger's Cage
+1 Unmoored Ego
+1 Narset, Parter of Veils
+1 Fae of Wishes
+1 Leyline of the Void
+2 Grafdigger's Cage
+2 Narset, Parter of Veils
+2 Fae of Wishes
+3 Mystical Dispute
+4 Mystical Dispute
 1 Raking Claws
 2 Raking Claws
-3 Essence Scatter
 3 Scorching Dragonfire
 3 Raking Claws
+3 Essence Scatter
 4 Essence Scatter
 4 Raking Claws
 1 Healer of the Glade
@@ -155,26 +133,30 @@
 2 Netcaster Spider
 3 Skewer the Critics
 4 Skewer the Critics
-1 Giant Killer
-1 Shatter the Sky
-1 Kiora Bests the Sea God
-2 Giant Killer
-2 Shatter the Sky
-2 Kiora Bests the Sea God
-3 Shatter the Sky
-3 Giant Killer
-3 Kiora Bests the Sea God
-4 Heartless Act
-4 Shatter the Sky
-4 Giant Killer
-1 Jegantha, the Wellspring
-1 Polukranos, Unchained
+1 Shifting Ceratops
+1 Gemrazer
+1 Oakhame Adversary
+1 Ram Through
+1 Ranger's Guile
+2 Ranger's Guile
+2 Oakhame Adversary
+2 Ram Through
+2 Gemrazer
+2 Shifting Ceratops
+3 Shifting Ceratops
+3 Oakhame Adversary
+3 Gemrazer
+4 Gemrazer
+4 Oakhame Adversary
 1 Enter the God-Eternals
+1 Jegantha, the Wellspring
+1 Vraska, Golgari Queen
+1 Polukranos, Unchained
+2 Enter the God-Eternals
 2 Lava Coil
 2 Vraska, Golgari Queen
-2 Enter the God-Eternals
+3 Enter the God-Eternals
 3 Lava Coil
 3 Vraska, Golgari Queen
-3 Enter the God-Eternals
 4 Enter the God-Eternals
 4 Lava Coil
