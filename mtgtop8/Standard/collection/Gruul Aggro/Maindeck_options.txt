@@ -1,25 +1,26 @@
 3 Rimrock Knight
 4 Rimrock Knight
 1 Radha, Heart of Keld
+2 Fabled Passage
 10 Forest
+4 Embercleave
 1 Paradise Druid
 2 Paradise Druid
-2 Fabled Passage
 1 Castle Embereth
-4 Embercleave
+3 Scavenging Ooze
 3 Paradise Druid
 2 Radha, Heart of Keld
 4 Temple of Abandon
-3 Scavenging Ooze
 1 Zhur-Taa Goblin
 2 Zhur-Taa Goblin
 8 Mountain
+3 Zhur-Taa Goblin
+3 Domri's Ambush
+4 Scavenging Ooze
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 3 Stonecoil Serpent
-4 Scavenging Ooze
 4 Gruul Spellbreaker
-3 Zhur-Taa Goblin
 3 Radha, Heart of Keld
 1 Primal Might
 2 Primal Might
@@ -29,7 +30,8 @@
 1 Terror of the Peaks
 2 Terror of the Peaks
 1 Domri, Anarch of Bolas
-3 Domri's Ambush
+1 Gallia of the Endless Dance
+4 Zhur-Taa Goblin
 3 Fabled Passage
 1 Gemrazer
 2 Gemrazer
@@ -38,9 +40,7 @@
 1 Garruk, Unleashed
 3 Garruk's Harbinger
 2 Castle Embereth
-1 Gallia of the Endless Dance
 1 Legion Warboss
-4 Zhur-Taa Goblin
 1 Chandra, Heart of Fire
 1 Scorch Spitter
 2 Scorch Spitter
@@ -65,8 +65,8 @@
 1 Arboreal Grazer
 1 Rugged Highlands
 1 Wildwood Tracker
-1 Vivien, Monsters' Advocate
 1 Gruul Guildgate
+1 Vivien, Monsters' Advocate
 1 Tin Street Dodger
 1 Rhythm of the Wild
 1 Anax, Hardened in the Forge
@@ -78,8 +78,8 @@
 2 Skewer the Critics
 2 Arboreal Grazer
 2 Rhythm of the Wild
-2 Wildwood Tracker
 2 Rugged Highlands
+2 Wildwood Tracker
 2 Anax, Hardened in the Forge
 3 Tin Street Dodger
 3 Grumgully, the Generous
@@ -110,3 +110,4 @@
 2 Fervent Champion
 3 Fervent Champion
 4 Fervent Champion
+4 Domri's Ambush

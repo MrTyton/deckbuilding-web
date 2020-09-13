@@ -8,8 +8,8 @@
 1 Island
 1 Council's Judgment
 1 Plains
-2 Plains
 2 Island
+2 Plains
 3 Island
 4 Island
 5 Island
@@ -64,6 +64,11 @@
 3 Jace, the Mind Sculptor
 3 Polluted Delta
 4 Polluted Delta
+1 Frantic Inventory
+2 Frantic Inventory
+3 Frantic Inventory
+4 Frantic Inventory
+4 Terminus
 1 Replenish
 1 Cast Out
 1 Lay Claim
@@ -80,9 +85,4 @@
 4 Lay Claim
 4 Cast Out
 4 Teferi, Time Raveler
-1 Frantic Inventory
-2 Frantic Inventory
-3 Frantic Inventory
-4 Terminus
-4 Frantic Inventory
 5 Snow-Covered Island

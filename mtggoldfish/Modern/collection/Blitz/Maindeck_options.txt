@@ -1,12 +1,12 @@
-1 Bloodstained Mire
-4 Scalding Tarn
-4 Light Up the Stage
-1 Wild Slash
+1 Wooded Foothills
 2 Bloodstained Mire
-2 Arid Mesa
+4 Scalding Tarn
+1 Wild Slash
 4 Sprite Dragon
+4 Light Up the Stage
 2 Wild Slash
 2 Wooded Foothills
+2 Arid Mesa
 1 Brazen Borrower
 1 Sunbaked Canyon
 1 Crash Through
@@ -14,7 +14,6 @@
 2 Sunbaked Canyon
 3 Crash Through
 4 Crash Through
-3 Arid Mesa
 5 Mountain
 1 Mishra's Bauble
 2 Mishra's Bauble
@@ -34,10 +33,10 @@
 12 Mountain
 13 Mountain
 14 Mountain
-1 Sacred Foundry
 1 Abbot of Keral Keep
 1 Myth Realized
 1 Inspiring Vantage
+1 Sacred Foundry
 2 Sacred Foundry
 2 Inspiring Vantage
 2 Myth Realized
@@ -46,8 +45,7 @@
 3 Myth Realized
 3 Sunbaked Canyon
 4 Inspiring Vantage
-3 Gut Shot
-4 Arid Mesa
+3 Arid Mesa
 1 Island
 3 Steam Vents
 1 Seal of Fire
@@ -59,13 +57,15 @@
 1 Kiln Fiend
 2 Kiln Fiend
 3 Kiln Fiend
-4 Bedlam Reveler
-1 Aether Gust
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-3 Wooded Foothills
+3 Gut Shot
+4 Arid Mesa
 2 Brazen Borrower
 3 Wild Slash
+4 Bedlam Reveler
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+3 Bloodstained Mire
+3 Wooded Foothills
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -74,6 +74,8 @@
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
 4 Runaway Steam-Kin
+1 Aether Gust
+4 Wild Slash
 1 Blistercoil Weird
 2 Blistercoil Weird
 3 Blistercoil Weird
