@@ -1,3 +1,27 @@
+1 Shark Typhoon
+1 Censor
+2 Shark Typhoon
+2 Sinister Sabotage
+2 Opt
+2 Torrential Gearhulk
+2 Field of Ruin
+2 Censor
+3 Censor
+3 Sinister Sabotage
+3 Opt
+3 Torrential Gearhulk
+3 Shark Typhoon
+4 Sinister Sabotage
+4 Opt
+5 Island
+4 Murderous Rider
+3 Thought Erasure
+1 Drown in the Loch
+1 Glint-Sleeve Siphoner
+2 Glint-Sleeve Siphoner
+3 Glint-Sleeve Siphoner
+4 Glint-Sleeve Siphoner
+4 Dig Through Time
 1 Choked Estuary
 2 Choked Estuary
 2 Drown in the Loch
@@ -8,14 +32,20 @@
 4 Aether Hub
 1 Liliana, Dreadhorde General
 1 Teferi, Master of Time
-1 Castle Vantress
-1 Discovery/Dispersal
 1 The Scarab God
+1 Discovery/Dispersal
 2 Teferi, Master of Time
 2 Ashiok, Nightmare Muse
-1 Hero's Downfall
+1 Consign/Oblivion
+1 Negate
+1 Vraska's Contempt
+1 Hieroglyphic Illumination
+1 Glimmer of Genius
+2 Glimmer of Genius
+2 Negate
+2 Vraska's Contempt
+4 Shark Typhoon
 1 Languish
-1 Torrential Gearhulk
 1 Geier Reach Sanitarium
 1 Notion Thief
 1 Day's Undoing
@@ -29,7 +59,6 @@
 3 Notion Thief
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
-4 Dig Through Time
 4 Day's Undoing
 4 Notion Thief
 1 Tasigur, the Golden Fang
@@ -48,6 +77,9 @@
 2 Mystical Dispute
 5 Swamp
 6 Swamp
+1 Extinction Event
+2 Extinction Event
+3 Field of Ruin
 1 Gifted Aetherborn
 1 Atris, Oracle of Half-Truths
 2 Atris, Oracle of Half-Truths
@@ -84,16 +116,15 @@
 2 Nicol Bolas, the Ravager
 3 Nicol Bolas, the Ravager
 1 Tireless Tracker
-1 Heartless Act
 1 Nissa, Who Shakes the World
-1 Overgrown Tomb
 1 Forest
+1 Overgrown Tomb
 1 Blooming Marsh
 1 Hissing Quagmire
 1 Scavenging Ooze
 1 Vraska, Golgari Queen
-1 Assassin's Trophy
 1 Abrupt Decay
+1 Assassin's Trophy
 1 Servant of the Conduit
 2 Nissa, Who Shakes the World
 2 Tireless Tracker
@@ -123,46 +154,46 @@
 4 Brazen Borrower
 4 Thieves' Guild Enforcer
 1 Mortify
-1 Castle Ardenvale
 1 History of Benalia
-1 Obzedat, Ghost Council
-1 Shambling Vent
+1 Castle Ardenvale
 1 Tithe Taker
 1 Knight of the White Orchid
 1 Dawn of Hope
-1 The Immortal Sun
 1 Thalia, Heretic Cathar
+1 The Immortal Sun
 1 Basilica Bell-Haunt
 1 Isolated Chapel
 1 Settle the Wreckage
 1 Godless Shrine
+1 Obzedat, Ghost Council
 1 Plains
+1 Shambling Vent
 2 Basilica Bell-Haunt
-2 Godless Shrine
-2 Shambling Vent
-2 Plains
 2 History of Benalia
 2 Tithe Taker
+2 Plains
 2 Knight of the White Orchid
 2 Dawn of Hope
 2 The Immortal Sun
 2 Thalia, Heretic Cathar
 2 Isolated Chapel
 2 Settle the Wreckage
+2 Godless Shrine
+2 Shambling Vent
 3 Basilica Bell-Haunt
 3 Godless Shrine
-3 Plains
 3 History of Benalia
 3 Shambling Vent
 3 Tithe Taker
+3 Plains
 4 Godless Shrine
 4 Tithe Taker
 4 Plains
 4 Thought Erasure
 1 Star of Extinction
 1 Ugin, the Spirit Dragon
-1 Nykthos, Shrine to Nyx
 1 Castle Embereth
+1 Nykthos, Shrine to Nyx
 1 Fire Prophecy
 1 Deathbellow War Cry
 1 Vessel of Volatility
@@ -177,10 +208,10 @@
 2 Temple of Malice
 2 Mountain
 2 Ugin, the Spirit Dragon
-2 Nykthos, Shrine to Nyx
 2 Castle Embereth
-2 Irencrag Feat
+2 Nykthos, Shrine to Nyx
 2 Fire Prophecy
+2 Irencrag Feat
 2 Fanatic of Mogis
 2 Vessel of Volatility
 2 Rageblood Shaman
@@ -189,13 +220,13 @@
 2 Star of Extinction
 2 Kragma Warcaller
 2 Deathbellow War Cry
-3 Fire Prophecy
 3 Ugin, the Spirit Dragon
 3 Mountain
+3 Fire Prophecy
 3 Irencrag Feat
 3 Boros Reckoner
-3 Star of Extinction
 3 Wily Goblin
+3 Star of Extinction
 3 Deathbellow War Cry
 3 Vessel of Volatility
 4 Fire Prophecy

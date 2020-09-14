@@ -85,9 +85,9 @@
 3 Sanctum Prelate
 3 Ghost Quarter
 3 Vryn Wingmare
-4 Ghost Quarter
 4 Vryn Wingmare
 4 Sanctum Prelate
+4 Ghost Quarter
 1 Caves of Koilos
 2 Caves of Koilos
 1 Scrubland
@@ -107,15 +107,14 @@
 2 Plague Engineer
 3 Caves of Koilos
 4 Caves of Koilos
-4 Walking Ballista
 1 Swamp
 1 Silent Clearing
 1 Marsh Flats
 1 Wasteland Strangler
 1 Agonizing Remorse
-2 Agonizing Remorse
 2 Marsh Flats
 2 Wasteland Strangler
+2 Agonizing Remorse
 3 Agonizing Remorse
 3 Wasteland Strangler
 3 Marsh Flats
@@ -140,6 +139,7 @@
 4 Eldrazi Mimic
 4 Lotus Petal
 4 Endless One
+4 Walking Ballista
 1 Mirran Crusader
 2 Mirran Crusader
 5 Snow-Covered Plains

@@ -78,10 +78,6 @@
 1 Crystalline Giant
 2 Crystalline Giant
 3 Crystalline Giant
-1 Sacred Foundry
-2 Sacred Foundry
-3 Sacred Foundry
-4 Sacred Foundry
 1 Daxos, Blessed by the Sun
 3 Apostle of Purifying Light
 4 Apostle of Purifying Light
@@ -94,11 +90,15 @@
 3 Hanged Executioner
 3 Fabled Passage
 4 Hanged Executioner
-1 Blast Zone
 1 Shadowspear
-2 Blast Zone
+1 Blast Zone
 2 Shadowspear
+2 Blast Zone
 4 Tithe Taker
+1 Sacred Foundry
+2 Sacred Foundry
+3 Sacred Foundry
+4 Sacred Foundry
 1 Return of the Wildspeaker
 1 Divine Visitation
 1 Lovestruck Beast
@@ -109,48 +109,48 @@
 4 Lovestruck Beast
 4 Flower/Flourish
 4 Conclave Tribunal
-1 Knight of the Ebon Legion
 1 Archfiend's Vessel
-1 Vampire of the Dire Moon
-1 Ajani's Pridemate
-1 Speaker of the Heavens
+1 Knight of the Ebon Legion
 1 Light of Hope
+1 Speaker of the Heavens
+1 Ajani's Pridemate
 1 Pacifism
 1 Call of the Death-Dweller
 1 Swamp
 1 Spontaneous Flight
+1 Vampire of the Dire Moon
 1 Scoured Barrens
 1 Griffin Aerie
 1 Unexpected Fangs
 1 Mutual Destruction
 2 Call of the Death-Dweller
-2 Knight of the Ebon Legion
 2 Archfiend's Vessel
-2 Vampire of the Dire Moon
+2 Knight of the Ebon Legion
 2 Light of Hope
-2 Speaker of the Heavens
 2 Ajani's Pridemate
+2 Speaker of the Heavens
 2 Pacifism
 2 Scoured Barrens
 2 Mutual Destruction
 2 Swamp
 2 Unexpected Fangs
 2 Spontaneous Flight
+2 Vampire of the Dire Moon
 2 Griffin Aerie
 3 Archfiend's Vessel
-3 Vampire of the Dire Moon
 3 Ajani's Pridemate
 3 Pacifism
 3 Swamp
 3 Mutual Destruction
+3 Vampire of the Dire Moon
 3 Unexpected Fangs
 3 Scoured Barrens
 3 Light of Hope
 4 Archfiend's Vessel
-4 Vampire of the Dire Moon
 4 Ajani's Pridemate
 4 Unexpected Fangs
 4 Pacifism
+4 Vampire of the Dire Moon
 4 Swamp
 4 Scoured Barrens
 5 Swamp

@@ -37,13 +37,14 @@
 1 Scrapheap Scrounger
 1 Stitcher's Supplier
 1 Haunted Dead
-1 Creeping Chill
 1 Merfolk Secretkeeper
 1 Prized Amalgam
+1 Creeping Chill
 1 Silversmote Ghoul
 1 Grisly Salvage
 1 Narcomoeba
 1 Satyr Wayfinder
+2 Grisly Salvage
 2 Botanical Sanctum
 2 Stitcher's Supplier
 2 Merfolk Secretkeeper
@@ -53,11 +54,10 @@
 2 Narcomoeba
 2 Haunted Dead
 2 Satyr Wayfinder
-2 Grisly Salvage
 3 Grisly Salvage
 3 Stitcher's Supplier
-3 Prized Amalgam
 3 Merfolk Secretkeeper
+3 Prized Amalgam
 3 Creeping Chill
 3 Silversmote Ghoul
 3 Satyr Wayfinder
@@ -117,25 +117,25 @@
 3 Drowned Catacomb
 4 Drowned Catacomb
 1 Drown in the Loch
-1 Castle Locthwain
 1 Glint-Sleeve Siphoner
+1 Castle Locthwain
 1 Fatal Push
 1 Murderous Rider
 2 Swamp
+2 Glint-Sleeve Siphoner
 2 Drown in the Loch
 2 Fatal Push
 2 Murderous Rider
 2 Castle Locthwain
-2 Glint-Sleeve Siphoner
+3 Glint-Sleeve Siphoner
 3 Drown in the Loch
 3 Fatal Push
-3 Glint-Sleeve Siphoner
 3 Swamp
 3 Thoughtseize
 3 Murderous Rider
+4 Glint-Sleeve Siphoner
 4 Thoughtseize
 4 Fatal Push
-4 Glint-Sleeve Siphoner
 1 Fortified Village
 1 Scattered Groves
 2 Fortified Village
@@ -145,8 +145,8 @@
 1 Niambi, Esteemed Speaker
 1 Dire Tactics
 1 Kytheon, Hero of Akros
-2 Dire Tactics
 2 Kytheon, Hero of Akros
+2 Dire Tactics
 2 Niambi, Esteemed Speaker
 3 General's Enforcer
 3 Kytheon, Hero of Akros
@@ -172,8 +172,8 @@
 2 Thought Erasure
 2 Collective Brutality
 2 Kalitas, Traitor of Ghet
-3 Fetid Pools
 3 Aether Hub
+3 Fetid Pools
 3 Thief of Sanity
 3 Castle Locthwain
 4 Aether Hub
@@ -203,24 +203,24 @@
 1 Herald of the Pantheon
 2 Cast Out
 2 Field of Ruin
+2 Calix, Destiny's Hand
 2 Banishing Light
 2 Alseid of Life's Bounty
 2 Herald of the Pantheon
 2 Setessan Champion
 2 Eidolon of Blossoms
-2 Calix, Destiny's Hand
 2 Starfield Mystic
 2 Sigil of the Empty Throne
 2 Temple of Plenty
 3 Setessan Champion
 3 Cast Out
+3 Calix, Destiny's Hand
 3 Temple of Plenty
 3 Banishing Light
 3 Alseid of Life's Bounty
 3 Starfield Mystic
 3 Herald of the Pantheon
 3 Eidolon of Blossoms
-3 Calix, Destiny's Hand
 4 Setessan Champion
 4 Cast Out
 4 Temple of Plenty
@@ -289,7 +289,6 @@
 2 Brazen Borrower
 1 Irrigated Farmland
 1 Sphinx's Revelation
-1 Chart a Course
 1 Glacial Fortress
 1 Teferi, Time Raveler
 1 Seasoned Hallowblade
@@ -299,15 +298,16 @@
 1 Spell Pierce
 1 Gideon of the Trials
 1 Heart of Kiran
+1 Chart a Course
 1 Godless Shrine
 2 Irrigated Farmland
-2 Chart a Course
 2 Glacial Fortress
 2 Teferi, Time Raveler
 2 Seasoned Hallowblade
 2 Nimble Obstructionist
 2 Supreme Verdict
 2 Heart of Kiran
+2 Chart a Course
 2 Godless Shrine
 2 Gideon of the Trials
 2 Toolcraft Exemplar
@@ -401,19 +401,19 @@
 1 Brimaz, King of Oreskos
 1 Fleecemane Lion
 1 Kaheera, the Orphanguard
+1 Ajani, Adversary of Tyrants
 1 Pride Sovereign
 1 Feline Sovereign
 1 Bronzehide Lion
 1 Animal Sanctuary
-1 Ajani, Adversary of Tyrants
 1 Sacred Cat
 1 Regal Caracal
 1 Adorned Pouncer
 1 Leonin Vanguard
 1 Ajani Steadfast
 2 Fleecemane Lion
-2 Brimaz, King of Oreskos
 2 Scattered Groves
+2 Brimaz, King of Oreskos
 2 Sacred Cat
 2 Kaheera, the Orphanguard
 2 Adorned Pouncer

@@ -1,3 +1,12 @@
+1 Once Upon a Time
+1 Forest
+1 Maze of Ith
+2 Forest
+3 Forest
+4 Forest
+4 Crop Rotation
+1 Kozilek, Butcher of Truth
+1 Cavern of Souls
 1 Expedition Map
 2 Expedition Map
 3 Expedition Map
@@ -5,10 +14,9 @@
 5 Forest
 6 Forest
 7 Forest
-1 Cavern of Souls
 1 Primeval Titan
 2 Primeval Titan
-1 Kozilek, Butcher of Truth
+1 Dark Depths
 1 Green Sun's Zenith
 1 Reclamation Sage
 1 Elvish Reclaimer
@@ -18,11 +26,10 @@
 2 Elvish Reclaimer
 3 Green Sun's Zenith
 3 Once Upon a Time
-1 Dark Depths
-1 Manifold Key
-2 Manifold Key
+2 Ulamog, the Ceaseless Hunger
 2 Thespian's Stage
 8 Forest
+2 Ugin, the Spirit Dragon
 1 Allosaurus Shepherd
 1 Ramunap Excavator
 3 Elvish Reclaimer
@@ -31,29 +38,25 @@
 4 Green Sun's Zenith
 4 Expedition Map
 4 Elvish Reclaimer
-3 Eldrazi Temple
-1 Walking Ballista
-1 All Is Dust
-2 Ugin, the Spirit Dragon
-1 Ugin, the Ineffable
-3 Sorcerous Spyglass
-4 Eldrazi Temple
-2 Ulamog, the Ceaseless Hunger
 1 Candelabra of Tawnos
+1 Mazemind Tome
+1 Thran Dynamo
+2 Golos, Tireless Pilgrim
+2 All Is Dust
+4 Eldrazi Temple
 1 Warping Wail
 2 Warping Wail
 3 Primeval Titan
-1 Mazemind Tome
-1 Thran Dynamo
+2 Trinisphere
+1 City of Traitors
 1 Mirage Mirror
 1 Emrakul, the Promised End
-2 All Is Dust
 1 Wasteland
 1 Reality Smasher
 2 Wasteland
-2 Golos, Tireless Pilgrim
 1 Crystal Vein
 2 Ugin, the Ineffable
+2 Walking Ballista
 1 Karn Liberated
 2 Mazemind Tome
 2 Thran Dynamo
@@ -64,7 +67,6 @@
 3 Matter Reshaper
 4 Matter Reshaper
 2 Eye of Ugin
-2 Trinisphere
 3 Wasteland
 1 Boompile
 1 Retrofitter Foundry
@@ -77,13 +79,11 @@
 1 Oblivion Sower
 3 Ugin, the Spirit Dragon
 1 Stonecoil Serpent
-1 City of Traitors
 1 Verdant Catacombs
 1 Karn, Scion of Urza
 1 Blightsteel Colossus
 1 Lightning Greaves
 1 Kuldotha Forgemaster
-2 Walking Ballista
 1 Phyrexian Tower
 1 Crucible of Worlds
 2 Crystal Vein
@@ -99,6 +99,20 @@
 3 Windswept Heath
 3 Elvish Rejuvenator
 4 Reality Smasher
+1 Ensnaring Bridge
+1 Buried Ruin
+1 Sphere of Resistance
+1 Mystic Forge
+2 Blast Zone
+2 Stonecoil Serpent
+2 Ensnaring Bridge
+2 Mystic Forge
+2 City of Traitors
+2 Sphere of Resistance
+3 Stonecoil Serpent
+3 Golos, Tireless Pilgrim
+3 Sphere of Resistance
+4 Sphere of Resistance
 1 Sylvan Scrying
 1 From Beyond
 2 Hour of Promise
@@ -106,17 +120,41 @@
 3 Hour of Promise
 4 Vesuva
 9 Forest
-1 Mystic Forge
-1 Ensnaring Bridge
-1 Buried Ruin
-1 Sphere of Resistance
-2 Blast Zone
-2 Mystic Forge
-2 Ensnaring Bridge
-2 Stonecoil Serpent
-2 Sphere of Resistance
-2 City of Traitors
-3 Stonecoil Serpent
-3 Golos, Tireless Pilgrim
-3 Sphere of Resistance
-4 Sphere of Resistance
+1 Misty Rainforest
+1 Tropical Island
+1 Stifle
+1 Snow-Covered Forest
+1 Hydroid Krasis
+1 Uro, Titan of Nature's Wrath
+1 Shark Typhoon
+1 Veil of Summer
+1 Brainstorm
+1 Prismatic Vista
+1 Unbound Flourishing
+1 Snow-Covered Island
+1 Force of Will
+2 Snow-Covered Island
+2 Misty Rainforest
+2 Tropical Island
+2 Uro, Titan of Nature's Wrath
+2 Stifle
+2 Snow-Covered Forest
+2 Shark Typhoon
+2 Veil of Summer
+2 Unbound Flourishing
+2 Force of Will
+2 Brainstorm
+2 Hydroid Krasis
+2 Prismatic Vista
+2 Candelabra of Tawnos
+3 Misty Rainforest
+3 Stifle
+3 Walking Ballista
+3 Tropical Island
+3 Shark Typhoon
+3 Candelabra of Tawnos
+3 Force of Will
+3 Brainstorm
+3 Unbound Flourishing
+4 Misty Rainforest
+4 Brainstorm
