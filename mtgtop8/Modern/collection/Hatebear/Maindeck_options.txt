@@ -87,7 +87,6 @@
 1 Lightning Bolt
 1 Angrath's Marauders
 2 Sunbaked Canyon
-2 Lightning Bolt
 2 Smuggler's Copter
 2 Sacred Foundry
 2 Inspiring Vantage
@@ -96,6 +95,7 @@
 2 Seasoned Pyromancer
 2 Angrath's Marauders
 2 Mountain
+2 Lightning Bolt
 3 Sacred Foundry
 3 Smuggler's Copter
 3 Inspiring Vantage
@@ -139,25 +139,34 @@
 4 Meddling Mage
 4 Seachrome Coast
 1 Brushland
-1 Noble Hierarch
 1 Knight of Autumn
 1 Razorverge Thicket
+1 Noble Hierarch
 2 Brushland
-2 Noble Hierarch
 2 Knight of Autumn
 2 Razorverge Thicket
+2 Noble Hierarch
 3 Brushland
-3 Noble Hierarch
 3 Razorverge Thicket
+3 Noble Hierarch
 4 Brushland
 4 Noble Hierarch
+1 Eiganjo Castle
+1 Selfless Savior
+2 Selfless Savior
+6 Plains
+7 Plains
+8 Plains
+9 Plains
+10 Plains
+11 Plains
 1 Idyllic Grange
 1 Windswept Heath
 1 Ranger-Captain of Eos
 1 Hexdrinker
+1 Temple Garden
 1 Phyrexian Revoker
 1 Weathered Wayfarer
-1 Temple Garden
 2 Windswept Heath
 2 Temple Garden
 2 Ranger-Captain of Eos
@@ -168,12 +177,3 @@
 4 Ranger-Captain of Eos
 4 Windswept Heath
 5 Snow-Covered Plains
-1 Eiganjo Castle
-1 Selfless Savior
-2 Selfless Savior
-6 Plains
-7 Plains
-8 Plains
-9 Plains
-10 Plains
-11 Plains

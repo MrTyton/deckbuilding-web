@@ -13,18 +13,6 @@
 1 Reclamation Sage
 2 Driven / Despair
 1 Settle the Wreckage
-2 Settle the Wreckage
-2 Rest in Peace
-1 Gideon Blackblade
-1 Kaheera, the Orphanguard
-1 Glass Casket
-1 Heroic Intervention
-1 Prowling Serpopard
-1 Felidar Cub
-1 Leonin Warleader
-2 Heroic Intervention
-2 Prowling Serpopard
-2 Glass Casket
 1 Noxious Grasp
 2 Noxious Grasp
 1 Mystical Dispute
@@ -39,6 +27,18 @@
 2 Unmoored Ego
 2 Legion's End
 2 Disdainful Stroke
+2 Settle the Wreckage
+2 Rest in Peace
+1 Gideon Blackblade
+1 Kaheera, the Orphanguard
+1 Glass Casket
+1 Heroic Intervention
+1 Felidar Cub
+1 Leonin Warleader
+1 Prowling Serpopard
+2 Heroic Intervention
+2 Glass Casket
+2 Prowling Serpopard
 1 Eliminate
 1 Deputy of Detention
 1 Kaya, Orzhov Usurper
@@ -59,10 +59,10 @@
 1 Vraska, Golgari Queen
 1 Korvold, Fae-Cursed King
 1 Tireless Tracker
-2 Vraska, Golgari Queen
 2 Korvold, Fae-Cursed King
 2 Assassin's Trophy
 2 Tireless Tracker
+2 Vraska, Golgari Queen
 1 Damping Sphere
 2 Damping Sphere
 1 Grafdigger's Cage
@@ -122,27 +122,27 @@
 2 Midnight Reaper
 2 Distended Mindbender
 4 Thoughtseize
-1 Dire Tactics
 1 Elder Deep-Fiend
+1 Dire Tactics
 1 Watery Grave
-2 Dire Tactics
 2 Elder Deep-Fiend
+2 Dire Tactics
 2 Watery Grave
-3 Dire Tactics
 3 Elder Deep-Fiend
+3 Dire Tactics
 3 Watery Grave
 3 Damping Sphere
 4 Watery Grave
 4 Dire Tactics
 4 Damping Sphere
-1 Destiny Spinner
 1 Gideon's Intervention
-1 Seal Away
 1 Nyx-Fleece Ram
+1 Seal Away
+1 Destiny Spinner
 2 Seal Away
 2 Destiny Spinner
-2 Gideon's Intervention
 2 Nyx-Fleece Ram
+2 Gideon's Intervention
 3 Gideon's Intervention
 3 Destiny Spinner
 3 Rest in Peace

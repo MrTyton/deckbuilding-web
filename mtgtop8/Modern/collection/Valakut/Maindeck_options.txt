@@ -1,6 +1,3 @@
-3 Windswept Heath
-2 Arboreal Grazer
-1 Snow-Covered Plains
 1 Temple Garden
 1 Path to Exile
 2 Path to Exile
@@ -25,22 +22,27 @@
 3 Eladamri's Call
 4 Elvish Reclaimer
 4 Flagstones of Trokair
-1 Abrade
-4 Castle Garenbrig
-1 Woodland Bellower
+1 Knight of the Reliquary
 1 Sejiri Steppe
+1 Woodland Bellower
 1 Courser of Kruphix
 1 Scattered Groves
 1 Tireless Tracker
 1 Knight of Autumn
 1 Horizon Canopy
-1 Knight of the Reliquary
 1 Elder Gargaroth
 4 Windswept Heath
+2 Explore
+3 Snow-Covered Mountain
+2 Lightning Bolt
+1 Abrade
+4 Castle Garenbrig
 1 Vesuva
 4 Valakut, the Molten Pinnacle
 4 Summoner's Pact
 1 Nissa, Vastwood Seer
+1 Elvish Rejuvenator
+1 Voice of Resurgence
 1 Springbloom Druid
 1 Sacred Foundry
 1 Dwarven Mine
@@ -61,8 +63,6 @@
 7 Mountain
 8 Mountain
 1 Arid Mesa
-1 Elvish Rejuvenator
-1 Voice of Resurgence
 1 Pendelhaven
 1 Beast Within
 2 Beast Within
@@ -71,8 +71,8 @@
 2 Storm's Wrath
 2 Hour of Promise
 3 Arboreal Grazer
-1 Nightpack Ambusher
 1 Through the Breach
+1 Nightpack Ambusher
 1 Bonecrusher Giant
 1 Dead / Gone
 1 Woodfall Primus
@@ -95,9 +95,9 @@
 1 Supreme Verdict
 1 Jace, the Mind Sculptor
 1 Island
+1 Teferi, Time Raveler
 1 Force of Negation
 1 Growth Spiral
-1 Teferi, Time Raveler
 1 Mystic Sanctuary
 1 Mana Leak
 1 Hallowed Fountain
@@ -112,8 +112,8 @@
 2 Jace, the Mind Sculptor
 2 Misty Rainforest
 2 Uro, Titan of Nature's Wrath
-2 Teferi, Time Raveler
 2 Force of Negation
+2 Teferi, Time Raveler
 2 Cryptic Command
 2 Mana Leak
 2 Growth Spiral

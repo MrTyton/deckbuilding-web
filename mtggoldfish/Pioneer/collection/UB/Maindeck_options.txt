@@ -1,19 +1,29 @@
-1 Shark Typhoon
-1 Censor
-2 Shark Typhoon
-2 Sinister Sabotage
-2 Opt
-2 Torrential Gearhulk
-2 Field of Ruin
-2 Censor
-3 Censor
-3 Sinister Sabotage
-3 Opt
-3 Torrential Gearhulk
-3 Shark Typhoon
-4 Sinister Sabotage
-4 Opt
-5 Island
+2 Murderous Rider
+1 Thought Erasure
+3 Murderous Rider
+2 Thought Erasure
+1 Ashiok, Nightmare Muse
+1 Kalitas, Traitor of Ghet
+2 Kalitas, Traitor of Ghet
+1 Jace, Vryn's Prodigy
+2 Jace, Vryn's Prodigy
+3 Jace, Vryn's Prodigy
+4 Jace, Vryn's Prodigy
+4 Dig Through Time
+1 Narset, Parter of Veils
+1 Negate
+1 Vraska's Contempt
+1 Hieroglyphic Illumination
+1 Consign/Oblivion
+1 Glimmer of Genius
+2 Negate
+2 Glimmer of Genius
+2 Vraska's Contempt
+4 Shark Typhoon
+1 Urborg, Tomb of Yawgmoth
+4 Swamp
+3 Eliminate
+1 Liliana, the Last Hope
 4 Murderous Rider
 3 Thought Erasure
 1 Drown in the Loch
@@ -21,7 +31,6 @@
 2 Glint-Sleeve Siphoner
 3 Glint-Sleeve Siphoner
 4 Glint-Sleeve Siphoner
-4 Dig Through Time
 1 Choked Estuary
 2 Choked Estuary
 2 Drown in the Loch
@@ -36,28 +45,22 @@
 1 Discovery/Dispersal
 2 Teferi, Master of Time
 2 Ashiok, Nightmare Muse
-1 Consign/Oblivion
-1 Negate
-1 Vraska's Contempt
-1 Hieroglyphic Illumination
-1 Glimmer of Genius
-2 Glimmer of Genius
-2 Negate
-2 Vraska's Contempt
-4 Shark Typhoon
+1 Extinction Event
+2 Extinction Event
+3 Field of Ruin
 1 Languish
 1 Geier Reach Sanitarium
 1 Notion Thief
 1 Day's Undoing
-2 Geier Reach Sanitarium
 2 Hero's Downfall
+2 Geier Reach Sanitarium
 2 Day's Undoing
-2 Languish
 2 Narset, Parter of Veils
+2 Languish
 2 Notion Thief
+3 Narset, Parter of Veils
 3 Day's Undoing
 3 Notion Thief
-3 Narset, Parter of Veils
 4 Narset, Parter of Veils
 4 Day's Undoing
 4 Notion Thief
@@ -77,66 +80,63 @@
 2 Mystical Dispute
 5 Swamp
 6 Swamp
-1 Extinction Event
-2 Extinction Event
-3 Field of Ruin
-1 Gifted Aetherborn
 1 Atris, Oracle of Half-Truths
+1 Gifted Aetherborn
 2 Atris, Oracle of Half-Truths
 2 Gifted Aetherborn
 3 Castle Locthwain
-1 Dragonskull Summit
 1 Mountain
 1 Blood Crypt
-2 Dragonskull Summit
+1 Dragonskull Summit
 2 Blood Crypt
+2 Dragonskull Summit
 3 Dragonskull Summit
 3 Blood Crypt
 4 Dragonskull Summit
 4 Blood Crypt
-1 Izzet Charm
 1 Steam Vents
-1 Nicol Bolas, Dragon-God
 1 Kroxa, Titan of Death's Hunger
+1 Nicol Bolas, Dragon-God
 1 Spirebluff Canal
-1 Anger of the Gods
+1 Izzet Charm
+1 Gonti, Lord of Luxury
 1 Kolaghan's Command
 1 Magma Spray
+1 Anger of the Gods
 1 Dreadbore
 1 Nicol Bolas, the Ravager
-1 Gonti, Lord of Luxury
 2 Kroxa, Titan of Death's Hunger
-2 Liliana, the Last Hope
 2 Nicol Bolas, Dragon-God
-2 Spirebluff Canal
-2 Anger of the Gods
 2 Kolaghan's Command
 2 Magma Spray
+2 Anger of the Gods
 2 Dreadbore
+2 Spirebluff Canal
+2 Liliana, the Last Hope
 2 Nicol Bolas, the Ravager
 3 Nicol Bolas, the Ravager
-1 Tireless Tracker
-1 Nissa, Who Shakes the World
-1 Forest
 1 Overgrown Tomb
+1 Tireless Tracker
 1 Blooming Marsh
 1 Hissing Quagmire
-1 Scavenging Ooze
 1 Vraska, Golgari Queen
 1 Abrupt Decay
+1 Scavenging Ooze
 1 Assassin's Trophy
+1 Nissa, Who Shakes the World
 1 Servant of the Conduit
-2 Nissa, Who Shakes the World
-2 Tireless Tracker
+1 Forest
 2 Overgrown Tomb
 2 Blooming Marsh
-2 Forest
+2 Tireless Tracker
 2 Hissing Quagmire
-2 Scavenging Ooze
+2 Nissa, Who Shakes the World
+2 Forest
 2 Servant of the Conduit
-3 Tireless Tracker
+2 Scavenging Ooze
 3 Blooming Marsh
 3 Overgrown Tomb
+3 Tireless Tracker
 3 Scavenging Ooze
 3 Kalitas, Traitor of Ghet
 3 Servant of the Conduit
@@ -153,11 +153,13 @@
 3 Rankle, Master of Pranks
 4 Brazen Borrower
 4 Thieves' Guild Enforcer
+4 Thought Erasure
 1 Mortify
 1 History of Benalia
-1 Castle Ardenvale
-1 Tithe Taker
+1 Plains
 1 Knight of the White Orchid
+1 Tithe Taker
+1 Castle Ardenvale
 1 Dawn of Hope
 1 Thalia, Heretic Cathar
 1 The Immortal Sun
@@ -166,61 +168,58 @@
 1 Settle the Wreckage
 1 Godless Shrine
 1 Obzedat, Ghost Council
-1 Plains
 1 Shambling Vent
 2 Basilica Bell-Haunt
 2 History of Benalia
+2 Knight of the White Orchid
 2 Tithe Taker
 2 Plains
-2 Knight of the White Orchid
-2 Dawn of Hope
 2 The Immortal Sun
+2 Dawn of Hope
 2 Thalia, Heretic Cathar
 2 Isolated Chapel
 2 Settle the Wreckage
 2 Godless Shrine
 2 Shambling Vent
 3 Basilica Bell-Haunt
-3 Godless Shrine
 3 History of Benalia
 3 Shambling Vent
 3 Tithe Taker
 3 Plains
-4 Godless Shrine
+3 Godless Shrine
 4 Tithe Taker
 4 Plains
-4 Thought Erasure
+4 Godless Shrine
+1 Temple of Malice
 1 Star of Extinction
-1 Ugin, the Spirit Dragon
 1 Castle Embereth
-1 Nykthos, Shrine to Nyx
 1 Fire Prophecy
 1 Deathbellow War Cry
 1 Vessel of Volatility
-1 Temple of Malice
 1 Minotaur Aggressor
 1 Fanatic of Mogis
 1 Irencrag Feat
+1 Nykthos, Shrine to Nyx
+1 Ugin, the Spirit Dragon
 1 Boros Reckoner
 1 Wily Goblin
 1 Rageblood Shaman
 1 Kragma Warcaller
 2 Temple of Malice
 2 Mountain
-2 Ugin, the Spirit Dragon
 2 Castle Embereth
-2 Nykthos, Shrine to Nyx
-2 Fire Prophecy
 2 Irencrag Feat
+2 Fire Prophecy
 2 Fanatic of Mogis
 2 Vessel of Volatility
 2 Rageblood Shaman
 2 Boros Reckoner
+2 Ugin, the Spirit Dragon
 2 Wily Goblin
+2 Nykthos, Shrine to Nyx
 2 Star of Extinction
 2 Kragma Warcaller
 2 Deathbellow War Cry
-3 Ugin, the Spirit Dragon
 3 Mountain
 3 Fire Prophecy
 3 Irencrag Feat
@@ -228,9 +227,10 @@
 3 Wily Goblin
 3 Star of Extinction
 3 Deathbellow War Cry
+3 Ugin, the Spirit Dragon
 3 Vessel of Volatility
-4 Fire Prophecy
 4 Mountain
+4 Fire Prophecy
 4 Irencrag Feat
 4 Deathbellow War Cry
 4 Vessel of Volatility

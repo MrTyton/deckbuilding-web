@@ -29,3 +29,26 @@
 |1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |                                                                                                   |                                                                                    |
 |1 [Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643)             |                                                                                                   |                                                                                    |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)            |                    1|[Cast Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426710)           |
+|                    1|[Worldgorger Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413696)|                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                    1|[Dance of the Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2442)   |                    2|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)   |
+|                    1|[Wishclaw Talisman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473072) |                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                    1|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)      |                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                    1|[Urza's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3818)       |                     |                                                                                              |
+|                    1|[Entomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413629)            |                     |                                                                                              |
+|                    1|[Scrubland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=882)            |                     |                                                                                              |
+|                    1|[Prophetic Prism](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442218)   |                     |                                                                                              |
+|                    1|[Lodestone Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3048)    |                     |                                                                                              |
+|                    2|[Dance of the Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2442)   |                     |                                                                                              |
+|                    2|[Prophetic Prism](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442218)   |                     |                                                                                              |
+|                    2|[Entomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413629)            |                     |                                                                                              |
+|                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)    |                     |                                                                                              |
+|                    3|[Entomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413629)            |                     |                                                                                              |
+|                    3|[Dance of the Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2442)   |                     |                                                                                              |
+|                    4|[Entomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413629)            |                     |                                                                                              |
+

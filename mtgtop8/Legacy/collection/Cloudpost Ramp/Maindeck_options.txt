@@ -1,3 +1,7 @@
+1 Bojuka Bog
+1 Crop Rotation
+2 Crop Rotation
+3 Crop Rotation
 1 Once Upon a Time
 1 Forest
 1 Maze of Ith
@@ -6,7 +10,6 @@
 4 Forest
 4 Crop Rotation
 1 Kozilek, Butcher of Truth
-1 Cavern of Souls
 1 Expedition Map
 2 Expedition Map
 3 Expedition Map
@@ -14,6 +17,7 @@
 5 Forest
 6 Forest
 7 Forest
+1 Cavern of Souls
 1 Primeval Titan
 2 Primeval Titan
 1 Dark Depths
@@ -26,10 +30,8 @@
 2 Elvish Reclaimer
 3 Green Sun's Zenith
 3 Once Upon a Time
-2 Ulamog, the Ceaseless Hunger
 2 Thespian's Stage
 8 Forest
-2 Ugin, the Spirit Dragon
 1 Allosaurus Shepherd
 1 Ramunap Excavator
 3 Elvish Reclaimer
@@ -38,35 +40,34 @@
 4 Green Sun's Zenith
 4 Expedition Map
 4 Elvish Reclaimer
-1 Candelabra of Tawnos
 1 Mazemind Tome
-1 Thran Dynamo
-2 Golos, Tireless Pilgrim
+1 Candelabra of Tawnos
 2 All Is Dust
+1 City of Traitors
 4 Eldrazi Temple
 1 Warping Wail
 2 Warping Wail
+2 Ugin, the Ineffable
 3 Primeval Titan
 2 Trinisphere
-1 City of Traitors
 1 Mirage Mirror
-1 Emrakul, the Promised End
+1 Karn Liberated
 1 Wasteland
 1 Reality Smasher
 2 Wasteland
-1 Crystal Vein
-2 Ugin, the Ineffable
-2 Walking Ballista
-1 Karn Liberated
-2 Mazemind Tome
+1 Emrakul, the Promised End
 2 Thran Dynamo
-2 Reality Smasher
-3 Reality Smasher
+2 Eye of Ugin
+3 Ugin, the Spirit Dragon
+1 Crystal Vein
+2 Walking Ballista
+2 Mazemind Tome
 1 Matter Reshaper
 2 Matter Reshaper
 3 Matter Reshaper
 4 Matter Reshaper
-2 Eye of Ugin
+2 Reality Smasher
+3 Reality Smasher
 3 Wasteland
 1 Boompile
 1 Retrofitter Foundry
@@ -76,18 +77,25 @@
 2 Ancient Stirrings
 3 Ancient Stirrings
 4 Ancient Stirrings
+1 Kuldotha Forgemaster
 1 Oblivion Sower
-3 Ugin, the Spirit Dragon
 1 Stonecoil Serpent
+1 Ensnaring Bridge
+2 Blast Zone
+2 City of Traitors
+3 Golos, Tireless Pilgrim
 1 Verdant Catacombs
 1 Karn, Scion of Urza
 1 Blightsteel Colossus
 1 Lightning Greaves
-1 Kuldotha Forgemaster
 1 Phyrexian Tower
 1 Crucible of Worlds
 2 Crystal Vein
 3 Trinisphere
+1 Planar Bridge
+2 Kuldotha Forgemaster
+3 City of Traitors
+3 Thran Dynamo
 2 Oblivion Sower
 3 Oblivion Sower
 1 Elvish Rejuvenator
@@ -99,18 +107,14 @@
 3 Windswept Heath
 3 Elvish Rejuvenator
 4 Reality Smasher
-1 Ensnaring Bridge
 1 Buried Ruin
 1 Sphere of Resistance
 1 Mystic Forge
-2 Blast Zone
 2 Stonecoil Serpent
 2 Ensnaring Bridge
 2 Mystic Forge
-2 City of Traitors
 2 Sphere of Resistance
 3 Stonecoil Serpent
-3 Golos, Tireless Pilgrim
 3 Sphere of Resistance
 4 Sphere of Resistance
 1 Sylvan Scrying

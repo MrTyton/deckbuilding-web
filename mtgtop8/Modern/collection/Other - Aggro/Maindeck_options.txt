@@ -1,21 +1,21 @@
-1 Brazen Borrower
 1 Smuggler's Copter
+1 Brazen Borrower
 1 Watery Grave
 1 Polluted Delta
 2 Polluted Delta
 1 Misty Rainforest
 1 Disrupting Shoal
 1 Ice-Fang Coatl
+1 Spellstutter Sprite
 1 Ninja of the Deep Hours
 1 Faerie Seer
-1 Mana Leak
 1 Abrupt Decay
 1 Breeding Pool
 1 Snow-Covered Forest
 1 Ingenious Infiltrator
 1 Gilded Goose
+1 Mana Leak
 1 Fatal Push
-1 Spellstutter Sprite
 1 Drown in the Loch
 1 Darkslick Shores
 1 Fallen Shinobi
@@ -26,36 +26,36 @@
 1 Snow-Covered Swamp
 2 Disrupting Shoal
 2 Ice-Fang Coatl
+2 Spellstutter Sprite
 2 Faerie Seer
-2 Mana Leak
 2 Brazen Borrower
 2 Misty Rainforest
 2 Gilded Goose
 2 Force of Negation
 2 Snow-Covered Island
+2 Mana Leak
 2 Darkslick Shores
 2 Ingenious Infiltrator
-2 Spellstutter Sprite
 2 Fatal Push
 2 Botanical Sanctum
 3 Disrupting Shoal
 3 Ice-Fang Coatl
+3 Spellstutter Sprite
 3 Faerie Seer
 3 Brazen Borrower
 3 Misty Rainforest
 3 Darkslick Shores
 3 Polluted Delta
 3 Ingenious Infiltrator
-3 Spellstutter Sprite
 3 Fatal Push
 3 Snow-Covered Island
 3 Gilded Goose
+4 Spellstutter Sprite
 4 Faerie Seer
 4 Misty Rainforest
 4 Ingenious Infiltrator
 4 Ice-Fang Coatl
 4 Polluted Delta
-4 Spellstutter Sprite
 4 Fatal Push
 1 Mountain
 1 Stomping Ground
@@ -115,13 +115,13 @@
 4 Silversmote Ghoul
 4 Cathartic Reunion
 1 Mutavault
+1 Empyrean Eagle
 1 Moorland Haunt
+1 Flooded Strand
 1 Island
 1 Force of Virtue
-1 Flooded Strand
 1 Selfless Spirit
 1 Marsh Flats
-1 Empyrean Eagle
 1 Silent Clearing
 1 Aether Vial
 1 Godless Shrine
@@ -136,13 +136,13 @@
 1 Supreme Phantom
 1 Squadron Hawk
 2 Mutavault
-2 Island
+2 Empyrean Eagle
 2 Flooded Strand
+2 Island
 2 Selfless Spirit
 2 Geist of Saint Traft
 2 Aether Vial
 2 Supreme Phantom
-2 Empyrean Eagle
 2 Force of Virtue
 2 Path to Exile
 2 Mausoleum Wanderer
@@ -150,12 +150,12 @@
 2 Spell Queller
 2 Squadron Hawk
 2 Plains
+3 Empyrean Eagle
 3 Path to Exile
 3 Supreme Phantom
 3 Squadron Hawk
 3 Mausoleum Wanderer
 3 Force of Virtue
-3 Empyrean Eagle
 3 Flooded Strand
 3 Spell Queller
 3 Seachrome Coast
@@ -173,14 +173,14 @@
 2 Lightning Bolt
 3 Lightning Bolt
 4 Lightning Bolt
+1 Stormwing Entity
+1 Spirebluff Canal
 1 Wild Slash
 1 Fiery Islet
 1 Bedlam Reveler
 1 Gut Shot
 1 Scalding Tarn
 1 Opt
-1 Stormwing Entity
-1 Spirebluff Canal
 1 Sprite Dragon
 1 Soul-Scar Mage
 1 Mutagenic Growth
@@ -188,15 +188,15 @@
 1 Manamorphose
 1 Monastery Swiftspear
 1 Light Up the Stage
+2 Stormwing Entity
 2 Gut Shot
+2 Spirebluff Canal
 2 Wild Slash
 2 Fiery Islet
 2 Bedlam Reveler
 2 Opt
 2 Scalding Tarn
-2 Stormwing Entity
 2 Lava Dart
-2 Spirebluff Canal
 2 Steam Vents
 2 Mutagenic Growth
 2 Manamorphose
@@ -204,11 +204,11 @@
 2 Monastery Swiftspear
 2 Sprite Dragon
 2 Light Up the Stage
+3 Stormwing Entity
 3 Spirebluff Canal
 3 Fiery Islet
-3 Scalding Tarn
 3 Opt
-3 Stormwing Entity
+3 Scalding Tarn
 3 Sprite Dragon
 3 Manamorphose
 3 Light Up the Stage
