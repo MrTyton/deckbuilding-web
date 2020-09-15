@@ -23,19 +23,19 @@
 1 Nurturing Peatland
 1 Urborg, Tomb of Yawgmoth
 1 Wall of Roots
+1 Blooming Marsh
 1 Geralf's Messenger
 1 Twilight Mire
-1 Blooming Marsh
 1 Dryad Arbor
 1 Khalni Garden
 1 Young Wolf
 1 Yawgmoth, Thran Physician
 1 Cavalier of Night
+2 Overgrown Tomb
+2 Blooming Marsh
 2 Wall of Roots
 2 Geralf's Messenger
 2 Twilight Mire
-2 Blooming Marsh
-2 Overgrown Tomb
 2 Young Wolf
 2 Yawgmoth, Thran Physician
 3 Wall of Roots
@@ -101,6 +101,7 @@
 4 Seasoned Pyromancer
 1 Sacred Foundry
 1 Wall of Blossoms
+1 Grove of the Burnwillows
 1 Snow-Covered Mountain
 1 Kiki-Jiki, Mirror Breaker
 1 Sunbaked Canyon
@@ -110,7 +111,6 @@
 1 Sword of Fire and Ice
 1 Batterskull
 1 Arid Mesa
-1 Grove of the Burnwillows
 1 Misty Rainforest
 1 Stoneforge Mystic
 1 Path to Exile
@@ -173,6 +173,18 @@
 4 Teferi, Time Raveler
 4 Oath of Nissa
 4 Karn, the Great Creator
+1 Wooded Bastion
+1 Hardened Scales
+1 Idyllic Grange
+1 Conclave Mentor
+1 Anafenza, Kin-Tree Spirit
+1 Auriok Champion
+2 Hardened Scales
+2 Conclave Mentor
+3 Hardened Scales
+3 Conclave Mentor
+4 Hardened Scales
+4 Conclave Mentor
 1 Angrath's Marauders
 1 Winota, Joiner of Forces
 1 Embercleave
@@ -184,10 +196,10 @@
 2 Angrath's Marauders
 2 Winota, Joiner of Forces
 2 Copperline Gorge
+3 Stomping Ground
 3 Winota, Joiner of Forces
 3 Angrath's Marauders
 3 Copperline Gorge
-3 Stomping Ground
 3 Lightning Bolt
 4 Angrath's Marauders
 4 Winota, Joiner of Forces
@@ -199,18 +211,6 @@
 3 Duskwatch Recruiter
 4 Razorverge Thicket
 4 Horizon Canopy
-1 Wooded Bastion
-1 Conclave Mentor
-1 Idyllic Grange
-1 Hardened Scales
-1 Anafenza, Kin-Tree Spirit
-1 Auriok Champion
-2 Conclave Mentor
-2 Hardened Scales
-3 Conclave Mentor
-3 Hardened Scales
-4 Conclave Mentor
-4 Hardened Scales
 1 Raugrin Triome
 1 Ketria Triome
 1 Waterlogged Grove

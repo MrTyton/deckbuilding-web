@@ -10,16 +10,16 @@
 4 Steel Overseer
 4 Ancient Tomb
 1 Walking Ballista
-1 City of Traitors
 1 Chalice of the Void
+1 City of Traitors
 2 Walking Ballista
 2 City of Traitors
 2 Chalice of the Void
 3 Walking Ballista
 3 Chalice of the Void
 3 City of Traitors
-4 City of Traitors
 4 Walking Ballista
+4 City of Traitors
 4 Chalice of the Void
 4 Stonecoil Serpent
 1 Thorn of Amethyst
@@ -39,12 +39,12 @@
 1 Once Upon a Time
 2 Once Upon a Time
 3 Primeval Titan
-3 Once Upon a Time
 3 Misty Rainforest
+3 Once Upon a Time
 4 Misty Rainforest
 1 Sylvan Library
-2 Windswept Heath
 2 Wooded Foothills
+2 Windswept Heath
 2 Maze of Ith
 2 Sylvan Library
 1 Sphere of Resistance
@@ -85,6 +85,12 @@
 1 Island
 1 Reflecting Pool
 1 Tranquil Thicket
+1 Thought-Knot Seer
+1 Yavimaya Coast
+1 Sorcerous Spyglass
+2 Sorcerous Spyglass
+2 Yavimaya Coast
+2 Thought-Knot Seer
 1 Umezawa's Jitte
 1 Inventors' Fair
 1 Phyrexian Revoker
@@ -92,16 +98,10 @@
 1 Riftstone Portal
 2 Waterlogged Grove
 2 Crop Rotation
-1 Yavimaya Coast
-1 Thought-Knot Seer
-1 Sorcerous Spyglass
-2 Yavimaya Coast
-2 Thought-Knot Seer
-2 Sorcerous Spyglass
 2 Snow-Covered Forest
 1 Ancient Stirrings
-2 Ancient Stirrings
 2 Ghost Quarter
+2 Ancient Stirrings
 3 Ancient Stirrings
 4 Ancient Stirrings
 1 Glimmervoid
@@ -131,6 +131,6 @@
 4 Cranial Plating
 3 Oko, Thief of Crowns
 4 Oko, Thief of Crowns
-4 Lotus Petal
 4 Tropical Island
+4 Lotus Petal
 4 Emry, Lurker of the Loch

@@ -33,8 +33,8 @@
 1 Frilled Mystic
 1 Nightpack Ambusher
 2 Frilled Mystic
-2 Nightpack Ambusher
 2 Brazen Borrower
+2 Nightpack Ambusher
 3 Frilled Mystic
 3 Nightpack Ambusher
 4 Nightpack Ambusher
@@ -55,17 +55,17 @@
 2 Sinister Sabotage
 4 Quench
 1 Lightning Stormkin
-1 Cloudkin Seer
 1 Scorch Spitter
+1 Cloudkin Seer
 1 Thassa, Deep-Dwelling
 1 Healer of the Glade
-2 Thassa, Deep-Dwelling
 2 Lightning Stormkin
+2 Scorch Spitter
+2 Thassa, Deep-Dwelling
 2 Cloudkin Seer
 2 Healer of the Glade
-2 Scorch Spitter
-3 Thassa, Deep-Dwelling
 3 Lightning Stormkin
+3 Thassa, Deep-Dwelling
 3 Cloudkin Seer
 3 Healer of the Glade
 3 Scorch Spitter
@@ -91,15 +91,16 @@
 3 Temple of Epiphany
 5 Forest
 1 Yorion, Sky Nomad
+3 Terror of the Peaks
+1 Tamiyo, Collector of Tales
+2 Tamiyo, Collector of Tales
+3 Shark Typhoon
 1 Flame Sweep
 1 Essence Scatter
 2 Essence Scatter
 2 Flame Sweep
-3 Essence Scatter
 3 Sinister Sabotage
-1 Tamiyo, Collector of Tales
-2 Tamiyo, Collector of Tales
-3 Shark Typhoon
+3 Essence Scatter
 1 Scorching Dragonfire
 2 Scorching Dragonfire
 3 Scorching Dragonfire
@@ -114,8 +115,7 @@
 2 Wildborn Preserver
 2 Ionize
 3 Brineborn Cutthroat
-3 Wildborn Preserver
 4 Brazen Borrower
 4 Brineborn Cutthroat
 4 Mystical Dispute
-3 Terror of the Peaks
+3 Wildborn Preserver

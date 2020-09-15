@@ -2,83 +2,87 @@
 3 Deafening Silence
 3 Surgical Extraction
 1 Pyroblast
-2 Plague Engineer
-1 Flusterstorm
 1 Rest in Peace
+1 Flusterstorm
+1 Pithing Needle
 2 Pyroblast
 1 Return to Nature
-1 Pithing Needle
-1 Leyline of the Void
-2 Leyline of the Void
-1 Sylvan Library
-1 Swords to Plowshares
-2 Swords to Plowshares
-3 Swords to Plowshares
-4 Swords to Plowshares
-1 Reclamation Sage
-1 Choke
-2 Sylvan Library
-3 Leyline of the Void
-1 Collector Ouphe
-3 Plague Engineer
-1 Red Elemental Blast
 2 Rest in Peace
-1 Council's Judgment
+1 Red Elemental Blast
+2 Plague Engineer
 1 Ethersworn Canonist
 2 Containment Priest
+1 Council's Judgment
 2 Carpet of Flowers
 1 Back to Basics
 1 Null Rod
 1 Eliminate
+1 Leyline of the Void
+2 Leyline of the Void
 1 Cataclysm
 2 Cataclysm
+3 Leyline of the Void
+4 Leyline of the Void
+1 Sorcerous Spyglass
+1 Thorn of Amethyst
+2 Thorn of Amethyst
+2 Sorcerous Spyglass
 1 Zealous Persecution
 1 Kambal, Consul of Allocation
-1 Klothys, God of Destiny
 2 Ethersworn Canonist
+1 Ensnaring Bridge
+1 Klothys, God of Destiny
+1 Mycosynth Lattice
+1 Liquimetal Coating
+3 Plague Engineer
+1 Abrupt Decay
+1 Tormod's Crypt
+3 Thorn of Amethyst
+1 Grafdigger's Cage
+1 Spell Pierce
+1 Ratchet Bomb
+1 Ashiok, Dream Render
+1 Dystopia
+2 Dystopia
+2 Flusterstorm
+1 Relic of Progenitus
+1 Hydroblast
 1 Nihil Spellbomb
 1 Sword of Fire and Ice
 1 Meddling Mage
-2 Flusterstorm
-1 Faerie Macabre
-1 Umezawa's Jitte
-1 Abrupt Decay
-1 Hydroblast
-4 Leyline of the Void
-1 Spell Pierce
-1 Sorcerous Spyglass
-1 Ensnaring Bridge
-1 Mindbreak Trap
-2 Sorcerous Spyglass
 1 Blood Moon
-1 Thorn of Amethyst
-2 Thorn of Amethyst
-1 Mycosynth Lattice
-1 Liquimetal Coating
+1 Faerie Macabre
+1 Mindbreak Trap
 3 Pyroblast
-1 Liliana, the Last Hope
+1 Umezawa's Jitte
 1 Bitterblossom
 1 Toxic Deluge
+1 Liliana, the Last Hope
 1 Seal of Cleansing
-1 Shifting Ceratops
-1 Wasteland
 1 Force of Negation
 1 Rough/Tumble
+1 Sylvan Library
 1 Wilt
 1 Scavenging Ooze
+1 Collector Ouphe
 1 Jegantha, the Wellspring
 1 Gideon, Ally of Zendikar
 2 Council's Judgment
 1 Kaya, Orzhov Usurper
 2 Meddling Mage
-2 Null Rod
+1 Warping Wail
+1 All Is Dust
+2 Warping Wail
+2 Ratchet Bomb
+2 All Is Dust
 1 Phyrexian Revoker
 1 Chalice of the Void
 2 Chalice of the Void
+2 Null Rod
 1 Engineered Explosives
 1 Liliana of the Veil
-1 Painful Truths
 1 Liliana's Triumph
+1 Painful Truths
 1 Pernicious Deed
 1 Angrath's Rampage
 2 Hydroblast
@@ -92,29 +96,25 @@
 1 Cindervines
 2 Klothys, God of Destiny
 2 Cindervines
-1 Grafdigger's Cage
+1 Damping Sphere
+1 Engineered Plague
+2 Ashiok, Dream Render
+2 Engineered Plague
 1 Kaya, Ghost Assassin
 1 Vindicate
 2 Vindicate
 3 Veil of Summer
 1 Counterbalance
 1 Winter Orb
-2 Counterbalance
 2 Umezawa's Jitte
+2 Counterbalance
 2 Winter Orb
-1 Disenchant
-1 True-Name Nemesis
-1 Leonin Relic-Warder
-2 True-Name Nemesis
-3 True-Name Nemesis
 1 Thoughtseize
-1 Ashiok, Dream Render
 1 Sai, Master Thopterist
 2 Spell Pierce
 2 Thoughtseize
 2 Sai, Master Thopterist
 3 Thoughtseize
-1 Relic of Progenitus
 1 Supreme Verdict
 1 Peacekeeper
 2 Relic of Progenitus
@@ -122,12 +122,10 @@
 2 Blood Moon
 2 Supreme Verdict
 3 Blood Moon
-1 Tormod's Crypt
-1 Batterskull
 1 Darksteel Citadel
 1 Walking Ballista
 1 Crucible of Worlds
-3 Thorn of Amethyst
+1 Batterskull
 4 Thorn of Amethyst
 1 Island
 1 Chain of Vapor
@@ -152,6 +150,15 @@
 3 Contagion
 4 Force of Vigor
 4 Mindbreak Trap
+1 Disenchant
+1 True-Name Nemesis
+1 Leonin Relic-Warder
+1 Swords to Plowshares
+2 True-Name Nemesis
+2 Swords to Plowshares
+3 True-Name Nemesis
+3 Swords to Plowshares
+4 Swords to Plowshares
 1 Seasoned Pyromancer
 1 Abrade
 1 Shenanigans
@@ -166,10 +173,8 @@
 1 Vault of Whispers
 1 Helm of Obedience
 1 Dreamstealer
-1 Dystopia
 1 Necromentia
 2 Dreamstealer
-2 Dystopia
 4 Plague Engineer
 1 Emrakul, the Aeons Torn
 1 Griselbrand

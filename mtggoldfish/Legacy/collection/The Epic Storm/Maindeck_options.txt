@@ -1,7 +1,6 @@
 3 Polluted Delta
 1 Snow-Covered Swamp
-1 Thoughtseize
-2 Thoughtseize
+1 Glimmervoid
 1 Doomsday
 1 Spoils of the Vault
 1 Cabal Ritual
@@ -10,8 +9,8 @@
 1 Empty the Warrens
 1 Manamorphose
 1 Street Wraith
-1 Glimmervoid
 1 City of Brass
+2 Glimmervoid
 2 Doomsday
 2 Cabal Ritual
 2 Spoils of the Vault
@@ -20,7 +19,6 @@
 2 Empty the Warrens
 2 Echo of Eons
 2 City of Brass
-2 Glimmervoid
 3 Doomsday
 3 Empty the Warrens
 3 Echo of Eons
@@ -34,6 +32,8 @@
 4 City of Brass
 4 Chrome Mox
 4 Gemstone Mine
+1 Thoughtseize
+2 Thoughtseize
 3 Defense Grid
 1 Preordain
 2 Preordain
@@ -43,5 +43,3 @@
 1 Infernal Contract
 2 Simian Spirit Guide
 4 Spoils of the Vault
-1 Chain of Vapor
-4 Mox Opal

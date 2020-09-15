@@ -1,9 +1,11 @@
+2 Lotus Petal
 3 Lotus Petal
 4 Lotus Petal
 1 Duress
+1 Forest
+1 Mox Diamond
 3 Pithing Needle
 2 Duress
-1 Swamp
 1 Not of This World
 2 Not of This World
 3 Not of This World
@@ -11,20 +13,18 @@
 1 Sylvan Scrying
 2 Sylvan Scrying
 3 Inquisition of Kozilek
-1 Forest
-4 Pithing Needle
-3 Sylvan Scrying
-4 Sylvan Scrying
-1 Mox Diamond
 2 Mox Diamond
 3 Mox Diamond
 3 Abrupt Decay
+4 Pithing Needle
+3 Sylvan Scrying
+4 Sylvan Scrying
+2 Wasteland
 4 Once Upon a Time
 1 Nurturing Peatland
-2 Wasteland
 4 Mox Diamond
-1 Wooded Foothills
 1 Sylvan Library
+1 Wooded Foothills
 4 Abrupt Decay
 1 Sylvan Safekeeper
 2 Sylvan Safekeeper
@@ -40,28 +40,28 @@
 3 Dark Ritual
 4 Dark Ritual
 4 Duress
-1 Helm of Obedience
+1 Ancient Tomb
+1 Lion's Eye Diamond
 1 Infernal Tutor
 1 Ill-Gotten Gains
-1 Lion's Eye Diamond
-1 Tendrils of Agony
-1 Ancient Tomb
+1 Helm of Obedience
 1 Leyline of the Void
+1 Tendrils of Agony
 2 Swamp
+2 Ancient Tomb
 2 Infernal Tutor
 2 Helm of Obedience
 2 Ill-Gotten Gains
 2 Leyline of the Void
-2 Ancient Tomb
 2 Lion's Eye Diamond
 3 Swamp
 3 Infernal Tutor
 3 Lion's Eye Diamond
 3 Leyline of the Void
+4 Leyline of the Void
 4 Lion's Eye Diamond
 4 Infernal Tutor
 4 Swamp
-4 Leyline of the Void
 5 Swamp
 6 Swamp
 7 Swamp
@@ -69,7 +69,6 @@
 9 Swamp
 1 Blast Zone
 1 Riftstone Portal
-2 Wooded Foothills
 2 Sylvan Library
 1 Misty Rainforest
 2 Ghost Quarter
@@ -77,6 +76,7 @@
 2 Into the North
 1 Life from the Loam
 2 Life from the Loam
+2 Wooded Foothills
 1 Lake of the Dead
 1 Echo of Eons
 1 Plunge into Darkness

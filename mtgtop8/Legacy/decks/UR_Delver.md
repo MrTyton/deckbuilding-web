@@ -92,8 +92,8 @@
 |                    2|[Price of Progress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413683)    |                     |                                                                                                  |
 |                    2|[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706) |                     |                                                                                                  |
 |                    3|[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706) |                     |                                                                                                  |
-|                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)       |                     |                                                                                                  |
 |                    4|[Sprite Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479731)        |                     |                                                                                                  |
+|                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)       |                     |                                                                                                  |
 |                    4|[Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706) |                     |                                                                                                  |
 |                    4|[Chain Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446139)      |                     |                                                                                                  |
 

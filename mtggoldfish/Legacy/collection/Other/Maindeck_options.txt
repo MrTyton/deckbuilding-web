@@ -1,21 +1,20 @@
-1 Batterskull
-2 Stoneforge Mystic
+4 Flooded Strand
 2 Plague Engineer
 3 Stoneforge Mystic
-1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
-3 Thalia, Guardian of Thraben
-1 Windswept Heath
-2 Windswept Heath
 1 Umezawa's Jitte
 1 Eliminate
 2 Eliminate
+1 Thalia, Guardian of Thraben
+2 Thalia, Guardian of Thraben
+3 Thalia, Guardian of Thraben
 1 Scrubland
 1 Aether Vial
 1 Recruiter of the Guard
 2 Aether Vial
 2 Recruiter of the Guard
 3 Aether Vial
+1 Windswept Heath
+2 Windswept Heath
 1 Sword of Fire and Ice
 1 Rishadan Port
 1 Mother of Runes
@@ -35,42 +34,21 @@
 3 Mother of Runes
 4 Aether Vial
 4 Snow-Covered Plains
-1 Bayou
 2 Tropical Island
 1 Preordain
 2 Scalding Tarn
-3 Daze
-4 Daze
 1 Dark Confidant
 1 Silent Clearing
 2 Dark Confidant
 2 Scrubland
 3 Scrubland
+3 Daze
+4 Daze
 2 Volcanic Island
 1 Force of Negation
 3 Polluted Delta
-2 Abrupt Decay
-3 Windswept Heath
-1 Leovold, Emissary of Trest
-1 Cavern of Souls
-1 Wooded Foothills
-1 Once Upon a Time
-2 Once Upon a Time
-1 Dryad Arbor
-1 Knight of the Reliquary
-1 Green Sun's Zenith
-2 Knight of the Reliquary
-2 Savannah
-2 Green Sun's Zenith
-3 Green Sun's Zenith
-3 Knight of the Reliquary
-4 Green Sun's Zenith
-4 Knight of the Reliquary
+1 Savannah
 1 Veil of Summer
-2 Sylvan Library
-1 Noble Hierarch
-2 Noble Hierarch
-3 Noble Hierarch
 1 Stifle
 2 Stifle
 3 Stifle
@@ -82,103 +60,147 @@
 2 Dreadhorde Arcanist
 3 Scalding Tarn
 3 Dreadhorde Arcanist
+2 Abrupt Decay
 3 Tropical Island
-1 Verdant Catacombs
 4 Arcum's Astrolabe
 1 Prismatic Vista
 2 Prismatic Vista
 2 Spell Pierce
+1 Leovold, Emissary of Trest
+1 Bayou
 1 Drown in the Loch
-2 Wooded Foothills
-4 Windswept Heath
-1 Kaya, Orzhov Usurper
 3 Uro, Titan of Nature's Wrath
 4 Polluted Delta
 1 Brazen Borrower
 2 Underground Sea
+1 Thoughtseize
+3 Windswept Heath
+2 Sylvan Library
+1 Noble Hierarch
+2 Noble Hierarch
+3 Noble Hierarch
+1 Wooded Foothills
+1 Kaya, Orzhov Usurper
+1 Once Upon a Time
+2 Once Upon a Time
 1 Nurturing Peatland
 1 Qasali Pridemage
+1 Collector Ouphe
 1 Ramunap Excavator
 1 Birds of Paradise
 1 Scavenging Ooze
-1 Collector Ouphe
+1 Dryad Arbor
+1 Knight of the Reliquary
 1 Questing Beast
 1 Scryb Ranger
+1 Green Sun's Zenith
+2 Wooded Foothills
 2 Birds of Paradise
+2 Knight of the Reliquary
+2 Savannah
+2 Green Sun's Zenith
+3 Green Sun's Zenith
 3 Wooded Foothills
+3 Knight of the Reliquary
+4 Green Sun's Zenith
 4 Wooded Foothills
+4 Knight of the Reliquary
+4 Windswept Heath
 1 Palace Jailer
-1 Sejiri Steppe
-1 Elvish Reclaimer
-1 Mox Diamond
-1 Bojuka Bog
-1 Crop Rotation
-1 Flagstones of Trokair
-1 Thespian's Stage
-1 Dark Depths
-1 Sylvan Safekeeper
-2 Sylvan Safekeeper
-2 Crop Rotation
-2 Elvish Reclaimer
-2 Dark Depths
-2 Thespian's Stage
-2 Flagstones of Trokair
-2 Mox Diamond
-3 Savannah
-3 Elvish Reclaimer
-3 Crop Rotation
-3 Thespian's Stage
-3 Flagstones of Trokair
-3 Mox Diamond
-3 Once Upon a Time
-3 Dark Depths
-4 Elvish Reclaimer
-4 Savannah
-4 Crop Rotation
-4 Thespian's Stage
-4 Dark Depths
-4 Mox Diamond
-4 Once Upon a Time
-1 Thoughtseize
-1 Forest
 3 Lightning Bolt
 4 Scalding Tarn
 4 Rishadan Port
-2 Veil of Summer
-1 Pyroblast
 1 Delver of Secrets
 2 Delver of Secrets
 3 Delver of Secrets
 4 Delver of Secrets
+1 Pyroblast
+2 Veil of Summer
+1 Cavern of Souls
+2 Cavern of Souls
 3 Abrupt Decay
+2 Tundra
+4 Stoneforge Mystic
 1 Baleful Strix
 2 Baleful Strix
 3 Baleful Strix
 4 Baleful Strix
-2 Tundra
-4 Stoneforge Mystic
 3 Volcanic Island
 1 Island
 2 Snapcaster Mage
 1 Jace, the Mind Sculptor
+1 Verdant Catacombs
 2 Leovold, Emissary of Trest
 1 Punishing Fire
 1 Grove of the Burnwillows
-2 Punishing Fire
 2 Grove of the Burnwillows
+2 Punishing Fire
 3 Grove of the Burnwillows
 1 Fatal Push
-2 Cavern of Souls
-1 Marsh Flats
 1 Swamp
 2 Thoughtseize
+1 Marsh Flats
+3 Cavern of Souls
+1 Simian Spirit Guide
+1 Ancient Tomb
+1 City of Traitors
+1 Chalice of the Void
+2 Chalice of the Void
+2 Ancient Tomb
+3 Ancient Tomb
+3 Chalice of the Void
+4 Chalice of the Void
+4 Ancient Tomb
+1 Blast Zone
+1 Dismember
+1 Eye of Ugin
+1 Thought-Knot Seer
+1 Reality Smasher
+1 Wastes
+1 Walking Ballista
+1 Matter Reshaper
+1 Eldrazi Temple
+2 Eye of Ugin
+2 Thought-Knot Seer
+2 Matter Reshaper
+2 Eldrazi Temple
+2 Reality Smasher
+2 Walking Ballista
+3 Matter Reshaper
+3 Eldrazi Temple
+3 Reality Smasher
+3 Thought-Knot Seer
+3 Eye of Ugin
+4 Matter Reshaper
+4 Eldrazi Temple
+4 Reality Smasher
+4 Thought-Knot Seer
 1 Plains
 2 Plains
-1 Allosaurus Shepherd
+2 City of Traitors
+1 Urborg, Tomb of Yawgmoth
+1 Karn, the Great Creator
+2 Karn, the Great Creator
+1 Chrome Mox
+2 Chrome Mox
+3 Chrome Mox
+3 City of Traitors
+3 Karn, the Great Creator
+4 Karn, the Great Creator
+4 Cavern of Souls
+1 Inquisition of Kozilek
+1 Liliana of the Veil
+2 Swamp
+2 Liliana of the Veil
+2 Inquisition of Kozilek
+3 Swamp
+3 Liliana of the Veil
+3 Thoughtseize
 4 Tropical Island
+1 Forest
 1 Cabal Therapy
-1 Narcomoeba
 1 Thassa's Oracle
+1 Narcomoeba
 1 Dread Return
 2 Cabal Therapy
 2 Narcomoeba
@@ -218,6 +240,15 @@
 2 Tarmogoyf
 2 Hooting Mandrills
 3 Hooting Mandrills
+1 Murderous Rider
+1 Castle Locthwain
+1 Dark Ritual
+2 Murderous Rider
+2 Castle Locthwain
+2 Dark Ritual
+2 Urborg, Tomb of Yawgmoth
+3 Dark Ritual
+4 Dark Ritual
 1 Shark Typhoon
 1 Dead of Winter
 2 Shark Typhoon
@@ -249,12 +280,44 @@
 3 Cephalid Illusionist
 3 Nomads en-Kor
 4 Cephalid Illusionist
+1 Endbringer
+1 Eldrazi Mimic
+1 Endless One
+2 Endbringer
+2 Dismember
+2 Simian Spirit Guide
+2 Eldrazi Mimic
+2 Umezawa's Jitte
+2 Endless One
+3 Simian Spirit Guide
+3 Eldrazi Mimic
+3 Endless One
+4 Eldrazi Mimic
+4 Endless One
+1 Grim Monolith
+1 Ulamog, the Ceaseless Hunger
+1 All Is Dust
+1 Buried Ruin
+1 Crystal Vein
+1 Sorcerous Spyglass
+1 Ugin, the Ineffable
+2 All Is Dust
+2 Grim Monolith
+2 Crystal Vein
+2 Sorcerous Spyglass
+2 Ugin, the Ineffable
+3 Ugin, the Ineffable
+3 Crystal Vein
+3 Sorcerous Spyglass
+4 Sorcerous Spyglass
+4 Crystal Vein
 1 Waterlogged Grove
 1 Eldritch Evolution
-1 Elvish Spirit Guide
 1 Griselbrand
-1 Neoform
 1 Children of Korlis
+1 Allosaurus Shepherd
+1 Elvish Spirit Guide
+1 Neoform
 1 Xantid Swarm
 1 Pact of Negation
 1 Autochthon Wurm
@@ -310,69 +373,10 @@
 4 Dreadhorde Arcanist
 4 Kavu Predator
 4 Invigorate
-3 Cavern of Souls
-1 Chrome Mox
-2 Chrome Mox
-3 Chrome Mox
-1 City of Traitors
-1 Ancient Tomb
-1 Chalice of the Void
-2 Chalice of the Void
-2 Ancient Tomb
-3 Ancient Tomb
-3 Chalice of the Void
-4 Chalice of the Void
-4 Ancient Tomb
-1 Urborg, Tomb of Yawgmoth
-1 Karn, the Great Creator
-2 Karn, the Great Creator
-3 Karn, the Great Creator
-4 Karn, the Great Creator
-1 Dismember
-1 Grim Monolith
-1 Ulamog, the Ceaseless Hunger
-1 All Is Dust
-1 Blast Zone
-1 Crystal Vein
-1 Eye of Ugin
-1 Thought-Knot Seer
-1 Reality Smasher
-1 Sorcerous Spyglass
-1 Buried Ruin
-1 Wastes
-1 Walking Ballista
-1 Ugin, the Ineffable
-1 Matter Reshaper
-1 Eldrazi Temple
-2 All Is Dust
-2 Eye of Ugin
-2 Grim Monolith
-2 Crystal Vein
-2 Thought-Knot Seer
-2 Sorcerous Spyglass
-2 Ugin, the Ineffable
-2 Matter Reshaper
-2 Reality Smasher
-2 Eldrazi Temple
-2 Walking Ballista
-3 Ugin, the Ineffable
-3 Matter Reshaper
-3 Eldrazi Temple
-3 Reality Smasher
-3 Crystal Vein
-3 Thought-Knot Seer
-3 Eye of Ugin
-3 Sorcerous Spyglass
-4 Sorcerous Spyglass
-4 Matter Reshaper
-4 Eldrazi Temple
-4 Reality Smasher
-4 Crystal Vein
-4 Thought-Knot Seer
 1 Shambling Shell
+1 Golgari Thug
 1 Prized Amalgam
 1 Stinkweed Imp
-1 Golgari Thug
 1 Street Wraith
 1 Ichorid
 1 Phantasmagorian
@@ -384,8 +388,8 @@
 2 Shambling Shell
 2 Dread Return
 2 Prized Amalgam
-2 Golgari Thug
 2 Stinkweed Imp
+2 Golgari Thug
 2 Street Wraith
 2 Phantasmagorian
 2 Hogaak, Arisen Necropolis
@@ -410,8 +414,8 @@
 4 Cabal Therapy
 4 Narcomoeba
 4 Shambling Shell
-4 Stinkweed Imp
 4 Prized Amalgam
+4 Stinkweed Imp
 4 Golgari Grave-Troll
 4 Bridge from Below
 4 Golgari Thug
@@ -437,31 +441,22 @@
 4 Oko, Thief of Crowns
 4 Emry, Lurker of the Loch
 1 Sevinne's Reclamation
-1 Inquisition of Kozilek
 1 Collective Brutality
 1 Kaya's Guile
-1 Liliana of the Veil
 1 Lingering Souls
 1 Hymn to Tourach
 1 Shambling Vent
-2 Swamp
-2 Liliana of the Veil
 2 Marsh Flats
-2 Inquisition of Kozilek
 2 Lingering Souls
 2 Kaya, Orzhov Usurper
 2 Hymn to Tourach
 2 Silent Clearing
 3 Marsh Flats
-3 Swamp
-3 Liliana of the Veil
 3 Dark Confidant
-3 Thoughtseize
 3 Hymn to Tourach
 4 Dark Confidant
 4 Scrubland
 4 Marsh Flats
-2 City of Traitors
 4 Chrome Mox
 1 Mountain
 2 Mountain
@@ -493,20 +488,18 @@
 2 Goblin Rabblemaster
 2 Goblin Warchief
 2 Pyrokinesis
+3 Warren Instigator
 3 Muxus, Goblin Grandee
 3 Goblin Rabblemaster
 3 Goblin Ringleader
 3 Goblin Matron
 3 Goblin Warchief
-3 Warren Instigator
 4 Goblin Rabblemaster
 4 Warren Instigator
 4 Muxus, Goblin Grandee
 4 Goblin Matron
-4 Cavern of Souls
 4 Goblin Ringleader
 4 Goblin Warchief
-1 Simian Spirit Guide
 1 Sword of War and Peace
 1 Orzhov Pontiff
 1 Mana Tithe
@@ -519,6 +512,34 @@
 4 Thalia, Guardian of Thraben
 4 Plains
 5 Snow-Covered Plains
+1 Leyline of the Void
+1 Trinisphere
+1 Cruel Reality
+1 Helm of Obedience
+1 Curse of Misfortunes
+1 Overwhelming Splendor
+1 Curse of Death's Hold
+2 Leyline of the Void
+2 Trinisphere
+2 Curse of Misfortunes
+2 Snow-Covered Swamp
+3 Castle Locthwain
+3 Leyline of the Void
+3 Trinisphere
+3 Eliminate
+3 Snow-Covered Swamp
+3 Curse of Misfortunes
+4 Leyline of the Void
+4 Trinisphere
+4 Curse of Misfortunes
+4 Eliminate
+4 City of Traitors
+4 Snow-Covered Swamp
+5 Snow-Covered Swamp
+6 Snow-Covered Swamp
+7 Snow-Covered Swamp
+8 Snow-Covered Swamp
+9 Snow-Covered Swamp
 1 Blistercoil Weird
 1 Abrade
 1 Faithless Looting
@@ -543,11 +564,11 @@
 2 Faithless Looting
 3 Bedlam Reveler
 3 Chain Lightning
-3 Faithless Looting
 3 Fireblast
+3 Light Up the Stage
+3 Faithless Looting
 3 Monastery Swiftspear
 3 Soul-Scar Mage
-3 Light Up the Stage
 3 Lava Dart
 4 Chain Lightning
 4 Bedlam Reveler
@@ -567,41 +588,35 @@
 16 Mountain
 17 Mountain
 18 Mountain
-1 Murderous Rider
-1 Leyline of the Void
-1 Castle Locthwain
-1 Trinisphere
-1 Cruel Reality
-1 Helm of Obedience
-1 Curse of Misfortunes
-1 Overwhelming Splendor
-1 Curse of Death's Hold
-1 Dark Ritual
-2 Murderous Rider
-2 Leyline of the Void
-2 Castle Locthwain
-2 Trinisphere
-2 Curse of Misfortunes
-2 Dark Ritual
-2 Snow-Covered Swamp
-2 Urborg, Tomb of Yawgmoth
-3 Castle Locthwain
-3 Leyline of the Void
-3 Trinisphere
-3 Eliminate
-3 Dark Ritual
-3 Snow-Covered Swamp
-3 Curse of Misfortunes
-3 City of Traitors
-4 Leyline of the Void
-4 Trinisphere
-4 Curse of Misfortunes
-4 Eliminate
-4 City of Traitors
-4 Snow-Covered Swamp
-4 Dark Ritual
-5 Snow-Covered Swamp
-6 Snow-Covered Swamp
-7 Snow-Covered Swamp
-8 Snow-Covered Swamp
-9 Snow-Covered Swamp
+1 Liliana, the Last Hope
+1 Cling to Dust
+1 Liliana, Waker of the Dead
+1 Mishra's Factory
+1 Liliana's Triumph
+1 Chains of Mephistopheles
+1 The Tabernacle at Pendrell Vale
+1 Ensnaring Bridge
+1 Innocent Blood
+1 Maze of Ith
+1 Smallpox
+1 Cursed Scroll
+2 Blast Zone
+2 Liliana's Triumph
+2 Smallpox
+2 Mishra's Factory
+2 Ensnaring Bridge
+2 Cling to Dust
+2 Innocent Blood
+3 Smallpox
+3 Urborg, Tomb of Yawgmoth
+3 Mishra's Factory
+3 Innocent Blood
+4 Thoughtseize
+4 Swamp
+4 Smallpox
+5 Swamp
+6 Swamp
+7 Swamp
+8 Swamp
+9 Swamp
+10 Swamp
