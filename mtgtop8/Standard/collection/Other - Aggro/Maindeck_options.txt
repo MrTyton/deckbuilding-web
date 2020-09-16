@@ -29,8 +29,8 @@
 4 Temple of Mystery
 4 Breeding Pool
 1 Temple of Abandon
-1 Leafkin Druid
 1 Uro, Titan of Nature's Wrath
+1 Leafkin Druid
 1 Risen Reef
 1 Rugged Highlands
 1 Ugin, the Ineffable
@@ -40,8 +40,8 @@
 1 Castle Vantress
 1 Omnath, Locus of the Roil
 1 Yorion, Sky Nomad
-2 Leafkin Druid
 2 Uro, Titan of Nature's Wrath
+2 Leafkin Druid
 2 Ugin, the Ineffable
 2 Risen Reef
 2 Soul-Guide Lantern
@@ -105,12 +105,12 @@
 2 Elspeth Conquers Death
 2 Treacherous Blessing
 2 Temple Garden
-3 Overgrown Tomb
 3 Indatha Triome
+3 Overgrown Tomb
 3 Basri's Lieutenant
-3 Vito, Thorn of the Dusk Rose
 3 Llanowar Visionary
 3 Revival / Revenge
+3 Vito, Thorn of the Dusk Rose
 3 Elspeth Conquers Death
 3 Temple Garden
 3 Gilded Goose
@@ -165,11 +165,11 @@
 4 Nightpack Ambusher
 1 Domri, Anarch of Bolas
 1 Chandra, Heart of Fire
-1 Incubation Druid
 1 The Great Henge
 1 Vivien, Arkbow Ranger
-1 Chandra, Fire Artisan
 1 Radha, Heart of Keld
+1 Incubation Druid
+1 Chandra, Fire Artisan
 1 Questing Beast
 1 Sarkhan the Masterless
 1 Domri's Ambush
@@ -208,7 +208,6 @@
 1 Zenith Flare
 1 Raugrin Triome
 2 Raugrin Triome
-2 Inspired Ultimatum
 2 Drannith Stinger
 2 Boon of the Wish-Giver
 2 Imposing Vantasaur
@@ -217,6 +216,7 @@
 2 Zenith Flare
 2 Unpredictable Cyclone
 2 Sacred Foundry
+2 Inspired Ultimatum
 2 Hallowed Fountain
 2 Startling Development
 2 Flourishing Fox
@@ -263,20 +263,20 @@
 2 Knight of the Ebon Legion
 2 Thirsting Shade
 2 Thassa, Deep-Dwelling
-3 Casualties of War
 3 Neoform
+3 Casualties of War
 3 Thirsting Shade
 3 Swamp
 3 Vampire Opportunist
 3 Knight of the Ebon Legion
 3 Biomancer's Familiar
-4 Casualties of War
 4 Neoform
 4 Thirsting Shade
 4 Vampire Opportunist
 4 Knight of the Ebon Legion
 4 Swamp
 4 Biomancer's Familiar
+4 Casualties of War
 5 Swamp
 6 Swamp
 7 Swamp
@@ -297,15 +297,15 @@
 2 Winged Words
 2 Crackling Drake
 2 Izzet Guildgate
-2 Frantic Inventory
 2 Ominous Seas
+2 Frantic Inventory
 2 Experimental Overload
 2 Flame Sweep
 3 Swiftwater Cliffs
 3 Winged Words
 3 Crackling Drake
-3 Frantic Inventory
 3 Ominous Seas
+3 Frantic Inventory
 3 Flame Sweep
 4 Swiftwater Cliffs
 4 Frantic Inventory
@@ -313,20 +313,20 @@
 8 Island
 8 Mountain
 1 Dryad of the Ilysian Grove
-1 Chandra, Awakened Inferno
 1 Arboreal Grazer
+1 Chandra, Awakened Inferno
 1 Voracious Hydra
 1 Escape to the Wilds
 2 Dryad of the Ilysian Grove
 2 Arboreal Grazer
 2 Chandra, Awakened Inferno
-2 Voracious Hydra
 2 Klothys, God of Destiny
+2 Voracious Hydra
 2 Escape to the Wilds
 3 Arboreal Grazer
 3 Chandra, Awakened Inferno
-3 Voracious Hydra
 3 Dryad of the Ilysian Grove
+3 Voracious Hydra
 4 Arboreal Grazer
 4 Dryad of the Ilysian Grove
 4 Chandra, Awakened Inferno

@@ -1,19 +1,20 @@
 2 Wooded Foothills
-3 Verdant Catacombs
-1 Chord of Calling
-1 Eldritch Evolution
-1 Viscera Seer
-3 Horizon Canopy
-4 Vizier of Remedies
 4 Ranger-Captain of Eos
+3 Horizon Canopy
+3 Verdant Catacombs
+1 Eldritch Evolution
+1 Chord of Calling
 1 Scavenging Ooze
-3 Wooded Foothills
 1 Gavony Township
+1 Viscera Seer
+4 Vizier of Remedies
+3 Wooded Foothills
+3 Temple Garden
 2 Eldritch Evolution
-2 Chord of Calling
 3 Eldritch Evolution
-4 Eldritch Evolution
+2 Chord of Calling
 3 Forest
+4 Eldritch Evolution
 3 Chord of Calling
 4 Chord of Calling
 1 Strangleroot Geist
@@ -51,11 +52,12 @@
 1 Gilded Goose
 2 Gilded Goose
 3 Giver of Runes
+4 Forest
 1 Knight of Autumn
+2 Plains
 1 Duskwatch Recruiter
 1 Postmortem Lunge
 2 Postmortem Lunge
-3 Temple Garden
 1 Elves of Deep Shadow
 1 Zulaport Cutthroat
 1 Reclamation Sage
@@ -64,7 +66,6 @@
 3 Nurturing Peatland
 3 Overgrown Tomb
 4 Blooming Marsh
-4 Forest
 1 Marsh Flats
 1 Pendelhaven
 1 Carrion Feeder
@@ -77,15 +78,18 @@
 4 Eladamri's Call
 4 Postmortem Lunge
 1 Selfless Savior
-2 Plains
-1 Stomping Ground
+4 Spike Feeder
 1 Utopia Sprawl
-1 Snow-Covered Forest
 2 Utopia Sprawl
-2 Snow-Covered Forest
 3 Utopia Sprawl
-3 Snow-Covered Forest
 4 Utopia Sprawl
+1 Stomping Ground
+2 Scavenging Ooze
+1 Snow-Covered Forest
+2 Snow-Covered Forest
+3 Snow-Covered Forest
+1 Prismatic Vista
+1 Misty Rainforest
 1 Voice of Resurgence
 1 Seasoned Pyromancer
 1 Magus of the Moon
@@ -95,21 +99,19 @@
 3 Seasoned Pyromancer
 3 Voice of Resurgence
 4 Seasoned Pyromancer
+1 Arid Mesa
 1 Sacred Foundry
 1 Wall of Blossoms
 1 Kiki-Jiki, Mirror Breaker
-1 Snow-Covered Mountain
 1 Sunbaked Canyon
-1 Prismatic Vista
 1 Restoration Angel
 1 Eidolon of Rhetoric
 1 Batterskull
 1 Sword of Fire and Ice
 1 Snow-Covered Plains
-1 Arid Mesa
 1 Grove of the Burnwillows
-1 Misty Rainforest
 1 Stoneforge Mystic
+1 Snow-Covered Mountain
 1 Path to Exile
 2 Arid Mesa
 2 Wall of Blossoms
@@ -128,7 +130,7 @@
 4 Snow-Covered Forest
 4 Path to Exile
 4 Stoneforge Mystic
-2 Scavenging Ooze
+4 Temple Garden
 1 Spellskite
 1 Mishra's Bauble
 2 Mishra's Bauble
@@ -140,8 +142,19 @@
 1 Swamp
 1 Lightning Bolt
 2 Lightning Bolt
-4 Spike Feeder
-4 Temple Garden
+1 Hardened Scales
+1 Conclave Mentor
+1 Auriok Champion
+2 Hardened Scales
+2 Conclave Mentor
+3 Hardened Scales
+3 Conclave Mentor
+4 Hardened Scales
+4 Conclave Mentor
+1 Arbor Elf
+2 Arbor Elf
+3 Arbor Elf
+4 Arbor Elf
 1 Phyrexian Revoker
 2 Grove of the Burnwillows
 2 Knight of Autumn
@@ -151,50 +164,17 @@
 2 Snow-Covered Plains
 3 Misty Rainforest
 4 Wall of Blossoms
+1 Wooded Bastion
+1 Idyllic Grange
+1 Anafenza, Kin-Tree Spirit
 2 Lurrus of the Dream-Den
 3 Plains
-1 Wooded Bastion
-1 Hardened Scales
-1 Idyllic Grange
-1 Conclave Mentor
-1 Anafenza, Kin-Tree Spirit
-1 Auriok Champion
-2 Hardened Scales
-2 Conclave Mentor
-3 Hardened Scales
-3 Conclave Mentor
-4 Hardened Scales
-4 Conclave Mentor
 1 Shalai, Voice of Plenty
 1 Avacyn's Pilgrim
 2 Avacyn's Pilgrim
 3 Duskwatch Recruiter
 4 Horizon Canopy
 4 Razorverge Thicket
-1 Arbor Elf
-1 Angrath's Marauders
-1 Winota, Joiner of Forces
-1 Embercleave
-1 Copperline Gorge
-1 Smuggler's Copter
-1 Mountain
-1 Cavern of Souls
-2 Smuggler's Copter
-2 Arbor Elf
-2 Angrath's Marauders
-2 Winota, Joiner of Forces
-2 Copperline Gorge
-3 Stomping Ground
-3 Winota, Joiner of Forces
-3 Arbor Elf
-3 Angrath's Marauders
-3 Copperline Gorge
-3 Lightning Bolt
-4 Angrath's Marauders
-4 Copperline Gorge
-4 Winota, Joiner of Forces
-4 Arbor Elf
-4 Lightning Bolt
 1 Raugrin Triome
 1 Ketria Triome
 1 Waterlogged Grove
@@ -205,9 +185,9 @@
 1 Breeding Pool
 1 Manamorphose
 2 Prophetic Ravings
+2 Neoform
 2 Shimmer of Possibility
 2 Manamorphose
-2 Neoform
 3 Manamorphose
 3 Neoform
 3 Prophetic Ravings
@@ -219,3 +199,26 @@
 1 Aether Vial
 2 Aether Vial
 4 Twilight Mire
+2 Auriok Champion
+3 Scavenging Ooze
+5 Forest
+1 Angrath's Marauders
+1 Winota, Joiner of Forces
+1 Embercleave
+1 Copperline Gorge
+1 Smuggler's Copter
+1 Mountain
+1 Cavern of Souls
+2 Smuggler's Copter
+2 Angrath's Marauders
+2 Winota, Joiner of Forces
+2 Copperline Gorge
+3 Stomping Ground
+3 Winota, Joiner of Forces
+3 Angrath's Marauders
+3 Copperline Gorge
+3 Lightning Bolt
+4 Angrath's Marauders
+4 Winota, Joiner of Forces
+4 Copperline Gorge
+4 Lightning Bolt
