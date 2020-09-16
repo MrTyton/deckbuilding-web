@@ -12,8 +12,8 @@
 1 Cling to Dust
 1 Veil of Summer
 2 Veil of Summer
-1 Ceremonious Rejection
 1 Devour Flesh
+1 Ceremonious Rejection
 2 Ceremonious Rejection
 2 Devour Flesh
 3 Weather the Storm
@@ -49,11 +49,14 @@
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Eliminate
+3 Veil of Summer
 3 Plague Engineer
 1 Fraying Sanity
 2 Fraying Sanity
 3 Extirpate
-3 Veil of Summer
+1 Ashiok, Nightmare Weaver
+2 Grafdigger's Cage
+3 Mystical Dispute
 1 Force of Negation
 2 Force of Negation
 3 Profane Memento
@@ -62,9 +65,6 @@
 2 Thoughtseize
 2 Surgical Extraction
 3 Thoughtseize
-1 Ashiok, Nightmare Weaver
-2 Grafdigger's Cage
-3 Mystical Dispute
 1 Unmoored Ego
 2 Damnation
 2 Drown in the Loch

@@ -31,9 +31,9 @@
 |                   18|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)       |                    4|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)          |
 |                    1|[Burst Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397662)|                     |                                                                                           |
 |                    2|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)    |                     |                                                                                           |
-|                    2|[Burst Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397662)|                     |                                                                                           |
-|                    3|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)    |                     |                                                                                           |
 |                    3|[Burst Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397662)|                     |                                                                                           |
-|                    4|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)    |                     |                                                                                           |
+|                    3|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)    |                     |                                                                                           |
 |                    4|[Burst Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397662)|                     |                                                                                           |
+|                    4|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)    |                     |                                                                                           |
+|                    2|[Burst Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397662)|                     |                                                                                           |
 

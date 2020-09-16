@@ -42,8 +42,8 @@
 2 Paradise Druid
 4 Bonecrusher Giant
 1 Negate
-1 Quench
 1 Sinister Sabotage
+1 Quench
 1 Sublime Epiphany
 2 Quench
 3 Quench
@@ -55,15 +55,15 @@
 2 Sinister Sabotage
 4 Quench
 1 Lightning Stormkin
-1 Scorch Spitter
 1 Cloudkin Seer
+1 Scorch Spitter
 1 Thassa, Deep-Dwelling
 1 Healer of the Glade
 2 Lightning Stormkin
-2 Scorch Spitter
-2 Thassa, Deep-Dwelling
 2 Cloudkin Seer
+2 Thassa, Deep-Dwelling
 2 Healer of the Glade
+2 Scorch Spitter
 3 Lightning Stormkin
 3 Thassa, Deep-Dwelling
 3 Cloudkin Seer
@@ -85,37 +85,37 @@
 2 Terror of the Peaks
 3 Nissa, Who Shakes the World
 1 Spectral Sailor
-2 Illuna, Apex of Wishes
 2 Scavenging Ooze
+2 Illuna, Apex of Wishes
 3 Temple of Abandon
 3 Temple of Epiphany
 5 Forest
 1 Yorion, Sky Nomad
 3 Terror of the Peaks
-1 Tamiyo, Collector of Tales
-2 Tamiyo, Collector of Tales
-3 Shark Typhoon
-1 Flame Sweep
-1 Essence Scatter
-2 Essence Scatter
-2 Flame Sweep
-3 Sinister Sabotage
-3 Essence Scatter
 1 Scorching Dragonfire
 2 Scorching Dragonfire
 3 Scorching Dragonfire
+1 Essence Scatter
+1 Flame Sweep
+2 Flame Sweep
+2 Essence Scatter
+3 Sinister Sabotage
+3 Essence Scatter
 1 Wildborn Preserver
 1 Essence Capture
 1 Brineborn Cutthroat
-1 The Royal Scions
 1 Ionize
+1 The Royal Scions
 1 Unknown Card
 2 Spectral Sailor
 2 Brineborn Cutthroat
 2 Wildborn Preserver
 2 Ionize
 3 Brineborn Cutthroat
+3 Wildborn Preserver
 4 Brazen Borrower
 4 Brineborn Cutthroat
 4 Mystical Dispute
-3 Wildborn Preserver
+1 Tamiyo, Collector of Tales
+2 Tamiyo, Collector of Tales
+3 Shark Typhoon

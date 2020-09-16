@@ -27,6 +27,8 @@
 1 Kaya's Guile
 1 Fetid Heath
 2 Fetid Heath
+1 Snow-Covered Plains
+2 Snow-Covered Plains
 1 Bitterblossom
 1 Windbrisk Heights
 1 Sorin, Solemn Visitor
@@ -35,15 +37,6 @@
 3 Bitterblossom
 1 Field of Ruin
 2 Field of Ruin
-1 Snow-Covered Plains
-2 Snow-Covered Plains
-3 Liliana of the Veil
-3 Swamp
-4 Dark Confidant
-3 Shambling Vent
-4 Shambling Vent
-3 Field of Ruin
-3 Plains
 1 Snow-Covered Swamp
 1 Thalia, Guardian of Thraben
 1 Leonin Arbiter
@@ -70,12 +63,11 @@
 3 Eldrazi Temple
 3 Thought-Knot Seer
 3 Aether Vial
-4 Caves of Koilos
 4 Ghost Quarter
 4 Leonin Arbiter
 4 Aether Vial
 4 Eldrazi Temple
-2 Kaya's Guile
+3 Liliana of the Veil
 1 Thalia, Heretic Cathar
 3 Snow-Covered Plains
 3 Flickerwisp
@@ -83,6 +75,14 @@
 4 Thought-Knot Seer
 4 Snow-Covered Plains
 5 Snow-Covered Plains
+4 Caves of Koilos
+3 Swamp
+4 Dark Confidant
+3 Plains
+3 Shambling Vent
+4 Shambling Vent
+3 Field of Ruin
+2 Kaya's Guile
 2 Snow-Covered Swamp
 4 Bitterblossom
 1 Castle Locthwain
@@ -172,3 +172,6 @@
 4 Eldrazi Displacer
 1 Vault of the Archangel
 4 Windbrisk Heights
+1 Aven Mindcensor
+1 Wastes
+4 Flickerwisp

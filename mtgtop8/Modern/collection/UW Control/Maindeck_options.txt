@@ -1,25 +1,25 @@
-4 Island
-3 Hallowed Fountain
-1 Vendilion Clique
 4 Stoneforge Mystic
+1 Logic Knot
+4 Island
+1 Vendilion Clique
+1 Scalding Tarn
 2 Misty Rainforest
+3 Shark Typhoon
+1 Polluted Delta
 2 Snow-Covered Plains
+3 Mystic Sanctuary
 5 Island
 2 Celestial Colonnade
 3 Misty Rainforest
 3 Teferi, Time Raveler
-1 Scalding Tarn
-3 Shark Typhoon
-1 Polluted Delta
-3 Mystic Sanctuary
-2 Supreme Verdict
 2 Spell Snare
-4 Snapcaster Mage
+2 Supreme Verdict
 1 Glacial Fortress
 2 Polluted Delta
 4 Misty Rainforest
 1 Sword of Fire and Ice
 1 Prairie Stream
+4 Snapcaster Mage
 2 Plains
 1 Mystic Gate
 1 Terminus
@@ -35,18 +35,18 @@
 3 Terminus
 3 Jace, the Mind Sculptor
 4 Terminus
-1 Timely Reinforcements
 1 Narset, Parter of Veils
+1 Timely Reinforcements
 2 Narset, Parter of Veils
 2 Vendilion Clique
 3 Celestial Colonnade
-1 Wall of Omens
+1 Spell Queller
 1 Fact or Fiction
 1 Restoration Angel
-1 Spell Queller
+1 Wall of Omens
+2 Spell Queller
 2 Restoration Angel
 2 Wall of Omens
-2 Spell Queller
 3 Restoration Angel
 3 Spell Queller
 3 Wall of Omens
@@ -57,11 +57,6 @@
 6 Snow-Covered Island
 7 Snow-Covered Island
 2 Glacial Fortress
-1 Frantic Inventory
-2 Frantic Inventory
-3 Frantic Inventory
-4 Frantic Inventory
-2 Teferi, Hero of Dominaria
 3 Archmage's Charm
 1 Teferi, Master of Time
 1 Omen of the Sea
@@ -76,8 +71,8 @@
 2 Pact of Negation
 3 Pact of Negation
 1 God-Eternal Kefnet
-1 Counterbalance
 1 Monastery Mentor
+1 Counterbalance
 1 Mission Briefing
 1 Spell Pierce
 1 Time Warp
@@ -89,7 +84,12 @@
 1 Search for Azcanta
 1 Crucible of Worlds
 1 Dovin's Veto
+2 Teferi, Hero of Dominaria
 4 Archmage's Charm
+1 Frantic Inventory
+2 Frantic Inventory
+3 Frantic Inventory
+4 Frantic Inventory
 1 Cast Out
 1 Mazemind Tome
 1 Porphyry Nodes
@@ -100,8 +100,8 @@
 3 Omen of the Sea
 3 Mazemind Tome
 3 Thirst for Knowledge
-4 Omen of the Sea
 4 Force of Negation
+4 Omen of the Sea
 4 Thirst for Knowledge
 4 Mazemind Tome
 4 Polluted Delta

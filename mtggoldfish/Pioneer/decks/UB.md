@@ -45,7 +45,7 @@
 |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)          |                     |                                                                                           |
 |                    3|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                 |                     |                                                                                           |
 |                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)        |                     |                                                                                           |
-|                    4|[Dig Through Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386518)      |                     |                                                                                           |
 |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)          |                     |                                                                                           |
+|                    4|[Dig Through Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386518)      |                     |                                                                                           |
 |                    1|[Ashiok, Nightmare Muse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476459)|                     |                                                                                           |
 

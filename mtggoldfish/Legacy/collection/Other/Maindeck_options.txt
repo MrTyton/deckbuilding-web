@@ -1,13 +1,6 @@
-4 Flooded Strand
-2 Plague Engineer
-3 Stoneforge Mystic
-1 Umezawa's Jitte
-1 Eliminate
-2 Eliminate
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
-1 Scrubland
 1 Aether Vial
 1 Recruiter of the Guard
 2 Aether Vial
@@ -18,15 +11,15 @@
 1 Sword of Fire and Ice
 1 Rishadan Port
 1 Mother of Runes
+1 Phyrexian Revoker
 1 Mirran Crusader
 1 Flickerwisp
-1 Phyrexian Revoker
 1 Sanctum Prelate
 2 Snow-Covered Plains
 2 Rishadan Port
 2 Flickerwisp
-2 Phyrexian Revoker
 2 Karakas
+2 Phyrexian Revoker
 2 Mother of Runes
 3 Snow-Covered Plains
 3 Rishadan Port
@@ -34,25 +27,23 @@
 3 Mother of Runes
 4 Aether Vial
 4 Snow-Covered Plains
-2 Tropical Island
+1 Snapcaster Mage
 1 Preordain
 2 Scalding Tarn
+1 Stifle
+2 Stifle
+3 Stifle
+3 Daze
+4 Daze
 1 Dark Confidant
 1 Silent Clearing
 2 Dark Confidant
 2 Scrubland
 3 Scrubland
-3 Daze
-4 Daze
 2 Volcanic Island
-1 Force of Negation
+3 Tropical Island
+2 Snow-Covered Forest
 3 Polluted Delta
-1 Savannah
-1 Veil of Summer
-1 Stifle
-2 Stifle
-3 Stifle
-4 Stifle
 1 Lightning Bolt
 2 Lightning Bolt
 1 Dreadhorde Arcanist
@@ -60,26 +51,27 @@
 2 Dreadhorde Arcanist
 3 Scalding Tarn
 3 Dreadhorde Arcanist
-2 Abrupt Decay
-3 Tropical Island
-4 Arcum's Astrolabe
-1 Prismatic Vista
-2 Prismatic Vista
+4 Stifle
+1 Savannah
+1 Arcum's Astrolabe
+2 Arcum's Astrolabe
+3 Arcum's Astrolabe
 2 Spell Pierce
+1 Abrupt Decay
 1 Leovold, Emissary of Trest
 1 Bayou
+1 Snow-Covered Swamp
+3 Snow-Covered Island
 1 Drown in the Loch
-3 Uro, Titan of Nature's Wrath
+1 Veil of Summer
+2 Veil of Summer
 4 Polluted Delta
-1 Brazen Borrower
-2 Underground Sea
-1 Thoughtseize
 3 Windswept Heath
-2 Sylvan Library
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
 1 Wooded Foothills
+2 Abrupt Decay
 1 Kaya, Orzhov Usurper
 1 Once Upon a Time
 2 Once Upon a Time
@@ -96,6 +88,7 @@
 1 Green Sun's Zenith
 2 Wooded Foothills
 2 Birds of Paradise
+2 Sylvan Library
 2 Knight of the Reliquary
 2 Savannah
 2 Green Sun's Zenith
@@ -106,7 +99,12 @@
 4 Wooded Foothills
 4 Knight of the Reliquary
 4 Windswept Heath
+2 Underground Sea
+1 Brazen Borrower
 1 Palace Jailer
+1 Prismatic Vista
+2 Prismatic Vista
+1 Force of Negation
 3 Lightning Bolt
 4 Scalding Tarn
 4 Rishadan Port
@@ -115,33 +113,37 @@
 3 Delver of Secrets
 4 Delver of Secrets
 1 Pyroblast
-2 Veil of Summer
 1 Cavern of Souls
 2 Cavern of Souls
-3 Abrupt Decay
+3 Volcanic Island
 2 Tundra
 4 Stoneforge Mystic
 1 Baleful Strix
 2 Baleful Strix
 3 Baleful Strix
 4 Baleful Strix
-3 Volcanic Island
+4 Arcum's Astrolabe
 1 Island
 2 Snapcaster Mage
 1 Jace, the Mind Sculptor
 1 Verdant Catacombs
 2 Leovold, Emissary of Trest
-1 Punishing Fire
 1 Grove of the Burnwillows
+1 Punishing Fire
 2 Grove of the Burnwillows
 2 Punishing Fire
 3 Grove of the Burnwillows
 1 Fatal Push
+3 Uro, Titan of Nature's Wrath
+1 Thoughtseize
 1 Swamp
 2 Thoughtseize
 1 Marsh Flats
 3 Cavern of Souls
 1 Simian Spirit Guide
+1 Eye of Ugin
+1 Walking Ballista
+2 Walking Ballista
 1 Ancient Tomb
 1 City of Traitors
 1 Chalice of the Void
@@ -153,11 +155,9 @@
 4 Ancient Tomb
 1 Blast Zone
 1 Dismember
-1 Eye of Ugin
 1 Thought-Knot Seer
 1 Reality Smasher
 1 Wastes
-1 Walking Ballista
 1 Matter Reshaper
 1 Eldrazi Temple
 2 Eye of Ugin
@@ -165,7 +165,6 @@
 2 Matter Reshaper
 2 Eldrazi Temple
 2 Reality Smasher
-2 Walking Ballista
 3 Matter Reshaper
 3 Eldrazi Temple
 3 Reality Smasher
@@ -177,6 +176,7 @@
 4 Thought-Knot Seer
 1 Plains
 2 Plains
+1 Ulamog, the Ceaseless Hunger
 2 City of Traitors
 1 Urborg, Tomb of Yawgmoth
 1 Karn, the Great Creator
@@ -249,12 +249,6 @@
 2 Urborg, Tomb of Yawgmoth
 3 Dark Ritual
 4 Dark Ritual
-1 Shark Typhoon
-1 Dead of Winter
-2 Shark Typhoon
-2 Dead of Winter
-3 Sylvan Library
-4 Uro, Titan of Nature's Wrath
 1 Supreme Verdict
 1 Monastery Mentor
 2 Jace, the Mind Sculptor
@@ -263,6 +257,34 @@
 2 Monastery Mentor
 3 Monastery Mentor
 4 Snow-Covered Island
+1 Shark Typhoon
+1 Thespian's Stage
+1 Vesuva
+1 Crop Rotation
+1 Hydroid Krasis
+1 Emrakul, the Aeons Torn
+1 Pithing Needle
+1 Unbound Flourishing
+1 Glimmerpost
+1 Cloudpost
+1 Candelabra of Tawnos
+2 Crop Rotation
+2 Shark Typhoon
+2 Hydroid Krasis
+2 Unbound Flourishing
+2 Cloudpost
+2 Glimmerpost
+2 Candelabra of Tawnos
+2 Pithing Needle
+3 Crop Rotation
+3 Unbound Flourishing
+3 Shark Typhoon
+3 Cloudpost
+3 Glimmerpost
+3 Candelabra of Tawnos
+3 Walking Ballista
+4 Glimmerpost
+4 Cloudpost
 1 Disrupt
 2 Verdant Catacombs
 2 Disrupt
@@ -295,7 +317,6 @@
 4 Eldrazi Mimic
 4 Endless One
 1 Grim Monolith
-1 Ulamog, the Ceaseless Hunger
 1 All Is Dust
 1 Buried Ruin
 1 Crystal Vein
@@ -417,12 +438,12 @@
 4 Prized Amalgam
 4 Stinkweed Imp
 4 Golgari Grave-Troll
-4 Bridge from Below
 4 Golgari Thug
 4 Phantasmagorian
 4 Street Wraith
 4 Dread Return
 4 Ichorid
+4 Bridge from Below
 4 Nether Shadow
 1 Vault of Whispers
 1 Nihil Spellbomb
@@ -434,6 +455,7 @@
 2 Mishra's Bauble
 2 Fatal Push
 3 Prismatic Vista
+3 Abrupt Decay
 3 Nihil Spellbomb
 3 Emry, Lurker of the Loch
 3 Mishra's Bauble
@@ -500,8 +522,8 @@
 4 Goblin Matron
 4 Goblin Ringleader
 4 Goblin Warchief
-1 Sword of War and Peace
 1 Orzhov Pontiff
+1 Sword of War and Peace
 1 Mana Tithe
 2 Sanctum Prelate
 3 Plains
