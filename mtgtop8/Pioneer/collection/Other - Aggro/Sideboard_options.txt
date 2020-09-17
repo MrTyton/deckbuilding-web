@@ -3,8 +3,8 @@
 1 Sorin, Vengeful Bloodlord
 1 Anafenza, the Foremost
 1 Sin Collector
-2 Anafenza, the Foremost
 2 Sin Collector
+2 Anafenza, the Foremost
 2 Basri's Lieutenant
 1 Self-Inflicted Wound
 1 Scavenging Ooze
@@ -23,6 +23,13 @@
 1 Reclamation Sage
 2 Driven / Despair
 2 Golgari Charm
+1 Eliminate
+1 Deputy of Detention
+1 Kaya, Orzhov Usurper
+1 Kambal, Consul of Allocation
+2 Eliminate
+2 Deputy of Detention
+2 Kambal, Consul of Allocation
 1 Midnight Reaper
 1 Distended Mindbender
 2 Midnight Reaper
@@ -52,13 +59,6 @@
 2 Heroic Intervention
 2 Glass Casket
 2 Prowling Serpopard
-1 Eliminate
-1 Deputy of Detention
-1 Kaya, Orzhov Usurper
-1 Kambal, Consul of Allocation
-2 Eliminate
-2 Deputy of Detention
-2 Kambal, Consul of Allocation
 1 Gurmag Angler
 1 Thief of Sanity
 1 Return to Nature
@@ -111,8 +111,8 @@
 2 Deafening Silence
 2 Display of Dominance
 3 Mistcutter Hydra
-1 Collective Effort
 1 Containment Priest
+1 Collective Effort
 1 Abzan Charm
 1 Voice of Resurgence
 2 Abzan Charm

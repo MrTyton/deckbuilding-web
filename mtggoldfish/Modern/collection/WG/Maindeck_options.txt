@@ -2,16 +2,17 @@
 2 Wooded Foothills
 3 Temple Garden
 1 Scavenging Ooze
-3 Forest
 1 Spike Feeder
 1 Heliod, Sun-Crowned
 1 Walking Ballista
+1 Hardened Scales
 1 Ranger-Captain of Eos
 1 Collected Company
 1 Conclave Mentor
 2 Heliod, Sun-Crowned
 2 Scavenging Ooze
 2 Ranger-Captain of Eos
+2 Hardened Scales
 2 Spike Feeder
 2 Walking Ballista
 2 Collected Company
@@ -22,42 +23,41 @@
 3 Ranger-Captain of Eos
 3 Heliod, Sun-Crowned
 4 Collected Company
-4 Spike Feeder
-4 Heliod, Sun-Crowned
-1 Hardened Scales
-2 Hardened Scales
-4 Conclave Mentor
 4 Ranger-Captain of Eos
+4 Spike Feeder
+4 Conclave Mentor
+4 Heliod, Sun-Crowned
+3 Forest
 1 Scattered Groves
 1 Auriok Champion
 4 Temple Garden
-4 Forest
 2 Horizon Canopy
-2 Plains
 1 Utopia Sprawl
 2 Utopia Sprawl
 2 Auriok Champion
 3 Utopia Sprawl
 4 Utopia Sprawl
+2 Plains
+4 Forest
 3 Hardened Scales
 4 Hardened Scales
+1 Explore
+2 Explore
 1 Gavony Township
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
-1 Explore
-2 Explore
 1 Wooded Bastion
 1 Knight of the Reliquary
 1 Springbloom Druid
 1 Thalia, Guardian of Thraben
-5 Forest
-2 Thalia, Guardian of Thraben
 1 Aether Vial
+2 Thalia, Guardian of Thraben
 2 Aether Vial
 3 Thalia, Guardian of Thraben
 3 Aether Vial
 4 Aether Vial
+5 Forest
 1 Crumbling Vestige
 1 Sejiri Steppe
 2 Sakura-Tribe Elder
@@ -73,15 +73,14 @@
 2 Arbor Elf
 3 Arbor Elf
 4 Arbor Elf
+2 Wall of Blossoms
+3 Snow-Covered Forest
+3 Wooded Foothills
 1 Giver of Runes
+1 Pendelhaven
 1 Lurrus of the Dream-Den
 1 Birds of Paradise
 2 Birds of Paradise
-2 Wall of Blossoms
-3 Wooded Foothills
-3 Snow-Covered Forest
-1 Pendelhaven
-1 Razorverge Thicket
 4 Snow-Covered Forest
 5 Snow-Covered Forest
 2 Golos, Tireless Pilgrim
@@ -90,12 +89,11 @@
 1 Elvish Rejuvenator
 3 Scavenging Ooze
 1 Anafenza, Kin-Tree Spirit
-2 Giver of Runes
+1 Razorverge Thicket
 4 Noble Hierarch
-2 Razorverge Thicket
-3 Birds of Paradise
 1 Voice of Resurgence
 1 Summoner's Pact
+2 Giver of Runes
 3 Explore
 4 Explore
 1 Verdant Catacombs
@@ -103,7 +101,8 @@
 3 Verdant Catacombs
 1 Canopy Vista
 1 Misty Rainforest
-3 Razorverge Thicket
+3 Birds of Paradise
+2 Razorverge Thicket
 1 Arid Mesa
 1 Renegade Rallier
 1 Nylea, Keen-Eyed
@@ -115,24 +114,17 @@
 1 Tectonic Edge
 2 Snow-Covered Plains
 2 Wooded Bastion
+2 Elvish Rejuvenator
+3 Courser of Kruphix
 1 Brushland
 2 Brushland
 2 Anafenza, Kin-Tree Spirit
 2 Lurrus of the Dream-Den
 3 Brushland
-2 Elvish Rejuvenator
-3 Courser of Kruphix
-3 Tireless Tracker
+3 Razorverge Thicket
+4 Verdant Catacombs
 1 Selfless Savior
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
-4 Verdant Catacombs
-1 Marsh Flats
-1 Stirring Wildwood
-2 Marsh Flats
-2 Stirring Wildwood
-3 Marsh Flats
-3 Plains
-4 Plains
-4 Birds of Paradise
+3 Tireless Tracker
