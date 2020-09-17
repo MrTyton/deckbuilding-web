@@ -1,37 +1,45 @@
-1 Questing Beast
-2 Questing Beast
-3 Questing Beast
-1 Rotting Regisaur
-2 Rotting Regisaur
-3 Rotting Regisaur
+1 Shifting Ceratops
+1 Castle Locthwain
+2 The Great Henge
+2 Stonecoil Serpent
+2 Shifting Ceratops
 1 Eliminate
 2 Eliminate
 3 Eliminate
-1 Nissa, Who Shakes the World
-2 Nissa, Who Shakes the World
-2 Castle Vantress
+1 Liliana, Waker of the Dead
+1 Murderous Rider
+2 Liliana, Waker of the Dead
+2 Murderous Rider
+3 Murderous Rider
+1 Mire Triton
+1 Thought Erasure
+2 Mire Triton
+2 Thought Erasure
+3 Thought Erasure
+4 Thought Erasure
+1 Rotting Regisaur
+2 Rotting Regisaur
+3 Rotting Regisaur
+1 Paradise Druid
+2 Paradise Druid
+1 Essence Scatter
+2 Essence Scatter
+3 Island
 1 Mystical Dispute
 2 Mystical Dispute
-3 Forest
-1 Brazen Borrower
-2 Brazen Borrower
-1 Aether Gust
-2 Aether Gust
+3 Nissa, Who Shakes the World
+4 Forest
+5 Forest
 3 Aether Gust
-1 Nightpack Ambusher
-1 Shark Typhoon
-2 Shark Typhoon
-2 Nightpack Ambusher
-3 Nightpack Ambusher
+1 Frilled Mystic
+3 Brazen Borrower
 1 Tamiyo, Collector of Tales
-1 Paradise Druid
 1 Cavalier of Thorns
 1 Voracious Hydra
 1 Arboreal Grazer
 1 Ilysian Caryatid
 1 Ram Through
 1 Garruk's Harbinger
-2 Paradise Druid
 2 Cavalier of Thorns
 2 Ilysian Caryatid
 2 Voracious Hydra
@@ -54,43 +62,13 @@
 3 Assassin's Trophy
 4 Knight of the Ebon Legion
 4 Stonecoil Serpent
-1 Cunning Nightbonder
-1 Quench
-1 Slitherwisp
-1 Brineborn Cutthroat
-1 Sea-Dasher Octopus
-1 Spectral Sailor
-1 Lofty Denial
-1 Frilled Mystic
-1 Omen of the Sea
-2 Quench
-2 Cunning Nightbonder
-2 Slitherwisp
-2 Brineborn Cutthroat
-2 Omen of the Sea
-2 Sea-Dasher Octopus
-2 Spectral Sailor
-2 Frilled Mystic
-3 Cunning Nightbonder
-3 Spectral Sailor
-3 Brineborn Cutthroat
-3 Quench
-3 Brazen Borrower
-3 Frilled Mystic
-3 Slitherwisp
-4 Spectral Sailor
-4 Brazen Borrower
-4 Brineborn Cutthroat
-4 Slitherwisp
 1 Rewind
 1 Heartless Act
-1 Essence Scatter
+1 Narset, Parter of Veils
 1 Negate
 1 Disdainful Stroke
 1 Frantic Inventory
-1 Narset, Parter of Veils
 2 Narset, Parter of Veils
-2 Essence Scatter
 2 Negate
 2 Rewind
 2 Frantic Inventory
@@ -98,10 +76,9 @@
 3 Narset, Parter of Veils
 3 Frantic Inventory
 3 Shark Typhoon
-3 Island
 4 Shark Typhoon
-4 Nightpack Ambusher
 4 Frantic Inventory
+4 Nightpack Ambusher
 1 Drown in the Loch
 1 Enter the God-Eternals
 1 Rankle, Master of Pranks
@@ -118,6 +95,32 @@
 3 Growth Spiral
 4 Questing Beast
 4 Skull Prophet
+1 Cunning Nightbonder
+1 Quench
+1 Slitherwisp
+1 Brineborn Cutthroat
+1 Sea-Dasher Octopus
+1 Spectral Sailor
+1 Lofty Denial
+1 Omen of the Sea
+2 Quench
+2 Cunning Nightbonder
+2 Slitherwisp
+2 Brineborn Cutthroat
+2 Omen of the Sea
+2 Sea-Dasher Octopus
+2 Spectral Sailor
+2 Frilled Mystic
+3 Spectral Sailor
+3 Cunning Nightbonder
+3 Brineborn Cutthroat
+3 Quench
+3 Slitherwisp
+3 Frilled Mystic
+4 Spectral Sailor
+4 Brazen Borrower
+4 Slitherwisp
+4 Brineborn Cutthroat
 1 Merfolk Secretkeeper
 1 Ashiok, Dream Render
 1 Demonic Embrace
@@ -164,17 +167,28 @@
 3 Gilded Goose
 3 Hydroid Krasis
 3 Wicked Wolf
-3 Nissa, Who Shakes the World
 3 Gingerbread Cabin
 3 Trail of Crumbs
 3 Mystical Dispute
 4 Nissa, Who Shakes the World
 4 Aether Gust
 4 Hydroid Krasis
-4 Gilded Goose
 4 Gingerbread Cabin
 4 Trail of Crumbs
+4 Gilded Goose
 4 Wicked Wolf
-4 Forest
 4 Mystical Dispute
-5 Forest
+1 Opt
+1 Wolfwillow Haven
+1 Sinister Sabotage
+1 Blast Zone
+2 Opt
+2 Wolfwillow Haven
+2 Temple of Mystery
+3 Paradise Druid
+3 Temple of Mystery
+4 Island
+4 Paradise Druid
+5 Island
+6 Forest
+7 Forest

@@ -1,4 +1,4 @@
-1 Force of Negation
+4 Opt
 1 Wilt
 4 Stomping Ground
 1 Snow-Covered Island
@@ -8,16 +8,16 @@
 2 Snow-Covered Island
 2 Wilt
 2 Censor
-3 Snow-Covered Island
 2 Force of Negation
+3 Snow-Covered Island
 1 Mountain
-3 Censor
 1 Snow-Covered Mountain
 1 Search for Tomorrow
 2 Search for Tomorrow
 3 Search for Tomorrow
 4 Search for Tomorrow
 1 Flame Slash
+3 Censor
 2 Snow-Covered Forest
 1 Sakura-Tribe Elder
 2 Sakura-Tribe Elder
@@ -25,6 +25,7 @@
 4 Sakura-Tribe Elder
 1 Brazen Borrower
 1 Sweltering Suns
+3 Wrenn and Six
 4 Censor
 1 Wooded Foothills
 2 Wooded Foothills
@@ -59,7 +60,6 @@
 2 Snapcaster Mage
 2 Archmage's Charm
 3 Wooded Foothills
-3 Wrenn and Six
 1 Hallowed Fountain
 1 Snow-Covered Plains
 1 Temple Garden

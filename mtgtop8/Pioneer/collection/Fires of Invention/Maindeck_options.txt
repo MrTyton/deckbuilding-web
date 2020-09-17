@@ -86,9 +86,9 @@
 1 Nicol Bolas, the Ravager
 1 Search for Azcanta
 1 Dragonskull Summit
-2 Blood Crypt
-2 Dragonskull Summit
 2 Nicol Bolas, the Ravager
+2 Dragonskull Summit
+2 Blood Crypt
 2 Drowned Catacomb
 2 Watery Grave
 3 Blood Crypt
@@ -107,6 +107,12 @@
 1 Teferi, Master of Time
 3 Wandering Fumarole
 4 Transmogrify
+1 Karn, the Great Creator
+2 Savai Triome
+2 Karn, the Great Creator
+3 Karn, the Great Creator
+4 Karn, the Great Creator
+4 Omen of the Sun
 2 Nahiri, the Harbinger
 4 Agent of Treachery
 1 Sunpetal Grove
@@ -155,12 +161,6 @@
 4 Bring to Light
 4 Enigmatic Incarnation
 4 Island
-1 Karn, the Great Creator
-2 Savai Triome
-2 Karn, the Great Creator
-3 Karn, the Great Creator
-4 Omen of the Sun
-4 Karn, the Great Creator
 1 Fetid Pools
 1 Canyon Slough
 1 Kalitas, Traitor of Ghet
@@ -183,8 +183,8 @@
 4 Fatal Push
 4 Thought Erasure
 4 Sweltering Suns
-4 Blood Crypt
 4 Dragonskull Summit
+4 Blood Crypt
 4 Drowned Catacomb
 4 Watery Grave
 1 Mazemind Tome
@@ -194,15 +194,15 @@
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 1 Mutavault
-1 Kari Zev, Skyship Raider
-1 Castle Embereth
 1 Pia and Kiran Nalaar
+1 Kari Zev, Skyship Raider
+1 Inspiring Vantage
 1 Soul-Scar Mage
+1 Castle Embereth
 1 Siege-Gang Commander
 1 Anax, Hardened in the Forge
 1 Purphoros, God of the Forge
 1 Earthshaker Khenra
-1 Inspiring Vantage
 1 Omen of the Forge
 1 Battlefield Forge
 1 Goblin Rabblemaster
@@ -212,11 +212,11 @@
 2 Soul-Scar Mage
 2 Mutavault
 2 Needle Spires
+2 Inspiring Vantage
 2 Anax, Hardened in the Forge
 2 Purphoros, God of the Forge
-2 Earthshaker Khenra
 2 Pia and Kiran Nalaar
-2 Inspiring Vantage
+2 Earthshaker Khenra
 2 Castle Embereth
 2 Omen of the Forge
 2 Battlefield Forge
@@ -228,9 +228,9 @@
 3 Soul-Scar Mage
 3 Siege-Gang Commander
 3 Needle Spires
+3 Pia and Kiran Nalaar
 3 Purphoros, God of the Forge
 3 Clifftop Retreat
-3 Pia and Kiran Nalaar
 3 Earthshaker Khenra
 3 Inspiring Vantage
 3 Mutavault
@@ -247,9 +247,9 @@
 4 Earthshaker Khenra
 4 Clifftop Retreat
 4 Mountain
+4 Mutavault
 4 Battlefield Forge
 4 Inspiring Vantage
-4 Mutavault
 4 Goblin Rabblemaster
 5 Mountain
 6 Mountain

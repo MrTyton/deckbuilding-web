@@ -1,3 +1,9 @@
+3 Sorcerous Spyglass
+2 All Is Dust
+1 Karn Liberated
+2 Eye of Ugin
+1 Candelabra of Tawnos
+1 Pithing Needle
 2 Pithing Needle
 1 Bojuka Bog
 1 Crop Rotation
@@ -10,74 +16,60 @@
 3 Forest
 4 Crop Rotation
 4 Forest
+1 Warping Wail
+2 Warping Wail
 1 Kozilek, Butcher of Truth
 1 Expedition Map
 2 Expedition Map
-3 Expedition Map
 3 Pithing Needle
+3 Expedition Map
 5 Forest
 6 Forest
 7 Forest
 1 Cavern of Souls
 1 Primeval Titan
 2 Primeval Titan
-1 Dark Depths
-1 Green Sun's Zenith
-1 Reclamation Sage
-1 Elvish Reclaimer
-1 Glacial Chasm
-2 Once Upon a Time
-2 Green Sun's Zenith
-2 Elvish Reclaimer
-3 Green Sun's Zenith
-3 Once Upon a Time
-2 Thespian's Stage
-8 Forest
-1 Allosaurus Shepherd
-1 Ramunap Excavator
-3 Elvish Reclaimer
-4 Once Upon a Time
-4 Pithing Needle
-4 Green Sun's Zenith
-4 Expedition Map
-4 Elvish Reclaimer
-2 Ugin, the Ineffable
-1 Mazemind Tome
-1 Candelabra of Tawnos
-2 All Is Dust
-2 Thran Dynamo
-1 Karn Liberated
-4 Eldrazi Temple
-3 Ugin, the Spirit Dragon
-2 Eye of Ugin
-1 Warping Wail
-2 Warping Wail
-3 Primeval Titan
 2 Trinisphere
-1 Mirage Mirror
+4 Eldrazi Temple
 1 Wasteland
 1 Reality Smasher
 2 Wasteland
+2 Thran Dynamo
 1 Kuldotha Forgemaster
-1 Emrakul, the Promised End
 1 Ensnaring Bridge
-2 Blast Zone
 2 City of Traitors
+2 Blast Zone
+3 Ugin, the Spirit Dragon
 3 Golos, Tireless Pilgrim
 1 Crystal Vein
+1 Mirage Mirror
+1 Emrakul, the Promised End
+1 Dark Depths
+1 Elvish Reclaimer
+1 Glacial Chasm
+1 Green Sun's Zenith
+1 Reclamation Sage
+2 Once Upon a Time
+2 Green Sun's Zenith
+2 Elvish Reclaimer
+3 Once Upon a Time
+3 Green Sun's Zenith
+2 Thespian's Stage
+8 Forest
 2 Walking Ballista
 1 Planar Bridge
 2 Kuldotha Forgemaster
 3 City of Traitors
 3 Thran Dynamo
+1 Allosaurus Shepherd
+1 Ramunap Excavator
+3 Elvish Reclaimer
+4 Pithing Needle
+4 Once Upon a Time
+4 Expedition Map
+4 Elvish Reclaimer
+4 Green Sun's Zenith
 2 Mazemind Tome
-1 Matter Reshaper
-2 Matter Reshaper
-3 Matter Reshaper
-4 Matter Reshaper
-2 Reality Smasher
-3 Reality Smasher
-3 Wasteland
 1 Boompile
 1 Retrofitter Foundry
 1 Hour of Promise
@@ -87,21 +79,21 @@
 3 Ancient Stirrings
 4 Ancient Stirrings
 1 Oblivion Sower
+2 Reality Smasher
+3 Reality Smasher
+3 Wasteland
 1 Stonecoil Serpent
 1 Verdant Catacombs
 1 Karn, Scion of Urza
 1 Blightsteel Colossus
 1 Lightning Greaves
-1 Phyrexian Tower
-1 Crucible of Worlds
-2 Crystal Vein
-3 Trinisphere
 2 Oblivion Sower
 3 Oblivion Sower
-1 Elvish Rejuvenator
+3 Primeval Titan
 1 Windswept Heath
-2 Reclamation Sage
+1 Elvish Rejuvenator
 2 Windswept Heath
+2 Reclamation Sage
 2 Elvish Rejuvenator
 2 Cavern of Souls
 3 Windswept Heath
@@ -117,21 +109,29 @@
 3 Stonecoil Serpent
 3 Sphere of Resistance
 4 Sphere of Resistance
-1 Misty Rainforest
+1 Phyrexian Tower
+1 Matter Reshaper
+1 Crucible of Worlds
+2 Matter Reshaper
+2 Crystal Vein
+3 Trinisphere
+3 Matter Reshaper
+4 Matter Reshaper
+1 Snow-Covered Island
 1 Tropical Island
 1 Stifle
-1 Snow-Covered Forest
-1 Hydroid Krasis
 1 Uro, Titan of Nature's Wrath
+1 Snow-Covered Forest
 1 Shark Typhoon
+1 Hydroid Krasis
 1 Veil of Summer
 1 Brainstorm
 1 Prismatic Vista
 1 Unbound Flourishing
-1 Snow-Covered Island
+1 Misty Rainforest
 1 Force of Will
-2 Snow-Covered Island
 2 Misty Rainforest
+2 Snow-Covered Island
 2 Tropical Island
 2 Uro, Titan of Nature's Wrath
 2 Stifle
@@ -146,8 +146,8 @@
 2 Candelabra of Tawnos
 3 Misty Rainforest
 3 Stifle
-3 Walking Ballista
 3 Tropical Island
+3 Walking Ballista
 3 Shark Typhoon
 3 Candelabra of Tawnos
 3 Force of Will

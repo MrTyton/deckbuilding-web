@@ -21,14 +21,14 @@
 2 Plains
 1 Spike Feeder
 1 Conclave Mentor
-1 Prismatic Vista
-1 Auriok Champion
-1 Idyllic Grange
 1 Gavony Township
+1 Auriok Champion
+1 Temple Garden
+1 Idyllic Grange
+1 Prismatic Vista
 1 Walking Ballista
 1 Hardened Scales
 1 Heliod, Sun-Crowned
-1 Temple Garden
 1 Collected Company
 1 Horizon Canopy
 1 Ranger-Captain of Eos
@@ -122,6 +122,7 @@
 1 Overgrown Tomb
 1 Disrupting Shoal
 1 Ninja of the Deep Hours
+1 Ice-Fang Coatl
 1 Faerie Seer
 1 Breeding Pool
 1 Abrupt Decay
@@ -136,18 +137,17 @@
 1 Darkslick Shores
 1 Botanical Sanctum
 1 Fatal Push
-1 Ice-Fang Coatl
 1 Fallen Shinobi
 1 Force of Negation
 1 Snow-Covered Swamp
 2 Disrupting Shoal
+2 Ice-Fang Coatl
 2 Faerie Seer
 2 Brazen Borrower
 2 Misty Rainforest
 2 Gilded Goose
 2 Fatal Push
 2 Botanical Sanctum
-2 Ice-Fang Coatl
 2 Darkslick Shores
 2 Force of Negation
 2 Spellstutter Sprite
@@ -156,6 +156,7 @@
 2 Mana Leak
 3 Disrupting Shoal
 3 Faerie Seer
+3 Ice-Fang Coatl
 3 Brazen Borrower
 3 Misty Rainforest
 3 Spellstutter Sprite
@@ -165,10 +166,9 @@
 3 Polluted Delta
 3 Fatal Push
 3 Darkslick Shores
-3 Ice-Fang Coatl
-4 Faerie Seer
 4 Misty Rainforest
 4 Fatal Push
+4 Faerie Seer
 4 Ingenious Infiltrator
 4 Ice-Fang Coatl
 4 Polluted Delta
@@ -194,13 +194,13 @@
 1 Lotleth Troll
 1 Zetalpa, Primal Dawn
 2 Traverse the Ulvenwald
+2 Blooming Marsh
 2 Swamp
 2 Verdant Catacombs
 2 Blood Crypt
 2 Drogskol Reaver
 2 Samut, Voice of Dissent
 2 Lotleth Troll
-2 Blooming Marsh
 2 Overgrown Tomb
 2 Zetalpa, Primal Dawn
 2 Grisly Salvage

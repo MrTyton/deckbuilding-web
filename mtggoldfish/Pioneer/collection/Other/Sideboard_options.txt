@@ -1,16 +1,3 @@
-1 Leyline of the Void
-1 Davriel, Rogue Shadowmage
-1 Nyx Lotus
-1 Tormod's Crypt
-1 Pithing Needle
-1 Wishclaw Talisman
-1 Heart of Kiran
-1 Darksteel Citadel
-1 Skysovereign, Consul Flagship
-2 Leyline of the Void
-2 Davriel, Rogue Shadowmage
-1 Claim the Firstborn
-1 Embereth Shieldbreaker
 2 Claim the Firstborn
 2 Embereth Shieldbreaker
 1 Negate
@@ -19,6 +6,7 @@
 1 Scrabbling Claws
 2 Scrabbling Claws
 1 Kozilek's Return
+1 The Immortal Sun
 1 Stubborn Denial
 1 Barrier Breach
 1 Reclamation Sage
@@ -27,9 +15,7 @@
 2 Vraska, Golgari Queen
 1 Questing Beast
 1 Skylasher
-1 Damping Sphere
 2 Assassin's Trophy
-1 The Elderspell
 2 Negate
 1 Legion's End
 4 Fatal Push
@@ -40,6 +26,7 @@
 2 Heroic Intervention
 1 Kraul Harpooner
 2 Kraul Harpooner
+1 Damping Sphere
 2 Damping Sphere
 1 Grafdigger's Cage
 2 Grafdigger's Cage
@@ -47,7 +34,6 @@
 1 Liliana, Heretical Healer
 1 Ob Nixilis Reignited
 2 Tireless Tracker
-2 The Elderspell
 1 Shifting Ceratops
 2 Shifting Ceratops
 1 Thrashing Brontodon
@@ -56,10 +42,10 @@
 1 Demonic Embrace
 1 Driven/Despair
 2 Driven/Despair
-1 Shapers' Sanctuary
-1 Mystic Repeal
-1 Wilt
 1 Ram Through
+1 Mystic Repeal
+1 Shapers' Sanctuary
+1 Wilt
 2 Wilt
 2 Shapers' Sanctuary
 1 Extinction Event
@@ -88,6 +74,7 @@
 2 Chandra, Awakened Inferno
 2 Hour of Devastation
 3 Anger of the Gods
+1 Bolas's Citadel
 3 Claim the Firstborn
 1 Gruul Charm
 2 Gruul Charm
@@ -107,8 +94,8 @@
 1 Bonecrusher Giant
 1 Chandra, Torch of Defiance
 1 Fire Prophecy
-2 Klothys, God of Destiny
 2 Bonecrusher Giant
+2 Klothys, God of Destiny
 2 Chandra, Torch of Defiance
 2 Fire Prophecy
 3 Skylasher
@@ -116,41 +103,41 @@
 1 Rending Volley
 2 Rending Volley
 3 Rending Volley
+1 Rest in Peace
+2 Rest in Peace
 1 Scab-Clan Berserker
 1 Chandra's Defeat
-1 Rest in Peace
 1 Sunscourge Champion
 2 Chandra's Defeat
 2 Scab-Clan Berserker
-2 Rest in Peace
 2 Sunscourge Champion
 3 Scab-Clan Berserker
 3 Chandra's Defeat
 3 Rest in Peace
-3 Davriel, Rogue Shadowmage
 1 Narset, Parter of Veils
 1 Massacre Wurm
 1 Duress
 1 Abrade
+1 The Elderspell
 2 Noxious Grasp
 2 Massacre Wurm
 2 Abrade
 2 Duress
 3 Abrade
+1 Silkwrap
+2 Silkwrap
 1 Deputy of Detention
 1 Devout Decree
 1 Gideon of the Trials
-1 Silkwrap
 2 Deputy of Detention
 2 Devout Decree
-2 Silkwrap
 2 Gideon of the Trials
 3 Deputy of Detention
 3 Mystical Dispute
 1 Rampaging Ferocidon
-1 Destructive Revelry
 1 Hornet Nest
 1 Stoke the Flames
+1 Destructive Revelry
 2 Rampaging Ferocidon
 2 Destructive Revelry
 2 Hornet Nest
@@ -160,21 +147,44 @@
 3 Heroic Intervention
 3 Damping Sphere
 3 Kraul Harpooner
+1 Elspeth, Sun's Champion
 1 Baffling End
 2 Baffling End
+1 Ajani, Strength of the Pride
+1 Gideon, Ally of Zendikar
+1 Shatter the Sky
+1 Ajani, Caller of the Pride
+1 Ajani, Adversary of Tyrants
+2 Gideon, Ally of Zendikar
+2 Shatter the Sky
+3 Gideon, Ally of Zendikar
+3 Grafdigger's Cage
+4 Gideon, Ally of Zendikar
+1 Soul-Guide Lantern
+2 Soul-Guide Lantern
+3 Soul-Guide Lantern
 1 Lurrus of the Dream-Den
 1 Selfless Spirit
 1 Collective Effort
-1 Soul-Guide Lantern
 2 Selfless Spirit
 2 Collective Effort
-2 Soul-Guide Lantern
 3 Baffling End
-3 Soul-Guide Lantern
 3 Selfless Spirit
 3 Collective Effort
 4 Selfless Spirit
 4 Baffling End
+1 Banishing Light
+1 Soldier of the Pantheon
+1 Containment Priest
+1 Gideon's Intervention
+1 Apostle of Purifying Light
+1 Basri's Lieutenant
+2 Banishing Light
+2 Soldier of the Pantheon
+2 Apostle of Purifying Light
+2 Basri's Lieutenant
+3 Soldier of the Pantheon
+4 Soldier of the Pantheon
 1 Teferi, Time Raveler
 1 The Scarab God
 1 Hero of Precinct One
@@ -186,6 +196,15 @@
 2 Dovin's Veto
 3 Hero of Precinct One
 4 Hero of Precinct One
+1 Karametra's Blessing
+1 Leyline of Sanctity
+2 Karametra's Blessing
+2 Leyline of Sanctity
+3 Karametra's Blessing
+3 Leyline of Sanctity
+3 Silkwrap
+4 Karametra's Blessing
+4 Soul-Guide Lantern
 1 Silence
 1 Oppressive Rays
 1 Guildscorn Ward
@@ -209,17 +228,6 @@
 3 Gruul Spellbreaker
 3 Magma Spray
 4 Magma Spray
-1 Elspeth, Sun's Champion
-1 Ajani, Strength of the Pride
-1 Shatter the Sky
-1 Ajani, Caller of the Pride
-1 Ajani, Adversary of Tyrants
-1 Gideon, Ally of Zendikar
-2 Gideon, Ally of Zendikar
-2 Shatter the Sky
-3 Gideon, Ally of Zendikar
-3 Grafdigger's Cage
-4 Gideon, Ally of Zendikar
 1 Liliana's Mastery
 1 Drill Bit
 1 Lifebane Zombie
