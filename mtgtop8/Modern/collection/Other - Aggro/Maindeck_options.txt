@@ -58,66 +58,64 @@
 4 Heliod, Sun-Crowned
 4 Ranger-Captain of Eos
 4 Collected Company
-1 Misty Rainforest
 1 Smuggler's Copter
 1 Brazen Borrower
 1 Polluted Delta
 1 Watery Grave
 2 Polluted Delta
-1 Overgrown Tomb
-1 Disrupting Shoal
-1 Ninja of the Deep Hours
-1 Ice-Fang Coatl
-1 Spellstutter Sprite
-1 Faerie Seer
-1 Breeding Pool
-1 Abrupt Decay
-1 Snow-Covered Forest
-1 Drown in the Loch
-1 Mist-Syndicate Naga
-1 Ingenious Infiltrator
-1 Gilded Goose
-1 Snow-Covered Island
-1 Mana Leak
-1 Darkslick Shores
-1 Botanical Sanctum
-1 Fatal Push
-1 Fallen Shinobi
-1 Force of Negation
-1 Snow-Covered Swamp
-2 Disrupting Shoal
-2 Ice-Fang Coatl
-2 Spellstutter Sprite
-2 Faerie Seer
-2 Brazen Borrower
-2 Misty Rainforest
-2 Gilded Goose
-2 Fatal Push
-2 Botanical Sanctum
-2 Darkslick Shores
-2 Force of Negation
-2 Ingenious Infiltrator
-2 Snow-Covered Island
-2 Mana Leak
-3 Disrupting Shoal
-3 Faerie Seer
-3 Ice-Fang Coatl
-3 Spellstutter Sprite
-3 Brazen Borrower
-3 Misty Rainforest
-3 Ingenious Infiltrator
-3 Snow-Covered Island
-3 Gilded Goose
-3 Polluted Delta
-3 Fatal Push
-3 Darkslick Shores
-4 Spellstutter Sprite
-4 Misty Rainforest
-4 Fatal Push
-4 Faerie Seer
-4 Ingenious Infiltrator
-4 Ice-Fang Coatl
-4 Polluted Delta
+1 Mutavault
+1 Geist of Saint Traft
+1 Moorland Haunt
+1 Flooded Strand
+1 Force of Virtue
+1 Island
+1 Selfless Spirit
+1 Hallowed Fountain
+1 Spell Queller
+1 Empyrean Eagle
+1 Aether Vial
+1 Deputy of Detention
+1 Silent Clearing
+1 Marsh Flats
+1 Mausoleum Wanderer
+1 Seachrome Coast
+1 Squadron Hawk
+1 Path to Exile
+1 Godless Shrine
+1 Supreme Phantom
+2 Mutavault
+2 Geist of Saint Traft
+2 Flooded Strand
+2 Force of Virtue
+2 Island
+2 Aether Vial
+2 Path to Exile
+2 Selfless Spirit
+2 Mausoleum Wanderer
+2 Seachrome Coast
+2 Supreme Phantom
+2 Empyrean Eagle
+2 Spell Queller
+2 Squadron Hawk
+3 Force of Virtue
+3 Path to Exile
+3 Supreme Phantom
+3 Empyrean Eagle
+3 Flooded Strand
+3 Spell Queller
+3 Aether Vial
+3 Squadron Hawk
+3 Mausoleum Wanderer
+3 Seachrome Coast
+4 Spell Queller
+4 Force of Virtue
+4 Empyrean Eagle
+4 Supreme Phantom
+4 Flooded Strand
+4 Mausoleum Wanderer
+4 Aether Vial
+4 Path to Exile
+4 Squadron Hawk
 1 Stomping Ground
 1 Wooded Foothills
 2 Wooded Foothills
@@ -173,6 +171,61 @@
 4 Silversmote Ghoul
 4 Cathartic Reunion
 4 Creeping Chill
+1 Misty Rainforest
+1 Overgrown Tomb
+1 Disrupting Shoal
+1 Ninja of the Deep Hours
+1 Ice-Fang Coatl
+1 Faerie Seer
+1 Breeding Pool
+1 Abrupt Decay
+1 Snow-Covered Forest
+1 Drown in the Loch
+1 Mist-Syndicate Naga
+1 Spellstutter Sprite
+1 Ingenious Infiltrator
+1 Gilded Goose
+1 Snow-Covered Island
+1 Mana Leak
+1 Darkslick Shores
+1 Botanical Sanctum
+1 Fatal Push
+1 Fallen Shinobi
+1 Force of Negation
+1 Snow-Covered Swamp
+2 Disrupting Shoal
+2 Ice-Fang Coatl
+2 Faerie Seer
+2 Brazen Borrower
+2 Misty Rainforest
+2 Gilded Goose
+2 Fatal Push
+2 Botanical Sanctum
+2 Darkslick Shores
+2 Force of Negation
+2 Spellstutter Sprite
+2 Ingenious Infiltrator
+2 Snow-Covered Island
+2 Mana Leak
+3 Disrupting Shoal
+3 Faerie Seer
+3 Ice-Fang Coatl
+3 Brazen Borrower
+3 Misty Rainforest
+3 Spellstutter Sprite
+3 Ingenious Infiltrator
+3 Snow-Covered Island
+3 Gilded Goose
+3 Polluted Delta
+3 Fatal Push
+3 Darkslick Shores
+4 Misty Rainforest
+4 Fatal Push
+4 Faerie Seer
+4 Ingenious Infiltrator
+4 Ice-Fang Coatl
+4 Polluted Delta
+4 Spellstutter Sprite
 1 Klothys, God of Destiny
 1 Questing Beast
 1 Traverse the Ulvenwald
@@ -228,59 +281,6 @@
 4 Gather the Pack
 4 Verdant Catacombs
 4 Soulflayer
-1 Mutavault
-1 Geist of Saint Traft
-1 Moorland Haunt
-1 Flooded Strand
-1 Force of Virtue
-1 Island
-1 Selfless Spirit
-1 Hallowed Fountain
-1 Spell Queller
-1 Empyrean Eagle
-1 Aether Vial
-1 Deputy of Detention
-1 Silent Clearing
-1 Marsh Flats
-1 Mausoleum Wanderer
-1 Seachrome Coast
-1 Squadron Hawk
-1 Path to Exile
-1 Godless Shrine
-1 Supreme Phantom
-2 Mutavault
-2 Geist of Saint Traft
-2 Flooded Strand
-2 Island
-2 Aether Vial
-2 Force of Virtue
-2 Path to Exile
-2 Selfless Spirit
-2 Mausoleum Wanderer
-2 Seachrome Coast
-2 Supreme Phantom
-2 Empyrean Eagle
-2 Spell Queller
-2 Squadron Hawk
-3 Path to Exile
-3 Supreme Phantom
-3 Empyrean Eagle
-3 Flooded Strand
-3 Spell Queller
-3 Force of Virtue
-3 Aether Vial
-3 Squadron Hawk
-3 Mausoleum Wanderer
-3 Seachrome Coast
-4 Spell Queller
-4 Empyrean Eagle
-4 Supreme Phantom
-4 Flooded Strand
-4 Mausoleum Wanderer
-4 Aether Vial
-4 Path to Exile
-4 Squadron Hawk
-4 Force of Virtue
 1 Chandra, Torch of Defiance
 1 Pillage
 1 Wrenn and Six
