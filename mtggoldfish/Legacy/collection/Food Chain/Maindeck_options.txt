@@ -2,14 +2,14 @@
 2 Noble Hierarch
 3 Noble Hierarch
 1 Arcum's Astrolabe
+2 Arcum's Astrolabe
 2 Snow-Covered Swamp
 2 Force of Negation
-2 Arcum's Astrolabe
 2 Abrupt Decay
-3 Oko, Thief of Crowns
-3 Walking Ballista
 3 Arcum's Astrolabe
+3 Oko, Thief of Crowns
 3 Abrupt Decay
+3 Walking Ballista
 4 Arcum's Astrolabe
 4 Polluted Delta
 5 Snow-Covered Island
@@ -41,33 +41,28 @@
 1 Cling to Dust
 2 Sylvan Library
 3 Baleful Strix
-4 Abrupt Decay
 4 Baleful Strix
-1 Hydroid Krasis
-1 Ancient Tomb
+4 Abrupt Decay
+1 Once Upon a Time
 1 Chrome Mox
-1 Venser, Shaper Savant
+1 Ancient Tomb
+1 Hydroid Krasis
 1 Chalice of the Void
+1 Venser, Shaper Savant
 1 Emrakul, the Aeons Torn
 1 Genesis Hydra
 1 Winding Canyons
-1 Once Upon a Time
 1 City of Traitors
-2 Ancient Tomb
+2 Once Upon a Time
 2 Chrome Mox
+2 Ancient Tomb
 2 Hydroid Krasis
 2 Chalice of the Void
-2 Once Upon a Time
 3 Chrome Mox
 3 Chalice of the Void
 4 Snow-Covered Forest
 4 Manipulate Fate
 4 Chalice of the Void
-1 Tidespout Tyrant
-1 Leovold, Emissary of Trest
-1 Relic of Progenitus
-2 Tropical Island
-4 Noble Hierarch
 1 Wooded Foothills
 1 Taiga
 1 Veil of Summer
@@ -83,3 +78,8 @@
 3 Lightning Bolt
 3 Scalding Tarn
 4 Misthollow Griffin
+1 Leovold, Emissary of Trest
+1 Tidespout Tyrant
+1 Relic of Progenitus
+2 Tropical Island
+4 Noble Hierarch

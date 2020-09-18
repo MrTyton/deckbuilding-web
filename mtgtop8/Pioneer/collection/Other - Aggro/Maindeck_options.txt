@@ -3,24 +3,24 @@
 1 Zulaport Cutthroat
 1 Woe Strider
 1 Bolas's Citadel
-1 Blood Crypt
 1 Mayhem Devil
+1 Blood Crypt
 2 Priest of Forgotten Gods
 2 Catacomb Sifter
 2 Zulaport Cutthroat
 2 Woe Strider
-2 Bolas's Citadel
 2 Gilded Goose
-2 Blood Crypt
+2 Bolas's Citadel
 2 Mayhem Devil
+2 Blood Crypt
 3 Zulaport Cutthroat
 3 Woe Strider
 3 Catacomb Sifter
 3 Priest of Forgotten Gods
 3 Bolas's Citadel
-3 Blood Crypt
 3 Mayhem Devil
 3 Gilded Goose
+3 Blood Crypt
 4 Bolas's Citadel
 4 Zulaport Cutthroat
 4 Woe Strider
@@ -107,10 +107,10 @@
 1 Rishkar, Peema Renegade
 2 Hangarback Walker
 2 Stonecoil Serpent
+2 Dromoka's Command
 2 Hardened Scales
 2 Pelt Collector
 2 Rishkar, Peema Renegade
-2 Dromoka's Command
 3 Hangarback Walker
 3 Stonecoil Serpent
 3 Pelt Collector
@@ -134,8 +134,8 @@
 1 Urborg, Tomb of Yawgmoth
 1 Mutavault
 2 Mutavault
-1 Scattered Groves
 1 Fortified Village
+1 Scattered Groves
 2 Fortified Village
 4 Elvish Mystic
 4 Llanowar Elves
@@ -232,8 +232,8 @@
 1 Sigil of the Empty Throne
 1 Banishing Light
 1 Calix, Destiny's Hand
-1 Temple of Plenty
 1 Alseid of Life's Bounty
+1 Temple of Plenty
 1 Starfield Mystic
 1 Setessan Champion
 1 Sphere of Safety
@@ -252,18 +252,18 @@
 2 Sigil of the Empty Throne
 3 Setessan Champion
 3 Cast Out
-3 Temple of Plenty
 3 Alseid of Life's Bounty
 3 Banishing Light
+3 Temple of Plenty
 3 Starfield Mystic
 3 Eidolon of Blossoms
 3 Herald of the Pantheon
 3 Calix, Destiny's Hand
 4 Setessan Champion
 4 Cast Out
+4 Temple of Plenty
 4 Alseid of Life's Bounty
 4 Banishing Light
-4 Temple of Plenty
 4 Eidolon of Blossoms
 4 Herald of the Pantheon
 4 Starfield Mystic
@@ -369,10 +369,10 @@
 1 Brazen Borrower
 2 Brazen Borrower
 1 Irrigated Farmland
+1 Seasoned Hallowblade
 1 Sphinx's Revelation
 1 Nimble Obstructionist
 1 Supreme Verdict
-1 Seasoned Hallowblade
 1 Toolcraft Exemplar
 1 Spell Pierce
 1 Glacial Fortress
@@ -380,19 +380,19 @@
 1 Teferi, Time Raveler
 1 Chart a Course
 2 Irrigated Farmland
+2 Seasoned Hallowblade
 2 Teferi, Time Raveler
 2 Nimble Obstructionist
 2 Supreme Verdict
-2 Seasoned Hallowblade
 2 Chart a Course
 2 Gideon of the Trials
 2 Glacial Fortress
 2 Toolcraft Exemplar
 2 Spell Pierce
 3 Irrigated Farmland
+3 Seasoned Hallowblade
 3 Heart of Kiran
 3 Nimble Obstructionist
-3 Seasoned Hallowblade
 3 Teferi, Time Raveler
 3 Gideon of the Trials
 3 Toolcraft Exemplar
@@ -440,8 +440,8 @@
 2 Island
 2 Mystical Dispute
 2 Fabled Passage
-3 Thieves' Guild Enforcer
 3 Eliminate
+3 Thieves' Guild Enforcer
 3 Rankle, Master of Pranks
 3 Fabled Passage
 3 Island
@@ -465,9 +465,9 @@
 1 Leonin Vanguard
 1 Ajani Steadfast
 1 Animal Sanctuary
-2 Brimaz, King of Oreskos
 2 Fleecemane Lion
 2 Scattered Groves
+2 Brimaz, King of Oreskos
 2 Sacred Cat
 2 Kaheera, the Orphanguard
 2 Adorned Pouncer

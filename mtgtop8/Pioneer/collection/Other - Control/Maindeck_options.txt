@@ -1,6 +1,5 @@
 2 Neutralize
 2 Growth Spiral
-2 Sublime Epiphany
 2 Breeding Pool
 2 Hinterland Harbor
 2 Uro, Titan of Nature's Wrath
@@ -15,13 +14,13 @@
 4 Growth Spiral
 4 Breeding Pool
 4 Wilderness Reclamation
-1 Eliminate
+4 Fabled Passage
 4 Shark Typhoon
 5 Island
+1 Eliminate
 4 Dig Through Time
 1 Fetid Pools
 2 Fetid Pools
-1 Castle Locthwain
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils
@@ -38,16 +37,17 @@
 2 Thing in the Ice
 3 Fetid Pools
 3 Thing in the Ice
-1 Field of Ruin
-2 Field of Ruin
 3 Castle Vantress
 3 Sublime Epiphany
 4 Temple of Mystery
-3 Swamp
 3 Hinterland Harbor
+1 Castle Locthwain
+1 Field of Ruin
+2 Field of Ruin
 3 Sinister Sabotage
 3 Torrential Gearhulk
 4 Sinister Sabotage
+3 Swamp
 2 Eliminate
 2 Castle Locthwain
 1 Castle Ardenvale
@@ -115,20 +115,6 @@
 4 Godless Shrine
 5 Plains
 6 Plains
-1 Dragonskull Summit
-1 Blood Crypt
-1 Kroxa, Titan of Death's Hunger
-1 Murderous Rider
-1 Mountain
-2 Dragonskull Summit
-2 Blood Crypt
-2 Kroxa, Titan of Death's Hunger
-2 Murderous Rider
-3 Dragonskull Summit
-3 Kroxa, Titan of Death's Hunger
-3 Blood Crypt
-4 Kroxa, Titan of Death's Hunger
-4 Blood Crypt
 1 Glimmer of Genius
 1 Hieroglyphic Illumination
 1 Vraska's Contempt
@@ -149,48 +135,37 @@
 2 Lumbering Falls
 3 Uro, Titan of Nature's Wrath
 1 Dreadbore
+1 Dragonskull Summit
 1 Nicol Bolas, the Ravager
 1 The Royal Scions
+1 Blood Crypt
+1 Kroxa, Titan of Death's Hunger
+1 Murderous Rider
 1 Chart a Course
 1 Bonecrusher Giant
+1 Mountain
 1 Discovery / Dispersal
 2 Dreadbore
+2 Dragonskull Summit
 2 Nicol Bolas, the Ravager
+2 Blood Crypt
+2 Kroxa, Titan of Death's Hunger
 2 The Royal Scions
+2 Murderous Rider
 2 Discovery / Dispersal
 2 Bonecrusher Giant
 2 Chart a Course
 3 Dreadbore
+3 Dragonskull Summit
+3 Kroxa, Titan of Death's Hunger
 3 Nicol Bolas, the Ravager
+3 Blood Crypt
 3 Murderous Rider
 3 Discovery / Dispersal
+4 Kroxa, Titan of Death's Hunger
+4 Blood Crypt
 4 Nicol Bolas, the Ravager
 4 Discovery / Dispersal
-1 Collective Brutality
-1 Davriel, Rogue Shadowmage
-1 Liliana, Waker of the Dead
-1 Kolaghan's Command
-1 Waste Not
-1 Hazoret the Fervent
-2 Liliana, Waker of the Dead
-2 Collective Brutality
-2 Davriel, Rogue Shadowmage
-2 Hazoret the Fervent
-2 Kolaghan's Command
-2 Mountain
-2 Waste Not
-3 Castle Locthwain
-3 Eliminate
-3 Kolaghan's Command
-3 Davriel, Rogue Shadowmage
-3 Liliana, Waker of the Dead
-3 Mountain
-3 Waste Not
-4 Castle Locthwain
-4 Dragonskull Summit
-4 Swamp
-4 Liliana, Waker of the Dead
-4 Waste Not
 1 Sulfur Falls
 1 Glacial Fortress
 1 Wandering Fumarole
@@ -208,8 +183,8 @@
 1 Steam Vents
 1 Settle the Wreckage
 1 Dream Trawler
-1 Supreme Verdict
 1 Karn, the Great Creator
+1 Supreme Verdict
 1 Anger of the Gods
 1 Raugrin Triome
 2 Sulfur Falls
@@ -233,11 +208,11 @@
 3 Izzet Charm
 3 Teferi, Time Raveler
 3 Collective Defiance
-3 Hallowed Fountain
 3 Steam Vents
+3 Hallowed Fountain
 4 Raugrin Triome
 4 Hallowed Fountain
 4 Steam Vents
+4 Izzet Charm
 4 Teferi, Time Raveler
 4 Collective Defiance
-4 Izzet Charm

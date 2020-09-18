@@ -36,8 +36,8 @@
 1 Tamiyo, Collector of Tales
 1 Cavalier of Thorns
 1 Voracious Hydra
-1 Arboreal Grazer
 1 Ilysian Caryatid
+1 Arboreal Grazer
 1 Ram Through
 1 Garruk's Harbinger
 2 Cavalier of Thorns
@@ -62,9 +62,9 @@
 3 Assassin's Trophy
 4 Knight of the Ebon Legion
 4 Stonecoil Serpent
+1 Narset, Parter of Veils
 1 Rewind
 1 Heartless Act
-1 Narset, Parter of Veils
 1 Negate
 1 Disdainful Stroke
 1 Frantic Inventory
@@ -73,12 +73,12 @@
 2 Rewind
 2 Frantic Inventory
 2 Heartless Act
+3 Shark Typhoon
 3 Narset, Parter of Veils
 3 Frantic Inventory
-3 Shark Typhoon
+4 Nightpack Ambusher
 4 Shark Typhoon
 4 Frantic Inventory
-4 Nightpack Ambusher
 1 Drown in the Loch
 1 Enter the God-Eternals
 1 Rankle, Master of Pranks
@@ -95,6 +95,28 @@
 3 Growth Spiral
 4 Questing Beast
 4 Skull Prophet
+1 Gilded Goose
+1 Wicked Wolf
+1 Gingerbread Cabin
+1 Trail of Crumbs
+2 Gilded Goose
+2 Wicked Wolf
+2 Gingerbread Cabin
+2 Trail of Crumbs
+3 Gilded Goose
+3 Hydroid Krasis
+3 Wicked Wolf
+3 Gingerbread Cabin
+3 Trail of Crumbs
+3 Mystical Dispute
+4 Mystical Dispute
+4 Nissa, Who Shakes the World
+4 Aether Gust
+4 Hydroid Krasis
+4 Gingerbread Cabin
+4 Trail of Crumbs
+4 Gilded Goose
+4 Wicked Wolf
 1 Cunning Nightbonder
 1 Quench
 1 Slitherwisp
@@ -106,19 +128,19 @@
 2 Quench
 2 Cunning Nightbonder
 2 Slitherwisp
+2 Frilled Mystic
 2 Brineborn Cutthroat
 2 Omen of the Sea
 2 Sea-Dasher Octopus
 2 Spectral Sailor
-2 Frilled Mystic
 3 Spectral Sailor
 3 Cunning Nightbonder
 3 Brineborn Cutthroat
+3 Frilled Mystic
 3 Quench
 3 Slitherwisp
-3 Frilled Mystic
-4 Spectral Sailor
 4 Brazen Borrower
+4 Spectral Sailor
 4 Slitherwisp
 4 Brineborn Cutthroat
 1 Merfolk Secretkeeper
@@ -149,44 +171,22 @@
 2 Thief of Sanity
 2 Duress
 3 Mire Triton
-3 Liliana, Waker of the Dead
 3 Liliana's Triumph
+3 Liliana, Waker of the Dead
 3 Thief of Sanity
 4 Mire Triton
 4 Liliana's Triumph
 4 Thief of Sanity
 4 Liliana, Waker of the Dead
-1 Gilded Goose
-1 Wicked Wolf
-1 Gingerbread Cabin
-1 Trail of Crumbs
-2 Gilded Goose
-2 Wicked Wolf
-2 Gingerbread Cabin
-2 Trail of Crumbs
-3 Gilded Goose
-3 Hydroid Krasis
-3 Wicked Wolf
-3 Gingerbread Cabin
-3 Trail of Crumbs
-3 Mystical Dispute
-4 Nissa, Who Shakes the World
-4 Aether Gust
-4 Hydroid Krasis
-4 Gingerbread Cabin
-4 Trail of Crumbs
-4 Gilded Goose
-4 Wicked Wolf
-4 Mystical Dispute
 1 Opt
 1 Wolfwillow Haven
 1 Sinister Sabotage
 1 Blast Zone
+2 Temple of Mystery
 2 Opt
 2 Wolfwillow Haven
-2 Temple of Mystery
-3 Paradise Druid
 3 Temple of Mystery
+3 Paradise Druid
 4 Island
 4 Paradise Druid
 5 Island
