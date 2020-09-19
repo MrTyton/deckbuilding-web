@@ -9,8 +9,8 @@
 1 Breeding Pool
 2 Uro, Titan of Nature's Wrath
 2 Assassin's Trophy
-3 Assassin's Trophy
 3 Uro, Titan of Nature's Wrath
+3 Assassin's Trophy
 1 Cling to Dust
 2 Swamp
 1 Abrupt Decay
@@ -51,9 +51,9 @@
 2 Flooded Strand
 1 Dream Twist
 1 Waterlogged Grove
+2 Snow-Covered Forest
 2 Waterlogged Grove
 2 Winds of Rebuke
-2 Snow-Covered Forest
 1 Collective Brutality
 2 Collective Brutality
 4 Island
@@ -65,6 +65,8 @@
 4 Flooded Strand
 2 Cling to Dust
 1 Remand
+1 Jace, Vryn's Prodigy
+2 Snapcaster Mage
 1 Mana Leak
 1 Ensnaring Bridge
 2 Mana Leak
@@ -72,8 +74,6 @@
 1 Thing in the Ice
 2 Thing in the Ice
 2 Eliminate
-1 Jace, Vryn's Prodigy
-2 Snapcaster Mage
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
 3 Darkslick Shores
@@ -82,6 +82,7 @@
 2 Thieves' Guild Enforcer
 3 Thieves' Guild Enforcer
 4 Thieves' Guild Enforcer
+4 Inquisition of Kozilek
 1 Mystic Sanctuary
 1 Maddening Cacophony
 2 Maddening Cacophony
@@ -97,9 +98,8 @@
 3 Scheming Symmetry
 4 Thought Scour
 4 Scheming Symmetry
-4 Inquisition of Kozilek
-1 Breaking/Entering
-4 Manic Scribe
 1 Extirpate
 2 Extirpate
 5 Snow-Covered Island
+1 Breaking/Entering
+4 Manic Scribe

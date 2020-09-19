@@ -1,5 +1,5 @@
-3 Caves of Koilos
-4 Caves of Koilos
+1 Eliminate
+2 Eliminate
 2 City of Traitors
 1 Wastes
 4 Wasteland
@@ -10,6 +10,7 @@
 3 Once Upon a Time
 1 Walking Ballista
 2 Walking Ballista
+2 Plague Engineer
 1 Simian Spirit Guide
 2 Simian Spirit Guide
 3 Simian Spirit Guide
@@ -42,7 +43,6 @@
 4 Glimmerpost
 4 Cloudpost
 4 Vesuva
-2 Plague Engineer
 3 Eliminate
 1 Plains
 1 Brushland
@@ -116,6 +116,10 @@
 3 Thalia, Guardian of Thraben
 4 Mox Diamond
 4 Thalia, Guardian of Thraben
+1 Swamp
+1 Silent Clearing
+3 Plague Engineer
+4 Plague Engineer
 1 Eldrazi Obligator
 1 Mortarpod
 1 Ramunap Ruins

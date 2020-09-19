@@ -1,9 +1,9 @@
-2 Neutralize
 2 Growth Spiral
 2 Breeding Pool
 2 Hinterland Harbor
 2 Uro, Titan of Nature's Wrath
 2 Forest
+2 Sublime Epiphany
 2 Temple of Mystery
 2 Wilderness Reclamation
 3 Growth Spiral
@@ -55,20 +55,20 @@
 1 Basilica Bell-Haunt
 1 Flicker of Fate
 1 Treacherous Blessing
-1 Savai Triome
 1 Mazemind Tome
-1 Godless Shrine
+1 Savai Triome
 1 Arch of Orazca
-1 Oath of Kaya
 1 Kaya's Wrath
 1 Temple of Silence
 1 Trial of Ambition
+1 Oath of Kaya
 1 The Birth of Meletis
 1 Doom Foretold
 1 Elspeth Conquers Death
 1 Concealed Courtyard
 1 Isolated Chapel
 1 Yorion, Sky Nomad
+1 Godless Shrine
 1 Plains
 1 Starfield of Nyx
 2 Temple of Silence
@@ -78,13 +78,13 @@
 2 Mazemind Tome
 2 Savai Triome
 2 Shambling Vent
-2 Oath of Kaya
 2 Elspeth Conquers Death
 2 Plains
 2 Trial of Ambition
 2 Isolated Chapel
 2 Concealed Courtyard
 2 Doom Foretold
+2 Oath of Kaya
 2 Godless Shrine
 2 Yorion, Sky Nomad
 2 The Birth of Meletis
@@ -94,7 +94,6 @@
 3 Flicker of Fate
 3 Treacherous Blessing
 3 Mazemind Tome
-3 Oath of Kaya
 3 Shambling Vent
 3 Concealed Courtyard
 3 The Birth of Meletis
@@ -102,11 +101,12 @@
 3 Plains
 3 Godless Shrine
 3 Doom Foretold
+3 Oath of Kaya
 3 Isolated Chapel
+4 Oath of Kaya
 4 Isolated Chapel
 4 Trial of Ambition
 4 Mazemind Tome
-4 Oath of Kaya
 4 Shambling Vent
 4 Plains
 4 Kaya's Wrath
@@ -134,6 +134,7 @@
 2 Teferi, Master of Time
 2 Lumbering Falls
 3 Uro, Titan of Nature's Wrath
+1 Chart a Course
 1 Dreadbore
 1 Dragonskull Summit
 1 Nicol Bolas, the Ravager
@@ -141,10 +142,10 @@
 1 Blood Crypt
 1 Kroxa, Titan of Death's Hunger
 1 Murderous Rider
-1 Chart a Course
 1 Bonecrusher Giant
 1 Mountain
 1 Discovery / Dispersal
+2 Chart a Course
 2 Dreadbore
 2 Dragonskull Summit
 2 Nicol Bolas, the Ravager
@@ -154,13 +155,12 @@
 2 Murderous Rider
 2 Discovery / Dispersal
 2 Bonecrusher Giant
-2 Chart a Course
 3 Murderous Rider
 3 Dreadbore
 3 Dragonskull Summit
 3 Kroxa, Titan of Death's Hunger
-3 Blood Crypt
 3 Nicol Bolas, the Ravager
+3 Blood Crypt
 3 Discovery / Dispersal
 4 Kroxa, Titan of Death's Hunger
 4 Blood Crypt
@@ -176,6 +176,7 @@
 1 Temple of Enlightenment
 1 Temple of Epiphany
 1 Temple of Triumph
+1 Supreme Verdict
 1 Izzet Charm
 1 Collective Defiance
 1 Teferi, Time Raveler
@@ -184,13 +185,13 @@
 1 Settle the Wreckage
 1 Dream Trawler
 1 Karn, the Great Creator
-1 Supreme Verdict
 1 Anger of the Gods
 1 Raugrin Triome
 2 Sulfur Falls
 2 Sacred Foundry
 2 Temple of Enlightenment
 2 Clifftop Retreat
+2 Izzet Charm
 2 Anger of the Gods
 2 Collective Defiance
 2 Teferi, Time Raveler
@@ -199,20 +200,19 @@
 2 Supreme Verdict
 2 Commit / Memory
 2 Hallowed Fountain
-2 Izzet Charm
 2 Raugrin Triome
 3 Anger of the Gods
 3 Sulfur Falls
+3 Izzet Charm
 3 Commit / Memory
 3 Raugrin Triome
-3 Izzet Charm
 3 Teferi, Time Raveler
 3 Collective Defiance
 3 Steam Vents
 3 Hallowed Fountain
+4 Izzet Charm
 4 Raugrin Triome
 4 Hallowed Fountain
 4 Steam Vents
-4 Izzet Charm
 4 Teferi, Time Raveler
 4 Collective Defiance
