@@ -1,11 +1,6 @@
-1 Scattered Groves
-1 Explore
-2 Explore
 2 Snow-Covered Forest
-1 Eternal Witness
 3 Temple Garden
 1 Spike Feeder
-1 Scavenging Ooze
 1 Heliod, Sun-Crowned
 1 Walking Ballista
 1 Ranger-Captain of Eos
@@ -20,6 +15,7 @@
 3 Collected Company
 3 Ranger-Captain of Eos
 4 Collected Company
+1 Scavenging Ooze
 1 Conclave Mentor
 2 Scavenging Ooze
 2 Conclave Mentor
@@ -30,9 +26,10 @@
 1 Hardened Scales
 2 Hardened Scales
 4 Conclave Mentor
-3 Forest
+1 Eternal Witness
 1 Auriok Champion
 4 Temple Garden
+3 Forest
 4 Forest
 2 Horizon Canopy
 2 Plains
@@ -47,14 +44,20 @@
 3 Hardened Scales
 4 Hardened Scales
 1 Gavony Township
-1 Wooded Bastion
+1 Elder Gargaroth
+1 Courser of Kruphix
+1 Tireless Tracker
 1 Springbloom Druid
+1 Wooded Bastion
 1 Knight of the Reliquary
 5 Forest
 1 Crumbling Vestige
-1 Thalia, Guardian of Thraben
 1 Sejiri Steppe
 1 Wall of Blossoms
+1 Prismatic Vista
+1 Thalia, Guardian of Thraben
+3 Horizon Canopy
+1 Woodland Bellower
 2 Thalia, Guardian of Thraben
 2 Sakura-Tribe Elder
 1 Aether Vial
@@ -62,24 +65,21 @@
 3 Thalia, Guardian of Thraben
 3 Aether Vial
 4 Aether Vial
-1 Prismatic Vista
-3 Horizon Canopy
-1 Woodland Bellower
-2 Tireless Tracker
-2 Courser of Kruphix
 2 Wall of Blossoms
-1 Giver of Runes
 1 Birds of Paradise
 2 Birds of Paradise
-1 Golos, Tireless Pilgrim
+2 Tireless Tracker
+2 Courser of Kruphix
+2 Prismatic Vista
 3 Wooded Foothills
 1 Arbor Elf
 2 Arbor Elf
 3 Arbor Elf
 4 Arbor Elf
-2 Prismatic Vista
 1 Lurrus of the Dream-Den
+1 Giver of Runes
 4 Wooded Foothills
+1 Golos, Tireless Pilgrim
 3 Snow-Covered Forest
 1 Pendelhaven
 1 Razorverge Thicket
@@ -104,7 +104,6 @@
 2 Verdant Catacombs
 3 Verdant Catacombs
 1 Canopy Vista
-2 Golos, Tireless Pilgrim
 3 Razorverge Thicket
 2 Misty Rainforest
 3 Misty Rainforest
@@ -127,11 +126,10 @@
 1 Nylea, Keen-Eyed
 1 Selfless Savior
 1 Oracle of Mul Daya
-1 Castle Ardenvale
-1 Nissa, Vastwood Seer
-1 Shalai, Voice of Plenty
 1 Archangel of Thune
 1 Tectonic Edge
+1 Shalai, Voice of Plenty
+2 Golos, Tireless Pilgrim
 2 Snow-Covered Plains
 2 Wooded Bastion
 1 Brushland

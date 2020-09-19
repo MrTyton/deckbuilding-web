@@ -1,33 +1,33 @@
 1 Bolas's Citadel
-1 Catacomb Sifter
 1 Woe Strider
-1 Zulaport Cutthroat
 1 Priest of Forgotten Gods
+1 Catacomb Sifter
+1 Zulaport Cutthroat
 1 Mayhem Devil
 1 Blood Crypt
 2 Woe Strider
+2 Priest of Forgotten Gods
 2 Bolas's Citadel
-2 Zulaport Cutthroat
 2 Catacomb Sifter
 2 Gilded Goose
-2 Priest of Forgotten Gods
+2 Zulaport Cutthroat
 2 Mayhem Devil
 2 Blood Crypt
+3 Priest of Forgotten Gods
 3 Woe Strider
 3 Catacomb Sifter
-3 Bolas's Citadel
-3 Priest of Forgotten Gods
 3 Zulaport Cutthroat
-3 Gilded Goose
+3 Bolas's Citadel
 3 Mayhem Devil
+3 Gilded Goose
 3 Blood Crypt
-4 Woe Strider
 4 Priest of Forgotten Gods
+4 Woe Strider
 4 Zulaport Cutthroat
 4 Catacomb Sifter
 4 Bolas's Citadel
-4 Mayhem Devil
 4 Gilded Goose
+4 Mayhem Devil
 3 Llanowar Elves
 3 Elvish Mystic
 2 Temple Garden
@@ -47,37 +47,37 @@
 3 Watery Grave
 1 Stitcher's Supplier
 1 Haunted Dead
+1 Merfolk Secretkeeper
 1 Creeping Chill
 1 Prized Amalgam
 1 Silversmote Ghoul
 1 Satyr Wayfinder
 1 Grisly Salvage
 1 Narcomoeba
-1 Merfolk Secretkeeper
 2 Grisly Salvage
 2 Botanical Sanctum
 2 Stitcher's Supplier
+2 Merfolk Secretkeeper
 2 Creeping Chill
 2 Prized Amalgam
 2 Silversmote Ghoul
 2 Satyr Wayfinder
 2 Narcomoeba
 2 Haunted Dead
-2 Merfolk Secretkeeper
 3 Grisly Salvage
 3 Stitcher's Supplier
-3 Silversmote Ghoul
+3 Merfolk Secretkeeper
 3 Prized Amalgam
+3 Silversmote Ghoul
 3 Creeping Chill
 3 Satyr Wayfinder
-3 Merfolk Secretkeeper
 3 Botanical Sanctum
 4 Stitcher's Supplier
 4 Grisly Salvage
 4 Merfolk Secretkeeper
 4 Silversmote Ghoul
-4 Prized Amalgam
 4 Creeping Chill
+4 Prized Amalgam
 4 Satyr Wayfinder
 1 Experiment One
 2 Experiment One
@@ -106,8 +106,8 @@
 1 Stonecoil Serpent
 1 Rishkar, Peema Renegade
 2 Hangarback Walker
-2 Dromoka's Command
 2 Stonecoil Serpent
+2 Dromoka's Command
 2 Hardened Scales
 2 Pelt Collector
 2 Rishkar, Peema Renegade
@@ -298,11 +298,11 @@
 1 Scavenging Ooze
 1 Rhonas the Indomitable
 2 Scavenging Ooze
-1 Legion Loyalist
 1 Reckless Bushwhacker
+1 Atarka's Command
+1 Legion Loyalist
 1 Wildborn Preserver
 1 Cinder Glade
-1 Atarka's Command
 1 Yorvo, Lord of Garenbrig
 1 Burning-Tree Emissary
 1 Game Trail
@@ -311,8 +311,8 @@
 1 Mountain
 1 Bonecrusher Giant
 2 Reckless Bushwhacker
-2 Cinder Glade
 2 Atarka's Command
+2 Cinder Glade
 2 Gruul Spellbreaker
 2 Bonecrusher Giant
 2 Mountain
@@ -342,8 +342,8 @@
 1 Hashep Oasis
 1 Rotting Regisaur
 1 Primal Might
-1 Garruk's Harbinger
 1 Thought-Knot Seer
+1 Garruk's Harbinger
 1 Vivien, Arkbow Ranger
 1 Ghalta, Primal Hunger
 1 Surrak, the Hunt Caller
@@ -351,11 +351,11 @@
 2 Rotting Regisaur
 2 Primal Might
 2 Hashep Oasis
-2 Garruk's Harbinger
 2 Thought-Knot Seer
 2 Ghalta, Primal Hunger
 2 Rhonas the Indomitable
 2 Surrak, the Hunt Caller
+2 Garruk's Harbinger
 3 Blossoming Defense
 3 Garruk's Harbinger
 3 Hashep Oasis
