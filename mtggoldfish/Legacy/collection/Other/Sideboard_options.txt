@@ -1,3 +1,8 @@
+2 Containment Priest
+1 Ethersworn Canonist
+2 Ethersworn Canonist
+1 Leyline of the Void
+2 Leyline of the Void
 1 Thorn of Amethyst
 2 Thorn of Amethyst
 3 Leyline of the Void
@@ -7,57 +12,52 @@
 1 Liquimetal Coating
 1 Ensnaring Bridge
 1 Tormod's Crypt
-2 Pyroblast
 1 Return to Nature
-1 Carpet of Flowers
-1 Red Elemental Blast
-1 Flusterstorm
-2 Containment Priest
 1 Grafdigger's Cage
-2 Sorcerous Spyglass
-2 Plague Engineer
-2 Carpet of Flowers
-1 Back to Basics
-1 Null Rod
 1 Cataclysm
 2 Cataclysm
 1 Zealous Persecution
 1 Kambal, Consul of Allocation
-1 Ethersworn Canonist
-2 Ethersworn Canonist
 1 Faerie Macabre
+2 Sorcerous Spyglass
 2 Council's Judgment
-3 Plague Engineer
+3 Thorn of Amethyst
+2 Veil of Summer
 1 Klothys, God of Destiny
 1 Abrupt Decay
-2 Veil of Summer
-3 Thorn of Amethyst
+1 Carpet of Flowers
 1 Spell Pierce
+1 Hydroblast
+1 Collector Ouphe
+1 Force of Negation
+1 Back to Basics
 1 Ratchet Bomb
+1 Red Elemental Blast
 1 Ashiok, Dream Render
+1 Relic of Progenitus
 1 Dystopia
 2 Dystopia
-1 Relic of Progenitus
-1 Hydroblast
-1 Blood Moon
 1 Walking Ballista
-1 Nihil Spellbomb
+1 Blood Moon
 1 Pyrokinesis
+2 Plague Engineer
+1 Engineered Explosives
+1 Sword of Fire and Ice
+1 Meddling Mage
+1 Swords to Plowshares
 1 Mindbreak Trap
 3 Pyroblast
-1 Seal of Cleansing
+1 Umezawa's Jitte
+1 Eliminate
+1 Gideon, Ally of Zendikar
 1 Bitterblossom
 1 Toxic Deluge
 1 Liliana, the Last Hope
-1 Eliminate
-1 Gideon, Ally of Zendikar
-1 Collector Ouphe
-1 Jegantha, the Wellspring
-1 Scavenging Ooze
-1 Rough/Tumble
+1 Seal of Cleansing
 1 Sylvan Library
+1 Null Rod
+1 Rough/Tumble
 1 Wilt
-1 Force of Negation
 1 Phyrexian Revoker
 1 Chalice of the Void
 2 Chalice of the Void
@@ -66,8 +66,9 @@
 2 Warping Wail
 2 Ratchet Bomb
 2 All Is Dust
-2 Null Rod
-1 Engineered Explosives
+1 Jegantha, the Wellspring
+1 Scavenging Ooze
+2 Carpet of Flowers
 1 Liliana of the Veil
 1 Liliana's Triumph
 1 Painful Truths
@@ -75,19 +76,23 @@
 1 Angrath's Rampage
 2 Hydroblast
 2 Pithing Needle
-1 Goblin Sharpshooter
-1 Goblin Trashmaster
-2 Pyrokinesis
-2 Goblin Sharpshooter
-2 Goblin Trashmaster
+1 Blue Elemental Blast
+1 Wear/Tear
+2 Meddling Mage
+2 Wear/Tear
 1 Goblin Cratermaker
 1 Pyroclasm
 1 Defense Grid
 1 Wurmcoil Engine
-1 Lightning Bolt
 1 Embereth Shieldbreaker
+1 Lightning Bolt
 2 Goblin Cratermaker
 2 Embereth Shieldbreaker
+1 Goblin Trashmaster
+1 Goblin Sharpshooter
+2 Pyrokinesis
+2 Goblin Sharpshooter
+2 Goblin Trashmaster
 1 Cindervines
 2 Klothys, God of Destiny
 2 Cindervines
@@ -99,12 +104,11 @@
 1 Kaya, Ghost Assassin
 1 Vindicate
 2 Vindicate
-1 Umezawa's Jitte
-2 Flusterstorm
 3 Veil of Summer
 1 Counterbalance
 1 Winter Orb
 2 Umezawa's Jitte
+2 Flusterstorm
 2 Counterbalance
 2 Winter Orb
 1 Thoughtseize
@@ -120,17 +124,6 @@
 2 Red Elemental Blast
 2 Supreme Verdict
 3 Blood Moon
-1 Narset, Parter of Veils
-1 Terminus
-1 On Thin Ice
-1 Dovin's Veto
-2 Dovin's Veto
-2 On Thin Ice
-2 Terminus
-2 Grafdigger's Cage
-2 Seal of Cleansing
-3 Flusterstorm
-3 Grafdigger's Cage
 1 Armageddon
 1 Holy Light
 2 Faerie Macabre
@@ -138,11 +131,29 @@
 2 Holy Light
 3 Armageddon
 3 Council's Judgment
-1 Vault of Whispers
+1 Lavinia, Azorius Renegade
+1 Knight of Autumn
+1 Deputy of Detention
+1 Gilded Drake
+1 Remorseful Cleric
+2 Force of Negation
+2 Gilded Drake
+3 Force of Negation
+1 True-Name Nemesis
+1 Disenchant
+1 Nihil Spellbomb
+1 Leonin Relic-Warder
+2 True-Name Nemesis
+2 Swords to Plowshares
+3 True-Name Nemesis
+3 Swords to Plowshares
+4 Swords to Plowshares
 1 Helm of Obedience
+1 Vault of Whispers
 1 Necromentia
 1 Dreamstealer
 2 Dreamstealer
+3 Plague Engineer
 4 Plague Engineer
 1 Force of Vigor
 1 Progenitus
@@ -168,20 +179,9 @@
 2 Nature's Claim
 3 Chain of Vapor
 3 Nature's Claim
-4 Veil of Summer
 4 Chain of Vapor
 4 Nature's Claim
-1 True-Name Nemesis
-1 Sword of Fire and Ice
-1 Meddling Mage
-1 Disenchant
-1 Leonin Relic-Warder
-1 Swords to Plowshares
-2 True-Name Nemesis
-2 Swords to Plowshares
-3 True-Name Nemesis
-3 Swords to Plowshares
-4 Swords to Plowshares
+4 Veil of Summer
 1 Griselbrand
 1 Emrakul, the Aeons Torn
 1 Show and Tell

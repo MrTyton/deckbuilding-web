@@ -1,0 +1,23 @@
+# Arclight Phoenix
+
+#### [Export MTGO List](../collection/Arclight%20Phoenix/Arclight%20Phoenix.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Arclight%20Phoenix%0A2%09Badlands%0A3%09Bedlam%20Reveler%0A4%09Bloodstained%20Mire%0A4%09Chain%20Lightning%0A4%09Entomb%0A4%09Faithless%20Looting%0A3%09Fireblast%0A4%09Lava%20Dart%0A4%09Light%20Up%20the%20Stage%0A4%09Lightning%20Bolt%0A4%09Manamorphose%0A4%09Monastery%20Swiftspear%0A8%09Mountain%0A4%09Wooded%20Foothills&deckside=4%09Blistercoil%20Weird%0A3%09Price%20of%20Progress%0A2%09Searing%20Blaze%0A3%09Smash%20to%20Smithereens%0A3%09Tyrant's%20Choice)
+# Maindeck
+
+|                                          Creature (11)                                          |                                      Instant (19)                                       |                                          Land (18)                                           |                                         Sorcery (12)                                          |
+|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|4 [Arclight Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452841)    |4 [Entomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413629)      |2 [Badlands](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=878)            |4 [Chain Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446139)   |
+|3 [Bedlam Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414415)      |3 [Fireblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189239)   |4 [Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|4 [Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389512) |
+|4 [Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706)|4 [Lava Dart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29766)    |8 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)         |4 [Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)|
+|                                                                                                 |4 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806) |4 [Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116) |                                                                                               |
+|                                                                                                 |4 [Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)|                                                                                              |                                                                                               |
+
+
+# Sideboard
+
+|                                         Creature (4)                                         |                                           Instant (8)                                           |                                        Sorcery (3)                                         |
+|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+|4 [Blistercoil Weird](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=289222)|3 [Price of Progress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413683)   |3 [Tyrant's Choice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382391)|
+|                                                                                              |2 [Searing Blaze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270873)       |                                                                                            |
+|                                                                                              |3 [Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|                                                                                            |
+

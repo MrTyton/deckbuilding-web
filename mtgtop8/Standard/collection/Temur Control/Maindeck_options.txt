@@ -1,16 +1,16 @@
 2 Jolrael, Mwonvuli Recluse
 2 Opt
 3 Opt
-4 Steam Vents
 4 Opt
-1 Ral, Izzet Viceroy
-1 Shock
+4 Steam Vents
 1 Teferi, Master of Time
 1 Fire Prophecy
-1 Niv-Mizzet, Parun
-2 Shock
 2 Teferi, Master of Time
 2 Fire Prophecy
+1 Ral, Izzet Viceroy
+1 Shock
+1 Niv-Mizzet, Parun
+2 Shock
 2 Niv-Mizzet, Parun
 3 Shock
 4 Shock
@@ -18,18 +18,18 @@
 1 Temple of Epiphany
 2 Storm's Wrath
 3 Mountain
-1 Blast Zone
 3 Teferi, Master of Time
+1 Blast Zone
+1 Temple of Mystery
 1 Nightpack Ambusher
 2 Blast Zone
 3 Castle Vantress
-1 Temple of Mystery
 3 Aether Gust
+3 Jolrael, Mwonvuli Recluse
 1 Ionize
 2 Ionize
 3 Ionize
 2 Nightpack Ambusher
-3 Jolrael, Mwonvuli Recluse
 4 Mystical Dispute
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
@@ -52,6 +52,7 @@
 4 Raugrin Triome
 4 Teferi, Time Raveler
 4 Nissa, Who Shakes the World
+4 Island
 1 Commence the Endgame
 3 Hallowed Fountain
 1 Soul Sear
@@ -59,7 +60,6 @@
 1 Zagoth Triome
 2 Zagoth Triome
 3 Brazen Borrower
-4 Island
 4 Negate
 4 Aether Gust
 1 Scorching Dragonfire
@@ -75,8 +75,8 @@
 1 Genesis Ultimatum
 1 Cavalier of Thorns
 1 Ugin, the Spirit Dragon
-1 Finale of Devastation
 1 End-Raze Forerunners
+1 Finale of Devastation
 2 Genesis Ultimatum
 2 Cultivate
 2 Cavalier of Thorns
@@ -94,6 +94,34 @@
 2 Bonecrusher Giant
 2 Quench
 4 Brazen Borrower
+1 Cragcrown Pathway
+1 Sea Gate Restoration
+1 Bala Ged Recovery
+1 Neutralize
+1 Spikefield Hazard
+1 Riverglide Pathway
+1 Improbable Alliance
+1 Irencrag Pyromancer
+2 Cragcrown Pathway
+2 Spikefield Hazard
+2 Irencrag Pyromancer
+2 Bala Ged Recovery
+2 Neutralize
+2 Riverglide Pathway
+2 Improbable Alliance
+3 Riverglide Pathway
+3 Cragcrown Pathway
+3 Neutralize
+3 Fire Prophecy
+3 Irencrag Pyromancer
+3 Improbable Alliance
+4 Riverglide Pathway
+4 Cragcrown Pathway
+4 Neutralize
+4 Fire Prophecy
+4 Irencrag Pyromancer
+4 Teferi, Master of Time
+4 Improbable Alliance
 1 Go for Blood
 1 Startling Development
 1 Boon of the Wish-Giver

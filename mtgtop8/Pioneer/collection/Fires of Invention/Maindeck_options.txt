@@ -85,8 +85,8 @@
 1 Drowned Catacomb
 1 Swamp
 2 Nicol Bolas, the Ravager
-2 Dragonskull Summit
 2 Blood Crypt
+2 Dragonskull Summit
 2 Dreadbore
 2 Watery Grave
 2 Drowned Catacomb
@@ -99,15 +99,15 @@
 3 Oath of Chandra
 2 Nahiri, the Harbinger
 4 Agent of Treachery
-1 Teferi, Master of Time
-3 Wandering Fumarole
-4 Transmogrify
 1 Oath of Teferi
 1 Day's Undoing
 2 Day's Undoing
 3 Chance for Glory
 3 Glacial Fortress
 4 Fae of Wishes
+1 Teferi, Master of Time
+3 Wandering Fumarole
+4 Transmogrify
 1 Karn, the Great Creator
 1 Savai Triome
 2 Savai Triome
@@ -117,30 +117,30 @@
 4 Omen of the Sun
 4 Island
 1 Fetid Pools
-1 Sweltering Suns
 1 Canyon Slough
+1 Sweltering Suns
 1 Kalitas, Traitor of Ghet
 1 Fatal Push
 1 Thought Erasure
 1 Aetherling
 2 Canyon Slough
+2 Sweltering Suns
 2 Search for Azcanta
 2 Kalitas, Traitor of Ghet
-2 Sweltering Suns
 2 Fatal Push
 2 Thought Erasure
 3 Fatal Push
 3 Thought Erasure
-3 Dragonskull Summit
-3 Sweltering Suns
 3 Jace, Architect of Thought
+3 Sweltering Suns
+3 Dragonskull Summit
 3 Dreadbore
 4 Fatal Push
 4 Thought Erasure
+4 Sweltering Suns
 4 Dragonskull Summit
 4 Blood Crypt
 4 Drowned Catacomb
-4 Sweltering Suns
 4 Watery Grave
 1 Mazemind Tome
 2 Mazemind Tome
@@ -148,13 +148,13 @@
 4 Mazemind Tome
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-1 Soul-Scar Mage
 1 Omen of the Forge
+1 Soul-Scar Mage
 1 Pia and Kiran Nalaar
 1 Inspiring Vantage
 1 Mutavault
-1 Castle Embereth
 1 Kari Zev, Skyship Raider
+1 Castle Embereth
 1 Siege-Gang Commander
 1 Anax, Hardened in the Forge
 1 Battlefield Forge
@@ -162,8 +162,8 @@
 1 Earthshaker Khenra
 1 Goblin Rabblemaster
 1 Wild Slash
-2 Soul-Scar Mage
 2 Omen of the Forge
+2 Soul-Scar Mage
 2 Pia and Kiran Nalaar
 2 Inspiring Vantage
 2 Siege-Gang Commander
@@ -173,29 +173,31 @@
 2 Anax, Hardened in the Forge
 2 Battlefield Forge
 2 Purphoros, God of the Forge
-2 Castle Embereth
 2 Earthshaker Khenra
+2 Castle Embereth
 2 Goblin Rabblemaster
 2 Wild Slash
 3 Mountain
 3 Bonecrusher Giant
-3 Soul-Scar Mage
 3 Omen of the Forge
-3 Inspiring Vantage
+3 Soul-Scar Mage
 3 Anax, Hardened in the Forge
+3 Inspiring Vantage
 3 Siege-Gang Commander
 3 Purphoros, God of the Forge
 3 Needle Spires
+3 Clifftop Retreat
 3 Pia and Kiran Nalaar
 3 Battlefield Forge
-3 Clifftop Retreat
 3 Earthshaker Khenra
 3 Mutavault
-3 Goblin Rabblemaster
 3 Wild Slash
+3 Goblin Rabblemaster
 4 Bonecrusher Giant
-4 Omen of the Forge
+4 Wild Slash
+4 Mountain
 4 Soul-Scar Mage
+4 Omen of the Forge
 4 Clifftop Retreat
 4 Anax, Hardened in the Forge
 4 Siege-Gang Commander
@@ -203,9 +205,7 @@
 4 Earthshaker Khenra
 4 Inspiring Vantage
 4 Mutavault
-4 Mountain
 4 Goblin Rabblemaster
-4 Wild Slash
 5 Mountain
 6 Mountain
 7 Mountain
@@ -223,18 +223,18 @@
 1 Ashiok, Nightmare Muse
 1 Heartless Act
 1 Atris, Oracle of Half-Truths
+1 Mastermind's Acquisition
 1 Temple of Deceit
 1 Nicol Bolas, Dragon-God
 1 Temple of Malice
 1 Thoughtseize
-1 Mastermind's Acquisition
 1 The Scarab God
 2 Swamp
+2 Mastermind's Acquisition
 2 Atris, Oracle of Half-Truths
 2 Nicol Bolas, Dragon-God
 2 Heartless Act
 2 Thoughtseize
-2 Mastermind's Acquisition
 3 Nicol Bolas, the Ravager
 3 Thoughtseize
 4 Nicol Bolas, the Ravager
