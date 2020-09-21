@@ -1,0 +1,37 @@
+# Mono-Red Aggro
+
+#### [Export MTGO List](../collection/Mono-Red%20Aggro/Mono-Red%20Aggro.txt)
+#### [Export Arena List](../collection/Mono-Red%20Aggro/Mono-Red%20Aggro_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Akoum%20Hellhound%0A4%09Anax,%20Hardened%20in%20the%20Forge%0A4%09Bonecrusher%20Giant%0A2%09Castle%20Embereth%0A4%09Embercleave%0A4%09Fervent%20Champion%0A4%09Kargan%20Intimidator%0A17%09Mountain%0A1%09Rimrock%20Knight%0A4%09Robber%20of%20the%20Rich%0A2%09Roil%20Eruption%0A2%09Shatterskull%20Smashing%0A4%09Shock%0A2%09Spikefield%20Hazard%0A2%09Torbran,%20Thane%20of%20Red%20Fell&deckside=2%09Claim%20the%20Firstborn%0A2%09Embereth%20Shieldbreaker%0A2%09Redcap%20Melee%0A2%09Relic%20Robber%0A3%09Roiling%20Vortex%0A2%09Spikefield%20Hazard%0A2%09Thundering%20Rebuke)
+# Maindeck
+
+|                                      Artifact (4)                                      |                                             Creature (19)                                              |                                   Instant (4)                                    |                                         Land (19)                                          |     Unknown (14)      |
+|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-----------------------|
+|4 [Embercleave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473082)|4 [Anax, Hardened in the Forge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476376)|4 [Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)|2 [Castle Embereth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473201)|4 Akoum Hellhound      |
+|                                                                                        |4 [Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)          |                                                                                  |17 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)      |4 Kargan Intimidator   |
+|                                                                                        |4 [Fervent Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473086)           |                                                                                  |                                                                                            |2 Roil Eruption        |
+|                                                                                        |1 [Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)             |                                                                                  |                                                                                            |2 Shatterskull Smashing|
+|                                                                                        |4 [Robber of the Rich](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473100)         |                                                                                  |                                                                                            |2 Spikefield Hazard    |
+|                                                                                        |2 [Torbran, Thane of Red Fell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473109) |                                                                                  |                                                                                            |                       |
+
+
+# Sideboard
+
+|                                           Creature (2)                                            |                                       Instant (2)                                       |                                          Sorcery (2)                                           |    Unknown (9)    |
+|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------|
+|2 [Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|2 [Redcap Melee](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473097)|2 [Claim the Firstborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473080)|2 Relic Robber     |
+|                                                                                                   |                                                                                         |                                                                                                |3 Roiling Vortex   |
+|                                                                                                   |                                                                                         |                                                                                                |2 Spikefield Hazard|
+|                                                                                                   |                                                                                         |                                                                                                |2 Thundering Rebuke|
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
+|                    2|[Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099) |                    1|[Phoenix of Ash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476399)|
+|                    3|[Castle Embereth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473201)|                    2|[Phoenix of Ash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476399)|
+|                    4|[Castle Embereth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473201)|                    3|Thundering Rebuke                                                                        |
+|                     |                                                                                          |                    4|Roiling Vortex                                                                           |
+|                     |                                                                                          |                    3|[Redcap Melee](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473097)  |
+

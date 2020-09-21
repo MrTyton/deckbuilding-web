@@ -1,17 +1,17 @@
+1 Uro, Titan of Nature's Wrath
 1 Island
 1 Fabled Passage
-1 Plains
-2 Fabled Passage
-3 Fabled Passage
-4 Fabled Passage
-1 Swamp
-1 Uro, Titan of Nature's Wrath
 1 Breeding Pool
+1 Plains
 1 Forest
+2 Fabled Passage
 2 Uro, Titan of Nature's Wrath
+3 Fabled Passage
 3 Uro, Titan of Nature's Wrath
 4 Uro, Titan of Nature's Wrath
+4 Fabled Passage
 1 Zagoth Triome
+1 Swamp
 2 Zagoth Triome
 2 Breeding Pool
 3 Breeding Pool
@@ -24,45 +24,45 @@
 1 Overgrown Tomb
 1 Shark Typhoon
 2 Shark Typhoon
-2 Island
 1 Temple Garden
-2 Plains
 1 Ketria Triome
 2 Ketria Triome
 1 Castle Locthwain
 2 Eliminate
 2 Oath of Kaya
+2 Island
 3 Eliminate
 3 Indatha Triome
 4 Indatha Triome
-1 Kenrith, the Returned King
-1 Brazen Borrower
-2 Brazen Borrower
-1 Mountain
+2 Overgrown Tomb
+3 Overgrown Tomb
 1 Omen of the Sea
 2 Omen of the Sea
+2 Plains
 2 Temple Garden
 3 Omen of the Sea
 3 Temple Garden
 4 Omen of the Sea
 4 Temple Garden
-2 Overgrown Tomb
-3 Overgrown Tomb
-1 Jolrael, Mwonvuli Recluse
-2 Jolrael, Mwonvuli Recluse
-2 Forest
 1 Growth Spiral
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
+1 Jolrael, Mwonvuli Recluse
+2 Jolrael, Mwonvuli Recluse
+2 Forest
+1 Kenrith, the Returned King
+1 Brazen Borrower
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
+2 Brazen Borrower
 3 Ketria Triome
 3 Nissa, Who Shakes the World
 4 Ketria Triome
 1 Yorion, Sky Nomad
 1 Vraska, Golgari Queen
 1 Hydroid Krasis
+1 Mountain
 1 Solemn Simulacrum
 1 Mazemind Tome
 1 Doom Foretold
@@ -86,11 +86,6 @@
 4 Shark Typhoon
 4 Agonizing Remorse
 4 Oath of Kaya
-3 Brazen Borrower
-1 Justice Strike
-1 Steam Vents
-1 Sacred Foundry
-2 Raugrin Triome
 1 Llanowar Visionary
 1 Temple of Plenty
 1 Temple of Enlightenment
@@ -123,59 +118,33 @@
 1 Knight of Autumn
 1 Casualties of War
 1 Tolsimir, Friend to Wolves
+1 Steam Vents
 1 Solar Blaze
 1 Deafening Clarion
 1 Niv-Mizzet Reborn
 1 Time Wipe
 1 Radha, Heart of Keld
+1 Sacred Foundry
+1 Justice Strike
 1 March of the Multitudes
 1 Expansion / Explosion
 2 Arboreal Grazer
 2 Niv-Mizzet Reborn
 2 Deafening Clarion
+2 Raugrin Triome
 3 Arboreal Grazer
 3 Niv-Mizzet Reborn
 3 Deafening Clarion
 4 Niv-Mizzet Reborn
 4 Arboreal Grazer
-1 God-Eternal Kefnet
-1 Scorching Dragonfire
-1 The Royal Scions
-1 Lavabrink Venturer
-1 Seasoned Hallowblade
-1 Aurelia, Exemplar of Justice
-1 Storm's Wrath
-1 Dream Trawler
-2 Kenrith, the Returned King
-2 The Royal Scions
-2 Lavabrink Venturer
-2 Scorching Dragonfire
-2 Storm's Wrath
-2 Aurelia, Exemplar of Justice
-2 Dream Trawler
-2 Seasoned Hallowblade
-2 Steam Vents
-2 Sacred Foundry
-2 Mountain
-2 Justice Strike
-3 Scorching Dragonfire
-3 Lavabrink Venturer
-3 Raugrin Triome
-3 Seasoned Hallowblade
-3 Steam Vents
-3 Aurelia, Exemplar of Justice
-4 Steam Vents
-4 Lavabrink Venturer
-4 Scorching Dragonfire
-4 Raugrin Triome
-4 Seasoned Hallowblade
-1 Primal Might
 1 Negate
+1 Primal Might
 1 Lazav, the Multifarious
 2 Negate
 2 Primal Might
 2 Lazav, the Multifarious
 3 Negate
+3 Brazen Borrower
 3 Lazav, the Multifarious
 3 Primal Might
 4 Nissa, Who Shakes the World

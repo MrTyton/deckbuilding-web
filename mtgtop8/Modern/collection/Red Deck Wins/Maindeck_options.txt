@@ -1,18 +1,19 @@
 3 Arid Mesa
 4 Arid Mesa
-1 Soul-Scar Mage
+3 Bloodstained Mire
 1 Lava Dart
+1 Soul-Scar Mage
 2 Lava Dart
 2 Soul-Scar Mage
 3 Lava Dart
 4 Lava Dart
+4 Mountain
 3 Soul-Scar Mage
 4 Soul-Scar Mage
 1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
 4 Light Up the Stage
-4 Mountain
 5 Mountain
 6 Mountain
 7 Mountain
@@ -24,19 +25,19 @@
 13 Mountain
 14 Mountain
 3 Wooded Foothills
-1 Firebolt
-2 Firebolt
+3 Skullcrack
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
 4 Manamorphose
-3 Bloodstained Mire
+1 Firebolt
+2 Firebolt
+4 Bloodstained Mire
 1 Crash Through
 2 Crash Through
 3 Crash Through
 4 Crash Through
 2 Fiery Islet
-3 Skullcrack
 3 Lightning Helix
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
@@ -49,33 +50,25 @@
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 2 Seasoned Pyromancer
-3 Firebolt
-3 Seasoned Pyromancer
 3 Bonecrusher Giant
+3 Seasoned Pyromancer
+3 Firebolt
 4 Bonecrusher Giant
-4 Firebolt
 4 Seasoned Pyromancer
+4 Firebolt
 15 Mountain
 16 Mountain
 17 Mountain
 1 Bedlam Reveler
 2 Bedlam Reveler
 3 Bedlam Reveler
-1 Seal of Fire
-2 Seal of Fire
-3 Seal of Fire
-4 Seal of Fire
-4 Bloodstained Mire
 1 Scalding Tarn
 1 Runaway Steam-Kin
 1 Gut Shot
-2 Runaway Steam-Kin
 2 Gut Shot
+2 Runaway Steam-Kin
 3 Runaway Steam-Kin
-1 Chandra's Incinerator
-2 Chandra's Incinerator
-3 Chandra's Incinerator
-4 Chandra's Incinerator
+4 Skullcrack
 1 Burst Lightning
 2 Burst Lightning
 1 Flame Slash
@@ -86,8 +79,12 @@
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
-1 Kiln Fiend
+1 Seal of Fire
+2 Seal of Fire
+3 Seal of Fire
+4 Seal of Fire
 1 Abbot of Keral Keep
+1 Kiln Fiend
 2 Kiln Fiend
 2 Abbot of Keral Keep
 3 Kiln Fiend
@@ -100,25 +97,28 @@
 4 Burst Lightning
 3 Flame Slash
 4 Flame Slash
+4 Lightning Helix
 1 Wild Slash
 2 Wild Slash
 4 Bedlam Reveler
 4 Wooded Foothills
-4 Lightning Helix
-4 Skullcrack
+1 Chandra's Incinerator
+2 Chandra's Incinerator
+3 Chandra's Incinerator
+4 Chandra's Incinerator
 1 Temur Battle Rage
+1 Mutagenic Growth
+1 Blackcleave Cliffs
 1 Thoughtseize
 1 Blood Crypt
-1 Blackcleave Cliffs
-1 Mutagenic Growth
 2 Temur Battle Rage
-2 Thoughtseize
-2 Blood Crypt
 2 Mutagenic Growth
+2 Blood Crypt
+2 Thoughtseize
 2 Blackcleave Cliffs
-3 Blackcleave Cliffs
-3 Thoughtseize
-4 Kiln Fiend
-4 Blackcleave Cliffs
-4 Mutagenic Growth
 3 Mutagenic Growth
+3 Blackcleave Cliffs
+4 Kiln Fiend
+4 Mutagenic Growth
+4 Blackcleave Cliffs
+3 Thoughtseize

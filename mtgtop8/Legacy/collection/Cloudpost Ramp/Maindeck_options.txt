@@ -12,8 +12,8 @@
 1 Maze of Ith
 2 Forest
 3 Forest
-4 Crop Rotation
 4 Forest
+4 Crop Rotation
 1 Warping Wail
 2 Warping Wail
 1 Expedition Map
@@ -99,8 +99,8 @@
 1 Buried Ruin
 1 Sphere of Resistance
 1 Mystic Forge
-2 Stonecoil Serpent
 2 Ensnaring Bridge
+2 Stonecoil Serpent
 2 Mystic Forge
 2 Sphere of Resistance
 3 Stonecoil Serpent
@@ -116,13 +116,6 @@
 3 Matter Reshaper
 3 Reality Smasher
 4 Matter Reshaper
-1 Sylvan Scrying
-1 From Beyond
-2 Hour of Promise
-2 Boompile
-3 Hour of Promise
-4 Vesuva
-9 Forest
 1 Tropical Island
 1 Stifle
 1 Uro, Titan of Nature's Wrath
@@ -161,3 +154,10 @@
 3 Unbound Flourishing
 4 Misty Rainforest
 4 Brainstorm
+1 Sylvan Scrying
+1 From Beyond
+2 Hour of Promise
+2 Boompile
+3 Hour of Promise
+4 Vesuva
+9 Forest

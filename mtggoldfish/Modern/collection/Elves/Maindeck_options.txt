@@ -47,8 +47,8 @@
 7 Forest
 8 Forest
 9 Forest
-1 Verdant Catacombs
 1 Windswept Heath
+1 Verdant Catacombs
 1 Wooded Foothills
 1 Razorverge Thicket
 1 Joraga Treespeaker
@@ -79,18 +79,6 @@
 2 Llanowar Visionary
 3 Llanowar Visionary
 4 Llanowar Visionary
-1 Stoneforge Mystic
-1 Batterskull
-1 Noble Hierarch
-2 Wooded Foothills
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-3 Wooded Foothills
-3 Joraga Treespeaker
-4 Stoneforge Mystic
-4 Leyline of Abundance
-4 Wooded Foothills
-4 Joraga Treespeaker
 1 Shalai, Voice of Plenty
 1 Selfless Spirit
 1 Mirror Entity
@@ -101,6 +89,24 @@
 3 Windswept Heath
 3 Umbral Mantle
 4 Umbral Mantle
+1 Gilt-Leaf Archdruid
+2 Gilt-Leaf Archdruid
+3 Gilt-Leaf Archdruid
+3 Elves of Deep Shadow
+4 Elves of Deep Shadow
+4 Gilt-Leaf Archdruid
+1 Batterskull
+1 Noble Hierarch
+1 Stoneforge Mystic
+2 Wooded Foothills
+2 Stoneforge Mystic
+3 Wooded Foothills
+3 Stoneforge Mystic
+3 Joraga Treespeaker
+4 Leyline of Abundance
+4 Wooded Foothills
+4 Joraga Treespeaker
+4 Stoneforge Mystic
 1 Arbor Elf
 2 Arbor Elf
 3 Arbor Elf
@@ -110,14 +116,8 @@
 11 Forest
 12 Forest
 13 Forest
-14 Forest
 15 Forest
 16 Forest
 17 Forest
 18 Forest
-1 Gilt-Leaf Archdruid
-2 Gilt-Leaf Archdruid
-3 Gilt-Leaf Archdruid
-3 Elves of Deep Shadow
-4 Elves of Deep Shadow
-4 Gilt-Leaf Archdruid
+14 Forest

@@ -1,18 +1,21 @@
-1 Gavony Township
-1 Chord of Calling
-4 Birds of Paradise
-3 Eladamri's Call
-1 Wooded Foothills
-2 Wooded Foothills
+2 Finale of Devastation
+4 Ranger-Captain of Eos
+3 Verdant Catacombs
 3 Horizon Canopy
-1 Eldritch Evolution
+1 Wooded Foothills
 1 Scavenging Ooze
+3 Eladamri's Call
+2 Wooded Foothills
+4 Vizier of Remedies
+1 Eldritch Evolution
+3 Temple Garden
 2 Chord of Calling
+1 Eternal Witness
 2 Eldritch Evolution
-3 Eldritch Evolution
 3 Chord of Calling
 4 Chord of Calling
 3 Forest
+3 Eldritch Evolution
 1 Strangleroot Geist
 2 Strangleroot Geist
 3 Strangleroot Geist
@@ -48,8 +51,9 @@
 4 Wall of Roots
 1 Gilded Goose
 2 Gilded Goose
-4 Forest
 3 Wooded Foothills
+4 Forest
+1 Knight of Autumn
 2 Plains
 1 Elves of Deep Shadow
 1 Zulaport Cutthroat
@@ -59,17 +63,17 @@
 3 Nurturing Peatland
 3 Overgrown Tomb
 4 Blooming Marsh
-4 Vizier of Remedies
+1 Duskwatch Recruiter
 1 Marsh Flats
 1 Pendelhaven
-1 Carrion Feeder
 4 Verdant Catacombs
-1 Eternal Witness
-3 Temple Garden
-1 Selfless Savior
+1 Carrion Feeder
+1 Swamp
 3 Giver of Runes
 4 Giver of Runes
-1 Knight of Autumn
+1 Selfless Savior
+2 Scavenging Ooze
+2 Duskwatch Recruiter
 4 Spike Feeder
 1 Utopia Sprawl
 2 Utopia Sprawl
@@ -77,7 +81,7 @@
 4 Utopia Sprawl
 1 Stomping Ground
 4 Wooded Foothills
-2 Scavenging Ooze
+2 Eternal Witness
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
@@ -86,8 +90,8 @@
 1 Voice of Resurgence
 1 Seasoned Pyromancer
 1 Magus of the Moon
-2 Stomping Ground
 2 Seasoned Pyromancer
+2 Stomping Ground
 2 Voice of Resurgence
 3 Seasoned Pyromancer
 3 Voice of Resurgence
@@ -109,7 +113,6 @@
 2 Arid Mesa
 2 Wall of Blossoms
 2 Prismatic Vista
-2 Eternal Witness
 2 Restoration Angel
 2 Stoneforge Mystic
 2 Path to Exile
@@ -120,16 +123,15 @@
 3 Stoneforge Mystic
 4 Voice of Resurgence
 4 Path to Exile
-4 Snow-Covered Forest
 4 Restoration Angel
+4 Snow-Covered Forest
 4 Stoneforge Mystic
-1 Duskwatch Recruiter
 1 Postmortem Lunge
 2 Postmortem Lunge
+1 Sunpetal Grove
 1 Spellskite
 1 Mishra's Bauble
 2 Mishra's Bauble
-2 Duskwatch Recruiter
 3 Finale of Devastation
 3 Mishra's Bauble
 3 Postmortem Lunge
@@ -138,7 +140,6 @@
 4 Finale of Devastation
 4 Mishra's Bauble
 1 Lurrus of the Dream-Den
-1 Swamp
 1 Lightning Bolt
 2 Lightning Bolt
 1 Hardened Scales
@@ -159,7 +160,6 @@
 2 Grove of the Burnwillows
 2 Knight of Autumn
 3 Grove of the Burnwillows
-1 Sunpetal Grove
 1 Flame Slash
 2 Snow-Covered Plains
 3 Misty Rainforest
@@ -169,19 +169,29 @@
 1 Anafenza, Kin-Tree Spirit
 2 Lurrus of the Dream-Den
 3 Plains
+1 Shalai, Voice of Plenty
+1 Rhonas the Indomitable
+2 Gavony Township
+2 Sunpetal Grove
+3 Duskwatch Recruiter
+4 Kitchen Finks
+1 Blood Artist
+1 Aether Vial
+2 Aether Vial
+4 Twilight Mire
 1 Raugrin Triome
 1 Ketria Triome
-1 Waterlogged Grove
-1 Prophetic Ravings
 1 Flooded Strand
 1 Neoform
 1 Shimmer of Possibility
 1 Breeding Pool
+1 Prophetic Ravings
 1 Manamorphose
+1 Waterlogged Grove
 2 Prophetic Ravings
-2 Neoform
 2 Shimmer of Possibility
 2 Manamorphose
+2 Neoform
 3 Manamorphose
 3 Neoform
 3 Prophetic Ravings
@@ -189,10 +199,6 @@
 4 Neoform
 4 Prophetic Ravings
 4 Shimmer of Possibility
-1 Blood Artist
-1 Aether Vial
-2 Aether Vial
-4 Twilight Mire
 2 Auriok Champion
 3 Scavenging Ooze
 5 Forest
@@ -208,11 +214,11 @@
 2 Winota, Joiner of Forces
 2 Copperline Gorge
 3 Stomping Ground
+3 Winota, Joiner of Forces
 3 Angrath's Marauders
 3 Copperline Gorge
-3 Winota, Joiner of Forces
 3 Lightning Bolt
 4 Angrath's Marauders
-4 Copperline Gorge
 4 Winota, Joiner of Forces
+4 Copperline Gorge
 4 Lightning Bolt

@@ -126,12 +126,8 @@
 3 Plains
 4 Plains
 5 Plains
-1 Thoughtseize
-2 Thoughtseize
 1 Ajani, Adversary of Tyrants
 2 Ajani, Adversary of Tyrants
-4 Watery Grave
-1 Urborg, Tomb of Yawgmoth
 1 Mutavault
 2 Mutavault
 1 Fortified Village
@@ -139,35 +135,13 @@
 2 Fortified Village
 4 Elvish Mystic
 4 Llanowar Elves
+1 Urborg, Tomb of Yawgmoth
+1 Thoughtseize
+2 Thoughtseize
 1 Courser of Kruphix
 2 Courser of Kruphix
 3 Courser of Kruphix
-1 Drowned Catacomb
-2 Drowned Catacomb
-3 Drowned Catacomb
-4 Drowned Catacomb
-1 Drown in the Loch
-1 Glint-Sleeve Siphoner
-1 Castle Locthwain
-1 Fatal Push
-1 Murderous Rider
-2 Swamp
-2 Glint-Sleeve Siphoner
-2 Drown in the Loch
-2 Fatal Push
-2 Murderous Rider
-2 Castle Locthwain
-3 Glint-Sleeve Siphoner
-3 Drown in the Loch
-3 Swamp
-3 Fatal Push
-3 Thoughtseize
-3 Murderous Rider
-4 Glint-Sleeve Siphoner
-4 Thoughtseize
-4 Fatal Push
-1 Godless Shrine
-2 Godless Shrine
+4 Watery Grave
 1 Niambi, Esteemed Speaker
 1 Dire Tactics
 1 Kytheon, Hero of Akros
@@ -177,8 +151,21 @@
 3 Dire Tactics
 3 Kytheon, Hero of Akros
 3 General's Enforcer
+1 Blisterpod
+2 Blisterpod
+3 Blisterpod
+4 Blisterpod
+1 Dragonskull Summit
+4 Blood Crypt
+1 Godless Shrine
+2 Godless Shrine
+1 Drowned Catacomb
+2 Drowned Catacomb
+3 Drowned Catacomb
+4 Drowned Catacomb
 1 Gifted Aetherborn
-1 Fetid Pools
+1 Drown in the Loch
+1 Glint-Sleeve Siphoner
 1 Aether Hub
 1 Ashiok, Nightmare Weaver
 1 Thief of Sanity
@@ -187,9 +174,15 @@
 1 Ashiok, Nightmare Muse
 1 Thought Erasure
 1 Collective Brutality
+1 Castle Locthwain
+1 Fetid Pools
+1 Fatal Push
 1 Kalitas, Traitor of Ghet
+1 Murderous Rider
 2 Gifted Aetherborn
-2 Fetid Pools
+2 Swamp
+2 Glint-Sleeve Siphoner
+2 Drown in the Loch
 2 Aether Hub
 2 Ashiok, Nightmare Weaver
 2 Thief of Sanity
@@ -197,20 +190,27 @@
 2 Atris, Oracle of Half-Truths
 2 Thought Erasure
 2 Collective Brutality
+2 Fatal Push
+2 Murderous Rider
 2 Kalitas, Traitor of Ghet
+2 Castle Locthwain
+2 Fetid Pools
+3 Glint-Sleeve Siphoner
+3 Drown in the Loch
 3 Aether Hub
 3 Fetid Pools
 3 Thief of Sanity
 3 Castle Locthwain
+3 Swamp
+3 Fatal Push
+3 Thoughtseize
+3 Murderous Rider
+4 Glint-Sleeve Siphoner
 4 Aether Hub
 4 Fetid Pools
 4 Thief of Sanity
-1 Blisterpod
-2 Blisterpod
-3 Blisterpod
-4 Blisterpod
-1 Dragonskull Summit
-4 Blood Crypt
+4 Thoughtseize
+4 Fatal Push
 1 Lurrus of the Dream-Den
 1 Militia Bugler
 1 Selfless Spirit
@@ -231,9 +231,9 @@
 1 Cast Out
 1 Sigil of the Empty Throne
 1 Calix, Destiny's Hand
-1 Banishing Light
 1 Alseid of Life's Bounty
 1 Temple of Plenty
+1 Banishing Light
 1 Starfield Mystic
 1 Setessan Champion
 1 Sphere of Safety
@@ -241,7 +241,6 @@
 1 Herald of the Pantheon
 2 Cast Out
 2 Field of Ruin
-2 Banishing Light
 2 Temple of Plenty
 2 Alseid of Life's Bounty
 2 Herald of the Pantheon
@@ -249,6 +248,7 @@
 2 Eidolon of Blossoms
 2 Calix, Destiny's Hand
 2 Starfield Mystic
+2 Banishing Light
 2 Sigil of the Empty Throne
 3 Setessan Champion
 3 Cast Out
@@ -365,26 +365,26 @@
 4 Hashep Oasis
 4 Rotting Regisaur
 4 Llanowar Wastes
-1 Island
-1 Brazen Borrower
-2 Brazen Borrower
 1 Irrigated Farmland
 1 Seasoned Hallowblade
 1 Sphinx's Revelation
 1 Nimble Obstructionist
-1 Supreme Verdict
 1 Toolcraft Exemplar
 1 Spell Pierce
 1 Glacial Fortress
 1 Gideon of the Trials
 1 Teferi, Time Raveler
+1 Supreme Verdict
 1 Chart a Course
+1 Island
+1 Brazen Borrower
 2 Irrigated Farmland
 2 Seasoned Hallowblade
 2 Teferi, Time Raveler
 2 Nimble Obstructionist
 2 Supreme Verdict
 2 Chart a Course
+2 Brazen Borrower
 2 Gideon of the Trials
 2 Glacial Fortress
 2 Toolcraft Exemplar
@@ -427,32 +427,6 @@
 4 Inspiring Vantage
 4 Mantis Rider
 4 Mutavault
-1 Choked Estuary
-1 Eliminate
-1 Thieves' Guild Enforcer
-1 Rankle, Master of Pranks
-1 Fabled Passage
-1 Mystical Dispute
-2 Choked Estuary
-2 Eliminate
-2 Thieves' Guild Enforcer
-2 Rankle, Master of Pranks
-2 Island
-2 Mystical Dispute
-2 Fabled Passage
-3 Eliminate
-3 Thieves' Guild Enforcer
-3 Rankle, Master of Pranks
-3 Fabled Passage
-3 Island
-3 Brazen Borrower
-4 Fabled Passage
-4 Thieves' Guild Enforcer
-4 Murderous Rider
-4 Swamp
-4 Brazen Borrower
-5 Swamp
-6 Swamp
 1 Brimaz, King of Oreskos
 1 Fleecemane Lion
 1 Kaheera, the Orphanguard
@@ -472,9 +446,9 @@
 2 Kaheera, the Orphanguard
 2 Adorned Pouncer
 2 Feline Sovereign
-2 Pride Sovereign
 2 Regal Caracal
 2 Animal Sanctuary
+2 Pride Sovereign
 2 Bronzehide Lion
 2 Leonin Vanguard
 3 Feline Sovereign

@@ -23,8 +23,8 @@
 1 Cragcrown Pathway
 2 Kazandu Mammoth
 2 Cragcrown Pathway
-3 Kazandu Mammoth
 3 Cragcrown Pathway
+3 Kazandu Mammoth
 4 Kazandu Mammoth
 4 Cragcrown Pathway
 1 Shatterskull Smashing
@@ -47,11 +47,11 @@
 2 Akoum Hellhound
 2 Brushfire Elemental
 3 Akoum Hellhound
-3 Brushfire Elemental
 3 Fabled Passage
+3 Brushfire Elemental
 4 Akoum Hellhound
-4 Brushfire Elemental
 4 Fabled Passage
+4 Brushfire Elemental
 1 Lotus Cobra
 2 Lotus Cobra
 3 Lotus Cobra
@@ -90,20 +90,23 @@
 1 Bonders' Enclave
 2 Embereth Shieldbreaker
 2 Gallia of the Endless Dance
-2 Chandra, Heart of Fire
-2 Domri, Anarch of Bolas
-3 Castle Embereth
 1 Roil Eruption
 2 Roil Eruption
 3 Roil Eruption
-1 Roiling Regrowth
-1 Spikefield Hazard
-2 Roiling Regrowth
-2 Spikefield Hazard
-3 Roiling Regrowth
-3 Spikefield Hazard
-4 Shatterskull Smashing
-4 Roiling Regrowth
+2 Chandra, Heart of Fire
+2 Domri, Anarch of Bolas
+3 Castle Embereth
+1 Skyclave Geopede
+1 Skyclave Pick-Axe
+2 Skyclave Geopede
+2 Skyclave Pick-Axe
+3 Skyclave Pick-Axe
+3 Migratory Greathorn
+4 Skyclave Pick-Axe
+4 Migratory Greathorn
+4 Gemrazer
+4 Paradise Druid
+4 Scavenging Ooze
 1 Grumgully, the Generous
 1 Gingerbrute
 1 Llanowar Visionary
@@ -133,19 +136,16 @@
 3 Bolt Hound
 3 Rugged Highlands
 4 Llanowar Visionary
-4 Wildwood Tracker
 4 Tin Street Dodger
 4 Gingerbrute
 4 Rugged Highlands
-1 Skyclave Pick-Axe
-1 Skyclave Geopede
-2 Skyclave Pick-Axe
-2 Skyclave Geopede
-3 Skyclave Pick-Axe
-3 Migratory Greathorn
-4 Skyclave Pick-Axe
-4 Migratory Greathorn
-4 Gemrazer
-4 Paradise Druid
-4 Scavenging Ooze
+4 Wildwood Tracker
+1 Roiling Regrowth
+1 Spikefield Hazard
+2 Roiling Regrowth
+2 Spikefield Hazard
+3 Spikefield Hazard
+3 Roiling Regrowth
+4 Shatterskull Smashing
+4 Roiling Regrowth
 4 Domri's Ambush
