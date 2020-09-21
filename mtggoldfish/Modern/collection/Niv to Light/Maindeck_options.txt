@@ -11,10 +11,10 @@
 1 Eladamri's Call
 1 Hallowed Fountain
 1 Unmoored Ego
+1 Plains
 1 Island
 1 Swamp
 1 Mountain
-1 Plains
 1 Forest
 2 Forest
 3 Uro, Titan of Nature's Wrath
@@ -53,8 +53,8 @@
 1 Opt
 1 Dreadbore
 1 Spell Queller
-1 Stoneforge Mystic
 1 Batterskull
+1 Stoneforge Mystic
 1 Sword of Fire and Ice
 1 Sword of Feast and Famine
 2 Stoneforge Mystic
@@ -81,10 +81,10 @@
 1 Sacred Foundry
 1 Flooded Strand
 1 Polluted Delta
+1 Knight of Autumn
 1 Drown in the Loch
 1 Growth Spiral
 1 Scalding Tarn
-1 Knight of Autumn
 2 Growth Spiral
 3 Growth Spiral
 4 Pillar of the Paruns
@@ -103,6 +103,9 @@
 1 Remand
 2 Remand
 3 Remand
+4 Uro, Titan of Nature's Wrath
+1 Bonecrusher Giant
+4 Wooded Foothills
 1 Mystic Sanctuary
 1 Zagoth Triome
 1 Lutri, the Spellchaser
@@ -110,20 +113,17 @@
 2 Mystic Sanctuary
 3 Opt
 4 Opt
-4 Uro, Titan of Nature's Wrath
-1 Bonecrusher Giant
-4 Wooded Foothills
 1 Thoughtseize
 2 Thoughtseize
-1 Fatal Push
-1 Rhox War Monk
-2 Fatal Push
-3 Fatal Push
-2 Terminate
-3 Force of Negation
-4 Force of Negation
 1 Marsh Flats
 2 Klothys, God of Destiny
 2 Marsh Flats
 3 Inquisition of Kozilek
 4 Inquisition of Kozilek
+2 Terminate
+3 Force of Negation
+4 Force of Negation
+1 Fatal Push
+1 Rhox War Monk
+2 Fatal Push
+3 Fatal Push

@@ -38,9 +38,9 @@
 |                    4|[The Birth of Meletis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476256)|                     |              |
 |                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                     |              |
 |                    4|[Shatter the Sky](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476288)     |                     |              |
+|                    4|Confounding Conundrum                                                                          |                     |              |
 |                    4|[Golden Egg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473182)          |                     |              |
 |                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)      |                     |              |
-|                    4|Confounding Conundrum                                                                          |                     |              |
 |                    4|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)     |                     |              |
 |                    4|Spare Supplies                                                                                 |                     |              |
 |                    4|[Doom Foretold](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473149)       |                     |              |

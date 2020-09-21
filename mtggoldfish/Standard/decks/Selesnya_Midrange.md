@@ -25,3 +25,25 @@
 |1 [The Ozolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479757) |2 [Giant Killer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472976)           |                  |
 |                                                                                         |2 [Lurrus of the Dream-Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479746)|                  |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[The Great Henge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123)   |                    1|Bala Ged Recovery                                                                            |
+|                    1|[Primal Might](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485520)      |                    1|Sejiri Shelter                                                                               |
+|                    1|Emeria's Call                                                                                |                    1|Felidar Retreat                                                                              |
+|                    1|Felidar Retreat                                                                              |                    1|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470)|
+|                    1|Khalni Ambush                                                                                |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)   |
+|                    1|Sejiri Shelter                                                                               |                    1|[Cubwarden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479527)         |
+|                    2|[The Great Henge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123)   |                    2|[Cubwarden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479527)         |
+|                    2|Sejiri Shelter                                                                               |                    4|Archon of Emeria                                                                             |
+|                    2|Emeria's Call                                                                                |                     |                                                                                             |
+|                    2|[Primal Might](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485520)      |                     |                                                                                             |
+|                    2|Khalni Ambush                                                                                |                     |                                                                                             |
+|                    3|[The Great Henge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123)   |                     |                                                                                             |
+|                    4|[Basri's Lieutenant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488904)|                     |                                                                                             |
+|                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                     |                                                                                             |
+|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                     |                                                                                             |
+|                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                     |                                                                                             |
+

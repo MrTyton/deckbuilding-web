@@ -42,7 +42,7 @@
 |[Balance](./mtgtop8/Modern/decks/Balance.md)                    |[Gruul Utopia](./mtgtop8/Modern/decks/Gruul_Utopia.md)            |[Merfolk](./mtgtop8/Modern/decks/Merfolk.md)                      |[Smallpox](./mtgtop8/Modern/decks/Smallpox.md)              |[Urza](./mtgtop8/Modern/decks/Urza.md)                |
 |[Bant Aggro](./mtgtop8/Modern/decks/Bant_Aggro.md)              |[Hardened Scales](./mtgtop8/Modern/decks/Hardened_Scales.md)      |[Mono Black Control](./mtgtop8/Modern/decks/Mono_Black_Control.md)|[Spirit Aggro](./mtgtop8/Modern/decks/Spirit_Aggro.md)      |[Valakut](./mtgtop8/Modern/decks/Valakut.md)          |
 |[Bant Control](./mtgtop8/Modern/decks/Bant_Control.md)          |[Hatebear](./mtgtop8/Modern/decks/Hatebear.md)                    |[Mono Red Control](./mtgtop8/Modern/decks/Mono_Red_Control.md)    |[Temur Control](./mtgtop8/Modern/decks/Temur_Control.md)    |[Weenie White](./mtgtop8/Modern/decks/Weenie_White.md)|
-|[Boros](./mtgtop8/Modern/decks/Boros.md)                        |[Hollow One](./mtgtop8/Modern/decks/Hollow_One.md)                |[Niv-Mizzet Reborn](./mtgtop8/Modern/decks/Niv-Mizzet_Reborn.md)  |[The Rock](./mtgtop8/Modern/decks/The_Rock.md)              |                                                      |
+|[Boros](./mtgtop8/Modern/decks/Boros.md)                        |[Hollow One](./mtgtop8/Modern/decks/Hollow_One.md)                |[Niv-Mizzet Reborn](./mtgtop8/Modern/decks/Niv-Mizzet_Reborn.md)  |[The Rock](./mtgtop8/Modern/decks/The_Rock.md)              |[Zoo](./mtgtop8/Modern/decks/Zoo.md)                  |
 |[CopyCat](./mtgtop8/Modern/decks/CopyCat.md)                    |[Humans](./mtgtop8/Modern/decks/Humans.md)                        |[Orzhov Midrange](./mtgtop8/Modern/decks/Orzhov_Midrange.md)      |[Tokens](./mtgtop8/Modern/decks/Tokens.md)                  |                                                      |
 |[Creatures Toolbox](./mtgtop8/Modern/decks/Creatures_Toolbox.md)|[Infect](./mtgtop8/Modern/decks/Infect.md)                        |[Other - Aggro](./mtgtop8/Modern/decks/Other_-_Aggro.md)          |[Twin Exarch](./mtgtop8/Modern/decks/Twin_Exarch.md)        |                                                      |
 |[Death's Shadow](./mtgtop8/Modern/decks/Death's_Shadow.md)      |[Instant Reanimator](./mtgtop8/Modern/decks/Instant_Reanimator.md)|[Other - Combo](./mtgtop8/Modern/decks/Other_-_Combo.md)          |[UB Mill](./mtgtop8/Modern/decks/UB_Mill.md)                |                                                      |
@@ -66,4 +66,4 @@
 
 
 
-#### Last Updated at 03:04AM on September 21, 2020
+#### Last Updated at 01:59PM on September 21, 2020
