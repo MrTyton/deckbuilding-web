@@ -1,20 +1,25 @@
+4 Noble Hierarch
+2 Plains
 1 Scavenging Ooze
-3 Horizon Canopy
+1 Wooded Foothills
 1 Gavony Township
 3 Temple Garden
-2 Plains
-1 Wooded Foothills
-1 Chord of Calling
-3 Verdant Catacombs
 1 Eldritch Evolution
+3 Eladamri's Call
+1 Chord of Calling
+1 Duskwatch Recruiter
+4 Vizier of Remedies
+2 Wooded Foothills
+3 Wooded Foothills
+3 Verdant Catacombs
 1 Eternal Witness
 2 Chord of Calling
 3 Forest
+2 Eldritch Evolution
 3 Chord of Calling
 4 Chord of Calling
-2 Eldritch Evolution
-4 Forest
 3 Eldritch Evolution
+4 Forest
 1 Strangleroot Geist
 2 Strangleroot Geist
 3 Strangleroot Geist
@@ -48,9 +53,6 @@
 4 Young Wolf
 4 Yawgmoth, Thran Physician
 4 Wall of Roots
-2 Wooded Foothills
-3 Wooded Foothills
-3 Eladamri's Call
 1 Gilded Goose
 2 Gilded Goose
 1 Elves of Deep Shadow
@@ -61,33 +63,6 @@
 3 Nurturing Peatland
 3 Overgrown Tomb
 4 Blooming Marsh
-1 Marsh Flats
-1 Pendelhaven
-1 Duskwatch Recruiter
-4 Vizier of Remedies
-4 Spike Feeder
-4 Verdant Catacombs
-1 Knight of Autumn
-1 Swamp
-1 Utopia Sprawl
-2 Utopia Sprawl
-3 Utopia Sprawl
-4 Utopia Sprawl
-2 Scavenging Ooze
-1 Hardened Scales
-1 Conclave Mentor
-1 Auriok Champion
-2 Hardened Scales
-2 Conclave Mentor
-3 Conclave Mentor
-4 Temple Garden
-4 Conclave Mentor
-2 Duskwatch Recruiter
-4 Wooded Foothills
-1 Arbor Elf
-2 Arbor Elf
-3 Arbor Elf
-4 Arbor Elf
 1 Postmortem Lunge
 2 Postmortem Lunge
 1 Spellskite
@@ -102,6 +77,32 @@
 4 Postmortem Lunge
 4 Finale of Devastation
 4 Mishra's Bauble
+1 Marsh Flats
+1 Pendelhaven
+4 Spike Feeder
+4 Verdant Catacombs
+1 Knight of Autumn
+2 Duskwatch Recruiter
+1 Swamp
+1 Utopia Sprawl
+2 Utopia Sprawl
+3 Utopia Sprawl
+4 Utopia Sprawl
+2 Scavenging Ooze
+1 Hardened Scales
+1 Conclave Mentor
+1 Auriok Champion
+2 Hardened Scales
+2 Conclave Mentor
+3 Conclave Mentor
+4 Temple Garden
+4 Conclave Mentor
+4 Wooded Foothills
+1 Misty Rainforest
+1 Arbor Elf
+2 Arbor Elf
+3 Arbor Elf
+4 Arbor Elf
 1 Carrion Feeder
 2 Auriok Champion
 1 Anafenza, Kin-Tree Spirit
@@ -110,7 +111,6 @@
 1 Stomping Ground
 1 Selfless Savior
 1 Prismatic Vista
-1 Misty Rainforest
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
@@ -130,8 +130,8 @@
 1 Arid Mesa
 1 Sacred Foundry
 1 Wall of Blossoms
-1 Flame Slash
 1 Sunbaked Canyon
+1 Flame Slash
 1 Kiki-Jiki, Mirror Breaker
 1 Restoration Angel
 1 Eidolon of Rhetoric
@@ -161,6 +161,7 @@
 4 Path to Exile
 4 Snow-Covered Forest
 4 Stoneforge Mystic
+1 Blossoming Defense
 1 Wooded Bastion
 1 Idyllic Grange
 1 Lurrus of the Dream-Den
@@ -190,13 +191,13 @@
 2 Winota, Joiner of Forces
 2 Copperline Gorge
 3 Stomping Ground
-3 Winota, Joiner of Forces
 3 Angrath's Marauders
+3 Winota, Joiner of Forces
 3 Copperline Gorge
 3 Lightning Bolt
 4 Angrath's Marauders
-4 Winota, Joiner of Forces
 4 Copperline Gorge
+4 Winota, Joiner of Forces
 4 Lightning Bolt
 3 Scavenging Ooze
 5 Forest

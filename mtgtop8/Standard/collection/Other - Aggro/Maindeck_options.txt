@@ -28,10 +28,10 @@
 1 Risen Reef
 1 Rugged Highlands
 1 Ugin, the Ineffable
+1 Soul-Guide Lantern
 1 Genesis Ultimatum
 1 Temple of Abandon
 1 Castle Vantress
-1 Soul-Guide Lantern
 1 Omnath, Locus of the Roil
 1 Yorion, Sky Nomad
 2 Ugin, the Ineffable
@@ -76,11 +76,11 @@
 1 Vraska, Golgari Queen
 1 Solemn Simulacrum
 1 Basri's Lieutenant
-1 Llanowar Visionary
 1 Garruk, Cursed Huntsman
+1 Eliminate
+1 Llanowar Visionary
 1 Elspeth Conquers Death
 1 Gilded Goose
-1 Eliminate
 1 Temple Garden
 1 Revival / Revenge
 1 Treacherous Blessing
@@ -90,12 +90,12 @@
 2 Vraska, Golgari Queen
 2 Basri's Lieutenant
 2 Llanowar Visionary
+2 Eliminate
 2 Scavenging Ooze
 2 Gilded Goose
 2 Revival / Revenge
 2 Elspeth Conquers Death
 2 Treacherous Blessing
-2 Eliminate
 2 Temple Garden
 3 Overgrown Tomb
 3 Indatha Triome
@@ -123,66 +123,18 @@
 3 Sea-Dasher Octopus
 4 Spectral Sailor
 4 Sea-Dasher Octopus
-1 Lurrus of the Dream-Den
-2 Lurrus of the Dream-Den
-1 Boon of the Wish-Giver
-1 Drannith Stinger
-1 Flourishing Fox
-1 Valiant Rescuer
-1 Zenith Flare
-1 Drannith Healer
-1 Startling Development
-1 Hallowed Fountain
-1 Unpredictable Cyclone
-1 Imposing Vantasaur
-1 Inspired Ultimatum
-1 Sacred Foundry
-1 Raugrin Triome
-2 Raugrin Triome
-2 Zenith Flare
-2 Drannith Healer
-2 Drannith Stinger
-2 Valiant Rescuer
-2 Boon of the Wish-Giver
-2 Flourishing Fox
-2 Startling Development
-2 Imposing Vantasaur
-2 Unpredictable Cyclone
-2 Sacred Foundry
-2 Inspired Ultimatum
-2 Hallowed Fountain
-3 Flourishing Fox
-3 Startling Development
-3 Valiant Rescuer
-3 Zenith Flare
-3 Drannith Healer
-3 Drannith Stinger
-3 Hallowed Fountain
-3 Plains
-3 Unpredictable Cyclone
-3 Raugrin Triome
-3 Sacred Foundry
-4 Drannith Stinger
-4 Drannith Healer
-4 Zenith Flare
-4 Startling Development
-4 Valiant Rescuer
-4 Flourishing Fox
-4 Raugrin Triome
-4 Sacred Foundry
-4 Plains
-4 Unpredictable Cyclone
 1 Bonecrusher Giant
 1 Samut's Sprint
 1 Riddleform
 2 Bonecrusher Giant
+2 Aether Gust
 2 Samut's Sprint
 2 Riddleform
-2 Aether Gust
 3 Riddleform
 4 Dreadhorde Arcanist
 4 Riddleform
 1 Paradise Druid
+1 Mystical Dispute
 1 Wolfwillow Haven
 1 Essence Scatter
 1 Shark Typhoon
@@ -190,19 +142,18 @@
 1 Quench
 1 Brineborn Cutthroat
 1 Frilled Mystic
-1 Mystical Dispute
 1 Nightpack Ambusher
 2 Paradise Druid
+2 Mystical Dispute
 2 Quench
-2 Wolfwillow Haven
 2 Shark Typhoon
+2 Wolfwillow Haven
 2 Brineborn Cutthroat
 2 Nightpack Ambusher
-2 Mystical Dispute
 2 Frilled Mystic
 3 Paradise Druid
-3 Quench
 3 Mystical Dispute
+3 Quench
 3 Frilled Mystic
 3 Brineborn Cutthroat
 3 Brazen Borrower
@@ -210,11 +161,60 @@
 4 Paradise Druid
 4 Frilled Mystic
 4 Nightpack Ambusher
+1 Lurrus of the Dream-Den
+2 Lurrus of the Dream-Den
+1 Startling Development
+1 Hallowed Fountain
+1 Flourishing Fox
+1 Unpredictable Cyclone
+1 Imposing Vantasaur
+1 Valiant Rescuer
+1 Drannith Stinger
+1 Inspired Ultimatum
+1 Sacred Foundry
+1 Drannith Healer
+1 Zenith Flare
+1 Boon of the Wish-Giver
+1 Raugrin Triome
+2 Raugrin Triome
+2 Drannith Stinger
+2 Boon of the Wish-Giver
+2 Imposing Vantasaur
+2 Valiant Rescuer
+2 Drannith Healer
+2 Zenith Flare
+2 Unpredictable Cyclone
+2 Sacred Foundry
+2 Inspired Ultimatum
+2 Hallowed Fountain
+2 Startling Development
+2 Flourishing Fox
+3 Startling Development
+3 Hallowed Fountain
+3 Flourishing Fox
+3 Drannith Stinger
+3 Plains
+3 Drannith Healer
+3 Zenith Flare
+3 Unpredictable Cyclone
+3 Valiant Rescuer
+3 Raugrin Triome
+3 Sacred Foundry
+4 Zenith Flare
+4 Raugrin Triome
+4 Flourishing Fox
+4 Valiant Rescuer
+4 Startling Development
+4 Sacred Foundry
+4 Plains
+4 Drannith Healer
+4 Unpredictable Cyclone
+4 Drannith Stinger
+1 Cling to Dust
 1 Zagoth Triome
 1 Acolyte of Affliction
 1 Neoform
 1 Golgari Findbroker
-1 Cling to Dust
 1 Casualties of War
 1 Thassa, Deep-Dwelling
 1 Thirsting Shade
@@ -287,12 +287,12 @@
 1 Klothys, God of Destiny
 1 Dryad of the Ilysian Grove
 1 Voracious Hydra
-2 Dryad of the Ilysian Grove
 2 Arboreal Grazer
 2 Chandra, Awakened Inferno
 2 Voracious Hydra
 2 Escape to the Wilds
 2 Klothys, God of Destiny
+2 Dryad of the Ilysian Grove
 3 Dryad of the Ilysian Grove
 3 Arboreal Grazer
 3 Chandra, Awakened Inferno

@@ -1,14 +1,14 @@
 1 Uro, Titan of Nature's Wrath
+1 Plains
 1 Island
 1 Fabled Passage
-1 Plains
 1 Forest
 2 Fabled Passage
 2 Uro, Titan of Nature's Wrath
 3 Fabled Passage
 3 Uro, Titan of Nature's Wrath
-4 Uro, Titan of Nature's Wrath
 4 Fabled Passage
+4 Uro, Titan of Nature's Wrath
 1 Zagoth Triome
 1 Swamp
 1 Indatha Triome
@@ -45,67 +45,25 @@
 3 Temple Garden
 4 Omen of the Sea
 4 Temple Garden
-1 Yorion, Sky Nomad
 1 Overgrown Tomb
+1 Yorion, Sky Nomad
 2 Extinction Event
 2 Heartless Act
 1 Jolrael, Mwonvuli Recluse
 2 Jolrael, Mwonvuli Recluse
 2 Forest
-1 Temple of Enlightenment
-1 Bloodchief's Thirst
-1 Brightclimb Pathway
-1 Confounding Conundrum
-1 Jwari Disruption
-1 Neutralize
-1 Negate
-1 Branchloft Pathway
-1 Mythos of Nethroi
-1 Hagra Mauling
-1 Clearwater Pathway
-1 Waker of Waves
-2 Bloodchief's Thirst
-2 Brightclimb Pathway
-2 Negate
-2 Confounding Conundrum
-2 Jwari Disruption
-2 Neutralize
-2 Waker of Waves
-2 Mythos of Nethroi
-2 Swamp
-2 Branchloft Pathway
-2 Clearwater Pathway
-3 Mythos of Nethroi
-3 Waker of Waves
-3 Brightclimb Pathway
-3 Bloodchief's Thirst
-3 Neutralize
-3 Confounding Conundrum
-3 Extinction Event
-3 Clearwater Pathway
-3 Branchloft Pathway
-3 Island
-4 Branchloft Pathway
-4 Island
-4 Waker of Waves
-4 Neutralize
-4 Brightclimb Pathway
-4 Mythos of Nethroi
-4 Bloodchief's Thirst
-4 Confounding Conundrum
-4 Clearwater Pathway
 1 Solemn Simulacrum
 1 Mazemind Tome
 1 Doom Foretold
 1 Castle Ardenvale
 1 Cavalier of Dawn
-2 Yorion, Sky Nomad
 2 Mazemind Tome
 2 Doom Foretold
 2 Overgrown Tomb
+2 Yorion, Sky Nomad
 2 Cavalier of Dawn
-3 Doom Foretold
 3 Yorion, Sky Nomad
+3 Doom Foretold
 3 Mazemind Tome
 3 Overgrown Tomb
 3 Cavalier of Dawn
@@ -113,6 +71,48 @@
 4 Doom Foretold
 4 Mazemind Tome
 4 Oath of Kaya
+1 Temple of Enlightenment
+1 Neutralize
+1 Clearwater Pathway
+1 Branchloft Pathway
+1 Hagra Mauling
+1 Bloodchief's Thirst
+1 Confounding Conundrum
+1 Jwari Disruption
+1 Mythos of Nethroi
+1 Negate
+1 Brightclimb Pathway
+1 Waker of Waves
+2 Clearwater Pathway
+2 Branchloft Pathway
+2 Bloodchief's Thirst
+2 Confounding Conundrum
+2 Neutralize
+2 Jwari Disruption
+2 Negate
+2 Mythos of Nethroi
+2 Waker of Waves
+2 Brightclimb Pathway
+2 Swamp
+3 Waker of Waves
+3 Mythos of Nethroi
+3 Clearwater Pathway
+3 Bloodchief's Thirst
+3 Neutralize
+3 Confounding Conundrum
+3 Extinction Event
+3 Brightclimb Pathway
+3 Branchloft Pathway
+3 Island
+4 Island
+4 Neutralize
+4 Waker of Waves
+4 Clearwater Pathway
+4 Mythos of Nethroi
+4 Bloodchief's Thirst
+4 Confounding Conundrum
+4 Brightclimb Pathway
+4 Branchloft Pathway
 1 Vraska, Golgari Queen
 1 Hydroid Krasis
 1 Mountain
@@ -132,19 +132,19 @@
 3 Dovin's Veto
 4 Growth Spiral
 1 Kaya, Orzhov Usurper
+1 Radha, Heart of Keld
 1 Angrath's Rampage
-1 Arboreal Grazer
 1 Tyrant's Scorn
+1 Arboreal Grazer
 1 Casualties of War
 1 Tolsimir, Friend to Wolves
-1 Knight of Autumn
 1 Steam Vents
 1 Solar Blaze
 1 Deafening Clarion
 1 Niv-Mizzet Reborn
+1 Knight of Autumn
 1 Expansion / Explosion
 1 Time Wipe
-1 Radha, Heart of Keld
 1 Sacred Foundry
 1 Justice Strike
 1 March of the Multitudes
@@ -164,11 +164,11 @@
 1 Brazen Borrower
 1 Shatter the Sky
 1 Nissa, Who Shakes the World
-2 Nissa, Who Shakes the World
 2 Llanowar Visionary
+2 Nissa, Who Shakes the World
 2 Temple of Plenty
-2 Shatter the Sky
 2 Hydroid Krasis
+2 Shatter the Sky
 2 Glass Casket
 2 Brazen Borrower
 3 Hydroid Krasis

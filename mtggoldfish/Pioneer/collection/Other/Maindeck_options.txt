@@ -5,8 +5,8 @@
 2 Turntimber Symbiosis
 2 Arboreal Grazer
 2 Genesis Ultimatum
-3 Evolving Wilds
 3 Felidar Retreat
+3 Evolving Wilds
 3 Lotus Cobra
 3 Arboreal Grazer
 3 Cultivate
@@ -261,8 +261,8 @@
 1 Demonic Pact
 1 Supreme Verdict
 1 Cast Out
-1 Siege Rhino
 1 Detention Sphere
+1 Siege Rhino
 1 Unmoored Ego
 1 Sorcerous Spyglass
 1 Gonti, Lord of Luxury
@@ -381,14 +381,14 @@
 1 Charming Prince
 1 Branchloft Pathway
 1 Glasspool Mimic
-1 Skyclave Cleric
 1 Militia Bugler
+1 Skyclave Cleric
 1 Reflector Mage
 1 Skyclave Apparition
 2 Charming Prince
 2 Branchloft Pathway
-2 Glasspool Mimic
 2 Skyclave Cleric
+2 Glasspool Mimic
 2 Reflector Mage
 2 Militia Bugler
 2 Skyclave Apparition
@@ -442,22 +442,20 @@
 1 Creeping Chill
 1 Thassa's Oracle
 1 Shatterskull Smashing
-1 Balustrade Spy
 1 Pelakka Predation
-1 Undercity Informer
 1 Beyeen Veil
 1 Hagra Mauling
 1 Worldspine Wurm
 1 Haunted Dead
+1 Balustrade Spy
 1 Claim/Fame
+1 Undercity Informer
 1 Silversmote Ghoul
 2 Jwari Disruption
 2 Prized Amalgam
 2 Creeping Chill
 2 Thassa's Oracle
-2 Balustrade Spy
 2 Silundi Vision
-2 Undercity Informer
 2 Shatterskull Smashing
 2 Hagra Mauling
 2 Pelakka Predation
@@ -465,30 +463,69 @@
 2 Beyeen Veil
 2 Silversmote Ghoul
 2 Claim/Fame
+2 Balustrade Spy
+2 Undercity Informer
 3 Hagra Mauling
 3 Creeping Chill
-3 Balustrade Spy
 3 Thassa's Oracle
-3 Undercity Informer
 3 Prized Amalgam
 3 Silundi Vision
 3 Silversmote Ghoul
 3 Jwari Disruption
 3 Pelakka Predation
 3 Beyeen Veil
+3 Undercity Informer
+3 Balustrade Spy
 3 Claim/Fame
 4 Hagra Mauling
 4 Creeping Chill
-4 Undercity Informer
 4 Thassa's Oracle
-4 Balustrade Spy
-4 Agadeem's Awakening
 4 Prized Amalgam
+4 Agadeem's Awakening
 4 Silundi Vision
 4 Jwari Disruption
 4 Pelakka Predation
 4 Beyeen Veil
+4 Undercity Informer
+4 Balustrade Spy
 4 Claim/Fame
+1 Swiftblade Vindicator
+1 Fireblade Charger
+1 Sigarda's Aid
+1 Thrill of Possibility
+1 Colossus Hammer
+1 Shadowspear
+1 Open the Armory
+1 Adorned Pouncer
+1 Gods Willing
+1 Crash Through
+1 Temur Battle Rage
+2 Colossus Hammer
+2 Sigarda's Aid
+2 Fireblade Charger
+2 Swiftblade Vindicator
+2 Thrill of Possibility
+2 Temur Battle Rage
+2 Gods Willing
+2 Adorned Pouncer
+2 Crash Through
+2 Open the Armory
+3 Colossus Hammer
+3 Sigarda's Aid
+3 Fireblade Charger
+3 Thrill of Possibility
+3 Open the Armory
+3 Swiftblade Vindicator
+3 Adorned Pouncer
+3 Gods Willing
+4 Gods Willing
+4 Sigarda's Aid
+4 Colossus Hammer
+4 Fireblade Charger
+4 Thrill of Possibility
+4 Adorned Pouncer
+4 Open the Armory
+4 Swiftblade Vindicator
 1 Kinnan, Bonder Prodigy
 1 Garruk's Harbinger
 1 Brazen Borrower
@@ -607,13 +644,13 @@
 4 Isolated Chapel
 4 Dark Salvation
 4 Rally the Ancestors
+1 Gruul Spellbreaker
 1 Cinder Glade
 1 Wildborn Preserver
-1 Gruul Spellbreaker
 1 Legion Loyalist
+2 Gruul Spellbreaker
 2 Cinder Glade
 2 Klothys, God of Destiny
-2 Gruul Spellbreaker
 3 Gruul Spellbreaker
 3 Rootbound Crag
 3 Game Trail
@@ -621,43 +658,6 @@
 4 Game Trail
 4 Rootbound Crag
 4 Reckless Bushwhacker
-1 Swiftblade Vindicator
-1 Sigarda's Aid
-1 Colossus Hammer
-1 Shadowspear
-1 Open the Armory
-1 Thrill of Possibility
-1 Adorned Pouncer
-1 Gods Willing
-1 Fireblade Charger
-1 Crash Through
-1 Temur Battle Rage
-2 Colossus Hammer
-2 Sigarda's Aid
-2 Swiftblade Vindicator
-2 Thrill of Possibility
-2 Temur Battle Rage
-2 Gods Willing
-2 Adorned Pouncer
-2 Fireblade Charger
-2 Crash Through
-2 Open the Armory
-3 Colossus Hammer
-3 Sigarda's Aid
-3 Thrill of Possibility
-3 Open the Armory
-3 Swiftblade Vindicator
-3 Adorned Pouncer
-3 Gods Willing
-3 Fireblade Charger
-4 Gods Willing
-4 Sigarda's Aid
-4 Colossus Hammer
-4 Thrill of Possibility
-4 Adorned Pouncer
-4 Open the Armory
-4 Swiftblade Vindicator
-4 Fireblade Charger
 1 Emeria's Call
 1 Kenrith, the Returned King
 1 Cavalier of Flame
@@ -676,37 +676,37 @@
 1 Fire Prophecy
 1 Vessel of Volatility
 1 Star of Extinction
+1 Irencrag Feat
 1 Fanatic of Mogis
 1 Kragma Warcaller
 1 Deathbellow War Cry
 1 Minotaur Aggressor
 1 Wily Goblin
-1 Irencrag Feat
 1 Rageblood Shaman
 1 Boros Reckoner
 2 Temple of Malice
 2 Fire Prophecy
-2 Ugin, the Spirit Dragon
 2 Vessel of Volatility
+2 Irencrag Feat
+2 Ugin, the Spirit Dragon
 2 Wily Goblin
 2 Star of Extinction
 2 Deathbellow War Cry
-2 Irencrag Feat
 2 Rageblood Shaman
 2 Fanatic of Mogis
 2 Kragma Warcaller
 2 Boros Reckoner
 3 Vessel of Volatility
+3 Irencrag Feat
 3 Fire Prophecy
 3 Ugin, the Spirit Dragon
 3 Wily Goblin
 3 Star of Extinction
 3 Deathbellow War Cry
-3 Irencrag Feat
 3 Boros Reckoner
+4 Irencrag Feat
 4 Fire Prophecy
 4 Vessel of Volatility
-4 Irencrag Feat
 4 Deathbellow War Cry
 4 Boros Reckoner
 9 Mountain

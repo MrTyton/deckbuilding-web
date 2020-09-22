@@ -1,10 +1,9 @@
 3 Arid Mesa
 4 Arid Mesa
-3 Bloodstained Mire
 1 Lava Dart
 1 Soul-Scar Mage
-2 Lava Dart
 2 Soul-Scar Mage
+2 Lava Dart
 3 Lava Dart
 4 Lava Dart
 4 Mountain
@@ -24,24 +23,10 @@
 12 Mountain
 13 Mountain
 14 Mountain
-3 Wooded Foothills
-3 Skullcrack
-1 Manamorphose
-2 Manamorphose
-3 Manamorphose
-4 Manamorphose
+3 Bloodstained Mire
 1 Firebolt
 2 Firebolt
-4 Bloodstained Mire
-1 Crash Through
-2 Crash Through
-3 Crash Through
-4 Crash Through
-2 Fiery Islet
-3 Lightning Helix
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
+3 Skullcrack
 1 Blistercoil Weird
 2 Blistercoil Weird
 3 Blistercoil Weird
@@ -59,6 +44,23 @@
 15 Mountain
 16 Mountain
 17 Mountain
+1 Manamorphose
+2 Manamorphose
+3 Manamorphose
+4 Manamorphose
+2 Fiery Islet
+4 Bloodstained Mire
+1 Crash Through
+2 Crash Through
+3 Crash Through
+4 Crash Through
+1 Burst Lightning
+2 Burst Lightning
+1 Flame Slash
+2 Flame Slash
+18 Mountain
+3 Wooded Foothills
+3 Lightning Helix
 1 Bedlam Reveler
 2 Bedlam Reveler
 3 Bedlam Reveler
@@ -68,12 +70,10 @@
 2 Runaway Steam-Kin
 2 Gut Shot
 3 Runaway Steam-Kin
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
 4 Skullcrack
-1 Burst Lightning
-2 Burst Lightning
-1 Flame Slash
-2 Flame Slash
-18 Mountain
 3 Sacred Foundry
 1 Mishra's Bauble
 2 Mishra's Bauble
@@ -87,8 +87,8 @@
 1 Kiln Fiend
 2 Abbot of Keral Keep
 2 Kiln Fiend
-3 Kiln Fiend
 3 Abbot of Keral Keep
+3 Kiln Fiend
 4 Abbot of Keral Keep
 1 Path to Exile
 2 Path to Exile
@@ -111,13 +111,12 @@
 2 Temur Battle Rage
 2 Blood Crypt
 2 Thoughtseize
-3 Thoughtseize
 3 Blackcleave Cliffs
 3 Mutagenic Growth
+3 Thoughtseize
 4 Kiln Fiend
 4 Mutagenic Growth
 4 Blackcleave Cliffs
-4 Wooded Foothills
 1 Chandra's Incinerator
 2 Chandra's Incinerator
 3 Chandra's Incinerator

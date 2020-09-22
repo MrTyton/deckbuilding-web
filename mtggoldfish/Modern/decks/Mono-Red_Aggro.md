@@ -47,9 +47,9 @@
 |                   14|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                            |
 |                   15|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                            |
 |                   16|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                            |
+|                    3|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)          |                     |                                                                                            |
 |                    1|[Seal of Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185817)         |                     |                                                                                            |
 |                    2|[Seal of Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185817)         |                     |                                                                                            |
 |                    3|[Seal of Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185817)         |                     |                                                                                            |
 |                    4|[Seal of Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185817)         |                     |                                                                                            |
-|                    3|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)          |                     |                                                                                            |
 

@@ -67,8 +67,8 @@
 |                    3|[City of Traitors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6168)          |                     |                                                                                             |
 |                    4|[Brushland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129496)               |                     |                                                                                             |
 |                    1|[Scrubland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=882)                  |                     |                                                                                             |
-|                    4|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)     |                     |                                                                                             |
 |                    1|[Elvish Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3134)       |                     |                                                                                             |
 |                    2|[Elvish Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3134)       |                     |                                                                                             |
 |                    3|[Elvish Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3134)       |                     |                                                                                             |
+|                    4|[Simian Spirit Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442137)     |                     |                                                                                             |
 
