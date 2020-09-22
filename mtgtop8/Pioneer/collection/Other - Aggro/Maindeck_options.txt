@@ -1,30 +1,30 @@
 1 Catacomb Sifter
-1 Zulaport Cutthroat
 1 Bolas's Citadel
+1 Woe Strider
 1 Mayhem Devil
 1 Blood Crypt
-1 Woe Strider
+1 Zulaport Cutthroat
 1 Priest of Forgotten Gods
 2 Catacomb Sifter
-2 Zulaport Cutthroat
 2 Bolas's Citadel
+2 Zulaport Cutthroat
 2 Priest of Forgotten Gods
 2 Gilded Goose
 2 Woe Strider
 2 Mayhem Devil
 2 Blood Crypt
-3 Zulaport Cutthroat
 3 Catacomb Sifter
 3 Bolas's Citadel
-3 Priest of Forgotten Gods
+3 Zulaport Cutthroat
 3 Woe Strider
+3 Priest of Forgotten Gods
 3 Mayhem Devil
 3 Gilded Goose
 3 Blood Crypt
 4 Bolas's Citadel
-4 Zulaport Cutthroat
-4 Woe Strider
 4 Catacomb Sifter
+4 Woe Strider
+4 Zulaport Cutthroat
 4 Priest of Forgotten Gods
 4 Gilded Goose
 4 Mayhem Devil
@@ -46,13 +46,13 @@
 2 Watery Grave
 3 Watery Grave
 1 Stitcher's Supplier
+1 Haunted Dead
+1 Silversmote Ghoul
 1 Creeping Chill
 1 Prized Amalgam
-1 Silversmote Ghoul
+1 Narcomoeba
 1 Satyr Wayfinder
 1 Grisly Salvage
-1 Narcomoeba
-1 Haunted Dead
 1 Merfolk Secretkeeper
 2 Grisly Salvage
 2 Botanical Sanctum
@@ -65,19 +65,19 @@
 2 Haunted Dead
 2 Merfolk Secretkeeper
 3 Grisly Salvage
-3 Stitcher's Supplier
 3 Silversmote Ghoul
 3 Prized Amalgam
 3 Creeping Chill
+3 Stitcher's Supplier
 3 Satyr Wayfinder
 3 Merfolk Secretkeeper
 3 Botanical Sanctum
-4 Prized Amalgam
 4 Grisly Salvage
-4 Stitcher's Supplier
-4 Merfolk Secretkeeper
 4 Silversmote Ghoul
+4 Merfolk Secretkeeper
+4 Prized Amalgam
 4 Creeping Chill
+4 Stitcher's Supplier
 4 Satyr Wayfinder
 1 Experiment One
 2 Experiment One
@@ -243,12 +243,12 @@
 2 Field of Ruin
 2 Temple of Plenty
 2 Alseid of Life's Bounty
+2 Banishing Light
 2 Herald of the Pantheon
 2 Setessan Champion
 2 Eidolon of Blossoms
 2 Calix, Destiny's Hand
 2 Starfield Mystic
-2 Banishing Light
 2 Sigil of the Empty Throne
 3 Setessan Champion
 3 Cast Out
@@ -298,11 +298,11 @@
 1 Scavenging Ooze
 1 Rhonas the Indomitable
 2 Scavenging Ooze
-1 Legion Loyalist
 1 Reckless Bushwhacker
+1 Atarka's Command
+1 Legion Loyalist
 1 Wildborn Preserver
 1 Cinder Glade
-1 Atarka's Command
 1 Yorvo, Lord of Garenbrig
 1 Burning-Tree Emissary
 1 Game Trail
@@ -311,8 +311,8 @@
 1 Mountain
 1 Bonecrusher Giant
 2 Reckless Bushwhacker
-2 Cinder Glade
 2 Atarka's Command
+2 Cinder Glade
 2 Gruul Spellbreaker
 2 Bonecrusher Giant
 2 Mountain
@@ -321,8 +321,8 @@
 2 Klothys, God of Destiny
 2 Game Trail
 3 Scavenging Ooze
-3 Reckless Bushwhacker
 3 Atarka's Command
+3 Reckless Bushwhacker
 3 Rootbound Crag
 3 Game Trail
 3 Bonecrusher Giant
@@ -378,8 +378,8 @@
 1 Chart a Course
 1 Island
 1 Brazen Borrower
-2 Irrigated Farmland
 2 Seasoned Hallowblade
+2 Irrigated Farmland
 2 Teferi, Time Raveler
 2 Nimble Obstructionist
 2 Supreme Verdict
@@ -389,8 +389,8 @@
 2 Glacial Fortress
 2 Toolcraft Exemplar
 2 Spell Pierce
-3 Irrigated Farmland
 3 Seasoned Hallowblade
+3 Irrigated Farmland
 3 Heart of Kiran
 3 Nimble Obstructionist
 3 Teferi, Time Raveler
@@ -428,10 +428,10 @@
 4 Mantis Rider
 4 Mutavault
 1 Brimaz, King of Oreskos
-1 Fleecemane Lion
 1 Adorned Pouncer
 1 Kaheera, the Orphanguard
 1 Sacred Cat
+1 Fleecemane Lion
 1 Pride Sovereign
 1 Feline Sovereign
 1 Bronzehide Lion
@@ -440,13 +440,13 @@
 1 Ajani Steadfast
 1 Animal Sanctuary
 2 Brimaz, King of Oreskos
-2 Fleecemane Lion
-2 Scattered Groves
 2 Adorned Pouncer
 2 Sacred Cat
 2 Kaheera, the Orphanguard
+2 Scattered Groves
 2 Feline Sovereign
 2 Regal Caracal
+2 Fleecemane Lion
 2 Animal Sanctuary
 2 Pride Sovereign
 2 Bronzehide Lion

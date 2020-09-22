@@ -57,6 +57,7 @@
 1 Mazemind Tome
 1 Savai Triome
 1 Arch of Orazca
+1 Concealed Courtyard
 1 Kaya's Wrath
 1 Temple of Silence
 1 Trial of Ambition
@@ -64,7 +65,6 @@
 1 The Birth of Meletis
 1 Doom Foretold
 1 Elspeth Conquers Death
-1 Concealed Courtyard
 1 Isolated Chapel
 1 Yorion, Sky Nomad
 1 Godless Shrine
@@ -77,10 +77,10 @@
 2 Savai Triome
 2 Shambling Vent
 2 Elspeth Conquers Death
+2 Concealed Courtyard
 2 Plains
 2 Trial of Ambition
 2 Isolated Chapel
-2 Concealed Courtyard
 2 Doom Foretold
 2 Oath of Kaya
 2 Godless Shrine
@@ -115,8 +115,8 @@
 5 Plains
 6 Plains
 1 Glimmer of Genius
-1 Hieroglyphic Illumination
 1 Vraska's Contempt
+1 Hieroglyphic Illumination
 1 Negate
 1 Consign / Oblivion
 2 Vraska's Contempt
@@ -150,12 +150,12 @@
 2 Discovery / Dispersal
 2 Bonecrusher Giant
 2 Chart a Course
+3 Murderous Rider
 3 Dreadbore
 3 Dragonskull Summit
 3 Kroxa, Titan of Death's Hunger
 3 Nicol Bolas, the Ravager
 3 Blood Crypt
-3 Murderous Rider
 3 Discovery / Dispersal
 4 Kroxa, Titan of Death's Hunger
 4 Blood Crypt
@@ -168,8 +168,8 @@
 1 Jace, Vryn's Prodigy
 1 Clifftop Retreat
 1 Temple of Enlightenment
-1 Temple of Epiphany
 1 Temple of Triumph
+1 Temple of Epiphany
 1 Commit / Memory
 1 Supreme Verdict
 1 Izzet Charm

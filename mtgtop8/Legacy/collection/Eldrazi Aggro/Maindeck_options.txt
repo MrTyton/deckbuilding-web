@@ -1,7 +1,7 @@
 1 Eliminate
 2 Eliminate
-2 City of Traitors
 1 Wastes
+2 City of Traitors
 4 Wasteland
 2 Urborg, Tomb of Yawgmoth
 2 Blast Zone
@@ -11,12 +11,12 @@
 1 Walking Ballista
 2 Walking Ballista
 2 Plague Engineer
-1 Simian Spirit Guide
-2 Simian Spirit Guide
-3 Simian Spirit Guide
 4 Once Upon a Time
 1 Dismember
 2 Dismember
+1 Simian Spirit Guide
+2 Simian Spirit Guide
+3 Simian Spirit Guide
 2 Endbringer
 1 Grim Monolith
 1 Karn, the Great Creator
@@ -26,12 +26,12 @@
 3 Karn, the Great Creator
 3 Grim Monolith
 4 Grim Monolith
-1 Glimmerpost
 1 Ugin, the Spirit Dragon
 1 Cloudpost
 1 All Is Dust
 1 Vesuva
 1 Emrakul, the Aeons Torn
+1 Glimmerpost
 2 Glimmerpost
 2 Ugin, the Spirit Dragon
 2 Vesuva
@@ -57,9 +57,8 @@
 1 Mox Diamond
 2 Mox Diamond
 4 Eye of Ugin
-1 Trinisphere
-3 City of Traitors
 1 Sorcerous Spyglass
+1 Trinisphere
 1 Cascading Cataracts
 1 Thran Dynamo
 1 Golos, Tireless Pilgrim
@@ -69,16 +68,12 @@
 2 Thran Dynamo
 2 Ugin, the Ineffable
 2 Sorcerous Spyglass
-3 Ugin, the Spirit Dragon
 3 Sorcerous Spyglass
+3 Ugin, the Spirit Dragon
 3 Trinisphere
+3 City of Traitors
 3 Thran Dynamo
 3 Ugin, the Ineffable
-1 Mountain
-2 Mountain
-3 Mountain
-4 Simian Spirit Guide
-4 Mountain
 2 Plains
 1 Elvish Spirit Guide
 2 Mishra's Factory
@@ -94,9 +89,9 @@
 2 Mind Stone
 2 Oblivion Sower
 3 Ulamog, the Ceaseless Hunger
+3 Oblivion Sower
 3 Mind Stone
 3 Urborg, Tomb of Yawgmoth
-3 Oblivion Sower
 4 Mind Stone
 4 Oblivion Sower
 1 Thalia, Heretic Cathar
@@ -120,44 +115,20 @@
 1 Silent Clearing
 3 Plague Engineer
 4 Plague Engineer
+1 Mountain
 1 Eldrazi Obligator
 1 Mortarpod
 1 Ramunap Ruins
 2 Eldrazi Obligator
+2 Mountain
 2 Ramunap Ruins
 2 Mortarpod
 3 Dismember
 3 Ramunap Ruins
 3 Eldrazi Obligator
+3 Mountain
+4 Simian Spirit Guide
 4 Eldrazi Obligator
 4 Dismember
+4 Mountain
 4 Ramunap Ruins
-1 Blood Sun
-1 Punishing Fire
-1 Grove of the Burnwillows
-1 Chandra, Awakened Inferno
-1 Chrome Mox
-1 Yidaro, Wandering Monster
-1 Fiery Confluence
-1 Goblin Rabblemaster
-1 Purphoros's Intervention
-2 Blood Sun
-2 Punishing Fire
-2 Grove of the Burnwillows
-2 Chrome Mox
-2 Goblin Rabblemaster
-2 Yidaro, Wandering Monster
-2 Purphoros's Intervention
-3 Blood Sun
-3 Punishing Fire
-3 Grove of the Burnwillows
-3 Yidaro, Wandering Monster
-3 Goblin Rabblemaster
-4 Blood Sun
-4 City of Traitors
-4 Grove of the Burnwillows
-4 Goblin Rabblemaster
-4 Punishing Fire
-5 Mountain
-6 Mountain
-7 Mountain

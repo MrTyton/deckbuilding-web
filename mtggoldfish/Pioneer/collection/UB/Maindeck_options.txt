@@ -1,5 +1,13 @@
+3 Murderous Rider
 2 Eliminate
-1 Heartless Act
+1 Negate
+1 Consign/Oblivion
+1 Vraska's Contempt
+1 Glimmer of Genius
+2 Negate
+2 Glimmer of Genius
+2 Vraska's Contempt
+4 Shark Typhoon
 1 Thought Erasure
 2 Thought Erasure
 1 Ashiok, Nightmare Muse
@@ -15,15 +23,7 @@
 4 Dig Through Time
 1 Narset, Parter of Veils
 4 Murderous Rider
-1 Negate
-1 Consign/Oblivion
-1 Vraska's Contempt
 1 Hieroglyphic Illumination
-1 Glimmer of Genius
-2 Negate
-2 Glimmer of Genius
-2 Vraska's Contempt
-4 Shark Typhoon
 3 Eliminate
 3 Thought Erasure
 1 Drown in the Loch
@@ -41,8 +41,8 @@
 2 Aether Hub
 3 Aether Hub
 4 Aether Hub
-1 The Scarab God
 1 Liliana, Dreadhorde General
+1 The Scarab God
 1 Teferi, Master of Time
 1 Discovery/Dispersal
 2 Teferi, Master of Time
@@ -51,13 +51,13 @@
 2 Extinction Event
 3 Field of Ruin
 1 Geier Reach Sanitarium
-1 Notion Thief
-1 Day's Undoing
 1 Languish
-2 Geier Reach Sanitarium
+1 Day's Undoing
+1 Notion Thief
 2 Narset, Parter of Veils
 2 Languish
 2 Notion Thief
+2 Geier Reach Sanitarium
 2 Hero's Downfall
 2 Day's Undoing
 3 Narset, Parter of Veils
@@ -72,24 +72,24 @@
 2 Liliana, the Last Hope
 1 Yarok's Fenlurker
 1 Nykthos, Shrine to Nyx
-1 Tymaret, Chosen from Death
-1 The Eldest Reborn
 1 Gray Merchant of Asphodel
-1 Crypt Ghast
+1 Tymaret, Chosen from Death
 1 Cling to Dust
+1 The Eldest Reborn
+1 Crypt Ghast
 1 Karn, the Great Creator
 2 Yarok's Fenlurker
-2 Urborg, Tomb of Yawgmoth
 2 Nykthos, Shrine to Nyx
+2 Gray Merchant of Asphodel
+2 Urborg, Tomb of Yawgmoth
 2 Crypt Ghast
 2 Karn, the Great Creator
-2 Gray Merchant of Asphodel
 3 Yarok's Fenlurker
 3 Nykthos, Shrine to Nyx
+3 Gray Merchant of Asphodel
 3 Gifted Aetherborn
 3 Karn, the Great Creator
 3 Liliana, the Last Hope
-3 Gray Merchant of Asphodel
 4 Yarok's Fenlurker
 4 Castle Locthwain
 4 Gifted Aetherborn
@@ -116,18 +116,19 @@
 2 Mystical Dispute
 1 Atris, Oracle of Half-Truths
 2 Atris, Oracle of Half-Truths
+3 Vraska's Contempt
 4 Thought Erasure
 1 Blood Crypt
-1 Steam Vents
 1 Dragonskull Summit
+1 Steam Vents
 1 Kolaghan's Command
-1 Dreadbore
-1 Gonti, Lord of Luxury
 1 Nicol Bolas, Dragon-God
+1 Dreadbore
 1 Nicol Bolas, the Ravager
 1 Kroxa, Titan of Death's Hunger
-1 Anger of the Gods
+1 Gonti, Lord of Luxury
 1 Magma Spray
+1 Anger of the Gods
 1 Spirebluff Canal
 1 Mountain
 1 Izzet Charm
@@ -135,10 +136,10 @@
 2 Dragonskull Summit
 2 Dreadbore
 2 Nicol Bolas, the Ravager
-2 Kolaghan's Command
 2 Kroxa, Titan of Death's Hunger
-2 Anger of the Gods
+2 Kolaghan's Command
 2 Magma Spray
+2 Anger of the Gods
 2 Nicol Bolas, Dragon-God
 2 Spirebluff Canal
 3 Blood Crypt
@@ -147,68 +148,68 @@
 4 Blood Crypt
 4 Dragonskull Summit
 1 Tireless Tracker
+1 Hissing Quagmire
 1 Blooming Marsh
 1 Overgrown Tomb
-1 Hissing Quagmire
 1 Assassin's Trophy
-1 Abrupt Decay
 1 Scavenging Ooze
 1 Vraska, Golgari Queen
+1 Abrupt Decay
 1 Nissa, Who Shakes the World
 1 Servant of the Conduit
 1 Forest
 2 Hissing Quagmire
 2 Tireless Tracker
-2 Blooming Marsh
 2 Overgrown Tomb
+2 Blooming Marsh
 2 Scavenging Ooze
 2 Nissa, Who Shakes the World
 2 Forest
 2 Servant of the Conduit
-3 Blooming Marsh
-3 Tireless Tracker
 3 Overgrown Tomb
+3 Tireless Tracker
+3 Blooming Marsh
 3 Scavenging Ooze
 3 Kalitas, Traitor of Ghet
 3 Servant of the Conduit
-4 Blooming Marsh
 4 Overgrown Tomb
-1 Castle Ardenvale
+4 Blooming Marsh
+1 Mortify
 1 Godless Shrine
 1 Shambling Vent
-1 Tithe Taker
-1 Isolated Chapel
-1 Obzedat, Ghost Council
-1 Settle the Wreckage
-1 History of Benalia
-1 Dawn of Hope
 1 Knight of the White Orchid
-1 The Immortal Sun
-1 Mortify
+1 Castle Ardenvale
+1 Isolated Chapel
+1 Dawn of Hope
 1 Thalia, Heretic Cathar
 1 Basilica Bell-Haunt
+1 The Immortal Sun
+1 History of Benalia
+1 Settle the Wreckage
+1 Obzedat, Ghost Council
+1 Tithe Taker
 1 Plains
-2 Plains
-2 Shambling Vent
-2 Tithe Taker
-2 Thalia, Heretic Cathar
+2 Basilica Bell-Haunt
 2 Settle the Wreckage
+2 Shambling Vent
+2 Knight of the White Orchid
+2 Plains
 2 Isolated Chapel
-2 History of Benalia
 2 Godless Shrine
 2 Dawn of Hope
-2 Knight of the White Orchid
-2 Basilica Bell-Haunt
+2 Thalia, Heretic Cathar
+2 History of Benalia
+2 Tithe Taker
 2 The Immortal Sun
+3 Basilica Bell-Haunt
+3 Shambling Vent
+3 Godless Shrine
 3 Plains
 3 Tithe Taker
 3 History of Benalia
-3 Godless Shrine
-3 Shambling Vent
-3 Basilica Bell-Haunt
-4 Tithe Taker
 4 Godless Shrine
 4 Plains
+4 Tithe Taker
 1 Brazen Borrower
 1 Thieves' Guild Enforcer
 1 Rankle, Master of Pranks

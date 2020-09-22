@@ -1,5 +1,4 @@
 2 Snow-Covered Forest
-1 Eternal Witness
 3 Temple Garden
 1 Spike Feeder
 1 Heliod, Sun-Crowned
@@ -33,9 +32,6 @@
 4 Forest
 2 Horizon Canopy
 2 Plains
-1 Noble Hierarch
-2 Noble Hierarch
-3 Noble Hierarch
 1 Utopia Sprawl
 2 Utopia Sprawl
 2 Auriok Champion
@@ -44,30 +40,34 @@
 3 Hardened Scales
 4 Hardened Scales
 1 Gavony Township
+1 Noble Hierarch
+2 Noble Hierarch
+3 Noble Hierarch
+1 Eternal Witness
 1 Elder Gargaroth
 1 Courser of Kruphix
 1 Tireless Tracker
 1 Wooded Bastion
+5 Forest
 1 Crumbling Vestige
 1 Springbloom Druid
-5 Forest
 1 Wall of Blossoms
-1 Knight of the Reliquary
-1 Sejiri Steppe
 1 Prismatic Vista
 3 Horizon Canopy
+1 Knight of the Reliquary
+1 Sejiri Steppe
 2 Wall of Blossoms
 1 Woodland Bellower
 1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
-1 Birds of Paradise
-2 Birds of Paradise
-2 Prismatic Vista
-3 Wooded Foothills
 1 Arbor Elf
 2 Arbor Elf
 3 Arbor Elf
 4 Arbor Elf
+2 Thalia, Guardian of Thraben
+1 Birds of Paradise
+2 Birds of Paradise
+3 Wooded Foothills
+2 Prismatic Vista
 2 Sakura-Tribe Elder
 1 Aether Vial
 2 Aether Vial
@@ -77,6 +77,7 @@
 1 Lurrus of the Dream-Den
 1 Giver of Runes
 4 Wooded Foothills
+3 Scavenging Ooze
 2 Tireless Tracker
 2 Courser of Kruphix
 3 Snow-Covered Forest
@@ -92,7 +93,6 @@
 3 Walking Ballista
 1 Elvish Rejuvenator
 1 Golos, Tireless Pilgrim
-3 Scavenging Ooze
 1 Anafenza, Kin-Tree Spirit
 2 Razorverge Thicket
 1 Misty Rainforest
@@ -122,8 +122,9 @@
 4 Wall of Blossoms
 4 Castle Garenbrig
 4 Oath of Nissa
-1 Selfless Savior
+1 Turntimber Symbiosis
 1 Nylea, Keen-Eyed
+1 Selfless Savior
 1 Oracle of Mul Daya
 1 Archangel of Thune
 1 Tectonic Edge

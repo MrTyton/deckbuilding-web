@@ -65,10 +65,10 @@
 2 Jace, Architect of Thought
 1 Narset of the Ancient Way
 1 Temple of Enlightenment
-1 Temple of Triumph
 1 Temple of Epiphany
 1 Detention Sphere
 1 Elspeth, Sun's Champion
+1 Temple of Triumph
 1 Chance for Glory
 2 Chance for Glory
 1 Needle Spires
@@ -99,12 +99,6 @@
 3 Oath of Chandra
 2 Nahiri, the Harbinger
 4 Agent of Treachery
-1 Oath of Teferi
-1 Day's Undoing
-2 Day's Undoing
-3 Chance for Glory
-3 Glacial Fortress
-4 Fae of Wishes
 1 Karn, the Great Creator
 1 Savai Triome
 2 Savai Triome
@@ -112,6 +106,12 @@
 3 Karn, the Great Creator
 4 Karn, the Great Creator
 4 Omen of the Sun
+1 Oath of Teferi
+1 Day's Undoing
+2 Day's Undoing
+3 Chance for Glory
+3 Glacial Fortress
+4 Fae of Wishes
 1 Teferi, Master of Time
 3 Wandering Fumarole
 4 Transmogrify
@@ -149,50 +149,52 @@
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 1 Omen of the Forge
-1 Inspiring Vantage
-1 Battlefield Forge
-1 Mutavault
-1 Kari Zev, Skyship Raider
-1 Pia and Kiran Nalaar
-1 Soul-Scar Mage
 1 Castle Embereth
+1 Mutavault
+1 Pia and Kiran Nalaar
+1 Kari Zev, Skyship Raider
+1 Soul-Scar Mage
 1 Wild Slash
 1 Anax, Hardened in the Forge
 1 Siege-Gang Commander
 1 Purphoros, God of the Forge
 1 Earthshaker Khenra
+1 Battlefield Forge
+1 Inspiring Vantage
 1 Goblin Rabblemaster
 2 Omen of the Forge
-2 Inspiring Vantage
 2 Siege-Gang Commander
 2 Kari Zev, Skyship Raider
-2 Battlefield Forge
-2 Mutavault
+2 Pia and Kiran Nalaar
 2 Soul-Scar Mage
 2 Needle Spires
+2 Mutavault
+2 Castle Embereth
 2 Wild Slash
 2 Anax, Hardened in the Forge
 2 Purphoros, God of the Forge
-2 Pia and Kiran Nalaar
 2 Earthshaker Khenra
-2 Castle Embereth
+2 Inspiring Vantage
+2 Battlefield Forge
 2 Goblin Rabblemaster
+3 Bonecrusher Giant
 3 Mountain
-3 Inspiring Vantage
 3 Omen of the Forge
+3 Soul-Scar Mage
 3 Wild Slash
 3 Anax, Hardened in the Forge
-3 Soul-Scar Mage
 3 Siege-Gang Commander
-3 Purphoros, God of the Forge
 3 Needle Spires
+3 Purphoros, God of the Forge
 3 Clifftop Retreat
 3 Earthshaker Khenra
 3 Pia and Kiran Nalaar
 3 Battlefield Forge
 3 Mutavault
-3 Bonecrusher Giant
+3 Inspiring Vantage
 3 Goblin Rabblemaster
+4 Bonecrusher Giant
+4 Mountain
 4 Omen of the Forge
 4 Clifftop Retreat
 4 Wild Slash
@@ -203,15 +205,13 @@
 4 Mutavault
 4 Battlefield Forge
 4 Inspiring Vantage
-4 Mountain
-4 Bonecrusher Giant
 4 Goblin Rabblemaster
 5 Mountain
 6 Mountain
 7 Mountain
 8 Mountain
-2 Detention Sphere
 2 Temple of Triumph
+2 Detention Sphere
 2 Teferi, Hero of Dominaria
 3 Teferi, Hero of Dominaria
 1 Chandra, Awakened Inferno

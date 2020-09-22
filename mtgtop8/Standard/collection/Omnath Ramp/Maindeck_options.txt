@@ -37,8 +37,8 @@
 1 Skyclave Apparition
 1 Elspeth Conquers Death
 1 Omen of the Sea
-2 Bala Ged Recovery
 2 Elspeth Conquers Death
+2 Bala Ged Recovery
 2 Omen of the Sea
 2 Plains
 3 Elspeth Conquers Death
@@ -48,9 +48,9 @@
 1 Neutralize
 1 Emeria's Call
 1 Omen of the Sun
+1 Yorion, Sky Nomad
 1 Charming Prince
 1 Temple of Enlightenment
-1 Yorion, Sky Nomad
 1 Glass Casket
 2 Neutralize
 2 Skyclave Apparition
@@ -62,8 +62,8 @@
 3 Neutralize
 3 Temple of Enlightenment
 3 Skyclave Apparition
-3 Glass Casket
 3 Charming Prince
+3 Glass Casket
 4 Glass Casket
 4 Charming Prince
 4 Temple of Enlightenment
@@ -93,17 +93,17 @@
 1 Scavenging Ooze
 3 Ugin, the Spirit Dragon
 3 Gilded Goose
-3 Shatterskull Smashing
 3 Turntimber Symbiosis
+3 Shatterskull Smashing
 4 Ugin, the Spirit Dragon
-4 Shatterskull Smashing
 4 Turntimber Symbiosis
+4 Shatterskull Smashing
+1 Silundi Vision
 1 Ondu Inversion
 1 Mythos of Illuna
 1 Enigmatic Incarnation
 1 Confounding Conundrum
 1 Omen of the Hunt
-1 Silundi Vision
 1 The Birth of Meletis
 1 Moraug, Fury of Akoum
 2 Enigmatic Incarnation
@@ -111,28 +111,28 @@
 2 The Birth of Meletis
 2 Mythos of Illuna
 2 Confounding Conundrum
-3 Plains
 3 Omen of the Hunt
 3 Enigmatic Incarnation
+3 Plains
 3 The Birth of Meletis
 4 Enigmatic Incarnation
 4 Omen of the Hunt
+1 Tangled Florahedron
 1 Migration Path
 1 Temple of Epiphany
-1 Tangled Florahedron
 1 Llanowar Visionary
 1 Castle Vantress
+2 Tangled Florahedron
 2 Migration Path
 2 Temple of Epiphany
-2 Tangled Florahedron
 2 Llanowar Visionary
-3 Migration Path
-3 Temple of Epiphany
 3 Tangled Florahedron
+3 Temple of Epiphany
+3 Migration Path
 3 Llanowar Visionary
-4 Llanowar Visionary
 4 Tangled Florahedron
 4 Migration Path
+4 Llanowar Visionary
 6 Forest
 7 Forest
 1 Fae of Wishes
@@ -140,8 +140,8 @@
 2 Glasspool Mimic
 1 Thundering Rebuke
 2 Thundering Rebuke
-4 Terror of the Peaks
 4 Bonecrusher Giant
+4 Terror of the Peaks
 1 Temple of Plenty
 1 Temple of Abandon
 2 Temple of Abandon

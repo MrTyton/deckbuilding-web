@@ -75,19 +75,19 @@
 3 Tropical Island
 1 Once Upon a Time
 1 Cyclonic Rift
-1 Ulamog, the Ceaseless Hunger
 1 Maze of Ith
 1 Pithing Needle
-1 Dryad of the Ilysian Grove
-1 Primeval Titan
 1 Prophet of Kruphix
-1 Candelabra of Tawnos
-1 Cloudpost
-1 Glimmerpost
+1 Primeval Titan
+1 Dryad of the Ilysian Grove
 1 Vesuva
 1 Cascading Cataracts
 1 Golos, Tireless Pilgrim
 1 Ugin, the Spirit Dragon
+1 Ulamog, the Ceaseless Hunger
+1 Glimmerpost
+1 Cloudpost
+1 Candelabra of Tawnos
 1 Glacial Chasm
 1 Thespian's Stage
 1 Dark Depths
@@ -103,12 +103,12 @@
 1 Ramunap Excavator
 2 Once Upon a Time
 2 Snow-Covered Forest
+2 Vesuva
 2 Dryad of the Ilysian Grove
 2 Primeval Titan
-2 Glimmerpost
-2 Cloudpost
-2 Vesuva
 2 Pithing Needle
+2 Cloudpost
+2 Glimmerpost
 2 Thespian's Stage
 2 Green Sun's Zenith
 2 Elvish Reclaimer
@@ -116,17 +116,17 @@
 2 Cavern of Souls
 3 Pithing Needle
 3 Once Upon a Time
-3 Glimmerpost
 3 Cloudpost
+3 Glimmerpost
 3 Green Sun's Zenith
 3 Cavern of Souls
 3 Crop Rotation
 3 Snow-Covered Forest
 3 Elvish Reclaimer
 4 Pithing Needle
-4 Cloudpost
 4 Snow-Covered Forest
 4 Glimmerpost
+4 Cloudpost
 4 Elvish Reclaimer
 4 Crop Rotation
 4 Green Sun's Zenith
@@ -135,8 +135,8 @@
 3 Wasteland
 1 Lonely Sandbar
 1 Back to Basics
-1 Brazen Borrower
 1 The Tabernacle at Pendrell Vale
+1 Brazen Borrower
 2 Dovin's Veto
 1 Palace Jailer
 1 Retrofitter Foundry
@@ -149,14 +149,14 @@
 1 Phyrexian Dreadnought
 1 Enlightened Tutor
 1 Sevinne's Reclamation
-1 Karn, the Great Creator
 1 Stifle
 1 Search for Azcanta
+1 Karn, the Great Creator
 1 Scroll of Fate
 2 Phyrexian Dreadnought
-2 Karn, the Great Creator
 2 Stifle
 2 Mishra's Factory
+2 Karn, the Great Creator
 3 Phyrexian Dreadnought
 3 Stifle
 3 Mishra's Factory
@@ -166,8 +166,8 @@
 1 Forest
 1 Savannah
 1 Tranquil Thicket
-1 Field of the Dead
 1 Life from the Loam
+1 Field of the Dead
 1 Abrupt Decay
 1 Underground Sea
 1 Blast Zone
