@@ -14,11 +14,11 @@
 1 Overgrown Tomb
 1 Thoughtseize
 1 Inquisition of Kozilek
-2 Inquisition of Kozilek
 2 Plague Stinger
 2 Nurturing Peatland
 2 Overgrown Tomb
 2 Thoughtseize
+2 Inquisition of Kozilek
 3 Plague Stinger
 3 Inquisition of Kozilek
 4 Plague Stinger
@@ -33,13 +33,6 @@
 2 Giver of Runes
 2 Spellskite
 3 Groundswell
-1 Blooming Marsh
-2 Blooming Marsh
-2 Rancor
-2 Dismember
-3 Nurturing Peatland
-3 Blooming Marsh
-4 Inquisition of Kozilek
 1 Phyrexian Crusader
 1 Swamp
 1 Urborg, Tomb of Yawgmoth
@@ -47,6 +40,7 @@
 1 Abrupt Decay
 2 Phyrexian Crusader
 2 Become Immense
+2 Fatal Push
 2 Abrupt Decay
 2 Verdant Catacombs
 3 Phyrexian Crusader
@@ -54,4 +48,10 @@
 3 Abrupt Decay
 4 Phyrexian Crusader
 4 Verdant Catacombs
-2 Fatal Push
+1 Blooming Marsh
+2 Blooming Marsh
+2 Rancor
+3 Nurturing Peatland
+3 Blooming Marsh
+4 Inquisition of Kozilek
+2 Dismember

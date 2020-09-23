@@ -23,10 +23,10 @@
 1 Conclave Mentor
 1 Horizon Canopy
 1 Gavony Township
-1 Auriok Champion
 1 Temple Garden
 1 Prismatic Vista
 1 Hardened Scales
+1 Auriok Champion
 1 Walking Ballista
 1 Heliod, Sun-Crowned
 1 Collected Company
@@ -44,20 +44,20 @@
 2 Walking Ballista
 3 Spike Feeder
 3 Conclave Mentor
-3 Collected Company
 3 Scavenging Ooze
 3 Hardened Scales
 3 Horizon Canopy
 3 Ranger-Captain of Eos
 3 Heliod, Sun-Crowned
 3 Temple Garden
+3 Collected Company
 4 Spike Feeder
-4 Collected Company
 4 Conclave Mentor
 4 Hardened Scales
 4 Temple Garden
 4 Heliod, Sun-Crowned
 4 Ranger-Captain of Eos
+4 Collected Company
 1 Misty Rainforest
 1 Smuggler's Copter
 1 Brazen Borrower
@@ -69,6 +69,7 @@
 1 Ninja of the Deep Hours
 1 Ice-Fang Coatl
 1 Spellstutter Sprite
+1 Snow-Covered Swamp
 1 Breeding Pool
 1 Abrupt Decay
 1 Snow-Covered Forest
@@ -84,15 +85,14 @@
 1 Fatal Push
 1 Fallen Shinobi
 1 Force of Negation
-1 Snow-Covered Swamp
 2 Disrupting Shoal
 2 Ice-Fang Coatl
 2 Spellstutter Sprite
-2 Brazen Borrower
 2 Misty Rainforest
 2 Gilded Goose
 2 Fatal Push
 2 Botanical Sanctum
+2 Brazen Borrower
 2 Darkslick Shores
 2 Force of Negation
 2 Ingenious Infiltrator
@@ -100,9 +100,9 @@
 2 Mana Leak
 2 Faerie Seer
 3 Disrupting Shoal
-3 Spellstutter Sprite
 3 Ice-Fang Coatl
 3 Brazen Borrower
+3 Spellstutter Sprite
 3 Misty Rainforest
 3 Ingenious Infiltrator
 3 Snow-Covered Island
@@ -178,7 +178,6 @@
 1 Traverse the Ulvenwald
 1 Nurturing Peatland
 1 Ghor-Clan Rampager
-1 Sylvan Caryatid
 1 Cavern of Souls
 1 Swamp
 1 Blooming Marsh
@@ -188,6 +187,7 @@
 1 Collective Brutality
 1 Bomat Courier
 1 Gather the Pack
+1 Sylvan Caryatid
 1 Grisly Salvage
 1 Drogskol Reaver
 1 Samut, Voice of Dissent
@@ -195,7 +195,6 @@
 1 Zetalpa, Primal Dawn
 2 Traverse the Ulvenwald
 2 Blooming Marsh
-2 Sylvan Caryatid
 2 Swamp
 2 Verdant Catacombs
 2 Blood Crypt
@@ -208,8 +207,8 @@
 2 Gather the Pack
 2 Bomat Courier
 2 Soulflayer
+2 Sylvan Caryatid
 3 Traverse the Ulvenwald
-3 Sylvan Caryatid
 3 Bloodstained Mire
 3 Zetalpa, Primal Dawn
 3 Gather the Pack
@@ -217,12 +216,13 @@
 3 Drogskol Reaver
 3 Soulflayer
 3 Bomat Courier
+3 Sylvan Caryatid
 3 Lotleth Troll
 3 Verdant Catacombs
 3 Samut, Voice of Dissent
 4 Traverse the Ulvenwald
-4 Sylvan Caryatid
 4 Bloodstained Mire
+4 Sylvan Caryatid
 4 Lotleth Troll
 4 Grisly Salvage
 4 Gather the Pack
@@ -232,7 +232,6 @@
 1 Squadron Hawk
 1 Geist of Saint Traft
 1 Moorland Haunt
-1 Flooded Strand
 1 Force of Virtue
 1 Island
 1 Selfless Spirit
@@ -240,6 +239,7 @@
 1 Spell Queller
 1 Empyrean Eagle
 1 Aether Vial
+1 Flooded Strand
 1 Deputy of Detention
 1 Silent Clearing
 1 Marsh Flats
@@ -251,7 +251,6 @@
 2 Mutavault
 2 Squadron Hawk
 2 Geist of Saint Traft
-2 Flooded Strand
 2 Island
 2 Aether Vial
 2 Force of Virtue
@@ -261,6 +260,7 @@
 2 Seachrome Coast
 2 Supreme Phantom
 2 Empyrean Eagle
+2 Flooded Strand
 2 Spell Queller
 3 Squadron Hawk
 3 Path to Exile
@@ -281,6 +281,7 @@
 4 Aether Vial
 4 Path to Exile
 4 Force of Virtue
+1 Seasoned Pyromancer
 1 Chandra, Torch of Defiance
 1 Wrenn and Six
 1 Elder Gargaroth
@@ -288,19 +289,18 @@
 1 Bonecrusher Giant
 1 Blood Moon
 1 Pillage
-1 Seasoned Pyromancer
+2 Seasoned Pyromancer
 2 Elder Gargaroth
 2 Bonecrusher Giant
 2 Blood Moon
-2 Seasoned Pyromancer
 2 Bloodbraid Elf
 2 Pillage
 2 Klothys, God of Destiny
 3 Elder Gargaroth
+3 Seasoned Pyromancer
 3 Pillage
 3 Bloodbraid Elf
 3 Klothys, God of Destiny
-3 Seasoned Pyromancer
 3 Stomping Ground
 3 Wooded Foothills
 3 Blood Moon

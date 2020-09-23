@@ -7,35 +7,35 @@
 3 Fetid Pools
 3 Thing in the Ice
 4 Shark Typhoon
+1 Growth Spiral
+1 Uro, Titan of Nature's Wrath
+1 Forest
+2 Growth Spiral
+2 Uro, Titan of Nature's Wrath
+2 Forest
+3 Growth Spiral
+4 Growth Spiral
 1 Neutralize
 1 Sublime Epiphany
-1 Growth Spiral
 1 Breeding Pool
 1 Blast Zone
 1 Hinterland Harbor
-1 Uro, Titan of Nature's Wrath
 1 Wilderness Reclamation
-1 Forest
 1 Temple of Mystery
 2 Castle Vantress
 2 Neutralize
 2 Sublime Epiphany
 2 Blast Zone
-2 Growth Spiral
 2 Breeding Pool
 2 Hinterland Harbor
-2 Uro, Titan of Nature's Wrath
-2 Forest
 2 Temple of Mystery
 2 Wilderness Reclamation
 3 Castle Vantress
-3 Growth Spiral
 3 Sublime Epiphany
 3 Breeding Pool
 3 Wilderness Reclamation
 3 Temple of Mystery
 4 Censor
-4 Growth Spiral
 4 Breeding Pool
 4 Temple of Mystery
 4 Wilderness Reclamation
@@ -47,6 +47,70 @@
 4 Sinister Sabotage
 5 Island
 3 Swamp
+1 Mountain
+1 Clifftop Retreat
+1 Teferi, Time Raveler
+1 Raugrin Triome
+2 Teferi, Time Raveler
+2 Raugrin Triome
+3 Raugrin Triome
+3 Teferi, Time Raveler
+4 Raugrin Triome
+4 Teferi, Time Raveler
+1 Plains
+1 Sunpetal Grove
+1 Ketria Triome
+1 Nahiri, the Harbinger
+1 Stomping Ground
+1 Felidar Retreat
+1 Escape to the Wilds
+1 Ugin, the Spirit Dragon
+1 Arboreal Grazer
+1 Genesis Ultimatum
+1 Lotus Cobra
+1 Temple Garden
+1 Sea Gate Restoration
+1 Agent of Treachery
+1 Omnath, Locus of Creation
+1 Cultivate
+1 Evolving Wilds
+1 Turntimber Symbiosis
+1 Rootbound Crag
+2 Ketria Triome
+2 Genesis Ultimatum
+2 Turntimber Symbiosis
+2 Evolving Wilds
+2 Lotus Cobra
+2 Felidar Retreat
+2 Sea Gate Restoration
+2 Omnath, Locus of Creation
+2 Cultivate
+2 Mountain
+2 Arboreal Grazer
+2 Escape to the Wilds
+2 Agent of Treachery
+3 Ketria Triome
+3 Felidar Retreat
+3 Genesis Ultimatum
+3 Lotus Cobra
+3 Evolving Wilds
+3 Sea Gate Restoration
+3 Forest
+3 Cultivate
+3 Arboreal Grazer
+3 Omnath, Locus of Creation
+3 Escape to the Wilds
+3 Agent of Treachery
+3 Uro, Titan of Nature's Wrath
+4 Evolving Wilds
+4 Genesis Ultimatum
+4 Omnath, Locus of Creation
+4 Lotus Cobra
+4 Ketria Triome
+4 Agent of Treachery
+4 Forest
+4 Uro, Titan of Nature's Wrath
+4 Sea Gate Restoration
 2 Eliminate
 2 Castle Locthwain
 1 Castle Ardenvale
@@ -57,19 +121,18 @@
 1 Savai Triome
 1 Treacherous Blessing
 1 Arch of Orazca
-1 Kaya's Wrath
-1 Temple of Silence
-1 Trial of Ambition
-1 Oath of Kaya
-1 The Birth of Meletis
-1 Doom Foretold
-1 Elspeth Conquers Death
 1 Concealed Courtyard
+1 Kaya's Wrath
+1 Doom Foretold
+1 Trial of Ambition
+1 Temple of Silence
+1 The Birth of Meletis
+1 Elspeth Conquers Death
 1 Isolated Chapel
 1 Yorion, Sky Nomad
 1 Godless Shrine
-1 Plains
 1 Starfield of Nyx
+1 Oath of Kaya
 2 Flicker of Fate
 2 Temple of Silence
 2 Mazemind Tome
@@ -78,12 +141,12 @@
 2 Treacherous Blessing
 2 Shambling Vent
 2 Elspeth Conquers Death
+2 Concealed Courtyard
 2 Plains
+2 Oath of Kaya
 2 Trial of Ambition
 2 Isolated Chapel
-2 Concealed Courtyard
 2 Doom Foretold
-2 Oath of Kaya
 2 Godless Shrine
 2 Yorion, Sky Nomad
 2 The Birth of Meletis
@@ -95,23 +158,23 @@
 3 Mazemind Tome
 3 Shambling Vent
 3 Concealed Courtyard
+3 Oath of Kaya
 3 The Birth of Meletis
 3 Kaya's Wrath
 3 Plains
 3 Godless Shrine
 3 Doom Foretold
-3 Oath of Kaya
 3 Isolated Chapel
 4 Oath of Kaya
 4 Isolated Chapel
-4 Trial of Ambition
 4 Mazemind Tome
+4 Trial of Ambition
 4 Shambling Vent
 4 Plains
 4 Kaya's Wrath
-4 Concealed Courtyard
 4 Doom Foretold
 4 Godless Shrine
+4 Concealed Courtyard
 5 Plains
 6 Plains
 1 Glimmer of Genius
@@ -129,33 +192,32 @@
 2 Aetherspouts
 3 Blast Zone
 3 Hinterland Harbor
+1 Blood Crypt
 1 Dreadbore
 1 Dragonskull Summit
 1 Nicol Bolas, the Ravager
 1 The Royal Scions
-1 Blood Crypt
 1 Kroxa, Titan of Death's Hunger
 1 Murderous Rider
 1 Chart a Course
 1 Bonecrusher Giant
-1 Mountain
 1 Discovery / Dispersal
+2 Blood Crypt
 2 Dreadbore
 2 Dragonskull Summit
 2 Nicol Bolas, the Ravager
-2 Blood Crypt
+2 The Royal Scions
 2 Kroxa, Titan of Death's Hunger
 2 Murderous Rider
-2 The Royal Scions
 2 Discovery / Dispersal
 2 Bonecrusher Giant
 2 Chart a Course
 3 Murderous Rider
+3 Blood Crypt
 3 Dreadbore
 3 Dragonskull Summit
 3 Kroxa, Titan of Death's Hunger
 3 Nicol Bolas, the Ravager
-3 Blood Crypt
 3 Discovery / Dispersal
 4 Kroxa, Titan of Death's Hunger
 4 Blood Crypt
@@ -166,7 +228,6 @@
 1 Wandering Fumarole
 1 Sacred Foundry
 1 Jace, Vryn's Prodigy
-1 Clifftop Retreat
 1 Temple of Enlightenment
 1 Temple of Epiphany
 1 Temple of Triumph
@@ -174,40 +235,32 @@
 1 Supreme Verdict
 1 Izzet Charm
 1 Collective Defiance
-1 Teferi, Time Raveler
-1 Hallowed Fountain
 1 Steam Vents
 1 Settle the Wreckage
 1 Dream Trawler
+1 Hallowed Fountain
 1 Karn, the Great Creator
 1 Anger of the Gods
-1 Raugrin Triome
 2 Sulfur Falls
 2 Sacred Foundry
 2 Temple of Enlightenment
 2 Clifftop Retreat
 2 Anger of the Gods
 2 Collective Defiance
-2 Teferi, Time Raveler
+2 Steam Vents
 2 Karn, the Great Creator
 2 Supreme Verdict
-2 Steam Vents
 2 Commit / Memory
 2 Hallowed Fountain
 2 Izzet Charm
-2 Raugrin Triome
 3 Anger of the Gods
 3 Sulfur Falls
-3 Commit / Memory
-3 Raugrin Triome
 3 Izzet Charm
-3 Teferi, Time Raveler
 3 Collective Defiance
 3 Steam Vents
 3 Hallowed Fountain
-4 Raugrin Triome
+3 Commit / Memory
 4 Hallowed Fountain
 4 Steam Vents
-4 Teferi, Time Raveler
 4 Collective Defiance
 4 Izzet Charm

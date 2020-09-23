@@ -47,11 +47,53 @@
 4 Temple Garden
 1 Overgrown Tomb
 1 Yorion, Sky Nomad
-2 Extinction Event
 2 Heartless Act
+2 Extinction Event
 1 Jolrael, Mwonvuli Recluse
 2 Jolrael, Mwonvuli Recluse
 2 Forest
+1 Temple of Enlightenment
+1 Waker of Waves
+1 Brightclimb Pathway
+1 Neutralize
+1 Branchloft Pathway
+1 Jwari Disruption
+1 Clearwater Pathway
+1 Bloodchief's Thirst
+1 Hagra Mauling
+1 Confounding Conundrum
+1 Mythos of Nethroi
+1 Negate
+2 Waker of Waves
+2 Branchloft Pathway
+2 Neutralize
+2 Jwari Disruption
+2 Clearwater Pathway
+2 Negate
+2 Bloodchief's Thirst
+2 Brightclimb Pathway
+2 Confounding Conundrum
+2 Mythos of Nethroi
+2 Swamp
+3 Mythos of Nethroi
+3 Waker of Waves
+3 Neutralize
+3 Clearwater Pathway
+3 Bloodchief's Thirst
+3 Brightclimb Pathway
+3 Confounding Conundrum
+3 Extinction Event
+3 Branchloft Pathway
+3 Island
+4 Branchloft Pathway
+4 Waker of Waves
+4 Mythos of Nethroi
+4 Confounding Conundrum
+4 Clearwater Pathway
+4 Bloodchief's Thirst
+4 Brightclimb Pathway
+4 Neutralize
+4 Island
 1 Solemn Simulacrum
 1 Mazemind Tome
 1 Doom Foretold
@@ -71,48 +113,6 @@
 4 Doom Foretold
 4 Mazemind Tome
 4 Oath of Kaya
-1 Temple of Enlightenment
-1 Brightclimb Pathway
-1 Neutralize
-1 Branchloft Pathway
-1 Hagra Mauling
-1 Bloodchief's Thirst
-1 Clearwater Pathway
-1 Confounding Conundrum
-1 Jwari Disruption
-1 Mythos of Nethroi
-1 Negate
-1 Waker of Waves
-2 Brightclimb Pathway
-2 Clearwater Pathway
-2 Branchloft Pathway
-2 Bloodchief's Thirst
-2 Confounding Conundrum
-2 Neutralize
-2 Jwari Disruption
-2 Negate
-2 Mythos of Nethroi
-2 Waker of Waves
-2 Swamp
-3 Brightclimb Pathway
-3 Waker of Waves
-3 Bloodchief's Thirst
-3 Mythos of Nethroi
-3 Clearwater Pathway
-3 Neutralize
-3 Confounding Conundrum
-3 Extinction Event
-3 Branchloft Pathway
-3 Island
-4 Island
-4 Neutralize
-4 Brightclimb Pathway
-4 Waker of Waves
-4 Clearwater Pathway
-4 Mythos of Nethroi
-4 Bloodchief's Thirst
-4 Confounding Conundrum
-4 Branchloft Pathway
 1 Vraska, Golgari Queen
 1 Hydroid Krasis
 1 Mountain
@@ -137,17 +137,17 @@
 1 Tyrant's Scorn
 1 Arboreal Grazer
 1 Casualties of War
-1 Tolsimir, Friend to Wolves
+1 Knight of Autumn
 1 Steam Vents
 1 Solar Blaze
 1 Deafening Clarion
 1 Niv-Mizzet Reborn
-1 Knight of Autumn
 1 Expansion / Explosion
 1 Time Wipe
 1 Sacred Foundry
 1 Justice Strike
 1 March of the Multitudes
+1 Tolsimir, Friend to Wolves
 2 Arboreal Grazer
 2 Niv-Mizzet Reborn
 2 Deafening Clarion
@@ -157,19 +157,19 @@
 3 Deafening Clarion
 4 Niv-Mizzet Reborn
 4 Arboreal Grazer
-1 Temple of Plenty
+1 Nissa, Who Shakes the World
 1 Llanowar Visionary
 1 Kenrith, the Returned King
 1 Glass Casket
+1 Temple of Plenty
 1 Brazen Borrower
 1 Shatter the Sky
-1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
-2 Temple of Plenty
 2 Llanowar Visionary
 2 Hydroid Krasis
 2 Shatter the Sky
 2 Glass Casket
+2 Temple of Plenty
 2 Brazen Borrower
 3 Hydroid Krasis
 3 Jolrael, Mwonvuli Recluse

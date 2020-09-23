@@ -1,15 +1,15 @@
 1 Catacomb Sifter
 1 Bolas's Citadel
 1 Woe Strider
-1 Zulaport Cutthroat
 1 Priest of Forgotten Gods
+1 Zulaport Cutthroat
 1 Mayhem Devil
 1 Blood Crypt
 2 Catacomb Sifter
-2 Bolas's Citadel
-2 Zulaport Cutthroat
-2 Priest of Forgotten Gods
 2 Gilded Goose
+2 Bolas's Citadel
+2 Priest of Forgotten Gods
+2 Zulaport Cutthroat
 2 Woe Strider
 2 Mayhem Devil
 2 Blood Crypt
@@ -21,9 +21,9 @@
 3 Mayhem Devil
 3 Gilded Goose
 3 Blood Crypt
+4 Woe Strider
 4 Bolas's Citadel
 4 Catacomb Sifter
-4 Woe Strider
 4 Zulaport Cutthroat
 4 Priest of Forgotten Gods
 4 Gilded Goose
@@ -43,13 +43,16 @@
 1 Breeding Pool
 2 Breeding Pool
 1 Scrapheap Scrounger
+1 Stitcher's Supplier
+2 Stitcher's Supplier
+3 Stitcher's Supplier
+4 Stitcher's Supplier
 2 Watery Grave
 3 Watery Grave
-1 Stitcher's Supplier
+1 Silversmote Ghoul
+1 Haunted Dead
 1 Creeping Chill
 1 Prized Amalgam
-1 Haunted Dead
-1 Silversmote Ghoul
 1 Narcomoeba
 1 Satyr Wayfinder
 1 Grisly Salvage
@@ -57,7 +60,6 @@
 2 Grisly Salvage
 2 Botanical Sanctum
 2 Creeping Chill
-2 Stitcher's Supplier
 2 Prized Amalgam
 2 Silversmote Ghoul
 2 Satyr Wayfinder
@@ -68,16 +70,14 @@
 3 Silversmote Ghoul
 3 Prized Amalgam
 3 Creeping Chill
-3 Stitcher's Supplier
-3 Satyr Wayfinder
 3 Merfolk Secretkeeper
+3 Satyr Wayfinder
 3 Botanical Sanctum
 4 Merfolk Secretkeeper
 4 Grisly Salvage
-4 Silversmote Ghoul
-4 Creeping Chill
-4 Stitcher's Supplier
 4 Prized Amalgam
+4 Creeping Chill
+4 Silversmote Ghoul
 4 Satyr Wayfinder
 1 Experiment One
 2 Experiment One
@@ -123,11 +123,14 @@
 4 Walking Ballista
 1 Rootbound Crag
 3 Llanowar Wastes
+1 Urborg, Tomb of Yawgmoth
 3 Plains
 4 Plains
 5 Plains
 1 Ajani, Adversary of Tyrants
 2 Ajani, Adversary of Tyrants
+1 Godless Shrine
+2 Godless Shrine
 1 Mutavault
 2 Mutavault
 1 Fortified Village
@@ -135,7 +138,6 @@
 2 Fortified Village
 4 Elvish Mystic
 4 Llanowar Elves
-1 Urborg, Tomb of Yawgmoth
 1 Thoughtseize
 2 Thoughtseize
 1 Courser of Kruphix
@@ -157,8 +159,21 @@
 4 Blisterpod
 1 Dragonskull Summit
 4 Blood Crypt
-1 Godless Shrine
-2 Godless Shrine
+1 Oath of Nissa
+1 Winding Constrictor
+2 Oath of Nissa
+2 Winding Constrictor
+3 Oath of Nissa
+3 Winding Constrictor
+3 Dromoka's Command
+4 Winding Constrictor
+4 Pelt Collector
+4 Dromoka's Command
+1 Castle Locthwain
+2 Swamp
+2 Castle Locthwain
+3 Castle Locthwain
+3 Swamp
 1 Drowned Catacomb
 2 Drowned Catacomb
 3 Drowned Catacomb
@@ -173,7 +188,6 @@
 1 Atris, Oracle of Half-Truths
 1 Ashiok, Nightmare Muse
 1 Thought Erasure
-1 Castle Locthwain
 1 Collective Brutality
 1 Fetid Pools
 1 Fatal Push
@@ -191,17 +205,13 @@
 2 Collective Brutality
 2 Fatal Push
 2 Murderous Rider
-2 Swamp
 2 Kalitas, Traitor of Ghet
-2 Castle Locthwain
 2 Fetid Pools
 3 Glint-Sleeve Siphoner
 3 Drown in the Loch
 3 Aether Hub
 3 Fetid Pools
 3 Thief of Sanity
-3 Castle Locthwain
-3 Swamp
 3 Fatal Push
 3 Thoughtseize
 3 Murderous Rider
@@ -268,16 +278,6 @@
 4 Herald of the Pantheon
 4 Starfield Mystic
 4 Courser of Kruphix
-1 Oath of Nissa
-1 Winding Constrictor
-2 Oath of Nissa
-2 Winding Constrictor
-3 Oath of Nissa
-3 Winding Constrictor
-3 Dromoka's Command
-4 Winding Constrictor
-4 Pelt Collector
-4 Dromoka's Command
 1 Breaking / Entering
 1 Brokkos, Apex of Forever
 1 Uro, Titan of Nature's Wrath
@@ -365,6 +365,8 @@
 4 Hashep Oasis
 4 Rotting Regisaur
 4 Llanowar Wastes
+3 Godless Shrine
+4 Godless Shrine
 1 Irrigated Farmland
 1 Seasoned Hallowblade
 1 Sphinx's Revelation
@@ -400,11 +402,9 @@
 3 Spell Pierce
 3 Glacial Fortress
 3 Supreme Verdict
-3 Godless Shrine
 4 Irrigated Farmland
 4 Seasoned Hallowblade
 4 Teferi, Time Raveler
-4 Godless Shrine
 4 Heart of Kiran
 4 Glacial Fortress
 4 Hallowed Fountain
@@ -427,18 +427,58 @@
 4 Inspiring Vantage
 4 Mantis Rider
 4 Mutavault
+1 Dark Salvation
+1 Cryptbreaker
+1 Lazotep Reaver
+1 Isolated Chapel
+1 Wayward Servant
+1 Slitherhead
+1 Necrotic Wound
+1 Rally the Ancestors
+1 Liliana, Untouched by Death
+1 Foulmire Knight
+1 Corpse Knight
+1 Diregraf Colossus
+2 Lazotep Reaver
+2 Dark Salvation
+2 Diregraf Colossus
+2 Cryptbreaker
+2 Isolated Chapel
+2 Rally the Ancestors
+2 Liliana, Untouched by Death
+2 Slitherhead
+2 Wayward Servant
+2 Foulmire Knight
+2 Corpse Knight
+3 Cryptbreaker
+3 Lazotep Reaver
+3 Dark Salvation
+3 Isolated Chapel
+3 Slitherhead
+3 Wayward Servant
+3 Rally the Ancestors
+3 Liliana, Untouched by Death
+3 Corpse Knight
+4 Cryptbreaker
+4 Dark Salvation
+4 Isolated Chapel
+4 Rally the Ancestors
+4 Wayward Servant
+4 Corpse Knight
+4 Swamp
+5 Swamp
 1 Brimaz, King of Oreskos
 1 Adorned Pouncer
-1 Fleecemane Lion
+1 Kaheera, the Orphanguard
+1 Sacred Cat
 1 Pride Sovereign
 1 Feline Sovereign
 1 Bronzehide Lion
-1 Sacred Cat
 1 Regal Caracal
 1 Leonin Vanguard
+1 Fleecemane Lion
 1 Ajani Steadfast
 1 Animal Sanctuary
-1 Kaheera, the Orphanguard
 2 Brimaz, King of Oreskos
 2 Adorned Pouncer
 2 Sacred Cat

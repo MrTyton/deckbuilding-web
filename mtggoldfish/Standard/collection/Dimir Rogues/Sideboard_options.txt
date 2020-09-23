@@ -21,10 +21,10 @@
 1 Tymaret, Chosen from Death
 1 Extinction Event
 2 Extinction Event
-1 Grasp of Darkness
-2 Grasp of Darkness
 1 Lullmage's Domination
 2 Lullmage's Domination
+1 Grasp of Darkness
+2 Grasp of Darkness
 1 Anticognition
 1 Soul-Guide Lantern
 1 Drown in the Loch
@@ -32,20 +32,15 @@
 2 Drown in the Loch
 2 Soul-Guide Lantern
 3 Anticognition
-3 Eliminate
-3 Murderous Rider
-4 Eliminate
-4 Murderous Rider
 1 Lochmere Serpent
 2 Ashiok, Nightmare Muse
 4 Mystical Dispute
-4 Agonizing Remorse
 1 Jace, Mirror Mage
 1 Nighthawk Scavenger
 2 Jace, Mirror Mage
 2 Nighthawk Scavenger
-3 Nighthawk Scavenger
 3 Jace, Mirror Mage
+3 Nighthawk Scavenger
 4 Nighthawk Scavenger
 1 Thieving Skydiver
 1 Erebos's Intervention
@@ -57,6 +52,11 @@
 3 Erebos's Intervention
 4 Tymaret, Chosen from Death
 4 Thieving Skydiver
+4 Agonizing Remorse
+3 Eliminate
+3 Murderous Rider
+4 Eliminate
+4 Murderous Rider
 1 Miscast
 2 Miscast
 4 Cling to Dust

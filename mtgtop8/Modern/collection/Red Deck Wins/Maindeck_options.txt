@@ -1,12 +1,15 @@
 3 Arid Mesa
 4 Arid Mesa
+3 Bloodstained Mire
+4 Bloodstained Mire
+3 Skullcrack
+4 Mountain
 1 Soul-Scar Mage
 1 Lava Dart
 2 Lava Dart
 2 Soul-Scar Mage
 3 Lava Dart
 4 Lava Dart
-4 Mountain
 3 Soul-Scar Mage
 4 Soul-Scar Mage
 1 Light Up the Stage
@@ -23,10 +26,8 @@
 12 Mountain
 13 Mountain
 14 Mountain
-3 Bloodstained Mire
 1 Firebolt
 2 Firebolt
-3 Skullcrack
 1 Blistercoil Weird
 2 Blistercoil Weird
 3 Blistercoil Weird
@@ -44,36 +45,30 @@
 15 Mountain
 16 Mountain
 17 Mountain
-1 Manamorphose
-2 Manamorphose
-3 Manamorphose
-4 Manamorphose
+3 Wooded Foothills
+3 Lightning Helix
 2 Fiery Islet
-4 Bloodstained Mire
-1 Crash Through
-2 Crash Through
-3 Crash Through
-4 Crash Through
 1 Flame Slash
 2 Flame Slash
 1 Burst Lightning
 2 Burst Lightning
 18 Mountain
-3 Wooded Foothills
-3 Lightning Helix
-1 Bedlam Reveler
-2 Bedlam Reveler
-3 Bedlam Reveler
+1 Manamorphose
+2 Manamorphose
+3 Manamorphose
+4 Manamorphose
 1 Scalding Tarn
-1 Runaway Steam-Kin
-1 Gut Shot
-2 Runaway Steam-Kin
-2 Gut Shot
-3 Runaway Steam-Kin
+1 Crash Through
+2 Crash Through
+3 Crash Through
+4 Crash Through
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Skullcrack
+1 Bedlam Reveler
+2 Bedlam Reveler
+3 Bedlam Reveler
 3 Sacred Foundry
 1 Mishra's Bauble
 2 Mishra's Bauble
@@ -83,6 +78,7 @@
 2 Seal of Fire
 3 Seal of Fire
 4 Seal of Fire
+4 Lightning Helix
 1 Kiln Fiend
 1 Abbot of Keral Keep
 2 Kiln Fiend
@@ -90,6 +86,11 @@
 3 Kiln Fiend
 3 Abbot of Keral Keep
 4 Abbot of Keral Keep
+1 Runaway Steam-Kin
+1 Gut Shot
+2 Runaway Steam-Kin
+2 Gut Shot
+3 Runaway Steam-Kin
 1 Path to Exile
 2 Path to Exile
 3 Path to Exile
@@ -100,7 +101,6 @@
 1 Wild Slash
 2 Wild Slash
 4 Bedlam Reveler
-4 Lightning Helix
 1 Blackcleave Cliffs
 1 Temur Battle Rage
 1 Thoughtseize
@@ -117,6 +117,24 @@
 4 Kiln Fiend
 4 Mutagenic Growth
 4 Blackcleave Cliffs
+1 Atarka's Command
+1 Wild Nacatl
+1 Grim Lavamancer
+1 Thunderous Wrath
+1 Copperline Gorge
+1 Stomping Ground
+2 Atarka's Command
+2 Wild Nacatl
+2 Stomping Ground
+2 Copperline Gorge
+2 Thunderous Wrath
+3 Copperline Gorge
+3 Atarka's Command
+3 Wild Nacatl
+3 Thunderous Wrath
+4 Copperline Gorge
+4 Atarka's Command
+4 Wild Nacatl
 1 Chandra's Incinerator
 2 Chandra's Incinerator
 3 Chandra's Incinerator
