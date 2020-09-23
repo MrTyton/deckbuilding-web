@@ -1,3 +1,9 @@
+3 Force of Will
+4 Force of Will
+1 Ponder
+1 Brainstorm
+2 Brainstorm
+2 Ponder
 3 Brainstorm
 4 Brainstorm
 3 Ponder
@@ -9,77 +15,108 @@
 1 Uro, Titan of Nature's Wrath
 2 Misty Rainforest
 2 Uro, Titan of Nature's Wrath
-2 Snow-Covered Island
-1 Snow-Covered Forest
-3 Misty Rainforest
 1 Volcanic Island
-2 Oko, Thief of Crowns
-2 Cabal Therapy
+2 Snow-Covered Island
+1 Scalding Tarn
 1 Polluted Delta
 2 Polluted Delta
+1 Snow-Covered Forest
+3 Misty Rainforest
+2 Oko, Thief of Crowns
 1 Underground Sea
 1 Karakas
+1 Tundra
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
 3 Arcum's Astrolabe
-1 Tundra
-4 Misty Rainforest
-1 Scalding Tarn
+3 Polluted Delta
+2 Scalding Tarn
 1 Swords to Plowshares
 2 Swords to Plowshares
 3 Oko, Thief of Crowns
-1 Snow-Covered Plains
-1 Force of Negation
-3 Snow-Covered Island
-4 Arcum's Astrolabe
-2 Snow-Covered Forest
-1 Prismatic Vista
-2 Prismatic Vista
+1 Preordain
 1 Daze
 2 Daze
-1 Sylvan Library
-3 Uro, Titan of Nature's Wrath
-3 Polluted Delta
-3 Swords to Plowshares
-1 Spell Pierce
-2 Scalding Tarn
+1 Snow-Covered Plains
+2 Volcanic Island
 1 Wasteland
 2 Wasteland
-1 Once Upon a Time
 3 Wasteland
-1 Snow-Covered Swamp
-1 Bridge from Below
-3 Cabal Therapy
-4 Cabal Therapy
-2 Once Upon a Time
-2 Tropical Island
-1 Preordain
-2 Volcanic Island
-1 Abrupt Decay
-2 Abrupt Decay
-4 Wasteland
+3 Swords to Plowshares
 1 Lightning Bolt
 2 Lightning Bolt
 1 Dreadhorde Arcanist
 2 Preordain
 2 Dreadhorde Arcanist
+2 Tropical Island
 3 Scalding Tarn
 3 Dreadhorde Arcanist
-1 Flooded Strand
-3 Daze
-3 Tropical Island
-4 Daze
-4 Swords to Plowshares
-3 Cabal Ritual
+1 Spell Pierce
+1 Force of Negation
+4 Misty Rainforest
 3 Turntimber Symbiosis
-4 Cabal Ritual
+3 Cabal Ritual
 4 Turntimber Symbiosis
+4 Cabal Ritual
 1 Chancellor of the Annex
 2 Chancellor of the Annex
 3 Once Upon a Time
 3 Chancellor of the Annex
 4 Once Upon a Time
 4 Chancellor of the Annex
+4 Wasteland
+1 Flooded Strand
+2 Flooded Strand
+3 Flooded Strand
+4 Swords to Plowshares
+4 Flooded Strand
+1 Stoneforge Mystic
+1 Batterskull
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+1 Aether Vial
+2 Aether Vial
+3 Aether Vial
+1 Recruiter of the Guard
+2 Recruiter of the Guard
+1 Plague Engineer
+1 Dark Confidant
+1 Scrubland
+1 Umezawa's Jitte
+1 Sword of Fire and Ice
+1 Eliminate
+1 Silent Clearing
+2 Dark Confidant
+2 Eliminate
+2 Scrubland
+2 Plague Engineer
+3 Scrubland
+1 Palace Jailer
+1 Thalia, Guardian of Thraben
+1 Windswept Heath
+2 Thalia, Guardian of Thraben
+2 Windswept Heath
+3 Thalia, Guardian of Thraben
+4 Aether Vial
+1 Phyrexian Revoker
+1 Mirran Crusader
+1 Flickerwisp
+1 Sanctum Prelate
+1 Rishadan Port
+1 Mother of Runes
+2 Snow-Covered Plains
+2 Flickerwisp
+2 Karakas
+2 Phyrexian Revoker
+2 Mother of Runes
+2 Rishadan Port
+3 Snow-Covered Plains
+3 Flickerwisp
+3 Mother of Runes
+3 Rishadan Port
+4 Snow-Covered Plains
+4 Arcum's Astrolabe
+1 Sylvan Library
 1 Shambling Shell
 1 Phantasmagorian
 1 Golgari Thug
@@ -118,26 +155,14 @@
 4 Street Wraith
 4 Ichorid
 4 Bridge from Below
-1 Brazen Borrower
-3 Lightning Bolt
-1 Stifle
-2 Stifle
-3 Stifle
-4 Stifle
-1 Thoughtseize
-4 Scalding Tarn
-1 Dead of Winter
-2 Dead of Winter
-1 Delver of Secrets
-2 Delver of Secrets
-2 Spell Pierce
-3 Delver of Secrets
-4 Delver of Secrets
-1 Veil of Summer
-4 Polluted Delta
-1 Pyroblast
-3 Abrupt Decay
 2 Underground Sea
+3 Uro, Titan of Nature's Wrath
+3 Lightning Bolt
+2 Snow-Covered Forest
+3 Snow-Covered Island
+4 Scalding Tarn
+1 Snow-Covered Swamp
+4 Polluted Delta
 1 Baleful Strix
 1 Seat of the Synod
 1 Emry, Lurker of the Loch
@@ -148,6 +173,7 @@
 4 Baleful Strix
 4 Emry, Lurker of the Loch
 1 Ancient Tomb
+1 Cavern of Souls
 1 Chalice of the Void
 2 Chalice of the Void
 2 Ancient Tomb
@@ -155,7 +181,11 @@
 3 Chalice of the Void
 4 Chalice of the Void
 4 Ancient Tomb
-3 Volcanic Island
+1 Prismatic Vista
+1 Abrupt Decay
+2 Prismatic Vista
+2 Abrupt Decay
+1 Pyroblast
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
@@ -173,26 +203,31 @@
 3 Seat of the Synod
 3 Urza, Lord High Artificer
 4 Seat of the Synod
-2 Flooded Strand
-3 Flooded Strand
-4 Flooded Strand
+3 Daze
+3 Volcanic Island
+3 Tropical Island
+4 Daze
 1 Fatal Push
-1 Island
 1 Snapcaster Mage
 1 Jace, the Mind Sculptor
+1 Brazen Borrower
+1 Island
 1 Assassin's Trophy
 1 Punishing Fire
 1 Grove of the Burnwillows
 2 Grove of the Burnwillows
 2 Punishing Fire
 3 Grove of the Burnwillows
-1 Cavern of Souls
+1 Thoughtseize
+1 Swamp
+2 Thoughtseize
+3 Windswept Heath
+1 Hymn to Tourach
+2 Hymn to Tourach
+3 Hymn to Tourach
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 1 Savannah
-1 Aether Vial
-2 Aether Vial
-3 Aether Vial
 1 Forest
 1 Mox Diamond
 2 Mox Diamond
@@ -203,8 +238,8 @@
 1 Flagstones of Trokair
 1 Crop Rotation
 1 Dark Depths
-1 Qasali Pridemage
 1 Thespian's Stage
+1 Qasali Pridemage
 1 Allosaurus Shepherd
 1 Courser of Kruphix
 1 Valakut, the Molten Pinnacle
@@ -214,12 +249,9 @@
 1 Primeval Titan
 1 Tireless Tracker
 1 Bojuka Bog
-1 Palace Jailer
 1 Eternal Witness
-1 Thalia, Guardian of Thraben
 1 Ramunap Excavator
 1 Dryad Arbor
-1 Windswept Heath
 1 Knight of the Reliquary
 1 Archon of Valor's Reach
 1 Eladamri's Call
@@ -232,43 +264,37 @@
 2 Dryad of the Ilysian Grove
 2 Field of the Dead
 2 Vesuva
-2 Thalia, Guardian of Thraben
 2 Savannah
 2 Forest
 2 Green Sun's Zenith
 2 Eladamri's Call
-2 Windswept Heath
 2 Valakut, the Molten Pinnacle
 3 Flagstones of Trokair
 3 Crop Rotation
 3 Elvish Reclaimer
 3 Snow-Covered Forest
-3 Thalia, Guardian of Thraben
-3 Windswept Heath
 3 Dryad of the Ilysian Grove
 3 Green Sun's Zenith
 4 Elvish Reclaimer
 4 Snow-Covered Forest
 4 Green Sun's Zenith
-4 Aether Vial
 4 Windswept Heath
 4 Dryad of the Ilysian Grove
-1 Swamp
-2 Thoughtseize
 1 Sorcerous Spyglass
 3 Karn, the Great Creator
 4 Karn, the Great Creator
-1 Hymn to Tourach
-2 Hymn to Tourach
-3 Hymn to Tourach
 1 Mox Opal
 2 Mox Opal
 3 Mox Opal
-1 Stoneforge Mystic
-1 Batterskull
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-1 Plague Engineer
+1 Inquisition of Kozilek
+1 Liliana of the Veil
+2 Inquisition of Kozilek
+2 Swamp
+2 Liliana of the Veil
+3 Thoughtseize
+3 Liliana of the Veil
+3 Swamp
+1 Ensnaring Bridge
 2 Cavern of Souls
 1 Walking Ballista
 1 Leovold, Emissary of Trest
@@ -288,20 +314,9 @@
 3 Dack Fayden
 3 Assassin's Trophy
 4 Assassin's Trophy
-1 Snow-Covered Mountain
-4 Lightning Bolt
-1 Hooting Mandrills
-1 Tarmogoyf
-1 Klothys, God of Destiny
-2 Hooting Mandrills
-2 Tarmogoyf
-3 Hooting Mandrills
-1 Shark Typhoon
-2 Shark Typhoon
-2 Sylvan Library
-3 Sylvan Library
-4 Uro, Titan of Nature's Wrath
+1 Volrath's Stronghold
 1 Supreme Verdict
+1 Veil of Summer
 1 Monastery Mentor
 2 Jace, the Mind Sculptor
 2 Pyroblast
@@ -310,30 +325,42 @@
 2 Monastery Mentor
 3 Monastery Mentor
 4 Snow-Covered Island
-1 Counterspell
-1 Spell Snare
-1 Jolrael, Mwonvuli Recluse
-1 Hexdrinker
-2 Spell Snare
-2 Jolrael, Mwonvuli Recluse
-2 Hexdrinker
-2 Brazen Borrower
-4 Tropical Island
+4 Lightning Bolt
+1 Delver of Secrets
+1 Hooting Mandrills
+1 Tarmogoyf
+1 Klothys, God of Destiny
+2 Delver of Secrets
+2 Hooting Mandrills
+2 Tarmogoyf
+2 Spell Pierce
+3 Delver of Secrets
+3 Hooting Mandrills
+4 Delver of Secrets
+1 Stifle
+1 Snow-Covered Mountain
+2 Stifle
+3 Stifle
+4 Stifle
+4 Rishadan Port
+1 Nihil Spellbomb
+2 Nihil Spellbomb
+2 Fatal Push
+3 Abrupt Decay
+3 Prismatic Vista
+3 Nihil Spellbomb
+4 Oko, Thief of Crowns
 1 Teferi, Time Raveler
 1 Village Rites
 1 Sea Gate Stormcaller
+1 Dead of Winter
 2 Teferi, Time Raveler
 2 Village Rites
+2 Dead of Winter
 2 Sea Gate Stormcaller
 3 Teferi, Time Raveler
 3 Sea Gate Stormcaller
 4 Sea Gate Stormcaller
-1 Nihil Spellbomb
-2 Nihil Spellbomb
-2 Fatal Push
-3 Prismatic Vista
-3 Nihil Spellbomb
-4 Oko, Thief of Crowns
 1 Faerie Macabre
 1 Flayer of the Hatebound
 1 Unmask
@@ -344,10 +371,8 @@
 1 Cephalid Illusionist
 1 Shuko
 1 Nomads en-Kor
-1 Recruiter of the Guard
 2 Tundra
 2 Nomads en-Kor
-2 Recruiter of the Guard
 2 Cephalid Illusionist
 3 Tundra
 3 Nomads en-Kor
@@ -355,7 +380,6 @@
 4 Stoneforge Mystic
 4 Cephalid Illusionist
 4 Urza, Lord High Artificer
-1 Ensnaring Bridge
 1 Academy Ruins
 1 Inventors' Fair
 1 Talisman of Dominance
@@ -375,16 +399,16 @@
 4 Vault of Whispers
 4 Underground Sea
 1 Wooded Foothills
-1 Aria of Flame
 1 Taiga
+1 Aria of Flame
 1 Kavu Predator
 1 Invigorate
 2 Aria of Flame
 2 Kavu Predator
 2 Invigorate
 3 Aria of Flame
-3 Invigorate
 3 Kavu Predator
+3 Invigorate
 4 Dreadhorde Arcanist
 4 Kavu Predator
 4 Invigorate
@@ -511,39 +535,20 @@
 4 Reality Smasher
 4 Crystal Vein
 4 Thought-Knot Seer
-1 Inquisition of Kozilek
-1 Liliana of the Veil
-2 Inquisition of Kozilek
-2 Swamp
-2 Liliana of the Veil
-3 Thoughtseize
-3 Liliana of the Veil
-3 Swamp
-1 Dark Confidant
 1 Sevinne's Reclamation
-1 Scrubland
 1 Marsh Flats
-1 Umezawa's Jitte
-1 Sword of Fire and Ice
 1 Kaya, Orzhov Usurper
-1 Eliminate
 1 Collective Brutality
 1 Kaya's Guile
-1 Silent Clearing
 1 Lingering Souls
 1 Shambling Vent
 2 Marsh Flats
-2 Dark Confidant
 2 Plains
-2 Eliminate
-2 Scrubland
-2 Plague Engineer
 2 Lingering Souls
 2 Kaya, Orzhov Usurper
 2 Silent Clearing
 3 Marsh Flats
 3 Dark Confidant
-3 Scrubland
 4 Dark Confidant
 4 Scrubland
 4 Marsh Flats
@@ -556,13 +561,13 @@
 1 Blistercoil Weird
 1 Faithless Looting
 1 Abrade
-1 Chain Lightning
 1 Lava Dart
 1 Soul-Scar Mage
 1 Light Up the Stage
 1 Gut Shot
 1 Bedlam Reveler
 1 Fireblast
+1 Chain Lightning
 1 Monastery Swiftspear
 2 Chain Lightning
 2 Blistercoil Weird
@@ -601,10 +606,10 @@
 17 Mountain
 18 Mountain
 1 Cling to Dust
-1 Liliana, Waker of the Dead
 1 Castle Locthwain
 1 Liliana, the Last Hope
 1 Mishra's Factory
+1 Liliana, Waker of the Dead
 1 The Tabernacle at Pendrell Vale
 1 Liliana's Triumph
 1 Chains of Mephistopheles

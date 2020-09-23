@@ -68,12 +68,12 @@
 1 Disrupting Shoal
 1 Ninja of the Deep Hours
 1 Ice-Fang Coatl
-1 Faerie Seer
-1 Breeding Pool
 1 Spellstutter Sprite
+1 Breeding Pool
 1 Abrupt Decay
 1 Snow-Covered Forest
 1 Drown in the Loch
+1 Faerie Seer
 1 Mist-Syndicate Naga
 1 Ingenious Infiltrator
 1 Gilded Goose
@@ -87,9 +87,8 @@
 1 Snow-Covered Swamp
 2 Disrupting Shoal
 2 Ice-Fang Coatl
-2 Faerie Seer
-2 Brazen Borrower
 2 Spellstutter Sprite
+2 Brazen Borrower
 2 Misty Rainforest
 2 Gilded Goose
 2 Fatal Push
@@ -99,20 +98,21 @@
 2 Ingenious Infiltrator
 2 Snow-Covered Island
 2 Mana Leak
+2 Faerie Seer
 3 Disrupting Shoal
-3 Faerie Seer
+3 Spellstutter Sprite
 3 Ice-Fang Coatl
 3 Brazen Borrower
-3 Spellstutter Sprite
 3 Misty Rainforest
 3 Ingenious Infiltrator
 3 Snow-Covered Island
+3 Faerie Seer
 3 Gilded Goose
 3 Polluted Delta
 3 Fatal Push
 3 Darkslick Shores
-4 Misty Rainforest
 4 Spellstutter Sprite
+4 Misty Rainforest
 4 Fatal Push
 4 Faerie Seer
 4 Ingenious Infiltrator
@@ -128,8 +128,8 @@
 1 Forgotten Cave
 1 Mana Confluence
 1 Conflagrate
-1 Copperline Gorge
 1 Arid Mesa
+1 Copperline Gorge
 1 Narcomoeba
 1 Life from the Loam
 1 Stinkweed Imp
@@ -141,6 +141,7 @@
 1 Cathartic Reunion
 1 Ox of Agonas
 1 Silversmote Ghoul
+2 Arid Mesa
 2 Golgari Thug
 2 Ox of Agonas
 2 Merchant of the Vale
@@ -149,7 +150,6 @@
 2 Silversmote Ghoul
 2 Forgotten Cave
 2 Cathartic Reunion
-2 Arid Mesa
 2 Stinkweed Imp
 2 Shriekhorn
 2 Prized Amalgam
@@ -178,6 +178,7 @@
 1 Traverse the Ulvenwald
 1 Nurturing Peatland
 1 Ghor-Clan Rampager
+1 Sylvan Caryatid
 1 Cavern of Souls
 1 Swamp
 1 Blooming Marsh
@@ -187,7 +188,6 @@
 1 Collective Brutality
 1 Bomat Courier
 1 Gather the Pack
-1 Sylvan Caryatid
 1 Grisly Salvage
 1 Drogskol Reaver
 1 Samut, Voice of Dissent
@@ -195,6 +195,7 @@
 1 Zetalpa, Primal Dawn
 2 Traverse the Ulvenwald
 2 Blooming Marsh
+2 Sylvan Caryatid
 2 Swamp
 2 Verdant Catacombs
 2 Blood Crypt
@@ -207,8 +208,8 @@
 2 Gather the Pack
 2 Bomat Courier
 2 Soulflayer
-2 Sylvan Caryatid
 3 Traverse the Ulvenwald
+3 Sylvan Caryatid
 3 Bloodstained Mire
 3 Zetalpa, Primal Dawn
 3 Gather the Pack
@@ -216,13 +217,12 @@
 3 Drogskol Reaver
 3 Soulflayer
 3 Bomat Courier
-3 Sylvan Caryatid
 3 Lotleth Troll
 3 Verdant Catacombs
 3 Samut, Voice of Dissent
 4 Traverse the Ulvenwald
-4 Bloodstained Mire
 4 Sylvan Caryatid
+4 Bloodstained Mire
 4 Lotleth Troll
 4 Grisly Salvage
 4 Gather the Pack
@@ -249,8 +249,8 @@
 1 Godless Shrine
 1 Supreme Phantom
 2 Mutavault
-2 Geist of Saint Traft
 2 Squadron Hawk
+2 Geist of Saint Traft
 2 Flooded Strand
 2 Island
 2 Aether Vial

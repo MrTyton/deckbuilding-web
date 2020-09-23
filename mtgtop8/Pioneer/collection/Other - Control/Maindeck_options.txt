@@ -52,12 +52,11 @@
 1 Castle Ardenvale
 1 Shambling Vent
 1 Flicker of Fate
-1 Treacherous Blessing
 1 Basilica Bell-Haunt
 1 Mazemind Tome
 1 Savai Triome
+1 Treacherous Blessing
 1 Arch of Orazca
-1 Concealed Courtyard
 1 Kaya's Wrath
 1 Temple of Silence
 1 Trial of Ambition
@@ -65,28 +64,29 @@
 1 The Birth of Meletis
 1 Doom Foretold
 1 Elspeth Conquers Death
+1 Concealed Courtyard
 1 Isolated Chapel
 1 Yorion, Sky Nomad
 1 Godless Shrine
 1 Plains
 1 Starfield of Nyx
 2 Flicker of Fate
-2 Treacherous Blessing
+2 Temple of Silence
 2 Mazemind Tome
 2 Basilica Bell-Haunt
 2 Savai Triome
+2 Treacherous Blessing
 2 Shambling Vent
 2 Elspeth Conquers Death
-2 Concealed Courtyard
 2 Plains
 2 Trial of Ambition
 2 Isolated Chapel
+2 Concealed Courtyard
 2 Doom Foretold
 2 Oath of Kaya
 2 Godless Shrine
 2 Yorion, Sky Nomad
 2 The Birth of Meletis
-2 Temple of Silence
 2 Kaya's Wrath
 2 Castle Ardenvale
 3 Trial of Ambition
@@ -168,8 +168,8 @@
 1 Jace, Vryn's Prodigy
 1 Clifftop Retreat
 1 Temple of Enlightenment
-1 Temple of Triumph
 1 Temple of Epiphany
+1 Temple of Triumph
 1 Commit / Memory
 1 Supreme Verdict
 1 Izzet Charm

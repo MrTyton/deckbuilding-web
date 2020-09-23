@@ -1,25 +1,26 @@
-1 Inventors' Fair
-4 Emry, Lurker of the Loch
-2 Chromatic Star
-1 Glimmervoid
-1 Island
-2 Island
-3 Island
-4 Island
-1 Spirebluff Canal
-1 Darkslick Shores
 1 Spire of Industry
 2 Spirebluff Canal
 2 Darkslick Shores
-2 Talisman of Dominance
+1 Emry, Lurker of the Loch
+2 Emry, Lurker of the Loch
 2 Pentad Prism
+2 Scalding Tarn
+5 Snow-Covered Island
+1 Flooded Strand
+2 Flooded Strand
+3 Emry, Lurker of the Loch
+3 Flooded Strand
+4 Flooded Strand
+2 Talisman of Dominance
+1 Mountain
+4 Emry, Lurker of the Loch
 2 Mystic Sanctuary
 1 Teferi, Time Raveler
 1 Hallowed Fountain
 1 Misty Rainforest
-2 Misty Rainforest
-1 Mountain
 1 Damping Sphere
+2 Spire of Industry
+2 Misty Rainforest
 1 Snow-Covered Plains
 1 Cryptic Command
 2 Teferi, Time Raveler
@@ -28,7 +29,8 @@
 2 Cryptic Command
 3 Misty Rainforest
 4 Misty Rainforest
-2 Spire of Industry
+1 Spellskite
+3 Spire of Industry
 1 Uro, Titan of Nature's Wrath
 1 Breeding Pool
 1 Forest
@@ -39,16 +41,8 @@
 3 Gilded Goose
 3 Uro, Titan of Nature's Wrath
 4 Gilded Goose
-1 Spellskite
-3 Spire of Industry
-3 Mystic Sanctuary
 1 Swamp
-1 Arcum's Astrolabe
-2 Arcum's Astrolabe
-3 Arcum's Astrolabe
-4 Arcum's Astrolabe
-3 Scalding Tarn
-1 Snow-Covered Mountain
+3 Mystic Sanctuary
 1 Fatal Push
 1 Talisman of Progress
 2 Talisman of Progress
@@ -56,6 +50,12 @@
 1 Mox Amber
 2 Mox Amber
 3 Mox Amber
+1 Arcum's Astrolabe
+2 Arcum's Astrolabe
+3 Arcum's Astrolabe
+4 Arcum's Astrolabe
+1 Snow-Covered Mountain
+3 Scalding Tarn
 1 Inquisition of Kozilek
 3 Path to Exile
 4 Path to Exile
@@ -71,8 +71,8 @@
 1 Lurrus of the Dream-Den
 1 Executioner's Capsule
 1 Necrogen Spellbomb
-2 Pithing Needle
 2 Lurrus of the Dream-Den
+2 Pithing Needle
 2 Aether Spellbomb
 3 Lurrus of the Dream-Den
 2 Steam Vents
@@ -80,9 +80,9 @@
 1 Talisman of Creativity
 1 Prairie Stream
 1 Remand
-1 Relic of Progenitus
 1 Archmage's Charm
 1 Jace, the Mind Sculptor
+1 Relic of Progenitus
 2 Remand
 2 Archmage's Charm
 3 Archmage's Charm
@@ -93,11 +93,10 @@
 2 Fatal Push
 1 Engineered Explosives
 2 Engineered Explosives
-6 Snow-Covered Island
 3 Teferi, Time Raveler
 1 Temple Garden
-1 Spine of Ish Sah
 1 Pyrite Spellbomb
+1 Spine of Ish Sah
 1 Serum Visions
 1 Darksteel Citadel
 1 Lonely Sandbar
@@ -120,16 +119,13 @@
 4 Prismatic Vista
 4 Glimmervoid
 4 Mox Amber
-1 Welding Jar
-4 Scalding Tarn
-7 Snow-Covered Island
 1 Drown in the Loch
-1 River of Tears
 1 Minamo, School at Water's Edge
 1 Frantic Inventory
+1 River of Tears
+1 Oboro, Palace in the Clouds
 1 Eliminate
 1 Mana Leak
-1 Oboro, Palace in the Clouds
 2 Frantic Inventory
 2 Snow-Covered Swamp
 2 Inquisition of Kozilek
@@ -139,4 +135,5 @@
 3 Fatal Push
 4 Fatal Push
 4 Frantic Inventory
+6 Snow-Covered Island
 4 Inquisition of Kozilek

@@ -26,36 +26,36 @@
 1 Castle Vantress
 2 Negate
 4 Island
-1 Indatha Triome
-1 Brightclimb Pathway
-1 Temple of Enlightenment
-1 Confounding Conundrum
-1 Elspeth Conquers Death
 1 Branchloft Pathway
+1 Indatha Triome
+1 Confounding Conundrum
 1 Mythos of Nethroi
+1 Temple of Enlightenment
+1 Elspeth Conquers Death
+1 Brightclimb Pathway
 1 Plains
 1 Waker of Waves
-2 Waker of Waves
-2 Mythos of Nethroi
-2 Brightclimb Pathway
 2 Indatha Triome
 2 Branchloft Pathway
-2 Elspeth Conquers Death
 2 Confounding Conundrum
-3 Brightclimb Pathway
-3 Branchloft Pathway
+2 Mythos of Nethroi
+2 Elspeth Conquers Death
+2 Waker of Waves
+2 Brightclimb Pathway
 3 Waker of Waves
-3 Confounding Conundrum
-3 Mythos of Nethroi
 3 Indatha Triome
+3 Branchloft Pathway
+3 Confounding Conundrum
+3 Brightclimb Pathway
+3 Mythos of Nethroi
 3 Elspeth Conquers Death
 4 Elspeth Conquers Death
-4 Confounding Conundrum
 4 Waker of Waves
-4 Brightclimb Pathway
-4 Mythos of Nethroi
 4 Indatha Triome
 4 Branchloft Pathway
+4 Brightclimb Pathway
+4 Mythos of Nethroi
+4 Confounding Conundrum
 3 Temple of Malady
 3 Temple of Mystery
 4 Forest
@@ -76,18 +76,18 @@
 1 Gadwick, the Wizened
 1 Jace, Mirror Mage
 1 Cling to Dust
-2 Cling to Dust
 2 Temple of Deceit
+2 Cling to Dust
 2 Silundi Vision
 3 Temple of Deceit
 2 Castle Locthwain
 1 Dryad of the Ilysian Grove
 1 Kazandu Mammoth
 2 Kazandu Mammoth
-1 Questing Beast
+1 Teferi, Master of Time
 1 Turntimber Symbiosis
 1 Agadeem's Awakening
-1 Teferi, Master of Time
+1 Questing Beast
 2 Teferi, Master of Time
 2 Questing Beast
 2 Castle Vantress
@@ -117,8 +117,8 @@
 1 Mazemind Tome
 1 Easy Prey
 1 Frantic Inventory
-2 Easy Prey
 2 Essence Scatter
+2 Easy Prey
 2 Frantic Inventory
 3 Frantic Inventory
 3 Easy Prey
@@ -134,49 +134,49 @@
 3 Cultivate
 3 Opt
 3 Garruk, Cursed Huntsman
-4 Heartless Act
 4 Opt
+4 Heartless Act
 4 Cultivate
 4 Temple of Malady
 1 Sublime Epiphany
 1 Thassa's Intervention
+1 Murderous Rider
 1 Erebos's Intervention
 1 Rain of Revelation
 1 Eat to Extinction
-1 Murderous Rider
+2 Murderous Rider
 2 Jace, Mirror Mage
 2 Erebos's Intervention
-2 Murderous Rider
 2 Sea Gate Restoration
 2 Thassa's Intervention
 2 Rain of Revelation
 2 Eat to Extinction
 3 Sea Gate Restoration
-3 Jwari Disruption
 3 Jace, Mirror Mage
 3 Murderous Rider
-4 Jwari Disruption
+3 Jwari Disruption
 4 Murderous Rider
+4 Jwari Disruption
 4 Sea Gate Restoration
-1 Massacre Wurm
 1 Grasp of Darkness
-1 Duress
+1 Massacre Wurm
 1 Treacherous Blessing
 1 Peer into the Abyss
+1 Duress
 1 Grim Tutor
 1 Underworld Dreams
-2 Massacre Wurm
 2 Grasp of Darkness
-2 Duress
+2 Massacre Wurm
 2 Underworld Dreams
+2 Duress
 2 Peer into the Abyss
 2 Treacherous Blessing
 3 Castle Locthwain
-3 Duress
 3 Eliminate
 3 Peer into the Abyss
 3 Underworld Dreams
 3 Treacherous Blessing
+3 Duress
 4 Castle Locthwain
 4 Treacherous Blessing
 5 Swamp

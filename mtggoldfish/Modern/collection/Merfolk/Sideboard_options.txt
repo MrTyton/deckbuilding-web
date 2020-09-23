@@ -3,23 +3,23 @@
 2 Deprive
 2 Force of Negation
 4 Relic of Progenitus
-1 Aether Gust
 3 Deprive
+1 Aether Gust
 2 Aether Gust
-3 Aether Gust
 3 Force of Negation
 4 Force of Negation
 4 Chalice of the Void
+3 Aether Gust
 1 Master of Waves
-1 Dismember
-2 Dismember
 1 Damping Sphere
 2 Damping Sphere
-4 Deprive
+1 Dismember
 1 Veil of Summer
 2 Veil of Summer
 3 Veil of Summer
+2 Dismember
 1 Grafdigger's Cage
+1 Ashiok, Dream Render
 1 Weather the Storm
 2 Weather the Storm
 3 Weather the Storm
@@ -31,9 +31,10 @@
 1 Damping Matrix
 2 Damping Matrix
 3 Damping Matrix
-1 Ashiok, Dream Render
-1 Venser, Shaper Savant
+4 Deprive
+2 Ashiok, Dream Render
 1 Kira, Great Glass-Spinner
+1 Venser, Shaper Savant
 1 Brazen Borrower
 1 Dispel
 2 Brazen Borrower
@@ -43,14 +44,15 @@
 1 Engineered Explosives
 2 Engineered Explosives
 2 Grafdigger's Cage
-1 Auriok Champion
 1 Soul-Guide Lantern
-2 Ashiok, Dream Render
+1 Auriok Champion
 2 Soul-Guide Lantern
 2 Auriok Champion
 3 Mana Leak
-3 Dismember
-4 Dismember
+1 Manriki-Gusari
+1 Squelch
+2 Squelch
+3 Damping Sphere
 1 Negate
 2 Negate
 4 Aether Gust
