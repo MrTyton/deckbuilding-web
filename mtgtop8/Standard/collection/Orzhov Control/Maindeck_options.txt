@@ -34,16 +34,16 @@
 3 Castle Ardenvale
 4 Basilica Bell-Haunt
 1 Heartless Act
-1 Temple Garden
 1 Overgrown Tomb
+1 Temple Garden
 1 Forest
-2 Temple Garden
 2 Overgrown Tomb
-3 Indatha Triome
-3 Temple Garden
+2 Temple Garden
 3 Overgrown Tomb
-4 Indatha Triome
+3 Temple Garden
+3 Indatha Triome
 4 Temple Garden
+4 Indatha Triome
 4 Overgrown Tomb
 1 Extinction Event
 2 Extinction Event
@@ -61,14 +61,14 @@
 4 Llanowar Visionary
 1 Vraska, Golgari Queen
 1 Cavalier of Dawn
-1 Zagoth Triome
-1 Vraska, Swarm's Eminence
-2 Zagoth Triome
 1 Rankle, Master of Pranks
 2 Forest
 1 Davriel, Rogue Shadowmage
 1 Cling to Dust
 2 Cling to Dust
+1 Vraska, Swarm's Eminence
+1 Zagoth Triome
+2 Zagoth Triome
 1 Mythos of Nethroi
 1 Grasp of Darkness
 2 Vraska, Golgari Queen
@@ -77,12 +77,12 @@
 3 Mythos of Nethroi
 3 Vraska, Golgari Queen
 4 Mythos of Nethroi
-4 Heartless Act
 1 Mazemind Tome
 1 Liliana, Waker of the Dead
 2 Mazemind Tome
 3 Mazemind Tome
 4 Mazemind Tome
 4 Castle Ardenvale
+4 Heartless Act
 1 Shepherd of the Flock
 2 Shepherd of the Flock

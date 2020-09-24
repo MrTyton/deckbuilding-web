@@ -34,8 +34,8 @@
 3 Brazen Borrower
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
-1 Frilled Mystic
 1 Nightpack Ambusher
+1 Frilled Mystic
 2 Frilled Mystic
 2 Nightpack Ambusher
 3 Frilled Mystic
@@ -60,11 +60,11 @@
 1 Healer of the Glade
 1 Lightning Stormkin
 1 Cloudkin Seer
-2 Thassa, Deep-Dwelling
 2 Healer of the Glade
 2 Scorch Spitter
 2 Cloudkin Seer
 2 Lightning Stormkin
+2 Thassa, Deep-Dwelling
 3 Healer of the Glade
 3 Lightning Stormkin
 3 Cloudkin Seer
@@ -86,25 +86,25 @@
 2 Negate
 3 Nissa, Who Shakes the World
 2 Terror of the Peaks
-1 Radha, Heart of Keld
 1 Questing Beast
+1 Neutralize
+1 Radha, Heart of Keld
 1 Kazandu Mammoth
 1 Embercleave
-1 Unsubstantiate
 1 Spikefield Hazard
-1 Neutralize
+1 Unsubstantiate
 1 Tangled Florahedron
 1 Shatterskull Smashing
 1 Cragcrown Pathway
+2 Neutralize
+2 Embercleave
 2 Questing Beast
-2 Unsubstantiate
 2 Tangled Florahedron
 2 Spikefield Hazard
-2 Embercleave
-2 Neutralize
+2 Unsubstantiate
+3 Questing Beast
 3 Embercleave
 3 Spikefield Hazard
-3 Questing Beast
 1 Spectral Sailor
 2 Scavenging Ooze
 2 Illuna, Apex of Wishes
@@ -113,23 +113,17 @@
 4 Aether Gust
 5 Forest
 1 Yorion, Sky Nomad
-1 Vivien, Monsters' Advocate
 1 Bala Ged Recovery
+1 Vivien, Monsters' Advocate
 2 Bala Ged Recovery
 3 Terror of the Peaks
 3 Scorching Dragonfire
-1 Essence Scatter
-1 Flame Sweep
-2 Essence Scatter
-2 Flame Sweep
-3 Essence Scatter
-3 Sinister Sabotage
 3 Tangled Florahedron
 4 Spikefield Hazard
 1 Wildborn Preserver
+1 Brineborn Cutthroat
 1 The Royal Scions
 1 Essence Capture
-1 Brineborn Cutthroat
 1 Ionize
 1 Unknown Card
 2 Wildborn Preserver
@@ -138,5 +132,11 @@
 2 Spectral Sailor
 3 Brineborn Cutthroat
 3 Wildborn Preserver
-4 Mystical Dispute
 4 Brineborn Cutthroat
+4 Mystical Dispute
+1 Essence Scatter
+1 Flame Sweep
+2 Essence Scatter
+2 Flame Sweep
+3 Essence Scatter
+3 Sinister Sabotage

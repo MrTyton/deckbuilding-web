@@ -20,22 +20,22 @@
 2 Opt
 2 Inquisition of Kozilek
 2 Steam Vents
-2 Rakdos Charm
 2 Bloodstained Mire
 2 Trespasser's Curse
 2 Batwing Brume
 2 Hunted Phantasm
+2 Rakdos Charm
 2 Mission Briefing
 2 Forbidden Orchard
 2 Rapid Hybridization
 3 Opt
 3 Inquisition of Kozilek
 3 Bloodstained Mire
-3 Rakdos Charm
 3 Mission Briefing
 3 Forbidden Orchard
 3 Hunted Phantasm
 3 Trespasser's Curse
+3 Rakdos Charm
 3 Batwing Brume
 4 Opt
 4 Inquisition of Kozilek
@@ -63,14 +63,14 @@
 1 Snow-Covered Mountain
 1 Spell Queller
 1 Prismatic Vista
-1 Narset of the Ancient Way
 1 Delay
+1 Narset of the Ancient Way
+1 Fae of Wishes
 1 Chandra, Torch of Defiance
 1 Sacred Foundry
 1 Commandeer
 1 Drannith Magistrate
 1 Reverse the Sands
-1 Fae of Wishes
 1 Possibility Storm
 1 Jace, the Mind Sculptor
 1 Snow-Covered Plains
@@ -81,24 +81,24 @@
 2 Narset of the Ancient Way
 2 Prismatic Vista
 2 Snow-Covered Mountain
+2 Fae of Wishes
 2 Chandra, Torch of Defiance
 2 Delay
 2 Spellskite
+2 Commandeer
 2 Drannith Magistrate
 2 Jace, the Mind Sculptor
 2 Possibility Storm
 2 Flooded Strand
-2 Commandeer
-2 Fae of Wishes
 3 Spell Queller
 3 Snow-Covered Island
 3 Wall of Omens
 3 Prismatic Vista
+3 Fae of Wishes
 3 Arid Mesa
-3 Drannith Magistrate
 3 Possibility Storm
 3 Flooded Strand
-3 Fae of Wishes
+3 Drannith Magistrate
 3 Snow-Covered Plains
 3 Delay
 3 Scalding Tarn
@@ -106,9 +106,9 @@
 4 Teferi, Time Raveler
 4 Snow-Covered Island
 4 Wall of Omens
+4 Fae of Wishes
 4 Prismatic Vista
 4 Arid Mesa
-4 Fae of Wishes
 4 Flooded Strand
 4 Delay
 4 Drannith Magistrate
@@ -126,11 +126,10 @@
 1 Plains
 1 Windswept Heath
 1 Eladamri's Call
-1 Worldspine Wurm
 1 Through the Breach
-1 Charming Prince
 1 Elesh Norn, Grand Cenobite
 1 Wooded Foothills
+1 Charming Prince
 1 Utopia Sprawl
 1 Emrakul, the Aeons Torn
 1 Gemstone Caverns
@@ -139,25 +138,26 @@
 1 Devoted Druid
 1 Temple Garden
 1 Misty Rainforest
+1 Worldspine Wurm
 1 Dubious Challenge
 1 Forest
 1 Stomping Ground
 2 Windswept Heath
 2 Eladamri's Call
-2 Worldspine Wurm
 2 Wooded Foothills
 2 Through the Breach
 2 Forest
 2 Charming Prince
 2 Utopia Sprawl
 2 Temple Garden
-2 Emrakul, the Aeons Torn
 2 Stomping Ground
 2 Gemstone Caverns
 2 Plains
 2 Flickerwisp
 2 Devoted Druid
+2 Worldspine Wurm
 2 Misty Rainforest
+2 Emrakul, the Aeons Torn
 2 Dubious Challenge
 3 Eladamri's Call
 3 Windswept Heath
@@ -165,15 +165,15 @@
 3 Flickerwisp
 3 Charming Prince
 3 Temple Garden
-3 Emrakul, the Aeons Torn
 3 Utopia Sprawl
 3 Devoted Druid
 3 Dubious Challenge
+3 Emrakul, the Aeons Torn
+4 Emrakul, the Aeons Torn
 4 Windswept Heath
 4 Through the Breach
 4 Flickerwisp
 4 Charming Prince
-4 Emrakul, the Aeons Torn
 4 Utopia Sprawl
 4 Devoted Druid
 4 Dubious Challenge
@@ -221,22 +221,23 @@
 4 Serum Visions
 4 Angel's Grace
 4 Inverter of Truth
+1 Pyretic Ritual
 1 Desperate Ritual
 1 Shatterskull Smashing
+1 Turntimber Symbiosis
 1 Valakut Awakening
 1 Blood Moon
 1 Chalice of the Void
 1 Tangled Florahedron
-1 Pyretic Ritual
 1 Irencrag Feat
 1 Bala Ged Recovery
-1 Turntimber Symbiosis
 1 Manamorphose
 1 Reforge the Soul
 1 Spikefield Hazard
 1 Recross the Paths
 1 Goblin Charbelcher
 2 Desperate Ritual
+2 Pyretic Ritual
 2 Blood Moon
 2 Chalice of the Void
 2 Bala Ged Recovery
@@ -247,24 +248,25 @@
 2 Manamorphose
 2 Valakut Awakening
 2 Recross the Paths
-2 Pyretic Ritual
 2 Shatterskull Smashing
 2 Goblin Charbelcher
+3 Pyretic Ritual
+3 Desperate Ritual
 3 Blood Moon
 3 Chalice of the Void
 3 Spikefield Hazard
 3 Turntimber Symbiosis
 3 Valakut Awakening
-3 Desperate Ritual
 3 Manamorphose
 3 Bala Ged Recovery
 3 Irencrag Feat
 3 Recross the Paths
 3 Shatterskull Smashing
 3 Tangled Florahedron
-3 Pyretic Ritual
 3 Goblin Charbelcher
 4 Blood Moon
+4 Desperate Ritual
+4 Pyretic Ritual
 4 Chalice of the Void
 4 Bala Ged Recovery
 4 Shatterskull Smashing
@@ -274,6 +276,4 @@
 4 Spikefield Hazard
 4 Valakut Awakening
 4 Recross the Paths
-4 Desperate Ritual
-4 Pyretic Ritual
 4 Irencrag Feat

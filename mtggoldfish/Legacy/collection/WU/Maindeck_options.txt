@@ -38,27 +38,30 @@
 2 Snow-Covered Plains
 3 Snow-Covered Island
 3 True-Name Nemesis
-1 Umezawa's Jitte
 4 Snow-Covered Island
 2 Prismatic Vista
 1 Narset, Parter of Veils
-1 Spell Pierce
 1 Council's Judgment
-2 Tundra
-1 Scalding Tarn
-1 Volcanic Island
 5 Snow-Covered Island
-2 Spell Pierce
-3 Snapcaster Mage
 3 Prismatic Vista
 1 Vendilion Clique
-2 Scalding Tarn
 4 Prismatic Vista
 1 Venser, Shaper Savant
 1 Sword of Feast and Famine
 1 Preordain
-3 Scalding Tarn
+1 Umezawa's Jitte
 2 Vendilion Clique
+1 Jace, Vryn's Prodigy
+2 Karakas
+3 Snow-Covered Plains
+1 Spell Pierce
+1 Volcanic Island
+1 Scalding Tarn
+2 Tundra
+2 Spell Pierce
+3 Snapcaster Mage
+2 Scalding Tarn
+3 Scalding Tarn
 1 Wasteland
 2 Wasteland
 1 Daze
@@ -69,9 +72,6 @@
 3 Daze
 3 Delver of Secrets
 4 Delver of Secrets
-1 Jace, Vryn's Prodigy
-2 Karakas
-3 Snow-Covered Plains
 4 Daze
 1 Polluted Delta
 2 Polluted Delta
@@ -83,6 +83,7 @@
 1 Lightning Bolt
 2 Volcanic Island
 2 Lightning Bolt
+2 Council's Judgment
 4 Mishra's Bauble
 3 Tundra
 1 Brazen Borrower
@@ -103,11 +104,10 @@
 1 Mystic Sanctuary
 1 Ethereal Forager
 2 Ethereal Forager
-1 Ranger of Eos
 1 Azorius Signet
-2 Ranger of Eos
+1 Ranger of Eos
 2 Azorius Signet
-2 Council's Judgment
+2 Ranger of Eos
 1 Sevinne's Reclamation
 1 Thopter Foundry
 1 Sword of the Meek
@@ -123,12 +123,12 @@
 2 Oko, Thief of Crowns
 2 Misty Rainforest
 2 Noble Hierarch
+3 Oko, Thief of Crowns
 3 Misty Rainforest
 3 Tropical Island
-3 Oko, Thief of Crowns
 3 Noble Hierarch
-4 Misty Rainforest
 4 Tropical Island
+4 Misty Rainforest
 4 Noble Hierarch
 1 Counterbalance
 1 Supreme Verdict
