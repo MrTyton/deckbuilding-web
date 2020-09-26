@@ -72,12 +72,12 @@
 1 Time Wipe
 4 Mystical Dispute
 1 Sacred Foundry
-1 Deafening Clarion
 1 Steam Vents
 1 Mountain
+1 Deafening Clarion
 1 Temple of Epiphany
-2 Deafening Clarion
 2 Sacred Foundry
+2 Deafening Clarion
 3 Sacred Foundry
 4 Sacred Foundry
 1 Opt
@@ -86,13 +86,15 @@
 1 Banishing Light
 2 Banishing Light
 2 Chemister's Insight
-1 Mazemind Tome
 1 Disdainful Stroke
+1 Mazemind Tome
 1 Mu Yanling, Sky Dancer
-2 Mazemind Tome
 2 Elspeth, Sun's Nemesis
 2 Disdainful Stroke
+2 Mazemind Tome
 2 Mu Yanling, Sky Dancer
+3 Aether Gust
+4 Aether Gust
 1 Jwari Disruption
 1 Deny the Divine
 1 Emeria's Call
@@ -112,8 +114,6 @@
 4 Rewind
 4 Thirst for Meaning
 4 Waker of Waves
-3 Aether Gust
-4 Aether Gust
 3 Teferi, Master of Time
 4 Teferi, Master of Time
 1 Ugin, the Ineffable
@@ -145,8 +145,8 @@
 2 Elite Guardmage
 9 Plains
 10 Plains
-11 Island
 11 Plains
+11 Island
 12 Island
 1 Tale's End
 2 Blast Zone
@@ -158,8 +158,8 @@
 2 Justice Strike
 2 Outlaws' Merriment
 2 Temple of Epiphany
-3 Deafening Clarion
 3 Justice Strike
+3 Deafening Clarion
 3 Thassa's Intervention
 4 Justice Strike
 1 Prison Realm

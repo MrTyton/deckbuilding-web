@@ -36,11 +36,11 @@
 1 Seasoned Pyromancer
 2 Bonecrusher Giant
 2 Seasoned Pyromancer
-3 Seasoned Pyromancer
 3 Firebolt
+3 Seasoned Pyromancer
 3 Bonecrusher Giant
-4 Seasoned Pyromancer
 4 Firebolt
+4 Seasoned Pyromancer
 4 Bonecrusher Giant
 15 Mountain
 16 Mountain
@@ -48,10 +48,10 @@
 3 Wooded Foothills
 3 Lightning Helix
 2 Fiery Islet
-1 Burst Lightning
-2 Burst Lightning
 1 Flame Slash
 2 Flame Slash
+1 Burst Lightning
+2 Burst Lightning
 18 Mountain
 1 Manamorphose
 2 Manamorphose
@@ -81,26 +81,42 @@
 4 Lightning Helix
 1 Abbot of Keral Keep
 1 Kiln Fiend
-2 Kiln Fiend
 2 Abbot of Keral Keep
+2 Kiln Fiend
 3 Kiln Fiend
 3 Abbot of Keral Keep
 4 Abbot of Keral Keep
 1 Runaway Steam-Kin
 1 Gut Shot
-2 Gut Shot
 2 Runaway Steam-Kin
+2 Gut Shot
 3 Runaway Steam-Kin
 1 Path to Exile
 2 Path to Exile
 3 Path to Exile
-3 Burst Lightning
-4 Burst Lightning
 3 Flame Slash
 4 Flame Slash
 1 Wild Slash
 2 Wild Slash
 4 Bedlam Reveler
+3 Burst Lightning
+4 Burst Lightning
+1 Blackcleave Cliffs
+1 Thoughtseize
+1 Blood Crypt
+1 Temur Battle Rage
+1 Mutagenic Growth
+2 Blackcleave Cliffs
+2 Thoughtseize
+2 Blood Crypt
+2 Mutagenic Growth
+2 Temur Battle Rage
+3 Mutagenic Growth
+3 Blackcleave Cliffs
+3 Thoughtseize
+4 Kiln Fiend
+4 Mutagenic Growth
+4 Blackcleave Cliffs
 1 Chandra's Incinerator
 2 Chandra's Incinerator
 3 Chandra's Incinerator
@@ -119,23 +135,7 @@
 3 Copperline Gorge
 3 Atarka's Command
 3 Wild Nacatl
-3 Thunderous Wrath
 4 Copperline Gorge
 4 Atarka's Command
 4 Wild Nacatl
-1 Blackcleave Cliffs
-1 Thoughtseize
-1 Blood Crypt
-1 Temur Battle Rage
-1 Mutagenic Growth
-2 Blackcleave Cliffs
-2 Blood Crypt
-2 Thoughtseize
-2 Mutagenic Growth
-2 Temur Battle Rage
-3 Mutagenic Growth
-3 Blackcleave Cliffs
-4 Kiln Fiend
-4 Mutagenic Growth
-4 Blackcleave Cliffs
-3 Thoughtseize
+3 Thunderous Wrath

@@ -28,6 +28,7 @@
 1 Knight of Autumn
 1 Yavimaya Coast
 1 Brushland
+1 Birds of Paradise
 1 Breeding Pool
 1 Stubborn Denial
 1 Containment Priest
@@ -38,7 +39,6 @@
 1 Eldrazi Displacer
 1 Ancient Stirrings
 1 Engineered Explosives
-1 Birds of Paradise
 1 Drowner of Hope
 1 Plains
 1 Eldrazi Skyspawner
@@ -52,16 +52,16 @@
 2 Ancient Stirrings
 2 Drowner of Hope
 2 Stubborn Denial
-3 Brushland
 3 Eldrazi Displacer
+3 Brushland
 3 Path to Exile
 3 Ancient Stirrings
 3 Windswept Heath
 3 Noble Hierarch
+4 Eldrazi Displacer
 4 Path to Exile
 4 Windswept Heath
 4 Ancient Stirrings
-4 Eldrazi Displacer
 4 Noble Hierarch
 1 World Breaker
 1 Once Upon a Time
@@ -100,12 +100,12 @@
 4 Karplusan Forest
 4 Endless One
 1 Mystic Gate
-1 Serum Visions
 1 Snow-Covered Island
 1 Adarkar Wastes
 1 Flooded Strand
 1 Sword of Sinew and Steel
 1 Geist of Saint Traft
+1 Serum Visions
 1 Batterskull
 1 Sword of Fire and Ice
 1 Snow-Covered Plains
@@ -114,31 +114,31 @@
 1 Seachrome Coast
 1 Stoneforge Mystic
 1 Eldrazi Mimic
-2 Serum Visions
 2 Adarkar Wastes
+2 Mystic Gate
 2 Flooded Strand
 2 Hallowed Fountain
+2 Serum Visions
 2 Geist of Saint Traft
 2 Elder Deep-Fiend
-2 Mystic Gate
 2 Stoneforge Mystic
 2 Eldrazi Mimic
 2 Opt
 2 Seachrome Coast
 3 Seachrome Coast
-3 Serum Visions
 3 Flooded Strand
-3 Hallowed Fountain
+3 Serum Visions
 3 Eldrazi Mimic
 3 Adarkar Wastes
 3 Stoneforge Mystic
 3 Geist of Saint Traft
+3 Hallowed Fountain
 3 Mystic Gate
 3 Opt
 3 Elder Deep-Fiend
 4 Seachrome Coast
-4 Serum Visions
 4 Flooded Strand
+4 Serum Visions
 4 Stoneforge Mystic
 4 Adarkar Wastes
 4 Eldrazi Mimic

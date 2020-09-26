@@ -27,10 +27,6 @@
 1 Terminate
 1 Verdant Catacombs
 2 Verdant Catacombs
-2 Castle Locthwain
-4 Kroxa, Titan of Death's Hunger
-3 Mountain
-4 Swamp
 1 Sacred Foundry
 1 Godless Shrine
 1 Dragonskull Summit
@@ -47,6 +43,10 @@
 3 Young Pyromancer
 3 Blood Moon
 4 Young Pyromancer
+2 Castle Locthwain
+4 Kroxa, Titan of Death's Hunger
+3 Mountain
+4 Swamp
 1 Ghost Quarter
 4 Polluted Delta
 1 Vexing Devil
@@ -61,8 +61,8 @@
 1 Death's Shadow
 1 Street Wraith
 2 Dismember
-2 Arid Mesa
 2 Death's Shadow
+2 Arid Mesa
 2 Sulfurous Springs
 2 Street Wraith
 3 Death's Shadow
