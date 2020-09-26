@@ -1,0 +1,26 @@
+# Mardu Knights
+
+#### [Export MTGO List](../collection/Mardu%20Knights/Mardu%20Knights.txt)
+#### [Export Arena List](../collection/Mardu%20Knights/Mardu%20Knights_arena.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Acclaimed%20Contender%0A4%09Brightclimb%20Pathway%0A4%09Embercleave%0A2%09Emeria's%20Call%0A4%09Fervent%20Champion%0A3%09General%20Kudro%20of%20Drannith%0A4%09Inspiring%20Veteran%0A1%09Maul%20of%20the%20Skyclaves%0A2%09Mountain%0A4%09Needleverge%20Pathway%0A1%09Plains%0A4%09Rimrock%20Knight%0A4%09Shatterskull%20Smashing%0A4%09Smitten%20Swordmaster%0A3%09Swamp%0A4%09Tournament%20Grounds%0A4%09Venerable%20Knight%0A4%09Worthy%20Knight&deckside=2%09Elspeth,%20Sun's%20Nemesis%0A1%09General%20Kudro%20of%20Drannith%0A3%09Heartless%20Act%0A3%09Kitesail%20Freebooter%0A4%09Shock%0A2%09Spikefield%20Hazard)
+# Maindeck
+
+|                                      Artifact (4)                                      |                                            Creature (31)                                             |                                           Land (10)                                           |     Unknown (15)      |
+|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-----------------------|
+|4 [Embercleave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473082)|4 [Acclaimed Contender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472963)      |2 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)          |4 Brightclimb Pathway  |
+|                                                                                        |4 [Fervent Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473086)         |1 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)            |2 Emeria's Call        |
+|                                                                                        |3 [General Kudro of Drannith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479707)|3 [Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)             |1 Maul of the Skyclaves|
+|                                                                                        |4 [Inspiring Veteran](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473156)        |4 [Tournament Grounds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473210)|4 Needleverge Pathway  |
+|                                                                                        |4 [Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)           |                                                                                               |4 Shatterskull Smashing|
+|                                                                                        |4 [Smitten Swordmaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473067)      |                                                                                               |                       |
+|                                                                                        |4 [Venerable Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472997)         |                                                                                               |                       |
+|                                                                                        |4 [Worthy Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472998)            |                                                                                               |                       |
+
+
+# Sideboard
+
+|                                             Creature (4)                                             |                                       Instant (7)                                        |                                         Planeswalker (2)                                          |    Unknown (2)    |
+|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------|
+|1 [General Kudro of Drannith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479707)|3 [Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)|2 [Elspeth, Sun's Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476265)|2 Spikefield Hazard|
+|3 [Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264)      |4 [Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)        |                                                                                                   |                   |
+
