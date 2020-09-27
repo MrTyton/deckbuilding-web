@@ -37,7 +37,6 @@
 |                    3|[Escape to the Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473151)         |                     |              |
 |                    3|[Agent of Treachery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466797)          |                     |              |
 |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)        |                     |              |
-|                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)        |                     |              |
 |                    4|[Ketria Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479770)               |                     |              |
 |                    4|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)               |                     |              |
 |                    4|[Uro, Titan of Nature's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476480)|                     |              |
@@ -49,6 +48,7 @@
 |                    4|Sea Gate Restoration                                                                                   |                     |              |
 |                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)              |                     |              |
 |                    4|[Evolving Wilds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426944)              |                     |              |
+|                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)        |                     |              |
 |                    4|[Raugrin Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479771)              |                     |              |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                      |                     |              |
 |                    1|[Nahiri, the Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463948)       |                     |              |

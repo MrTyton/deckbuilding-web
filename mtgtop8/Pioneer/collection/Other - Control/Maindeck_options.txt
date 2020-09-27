@@ -198,12 +198,12 @@
 2 Negate
 2 Glimmer of Genius
 2 Vraska's Contempt
-1 Aetherspouts
-2 Aetherspouts
-3 Blast Zone
 1 Extinction Event
 2 Extinction Event
 3 Field of Ruin
+1 Aetherspouts
+2 Aetherspouts
+3 Blast Zone
 3 Hinterland Harbor
 1 Dreadbore
 1 Nicol Bolas, the Ravager
@@ -248,7 +248,6 @@
 4 Waste Not
 4 Castle Locthwain
 1 Mythos of Nethroi
-1 Orzhov Guildgate
 1 Gruul Guildgate
 1 Golgari Guildgate
 1 Gateway Plaza
@@ -264,6 +263,7 @@
 1 Dimir Guildgate
 1 Maze's End
 1 Rakdos Guildgate
+1 Orzhov Guildgate
 1 Boros Guildgate
 1 Gatebreaker Ram
 2 Mythos of Nethroi

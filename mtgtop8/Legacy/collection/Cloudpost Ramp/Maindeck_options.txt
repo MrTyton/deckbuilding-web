@@ -41,8 +41,8 @@
 2 Primeval Titan
 1 Planar Bridge
 2 Kuldotha Forgemaster
-3 Thran Dynamo
 3 City of Traitors
+3 Thran Dynamo
 1 Boompile
 1 Retrofitter Foundry
 1 Hour of Promise
@@ -102,23 +102,23 @@
 3 Stonecoil Serpent
 3 Sphere of Resistance
 4 Sphere of Resistance
-1 Tropical Island
+1 Shark Typhoon
 1 Stifle
+1 Misty Rainforest
 1 Uro, Titan of Nature's Wrath
 1 Snow-Covered Forest
-1 Shark Typhoon
+1 Tropical Island
 1 Veil of Summer
 1 Brainstorm
 1 Prismatic Vista
 1 Unbound Flourishing
 1 Hydroid Krasis
 1 Snow-Covered Island
-1 Misty Rainforest
 1 Force of Will
-2 Tropical Island
+2 Misty Rainforest
 2 Uro, Titan of Nature's Wrath
-2 Snow-Covered Forest
 2 Shark Typhoon
+2 Snow-Covered Forest
 2 Stifle
 2 Veil of Summer
 2 Unbound Flourishing
@@ -128,7 +128,7 @@
 2 Hydroid Krasis
 2 Prismatic Vista
 2 Candelabra of Tawnos
-2 Misty Rainforest
+2 Tropical Island
 3 Misty Rainforest
 3 Tropical Island
 3 Stifle
@@ -140,17 +140,6 @@
 3 Unbound Flourishing
 4 Misty Rainforest
 4 Brainstorm
-1 Matter Reshaper
-1 Crucible of Worlds
-1 Phyrexian Tower
-2 Reality Smasher
-2 Matter Reshaper
-2 Crystal Vein
-3 Trinisphere
-3 Matter Reshaper
-3 Reality Smasher
-4 Matter Reshaper
-4 Eldrazi Temple
 1 From Beyond
 1 Sylvan Scrying
 2 Hour of Promise
@@ -158,3 +147,14 @@
 3 Hour of Promise
 4 Vesuva
 9 Forest
+1 Matter Reshaper
+1 Crucible of Worlds
+1 Phyrexian Tower
+2 Reality Smasher
+2 Matter Reshaper
+2 Crystal Vein
+3 Matter Reshaper
+3 Reality Smasher
+3 Trinisphere
+4 Matter Reshaper
+4 Eldrazi Temple

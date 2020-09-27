@@ -1,7 +1,7 @@
 # Scapeshift
 
 #### [Export MTGO List](../collection/Scapeshift/Scapeshift.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Breeding%20Pool%0A3%09Censor%0A3%09Cryptic%20Command%0A1%09Forest%0A4%09Growth%20Spiral%0A3%09Island%0A4%09Ketria%20Triome%0A4%09Lightning%20Bolt%0A4%09Misty%20Rainforest%0A1%09Mountain%0A2%09Mystic%20Sanctuary%0A4%09Opt%0A3%09Remand%0A3%09Scalding%20Tarn%0A3%09Scapeshift%0A4%09Steam%20Vents%0A2%09Stomping%20Ground%0A1%09Sweltering%20Suns%0A4%09Uro,%20Titan%20of%20Nature's%20Wrath%0A2%09Valakut,%20the%20Molten%20Pinnacle%0A1%09Wilt%0A2%09Wrenn%20and%20Six&deckside=3%09Aether%20Gust%0A2%09Anger%20of%20the%20Gods%0A2%09Engineered%20Explosives%0A2%09Flame%20Slash%0A2%09Mystical%20Dispute%0A3%09Veil%20of%20Summer%0A1%09Weather%20the%20Storm)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Breeding%20Pool%0A3%09Censor%0A3%09Cryptic%20Command%0A1%09Forest%0A4%09Growth%20Spiral%0A3%09Island%0A4%09Ketria%20Triome%0A4%09Lightning%20Bolt%0A4%09Misty%20Rainforest%0A1%09Mountain%0A2%09Mystic%20Sanctuary%0A4%09Opt%0A3%09Remand%0A3%09Scalding%20Tarn%0A3%09Scapeshift%0A4%09Steam%20Vents%0A2%09Stomping%20Ground%0A1%09Sweltering%20Suns%0A4%09Uro,%20Titan%20of%20Nature's%20Wrath%0A2%09Valakut,%20the%20Molten%20Pinnacle%0A1%09Wilt%0A2%09Wrenn%20and%20Six&deckside=4%09Aether%20Gust%0A2%09Anger%20of%20the%20Gods%0A1%09Flame%20Slash%0A3%09Mystical%20Dispute%0A3%09Veil%20of%20Summer%0A2%09Weather%20the%20Storm)
 # Maindeck
 
 |                                              Creature (4)                                               |                                        Instant (22)                                        |                                                Land (28)                                                |                                     Planeswalker (2)                                     |                                        Sorcery (4)                                         |
@@ -21,24 +21,10 @@
 
 # Sideboard
 
-|                                          Artifact (2)                                           |                                         Instant (9)                                          |                                         Sorcery (4)                                          |
-|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|2 [Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|3 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)      |2 [Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
-|                                                                                                 |2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |2 [Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)      |
-|                                                                                                 |3 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |                                                                                              |
-|                                                                                                 |1 [Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)|                                                                                              |
-
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
-|                    1|[Izzet Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338413)        |                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)      |
-|                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |                    2|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)|
-|                    2|[Izzet Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338413)        |                     |                                                                                            |
-|                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
-|                    3|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
-|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)      |                     |                                                                                            |
-|                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)|                     |                                                                                            |
+|                                         Instant (12)                                         |                                         Sorcery (3)                                          |
+|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|4 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)      |2 [Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
+|3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |1 [Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)      |
+|3 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |                                                                                              |
+|2 [Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)|                                                                                              |
 

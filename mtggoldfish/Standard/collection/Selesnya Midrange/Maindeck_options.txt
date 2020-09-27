@@ -1,4 +1,4 @@
-2 Forest
+2 Scavenging Ooze
 2 Basri's Lieutenant
 3 Conclave Mentor
 3 Forest
@@ -12,8 +12,8 @@
 3 Stonecoil Serpent
 3 Swarm Shambler
 3 Fabled Passage
-4 Stonecoil Serpent
 4 Swarm Shambler
+4 Stonecoil Serpent
 4 Fabled Passage
 1 Luminarch Aspirant
 1 Oran-Rief Ooze
@@ -44,8 +44,8 @@
 4 Luminarch Aspirant
 1 The Great Henge
 3 Wildwood Scourge
-1 Temple of Plenty
 1 Basri Ket
+1 Temple of Plenty
 1 The Ozolith
 2 The Ozolith
 8 Forest
@@ -56,9 +56,9 @@
 1 Khalni Ambush
 1 Sejiri Shelter
 2 The Great Henge
-2 Emeria's Call
-2 Primal Might
 2 Sejiri Shelter
+2 Primal Might
+2 Emeria's Call
 2 Khalni Ambush
 3 The Great Henge
 4 Basri's Lieutenant
@@ -72,24 +72,24 @@
 2 Basri Ket
 3 Vastwood Fortification
 4 Vastwood Fortification
-1 Riverglide Pathway
 1 Cragcrown Pathway
+1 Riverglide Pathway
 2 Riverglide Pathway
 2 Cragcrown Pathway
 3 Riverglide Pathway
 3 Boon of the Wish-Giver
 3 Cragcrown Pathway
-4 Riverglide Pathway
 4 Boon of the Wish-Giver
+4 Riverglide Pathway
 4 Cragcrown Pathway
 1 Indatha Triome
-1 Pridemalkin
 1 Crystalline Giant
 1 Invigorating Surge
 1 Fearless Fledgling
-2 Indatha Triome
+1 Pridemalkin
 2 Invigorating Surge
 2 Fearless Fledgling
+2 Indatha Triome
 2 Crystalline Giant
 3 Invigorating Surge
 3 Fearless Fledgling
@@ -104,18 +104,18 @@
 5 Mountain
 6 Mountain
 1 Gingerbrute
+1 Gemrazer
 1 Gilded Goose
 1 Gnarlid Colony
-1 Gemrazer
 1 Banishing Light
-2 Temple of Plenty
-2 Gilded Goose
 2 Gingerbrute
+2 Gemrazer
+2 Gilded Goose
 2 Gnarlid Colony
 2 Banishing Light
-2 Gemrazer
-3 Gilded Goose
+2 Temple of Plenty
 3 Gnarlid Colony
+3 Gilded Goose
 9 Forest
 10 Forest
 11 Forest

@@ -1,10 +1,7 @@
-1 Plains
-1 Abrupt Decay
 1 Verdant Catacombs
+1 Plains
 1 Noble Hierarch
-1 Bayou
 1 Windswept Heath
-1 Wasteland
 1 Horizon Canopy
 1 Birds of Paradise
 1 Questing Beast
@@ -12,7 +9,7 @@
 1 Forest
 1 Savannah
 1 Knight of the Reliquary
-1 Swords to Plowshares
+1 Abrupt Decay
 1 Collector Ouphe
 1 Sylvan Library
 1 Kaya, Orzhov Usurper
@@ -22,26 +19,29 @@
 1 Gaea's Cradle
 1 Scrubland
 1 Once Upon a Time
+1 Wasteland
 1 Hexdrinker
 1 Scavenging Ooze
+1 Bayou
 1 Green Sun's Zenith
 1 Knight of Autumn
 1 Plague Engineer
-2 Abrupt Decay
-2 Noble Hierarch
+1 Swords to Plowshares
 2 Verdant Catacombs
+2 Noble Hierarch
 2 Bayou
 2 Windswept Heath
+2 Plague Engineer
 2 Knight of the Reliquary
-2 Forest
 2 Thalia, Guardian of Thraben
+2 Forest
 2 Savannah
+2 Abrupt Decay
 2 Kaya, Orzhov Usurper
 2 Wasteland
 2 Green Sun's Zenith
 2 Swords to Plowshares
 2 Once Upon a Time
-2 Plague Engineer
 3 Noble Hierarch
 3 Once Upon a Time
 3 Windswept Heath
@@ -57,12 +57,13 @@
 4 Thalia, Guardian of Thraben
 4 Knight of the Reliquary
 4 Wasteland
+1 City of Traitors
 1 Simian Spirit Guide
 1 Blood Sun
+1 Legion Warboss
 1 Seasoned Pyromancer
 1 Snow-Covered Mountain
 1 Trinisphere
-1 Legion Warboss
 1 Battlefield Forge
 1 Thought-Knot Seer
 1 Winota, Joiner of Forces
@@ -73,7 +74,6 @@
 1 Chalice of the Void
 1 Inspiring Vantage
 1 Angrath's Marauders
-1 City of Traitors
 2 Chrome Mox
 2 City of Traitors
 2 Simian Spirit Guide
@@ -91,7 +91,6 @@
 2 Chalice of the Void
 3 Chrome Mox
 3 Simian Spirit Guide
-3 City of Traitors
 3 Blood Sun
 3 Seasoned Pyromancer
 3 Inspiring Vantage
@@ -99,6 +98,7 @@
 3 Ancient Tomb
 3 Legion Warboss
 3 Chalice of the Void
+3 City of Traitors
 3 Winota, Joiner of Forces
 3 Battlefield Forge
 3 Thought-Knot Seer

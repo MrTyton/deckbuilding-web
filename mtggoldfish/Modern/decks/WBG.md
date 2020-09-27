@@ -60,8 +60,8 @@
 |                    1|[Eladamri's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442192)  |                     |                                                                                                       |
 |                    2|[Charming Prince](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970)  |                     |                                                                                                       |
 |                    3|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)    |                     |                                                                                                       |
-|                    4|Skyclave Apparition                                                                         |                     |                                                                                                       |
 |                    4|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)      |                     |                                                                                                       |
+|                    4|Skyclave Apparition                                                                         |                     |                                                                                                       |
 |                    4|[Ephemerate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463956)       |                     |                                                                                                       |
 |                    4|[Wall of Omens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247400)    |                     |                                                                                                       |
 
