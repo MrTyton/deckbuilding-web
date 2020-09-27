@@ -1,23 +1,23 @@
-2 Swamp
+2 Neutralize
 3 Clearwater Pathway
-3 Neutralize
+3 Branchloft Pathway
 3 Mythos of Nethroi
 3 Waker of Waves
 3 Brightclimb Pathway
 3 Confounding Conundrum
 3 Extinction Event
 3 Bloodchief's Thirst
-3 Branchloft Pathway
+3 Neutralize
 3 Island
-4 Island
-4 Branchloft Pathway
 4 Clearwater Pathway
 4 Neutralize
+4 Branchloft Pathway
 4 Waker of Waves
 4 Mythos of Nethroi
-4 Brightclimb Pathway
 4 Confounding Conundrum
+4 Brightclimb Pathway
 4 Bloodchief's Thirst
+4 Island
 1 Breeding Pool
 2 Breeding Pool
 3 Breeding Pool
@@ -79,10 +79,10 @@
 2 Watery Grave
 3 Teferi, Time Raveler
 3 Watery Grave
+1 Raugrin Triome
 1 Thought Erasure
 1 Blood Crypt
 1 Savai Triome
-1 Raugrin Triome
 2 Savai Triome
 1 Opt
 1 Drown in the Loch
@@ -98,26 +98,26 @@
 3 Growth Spiral
 4 Growth Spiral
 1 Radha, Heart of Keld
+1 Steam Vents
 1 Kaya, Orzhov Usurper
 1 Angrath's Rampage
 1 Tyrant's Scorn
+1 Expansion / Explosion
 1 Arboreal Grazer
 1 Niv-Mizzet Reborn
 1 Casualties of War
 1 Knight of Autumn
-1 Steam Vents
 1 Solar Blaze
 1 Deafening Clarion
-1 Expansion / Explosion
 1 Time Wipe
 1 Tolsimir, Friend to Wolves
 1 Sacred Foundry
 1 Justice Strike
 1 March of the Multitudes
+2 Raugrin Triome
 2 Arboreal Grazer
 2 Niv-Mizzet Reborn
 2 Deafening Clarion
-2 Raugrin Triome
 3 Arboreal Grazer
 3 Niv-Mizzet Reborn
 3 Deafening Clarion
@@ -125,18 +125,18 @@
 4 Arboreal Grazer
 1 Temple of Plenty
 1 Llanowar Visionary
-1 Nissa, Who Shakes the World
 1 Glass Casket
 1 Brazen Borrower
 1 Shatter the Sky
+1 Nissa, Who Shakes the World
 1 Kenrith, the Returned King
-2 Nissa, Who Shakes the World
 2 Llanowar Visionary
 2 Hydroid Krasis
 2 Shatter the Sky
 2 Glass Casket
 2 Temple of Plenty
 2 Brazen Borrower
+2 Nissa, Who Shakes the World
 3 Hydroid Krasis
 3 Llanowar Visionary
 3 Jolrael, Mwonvuli Recluse
@@ -148,33 +148,33 @@
 1 Interplanar Beacon
 1 Liliana, Dreadhorde General
 1 Cry of the Carnarium
+1 Duress
 1 Nicol Bolas, Dragon-God
 1 Ritual of Soot
 1 Narset, Parter of Veils
-1 Duress
 1 Temple of Silence
 1 The Elderspell
 2 Atris, Oracle of Half-Truths
 2 Temple of Deceit
 2 Thought Erasure
 2 Interplanar Beacon
-2 Duress
 2 Cry of the Carnarium
+2 Duress
 2 Nicol Bolas, Dragon-God
 2 Narset, Parter of Veils
 2 Temple of Silence
 2 Ritual of Soot
-3 Atris, Oracle of Half-Truths
 3 Temple of Deceit
+3 Atris, Oracle of Half-Truths
 3 Narset, Parter of Veils
 3 Thought Erasure
 3 Nicol Bolas, Dragon-God
 3 Interplanar Beacon
 4 Teferi, Time Raveler
 4 Temple of Deceit
+4 Atris, Oracle of Half-Truths
 4 Watery Grave
 4 Narset, Parter of Veils
-4 Atris, Oracle of Half-Truths
 4 Godless Shrine
 4 Nicol Bolas, Dragon-God
 4 Interplanar Beacon

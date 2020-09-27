@@ -82,8 +82,8 @@
 4 Sacred Foundry
 1 Opt
 2 Opt
-1 Pacifism
 1 Banishing Light
+1 Pacifism
 2 Banishing Light
 2 Chemister's Insight
 1 Disdainful Stroke
@@ -95,6 +95,24 @@
 2 Mu Yanling, Sky Dancer
 3 Aether Gust
 4 Aether Gust
+3 Teferi, Master of Time
+4 Teferi, Master of Time
+1 Ugin, the Ineffable
+4 Castle Ardenvale
+1 Dance of the Manse
+1 Temple of Triumph
+1 Transmogrify
+1 Bonecrusher Giant
+1 Omen of the Forge
+2 Bonecrusher Giant
+2 Steam Vents
+2 Transmogrify
+2 Mountain
+2 Dance of the Manse
+3 Steam Vents
+3 Bonecrusher Giant
+4 Omen of the Sun
+4 Steam Vents
 1 Jwari Disruption
 1 Deny the Divine
 1 Emeria's Call
@@ -107,31 +125,13 @@
 2 Emeria's Call
 2 Waker of Waves
 3 Silundi Vision
-3 Thirst for Meaning
 3 Waker of Waves
 3 Jwari Disruption
-4 Silundi Vision
+3 Thirst for Meaning
 4 Rewind
-4 Thirst for Meaning
+4 Silundi Vision
 4 Waker of Waves
-3 Teferi, Master of Time
-4 Teferi, Master of Time
-1 Ugin, the Ineffable
-4 Castle Ardenvale
-1 Dance of the Manse
-1 Temple of Triumph
-1 Transmogrify
-1 Bonecrusher Giant
-1 Omen of the Forge
-2 Dance of the Manse
-2 Bonecrusher Giant
-2 Steam Vents
-2 Transmogrify
-2 Mountain
-3 Steam Vents
-3 Bonecrusher Giant
-4 Omen of the Sun
-4 Steam Vents
+4 Thirst for Meaning
 1 Thassa, Deep-Dwelling
 1 Deputy of Detention
 1 God-Eternal Kefnet
@@ -150,8 +150,8 @@
 12 Island
 1 Tale's End
 2 Blast Zone
-1 Narset of the Ancient Way
 1 Chandra, Awakened Inferno
+1 Narset of the Ancient Way
 1 Outlaws' Merriment
 1 Justice Strike
 2 Narset of the Ancient Way
@@ -181,10 +181,10 @@
 1 Angel of Grace
 1 Topple the Statue
 2 Sublime Epiphany
-2 Swift Response
 2 Angel of Grace
 2 Brineborn Cutthroat
 2 Topple the Statue
+2 Swift Response
 3 Brineborn Cutthroat
 3 Angel of Grace
 4 Brineborn Cutthroat

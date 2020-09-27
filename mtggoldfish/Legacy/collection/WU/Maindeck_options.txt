@@ -6,6 +6,7 @@
 2 Ponder
 2 Force of Will
 2 Brainstorm
+3 Swords to Plowshares
 3 Force of Will
 3 Brainstorm
 3 Ponder
@@ -14,7 +15,6 @@
 1 Stoneforge Mystic
 1 Batterskull
 2 Stoneforge Mystic
-3 Swords to Plowshares
 4 Force of Will
 3 Flooded Strand
 4 Flooded Strand
@@ -24,15 +24,15 @@
 2 True-Name Nemesis
 1 Snapcaster Mage
 2 Snapcaster Mage
-4 Stoneforge Mystic
 1 Force of Negation
 1 Prismatic Vista
-1 Snow-Covered Island
+4 Stoneforge Mystic
 1 Snow-Covered Plains
+1 Snow-Covered Island
 2 Snow-Covered Island
-1 Teferi, Time Raveler
 1 Jace, the Mind Sculptor
 2 Jace, the Mind Sculptor
+1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 1 Sword of Fire and Ice
 2 Snow-Covered Plains
@@ -49,21 +49,23 @@
 1 Venser, Shaper Savant
 1 Sword of Feast and Famine
 1 Preordain
-1 Umezawa's Jitte
 2 Vendilion Clique
 1 Jace, Vryn's Prodigy
 2 Karakas
 3 Snow-Covered Plains
+1 Umezawa's Jitte
 1 Spell Pierce
 1 Volcanic Island
 1 Scalding Tarn
 2 Tundra
-2 Spell Pierce
 3 Snapcaster Mage
+2 Spell Pierce
 2 Scalding Tarn
 3 Scalding Tarn
 1 Wasteland
 2 Wasteland
+1 Polluted Delta
+2 Polluted Delta
 1 Daze
 1 Delver of Secrets
 2 Delver of Secrets
@@ -72,35 +74,29 @@
 3 Daze
 3 Delver of Secrets
 4 Delver of Secrets
-4 Daze
-1 Polluted Delta
-2 Polluted Delta
 2 Preordain
-4 Scalding Tarn
 1 Arcum's Astrolabe
 1 Snow-Covered Mountain
 2 Arcum's Astrolabe
+4 Daze
+2 Council's Judgment
+4 Mishra's Bauble
+4 Scalding Tarn
+4 True-Name Nemesis
+1 Counterspell
 1 Lightning Bolt
 2 Volcanic Island
 2 Lightning Bolt
-2 Council's Judgment
-4 Mishra's Bauble
 3 Tundra
 1 Brazen Borrower
-4 True-Name Nemesis
-1 Counterspell
 2 Force of Negation
 1 Back to Basics
-1 Dreadhorde Arcanist
 2 Island
 3 Island
 1 Underground Sea
 1 Misty Rainforest
-2 Dreadhorde Arcanist
-3 Dreadhorde Arcanist
 3 Seat of the Synod
-3 Lightning Bolt
-3 Volcanic Island
+1 Dreadhorde Arcanist
 1 Mystic Sanctuary
 1 Ethereal Forager
 2 Ethereal Forager
@@ -114,7 +110,9 @@
 2 Thopter Foundry
 3 Arcum's Astrolabe
 4 Arcum's Astrolabe
+2 Dreadhorde Arcanist
 2 Narset, Parter of Veils
+3 Dreadhorde Arcanist
 4 Dreadhorde Arcanist
 1 Tropical Island
 1 Oko, Thief of Crowns
@@ -130,8 +128,8 @@
 4 Tropical Island
 4 Misty Rainforest
 4 Noble Hierarch
-1 Counterbalance
 1 Supreme Verdict
+1 Counterbalance
 3 Jace, the Mind Sculptor
 6 Snow-Covered Island
 1 Spell Snare
@@ -142,8 +140,7 @@
 5 Island
 6 Island
 1 Arid Mesa
-4 Lightning Bolt
-4 Wasteland
+3 Lightning Bolt
 1 Marsh Flats
 1 Drown in the Loch
 1 Baleful Strix
@@ -152,6 +149,7 @@
 2 Baleful Strix
 3 Polluted Delta
 4 Polluted Delta
+3 Volcanic Island
 1 Swamp
 1 Thoughtseize
 1 Engineered Explosives
@@ -170,8 +168,6 @@
 1 Mountain
 3 Spell Pierce
 4 Snapcaster Mage
-2 Arid Mesa
-4 Tundra
 1 Stifle
 1 Magmatic Sinkhole
 1 Young Pyromancer
@@ -182,3 +178,7 @@
 2 Accumulated Knowledge
 3 Accumulated Knowledge
 4 Accumulated Knowledge
+2 Arid Mesa
+4 Tundra
+4 Lightning Bolt
+4 Wasteland

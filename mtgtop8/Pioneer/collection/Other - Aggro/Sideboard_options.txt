@@ -14,17 +14,14 @@
 1 Deputy of Detention
 2 Deputy of Detention
 2 Knight of Autumn
-1 Rest in Peace
 2 Basri's Lieutenant
+1 Rest in Peace
 2 Rest in Peace
 1 Ashiok, Dream Render
-1 Noxious Grasp
-2 Noxious Grasp
-1 Settle the Wreckage
 1 Mystical Dispute
 2 Mystical Dispute
-1 Gideon, Ally of Zendikar
-2 Settle the Wreckage
+1 Noxious Grasp
+2 Noxious Grasp
 1 Disdainful Stroke
 2 Disdainful Stroke
 1 Heron's Grace Champion
@@ -53,10 +50,13 @@
 1 The Ozolith
 1 Xathrid Necromancer
 2 Xathrid Necromancer
+1 Settle the Wreckage
 1 Heroic Intervention
+2 Settle the Wreckage
 2 Heroic Intervention
-1 Leonin Warleader
+1 Gideon, Ally of Zendikar
 1 Gideon Blackblade
+1 Leonin Warleader
 1 Kaheera, the Orphanguard
 1 Glass Casket
 1 Prowling Serpopard
@@ -66,8 +66,8 @@
 1 Midnight Reaper
 2 Distended Mindbender
 2 Midnight Reaper
-1 Thief of Sanity
 1 Return to Nature
+1 Thief of Sanity
 1 Den Protector
 1 Gurmag Angler
 2 Gurmag Angler
@@ -84,6 +84,16 @@
 2 Knight of the White Orchid
 2 Selfless Spirit
 2 Dusk / Dawn
+3 Mystical Dispute
+1 Aethersphere Harvester
+1 Fumigate
+1 Thalia, Heretic Cathar
+1 Absorb
+1 Devout Decree
+2 Thalia, Heretic Cathar
+2 Devout Decree
+2 Absorb
+3 Thalia, Heretic Cathar
 1 Voice of Resurgence
 1 Grafdigger's Cage
 1 Containment Priest
@@ -95,6 +105,16 @@
 2 Abzan Charm
 3 Voice of Resurgence
 1 Damping Sphere
+1 Possibility Storm
+1 Negate
+1 Fog
+1 Chandra, Awakened Inferno
+1 Gruul Charm
+1 Fabled Passage
+1 Fry
+1 Void Snare
+2 Chandra, Awakened Inferno
+3 Chandra, Awakened Inferno
 2 Damping Sphere
 1 Skylasher
 1 Questing Beast
@@ -109,25 +129,6 @@
 2 Rampaging Ferocidon
 2 Anger of the Gods
 3 Destructive Revelry
-1 Gideon of the Trials
-1 Deafening Silence
-1 Mistcutter Hydra
-1 Display of Dominance
-2 Mistcutter Hydra
-2 Gideon of the Trials
-2 Display of Dominance
-2 Deafening Silence
-3 Mistcutter Hydra
-1 Aethersphere Harvester
-1 Fumigate
-1 Thalia, Heretic Cathar
-1 Absorb
-1 Devout Decree
-2 Thalia, Heretic Cathar
-2 Devout Decree
-2 Absorb
-3 Thalia, Heretic Cathar
-3 Mystical Dispute
 1 Elder Deep-Fiend
 1 Watery Grave
 2 Watery Grave
@@ -152,11 +153,11 @@
 3 Banishing Light
 4 Duress
 1 Into the Roil
-1 Hagra Mauling
 1 Pelakka Predation
+1 Hagra Mauling
 1 Disfigure
-1 Witch's Vengeance
 1 Leyline of the Void
+1 Witch's Vengeance
 2 Disfigure
 2 Witch's Vengeance
 2 Leyline of the Void

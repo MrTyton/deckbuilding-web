@@ -73,11 +73,11 @@
 2 Crop Rotation
 2 Tropical Island
 3 Tropical Island
+1 Green Sun's Zenith
 1 Vesuva
 1 Cyclonic Rift
 1 Pithing Needle
 1 Maze of Ith
-1 Green Sun's Zenith
 1 Dryad of the Ilysian Grove
 1 Primeval Titan
 1 Prophet of Kruphix
@@ -88,6 +88,7 @@
 1 Glimmerpost
 1 Cloudpost
 1 Glacial Chasm
+1 Bojuka Bog
 1 Ulamog, the Ceaseless Hunger
 1 Dark Depths
 1 Prophetic Prism
@@ -99,8 +100,8 @@
 1 Emrakul, the Aeons Torn
 1 Cavern of Souls
 1 Thespian's Stage
-1 Bojuka Bog
 1 Ramunap Excavator
+2 Green Sun's Zenith
 2 Snow-Covered Forest
 2 Pithing Needle
 2 Dryad of the Ilysian Grove
@@ -109,27 +110,26 @@
 2 Vesuva
 2 Glimmerpost
 2 Thespian's Stage
-2 Green Sun's Zenith
 2 Elvish Reclaimer
 2 Thought-Knot Seer
 2 Once Upon a Time
 2 Cavern of Souls
+3 Snow-Covered Forest
 3 Pithing Needle
 3 Once Upon a Time
+3 Green Sun's Zenith
 3 Cloudpost
 3 Glimmerpost
-3 Green Sun's Zenith
 3 Cavern of Souls
 3 Crop Rotation
-3 Snow-Covered Forest
 3 Elvish Reclaimer
 4 Pithing Needle
+4 Green Sun's Zenith
 4 Snow-Covered Forest
 4 Glimmerpost
 4 Cloudpost
 4 Elvish Reclaimer
 4 Crop Rotation
-4 Green Sun's Zenith
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 3 Wasteland
@@ -163,14 +163,14 @@
 3 Mishra's Factory
 4 Stifle
 1 Verdant Catacombs
-1 Forest
 1 Mox Diamond
+1 Forest
 1 Tranquil Thicket
-1 Savannah
 1 Field of the Dead
 1 Life from the Loam
 1 Abrupt Decay
 1 Underground Sea
+1 Savannah
 1 Blast Zone
 1 Bayou
 1 Chalice of the Void
@@ -182,49 +182,49 @@
 2 Uro, Titan of Nature's Wrath
 2 Chalice of the Void
 3 Oko, Thief of Crowns
-3 Mox Diamond
-3 Abrupt Decay
-3 Life from the Loam
 3 Uro, Titan of Nature's Wrath
+3 Mox Diamond
+3 Life from the Loam
 3 Chalice of the Void
-4 Uro, Titan of Nature's Wrath
+3 Abrupt Decay
+4 Abrupt Decay
 4 Wasteland
 4 Mox Diamond
-4 Abrupt Decay
+4 Uro, Titan of Nature's Wrath
 4 Chalice of the Void
 1 Noble Hierarch
-1 Blighted Agent
+1 Become Immense
+1 Pendelhaven
 1 Berserk
+1 Blighted Agent
 1 Inkmoth Nexus
 1 Vines of Vastwood
 1 Scale Up
 1 Glistener Elf
 1 Invigorate
-1 Pendelhaven
-1 Become Immense
 2 Verdant Catacombs
 2 Noble Hierarch
-2 Scale Up
 2 Berserk
 2 Inkmoth Nexus
 2 Vines of Vastwood
 2 Blighted Agent
 2 Invigorate
+2 Scale Up
 2 Glistener Elf
-3 Vines of Vastwood
-3 Daze
 3 Noble Hierarch
+3 Daze
 3 Invigorate
 3 Glistener Elf
+3 Vines of Vastwood
 3 Blighted Agent
 3 Inkmoth Nexus
 3 Verdant Catacombs
 4 Noble Hierarch
+4 Tropical Island
 4 Daze
 4 Inkmoth Nexus
 4 Glistener Elf
 4 Blighted Agent
-4 Tropical Island
 4 Invigorate
 1 Secluded Steppe
 1 Street Wraith

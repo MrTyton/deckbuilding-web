@@ -1,21 +1,13 @@
-3 Arid Mesa
-4 Arid Mesa
 3 Bloodstained Mire
-4 Bloodstained Mire
-3 Skullcrack
 4 Mountain
 1 Soul-Scar Mage
-1 Lava Dart
-2 Lava Dart
 2 Soul-Scar Mage
-3 Lava Dart
-4 Lava Dart
 3 Soul-Scar Mage
 4 Soul-Scar Mage
-1 Light Up the Stage
-2 Light Up the Stage
-3 Light Up the Stage
-4 Light Up the Stage
+1 Lava Dart
+2 Lava Dart
+3 Lava Dart
+4 Lava Dart
 5 Mountain
 6 Mountain
 7 Mountain
@@ -24,8 +16,16 @@
 10 Mountain
 11 Mountain
 12 Mountain
+1 Light Up the Stage
+2 Light Up the Stage
+3 Light Up the Stage
+4 Bloodstained Mire
+3 Arid Mesa
+4 Arid Mesa
+4 Light Up the Stage
 13 Mountain
 14 Mountain
+2 Fiery Islet
 1 Firebolt
 2 Firebolt
 1 Blistercoil Weird
@@ -47,45 +47,52 @@
 17 Mountain
 3 Wooded Foothills
 3 Lightning Helix
-2 Fiery Islet
+1 Manamorphose
+2 Manamorphose
+3 Manamorphose
+4 Manamorphose
 1 Flame Slash
 2 Flame Slash
 1 Burst Lightning
 2 Burst Lightning
 18 Mountain
-1 Manamorphose
-2 Manamorphose
-3 Manamorphose
-4 Manamorphose
+3 Skullcrack
 1 Scalding Tarn
+1 Bedlam Reveler
+2 Bedlam Reveler
+3 Bedlam Reveler
 1 Crash Through
 2 Crash Through
 3 Crash Through
 4 Crash Through
+1 Abbot of Keral Keep
+2 Abbot of Keral Keep
+3 Abbot of Keral Keep
+4 Abbot of Keral Keep
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Skullcrack
-1 Bedlam Reveler
-2 Bedlam Reveler
-3 Bedlam Reveler
-3 Sacred Foundry
+1 Wild Slash
+2 Wild Slash
+4 Bedlam Reveler
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
+3 Sacred Foundry
 1 Seal of Fire
 2 Seal of Fire
 3 Seal of Fire
 4 Seal of Fire
-4 Lightning Helix
-1 Abbot of Keral Keep
 1 Kiln Fiend
-2 Abbot of Keral Keep
 2 Kiln Fiend
 3 Kiln Fiend
-3 Abbot of Keral Keep
-4 Abbot of Keral Keep
+1 Mutagenic Growth
+2 Mutagenic Growth
+3 Mutagenic Growth
+4 Mutagenic Growth
+4 Lightning Helix
 1 Runaway Steam-Kin
 1 Gut Shot
 2 Runaway Steam-Kin
@@ -96,26 +103,23 @@
 3 Path to Exile
 3 Flame Slash
 4 Flame Slash
-1 Wild Slash
-2 Wild Slash
-4 Bedlam Reveler
 3 Burst Lightning
 4 Burst Lightning
+3 Wild Slash
+3 Fiery Islet
+4 Fiery Islet
+4 Wild Slash
 1 Blackcleave Cliffs
 1 Thoughtseize
 1 Blood Crypt
 1 Temur Battle Rage
-1 Mutagenic Growth
 2 Blackcleave Cliffs
 2 Thoughtseize
 2 Blood Crypt
-2 Mutagenic Growth
 2 Temur Battle Rage
-3 Mutagenic Growth
 3 Blackcleave Cliffs
 3 Thoughtseize
 4 Kiln Fiend
-4 Mutagenic Growth
 4 Blackcleave Cliffs
 1 Chandra's Incinerator
 2 Chandra's Incinerator
@@ -123,10 +127,10 @@
 4 Chandra's Incinerator
 1 Atarka's Command
 1 Wild Nacatl
+1 Stomping Ground
 1 Grim Lavamancer
 1 Thunderous Wrath
 1 Copperline Gorge
-1 Stomping Ground
 2 Atarka's Command
 2 Wild Nacatl
 2 Stomping Ground
