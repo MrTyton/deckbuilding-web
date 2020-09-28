@@ -1,16 +1,16 @@
-1 Shenanigans
 1 Reverent Silence
-1 Plague Engineer
-1 Surgical Extraction
-1 Iona, Shield of Emeria
-2 Plague Engineer
+1 Shenanigans
 2 Reverent Silence
 3 Reverent Silence
 1 Faerie Macabre
 2 Faerie Macabre
-1 Eliminate
+1 Iona, Shield of Emeria
+1 Plague Engineer
+1 Surgical Extraction
+2 Plague Engineer
 1 Pack Rat
 1 Bitterblossom
+1 Eliminate
 2 Bitterblossom
 2 Eliminate
 1 Liliana, the Last Hope
@@ -18,11 +18,14 @@
 2 Pack Rat
 3 Pack Rat
 4 Pack Rat
-1 Ashen Rider
 1 Abrupt Decay
 1 Grave Titan
 2 Abrupt Decay
-1 Abrade
+1 Ashen Rider
+1 Serenity
+2 Serenity
+4 Reverent Silence
+1 Elesh Norn, Grand Cenobite
 1 Nihil Spellbomb
 1 Pyroblast
 2 Pyroblast
@@ -36,19 +39,11 @@
 1 Oko, Thief of Crowns
 1 Cling to Dust
 2 Oko, Thief of Crowns
-1 Elesh Norn, Grand Cenobite
-1 Silence
-1 Hope of Ghirapur
-2 Silence
-1 Serenity
-2 Serenity
-4 Reverent Silence
+3 Faerie Macabre
+1 Abrade
 3 Oko, Thief of Crowns
 1 Ashiok, Dream Render
 1 Griselbrand
-1 Thoughtseize
-1 Disenchant
-1 Inkwell Leviathan
 1 Dead of Winter
 1 Hydroblast
 1 Gilded Drake
@@ -72,14 +67,18 @@
 1 Darkblast
 1 Collector Ouphe
 2 Collector Ouphe
+1 Silence
+1 Thoughtseize
+1 Hope of Ghirapur
+2 Silence
 1 Karn, the Great Creator
-1 Defense Grid
-1 Mycosynth Lattice
-1 Liquimetal Coating
 1 Sorcerous Spyglass
-1 Tormod's Crypt
 1 Wurmcoil Engine
+1 Mycosynth Lattice
+1 Tormod's Crypt
+1 Defense Grid
 1 Coalition Relic
+1 Liquimetal Coating
 1 Force of Vigor
 2 Force of Vigor
 1 Sylvan Library
@@ -87,7 +86,6 @@
 1 Carpet of Flowers
 3 Veil of Summer
 3 Pyroblast
-3 Faerie Macabre
 3 Serenity
 4 Xantid Swarm
 1 Liliana of the Veil

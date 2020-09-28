@@ -62,10 +62,10 @@
 1 Narset of the Ancient Way
 3 Gideon of the Trials
 1 Temple of Enlightenment
-1 Elspeth, Sun's Champion
 1 Detention Sphere
 1 Temple of Triumph
 1 Temple of Epiphany
+1 Elspeth, Sun's Champion
 1 Chance for Glory
 2 Chance for Glory
 1 Needle Spires
@@ -173,13 +173,13 @@
 2 Battlefield Forge
 2 Castle Embereth
 2 Wild Slash
+3 Wild Slash
 3 Pia and Kiran Nalaar
 3 Mutavault
 3 Earthshaker Khenra
 3 Goblin Rabblemaster
 3 Purphoros, God of the Forge
 3 Inspiring Vantage
-3 Wild Slash
 3 Anax, Hardened in the Forge
 3 Clifftop Retreat
 3 Omen of the Forge
@@ -189,6 +189,7 @@
 3 Needle Spires
 3 Siege-Gang Commander
 3 Mountain
+4 Wild Slash
 4 Mutavault
 4 Earthshaker Khenra
 4 Goblin Rabblemaster
@@ -196,7 +197,6 @@
 4 Battlefield Forge
 4 Anax, Hardened in the Forge
 4 Omen of the Forge
-4 Wild Slash
 4 Mountain
 4 Inspiring Vantage
 4 Siege-Gang Commander
@@ -206,57 +206,22 @@
 6 Mountain
 7 Mountain
 8 Mountain
-2 Temple of Triumph
 2 Detention Sphere
+2 Temple of Triumph
 2 Teferi, Hero of Dominaria
 3 Teferi, Hero of Dominaria
-1 Chandra, Awakened Inferno
 1 Chandra, Flamecaller
+1 Chandra, Awakened Inferno
 1 The Royal Scions
 1 Gideon Blackblade
 2 Gideon Blackblade
 3 Heart of Kiran
-1 Hinterland Harbor
-1 Emeria's Call
-1 Omnath, Locus of Creation
-1 Kenrith, the Returned King
-1 Growth Spiral
-1 Azorius Charm
-1 Felidar Retreat
-1 Uro, Titan of Nature's Wrath
-1 Sunpetal Grove
-1 Escape to the Wilds
-1 Cavalier of Flame
-1 Forest
-1 Stomping Ground
-2 Sunpetal Grove
-2 Stomping Ground
-2 Hinterland Harbor
-2 Emeria's Call
-2 Omnath, Locus of Creation
-2 Kenrith, the Returned King
-2 Growth Spiral
-2 Uro, Titan of Nature's Wrath
-2 Azorius Charm
-2 Felidar Retreat
-2 Cavalier of Flame
-2 Escape to the Wilds
-3 Hinterland Harbor
-3 Escape to the Wilds
-3 Growth Spiral
-3 Uro, Titan of Nature's Wrath
-3 Felidar Retreat
-3 Cavalier of Flame
-3 Omnath, Locus of Creation
-4 Growth Spiral
-4 Escape to the Wilds
-4 Hinterland Harbor
 1 Ashiok, Nightmare Muse
 1 Temple of Deceit
 1 Atris, Oracle of Half-Truths
+1 Mastermind's Acquisition
 1 Heartless Act
 1 Thoughtseize
-1 Mastermind's Acquisition
 1 The Scarab God
 1 Nicol Bolas, Dragon-God
 1 Temple of Malice
@@ -270,3 +235,38 @@
 3 Nicol Bolas, the Ravager
 4 Nicol Bolas, the Ravager
 4 Thoughtseize
+1 Hinterland Harbor
+1 Kenrith, the Returned King
+1 Cavalier of Flame
+1 Emeria's Call
+1 Omnath, Locus of Creation
+1 Growth Spiral
+1 Azorius Charm
+1 Felidar Retreat
+1 Uro, Titan of Nature's Wrath
+1 Sunpetal Grove
+1 Escape to the Wilds
+1 Forest
+1 Stomping Ground
+2 Sunpetal Grove
+2 Stomping Ground
+2 Hinterland Harbor
+2 Cavalier of Flame
+2 Kenrith, the Returned King
+2 Emeria's Call
+2 Omnath, Locus of Creation
+2 Growth Spiral
+2 Uro, Titan of Nature's Wrath
+2 Azorius Charm
+2 Felidar Retreat
+2 Escape to the Wilds
+3 Hinterland Harbor
+3 Cavalier of Flame
+3 Growth Spiral
+3 Uro, Titan of Nature's Wrath
+3 Escape to the Wilds
+3 Felidar Retreat
+3 Omnath, Locus of Creation
+4 Escape to the Wilds
+4 Hinterland Harbor
+4 Growth Spiral

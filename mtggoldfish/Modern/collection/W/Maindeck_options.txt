@@ -1,33 +1,33 @@
-2 Aether Vial
-3 Aether Vial
-4 Aether Vial
 1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
-3 Thalia, Guardian of Thraben
-1 Leonin Arbiter
 1 Restoration Angel
 1 Flickerwisp
 1 Ghost Quarter
+1 Aether Vial
 2 Leonin Arbiter
+2 Thalia, Guardian of Thraben
 2 Restoration Angel
 2 Flickerwisp
 2 Ghost Quarter
+2 Aether Vial
 3 Leonin Arbiter
+3 Thalia, Guardian of Thraben
 3 Restoration Angel
 3 Flickerwisp
 3 Ghost Quarter
+3 Aether Vial
 4 Leonin Arbiter
 4 Ghost Quarter
 4 Path to Exile
 4 Restoration Angel
 4 Flickerwisp
+4 Aether Vial
 4 Thalia, Guardian of Thraben
 1 Charming Prince
 2 Charming Prince
 1 Horizon Canopy
-1 Eiganjo Castle
 1 Tectonic Edge
 1 Blade Splicer
+1 Eiganjo Castle
 1 Sunbaked Canyon
 2 Tectonic Edge
 2 Blade Splicer
@@ -45,23 +45,23 @@
 2 Shefet Dunes
 1 Ranger-Captain of Eos
 1 Snow-Covered Plains
+1 Welding Jar
+1 Memnite
 2 Snow-Covered Plains
+2 Memnite
+2 Paradise Mantle
 3 Snow-Covered Plains
+3 Memnite
 4 Snow-Covered Plains
+4 Memnite
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
 10 Snow-Covered Plains
-1 Welding Jar
-1 Memnite
-2 Memnite
-2 Paradise Mantle
-3 Memnite
-4 Memnite
-1 Cavern of Souls
 1 Thalia, Heretic Cathar
+1 Cavern of Souls
 1 Thassa's Oracle
 1 Puresight Merrow
 2 Puresight Merrow
@@ -69,7 +69,6 @@
 3 Puresight Merrow
 4 Paradise Mantle
 4 Puresight Merrow
-1 Field of Ruin
 1 Kitchen Finks
 1 Renegade Rallier
 1 Windswept Heath
@@ -77,17 +76,18 @@
 1 Forest
 1 Stirring Wildwood
 1 Temple Garden
+1 Field of Ruin
 1 Scavenging Ooze
 1 Razorverge Thicket
 1 Qasali Pridemage
 2 Noble Hierarch
 2 Forest
 2 Scavenging Ooze
+2 Temple Garden
 2 Horizon Canopy
 2 Renegade Rallier
 2 Razorverge Thicket
 2 Qasali Pridemage
-2 Temple Garden
 3 Noble Hierarch
 3 Horizon Canopy
 3 Temple Garden
@@ -95,49 +95,7 @@
 4 Noble Hierarch
 4 Razorverge Thicket
 4 Horizon Canopy
-1 Auriok Champion
-2 Auriok Champion
 2 Ranger-Captain of Eos
-1 Giver of Runes
-2 Giver of Runes
-3 Giver of Runes
-4 Giver of Runes
-1 Walking Ballista
-1 Heliod, Sun-Crowned
-2 Heliod, Sun-Crowned
-2 Walking Ballista
-3 Heliod, Sun-Crowned
-3 Walking Ballista
-4 Heliod, Sun-Crowned
-11 Snow-Covered Plains
-12 Snow-Covered Plains
-13 Snow-Covered Plains
-14 Snow-Covered Plains
-15 Snow-Covered Plains
-16 Snow-Covered Plains
-2 Field of Ruin
-3 Ranger-Captain of Eos
-4 Ranger-Captain of Eos
-1 Speaker of the Heavens
-1 Soul Warden
-1 Serra Ascendant
-1 Soul's Attendant
-1 Martyr of Sands
-2 Speaker of the Heavens
-2 Serra Ascendant
-2 Martyr of Sands
-2 Soul Warden
-3 Martyr of Sands
-3 Speaker of the Heavens
-3 Serra Ascendant
-4 Speaker of the Heavens
-4 Martyr of Sands
-17 Snow-Covered Plains
-1 Lurrus of the Dream-Den
-2 Lurrus of the Dream-Den
-3 Lurrus of the Dream-Den
-3 Auriok Champion
-4 Walking Ballista
 2 Sunbaked Canyon
 2 Kitchen Finks
 1 Voice of Resurgence
@@ -146,6 +104,8 @@
 1 Skyclave Apparition
 2 Skyclave Apparition
 2 Archon of Emeria
+1 Auriok Champion
+2 Auriok Champion
 1 On Thin Ice
 1 Cranial Plating
 2 Welding Jar
@@ -153,33 +113,11 @@
 1 Eldrazi Displacer
 1 Containment Priest
 1 Scavenger Grounds
+1 Giver of Runes
 2 Eldrazi Displacer
 2 Containment Priest
+2 Giver of Runes
 3 Eldrazi Displacer
+3 Giver of Runes
 3 Shefet Dunes
-1 Anafenza, Kin-Tree Spirit
-1 Gemstone Caverns
-1 Teshar, Ancestor's Apostle
-2 Anafenza, Kin-Tree Spirit
-2 Teshar, Ancestor's Apostle
-3 Anafenza, Kin-Tree Spirit
-3 Teshar, Ancestor's Apostle
-4 Anafenza, Kin-Tree Spirit
-4 Auriok Champion
-1 Squadron Hawk
-2 Castle Ardenvale
-2 Squadron Hawk
-3 Castle Ardenvale
-3 Squadron Hawk
-3 Field of Ruin
-4 Squadron Hawk
-4 Field of Ruin
-1 Ajani's Pridemate
-1 Dawn of Hope
-2 Soul's Attendant
-2 Cavern of Souls
-2 Ajani's Pridemate
-3 Cavern of Souls
-3 Ajani's Pridemate
-4 Serra Ascendant
-4 Ajani's Pridemate
+4 Giver of Runes

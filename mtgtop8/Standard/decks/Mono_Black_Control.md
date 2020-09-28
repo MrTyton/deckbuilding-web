@@ -46,8 +46,8 @@
 |                    3|[Liliana, Waker of the Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485431)|                     |                                                                                                |
 |                    3|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)         |                     |                                                                                                |
 |                    3|[Radiant Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438810)          |                     |                                                                                                |
-|                    4|[Radiant Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438810)          |                     |                                                                                                |
 |                    4|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)         |                     |                                                                                                |
+|                    4|[Radiant Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438810)          |                     |                                                                                                |
 |                   18|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                     |                     |                                                                                                |
 |                   19|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                     |                     |                                                                                                |
 

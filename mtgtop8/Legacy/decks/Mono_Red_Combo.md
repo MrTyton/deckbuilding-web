@@ -22,3 +22,13 @@
 |1 [Mycosynth Lattice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446209) |1 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)     |                                                                                         |                                                                                          |
 |1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |1 [Wurmcoil Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389756)      |                                                                                         |                                                                                          |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                   Maindeck Card                                   |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|-----------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                   11|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)|                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)   |
+|                     |                                                                                   |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)   |
+|                     |                                                                                   |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)   |
+|                     |                                                                                   |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
+

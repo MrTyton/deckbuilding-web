@@ -130,6 +130,50 @@
 4 Blisterpod
 1 Dragonskull Summit
 4 Blood Crypt
+3 Plains
+1 Glasspool Mimic
+2 Glasspool Mimic
+3 Glasspool Mimic
+1 Thought Erasure
+2 Thought Erasure
+3 Thoughtseize
+4 Thoughtseize
+1 Blackbloom Rogue
+1 Pelakka Predation
+1 Into the Roil
+1 Jwari Disruption
+1 Sea Gate Restoration
+1 Driven / Despair
+1 Balustrade Spy
+1 Undercity Informer
+1 Worldspine Wurm
+1 Hagra Mauling
+1 Opt
+2 Blackbloom Rogue
+2 Jwari Disruption
+2 Hagra Mauling
+2 Sea Gate Restoration
+2 Pelakka Predation
+2 Balustrade Spy
+2 Undercity Informer
+2 Worldspine Wurm
+2 Opt
+3 Blackbloom Rogue
+3 Thought Erasure
+3 Sea Gate Restoration
+3 Jwari Disruption
+3 Pelakka Predation
+3 Balustrade Spy
+3 Undercity Informer
+3 Agadeem's Awakening
+3 Opt
+4 Blackbloom Rogue
+4 Sea Gate Restoration
+4 Jwari Disruption
+4 Balustrade Spy
+4 Undercity Informer
+4 Agadeem's Awakening
+1 Island
 1 Scavenging Ooze
 1 Rhonas the Indomitable
 2 Scavenging Ooze
@@ -164,15 +208,17 @@
 4 Garruk's Harbinger
 4 Hashep Oasis
 4 Rotting Regisaur
-3 Plains
-1 Island
 1 Godless Shrine
 2 Godless Shrine
-1 Pelt Collector
+1 Voice of Resurgence
+2 Voice of Resurgence
+3 Voice of Resurgence
+4 Voice of Resurgence
 1 Dromoka's Command
 2 Dromoka's Command
 3 Dromoka's Command
 4 Dromoka's Command
+1 Pelt Collector
 1 Stonecoil Serpent
 1 Ajani, Adversary of Tyrants
 2 Ajani, Adversary of Tyrants
@@ -201,13 +247,6 @@
 4 Winding Constrictor
 4 Pelt Collector
 4 Conclave Mentor
-1 Voice of Resurgence
-2 Voice of Resurgence
-3 Voice of Resurgence
-4 Voice of Resurgence
-1 Glasspool Mimic
-2 Glasspool Mimic
-3 Glasspool Mimic
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
@@ -236,45 +275,6 @@
 4 Glasspool Mimic
 4 Militia Bugler
 4 Spell Queller
-1 Thought Erasure
-2 Thought Erasure
-3 Thoughtseize
-4 Thoughtseize
-1 Hagra Mauling
-1 Blackbloom Rogue
-1 Pelakka Predation
-1 Into the Roil
-1 Jwari Disruption
-1 Sea Gate Restoration
-1 Driven / Despair
-1 Balustrade Spy
-1 Undercity Informer
-1 Worldspine Wurm
-1 Opt
-2 Blackbloom Rogue
-2 Hagra Mauling
-2 Pelakka Predation
-2 Sea Gate Restoration
-2 Jwari Disruption
-2 Balustrade Spy
-2 Undercity Informer
-2 Worldspine Wurm
-2 Opt
-3 Blackbloom Rogue
-3 Thought Erasure
-3 Sea Gate Restoration
-3 Jwari Disruption
-3 Balustrade Spy
-3 Undercity Informer
-3 Pelakka Predation
-3 Agadeem's Awakening
-3 Opt
-4 Sea Gate Restoration
-4 Jwari Disruption
-4 Balustrade Spy
-4 Undercity Informer
-4 Agadeem's Awakening
-4 Blackbloom Rogue
 1 Breaking / Entering
 1 Brokkos, Apex of Forever
 1 Uro, Titan of Nature's Wrath
@@ -283,24 +283,24 @@
 3 Haunted Dead
 3 Uro, Titan of Nature's Wrath
 4 Botanical Sanctum
-1 Acquisitions Expert
-1 Luminarch Aspirant
 1 Archpriest of Iona
 1 Bloodsoaked Champion
+1 Acquisitions Expert
 1 Clearwater Pathway
+1 Luminarch Aspirant
 1 Hamlet Captain
 1 Gust Walker
-2 Acquisitions Expert
 2 Luminarch Aspirant
+2 Acquisitions Expert
 2 Bloodsoaked Champion
 2 Gust Walker
 2 Archpriest of Iona
 2 Hamlet Captain
-3 Acquisitions Expert
 3 Luminarch Aspirant
 3 Archpriest of Iona
-4 Luminarch Aspirant
+3 Acquisitions Expert
 4 Acquisitions Expert
+4 Luminarch Aspirant
 4 Archpriest of Iona
 1 Drowned Catacomb
 2 Drowned Catacomb
@@ -407,8 +407,8 @@
 1 Rosethorn Acolyte
 1 Sulfur Falls
 2 Possibility Storm
-2 Beanstalk Giant
 2 Enter the Infinite
+2 Beanstalk Giant
 2 Island
 2 Steam Vents
 2 Lucky Clover
@@ -530,8 +530,8 @@
 1 Castle Ardenvale
 1 Paradise Druid
 1 Nissa, Voice of Zendikar
-1 Gideon, Ally of Zendikar
 1 Divine Visitation
+1 Gideon, Ally of Zendikar
 1 Declaration in Stone
 1 Secure the Wastes
 1 Leonin Warleader

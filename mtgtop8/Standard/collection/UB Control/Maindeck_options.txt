@@ -23,8 +23,8 @@
 4 Shark Typhoon
 1 Thassa's Intervention
 1 Jwari Disruption
-1 Ashiok's Erasure
 1 Crawling Barrens
+1 Ashiok's Erasure
 2 Thassa's Intervention
 2 Jwari Disruption
 2 Ashiok's Erasure
@@ -32,9 +32,9 @@
 2 Castle Vantress
 3 Ashiok's Erasure
 3 Voracious Greatshark
-4 Ashiok's Erasure
-4 Voracious Greatshark
 4 Heartless Act
+4 Voracious Greatshark
+4 Ashiok's Erasure
 1 Chemister's Insight
 1 Mystic Sanctuary
 3 Negate
@@ -77,11 +77,11 @@
 2 Mazemind Tome
 3 Mazemind Tome
 4 Mazemind Tome
-1 Sea Gate Stormcaller
 1 Jace, Mirror Mage
+1 Sea Gate Stormcaller
+2 Jace, Mirror Mage
 2 Sea Gate Stormcaller
 2 Zagoth Triome
-2 Jace, Mirror Mage
 2 Ashiok, Nightmare Muse
 3 Jace, Mirror Mage
 3 Sea Gate Stormcaller
@@ -94,11 +94,6 @@
 4 Agonizing Remorse
 4 Bloodchief's Thirst
 4 Zagoth Triome
-2 Chemister's Insight
-3 Omen of the Sea
-3 Chemister's Insight
-4 Omen of the Sea
-9 Swamp
 1 Into the Story
 1 Murder
 2 Murder
@@ -107,3 +102,8 @@
 4 Dimir Guildgate
 4 Murder
 4 Narset, Parter of Veils
+2 Chemister's Insight
+3 Omen of the Sea
+3 Chemister's Insight
+4 Omen of the Sea
+9 Swamp

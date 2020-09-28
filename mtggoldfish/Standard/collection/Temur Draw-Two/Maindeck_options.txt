@@ -1,43 +1,15 @@
-1 Spikefield Hazard
-2 Spikefield Hazard
-2 Neutralize
-3 Neutralize
-4 Neutralize
-2 Shatterskull Smashing
-2 Temple of Mystery
-3 Shatterskull Smashing
-1 Irencrag Pyromancer
-2 Irencrag Pyromancer
-3 Irencrag Pyromancer
-4 Irencrag Pyromancer
-1 Temple of Epiphany
-2 Temple of Epiphany
-4 Island
-4 Improbable Alliance
-1 Essence Scatter
-2 Essence Scatter
 1 The Royal Scions
-3 Temple of Mystery
-4 Temple of Mystery
-4 Shatterskull Smashing
-1 Boon of the Wish-Giver
-1 Scorching Dragonfire
-1 Jwari Disruption
-2 Boon of the Wish-Giver
-2 Scorching Dragonfire
-3 Scorching Dragonfire
-3 Spikefield Hazard
-4 Scorching Dragonfire
-4 Spikefield Hazard
-1 Temple of Abandon
-1 Questing Beast
-1 Turntimber Symbiosis
+1 Temple of Epiphany
 1 Brazen Borrower
+1 Temple of Abandon
+1 Turntimber Symbiosis
+1 Questing Beast
 2 Brazen Borrower
 2 Turntimber Symbiosis
 2 Questing Beast
 2 The Royal Scions
 2 Temple of Abandon
+2 Temple of Epiphany
 3 The Royal Scions
 3 Brazen Borrower
 3 Temple of Epiphany
@@ -46,14 +18,32 @@
 4 Brazen Borrower
 4 The Royal Scions
 1 Bala Ged Recovery
+1 Neutralize
+1 Spikefield Hazard
 2 Bala Ged Recovery
+2 Spikefield Hazard
+2 Neutralize
+3 Neutralize
+4 Neutralize
 4 Teferi, Master of Time
-1 Ugin, the Spirit Dragon
-1 Swiftwater Cliffs
+1 Mystical Dispute
+1 Shark Typhoon
+2 Shark Typhoon
+2 Mystical Dispute
+3 Temple of Mystery
+3 Shark Typhoon
+3 Mystical Dispute
+4 Temple of Mystery
+4 Shatterskull Smashing
+4 Shark Typhoon
+4 Mystical Dispute
+1 Essence Scatter
 1 Shock
 1 Ominous Seas
+1 Swiftwater Cliffs
 1 Lofty Denial
 1 Blitz of the Thunder-Raptor
+1 Ugin, the Spirit Dragon
 1 Thirst for Meaning
 1 Jace, Mirror Mage
 1 Evolving Wilds
@@ -61,9 +51,10 @@
 1 Negate
 1 Omen of the Sea
 2 Omen of the Sea
-2 Blitz of the Thunder-Raptor
+2 Essence Scatter
 2 Thirst for Meaning
 2 Lofty Denial
+2 Blitz of the Thunder-Raptor
 2 Shock
 2 Mountain
 2 Evolving Wilds
