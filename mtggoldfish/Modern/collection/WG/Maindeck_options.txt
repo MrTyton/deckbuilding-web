@@ -1,10 +1,8 @@
-1 Horizon Canopy
-3 Temple Garden
 1 Scavenging Ooze
 1 Spike Feeder
+1 Ranger-Captain of Eos
 1 Heliod, Sun-Crowned
 1 Walking Ballista
-1 Ranger-Captain of Eos
 1 Collected Company
 2 Heliod, Sun-Crowned
 2 Ranger-Captain of Eos
@@ -12,9 +10,9 @@
 2 Walking Ballista
 2 Collected Company
 3 Heliod, Sun-Crowned
+3 Ranger-Captain of Eos
 3 Spike Feeder
 3 Collected Company
-3 Ranger-Captain of Eos
 4 Collected Company
 1 Conclave Mentor
 2 Conclave Mentor
@@ -29,6 +27,8 @@
 4 Conclave Mentor
 1 Auriok Champion
 4 Temple Garden
+2 Snow-Covered Forest
+1 Eternal Witness
 4 Forest
 2 Plains
 1 Utopia Sprawl
@@ -42,31 +42,32 @@
 1 Gavony Township
 1 Courser of Kruphix
 1 Scattered Groves
-1 Elder Gargaroth
-1 Tireless Tracker
+5 Forest
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
-5 Forest
+1 Elder Gargaroth
+1 Tireless Tracker
 1 Wooded Bastion
-1 Crumbling Vestige
 1 Prismatic Vista
+1 Crumbling Vestige
+3 Horizon Canopy
 1 Springbloom Druid
 1 Wall of Blossoms
 1 Knight of the Reliquary
-3 Horizon Canopy
-1 Thalia, Guardian of Thraben
-1 Sejiri Steppe
 1 Arbor Elf
 2 Arbor Elf
 3 Arbor Elf
 4 Arbor Elf
+1 Thalia, Guardian of Thraben
+1 Sejiri Steppe
 2 Thalia, Guardian of Thraben
 1 Aether Vial
 2 Aether Vial
 3 Thalia, Guardian of Thraben
 3 Aether Vial
 4 Aether Vial
+3 Scavenging Ooze
 2 Sakura-Tribe Elder
 2 Tireless Tracker
 2 Courser of Kruphix
@@ -74,7 +75,6 @@
 1 Woodland Bellower
 1 Golos, Tireless Pilgrim
 2 Prismatic Vista
-3 Scavenging Ooze
 1 Giver of Runes
 1 Birds of Paradise
 2 Birds of Paradise
@@ -94,13 +94,13 @@
 5 Snow-Covered Forest
 2 Golos, Tireless Pilgrim
 1 Elvish Rejuvenator
+1 Verdant Catacombs
 1 Anafenza, Kin-Tree Spirit
 2 Razorverge Thicket
 1 Voice of Resurgence
 1 Turntimber Symbiosis
 3 Explore
 4 Explore
-1 Verdant Catacombs
 2 Verdant Catacombs
 3 Verdant Catacombs
 1 Canopy Vista
@@ -109,14 +109,14 @@
 3 Misty Rainforest
 4 Misty Rainforest
 4 Birds of Paradise
-1 Arid Mesa
 1 Selfless Savior
+1 Arid Mesa
 1 Nylea, Keen-Eyed
 1 Oracle of Mul Daya
+1 Shalai, Voice of Plenty
 1 Renegade Rallier
 1 Castle Ardenvale
 1 Nissa, Vastwood Seer
-1 Shalai, Voice of Plenty
 1 Archangel of Thune
 1 Tectonic Edge
 2 Snow-Covered Plains
@@ -138,10 +138,10 @@
 3 Marsh Flats
 4 Plains
 1 Breeding Pool
+1 Hallowed Fountain
 1 Deputy of Detention
 1 Dryad Arbor
 1 Leyline of Abundance
-1 Hallowed Fountain
 1 Freed from the Real
 1 Sylvan Caryatid
 1 Heliod's Pilgrim

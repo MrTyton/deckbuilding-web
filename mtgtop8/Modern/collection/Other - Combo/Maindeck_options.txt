@@ -1,4 +1,60 @@
 4 Vampire Hexmage
+1 Simian Spirit Guide
+2 Simian Spirit Guide
+3 Simian Spirit Guide
+4 Simian Spirit Guide
+1 Spikefield Hazard
+1 Desperate Ritual
+1 Shatterskull Smashing
+1 Turntimber Symbiosis
+1 Valakut Awakening
+1 Blood Moon
+1 Tangled Florahedron
+1 Pyretic Ritual
+1 Irencrag Feat
+1 Bala Ged Recovery
+1 Manamorphose
+1 Reforge the Soul
+1 Recross the Paths
+1 Goblin Charbelcher
+2 Desperate Ritual
+2 Turntimber Symbiosis
+2 Spikefield Hazard
+2 Blood Moon
+2 Bala Ged Recovery
+2 Irencrag Feat
+2 Tangled Florahedron
+2 Manamorphose
+2 Valakut Awakening
+2 Pyretic Ritual
+2 Recross the Paths
+2 Shatterskull Smashing
+2 Goblin Charbelcher
+3 Turntimber Symbiosis
+3 Spikefield Hazard
+3 Blood Moon
+3 Valakut Awakening
+3 Desperate Ritual
+3 Bala Ged Recovery
+3 Irencrag Feat
+3 Recross the Paths
+3 Manamorphose
+3 Shatterskull Smashing
+3 Tangled Florahedron
+3 Pyretic Ritual
+3 Goblin Charbelcher
+4 Blood Moon
+4 Spikefield Hazard
+4 Bala Ged Recovery
+4 Shatterskull Smashing
+4 Goblin Charbelcher
+4 Turntimber Symbiosis
+4 Manamorphose
+4 Valakut Awakening
+4 Recross the Paths
+4 Desperate Ritual
+4 Pyretic Ritual
+4 Irencrag Feat
 1 Steam Vents
 4 Force of Negation
 1 Teferi, Time Raveler
@@ -9,33 +65,28 @@
 3 Teferi, Time Raveler
 3 Phyrexian Unlife
 4 Phyrexian Unlife
-1 Simian Spirit Guide
-2 Simian Spirit Guide
-3 Simian Spirit Guide
-4 Simian Spirit Guide
 1 Arid Mesa
 2 Arid Mesa
-1 Narset of the Ancient Way
-1 Wall of Omens
 1 Snow-Covered Mountain
+1 Wall of Omens
 1 Spell Queller
 1 Prismatic Vista
-1 Fae of Wishes
+1 Narset of the Ancient Way
 1 Delay
 1 Chandra, Torch of Defiance
 1 Sacred Foundry
 1 Commandeer
 1 Drannith Magistrate
 1 Reverse the Sands
+1 Fae of Wishes
 1 Possibility Storm
 1 Jace, the Mind Sculptor
 1 Snow-Covered Plains
 1 Spellskite
-2 Narset of the Ancient Way
 2 Wall of Omens
 2 Spell Queller
 2 Snow-Covered Plains
-2 Fae of Wishes
+2 Narset of the Ancient Way
 2 Prismatic Vista
 2 Chandra, Torch of Defiance
 2 Snow-Covered Mountain
@@ -46,24 +97,25 @@
 2 Possibility Storm
 2 Flooded Strand
 2 Commandeer
+2 Fae of Wishes
 3 Snow-Covered Island
 3 Spell Queller
 3 Wall of Omens
-3 Fae of Wishes
 3 Prismatic Vista
 3 Arid Mesa
 3 Drannith Magistrate
 3 Possibility Storm
 3 Flooded Strand
+3 Fae of Wishes
 3 Snow-Covered Plains
 3 Delay
 3 Scalding Tarn
 4 Spell Queller
 4 Teferi, Time Raveler
 4 Snow-Covered Island
-4 Wall of Omens
 4 Prismatic Vista
 4 Arid Mesa
+4 Wall of Omens
 4 Fae of Wishes
 4 Flooded Strand
 4 Delay
@@ -72,6 +124,14 @@
 4 Scalding Tarn
 5 Snow-Covered Island
 5 Snow-Covered Plains
+1 Defense Grid
+1 Veil of Summer
+2 Defense Grid
+3 Defense Grid
+1 Chalice of the Void
+2 Chalice of the Void
+3 Chalice of the Void
+4 Chalice of the Void
 1 Island
 1 Hallowed Fountain
 1 Inquisition of Kozilek
@@ -93,7 +153,6 @@
 2 Inquisition of Kozilek
 2 Opt
 2 Steam Vents
-2 Rakdos Charm
 2 Bloodstained Mire
 2 Trespasser's Curse
 2 Batwing Brume
@@ -101,15 +160,16 @@
 2 Hydrolash
 2 Mission Briefing
 2 Forbidden Orchard
+2 Rakdos Charm
 2 Rapid Hybridization
 3 Inquisition of Kozilek
 3 Opt
 3 Bloodstained Mire
-3 Rakdos Charm
 3 Mission Briefing
 3 Forbidden Orchard
 3 Hunted Phantasm
 3 Trespasser's Curse
+3 Rakdos Charm
 3 Batwing Brume
 3 Hydrolash
 4 Opt
@@ -124,9 +184,9 @@
 1 Worldspine Wurm
 1 Through the Breach
 1 Gemstone Caverns
-1 Elesh Norn, Grand Cenobite
 1 Charming Prince
 1 Wooded Foothills
+1 Elesh Norn, Grand Cenobite
 1 Utopia Sprawl
 1 Emrakul, the Aeons Torn
 1 Vizier of Remedies
@@ -134,9 +194,9 @@
 1 Devoted Druid
 1 Temple Garden
 1 Misty Rainforest
+1 Forest
 1 Eladamri's Call
 1 Dubious Challenge
-1 Forest
 1 Stomping Ground
 2 Windswept Heath
 2 Worldspine Wurm
@@ -147,8 +207,8 @@
 2 Utopia Sprawl
 2 Temple Garden
 2 Stomping Ground
-2 Gemstone Caverns
 2 Plains
+2 Gemstone Caverns
 2 Flickerwisp
 2 Devoted Druid
 2 Eladamri's Call
@@ -174,7 +234,6 @@
 4 Emrakul, the Aeons Torn
 4 Dubious Challenge
 1 Talisman of Dominance
-1 Pact of Negation
 1 Wishclaw Talisman
 1 Serum Visions
 1 Spoils of the Vault
@@ -186,13 +245,14 @@
 1 City of Brass
 1 Jace, Wielder of Mysteries
 1 Shelldock Isle
+1 Pact of Negation
 2 Talisman of Dominance
 2 Wishclaw Talisman
-2 Pact of Negation
 2 Jace, Wielder of Mysteries
 2 Spoils of the Vault
 2 Thassa's Oracle
 2 Gemstone Mine
+2 Pact of Negation
 2 City of Brass
 2 Pentad Prism
 2 Shelldock Isle
@@ -217,59 +277,3 @@
 4 Serum Visions
 4 Angel's Grace
 4 Inverter of Truth
-1 Desperate Ritual
-1 Shatterskull Smashing
-1 Spikefield Hazard
-1 Valakut Awakening
-1 Blood Moon
-1 Chalice of the Void
-1 Tangled Florahedron
-1 Pyretic Ritual
-1 Irencrag Feat
-1 Bala Ged Recovery
-1 Turntimber Symbiosis
-1 Manamorphose
-1 Reforge the Soul
-1 Recross the Paths
-1 Goblin Charbelcher
-2 Desperate Ritual
-2 Spikefield Hazard
-2 Blood Moon
-2 Chalice of the Void
-2 Bala Ged Recovery
-2 Irencrag Feat
-2 Tangled Florahedron
-2 Turntimber Symbiosis
-2 Manamorphose
-2 Valakut Awakening
-2 Recross the Paths
-2 Pyretic Ritual
-2 Shatterskull Smashing
-2 Goblin Charbelcher
-3 Spikefield Hazard
-3 Blood Moon
-3 Chalice of the Void
-3 Turntimber Symbiosis
-3 Valakut Awakening
-3 Desperate Ritual
-3 Manamorphose
-3 Bala Ged Recovery
-3 Irencrag Feat
-3 Recross the Paths
-3 Shatterskull Smashing
-3 Tangled Florahedron
-3 Pyretic Ritual
-3 Goblin Charbelcher
-4 Blood Moon
-4 Spikefield Hazard
-4 Chalice of the Void
-4 Bala Ged Recovery
-4 Shatterskull Smashing
-4 Goblin Charbelcher
-4 Turntimber Symbiosis
-4 Manamorphose
-4 Valakut Awakening
-4 Recross the Paths
-4 Desperate Ritual
-4 Pyretic Ritual
-4 Irencrag Feat

@@ -66,8 +66,8 @@
 1 Spikefield Hazard
 1 Cragcrown Pathway
 2 Riverglide Pathway
-2 Cragcrown Pathway
 2 Spikefield Hazard
+2 Cragcrown Pathway
 3 Riverglide Pathway
 5 Island
 1 Genesis Ultimatum
@@ -90,8 +90,8 @@
 2 Arboreal Grazer
 3 Field of the Dead
 3 Arboreal Grazer
-1 Cavalier of Thorns
 1 Scavenging Ooze
+1 Cavalier of Thorns
 1 End-Raze Forerunners
 1 Scorching Dragonfire
 1 Finale of Devastation
@@ -114,34 +114,34 @@
 2 Go for Blood
 2 Boon of the Wish-Giver
 2 Blitz of the Thunder-Raptor
-3 Boon of the Wish-Giver
 3 Blitz of the Thunder-Raptor
 3 Go for Blood
+3 Boon of the Wish-Giver
 4 Boon of the Wish-Giver
 4 Go for Blood
+4 Castle Vantress
 1 Thassa's Intervention
 1 Ashiok's Erasure
 1 Roil Eruption
 1 Jwari Disruption
-1 Turntimber Symbiosis
 1 Elder Gargaroth
 1 Questing Beast
 1 Klothys, God of Destiny
+1 Turntimber Symbiosis
 2 Ashiok's Erasure
 2 Roil Eruption
 2 Jwari Disruption
 2 Thassa's Intervention
 2 Questing Beast
 2 Elder Gargaroth
-3 Ashiok's Erasure
 3 Roil Eruption
 3 Thassa's Intervention
 3 Bonecrusher Giant
 3 Spikefield Hazard
 3 Elder Gargaroth
+3 Ashiok's Erasure
 4 Roil Eruption
 4 Bonecrusher Giant
-4 Castle Vantress
 1 Dovin's Veto
 2 Temple Garden
 2 Dovin's Veto
@@ -152,8 +152,8 @@
 4 Temple Garden
 4 Raugrin Triome
 1 Omnath, Locus of Creation
+1 Didn't Say Please
 1 Thornwood Falls
-1 Phylath, World Sculptor
 1 Rugged Highlands
 1 Llanowar Visionary
 1 Volcanic Geyser
@@ -161,15 +161,15 @@
 1 Reclaim the Wastes
 1 Swiftwater Cliffs
 1 Beanstalk Giant
-1 Didn't Say Please
 1 Vastwood Surge
+1 Phylath, World Sculptor
 1 Omen of the Sea
+2 Didn't Say Please
 2 Thornwood Falls
 2 Omen of the Sea
 2 Plains
 2 Rugged Highlands
 2 Llanowar Visionary
-2 Didn't Say Please
 2 Swiftwater Cliffs
 2 Vastwood Surge
 2 Volcanic Geyser
@@ -193,16 +193,16 @@
 1 Neutralize
 1 Improbable Alliance
 1 Irencrag Pyromancer
-2 Neutralize
 2 Irencrag Pyromancer
+2 Neutralize
 2 Improbable Alliance
 3 Neutralize
-3 Cragcrown Pathway
 3 Irencrag Pyromancer
+3 Cragcrown Pathway
 3 Improbable Alliance
 4 Neutralize
 4 Riverglide Pathway
-4 Cragcrown Pathway
 4 Irencrag Pyromancer
+4 Cragcrown Pathway
 4 Improbable Alliance
 4 Teferi, Master of Time

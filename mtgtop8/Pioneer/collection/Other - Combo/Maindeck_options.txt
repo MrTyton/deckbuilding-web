@@ -1,3 +1,25 @@
+1 Silundi Vision
+1 Shatterskull Smashing
+1 Jwari Disruption
+1 Beyeen Veil
+2 Shatterskull Smashing
+2 Silundi Vision
+2 Claim / Fame
+2 Jwari Disruption
+2 Beyeen Veil
+2 Thassa's Oracle
+3 Thassa's Oracle
+3 Silundi Vision
+3 Claim / Fame
+3 Jwari Disruption
+3 Silversmote Ghoul
+3 Beyeen Veil
+4 Thassa's Oracle
+4 Claim / Fame
+4 Jwari Disruption
+4 Sea Gate Restoration
+4 Beyeen Veil
+4 Silundi Vision
 1 Temple Garden
 1 Mana Confluence
 2 Mana Confluence
@@ -8,7 +30,6 @@
 2 Sacred Foundry
 3 Sacred Foundry
 1 Battlefield Forge
-1 Stomping Ground
 1 Rootbound Crag
 1 Eldritch Evolution
 1 Garruk's Harbinger
@@ -21,9 +42,9 @@
 1 Tithe Taker
 1 Llanowar Elves
 1 Forest
+1 Stomping Ground
 1 Elvish Mystic
 2 Battlefield Forge
-2 Stomping Ground
 2 Eldritch Evolution
 2 Garruk's Harbinger
 2 Voice of Resurgence
@@ -35,39 +56,40 @@
 2 Elvish Mystic
 2 Angrath's Marauders
 2 Tithe Taker
+2 Stomping Ground
 2 Llanowar Elves
-3 Elvish Mystic
-3 Llanowar Elves
-3 Stomping Ground
 3 Garruk's Harbinger
 3 Voice of Resurgence
 3 Tithe Taker
+3 Llanowar Elves
+3 Stomping Ground
+3 Elvish Mystic
 3 Eldritch Evolution
 3 Angrath's Marauders
 3 Winota, Joiner of Forces
 3 Temple Garden
 3 Legion Warboss
-4 Stomping Ground
 4 Llanowar Elves
 4 Elvish Mystic
 4 Garruk's Harbinger
 4 Voice of Resurgence
 4 Tithe Taker
 4 Temple Garden
+4 Stomping Ground
 4 Winota, Joiner of Forces
 4 Eldritch Evolution
 4 Legion Warboss
 4 Angrath's Marauders
 1 Emry, Lurker of the Loch
-1 Gilded Goose
-1 Urborg, Tomb of Yawgmoth
+1 Lazav, the Multifarious
 1 Godless Shrine
 1 Kethis, the Hidden Hand
-1 Botanical Sanctum
 1 Oath of Nissa
+1 Botanical Sanctum
 1 Watery Grave
 1 Teferi, Time Raveler
 1 Mox Amber
+1 Urborg, Tomb of Yawgmoth
 1 Jace, Wielder of Mysteries
 1 Lurrus of the Dream-Den
 1 Hallowed Fountain
@@ -76,66 +98,62 @@
 1 Tamiyo, Collector of Tales
 1 Terrarion
 1 Hope of Ghirapur
-1 Lazav, the Multifarious
 2 Emry, Lurker of the Loch
-2 Gilded Goose
+2 Lazav, the Multifarious
 2 Kethis, the Hidden Hand
-2 Oath of Nissa
 2 Botanical Sanctum
+2 Oath of Nissa
 2 Lurrus of the Dream-Den
 2 Teferi, Time Raveler
-2 Lazav, the Multifarious
 2 Diligent Excavator
 2 Hallowed Fountain
 2 Mox Amber
 2 Hope of Ghirapur
 2 Blooming Marsh
-3 Gilded Goose
-3 Botanical Sanctum
 3 Teferi, Time Raveler
+3 Lazav, the Multifarious
 3 Kethis, the Hidden Hand
+3 Botanical Sanctum
 3 Oath of Nissa
 3 Hope of Ghirapur
 3 Mox Amber
 3 Blooming Marsh
-3 Lazav, the Multifarious
 3 Emry, Lurker of the Loch
 3 Diligent Excavator
 3 Hallowed Fountain
 4 Oath of Nissa
-4 Botanical Sanctum
-4 Emry, Lurker of the Loch
 4 Teferi, Time Raveler
+4 Botanical Sanctum
 4 Kethis, the Hidden Hand
 4 Hallowed Fountain
 4 Diligent Excavator
 4 Hope of Ghirapur
+4 Emry, Lurker of the Loch
 4 Mox Amber
 4 Blooming Marsh
 1 Sweltering Suns
-1 Chandra, Torch of Defiance
 1 Chained to the Rocks
 1 Mountain
 1 Castle Ardenvale
-1 Westvale Abbey
 1 Nahiri, the Harbinger
+1 Westvale Abbey
 1 Raise the Alarm
-1 Elspeth, Sun's Nemesis
 1 Clifftop Retreat
-1 Gideon, Ally of Zendikar
+1 Elspeth, Sun's Nemesis
 1 The Birth of Meletis
+1 Gideon, Ally of Zendikar
 1 Temple of Triumph
 1 Emrakul, the Promised End
 1 Ashen Rider
 1 Anger of the Gods
 1 Elspeth, Sun's Champion
-1 Void Winnower
+1 Chandra, Torch of Defiance
 1 Elspeth Conquers Death
 1 Indomitable Creativity
 1 Dragonlord Kolaghan
+1 Void Winnower
 1 Plains
 1 Pirate's Pillage
-2 Chandra, Torch of Defiance
 2 Sweltering Suns
 2 Temple of Triumph
 2 The Birth of Meletis
@@ -145,9 +163,10 @@
 2 Gideon, Ally of Zendikar
 2 Clifftop Retreat
 2 Anger of the Gods
+2 Plains
+2 Chandra, Torch of Defiance
 2 Elspeth Conquers Death
 2 Pirate's Pillage
-2 Plains
 2 Indomitable Creativity
 3 Temple of Triumph
 3 The Birth of Meletis

@@ -1,13 +1,20 @@
-4 Merfolk Windrobber
+2 Fabled Passage
+3 Blackbloom Rogue
+3 Rankle, Master of Pranks
+3 Agadeem's Awakening
 1 Eliminate
 2 Eliminate
 3 Eliminate
 1 Hagra Mauling
+1 Bloodchief's Thirst
+2 Bloodchief's Thirst
 6 Swamp
-1 Fabled Passage
-2 Fabled Passage
+1 Cling to Dust
 1 Murderous Rider
 2 Murderous Rider
+1 Heartless Act
+2 Heartless Act
+4 Nighthawk Scavenger
 7 Island
 1 Castle Vantress
 1 Watery Grave
@@ -17,37 +24,36 @@
 2 Watery Grave
 3 Watery Grave
 4 Watery Grave
-3 Agadeem's Awakening
+1 Glasspool Mimic
+2 Glasspool Mimic
 4 Eliminate
 8 Island
 1 Slitherwisp
 2 Slitherwisp
+1 Spectral Sailor
+1 Ashiok's Erasure
+1 Cunning Nightbonder
+1 Sublime Epiphany
+1 Shark Typhoon
+2 Ashiok's Erasure
+2 Cunning Nightbonder
+2 Lochmere Serpent
+2 Shark Typhoon
+3 Cunning Nightbonder
+4 Cunning Nightbonder
 1 Rewind
 1 Blacklance Paragon
 2 Rewind
 2 Blacklance Paragon
-1 Ashiok's Erasure
-1 Spectral Sailor
-1 Cunning Nightbonder
-1 Sublime Epiphany
-1 Shark Typhoon
-2 Lochmere Serpent
-2 Ashiok's Erasure
-2 Cunning Nightbonder
-2 Shark Typhoon
-3 Cunning Nightbonder
-4 Cunning Nightbonder
-1 Bloodchief's Thirst
-2 Bloodchief's Thirst
 2 Hagra Mauling
-1 Heartless Act
 1 Negate
 2 Negate
-2 Heartless Act
 1 Mystical Dispute
 2 Mystical Dispute
 3 Mystical Dispute
-1 Cling to Dust
+1 Concerted Defense
+1 Miscast
+2 Concerted Defense
 1 Jwari Disruption
 2 Jwari Disruption
 3 Slitherwisp
@@ -56,16 +62,6 @@
 1 Zagoth Triome
 2 Zagoth Triome
 4 Zareth San, the Trickster
-4 Nighthawk Scavenger
-1 Shadowspear
-1 Voracious Greatshark
-1 Extinction Event
-2 Castle Locthwain
-2 Extinction Event
-2 Voracious Greatshark
-3 Brineborn Cutthroat
-3 Fabled Passage
-4 Brineborn Cutthroat
 1 Gadwick, the Wizened
 1 Whirlwind Denial
 1 Tyrant's Scorn
@@ -77,62 +73,69 @@
 3 Spectral Sailor
 3 Shark Typhoon
 4 Spectral Sailor
-1 Kazuul's Fury
-1 Shatterskull Smashing
-1 Riverglide Pathway
-1 Robber of the Rich
-1 Glasspool Mimic
-1 Mountain
-2 Kazuul's Fury
-2 Cling to Dust
-2 Robber of the Rich
-2 Glasspool Mimic
-2 Riverglide Pathway
-2 Shatterskull Smashing
-3 Cling to Dust
-3 Robber of the Rich
-3 Glasspool Mimic
-3 Riverglide Pathway
-4 Zulaport Duelist
-4 Glasspool Mimic
-4 Robber of the Rich
-4 Riverglide Pathway
-4 Agadeem's Awakening
+1 Shadowspear
+1 Extinction Event
+1 Voracious Greatshark
+2 Castle Locthwain
+2 Extinction Event
+2 Voracious Greatshark
+3 Brineborn Cutthroat
+3 Fabled Passage
+4 Brineborn Cutthroat
+1 Malakir Rebirth
+1 Crawling Barrens
+1 Agonizing Remorse
+1 Sea Gate Restoration
+1 Skyclave Shade
+1 Stonecoil Serpent
+1 Opt
+1 Nadir Kraken
+2 Agonizing Remorse
+2 Nadir Kraken
+2 Skyclave Shade
+2 Stonecoil Serpent
+2 Opt
+3 Hagra Mauling
+3 Bloodchief's Thirst
+3 Agonizing Remorse
+3 Nadir Kraken
+3 Skyclave Shade
+3 Heartless Act
+3 Stonecoil Serpent
+4 Agonizing Remorse
+4 Nadir Kraken
+4 Skyclave Shade
+4 Stonecoil Serpent
 1 Vantress Gargoyle
-1 Thought Erasure
 1 Into the Story
 1 Didn't Say Please
 1 Grafdigger's Cage
+1 Thought Erasure
 2 Vantress Gargoyle
 2 Into the Story
 2 Didn't Say Please
 3 Vantress Gargoyle
 3 Didn't Say Please
-4 Didn't Say Please
 4 Vantress Gargoyle
+4 Didn't Say Please
 7 Swamp
 8 Swamp
-1 Skyclave Shade
-1 Agonizing Remorse
-1 Malakir Rebirth
-1 Sea Gate Restoration
-1 Crawling Barrens
-1 Stonecoil Serpent
-1 Opt
-1 Nadir Kraken
-2 Skyclave Shade
-2 Agonizing Remorse
-2 Stonecoil Serpent
-2 Opt
-2 Nadir Kraken
-3 Hagra Mauling
-3 Skyclave Shade
-3 Bloodchief's Thirst
-3 Agonizing Remorse
-3 Heartless Act
-3 Nadir Kraken
-3 Stonecoil Serpent
-4 Skyclave Shade
-4 Agonizing Remorse
-4 Nadir Kraken
-4 Stonecoil Serpent
+1 Kazuul's Fury
+1 Riverglide Pathway
+1 Shatterskull Smashing
+1 Robber of the Rich
+1 Mountain
+2 Kazuul's Fury
+2 Cling to Dust
+2 Shatterskull Smashing
+2 Robber of the Rich
+2 Riverglide Pathway
+3 Cling to Dust
+3 Robber of the Rich
+3 Glasspool Mimic
+3 Riverglide Pathway
+4 Agadeem's Awakening
+4 Glasspool Mimic
+4 Robber of the Rich
+4 Riverglide Pathway
+4 Zulaport Duelist

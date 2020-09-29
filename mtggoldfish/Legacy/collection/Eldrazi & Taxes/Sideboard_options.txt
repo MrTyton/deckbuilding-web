@@ -14,7 +14,6 @@
 2 Path to Exile
 1 Chrome Mox
 2 Plague Engineer
-4 Containment Priest
 1 Phyrexian Revoker
 1 Fiery Confluence
 1 Magus of the Moon
@@ -30,6 +29,7 @@
 2 Scab-Clan Berserker
 3 Faerie Macabre
 4 Faerie Macabre
+4 Containment Priest
 1 Eliminate
 2 Eliminate
 1 Tomik, Distinguished Advokist
@@ -54,12 +54,17 @@
 2 Grafdigger's Cage
 1 Seal of Cleansing
 2 Seal of Cleansing
-1 Liliana's Triumph
 1 Kaya, Orzhov Usurper
 1 Chains of Mephistopheles
+1 Liliana's Triumph
 1 Absolute Law
 2 Liliana's Triumph
 2 Chains of Mephistopheles
+1 Ulamog, the Ceaseless Hunger
+1 Baneslayer Angel
+1 Umezawa's Jitte
+2 Reclamation Sage
+2 Baneslayer Angel
 2 Karn, Scion of Urza
 1 Null Rod
 1 Palace Jailer
@@ -72,11 +77,6 @@
 1 Mother of Runes
 2 Sanctum Prelate
 2 Mother of Runes
-1 Ulamog, the Ceaseless Hunger
-1 Baneslayer Angel
-1 Umezawa's Jitte
-2 Reclamation Sage
-2 Baneslayer Angel
 1 Remorseful Cleric
 2 Remorseful Cleric
 3 Remorseful Cleric

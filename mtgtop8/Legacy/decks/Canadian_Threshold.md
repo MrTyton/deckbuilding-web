@@ -59,7 +59,7 @@
 |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)           |                    1|[Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)   |
 |                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)          |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)      |
 |                    2|[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382377)                 |                    1|[Vapor Snag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249373)          |
-|                    3|[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382377)                 |                    1|[Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)            |
-|                    4|[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382377)                 |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)     |
+|                    3|[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382377)                 |                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)     |
+|                    4|[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382377)                 |                    1|[Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)            |
 |                    4|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)              |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |
 
