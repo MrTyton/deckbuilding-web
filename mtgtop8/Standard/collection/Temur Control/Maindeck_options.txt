@@ -1,26 +1,26 @@
+3 Teferi, Master of Time
 1 Negate
+2 Negate
+2 Mystical Dispute
 1 Castle Vantress
 1 Expansion / Explosion
 2 Expansion / Explosion
 3 Expansion / Explosion
 4 Expansion / Explosion
-2 Mystical Dispute
-2 Negate
+1 Temple of Mystery
 3 Mystical Dispute
 2 Castle Vantress
 1 Wilderness Reclamation
 1 Growth Spiral
+1 Blast Zone
 2 Wilderness Reclamation
 2 Growth Spiral
-3 Growth Spiral
 3 Wilderness Reclamation
+3 Growth Spiral
 4 Growth Spiral
 4 Wilderness Reclamation
-4 Shark Typhoon
-1 Temple of Mystery
-3 Teferi, Master of Time
-1 Blast Zone
 3 Negate
+4 Shark Typhoon
 3 Jolrael, Mwonvuli Recluse
 3 Aether Gust
 1 Ionize
@@ -33,47 +33,55 @@
 4 Mystical Dispute
 1 Nightpack Ambusher
 3 Castle Vantress
-1 Plains
-1 Raugrin Triome
-1 Temple Garden
-1 Teferi, Time Raveler
-1 Hallowed Fountain
-2 Raugrin Triome
-2 Teferi, Time Raveler
-2 Hallowed Fountain
-3 Teferi, Time Raveler
 1 Temple of Abandon
 4 Nissa, Who Shakes the World
 4 Island
+3 Brazen Borrower
 1 Commence the Endgame
 2 Nightpack Ambusher
-1 Dovin's Veto
-2 Temple Garden
-2 Dovin's Veto
-3 Raugrin Triome
-3 Temple Garden
-4 Teferi, Time Raveler
-4 Temple Garden
-4 Raugrin Triome
 1 Soul Sear
 2 Soul Sear
-1 Field of the Dead
-1 Field of Ruin
-2 Field of the Dead
 1 Cultivate
 1 Zagoth Triome
 2 Zagoth Triome
-3 Brazen Borrower
-4 Negate
+1 Field of the Dead
+1 Field of Ruin
+2 Field of the Dead
+1 Plains
+1 Teferi, Time Raveler
+1 Raugrin Triome
+1 Temple Garden
+1 Hallowed Fountain
+2 Teferi, Time Raveler
+2 Raugrin Triome
+2 Hallowed Fountain
+3 Teferi, Time Raveler
 4 Aether Gust
+4 Negate
+3 Forest
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+4 Brazen Borrower
+1 Riverglide Pathway
+1 Spikefield Hazard
+1 Cragcrown Pathway
+2 Riverglide Pathway
+2 Cragcrown Pathway
+2 Spikefield Hazard
+3 Riverglide Pathway
 5 Island
 1 Genesis Ultimatum
 1 Ugin, the Spirit Dragon
 2 Cultivate
-3 Forest
+1 Bala Ged Recovery
+2 Bala Ged Recovery
+3 Fire Prophecy
+4 Fire Prophecy
 1 Oko, Thief of Crowns
 1 Spectral Sailor
 1 Chemister's Insight
+1 Quench
+2 Quench
 1 Hydroid Krasis
 2 Hydroid Krasis
 3 Hydroid Krasis
@@ -85,8 +93,8 @@
 1 Cavalier of Thorns
 1 Scavenging Ooze
 1 End-Raze Forerunners
-1 Finale of Devastation
 1 Scorching Dragonfire
+1 Finale of Devastation
 2 Genesis Ultimatum
 2 Cavalier of Thorns
 2 Scavenging Ooze
@@ -99,7 +107,6 @@
 2 Tale's End
 3 Tale's End
 3 Niv-Mizzet, Parun
-3 Hallowed Fountain
 1 Go for Blood
 1 Startling Development
 1 Boon of the Wish-Giver
@@ -112,16 +119,38 @@
 3 Go for Blood
 4 Boon of the Wish-Giver
 4 Go for Blood
+1 Thassa's Intervention
+1 Ashiok's Erasure
+1 Roil Eruption
+1 Jwari Disruption
+1 Turntimber Symbiosis
+1 Elder Gargaroth
+1 Questing Beast
+1 Klothys, God of Destiny
+2 Ashiok's Erasure
+2 Roil Eruption
+2 Jwari Disruption
+2 Thassa's Intervention
+2 Questing Beast
+2 Elder Gargaroth
+3 Ashiok's Erasure
+3 Roil Eruption
+3 Thassa's Intervention
+3 Bonecrusher Giant
+3 Spikefield Hazard
+3 Elder Gargaroth
+4 Roil Eruption
+4 Bonecrusher Giant
 4 Castle Vantress
-1 Bonecrusher Giant
-1 Quench
-2 Bonecrusher Giant
-2 Quench
-4 Brazen Borrower
-1 Bala Ged Recovery
-2 Bala Ged Recovery
-3 Fire Prophecy
-4 Fire Prophecy
+1 Dovin's Veto
+2 Temple Garden
+2 Dovin's Veto
+3 Raugrin Triome
+3 Temple Garden
+3 Hallowed Fountain
+4 Teferi, Time Raveler
+4 Temple Garden
+4 Raugrin Triome
 1 Omnath, Locus of Creation
 1 Thornwood Falls
 1 Phylath, World Sculptor
@@ -137,8 +166,8 @@
 1 Omen of the Sea
 2 Thornwood Falls
 2 Omen of the Sea
-2 Rugged Highlands
 2 Plains
+2 Rugged Highlands
 2 Llanowar Visionary
 2 Didn't Say Please
 2 Swiftwater Cliffs
@@ -147,12 +176,12 @@
 2 Reclaim the Wastes
 2 Beanstalk Giant
 2 Cinderclasm
+3 Didn't Say Please
 3 Omen of the Sea
 3 Cultivate
 3 Llanowar Visionary
 3 Vastwood Surge
 3 Volcanic Geyser
-3 Didn't Say Please
 4 Omen of the Sea
 4 Llanowar Visionary
 4 Forest
@@ -161,26 +190,19 @@
 6 Forest
 7 Forest
 1 Sea Gate Restoration
-1 Cragcrown Pathway
-1 Spikefield Hazard
-1 Riverglide Pathway
-1 Improbable Alliance
 1 Neutralize
+1 Improbable Alliance
 1 Irencrag Pyromancer
 2 Neutralize
-2 Spikefield Hazard
-2 Cragcrown Pathway
-2 Riverglide Pathway
 2 Irencrag Pyromancer
 2 Improbable Alliance
 3 Neutralize
 3 Cragcrown Pathway
 3 Irencrag Pyromancer
-3 Riverglide Pathway
 3 Improbable Alliance
 4 Neutralize
-4 Cragcrown Pathway
 4 Riverglide Pathway
+4 Cragcrown Pathway
 4 Irencrag Pyromancer
 4 Improbable Alliance
 4 Teferi, Master of Time

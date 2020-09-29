@@ -1,5 +1,5 @@
-3 Bloodstained Mire
-4 Mountain
+3 Arid Mesa
+4 Arid Mesa
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Soul-Scar Mage
@@ -8,6 +8,7 @@
 2 Lava Dart
 3 Lava Dart
 4 Lava Dart
+4 Mountain
 5 Mountain
 6 Mountain
 7 Mountain
@@ -19,9 +20,7 @@
 1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
-4 Bloodstained Mire
-3 Arid Mesa
-4 Arid Mesa
+3 Bloodstained Mire
 4 Light Up the Stage
 13 Mountain
 14 Mountain
@@ -51,6 +50,7 @@
 2 Manamorphose
 3 Manamorphose
 4 Manamorphose
+4 Bloodstained Mire
 1 Burst Lightning
 2 Burst Lightning
 1 Flame Slash
@@ -72,7 +72,6 @@
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
-4 Skullcrack
 1 Wild Slash
 2 Wild Slash
 4 Bedlam Reveler
@@ -125,6 +124,7 @@
 2 Chandra's Incinerator
 3 Chandra's Incinerator
 4 Chandra's Incinerator
+4 Skullcrack
 1 Atarka's Command
 1 Wild Nacatl
 1 Stomping Ground

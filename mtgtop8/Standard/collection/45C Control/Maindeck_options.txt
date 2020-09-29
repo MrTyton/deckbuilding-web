@@ -1,5 +1,4 @@
-2 Neutralize
-3 Clearwater Pathway
+2 Clearwater Pathway
 3 Branchloft Pathway
 3 Mythos of Nethroi
 3 Waker of Waves
@@ -7,104 +6,84 @@
 3 Confounding Conundrum
 3 Bloodchief's Thirst
 3 Neutralize
+3 Clearwater Pathway
 3 Island
 3 Extinction Event
-4 Clearwater Pathway
-4 Neutralize
 4 Branchloft Pathway
 4 Waker of Waves
 4 Mythos of Nethroi
-4 Confounding Conundrum
 4 Brightclimb Pathway
 4 Bloodchief's Thirst
+4 Confounding Conundrum
+4 Clearwater Pathway
 4 Island
-1 Breeding Pool
-2 Breeding Pool
-3 Breeding Pool
-4 Breeding Pool
-1 Oath of Kaya
+4 Neutralize
 1 Hallowed Fountain
 1 Temple Garden
-1 Eliminate
-1 Castle Locthwain
-2 Eliminate
-2 Oath of Kaya
-3 Eliminate
+1 Breeding Pool
 1 Omen of the Sea
 2 Omen of the Sea
 2 Plains
+2 Breeding Pool
 2 Temple Garden
 2 Hallowed Fountain
 3 Omen of the Sea
+3 Breeding Pool
 3 Temple Garden
 3 Hallowed Fountain
 4 Omen of the Sea
 4 Temple Garden
+4 Breeding Pool
 1 Overgrown Tomb
 1 Godless Shrine
+1 Oath of Kaya
 1 Yorion, Sky Nomad
 1 Solemn Simulacrum
-1 Doom Foretold
 1 Mazemind Tome
+1 Doom Foretold
+1 Eliminate
 1 Castle Ardenvale
 1 Cavalier of Dawn
-2 Doom Foretold
+1 Castle Locthwain
 2 Mazemind Tome
+2 Doom Foretold
+2 Eliminate
 2 Overgrown Tomb
+2 Oath of Kaya
 2 Yorion, Sky Nomad
 2 Godless Shrine
 2 Cavalier of Dawn
 3 Yorion, Sky Nomad
-3 Doom Foretold
 3 Mazemind Tome
+3 Doom Foretold
 3 Overgrown Tomb
 3 Cavalier of Dawn
 3 Godless Shrine
 3 Oath of Kaya
-4 Doom Foretold
+3 Eliminate
 4 Mazemind Tome
+4 Doom Foretold
 4 Hallowed Fountain
 4 Oath of Kaya
-1 Jolrael, Mwonvuli Recluse
-2 Jolrael, Mwonvuli Recluse
-2 Forest
-1 Vraska, Golgari Queen
-1 Watery Grave
 1 Hydroid Krasis
 1 Mountain
 1 Ketria Triome
 2 Ketria Triome
-1 Teferi, Time Raveler
-1 Opt
-1 Drown in the Loch
-1 Growth Spiral
-1 Dovin's Veto
-2 Teferi, Time Raveler
-2 Opt
-2 Watery Grave
-2 Drown in the Loch
-2 Dovin's Veto
-2 Growth Spiral
-3 Teferi, Time Raveler
-3 Opt
-3 Watery Grave
-3 Drown in the Loch
-3 Dovin's Veto
-3 Growth Spiral
-4 Growth Spiral
-1 Radha, Heart of Keld
 1 Raugrin Triome
-1 Steam Vents
+1 Expansion / Explosion
+1 Vraska, Golgari Queen
 1 Kaya, Orzhov Usurper
 1 Angrath's Rampage
 1 Thought Erasure
 1 Tyrant's Scorn
-1 Expansion / Explosion
+1 Watery Grave
+1 Radha, Heart of Keld
 1 Arboreal Grazer
 1 Niv-Mizzet Reborn
 1 Casualties of War
 1 Knight of Autumn
 1 Blood Crypt
+1 Steam Vents
 1 Solar Blaze
 1 Savai Triome
 1 Deafening Clarion
@@ -124,6 +103,7 @@
 4 Niv-Mizzet Reborn
 4 Arboreal Grazer
 1 Temple of Plenty
+1 Jolrael, Mwonvuli Recluse
 1 Llanowar Visionary
 1 Glass Casket
 1 Nissa, Who Shakes the World
@@ -131,9 +111,11 @@
 1 Shatter the Sky
 1 Kenrith, the Returned King
 2 Llanowar Visionary
+2 Jolrael, Mwonvuli Recluse
 2 Hydroid Krasis
 2 Shatter the Sky
 2 Glass Casket
+2 Forest
 2 Temple of Plenty
 2 Brazen Borrower
 2 Nissa, Who Shakes the World

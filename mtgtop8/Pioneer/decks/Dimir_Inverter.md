@@ -24,11 +24,3 @@
 |                                                                                           |                                                                                          |1 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |                                                                                                    |1 [The Elderspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461016)      |
 |                                                                                           |                                                                                          |                                                                                             |                                                                                                    |1 [Thought Erasure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452956)     |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
-|--------------------:|------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Thought Erasure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452956)|                    1|[Jace, Vryn's Prodigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398434)|
-|                    1|[Cling to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476338)  |                    2|[Jace, Vryn's Prodigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398434)|
-

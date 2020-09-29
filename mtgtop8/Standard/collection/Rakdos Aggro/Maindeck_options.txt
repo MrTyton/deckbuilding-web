@@ -66,17 +66,17 @@
 7 Mountain
 3 Bastion of Remembrance
 1 Savai Triome
-1 Ox of Agonas
-1 Phoenix of Ash
 1 Spikefield Hazard
-1 Tymaret Calls the Dead
+1 Phoenix of Ash
+1 Ox of Agonas
 1 Agadeem's Awakening
+1 Tymaret Calls the Dead
 1 Hagra Mauling
-2 Hagra Mauling
-2 Savai Triome
-2 Ox of Agonas
-2 Spikefield Hazard
 2 Phoenix of Ash
+2 Savai Triome
+2 Spikefield Hazard
+2 Ox of Agonas
+2 Hagra Mauling
 2 Tymaret Calls the Dead
 3 Spikefield Hazard
 3 Phoenix of Ash
@@ -91,10 +91,6 @@
 1 Eliminate
 2 Eliminate
 3 Eliminate
-1 Skyclave Shade
-2 Skyclave Shade
-3 Skyclave Shade
-4 Skyclave Shade
 1 Dreadhorde Arcanist
 2 Bolas's Citadel
 2 Dreadhorde Arcanist
@@ -102,6 +98,10 @@
 3 Dreadhorde Arcanist
 4 Serrated Scorpion
 4 Dreadhorde Arcanist
+1 Skyclave Shade
+2 Skyclave Shade
+3 Skyclave Shade
+4 Skyclave Shade
 3 Robber of the Rich
 4 Call of the Death-Dweller
 4 Robber of the Rich
@@ -120,12 +120,12 @@
 4 Drill Bit
 4 Spawn of Mayhem
 1 Zagoth Triome
-1 Watery Grave
 1 Everquill Phoenix
-1 Sea-Dasher Octopus
+1 Watery Grave
 1 Pollywog Symbiote
 1 Stonecoil Serpent
 1 Island
+1 Sea-Dasher Octopus
 1 Porcuparrot
 1 Dirge Bat
 1 Marauding Raptor
@@ -133,8 +133,8 @@
 1 Insatiable Hemophage
 1 Pouncing Shoreshark
 2 Everquill Phoenix
-2 Sea-Dasher Octopus
 2 Watery Grave
+2 Sea-Dasher Octopus
 2 Stonecoil Serpent
 2 Porcuparrot
 2 Pollywog Symbiote
@@ -145,8 +145,8 @@
 2 Insatiable Hemophage
 3 Island
 3 Everquill Phoenix
-3 Sea-Dasher Octopus
 3 Watery Grave
+3 Sea-Dasher Octopus
 3 Steam Vents
 3 Pouncing Shoreshark
 3 Insatiable Hemophage

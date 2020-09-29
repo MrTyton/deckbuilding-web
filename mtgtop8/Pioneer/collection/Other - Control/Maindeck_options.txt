@@ -16,8 +16,8 @@
 1 Uro, Titan of Nature's Wrath
 2 Forest
 2 Uro, Titan of Nature's Wrath
-1 Neutralize
 1 Sublime Epiphany
+1 Neutralize
 1 Breeding Pool
 1 Wilderness Reclamation
 1 Temple of Mystery
@@ -25,10 +25,10 @@
 1 Hinterland Harbor
 2 Castle Vantress
 2 Neutralize
-2 Sublime Epiphany
 2 Blast Zone
 2 Breeding Pool
 2 Hinterland Harbor
+2 Sublime Epiphany
 2 Temple of Mystery
 2 Wilderness Reclamation
 3 Castle Vantress
@@ -136,11 +136,11 @@
 2 Basilica Bell-Haunt
 2 Flicker of Fate
 2 Temple of Silence
-2 Mazemind Tome
 2 Savai Triome
 2 Treacherous Blessing
 2 Shambling Vent
 2 Elspeth Conquers Death
+2 Mazemind Tome
 2 Plains
 2 Concealed Courtyard
 2 Doom Foretold
@@ -169,12 +169,12 @@
 4 Trial of Ambition
 4 Isolated Chapel
 4 Shambling Vent
+4 Mazemind Tome
 4 Plains
 4 Godless Shrine
 4 Concealed Courtyard
 4 Doom Foretold
 4 Kaya's Wrath
-4 Mazemind Tome
 5 Plains
 6 Plains
 1 Blood Crypt
@@ -249,12 +249,12 @@
 4 Castle Locthwain
 1 Mythos of Nethroi
 1 Orzhov Guildgate
-1 Gruul Guildgate
 1 Golgari Guildgate
 1 Gateway Plaza
 1 Gatecreeper Vine
 1 Plaza of Harmony
 1 Azorius Guildgate
+1 Gruul Guildgate
 1 Selesnya Guildgate
 1 Gate Colossus
 1 Izzet Guildgate
