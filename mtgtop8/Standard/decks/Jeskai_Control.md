@@ -56,8 +56,8 @@
 |                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                   |                     |                                                                                            |
 |                    3|[Narset of the Ancient Way](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479715)|                     |                                                                                            |
 |                    4|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)              |                     |                                                                                            |
+|                    4|[Temple of Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442808)       |                     |                                                                                            |
 |                    4|[Shark Typhoon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479587)            |                     |                                                                                            |
 |                    4|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)  |                     |                                                                                            |
-|                    4|[Temple of Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442808)       |                     |                                                                                            |
 |                    4|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)        |                     |                                                                                            |
 

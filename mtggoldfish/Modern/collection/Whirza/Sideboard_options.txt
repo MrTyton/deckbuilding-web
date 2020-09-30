@@ -37,9 +37,9 @@
 1 Nihil Spellbomb
 2 Collective Brutality
 1 Deprive
-1 Spell Pierce
 1 Monastery Mentor
 1 Celestial Purge
+1 Spell Pierce
 2 Spell Pierce
 2 Deprive
 3 Fatal Push
@@ -57,6 +57,9 @@
 1 Cryptic Command
 2 Thoughtseize
 2 Anger of the Gods
+1 Jace, the Mind Sculptor
+1 Leyline of Sanctity
+2 Leyline of Sanctity
 1 Spellskite
 1 Welding Jar
 1 Eliminate
@@ -64,17 +67,14 @@
 2 Eliminate
 2 Unmoored Ego
 2 Welding Jar
-1 Jace, the Mind Sculptor
-1 Leyline of Sanctity
-2 Leyline of Sanctity
 1 Spreading Seas
 2 Spreading Seas
 3 Spreading Seas
 1 Kor Firewalker
 2 Kor Firewalker
 3 Kor Firewalker
-1 Isolate
 1 Soul-Guide Lantern
+1 Isolate
 2 Soul-Guide Lantern
 2 Isolate
 3 Aether Gust

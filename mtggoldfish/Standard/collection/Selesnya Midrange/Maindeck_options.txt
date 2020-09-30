@@ -1,12 +1,11 @@
-4 Branchloft Pathway
-1 Swarm Shambler
 1 Conclave Mentor
 1 Basri's Lieutenant
+1 Swarm Shambler
 1 Scavenging Ooze
 1 Forest
-2 Swarm Shambler
 2 Conclave Mentor
 2 Forest
+2 Swarm Shambler
 2 Scavenging Ooze
 2 Basri's Lieutenant
 3 Conclave Mentor
@@ -34,22 +33,23 @@
 4 Swarm Shambler
 1 Temple of Plenty
 1 Emeria's Call
+3 Boon of the Wish-Giver
 1 Fabled Passage
 2 Fabled Passage
-2 Needleverge Pathway
-3 Needleverge Pathway
-4 Needleverge Pathway
-4 Boon of the Wish-Giver
 1 Inscription of Abundance
 1 Khalni Ambush
 1 Primal Might
 2 Khalni Ambush
 2 Primal Might
+4 Basri's Lieutenant
 1 Raugrin Triome
 2 Raugrin Triome
-4 Basri's Lieutenant
 2 Temple of Plenty
 1 The Great Henge
+2 Needleverge Pathway
+3 Needleverge Pathway
+4 Needleverge Pathway
+4 Boon of the Wish-Giver
 2 Inscription of Abundance
 1 Skyclave Apparition
 1 Kabira Takedown
@@ -70,13 +70,13 @@
 2 Emeria's Call
 1 Maul of the Skyclaves
 2 Maul of the Skyclaves
+3 Wildwood Scourge
+1 Spikefield Hazard
+1 Shatterskull Smashing
 1 Riverglide Pathway
 2 Riverglide Pathway
 3 Riverglide Pathway
 4 Riverglide Pathway
-3 Wildwood Scourge
-1 Spikefield Hazard
-1 Shatterskull Smashing
 10 Plains
 1 Giant Killer
 2 Giant Killer
@@ -87,7 +87,6 @@
 1 Invigorating Surge
 1 Gnarlid Colony
 1 Basri Ket
-1 Blitz of the Thunder-Raptor
 1 The Ozolith
 2 The Ozolith
 8 Forest
@@ -98,16 +97,17 @@
 1 Shadowspear
 1 Castle Embereth
 2 Shadowspear
+1 Blitz of the Thunder-Raptor
 2 Spikefield Hazard
+1 Felidar Retreat
+2 Sejiri Shelter
+3 The Great Henge
 1 Lavabrink Venturer
 1 Elder Gargaroth
 1 The First Iroan Games
 2 Lavabrink Venturer
 2 The First Iroan Games
 3 Lavabrink Venturer
-1 Felidar Retreat
-2 Sejiri Shelter
-3 The Great Henge
 2 Turntimber Symbiosis
 3 Scavenging Ooze
 3 Inscription of Abundance
@@ -156,34 +156,10 @@
 3 Swamp
 4 Swamp
 4 Polukranos, Unchained
-1 Teferi, Master of Time
-1 Neutralize
-1 Essence Scatter
-1 The Royal Scions
-1 Cinderclasm
-1 Island
-1 Teferi's Ageless Insight
-1 Shredded Sails
-1 Irencrag Pyromancer
-1 Rielle, the Everwise
-2 Neutralize
-2 Cinderclasm
-2 Essence Scatter
-2 Irencrag Pyromancer
-2 Blitz of the Thunder-Raptor
-2 Island
-2 Rielle, the Everwise
-3 Neutralize
-3 Irencrag Pyromancer
-3 Island
-4 Neutralize
-4 Island
-5 Island
-6 Island
 7 Mountain
 8 Mountain
-1 Gingerbrute
 1 Gilded Goose
+1 Gingerbrute
 1 Gemrazer
 1 Banishing Light
 2 Gilded Goose

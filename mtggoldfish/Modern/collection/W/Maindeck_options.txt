@@ -3,7 +3,6 @@
 4 Aether Vial
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
-3 Thalia, Guardian of Thraben
 1 Restoration Angel
 1 Ghost Quarter
 1 Leonin Arbiter
@@ -13,6 +12,7 @@
 2 Flickerwisp
 2 Ghost Quarter
 3 Restoration Angel
+3 Thalia, Guardian of Thraben
 3 Ghost Quarter
 3 Leonin Arbiter
 3 Flickerwisp
@@ -21,18 +21,18 @@
 4 Leonin Arbiter
 4 Flickerwisp
 4 Ghost Quarter
-4 Thalia, Guardian of Thraben
 1 Charming Prince
 2 Charming Prince
 1 Horizon Canopy
+4 Thalia, Guardian of Thraben
 1 Eiganjo Castle
 1 Blade Splicer
 1 Tectonic Edge
 1 Sunbaked Canyon
 2 Blade Splicer
 2 Tectonic Edge
-3 Tectonic Edge
 3 Blade Splicer
+3 Tectonic Edge
 4 Tectonic Edge
 4 Blade Splicer
 4 Gingerbrute
@@ -54,6 +54,31 @@
 8 Snow-Covered Plains
 9 Snow-Covered Plains
 10 Snow-Covered Plains
+1 Field of Ruin
+1 Renegade Rallier
+1 Windswept Heath
+1 Noble Hierarch
+1 Forest
+1 Stirring Wildwood
+1 Temple Garden
+1 Qasali Pridemage
+1 Scavenging Ooze
+1 Razorverge Thicket
+2 Noble Hierarch
+2 Forest
+2 Scavenging Ooze
+2 Temple Garden
+2 Horizon Canopy
+2 Renegade Rallier
+2 Razorverge Thicket
+2 Qasali Pridemage
+3 Noble Hierarch
+3 Horizon Canopy
+3 Temple Garden
+3 Razorverge Thicket
+4 Noble Hierarch
+4 Razorverge Thicket
+4 Horizon Canopy
 1 Auriok Champion
 2 Auriok Champion
 1 Welding Jar
@@ -63,7 +88,19 @@
 3 Memnite
 4 Memnite
 1 Cavern of Souls
-1 Field of Ruin
+1 Skyclave Apparition
+2 Skyclave Apparition
+1 Thalia, Heretic Cathar
+1 Archon of Emeria
+2 Archon of Emeria
+1 Thassa's Oracle
+1 Puresight Merrow
+2 Puresight Merrow
+3 Paradise Mantle
+3 Puresight Merrow
+4 Paradise Mantle
+4 Puresight Merrow
+1 Kitchen Finks
 2 Ranger-Captain of Eos
 1 Giver of Runes
 2 Giver of Runes
@@ -76,61 +113,21 @@
 2 Walking Ballista
 3 Ranger-Captain of Eos
 3 Heliod, Sun-Crowned
+3 Auriok Champion
 3 Walking Ballista
 4 Heliod, Sun-Crowned
 4 Ranger-Captain of Eos
+4 Auriok Champion
+4 Walking Ballista
 11 Snow-Covered Plains
 12 Snow-Covered Plains
 13 Snow-Covered Plains
 14 Snow-Covered Plains
 15 Snow-Covered Plains
-1 Thalia, Heretic Cathar
-1 Thassa's Oracle
-1 Puresight Merrow
-2 Puresight Merrow
-3 Paradise Mantle
-3 Puresight Merrow
-4 Paradise Mantle
-4 Puresight Merrow
-1 Kitchen Finks
-1 Renegade Rallier
-1 Windswept Heath
-1 Noble Hierarch
-1 Forest
-1 Stirring Wildwood
-1 Temple Garden
-1 Scavenging Ooze
-1 Razorverge Thicket
-1 Qasali Pridemage
-2 Noble Hierarch
-2 Forest
-2 Scavenging Ooze
-2 Horizon Canopy
-2 Renegade Rallier
-2 Razorverge Thicket
-2 Qasali Pridemage
-2 Temple Garden
-3 Noble Hierarch
-3 Horizon Canopy
-3 Temple Garden
-3 Razorverge Thicket
-4 Noble Hierarch
-4 Razorverge Thicket
-4 Horizon Canopy
-1 Skyclave Apparition
-2 Skyclave Apparition
-3 Auriok Champion
-4 Auriok Champion
-4 Walking Ballista
-16 Snow-Covered Plains
-3 Field of Ruin
-4 Field of Ruin
 2 Sunbaked Canyon
 2 Kitchen Finks
 1 Voice of Resurgence
 2 Voice of Resurgence
-1 Archon of Emeria
-2 Archon of Emeria
 1 On Thin Ice
 1 Cranial Plating
 2 Welding Jar
@@ -148,12 +145,14 @@
 2 Cavern of Souls
 2 Luminarch Aspirant
 2 Ranger of Eos
-3 Luminarch Aspirant
 3 Cavern of Souls
 3 Skyclave Apparition
-4 Luminarch Aspirant
+3 Luminarch Aspirant
+3 Field of Ruin
+4 Field of Ruin
 4 Cavern of Souls
 4 Skyclave Apparition
+4 Luminarch Aspirant
 1 Anafenza, Kin-Tree Spirit
 1 Gemstone Caverns
 1 Lurrus of the Dream-Den
@@ -165,24 +164,4 @@
 3 Anafenza, Kin-Tree Spirit
 3 Teshar, Ancestor's Apostle
 4 Anafenza, Kin-Tree Spirit
-1 Speaker of the Heavens
-1 Soul Warden
-1 Serra Ascendant
-1 Soul's Attendant
-1 Martyr of Sands
-1 Squadron Hawk
-2 Castle Ardenvale
-2 Speaker of the Heavens
-2 Serra Ascendant
-2 Martyr of Sands
-2 Soul Warden
-2 Squadron Hawk
-3 Castle Ardenvale
-3 Speaker of the Heavens
-3 Squadron Hawk
-3 Martyr of Sands
-3 Serra Ascendant
-4 Speaker of the Heavens
-4 Squadron Hawk
-4 Martyr of Sands
-17 Snow-Covered Plains
+16 Snow-Covered Plains

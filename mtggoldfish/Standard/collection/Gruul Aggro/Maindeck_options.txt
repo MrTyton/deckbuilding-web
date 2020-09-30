@@ -8,25 +8,28 @@
 2 Migratory Greathorn
 3 Migratory Greathorn
 4 Migratory Greathorn
-4 Shatterskull Smashing
 1 Evolving Wilds
+4 Shatterskull Smashing
 1 Scavenging Ooze
 2 Scavenging Ooze
+2 Evolving Wilds
 1 Stonecoil Serpent
 2 Stonecoil Serpent
-2 Evolving Wilds
+7 Forest
 1 Klothys, God of Destiny
 1 Robber of the Rich
 2 Robber of the Rich
 3 Robber of the Rich
 4 Robber of the Rich
-7 Forest
 1 Castle Embereth
+1 Cleansing Wildfire
 3 Scavenging Ooze
 3 Stonecoil Serpent
 1 Gemrazer
 2 Gemrazer
-1 Cleansing Wildfire
+1 Roil Eruption
+2 Roil Eruption
+3 Roil Eruption
 1 Gallia of the Endless Dance
 1 Ashaya, Soul of the Wild
 2 Ashaya, Soul of the Wild
@@ -43,24 +46,31 @@
 2 Valakut Exploration
 2 Nahiri's Lithoforming
 3 Valakut Exploration
-1 Roil Eruption
-2 Roil Eruption
-3 Roil Eruption
 1 Auspicious Starrix
 2 Auspicious Starrix
 3 Gemrazer
 4 Gemrazer
+7 Mountain
+8 Forest
+8 Mountain
+1 Moraug, Fury of Akoum
+4 Roil Eruption
+1 Beanstalk Giant
+3 Evolving Wilds
+4 Evolving Wilds
 1 Valakut Awakening
 2 Castle Embereth
 1 Song-Mad Treachery
 1 Khalni Ambush
 2 Khalni Ambush
 2 Song-Mad Treachery
+1 Wildwood Tracker
+2 Wildwood Tracker
+3 Wildwood Tracker
 1 Everquill Phoenix
 2 Everquill Phoenix
 3 Everquill Phoenix
 1 Gilded Goose
-1 Moraug, Fury of Akoum
 2 Gilded Goose
 3 Gilded Goose
 4 Gilded Goose
@@ -85,28 +95,25 @@
 3 Primal Might
 3 Temple of Abandon
 4 Temple of Abandon
-1 Beanstalk Giant
 1 Inscription of Abundance
 1 Storm's Wrath
 1 Elder Gargaroth
 2 Elder Gargaroth
 2 Inscription of Abundance
 2 Storm's Wrath
-3 Evolving Wilds
+3 Inscription of Abundance
 3 Storm's Wrath
 3 Elder Gargaroth
-3 Inscription of Abundance
 4 Storm's Wrath
 4 Inscription of Abundance
-4 Evolving Wilds
 1 Needleverge Pathway
 1 Riverglide Pathway
 1 Fireblade Charger
 1 Omnath, Locus of Creation
-2 Needleverge Pathway
 2 Omnath, Locus of Creation
 2 Riverglide Pathway
 2 Fireblade Charger
+2 Needleverge Pathway
 3 Riverglide Pathway
 3 Needleverge Pathway
 3 Fireblade Charger
@@ -118,12 +125,6 @@
 3 Kazuul's Fury
 3 Nahiri's Lithoforming
 4 Nahiri's Lithoforming
-1 Wildwood Tracker
-2 Wildwood Tracker
-3 Wildwood Tracker
-7 Mountain
-8 Forest
-8 Mountain
 1 Shatterskull Charger
 1 Leyline Tyrant
 2 Shatterskull Charger
@@ -132,5 +133,20 @@
 3 Shatterskull Charger
 4 Leyline Tyrant
 4 Valakut Exploration
-4 Roil Eruption
 4 Shatterskull Charger
+1 Territorial Scythecat
+1 Scute Swarm
+1 Ancient Greenwarden
+2 Beanstalk Giant
+2 Cleansing Wildfire
+2 Territorial Scythecat
+3 Beanstalk Giant
+3 Cleansing Wildfire
+3 Territorial Scythecat
+4 Cleansing Wildfire
+4 Beanstalk Giant
+4 Territorial Scythecat
+9 Mountain
+9 Forest
+10 Forest
+10 Mountain

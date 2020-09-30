@@ -1,19 +1,32 @@
-3 Snapcaster Mage
-4 Misty Rainforest
-3 Shark Typhoon
-5 Snow-Covered Island
-1 Prairie Stream
-2 Plains
+1 Sword of Fire and Ice
+3 Misty Rainforest
+4 Field of Ruin
 3 Island
-4 Island
 1 Supreme Verdict
-5 Island
-1 Mystic Gate
-3 Cryptic Command
-2 Teferi, Hero of Dominaria
-1 Spell Queller
-2 Snow-Covered Plains
+4 Misty Rainforest
+4 Snow-Covered Island
 1 Remand
+1 Prairie Stream
+4 Snapcaster Mage
+1 Scalding Tarn
+2 Scalding Tarn
+2 Remand
+1 Sacred Foundry
+1 Steam Vents
+1 Raugrin Triome
+1 Lightning Helix
+1 Lightning Bolt
+2 Lightning Helix
+2 Lightning Bolt
+3 Scalding Tarn
+3 Lightning Bolt
+4 Scalding Tarn
+5 Snow-Covered Island
+2 Plains
+4 Island
+5 Island
+1 Spell Queller
+2 Celestial Colonnade
 2 Spell Queller
 1 Snow-Covered Forest
 1 Uro, Titan of Nature's Wrath
@@ -31,28 +44,36 @@
 3 Noble Hierarch
 3 Ice-Fang Coatl
 4 Noble Hierarch
-4 Spell Queller
 4 Ice-Fang Coatl
-1 Glacial Fortress
-2 Remand
+4 Spell Queller
+4 Lightning Bolt
+2 Logic Knot
+1 Mystic Gate
 1 Birds of Paradise
 2 Windswept Heath
-2 Celestial Colonnade
-2 Spell Snare
-4 Snapcaster Mage
+4 Cryptic Command
+2 Snow-Covered Plains
+1 Mountain
+3 Remand
+1 Glacial Fortress
 1 Brazen Borrower
-1 Scalding Tarn
-2 Scalding Tarn
+2 Birds of Paradise
+2 Steam Vents
 6 Island
 1 Polluted Delta
-1 Sacred Foundry
-1 Lightning Helix
-1 Steam Vents
-1 Lightning Bolt
-2 Lightning Helix
-2 Lightning Bolt
-3 Lightning Bolt
-3 Scalding Tarn
+1 Flagstones of Trokair
+1 Cleansing Wildfire
+2 Flagstones of Trokair
+2 Cleansing Wildfire
+3 Flagstones of Trokair
+3 Cleansing Wildfire
+4 Remand
+4 Flagstones of Trokair
+4 Cleansing Wildfire
+3 Lightning Helix
+1 Peek
+1 Snow-Covered Mountain
+2 Raugrin Triome
 1 Omen of the Sea
 1 Terminus
 2 Omen of the Sea
@@ -60,22 +81,36 @@
 3 Omen of the Sea
 3 Jace, the Mind Sculptor
 3 Terminus
-3 Windswept Heath
-2 Birds of Paradise
-4 Lightning Bolt
-2 Logic Knot
-1 Raugrin Triome
-4 Scalding Tarn
-2 Steam Vents
-1 Detention Sphere
-1 Castle Ardenvale
-1 Spreading Seas
-2 Spreading Seas
-1 Aether Gust
-2 Aether Gust
 2 Polluted Delta
 3 Polluted Delta
 4 Polluted Delta
+3 Windswept Heath
+3 Celestial Colonnade
+3 Archmage's Charm
+2 Supreme Verdict
+1 Castle Ardenvale
+1 Detention Sphere
+2 Spell Snare
+1 Spreading Seas
+2 Spreading Seas
+1 Chandra, Awakened Inferno
+1 Electrolyze
+2 Electrolyze
+1 Aether Gust
+2 Aether Gust
+2 Waterlogged Grove
+3 Hallowed Fountain
+1 Censor
+1 Tireless Tracker
+1 Horizon Canopy
+2 Censor
+3 Snow-Covered Forest
+4 Windswept Heath
+1 Blessed Alliance
+1 Condemn
+2 Blessed Alliance
+4 Celestial Colonnade
+1 Wall of Omens
 1 Prismatic Vista
 1 On Thin Ice
 2 Prismatic Vista
@@ -84,48 +119,28 @@
 3 Spreading Seas
 4 Spreading Seas
 4 Shark Typhoon
-3 Remand
-4 Cryptic Command
-1 Electrolyze
-2 Supreme Verdict
-1 Mountain
+1 Timely Reinforcements
+1 Narset, Parter of Veils
+1 Arid Mesa
+2 Narset, Parter of Veils
+1 Emeria's Call
+1 Minamo, School at Water's Edge
+1 Gideon of the Trials
+1 Dragonlord Ojutai
+2 Brazen Borrower
+1 Confounding Conundrum
+2 Confounding Conundrum
 1 Seachrome Coast
 2 Castle Ardenvale
 2 On Thin Ice
 2 Seachrome Coast
-3 Hallowed Fountain
-1 Censor
-1 Tireless Tracker
-1 Horizon Canopy
-2 Censor
-3 Snow-Covered Forest
-4 Windswept Heath
-1 Peek
-1 Snow-Covered Mountain
-1 Chandra, Awakened Inferno
-2 Raugrin Triome
-2 Electrolyze
-3 Mystic Sanctuary
-3 Lightning Helix
-1 Wall of Omens
-2 Brazen Borrower
-3 Celestial Colonnade
-1 Timely Reinforcements
-1 Arid Mesa
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-1 Emeria's Call
-3 Archmage's Charm
-1 Minamo, School at Water's Edge
-1 Gideon of the Trials
-1 Dragonlord Ojutai
-2 Waterlogged Grove
 1 Restoration Angel
 1 Skyclave Apparition
 2 Restoration Angel
 2 Skyclave Apparition
 2 Mystic Gate
 2 Wall of Omens
+3 Mystic Sanctuary
 1 Nahiri, the Harbinger
 1 Valakut Awakening
 1 Emrakul, the Aeons Torn
@@ -139,13 +154,6 @@
 1 Flooded Grove
 2 Breeding Pool
 3 Uro, Titan of Nature's Wrath
-1 Bonecrusher Giant
-1 Spell Pierce
-1 Sulfur Falls
-2 Spell Pierce
-2 Bonecrusher Giant
-2 Batterskull
-4 Lightning Helix
 1 Silundi Vision
 1 Field of the Dead
 1 Deliberate
@@ -154,21 +162,9 @@
 2 Deliberate
 2 Field of the Dead
 4 Force of Negation
-1 Search for Azcanta
-1 Frantic Inventory
-1 Secure the Wastes
-2 Frantic Inventory
-3 Frantic Inventory
-4 Frantic Inventory
 1 Serum Visions
 2 Serum Visions
 3 Snow-Covered Plains
 3 Serum Visions
 4 Prismatic Vista
 4 Serum Visions
-1 Confounding Conundrum
-1 Condemn
-1 Blessed Alliance
-2 Blessed Alliance
-2 Confounding Conundrum
-4 Celestial Colonnade
