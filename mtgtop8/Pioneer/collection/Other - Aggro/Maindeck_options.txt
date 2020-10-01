@@ -139,8 +139,8 @@
 2 Thought Erasure
 1 Pelakka Predation
 1 Jwari Disruption
-1 Balustrade Spy
 1 Undercity Informer
+1 Balustrade Spy
 1 Sea Gate Restoration
 1 Driven / Despair
 1 Into the Roil
@@ -149,25 +149,25 @@
 1 Opt
 1 Blackbloom Rogue
 2 Hagra Mauling
-2 Balustrade Spy
-2 Undercity Informer
 2 Pelakka Predation
 2 Jwari Disruption
+2 Balustrade Spy
+2 Undercity Informer
 2 Sea Gate Restoration
 2 Worldspine Wurm
 2 Opt
 2 Blackbloom Rogue
 3 Blackbloom Rogue
-3 Balustrade Spy
 3 Undercity Informer
+3 Balustrade Spy
 3 Thought Erasure
 3 Sea Gate Restoration
 3 Jwari Disruption
-3 Pelakka Predation
 3 Agadeem's Awakening
+3 Pelakka Predation
 3 Opt
-4 Balustrade Spy
 4 Undercity Informer
+4 Balustrade Spy
 4 Sea Gate Restoration
 4 Jwari Disruption
 4 Blackbloom Rogue
@@ -256,15 +256,15 @@
 1 Reckless Bushwhacker
 2 Burning-Tree Emissary
 2 Cinder Glade
-2 Gruul Spellbreaker
 2 Klothys, God of Destiny
+2 Gruul Spellbreaker
 2 Atarka's Command
 2 Rootbound Crag
 2 Reckless Bushwhacker
 2 Game Trail
 3 Scavenging Ooze
-3 Reckless Bushwhacker
 3 Atarka's Command
+3 Reckless Bushwhacker
 3 Burning-Tree Emissary
 3 Gruul Spellbreaker
 3 Game Trail
@@ -377,11 +377,11 @@
 2 Archpriest of Iona
 2 Luminarch Aspirant
 2 Hamlet Captain
-3 Acquisitions Expert
 3 Luminarch Aspirant
+3 Acquisitions Expert
 3 Archpriest of Iona
-4 Acquisitions Expert
 4 Luminarch Aspirant
+4 Acquisitions Expert
 4 Archpriest of Iona
 1 Drown in the Loch
 1 Fatal Push
@@ -410,9 +410,9 @@
 2 Thief of Sanity
 2 Collective Brutality
 2 Gifted Aetherborn
-2 Ashiok, Nightmare Weaver
 2 Aether Hub
 2 Murderous Rider
+2 Ashiok, Nightmare Weaver
 2 Kalitas, Traitor of Ghet
 2 Glint-Sleeve Siphoner
 2 Fetid Pools
@@ -464,11 +464,11 @@
 2 Thieves' Guild Enforcer
 2 Fabled Passage
 2 Clearwater Pathway
+3 Nighthawk Scavenger
 3 Soaring Thought-Thief
 3 Mystical Dispute
 3 Thieves' Guild Enforcer
 3 Clearwater Pathway
-3 Nighthawk Scavenger
 3 Island
 4 Nighthawk Scavenger
 4 Soaring Thought-Thief
@@ -492,8 +492,8 @@
 1 Slitherhead
 2 Isolated Chapel
 2 Corpse Knight
-2 Cryptbreaker
 2 Foulmire Knight
+2 Cryptbreaker
 2 Diregraf Colossus
 2 Lazotep Reaver
 2 Dark Salvation
