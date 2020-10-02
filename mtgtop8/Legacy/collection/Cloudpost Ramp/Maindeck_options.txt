@@ -27,8 +27,8 @@
 1 Maze of Ith
 2 Forest
 3 Forest
-4 Forest
 4 Crop Rotation
+4 Forest
 2 Walking Ballista
 1 Emrakul, the Promised End
 1 Expedition Map
@@ -98,8 +98,8 @@
 3 Stonecoil Serpent
 3 Sphere of Resistance
 4 Sphere of Resistance
-1 Tropical Island
 1 Stifle
+1 Tropical Island
 1 Uro, Titan of Nature's Wrath
 1 Snow-Covered Forest
 1 Shark Typhoon
@@ -114,8 +114,8 @@
 2 Misty Rainforest
 2 Tropical Island
 2 Uro, Titan of Nature's Wrath
-2 Snow-Covered Forest
 2 Stifle
+2 Snow-Covered Forest
 2 Shark Typhoon
 2 Veil of Summer
 2 Unbound Flourishing
@@ -125,8 +125,8 @@
 2 Hydroid Krasis
 2 Prismatic Vista
 3 Misty Rainforest
-3 Tropical Island
 3 Stifle
+3 Tropical Island
 3 Walking Ballista
 3 Shark Typhoon
 3 Force of Will
@@ -134,9 +134,9 @@
 3 Unbound Flourishing
 4 Misty Rainforest
 4 Brainstorm
+1 Phyrexian Tower
 1 Matter Reshaper
 1 Crucible of Worlds
-1 Phyrexian Tower
 2 Reality Smasher
 2 Matter Reshaper
 2 Crystal Vein
@@ -145,13 +145,6 @@
 3 Trinisphere
 4 Matter Reshaper
 4 Eldrazi Temple
-1 From Beyond
-1 Sylvan Scrying
-2 Hour of Promise
-2 Boompile
-3 Hour of Promise
-4 Vesuva
-9 Forest
 1 Verdant Catacombs
 1 Ramunap Excavator
 1 Allosaurus Shepherd
@@ -161,3 +154,10 @@
 4 Expedition Map
 4 Elvish Reclaimer
 4 Green Sun's Zenith
+1 From Beyond
+1 Sylvan Scrying
+2 Hour of Promise
+2 Boompile
+3 Hour of Promise
+4 Vesuva
+9 Forest

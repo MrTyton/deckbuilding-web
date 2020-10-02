@@ -1,33 +1,33 @@
+1 Fatal Push
+2 Fatal Push
+1 Thoughtseize
+2 Thoughtseize
+1 Kalitas, Traitor of Ghet
+3 Thoughtseize
+3 Fatal Push
+1 Assassin's Trophy
+1 Vraska, Golgari Queen
+2 Vraska, Golgari Queen
+4 Thoughtseize
+1 Collective Brutality
 1 Abrupt Decay
 1 Golgari Charm
 2 Collective Brutality
 2 Abrupt Decay
 4 Fatal Push
-1 Knight of Autumn
 1 Sin Collector
 2 Sin Collector
-1 Noxious Grasp
-2 Noxious Grasp
 1 Rest in Peace
 2 Rest in Peace
+1 Basri's Lieutenant
+2 Basri's Lieutenant
 1 Mystical Dispute
 2 Mystical Dispute
 1 Deputy of Detention
 2 Deputy of Detention
-1 Basri's Lieutenant
-2 Basri's Lieutenant
-1 Disdainful Stroke
-2 Disdainful Stroke
-1 Legion's End
-2 Legion's End
-1 Ashiok, Dream Render
-2 Ashiok, Dream Render
+1 Distended Mindbender
+2 Scavenging Ooze
 2 Kalitas, Traitor of Ghet
-1 Unmoored Ego
-1 Pharika's Libation
-1 Enter the God-Eternals
-2 Enter the God-Eternals
-2 Unmoored Ego
 1 Self-Inflicted Wound
 2 Golgari Charm
 1 Aether Gust
@@ -45,41 +45,47 @@
 1 Shifting Ceratops
 1 Scrabbling Claws
 2 Negate
+1 Gideon, Ally of Zendikar
+1 Disdainful Stroke
+2 Disdainful Stroke
 1 Grafdigger's Cage
 2 Grafdigger's Cage
-1 Settle the Wreckage
-1 Gideon, Ally of Zendikar
-1 Heroic Intervention
-2 Settle the Wreckage
-2 Heroic Intervention
+1 Legion's End
+2 Legion's End
+1 Ashiok, Dream Render
+2 Ashiok, Dream Render
+1 Noxious Grasp
+1 Unmoored Ego
+1 Pharika's Libation
+1 Enter the God-Eternals
+2 Enter the God-Eternals
+2 Unmoored Ego
+2 Noxious Grasp
 1 Gideon Blackblade
-1 Leonin Warleader
 1 Kaheera, the Orphanguard
 1 Glass Casket
 1 Prowling Serpopard
 1 Felidar Cub
-2 Prowling Serpopard
+1 Leonin Warleader
 2 Glass Casket
-1 Sorin, Vengeful Bloodlord
-1 Anafenza, the Foremost
-1 Heron's Grace Champion
-2 Anafenza, the Foremost
-1 Midnight Reaper
-2 Distended Mindbender
-2 Midnight Reaper
-1 Return to Nature
-1 Thief of Sanity
-1 Driven / Despair
-1 Den Protector
-1 Gurmag Angler
-2 Gurmag Angler
-2 Den Protector
+2 Prowling Serpopard
 1 Dire Tactics
 2 Dire Tactics
 1 The Ozolith
 1 Xathrid Necromancer
-2 Xathrid Necromancer
 2 Knight of Autumn
+2 Xathrid Necromancer
+1 Sorin, Vengeful Bloodlord
+1 Anafenza, the Foremost
+1 Heron's Grace Champion
+2 Anafenza, the Foremost
+1 Return to Nature
+1 Driven / Despair
+1 Thief of Sanity
+1 Den Protector
+1 Gurmag Angler
+2 Gurmag Angler
+2 Den Protector
 1 Korvold, Fae-Cursed King
 1 Tireless Tracker
 2 Assassin's Trophy
@@ -102,14 +108,6 @@
 2 Devout Decree
 2 Absorb
 3 Thalia, Heretic Cathar
-1 Voice of Resurgence
-1 Containment Priest
-1 Collective Effort
-1 Abzan Charm
-2 Voice of Resurgence
-2 Gideon, Ally of Zendikar
-2 Abzan Charm
-3 Voice of Resurgence
 1 Damping Sphere
 1 Fabled Passage
 1 Possibility Storm
@@ -122,9 +120,9 @@
 3 Chandra, Awakened Inferno
 2 Damping Sphere
 1 Skylasher
-1 Stoke the Flames
 1 Rampaging Ferocidon
 1 Hornet Nest
+1 Stoke the Flames
 1 Destructive Revelry
 1 Anger of the Gods
 2 Skylasher
@@ -133,14 +131,14 @@
 2 Destructive Revelry
 2 Anger of the Gods
 3 Destructive Revelry
-1 Shark Typhoon
-1 Cling to Dust
-1 Cry of the Carnarium
-2 Shark Typhoon
-2 Cling to Dust
-2 Cry of the Carnarium
-2 Aether Gust
-3 Aether Gust
+1 Containment Priest
+1 Collective Effort
+1 Abzan Charm
+1 Voice of Resurgence
+2 Abzan Charm
+2 Gideon, Ally of Zendikar
+2 Voice of Resurgence
+3 Voice of Resurgence
 1 Cast Down
 1 Murderous Rider
 1 Despark
@@ -164,27 +162,26 @@
 4 Dire Tactics
 4 Watery Grave
 4 Damping Sphere
-1 Leyline of the Void
+1 Pelakka Predation
 1 Hagra Mauling
 1 Into the Roil
-1 Pelakka Predation
 1 Disfigure
 1 Witch's Vengeance
-2 Leyline of the Void
+1 Leyline of the Void
+2 Witch's Vengeance
 2 Disfigure
 2 Into the Roil
-2 Witch's Vengeance
-3 Leyline of the Void
+2 Leyline of the Void
 3 Witch's Vengeance
 3 Into the Roil
-4 Leyline of the Void
+3 Leyline of the Void
 4 Witch's Vengeance
-1 Declaration in Stone
-1 Lyra Dawnbringer
-1 Tocatli Honor Guard
-1 Tormod's Crypt
-2 Tocatli Honor Guard
-2 Tormod's Crypt
-3 Settle the Wreckage
-3 Tormod's Crypt
-4 Settle the Wreckage
+4 Leyline of the Void
+1 Shark Typhoon
+1 Cling to Dust
+1 Cry of the Carnarium
+2 Shark Typhoon
+2 Cling to Dust
+2 Cry of the Carnarium
+2 Aether Gust
+3 Aether Gust

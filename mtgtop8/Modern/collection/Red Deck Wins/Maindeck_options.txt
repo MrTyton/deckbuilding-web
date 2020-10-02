@@ -35,11 +35,11 @@
 1 Bonecrusher Giant
 2 Seasoned Pyromancer
 2 Bonecrusher Giant
-3 Seasoned Pyromancer
 3 Firebolt
+3 Seasoned Pyromancer
 3 Bonecrusher Giant
-4 Seasoned Pyromancer
 4 Firebolt
+4 Seasoned Pyromancer
 4 Bonecrusher Giant
 15 Mountain
 16 Mountain
@@ -94,31 +94,19 @@
 4 Lightning Helix
 1 Runaway Steam-Kin
 1 Gut Shot
-2 Gut Shot
 2 Runaway Steam-Kin
+2 Gut Shot
 3 Runaway Steam-Kin
 1 Path to Exile
 2 Path to Exile
 3 Path to Exile
+4 Skullcrack
 3 Burst Lightning
 4 Burst Lightning
-4 Skullcrack
 3 Wild Slash
 3 Fiery Islet
 4 Fiery Islet
 4 Wild Slash
-1 Blackcleave Cliffs
-1 Blood Crypt
-1 Thoughtseize
-1 Temur Battle Rage
-2 Blackcleave Cliffs
-2 Thoughtseize
-2 Blood Crypt
-2 Temur Battle Rage
-3 Blackcleave Cliffs
-3 Thoughtseize
-4 Kiln Fiend
-4 Blackcleave Cliffs
 3 Flame Slash
 4 Flame Slash
 1 Atarka's Command
@@ -143,3 +131,15 @@
 2 Chandra's Incinerator
 3 Chandra's Incinerator
 4 Chandra's Incinerator
+1 Blackcleave Cliffs
+1 Blood Crypt
+1 Thoughtseize
+1 Temur Battle Rage
+2 Blackcleave Cliffs
+2 Thoughtseize
+2 Blood Crypt
+2 Temur Battle Rage
+3 Thoughtseize
+3 Blackcleave Cliffs
+4 Kiln Fiend
+4 Blackcleave Cliffs

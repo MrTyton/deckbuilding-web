@@ -4,15 +4,18 @@
 3 Simian Spirit Guide
 4 Simian Spirit Guide
 1 Turntimber Symbiosis
-1 Tangled Florahedron
 2 Turntimber Symbiosis
 3 Turntimber Symbiosis
 4 Turntimber Symbiosis
+1 Shatterskull Smashing
+2 Shatterskull Smashing
+3 Shatterskull Smashing
+4 Shatterskull Smashing
+1 Tangled Florahedron
 1 Spikefield Hazard
 1 Desperate Ritual
-1 Shatterskull Smashing
-1 Valakut Awakening
 1 Blood Moon
+1 Valakut Awakening
 1 Recross the Paths
 1 Bala Ged Recovery
 1 Manamorphose
@@ -23,40 +26,71 @@
 2 Desperate Ritual
 2 Spikefield Hazard
 2 Blood Moon
+2 Valakut Awakening
 2 Tangled Florahedron
 2 Pyretic Ritual
 2 Bala Ged Recovery
 2 Irencrag Feat
 2 Manamorphose
 2 Recross the Paths
-2 Shatterskull Smashing
-2 Valakut Awakening
 2 Goblin Charbelcher
 3 Spikefield Hazard
 3 Blood Moon
+3 Valakut Awakening
 3 Manamorphose
 3 Irencrag Feat
-3 Valakut Awakening
 3 Desperate Ritual
 3 Recross the Paths
 3 Pyretic Ritual
 3 Goblin Charbelcher
-3 Shatterskull Smashing
 3 Tangled Florahedron
 3 Bala Ged Recovery
 4 Blood Moon
 4 Spikefield Hazard
+4 Valakut Awakening
 4 Manamorphose
 4 Recross the Paths
-4 Shatterskull Smashing
-4 Valakut Awakening
 4 Goblin Charbelcher
 4 Pyretic Ritual
 4 Irencrag Feat
 4 Desperate Ritual
 4 Bala Ged Recovery
-1 Steam Vents
-4 Force of Negation
+1 Pentad Prism
+2 Pentad Prism
+3 Pentad Prism
+4 Pentad Prism
+1 Agadeem's Awakening
+1 Emeria's Call
+1 Phantasmagorian
+1 Vengevine
+1 Creeping Chill
+1 Narcomoeba
+1 Pelakka Predation
+1 Balustrade Spy
+1 Salvage Titan
+1 Sea Gate Restoration
+1 Undercity Informer
+2 Emeria's Call
+2 Agadeem's Awakening
+2 Vengevine
+2 Narcomoeba
+2 Creeping Chill
+2 Undercity Informer
+2 Sea Gate Restoration
+2 Pelakka Predation
+2 Balustrade Spy
+3 Agadeem's Awakening
+3 Emeria's Call
+3 Creeping Chill
+3 Vengevine
+3 Undercity Informer
+3 Sword of the Meek
+3 Balustrade Spy
+4 Vengevine
+4 Creeping Chill
+4 Agadeem's Awakening
+4 Undercity Informer
+4 Balustrade Spy
 1 Teferi, Time Raveler
 1 Flooded Strand
 1 Phyrexian Unlife
@@ -65,6 +99,8 @@
 3 Teferi, Time Raveler
 3 Phyrexian Unlife
 4 Phyrexian Unlife
+1 Steam Vents
+4 Force of Negation
 1 Arid Mesa
 2 Arid Mesa
 1 Wall of Omens
@@ -73,15 +109,15 @@
 1 Prismatic Vista
 1 Narset of the Ancient Way
 1 Delay
-1 Chandra, Torch of Defiance
 1 Sacred Foundry
+1 Chandra, Torch of Defiance
 1 Commandeer
 1 Drannith Magistrate
+1 Spellskite
 1 Jace, the Mind Sculptor
 1 Fae of Wishes
 1 Reverse the Sands
 1 Snow-Covered Plains
-1 Spellskite
 1 Possibility Storm
 2 Wall of Omens
 2 Spell Queller
@@ -92,8 +128,8 @@
 2 Snow-Covered Mountain
 2 Delay
 2 Spellskite
-2 Possibility Storm
 2 Drannith Magistrate
+2 Possibility Storm
 2 Jace, the Mind Sculptor
 2 Flooded Strand
 2 Fae of Wishes
@@ -103,10 +139,10 @@
 3 Wall of Omens
 3 Prismatic Vista
 3 Arid Mesa
-3 Drannith Magistrate
+3 Delay
 3 Flooded Strand
 3 Fae of Wishes
-3 Delay
+3 Drannith Magistrate
 3 Snow-Covered Plains
 3 Possibility Storm
 3 Scalding Tarn
@@ -124,6 +160,7 @@
 4 Delay
 5 Snow-Covered Island
 5 Snow-Covered Plains
+1 Pact of Negation
 1 Defense Grid
 1 Veil of Summer
 2 Defense Grid
@@ -132,6 +169,28 @@
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
+1 Nexus of Fate
+1 Talisman of Resilience
+1 Hagra Mauling
+1 Leyline of Sanctity
+2 Leyline of Sanctity
+2 Talisman of Resilience
+3 Sea Gate Restoration
+3 Pelakka Predation
+3 Leyline of Sanctity
+3 Talisman of Resilience
+4 Leyline of Sanctity
+4 Pelakka Predation
+1 Worldspine Wurm
+1 Wild Cantor
+1 Sphere of the Suns
+2 Wild Cantor
+2 Sphere of the Suns
+3 Sphere of the Suns
+3 Wild Cantor
+4 Emeria's Call
+4 Sword of the Meek
+4 Wild Cantor
 1 Hallowed Fountain
 1 Island
 1 Inquisition of Kozilek
@@ -179,58 +238,9 @@
 4 Trespasser's Curse
 4 Batwing Brume
 4 Rakdos Charm
-1 Pact of Negation
-1 Pentad Prism
-2 Pentad Prism
-3 Pentad Prism
-4 Pentad Prism
-1 Agadeem's Awakening
-1 Emeria's Call
-1 Nexus of Fate
-1 Phantasmagorian
-1 Vengevine
-1 Creeping Chill
-1 Narcomoeba
-1 Pelakka Predation
-1 Balustrade Spy
-1 Talisman of Resilience
-1 Hagra Mauling
-1 Salvage Titan
-1 Sea Gate Restoration
-1 Undercity Informer
-1 Leyline of Sanctity
-2 Agadeem's Awakening
-2 Emeria's Call
-2 Pelakka Predation
-2 Vengevine
-2 Narcomoeba
-2 Creeping Chill
-2 Balustrade Spy
-2 Undercity Informer
-2 Leyline of Sanctity
-2 Sea Gate Restoration
-2 Talisman of Resilience
-3 Sea Gate Restoration
-3 Emeria's Call
-3 Pelakka Predation
-3 Sword of the Meek
-3 Creeping Chill
-3 Vengevine
-3 Agadeem's Awakening
-3 Undercity Informer
-3 Balustrade Spy
-3 Leyline of Sanctity
-3 Talisman of Resilience
-4 Vengevine
-4 Agadeem's Awakening
-4 Creeping Chill
-4 Leyline of Sanctity
-4 Pelakka Predation
-4 Undercity Informer
-4 Balustrade Spy
 1 Plains
-1 Talisman of Dominance
 1 Wishclaw Talisman
+1 Talisman of Dominance
 1 Serum Visions
 1 Gemstone Mine
 1 Shelldock Isle
@@ -241,7 +251,6 @@
 1 City of Brass
 1 Jace, Wielder of Mysteries
 2 Talisman of Dominance
-2 Wishclaw Talisman
 2 Spoils of the Vault
 2 Shelldock Isle
 2 Inverter of Truth
@@ -251,25 +260,25 @@
 2 Pact of Negation
 2 City of Brass
 2 Serum Visions
+2 Wishclaw Talisman
 2 Angel's Grace
-3 Shelldock Isle
-3 Talisman of Dominance
 3 Gemstone Mine
 3 City of Brass
 3 Jace, Wielder of Mysteries
 3 Serum Visions
 3 Angel's Grace
 3 Spoils of the Vault
+3 Shelldock Isle
 3 Inverter of Truth
+3 Talisman of Dominance
 3 Thassa's Oracle
-4 Shelldock Isle
 4 Thassa's Oracle
 4 Serum Visions
 4 Spoils of the Vault
+4 Shelldock Isle
 4 Inverter of Truth
 4 Angel's Grace
 1 Windswept Heath
-1 Worldspine Wurm
 1 Through the Breach
 1 Gemstone Caverns
 1 Charming Prince
@@ -288,9 +297,9 @@
 1 Eladamri's Call
 2 Windswept Heath
 2 Worldspine Wurm
-2 Wooded Foothills
 2 Through the Breach
 2 Forest
+2 Wooded Foothills
 2 Flickerwisp
 2 Charming Prince
 2 Utopia Sprawl

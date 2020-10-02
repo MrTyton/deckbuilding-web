@@ -8,13 +8,13 @@
 3 Scalding Tarn
 5 Mountain
 1 Crash Through
-2 Crash Through
-3 Crash Through
-4 Crash Through
 1 Lava Spike
+2 Crash Through
 2 Lava Spike
-3 Bedlam Reveler
+3 Crash Through
 3 Lava Spike
+3 Bedlam Reveler
+4 Crash Through
 4 Lava Spike
 6 Mountain
 7 Mountain
@@ -55,34 +55,19 @@
 3 Burst Lightning
 3 Wooded Foothills
 4 Wooded Foothills
-3 Sunbaked Canyon
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-1 Seal of Fire
-1 Inspiring Vantage
-1 Abbot of Keral Keep
-1 Myth Realized
-1 Sacred Foundry
-2 Seal of Fire
-2 Inspiring Vantage
-2 Sacred Foundry
-2 Myth Realized
-2 Abbot of Keral Keep
-3 Inspiring Vantage
-3 Myth Realized
-3 Seal of Fire
-3 Sacred Foundry
-4 Inspiring Vantage
 1 Flame Slash
 2 Flame Slash
 4 Burst Lightning
+3 Sunbaked Canyon
+4 Sunbaked Canyon
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
 4 Runaway Steam-Kin
 1 Aether Gust
 4 Wild Slash
-4 Sunbaked Canyon
 3 Firebolt
 4 Firebolt
 15 Mountain

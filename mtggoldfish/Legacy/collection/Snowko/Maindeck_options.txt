@@ -21,11 +21,11 @@
 2 Volcanic Island
 3 Scalding Tarn
 1 Spell Pierce
-1 Dreadhorde Arcanist
-1 Narset, Parter of Veils
 1 Preordain
-2 Narset, Parter of Veils
+1 Narset, Parter of Veils
+1 Dreadhorde Arcanist
 2 Preordain
+2 Narset, Parter of Veils
 2 Lightning Bolt
 2 Dreadhorde Arcanist
 3 Lightning Bolt
@@ -61,8 +61,8 @@
 1 Felidar Retreat
 1 Knight of the Reliquary
 2 Windswept Heath
-2 Felidar Retreat
 2 Birds of Paradise
+2 Felidar Retreat
 2 Knight of the Reliquary
 3 Windswept Heath
 1 Drown in the Loch
@@ -70,8 +70,8 @@
 3 Polluted Delta
 1 Waterlogged Grove
 1 Tarmogoyf
-1 Veteran Explorer
 1 Cabal Therapy
+1 Veteran Explorer
 1 Pernicious Deed
 1 Tireless Tracker
 1 Phyrexian Tower
@@ -89,18 +89,18 @@
 1 Mystic Sanctuary
 1 Toxic Deluge
 1 Dack Fayden
-1 Badlands
 1 Fatal Push
 1 Cling to Dust
 1 Punishing Fire
 1 Baleful Strix
 1 Grove of the Burnwillows
+1 Badlands
 2 Dack Fayden
 2 Fatal Push
-2 Drown in the Loch
 2 Cling to Dust
 2 Grove of the Burnwillows
 2 Punishing Fire
+2 Drown in the Loch
 3 Punishing Fire
 3 Assassin's Trophy
 3 Drown in the Loch
@@ -132,12 +132,12 @@
 1 Pyroblast
 2 Mystic Sanctuary
 2 Pyroblast
-1 Titania, Protector of Argoth
 1 Hexdrinker
+1 Meren of Clan Nel Toth
+1 Titania, Protector of Argoth
 1 Ashiok, Nightmare Muse
 1 Vraska, Golgari Queen
 1 Nurturing Peatland
-1 Meren of Clan Nel Toth
 1 Eternal Witness
 2 Plague Engineer
 3 Snow-Covered Forest
@@ -146,9 +146,9 @@
 1 Stoneforge Mystic
 1 Batterskull
 1 Dovin's Veto
-1 True-Name Nemesis
-1 Umezawa's Jitte
 1 Thrun, the Last Troll
+1 Umezawa's Jitte
+1 True-Name Nemesis
 1 Monastery Mentor
 2 Renegade Rallier
 2 Stoneforge Mystic

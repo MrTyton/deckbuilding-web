@@ -41,9 +41,9 @@
 2 Rewind
 2 Blacklance Paragon
 1 Spectral Sailor
-1 Ashiok's Erasure
 1 Cunning Nightbonder
 1 Sublime Epiphany
+1 Ashiok's Erasure
 1 Shark Typhoon
 2 Ashiok's Erasure
 2 Cunning Nightbonder
@@ -70,24 +70,6 @@
 1 Zagoth Triome
 2 Zagoth Triome
 4 Zareth San, the Trickster
-1 Riverglide Pathway
-1 Shatterskull Smashing
-1 Robber of the Rich
-1 Kazuul's Fury
-1 Mountain
-2 Cling to Dust
-2 Riverglide Pathway
-2 Shatterskull Smashing
-2 Robber of the Rich
-2 Kazuul's Fury
-3 Cling to Dust
-3 Glasspool Mimic
-3 Riverglide Pathway
-3 Robber of the Rich
-4 Glasspool Mimic
-4 Riverglide Pathway
-4 Agadeem's Awakening
-4 Robber of the Rich
 1 Vantress Gargoyle
 1 Into the Story
 1 Grafdigger's Cage
@@ -96,13 +78,31 @@
 2 Into the Story
 3 Vantress Gargoyle
 4 Vantress Gargoyle
+1 Kazuul's Fury
+1 Riverglide Pathway
+1 Shatterskull Smashing
+1 Robber of the Rich
+1 Mountain
+2 Kazuul's Fury
+2 Cling to Dust
+2 Riverglide Pathway
+2 Shatterskull Smashing
+2 Robber of the Rich
+3 Cling to Dust
+3 Glasspool Mimic
+3 Robber of the Rich
+3 Riverglide Pathway
+4 Glasspool Mimic
+4 Agadeem's Awakening
+4 Robber of the Rich
+4 Riverglide Pathway
 1 Gadwick, the Wizened
 1 Whirlwind Denial
 1 Tyrant's Scorn
 1 Thryx, the Sudden Storm
 2 Spectral Sailor
-2 Sublime Epiphany
 2 Thryx, the Sudden Storm
+2 Sublime Epiphany
 3 Sublime Epiphany
 3 Spectral Sailor
 3 Shark Typhoon
@@ -117,15 +117,15 @@
 3 Fabled Passage
 4 Brineborn Cutthroat
 1 Crawling Barrens
-1 Agonizing Remorse
 1 Nadir Kraken
+1 Agonizing Remorse
+1 Malakir Rebirth
 1 Sea Gate Restoration
 1 Skyclave Shade
 1 Stonecoil Serpent
 1 Opt
-1 Malakir Rebirth
-2 Agonizing Remorse
 2 Nadir Kraken
+2 Agonizing Remorse
 2 Skyclave Shade
 2 Stonecoil Serpent
 2 Opt
@@ -136,8 +136,8 @@
 3 Skyclave Shade
 3 Stonecoil Serpent
 4 Agonizing Remorse
-4 Nadir Kraken
 4 Skyclave Shade
+4 Nadir Kraken
 4 Stonecoil Serpent
 1 Dismal Backwater
 1 Nimana Skydancer

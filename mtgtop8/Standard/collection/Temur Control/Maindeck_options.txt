@@ -3,12 +3,13 @@
 2 Negate
 2 Mystical Dispute
 1 Castle Vantress
+1 Temple of Mystery
 1 Expansion / Explosion
 2 Expansion / Explosion
 3 Expansion / Explosion
 4 Expansion / Explosion
-1 Temple of Mystery
 3 Mystical Dispute
+3 Negate
 2 Castle Vantress
 1 Wilderness Reclamation
 1 Growth Spiral
@@ -19,7 +20,6 @@
 3 Growth Spiral
 4 Growth Spiral
 4 Wilderness Reclamation
-3 Negate
 4 Shark Typhoon
 3 Jolrael, Mwonvuli Recluse
 3 Aether Gust
@@ -30,12 +30,12 @@
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
 3 Nissa, Who Shakes the World
-4 Mystical Dispute
 1 Nightpack Ambusher
 3 Castle Vantress
 1 Temple of Abandon
 4 Nissa, Who Shakes the World
 4 Island
+4 Mystical Dispute
 3 Brazen Borrower
 1 Commence the Endgame
 2 Nightpack Ambusher
@@ -47,15 +47,6 @@
 1 Field of the Dead
 1 Field of Ruin
 2 Field of the Dead
-1 Plains
-1 Teferi, Time Raveler
-1 Raugrin Triome
-1 Temple Garden
-1 Hallowed Fountain
-2 Teferi, Time Raveler
-2 Raugrin Triome
-2 Hallowed Fountain
-3 Teferi, Time Raveler
 4 Aether Gust
 4 Negate
 3 Forest
@@ -70,6 +61,7 @@
 2 Cragcrown Pathway
 3 Riverglide Pathway
 5 Island
+1 Plains
 1 Genesis Ultimatum
 1 Ugin, the Spirit Dragon
 2 Cultivate
@@ -85,9 +77,17 @@
 1 Hydroid Krasis
 2 Hydroid Krasis
 3 Hydroid Krasis
+1 Teferi, Time Raveler
 1 Arboreal Grazer
+1 Raugrin Triome
+1 Temple Garden
+1 Hallowed Fountain
 1 Temple of Enlightenment
+2 Teferi, Time Raveler
 2 Arboreal Grazer
+2 Raugrin Triome
+2 Hallowed Fountain
+3 Teferi, Time Raveler
 3 Field of the Dead
 3 Arboreal Grazer
 1 Scavenging Ooze
@@ -142,19 +142,11 @@
 3 Elder Gargaroth
 4 Roil Eruption
 4 Bonecrusher Giant
-1 Dovin's Veto
-2 Temple Garden
-2 Dovin's Veto
-3 Raugrin Triome
-3 Temple Garden
-3 Hallowed Fountain
-4 Teferi, Time Raveler
-4 Temple Garden
-4 Raugrin Triome
 1 Omnath, Locus of Creation
 1 Didn't Say Please
 1 Thornwood Falls
 1 Rugged Highlands
+1 Phylath, World Sculptor
 1 Llanowar Visionary
 1 Volcanic Geyser
 1 Cinderclasm
@@ -162,7 +154,6 @@
 1 Swiftwater Cliffs
 1 Beanstalk Giant
 1 Vastwood Surge
-1 Phylath, World Sculptor
 1 Omen of the Sea
 2 Didn't Say Please
 2 Thornwood Falls
@@ -194,8 +185,8 @@
 1 Improbable Alliance
 1 Irencrag Pyromancer
 2 Neutralize
-2 Irencrag Pyromancer
 2 Improbable Alliance
+2 Irencrag Pyromancer
 3 Neutralize
 3 Cragcrown Pathway
 3 Irencrag Pyromancer

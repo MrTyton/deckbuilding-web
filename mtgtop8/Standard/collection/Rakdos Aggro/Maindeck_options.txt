@@ -15,8 +15,8 @@
 1 Call of the Death-Dweller
 2 Archfiend's Vessel
 2 Call of the Death-Dweller
-3 Call of the Death-Dweller
 3 Archfiend's Vessel
+3 Call of the Death-Dweller
 4 Archfiend's Vessel
 1 Knight of the Ebon Legion
 2 Knight of the Ebon Legion
@@ -51,8 +51,8 @@
 2 Ox of Agonas
 2 Hagra Mauling
 2 Tymaret Calls the Dead
-3 Phoenix of Ash
 3 Spikefield Hazard
+3 Phoenix of Ash
 3 Tymaret Calls the Dead
 4 Spikefield Hazard
 4 Murderous Rider
@@ -167,7 +167,6 @@
 2 Steam Vents
 2 Pouncing Shoreshark
 2 Insatiable Hemophage
-3 Island
 3 Everquill Phoenix
 3 Watery Grave
 3 Sea-Dasher Octopus
@@ -177,6 +176,7 @@
 3 Porcuparrot
 3 Pollywog Symbiote
 3 Stonecoil Serpent
+3 Island
 3 Marauding Raptor
 4 Watery Grave
 4 Sea-Dasher Octopus
@@ -191,16 +191,16 @@
 1 Fissure Wizard
 1 Acquisitions Expert
 1 Bloodfell Caves
-1 Malakir Blood-Priest
 1 Feed the Swarm
 1 Grotag Bug-Catcher
 1 Deadly Alliance
+1 Malakir Blood-Priest
 2 Fireblade Charger
 2 Fissure Wizard
 2 Acquisitions Expert
 2 Bloodfell Caves
-2 Malakir Blood-Priest
 2 Feed the Swarm
+2 Malakir Blood-Priest
 2 Deadly Alliance
 2 Grotag Bug-Catcher
 3 Fireblade Charger
@@ -211,8 +211,8 @@
 3 Grotag Bug-Catcher
 4 Acquisitions Expert
 4 Bloodfell Caves
-4 Malakir Blood-Priest
 4 Fissure Wizard
 4 Grotag Bug-Catcher
+4 Malakir Blood-Priest
 9 Mountain
 8 Mountain

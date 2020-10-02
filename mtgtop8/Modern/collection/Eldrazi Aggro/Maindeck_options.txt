@@ -25,7 +25,6 @@
 1 Hallowed Fountain
 1 Knight of Autumn
 1 Birds of Paradise
-1 Bonders' Enclave
 1 Yavimaya Coast
 1 Brushland
 1 Plains
@@ -39,6 +38,7 @@
 1 Eldrazi Displacer
 1 Ancient Stirrings
 1 Engineered Explosives
+1 Bonders' Enclave
 1 Drowner of Hope
 1 Eldrazi Skyspawner
 2 Yavimaya Coast
@@ -64,11 +64,11 @@
 4 Noble Hierarch
 1 World Breaker
 1 Once Upon a Time
+1 Urborg, Tomb of Yawgmoth
 1 Oblivion Sower
 1 Eldrazi Obligator
 1 Mountain
 1 Eye of Ugin
-1 Urborg, Tomb of Yawgmoth
 1 Umezawa's Jitte
 1 Punishing Fire
 1 Grove of the Burnwillows
@@ -107,8 +107,8 @@
 1 Sword of Fire and Ice
 1 Opt
 1 Batterskull
-1 Sword of Sinew and Steel
 1 Serum Visions
+1 Sword of Sinew and Steel
 1 Geist of Saint Traft
 1 Snow-Covered Plains
 1 Elder Deep-Fiend
@@ -128,8 +128,8 @@
 3 Stoneforge Mystic
 3 Hallowed Fountain
 3 Flooded Strand
-3 Opt
 3 Serum Visions
+3 Opt
 3 Eldrazi Mimic
 3 Adarkar Wastes
 3 Seachrome Coast

@@ -1,20 +1,18 @@
-4 Brineborn Cutthroat
-1 Ketria Triome
 4 Nissa, Who Shakes the World
 2 Ketria Triome
 3 Ketria Triome
 2 Wolfwillow Haven
 1 Sinister Sabotage
+2 Castle Vantress
 2 Fabled Passage
-4 Brazen Borrower
 1 Aether Gust
-3 Rewind
 1 Uro, Titan of Nature's Wrath
-8 Island
+4 Brineborn Cutthroat
 3 Mystical Dispute
 8 Forest
+4 Brazen Borrower
 2 Essence Scatter
-3 Shark Typhoon
+3 Rewind
 4 Rewind
 1 Elder Gargaroth
 4 Spectral Sailor
@@ -23,13 +21,12 @@
 1 Questing Beast
 2 Questing Beast
 3 Questing Beast
-1 Opt
-2 Opt
 2 Sinister Sabotage
-2 Elder Gargaroth
-9 Forest
 1 Hydroid Krasis
 2 Hydroid Krasis
+9 Forest
+2 Elder Gargaroth
+8 Island
 1 Blast Zone
 1 Sublime Epiphany
 1 Castle Garenbrig
@@ -43,9 +40,10 @@
 3 Cultivate
 4 Cultivate
 10 Forest
+3 Essence Scatter
+3 Shark Typhoon
 2 Aether Gust
 3 Aether Gust
-3 Essence Scatter
 2 Negate
 1 Mobilized District
 1 Ugin, the Spirit Dragon
@@ -54,6 +52,8 @@
 3 Mobilized District
 4 Mobilized District
 4 Arboreal Grazer
+1 Opt
+2 Opt
 2 Sublime Epiphany
 11 Forest
 9 Island
@@ -67,15 +67,10 @@
 4 Hydroid Krasis
 4 Ketria Triome
 4 Essence Scatter
-1 Lofty Denial
-2 Lofty Denial
-3 Lofty Denial
 1 Sea-Dasher Octopus
 2 Sea-Dasher Octopus
 3 Sinister Sabotage
 1 Thassa's Intervention
-3 Opt
-4 Opt
 1 Leafkin Druid
 2 Leafkin Druid
 1 Thornwood Falls
@@ -87,6 +82,9 @@
 1 The Great Henge
 2 Thryx, the Sudden Storm
 3 Uro, Titan of Nature's Wrath
+1 Lofty Denial
+2 Lofty Denial
+3 Lofty Denial
 4 Shark Typhoon
 1 Unsubstantiate
 1 Wildborn Preserver
@@ -97,6 +95,8 @@
 2 Wildborn Preserver
 2 Unsummon
 3 Thornwood Falls
+3 Opt
+4 Opt
 4 Thornwood Falls
 1 Ashiok's Erasure
 2 Ashiok's Erasure
@@ -151,4 +151,3 @@
 3 Ilysian Caryatid
 3 Maraleaf Pixie
 4 Ilysian Caryatid
-4 Lofty Denial

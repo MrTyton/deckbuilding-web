@@ -1,24 +1,24 @@
+1 Tranquil Thicket
+2 Elvish Reclaimer
 1 Bayou
 1 Misty Rainforest
-1 Abrupt Decay
-2 Abrupt Decay
-3 Abrupt Decay
 1 Nurturing Peatland
 1 Waterlogged Grove
 1 Tropical Island
-2 Bayou
-1 Tranquil Thicket
-1 Snow-Covered Forest
-2 Elvish Reclaimer
+1 Abrupt Decay
+2 Abrupt Decay
+3 Abrupt Decay
 1 Manabond
 1 Grasping Dunes
+2 Bayou
+1 Ancient Tomb
+1 Snow-Covered Forest
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 1 Cavern of Souls
 1 Primeval Titan
-1 Ancient Tomb
 2 Primeval Titan
 2 Cavern of Souls
 2 Wooded Foothills
@@ -44,6 +44,7 @@
 4 Ancient Tomb
 3 Sylvan Library
 1 Radha, Heart of Keld
+1 Sheltered Thicket
 4 Gamble
 1 Zagoth Triome
 1 Chalice of the Void
@@ -53,7 +54,6 @@
 4 Chalice of the Void
 4 Abrupt Decay
 2 Snow-Covered Forest
-4 Rishadan Port
 2 Waterlogged Grove
 2 Forest
 2 Verdant Catacombs
@@ -65,27 +65,23 @@
 4 Cavern of Souls
 1 Courser of Kruphix
 1 Riftstone Portal
-1 Sheltered Thicket
 1 Scattered Groves
 1 Hall of Heliod's Generosity
 1 Molten Vortex
 1 Horizon Canopy
-1 Academy Ruins
-1 Engineered Explosives
-1 Tolaria West
-2 Tropical Island
-4 Uro, Titan of Nature's Wrath
+1 Barbarian Ring
+2 Ghost Quarter
 1 Savannah
 1 Plains
+1 Yasharn, Implacable Earth
 1 Swords to Plowshares
 1 Snow-Covered Plains
-1 Yasharn, Implacable Earth
 1 Turntimber Symbiosis
 1 Knight of the Reliquary
 2 Savannah
+2 Yasharn, Implacable Earth
 2 Swords to Plowshares
 2 Turntimber Symbiosis
-2 Yasharn, Implacable Earth
 2 Knight of the Reliquary
 3 Turntimber Symbiosis
 3 Windswept Heath
@@ -93,6 +89,12 @@
 3 Primeval Titan
 4 Windswept Heath
 4 Primeval Titan
+1 Academy Ruins
+1 Engineered Explosives
+1 Tolaria West
+2 Tropical Island
+4 Uro, Titan of Nature's Wrath
+4 Rishadan Port
 1 Snow-Covered Swamp
 1 Underground Sea
 1 Sejiri Steppe
@@ -106,10 +108,10 @@
 3 Verdant Catacombs
 3 Elvish Reclaimer
 3 Misty Rainforest
-3 Thoughtseize
 3 Oko, Thief of Crowns
 3 Brainstorm
 3 Dark Confidant
+3 Thoughtseize
 4 Thoughtseize
 4 Elvish Reclaimer
 4 Dark Confidant
