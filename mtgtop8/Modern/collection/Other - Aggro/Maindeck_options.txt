@@ -19,11 +19,12 @@
 5 Forest
 1 Plains
 2 Plains
+1 Ranger-Captain of Eos
 1 Spike Feeder
 1 Conclave Mentor
 1 Horizon Canopy
-1 Gavony Township
 1 Prismatic Vista
+1 Gavony Township
 1 Auriok Champion
 1 Temple Garden
 1 Hardened Scales
@@ -31,32 +32,31 @@
 1 Heliod, Sun-Crowned
 1 Collected Company
 1 Idyllic Grange
-1 Ranger-Captain of Eos
+2 Ranger-Captain of Eos
 2 Spike Feeder
 2 Conclave Mentor
 2 Auriok Champion
 2 Collected Company
 2 Horizon Canopy
-2 Ranger-Captain of Eos
 2 Hardened Scales
 2 Heliod, Sun-Crowned
 2 Temple Garden
 2 Walking Ballista
+3 Ranger-Captain of Eos
 3 Spike Feeder
 3 Conclave Mentor
 3 Scavenging Ooze
 3 Hardened Scales
 3 Horizon Canopy
-3 Ranger-Captain of Eos
 3 Heliod, Sun-Crowned
 3 Temple Garden
 3 Collected Company
+4 Ranger-Captain of Eos
 4 Spike Feeder
 4 Conclave Mentor
 4 Hardened Scales
 4 Temple Garden
 4 Heliod, Sun-Crowned
-4 Ranger-Captain of Eos
 4 Collected Company
 1 Misty Rainforest
 1 Smuggler's Copter
@@ -66,11 +66,13 @@
 2 Polluted Delta
 1 Overgrown Tomb
 1 Disrupting Shoal
+1 Snow-Covered Swamp
 1 Spellstutter Sprite
 1 Snow-Covered Forest
 1 Ice-Fang Coatl
 1 Drown in the Loch
 1 Breeding Pool
+1 Fatal Push
 1 Abrupt Decay
 1 Force of Negation
 1 Faerie Seer
@@ -82,17 +84,15 @@
 1 Mana Leak
 1 Darkslick Shores
 1 Botanical Sanctum
-1 Fatal Push
 1 Fallen Shinobi
-1 Snow-Covered Swamp
 2 Misty Rainforest
 2 Disrupting Shoal
 2 Spellstutter Sprite
 2 Ice-Fang Coatl
 2 Snow-Covered Island
+2 Fatal Push
 2 Force of Negation
 2 Gilded Goose
-2 Fatal Push
 2 Botanical Sanctum
 2 Brazen Borrower
 2 Darkslick Shores
@@ -105,11 +105,11 @@
 3 Misty Rainforest
 3 Brazen Borrower
 3 Snow-Covered Island
+3 Fatal Push
 3 Ingenious Infiltrator
 3 Faerie Seer
 3 Gilded Goose
 3 Polluted Delta
-3 Fatal Push
 3 Darkslick Shores
 4 Spellstutter Sprite
 4 Ice-Fang Coatl
@@ -124,10 +124,11 @@
 2 Stomping Ground
 1 Blood Crypt
 1 Dakmor Salvage
+1 Arid Mesa
 1 Forgotten Cave
 1 Mana Confluence
 1 Conflagrate
-1 Arid Mesa
+1 Bloodghast
 1 Narcomoeba
 1 Copperline Gorge
 1 Life from the Loam
@@ -135,7 +136,6 @@
 1 Prized Amalgam
 1 Shriekhorn
 1 Creeping Chill
-1 Bloodghast
 1 Golgari Thug
 1 Merchant of the Vale
 1 Cathartic Reunion
@@ -193,6 +193,7 @@
 1 Cavern of Souls
 1 Lotleth Troll
 1 Zetalpa, Primal Dawn
+2 Overgrown Tomb
 2 Traverse the Ulvenwald
 2 Blooming Marsh
 2 Swamp
@@ -202,12 +203,12 @@
 2 Drogskol Reaver
 2 Samut, Voice of Dissent
 2 Lotleth Troll
-2 Overgrown Tomb
 2 Zetalpa, Primal Dawn
 2 Grisly Salvage
 2 Gather the Pack
 2 Soulflayer
 2 Sylvan Caryatid
+3 Verdant Catacombs
 3 Traverse the Ulvenwald
 3 Bomat Courier
 3 Zetalpa, Primal Dawn
@@ -218,35 +219,34 @@
 3 Sylvan Caryatid
 3 Bloodstained Mire
 3 Lotleth Troll
-3 Verdant Catacombs
 3 Samut, Voice of Dissent
-4 Bloodstained Mire
+4 Verdant Catacombs
 4 Traverse the Ulvenwald
 4 Sylvan Caryatid
 4 Lotleth Troll
 4 Grisly Salvage
 4 Gather the Pack
-4 Verdant Catacombs
+4 Bloodstained Mire
 4 Soulflayer
+1 Marsh Flats
+1 Silent Clearing
 1 Mutavault
+1 Godless Shrine
 1 Island
 1 Spell Queller
 1 Moorland Haunt
 1 Hallowed Fountain
+1 Deputy of Detention
 1 Selfless Spirit
 1 Force of Virtue
 1 Geist of Saint Traft
 1 Empyrean Eagle
 1 Aether Vial
 1 Flooded Strand
-1 Deputy of Detention
-1 Silent Clearing
-1 Marsh Flats
 1 Mausoleum Wanderer
 1 Seachrome Coast
 1 Squadron Hawk
 1 Path to Exile
-1 Godless Shrine
 1 Supreme Phantom
 2 Mutavault
 2 Spell Queller

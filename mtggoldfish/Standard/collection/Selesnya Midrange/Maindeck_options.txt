@@ -1,66 +1,66 @@
+4 Branchloft Pathway
+1 Swarm Shambler
 1 Conclave Mentor
+1 Basri's Lieutenant
+1 Scavenging Ooze
 1 Forest
+2 Swarm Shambler
 2 Conclave Mentor
 2 Forest
+2 Scavenging Ooze
+2 Basri's Lieutenant
 3 Conclave Mentor
 3 Forest
 4 Conclave Mentor
 4 Forest
-1 Swarm Shambler
-1 Basri's Lieutenant
-1 Scavenging Ooze
-2 Swarm Shambler
-2 Scavenging Ooze
-2 Basri's Lieutenant
-1 Luminarch Aspirant
-2 Luminarch Aspirant
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 3 Stonecoil Serpent
 3 Swarm Shambler
 4 Stonecoil Serpent
-3 Luminarch Aspirant
+1 Luminarch Aspirant
+2 Luminarch Aspirant
 3 Basri's Lieutenant
-5 Forest
+3 Luminarch Aspirant
 1 Oran-Rief Ooze
 2 Oran-Rief Ooze
 3 Oran-Rief Ooze
-4 Luminarch Aspirant
-6 Forest
-1 Temple of Plenty
+5 Forest
 6 Mountain
-4 Memory Leak
+2 Needleverge Pathway
+3 Needleverge Pathway
+4 Needleverge Pathway
+4 Luminarch Aspirant
 4 Oran-Rief Ooze
+6 Forest
 4 Swarm Shambler
+1 Temple of Plenty
+3 Boon of the Wish-Giver
+1 Emeria's Call
 1 Fabled Passage
 2 Fabled Passage
 1 Inscription of Abundance
-1 Emeria's Call
-3 Boon of the Wish-Giver
-1 The Great Henge
-2 Inscription of Abundance
-2 Temple of Plenty
 1 Khalni Ambush
 1 Primal Might
 2 Khalni Ambush
 2 Primal Might
 4 Basri's Lieutenant
-3 Temple of Plenty
-4 Temple of Plenty
 1 Raugrin Triome
 2 Raugrin Triome
-2 Needleverge Pathway
-3 Needleverge Pathway
-4 Needleverge Pathway
+2 Temple of Plenty
+1 The Great Henge
 4 Boon of the Wish-Giver
+2 Inscription of Abundance
 1 Skyclave Apparition
 1 Kabira Takedown
 2 Kabira Takedown
 2 Skyclave Apparition
-3 Fabled Passage
-4 Fabled Passage
+3 Temple of Plenty
+4 Temple of Plenty
 2 The Great Henge
 7 Forest
+3 Fabled Passage
+4 Fabled Passage
 1 Wildwood Scourge
 2 Wildwood Scourge
 1 Selfless Savior
@@ -86,20 +86,12 @@
 4 Wildwood Scourge
 1 Invigorating Surge
 1 Gnarlid Colony
-1 Felidar Retreat
-3 Inscription of Abundance
-4 Inscription of Abundance
 1 Basri Ket
 1 The Ozolith
 2 The Ozolith
 8 Forest
-1 Fearless Fledgling
-2 Fearless Fledgling
 1 Indatha Triome
 2 Indatha Triome
-1 Gilded Goose
-2 Gilded Goose
-3 Gilded Goose
 1 Savai Triome
 2 Savai Triome
 1 Shadowspear
@@ -107,35 +99,21 @@
 2 Shadowspear
 1 Blitz of the Thunder-Raptor
 2 Spikefield Hazard
-2 Turntimber Symbiosis
-3 Scavenging Ooze
 1 Lavabrink Venturer
 1 Elder Gargaroth
 1 The First Iroan Games
 2 Lavabrink Venturer
 2 The First Iroan Games
 3 Lavabrink Venturer
+1 Felidar Retreat
 2 Sejiri Shelter
 3 The Great Henge
+2 Turntimber Symbiosis
+3 Scavenging Ooze
+3 Inscription of Abundance
+4 Inscription of Abundance
 3 Raugrin Triome
 4 Raugrin Triome
-1 Vivien, Monsters' Advocate
-1 Rabid Bite
-1 Lotus Cobra
-1 Canyon Jerboa
-1 Yasharn, Implacable Earth
-1 Lithoform Engine
-2 Felidar Retreat
-2 Lithoform Engine
-2 Canyon Jerboa
-2 Lotus Cobra
-2 Yasharn, Implacable Earth
-2 Vivien, Monsters' Advocate
-2 Rabid Bite
-3 Felidar Retreat
-3 Canyon Jerboa
-3 Lotus Cobra
-4 Lotus Cobra
 1 Castle Ardenvale
 1 Makindi Stampede
 2 Makindi Stampede
@@ -149,7 +127,9 @@
 4 Cragcrown Pathway
 1 Pridemalkin
 1 Crystalline Giant
+1 Fearless Fledgling
 2 Invigorating Surge
+2 Fearless Fledgling
 2 Crystalline Giant
 3 Invigorating Surge
 3 Fearless Fledgling
@@ -159,11 +139,11 @@
 1 Grakmaw, Skyclave Ravager
 1 Eliminate
 1 Mythos of Nethroi
-1 Polukranos, Unchained
-1 Temple of Silence
 1 Temple of Malady
 1 Swamp
+1 Polukranos, Unchained
 1 Brightclimb Pathway
+1 Temple of Silence
 2 Grakmaw, Skyclave Ravager
 2 Mythos of Nethroi
 2 Eliminate
@@ -179,12 +159,15 @@
 7 Mountain
 8 Mountain
 1 Gingerbrute
+1 Gilded Goose
 1 Gemrazer
 1 Banishing Light
+2 Gilded Goose
 2 Gingerbrute
 2 Gnarlid Colony
 2 Banishing Light
 2 Gemrazer
+3 Gilded Goose
 3 Gnarlid Colony
 9 Forest
 10 Forest

@@ -1,74 +1,5 @@
-2 Nightpack Ambusher
-2 Shark Typhoon
-3 Nightpack Ambusher
-3 Island
-1 Paradise Druid
-2 Paradise Druid
-3 Aether Gust
-3 Nissa, Who Shakes the World
-3 Forest
-4 Forest
-5 Forest
-1 Hydroid Krasis
-2 Hydroid Krasis
-4 Fabled Passage
-1 Voracious Hydra
-1 Arboreal Grazer
-1 Cavalier of Thorns
-1 Rotting Regisaur
-1 Ilysian Caryatid
-1 Ram Through
-1 Tamiyo, Collector of Tales
-1 Temple of Deceit
-1 Garruk's Harbinger
-2 Garruk's Harbinger
-2 Cavalier of Thorns
-2 Polukranos, Unchained
-2 Rotting Regisaur
-2 Voracious Hydra
-2 Ilysian Caryatid
-3 Ilysian Caryatid
-3 Rotting Regisaur
-3 Garruk's Harbinger
-3 Shifting Ceratops
-1 Knight of the Ebon Legion
-1 Gemrazer
-1 Massacre Wurm
-1 Assassin's Trophy
-2 Knight of the Ebon Legion
-2 Massacre Wurm
-2 Gemrazer
-2 Assassin's Trophy
-2 Castle Locthwain
-3 Knight of the Ebon Legion
-3 Assassin's Trophy
-3 Stonecoil Serpent
-4 Knight of the Ebon Legion
-4 Stonecoil Serpent
-1 Narset, Parter of Veils
-1 Disdainful Stroke
-1 Rewind
-1 Heartless Act
-1 Negate
-1 Frantic Inventory
-2 Narset, Parter of Veils
-2 Negate
-2 Rewind
-2 Frantic Inventory
-2 Heartless Act
-3 Narset, Parter of Veils
-3 Frantic Inventory
-3 Shark Typhoon
-4 Shark Typhoon
-4 Nightpack Ambusher
-4 Frantic Inventory
-1 Mystical Dispute
-1 Gilded Goose
-1 Wicked Wolf
-1 Gingerbread Cabin
-1 Trail of Crumbs
-2 Mystical Dispute
 2 Gilded Goose
+2 Mystical Dispute
 2 Wicked Wolf
 2 Gingerbread Cabin
 2 Trail of Crumbs
@@ -83,15 +14,40 @@
 4 Hydroid Krasis
 4 Aether Gust
 4 Trail of Crumbs
+4 Gilded Goose
 4 Gingerbread Cabin
 4 Wicked Wolf
-4 Gilded Goose
+1 Eliminate
+1 Narset, Parter of Veils
+1 Disdainful Stroke
+1 Rewind
+1 Heartless Act
+1 Negate
+1 Frantic Inventory
+2 Eliminate
+2 Narset, Parter of Veils
+2 Negate
+2 Rewind
+2 Frantic Inventory
+2 Heartless Act
+3 Eliminate
+3 Narset, Parter of Veils
+3 Frantic Inventory
+3 Shark Typhoon
+4 Shark Typhoon
+4 Nightpack Ambusher
+4 Frantic Inventory
+1 Temple of Mystery
 1 Blast Zone
+1 Questing Beast
+1 Paradise Druid
 1 Frilled Mystic
 1 Wolfwillow Haven
-1 Brazen Borrower
 1 Sinister Sabotage
 1 Opt
+1 Brazen Borrower
+2 Questing Beast
+2 Paradise Druid
 2 Wolfwillow Haven
 2 Brazen Borrower
 2 Temple of Mystery
@@ -99,6 +55,7 @@
 3 Brazen Borrower
 3 Paradise Druid
 3 Temple of Mystery
+3 Questing Beast
 4 Island
 4 Paradise Druid
 5 Island
@@ -119,10 +76,11 @@
 2 Thought Erasure
 2 Thief of Sanity
 2 Duress
+2 Swamp
 3 Mire Triton
 3 Murderous Rider
-3 Liliana's Triumph
 3 Liliana, Waker of the Dead
+3 Liliana's Triumph
 3 Thought Erasure
 3 Thief of Sanity
 4 Mire Triton

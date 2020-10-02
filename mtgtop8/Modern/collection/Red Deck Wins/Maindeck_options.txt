@@ -1,5 +1,4 @@
-3 Arid Mesa
-4 Arid Mesa
+3 Lightning Helix
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Soul-Scar Mage
@@ -21,6 +20,8 @@
 2 Light Up the Stage
 3 Light Up the Stage
 3 Bloodstained Mire
+3 Arid Mesa
+4 Arid Mesa
 4 Light Up the Stage
 13 Mountain
 14 Mountain
@@ -45,7 +46,6 @@
 16 Mountain
 17 Mountain
 3 Wooded Foothills
-3 Lightning Helix
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
@@ -56,8 +56,8 @@
 1 Flame Slash
 2 Flame Slash
 18 Mountain
-3 Skullcrack
 1 Scalding Tarn
+4 Lightning Helix
 1 Bedlam Reveler
 2 Bedlam Reveler
 3 Bedlam Reveler
@@ -72,6 +72,7 @@
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
+3 Skullcrack
 1 Wild Slash
 2 Wild Slash
 4 Bedlam Reveler
@@ -91,7 +92,8 @@
 2 Mutagenic Growth
 3 Mutagenic Growth
 4 Mutagenic Growth
-4 Lightning Helix
+1 Roiling Vortex
+2 Roiling Vortex
 1 Runaway Steam-Kin
 1 Gut Shot
 2 Runaway Steam-Kin

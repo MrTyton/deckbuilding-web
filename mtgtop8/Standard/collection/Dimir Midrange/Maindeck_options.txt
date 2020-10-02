@@ -46,9 +46,9 @@
 1 Ashiok's Erasure
 1 Shark Typhoon
 2 Ashiok's Erasure
-2 Cunning Nightbonder
 2 Lochmere Serpent
 2 Shark Typhoon
+2 Cunning Nightbonder
 3 Cunning Nightbonder
 4 Cunning Nightbonder
 4 Zulaport Duelist
@@ -78,24 +78,6 @@
 2 Into the Story
 3 Vantress Gargoyle
 4 Vantress Gargoyle
-1 Kazuul's Fury
-1 Riverglide Pathway
-1 Shatterskull Smashing
-1 Robber of the Rich
-1 Mountain
-2 Kazuul's Fury
-2 Cling to Dust
-2 Riverglide Pathway
-2 Shatterskull Smashing
-2 Robber of the Rich
-3 Cling to Dust
-3 Glasspool Mimic
-3 Robber of the Rich
-3 Riverglide Pathway
-4 Glasspool Mimic
-4 Agadeem's Awakening
-4 Robber of the Rich
-4 Riverglide Pathway
 1 Gadwick, the Wizened
 1 Whirlwind Denial
 1 Tyrant's Scorn
@@ -116,13 +98,31 @@
 3 Brineborn Cutthroat
 3 Fabled Passage
 4 Brineborn Cutthroat
-1 Crawling Barrens
+1 Kazuul's Fury
+1 Riverglide Pathway
+1 Shatterskull Smashing
+1 Robber of the Rich
+1 Mountain
+2 Kazuul's Fury
+2 Cling to Dust
+2 Riverglide Pathway
+2 Shatterskull Smashing
+2 Robber of the Rich
+3 Cling to Dust
+3 Glasspool Mimic
+3 Robber of the Rich
+3 Riverglide Pathway
+4 Glasspool Mimic
+4 Robber of the Rich
+4 Riverglide Pathway
+4 Agadeem's Awakening
+1 Malakir Rebirth
 1 Nadir Kraken
 1 Agonizing Remorse
-1 Malakir Rebirth
 1 Sea Gate Restoration
 1 Skyclave Shade
 1 Stonecoil Serpent
+1 Crawling Barrens
 1 Opt
 2 Nadir Kraken
 2 Agonizing Remorse
