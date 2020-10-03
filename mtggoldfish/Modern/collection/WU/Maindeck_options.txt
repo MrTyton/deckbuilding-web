@@ -5,119 +5,56 @@
 5 Plains
 6 Plains
 7 Plains
-8 Plains
-9 Plains
-1 Sunbaked Canyon
 1 Restoration Angel
 2 Restoration Angel
-3 Horizon Canopy
+1 Sunbaked Canyon
+8 Plains
+9 Plains
 3 Silent Clearing
 4 Silent Clearing
 1 Shefet Dunes
 2 Shefet Dunes
+3 Horizon Canopy
 1 Lurrus of the Dream-Den
+1 Eiganjo Castle
+1 Selfless Savior
+1 Serra Avenger
 1 Sword of Light and Shadow
 2 Lurrus of the Dream-Den
-1 Selfless Savior
-1 Eiganjo Castle
-1 Snow-Covered Island
-1 Uro, Titan of Nature's Wrath
-1 Snow-Covered Forest
-1 Mystic Sanctuary
-1 Mox Amber
-1 Mishra's Bauble
-1 Cryptic Command
-1 Zagoth Triome
-1 Dismember
-1 Metallic Rebuke
-1 Emry, Lurker of the Loch
-1 Breeding Pool
-1 Urza, Lord High Artificer
-1 Engineered Explosives
-1 Chalice of the Void
-1 Misty Rainforest
-2 Uro, Titan of Nature's Wrath
-2 Mystic Sanctuary
-2 Mishra's Bauble
-2 Cryptic Command
-2 Snow-Covered Island
-2 Engineered Explosives
-2 Emry, Lurker of the Loch
-2 Metallic Rebuke
-2 Chalice of the Void
-2 Urza, Lord High Artificer
-2 Breeding Pool
-2 Misty Rainforest
-3 Misty Rainforest
-3 Emry, Lurker of the Loch
-3 Mishra's Bauble
-3 Snow-Covered Island
-3 Uro, Titan of Nature's Wrath
-3 Engineered Explosives
-3 Chalice of the Void
-3 Metallic Rebuke
-3 Urza, Lord High Artificer
-4 Emry, Lurker of the Loch
-4 Misty Rainforest
-4 Mishra's Bauble
-4 Snow-Covered Island
-4 Chalice of the Void
-4 Urza, Lord High Artificer
-4 Uro, Titan of Nature's Wrath
-5 Snow-Covered Island
-1 Serra Avenger
+2 Serra Avenger
 1 Scavenger Grounds
 1 Charming Prince
 2 Charming Prince
-1 Flooded Strand
-4 Horizon Canopy
-1 Minamo, School at Water's Edge
-2 Snow-Covered Forest
-2 Dismember
-3 Cryptic Command
-2 Selfless Savior
-2 Serra Avenger
-1 Seachrome Coast
-1 Hallowed Fountain
-2 Seachrome Coast
-2 Hallowed Fountain
-12 Snow-Covered Plains
 1 Aven Mindcensor
-1 Scalding Tarn
-1 Aether Gust
-1 Prismatic Vista
-2 Scalding Tarn
-2 Prismatic Vista
-3 Scalding Tarn
-4 Scalding Tarn
-2 Mox Amber
-4 Engineered Explosives
-1 Polluted Delta
-1 Pentad Prism
-2 Polluted Delta
-2 Pentad Prism
-3 Polluted Delta
-4 Polluted Delta
-3 Charming Prince
 1 Sword of Feast and Famine
-2 Flooded Strand
+4 Horizon Canopy
+2 Selfless Savior
+1 Hallowed Fountain
+1 Seachrome Coast
+2 Hallowed Fountain
+2 Seachrome Coast
+2 Aven Mindcensor
+12 Snow-Covered Plains
+10 Plains
+3 Charming Prince
 1 Spell Queller
 1 Deputy of Detention
-2 Deputy of Detention
 2 Spell Queller
+2 Deputy of Detention
 3 Seachrome Coast
 3 Deputy of Detention
 3 Spell Queller
 4 Seachrome Coast
-1 Unsettled Mariner
-2 Unsettled Mariner
-3 Hallowed Fountain
 1 Arid Mesa
 1 Marsh Flats
 2 Arid Mesa
+1 Unsettled Mariner
+2 Unsettled Mariner
+3 Hallowed Fountain
 2 Sunbaked Canyon
 1 Remorseful Cleric
 2 Remorseful Cleric
+1 Flooded Strand
 1 Inspiring Vantage
 1 Goblin Cratermaker
 1 Sacred Foundry
@@ -125,23 +62,11 @@
 2 Sacred Foundry
 2 Goblin Cratermaker
 1 Blinkmoth Nexus
-2 Aven Mindcensor
+1 Snow-Covered Island
 1 Moorland Haunt
 1 Adarkar Wastes
 2 Adarkar Wastes
-2 Aether Gust
-1 Tormod's Crypt
-1 Talisman of Curiosity
-2 Talisman of Curiosity
-3 Talisman of Curiosity
-1 Snow-Covered Swamp
-1 Thopter Foundry
-1 Watery Grave
-1 Sword of the Meek
-1 Karn, the Great Creator
-2 Thopter Foundry
-2 Karn, the Great Creator
-3 Karn, the Great Creator
+3 Archon of Emeria
 1 Mistveil Plains
 3 Remorseful Cleric
 1 Ranger-Captain of Eos
@@ -150,22 +75,6 @@
 2 Brimaz, King of Oreskos
 3 Ranger-Captain of Eos
 4 Charming Prince
-1 Tectonic Edge
-1 Razorverge Thicket
-1 Noble Hierarch
-1 Ramunap Excavator
-1 Branchloft Pathway
-2 Tectonic Edge
-2 Razorverge Thicket
-2 Noble Hierarch
-2 Ramunap Excavator
-2 Branchloft Pathway
-3 Tectonic Edge
-3 Razorverge Thicket
-3 Noble Hierarch
-4 Tectonic Edge
-4 Razorverge Thicket
-4 Noble Hierarch
 1 Phyrexian Revoker
 2 Phyrexian Revoker
 3 Restoration Angel
@@ -188,21 +97,37 @@
 2 Seal of Fire
 2 Dire Fleet Daredevil
 3 Inspiring Vantage
-3 Sunbaked Canyon
 3 Seal of Fire
+3 Sunbaked Canyon
 3 Serra Avenger
 4 Inspiring Vantage
-4 Sunbaked Canyon
 4 Seal of Fire
+4 Sunbaked Canyon
 4 Serra Avenger
 1 Blade Splicer
-1 Island
 1 Geist of Saint Traft
+1 Island
 1 Meddling Mage
 2 Meddling Mage
 2 Island
+2 Flooded Strand
 3 Meddling Mage
 4 Spell Queller
 4 Deputy of Detention
-3 Archon of Emeria
-10 Plains
+11 Plains
+1 Tectonic Edge
+1 Razorverge Thicket
+1 Ramunap Excavator
+1 Noble Hierarch
+1 Branchloft Pathway
+2 Tectonic Edge
+2 Razorverge Thicket
+2 Ramunap Excavator
+2 Noble Hierarch
+2 Branchloft Pathway
+3 Tectonic Edge
+3 Razorverge Thicket
+3 Noble Hierarch
+4 Tectonic Edge
+4 Razorverge Thicket
+4 Noble Hierarch

@@ -2,13 +2,13 @@
 1 Force of Will
 1 Ponder
 1 Swords to Plowshares
-2 Brainstorm
 2 Swords to Plowshares
+2 Brainstorm
 2 Ponder
 2 Force of Will
+3 Swords to Plowshares
 3 Brainstorm
 3 Force of Will
-3 Swords to Plowshares
 3 Ponder
 4 Brainstorm
 4 Ponder
@@ -24,8 +24,8 @@
 2 True-Name Nemesis
 1 Snapcaster Mage
 2 Snapcaster Mage
-1 Prismatic Vista
 1 Force of Negation
+1 Prismatic Vista
 1 Snow-Covered Plains
 1 Snow-Covered Island
 2 Snow-Covered Island
@@ -34,36 +34,37 @@
 2 Jace, the Mind Sculptor
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
+3 True-Name Nemesis
 2 Snow-Covered Plains
 3 Snow-Covered Island
-3 True-Name Nemesis
+1 Narset, Parter of Veils
 1 Sword of Fire and Ice
 4 Snow-Covered Island
 2 Prismatic Vista
-1 Narset, Parter of Veils
 1 Council's Judgment
 5 Snow-Covered Island
 3 Prismatic Vista
 4 Prismatic Vista
 1 Vendilion Clique
-1 Venser, Shaper Savant
 1 Sword of Feast and Famine
-1 Preordain
+1 Venser, Shaper Savant
 1 Umezawa's Jitte
-2 Vendilion Clique
 1 Spell Pierce
-1 Jace, Vryn's Prodigy
-2 Karakas
-3 Snow-Covered Plains
+1 Preordain
 1 Volcanic Island
 1 Scalding Tarn
 3 Snapcaster Mage
+2 Vendilion Clique
+1 Jace, Vryn's Prodigy
+2 Karakas
+3 Snow-Covered Plains
 2 Spell Pierce
-2 Tundra
 2 Scalding Tarn
+2 Tundra
 3 Scalding Tarn
 1 Snow-Covered Mountain
 2 Council's Judgment
+1 Counterspell
 1 Wasteland
 2 Wasteland
 1 Polluted Delta
@@ -76,16 +77,17 @@
 3 Daze
 3 Delver of Secrets
 4 Delver of Secrets
+4 Scalding Tarn
 2 Preordain
+1 Back to Basics
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
 4 Daze
-1 Counterspell
 4 Mishra's Bauble
-4 Scalding Tarn
 3 Seat of the Synod
-1 Back to Basics
 4 True-Name Nemesis
+2 Island
+3 Island
 1 Lightning Bolt
 2 Volcanic Island
 2 Lightning Bolt
@@ -96,14 +98,18 @@
 3 Tundra
 1 Brazen Borrower
 2 Force of Negation
-2 Island
-3 Island
+1 Spell Snare
+1 Mystic Sanctuary
 1 Underground Sea
 1 Misty Rainforest
+2 Back to Basics
+2 Plains
+3 Plains
+4 Island
+5 Island
+6 Island
 6 Snow-Covered Island
-1 Spell Snare
 1 Dreadhorde Arcanist
-1 Mystic Sanctuary
 1 Ethereal Forager
 2 Ethereal Forager
 1 Counterbalance
@@ -133,12 +139,6 @@
 4 Tropical Island
 4 Noble Hierarch
 4 Misty Rainforest
-2 Back to Basics
-2 Plains
-3 Plains
-4 Island
-5 Island
-6 Island
 1 Arid Mesa
 3 Lightning Bolt
 1 Drown in the Loch

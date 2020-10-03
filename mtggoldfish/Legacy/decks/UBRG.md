@@ -1,7 +1,7 @@
 # UBRG
 
 #### [Export MTGO List](../collection/UBRG/UBRG.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Agadeem's%20Awakening%0A4%09Balustrade%20Spy%0A1%09Bridge%20from%20Below%0A4%09Cabal%20Ritual%0A4%09Cabal%20Therapy%0A4%09Chrome%20Mox%0A4%09Dark%20Ritual%0A1%09Dread%20Return%0A4%09Elvish%20Spirit%20Guide%0A4%09Lotus%20Petal%0A4%09Narcomoeba%0A4%09Pact%20of%20Negation%0A4%09Simian%20Spirit%20Guide%0A4%09Summoner's%20Pact%0A1%09Thassa's%20Oracle%0A4%09Turntimber%20Symbiosis%0A4%09Undercity%20Informer%0A1%09Wild%20Cantor&deckside=4%09Carpet%20of%20Flowers%0A4%09Chancellor%20of%20the%20Annex%0A4%09Force%20of%20Vigor%0A3%09Nature's%20Claim)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Agadeem's%20Awakening%0A4%09Balustrade%20Spy%0A1%09Bridge%20from%20Below%0A4%09Cabal%20Ritual%0A4%09Cabal%20Therapy%0A4%09Chrome%20Mox%0A4%09Dark%20Ritual%0A1%09Dread%20Return%0A4%09Elvish%20Spirit%20Guide%0A4%09Lotus%20Petal%0A4%09Narcomoeba%0A4%09Pact%20of%20Negation%0A4%09Simian%20Spirit%20Guide%0A4%09Summoner's%20Pact%0A1%09Thassa's%20Oracle%0A4%09Turntimber%20Symbiosis%0A4%09Undercity%20Informer%0A1%09Wild%20Cantor&deckside=4%09Carpet%20of%20Flowers%0A4%09Force%20of%20Vigor%0A3%09Nature's%20Claim%0A4%09Savage%20Summoning)
 # Maindeck
 
 |                                      Artifact (8)                                      |                                         Creature (22)                                          |                                       Enchantment (1)                                        |                                        Instant (16)                                         |                                       Sorcery (5)                                        |     Unknown (8)      |
@@ -17,33 +17,19 @@
 
 # Sideboard
 
-|                                            Creature (4)                                            |                                      Enchantment (4)                                       |                                        Instant (7)                                        |
-|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-|4 [Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|4 [Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)|4 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)|
-|                                                                                                    |                                                                                            |3 [Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)|
+|                                      Enchantment (4)                                       |                                        Instant (11)                                         |
+|--------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+|4 [Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)|4 [Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)  |
+|                                                                                            |3 [Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)  |
+|                                                                                            |4 [Savage Summoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370710)|
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
-|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|                    1|[Sylvan Scrying](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130513)  |
-|                    1|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)       |                    1|[Vampire Hexmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389735) |
-|                    2|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)       |                    1|[Dark Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121155)     |
-|                    2|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|                    1|[Thespian's Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366353)|
-|                    3|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|                    2|[Sylvan Scrying](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130513)  |
-|                    3|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)       |                    2|[Thespian's Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366353)|
-|                    4|[Once Upon a Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473131)       |                    2|[Dark Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121155)     |
-|                    4|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|                    2|[Vampire Hexmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389735) |
-|                     |                                                                                                  |                    3|[Sylvan Scrying](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130513)  |
-|                     |                                                                                                  |                    3|[Thespian's Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366353)|
-|                     |                                                                                                  |                    3|[Vampire Hexmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389735) |
-|                     |                                                                                                  |                    3|[Dark Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121155)     |
-|                     |                                                                                                  |                    4|[Dark Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121155)     |
-|                     |                                                                                                  |                    4|[Vampire Hexmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389735) |
-|                     |                                                                                                  |                    4|[Thespian's Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366353)|
-|                     |                                                                                                  |                    1|[Savage Summoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370710)|
-|                     |                                                                                                  |                    2|[Savage Summoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370710)|
-|                     |                                                                                                  |                    3|[Savage Summoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370710)|
-|                     |                                                                                                  |                    4|[Savage Summoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370710)|
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
+|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|
+|                     |             |                    2|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|
+|                     |             |                    3|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|
+|                     |             |                    4|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|
 

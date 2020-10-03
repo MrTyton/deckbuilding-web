@@ -1,12 +1,12 @@
-1 Misty Rainforest
 2 Plains
+1 Misty Rainforest
 1 Scavenging Ooze
 3 Noble Hierarch
+4 Wooded Foothills
 1 Chord of Calling
 2 Misty Rainforest
 1 Shalai, Voice of Plenty
 2 Verdant Catacombs
-4 Wooded Foothills
 1 Lurrus of the Dream-Den
 1 Ranger-Captain of Eos
 2 Ranger-Captain of Eos
@@ -56,8 +56,8 @@
 1 Magus of the Moon
 1 Wooded Bastion
 2 Shalai, Voice of Plenty
-1 Snow-Covered Forest
 1 Snow-Covered Plains
+1 Snow-Covered Forest
 2 Snow-Covered Plains
 2 Snow-Covered Forest
 1 Hardened Scales
@@ -66,28 +66,18 @@
 1 Arid Mesa
 2 Lurrus of the Dream-Den
 4 Horizon Canopy
-1 Stoneforge Mystic
-1 Batterskull
-1 Gavony Township
-1 Teferi, Time Raveler
-1 Viridian Longbow
-2 Stoneforge Mystic
-2 Teferi, Time Raveler
-3 Stoneforge Mystic
-3 Teferi, Time Raveler
-4 Stoneforge Mystic
 1 Heliod's Pilgrim
-1 Sylvan Caryatid
+1 Island
 1 Freed from the Real
 1 Leyline of Abundance
-1 Island
 1 Nylea, Keen-Eyed
+1 Sylvan Caryatid
 1 Kinnan, Bonder Prodigy
 1 Waterlogged Grove
 2 Breeding Pool
-2 Sylvan Caryatid
 2 Freed from the Real
 2 Leyline of Abundance
+2 Sylvan Caryatid
 2 Kinnan, Bonder Prodigy
 3 Leyline of Abundance
 3 Freed from the Real
@@ -105,11 +95,21 @@
 2 Chancellor of the Tangle
 2 Chalice of the Void
 2 Fauna Shaman
-3 Chalice of the Void
 3 Simian Spirit Guide
 3 Fauna Shaman
+3 Chalice of the Void
 3 Chancellor of the Tangle
-4 Chalice of the Void
 4 Simian Spirit Guide
+4 Chalice of the Void
 4 Fauna Shaman
 4 Chancellor of the Tangle
+1 Gavony Township
+1 Batterskull
+1 Teferi, Time Raveler
+1 Viridian Longbow
+1 Stoneforge Mystic
+2 Teferi, Time Raveler
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+3 Teferi, Time Raveler
+4 Stoneforge Mystic

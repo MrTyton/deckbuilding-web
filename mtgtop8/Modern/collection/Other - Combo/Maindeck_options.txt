@@ -10,8 +10,8 @@
 1 Ponder
 1 Thoughtseize
 1 Chrome Mox
-1 Vampire Hexmage
 1 Urborg, Tomb of Yawgmoth
+1 Vampire Hexmage
 1 Thespian's Stage
 1 Dark Confidant
 1 Castle Locthwain
@@ -19,11 +19,11 @@
 1 Mishra's Bauble
 1 Thopter Foundry
 1 Gitaxian Probe
+2 Vampire Hexmage
 2 Preordain
 2 Ponder
 2 Chrome Mox
 2 Thoughtseize
-2 Vampire Hexmage
 2 Dark Confidant
 2 Dark Depths
 2 Gitaxian Probe
@@ -62,36 +62,36 @@
 4 Pentad Prism
 1 Agadeem's Awakening
 1 Emeria's Call
-1 Phantasmagorian
 1 Vengevine
 1 Creeping Chill
 1 Narcomoeba
+1 Sea Gate Restoration
 1 Pelakka Predation
+1 Phantasmagorian
 1 Balustrade Spy
 1 Salvage Titan
-1 Sea Gate Restoration
 1 Undercity Informer
-2 Pelakka Predation
 2 Agadeem's Awakening
-2 Emeria's Call
 2 Vengevine
 2 Narcomoeba
 2 Creeping Chill
+2 Emeria's Call
 2 Undercity Informer
 2 Sea Gate Restoration
+2 Pelakka Predation
 2 Balustrade Spy
-3 Emeria's Call
 3 Creeping Chill
 3 Vengevine
-3 Agadeem's Awakening
 3 Undercity Informer
 3 Sword of the Meek
 3 Balustrade Spy
+3 Emeria's Call
+3 Agadeem's Awakening
 4 Vengevine
 4 Creeping Chill
-4 Agadeem's Awakening
 4 Undercity Informer
 4 Balustrade Spy
+4 Agadeem's Awakening
 1 Teferi, Time Raveler
 1 Flooded Strand
 1 Phyrexian Unlife
@@ -125,8 +125,8 @@
 2 Spell Queller
 2 Snow-Covered Plains
 2 Narset of the Ancient Way
-2 Prismatic Vista
 2 Delay
+2 Prismatic Vista
 2 Spellskite
 2 Possibility Storm
 2 Drannith Magistrate
@@ -140,8 +140,8 @@
 3 Wall of Omens
 3 Prismatic Vista
 3 Arid Mesa
-3 Delay
 3 Drannith Magistrate
+3 Delay
 3 Flooded Strand
 3 Fae of Wishes
 3 Snow-Covered Plains
@@ -169,6 +169,18 @@
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
+1 Nexus of Fate
+1 Talisman of Resilience
+1 Hagra Mauling
+1 Leyline of Sanctity
+2 Leyline of Sanctity
+2 Talisman of Resilience
+3 Pelakka Predation
+3 Sea Gate Restoration
+3 Leyline of Sanctity
+3 Talisman of Resilience
+4 Pelakka Predation
+4 Leyline of Sanctity
 1 Vessel of Volatility
 1 Akoum Warrior
 2 Vessel of Volatility
@@ -177,35 +189,23 @@
 3 Vessel of Volatility
 3 Veil of Summer
 4 Veil of Summer
-1 Nexus of Fate
-1 Talisman of Resilience
-1 Hagra Mauling
-1 Leyline of Sanctity
-2 Leyline of Sanctity
-2 Talisman of Resilience
-3 Sea Gate Restoration
-3 Pelakka Predation
-3 Leyline of Sanctity
-3 Talisman of Resilience
-4 Leyline of Sanctity
-4 Pelakka Predation
 1 Worldspine Wurm
-1 Wild Cantor
 1 Sphere of the Suns
-2 Wild Cantor
+1 Wild Cantor
 2 Sphere of the Suns
-3 Sphere of the Suns
+2 Wild Cantor
 3 Wild Cantor
-4 Emeria's Call
-4 Sword of the Meek
+3 Sphere of the Suns
 4 Wild Cantor
+4 Sword of the Meek
+4 Emeria's Call
 1 Hallowed Fountain
 1 Island
 1 Swamp
-1 Inquisition of Kozilek
-1 Mission Briefing
 1 Sunken Ruins
+1 Mission Briefing
 1 Opt
+1 Inquisition of Kozilek
 1 Blood Crypt
 1 Rakdos Charm
 1 Godless Shrine
@@ -217,8 +217,8 @@
 1 Hydrolash
 1 Forbidden Orchard
 1 Pongify
-2 Inquisition of Kozilek
 2 Opt
+2 Inquisition of Kozilek
 2 Rakdos Charm
 2 Bloodstained Mire
 2 Trespasser's Curse
@@ -229,8 +229,8 @@
 2 Mission Briefing
 2 Batwing Brume
 2 Rapid Hybridization
-3 Inquisition of Kozilek
 3 Opt
+3 Inquisition of Kozilek
 3 Bloodstained Mire
 3 Rakdos Charm
 3 Mission Briefing
@@ -311,9 +311,9 @@
 2 Flickerwisp
 2 Charming Prince
 2 Utopia Sprawl
+2 Gemstone Caverns
 2 Temple Garden
 2 Stomping Ground
-2 Gemstone Caverns
 2 Plains
 2 Misty Rainforest
 2 Devoted Druid
