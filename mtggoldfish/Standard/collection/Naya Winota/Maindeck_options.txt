@@ -1,5 +1,3 @@
-4 Mountain
-2 Embercleave
 3 Skyclave Cleric
 4 Spikefield Hazard
 1 Tangled Florahedron
@@ -14,11 +12,11 @@
 2 Stonecoil Serpent
 3 Stonecoil Serpent
 3 Shatterskull Smashing
-2 Plains
+3 Mountain
+4 Mountain
 1 Seasoned Hallowblade
 2 Brightclimb Pathway
-3 Plains
-4 Plains
+2 Plains
 1 Giant Killer
 1 Phoenix of Ash
 2 Giant Killer
@@ -26,6 +24,8 @@
 3 Turntimber Symbiosis
 4 Gilded Goose
 4 Archon of Emeria
+3 Plains
+4 Plains
 1 Fabled Passage
 1 Savai Triome
 2 Fabled Passage
@@ -42,9 +42,9 @@
 3 Anax, Hardened in the Forge
 3 Lavabrink Venturer
 4 Fabled Passage
-1 Elder Gargaroth
 1 Swarm Shambler
 1 Kargan Warleader
+1 Elder Gargaroth
 2 Kargan Warleader
 2 Swarm Shambler
 2 Elder Gargaroth
@@ -65,6 +65,7 @@
 1 Forbidden Friendship
 1 Demon's Disciple
 1 Rankle, Master of Pranks
+2 Woe Strider
 2 Kitesail Freebooter
 2 Rankle, Master of Pranks
 2 Savai Triome
@@ -72,51 +73,14 @@
 2 Demon's Disciple
 2 Forbidden Friendship
 2 Swamp
-2 Woe Strider
+3 Woe Strider
 3 Demon's Disciple
 3 Brightclimb Pathway
 3 Seasoned Hallowblade
 3 Forbidden Friendship
 3 Swamp
-3 Woe Strider
 3 Savai Triome
 4 Brightclimb Pathway
 4 Savai Triome
 4 Woe Strider
 4 Forbidden Friendship
-1 Temple of Triumph
-1 Igneous Cur
-1 Charming Prince
-1 Alpine Houndmaster
-1 Castle Embereth
-1 Haktos the Unscarred
-1 Bolt Hound
-1 Alpine Watchdog
-1 Pack Leader
-2 Igneous Cur
-2 Alpine Watchdog
-2 Haktos the Unscarred
-2 Alpine Houndmaster
-2 Pack Leader
-2 Charming Prince
-2 Bolt Hound
-2 Temple of Triumph
-3 Bolt Hound
-3 Igneous Cur
-3 Alpine Watchdog
-3 Alpine Houndmaster
-3 Temple of Triumph
-3 Pack Leader
-4 Temple of Triumph
-4 Alpine Houndmaster
-4 Pack Leader
-4 Bolt Hound
-5 Mountain
-5 Plains
-6 Mountain
-6 Plains
-7 Plains
-7 Mountain
-8 Mountain
-8 Plains
-9 Plains

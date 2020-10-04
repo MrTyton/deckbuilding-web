@@ -182,9 +182,9 @@
 1 Blackbloom Rogue
 1 Balustrade Spy
 1 Undercity Informer
-1 Worldspine Wurm
 1 Jwari Disruption
 1 Sea Gate Restoration
+1 Worldspine Wurm
 1 Driven / Despair
 1 Into the Roil
 1 Pelakka Predation
@@ -371,24 +371,6 @@
 4 Fae of Wishes
 4 Beanstalk Giant
 4 Lucky Clover
-1 Archpriest of Iona
-1 Acquisitions Expert
-1 Luminarch Aspirant
-1 Bloodsoaked Champion
-1 Hamlet Captain
-1 Gust Walker
-2 Archpriest of Iona
-2 Acquisitions Expert
-2 Luminarch Aspirant
-2 Bloodsoaked Champion
-2 Gust Walker
-2 Hamlet Captain
-3 Archpriest of Iona
-3 Luminarch Aspirant
-3 Acquisitions Expert
-4 Archpriest of Iona
-4 Acquisitions Expert
-4 Luminarch Aspirant
 1 Skyclave Apparition
 1 Charming Prince
 1 Spell Queller
@@ -411,6 +393,24 @@
 4 Militia Bugler
 4 Spell Queller
 4 Glasspool Mimic
+1 Acquisitions Expert
+1 Luminarch Aspirant
+1 Archpriest of Iona
+1 Bloodsoaked Champion
+1 Hamlet Captain
+1 Gust Walker
+2 Acquisitions Expert
+2 Luminarch Aspirant
+2 Bloodsoaked Champion
+2 Gust Walker
+2 Archpriest of Iona
+2 Hamlet Captain
+3 Luminarch Aspirant
+3 Acquisitions Expert
+3 Archpriest of Iona
+4 Acquisitions Expert
+4 Luminarch Aspirant
+4 Archpriest of Iona
 1 Drown in the Loch
 1 Fatal Push
 2 Drown in the Loch
@@ -576,9 +576,9 @@
 4 Seasoned Hallowblade
 4 Heart of Kiran
 4 Toolcraft Exemplar
+1 Thalia, Heretic Cathar
 1 Inspiring Vantage
 1 Kitesail Freebooter
-1 Thalia, Heretic Cathar
 1 Gideon Blackblade
 1 Mantis Rider
 1 Anafenza, the Foremost

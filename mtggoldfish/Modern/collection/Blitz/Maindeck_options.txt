@@ -7,13 +7,13 @@
 3 Arid Mesa
 4 Arid Mesa
 5 Mountain
-1 Lava Spike
 1 Crash Through
-2 Lava Spike
+1 Lava Spike
 2 Crash Through
-3 Bedlam Reveler
-3 Lava Spike
+2 Lava Spike
 3 Crash Through
+3 Lava Spike
+3 Bedlam Reveler
 4 Crash Through
 4 Lava Spike
 6 Mountain
@@ -58,6 +58,8 @@
 1 Flame Slash
 2 Flame Slash
 4 Burst Lightning
+3 Sunbaked Canyon
+4 Sunbaked Canyon
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
@@ -66,8 +68,6 @@
 2 Brazen Borrower
 3 Wild Slash
 4 Wild Slash
-3 Sunbaked Canyon
-4 Sunbaked Canyon
 3 Firebolt
 4 Firebolt
 15 Mountain

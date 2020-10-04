@@ -5,17 +5,15 @@
 6 Mountain
 7 Forest
 2 Spikefield Hazard
+3 Primal Might
 7 Mountain
 8 Forest
-3 Primal Might
 3 Fabled Passage
 3 Spikefield Hazard
 1 Radha, Heart of Keld
 1 Lotus Cobra
 2 Lotus Cobra
 3 Lotus Cobra
-8 Mountain
-2 Radha, Heart of Keld
 1 Brushfire Elemental
 1 Akoum Hellhound
 2 Brushfire Elemental
@@ -25,29 +23,13 @@
 4 Brushfire Elemental
 4 Fabled Passage
 4 Akoum Hellhound
+8 Mountain
 4 Scavenging Ooze
+2 Radha, Heart of Keld
 3 Radha, Heart of Keld
 4 Lotus Cobra
-1 Stonecoil Serpent
-1 Gemrazer
-1 Migratory Greathorn
-2 Stonecoil Serpent
-2 Migratory Greathorn
-2 Gemrazer
-3 Stonecoil Serpent
-3 Gemrazer
-4 Stonecoil Serpent
 1 Ram Through
 2 Ram Through
-1 Terror of the Peaks
-9 Forest
-10 Forest
-1 Leyline Tyrant
-1 Garruk, Unleashed
-1 The Great Henge
-2 Terror of the Peaks
-3 Terror of the Peaks
-9 Mountain
 1 Kazuul's Fury
 1 Yorvo, Lord of Garenbrig
 2 Yorvo, Lord of Garenbrig
@@ -60,12 +42,29 @@
 2 Roil Eruption
 3 Wildwood Tracker
 3 Roil Eruption
+1 Inscription of Abundance
+1 Oran-Rief Ooze
+1 Castle Embereth
+1 Kargan Intimidator
+2 Oran-Rief Ooze
+2 Kargan Intimidator
+3 Oran-Rief Ooze
+3 Kargan Intimidator
 1 Skyclave Pick-Axe
+1 Stonecoil Serpent
 1 Skyclave Geopede
+1 Gemrazer
+1 Migratory Greathorn
+2 Stonecoil Serpent
 2 Skyclave Geopede
 2 Skyclave Pick-Axe
+2 Migratory Greathorn
+2 Gemrazer
+3 Stonecoil Serpent
 3 Skyclave Pick-Axe
 3 Migratory Greathorn
+3 Gemrazer
+4 Stonecoil Serpent
 4 Skyclave Pick-Axe
 4 Migratory Greathorn
 4 Gemrazer
@@ -74,47 +73,50 @@
 3 Roiling Regrowth
 4 Roiling Regrowth
 4 Shatterskull Smashing
-1 Swarm Shambler
 1 Escape to the Wilds
+1 Swarm Shambler
 2 Swarm Shambler
 2 Escape to the Wilds
 3 Swarm Shambler
 4 Swarm Shambler
+1 Infuriate
 1 Nessian Hornbeetle
 1 Ranger's Guile
 1 Rugged Highlands
-1 Infuriate
 1 Garruk's Uprising
 1 Klothys, God of Destiny
 1 Wildwood Patrol
 1 Titanoth Rex
-1 Almighty Brushwagg
 1 Proud Wildbonder
 1 Elder Gargaroth
+1 Terror of the Peaks
 1 Warden of the Chained
+1 Almighty Brushwagg
+2 Infuriate
 2 Ranger's Guile
 2 Nessian Hornbeetle
-2 Infuriate
 2 Rugged Highlands
 2 Garruk's Uprising
 2 Almighty Brushwagg
-2 Wildwood Patrol
 2 Warden of the Chained
+2 Wildwood Patrol
 2 Proud Wildbonder
 3 Nessian Hornbeetle
 3 Infuriate
 3 Ram Through
 3 Rugged Highlands
-3 Garruk's Uprising
 3 Ranger's Guile
+3 Garruk's Uprising
 3 Warden of the Chained
 3 Wildwood Patrol
 3 Proud Wildbonder
 3 Almighty Brushwagg
-4 Nessian Hornbeetle
 4 Infuriate
+4 Nessian Hornbeetle
 4 Rugged Highlands
 4 Ram Through
-4 Wildwood Patrol
-4 Warden of the Chained
 4 Ranger's Guile
+4 Wildwood Patrol
+9 Forest
+10 Forest
+4 Warden of the Chained
