@@ -1,20 +1,15 @@
 4 Field of Ruin
-4 Snow-Covered Island
-1 Supreme Verdict
-1 Sword of Fire and Ice
-5 Snow-Covered Island
-1 Prairie Stream
 3 Island
+1 Supreme Verdict
+4 Snow-Covered Island
+1 Prairie Stream
+1 Sword of Fire and Ice
 3 Misty Rainforest
-4 Misty Rainforest
+5 Snow-Covered Island
 4 Snapcaster Mage
 1 Scalding Tarn
 2 Scalding Tarn
 1 Remand
-2 Plains
-4 Island
-5 Island
-2 Remand
 1 Sacred Foundry
 1 Raugrin Triome
 1 Steam Vents
@@ -25,11 +20,14 @@
 3 Scalding Tarn
 3 Lightning Bolt
 4 Scalding Tarn
+4 Misty Rainforest
+2 Remand
+2 Plains
+4 Island
+5 Island
 1 Spell Queller
 2 Logic Knot
 2 Celestial Colonnade
-1 Mystic Gate
-2 Snow-Covered Plains
 1 Polluted Delta
 2 Spell Queller
 1 Snow-Covered Forest
@@ -51,37 +49,37 @@
 4 Spell Queller
 4 Ice-Fang Coatl
 4 Cryptic Command
+1 Mystic Gate
+2 Snow-Covered Plains
 4 Lightning Bolt
-1 Glacial Fortress
 3 Remand
-1 Birds of Paradise
-2 Windswept Heath
-6 Island
-2 Polluted Delta
-1 Terminus
-2 Terminus
-3 Terminus
-2 Steam Vents
-2 Supreme Verdict
-3 Archmage's Charm
 1 Mountain
-1 Spreading Seas
-2 Spreading Seas
 1 Flagstones of Trokair
 1 Cleansing Wildfire
 2 Flagstones of Trokair
 2 Cleansing Wildfire
 3 Cleansing Wildfire
 3 Flagstones of Trokair
-4 Remand
 4 Flagstones of Trokair
 4 Cleansing Wildfire
-1 Brazen Borrower
-3 Hallowed Fountain
+1 Birds of Paradise
+2 Windswept Heath
 3 Lightning Helix
+2 Raugrin Triome
+2 Steam Vents
+6 Island
+1 Terminus
+2 Terminus
+3 Terminus
+2 Polluted Delta
+2 Supreme Verdict
+3 Archmage's Charm
+1 Glacial Fortress
+4 Remand
+1 Brazen Borrower
 1 Peek
 1 Snow-Covered Mountain
-2 Raugrin Triome
+3 Hallowed Fountain
 1 Omen of the Sea
 2 Omen of the Sea
 3 Omen of the Sea
@@ -90,10 +88,8 @@
 3 Polluted Delta
 4 Polluted Delta
 1 Condemn
-1 Castle Ardenvale
-3 Spreading Seas
-4 Spreading Seas
-2 Spell Snare
+1 Spreading Seas
+2 Spreading Seas
 1 Chandra, Awakened Inferno
 1 Electrolyze
 2 Electrolyze
@@ -105,19 +101,17 @@
 3 Celestial Colonnade
 4 Celestial Colonnade
 3 Windswept Heath
-1 Wall of Omens
+1 Castle Ardenvale
 3 Mystic Sanctuary
-1 Detention Sphere
-1 On Thin Ice
-1 Prismatic Vista
-2 Prismatic Vista
-2 Glacial Fortress
-3 Prismatic Vista
-4 Shark Typhoon
+1 Wall of Omens
 1 Timely Reinforcements
 1 Emeria's Call
 1 Sea Gate Restoration
 4 Force of Negation
+3 Spreading Seas
+4 Spreading Seas
+2 Spell Snare
+1 Shatterskull Smashing
 1 Minamo, School at Water's Edge
 1 Gideon of the Trials
 1 Dragonlord Ojutai
@@ -129,10 +123,6 @@
 1 Irrigated Farmland
 2 Deliberate
 2 Field of the Dead
-1 Seachrome Coast
-2 Castle Ardenvale
-2 On Thin Ice
-2 Seachrome Coast
 1 Restoration Angel
 1 Skyclave Apparition
 2 Restoration Angel
@@ -143,10 +133,10 @@
 1 Arid Mesa
 1 Valakut Awakening
 1 Emrakul, the Aeons Torn
-1 Narset, Parter of Veils
 1 Lukka, Coppercoat Outcast
 1 Commit/Memory
 1 Anger of the Gods
+1 Narset, Parter of Veils
 2 Timely Reinforcements
 2 Narset, Parter of Veils
 2 Nahiri, the Harbinger
@@ -155,23 +145,30 @@
 1 Flooded Grove
 2 Breeding Pool
 3 Uro, Titan of Nature's Wrath
-1 Serum Visions
-2 Serum Visions
-3 Snow-Covered Plains
-3 Serum Visions
-4 Prismatic Vista
-4 Serum Visions
-1 Censor
-1 Horizon Canopy
-1 Tireless Tracker
-2 Censor
-3 Snow-Covered Forest
-4 Windswept Heath
-6 Snow-Covered Island
 1 Frantic Inventory
 1 Deprive
 2 Frantic Inventory
 3 Frantic Inventory
 4 Terminus
-4 Frantic Inventory
 4 Mystic Sanctuary
+4 Frantic Inventory
+1 Censor
+1 Horizon Canopy
+1 Tireless Tracker
+1 Detention Sphere
+2 Censor
+3 Snow-Covered Forest
+4 Windswept Heath
+6 Snow-Covered Island
+1 On Thin Ice
+1 Serum Visions
+1 Prismatic Vista
+2 Prismatic Vista
+2 Glacial Fortress
+2 Serum Visions
+3 Snow-Covered Plains
+3 Prismatic Vista
+3 Serum Visions
+4 Prismatic Vista
+4 Serum Visions
+4 Shark Typhoon

@@ -36,11 +36,11 @@
 1 Bonecrusher Giant
 2 Seasoned Pyromancer
 2 Bonecrusher Giant
-3 Firebolt
 3 Seasoned Pyromancer
+3 Firebolt
 3 Bonecrusher Giant
-4 Firebolt
 4 Seasoned Pyromancer
+4 Firebolt
 4 Bonecrusher Giant
 15 Mountain
 16 Mountain
@@ -51,10 +51,10 @@
 3 Manamorphose
 4 Manamorphose
 4 Bloodstained Mire
-1 Flame Slash
-2 Flame Slash
 1 Burst Lightning
 2 Burst Lightning
+1 Flame Slash
+2 Flame Slash
 18 Mountain
 1 Scalding Tarn
 4 Lightning Helix
@@ -96,12 +96,14 @@
 2 Roiling Vortex
 1 Runaway Steam-Kin
 1 Gut Shot
-2 Runaway Steam-Kin
 2 Gut Shot
+2 Runaway Steam-Kin
 3 Runaway Steam-Kin
 1 Path to Exile
 2 Path to Exile
 3 Path to Exile
+3 Burst Lightning
+4 Burst Lightning
 3 Flame Slash
 4 Flame Slash
 4 Skullcrack
@@ -117,10 +119,8 @@
 3 Thoughtseize
 4 Kiln Fiend
 4 Blackcleave Cliffs
-3 Burst Lightning
-4 Burst Lightning
-3 Wild Slash
 3 Fiery Islet
+3 Wild Slash
 4 Fiery Islet
 4 Wild Slash
 1 Thunderous Wrath

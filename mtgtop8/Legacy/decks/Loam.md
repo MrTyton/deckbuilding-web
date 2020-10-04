@@ -37,3 +37,20 @@
 |2 [Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)            |                                                                                                |                                                                                              |
 |2 [Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|                                                                                                |                                                                                              |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                           Sideboard Card                                            |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------------|
+|                    1|[Tranquil Thicket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220494) |                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)          |
+|                    1|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)|                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)        |
+|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)   |                    1|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)             |
+|                    1|Skyclave Apparition                                                                         |                    1|[Toxic Deluge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376559)              |
+|                    1|Felidar Retreat                                                                             |                    1|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)              |
+|                    2|Skyclave Apparition                                                                         |                    2|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)             |
+|                    2|Felidar Retreat                                                                             |                    1|[Leovold, Emissary of Trest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416834)|
+|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                     |                                                                                                     |
+|                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)|                     |                                                                                                     |
+|                    4|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)     |                     |                                                                                                     |
+|                    1|[Ghost Quarter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389534)    |                     |                                                                                                     |
+

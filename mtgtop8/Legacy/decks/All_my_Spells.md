@@ -1,7 +1,7 @@
 # All my Spells
 
 #### [Export MTGO List](../collection/All%20my%20Spells/All%20my%20Spells.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Agadeem's%20Awakening%0A4%09Balustrade%20Spy%0A1%09Bridge%20from%20Below%0A4%09Cabal%20Therapy%0A4%09Chrome%20Mox%0A4%09Dark%20Ritual%0A1%09Dread%20Return%0A4%09Elvish%20Spirit%20Guide%0A4%09Lotus%20Petal%0A4%09Narcomoeba%0A4%09Once%20Upon%20a%20Time%0A4%09Pact%20of%20Negation%0A4%09Simian%20Spirit%20Guide%0A4%09Summoner's%20Pact%0A1%09Thassa's%20Oracle%0A4%09Turntimber%20Symbiosis%0A4%09Undercity%20Informer%0A1%09Wild%20Cantor&deckside=3%09Chancellor%20of%20the%20Annex%0A4%09Goblin%20Charbelcher%0A4%09Lion's%20Eye%20Diamond%0A4%09Spoils%20of%20the%20Vault)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Agadeem's%20Awakening%0A4%09Balustrade%20Spy%0A1%09Bridge%20from%20Below%0A4%09Cabal%20Therapy%0A4%09Chrome%20Mox%0A4%09Dark%20Ritual%0A1%09Dread%20Return%0A4%09Elvish%20Spirit%20Guide%0A4%09Lotus%20Petal%0A4%09Narcomoeba%0A4%09Once%20Upon%20a%20Time%0A4%09Pact%20of%20Negation%0A4%09Simian%20Spirit%20Guide%0A4%09Summoner's%20Pact%0A1%09Thassa's%20Oracle%0A4%09Turntimber%20Symbiosis%0A4%09Undercity%20Informer%0A1%09Wild%20Cantor&deckside=4%09Carpet%20of%20Flowers%0A3%09Chancellor%20of%20the%20Annex%0A2%09Goblin%20Charbelcher%0A2%09Lion's%20Eye%20Diamond%0A3%09Nature's%20Claim%0A1%09Spoils%20of%20the%20Vault)
 # Maindeck
 
 |                                      Artifact (8)                                      |                                         Creature (22)                                          |                                       Enchantment (1)                                        |                                        Instant (16)                                         |                                       Sorcery (5)                                        |     Unknown (8)      |
@@ -17,26 +17,32 @@
 
 # Sideboard
 
-|                                         Artifact (8)                                          |                                            Creature (3)                                            |                                          Instant (4)                                          |
-|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-|4 [Goblin Charbelcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438497)|3 [Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|4 [Spoils of the Vault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46572)|
-|4 [Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255)  |                                                                                                    |                                                                                               |
+|                                         Artifact (4)                                          |                                            Creature (3)                                            |                                      Enchantment (4)                                       |                                          Instant (4)                                          |
+|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|2 [Goblin Charbelcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438497)|3 [Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|4 [Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)|3 [Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)    |
+|2 [Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255)  |                                                                                                    |                                                                                            |1 [Spoils of the Vault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46572)|
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
-|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)         |
-|                     |             |                    1|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)        |
-|                     |             |                    1|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)         |
-|                     |             |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)         |
-|                     |             |                    2|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)        |
-|                     |             |                    2|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)         |
-|                     |             |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)         |
-|                     |             |                    3|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)        |
-|                     |             |                    3|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)         |
-|                     |             |                    4|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|
-|                     |             |                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)         |
-|                     |             |                    4|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)        |
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
+|                    1|[Cabal Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30564)       |                    2|[Spoils of the Vault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46572)     |
+|                    1|[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255)  |                    3|[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255)       |
+|                    1|[Goblin Charbelcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438497)|                    3|[Spoils of the Vault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46572)     |
+|                    2|[Cabal Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30564)       |                    3|[Goblin Charbelcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438497)     |
+|                    2|[Goblin Charbelcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438497)|                    4|[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255)       |
+|                    2|[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255)  |                    4|[Spoils of the Vault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46572)     |
+|                    3|[Cabal Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30564)       |                    4|[Goblin Charbelcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438497)     |
+|                    3|[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255)  |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
+|                    4|[Cabal Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=30564)       |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)    |
+|                    4|[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255)  |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
+|                     |                                                                                             |                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)    |
+|                     |                                                                                             |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
+|                     |                                                                                             |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)         |
+|                     |                                                                                             |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)         |
+|                     |                                                                                             |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)         |
+|                     |                                                                                             |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)         |
+|                     |                                                                                             |                    4|[Chancellor of the Annex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218083)|
+|                     |                                                                                             |                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)         |
 

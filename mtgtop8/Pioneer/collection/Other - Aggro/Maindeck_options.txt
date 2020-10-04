@@ -112,11 +112,11 @@
 2 Mayhem Devil
 2 Blood Crypt
 2 Gilded Goose
-3 Gilded Goose
 3 Mayhem Devil
+3 Gilded Goose
 3 Blood Crypt
-4 Gilded Goose
 4 Mayhem Devil
+4 Gilded Goose
 4 Blood Crypt
 4 Breeding Pool
 1 Scrapheap Scrounger
@@ -134,9 +134,9 @@
 2 Creeping Chill
 2 Prized Amalgam
 2 Silversmote Ghoul
+3 Silversmote Ghoul
 3 Prized Amalgam
 3 Creeping Chill
-3 Silversmote Ghoul
 4 Prized Amalgam
 4 Creeping Chill
 4 Silversmote Ghoul
@@ -180,22 +180,22 @@
 1 Thought Erasure
 2 Thought Erasure
 1 Blackbloom Rogue
+1 Worldspine Wurm
 1 Balustrade Spy
 1 Undercity Informer
-1 Jwari Disruption
 1 Sea Gate Restoration
-1 Worldspine Wurm
+1 Jwari Disruption
 1 Driven / Despair
 1 Into the Roil
-1 Pelakka Predation
 1 Hagra Mauling
+1 Pelakka Predation
 1 Opt
 2 Worldspine Wurm
 2 Blackbloom Rogue
-2 Balustrade Spy
-2 Undercity Informer
 2 Pelakka Predation
 2 Hagra Mauling
+2 Balustrade Spy
+2 Undercity Informer
 2 Sea Gate Restoration
 2 Jwari Disruption
 2 Opt
@@ -214,6 +214,36 @@
 4 Blackbloom Rogue
 4 Sea Gate Restoration
 4 Jwari Disruption
+1 Burning-Tree Emissary
+1 Atarka's Command
+1 Wildborn Preserver
+1 Reckless Bushwhacker
+1 Cinder Glade
+1 Gruul Spellbreaker
+1 Legion Loyalist
+1 Yorvo, Lord of Garenbrig
+1 Klothys, God of Destiny
+1 Game Trail
+2 Burning-Tree Emissary
+2 Atarka's Command
+2 Reckless Bushwhacker
+2 Cinder Glade
+2 Klothys, God of Destiny
+2 Gruul Spellbreaker
+2 Rootbound Crag
+2 Game Trail
+3 Scavenging Ooze
+3 Atarka's Command
+3 Burning-Tree Emissary
+3 Reckless Bushwhacker
+3 Game Trail
+3 Gruul Spellbreaker
+3 Rootbound Crag
+3 Mountain
+4 Rootbound Crag
+4 Burning-Tree Emissary
+4 Reckless Bushwhacker
+4 Game Trail
 1 Heart of Kiran
 2 Heart of Kiran
 3 Scrapheap Scrounger
@@ -245,36 +275,6 @@
 4 Garruk's Harbinger
 4 Hashep Oasis
 4 Rotting Regisaur
-1 Wildborn Preserver
-1 Cinder Glade
-1 Gruul Spellbreaker
-1 Legion Loyalist
-1 Yorvo, Lord of Garenbrig
-1 Burning-Tree Emissary
-1 Klothys, God of Destiny
-1 Game Trail
-1 Atarka's Command
-1 Reckless Bushwhacker
-2 Burning-Tree Emissary
-2 Cinder Glade
-2 Klothys, God of Destiny
-2 Gruul Spellbreaker
-2 Atarka's Command
-2 Rootbound Crag
-2 Reckless Bushwhacker
-2 Game Trail
-3 Scavenging Ooze
-3 Atarka's Command
-3 Burning-Tree Emissary
-3 Reckless Bushwhacker
-3 Gruul Spellbreaker
-3 Game Trail
-3 Rootbound Crag
-3 Mountain
-4 Reckless Bushwhacker
-4 Burning-Tree Emissary
-4 Game Trail
-4 Rootbound Crag
 1 Ajani, Adversary of Tyrants
 2 Ajani, Adversary of Tyrants
 1 Hangarback Walker
@@ -358,8 +358,8 @@
 1 Rosethorn Acolyte
 1 Sulfur Falls
 2 Possibility Storm
-2 Enter the Infinite
 2 Beanstalk Giant
+2 Enter the Infinite
 2 Steam Vents
 2 Lucky Clover
 2 Fae of Wishes
@@ -371,88 +371,46 @@
 4 Fae of Wishes
 4 Beanstalk Giant
 4 Lucky Clover
+1 Archpriest of Iona
+1 Acquisitions Expert
+1 Luminarch Aspirant
+1 Bloodsoaked Champion
+1 Hamlet Captain
+1 Gust Walker
+2 Archpriest of Iona
+2 Acquisitions Expert
+2 Luminarch Aspirant
+2 Bloodsoaked Champion
+2 Gust Walker
+2 Hamlet Captain
+3 Archpriest of Iona
+3 Luminarch Aspirant
+3 Acquisitions Expert
+4 Archpriest of Iona
+4 Acquisitions Expert
+4 Luminarch Aspirant
 1 Skyclave Apparition
 1 Charming Prince
 1 Spell Queller
 1 Skyclave Cleric
 1 Militia Bugler
 2 Skyclave Apparition
-2 Charming Prince
 2 Branchloft Pathway
+2 Charming Prince
 2 Militia Bugler
 2 Skyclave Cleric
 2 Spell Queller
 3 Skyclave Apparition
-3 Charming Prince
 3 Branchloft Pathway
+3 Charming Prince
 3 Spell Queller
 3 Militia Bugler
-4 Skyclave Apparition
 4 Branchloft Pathway
+4 Skyclave Apparition
 4 Charming Prince
 4 Militia Bugler
 4 Spell Queller
 4 Glasspool Mimic
-1 Acquisitions Expert
-1 Luminarch Aspirant
-1 Archpriest of Iona
-1 Bloodsoaked Champion
-1 Hamlet Captain
-1 Gust Walker
-2 Acquisitions Expert
-2 Luminarch Aspirant
-2 Bloodsoaked Champion
-2 Gust Walker
-2 Archpriest of Iona
-2 Hamlet Captain
-3 Luminarch Aspirant
-3 Acquisitions Expert
-3 Archpriest of Iona
-4 Acquisitions Expert
-4 Luminarch Aspirant
-4 Archpriest of Iona
-1 Drown in the Loch
-1 Fatal Push
-2 Drown in the Loch
-2 Fatal Push
-3 Drown in the Loch
-3 Fatal Push
-4 Watery Grave
-4 Fatal Push
-2 Castle Locthwain
-3 Castle Locthwain
-1 Tasigur, the Golden Fang
-1 Atris, Oracle of Half-Truths
-1 Thief of Sanity
-1 Gifted Aetherborn
-1 Glint-Sleeve Siphoner
-1 Collective Brutality
-1 Aether Hub
-1 Fetid Pools
-1 Kalitas, Traitor of Ghet
-1 Ashiok, Nightmare Weaver
-1 Ashiok, Nightmare Muse
-1 Murderous Rider
-2 Atris, Oracle of Half-Truths
-2 Thief of Sanity
-2 Collective Brutality
-2 Gifted Aetherborn
-2 Aether Hub
-2 Murderous Rider
-2 Ashiok, Nightmare Weaver
-2 Kalitas, Traitor of Ghet
-2 Tasigur, the Golden Fang
-2 Glint-Sleeve Siphoner
-2 Fetid Pools
-3 Fetid Pools
-3 Thief of Sanity
-3 Aether Hub
-3 Glint-Sleeve Siphoner
-3 Murderous Rider
-4 Thief of Sanity
-4 Aether Hub
-4 Glint-Sleeve Siphoner
-4 Fetid Pools
 1 Merfolk Secretkeeper
 1 Narcomoeba
 1 Gather the Pack
@@ -475,6 +433,14 @@
 2 General's Enforcer
 2 Shanna, Sisay's Legacy
 4 Rogue Refiner
+1 Drown in the Loch
+1 Fatal Push
+2 Drown in the Loch
+2 Fatal Push
+3 Drown in the Loch
+3 Fatal Push
+4 Watery Grave
+4 Fatal Push
 4 Swamp
 5 Swamp
 1 Soaring Thought-Thief
@@ -484,16 +450,16 @@
 1 Thieves' Guild Enforcer
 1 Fabled Passage
 1 Mystical Dispute
-2 Nighthawk Scavenger
 2 Soaring Thought-Thief
 2 Zareth San, the Trickster
 2 Eliminate
+2 Nighthawk Scavenger
 2 Mystical Dispute
 2 Thieves' Guild Enforcer
 2 Fabled Passage
 2 Clearwater Pathway
-3 Nighthawk Scavenger
 3 Soaring Thought-Thief
+3 Nighthawk Scavenger
 3 Mystical Dispute
 3 Thieves' Guild Enforcer
 3 Clearwater Pathway
@@ -504,6 +470,8 @@
 4 Drown in the Loch
 4 Island
 4 Thieves' Guild Enforcer
+2 Castle Locthwain
+3 Castle Locthwain
 3 Godless Shrine
 4 Godless Shrine
 1 Isolated Chapel
@@ -576,6 +544,38 @@
 4 Seasoned Hallowblade
 4 Heart of Kiran
 4 Toolcraft Exemplar
+1 Aether Hub
+1 Fetid Pools
+1 Ashiok, Nightmare Muse
+1 Tasigur, the Golden Fang
+1 Atris, Oracle of Half-Truths
+1 Gifted Aetherborn
+1 Glint-Sleeve Siphoner
+1 Collective Brutality
+1 Thief of Sanity
+1 Kalitas, Traitor of Ghet
+1 Ashiok, Nightmare Weaver
+1 Murderous Rider
+2 Aether Hub
+2 Fetid Pools
+2 Atris, Oracle of Half-Truths
+2 Collective Brutality
+2 Gifted Aetherborn
+2 Thief of Sanity
+2 Murderous Rider
+2 Ashiok, Nightmare Weaver
+2 Kalitas, Traitor of Ghet
+2 Tasigur, the Golden Fang
+2 Glint-Sleeve Siphoner
+3 Aether Hub
+3 Fetid Pools
+3 Thief of Sanity
+3 Glint-Sleeve Siphoner
+3 Murderous Rider
+4 Aether Hub
+4 Glint-Sleeve Siphoner
+4 Fetid Pools
+4 Thief of Sanity
 1 Thalia, Heretic Cathar
 1 Inspiring Vantage
 1 Kitesail Freebooter

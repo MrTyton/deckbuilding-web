@@ -43,8 +43,8 @@
 3 Thoughtseize
 3 Gitaxian Probe
 4 Ponder
-4 Preordain
 4 Chrome Mox
+4 Preordain
 4 Thoughtseize
 4 Dark Confidant
 4 Gitaxian Probe
@@ -113,6 +113,7 @@
 1 Snow-Covered Mountain
 1 Spell Queller
 1 Sacred Foundry
+1 Fae of Wishes
 1 Prismatic Vista
 1 Narset of the Ancient Way
 1 Chandra, Torch of Defiance
@@ -120,7 +121,6 @@
 1 Delay
 1 Drannith Magistrate
 1 Jace, the Mind Sculptor
-1 Fae of Wishes
 1 Reverse the Sands
 1 Snow-Covered Plains
 1 Spellskite
@@ -132,8 +132,8 @@
 2 Narset of the Ancient Way
 2 Prismatic Vista
 2 Spellskite
-2 Delay
 2 Drannith Magistrate
+2 Delay
 2 Possibility Storm
 2 Chandra, Torch of Defiance
 2 Jace, the Mind Sculptor
@@ -293,13 +293,13 @@
 1 Through the Breach
 1 Gemstone Caverns
 1 Charming Prince
-1 Elesh Norn, Grand Cenobite
 1 Wooded Foothills
 1 Utopia Sprawl
 1 Emrakul, the Aeons Torn
 1 Flickerwisp
 1 Dubious Challenge
 1 Vizier of Remedies
+1 Elesh Norn, Grand Cenobite
 1 Temple Garden
 1 Devoted Druid
 1 Misty Rainforest

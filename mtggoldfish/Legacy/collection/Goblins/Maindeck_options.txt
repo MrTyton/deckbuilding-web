@@ -1,4 +1,7 @@
+2 Arid Mesa
+1 Wooded Foothills
 3 Muxus, Goblin Grandee
+3 Mogg War Marshal
 4 Muxus, Goblin Grandee
 1 Warren Instigator
 1 Chrome Mox
@@ -6,10 +9,10 @@
 2 Warren Instigator
 3 Chrome Mox
 3 Warren Instigator
+5 Mountain
 1 Goblin Chieftain
 1 Ancient Tomb
 4 Goblin Ringleader
-5 Mountain
 1 Chalice of the Void
 2 Chalice of the Void
 2 Ancient Tomb
@@ -28,21 +31,20 @@
 1 City of Traitors
 2 City of Traitors
 4 Goblin Warchief
-2 Arid Mesa
-3 Mogg War Marshal
-1 Wooded Foothills
 1 Legion Warboss
 2 Legion Warboss
 3 Badlands
-4 Goblin Rabblemaster
-10 Mountain
 3 Goblin Cratermaker
+10 Mountain
+4 Goblin Rabblemaster
 2 Wooded Foothills
 3 Goblin Piledriver
 2 Goblin Chieftain
 1 Scalding Tarn
 1 Gaea's Cradle
 1 Snow-Covered Swamp
+3 Arid Mesa
+2 Gempalm Incinerator
 1 Goblin Trashmaster
 2 Pashalik Mons
 1 Fissure Wizard
@@ -53,8 +55,6 @@
 3 Reanimate
 11 Mountain
 12 Mountain
-3 Arid Mesa
-2 Gempalm Incinerator
 1 Snow-Covered Mountain
 1 Blood Crypt
 4 Rishadan Port
@@ -62,8 +62,8 @@
 1 Goblin Sharpshooter
 2 Snow-Covered Mountain
 2 Scalding Tarn
-3 Scalding Tarn
 3 Snow-Covered Mountain
+3 Scalding Tarn
 4 Scalding Tarn
 4 Snow-Covered Mountain
 1 Krenko, Mob Boss
@@ -80,3 +80,14 @@
 2 Goblin Guide
 3 Goblin Guide
 4 Goblin Guide
+1 Daze
+1 Brainstorm
+1 Volcanic Island
+2 Volcanic Island
+2 Brainstorm
+2 Daze
+3 Volcanic Island
+3 Daze
+3 Brainstorm
+4 Daze
+4 Brainstorm

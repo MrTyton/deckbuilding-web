@@ -41,8 +41,8 @@
 1 Temple of Abandon
 2 Temple of Abandon
 4 Scavenging Ooze
-1 Nahiri's Lithoforming
 1 Valakut Exploration
+1 Nahiri's Lithoforming
 2 Valakut Exploration
 2 Nahiri's Lithoforming
 3 Valakut Exploration
@@ -64,16 +64,23 @@
 1 Khalni Ambush
 2 Khalni Ambush
 2 Song-Mad Treachery
-1 Wildwood Tracker
-2 Wildwood Tracker
-3 Wildwood Tracker
 1 Everquill Phoenix
 2 Everquill Phoenix
 3 Everquill Phoenix
+1 Wildwood Tracker
+2 Wildwood Tracker
+3 Wildwood Tracker
 1 Gilded Goose
 2 Gilded Goose
 3 Gilded Goose
 4 Gilded Goose
+1 Garruk, Unleashed
+2 Garruk, Unleashed
+2 Klothys, God of Destiny
+2 Primal Might
+3 Primal Might
+3 Temple of Abandon
+4 Temple of Abandon
 1 Thundering Rebuke
 2 Thundering Rebuke
 3 Thundering Rebuke
@@ -88,32 +95,25 @@
 2 Skyclave Geopede
 3 Skyclave Pick-Axe
 4 Skyclave Pick-Axe
-1 Garruk, Unleashed
-2 Klothys, God of Destiny
-2 Garruk, Unleashed
-2 Primal Might
-3 Primal Might
-3 Temple of Abandon
-4 Temple of Abandon
-1 Inscription of Abundance
 1 Storm's Wrath
+1 Inscription of Abundance
 1 Elder Gargaroth
-2 Storm's Wrath
 2 Inscription of Abundance
+2 Storm's Wrath
 2 Elder Gargaroth
-3 Inscription of Abundance
-3 Elder Gargaroth
 3 Storm's Wrath
-4 Inscription of Abundance
+3 Elder Gargaroth
+3 Inscription of Abundance
 4 Storm's Wrath
-1 Omnath, Locus of Creation
+4 Inscription of Abundance
 1 Needleverge Pathway
 1 Riverglide Pathway
 1 Fireblade Charger
+1 Omnath, Locus of Creation
+2 Needleverge Pathway
 2 Omnath, Locus of Creation
 2 Riverglide Pathway
 2 Fireblade Charger
-2 Needleverge Pathway
 3 Needleverge Pathway
 3 Riverglide Pathway
 3 Fireblade Charger
@@ -125,20 +125,20 @@
 3 Kazuul's Fury
 3 Nahiri's Lithoforming
 4 Nahiri's Lithoforming
-1 Shatterskull Charger
 1 Leyline Tyrant
+1 Shatterskull Charger
 2 Shatterskull Charger
 2 Leyline Tyrant
-3 Leyline Tyrant
 3 Shatterskull Charger
+3 Leyline Tyrant
 4 Leyline Tyrant
 4 Valakut Exploration
 4 Shatterskull Charger
 1 Territorial Scythecat
 1 Scute Swarm
 1 Ancient Greenwarden
-2 Beanstalk Giant
 2 Cleansing Wildfire
+2 Beanstalk Giant
 2 Territorial Scythecat
 3 Cleansing Wildfire
 3 Territorial Scythecat
@@ -146,7 +146,7 @@
 4 Cleansing Wildfire
 4 Beanstalk Giant
 4 Territorial Scythecat
-9 Mountain
 9 Forest
-10 Forest
+9 Mountain
 10 Mountain
+10 Forest

@@ -28,13 +28,15 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)       |                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848) |
-|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    1|[Ichor Wellspring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389551) |
-|                    1|[Enlightened Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15355)|                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)|
-|                    2|[Plateau](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=880)            |                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)      |
-|                    2|[Enlightened Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15355)|                    2|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)      |
-|                    3|[Enlightened Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15355)|                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)      |
-|                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)       |                     |                                                                                            |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    1|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)       |                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)           |
+|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)   |                    2|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)           |
+|                    1|[Enlightened Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15355)|                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)           |
+|                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)       |                    1|[Ichor Wellspring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389551)      |
+|                    2|[Enlightened Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15355)|                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)     |
+|                    2|[Plateau](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=880)            |                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)      |
+|                    3|[Enlightened Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15355)|                    1|[Chains of Mephistopheles](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1431)|
+|                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)|                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)           |
+|                    1|[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255)|                     |                                                                                                 |
 
