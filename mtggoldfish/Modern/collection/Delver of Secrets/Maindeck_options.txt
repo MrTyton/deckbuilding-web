@@ -1,20 +1,20 @@
-2 Drown in the Loch
-2 Remand
-3 Archmage's Charm
-1 Spell Pierce
-1 Hallowed Fountain
-1 Lightning Helix
-1 Sacred Foundry
 1 Path to Exile
 2 Lightning Helix
 2 Path to Exile
+2 Remand
+1 Spell Pierce
+2 Drown in the Loch
+1 Archmage's Charm
+2 Archmage's Charm
+3 Lightning Helix
+1 Kolaghan's Command
 1 Mystic Sanctuary
+3 Path to Exile
 1 Sleight of Hand
 2 Sleight of Hand
 3 Sleight of Hand
 1 Seachrome Coast
 2 Seachrome Coast
-3 Lightning Helix
 3 Remand
 3 Mana Leak
 1 Thought Scour
@@ -24,41 +24,38 @@
 3 Thought Scour
 4 Thought Scour
 4 Snapcaster Mage
+3 Archmage's Charm
 1 Plains
-3 Path to Exile
 1 Sword of Fire and Ice
 1 Batterskull
 1 Mantis Rider
 1 Stoneforge Mystic
-2 Mantis Rider
 2 Stoneforge Mystic
+2 Mantis Rider
 3 Stoneforge Mystic
 3 Mantis Rider
+4 Stoneforge Mystic
 4 Sleight of Hand
 4 Mantis Rider
-4 Stoneforge Mystic
 4 Force of Negation
 4 Remand
-1 Fatal Push
-2 Mystic Sanctuary
-1 Seal of Fire
-1 Unearth
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
-2 Fatal Push
+1 Misty Rainforest
+2 Misty Rainforest
 1 Mountain
 3 Spirebluff Canal
 1 Manamorphose
 1 Stormwing Entity
 2 Stormwing Entity
 2 Manamorphose
-3 Stormwing Entity
 3 Manamorphose
+3 Stormwing Entity
 4 Manamorphose
-1 Misty Rainforest
-2 Misty Rainforest
-1 Breeding Pool
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
+1 Unearth
+1 Fatal Push
 1 Forest
+1 Breeding Pool
 1 Stubborn Denial
 1 Tarmogoyf
 2 Tarmogoyf
@@ -72,12 +69,9 @@
 2 Disrupting Shoal
 3 Disrupting Shoal
 4 Disrupting Shoal
+2 Mystic Sanctuary
 1 Snow-Covered Island
-1 Snow-Covered Swamp
 3 Drown in the Loch
-1 Darkslick Shores
-2 Darkslick Shores
-1 Swamp
 1 Thoughtseize
 1 Thieves' Guild Enforcer
 2 Thieves' Guild Enforcer
@@ -85,12 +79,17 @@
 3 Thieves' Guild Enforcer
 4 Drown in the Loch
 4 Thieves' Guild Enforcer
-4 Archmage's Charm
+1 Swamp
+1 Darkslick Shores
+2 Darkslick Shores
+1 Seal of Fire
+2 Hallowed Fountain
+2 Fatal Push
 4 Mana Leak
 3 Island
-1 Cling to Dust
+4 Archmage's Charm
+1 Snow-Covered Swamp
 4 Tarmogoyf
-2 Snow-Covered Island
 1 Uro, Titan of Nature's Wrath
 1 Wooded Foothills
 1 Hexdrinker
@@ -107,14 +106,10 @@
 4 Stormwing Entity
 3 Darkslick Shores
 2 Spell Snare
-2 Hallowed Fountain
 3 Kolaghan's Command
-1 Arcum's Astrolabe
-2 Arcum's Astrolabe
-3 Arcum's Astrolabe
-3 Snow-Covered Island
-4 Snow-Covered Island
 3 Steam Vents
+1 Cling to Dust
+2 Snow-Covered Island
 1 Vapor Snag
 1 Lava Dart
 2 Lava Dart
@@ -160,34 +155,34 @@
 2 Magmatic Sinkhole
 4 Island
 4 Steam Vents
-1 Deprive
 2 Seal of Fire
-1 Spellstutter Sprite
-2 Spellstutter Sprite
-3 Spellstutter Sprite
-4 Spellstutter Sprite
-1 Snow-Covered Mountain
-1 Cryptic Command
-3 Fatal Push
-4 Arcum's Astrolabe
-4 Fatal Push
 2 Brazen Borrower
 1 Hooting Mandrills
 1 Botanical Sanctum
 1 Stomping Ground
 2 Hooting Mandrills
 3 Hooting Mandrills
+1 Spellstutter Sprite
+2 Spellstutter Sprite
+3 Spellstutter Sprite
+4 Spellstutter Sprite
+1 Arcum's Astrolabe
+2 Arcum's Astrolabe
+3 Arcum's Astrolabe
+3 Snow-Covered Island
+4 Snow-Covered Island
+1 Snow-Covered Mountain
 2 Vapor Snag
+1 Deprive
 1 Blackcleave Cliffs
-2 Cryptic Command
-2 Cling to Dust
 2 Unearth
+2 Cling to Dust
 1 Gurmag Angler
 1 Terminate
 1 Young Pyromancer
 2 Terminate
-2 Young Pyromancer
 2 Gurmag Angler
+2 Young Pyromancer
 1 Tarfire
 1 Blossoming Defense
 1 Flame Slash
@@ -195,27 +190,40 @@
 2 Flame Slash
 2 Blossoming Defense
 3 Tarfire
-1 Bitterblossom
-1 Field of Ruin
-1 Creeping Tar Pit
-2 Bitterblossom
-2 Field of Ruin
-3 Bitterblossom
-4 Bitterblossom
 1 Visions of Beyond
 2 Visions of Beyond
 3 Visions of Beyond
 4 Visions of Beyond
+1 Cryptic Command
+1 Bitterblossom
+1 Creeping Tar Pit
+1 Field of Ruin
+2 Bitterblossom
+2 Field of Ruin
+3 Bitterblossom
+3 Fatal Push
+4 Arcum's Astrolabe
+4 Bitterblossom
+4 Fatal Push
 1 Mutagenic Growth
 2 Mutagenic Growth
 4 Hooting Mandrills
-1 Fact or Fiction
+1 Dreadhorde Arcanist
+1 Ancestral Vision
+2 Dreadhorde Arcanist
+2 Ancestral Vision
+3 Hallowed Fountain
+3 Dreadhorde Arcanist
+3 Ancestral Vision
+4 Ancestral Vision
+4 Dreadhorde Arcanist
 1 Raugrin Triome
+1 Fact or Fiction
 1 Shadow of Doubt
 1 Brineborn Cutthroat
 2 Fact or Fiction
-2 Shadow of Doubt
 2 Brineborn Cutthroat
+2 Shadow of Doubt
 3 Brineborn Cutthroat
 4 Brineborn Cutthroat
 1 Blood Moon

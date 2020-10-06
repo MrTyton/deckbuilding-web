@@ -50,6 +50,11 @@
 1 Den Protector
 2 Gurmag Angler
 2 Den Protector
+1 Korvold, Fae-Cursed King
+1 Tireless Tracker
+2 Korvold, Fae-Cursed King
+2 Assassin's Trophy
+2 Tireless Tracker
 1 Negate
 1 Aether Gust
 1 Questing Beast
@@ -71,11 +76,6 @@
 1 Xathrid Necromancer
 2 Xathrid Necromancer
 2 Knight of Autumn
-1 Korvold, Fae-Cursed King
-1 Tireless Tracker
-2 Assassin's Trophy
-2 Tireless Tracker
-2 Korvold, Fae-Cursed King
 1 Disdainful Stroke
 2 Disdainful Stroke
 1 Grafdigger's Cage
@@ -98,8 +98,17 @@
 2 Knight of the White Orchid
 2 Selfless Spirit
 2 Dusk / Dawn
-1 Damping Sphere
 3 Mystical Dispute
+1 Aethersphere Harvester
+1 Fumigate
+1 Thalia, Heretic Cathar
+1 Absorb
+1 Devout Decree
+2 Thalia, Heretic Cathar
+2 Devout Decree
+2 Absorb
+3 Thalia, Heretic Cathar
+1 Damping Sphere
 1 Fabled Passage
 1 Possibility Storm
 1 Fry
@@ -130,15 +139,6 @@
 2 Gideon, Ally of Zendikar
 2 Voice of Resurgence
 3 Voice of Resurgence
-1 Aethersphere Harvester
-1 Fumigate
-1 Thalia, Heretic Cathar
-1 Absorb
-1 Devout Decree
-2 Thalia, Heretic Cathar
-2 Devout Decree
-2 Absorb
-3 Thalia, Heretic Cathar
 1 Cast Down
 1 Murderous Rider
 1 Despark
@@ -165,16 +165,16 @@
 1 Pelakka Predation
 1 Hagra Mauling
 1 Into the Roil
+1 Leyline of the Void
 1 Disfigure
 1 Witch's Vengeance
-1 Leyline of the Void
+2 Leyline of the Void
 2 Witch's Vengeance
 2 Into the Roil
 2 Disfigure
-2 Leyline of the Void
-3 Witch's Vengeance
-3 Into the Roil
 3 Leyline of the Void
+3 Into the Roil
+3 Witch's Vengeance
 4 Witch's Vengeance
 4 Leyline of the Void
 1 Cling to Dust

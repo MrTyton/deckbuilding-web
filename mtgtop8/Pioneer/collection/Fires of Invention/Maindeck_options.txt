@@ -76,6 +76,7 @@
 3 Fae of Wishes
 1 Jace, Architect of Thought
 2 Jace, Architect of Thought
+1 Dragonskull Summit
 1 Nicol Bolas, the Ravager
 1 Blood Crypt
 1 Search for Azcanta
@@ -83,13 +84,12 @@
 1 Swamp
 1 Watery Grave
 1 Drowned Catacomb
-1 Dragonskull Summit
+2 Dragonskull Summit
 2 Blood Crypt
 2 Dreadbore
 2 Watery Grave
 2 Drowned Catacomb
 2 Nicol Bolas, the Ravager
-2 Dragonskull Summit
 3 Blood Crypt
 3 Watery Grave
 3 Drowned Catacomb
@@ -97,8 +97,8 @@
 1 Irrigated Farmland
 1 Narset of the Ancient Way
 2 Irrigated Farmland
-2 Baffling End
 2 Narset of the Ancient Way
+2 Baffling End
 3 Irrigated Farmland
 3 Oath of Chandra
 3 Gideon of the Trials
@@ -121,14 +121,14 @@
 1 Thought Erasure
 1 Canyon Slough
 1 Fetid Pools
-1 Sweltering Suns
 1 Kalitas, Traitor of Ghet
+1 Sweltering Suns
 1 Fatal Push
 1 Aetherling
 2 Thought Erasure
-2 Kalitas, Traitor of Ghet
 2 Canyon Slough
 2 Search for Azcanta
+2 Kalitas, Traitor of Ghet
 2 Sweltering Suns
 2 Fatal Push
 3 Thought Erasure
@@ -138,18 +138,19 @@
 3 Jace, Architect of Thought
 3 Dreadbore
 4 Thought Erasure
+4 Blood Crypt
 4 Drowned Catacomb
 4 Dragonskull Summit
 4 Fatal Push
 4 Watery Grave
 4 Sweltering Suns
-4 Blood Crypt
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 1 Castle Embereth
+1 Mutavault
 1 Soul-Scar Mage
-1 Kari Zev, Skyship Raider
 1 Omen of the Forge
+1 Kari Zev, Skyship Raider
 1 Earthshaker Khenra
 1 Wild Slash
 1 Anax, Hardened in the Forge
@@ -157,10 +158,10 @@
 1 Goblin Rabblemaster
 1 Inspiring Vantage
 1 Purphoros, God of the Forge
-1 Mutavault
 1 Pia and Kiran Nalaar
 1 Battlefield Forge
 2 Clifftop Retreat
+2 Mutavault
 2 Soul-Scar Mage
 2 Omen of the Forge
 2 Kari Zev, Skyship Raider
@@ -173,19 +174,18 @@
 2 Purphoros, God of the Forge
 2 Inspiring Vantage
 2 Siege-Gang Commander
-2 Mutavault
 2 Battlefield Forge
 2 Castle Embereth
 3 Pia and Kiran Nalaar
 3 Soul-Scar Mage
 3 Earthshaker Khenra
+3 Clifftop Retreat
 3 Wild Slash
 3 Goblin Rabblemaster
 3 Purphoros, God of the Forge
 3 Mutavault
 3 Inspiring Vantage
 3 Anax, Hardened in the Forge
-3 Clifftop Retreat
 3 Omen of the Forge
 3 Bonecrusher Giant
 3 Battlefield Forge
@@ -228,8 +228,8 @@
 1 Sunpetal Grove
 1 Hinterland Harbor
 1 Cavalier of Flame
-1 Emeria's Call
 1 Kenrith, the Returned King
+1 Emeria's Call
 1 Azorius Charm
 1 Felidar Retreat
 1 Escape to the Wilds

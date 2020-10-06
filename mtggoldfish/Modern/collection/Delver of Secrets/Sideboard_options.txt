@@ -1,19 +1,18 @@
 1 Spell Pierce
-1 Path to Exile
 1 Geist of Saint Traft
 1 Rest in Peace
 1 Force of Negation
 2 Rest in Peace
-1 Nihil Spellbomb
-1 Disdainful Stroke
-1 Fatal Push
-2 Nihil Spellbomb
-1 Flusterstorm
-1 Seal of Fire
-2 Engineered Explosives
-1 Timely Reinforcements
 1 Lightning Helix
+3 Collective Brutality
+1 Disdainful Stroke
+2 Engineered Explosives
+1 Fatal Push
 1 Tormod's Crypt
+1 Nihil Spellbomb
+1 Flusterstorm
+1 Timely Reinforcements
+2 Nihil Spellbomb
 1 Cling to Dust
 1 Alpine Moon
 2 Alpine Moon
@@ -29,9 +28,11 @@
 1 Ancient Grudge
 2 Firespout
 3 Veil of Summer
+1 Seal of Fire
 2 Flusterstorm
-1 Damping Sphere
 1 Wear/Tear
+2 Tormod's Crypt
+1 Damping Sphere
 1 Unearth
 2 Fatal Push
 2 Spell Pierce
@@ -46,7 +47,6 @@
 3 Ceremonious Rejection
 3 Spell Pierce
 1 Detention Sphere
-2 Tormod's Crypt
 1 Young Pyromancer
 1 Brazen Borrower
 2 Brazen Borrower
@@ -65,7 +65,6 @@
 2 Entrancing Melody
 1 Deflecting Palm
 1 Heliod's Intervention
-1 Kolaghan's Command
 1 Mana Leak
 1 Dovin's Veto
 1 Celestial Purge
@@ -74,6 +73,8 @@
 2 Damping Sphere
 1 Kor Firewalker
 2 Kor Firewalker
+1 Meddling Mage
+2 Meddling Mage
 1 Infernal Reckoning
 2 Infernal Reckoning
 1 Thoughtseize
@@ -103,10 +104,6 @@
 2 Anger of the Gods
 2 Relic of Progenitus
 3 Abrade
-1 Grafdigger's Cage
-2 Grafdigger's Cage
-3 Grafdigger's Cage
-3 Feed the Clan
 3 Nihil Spellbomb
 1 Magma Spray
 1 Roast
@@ -115,6 +112,10 @@
 2 Roast
 3 Magma Spray
 3 Spell Snare
+1 Grafdigger's Cage
+2 Grafdigger's Cage
+3 Feed the Clan
+3 Grafdigger's Cage
 1 Great Sable Stag
 2 Great Sable Stag
 3 Great Sable Stag

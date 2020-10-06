@@ -31,9 +31,9 @@
 2 Thopter Foundry
 2 Thespian's Stage
 2 Urborg, Tomb of Yawgmoth
-3 Watery Grave
 3 Ponder
 3 Chrome Mox
+3 Watery Grave
 3 Preordain
 3 Urborg, Tomb of Yawgmoth
 3 Dark Confidant
@@ -67,7 +67,6 @@
 2 Pentad Prism
 3 Pentad Prism
 4 Pentad Prism
-1 Agadeem's Awakening
 1 Vengevine
 1 Creeping Chill
 1 Narcomoeba
@@ -76,12 +75,13 @@
 1 Balustrade Spy
 1 Emeria's Call
 1 Salvage Titan
+1 Agadeem's Awakening
 1 Undercity Informer
-2 Agadeem's Awakening
 2 Vengevine
 2 Narcomoeba
 2 Creeping Chill
 2 Emeria's Call
+2 Agadeem's Awakening
 2 Undercity Informer
 2 Pelakka Predation
 2 Balustrade Spy
@@ -115,21 +115,22 @@
 1 Sacred Foundry
 1 Prismatic Vista
 1 Narset of the Ancient Way
+1 Fae of Wishes
 1 Chandra, Torch of Defiance
 1 Commandeer
-1 Delay
 1 Drannith Magistrate
+1 Delay
+1 Spellskite
 1 Jace, the Mind Sculptor
-1 Fae of Wishes
 1 Reverse the Sands
 1 Snow-Covered Plains
-1 Spellskite
 1 Possibility Storm
 2 Wall of Omens
 2 Snow-Covered Mountain
 2 Spell Queller
 2 Snow-Covered Plains
 2 Narset of the Ancient Way
+2 Fae of Wishes
 2 Prismatic Vista
 2 Spellskite
 2 Delay
@@ -138,17 +139,16 @@
 2 Chandra, Torch of Defiance
 2 Jace, the Mind Sculptor
 2 Flooded Strand
-2 Fae of Wishes
 2 Commandeer
 3 Snow-Covered Island
 3 Spell Queller
 3 Wall of Omens
+3 Fae of Wishes
 3 Prismatic Vista
 3 Arid Mesa
-3 Drannith Magistrate
 3 Delay
+3 Drannith Magistrate
 3 Flooded Strand
-3 Fae of Wishes
 3 Snow-Covered Plains
 3 Possibility Storm
 3 Scalding Tarn
@@ -170,10 +170,16 @@
 1 Defense Grid
 2 Defense Grid
 3 Defense Grid
-1 Chalice of the Void
-2 Chalice of the Void
-3 Chalice of the Void
-4 Chalice of the Void
+1 Worldspine Wurm
+1 Sphere of the Suns
+1 Wild Cantor
+2 Wild Cantor
+2 Sphere of the Suns
+3 Wild Cantor
+3 Sphere of the Suns
+4 Emeria's Call
+4 Wild Cantor
+4 Sword of the Meek
 1 Nexus of Fate
 1 Talisman of Resilience
 1 Hagra Mauling
@@ -190,16 +196,10 @@
 2 Veil of Summer
 3 Veil of Summer
 4 Veil of Summer
-1 Worldspine Wurm
-1 Sphere of the Suns
-1 Wild Cantor
-2 Sphere of the Suns
-2 Wild Cantor
-3 Wild Cantor
-3 Sphere of the Suns
-4 Wild Cantor
-4 Sword of the Meek
-4 Emeria's Call
+1 Chalice of the Void
+2 Chalice of the Void
+3 Chalice of the Void
+4 Chalice of the Void
 1 Hallowed Fountain
 1 Island
 1 Mission Briefing
@@ -251,8 +251,9 @@
 4 Pact of Negation
 4 Sea Gate Restoration
 1 Plains
-1 Talisman of Dominance
 1 Wishclaw Talisman
+1 Talisman of Dominance
+1 Jace, Wielder of Mysteries
 1 Serum Visions
 1 Gemstone Mine
 1 Shelldock Isle
@@ -261,19 +262,17 @@
 1 Thassa's Oracle
 1 Spoils of the Vault
 1 City of Brass
-1 Jace, Wielder of Mysteries
 2 Talisman of Dominance
-2 Wishclaw Talisman
+2 Jace, Wielder of Mysteries
 2 Spoils of the Vault
 2 Shelldock Isle
 2 Inverter of Truth
 2 Thassa's Oracle
-2 Jace, Wielder of Mysteries
 2 Gemstone Mine
 2 City of Brass
 2 Serum Visions
+2 Wishclaw Talisman
 2 Angel's Grace
-3 Shelldock Isle
 3 Talisman of Dominance
 3 Gemstone Mine
 3 City of Brass
@@ -281,12 +280,13 @@
 3 Serum Visions
 3 Angel's Grace
 3 Spoils of the Vault
+3 Shelldock Isle
 3 Inverter of Truth
 3 Thassa's Oracle
-4 Shelldock Isle
 4 Thassa's Oracle
 4 Serum Visions
 4 Spoils of the Vault
+4 Shelldock Isle
 4 Inverter of Truth
 4 Angel's Grace
 1 Windswept Heath

@@ -26,12 +26,12 @@
 1 Prismatic Vista
 1 Temple Garden
 1 Gavony Township
+1 Idyllic Grange
 1 Auriok Champion
 1 Hardened Scales
 1 Walking Ballista
 1 Heliod, Sun-Crowned
 1 Collected Company
-1 Idyllic Grange
 2 Ranger-Captain of Eos
 2 Spike Feeder
 2 Conclave Mentor
@@ -59,20 +59,19 @@
 4 Heliod, Sun-Crowned
 4 Collected Company
 1 Misty Rainforest
+1 Watery Grave
 1 Smuggler's Copter
 1 Brazen Borrower
 1 Polluted Delta
-1 Watery Grave
 2 Polluted Delta
 1 Overgrown Tomb
+1 Ice-Fang Coatl
 1 Disrupting Shoal
 1 Snow-Covered Swamp
-1 Spellstutter Sprite
 1 Snow-Covered Forest
-1 Ice-Fang Coatl
+1 Spellstutter Sprite
 1 Drown in the Loch
 1 Breeding Pool
-1 Fatal Push
 1 Abrupt Decay
 1 Force of Negation
 1 Faerie Seer
@@ -84,24 +83,25 @@
 1 Mana Leak
 1 Darkslick Shores
 1 Botanical Sanctum
+1 Fatal Push
 1 Fallen Shinobi
 2 Misty Rainforest
+2 Ice-Fang Coatl
 2 Disrupting Shoal
 2 Spellstutter Sprite
-2 Ice-Fang Coatl
-2 Fatal Push
 2 Snow-Covered Island
 2 Force of Negation
 2 Gilded Goose
+2 Fatal Push
 2 Botanical Sanctum
 2 Brazen Borrower
 2 Darkslick Shores
 2 Ingenious Infiltrator
 2 Mana Leak
 2 Faerie Seer
+3 Ice-Fang Coatl
 3 Disrupting Shoal
 3 Spellstutter Sprite
-3 Ice-Fang Coatl
 3 Misty Rainforest
 3 Brazen Borrower
 3 Snow-Covered Island
@@ -111,8 +111,8 @@
 3 Gilded Goose
 3 Polluted Delta
 3 Darkslick Shores
-4 Spellstutter Sprite
 4 Ice-Fang Coatl
+4 Spellstutter Sprite
 4 Fatal Push
 4 Faerie Seer
 4 Ingenious Infiltrator
@@ -179,15 +179,15 @@
 1 Blooming Marsh
 1 Traverse the Ulvenwald
 1 Nurturing Peatland
-1 Ghor-Clan Rampager
 1 Swamp
 1 Grisly Salvage
+1 Ghor-Clan Rampager
 1 Bomat Courier
-1 Sylvan Caryatid
+1 Collective Brutality
 1 Soulflayer
 1 Lightning Axe
-1 Collective Brutality
 1 Gather the Pack
+1 Sylvan Caryatid
 1 Drogskol Reaver
 1 Samut, Voice of Dissent
 1 Cavern of Souls
@@ -197,9 +197,8 @@
 2 Traverse the Ulvenwald
 2 Blooming Marsh
 2 Swamp
-2 Bomat Courier
 2 Verdant Catacombs
-2 Sylvan Caryatid
+2 Bomat Courier
 2 Blood Crypt
 2 Drogskol Reaver
 2 Samut, Voice of Dissent
@@ -208,15 +207,16 @@
 2 Grisly Salvage
 2 Gather the Pack
 2 Soulflayer
+2 Sylvan Caryatid
 3 Verdant Catacombs
 3 Traverse the Ulvenwald
 3 Bomat Courier
-3 Sylvan Caryatid
 3 Zetalpa, Primal Dawn
 3 Gather the Pack
 3 Grisly Salvage
 3 Drogskol Reaver
 3 Soulflayer
+3 Sylvan Caryatid
 3 Bloodstained Mire
 3 Lotleth Troll
 3 Samut, Voice of Dissent
@@ -228,8 +228,8 @@
 4 Gather the Pack
 4 Bloodstained Mire
 4 Soulflayer
-1 Marsh Flats
 1 Silent Clearing
+1 Marsh Flats
 1 Godless Shrine
 1 Mutavault
 1 Island

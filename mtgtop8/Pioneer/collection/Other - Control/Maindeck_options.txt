@@ -1,8 +1,8 @@
 2 Omnath, Locus of Creation
+2 Lotus Cobra
 2 Felidar Retreat
 2 Raugrin Triome
 2 Teferi, Time Raveler
-2 Lotus Cobra
 3 Lotus Cobra
 3 Omnath, Locus of Creation
 3 Teferi, Time Raveler
@@ -30,16 +30,16 @@
 1 Geier Reach Sanitarium
 1 Cling to Dust
 1 Thing in the Ice
+1 Choked Estuary
 1 Narset, Parter of Veils
 1 Day's Undoing
 1 Ashiok, Nightmare Muse
 1 Kalitas, Traitor of Ghet
 1 Brazen Borrower
-1 Choked Estuary
 2 Thing in the Ice
+2 Choked Estuary
 2 Brazen Borrower
 2 Heartless Act
-2 Choked Estuary
 2 Narset, Parter of Veils
 3 Fetid Pools
 3 Thing in the Ice
@@ -48,8 +48,8 @@
 1 Field of Ruin
 3 Swamp
 2 Field of Ruin
-3 Sinister Sabotage
 3 Torrential Gearhulk
+3 Sinister Sabotage
 4 Sinister Sabotage
 5 Island
 1 Stomping Ground
@@ -72,16 +72,16 @@
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
-1 Sea Gate Restoration
 1 Nahiri, the Harbinger
 1 Turntimber Symbiosis
 1 Clifftop Retreat
+1 Sea Gate Restoration
 1 Agent of Treachery
-2 Sea Gate Restoration
 2 Turntimber Symbiosis
 2 Cultivate
 2 Evolving Wilds
 2 Agent of Treachery
+2 Sea Gate Restoration
 2 Genesis Ultimatum
 3 Ketria Triome
 3 Genesis Ultimatum
@@ -96,15 +96,15 @@
 4 Agent of Treachery
 4 Teferi, Time Raveler
 1 Shambling Vent
+1 Basilica Bell-Haunt
 1 Flicker of Fate
 1 Treacherous Blessing
 1 Mazemind Tome
-1 Concealed Courtyard
-1 Basilica Bell-Haunt
 1 Trial of Ambition
 1 Elspeth Conquers Death
 1 Starfield of Nyx
 1 Oath of Kaya
+1 Concealed Courtyard
 1 Savai Triome
 1 The Birth of Meletis
 1 Isolated Chapel
@@ -123,9 +123,9 @@
 2 Yorion, Sky Nomad
 2 Shambling Vent
 2 Elspeth Conquers Death
-2 Concealed Courtyard
 2 Mazemind Tome
 2 Plains
+2 Concealed Courtyard
 2 Doom Foretold
 2 Kaya's Wrath
 2 Castle Ardenvale
@@ -139,9 +139,9 @@
 3 Treacherous Blessing
 3 Shambling Vent
 3 Mazemind Tome
-3 Concealed Courtyard
 3 Oath of Kaya
 3 The Birth of Meletis
+3 Concealed Courtyard
 3 Kaya's Wrath
 3 Plains
 3 Godless Shrine
@@ -153,33 +153,33 @@
 4 Isolated Chapel
 4 Shambling Vent
 4 Mazemind Tome
-4 Concealed Courtyard
-4 Godless Shrine
-4 Doom Foretold
 4 Kaya's Wrath
+4 Godless Shrine
+4 Concealed Courtyard
+4 Doom Foretold
 5 Plains
 6 Plains
 1 Blood Crypt
 1 Dragonskull Summit
-1 Murderous Rider
 1 Kroxa, Titan of Death's Hunger
-2 Dragonskull Summit
+1 Murderous Rider
 2 Blood Crypt
-2 Murderous Rider
+2 Dragonskull Summit
 2 Kroxa, Titan of Death's Hunger
+2 Murderous Rider
 3 Blood Crypt
 3 Dragonskull Summit
 3 Kroxa, Titan of Death's Hunger
 4 Kroxa, Titan of Death's Hunger
 4 Blood Crypt
+1 Glimmer of Genius
+1 Vraska's Contempt
 1 Hieroglyphic Illumination
 1 Negate
 1 Consign / Oblivion
-1 Vraska's Contempt
-1 Glimmer of Genius
+2 Glimmer of Genius
 2 Vraska's Contempt
 2 Negate
-2 Glimmer of Genius
 1 Extinction Event
 2 Extinction Event
 3 Field of Ruin
@@ -216,9 +216,9 @@
 3 Murderous Rider
 4 Nicol Bolas, the Ravager
 4 Discovery / Dispersal
-1 Collective Brutality
-1 Liliana, Waker of the Dead
 1 Davriel, Rogue Shadowmage
+1 Liliana, Waker of the Dead
+1 Collective Brutality
 1 Kolaghan's Command
 1 Hazoret the Fervent
 1 Waste Not
@@ -230,8 +230,8 @@
 2 Waste Not
 3 Eliminate
 3 Kolaghan's Command
-3 Davriel, Rogue Shadowmage
 3 Liliana, Waker of the Dead
+3 Davriel, Rogue Shadowmage
 3 Castle Locthwain
 3 Waste Not
 3 Mountain
@@ -240,7 +240,6 @@
 4 Liliana, Waker of the Dead
 4 Waste Not
 4 Castle Locthwain
-1 Mythos of Nethroi
 1 Dimir Guildgate
 1 Orzhov Guildgate
 1 Gateway Plaza
@@ -257,13 +256,14 @@
 1 Gates Ablaze
 1 Maze's End
 1 Rakdos Guildgate
+1 Mythos of Nethroi
 1 Boros Guildgate
 1 Gatebreaker Ram
-2 Mythos of Nethroi
 2 Gruul Guildgate
 2 Simic Guildgate
 2 Guild Summit
 2 Gatecreeper Vine
+2 Mythos of Nethroi
 2 Plaza of Harmony
 2 Gatebreaker Ram
 2 Maze's End
@@ -289,8 +289,8 @@
 4 Simic Guildgate
 4 Guild Summit
 4 Gatecreeper Vine
-1 Sublime Epiphany
 1 Neutralize
+1 Sublime Epiphany
 1 Blast Zone
 1 Wilderness Reclamation
 1 Temple of Mystery

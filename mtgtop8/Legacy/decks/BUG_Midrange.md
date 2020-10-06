@@ -68,7 +68,7 @@
 |                    3|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)                   |                     |                                                                                              |
 |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)                |                     |                                                                                              |
 |                    4|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)                |                     |                                                                                              |
-|                    4|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)                |                     |                                                                                              |
 |                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)           |                     |                                                                                              |
+|                    4|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)                |                     |                                                                                              |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)            |                     |                                                                                              |
 

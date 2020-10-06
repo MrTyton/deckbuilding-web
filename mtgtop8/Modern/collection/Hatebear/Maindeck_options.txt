@@ -45,8 +45,8 @@
 1 Shefet Dunes
 2 Shefet Dunes
 1 Brushland
-1 Knight of Autumn
 1 Snow-Covered Forest
+1 Knight of Autumn
 1 Blast Zone
 2 Brushland
 2 Knight of Autumn
@@ -56,90 +56,66 @@
 1 Forest
 1 Qasali Pridemage
 1 Stirring Wildwood
-1 Temple Garden
 1 Renegade Rallier
-1 Scavenging Ooze
 1 Windswept Heath
+1 Temple Garden
+1 Scavenging Ooze
 2 Charming Prince
 2 Temple Garden
 2 Qasali Pridemage
 2 Renegade Rallier
-2 Scavenging Ooze
 2 Forest
+2 Scavenging Ooze
 3 Temple Garden
 4 Razorverge Thicket
 4 Restoration Angel
+1 Smuggler's Copter
+1 Snow-Covered Mountain
 1 Sacred Foundry
 1 Inspiring Vantage
-1 Snow-Covered Mountain
-1 Smuggler's Copter
 1 Goblin Rabblemaster
 1 Angrath's Marauders
 1 Winota, Joiner of Forces
 1 Mountain
 1 Lightning Bolt
 1 Seasoned Pyromancer
+2 Smuggler's Copter
+2 Lightning Bolt
 2 Sacred Foundry
 2 Inspiring Vantage
-2 Smuggler's Copter
 2 Angrath's Marauders
 2 Winota, Joiner of Forces
 2 Goblin Rabblemaster
 2 Seasoned Pyromancer
 2 Mountain
-2 Lightning Bolt
+3 Inspiring Vantage
 3 Smuggler's Copter
 3 Sacred Foundry
-3 Inspiring Vantage
 3 Winota, Joiner of Forces
 3 Angrath's Marauders
 3 Lightning Bolt
 3 Seasoned Pyromancer
 3 Mountain
-4 Mountain
-4 Angrath's Marauders
-4 Sacred Foundry
 4 Inspiring Vantage
+4 Mountain
+4 Sacred Foundry
+4 Angrath's Marauders
 4 Winota, Joiner of Forces
 4 Seasoned Pyromancer
 4 Lightning Bolt
-1 Spell Queller
-1 Meddling Mage
-1 Seachrome Coast
-1 Lurrus of the Dream-Den
-1 Deputy of Detention
-1 Island
-1 Flooded Strand
-1 Hallowed Fountain
-2 Spell Queller
-2 Deputy of Detention
-2 Meddling Mage
-2 Seachrome Coast
-2 Lurrus of the Dream-Den
-2 Island
-2 Hallowed Fountain
-2 Flooded Strand
-3 Spell Queller
-3 Deputy of Detention
-3 Seachrome Coast
-3 Meddling Mage
-4 Seachrome Coast
-4 Deputy of Detention
-4 Spell Queller
-4 Meddling Mage
 1 Wastes
-1 Gemstone Caverns
 1 Thalia, Heretic Cathar
 1 Dismember
 1 Containment Priest
 1 Winds of Abandon
+1 Chalice of the Void
+1 Gemstone Caverns
 1 Simian Spirit Guide
 1 Cavern of Souls
-1 Chalice of the Void
 2 Containment Priest
+2 Chalice of the Void
 2 Gemstone Caverns
 2 Winds of Abandon
-2 Chalice of the Void
 2 Simian Spirit Guide
 2 Dismember
 3 Silent Clearing
@@ -151,13 +127,37 @@
 4 Containment Priest
 4 Chalice of the Void
 4 Simian Spirit Guide
+1 Sword of Feast and Famine
+1 Selfless Savior
+1 Aven Mindcensor
+2 Aven Mindcensor
+10 Snow-Covered Plains
 2 Batterskull
 3 Archon of Emeria
 3 Batterskull
 4 Batterskull
 10 Plains
-1 Selfless Savior
-1 Sword of Feast and Famine
-1 Aven Mindcensor
-2 Aven Mindcensor
-10 Snow-Covered Plains
+1 Spell Queller
+1 Seachrome Coast
+1 Lurrus of the Dream-Den
+1 Deputy of Detention
+1 Island
+1 Flooded Strand
+1 Meddling Mage
+1 Hallowed Fountain
+2 Spell Queller
+2 Deputy of Detention
+2 Seachrome Coast
+2 Lurrus of the Dream-Den
+2 Meddling Mage
+2 Island
+2 Hallowed Fountain
+2 Flooded Strand
+3 Spell Queller
+3 Deputy of Detention
+3 Seachrome Coast
+3 Meddling Mage
+4 Spell Queller
+4 Seachrome Coast
+4 Meddling Mage
+4 Deputy of Detention
