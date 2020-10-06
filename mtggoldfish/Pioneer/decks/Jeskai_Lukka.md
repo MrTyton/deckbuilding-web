@@ -88,7 +88,7 @@
 |                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                   |                     |                                                                                                 |
 |                    1|[Wandering Fumarole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407692)       |                     |                                                                                                 |
 |                    4|[Castle Ardenvale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473200)         |                     |                                                                                                 |
-|                    3|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897) |                     |                                                                                                 |
 |                    3|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)          |                     |                                                                                                 |
+|                    3|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897) |                     |                                                                                                 |
 |                    4|[Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401897) |                     |                                                                                                 |
 

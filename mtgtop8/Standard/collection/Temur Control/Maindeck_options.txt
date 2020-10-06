@@ -1,15 +1,14 @@
-1 Aether Gust
-2 Aether Gust
 2 Forest
 1 Mystical Dispute
+1 Aether Gust
 1 Negate
+2 Aether Gust
 2 Negate
 2 Mystical Dispute
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
 3 Nissa, Who Shakes the World
 3 Aether Gust
-1 Castle Vantress
 1 Temple of Mystery
 1 Expansion / Explosion
 2 Expansion / Explosion
@@ -20,15 +19,12 @@
 4 Island
 4 Shark Typhoon
 3 Mystical Dispute
-1 Temple of Abandon
-3 Jolrael, Mwonvuli Recluse
 3 Brazen Borrower
+1 Castle Vantress
 4 Mystical Dispute
 1 Cultivate
 1 Zagoth Triome
 2 Zagoth Triome
-4 Negate
-4 Aether Gust
 2 Castle Vantress
 1 Wilderness Reclamation
 1 Field of the Dead
@@ -42,12 +38,16 @@
 3 Growth Spiral
 4 Growth Spiral
 4 Wilderness Reclamation
+4 Negate
+4 Aether Gust
+1 Temple of Abandon
 3 Forest
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 4 Brazen Borrower
-1 Riverglide Pathway
+3 Jolrael, Mwonvuli Recluse
 1 Spikefield Hazard
+1 Riverglide Pathway
 1 Cragcrown Pathway
 2 Riverglide Pathway
 2 Spikefield Hazard
@@ -66,11 +66,6 @@
 2 Blast Zone
 1 Quench
 2 Quench
-1 Soul Sear
-1 Hydroid Krasis
-2 Hydroid Krasis
-2 Soul Sear
-3 Hydroid Krasis
 1 Teferi, Time Raveler
 1 Arboreal Grazer
 1 Temple Garden
@@ -89,20 +84,20 @@
 1 End-Raze Forerunners
 1 Scorching Dragonfire
 1 Finale of Devastation
-2 Genesis Ultimatum
 2 Cavalier of Thorns
+2 Genesis Ultimatum
 2 Scavenging Ooze
 2 Scorching Dragonfire
-3 Genesis Ultimatum
 3 Cavalier of Thorns
+3 Genesis Ultimatum
 3 Scavenging Ooze
 3 Scorching Dragonfire
 1 Tale's End
 2 Tale's End
 3 Tale's End
 1 Go for Blood
-1 Boon of the Wish-Giver
 1 Startling Development
+1 Boon of the Wish-Giver
 1 Blitz of the Thunder-Raptor
 2 Go for Blood
 2 Boon of the Wish-Giver
@@ -112,22 +107,22 @@
 3 Go for Blood
 4 Boon of the Wish-Giver
 4 Go for Blood
-1 Thassa's Intervention
+1 Turntimber Symbiosis
+1 Klothys, God of Destiny
 1 Ashiok's Erasure
-1 Roil Eruption
+1 Thassa's Intervention
 1 Jwari Disruption
 1 Elder Gargaroth
 1 Questing Beast
-1 Klothys, God of Destiny
-1 Turntimber Symbiosis
+1 Roil Eruption
 2 Ashiok's Erasure
-2 Roil Eruption
 2 Jwari Disruption
 2 Thassa's Intervention
 2 Questing Beast
+2 Roil Eruption
 2 Elder Gargaroth
-3 Ashiok's Erasure
 3 Roil Eruption
+3 Ashiok's Erasure
 3 Thassa's Intervention
 3 Bonecrusher Giant
 3 Spikefield Hazard
@@ -136,7 +131,7 @@
 4 Bonecrusher Giant
 1 Omnath, Locus of Creation
 1 Thornwood Falls
-1 Vastwood Surge
+1 Omen of the Sea
 1 Didn't Say Please
 1 Rugged Highlands
 1 Phylath, World Sculptor
@@ -146,7 +141,7 @@
 1 Reclaim the Wastes
 1 Swiftwater Cliffs
 1 Beanstalk Giant
-1 Omen of the Sea
+1 Vastwood Surge
 2 Thornwood Falls
 2 Omen of the Sea
 2 Didn't Say Please
@@ -180,12 +175,12 @@
 2 Improbable Alliance
 2 Irencrag Pyromancer
 3 Neutralize
-3 Cragcrown Pathway
 3 Irencrag Pyromancer
+3 Cragcrown Pathway
 3 Improbable Alliance
-4 Neutralize
 4 Riverglide Pathway
 4 Teferi, Master of Time
 4 Irencrag Pyromancer
+4 Neutralize
 4 Improbable Alliance
 4 Cragcrown Pathway

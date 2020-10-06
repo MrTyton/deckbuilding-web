@@ -66,8 +66,8 @@
 1 Priest of Forgotten Gods
 2 Gutterbones
 2 Priest of Forgotten Gods
-3 Priest of Forgotten Gods
 3 Gutterbones
+3 Priest of Forgotten Gods
 4 Woe Strider
 4 Priest of Forgotten Gods
 2 Haktos the Unscarred
@@ -81,31 +81,36 @@
 2 Steam Vents
 3 Hallowed Fountain
 4 Hallowed Fountain
+1 Claim the Firstborn
+2 Claim the Firstborn
+3 Claim the Firstborn
+3 Swamp
+4 Gutterbones
+1 Mayhem Devil
 1 Serrated Scorpion
 1 Lurrus of the Dream-Den
-1 Mayhem Devil
 1 Castle Locthwain
+2 Mayhem Devil
 2 Serrated Scorpion
 2 Lurrus of the Dream-Den
-2 Mayhem Devil
 2 Castle Locthwain
-3 Castle Locthwain
 3 Mayhem Devil
+3 Castle Locthwain
 3 Lurrus of the Dream-Den
 4 Mayhem Devil
 1 Pack Leader
-1 Alpine Watchdog
-1 Alpine Houndmaster
-1 Igneous Cur
-1 Luminous Broodmoth
 1 Storm's Wrath
+1 Igneous Cur
+1 Alpine Houndmaster
+1 Luminous Broodmoth
+1 Alpine Watchdog
 1 Shatter the Sky
 1 Taranika, Akroan Veteran
-2 Alpine Houndmaster
-2 Pack Leader
 2 Luminous Broodmoth
-2 Alpine Watchdog
+2 Pack Leader
 2 Igneous Cur
+2 Alpine Watchdog
+2 Alpine Houndmaster
 2 Taranika, Akroan Veteran
 2 Shatter the Sky
 3 Pack Leader
@@ -134,16 +139,11 @@
 3 Steam Vents
 3 Bonecrusher Giant
 3 Sphinx of Foresight
-4 Bonecrusher Giant
 4 Brazen Borrower
 4 Steam Vents
 4 Raugrin Triome
 4 Sphinx of Foresight
-1 Claim the Firstborn
-2 Claim the Firstborn
-3 Claim the Firstborn
-3 Swamp
-4 Gutterbones
+4 Bonecrusher Giant
 1 Grim Initiate
 2 Grim Initiate
 3 Grim Initiate
@@ -154,8 +154,8 @@
 1 Temple Garden
 1 Arboreal Grazer
 1 Agent of Treachery
-1 Gilded Goose
 1 Paradise Druid
+1 Gilded Goose
 1 Oko, Thief of Crowns
 1 Charming Prince
 1 Breeding Pool

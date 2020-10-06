@@ -68,13 +68,13 @@
 3 Pentad Prism
 4 Pentad Prism
 1 Agadeem's Awakening
-1 Emeria's Call
 1 Vengevine
 1 Creeping Chill
 1 Narcomoeba
 1 Pelakka Predation
 1 Phantasmagorian
 1 Balustrade Spy
+1 Emeria's Call
 1 Salvage Titan
 1 Undercity Informer
 2 Agadeem's Awakening
@@ -113,7 +113,6 @@
 1 Snow-Covered Mountain
 1 Spell Queller
 1 Sacred Foundry
-1 Fae of Wishes
 1 Prismatic Vista
 1 Narset of the Ancient Way
 1 Chandra, Torch of Defiance
@@ -121,6 +120,7 @@
 1 Delay
 1 Drannith Magistrate
 1 Jace, the Mind Sculptor
+1 Fae of Wishes
 1 Reverse the Sands
 1 Snow-Covered Plains
 1 Spellskite
@@ -132,9 +132,9 @@
 2 Narset of the Ancient Way
 2 Prismatic Vista
 2 Spellskite
-2 Drannith Magistrate
 2 Delay
 2 Possibility Storm
+2 Drannith Magistrate
 2 Chandra, Torch of Defiance
 2 Jace, the Mind Sculptor
 2 Flooded Strand
@@ -145,8 +145,8 @@
 3 Wall of Omens
 3 Prismatic Vista
 3 Arid Mesa
-3 Delay
 3 Drannith Magistrate
+3 Delay
 3 Flooded Strand
 3 Fae of Wishes
 3 Snow-Covered Plains
@@ -157,9 +157,9 @@
 4 Snow-Covered Island
 4 Prismatic Vista
 4 Arid Mesa
-4 Drannith Magistrate
 4 Scalding Tarn
 4 Fae of Wishes
+4 Drannith Magistrate
 4 Flooded Strand
 4 Snow-Covered Plains
 4 Wall of Omens
@@ -202,8 +202,8 @@
 4 Emeria's Call
 1 Hallowed Fountain
 1 Island
-1 Sunken Ruins
 1 Mission Briefing
+1 Sunken Ruins
 1 Opt
 1 Inquisition of Kozilek
 1 Blood Crypt
@@ -333,9 +333,9 @@
 3 Flickerwisp
 3 Devoted Druid
 3 Emrakul, the Aeons Torn
-4 Charming Prince
 4 Windswept Heath
 4 Through the Breach
+4 Charming Prince
 4 Utopia Sprawl
 4 Emrakul, the Aeons Torn
 4 Devoted Druid

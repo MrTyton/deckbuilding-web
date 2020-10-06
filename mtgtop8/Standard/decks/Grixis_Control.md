@@ -25,3 +25,20 @@
 |                                                                                            |1 [Redcap Melee](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473097)    |                                                                                             |                           |
 |                                                                                            |1 [Shredded Sails](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479656)  |                                                                                             |                           |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                              Maindeck Card                                              |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
+|--------------------:|---------------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
+|                    1|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                           |                    1|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|
+|                    1|[Thassa's Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476323)         |                    1|[Eliminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485420)              |
+|                    2|[Ashiok, Nightmare Muse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476459)        |                    2|[Shredded Sails](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479656)         |
+|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                      |                    2|[Eliminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485420)              |
+|                    3|[Kroxa, Titan of Death's Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476472)|                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                 |
+|                    3|Spikefield Hazard                                                                                        |                     |                                                                                                  |
+|                    3|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                      |                     |                                                                                                  |
+|                    3|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                         |                     |                                                                                                  |
+|                    3|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)                |                     |                                                                                                  |
+|                    4|[Kroxa, Titan of Death's Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476472)|                     |                                                                                                  |
+|                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)                |                     |                                                                                                  |
+

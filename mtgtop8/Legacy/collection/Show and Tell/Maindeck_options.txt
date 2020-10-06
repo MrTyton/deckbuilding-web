@@ -8,8 +8,6 @@
 2 Volcanic Island
 1 Ancient Tomb
 2 Ancient Tomb
-1 Spell Pierce
-3 Scalding Tarn
 3 Emrakul, the Aeons Torn
 1 Lotus Petal
 1 Sneak Attack
@@ -20,26 +18,26 @@
 3 Ancient Tomb
 3 Griselbrand
 3 Sneak Attack
+3 Scalding Tarn
+1 Spell Pierce
 1 Eureka
 3 Volcanic Island
-4 Scalding Tarn
 2 Sylvan Library
 2 Drawn from Dreams
 2 Uro, Titan of Nature's Wrath
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
 3 Arcum's Astrolabe
+4 Griselbrand
+4 Sneak Attack
 2 Spell Pierce
 4 Lotus Petal
+4 Scalding Tarn
 1 Tundra
 1 Teferi, Time Raveler
 1 Snow-Covered Plains
 2 Teferi, Time Raveler
-1 Island
-1 Flusterstorm
-2 Island
-4 Griselbrand
-4 Sneak Attack
+1 Daze
 5 Snow-Covered Island
 1 Snow-Covered Mountain
 4 Prismatic Vista
@@ -48,10 +46,11 @@
 1 Oko, Thief of Crowns
 3 Snow-Covered Forest
 6 Snow-Covered Island
-1 Daze
-1 Mountain
-3 Island
-3 Polluted Delta
+1 Island
+1 Flusterstorm
+2 Island
+2 Daze
+1 Simian Spirit Guide
 1 Burning Wish
 2 Burning Wish
 1 Force of Negation
@@ -60,8 +59,8 @@
 1 Wasteland
 1 Mosswort Bridge
 2 Stifle
-2 Phyrexian Dreadnought
 2 Oko, Thief of Crowns
+2 Phyrexian Dreadnought
 2 Mosswort Bridge
 3 Stifle
 3 Phyrexian Dreadnought
@@ -73,18 +72,20 @@
 1 Lightning Bolt
 2 Wasteland
 2 Lightning Bolt
+1 Silundi Vision
+1 Prismatic Omen
+2 Flusterstorm
 1 Blightsteel Colossus
 1 Borborygmos Enraged
 1 Bearer of the Heavens
-1 Silundi Vision
-1 Prismatic Omen
-1 Simian Spirit Guide
-2 Flusterstorm
-2 Intuition
-2 Daze
+3 Polluted Delta
 1 Thassa's Oracle
 1 Narset's Reversal
 3 Burning Wish
+1 Mountain
+3 Island
+1 Echoing Truth
+3 Spell Pierce
 1 Academy Ruins
 1 Underground Sea
 1 Worldly Tutor
@@ -93,5 +94,6 @@
 2 Plague Engineer
 3 Flooded Strand
 4 Flooded Strand
-1 Echoing Truth
-3 Spell Pierce
+2 Simian Spirit Guide
+3 Daze
+4 Daze

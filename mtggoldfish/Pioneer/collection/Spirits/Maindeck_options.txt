@@ -6,6 +6,7 @@
 2 Botanical Sanctum
 3 Breeding Pool
 3 Botanical Sanctum
+4 Breeding Pool
 1 Temple Garden
 1 Collected Company
 2 Temple Garden
@@ -14,22 +15,22 @@
 4 Collected Company
 2 Port Town
 3 Nebelgast Herald
-4 Breeding Pool
-4 Selfless Spirit
-4 Botanical Sanctum
 9 Island
+4 Botanical Sanctum
 3 Temple Garden
+4 Selfless Spirit
 2 Mana Confluence
 4 Temple Garden
 4 Nebelgast Herald
 3 Port Town
 4 Shacklegeist
+1 Skyclave Apparition
 1 Unclaimed Territory
 2 Unclaimed Territory
 3 Unclaimed Territory
 1 Curious Obsession
 2 Curious Obsession
-1 Skyclave Apparition
+2 Skyclave Apparition
 1 Brazen Borrower
 2 Brazen Borrower
 1 Mutavault
@@ -38,7 +39,6 @@
 1 Archangel Avacyn
 1 Glasspool Mimic
 1 Branchloft Pathway
-2 Skyclave Apparition
 1 Yavimaya Coast
 1 Anafenza, Kin-Tree Spirit
 1 Sunpetal Grove
@@ -62,6 +62,8 @@
 4 Blossoming Defense
 1 Gideon, Ally of Zendikar
 2 Gideon, Ally of Zendikar
+1 Ghostly Pilferer
+2 Ghostly Pilferer
 1 Hashep Oasis
 2 Mutavault
 2 Rally of Wings

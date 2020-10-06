@@ -1,38 +1,32 @@
-2 Escape to the Wilds
-3 Escape to the Wilds
-1 Ketria Triome
-1 Felidar Retreat
-1 Omnath, Locus of Creation
-1 Genesis Ultimatum
-1 Lotus Cobra
-1 Teferi, Time Raveler
-1 Raugrin Triome
-2 Ketria Triome
-2 Felidar Retreat
 2 Omnath, Locus of Creation
+2 Felidar Retreat
 2 Raugrin Triome
 2 Teferi, Time Raveler
 2 Lotus Cobra
+3 Lotus Cobra
 3 Omnath, Locus of Creation
 3 Teferi, Time Raveler
-3 Lotus Cobra
 3 Uro, Titan of Nature's Wrath
 3 Raugrin Triome
 3 Forest
+4 Lotus Cobra
+4 Omnath, Locus of Creation
 4 Raugrin Triome
 4 Uro, Titan of Nature's Wrath
-4 Omnath, Locus of Creation
-4 Lotus Cobra
 4 Dig Through Time
 1 Fetid Pools
 2 Fetid Pools
+1 Breeding Pool
+2 Breeding Pool
+1 Sinister Sabotage
+1 Torrential Gearhulk
+1 Castle Vantress
+2 Sinister Sabotage
+2 Torrential Gearhulk
+2 Shark Typhoon
+3 Censor
+3 Shark Typhoon
 1 Castle Locthwain
-1 Brazen Borrower
-2 Brazen Borrower
-1 Hinterland Harbor
-2 Hinterland Harbor
-3 Breeding Pool
-4 Shark Typhoon
 1 Geier Reach Sanitarium
 1 Cling to Dust
 1 Thing in the Ice
@@ -40,8 +34,10 @@
 1 Day's Undoing
 1 Ashiok, Nightmare Muse
 1 Kalitas, Traitor of Ghet
+1 Brazen Borrower
 1 Choked Estuary
 2 Thing in the Ice
+2 Brazen Borrower
 2 Heartless Act
 2 Choked Estuary
 2 Narset, Parter of Veils
@@ -51,43 +47,27 @@
 4 Narset, Parter of Veils
 1 Field of Ruin
 3 Swamp
-1 Sublime Epiphany
-1 Neutralize
-1 Wilderness Reclamation
-1 Temple of Mystery
-1 Blast Zone
-2 Castle Vantress
-2 Neutralize
-2 Blast Zone
-2 Sublime Epiphany
-2 Temple of Mystery
-2 Wilderness Reclamation
-3 Castle Vantress
-3 Sublime Epiphany
-3 Temple of Mystery
-3 Wilderness Reclamation
-4 Censor
-4 Breeding Pool
-4 Temple of Mystery
-4 Wilderness Reclamation
-3 Hinterland Harbor
 2 Field of Ruin
 3 Sinister Sabotage
 3 Torrential Gearhulk
 4 Sinister Sabotage
 5 Island
 1 Stomping Ground
-1 Cultivate
 1 Temple Garden
+1 Cultivate
 3 Felidar Retreat
 4 Forest
-4 Escape to the Wilds
-1 Evolving Wilds
 1 Sunpetal Grove
 1 Ugin, the Spirit Dragon
+1 Evolving Wilds
 1 Rootbound Crag
+4 Escape to the Wilds
 2 Eliminate
+1 Hinterland Harbor
+2 Hinterland Harbor
 2 Castle Locthwain
+4 Shark Typhoon
+3 Breeding Pool
 2 Mountain
 1 Arboreal Grazer
 2 Arboreal Grazer
@@ -97,27 +77,26 @@
 1 Turntimber Symbiosis
 1 Clifftop Retreat
 1 Agent of Treachery
-2 Genesis Ultimatum
-2 Evolving Wilds
 2 Sea Gate Restoration
 2 Turntimber Symbiosis
 2 Cultivate
+2 Evolving Wilds
 2 Agent of Treachery
+2 Genesis Ultimatum
 3 Ketria Triome
 3 Genesis Ultimatum
 3 Evolving Wilds
 3 Sea Gate Restoration
 3 Agent of Treachery
 3 Cultivate
+4 Ketria Triome
 4 Evolving Wilds
 4 Genesis Ultimatum
-4 Ketria Triome
 4 Sea Gate Restoration
 4 Agent of Treachery
 4 Teferi, Time Raveler
 1 Shambling Vent
 1 Flicker of Fate
-1 Savai Triome
 1 Treacherous Blessing
 1 Mazemind Tome
 1 Concealed Courtyard
@@ -126,6 +105,7 @@
 1 Elspeth Conquers Death
 1 Starfield of Nyx
 1 Oath of Kaya
+1 Savai Triome
 1 The Birth of Meletis
 1 Isolated Chapel
 1 Doom Foretold
@@ -136,17 +116,17 @@
 1 Godless Shrine
 1 Yorion, Sky Nomad
 2 Basilica Bell-Haunt
+2 Savai Triome
 2 Flicker of Fate
 2 Temple of Silence
-2 Savai Triome
-2 Shambling Vent
 2 Treacherous Blessing
+2 Yorion, Sky Nomad
+2 Shambling Vent
 2 Elspeth Conquers Death
 2 Concealed Courtyard
 2 Mazemind Tome
 2 Plains
 2 Doom Foretold
-2 Yorion, Sky Nomad
 2 Kaya's Wrath
 2 Castle Ardenvale
 2 Godless Shrine
@@ -169,10 +149,10 @@
 3 Doom Foretold
 4 Oath of Kaya
 4 Trial of Ambition
+4 Plains
 4 Isolated Chapel
 4 Shambling Vent
 4 Mazemind Tome
-4 Plains
 4 Concealed Courtyard
 4 Godless Shrine
 4 Doom Foretold
@@ -205,21 +185,19 @@
 3 Field of Ruin
 1 Sulfur Falls
 1 Spikefield Hazard
-1 Hallowed Fountain
 1 Satyr Wayfinder
+1 Hallowed Fountain
 1 Anger of the Gods
 2 Rootbound Crag
-2 Anger of the Gods
 2 Satyr Wayfinder
+2 Anger of the Gods
 3 Rootbound Crag
-1 Aetherspouts
-2 Aetherspouts
-3 Blast Zone
 1 Dryad of the Ilysian Grove
 1 Kenrith, the Returned King
-2 Temple Garden
 2 Stomping Ground
+2 Temple Garden
 3 Temple Garden
+3 Hinterland Harbor
 1 Dreadbore
 1 Nicol Bolas, the Ravager
 1 The Royal Scions
@@ -244,8 +222,8 @@
 1 Kolaghan's Command
 1 Hazoret the Fervent
 1 Waste Not
-2 Liliana, Waker of the Dead
 2 Collective Brutality
+2 Liliana, Waker of the Dead
 2 Davriel, Rogue Shadowmage
 2 Hazoret the Fervent
 2 Kolaghan's Command
@@ -311,3 +289,25 @@
 4 Simic Guildgate
 4 Guild Summit
 4 Gatecreeper Vine
+1 Sublime Epiphany
+1 Neutralize
+1 Blast Zone
+1 Wilderness Reclamation
+1 Temple of Mystery
+1 Aetherspouts
+2 Castle Vantress
+2 Neutralize
+2 Blast Zone
+2 Sublime Epiphany
+2 Aetherspouts
+2 Temple of Mystery
+2 Wilderness Reclamation
+3 Castle Vantress
+3 Blast Zone
+3 Sublime Epiphany
+3 Temple of Mystery
+3 Wilderness Reclamation
+4 Censor
+4 Temple of Mystery
+4 Breeding Pool
+4 Wilderness Reclamation

@@ -1,7 +1,7 @@
 # Izzet Control
 
 #### [Export MTGO List](../collection/Izzet%20Control/Izzet%20Control.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Brazen%20Borrower%0A2%09Castle%20Vantress%0A2%09Dig%20Through%20Time%0A4%09Fabled%20Passage%0A4%09Frantic%20Inventory%0A2%09God-Eternal%20Kefnet%0A5%09Island%0A3%09Izzet%20Charm%0A2%09Lightning%20Strike%0A3%09Mountain%0A2%09Niv-Mizzet,%20Parun%0A3%09Quench%0A2%09Ral's%20Outburst%0A2%09Ral,%20Izzet%20Viceroy%0A2%09Shock%0A4%09Sinister%20Sabotage%0A3%09Steam%20Vents%0A3%09Storm's%20Wrath%0A4%09Sulfur%20Falls%0A2%09Syncopate%0A2%09Temple%20of%20Epiphany%0A2%09Wandering%20Fumarole&deckside=3%09By%20Force%0A2%09Flame%20Sweep%0A3%09Fry%0A3%09Grafdigger's%20Cage%0A2%09Mystical%20Dispute%0A2%09Negate)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Brazen%20Borrower%0A2%09Castle%20Vantress%0A2%09Dig%20Through%20Time%0A4%09Fabled%20Passage%0A4%09Frantic%20Inventory%0A2%09God-Eternal%20Kefnet%0A5%09Island%0A3%09Izzet%20Charm%0A2%09Lightning%20Strike%0A3%09Mountain%0A2%09Niv-Mizzet,%20Parun%0A3%09Quench%0A2%09Ral's%20Outburst%0A2%09Ral,%20Izzet%20Viceroy%0A2%09Shock%0A4%09Sinister%20Sabotage%0A3%09Steam%20Vents%0A3%09Storm's%20Wrath%0A4%09Sulfur%20Falls%0A2%09Syncopate%0A2%09Temple%20of%20Epiphany%0A2%09Wandering%20Fumarole&deckside=2%09Abrade%0A4%09Aether%20Gust%0A2%09Flame%20Sweep%0A2%09Fry%0A1%09Grafdigger's%20Cage%0A2%09Mystical%20Dispute%0A2%09Negate)
 # Maindeck
 
 |                                         Creature (6)                                          |                                         Instant (24)                                         |                                           Land (25)                                           |                                       Planeswalker (2)                                        |                                       Sorcery (3)                                        |
@@ -19,22 +19,29 @@
 
 # Sideboard
 
-|                                         Artifact (3)                                         |                                         Instant (9)                                         |                                     Sorcery (3)                                     |
-|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
-|3 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|2 [Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)     |3 [By Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426825)|
-|                                                                                              |3 [Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)             |                                                                                     |
-|                                                                                              |2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                     |
-|                                                                                              |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |                                                                                     |
+|                                         Artifact (1)                                         |                                        Instant (14)                                         |
+|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+|1 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)          |
+|                                                                                              |4 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
+|                                                                                              |2 [Flame Sweep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466893)     |
+|                                                                                              |2 [Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)             |
+|                                                                                              |2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
+|                                                                                              |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                    Sideboard Card                                    |
-|--------------------:|-------------|--------------------:|--------------------------------------------------------------------------------------|
-|                    1|Unknown Card |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)     |
-|                    2|Unknown Card |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)|
-|                     |             |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)     |
-|                     |             |                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)|
-|                     |             |                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)|
-|                     |             |                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)|
+|*n*<sup>th</sup> copy|    Maindeck Card    |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|---------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|Shatterskull Smashing|                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
+|                    1|Silundi Vision       |                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
+|                    1|Spikefield Hazard    |                    1|[Counterflux](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405183)      |
+|                    1|Riverglide Pathway   |                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
+|                    2|Silundi Vision       |                    1|[By Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426825)         |
+|                    2|Spikefield Hazard    |                    2|[By Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426825)         |
+|                    2|Riverglide Pathway   |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
+|                    3|Riverglide Pathway   |                    3|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)              |
+|                    4|Riverglide Pathway   |                    3|[By Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426825)         |
+|                    1|Unknown Card         |                     |                                                                                            |
+|                    2|Unknown Card         |                     |                                                                                            |
 
