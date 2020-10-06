@@ -31,9 +31,9 @@
 2 Thopter Foundry
 2 Thespian's Stage
 2 Urborg, Tomb of Yawgmoth
+3 Watery Grave
 3 Ponder
 3 Chrome Mox
-3 Watery Grave
 3 Preordain
 3 Urborg, Tomb of Yawgmoth
 3 Dark Confidant
@@ -112,8 +112,8 @@
 1 Wall of Omens
 1 Snow-Covered Mountain
 1 Spell Queller
-1 Sacred Foundry
 1 Prismatic Vista
+1 Sacred Foundry
 1 Narset of the Ancient Way
 1 Fae of Wishes
 1 Chandra, Torch of Defiance
@@ -125,9 +125,10 @@
 1 Reverse the Sands
 1 Snow-Covered Plains
 1 Possibility Storm
+2 Jace, the Mind Sculptor
+2 Spell Queller
 2 Wall of Omens
 2 Snow-Covered Mountain
-2 Spell Queller
 2 Snow-Covered Plains
 2 Narset of the Ancient Way
 2 Fae of Wishes
@@ -137,7 +138,6 @@
 2 Possibility Storm
 2 Drannith Magistrate
 2 Chandra, Torch of Defiance
-2 Jace, the Mind Sculptor
 2 Flooded Strand
 2 Commandeer
 3 Snow-Covered Island
@@ -252,27 +252,28 @@
 4 Sea Gate Restoration
 1 Plains
 1 Wishclaw Talisman
-1 Talisman of Dominance
-1 Jace, Wielder of Mysteries
 1 Serum Visions
 1 Gemstone Mine
 1 Shelldock Isle
 1 Inverter of Truth
 1 Angel's Grace
+1 Talisman of Dominance
 1 Thassa's Oracle
 1 Spoils of the Vault
 1 City of Brass
+1 Jace, Wielder of Mysteries
 2 Talisman of Dominance
-2 Jace, Wielder of Mysteries
+2 Wishclaw Talisman
 2 Spoils of the Vault
 2 Shelldock Isle
 2 Inverter of Truth
 2 Thassa's Oracle
+2 Jace, Wielder of Mysteries
 2 Gemstone Mine
 2 City of Brass
 2 Serum Visions
-2 Wishclaw Talisman
 2 Angel's Grace
+3 Shelldock Isle
 3 Talisman of Dominance
 3 Gemstone Mine
 3 City of Brass
@@ -280,20 +281,18 @@
 3 Serum Visions
 3 Angel's Grace
 3 Spoils of the Vault
-3 Shelldock Isle
 3 Inverter of Truth
 3 Thassa's Oracle
+4 Shelldock Isle
 4 Thassa's Oracle
 4 Serum Visions
 4 Spoils of the Vault
-4 Shelldock Isle
 4 Inverter of Truth
 4 Angel's Grace
 1 Windswept Heath
 1 Through the Breach
 1 Gemstone Caverns
 1 Charming Prince
-1 Wooded Foothills
 1 Utopia Sprawl
 1 Emrakul, the Aeons Torn
 1 Flickerwisp
@@ -305,6 +304,7 @@
 1 Misty Rainforest
 1 Forest
 1 Stomping Ground
+1 Wooded Foothills
 1 Eladamri's Call
 2 Windswept Heath
 2 Worldspine Wurm
@@ -314,10 +314,10 @@
 2 Flickerwisp
 2 Charming Prince
 2 Gemstone Caverns
-2 Utopia Sprawl
 2 Temple Garden
 2 Stomping Ground
 2 Plains
+2 Utopia Sprawl
 2 Misty Rainforest
 2 Devoted Druid
 2 Dubious Challenge
@@ -333,8 +333,8 @@
 3 Flickerwisp
 3 Devoted Druid
 3 Emrakul, the Aeons Torn
-4 Windswept Heath
 4 Through the Breach
+4 Windswept Heath
 4 Charming Prince
 4 Utopia Sprawl
 4 Emrakul, the Aeons Torn

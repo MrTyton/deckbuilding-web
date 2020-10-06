@@ -1,25 +1,23 @@
-1 Soul-Guide Lantern
 3 Embereth Shieldbreaker
+1 Soul-Guide Lantern
 1 Shredded Sails
 1 Skyclave Shade
 2 Skyclave Shade
 2 Shredded Sails
-1 Cling to Dust
-1 Nighthawk Scavenger
-2 Nighthawk Scavenger
-3 Skyclave Shade
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
-2 Cling to Dust
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-1 Ox of Agonas
-3 Nighthawk Scavenger
 1 Sorcerous Spyglass
 1 Mogis's Favor
 1 Storm's Wrath
 2 Storm's Wrath
 3 Storm's Wrath
+1 Cling to Dust
+1 Nighthawk Scavenger
+2 Nighthawk Scavenger
+3 Skyclave Shade
+2 Cling to Dust
+1 Ox of Agonas
+3 Nighthawk Scavenger
 1 Grasp of Darkness
 2 Grasp of Darkness
 1 Massacre Wurm
@@ -27,16 +25,19 @@
 3 Grasp of Darkness
 4 Grasp of Darkness
 4 Agonizing Remorse
-1 Robber of the Rich
-2 Robber of the Rich
-3 Robber of the Rich
 1 Lurrus of the Dream-Den
 1 Angrath's Rampage
 2 Angrath's Rampage
-3 Noxious Grasp
+1 Robber of the Rich
+2 Robber of the Rich
+3 Robber of the Rich
+1 Bonecrusher Giant
+2 Bonecrusher Giant
 1 Bedevil
+3 Duress
 3 Angrath's Rampage
-2 Soul-Guide Lantern
+1 Scorching Dragonfire
+2 Scorching Dragonfire
 1 Legion Warboss
 1 Rankle, Master of Pranks
 2 Legion Warboss
@@ -54,8 +55,6 @@
 2 Thundering Rebuke
 3 Cling to Dust
 3 Heartless Act
-1 Scorching Dragonfire
-2 Scorching Dragonfire
 1 Pharika's Libation
 1 Legion's End
 1 Tibalt, Rakish Instigator
@@ -66,8 +65,9 @@
 3 Pharika's Libation
 3 Scorching Dragonfire
 1 Erebos's Intervention
-2 Bedevil
 2 Erebos's Intervention
+2 Bedevil
+3 Noxious Grasp
 3 Bedevil
 4 Robber of the Rich
 1 Dirge Bat
@@ -88,6 +88,5 @@
 1 Shock
 2 Feed the Swarm
 2 Shock
-3 Duress
 4 Duress
 3 Shock

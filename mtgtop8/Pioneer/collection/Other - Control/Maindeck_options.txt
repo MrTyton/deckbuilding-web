@@ -1,26 +1,35 @@
-2 Omnath, Locus of Creation
-2 Lotus Cobra
-2 Felidar Retreat
-2 Raugrin Triome
-2 Teferi, Time Raveler
-3 Lotus Cobra
-3 Omnath, Locus of Creation
-3 Teferi, Time Raveler
-3 Uro, Titan of Nature's Wrath
-3 Raugrin Triome
+1 Drowned Catacomb
+1 Watery Grave
+2 Drowned Catacomb
+2 Watery Grave
+3 Drowned Catacomb
+3 Watery Grave
+4 Watery Grave
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
+1 Hero's Downfall
+1 Heartless Act
+3 Dig Through Time
+4 Drowned Catacomb
+1 Eliminate
+1 Genesis Ultimatum
 3 Forest
-4 Lotus Cobra
-4 Omnath, Locus of Creation
-4 Raugrin Triome
-4 Uro, Titan of Nature's Wrath
+3 Felidar Retreat
+1 Sunpetal Grove
+1 Castle Vantress
+1 Temple Garden
+1 Ugin, the Spirit Dragon
+1 Evolving Wilds
+4 Escape to the Wilds
+1 Hallowed Fountain
+1 Hinterland Harbor
 4 Dig Through Time
 1 Fetid Pools
 2 Fetid Pools
-1 Breeding Pool
-2 Breeding Pool
 1 Sinister Sabotage
 1 Torrential Gearhulk
-1 Castle Vantress
 2 Sinister Sabotage
 2 Torrential Gearhulk
 2 Shark Typhoon
@@ -47,28 +56,46 @@
 4 Narset, Parter of Veils
 1 Field of Ruin
 3 Swamp
+2 Mountain
+1 Cultivate
+4 Forest
 2 Field of Ruin
 3 Torrential Gearhulk
 3 Sinister Sabotage
 4 Sinister Sabotage
 5 Island
-1 Stomping Ground
-1 Temple Garden
-1 Cultivate
-3 Felidar Retreat
-4 Forest
-1 Sunpetal Grove
-1 Ugin, the Spirit Dragon
-1 Evolving Wilds
 1 Rootbound Crag
-4 Escape to the Wilds
+4 Teferi, Time Raveler
+1 Satyr Wayfinder
+2 Satyr Wayfinder
+3 Ketria Triome
+4 Ketria Triome
+1 Dryad of the Ilysian Grove
+1 Kenrith, the Returned King
+2 Temple Garden
+1 Steam Vents
 2 Eliminate
-1 Hinterland Harbor
 2 Hinterland Harbor
 2 Castle Locthwain
-4 Shark Typhoon
 3 Breeding Pool
-2 Mountain
+4 Shark Typhoon
+1 Temple of Mystery
+2 Temple of Mystery
+3 Temple of Mystery
+3 Mountain
+1 Blood Crypt
+1 Dragonskull Summit
+1 Kroxa, Titan of Death's Hunger
+1 Murderous Rider
+2 Blood Crypt
+2 Dragonskull Summit
+2 Kroxa, Titan of Death's Hunger
+2 Murderous Rider
+3 Blood Crypt
+3 Dragonskull Summit
+3 Kroxa, Titan of Death's Hunger
+4 Kroxa, Titan of Death's Hunger
+4 Blood Crypt
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
@@ -83,18 +110,15 @@
 2 Agent of Treachery
 2 Sea Gate Restoration
 2 Genesis Ultimatum
-3 Ketria Triome
 3 Genesis Ultimatum
 3 Evolving Wilds
 3 Sea Gate Restoration
 3 Agent of Treachery
 3 Cultivate
-4 Ketria Triome
 4 Evolving Wilds
 4 Genesis Ultimatum
 4 Sea Gate Restoration
 4 Agent of Treachery
-4 Teferi, Time Raveler
 1 Shambling Vent
 1 Basilica Bell-Haunt
 1 Flicker of Fate
@@ -159,19 +183,6 @@
 4 Doom Foretold
 5 Plains
 6 Plains
-1 Blood Crypt
-1 Dragonskull Summit
-1 Kroxa, Titan of Death's Hunger
-1 Murderous Rider
-2 Blood Crypt
-2 Dragonskull Summit
-2 Kroxa, Titan of Death's Hunger
-2 Murderous Rider
-3 Blood Crypt
-3 Dragonskull Summit
-3 Kroxa, Titan of Death's Hunger
-4 Kroxa, Titan of Death's Hunger
-4 Blood Crypt
 1 Glimmer of Genius
 1 Vraska's Contempt
 1 Hieroglyphic Illumination
@@ -185,19 +196,22 @@
 3 Field of Ruin
 1 Sulfur Falls
 1 Spikefield Hazard
-1 Satyr Wayfinder
-1 Hallowed Fountain
 1 Anger of the Gods
 2 Rootbound Crag
-2 Satyr Wayfinder
 2 Anger of the Gods
 3 Rootbound Crag
-1 Dryad of the Ilysian Grove
-1 Kenrith, the Returned King
 2 Stomping Ground
-2 Temple Garden
 3 Temple Garden
 3 Hinterland Harbor
+1 Voice of Resurgence
+1 Cragcrown Pathway
+1 Branchloft Pathway
+2 Sunpetal Grove
+2 Hallowed Fountain
+2 Voice of Resurgence
+2 Cragcrown Pathway
+3 Voice of Resurgence
+3 Hallowed Fountain
 1 Dreadbore
 1 Nicol Bolas, the Ravager
 1 The Royal Scions
@@ -234,12 +248,21 @@
 3 Davriel, Rogue Shadowmage
 3 Castle Locthwain
 3 Waste Not
-3 Mountain
 4 Dragonskull Summit
 4 Swamp
 4 Liliana, Waker of the Dead
 4 Waste Not
 4 Castle Locthwain
+1 Expansion / Explosion
+1 Prophet of Kruphix
+1 Inspired Ultimatum
+2 Expansion / Explosion
+2 Inspired Ultimatum
+2 Dryad of the Ilysian Grove
+2 Prophet of Kruphix
+2 Ugin, the Spirit Dragon
+3 Dryad of the Ilysian Grove
+4 Dryad of the Ilysian Grove
 1 Dimir Guildgate
 1 Orzhov Guildgate
 1 Gateway Plaza
@@ -273,11 +296,11 @@
 2 Izzet Guildgate
 3 Izzet Guildgate
 3 Gruul Guildgate
+3 Gates Ablaze
 3 Gate Colossus
 3 Simic Guildgate
 3 Guild Summit
 3 Gatebreaker Ram
-3 Gates Ablaze
 3 Gatecreeper Vine
 3 Plaza of Harmony
 4 Izzet Guildgate
@@ -293,19 +316,16 @@
 1 Sublime Epiphany
 1 Blast Zone
 1 Wilderness Reclamation
-1 Temple of Mystery
 1 Aetherspouts
 2 Castle Vantress
 2 Neutralize
 2 Blast Zone
 2 Sublime Epiphany
 2 Aetherspouts
-2 Temple of Mystery
 2 Wilderness Reclamation
 3 Castle Vantress
 3 Blast Zone
 3 Sublime Epiphany
-3 Temple of Mystery
 3 Wilderness Reclamation
 4 Censor
 4 Temple of Mystery
