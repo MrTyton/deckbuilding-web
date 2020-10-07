@@ -3,8 +3,8 @@
 3 Mythos of Nethroi
 3 Waker of Waves
 3 Brightclimb Pathway
-3 Confounding Conundrum
 3 Extinction Event
+3 Confounding Conundrum
 3 Neutralize
 3 Clearwater Pathway
 3 Island
@@ -19,12 +19,12 @@
 4 Island
 4 Neutralize
 1 Overgrown Tomb
+1 Yorion, Sky Nomad
 1 Godless Shrine
 1 Hallowed Fountain
 1 Oath of Kaya
 1 Temple Garden
 1 Breeding Pool
-1 Yorion, Sky Nomad
 1 Mazemind Tome
 1 Omen of the Sea
 1 Solemn Simulacrum
@@ -35,6 +35,7 @@
 1 Cavalier of Dawn
 2 Mazemind Tome
 2 Omen of the Sea
+2 Yorion, Sky Nomad
 2 Oath of Kaya
 2 Doom Foretold
 2 Overgrown Tomb
@@ -42,14 +43,13 @@
 2 Breeding Pool
 2 Eliminate
 2 Temple Garden
-2 Yorion, Sky Nomad
 2 Hallowed Fountain
 2 Godless Shrine
 2 Cavalier of Dawn
-3 Yorion, Sky Nomad
 3 Mazemind Tome
 3 Oath of Kaya
 3 Doom Foretold
+3 Yorion, Sky Nomad
 3 Overgrown Tomb
 3 Eliminate
 3 Breeding Pool
@@ -79,7 +79,6 @@
 1 Time Wipe
 1 Arboreal Grazer
 1 Blood Crypt
-1 Angrath's Rampage
 1 Knight of Autumn
 1 Casualties of War
 1 Niv-Mizzet Reborn
@@ -90,10 +89,11 @@
 1 Ketria Triome
 1 Tolsimir, Friend to Wolves
 1 Vraska, Golgari Queen
+1 Angrath's Rampage
 1 March of the Multitudes
 2 Raugrin Triome
-2 Deafening Clarion
 2 Savai Triome
+2 Deafening Clarion
 2 Arboreal Grazer
 2 Niv-Mizzet Reborn
 2 Ketria Triome

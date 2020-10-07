@@ -1,6 +1,6 @@
 1 Spell Pierce
-1 Geist of Saint Traft
 1 Rest in Peace
+1 Geist of Saint Traft
 1 Force of Negation
 2 Rest in Peace
 1 Lightning Helix
@@ -67,10 +67,10 @@
 1 Heliod's Intervention
 1 Mana Leak
 1 Dovin's Veto
+2 Damping Sphere
 1 Celestial Purge
 1 Burrenton Forge-Tender
 2 Burrenton Forge-Tender
-2 Damping Sphere
 1 Kor Firewalker
 2 Kor Firewalker
 1 Meddling Mage
@@ -91,7 +91,6 @@
 2 Disdainful Stroke
 2 Pillage
 3 Ashiok, Dream Render
-3 Rest in Peace
 1 Flame Slash
 1 Echoing Truth
 1 Cleansing Wildfire
@@ -99,11 +98,16 @@
 2 Cleansing Wildfire
 2 Echoing Truth
 3 Cleansing Wildfire
+3 Rest in Peace
 1 Relic of Progenitus
 1 Anger of the Gods
 2 Anger of the Gods
 2 Relic of Progenitus
 3 Abrade
+1 Grafdigger's Cage
+2 Grafdigger's Cage
+3 Grafdigger's Cage
+3 Feed the Clan
 3 Nihil Spellbomb
 1 Magma Spray
 1 Roast
@@ -112,10 +116,6 @@
 2 Roast
 3 Magma Spray
 3 Spell Snare
-1 Grafdigger's Cage
-2 Grafdigger's Cage
-3 Feed the Clan
-3 Grafdigger's Cage
 1 Great Sable Stag
 2 Great Sable Stag
 3 Great Sable Stag

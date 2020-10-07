@@ -49,8 +49,8 @@
 1 Spikefield Hazard
 1 Riverglide Pathway
 1 Cragcrown Pathway
-2 Spikefield Hazard
 2 Riverglide Pathway
+2 Spikefield Hazard
 2 Cragcrown Pathway
 3 Riverglide Pathway
 5 Island
@@ -102,9 +102,9 @@
 2 Go for Blood
 2 Boon of the Wish-Giver
 2 Blitz of the Thunder-Raptor
-3 Boon of the Wish-Giver
 3 Blitz of the Thunder-Raptor
 3 Go for Blood
+3 Boon of the Wish-Giver
 4 Boon of the Wish-Giver
 4 Go for Blood
 1 Turntimber Symbiosis
@@ -122,16 +122,17 @@
 2 Roil Eruption
 2 Elder Gargaroth
 3 Ashiok's Erasure
-3 Roil Eruption
-3 Bonecrusher Giant
 3 Thassa's Intervention
+3 Bonecrusher Giant
 3 Spikefield Hazard
+3 Roil Eruption
 3 Elder Gargaroth
 4 Roil Eruption
 4 Bonecrusher Giant
 1 Omnath, Locus of Creation
 1 Omen of the Sea
 1 Thornwood Falls
+1 Vastwood Surge
 1 Didn't Say Please
 1 Rugged Highlands
 1 Llanowar Visionary
@@ -140,7 +141,6 @@
 1 Reclaim the Wastes
 1 Swiftwater Cliffs
 1 Beanstalk Giant
-1 Vastwood Surge
 1 Phylath, World Sculptor
 2 Omen of the Sea
 2 Thornwood Falls
@@ -178,8 +178,8 @@
 3 Irencrag Pyromancer
 3 Cragcrown Pathway
 3 Improbable Alliance
-4 Teferi, Master of Time
 4 Riverglide Pathway
+4 Teferi, Master of Time
 4 Irencrag Pyromancer
 4 Neutralize
 4 Improbable Alliance

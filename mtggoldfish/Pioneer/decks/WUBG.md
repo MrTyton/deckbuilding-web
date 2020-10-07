@@ -1,0 +1,61 @@
+# WUBG
+
+#### [Export MTGO List](../collection/WUBG/WUBG.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Agadeem's%20Awakening%0A4%09Bala%20Ged%20Recovery%0A4%09Balustrade%20Spy%0A4%09Creeping%20Chill%0A1%09Driven/Despair%0A4%09Emeria's%20Call%0A2%09Hagra%20Mauling%0A1%09Haunted%20Dead%0A1%09Neoform%0A4%09Paradise%20Druid%0A2%09Pelakka%20Predation%0A4%09Prized%20Amalgam%0A4%09Sea%20Gate%20Restoration%0A3%09Silversmote%20Ghoul%0A4%09Sylvan%20Caryatid%0A4%09Tangled%20Florahedron%0A1%09Thassa's%20Oracle%0A4%09Turntimber%20Symbiosis%0A4%09Undercity%20Informer%0A1%09Worldspine%20Wurm&deckside=1%09Failure/Comply%0A4%09Leyline%20of%20the%20Void%0A4%09Natural%20State%0A1%09Providence%0A1%09Swamp%0A4%09Thassa's%20Oracle)
+# Maindeck
+
+|                                         Creature (26)                                         |                                        Sorcery (6)                                        |     Unknown (28)     |
+|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------|
+|4 [Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366464)    |4 [Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)|4 Agadeem's Awakening |
+|1 [Haunted Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414387)      |1 [Driven/Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430846)|4 Bala Ged Recovery   |
+|4 [Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)    |1 [Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)       |4 Emeria's Call       |
+|4 [Prized Amalgam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410014)    |                                                                                           |2 Hagra Mauling       |
+|3 [Silversmote Ghoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485445) |                                                                                           |2 Pelakka Predation   |
+|4 [Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624)   |                                                                                           |4 Sea Gate Restoration|
+|1 [Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)   |                                                                                           |4 Tangled Florahedron |
+|4 [Undercity Informer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366271)|                                                                                           |4 Turntimber Symbiosis|
+|1 [Worldspine Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253575)   |                                                                                           |                      |
+
+
+# Sideboard
+
+|                                        Creature (4)                                        |                                        Enchantment (4)                                         |                                        Instant (5)                                        |                                     Land (1)                                     |                                      Sorcery (1)                                      |
+|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+|4 [Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|1 [Failure/Comply](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426923)|1 [Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)|1 [Providence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414329)|
+|                                                                                            |                                                                                                |4 [Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646) |                                                                                  |                                                                                       |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    2|[Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)            |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
+|                    3|[Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)            |                    1|[Take Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417743)          |
+|                    4|[Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)            |                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
+|                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|                    2|[Providence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414329)         |
+|                    1|[Pillar of Origins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435399)  |                    2|[Take Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417743)          |
+|                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
+|                    2|[Pillar of Origins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435399)  |                    3|[Providence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414329)         |
+|                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|                    3|[Take Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417743)          |
+|                    3|[Pillar of Origins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435399)  |                    4|[Providence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414329)         |
+|                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
+|                    4|[Pillar of Origins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435399)  |                    1|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)               |
+|                    1|[Claim/Fame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430839)         |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |
+|                    1|Vastwood Fortification                                                                        |                    2|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)               |
+|                    1|[Failure/Comply](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426923)     |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |
+|                    1|[Revival/Revenge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457372)    |                    3|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)               |
+|                    2|[Claim/Fame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430839)         |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |
+|                    2|Vastwood Fortification                                                                        |                    4|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)               |
+|                    2|[Worldspine Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253575)    |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |
+|                    2|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)    |                     |                                                                                              |
+|                    2|[Failure/Comply](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426923)     |                     |                                                                                              |
+|                    2|[Revival/Revenge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457372)    |                     |                                                                                              |
+|                    3|[Claim/Fame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430839)         |                     |                                                                                              |
+|                    3|Pelakka Predation                                                                             |                     |                                                                                              |
+|                    3|Vastwood Fortification                                                                        |                     |                                                                                              |
+|                    3|[Revival/Revenge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457372)    |                     |                                                                                              |
+|                    4|Pelakka Predation                                                                             |                     |                                                                                              |
+|                    4|[Revival/Revenge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457372)    |                     |                                                                                              |
+|                    4|[Claim/Fame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430839)         |                     |                                                                                              |
+|                    4|Vastwood Fortification                                                                        |                     |                                                                                              |
+

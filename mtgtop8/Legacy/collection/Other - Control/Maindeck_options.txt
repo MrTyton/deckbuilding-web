@@ -20,8 +20,8 @@
 2 Prismatic Vista
 1 Mystic Sanctuary
 1 Punishing Fire
-1 Grove of the Burnwillows
 1 Counterspell
+1 Grove of the Burnwillows
 1 Flusterstorm
 1 Jace, the Mind Sculptor
 1 Engineered Explosives
@@ -43,11 +43,10 @@
 3 Astrolabe
 3 Dack Fayden
 4 Astrolabe
-1 Castle Locthwain
 1 Cabal Pit
-1 Eliminate
 1 Murderous Rider
 1 Thoughtseize
+1 Eliminate
 1 Urborg, Tomb of Yawgmoth
 1 Fatal Push
 1 Inquisition of Kozilek
@@ -61,10 +60,10 @@
 1 Blast Zone
 1 Mishra's Factory
 1 Liliana of the Veil
-2 Swamp
+1 Castle Locthwain
 2 Castle Locthwain
 2 Murderous Rider
-2 Eliminate
+2 Swamp
 2 Liliana, the Last Hope
 2 Liliana's Triumph
 2 Urborg, Tomb of Yawgmoth
@@ -72,6 +71,7 @@
 2 Hymn to Tourach
 2 Fatal Push
 2 Dark Ritual
+2 Eliminate
 2 Mishra's Factory
 2 Blast Zone
 2 Cabal Pit
@@ -79,7 +79,6 @@
 2 Rotting Regisaur
 2 Inquisition of Kozilek
 2 Liliana of the Veil
-3 Swamp
 3 Thoughtseize
 3 Eliminate
 3 Tombstalker
@@ -90,11 +89,12 @@
 3 Liliana of the Veil
 3 Liliana's Triumph
 3 Urborg, Tomb of Yawgmoth
+3 Swamp
 3 Hymn to Tourach
-4 Swamp
 4 Dark Ritual
 4 Urborg, Tomb of Yawgmoth
 4 Rotting Regisaur
+4 Swamp
 4 Inquisition of Kozilek
 4 Liliana of the Veil
 4 Liliana's Triumph
@@ -117,8 +117,8 @@
 1 Chain Lightning
 2 Spell Snare
 4 Oko, Thief of Crowns
-1 Fiery Islet
 1 Flooded Strand
+1 Fiery Islet
 1 Ral Zarek
 1 Brazen Borrower
 1 Chandra, Acolyte of Flame

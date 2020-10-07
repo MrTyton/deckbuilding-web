@@ -1,18 +1,21 @@
 2 Elvish Reclaimer
-1 Bayou
 3 Gamble
 1 Grasping Dunes
+1 Bayou
 1 Klothys, God of Destiny
 1 Nurturing Peatland
+1 Sheltered Thicket
 1 Waterlogged Grove
 1 Tropical Island
 1 Ancient Tomb
-1 Sheltered Thicket
 1 Abrupt Decay
 2 Abrupt Decay
 3 Abrupt Decay
+1 Manabond
 2 Bayou
 1 Snow-Covered Forest
+1 Oko, Thief of Crowns
+2 Oko, Thief of Crowns
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 1 Cavern of Souls
@@ -24,21 +27,28 @@
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
-1 Green Sun's Zenith
 1 Dryad Arbor
+1 Green Sun's Zenith
 1 Dryad of the Ilysian Grove
 1 Valakut, the Molten Pinnacle
 2 Green Sun's Zenith
+2 Forest
+2 Dryad of the Ilysian Grove
 2 Ancient Tomb
 2 Valakut, the Molten Pinnacle
-2 Dryad of the Ilysian Grove
 3 Dryad of the Ilysian Grove
 3 Green Sun's Zenith
 3 Ancient Tomb
 4 Green Sun's Zenith
 4 Dryad of the Ilysian Grove
 4 Ancient Tomb
-1 Manabond
+3 Sylvan Library
+1 Radha, Heart of Keld
+1 Valakut Exploration
+2 Valakut Exploration
+1 Barbarian Ring
+2 Waterlogged Grove
+1 Zagoth Triome
 4 Once Upon a Time
 1 Chalice of the Void
 2 Chalice of the Void
@@ -46,29 +56,12 @@
 3 Chalice of the Void
 4 Chalice of the Void
 3 Uro, Titan of Nature's Wrath
-1 Oko, Thief of Crowns
-2 Oko, Thief of Crowns
-2 Forest
-2 Verdant Catacombs
-3 Sylvan Library
-1 Radha, Heart of Keld
-1 Zagoth Triome
-4 Abrupt Decay
-2 Snow-Covered Forest
-1 Scavenging Ooze
-4 Cavern of Souls
-1 Valakut Exploration
-2 Valakut Exploration
-1 Barbarian Ring
-2 Waterlogged Grove
 2 Tropical Island
 2 Misty Rainforest
 2 Windswept Heath
+2 Verdant Catacombs
 1 Ketria Triome
 1 Leovold, Emissary of Trest
-1 Courser of Kruphix
-1 Tireless Tracker
-1 Titania, Protector of Argoth
 1 Riftstone Portal
 1 Lightning Bolt
 2 Lightning Bolt
@@ -79,11 +72,14 @@
 3 Yidaro, Wandering Monster
 3 Valakut Exploration
 4 Valakut Exploration
+1 Courser of Kruphix
+4 Abrupt Decay
 1 Scattered Groves
 1 Molten Vortex
 1 Horizon Canopy
 1 Hall of Heliod's Generosity
 4 Gamble
+2 Snow-Covered Forest
 1 Savannah
 1 Plains
 1 Swords to Plowshares
@@ -128,10 +124,11 @@
 4 Elvish Reclaimer
 4 Dark Confidant
 4 Brainstorm
+1 Tireless Tracker
+1 Scavenging Ooze
+1 Titania, Protector of Argoth
+4 Cavern of Souls
 1 Kozilek, Butcher of Truth
-1 Elvish Rejuvenator
-1 Emrakul, the Aeons Torn
-1 All Is Dust
 1 Candelabra of Tawnos
 1 Glimmerpost
 1 Cascading Cataracts
@@ -140,31 +137,34 @@
 1 Ulamog, the Ceaseless Hunger
 1 Cloudpost
 1 Thought-Knot Seer
+1 All Is Dust
 1 Kozilek, the Great Distortion
 1 Eye of Ugin
 1 Golos, Tireless Pilgrim
 1 Walking Ballista
 1 Ugin, the Ineffable
 1 Vesuva
+1 Elvish Rejuvenator
+1 Emrakul, the Aeons Torn
 2 Ulamog, the Ceaseless Hunger
 2 Pithing Needle
 2 Candelabra of Tawnos
-2 Elvish Rejuvenator
 2 Golos, Tireless Pilgrim
+2 Elvish Rejuvenator
 2 Ugin, the Spirit Dragon
 2 Vesuva
 2 Ugin, the Ineffable
 2 Cloudpost
 2 Glimmerpost
-3 Golos, Tireless Pilgrim
 3 Snow-Covered Forest
 3 Pithing Needle
 3 Candelabra of Tawnos
 3 Ulamog, the Ceaseless Hunger
-3 Elvish Rejuvenator
 3 Vesuva
 3 Glimmerpost
 3 Cloudpost
+3 Golos, Tireless Pilgrim
+3 Elvish Rejuvenator
 4 Snow-Covered Forest
 4 Vesuva
 4 Cloudpost

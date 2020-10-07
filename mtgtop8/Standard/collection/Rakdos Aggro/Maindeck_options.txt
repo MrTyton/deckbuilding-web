@@ -53,8 +53,8 @@
 1 Call of the Death-Dweller
 2 Archfiend's Vessel
 2 Call of the Death-Dweller
-3 Call of the Death-Dweller
 3 Archfiend's Vessel
+3 Call of the Death-Dweller
 4 Archfiend's Vessel
 4 Mayhem Devil
 6 Mountain
@@ -87,9 +87,9 @@
 2 Blacklance Paragon
 2 Fervent Champion
 2 Stormfist Crusader
-3 Blacklance Paragon
 3 Stormfist Crusader
 3 Fervent Champion
+3 Blacklance Paragon
 4 Blacklance Paragon
 4 Stormfist Crusader
 4 Fervent Champion
@@ -147,7 +147,6 @@
 1 Zagoth Triome
 1 Everquill Phoenix
 1 Watery Grave
-1 Sea-Dasher Octopus
 1 Pollywog Symbiote
 1 Stonecoil Serpent
 1 Island
@@ -155,6 +154,7 @@
 1 Marauding Raptor
 1 Dirge Bat
 1 Steam Vents
+1 Sea-Dasher Octopus
 1 Insatiable Hemophage
 1 Pouncing Shoreshark
 2 Everquill Phoenix
@@ -192,18 +192,18 @@
 1 Fissure Wizard
 1 Acquisitions Expert
 1 Bloodfell Caves
-1 Feed the Swarm
-1 Grotag Bug-Catcher
-1 Deadly Alliance
 1 Malakir Blood-Priest
+1 Deadly Alliance
+1 Grotag Bug-Catcher
+1 Feed the Swarm
 2 Fireblade Charger
 2 Fissure Wizard
 2 Acquisitions Expert
 2 Bloodfell Caves
-2 Feed the Swarm
-2 Malakir Blood-Priest
-2 Deadly Alliance
 2 Grotag Bug-Catcher
+2 Deadly Alliance
+2 Malakir Blood-Priest
+2 Feed the Swarm
 3 Fireblade Charger
 3 Fissure Wizard
 3 Acquisitions Expert
@@ -213,7 +213,7 @@
 4 Acquisitions Expert
 4 Bloodfell Caves
 4 Fissure Wizard
-4 Grotag Bug-Catcher
 4 Malakir Blood-Priest
+4 Grotag Bug-Catcher
 9 Mountain
 8 Mountain

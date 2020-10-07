@@ -4,8 +4,8 @@
 2 Snow-Covered Forest
 1 Karakas
 1 Prismatic Vista
-1 Abrupt Decay
 1 Underground Sea
+1 Abrupt Decay
 1 Snow-Covered Swamp
 2 Abrupt Decay
 1 Sylvan Library
@@ -14,17 +14,17 @@
 2 Teferi, Time Raveler
 2 Prismatic Vista
 1 Supreme Verdict
-1 Windswept Heath
-1 Noble Hierarch
-1 Dryad Arbor
-1 Green Sun's Zenith
-1 Natural Order
-1 Savannah
 1 Verdant Catacombs
+1 Green Sun's Zenith
+1 Dryad Arbor
+1 Noble Hierarch
+1 Natural Order
+1 Windswept Heath
+1 Savannah
 2 Verdant Catacombs
-2 Windswept Heath
 2 Green Sun's Zenith
 2 Tropical Island
+2 Windswept Heath
 2 Noble Hierarch
 2 Natural Order
 3 Snow-Covered Forest
@@ -71,18 +71,16 @@
 2 Jolrael, Mwonvuli Recluse
 2 Skyclave Apparition
 2 Tundra
-1 Courser of Kruphix
-3 Verdant Catacombs
-2 Leovold, Emissary of Trest
-3 Prismatic Vista
-1 Counterbalance
-2 Counterbalance
-3 Snapcaster Mage
-2 Narset, Parter of Veils
-3 Polluted Delta
 1 Engineered Explosives
 2 Plains
 3 Island
+1 Counterbalance
+2 Counterbalance
+3 Snapcaster Mage
+2 Leovold, Emissary of Trest
+3 Prismatic Vista
+2 Narset, Parter of Veils
+3 Polluted Delta
 1 Sevinne's Reclamation
 1 Brazen Borrower
 1 Batterskull
@@ -92,10 +90,12 @@
 2 Sevinne's Reclamation
 2 Stoneforge Mystic
 3 Stoneforge Mystic
+1 Courser of Kruphix
+3 Verdant Catacombs
 1 Questing Beast
-1 Scavenging Ooze
 1 Craterhoof Behemoth
+1 Scavenging Ooze
 2 Dryad Arbor
-3 Windswept Heath
 3 Tropical Island
+3 Windswept Heath
 4 Windswept Heath

@@ -24,15 +24,3 @@
 |                                                                                            |                                                                                           |4 [Irencrag Feat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473089)    |
 |                                                                                            |                                                                                           |1 [Tendrils of Agony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45842) |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
-|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)|                    1|[Cave-In](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19725)          |
-|                    2|[Pyretic Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205067)|                    1|[Goblin War Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6594) |
-|                     |                                                                                         |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)|
-|                     |                                                                                         |                    1|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)    |
-|                     |                                                                                         |                    1|[Reverent Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=22316) |
-|                     |                                                                                         |                    2|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)    |
-
