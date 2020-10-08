@@ -113,17 +113,17 @@
 2 Agadeem's Awakening
 2 Watery Grave
 3 Watery Grave
-1 Prized Amalgam
 1 Haunted Dead
-1 Creeping Chill
 1 Silversmote Ghoul
+1 Prized Amalgam
+1 Creeping Chill
 2 Haunted Dead
-2 Prized Amalgam
 2 Silversmote Ghoul
 2 Creeping Chill
+2 Prized Amalgam
 3 Silversmote Ghoul
-3 Creeping Chill
 3 Prized Amalgam
+3 Creeping Chill
 4 Prized Amalgam
 4 Creeping Chill
 4 Silversmote Ghoul
@@ -146,49 +146,6 @@
 2 Mountain
 3 Bonecrusher Giant
 4 Bonecrusher Giant
-1 Game Trail
-1 Wildborn Preserver
-1 Cinder Glade
-1 Burning-Tree Emissary
-1 Atarka's Command
-1 Reckless Bushwhacker
-1 Gruul Spellbreaker
-1 Legion Loyalist
-1 Yorvo, Lord of Garenbrig
-1 Klothys, God of Destiny
-2 Game Trail
-2 Cinder Glade
-2 Burning-Tree Emissary
-2 Atarka's Command
-2 Reckless Bushwhacker
-2 Klothys, God of Destiny
-2 Gruul Spellbreaker
-2 Rootbound Crag
-3 Reckless Bushwhacker
-3 Rootbound Crag
-3 Atarka's Command
-3 Burning-Tree Emissary
-3 Game Trail
-3 Gruul Spellbreaker
-3 Scavenging Ooze
-3 Mountain
-4 Game Trail
-4 Reckless Bushwhacker
-4 Burning-Tree Emissary
-4 Rootbound Crag
-1 Mayhem Devil
-1 Gilded Goose
-1 Dragonskull Summit
-1 Blood Crypt
-2 Mayhem Devil
-2 Blood Crypt
-2 Gilded Goose
-3 Mayhem Devil
-3 Gilded Goose
-3 Blood Crypt
-4 Mayhem Devil
-4 Gilded Goose
-4 Blood Crypt
 1 Clearwater Pathway
 1 Brazen Borrower
 2 Brazen Borrower
@@ -210,58 +167,88 @@
 1 Thought Erasure
 2 Thought Erasure
 1 Blackbloom Rogue
-1 Undercity Informer
+1 Balustrade Spy
 1 Worldspine Wurm
+1 Undercity Informer
 1 Sea Gate Restoration
-1 Jwari Disruption
 1 Into the Roil
 1 Driven / Despair
+1 Jwari Disruption
 1 Pelakka Predation
 1 Hagra Mauling
-1 Balustrade Spy
 1 Opt
+2 Hagra Mauling
 2 Worldspine Wurm
 2 Blackbloom Rogue
 2 Balustrade Spy
 2 Pelakka Predation
-2 Hagra Mauling
 2 Undercity Informer
 2 Sea Gate Restoration
 2 Jwari Disruption
 2 Opt
+3 Pelakka Predation
 3 Balustrade Spy
 3 Undercity Informer
-3 Pelakka Predation
-3 Blackbloom Rogue
 3 Sea Gate Restoration
 3 Thought Erasure
-3 Jwari Disruption
 3 Agadeem's Awakening
+3 Blackbloom Rogue
+3 Jwari Disruption
 3 Opt
 4 Balustrade Spy
 4 Agadeem's Awakening
 4 Undercity Informer
-4 Blackbloom Rogue
 4 Sea Gate Restoration
 4 Jwari Disruption
+4 Blackbloom Rogue
+1 Grisly Salvage
+1 Merfolk Secretkeeper
+1 Narcomoeba
+1 Gather the Pack
+1 Abundant Maw
+2 Grisly Salvage
+2 Merfolk Secretkeeper
+2 Gather the Pack
+2 Narcomoeba
+2 Abundant Maw
+3 Grisly Salvage
+3 Merfolk Secretkeeper
+3 Narcomoeba
+3 Botanical Sanctum
+4 Merfolk Secretkeeper
+4 Grisly Salvage
+4 Narcomoeba
+1 Gilded Goose
+1 Mayhem Devil
+1 Dragonskull Summit
+1 Blood Crypt
+2 Mayhem Devil
+2 Gilded Goose
+2 Blood Crypt
+3 Mayhem Devil
+3 Blood Crypt
+3 Gilded Goose
+4 Mayhem Devil
+4 Blood Crypt
+4 Gilded Goose
 1 Heart of Kiran
 2 Heart of Kiran
 3 Scrapheap Scrounger
 4 Scrapheap Scrounger
-1 Hashep Oasis
+1 Primal Might
 1 Surrak, the Hunt Caller
+1 Hashep Oasis
 1 Blossoming Defense
 1 Rotting Regisaur
 1 Field of Ruin
-1 Primal Might
 1 Garruk's Harbinger
 1 Thought-Knot Seer
 1 Vivien, Arkbow Ranger
 1 Ghalta, Primal Hunger
+2 Primal Might
 2 Surrak, the Hunt Caller
 2 Blossoming Defense
 2 Rotting Regisaur
-2 Primal Might
 2 Hashep Oasis
 2 Garruk's Harbinger
 2 Thought-Knot Seer
@@ -347,27 +334,10 @@
 4 Hinterland Harbor
 4 Sanctum of Ugin
 4 Elder Deep-Fiend
-1 Grisly Salvage
-1 Merfolk Secretkeeper
-1 Narcomoeba
-1 Gather the Pack
-1 Abundant Maw
-2 Grisly Salvage
-2 Merfolk Secretkeeper
-2 Gather the Pack
-2 Narcomoeba
-2 Abundant Maw
-3 Grisly Salvage
-3 Merfolk Secretkeeper
-3 Narcomoeba
-3 Botanical Sanctum
-4 Grisly Salvage
-4 Narcomoeba
-4 Merfolk Secretkeeper
 1 Enter the Infinite
 1 Possibility Storm
-1 Thassa's Oracle
 1 Shared Summons
+1 Thassa's Oracle
 1 Beanstalk Giant
 1 Fae of Wishes
 1 Steam Vents
@@ -428,6 +398,36 @@
 4 Luminarch Aspirant
 4 Acquisitions Expert
 4 Archpriest of Iona
+1 Game Trail
+1 Burning-Tree Emissary
+1 Atarka's Command
+1 Reckless Bushwhacker
+1 Gruul Spellbreaker
+1 Cinder Glade
+1 Legion Loyalist
+1 Yorvo, Lord of Garenbrig
+1 Wildborn Preserver
+1 Klothys, God of Destiny
+2 Game Trail
+2 Burning-Tree Emissary
+2 Atarka's Command
+2 Reckless Bushwhacker
+2 Klothys, God of Destiny
+2 Gruul Spellbreaker
+2 Cinder Glade
+2 Rootbound Crag
+3 Rootbound Crag
+3 Atarka's Command
+3 Burning-Tree Emissary
+3 Game Trail
+3 Reckless Bushwhacker
+3 Gruul Spellbreaker
+3 Scavenging Ooze
+3 Mountain
+4 Game Trail
+4 Burning-Tree Emissary
+4 Rootbound Crag
+4 Reckless Bushwhacker
 1 General's Enforcer
 1 Shanna, Sisay's Legacy
 2 General's Enforcer
@@ -451,23 +451,23 @@
 1 Fabled Passage
 1 Mystical Dispute
 2 Thieves' Guild Enforcer
-2 Clearwater Pathway
-2 Zareth San, the Trickster
 2 Nighthawk Scavenger
+2 Zareth San, the Trickster
 2 Soaring Thought-Thief
+2 Clearwater Pathway
 2 Eliminate
 2 Mystical Dispute
 2 Fabled Passage
-3 Clearwater Pathway
 3 Thieves' Guild Enforcer
 3 Soaring Thought-Thief
 3 Nighthawk Scavenger
+3 Clearwater Pathway
 3 Mystical Dispute
 3 Island
 4 Thieves' Guild Enforcer
-4 Drown in the Loch
 4 Soaring Thought-Thief
 4 Nighthawk Scavenger
+4 Drown in the Loch
 4 Mystical Dispute
 4 Island
 2 Castle Locthwain
@@ -515,12 +515,12 @@
 1 Seasoned Hallowblade
 1 Irrigated Farmland
 1 Sphinx's Revelation
+1 Supreme Verdict
 1 Gideon of the Trials
 1 Toolcraft Exemplar
 1 Spell Pierce
 1 Glacial Fortress
 1 Chart a Course
-1 Supreme Verdict
 2 Seasoned Hallowblade
 2 Gideon of the Trials
 2 Irrigated Farmland
@@ -548,13 +548,13 @@
 1 Ashiok, Nightmare Muse
 1 Glint-Sleeve Siphoner
 1 Aether Hub
+1 Tasigur, the Golden Fang
 1 Atris, Oracle of Half-Truths
 1 Gifted Aetherborn
 1 Ashiok, Nightmare Weaver
 1 Collective Brutality
 1 Thief of Sanity
 1 Kalitas, Traitor of Ghet
-1 Tasigur, the Golden Fang
 1 Murderous Rider
 2 Fetid Pools
 2 Glint-Sleeve Siphoner
@@ -568,8 +568,8 @@
 2 Ashiok, Nightmare Weaver
 2 Tasigur, the Golden Fang
 3 Aether Hub
-3 Glint-Sleeve Siphoner
 3 Fetid Pools
+3 Glint-Sleeve Siphoner
 3 Thief of Sanity
 3 Murderous Rider
 4 Glint-Sleeve Siphoner

@@ -35,11 +35,11 @@
 |--------------------:|---------------------|--------------------:|--------------------------------------------------------------------------------------------|
 |                    1|Shatterskull Smashing|                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
 |                    1|Silundi Vision       |                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
-|                    1|Spikefield Hazard    |                    1|[Counterflux](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405183)      |
-|                    1|Riverglide Pathway   |                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
+|                    1|Riverglide Pathway   |                    1|[Counterflux](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405183)      |
+|                    1|Spikefield Hazard    |                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
 |                    2|Silundi Vision       |                    1|[By Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426825)         |
-|                    2|Spikefield Hazard    |                    2|[By Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426825)         |
-|                    2|Riverglide Pathway   |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
+|                    2|Riverglide Pathway   |                    2|[By Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426825)         |
+|                    2|Spikefield Hazard    |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
 |                    3|Riverglide Pathway   |                    3|[Fry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466894)              |
 |                    4|Riverglide Pathway   |                    3|[By Force](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426825)         |
 |                    1|Unknown Card         |                     |                                                                                            |

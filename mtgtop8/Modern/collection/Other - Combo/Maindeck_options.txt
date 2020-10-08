@@ -1,14 +1,17 @@
-2 Polluted Delta
+1 Snow-Covered Island
 2 Scalding Tarn
-2 Snow-Covered Island
-1 Muddle the Mixture
-2 Watery Grave
+1 Thoughtseize
+2 Thoughtseize
+3 Watery Grave
+3 Thoughtseize
 3 Polluted Delta
 4 Polluted Delta
+3 Force of Negation
+1 Muddle the Mixture
+2 Snow-Covered Island
 1 Snow-Covered Swamp
 1 Preordain
 1 Ponder
-1 Thoughtseize
 1 Chrome Mox
 1 Urborg, Tomb of Yawgmoth
 1 Vampire Hexmage
@@ -23,7 +26,6 @@
 2 Preordain
 2 Ponder
 2 Chrome Mox
-2 Thoughtseize
 2 Dark Confidant
 2 Dark Depths
 2 Gitaxian Probe
@@ -31,16 +33,14 @@
 2 Thopter Foundry
 2 Thespian's Stage
 2 Urborg, Tomb of Yawgmoth
-3 Watery Grave
 3 Ponder
 3 Chrome Mox
 3 Preordain
+3 Vampire Hexmage
 3 Urborg, Tomb of Yawgmoth
 3 Dark Confidant
-3 Vampire Hexmage
 3 Thopter Foundry
 3 Dark Depths
-3 Thoughtseize
 3 Gitaxian Probe
 4 Ponder
 4 Chrome Mox
@@ -70,18 +70,18 @@
 1 Vengevine
 1 Creeping Chill
 1 Narcomoeba
+1 Balustrade Spy
 1 Pelakka Predation
 1 Phantasmagorian
-1 Balustrade Spy
 1 Emeria's Call
 1 Salvage Titan
 1 Agadeem's Awakening
 1 Undercity Informer
+2 Agadeem's Awakening
 2 Vengevine
 2 Narcomoeba
 2 Creeping Chill
 2 Emeria's Call
-2 Agadeem's Awakening
 2 Undercity Informer
 2 Pelakka Predation
 2 Balustrade Spy
@@ -97,6 +97,45 @@
 4 Undercity Informer
 4 Balustrade Spy
 4 Agadeem's Awakening
+1 Island
+1 Shelldock Isle
+1 Inverter of Truth
+1 Thassa's Oracle
+1 Jace, Wielder of Mysteries
+2 Shelldock Isle
+2 Inverter of Truth
+2 Thassa's Oracle
+2 Jace, Wielder of Mysteries
+3 Jace, Wielder of Mysteries
+3 Inverter of Truth
+4 Inverter of Truth
+1 Opt
+1 Swamp
+1 Inquisition of Kozilek
+2 Opt
+2 Inquisition of Kozilek
+3 Opt
+4 Opt
+1 River of Tears
+1 Murderous Cut
+1 Fatal Push
+1 Remand
+1 Relic of Progenitus
+2 Fatal Push
+2 Remand
+2 Swamp
+2 River of Tears
+2 Island
+3 Remand
+3 Fatal Push
+3 River of Tears
+4 Watery Grave
+4 Remand
+2 Pact of Negation
+3 Shelldock Isle
+4 Shelldock Isle
+3 Thassa's Oracle
+4 Thassa's Oracle
 1 Teferi, Time Raveler
 1 Flooded Strand
 1 Phyrexian Unlife
@@ -110,12 +149,11 @@
 1 Arid Mesa
 2 Arid Mesa
 1 Wall of Omens
-1 Snow-Covered Mountain
 1 Spell Queller
-1 Prismatic Vista
-1 Sacred Foundry
-1 Fae of Wishes
 1 Narset of the Ancient Way
+1 Prismatic Vista
+1 Fae of Wishes
+1 Sacred Foundry
 1 Chandra, Torch of Defiance
 1 Commandeer
 1 Drannith Magistrate
@@ -124,17 +162,18 @@
 1 Jace, the Mind Sculptor
 1 Reverse the Sands
 1 Snow-Covered Plains
+1 Snow-Covered Mountain
 1 Possibility Storm
 2 Jace, the Mind Sculptor
 2 Spell Queller
 2 Wall of Omens
 2 Snow-Covered Mountain
 2 Snow-Covered Plains
+2 Narset of the Ancient Way
 2 Prismatic Vista
 2 Fae of Wishes
 2 Spellskite
 2 Delay
-2 Narset of the Ancient Way
 2 Possibility Storm
 2 Drannith Magistrate
 2 Chandra, Torch of Defiance
@@ -155,25 +194,26 @@
 4 Fae of Wishes
 4 Spell Queller
 4 Teferi, Time Raveler
+4 Flooded Strand
+4 Scalding Tarn
 4 Snow-Covered Island
 4 Prismatic Vista
 4 Wall of Omens
 4 Arid Mesa
-4 Scalding Tarn
 4 Drannith Magistrate
-4 Flooded Strand
 4 Snow-Covered Plains
 4 Delay
 5 Snow-Covered Island
 5 Snow-Covered Plains
-2 Pact of Negation
+1 Sunken Ruins
+1 Hallowed Fountain
 1 Defense Grid
 2 Defense Grid
 3 Defense Grid
 1 Nexus of Fate
+1 Leyline of Sanctity
 1 Talisman of Resilience
 1 Hagra Mauling
-1 Leyline of Sanctity
 2 Leyline of Sanctity
 2 Talisman of Resilience
 3 Pelakka Predation
@@ -200,26 +240,18 @@
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
-1 Hallowed Fountain
-1 Island
 1 Mission Briefing
-1 Sunken Ruins
-1 Opt
-1 Inquisition of Kozilek
 1 Blood Crypt
 1 Rakdos Charm
 1 Godless Shrine
 1 Batwing Brume
 1 Trespasser's Curse
-1 Swamp
 1 Hunted Phantasm
 1 Bloodstained Mire
 1 Rapid Hybridization
 1 Hydrolash
 1 Forbidden Orchard
 1 Pongify
-2 Opt
-2 Inquisition of Kozilek
 2 Rakdos Charm
 2 Bloodstained Mire
 2 Trespasser's Curse
@@ -230,69 +262,78 @@
 2 Mission Briefing
 2 Batwing Brume
 2 Rapid Hybridization
-3 Opt
 3 Inquisition of Kozilek
 3 Bloodstained Mire
 3 Rakdos Charm
 3 Mission Briefing
 3 Hunted Phantasm
 3 Batwing Brume
-3 Forbidden Orchard
 3 Trespasser's Curse
 3 Hydrolash
-4 Opt
+3 Forbidden Orchard
 4 Inquisition of Kozilek
 4 Forbidden Orchard
 4 Hunted Phantasm
 4 Trespasser's Curse
 4 Batwing Brume
 4 Rakdos Charm
+1 Snapcaster Mage
+1 Tasigur, the Golden Fang
+1 Vendilion Clique
+1 Cryptic Command
+2 Snapcaster Mage
+3 Snapcaster Mage
+3 Island
+4 Fatal Push
+4 Jace, Wielder of Mysteries
 3 Pact of Negation
 4 Pact of Negation
 4 Sea Gate Restoration
 1 Plains
-1 Wishclaw Talisman
 1 Serum Visions
 1 Gemstone Mine
-1 Shelldock Isle
-1 Inverter of Truth
+1 Wishclaw Talisman
 1 Angel's Grace
 1 Talisman of Dominance
-1 Thassa's Oracle
 1 Spoils of the Vault
 1 City of Brass
-1 Jace, Wielder of Mysteries
-2 Wishclaw Talisman
 2 Talisman of Dominance
 2 Spoils of the Vault
-2 Shelldock Isle
-2 Inverter of Truth
-2 Thassa's Oracle
-2 Jace, Wielder of Mysteries
 2 Gemstone Mine
 2 City of Brass
 2 Serum Visions
+2 Wishclaw Talisman
 2 Angel's Grace
-3 Shelldock Isle
 3 Talisman of Dominance
 3 Gemstone Mine
 3 City of Brass
-3 Jace, Wielder of Mysteries
 3 Serum Visions
 3 Angel's Grace
 3 Spoils of the Vault
-3 Inverter of Truth
-3 Thassa's Oracle
-4 Shelldock Isle
-4 Thassa's Oracle
 4 Serum Visions
 4 Spoils of the Vault
-4 Inverter of Truth
 4 Angel's Grace
-1 Windswept Heath
+1 Omen of the Sea
+1 Cling to Dust
+1 Darkslick Shores
+1 Eliminate
+1 Leveler
+1 Eldrazi Temple
+1 Logic Knot
+2 Omen of the Sea
+2 Darkslick Shores
+2 Relic of Progenitus
+2 Eldrazi Temple
+3 Omen of the Sea
+3 Darkslick Shores
+3 Relic of Progenitus
+4 River of Tears
 1 Through the Breach
+1 Stomping Ground
 1 Gemstone Caverns
+1 Wooded Foothills
 1 Charming Prince
+1 Windswept Heath
 1 Utopia Sprawl
 1 Emrakul, the Aeons Torn
 1 Flickerwisp
@@ -303,36 +344,34 @@
 1 Devoted Druid
 1 Misty Rainforest
 1 Forest
-1 Stomping Ground
-1 Wooded Foothills
 1 Eladamri's Call
-2 Windswept Heath
 2 Through the Breach
 2 Forest
-2 Emrakul, the Aeons Torn
-2 Wooded Foothills
 2 Flickerwisp
+2 Wooded Foothills
 2 Charming Prince
 2 Gemstone Caverns
+2 Windswept Heath
 2 Temple Garden
 2 Stomping Ground
 2 Plains
 2 Utopia Sprawl
+2 Emrakul, the Aeons Torn
 2 Misty Rainforest
 2 Devoted Druid
 2 Worldspine Wurm
 2 Dubious Challenge
 2 Eladamri's Call
 3 Charming Prince
-3 Windswept Heath
 3 Through the Breach
+3 Windswept Heath
 3 Temple Garden
+3 Emrakul, the Aeons Torn
 3 Utopia Sprawl
 3 Dubious Challenge
 3 Eladamri's Call
 3 Flickerwisp
 3 Devoted Druid
-3 Emrakul, the Aeons Torn
 4 Charming Prince
 4 Through the Breach
 4 Windswept Heath

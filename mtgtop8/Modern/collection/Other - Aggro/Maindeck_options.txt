@@ -19,22 +19,22 @@
 5 Forest
 1 Plains
 2 Plains
-1 Ranger-Captain of Eos
 1 Spike Feeder
 1 Conclave Mentor
 1 Horizon Canopy
 1 Prismatic Vista
-1 Temple Garden
 1 Gavony Township
-1 Idyllic Grange
+1 Ranger-Captain of Eos
 1 Auriok Champion
 1 Hardened Scales
 1 Walking Ballista
 1 Heliod, Sun-Crowned
+1 Temple Garden
 1 Collected Company
-2 Ranger-Captain of Eos
-2 Spike Feeder
+1 Idyllic Grange
 2 Conclave Mentor
+2 Spike Feeder
+2 Ranger-Captain of Eos
 2 Auriok Champion
 2 Collected Company
 2 Horizon Canopy
@@ -42,18 +42,18 @@
 2 Heliod, Sun-Crowned
 2 Temple Garden
 2 Walking Ballista
-3 Ranger-Captain of Eos
-3 Spike Feeder
 3 Conclave Mentor
+3 Spike Feeder
 3 Scavenging Ooze
+3 Ranger-Captain of Eos
 3 Hardened Scales
 3 Horizon Canopy
 3 Heliod, Sun-Crowned
 3 Temple Garden
 3 Collected Company
-4 Ranger-Captain of Eos
 4 Spike Feeder
 4 Conclave Mentor
+4 Ranger-Captain of Eos
 4 Hardened Scales
 4 Temple Garden
 4 Heliod, Sun-Crowned
@@ -65,68 +65,68 @@
 1 Polluted Delta
 2 Polluted Delta
 1 Overgrown Tomb
-1 Disrupting Shoal
-1 Snow-Covered Swamp
 1 Snow-Covered Forest
 1 Gilded Goose
 1 Ice-Fang Coatl
-1 Breeding Pool
+1 Ninja of the Deep Hours
+1 Disrupting Shoal
 1 Spellstutter Sprite
 1 Drown in the Loch
-1 Force of Negation
 1 Abrupt Decay
 1 Faerie Seer
 1 Mist-Syndicate Naga
+1 Breeding Pool
 1 Ingenious Infiltrator
 1 Snow-Covered Island
-1 Ninja of the Deep Hours
 1 Mana Leak
 1 Darkslick Shores
 1 Botanical Sanctum
 1 Fatal Push
 1 Fallen Shinobi
-2 Misty Rainforest
-2 Disrupting Shoal
+1 Force of Negation
+1 Snow-Covered Swamp
 2 Gilded Goose
 2 Ice-Fang Coatl
-2 Spellstutter Sprite
+2 Disrupting Shoal
 2 Snow-Covered Island
-2 Force of Negation
+2 Spellstutter Sprite
 2 Fatal Push
 2 Botanical Sanctum
 2 Brazen Borrower
 2 Darkslick Shores
+2 Force of Negation
+2 Misty Rainforest
 2 Ingenious Infiltrator
 2 Mana Leak
 2 Faerie Seer
-3 Disrupting Shoal
 3 Gilded Goose
 3 Ice-Fang Coatl
-3 Fatal Push
-3 Brazen Borrower
+3 Disrupting Shoal
 3 Spellstutter Sprite
+3 Brazen Borrower
 3 Snow-Covered Island
-3 Misty Rainforest
 3 Ingenious Infiltrator
 3 Faerie Seer
 3 Polluted Delta
+3 Fatal Push
 3 Darkslick Shores
+3 Misty Rainforest
 4 Ice-Fang Coatl
-4 Misty Rainforest
-4 Spellstutter Sprite
 4 Fatal Push
+4 Spellstutter Sprite
 4 Faerie Seer
 4 Ingenious Infiltrator
+4 Misty Rainforest
 4 Polluted Delta
 1 Wooded Foothills
 1 Stomping Ground
 2 Wooded Foothills
 2 Stomping Ground
 1 Blood Crypt
-1 Arid Mesa
 1 Dakmor Salvage
 1 Mana Confluence
 1 Conflagrate
+1 Arid Mesa
 1 Bloodghast
 1 Narcomoeba
 1 Copperline Gorge
@@ -175,10 +175,9 @@
 4 Creeping Chill
 1 Klothys, God of Destiny
 1 Questing Beast
-1 Verdant Catacombs
 1 Blooming Marsh
-1 Traverse the Ulvenwald
 1 Nurturing Peatland
+1 Traverse the Ulvenwald
 1 Swamp
 1 Grisly Salvage
 1 Ghor-Clan Rampager
@@ -193,10 +192,11 @@
 1 Cavern of Souls
 1 Lotleth Troll
 1 Zetalpa, Primal Dawn
+1 Verdant Catacombs
 2 Blooming Marsh
+2 Verdant Catacombs
 2 Overgrown Tomb
 2 Traverse the Ulvenwald
-2 Verdant Catacombs
 2 Swamp
 2 Bomat Courier
 2 Blood Crypt
@@ -232,17 +232,17 @@
 1 Marsh Flats
 1 Mutavault
 1 Godless Shrine
-1 Island
 1 Spell Queller
 1 Moorland Haunt
-1 Hallowed Fountain
 1 Deputy of Detention
 1 Selfless Spirit
 1 Force of Virtue
 1 Geist of Saint Traft
+1 Hallowed Fountain
 1 Empyrean Eagle
 1 Aether Vial
 1 Flooded Strand
+1 Island
 1 Mausoleum Wanderer
 1 Seachrome Coast
 1 Squadron Hawk
@@ -263,13 +263,13 @@
 2 Flooded Strand
 2 Squadron Hawk
 3 Spell Queller
-3 Path to Exile
 3 Supreme Phantom
 3 Empyrean Eagle
 3 Flooded Strand
 3 Force of Virtue
 3 Aether Vial
 3 Squadron Hawk
+3 Path to Exile
 3 Mausoleum Wanderer
 3 Seachrome Coast
 4 Spell Queller
@@ -281,17 +281,17 @@
 4 Aether Vial
 4 Squadron Hawk
 4 Force of Virtue
-1 Wrenn and Six
 1 Elder Gargaroth
 1 Blood Moon
 1 Chandra, Torch of Defiance
 1 Bloodbraid Elf
 1 Bonecrusher Giant
+1 Wrenn and Six
 1 Pillage
 1 Seasoned Pyromancer
+2 Blood Moon
 2 Bonecrusher Giant
 2 Elder Gargaroth
-2 Blood Moon
 2 Seasoned Pyromancer
 2 Bloodbraid Elf
 2 Pillage

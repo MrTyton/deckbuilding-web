@@ -27,20 +27,20 @@
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
+1 Dryad of the Ilysian Grove
 1 Dryad Arbor
 1 Green Sun's Zenith
-1 Dryad of the Ilysian Grove
 1 Valakut, the Molten Pinnacle
-2 Green Sun's Zenith
-2 Forest
 2 Dryad of the Ilysian Grove
+2 Forest
+2 Green Sun's Zenith
 2 Ancient Tomb
 2 Valakut, the Molten Pinnacle
 3 Dryad of the Ilysian Grove
 3 Green Sun's Zenith
 3 Ancient Tomb
-4 Green Sun's Zenith
 4 Dryad of the Ilysian Grove
+4 Green Sun's Zenith
 4 Ancient Tomb
 3 Sylvan Library
 1 Radha, Heart of Keld
@@ -60,8 +60,8 @@
 2 Misty Rainforest
 2 Windswept Heath
 2 Verdant Catacombs
-1 Ketria Triome
 1 Leovold, Emissary of Trest
+1 Ketria Triome
 1 Riftstone Portal
 1 Lightning Bolt
 2 Lightning Bolt
@@ -70,15 +70,6 @@
 1 Yidaro, Wandering Monster
 2 Yidaro, Wandering Monster
 3 Yidaro, Wandering Monster
-3 Valakut Exploration
-4 Valakut Exploration
-1 Courser of Kruphix
-4 Abrupt Decay
-1 Scattered Groves
-1 Molten Vortex
-1 Horizon Canopy
-1 Hall of Heliod's Generosity
-4 Gamble
 2 Snow-Covered Forest
 1 Savannah
 1 Plains
@@ -92,14 +83,23 @@
 2 Turntimber Symbiosis
 2 Yasharn, Implacable Earth
 2 Knight of the Reliquary
-3 Windswept Heath
-3 Swords to Plowshares
-3 Turntimber Symbiosis
 3 Primeval Titan
-4 Windswept Heath
+3 Windswept Heath
+3 Turntimber Symbiosis
+3 Swords to Plowshares
 4 Primeval Titan
-1 Academy Ruins
+4 Windswept Heath
+3 Valakut Exploration
+4 Valakut Exploration
+1 Courser of Kruphix
+4 Abrupt Decay
+1 Scattered Groves
+1 Molten Vortex
+1 Horizon Canopy
+1 Hall of Heliod's Generosity
+4 Gamble
 1 Engineered Explosives
+1 Academy Ruins
 1 Tolaria West
 4 Uro, Titan of Nature's Wrath
 4 Rishadan Port
@@ -113,11 +113,11 @@
 2 Thoughtseize
 2 Brainstorm
 2 Dark Confidant
-3 Verdant Catacombs
 3 Elvish Reclaimer
 3 Misty Rainforest
 3 Oko, Thief of Crowns
 3 Brainstorm
+3 Verdant Catacombs
 3 Dark Confidant
 3 Thoughtseize
 4 Thoughtseize
@@ -146,9 +146,9 @@
 1 Vesuva
 1 Elvish Rejuvenator
 1 Emrakul, the Aeons Torn
-2 Ulamog, the Ceaseless Hunger
 2 Pithing Needle
 2 Candelabra of Tawnos
+2 Ulamog, the Ceaseless Hunger
 2 Golos, Tireless Pilgrim
 2 Elvish Rejuvenator
 2 Ugin, the Spirit Dragon
@@ -156,8 +156,8 @@
 2 Ugin, the Ineffable
 2 Cloudpost
 2 Glimmerpost
-3 Snow-Covered Forest
 3 Pithing Needle
+3 Snow-Covered Forest
 3 Candelabra of Tawnos
 3 Ulamog, the Ceaseless Hunger
 3 Vesuva
