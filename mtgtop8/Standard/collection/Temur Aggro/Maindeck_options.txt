@@ -56,19 +56,19 @@
 1 Radha, Heart of Keld
 1 Spikefield Hazard
 1 Unsubstantiate
-1 Cragcrown Pathway
-1 Embercleave
-1 Neutralize
-1 Tangled Florahedron
 1 Terror of the Peaks
+1 Embercleave
+1 Cragcrown Pathway
+1 Tangled Florahedron
+1 Neutralize
 2 Spikefield Hazard
 2 Questing Beast
-2 Neutralize
 2 Embercleave
 2 Tangled Florahedron
+2 Neutralize
 3 Embercleave
-3 Questing Beast
 3 Spikefield Hazard
+3 Questing Beast
 4 Island
 1 Negate
 1 Scorching Dragonfire
@@ -83,11 +83,11 @@
 1 Scorch Spitter
 1 Lightning Stormkin
 1 Cloudkin Seer
-2 Thassa, Deep-Dwelling
 2 Healer of the Glade
 2 Scorch Spitter
 2 Cloudkin Seer
 2 Lightning Stormkin
+2 Thassa, Deep-Dwelling
 3 Healer of the Glade
 3 Lightning Stormkin
 3 Cloudkin Seer
@@ -104,11 +104,11 @@
 2 Castle Vantress
 2 Whirlwind Denial
 1 Riverglide Pathway
-1 Garruk's Harbinger
 1 Into the Roil
 1 Garruk, Unleashed
-2 Radha, Heart of Keld
+1 Garruk's Harbinger
 2 Into the Roil
+2 Radha, Heart of Keld
 2 Negate
 3 Nissa, Who Shakes the World
 1 Kazandu Mammoth
@@ -127,19 +127,19 @@
 2 Flame Sweep
 3 Essence Scatter
 3 Sinister Sabotage
+3 Tangled Florahedron
+4 Spikefield Hazard
 1 Wildborn Preserver
 1 The Royal Scions
-1 Brineborn Cutthroat
 1 Essence Capture
+1 Brineborn Cutthroat
 1 Ionize
 1 Unknown Card
 2 Spectral Sailor
 2 Wildborn Preserver
-2 Brineborn Cutthroat
 2 Ionize
-3 Brineborn Cutthroat
+2 Brineborn Cutthroat
 3 Wildborn Preserver
-4 Brineborn Cutthroat
+3 Brineborn Cutthroat
 4 Mystical Dispute
-3 Tangled Florahedron
-4 Spikefield Hazard
+4 Brineborn Cutthroat

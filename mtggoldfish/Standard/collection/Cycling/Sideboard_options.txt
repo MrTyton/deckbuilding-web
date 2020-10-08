@@ -1,26 +1,16 @@
 3 Shredded Sails
-2 Redcap Melee
-3 Redcap Melee
 1 Light of Hope
 4 Shredded Sails
 2 Thundering Rebuke
 3 Thundering Rebuke
 2 Soul-Guide Lantern
 3 Soul-Guide Lantern
+4 Thundering Rebuke
 2 Light of Hope
 3 Light of Hope
-4 Thundering Rebuke
-1 Claim the Firstborn
-1 Roiling Vortex
-2 Roiling Vortex
-1 Containment Priest
-2 Containment Priest
+2 Redcap Melee
+3 Redcap Melee
 2 Drannith Magistrate
-2 Fight as One
-1 Confounding Conundrum
-1 Disenchant
-2 Spikefield Hazard
-2 Claim the Firstborn
 1 Gemrazer
 1 Archon of Emeria
 1 Glass Casket
@@ -34,6 +24,17 @@
 4 Archon of Emeria
 2 Glass Casket
 3 Gemrazer
+1 Claim the Firstborn
+2 Basri Ket
+3 Basri Ket
+2 Fight as One
+1 Disenchant
+2 Spikefield Hazard
+2 Claim the Firstborn
+1 Roiling Vortex
+2 Roiling Vortex
+1 Containment Priest
+2 Containment Priest
 4 Redcap Melee
 2 Disenchant
 2 Scorching Dragonfire
@@ -50,6 +51,7 @@
 2 Wilt
 1 Heroic Intervention
 1 The Great Henge
+1 Confounding Conundrum
 1 Ominous Seas
 1 Hushbringer
 2 Hushbringer
@@ -90,8 +92,6 @@
 2 Runed Halo
 2 Heroic Intervention
 3 Witch's Vengeance
-2 Basri Ket
-3 Basri Ket
 1 Embereth Shieldbreaker
 2 Embereth Shieldbreaker
 3 Drannith Magistrate
@@ -109,3 +109,4 @@
 3 Fight as One
 4 Fight as One
 4 Soul-Guide Lantern
+2 Lurrus of the Dream-Den

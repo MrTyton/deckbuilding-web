@@ -19,8 +19,8 @@
 2 Fetid Pools
 1 Sinister Sabotage
 1 Torrential Gearhulk
-2 Torrential Gearhulk
 2 Shark Typhoon
+2 Torrential Gearhulk
 3 Censor
 1 Castle Locthwain
 1 Field of Ruin
@@ -112,8 +112,8 @@
 1 Clifftop Retreat
 1 Sea Gate Restoration
 1 Agent of Treachery
-2 Genesis Ultimatum
 2 Turntimber Symbiosis
+2 Genesis Ultimatum
 2 Sea Gate Restoration
 2 Evolving Wilds
 2 Cultivate
@@ -153,7 +153,6 @@
 2 Treacherous Blessing
 2 Temple of Silence
 2 Yorion, Sky Nomad
-2 Shambling Vent
 2 Elspeth Conquers Death
 2 Mazemind Tome
 2 Plains
@@ -165,7 +164,9 @@
 2 Godless Shrine
 2 Trial of Ambition
 2 Oath of Kaya
+2 Shambling Vent
 2 The Birth of Meletis
+3 Isolated Chapel
 3 Trial of Ambition
 3 Flicker of Fate
 3 Treacherous Blessing
@@ -177,14 +178,13 @@
 3 Kaya's Wrath
 3 Plains
 3 Godless Shrine
-3 Isolated Chapel
 3 Doom Foretold
 4 Oath of Kaya
 4 Trial of Ambition
-4 Isolated Chapel
 4 Plains
 4 Shambling Vent
 4 Mazemind Tome
+4 Isolated Chapel
 4 Kaya's Wrath
 4 Godless Shrine
 4 Concealed Courtyard
@@ -231,13 +231,13 @@
 3 Crypt Incursion
 4 Drown in the Loch
 4 Clearwater Pathway
+4 Merfolk Secretkeeper
 4 Fraying Sanity
 4 Breaking / Entering
 4 Maddening Cacophony
 4 Ruin Crab
 4 Drowned Secrets
 4 Ipnu Rivulet
-4 Merfolk Secretkeeper
 1 Consign / Oblivion
 2 Vraska's Contempt
 1 Extinction Event
@@ -297,14 +297,14 @@
 2 Hazoret the Fervent
 2 Kolaghan's Command
 2 Waste Not
-3 Eliminate
 3 Kolaghan's Command
 3 Liliana, Waker of the Dead
+3 Eliminate
 3 Davriel, Rogue Shadowmage
 3 Castle Locthwain
 3 Waste Not
-4 Dragonskull Summit
 4 Swamp
+4 Dragonskull Summit
 4 Liliana, Waker of the Dead
 4 Waste Not
 4 Castle Locthwain
@@ -319,7 +319,6 @@
 3 Dryad of the Ilysian Grove
 4 Dryad of the Ilysian Grove
 1 Dimir Guildgate
-1 Orzhov Guildgate
 1 Gateway Plaza
 1 Gatecreeper Vine
 1 Plaza of Harmony
@@ -335,6 +334,7 @@
 1 Maze's End
 1 Rakdos Guildgate
 1 Mythos of Nethroi
+1 Orzhov Guildgate
 1 Boros Guildgate
 1 Gatebreaker Ram
 2 Gruul Guildgate
@@ -367,10 +367,10 @@
 4 Simic Guildgate
 4 Guild Summit
 4 Gatecreeper Vine
-1 Neutralize
-1 Sublime Epiphany
 1 Blast Zone
+1 Sublime Epiphany
 1 Wilderness Reclamation
+1 Neutralize
 1 Aetherspouts
 2 Blast Zone
 2 Sublime Epiphany
@@ -379,8 +379,8 @@
 2 Neutralize
 3 Castle Vantress
 3 Blast Zone
-3 Wilderness Reclamation
 3 Sublime Epiphany
+3 Wilderness Reclamation
 4 Censor
 4 Temple of Mystery
 4 Breeding Pool

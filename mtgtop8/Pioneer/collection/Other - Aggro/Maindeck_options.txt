@@ -44,25 +44,25 @@
 3 Elvish Mystic
 1 Swamp
 1 Catacomb Sifter
-1 Bolas's Citadel
-1 Woe Strider
-1 Zulaport Cutthroat
 1 Priest of Forgotten Gods
-2 Catacomb Sifter
-2 Bolas's Citadel
+1 Bolas's Citadel
+1 Zulaport Cutthroat
+1 Woe Strider
 2 Priest of Forgotten Gods
+2 Catacomb Sifter
 2 Zulaport Cutthroat
+2 Bolas's Citadel
 2 Woe Strider
-3 Catacomb Sifter
-3 Bolas's Citadel
 3 Zulaport Cutthroat
 3 Woe Strider
+3 Catacomb Sifter
 3 Priest of Forgotten Gods
+3 Bolas's Citadel
 4 Zulaport Cutthroat
-4 Bolas's Citadel
-4 Catacomb Sifter
 4 Woe Strider
 4 Priest of Forgotten Gods
+4 Bolas's Citadel
+4 Catacomb Sifter
 1 Botanical Sanctum
 1 Rogue Refiner
 2 Rogue Refiner
@@ -114,13 +114,13 @@
 2 Watery Grave
 3 Watery Grave
 1 Haunted Dead
-1 Silversmote Ghoul
-1 Prized Amalgam
 1 Creeping Chill
-2 Haunted Dead
+1 Prized Amalgam
+1 Silversmote Ghoul
 2 Silversmote Ghoul
 2 Creeping Chill
 2 Prized Amalgam
+2 Haunted Dead
 3 Silversmote Ghoul
 3 Prized Amalgam
 3 Creeping Chill
@@ -168,15 +168,15 @@
 2 Thought Erasure
 1 Blackbloom Rogue
 1 Balustrade Spy
-1 Worldspine Wurm
-1 Undercity Informer
 1 Sea Gate Restoration
 1 Into the Roil
 1 Driven / Despair
 1 Jwari Disruption
 1 Pelakka Predation
 1 Hagra Mauling
+1 Worldspine Wurm
 1 Opt
+1 Undercity Informer
 2 Hagra Mauling
 2 Worldspine Wurm
 2 Blackbloom Rogue
@@ -201,6 +201,19 @@
 4 Sea Gate Restoration
 4 Jwari Disruption
 4 Blackbloom Rogue
+1 Gilded Goose
+1 Mayhem Devil
+1 Dragonskull Summit
+1 Blood Crypt
+2 Gilded Goose
+2 Mayhem Devil
+2 Blood Crypt
+3 Mayhem Devil
+3 Blood Crypt
+3 Gilded Goose
+4 Mayhem Devil
+4 Blood Crypt
+4 Gilded Goose
 1 Grisly Salvage
 1 Merfolk Secretkeeper
 1 Narcomoeba
@@ -215,30 +228,35 @@
 3 Merfolk Secretkeeper
 3 Narcomoeba
 3 Botanical Sanctum
-4 Merfolk Secretkeeper
 4 Grisly Salvage
 4 Narcomoeba
-1 Gilded Goose
-1 Mayhem Devil
-1 Dragonskull Summit
-1 Blood Crypt
-2 Mayhem Devil
-2 Gilded Goose
-2 Blood Crypt
-3 Mayhem Devil
-3 Blood Crypt
-3 Gilded Goose
-4 Mayhem Devil
-4 Blood Crypt
-4 Gilded Goose
+4 Merfolk Secretkeeper
+1 Archpriest of Iona
+1 Acquisitions Expert
+1 Luminarch Aspirant
+1 Bloodsoaked Champion
+1 Hamlet Captain
+1 Gust Walker
+2 Archpriest of Iona
+2 Acquisitions Expert
+2 Luminarch Aspirant
+2 Bloodsoaked Champion
+2 Gust Walker
+2 Hamlet Captain
+3 Archpriest of Iona
+3 Luminarch Aspirant
+3 Acquisitions Expert
+4 Luminarch Aspirant
+4 Archpriest of Iona
+4 Acquisitions Expert
 1 Heart of Kiran
 2 Heart of Kiran
 3 Scrapheap Scrounger
 4 Scrapheap Scrounger
 1 Primal Might
 1 Surrak, the Hunt Caller
-1 Hashep Oasis
 1 Blossoming Defense
+1 Hashep Oasis
 1 Rotting Regisaur
 1 Field of Ruin
 1 Garruk's Harbinger
@@ -270,9 +288,9 @@
 1 Oath of Nissa
 1 Conclave Mentor
 1 Rishkar, Peema Renegade
-2 Hangarback Walker
 2 Stonecoil Serpent
 2 Pelt Collector
+2 Hangarback Walker
 2 Winding Constrictor
 2 Conclave Mentor
 2 Rishkar, Peema Renegade
@@ -380,24 +398,6 @@
 4 Militia Bugler
 4 Spell Queller
 4 Glasspool Mimic
-1 Acquisitions Expert
-1 Luminarch Aspirant
-1 Archpriest of Iona
-1 Bloodsoaked Champion
-1 Hamlet Captain
-1 Gust Walker
-2 Acquisitions Expert
-2 Luminarch Aspirant
-2 Bloodsoaked Champion
-2 Gust Walker
-2 Archpriest of Iona
-2 Hamlet Captain
-3 Acquisitions Expert
-3 Luminarch Aspirant
-3 Archpriest of Iona
-4 Luminarch Aspirant
-4 Acquisitions Expert
-4 Archpriest of Iona
 1 Game Trail
 1 Burning-Tree Emissary
 1 Atarka's Command
@@ -476,7 +476,6 @@
 4 Godless Shrine
 1 Isolated Chapel
 1 Corpse Knight
-1 Foulmire Knight
 1 Lazotep Reaver
 1 Cryptbreaker
 1 Dark Salvation
@@ -486,9 +485,10 @@
 1 Necrotic Wound
 1 Wayward Servant
 1 Slitherhead
+1 Foulmire Knight
 2 Isolated Chapel
-2 Corpse Knight
 2 Foulmire Knight
+2 Corpse Knight
 2 Cryptbreaker
 2 Diregraf Colossus
 2 Lazotep Reaver
@@ -544,6 +544,7 @@
 4 Seasoned Hallowblade
 4 Heart of Kiran
 4 Toolcraft Exemplar
+1 Murderous Rider
 1 Fetid Pools
 1 Ashiok, Nightmare Muse
 1 Glint-Sleeve Siphoner
@@ -555,7 +556,7 @@
 1 Collective Brutality
 1 Thief of Sanity
 1 Kalitas, Traitor of Ghet
-1 Murderous Rider
+2 Murderous Rider
 2 Fetid Pools
 2 Glint-Sleeve Siphoner
 2 Aether Hub
@@ -564,7 +565,6 @@
 2 Kalitas, Traitor of Ghet
 2 Gifted Aetherborn
 2 Thief of Sanity
-2 Murderous Rider
 2 Ashiok, Nightmare Weaver
 2 Tasigur, the Golden Fang
 3 Aether Hub
@@ -595,7 +595,6 @@
 4 Mantis Rider
 4 Mutavault
 1 Fortified Village
-1 Scattered Groves
 1 Kaheera, the Orphanguard
 1 Fleecemane Lion
 1 Pride Sovereign
@@ -605,6 +604,7 @@
 1 Regal Caracal
 1 Adorned Pouncer
 1 Leonin Vanguard
+1 Scattered Groves
 1 Ajani Steadfast
 1 Animal Sanctuary
 2 Fortified Village

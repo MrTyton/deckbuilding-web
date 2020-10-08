@@ -1,4 +1,3 @@
-9 Plains
 1 Shatterskull Smashing
 1 Sejiri Shelter
 1 Brightclimb Pathway
@@ -8,15 +7,14 @@
 3 Riverglide Pathway
 1 Shredded Sails
 4 Riverglide Pathway
+9 Plains
 2 Brightclimb Pathway
-6 Mountain
 3 Brightclimb Pathway
 4 Brightclimb Pathway
+6 Mountain
 1 Raugrin Triome
 2 Raugrin Triome
 1 Emeria's Call
-1 Selfless Savior
-2 Selfless Savior
 1 Stonecoil Serpent
 1 Swarm Shambler
 1 Luminarch Aspirant
@@ -29,9 +27,9 @@
 2 Luminarch Aspirant
 2 Branchloft Pathway
 2 Conclave Mentor
-3 Conclave Mentor
 3 Forest
 3 Stonecoil Serpent
+3 Conclave Mentor
 4 Stonecoil Serpent
 4 Forest
 1 Temple of Plenty
@@ -43,46 +41,53 @@
 2 Basri's Lieutenant
 3 Swarm Shambler
 4 Conclave Mentor
-1 Scavenging Ooze
 5 Forest
+1 Scavenging Ooze
+1 Vastwood Fortification
+6 Forest
+1 Skyclave Apparition
+2 Skyclave Apparition
+1 Primal Might
+2 Primal Might
+1 Oran-Rief Ooze
+2 Oran-Rief Ooze
+3 Basri's Lieutenant
 2 Scavenging Ooze
 1 Fabled Passage
 2 Fabled Passage
-10 Plains
-4 Boon of the Wish-Giver
-1 Vastwood Fortification
-6 Forest
-1 Oran-Rief Ooze
-2 Oran-Rief Ooze
-1 Skyclave Apparition
-2 Skyclave Apparition
-4 Swarm Shambler
-1 Primal Might
-2 Primal Might
-3 Basri's Lieutenant
 1 Kabira Takedown
 2 Kabira Takedown
-2 Sejiri Shelter
 3 Skyclave Apparition
 2 Temple of Plenty
 3 Temple of Plenty
 4 Temple of Plenty
-3 Scavenging Ooze
-1 Turntimber Symbiosis
-1 The Great Henge
 3 Oran-Rief Ooze
 4 Oran-Rief Ooze
-1 Inscription of Abundance
-3 Fabled Passage
-7 Mountain
-8 Mountain
-3 Raugrin Triome
-4 Raugrin Triome
-1 Temple of Triumph
+10 Plains
+1 Selfless Savior
+2 Selfless Savior
+4 Swarm Shambler
+4 Boon of the Wish-Giver
 4 Skyclave Apparition
 1 Giant Killer
 1 Khalni Ambush
 2 Giant Killer
+4 Basri's Lieutenant
+3 Scavenging Ooze
+1 Turntimber Symbiosis
+2 Sejiri Shelter
+1 The Great Henge
+1 Inscription of Abundance
+3 Fabled Passage
+1 Fearless Fledgling
+2 Fearless Fledgling
+2 Emeria's Call
+3 Fearless Fledgling
+7 Mountain
+11 Plains
+3 Raugrin Triome
+4 Raugrin Triome
+1 Temple of Triumph
 2 The Great Henge
 2 Inscription of Abundance
 3 Inscription of Abundance
@@ -91,10 +96,9 @@
 3 Wildwood Scourge
 7 Forest
 2 Vastwood Fortification
+1 Swamp
 1 The Ozolith
 2 The Ozolith
-1 Swamp
-4 Basri's Lieutenant
 4 Fabled Passage
 1 Temple of Malady
 1 Kazuul's Fury
@@ -103,10 +107,6 @@
 2 Temple of Triumph
 2 Shatterskull Smashing
 3 Sejiri Shelter
-1 Fearless Fledgling
-2 Fearless Fledgling
-2 Emeria's Call
-3 Fearless Fledgling
 1 Lavabrink Venturer
 1 Elder Gargaroth
 1 Invigorating Surge
@@ -173,5 +173,5 @@
 3 Swamp
 4 Swamp
 4 Polukranos, Unchained
-11 Plains
+8 Mountain
 12 Plains

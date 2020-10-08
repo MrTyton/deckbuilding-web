@@ -1,3 +1,7 @@
+1 Snow-Covered Mountain
+1 Farseek
+1 Summoner's Pact
+1 Mountain
 1 Search for Tomorrow
 1 Sheltered Thicket
 1 Stomping Ground
@@ -20,11 +24,6 @@
 4 Wooded Foothills
 4 Stomping Ground
 4 Search for Tomorrow
-1 Scattered Groves
-1 Tireless Tracker
-1 Courser of Kruphix
-1 Horizon Canopy
-3 Mountain
 1 Knight of the Reliquary
 1 Woodland Bellower
 1 Sejiri Steppe
@@ -36,29 +35,16 @@
 2 Scapeshift
 3 Scapeshift
 3 Castle Garenbrig
-1 Lightning Bolt
+3 Mountain
 1 Springbloom Druid
 1 Abrade
+1 Lightning Bolt
 2 Lightning Bolt
 3 Snow-Covered Mountain
 4 Castle Garenbrig
-1 Verdant Catacombs
-4 Summoner's Pact
-4 Farseek
 1 Elvish Rejuvenator
 1 Voice of Resurgence
 1 Nissa, Vastwood Seer
-1 Woodfall Primus
-1 Through the Breach
-1 Bonecrusher Giant
-1 Dead / Gone
-1 Nightpack Ambusher
-2 Through the Breach
-2 Dead / Gone
-2 Bonecrusher Giant
-2 Nightpack Ambusher
-3 Through the Breach
-4 Through the Breach
 1 Skyclave Apparition
 2 Skyclave Apparition
 1 Misty Rainforest
@@ -67,10 +53,11 @@
 1 Snow-Covered Island
 1 Uro, Titan of Nature's Wrath
 1 Field of Ruin
+1 Prismatic Vista
 1 Aether Gust
 1 Cryptic Command
-1 Jace, the Mind Sculptor
 1 Mystic Sanctuary
+1 Jace, the Mind Sculptor
 1 Island
 1 Supreme Verdict
 1 Force of Negation
@@ -79,7 +66,6 @@
 1 Hallowed Fountain
 1 Breeding Pool
 1 Flooded Strand
-1 Prismatic Vista
 1 Mana Leak
 2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
@@ -101,14 +87,16 @@
 4 Flooded Strand
 4 Growth Spiral
 4 Valakut, the Molten Pinnacle
-1 Chandra, Torch of Defiance
+1 Verdant Catacombs
+4 Summoner's Pact
+4 Farseek
 1 Archon of Emeria
 1 Arid Mesa
-1 Wall of Blossoms
-2 Wall of Blossoms
 1 Castle Vantress
 2 Island
 2 Prismatic Vista
+1 Wall of Blossoms
+2 Wall of Blossoms
 1 Sweltering Suns
 2 Cinder Glade
 2 Sweltering Suns
@@ -119,6 +107,18 @@
 3 Temple Garden
 1 Crumbling Vestige
 3 Snow-Covered Forest
+1 Woodfall Primus
+1 Through the Breach
+1 Chandra, Torch of Defiance
+1 Bonecrusher Giant
+1 Dead / Gone
+1 Nightpack Ambusher
+2 Through the Breach
+2 Dead / Gone
+2 Bonecrusher Giant
+2 Nightpack Ambusher
+3 Through the Breach
+4 Through the Breach
 1 Oboro, Palace in the Clouds
 2 Snow-Covered Island
 4 Misty Rainforest

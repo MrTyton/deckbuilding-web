@@ -50,7 +50,7 @@
 |                    4|Sea Gate Restoration                                                                           |                     |                                                                                                |
 |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |                     |                                                                                                |
 |                    3|Emeria's Call                                                                                  |                     |                                                                                                |
+|                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |                     |                                                                                                |
 |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |                     |                                                                                                |
 |                    4|Emeria's Call                                                                                  |                     |                                                                                                |
-|                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)      |                     |                                                                                                |
 

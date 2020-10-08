@@ -1,13 +1,15 @@
-3 Opt
-4 Opt
-3 Island
-1 Supreme Verdict
-1 Spell Snare
 1 Remand
 2 Remand
-3 Field of Ruin
-3 Shark Typhoon
+1 Prairie Stream
 2 Mana Leak
+1 Celestial Colonnade
+4 Opt
+3 Shark Typhoon
+1 Spell Snare
+3 Field of Ruin
+1 Misty Rainforest
+2 Misty Rainforest
+1 Supreme Verdict
 3 Remand
 1 Mountain
 1 Flagstones of Trokair
@@ -19,13 +21,7 @@
 4 Flagstones of Trokair
 4 Cleansing Wildfire
 3 Lightning Helix
-1 Misty Rainforest
-2 Misty Rainforest
-4 Field of Ruin
 2 Logic Knot
-4 Lightning Bolt
-4 Cryptic Command
-1 Polluted Delta
 3 Misty Rainforest
 4 Misty Rainforest
 1 Sword of Fire and Ice
@@ -35,19 +31,24 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-4 Snow-Covered Island
+4 Lightning Bolt
+4 Field of Ruin
+4 Cryptic Command
 4 Remand
 2 Celestial Colonnade
 2 Steam Vents
 2 Raugrin Triome
 1 Snow-Covered Mountain
-5 Snow-Covered Island
-2 Polluted Delta
 1 Snow-Covered Forest
 1 Breeding Pool
 1 Temple Garden
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
+1 Polluted Delta
+2 Plains
+4 Island
+5 Island
+4 Snow-Covered Island
 1 Spell Queller
 2 Spell Queller
 3 Spell Queller
@@ -64,24 +65,18 @@
 4 Noble Hierarch
 4 Ice-Fang Coatl
 4 Spell Queller
-2 Snow-Covered Plains
-1 Condemn
-2 Supreme Verdict
-2 Plains
-4 Island
-5 Island
+5 Snow-Covered Island
 6 Island
 3 Archmage's Charm
+2 Polluted Delta
+3 Polluted Delta
+4 Polluted Delta
 2 Windswept Heath
 1 Peek
-3 Hallowed Fountain
-1 Spreading Seas
-2 Spreading Seas
+2 Breeding Pool
 1 Terminus
 2 Terminus
 3 Terminus
-3 Polluted Delta
-4 Polluted Delta
 1 Watery Grave
 1 Drown in the Loch
 1 Creeping Tar Pit
@@ -119,29 +114,29 @@
 4 Thought Scour
 4 Bonecrusher Giant
 4 Kolaghan's Command
-3 Spreading Seas
-4 Spreading Seas
-6 Snow-Covered Island
 1 Omen of the Sea
 1 Aether Gust
 2 Omen of the Sea
 2 Aether Gust
 3 Omen of the Sea
 3 Jace, the Mind Sculptor
+1 Brazen Borrower
+1 Flooded Grove
+3 Uro, Titan of Nature's Wrath
+1 Condemn
 1 Blessed Alliance
 2 Blessed Alliance
 3 Celestial Colonnade
 4 Celestial Colonnade
-2 Breeding Pool
+1 Castle Ardenvale
 1 Mystic Gate
+2 Snow-Covered Plains
 1 Narset, Parter of Veils
-1 Emeria's Call
-1 Glacial Fortress
+2 Supreme Verdict
 1 Sea Gate Restoration
 4 Force of Negation
-1 Brazen Borrower
-1 Confounding Conundrum
-2 Confounding Conundrum
+1 Emeria's Call
+1 Glacial Fortress
 1 Silundi Vision
 1 Deliberate
 1 Field of the Dead
@@ -151,12 +146,16 @@
 1 Restoration Angel
 1 Skyclave Apparition
 1 Wall of Omens
-1 Castle Ardenvale
+1 Spreading Seas
 2 Restoration Angel
 2 Skyclave Apparition
 2 Wall of Omens
+2 Spreading Seas
 2 Mystic Gate
+1 Confounding Conundrum
+2 Confounding Conundrum
 3 Mana Leak
+3 Hallowed Fountain
 1 Nahiri, the Harbinger
 1 Timely Reinforcements
 1 Emrakul, the Aeons Torn
@@ -196,6 +195,4 @@
 2 Serum Visions
 3 Serum Visions
 4 Serum Visions
-1 Flooded Grove
-3 Uro, Titan of Nature's Wrath
 4 Uro, Titan of Nature's Wrath

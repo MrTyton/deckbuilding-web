@@ -9,10 +9,10 @@
 1 Storm's Wrath
 2 Storm's Wrath
 3 Storm's Wrath
-1 Noxious Grasp
-2 Noxious Grasp
 3 Embereth Shieldbreaker
 1 Heartless Act
+1 Noxious Grasp
+2 Noxious Grasp
 2 Heartless Act
 1 Bolas's Citadel
 1 Blightbeetle
@@ -32,12 +32,6 @@
 3 Duress
 1 Feed the Swarm
 2 Feed the Swarm
-1 Lurrus of the Dream-Den
-1 Scorching Dragonfire
-2 Scorching Dragonfire
-1 Angrath's Rampage
-2 Angrath's Rampage
-3 Angrath's Rampage
 1 Legion Warboss
 1 Rankle, Master of Pranks
 2 Legion Warboss
@@ -47,17 +41,22 @@
 3 Extinction Event
 1 Eat to Extinction
 1 Bonecrusher Giant
-2 Eat to Extinction
 2 Thundering Rebuke
 2 Bonecrusher Giant
+2 Eat to Extinction
 3 Cling to Dust
+1 Scorching Dragonfire
+2 Scorching Dragonfire
 1 Pharika's Libation
+1 Angrath's Rampage
 1 Legion's End
 1 Tibalt, Rakish Instigator
 2 Legion's End
 2 Sorcerous Spyglass
+2 Angrath's Rampage
 2 Pharika's Libation
 2 Tibalt, Rakish Instigator
+3 Angrath's Rampage
 3 Pharika's Libation
 3 Scorching Dragonfire
 3 Heartless Act
@@ -67,13 +66,8 @@
 2 Soul-Guide Lantern
 2 Redcap Melee
 3 Shredded Sails
-1 Erebos's Intervention
-1 Bedevil
-2 Erebos's Intervention
-2 Bedevil
-3 Noxious Grasp
-3 Bedevil
 1 Mind Drain
+1 Lurrus of the Dream-Den
 1 Shock
 2 Shock
 3 Shock
@@ -88,7 +82,7 @@
 2 Miscast
 2 Dirge Bat
 3 Cerulean Drake
-3 Miscast
 3 Flame Sweep
+3 Miscast
 4 Miscast
 4 Robber of the Rich

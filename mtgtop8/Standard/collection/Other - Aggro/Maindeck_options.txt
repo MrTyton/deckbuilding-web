@@ -10,13 +10,13 @@
 4 Fabled Passage
 1 Ugin, the Ineffable
 1 Leafkin Druid
-1 Soul-Guide Lantern
 1 Hydroid Krasis
 1 Cavalier of Thorns
 1 Risen Reef
 1 Rugged Highlands
 1 Ugin, the Spirit Dragon
 1 Genesis Ultimatum
+1 Soul-Guide Lantern
 1 Temple of Abandon
 1 Stomping Ground
 1 Castle Vantress
@@ -24,14 +24,14 @@
 1 Cultivate
 1 Uro, Titan of Nature's Wrath
 1 Omnath, Locus of the Roil
-2 Ugin, the Ineffable
 2 Genesis Ultimatum
+2 Ugin, the Ineffable
 2 Leafkin Druid
-2 Soul-Guide Lantern
 2 Ugin, the Spirit Dragon
 2 Cavalier of Thorns
 2 Risen Reef
 2 Hydroid Krasis
+2 Soul-Guide Lantern
 2 Omnath, Locus of the Roil
 2 Cultivate
 2 Uro, Titan of Nature's Wrath
@@ -62,7 +62,6 @@
 4 Lofty Denial
 4 Nissa, Who Shakes the World
 1 Indatha Triome
-1 Garruk, Cursed Huntsman
 1 Llanowar Visionary
 1 Overgrown Tomb
 1 Vraska, Golgari Queen
@@ -71,6 +70,7 @@
 1 Revival / Revenge
 1 Vito, Thorn of the Dusk Rose
 1 Eliminate
+1 Garruk, Cursed Huntsman
 1 Gilded Goose
 1 Swamp
 1 Temple Garden
@@ -78,9 +78,9 @@
 1 Elspeth Conquers Death
 1 Plains
 2 Indatha Triome
-2 Solemn Simulacrum
 2 Llanowar Visionary
 2 Overgrown Tomb
+2 Solemn Simulacrum
 2 Basri's Lieutenant
 2 Revival / Revenge
 2 Vito, Thorn of the Dusk Rose
@@ -97,8 +97,8 @@
 3 Llanowar Visionary
 3 Overgrown Tomb
 3 Basri's Lieutenant
-3 Revival / Revenge
 3 Vito, Thorn of the Dusk Rose
+3 Revival / Revenge
 3 Elspeth Conquers Death
 3 Gilded Goose
 3 Temple Garden
@@ -131,19 +131,19 @@
 4 Riddleform
 7 Island
 1 Quench
-1 Shark Typhoon
 1 Essence Scatter
 1 Mystical Dispute
 1 Negate
 1 Frilled Mystic
 1 Brineborn Cutthroat
 1 Wolfwillow Haven
+1 Shark Typhoon
 1 Nightpack Ambusher
 1 Paradise Druid
 2 Wolfwillow Haven
 2 Quench
-2 Shark Typhoon
 2 Mystical Dispute
+2 Shark Typhoon
 2 Brineborn Cutthroat
 2 Nightpack Ambusher
 2 Paradise Druid
@@ -163,30 +163,30 @@
 7 Forest
 1 Crackling Drake
 1 Swiftwater Cliffs
+1 Frantic Inventory
 1 Winged Words
-1 Izzet Guildgate
 1 Niv-Mizzet, Parun
 1 Ominous Seas
 1 Experimental Overload
 1 Irencrag Pyromancer
+1 Izzet Guildgate
 1 God-Eternal Kefnet
-1 Frantic Inventory
 1 The Royal Scions
 1 Flame Sweep
 2 Swiftwater Cliffs
+2 Frantic Inventory
 2 Winged Words
+2 Ominous Seas
 2 Crackling Drake
 2 Izzet Guildgate
-2 Ominous Seas
 2 Experimental Overload
-2 Frantic Inventory
 2 Flame Sweep
 3 Swiftwater Cliffs
+3 Frantic Inventory
+3 Ominous Seas
 3 Winged Words
 3 Crackling Drake
-3 Ominous Seas
 3 Flame Sweep
-3 Frantic Inventory
 4 Swiftwater Cliffs
 4 Frantic Inventory
 7 Mountain

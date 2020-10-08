@@ -116,9 +116,9 @@
 2 Inquisition of Kozilek
 3 Opt
 4 Opt
-1 River of Tears
 1 Murderous Cut
 1 Fatal Push
+1 River of Tears
 1 Remand
 1 Relic of Progenitus
 2 Fatal Push
@@ -156,8 +156,8 @@
 1 Sacred Foundry
 1 Chandra, Torch of Defiance
 1 Commandeer
-1 Drannith Magistrate
 1 Delay
+1 Drannith Magistrate
 1 Spellskite
 1 Jace, the Mind Sculptor
 1 Reverse the Sands
@@ -168,21 +168,21 @@
 2 Spell Queller
 2 Wall of Omens
 2 Snow-Covered Mountain
-2 Snow-Covered Plains
 2 Narset of the Ancient Way
-2 Prismatic Vista
+2 Snow-Covered Plains
 2 Fae of Wishes
+2 Prismatic Vista
 2 Spellskite
+2 Drannith Magistrate
 2 Delay
 2 Possibility Storm
-2 Drannith Magistrate
 2 Chandra, Torch of Defiance
 2 Flooded Strand
 2 Commandeer
-3 Fae of Wishes
 3 Snow-Covered Island
 3 Spell Queller
 3 Wall of Omens
+3 Fae of Wishes
 3 Prismatic Vista
 3 Arid Mesa
 3 Delay
@@ -191,15 +191,15 @@
 3 Snow-Covered Plains
 3 Possibility Storm
 3 Scalding Tarn
-4 Fae of Wishes
 4 Spell Queller
 4 Teferi, Time Raveler
+4 Wall of Omens
 4 Flooded Strand
 4 Scalding Tarn
 4 Snow-Covered Island
 4 Prismatic Vista
-4 Wall of Omens
 4 Arid Mesa
+4 Fae of Wishes
 4 Drannith Magistrate
 4 Snow-Covered Plains
 4 Delay
@@ -210,6 +210,21 @@
 1 Defense Grid
 2 Defense Grid
 3 Defense Grid
+1 Worldspine Wurm
+1 Sphere of the Suns
+1 Wild Cantor
+2 Wild Cantor
+2 Sphere of the Suns
+3 Wild Cantor
+3 Sphere of the Suns
+4 Emeria's Call
+4 Wild Cantor
+4 Sword of the Meek
+1 Akoum Warrior
+2 Akoum Warrior
+2 Veil of Summer
+3 Veil of Summer
+4 Veil of Summer
 1 Nexus of Fate
 1 Leyline of Sanctity
 1 Talisman of Resilience
@@ -221,21 +236,6 @@
 3 Talisman of Resilience
 4 Pelakka Predation
 4 Leyline of Sanctity
-1 Akoum Warrior
-2 Akoum Warrior
-2 Veil of Summer
-3 Veil of Summer
-4 Veil of Summer
-1 Worldspine Wurm
-1 Sphere of the Suns
-1 Wild Cantor
-2 Sphere of the Suns
-2 Wild Cantor
-3 Wild Cantor
-3 Sphere of the Suns
-4 Emeria's Call
-4 Wild Cantor
-4 Sword of the Meek
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
@@ -328,9 +328,9 @@
 3 Darkslick Shores
 3 Relic of Progenitus
 4 River of Tears
-1 Through the Breach
 1 Stomping Ground
 1 Gemstone Caverns
+1 Through the Breach
 1 Wooded Foothills
 1 Charming Prince
 1 Windswept Heath
@@ -345,13 +345,13 @@
 1 Misty Rainforest
 1 Forest
 1 Eladamri's Call
-2 Through the Breach
 2 Forest
 2 Flickerwisp
-2 Wooded Foothills
+2 Through the Breach
 2 Charming Prince
-2 Gemstone Caverns
+2 Wooded Foothills
 2 Windswept Heath
+2 Gemstone Caverns
 2 Temple Garden
 2 Stomping Ground
 2 Plains
@@ -373,8 +373,8 @@
 3 Flickerwisp
 3 Devoted Druid
 4 Charming Prince
-4 Through the Breach
 4 Windswept Heath
+4 Through the Breach
 4 Emrakul, the Aeons Torn
 4 Utopia Sprawl
 4 Devoted Druid
