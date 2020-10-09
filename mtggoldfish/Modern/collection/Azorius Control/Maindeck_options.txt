@@ -1,15 +1,17 @@
-3 Opt
-4 Opt
-3 Island
-1 Supreme Verdict
-1 Spell Snare
-1 Remand
-2 Remand
-3 Field of Ruin
-3 Shark Typhoon
+1 Lightning Bolt
+1 Lightning Helix
+2 Lightning Helix
+2 Lightning Bolt
+3 Scalding Tarn
+3 Lightning Bolt
+4 Scalding Tarn
 2 Mana Leak
+2 Remand
+1 Misty Rainforest
+2 Misty Rainforest
+3 Shark Typhoon
+4 Field of Ruin
 3 Remand
-1 Mountain
 1 Flagstones of Trokair
 1 Cleansing Wildfire
 2 Flagstones of Trokair
@@ -18,14 +20,8 @@
 3 Cleansing Wildfire
 4 Flagstones of Trokair
 4 Cleansing Wildfire
+1 Mountain
 3 Lightning Helix
-1 Misty Rainforest
-2 Misty Rainforest
-4 Field of Ruin
-2 Logic Knot
-4 Lightning Bolt
-4 Cryptic Command
-1 Polluted Delta
 3 Misty Rainforest
 4 Misty Rainforest
 1 Sword of Fire and Ice
@@ -36,19 +32,24 @@
 3 Stoneforge Mystic
 4 Stoneforge Mystic
 4 Snow-Covered Island
-4 Remand
-2 Celestial Colonnade
-2 Steam Vents
-2 Raugrin Triome
-1 Snow-Covered Mountain
 5 Snow-Covered Island
-2 Polluted Delta
+2 Plains
+4 Island
+5 Island
+2 Logic Knot
+2 Celestial Colonnade
+4 Remand
+1 Polluted Delta
 1 Snow-Covered Forest
 1 Breeding Pool
 1 Uro, Titan of Nature's Wrath
 1 Temple Garden
 2 Uro, Titan of Nature's Wrath
+4 Lightning Bolt
+2 Raugrin Triome
 1 Spell Queller
+4 Cryptic Command
+2 Supreme Verdict
 2 Spell Queller
 3 Spell Queller
 1 Noble Hierarch
@@ -64,61 +65,29 @@
 4 Noble Hierarch
 4 Ice-Fang Coatl
 4 Spell Queller
-2 Snow-Covered Plains
+1 Snow-Covered Mountain
+2 Steam Vents
 1 Condemn
-2 Supreme Verdict
-2 Plains
-4 Island
-5 Island
+2 Snow-Covered Plains
+2 Polluted Delta
 6 Island
 3 Archmage's Charm
 2 Windswept Heath
 1 Peek
+2 Breeding Pool
 3 Hallowed Fountain
+1 Mystic Gate
 1 Spreading Seas
 2 Spreading Seas
 1 Terminus
 2 Terminus
 3 Terminus
-3 Polluted Delta
-4 Polluted Delta
-1 Watery Grave
-1 Drown in the Loch
-1 Creeping Tar Pit
-1 Cascade Bluffs
-1 Fatal Push
-1 Kolaghan's Command
-1 Cling to Dust
-1 Blood Crypt
-2 Fatal Push
-2 Watery Grave
-2 Drown in the Loch
-2 Kolaghan's Command
-3 Kolaghan's Command
 1 Shatterskull Smashing
 1 Electrolyze
 1 Chandra, Awakened Inferno
 2 Electrolyze
 2 Birds of Paradise
 2 Waterlogged Grove
-1 Thought Scour
-1 Snow-Covered Swamp
-1 Bonecrusher Giant
-1 Magmatic Channeler
-1 Young Pyromancer
-1 Bloodstained Mire
-2 Cling to Dust
-2 Thought Scour
-2 Bonecrusher Giant
-2 Magmatic Channeler
-2 Young Pyromancer
-3 Thought Scour
-3 Drown in the Loch
-3 Magmatic Channeler
-3 Bonecrusher Giant
-4 Thought Scour
-4 Kolaghan's Command
-4 Bonecrusher Giant
 3 Spreading Seas
 4 Spreading Seas
 6 Snow-Covered Island
@@ -128,20 +97,26 @@
 2 Aether Gust
 3 Omen of the Sea
 3 Jace, the Mind Sculptor
+1 Brazen Borrower
+1 Flooded Grove
+3 Uro, Titan of Nature's Wrath
 1 Blessed Alliance
 2 Blessed Alliance
 3 Celestial Colonnade
 4 Celestial Colonnade
-2 Breeding Pool
-1 Mystic Gate
+1 Castle Ardenvale
+3 Polluted Delta
+4 Polluted Delta
+1 Wall of Omens
 1 Narset, Parter of Veils
 1 Emeria's Call
 1 Glacial Fortress
 1 Sea Gate Restoration
 4 Force of Negation
-1 Brazen Borrower
-1 Confounding Conundrum
-2 Confounding Conundrum
+1 Minamo, School at Water's Edge
+1 Gideon of the Trials
+1 Dragonlord Ojutai
+2 Spell Snare
 1 Silundi Vision
 1 Deliberate
 1 Field of the Dead
@@ -150,25 +125,25 @@
 2 Field of the Dead
 1 Restoration Angel
 1 Skyclave Apparition
-1 Wall of Omens
-1 Castle Ardenvale
 2 Restoration Angel
 2 Skyclave Apparition
 2 Wall of Omens
 2 Mystic Gate
+1 Confounding Conundrum
+2 Confounding Conundrum
 3 Mana Leak
 1 Nahiri, the Harbinger
 1 Timely Reinforcements
 1 Emrakul, the Aeons Torn
 1 Anger of the Gods
-1 Commit/Memory
 1 Lukka, Coppercoat Outcast
+1 Commit/Memory
 1 Arid Mesa
 1 Valakut Awakening
 2 Timely Reinforcements
 2 Narset, Parter of Veils
-2 Arid Mesa
 2 Nahiri, the Harbinger
+2 Arid Mesa
 3 Nahiri, the Harbinger
 1 Frantic Inventory
 1 Deprive
@@ -178,24 +153,4 @@
 4 Terminus
 4 Mystic Sanctuary
 4 Frantic Inventory
-1 Jace, Vryn's Prodigy
-1 Inquisition of Kozilek
-1 Liliana of the Veil
-1 Liliana, the Last Hope
-1 Serum Visions
-1 Thoughtseize
-1 Swamp
-1 Liliana's Triumph
-2 Swamp
-2 Liliana's Triumph
-2 Liliana, the Last Hope
-2 Inquisition of Kozilek
-2 Liliana of the Veil
-2 Jace, Vryn's Prodigy
-2 Creeping Tar Pit
-2 Serum Visions
-3 Serum Visions
-4 Serum Visions
-1 Flooded Grove
-3 Uro, Titan of Nature's Wrath
 4 Uro, Titan of Nature's Wrath

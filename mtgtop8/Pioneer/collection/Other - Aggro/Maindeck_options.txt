@@ -142,28 +142,28 @@
 1 Glasspool Mimic
 2 Glasspool Mimic
 3 Glasspool Mimic
+1 Prized Amalgam
 1 Haunted Dead
 1 Creeping Chill
-1 Prized Amalgam
 1 Silversmote Ghoul
+2 Prized Amalgam
 2 Silversmote Ghoul
 2 Creeping Chill
-2 Prized Amalgam
 2 Haunted Dead
 3 Silversmote Ghoul
-3 Prized Amalgam
 3 Creeping Chill
-4 Prized Amalgam
+3 Prized Amalgam
 4 Creeping Chill
+4 Prized Amalgam
 4 Silversmote Ghoul
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
 1 Blackbloom Rogue
-1 Balustrade Spy
-1 Worldspine Wurm
 1 Undercity Informer
+1 Worldspine Wurm
+1 Balustrade Spy
 1 Sea Gate Restoration
 1 Into the Roil
 1 Thought Erasure
@@ -172,8 +172,8 @@
 1 Pelakka Predation
 1 Hagra Mauling
 1 Opt
-2 Worldspine Wurm
 2 Hagra Mauling
+2 Worldspine Wurm
 2 Blackbloom Rogue
 2 Balustrade Spy
 2 Pelakka Predation
@@ -191,9 +191,9 @@
 3 Blackbloom Rogue
 3 Jwari Disruption
 3 Opt
-4 Balustrade Spy
-4 Agadeem's Awakening
 4 Undercity Informer
+4 Agadeem's Awakening
+4 Balustrade Spy
 4 Sea Gate Restoration
 4 Jwari Disruption
 4 Blackbloom Rogue
@@ -345,7 +345,6 @@
 1 Kozilek's Return
 1 Fierce Empath
 1 Champion of Wits
-2 Hinterland Harbor
 2 Sanctum of Ugin
 2 Yavimaya Coast
 2 Cavalier of Thorns
@@ -353,6 +352,7 @@
 2 Kozilek's Return
 2 Champion of Wits
 2 Fierce Empath
+2 Hinterland Harbor
 2 Uro, Titan of Nature's Wrath
 2 Elder Deep-Fiend
 3 Hinterland Harbor
@@ -441,14 +441,14 @@
 1 Spell Queller
 1 Skyclave Cleric
 1 Militia Bugler
-2 Branchloft Pathway
 2 Skyclave Apparition
+2 Branchloft Pathway
 2 Charming Prince
 2 Militia Bugler
 2 Skyclave Cleric
 2 Spell Queller
-3 Branchloft Pathway
 3 Skyclave Apparition
+3 Branchloft Pathway
 3 Charming Prince
 3 Spell Queller
 3 Militia Bugler
@@ -531,10 +531,10 @@
 3 Toolcraft Exemplar
 3 Spell Pierce
 3 Glacial Fortress
-4 Glacial Fortress
 4 Irrigated Farmland
 4 Seasoned Hallowblade
 4 Heart of Kiran
+4 Glacial Fortress
 4 Toolcraft Exemplar
 1 Thieves' Guild Enforcer
 1 Zareth San, the Trickster

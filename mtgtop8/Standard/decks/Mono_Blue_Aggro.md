@@ -42,8 +42,8 @@
 |                    3|[Lofty Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485379)    |                     |                                                                                            |
 |                    3|[Faerie Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473007)   |                     |                                                                                            |
 |                    4|[Lofty Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485379)    |                     |                                                                                            |
+|                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                     |                                                                                            |
 |                    4|[Faerie Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473007)   |                     |                                                                                            |
 |                    4|[Unsubstantiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414374)  |                     |                                                                                            |
-|                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                     |                                                                                            |
 |                   22|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)          |                     |                                                                                            |
 

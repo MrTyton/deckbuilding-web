@@ -28,47 +28,41 @@
 3 Skyclave Cleric
 1 Giant Killer
 2 Giant Killer
-5 Plains
 1 Haktos the Unscarred
 1 Savai Triome
-5 Mountain
+5 Plains
 1 Maul of the Skyclaves
 2 Maul of the Skyclaves
 3 Maul of the Skyclaves
-4 Seasoned Hallowblade
 4 Spikefield Hazard
 2 Turntimber Symbiosis
 3 Turntimber Symbiosis
 4 Gilded Goose
 4 Archon of Emeria
 3 Brightclimb Pathway
+5 Mountain
 1 Castle Embereth
-6 Plains
-7 Plains
-8 Plains
 1 Fabled Passage
+4 Seasoned Hallowblade
 1 Nahiri, Heir of the Ancients
 1 Kor Blademaster
 2 Kor Blademaster
 3 Kor Blademaster
-1 Igneous Cur
-1 Alpine Houndmaster
-1 Alpine Watchdog
-2 Alpine Houndmaster
-3 Alpine Houndmaster
+6 Plains
+7 Plains
+8 Plains
 3 Embercleave
-4 Brightclimb Pathway
 2 Fabled Passage
 3 Fabled Passage
+4 Brightclimb Pathway
 2 Savai Triome
 3 Savai Triome
 4 Savai Triome
-2 Igneous Cur
-2 Alpine Watchdog
-4 Alpine Houndmaster
-1 Pack Leader
-2 Pack Leader
-3 Pack Leader
+1 Alpine Watchdog
+1 Alpine Houndmaster
+1 Igneous Cur
+2 Alpine Houndmaster
+3 Alpine Houndmaster
 4 Turntimber Symbiosis
 3 Emeria's Call
 3 Skyclave Apparition
@@ -78,17 +72,7 @@
 4 Maul of the Skyclaves
 1 Kargan Warleader
 2 Kargan Warleader
-9 Plains
-1 Bolt Hound
-2 Bolt Hound
-3 Bolt Hound
-3 Igneous Cur
-3 Alpine Watchdog
-4 Bolt Hound
-4 Pack Leader
-6 Mountain
-7 Mountain
-8 Mountain
+2 Nahiri, Heir of the Ancients
 1 Kazuul's Fury
 2 Kazuul's Fury
 1 Woe Strider
@@ -100,11 +84,15 @@
 2 Demon's Disciple
 2 Swamp
 3 Woe Strider
-2 Haktos the Unscarred
-2 Nahiri, Heir of the Ancients
+9 Plains
+2 Alpine Watchdog
+2 Igneous Cur
+4 Alpine Houndmaster
 4 Fabled Passage
-1 Charming Prince
-2 Charming Prince
+1 Pack Leader
+2 Haktos the Unscarred
+2 Pack Leader
+3 Pack Leader
 1 Castle Ardenvale
 1 Acquisitions Expert
 1 Agadeem's Awakening
@@ -115,44 +103,33 @@
 3 Riverglide Pathway
 2 Phoenix of Ash
 3 Phoenix of Ash
-1 Raugrin Triome
 1 Anax, Hardened in the Forge
 1 Lavabrink Venturer
+1 Raugrin Triome
 2 Anax, Hardened in the Forge
 2 Raugrin Triome
 2 Lavabrink Venturer
 3 Lavabrink Venturer
 3 Anax, Hardened in the Forge
 1 Temple of Silence
+1 Akoum Hellhound
+1 Temple of Malice
 1 Glass Casket
 1 Fire Prophecy
-1 Banishing Light
-1 Temple of Malice
-1 Akoum Hellhound
 1 Shock
-2 Fire Prophecy
-2 Temple of Malice
+1 Banishing Light
 2 Akoum Hellhound
+2 Temple of Malice
+2 Fire Prophecy
 2 Shock
-3 Temple of Malice
 3 Akoum Hellhound
+3 Temple of Malice
 3 Haktos the Unscarred
-1 Satyr's Cunning
-4 Skyclave Apparition
 1 Scavenging Ooze
 2 Scavenging Ooze
 4 Skyclave Cleric
-1 Fight as One
-1 Chandra's Magmutt
-1 Wind-Scarred Crag
-1 Underworld Rage-Hound
-2 Fight as One
-2 Underworld Rage-Hound
-2 Wind-Scarred Crag
-2 Chandra's Magmutt
-3 Wind-Scarred Crag
-3 Underworld Rage-Hound
-4 Wind-Scarred Crag
+1 Satyr's Cunning
+4 Skyclave Apparition
 1 Forbidden Friendship
 1 Kitesail Freebooter
 2 Forbidden Friendship
@@ -171,17 +148,29 @@
 3 Kargan Warleader
 3 Forest
 4 Forest
-1 Fireblade Charger
+1 Charming Prince
+1 Bolt Hound
+2 Charming Prince
+2 Bolt Hound
+3 Bolt Hound
+3 Igneous Cur
+3 Alpine Watchdog
+4 Bolt Hound
+4 Pack Leader
+6 Mountain
+7 Mountain
+8 Mountain
 1 Shadowspear
 1 Akiri, Fearless Voyager
+1 Fireblade Charger
 1 Luminarch Aspirant
 1 Legion Angel
-2 Fireblade Charger
 2 Legion Angel
 2 Akiri, Fearless Voyager
 2 Luminarch Aspirant
-3 Fireblade Charger
+2 Fireblade Charger
 3 Nahiri, Heir of the Ancients
 3 Luminarch Aspirant
+3 Fireblade Charger
 4 Fireblade Charger
 4 Luminarch Aspirant

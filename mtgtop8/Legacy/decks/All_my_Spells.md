@@ -58,7 +58,7 @@
 |                    3|[Force of Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3107)       |                    4|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)    |
 |                    3|[Brainstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3897)          |                    4|[Pack Rat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253624)               |
 |                    3|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)            |                     |                                                                                                  |
+|                    4|Sea Gate Restoration                                                                         |                     |                                                                                                  |
 |                    4|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)            |                     |                                                                                                  |
 |                    4|[Brainstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3897)          |                     |                                                                                                  |
-|                    4|Sea Gate Restoration                                                                         |                     |                                                                                                  |
 

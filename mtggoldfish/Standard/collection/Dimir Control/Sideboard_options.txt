@@ -1,15 +1,17 @@
-1 Nighthawk Scavenger
+3 Negate
 4 Mystical Dispute
 1 Soul-Guide Lantern
-2 Nighthawk Scavenger
-3 Nighthawk Scavenger
-2 Eliminate
+1 Nighthawk Scavenger
 2 Soul-Guide Lantern
-3 Duress
-3 Negate
+2 Nighthawk Scavenger
+2 Eliminate
 1 Lurrus of the Dream-Den
 1 So Tiny
 2 So Tiny
+3 Nighthawk Scavenger
+3 Duress
+1 Agonizing Remorse
+2 Agonizing Remorse
 2 Heartless Act
 1 Erebos's Intervention
 2 Erebos's Intervention
@@ -18,8 +20,6 @@
 4 Nighthawk Scavenger
 1 Brazen Borrower
 1 Shark Typhoon
-1 Agonizing Remorse
-2 Agonizing Remorse
 1 Lochmere Serpent
 1 Pestilent Haze
 1 Necromentia
@@ -42,59 +42,49 @@
 1 Epic Downfall
 4 Heartless Act
 4 Erebos's Intervention
-3 Lullmage's Domination
-1 Didn't Say Please
-1 Shredded Sails
-1 Relic Golem
-2 Didn't Say Please
-2 Shredded Sails
-2 Relic Golem
-3 Didn't Say Please
-3 Shredded Sails
-3 Relic Golem
-4 Didn't Say Please
-4 Relic Golem
-4 Lullmage's Domination
-1 Sea Gate Stormcaller
-2 Sea Gate Stormcaller
-3 So Tiny
 1 Feed the Swarm
 2 Feed the Swarm
+3 So Tiny
+1 Sea Gate Stormcaller
+2 Sea Gate Stormcaller
 1 Teferi, Master of Time
 1 Teferi's Tutelage
 2 Brazen Borrower
-1 Zareth San, the Trickster
 2 Bloodchief's Thirst
-2 Cling to Dust
 1 Confounding Conundrum
 2 Confounding Conundrum
 3 Confounding Conundrum
 4 Negate
 4 Duress
+3 Lullmage's Domination
 1 Easy Prey
 1 Murderous Rider
 1 Ashiok's Erasure
 1 Sanctum of Calm Waters
 1 Sanctum of Stone Fangs
-1 Jace, Mirror Mage
-2 Jace, Mirror Mage
 1 Mazemind Tome
 1 Shadows' Verdict
 1 Gadwick, the Wizened
 1 Tormod's Crypt
 2 Gadwick, the Wizened
+1 Witch's Vengeance
+2 Witch's Vengeance
 1 Merfolk Secretkeeper
 1 Grasp of Darkness
 1 Deadly Alliance
 1 Suffocating Fumes
 2 Grasp of Darkness
 2 Suffocating Fumes
+1 Zareth San, the Trickster
 1 Woe Strider
 2 Woe Strider
-1 Witch's Vengeance
-2 Witch's Vengeance
 1 Concerted Defense
 2 Concerted Defense
+1 Yorion, Sky Nomad
+1 Shatter the Sky
+1 Archon of Sun's Grace
+2 Shatter the Sky
+2 Archon of Sun's Grace
 1 Wilt
 1 Midnight Clock
 2 Wilt
@@ -111,12 +101,25 @@
 3 Pharika's Libation
 3 Extinction Event
 4 Extinction Event
-1 Stern Dismissal
-2 Stern Dismissal
-3 Stern Dismissal
-4 Stern Dismissal
 1 Blacklance Paragon
+2 Cling to Dust
 2 Blacklance Paragon
 3 Soul-Guide Lantern
 3 Blacklance Paragon
 4 Soul-Guide Lantern
+1 Didn't Say Please
+1 Relic Golem
+1 Shredded Sails
+2 Didn't Say Please
+2 Relic Golem
+2 Shredded Sails
+3 Didn't Say Please
+3 Shredded Sails
+3 Relic Golem
+4 Didn't Say Please
+4 Relic Golem
+4 Lullmage's Domination
+1 Stern Dismissal
+2 Stern Dismissal
+3 Stern Dismissal
+4 Stern Dismissal

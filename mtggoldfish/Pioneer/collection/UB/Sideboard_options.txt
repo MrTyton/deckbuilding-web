@@ -20,9 +20,6 @@
 1 Soul-Guide Lantern
 3 Mystical Dispute
 1 Heartless Act
-1 Leyline of the Void
-2 Leyline of the Void
-3 Leyline of the Void
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 3 Leyline of Sanctity
@@ -33,14 +30,12 @@
 2 Duress
 2 Negate
 1 Cling to Dust
-3 Thoughtseize
-4 Thoughtseize
-4 Leyline of the Void
+1 Leyline of the Void
+2 Leyline of the Void
+3 Leyline of the Void
 1 Legion's End
-1 Wilt
 3 Duress
 4 Duress
-1 Consign/Oblivion
 2 Extinction Event
 1 The Scarab God
 2 Noxious Grasp
@@ -48,12 +43,17 @@
 2 Assassin's Trophy
 3 Assassin's Trophy
 4 Assassin's Trophy
+1 Consign/Oblivion
+3 Thoughtseize
+4 Thoughtseize
 2 Cling to Dust
+4 Leyline of the Void
+1 Wilt
 3 Abrupt Decay
 4 Abrupt Decay
-1 Natural State
 2 Legion's End
 1 Bloodchief's Thirst
+1 Natural State
 1 Providence
 2 Natural State
 3 Natural State
@@ -63,8 +63,8 @@
 1 Swamp
 1 Shadows' Verdict
 1 Kalitas, Traitor of Ghet
-1 Collective Brutality
 1 Grafdigger's Cage
+1 Collective Brutality
 1 Shark Typhoon
 2 Grafdigger's Cage
 2 Shark Typhoon
@@ -84,9 +84,6 @@
 3 Providence
 3 Take Down
 4 Providence
-2 Wilt
-3 Wilt
-4 Wilt
 1 Hagra Mauling
 1 Pelakka Predation
 1 Disfigure

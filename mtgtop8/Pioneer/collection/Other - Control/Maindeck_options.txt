@@ -1,3 +1,9 @@
+3 Opt
+4 Opt
+1 Swamp
+2 Swamp
+1 Fatal Push
+2 Fatal Push
 3 Fatal Push
 1 Watery Grave
 2 Watery Grave
@@ -11,6 +17,7 @@
 2 Drowned Catacomb
 3 Drowned Catacomb
 4 Fatal Push
+1 Castle Vantress
 1 Hero's Downfall
 3 Dig Through Time
 4 Drowned Catacomb
@@ -19,7 +26,10 @@
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
-1 Castle Vantress
+3 Hinterland Harbor
+4 Forest
+2 Mountain
+2 Genesis Ultimatum
 2 Shark Typhoon
 1 Heartless Act
 1 Fetid Pools
@@ -30,17 +40,12 @@
 2 Torrential Gearhulk
 3 Censor
 1 Castle Locthwain
-1 Cultivate
-4 Forest
-2 Field of Ruin
 1 Hallowed Fountain
-3 Shark Typhoon
-1 Kenrith, the Returned King
-2 Temple Garden
-2 Hinterland Harbor
+3 Ketria Triome
+4 Ketria Triome
+2 Field of Ruin
 1 Sunpetal Grove
-1 Evolving Wilds
-1 Ugin, the Spirit Dragon
+3 Shark Typhoon
 3 Torrential Gearhulk
 4 Dig Through Time
 2 Sinister Sabotage
@@ -48,6 +53,7 @@
 3 Fetid Pools
 2 Castle Locthwain
 4 Teferi, Time Raveler
+1 Steam Vents
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 1 Geier Reach Sanitarium
@@ -65,13 +71,10 @@
 3 Thing in the Ice
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
-2 Mountain
-1 Steam Vents
 2 Stomping Ground
 3 Temple Garden
-3 Hinterland Harbor
-2 Genesis Ultimatum
 4 Shark Typhoon
+1 Rootbound Crag
 3 Sinister Sabotage
 4 Sinister Sabotage
 5 Island
@@ -82,12 +85,9 @@
 2 Negate
 2 Glimmer of Genius
 3 Field of Ruin
-1 Rootbound Crag
 1 Dryad of the Ilysian Grove
 1 Satyr Wayfinder
 2 Satyr Wayfinder
-3 Ketria Triome
-4 Ketria Triome
 2 Eliminate
 3 Breeding Pool
 2 Castle Vantress
@@ -290,6 +290,9 @@
 4 Ruin Crab
 4 Drowned Secrets
 4 Ipnu Rivulet
+1 Golos, Tireless Pilgrim
+1 Zagoth Triome
+1 Indatha Triome
 1 Consign / Oblivion
 2 Vraska's Contempt
 1 Extinction Event
@@ -330,17 +333,17 @@
 4 Nicol Bolas, the Ravager
 4 Discovery / Dispersal
 1 Liliana, Waker of the Dead
-1 Davriel, Rogue Shadowmage
 1 Collective Brutality
+1 Davriel, Rogue Shadowmage
 1 Kolaghan's Command
 1 Hazoret the Fervent
 1 Waste Not
 2 Liliana, Waker of the Dead
-2 Collective Brutality
 2 Davriel, Rogue Shadowmage
 2 Kolaghan's Command
 2 Hazoret the Fervent
 2 Waste Not
+2 Collective Brutality
 3 Kolaghan's Command
 3 Liliana, Waker of the Dead
 3 Eliminate
@@ -416,11 +419,11 @@
 1 Wilderness Reclamation
 1 Neutralize
 1 Aetherspouts
-2 Neutralize
 2 Blast Zone
 2 Sublime Epiphany
 2 Aetherspouts
 2 Wilderness Reclamation
+2 Neutralize
 3 Castle Vantress
 3 Blast Zone
 3 Sublime Epiphany

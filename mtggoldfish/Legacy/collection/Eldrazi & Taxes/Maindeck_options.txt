@@ -41,7 +41,6 @@
 1 Goblin Rabblemaster
 1 Legion Warboss
 1 Seasoned Pyromancer
-2 Simian Spirit Guide
 2 Seasoned Pyromancer
 2 Battlefield Forge
 2 Plateau
@@ -50,9 +49,10 @@
 2 Blood Sun
 2 Trinisphere
 2 Goblin Rabblemaster
+2 Simian Spirit Guide
 2 Legion Warboss
-3 Simian Spirit Guide
 3 Legion Warboss
+3 Simian Spirit Guide
 3 City of Traitors
 3 Seasoned Pyromancer
 3 Blood Sun
@@ -61,8 +61,8 @@
 3 Winota, Joiner of Forces
 3 Trinisphere
 3 Goblin Rabblemaster
-4 Simian Spirit Guide
 4 Legion Warboss
+4 Simian Spirit Guide
 4 Plateau
 4 Blood Sun
 4 Winota, Joiner of Forces
@@ -116,11 +116,11 @@
 3 Lavabrink Venturer
 4 Seasoned Pyromancer
 1 Swamp
-1 Wasteland Strangler
-1 Marsh Flats
 1 Agonizing Remorse
-2 Wasteland Strangler
+1 Marsh Flats
+1 Wasteland Strangler
 2 Agonizing Remorse
+2 Wasteland Strangler
 2 Marsh Flats
 3 Wasteland Strangler
 3 Agonizing Remorse
