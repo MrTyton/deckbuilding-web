@@ -83,7 +83,7 @@
 |                    1|[Liliana of the Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235597)         |                     |                                                                                                     |
 |                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)             |                     |                                                                                                     |
 |                    4|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)                |                     |                                                                                                     |
-|                    2|[Teferi, Master of Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489165)      |                     |                                                                                                     |
 |                    1|[Treacherous Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476368)        |                     |                                                                                                     |
 |                    2|[Treacherous Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476368)        |                     |                                                                                                     |
+|                    2|[Teferi, Master of Time](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=489165)      |                     |                                                                                                     |
 

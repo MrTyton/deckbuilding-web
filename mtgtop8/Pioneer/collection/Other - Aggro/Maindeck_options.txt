@@ -1,42 +1,74 @@
+1 Temple Garden
+2 Temple Garden
+3 Temple Garden
+2 Plains
+1 Forest
+2 Forest
+1 Elvish Mystic
+1 Llanowar Elves
+2 Llanowar Elves
+2 Elvish Mystic
+3 Forest
+4 Forest
+4 Temple Garden
+1 Lovestruck Beast
+2 Lovestruck Beast
+3 Lovestruck Beast
+4 Lovestruck Beast
+3 Plains
+1 Sunpetal Grove
+1 Brimaz, King of Oreskos
+2 Sunpetal Grove
+2 Brimaz, King of Oreskos
+3 Sunpetal Grove
+4 Sunpetal Grove
+4 Plains
+1 Dromoka's Command
+2 Dromoka's Command
+3 Dromoka's Command
+4 Dromoka's Command
+1 Voice of Resurgence
+2 Voice of Resurgence
+3 Voice of Resurgence
+4 Voice of Resurgence
+5 Forest
+1 Westvale Abbey
+1 Castle Ardenvale
+1 Nissa, Voice of Zendikar
+1 Paradise Druid
+1 Declaration in Stone
+1 Divine Visitation
+1 Gideon, Ally of Zendikar
+1 Leonin Warleader
+1 Secure the Wastes
+2 Castle Ardenvale
+2 Nissa, Voice of Zendikar
+2 Paradise Druid
+2 Gideon, Ally of Zendikar
+2 Westvale Abbey
+2 Divine Visitation
+2 Secure the Wastes
+2 Leonin Warleader
+3 Gideon, Ally of Zendikar
+3 Paradise Druid
+3 Secure the Wastes
+3 Westvale Abbey
+3 Divine Visitation
+4 Paradise Druid
+4 Secure the Wastes
+6 Forest
 1 Collected Company
 2 Collected Company
 3 Collected Company
 4 Collected Company
+1 Mana Confluence
+2 Mana Confluence
 1 Blooming Marsh
 1 Overgrown Tomb
 2 Blooming Marsh
-3 Blooming Marsh
-1 Mana Confluence
-2 Mana Confluence
-1 Concealed Courtyard
-2 Concealed Courtyard
-3 Concealed Courtyard
-4 Concealed Courtyard
-1 Reflector Mage
-2 Reflector Mage
-1 Unclaimed Territory
-1 General Kudro of Drannith
-1 Thalia's Lieutenant
-2 Unclaimed Territory
-2 General Kudro of Drannith
-2 Thalia's Lieutenant
-3 Unclaimed Territory
-3 Mana Confluence
-3 Reflector Mage
-3 General Kudro of Drannith
-3 Thalia's Lieutenant
-4 Mana Confluence
-4 Thalia's Lieutenant
-4 Reflector Mage
-4 Unclaimed Territory
-1 Hallowed Fountain
-2 Hallowed Fountain
-1 Thraben Inspector
-2 Thraben Inspector
-3 Thraben Inspector
-4 Thraben Inspector
 2 Overgrown Tomb
 3 Overgrown Tomb
+3 Blooming Marsh
 4 Overgrown Tomb
 4 Blooming Marsh
 1 Urborg, Tomb of Yawgmoth
@@ -44,75 +76,72 @@
 3 Elvish Mystic
 1 Swamp
 1 Catacomb Sifter
-1 Priest of Forgotten Gods
 1 Bolas's Citadel
-1 Zulaport Cutthroat
 1 Woe Strider
-2 Priest of Forgotten Gods
-2 Catacomb Sifter
-2 Zulaport Cutthroat
+1 Zulaport Cutthroat
+1 Priest of Forgotten Gods
 2 Bolas's Citadel
+2 Priest of Forgotten Gods
 2 Woe Strider
-3 Zulaport Cutthroat
-3 Woe Strider
-3 Catacomb Sifter
+2 Zulaport Cutthroat
+2 Catacomb Sifter
 3 Priest of Forgotten Gods
+3 Catacomb Sifter
+3 Woe Strider
 3 Bolas's Citadel
-4 Zulaport Cutthroat
-4 Woe Strider
-4 Priest of Forgotten Gods
-4 Bolas's Citadel
+3 Zulaport Cutthroat
 4 Catacomb Sifter
-1 Botanical Sanctum
-1 Rogue Refiner
-2 Rogue Refiner
-3 Rogue Refiner
-1 Hero of Precinct One
-2 Hero of Precinct One
-3 Hero of Precinct One
-4 General Kudro of Drannith
-4 Hero of Precinct One
-1 Llanowar Wastes
-2 Llanowar Wastes
+4 Woe Strider
+4 Zulaport Cutthroat
+4 Bolas's Citadel
+4 Priest of Forgotten Gods
 1 Stomping Ground
 1 Rootbound Crag
 2 Stomping Ground
 3 Stomping Ground
-1 Experiment One
-2 Experiment One
-3 Experiment One
-4 Experiment One
-1 Breeding Pool
-2 Breeding Pool
-1 Watery Grave
+1 Llanowar Wastes
+2 Llanowar Wastes
+3 Llanowar Wastes
+4 Llanowar Wastes
+4 Elvish Mystic
+4 Llanowar Elves
 1 Castle Locthwain
 2 Swamp
 3 Swamp
-3 Llanowar Wastes
-4 Elvish Mystic
-4 Llanowar Wastes
-4 Llanowar Elves
-1 Thoughtseize
-2 Thoughtseize
+1 Reflector Mage
+2 Reflector Mage
+1 Breeding Pool
+2 Breeding Pool
+1 Hallowed Fountain
+2 Hallowed Fountain
+1 Unclaimed Territory
+2 Unclaimed Territory
+3 Reflector Mage
+3 Mana Confluence
+3 Unclaimed Territory
+4 Mana Confluence
+4 Reflector Mage
+4 Unclaimed Territory
 1 Island
-3 Breeding Pool
 1 Llanowar Visionary
 2 Llanowar Visionary
-1 Branchloft Pathway
 4 Stomping Ground
+1 Branchloft Pathway
+3 Breeding Pool
 1 Mutavault
 2 Mutavault
 1 Scavenging Ooze
 2 Scavenging Ooze
 1 Woodland Cemetery
-4 Breeding Pool
+1 Botanical Sanctum
 1 Scrapheap Scrounger
 2 Scrapheap Scrounger
 2 Botanical Sanctum
 1 Agadeem's Awakening
 2 Agadeem's Awakening
-2 Watery Grave
-3 Watery Grave
+1 Glasspool Mimic
+2 Glasspool Mimic
+3 Glasspool Mimic
 1 Haunted Dead
 1 Creeping Chill
 1 Prized Amalgam
@@ -127,63 +156,30 @@
 4 Prized Amalgam
 4 Creeping Chill
 4 Silversmote Ghoul
-1 Satyr Wayfinder
-2 Satyr Wayfinder
-3 Satyr Wayfinder
-4 Satyr Wayfinder
-1 Stitcher's Supplier
-2 Stitcher's Supplier
-3 Stitcher's Supplier
-4 Stitcher's Supplier
-1 Godless Shrine
-2 Godless Shrine
-1 Pelt Collector
-1 Stonecoil Serpent
-1 Rhonas the Indomitable
-1 Bonecrusher Giant
-1 Mountain
-2 Bonecrusher Giant
-2 Mountain
-3 Bonecrusher Giant
-4 Bonecrusher Giant
-1 Clearwater Pathway
-1 Brazen Borrower
-2 Brazen Borrower
-1 Glasspool Mimic
-2 Glasspool Mimic
-3 Glasspool Mimic
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-3 Teferi, Time Raveler
-3 Hallowed Fountain
-4 Teferi, Time Raveler
-4 Hallowed Fountain
+1 Thoughtseize
+2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
-1 Drowned Catacomb
-2 Drowned Catacomb
-3 Drowned Catacomb
-4 Drowned Catacomb
-1 Thought Erasure
-2 Thought Erasure
 1 Blackbloom Rogue
 1 Balustrade Spy
+1 Worldspine Wurm
+1 Undercity Informer
 1 Sea Gate Restoration
 1 Into the Roil
+1 Thought Erasure
 1 Driven / Despair
 1 Jwari Disruption
 1 Pelakka Predation
 1 Hagra Mauling
-1 Worldspine Wurm
 1 Opt
-1 Undercity Informer
-2 Hagra Mauling
 2 Worldspine Wurm
+2 Hagra Mauling
 2 Blackbloom Rogue
 2 Balustrade Spy
 2 Pelakka Predation
 2 Undercity Informer
 2 Sea Gate Restoration
+2 Thought Erasure
 2 Jwari Disruption
 2 Opt
 3 Pelakka Predation
@@ -201,87 +197,104 @@
 4 Sea Gate Restoration
 4 Jwari Disruption
 4 Blackbloom Rogue
-1 Gilded Goose
-1 Mayhem Devil
-1 Dragonskull Summit
-1 Blood Crypt
-2 Gilded Goose
-2 Mayhem Devil
-2 Blood Crypt
-3 Mayhem Devil
-3 Blood Crypt
-3 Gilded Goose
-4 Mayhem Devil
-4 Blood Crypt
-4 Gilded Goose
-1 Grisly Salvage
+1 Stitcher's Supplier
+2 Stitcher's Supplier
+3 Stitcher's Supplier
+4 Stitcher's Supplier
+1 Satyr Wayfinder
+2 Satyr Wayfinder
+3 Satyr Wayfinder
+4 Satyr Wayfinder
+1 Watery Grave
+2 Watery Grave
+3 Watery Grave
 1 Merfolk Secretkeeper
+1 Grisly Salvage
 1 Narcomoeba
 1 Gather the Pack
 1 Abundant Maw
-2 Grisly Salvage
 2 Merfolk Secretkeeper
-2 Gather the Pack
+2 Grisly Salvage
 2 Narcomoeba
 2 Abundant Maw
-3 Grisly Salvage
+2 Gather the Pack
 3 Merfolk Secretkeeper
+3 Grisly Salvage
 3 Narcomoeba
 3 Botanical Sanctum
 4 Grisly Salvage
 4 Narcomoeba
 4 Merfolk Secretkeeper
+1 Clearwater Pathway
 1 Archpriest of Iona
 1 Acquisitions Expert
-1 Luminarch Aspirant
+1 Rogue Refiner
 1 Bloodsoaked Champion
 1 Hamlet Captain
 1 Gust Walker
 2 Archpriest of Iona
 2 Acquisitions Expert
-2 Luminarch Aspirant
 2 Bloodsoaked Champion
+2 Rogue Refiner
 2 Gust Walker
 2 Hamlet Captain
 3 Archpriest of Iona
-3 Luminarch Aspirant
 3 Acquisitions Expert
+3 Rogue Refiner
 4 Luminarch Aspirant
 4 Archpriest of Iona
 4 Acquisitions Expert
+1 Brazen Borrower
+2 Brazen Borrower
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+3 Teferi, Time Raveler
+3 Hallowed Fountain
+4 Teferi, Time Raveler
+4 Hallowed Fountain
+1 Rhonas the Indomitable
 1 Heart of Kiran
 2 Heart of Kiran
 3 Scrapheap Scrounger
 4 Scrapheap Scrounger
+1 Ghalta, Primal Hunger
 1 Primal Might
 1 Surrak, the Hunt Caller
 1 Blossoming Defense
+1 Field of Ruin
 1 Hashep Oasis
 1 Rotting Regisaur
-1 Field of Ruin
 1 Garruk's Harbinger
 1 Thought-Knot Seer
 1 Vivien, Arkbow Ranger
-1 Ghalta, Primal Hunger
-2 Primal Might
-2 Surrak, the Hunt Caller
-2 Blossoming Defense
-2 Rotting Regisaur
-2 Hashep Oasis
-2 Garruk's Harbinger
-2 Thought-Knot Seer
 2 Ghalta, Primal Hunger
 2 Rhonas the Indomitable
-3 Garruk's Harbinger
+2 Primal Might
+2 Blossoming Defense
+2 Surrak, the Hunt Caller
+2 Hashep Oasis
+2 Rotting Regisaur
+2 Garruk's Harbinger
+2 Thought-Knot Seer
 3 Blossoming Defense
+3 Garruk's Harbinger
 3 Hashep Oasis
 3 Rotting Regisaur
 3 Thought-Knot Seer
 4 Garruk's Harbinger
 4 Hashep Oasis
 4 Rotting Regisaur
+1 Pelt Collector
+1 Bonecrusher Giant
+1 Mountain
+2 Bonecrusher Giant
+2 Mountain
+3 Bonecrusher Giant
+4 Bonecrusher Giant
+1 Stonecoil Serpent
 1 Ajani, Adversary of Tyrants
 2 Ajani, Adversary of Tyrants
+1 Experiment One
 1 Hangarback Walker
 1 Hardened Scales
 1 Winding Constrictor
@@ -290,26 +303,27 @@
 1 Rishkar, Peema Renegade
 2 Stonecoil Serpent
 2 Pelt Collector
+2 Experiment One
 2 Hangarback Walker
 2 Winding Constrictor
 2 Conclave Mentor
 2 Rishkar, Peema Renegade
 2 Hardened Scales
 2 Oath of Nissa
-3 Stonecoil Serpent
 3 Hangarback Walker
+3 Experiment One
 3 Pelt Collector
+3 Stonecoil Serpent
 3 Oath of Nissa
 3 Winding Constrictor
 3 Conclave Mentor
 3 Rishkar, Peema Renegade
 4 Stonecoil Serpent
 4 Pelt Collector
+4 Experiment One
 4 Conclave Mentor
 4 Winding Constrictor
-2 Island
-3 Brazen Borrower
-4 Brazen Borrower
+4 Breeding Pool
 1 Ketria Triome
 2 Ketria Triome
 3 Ketria Triome
@@ -324,26 +338,26 @@
 1 Yavimaya Coast
 1 Arboreal Grazer
 1 Castle Garenbrig
-1 Jadelight Ranger
 1 Uro, Titan of Nature's Wrath
 1 Elder Deep-Fiend
+1 Jadelight Ranger
 1 Stubborn Denial
 1 Kozilek's Return
 1 Fierce Empath
 1 Champion of Wits
+2 Hinterland Harbor
 2 Sanctum of Ugin
 2 Yavimaya Coast
 2 Cavalier of Thorns
 2 Arboreal Grazer
-2 Hinterland Harbor
 2 Kozilek's Return
-2 Elder Deep-Fiend
 2 Champion of Wits
 2 Fierce Empath
 2 Uro, Titan of Nature's Wrath
+2 Elder Deep-Fiend
+3 Hinterland Harbor
 3 Arboreal Grazer
 3 Cavalier of Thorns
-3 Hinterland Harbor
 3 Uro, Titan of Nature's Wrath
 3 Elder Deep-Fiend
 3 Sanctum of Ugin
@@ -352,6 +366,9 @@
 4 Hinterland Harbor
 4 Sanctum of Ugin
 4 Elder Deep-Fiend
+2 Island
+3 Brazen Borrower
+4 Brazen Borrower
 1 Enter the Infinite
 1 Possibility Storm
 1 Shared Summons
@@ -376,19 +393,62 @@
 4 Fae of Wishes
 4 Beanstalk Giant
 4 Lucky Clover
+1 Gilded Goose
+1 Blood Crypt
+1 Dragonskull Summit
+1 Mayhem Devil
+2 Gilded Goose
+2 Blood Crypt
+2 Mayhem Devil
+3 Blood Crypt
+3 Gilded Goose
+3 Mayhem Devil
+4 Blood Crypt
+4 Gilded Goose
+4 Mayhem Devil
+1 Klothys, God of Destiny
+1 Game Trail
+1 Gruul Spellbreaker
+1 Cinder Glade
+1 Legion Loyalist
+1 Yorvo, Lord of Garenbrig
+1 Wildborn Preserver
+1 Atarka's Command
+1 Burning-Tree Emissary
+1 Reckless Bushwhacker
+2 Rootbound Crag
+2 Game Trail
+2 Klothys, God of Destiny
+2 Gruul Spellbreaker
+2 Cinder Glade
+2 Atarka's Command
+2 Burning-Tree Emissary
+2 Reckless Bushwhacker
+3 Rootbound Crag
+3 Game Trail
+3 Reckless Bushwhacker
+3 Gruul Spellbreaker
+3 Scavenging Ooze
+3 Atarka's Command
+3 Mountain
+3 Burning-Tree Emissary
+4 Game Trail
+4 Rootbound Crag
+4 Burning-Tree Emissary
+4 Reckless Bushwhacker
 1 Skyclave Apparition
 1 Charming Prince
 1 Spell Queller
 1 Skyclave Cleric
 1 Militia Bugler
-2 Skyclave Apparition
 2 Branchloft Pathway
+2 Skyclave Apparition
 2 Charming Prince
 2 Militia Bugler
 2 Skyclave Cleric
 2 Spell Queller
-3 Skyclave Apparition
 3 Branchloft Pathway
+3 Skyclave Apparition
 3 Charming Prince
 3 Spell Queller
 3 Militia Bugler
@@ -398,82 +458,8 @@
 4 Militia Bugler
 4 Spell Queller
 4 Glasspool Mimic
-1 Game Trail
-1 Burning-Tree Emissary
-1 Atarka's Command
-1 Reckless Bushwhacker
-1 Gruul Spellbreaker
-1 Cinder Glade
-1 Legion Loyalist
-1 Yorvo, Lord of Garenbrig
-1 Wildborn Preserver
-1 Klothys, God of Destiny
-2 Game Trail
-2 Burning-Tree Emissary
-2 Atarka's Command
-2 Reckless Bushwhacker
-2 Klothys, God of Destiny
-2 Gruul Spellbreaker
-2 Cinder Glade
-2 Rootbound Crag
-3 Rootbound Crag
-3 Atarka's Command
-3 Burning-Tree Emissary
-3 Game Trail
-3 Reckless Bushwhacker
-3 Gruul Spellbreaker
-3 Scavenging Ooze
-3 Mountain
-4 Game Trail
-4 Burning-Tree Emissary
-4 Rootbound Crag
-4 Reckless Bushwhacker
-1 General's Enforcer
-1 Shanna, Sisay's Legacy
-2 General's Enforcer
-2 Shanna, Sisay's Legacy
-4 Rogue Refiner
-1 Drown in the Loch
-1 Fatal Push
-2 Drown in the Loch
-2 Fatal Push
-3 Drown in the Loch
-3 Fatal Push
-4 Watery Grave
-4 Fatal Push
 4 Swamp
 5 Swamp
-1 Thieves' Guild Enforcer
-1 Zareth San, the Trickster
-1 Soaring Thought-Thief
-1 Nighthawk Scavenger
-1 Eliminate
-1 Fabled Passage
-1 Mystical Dispute
-2 Thieves' Guild Enforcer
-2 Nighthawk Scavenger
-2 Zareth San, the Trickster
-2 Soaring Thought-Thief
-2 Clearwater Pathway
-2 Eliminate
-2 Mystical Dispute
-2 Fabled Passage
-3 Thieves' Guild Enforcer
-3 Soaring Thought-Thief
-3 Nighthawk Scavenger
-3 Clearwater Pathway
-3 Mystical Dispute
-3 Island
-4 Thieves' Guild Enforcer
-4 Soaring Thought-Thief
-4 Nighthawk Scavenger
-4 Drown in the Loch
-4 Mystical Dispute
-4 Island
-2 Castle Locthwain
-3 Castle Locthwain
-3 Godless Shrine
-4 Godless Shrine
 1 Isolated Chapel
 1 Corpse Knight
 1 Lazotep Reaver
@@ -496,6 +482,7 @@
 2 Wayward Servant
 2 Slitherhead
 2 Liliana, Untouched by Death
+2 Castle Locthwain
 2 Rally the Ancestors
 3 Isolated Chapel
 3 Corpse Knight
@@ -506,17 +493,22 @@
 3 Rally the Ancestors
 3 Wayward Servant
 3 Slitherhead
+3 Castle Locthwain
 4 Isolated Chapel
 4 Dark Salvation
 4 Cryptbreaker
 4 Wayward Servant
 4 Rally the Ancestors
 4 Corpse Knight
+1 Drowned Catacomb
+2 Drowned Catacomb
+3 Drowned Catacomb
+4 Drowned Catacomb
 1 Seasoned Hallowblade
 1 Irrigated Farmland
 1 Sphinx's Revelation
-1 Supreme Verdict
 1 Gideon of the Trials
+1 Supreme Verdict
 1 Toolcraft Exemplar
 1 Spell Pierce
 1 Glacial Fortress
@@ -533,51 +525,55 @@
 3 Seasoned Hallowblade
 3 Gideon of the Trials
 3 Irrigated Farmland
+3 Supreme Verdict
 3 Heart of Kiran
 3 Nimble Obstructionist
 3 Toolcraft Exemplar
 3 Spell Pierce
 3 Glacial Fortress
-3 Supreme Verdict
 4 Glacial Fortress
 4 Irrigated Farmland
 4 Seasoned Hallowblade
 4 Heart of Kiran
 4 Toolcraft Exemplar
-1 Murderous Rider
-1 Fetid Pools
-1 Ashiok, Nightmare Muse
-1 Glint-Sleeve Siphoner
-1 Aether Hub
-1 Tasigur, the Golden Fang
-1 Atris, Oracle of Half-Truths
-1 Gifted Aetherborn
-1 Ashiok, Nightmare Weaver
-1 Collective Brutality
-1 Thief of Sanity
-1 Kalitas, Traitor of Ghet
-2 Murderous Rider
-2 Fetid Pools
-2 Glint-Sleeve Siphoner
-2 Aether Hub
-2 Atris, Oracle of Half-Truths
-2 Collective Brutality
-2 Kalitas, Traitor of Ghet
-2 Gifted Aetherborn
-2 Thief of Sanity
-2 Ashiok, Nightmare Weaver
-2 Tasigur, the Golden Fang
-3 Aether Hub
-3 Fetid Pools
-3 Glint-Sleeve Siphoner
-3 Thief of Sanity
-3 Murderous Rider
-4 Glint-Sleeve Siphoner
-4 Aether Hub
-4 Fetid Pools
-4 Thief of Sanity
+1 Thieves' Guild Enforcer
+1 Zareth San, the Trickster
+1 Soaring Thought-Thief
+1 Drown in the Loch
+1 Nighthawk Scavenger
+1 Eliminate
+1 Fatal Push
+1 Fabled Passage
+1 Mystical Dispute
+2 Thieves' Guild Enforcer
+2 Nighthawk Scavenger
+2 Zareth San, the Trickster
+2 Soaring Thought-Thief
+2 Drown in the Loch
+2 Clearwater Pathway
+2 Eliminate
+2 Fatal Push
+2 Mystical Dispute
+2 Fabled Passage
+3 Thieves' Guild Enforcer
+3 Soaring Thought-Thief
+3 Nighthawk Scavenger
+3 Clearwater Pathway
+3 Drown in the Loch
+3 Fatal Push
+3 Mystical Dispute
+3 Island
+4 Thieves' Guild Enforcer
+4 Soaring Thought-Thief
+4 Nighthawk Scavenger
+4 Drown in the Loch
+4 Fatal Push
+4 Mystical Dispute
+4 Island
+4 Watery Grave
 1 Inspiring Vantage
 1 Thalia, Heretic Cathar
+1 Hero of Precinct One
 1 Gideon Blackblade
 1 Kitesail Freebooter
 1 Mantis Rider
@@ -585,13 +581,17 @@
 2 Inspiring Vantage
 2 Kitesail Freebooter
 2 Gideon Blackblade
+2 Hero of Precinct One
 2 Mantis Rider
 3 Inspiring Vantage
 3 Gideon Blackblade
+3 Hero of Precinct One
 3 Mantis Rider
 3 Kitesail Freebooter
 3 Mutavault
 4 Inspiring Vantage
+4 General Kudro of Drannith
+4 Hero of Precinct One
 4 Mantis Rider
 4 Mutavault
 1 Fortified Village

@@ -13,8 +13,8 @@
 1 Preordain
 1 Ponder
 1 Chrome Mox
-1 Urborg, Tomb of Yawgmoth
 1 Vampire Hexmage
+1 Urborg, Tomb of Yawgmoth
 1 Thespian's Stage
 1 Dark Confidant
 1 Castle Locthwain
@@ -22,10 +22,10 @@
 1 Mishra's Bauble
 1 Thopter Foundry
 1 Gitaxian Probe
-2 Vampire Hexmage
 2 Preordain
 2 Ponder
 2 Chrome Mox
+2 Vampire Hexmage
 2 Dark Confidant
 2 Dark Depths
 2 Gitaxian Probe
@@ -157,19 +157,19 @@
 1 Chandra, Torch of Defiance
 1 Commandeer
 1 Delay
-1 Drannith Magistrate
 1 Spellskite
 1 Jace, the Mind Sculptor
 1 Reverse the Sands
 1 Snow-Covered Plains
+1 Drannith Magistrate
 1 Snow-Covered Mountain
 1 Possibility Storm
 2 Jace, the Mind Sculptor
 2 Spell Queller
 2 Wall of Omens
 2 Snow-Covered Mountain
-2 Narset of the Ancient Way
 2 Snow-Covered Plains
+2 Narset of the Ancient Way
 2 Fae of Wishes
 2 Prismatic Vista
 2 Spellskite
@@ -193,14 +193,14 @@
 3 Scalding Tarn
 4 Spell Queller
 4 Teferi, Time Raveler
-4 Wall of Omens
-4 Flooded Strand
 4 Scalding Tarn
 4 Snow-Covered Island
 4 Prismatic Vista
+4 Wall of Omens
 4 Arid Mesa
 4 Fae of Wishes
 4 Drannith Magistrate
+4 Flooded Strand
 4 Snow-Covered Plains
 4 Delay
 5 Snow-Covered Island
@@ -210,6 +210,15 @@
 1 Defense Grid
 2 Defense Grid
 3 Defense Grid
+1 Snapcaster Mage
+1 Tasigur, the Golden Fang
+1 Vendilion Clique
+1 Cryptic Command
+2 Snapcaster Mage
+3 Snapcaster Mage
+3 Island
+4 Jace, Wielder of Mysteries
+4 Fatal Push
 1 Worldspine Wurm
 1 Sphere of the Suns
 1 Wild Cantor
@@ -220,11 +229,6 @@
 4 Emeria's Call
 4 Wild Cantor
 4 Sword of the Meek
-1 Akoum Warrior
-2 Akoum Warrior
-2 Veil of Summer
-3 Veil of Summer
-4 Veil of Summer
 1 Nexus of Fate
 1 Leyline of Sanctity
 1 Talisman of Resilience
@@ -236,6 +240,11 @@
 3 Talisman of Resilience
 4 Pelakka Predation
 4 Leyline of Sanctity
+1 Akoum Warrior
+2 Akoum Warrior
+2 Veil of Summer
+3 Veil of Summer
+4 Veil of Summer
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
@@ -243,31 +252,31 @@
 1 Mission Briefing
 1 Blood Crypt
 1 Rakdos Charm
+1 Bloodstained Mire
 1 Godless Shrine
 1 Batwing Brume
 1 Trespasser's Curse
 1 Hunted Phantasm
-1 Bloodstained Mire
 1 Rapid Hybridization
 1 Hydrolash
 1 Forbidden Orchard
 1 Pongify
-2 Rakdos Charm
+2 Steam Vents
 2 Bloodstained Mire
+2 Rakdos Charm
 2 Trespasser's Curse
 2 Hydrolash
 2 Forbidden Orchard
-2 Steam Vents
 2 Hunted Phantasm
 2 Mission Briefing
 2 Batwing Brume
 2 Rapid Hybridization
 3 Inquisition of Kozilek
-3 Bloodstained Mire
 3 Rakdos Charm
 3 Mission Briefing
 3 Hunted Phantasm
 3 Batwing Brume
+3 Bloodstained Mire
 3 Trespasser's Curse
 3 Hydrolash
 3 Forbidden Orchard
@@ -277,32 +286,23 @@
 4 Trespasser's Curse
 4 Batwing Brume
 4 Rakdos Charm
-1 Snapcaster Mage
-1 Tasigur, the Golden Fang
-1 Vendilion Clique
-1 Cryptic Command
-2 Snapcaster Mage
-3 Snapcaster Mage
-3 Island
-4 Fatal Push
-4 Jace, Wielder of Mysteries
 3 Pact of Negation
 4 Pact of Negation
 4 Sea Gate Restoration
 1 Plains
+1 Wishclaw Talisman
 1 Serum Visions
 1 Gemstone Mine
-1 Wishclaw Talisman
 1 Angel's Grace
 1 Talisman of Dominance
 1 Spoils of the Vault
 1 City of Brass
+2 Wishclaw Talisman
 2 Talisman of Dominance
 2 Spoils of the Vault
 2 Gemstone Mine
 2 City of Brass
 2 Serum Visions
-2 Wishclaw Talisman
 2 Angel's Grace
 3 Talisman of Dominance
 3 Gemstone Mine
@@ -315,18 +315,18 @@
 4 Angel's Grace
 1 Omen of the Sea
 1 Cling to Dust
-1 Darkslick Shores
 1 Eliminate
 1 Leveler
 1 Eldrazi Temple
+1 Darkslick Shores
 1 Logic Knot
 2 Omen of the Sea
-2 Darkslick Shores
 2 Relic of Progenitus
+2 Darkslick Shores
 2 Eldrazi Temple
 3 Omen of the Sea
-3 Darkslick Shores
 3 Relic of Progenitus
+3 Darkslick Shores
 4 River of Tears
 1 Stomping Ground
 1 Gemstone Caverns
@@ -334,8 +334,8 @@
 1 Wooded Foothills
 1 Charming Prince
 1 Windswept Heath
-1 Utopia Sprawl
 1 Emrakul, the Aeons Torn
+1 Utopia Sprawl
 1 Flickerwisp
 1 Dubious Challenge
 1 Vizier of Remedies

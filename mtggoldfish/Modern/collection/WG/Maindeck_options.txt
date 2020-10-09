@@ -1,36 +1,36 @@
+1 Spike Feeder
+4 Collected Company
+3 Temple Garden
+1 Ranger-Captain of Eos
+2 Ranger-Captain of Eos
+3 Ranger-Captain of Eos
 1 Conclave Mentor
+1 Heliod, Sun-Crowned
 1 Scavenging Ooze
 1 Walking Ballista
-1 Collected Company
-2 Ranger-Captain of Eos
-2 Heliod, Sun-Crowned
 2 Conclave Mentor
+2 Heliod, Sun-Crowned
 2 Scavenging Ooze
 2 Spike Feeder
 2 Walking Ballista
-2 Collected Company
-3 Ranger-Captain of Eos
 3 Heliod, Sun-Crowned
 3 Conclave Mentor
 3 Spike Feeder
-3 Collected Company
-4 Collected Company
-4 Spike Feeder
 4 Heliod, Sun-Crowned
-3 Forest
+4 Spike Feeder
 4 Conclave Mentor
 4 Ranger-Captain of Eos
 1 Auriok Champion
 1 Hardened Scales
 2 Hardened Scales
-4 Temple Garden
 2 Plains
+4 Temple Garden
+2 Horizon Canopy
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Utopia Sprawl
 4 Forest
 4 Utopia Sprawl
-2 Horizon Canopy
 2 Auriok Champion
 3 Hardened Scales
 1 Gavony Township
@@ -41,60 +41,90 @@
 1 Scattered Groves
 2 Snow-Covered Forest
 5 Forest
+3 Horizon Canopy
 1 Prismatic Vista
 1 Arbor Elf
 2 Arbor Elf
 3 Arbor Elf
-3 Horizon Canopy
 4 Arbor Elf
-3 Scavenging Ooze
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
+3 Scavenging Ooze
 1 Wooded Bastion
 1 Eternal Witness
 1 Tireless Tracker
+1 Skyclave Apparition
 1 Crumbling Vestige
 1 Wall of Blossoms
-1 Skyclave Apparition
 1 Springbloom Druid
 1 Elder Gargaroth
 1 Courser of Kruphix
+1 Archon of Emeria
 2 Prismatic Vista
 1 Verdant Catacombs
 1 Pendelhaven
 3 Wooded Foothills
 1 Birds of Paradise
 2 Birds of Paradise
-2 Wall of Blossoms
-1 Archon of Emeria
-1 Sejiri Steppe
+2 Skyclave Apparition
 1 Misty Rainforest
+2 Wall of Blossoms
+1 Razorverge Thicket
+1 Sejiri Steppe
 4 Wooded Foothills
 1 Lurrus of the Dream-Den
-2 Skyclave Apparition
+4 Noble Hierarch
+2 Razorverge Thicket
+1 Giver of Runes
+3 Birds of Paradise
 1 Summoner's Pact
 1 Turntimber Symbiosis
 3 Walking Ballista
-1 Giver of Runes
 1 Knight of the Reliquary
 3 Snow-Covered Forest
-1 Razorverge Thicket
-3 Birds of Paradise
 1 Thalia, Guardian of Thraben
+2 Giver of Runes
+3 Razorverge Thicket
 4 Snow-Covered Forest
 5 Snow-Covered Forest
 3 Explore
 1 Elvish Rejuvenator
 1 Anafenza, Kin-Tree Spirit
-2 Giver of Runes
 2 Sakura-Tribe Elder
-4 Noble Hierarch
 2 Tireless Tracker
-2 Razorverge Thicket
 2 Thalia, Guardian of Thraben
+2 Misty Rainforest
+3 Auriok Champion
+3 Plains
+1 Maul of the Skyclaves
+1 Sword of Feast and Famine
+1 Batterskull
+1 Stoneforge Mystic
+2 Stoneforge Mystic
+3 Skyclave Apparition
+3 Stoneforge Mystic
+4 Razorverge Thicket
+4 Stoneforge Mystic
 1 Voice of Resurgence
 1 Woodland Bellower
+1 Field of Ruin
+1 Branchloft Pathway
+1 Mirran Crusader
+1 Burrenton Forge-Tender
+2 Mirran Crusader
+2 Ghost Quarter
+2 Archon of Emeria
+2 Knight of Autumn
+2 Burrenton Forge-Tender
+3 Archon of Emeria
+3 Ghost Quarter
+3 Knight of Autumn
+4 Skyclave Apparition
+4 Archon of Emeria
+4 Horizon Canopy
+4 Knight of Autumn
+4 Ghost Quarter
 2 Verdant Catacombs
 3 Verdant Catacombs
 1 Golos, Tireless Pilgrim
@@ -104,9 +134,9 @@
 3 Thalia, Guardian of Thraben
 3 Aether Vial
 4 Aether Vial
-2 Misty Rainforest
-3 Razorverge Thicket
 4 Birds of Paradise
+3 Misty Rainforest
+1 Settle the Wreckage
 1 Collector Ouphe
 1 Reclamation Sage
 1 Gaddock Teeg
@@ -116,18 +146,17 @@
 1 Archangel of Thune
 1 Canopy Vista
 2 Snow-Covered Plains
+2 Wooded Bastion
 1 Carrion Feeder
 1 Overgrown Tomb
 1 Kitchen Finks
 2 Kitchen Finks
-2 Wooded Bastion
 3 Tireless Tracker
 1 Brushland
 2 Lurrus of the Dream-Den
-2 Brushland
 2 Anafenza, Kin-Tree Spirit
+2 Brushland
 3 Brushland
-3 Auriok Champion
 1 Mountain
 1 Stomping Ground
 1 Magus of the Moon
@@ -140,13 +169,27 @@
 3 Seasoned Pyromancer
 4 Verdant Catacombs
 1 Selfless Savior
-3 Misty Rainforest
 4 Misty Rainforest
 1 Marsh Flats
 1 Stirring Wildwood
 2 Marsh Flats
 2 Stirring Wildwood
 3 Marsh Flats
-3 Plains
 4 Plains
+1 Luminarch Aspirant
+1 Hexdrinker
+1 Glasspool Mimic
+1 Hallowed Fountain
+1 Breeding Pool
+1 Island
+1 Sword of Fire and Ice
+1 Cephalid Constable
+2 Glasspool Mimic
+2 Island
+2 Cephalid Constable
+3 Glasspool Mimic
+3 Giver of Runes
+3 Cephalid Constable
+4 Glasspool Mimic
+4 Giver of Runes
 4 Explore

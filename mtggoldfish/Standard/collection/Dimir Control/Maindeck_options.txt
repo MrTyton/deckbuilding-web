@@ -1,17 +1,17 @@
 3 Heartless Act
 1 Silundi Vision
-6 Island
 2 Silundi Vision
 1 Cling to Dust
-1 Ashiok, Nightmare Muse
 1 Shark Typhoon
 1 Castle Vantress
 1 Neutralize
 2 Shark Typhoon
 2 Neutralize
 3 Neutralize
+2 Hagra Mauling
 1 Zagoth Triome
 3 Silundi Vision
+1 Ashiok, Nightmare Muse
 1 Sea Gate Restoration
 1 Negate
 2 Negate
@@ -39,10 +39,10 @@
 1 Agonizing Remorse
 2 Agonizing Remorse
 4 Bloodchief's Thirst
+3 Jwari Disruption
 1 Merfolk Secretkeeper
 2 Merfolk Secretkeeper
 3 Merfolk Secretkeeper
-3 Jwari Disruption
 1 Teferi, Master of Time
 4 Heartless Act
 1 Thirst for Meaning
@@ -75,43 +75,45 @@
 2 Opt
 3 Opt
 4 Opt
-1 Riverglide Pathway
 1 Mountain
+1 Riverglide Pathway
 2 Riverglide Pathway
 3 Riverglide Pathway
 4 Riverglide Pathway
-1 Temple of Mystery
 1 Rain of Revelation
+1 Temple of Mystery
 2 Temple of Mystery
 2 Rain of Revelation
 3 Didn't Say Please
-1 Evolving Wilds
-2 Evolving Wilds
 1 Lochmere Serpent
 1 Anticognition
 2 Anticognition
 7 Island
-1 Forest
-1 Temple of Malady
 1 Polukranos, Unchained
-1 Wilt
+1 Temple of Malady
 1 Elder Gargaroth
+1 Wilt
+1 Forest
 2 Forest
-2 Polukranos, Unchained
 2 Wilt
+2 Polukranos, Unchained
 2 Elder Gargaroth
-3 Forest
 3 Wilt
 3 Temple of Mystery
+3 Forest
 3 Rain of Revelation
+1 Vantress Gargoyle
+2 Vantress Gargoyle
+3 Vantress Gargoyle
+4 Vantress Gargoyle
 4 Omen of the Sea
 1 Improbable Alliance
 1 Fire Prophecy
 1 Thrill of Possibility
 1 Ketria Triome
 1 Inscription of Insight
-2 Thrill of Possibility
 2 Fire Prophecy
+2 Thrill of Possibility
 2 Improbable Alliance
 2 Ketria Triome
 3 Ketria Triome
@@ -121,22 +123,22 @@
 4 Thrill of Possibility
 4 Improbable Alliance
 4 Fire Prophecy
-1 Temple of Epiphany
-1 Soul Sear
 1 Thundering Rebuke
 1 Bonecrusher Giant
+1 Soul Sear
+1 Temple of Epiphany
 1 Storm's Wrath
 1 The Royal Scions
 1 Valakut Awakening
 1 Spikefield Hazard
 2 Thundering Rebuke
+2 Bonecrusher Giant
+2 Soul Sear
 2 Spikefield Hazard
 2 Storm's Wrath
 2 Valakut Awakening
-2 Bonecrusher Giant
 2 Mountain
 2 The Royal Scions
-2 Soul Sear
 2 Temple of Epiphany
 3 Spikefield Hazard
 3 Soul Sear
@@ -146,21 +148,19 @@
 4 Temple of Epiphany
 4 Bonecrusher Giant
 4 Mountain
-1 Vantress Gargoyle
-2 Vantress Gargoyle
-3 Vantress Gargoyle
-4 Vantress Gargoyle
-1 So Tiny
 1 Soul-Guide Lantern
+1 So Tiny
 2 Crawling Barrens
-1 Radiant Fountain
-2 Radiant Fountain
-1 Jace, Mirror Mage
-2 Castle Vantress
 1 Shadows' Verdict
 3 Extinction Event
+2 Castle Vantress
+1 Radiant Fountain
+2 Radiant Fountain
 3 Agonizing Remorse
+1 Jace, Mirror Mage
 1 Grasp of Darkness
+1 Evolving Wilds
+2 Evolving Wilds
 3 Dismal Backwater
 4 Dismal Backwater
 4 Didn't Say Please
@@ -169,7 +169,6 @@
 8 Island
 9 Island
 1 Soul Shatter
-1 Soaring Thought-Thief
 1 Into the Roil
 1 Mystic Sanctuary
 2 Mystic Sanctuary
@@ -182,25 +181,25 @@
 2 Teferi, Master of Time
 2 Jace, Mirror Mage
 3 Sea Gate Restoration
+1 Feed the Swarm
+2 Grasp of Darkness
+3 Evolving Wilds
+4 Evolving Wilds
 1 Duress
 2 Duress
 2 Zareth San, the Trickster
 3 Hagra Mauling
 4 Agonizing Remorse
+4 Mazemind Tome
 1 Sublime Epiphany
-3 Eliminate
 3 Murderous Rider
 3 Ashiok, Nightmare Muse
+3 Eliminate
 4 Extinction Event
 4 Murderous Rider
-1 Feed the Swarm
-2 Grasp of Darkness
-3 Evolving Wilds
-4 Evolving Wilds
 2 Shadows' Verdict
 3 Cling to Dust
 4 Cling to Dust
-4 Mazemind Tome
 1 Pestilent Haze
 2 Pestilent Haze
 3 Pestilent Haze
