@@ -74,9 +74,9 @@
 1 Ancient Greenwarden
 1 Cultivate
 1 Phylath, World Sculptor
-2 Ancient Greenwarden
 2 Ram Through
 2 The Great Henge
+2 Ancient Greenwarden
 2 Escape to the Wilds
 2 Cultivate
 3 Cultivate
@@ -89,9 +89,9 @@
 2 Ranger's Guile
 2 Shock
 2 Unleash Fury
-3 Shock
 3 Skyclave Geopede
 3 Ranger's Guile
+3 Shock
 4 Skyclave Geopede
 4 Ranger's Guile
 4 Shock
@@ -123,12 +123,12 @@
 2 Gilded Goose
 3 Gilded Goose
 4 Gilded Goose
-1 Storm's Wrath
 1 Beanstalk Giant
+1 Storm's Wrath
 2 Storm's Wrath
 3 Inscription of Abundance
-3 Elder Gargaroth
 3 Storm's Wrath
+3 Elder Gargaroth
 4 Inscription of Abundance
 4 Storm's Wrath
 1 Terror of the Peaks
@@ -137,16 +137,16 @@
 2 Wolfwillow Haven
 3 Wolfwillow Haven
 4 Wolfwillow Haven
-1 Fireblade Charger
 1 Needleverge Pathway
+1 Fireblade Charger
 1 Riverglide Pathway
 1 Omnath, Locus of Creation
-2 Fireblade Charger
 2 Needleverge Pathway
+2 Fireblade Charger
 2 Omnath, Locus of Creation
 2 Riverglide Pathway
-3 Needleverge Pathway
 3 Riverglide Pathway
+3 Needleverge Pathway
 3 Fireblade Charger
 3 Omnath, Locus of Creation
 4 Omnath, Locus of Creation
@@ -167,7 +167,7 @@
 2 Leyline Tyrant
 3 Leyline Tyrant
 3 Shatterskull Charger
-4 Roil Eruption
 4 Leyline Tyrant
 4 Valakut Exploration
+4 Roil Eruption
 4 Shatterskull Charger

@@ -3,8 +3,8 @@
 3 Lightning Bolt
 4 Lightning Bolt
 1 Light Up the Stage
-1 Manamorphose
 1 Lava Dart
+1 Manamorphose
 1 Soul-Scar Mage
 1 Crash Through
 1 Mishra's Bauble
@@ -19,8 +19,8 @@
 1 Seeker of the Way
 1 Monastery Swiftspear
 2 Light Up the Stage
-2 Manamorphose
 2 Lava Dart
+2 Manamorphose
 2 Soul-Scar Mage
 2 Crash Through
 2 Mishra's Bauble
@@ -32,8 +32,8 @@
 2 Monastery Swiftspear
 2 Monastery Mentor
 3 Light Up the Stage
-3 Manamorphose
 3 Lava Dart
+3 Manamorphose
 3 Soul-Scar Mage
 3 Crash Through
 3 Mutagenic Growth
@@ -42,32 +42,24 @@
 3 Monastery Swiftspear
 3 Mountain
 4 Light Up the Stage
-4 Manamorphose
 4 Lava Dart
+4 Manamorphose
 4 Mountain
 4 Soul-Scar Mage
 4 Crash Through
 4 Arid Mesa
 4 Seeker of the Way
 4 Monastery Swiftspear
-1 Snow-Covered Plains
-1 Swiftblade Vindicator
-2 Swiftblade Vindicator
-2 Snow-Covered Plains
-2 Apostle's Blessing
-3 Snow-Covered Plains
-4 Snow-Covered Plains
-5 Snow-Covered Plains
 1 Seasoned Pyromancer
 1 Ichor Wellspring
 1 Myth Realized
 1 Lightning Helix
 1 Boom / Bust
-1 Pillage
 1 Cascading Cataracts
 1 Flagstones of Trokair
 1 Crack the Earth
 1 Kher Keep
+1 Pillage
 1 Greater Gargadon
 1 Chromatic Star
 2 Seasoned Pyromancer
@@ -76,12 +68,11 @@
 2 Boom / Bust
 2 Lightning Helix
 2 Flagstones of Trokair
-2 Pillage
 2 Ichor Wellspring
 2 Chromatic Star
 2 Greater Gargadon
+2 Pillage
 2 Crack the Earth
-3 Lightning Helix
 3 Seasoned Pyromancer
 3 Myth Realized
 3 Cascading Cataracts
@@ -89,6 +80,7 @@
 3 Flagstones of Trokair
 3 Pillage
 3 Chromatic Star
+3 Lightning Helix
 3 Ichor Wellspring
 3 Greater Gargadon
 3 Crack the Earth
@@ -103,3 +95,11 @@
 4 Crack the Earth
 4 Ichor Wellspring
 4 Pillage
+1 Snow-Covered Plains
+1 Swiftblade Vindicator
+2 Swiftblade Vindicator
+2 Snow-Covered Plains
+2 Apostle's Blessing
+3 Snow-Covered Plains
+4 Snow-Covered Plains
+5 Snow-Covered Plains

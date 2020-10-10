@@ -55,6 +55,6 @@
 |                     |                                                                                              |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
 |                     |                                                                                              |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
 |                     |                                                                                              |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
-|                     |                                                                                              |                    1|[Extinction Event](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479608)        |
 |                     |                                                                                              |                    2|[Extinction Event](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479608)        |
+|                     |                                                                                              |                    1|[Extinction Event](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479608)        |
 

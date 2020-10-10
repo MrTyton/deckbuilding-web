@@ -38,8 +38,8 @@
 3 Growth Spiral
 4 Wilderness Reclamation
 4 Growth Spiral
-4 Negate
 4 Aether Gust
+4 Negate
 1 Temple of Abandon
 3 Forest
 1 Bonecrusher Giant
@@ -49,14 +49,14 @@
 1 Spikefield Hazard
 1 Riverglide Pathway
 1 Cragcrown Pathway
-2 Riverglide Pathway
 2 Spikefield Hazard
+2 Riverglide Pathway
 2 Cragcrown Pathway
 3 Riverglide Pathway
 5 Island
 1 Plains
-1 Genesis Ultimatum
 1 Ugin, the Spirit Dragon
+1 Genesis Ultimatum
 2 Cultivate
 1 Bala Ged Recovery
 2 Bala Ged Recovery
@@ -66,10 +66,10 @@
 2 Blast Zone
 1 Quench
 2 Quench
-1 Teferi, Time Raveler
 1 Arboreal Grazer
 1 Temple Garden
 1 Raugrin Triome
+1 Teferi, Time Raveler
 1 Hallowed Fountain
 1 Temple of Enlightenment
 2 Teferi, Time Raveler
@@ -95,25 +95,13 @@
 1 Tale's End
 2 Tale's End
 3 Tale's End
-1 Go for Blood
-1 Startling Development
-1 Boon of the Wish-Giver
-1 Blitz of the Thunder-Raptor
-2 Go for Blood
-2 Boon of the Wish-Giver
-2 Blitz of the Thunder-Raptor
-3 Blitz of the Thunder-Raptor
-3 Go for Blood
-3 Boon of the Wish-Giver
-4 Boon of the Wish-Giver
-4 Go for Blood
 1 Turntimber Symbiosis
-1 Thassa's Intervention
 1 Ashiok's Erasure
 1 Klothys, God of Destiny
 1 Jwari Disruption
 1 Elder Gargaroth
 1 Questing Beast
+1 Thassa's Intervention
 1 Roil Eruption
 2 Ashiok's Erasure
 2 Thassa's Intervention
@@ -129,6 +117,18 @@
 3 Elder Gargaroth
 4 Bonecrusher Giant
 4 Roil Eruption
+1 Startling Development
+1 Boon of the Wish-Giver
+1 Go for Blood
+1 Blitz of the Thunder-Raptor
+2 Boon of the Wish-Giver
+2 Blitz of the Thunder-Raptor
+2 Go for Blood
+3 Go for Blood
+3 Boon of the Wish-Giver
+3 Blitz of the Thunder-Raptor
+4 Boon of the Wish-Giver
+4 Go for Blood
 1 Omnath, Locus of Creation
 1 Thornwood Falls
 1 Rugged Highlands
@@ -142,22 +142,22 @@
 1 Beanstalk Giant
 1 Vastwood Surge
 1 Omen of the Sea
-2 Omen of the Sea
 2 Thornwood Falls
-2 Rugged Highlands
 2 Plains
 2 Llanowar Visionary
 2 Didn't Say Please
+2 Omen of the Sea
 2 Swiftwater Cliffs
 2 Vastwood Surge
+2 Rugged Highlands
 2 Volcanic Geyser
 2 Reclaim the Wastes
 2 Beanstalk Giant
 2 Cinderclasm
-3 Omen of the Sea
 3 Cultivate
 3 Llanowar Visionary
 3 Didn't Say Please
+3 Omen of the Sea
 3 Vastwood Surge
 3 Volcanic Geyser
 4 Omen of the Sea
@@ -168,9 +168,9 @@
 6 Forest
 7 Forest
 1 Sea Gate Restoration
-1 Neutralize
-1 Improbable Alliance
 1 Irencrag Pyromancer
+1 Improbable Alliance
+1 Neutralize
 2 Neutralize
 2 Improbable Alliance
 2 Irencrag Pyromancer

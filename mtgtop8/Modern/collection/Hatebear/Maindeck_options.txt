@@ -1,25 +1,28 @@
+1 Plains
+10 Snow-Covered Plains
+4 Skyclave Apparition
+3 Silent Clearing
+2 Plains
+3 Plains
+4 Plains
+4 Silent Clearing
+1 Scavenger Grounds
 5 Plains
 6 Plains
 7 Plains
 8 Plains
 9 Plains
-4 Skyclave Apparition
-5 Snow-Covered Plains
-6 Snow-Covered Plains
-7 Snow-Covered Plains
-8 Snow-Covered Plains
-9 Snow-Covered Plains
 3 Horizon Canopy
 1 Serra Avenger
 2 Serra Avenger
-1 Noble Hierarch
 1 Razorverge Thicket
-2 Noble Hierarch
+1 Noble Hierarch
 2 Razorverge Thicket
-3 Noble Hierarch
+2 Noble Hierarch
 3 Razorverge Thicket
-4 Noble Hierarch
+3 Noble Hierarch
 4 Horizon Canopy
+4 Noble Hierarch
 1 Blade Splicer
 2 Blade Splicer
 1 Reality Smasher
@@ -42,42 +45,48 @@
 3 Restoration Angel
 1 Battlefield Forge
 2 Battlefield Forge
+1 Eiganjo Castle
+1 Sword of Light and Shadow
 1 Shefet Dunes
 2 Shefet Dunes
-1 Brushland
+1 Sword of Feast and Famine
+1 Selfless Savior
+1 Aven Mindcensor
+2 Aven Mindcensor
 1 Snow-Covered Forest
-1 Blast Zone
+1 Brushland
 1 Knight of Autumn
+1 Blast Zone
 2 Brushland
 2 Knight of Autumn
 3 Brushland
 4 Brushland
-1 Forest
+1 Charming Prince
 1 Qasali Pridemage
 1 Stirring Wildwood
 1 Renegade Rallier
-1 Charming Prince
 1 Temple Garden
 1 Windswept Heath
 1 Scavenging Ooze
+1 Forest
+2 Charming Prince
 2 Qasali Pridemage
 2 Renegade Rallier
-2 Temple Garden
-2 Charming Prince
 2 Forest
+2 Temple Garden
 2 Scavenging Ooze
 3 Temple Garden
 4 Restoration Angel
 4 Razorverge Thicket
 1 Smuggler's Copter
 1 Inspiring Vantage
+1 Sacred Foundry
 1 Snow-Covered Mountain
 1 Goblin Rabblemaster
 1 Angrath's Marauders
 1 Winota, Joiner of Forces
 1 Mountain
 1 Lightning Bolt
-1 Sacred Foundry
 1 Seasoned Pyromancer
 2 Smuggler's Copter
 2 Inspiring Vantage
@@ -104,24 +113,23 @@
 4 Seasoned Pyromancer
 4 Lightning Bolt
 1 Wastes
-1 Thalia, Heretic Cathar
 1 Gemstone Caverns
+1 Thalia, Heretic Cathar
 1 Dismember
 1 Containment Priest
 1 Winds of Abandon
 1 Chalice of the Void
 1 Simian Spirit Guide
 1 Cavern of Souls
-2 Gemstone Caverns
 2 Dismember
-2 Containment Priest
 2 Winds of Abandon
+2 Containment Priest
+2 Gemstone Caverns
 2 Chalice of the Void
 2 Simian Spirit Guide
 3 Battlefield Forge
 3 Containment Priest
 3 Chalice of the Void
-3 Silent Clearing
 3 Simian Spirit Guide
 4 Battlefield Forge
 4 Containment Priest
@@ -129,18 +137,18 @@
 4 Simian Spirit Guide
 1 Spell Queller
 1 Seachrome Coast
-1 Meddling Mage
 1 Lurrus of the Dream-Den
-1 Deputy of Detention
 1 Island
 1 Flooded Strand
+1 Deputy of Detention
+1 Meddling Mage
 1 Hallowed Fountain
 2 Spell Queller
+2 Lurrus of the Dream-Den
 2 Seachrome Coast
 2 Meddling Mage
 2 Deputy of Detention
 2 Island
-2 Lurrus of the Dream-Den
 2 Hallowed Fountain
 2 Flooded Strand
 3 Spell Queller
@@ -151,13 +159,9 @@
 4 Seachrome Coast
 4 Meddling Mage
 4 Deputy of Detention
+11 Snow-Covered Plains
 2 Batterskull
 3 Archon of Emeria
 3 Batterskull
 4 Batterskull
 10 Plains
-1 Sword of Feast and Famine
-1 Selfless Savior
-1 Aven Mindcensor
-2 Aven Mindcensor
-10 Snow-Covered Plains

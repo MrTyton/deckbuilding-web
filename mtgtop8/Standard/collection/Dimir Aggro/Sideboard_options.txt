@@ -46,9 +46,6 @@
 1 Enthralling Hold
 2 Eliminate
 3 Eliminate
-1 Confounding Conundrum
-2 Confounding Conundrum
-3 Confounding Conundrum
 1 Starlit Mantle
 2 Starlit Mantle
 2 Feed the Swarm
@@ -58,12 +55,15 @@
 2 Into the Roil
 2 Pharika's Libation
 3 Into the Roil
+1 Mystic Subdual
+2 Mystic Subdual
+3 Cling to Dust
+1 Witch's Vengeance
 1 Neutralize
 1 Shark Typhoon
-1 Witch's Vengeance
 2 Neutralize
-2 Shark Typhoon
 2 Witch's Vengeance
+2 Shark Typhoon
 3 Shark Typhoon
 3 Neutralize
 3 Witch's Vengeance
@@ -79,6 +79,6 @@
 3 Agonizing Remorse
 4 Agonizing Remorse
 4 Negate
-1 Mystic Subdual
-2 Mystic Subdual
-3 Cling to Dust
+1 Confounding Conundrum
+2 Confounding Conundrum
+3 Confounding Conundrum

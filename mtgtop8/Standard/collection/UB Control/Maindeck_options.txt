@@ -1,14 +1,16 @@
-2 Extinction Event
-1 Zagoth Triome
 1 Cling to Dust
-2 Negate
 1 Castle Locthwain
+1 Extinction Event
+2 Extinction Event
 2 Zagoth Triome
-2 Ashiok, Nightmare Muse
 3 Zagoth Triome
 1 Silundi Vision
 2 Silundi Vision
+2 Negate
+2 Ashiok, Nightmare Muse
 3 Silundi Vision
+1 Drown in the Loch
+4 Zagoth Triome
 1 Ashiok's Erasure
 2 Ashiok's Erasure
 3 Ashiok's Erasure
@@ -20,23 +22,23 @@
 3 Mazemind Tome
 4 Mazemind Tome
 1 Lochmere Serpent
-1 Drown in the Loch
 3 Bloodchief's Thirst
-4 Zagoth Triome
-2 Cling to Dust
-4 Silundi Vision
-1 Eliminate
-2 Eliminate
-3 Jwari Disruption
-1 Agonizing Remorse
-2 Agonizing Remorse
-3 Negate
-1 Murderous Rider
-5 Swamp
 1 Into the Story
 2 Into the Story
 2 Drown in the Loch
 3 Drown in the Loch
+1 Eliminate
+2 Eliminate
+2 Cling to Dust
+4 Silundi Vision
+3 Jwari Disruption
+1 Agonizing Remorse
+2 Agonizing Remorse
+3 Negate
+3 Into the Story
+4 Drown in the Loch
+1 Murderous Rider
+5 Swamp
 1 Dismal Backwater
 1 Didn't Say Please
 2 Dismal Backwater
@@ -45,11 +47,10 @@
 1 Jace, Mirror Mage
 3 Fabled Passage
 1 Ugin, the Spirit Dragon
-3 Into the Story
+4 Into the Story
 1 Teferi's Tutelage
 2 Teferi's Tutelage
 3 Teferi's Tutelage
-4 Drown in the Loch
 4 Didn't Say Please
 3 Dismal Backwater
 4 Dismal Backwater
@@ -64,6 +65,18 @@
 1 Brazen Borrower
 2 Zareth San, the Trickster
 2 Brazen Borrower
+1 Vantress Gargoyle
+1 Soaring Thought-Thief
+2 Castle Locthwain
+2 Vantress Gargoyle
+2 Soaring Thought-Thief
+3 Vantress Gargoyle
+3 Soaring Thought-Thief
+4 Vantress Gargoyle
+1 Thieves' Guild Enforcer
+2 Thieves' Guild Enforcer
+3 Thieves' Guild Enforcer
+4 Thieves' Guild Enforcer
 1 Opt
 2 Opt
 3 Opt
@@ -89,15 +102,17 @@
 1 Narset, Parter of Veils
 2 Cry of the Carnarium
 2 Narset, Parter of Veils
-4 Into the Story
 1 Gadwick, the Wizened
 2 Pelakka Predation
 2 Sea Gate Restoration
 1 Soul Shatter
 2 Easy Prey
+2 Murderous Rider
+3 Brazen Borrower
+3 Murderous Rider
 3 Zareth San, the Trickster
-1 Chemister's Insight
 1 Mystic Sanctuary
+1 Chemister's Insight
 1 Liliana, Dreadhorde General
 1 Dimir Guildgate
 1 Devious Cover-Up
@@ -108,14 +123,9 @@
 3 Grasp of Darkness
 3 Dimir Guildgate
 3 Cry of the Carnarium
-1 Feed the Swarm
-1 Radiant Fountain
-2 Radiant Fountain
-3 Evolving Wilds
-4 Evolving Wilds
-1 Watery Grave
-1 Eat to Extinction
 1 Mobilized District
+1 Eat to Extinction
+1 Watery Grave
 1 Thought Erasure
 1 Duress
 2 Teferi, Master of Time
@@ -124,17 +134,11 @@
 3 Watery Grave
 3 Narset, Parter of Veils
 4 Watery Grave
-1 Vantress Gargoyle
-1 Soaring Thought-Thief
-2 Castle Locthwain
-2 Murderous Rider
-2 Vantress Gargoyle
-2 Soaring Thought-Thief
-3 Vantress Gargoyle
-3 Brazen Borrower
-3 Murderous Rider
-3 Soaring Thought-Thief
-4 Vantress Gargoyle
+1 Feed the Swarm
+1 Radiant Fountain
+2 Radiant Fountain
+3 Evolving Wilds
+4 Evolving Wilds
 1 Sea Gate Stormcaller
 2 Jace, Mirror Mage
 2 Sea Gate Stormcaller
@@ -145,26 +149,27 @@
 4 Sea Gate Stormcaller
 4 Bloodchief's Thirst
 4 Agonizing Remorse
-1 Pestilent Haze
+1 Lofty Denial
+1 Agadeem's Awakening
+2 Lofty Denial
+2 Agadeem's Awakening
+4 Soaring Thought-Thief
 1 Merfolk Secretkeeper
-2 Pestilent Haze
+1 Pestilent Haze
 2 Merfolk Secretkeeper
-3 Pestilent Haze
+2 Pestilent Haze
 3 Anticognition
 3 Merfolk Secretkeeper
+3 Pestilent Haze
 4 Anticognition
 9 Swamp
 9 Island
 1 Thirst for Meaning
 1 Maddening Cacophony
-1 Thieves' Guild Enforcer
 2 Maddening Cacophony
-2 Thieves' Guild Enforcer
 3 Maddening Cacophony
-3 Thieves' Guild Enforcer
 3 Mystical Dispute
 4 Maddening Cacophony
 4 Jwari Disruption
 4 Mystical Dispute
-4 Thieves' Guild Enforcer
 4 Fabled Passage

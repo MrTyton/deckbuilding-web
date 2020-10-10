@@ -13,7 +13,6 @@
 1 Cavalier of Thorns
 1 Leafkin Druid
 1 Risen Reef
-1 Rugged Highlands
 1 Ugin, the Spirit Dragon
 1 Genesis Ultimatum
 1 Soul-Guide Lantern
@@ -24,8 +23,9 @@
 1 Cultivate
 1 Uro, Titan of Nature's Wrath
 1 Omnath, Locus of the Roil
-2 Genesis Ultimatum
+1 Rugged Highlands
 2 Ugin, the Ineffable
+2 Genesis Ultimatum
 2 Cavalier of Thorns
 2 Risen Reef
 2 Leafkin Druid
@@ -161,34 +161,34 @@
 5 Forest
 6 Forest
 7 Forest
+1 Frantic Inventory
 1 Crackling Drake
 1 Swiftwater Cliffs
-1 Frantic Inventory
+1 God-Eternal Kefnet
+1 Flame Sweep
 1 Winged Words
 1 Niv-Mizzet, Parun
 1 Ominous Seas
-1 Flame Sweep
+1 Izzet Guildgate
 1 Experimental Overload
 1 Irencrag Pyromancer
-1 Izzet Guildgate
-1 God-Eternal Kefnet
 1 The Royal Scions
-2 Swiftwater Cliffs
 2 Frantic Inventory
-2 Winged Words
-2 Ominous Seas
-2 Crackling Drake
+2 Swiftwater Cliffs
 2 Flame Sweep
-2 Izzet Guildgate
+2 Winged Words
+2 Crackling Drake
+2 Ominous Seas
 2 Experimental Overload
-3 Swiftwater Cliffs
+2 Izzet Guildgate
 3 Frantic Inventory
+3 Swiftwater Cliffs
 3 Ominous Seas
-3 Winged Words
-3 Crackling Drake
 3 Flame Sweep
-4 Swiftwater Cliffs
+3 Crackling Drake
+3 Winged Words
 4 Frantic Inventory
+4 Swiftwater Cliffs
 7 Mountain
 8 Island
 8 Mountain
