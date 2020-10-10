@@ -1,72 +1,19 @@
-1 Force of Will
-1 Brainstorm
-1 Ponder
-1 Swords to Plowshares
-2 Swords to Plowshares
-2 Ponder
-2 Force of Will
-2 Brainstorm
-3 Force of Will
-3 Swords to Plowshares
-3 Brainstorm
-3 Ponder
-4 Ponder
-4 Brainstorm
-1 Batterskull
-1 Stoneforge Mystic
-2 Stoneforge Mystic
-4 Force of Will
-3 Flooded Strand
-4 Flooded Strand
-3 Stoneforge Mystic
-4 Swords to Plowshares
-1 True-Name Nemesis
-2 True-Name Nemesis
-1 Snapcaster Mage
-2 Snapcaster Mage
-1 Force of Negation
-1 Prismatic Vista
-4 Stoneforge Mystic
-1 Jace, the Mind Sculptor
-2 Jace, the Mind Sculptor
-1 Snow-Covered Plains
-1 Snow-Covered Island
-2 Snow-Covered Island
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-3 True-Name Nemesis
-1 Narset, Parter of Veils
-2 Prismatic Vista
-3 Snow-Covered Island
-1 Council's Judgment
-1 Sword of Fire and Ice
-4 Snow-Covered Island
-2 Snow-Covered Plains
-3 Prismatic Vista
-4 Prismatic Vista
-5 Snow-Covered Island
-1 Sword of Feast and Famine
-1 Spell Pierce
-1 Umezawa's Jitte
-3 Snapcaster Mage
-1 Scalding Tarn
-1 Volcanic Island
-2 Spell Pierce
-1 Vendilion Clique
 1 Preordain
-1 Venser, Shaper Savant
+2 Scalding Tarn
+2 Tundra
 2 Vendilion Clique
 1 Jace, Vryn's Prodigy
 2 Karakas
 3 Snow-Covered Plains
-2 Tundra
-2 Scalding Tarn
 3 Scalding Tarn
 1 Counterspell
+1 Island
 1 Wasteland
 2 Wasteland
 1 Back to Basics
-2 Council's Judgment
+1 Snow-Covered Mountain
+1 Arcum's Astrolabe
+2 Arcum's Astrolabe
 1 Polluted Delta
 2 Polluted Delta
 3 Wasteland
@@ -79,14 +26,11 @@
 4 Delver of Secrets
 4 Scalding Tarn
 2 Preordain
-1 Snow-Covered Mountain
-1 Arcum's Astrolabe
-2 Arcum's Astrolabe
 4 Daze
+1 Plains
 2 Island
 3 Island
-4 Mishra's Bauble
-3 Seat of the Synod
+2 Council's Judgment
 1 Spell Snare
 4 True-Name Nemesis
 2 Force of Negation
@@ -94,10 +38,6 @@
 2 Lightning Bolt
 2 Volcanic Island
 1 Underground Sea
-1 Azorius Signet
-1 Ranger of Eos
-2 Azorius Signet
-2 Ranger of Eos
 2 Back to Basics
 2 Plains
 3 Plains
@@ -106,8 +46,12 @@
 6 Island
 3 Tundra
 1 Brazen Borrower
+1 Mystic Sanctuary
 1 Misty Rainforest
 6 Snow-Covered Island
+1 Sevinne's Reclamation
+3 Arcum's Astrolabe
+4 Arcum's Astrolabe
 1 Drown in the Loch
 1 Marsh Flats
 1 Baleful Strix
@@ -116,7 +60,6 @@
 2 Baleful Strix
 3 Polluted Delta
 4 Polluted Delta
-1 Mystic Sanctuary
 1 Dreadhorde Arcanist
 1 Eliminate
 1 Snow-Covered Swamp
@@ -128,12 +71,14 @@
 1 Thoughtseize
 1 Plague Engineer
 2 Thoughtseize
-1 Sevinne's Reclamation
-3 Arcum's Astrolabe
-4 Arcum's Astrolabe
 4 Wasteland
 1 Ethereal Forager
 2 Ethereal Forager
+1 Thopter Foundry
+1 Urza, Lord High Artificer
+1 Sword of the Meek
+2 Thopter Foundry
+2 Urza, Lord High Artificer
 1 Supreme Verdict
 1 Counterbalance
 3 Jace, the Mind Sculptor
@@ -162,9 +107,6 @@
 1 Kaya, Orzhov Usurper
 2 Cling to Dust
 3 Drown in the Loch
-1 Thopter Foundry
-1 Sword of the Meek
-2 Thopter Foundry
 1 Swamp
 1 Engineered Explosives
 3 Thoughtseize

@@ -142,27 +142,25 @@
 1 Glasspool Mimic
 2 Glasspool Mimic
 3 Glasspool Mimic
-1 Prized Amalgam
 1 Haunted Dead
 1 Creeping Chill
+1 Prized Amalgam
 1 Silversmote Ghoul
-2 Prized Amalgam
 2 Silversmote Ghoul
 2 Creeping Chill
+2 Prized Amalgam
 2 Haunted Dead
 3 Silversmote Ghoul
-3 Creeping Chill
 3 Prized Amalgam
-4 Creeping Chill
+3 Creeping Chill
 4 Prized Amalgam
+4 Creeping Chill
 4 Silversmote Ghoul
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
 1 Blackbloom Rogue
-1 Undercity Informer
-1 Worldspine Wurm
 1 Balustrade Spy
 1 Sea Gate Restoration
 1 Into the Roil
@@ -172,6 +170,8 @@
 1 Pelakka Predation
 1 Hagra Mauling
 1 Opt
+1 Worldspine Wurm
+1 Undercity Informer
 2 Hagra Mauling
 2 Worldspine Wurm
 2 Blackbloom Rogue
@@ -185,18 +185,18 @@
 3 Pelakka Predation
 3 Balustrade Spy
 3 Undercity Informer
+3 Blackbloom Rogue
 3 Sea Gate Restoration
 3 Thought Erasure
 3 Agadeem's Awakening
-3 Blackbloom Rogue
 3 Jwari Disruption
 3 Opt
-4 Undercity Informer
-4 Agadeem's Awakening
 4 Balustrade Spy
+4 Agadeem's Awakening
+4 Undercity Informer
+4 Blackbloom Rogue
 4 Sea Gate Restoration
 4 Jwari Disruption
-4 Blackbloom Rogue
 1 Stitcher's Supplier
 2 Stitcher's Supplier
 3 Stitcher's Supplier
@@ -241,8 +241,8 @@
 3 Archpriest of Iona
 3 Acquisitions Expert
 3 Rogue Refiner
-4 Archpriest of Iona
 4 Luminarch Aspirant
+4 Archpriest of Iona
 4 Acquisitions Expert
 1 Brazen Borrower
 2 Brazen Borrower
@@ -370,9 +370,9 @@
 3 Brazen Borrower
 4 Brazen Borrower
 1 Enter the Infinite
+1 Thassa's Oracle
 1 Possibility Storm
 1 Shared Summons
-1 Thassa's Oracle
 1 Beanstalk Giant
 1 Fae of Wishes
 1 Steam Vents

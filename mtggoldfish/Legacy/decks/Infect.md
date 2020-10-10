@@ -68,6 +68,6 @@
 |                     |                                                                                                       |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)                   |
 |                     |                                                                                                       |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)                |
 |                     |                                                                                                       |                    2|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)                  |
-|                     |                                                                                                       |                    2|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)        |
 |                     |                                                                                                       |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)              |
+|                     |                                                                                                       |                    2|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)        |
 

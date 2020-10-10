@@ -45,10 +45,10 @@
 3 Thundering Rebuke
 1 Glasspool Mimic
 1 Lore Drakkis
-1 Shark Typhoon
-2 Shark Typhoon
 1 Scorching Dragonfire
 2 Scorching Dragonfire
+1 Shark Typhoon
+2 Shark Typhoon
 1 Jace, Mirror Mage
 1 Glimpse of Freedom
 1 Master of Winds
@@ -59,20 +59,11 @@
 2 Infuriate
 3 Thrill of Possibility
 4 Thrill of Possibility
-1 Jwari Disruption
-1 Blitz of the Thunder-Raptor
-2 Blitz of the Thunder-Raptor
-2 Jwari Disruption
-3 Jwari Disruption
-3 Blitz of the Thunder-Raptor
-4 Fabled Passage
-4 Jwari Disruption
-4 Blitz of the Thunder-Raptor
 1 Robber of the Rich
 2 Robber of the Rich
 3 Robber of the Rich
-4 Robber of the Rich
 4 Mystical Dispute
+4 Robber of the Rich
 1 Silundi Vision
 1 Frantic Inventory
 1 Swiftwater Cliffs
@@ -86,6 +77,15 @@
 4 Frantic Inventory
 4 Deliberate
 4 Swiftwater Cliffs
+1 Jwari Disruption
+1 Blitz of the Thunder-Raptor
+2 Jwari Disruption
+2 Blitz of the Thunder-Raptor
+3 Jwari Disruption
+3 Blitz of the Thunder-Raptor
+4 Fabled Passage
+4 Jwari Disruption
+4 Blitz of the Thunder-Raptor
 1 Castle Vantress
 1 Essence Scatter
 1 Gadwick, the Wizened
@@ -95,8 +95,8 @@
 3 Gadwick, the Wizened
 4 Brazen Borrower
 4 Gadwick, the Wizened
-1 Into the Roil
 1 Needleverge Pathway
+1 Into the Roil
 1 Merchant of the Vale
 1 Of One Mind
 1 Startling Development
@@ -109,9 +109,9 @@
 2 Forbidden Friendship
 2 See the Truth
 2 Vadrok, Apex of Thunder
-3 Needleverge Pathway
 3 Vadrok, Apex of Thunder
 3 See the Truth
+3 Needleverge Pathway
 3 Forbidden Friendship
 4 Thundering Rebuke
 4 Vadrok, Apex of Thunder

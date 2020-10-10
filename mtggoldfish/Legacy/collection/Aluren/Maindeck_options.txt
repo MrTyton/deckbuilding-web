@@ -8,20 +8,20 @@
 4 Cabal Therapy
 2 Veteran Explorer
 3 Uro, Titan of Nature's Wrath
+1 Karakas
 1 Niambi, Esteemed Speaker
 3 Polluted Delta
-4 Abrupt Decay
 3 Snow-Covered Forest
 1 Teferi, Time Raveler
-1 Karakas
 1 Swords to Plowshares
 2 Teferi, Time Raveler
 4 Arcum's Astrolabe
 3 Baleful Strix
+1 Barrin, Tolarian Archmage
+4 Abrupt Decay
 3 Prismatic Vista
 4 Baleful Strix
 1 Academy Rector
-1 Barrin, Tolarian Archmage
 2 Swords to Plowshares
 4 Prismatic Vista
 1 Ukkima, Stalking Shadow
@@ -37,26 +37,27 @@
 2 Cavern Harpy
 3 Green Sun's Zenith
 1 Arctic Merfolk
+1 Swamp
 1 Forest
 1 Island
 1 Mirri's Guile
-1 Swamp
 2 Island
 2 Forest
-1 Gilded Goose
-2 Gilded Goose
 4 Green Sun's Zenith
 3 Swords to Plowshares
 1 Snow-Covered Plains
+1 Gilded Goose
+2 Gilded Goose
+1 Scavenging Ooze
 1 Cauldron Familiar
 3 Cavern Harpy
 3 Gilded Goose
-1 Scavenging Ooze
 1 Windswept Heath
 1 Plague Engineer
 1 Assassin's Trophy
 1 Sylvan Library
 2 Tropical Island
+4 Snow-Covered Island
 1 Spellseeker
 1 Intuition
 1 Flooded Strand
@@ -67,14 +68,13 @@
 2 Bayou
 2 Sylvan Library
 3 Teferi, Time Raveler
-4 Snow-Covered Island
 1 Volrath's Stronghold
 3 Veteran Explorer
 1 Knight of Autumn
+1 Spell Pierce
 1 Vraska, Golgari Queen
 1 Force of Negation
 1 Palace Jailer
-1 Spell Pierce
 2 Windswept Heath
 2 Spell Pierce
 5 Snow-Covered Island
@@ -99,3 +99,6 @@
 3 Village Rites
 4 Sea Gate Stormcaller
 4 Polluted Delta
+2 Leovold, Emissary of Trest
+4 Uro, Titan of Nature's Wrath
+4 Snow-Covered Forest
