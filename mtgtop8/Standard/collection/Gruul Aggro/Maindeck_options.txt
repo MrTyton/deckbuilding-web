@@ -1,12 +1,7 @@
 6 Mountain
-3 Fabled Passage
-3 Scavenging Ooze
+2 Temple of Abandon
 7 Forest
 3 Spikefield Hazard
-1 Turntimber Symbiosis
-2 Turntimber Symbiosis
-3 Turntimber Symbiosis
-7 Mountain
 1 Stonecoil Serpent
 1 Brushfire Elemental
 1 Gemrazer
@@ -16,23 +11,23 @@
 4 Fabled Passage
 1 Evolving Wilds
 2 Evolving Wilds
-3 Brushfire Elemental
 3 Stonecoil Serpent
+3 Brushfire Elemental
 3 Gemrazer
-4 Brushfire Elemental
 4 Stonecoil Serpent
+4 Brushfire Elemental
 4 Gemrazer
 4 Primal Might
+3 Scavenging Ooze
+1 Turntimber Symbiosis
+2 Turntimber Symbiosis
+7 Mountain
+3 Turntimber Symbiosis
 4 Turntimber Symbiosis
-3 Shatterskull Smashing
 8 Forest
-4 Scavenging Ooze
+3 Shatterskull Smashing
 1 Yorvo, Lord of Garenbrig
-1 Lotus Cobra
-2 Lotus Cobra
-3 Lotus Cobra
 1 Garruk, Unleashed
-1 Kazuul's Fury
 1 The Great Henge
 2 The Great Henge
 1 Ram Through
@@ -59,11 +54,14 @@
 4 Shatterskull Smashing
 4 Spikefield Hazard
 1 Thundering Rebuke
+1 Lotus Cobra
 1 Terror of the Peaks
+2 Lotus Cobra
 2 Thundering Rebuke
 2 Garruk, Unleashed
 2 Terror of the Peaks
 3 Temple of Abandon
+3 Lotus Cobra
 3 Garruk, Unleashed
 3 Thundering Rebuke
 3 Terror of the Peaks
@@ -73,9 +71,5 @@
 4 Thundering Rebuke
 9 Forest
 10 Forest
-1 Swarm Shambler
-1 Escape to the Wilds
-2 Swarm Shambler
-2 Escape to the Wilds
-3 Swarm Shambler
-4 Swarm Shambler
+1 Kazuul's Fury
+4 Scavenging Ooze

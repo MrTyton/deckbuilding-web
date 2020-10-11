@@ -1,13 +1,13 @@
-9 Plains
 1 Shatterskull Smashing
-1 Sejiri Shelter
 1 Brightclimb Pathway
-1 Spikefield Hazard
 1 Riverglide Pathway
 2 Riverglide Pathway
 3 Riverglide Pathway
-1 Shredded Sails
+9 Plains
+1 Sejiri Shelter
+1 Spikefield Hazard
 4 Riverglide Pathway
+1 Shredded Sails
 2 Brightclimb Pathway
 3 Brightclimb Pathway
 4 Brightclimb Pathway
@@ -16,92 +16,89 @@
 2 Raugrin Triome
 1 Emeria's Call
 1 Temple of Plenty
-1 Stonecoil Serpent
-1 Swarm Shambler
 1 Luminarch Aspirant
+1 Swarm Shambler
+1 Stonecoil Serpent
 1 Branchloft Pathway
 1 Conclave Mentor
 1 Forest
+2 Luminarch Aspirant
+2 Swarm Shambler
 2 Stonecoil Serpent
 2 Forest
-2 Swarm Shambler
-2 Luminarch Aspirant
 2 Branchloft Pathway
 2 Conclave Mentor
-3 Forest
+3 Luminarch Aspirant
+3 Branchloft Pathway
 3 Stonecoil Serpent
+3 Forest
 3 Conclave Mentor
+4 Luminarch Aspirant
 4 Stonecoil Serpent
 4 Forest
-3 Branchloft Pathway
-3 Luminarch Aspirant
-4 Luminarch Aspirant
 4 Branchloft Pathway
+1 Skyclave Apparition
 1 Basri's Lieutenant
+2 Skyclave Apparition
 2 Basri's Lieutenant
 3 Swarm Shambler
 4 Conclave Mentor
-1 Skyclave Apparition
-2 Skyclave Apparition
 5 Forest
 1 Primal Might
 2 Primal Might
-3 Basri's Lieutenant
-1 Scavenging Ooze
 10 Plains
 1 Kabira Takedown
 2 Kabira Takedown
 2 Temple of Plenty
 3 Temple of Plenty
+3 Basri's Lieutenant
 4 Temple of Plenty
 3 Skyclave Apparition
 1 Vastwood Fortification
 6 Forest
-1 Oran-Rief Ooze
-2 Oran-Rief Ooze
+4 Boon of the Wish-Giver
+1 Scavenging Ooze
 1 Selfless Savior
 2 Selfless Savior
-2 Scavenging Ooze
-4 Boon of the Wish-Giver
-1 Fabled Passage
-2 Fabled Passage
 1 Giant Killer
 1 Khalni Ambush
 2 Giant Killer
+1 Oran-Rief Ooze
+2 Oran-Rief Ooze
 4 Skyclave Apparition
-3 Oran-Rief Ooze
-4 Basri's Lieutenant
-4 Oran-Rief Ooze
+2 Scavenging Ooze
 2 Sejiri Shelter
-3 Fabled Passage
-4 Swarm Shambler
+1 Fabled Passage
+2 Fabled Passage
 1 Fearless Fledgling
 2 Fearless Fledgling
 2 Emeria's Call
 3 Fearless Fledgling
+3 Oran-Rief Ooze
+4 Basri's Lieutenant
+4 Oran-Rief Ooze
 7 Mountain
 11 Plains
 3 Raugrin Triome
 4 Raugrin Triome
 1 Temple of Triumph
-1 Swamp
-3 Scavenging Ooze
 1 Turntimber Symbiosis
+3 Scavenging Ooze
 2 Vastwood Fortification
-4 Fabled Passage
+3 Fabled Passage
+4 Swarm Shambler
 1 The Great Henge
-1 Temple of Malady
 1 The Ozolith
 2 The Ozolith
-1 Inscription of Abundance
 1 Kazuul's Fury
 1 Clearwater Pathway
+1 Swamp
 2 Clearwater Pathway
 2 Temple of Triumph
 2 Shatterskull Smashing
 3 Sejiri Shelter
-1 Lavabrink Venturer
 1 Elder Gargaroth
+1 Lavabrink Venturer
 1 Invigorating Surge
 1 The First Iroan Games
 2 Lavabrink Venturer
@@ -109,56 +106,41 @@
 2 The Great Henge
 2 The First Iroan Games
 3 Lavabrink Venturer
-1 Felidar Retreat
+1 Island
+1 Temple of Epiphany
+1 Temple of Malady
+1 Temple of Mystery
+1 Savai Thundermane
+2 Island
+2 Savai Thundermane
+3 Island
+4 Island
 1 Basri Ket
+1 Felidar Retreat
 2 Felidar Retreat
 2 Basri Ket
 3 Selfless Savior
+4 Fabled Passage
 4 Selfless Savior
+1 Crawling Barrens
 1 Bala Ged Recovery
 1 Castle Ardenvale
-1 Crawling Barrens
 1 Crystalline Giant
-2 Bala Ged Recovery
+1 Inscription of Abundance
 2 Crawling Barrens
-2 Crystalline Giant
+2 Bala Ged Recovery
 2 Inscription of Abundance
+2 Crystalline Giant
 3 Primal Might
 3 Inscription of Abundance
 3 Crystalline Giant
 4 Crystalline Giant
-1 Island
-1 Savai Thundermane
-1 Temple of Epiphany
-1 Temple of Mystery
-2 Savai Thundermane
-2 Island
-3 Island
-4 Island
-1 Eliminate
-1 Grakmaw, Skyclave Ravager
-1 Indatha Triome
-1 Temple of Silence
-1 Polukranos, Unchained
-1 Mythos of Nethroi
-2 Grakmaw, Skyclave Ravager
-2 Polukranos, Unchained
-2 Eliminate
-2 Swamp
-2 Indatha Triome
-2 Mythos of Nethroi
-3 Grakmaw, Skyclave Ravager
-3 Polukranos, Unchained
-3 Eliminate
-3 Swamp
-4 Swamp
-4 Polukranos, Unchained
 1 Gemrazer
+1 Wildwood Scourge
 1 Ram Through
 1 Chainweb Aracnir
-1 Wildwood Scourge
-2 Ram Through
 2 Gemrazer
+2 Ram Through
 2 Chainweb Aracnir
 2 Wildwood Scourge
 3 Wildwood Scourge

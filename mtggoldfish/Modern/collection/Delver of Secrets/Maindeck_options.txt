@@ -26,8 +26,8 @@
 4 Snapcaster Mage
 3 Archmage's Charm
 1 Plains
-1 Stoneforge Mystic
 1 Batterskull
+1 Stoneforge Mystic
 1 Sword of Fire and Ice
 1 Mantis Rider
 2 Stoneforge Mystic
@@ -43,12 +43,12 @@
 2 Misty Rainforest
 1 Mountain
 3 Spirebluff Canal
-1 Stormwing Entity
 1 Manamorphose
-2 Stormwing Entity
+1 Stormwing Entity
 2 Manamorphose
-3 Stormwing Entity
+2 Stormwing Entity
 3 Manamorphose
+3 Stormwing Entity
 4 Manamorphose
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
@@ -72,13 +72,13 @@
 2 Mystic Sanctuary
 1 Snow-Covered Island
 3 Drown in the Loch
-1 Thieves' Guild Enforcer
 1 Thoughtseize
+1 Thieves' Guild Enforcer
 2 Thieves' Guild Enforcer
 3 Inquisition of Kozilek
 3 Thieves' Guild Enforcer
-4 Thieves' Guild Enforcer
 4 Drown in the Loch
+4 Thieves' Guild Enforcer
 1 Swamp
 1 Darkslick Shores
 2 Darkslick Shores
@@ -95,9 +95,9 @@
 1 Hexdrinker
 2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
+2 Hexdrinker
 2 Forest
 2 Wooded Foothills
-2 Hexdrinker
 3 Uro, Titan of Nature's Wrath
 3 Hexdrinker
 4 Hexdrinker
@@ -133,8 +133,8 @@
 2 Rift Bolt
 2 Mountain
 2 Light Up the Stage
-3 Lava Spike
 3 Fiery Islet
+3 Lava Spike
 3 Monastery Swiftspear
 3 Light Up the Stage
 3 Mountain
@@ -157,8 +157,8 @@
 4 Steam Vents
 2 Seal of Fire
 2 Brazen Borrower
-1 Hooting Mandrills
 1 Botanical Sanctum
+1 Hooting Mandrills
 1 Stomping Ground
 2 Hooting Mandrills
 3 Hooting Mandrills
@@ -175,14 +175,14 @@
 2 Vapor Snag
 1 Deprive
 1 Blackcleave Cliffs
-2 Cling to Dust
 2 Unearth
-1 Young Pyromancer
+2 Cling to Dust
 1 Terminate
+1 Young Pyromancer
 1 Gurmag Angler
 2 Terminate
-2 Young Pyromancer
 2 Gurmag Angler
+2 Young Pyromancer
 1 Tarfire
 1 Blossoming Defense
 1 Flame Slash
@@ -196,8 +196,8 @@
 4 Visions of Beyond
 1 Cryptic Command
 1 Bitterblossom
-1 Creeping Tar Pit
 1 Field of Ruin
+1 Creeping Tar Pit
 2 Field of Ruin
 2 Bitterblossom
 3 Bitterblossom

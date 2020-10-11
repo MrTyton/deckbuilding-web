@@ -157,10 +157,10 @@
 1 Castle Embereth
 1 Soul-Scar Mage
 1 Mutavault
-1 Omen of the Forge
 1 Kari Zev, Skyship Raider
 1 Wild Slash
 1 Siege-Gang Commander
+1 Omen of the Forge
 1 Inspiring Vantage
 1 Purphoros, God of the Forge
 1 Goblin Rabblemaster
@@ -171,12 +171,12 @@
 2 Castle Embereth
 2 Soul-Scar Mage
 2 Mutavault
-2 Omen of the Forge
 2 Kari Zev, Skyship Raider
 2 Wild Slash
 2 Pia and Kiran Nalaar
 2 Needle Spires
 2 Purphoros, God of the Forge
+2 Omen of the Forge
 2 Inspiring Vantage
 2 Siege-Gang Commander
 2 Goblin Rabblemaster
@@ -185,9 +185,9 @@
 2 Earthshaker Khenra
 3 Pia and Kiran Nalaar
 3 Soul-Scar Mage
+3 Mutavault
 3 Wild Slash
 3 Purphoros, God of the Forge
-3 Mutavault
 3 Inspiring Vantage
 3 Earthshaker Khenra
 3 Anax, Hardened in the Forge
@@ -199,7 +199,6 @@
 3 Goblin Rabblemaster
 3 Siege-Gang Commander
 3 Mountain
-4 Mutavault
 4 Soul-Scar Mage
 4 Earthshaker Khenra
 4 Clifftop Retreat
@@ -212,6 +211,7 @@
 4 Goblin Rabblemaster
 4 Mountain
 4 Siege-Gang Commander
+4 Mutavault
 5 Mountain
 6 Mountain
 7 Mountain
@@ -235,16 +235,16 @@
 1 Ashiok, Nightmare Muse
 1 Atris, Oracle of Half-Truths
 1 Mastermind's Acquisition
-1 Nicol Bolas, Dragon-God
 1 Heartless Act
 1 Thoughtseize
 1 Temple of Deceit
 1 The Scarab God
+1 Nicol Bolas, Dragon-God
 1 Temple of Malice
 2 Swamp
 2 Atris, Oracle of Half-Truths
-2 Mastermind's Acquisition
 2 Heartless Act
+2 Mastermind's Acquisition
 2 Nicol Bolas, Dragon-God
 2 Thoughtseize
 3 Thoughtseize

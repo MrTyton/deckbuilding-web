@@ -30,8 +30,8 @@
 2 Dreadbore
 3 Dreadhorde Arcanist
 1 Arid Mesa
-1 Ghost Quarter
 1 Field of Ruin
+1 Ghost Quarter
 2 Verdant Catacombs
 3 Mountain
 1 Godless Shrine
@@ -71,20 +71,14 @@
 3 Vexing Devil
 3 Scalding Tarn
 4 Vexing Devil
-1 Magus of the Moon
-1 Bloodchief's Thirst
-2 Magus of the Moon
-3 Magus of the Moon
-4 Magus of the Moon
-5 Swamp
 1 Sulfurous Springs
-1 Dismember
 1 Death's Shadow
+1 Dismember
 1 Street Wraith
+2 Dismember
 2 Death's Shadow
 2 Arid Mesa
 2 Sulfurous Springs
-2 Dismember
 2 Street Wraith
 3 Death's Shadow
 3 Street Wraith
@@ -92,3 +86,9 @@
 4 Marsh Flats
 4 Street Wraith
 4 Death's Shadow
+1 Magus of the Moon
+1 Bloodchief's Thirst
+2 Magus of the Moon
+3 Magus of the Moon
+4 Magus of the Moon
+5 Swamp

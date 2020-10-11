@@ -1,10 +1,10 @@
-1 Plains
-3 Mana Leak
+1 Mountain
 2 Teferi, Hero of Dominaria
-4 Growth Spiral
+3 Mana Leak
+2 Breeding Pool
 1 Polluted Delta
 2 Polluted Delta
-2 Breeding Pool
+4 Growth Spiral
 1 Remand
 1 Watery Grave
 1 Zagoth Triome
@@ -15,10 +15,10 @@
 4 Polluted Delta
 4 Fatal Push
 1 Snapcaster Mage
-1 Snow-Covered Plains
 1 Abrupt Decay
 1 Archmage's Charm
 4 Scalding Tarn
+1 Snow-Covered Plains
 1 Cling to Dust
 2 Hour of Promise
 1 Swamp
@@ -29,7 +29,6 @@
 2 Island
 1 Drown in the Loch
 3 Teferi, Time Raveler
-1 Snow-Covered Mountain
 1 Sunken Hollow
 1 River of Tears
 1 Flooded Grove
@@ -37,13 +36,14 @@
 1 Damnation
 1 Fact or Fiction
 3 Omnath, Locus of Creation
-1 Lonely Sandbar
 1 Aether Gust
+1 Snow-Covered Mountain
 3 Island
 3 Jace, the Mind Sculptor
 2 Cling to Dust
 1 Engineered Explosives
 2 Fact or Fiction
+1 Lonely Sandbar
 3 Mystic Sanctuary
 1 Dryad of the Ilysian Grove
 1 Windswept Heath
@@ -59,16 +59,16 @@
 4 Dryad of the Ilysian Grove
 1 Supreme Verdict
 2 Remand
-1 Assassin's Trophy
+1 Stomping Ground
 1 Snow-Covered Swamp
+1 Assassin's Trophy
 2 Snow-Covered Island
 3 Lightning Bolt
-1 Sea Gate Restoration
+1 Chandra, Torch of Defiance
 1 Time Warp
 1 Gemstone Caverns
 1 Serum Visions
 1 Exhaustion
-1 Chandra, Torch of Defiance
 1 Walk the Aeons
 2 Time Warp
 2 Steam Vents
@@ -89,11 +89,11 @@
 2 Watery Grave
 2 Thoughtseize
 2 Bloodchief's Thirst
-1 Stomping Ground
 2 Abrupt Decay
-1 Life from the Loam
-1 Arid Mesa
 1 Sacred Foundry
+1 Arid Mesa
+1 Sea Gate Restoration
+1 Life from the Loam
 2 Snapcaster Mage
 1 Firespout
 3 Fact or Fiction
@@ -103,7 +103,7 @@
 2 Ice-Fang Coatl
 2 Snow-Covered Forest
 3 Ice-Fang Coatl
-4 Lightning Bolt
 2 Assassin's Trophy
 4 Force of Negation
 4 Cryptic Command
+4 Lightning Bolt

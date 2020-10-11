@@ -168,13 +168,13 @@
 2 Wall of Omens
 2 Snow-Covered Mountain
 2 Snow-Covered Plains
-2 Narset of the Ancient Way
 2 Prismatic Vista
 2 Fae of Wishes
 2 Spellskite
-2 Delay
-2 Possibility Storm
 2 Drannith Magistrate
+2 Delay
+2 Narset of the Ancient Way
+2 Possibility Storm
 2 Chandra, Torch of Defiance
 2 Jace, the Mind Sculptor
 2 Flooded Strand
@@ -195,11 +195,11 @@
 4 Flooded Strand
 4 Teferi, Time Raveler
 4 Scalding Tarn
+4 Drannith Magistrate
 4 Prismatic Vista
 4 Snow-Covered Island
 4 Arid Mesa
 4 Fae of Wishes
-4 Drannith Magistrate
 4 Snow-Covered Plains
 4 Wall of Omens
 4 Delay
@@ -219,6 +219,16 @@
 3 Island
 4 Jace, Wielder of Mysteries
 4 Fatal Push
+1 Worldspine Wurm
+1 Sphere of the Suns
+1 Wild Cantor
+2 Wild Cantor
+2 Sphere of the Suns
+3 Wild Cantor
+3 Sphere of the Suns
+4 Emeria's Call
+4 Wild Cantor
+4 Sword of the Meek
 1 Akoum Warrior
 2 Akoum Warrior
 2 Veil of Summer
@@ -235,16 +245,6 @@
 3 Talisman of Resilience
 4 Pelakka Predation
 4 Leyline of Sanctity
-1 Worldspine Wurm
-1 Sphere of the Suns
-1 Wild Cantor
-2 Sphere of the Suns
-2 Wild Cantor
-3 Wild Cantor
-3 Sphere of the Suns
-4 Emeria's Call
-4 Wild Cantor
-4 Sword of the Meek
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
@@ -333,8 +333,8 @@
 1 Gemstone Caverns
 1 Through the Breach
 1 Wooded Foothills
-1 Windswept Heath
 1 Charming Prince
+1 Windswept Heath
 1 Utopia Sprawl
 1 Flickerwisp
 1 Dubious Challenge
@@ -357,12 +357,11 @@
 2 Plains
 2 Utopia Sprawl
 2 Emrakul, the Aeons Torn
+2 Worldspine Wurm
 2 Misty Rainforest
 2 Devoted Druid
-2 Worldspine Wurm
 2 Dubious Challenge
 2 Eladamri's Call
-3 Charming Prince
 3 Through the Breach
 3 Windswept Heath
 3 Temple Garden
@@ -371,6 +370,7 @@
 3 Dubious Challenge
 3 Eladamri's Call
 3 Flickerwisp
+3 Charming Prince
 3 Devoted Druid
 4 Charming Prince
 4 Windswept Heath

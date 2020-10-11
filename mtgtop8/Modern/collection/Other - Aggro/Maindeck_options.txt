@@ -21,6 +21,7 @@
 2 Plains
 1 Spike Feeder
 1 Conclave Mentor
+1 Idyllic Grange
 1 Horizon Canopy
 1 Gavony Township
 1 Ranger-Captain of Eos
@@ -29,7 +30,6 @@
 1 Hardened Scales
 1 Collected Company
 1 Walking Ballista
-1 Idyllic Grange
 1 Heliod, Sun-Crowned
 1 Prismatic Vista
 2 Spike Feeder
@@ -175,11 +175,11 @@
 2 Lightning Bolt
 3 Lightning Bolt
 4 Lightning Bolt
-1 Stormwing Entity
 1 Gut Shot
 1 Bedlam Reveler
 1 Wild Slash
 1 Light Up the Stage
+1 Stormwing Entity
 1 Spirebluff Canal
 1 Scalding Tarn
 1 Sprite Dragon
@@ -190,11 +190,11 @@
 1 Manamorphose
 1 Fiery Islet
 1 Monastery Swiftspear
-2 Stormwing Entity
 2 Bedlam Reveler
 2 Wild Slash
 2 Gut Shot
 2 Light Up the Stage
+2 Stormwing Entity
 2 Sprite Dragon
 2 Lava Dart
 2 Spirebluff Canal
@@ -206,12 +206,12 @@
 2 Monastery Swiftspear
 2 Opt
 2 Fiery Islet
-3 Stormwing Entity
 3 Spirebluff Canal
 3 Mountain
 3 Fiery Islet
 3 Mutagenic Growth
 3 Light Up the Stage
+3 Stormwing Entity
 3 Sprite Dragon
 3 Manamorphose
 3 Monastery Swiftspear
