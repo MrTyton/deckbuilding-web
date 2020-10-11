@@ -4,19 +4,6 @@
 1 Unsubstantiate
 1 Raking Claws
 7 Island
-1 Sea-Dasher Octopus
-1 Embercleave
-1 Lofty Denial
-1 Ionize
-2 Sea-Dasher Octopus
-2 Lofty Denial
-2 Ionize
-3 Spectral Sailor
-3 Sea-Dasher Octopus
-3 Lofty Denial
-4 Spectral Sailor
-4 Sea-Dasher Octopus
-4 Lofty Denial
 2 Unsubstantiate
 2 Raking Claws
 8 Island
@@ -48,11 +35,11 @@
 3 Heartfire Immolator
 4 Heartfire Immolator
 1 See the Truth
-1 Castle Vantress
 1 Infuriate
 1 Lava Coil
 1 Finale of Promise
 1 Maximize Velocity
+1 Castle Vantress
 2 Finale of Promise
 2 See the Truth
 2 Infuriate
@@ -64,13 +51,13 @@
 4 See the Truth
 1 Ominous Seas
 1 Thrill of Possibility
-1 Teferi, Master of Time
-1 Frantic Inventory
 1 Chandra, Awakened Inferno
+1 Frantic Inventory
 1 Improbable Alliance
 1 Fire Prophecy
 1 Niv-Mizzet, Parun
 1 Flame Sweep
+1 Teferi, Master of Time
 1 Keep Safe
 2 Ominous Seas
 2 Thrill of Possibility
@@ -82,8 +69,21 @@
 3 Improbable Alliance
 3 Fire Prophecy
 3 Ominous Seas
+3 Flame Sweep
 4 Frantic Inventory
 4 Fire Prophecy
 4 Improbable Alliance
 9 Island
-3 Flame Sweep
+1 Sea-Dasher Octopus
+1 Embercleave
+1 Lofty Denial
+1 Ionize
+2 Sea-Dasher Octopus
+2 Lofty Denial
+2 Ionize
+3 Spectral Sailor
+3 Sea-Dasher Octopus
+3 Lofty Denial
+4 Spectral Sailor
+4 Sea-Dasher Octopus
+4 Lofty Denial

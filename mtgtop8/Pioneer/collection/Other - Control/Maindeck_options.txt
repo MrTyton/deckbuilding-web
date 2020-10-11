@@ -1,24 +1,22 @@
-3 Opt
-4 Opt
-1 Swamp
-2 Swamp
-1 Fatal Push
-2 Fatal Push
 3 Fatal Push
 1 Watery Grave
 2 Watery Grave
 3 Watery Grave
 4 Watery Grave
+1 Drowned Catacomb
+1 Opt
+2 Drowned Catacomb
+2 Opt
+3 Drowned Catacomb
+3 Opt
+4 Opt
+4 Fatal Push
+1 Shark Typhoon
+1 Hero's Downfall
 1 Censor
 1 Dig Through Time
 2 Dig Through Time
 2 Censor
-1 Drowned Catacomb
-2 Drowned Catacomb
-3 Drowned Catacomb
-4 Fatal Push
-1 Castle Vantress
-1 Hero's Downfall
 3 Dig Through Time
 4 Drowned Catacomb
 1 Eliminate
@@ -26,33 +24,34 @@
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
+2 Hinterland Harbor
 3 Hinterland Harbor
 4 Forest
 2 Mountain
 2 Genesis Ultimatum
-2 Shark Typhoon
-1 Heartless Act
-1 Fetid Pools
-2 Fetid Pools
-1 Field of Ruin
-1 Sinister Sabotage
-1 Torrential Gearhulk
-2 Torrential Gearhulk
-3 Censor
-1 Castle Locthwain
 1 Hallowed Fountain
 3 Ketria Triome
 4 Ketria Triome
-2 Field of Ruin
 1 Sunpetal Grove
-3 Shark Typhoon
+1 Heartless Act
+1 Castle Vantress
+1 Fetid Pools
+2 Fetid Pools
+1 Field of Ruin
+1 Castle Locthwain
+2 Field of Ruin
+2 Shark Typhoon
+1 Sinister Sabotage
+1 Torrential Gearhulk
+2 Torrential Gearhulk
 3 Torrential Gearhulk
+3 Censor
 4 Dig Through Time
-2 Sinister Sabotage
 3 Swamp
 3 Fetid Pools
 2 Castle Locthwain
 4 Teferi, Time Raveler
+3 Shark Typhoon
 1 Steam Vents
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
@@ -73,8 +72,8 @@
 4 Narset, Parter of Veils
 2 Stomping Ground
 3 Temple Garden
-4 Shark Typhoon
 1 Rootbound Crag
+2 Sinister Sabotage
 3 Sinister Sabotage
 4 Sinister Sabotage
 5 Island
@@ -89,11 +88,7 @@
 1 Satyr Wayfinder
 2 Satyr Wayfinder
 2 Eliminate
-3 Breeding Pool
-2 Castle Vantress
-1 Temple of Mystery
-2 Temple of Mystery
-3 Temple of Mystery
+4 Shark Typhoon
 1 Sulfur Falls
 1 Anger of the Gods
 2 Anger of the Gods
@@ -243,6 +238,7 @@
 4 Doom Foretold
 5 Plains
 6 Plains
+1 Ipnu Rivulet
 1 Breaking / Entering
 1 Clearwater Pathway
 1 Drown in the Loch
@@ -251,7 +247,6 @@
 1 Drowned Secrets
 1 Maddening Cacophony
 1 Merfolk Secretkeeper
-1 Ipnu Rivulet
 1 Fraying Sanity
 1 Crypt Incursion
 1 Sea Gate Stormcaller
@@ -259,8 +254,8 @@
 2 Clearwater Pathway
 2 Breaking / Entering
 2 Drown in the Loch
-2 Jwari Disruption
 2 Ipnu Rivulet
+2 Jwari Disruption
 2 Didn't Say Please
 2 Crypt Incursion
 2 Sea Gate Stormcaller
@@ -274,12 +269,12 @@
 3 Fraying Sanity
 3 Breaking / Entering
 3 Jwari Disruption
-3 Ipnu Rivulet
 3 Didn't Say Please
 3 Maddening Cacophony
 3 Ruin Crab
 3 Drowned Secrets
 3 Merfolk Secretkeeper
+3 Ipnu Rivulet
 3 Crypt Incursion
 4 Drown in the Loch
 4 Clearwater Pathway
@@ -300,6 +295,7 @@
 1 Spikefield Hazard
 2 Rootbound Crag
 3 Rootbound Crag
+3 Breeding Pool
 1 Voice of Resurgence
 1 Cragcrown Pathway
 1 Branchloft Pathway
@@ -311,19 +307,10 @@
 1 Ritual of Soot
 1 Void Shatter
 1 Unwind
+2 Castle Vantress
 2 Ritual of Soot
 2 Void Shatter
 3 Void Shatter
-1 Expansion / Explosion
-1 Prophet of Kruphix
-1 Inspired Ultimatum
-2 Expansion / Explosion
-2 Inspired Ultimatum
-2 Dryad of the Ilysian Grove
-2 Prophet of Kruphix
-2 Ugin, the Spirit Dragon
-3 Dryad of the Ilysian Grove
-4 Dryad of the Ilysian Grove
 1 Dreadbore
 1 Nicol Bolas, the Ravager
 1 The Royal Scions
@@ -365,6 +352,19 @@
 4 Liliana, Waker of the Dead
 4 Waste Not
 4 Castle Locthwain
+1 Expansion / Explosion
+1 Prophet of Kruphix
+1 Inspired Ultimatum
+1 Temple of Mystery
+2 Expansion / Explosion
+2 Inspired Ultimatum
+2 Dryad of the Ilysian Grove
+2 Prophet of Kruphix
+2 Ugin, the Spirit Dragon
+2 Temple of Mystery
+3 Temple of Mystery
+3 Dryad of the Ilysian Grove
+4 Dryad of the Ilysian Grove
 1 Dimir Guildgate
 1 Izzet Guildgate
 1 Gateway Plaza
@@ -385,7 +385,6 @@
 1 Orzhov Guildgate
 1 Boros Guildgate
 2 Izzet Guildgate
-2 Gruul Guildgate
 2 Simic Guildgate
 2 Guild Summit
 2 Plaza of Harmony
@@ -394,6 +393,7 @@
 2 Gatecreeper Vine
 2 Mythos of Nethroi
 2 Gates Ablaze
+2 Gruul Guildgate
 2 Golgari Guildgate
 2 Gate Colossus
 3 Gruul Guildgate
@@ -405,30 +405,12 @@
 3 Gatebreaker Ram
 3 Gatecreeper Vine
 3 Plaza of Harmony
+4 Arboreal Grazer
 4 Izzet Guildgate
 4 Gates Ablaze
 4 Plaza of Harmony
 4 Gruul Guildgate
-4 Arboreal Grazer
 4 Gatebreaker Ram
 4 Simic Guildgate
 4 Guild Summit
 4 Gatecreeper Vine
-1 Sublime Epiphany
-1 Wilderness Reclamation
-1 Blast Zone
-1 Neutralize
-1 Aetherspouts
-2 Neutralize
-2 Blast Zone
-2 Sublime Epiphany
-2 Aetherspouts
-2 Wilderness Reclamation
-3 Castle Vantress
-3 Blast Zone
-3 Sublime Epiphany
-3 Wilderness Reclamation
-4 Censor
-4 Temple of Mystery
-4 Breeding Pool
-4 Wilderness Reclamation

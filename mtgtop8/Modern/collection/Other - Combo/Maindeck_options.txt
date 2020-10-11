@@ -10,15 +10,15 @@
 1 Muddle the Mixture
 2 Snow-Covered Island
 1 Snow-Covered Swamp
+1 Thespian's Stage
+1 Dark Depths
 1 Preordain
 1 Ponder
 1 Chrome Mox
 1 Urborg, Tomb of Yawgmoth
 1 Vampire Hexmage
-1 Thespian's Stage
 1 Dark Confidant
 1 Castle Locthwain
-1 Dark Depths
 1 Mishra's Bauble
 1 Thopter Foundry
 1 Gitaxian Probe
@@ -148,8 +148,8 @@
 4 Force of Negation
 1 Arid Mesa
 2 Arid Mesa
-1 Wall of Omens
 1 Spell Queller
+1 Wall of Omens
 1 Snow-Covered Mountain
 1 Prismatic Vista
 1 Sacred Foundry
@@ -179,8 +179,8 @@
 2 Jace, the Mind Sculptor
 2 Flooded Strand
 2 Commandeer
-3 Snow-Covered Island
 3 Spell Queller
+3 Snow-Covered Island
 3 Wall of Omens
 3 Prismatic Vista
 3 Fae of Wishes
@@ -192,6 +192,7 @@
 3 Possibility Storm
 3 Scalding Tarn
 4 Spell Queller
+4 Flooded Strand
 4 Teferi, Time Raveler
 4 Scalding Tarn
 4 Prismatic Vista
@@ -199,7 +200,6 @@
 4 Arid Mesa
 4 Fae of Wishes
 4 Drannith Magistrate
-4 Flooded Strand
 4 Snow-Covered Plains
 4 Wall of Omens
 4 Delay
@@ -313,8 +313,8 @@
 4 Serum Visions
 4 Spoils of the Vault
 4 Angel's Grace
-1 Cling to Dust
 1 Omen of the Sea
+1 Cling to Dust
 1 Eliminate
 1 Leveler
 1 Eldrazi Temple
@@ -333,8 +333,8 @@
 1 Gemstone Caverns
 1 Through the Breach
 1 Wooded Foothills
-1 Charming Prince
 1 Windswept Heath
+1 Charming Prince
 1 Utopia Sprawl
 1 Flickerwisp
 1 Dubious Challenge
@@ -346,8 +346,8 @@
 1 Forest
 1 Eladamri's Call
 2 Forest
-2 Flickerwisp
 2 Through the Breach
+2 Flickerwisp
 2 Charming Prince
 2 Wooded Foothills
 2 Windswept Heath

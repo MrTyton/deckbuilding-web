@@ -258,6 +258,7 @@
 3 Scrapheap Scrounger
 4 Scrapheap Scrounger
 1 Ghalta, Primal Hunger
+1 Thought-Knot Seer
 1 Primal Might
 1 Surrak, the Hunt Caller
 1 Blossoming Defense
@@ -265,22 +266,21 @@
 1 Hashep Oasis
 1 Rotting Regisaur
 1 Garruk's Harbinger
-1 Thought-Knot Seer
 1 Vivien, Arkbow Ranger
 2 Ghalta, Primal Hunger
 2 Rhonas the Indomitable
 2 Primal Might
+2 Thought-Knot Seer
 2 Blossoming Defense
 2 Surrak, the Hunt Caller
 2 Hashep Oasis
 2 Rotting Regisaur
 2 Garruk's Harbinger
-2 Thought-Knot Seer
+3 Thought-Knot Seer
 3 Blossoming Defense
 3 Garruk's Harbinger
 3 Hashep Oasis
 3 Rotting Regisaur
-3 Thought-Knot Seer
 4 Garruk's Harbinger
 4 Hashep Oasis
 4 Rotting Regisaur
@@ -332,10 +332,10 @@
 1 Hinterland Harbor
 1 Fiend Artisan
 1 Courser of Kruphix
-1 World Breaker
 1 Cavalier of Thorns
 1 Yavimaya Coast
 1 Arboreal Grazer
+1 World Breaker
 1 Castle Garenbrig
 1 Sanctum of Ugin
 1 Uro, Titan of Nature's Wrath
@@ -345,6 +345,7 @@
 1 Kozilek's Return
 1 Fierce Empath
 1 Champion of Wits
+2 Hinterland Harbor
 2 Yavimaya Coast
 2 Cavalier of Thorns
 2 Arboreal Grazer
@@ -352,7 +353,6 @@
 2 Champion of Wits
 2 Sanctum of Ugin
 2 Fierce Empath
-2 Hinterland Harbor
 2 Uro, Titan of Nature's Wrath
 2 Elder Deep-Fiend
 3 Hinterland Harbor
@@ -596,6 +596,7 @@
 4 Mutavault
 1 Sacred Cat
 1 Fortified Village
+1 Scattered Groves
 1 Kaheera, the Orphanguard
 1 Fleecemane Lion
 1 Pride Sovereign
@@ -604,7 +605,6 @@
 1 Regal Caracal
 1 Adorned Pouncer
 1 Leonin Vanguard
-1 Scattered Groves
 1 Ajani Steadfast
 1 Animal Sanctuary
 2 Sacred Cat
