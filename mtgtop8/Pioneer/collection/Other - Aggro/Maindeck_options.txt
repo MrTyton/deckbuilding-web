@@ -197,6 +197,46 @@
 4 Blackbloom Rogue
 4 Sea Gate Restoration
 4 Jwari Disruption
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+3 Teferi, Time Raveler
+3 Hallowed Fountain
+4 Teferi, Time Raveler
+4 Hallowed Fountain
+1 Rhonas the Indomitable
+1 Heart of Kiran
+2 Heart of Kiran
+3 Scrapheap Scrounger
+4 Scrapheap Scrounger
+1 Ghalta, Primal Hunger
+1 Thought-Knot Seer
+1 Primal Might
+1 Surrak, the Hunt Caller
+1 Blossoming Defense
+1 Field of Ruin
+1 Hashep Oasis
+1 Garruk's Harbinger
+1 Rotting Regisaur
+1 Vivien, Arkbow Ranger
+2 Ghalta, Primal Hunger
+2 Rhonas the Indomitable
+2 Thought-Knot Seer
+2 Primal Might
+2 Surrak, the Hunt Caller
+2 Hashep Oasis
+2 Rotting Regisaur
+2 Garruk's Harbinger
+2 Blossoming Defense
+3 Thought-Knot Seer
+3 Rotting Regisaur
+3 Garruk's Harbinger
+3 Hashep Oasis
+3 Blossoming Defense
+4 Rotting Regisaur
+4 Hashep Oasis
+4 Garruk's Harbinger
+1 Brazen Borrower
+2 Brazen Borrower
 1 Stitcher's Supplier
 2 Stitcher's Supplier
 3 Stitcher's Supplier
@@ -244,46 +284,6 @@
 4 Luminarch Aspirant
 4 Archpriest of Iona
 4 Acquisitions Expert
-1 Brazen Borrower
-2 Brazen Borrower
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-3 Teferi, Time Raveler
-3 Hallowed Fountain
-4 Teferi, Time Raveler
-4 Hallowed Fountain
-1 Rhonas the Indomitable
-1 Heart of Kiran
-2 Heart of Kiran
-3 Scrapheap Scrounger
-4 Scrapheap Scrounger
-1 Ghalta, Primal Hunger
-1 Thought-Knot Seer
-1 Primal Might
-1 Surrak, the Hunt Caller
-1 Blossoming Defense
-1 Field of Ruin
-1 Hashep Oasis
-1 Rotting Regisaur
-1 Garruk's Harbinger
-1 Vivien, Arkbow Ranger
-2 Ghalta, Primal Hunger
-2 Rhonas the Indomitable
-2 Thought-Knot Seer
-2 Primal Might
-2 Surrak, the Hunt Caller
-2 Hashep Oasis
-2 Rotting Regisaur
-2 Garruk's Harbinger
-2 Blossoming Defense
-3 Thought-Knot Seer
-3 Garruk's Harbinger
-3 Hashep Oasis
-3 Rotting Regisaur
-3 Blossoming Defense
-4 Hashep Oasis
-4 Garruk's Harbinger
-4 Rotting Regisaur
 1 Pelt Collector
 1 Bonecrusher Giant
 1 Mountain
@@ -571,17 +571,17 @@
 4 Mystical Dispute
 4 Island
 4 Watery Grave
-1 Inspiring Vantage
 1 Thalia, Heretic Cathar
 1 Gideon Blackblade
+1 Inspiring Vantage
 1 Kitesail Freebooter
 1 Mantis Rider
 1 Hero of Precinct One
 1 Anafenza, the Foremost
-2 Inspiring Vantage
 2 Kitesail Freebooter
 2 Gideon Blackblade
 2 Mantis Rider
+2 Inspiring Vantage
 2 Hero of Precinct One
 3 Inspiring Vantage
 3 Mantis Rider
@@ -589,9 +589,9 @@
 3 Hero of Precinct One
 3 Gideon Blackblade
 3 Mutavault
-4 Inspiring Vantage
 4 General Kudro of Drannith
 4 Hero of Precinct One
+4 Inspiring Vantage
 4 Mantis Rider
 4 Mutavault
 1 Fortified Village
