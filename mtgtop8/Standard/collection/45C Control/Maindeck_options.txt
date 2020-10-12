@@ -1,5 +1,4 @@
 2 Negate
-3 Mythos of Nethroi
 3 Waker of Waves
 3 Extinction Event
 3 Branchloft Pathway
@@ -9,13 +8,14 @@
 3 Brightclimb Pathway
 3 Clearwater Pathway
 3 Island
+3 Mythos of Nethroi
 4 Waker of Waves
-4 Bloodchief's Thirst
 4 Branchloft Pathway
+4 Bloodchief's Thirst
+4 Mythos of Nethroi
 4 Confounding Conundrum
 4 Clearwater Pathway
 4 Brightclimb Pathway
-4 Mythos of Nethroi
 4 Island
 4 Neutralize
 1 Overgrown Tomb
@@ -36,19 +36,19 @@
 2 Mazemind Tome
 2 Omen of the Sea
 2 Yorion, Sky Nomad
+2 Oath of Kaya
+2 Doom Foretold
 2 Overgrown Tomb
 2 Eliminate
 2 Plains
 2 Breeding Pool
-2 Doom Foretold
-2 Oath of Kaya
 2 Temple Garden
 2 Hallowed Fountain
 2 Godless Shrine
 2 Cavalier of Dawn
 3 Mazemind Tome
-3 Oath of Kaya
 3 Doom Foretold
+3 Oath of Kaya
 3 Yorion, Sky Nomad
 3 Overgrown Tomb
 3 Eliminate
@@ -71,8 +71,8 @@
 1 Watery Grave
 1 Raugrin Triome
 1 Justice Strike
-1 Steam Vents
 1 Savai Triome
+1 Steam Vents
 1 Deafening Clarion
 1 Sacred Foundry
 1 Time Wipe

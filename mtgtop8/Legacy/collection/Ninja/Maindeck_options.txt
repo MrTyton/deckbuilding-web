@@ -1,6 +1,4 @@
-4 Island
-1 Flooded Strand
-1 Force of Negation
+3 Island
 3 Snow-Covered Island
 3 Daze
 2 Misty Rainforest
@@ -12,17 +10,19 @@
 2 Tropical Island
 2 Oko, Thief of Crowns
 2 Abrupt Decay
+1 Force of Negation
+4 Island
 2 Verdant Catacombs
 3 Misty Rainforest
+2 Flooded Strand
 4 Yuriko, the Tiger's Shadow
 1 Bloodstained Mire
 3 Oko, Thief of Crowns
-1 Bayou
 4 Snow-Covered Island
-2 Flooded Strand
+1 Bayou
 1 Cling to Dust
 2 Brazen Borrower
-5 Island
+3 Swamp
 1 The Cauldron of Eternity
 2 Drown in the Loch
 3 Snow-Covered Swamp
@@ -32,12 +32,13 @@
 2 Thoughtseize
 3 Baleful Strix
 4 Baleful Strix
+5 Island
 1 Eliminate
 1 Mothdust Changeling
-2 Mothdust Changeling
-3 Swamp
 1 Scalding Tarn
 2 Force of Negation
+1 Sea Gate Restoration
+1 Tyrant's Scorn
 1 Liliana, the Last Hope
 1 Standstill
 2 Standstill
@@ -65,6 +66,7 @@
 2 Ethereal Forager
 5 Snow-Covered Island
 1 Ninja of the Deep Hours
+2 Mothdust Changeling
 2 Ninja of the Deep Hours
 3 Mothdust Changeling
 4 Daze

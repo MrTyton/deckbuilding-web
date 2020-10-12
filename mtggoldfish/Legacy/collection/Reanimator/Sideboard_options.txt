@@ -1,17 +1,17 @@
 2 Assassin's Trophy
 1 Elesh Norn, Grand Cenobite
 1 Iona, Shield of Emeria
-1 Faerie Macabre
-2 Faerie Macabre
-3 Faerie Macabre
 1 Wear/Tear
-2 Wear/Tear
 1 Surgical Extraction
 2 Surgical Extraction
 1 Pyroblast
-1 Massacre
+2 Wear/Tear
+1 Faerie Macabre
+2 Faerie Macabre
 2 Pyroblast
+1 Massacre
 3 Wear/Tear
+3 Faerie Macabre
 4 Wear/Tear
 3 Assassin's Trophy
 1 Defense Grid
@@ -31,18 +31,18 @@
 1 Cabal Therapy
 2 Shenanigans
 3 Defense Grid
-4 Xantid Swarm
 1 Abrupt Decay
 2 Veil of Summer
+4 Xantid Swarm
 1 Collective Brutality
 1 Sorcerous Spyglass
 1 Ratchet Bomb
 2 Ratchet Bomb
-1 Toxic Deluge
 1 Pack Rat
+1 Toxic Deluge
 2 Pithing Needle
-2 Toxic Deluge
 2 Pack Rat
+2 Toxic Deluge
 3 Pack Rat
 1 Show and Tell
 1 Chancellor of the Annex
@@ -58,14 +58,26 @@
 1 Meltdown
 1 Silent Gravestone
 1 Unmask
-1 Leyline of the Void
 1 Reanimate
+1 Leyline of the Void
 2 Meltdown
 1 Nihil Spellbomb
 1 Tormod's Crypt
 3 Ratchet Bomb
 3 Abrade
+1 Bitterblossom
+1 Eliminate
+1 Plague Engineer
+1 Ashiok, Dream Render
+1 Liliana of the Veil
+2 Bitterblossom
+2 Eliminate
+2 Plague Engineer
+2 Liliana of the Veil
+3 Bitterblossom
+4 Bitterblossom
 3 Serenity
+4 Serenity
 2 Coffin Purge
 3 Pithing Needle
 3 Toxic Deluge
@@ -85,14 +97,3 @@
 2 Show and Tell
 3 Show and Tell
 4 Show and Tell
-1 Bitterblossom
-1 Eliminate
-1 Plague Engineer
-1 Ashiok, Dream Render
-1 Liliana of the Veil
-2 Bitterblossom
-2 Eliminate
-2 Plague Engineer
-2 Liliana of the Veil
-3 Bitterblossom
-4 Bitterblossom

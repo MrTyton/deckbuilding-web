@@ -180,9 +180,9 @@
 4 Absorb
 4 Hallowed Fountain
 1 Shambling Vent
-1 Basilica Bell-Haunt
 1 Flicker of Fate
 1 Treacherous Blessing
+1 Basilica Bell-Haunt
 1 Mazemind Tome
 1 Trial of Ambition
 1 Starfield of Nyx
@@ -197,11 +197,11 @@
 1 Godless Shrine
 1 Yorion, Sky Nomad
 1 Temple of Silence
-2 Basilica Bell-Haunt
 2 Savai Triome
 2 Flicker of Fate
 2 Treacherous Blessing
 2 Temple of Silence
+2 Basilica Bell-Haunt
 2 Yorion, Sky Nomad
 2 Mazemind Tome
 2 Concealed Courtyard
@@ -228,10 +228,10 @@
 3 Doom Foretold
 4 Oath of Kaya
 4 Trial of Ambition
+4 Isolated Chapel
 4 Plains
 4 Shambling Vent
 4 Mazemind Tome
-4 Isolated Chapel
 4 Kaya's Wrath
 4 Godless Shrine
 4 Concealed Courtyard
@@ -239,8 +239,8 @@
 5 Plains
 6 Plains
 1 Ipnu Rivulet
-1 Breaking / Entering
 1 Clearwater Pathway
+1 Breaking / Entering
 1 Drown in the Loch
 1 Jwari Disruption
 1 Didn't Say Please
@@ -330,20 +330,20 @@
 4 Nicol Bolas, the Ravager
 4 Discovery / Dispersal
 1 Liliana, Waker of the Dead
-1 Davriel, Rogue Shadowmage
 1 Collective Brutality
+1 Davriel, Rogue Shadowmage
 1 Kolaghan's Command
 1 Hazoret the Fervent
 1 Waste Not
-2 Collective Brutality
 2 Liliana, Waker of the Dead
 2 Davriel, Rogue Shadowmage
-2 Kolaghan's Command
 2 Hazoret the Fervent
+2 Kolaghan's Command
 2 Waste Not
+2 Collective Brutality
 3 Kolaghan's Command
-3 Liliana, Waker of the Dead
 3 Eliminate
+3 Liliana, Waker of the Dead
 3 Davriel, Rogue Shadowmage
 3 Castle Locthwain
 3 Waste Not
@@ -358,9 +358,9 @@
 1 Temple of Mystery
 2 Expansion / Explosion
 2 Dryad of the Ilysian Grove
+2 Inspired Ultimatum
 2 Prophet of Kruphix
 2 Ugin, the Spirit Dragon
-2 Inspired Ultimatum
 2 Temple of Mystery
 3 Temple of Mystery
 3 Dryad of the Ilysian Grove

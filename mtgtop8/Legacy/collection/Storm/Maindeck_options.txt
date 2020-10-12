@@ -1,13 +1,16 @@
+4 Polluted Delta
 1 Misty Rainforest
 2 Misty Rainforest
-4 Polluted Delta
 1 Cabal Ritual
 1 Infernal Tutor
+1 Duress
 1 Past in Flames
 1 Preordain
+2 Duress
 2 Cabal Ritual
 2 Preordain
 2 Infernal Tutor
+3 Duress
 3 Cabal Ritual
 3 Infernal Tutor
 4 Cabal Ritual
@@ -17,9 +20,6 @@
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
-1 Duress
-2 Duress
-3 Duress
 3 Preordain
 3 Bloodstained Mire
 4 Bloodstained Mire
@@ -32,8 +32,8 @@
 1 Flusterstorm
 2 Snow-Covered Island
 4 Misty Rainforest
-1 Scalding Tarn
 4 Thoughtseize
+1 Scalding Tarn
 2 Scalding Tarn
 1 Dark Petition
 1 Daze
@@ -42,10 +42,8 @@
 1 Flooded Strand
 1 Scrubland
 1 Grapeshot
-1 Prismatic Vista
 2 Flooded Strand
 2 Island
 3 Flooded Strand
 4 Flooded Strand
-1 Abrupt Decay
-2 Abrupt Decay
+1 Prismatic Vista

@@ -29,8 +29,8 @@
 1 Silundi Vision
 1 Time Warp
 1 Counterbalance
-1 God-Eternal Kefnet
 1 Monastery Mentor
+1 God-Eternal Kefnet
 2 Counterbalance
 2 Monastery Mentor
 6 Island
@@ -46,8 +46,8 @@
 2 Aether Gust
 1 Narset, Parter of Veils
 1 Oust
-2 Vendilion Clique
 2 Narset, Parter of Veils
+2 Vendilion Clique
 3 Celestial Colonnade
 3 Counterbalance
 2 Scalding Tarn
@@ -66,9 +66,16 @@
 1 Serum Visions
 1 Dismember
 2 Glacial Fortress
+1 Restoration Angel
+1 Fact or Fiction
+1 Wall of Omens
+2 Restoration Angel
+2 Wall of Omens
+3 Wall of Omens
+3 Restoration Angel
 1 Pact of Negation
-1 Elspeth, Sun's Nemesis
 1 Ghost Quarter
+1 Elspeth, Sun's Nemesis
 2 Pact of Negation
 2 Brazen Borrower
 3 Pact of Negation
@@ -77,13 +84,6 @@
 1 Telling Time
 2 Telling Time
 3 Telling Time
-1 Fact or Fiction
-1 Restoration Angel
-1 Wall of Omens
-2 Restoration Angel
-2 Wall of Omens
-3 Restoration Angel
-3 Wall of Omens
 3 Misty Rainforest
 4 Shark Typhoon
 1 Search for Azcanta
@@ -100,10 +100,10 @@
 2 Thirst for Knowledge
 2 Mazemind Tome
 2 Entreat the Angels
-3 Thirst for Knowledge
 3 Mazemind Tome
+3 Thirst for Knowledge
 4 Force of Negation
-4 Thirst for Knowledge
 4 Mazemind Tome
+4 Thirst for Knowledge
 4 Omen of the Sea
 4 Jace, the Mind Sculptor
