@@ -4,25 +4,25 @@
 2 Plains
 1 Forest
 2 Forest
-1 Elvish Mystic
+3 Forest
 1 Llanowar Elves
+1 Elvish Mystic
 2 Llanowar Elves
 2 Elvish Mystic
-3 Forest
 4 Forest
 4 Temple Garden
+3 Plains
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
 4 Lovestruck Beast
-3 Plains
+4 Plains
 1 Sunpetal Grove
 1 Brimaz, King of Oreskos
 2 Sunpetal Grove
 2 Brimaz, King of Oreskos
 3 Sunpetal Grove
 4 Sunpetal Grove
-4 Plains
 1 Dromoka's Command
 2 Dromoka's Command
 3 Dromoka's Command
@@ -61,8 +61,6 @@
 2 Collected Company
 3 Collected Company
 4 Collected Company
-1 Mana Confluence
-2 Mana Confluence
 1 Blooming Marsh
 1 Overgrown Tomb
 2 Blooming Marsh
@@ -72,9 +70,6 @@
 4 Overgrown Tomb
 4 Blooming Marsh
 1 Urborg, Tomb of Yawgmoth
-3 Llanowar Elves
-3 Elvish Mystic
-1 Swamp
 1 Catacomb Sifter
 1 Bolas's Citadel
 1 Woe Strider
@@ -88,19 +83,19 @@
 3 Priest of Forgotten Gods
 3 Catacomb Sifter
 3 Woe Strider
-3 Bolas's Citadel
 3 Zulaport Cutthroat
+3 Bolas's Citadel
 4 Catacomb Sifter
 4 Woe Strider
 4 Zulaport Cutthroat
 4 Bolas's Citadel
 4 Priest of Forgotten Gods
-1 Stomping Ground
-1 Rootbound Crag
-2 Stomping Ground
-3 Stomping Ground
+1 Mana Confluence
+3 Llanowar Elves
+3 Elvish Mystic
 1 Llanowar Wastes
 2 Llanowar Wastes
+1 Swamp
 3 Llanowar Wastes
 4 Llanowar Wastes
 4 Elvish Mystic
@@ -108,37 +103,64 @@
 1 Castle Locthwain
 2 Swamp
 3 Swamp
-1 Reflector Mage
-2 Reflector Mage
-1 Breeding Pool
-2 Breeding Pool
+2 Mana Confluence
+1 Agadeem's Awakening
 1 Hallowed Fountain
 2 Hallowed Fountain
-1 Unclaimed Territory
-2 Unclaimed Territory
-3 Mana Confluence
-3 Unclaimed Territory
-3 Reflector Mage
-4 Mana Confluence
-4 Reflector Mage
-4 Unclaimed Territory
 1 Island
 1 Llanowar Visionary
 2 Llanowar Visionary
-4 Stomping Ground
 1 Branchloft Pathway
-3 Breeding Pool
-1 Mutavault
-2 Mutavault
-1 Scavenging Ooze
-2 Scavenging Ooze
+1 Reflector Mage
+2 Reflector Mage
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+3 Teferi, Time Raveler
+3 Hallowed Fountain
+4 Teferi, Time Raveler
+4 Hallowed Fountain
 1 Woodland Cemetery
-1 Botanical Sanctum
+1 Brazen Borrower
+2 Brazen Borrower
 1 Scrapheap Scrounger
 2 Scrapheap Scrounger
+1 Botanical Sanctum
+1 Spell Queller
+2 Spell Queller
+3 Spell Queller
+4 Spell Queller
+2 Island
+3 Brazen Borrower
+4 Brazen Borrower
+1 Irrigated Farmland
+1 Glacial Fortress
+2 Irrigated Farmland
+2 Glacial Fortress
+3 Irrigated Farmland
+3 Glacial Fortress
+4 Irrigated Farmland
+4 Glacial Fortress
+1 Heart of Kiran
+2 Heart of Kiran
+3 Scrapheap Scrounger
+4 Scrapheap Scrounger
+1 Scavenging Ooze
+2 Scavenging Ooze
+1 Stomping Ground
+1 Breeding Pool
+2 Breeding Pool
+1 Rhonas the Indomitable
+1 Stonecoil Serpent
+1 Bonecrusher Giant
+1 Mountain
+1 Rootbound Crag
+2 Bonecrusher Giant
+2 Mountain
+2 Stomping Ground
+3 Bonecrusher Giant
+3 Stomping Ground
+4 Bonecrusher Giant
 2 Botanical Sanctum
-1 Agadeem's Awakening
-2 Agadeem's Awakening
 1 Glasspool Mimic
 2 Glasspool Mimic
 3 Glasspool Mimic
@@ -156,6 +178,18 @@
 4 Creeping Chill
 4 Prized Amalgam
 4 Silversmote Ghoul
+1 Stitcher's Supplier
+2 Stitcher's Supplier
+3 Stitcher's Supplier
+4 Stitcher's Supplier
+1 Satyr Wayfinder
+2 Satyr Wayfinder
+3 Satyr Wayfinder
+4 Satyr Wayfinder
+1 Watery Grave
+2 Watery Grave
+3 Watery Grave
+2 Agadeem's Awakening
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
@@ -169,9 +203,9 @@
 1 Pelakka Predation
 1 Hagra Mauling
 1 Opt
+1 Balustrade Spy
 1 Worldspine Wurm
 1 Undercity Informer
-1 Balustrade Spy
 2 Worldspine Wurm
 2 Hagra Mauling
 2 Blackbloom Rogue
@@ -182,11 +216,11 @@
 2 Thought Erasure
 2 Jwari Disruption
 2 Opt
+3 Thought Erasure
 3 Pelakka Predation
 3 Balustrade Spy
 3 Undercity Informer
 3 Sea Gate Restoration
-3 Thought Erasure
 3 Agadeem's Awakening
 3 Blackbloom Rogue
 3 Jwari Disruption
@@ -197,76 +231,79 @@
 4 Sea Gate Restoration
 4 Jwari Disruption
 4 Blackbloom Rogue
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-3 Teferi, Time Raveler
-3 Hallowed Fountain
-4 Teferi, Time Raveler
-4 Hallowed Fountain
-1 Rhonas the Indomitable
-1 Heart of Kiran
-2 Heart of Kiran
-3 Scrapheap Scrounger
-4 Scrapheap Scrounger
+1 Rotting Regisaur
 1 Ghalta, Primal Hunger
-1 Thought-Knot Seer
 1 Primal Might
 1 Surrak, the Hunt Caller
 1 Blossoming Defense
 1 Field of Ruin
 1 Hashep Oasis
 1 Garruk's Harbinger
-1 Rotting Regisaur
+1 Thought-Knot Seer
+1 Mutavault
 1 Vivien, Arkbow Ranger
+2 Rotting Regisaur
 2 Ghalta, Primal Hunger
-2 Rhonas the Indomitable
-2 Thought-Knot Seer
 2 Primal Might
+2 Rhonas the Indomitable
 2 Surrak, the Hunt Caller
 2 Hashep Oasis
-2 Rotting Regisaur
 2 Garruk's Harbinger
+2 Thought-Knot Seer
 2 Blossoming Defense
-3 Thought-Knot Seer
+2 Mutavault
 3 Rotting Regisaur
 3 Garruk's Harbinger
 3 Hashep Oasis
+3 Thought-Knot Seer
 3 Blossoming Defense
 4 Rotting Regisaur
 4 Garruk's Harbinger
 4 Hashep Oasis
-1 Brazen Borrower
-2 Brazen Borrower
-1 Stitcher's Supplier
-2 Stitcher's Supplier
-3 Stitcher's Supplier
-4 Stitcher's Supplier
-1 Satyr Wayfinder
-2 Satyr Wayfinder
-3 Satyr Wayfinder
-4 Satyr Wayfinder
-1 Watery Grave
-2 Watery Grave
-3 Watery Grave
-1 Clearwater Pathway
-1 Archpriest of Iona
-1 Acquisitions Expert
-1 Rogue Refiner
-1 Bloodsoaked Champion
-1 Hamlet Captain
-1 Gust Walker
-2 Acquisitions Expert
-2 Archpriest of Iona
-2 Bloodsoaked Champion
-2 Rogue Refiner
-2 Gust Walker
-2 Hamlet Captain
-3 Acquisitions Expert
-3 Archpriest of Iona
-3 Rogue Refiner
-4 Luminarch Aspirant
-4 Acquisitions Expert
-4 Archpriest of Iona
+1 Ketria Triome
+2 Ketria Triome
+3 Breeding Pool
+3 Ketria Triome
+4 Ketria Triome
+1 Nimble Obstructionist
+1 Hinterland Harbor
+1 Fiend Artisan
+1 Courser of Kruphix
+1 Yavimaya Coast
+1 Arboreal Grazer
+1 Cavalier of Thorns
+1 World Breaker
+1 Champion of Wits
+1 Elder Deep-Fiend
+1 Castle Garenbrig
+1 Sanctum of Ugin
+1 Fierce Empath
+1 Kozilek's Return
+1 Stubborn Denial
+1 Jadelight Ranger
+1 Uro, Titan of Nature's Wrath
+2 Yavimaya Coast
+2 Arboreal Grazer
+2 Cavalier of Thorns
+2 Champion of Wits
+2 Kozilek's Return
+2 Elder Deep-Fiend
+2 Sanctum of Ugin
+2 Fierce Empath
+2 Hinterland Harbor
+2 Uro, Titan of Nature's Wrath
+3 Arboreal Grazer
+3 Sanctum of Ugin
+3 Cavalier of Thorns
+3 Kozilek's Return
+3 Elder Deep-Fiend
+3 Hinterland Harbor
+3 Uro, Titan of Nature's Wrath
+3 Yavimaya Coast
+4 Breeding Pool
+4 Sanctum of Ugin
+4 Hinterland Harbor
+4 Elder Deep-Fiend
 1 Merfolk Secretkeeper
 1 Narcomoeba
 1 Grisly Salvage
@@ -285,13 +322,6 @@
 4 Narcomoeba
 4 Merfolk Secretkeeper
 1 Pelt Collector
-1 Bonecrusher Giant
-1 Mountain
-2 Bonecrusher Giant
-2 Mountain
-3 Bonecrusher Giant
-4 Bonecrusher Giant
-1 Stonecoil Serpent
 1 Ajani, Adversary of Tyrants
 2 Ajani, Adversary of Tyrants
 1 Experiment One
@@ -299,8 +329,8 @@
 1 Winding Constrictor
 1 Oath of Nissa
 1 Hangarback Walker
-1 Conclave Mentor
 1 Rishkar, Peema Renegade
+1 Conclave Mentor
 2 Hangarback Walker
 2 Stonecoil Serpent
 2 Pelt Collector
@@ -323,52 +353,6 @@
 4 Experiment One
 4 Conclave Mentor
 4 Winding Constrictor
-4 Breeding Pool
-1 Ketria Triome
-2 Ketria Triome
-3 Ketria Triome
-4 Ketria Triome
-1 Nimble Obstructionist
-1 Hinterland Harbor
-1 Kozilek's Return
-1 Fiend Artisan
-1 Stubborn Denial
-1 Fierce Empath
-1 Courser of Kruphix
-1 Cavalier of Thorns
-1 Yavimaya Coast
-1 Arboreal Grazer
-1 World Breaker
-1 Elder Deep-Fiend
-1 Castle Garenbrig
-1 Sanctum of Ugin
-1 Uro, Titan of Nature's Wrath
-1 Jadelight Ranger
-1 Champion of Wits
-2 Hinterland Harbor
-2 Fierce Empath
-2 Yavimaya Coast
-2 Cavalier of Thorns
-2 Arboreal Grazer
-2 Elder Deep-Fiend
-2 Champion of Wits
-2 Sanctum of Ugin
-2 Uro, Titan of Nature's Wrath
-2 Kozilek's Return
-3 Hinterland Harbor
-3 Arboreal Grazer
-3 Cavalier of Thorns
-3 Elder Deep-Fiend
-3 Kozilek's Return
-3 Uro, Titan of Nature's Wrath
-3 Sanctum of Ugin
-3 Yavimaya Coast
-4 Hinterland Harbor
-4 Sanctum of Ugin
-4 Elder Deep-Fiend
-2 Island
-3 Brazen Borrower
-4 Brazen Borrower
 1 Enter the Infinite
 1 Possibility Storm
 1 Shared Summons
@@ -387,234 +371,236 @@
 2 Fae of Wishes
 2 Sulfur Falls
 3 Possibility Storm
-3 Fae of Wishes
 3 Lucky Clover
+3 Fae of Wishes
 3 Beanstalk Giant
 4 Fae of Wishes
 4 Beanstalk Giant
 4 Lucky Clover
+1 Tangled Florahedron
+1 Skyclave Shade
 1 Gilded Goose
 1 Blood Crypt
-1 Dragonskull Summit
+1 Korvold, Fae-Cursed King
+1 Cragcrown Pathway
 1 Mayhem Devil
+2 Tangled Florahedron
 2 Gilded Goose
 2 Blood Crypt
 2 Mayhem Devil
+2 Cragcrown Pathway
+3 Tangled Florahedron
 3 Blood Crypt
 3 Gilded Goose
 3 Mayhem Devil
+3 Cragcrown Pathway
+4 Tangled Florahedron
 4 Blood Crypt
 4 Gilded Goose
 4 Mayhem Devil
-1 Klothys, God of Destiny
-1 Game Trail
-1 Gruul Spellbreaker
-1 Cinder Glade
-1 Legion Loyalist
-1 Yorvo, Lord of Garenbrig
-1 Wildborn Preserver
-1 Atarka's Command
-1 Burning-Tree Emissary
-1 Reckless Bushwhacker
-2 Rootbound Crag
-2 Game Trail
-2 Klothys, God of Destiny
-2 Gruul Spellbreaker
-2 Cinder Glade
-2 Atarka's Command
-2 Burning-Tree Emissary
-2 Reckless Bushwhacker
-3 Rootbound Crag
-3 Reckless Bushwhacker
-3 Game Trail
-3 Gruul Spellbreaker
-3 Scavenging Ooze
-3 Atarka's Command
-3 Mountain
-3 Burning-Tree Emissary
-4 Game Trail
-4 Rootbound Crag
-4 Burning-Tree Emissary
-4 Reckless Bushwhacker
-1 Skyclave Cleric
+4 Cragcrown Pathway
 1 Skyclave Apparition
+1 Skyclave Cleric
 1 Charming Prince
-1 Spell Queller
 1 Militia Bugler
-2 Skyclave Cleric
 2 Skyclave Apparition
+2 Skyclave Cleric
 2 Branchloft Pathway
 2 Charming Prince
 2 Militia Bugler
-2 Spell Queller
 3 Skyclave Apparition
 3 Branchloft Pathway
 3 Charming Prince
-3 Spell Queller
 3 Militia Bugler
 4 Branchloft Pathway
 4 Skyclave Apparition
 4 Charming Prince
 4 Militia Bugler
-4 Spell Queller
 4 Glasspool Mimic
+1 Drowned Catacomb
+2 Drowned Catacomb
+3 Drowned Catacomb
+4 Drowned Catacomb
+1 Clearwater Pathway
+1 Unclaimed Territory
+1 Archpriest of Iona
+1 Acquisitions Expert
+1 Rogue Refiner
+1 Bloodsoaked Champion
+1 Hamlet Captain
+1 Gust Walker
+2 Unclaimed Territory
+2 Archpriest of Iona
+2 Acquisitions Expert
+2 Rogue Refiner
+2 Gust Walker
+2 Bloodsoaked Champion
+2 Hamlet Captain
+3 Mana Confluence
+3 Unclaimed Territory
+3 Archpriest of Iona
+3 Acquisitions Expert
+3 Reflector Mage
+3 Rogue Refiner
+4 Luminarch Aspirant
+4 Mana Confluence
+4 Archpriest of Iona
+4 Acquisitions Expert
+4 Reflector Mage
+4 Unclaimed Territory
+1 Atarka's Command
+1 Game Trail
+1 Reckless Bushwhacker
+1 Gruul Spellbreaker
+1 Cinder Glade
+1 Legion Loyalist
+1 Yorvo, Lord of Garenbrig
+1 Wildborn Preserver
+1 Klothys, God of Destiny
+1 Burning-Tree Emissary
+2 Atarka's Command
+2 Reckless Bushwhacker
+2 Game Trail
+2 Gruul Spellbreaker
+2 Klothys, God of Destiny
+2 Cinder Glade
+2 Burning-Tree Emissary
+2 Rootbound Crag
+3 Atarka's Command
+3 Reckless Bushwhacker
+3 Game Trail
+3 Gruul Spellbreaker
+3 Scavenging Ooze
+3 Rootbound Crag
+3 Mountain
+3 Burning-Tree Emissary
+4 Rootbound Crag
+4 Game Trail
+4 Burning-Tree Emissary
+4 Reckless Bushwhacker
+4 Stomping Ground
+3 Island
+4 Island
 4 Swamp
 5 Swamp
 1 Isolated Chapel
 1 Corpse Knight
-1 Lazotep Reaver
-1 Cryptbreaker
 1 Dark Salvation
-1 Diregraf Colossus
+1 Cryptbreaker
 1 Liliana, Untouched by Death
 1 Rally the Ancestors
+1 Diregraf Colossus
 1 Necrotic Wound
 1 Wayward Servant
+1 Lazotep Reaver
 1 Slitherhead
 1 Foulmire Knight
 2 Isolated Chapel
 2 Foulmire Knight
 2 Corpse Knight
-2 Cryptbreaker
-2 Diregraf Colossus
 2 Lazotep Reaver
-2 Dark Salvation
 2 Wayward Servant
+2 Dark Salvation
 2 Slitherhead
 2 Liliana, Untouched by Death
 2 Castle Locthwain
+2 Cryptbreaker
+2 Diregraf Colossus
 2 Rally the Ancestors
 3 Isolated Chapel
 3 Corpse Knight
-3 Lazotep Reaver
-3 Dark Salvation
 3 Cryptbreaker
 3 Liliana, Untouched by Death
 3 Rally the Ancestors
+3 Lazotep Reaver
 3 Wayward Servant
 3 Slitherhead
+3 Dark Salvation
 3 Castle Locthwain
 4 Isolated Chapel
-4 Dark Salvation
 4 Cryptbreaker
 4 Wayward Servant
+4 Dark Salvation
 4 Rally the Ancestors
 4 Corpse Knight
-1 Drowned Catacomb
-2 Drowned Catacomb
-3 Drowned Catacomb
-4 Drowned Catacomb
-1 Irrigated Farmland
 1 Sphinx's Revelation
 1 Seasoned Hallowblade
 1 Gideon of the Trials
 1 Supreme Verdict
 1 Toolcraft Exemplar
 1 Spell Pierce
-1 Glacial Fortress
 1 Chart a Course
 2 Gideon of the Trials
-2 Irrigated Farmland
-2 Nimble Obstructionist
 2 Supreme Verdict
+2 Nimble Obstructionist
 2 Seasoned Hallowblade
 2 Chart a Course
-2 Glacial Fortress
 2 Toolcraft Exemplar
 2 Spell Pierce
-3 Gideon of the Trials
-3 Irrigated Farmland
 3 Supreme Verdict
-3 Heart of Kiran
 3 Nimble Obstructionist
+3 Heart of Kiran
 3 Seasoned Hallowblade
 3 Toolcraft Exemplar
+3 Gideon of the Trials
 3 Spell Pierce
-3 Glacial Fortress
-4 Irrigated Farmland
 4 Seasoned Hallowblade
 4 Heart of Kiran
-4 Glacial Fortress
 4 Toolcraft Exemplar
-1 Thieves' Guild Enforcer
-1 Zareth San, the Trickster
 1 Soaring Thought-Thief
+1 Thieves' Guild Enforcer
 1 Drown in the Loch
 1 Nighthawk Scavenger
 1 Eliminate
 1 Fatal Push
+1 Zareth San, the Trickster
 1 Fabled Passage
 1 Mystical Dispute
-2 Thieves' Guild Enforcer
-2 Nighthawk Scavenger
 2 Zareth San, the Trickster
 2 Soaring Thought-Thief
-2 Drown in the Loch
+2 Thieves' Guild Enforcer
+2 Nighthawk Scavenger
 2 Clearwater Pathway
+2 Drown in the Loch
 2 Eliminate
 2 Fatal Push
 2 Mystical Dispute
 2 Fabled Passage
-3 Thieves' Guild Enforcer
 3 Soaring Thought-Thief
+3 Thieves' Guild Enforcer
 3 Nighthawk Scavenger
-3 Clearwater Pathway
 3 Drown in the Loch
+3 Clearwater Pathway
 3 Fatal Push
 3 Mystical Dispute
-3 Island
-4 Thieves' Guild Enforcer
 4 Soaring Thought-Thief
+4 Thieves' Guild Enforcer
 4 Nighthawk Scavenger
 4 Drown in the Loch
 4 Fatal Push
 4 Mystical Dispute
-4 Island
 4 Watery Grave
-1 Thalia, Heretic Cathar
-1 Gideon Blackblade
-1 Inspiring Vantage
-1 Kitesail Freebooter
-1 Mantis Rider
-1 Hero of Precinct One
-1 Anafenza, the Foremost
-2 Kitesail Freebooter
-2 Gideon Blackblade
-2 Mantis Rider
-2 Inspiring Vantage
-2 Hero of Precinct One
-3 Inspiring Vantage
-3 Mantis Rider
-3 Kitesail Freebooter
-3 Hero of Precinct One
-3 Gideon Blackblade
-3 Mutavault
-4 General Kudro of Drannith
-4 Hero of Precinct One
-4 Inspiring Vantage
-4 Mantis Rider
-4 Mutavault
+1 Sacred Cat
+1 Scattered Groves
 1 Fortified Village
 1 Kaheera, the Orphanguard
 1 Fleecemane Lion
 1 Pride Sovereign
 1 Feline Sovereign
 1 Bronzehide Lion
-1 Sacred Cat
 1 Regal Caracal
 1 Adorned Pouncer
 1 Leonin Vanguard
-1 Scattered Groves
 1 Ajani Steadfast
 1 Animal Sanctuary
+2 Sacred Cat
 2 Fortified Village
 2 Regal Caracal
-2 Sacred Cat
 2 Kaheera, the Orphanguard
-2 Fleecemane Lion
 2 Adorned Pouncer
 2 Scattered Groves
 2 Feline Sovereign
+2 Fleecemane Lion
 2 Animal Sanctuary
 2 Pride Sovereign
 2 Bronzehide Lion
@@ -631,3 +617,31 @@
 5 Plains
 6 Plains
 7 Plains
+1 Azorius Charm
+1 Archangel Avacyn
+1 Winged Words
+1 Emeria's Call
+1 Selfless Spirit
+1 Watcher of the Spheres
+1 Rattlechains
+1 Lofty Denial
+2 Azorius Charm
+2 Winged Words
+2 Emeria's Call
+2 Rattlechains
+2 Lofty Denial
+2 Selfless Spirit
+2 Archangel Avacyn
+2 Watcher of the Spheres
+3 Azorius Charm
+3 Archangel Avacyn
+3 Rattlechains
+3 Lofty Denial
+3 Selfless Spirit
+3 Watcher of the Spheres
+4 Selfless Spirit
+4 Archangel Avacyn
+4 Watcher of the Spheres
+5 Island
+6 Island
+7 Island

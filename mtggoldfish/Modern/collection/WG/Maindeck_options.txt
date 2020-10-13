@@ -2,24 +2,23 @@
 3 Collected Company
 4 Collected Company
 3 Temple Garden
-1 Ranger-Captain of Eos
 1 Conclave Mentor
+1 Ranger-Captain of Eos
 1 Heliod, Sun-Crowned
 1 Scavenging Ooze
 1 Walking Ballista
-2 Ranger-Captain of Eos
 2 Conclave Mentor
+2 Ranger-Captain of Eos
 2 Heliod, Sun-Crowned
 2 Scavenging Ooze
 2 Spike Feeder
 2 Walking Ballista
-3 Ranger-Captain of Eos
 3 Heliod, Sun-Crowned
 3 Conclave Mentor
+3 Ranger-Captain of Eos
 3 Spike Feeder
 4 Heliod, Sun-Crowned
 4 Spike Feeder
-3 Forest
 1 Auriok Champion
 4 Conclave Mentor
 4 Ranger-Captain of Eos
@@ -29,19 +28,20 @@
 4 Temple Garden
 4 Utopia Sprawl
 2 Auriok Champion
-2 Horizon Canopy
 2 Plains
+4 Forest
+2 Horizon Canopy
 1 Hardened Scales
 2 Hardened Scales
-4 Forest
+2 Snow-Covered Forest
 1 Gavony Township
 3 Horizon Canopy
 1 Arbor Elf
 2 Arbor Elf
 3 Arbor Elf
+5 Forest
 3 Hardened Scales
 4 Arbor Elf
-5 Forest
 4 Hardened Scales
 1 Prismatic Vista
 2 Wooded Foothills
@@ -60,28 +60,28 @@
 2 Skyclave Apparition
 1 Verdant Catacombs
 1 Crumbling Vestige
-1 Misty Rainforest
 1 Pendelhaven
+1 Misty Rainforest
 1 Wall of Blossoms
 1 Elder Gargaroth
 3 Wooded Foothills
 2 Prismatic Vista
-3 Snow-Covered Forest
-4 Snow-Covered Forest
 1 Courser of Kruphix
 4 Wooded Foothills
 1 Birds of Paradise
 2 Birds of Paradise
 1 Summoner's Pact
-5 Snow-Covered Forest
-3 Auriok Champion
 1 Turntimber Symbiosis
-3 Walking Ballista
 1 Sejiri Steppe
+3 Auriok Champion
+3 Walking Ballista
+3 Snow-Covered Forest
+4 Snow-Covered Forest
 1 Giver of Runes
 1 Lurrus of the Dream-Den
 3 Birds of Paradise
 2 Wall of Blossoms
+5 Snow-Covered Forest
 2 Snow-Covered Plains
 2 Misty Rainforest
 4 Noble Hierarch
@@ -92,12 +92,12 @@
 3 Plains
 3 Razorverge Thicket
 1 Anafenza, Kin-Tree Spirit
-1 Branchloft Pathway
+1 Maul of the Skyclaves
 1 Mirran Crusader
-1 Field of Ruin
 1 Sword of Feast and Famine
 1 Batterskull
-1 Maul of the Skyclaves
+1 Branchloft Pathway
+1 Field of Ruin
 1 Stoneforge Mystic
 1 Burrenton Forge-Tender
 2 Mirran Crusader
@@ -111,11 +111,11 @@
 3 Ghost Quarter
 3 Knight of Autumn
 3 Stoneforge Mystic
+4 Skyclave Apparition
 4 Archon of Emeria
 4 Horizon Canopy
 4 Razorverge Thicket
 4 Knight of Autumn
-4 Skyclave Apparition
 4 Stoneforge Mystic
 4 Ghost Quarter
 2 Verdant Catacombs

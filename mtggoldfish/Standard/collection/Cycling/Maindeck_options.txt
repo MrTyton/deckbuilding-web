@@ -1,122 +1,112 @@
-2 Brightclimb Pathway
-1 Spikefield Hazard
 3 Brightclimb Pathway
 4 Brightclimb Pathway
 1 Shredded Sails
+3 Frostveil Ambush
+4 Frostveil Ambush
 2 Mountain
 3 Mountain
-4 Mountain
 6 Plains
-5 Mountain
+4 Mountain
 7 Plains
+5 Mountain
 8 Plains
 9 Plains
 6 Mountain
 1 Emeria's Call
 1 Temple of Plenty
-1 Stonecoil Serpent
-1 Swarm Shambler
 1 Luminarch Aspirant
 1 Branchloft Pathway
 1 Conclave Mentor
 1 Forest
-2 Stonecoil Serpent
 2 Forest
-2 Swarm Shambler
 2 Luminarch Aspirant
 2 Branchloft Pathway
 2 Conclave Mentor
 3 Branchloft Pathway
-3 Stonecoil Serpent
 3 Conclave Mentor
 3 Forest
 3 Luminarch Aspirant
-4 Branchloft Pathway
-4 Stonecoil Serpent
+4 Conclave Mentor
 4 Forest
 4 Luminarch Aspirant
-1 Skyclave Apparition
-1 Basri's Lieutenant
-2 Skyclave Apparition
-2 Basri's Lieutenant
-3 Skyclave Apparition
-1 Vastwood Fortification
+4 Branchloft Pathway
+1 Stonecoil Serpent
+1 Swarm Shambler
+2 Stonecoil Serpent
+2 Swarm Shambler
+3 Stonecoil Serpent
 3 Swarm Shambler
-4 Conclave Mentor
+4 Stonecoil Serpent
 5 Forest
-6 Forest
+1 Basri's Lieutenant
+2 Basri's Lieutenant
+1 Skyclave Apparition
+2 Skyclave Apparition
+3 Skyclave Apparition
+4 Skyclave Apparition
 1 Primal Might
 2 Primal Might
-1 Kabira Takedown
+1 Vastwood Fortification
+6 Forest
 1 Oran-Rief Ooze
-2 Kabira Takedown
 2 Oran-Rief Ooze
-4 Skyclave Apparition
+1 Fabled Passage
+1 Scavenging Ooze
+2 Fabled Passage
 2 Temple of Plenty
 3 Temple of Plenty
 3 Basri's Lieutenant
 4 Temple of Plenty
+4 Basri's Lieutenant
+1 Kabira Takedown
+2 Kabira Takedown
 2 Sejiri Shelter
-1 Fabled Passage
-1 Scavenging Ooze
-2 Fabled Passage
-1 Giant Killer
 1 Fearless Fledgling
-1 Khalni Ambush
-2 Emeria's Call
 2 Fearless Fledgling
-2 Giant Killer
 3 Fearless Fledgling
 3 Oran-Rief Ooze
-4 Basri's Lieutenant
+4 Swarm Shambler
+2 Scavenging Ooze
+3 Scavenging Ooze
+3 Fabled Passage
+1 Giant Killer
+1 Khalni Ambush
+2 Emeria's Call
+2 Giant Killer
 4 Oran-Rief Ooze
 7 Mountain
 10 Plains
-1 Raugrin Triome
-2 Raugrin Triome
 1 Selfless Savior
 2 Selfless Savior
 1 Temple of Triumph
-4 Boon of the Wish-Giver
-2 Scavenging Ooze
-3 Scavenging Ooze
-2 Vastwood Fortification
-3 Fabled Passage
-4 Swarm Shambler
+1 Swamp
 1 The Ozolith
 2 The Ozolith
+2 Vastwood Fortification
+1 The Great Henge
 1 Kazuul's Fury
+1 Raugrin Triome
+2 Raugrin Triome
 1 Clearwater Pathway
-1 Swamp
 2 Clearwater Pathway
 2 Shatterskull Smashing
 3 Sejiri Shelter
-1 Inscription of Abundance
-1 Crystalline Giant
-1 Bala Ged Recovery
-1 Castle Ardenvale
-1 Crawling Barrens
-1 Turntimber Symbiosis
-2 Crawling Barrens
-2 Bala Ged Recovery
-2 Crystalline Giant
-2 Inscription of Abundance
-3 Crystalline Giant
-3 Primal Might
-3 Inscription of Abundance
-4 Crystalline Giant
-1 Island
-1 Temple of Mystery
-1 Temple of Malady
-1 Savai Thundermane
-1 Temple of Epiphany
-2 Island
-2 Savai Thundermane
-3 Island
-4 Island
+1 Temple of Enlightenment
+1 Lurrus of the Dream-Den
+1 Ominous Seas
+1 Wind-Scarred Crag
+1 Tranquil Cove
+2 Tranquil Cove
 2 Temple of Triumph
-3 Raugrin Triome
-4 Raugrin Triome
+2 Ominous Seas
+3 Ominous Seas
+1 Crawling Barrens
+1 Crystalline Giant
+1 Turntimber Symbiosis
+1 Inscription of Abundance
+2 Crystalline Giant
+3 Primal Might
+3 Crystalline Giant
 1 Felidar Retreat
 1 Basri Ket
 2 Felidar Retreat
@@ -124,14 +114,44 @@
 3 Selfless Savior
 4 Fabled Passage
 4 Selfless Savior
-1 The Great Henge
+1 Castle Locthwain
+1 Grakmaw, Skyclave Ravager
+1 Eliminate
+1 Cleric of Life's Bond
+1 Indatha Triome
+1 Hagra Constrictor
+1 Garruk's Harbinger
+2 Eliminate
+2 Grakmaw, Skyclave Ravager
+2 Hagra Constrictor
+2 Indatha Triome
+2 The Great Henge
+2 Garruk's Harbinger
+2 Cleric of Life's Bond
+3 The Great Henge
+3 Cleric of Life's Bond
+3 Grakmaw, Skyclave Ravager
+3 Garruk's Harbinger
+3 Hagra Constrictor
+3 Indatha Triome
+4 Indatha Triome
+1 Temple of Mystery
+1 Temple of Malady
+1 Island
+1 Savai Thundermane
+1 Temple of Epiphany
+2 Savai Thundermane
+2 Island
+3 Island
+4 Island
+4 Boon of the Wish-Giver
 1 Gemrazer
-1 Chainweb Aracnir
 1 Wildwood Scourge
 1 Ram Through
+1 Chainweb Aracnir
+2 Ram Through
 2 Gemrazer
 2 Chainweb Aracnir
-2 Ram Through
 2 Wildwood Scourge
 3 Wildwood Scourge
 3 The Ozolith

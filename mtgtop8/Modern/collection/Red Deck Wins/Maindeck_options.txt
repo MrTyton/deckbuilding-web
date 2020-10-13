@@ -1,12 +1,3 @@
-2 Fiery Islet
-1 Soul-Scar Mage
-2 Soul-Scar Mage
-3 Soul-Scar Mage
-4 Soul-Scar Mage
-1 Lava Dart
-2 Lava Dart
-3 Lava Dart
-4 Lava Dart
 4 Mountain
 5 Mountain
 6 Mountain
@@ -23,43 +14,54 @@
 2 Firebolt
 4 Light Up the Stage
 13 Mountain
-1 Blistercoil Weird
-2 Blistercoil Weird
-3 Blistercoil Weird
-4 Blistercoil Weird
+2 Fiery Islet
 1 Seasoned Pyromancer
 1 Bonecrusher Giant
-2 Bonecrusher Giant
 2 Seasoned Pyromancer
+2 Bonecrusher Giant
 3 Seasoned Pyromancer
 3 Bonecrusher Giant
 3 Firebolt
 4 Seasoned Pyromancer
 4 Bonecrusher Giant
+1 Blistercoil Weird
+2 Blistercoil Weird
+3 Blistercoil Weird
+4 Blistercoil Weird
 4 Firebolt
-4 Skewer the Critics
 1 Flame Slash
 2 Flame Slash
+1 Skewer the Critics
+2 Skewer the Critics
 14 Mountain
+2 Bloodstained Mire
+2 Arid Mesa
+3 Skewer the Critics
+4 Skewer the Critics
 15 Mountain
 16 Mountain
 17 Mountain
-3 Wooded Foothills
+1 Wooded Foothills
+2 Wooded Foothills
+3 Lightning Helix
+1 Burst Lightning
+3 Flame Slash
+4 Flame Slash
 1 Scalding Tarn
 3 Bloodstained Mire
-1 Burst Lightning
 2 Burst Lightning
 18 Mountain
 3 Arid Mesa
 4 Arid Mesa
-3 Flame Slash
-4 Flame Slash
+1 Forgotten Cave
+2 Forgotten Cave
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
 4 Manamorphose
 3 Fiery Islet
 4 Fiery Islet
+3 Wooded Foothills
 4 Lightning Helix
 4 Bloodstained Mire
 1 Abbot of Keral Keep
@@ -67,9 +69,6 @@
 3 Abbot of Keral Keep
 4 Abbot of Keral Keep
 1 Spikefield Hazard
-1 Forgotten Cave
-2 Forgotten Cave
-3 Skullcrack
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -99,6 +98,7 @@
 2 Gut Shot
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
+3 Skullcrack
 4 Skullcrack
 1 Mishra's Bauble
 1 Path to Exile
@@ -117,13 +117,18 @@
 4 Scalding Tarn
 3 Burst Lightning
 4 Burst Lightning
+1 Magus of the Moon
+2 Magus of the Moon
+3 Forgotten Cave
+3 Magus of the Moon
+4 Magus of the Moon
 1 Chandra's Incinerator
 2 Chandra's Incinerator
 3 Chandra's Incinerator
 4 Chandra's Incinerator
+1 Blackcleave Cliffs
 1 Blood Crypt
 1 Temur Battle Rage
-1 Blackcleave Cliffs
 1 Thoughtseize
 2 Blood Crypt
 2 Thoughtseize
