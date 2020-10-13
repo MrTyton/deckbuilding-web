@@ -1,10 +1,10 @@
-1 Sublime Epiphany
+1 Castle Vantress
 1 Temple of Epiphany
 1 Riverglide Pathway
 1 Neutralize
+2 Sublime Epiphany
 2 Brazen Borrower
 2 Bonecrusher Giant
-2 Sublime Epiphany
 2 Riverglide Pathway
 2 Neutralize
 2 Temple of Epiphany
@@ -30,26 +30,26 @@
 1 Soul Sear
 1 Brash Taunter
 1 Shatterskull Smashing
+1 Scorching Dragonfire
 1 Storm's Wrath
 1 Silundi Vision
 1 Mazemind Tome
-1 Scorching Dragonfire
 1 Shredded Sails
 1 Shipwreck Dowser
 2 Shatterskull Smashing
 2 Soul Sear
-2 Storm's Wrath
+2 Scorching Dragonfire
 2 Shredded Sails
 2 Mazemind Tome
 2 Silundi Vision
 2 Shipwreck Dowser
 2 Brash Taunter
-2 Scorching Dragonfire
+2 Storm's Wrath
 3 Radiant Fountain
 3 Storm's Wrath
+3 Scorching Dragonfire
 3 Neutralize
 3 Shipwreck Dowser
-3 Scorching Dragonfire
 3 Silundi Vision
 3 Brash Taunter
 3 Sublime Epiphany
@@ -58,18 +58,18 @@
 4 Scorching Dragonfire
 1 Jwari Disruption
 1 Gadwick, the Wizened
-1 Fabled Passage
 1 Kiora Bests the Sea God
 1 Spikefield Hazard
-1 Voracious Greatshark
 1 Cinderclasm
+1 Fabled Passage
 1 Hypnotic Sprite
+1 Voracious Greatshark
 2 Jwari Disruption
 2 Gadwick, the Wizened
 2 Thassa's Intervention
-2 Fabled Passage
 2 Cinderclasm
 2 Spikefield Hazard
+2 Fabled Passage
 2 Voracious Greatshark
 3 Spikefield Hazard
 3 Thassa's Intervention
@@ -79,10 +79,34 @@
 4 Jwari Disruption
 4 Mystical Dispute
 4 Essence Scatter
+1 Irencrag Pyromancer
+1 Sprite Dragon
+1 Experimental Overload
+1 Izzet Guildgate
+1 Crackling Drake
+1 Niv-Mizzet, Parun
+1 Winged Words
+1 God-Eternal Kefnet
+2 Crackling Drake
+2 Izzet Guildgate
+2 Sprite Dragon
+2 Experimental Overload
+2 Winged Words
+3 Winged Words
+3 Crackling Drake
+3 Sprite Dragon
+3 Ominous Seas
+3 Flame Sweep
+4 Shock
+4 Lofty Denial
+4 Opt
+4 Sprite Dragon
+8 Mountain
+8 Island
 1 Cancel
 1 Devious Cover-Up
-1 Heartless Act
 1 Expansion / Explosion
+1 Heartless Act
 1 Dismal Backwater
 1 Firemind's Research
 1 Swamp
@@ -98,27 +122,3 @@
 3 Bloodfell Caves
 4 Dismal Backwater
 4 Bloodfell Caves
-1 Irencrag Pyromancer
-1 Experimental Overload
-1 Izzet Guildgate
-1 Niv-Mizzet, Parun
-1 Winged Words
-1 God-Eternal Kefnet
-1 Crackling Drake
-1 Sprite Dragon
-2 Izzet Guildgate
-2 Experimental Overload
-2 Crackling Drake
-2 Winged Words
-2 Sprite Dragon
-3 Winged Words
-3 Crackling Drake
-3 Ominous Seas
-3 Flame Sweep
-3 Sprite Dragon
-4 Lofty Denial
-4 Sprite Dragon
-4 Opt
-8 Mountain
-8 Island
-4 Shock

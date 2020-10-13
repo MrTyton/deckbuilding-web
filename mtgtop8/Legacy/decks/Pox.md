@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Cling to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476338)          |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)      |
-|                    1|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)        |                    1|[Dystopia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3071)              |
+|                    1|[Cling to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476338)          |                    1|[Dystopia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3071)              |
+|                    1|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)        |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)      |
 |                    1|[Nether Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1453)              |                    1|[Toxic Deluge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376559)        |
 |                    1|[Beseech the Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205399)      |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |
 |                    2|[Nether Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1453)              |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|

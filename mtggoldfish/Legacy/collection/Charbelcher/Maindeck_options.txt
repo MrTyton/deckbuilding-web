@@ -8,8 +8,8 @@
 1 Thassa's Oracle
 1 Pact of Negation
 1 Dark Ritual
-1 Undercity Informer
 1 Dread Return
+1 Undercity Informer
 2 Cabal Ritual
 2 Balustrade Spy
 2 Undercity Informer
@@ -29,17 +29,6 @@
 4 Undercity Informer
 4 Dark Ritual
 4 Cabal Ritual
-3 Pact of Negation
-4 Pact of Negation
-1 Pyretic Ritual
-2 Pyretic Ritual
-1 Turntimber Symbiosis
-1 Bridge from Below
-2 Cabal Therapy
-2 Turntimber Symbiosis
-3 Cabal Therapy
-3 Turntimber Symbiosis
-4 Turntimber Symbiosis
 1 Sea Gate Restoration
 1 Jwari Disruption
 1 Brainstorm
@@ -48,9 +37,9 @@
 1 Force of Will
 2 Sea Gate Restoration
 2 Brainstorm
-2 Ponder
 2 Preordain
 2 Force of Will
+2 Ponder
 3 Preordain
 3 Sea Gate Restoration
 3 Brainstorm
@@ -59,12 +48,23 @@
 4 Brainstorm
 4 Sea Gate Restoration
 4 Ponder
-4 Force of Will
+3 Pact of Negation
+4 Pact of Negation
+1 Pyretic Ritual
+2 Pyretic Ritual
+1 Turntimber Symbiosis
+1 Bridge from Below
+2 Cabal Therapy
+2 Turntimber Symbiosis
+3 Turntimber Symbiosis
+3 Cabal Therapy
+4 Turntimber Symbiosis
 1 Pelakka Predation
 1 Thoughtseize
 2 Thoughtseize
 1 Dark Petition
 2 Pelakka Predation
+4 Force of Will
 2 Jwari Disruption
 1 Stomping Ground
 3 Manamorphose

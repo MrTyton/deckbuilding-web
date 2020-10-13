@@ -1,47 +1,50 @@
-5 Plains
-1 Brightclimb Pathway
 3 Temple of Triumph
-4 Shatterskull Smashing
 3 Cragcrown Pathway
-1 Nahiri, Heir of the Ancients
-1 Phoenix of Ash
 2 Brightclimb Pathway
 1 Archon of Emeria
 2 Archon of Emeria
+3 Maul of the Skyclaves
+4 Seasoned Hallowblade
 4 Temple of Triumph
-3 Spikefield Hazard
-5 Mountain
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 3 Stonecoil Serpent
-6 Plains
+1 Nahiri, Heir of the Ancients
 4 Cragcrown Pathway
-1 Fireblade Charger
-1 Akiri, Fearless Voyager
-2 Akiri, Fearless Voyager
-1 Fabled Passage
-4 Maul of the Skyclaves
-1 Kor Blademaster
-2 Kor Blademaster
-1 Giant Killer
-2 Fireblade Charger
-3 Fireblade Charger
-4 Fireblade Charger
-1 Shadowspear
-1 Skyclave Cleric
-2 Skyclave Cleric
-4 Spikefield Hazard
-3 Archon of Emeria
+3 Brightclimb Pathway
+5 Plains
+1 Phoenix of Ash
+3 Spikefield Hazard
+4 Brightclimb Pathway
+3 Skyclave Apparition
+5 Mountain
+6 Plains
 1 Lotus Cobra
-1 Turntimber Symbiosis
 1 Forest
 2 Lotus Cobra
 3 Lotus Cobra
 4 Lotus Cobra
-3 Brightclimb Pathway
+1 Fabled Passage
+1 Fireblade Charger
+1 Akiri, Fearless Voyager
+2 Akiri, Fearless Voyager
+1 Skyclave Cleric
+2 Skyclave Cleric
+4 Maul of the Skyclaves
+1 Kor Blademaster
+2 Kor Blademaster
+2 Fireblade Charger
+3 Fireblade Charger
+4 Fireblade Charger
+1 Shadowspear
+3 Archon of Emeria
+4 Spikefield Hazard
+1 Turntimber Symbiosis
+2 Forest
+1 Savai Triome
+4 Stonecoil Serpent
 2 Nahiri, Heir of the Ancients
-7 Plains
-8 Plains
+1 Giant Killer
 2 Giant Killer
 3 Skyclave Cleric
 3 Embercleave
@@ -51,24 +54,23 @@
 4 Tangled Florahedron
 1 Gilded Goose
 2 Gilded Goose
-2 Forest
 3 Gilded Goose
-1 Haktos the Unscarred
 2 Fabled Passage
+1 Haktos the Unscarred
 3 Emeria's Call
+7 Plains
+8 Plains
 1 Castle Embereth
-4 Brightclimb Pathway
+3 Fabled Passage
 1 Legion Angel
-1 Savai Triome
 1 Relic Axe
 2 Relic Axe
-6 Mountain
 2 Turntimber Symbiosis
 3 Turntimber Symbiosis
 4 Gilded Goose
 4 Archon of Emeria
 2 Shadowspear
-3 Skyclave Apparition
+4 Skyclave Apparition
 3 Kor Blademaster
 1 Kargan Warleader
 2 Kargan Warleader
@@ -91,18 +93,18 @@
 3 Akiri, Fearless Voyager
 1 Resolute Strike
 2 Resolute Strike
-3 Fabled Passage
 1 Riverglide Pathway
+6 Mountain
+1 Luminarch Aspirant
+2 Luminarch Aspirant
 1 Archpriest of Iona
 2 Archpriest of Iona
 3 Archpriest of Iona
 4 Archpriest of Iona
 4 Turntimber Symbiosis
-4 Stonecoil Serpent
 1 Zirda, the Dawnwaker
 2 Zirda, the Dawnwaker
 4 Fervent Champion
-4 Skyclave Apparition
 3 Kenrith, the Returned King
 4 Kor Blademaster
 2 Legion Angel
@@ -125,16 +127,15 @@
 2 Woe Strider
 2 Demon's Disciple
 2 Swamp
-3 Woe Strider
 3 Savai Triome
+3 Woe Strider
 4 Savai Triome
 3 Kargan Warleader
 1 Alseid of Life's Bounty
 1 Castle Ardenvale
+1 Tazri, Beacon of Unity
 2 Riverglide Pathway
 3 Riverglide Pathway
-1 Luminarch Aspirant
-2 Luminarch Aspirant
 1 Raugrin Triome
 2 Raugrin Triome
 1 Speaker of the Heavens
@@ -156,43 +157,29 @@
 3 Lavabrink Venturer
 3 Luminarch Aspirant
 4 Luminarch Aspirant
-1 Elspeth, Sun's Nemesis
-1 Heartfire Immolator
-1 Crawling Barrens
-1 Basri Ket
-1 Tazri, Beacon of Unity
-1 Stonework Packbeast
-2 Heartfire Immolator
-2 Alseid of Life's Bounty
-2 Tazri, Beacon of Unity
-2 Stonework Packbeast
-3 Speaker of the Heavens
-3 Heartfire Immolator
-3 Stonework Packbeast
-4 Speaker of the Heavens
 1 Scavenging Ooze
 2 Scavenging Ooze
 4 Skyclave Cleric
+1 Magmatic Channeler
+1 Concerted Defense
 1 Ghostly Pilferer
 1 Jwari Disruption
-1 Concerted Defense
 1 Linvala, Shield of Sea Gate
 1 Island
 1 Staggering Insight
 1 Nimble Trapfinder
-1 Magmatic Channeler
 1 Brazen Borrower
 2 Jwari Disruption
 2 Concerted Defense
-2 Staggering Insight
+2 Magmatic Channeler
 2 Brazen Borrower
 2 Island
 2 Nimble Trapfinder
 2 Linvala, Shield of Sea Gate
-2 Magmatic Channeler
-3 Concerted Defense
-3 Raugrin Triome
+2 Staggering Insight
 3 Linvala, Shield of Sea Gate
+3 Raugrin Triome
+3 Concerted Defense
 3 Brazen Borrower
 4 Riverglide Pathway
 4 Raugrin Triome
@@ -200,6 +187,19 @@
 4 Cliffhaven Kitesail
 3 Zirda, the Dawnwaker
 4 Zirda, the Dawnwaker
+1 Crawling Barrens
+1 Basri Ket
+1 Elspeth, Sun's Nemesis
+1 Heartfire Immolator
+1 Stonework Packbeast
+2 Alseid of Life's Bounty
+2 Tazri, Beacon of Unity
+2 Heartfire Immolator
+2 Stonework Packbeast
+3 Stonework Packbeast
+3 Speaker of the Heavens
+3 Heartfire Immolator
+4 Speaker of the Heavens
 1 Crystal Slipper
 4 Resolute Strike
 4 Nahiri, Heir of the Ancients
@@ -216,29 +216,25 @@
 2 Swarm Shambler
 3 Forest
 4 Forest
-1 Kitesail Freebooter
 1 Forbidden Friendship
+1 Kitesail Freebooter
 2 Rankle, Master of Pranks
-2 Kitesail Freebooter
 2 Forbidden Friendship
+2 Kitesail Freebooter
 3 Swamp
 3 Demon's Disciple
 3 Forbidden Friendship
 4 Woe Strider
 4 Forbidden Friendship
-1 Seven Dwarves
-1 Garrison Cat
-1 Faerie Guidemother
-2 Seven Dwarves
-2 Haktos the Unscarred
-2 Garrison Cat
-3 Seven Dwarves
-3 Garrison Cat
-4 Seven Dwarves
-4 Garrison Cat
-5 Seven Dwarves
-6 Seven Dwarves
-7 Seven Dwarves
+1 Scute Swarm
+1 Victory's Envoy
+1 Tajuru Paragon
+2 Scute Swarm
+2 Tajuru Paragon
+3 Scute Swarm
+3 Tajuru Paragon
+4 Tajuru Paragon
+4 Scute Swarm
 1 Satyr's Cunning
 9 Plains
 1 Expedition Champion

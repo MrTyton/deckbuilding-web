@@ -120,17 +120,17 @@
 4 Cathartic Reunion
 1 Marsh Flats
 1 Silent Clearing
-1 Mutavault
 1 Godless Shrine
-1 Spell Queller
-1 Moorland Haunt
-1 Deputy of Detention
+1 Mutavault
 1 Selfless Spirit
 1 Force of Virtue
 1 Geist of Saint Traft
 1 Island
 1 Empyrean Eagle
 1 Aether Vial
+1 Moorland Haunt
+1 Deputy of Detention
+1 Spell Queller
 1 Flooded Strand
 1 Mausoleum Wanderer
 1 Seachrome Coast
@@ -138,9 +138,8 @@
 1 Supreme Phantom
 1 Path to Exile
 1 Squadron Hawk
-2 Mutavault
 2 Island
-2 Spell Queller
+2 Mutavault
 2 Geist of Saint Traft
 2 Selfless Spirit
 2 Aether Vial
@@ -152,8 +151,8 @@
 2 Mausoleum Wanderer
 2 Flooded Strand
 2 Squadron Hawk
+2 Spell Queller
 3 Path to Exile
-3 Spell Queller
 3 Supreme Phantom
 3 Seachrome Coast
 3 Squadron Hawk
@@ -161,14 +160,15 @@
 3 Force of Virtue
 3 Empyrean Eagle
 3 Flooded Strand
+3 Spell Queller
 3 Aether Vial
-4 Spell Queller
+4 Aether Vial
 4 Path to Exile
 4 Empyrean Eagle
 4 Squadron Hawk
 4 Mausoleum Wanderer
-4 Aether Vial
 4 Supreme Phantom
+4 Spell Queller
 4 Force of Virtue
 4 Flooded Strand
 1 Lightning Bolt
@@ -178,6 +178,7 @@
 1 Sprite Dragon
 1 Gut Shot
 1 Bedlam Reveler
+1 Fiery Islet
 1 Wild Slash
 1 Light Up the Stage
 1 Stormwing Entity
@@ -188,10 +189,10 @@
 1 Mutagenic Growth
 1 Lava Dart
 1 Manamorphose
-1 Fiery Islet
 1 Monastery Swiftspear
 2 Sprite Dragon
 2 Bedlam Reveler
+2 Fiery Islet
 2 Wild Slash
 2 Gut Shot
 2 Light Up the Stage
@@ -205,7 +206,6 @@
 2 Soul-Scar Mage
 2 Monastery Swiftspear
 2 Opt
-2 Fiery Islet
 3 Mountain
 3 Fiery Islet
 3 Sprite Dragon

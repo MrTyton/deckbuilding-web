@@ -88,6 +88,6 @@
 |                    3|Omnath, Locus of Creation                                                                           |                     |                                                                                                |
 |                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)         |                     |                                                                                                |
 |                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)              |                     |                                                                                                |
-|                    4|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)                 |                     |                                                                                                |
 |                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)              |                     |                                                                                                |
+|                    4|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)                 |                     |                                                                                                |
 

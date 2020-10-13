@@ -2,23 +2,24 @@
 3 Collected Company
 4 Collected Company
 3 Temple Garden
-1 Conclave Mentor
 1 Ranger-Captain of Eos
+1 Conclave Mentor
 1 Heliod, Sun-Crowned
 1 Scavenging Ooze
 1 Walking Ballista
-2 Conclave Mentor
 2 Ranger-Captain of Eos
+2 Conclave Mentor
 2 Heliod, Sun-Crowned
 2 Scavenging Ooze
 2 Spike Feeder
 2 Walking Ballista
-3 Conclave Mentor
 3 Ranger-Captain of Eos
-3 Spike Feeder
 3 Heliod, Sun-Crowned
-4 Spike Feeder
+3 Conclave Mentor
+3 Spike Feeder
 4 Heliod, Sun-Crowned
+4 Spike Feeder
+3 Forest
 1 Auriok Champion
 4 Conclave Mentor
 4 Ranger-Captain of Eos
@@ -28,20 +29,19 @@
 4 Temple Garden
 4 Utopia Sprawl
 2 Auriok Champion
-2 Plains
-4 Forest
 2 Horizon Canopy
+2 Plains
 1 Hardened Scales
 2 Hardened Scales
+4 Forest
 1 Gavony Township
-2 Snow-Covered Forest
 3 Horizon Canopy
 1 Arbor Elf
 2 Arbor Elf
 3 Arbor Elf
-5 Forest
 3 Hardened Scales
 4 Arbor Elf
+5 Forest
 4 Hardened Scales
 1 Prismatic Vista
 2 Wooded Foothills
@@ -54,37 +54,35 @@
 2 Noble Hierarch
 3 Noble Hierarch
 1 Eternal Witness
-1 Wooded Bastion
-2 Skyclave Apparition
 1 Archon of Emeria
 1 Springbloom Druid
+1 Wooded Bastion
+2 Skyclave Apparition
 1 Verdant Catacombs
 1 Crumbling Vestige
-1 Pendelhaven
 1 Misty Rainforest
-1 Elder Gargaroth
+1 Pendelhaven
 1 Wall of Blossoms
-1 Courser of Kruphix
+1 Elder Gargaroth
 3 Wooded Foothills
 2 Prismatic Vista
-1 Sejiri Steppe
+3 Snow-Covered Forest
+4 Snow-Covered Forest
+1 Courser of Kruphix
 4 Wooded Foothills
 1 Birds of Paradise
 2 Birds of Paradise
 1 Summoner's Pact
-1 Turntimber Symbiosis
+5 Snow-Covered Forest
 3 Auriok Champion
+1 Turntimber Symbiosis
 3 Walking Ballista
-3 Snow-Covered Forest
-4 Snow-Covered Forest
+1 Sejiri Steppe
 1 Giver of Runes
 1 Lurrus of the Dream-Den
 3 Birds of Paradise
 2 Wall of Blossoms
-5 Snow-Covered Forest
 2 Snow-Covered Plains
-1 Elvish Rejuvenator
-1 Knight of the Reliquary
 2 Misty Rainforest
 4 Noble Hierarch
 1 Razorverge Thicket
@@ -93,12 +91,10 @@
 2 Razorverge Thicket
 3 Plains
 3 Razorverge Thicket
-1 Voice of Resurgence
-1 Woodland Bellower
 1 Anafenza, Kin-Tree Spirit
 1 Branchloft Pathway
-1 Field of Ruin
 1 Mirran Crusader
+1 Field of Ruin
 1 Sword of Feast and Famine
 1 Batterskull
 1 Maul of the Skyclaves
@@ -106,8 +102,8 @@
 1 Burrenton Forge-Tender
 2 Mirran Crusader
 2 Ghost Quarter
-2 Knight of Autumn
 2 Archon of Emeria
+2 Knight of Autumn
 2 Stoneforge Mystic
 2 Burrenton Forge-Tender
 3 Skyclave Apparition
@@ -124,12 +120,16 @@
 4 Ghost Quarter
 2 Verdant Catacombs
 3 Verdant Catacombs
+1 Elvish Rejuvenator
+1 Knight of the Reliquary
 3 Explore
 2 Sakura-Tribe Elder
 2 Tireless Tracker
 2 Thalia, Guardian of Thraben
 4 Birds of Paradise
 1 Settle the Wreckage
+1 Voice of Resurgence
+1 Woodland Bellower
 1 Collector Ouphe
 1 Reclamation Sage
 1 Gaddock Teeg
