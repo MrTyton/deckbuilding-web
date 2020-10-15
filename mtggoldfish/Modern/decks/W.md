@@ -71,6 +71,6 @@
 |                    2|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)     |                     |                                                                                                   |
 |                    3|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)     |                     |                                                                                                   |
 |                    3|[Seachrome Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209399)    |                     |                                                                                                   |
-|                    4|[Seachrome Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209399)    |                     |                                                                                                   |
 |                    4|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)     |                     |                                                                                                   |
+|                    4|[Seachrome Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209399)    |                     |                                                                                                   |
 

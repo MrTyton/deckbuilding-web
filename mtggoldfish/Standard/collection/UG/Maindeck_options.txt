@@ -1,8 +1,8 @@
 4 Gilded Goose
 1 Stonecoil Serpent
 2 Stonecoil Serpent
-3 Gemrazer
 3 Stonecoil Serpent
+3 Gemrazer
 1 Illuna, Apex of Wishes
 4 Tangled Florahedron
 11 Forest
@@ -88,8 +88,8 @@
 1 Jungle Hollow
 2 Jungle Hollow
 3 Jungle Hollow
-4 Llanowar Visionary
 4 Jungle Hollow
+4 Llanowar Visionary
 7 Swamp
 8 Swamp
 1 Insatiable Hemophage
@@ -116,66 +116,46 @@
 1 Extinction Event
 1 Pestilent Haze
 1 Roiling Regrowth
+2 Questing Beast
 2 Nissa of Shadowed Boughs
 2 Temple of Malice
-2 Questing Beast
-2 Murderous Rider
 2 Extinction Event
+2 Murderous Rider
 2 Roiling Regrowth
 3 Extinction Event
 3 Roiling Regrowth
-1 Adventurous Impulse
-1 Grasp of Darkness
-1 Vivien, Monsters' Advocate
-1 Bloodchief's Thirst
-1 Polukranos, Unchained
-1 Bake into a Pie
-1 Zagoth Mamba
-1 Fierce Witchstalker
-2 Adventurous Impulse
-2 Grasp of Darkness
-2 Bloodchief's Thirst
-2 Bake into a Pie
-2 Zagoth Mamba
-2 Fierce Witchstalker
 1 Spined Megalodon
 1 Maraleaf Pixie
 2 Maraleaf Pixie
 2 Spined Megalodon
+1 Adventurous Impulse
+1 Polukranos, Unchained
+1 Bloodchief's Thirst
+1 Grasp of Darkness
+1 Vivien, Monsters' Advocate
+1 Zagoth Mamba
+1 Fierce Witchstalker
+1 Bake into a Pie
+2 Adventurous Impulse
+2 Grasp of Darkness
+2 Bloodchief's Thirst
+2 Zagoth Mamba
+2 Fierce Witchstalker
+2 Bake into a Pie
 1 Glasspool Mimic
 2 Glasspool Mimic
 3 Sea-Dasher Octopus
 1 Heroic Intervention
-2 Heroic Intervention
 2 Dirge Bat
+2 Heroic Intervention
 3 Heroic Intervention
 3 Dirge Bat
-1 Skyclave Cleric
-1 Bala Ged Recovery
-1 Castle Ardenvale
-1 Emeria's Call
-1 Kabira Takedown
-1 Garruk's Harbinger
-1 Plains
-1 Huntmaster Liger
-1 Branchloft Pathway
-2 Branchloft Pathway
-2 Skyclave Cleric
-2 Emeria's Call
-2 Garruk's Harbinger
-2 Huntmaster Liger
-2 Plains
-2 Castle Ardenvale
-3 Branchloft Pathway
-3 Garruk's Harbinger
-3 Plains
-4 Branchloft Pathway
-1 Kazandu Mammoth
 1 Chainweb Aracnir
+1 Kazandu Mammoth
 2 Kazandu Mammoth
 2 Chainweb Aracnir
-3 Kazandu Mammoth
 3 Chainweb Aracnir
+3 Kazandu Mammoth
 4 Chainweb Aracnir
 1 Jwari Disruption
 2 Jwari Disruption
@@ -184,11 +164,11 @@
 3 Glowstone Recluse
 4 Trumpeting Gnarr
 1 Evolving Wilds
-1 Nethroi, Apex of Death
 1 Demon's Disciple
+1 Nethroi, Apex of Death
 1 Humble Naturalist
-2 Demon's Disciple
 2 Evolving Wilds
+2 Demon's Disciple
 2 Humble Naturalist
 3 Demon's Disciple
 3 Humble Naturalist
@@ -200,46 +180,66 @@
 1 Heartless Act
 1 Dryad of the Ilysian Grove
 2 Migration Path
-2 Massacre Wurm
 2 Heartless Act
+2 Massacre Wurm
 2 Ugin, the Spirit Dragon
 2 Dryad of the Ilysian Grove
 3 Zagoth Triome
 3 Turntimber Symbiosis
 3 Heartless Act
 3 Migration Path
-4 Heartless Act
 4 Zagoth Triome
+4 Heartless Act
 4 Migration Path
-1 Clearwater Pathway
-1 Eliminate
-1 Cavern Whisperer
-2 Clearwater Pathway
-2 Eliminate
-2 Cavern Whisperer
-3 Clearwater Pathway
-3 Eliminate
-4 Clearwater Pathway
-4 Eliminate
-4 Mysterious Egg
 1 Nylea's Forerunner
 2 Nylea's Forerunner
 3 Archipelagore
 3 Nylea's Forerunner
 4 Dreamtail Heron
-1 Ancient Greenwarden
-1 Phylath, World Sculptor
-1 Radha, Heart of Keld
 1 Bonders' Enclave
+1 Phylath, World Sculptor
+1 Ancient Greenwarden
+1 Radha, Heart of Keld
 1 Shatterskull Smashing
 2 Shatterskull Smashing
 2 Ancient Greenwarden
 2 Phylath, World Sculptor
 2 Radha, Heart of Keld
+3 Castle Garenbrig
 3 Shatterskull Smashing
 3 Mountain
-3 Castle Garenbrig
 4 Mountain
+1 Bala Ged Recovery
+1 Emeria's Call
+1 Castle Ardenvale
+1 Skyclave Cleric
+1 Kabira Takedown
+1 Garruk's Harbinger
+1 Plains
+1 Huntmaster Liger
+1 Branchloft Pathway
+2 Emeria's Call
+2 Skyclave Cleric
+2 Huntmaster Liger
+2 Plains
+2 Branchloft Pathway
+2 Castle Ardenvale
+2 Garruk's Harbinger
+3 Garruk's Harbinger
+3 Plains
+3 Branchloft Pathway
+4 Branchloft Pathway
+1 Eliminate
+1 Cavern Whisperer
+1 Clearwater Pathway
+2 Eliminate
+2 Cavern Whisperer
+2 Clearwater Pathway
+3 Eliminate
+3 Clearwater Pathway
+4 Eliminate
+4 Mysterious Egg
+4 Clearwater Pathway
 1 Opt
 1 Brazen Borrower
 2 Ruin Crab
@@ -249,27 +249,27 @@
 3 Ruin Crab
 3 Opt
 4 Cultivate
-4 Brazen Borrower
 4 Ruin Crab
+4 Brazen Borrower
 4 Opt
 12 Island
 1 Ashaya, Soul of the Wild
+1 Garruk's Uprising
 1 Wolfwillow Haven
-1 Ram Through
 1 Ornery Dilophosaur
 1 Nessian Hornbeetle
+1 Ram Through
 1 Renata, Called to the Hunt
-1 Garruk's Uprising
 1 Thorn Mammoth
 2 Wolfwillow Haven
-2 Ram Through
 2 Garruk's Uprising
 2 Nessian Hornbeetle
+2 Ram Through
 2 Ornery Dilophosaur
 3 Wolfwillow Haven
 3 Ram Through
-4 Wolfwillow Haven
 4 Ram Through
+4 Wolfwillow Haven
 13 Forest
 14 Forest
 15 Forest

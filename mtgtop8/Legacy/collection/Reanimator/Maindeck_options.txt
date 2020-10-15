@@ -1,25 +1,19 @@
-2 Marsh Flats
-1 Tendrils of Agony
-2 Badlands
-1 Verdant Catacombs
+3 Polluted Delta
 2 Verdant Catacombs
+3 Bloodstained Mire
+1 Cabal Therapy
+1 Swamp
 4 Polluted Delta
 2 Swamp
 1 Ashen Rider
 4 Thoughtseize
+1 Elesh Norn, Grand Cenobite
 3 Swamp
 4 Bloodstained Mire
 1 Grave Titan
-1 Elesh Norn, Grand Cenobite
-1 Lake of the Dead
 1 Iona, Shield of Emeria
-2 Grave Titan
-1 Collective Brutality
-2 Collective Brutality
 2 Cabal Therapy
 3 Cabal Therapy
-2 Lake of the Dead
-3 Lake of the Dead
 1 Force of Will
 1 Brainstorm
 1 Underground Sea
@@ -33,13 +27,16 @@
 4 Ponder
 4 Brainstorm
 4 Force of Will
-4 Swamp
-2 Underground Sea
+1 Lake of the Dead
 1 Vito, Thorn of the Dusk Rose
 1 Overgrown Tomb
+2 Underground Sea
+1 Collective Brutality
+2 Collective Brutality
 1 Mountain
 2 Mountain
 1 Snow-Covered Island
+2 Grave Titan
 1 Snow-Covered Forest
 1 Ice-Fang Coatl
 1 Uro, Titan of Nature's Wrath
@@ -64,6 +61,8 @@
 4 Ice-Fang Coatl
 4 Misty Rainforest
 4 Arcum's Astrolabe
+2 Lake of the Dead
+3 Lake of the Dead
 1 Duress
 2 Duress
 3 Duress
@@ -85,25 +84,15 @@
 15 Snow-Covered Swamp
 16 Snow-Covered Swamp
 1 Sphinx of the Steel Wind
-3 Collective Brutality
-4 Collective Brutality
-5 Swamp
-6 Swamp
-7 Swamp
-1 Massacre Wurm
-1 Urborg, Tomb of Yawgmoth
-2 Bayou
 1 Veil of Summer
+4 Swamp
 1 Unburial Rites
 1 Blood Crypt
 1 Inquisition of Kozilek
-1 Wasteland
-1 Ashiok, Dream Render
-1 Tectonic Hellion
-1 Karn, the Great Creator
+1 Feed the Swarm
+1 Massacre Wurm
 1 Hymn to Tourach
 1 Scrying Sheets
-1 Feed the Swarm
 2 Feed the Swarm
 2 Hymn to Tourach
 2 Scrying Sheets
@@ -120,6 +109,7 @@
 1 Shallow Grave
 1 Dark Depths
 1 Wishclaw Talisman
+1 Urborg, Tomb of Yawgmoth
 1 Vampire Hexmage
 1 Thespian's Stage
 1 Living Wish
@@ -129,6 +119,7 @@
 2 Dark Depths
 2 Living Wish
 2 Vampire Hexmage
+2 Bayou
 2 Shallow Grave
 3 Lion's Eye Diamond
 3 Thespian's Stage
@@ -187,11 +178,16 @@
 4 Marsh Flats
 4 Intuition
 4 Demigod of Revenge
+5 Swamp
+6 Swamp
+7 Swamp
 8 Swamp
 9 Swamp
 10 Swamp
 11 Swamp
 12 Swamp
 1 Grim Tutor
+3 Collective Brutality
+4 Collective Brutality
 17 Snow-Covered Swamp
 18 Snow-Covered Swamp

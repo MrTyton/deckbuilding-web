@@ -27,7 +27,6 @@
 3 Fire Prophecy
 3 Evolving Wilds
 4 Evolving Wilds
-1 Shipwreck Dowser
 1 Shatterskull Smashing
 1 Mazemind Tome
 1 Soul Sear
@@ -36,23 +35,24 @@
 1 Scorching Dragonfire
 1 Silundi Vision
 1 Shredded Sails
+1 Shipwreck Dowser
 2 Shatterskull Smashing
 2 Mazemind Tome
-2 Shipwreck Dowser
 2 Soul Sear
-2 Brash Taunter
 2 Storm's Wrath
 2 Scorching Dragonfire
 2 Shredded Sails
 2 Silundi Vision
+2 Shipwreck Dowser
+2 Brash Taunter
 3 Radiant Fountain
-3 Sublime Epiphany
-3 Brash Taunter
-3 Shipwreck Dowser
 3 Storm's Wrath
 3 Scorching Dragonfire
 3 Neutralize
+3 Shipwreck Dowser
 3 Silundi Vision
+3 Brash Taunter
+3 Sublime Epiphany
 3 Mazemind Tome
 4 Radiant Fountain
 4 Scorching Dragonfire
@@ -79,19 +79,19 @@
 4 Jwari Disruption
 4 Mystical Dispute
 4 Essence Scatter
+1 Irencrag Pyromancer
 1 Sprite Dragon
+1 Experimental Overload
 1 Izzet Guildgate
 1 Niv-Mizzet, Parun
 1 Crackling Drake
 1 Winged Words
-1 Irencrag Pyromancer
-1 Experimental Overload
 1 God-Eternal Kefnet
 2 Crackling Drake
 2 Izzet Guildgate
 2 Sprite Dragon
-2 Winged Words
 2 Experimental Overload
+2 Winged Words
 3 Winged Words
 3 Crackling Drake
 3 Sprite Dragon
@@ -111,12 +111,12 @@
 1 Firemind's Research
 1 Bloodfell Caves
 1 Devious Cover-Up
-2 Cancel
 2 Heartless Act
 2 Dismal Backwater
 2 Negate
 2 Bloodfell Caves
 2 Devious Cover-Up
+2 Cancel
 3 Dismal Backwater
 3 Negate
 3 Bloodfell Caves

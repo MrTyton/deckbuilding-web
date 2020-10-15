@@ -48,6 +48,7 @@
 2 Snow-Covered Island
 1 Dark Confidant
 1 Thespian's Stage
+1 Mishra's Bauble
 1 Dark Depths
 1 Preordain
 1 Ponder
@@ -55,9 +56,9 @@
 1 Urborg, Tomb of Yawgmoth
 1 Castle Locthwain
 1 Vampire Hexmage
-1 Mishra's Bauble
 1 Thopter Foundry
 1 Gitaxian Probe
+2 Mishra's Bauble
 2 Dark Confidant
 2 Vampire Hexmage
 2 Preordain
@@ -65,7 +66,6 @@
 2 Chrome Mox
 2 Dark Depths
 2 Gitaxian Probe
-2 Mishra's Bauble
 2 Thopter Foundry
 2 Thespian's Stage
 2 Urborg, Tomb of Yawgmoth
@@ -140,8 +140,8 @@
 2 Balustrade Spy
 3 Creeping Chill
 3 Vengevine
-3 Sword of the Meek
 3 Undercity Informer
+3 Sword of the Meek
 3 Balustrade Spy
 3 Agadeem's Awakening
 4 Vengevine
@@ -172,26 +172,26 @@
 1 Spell Queller
 1 Wall of Omens
 1 Prismatic Vista
+1 Delay
 1 Fae of Wishes
 1 Sacred Foundry
 1 Chandra, Torch of Defiance
 1 Commandeer
 1 Narset of the Ancient Way
-1 Delay
 1 Reverse the Sands
 1 Snow-Covered Plains
 1 Drannith Magistrate
 1 Spellskite
 1 Possibility Storm
 2 Spell Queller
-2 Wall of Omens
 2 Snow-Covered Mountain
+2 Wall of Omens
 2 Snow-Covered Plains
 2 Fae of Wishes
-2 Prismatic Vista
-2 Drannith Magistrate
-2 Spellskite
 2 Delay
+2 Prismatic Vista
+2 Spellskite
+2 Drannith Magistrate
 2 Narset of the Ancient Way
 2 Possibility Storm
 2 Chandra, Torch of Defiance
@@ -203,46 +203,46 @@
 3 Wall of Omens
 3 Fae of Wishes
 3 Prismatic Vista
-3 Drannith Magistrate
 3 Arid Mesa
 3 Delay
+3 Drannith Magistrate
 3 Flooded Strand
 3 Snow-Covered Plains
 3 Possibility Storm
 3 Scalding Tarn
 4 Spell Queller
+4 Fae of Wishes
+4 Snow-Covered Island
+4 Drannith Magistrate
 4 Prismatic Vista
 4 Wall of Omens
-4 Snow-Covered Island
 4 Arid Mesa
 4 Scalding Tarn
-4 Fae of Wishes
-4 Drannith Magistrate
 4 Flooded Strand
 4 Snow-Covered Plains
 4 Delay
 5 Snow-Covered Island
 5 Snow-Covered Plains
 1 Silundi Vision
-1 Beyeen Veil
 1 Skyclave Cleric
 1 Jwari Disruption
 1 Talisman of Progress
 1 Disrupting Shoal
 1 Teferi, Hero of Dominaria
+1 Beyeen Veil
 1 Pieces of the Puzzle
 1 Path to Exile
 1 Selective Memory
 1 Snapback
-2 Beyeen Veil
 2 Silundi Vision
 2 Skyclave Cleric
-2 Jwari Disruption
 2 Talisman of Progress
+2 Jwari Disruption
 2 Disrupting Shoal
 2 Selective Memory
 2 Path to Exile
 2 Snapback
+2 Beyeen Veil
 2 Pieces of the Puzzle
 3 Talisman of Progress
 3 Jwari Disruption
@@ -276,6 +276,14 @@
 3 Omen of the Sea
 3 Relic of Progenitus
 3 Darkslick Shores
+1 Sphere of the Suns
+1 Wild Cantor
+2 Wild Cantor
+2 Sphere of the Suns
+3 Wild Cantor
+3 Sphere of the Suns
+4 Wild Cantor
+4 Sword of the Meek
 1 Akoum Warrior
 2 Akoum Warrior
 2 Veil of Summer
@@ -294,16 +302,8 @@
 4 Leyline of Sanctity
 3 Pact of Negation
 4 Pact of Negation
-1 Sphere of the Suns
-1 Wild Cantor
-2 Sphere of the Suns
-2 Wild Cantor
-3 Wild Cantor
-3 Sphere of the Suns
-4 Wild Cantor
-4 Sword of the Meek
-1 Godless Shrine
 1 Mission Briefing
+1 Godless Shrine
 1 Blood Crypt
 1 Rakdos Charm
 1 Bloodstained Mire
@@ -364,14 +364,14 @@
 4 Spoils of the Vault
 4 Angel's Grace
 1 Stomping Ground
+1 Through the Breach
 1 Gemstone Caverns
 1 Vizier of Remedies
 1 Emrakul, the Aeons Torn
-1 Through the Breach
 1 Wooded Foothills
 1 Windswept Heath
-1 Elesh Norn, Grand Cenobite
 1 Charming Prince
+1 Elesh Norn, Grand Cenobite
 1 Flickerwisp
 1 Dubious Challenge
 1 Temple Garden
@@ -380,10 +380,10 @@
 1 Forest
 1 Utopia Sprawl
 1 Eladamri's Call
+2 Through the Breach
 2 Devoted Druid
 2 Emrakul, the Aeons Torn
 2 Forest
-2 Through the Breach
 2 Flickerwisp
 2 Wooded Foothills
 2 Windswept Heath
@@ -398,9 +398,9 @@
 2 Eladamri's Call
 2 Temple Garden
 3 Charming Prince
+3 Through the Breach
 3 Devoted Druid
 3 Emrakul, the Aeons Torn
-3 Through the Breach
 3 Windswept Heath
 3 Dubious Challenge
 3 Eladamri's Call
@@ -409,9 +409,9 @@
 3 Utopia Sprawl
 4 Charming Prince
 4 Windswept Heath
+4 Through the Breach
 4 Devoted Druid
 4 Emrakul, the Aeons Torn
-4 Through the Breach
 4 Utopia Sprawl
 4 Flickerwisp
 4 Dubious Challenge

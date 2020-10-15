@@ -131,6 +131,6 @@
 |                    2|[Village Rites](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485449)               |                     |                                                                                                     |
 |                    2|Sea Gate Stormcaller                                                                                   |                     |                                                                                                     |
 |                    3|[Village Rites](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485449)               |                     |                                                                                                     |
-|                    4|Sea Gate Stormcaller                                                                                   |                     |                                                                                                     |
 |                    3|Sea Gate Stormcaller                                                                                   |                     |                                                                                                     |
+|                    4|Sea Gate Stormcaller                                                                                   |                     |                                                                                                     |
 

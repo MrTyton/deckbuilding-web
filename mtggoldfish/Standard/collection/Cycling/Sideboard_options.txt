@@ -14,18 +14,14 @@
 3 Fight as One
 1 Embereth Shieldbreaker
 2 Embereth Shieldbreaker
-1 Shock
-2 Selfless Savior
-2 Shock
-4 Fight as One
 1 Glass Casket
 2 Glass Casket
 1 Gemrazer
 1 Archon of Emeria
 2 Gemrazer
 2 Archon of Emeria
-3 Gemrazer
 3 Archon of Emeria
+3 Gemrazer
 1 Garruk's Harbinger
 2 Garruk's Harbinger
 3 Garruk's Harbinger
@@ -33,6 +29,10 @@
 2 Basri Ket
 3 Basri Ket
 4 Archon of Emeria
+1 Shock
+2 Selfless Savior
+2 Shock
+4 Fight as One
 1 Containment Priest
 2 Containment Priest
 1 Claim the Firstborn
@@ -43,43 +43,47 @@
 1 Chainweb Aracnir
 2 Chainweb Aracnir
 1 Primal Might
-1 Banishing Light
 1 Shatter the Sky
-1 Elder Gargaroth
 1 Questing Beast
+1 Banishing Light
+1 Elder Gargaroth
 2 Primal Might
 2 Scavenging Ooze
-2 Banishing Light
-2 Elder Gargaroth
 2 Shatter the Sky
 2 Questing Beast
+2 Elder Gargaroth
+2 Banishing Light
 2 Deafening Silence
 2 Spikefield Hazard
 2 Claim the Firstborn
-1 Confounding Conundrum
 1 Roiling Vortex
+1 Confounding Conundrum
 2 Roiling Vortex
 1 Robber of the Rich
 1 Kazuul's Fury
 2 Robber of the Rich
 3 Robber of the Rich
+1 Skyclave Apparition
+1 Destiny Spinner
+1 Erebos's Intervention
+1 Heartless Act
+1 Wilt
+2 Skyclave Apparition
+2 Destiny Spinner
+2 Wilt
+2 Heartless Act
+3 Heartless Act
+3 Skyclave Apparition
+3 Destiny Spinner
+3 Containment Priest
 1 Basri's Lieutenant
 1 Felidar Retreat
 3 Chainweb Aracnir
 3 Glass Casket
-1 Skyclave Apparition
-1 Erebos's Intervention
-1 Heartless Act
-1 Wilt
-1 Destiny Spinner
-2 Skyclave Apparition
-2 Heartless Act
-2 Wilt
-2 Destiny Spinner
-3 Skyclave Apparition
-3 Heartless Act
-3 Containment Priest
-3 Destiny Spinner
+2 Drannith Magistrate
+3 Drannith Magistrate
+3 Embereth Shieldbreaker
+4 Embereth Shieldbreaker
 1 Jolrael, Mwonvuli Recluse
 2 Jolrael, Mwonvuli Recluse
 2 Disenchant
@@ -87,17 +91,13 @@
 3 Scorching Dragonfire
 3 Disenchant
 4 Scorching Dragonfire
-2 Drannith Magistrate
-3 Drannith Magistrate
-3 Embereth Shieldbreaker
-4 Embereth Shieldbreaker
 1 Giant Killer
 1 Oakhame Adversary
 2 Giant Killer
 2 Oakhame Adversary
-3 Giant Killer
 3 Oakhame Adversary
+3 Giant Killer
 4 Garruk's Harbinger
+4 Oakhame Adversary
 4 Giant Killer
 2 Lurrus of the Dream-Den
-4 Oakhame Adversary

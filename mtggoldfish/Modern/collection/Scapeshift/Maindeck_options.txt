@@ -37,11 +37,11 @@
 3 Wooded Foothills
 1 Temple Garden
 1 Sejiri Steppe
-1 Sejiri Shelter
 1 Flagstones of Trokair
 1 Brushfire Elemental
 1 Atarka's Command
 1 Akoum Hellhound
+1 Sejiri Shelter
 1 Windswept Heath
 1 Mishra's Bauble
 1 Arid Mesa
@@ -131,29 +131,29 @@
 1 Search for Azcanta
 1 Abundant Growth
 2 Ice-Fang Coatl
-2 Search for Azcanta
 2 Arboreal Grazer
+2 Search for Azcanta
 2 Abundant Growth
 3 Ice-Fang Coatl
 3 Mystic Sanctuary
 3 Abundant Growth
-4 Snow-Covered Island
 4 Ice-Fang Coatl
+4 Snow-Covered Island
 4 Abundant Growth
 5 Snow-Covered Island
 1 Vendilion Clique
 1 Shark Typhoon
 2 Abrupt Decay
 2 Shark Typhoon
-1 Courser of Kruphix
-1 Sheltered Thicket
 1 Platinum Emperion
 1 Madcap Experiment
 1 Terminate
-1 Obstinate Baloth
+1 Courser of Kruphix
 1 Thoughtseize
 1 Sultai Charm
 1 Anger of the Gods
+1 Sheltered Thicket
+1 Obstinate Baloth
 1 Cinder Glade
 2 Snow-Covered Mountain
 2 Obstinate Baloth
@@ -169,34 +169,14 @@
 2 Surgical Extraction
 3 Surgical Extraction
 1 Hallowed Fountain
+1 Mwonvuli Acid-Moss
 1 Teferi, Time Raveler
 1 Snow-Covered Plains
 1 Path to Exile
-1 Mwonvuli Acid-Moss
 1 Supreme Verdict
 2 Teferi, Time Raveler
 2 Path to Exile
 3 Path to Exile
-1 Botanical Sanctum
-1 Jace, the Mind Sculptor
-2 Botanical Sanctum
-3 Botanical Sanctum
-3 Prismatic Vista
-4 Botanical Sanctum
-1 Explore
-1 Peer Through Depths
-1 Jwari Disruption
-1 Farseek
-2 Explore
-2 Peer Through Depths
-2 Jwari Disruption
-2 Farseek
-3 Jwari Disruption
-4 Jwari Disruption
-4 Censor
-2 Flame Slash
-2 Brazen Borrower
-4 Wrenn and Six
 1 Verdant Catacombs
 1 Maddening Cacophony
 2 Verdant Catacombs
@@ -204,3 +184,23 @@
 2 Swamp
 3 Verdant Catacombs
 4 Verdant Catacombs
+1 Farseek
+1 Peer Through Depths
+1 Jwari Disruption
+1 Explore
+2 Farseek
+2 Jwari Disruption
+2 Peer Through Depths
+2 Explore
+3 Jwari Disruption
+4 Jwari Disruption
+1 Jace, the Mind Sculptor
+1 Botanical Sanctum
+2 Botanical Sanctum
+3 Prismatic Vista
+3 Botanical Sanctum
+4 Botanical Sanctum
+4 Censor
+2 Flame Slash
+2 Brazen Borrower
+4 Wrenn and Six
