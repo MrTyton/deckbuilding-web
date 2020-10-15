@@ -1,37 +1,34 @@
-2 Tajic, Legion's Edge
 2 Knight of the Ebon Legion
+2 Tajic, Legion's Edge
+3 Fabled Passage
 1 Legion Warboss
 2 Legion Warboss
-3 Fabled Passage
 4 Savai Triome
-4 Venerated Loxodon
 1 General Kudro of Drannith
 2 General Kudro of Drannith
 2 General's Enforcer
 1 Temple of Silence
-2 Temple of Triumph
+4 Lazotep Reaver
+4 Venerated Loxodon
 1 Stonecoil Serpent
 2 Stonecoil Serpent
+2 Temple of Triumph
 3 Mountain
 4 Mountain
 4 Plains
-4 Lazotep Reaver
-5 Plains
-6 Plains
-7 Plains
-3 Temple of Triumph
-4 Temple of Triumph
 1 Haktos the Unscarred
-8 Plains
 1 Seasoned Hallowblade
 2 Haktos the Unscarred
 2 Seasoned Hallowblade
 3 Seasoned Hallowblade
 4 Seasoned Hallowblade
 5 Mountain
+5 Plains
 6 Mountain
-3 Legion Warboss
-3 Stonecoil Serpent
+6 Plains
+7 Plains
+3 Temple of Triumph
+4 Temple of Triumph
 1 Embercleave
 2 Embercleave
 1 Spikefield Hazard
@@ -40,9 +37,7 @@
 2 Needleverge Pathway
 3 Needleverge Pathway
 4 Needleverge Pathway
-4 Legion Warboss
-1 Alseid of Life's Bounty
-4 Stonecoil Serpent
+8 Plains
 1 Kargan Intimidator
 1 Skyclave Apparition
 1 Bonecrusher Giant
@@ -59,10 +54,13 @@
 3 Bonecrusher Giant
 4 Bonecrusher Giant
 4 Kargan Intimidator
+3 Stonecoil Serpent
 3 Haktos the Unscarred
+3 Legion Warboss
 2 Temple of Silence
 2 Swamp
 4 Fabled Passage
+1 Alseid of Life's Bounty
 1 Nahiri, Heir of the Ancients
 1 Emeria's Call
 2 Alseid of Life's Bounty
@@ -76,16 +74,16 @@
 1 Pack Leader
 1 Taranika, Akroan Veteran
 1 Storm's Wrath
-1 Igneous Cur
 1 Alpine Watchdog
+1 Igneous Cur
 1 Alpine Houndmaster
 1 Luminous Broodmoth
 1 Shatter the Sky
 2 Pack Leader
 2 Taranika, Akroan Veteran
 2 Luminous Broodmoth
-2 Alpine Watchdog
 2 Igneous Cur
+2 Alpine Watchdog
 2 Alpine Houndmaster
 2 Shatter the Sky
 3 Pack Leader
@@ -103,8 +101,9 @@
 3 Branchloft Pathway
 3 Brightclimb Pathway
 3 Skyclave Apparition
-4 Branchloft Pathway
 4 Shatterskull Smashing
+4 Stonecoil Serpent
+4 Branchloft Pathway
 4 Brightclimb Pathway
 4 Skyclave Apparition
 1 Fervent Champion
@@ -131,8 +130,8 @@
 1 Serrated Scorpion
 1 Castle Locthwain
 2 Castle Locthwain
-2 Lurrus of the Dream-Den
 2 Priest of Forgotten Gods
+2 Lurrus of the Dream-Den
 2 Gutterbones
 2 Mayhem Devil
 2 Serrated Scorpion
@@ -144,23 +143,16 @@
 4 Woe Strider
 4 Priest of Forgotten Gods
 4 Mayhem Devil
-1 Tithe Taker
-2 Castle Embereth
-2 Tithe Taker
-3 Tithe Taker
-3 Castle Embereth
-3 Tajic, Legion's Edge
-4 Tithe Taker
-4 Castle Embereth
 1 Grim Initiate
 2 Grim Initiate
 3 Grim Initiate
+4 Legion Warboss
 4 Grim Initiate
 7 Mountain
 1 Garrison Cat
-1 Faerie Guidemother
 1 Seven Dwarves
 1 Giant Killer
+1 Faerie Guidemother
 2 Garrison Cat
 2 Seven Dwarves
 3 Garrison Cat
@@ -174,8 +166,8 @@
 1 Temple Garden
 1 Hallowed Fountain
 1 Arboreal Grazer
-1 Agent of Treachery
 1 Paradise Druid
+1 Agent of Treachery
 1 Oko, Thief of Crowns
 1 Gilded Goose
 1 Charming Prince
@@ -204,9 +196,9 @@
 3 Stomping Ground
 3 Gilded Goose
 3 Hallowed Fountain
+4 Hallowed Fountain
 4 Oko, Thief of Crowns
 4 Gilded Goose
-4 Hallowed Fountain
 4 Temple Garden
 4 Stomping Ground
 4 Breeding Pool

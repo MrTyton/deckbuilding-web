@@ -1,3 +1,8 @@
+4 Soul-Scar Mage
+1 Lava Dart
+2 Lava Dart
+3 Lava Dart
+4 Lava Dart
 4 Mountain
 5 Mountain
 6 Mountain
@@ -14,7 +19,6 @@
 2 Firebolt
 4 Light Up the Stage
 13 Mountain
-2 Fiery Islet
 1 Seasoned Pyromancer
 1 Bonecrusher Giant
 2 Bonecrusher Giant
@@ -28,47 +32,43 @@
 2 Blistercoil Weird
 3 Blistercoil Weird
 4 Blistercoil Weird
-4 Firebolt
-1 Flame Slash
-2 Flame Slash
-1 Skewer the Critics
-2 Skewer the Critics
-14 Mountain
-2 Bloodstained Mire
-2 Arid Mesa
 3 Skewer the Critics
 4 Skewer the Critics
-15 Mountain
-16 Mountain
-17 Mountain
 1 Wooded Foothills
 2 Wooded Foothills
 3 Lightning Helix
-1 Burst Lightning
+4 Firebolt
+1 Flame Slash
+2 Flame Slash
+14 Mountain
+15 Mountain
+16 Mountain
+17 Mountain
 3 Flame Slash
 4 Flame Slash
-1 Scalding Tarn
 3 Bloodstained Mire
-2 Burst Lightning
-18 Mountain
+1 Scalding Tarn
 3 Arid Mesa
 4 Arid Mesa
+3 Fiery Islet
+18 Mountain
+1 Burst Lightning
 1 Forgotten Cave
 2 Forgotten Cave
+4 Bloodstained Mire
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
 4 Manamorphose
-3 Fiery Islet
 4 Fiery Islet
 3 Wooded Foothills
 4 Lightning Helix
-4 Bloodstained Mire
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep
 3 Abbot of Keral Keep
 4 Abbot of Keral Keep
 1 Spikefield Hazard
+2 Burst Lightning
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -91,6 +91,14 @@
 1 Kiln Fiend
 2 Kiln Fiend
 3 Kiln Fiend
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
+4 Mishra's Bauble
+1 Blood Crypt
+1 Blackcleave Cliffs
+2 Blood Crypt
+2 Blackcleave Cliffs
 1 Roiling Vortex
 2 Roiling Vortex
 1 Gut Shot
@@ -98,6 +106,9 @@
 2 Gut Shot
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
+1 Path to Exile
+2 Path to Exile
+3 Path to Exile
 3 Skullcrack
 4 Skullcrack
 1 Wild Slash
@@ -119,21 +130,24 @@
 2 Chandra's Incinerator
 3 Chandra's Incinerator
 4 Chandra's Incinerator
-1 Mishra's Bauble
-1 Path to Exile
-2 Mishra's Bauble
-2 Path to Exile
-3 Path to Exile
-3 Mishra's Bauble
-4 Mishra's Bauble
-1 Blood Crypt
+1 Shard Volley
+1 Bump in the Night
+1 Scourge of the Skyclaves
+1 Fatal Push
+1 Cling to Dust
+2 Bump in the Night
+2 Scourge of the Skyclaves
+2 Fatal Push
+2 Shard Volley
+3 Scourge of the Skyclaves
+3 Bump in the Night
+3 Blood Crypt
+4 Bump in the Night
+4 Scourge of the Skyclaves
 1 Temur Battle Rage
-1 Blackcleave Cliffs
 1 Thoughtseize
 2 Temur Battle Rage
-2 Blood Crypt
 2 Thoughtseize
-2 Blackcleave Cliffs
 3 Thoughtseize
 3 Blackcleave Cliffs
 4 Kiln Fiend

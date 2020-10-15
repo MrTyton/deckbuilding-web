@@ -15,21 +15,21 @@
 1 Emeria's Call
 1 Temple of Plenty
 1 Luminarch Aspirant
-1 Branchloft Pathway
 1 Conclave Mentor
+1 Branchloft Pathway
 1 Forest
 2 Luminarch Aspirant
-2 Forest
-2 Branchloft Pathway
 2 Conclave Mentor
-3 Branchloft Pathway
-3 Conclave Mentor
-3 Forest
+2 Branchloft Pathway
+2 Forest
 3 Luminarch Aspirant
-4 Conclave Mentor
-4 Forest
+3 Conclave Mentor
+3 Branchloft Pathway
+3 Forest
 4 Luminarch Aspirant
 4 Branchloft Pathway
+4 Conclave Mentor
+4 Forest
 1 Stonecoil Serpent
 1 Swarm Shambler
 2 Stonecoil Serpent
@@ -71,8 +71,8 @@
 3 Fabled Passage
 1 Giant Killer
 1 Khalni Ambush
-2 Emeria's Call
 2 Giant Killer
+2 Emeria's Call
 4 Oran-Rief Ooze
 7 Mountain
 10 Plains
@@ -85,28 +85,49 @@
 2 Vastwood Fortification
 1 The Great Henge
 1 Kazuul's Fury
-1 Clearwater Pathway
-2 Clearwater Pathway
 1 Raugrin Triome
 2 Raugrin Triome
+1 Clearwater Pathway
+2 Clearwater Pathway
 2 Shatterskull Smashing
 3 Sejiri Shelter
-1 Lurrus of the Dream-Den
 1 Temple of Enlightenment
+1 Lurrus of the Dream-Den
 1 Ominous Seas
 1 Wind-Scarred Crag
 1 Tranquil Cove
-2 Tranquil Cove
 2 Temple of Triumph
+2 Tranquil Cove
 2 Ominous Seas
 3 Ominous Seas
-1 Turntimber Symbiosis
 1 Crawling Barrens
+1 Turntimber Symbiosis
 1 Crystalline Giant
 1 Inscription of Abundance
 2 Crystalline Giant
 3 Primal Might
 3 Crystalline Giant
+1 Cleric of Life's Bond
+1 Indatha Triome
+1 Grakmaw, Skyclave Ravager
+1 Eliminate
+1 Castle Locthwain
+1 Hagra Constrictor
+1 Garruk's Harbinger
+2 Cleric of Life's Bond
+2 Grakmaw, Skyclave Ravager
+2 Indatha Triome
+2 Eliminate
+2 Garruk's Harbinger
+2 Hagra Constrictor
+2 The Great Henge
+3 Cleric of Life's Bond
+3 Indatha Triome
+3 Garruk's Harbinger
+3 The Great Henge
+3 Grakmaw, Skyclave Ravager
+3 Hagra Constrictor
+4 Indatha Triome
 1 Basri Ket
 1 Felidar Retreat
 2 Felidar Retreat
@@ -114,27 +135,6 @@
 3 Selfless Savior
 4 Fabled Passage
 4 Selfless Savior
-1 Eliminate
-1 Garruk's Harbinger
-1 Cleric of Life's Bond
-1 Castle Locthwain
-1 Grakmaw, Skyclave Ravager
-1 Indatha Triome
-1 Hagra Constrictor
-2 Eliminate
-2 Cleric of Life's Bond
-2 Garruk's Harbinger
-2 Grakmaw, Skyclave Ravager
-2 Hagra Constrictor
-2 Indatha Triome
-2 The Great Henge
-3 Cleric of Life's Bond
-3 Garruk's Harbinger
-3 The Great Henge
-3 Grakmaw, Skyclave Ravager
-3 Hagra Constrictor
-3 Indatha Triome
-4 Indatha Triome
 1 Island
 1 Temple of Mystery
 1 Temple of Malady
@@ -145,13 +145,13 @@
 3 Island
 4 Island
 4 Boon of the Wish-Giver
-1 Gemrazer
-1 Ram Through
-1 Wildwood Scourge
 1 Chainweb Aracnir
+1 Ram Through
+1 Gemrazer
+1 Wildwood Scourge
 2 Ram Through
-2 Gemrazer
 2 Chainweb Aracnir
+2 Gemrazer
 2 Wildwood Scourge
 3 Ram Through
 3 Wildwood Scourge

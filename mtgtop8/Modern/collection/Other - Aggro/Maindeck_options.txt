@@ -1,61 +1,3 @@
-1 Marsh Flats
-1 Silent Clearing
-1 Watery Grave
-1 Godless Shrine
-1 Mutavault
-1 Smuggler's Copter
-1 Selfless Spirit
-1 Force of Virtue
-1 Geist of Saint Traft
-1 Island
-1 Empyrean Eagle
-1 Aether Vial
-1 Moorland Haunt
-1 Deputy of Detention
-1 Spell Queller
-1 Flooded Strand
-1 Mausoleum Wanderer
-1 Brazen Borrower
-1 Seachrome Coast
-1 Hallowed Fountain
-1 Polluted Delta
-1 Supreme Phantom
-1 Path to Exile
-1 Squadron Hawk
-2 Island
-2 Mutavault
-2 Geist of Saint Traft
-2 Selfless Spirit
-2 Aether Vial
-2 Supreme Phantom
-2 Empyrean Eagle
-2 Force of Virtue
-2 Path to Exile
-2 Mausoleum Wanderer
-2 Flooded Strand
-2 Squadron Hawk
-2 Polluted Delta
-2 Seachrome Coast
-2 Spell Queller
-3 Path to Exile
-3 Spell Queller
-3 Supreme Phantom
-3 Seachrome Coast
-3 Squadron Hawk
-3 Mausoleum Wanderer
-3 Force of Virtue
-3 Flooded Strand
-3 Empyrean Eagle
-3 Aether Vial
-4 Aether Vial
-4 Path to Exile
-4 Empyrean Eagle
-4 Flooded Strand
-4 Squadron Hawk
-4 Mausoleum Wanderer
-4 Supreme Phantom
-4 Spell Queller
-4 Force of Virtue
 1 Mountain
 1 Wooded Foothills
 1 Stomping Ground
@@ -75,12 +17,12 @@
 1 Golgari Thug
 1 Merchant of the Vale
 1 Stinkweed Imp
-1 Forgotten Cave
 1 Narcomoeba
 1 Silversmote Ghoul
 1 Cathartic Reunion
-1 Copperline Gorge
 1 Ox of Agonas
+1 Copperline Gorge
+1 Forgotten Cave
 1 Life from the Loam
 1 Creeping Chill
 1 Prized Amalgam
@@ -101,21 +43,21 @@
 3 Ox of Agonas
 3 Silversmote Ghoul
 3 Prized Amalgam
+3 Cathartic Reunion
 3 Life from the Loam
 3 Stinkweed Imp
 3 Shriekhorn
 3 Narcomoeba
 3 Creeping Chill
-3 Cathartic Reunion
 3 Merchant of the Vale
 4 Arid Mesa
 4 Silversmote Ghoul
+4 Cathartic Reunion
 4 Prized Amalgam
 4 Creeping Chill
 4 Life from the Loam
 4 Stinkweed Imp
 4 Shriekhorn
-4 Cathartic Reunion
 1 Lightning Bolt
 2 Lightning Bolt
 3 Lightning Bolt
@@ -128,11 +70,11 @@
 1 Light Up the Stage
 1 Stormwing Entity
 1 Spirebluff Canal
-1 Scalding Tarn
-1 Opt
-1 Soul-Scar Mage
 1 Mutagenic Growth
+1 Opt
 1 Lava Dart
+1 Scalding Tarn
+1 Soul-Scar Mage
 1 Manamorphose
 1 Monastery Swiftspear
 2 Sprite Dragon
@@ -159,10 +101,10 @@
 3 Stormwing Entity
 3 Manamorphose
 3 Monastery Swiftspear
-3 Opt
-3 Scalding Tarn
-3 Soul-Scar Mage
 3 Spirebluff Canal
+3 Scalding Tarn
+3 Opt
+3 Soul-Scar Mage
 3 Lava Dart
 4 Lava Dart
 4 Stormwing Entity
@@ -171,16 +113,76 @@
 4 Monastery Swiftspear
 4 Scalding Tarn
 4 Soul-Scar Mage
+1 Watery Grave
+1 Carrion Feeder
+1 Swamp
+1 Cryptbreaker
+1 Village Rites
+1 Gravecrawler
+1 Murderous Rider
+1 Soul Diviner
+1 Aether Vial
+1 Fatal Push
+1 Polluted Delta
+1 Geralf's Messenger
+1 Cavern of Souls
+1 Dread Wanderer
+1 Darkslick Shores
+1 Agadeem's Awakening
+1 Diregraf Captain
+1 Undead Augur
+1 Plague Belcher
+2 Cavern of Souls
+2 Watery Grave
+2 Carrion Feeder
+2 Village Rites
+2 Agadeem's Awakening
+2 Gravecrawler
+2 Murderous Rider
+2 Geralf's Messenger
+2 Aether Vial
+2 Plague Belcher
+2 Dread Wanderer
+2 Soul Diviner
+2 Darkslick Shores
+2 Diregraf Captain
+2 Swamp
+2 Polluted Delta
+2 Fatal Push
+2 Undead Augur
+2 Cryptbreaker
+3 Carrion Feeder
+3 Gravecrawler
+3 Watery Grave
+3 Polluted Delta
+3 Diregraf Captain
+3 Fatal Push
+3 Geralf's Messenger
+3 Swamp
+3 Aether Vial
+3 Undead Augur
+4 Aether Vial
+4 Watery Grave
+4 Carrion Feeder
+4 Fatal Push
+4 Diregraf Captain
+4 Gravecrawler
+4 Polluted Delta
+4 Swamp
+4 Undead Augur
+4 Geralf's Messenger
+5 Swamp
+6 Swamp
 1 Misty Rainforest
 1 Wrenn and Six
 1 Elder Gargaroth
 1 Blood Moon
 1 Klothys, God of Destiny
-1 Questing Beast
 1 Bloodbraid Elf
 1 Bonecrusher Giant
-1 Chandra, Torch of Defiance
 1 Pillage
+1 Chandra, Torch of Defiance
+1 Questing Beast
 1 Seasoned Pyromancer
 2 Blood Moon
 2 Bonecrusher Giant
@@ -193,8 +195,8 @@
 3 Pillage
 3 Klothys, God of Destiny
 3 Seasoned Pyromancer
-3 Blood Moon
 3 Stomping Ground
+3 Blood Moon
 3 Bloodbraid Elf
 3 Wooded Foothills
 4 Pillage

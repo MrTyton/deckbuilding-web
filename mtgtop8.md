@@ -36,7 +36,7 @@
 |[45c Good Stuff](./mtgtop8/Modern/decks/45c_Good_Stuff.md)      |[Dredge](./mtgtop8/Modern/decks/Dredge.md)                  |[Infect](./mtgtop8/Modern/decks/Infect.md)                        |[Other - Control](./mtgtop8/Modern/decks/Other_-_Control.md)|[UB Mill](./mtgtop8/Modern/decks/UB_Mill.md)          |
 |[Ad Nauseam](./mtgtop8/Modern/decks/Ad_Nauseam.md)              |[Eldrazi Aggro](./mtgtop8/Modern/decks/Eldrazi_Aggro.md)    |[Jeskai Control](./mtgtop8/Modern/decks/Jeskai_Control.md)        |[Rakdos Aggro](./mtgtop8/Modern/decks/Rakdos_Aggro.md)      |[UR Aggro](./mtgtop8/Modern/decks/UR_Aggro.md)        |
 |[Allosaurus Combo](./mtgtop8/Modern/decks/Allosaurus_Combo.md)  |[Elemental](./mtgtop8/Modern/decks/Elemental.md)            |[Jund](./mtgtop8/Modern/decks/Jund.md)                            |[Red Deck Wins](./mtgtop8/Modern/decks/Red_Deck_Wins.md)    |[UR Control](./mtgtop8/Modern/decks/UR_Control.md)    |
-|[Amulet Titan](./mtgtop8/Modern/decks/Amulet_Titan.md)          |[Elves](./mtgtop8/Modern/decks/Elves.md)                    |[Living End](./mtgtop8/Modern/decks/Living_End.md)                |[Scapeshift](./mtgtop8/Modern/decks/Scapeshift.md)          |[UR Storm](./mtgtop8/Modern/decks/UR_Storm.md)        |
+|[Amulet Titan](./mtgtop8/Modern/decks/Amulet_Titan.md)          |[Elves](./mtgtop8/Modern/decks/Elves.md)                    |[Junk](./mtgtop8/Modern/decks/Junk.md)                            |[Scapeshift](./mtgtop8/Modern/decks/Scapeshift.md)          |[UR Storm](./mtgtop8/Modern/decks/UR_Storm.md)        |
 |[Aura Hexproof](./mtgtop8/Modern/decks/Aura_Hexproof.md)        |[Esper Control](./mtgtop8/Modern/decks/Esper_Control.md)    |[Martyr Life](./mtgtop8/Modern/decks/Martyr_Life.md)              |[Selesnya Aggro](./mtgtop8/Modern/decks/Selesnya_Aggro.md)  |[UW Control](./mtgtop8/Modern/decks/UW_Control.md)    |
 |[BUG Control](./mtgtop8/Modern/decks/BUG_Control.md)            |[Faeries](./mtgtop8/Modern/decks/Faeries.md)                |[Merfolk](./mtgtop8/Modern/decks/Merfolk.md)                      |[Slivers](./mtgtop8/Modern/decks/Slivers.md)                |[UWx Midrange](./mtgtop8/Modern/decks/UWx_Midrange.md)|
 |[Bant Aggro](./mtgtop8/Modern/decks/Bant_Aggro.md)              |[Goblins](./mtgtop8/Modern/decks/Goblins.md)                |[Mono Black Control](./mtgtop8/Modern/decks/Mono_Black_Control.md)|[Smallpox](./mtgtop8/Modern/decks/Smallpox.md)              |[UrzaTron](./mtgtop8/Modern/decks/UrzaTron.md)        |
@@ -66,4 +66,4 @@
 
 
 
-#### Last Updated at 08:55PM on October 14, 2020
+#### Last Updated at 05:25AM on October 15, 2020

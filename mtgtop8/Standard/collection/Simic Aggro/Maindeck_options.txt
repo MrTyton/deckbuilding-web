@@ -27,16 +27,21 @@
 1 Ketria Triome
 1 Thornwood Falls
 2 Thornwood Falls
+3 Shark Typhoon
 1 Sea-Dasher Octopus
 2 Essence Scatter
 2 Rewind
 2 Sea-Dasher Octopus
 2 Negate
-3 Sinister Sabotage
 3 Sea-Dasher Octopus
-3 Shark Typhoon
-1 Neutralize
+3 Sinister Sabotage
+2 Ketria Triome
+3 Quench
+3 Mystical Dispute
+3 Ketria Triome
+4 Nissa, Who Shakes the World
 1 Unsubstantiate
+1 Neutralize
 1 Thassa's Intervention
 1 Cunning Nightbonder
 1 Wildborn Preserver
@@ -44,34 +49,29 @@
 2 Thassa's Intervention
 2 Wildborn Preserver
 2 Unsummon
-3 Thornwood Falls
 3 Opt
-4 Thornwood Falls
+3 Thornwood Falls
 4 Opt
-2 Ketria Triome
-3 Quench
-3 Mystical Dispute
-3 Ketria Triome
-4 Nissa, Who Shakes the World
+4 Thornwood Falls
 1 Sublime Epiphany
 1 Arboreal Grazer
+1 Zagoth Triome
 1 Gilded Goose
-1 Hydroid Krasis
-1 Nyxbloom Ancient
 1 Leafkin Druid
 1 Castle Garenbrig
 1 Risen Reef
-1 Zagoth Triome
+1 Hydroid Krasis
+1 Nyxbloom Ancient
 1 Fae of Wishes
 1 Cavalier of Thorns
 1 Quasiduplicate
 2 Arboreal Grazer
 2 Gilded Goose
-2 Hydroid Krasis
 2 Leafkin Druid
 2 Quasiduplicate
 2 Castle Garenbrig
 2 Risen Reef
+2 Hydroid Krasis
 2 Nyxbloom Ancient
 2 Fae of Wishes
 2 Cavalier of Thorns
@@ -88,23 +88,23 @@
 4 Castle Garenbrig
 4 Fae of Wishes
 4 Risen Reef
-1 Cultivate
 1 Maraleaf Pixie
 1 Ilysian Caryatid
 1 Heroic Intervention
+1 Cultivate
 1 Thorn Mammoth
 1 Dream Trawler
-1 Kiora Bests the Sea God
-1 Midnight Clock
 1 Discontinuity
+1 Midnight Clock
+1 Kiora Bests the Sea God
 1 Yorvo, Lord of Garenbrig
 1 Chromatic Orrery
 1 Treeshaker Chimera
 1 Garruk's Harbinger
-2 Cultivate
 2 Maraleaf Pixie
 2 Ilysian Caryatid
 2 Sublime Epiphany
+2 Cultivate
 2 Heroic Intervention
 2 Midnight Clock
 2 Kiora Bests the Sea God
@@ -112,11 +112,11 @@
 2 Garruk's Harbinger
 3 Cultivate
 3 Ilysian Caryatid
-3 Heroic Intervention
 3 Midnight Clock
+3 Heroic Intervention
 3 Maraleaf Pixie
 3 Discontinuity
-4 Ilysian Caryatid
 4 Cultivate
+4 Ilysian Caryatid
 10 Forest
 11 Forest

@@ -7,9 +7,7 @@
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
-1 Snow-Covered Swamp
 3 Archmage's Charm
-1 Assassin's Trophy
 1 Go for the Throat
 1 Damnation
 1 Wilderness Reclamation
@@ -18,12 +16,10 @@
 2 Wilderness Reclamation
 3 Fact or Fiction
 3 Remand
-1 Dismember
-1 Opt
-2 Opt
-3 Opt
+1 Snow-Covered Swamp
 2 Forest
 1 Verdant Catacombs
+1 Assassin's Trophy
 3 Snapcaster Mage
 1 Bloodchief's Thirst
 1 Lumbering Falls
@@ -31,28 +27,32 @@
 1 Hour of Promise
 1 Life from the Loam
 1 Ghost Quarter
-1 Ice-Fang Coatl
-1 Dead of Winter
-2 Ice-Fang Coatl
-2 Dead of Winter
-3 Ice-Fang Coatl
-3 Snow-Covered Island
-4 Ice-Fang Coatl
+1 Dismember
+1 Opt
+2 Opt
+3 Opt
 2 Verdant Catacombs
 1 Tarmogoyf
-2 Watery Grave
 2 Tarmogoyf
+2 Watery Grave
 3 Tarmogoyf
 1 Prismatic Vista
 2 Assassin's Trophy
+1 Ice-Fang Coatl
 1 Creeping Tar Pit
 1 Vendilion Clique
 1 Cremate
+1 Dead of Winter
 2 Snow-Covered Forest
+2 Ice-Fang Coatl
 2 Abrupt Decay
 2 Creeping Tar Pit
+2 Dead of Winter
 2 Vendilion Clique
+3 Ice-Fang Coatl
+3 Snow-Covered Island
 3 Vendilion Clique
+4 Ice-Fang Coatl
 4 Force of Negation
 1 Scalding Tarn
 1 Oboro, Palace in the Clouds
@@ -66,10 +66,6 @@
 4 Archmage's Charm
 1 Search for Azcanta
 4 Remand
-2 Flooded Strand
-4 Snow-Covered Island
-4 Opt
-5 Snow-Covered Island
 1 Thought Scour
 1 Nurturing Peatland
 1 Thoughtseize

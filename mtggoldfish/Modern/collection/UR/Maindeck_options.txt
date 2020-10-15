@@ -58,18 +58,39 @@
 4 Thing in the Ice
 1 Swamp
 1 Shark Typhoon
-1 Bloodchief's Thirst
-1 Tasigur, the Golden Fang
-1 Fatal Push
-1 Drown in the Loch
 1 Watery Grave
+1 Bloodchief's Thirst
+1 Fatal Push
+1 Tasigur, the Golden Fang
+1 Drown in the Loch
 2 Shark Typhoon
+2 Fatal Push
 2 Tasigur, the Golden Fang
 2 Watery Grave
-2 Fatal Push
 3 Mana Leak
 3 Fatal Push
 4 Fatal Push
+1 Ice-Fang Coatl
+1 Tarmogoyf
+1 Ketria Triome
+1 Snow-Covered Forest
+1 Breeding Pool
+1 Stomping Ground
+1 Skred
+1 Izzet Charm
+2 Snow-Covered Forest
+2 Ice-Fang Coatl
+2 Tarmogoyf
+2 Prismatic Vista
+2 Skred
+3 Ice-Fang Coatl
+3 Tarmogoyf
+3 Prismatic Vista
+3 Misty Rainforest
+4 Ice-Fang Coatl
+4 Tarmogoyf
+4 Prismatic Vista
+4 Misty Rainforest
 1 Kiki-Jiki, Mirror Breaker
 1 Deceiver Exarch
 2 Kiki-Jiki, Mirror Breaker
@@ -77,27 +98,6 @@
 3 Deceiver Exarch
 3 Kiki-Jiki, Mirror Breaker
 4 Deceiver Exarch
-1 Stomping Ground
-1 Ice-Fang Coatl
-1 Snow-Covered Forest
-1 Tarmogoyf
-1 Breeding Pool
-1 Ketria Triome
-1 Skred
-1 Izzet Charm
-2 Snow-Covered Forest
-2 Ice-Fang Coatl
-2 Prismatic Vista
-2 Tarmogoyf
-2 Skred
-3 Misty Rainforest
-3 Ice-Fang Coatl
-3 Prismatic Vista
-3 Tarmogoyf
-4 Misty Rainforest
-4 Ice-Fang Coatl
-4 Prismatic Vista
-4 Tarmogoyf
 1 Riverglide Pathway
 1 Reflecting Pool
 1 Temple of Epiphany
@@ -114,8 +114,8 @@
 4 Temple of Epiphany
 4 Riverglide Pathway
 4 Cascade Bluffs
-1 The Royal Scions
 1 Fire Prophecy
+1 The Royal Scions
 1 Bonecrusher Giant
 1 Blast Zone
 2 Brazen Borrower

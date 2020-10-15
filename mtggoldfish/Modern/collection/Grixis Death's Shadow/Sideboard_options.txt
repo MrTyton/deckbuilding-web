@@ -1,9 +1,9 @@
 1 Ashiok, Dream Render
 1 Damping Sphere
+1 Stubborn Denial
 1 Surgical Extraction
 1 Cleansing Wildfire
 2 Cleansing Wildfire
-1 Stubborn Denial
 1 Lurrus of the Dream-Den
 3 Aether Gust
 1 Radiant Flames
@@ -19,7 +19,6 @@
 2 Abrade
 1 Temur Battle Rage
 1 Engineered Explosives
-1 Cling to Dust
 1 Kiln Fiend
 1 Call of the Death-Dweller
 2 Ashiok, Dream Render
@@ -29,6 +28,7 @@
 1 Terminate
 1 Fatal Push
 2 Surgical Extraction
+1 Cling to Dust
 1 The Royal Scions
 1 Jace, the Mind Sculptor
 1 Grafdigger's Cage
@@ -41,8 +41,8 @@
 2 Drown in the Loch
 2 Kozilek's Return
 1 Lightning Bolt
-1 Rakdos Charm
 1 Heartless Act
+1 Rakdos Charm
 2 Lightning Bolt
 2 Cling to Dust
 1 Soul-Guide Lantern
@@ -50,24 +50,14 @@
 2 Fatal Push
 2 Stubborn Denial
 3 Soul-Guide Lantern
-1 Assassin's Trophy
-1 Blacklance Paragon
-1 Veil of Summer
-1 Shadow of Doubt
-2 Blacklance Paragon
-2 Assassin's Trophy
-2 Shadow of Doubt
-2 Veil of Summer
-3 Assassin's Trophy
-3 Veil of Summer
-1 Echoing Truth
-3 Collective Brutality
 2 Go for the Throat
 3 Cleansing Wildfire
+1 Echoing Truth
+3 Collective Brutality
 1 Young Pyromancer
-1 Dreadbore
 1 Mana Leak
 1 Cast Down
+1 Dreadbore
 2 Dreadbore
 2 Mana Leak
 3 Mana Leak
