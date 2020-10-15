@@ -1,20 +1,20 @@
 1 Elvish Reclaimer
 2 Elvish Reclaimer
 2 Field of the Dead
-1 Grasping Dunes
-4 Grove of the Burnwillows
 1 Valakut Exploration
 2 Valakut Exploration
+1 Grasping Dunes
+4 Grove of the Burnwillows
 1 Sheltered Thicket
 1 Ancient Tomb
 3 Punishing Fire
 1 Lightning Bolt
 2 Lightning Bolt
-3 Gamble
 3 Valakut Exploration
 1 Tranquil Thicket
 1 Tropical Island
 2 Tropical Island
+3 Gamble
 1 Glacial Chasm
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
@@ -26,7 +26,6 @@
 4 Rishadan Port
 2 Verdant Catacombs
 3 Verdant Catacombs
-2 Wooded Foothills
 1 Snow-Covered Forest
 3 Oko, Thief of Crowns
 2 Misty Rainforest
@@ -50,11 +49,11 @@
 3 Green Sun's Zenith
 3 Brainstorm
 4 Brainstorm
-4 Abrupt Decay
 2 Ghost Quarter
 1 Manabond
 1 Horizon Canopy
 1 Savannah
+2 Wooded Foothills
 3 Elvish Reclaimer
 1 Sevinne's Reclamation
 1 Molten Vortex
@@ -62,14 +61,14 @@
 2 Sevinne's Reclamation
 2 Faithless Looting
 3 Taiga
-1 Riftstone Portal
 1 Brushfire Elemental
+1 Riftstone Portal
 1 Nissa of Shadowed Boughs
 1 Atarka's Command
 1 Badlands
 1 Snow-Covered Swamp
-2 Nissa of Shadowed Boughs
 2 Brushfire Elemental
+2 Nissa of Shadowed Boughs
 2 Ramunap Excavator
 3 Dark Confidant
 3 Wooded Foothills
@@ -94,6 +93,7 @@
 3 Knight of the Reliquary
 3 Swords to Plowshares
 4 Valakut Exploration
+4 Abrupt Decay
 1 Tolaria West
 1 Academy Ruins
 1 Primeval Titan
@@ -110,6 +110,5 @@
 2 Sphere of Resistance
 3 Sphere of Resistance
 3 Maze of Ith
-3 Bayou
 4 Sphere of Resistance
-4 Dark Depths
+3 Bayou

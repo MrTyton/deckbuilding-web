@@ -5,10 +5,10 @@
 3 Omen of the Sea
 4 Omen of the Sea
 3 Fabled Passage
-4 Censor
-2 Dovin's Veto
 4 Irrigated Farmland
 4 Fabled Passage
+2 Dovin's Veto
+4 Censor
 1 Settle the Wreckage
 1 Sunpetal Grove
 1 Uro, Titan of Nature's Wrath
@@ -31,15 +31,18 @@
 4 Breeding Pool
 4 Temple Garden
 4 Growth Spiral
-4 Teferi, Time Raveler
 1 Tamiyo, Collector of Tales
+4 Teferi, Time Raveler
+1 Brazen Borrower
 1 Sinister Sabotage
 2 Sinister Sabotage
 3 Castle Ardenvale
-1 Brazen Borrower
+1 Sphinx's Revelation
+2 Sphinx's Revelation
+4 Uro, Titan of Nature's Wrath
+1 Whirlwind Denial
 3 Field of Ruin
 1 Elspeth, Sun's Nemesis
-1 Whirlwind Denial
 1 Dream Trawler
 2 Narset, Parter of Veils
 1 Syncopate
@@ -50,9 +53,6 @@
 3 Baffling End
 1 Prairie Stream
 1 Jace, Architect of Thought
-1 Sphinx's Revelation
-2 Sphinx's Revelation
-4 Uro, Titan of Nature's Wrath
 1 Teferi, Master of Time
 1 Jwari Disruption
 2 Jwari Disruption
@@ -65,8 +65,6 @@
 2 Port Town
 1 Neutralize
 2 Castle Vantress
-3 Sinister Sabotage
-4 Sinister Sabotage
 1 Commit/Memory
 1 Horribly Awry
 2 Horribly Awry
@@ -101,8 +99,10 @@
 2 Neutralize
 2 Blast Zone
 1 Seal Away
-1 Mystical Dispute
 4 Jwari Disruption
+3 Sinister Sabotage
+4 Sinister Sabotage
+1 Kiora, Master of the Depths
 3 Anger of the Gods
 1 Fumigate
 3 Narset, Parter of Veils
@@ -117,7 +117,6 @@
 4 Syncopate
 1 Cast Out
 1 Warrant/Warden
-2 Mystical Dispute
 1 Frantic Inventory
 2 Frantic Inventory
 3 Frantic Inventory
@@ -126,5 +125,6 @@
 2 Skyclave Cleric
 3 Skyclave Cleric
 4 Skyclave Cleric
+1 Mystical Dispute
 1 Temple of Enlightenment
 2 Temple of Enlightenment

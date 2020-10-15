@@ -4,14 +4,14 @@
 1 Wear/Tear
 1 Surgical Extraction
 2 Surgical Extraction
-1 Pyroblast
 2 Wear/Tear
+3 Wear/Tear
 1 Faerie Macabre
 2 Faerie Macabre
-2 Pyroblast
-1 Massacre
-3 Wear/Tear
+1 Pyroblast
 3 Faerie Macabre
+1 Massacre
+2 Pyroblast
 4 Wear/Tear
 3 Assassin's Trophy
 1 Defense Grid
@@ -22,18 +22,17 @@
 2 Grave Titan
 3 Pyroblast
 1 Blood Moon
+4 Xantid Swarm
 1 Abrade
 2 Abrade
 1 Pithing Needle
 1 Tranquil Domain
 2 Tranquil Domain
-1 Veil of Summer
+3 Serenity
+4 Serenity
 1 Cabal Therapy
 2 Shenanigans
 3 Defense Grid
-1 Abrupt Decay
-2 Veil of Summer
-4 Xantid Swarm
 1 Collective Brutality
 1 Sorcerous Spyglass
 1 Ratchet Bomb
@@ -44,13 +43,15 @@
 2 Pack Rat
 2 Toxic Deluge
 3 Pack Rat
+1 Veil of Summer
 1 Show and Tell
 1 Chancellor of the Annex
 1 Tidespout Tyrant
 1 Plunge into Darkness
 1 Stronghold Gambit
 1 Ancient Grudge
-2 Abrupt Decay
+1 Abrupt Decay
+2 Veil of Summer
 1 Chain of Vapor
 2 Chain of Vapor
 1 Duress
@@ -68,8 +69,8 @@
 1 Bitterblossom
 1 Eliminate
 1 Plague Engineer
-1 Ashiok, Dream Render
 1 Liliana of the Veil
+1 Ashiok, Dream Render
 2 Bitterblossom
 2 Eliminate
 2 Plague Engineer
@@ -80,8 +81,6 @@
 3 Pithing Needle
 3 Toxic Deluge
 4 Pack Rat
-3 Serenity
-4 Serenity
 1 Feed the Swarm
 1 Sphinx of the Steel Wind
 1 Leyline of Sanctity

@@ -27,12 +27,3 @@
 |                                                                                           |1 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |
 |                                                                                           |1 [Tale's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466831)      |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    2|[Miscast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485380)        |                     |              |
-|                    3|[Miscast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485380)        |                     |              |
-|                    3|[Essence Capture](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457181)|                     |              |
-

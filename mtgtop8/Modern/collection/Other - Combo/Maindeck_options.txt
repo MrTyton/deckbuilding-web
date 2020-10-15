@@ -47,8 +47,8 @@
 3 Thopter Foundry
 3 Dark Depths
 3 Gitaxian Probe
-4 Ponder
 4 Dark Confidant
+4 Ponder
 4 Chrome Mox
 4 Preordain
 4 Thoughtseize
@@ -170,14 +170,14 @@
 1 Possibility Storm
 2 Spell Queller
 2 Wall of Omens
-2 Snow-Covered Plains
 2 Snow-Covered Mountain
+2 Snow-Covered Plains
 2 Prismatic Vista
 2 Spellskite
-2 Delay
 2 Narset of the Ancient Way
-2 Possibility Storm
+2 Delay
 2 Drannith Magistrate
+2 Possibility Storm
 2 Chandra, Torch of Defiance
 2 Jace, the Mind Sculptor
 2 Flooded Strand
@@ -187,24 +187,24 @@
 3 Snow-Covered Island
 3 Wall of Omens
 3 Prismatic Vista
+3 Drannith Magistrate
 3 Arid Mesa
 3 Delay
 3 Flooded Strand
 3 Fae of Wishes
 3 Snow-Covered Plains
 3 Possibility Storm
-3 Drannith Magistrate
 3 Scalding Tarn
 4 Spell Queller
 4 Scalding Tarn
 4 Flooded Strand
 4 Teferi, Time Raveler
+4 Drannith Magistrate
 4 Prismatic Vista
-4 Snow-Covered Island
 4 Wall of Omens
+4 Snow-Covered Island
 4 Arid Mesa
 4 Fae of Wishes
-4 Drannith Magistrate
 4 Snow-Covered Plains
 4 Delay
 5 Snow-Covered Island
@@ -223,6 +223,16 @@
 3 Island
 4 Jace, Wielder of Mysteries
 4 Fatal Push
+1 Worldspine Wurm
+1 Sphere of the Suns
+1 Wild Cantor
+2 Wild Cantor
+2 Sphere of the Suns
+3 Wild Cantor
+3 Sphere of the Suns
+4 Emeria's Call
+4 Wild Cantor
+4 Sword of the Meek
 1 Akoum Warrior
 2 Akoum Warrior
 2 Veil of Summer
@@ -239,16 +249,6 @@
 3 Talisman of Resilience
 4 Pelakka Predation
 4 Leyline of Sanctity
-1 Worldspine Wurm
-1 Sphere of the Suns
-1 Wild Cantor
-2 Sphere of the Suns
-2 Wild Cantor
-3 Wild Cantor
-3 Sphere of the Suns
-4 Emeria's Call
-4 Wild Cantor
-4 Sword of the Meek
 1 Mission Briefing
 1 Blood Crypt
 1 Rakdos Charm
@@ -328,6 +328,7 @@
 3 Relic of Progenitus
 3 Darkslick Shores
 4 River of Tears
+1 Vizier of Remedies
 1 Emrakul, the Aeons Torn
 1 Gemstone Caverns
 1 Through the Breach
@@ -335,16 +336,16 @@
 1 Windswept Heath
 1 Elesh Norn, Grand Cenobite
 1 Charming Prince
-1 Utopia Sprawl
 1 Flickerwisp
 1 Dubious Challenge
-1 Vizier of Remedies
 1 Stomping Ground
 1 Temple Garden
 1 Devoted Druid
 1 Misty Rainforest
 1 Forest
+1 Utopia Sprawl
 1 Eladamri's Call
+2 Emrakul, the Aeons Torn
 2 Forest
 2 Through the Breach
 2 Flickerwisp
@@ -352,30 +353,29 @@
 2 Windswept Heath
 2 Charming Prince
 2 Gemstone Caverns
-2 Emrakul, the Aeons Torn
-2 Temple Garden
 2 Stomping Ground
-2 Plains
-2 Utopia Sprawl
 2 Worldspine Wurm
+2 Plains
 2 Misty Rainforest
 2 Devoted Druid
 2 Dubious Challenge
+2 Utopia Sprawl
 2 Eladamri's Call
+2 Temple Garden
 3 Charming Prince
+3 Emrakul, the Aeons Torn
 3 Through the Breach
 3 Windswept Heath
-3 Temple Garden
-3 Emrakul, the Aeons Torn
-3 Utopia Sprawl
 3 Dubious Challenge
 3 Eladamri's Call
 3 Flickerwisp
+3 Temple Garden
 3 Devoted Druid
+3 Utopia Sprawl
 4 Charming Prince
 4 Windswept Heath
-4 Through the Breach
 4 Emrakul, the Aeons Torn
+4 Through the Breach
 4 Utopia Sprawl
 4 Devoted Druid
 4 Flickerwisp

@@ -1,18 +1,18 @@
 1 Heroic Intervention
 1 Scavenging Ooze
 2 Scavenging Ooze
-2 Cinderclasm
+1 Cinderclasm
 2 Heroic Intervention
-3 Bonecrusher Giant
+2 Cinderclasm
 3 Scavenging Ooze
 1 Elder Gargaroth
+4 Bonecrusher Giant
 1 Spikefield Hazard
+1 Primal Might
 1 Phoenix of Ash
 2 Phoenix of Ash
 1 Inscription of Abundance
 2 Inscription of Abundance
-4 Bonecrusher Giant
-1 Primal Might
 1 Roiling Vortex
 2 Roiling Vortex
 1 Thundering Rebuke
@@ -30,8 +30,18 @@
 2 Anax, Hardened in the Forge
 3 Thundering Rebuke
 4 Scavenging Ooze
+1 Garruk, Unleashed
 3 Roiling Vortex
 4 Roiling Vortex
+1 Vivien, Monsters' Advocate
+1 Questing Beast
+2 Questing Beast
+3 Questing Beast
+2 Primal Might
+3 Primal Might
+1 Robber of the Rich
+2 Robber of the Rich
+2 Garruk, Unleashed
 1 Cragplate Baloth
 1 Oakhame Adversary
 2 Oakhame Adversary
@@ -47,10 +57,8 @@
 1 Scute Swarm
 2 Scute Swarm
 1 Stonecoil Serpent
-1 Garruk, Unleashed
 2 Stonecoil Serpent
 2 The Great Henge
-2 Cragplate Baloth
 1 Tormod's Crypt
 1 Arasta of the Endless Web
 2 Tormod's Crypt
@@ -58,10 +66,8 @@
 1 Traitorous Greed
 2 Escape to the Wilds
 2 Traitorous Greed
-1 Vivien, Monsters' Advocate
+2 Cragplate Baloth
 2 Vivien, Monsters' Advocate
-2 Primal Might
-3 Primal Might
 1 Valakut Exploration
 2 Valakut Exploration
 3 Valakut Exploration
@@ -73,14 +79,12 @@
 1 Pacifism
 2 Elspeth Conquers Death
 2 Pacifism
-3 Klothys, God of Destiny
 3 Chainweb Aracnir
+3 Klothys, God of Destiny
 3 Pacifism
-1 Robber of the Rich
-1 Questing Beast
-2 Robber of the Rich
-2 Questing Beast
-3 Questing Beast
+1 Thrashing Brontodon
+2 Thrashing Brontodon
+3 Garruk, Unleashed
 3 Return to Nature
 1 Fire Prophecy
 1 Cliffhaven Kitesail
@@ -88,23 +92,12 @@
 2 Fire Prophecy
 2 Cliffhaven Kitesail
 3 Ranger's Guile
-3 Cliffhaven Kitesail
 3 Fire Prophecy
+3 Cliffhaven Kitesail
 3 Roil Eruption
 4 Roil Eruption
 4 Garruk's Harbinger
 4 Thundering Rebuke
-1 Terror of the Peaks
-1 Ondu Inversion
-1 Eat to Extinction
-1 Scourge of the Skyclaves
-1 Embercleave
-2 Scourge of the Skyclaves
-2 Spikefield Hazard
-2 Embercleave
-3 Spikefield Hazard
-4 Spikefield Hazard
-4 Cinderclasm
 1 Wilt
 2 Wilt
 3 Elder Gargaroth
@@ -119,6 +112,7 @@
 3 Kazandu Nectarpot
 4 Kazandu Nectarpot
 4 Return to Nature
+4 Questing Beast
 1 Ugin, the Spirit Dragon
 1 Mystic Repeal
 2 Ugin, the Spirit Dragon
@@ -127,15 +121,3 @@
 3 Heroic Intervention
 4 Blazing Volley
 4 Mystic Repeal
-1 Adventure Awaits
-1 Tormenting Voice
-1 Molten Blast
-2 Molten Blast
-2 Adventure Awaits
-2 Tormenting Voice
-3 Molten Blast
-3 Adventure Awaits
-3 Tormenting Voice
-4 Tormenting Voice
-4 Adventure Awaits
-4 Molten Blast

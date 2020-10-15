@@ -1,63 +1,61 @@
-1 Forest
-1 Scavenging Ooze
-1 Utopia Sprawl
-1 Windswept Heath
-1 Arbor Elf
-2 Scavenging Ooze
-2 Windswept Heath
-2 Utopia Sprawl
-2 Arbor Elf
-2 Forest
-3 Windswept Heath
-3 Arbor Elf
-3 Forest
-3 Utopia Sprawl
-4 Utopia Sprawl
-4 Forest
-4 Windswept Heath
-4 Arbor Elf
-5 Forest
-1 Plains
-2 Plains
-1 Spike Feeder
-1 Conclave Mentor
-1 Idyllic Grange
-1 Horizon Canopy
-1 Gavony Township
-1 Ranger-Captain of Eos
-1 Temple Garden
-1 Auriok Champion
-1 Hardened Scales
-1 Collected Company
-1 Walking Ballista
-1 Heliod, Sun-Crowned
-1 Prismatic Vista
-2 Spike Feeder
-2 Conclave Mentor
-2 Ranger-Captain of Eos
-2 Auriok Champion
-2 Horizon Canopy
-2 Collected Company
-2 Hardened Scales
-2 Temple Garden
-2 Heliod, Sun-Crowned
-2 Walking Ballista
-3 Spike Feeder
-3 Conclave Mentor
-3 Scavenging Ooze
-3 Ranger-Captain of Eos
-3 Collected Company
-3 Horizon Canopy
-3 Heliod, Sun-Crowned
-3 Hardened Scales
-3 Temple Garden
-4 Spike Feeder
-4 Conclave Mentor
-4 Ranger-Captain of Eos
-4 Collected Company
-4 Temple Garden
-4 Hardened Scales
-4 Heliod, Sun-Crowned
+1 Marsh Flats
+1 Silent Clearing
+1 Watery Grave
+1 Godless Shrine
+1 Mutavault
+1 Smuggler's Copter
+1 Selfless Spirit
+1 Force of Virtue
+1 Geist of Saint Traft
+1 Island
+1 Empyrean Eagle
+1 Aether Vial
+1 Moorland Haunt
+1 Deputy of Detention
+1 Spell Queller
+1 Flooded Strand
+1 Mausoleum Wanderer
+1 Brazen Borrower
+1 Seachrome Coast
+1 Hallowed Fountain
+1 Polluted Delta
+1 Supreme Phantom
+1 Path to Exile
+1 Squadron Hawk
+2 Island
+2 Mutavault
+2 Geist of Saint Traft
+2 Selfless Spirit
+2 Aether Vial
+2 Supreme Phantom
+2 Empyrean Eagle
+2 Force of Virtue
+2 Path to Exile
+2 Mausoleum Wanderer
+2 Flooded Strand
+2 Squadron Hawk
+2 Polluted Delta
+2 Seachrome Coast
+2 Spell Queller
+3 Path to Exile
+3 Spell Queller
+3 Supreme Phantom
+3 Seachrome Coast
+3 Squadron Hawk
+3 Mausoleum Wanderer
+3 Force of Virtue
+3 Flooded Strand
+3 Empyrean Eagle
+3 Aether Vial
+4 Aether Vial
+4 Path to Exile
+4 Empyrean Eagle
+4 Flooded Strand
+4 Squadron Hawk
+4 Mausoleum Wanderer
+4 Supreme Phantom
+4 Spell Queller
+4 Force of Virtue
 1 Mountain
 1 Wooded Foothills
 1 Stomping Ground
@@ -72,6 +70,7 @@
 1 Conflagrate
 1 Arid Mesa
 1 Bloodghast
+1 Shriekhorn
 1 Blood Crypt
 1 Golgari Thug
 1 Merchant of the Vale
@@ -84,10 +83,8 @@
 1 Ox of Agonas
 1 Life from the Loam
 1 Creeping Chill
-1 Shriekhorn
 1 Prized Amalgam
 2 Arid Mesa
-2 Stinkweed Imp
 2 Creeping Chill
 2 Golgari Thug
 2 Silversmote Ghoul
@@ -97,84 +94,33 @@
 2 Cathartic Reunion
 2 Prized Amalgam
 2 Ox of Agonas
+2 Stinkweed Imp
 2 Life from the Loam
 2 Merchant of the Vale
 3 Arid Mesa
 3 Ox of Agonas
 3 Silversmote Ghoul
-3 Life from the Loam
-3 Narcomoeba
 3 Prized Amalgam
-3 Shriekhorn
+3 Life from the Loam
 3 Stinkweed Imp
+3 Shriekhorn
+3 Narcomoeba
 3 Creeping Chill
 3 Cathartic Reunion
 3 Merchant of the Vale
 4 Arid Mesa
 4 Silversmote Ghoul
 4 Prized Amalgam
-4 Stinkweed Imp
 4 Creeping Chill
 4 Life from the Loam
+4 Stinkweed Imp
 4 Shriekhorn
 4 Cathartic Reunion
-1 Marsh Flats
-1 Silent Clearing
-1 Godless Shrine
-1 Mutavault
-1 Selfless Spirit
-1 Force of Virtue
-1 Geist of Saint Traft
-1 Island
-1 Empyrean Eagle
-1 Aether Vial
-1 Moorland Haunt
-1 Deputy of Detention
-1 Spell Queller
-1 Flooded Strand
-1 Mausoleum Wanderer
-1 Seachrome Coast
-1 Hallowed Fountain
-1 Supreme Phantom
-1 Path to Exile
-1 Squadron Hawk
-2 Island
-2 Mutavault
-2 Geist of Saint Traft
-2 Selfless Spirit
-2 Aether Vial
-2 Supreme Phantom
-2 Empyrean Eagle
-2 Seachrome Coast
-2 Force of Virtue
-2 Path to Exile
-2 Mausoleum Wanderer
-2 Flooded Strand
-2 Squadron Hawk
-2 Spell Queller
-3 Path to Exile
-3 Supreme Phantom
-3 Seachrome Coast
-3 Squadron Hawk
-3 Mausoleum Wanderer
-3 Force of Virtue
-3 Empyrean Eagle
-3 Flooded Strand
-3 Spell Queller
-3 Aether Vial
-4 Aether Vial
-4 Path to Exile
-4 Empyrean Eagle
-4 Squadron Hawk
-4 Mausoleum Wanderer
-4 Supreme Phantom
-4 Spell Queller
-4 Force of Virtue
-4 Flooded Strand
 1 Lightning Bolt
 2 Lightning Bolt
 3 Lightning Bolt
 4 Lightning Bolt
+1 Sprite Dragon
 1 Gut Shot
 1 Bedlam Reveler
 1 Fiery Islet
@@ -183,20 +129,19 @@
 1 Stormwing Entity
 1 Spirebluff Canal
 1 Scalding Tarn
-1 Sprite Dragon
 1 Opt
 1 Soul-Scar Mage
 1 Mutagenic Growth
 1 Lava Dart
 1 Manamorphose
 1 Monastery Swiftspear
+2 Sprite Dragon
 2 Bedlam Reveler
 2 Fiery Islet
 2 Wild Slash
 2 Gut Shot
 2 Light Up the Stage
 2 Stormwing Entity
-2 Sprite Dragon
 2 Lava Dart
 2 Spirebluff Canal
 2 Steam Vents
@@ -206,18 +151,18 @@
 2 Soul-Scar Mage
 2 Monastery Swiftspear
 2 Opt
-3 Spirebluff Canal
 3 Mountain
 3 Fiery Islet
+3 Sprite Dragon
 3 Mutagenic Growth
 3 Light Up the Stage
 3 Stormwing Entity
-3 Sprite Dragon
 3 Manamorphose
 3 Monastery Swiftspear
 3 Opt
 3 Scalding Tarn
 3 Soul-Scar Mage
+3 Spirebluff Canal
 3 Lava Dart
 4 Lava Dart
 4 Stormwing Entity
@@ -226,26 +171,27 @@
 4 Monastery Swiftspear
 4 Scalding Tarn
 4 Soul-Scar Mage
+1 Misty Rainforest
 1 Wrenn and Six
 1 Elder Gargaroth
 1 Blood Moon
 1 Klothys, God of Destiny
+1 Questing Beast
 1 Bloodbraid Elf
 1 Bonecrusher Giant
 1 Chandra, Torch of Defiance
 1 Pillage
 1 Seasoned Pyromancer
-1 Questing Beast
 2 Blood Moon
+2 Bonecrusher Giant
 2 Klothys, God of Destiny
-2 Seasoned Pyromancer
 2 Bloodbraid Elf
 2 Pillage
-2 Bonecrusher Giant
 2 Elder Gargaroth
+2 Seasoned Pyromancer
 3 Elder Gargaroth
-3 Klothys, God of Destiny
 3 Pillage
+3 Klothys, God of Destiny
 3 Seasoned Pyromancer
 3 Blood Moon
 3 Stomping Ground

@@ -17,8 +17,8 @@
 4 Temple of Epiphany
 4 Riverglide Pathway
 1 Thirst for Meaning
-1 Teferi, Master of Time
 1 Fire Prophecy
+1 Teferi, Master of Time
 1 Ugin, the Spirit Dragon
 2 Evolving Wilds
 2 Thirst for Meaning
@@ -27,35 +27,6 @@
 3 Fire Prophecy
 3 Evolving Wilds
 4 Evolving Wilds
-1 Brash Taunter
-1 Shatterskull Smashing
-1 Soul Sear
-1 Scorching Dragonfire
-1 Storm's Wrath
-1 Silundi Vision
-1 Mazemind Tome
-1 Shredded Sails
-1 Shipwreck Dowser
-2 Shatterskull Smashing
-2 Soul Sear
-2 Scorching Dragonfire
-2 Shredded Sails
-2 Mazemind Tome
-2 Silundi Vision
-2 Shipwreck Dowser
-2 Brash Taunter
-2 Storm's Wrath
-3 Radiant Fountain
-3 Storm's Wrath
-3 Scorching Dragonfire
-3 Neutralize
-3 Shipwreck Dowser
-3 Silundi Vision
-3 Brash Taunter
-3 Sublime Epiphany
-3 Mazemind Tome
-4 Radiant Fountain
-4 Scorching Dragonfire
 1 Gadwick, the Wizened
 1 Spikefield Hazard
 1 Kiora Bests the Sea God
@@ -66,8 +37,8 @@
 1 Voracious Greatshark
 2 Voracious Greatshark
 2 Jwari Disruption
-2 Gadwick, the Wizened
 2 Thassa's Intervention
+2 Gadwick, the Wizened
 2 Spikefield Hazard
 2 Cinderclasm
 2 Fabled Passage
@@ -79,6 +50,25 @@
 4 Jwari Disruption
 4 Mystical Dispute
 4 Essence Scatter
+1 Cancel
+1 Expansion / Explosion
+1 Swamp
+1 Heartless Act
+1 Dismal Backwater
+1 Firemind's Research
+1 Bloodfell Caves
+1 Devious Cover-Up
+2 Heartless Act
+2 Dismal Backwater
+2 Bloodfell Caves
+2 Negate
+2 Devious Cover-Up
+2 Cancel
+3 Dismal Backwater
+3 Negate
+3 Bloodfell Caves
+4 Dismal Backwater
+4 Bloodfell Caves
 1 Irencrag Pyromancer
 1 Sprite Dragon
 1 Experimental Overload
@@ -103,22 +93,32 @@
 4 Sprite Dragon
 8 Mountain
 8 Island
-1 Cancel
-1 Heartless Act
-1 Expansion / Explosion
-1 Dismal Backwater
-1 Firemind's Research
-1 Swamp
-1 Bloodfell Caves
-1 Devious Cover-Up
-2 Heartless Act
-2 Dismal Backwater
-2 Bloodfell Caves
-2 Negate
-2 Devious Cover-Up
-2 Cancel
-3 Dismal Backwater
-3 Negate
-3 Bloodfell Caves
-4 Dismal Backwater
-4 Bloodfell Caves
+1 Brash Taunter
+1 Mazemind Tome
+1 Shatterskull Smashing
+1 Soul Sear
+1 Scorching Dragonfire
+1 Storm's Wrath
+1 Silundi Vision
+1 Shredded Sails
+1 Shipwreck Dowser
+2 Shatterskull Smashing
+2 Mazemind Tome
+2 Soul Sear
+2 Scorching Dragonfire
+2 Shredded Sails
+2 Silundi Vision
+2 Shipwreck Dowser
+2 Brash Taunter
+2 Storm's Wrath
+3 Storm's Wrath
+3 Scorching Dragonfire
+3 Neutralize
+3 Radiant Fountain
+3 Shipwreck Dowser
+3 Silundi Vision
+3 Brash Taunter
+3 Sublime Epiphany
+3 Mazemind Tome
+4 Scorching Dragonfire
+4 Radiant Fountain

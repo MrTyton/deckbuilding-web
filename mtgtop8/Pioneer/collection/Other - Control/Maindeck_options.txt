@@ -141,7 +141,6 @@
 2 Castle Ardenvale
 1 Glacial Fortress
 1 Elspeth, Sun's Nemesis
-1 Syncopate
 1 Jace, Architect of Thought
 1 Teferi, Hero of Dominaria
 1 Baffling End
@@ -149,6 +148,7 @@
 1 Chained to the Rocks
 1 Azorius Charm
 1 Omen of the Sea
+1 Syncopate
 1 Dovin's Veto
 1 Dream Trawler
 1 Absorb
@@ -357,8 +357,8 @@
 4 Waste Not
 4 Castle Locthwain
 4 Liliana, Waker of the Dead
-1 Blast Zone
 1 Elvish Rejuvenator
+1 Blast Zone
 1 Voracious Hydra
 1 World Breaker
 1 Castle Garenbrig
@@ -381,10 +381,10 @@
 2 Shrine of the Forsaken Gods
 2 Yavimaya Coast
 3 Elvish Rejuvenator
+3 Ugin, the Spirit Dragon
 3 Cavalier of Thorns
 3 Castle Garenbrig
 3 Voracious Hydra
-3 Ugin, the Spirit Dragon
 3 Shrine of the Forsaken Gods
 3 Yavimaya Coast
 3 Botanical Sanctum
@@ -447,11 +447,11 @@
 3 Gatebreaker Ram
 3 Gatecreeper Vine
 3 Plaza of Harmony
-4 Arboreal Grazer
 4 Izzet Guildgate
 4 Gates Ablaze
 4 Plaza of Harmony
 4 Gruul Guildgate
+4 Arboreal Grazer
 4 Gatebreaker Ram
 4 Simic Guildgate
 4 Guild Summit

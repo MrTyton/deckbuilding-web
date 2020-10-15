@@ -1,36 +1,37 @@
-1 Glimmervoid
-2 Pentad Prism
-1 Spirebluff Canal
-1 Spire of Industry
 3 Galvanic Blast
-1 Darkslick Shores
-2 Darkslick Shores
+1 Flooded Strand
+2 Flooded Strand
+1 Emry, Lurker of the Loch
+2 Emry, Lurker of the Loch
+3 Flooded Strand
+4 Flooded Strand
 1 Island
 2 Island
 3 Island
 4 Island
 2 Spirebluff Canal
-2 Spire of Industry
+3 Spire of Industry
+3 Emry, Lurker of the Loch
+1 Mountain
 5 Snow-Covered Island
+2 Mystic Sanctuary
 1 Teferi, Time Raveler
 1 Hallowed Fountain
-1 Mountain
-3 Spire of Industry
-2 Mystic Sanctuary
 2 Talisman of Dominance
 1 Spellskite
 1 Damping Sphere
-4 Emry, Lurker of the Loch
 2 Teferi, Time Raveler
+4 Emry, Lurker of the Loch
 1 Misty Rainforest
 2 Misty Rainforest
-1 Snow-Covered Plains
 1 Cryptic Command
 1 Path to Exile
 2 Path to Exile
+1 Snow-Covered Plains
 2 Cryptic Command
 3 Misty Rainforest
 4 Misty Rainforest
+1 Snow-Covered Mountain
 1 Uro, Titan of Nature's Wrath
 1 Breeding Pool
 1 Forest
@@ -44,48 +45,36 @@
 3 Mystic Sanctuary
 1 Swamp
 2 Watery Grave
-1 Snow-Covered Mountain
 1 Fatal Push
 1 Talisman of Progress
+1 Ichor Wellspring
+2 Talisman of Progress
+1 Engineered Explosives
 1 Mox Amber
 2 Mox Amber
 3 Mox Amber
-2 Talisman of Progress
-1 Engineered Explosives
+1 Bloodchief's Thirst
+1 Tezzeret, Agent of Bolas
+2 Bloodchief's Thirst
+3 Darkslick Shores
+3 Bloodchief's Thirst
+2 Steam Vents
+4 Whir of Invention
+3 Scalding Tarn
+2 Hallowed Fountain
+1 Inquisition of Kozilek
+2 Fatal Push
+3 Path to Exile
+4 Path to Exile
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
 3 Arcum's Astrolabe
 4 Arcum's Astrolabe
-2 Steam Vents
-4 Whir of Invention
-3 Scalding Tarn
-1 Ichor Wellspring
-1 Inquisition of Kozilek
-2 Hallowed Fountain
-2 Fatal Push
-3 Path to Exile
-4 Path to Exile
-1 Prismatic Vista
-2 Prismatic Vista
-3 Prismatic Vista
 1 Sorcerous Spyglass
 1 Ghirapur Aether Grid
 1 Sunken Hollow
 1 Thoughtseize
 2 Thoughtseize
-1 Bloodchief's Thirst
-1 Tezzeret, Agent of Bolas
-2 Bloodchief's Thirst
-3 Bloodchief's Thirst
-3 Darkslick Shores
-1 Godless Shrine
-1 Lurrus of the Dream-Den
-1 Executioner's Capsule
-1 Necrogen Spellbomb
-2 Pithing Needle
-2 Lurrus of the Dream-Den
-2 Aether Spellbomb
-3 Lurrus of the Dream-Den
 1 Talisman of Creativity
 1 Archmage's Charm
 1 Jace, the Mind Sculptor
@@ -98,12 +87,16 @@
 3 Talisman of Progress
 3 Teferi, Time Raveler
 1 Field of Ruin
+3 Fatal Push
 1 Plains
 4 Mox Amber
 2 Engineered Explosives
-3 Fatal Push
+1 Prismatic Vista
+2 Prismatic Vista
+3 Prismatic Vista
 1 Temple Garden
 1 Spine of Ish Sah
+1 Dreadbore
 1 Pyrite Spellbomb
 1 Serum Visions
 1 Darksteel Citadel
@@ -115,6 +108,14 @@
 2 Sai, Master Thopterist
 1 Seachrome Coast
 2 Seachrome Coast
+1 Godless Shrine
+1 Lurrus of the Dream-Den
+1 Executioner's Capsule
+1 Necrogen Spellbomb
+2 Pithing Needle
+2 Lurrus of the Dream-Den
+2 Aether Spellbomb
+3 Lurrus of the Dream-Den
 3 Chromatic Star
 4 Teferi, Time Raveler
 1 Chalice of the Void
@@ -134,8 +135,8 @@
 4 Glimmervoid
 1 Mana Leak
 1 Drown in the Loch
-1 River of Tears
 1 Oboro, Palace in the Clouds
+1 River of Tears
 1 Frantic Inventory
 1 Minamo, School at Water's Edge
 1 Eliminate
