@@ -10,12 +10,8 @@
 1 Island
 1 Back to Basics
 1 Snow-Covered Mountain
-1 Plains
-2 Island
-3 Island
 1 Polluted Delta
 2 Polluted Delta
-4 Scalding Tarn
 1 Wasteland
 2 Wasteland
 1 Daze
@@ -26,35 +22,41 @@
 3 Daze
 3 Delver of Secrets
 4 Delver of Secrets
+4 Scalding Tarn
 2 Preordain
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
 4 Daze
+1 Plains
+2 Island
+3 Island
 2 Council's Judgment
 1 Spell Snare
-2 Plains
-4 Island
-5 Island
-1 Brazen Borrower
 4 True-Name Nemesis
 1 Lightning Bolt
 2 Lightning Bolt
 2 Volcanic Island
 2 Back to Basics
+2 Plains
 3 Plains
+4 Island
+5 Island
 6 Island
 3 Tundra
+1 Underground Sea
+1 Brazen Borrower
 2 Force of Negation
 1 Mystic Sanctuary
-1 Underground Sea
 1 Misty Rainforest
 6 Snow-Covered Island
-1 Supreme Verdict
 1 Dreadhorde Arcanist
+1 Marsh Flats
+1 Scrubland
 3 Polluted Delta
 4 Polluted Delta
 1 Ethereal Forager
 2 Ethereal Forager
+1 Supreme Verdict
 1 Counterbalance
 3 Jace, the Mind Sculptor
 1 Thopter Foundry
@@ -65,6 +67,10 @@
 2 Urza, Lord High Artificer
 3 Arcum's Astrolabe
 4 Arcum's Astrolabe
+2 Dreadhorde Arcanist
+2 Narset, Parter of Veils
+3 Dreadhorde Arcanist
+4 Dreadhorde Arcanist
 1 Tropical Island
 1 Oko, Thief of Crowns
 1 Noble Hierarch
@@ -79,38 +85,50 @@
 4 Misty Rainforest
 4 Tropical Island
 4 Noble Hierarch
-2 Dreadhorde Arcanist
-2 Narset, Parter of Veils
-3 Dreadhorde Arcanist
-4 Dreadhorde Arcanist
 1 Arid Mesa
 3 Lightning Bolt
 1 Drown in the Loch
-1 Marsh Flats
 1 Baleful Strix
-1 Scrubland
 2 Drown in the Loch
 2 Baleful Strix
 3 Volcanic Island
-1 Shark Typhoon
-1 Hall of Heliod's Generosity
-1 Gideon, Ally of Zendikar
-2 Shark Typhoon
+1 Eliminate
+1 Snow-Covered Swamp
+2 Underground Sea
+2 Eliminate
 1 Swamp
 1 Thoughtseize
 1 Engineered Explosives
 1 Plague Engineer
 2 Thoughtseize
 3 Thoughtseize
+1 Unearth
+1 Cabal Therapy
+1 Cling to Dust
+1 Sea Gate Stormcaller
+1 Spellseeker
+1 Zealous Persecution
+1 Monastery Mentor
+1 Recruiter of the Guard
+1 Ephemerate
+2 Unearth
+2 Marsh Flats
+2 Cabal Therapy
+2 Spellseeker
+2 Scrubland
+2 Monastery Mentor
+2 Sea Gate Stormcaller
+2 Ephemerate
+2 Recruiter of the Guard
+3 Marsh Flats
+3 Cabal Therapy
+3 Monastery Mentor
+3 Sea Gate Stormcaller
 1 Plateau
 1 Mountain
 1 Raugrin Triome
 3 Spell Pierce
 4 Snapcaster Mage
-1 Eliminate
-1 Snow-Covered Swamp
-2 Underground Sea
-2 Eliminate
 3 Teferi, Time Raveler
 3 Baleful Strix
 4 Baleful Strix

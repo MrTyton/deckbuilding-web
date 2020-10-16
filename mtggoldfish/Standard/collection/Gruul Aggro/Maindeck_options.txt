@@ -72,26 +72,26 @@
 1 Needleverge Pathway
 2 Needleverge Pathway
 3 Needleverge Pathway
-1 Ram Through
 1 Cultivate
 1 Escape to the Wilds
+1 Ram Through
 1 Ancient Greenwarden
 1 Phylath, World Sculptor
-2 The Great Henge
 2 Cultivate
 2 Ram Through
 2 Ancient Greenwarden
+2 The Great Henge
 2 Escape to the Wilds
-3 Bala Ged Recovery
 3 Cultivate
+3 Bala Ged Recovery
 4 Bala Ged Recovery
 4 Cultivate
 1 Ranger's Guile
-1 Unleash Fury
 1 Shock
+1 Unleash Fury
 2 Ranger's Guile
-2 Unleash Fury
 2 Shock
+2 Unleash Fury
 3 Ranger's Guile
 3 Skyclave Geopede
 3 Shock
@@ -103,12 +103,12 @@
 1 Yorvo, Lord of Garenbrig
 2 Ilysian Caryatid
 2 Castle Embereth
-1 Khalni Ambush
-1 Song-Mad Treachery
-2 Khalni Ambush
-2 Song-Mad Treachery
 1 Scute Swarm
 2 Scute Swarm
+1 Song-Mad Treachery
+1 Khalni Ambush
+2 Khalni Ambush
+2 Song-Mad Treachery
 1 Everquill Phoenix
 2 Everquill Phoenix
 3 Everquill Phoenix
@@ -121,8 +121,6 @@
 2 Thundering Rebuke
 3 Thundering Rebuke
 4 Thundering Rebuke
-3 Garruk's Harbinger
-4 Garruk's Harbinger
 1 Leyline Tyrant
 1 Shatterskull Charger
 2 Shatterskull Charger
@@ -146,47 +144,22 @@
 3 Omnath, Locus of Creation
 4 Fireblade Charger
 4 Omnath, Locus of Creation
-1 Beanstalk Giant
 1 Storm's Wrath
+1 Beanstalk Giant
 2 Storm's Wrath
-3 Elder Gargaroth
 3 Storm's Wrath
+3 Elder Gargaroth
 3 Inscription of Abundance
 4 Storm's Wrath
 4 Inscription of Abundance
+3 Garruk's Harbinger
+4 Garruk's Harbinger
 1 Terror of the Peaks
 1 Wolfwillow Haven
 2 Terror of the Peaks
 2 Wolfwillow Haven
 3 Wolfwillow Haven
 4 Wolfwillow Haven
-1 Fearless Fledgling
-1 Swarm Shambler
-1 Plains
-1 Luminarch Aspirant
-1 Branchloft Pathway
-1 The Akroan War
-1 Lovestruck Beast
-1 Giant Killer
-2 Fearless Fledgling
-2 Swarm Shambler
-2 Luminarch Aspirant
-2 Plains
-2 Branchloft Pathway
-2 The Akroan War
-2 Lovestruck Beast
-2 Giant Killer
-3 Fearless Fledgling
-3 Luminarch Aspirant
-3 Branchloft Pathway
-3 Lovestruck Beast
-3 The Akroan War
-4 Luminarch Aspirant
-4 Branchloft Pathway
-4 Needleverge Pathway
-4 Lovestruck Beast
-4 The Akroan War
-4 Fearless Fledgling
 1 Azusa, Lost but Seeking
 2 Azusa, Lost but Seeking
 3 Kazuul's Fury
@@ -200,3 +173,30 @@
 3 Wildwood Tracker
 7 Mountain
 8 Mountain
+1 Fearless Fledgling
+1 Swarm Shambler
+1 The Akroan War
+1 Giant Killer
+1 Luminarch Aspirant
+1 Branchloft Pathway
+1 Lovestruck Beast
+1 Plains
+2 Fearless Fledgling
+2 Swarm Shambler
+2 The Akroan War
+2 Giant Killer
+2 Plains
+2 Lovestruck Beast
+2 Luminarch Aspirant
+2 Branchloft Pathway
+3 Fearless Fledgling
+3 Lovestruck Beast
+3 Branchloft Pathway
+3 The Akroan War
+3 Luminarch Aspirant
+4 The Akroan War
+4 Luminarch Aspirant
+4 Lovestruck Beast
+4 Fearless Fledgling
+4 Branchloft Pathway
+4 Needleverge Pathway

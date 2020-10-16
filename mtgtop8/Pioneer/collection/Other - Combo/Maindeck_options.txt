@@ -6,20 +6,10 @@
 2 Blackbloom Rogue
 2 Haunted Dead
 4 Hagra Mauling
-1 Thassa's Oracle
-1 Jwari Disruption
-1 Beyeen Veil
-2 Jwari Disruption
-2 Beyeen Veil
-3 Jwari Disruption
-3 Beyeen Veil
-4 Jwari Disruption
-4 Beyeen Veil
 3 Paradise Druid
 1 Collective Brutality
 2 Collective Brutality
 3 Collective Brutality
-4 Silversmote Ghoul
 1 Neoform
 1 Vastwood Fortification
 1 Kazandu Mammoth
@@ -30,6 +20,16 @@
 3 Blackbloom Rogue
 3 Vastwood Fortification
 3 Kazandu Mammoth
+4 Silversmote Ghoul
+1 Thassa's Oracle
+1 Jwari Disruption
+1 Beyeen Veil
+2 Jwari Disruption
+2 Beyeen Veil
+3 Jwari Disruption
+3 Beyeen Veil
+4 Jwari Disruption
+4 Beyeen Veil
 4 Kazandu Mammoth
 4 Collective Brutality
 4 Neoform
@@ -37,12 +37,12 @@
 4 Blackbloom Rogue
 4 Vastwood Fortification
 1 Claim / Fame
-1 Shatterskull Smashing
 1 Silundi Vision
+1 Shatterskull Smashing
 2 Shatterskull Smashing
-2 Silundi Vision
 2 Claim / Fame
 2 Thassa's Oracle
+2 Silundi Vision
 3 Silundi Vision
 3 Claim / Fame
 3 Thassa's Oracle
@@ -63,54 +63,54 @@
 3 Thought Erasure
 3 Soul-Guide Lantern
 4 Soul-Guide Lantern
+1 Sacred Foundry
 1 Westvale Abbey
 1 Nahiri, the Harbinger
 1 Clifftop Retreat
 1 Castle Ardenvale
 1 Temple of Triumph
-1 Mountain
-1 The Birth of Meletis
+1 Elspeth, Sun's Champion
+1 Anger of the Gods
+1 Chained to the Rocks
 1 Raise the Alarm
 1 Gideon, Ally of Zendikar
 1 Elspeth, Sun's Nemesis
 1 Sweltering Suns
-1 Anger of the Gods
 1 Ashen Rider
-1 Elspeth, Sun's Champion
-1 Sacred Foundry
-1 Chained to the Rocks
 1 Void Winnower
 1 Plains
 1 Chandra, Torch of Defiance
 1 Indomitable Creativity
+1 Mountain
 1 Emrakul, the Promised End
 1 Elspeth Conquers Death
 1 Dragonlord Kolaghan
 1 Pirate's Pillage
+1 The Birth of Meletis
 2 Clifftop Retreat
-2 Sweltering Suns
-2 The Birth of Meletis
-2 Temple of Triumph
 2 Mountain
+2 Sweltering Suns
+2 Temple of Triumph
 2 Raise the Alarm
 2 Gideon, Ally of Zendikar
-2 Sacred Foundry
-2 Anger of the Gods
 2 Chained to the Rocks
+2 Sacred Foundry
 2 Chandra, Torch of Defiance
+2 The Birth of Meletis
+2 Anger of the Gods
 2 Elspeth Conquers Death
 2 Pirate's Pillage
 2 Plains
 2 Indomitable Creativity
 3 Temple of Triumph
-3 The Birth of Meletis
-3 Mountain
 3 Raise the Alarm
+3 Mountain
 3 Plains
 3 Sacred Foundry
-3 Anger of the Gods
 3 Chained to the Rocks
+3 The Birth of Meletis
 3 Indomitable Creativity
+3 Anger of the Gods
 4 Temple of Triumph
 4 Plains
 4 Mountain

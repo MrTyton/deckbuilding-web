@@ -1,31 +1,28 @@
-3 Gamble
-1 Grasping Dunes
+1 Glacial Chasm
+2 Field of the Dead
+1 Ancient Tomb
+1 Misty Rainforest
 1 Klothys, God of Destiny
 1 Sheltered Thicket
-1 Misty Rainforest
-1 Ancient Tomb
-1 Bayou
 1 Nurturing Peatland
-1 Waterlogged Grove
-1 Tropical Island
-1 Snow-Covered Forest
+1 Bayou
 1 Manabond
 1 Valakut Exploration
 2 Valakut Exploration
-1 Oko, Thief of Crowns
-2 Oko, Thief of Crowns
-1 Abrupt Decay
-2 Abrupt Decay
-3 Abrupt Decay
-1 Uro, Titan of Nature's Wrath
-2 Uro, Titan of Nature's Wrath
+1 Snow-Covered Forest
+1 Waterlogged Grove
+1 Tropical Island
 1 Cavern of Souls
 1 Ramunap Excavator
 1 Primeval Titan
 2 Primeval Titan
 2 Cavern of Souls
+1 Abrupt Decay
+2 Abrupt Decay
 2 Bayou
-2 Wooded Foothills
+3 Abrupt Decay
+1 Uro, Titan of Nature's Wrath
+2 Uro, Titan of Nature's Wrath
 2 Tropical Island
 1 Once Upon a Time
 2 Once Upon a Time
@@ -36,16 +33,15 @@
 1 Valakut, the Molten Pinnacle
 2 Forest
 2 Green Sun's Zenith
-2 Dryad of the Ilysian Grove
 2 Ancient Tomb
 2 Valakut, the Molten Pinnacle
+2 Dryad of the Ilysian Grove
 3 Green Sun's Zenith
 3 Ancient Tomb
 3 Dryad of the Ilysian Grove
 4 Green Sun's Zenith
 4 Dryad of the Ilysian Grove
 4 Ancient Tomb
-2 Verdant Catacombs
 3 Sylvan Library
 1 Lightning Bolt
 2 Lightning Bolt
@@ -55,19 +51,21 @@
 1 Titania, Protector of Argoth
 1 Chalice of the Void
 1 Scavenging Ooze
+2 Verdant Catacombs
+2 Wooded Foothills
 2 Chalice of the Void
 3 Cavern of Souls
 3 Chalice of the Void
 4 Chalice of the Void
 4 Cavern of Souls
-1 Radha, Heart of Keld
 1 Barbarian Ring
-2 Waterlogged Grove
 2 Windswept Heath
 1 Zagoth Triome
 1 Ketria Triome
 1 Leovold, Emissary of Trest
-1 Riftstone Portal
+1 Oko, Thief of Crowns
+1 Radha, Heart of Keld
+2 Oko, Thief of Crowns
 2 Ghost Quarter
 1 Volrath's Stronghold
 1 Yidaro, Wandering Monster
@@ -101,31 +99,10 @@
 1 Academy Ruins
 1 Engineered Explosives
 1 Tolaria West
+2 Waterlogged Grove
 3 Uro, Titan of Nature's Wrath
 4 Uro, Titan of Nature's Wrath
 4 Rishadan Port
-1 Snow-Covered Swamp
-1 Underground Sea
-1 Sejiri Steppe
-1 Brainstorm
-1 Dark Confidant
-1 Thoughtseize
-1 Snow-Covered Island
-2 Thoughtseize
-2 Brainstorm
-2 Dark Confidant
-2 Misty Rainforest
-3 Elvish Reclaimer
-3 Misty Rainforest
-3 Oko, Thief of Crowns
-3 Brainstorm
-3 Verdant Catacombs
-3 Dark Confidant
-3 Thoughtseize
-4 Thoughtseize
-4 Elvish Reclaimer
-4 Dark Confidant
-4 Brainstorm
 1 Kozilek, Butcher of Truth
 1 Ulamog, the Ceaseless Hunger
 1 All Is Dust
@@ -144,10 +121,10 @@
 1 Vesuva
 1 Elvish Rejuvenator
 1 Emrakul, the Aeons Torn
+2 Ulamog, the Ceaseless Hunger
 2 Pithing Needle
 2 Candelabra of Tawnos
 2 Glimmerpost
-2 Ulamog, the Ceaseless Hunger
 2 Golos, Tireless Pilgrim
 2 Elvish Rejuvenator
 2 Ugin, the Spirit Dragon
@@ -164,9 +141,9 @@
 3 Golos, Tireless Pilgrim
 3 Elvish Rejuvenator
 4 Snow-Covered Forest
-4 Vesuva
 4 Glimmerpost
 4 Cloudpost
+4 Vesuva
 4 Elvish Rejuvenator
 5 Snow-Covered Forest
 6 Snow-Covered Forest

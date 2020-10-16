@@ -1,6 +1,6 @@
 1 Cinder Glade
-1 Sheltered Thicket
 1 Farseek
+1 Sheltered Thicket
 1 Summoner's Pact
 1 Mountain
 1 Stomping Ground
@@ -11,13 +11,13 @@
 2 Farseek
 2 Summoner's Pact
 2 Mountain
-3 Farseek
 3 Search for Tomorrow
 3 Valakut, the Molten Pinnacle
 3 Wooded Foothills
 3 Stomping Ground
 3 Sakura-Tribe Elder
 3 Summoner's Pact
+3 Farseek
 4 Search for Tomorrow
 4 Sakura-Tribe Elder
 4 Wooded Foothills
@@ -44,8 +44,8 @@
 4 Castle Garenbrig
 1 Skyclave Apparition
 2 Skyclave Apparition
-4 Farseek
 4 Summoner's Pact
+4 Farseek
 1 Nissa, Vastwood Seer
 1 Elvish Rejuvenator
 1 Voice of Resurgence
@@ -61,10 +61,10 @@
 1 Snow-Covered Island
 1 Uro, Titan of Nature's Wrath
 1 Field of Ruin
-1 Aether Gust
 1 Jace, the Mind Sculptor
 1 Teferi, Time Raveler
 1 Island
+1 Aether Gust
 1 Supreme Verdict
 1 Force of Negation
 1 Growth Spiral
@@ -93,8 +93,8 @@
 3 Uro, Titan of Nature's Wrath
 4 Growth Spiral
 4 Flooded Strand
-1 Woodfall Primus
 1 Through the Breach
+1 Woodfall Primus
 1 Dead / Gone
 1 Nightpack Ambusher
 2 Through the Breach
@@ -108,12 +108,12 @@
 1 Castle Vantress
 2 Prismatic Vista
 2 Island
-1 Wall of Blossoms
-2 Wall of Blossoms
 1 Chandra, Torch of Defiance
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 2 Dead / Gone
+1 Wall of Blossoms
+2 Wall of Blossoms
 1 Sweltering Suns
 2 Cinder Glade
 2 Sweltering Suns
@@ -125,8 +125,8 @@
 1 Omen of the Hunt
 3 Lightning Bolt
 4 Lightning Bolt
-1 Dwarven Mine
 1 Pendelhaven
 1 Beast Within
+1 Dwarven Mine
 2 Beast Within
 4 Scapeshift

@@ -1,22 +1,24 @@
-1 Plains
-10 Snow-Covered Plains
 4 Skyclave Apparition
+2 Horizon Canopy
 3 Silent Clearing
 2 Plains
 3 Plains
 4 Plains
+10 Snow-Covered Plains
 4 Silent Clearing
 1 Scavenger Grounds
 5 Plains
 6 Plains
 7 Plains
 8 Plains
+1 Shefet Dunes
+2 Shefet Dunes
 9 Plains
 3 Horizon Canopy
 1 Serra Avenger
 2 Serra Avenger
-1 Noble Hierarch
 1 Razorverge Thicket
+1 Noble Hierarch
 2 Razorverge Thicket
 2 Noble Hierarch
 3 Razorverge Thicket
@@ -26,21 +28,21 @@
 1 Blade Splicer
 2 Blade Splicer
 1 Reality Smasher
-1 Eldrazi Displacer
 1 Thought-Knot Seer
 1 Eldrazi Temple
+1 Eldrazi Displacer
 2 Reality Smasher
-2 Eldrazi Temple
-2 Eldrazi Displacer
 2 Thought-Knot Seer
+2 Eldrazi Displacer
+2 Eldrazi Temple
 3 Reality Smasher
-3 Eldrazi Displacer
-3 Eldrazi Temple
 3 Thought-Knot Seer
+3 Eldrazi Temple
+3 Eldrazi Displacer
 4 Reality Smasher
 4 Thought-Knot Seer
-4 Eldrazi Temple
 4 Eldrazi Displacer
+4 Eldrazi Temple
 2 Sunbaked Canyon
 3 Restoration Angel
 1 Battlefield Forge
@@ -51,8 +53,6 @@
 1 Selfless Savior
 1 Aven Mindcensor
 2 Aven Mindcensor
-1 Shefet Dunes
-2 Shefet Dunes
 1 Brushland
 1 Snow-Covered Forest
 1 Knight of Autumn
@@ -62,47 +62,47 @@
 3 Brushland
 4 Brushland
 1 Renegade Rallier
-1 Charming Prince
 1 Forest
+1 Charming Prince
 1 Stirring Wildwood
 1 Qasali Pridemage
 1 Temple Garden
 1 Windswept Heath
 1 Scavenging Ooze
 2 Charming Prince
-2 Temple Garden
-2 Renegade Rallier
 2 Qasali Pridemage
 2 Forest
+2 Temple Garden
 2 Scavenging Ooze
+2 Renegade Rallier
 3 Temple Garden
-4 Restoration Angel
 4 Razorverge Thicket
-1 Inspiring Vantage
+4 Restoration Angel
 1 Smuggler's Copter
-1 Sacred Foundry
+1 Inspiring Vantage
 1 Snow-Covered Mountain
 1 Goblin Rabblemaster
 1 Angrath's Marauders
 1 Winota, Joiner of Forces
 1 Mountain
 1 Lightning Bolt
+1 Sacred Foundry
 1 Seasoned Pyromancer
-2 Inspiring Vantage
 2 Smuggler's Copter
+2 Inspiring Vantage
 2 Angrath's Marauders
-2 Goblin Rabblemaster
 2 Winota, Joiner of Forces
+2 Goblin Rabblemaster
 2 Sacred Foundry
 2 Seasoned Pyromancer
 2 Mountain
 2 Lightning Bolt
 3 Inspiring Vantage
+3 Smuggler's Copter
 3 Sacred Foundry
+3 Lightning Bolt
 3 Winota, Joiner of Forces
 3 Angrath's Marauders
-3 Smuggler's Copter
-3 Lightning Bolt
 3 Seasoned Pyromancer
 3 Mountain
 4 Inspiring Vantage
@@ -146,9 +146,9 @@
 2 Deputy of Detention
 2 Spell Queller
 2 Seachrome Coast
-2 Lurrus of the Dream-Den
 2 Meddling Mage
 2 Island
+2 Lurrus of the Dream-Den
 2 Hallowed Fountain
 2 Flooded Strand
 3 Seachrome Coast

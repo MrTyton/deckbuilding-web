@@ -48,7 +48,6 @@
 3 Dack Fayden
 4 Astrolabe
 1 Swamp
-1 Murderous Rider
 1 Thoughtseize
 1 Eliminate
 1 Urborg, Tomb of Yawgmoth
@@ -65,14 +64,15 @@
 1 Mishra's Factory
 1 Liliana of the Veil
 1 Castle Locthwain
-2 Murderous Rider
+1 Murderous Rider
 2 Swamp
-2 Eliminate
 2 Liliana, the Last Hope
+2 Murderous Rider
 2 Liliana's Triumph
 2 Urborg, Tomb of Yawgmoth
 2 Thoughtseize
 2 Hymn to Tourach
+2 Eliminate
 2 Dark Ritual
 2 Blast Zone
 2 Cabal Pit
@@ -83,6 +83,7 @@
 2 Mishra's Factory
 2 Liliana of the Veil
 2 Castle Locthwain
+3 Swamp
 3 Eliminate
 3 Tombstalker
 3 Rotting Regisaur
@@ -93,7 +94,6 @@
 3 Liliana of the Veil
 3 Liliana's Triumph
 3 Urborg, Tomb of Yawgmoth
-3 Swamp
 3 Hymn to Tourach
 4 Dark Ritual
 4 Urborg, Tomb of Yawgmoth
@@ -106,9 +106,9 @@
 5 Swamp
 6 Swamp
 1 Surgical Extraction
+1 Gilded Goose
 1 Taiga
 1 Fire / Ice
-1 Gilded Goose
 1 Forked Bolt
 1 Noble Hierarch
 1 Delver of Secrets

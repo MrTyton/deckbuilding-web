@@ -46,7 +46,6 @@
 1 Muddle the Mixture
 1 Snow-Covered Swamp
 2 Snow-Covered Island
-1 Dark Confidant
 1 Thespian's Stage
 1 Mishra's Bauble
 1 Dark Depths
@@ -54,35 +53,36 @@
 1 Ponder
 1 Chrome Mox
 1 Urborg, Tomb of Yawgmoth
+1 Dark Confidant
 1 Castle Locthwain
 1 Vampire Hexmage
 1 Thopter Foundry
 1 Gitaxian Probe
 2 Mishra's Bauble
-2 Dark Confidant
 2 Vampire Hexmage
 2 Preordain
 2 Ponder
 2 Chrome Mox
+2 Dark Confidant
 2 Dark Depths
 2 Gitaxian Probe
 2 Thopter Foundry
 2 Thespian's Stage
 2 Urborg, Tomb of Yawgmoth
-3 Dark Confidant
 3 Ponder
 3 Chrome Mox
 3 Preordain
 3 Vampire Hexmage
 3 Urborg, Tomb of Yawgmoth
+3 Dark Confidant
 3 Thopter Foundry
 3 Dark Depths
 3 Gitaxian Probe
-4 Dark Confidant
 4 Ponder
 4 Chrome Mox
 4 Preordain
 4 Thoughtseize
+4 Dark Confidant
 4 Gitaxian Probe
 4 Dark Depths
 4 Vampire Hexmage
@@ -171,9 +171,9 @@
 1 Snow-Covered Mountain
 1 Spell Queller
 1 Wall of Omens
+1 Fae of Wishes
 1 Prismatic Vista
 1 Delay
-1 Fae of Wishes
 1 Sacred Foundry
 1 Chandra, Torch of Defiance
 1 Commandeer
@@ -210,39 +210,39 @@
 3 Snow-Covered Plains
 3 Possibility Storm
 3 Scalding Tarn
+4 Flooded Strand
 4 Spell Queller
-4 Fae of Wishes
 4 Snow-Covered Island
 4 Drannith Magistrate
 4 Prismatic Vista
 4 Wall of Omens
 4 Arid Mesa
 4 Scalding Tarn
-4 Flooded Strand
+4 Fae of Wishes
 4 Snow-Covered Plains
 4 Delay
 5 Snow-Covered Island
 5 Snow-Covered Plains
 1 Silundi Vision
+1 Beyeen Veil
 1 Skyclave Cleric
 1 Jwari Disruption
 1 Talisman of Progress
 1 Disrupting Shoal
 1 Teferi, Hero of Dominaria
-1 Beyeen Veil
 1 Pieces of the Puzzle
 1 Path to Exile
 1 Selective Memory
 1 Snapback
+2 Beyeen Veil
 2 Silundi Vision
 2 Skyclave Cleric
-2 Talisman of Progress
 2 Jwari Disruption
+2 Talisman of Progress
 2 Disrupting Shoal
 2 Selective Memory
 2 Path to Exile
 2 Snapback
-2 Beyeen Veil
 2 Pieces of the Puzzle
 3 Talisman of Progress
 3 Jwari Disruption
@@ -252,10 +252,10 @@
 3 Path to Exile
 3 Selective Memory
 4 Jwari Disruption
-4 Silundi Vision
 4 Talisman of Progress
 4 Selective Memory
 4 Disrupting Shoal
+4 Silundi Vision
 1 Worldspine Wurm
 1 Hallowed Fountain
 1 Castle Vantress
@@ -284,11 +284,6 @@
 3 Sphere of the Suns
 4 Wild Cantor
 4 Sword of the Meek
-1 Akoum Warrior
-2 Akoum Warrior
-2 Veil of Summer
-3 Veil of Summer
-4 Veil of Summer
 1 Nexus of Fate
 1 Talisman of Resilience
 1 Hagra Mauling
@@ -300,6 +295,11 @@
 3 Talisman of Resilience
 4 Pelakka Predation
 4 Leyline of Sanctity
+1 Akoum Warrior
+2 Akoum Warrior
+2 Veil of Summer
+3 Veil of Summer
+4 Veil of Summer
 3 Pact of Negation
 4 Pact of Negation
 1 Mission Briefing
@@ -363,17 +363,17 @@
 4 Serum Visions
 4 Spoils of the Vault
 4 Angel's Grace
-1 Stomping Ground
 1 Through the Breach
 1 Gemstone Caverns
-1 Vizier of Remedies
 1 Emrakul, the Aeons Torn
+1 Vizier of Remedies
 1 Wooded Foothills
 1 Windswept Heath
 1 Charming Prince
-1 Elesh Norn, Grand Cenobite
 1 Flickerwisp
 1 Dubious Challenge
+1 Elesh Norn, Grand Cenobite
+1 Stomping Ground
 1 Temple Garden
 1 Devoted Druid
 1 Misty Rainforest

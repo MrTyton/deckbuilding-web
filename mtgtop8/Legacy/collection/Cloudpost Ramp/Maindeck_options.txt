@@ -1,4 +1,4 @@
-1 Ensnaring Bridge
+2 Ulamog, the Ceaseless Hunger
 1 Manifold Key
 2 Manifold Key
 3 Sorcerous Spyglass
@@ -20,19 +20,22 @@
 3 Ugin, the Spirit Dragon
 3 City of Traitors
 3 Thran Dynamo
+2 Eye of Ugin
 1 Pithing Needle
 2 Pithing Needle
 1 Bojuka Bog
-1 Candelabra of Tawnos
+1 Cavern of Souls
 1 Crop Rotation
 2 Crop Rotation
 3 Crop Rotation
 1 Expedition Map
 1 Once Upon a Time
 1 Maze of Ith
+1 Primeval Titan
 1 Forest
 2 Expedition Map
 2 Forest
+2 Primeval Titan
 3 Expedition Map
 3 Pithing Needle
 3 Forest
@@ -40,21 +43,15 @@
 4 Forest
 5 Forest
 6 Forest
-2 Eye of Ugin
-1 Warping Wail
-2 Warping Wail
-1 Cavern of Souls
-7 Forest
-1 Primeval Titan
-2 Primeval Titan
+1 Candelabra of Tawnos
 1 Kozilek, Butcher of Truth
 1 Karn Liberated
 1 Planar Bridge
 1 Kuldotha Forgemaster
 2 Kuldotha Forgemaster
-1 Forsaken Monument
 1 Basalt Monolith
 1 Inventors' Fair
+1 Forsaken Monument
 1 Staff of Domination
 2 Forsaken Monument
 2 Basalt Monolith
@@ -75,23 +72,16 @@
 4 Once Upon a Time
 4 Elvish Reclaimer
 4 Green Sun's Zenith
-1 Boompile
-1 Retrofitter Foundry
-1 Hour of Promise
-1 Ancient Stirrings
-2 Retrofitter Foundry
-2 Ancient Stirrings
-3 Ancient Stirrings
-4 Ancient Stirrings
-8 Forest
+7 Forest
 3 Trinisphere
+1 Warping Wail
+2 Warping Wail
 3 Walking Ballista
 2 Candelabra of Tawnos
 3 Candelabra of Tawnos
 1 The Tabernacle at Pendrell Vale
 3 Ulamog, the Ceaseless Hunger
 4 Golos, Tireless Pilgrim
-1 Emrakul, the Promised End
 1 Buried Ruin
 2 Mystic Forge
 1 Temple Garden
@@ -116,6 +106,16 @@
 3 Reality Smasher
 4 Matter Reshaper
 4 Eldrazi Temple
+1 Boompile
+1 Retrofitter Foundry
+1 Emrakul, the Promised End
+1 Hour of Promise
+1 Ancient Stirrings
+2 Retrofitter Foundry
+2 Ancient Stirrings
+3 Ancient Stirrings
+4 Ancient Stirrings
+8 Forest
 1 Tropical Island
 1 Shark Typhoon
 1 Stifle
@@ -151,10 +151,3 @@
 3 Unbound Flourishing
 4 Misty Rainforest
 4 Brainstorm
-1 From Beyond
-1 Sylvan Scrying
-2 Hour of Promise
-2 Boompile
-3 Hour of Promise
-4 Vesuva
-9 Forest
