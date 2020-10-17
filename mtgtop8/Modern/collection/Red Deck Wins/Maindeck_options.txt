@@ -28,12 +28,12 @@
 1 Seasoned Pyromancer
 1 Bonecrusher Giant
 1 Flame Slash
+2 Bonecrusher Giant
 2 Seasoned Pyromancer
 2 Flame Slash
-2 Bonecrusher Giant
 3 Seasoned Pyromancer
-3 Firebolt
 3 Bonecrusher Giant
+3 Firebolt
 4 Seasoned Pyromancer
 4 Bonecrusher Giant
 1 Blistercoil Weird
@@ -73,8 +73,8 @@
 1 Burst Lightning
 1 Atarka's Command
 1 Stomping Ground
-2 Atarka's Command
 2 Stomping Ground
+2 Atarka's Command
 3 Atarka's Command
 4 Atarka's Command
 1 Bedlam Reveler
@@ -125,20 +125,6 @@
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
-1 Shard Volley
-1 Bump in the Night
-1 Fatal Push
-1 Scourge of the Skyclaves
-1 Cling to Dust
-2 Bump in the Night
-2 Fatal Push
-2 Scourge of the Skyclaves
-2 Shard Volley
-3 Scourge of the Skyclaves
-3 Bump in the Night
-3 Blood Crypt
-4 Scourge of the Skyclaves
-4 Bump in the Night
 1 Magus of the Moon
 2 Magus of the Moon
 3 Forgotten Cave
@@ -148,6 +134,20 @@
 2 Chandra's Incinerator
 3 Chandra's Incinerator
 4 Chandra's Incinerator
+1 Shard Volley
+1 Bump in the Night
+1 Scourge of the Skyclaves
+1 Fatal Push
+1 Cling to Dust
+2 Bump in the Night
+2 Scourge of the Skyclaves
+2 Fatal Push
+2 Shard Volley
+3 Scourge of the Skyclaves
+3 Bump in the Night
+3 Blood Crypt
+4 Bump in the Night
+4 Scourge of the Skyclaves
 1 Thunderous Wrath
 1 Grim Lavamancer
 1 Wild Nacatl
@@ -161,8 +161,8 @@
 4 Copperline Gorge
 4 Wild Nacatl
 4 Wooded Foothills
-1 Temur Battle Rage
 1 Thoughtseize
+1 Temur Battle Rage
 2 Temur Battle Rage
 2 Thoughtseize
 3 Thoughtseize

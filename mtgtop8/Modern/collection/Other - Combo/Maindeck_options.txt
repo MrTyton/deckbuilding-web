@@ -132,9 +132,9 @@
 1 Salvage Titan
 1 Undercity Informer
 2 Vengevine
+2 Agadeem's Awakening
 2 Narcomoeba
 2 Creeping Chill
-2 Agadeem's Awakening
 2 Undercity Informer
 2 Pelakka Predation
 2 Balustrade Spy
@@ -171,13 +171,13 @@
 1 Snow-Covered Mountain
 1 Spell Queller
 1 Wall of Omens
-1 Fae of Wishes
 1 Prismatic Vista
 1 Delay
 1 Sacred Foundry
 1 Chandra, Torch of Defiance
 1 Commandeer
 1 Narset of the Ancient Way
+1 Fae of Wishes
 1 Reverse the Sands
 1 Snow-Covered Plains
 1 Drannith Magistrate
@@ -187,29 +187,30 @@
 2 Snow-Covered Mountain
 2 Wall of Omens
 2 Snow-Covered Plains
-2 Fae of Wishes
 2 Delay
 2 Prismatic Vista
-2 Spellskite
 2 Drannith Magistrate
+2 Spellskite
 2 Narset of the Ancient Way
 2 Possibility Storm
 2 Chandra, Torch of Defiance
 2 Jace, the Mind Sculptor
 2 Flooded Strand
+2 Fae of Wishes
 2 Commandeer
 3 Spell Queller
 3 Snow-Covered Island
 3 Wall of Omens
-3 Fae of Wishes
 3 Prismatic Vista
+3 Drannith Magistrate
 3 Arid Mesa
 3 Delay
-3 Drannith Magistrate
 3 Flooded Strand
+3 Fae of Wishes
 3 Snow-Covered Plains
 3 Possibility Storm
 3 Scalding Tarn
+4 Scalding Tarn
 4 Flooded Strand
 4 Spell Queller
 4 Snow-Covered Island
@@ -217,24 +218,22 @@
 4 Prismatic Vista
 4 Wall of Omens
 4 Arid Mesa
-4 Scalding Tarn
 4 Fae of Wishes
 4 Snow-Covered Plains
 4 Delay
 5 Snow-Covered Island
 5 Snow-Covered Plains
 1 Silundi Vision
-1 Beyeen Veil
 1 Skyclave Cleric
 1 Jwari Disruption
 1 Talisman of Progress
 1 Disrupting Shoal
 1 Teferi, Hero of Dominaria
+1 Beyeen Veil
 1 Pieces of the Puzzle
 1 Path to Exile
 1 Selective Memory
 1 Snapback
-2 Beyeen Veil
 2 Silundi Vision
 2 Skyclave Cleric
 2 Jwari Disruption
@@ -243,6 +242,7 @@
 2 Selective Memory
 2 Path to Exile
 2 Snapback
+2 Beyeen Veil
 2 Pieces of the Puzzle
 3 Talisman of Progress
 3 Jwari Disruption
@@ -251,10 +251,10 @@
 3 Snapback
 3 Path to Exile
 3 Selective Memory
+4 Disrupting Shoal
 4 Jwari Disruption
 4 Talisman of Progress
 4 Selective Memory
-4 Disrupting Shoal
 4 Silundi Vision
 1 Worldspine Wurm
 1 Hallowed Fountain
@@ -302,8 +302,8 @@
 4 Veil of Summer
 3 Pact of Negation
 4 Pact of Negation
-1 Mission Briefing
 1 Godless Shrine
+1 Mission Briefing
 1 Blood Crypt
 1 Rakdos Charm
 1 Bloodstained Mire
@@ -365,11 +365,11 @@
 4 Angel's Grace
 1 Through the Breach
 1 Gemstone Caverns
-1 Emrakul, the Aeons Torn
 1 Vizier of Remedies
 1 Wooded Foothills
 1 Windswept Heath
 1 Charming Prince
+1 Emrakul, the Aeons Torn
 1 Flickerwisp
 1 Dubious Challenge
 1 Elesh Norn, Grand Cenobite
@@ -380,6 +380,7 @@
 1 Forest
 1 Utopia Sprawl
 1 Eladamri's Call
+2 Worldspine Wurm
 2 Through the Breach
 2 Devoted Druid
 2 Emrakul, the Aeons Torn
@@ -390,7 +391,6 @@
 2 Charming Prince
 2 Gemstone Caverns
 2 Stomping Ground
-2 Worldspine Wurm
 2 Plains
 2 Misty Rainforest
 2 Dubious Challenge

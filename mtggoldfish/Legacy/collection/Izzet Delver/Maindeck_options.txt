@@ -1,40 +1,40 @@
 1 Misty Rainforest
 1 Snow-Covered Mountain
-2 Flooded Strand
 3 Sprite Dragon
-4 Preordain
 1 Vapor Snag
-2 Brazen Borrower
+2 Flooded Strand
 1 Spell Pierce
-2 Polluted Delta
+2 Brazen Borrower
+4 Preordain
 3 Flooded Strand
+2 Polluted Delta
 4 Sprite Dragon
 3 Chain Lightning
 1 Pyroblast
 4 Volcanic Island
-1 True-Name Nemesis
 2 Misty Rainforest
 1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Monastery Swiftspear
 4 Monastery Swiftspear
-1 Price of Progress
 2 Fiery Islet
 1 Ethereal Forager
 2 Ethereal Forager
+1 True-Name Nemesis
 1 Stifle
 1 Spell Snare
-2 Bloodstained Mire
-2 Price of Progress
+1 Price of Progress
 1 Gut Shot
 2 Gut Shot
 3 Polluted Delta
 1 Magmatic Sinkhole
+2 Bloodstained Mire
+2 Price of Progress
+1 Wooded Foothills
 3 Young Pyromancer
 2 True-Name Nemesis
 4 Chain Lightning
 2 Spell Pierce
-1 Wooded Foothills
 3 Snow-Covered Island
 1 Arid Mesa
 4 Polluted Delta
@@ -43,7 +43,6 @@
 2 Magmatic Channeler
 3 Magmatic Channeler
 4 Magmatic Channeler
-3 Price of Progress
 4 Flooded Strand
 1 Surgical Extraction
 2 Surgical Extraction
@@ -51,11 +50,13 @@
 1 Stormwing Entity
 2 Stormwing Entity
 3 Gut Shot
-1 Fireblast
+2 Vapor Snag
 3 Force of Negation
+3 Price of Progress
 1 Waterlogged Grove
 3 Misty Rainforest
 3 True-Name Nemesis
+4 Young Pyromancer
 1 Snapcaster Mage
 1 Counterspell
 1 Narset, Parter of Veils
@@ -68,7 +69,6 @@
 4 Accumulated Knowledge
 3 Stifle
 4 Stifle
-4 Young Pyromancer
 1 Cleansing Wildfire
 2 Cleansing Wildfire
 3 Cleansing Wildfire

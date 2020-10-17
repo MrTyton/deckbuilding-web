@@ -103,10 +103,8 @@
 4 Crop Rotation
 3 Tropical Island
 1 Cavern of Souls
-1 Vesuva
 1 Cyclonic Rift
 1 Pithing Needle
-1 Glacial Chasm
 1 Prophet of Kruphix
 1 Ugin, the Spirit Dragon
 1 Golos, Tireless Pilgrim
@@ -115,21 +113,23 @@
 1 Glimmerpost
 1 Candelabra of Tawnos
 1 Ulamog, the Ceaseless Hunger
+1 Glacial Chasm
 1 Prophetic Prism
 1 Thought-Knot Seer
 1 Kiora, Behemoth Beckoner
 1 Dryad of the Ilysian Grove
 1 Green Sun's Zenith
 1 Eye of Ugin
+1 Vesuva
 1 Once Upon a Time
 1 Emrakul, the Aeons Torn
 1 Primeval Titan
 1 Ramunap Excavator
 2 Snow-Covered Forest
 2 Cavern of Souls
-2 Primeval Titan
 2 Vesuva
 2 Pithing Needle
+2 Primeval Titan
 2 Cloudpost
 2 Glimmerpost
 2 Green Sun's Zenith
@@ -231,22 +231,22 @@
 4 Invigorate
 1 Waterlogged Grove
 1 Riftstone Portal
-1 Exploration
 1 Rishadan Port
+1 Exploration
 1 Wooded Foothills
 1 Ghost Quarter
 2 Waterlogged Grove
-2 Exploration
 2 Rishadan Port
 2 Dark Depths
 2 Maze of Ith
-3 Exploration
+2 Exploration
 3 Thespian's Stage
 3 Rishadan Port
+3 Exploration
 3 Dark Depths
-4 Exploration
 4 Oko, Thief of Crowns
 4 Life from the Loam
+4 Exploration
 4 Thespian's Stage
 1 Street Wraith
 1 Secluded Steppe

@@ -1,4 +1,4 @@
-1 Snow-Covered Swamp
+1 Snow-Covered Forest
 4 Misty Rainforest
 1 Abrupt Decay
 4 Kaya's Guile
@@ -16,10 +16,10 @@
 2 Verdant Catacombs
 1 Snapcaster Mage
 4 Windswept Heath
-1 Plains
+1 Mountain
 1 Island
 1 Swamp
-1 Mountain
+1 Plains
 1 Forest
 2 Abrupt Decay
 3 Pillar of the Paruns
@@ -54,9 +54,9 @@
 4 Ice-Fang Coatl
 1 Kaya, Orzhov Usurper
 1 Sword of Feast and Famine
+1 Stoneforge Mystic
 1 Batterskull
 1 Sword of Fire and Ice
-1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
@@ -77,8 +77,8 @@
 2 Manamorphose
 2 Forest
 2 Birds of Paradise
-1 Reflecting Pool
 1 Ashiok, Dream Render
+1 Reflecting Pool
 1 Eladamri's Call
 1 Faeburrow Elder
 1 Nicol Bolas, the Ravager
