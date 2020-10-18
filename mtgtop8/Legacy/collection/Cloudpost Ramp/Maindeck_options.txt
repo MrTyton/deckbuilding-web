@@ -49,9 +49,9 @@
 1 Planar Bridge
 1 Kuldotha Forgemaster
 2 Kuldotha Forgemaster
-1 Forsaken Monument
 1 Basalt Monolith
 1 Inventors' Fair
+1 Forsaken Monument
 1 Staff of Domination
 2 Forsaken Monument
 2 Basalt Monolith
@@ -106,16 +106,6 @@
 3 Reality Smasher
 4 Matter Reshaper
 4 Eldrazi Temple
-1 Boompile
-1 Retrofitter Foundry
-1 Emrakul, the Promised End
-1 Hour of Promise
-1 Ancient Stirrings
-2 Retrofitter Foundry
-2 Ancient Stirrings
-3 Ancient Stirrings
-4 Ancient Stirrings
-8 Forest
 1 Tropical Island
 1 Shark Typhoon
 1 Stifle
@@ -129,6 +119,7 @@
 1 Snow-Covered Island
 1 Misty Rainforest
 1 Force of Will
+2 Misty Rainforest
 2 Tropical Island
 2 Shark Typhoon
 2 Stifle
@@ -141,7 +132,6 @@
 2 Brainstorm
 2 Hydroid Krasis
 2 Prismatic Vista
-2 Misty Rainforest
 3 Misty Rainforest
 3 Tropical Island
 3 Stifle
@@ -151,3 +141,13 @@
 3 Unbound Flourishing
 4 Misty Rainforest
 4 Brainstorm
+1 Boompile
+1 Retrofitter Foundry
+1 Emrakul, the Promised End
+1 Hour of Promise
+1 Ancient Stirrings
+2 Retrofitter Foundry
+2 Ancient Stirrings
+3 Ancient Stirrings
+4 Ancient Stirrings
+8 Forest

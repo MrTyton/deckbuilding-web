@@ -1,22 +1,23 @@
+4 Sea Gate Restoration
+2 Pact of Negation
+1 Force of Negation
+2 Force of Negation
+1 Polluted Delta
 1 Watery Grave
 2 Polluted Delta
 2 Watery Grave
-3 Polluted Delta
-4 Polluted Delta
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
 1 Opt
 2 Opt
 3 Opt
 4 Opt
-1 Island
 1 Thassa's Oracle
 1 Jace, Wielder of Mysteries
 2 Thassa's Oracle
-1 Swamp
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
+1 Scalding Tarn
+1 Island
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
 1 Shelldock Isle
 1 Inverter of Truth
 2 Shelldock Isle
@@ -25,6 +26,11 @@
 3 Jace, Wielder of Mysteries
 3 Inverter of Truth
 4 Inverter of Truth
+1 Swamp
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
+3 Polluted Delta
+4 Polluted Delta
 1 Remand
 1 Fatal Push
 1 Murderous Cut
@@ -40,11 +46,11 @@
 2 Scalding Tarn
 3 Watery Grave
 1 Snow-Covered Island
-3 Force of Negation
 1 Sword of the Meek
 2 Sword of the Meek
-1 Muddle the Mixture
+3 Force of Negation
 1 Snow-Covered Swamp
+1 Muddle the Mixture
 2 Snow-Covered Island
 1 Thespian's Stage
 1 Mishra's Bauble
@@ -90,9 +96,14 @@
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
-1 Sunken Ruins
+3 Pact of Negation
+4 Pact of Negation
 3 Shelldock Isle
 4 Shelldock Isle
+1 Sunken Ruins
+1 Vessel of Volatility
+2 Vessel of Volatility
+3 Vessel of Volatility
 1 Snapcaster Mage
 1 Tasigur, the Golden Fang
 1 Vendilion Clique
@@ -103,18 +114,11 @@
 4 Jace, Wielder of Mysteries
 4 Fatal Push
 1 Veil of Summer
-1 Vessel of Volatility
-2 Vessel of Volatility
-3 Vessel of Volatility
 1 Relic of Progenitus
 2 Swamp
 4 Watery Grave
 1 Cling to Dust
 4 River of Tears
-1 Sea Gate Restoration
-2 Sea Gate Restoration
-1 Pact of Negation
-3 Sea Gate Restoration
 1 Pentad Prism
 2 Pentad Prism
 3 Pentad Prism
@@ -149,8 +153,6 @@
 4 Undercity Informer
 4 Balustrade Spy
 4 Agadeem's Awakening
-2 Pact of Negation
-4 Sea Gate Restoration
 3 Thassa's Oracle
 4 Thassa's Oracle
 4 Emeria's Call
@@ -173,11 +175,11 @@
 1 Wall of Omens
 1 Prismatic Vista
 1 Delay
+1 Fae of Wishes
 1 Sacred Foundry
 1 Chandra, Torch of Defiance
 1 Commandeer
 1 Narset of the Ancient Way
-1 Fae of Wishes
 1 Reverse the Sands
 1 Snow-Covered Plains
 1 Drannith Magistrate
@@ -187,26 +189,26 @@
 2 Snow-Covered Mountain
 2 Wall of Omens
 2 Snow-Covered Plains
-2 Delay
 2 Prismatic Vista
-2 Drannith Magistrate
+2 Delay
+2 Fae of Wishes
 2 Spellskite
+2 Drannith Magistrate
 2 Narset of the Ancient Way
 2 Possibility Storm
 2 Chandra, Torch of Defiance
 2 Jace, the Mind Sculptor
 2 Flooded Strand
-2 Fae of Wishes
 2 Commandeer
 3 Spell Queller
 3 Snow-Covered Island
 3 Wall of Omens
 3 Prismatic Vista
-3 Drannith Magistrate
+3 Fae of Wishes
 3 Arid Mesa
+3 Drannith Magistrate
 3 Delay
 3 Flooded Strand
-3 Fae of Wishes
 3 Snow-Covered Plains
 3 Possibility Storm
 3 Scalding Tarn
@@ -227,22 +229,22 @@
 1 Skyclave Cleric
 1 Jwari Disruption
 1 Talisman of Progress
+1 Beyeen Veil
 1 Disrupting Shoal
 1 Teferi, Hero of Dominaria
-1 Beyeen Veil
 1 Pieces of the Puzzle
 1 Path to Exile
 1 Selective Memory
 1 Snapback
 2 Silundi Vision
 2 Skyclave Cleric
-2 Jwari Disruption
 2 Talisman of Progress
+2 Jwari Disruption
 2 Disrupting Shoal
+2 Beyeen Veil
 2 Selective Memory
 2 Path to Exile
 2 Snapback
-2 Beyeen Veil
 2 Pieces of the Puzzle
 3 Talisman of Progress
 3 Jwari Disruption
@@ -253,9 +255,9 @@
 3 Selective Memory
 4 Disrupting Shoal
 4 Jwari Disruption
+4 Silundi Vision
 4 Talisman of Progress
 4 Selective Memory
-4 Silundi Vision
 1 Worldspine Wurm
 1 Hallowed Fountain
 1 Castle Vantress
@@ -300,8 +302,6 @@
 2 Veil of Summer
 3 Veil of Summer
 4 Veil of Summer
-3 Pact of Negation
-4 Pact of Negation
 1 Godless Shrine
 1 Mission Briefing
 1 Blood Crypt
@@ -347,8 +347,8 @@
 1 Talisman of Dominance
 1 Spoils of the Vault
 1 City of Brass
-2 Talisman of Dominance
 2 Wishclaw Talisman
+2 Talisman of Dominance
 2 Spoils of the Vault
 2 Gemstone Mine
 2 City of Brass
@@ -363,14 +363,14 @@
 4 Serum Visions
 4 Spoils of the Vault
 4 Angel's Grace
-1 Through the Breach
 1 Gemstone Caverns
+1 Emrakul, the Aeons Torn
+1 Through the Breach
 1 Vizier of Remedies
 1 Wooded Foothills
 1 Windswept Heath
-1 Charming Prince
-1 Emrakul, the Aeons Torn
 1 Flickerwisp
+1 Charming Prince
 1 Dubious Challenge
 1 Elesh Norn, Grand Cenobite
 1 Stomping Ground
@@ -380,38 +380,38 @@
 1 Forest
 1 Utopia Sprawl
 1 Eladamri's Call
-2 Worldspine Wurm
+2 Emrakul, the Aeons Torn
 2 Through the Breach
 2 Devoted Druid
-2 Emrakul, the Aeons Torn
 2 Forest
-2 Flickerwisp
 2 Wooded Foothills
 2 Windswept Heath
-2 Charming Prince
 2 Gemstone Caverns
 2 Stomping Ground
+2 Charming Prince
+2 Flickerwisp
+2 Worldspine Wurm
 2 Plains
 2 Misty Rainforest
 2 Dubious Challenge
 2 Utopia Sprawl
 2 Eladamri's Call
 2 Temple Garden
-3 Charming Prince
+3 Emrakul, the Aeons Torn
 3 Through the Breach
 3 Devoted Druid
-3 Emrakul, the Aeons Torn
 3 Windswept Heath
+3 Flickerwisp
+3 Charming Prince
 3 Dubious Challenge
 3 Eladamri's Call
-3 Flickerwisp
 3 Temple Garden
 3 Utopia Sprawl
-4 Charming Prince
 4 Windswept Heath
+4 Emrakul, the Aeons Torn
 4 Through the Breach
 4 Devoted Druid
-4 Emrakul, the Aeons Torn
+4 Charming Prince
 4 Utopia Sprawl
 4 Flickerwisp
 4 Dubious Challenge

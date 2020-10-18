@@ -110,7 +110,7 @@
 |                    2|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)              |                     |                                                                                                     |
 |                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)                |                     |                                                                                                     |
 |                    1|[Dragonskull Summit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420909)          |                     |                                                                                                     |
-|                    1|Cut / Ribbons                                                                                          |                     |                                                                                                     |
 |                    1|[Lumbering Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401943)             |                     |                                                                                                     |
+|                    1|Cut / Ribbons                                                                                          |                     |                                                                                                     |
 |                    1|[Cleansing Nova](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447145)              |                     |                                                                                                     |
 

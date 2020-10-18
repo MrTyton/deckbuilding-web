@@ -5,8 +5,8 @@
 3 Mystical Dispute
 1 Cultivate
 1 Arboreal Grazer
-2 Temple of Abandon
 2 Cultivate
+2 Temple of Abandon
 2 Arboreal Grazer
 3 Cultivate
 3 Temple of Mystery
@@ -22,8 +22,8 @@
 4 Forest
 1 Bonecrusher Giant
 1 Brazen Borrower
-2 Bonecrusher Giant
 2 Brazen Borrower
+2 Bonecrusher Giant
 3 Bonecrusher Giant
 3 Mountain
 1 Shark Typhoon
@@ -35,18 +35,18 @@
 1 Terror of the Peaks
 1 Shatterskull Smashing
 1 Questing Beast
-1 Spikefield Hazard
+1 Cragcrown Pathway
 1 Radha, Heart of Keld
 1 Neutralize
 1 Unsubstantiate
 1 Tangled Florahedron
-1 Cragcrown Pathway
 1 Embercleave
-2 Spikefield Hazard
+1 Spikefield Hazard
 2 Questing Beast
 2 Neutralize
 2 Embercleave
 2 Tangled Florahedron
+2 Spikefield Hazard
 3 Questing Beast
 3 Embercleave
 3 Spikefield Hazard
@@ -87,11 +87,11 @@
 1 Scorch Spitter
 1 Lightning Stormkin
 1 Cloudkin Seer
-2 Thassa, Deep-Dwelling
 2 Healer of the Glade
 2 Scorch Spitter
 2 Cloudkin Seer
 2 Lightning Stormkin
+2 Thassa, Deep-Dwelling
 3 Healer of the Glade
 3 Lightning Stormkin
 3 Cloudkin Seer
@@ -113,43 +113,43 @@
 3 Nissa, Who Shakes the World
 1 Kazandu Mammoth
 2 Unsubstantiate
-2 Scavenging Ooze
 2 Illuna, Apex of Wishes
+2 Scavenging Ooze
 1 The Royal Scions
 5 Forest
 6 Forest
-1 Migratory Greathorn
+1 Ilysian Caryatid
 1 Zagoth Triome
 1 Gilded Goose
-1 Auspicious Starrix
 1 Crawling Barrens
 1 Lotus Cobra
 1 Sea-Dasher Octopus
-1 Ilysian Caryatid
+1 Thorn Mammoth
+1 Auspicious Starrix
+1 Pouncing Shoreshark
+1 Boneyard Lurker
 1 Tuktuk Rubblefort
 1 Gemrazer
 1 Castle Garenbrig
-1 Thorn Mammoth
 1 Pollywog Symbiote
 1 Brokkos, Apex of Forever
-1 Pouncing Shoreshark
-1 Boneyard Lurker
-2 Migratory Greathorn
-2 Gilded Goose
-2 Auspicious Starrix
+1 Migratory Greathorn
 2 Ilysian Caryatid
+2 Gilded Goose
 2 Sea-Dasher Octopus
 2 Terror of the Peaks
+2 Pouncing Shoreshark
+2 Auspicious Starrix
 2 Vivien, Monsters' Advocate
+2 Migratory Greathorn
 2 Gemrazer
 2 Pollywog Symbiote
 2 Lotus Cobra
-2 Pouncing Shoreshark
 3 Gilded Goose
-3 Migratory Greathorn
 3 Sea-Dasher Octopus
 3 Auspicious Starrix
 3 Pouncing Shoreshark
+3 Migratory Greathorn
 3 Gemrazer
 3 Lotus Cobra
 4 Migratory Greathorn
@@ -174,43 +174,43 @@
 3 Tangled Florahedron
 4 Spikefield Hazard
 1 Teferi, Master of Time
+1 Thornwood Falls
 1 Jace, Mirror Mage
 1 Swiftwater Cliffs
-1 Cragplate Baloth
 1 Cinderclasm
 1 Bubble Snare
+1 Cragplate Baloth
 1 Gnarlid Colony
 1 Vine Gecko
-1 Thornwood Falls
 1 Lullmage's Familiar
 1 Murasa Sproutling
 1 Roost of Drakes
 1 Roil Eruption
 1 Reclaim the Wastes
+2 Thornwood Falls
 2 Swiftwater Cliffs
+2 Bubble Snare
 2 Roost of Drakes
 2 Gnarlid Colony
 2 Vine Gecko
 2 Murasa Sproutling
 2 Lullmage's Familiar
 2 Roil Eruption
-2 Thornwood Falls
-2 Bubble Snare
 3 Roil Eruption
+3 Thornwood Falls
 3 Swiftwater Cliffs
 3 Negate
+3 Bubble Snare
 3 Into the Roil
 3 Roost of Drakes
-3 Bubble Snare
 3 Vine Gecko
 3 Lullmage's Familiar
-3 Thornwood Falls
 4 Roil Eruption
+4 Thornwood Falls
 4 Swiftwater Cliffs
+4 Into the Roil
 4 Negate
 4 Roost of Drakes
-4 Thornwood Falls
-4 Into the Roil
 4 Vine Gecko
 5 Island
 6 Island

@@ -1,15 +1,15 @@
 3 Monastery Swiftspear
 4 Monastery Swiftspear
-4 Inquisition of Kozilek
-4 Fatal Push
-1 Abrupt Decay
 1 Mutagenic Growth
 2 Mutagenic Growth
 3 Mutagenic Growth
+4 Fatal Push
 2 Cling to Dust
 3 Temur Battle Rage
 1 Seal of Fire
+4 Inquisition of Kozilek
 1 Ghor-Clan Rampager
+1 Abrupt Decay
 1 Scourge of the Skyclaves
 3 Wooded Foothills
 4 Lightning Bolt
@@ -27,8 +27,8 @@
 1 Snow-Covered Swamp
 1 Snow-Covered Forest
 1 Kolaghan's Command
-1 Grim Flayer
 4 Nurturing Peatland
+1 Grim Flayer
 4 Mutagenic Growth
 1 Unearth
 2 Seal of Fire
@@ -42,6 +42,8 @@
 4 Wooded Foothills
 4 Akoum Hellhound
 1 Polluted Delta
+1 Bloodchief's Thirst
+2 Bloodchief's Thirst
 1 Tarfire
 1 Feed the Swarm
 3 Blood Crypt
@@ -51,8 +53,6 @@
 1 Seasoned Pyromancer
 1 Hex Parasite
 1 Marsh Flats
-1 Bloodchief's Thirst
-2 Bloodchief's Thirst
 1 Crash Through
 1 Lightning Skelemental
 2 Crash Through
@@ -64,10 +64,8 @@
 2 Wrenn and Six
 2 Liliana of the Veil
 3 Wrenn and Six
-1 Manamorphose
-2 Manamorphose
-3 Manamorphose
-4 Manamorphose
+1 Kroxa, Titan of Death's Hunger
+3 Cling to Dust
 1 Mountain
 1 Sunbaked Canyon
 1 Bomat Courier
@@ -76,5 +74,9 @@
 3 Polluted Delta
 3 Scalding Tarn
 3 Bomat Courier
-4 Bomat Courier
 4 Blood Crypt
+4 Bomat Courier
+1 Manamorphose
+2 Manamorphose
+3 Manamorphose
+4 Manamorphose

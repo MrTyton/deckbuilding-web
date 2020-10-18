@@ -34,9 +34,9 @@
 1 Shark Typhoon
 1 Crawling Barrens
 1 Neutralize
-2 Neutralize
 2 Essence Scatter
 2 Shark Typhoon
+2 Neutralize
 3 Neutralize
 3 Shark Typhoon
 3 Essence Scatter
@@ -46,8 +46,8 @@
 1 Extinction Event
 2 Extinction Event
 1 Voracious Greatshark
-2 Castle Vantress
 2 Voracious Greatshark
+2 Castle Vantress
 2 Negate
 1 Brazen Borrower
 5 Swamp
@@ -93,22 +93,19 @@
 3 Brazen Borrower
 1 Nimble Trapfinder
 3 Lofty Denial
+3 Voracious Greatshark
+4 Voracious Greatshark
 1 Thirst for Meaning
 4 Jwari Disruption
-1 Sea Gate Restoration
-3 Silundi Vision
-3 Negate
-3 Mazemind Tome
-4 Mazemind Tome
 1 Shadows' Verdict
 2 Cling to Dust
 3 Extinction Event
 4 Bloodchief's Thirst
 1 Teferi, Master of Time
 1 Jace, Mirror Mage
-1 Grasp of Darkness
 1 Feed the Swarm
 1 Lochmere Serpent
+1 Grasp of Darkness
 1 Radiant Fountain
 1 Evolving Wilds
 2 Radiant Fountain
@@ -123,5 +120,8 @@
 1 Erebos's Intervention
 8 Island
 9 Island
-3 Voracious Greatshark
-4 Voracious Greatshark
+1 Sea Gate Restoration
+3 Silundi Vision
+3 Negate
+4 Mazemind Tome
+3 Mazemind Tome
