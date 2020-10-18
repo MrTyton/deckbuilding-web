@@ -1,13 +1,15 @@
+1 Walking Ballista
 1 Collected Company
-2 Ranger-Captain of Eos
 2 Conclave Mentor
+2 Ranger-Captain of Eos
 2 Heliod, Sun-Crowned
+2 Scavenging Ooze
 2 Spike Feeder
 2 Walking Ballista
 2 Collected Company
-3 Heliod, Sun-Crowned
-3 Ranger-Captain of Eos
 3 Conclave Mentor
+3 Ranger-Captain of Eos
+3 Heliod, Sun-Crowned
 3 Spike Feeder
 3 Collected Company
 4 Heliod, Sun-Crowned
@@ -15,29 +17,27 @@
 4 Spike Feeder
 3 Forest
 4 Conclave Mentor
-1 Scavenging Ooze
-2 Scavenging Ooze
 1 Auriok Champion
 4 Ranger-Captain of Eos
+2 Horizon Canopy
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Utopia Sprawl
-2 Auriok Champion
-2 Horizon Canopy
 4 Utopia Sprawl
+2 Auriok Champion
 4 Forest
-4 Temple Garden
 1 Arbor Elf
 2 Arbor Elf
 3 Arbor Elf
 3 Horizon Canopy
 1 Gavony Township
+4 Temple Garden
 2 Plains
 4 Arbor Elf
-1 Knight of Autumn
-1 Scattered Groves
 2 Castle Garenbrig
 2 Snow-Covered Forest
+1 Knight of Autumn
+1 Scattered Groves
 1 Hardened Scales
 2 Hardened Scales
 3 Scavenging Ooze
@@ -45,62 +45,62 @@
 1 Prismatic Vista
 3 Hardened Scales
 1 Skyclave Apparition
+4 Hardened Scales
 1 Explore
 2 Explore
-4 Hardened Scales
 2 Wooded Foothills
-1 Tireless Tracker
-1 Pendelhaven
 1 Verdant Catacombs
-1 Eternal Witness
-1 Archon of Emeria
-2 Skyclave Apparition
+1 Tireless Tracker
 1 Springbloom Druid
 1 Misty Rainforest
-1 Crumbling Vestige
-3 Auriok Champion
+1 Pendelhaven
+1 Archon of Emeria
+2 Skyclave Apparition
+1 Eternal Witness
 1 Wooded Bastion
+1 Crumbling Vestige
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
+3 Auriok Champion
 1 Wall of Blossoms
+1 Turntimber Symbiosis
 1 Courser of Kruphix
 1 Birds of Paradise
 2 Birds of Paradise
 3 Birds of Paradise
 2 Prismatic Vista
-1 Turntimber Symbiosis
 1 Sejiri Steppe
-3 Walking Ballista
 3 Wooded Foothills
 4 Wooded Foothills
+1 Lurrus of the Dream-Den
 2 Wall of Blossoms
+2 Verdant Catacombs
+3 Verdant Catacombs
 1 Summoner's Pact
 3 Explore
+1 Kazandu Mammoth
+3 Walking Ballista
 2 Snow-Covered Plains
 3 Snow-Covered Forest
 4 Snow-Covered Forest
 1 Elder Gargaroth
 2 Misty Rainforest
-4 Noble Hierarch
 1 Razorverge Thicket
-1 Lurrus of the Dream-Den
 1 Thalia, Guardian of Thraben
-4 Birds of Paradise
-2 Verdant Catacombs
-3 Verdant Catacombs
+3 Castle Garenbrig
 5 Snow-Covered Forest
-1 Kazandu Mammoth
 2 Sakura-Tribe Elder
 1 Elvish Rejuvenator
 1 Knight of the Reliquary
+4 Noble Hierarch
 2 Tireless Tracker
 1 Giver of Runes
 2 Giver of Runes
 2 Razorverge Thicket
 3 Razorverge Thicket
-4 Auriok Champion
 2 Thalia, Guardian of Thraben
+4 Birds of Paradise
 1 Collector Ouphe
 1 Reclamation Sage
 1 Gaddock Teeg
@@ -113,8 +113,6 @@
 1 Overgrown Tomb
 1 Kitchen Finks
 2 Kitchen Finks
-2 Wooded Bastion
-3 Castle Garenbrig
 1 Magus of the Moon
 1 Stomping Ground
 1 Mountain
@@ -125,6 +123,7 @@
 2 Stomping Ground
 3 Magus of the Moon
 3 Seasoned Pyromancer
+4 Verdant Catacombs
 1 Selfless Savior
 3 Misty Rainforest
 4 Misty Rainforest
@@ -135,14 +134,8 @@
 3 Marsh Flats
 3 Plains
 4 Plains
-1 Charming Prince
-1 Karn's Bastion
-1 Brushland
-2 Charming Prince
-3 Charming Prince
-4 Charming Prince
-4 Walking Ballista
-4 Horizon Canopy
+2 Wooded Bastion
+4 Auriok Champion
 6 Forest
 1 Golos, Tireless Pilgrim
 1 Aether Vial

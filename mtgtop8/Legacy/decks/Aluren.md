@@ -112,7 +112,7 @@
 |                    1|[Dryad Arbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136196)                 |                     |                                                                                                     |
 |                    1|[Green Sun's Zenith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413711)          |                     |                                                                                                     |
 |                    1|[Cadaver Imp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401690)                 |                     |                                                                                                     |
-|                    2|[Green Sun's Zenith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413711)          |                     |                                                                                                     |
 |                    2|[Leovold, Emissary of Trest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416834)  |                     |                                                                                                     |
+|                    2|[Green Sun's Zenith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413711)          |                     |                                                                                                     |
 |                    3|[Green Sun's Zenith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413711)          |                     |                                                                                                     |
 

@@ -1,16 +1,16 @@
+1 Island
 2 Island
-3 Jace, the Mind Sculptor
+2 Force of Negation
 3 Island
 2 Plains
 1 Portent
 2 Portent
-4 Island
-2 Force of Negation
 1 Spell Pierce
-6 Snow-Covered Island
-2 Prismatic Vista
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
+6 Snow-Covered Island
+4 Island
+2 Prismatic Vista
 3 Prismatic Vista
 4 Prismatic Vista
 1 Preordain
@@ -19,64 +19,77 @@
 3 Polluted Delta
 3 Scalding Tarn
 4 Scalding Tarn
-2 Back to Basics
-1 Lightning Bolt
-1 Dovin's Veto
-5 Island
 1 Misty Rainforest
+1 Dovin's Veto
+1 Lightning Bolt
 4 Polluted Delta
-2 Dovin's Veto
 1 Monastery Mentor
-2 Council's Judgment
-3 Predict
-2 Narset, Parter of Veils
 1 Gideon, Ally of Zendikar
-2 Lightning Bolt
-3 Counterbalance
+2 Back to Basics
+2 Dovin's Veto
+5 Island
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
+3 Predict
 4 Mishra's Bauble
 2 Monastery Mentor
+2 Narset, Parter of Veils
+2 Misty Rainforest
+3 Counterbalance
+2 Council's Judgment
 2 Counterspell
 1 Underground Sea
+1 Sevinne's Reclamation
 2 Karakas
+1 Red Elemental Blast
 1 Teferi, Master of Time
-2 Misty Rainforest
+2 Lightning Bolt
 2 Entreat the Angels
-3 Arcum's Astrolabe
 1 Swamp
 1 True-Name Nemesis
 2 Volcanic Island
-1 Sevinne's Reclamation
-1 Stoneforge Mystic
 1 Batterskull
+1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 3 Teferi, Time Raveler
 1 Spell Snare
 1 Arid Mesa
-1 Sword of Fire and Ice
 1 Vendilion Clique
+1 Sword of Fire and Ice
 1 Venser, Shaper Savant
 2 True-Name Nemesis
 2 Vendilion Clique
 3 True-Name Nemesis
 4 Stoneforge Mystic
+3 Arcum's Astrolabe
 1 Unexpectedly Absent
-1 Red Elemental Blast
 1 Cling to Dust
 1 Kaya, Orzhov Usurper
 2 Cling to Dust
 6 Island
+1 Tropical Island
+1 Oko, Thief of Crowns
+2 Oko, Thief of Crowns
+1 Snow-Covered Forest
+1 Sylvan Library
+1 Daze
+2 Daze
+3 Monastery Mentor
+3 Misty Rainforest
+3 Daze
+4 Predict
+4 Monastery Mentor
+4 Misty Rainforest
 1 Umezawa's Jitte
 2 Spell Pierce
-3 Portent
 1 Baleful Strix
 2 Baleful Strix
 3 Narset, Parter of Veils
 1 Personal Tutor
 1 Plague Engineer
+2 Tropical Island
 2 Preordain
 3 Spell Pierce
 3 Lightning Bolt
@@ -85,28 +98,25 @@
 4 Snapcaster Mage
 4 Lightning Bolt
 1 Liliana, the Last Hope
-1 Tropical Island
-1 Oko, Thief of Crowns
-2 Tropical Island
-2 Oko, Thief of Crowns
 3 Baleful Strix
 4 Baleful Strix
-1 Lavabrink Venturer
 1 Academy Ruins
 1 Path to Exile
 1 Rest in Peace
 1 Scrubland
+1 Lavabrink Venturer
 1 The Elderspell
-2 Lavabrink Venturer
 2 Supreme Verdict
 2 Rest in Peace
 2 The Elderspell
+2 Lavabrink Venturer
 3 Rest in Peace
 1 Veteran Explorer
+1 Forest
 1 Verdant Catacombs
+1 Noble Hierarch
 1 Titania, Protector of Argoth
 1 Cabal Therapy
-1 Noble Hierarch
 1 Wurmcoil Engine
 1 Shriekmaw
 1 Dryad Arbor
@@ -114,7 +124,6 @@
 1 Leovold, Emissary of Trest
 1 Birthing Pod
 1 Uro, Titan of Nature's Wrath
-1 Forest
 1 Abrupt Decay
 1 Prime Speaker Vannifar
 1 Abyssal Gatekeeper
@@ -122,33 +131,34 @@
 2 Veteran Explorer
 2 Swamp
 2 Cabal Therapy
+2 Forest
+2 Noble Hierarch
 2 Uro, Titan of Nature's Wrath
 2 Leovold, Emissary of Trest
-2 Noble Hierarch
 2 Birthing Pod
-2 Forest
 2 Abrupt Decay
 2 Verdant Catacombs
 2 Bayou
 2 Abyssal Gatekeeper
 2 Prime Speaker Vannifar
-3 Veteran Explorer
-3 Cabal Therapy
 3 Noble Hierarch
-3 Birthing Pod
+3 Cabal Therapy
+3 Veteran Explorer
 3 Abrupt Decay
-4 Cabal Therapy
+3 Birthing Pod
 4 Veteran Explorer
+4 Cabal Therapy
 1 Sword of Feast and Famine
 1 Jace, Vryn's Prodigy
-1 Deprive
 1 Mystical Dispute
-1 Teferi, Hero of Dominaria
-2 Teferi, Hero of Dominaria
+1 Deprive
 1 See the Truth
 1 Precognition Field
 2 See the Truth
 3 See the Truth
+1 Teferi, Hero of Dominaria
+2 Teferi, Hero of Dominaria
+3 Portent
 4 Terminus
 1 Accumulated Knowledge
 1 Search for Azcanta
@@ -169,8 +179,8 @@
 4 Teferi, Time Raveler
 1 Marsh Flats
 1 Eliminate
-1 Snow-Covered Swamp
 1 Spellseeker
+1 Snow-Covered Swamp
 1 Gurmag Angler
 2 Spellseeker
 2 Eliminate
@@ -180,16 +190,6 @@
 3 Marsh Flats
 3 Eliminate
 4 Eliminate
-1 Snow-Covered Forest
-1 Sylvan Library
-1 Daze
-2 Daze
-3 Monastery Mentor
-3 Misty Rainforest
-3 Daze
-4 Predict
-4 Monastery Mentor
-4 Misty Rainforest
 1 Wasteland
 1 Myth Realized
 1 Shark Typhoon

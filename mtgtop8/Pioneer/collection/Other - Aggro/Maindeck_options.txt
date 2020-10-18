@@ -28,6 +28,7 @@
 1 Paradise Druid
 2 Paradise Druid
 3 Paradise Druid
+1 Sunpetal Grove
 1 Nissa, Voice of Zendikar
 1 Dromoka's Command
 1 Castle Ardenvale
@@ -36,7 +37,6 @@
 1 Gideon, Ally of Zendikar
 1 Leonin Warleader
 1 Secure the Wastes
-1 Sunpetal Grove
 1 Brimaz, King of Oreskos
 1 Westvale Abbey
 2 Sunpetal Grove
@@ -115,16 +115,16 @@
 3 Llanowar Wastes
 4 Llanowar Wastes
 2 Agadeem's Awakening
+1 Hagra Mauling
 1 Prized Amalgam
 1 Haunted Dead
 1 Creeping Chill
 1 Undercity Informer
+1 Pelakka Predation
 1 Worldspine Wurm
 1 Silversmote Ghoul
 1 Balustrade Spy
 1 Sea Gate Restoration
-1 Pelakka Predation
-1 Hagra Mauling
 2 Worldspine Wurm
 2 Hagra Mauling
 2 Balustrade Spy
@@ -142,10 +142,10 @@
 3 Sea Gate Restoration
 3 Agadeem's Awakening
 4 Balustrade Spy
-4 Prized Amalgam
 4 Creeping Chill
 4 Agadeem's Awakening
 4 Undercity Informer
+4 Prized Amalgam
 4 Sea Gate Restoration
 1 Thoughtseize
 2 Thoughtseize
@@ -181,25 +181,25 @@
 1 Island
 1 Clearwater Pathway
 1 Botanical Sanctum
-1 Thieves' Guild Enforcer
 1 Soaring Thought-Thief
+1 Thieves' Guild Enforcer
 1 Drown in the Loch
 1 Fatal Push
 1 Watery Grave
-2 Thieves' Guild Enforcer
 2 Soaring Thought-Thief
+2 Thieves' Guild Enforcer
 2 Clearwater Pathway
 2 Drown in the Loch
 2 Fatal Push
 2 Watery Grave
-3 Thieves' Guild Enforcer
 3 Soaring Thought-Thief
-3 Clearwater Pathway
+3 Thieves' Guild Enforcer
 3 Drown in the Loch
+3 Clearwater Pathway
 3 Fatal Push
 3 Watery Grave
-4 Thieves' Guild Enforcer
 4 Soaring Thought-Thief
+4 Thieves' Guild Enforcer
 4 Drown in the Loch
 4 Fatal Push
 4 Watery Grave
@@ -220,8 +220,8 @@
 2 Llanowar Visionary
 1 Emeria's Call
 2 Emeria's Call
-1 Spell Queller
 1 Teferi, Time Raveler
+1 Spell Queller
 2 Teferi, Time Raveler
 2 Spell Queller
 3 Teferi, Time Raveler
@@ -252,8 +252,8 @@
 2 Opt
 3 Blackbloom Rogue
 3 Opt
-4 Silversmote Ghoul
 4 Blackbloom Rogue
+4 Silversmote Ghoul
 1 Eldritch Evolution
 1 Turntimber Symbiosis
 1 Sylvan Caryatid
@@ -271,8 +271,8 @@
 4 Eldritch Evolution
 4 Sylvan Caryatid
 1 Unclaimed Territory
-1 Archpriest of Iona
 1 Acquisitions Expert
+1 Archpriest of Iona
 1 Rogue Refiner
 1 Bloodsoaked Champion
 1 Hamlet Captain
@@ -304,9 +304,9 @@
 2 Charming Prince
 2 Skyclave Apparition
 2 Militia Bugler
-3 Skyclave Apparition
 3 Branchloft Pathway
 3 Charming Prince
+3 Skyclave Apparition
 3 Militia Bugler
 4 Branchloft Pathway
 4 Skyclave Apparition
@@ -319,34 +319,34 @@
 1 Mutavault
 1 Chart a Course
 2 Merfolk Windrobber
+2 Into the Story
 2 Deathrite Shaman
 2 Chart a Course
 2 Mutavault
-2 Into the Story
 3 Merfolk Windrobber
+3 Into the Story
 3 Deathrite Shaman
 3 Chart a Course
 3 Botanical Sanctum
 3 Mutavault
-3 Into the Story
 4 Merfolk Windrobber
+4 Into the Story
 4 Clearwater Pathway
 4 Deathrite Shaman
 4 Chart a Course
-4 Into the Story
 4 Botanical Sanctum
 1 Ketria Triome
 2 Breeding Pool
 2 Ketria Triome
-3 Breeding Pool
 3 Ketria Triome
+3 Breeding Pool
 4 Ketria Triome
 1 Mountain
 2 Mountain
 1 Possibility Storm
 1 Enter the Infinite
-1 Shared Summons
 1 Thassa's Oracle
+1 Shared Summons
 1 Beanstalk Giant
 1 Stonecoil Serpent
 1 Steam Vents
@@ -379,6 +379,7 @@
 4 Elvish Mystic
 4 Llanowar Elves
 1 Hinterland Harbor
+1 Kozilek's Return
 1 Courser of Kruphix
 1 Yavimaya Coast
 1 Arboreal Grazer
@@ -387,9 +388,8 @@
 1 Sanctum of Ugin
 1 Castle Garenbrig
 1 Elder Deep-Fiend
-1 Scavenging Ooze
-1 Kozilek's Return
 1 Nimble Obstructionist
+1 Scavenging Ooze
 1 Uro, Titan of Nature's Wrath
 1 Jadelight Ranger
 1 Satyr Wayfinder
@@ -526,9 +526,9 @@
 3 Lofty Denial
 3 Selfless Spirit
 3 Watcher of the Spheres
-4 Glacial Fortress
 4 Selfless Spirit
 4 Irrigated Farmland
+4 Glacial Fortress
 4 Archangel Avacyn
 4 Watcher of the Spheres
 5 Island

@@ -44,9 +44,9 @@
 1 Nimble Obstructionist
 1 Kozilek's Return
 1 Sorcerous Spyglass
-1 Carnage Tyrant
 1 Barrier Breach
 1 Reclamation Sage
+1 Carnage Tyrant
 1 Questing Beast
 1 Scrabbling Claws
 2 Negate
@@ -68,8 +68,8 @@
 2 Cling to Dust
 1 Lurrus of the Dream-Den
 1 Sea Gate Stormcaller
-1 The Elderspell
 1 Bloodchief's Thirst
+1 The Elderspell
 1 Duress
 1 Dead Weight
 1 Extinction Event
@@ -92,8 +92,8 @@
 3 Abrupt Decay
 1 Fabled Passage
 1 Possibility Storm
-1 Return to Nature
 1 Fry
+1 Return to Nature
 1 Damping Sphere
 1 Fog
 1 Chandra, Awakened Inferno
@@ -101,6 +101,15 @@
 1 Void Snare
 2 Chandra, Awakened Inferno
 3 Chandra, Awakened Inferno
+1 Shark Typhoon
+1 Collective Brutality
+1 Cry of the Carnarium
+1 Legion's End
+2 Shark Typhoon
+2 Cry of the Carnarium
+2 Grafdigger's Cage
+2 Legion's End
+3 Aether Gust
 1 Into the Roil
 1 Thought Erasure
 1 Narcomoeba
@@ -108,20 +117,6 @@
 2 Perilous Voyage
 3 Perilous Voyage
 4 Perilous Voyage
-1 Hagra Mauling
-1 Pelakka Predation
-1 Leyline of the Void
-1 Disfigure
-1 Witch's Vengeance
-2 Leyline of the Void
-2 Into the Roil
-2 Witch's Vengeance
-2 Disfigure
-3 Leyline of the Void
-3 Into the Roil
-3 Witch's Vengeance
-4 Leyline of the Void
-4 Witch's Vengeance
 1 Chained to the Rocks
 1 Searing Blood
 1 Roiling Vortex
@@ -135,12 +130,17 @@
 4 Chained to the Rocks
 4 Searing Blood
 4 Roiling Vortex
-1 Shark Typhoon
-1 Collective Brutality
-1 Cry of the Carnarium
-1 Legion's End
-2 Shark Typhoon
-2 Cry of the Carnarium
-2 Grafdigger's Cage
-2 Legion's End
-3 Aether Gust
+1 Pelakka Predation
+1 Hagra Mauling
+1 Witch's Vengeance
+1 Leyline of the Void
+1 Disfigure
+2 Disfigure
+2 Leyline of the Void
+2 Witch's Vengeance
+2 Into the Roil
+3 Leyline of the Void
+3 Witch's Vengeance
+3 Into the Roil
+4 Leyline of the Void
+4 Witch's Vengeance

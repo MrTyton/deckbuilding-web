@@ -1,9 +1,16 @@
+4 Island
+3 Ketria Triome
+4 Ketria Triome
 4 Forest
+1 Sulfur Falls
 2 Hinterland Harbor
 3 Hinterland Harbor
-2 Genesis Ultimatum
+1 Rootbound Crag
 2 Mountain
+4 Teferi, Time Raveler
+3 Temple Garden
 1 Shark Typhoon
+2 Shark Typhoon
 1 Swamp
 2 Swamp
 1 Watery Grave
@@ -20,7 +27,9 @@
 3 Drowned Catacomb
 3 Opt
 4 Opt
+1 Castle Vantress
 4 Fatal Push
+1 Field of Ruin
 1 Censor
 1 Dig Through Time
 1 Hero's Downfall
@@ -28,56 +37,30 @@
 2 Dig Through Time
 3 Dig Through Time
 4 Drowned Catacomb
-4 Teferi, Time Raveler
-1 Rootbound Crag
-3 Breeding Pool
-2 Shark Typhoon
+3 Shark Typhoon
+2 Field of Ruin
+1 Castle Locthwain
 1 Eliminate
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
-2 Stomping Ground
-3 Temple Garden
-1 Heartless Act
-1 Castle Vantress
-1 Fetid Pools
-2 Fetid Pools
-1 Field of Ruin
-3 Shark Typhoon
-2 Field of Ruin
-1 Castle Locthwain
 1 Torrential Gearhulk
 1 Sinister Sabotage
 2 Torrential Gearhulk
 3 Torrential Gearhulk
 3 Censor
-4 Dig Through Time
+1 Heartless Act
 1 Negate
-3 Fetid Pools
-1 Sulfur Falls
+1 Fetid Pools
+2 Fetid Pools
 1 Steam Vents
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-1 Geier Reach Sanitarium
-1 Cling to Dust
-1 Brazen Borrower
-1 Choked Estuary
-1 Ashiok, Nightmare Muse
-1 Day's Undoing
-1 Kalitas, Traitor of Ghet
-1 Thing in the Ice
-2 Choked Estuary
-2 Brazen Borrower
-2 Heartless Act
-2 Thing in the Ice
-3 Thing in the Ice
-3 Narset, Parter of Veils
-4 Narset, Parter of Veils
 3 Swamp
 2 Castle Locthwain
 2 Rootbound Crag
 3 Rootbound Crag
+1 Satyr Wayfinder
+2 Satyr Wayfinder
 2 Sinister Sabotage
 3 Sinister Sabotage
 4 Sinister Sabotage
@@ -88,20 +71,23 @@
 2 Negate
 2 Glimmer of Genius
 3 Field of Ruin
-1 Satyr Wayfinder
-2 Satyr Wayfinder
 1 Dryad of the Ilysian Grove
+4 Dig Through Time
+3 Stomping Ground
+3 Fetid Pools
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
+1 Bonecrusher Giant
+2 Bonecrusher Giant
 1 Anger of the Gods
 2 Anger of the Gods
 4 Shark Typhoon
 2 Hallowed Fountain
 3 Hallowed Fountain
 2 Eliminate
-1 Zagoth Triome
 3 Mountain
+1 Geier Reach Sanitarium
 1 Kroxa, Titan of Death's Hunger
 1 Dragonskull Summit
 1 Blood Crypt
@@ -115,6 +101,7 @@
 3 Blood Crypt
 4 Blood Crypt
 4 Kroxa, Titan of Death's Hunger
+1 Zagoth Triome
 1 Turntimber Symbiosis
 1 Clifftop Retreat
 1 Nahiri, the Harbinger
@@ -127,13 +114,15 @@
 2 Agent of Treachery
 3 Sea Gate Restoration
 3 Evolving Wilds
-3 Agent of Treachery
 3 Genesis Ultimatum
+3 Agent of Treachery
 3 Cultivate
 4 Sea Gate Restoration
 4 Agent of Treachery
 4 Genesis Ultimatum
 4 Evolving Wilds
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
 1 Glacial Fortress
 1 Elspeth, Sun's Nemesis
 1 Jace, Architect of Thought
@@ -192,6 +181,7 @@
 1 Jwari Disruption
 1 Breaking / Entering
 1 Clearwater Pathway
+1 Ruin Crab
 1 Didn't Say Please
 1 Drowned Secrets
 1 Maddening Cacophony
@@ -199,28 +189,27 @@
 1 Fraying Sanity
 1 Crypt Incursion
 1 Sea Gate Stormcaller
-1 Ruin Crab
 2 Drown in the Loch
 2 Jwari Disruption
-2 Clearwater Pathway
 2 Breaking / Entering
+2 Clearwater Pathway
 2 Didn't Say Please
+2 Ruin Crab
 2 Crypt Incursion
 2 Ipnu Rivulet
 2 Sea Gate Stormcaller
 2 Fraying Sanity
 2 Maddening Cacophony
-2 Ruin Crab
 2 Drowned Secrets
 2 Merfolk Secretkeeper
-3 Drown in the Loch
 3 Clearwater Pathway
+3 Drown in the Loch
 3 Fraying Sanity
 3 Breaking / Entering
 3 Jwari Disruption
 3 Didn't Say Please
-3 Maddening Cacophony
 3 Ruin Crab
+3 Maddening Cacophony
 3 Drowned Secrets
 3 Merfolk Secretkeeper
 3 Ipnu Rivulet
@@ -230,8 +219,8 @@
 4 Merfolk Secretkeeper
 4 Fraying Sanity
 4 Breaking / Entering
-4 Maddening Cacophony
 4 Ruin Crab
+4 Maddening Cacophony
 4 Drowned Secrets
 4 Ipnu Rivulet
 1 Spikefield Hazard
@@ -249,8 +238,8 @@
 1 Cragcrown Pathway
 1 Branchloft Pathway
 2 Cragcrown Pathway
-2 Voice of Resurgence
 2 Sunpetal Grove
+2 Voice of Resurgence
 3 Voice of Resurgence
 1 Erebos's Intervention
 1 Ritual of Soot
@@ -260,13 +249,30 @@
 2 Ritual of Soot
 2 Void Shatter
 3 Void Shatter
-1 Bonecrusher Giant
+1 Urban Evolution
+1 Magma Jet
+2 Magma Jet
+3 Bonecrusher Giant
+3 Magma Jet
+1 Cling to Dust
+1 Brazen Borrower
+1 Choked Estuary
+1 Ashiok, Nightmare Muse
+1 Day's Undoing
+1 Kalitas, Traitor of Ghet
+1 Thing in the Ice
+2 Choked Estuary
+2 Brazen Borrower
+2 Heartless Act
+2 Thing in the Ice
+3 Thing in the Ice
+3 Narset, Parter of Veils
+4 Narset, Parter of Veils
 1 Dreadbore
 1 The Royal Scions
 1 Nicol Bolas, the Ravager
 1 Chart a Course
 1 Discovery / Dispersal
-2 Bonecrusher Giant
 2 Nicol Bolas, the Ravager
 2 Dreadbore
 2 The Royal Scions
@@ -289,7 +295,6 @@
 2 Oath of Nissa
 3 Nissa, Who Shakes the World
 3 Oath of Nissa
-3 Stomping Ground
 4 Temple Garden
 4 Oath of Nissa
 1 Davriel, Rogue Shadowmage
@@ -347,13 +352,13 @@
 1 Orzhov Guildgate
 1 Boros Guildgate
 2 Izzet Guildgate
+2 Mythos of Nethroi
 2 Simic Guildgate
 2 Guild Summit
 2 Plaza of Harmony
 2 Maze's End
 2 Gatebreaker Ram
 2 Gatecreeper Vine
-2 Mythos of Nethroi
 2 Gates Ablaze
 2 Gruul Guildgate
 2 Golgari Guildgate
@@ -370,9 +375,9 @@
 4 Izzet Guildgate
 4 Gates Ablaze
 4 Plaza of Harmony
+4 Gatebreaker Ram
 4 Gruul Guildgate
 4 Arboreal Grazer
-4 Gatebreaker Ram
 4 Simic Guildgate
 4 Guild Summit
 4 Gatecreeper Vine
@@ -393,17 +398,17 @@
 2 Sanctum of Ugin
 2 Cavalier of Thorns
 2 Botanical Sanctum
-2 Castle Garenbrig
 2 Zagoth Triome
+2 Castle Garenbrig
 2 Shrine of the Forsaken Gods
 2 Yavimaya Coast
 3 Elvish Rejuvenator
-3 Ugin, the Spirit Dragon
+3 Cavalier of Thorns
 3 Castle Garenbrig
 3 Voracious Hydra
+3 Ugin, the Spirit Dragon
 3 Shrine of the Forsaken Gods
 3 Yavimaya Coast
-3 Cavalier of Thorns
 3 Botanical Sanctum
 4 Elvish Rejuvenator
 4 Cavalier of Thorns

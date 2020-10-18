@@ -1,8 +1,4 @@
 3 Lightning Helix
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
-2 Fiery Islet
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Soul-Scar Mage
@@ -24,12 +20,10 @@
 3 Lava Dart
 4 Lava Dart
 1 Firebolt
-2 Firebolt
-4 Light Up the Stage
-13 Mountain
 1 Seasoned Pyromancer
 1 Bonecrusher Giant
 1 Flame Slash
+2 Firebolt
 2 Bonecrusher Giant
 2 Seasoned Pyromancer
 2 Flame Slash
@@ -38,51 +32,54 @@
 3 Firebolt
 4 Seasoned Pyromancer
 4 Bonecrusher Giant
+4 Light Up the Stage
+13 Mountain
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
+2 Fiery Islet
+4 Firebolt
+3 Flame Slash
+4 Flame Slash
 1 Blistercoil Weird
 2 Blistercoil Weird
 3 Blistercoil Weird
 4 Blistercoil Weird
+14 Mountain
+15 Mountain
+16 Mountain
+17 Mountain
 3 Bloodstained Mire
-4 Firebolt
-3 Flame Slash
-4 Flame Slash
 1 Scalding Tarn
 3 Wooded Foothills
 3 Arid Mesa
 4 Arid Mesa
 4 Lightning Helix
-14 Mountain
 3 Fiery Islet
+18 Mountain
 1 Forgotten Cave
 2 Forgotten Cave
-15 Mountain
-16 Mountain
-17 Mountain
 4 Fiery Islet
-1 Manamorphose
-2 Manamorphose
-3 Manamorphose
-4 Manamorphose
 1 Spikefield Hazard
-4 Bloodstained Mire
-18 Mountain
 1 Burst Lightning
+4 Bloodstained Mire
 1 Atarka's Command
 1 Stomping Ground
 2 Stomping Ground
 2 Atarka's Command
 3 Atarka's Command
 4 Atarka's Command
-1 Bedlam Reveler
-2 Bedlam Reveler
-3 Bedlam Reveler
 1 Abbot of Keral Keep
+1 Manamorphose
 1 Mutagenic Growth
+2 Manamorphose
 2 Mutagenic Growth
 2 Abbot of Keral Keep
 3 Mutagenic Growth
 3 Abbot of Keral Keep
+3 Manamorphose
 4 Mutagenic Growth
+4 Manamorphose
 4 Abbot of Keral Keep
 1 Blood Crypt
 1 Blackcleave Cliffs
@@ -94,17 +91,15 @@
 3 Skullcrack
 3 Sacred Foundry
 4 Skullcrack
-1 Crash Through
-1 Gut Shot
-1 Runaway Steam-Kin
-2 Crash Through
-2 Gut Shot
-2 Runaway Steam-Kin
-3 Crash Through
-3 Runaway Steam-Kin
-4 Crash Through
+1 Blood Moon
+2 Blood Moon
+3 Blood Moon
+4 Blood Moon
 1 Wild Slash
+1 Bedlam Reveler
 2 Wild Slash
+2 Bedlam Reveler
+3 Bedlam Reveler
 3 Wild Slash
 4 Bedlam Reveler
 4 Wild Slash
@@ -134,6 +129,17 @@
 4 Mishra's Bauble
 4 Bump in the Night
 4 Scourge of the Skyclaves
+1 Kiln Fiend
+1 Temur Battle Rage
+1 Thoughtseize
+2 Kiln Fiend
+2 Temur Battle Rage
+2 Thoughtseize
+3 Kiln Fiend
+3 Thoughtseize
+3 Blackcleave Cliffs
+4 Kiln Fiend
+4 Blackcleave Cliffs
 1 Thunderous Wrath
 1 Grim Lavamancer
 1 Wild Nacatl
@@ -147,14 +153,3 @@
 4 Copperline Gorge
 4 Wild Nacatl
 4 Wooded Foothills
-1 Kiln Fiend
-1 Temur Battle Rage
-1 Thoughtseize
-2 Kiln Fiend
-2 Temur Battle Rage
-2 Thoughtseize
-3 Kiln Fiend
-3 Thoughtseize
-3 Blackcleave Cliffs
-4 Kiln Fiend
-4 Blackcleave Cliffs
