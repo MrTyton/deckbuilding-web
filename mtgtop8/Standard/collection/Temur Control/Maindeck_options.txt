@@ -1,27 +1,27 @@
 2 Forest
 1 Mystical Dispute
+1 Expansion / Explosion
 1 Aether Gust
 1 Negate
 2 Aether Gust
-2 Negate
-3 Aether Gust
-1 Expansion / Explosion
 2 Expansion / Explosion
 3 Expansion / Explosion
 4 Expansion / Explosion
 2 Mystical Dispute
-1 Nissa, Who Shakes the World
-2 Nissa, Who Shakes the World
-3 Nissa, Who Shakes the World
-3 Negate
-4 Nissa, Who Shakes the World
 4 Island
+2 Negate
+3 Aether Gust
 4 Shark Typhoon
 1 Temple of Mystery
-3 Brazen Borrower
 1 Castle Vantress
+3 Brazen Borrower
 1 Zagoth Triome
+1 Nissa, Who Shakes the World
 2 Zagoth Triome
+2 Nissa, Who Shakes the World
+3 Negate
+3 Nissa, Who Shakes the World
+4 Nissa, Who Shakes the World
 3 Mystical Dispute
 2 Castle Vantress
 1 Field of the Dead
@@ -37,12 +37,9 @@
 4 Mystical Dispute
 4 Growth Spiral
 4 Wilderness Reclamation
-4 Aether Gust
-4 Negate
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 4 Brazen Borrower
-3 Jolrael, Mwonvuli Recluse
 1 Spikefield Hazard
 1 Riverglide Pathway
 1 Cragcrown Pathway
@@ -75,23 +72,20 @@
 3 Arboreal Grazer
 3 Teferi, Time Raveler
 3 Field of the Dead
-1 Tale's End
-2 Tale's End
-3 Tale's End
 3 Forest
+1 Questing Beast
 1 Turntimber Symbiosis
 1 Elder Gargaroth
 1 Thassa's Intervention
 1 Ashiok's Erasure
 1 Jwari Disruption
 1 Klothys, God of Destiny
-1 Questing Beast
 1 Roil Eruption
+2 Questing Beast
 2 Jwari Disruption
 2 Elder Gargaroth
 2 Thassa's Intervention
 2 Ashiok's Erasure
-2 Questing Beast
 2 Roil Eruption
 3 Spikefield Hazard
 3 Bonecrusher Giant
@@ -101,59 +95,11 @@
 3 Elder Gargaroth
 4 Bonecrusher Giant
 4 Roil Eruption
-1 Startling Development
-1 Boon of the Wish-Giver
-1 Go for Blood
-1 Blitz of the Thunder-Raptor
-2 Boon of the Wish-Giver
-2 Blitz of the Thunder-Raptor
-2 Go for Blood
-3 Go for Blood
-3 Boon of the Wish-Giver
-3 Blitz of the Thunder-Raptor
-4 Boon of the Wish-Giver
-4 Go for Blood
-1 Llanowar Visionary
-1 Ugin, the Spirit Dragon
-1 Thornwood Falls
-1 Phylath, World Sculptor
-1 Reclaim the Wastes
-1 Didn't Say Please
-1 Volcanic Geyser
-1 Cinderclasm
-1 Genesis Ultimatum
-1 Swiftwater Cliffs
-1 Beanstalk Giant
-1 Omnath, Locus of Creation
-1 Vastwood Surge
-1 Rugged Highlands
-1 Omen of the Sea
-2 Llanowar Visionary
-2 Rugged Highlands
-2 Thornwood Falls
-2 Plains
-2 Didn't Say Please
-2 Omen of the Sea
-2 Swiftwater Cliffs
-2 Vastwood Surge
-2 Volcanic Geyser
-2 Reclaim the Wastes
-2 Beanstalk Giant
-2 Cultivate
-2 Cinderclasm
-3 Llanowar Visionary
-3 Cultivate
-3 Didn't Say Please
-3 Omen of the Sea
-3 Vastwood Surge
-3 Volcanic Geyser
-4 Llanowar Visionary
-4 Omen of the Sea
-4 Forest
-4 Mountain
-5 Forest
-6 Forest
-7 Forest
+1 Tale's End
+2 Tale's End
+3 Tale's End
+4 Aether Gust
+4 Negate
 1 Sea Gate Restoration
 1 Irencrag Pyromancer
 1 Neutralize
@@ -162,6 +108,7 @@
 2 Improbable Alliance
 2 Irencrag Pyromancer
 3 Neutralize
+3 Jolrael, Mwonvuli Recluse
 3 Irencrag Pyromancer
 3 Cragcrown Pathway
 3 Improbable Alliance
@@ -171,3 +118,44 @@
 4 Improbable Alliance
 4 Cragcrown Pathway
 4 Teferi, Master of Time
+1 Llanowar Visionary
+1 Ugin, the Spirit Dragon
+1 Phylath, World Sculptor
+1 Reclaim the Wastes
+1 Didn't Say Please
+1 Volcanic Geyser
+1 Cinderclasm
+1 Genesis Ultimatum
+1 Thornwood Falls
+1 Swiftwater Cliffs
+1 Beanstalk Giant
+1 Omnath, Locus of Creation
+1 Vastwood Surge
+1 Rugged Highlands
+1 Omen of the Sea
+2 Llanowar Visionary
+2 Rugged Highlands
+2 Didn't Say Please
+2 Omen of the Sea
+2 Swiftwater Cliffs
+2 Vastwood Surge
+2 Volcanic Geyser
+2 Plains
+2 Reclaim the Wastes
+2 Beanstalk Giant
+2 Cultivate
+2 Thornwood Falls
+2 Cinderclasm
+3 Llanowar Visionary
+3 Cultivate
+3 Didn't Say Please
+3 Omen of the Sea
+3 Vastwood Surge
+3 Volcanic Geyser
+4 Llanowar Visionary
+4 Forest
+4 Omen of the Sea
+4 Mountain
+5 Forest
+7 Forest
+6 Forest

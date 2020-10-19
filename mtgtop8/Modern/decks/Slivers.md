@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571) |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                    1|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)    |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
+|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571) |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
+|                    1|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)    |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                    3|[Leeching Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383297)|                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
 |                    4|[Leeching Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383297)|                    1|[Necrotic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207912)    |
 |                     |                                                                                          |                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|

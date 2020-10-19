@@ -181,25 +181,25 @@
 1 Island
 1 Clearwater Pathway
 1 Botanical Sanctum
-1 Soaring Thought-Thief
 1 Thieves' Guild Enforcer
+1 Soaring Thought-Thief
 1 Drown in the Loch
 1 Fatal Push
 1 Watery Grave
-2 Soaring Thought-Thief
 2 Thieves' Guild Enforcer
+2 Soaring Thought-Thief
 2 Clearwater Pathway
 2 Drown in the Loch
 2 Fatal Push
 2 Watery Grave
-3 Soaring Thought-Thief
 3 Thieves' Guild Enforcer
-3 Drown in the Loch
+3 Soaring Thought-Thief
 3 Clearwater Pathway
+3 Drown in the Loch
 3 Fatal Push
 3 Watery Grave
-4 Soaring Thought-Thief
 4 Thieves' Guild Enforcer
+4 Soaring Thought-Thief
 4 Drown in the Loch
 4 Fatal Push
 4 Watery Grave
@@ -319,21 +319,21 @@
 1 Mutavault
 1 Chart a Course
 2 Merfolk Windrobber
-2 Into the Story
 2 Deathrite Shaman
 2 Chart a Course
 2 Mutavault
+2 Into the Story
 3 Merfolk Windrobber
-3 Into the Story
 3 Deathrite Shaman
 3 Chart a Course
 3 Botanical Sanctum
 3 Mutavault
+3 Into the Story
 4 Merfolk Windrobber
-4 Into the Story
 4 Clearwater Pathway
 4 Deathrite Shaman
 4 Chart a Course
+4 Into the Story
 4 Botanical Sanctum
 1 Ketria Triome
 2 Breeding Pool
@@ -448,11 +448,11 @@
 1 Sacred Foundry
 1 Monastery Swiftspear
 1 Soul-Scar Mage
-1 Wild Slash
 1 Lightning Strike
 1 Wizard's Lightning
 1 Battlefield Forge
 1 Ghitu Lavarunner
+1 Wild Slash
 1 Boros Charm
 1 Eidolon of the Great Revel
 1 Light Up the Stage
@@ -462,8 +462,8 @@
 2 Inspiring Vantage
 2 Soul-Scar Mage
 2 Monastery Swiftspear
-2 Wild Slash
 2 Ghitu Lavarunner
+2 Wild Slash
 2 Boros Charm
 2 Battlefield Forge
 2 Viashino Pyromancer
@@ -474,7 +474,6 @@
 3 Sacred Foundry
 3 Soul-Scar Mage
 3 Monastery Swiftspear
-3 Wild Slash
 3 Inspiring Vantage
 3 Wizard's Lightning
 3 Light Up the Stage
@@ -483,6 +482,7 @@
 3 Mountain
 3 Ghitu Lavarunner
 3 Viashino Pyromancer
+3 Wild Slash
 3 Boros Charm
 4 Sacred Foundry
 4 Soul-Scar Mage

@@ -2,18 +2,17 @@
 2 Venerated Loxodon
 3 Venerated Loxodon
 2 Tajic, Legion's Edge
-4 Savai Triome
 3 Fabled Passage
 1 General Kudro of Drannith
-2 General's Enforcer
 2 General Kudro of Drannith
+2 General's Enforcer
 1 Temple of Silence
 2 Temple of Triumph
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 3 Mountain
-4 Plains
 4 Mountain
+4 Plains
 1 Embercleave
 2 Embercleave
 3 Temple of Triumph
@@ -37,6 +36,7 @@
 3 Stonecoil Serpent
 1 Spikefield Hazard
 2 Spikefield Hazard
+4 Savai Triome
 5 Plains
 5 Mountain
 6 Mountain
@@ -81,8 +81,8 @@
 4 Shatterskull Smashing
 4 Skyclave Apparition
 1 Alseid of Life's Bounty
-1 Nahiri, Heir of the Ancients
 1 Emeria's Call
+1 Nahiri, Heir of the Ancients
 2 Alseid of Life's Bounty
 2 Emeria's Call
 3 Alseid of Life's Bounty
@@ -112,34 +112,14 @@
 4 Alpine Houndmaster
 4 Pack Leader
 4 Luminous Broodmoth
-1 Priest of Forgotten Gods
-1 Lurrus of the Dream-Den
-1 Gutterbones
-1 Mayhem Devil
-1 Serrated Scorpion
-1 Castle Locthwain
-2 Lurrus of the Dream-Den
-2 Priest of Forgotten Gods
-2 Gutterbones
-2 Mayhem Devil
-2 Castle Locthwain
-2 Serrated Scorpion
-3 Castle Locthwain
-3 Lurrus of the Dream-Den
-3 Priest of Forgotten Gods
-3 Gutterbones
-3 Mayhem Devil
-4 Priest of Forgotten Gods
-4 Woe Strider
-4 Mayhem Devil
+1 Blacklance Paragon
 1 Stormfist Crusader
 1 Tournament Grounds
-1 Blacklance Paragon
 1 Fervent Champion
+2 Blacklance Paragon
 2 Fervent Champion
 2 Tournament Grounds
 2 Stormfist Crusader
-2 Blacklance Paragon
 3 Knight of the Ebon Legion
 3 Fervent Champion
 3 Stormfist Crusader
@@ -152,8 +132,8 @@
 1 Forest
 1 Temple Garden
 1 Oko, Thief of Crowns
-1 Breeding Pool
 1 Hallowed Fountain
+1 Breeding Pool
 1 Paradise Druid
 1 Steam Vents
 1 Agent of Treachery
@@ -166,8 +146,8 @@
 2 Oko, Thief of Crowns
 2 Forest
 2 Hallowed Fountain
-2 Breeding Pool
 2 Paradise Druid
+2 Breeding Pool
 2 Arboreal Grazer
 2 Agent of Treachery
 2 Gilded Goose
@@ -183,8 +163,8 @@
 3 Stomping Ground
 3 Gilded Goose
 4 Temple Garden
-4 Breeding Pool
 4 Hallowed Fountain
+4 Breeding Pool
 4 Oko, Thief of Crowns
 4 Gilded Goose
 4 Stomping Ground

@@ -49,8 +49,8 @@
 |                    2|Phylath, World Sculptor                                                                   |                     |                                                                                           |
 |                    2|Yasharn, Implacable Earth                                                                 |                     |                                                                                           |
 |                    2|Archon of Emeria                                                                          |                     |                                                                                           |
-|                    2|Felidar Retreat                                                                           |                     |                                                                                           |
 |                    2|Skyclave Apparition                                                                       |                     |                                                                                           |
+|                    2|Felidar Retreat                                                                           |                     |                                                                                           |
 |                    2|Murasa Rootgrazer                                                                         |                     |                                                                                           |
 |                    2|Scute Swarm                                                                               |                     |                                                                                           |
 |                    3|Tangled Florahedron                                                                       |                     |                                                                                           |
@@ -78,7 +78,7 @@
 |                    4|Murasa Rootgrazer                                                                         |                     |                                                                                           |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)         |                     |                                                                                           |
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)         |                     |                                                                                           |
-|                    5|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)         |                     |                                                                                           |
-|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)         |                     |                                                                                           |
 |                    6|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)         |                     |                                                                                           |
+|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)         |                     |                                                                                           |
+|                    5|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)         |                     |                                                                                           |
 
