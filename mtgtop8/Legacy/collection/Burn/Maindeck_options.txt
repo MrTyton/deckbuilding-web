@@ -28,29 +28,6 @@
 2 Grim Lavamancer
 2 Mystic Monastery
 3 Mystic Monastery
-1 Bloodstained Mire
-1 Wooded Foothills
-1 Akoum Hellhound
-1 Arid Mesa
-1 Searing Blaze
-1 Prismatic Vista
-1 Wayward Guide-Beast
-2 Arid Mesa
-2 Bloodstained Mire
-2 Wooded Foothills
-2 Akoum Hellhound
-2 Searing Blaze
-2 Prismatic Vista
-2 Wayward Guide-Beast
-3 Bloodstained Mire
-3 Wooded Foothills
-3 Arid Mesa
-3 Akoum Hellhound
-3 Wayward Guide-Beast
-4 Bloodstained Mire
-4 Wooded Foothills
-4 Akoum Hellhound
-4 Arid Mesa
 1 Spark Elemental
 2 Spark Elemental
 3 Spark Elemental
@@ -58,6 +35,29 @@
 1 Cursed Scroll
 3 Skewer the Critics
 4 Skewer the Critics
+1 Bloodstained Mire
+1 Wooded Foothills
+1 Akoum Hellhound
+1 Arid Mesa
+1 Wayward Guide-Beast
+1 Searing Blaze
+1 Prismatic Vista
+2 Arid Mesa
+2 Bloodstained Mire
+2 Wooded Foothills
+2 Wayward Guide-Beast
+2 Akoum Hellhound
+2 Searing Blaze
+2 Prismatic Vista
+3 Bloodstained Mire
+3 Wooded Foothills
+3 Arid Mesa
+3 Akoum Hellhound
+3 Wayward Guide-Beast
+4 Bloodstained Mire
+4 Wooded Foothills
+4 Arid Mesa
+4 Akoum Hellhound
 1 Bedlam Reveler
 1 Gut Shot
 1 Blistercoil Weird
@@ -80,7 +80,6 @@
 4 Faithless Looting
 4 Bedlam Reveler
 4 Soul-Scar Mage
-20 Mountain
 11 Snow-Covered Mountain
 12 Snow-Covered Mountain
 13 Snow-Covered Mountain
@@ -91,3 +90,4 @@
 18 Snow-Covered Mountain
 19 Snow-Covered Mountain
 20 Snow-Covered Mountain
+20 Mountain

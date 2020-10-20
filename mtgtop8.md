@@ -33,7 +33,7 @@
 
 |                               A                                |                             B                              |                                C                                 |                             D                              |                          E                           |
 |----------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------|
-|[45c Good Stuff](./mtgtop8/Modern/decks/45c_Good_Stuff.md)      |[Dredge](./mtgtop8/Modern/decks/Dredge.md)                  |[Infect](./mtgtop8/Modern/decks/Infect.md)                        |[Other - Combo](./mtgtop8/Modern/decks/Other_-_Combo.md)    |[Twin Exarch](./mtgtop8/Modern/decks/Twin_Exarch.md)  |
+|[4c Ramp Control](./mtgtop8/Modern/decks/4c_Ramp_Control.md)    |[Dredge](./mtgtop8/Modern/decks/Dredge.md)                  |[Infect](./mtgtop8/Modern/decks/Infect.md)                        |[Other - Combo](./mtgtop8/Modern/decks/Other_-_Combo.md)    |[Twin Exarch](./mtgtop8/Modern/decks/Twin_Exarch.md)  |
 |[Ad Nauseam](./mtgtop8/Modern/decks/Ad_Nauseam.md)              |[Eldrazi Aggro](./mtgtop8/Modern/decks/Eldrazi_Aggro.md)    |[Jeskai Control](./mtgtop8/Modern/decks/Jeskai_Control.md)        |[Other - Control](./mtgtop8/Modern/decks/Other_-_Control.md)|[UB Mill](./mtgtop8/Modern/decks/UB_Mill.md)          |
 |[Allosaurus Combo](./mtgtop8/Modern/decks/Allosaurus_Combo.md)  |[Elemental](./mtgtop8/Modern/decks/Elemental.md)            |[Jund](./mtgtop8/Modern/decks/Jund.md)                            |[Rakdos Aggro](./mtgtop8/Modern/decks/Rakdos_Aggro.md)      |[UR Aggro](./mtgtop8/Modern/decks/UR_Aggro.md)        |
 |[Amulet Titan](./mtgtop8/Modern/decks/Amulet_Titan.md)          |[Elves](./mtgtop8/Modern/decks/Elves.md)                    |[Junk](./mtgtop8/Modern/decks/Junk.md)                            |[Red Deck Wins](./mtgtop8/Modern/decks/Red_Deck_Wins.md)    |[UR Control](./mtgtop8/Modern/decks/UR_Control.md)    |
@@ -66,4 +66,4 @@
 
 
 
-#### Last Updated at 09:40AM on October 19, 2020
+#### Last Updated at 04:11AM on October 20, 2020

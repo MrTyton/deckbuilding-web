@@ -1,41 +1,72 @@
-3 Selfless Savior
-3 Oran-Rief Ooze
-1 Felidar Retreat
-3 Inscription of Abundance
-1 Turntimber Symbiosis
-3 Basri's Lieutenant
-4 Skyclave Apparition
-1 Gemrazer
-2 Gemrazer
-4 Swarm Shambler
 3 Fabled Passage
-1 Sejiri Shelter
-2 Sejiri Shelter
+1 Selfless Savior
+2 Selfless Savior
+3 Selfless Savior
+1 Felidar Retreat
+3 Oran-Rief Ooze
+1 Glass Casket
+2 Glass Casket
+1 The Great Henge
+2 The Great Henge
+4 Fabled Passage
+1 Kabira Takedown
+2 Kabira Takedown
+1 Llanowar Visionary
+1 Elspeth Conquers Death
+1 Gilded Goose
+1 Wicked Wolf
+1 Yorion, Sky Nomad
+1 Trail of Crumbs
+2 Turntimber Symbiosis
+2 Llanowar Visionary
+2 Gilded Goose
+2 Yorion, Sky Nomad
+2 Wicked Wolf
+2 Elspeth Conquers Death
+2 Trail of Crumbs
+3 Turntimber Symbiosis
+3 Llanowar Visionary
+3 Trail of Crumbs
+3 Gilded Goose
+3 Wicked Wolf
+3 Yorion, Sky Nomad
+4 Wicked Wolf
+4 Llanowar Visionary
+4 Gilded Goose
+4 Trail of Crumbs
+3 Inscription of Abundance
+3 Basri's Lieutenant
+3 Emeria's Call
+4 Emeria's Call
+1 Tangled Florahedron
+2 Tangled Florahedron
 1 Lotus Cobra
 1 Evolving Wilds
-1 Murasa Rootgrazer
 1 Yasharn, Implacable Earth
+1 Murasa Rootgrazer
 1 Scute Swarm
 2 Lotus Cobra
 2 Evolving Wilds
-2 Murasa Rootgrazer
 2 Yasharn, Implacable Earth
+2 Murasa Rootgrazer
 2 Scute Swarm
 2 Felidar Retreat
 3 Evolving Wilds
 3 Lotus Cobra
-3 Murasa Rootgrazer
 3 Yasharn, Implacable Earth
-3 Felidar Retreat
+3 Murasa Rootgrazer
 3 Scute Swarm
+3 Felidar Retreat
 4 Lotus Cobra
-4 Murasa Rootgrazer
 4 Felidar Retreat
-4 Fabled Passage
+4 Murasa Rootgrazer
+1 Gemrazer
+2 Gemrazer
+4 Swarm Shambler
+1 Sejiri Shelter
+2 Sejiri Shelter
 1 Banishing Light
 2 Banishing Light
-1 The Great Henge
-2 The Great Henge
 1 Basri Ket
 2 Basri Ket
 8 Plains
@@ -49,10 +80,45 @@
 4 Temple Garden
 4 Pelt Collector
 9 Forest
-1 Glass Casket
-2 Glass Casket
-1 Tangled Florahedron
-2 Tangled Florahedron
+1 Golden Egg
+1 Glasspool Mimic
+1 Island
+1 Solemn Simulacrum
+1 Mazemind Tome
+1 Cultivate
+2 Golden Egg
+2 Glasspool Mimic
+2 Mazemind Tome
+2 Cultivate
+2 Solemn Simulacrum
+3 Glass Casket
+3 Golden Egg
+3 Glasspool Mimic
+3 Mazemind Tome
+3 Elspeth Conquers Death
+3 Solemn Simulacrum
+4 Solemn Simulacrum
+4 Glass Casket
+4 Golden Egg
+4 Glasspool Mimic
+4 Turntimber Symbiosis
+4 Elspeth Conquers Death
+1 Charming Prince
+1 Kogla, the Titan Ape
+1 Omen of the Sun
+2 Charming Prince
+2 Omen of the Sun
+4 Yorion, Sky Nomad
+1 Castle Ardenvale
+1 Crystalline Giant
+1 Bala Ged Recovery
+1 Crawling Barrens
+2 Bala Ged Recovery
+2 Crystalline Giant
+2 Crawling Barrens
+3 Crystalline Giant
+3 Primal Might
+4 Crystalline Giant
 1 Migratory Greathorn
 1 Kazandu Mammoth
 1 Vivien, Monsters' Advocate
@@ -60,39 +126,19 @@
 2 Kazandu Mammoth
 2 Vivien, Monsters' Advocate
 3 Kazandu Mammoth
-4 Scute Swarm
 4 Kazandu Mammoth
+4 Scute Swarm
 1 Phylath, World Sculptor
 1 Archon of Emeria
 1 Mountain
 2 Archon of Emeria
 2 Phylath, World Sculptor
-3 Emeria's Call
 3 Tangled Florahedron
 3 Archon of Emeria
-4 Emeria's Call
 4 Evolving Wilds
 4 Archon of Emeria
 4 Tangled Florahedron
 4 Yasharn, Implacable Earth
-1 Castle Ardenvale
-1 Crystalline Giant
-1 Crawling Barrens
-1 Bala Ged Recovery
-2 Bala Ged Recovery
-2 Crystalline Giant
-2 Crawling Barrens
-3 Crystalline Giant
-3 Primal Might
-4 Crystalline Giant
-1 Kabira Takedown
-1 Maul of the Skyclaves
-1 Khalni Ambush
-2 Kabira Takedown
-2 Maul of the Skyclaves
-2 Khalni Ambush
-4 Oran-Rief Ooze
-4 Basri's Lieutenant
 1 Nessian Hornbeetle
 1 Garruk's Harbinger
 1 Invigorating Surge
@@ -110,43 +156,20 @@
 3 Knight of Autumn
 3 Invigorating Surge
 3 Gird for Battle
+4 Knight of Autumn
 4 Nessian Hornbeetle
 4 Garruk's Harbinger
 4 Invigorating Surge
 4 Gird for Battle
-4 Knight of Autumn
-1 Charming Prince
-1 Yorion, Sky Nomad
-1 Llanowar Visionary
-1 Elspeth Conquers Death
-1 Gilded Goose
-1 Wicked Wolf
-1 Kogla, the Titan Ape
-1 Omen of the Sun
-1 Trail of Crumbs
-2 Charming Prince
-2 Turntimber Symbiosis
-2 Llanowar Visionary
-2 Yorion, Sky Nomad
-2 Omen of the Sun
-2 Gilded Goose
-2 Wicked Wolf
-2 Elspeth Conquers Death
-2 Trail of Crumbs
-3 Turntimber Symbiosis
-3 Llanowar Visionary
-3 Gilded Goose
-3 Trail of Crumbs
-3 Yorion, Sky Nomad
-3 Wicked Wolf
-4 Wicked Wolf
-4 Llanowar Visionary
-4 Gilded Goose
-4 Trail of Crumbs
-4 Yorion, Sky Nomad
+1 Maul of the Skyclaves
+1 Khalni Ambush
+2 Maul of the Skyclaves
+2 Khalni Ambush
+4 Oran-Rief Ooze
+4 Basri's Lieutenant
 1 Unbreakable Formation
-1 Ajani, the Greathearted
 1 Voracious Hydra
+1 Ajani, the Greathearted
 1 Huatli's Raptor
 2 Unbreakable Formation
 2 Voracious Hydra
@@ -156,8 +179,8 @@
 3 Huatli's Raptor
 3 Gemrazer
 4 Huatli's Raptor
-1 Vastwood Fortification
 1 Wildwood Scourge
+1 Vastwood Fortification
 1 Wildborn Preserver
 2 Wildwood Scourge
 2 Vastwood Fortification

@@ -15,33 +15,34 @@
 1 Radiant Fountain
 2 Radiant Fountain
 3 Neutralize
-1 Bonecrusher Giant
+1 Brazen Borrower
 1 Sublime Epiphany
+1 Bonecrusher Giant
 1 Castle Vantress
 1 Temple of Epiphany
 1 Riverglide Pathway
-1 Brazen Borrower
-2 Bonecrusher Giant
-2 Sublime Epiphany
 2 Brazen Borrower
+2 Sublime Epiphany
+2 Bonecrusher Giant
 2 Riverglide Pathway
 2 Temple of Epiphany
+3 Brazen Borrower
 3 Bonecrusher Giant
 3 Temple of Epiphany
-3 Brazen Borrower
 3 Riverglide Pathway
+4 Brazen Borrower
 4 Temple of Epiphany
 4 Bonecrusher Giant
 4 Riverglide Pathway
-4 Brazen Borrower
-1 Thirst for Meaning
 1 Teferi, Master of Time
+1 Thirst for Meaning
 1 Ugin, the Spirit Dragon
 2 Thirst for Meaning
 2 Evolving Wilds
 3 Thirst for Meaning
 3 Evolving Wilds
 4 Evolving Wilds
+1 Shipwreck Dowser
 1 Shatterskull Smashing
 1 Soul Sear
 1 Brash Taunter
@@ -50,24 +51,23 @@
 1 Storm's Wrath
 1 Silundi Vision
 1 Shredded Sails
-1 Shipwreck Dowser
 2 Shatterskull Smashing
-2 Mazemind Tome
+2 Shipwreck Dowser
 2 Soul Sear
+2 Mazemind Tome
+2 Brash Taunter
 2 Storm's Wrath
 2 Scorching Dragonfire
 2 Shredded Sails
 2 Silundi Vision
-2 Shipwreck Dowser
-2 Brash Taunter
 3 Sublime Epiphany
+3 Brash Taunter
+3 Shipwreck Dowser
 3 Radiant Fountain
 3 Mazemind Tome
 3 Storm's Wrath
 3 Scorching Dragonfire
-3 Shipwreck Dowser
 3 Silundi Vision
-3 Brash Taunter
 4 Radiant Fountain
 4 Scorching Dragonfire
 1 Gadwick, the Wizened
@@ -105,11 +105,11 @@
 4 Dismal Backwater
 4 Bloodfell Caves
 1 Irencrag Pyromancer
-1 Experimental Overload
 1 Izzet Guildgate
 1 Winged Words
 1 Niv-Mizzet, Parun
 1 Crackling Drake
+1 Experimental Overload
 1 God-Eternal Kefnet
 2 Crackling Drake
 2 Izzet Guildgate
@@ -127,8 +127,8 @@
 1 Into the Roil
 2 Lore Drakkis
 3 Lore Drakkis
-4 Blitz of the Thunder-Raptor
 4 Fire Prophecy
+4 Blitz of the Thunder-Raptor
 4 Lore Drakkis
 4 Neutralize
 9 Island
