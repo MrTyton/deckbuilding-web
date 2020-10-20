@@ -19,24 +19,24 @@
 1 Nissa, Who Shakes the World
 2 Zagoth Triome
 2 Nissa, Who Shakes the World
-3 Negate
 3 Nissa, Who Shakes the World
+3 Negate
 4 Nissa, Who Shakes the World
 3 Mystical Dispute
 2 Castle Vantress
-1 Field of the Dead
 1 Wilderness Reclamation
 1 Field of Ruin
-1 Blast Zone
 1 Growth Spiral
-2 Field of the Dead
+1 Blast Zone
+1 Field of the Dead
 2 Wilderness Reclamation
 2 Growth Spiral
-3 Wilderness Reclamation
+2 Field of the Dead
 3 Growth Spiral
+3 Wilderness Reclamation
+4 Growth Spiral
 4 Mystical Dispute
 4 Wilderness Reclamation
-4 Growth Spiral
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 4 Brazen Borrower
@@ -73,26 +73,26 @@
 3 Teferi, Time Raveler
 3 Field of the Dead
 3 Forest
-1 Questing Beast
-1 Turntimber Symbiosis
-1 Elder Gargaroth
 1 Thassa's Intervention
 1 Ashiok's Erasure
 1 Jwari Disruption
+1 Elder Gargaroth
 1 Klothys, God of Destiny
+1 Turntimber Symbiosis
+1 Questing Beast
 1 Roil Eruption
-2 Questing Beast
-2 Ashiok's Erasure
 2 Jwari Disruption
-2 Elder Gargaroth
 2 Thassa's Intervention
+2 Questing Beast
+2 Elder Gargaroth
+2 Ashiok's Erasure
 2 Roil Eruption
 3 Spikefield Hazard
 3 Bonecrusher Giant
 3 Thassa's Intervention
+3 Elder Gargaroth
 3 Roil Eruption
 3 Ashiok's Erasure
-3 Elder Gargaroth
 4 Bonecrusher Giant
 4 Roil Eruption
 1 Tale's End
@@ -109,17 +109,18 @@
 2 Irencrag Pyromancer
 3 Neutralize
 3 Jolrael, Mwonvuli Recluse
-3 Irencrag Pyromancer
 3 Cragcrown Pathway
+3 Irencrag Pyromancer
 3 Improbable Alliance
 4 Riverglide Pathway
+4 Cragcrown Pathway
 4 Neutralize
 4 Irencrag Pyromancer
 4 Improbable Alliance
-4 Cragcrown Pathway
 4 Teferi, Master of Time
 1 Llanowar Visionary
 1 Ugin, the Spirit Dragon
+1 Vastwood Surge
 1 Phylath, World Sculptor
 1 Reclaim the Wastes
 1 Didn't Say Please
@@ -130,15 +131,14 @@
 1 Swiftwater Cliffs
 1 Beanstalk Giant
 1 Omnath, Locus of Creation
-1 Vastwood Surge
 1 Rugged Highlands
 1 Omen of the Sea
 2 Llanowar Visionary
 2 Rugged Highlands
+2 Vastwood Surge
 2 Didn't Say Please
 2 Omen of the Sea
 2 Swiftwater Cliffs
-2 Vastwood Surge
 2 Volcanic Geyser
 2 Plains
 2 Reclaim the Wastes
@@ -148,13 +148,13 @@
 2 Cinderclasm
 3 Llanowar Visionary
 3 Cultivate
+3 Vastwood Surge
 3 Didn't Say Please
 3 Omen of the Sea
-3 Vastwood Surge
 3 Volcanic Geyser
-4 Omen of the Sea
 4 Llanowar Visionary
 4 Forest
+4 Omen of the Sea
 4 Mountain
 5 Forest
 7 Forest

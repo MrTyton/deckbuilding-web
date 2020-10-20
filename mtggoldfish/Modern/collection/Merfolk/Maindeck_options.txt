@@ -1,9 +1,8 @@
-1 Unsettled Mariner
-2 Unsettled Mariner
-3 Unsettled Mariner
+1 Brazen Borrower
+2 Brazen Borrower
+1 Waterlogged Grove
+2 Waterlogged Grove
 4 Harbinger of the Tides
-1 Smuggler's Copter
-2 Smuggler's Copter
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
@@ -18,44 +17,42 @@
 3 Kumena's Speaker
 4 Botanical Sanctum
 4 Kumena's Speaker
-4 Unsettled Mariner
-3 Waterlogged Grove
-4 Mutavault
-4 Dismember
+1 Smuggler's Copter
+2 Smuggler's Copter
 5 Snow-Covered Island
 3 Merfolk Mistbinder
 4 Merfolk Mistbinder
+3 Waterlogged Grove
+4 Mutavault
+4 Dismember
 1 Breeding Pool
 1 Polluted Delta
-4 Force of Negation
 1 Glasspool Mimic
 2 Glasspool Mimic
-9 Island
-2 Breeding Pool
 1 Flooded Strand
+3 Glasspool Mimic
+4 Glasspool Mimic
+4 Force of Negation
 6 Snow-Covered Island
 7 Snow-Covered Island
 3 Smuggler's Copter
+9 Island
+2 Breeding Pool
+4 Benthic Biomancer
 1 Merrow Reejerey
 2 Merrow Reejerey
-3 Glasspool Mimic
-4 Glasspool Mimic
+1 Sygg, River Cutthroat
+1 Castle Vantress
 1 Master of Waves
 2 Master of Waves
 1 Oboro, Palace in the Clouds
 10 Island
-4 Benthic Biomancer
-3 Master of Waves
-1 Sygg, River Cutthroat
-1 Castle Vantress
 3 Cavern of Souls
 4 Cavern of Souls
-4 Waterlogged Grove
-3 Merrow Reejerey
-4 Merrow Reejerey
 2 Polluted Delta
 1 Phantasmal Image
 2 Phantasmal Image
+3 Master of Waves
 3 Brazen Borrower
 1 Faerie Conclave
 2 Faerie Conclave
@@ -65,7 +62,10 @@
 8 Snow-Covered Island
 9 Snow-Covered Island
 10 Snow-Covered Island
+4 Waterlogged Grove
 2 Flooded Strand
+3 Merrow Reejerey
+4 Merrow Reejerey
 1 Tidebinder Mage
 2 Tidebinder Mage
 1 Minamo, School at Water's Edge
@@ -79,8 +79,6 @@
 4 Smuggler's Copter
 12 Island
 1 Thassa, God of the Sea
-1 Misty Rainforest
-2 Misty Rainforest
 1 Sea's Claim
 2 Sea's Claim
 1 Clearwater Pathway
@@ -89,17 +87,21 @@
 1 Ghost Quarter
 3 Tidebinder Mage
 3 Cursecatcher
+1 Darkslick Shores
+2 Darkslick Shores
+3 Darkslick Shores
+4 Darkslick Shores
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
 1 Fiery Islet
-1 Kira, Great Glass-Spinner
 1 The Royal Scions
+1 Kira, Great Glass-Spinner
 1 Lightning Bolt
 1 Bonecrusher Giant
-1 Steam Vents
 1 Spirebluff Canal
+1 Steam Vents
 2 Steam Vents
 2 The Royal Scions
 2 Fiery Islet
@@ -108,8 +110,8 @@
 2 Spirebluff Canal
 3 Lightning Bolt
 3 Bonecrusher Giant
-3 Spirebluff Canal
 3 Steam Vents
+3 Spirebluff Canal
 4 Lightning Bolt
 4 Bonecrusher Giant
 4 Steam Vents
@@ -121,10 +123,6 @@
 3 Castle Vantress
 4 Chalice of the Void
 4 Castle Vantress
-1 Darkslick Shores
-2 Darkslick Shores
-3 Darkslick Shores
-4 Darkslick Shores
 4 Brazen Borrower
 4 Faerie Conclave
 1 Path to Exile

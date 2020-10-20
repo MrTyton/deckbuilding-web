@@ -12,8 +12,8 @@
 3 Great Furnace
 1 Mox Opal
 1 Stonecoil Serpent
-1 Ichor Wellspring
 1 Soul-Guide Lantern
+1 Ichor Wellspring
 1 Sundering Titan
 2 Mox Opal
 4 Grindstone
@@ -50,9 +50,9 @@
 2 Enlightened Tutor
 11 Snow-Covered Mountain
 1 Arid Mesa
+1 Karakas
 1 Snow-Covered Plains
 1 Urza's Bauble
-1 Karakas
 2 Arid Mesa
 1 Walking Ballista
 2 Ensnaring Bridge
@@ -70,8 +70,8 @@
 12 Snow-Covered Mountain
 2 Plateau
 1 Sevinne's Reclamation
-1 Mishra's Bauble
 1 Swords to Plowshares
+1 Mishra's Bauble
 2 Sevinne's Reclamation
 2 Swords to Plowshares
 2 Snow-Covered Plains
@@ -98,9 +98,9 @@
 1 Engineered Explosives
 1 Kolaghan's Command
 1 Pyrite Spellbomb
-2 Kolaghan's Command
-2 Urza's Bauble
 2 Prismatic Vista
+2 Urza's Bauble
+2 Kolaghan's Command
 3 Prismatic Vista
 3 Urza's Bauble
 4 Urza's Bauble
@@ -112,6 +112,19 @@
 2 Blood Sun
 1 Mazemind Tome
 2 Mazemind Tome
+1 Badlands
+1 Thopter Foundry
+1 Sword of the Meek
+1 Scrubland
+1 Nihil Spellbomb
+1 Raugrin Triome
+1 Dark Confidant
+2 Thopter Foundry
+2 Goblin Cratermaker
+2 Dark Confidant
+2 Mother of Runes
+3 Dark Confidant
+3 Mother of Runes
 1 Trinisphere
 3 Smuggler's Copter
 1 Taiga
@@ -131,18 +144,5 @@
 2 Liquimetal Coating
 3 Grim Monolith
 3 Shenanigans
-3 Liquimetal Coating
 13 Snow-Covered Mountain
-1 Badlands
-1 Sword of the Meek
-1 Thopter Foundry
-1 Scrubland
-1 Nihil Spellbomb
-1 Raugrin Triome
-1 Dark Confidant
-2 Thopter Foundry
-2 Goblin Cratermaker
-2 Dark Confidant
-2 Mother of Runes
-3 Dark Confidant
-3 Mother of Runes
+3 Liquimetal Coating

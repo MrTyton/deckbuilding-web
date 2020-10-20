@@ -41,8 +41,8 @@
 3 Misty Rainforest
 4 Misty Rainforest
 1 Sword of Feast and Famine
-1 Cast Out
 1 Replenish
+1 Cast Out
 2 Replenish
 2 Cast Out
 3 Cast Out
@@ -87,8 +87,8 @@
 4 Mox Diamond
 4 Wasteland
 1 Uro, Titan of Nature's Wrath
-1 Bojuka Bog
 1 Elvish Reclaimer
+1 Bojuka Bog
 1 Crop Rotation
 1 Maze of Ith
 1 Dark Depths
@@ -102,10 +102,9 @@
 1 Cavern of Souls
 1 Cyclonic Rift
 1 Pithing Needle
-1 Prophet of Kruphix
-1 Ugin, the Spirit Dragon
 1 Golos, Tireless Pilgrim
 1 Cascading Cataracts
+1 Ugin, the Spirit Dragon
 1 Cloudpost
 1 Glimmerpost
 1 Ulamog, the Ceaseless Hunger
@@ -122,8 +121,9 @@
 1 Once Upon a Time
 1 Emrakul, the Aeons Torn
 1 Primeval Titan
-2 Snow-Covered Forest
+1 Prophet of Kruphix
 2 Cavern of Souls
+2 Snow-Covered Forest
 2 Primeval Titan
 2 Vesuva
 2 Pithing Needle
@@ -135,11 +135,11 @@
 2 Once Upon a Time
 3 Elvish Reclaimer
 3 Once Upon a Time
-3 Cavern of Souls
 3 Tropical Island
 3 Cloudpost
 3 Glimmerpost
 3 Pithing Needle
+3 Cavern of Souls
 3 Snow-Covered Forest
 3 Green Sun's Zenith
 4 Elvish Reclaimer
@@ -162,7 +162,6 @@
 1 Counterbalance
 2 Counterbalance
 1 Mishra's Factory
-1 Sevinne's Reclamation
 1 Stifle
 1 Phyrexian Dreadnought
 1 Enlightened Tutor
@@ -170,6 +169,7 @@
 1 Scroll of Fate
 1 Jace, Vryn's Prodigy
 1 Karn, the Great Creator
+1 Sevinne's Reclamation
 2 Mishra's Factory
 2 Stifle
 2 Phyrexian Dreadnought
@@ -178,8 +178,24 @@
 3 Phyrexian Dreadnought
 3 Mishra's Factory
 4 Stifle
-1 Waterlogged Grove
+1 Savannah
+1 Bayou
+1 Underground Sea
+1 Abrupt Decay
+1 Chalice of the Void
+1 Assassin's Trophy
+1 Snow-Covered Swamp
+2 Chalice of the Void
+2 Abrupt Decay
+2 Uro, Titan of Nature's Wrath
+3 Chalice of the Void
+3 Abrupt Decay
+3 Uro, Titan of Nature's Wrath
+4 Uro, Titan of Nature's Wrath
+4 Chalice of the Void
+4 Abrupt Decay
 1 Riftstone Portal
+1 Waterlogged Grove
 1 Exploration
 1 Rishadan Port
 1 Wooded Foothills
@@ -197,8 +213,8 @@
 4 Oko, Thief of Crowns
 4 Life from the Loam
 4 Thespian's Stage
-1 Secluded Steppe
 1 Street Wraith
+1 Secluded Steppe
 1 Gilded Drake
 1 Astral Slide
 1 Astral Drift
@@ -225,21 +241,5 @@
 4 Astral Slide
 4 Street Wraith
 4 Secluded Steppe
-4 Lonely Sandbar
 5 Snow-Covered Plains
-1 Savannah
-1 Bayou
-1 Underground Sea
-1 Abrupt Decay
-1 Chalice of the Void
-1 Assassin's Trophy
-1 Snow-Covered Swamp
-2 Chalice of the Void
-2 Abrupt Decay
-2 Uro, Titan of Nature's Wrath
-3 Chalice of the Void
-3 Abrupt Decay
-3 Uro, Titan of Nature's Wrath
-4 Chalice of the Void
-4 Abrupt Decay
-4 Uro, Titan of Nature's Wrath
+4 Lonely Sandbar

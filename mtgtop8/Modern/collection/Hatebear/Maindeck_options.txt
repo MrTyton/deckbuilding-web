@@ -27,49 +27,24 @@
 1 Selfless Savior
 1 Aven Mindcensor
 2 Aven Mindcensor
-1 Renegade Rallier
-1 Charming Prince
-1 Windswept Heath
-1 Stirring Wildwood
-1 Forest
-1 Qasali Pridemage
-1 Noble Hierarch
-1 Razorverge Thicket
-1 Temple Garden
-1 Scavenging Ooze
-2 Charming Prince
-2 Temple Garden
-2 Forest
-2 Razorverge Thicket
-2 Noble Hierarch
-2 Qasali Pridemage
-2 Scavenging Ooze
-2 Renegade Rallier
-3 Razorverge Thicket
-3 Noble Hierarch
-3 Temple Garden
-4 Noble Hierarch
-4 Razorverge Thicket
-4 Horizon Canopy
-4 Restoration Angel
 1 Battlefield Forge
 2 Battlefield Forge
 1 Smuggler's Copter
 1 Inspiring Vantage
-1 Sacred Foundry
 1 Snow-Covered Mountain
 1 Goblin Rabblemaster
 1 Angrath's Marauders
 1 Winota, Joiner of Forces
 1 Mountain
+1 Sacred Foundry
 1 Lightning Bolt
 1 Seasoned Pyromancer
 2 Smuggler's Copter
 2 Inspiring Vantage
-2 Angrath's Marauders
-2 Winota, Joiner of Forces
-2 Goblin Rabblemaster
 2 Sacred Foundry
+2 Angrath's Marauders
+2 Goblin Rabblemaster
+2 Winota, Joiner of Forces
 2 Seasoned Pyromancer
 2 Mountain
 2 Lightning Bolt
@@ -82,10 +57,10 @@
 3 Seasoned Pyromancer
 3 Mountain
 4 Inspiring Vantage
+4 Sacred Foundry
 4 Mountain
 4 Angrath's Marauders
 4 Winota, Joiner of Forces
-4 Sacred Foundry
 4 Seasoned Pyromancer
 4 Lightning Bolt
 2 Batterskull
@@ -98,8 +73,8 @@
 1 Winds of Abandon
 1 Thought-Knot Seer
 1 Thalia, Heretic Cathar
-1 Containment Priest
 1 Eldrazi Temple
+1 Containment Priest
 1 Chalice of the Void
 1 Gemstone Caverns
 1 Simian Spirit Guide
@@ -131,20 +106,20 @@
 4 Eldrazi Displacer
 4 Eldrazi Temple
 4 Simian Spirit Guide
-1 Blade Splicer
 1 Spell Queller
 1 Seachrome Coast
+1 Blade Splicer
+1 Deputy of Detention
 1 Lurrus of the Dream-Den
 1 Meddling Mage
 1 Island
 1 Flooded Strand
-1 Deputy of Detention
 1 Hallowed Fountain
-2 Blade Splicer
+2 Deputy of Detention
 2 Spell Queller
 2 Seachrome Coast
+2 Blade Splicer
 2 Lurrus of the Dream-Den
-2 Deputy of Detention
 2 Meddling Mage
 2 Island
 2 Hallowed Fountain
@@ -153,8 +128,33 @@
 3 Spell Queller
 3 Deputy of Detention
 3 Meddling Mage
-4 Spell Queller
 4 Seachrome Coast
+4 Spell Queller
 4 Meddling Mage
 4 Deputy of Detention
 11 Snow-Covered Plains
+1 Charming Prince
+1 Renegade Rallier
+1 Stirring Wildwood
+1 Qasali Pridemage
+1 Noble Hierarch
+1 Razorverge Thicket
+1 Temple Garden
+1 Windswept Heath
+1 Scavenging Ooze
+1 Forest
+2 Charming Prince
+2 Qasali Pridemage
+2 Forest
+2 Noble Hierarch
+2 Temple Garden
+2 Scavenging Ooze
+2 Renegade Rallier
+2 Razorverge Thicket
+3 Temple Garden
+3 Noble Hierarch
+3 Razorverge Thicket
+4 Razorverge Thicket
+4 Horizon Canopy
+4 Restoration Angel
+4 Noble Hierarch

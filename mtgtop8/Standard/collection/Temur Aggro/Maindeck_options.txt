@@ -1,41 +1,52 @@
-2 Mystical Dispute
-1 Cultivate
-2 Cultivate
-3 Cultivate
-3 Mystical Dispute
-1 Arboreal Grazer
-2 Temple of Abandon
-2 Arboreal Grazer
-3 Temple of Mystery
-3 Arboreal Grazer
-4 Uro, Titan of Nature's Wrath
-4 Ugin, the Spirit Dragon
-4 Omnath, Locus of the Roil
-1 Elder Gargaroth
+2 Temple of Epiphany
+2 Omnath, Locus of the Roil
+2 Hydroid Krasis
+2 Cavalier of Thorns
+2 Leafkin Druid
+2 Risen Reef
+3 Ugin, the Spirit Dragon
+3 Hydroid Krasis
+3 Cavalier of Thorns
+3 Omnath, Locus of the Roil
+3 Leafkin Druid
+3 Risen Reef
+3 Uro, Titan of Nature's Wrath
 4 Leafkin Druid
-4 Forest
-4 Cultivate
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-3 Bonecrusher Giant
-4 Arboreal Grazer
-4 Temple of Mystery
-4 Bonecrusher Giant
+4 Risen Reef
 1 Brazen Borrower
 2 Brazen Borrower
 3 Brazen Borrower
-3 Mountain
-1 Terror of the Peaks
-2 Elder Gargaroth
-1 Shatterskull Smashing
-1 Tangled Florahedron
+1 Kazandu Mammoth
+1 Riverglide Pathway
+1 Lotus Cobra
+2 Lotus Cobra
+2 Terror of the Peaks
+3 Lotus Cobra
+1 Beanstalk Giant
+2 Shatterskull Smashing
+3 Terror of the Peaks
+4 Lotus Cobra
+4 Terror of the Peaks
+1 Llanowar Visionary
+2 Beanstalk Giant
+2 Llanowar Visionary
+2 Kazandu Mammoth
+2 Cragcrown Pathway
+3 Llanowar Visionary
+3 Beanstalk Giant
+3 Cragcrown Pathway
+3 Kazandu Mammoth
+4 Cragcrown Pathway
+4 Llanowar Visionary
+4 Beanstalk Giant
+2 Tangled Florahedron
+1 Mystical Dispute
+2 Mystical Dispute
 4 Brazen Borrower
+4 Island
+1 Vivien, Monsters' Advocate
 1 Shark Typhoon
 2 Shark Typhoon
-1 Cragcrown Pathway
-2 Tangled Florahedron
-1 Scavenging Ooze
-1 Vivien, Monsters' Advocate
 1 Unsubstantiate
 1 Questing Beast
 1 Radha, Heart of Keld
@@ -49,16 +60,27 @@
 3 Embercleave
 3 Questing Beast
 3 Spikefield Hazard
+2 Elder Gargaroth
+3 Mystical Dispute
+1 Arboreal Grazer
+2 Temple of Abandon
+2 Arboreal Grazer
+3 Temple of Mystery
+3 Arboreal Grazer
+4 Arboreal Grazer
+4 Ugin, the Spirit Dragon
+4 Temple of Mystery
 4 Cavalier of Thorns
-1 Riverglide Pathway
-1 Aether Gust
-2 Aether Gust
+4 Omnath, Locus of the Roil
+4 Uro, Titan of Nature's Wrath
+1 Glasspool Mimic
+1 Sea Gate Restoration
+1 Scavenging Ooze
 1 Bala Ged Recovery
 2 Bala Ged Recovery
-4 Island
-1 Kazandu Mammoth
 1 Into the Roil
 2 Into the Roil
+4 Mountain
 1 Garruk, Unleashed
 1 Garruk's Harbinger
 2 Radha, Heart of Keld
@@ -67,123 +89,96 @@
 1 Scorch Spitter
 1 Lightning Stormkin
 1 Cloudkin Seer
+2 Thassa, Deep-Dwelling
 2 Healer of the Glade
 2 Scorch Spitter
 2 Cloudkin Seer
 2 Lightning Stormkin
-2 Thassa, Deep-Dwelling
 3 Thassa, Deep-Dwelling
 3 Healer of the Glade
 3 Lightning Stormkin
 3 Cloudkin Seer
 3 Scorch Spitter
-4 Mountain
 4 Healer of the Glade
 4 Cloudkin Seer
 4 Scorch Spitter
-1 Klothys, God of Destiny
-1 Illuna, Apex of Wishes
-2 Klothys, God of Destiny
-1 Lotus Cobra
-2 Lotus Cobra
-2 Terror of the Peaks
-3 Lotus Cobra
-1 Beanstalk Giant
-2 Shatterskull Smashing
-3 Terror of the Peaks
-4 Lotus Cobra
-4 Terror of the Peaks
-1 Castle Vantress
-1 Sublime Epiphany
-1 Frilled Mystic
-1 Nightpack Ambusher
-2 Nightpack Ambusher
-2 Frilled Mystic
-3 Frilled Mystic
-3 Nightpack Ambusher
-4 Nightpack Ambusher
 1 Scorching Dragonfire
 2 Unsubstantiate
 2 Scorching Dragonfire
+3 Tangled Florahedron
+1 Castle Vantress
+1 Sublime Epiphany
+1 Nightpack Ambusher
+1 Frilled Mystic
+2 Nightpack Ambusher
+2 Frilled Mystic
+3 Nightpack Ambusher
+3 Frilled Mystic
+4 Nightpack Ambusher
+5 Island
+1 The Royal Scions
+5 Forest
+6 Forest
+1 Migratory Greathorn
+1 Zagoth Triome
+1 Ilysian Caryatid
+1 Gilded Goose
+1 Crawling Barrens
+1 Boneyard Lurker
+1 Auspicious Starrix
+1 Pollywog Symbiote
+1 Thorn Mammoth
+1 Brokkos, Apex of Forever
+1 Tuktuk Rubblefort
+1 Sea-Dasher Octopus
+1 Gemrazer
+1 Castle Garenbrig
+1 Pouncing Shoreshark
+2 Migratory Greathorn
+2 Ilysian Caryatid
+2 Vivien, Monsters' Advocate
+2 Gilded Goose
+2 Auspicious Starrix
+2 Pollywog Symbiote
+2 Sea-Dasher Octopus
+2 Gemrazer
+2 Pouncing Shoreshark
+3 Gilded Goose
+3 Auspicious Starrix
+3 Migratory Greathorn
+3 Sea-Dasher Octopus
+3 Pouncing Shoreshark
+3 Gemrazer
+4 Auspicious Starrix
+4 Migratory Greathorn
+7 Forest
+8 Forest
+2 Glasspool Mimic
+3 Shatterskull Smashing
+2 Riverglide Pathway
+2 Sea Gate Restoration
+3 Riverglide Pathway
+3 Sea Gate Restoration
+3 Elder Gargaroth
+4 Tangled Florahedron
+4 Elder Gargaroth
+4 Sea Gate Restoration
 1 Whirlwind Denial
+1 Aether Gust
 1 Nissa, Who Shakes the World
 1 Sinister Sabotage
 1 Quench
 1 Paradise Druid
 2 Castle Vantress
+2 Aether Gust
 2 Whirlwind Denial
 2 Paradise Druid
+2 Sinister Sabotage
 2 Nissa, Who Shakes the World
 2 Quench
 3 Aether Gust
 3 Quench
 4 Quench
-1 Llanowar Visionary
-1 Glasspool Mimic
-2 Cragcrown Pathway
-2 Llanowar Visionary
-2 Kazandu Mammoth
-2 Beanstalk Giant
-3 Cragcrown Pathway
-3 Llanowar Visionary
-3 Beanstalk Giant
-3 Kazandu Mammoth
-4 Cragcrown Pathway
-4 Llanowar Visionary
-4 Beanstalk Giant
-1 Sea Gate Restoration
-3 Tangled Florahedron
-2 Illuna, Apex of Wishes
-2 Scavenging Ooze
-1 Negate
-1 The Royal Scions
-5 Forest
-6 Forest
-1 Zagoth Triome
-1 Gilded Goose
-1 Ilysian Caryatid
-1 Crawling Barrens
-1 Pouncing Shoreshark
-1 Tuktuk Rubblefort
-1 Sea-Dasher Octopus
-1 Gemrazer
-1 Castle Garenbrig
-1 Thorn Mammoth
-1 Pollywog Symbiote
-1 Brokkos, Apex of Forever
-1 Boneyard Lurker
-1 Migratory Greathorn
-1 Auspicious Starrix
-2 Vivien, Monsters' Advocate
-2 Ilysian Caryatid
-2 Gilded Goose
-2 Pouncing Shoreshark
-2 Sea-Dasher Octopus
-2 Migratory Greathorn
-2 Gemrazer
-2 Auspicious Starrix
-2 Pollywog Symbiote
-3 Gilded Goose
-3 Sea-Dasher Octopus
-3 Auspicious Starrix
-3 Pouncing Shoreshark
-3 Migratory Greathorn
-3 Gemrazer
-4 Migratory Greathorn
-4 Auspicious Starrix
-7 Forest
-8 Forest
-2 Sinister Sabotage
-2 Glasspool Mimic
-3 Shatterskull Smashing
-2 Riverglide Pathway
-2 Sea Gate Restoration
-3 Elder Gargaroth
-3 Riverglide Pathway
-3 Sea Gate Restoration
-4 Elder Gargaroth
-4 Tangled Florahedron
-4 Sea Gate Restoration
 4 Spikefield Hazard
 1 Wildborn Preserver
 1 Spectral Sailor
@@ -200,45 +195,45 @@
 4 Mystical Dispute
 4 Brineborn Cutthroat
 1 Teferi, Master of Time
-1 Thornwood Falls
-1 Swiftwater Cliffs
 1 Gnarlid Colony
 1 Jace, Mirror Mage
+1 Swiftwater Cliffs
+1 Roost of Drakes
 1 Cinderclasm
 1 Bubble Snare
-1 Roil Eruption
-1 Vine Gecko
-1 Murasa Sproutling
 1 Cragplate Baloth
-1 Roost of Drakes
+1 Roil Eruption
+1 Negate
+1 Vine Gecko
+1 Thornwood Falls
+1 Murasa Sproutling
 1 Lullmage's Familiar
 1 Reclaim the Wastes
-2 Thornwood Falls
-2 Swiftwater Cliffs
 2 Gnarlid Colony
+2 Swiftwater Cliffs
+2 Roost of Drakes
+2 Negate
 2 Bubble Snare
 2 Roil Eruption
-2 Negate
-2 Roost of Drakes
 2 Vine Gecko
 2 Murasa Sproutling
 2 Lullmage's Familiar
-3 Thornwood Falls
-3 Swiftwater Cliffs
-3 Bubble Snare
-3 Negate
+2 Thornwood Falls
 3 Roil Eruption
-3 Into the Roil
+3 Swiftwater Cliffs
 3 Roost of Drakes
+3 Negate
+3 Bubble Snare
+3 Into the Roil
 3 Vine Gecko
 3 Lullmage's Familiar
-4 Thornwood Falls
+3 Thornwood Falls
 4 Swiftwater Cliffs
-4 Negate
 4 Roil Eruption
-4 Into the Roil
 4 Roost of Drakes
+4 Into the Roil
+4 Negate
+4 Thornwood Falls
 4 Vine Gecko
-5 Island
 6 Island
 7 Island

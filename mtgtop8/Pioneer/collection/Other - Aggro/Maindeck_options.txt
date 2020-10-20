@@ -119,8 +119,8 @@
 1 Haunted Dead
 1 Creeping Chill
 1 Undercity Informer
-1 Worldspine Wurm
 1 Silversmote Ghoul
+1 Worldspine Wurm
 1 Balustrade Spy
 1 Sea Gate Restoration
 1 Pelakka Predation
@@ -143,8 +143,8 @@
 3 Agadeem's Awakening
 4 Agadeem's Awakening
 4 Balustrade Spy
-4 Creeping Chill
 4 Undercity Informer
+4 Creeping Chill
 4 Prized Amalgam
 4 Sea Gate Restoration
 1 Thoughtseize
@@ -239,8 +239,8 @@
 3 Hagra Mauling
 3 Beyeen Veil
 3 Soul-Guide Lantern
-4 Hagra Mauling
 4 Pelakka Predation
+4 Hagra Mauling
 4 Beyeen Veil
 4 Soul-Guide Lantern
 1 Into the Roil
@@ -270,31 +270,6 @@
 4 Bala Ged Recovery
 4 Eldritch Evolution
 4 Sylvan Caryatid
-1 Unclaimed Territory
-1 Acquisitions Expert
-1 Archpriest of Iona
-1 Rogue Refiner
-1 Bloodsoaked Champion
-1 Hamlet Captain
-1 Gust Walker
-2 Unclaimed Territory
-2 Acquisitions Expert
-2 Archpriest of Iona
-2 Bloodsoaked Champion
-2 Rogue Refiner
-2 Gust Walker
-2 Hamlet Captain
-3 Mana Confluence
-3 Unclaimed Territory
-3 Archpriest of Iona
-3 Acquisitions Expert
-3 Reflector Mage
-3 Rogue Refiner
-4 Mana Confluence
-4 Archpriest of Iona
-4 Acquisitions Expert
-4 Unclaimed Territory
-4 Reflector Mage
 1 Skyclave Cleric
 1 Charming Prince
 1 Skyclave Apparition
@@ -335,6 +310,31 @@
 4 Chart a Course
 4 Into the Story
 4 Botanical Sanctum
+1 Unclaimed Territory
+1 Acquisitions Expert
+1 Archpriest of Iona
+1 Rogue Refiner
+1 Bloodsoaked Champion
+1 Hamlet Captain
+1 Gust Walker
+2 Unclaimed Territory
+2 Acquisitions Expert
+2 Bloodsoaked Champion
+2 Rogue Refiner
+2 Gust Walker
+2 Archpriest of Iona
+2 Hamlet Captain
+3 Mana Confluence
+3 Acquisitions Expert
+3 Unclaimed Territory
+3 Reflector Mage
+3 Archpriest of Iona
+3 Rogue Refiner
+4 Mana Confluence
+4 Acquisitions Expert
+4 Unclaimed Territory
+4 Reflector Mage
+4 Archpriest of Iona
 1 Ketria Triome
 2 Breeding Pool
 2 Ketria Triome
@@ -380,6 +380,7 @@
 4 Llanowar Elves
 1 Hinterland Harbor
 1 Kozilek's Return
+1 Fierce Empath
 1 Courser of Kruphix
 1 Yavimaya Coast
 1 Arboreal Grazer
@@ -394,7 +395,6 @@
 1 Jadelight Ranger
 1 Satyr Wayfinder
 1 Stubborn Denial
-1 Fierce Empath
 1 Champion of Wits
 2 Hinterland Harbor
 2 Yavimaya Coast

@@ -1,10 +1,10 @@
 1 Nurturing Peatland
 2 Bayou
-1 Gamble
 1 Grasping Dunes
-2 Gamble
 4 Grove of the Burnwillows
+1 Gamble
 1 Sheltered Thicket
+2 Gamble
 2 Field of the Dead
 3 Punishing Fire
 1 Ancient Tomb
@@ -12,50 +12,41 @@
 1 Lightning Bolt
 2 Lightning Bolt
 1 Tranquil Thicket
+1 Glacial Chasm
 1 Tropical Island
 2 Tropical Island
-1 Glacial Chasm
+2 Windswept Heath
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
-1 Uro, Titan of Nature's Wrath
-2 Windswept Heath
-1 Klothys, God of Destiny
 3 Gamble
-2 Uro, Titan of Nature's Wrath
+1 Uro, Titan of Nature's Wrath
+1 Manabond
 1 Waterlogged Grove
 4 Rishadan Port
+1 Snow-Covered Forest
+2 Uro, Titan of Nature's Wrath
+3 Elvish Reclaimer
 2 Verdant Catacombs
 3 Verdant Catacombs
-1 Snow-Covered Forest
-3 Elvish Reclaimer
+2 Ghost Quarter
+1 Horizon Canopy
+1 Riftstone Portal
+4 Elvish Reclaimer
+1 Klothys, God of Destiny
+2 Wooded Foothills
 3 Oko, Thief of Crowns
 2 Misty Rainforest
+1 Savannah
 1 Cabal Pit
-1 Scavenging Ooze
-1 Leovold, Emissary of Trest
-1 Green Sun's Zenith
-1 Dryad Arbor
-2 Green Sun's Zenith
-4 Verdant Catacombs
 1 Dark Confidant
 1 Ramunap Excavator
 2 Dark Confidant
-1 Swamp
-1 Underground Sea
-1 Brainstorm
-1 Eliminate
-1 Drown in the Loch
-1 Raven's Crime
-2 Brainstorm
-3 Green Sun's Zenith
-3 Brainstorm
-4 Brainstorm
-2 Ghost Quarter
-1 Manabond
-1 Horizon Canopy
-4 Elvish Reclaimer
-1 Savannah
-2 Wooded Foothills
+1 Leovold, Emissary of Trest
+1 Green Sun's Zenith
+1 Dryad Arbor
+1 Scavenging Ooze
+2 Green Sun's Zenith
+4 Verdant Catacombs
 1 Sevinne's Reclamation
 1 Molten Vortex
 1 Faithless Looting
@@ -63,14 +54,13 @@
 2 Faithless Looting
 3 Taiga
 1 Brushfire Elemental
-1 Riftstone Portal
 1 Nissa of Shadowed Boughs
 1 Atarka's Command
 1 Badlands
 1 Snow-Covered Swamp
 2 Brushfire Elemental
-2 Nissa of Shadowed Boughs
 2 Ramunap Excavator
+2 Nissa of Shadowed Boughs
 3 Dark Confidant
 3 Wooded Foothills
 3 Brushfire Elemental
@@ -92,6 +82,17 @@
 3 Knight of the Reliquary
 3 Swords to Plowshares
 4 Valakut Exploration
+4 Abrupt Decay
+1 Underground Sea
+1 Brainstorm
+1 Eliminate
+1 Swamp
+1 Drown in the Loch
+1 Raven's Crime
+2 Brainstorm
+3 Green Sun's Zenith
+3 Brainstorm
+4 Brainstorm
 1 Academy Ruins
 1 Tolaria West
 1 Primeval Titan
@@ -102,7 +103,6 @@
 2 Waterlogged Grove
 3 Uro, Titan of Nature's Wrath
 4 Uro, Titan of Nature's Wrath
-4 Abrupt Decay
 1 Mishra's Factory
 1 Sphere of Resistance
 2 Blast Zone

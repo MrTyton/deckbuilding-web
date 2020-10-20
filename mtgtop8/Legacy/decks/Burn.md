@@ -110,6 +110,7 @@
 |                    4|[Faithless Looting](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389512)    |                     |                                                                                              |
 |                    4|[Bedlam Reveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414415)       |                     |                                                                                              |
 |                    4|[Soul-Scar Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426850)       |                     |                                                                                              |
+|                   20|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)             |                     |                                                                                              |
 |                   11|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                              |
 |                   12|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                              |
 |                   13|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                              |
@@ -120,5 +121,4 @@
 |                   18|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                              |
 |                   19|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                              |
 |                   20|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                              |
-|                   20|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)             |                     |                                                                                              |
 

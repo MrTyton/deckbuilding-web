@@ -18,13 +18,6 @@
 3 Leyline of Sanctity
 1 Eidolon of Rhetoric
 1 Elspeth, Knight-Errant
-1 Dismember
-1 Relic of Progenitus
-1 Gaddock Teeg
-1 Knight of Autumn
-2 Knight of Autumn
-2 Gaddock Teeg
-2 Relic of Progenitus
 2 Declaration in Stone
 1 Mystical Dispute
 1 Gideon of the Trials
@@ -42,6 +35,13 @@
 2 Worship
 2 Hushbringer
 2 Boil
+1 Knight of Autumn
+1 Dismember
+1 Relic of Progenitus
+1 Gaddock Teeg
+2 Knight of Autumn
+2 Relic of Progenitus
+2 Gaddock Teeg
 1 Settle the Wreckage
 1 Soul-Guide Lantern
 1 Skyclave Apparition
@@ -52,9 +52,9 @@
 2 Remorseful Cleric
 3 Damping Sphere
 4 Leyline of Sanctity
-1 Magus of the Moon
 1 Goblin Cratermaker
 1 Path to Exile
+1 Magus of the Moon
+2 Path to Exile
 2 Magus of the Moon
 4 Burrenton Forge-Tender
-2 Path to Exile

@@ -1,9 +1,14 @@
-1 Grasping Dunes
-1 Glacial Chasm
-2 Field of the Dead
 1 Misty Rainforest
+1 Ancient Tomb
+1 Grasping Dunes
 1 Bayou
+1 Glacial Chasm
+1 Nurturing Peatland
 1 Snow-Covered Forest
+1 Abrupt Decay
+2 Abrupt Decay
+2 Bayou
+3 Abrupt Decay
 1 Waterlogged Grove
 1 Tropical Island
 1 Cavern of Souls
@@ -11,48 +16,43 @@
 1 Primeval Titan
 2 Primeval Titan
 2 Cavern of Souls
-1 Abrupt Decay
-2 Abrupt Decay
-2 Bayou
-3 Abrupt Decay
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 2 Tropical Island
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
+1 Dryad of the Ilysian Grove
 1 Dryad Arbor
 1 Green Sun's Zenith
-1 Dryad of the Ilysian Grove
 1 Valakut, the Molten Pinnacle
+2 Dryad of the Ilysian Grove
 2 Forest
 2 Green Sun's Zenith
 2 Ancient Tomb
 2 Valakut, the Molten Pinnacle
-2 Dryad of the Ilysian Grove
+3 Dryad of the Ilysian Grove
 3 Green Sun's Zenith
 3 Ancient Tomb
-3 Dryad of the Ilysian Grove
-4 Green Sun's Zenith
 4 Dryad of the Ilysian Grove
+4 Green Sun's Zenith
 4 Ancient Tomb
 1 Tireless Tracker
 1 Titania, Protector of Argoth
 1 Chalice of the Void
 1 Scavenging Ooze
-2 Verdant Catacombs
 2 Wooded Foothills
+2 Verdant Catacombs
 2 Chalice of the Void
 3 Cavern of Souls
 3 Chalice of the Void
 4 Chalice of the Void
 4 Cavern of Souls
-1 Nurturing Peatland
-1 Klothys, God of Destiny
-1 Sheltered Thicket
-1 Manabond
 1 Valakut Exploration
 2 Valakut Exploration
+1 Sheltered Thicket
+1 Klothys, God of Destiny
+1 Manabond
 3 Sylvan Library
 1 Lightning Bolt
 2 Lightning Bolt
@@ -60,8 +60,8 @@
 4 Valakut Exploration
 1 Barbarian Ring
 2 Windswept Heath
-1 Radha, Heart of Keld
 1 Zagoth Triome
+1 Radha, Heart of Keld
 1 Ketria Triome
 1 Leovold, Emissary of Trest
 1 Oko, Thief of Crowns
@@ -73,9 +73,9 @@
 3 Yidaro, Wandering Monster
 2 Snow-Covered Forest
 4 Once Upon a Time
-1 Savannah
-1 Plains
 1 Yasharn, Implacable Earth
+1 Plains
+1 Savannah
 1 Swords to Plowshares
 1 Snow-Covered Plains
 1 Turntimber Symbiosis
@@ -104,15 +104,15 @@
 4 Uro, Titan of Nature's Wrath
 4 Rishadan Port
 1 Kozilek, Butcher of Truth
-1 All Is Dust
 1 Candelabra of Tawnos
+1 All Is Dust
 1 Ulamog, the Ceaseless Hunger
+1 Thought-Knot Seer
 1 Glimmerpost
 1 Cascading Cataracts
 1 Pithing Needle
 1 Ugin, the Spirit Dragon
 1 Cloudpost
-1 Thought-Knot Seer
 1 Kozilek, the Great Distortion
 1 Eye of Ugin
 1 Golos, Tireless Pilgrim
@@ -121,6 +121,7 @@
 1 Vesuva
 1 Elvish Rejuvenator
 1 Emrakul, the Aeons Torn
+2 Ugin, the Ineffable
 2 Candelabra of Tawnos
 2 Pithing Needle
 2 Glimmerpost
@@ -129,7 +130,6 @@
 2 Elvish Rejuvenator
 2 Ugin, the Spirit Dragon
 2 Vesuva
-2 Ugin, the Ineffable
 2 Cloudpost
 3 Candelabra of Tawnos
 3 Ulamog, the Ceaseless Hunger
@@ -141,9 +141,9 @@
 3 Golos, Tireless Pilgrim
 3 Elvish Rejuvenator
 4 Snow-Covered Forest
+4 Vesuva
 4 Glimmerpost
 4 Cloudpost
-4 Vesuva
 4 Elvish Rejuvenator
 5 Snow-Covered Forest
 6 Snow-Covered Forest
