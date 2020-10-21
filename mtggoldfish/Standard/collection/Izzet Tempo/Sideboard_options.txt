@@ -32,18 +32,22 @@
 1 Shell Shield
 1 Storm's Wrath
 1 Volcanic Salvo
-1 Neutralize
-2 Neutralize
-1 The Akroan War
-2 The Akroan War
 1 Banishing Light
 1 Frogify
-2 Confounding Conundrum
 2 Banishing Light
+2 Confounding Conundrum
+1 The Akroan War
+2 The Akroan War
 1 Bubble Snare
 2 Bubble Snare
+1 Neutralize
+2 Neutralize
 2 Lofty Denial
 3 Lofty Denial
+1 Flame Spill
+2 Shark Typhoon
+2 Flame Spill
+3 Shark Typhoon
 1 Tormod's Crypt
 2 Tormod's Crypt
 3 Tormod's Crypt
@@ -52,11 +56,11 @@
 3 Ox of Agonas
 1 Stern Dismissal
 1 Kazuul's Fury
-1 Terror of the Peaks
 1 Kaza, Roil Chaser
 1 Embercleave
 1 Shatterskull Charger
 1 Umara Mystic
+1 Terror of the Peaks
 2 Stern Dismissal
 2 Shatterskull Charger
 2 Umara Mystic
@@ -70,10 +74,9 @@
 2 Shell Shield
 2 Spikefield Hazard
 3 Shell Shield
-1 Flame Spill
-2 Shark Typhoon
-2 Flame Spill
-3 Shark Typhoon
+1 Shock
+2 Shock
+3 Shock
 2 Essence Scatter
 3 Riddleform
 3 Essence Scatter
@@ -85,6 +88,3 @@
 3 Cinderclasm
 4 Scorching Dragonfire
 4 Cinderclasm
-1 Shock
-2 Shock
-3 Shock

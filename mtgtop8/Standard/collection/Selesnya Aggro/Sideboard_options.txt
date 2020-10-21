@@ -1,4 +1,5 @@
 2 Glass Casket
+3 Shatter the Sky
 1 Garruk's Harbinger
 2 Garruk's Harbinger
 3 Glass Casket
@@ -8,7 +9,6 @@
 3 Garruk's Harbinger
 1 Elder Gargaroth
 2 Giant Killer
-3 Shatter the Sky
 4 Shatter the Sky
 1 Ancient Greenwarden
 1 Questing Beast
@@ -23,13 +23,15 @@
 2 Elder Gargaroth
 1 Primal Might
 2 Primal Might
-1 Cubwarden
-2 Cubwarden
 1 Kazandu Nectarpot
 1 Klothys, God of Destiny
 2 Kazandu Nectarpot
-2 Klothys, God of Destiny
 2 Ancient Greenwarden
+2 Klothys, God of Destiny
+1 Sorcerous Spyglass
+2 Sorcerous Spyglass
+1 Cubwarden
+2 Cubwarden
 1 Hushbringer
 2 Questing Beast
 2 Hushbringer
@@ -43,6 +45,13 @@
 2 Ranger's Guile
 3 The Ozolith
 3 Ranger's Guile
+1 Mazemind Tome
+1 Ugin, the Spirit Dragon
+1 Negate
+2 Run Afoul
+2 Negate
+3 Negate
+3 Run Afoul
 2 Banishing Light
 1 Heroic Intervention
 1 Shifting Ceratops
@@ -51,13 +60,6 @@
 2 Shifting Ceratops
 2 Gods Willing
 3 Gods Willing
-1 Mazemind Tome
-1 Ugin, the Spirit Dragon
-1 Negate
-2 Run Afoul
-2 Negate
-3 Run Afoul
-3 Negate
 1 Basri Ket
 1 Archon of Emeria
 2 Basri Ket
@@ -67,23 +69,23 @@
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 4 Scavenging Ooze
+3 Oakhame Adversary
+3 Wilt
+4 Garruk's Harbinger
+4 Oakhame Adversary
 1 Baneslayer Angel
 1 Skyclave Cleric
 2 Skyclave Cleric
 3 Skyclave Cleric
 4 Glass Casket
 4 Skyclave Cleric
-3 Oakhame Adversary
-3 Wilt
-4 Garruk's Harbinger
-4 Oakhame Adversary
 1 Stonecoil Serpent
-1 Swallow Whole
 1 Mystic Repeal
+1 Swallow Whole
 1 Return to Nature
 1 Feat of Resistance
-2 Return to Nature
 2 Mystic Repeal
+2 Return to Nature
 2 Feat of Resistance
 2 Swallow Whole
 3 Feat of Resistance

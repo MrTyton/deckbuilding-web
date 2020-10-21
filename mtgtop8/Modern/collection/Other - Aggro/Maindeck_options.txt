@@ -63,9 +63,9 @@
 3 Lightning Bolt
 4 Lightning Bolt
 1 Fiery Islet
+1 Wild Slash
 1 Spirebluff Canal
 1 Gut Shot
-1 Wild Slash
 1 Bedlam Reveler
 1 Light Up the Stage
 1 Mutagenic Growth
@@ -78,9 +78,9 @@
 1 Monastery Swiftspear
 1 Stormwing Entity
 2 Fiery Islet
+2 Wild Slash
 2 Spirebluff Canal
 2 Bedlam Reveler
-2 Wild Slash
 2 Light Up the Stage
 2 Stormwing Entity
 2 Sprite Dragon
@@ -133,6 +133,8 @@
 1 Plague Belcher
 1 Murderous Rider
 2 Cavern of Souls
+2 Cryptbreaker
+2 Agadeem's Awakening
 2 Watery Grave
 2 Gravecrawler
 2 Swamp
@@ -145,12 +147,10 @@
 2 Soul Diviner
 2 Darkslick Shores
 2 Diregraf Captain
-2 Agadeem's Awakening
 2 Village Rites
 2 Polluted Delta
 2 Fatal Push
 2 Undead Augur
-2 Cryptbreaker
 3 Gravecrawler
 3 Watery Grave
 3 Swamp
@@ -174,12 +174,12 @@
 5 Swamp
 6 Swamp
 1 Misty Rainforest
+1 Wrenn and Six
 1 Blood Moon
 1 Klothys, God of Destiny
 1 Elder Gargaroth
 1 Bloodbraid Elf
 1 Bonecrusher Giant
-1 Wrenn and Six
 1 Pillage
 1 Chandra, Torch of Defiance
 1 Questing Beast

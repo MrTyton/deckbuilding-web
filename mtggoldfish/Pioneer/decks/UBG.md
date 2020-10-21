@@ -1,18 +1,18 @@
 # UBG
 
 #### [Export MTGO List](../collection/UBG/UBG.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Agadeem's%20Awakening%0A4%09Bala%20Ged%20Recovery%0A3%09Balustrade%20Spy%0A3%09Creeping%20Chill%0A3%09Eldritch%20Evolution%0A3%09Hagra%20Mauling%0A2%09Haunted%20Dead%0A3%09Kazandu%20Mammoth%0A2%09Neoform%0A3%09Paradise%20Druid%0A2%09Pelakka%20Predation%0A3%09Prized%20Amalgam%0A3%09Sea%20Gate%20Restoration%0A2%09Silversmote%20Ghoul%0A3%09Sylvan%20Caryatid%0A4%09Tangled%20Florahedron%0A3%09Thoughtseize%0A4%09Turntimber%20Symbiosis%0A4%09Undercity%20Informer%0A1%09Vastwood%20Fortification%0A1%09Worldspine%20Wurm&deckside=4%09Abrupt%20Decay%0A1%09Archon%20of%20Emeria%0A2%09Duress%0A2%09Fog%0A4%09Leyline%20of%20Sanctity%0A1%09Reclamation%20Sage%0A1%09Yorion,%20Sky%20Nomad)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Agadeem's%20Awakening%0A4%09Bala%20Ged%20Recovery%0A3%09Balustrade%20Spy%0A4%09Creeping%20Chill%0A3%09Eldritch%20Evolution%0A3%09Hagra%20Mauling%0A2%09Haunted%20Dead%0A3%09Kazandu%20Mammoth%0A2%09Neoform%0A3%09Paradise%20Druid%0A2%09Pelakka%20Predation%0A3%09Prized%20Amalgam%0A3%09Sea%20Gate%20Restoration%0A2%09Silversmote%20Ghoul%0A3%09Sylvan%20Caryatid%0A3%09Tangled%20Florahedron%0A3%09Thoughtseize%0A4%09Turntimber%20Symbiosis%0A4%09Undercity%20Informer%0A1%09Vastwood%20Fortification%0A1%09Worldspine%20Wurm&deckside=4%09Abrupt%20Decay%0A1%09Archon%20of%20Emeria%0A2%09Duress%0A2%09Fog%0A4%09Leyline%20of%20Sanctity%0A1%09Reclamation%20Sage%0A1%09Yorion,%20Sky%20Nomad)
 # Maindeck
 
-|                                         Creature (21)                                         |                                         Sorcery (11)                                          |      Unknown (28)      |
+|                                         Creature (21)                                         |                                         Sorcery (12)                                          |      Unknown (27)      |
 |-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------|
-|3 [Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366464)    |3 [Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)    |4 Agadeem's Awakening   |
+|3 [Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366464)    |4 [Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)    |4 Agadeem's Awakening   |
 |2 [Haunted Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414387)      |3 [Eldritch Evolution](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414456)|4 Bala Ged Recovery     |
 |3 [Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)    |2 [Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)           |3 Hagra Mauling         |
 |3 [Prized Amalgam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410014)    |3 [Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)      |3 Kazandu Mammoth       |
 |2 [Silversmote Ghoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485445) |                                                                                               |2 Pelakka Predation     |
 |3 [Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624)   |                                                                                               |3 Sea Gate Restoration  |
-|4 [Undercity Informer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366271)|                                                                                               |4 Tangled Florahedron   |
+|4 [Undercity Informer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366271)|                                                                                               |3 Tangled Florahedron   |
 |1 [Worldspine Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253575)   |                                                                                               |4 Turntimber Symbiosis  |
 |                                                                                               |                                                                                               |1 Vastwood Fortification|
 
@@ -29,7 +29,7 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    4|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)      |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)   |
+|                    4|Tangled Florahedron                                                                            |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)   |
 |                    4|[Prized Amalgam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410014)      |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)   |
 |                    4|[Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366464)      |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)   |
 |                    4|[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624)     |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)   |

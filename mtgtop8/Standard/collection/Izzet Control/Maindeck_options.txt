@@ -9,8 +9,8 @@
 2 Spikefield Hazard
 3 Jwari Disruption
 3 Spikefield Hazard
-4 Spikefield Hazard
 4 Jwari Disruption
+4 Spikefield Hazard
 1 Thassa's Intervention
 1 Radiant Fountain
 2 Radiant Fountain
@@ -48,8 +48,8 @@
 2 Negate
 2 Devious Cover-Up
 2 Cancel
-3 Dismal Backwater
 3 Bloodfell Caves
+3 Dismal Backwater
 3 Negate
 4 Bloodfell Caves
 4 Dismal Backwater
@@ -61,42 +61,27 @@
 3 Thirst for Meaning
 3 Evolving Wilds
 4 Evolving Wilds
-1 Gadwick, the Wizened
-1 Kiora Bests the Sea God
-1 Cinderclasm
-1 Hypnotic Sprite
-1 Voracious Greatshark
-1 Fabled Passage
-2 Voracious Greatshark
-2 Gadwick, the Wizened
-2 Cinderclasm
-2 Thassa's Intervention
-2 Fabled Passage
-3 Mystical Dispute
-3 Thassa's Intervention
-4 Mystical Dispute
-4 Essence Scatter
 1 Shatterskull Smashing
-1 Soul Sear
+1 Shredded Sails
 1 Brash Taunter
 1 Storm's Wrath
 1 Mazemind Tome
+1 Soul Sear
 1 Silundi Vision
 1 Scorching Dragonfire
-1 Shredded Sails
 1 Shipwreck Dowser
-2 Brash Taunter
 2 Shatterskull Smashing
-2 Soul Sear
-2 Mazemind Tome
-2 Storm's Wrath
 2 Shredded Sails
+2 Mazemind Tome
+2 Brash Taunter
+2 Storm's Wrath
+2 Soul Sear
 2 Silundi Vision
 2 Shipwreck Dowser
 2 Scorching Dragonfire
-3 Brash Taunter
 3 Radiant Fountain
 3 Mazemind Tome
+3 Brash Taunter
 3 Storm's Wrath
 3 Shipwreck Dowser
 3 Scorching Dragonfire
@@ -104,6 +89,21 @@
 3 Sublime Epiphany
 4 Radiant Fountain
 4 Scorching Dragonfire
+1 Gadwick, the Wizened
+1 Kiora Bests the Sea God
+1 Cinderclasm
+1 Hypnotic Sprite
+1 Voracious Greatshark
+1 Fabled Passage
+2 Gadwick, the Wizened
+2 Voracious Greatshark
+2 Thassa's Intervention
+2 Cinderclasm
+2 Fabled Passage
+3 Mystical Dispute
+3 Thassa's Intervention
+4 Mystical Dispute
+4 Essence Scatter
 1 Irencrag Pyromancer
 1 Experimental Overload
 1 Izzet Guildgate
@@ -117,8 +117,8 @@
 2 Experimental Overload
 3 Winged Words
 3 Crackling Drake
-3 Ominous Seas
 3 Flame Sweep
+3 Ominous Seas
 4 Shock
 4 Lofty Denial
 8 Mountain

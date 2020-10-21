@@ -72,6 +72,6 @@
 |                    3|[Lazav, the Multifarious](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452934)|                     |                                                                                               |
 |                    4|[Putrid Imp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270459)             |                     |                                                                                               |
 |                    4|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)           |                     |                                                                                               |
-|                    4|[Phyrexian Dreadnought](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3263)    |                     |                                                                                               |
 |                    4|[Lazav, the Multifarious](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452934)|                     |                                                                                               |
+|                    4|[Phyrexian Dreadnought](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3263)    |                     |                                                                                               |
 

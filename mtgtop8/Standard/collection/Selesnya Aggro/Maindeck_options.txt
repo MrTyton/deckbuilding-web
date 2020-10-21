@@ -1,19 +1,21 @@
 5 Plains
 6 Plains
+3 Emeria's Call
 1 Fabled Passage
 2 Fabled Passage
+7 Forest
 3 Fabled Passage
 1 Scavenging Ooze
 2 Scavenging Ooze
 4 Fabled Passage
 7 Plains
 3 Scavenging Ooze
+8 Forest
 1 Conclave Mentor
 1 Stonecoil Serpent
 2 Conclave Mentor
 3 Conclave Mentor
 1 Felidar Retreat
-7 Forest
 2 Stonecoil Serpent
 3 Stonecoil Serpent
 4 Stonecoil Serpent
@@ -28,7 +30,7 @@
 2 Basri's Lieutenant
 3 Luminarch Aspirant
 4 Luminarch Aspirant
-3 Emeria's Call
+3 Elspeth Conquers Death
 1 Lotus Cobra
 1 Yasharn, Implacable Earth
 2 Lotus Cobra
@@ -39,7 +41,6 @@
 3 Felidar Retreat
 4 Lotus Cobra
 4 Felidar Retreat
-8 Forest
 1 Selfless Savior
 2 Selfless Savior
 3 Selfless Savior
@@ -64,8 +65,8 @@
 1 Mazemind Tome
 2 Mazemind Tome
 3 Mazemind Tome
-3 Elspeth Conquers Death
 4 Elspeth Conquers Death
+3 Charming Prince
 1 The Ozolith
 2 The Ozolith
 4 Yasharn, Implacable Earth
@@ -117,14 +118,13 @@
 1 Wolfwillow Haven
 2 Indatha Triome
 2 Wolfwillow Haven
-3 Charming Prince
 3 Indatha Triome
 4 Charming Prince
 4 Indatha Triome
 4 Mazemind Tome
 1 Golden Egg
-1 Glasspool Mimic
 1 Island
+1 Glasspool Mimic
 1 Solemn Simulacrum
 2 Golden Egg
 2 Glasspool Mimic
@@ -148,8 +148,23 @@
 2 Phylath, World Sculptor
 3 Tangled Florahedron
 3 Archon of Emeria
-4 Archon of Emeria
 4 Tangled Florahedron
+4 Archon of Emeria
+1 Faerie Guidemother
+1 Shepherd of the Flock
+1 Flaxen Intruder
+1 Edgewall Innkeeper
+1 Questing Beast
+2 Faerie Guidemother
+2 Shepherd of the Flock
+2 Edgewall Innkeeper
+2 Questing Beast
+3 Shepherd of the Flock
+3 Faerie Guidemother
+3 Edgewall Innkeeper
+4 Giant Killer
+4 Shepherd of the Flock
+4 Edgewall Innkeeper
 1 Castle Ardenvale
 1 Crystalline Giant
 1 Crawling Barrens
@@ -182,16 +197,16 @@
 4 Valakut Exploration
 4 Dryad of the Ilysian Grove
 1 Nessian Hornbeetle
+1 Pridemalkin
 1 Invigorating Surge
 1 Knight of Autumn
 1 Gird for Battle
 1 Garruk's Harbinger
-1 Pridemalkin
 2 Nessian Hornbeetle
+2 Pridemalkin
 2 Invigorating Surge
 2 Knight of Autumn
 2 Gird for Battle
-2 Pridemalkin
 2 Garruk's Harbinger
 3 Nessian Hornbeetle
 3 Garruk's Harbinger
@@ -203,18 +218,18 @@
 4 Garruk's Harbinger
 4 Invigorating Surge
 4 Gird for Battle
-1 Bronzehide Lion
 1 Seasoned Hallowblade
+1 Bronzehide Lion
 1 Elspeth, Sun's Nemesis
-2 Bronzehide Lion
 2 Seasoned Hallowblade
+2 Bronzehide Lion
 2 Elspeth, Sun's Nemesis
-3 Elspeth, Sun's Nemesis
-3 Bronzehide Lion
 3 Seasoned Hallowblade
-4 Scavenging Ooze
-4 Bronzehide Lion
+3 Bronzehide Lion
+3 Elspeth, Sun's Nemesis
 4 Seasoned Hallowblade
+4 Bronzehide Lion
+4 Scavenging Ooze
 4 Selfless Savior
 1 Unbreakable Formation
 1 Voracious Hydra
@@ -228,21 +243,6 @@
 3 Huatli's Raptor
 3 Voracious Hydra
 4 Huatli's Raptor
-1 Faerie Guidemother
-1 Shepherd of the Flock
-1 Flaxen Intruder
-1 Edgewall Innkeeper
-1 Questing Beast
-2 Faerie Guidemother
-2 Shepherd of the Flock
-2 Edgewall Innkeeper
-2 Questing Beast
-3 Shepherd of the Flock
-3 Faerie Guidemother
-3 Edgewall Innkeeper
-4 Giant Killer
-4 Edgewall Innkeeper
-4 Shepherd of the Flock
 1 Vastwood Fortification
 1 Wildwood Scourge
 1 Wildborn Preserver
@@ -250,8 +250,8 @@
 2 Wildwood Scourge
 2 Wildborn Preserver
 3 Sejiri Shelter
-3 Basri Ket
 3 The Ozolith
 3 Vastwood Fortification
+3 Basri Ket
 4 Sejiri Shelter
 4 Vastwood Fortification

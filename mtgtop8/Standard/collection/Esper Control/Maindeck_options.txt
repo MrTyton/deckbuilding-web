@@ -1,17 +1,10 @@
-3 Confounding Conundrum
-4 Temple of Enlightenment
-3 Dance of the Manse
-3 Temple of Silence
-3 Island
-4 Brightclimb Pathway
-3 Yorion, Sky Nomad
 4 Elspeth Conquers Death
 4 Temple of Silence
 4 Island
 1 Glass Casket
 1 Charming Prince
-2 Glass Casket
 2 Charming Prince
+2 Glass Casket
 3 Glass Casket
 3 Temple of Deceit
 4 Temple of Deceit
@@ -20,12 +13,7 @@
 3 Golden Egg
 4 Golden Egg
 1 Emeria's Call
-1 Drown in the Loch
-2 Drown in the Loch
 3 Swamp
-5 Plains
-1 Cling to Dust
-3 The Birth of Meletis
 1 Acquisitions Expert
 1 Extinction Event
 1 Duress
@@ -33,13 +21,27 @@
 2 Extinction Event
 2 Duress
 3 Ashiok, Nightmare Muse
+3 Charming Prince
 3 Acquisitions Expert
 3 Extinction Event
-3 Charming Prince
 3 Duress
+4 Charming Prince
 4 Acquisitions Expert
 4 Glass Casket
-4 Charming Prince
+1 Mystical Dispute
+2 Mystical Dispute
+1 Confounding Conundrum
+2 Confounding Conundrum
+3 Treacherous Blessing
+3 Confounding Conundrum
+3 Dance of the Manse
+1 Shark Typhoon
+1 Drown in the Loch
+2 Drown in the Loch
+5 Plains
+1 Kenrith, the Returned King
+3 The Birth of Meletis
+1 Cling to Dust
 4 Shatter the Sky
 1 Dream Trawler
 1 Hallowed Fountain
@@ -55,7 +57,6 @@
 3 Narset, Parter of Veils
 3 Hallowed Fountain
 4 Hallowed Fountain
-1 Shark Typhoon
 2 Godless Shrine
 2 Watery Grave
 3 Godless Shrine
@@ -81,9 +82,6 @@
 2 Eliminate
 3 Eliminate
 2 Dream Trawler
-1 Kenrith, the Returned King
-4 Ashiok, Nightmare Muse
-4 Extinction Event
 1 Medomai's Prophecy
 1 Elspeth's Nightmare
 1 Bloodchief's Thirst
@@ -98,8 +96,10 @@
 3 Hagra Mauling
 3 Medomai's Prophecy
 3 Skyclave Apparition
-4 Medomai's Prophecy
 4 Skyclave Apparition
+4 Medomai's Prophecy
+4 Ashiok, Nightmare Muse
+4 Extinction Event
 1 Mazemind Tome
 1 Agonizing Remorse
 1 Disinformation Campaign
@@ -117,8 +117,8 @@
 1 Kaya, Orzhov Usurper
 2 Kaya, Orzhov Usurper
 2 Archon of Sun's Grace
-3 Dovin's Veto
 3 Archon of Sun's Grace
+3 Dovin's Veto
 4 Aether Gust
 6 Plains
 1 Erebos's Intervention
@@ -131,8 +131,8 @@
 2 Thought Erasure
 2 Castle Vantress
 2 Brazen Borrower
-3 Thought Erasure
 3 Dream Trawler
+3 Thought Erasure
 5 Island
 6 Island
 7 Island

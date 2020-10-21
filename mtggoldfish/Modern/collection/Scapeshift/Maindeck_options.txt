@@ -36,6 +36,7 @@
 2 Fatal Push
 3 Wooded Foothills
 1 Temple Garden
+1 Sunbaked Canyon
 1 Sejiri Steppe
 1 Arid Mesa
 1 Sacred Foundry
@@ -43,20 +44,19 @@
 1 Sejiri Shelter
 1 Mishra's Bauble
 1 Elvish Reclaimer
+1 Brushfire Elemental
 1 Atarka's Command
 1 Akoum Hellhound
-1 Brushfire Elemental
 1 Windswept Heath
 1 Soaring Seacliff
-1 Sunbaked Canyon
 1 Steppe Lynx
 2 Sacred Foundry
 2 Arid Mesa
 2 Flagstones of Trokair
 2 Mishra's Bauble
 2 Elvish Reclaimer
-2 Akoum Hellhound
 2 Brushfire Elemental
+2 Akoum Hellhound
 2 Windswept Heath
 2 Atarka's Command
 2 Steppe Lynx
@@ -74,8 +74,8 @@
 4 Flagstones of Trokair
 4 Brushfire Elemental
 4 Elvish Reclaimer
-4 Akoum Hellhound
 4 Mishra's Bauble
+4 Akoum Hellhound
 4 Atarka's Command
 4 Steppe Lynx
 3 Censor
@@ -183,6 +183,16 @@
 3 Botanical Sanctum
 3 Prismatic Vista
 4 Botanical Sanctum
+1 Explore
+1 Peer Through Depths
+1 Jwari Disruption
+1 Farseek
+2 Explore
+2 Peer Through Depths
+2 Jwari Disruption
+2 Farseek
+3 Jwari Disruption
+4 Jwari Disruption
 1 Verdant Catacombs
 1 Maddening Cacophony
 2 Verdant Catacombs
@@ -190,16 +200,6 @@
 2 Swamp
 3 Verdant Catacombs
 4 Verdant Catacombs
-1 Explore
-1 Peer Through Depths
-1 Jwari Disruption
-1 Farseek
-2 Explore
-2 Jwari Disruption
-2 Peer Through Depths
-2 Farseek
-3 Jwari Disruption
-4 Jwari Disruption
 4 Censor
 2 Brazen Borrower
 2 Flame Slash

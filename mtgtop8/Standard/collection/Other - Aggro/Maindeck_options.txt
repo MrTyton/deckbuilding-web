@@ -2,13 +2,13 @@
 3 Cavalier of Thorns
 3 Hydroid Krasis
 3 Genesis Ultimatum
-3 Nissa, Who Shakes the World
 3 Soul-Guide Lantern
 3 Uro, Titan of Nature's Wrath
 3 Breeding Pool
 3 Cultivate
 3 Ketria Triome
 3 Stomping Ground
+3 Nissa, Who Shakes the World
 4 Risen Reef
 4 Leafkin Druid
 4 Cavalier of Thorns
@@ -23,42 +23,42 @@
 6 Mountain
 1 Rimrock Knight
 1 Embercleave
+1 Shatterskull Smashing
+1 Bonecrusher Giant
 1 Lovestruck Beast
 1 Questing Beast
 1 Kazandu Mammoth
 1 Cragcrown Pathway
-1 Bonecrusher Giant
 1 Brushfire Elemental
-1 Shatterskull Smashing
 1 Primal Might
 1 Edgewall Innkeeper
 1 Evolving Wilds
 2 Rimrock Knight
 2 Embercleave
+2 Bonecrusher Giant
+2 Shatterskull Smashing
+2 Questing Beast
 2 Scavenging Ooze
 2 Lovestruck Beast
-2 Questing Beast
 2 Brushfire Elemental
 2 Primal Might
 2 Kazandu Mammoth
-2 Bonecrusher Giant
 2 Cragcrown Pathway
-2 Shatterskull Smashing
 2 Edgewall Innkeeper
 2 Evolving Wilds
-3 Questing Beast
-3 Embercleave
 3 Rimrock Knight
+3 Embercleave
+3 Bonecrusher Giant
 3 Lovestruck Beast
+3 Questing Beast
 3 Edgewall Innkeeper
 3 Cragcrown Pathway
 3 Brushfire Elemental
-3 Bonecrusher Giant
 3 Primal Might
 3 Kazandu Mammoth
+4 Questing Beast
 4 Rimrock Knight
 4 Bonecrusher Giant
-4 Questing Beast
 4 Lovestruck Beast
 4 Edgewall Innkeeper
 4 Kazandu Mammoth
@@ -67,72 +67,72 @@
 4 Primal Might
 4 Cragcrown Pathway
 1 Mazemind Tome
-1 Bonders' Enclave
-1 Stonecoil Serpent
 1 Crawling Barrens
-1 Labyrinth of Skophos
 1 Golden Egg
-1 Myriad Construct
 1 Crystalline Giant
+1 Palladium Myr
 1 Forsaken Monument
+1 Indatha Triome
 1 Bloodchief's Thirst
 1 Radiant Fountain
-1 Palladium Myr
+1 Labyrinth of Skophos
+1 Stonecoil Serpent
 1 Swamp
-1 Indatha Triome
+1 Myriad Construct
+1 Bonders' Enclave
 1 Hagra Mauling
 2 Golden Egg
 2 Mazemind Tome
-2 Forsaken Monument
-2 Stonecoil Serpent
-2 Indatha Triome
-2 Labyrinth of Skophos
 2 Bonders' Enclave
-2 Crawling Barrens
-2 Radiant Fountain
-2 Myriad Construct
 2 Crystalline Giant
+2 Palladium Myr
+2 Forsaken Monument
+2 Labyrinth of Skophos
+2 Indatha Triome
+2 Radiant Fountain
+2 Crawling Barrens
 2 Bloodchief's Thirst
+2 Stonecoil Serpent
 2 Hagra Mauling
 2 Swamp
-2 Palladium Myr
+2 Myriad Construct
 3 Golden Egg
 3 Mazemind Tome
-3 Stonecoil Serpent
-3 Radiant Fountain
+3 Crystalline Giant
+3 Palladium Myr
 3 Indatha Triome
 3 Forsaken Monument
 3 Labyrinth of Skophos
+3 Radiant Fountain
 3 Myriad Construct
-3 Crystalline Giant
-3 Palladium Myr
+3 Stonecoil Serpent
 3 Swamp
 3 Bloodchief's Thirst
 4 Golden Egg
 4 Mazemind Tome
-4 Stonecoil Serpent
-4 Radiant Fountain
 4 Bloodchief's Thirst
 4 Indatha Triome
 4 Swamp
 4 Crystalline Giant
-4 Myriad Construct
 4 Palladium Myr
+4 Radiant Fountain
+4 Stonecoil Serpent
 4 Labyrinth of Skophos
 4 Forsaken Monument
+4 Myriad Construct
 5 Swamp
 6 Swamp
 1 Lofty Denial
 1 Frantic Inventory
 1 God-Eternal Kefnet
+1 Ominous Seas
 1 Crackling Drake
 1 Niv-Mizzet, Parun
 1 Swiftwater Cliffs
-1 Ominous Seas
-1 Flame Sweep
 1 Shock
 1 Winged Words
 1 Izzet Guildgate
+1 Flame Sweep
 1 The Royal Scions
 1 Experimental Overload
 1 Sprite Dragon
@@ -140,21 +140,21 @@
 1 Opt
 2 Lofty Denial
 2 Frantic Inventory
-2 Swiftwater Cliffs
 2 Ominous Seas
+2 Swiftwater Cliffs
 2 Shock
-2 Flame Sweep
 2 Experimental Overload
 2 Winged Words
 2 Sprite Dragon
 2 Izzet Guildgate
+2 Flame Sweep
 2 Opt
 2 Crackling Drake
 3 Lofty Denial
 3 Frantic Inventory
+3 Ominous Seas
 3 Swiftwater Cliffs
 3 Flame Sweep
-3 Ominous Seas
 3 Sprite Dragon
 3 Opt
 3 Crackling Drake

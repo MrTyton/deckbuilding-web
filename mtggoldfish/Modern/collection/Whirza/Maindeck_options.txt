@@ -55,8 +55,8 @@
 1 Bloodchief's Thirst
 1 Tezzeret, Agent of Bolas
 2 Bloodchief's Thirst
-3 Darkslick Shores
 3 Bloodchief's Thirst
+3 Darkslick Shores
 3 Scalding Tarn
 1 Inquisition of Kozilek
 2 Hallowed Fountain
@@ -99,14 +99,14 @@
 1 Temple Garden
 1 Dreadbore
 1 Pyrite Spellbomb
-1 Darksteel Citadel
 1 Serum Visions
+1 Darksteel Citadel
 1 Spine of Ish Sah
 1 Cavern of Souls
 2 Cavern of Souls
+1 Lonely Sandbar
 1 Glacial Fortress
 1 Sai, Master Thopterist
-1 Lonely Sandbar
 2 Sai, Master Thopterist
 1 Seachrome Coast
 2 Seachrome Coast
@@ -125,15 +125,15 @@
 3 Glimmervoid
 4 Prismatic Vista
 4 Glimmervoid
-1 Mana Leak
 1 Drown in the Loch
 1 Oboro, Palace in the Clouds
 1 Minamo, School at Water's Edge
 1 Frantic Inventory
 1 River of Tears
 1 Eliminate
-2 Snow-Covered Swamp
+1 Mana Leak
 2 Frantic Inventory
+2 Snow-Covered Swamp
 2 Eliminate
 2 Inquisition of Kozilek
 3 Frantic Inventory
@@ -143,9 +143,10 @@
 4 Frantic Inventory
 6 Snow-Covered Island
 1 Simian Spirit Guide
+1 Blast Zone
 1 Cascade Bluffs
-1 Crucible of Worlds
 1 Ghost Quarter
+1 Crucible of Worlds
 1 Torpor Orb
 1 Witchbane Orb
 1 Grafdigger's Cage
@@ -154,7 +155,6 @@
 1 Welding Jar
 1 Bottled Cloister
 1 Tolaria West
-1 Blast Zone
 2 Simian Spirit Guide
 2 Cascade Bluffs
 2 Ensnaring Bridge
@@ -166,7 +166,7 @@
 3 Tolaria West
 4 Simian Spirit Guide
 4 Ensnaring Bridge
+4 Tolaria West
 5 Island
 6 Island
 7 Island
-4 Tolaria West
