@@ -1,5 +1,8 @@
 2 Forest
 1 Mystical Dispute
+2 Mystical Dispute
+1 Temple of Mystery
+1 Castle Vantress
 1 Expansion / Explosion
 1 Aether Gust
 1 Negate
@@ -7,38 +10,28 @@
 2 Expansion / Explosion
 3 Expansion / Explosion
 4 Expansion / Explosion
-2 Mystical Dispute
-4 Island
+3 Mystical Dispute
+2 Castle Vantress
 2 Negate
 3 Aether Gust
 4 Shark Typhoon
-1 Temple of Mystery
-1 Castle Vantress
-3 Brazen Borrower
-1 Zagoth Triome
-1 Nissa, Who Shakes the World
-2 Zagoth Triome
-2 Nissa, Who Shakes the World
-3 Nissa, Who Shakes the World
-3 Negate
-4 Nissa, Who Shakes the World
-3 Mystical Dispute
-2 Castle Vantress
+1 Field of the Dead
 1 Wilderness Reclamation
 1 Field of Ruin
-1 Growth Spiral
 1 Blast Zone
-1 Field of the Dead
+1 Growth Spiral
+2 Field of the Dead
 2 Wilderness Reclamation
 2 Growth Spiral
-2 Field of the Dead
 3 Growth Spiral
 3 Wilderness Reclamation
 4 Growth Spiral
 4 Mystical Dispute
 4 Wilderness Reclamation
+4 Island
 1 Bonecrusher Giant
 2 Bonecrusher Giant
+3 Brazen Borrower
 4 Brazen Borrower
 1 Spikefield Hazard
 1 Riverglide Pathway
@@ -47,18 +40,10 @@
 2 Riverglide Pathway
 2 Cragcrown Pathway
 3 Riverglide Pathway
-1 Cultivate
-5 Island
 1 Plains
-1 Bala Ged Recovery
-2 Bala Ged Recovery
-3 Fire Prophecy
-4 Fire Prophecy
 1 Oko, Thief of Crowns
 1 Temple of Abandon
 2 Blast Zone
-1 Quench
-2 Quench
 1 Hallowed Fountain
 1 Arboreal Grazer
 1 Teferi, Time Raveler
@@ -72,6 +57,19 @@
 3 Arboreal Grazer
 3 Teferi, Time Raveler
 3 Field of the Dead
+1 Zagoth Triome
+1 Nissa, Who Shakes the World
+1 Quench
+2 Zagoth Triome
+2 Nissa, Who Shakes the World
+2 Quench
+3 Nissa, Who Shakes the World
+3 Negate
+4 Nissa, Who Shakes the World
+1 Bala Ged Recovery
+2 Bala Ged Recovery
+3 Fire Prophecy
+4 Fire Prophecy
 3 Forest
 1 Thassa's Intervention
 1 Ashiok's Erasure
@@ -95,11 +93,6 @@
 3 Ashiok's Erasure
 4 Bonecrusher Giant
 4 Roil Eruption
-1 Tale's End
-2 Tale's End
-3 Tale's End
-4 Aether Gust
-4 Negate
 1 Sea Gate Restoration
 1 Irencrag Pyromancer
 1 Neutralize
@@ -131,10 +124,11 @@
 1 Swiftwater Cliffs
 1 Beanstalk Giant
 1 Omnath, Locus of Creation
+1 Cultivate
 1 Rugged Highlands
 1 Omen of the Sea
-2 Llanowar Visionary
 2 Rugged Highlands
+2 Llanowar Visionary
 2 Vastwood Surge
 2 Didn't Say Please
 2 Omen of the Sea
@@ -157,5 +151,6 @@
 4 Omen of the Sea
 4 Mountain
 5 Forest
+5 Island
 7 Forest
 6 Forest

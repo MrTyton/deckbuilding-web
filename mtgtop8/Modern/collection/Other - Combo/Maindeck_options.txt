@@ -140,10 +140,10 @@
 1 Talisman of Resilience
 1 Hagra Mauling
 1 Leyline of Sanctity
-2 Leyline of Sanctity
 2 Talisman of Resilience
-3 Leyline of Sanctity
+2 Leyline of Sanctity
 3 Talisman of Resilience
+3 Leyline of Sanctity
 4 Leyline of Sanctity
 1 Snapcaster Mage
 1 Tasigur, the Golden Fang
@@ -289,14 +289,14 @@
 3 Darkslick Shores
 3 Pelakka Predation
 4 Pelakka Predation
+2 Hagra Mauling
+3 Hagra Mauling
+4 Talisman of Resilience
 1 Akoum Warrior
 2 Akoum Warrior
 2 Veil of Summer
 3 Veil of Summer
 4 Veil of Summer
-2 Hagra Mauling
-3 Hagra Mauling
-4 Talisman of Resilience
 1 Sphere of the Suns
 1 Wild Cantor
 2 Sphere of the Suns
@@ -368,6 +368,7 @@
 4 Angel's Grace
 1 Windswept Heath
 1 Through the Breach
+1 Devoted Druid
 1 Vizier of Remedies
 1 Wooded Foothills
 1 Flickerwisp
@@ -378,7 +379,6 @@
 1 Elesh Norn, Grand Cenobite
 1 Stomping Ground
 1 Temple Garden
-1 Devoted Druid
 1 Misty Rainforest
 1 Forest
 1 Utopia Sprawl
