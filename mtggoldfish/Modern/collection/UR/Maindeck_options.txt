@@ -9,12 +9,12 @@
 1 Cascade Bluffs
 1 Emrakul, the Aeons Torn
 1 Through the Breach
-2 Emrakul, the Aeons Torn
 2 Through the Breach
-3 Through the Breach
+2 Emrakul, the Aeons Torn
 3 Emrakul, the Aeons Torn
-4 Through the Breach
+3 Through the Breach
 4 Emrakul, the Aeons Torn
+4 Through the Breach
 3 Mystic Sanctuary
 3 Force of Negation
 3 Blood Moon
@@ -36,8 +36,8 @@
 2 Riverglide Pathway
 2 Reflecting Pool
 2 Mountain
-3 Cascade Bluffs
 3 Riverglide Pathway
+3 Cascade Bluffs
 3 Reflecting Pool
 4 Riverglide Pathway
 4 Reflecting Pool
@@ -64,8 +64,8 @@
 2 Bonecrusher Giant
 2 Sulfur Falls
 2 Misty Rainforest
-1 Snow-Covered Mountain
 1 Snow-Covered Island
+1 Snow-Covered Mountain
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
@@ -74,33 +74,33 @@
 1 Shivan Reef
 2 Shivan Reef
 1 Spikefield Hazard
-1 Disrupting Shoal
 1 Deprive
+1 Disrupting Shoal
 1 Niv-Mizzet, Parun
-2 Disrupting Shoal
 2 Spikefield Hazard
+2 Disrupting Shoal
 2 Niv-Mizzet, Parun
 3 Disrupting Shoal
 3 Niv-Mizzet, Parun
+1 Drown in the Loch
+1 Bloodchief's Thirst
+1 Swamp
+1 Fatal Push
+1 Tasigur, the Golden Fang
+1 Watery Grave
+1 Shark Typhoon
+2 Watery Grave
+2 Fatal Push
+2 Shark Typhoon
+2 Tasigur, the Golden Fang
+3 Mana Leak
+3 Fatal Push
+4 Fatal Push
 1 Burst Lightning
 1 Aether Gust
 4 Thing in the Ice
 3 Temple of Epiphany
 4 Temple of Epiphany
-1 Swamp
-1 Bloodchief's Thirst
-1 Fatal Push
-1 Tasigur, the Golden Fang
-1 Drown in the Loch
-1 Watery Grave
-1 Shark Typhoon
-2 Fatal Push
-2 Shark Typhoon
-2 Tasigur, the Golden Fang
-2 Watery Grave
-3 Mana Leak
-3 Fatal Push
-4 Fatal Push
 1 Deliberate
 2 Deliberate
 3 Deliberate

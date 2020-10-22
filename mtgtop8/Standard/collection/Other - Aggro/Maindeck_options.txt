@@ -1,6 +1,7 @@
 3 Omnath, Locus of the Roil
 3 Cavalier of Thorns
 3 Hydroid Krasis
+3 Nissa, Who Shakes the World
 3 Genesis Ultimatum
 3 Soul-Guide Lantern
 3 Uro, Titan of Nature's Wrath
@@ -8,7 +9,6 @@
 3 Cultivate
 3 Ketria Triome
 3 Stomping Ground
-3 Nissa, Who Shakes the World
 4 Risen Reef
 4 Leafkin Druid
 4 Cavalier of Thorns
@@ -21,8 +21,8 @@
 4 Mountain
 5 Mountain
 6 Mountain
-1 Rimrock Knight
 1 Embercleave
+1 Primal Might
 1 Shatterskull Smashing
 1 Bonecrusher Giant
 1 Lovestruck Beast
@@ -30,8 +30,8 @@
 1 Kazandu Mammoth
 1 Cragcrown Pathway
 1 Brushfire Elemental
-1 Primal Might
 1 Edgewall Innkeeper
+1 Rimrock Knight
 1 Evolving Wilds
 2 Rimrock Knight
 2 Embercleave
@@ -68,6 +68,7 @@
 4 Cragcrown Pathway
 1 Mazemind Tome
 1 Crawling Barrens
+1 Myriad Construct
 1 Golden Egg
 1 Crystalline Giant
 1 Palladium Myr
@@ -78,43 +79,42 @@
 1 Labyrinth of Skophos
 1 Stonecoil Serpent
 1 Swamp
-1 Myriad Construct
 1 Bonders' Enclave
 1 Hagra Mauling
-2 Golden Egg
 2 Mazemind Tome
 2 Bonders' Enclave
 2 Crystalline Giant
 2 Palladium Myr
+2 Golden Egg
 2 Forsaken Monument
-2 Labyrinth of Skophos
 2 Indatha Triome
 2 Radiant Fountain
 2 Crawling Barrens
+2 Labyrinth of Skophos
 2 Bloodchief's Thirst
 2 Stonecoil Serpent
 2 Hagra Mauling
 2 Swamp
 2 Myriad Construct
-3 Golden Egg
 3 Mazemind Tome
+3 Indatha Triome
 3 Crystalline Giant
 3 Palladium Myr
-3 Indatha Triome
 3 Forsaken Monument
+3 Golden Egg
 3 Labyrinth of Skophos
 3 Radiant Fountain
 3 Myriad Construct
 3 Stonecoil Serpent
 3 Swamp
 3 Bloodchief's Thirst
-4 Golden Egg
 4 Mazemind Tome
 4 Bloodchief's Thirst
 4 Indatha Triome
 4 Swamp
 4 Crystalline Giant
 4 Palladium Myr
+4 Golden Egg
 4 Radiant Fountain
 4 Stonecoil Serpent
 4 Labyrinth of Skophos
@@ -153,8 +153,8 @@
 3 Lofty Denial
 3 Frantic Inventory
 3 Ominous Seas
-3 Swiftwater Cliffs
 3 Flame Sweep
+3 Swiftwater Cliffs
 3 Sprite Dragon
 3 Opt
 3 Crackling Drake

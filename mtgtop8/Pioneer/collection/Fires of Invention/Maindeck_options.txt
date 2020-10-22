@@ -122,25 +122,24 @@
 2 Bonecrusher Giant
 1 Kari Zev, Skyship Raider
 1 Castle Embereth
-1 Soul-Scar Mage
-1 Earthshaker Khenra
-1 Purphoros, God of the Forge
 1 Mutavault
+1 Soul-Scar Mage
+1 Purphoros, God of the Forge
 1 Wild Slash
-1 Anax, Hardened in the Forge
 1 Siege-Gang Commander
 1 Omen of the Forge
 1 Battlefield Forge
 1 Inspiring Vantage
 1 Goblin Rabblemaster
+1 Earthshaker Khenra
 1 Pia and Kiran Nalaar
+1 Anax, Hardened in the Forge
 2 Kari Zev, Skyship Raider
-2 Soul-Scar Mage
-2 Earthshaker Khenra
-2 Purphoros, God of the Forge
 2 Mutavault
+2 Soul-Scar Mage
+2 Castle Embereth
+2 Purphoros, God of the Forge
 2 Wild Slash
-2 Anax, Hardened in the Forge
 2 Pia and Kiran Nalaar
 2 Needle Spires
 2 Inspiring Vantage
@@ -148,14 +147,15 @@
 2 Goblin Rabblemaster
 2 Omen of the Forge
 2 Battlefield Forge
-2 Castle Embereth
+2 Earthshaker Khenra
+2 Anax, Hardened in the Forge
 3 Pia and Kiran Nalaar
 3 Soul-Scar Mage
-3 Earthshaker Khenra
 3 Mutavault
 3 Wild Slash
 3 Purphoros, God of the Forge
 3 Inspiring Vantage
+3 Earthshaker Khenra
 3 Anax, Hardened in the Forge
 3 Clifftop Retreat
 3 Omen of the Forge
@@ -165,7 +165,6 @@
 3 Goblin Rabblemaster
 3 Siege-Gang Commander
 3 Mountain
-4 Mutavault
 4 Soul-Scar Mage
 4 Earthshaker Khenra
 4 Clifftop Retreat
@@ -178,6 +177,7 @@
 4 Mountain
 4 Inspiring Vantage
 4 Siege-Gang Commander
+4 Mutavault
 5 Mountain
 6 Mountain
 7 Mountain
@@ -212,8 +212,8 @@
 1 The Royal Scions
 1 Chance for Glory
 2 Gideon Blackblade
-2 Chance for Glory
 2 Gideon of the Trials
+2 Chance for Glory
 3 Heart of Kiran
 1 Atris, Oracle of Half-Truths
 1 Mastermind's Acquisition
@@ -231,23 +231,23 @@
 1 Emeria's Call
 1 Kenrith, the Returned King
 1 Hinterland Harbor
-1 Escape to the Wilds
-1 Felidar Retreat
 1 Azorius Charm
+1 Escape to the Wilds
 1 Cavalier of Flame
+1 Felidar Retreat
 1 Stomping Ground
 2 Emeria's Call
 2 Sunpetal Grove
 2 Stomping Ground
-2 Hinterland Harbor
-2 Escape to the Wilds
 2 Kenrith, the Returned King
+2 Hinterland Harbor
 2 Azorius Charm
 2 Felidar Retreat
 2 Cavalier of Flame
-3 Hinterland Harbor
+2 Escape to the Wilds
 3 Escape to the Wilds
 3 Cavalier of Flame
 3 Felidar Retreat
+3 Hinterland Harbor
 4 Hinterland Harbor
 4 Escape to the Wilds

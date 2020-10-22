@@ -75,8 +75,8 @@
 |                    4|[Curious Obsession](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439692)  |                     |                                                                                             |
 |                    4|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)    |                     |                                                                                             |
 |                    1|[Sentinel's Eyes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476287)    |                     |                                                                                             |
-|                    2|[Sentinel's Eyes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476287)    |                     |                                                                                             |
 |                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)   |                     |                                                                                             |
+|                    2|[Sentinel's Eyes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476287)    |                     |                                                                                             |
 |                    3|[Silhana Ledgewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96825) |                     |                                                                                             |
 |                    4|[Silhana Ledgewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=96825) |                     |                                                                                             |
 

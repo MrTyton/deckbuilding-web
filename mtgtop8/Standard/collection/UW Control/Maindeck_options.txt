@@ -11,8 +11,8 @@
 2 Thirst for Meaning
 1 Narset, Parter of Veils
 1 Dovin's Veto
-1 Hallowed Fountain
 1 Archon of Sun's Grace
+1 Hallowed Fountain
 2 Dovin's Veto
 2 Narset, Parter of Veils
 2 Archon of Sun's Grace
@@ -39,23 +39,23 @@
 1 Mazemind Tome
 2 Mazemind Tome
 1 Fire Prophecy
-1 Needleverge Pathway
 1 Lukka, Coppercoat Outcast
+1 Needleverge Pathway
 1 Riverglide Pathway
 1 Mountain
-2 Dream Trawler
-2 Needleverge Pathway
 2 Riverglide Pathway
+2 Dream Trawler
 2 Fire Prophecy
-3 Needleverge Pathway
-3 Fire Prophecy
+2 Needleverge Pathway
 3 Dream Trawler
 3 Riverglide Pathway
-4 Needleverge Pathway
+3 Fire Prophecy
+3 Needleverge Pathway
 4 Riverglide Pathway
 4 Fire Prophecy
 4 Dream Trawler
 4 Shark Typhoon
+4 Needleverge Pathway
 1 Skyclave Apparition
 2 Skyclave Apparition
 2 Charming Prince
@@ -102,8 +102,8 @@
 2 Transmogrify
 3 Transmogrify
 4 Transmogrify
-1 Giant Killer
 1 Rewind
+1 Giant Killer
 1 Ashiok's Erasure
 1 Essence Scatter
 1 Deny the Divine
@@ -159,7 +159,6 @@
 2 Flicker of Fate
 2 Master of Winds
 3 Master of Winds
-1 Unknown Shores
 1 Radiant Fountain
 1 Forsaken Monument
 1 Soul-Guide Lantern
@@ -169,10 +168,10 @@
 1 Stonecoil Serpent
 1 Emry, Lurker of the Loch
 1 Dance of the Manse
+1 Unknown Shores
 2 Dance of the Manse
 2 Forsaken Monument
 2 Crawling Barrens
-2 Unknown Shores
 2 Bonders' Enclave
 2 Radiant Fountain
 2 Soul-Guide Lantern
@@ -180,12 +179,13 @@
 2 Emry, Lurker of the Loch
 2 Palladium Myr
 2 Ugin, the Spirit Dragon
+2 Unknown Shores
 3 Dance of the Manse
 3 Ugin, the Spirit Dragon
-3 Bonders' Enclave
 3 Crawling Barrens
 3 Forsaken Monument
 3 Radiant Fountain
+3 Bonders' Enclave
 3 Palladium Myr
 3 Stonecoil Serpent
 3 Emry, Lurker of the Loch

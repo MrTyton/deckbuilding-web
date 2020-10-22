@@ -18,11 +18,11 @@
 1 Field of the Dead
 1 Wilderness Reclamation
 1 Field of Ruin
-1 Blast Zone
 1 Growth Spiral
-2 Field of the Dead
+1 Blast Zone
 2 Wilderness Reclamation
 2 Growth Spiral
+2 Field of the Dead
 3 Growth Spiral
 3 Wilderness Reclamation
 4 Growth Spiral
@@ -57,15 +57,6 @@
 3 Arboreal Grazer
 3 Teferi, Time Raveler
 3 Field of the Dead
-1 Zagoth Triome
-1 Quench
-1 Nissa, Who Shakes the World
-2 Zagoth Triome
-2 Quench
-2 Nissa, Who Shakes the World
-3 Nissa, Who Shakes the World
-3 Negate
-4 Nissa, Who Shakes the World
 1 Bala Ged Recovery
 2 Bala Ged Recovery
 3 Fire Prophecy
@@ -76,23 +67,32 @@
 1 Jwari Disruption
 1 Klothys, God of Destiny
 1 Turntimber Symbiosis
-1 Elder Gargaroth
 1 Questing Beast
+1 Elder Gargaroth
 1 Roil Eruption
 2 Jwari Disruption
 2 Thassa's Intervention
-2 Questing Beast
 2 Elder Gargaroth
+2 Questing Beast
 2 Ashiok's Erasure
 2 Roil Eruption
-3 Roil Eruption
 3 Spikefield Hazard
 3 Bonecrusher Giant
 3 Thassa's Intervention
 3 Elder Gargaroth
+3 Roil Eruption
 3 Ashiok's Erasure
 4 Bonecrusher Giant
 4 Roil Eruption
+1 Zagoth Triome
+1 Quench
+1 Nissa, Who Shakes the World
+2 Quench
+2 Zagoth Triome
+2 Nissa, Who Shakes the World
+3 Nissa, Who Shakes the World
+3 Negate
+4 Nissa, Who Shakes the World
 1 Sea Gate Restoration
 1 Irencrag Pyromancer
 1 Neutralize

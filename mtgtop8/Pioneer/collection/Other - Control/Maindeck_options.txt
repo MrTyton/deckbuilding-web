@@ -116,6 +116,7 @@
 4 Genesis Ultimatum
 1 Glacial Fortress
 1 Elspeth, Sun's Nemesis
+1 Syncopate
 1 Jace, Architect of Thought
 1 Teferi, Hero of Dominaria
 1 Azorius Charm
@@ -124,7 +125,6 @@
 1 Narset, Parter of Veils
 1 Elspeth Conquers Death
 1 Omen of the Sea
-1 Syncopate
 1 Dovin's Veto
 1 Dream Trawler
 1 Supreme Verdict
@@ -159,31 +159,31 @@
 3 Absorb
 3 Sacred Foundry
 3 Steam Vents
+4 Absorb
 4 Omen of the Sea
 4 Sacred Foundry
 4 Azorius Charm
-4 Absorb
 4 Steam Vents
 4 Hallowed Fountain
 3 Mountain
 1 Hydroid Krasis
 2 Hydroid Krasis
 4 Breeding Pool
-1 Ipnu Rivulet
-1 Jwari Disruption
 1 Drown in the Loch
+1 Jwari Disruption
+1 Sea Gate Stormcaller
 1 Breaking / Entering
 1 Clearwater Pathway
+1 Ipnu Rivulet
 1 Didn't Say Please
 1 Drowned Secrets
 1 Maddening Cacophony
-1 Sea Gate Stormcaller
 1 Merfolk Secretkeeper
 1 Fraying Sanity
 1 Crypt Incursion
 1 Ruin Crab
-2 Jwari Disruption
 2 Drown in the Loch
+2 Jwari Disruption
 2 Clearwater Pathway
 2 Breaking / Entering
 2 Didn't Say Please
@@ -195,6 +195,8 @@
 2 Sea Gate Stormcaller
 2 Ipnu Rivulet
 2 Merfolk Secretkeeper
+3 Drown in the Loch
+3 Clearwater Pathway
 3 Fraying Sanity
 3 Breaking / Entering
 3 Jwari Disruption
@@ -202,11 +204,11 @@
 3 Maddening Cacophony
 3 Ruin Crab
 3 Drowned Secrets
-3 Drown in the Loch
-3 Clearwater Pathway
 3 Merfolk Secretkeeper
 3 Ipnu Rivulet
 3 Crypt Incursion
+4 Drown in the Loch
+4 Clearwater Pathway
 4 Merfolk Secretkeeper
 4 Fraying Sanity
 4 Breaking / Entering
@@ -214,8 +216,6 @@
 4 Ruin Crab
 4 Drowned Secrets
 4 Ipnu Rivulet
-4 Clearwater Pathway
-4 Drown in the Loch
 1 Spikefield Hazard
 1 Golos, Tireless Pilgrim
 1 Indatha Triome
@@ -247,8 +247,8 @@
 2 Temple of Mystery
 3 Temple of Mystery
 1 Bonecrusher Giant
-1 Magma Jet
 1 Urban Evolution
+1 Magma Jet
 2 Bonecrusher Giant
 2 Magma Jet
 3 Bonecrusher Giant
@@ -270,38 +270,38 @@
 1 Kroxa, Titan of Death's Hunger
 1 Dragonskull Summit
 1 Geier Reach Sanitarium
+1 Murderous Rider
+1 Davriel, Rogue Shadowmage
 1 Collective Brutality
 1 Liliana, Waker of the Dead
-1 Davriel, Rogue Shadowmage
 1 Kolaghan's Command
 1 Hazoret the Fervent
 1 Blood Crypt
 1 Waste Not
-1 Murderous Rider
 2 Collective Brutality
-2 Murderous Rider
 2 Dragonskull Summit
 2 Kroxa, Titan of Death's Hunger
-2 Hazoret the Fervent
 2 Davriel, Rogue Shadowmage
 2 Liliana, Waker of the Dead
+2 Hazoret the Fervent
 2 Blood Crypt
 2 Waste Not
+2 Murderous Rider
 2 Kolaghan's Command
 3 Kroxa, Titan of Death's Hunger
+3 Liliana, Waker of the Dead
 3 Kolaghan's Command
 3 Eliminate
 3 Davriel, Rogue Shadowmage
 3 Castle Locthwain
 3 Dragonskull Summit
 3 Blood Crypt
-3 Liliana, Waker of the Dead
 3 Waste Not
 4 Blood Crypt
 4 Kroxa, Titan of Death's Hunger
 4 Dragonskull Summit
-4 Waste Not
 4 Swamp
+4 Waste Not
 4 Castle Locthwain
 4 Liliana, Waker of the Dead
 1 Izzet Guildgate

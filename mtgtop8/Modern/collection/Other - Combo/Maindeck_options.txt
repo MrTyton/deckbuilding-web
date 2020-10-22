@@ -90,6 +90,7 @@
 1 Snow-Covered Swamp
 2 Snow-Covered Island
 3 Force of Negation
+1 Dark Confidant
 1 Thespian's Stage
 1 Dark Depths
 1 Preordain
@@ -98,15 +99,14 @@
 1 Muddle the Mixture
 1 Urborg, Tomb of Yawgmoth
 1 Vampire Hexmage
-1 Dark Confidant
 1 Castle Locthwain
 1 Mishra's Bauble
 1 Thopter Foundry
 1 Gitaxian Probe
+2 Dark Confidant
 2 Preordain
 2 Ponder
 2 Chrome Mox
-2 Dark Confidant
 2 Dark Depths
 2 Vampire Hexmage
 2 Gitaxian Probe
@@ -114,20 +114,20 @@
 2 Thopter Foundry
 2 Thespian's Stage
 2 Urborg, Tomb of Yawgmoth
+3 Dark Confidant
 3 Ponder
 3 Chrome Mox
 3 Preordain
 3 Vampire Hexmage
 3 Urborg, Tomb of Yawgmoth
-3 Dark Confidant
 3 Thopter Foundry
 3 Dark Depths
 3 Gitaxian Probe
+4 Dark Confidant
 4 Ponder
 4 Chrome Mox
 4 Preordain
 4 Thoughtseize
-4 Dark Confidant
 4 Gitaxian Probe
 4 Dark Depths
 4 Vampire Hexmage
@@ -190,29 +190,29 @@
 1 Steam Vents
 1 Spell Queller
 1 Wall of Omens
+1 Narset of the Ancient Way
 1 Prismatic Vista
 1 Delay
 1 Fae of Wishes
 1 Snow-Covered Mountain
 1 Chandra, Torch of Defiance
 1 Commandeer
-1 Narset of the Ancient Way
+1 Drannith Magistrate
 1 Spellskite
 1 Snow-Covered Plains
-1 Drannith Magistrate
 1 Sacred Foundry
 1 Reverse the Sands
 1 Possibility Storm
 2 Spell Queller
+2 Narset of the Ancient Way
 2 Wall of Omens
 2 Snow-Covered Plains
+2 Fae of Wishes
 2 Prismatic Vista
 2 Delay
-2 Fae of Wishes
 2 Spellskite
 2 Snow-Covered Mountain
 2 Drannith Magistrate
-2 Narset of the Ancient Way
 2 Possibility Storm
 2 Chandra, Torch of Defiance
 2 Jace, the Mind Sculptor
@@ -245,18 +245,17 @@
 5 Snow-Covered Island
 5 Snow-Covered Plains
 1 Silundi Vision
-1 Beyeen Veil
 1 Skyclave Cleric
 1 Jwari Disruption
 1 Disrupting Shoal
 1 Talisman of Progress
 1 Teferi, Hero of Dominaria
+1 Beyeen Veil
 1 Pieces of the Puzzle
 1 Path to Exile
 1 Selective Memory
 1 Snapback
 2 Silundi Vision
-2 Beyeen Veil
 2 Jwari Disruption
 2 Skyclave Cleric
 2 Disrupting Shoal
@@ -264,18 +263,19 @@
 2 Selective Memory
 2 Path to Exile
 2 Snapback
+2 Beyeen Veil
 2 Pieces of the Puzzle
 3 Silundi Vision
-3 Talisman of Progress
 3 Jwari Disruption
+3 Talisman of Progress
 3 Disrupting Shoal
 3 Snapback
 3 Path to Exile
 3 Selective Memory
-4 Disrupting Shoal
 4 Jwari Disruption
 4 Talisman of Progress
 4 Selective Memory
+4 Disrupting Shoal
 4 Silundi Vision
 1 Worldspine Wurm
 1 Through the Breach
@@ -284,8 +284,8 @@
 1 Misty Rainforest
 1 Forest
 1 Stomping Ground
-2 Through the Breach
 2 Emrakul, the Aeons Torn
+2 Through the Breach
 2 Forest
 2 Wooded Foothills
 2 Misty Rainforest
@@ -358,19 +358,19 @@
 2 Hagra Mauling
 3 Hagra Mauling
 4 Talisman of Resilience
-1 Sphere of the Suns
-1 Wild Cantor
-2 Wild Cantor
-2 Sphere of the Suns
-3 Wild Cantor
-3 Sphere of the Suns
-4 Wild Cantor
-4 Sword of the Meek
 1 Akoum Warrior
 2 Akoum Warrior
 2 Veil of Summer
 3 Veil of Summer
 4 Veil of Summer
+1 Sphere of the Suns
+1 Wild Cantor
+2 Sphere of the Suns
+2 Wild Cantor
+3 Sphere of the Suns
+3 Wild Cantor
+4 Wild Cantor
+4 Sword of the Meek
 1 Talisman of Dominance
 1 Wishclaw Talisman
 1 Serum Visions
@@ -407,9 +407,9 @@
 1 Utopia Sprawl
 1 Eladamri's Call
 2 Windswept Heath
-2 Worldspine Wurm
 2 Devoted Druid
 2 Stomping Ground
+2 Worldspine Wurm
 2 Plains
 2 Dubious Challenge
 2 Utopia Sprawl

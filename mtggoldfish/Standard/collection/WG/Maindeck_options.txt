@@ -7,23 +7,22 @@
 2 Roiling Regrowth
 3 Roiling Regrowth
 4 Roiling Regrowth
-3 Migratory Greathorn
 1 Scavenging Ooze
 2 Scavenging Ooze
 3 Scavenging Ooze
+3 Migratory Greathorn
 3 Elder Gargaroth
 1 Tangled Florahedron
 2 Tangled Florahedron
 3 Tangled Florahedron
 4 Yasharn, Implacable Earth
 4 Tangled Florahedron
-9 Forest
-1 Cragplate Baloth
-2 Cragplate Baloth
 1 Heroic Intervention
+1 Cragplate Baloth
 1 Alert Heedbonder
 1 Bonders' Enclave
 2 Alert Heedbonder
+2 Cragplate Baloth
 2 Heroic Intervention
 1 Luminous Broodmoth
 1 Questing Beast
@@ -38,39 +37,6 @@
 3 Phylath, World Sculptor
 4 Skyclave Apparition
 4 Migratory Greathorn
-1 Primal Might
-1 Maul of the Skyclaves
-1 The Great Henge
-1 Bronzehide Lion
-2 Primal Might
-2 Bronzehide Lion
-2 Maul of the Skyclaves
-2 The Great Henge
-3 Bronzehide Lion
-3 Maul of the Skyclaves
-3 Primal Might
-4 Bronzehide Lion
-4 Maul of the Skyclaves
-1 Realm-Cloaked Giant
-1 Tajuru Blightblade
-1 Cultivate
-1 Scale the Heights
-1 Fearless Fledgling
-1 Ancient Greenwarden
-2 Fearless Fledgling
-2 Tajuru Blightblade
-2 Ancient Greenwarden
-2 Realm-Cloaked Giant
-2 Cultivate
-2 Scale the Heights
-3 Cultivate
-3 Fearless Fledgling
-3 Scale the Heights
-3 Tajuru Blightblade
-3 Ancient Greenwarden
-3 Realm-Cloaked Giant
-4 Tajuru Blightblade
-4 Cultivate
 1 Dryad of the Ilysian Grove
 1 Setessan Champion
 1 Nessian Wanderer
@@ -92,8 +58,21 @@
 3 Setessan Champion
 4 Wolfwillow Haven
 4 Archon of Sun's Grace
-4 Elspeth Conquers Death
 4 Setessan Champion
+4 Elspeth Conquers Death
+1 Primal Might
+1 Maul of the Skyclaves
+1 The Great Henge
+1 Bronzehide Lion
+2 Primal Might
+2 Bronzehide Lion
+2 Maul of the Skyclaves
+2 The Great Henge
+3 Bronzehide Lion
+3 Maul of the Skyclaves
+3 Primal Might
+4 Bronzehide Lion
+4 Maul of the Skyclaves
 1 Archon of Emeria
 1 Shatter the Sky
 1 Banishing Light
@@ -104,3 +83,4 @@
 4 Archon of Emeria
 4 Banishing Light
 7 Plains
+9 Forest

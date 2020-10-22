@@ -1,5 +1,5 @@
-4 Silundi Vision
 4 Bloodchief's Thirst
+4 Silundi Vision
 4 Merfolk Secretkeeper
 1 Frantic Inventory
 1 Jwari Disruption
@@ -16,19 +16,19 @@
 2 Extinction Event
 1 Branchloft Pathway
 1 Agadeem's Awakening
-1 Temple of Malady
-1 Llanowar Visionary
 1 Acquisitions Expert
+1 Llanowar Visionary
 1 Temple of Plenty
-1 Eerie Ultimatum
 1 Elspeth Conquers Death
 1 Skyclave Apparition
 1 Doom Foretold
 1 Treacherous Blessing
 1 Charming Prince
+1 Temple of Malady
 1 Indatha Triome
 1 Brightclimb Pathway
 1 Emeria's Call
+1 Eerie Ultimatum
 1 Gilded Goose
 1 Yorion, Sky Nomad
 1 Plains
@@ -36,11 +36,11 @@
 1 Wicked Wolf
 1 Glass Casket
 1 Trail of Crumbs
-2 Indatha Triome
 2 Branchloft Pathway
+2 Indatha Triome
 2 Agadeem's Awakening
-2 Llanowar Visionary
 2 Acquisitions Expert
+2 Llanowar Visionary
 2 Temple of Plenty
 2 Elspeth Conquers Death
 2 Yorion, Sky Nomad
@@ -56,12 +56,11 @@
 2 Trail of Crumbs
 2 Temple of Malady
 2 Treacherous Blessing
-3 Skyclave Apparition
 3 Branchloft Pathway
-3 Indatha Triome
+3 Skyclave Apparition
+3 Acquisitions Expert
 3 Llanowar Visionary
 3 Extinction Event
-3 Acquisitions Expert
 3 Temple of Plenty
 3 Doom Foretold
 3 Brightclimb Pathway
@@ -72,19 +71,20 @@
 3 Temple of Malady
 3 Charming Prince
 3 Yorion, Sky Nomad
+3 Indatha Triome
 3 Elspeth Conquers Death
-4 Skyclave Apparition
-4 Acquisitions Expert
 4 Branchloft Pathway
+4 Skyclave Apparition
 4 Wicked Wolf
-4 Indatha Triome
-4 Llanowar Visionary
+4 Acquisitions Expert
 4 Elspeth Conquers Death
+4 Llanowar Visionary
 4 Brightclimb Pathway
 4 Charming Prince
 4 Gilded Goose
 4 Trail of Crumbs
 4 Doom Foretold
+4 Indatha Triome
 4 Forest
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
@@ -99,9 +99,9 @@
 4 Jwari Disruption
 4 Mystical Dispute
 4 Swamp
+1 Labyrinth of Skophos
 1 Valakut Awakening
 1 Mazemind Tome
-1 Labyrinth of Skophos
 1 Fire Prophecy
 1 Kazuul's Fury
 1 Ox of Agonas
@@ -117,6 +117,7 @@
 1 Crawling Barrens
 1 Spikefield Hazard
 2 Kazuul's Fury
+2 Labyrinth of Skophos
 2 Crawling Barrens
 2 Valakut Awakening
 2 Mazemind Tome
@@ -131,7 +132,6 @@
 2 Shredded Sails
 2 Solemn Simulacrum
 2 Mountain
-2 Labyrinth of Skophos
 3 Shatterskull Smashing
 3 Mazemind Tome
 3 Solemn Simulacrum
@@ -145,15 +145,15 @@
 3 Spikefield Hazard
 3 Bonecrusher Giant
 3 Mountain
-4 Mazemind Tome
 4 Shatterskull Smashing
+4 Mazemind Tome
+4 Spikefield Hazard
 4 Solemn Simulacrum
 4 Bonecrusher Giant
 4 Radiant Fountain
-4 Spikefield Hazard
-4 Shredded Sails
 4 Ugin, the Spirit Dragon
 4 Irencrag Feat
+4 Shredded Sails
 4 Mountain
 5 Mountain
 6 Mountain

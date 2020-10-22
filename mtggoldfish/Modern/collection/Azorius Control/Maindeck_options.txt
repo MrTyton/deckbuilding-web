@@ -1,65 +1,62 @@
-1 Lightning Bolt
+1 Lightning Helix
 1 Cleansing Wildfire
+2 Lightning Bolt
 2 Flagstones of Trokair
 2 Lightning Helix
-2 Lightning Bolt
 2 Cleansing Wildfire
 3 Lightning Helix
+3 Scalding Tarn
 3 Lightning Bolt
 3 Flagstones of Trokair
 3 Cleansing Wildfire
 4 Cleansing Wildfire
 4 Flagstones of Trokair
-1 Raugrin Triome
-3 Scalding Tarn
+1 Mana Leak
+3 Field of Ruin
 4 Scalding Tarn
 1 Mountain
-3 Remand
 4 Remand
-1 Misty Rainforest
-2 Mana Leak
-4 Field of Ruin
-1 Spell Snare
-2 Misty Rainforest
 3 Archmage's Charm
+1 Spell Snare
+1 Misty Rainforest
+2 Misty Rainforest
+2 Mana Leak
+3 Misty Rainforest
+4 Misty Rainforest
+4 Island
+4 Field of Ruin
+1 Stoneforge Mystic
+1 Batterskull
+1 Sword of Feast and Famine
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+4 Stoneforge Mystic
 1 Logic Knot
 1 Celestial Colonnade
-2 Celestial Colonnade
-4 Island
+5 Island
 1 Polluted Delta
 1 Snow-Covered Forest
 1 Breeding Pool
 1 Uro, Titan of Nature's Wrath
 1 Temple Garden
 2 Uro, Titan of Nature's Wrath
-3 Misty Rainforest
-4 Misty Rainforest
-1 Stoneforge Mystic
-1 Batterskull
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-4 Stoneforge Mystic
 1 Mystic Gate
+2 Celestial Colonnade
 4 Snow-Covered Island
-1 Terminus
-5 Island
-1 Sword of Feast and Famine
-2 Plains
+1 Sword of Fire and Ice
+2 Breeding Pool
 5 Snow-Covered Island
 2 Supreme Verdict
 2 Snow-Covered Plains
 1 Wall of Omens
 2 Wall of Omens
-2 Breeding Pool
 3 Uro, Titan of Nature's Wrath
 2 Polluted Delta
-2 Terminus
-3 Terminus
 1 Shatterskull Smashing
+1 Terminus
 4 Force of Negation
 1 Spell Queller
 2 Spell Queller
-1 Sword of Fire and Ice
 1 Noble Hierarch
 1 Ice-Fang Coatl
 1 Birds of Paradise
@@ -74,20 +71,20 @@
 4 Noble Hierarch
 4 Ice-Fang Coatl
 4 Spell Queller
+2 Plains
 3 Celestial Colonnade
 2 Mystic Gate
 3 Wall of Omens
-1 Omen of the Sea
+2 Terminus
+3 Terminus
+6 Island
 1 Condemn
 1 Flooded Grove
 4 Uro, Titan of Nature's Wrath
 4 Wall of Omens
+4 Shark Typhoon
 1 Glacial Fortress
-3 Mana Leak
-2 Omen of the Sea
-3 Omen of the Sea
-3 Jace, the Mind Sculptor
-6 Island
+1 Omen of the Sea
 3 Polluted Delta
 3 Mystic Sanctuary
 4 Terminus
@@ -95,17 +92,26 @@
 1 Waterlogged Grove
 1 Counterbalance
 1 Entreat the Angels
+2 Omen of the Sea
 2 Counterbalance
 2 Condemn
 3 Counterbalance
+3 Jace, the Mind Sculptor
+3 Omen of the Sea
 4 Polluted Delta
 4 Omen of the Sea
 4 Counterbalance
 2 Birds of Paradise
 3 Snow-Covered Forest
+3 Mana Leak
 3 Windswept Heath
 4 Snow-Covered Forest
 4 Windswept Heath
+1 Spreading Seas
+2 Spreading Seas
+3 Spreading Seas
+4 Spreading Seas
+7 Island
 2 Raugrin Triome
 3 Mystic Gate
 4 Cryptic Command
@@ -113,20 +119,17 @@
 3 Supreme Verdict
 1 Sea Gate Restoration
 1 Snow-Covered Mountain
-4 Lightning Bolt
 1 Leyline of Sanctity
+1 Dovin's Veto
 1 Soul-Guide Lantern
 1 Castle Vantress
 1 Isolate
 1 Oust
-1 Dovin's Veto
 1 Narset, Parter of Veils
 1 Geier Reach Sanitarium
 2 Narset, Parter of Veils
 2 Spell Snare
 2 Logic Knot
-1 Aether Gust
-2 Aether Gust
 1 Fact or Fiction
 1 Peek
 1 Skyclave Apparition
@@ -137,44 +140,19 @@
 2 Restoration Angel
 2 Peek
 3 Restoration Angel
-2 Glacial Fortress
-3 Glacial Fortress
 1 Crucible of Worlds
 1 Jwari Disruption
 1 Ghost Quarter
 2 Jwari Disruption
 4 Archmage's Charm
+4 Lightning Bolt
 1 Frantic Inventory
 1 Deprive
 2 Frantic Inventory
 3 Frantic Inventory
 4 Frantic Inventory
-1 Maul of the Skyclaves
-1 Sea Gate Stormcaller
-1 Geist of Saint Traft
-1 Arid Mesa
-1 Serum Visions
-1 Tribal Flames
-1 Indatha Triome
-1 Ketria Triome
-2 Sacred Foundry
-2 Snow-Covered Mountain
-2 Geist of Saint Traft
-2 Sea Gate Stormcaller
-2 Arid Mesa
-2 Serum Visions
-2 Tribal Flames
-3 Arid Mesa
-3 Tribal Flames
-3 Geist of Saint Traft
-3 Serum Visions
-3 Sea Gate Stormcaller
-4 Lightning Helix
-4 Arid Mesa
-4 Tribal Flames
-4 Serum Visions
-4 Geist of Saint Traft
 3 Hallowed Fountain
 4 Teferi, Time Raveler
 6 Snow-Covered Island
-4 Shark Typhoon
+2 Glacial Fortress
+3 Glacial Fortress
