@@ -1,36 +1,15 @@
-5 Plains
-6 Plains
 3 Emeria's Call
+5 Plains
+3 Elspeth Conquers Death
+7 Forest
+6 Plains
 1 Fabled Passage
 2 Fabled Passage
-7 Forest
 3 Fabled Passage
-1 Scavenging Ooze
-2 Scavenging Ooze
 4 Fabled Passage
-7 Plains
-3 Scavenging Ooze
 8 Forest
-1 Conclave Mentor
-1 Stonecoil Serpent
-2 Conclave Mentor
-3 Conclave Mentor
+3 Charming Prince
 1 Felidar Retreat
-2 Stonecoil Serpent
-3 Stonecoil Serpent
-4 Stonecoil Serpent
-4 Conclave Mentor
-1 Primal Might
-2 Primal Might
-1 Luminarch Aspirant
-1 Basri's Lieutenant
-1 Swarm Shambler
-2 Luminarch Aspirant
-2 Swarm Shambler
-2 Basri's Lieutenant
-3 Luminarch Aspirant
-4 Luminarch Aspirant
-3 Elspeth Conquers Death
 1 Lotus Cobra
 1 Yasharn, Implacable Earth
 2 Lotus Cobra
@@ -41,20 +20,13 @@
 3 Felidar Retreat
 4 Lotus Cobra
 4 Felidar Retreat
-1 Selfless Savior
-2 Selfless Savior
-3 Selfless Savior
 1 Cultivate
 2 Cultivate
 1 Murasa Rootgrazer
 2 Murasa Rootgrazer
 3 Murasa Rootgrazer
 4 Murasa Rootgrazer
-1 Oran-Rief Ooze
-2 Oran-Rief Ooze
-3 Swarm Shambler
-1 Inscription of Abundance
-2 Inscription of Abundance
+7 Plains
 4 Emeria's Call
 1 Evolving Wilds
 1 Scute Swarm
@@ -66,26 +38,12 @@
 2 Mazemind Tome
 3 Mazemind Tome
 4 Elspeth Conquers Death
-3 Charming Prince
-1 The Ozolith
-2 The Ozolith
 4 Yasharn, Implacable Earth
-1 Kabira Takedown
-2 Kabira Takedown
+1 Scavenging Ooze
+2 Scavenging Ooze
+3 Scavenging Ooze
 3 Cultivate
 4 Cultivate
-3 Oran-Rief Ooze
-3 Inscription of Abundance
-3 Basri's Lieutenant
-4 Swarm Shambler
-1 Maul of the Skyclaves
-2 Maul of the Skyclaves
-1 Gemrazer
-2 Gemrazer
-1 Banishing Light
-2 Banishing Light
-1 Sejiri Shelter
-2 Sejiri Shelter
 4 Scute Swarm
 1 Kazandu Mammoth
 2 Kazandu Mammoth
@@ -93,7 +51,31 @@
 4 Kazandu Mammoth
 1 Mountain
 4 Evolving Wilds
-3 Primal Might
+1 Banishing Light
+2 Banishing Light
+1 Inscription of Abundance
+1 Oran-Rief Ooze
+1 Luminarch Aspirant
+1 Conclave Mentor
+1 Stonecoil Serpent
+1 Basri's Lieutenant
+1 Swarm Shambler
+2 Oran-Rief Ooze
+2 Inscription of Abundance
+2 Luminarch Aspirant
+2 Conclave Mentor
+2 Swarm Shambler
+2 Basri's Lieutenant
+3 Luminarch Aspirant
+3 Conclave Mentor
+3 Swarm Shambler
+4 Luminarch Aspirant
+4 Conclave Mentor
+1 Primal Might
+1 Selfless Savior
+2 Selfless Savior
+2 Primal Might
+3 Selfless Savior
 1 Lovestruck Beast
 1 Giant Killer
 2 Lovestruck Beast
@@ -101,19 +83,6 @@
 3 Lovestruck Beast
 3 Giant Killer
 4 Lovestruck Beast
-1 Basri Ket
-2 Basri Ket
-8 Plains
-9 Plains
-1 Pelt Collector
-1 Temple Garden
-2 Pelt Collector
-2 Temple Garden
-3 Pelt Collector
-3 Temple Garden
-4 Pelt Collector
-4 Temple Garden
-9 Forest
 1 Indatha Triome
 1 Wolfwillow Haven
 2 Indatha Triome
@@ -125,18 +94,20 @@
 1 Golden Egg
 1 Solemn Simulacrum
 1 Glasspool Mimic
+1 Kabira Takedown
 1 Island
 2 Golden Egg
 2 Glasspool Mimic
 2 Solemn Simulacrum
+2 Kabira Takedown
 3 Golden Egg
 3 Glasspool Mimic
 3 Glass Casket
 3 Solemn Simulacrum
+4 Solemn Simulacrum
 4 Golden Egg
 4 Glass Casket
 4 Glasspool Mimic
-4 Solemn Simulacrum
 4 Turntimber Symbiosis
 1 Migratory Greathorn
 1 Vivien, Monsters' Advocate
@@ -165,30 +136,24 @@
 4 Giant Killer
 4 Shepherd of the Flock
 4 Edgewall Innkeeper
-1 Castle Ardenvale
-1 Crystalline Giant
-1 Crawling Barrens
-1 Bala Ged Recovery
-2 Bala Ged Recovery
-2 Crystalline Giant
-2 Crawling Barrens
-3 Crystalline Giant
-4 Crystalline Giant
-1 Khalni Ambush
-2 Khalni Ambush
-4 Oran-Rief Ooze
-4 Basri's Lieutenant
+1 Gemrazer
+2 Stonecoil Serpent
+2 Gemrazer
+3 Oran-Rief Ooze
+3 Stonecoil Serpent
+3 Inscription of Abundance
+4 Stonecoil Serpent
 1 Dryad of the Ilysian Grove
 1 Azusa, Lost but Seeking
 1 Scorching Dragonfire
 1 Beanstalk Giant
 1 Valakut Exploration
 1 Shatterskull Smashing
-2 Dryad of the Ilysian Grove
 2 Shatterskull Smashing
+2 Dryad of the Ilysian Grove
 2 Beanstalk Giant
-2 Valakut Exploration
 2 Scorching Dragonfire
+2 Valakut Exploration
 2 Mountain
 3 Valakut Exploration
 3 Scorching Dragonfire
@@ -196,62 +161,40 @@
 3 Mountain
 4 Valakut Exploration
 4 Dryad of the Ilysian Grove
-1 Nessian Hornbeetle
-1 Invigorating Surge
-1 Garruk's Harbinger
-1 Knight of Autumn
-1 Gird for Battle
-1 Pridemalkin
-2 Invigorating Surge
-2 Nessian Hornbeetle
-2 Knight of Autumn
-2 Gird for Battle
-2 Pridemalkin
-2 Garruk's Harbinger
-3 Nessian Hornbeetle
-3 Knight of Autumn
-3 Invigorating Surge
-3 Garruk's Harbinger
-3 Gird for Battle
-4 Knight of Autumn
-4 Nessian Hornbeetle
-4 Garruk's Harbinger
-4 Invigorating Surge
-4 Gird for Battle
 1 Bronzehide Lion
+1 Maul of the Skyclaves
 1 Seasoned Hallowblade
 1 Elspeth, Sun's Nemesis
 2 Bronzehide Lion
+2 Maul of the Skyclaves
 2 Seasoned Hallowblade
 2 Elspeth, Sun's Nemesis
 3 Elspeth, Sun's Nemesis
 3 Bronzehide Lion
 3 Seasoned Hallowblade
+3 Primal Might
 4 Bronzehide Lion
 4 Seasoned Hallowblade
 4 Scavenging Ooze
 4 Selfless Savior
-1 Unbreakable Formation
-1 Voracious Hydra
-1 Ajani, the Greathearted
-1 Huatli's Raptor
-2 Unbreakable Formation
-2 Voracious Hydra
-2 Huatli's Raptor
-2 Ajani, the Greathearted
-3 Gemrazer
-3 Huatli's Raptor
-3 Voracious Hydra
-4 Huatli's Raptor
+1 Basri Ket
 1 Vastwood Fortification
 1 Wildwood Scourge
 1 Wildborn Preserver
+1 Sejiri Shelter
+1 The Ozolith
+2 Basri Ket
 2 Wildwood Scourge
 2 Vastwood Fortification
 2 Wildborn Preserver
+2 Sejiri Shelter
+2 The Ozolith
 3 Sejiri Shelter
 3 Basri Ket
 3 The Ozolith
 3 Vastwood Fortification
 4 Sejiri Shelter
+4 Swarm Shambler
 4 Vastwood Fortification
+9 Plains
+8 Plains

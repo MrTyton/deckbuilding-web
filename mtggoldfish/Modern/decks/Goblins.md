@@ -137,6 +137,6 @@
 |                    3|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                  |                     |                                                                                                    |
 |                    3|[Tarfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157921)                |                     |                                                                                                    |
 |                    3|[Pashalik Mons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464087)          |                     |                                                                                                    |
-|                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)               |                     |                                                                                                    |
 |                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)               |                     |                                                                                                    |
+|                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)               |                     |                                                                                                    |
 

@@ -56,12 +56,12 @@
 3 Avalanche Riders
 4 Force of Negation
 1 Knight of Autumn
-1 Felidar Guardian
-1 Saheeli Rai
-1 Raugrin Triome
 1 Steam Vents
-2 Saheeli Rai
+1 Raugrin Triome
+1 Saheeli Rai
+1 Felidar Guardian
 2 Felidar Guardian
+2 Saheeli Rai
 3 Saheeli Rai
 3 Felidar Guardian
 4 Saheeli Rai
@@ -108,11 +108,11 @@
 3 Charming Prince
 1 Agent of Treachery
 1 Omnath, Locus of Creation
-1 Magus of the Moon
 1 Arid Mesa
+1 Magus of the Moon
 1 Gilded Goose
-2 Gilded Goose
 2 Arid Mesa
+2 Gilded Goose
 3 Wall of Blossoms
 3 Restoration Angel
 4 Snow-Covered Forest
@@ -122,7 +122,6 @@
 1 Aether Gust
 2 Time Warp
 3 Snow-Covered Island
-4 Teferi, Time Raveler
 1 Walking Ballista
 1 Sword of Fire and Ice
 1 Heliod, Sun-Crowned
@@ -134,8 +133,8 @@
 3 Glasspool Mimic
 3 Giver of Runes
 3 Wall of Omens
-4 Giver of Runes
 4 Wall of Omens
+4 Giver of Runes
 1 Flickerwisp
 1 Forest
 1 Fblthp, the Lost
@@ -147,8 +146,9 @@
 4 Charming Prince
 4 Flickerwisp
 4 Soulherder
-1 Scalding Tarn
+4 Teferi, Time Raveler
 1 Seasoned Pyromancer
+1 Scalding Tarn
 1 Lightning Bolt
 1 Sword of Feast and Famine
 1 Cryptic Command
@@ -162,7 +162,7 @@
 2 Island
 2 Steam Vents
 3 Island
-3 Scalding Tarn
 3 Stoneforge Mystic
+3 Scalding Tarn
 4 Scalding Tarn
 4 Stoneforge Mystic

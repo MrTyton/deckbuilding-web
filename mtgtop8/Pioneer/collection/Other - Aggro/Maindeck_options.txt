@@ -28,9 +28,9 @@
 1 Paradise Druid
 2 Paradise Druid
 3 Paradise Druid
-1 Sunpetal Grove
 1 Nissa, Voice of Zendikar
 1 Castle Ardenvale
+1 Sunpetal Grove
 1 Dromoka's Command
 1 Declaration in Stone
 1 Divine Visitation
@@ -39,9 +39,9 @@
 1 Secure the Wastes
 1 Brimaz, King of Oreskos
 1 Westvale Abbey
-2 Sunpetal Grove
 2 Nissa, Voice of Zendikar
 2 Castle Ardenvale
+2 Sunpetal Grove
 2 Dromoka's Command
 2 Gideon, Ally of Zendikar
 2 Brimaz, King of Oreskos
@@ -57,8 +57,8 @@
 3 Divine Visitation
 4 Sunpetal Grove
 4 Paradise Druid
-4 Secure the Wastes
 4 Dromoka's Command
+4 Secure the Wastes
 5 Forest
 6 Forest
 1 Collected Company
@@ -232,6 +232,17 @@
 4 Hallowed Fountain
 3 Island
 4 Island
+1 Opt
+1 Into the Roil
+2 Opt
+3 Opt
+3 Blackbloom Rogue
+4 Silversmote Ghoul
+4 Blackbloom Rogue
+1 Skyclave Shade
+1 Korvold, Fae-Cursed King
+3 Blood Crypt
+4 Blood Crypt
 1 Beyeen Veil
 1 Soul-Guide Lantern
 2 Beyeen Veil
@@ -243,17 +254,6 @@
 4 Hagra Mauling
 4 Beyeen Veil
 4 Soul-Guide Lantern
-1 Into the Roil
-1 Opt
-2 Opt
-3 Blackbloom Rogue
-3 Opt
-4 Silversmote Ghoul
-4 Blackbloom Rogue
-1 Skyclave Shade
-1 Korvold, Fae-Cursed King
-3 Blood Crypt
-4 Blood Crypt
 1 Eldritch Evolution
 1 Turntimber Symbiosis
 1 Sylvan Caryatid
@@ -378,8 +378,9 @@
 3 Elvish Mystic
 4 Elvish Mystic
 4 Llanowar Elves
-1 Courser of Kruphix
 1 Hinterland Harbor
+1 Courser of Kruphix
+1 Kozilek's Return
 1 Fierce Empath
 1 Yavimaya Coast
 1 Arboreal Grazer
@@ -388,9 +389,8 @@
 1 Sanctum of Ugin
 1 Castle Garenbrig
 1 Elder Deep-Fiend
-1 Nimble Obstructionist
 1 Scavenging Ooze
-1 Kozilek's Return
+1 Nimble Obstructionist
 1 Uro, Titan of Nature's Wrath
 1 Jadelight Ranger
 1 Satyr Wayfinder
@@ -503,8 +503,8 @@
 1 Irrigated Farmland
 1 Winged Words
 1 Azorius Charm
-1 Archangel Avacyn
 1 Selfless Spirit
+1 Archangel Avacyn
 1 Glacial Fortress
 1 Rattlechains
 1 Watcher of the Spheres

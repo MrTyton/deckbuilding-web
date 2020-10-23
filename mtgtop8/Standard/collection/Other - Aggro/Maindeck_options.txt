@@ -1,4 +1,4 @@
-3 Omnath, Locus of the Roil
+3 Leafkin Druid
 3 Cavalier of Thorns
 3 Hydroid Krasis
 3 Nissa, Who Shakes the World
@@ -9,9 +9,9 @@
 3 Cultivate
 3 Ketria Triome
 3 Stomping Ground
-4 Risen Reef
-4 Leafkin Druid
 4 Cavalier of Thorns
+4 Leafkin Druid
+4 Risen Reef
 4 Genesis Ultimatum
 4 Temple of Mystery
 4 Ketria Triome
@@ -35,10 +35,10 @@
 1 Evolving Wilds
 2 Rimrock Knight
 2 Embercleave
-2 Bonecrusher Giant
 2 Shatterskull Smashing
-2 Questing Beast
+2 Bonecrusher Giant
 2 Scavenging Ooze
+2 Questing Beast
 2 Lovestruck Beast
 2 Brushfire Elemental
 2 Primal Might
@@ -67,38 +67,40 @@
 4 Primal Might
 4 Cragcrown Pathway
 1 Mazemind Tome
+1 Hagra Mauling
 1 Bonders' Enclave
 1 Stonecoil Serpent
 1 Crawling Barrens
-1 Myriad Construct
 1 Golden Egg
+1 Myriad Construct
 1 Crystalline Giant
 1 Palladium Myr
 1 Forsaken Monument
-1 Indatha Triome
 1 Bloodchief's Thirst
 1 Radiant Fountain
 1 Labyrinth of Skophos
 1 Swamp
-1 Hagra Mauling
+1 Indatha Triome
 2 Mazemind Tome
 2 Stonecoil Serpent
+2 Hagra Mauling
+2 Golden Egg
+2 Indatha Triome
 2 Bonders' Enclave
 2 Crystalline Giant
 2 Palladium Myr
-2 Golden Egg
 2 Forsaken Monument
-2 Indatha Triome
 2 Radiant Fountain
 2 Crawling Barrens
 2 Labyrinth of Skophos
 2 Bloodchief's Thirst
-2 Hagra Mauling
 2 Swamp
 2 Myriad Construct
 3 Mazemind Tome
-3 Stonecoil Serpent
+3 Swamp
+3 Bloodchief's Thirst
 3 Indatha Triome
+3 Stonecoil Serpent
 3 Crystalline Giant
 3 Palladium Myr
 3 Forsaken Monument
@@ -106,12 +108,10 @@
 3 Labyrinth of Skophos
 3 Radiant Fountain
 3 Myriad Construct
-3 Swamp
-3 Bloodchief's Thirst
 4 Mazemind Tome
+4 Indatha Triome
 4 Stonecoil Serpent
 4 Bloodchief's Thirst
-4 Indatha Triome
 4 Swamp
 4 Crystalline Giant
 4 Palladium Myr
@@ -125,10 +125,10 @@
 1 Frantic Inventory
 1 Lofty Denial
 1 God-Eternal Kefnet
-1 Ominous Seas
 1 Crackling Drake
 1 Niv-Mizzet, Parun
 1 Swiftwater Cliffs
+1 Ominous Seas
 1 Shock
 1 Winged Words
 1 Izzet Guildgate
@@ -140,8 +140,8 @@
 1 Opt
 2 Frantic Inventory
 2 Lofty Denial
-2 Ominous Seas
 2 Swiftwater Cliffs
+2 Ominous Seas
 2 Shock
 2 Experimental Overload
 2 Winged Words

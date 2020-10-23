@@ -6,9 +6,9 @@
 2 Extinction Event
 2 Confounding Conundrum
 2 Negate
-3 Extinction Event
 3 Bloodchief's Thirst
 3 Waker of Waves
+3 Extinction Event
 3 Neutralize
 3 Confounding Conundrum
 3 Island
@@ -21,9 +21,9 @@
 1 Yorion, Sky Nomad
 1 Solemn Simulacrum
 1 Omen of the Sea
-2 Yorion, Sky Nomad
 2 Omen of the Sea
 2 Plains
+2 Yorion, Sky Nomad
 3 Omen of the Sea
 4 Omen of the Sea
 1 Polukranos, Unchained
@@ -31,9 +31,9 @@
 1 Atris, Oracle of Half-Truths
 1 Dream Trawler
 1 Kenrith, the Returned King
+1 Archon of Sun's Grace
 1 Elspeth's Nightmare
 1 Emeria's Call
-1 Archon of Sun's Grace
 1 Skyclave Apparition
 1 Glass Casket
 1 Enigmatic Incarnation
@@ -95,8 +95,6 @@
 4 Temple Garden
 4 Doom Foretold
 4 Oath of Kaya
-1 Steam Vents
-1 Hydroid Krasis
 1 Radha, Heart of Keld
 1 Blood Crypt
 1 Niv-Mizzet Reborn
@@ -105,6 +103,8 @@
 1 Arboreal Grazer
 1 Kaya, Orzhov Usurper
 1 Savai Triome
+1 Steam Vents
+1 Hydroid Krasis
 1 Knight of Autumn
 1 Time Wipe
 1 Tyrant's Scorn
