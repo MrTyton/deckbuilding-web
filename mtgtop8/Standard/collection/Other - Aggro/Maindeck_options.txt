@@ -56,8 +56,8 @@
 3 Brushfire Elemental
 3 Primal Might
 3 Kazandu Mammoth
-4 Questing Beast
 4 Rimrock Knight
+4 Questing Beast
 4 Bonecrusher Giant
 4 Lovestruck Beast
 4 Edgewall Innkeeper
@@ -67,6 +67,8 @@
 4 Primal Might
 4 Cragcrown Pathway
 1 Mazemind Tome
+1 Bonders' Enclave
+1 Stonecoil Serpent
 1 Crawling Barrens
 1 Myriad Construct
 1 Golden Egg
@@ -77,11 +79,10 @@
 1 Bloodchief's Thirst
 1 Radiant Fountain
 1 Labyrinth of Skophos
-1 Stonecoil Serpent
 1 Swamp
-1 Bonders' Enclave
 1 Hagra Mauling
 2 Mazemind Tome
+2 Stonecoil Serpent
 2 Bonders' Enclave
 2 Crystalline Giant
 2 Palladium Myr
@@ -92,11 +93,11 @@
 2 Crawling Barrens
 2 Labyrinth of Skophos
 2 Bloodchief's Thirst
-2 Stonecoil Serpent
 2 Hagra Mauling
 2 Swamp
 2 Myriad Construct
 3 Mazemind Tome
+3 Stonecoil Serpent
 3 Indatha Triome
 3 Crystalline Giant
 3 Palladium Myr
@@ -105,10 +106,10 @@
 3 Labyrinth of Skophos
 3 Radiant Fountain
 3 Myriad Construct
-3 Stonecoil Serpent
 3 Swamp
 3 Bloodchief's Thirst
 4 Mazemind Tome
+4 Stonecoil Serpent
 4 Bloodchief's Thirst
 4 Indatha Triome
 4 Swamp
@@ -116,14 +117,13 @@
 4 Palladium Myr
 4 Golden Egg
 4 Radiant Fountain
-4 Stonecoil Serpent
 4 Labyrinth of Skophos
 4 Forsaken Monument
 4 Myriad Construct
 5 Swamp
 6 Swamp
-1 Lofty Denial
 1 Frantic Inventory
+1 Lofty Denial
 1 God-Eternal Kefnet
 1 Ominous Seas
 1 Crackling Drake
@@ -138,8 +138,8 @@
 1 Sprite Dragon
 1 Irencrag Pyromancer
 1 Opt
-2 Lofty Denial
 2 Frantic Inventory
+2 Lofty Denial
 2 Ominous Seas
 2 Swiftwater Cliffs
 2 Shock
@@ -150,8 +150,8 @@
 2 Flame Sweep
 2 Opt
 2 Crackling Drake
-3 Lofty Denial
 3 Frantic Inventory
+3 Lofty Denial
 3 Ominous Seas
 3 Flame Sweep
 3 Swiftwater Cliffs
@@ -160,8 +160,8 @@
 3 Crackling Drake
 3 Shock
 3 Winged Words
-4 Lofty Denial
 4 Frantic Inventory
+4 Lofty Denial
 4 Swiftwater Cliffs
 4 Sprite Dragon
 4 Opt

@@ -1,5 +1,5 @@
+1 Snow-Covered Plains
 1 Snow-Covered Mountain
-1 Snow-Covered Forest
 4 Misty Rainforest
 4 Kaya's Guile
 4 Omnath, Locus of Creation
@@ -18,9 +18,9 @@
 2 Abrupt Decay
 3 Verdant Catacombs
 3 Abrupt Decay
+1 Mountain
 1 Island
 1 Swamp
-1 Mountain
 1 Plains
 1 Forest
 4 Windswept Heath
@@ -86,8 +86,8 @@
 1 Felidar Guardian
 2 Faeburrow Elder
 2 Saheeli Rai
-1 Remand
 1 Sacred Foundry
+1 Remand
 2 Remand
 3 Remand
 1 Spell Queller

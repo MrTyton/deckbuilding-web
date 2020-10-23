@@ -11,19 +11,19 @@
 3 Brazen Borrower
 4 Brazen Borrower
 1 Questing Beast
-1 Unsubstantiate
 1 Radha, Heart of Keld
-1 Embercleave
 1 Shark Typhoon
 1 Neutralize
+1 Embercleave
+1 Unsubstantiate
 1 Spikefield Hazard
-2 Embercleave
+2 Neutralize
 2 Questing Beast
 2 Shark Typhoon
 2 Spikefield Hazard
-2 Neutralize
-3 Questing Beast
+2 Embercleave
 3 Embercleave
+3 Questing Beast
 3 Spikefield Hazard
 1 Uro, Titan of Nature's Wrath
 1 Scavenging Ooze
@@ -78,10 +78,10 @@
 3 Arboreal Grazer
 3 Mystical Dispute
 4 Arboreal Grazer
-4 Temple of Mystery
 4 Uro, Titan of Nature's Wrath
-4 Cavalier of Thorns
 4 Ugin, the Spirit Dragon
+4 Temple of Mystery
+4 Cavalier of Thorns
 4 Omnath, Locus of the Roil
 4 Mountain
 2 Glasspool Mimic
@@ -113,12 +113,13 @@
 1 Castle Vantress
 5 Forest
 6 Forest
+1 Migratory Greathorn
 1 Zagoth Triome
 1 Ilysian Caryatid
 1 Gilded Goose
 1 Crawling Barrens
-1 Brokkos, Apex of Forever
 1 Sea-Dasher Octopus
+1 Brokkos, Apex of Forever
 1 Auspicious Starrix
 1 Boneyard Lurker
 1 Tuktuk Rubblefort
@@ -127,21 +128,20 @@
 1 Thorn Mammoth
 1 Pollywog Symbiote
 1 Pouncing Shoreshark
-1 Migratory Greathorn
+2 Sea-Dasher Octopus
+2 Migratory Greathorn
 2 Ilysian Caryatid
 2 Gilded Goose
-2 Sea-Dasher Octopus
 2 Auspicious Starrix
-2 Vivien, Monsters' Advocate
-2 Migratory Greathorn
 2 Gemrazer
 2 Pollywog Symbiote
 2 Pouncing Shoreshark
+2 Vivien, Monsters' Advocate
 3 Pouncing Shoreshark
 3 Gilded Goose
+3 Migratory Greathorn
 3 Sea-Dasher Octopus
 3 Auspicious Starrix
-3 Migratory Greathorn
 3 Gemrazer
 4 Migratory Greathorn
 4 Auspicious Starrix
@@ -186,9 +186,9 @@
 1 The Royal Scions
 1 Jace, Mirror Mage
 1 Swiftwater Cliffs
-1 Cragplate Baloth
 1 Cinderclasm
 1 Bubble Snare
+1 Cragplate Baloth
 1 Negate
 1 Roil Eruption
 1 Vine Gecko
@@ -208,11 +208,11 @@
 2 Lullmage's Familiar
 3 Thornwood Falls
 3 Swiftwater Cliffs
+3 Negate
 3 Bubble Snare
 3 Into the Roil
 3 Roil Eruption
 3 Roost of Drakes
-3 Negate
 3 Vine Gecko
 3 Lullmage's Familiar
 4 Thornwood Falls

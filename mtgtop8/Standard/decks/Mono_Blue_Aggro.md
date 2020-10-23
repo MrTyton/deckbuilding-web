@@ -26,29 +26,3 @@
 |                                                                                                |                                                                                           |4 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
 |                                                                                                |                                                                                           |4 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
-|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Spectral Sailor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466830)    |                    1|[Lazotep Plating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460986)|
-|                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)         |                    1|[Essence Capture](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457181)|
-|                    1|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)|                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723) |
-|                    1|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136218)           |                    1|[Tale's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466831)     |
-|                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)   |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)    |
-|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)             |                    1|[Miscast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485380)        |
-|                    1|[Essence Capture](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457181)    |                    2|[Essence Capture](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457181)|
-|                    2|[Spectral Sailor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466830)    |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723) |
-|                    2|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)|                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)    |
-|                    2|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136218)           |                    2|[Miscast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485380)        |
-|                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)             |                    3|[Miscast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485380)        |
-|                    2|[Essence Capture](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457181)    |                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)    |
-|                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)   |                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)    |
-|                    3|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)|                     |                                                                                          |
-|                    3|[Spectral Sailor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466830)    |                     |                                                                                          |
-|                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)   |                     |                                                                                          |
-|                    4|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)|                     |                                                                                          |
-|                    4|[Spectral Sailor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466830)    |                     |                                                                                          |
-|                   20|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                          |
-|                   21|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                          |
-
