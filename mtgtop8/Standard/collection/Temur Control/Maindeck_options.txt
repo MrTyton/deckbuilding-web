@@ -33,12 +33,12 @@
 2 Bonecrusher Giant
 3 Brazen Borrower
 4 Brazen Borrower
-1 Spikefield Hazard
 1 Riverglide Pathway
 1 Cragcrown Pathway
-2 Spikefield Hazard
+1 Spikefield Hazard
 2 Riverglide Pathway
 2 Cragcrown Pathway
+2 Spikefield Hazard
 3 Riverglide Pathway
 1 Plains
 1 Oko, Thief of Crowns
@@ -62,26 +62,26 @@
 3 Fire Prophecy
 4 Fire Prophecy
 3 Forest
-1 Thassa's Intervention
-1 Jwari Disruption
 1 Klothys, God of Destiny
 1 Turntimber Symbiosis
 1 Elder Gargaroth
 1 Questing Beast
 1 Ashiok's Erasure
 1 Roil Eruption
-2 Jwari Disruption
+1 Thassa's Intervention
+1 Jwari Disruption
 2 Thassa's Intervention
 2 Questing Beast
-2 Ashiok's Erasure
 2 Elder Gargaroth
+2 Ashiok's Erasure
 2 Roil Eruption
-3 Spikefield Hazard
+2 Jwari Disruption
 3 Bonecrusher Giant
 3 Thassa's Intervention
 3 Elder Gargaroth
 3 Roil Eruption
 3 Ashiok's Erasure
+3 Spikefield Hazard
 4 Bonecrusher Giant
 4 Roil Eruption
 1 Zagoth Triome
@@ -90,16 +90,16 @@
 2 Quench
 2 Zagoth Triome
 2 Nissa, Who Shakes the World
-3 Nissa, Who Shakes the World
 3 Negate
+3 Nissa, Who Shakes the World
 4 Nissa, Who Shakes the World
 1 Sea Gate Restoration
 1 Irencrag Pyromancer
 1 Neutralize
 1 Improbable Alliance
-2 Neutralize
 2 Improbable Alliance
 2 Irencrag Pyromancer
+2 Neutralize
 3 Neutralize
 3 Jolrael, Mwonvuli Recluse
 3 Cragcrown Pathway
@@ -111,6 +111,7 @@
 4 Irencrag Pyromancer
 4 Improbable Alliance
 4 Teferi, Master of Time
+1 Vastwood Surge
 1 Ugin, the Spirit Dragon
 1 Phylath, World Sculptor
 1 Thornwood Falls
@@ -124,16 +125,15 @@
 1 Beanstalk Giant
 1 Omnath, Locus of Creation
 1 Cultivate
-1 Vastwood Surge
 1 Rugged Highlands
 1 Omen of the Sea
 2 Rugged Highlands
 2 Llanowar Visionary
+2 Vastwood Surge
 2 Thornwood Falls
 2 Didn't Say Please
 2 Omen of the Sea
 2 Swiftwater Cliffs
-2 Vastwood Surge
 2 Volcanic Geyser
 2 Plains
 2 Reclaim the Wastes

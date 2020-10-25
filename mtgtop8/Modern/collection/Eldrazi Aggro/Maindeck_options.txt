@@ -13,13 +13,13 @@
 1 Batterskull
 1 Crawling Barrens
 2 All Is Dust
-2 Relic of Progenitus
-3 Relic of Progenitus
 1 Ugin, the Spirit Dragon
 2 Spatial Contortion
 3 Blast Zone
-1 Sea Gate Wreckage
+2 Relic of Progenitus
+3 Relic of Progenitus
 1 Mutavault
+1 Sea Gate Wreckage
 1 Chromatic Star
 2 Chromatic Star
 3 Ugin, the Ineffable
@@ -30,9 +30,49 @@
 1 Spellskite
 1 Forest
 2 Forest
+1 Hallowed Fountain
+1 Plains
+1 Windswept Heath
+1 Yavimaya Coast
+1 Engineered Explosives
+1 Knight of Autumn
+1 Stubborn Denial
+1 Temple Garden
+1 Noble Hierarch
+1 Brushland
+1 Eldrazi Displacer
+1 Breeding Pool
+1 Ancient Stirrings
+1 Bonders' Enclave
+1 Birds of Paradise
+1 Drowner of Hope
+1 Path to Exile
+1 Eldrazi Skyspawner
+1 Containment Priest
+2 Yavimaya Coast
+2 Windswept Heath
+2 Eldrazi Displacer
+2 Brushland
+2 Path to Exile
+2 Noble Hierarch
+2 Eldrazi Skyspawner
+2 Ancient Stirrings
+2 Drowner of Hope
+2 Stubborn Denial
+3 Brushland
+3 Noble Hierarch
+3 Windswept Heath
+3 Eldrazi Displacer
+3 Path to Exile
+3 Ancient Stirrings
+4 Noble Hierarch
+4 Windswept Heath
+4 Ancient Stirrings
+4 Path to Exile
+4 Eldrazi Displacer
 1 Mountain
-1 World Breaker
 1 Once Upon a Time
+1 World Breaker
 1 Urborg, Tomb of Yawgmoth
 1 Punishing Fire
 1 Eye of Ugin
@@ -67,46 +107,6 @@
 4 Grove of the Burnwillows
 4 Karplusan Forest
 4 Endless One
-1 Hallowed Fountain
-1 Plains
-1 Windswept Heath
-1 Bonders' Enclave
-1 Yavimaya Coast
-1 Engineered Explosives
-1 Knight of Autumn
-1 Stubborn Denial
-1 Temple Garden
-1 Noble Hierarch
-1 Brushland
-1 Eldrazi Displacer
-1 Breeding Pool
-1 Ancient Stirrings
-1 Birds of Paradise
-1 Drowner of Hope
-1 Path to Exile
-1 Eldrazi Skyspawner
-1 Containment Priest
-2 Yavimaya Coast
-2 Windswept Heath
-2 Eldrazi Displacer
-2 Brushland
-2 Path to Exile
-2 Noble Hierarch
-2 Eldrazi Skyspawner
-2 Ancient Stirrings
-2 Drowner of Hope
-2 Stubborn Denial
-3 Brushland
-3 Windswept Heath
-3 Eldrazi Displacer
-3 Path to Exile
-3 Ancient Stirrings
-3 Noble Hierarch
-4 Windswept Heath
-4 Ancient Stirrings
-4 Path to Exile
-4 Eldrazi Displacer
-4 Noble Hierarch
 1 Mystic Gate
 1 Geist of Saint Traft
 1 Eldrazi Mimic
@@ -132,22 +132,22 @@
 2 Flooded Strand
 2 Opt
 2 Seachrome Coast
-3 Seachrome Coast
 3 Hallowed Fountain
 3 Eldrazi Mimic
 3 Mystic Gate
 3 Serum Visions
 3 Adarkar Wastes
+3 Seachrome Coast
 3 Stoneforge Mystic
 3 Geist of Saint Traft
 3 Flooded Strand
 3 Opt
 3 Elder Deep-Fiend
 4 Flooded Strand
-4 Seachrome Coast
 4 Eldrazi Mimic
 4 Serum Visions
 4 Adarkar Wastes
 4 Mystic Gate
 4 Opt
 4 Stoneforge Mystic
+4 Seachrome Coast

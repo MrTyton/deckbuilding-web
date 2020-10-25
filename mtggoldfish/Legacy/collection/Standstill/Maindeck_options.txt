@@ -72,12 +72,12 @@
 3 Tundra
 3 Wasteland
 1 The Tabernacle at Pendrell Vale
+1 Forest
 1 Mox Diamond
 1 Blast Zone
-1 Life from the Loam
 1 Field of the Dead
+1 Life from the Loam
 1 Tranquil Thicket
-1 Forest
 1 Verdant Catacombs
 2 Mox Diamond
 2 Life from the Loam
@@ -87,20 +87,22 @@
 4 Mox Diamond
 4 Wasteland
 1 Uro, Titan of Nature's Wrath
-1 Elvish Reclaimer
-1 Bojuka Bog
-1 Crop Rotation
 1 Maze of Ith
 1 Dark Depths
 1 Thespian's Stage
+1 Elvish Reclaimer
+1 Crop Rotation
+1 Bojuka Bog
 2 Elvish Reclaimer
-2 Crop Rotation
 2 Thespian's Stage
+2 Crop Rotation
 2 Tropical Island
 3 Crop Rotation
 4 Crop Rotation
-1 Cavern of Souls
+1 Green Sun's Zenith
+1 Once Upon a Time
 1 Cyclonic Rift
+1 Primeval Titan
 1 Pithing Needle
 1 Kiora, Behemoth Beckoner
 1 Golos, Tireless Pilgrim
@@ -112,28 +114,27 @@
 1 Candelabra of Tawnos
 1 Ramunap Excavator
 1 Glacial Chasm
-1 Thought-Knot Seer
 1 Prophetic Prism
 1 Dryad of the Ilysian Grove
-1 Green Sun's Zenith
+1 Thought-Knot Seer
 1 Eye of Ugin
+1 Cavern of Souls
 1 Vesuva
-1 Once Upon a Time
 1 Emrakul, the Aeons Torn
-1 Primeval Titan
 1 Prophet of Kruphix
-2 Cavern of Souls
-2 Snow-Covered Forest
-2 Primeval Titan
-2 Vesuva
-2 Pithing Needle
-2 Cloudpost
-2 Glimmerpost
-2 Thought-Knot Seer
-2 Dryad of the Ilysian Grove
 2 Green Sun's Zenith
 2 Once Upon a Time
+2 Snow-Covered Forest
+2 Primeval Titan
+2 Pithing Needle
+2 Cloudpost
+2 Vesuva
+2 Glimmerpost
+2 Dryad of the Ilysian Grove
+2 Thought-Knot Seer
+2 Cavern of Souls
 3 Elvish Reclaimer
+3 Green Sun's Zenith
 3 Once Upon a Time
 3 Tropical Island
 3 Cloudpost
@@ -141,13 +142,12 @@
 3 Pithing Needle
 3 Cavern of Souls
 3 Snow-Covered Forest
-3 Green Sun's Zenith
 4 Elvish Reclaimer
+4 Green Sun's Zenith
 4 Snow-Covered Forest
 4 Glimmerpost
 4 Cloudpost
 4 Pithing Needle
-4 Green Sun's Zenith
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 1 Lonely Sandbar
@@ -178,40 +178,24 @@
 3 Phyrexian Dreadnought
 3 Mishra's Factory
 4 Stifle
-1 Savannah
-1 Bayou
-1 Underground Sea
-1 Abrupt Decay
-1 Chalice of the Void
-1 Assassin's Trophy
-1 Snow-Covered Swamp
-2 Chalice of the Void
-2 Abrupt Decay
-2 Uro, Titan of Nature's Wrath
-3 Chalice of the Void
-3 Abrupt Decay
-3 Uro, Titan of Nature's Wrath
-4 Uro, Titan of Nature's Wrath
-4 Chalice of the Void
-4 Abrupt Decay
+1 Wooded Foothills
 1 Riftstone Portal
 1 Waterlogged Grove
-1 Exploration
 1 Rishadan Port
-1 Wooded Foothills
+1 Exploration
 1 Ghost Quarter
-2 Exploration
 2 Rishadan Port
 2 Dark Depths
+2 Exploration
 2 Waterlogged Grove
 2 Maze of Ith
-3 Exploration
 3 Thespian's Stage
 3 Rishadan Port
+3 Exploration
 3 Dark Depths
-4 Exploration
 4 Oko, Thief of Crowns
 4 Life from the Loam
+4 Exploration
 4 Thespian's Stage
 1 Secluded Steppe
 1 Street Wraith
@@ -241,5 +225,21 @@
 4 Astral Slide
 4 Street Wraith
 4 Secluded Steppe
-5 Snow-Covered Plains
 4 Lonely Sandbar
+5 Snow-Covered Plains
+1 Savannah
+1 Bayou
+1 Underground Sea
+1 Abrupt Decay
+1 Chalice of the Void
+1 Assassin's Trophy
+1 Snow-Covered Swamp
+2 Chalice of the Void
+2 Abrupt Decay
+2 Uro, Titan of Nature's Wrath
+3 Abrupt Decay
+3 Chalice of the Void
+3 Uro, Titan of Nature's Wrath
+4 Abrupt Decay
+4 Chalice of the Void
+4 Uro, Titan of Nature's Wrath

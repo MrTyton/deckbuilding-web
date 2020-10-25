@@ -1,6 +1,6 @@
-1 Explore
-2 Explore
-1 Skyclave Apparition
+1 Scattered Groves
+1 Courser of Kruphix
+1 Horizon Canopy
 2 Wooded Foothills
 1 Search for Tomorrow
 1 Cinder Glade
@@ -29,12 +29,8 @@
 3 Farseek
 3 Mountain
 1 Sheltered Thicket
-1 Sejiri Steppe
-1 Knight of the Reliquary
-1 Woodland Bellower
-1 Elder Gargaroth
-1 Springbloom Druid
 4 Summoner's Pact
+1 Elder Gargaroth
 3 Castle Garenbrig
 1 Verdant Catacombs
 1 Scapeshift
@@ -44,6 +40,10 @@
 1 Through the Breach
 2 Through the Breach
 3 Through the Breach
+1 Sejiri Steppe
+1 Knight of the Reliquary
+1 Woodland Bellower
+1 Springbloom Druid
 2 Skyclave Apparition
 2 Scapeshift
 3 Scapeshift
@@ -56,8 +56,8 @@
 1 Elvish Rejuvenator
 1 Felidar Retreat
 1 Scavenging Ooze
-2 Ghost Quarter
 2 Felidar Retreat
+2 Ghost Quarter
 3 Temple Garden
 1 Archon of Emeria
 1 Kazandu Mammoth
@@ -65,9 +65,12 @@
 3 Snow-Covered Mountain
 4 Castle Garenbrig
 1 Ketria Triome
-1 Prairie Stream
-1 Snow-Covered Island
 1 Uro, Titan of Nature's Wrath
+1 Breeding Pool
+2 Breeding Pool
+2 Uro, Titan of Nature's Wrath
+1 Snow-Covered Island
+1 Prairie Stream
 1 Field of Ruin
 1 Prismatic Vista
 1 Jace, the Mind Sculptor
@@ -80,11 +83,8 @@
 1 Growth Spiral
 1 Hallowed Fountain
 1 Cryptic Command
-1 Supreme Verdict
-1 Breeding Pool
 1 Flooded Strand
-2 Breeding Pool
-2 Uro, Titan of Nature's Wrath
+1 Supreme Verdict
 2 Jace, the Mind Sculptor
 2 Misty Rainforest
 2 Aether Gust
@@ -110,18 +110,20 @@
 3 Cinder Glade
 4 Mountain
 1 Turntimber Symbiosis
-1 Arid Mesa
 1 Nissa, Vastwood Seer
+1 Omnath, Locus of Creation
+1 Shalai, Voice of Plenty
+1 Raugrin Triome
 1 Wall of Blossoms
 2 Wall of Blossoms
 1 Chandra, Torch of Defiance
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 2 Dead / Gone
+2 Sweltering Suns
 1 Castle Vantress
 2 Island
 2 Prismatic Vista
-2 Sweltering Suns
 1 Crumbling Vestige
 3 Snow-Covered Forest
 3 Forest

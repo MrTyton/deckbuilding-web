@@ -25,10 +25,10 @@
 2 Chalice of the Void
 2 Battlefield Forge
 2 Dismember
-3 Simian Spirit Guide
 3 Chalice of the Void
-4 Simian Spirit Guide
+3 Simian Spirit Guide
 4 Chalice of the Void
+4 Simian Spirit Guide
 4 Tidehollow Sculler
 2 Snow-Covered Plains
 3 Snow-Covered Plains
@@ -48,14 +48,14 @@
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
-1 Brushland
 1 Knight of Autumn
 1 Noble Hierarch
 1 Razorverge Thicket
+1 Brushland
 1 Blast Zone
-2 Brushland
 2 Knight of Autumn
 2 Noble Hierarch
+2 Brushland
 2 Razorverge Thicket
 3 Noble Hierarch
 3 Brushland
@@ -98,10 +98,10 @@
 11 Snow-Covered Plains
 3 Shefet Dunes
 4 Skyclave Apparition
-1 Sacred Foundry
 1 Lurrus of the Dream-Den
 1 Legion Angel
 1 Maul of the Skyclaves
+1 Sacred Foundry
 1 Forest
 1 Sejiri Shelter
 1 Skyclave Cleric
@@ -113,9 +113,9 @@
 1 Scavenger Grounds
 1 Thraben Inspector
 2 Thraben Inspector
+1 Hushbringer
 1 Archon of Emeria
 1 Crucible of Worlds
-1 Hushbringer
 2 Archon of Emeria
 2 Field of Ruin
 1 Dark Confidant
@@ -123,9 +123,9 @@
 2 Dark Confidant
 3 Dark Confidant
 3 Blade Splicer
-3 Restoration Angel
-4 Restoration Angel
 1 Phyrexian Revoker
 1 Eiganjo Castle
 2 Phyrexian Revoker
 4 Shefet Dunes
+4 Restoration Angel
+3 Restoration Angel

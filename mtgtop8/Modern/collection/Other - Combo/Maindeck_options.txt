@@ -36,8 +36,8 @@
 1 Thassa's Oracle
 1 Jace, Wielder of Mysteries
 2 Thassa's Oracle
-1 Polluted Delta
 1 Watery Grave
+1 Polluted Delta
 2 Polluted Delta
 1 Opt
 2 Opt
@@ -56,15 +56,15 @@
 1 River of Tears
 1 Murderous Cut
 1 Inquisition of Kozilek
-1 Remand
 1 Fatal Push
+1 Remand
 2 Remand
 2 Inquisition of Kozilek
-2 River of Tears
 2 Fatal Push
+2 River of Tears
 3 Remand
-3 River of Tears
 3 Fatal Push
+3 River of Tears
 4 Remand
 2 Pact of Negation
 1 Island
@@ -190,21 +190,20 @@
 1 Steam Vents
 1 Spell Queller
 1 Wall of Omens
-1 Narset of the Ancient Way
 1 Prismatic Vista
-1 Delay
 1 Fae of Wishes
 1 Snow-Covered Mountain
+1 Delay
 1 Chandra, Torch of Defiance
 1 Commandeer
-1 Drannith Magistrate
+1 Narset of the Ancient Way
 1 Spellskite
 1 Snow-Covered Plains
+1 Drannith Magistrate
 1 Sacred Foundry
 1 Reverse the Sands
 1 Possibility Storm
 2 Spell Queller
-2 Narset of the Ancient Way
 2 Wall of Omens
 2 Snow-Covered Plains
 2 Fae of Wishes
@@ -212,6 +211,7 @@
 2 Delay
 2 Spellskite
 2 Snow-Covered Mountain
+2 Narset of the Ancient Way
 2 Drannith Magistrate
 2 Possibility Storm
 2 Chandra, Torch of Defiance
@@ -222,10 +222,10 @@
 3 Snow-Covered Island
 3 Wall of Omens
 3 Fae of Wishes
-3 Prismatic Vista
 3 Drannith Magistrate
-3 Arid Mesa
+3 Prismatic Vista
 3 Delay
+3 Arid Mesa
 3 Snow-Covered Plains
 3 Flooded Strand
 3 Possibility Storm
@@ -234,6 +234,7 @@
 4 Fae of Wishes
 4 Drannith Magistrate
 4 Prismatic Vista
+4 Delay
 4 Wall of Omens
 4 Snow-Covered Island
 4 Arid Mesa
@@ -241,21 +242,21 @@
 4 Scalding Tarn
 4 Flooded Strand
 4 Snow-Covered Plains
-4 Delay
 5 Snow-Covered Island
 5 Snow-Covered Plains
+1 Beyeen Veil
 1 Silundi Vision
 1 Skyclave Cleric
 1 Jwari Disruption
 1 Talisman of Progress
 1 Disrupting Shoal
 1 Teferi, Hero of Dominaria
-1 Beyeen Veil
 1 Pieces of the Puzzle
 1 Path to Exile
 1 Selective Memory
 1 Snapback
 2 Silundi Vision
+2 Beyeen Veil
 2 Jwari Disruption
 2 Skyclave Cleric
 2 Talisman of Progress
@@ -263,7 +264,6 @@
 2 Selective Memory
 2 Path to Exile
 2 Snapback
-2 Beyeen Veil
 2 Pieces of the Puzzle
 3 Talisman of Progress
 3 Jwari Disruption
@@ -295,11 +295,11 @@
 4 Through the Breach
 1 Waterlogged Grove
 1 Karn, the Great Creator
+1 Aether Hub
 1 Wrenn and Six
 1 Attune with Aether
 1 Breeding Pool
 1 Lightning Bolt
-1 Aether Hub
 1 Uro, Titan of Nature's Wrath
 1 Mountain
 1 Woodweaver's Puzzleknot
@@ -308,12 +308,12 @@
 1 Whirler Virtuoso
 1 Rogue Refiner
 2 Karn, the Great Creator
+2 Aether Hub
 2 Whirler Virtuoso
 2 Rogue Refiner
 2 Woodweaver's Puzzleknot
 2 Aetherworks Marvel
 2 Attune with Aether
-2 Aether Hub
 2 Harnessed Lightning
 2 Lightning Bolt
 2 Uro, Titan of Nature's Wrath
@@ -407,9 +407,9 @@
 1 Utopia Sprawl
 1 Eladamri's Call
 2 Windswept Heath
+2 Worldspine Wurm
 2 Devoted Druid
 2 Stomping Ground
-2 Worldspine Wurm
 2 Plains
 2 Dubious Challenge
 2 Utopia Sprawl

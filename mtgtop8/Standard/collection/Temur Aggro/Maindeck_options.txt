@@ -1,25 +1,25 @@
 1 Vivien, Monsters' Advocate
 2 Tangled Florahedron
 3 Mountain
-1 Elder Gargaroth
 1 Brazen Borrower
+1 Elder Gargaroth
 2 Brazen Borrower
 3 Brazen Borrower
 4 Brazen Borrower
 1 Temple of Epiphany
-1 Temple of Abandon
-1 Temple of Mystery
-2 Temple of Mystery
 1 Questing Beast
+1 Temple of Mystery
 1 Radha, Heart of Keld
+1 Temple of Abandon
+1 Shark Typhoon
 1 Neutralize
 1 Unsubstantiate
 1 Embercleave
-1 Shark Typhoon
 1 Spikefield Hazard
-2 Neutralize
-2 Shark Typhoon
+2 Temple of Mystery
 2 Questing Beast
+2 Shark Typhoon
+2 Neutralize
 2 Embercleave
 2 Spikefield Hazard
 3 Embercleave
@@ -31,112 +31,66 @@
 4 Island
 1 Into the Roil
 2 Into the Roil
-1 Garruk, Unleashed
 1 Garruk's Harbinger
+1 Garruk, Unleashed
 2 Radha, Heart of Keld
 3 Shatterskull Smashing
-1 Uro, Titan of Nature's Wrath
 2 Vivien, Monsters' Advocate
 5 Island
 2 Glasspool Mimic
 4 Mountain
 1 Scorching Dragonfire
+1 Uro, Titan of Nature's Wrath
 2 Unsubstantiate
 2 Scorching Dragonfire
 3 Tangled Florahedron
-3 Ugin, the Spirit Dragon
-2 Elder Gargaroth
-1 Breeding Pool
-1 Stomping Ground
-1 Hydroid Krasis
-1 Arboreal Grazer
-1 Steam Vents
-1 Risen Reef
-1 Leafkin Druid
-1 Omnath, Locus of the Roil
-1 Mystical Dispute
-1 Cavalier of Thorns
-2 Temple of Epiphany
-2 Breeding Pool
-2 Omnath, Locus of the Roil
-2 Temple of Abandon
-2 Hydroid Krasis
-2 Stomping Ground
-2 Cavalier of Thorns
-2 Leafkin Druid
-2 Arboreal Grazer
-2 Mystical Dispute
-2 Risen Reef
-2 Steam Vents
-2 Uro, Titan of Nature's Wrath
-3 Breeding Pool
-3 Temple of Mystery
-3 Stomping Ground
-3 Hydroid Krasis
-3 Cavalier of Thorns
-3 Arboreal Grazer
-3 Leafkin Druid
-3 Mystical Dispute
-3 Risen Reef
-3 Steam Vents
-3 Omnath, Locus of the Roil
-3 Uro, Titan of Nature's Wrath
-4 Arboreal Grazer
-4 Ugin, the Spirit Dragon
-4 Breeding Pool
-4 Temple of Mystery
-4 Stomping Ground
-4 Risen Reef
-4 Leafkin Druid
-4 Cavalier of Thorns
-4 Omnath, Locus of the Roil
-4 Steam Vents
-4 Uro, Titan of Nature's Wrath
 5 Forest
 6 Forest
-1 Migratory Greathorn
 1 Zagoth Triome
-1 Ilysian Caryatid
 1 Gilded Goose
 1 Crawling Barrens
 1 Castle Vantress
-1 Sea-Dasher Octopus
+1 Ilysian Caryatid
 1 Brokkos, Apex of Forever
-1 Auspicious Starrix
-1 Boneyard Lurker
-1 Tuktuk Rubblefort
+1 Sea-Dasher Octopus
+1 Pollywog Symbiote
 1 Gemrazer
 1 Castle Garenbrig
 1 Thorn Mammoth
-1 Pollywog Symbiote
+1 Tuktuk Rubblefort
 1 Pouncing Shoreshark
+1 Boneyard Lurker
+1 Migratory Greathorn
+1 Auspicious Starrix
 2 Sea-Dasher Octopus
-2 Migratory Greathorn
-2 Ilysian Caryatid
 2 Gilded Goose
+2 Ilysian Caryatid
+2 Migratory Greathorn
 2 Auspicious Starrix
-2 Gemrazer
 2 Pollywog Symbiote
 2 Pouncing Shoreshark
+2 Gemrazer
 3 Pouncing Shoreshark
 3 Gilded Goose
-3 Migratory Greathorn
 3 Sea-Dasher Octopus
 3 Auspicious Starrix
+3 Migratory Greathorn
 3 Gemrazer
 4 Migratory Greathorn
 4 Auspicious Starrix
 7 Forest
 8 Forest
 1 Scute Swarm
+3 Ugin, the Spirit Dragon
 3 Vivien, Monsters' Advocate
 2 Riverglide Pathway
+2 Elder Gargaroth
 2 Sea Gate Restoration
 3 Riverglide Pathway
 3 Sea Gate Restoration
 3 Elder Gargaroth
-4 Tangled Florahedron
 4 Elder Gargaroth
+4 Tangled Florahedron
 4 Sea Gate Restoration
 4 Kazandu Mammoth
 1 Sublime Epiphany
@@ -145,43 +99,43 @@
 1 Thornwood Falls
 1 Gnarlid Colony
 1 The Royal Scions
-1 Jace, Mirror Mage
 1 Swiftwater Cliffs
-1 Cinderclasm
-1 Bubble Snare
-1 Cragplate Baloth
-1 Negate
-1 Roil Eruption
-1 Vine Gecko
+1 Jace, Mirror Mage
 1 Roost of Drakes
+1 Cragplate Baloth
+1 Cinderclasm
+1 Roil Eruption
+1 Bubble Snare
+1 Negate
+1 Vine Gecko
 1 Lullmage's Familiar
 1 Murasa Sproutling
 1 Reclaim the Wastes
 2 Thornwood Falls
 2 Swiftwater Cliffs
+2 Roost of Drakes
 2 Bubble Snare
 2 Negate
 2 Roil Eruption
-2 Roost of Drakes
 2 Gnarlid Colony
 2 Vine Gecko
 2 Murasa Sproutling
 2 Lullmage's Familiar
 3 Thornwood Falls
 3 Swiftwater Cliffs
-3 Negate
-3 Bubble Snare
-3 Into the Roil
-3 Roil Eruption
 3 Roost of Drakes
+3 Bubble Snare
+3 Negate
+3 Into the Roil
 3 Vine Gecko
 3 Lullmage's Familiar
+3 Roil Eruption
 4 Thornwood Falls
-4 Swiftwater Cliffs
-4 Roil Eruption
-4 Negate
-4 Roost of Drakes
 4 Into the Roil
+4 Roost of Drakes
+4 Swiftwater Cliffs
+4 Negate
 4 Vine Gecko
+4 Roil Eruption
 6 Island
 7 Island

@@ -1,20 +1,20 @@
-3 Leafkin Druid
-3 Cavalier of Thorns
-3 Hydroid Krasis
-3 Nissa, Who Shakes the World
-3 Genesis Ultimatum
 3 Soul-Guide Lantern
 3 Uro, Titan of Nature's Wrath
+3 Hydroid Krasis
 3 Breeding Pool
 3 Cultivate
 3 Ketria Triome
+3 Cavalier of Thorns
+3 Leafkin Druid
 3 Stomping Ground
-4 Cavalier of Thorns
-4 Leafkin Druid
-4 Risen Reef
+3 Risen Reef
+3 Omnath, Locus of the Roil
 4 Genesis Ultimatum
 4 Temple of Mystery
+4 Risen Reef
+4 Leafkin Druid
 4 Ketria Triome
+4 Cavalier of Thorns
 4 Breeding Pool
 4 Cultivate
 4 Uro, Titan of Nature's Wrath
@@ -56,6 +56,7 @@
 3 Brushfire Elemental
 3 Primal Might
 3 Kazandu Mammoth
+4 Primal Might
 4 Rimrock Knight
 4 Questing Beast
 4 Bonecrusher Giant
@@ -64,7 +65,6 @@
 4 Kazandu Mammoth
 4 Brushfire Elemental
 4 Embercleave
-4 Primal Might
 4 Cragcrown Pathway
 1 Mazemind Tome
 1 Hagra Mauling
@@ -72,8 +72,8 @@
 1 Stonecoil Serpent
 1 Crawling Barrens
 1 Golden Egg
-1 Myriad Construct
 1 Crystalline Giant
+1 Myriad Construct
 1 Palladium Myr
 1 Forsaken Monument
 1 Bloodchief's Thirst
@@ -87,31 +87,32 @@
 2 Golden Egg
 2 Indatha Triome
 2 Bonders' Enclave
+2 Myriad Construct
 2 Crystalline Giant
 2 Palladium Myr
 2 Forsaken Monument
+2 Labyrinth of Skophos
 2 Radiant Fountain
 2 Crawling Barrens
-2 Labyrinth of Skophos
 2 Bloodchief's Thirst
 2 Swamp
-2 Myriad Construct
 3 Mazemind Tome
 3 Swamp
 3 Bloodchief's Thirst
 3 Indatha Triome
 3 Stonecoil Serpent
 3 Crystalline Giant
+3 Myriad Construct
 3 Palladium Myr
 3 Forsaken Monument
 3 Golden Egg
 3 Labyrinth of Skophos
 3 Radiant Fountain
-3 Myriad Construct
+4 Myriad Construct
 4 Mazemind Tome
 4 Indatha Triome
-4 Stonecoil Serpent
 4 Bloodchief's Thirst
+4 Stonecoil Serpent
 4 Swamp
 4 Crystalline Giant
 4 Palladium Myr
@@ -119,9 +120,9 @@
 4 Radiant Fountain
 4 Labyrinth of Skophos
 4 Forsaken Monument
-4 Myriad Construct
 5 Swamp
 6 Swamp
+1 Experimental Overload
 1 Frantic Inventory
 1 Lofty Denial
 1 God-Eternal Kefnet
@@ -134,16 +135,15 @@
 1 Izzet Guildgate
 1 Flame Sweep
 1 The Royal Scions
-1 Experimental Overload
 1 Sprite Dragon
 1 Irencrag Pyromancer
 1 Opt
+2 Experimental Overload
 2 Frantic Inventory
 2 Lofty Denial
 2 Swiftwater Cliffs
 2 Ominous Seas
 2 Shock
-2 Experimental Overload
 2 Winged Words
 2 Sprite Dragon
 2 Izzet Guildgate
@@ -152,9 +152,9 @@
 2 Crackling Drake
 3 Frantic Inventory
 3 Lofty Denial
-3 Ominous Seas
 3 Flame Sweep
 3 Swiftwater Cliffs
+3 Ominous Seas
 3 Sprite Dragon
 3 Opt
 3 Crackling Drake

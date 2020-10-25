@@ -7,17 +7,17 @@
 1 Censor
 2 Force of Negation
 3 Snow-Covered Island
+1 Snow-Covered Mountain
 3 Island
 2 Wilt
 2 Censor
-1 Snow-Covered Mountain
 1 Mountain
+2 Snow-Covered Forest
 1 Search for Tomorrow
 2 Search for Tomorrow
 3 Search for Tomorrow
 4 Search for Tomorrow
 3 Wrenn and Six
-2 Snow-Covered Forest
 1 Sweltering Suns
 1 Flame Slash
 1 Sakura-Tribe Elder
@@ -31,51 +31,51 @@
 3 Bring to Light
 4 Bring to Light
 1 Watery Grave
-1 Fatal Push
 1 Polluted Delta
+1 Fatal Push
 2 Fatal Push
 3 Wooded Foothills
 1 Temple Garden
+1 Sunbaked Canyon
+1 Arid Mesa
 1 Sacred Foundry
 1 Flagstones of Trokair
 1 Sejiri Shelter
+1 Mishra's Bauble
 1 Akoum Hellhound
 1 Brushfire Elemental
 1 Atarka's Command
 1 Elvish Reclaimer
 1 Windswept Heath
-1 Mishra's Bauble
-1 Arid Mesa
 1 Soaring Seacliff
-1 Sunbaked Canyon
 1 Steppe Lynx
 1 Sejiri Steppe
-2 Sacred Foundry
+2 Arid Mesa
 2 Flagstones of Trokair
+2 Mishra's Bauble
 2 Brushfire Elemental
 2 Elvish Reclaimer
 2 Akoum Hellhound
-2 Mishra's Bauble
+2 Sacred Foundry
 2 Windswept Heath
 2 Atarka's Command
 2 Steppe Lynx
-2 Arid Mesa
-3 Sacred Foundry
-3 Flagstones of Trokair
 3 Brushfire Elemental
+3 Mishra's Bauble
 3 Elvish Reclaimer
 3 Akoum Hellhound
 3 Atarka's Command
-3 Mishra's Bauble
+3 Sacred Foundry
 3 Steppe Lynx
+3 Flagstones of Trokair
 3 Windswept Heath
 4 Windswept Heath
 4 Wooded Foothills
-4 Flagstones of Trokair
 4 Brushfire Elemental
 4 Elvish Reclaimer
-4 Akoum Hellhound
 4 Mishra's Bauble
+4 Akoum Hellhound
+4 Flagstones of Trokair
 4 Atarka's Command
 4 Steppe Lynx
 3 Censor
@@ -83,8 +83,6 @@
 2 Prismatic Vista
 1 Brazen Borrower
 3 Fatal Push
-1 Shark Typhoon
-2 Shark Typhoon
 1 Assassin's Trophy
 1 Overgrown Tomb
 2 Polluted Delta
@@ -107,18 +105,18 @@
 2 Archive Trap
 2 Hedron Crab
 2 Glimpse the Unthinkable
-3 Polluted Delta
 3 Field of Ruin
 3 Assassin's Trophy
+3 Polluted Delta
 3 Hedron Crab
 3 Glimpse the Unthinkable
 3 Ruin Crab
 3 Mesmeric Orb
 3 Visions of Beyond
 3 Archive Trap
-4 Polluted Delta
 4 Hedron Crab
 4 Mesmeric Orb
+4 Polluted Delta
 4 Ruin Crab
 4 Visions of Beyond
 4 Archive Trap
@@ -132,25 +130,27 @@
 1 Arboreal Grazer
 1 Search for Azcanta
 1 Abundant Growth
+2 Abundant Growth
 2 Ice-Fang Coatl
 2 Search for Azcanta
 2 Arboreal Grazer
-2 Abundant Growth
+3 Abundant Growth
 3 Ice-Fang Coatl
 3 Mystic Sanctuary
-3 Abundant Growth
+4 Abundant Growth
 4 Snow-Covered Island
 4 Ice-Fang Coatl
-4 Abundant Growth
 5 Snow-Covered Island
 1 Vendilion Clique
+1 Shark Typhoon
 2 Abrupt Decay
+2 Shark Typhoon
 1 Sheltered Thicket
 1 Platinum Emperion
 1 Madcap Experiment
 1 Terminate
-1 Obstinate Baloth
 1 Thoughtseize
+1 Obstinate Baloth
 1 Sultai Charm
 1 Anger of the Gods
 1 Courser of Kruphix
@@ -163,35 +163,44 @@
 2 Mountain
 2 Snapcaster Mage
 2 Archmage's Charm
-3 Force of Negation
 1 Hallowed Fountain
 1 Teferi, Time Raveler
 1 Supreme Verdict
+1 Mwonvuli Acid-Moss
 1 Snow-Covered Plains
 1 Path to Exile
-1 Mwonvuli Acid-Moss
-2 Path to Exile
 2 Teferi, Time Raveler
+2 Path to Exile
 3 Path to Exile
+3 Force of Negation
 1 Surgical Extraction
 1 Shelldock Isle
 2 Surgical Extraction
 3 Surgical Extraction
-3 Shark Typhoon
 1 Botanical Sanctum
 1 Jace, the Mind Sculptor
 2 Botanical Sanctum
 3 Botanical Sanctum
 3 Prismatic Vista
 4 Botanical Sanctum
-1 Verdant Catacombs
-1 Maddening Cacophony
-2 Verdant Catacombs
-2 Swamp
-2 Maddening Cacophony
-3 Verdant Catacombs
-4 Verdant Catacombs
+1 Peer Through Depths
+1 Farseek
+1 Jwari Disruption
+1 Explore
+2 Jwari Disruption
+2 Peer Through Depths
+2 Farseek
+2 Explore
+3 Jwari Disruption
+4 Jwari Disruption
 4 Censor
 2 Brazen Borrower
 2 Flame Slash
 4 Wrenn and Six
+1 Verdant Catacombs
+1 Maddening Cacophony
+2 Verdant Catacombs
+2 Maddening Cacophony
+2 Swamp
+3 Verdant Catacombs
+4 Verdant Catacombs

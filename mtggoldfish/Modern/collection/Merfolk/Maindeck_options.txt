@@ -2,7 +2,6 @@
 2 Brazen Borrower
 1 Waterlogged Grove
 2 Waterlogged Grove
-4 Harbinger of the Tides
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
@@ -19,28 +18,29 @@
 4 Kumena's Speaker
 1 Smuggler's Copter
 2 Smuggler's Copter
+4 Harbinger of the Tides
+4 Mutavault
 5 Snow-Covered Island
 3 Merfolk Mistbinder
 4 Merfolk Mistbinder
 3 Waterlogged Grove
-4 Mutavault
 4 Dismember
-1 Breeding Pool
-1 Polluted Delta
 1 Glasspool Mimic
 2 Glasspool Mimic
+1 Breeding Pool
+1 Polluted Delta
 1 Flooded Strand
 3 Glasspool Mimic
 4 Glasspool Mimic
 4 Force of Negation
 6 Snow-Covered Island
 7 Snow-Covered Island
-3 Smuggler's Copter
-9 Island
-2 Breeding Pool
 4 Benthic Biomancer
 1 Merrow Reejerey
 2 Merrow Reejerey
+3 Smuggler's Copter
+9 Island
+2 Breeding Pool
 1 Sygg, River Cutthroat
 1 Castle Vantress
 1 Master of Waves
@@ -57,6 +57,7 @@
 1 Faerie Conclave
 2 Faerie Conclave
 3 Faerie Conclave
+1 Hallowed Fountain
 11 Island
 1 Spell Pierce
 8 Snow-Covered Island
@@ -64,27 +65,32 @@
 10 Snow-Covered Island
 4 Waterlogged Grove
 2 Flooded Strand
+1 Path to Exile
+2 Path to Exile
+3 Path to Exile
+4 Path to Exile
+4 Seachrome Coast
 3 Merrow Reejerey
 4 Merrow Reejerey
-1 Tidebinder Mage
-2 Tidebinder Mage
-1 Minamo, School at Water's Edge
-2 Spell Pierce
-1 Cursecatcher
-2 Cursecatcher
-1 Hallowed Fountain
 1 Coralhelm Commander
 2 Hallowed Fountain
 2 Coralhelm Commander
+1 Tidebinder Mage
+2 Tidebinder Mage
+2 Spell Pierce
+1 Minamo, School at Water's Edge
+1 Cursecatcher
+2 Cursecatcher
 4 Smuggler's Copter
 12 Island
 1 Thassa, God of the Sea
-1 Sea's Claim
-2 Sea's Claim
 1 Clearwater Pathway
 2 Clearwater Pathway
-1 Vapor Snag
+1 Sea's Claim
+2 Sea's Claim
+3 Coralhelm Commander
 1 Ghost Quarter
+1 Vapor Snag
 3 Tidebinder Mage
 3 Cursecatcher
 1 Darkslick Shores
@@ -95,16 +101,16 @@
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
-1 Fiery Islet
-1 The Royal Scions
 1 Kira, Great Glass-Spinner
+1 Fiery Islet
 1 Lightning Bolt
+1 The Royal Scions
 1 Bonecrusher Giant
 1 Spirebluff Canal
 1 Steam Vents
 2 Steam Vents
-2 The Royal Scions
 2 Fiery Islet
+2 The Royal Scions
 2 Lightning Bolt
 2 Bonecrusher Giant
 2 Spirebluff Canal
@@ -125,11 +131,5 @@
 4 Castle Vantress
 4 Brazen Borrower
 4 Faerie Conclave
-1 Path to Exile
-2 Path to Exile
-3 Path to Exile
-3 Coralhelm Commander
-4 Path to Exile
-4 Seachrome Coast
 11 Snow-Covered Island
 12 Snow-Covered Island

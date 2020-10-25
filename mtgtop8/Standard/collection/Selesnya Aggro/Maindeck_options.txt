@@ -53,15 +53,15 @@
 4 Evolving Wilds
 1 Banishing Light
 2 Banishing Light
-1 Inscription of Abundance
 1 Oran-Rief Ooze
 1 Luminarch Aspirant
 1 Conclave Mentor
+1 Inscription of Abundance
 1 Stonecoil Serpent
 1 Basri's Lieutenant
 1 Swarm Shambler
-2 Oran-Rief Ooze
 2 Inscription of Abundance
+2 Oran-Rief Ooze
 2 Luminarch Aspirant
 2 Conclave Mentor
 2 Swarm Shambler
@@ -83,14 +83,6 @@
 3 Lovestruck Beast
 3 Giant Killer
 4 Lovestruck Beast
-1 Indatha Triome
-1 Wolfwillow Haven
-2 Indatha Triome
-2 Wolfwillow Haven
-3 Indatha Triome
-4 Charming Prince
-4 Indatha Triome
-4 Mazemind Tome
 1 Golden Egg
 1 Solemn Simulacrum
 1 Glasspool Mimic
@@ -105,10 +97,18 @@
 3 Glass Casket
 3 Solemn Simulacrum
 4 Solemn Simulacrum
+4 Turntimber Symbiosis
 4 Golden Egg
 4 Glass Casket
 4 Glasspool Mimic
-4 Turntimber Symbiosis
+1 Indatha Triome
+1 Wolfwillow Haven
+2 Indatha Triome
+2 Wolfwillow Haven
+3 Indatha Triome
+4 Charming Prince
+4 Indatha Triome
+4 Mazemind Tome
 1 Migratory Greathorn
 1 Vivien, Monsters' Advocate
 2 Migratory Greathorn
@@ -161,38 +161,38 @@
 3 Mountain
 4 Valakut Exploration
 4 Dryad of the Ilysian Grove
-1 Bronzehide Lion
 1 Maul of the Skyclaves
 1 Seasoned Hallowblade
 1 Elspeth, Sun's Nemesis
-2 Bronzehide Lion
+1 Bronzehide Lion
 2 Maul of the Skyclaves
 2 Seasoned Hallowblade
 2 Elspeth, Sun's Nemesis
-3 Elspeth, Sun's Nemesis
-3 Bronzehide Lion
+2 Bronzehide Lion
 3 Seasoned Hallowblade
 3 Primal Might
-4 Bronzehide Lion
+3 Elspeth, Sun's Nemesis
+3 Bronzehide Lion
 4 Seasoned Hallowblade
 4 Scavenging Ooze
 4 Selfless Savior
+4 Bronzehide Lion
 1 Basri Ket
-1 Vastwood Fortification
-1 Wildwood Scourge
 1 Wildborn Preserver
+1 Wildwood Scourge
+1 Vastwood Fortification
 1 Sejiri Shelter
 1 The Ozolith
 2 Basri Ket
-2 Wildwood Scourge
-2 Vastwood Fortification
 2 Wildborn Preserver
+2 Vastwood Fortification
+2 Wildwood Scourge
 2 Sejiri Shelter
 2 The Ozolith
 3 Sejiri Shelter
+3 Vastwood Fortification
 3 Basri Ket
 3 The Ozolith
-3 Vastwood Fortification
 4 Sejiri Shelter
 4 Swarm Shambler
 4 Vastwood Fortification

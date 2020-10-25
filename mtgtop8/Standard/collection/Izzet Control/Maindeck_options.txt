@@ -1,26 +1,10 @@
-2 Neutralize
-1 Jace, Mirror Mage
-1 Essence Scatter
-2 Essence Scatter
-3 Essence Scatter
-1 Jwari Disruption
-1 Spikefield Hazard
-2 Jwari Disruption
-2 Spikefield Hazard
-3 Jwari Disruption
-3 Spikefield Hazard
-4 Jwari Disruption
-4 Spikefield Hazard
-1 Thassa's Intervention
-1 Radiant Fountain
 2 Radiant Fountain
-3 Neutralize
 1 Riverglide Pathway
 1 Bonecrusher Giant
 1 Brazen Borrower
 1 Sublime Epiphany
-1 Castle Vantress
 1 Temple of Epiphany
+1 Castle Vantress
 2 Brazen Borrower
 2 Riverglide Pathway
 2 Bonecrusher Giant
@@ -34,33 +18,43 @@
 4 Temple of Epiphany
 4 Bonecrusher Giant
 4 Riverglide Pathway
+3 Neutralize
 1 Teferi, Master of Time
 1 Thirst for Meaning
+1 The Royal Scions
+1 Shock
+1 Lofty Denial
 1 Ugin, the Spirit Dragon
 2 Thirst for Meaning
 2 Evolving Wilds
+2 Shock
+2 Lofty Denial
 3 Evolving Wilds
 3 Thirst for Meaning
+3 Shock
+3 Lofty Denial
 4 Evolving Wilds
 1 Cancel
-1 Bloodfell Caves
 1 Expansion / Explosion
+1 Bloodfell Caves
+1 Flame Sweep
 1 Heartless Act
 1 Swamp
 1 Dismal Backwater
 1 Firemind's Research
 1 Devious Cover-Up
+2 Flame Sweep
 2 Bloodfell Caves
 2 Dismal Backwater
 2 Heartless Act
 2 Negate
 2 Devious Cover-Up
 2 Cancel
-3 Bloodfell Caves
 3 Dismal Backwater
+3 Bloodfell Caves
 3 Negate
-4 Bloodfell Caves
 4 Dismal Backwater
+4 Bloodfell Caves
 1 Silundi Vision
 1 Shatterskull Smashing
 1 Shredded Sails
@@ -71,22 +65,22 @@
 1 Scorching Dragonfire
 1 Shipwreck Dowser
 2 Silundi Vision
-2 Shredded Sails
+2 Brash Taunter
 2 Shatterskull Smashing
+2 Shredded Sails
 2 Mazemind Tome
 2 Storm's Wrath
 2 Soul Sear
 2 Shipwreck Dowser
-2 Brash Taunter
 2 Scorching Dragonfire
+3 Sublime Epiphany
 3 Silundi Vision
+3 Brash Taunter
 3 Radiant Fountain
 3 Mazemind Tome
 3 Storm's Wrath
 3 Shipwreck Dowser
 3 Scorching Dragonfire
-3 Brash Taunter
-3 Sublime Epiphany
 4 Radiant Fountain
 4 Scorching Dragonfire
 1 Kiora Bests the Sea God
@@ -104,31 +98,19 @@
 3 Thassa's Intervention
 4 Mystical Dispute
 4 Essence Scatter
-1 Irencrag Pyromancer
-1 Experimental Overload
-1 Izzet Guildgate
-1 Winged Words
-1 Niv-Mizzet, Parun
-1 Crackling Drake
-1 God-Eternal Kefnet
-2 Crackling Drake
-2 Izzet Guildgate
-2 Winged Words
-2 Experimental Overload
-3 Winged Words
-3 Crackling Drake
-3 Flame Sweep
-3 Ominous Seas
-4 Shock
-4 Lofty Denial
-8 Mountain
 1 Lore Drakkis
 1 Thrill of Possibility
+1 Sprite Dragon
 1 Into the Roil
+2 Sprite Dragon
 2 Lore Drakkis
+3 Sprite Dragon
 3 Lore Drakkis
-4 Blitz of the Thunder-Raptor
 4 Fire Prophecy
+4 Opt
+4 Sprite Dragon
+4 Blitz of the Thunder-Raptor
 4 Lore Drakkis
 4 Neutralize
+8 Island
 9 Island

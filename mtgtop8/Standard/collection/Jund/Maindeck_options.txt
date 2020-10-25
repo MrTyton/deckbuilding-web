@@ -43,8 +43,8 @@
 1 Llanowar Visionary
 1 Fierce Witchstalker
 1 Rugged Highlands
-2 Bloodfell Caves
 2 Jungle Hollow
+2 Bloodfell Caves
 2 Llanowar Visionary
 2 Fierce Witchstalker
 2 Rugged Highlands
@@ -62,18 +62,18 @@
 2 Migratory Greathorn
 2 Auspicious Starrix
 3 Jungle Hollow
-3 Migratory Greathorn
 3 Auspicious Starrix
-4 Jungle Hollow
+3 Migratory Greathorn
 4 Migratory Greathorn
+4 Jungle Hollow
 8 Forest
 2 Vivien, Monsters' Advocate
 3 Murderous Rider
 1 Radha, Heart of Keld
 2 Radha, Heart of Keld
 2 Elder Gargaroth
-3 Agonizing Remorse
 3 Elder Gargaroth
+3 Agonizing Remorse
 4 Agonizing Remorse
 1 Chevill, Bane of Monsters
 2 Chevill, Bane of Monsters
@@ -91,26 +91,26 @@
 1 Roil Eruption
 2 Roil Eruption
 3 Bloodchief's Thirst
+1 Adventurous Impulse
+1 Feed the Swarm
+1 Murder
+2 Adventurous Impulse
+2 Boneyard Lurker
+3 Adventurous Impulse
+3 Cultivate
 1 Kazuul's Fury
 1 Thrashing Brontodon
 3 Agadeem's Awakening
-1 Feed the Swarm
-1 Adventurous Impulse
-1 Murder
-2 Boneyard Lurker
-2 Adventurous Impulse
-3 Cultivate
-3 Adventurous Impulse
 1 Liliana, Dreadhorde General
-1 Arboreal Grazer
-1 Paradise Druid
 1 Chandra, Awakened Inferno
+1 Paradise Druid
 1 Ob Nixilis's Cruelty
-2 Arboreal Grazer
+1 Arboreal Grazer
 2 Paradise Druid
 2 Ob Nixilis's Cruelty
-3 Arboreal Grazer
+2 Arboreal Grazer
 3 Paradise Druid
+3 Arboreal Grazer
 3 Ob Nixilis's Cruelty
 4 Arboreal Grazer
 1 Phylath, World Sculptor
@@ -119,13 +119,13 @@
 1 Garruk's Harbinger
 2 Questing Beast
 2 Wilt
-2 Tangled Florahedron
 2 Nissa of Shadowed Boughs
+2 Tangled Florahedron
 2 Garruk's Harbinger
-3 Radha, Heart of Keld
 3 Questing Beast
 3 Tangled Florahedron
 3 Garruk's Harbinger
+3 Radha, Heart of Keld
 4 Bloodchief's Thirst
 4 Garruk's Harbinger
 4 Tangled Florahedron
@@ -136,8 +136,8 @@
 1 Branchloft Pathway
 1 Brightclimb Pathway
 1 Mythos of Nethroi
-2 Indatha Triome
 2 Savai Triome
+2 Indatha Triome
 2 Mythos of Nethroi
 2 The Great Henge
 3 Scavenging Ooze
@@ -145,17 +145,17 @@
 3 Indatha Triome
 4 Scavenging Ooze
 1 Shredded Sails
-1 Inscription of Ruin
 1 Liliana, Waker of the Dead
-1 Lurrus of the Dream-Den
+1 Inscription of Ruin
 1 Mire Triton
+1 Lurrus of the Dream-Den
 2 Lurrus of the Dream-Den
+2 Liliana, Waker of the Dead
+2 Mire Triton
 2 Inscription of Ruin
 2 Shredded Sails
 2 Klothys, God of Destiny
 2 Kroxa, Titan of Death's Hunger
-2 Liliana, Waker of the Dead
-2 Mire Triton
 3 Kroxa, Titan of Death's Hunger
 3 Mire Triton
 3 Heartless Act
@@ -170,8 +170,8 @@
 2 Garruk, Cursed Huntsman
 4 Murderous Rider
 1 Golden Egg
-1 Giant Opportunity
 1 Dead Weight
+1 Giant Opportunity
 1 Savvy Hunter
 1 Blood Aspirant
 1 Curious Pair
