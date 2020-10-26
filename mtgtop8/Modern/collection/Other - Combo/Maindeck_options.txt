@@ -1,11 +1,6 @@
-1 Pact of Negation
-1 Pentad Prism
-2 Pentad Prism
 3 Pentad Prism
-4 Pentad Prism
-1 Emeria's Call
-2 Emeria's Call
 3 Emeria's Call
+4 Pentad Prism
 1 Sword of the Meek
 2 Sword of the Meek
 1 Vengevine
@@ -33,51 +28,59 @@
 4 Undercity Informer
 4 Balustrade Spy
 4 Agadeem's Awakening
+1 Blood Moon
+2 Blood Moon
+3 Blood Moon
+4 Blood Moon
+1 Pact of Negation
+1 Nexus of Fate
+1 Talisman of Resilience
+1 Hagra Mauling
+2 Talisman of Resilience
+3 Talisman of Resilience
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+1 Opt
 1 Thassa's Oracle
 1 Jace, Wielder of Mysteries
+2 Opt
 2 Thassa's Oracle
+3 Opt
+4 Opt
 1 Watery Grave
 1 Polluted Delta
 2 Polluted Delta
-1 Opt
-2 Opt
-3 Opt
-4 Opt
-1 Thoughtseize
 2 Watery Grave
-2 Thoughtseize
-3 Thoughtseize
-1 Inverter of Truth
-2 Inverter of Truth
-2 Jace, Wielder of Mysteries
-3 Jace, Wielder of Mysteries
-3 Inverter of Truth
-4 Inverter of Truth
 1 River of Tears
 1 Murderous Cut
 1 Inquisition of Kozilek
 1 Fatal Push
+1 Inverter of Truth
 1 Remand
 2 Remand
 2 Inquisition of Kozilek
 2 Fatal Push
 2 River of Tears
+2 Inverter of Truth
+2 Jace, Wielder of Mysteries
 3 Remand
 3 Fatal Push
+3 Jace, Wielder of Mysteries
 3 River of Tears
+3 Inverter of Truth
 4 Remand
-2 Pact of Negation
-1 Island
-1 Shelldock Isle
-2 Shelldock Isle
+4 Inverter of Truth
 3 Watery Grave
 1 Force of Negation
 2 Force of Negation
-1 Snow-Covered Island
+1 Island
+1 Swamp
+1 Shelldock Isle
+2 Shelldock Isle
+2 Island
 1 Scalding Tarn
 2 Scalding Tarn
-1 Swamp
-2 Island
 4 Fatal Push
 1 Relic of Progenitus
 4 Watery Grave
@@ -85,8 +88,7 @@
 4 River of Tears
 3 Polluted Delta
 4 Polluted Delta
-3 Shelldock Isle
-4 Shelldock Isle
+1 Snow-Covered Island
 1 Snow-Covered Swamp
 2 Snow-Covered Island
 3 Force of Negation
@@ -135,31 +137,30 @@
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
+2 Pact of Negation
 3 Pact of Negation
 4 Pact of Negation
-3 Thassa's Oracle
-4 Thassa's Oracle
 1 Snapcaster Mage
 1 Sunken Ruins
 1 Tasigur, the Golden Fang
 1 Vendilion Clique
 1 Cryptic Command
 2 Snapcaster Mage
+3 Shelldock Isle
 3 Snapcaster Mage
 3 Island
 4 Jace, Wielder of Mysteries
+4 Shelldock Isle
+2 Hagra Mauling
+3 Hagra Mauling
+4 Talisman of Resilience
+1 Leyline of Sanctity
+2 Leyline of Sanctity
+3 Leyline of Sanctity
+4 Leyline of Sanctity
 1 Vessel of Volatility
 2 Vessel of Volatility
 3 Vessel of Volatility
-1 Leyline of Sanctity
-1 Nexus of Fate
-1 Talisman of Resilience
-1 Hagra Mauling
-2 Talisman of Resilience
-2 Leyline of Sanctity
-3 Talisman of Resilience
-3 Leyline of Sanctity
-4 Leyline of Sanctity
 1 Veil of Summer
 2 Swamp
 1 Omen of the Sea
@@ -172,66 +173,66 @@
 3 Omen of the Sea
 3 Relic of Progenitus
 3 Darkslick Shores
+3 Thassa's Oracle
+4 Thassa's Oracle
 1 Pelakka Predation
 2 Pelakka Predation
 4 Emeria's Call
+1 Jace, the Mind Sculptor
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
-1 Flooded Strand
-1 Phyrexian Unlife
-2 Phyrexian Unlife
-3 Phyrexian Unlife
-4 Phyrexian Unlife
-1 Jace, the Mind Sculptor
 4 Teferi, Time Raveler
 1 Arid Mesa
 2 Arid Mesa
 1 Steam Vents
 1 Spell Queller
 1 Wall of Omens
-1 Prismatic Vista
 1 Fae of Wishes
+1 Prismatic Vista
 1 Snow-Covered Mountain
 1 Delay
 1 Chandra, Torch of Defiance
 1 Commandeer
 1 Narset of the Ancient Way
-1 Spellskite
+1 Flooded Strand
 1 Snow-Covered Plains
 1 Drannith Magistrate
 1 Sacred Foundry
 1 Reverse the Sands
+1 Spellskite
 1 Possibility Storm
+1 Phyrexian Unlife
 2 Spell Queller
 2 Wall of Omens
 2 Snow-Covered Plains
 2 Fae of Wishes
+2 Drannith Magistrate
 2 Prismatic Vista
 2 Delay
 2 Spellskite
 2 Snow-Covered Mountain
 2 Narset of the Ancient Way
-2 Drannith Magistrate
 2 Possibility Storm
 2 Chandra, Torch of Defiance
+2 Phyrexian Unlife
 2 Jace, the Mind Sculptor
 2 Flooded Strand
 2 Commandeer
 3 Spell Queller
 3 Snow-Covered Island
 3 Wall of Omens
-3 Fae of Wishes
 3 Drannith Magistrate
 3 Prismatic Vista
 3 Delay
 3 Arid Mesa
 3 Snow-Covered Plains
+3 Phyrexian Unlife
 3 Flooded Strand
+3 Fae of Wishes
 3 Possibility Storm
 3 Scalding Tarn
 4 Spell Queller
-4 Fae of Wishes
 4 Drannith Magistrate
 4 Prismatic Vista
 4 Delay
@@ -239,39 +240,41 @@
 4 Snow-Covered Island
 4 Arid Mesa
 4 Force of Negation
+4 Phyrexian Unlife
 4 Scalding Tarn
+4 Fae of Wishes
 4 Flooded Strand
 4 Snow-Covered Plains
 5 Snow-Covered Island
 5 Snow-Covered Plains
-1 Beyeen Veil
 1 Silundi Vision
-1 Skyclave Cleric
 1 Jwari Disruption
+1 Skyclave Cleric
 1 Talisman of Progress
 1 Disrupting Shoal
 1 Teferi, Hero of Dominaria
+1 Beyeen Veil
 1 Pieces of the Puzzle
 1 Path to Exile
 1 Selective Memory
 1 Snapback
 2 Silundi Vision
-2 Beyeen Veil
-2 Jwari Disruption
 2 Skyclave Cleric
+2 Jwari Disruption
 2 Talisman of Progress
 2 Disrupting Shoal
 2 Selective Memory
 2 Path to Exile
 2 Snapback
+2 Beyeen Veil
 2 Pieces of the Puzzle
+3 Silundi Vision
 3 Talisman of Progress
 3 Jwari Disruption
 3 Disrupting Shoal
 3 Snapback
 3 Path to Exile
 3 Selective Memory
-3 Silundi Vision
 4 Jwari Disruption
 4 Disrupting Shoal
 4 Talisman of Progress
@@ -320,16 +323,16 @@
 2 Wrenn and Six
 3 Karn, the Great Creator
 3 Wooded Foothills
-3 Wrenn and Six
 3 Lightning Bolt
+3 Aether Hub
 3 Whirler Virtuoso
+3 Wrenn and Six
 3 Rogue Refiner
 3 Woodweaver's Puzzleknot
 3 Misty Rainforest
 3 Aetherworks Marvel
 3 Forest
 3 Attune with Aether
-3 Aether Hub
 3 Harnessed Lightning
 4 Wooded Foothills
 4 Rogue Refiner
@@ -337,7 +340,6 @@
 4 Misty Rainforest
 4 Attune with Aether
 4 Aether Hub
-1 Plains
 1 Castle Vantress
 1 Creeping Tar Pit
 1 Eliminate
@@ -348,6 +350,7 @@
 3 Defense Grid
 3 Pelakka Predation
 4 Pelakka Predation
+4 Hagra Mauling
 1 Drowned Catacomb
 1 Cavern of Souls
 2 Drowned Catacomb
@@ -355,9 +358,6 @@
 3 Drowned Catacomb
 4 Darkslick Shores
 4 Omen of the Sea
-2 Hagra Mauling
-3 Hagra Mauling
-4 Talisman of Resilience
 1 Akoum Warrior
 2 Akoum Warrior
 2 Veil of Summer
@@ -371,37 +371,14 @@
 3 Wild Cantor
 4 Wild Cantor
 4 Sword of the Meek
-1 Talisman of Dominance
-1 Wishclaw Talisman
-1 Serum Visions
-1 Hallowed Fountain
-1 Gemstone Mine
-1 Angel's Grace
-1 Spoils of the Vault
-1 City of Brass
-2 Talisman of Dominance
-2 Wishclaw Talisman
-2 Spoils of the Vault
-2 Gemstone Mine
-2 City of Brass
-2 Serum Visions
-2 Angel's Grace
-3 Talisman of Dominance
-3 Gemstone Mine
-3 City of Brass
-3 Serum Visions
-3 Angel's Grace
-3 Spoils of the Vault
-4 Serum Visions
-4 Spoils of the Vault
-4 Angel's Grace
 1 Windswept Heath
 1 Devoted Druid
 1 Vizier of Remedies
+1 Elesh Norn, Grand Cenobite
 1 Gemstone Caverns
 1 Flickerwisp
 1 Dubious Challenge
-1 Elesh Norn, Grand Cenobite
+1 Plains
 1 Temple Garden
 1 Charming Prince
 1 Utopia Sprawl

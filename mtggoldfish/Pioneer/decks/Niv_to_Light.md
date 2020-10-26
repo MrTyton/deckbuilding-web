@@ -80,6 +80,6 @@
 |                    2|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)             |                     |                                                                                                    |
 |                    1|[Oath of Kaya](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461136)                |                     |                                                                                                    |
 |                    3|[Thought Erasure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452956)             |                     |                                                                                                    |
-|                    2|[Savai Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479773)                |                     |                                                                                                    |
 |                    1|[Klothys, God of Destiny](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476471)     |                     |                                                                                                    |
+|                    2|[Savai Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479773)                |                     |                                                                                                    |
 

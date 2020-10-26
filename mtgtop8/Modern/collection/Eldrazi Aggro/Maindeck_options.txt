@@ -34,6 +34,7 @@
 1 Plains
 1 Windswept Heath
 1 Yavimaya Coast
+1 Bonders' Enclave
 1 Engineered Explosives
 1 Knight of Autumn
 1 Stubborn Denial
@@ -43,7 +44,6 @@
 1 Eldrazi Displacer
 1 Breeding Pool
 1 Ancient Stirrings
-1 Bonders' Enclave
 1 Birds of Paradise
 1 Drowner of Hope
 1 Path to Exile
@@ -72,8 +72,8 @@
 4 Eldrazi Displacer
 1 Mountain
 1 Once Upon a Time
-1 World Breaker
 1 Urborg, Tomb of Yawgmoth
+1 World Breaker
 1 Punishing Fire
 1 Eye of Ugin
 1 Umezawa's Jitte
@@ -110,6 +110,7 @@
 1 Mystic Gate
 1 Geist of Saint Traft
 1 Eldrazi Mimic
+1 Seachrome Coast
 1 Serum Visions
 1 Sword of Sinew and Steel
 1 Sword of Fire and Ice
@@ -118,11 +119,11 @@
 1 Opt
 1 Elder Deep-Fiend
 1 Snow-Covered Island
-1 Seachrome Coast
 1 Stoneforge Mystic
 1 Adarkar Wastes
 2 Eldrazi Mimic
 2 Mystic Gate
+2 Seachrome Coast
 2 Hallowed Fountain
 2 Serum Visions
 2 Adarkar Wastes
@@ -131,13 +132,12 @@
 2 Stoneforge Mystic
 2 Flooded Strand
 2 Opt
-2 Seachrome Coast
 3 Hallowed Fountain
 3 Eldrazi Mimic
+3 Seachrome Coast
 3 Mystic Gate
 3 Serum Visions
 3 Adarkar Wastes
-3 Seachrome Coast
 3 Stoneforge Mystic
 3 Geist of Saint Traft
 3 Flooded Strand

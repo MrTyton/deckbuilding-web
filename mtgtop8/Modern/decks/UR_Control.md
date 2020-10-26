@@ -29,3 +29,23 @@
 |                                                                                             |2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)     |                                                                                                 |
 |                                                                                             |2 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)  |                                                                                                 |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    1|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)            |                    1|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)           |
+|                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|                    1|[Ashiok, Nightmare Muse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476459)|
+|                    1|[Magmatic Sinkhole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464084)      |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)           |
+|                    1|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)               |                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)     |
+|                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                 |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)  |
+|                    1|[Cascade Bluffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442226)         |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)   |
+|                    1|[Electrolyze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247276)            |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)          |
+|                    2|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|                    1|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)         |
+|                    2|[Cascade Bluffs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442226)         |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)             |
+|                    2|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)            |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)   |
+|                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)         |                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)     |
+|                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)       |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)             |
+|                    4|[Thing in the Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409836)       |                    2|[Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)         |
+|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                 |                     |                                                                                                 |
+

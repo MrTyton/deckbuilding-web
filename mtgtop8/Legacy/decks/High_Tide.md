@@ -1,7 +1,7 @@
 # High Tide
 
 #### [Export MTGO List](../collection/High%20Tide/High%20Tide.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Brainstorm%0A3%09Cunning%20Wish%0A1%09Flooded%20Strand%0A3%09Flusterstorm%0A4%09Force%20of%20Will%0A4%09High%20Tide%0A1%09Intuition%0A12%09Island%0A4%09Merchant%20Scroll%0A1%09Misty%20Rainforest%0A1%09Pact%20of%20Negation%0A2%09Polluted%20Delta%0A4%09Ponder%0A3%09Predict%0A4%09Preordain%0A2%09Scalding%20Tarn%0A4%09Time%20Spiral%0A3%09Turnabout&deckside=1%09Blue%20Sun's%20Zenith%0A1%09Brain%20Freeze%0A1%09Echoing%20Truth%0A1%09Force%20of%20Negation%0A2%09Grafdigger's%20Cage%0A1%09Hurkyl's%20Recall%0A1%09Pact%20of%20Negation%0A2%09Shark%20Typhoon%0A1%09Snap%0A1%09Surgical%20Extraction%0A2%09Teferi's%20Realm%0A1%09Turnabout)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Brainstorm%0A3%09Cunning%20Wish%0A1%09Flooded%20Strand%0A3%09Flusterstorm%0A4%09Force%20of%20Will%0A4%09High%20Tide%0A1%09Intuition%0A12%09Island%0A4%09Merchant%20Scroll%0A1%09Misty%20Rainforest%0A1%09Pact%20of%20Negation%0A2%09Polluted%20Delta%0A4%09Ponder%0A3%09Predict%0A4%09Preordain%0A2%09Scalding%20Tarn%0A4%09Time%20Spiral%0A3%09Turnabout&deckside=1%09Archmage's%20Charm%0A1%09Brain%20Freeze%0A2%09Echoing%20Truth%0A1%09Engulf%20the%20Shore%0A2%09Flusterstorm%0A1%09Force%20of%20Negation%0A1%09Hurkyl's%20Recall%0A1%09Intuition%0A1%09Pact%20of%20Negation%0A1%09Paradoxical%20Outcome%0A1%09Snap%0A1%09Surgical%20Extraction%0A1%09Wipe%20Away)
 # Maindeck
 
 |                                        Instant (26)                                         |                                          Land (18)                                          |                                       Sorcery (16)                                        |
@@ -19,15 +19,55 @@
 
 # Sideboard
 
-|                                         Artifact (2)                                         |                                     Enchantment (4)                                      |                                          Instant (9)                                           |
-|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|2 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|2 [Shark Typhoon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479587)|1 [Blue Sun's Zenith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442033)  |
-|                                                                                              |2 [Teferi's Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3651) |1 [Brain Freeze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=47599)        |
-|                                                                                              |                                                                                          |1 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)      |
-|                                                                                              |                                                                                          |1 [Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |
-|                                                                                              |                                                                                          |1 [Hurkyl's Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135260)    |
-|                                                                                              |                                                                                          |1 [Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)   |
-|                                                                                              |                                                                                          |1 [Snap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426582)               |
-|                                                                                              |                                                                                          |1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
-|                                                                                              |                                                                                          |1 [Turnabout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5728)            |
+|                                          Instant (15)                                          |
+|------------------------------------------------------------------------------------------------|
+|1 [Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989)   |
+|1 [Brain Freeze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=47599)        |
+|2 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)      |
+|1 [Engulf the Shore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438445)   |
+|2 [Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)       |
+|1 [Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)  |
+|1 [Hurkyl's Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135260)    |
+|1 [Intuition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4707)            |
+|1 [Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)   |
+|1 [Paradoxical Outcome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417633)|
+|1 [Snap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426582)               |
+|1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|1 [Wipe Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118911)          |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    1|[Shark Typhoon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479587)    |
+|                    1|[Spellseeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446009)        |                    1|[Turnabout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5728)          |
+|                    1|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)    |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
+|                    1|[Brain Freeze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=47599)        |                    1|[Blue Sun's Zenith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442033)|
+|                    1|[Cloud of Faeries](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=11588)    |                    1|[Teferi's Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3651)     |
+|                    1|[Sapphire Medallion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389662) |                    2|[Shark Typhoon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479587)    |
+|                    1|[Snap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426582)               |                    2|[Teferi's Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3651)     |
+|                    1|[Mission Briefing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452794)   |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
+|                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
+|                    2|[Sapphire Medallion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389662) |                     |                                                                                            |
+|                    2|[Spellseeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446009)        |                     |                                                                                            |
+|                    2|[Snap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426582)               |                     |                                                                                            |
+|                    2|[Cloud of Faeries](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=11588)    |                     |                                                                                            |
+|                    2|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)   |                     |                                                                                            |
+|                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)     |                     |                                                                                            |
+|                    3|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
+|                    3|[Snap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426582)               |                     |                                                                                            |
+|                    3|[Cloud of Faeries](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=11588)    |                     |                                                                                            |
+|                    3|[Spellseeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446009)        |                     |                                                                                            |
+|                    3|[Sapphire Medallion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389662) |                     |                                                                                            |
+|                    4|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
+|                    4|[Sapphire Medallion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389662) |                     |                                                                                            |
+|                    4|[Spellseeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446009)        |                     |                                                                                            |
+|                    5|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
+|                    6|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
+|                    7|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
+|                    8|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
+|                    9|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
+|                   10|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
+|                   11|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
 

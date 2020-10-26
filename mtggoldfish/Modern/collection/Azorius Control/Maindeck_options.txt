@@ -2,27 +2,26 @@
 4 Remand
 1 Archmage's Charm
 2 Archmage's Charm
-2 Hallowed Fountain
 1 Field of Ruin
 2 Field of Ruin
+2 Hallowed Fountain
 1 Opt
 2 Opt
 3 Opt
-1 Supreme Verdict
-4 Opt
 1 Snow-Covered Plains
 1 Snow-Covered Island
 2 Snow-Covered Island
-3 Field of Ruin
-1 Spell Snare
+4 Opt
+1 Supreme Verdict
 1 Mana Leak
+3 Field of Ruin
 3 Snow-Covered Island
-3 Archmage's Charm
+1 Spell Snare
 1 Misty Rainforest
-4 Island
+3 Archmage's Charm
 2 Misty Rainforest
+4 Island
 4 Field of Ruin
-5 Island
 2 Mana Leak
 1 Stoneforge Mystic
 1 Batterskull
@@ -32,30 +31,30 @@
 4 Stoneforge Mystic
 3 Misty Rainforest
 4 Misty Rainforest
+5 Island
+1 Logic Knot
 1 Celestial Colonnade
 2 Celestial Colonnade
 1 Polluted Delta
-1 Logic Knot
 1 Mystic Gate
-1 Snow-Covered Forest
+4 Snow-Covered Island
 1 Uro, Titan of Nature's Wrath
+1 Snow-Covered Forest
 1 Breeding Pool
 1 Temple Garden
 2 Uro, Titan of Nature's Wrath
 2 Plains
 2 Supreme Verdict
+5 Snow-Covered Island
 1 Wall of Omens
 2 Wall of Omens
-4 Snow-Covered Island
-1 Shatterskull Smashing
-6 Island
 1 Terminus
+1 Shatterskull Smashing
 3 Uro, Titan of Nature's Wrath
 1 Sword of Fire and Ice
 3 Celestial Colonnade
-5 Snow-Covered Island
-1 Glacial Fortress
 2 Snow-Covered Plains
+1 Glacial Fortress
 2 Mystic Gate
 3 Wall of Omens
 2 Breeding Pool
@@ -73,37 +72,30 @@
 4 Ice-Fang Coatl
 1 Spell Queller
 2 Spell Queller
-2 Polluted Delta
+4 Force of Negation
+6 Island
 2 Terminus
 3 Terminus
-4 Uro, Titan of Nature's Wrath
 2 Birds of Paradise
 3 Mana Leak
 3 Snow-Covered Forest
 3 Windswept Heath
 4 Snow-Covered Forest
 4 Windswept Heath
+4 Uro, Titan of Nature's Wrath
 3 Spell Queller
 4 Spell Queller
 4 Wall of Omens
-4 Force of Negation
-1 Omen of the Sea
-3 Polluted Delta
+1 Sea Gate Restoration
+2 Polluted Delta
 3 Mystic Sanctuary
-4 Mystic Sanctuary
 4 Terminus
-1 Condemn
-1 Counterbalance
-1 Entreat the Angels
-2 Omen of the Sea
-2 Counterbalance
-2 Condemn
-3 Counterbalance
-3 Jace, the Mind Sculptor
-3 Omen of the Sea
-4 Polluted Delta
-4 Omen of the Sea
-4 Counterbalance
+4 Mystic Sanctuary
+1 Frantic Inventory
+1 Deprive
+2 Frantic Inventory
+3 Frantic Inventory
+4 Frantic Inventory
 1 Spreading Seas
 2 Spreading Seas
 3 Spreading Seas
@@ -117,7 +109,9 @@
 1 Flooded Grove
 2 Glacial Fortress
 3 Supreme Verdict
-1 Sea Gate Restoration
+1 Omen of the Sea
+3 Polluted Delta
+1 Condemn
 1 Confounding Conundrum
 1 Abundant Growth
 2 Abundant Growth
@@ -134,12 +128,12 @@
 4 Birds of Paradise
 1 Snow-Covered Mountain
 1 Leyline of Sanctity
+1 Waterlogged Grove
 1 Castle Vantress
 1 Dovin's Veto
 1 Soul-Guide Lantern
 1 Isolate
 1 Oust
-1 Waterlogged Grove
 1 Narset, Parter of Veils
 1 Geier Reach Sanitarium
 2 Narset, Parter of Veils
@@ -156,18 +150,24 @@
 2 Peek
 3 Restoration Angel
 3 Glacial Fortress
+1 Ghost Quarter
 1 Crucible of Worlds
 1 Jwari Disruption
-1 Ghost Quarter
 2 Jwari Disruption
 4 Archmage's Charm
 4 Lightning Bolt
-1 Frantic Inventory
-1 Deprive
-2 Frantic Inventory
-3 Frantic Inventory
-4 Frantic Inventory
 1 Delay
 2 Delay
 3 Delay
 4 Delay
+1 Counterbalance
+1 Entreat the Angels
+2 Omen of the Sea
+2 Counterbalance
+2 Condemn
+3 Jace, the Mind Sculptor
+3 Counterbalance
+3 Omen of the Sea
+4 Polluted Delta
+4 Omen of the Sea
+4 Counterbalance

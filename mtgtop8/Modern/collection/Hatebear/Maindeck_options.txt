@@ -10,9 +10,9 @@
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
+2 Horizon Canopy
 3 Silent Clearing
 4 Silent Clearing
-2 Horizon Canopy
 2 Restoration Angel
 1 Scavenger Grounds
 10 Snow-Covered Plains
@@ -20,6 +20,18 @@
 11 Snow-Covered Plains
 1 Serra Avenger
 2 Serra Avenger
+1 Spell Queller
+1 Seachrome Coast
+1 Island
+1 Hallowed Fountain
+2 Spell Queller
+2 Seachrome Coast
+2 Island
+2 Hallowed Fountain
+3 Seachrome Coast
+3 Spell Queller
+4 Seachrome Coast
+4 Spell Queller
 2 Sunbaked Canyon
 3 Horizon Canopy
 3 Restoration Angel
@@ -37,8 +49,8 @@
 1 Reality Smasher
 1 Wastes
 1 Dismember
-1 Thought-Knot Seer
 1 Simian Spirit Guide
+1 Thought-Knot Seer
 1 Thalia, Heretic Cathar
 1 Gemstone Caverns
 1 Eldrazi Temple
@@ -71,8 +83,8 @@
 4 Containment Priest
 4 Simian Spirit Guide
 4 Chalice of the Void
-4 Eldrazi Displacer
 4 Eldrazi Temple
+4 Eldrazi Displacer
 1 Smuggler's Copter
 1 Snow-Covered Mountain
 1 Sacred Foundry
@@ -100,37 +112,25 @@
 3 Lightning Bolt
 3 Seasoned Pyromancer
 3 Mountain
+4 Sacred Foundry
 4 Mountain
 4 Angrath's Marauders
 4 Winota, Joiner of Forces
-4 Sacred Foundry
 4 Seasoned Pyromancer
 4 Lightning Bolt
 4 Inspiring Vantage
 1 Blade Splicer
-1 Spell Queller
-1 Seachrome Coast
 1 Lurrus of the Dream-Den
 1 Meddling Mage
-1 Island
 1 Flooded Strand
 1 Deputy of Detention
-1 Hallowed Fountain
 2 Blade Splicer
 2 Deputy of Detention
-2 Spell Queller
-2 Seachrome Coast
 2 Meddling Mage
-2 Island
 2 Lurrus of the Dream-Den
-2 Hallowed Fountain
 2 Flooded Strand
-3 Seachrome Coast
-3 Spell Queller
 3 Deputy of Detention
 3 Meddling Mage
-4 Seachrome Coast
-4 Spell Queller
 4 Meddling Mage
 4 Deputy of Detention
 1 Charming Prince
@@ -149,8 +149,8 @@
 2 Qasali Pridemage
 2 Noble Hierarch
 2 Temple Garden
-2 Scavenging Ooze
 2 Razorverge Thicket
+2 Scavenging Ooze
 3 Temple Garden
 3 Noble Hierarch
 3 Razorverge Thicket
@@ -158,6 +158,21 @@
 4 Horizon Canopy
 4 Restoration Angel
 4 Noble Hierarch
+1 Waterlogged Grove
+1 Tale's End
+1 Teferi, Time Raveler
+1 Spirit of the Labyrinth
+1 Unsettled Mariner
+1 Mausoleum Wanderer
+2 Spirit of the Labyrinth
+2 Tale's End
+2 Teferi, Time Raveler
+2 Unsettled Mariner
+2 Mausoleum Wanderer
+3 Hallowed Fountain
+3 Island
+3 Unsettled Mariner
+4 Hallowed Fountain
 1 Mutavault
 1 Phyrexian Revoker
 2 Mutavault

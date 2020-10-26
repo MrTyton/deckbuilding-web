@@ -1,26 +1,25 @@
-2 Expedition Map
-3 Expedition Map
-1 Pithing Needle
-2 Pithing Needle
-3 Pithing Needle
+2 Thespian's Stage
+1 Crop Rotation
+2 Crop Rotation
+3 Crop Rotation
 4 Crop Rotation
 1 Cavern of Souls
+4 Pithing Needle
+1 Elvish Reclaimer
+2 Elvish Reclaimer
+4 Expedition Map
+1 Dark Depths
 1 Once Upon a Time
 1 Primeval Titan
 2 Primeval Titan
 2 Once Upon a Time
+3 Elvish Reclaimer
 3 Once Upon a Time
 4 Once Upon a Time
-1 Elvish Reclaimer
-2 Elvish Reclaimer
-1 Dark Depths
-1 Kozilek, Butcher of Truth
-3 Elvish Reclaimer
 4 Elvish Reclaimer
-4 Pithing Needle
+1 Kozilek, Butcher of Truth
 1 Glacial Chasm
 3 Primeval Titan
-4 Expedition Map
 1 Ramunap Excavator
 1 Reclamation Sage
 1 Green Sun's Zenith
@@ -28,6 +27,7 @@
 2 Green Sun's Zenith
 3 Green Sun's Zenith
 4 Green Sun's Zenith
+1 The Tabernacle at Pendrell Vale
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
@@ -35,115 +35,96 @@
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest
-2 Ugin, the Spirit Dragon
+1 Sorcerous Spyglass
+2 Sorcerous Spyglass
 2 Walking Ballista
-1 The Tabernacle at Pendrell Vale
+2 Ugin, the Ineffable
 2 All Is Dust
-3 Sorcerous Spyglass
+1 Candelabra of Tawnos
+2 Candelabra of Tawnos
+4 Vesuva
 1 Misty Rainforest
+3 Candelabra of Tawnos
 1 Forest
 2 Forest
 3 Forest
 4 Forest
 5 Forest
 6 Forest
-2 Ugin, the Ineffable
-1 Thran Dynamo
+4 Eldrazi Temple
 1 Wastes
-1 Urborg, Tomb of Yawgmoth
 1 Manifold Key
 2 Manifold Key
-1 Candelabra of Tawnos
-2 Candelabra of Tawnos
+1 Urborg, Tomb of Yawgmoth
+1 Thran Dynamo
 2 Thran Dynamo
-4 Vesuva
-4 Eldrazi Temple
-3 Candelabra of Tawnos
-1 Trinisphere
-7 Forest
+3 Sorcerous Spyglass
 1 Reality Smasher
 2 Reality Smasher
-1 Basalt Monolith
-2 Basalt Monolith
-2 Trinisphere
-1 Forsaken Monument
 1 Sphere of Resistance
-2 Forsaken Monument
 2 Sphere of Resistance
 3 Sphere of Resistance
 4 Sphere of Resistance
+2 Eye of Ugin
+1 Basalt Monolith
+2 Basalt Monolith
+4 Candelabra of Tawnos
+3 Reality Smasher
+4 Reality Smasher
+1 Forsaken Monument
+2 Forsaken Monument
+1 Trinisphere
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 3 Stonecoil Serpent
-3 Reality Smasher
-4 Reality Smasher
 1 Crystal Vein
 1 Endbringer
-2 Eye of Ugin
-1 Staff of Domination
-1 Inventors' Fair
-1 Mystic Forge
-4 Golos, Tireless Pilgrim
-3 Ulamog, the Ceaseless Hunger
-2 Endbringer
-3 City of Traitors
-3 Thran Dynamo
-1 Verdant Catacombs
-1 Ensnaring Bridge
-4 Sorcerous Spyglass
 1 Ancient Stirrings
 1 Warping Wail
 2 Ancient Stirrings
 2 Warping Wail
 3 Ancient Stirrings
-4 Candelabra of Tawnos
+1 Staff of Domination
+1 Mystic Forge
+1 Inventors' Fair
 1 Matter Reshaper
 2 Matter Reshaper
 3 Matter Reshaper
+7 Forest
+4 Golos, Tireless Pilgrim
+2 Trinisphere
+3 Ulamog, the Ceaseless Hunger
+2 Endbringer
+3 City of Traitors
+3 Thran Dynamo
+1 Verdant Catacombs
+1 Sylvan Library
+1 Ensnaring Bridge
+3 All Is Dust
+4 Matter Reshaper
+4 Sorcerous Spyglass
 2 Blast Zone
-1 Emrakul, the Promised End
-4 Primeval Titan
-1 Elvish Rejuvenator
-2 Elvish Rejuvenator
-3 Elvish Rejuvenator
-4 Elvish Rejuvenator
-2 Emrakul, the Aeons Torn
-8 Forest
-1 Summoning Trap
-2 Summoning Trap
-1 Kozilek, the Great Distortion
-1 Eldrazi Mimic
 3 Manifold Key
 3 Trinisphere
 1 Karn, Scion of Urza
-3 Basalt Monolith
 3 Eye of Ugin
-1 Voltaic Key
-2 Voltaic Key
+3 Basalt Monolith
 1 Buried Ruin
 3 Ugin, the Ineffable
 4 Ugin, the Ineffable
-1 Sylvan Library
 2 Ensnaring Bridge
-1 Veil of Summer
-1 Mistcutter Hydra
-2 Veil of Summer
-2 Mistcutter Hydra
+1 Kozilek, the Great Distortion
 1 Karn Liberated
 1 Wasteland
+1 Eldrazi Mimic
 2 Cavern of Souls
 2 Wasteland
 2 Kozilek, Butcher of Truth
 2 Karn, Scion of Urza
 3 Walking Ballista
 3 Blast Zone
-1 Dryad of the Ilysian Grove
-2 Dryad of the Ilysian Grove
-3 Summoning Trap
-3 All Is Dust
 3 Forsaken Monument
 4 Trinisphere
-4 Matter Reshaper
 1 Lodestone Golem
 1 Crucible of Worlds
 2 Lodestone Golem
@@ -151,9 +132,17 @@
 4 City of Traitors
 4 Stonecoil Serpent
 4 Lodestone Golem
+1 Emrakul, the Promised End
+4 Primeval Titan
 8 Snow-Covered Forest
+1 Elvish Rejuvenator
 1 Explore
+2 Elvish Rejuvenator
 2 Explore
+2 Emrakul, the Aeons Torn
+3 Elvish Rejuvenator
+4 Elvish Rejuvenator
+8 Forest
 9 Forest
 1 Oblivion Sower
 1 Kozilek's Channeler

@@ -1,11 +1,13 @@
 1 Path to Exile
 2 Path to Exile
 3 Path to Exile
-2 Collective Brutality
 2 Plains
-4 Path to Exile
+2 Collective Brutality
 1 Dark Confidant
 2 Dark Confidant
+3 Swamp
+4 Concealed Courtyard
+4 Path to Exile
 1 Giver of Runes
 2 Giver of Runes
 1 Caves of Koilos
@@ -13,39 +15,37 @@
 3 Caves of Koilos
 2 Snow-Covered Plains
 1 Ghost Quarter
-1 Leonin Arbiter
+1 Eldrazi Temple
+1 Eldrazi Displacer
 1 Thought-Knot Seer
 1 Thalia, Guardian of Thraben
+1 Leonin Arbiter
 1 Flickerwisp
 1 Aether Vial
-1 Eldrazi Displacer
-1 Eldrazi Temple
-2 Ghost Quarter
-2 Leonin Arbiter
+2 Eldrazi Temple
+2 Eldrazi Displacer
 2 Thought-Knot Seer
 2 Thalia, Guardian of Thraben
+2 Leonin Arbiter
 2 Flickerwisp
 2 Aether Vial
-2 Eldrazi Displacer
-2 Eldrazi Temple
-3 Leonin Arbiter
-3 Ghost Quarter
-3 Thalia, Guardian of Thraben
+2 Ghost Quarter
 3 Giver of Runes
 3 Eldrazi Displacer
 3 Eldrazi Temple
+3 Thalia, Guardian of Thraben
+3 Ghost Quarter
+3 Leonin Arbiter
 3 Thought-Knot Seer
 3 Aether Vial
-4 Ghost Quarter
-4 Leonin Arbiter
 4 Eldrazi Temple
 4 Aether Vial
-4 Concealed Courtyard
+4 Leonin Arbiter
+4 Ghost Quarter
+3 Dark Confidant
+3 Field of Ruin
 4 Thought-Knot Seer
 1 Tectonic Edge
-3 Swamp
-3 Field of Ruin
-3 Dark Confidant
 1 Unearth
 1 Thalia, Heretic Cathar
 3 Snow-Covered Plains
@@ -54,9 +54,9 @@
 4 Thalia, Guardian of Thraben
 5 Snow-Covered Plains
 4 Caves of Koilos
+4 Dark Confidant
 1 Anguished Unmaking
 2 Unearth
-1 Gideon, Ally of Zendikar
 1 Wasteland Strangler
 3 Godless Shrine
 4 Thoughtseize
@@ -75,9 +75,7 @@
 4 Street Wraith
 4 Ranger-Captain of Eos
 4 Death's Shadow
-4 Dark Confidant
-1 Fetid Heath
-3 Plains
+1 Gideon, Ally of Zendikar
 1 Arid Mesa
 1 Bloodstained Mire
 2 Arid Mesa
@@ -85,29 +83,34 @@
 3 Arid Mesa
 3 Bloodstained Mire
 2 Snow-Covered Swamp
-1 Windbrisk Heights
-1 Bitterblossom
-1 Sorin, Solemn Visitor
-2 Windbrisk Heights
-2 Fetid Heath
-2 Bitterblossom
-3 Bitterblossom
-4 Lingering Souls
-4 Shambling Vent
 4 Field of Ruin
+1 Fetid Heath
+3 Plains
+4 Lingering Souls
 1 Liliana, the Last Hope
 1 Monastery Mentor
 2 Wasteland Strangler
 2 Monastery Mentor
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
+1 Bitterblossom
+1 Windbrisk Heights
+1 Sorin, Solemn Visitor
+2 Windbrisk Heights
+2 Fetid Heath
+2 Bitterblossom
+3 Bitterblossom
+4 Shambling Vent
 1 Wastes
+1 Urborg, Tomb of Yawgmoth
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
 1 Sword of Light and Shadow
-1 Cast Down
-1 Urborg, Tomb of Yawgmoth
+1 Kaya, Orzhov Usurper
+1 Windswept Heath
+1 Mutavault
 1 Flagstones of Trokair
+1 Cast Down
 2 Flagstones of Trokair
 1 Polluted Delta
 1 Flooded Strand
@@ -115,29 +118,22 @@
 2 Flooded Strand
 3 Flooded Strand
 3 Polluted Delta
-1 Aven Mindcensor
-4 Flickerwisp
 4 Swamp
-1 Castle Ardenvale
 1 Lurrus of the Dream-Den
 1 Mishra's Bauble
+1 Castle Ardenvale
 1 Nihil Spellbomb
-2 Nihil Spellbomb
 2 Mishra's Bauble
 2 Lurrus of the Dream-Den
+2 Nihil Spellbomb
 3 Mishra's Bauble
 4 Mishra's Bauble
+1 Charming Prince
+2 Charming Prince
+4 Giver of Runes
+4 Eldrazi Displacer
 1 Ashiok, Dream Render
 2 Ashiok, Dream Render
 4 Skyclave Apparition
-1 Spectral Procession
-2 Sorin, Solemn Visitor
-2 Spectral Procession
-3 Spectral Procession
-3 Windbrisk Heights
-4 Bitterblossom
-4 Spectral Procession
-1 Charming Prince
-2 Charming Prince
-4 Eldrazi Displacer
-4 Giver of Runes
+1 Aven Mindcensor
+4 Flickerwisp
