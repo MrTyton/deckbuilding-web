@@ -46,8 +46,8 @@
 2 Edgewall Innkeeper
 2 Evolving Wilds
 2 Lovestruck Beast
-3 Primal Might
 3 Rimrock Knight
+3 Primal Might
 3 Embercleave
 3 Bonecrusher Giant
 3 Lovestruck Beast
@@ -57,8 +57,8 @@
 3 Brushfire Elemental
 3 Kazandu Mammoth
 4 Questing Beast
-4 Primal Might
 4 Rimrock Knight
+4 Primal Might
 4 Bonecrusher Giant
 4 Lovestruck Beast
 4 Edgewall Innkeeper
@@ -73,41 +73,42 @@
 1 Stonecoil Serpent
 1 Crawling Barrens
 1 Crystalline Giant
-1 Palladium Myr
 1 Forsaken Monument
 1 Bloodchief's Thirst
 1 Labyrinth of Skophos
 1 Radiant Fountain
+1 Palladium Myr
 1 Swamp
 1 Myriad Construct
 1 Indatha Triome
 2 Mazemind Tome
 2 Golden Egg
+2 Forsaken Monument
 2 Stonecoil Serpent
 2 Hagra Mauling
 2 Bonders' Enclave
 2 Crystalline Giant
-2 Palladium Myr
-2 Forsaken Monument
 2 Labyrinth of Skophos
 2 Radiant Fountain
 2 Crawling Barrens
 2 Bloodchief's Thirst
 2 Swamp
 2 Indatha Triome
+2 Palladium Myr
 2 Myriad Construct
 3 Mazemind Tome
+3 Myriad Construct
 3 Golden Egg
 3 Swamp
 3 Bloodchief's Thirst
 3 Stonecoil Serpent
-3 Crystalline Giant
-3 Palladium Myr
 3 Forsaken Monument
+3 Crystalline Giant
 3 Labyrinth of Skophos
 3 Radiant Fountain
-3 Myriad Construct
+3 Palladium Myr
 3 Indatha Triome
+4 Myriad Construct
 4 Indatha Triome
 4 Mazemind Tome
 4 Golden Egg
@@ -115,17 +116,16 @@
 4 Stonecoil Serpent
 4 Swamp
 4 Crystalline Giant
-4 Palladium Myr
 4 Radiant Fountain
+4 Palladium Myr
 4 Labyrinth of Skophos
 4 Forsaken Monument
-4 Myriad Construct
 5 Swamp
 6 Swamp
-1 Experimental Overload
 1 God-Eternal Kefnet
 1 Frantic Inventory
 1 Lofty Denial
+1 Experimental Overload
 1 Crackling Drake
 1 Niv-Mizzet, Parun
 1 Swiftwater Cliffs
@@ -138,9 +138,9 @@
 1 The Royal Scions
 1 Sprite Dragon
 1 Opt
-2 Experimental Overload
 2 Frantic Inventory
 2 Lofty Denial
+2 Experimental Overload
 2 Swiftwater Cliffs
 2 Ominous Seas
 2 Flame Sweep

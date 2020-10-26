@@ -3,22 +3,24 @@
 3 Noble Hierarch
 4 Razorverge Thicket
 3 Forest
-2 Verdant Catacombs
 1 Chord of Calling
+2 Verdant Catacombs
 1 Misty Rainforest
 1 Lurrus of the Dream-Den
 1 Ranger-Captain of Eos
 1 Scavenging Ooze
 2 Ranger-Captain of Eos
+2 Eldritch Evolution
 1 Shalai, Voice of Plenty
+4 Noble Hierarch
 1 Collected Company
 2 Collected Company
 3 Collected Company
 4 Collected Company
 1 Carrion Feeder
+1 Overgrown Tomb
 1 Kitchen Finks
 1 Heliod, Sun-Crowned
-1 Overgrown Tomb
 1 Spike Feeder
 2 Heliod, Sun-Crowned
 2 Kitchen Finks
@@ -26,14 +28,15 @@
 3 Kitchen Finks
 3 Spike Feeder
 3 Heliod, Sun-Crowned
-4 Noble Hierarch
 4 Spike Feeder
 4 Heliod, Sun-Crowned
 3 Ranger-Captain of Eos
+4 Horizon Canopy
 1 Selfless Savior
 2 Selfless Savior
-1 Marsh Flats
+3 Duskwatch Recruiter
 1 Swamp
+1 Marsh Flats
 1 Godless Shrine
 1 Nurturing Peatland
 1 Conclave Mentor
@@ -43,56 +46,53 @@
 1 Knight of Autumn
 1 Dryad Arbor
 1 Stomping Ground
-2 Eldritch Evolution
 3 Eldritch Evolution
 1 Simian Spirit Guide
 2 Simian Spirit Guide
 3 Verdant Catacombs
-4 Horizon Canopy
-1 Caustic Caterpillar
 1 Magus of the Moon
+1 Caustic Caterpillar
 1 Arid Mesa
 2 Lurrus of the Dream-Den
-3 Duskwatch Recruiter
 1 Wooded Bastion
 2 Shalai, Voice of Plenty
 4 Verdant Catacombs
 1 Karn, the Great Creator
 1 Anafenza, Kin-Tree Spirit
-2 Carrion Feeder
 2 Karn, the Great Creator
+2 Carrion Feeder
 3 Karn, the Great Creator
 4 Kitchen Finks
 1 Hardened Scales
 2 Hardened Scales
 4 Conclave Mentor
-1 Breeding Pool
 1 Eternal Witness
+1 Breeding Pool
 1 Gemstone Caverns
 1 Fauna Shaman
-1 Chancellor of the Tangle
 1 Chalice of the Void
+1 Chancellor of the Tangle
 2 Fauna Shaman
 2 Gemstone Caverns
-2 Chancellor of the Tangle
 2 Chalice of the Void
-3 Simian Spirit Guide
+2 Chancellor of the Tangle
 3 Fauna Shaman
 3 Chalice of the Void
 3 Chancellor of the Tangle
-4 Simian Spirit Guide
+3 Simian Spirit Guide
 4 Fauna Shaman
 4 Chalice of the Void
 4 Chancellor of the Tangle
+4 Simian Spirit Guide
 1 Leyline of Abundance
 1 Turntimber Symbiosis
 1 Elvish Visionary
+1 Reclamation Sage
 1 Joraga Treespeaker
 1 Boreal Druid
 1 Emrakul, the Aeons Torn
 1 Heritage Druid
 1 Ezuri, Renegade Leader
-1 Reclamation Sage
 1 Llanowar Elves
 1 Elvish Mystic
 2 Leyline of Abundance
@@ -100,8 +100,8 @@
 2 Elvish Visionary
 2 Joraga Treespeaker
 2 Boreal Druid
-2 Heritage Druid
 2 Elvish Mystic
+2 Heritage Druid
 2 Ezuri, Renegade Leader
 2 Llanowar Elves
 3 Leyline of Abundance

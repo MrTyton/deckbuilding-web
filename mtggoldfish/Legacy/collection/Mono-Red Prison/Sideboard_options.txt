@@ -1,8 +1,6 @@
 2 Anje's Ravager
 1 Great Furnace
 3 Chandra, Torch of Defiance
-1 Abrade
-2 Abrade
 4 Chandra, Torch of Defiance
 1 Chandra, Awakened Inferno
 2 Chandra, Awakened Inferno
@@ -12,15 +10,17 @@
 2 Bottled Cloister
 3 Bottled Cloister
 1 Scab-Clan Berserker
-1 Legion Warboss
+1 Abrade
+2 Abrade
 3 Magus of the Moon
 1 Torpor Orb
 1 Fiery Confluence
-1 Meteor Golem
-2 Legion Warboss
 2 Torpor Orb
 1 Lion's Eye Diamond
 2 Bonecrusher Giant
+1 Legion Warboss
+1 Meteor Golem
+2 Legion Warboss
 2 Scab-Clan Berserker
 1 Sulfur Elemental
 1 Red Elemental Blast
@@ -36,13 +36,32 @@
 1 Trinisphere
 2 Ensnaring Bridge
 3 Ensnaring Bridge
-1 Cinderclasm
 1 Phyrexian Revoker
-1 Kozilek's Return
 1 Helm of Obedience
-1 Pyroblast
+1 Kozilek's Return
+1 Cinderclasm
 1 Pithing Needle
+1 Pyroblast
 2 Pyroblast
+3 Bonecrusher Giant
+4 Bonecrusher Giant
+4 Magus of the Moon
+1 Punishing Fire
+1 Thought-Knot Seer
+1 Umezawa's Jitte
+2 Punishing Fire
+2 Thought-Knot Seer
+3 Punishing Fire
+3 Thought-Knot Seer
+4 Thought-Knot Seer
+4 Punishing Fire
+1 Karakas
+2 Karakas
+3 Karakas
+4 Karakas
+4 Ensnaring Bridge
+2 Trinisphere
+4 Abrade
 1 Dead/Gone
 1 Hazoret the Fervent
 2 Fiery Confluence
@@ -51,22 +70,3 @@
 3 Fiery Confluence
 3 Chandra, Awakened Inferno
 3 Dead/Gone
-3 Bonecrusher Giant
-4 Bonecrusher Giant
-4 Magus of the Moon
-2 Trinisphere
-4 Abrade
-1 Thought-Knot Seer
-1 Umezawa's Jitte
-1 Punishing Fire
-2 Thought-Knot Seer
-2 Punishing Fire
-3 Punishing Fire
-3 Thought-Knot Seer
-4 Punishing Fire
-4 Thought-Knot Seer
-1 Karakas
-2 Karakas
-3 Karakas
-4 Ensnaring Bridge
-4 Karakas

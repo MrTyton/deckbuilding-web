@@ -204,9 +204,9 @@
 1 Possibility Storm
 1 Phyrexian Unlife
 2 Spell Queller
+2 Fae of Wishes
 2 Wall of Omens
 2 Snow-Covered Plains
-2 Fae of Wishes
 2 Drannith Magistrate
 2 Prismatic Vista
 2 Delay
@@ -220,6 +220,7 @@
 2 Flooded Strand
 2 Commandeer
 3 Spell Queller
+3 Fae of Wishes
 3 Snow-Covered Island
 3 Wall of Omens
 3 Drannith Magistrate
@@ -229,10 +230,10 @@
 3 Snow-Covered Plains
 3 Phyrexian Unlife
 3 Flooded Strand
-3 Fae of Wishes
 3 Possibility Storm
 3 Scalding Tarn
 4 Spell Queller
+4 Fae of Wishes
 4 Drannith Magistrate
 4 Prismatic Vista
 4 Delay
@@ -242,44 +243,43 @@
 4 Force of Negation
 4 Phyrexian Unlife
 4 Scalding Tarn
-4 Fae of Wishes
 4 Flooded Strand
 4 Snow-Covered Plains
 5 Snow-Covered Island
 5 Snow-Covered Plains
+1 Beyeen Veil
 1 Silundi Vision
 1 Jwari Disruption
-1 Skyclave Cleric
 1 Talisman of Progress
 1 Disrupting Shoal
+1 Skyclave Cleric
 1 Teferi, Hero of Dominaria
-1 Beyeen Veil
 1 Pieces of the Puzzle
 1 Path to Exile
 1 Selective Memory
 1 Snapback
 2 Silundi Vision
-2 Skyclave Cleric
+2 Beyeen Veil
 2 Jwari Disruption
 2 Talisman of Progress
 2 Disrupting Shoal
+2 Skyclave Cleric
 2 Selective Memory
 2 Path to Exile
 2 Snapback
-2 Beyeen Veil
 2 Pieces of the Puzzle
-3 Silundi Vision
 3 Talisman of Progress
 3 Jwari Disruption
+3 Silundi Vision
 3 Disrupting Shoal
 3 Snapback
 3 Path to Exile
 3 Selective Memory
 4 Jwari Disruption
 4 Disrupting Shoal
+4 Silundi Vision
 4 Talisman of Progress
 4 Selective Memory
-4 Silundi Vision
 1 Worldspine Wurm
 1 Through the Breach
 1 Wooded Foothills
@@ -375,32 +375,32 @@
 1 Devoted Druid
 1 Vizier of Remedies
 1 Elesh Norn, Grand Cenobite
-1 Gemstone Caverns
 1 Flickerwisp
+1 Charming Prince
+1 Gemstone Caverns
 1 Dubious Challenge
 1 Plains
 1 Temple Garden
-1 Charming Prince
 1 Utopia Sprawl
 1 Eladamri's Call
 2 Windswept Heath
-2 Worldspine Wurm
 2 Devoted Druid
 2 Stomping Ground
+2 Charming Prince
+2 Flickerwisp
+2 Worldspine Wurm
 2 Plains
 2 Dubious Challenge
 2 Utopia Sprawl
 2 Eladamri's Call
 2 Gemstone Caverns
-2 Flickerwisp
-2 Charming Prince
 2 Temple Garden
 3 Windswept Heath
 3 Devoted Druid
-3 Dubious Challenge
-3 Eladamri's Call
 3 Flickerwisp
 3 Charming Prince
+3 Dubious Challenge
+3 Eladamri's Call
 3 Temple Garden
 3 Utopia Sprawl
 4 Windswept Heath

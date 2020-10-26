@@ -26,15 +26,18 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
-|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    1|Skyclave Shade                                                                            |
-|                    2|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    2|Skyclave Shade                                                                            |
-|                    3|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    1|[Dystopia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3071)         |
-|                    4|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    1|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413634)|
-|                    5|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    2|[Dystopia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3071)         |
-|                    6|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    2|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413634)|
-|                    7|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    1|[Dreamstealer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430752)   |
-|                    8|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                     |                                                                                          |
-|                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)           |                     |                                                                                          |
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    1|[Dystopia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3071)                |
+|                    2|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    1|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413634)       |
+|                    3|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    1|[Dreamstealer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430752)          |
+|                    4|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    2|[Dystopia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3071)                |
+|                    5|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    2|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413634)       |
+|                    6|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    1|Skyclave Shade                                                                                   |
+|                    7|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    2|Skyclave Shade                                                                                   |
+|                    8|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    1|[Chains of Mephistopheles](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1431)|
+|                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)           |                    1|[Eliminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485420)             |
+|                    1|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)   |                    2|[Chains of Mephistopheles](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1431)|
+|                    2|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)   |                    2|[Eliminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485420)             |
+|                     |                                                                                             |                    3|[Chains of Mephistopheles](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1431)|
 

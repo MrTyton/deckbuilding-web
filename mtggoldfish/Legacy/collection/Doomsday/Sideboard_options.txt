@@ -1,21 +1,20 @@
 1 Pyroblast
-1 Cavern of Souls
 1 Red Elemental Blast
-2 Surgical Extraction
+1 Cavern of Souls
 3 Veil of Summer
 2 Defense Grid
+2 Surgical Extraction
 1 Abrade
-1 Goblin Cratermaker
 1 Grafdigger's Cage
-2 Goblin Cratermaker
+1 Goblin Cratermaker
 1 Chain of Vapor
+2 Goblin Cratermaker
 2 Pyroblast
 1 Force of Negation
-2 Red Elemental Blast
-2 Abrade
-1 Spell Pierce
-1 Bayou
 1 Echoing Truth
+2 Abrade
+2 Red Elemental Blast
+1 Bayou
 1 Thassa's Oracle
 1 Doomsday
 2 Doomsday
@@ -24,6 +23,7 @@
 3 Abrupt Decay
 2 Grafdigger's Cage
 1 Assassin's Trophy
+1 Spell Pierce
 1 Edge of Autumn
 1 Baleful Strix
 1 Street Wraith
@@ -35,15 +35,17 @@
 1 Null Rod
 2 Null Rod
 3 Defense Grid
+2 Echoing Truth
 1 Liliana, the Last Hope
 2 Liliana, the Last Hope
-2 Echoing Truth
+2 Force of Negation
+3 Pyroblast
 1 Xantid Swarm
 2 Xantid Swarm
 3 Fatal Push
-3 Pyroblast
 2 Baleful Strix
 1 Uro, Titan of Nature's Wrath
+1 Dread of Night
 1 Ashiok, Dream Render
 1 Tropical Island
 1 Narset, Parter of Veils
@@ -52,10 +54,6 @@
 1 Meltdown
 1 Yahenni's Expertise
 1 Treasure Map
-2 Force of Negation
-1 Young Pyromancer
-2 Young Pyromancer
-2 Spell Pierce
 1 Tendrils of Agony
 1 Echo of Eons
 1 Collective Brutality

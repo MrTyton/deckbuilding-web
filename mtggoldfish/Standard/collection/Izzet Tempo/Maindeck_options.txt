@@ -1,38 +1,37 @@
-2 Shatterskull Smashing
-1 The Royal Scions
+6 Mountain
 3 Riddleform
-3 Mystical Dispute
 3 Bonecrusher Giant
+1 The Royal Scions
 4 Magmatic Channeler
 4 Riddleform
+4 Bonecrusher Giant
+3 Mystical Dispute
+3 Shatterskull Smashing
+1 Sea Gate Stormcaller
+7 Island
+2 Sea Gate Stormcaller
 1 Heartfire Immolator
 2 Heartfire Immolator
 2 The Royal Scions
 3 Heartfire Immolator
-1 Sea Gate Stormcaller
-2 Sea Gate Stormcaller
-4 Bonecrusher Giant
-7 Island
 1 Stern Dismissal
 2 Stern Dismissal
-3 Shatterskull Smashing
-1 Fabled Passage
-3 Stern Dismissal
-1 Thundering Rebuke
-2 Thundering Rebuke
 4 Shatterskull Smashing
+3 Stern Dismissal
+1 Fabled Passage
 3 Sea Gate Stormcaller
 3 Brazen Borrower
 4 Stern Dismissal
+1 Thundering Rebuke
+2 Thundering Rebuke
 3 Thundering Rebuke
 1 Lofty Denial
 2 Lofty Denial
-2 Fabled Passage
 1 Phoenix of Ash
+2 Fabled Passage
 4 Thundering Rebuke
 4 Sea Gate Stormcaller
 1 Kazuul's Fury
-3 Fabled Passage
 4 Brazen Borrower
 2 Phoenix of Ash
 1 Robber of the Rich
@@ -40,41 +39,22 @@
 1 Negate
 8 Island
 7 Mountain
-1 Ox of Agonas
-1 Thrill of Possibility
-2 Thrill of Possibility
-3 Thrill of Possibility
-1 Frantic Inventory
-2 Frantic Inventory
-3 Frantic Inventory
-4 Frantic Inventory
-1 Experimental Overload
-2 Experimental Overload
-1 Ominous Seas
-1 Blitz of the Thunder-Raptor
-1 Cathartic Reunion
-2 Ominous Seas
-2 Blitz of the Thunder-Raptor
-2 Cathartic Reunion
-2 Ox of Agonas
-3 Ominous Seas
-3 Blitz of the Thunder-Raptor
-3 Cathartic Reunion
-4 Fabled Passage
-4 Blitz of the Thunder-Raptor
-4 Cathartic Reunion
-4 Ominous Seas
+3 Fabled Passage
 1 Purphoros's Intervention
 1 Unsubstantiate
 2 Unsubstantiate
 2 Purphoros's Intervention
+1 Miscast
+2 Miscast
+1 Jwari Disruption
+2 Jwari Disruption
+3 Jwari Disruption
+4 Jwari Disruption
+1 Gadwick, the Wizened
+2 Gadwick, the Wizened
 1 Infuriate
 3 Lofty Denial
 4 Lofty Denial
-1 Miscast
-2 Miscast
-1 Gadwick, the Wizened
-2 Gadwick, the Wizened
 1 Soul Sear
 2 Soul Sear
 3 Phoenix of Ash
@@ -89,6 +69,7 @@
 9 Island
 1 Glasspool Mimic
 1 Lore Drakkis
+1 Ox of Agonas
 1 Traitorous Greed
 1 Glimpse of Freedom
 1 Jace, Mirror Mage
@@ -101,10 +82,24 @@
 1 Scorching Dragonfire
 2 Scorching Dragonfire
 4 Phoenix of Ash
-1 Jwari Disruption
-2 Jwari Disruption
-3 Jwari Disruption
-4 Jwari Disruption
+1 Blitz of the Thunder-Raptor
+2 Blitz of the Thunder-Raptor
+3 Blitz of the Thunder-Raptor
+4 Fabled Passage
+4 Blitz of the Thunder-Raptor
+1 Silundi Vision
+1 Frantic Inventory
+1 Deliberate
+1 Swiftwater Cliffs
+2 Frantic Inventory
+2 Swiftwater Cliffs
+2 Deliberate
+3 Frantic Inventory
+3 Swiftwater Cliffs
+3 Deliberate
+4 Frantic Inventory
+4 Deliberate
+4 Swiftwater Cliffs
 1 Shell Shield
 1 Satyr's Cunning
 2 Shell Shield
@@ -115,45 +110,41 @@
 4 Mystical Dispute
 4 Robber of the Rich
 1 Fire Prophecy
+1 Experimental Overload
+2 Experimental Overload
 3 Essence Scatter
 3 Shark Typhoon
 3 Experimental Overload
-4 Experimental Overload
 4 Essence Scatter
-1 Silundi Vision
-1 Deliberate
-1 Swiftwater Cliffs
-2 Swiftwater Cliffs
-2 Deliberate
-3 Swiftwater Cliffs
-3 Deliberate
-4 Swiftwater Cliffs
-4 Deliberate
+4 Experimental Overload
+1 Thrill of Possibility
 2 Infuriate
+2 Thrill of Possibility
+3 Thrill of Possibility
 4 Thrill of Possibility
 3 Gadwick, the Wizened
 4 Gadwick, the Wizened
-1 Into the Roil
-1 Needleverge Pathway
 1 Raugrin Triome
-1 Forbidden Friendship
+1 Needleverge Pathway
+1 Into the Roil
 1 Merchant of the Vale
 1 Startling Development
 1 Vadrok, Apex of Thunder
+1 Forbidden Friendship
 1 See the Truth
 1 Of One Mind
 2 Needleverge Pathway
-2 Forbidden Friendship
 2 Of One Mind
+2 Forbidden Friendship
 2 See the Truth
 2 Vadrok, Apex of Thunder
 3 Needleverge Pathway
-3 Forbidden Friendship
 3 Vadrok, Apex of Thunder
 3 See the Truth
+3 Forbidden Friendship
 4 Needleverge Pathway
-4 Forbidden Friendship
 4 Vadrok, Apex of Thunder
+4 Forbidden Friendship
 4 See the Truth
 1 Fateful End
 2 Fateful End

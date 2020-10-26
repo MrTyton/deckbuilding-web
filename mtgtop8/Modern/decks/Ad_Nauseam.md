@@ -52,6 +52,6 @@
 |                     |                                                                                              |                    1|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613) |
 |                     |                                                                                              |                    1|[Grave Titan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389540)           |
 |                     |                                                                                              |                    2|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613) |
-|                     |                                                                                              |                    3|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)|
 |                     |                                                                                              |                    2|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)|
+|                     |                                                                                              |                    3|[Bontu's Last Reckoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430749)|
 

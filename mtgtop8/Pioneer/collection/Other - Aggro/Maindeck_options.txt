@@ -22,8 +22,8 @@
 1 Voice of Resurgence
 2 Voice of Resurgence
 3 Voice of Resurgence
-4 Voice of Resurgence
 4 Temple Garden
+4 Voice of Resurgence
 4 Plains
 1 Paradise Druid
 2 Paradise Druid
@@ -115,18 +115,18 @@
 3 Llanowar Wastes
 4 Llanowar Wastes
 2 Agadeem's Awakening
+1 Hagra Mauling
 1 Prized Amalgam
 1 Haunted Dead
 1 Creeping Chill
 1 Undercity Informer
+1 Pelakka Predation
 1 Worldspine Wurm
 1 Sea Gate Restoration
 1 Balustrade Spy
 1 Silversmote Ghoul
-1 Pelakka Predation
-1 Hagra Mauling
-2 Hagra Mauling
 2 Worldspine Wurm
+2 Hagra Mauling
 2 Prized Amalgam
 2 Silversmote Ghoul
 2 Creeping Chill
@@ -134,17 +134,17 @@
 2 Pelakka Predation
 2 Undercity Informer
 2 Sea Gate Restoration
-3 Silversmote Ghoul
 3 Creeping Chill
+3 Silversmote Ghoul
 3 Prized Amalgam
 3 Balustrade Spy
 3 Undercity Informer
 3 Sea Gate Restoration
 3 Agadeem's Awakening
-4 Balustrade Spy
 4 Agadeem's Awakening
-4 Prized Amalgam
 4 Creeping Chill
+4 Balustrade Spy
+4 Prized Amalgam
 4 Undercity Informer
 4 Sea Gate Restoration
 1 Thoughtseize
@@ -154,10 +154,10 @@
 1 Blackbloom Rogue
 1 Thought Erasure
 1 Jwari Disruption
-2 Haunted Dead
 2 Blackbloom Rogue
 2 Thought Erasure
 2 Jwari Disruption
+2 Haunted Dead
 3 Thought Erasure
 3 Pelakka Predation
 3 Jwari Disruption
@@ -232,28 +232,17 @@
 4 Hallowed Fountain
 3 Island
 4 Island
-1 Opt
 1 Into the Roil
+1 Opt
 2 Opt
-3 Opt
 3 Blackbloom Rogue
-4 Silversmote Ghoul
+3 Opt
 4 Blackbloom Rogue
+4 Silversmote Ghoul
 1 Skyclave Shade
 1 Korvold, Fae-Cursed King
 3 Blood Crypt
 4 Blood Crypt
-1 Beyeen Veil
-1 Soul-Guide Lantern
-2 Beyeen Veil
-2 Soul-Guide Lantern
-3 Hagra Mauling
-3 Beyeen Veil
-3 Soul-Guide Lantern
-4 Pelakka Predation
-4 Hagra Mauling
-4 Beyeen Veil
-4 Soul-Guide Lantern
 1 Eldritch Evolution
 1 Turntimber Symbiosis
 1 Sylvan Caryatid
@@ -263,56 +252,42 @@
 2 Sylvan Caryatid
 2 Bala Ged Recovery
 3 Bala Ged Recovery
-3 Turntimber Symbiosis
 3 Eldritch Evolution
+3 Turntimber Symbiosis
 3 Sylvan Caryatid
-4 Turntimber Symbiosis
 4 Bala Ged Recovery
+4 Turntimber Symbiosis
 4 Eldritch Evolution
 4 Sylvan Caryatid
-1 Unclaimed Territory
-1 Acquisitions Expert
-1 Archpriest of Iona
-1 Rogue Refiner
-1 Bloodsoaked Champion
-1 Hamlet Captain
-1 Gust Walker
-2 Unclaimed Territory
-2 Acquisitions Expert
-2 Archpriest of Iona
-2 Rogue Refiner
-2 Bloodsoaked Champion
-2 Gust Walker
-2 Hamlet Captain
-3 Mana Confluence
-3 Acquisitions Expert
-3 Unclaimed Territory
-3 Archpriest of Iona
-3 Rogue Refiner
-3 Reflector Mage
-4 Mana Confluence
-4 Acquisitions Expert
-4 Archpriest of Iona
-4 Unclaimed Territory
-4 Reflector Mage
 1 Skyclave Cleric
 1 Charming Prince
-1 Skyclave Apparition
 1 Militia Bugler
-2 Skyclave Cleric
+1 Skyclave Apparition
+2 Militia Bugler
 2 Branchloft Pathway
+2 Skyclave Cleric
 2 Charming Prince
 2 Skyclave Apparition
-2 Militia Bugler
 3 Branchloft Pathway
 3 Charming Prince
 3 Skyclave Apparition
 3 Militia Bugler
 4 Branchloft Pathway
 4 Skyclave Apparition
+4 Glasspool Mimic
 4 Charming Prince
 4 Militia Bugler
-4 Glasspool Mimic
+1 Beyeen Veil
+1 Soul-Guide Lantern
+2 Beyeen Veil
+2 Soul-Guide Lantern
+3 Hagra Mauling
+3 Soul-Guide Lantern
+3 Beyeen Veil
+4 Pelakka Predation
+4 Hagra Mauling
+4 Soul-Guide Lantern
+4 Beyeen Veil
 1 Merfolk Windrobber
 1 Into the Story
 1 Deathrite Shaman
@@ -335,6 +310,31 @@
 4 Deathrite Shaman
 4 Chart a Course
 4 Botanical Sanctum
+1 Unclaimed Territory
+1 Acquisitions Expert
+1 Rogue Refiner
+1 Archpriest of Iona
+1 Bloodsoaked Champion
+1 Hamlet Captain
+1 Gust Walker
+2 Unclaimed Territory
+2 Acquisitions Expert
+2 Rogue Refiner
+2 Bloodsoaked Champion
+2 Gust Walker
+2 Archpriest of Iona
+2 Hamlet Captain
+3 Mana Confluence
+3 Acquisitions Expert
+3 Unclaimed Territory
+3 Rogue Refiner
+3 Reflector Mage
+3 Archpriest of Iona
+4 Mana Confluence
+4 Acquisitions Expert
+4 Unclaimed Territory
+4 Reflector Mage
+4 Archpriest of Iona
 1 Ketria Triome
 2 Breeding Pool
 2 Ketria Triome
@@ -379,8 +379,8 @@
 4 Elvish Mystic
 4 Llanowar Elves
 1 Jadelight Ranger
-1 Hinterland Harbor
 1 Courser of Kruphix
+1 Hinterland Harbor
 1 Fierce Empath
 1 Yavimaya Coast
 1 Arboreal Grazer
@@ -401,8 +401,8 @@
 2 Yavimaya Coast
 2 Arboreal Grazer
 2 Cavalier of Thorns
-2 Elder Deep-Fiend
 2 Sanctum of Ugin
+2 Elder Deep-Fiend
 2 Scavenging Ooze
 2 Kozilek's Return
 2 Satyr Wayfinder
@@ -437,8 +437,8 @@
 3 Drowned Catacomb
 3 Nighthawk Scavenger
 3 Mystical Dispute
-4 Drowned Catacomb
 4 Nighthawk Scavenger
+4 Drowned Catacomb
 4 Swamp
 4 Mystical Dispute
 5 Swamp
