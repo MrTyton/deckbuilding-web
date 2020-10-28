@@ -30,13 +30,13 @@
 2 Cryptic Command
 1 Path to Exile
 2 Path to Exile
-1 Uro, Titan of Nature's Wrath
 1 Gilded Goose
+1 Uro, Titan of Nature's Wrath
 1 Forest
 1 Breeding Pool
 2 Uro, Titan of Nature's Wrath
-2 Breeding Pool
 2 Gilded Goose
+2 Breeding Pool
 3 Uro, Titan of Nature's Wrath
 3 Gilded Goose
 4 Gilded Goose
@@ -85,12 +85,12 @@
 1 Temple Garden
 1 Dreadbore
 1 Spine of Ish Sah
-1 Seachrome Coast
-2 Seachrome Coast
+1 Lonely Sandbar
 1 Glacial Fortress
 1 Sai, Master Thopterist
-1 Lonely Sandbar
 2 Sai, Master Thopterist
+1 Seachrome Coast
+2 Seachrome Coast
 1 Cavern of Souls
 2 Cavern of Souls
 1 Lurrus of the Dream-Den
@@ -100,9 +100,9 @@
 1 Serum Visions
 1 Archmage's Charm
 1 Relic of Progenitus
-1 Darksteel Citadel
 1 Remand
 1 Prairie Stream
+1 Darksteel Citadel
 2 Archmage's Charm
 2 Remand
 3 Archmage's Charm
@@ -119,15 +119,14 @@
 1 Walking Ballista
 1 Mirran Spy
 2 Mazemind Tome
-2 Walking Ballista
 2 Prismatic Vista
+2 Walking Ballista
 2 Glimmervoid
 3 Prismatic Vista
 3 Glimmervoid
 4 Prismatic Vista
 4 Glimmervoid
 1 Tormod's Crypt
-1 Witchbane Orb
 1 Crucible of Worlds
 1 Ghost Quarter
 1 Torpor Orb
@@ -136,6 +135,7 @@
 1 Cascade Bluffs
 1 Grafdigger's Cage
 1 Welding Jar
+1 Witchbane Orb
 1 Bottled Cloister
 1 Tolaria West
 1 Blast Zone

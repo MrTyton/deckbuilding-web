@@ -21,11 +21,11 @@
 4 Mountain
 5 Mountain
 6 Mountain
-1 Embercleave
 1 Bonecrusher Giant
 1 Shatterskull Smashing
 1 Questing Beast
 1 Kazandu Mammoth
+1 Embercleave
 1 Cragcrown Pathway
 1 Brushfire Elemental
 1 Primal Might
@@ -34,7 +34,6 @@
 1 Evolving Wilds
 1 Lovestruck Beast
 2 Rimrock Knight
-2 Embercleave
 2 Scavenging Ooze
 2 Bonecrusher Giant
 2 Shatterskull Smashing
@@ -43,6 +42,7 @@
 2 Kazandu Mammoth
 2 Questing Beast
 2 Cragcrown Pathway
+2 Embercleave
 2 Edgewall Innkeeper
 2 Evolving Wilds
 2 Lovestruck Beast
@@ -76,8 +76,8 @@
 1 Forsaken Monument
 1 Bloodchief's Thirst
 1 Labyrinth of Skophos
-1 Radiant Fountain
 1 Palladium Myr
+1 Radiant Fountain
 1 Swamp
 1 Myriad Construct
 1 Indatha Triome
@@ -92,12 +92,11 @@
 2 Radiant Fountain
 2 Crawling Barrens
 2 Bloodchief's Thirst
+2 Palladium Myr
 2 Swamp
 2 Indatha Triome
-2 Palladium Myr
 2 Myriad Construct
 3 Mazemind Tome
-3 Myriad Construct
 3 Golden Egg
 3 Swamp
 3 Bloodchief's Thirst
@@ -107,8 +106,8 @@
 3 Labyrinth of Skophos
 3 Radiant Fountain
 3 Palladium Myr
+3 Myriad Construct
 3 Indatha Triome
-4 Myriad Construct
 4 Indatha Triome
 4 Mazemind Tome
 4 Golden Egg
@@ -120,12 +119,12 @@
 4 Palladium Myr
 4 Labyrinth of Skophos
 4 Forsaken Monument
+4 Myriad Construct
 5 Swamp
 6 Swamp
 1 God-Eternal Kefnet
 1 Frantic Inventory
 1 Lofty Denial
-1 Experimental Overload
 1 Crackling Drake
 1 Niv-Mizzet, Parun
 1 Swiftwater Cliffs
@@ -136,15 +135,16 @@
 1 Winged Words
 1 Izzet Guildgate
 1 The Royal Scions
+1 Experimental Overload
 1 Sprite Dragon
 1 Opt
 2 Frantic Inventory
 2 Lofty Denial
-2 Experimental Overload
 2 Swiftwater Cliffs
 2 Ominous Seas
 2 Flame Sweep
 2 Shock
+2 Experimental Overload
 2 Winged Words
 2 Sprite Dragon
 2 Izzet Guildgate

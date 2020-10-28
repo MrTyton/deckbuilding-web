@@ -38,8 +38,8 @@
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
 |                    4|[Twilight Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442237)    |                    1|[Cavalier of Night](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466848)  |
-|                    1|[Cavalier of Night](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466848)|                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |
-|                    4|[Blooming Marsh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417816)   |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                    1|[Cavalier of Night](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466848)|                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
+|                    4|[Blooming Marsh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417816)   |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |
 |                     |                                                                                            |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
 |                     |                                                                                            |                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)  |
 

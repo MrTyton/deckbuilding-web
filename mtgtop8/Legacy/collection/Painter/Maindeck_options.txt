@@ -1,8 +1,6 @@
-1 Prismatic Vista
-3 Snow-Covered Island
-1 Mazemind Tome
 2 Lotus Petal
 3 Lotus Petal
+4 Arcum's Astrolabe
 1 Seasoned Pyromancer
 3 Pyroblast
 4 Snow-Covered Mountain
@@ -10,9 +8,11 @@
 4 Ancient Tomb
 5 Snow-Covered Mountain
 2 Great Furnace
+1 Prismatic Vista
 1 Mox Diamond
 1 Tormod's Crypt
 1 Bolas's Citadel
+3 Snow-Covered Island
 2 Mazemind Tome
 4 Goblin Engineer
 3 City of Traitors
@@ -28,12 +28,6 @@
 1 Polluted Delta
 4 Grindstone
 3 Great Furnace
-1 Snow-Covered Forest
-1 Veil of Summer
-1 Intuition
-1 Force of Will
-2 Force of Will
-3 Force of Will
 1 Bloodstained Mire
 1 Preordain
 1 Arid Mesa
@@ -44,20 +38,26 @@
 1 Fiery Islet
 1 Crystal Vein
 1 Dack Fayden
+1 Intuition
 1 Jace, Mirror Mage
 1 Transmute Artifact
 1 Engineered Explosives
 1 Urza's Bauble
 1 Jace, the Mind Sculptor
 1 Spellskite
+1 Force of Will
 2 Fiery Islet
+2 Force of Will
 2 Lion's Eye Diamond
 3 Seat of the Synod
+3 Force of Will
 1 Taiga
 1 Klothys, God of Destiny
 1 Wooded Foothills
+1 Snow-Covered Forest
 1 Phyrexian Revoker
 1 Imperial Recruiter
+1 Veil of Summer
 2 Wooded Foothills
 2 Red Elemental Blast
 2 Veil of Summer
@@ -78,32 +78,5 @@
 2 Ensnaring Bridge
 3 Seasoned Pyromancer
 4 City of Traitors
-4 Karn, the Great Creator
 11 Snow-Covered Mountain
-1 Sevinne's Reclamation
-1 Academy Ruins
-1 Snow-Covered Plains
-1 Misty Rainforest
-1 Uro, Titan of Nature's Wrath
-1 Tropical Island
-1 Oko, Thief of Crowns
-1 Terminus
-1 Teferi, Time Raveler
-1 Mystic Sanctuary
-1 Ponder
-1 Tundra
-1 Flooded Strand
-1 Swords to Plowshares
-2 Misty Rainforest
-2 Oko, Thief of Crowns
-2 Uro, Titan of Nature's Wrath
-2 Terminus
-2 Ponder
-2 Swords to Plowshares
-2 Prismatic Vista
-2 Flooded Strand
-3 Flooded Strand
-3 Swords to Plowshares
-3 Ponder
-4 Ponder
-4 Force of Will
+4 Karn, the Great Creator

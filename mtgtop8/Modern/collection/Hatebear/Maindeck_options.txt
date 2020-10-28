@@ -40,9 +40,13 @@
 1 Selfless Savior
 1 Aven Mindcensor
 2 Aven Mindcensor
+2 Batterskull
+3 Archon of Emeria
+3 Batterskull
+4 Batterskull
 1 Battlefield Forge
 2 Battlefield Forge
-1 Eldrazi Displacer
+1 Reality Smasher
 1 Wastes
 1 Dismember
 1 Thought-Knot Seer
@@ -53,9 +57,9 @@
 1 Containment Priest
 1 Winds of Abandon
 1 Chalice of the Void
-1 Reality Smasher
+1 Eldrazi Displacer
 1 Cavern of Souls
-2 Eldrazi Displacer
+2 Reality Smasher
 2 Simian Spirit Guide
 2 Thought-Knot Seer
 2 Dismember
@@ -63,28 +67,24 @@
 2 Containment Priest
 2 Winds of Abandon
 2 Chalice of the Void
-2 Reality Smasher
+2 Eldrazi Displacer
 2 Eldrazi Temple
-3 Eldrazi Displacer
-3 Containment Priest
-3 Simian Spirit Guide
+3 Reality Smasher
 3 Battlefield Forge
+3 Simian Spirit Guide
 3 Thought-Knot Seer
+3 Containment Priest
 3 Chalice of the Void
 3 Eldrazi Temple
-3 Reality Smasher
-4 Eldrazi Temple
+3 Eldrazi Displacer
+4 Reality Smasher
 4 Thought-Knot Seer
-4 Eldrazi Displacer
+4 Battlefield Forge
+4 Containment Priest
 4 Simian Spirit Guide
 4 Chalice of the Void
-4 Containment Priest
-4 Reality Smasher
-4 Battlefield Forge
-2 Batterskull
-3 Archon of Emeria
-3 Batterskull
-4 Batterskull
+4 Eldrazi Temple
+4 Eldrazi Displacer
 1 Smuggler's Copter
 1 Sacred Foundry
 1 Snow-Covered Mountain
@@ -124,8 +124,8 @@
 1 Meddling Mage
 1 Flooded Strand
 1 Deputy of Detention
-2 Deputy of Detention
 2 Blade Splicer
+2 Deputy of Detention
 2 Meddling Mage
 2 Lurrus of the Dream-Den
 2 Flooded Strand
@@ -136,8 +136,8 @@
 1 Charming Prince
 1 Renegade Rallier
 1 Stirring Wildwood
-1 Qasali Pridemage
 1 Noble Hierarch
+1 Qasali Pridemage
 1 Razorverge Thicket
 1 Temple Garden
 1 Windswept Heath
@@ -146,17 +146,17 @@
 2 Charming Prince
 2 Renegade Rallier
 2 Forest
-2 Qasali Pridemage
 2 Noble Hierarch
+2 Qasali Pridemage
 2 Temple Garden
 2 Razorverge Thicket
 2 Scavenging Ooze
 3 Temple Garden
 3 Noble Hierarch
 3 Razorverge Thicket
-4 Restoration Angel
 4 Razorverge Thicket
 4 Horizon Canopy
+4 Restoration Angel
 4 Noble Hierarch
 1 Waterlogged Grove
 1 Tale's End

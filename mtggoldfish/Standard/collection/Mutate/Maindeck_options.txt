@@ -1,23 +1,23 @@
 1 Chainweb Aracnir
 10 Forest
+1 Ugin, the Spirit Dragon
 2 Pouncing Shoreshark
 1 Sea-Dasher Octopus
-1 Ugin, the Spirit Dragon
 1 Temple of Mystery
 2 Temple of Mystery
-3 Pouncing Shoreshark
 1 Cragcrown Pathway
 2 Cragcrown Pathway
 3 Cragcrown Pathway
 4 Cragcrown Pathway
 1 Turntimber Symbiosis
+3 Pouncing Shoreshark
 1 Illuna, Apex of Wishes
-1 Mountain
 1 Terror of the Peaks
-2 Mountain
+1 Mountain
 2 Terror of the Peaks
-3 Mountain
+2 Mountain
 3 Terror of the Peaks
+3 Mountain
 2 Turntimber Symbiosis
 1 Ketria Triome
 3 Temple of Mystery
@@ -32,7 +32,6 @@
 4 Brushfire Elemental
 4 Mountain
 5 Mountain
-4 Pouncing Shoreshark
 4 Tangled Florahedron
 1 The Great Henge
 2 Ugin, the Spirit Dragon
@@ -41,9 +40,10 @@
 2 Stonecoil Serpent
 1 Castle Garenbrig
 2 Castle Garenbrig
+11 Forest
+4 Pouncing Shoreshark
 1 Cultivate
 2 Cultivate
-11 Forest
 1 Ilysian Caryatid
 2 Ilysian Caryatid
 3 Ilysian Caryatid
@@ -54,7 +54,6 @@
 3 Cultivate
 3 Stonecoil Serpent
 4 Ilysian Caryatid
-1 Elder Gargaroth
 4 Cultivate
 1 Riverglide Pathway
 2 Riverglide Pathway
@@ -62,58 +61,60 @@
 3 Riverglide Pathway
 3 Ketria Triome
 4 Riverglide Pathway
-4 Ketria Triome
 4 Stonecoil Serpent
+4 Ketria Triome
 1 Glasspool Mimic
 4 Parcelbeast
 3 Sea-Dasher Octopus
+1 Elder Gargaroth
 2 Elder Gargaroth
 4 Gemrazer
-1 Archipelagore
-2 Archipelagore
-9 Island
-10 Island
-1 Llanowar Visionary
-1 Thornwood Falls
-1 Essence Symbiote
-2 Llanowar Visionary
-2 Thornwood Falls
-2 Essence Symbiote
-3 Essence Symbiote
-3 Thornwood Falls
+1 Swamp
+1 Jungle Hollow
+2 Swamp
+2 Jungle Hollow
+3 Swamp
+3 Jungle Hollow
+3 Ugin, the Spirit Dragon
 1 Brokkos, Apex of Forever
 1 Garruk's Harbinger
-3 Ugin, the Spirit Dragon
-1 Jungle Hollow
-1 Swamp
-2 Jungle Hollow
-2 Swamp
-3 Jungle Hollow
-3 Swamp
+1 Beanstalk Giant
+1 Llanowar Visionary
+1 Essence Symbiote
+2 Llanowar Visionary
+2 Essence Symbiote
+3 Essence Symbiote
+1 Bake into a Pie
+2 Bake into a Pie
+4 Swamp
+5 Swamp
+6 Swamp
+7 Swamp
+8 Swamp
 12 Forest
 1 Plains
 2 Plains
 3 Plains
 4 Plains
+1 Nylea, Keen-Eyed
 1 Castle Ardenvale
 1 Luminous Broodmoth
-1 Dryad of the Ilysian Grove
-1 Sorcerous Spyglass
 1 Destiny Spinner
-1 Mangara, the Diplomat
+1 Sorcerous Spyglass
 1 Azusa, Lost but Seeking
+1 Dryad of the Ilysian Grove
 1 Renata, Called to the Hunt
-1 Nylea, Keen-Eyed
 1 Ashaya, Soul of the Wild
 1 Mirror Shield
+1 Mangara, the Diplomat
 1 Daxos, Blessed by the Sun
 1 Murasa Rootgrazer
 1 Mace of the Valiant
-2 Castle Ardenvale
 2 Sorcerous Spyglass
 2 Ashaya, Soul of the Wild
 2 Daxos, Blessed by the Sun
 2 Mirror Shield
+2 Castle Ardenvale
 2 Murasa Rootgrazer
 3 Sorcerous Spyglass
 5 Plains
@@ -122,33 +123,34 @@
 8 Plains
 9 Plains
 13 Forest
-1 Beanstalk Giant
 1 Castle Vantress
 1 Ranger's Guile
 2 Glasspool Mimic
 3 Scavenging Ooze
 1 Dismal Backwater
 1 Eliminate
+1 Thornwood Falls
 1 Reave Soul
 1 Blood Curdle
 2 Dismal Backwater
 2 Blood Curdle
 2 Reave Soul
+2 Thornwood Falls
 3 Dismal Backwater
 3 Blood Curdle
-1 Branchloft Pathway
-1 Felidar Retreat
-1 Migration Path
-1 Cubwarden
-2 Felidar Retreat
-2 Branchloft Pathway
-2 Migration Path
-2 Cubwarden
-3 Felidar Retreat
-3 Migration Path
-3 Cubwarden
-4 Felidar Retreat
-4 Migration Path
+3 Thornwood Falls
+1 Temple of Malady
+1 Heartless Act
+1 Extinction Event
+1 Vito, Thorn of the Dusk Rose
+1 Once and Future
+2 Extinction Event
+2 Vito, Thorn of the Dusk Rose
+2 Once and Future
+2 Heartless Act
+3 Extinction Event
+3 Vito, Thorn of the Dusk Rose
+4 Extinction Event
 1 Kazandu Mammoth
 1 Lotus Cobra
 2 Kazandu Mammoth
@@ -158,54 +160,39 @@
 3 Kazandu Mammoth
 4 Chainweb Aracnir
 4 Lotus Cobra
-1 Nylea's Forerunner
-2 Nylea's Forerunner
-3 Llanowar Visionary
-3 Archipelagore
-3 Nylea's Forerunner
-4 Thornwood Falls
-4 Essence Symbiote
 1 Bala Ged Recovery
-1 Shatterskull Smashing
-1 Lead the Stampede
 1 Valakut Exploration
+1 Lead the Stampede
+1 Shatterskull Smashing
+2 Valakut Exploration
 2 Shatterskull Smashing
 2 Lead the Stampede
 2 Garruk's Harbinger
-2 Valakut Exploration
 3 Garruk's Harbinger
-3 Lead the Stampede
 3 Valakut Exploration
+3 Lead the Stampede
 4 Lead the Stampede
-1 Temple of Malady
-1 Heartless Act
-1 Extinction Event
-1 Vito, Thorn of the Dusk Rose
-1 Once and Future
-1 Bake into a Pie
-2 Extinction Event
-2 Vito, Thorn of the Dusk Rose
-2 Once and Future
-2 Heartless Act
-2 Bake into a Pie
-3 Extinction Event
-3 Vito, Thorn of the Dusk Rose
-4 Swamp
-4 Extinction Event
-5 Swamp
-6 Swamp
-7 Swamp
-8 Swamp
-1 Trumpeting Gnarr
-1 Maraleaf Pixie
-1 Glowstone Recluse
-1 Spined Megalodon
-1 Mysterious Egg
-2 Spined Megalodon
-2 Trumpeting Gnarr
-2 Mysterious Egg
-2 Maraleaf Pixie
-11 Island
+1 Polukranos, Unchained
+1 Bloodchief's Thirst
+1 Adventurous Impulse
+1 Grasp of Darkness
+1 Dirge Bat
+1 Fierce Witchstalker
+1 Khalni Ambush
+1 Insatiable Hemophage
+1 Zagoth Mamba
+2 Bloodchief's Thirst
+2 Zagoth Mamba
+2 Fierce Witchstalker
+2 Beanstalk Giant
+2 Khalni Ambush
+2 Adventurous Impulse
+2 Insatiable Hemophage
+2 Grasp of Darkness
+3 Llanowar Visionary
+4 Llanowar Visionary
+4 Essence Symbiote
+4 Jungle Hollow
 1 Kiora Bests the Sea God
 2 Kiora Bests the Sea God
 2 Brokkos, Apex of Forever
@@ -215,3 +202,30 @@
 4 Elder Gargaroth
 4 Kiora Bests the Sea God
 4 Brokkos, Apex of Forever
+1 Branchloft Pathway
+1 Felidar Retreat
+1 Migration Path
+1 Cubwarden
+2 Branchloft Pathway
+2 Migration Path
+2 Felidar Retreat
+2 Cubwarden
+3 Migration Path
+3 Felidar Retreat
+3 Cubwarden
+4 Migration Path
+4 Felidar Retreat
+1 Trumpeting Gnarr
+1 Maraleaf Pixie
+1 Glowstone Recluse
+1 Mysterious Egg
+1 Spined Megalodon
+1 Archipelagore
+2 Spined Megalodon
+2 Trumpeting Gnarr
+2 Archipelagore
+2 Maraleaf Pixie
+2 Mysterious Egg
+9 Island
+10 Island
+11 Island

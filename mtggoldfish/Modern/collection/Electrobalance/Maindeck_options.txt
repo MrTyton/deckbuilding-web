@@ -1,10 +1,10 @@
 1 Island
-1 Spell Pierce
+2 Spell Snare
 1 Snow-Covered Mountain
-4 Opt
+2 Izzet Charm
 1 Wooded Foothills
 2 Mountain
-2 Izzet Charm
+4 Opt
 1 Misty Rainforest
 4 Ancestral Vision
 2 Spell Pierce
@@ -13,6 +13,7 @@
 2 Abrade
 3 Force of Negation
 1 Gemstone Caverns
+2 Snow-Covered Mountain
 3 Izzet Charm
 4 Izzet Charm
 4 Serum Visions
@@ -20,14 +21,13 @@
 2 Misty Rainforest
 4 Fiery Islet
 1 Echoing Truth
-2 Snow-Covered Mountain
 1 Ketria Triome
 3 Finale of Promise
 1 Cascade Bluffs
 1 Remand
 2 Remand
-3 Remand
 3 Misty Rainforest
+3 Remand
 4 Remand
 1 Temple of Epiphany
 2 Temple of Epiphany
@@ -46,8 +46,8 @@
 3 Flooded Strand
 4 Misty Rainforest
 4 Flooded Strand
-1 Mishra's Bauble
 1 Gemstone Mine
+1 Mishra's Bauble
 1 Thought Scour
 2 Mishra's Bauble
 2 Thought Scour
@@ -61,11 +61,11 @@
 1 Fires of Invention
 1 Wheel of Fate
 1 Narset, Parter of Veils
-2 Valakut Awakening
 2 Gemstone Caverns
 2 Shivan Reef
 2 Fires of Invention
 2 Narset, Parter of Veils
+2 Valakut Awakening
 2 Wheel of Fate
 3 Wheel of Fate
 3 Shivan Reef

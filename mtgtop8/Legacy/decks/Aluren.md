@@ -100,7 +100,7 @@
 |                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)         |                     |                                                                                                     |
 |                    1|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)             |                     |                                                                                                     |
 |                    2|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)             |                     |                                                                                                     |
-|                    1|[Ayara, First of Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473037)   |                     |                                                                                                     |
 |                    1|[Jolrael, Mwonvuli Recluse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485514)   |                     |                                                                                                     |
+|                    1|[Ayara, First of Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473037)   |                     |                                                                                                     |
 |                    1|[Pernicious Deed](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442201)             |                     |                                                                                                     |
 
