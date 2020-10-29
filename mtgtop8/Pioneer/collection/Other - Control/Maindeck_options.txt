@@ -110,7 +110,6 @@
 1 Syncopate
 1 Absorb
 1 Elspeth Conquers Death
-1 Chained to the Rocks
 1 Supreme Verdict
 1 Elspeth, Sun's Nemesis
 1 Teferi, Hero of Dominaria
@@ -119,6 +118,7 @@
 1 Omen of the Sea
 1 Dovin's Veto
 1 Dream Trawler
+1 Chained to the Rocks
 1 Sacred Foundry
 1 Omen of the Sun
 1 Azorius Charm
@@ -130,17 +130,17 @@
 2 Syncopate
 2 Omen of the Sun
 2 Elspeth Conquers Death
-2 Supreme Verdict
 2 Dream Trawler
+2 Supreme Verdict
 2 Azorius Charm
 2 Baffling End
 2 Sacred Foundry
 2 Teferi, Hero of Dominaria
 2 Omen of the Sea
 2 Glacial Fortress
+3 Castle Ardenvale
 3 Teferi, Hero of Dominaria
 3 Absorb
-3 Castle Ardenvale
 3 Anger of the Gods
 3 Supreme Verdict
 3 Baffling End
@@ -168,15 +168,15 @@
 1 Drown in the Loch
 1 Ipnu Rivulet
 1 Merfolk Secretkeeper
-1 Maddening Cacophony
-1 Jwari Disruption
 1 Ruin Crab
+1 Jwari Disruption
 1 Breaking / Entering
+1 Maddening Cacophony
 1 Clearwater Pathway
 1 Sea Gate Stormcaller
 1 Didn't Say Please
-1 Drowned Secrets
 1 Crypt Incursion
+1 Drowned Secrets
 2 Fraying Sanity
 2 Drown in the Loch
 2 Sea Gate Stormcaller
@@ -232,8 +232,8 @@
 1 Vraska's Contempt
 1 Unwind
 1 Glimmer of Genius
-2 Castle Vantress
 2 Negate
+2 Castle Vantress
 2 Ritual of Soot
 2 Glimmer of Genius
 2 Void Shatter
@@ -252,13 +252,13 @@
 3 Bonecrusher Giant
 3 Magma Jet
 1 Ashiok, Nightmare Muse
-1 Brazen Borrower
 1 Jace, Vryn's Prodigy
 1 Day's Undoing
 1 Choked Estuary
+1 Brazen Borrower
 1 Legion's End
-1 Kalitas, Traitor of Ghet
 1 God-Eternal Kefnet
+1 Kalitas, Traitor of Ghet
 2 Jace, Vryn's Prodigy
 2 Choked Estuary
 2 Heartless Act
@@ -280,21 +280,21 @@
 3 Nissa, Who Shakes the World
 3 Oath of Nissa
 4 Oath of Nissa
-1 Collective Brutality
+1 Murderous Rider
 1 Kroxa, Titan of Death's Hunger
 1 Dragonskull Summit
+1 Hazoret the Fervent
+1 Collective Brutality
 1 Liliana, Waker of the Dead
 1 Kolaghan's Command
-1 Hazoret the Fervent
 1 Davriel, Rogue Shadowmage
 1 Blood Crypt
 1 Waste Not
-1 Murderous Rider
-2 Collective Brutality
 2 Murderous Rider
 2 Dragonskull Summit
 2 Kolaghan's Command
 2 Kroxa, Titan of Death's Hunger
+2 Collective Brutality
 2 Liliana, Waker of the Dead
 2 Hazoret the Fervent
 2 Blood Crypt
@@ -315,9 +315,9 @@
 4 Waste Not
 4 Castle Locthwain
 4 Liliana, Waker of the Dead
-1 Blast Zone
 1 Botanical Sanctum
 1 Elvish Rejuvenator
+1 Blast Zone
 1 Voracious Hydra
 1 World Breaker
 1 Castle Garenbrig
@@ -338,14 +338,14 @@
 2 Yavimaya Coast
 3 Ugin, the Spirit Dragon
 3 Botanical Sanctum
-3 Cavalier of Thorns
 3 Elvish Rejuvenator
 3 Castle Garenbrig
 3 Voracious Hydra
 3 Shrine of the Forsaken Gods
 3 Yavimaya Coast
-4 Botanical Sanctum
+3 Cavalier of Thorns
 4 Cavalier of Thorns
+4 Botanical Sanctum
 4 Elvish Rejuvenator
 4 Voracious Hydra
 4 Yavimaya Coast

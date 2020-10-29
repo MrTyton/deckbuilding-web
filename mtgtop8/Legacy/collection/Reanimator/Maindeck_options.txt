@@ -1,7 +1,7 @@
-3 Thoughtseize
 1 Swamp
 3 Bloodstained Mire
 1 Verdant Catacombs
+3 Thoughtseize
 2 Verdant Catacombs
 4 Polluted Delta
 1 Elesh Norn, Grand Cenobite
@@ -10,10 +10,8 @@
 1 Iona, Shield of Emeria
 2 Swamp
 3 Swamp
-1 Lake of the Dead
 1 Mountain
 2 Mountain
-4 Thoughtseize
 1 Brainstorm
 1 Underground Sea
 1 Ponder
@@ -27,19 +25,16 @@
 4 Ponder
 4 Brainstorm
 4 Force of Will
-1 Collective Brutality
-2 Collective Brutality
+1 Lake of the Dead
 1 Ashen Rider
 1 Grave Titan
 2 Grave Titan
-2 Lake of the Dead
-3 Lake of the Dead
+1 Massacre Wurm
 1 Duress
 2 Duress
 3 Duress
 3 Grave Titan
 3 Snow-Covered Swamp
-4 Duress
 4 Grave Titan
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
@@ -54,24 +49,28 @@
 14 Snow-Covered Swamp
 15 Snow-Covered Swamp
 16 Snow-Covered Swamp
-1 Sphinx of the Steel Wind
+1 Tidespout Tyrant
+4 Thoughtseize
+2 Lake of the Dead
+3 Lake of the Dead
 2 Underground Sea
+1 Collective Brutality
+2 Collective Brutality
 4 Swamp
 1 Snow-Covered Island
 1 Blood Crypt
 1 Inquisition of Kozilek
-1 Massacre Wurm
+1 Overgrown Tomb
+1 Vito, Thorn of the Dusk Rose
+4 Bloodstained Mire
 1 Feed the Swarm
 1 Hymn to Tourach
 1 Scrying Sheets
 2 Feed the Swarm
 2 Hymn to Tourach
 2 Scrying Sheets
-1 Overgrown Tomb
-1 Vito, Thorn of the Dusk Rose
-4 Bloodstained Mire
+4 Duress
 1 Careful Study
-1 Tidespout Tyrant
 1 Flooded Strand
 2 Careful Study
 2 Flooded Strand
@@ -79,42 +78,42 @@
 3 Underground Sea
 4 Careful Study
 1 Snow-Covered Forest
-1 Ice-Fang Coatl
-1 Uro, Titan of Nature's Wrath
-1 Tropical Island
 1 Worldgorger Dragon
+1 Uro, Titan of Nature's Wrath
 1 Arcum's Astrolabe
-1 Drown in the Loch
+1 Ice-Fang Coatl
+1 Tropical Island
 1 Veil of Summer
 1 Duskmantle Guildmage
+1 Drown in the Loch
 1 Abrupt Decay
 1 Misty Rainforest
 1 Sylvan Library
-2 Drown in the Loch
 2 Snow-Covered Forest
+2 Drown in the Loch
 2 Ice-Fang Coatl
-2 Uro, Titan of Nature's Wrath
 2 Arcum's Astrolabe
+2 Uro, Titan of Nature's Wrath
 2 Snow-Covered Island
 2 Veil of Summer
 2 Abrupt Decay
 2 Misty Rainforest
 3 Arcum's Astrolabe
-3 Ice-Fang Coatl
 3 Snow-Covered Island
 3 Abrupt Decay
 3 Veil of Summer
 3 Misty Rainforest
+3 Ice-Fang Coatl
 4 Ice-Fang Coatl
 4 Misty Rainforest
 4 Arcum's Astrolabe
 1 Mana Confluence
 1 Rotting Regisaur
-1 Not of This World
 1 Pithing Needle
 1 Titanoth Rex
 1 Berserk
 1 Ancient Tomb
+1 Not of This World
 1 Taiga
 1 Gishath, Sun's Avatar
 2 Mana Confluence
@@ -150,6 +149,7 @@
 4 Marsh Flats
 4 Intuition
 4 Demigod of Revenge
+1 Sphinx of the Steel Wind
 5 Swamp
 6 Swamp
 7 Swamp
@@ -158,8 +158,12 @@
 10 Swamp
 11 Swamp
 12 Swamp
-1 Grim Tutor
-3 Collective Brutality
-4 Collective Brutality
+1 Putrid Imp
+1 Smallpox
+2 Putrid Imp
+2 Smallpox
+3 Putrid Imp
+3 Smallpox
+4 Cabal Therapy
+4 Putrid Imp
 17 Snow-Covered Swamp
-18 Snow-Covered Swamp

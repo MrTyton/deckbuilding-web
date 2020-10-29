@@ -1,6 +1,11 @@
-1 Flooded Strand
-2 Flooded Strand
+3 Thoughtseize
+1 Scalding Tarn
+2 Scalding Tarn
 3 Flooded Strand
+1 Island
+1 True-Name Nemesis
+1 Stifle
+2 Brazen Borrower
 1 Preordain
 2 Preordain
 1 Dreadhorde Arcanist
@@ -12,8 +17,8 @@
 2 Dreadhorde Arcanist
 3 Scalding Tarn
 3 Lightning Bolt
-4 Scalding Tarn
 4 Lightning Bolt
+4 Scalding Tarn
 1 Bitterblossom
 2 Bitterblossom
 3 Misty Rainforest
@@ -22,25 +27,20 @@
 1 Waterlogged Grove
 2 Drown in the Loch
 3 Drown in the Loch
-3 Thoughtseize
 1 Leovold, Emissary of Trest
 1 Sylvan Library
 1 Hymn to Tourach
 2 Leovold, Emissary of Trest
 2 Hymn to Tourach
 4 Verdant Catacombs
-1 Island
 1 Snow-Covered Island
 1 Dismember
 1 Misdirection
 1 Ethereal Forager
 1 Gut Shot
-1 Stifle
 1 Stormwing Entity
-1 True-Name Nemesis
 2 Snow-Covered Island
 2 Island
-2 Brazen Borrower
 2 Ethereal Forager
 2 Stormwing Entity
 2 Gut Shot
@@ -56,3 +56,10 @@
 4 Flooded Strand
 4 Stifle
 4 Polluted Delta
+1 Swamp
+1 Forest
+2 Gurmag Angler
+2 Bayou
+3 Brazen Borrower
+4 Brazen Borrower
+4 Thoughtseize

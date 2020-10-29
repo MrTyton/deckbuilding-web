@@ -1,79 +1,79 @@
 2 Noble Hierarch
-1 Birds of Paradise
 2 Birds of Paradise
 1 Giver of Runes
-3 Noble Hierarch
 1 Devoted Druid
 1 Vizier of Remedies
-1 Razorverge Thicket
-1 Finale of Devastation
 2 Devoted Druid
 2 Vizier of Remedies
-2 Razorverge Thicket
+3 Noble Hierarch
 4 Noble Hierarch
+1 Finale of Devastation
+1 Razorverge Thicket
+2 Razorverge Thicket
+3 Devoted Druid
+4 Devoted Druid
 1 Wooded Foothills
 2 Finale of Devastation
-3 Devoted Druid
 3 Vizier of Remedies
-4 Devoted Druid
-3 Razorverge Thicket
-3 Birds of Paradise
+3 Scavenging Ooze
+3 Auriok Champion
+1 Skyclave Apparition
 2 Giver of Runes
 3 Giver of Runes
+3 Razorverge Thicket
+3 Birds of Paradise
+2 Verdant Catacombs
 4 Vizier of Remedies
 1 Duskwatch Recruiter
 2 Wooded Foothills
+1 Kitchen Finks
+2 Kitchen Finks
+4 Birds of Paradise
+1 Overgrown Tomb
+4 Giver of Runes
+3 Eladamri's Call
+4 Eladamri's Call
+1 Godless Shrine
+1 Misty Rainforest
+1 Chord of Calling
 1 Hardened Scales
 2 Hardened Scales
 3 Hardened Scales
 4 Hardened Scales
-3 Eladamri's Call
-4 Eladamri's Call
-3 Auriok Champion
-1 Skyclave Apparition
-4 Birds of Paradise
+1 Viscera Seer
+3 Kitchen Finks
 4 Razorverge Thicket
-1 Chord of Calling
-2 Verdant Catacombs
 1 Spellskite
 1 Postmortem Lunge
 2 Postmortem Lunge
 2 Duskwatch Recruiter
 3 Finale of Devastation
 3 Postmortem Lunge
-4 Giver of Runes
 4 Finale of Devastation
-1 Kitchen Finks
-2 Kitchen Finks
-1 Misty Rainforest
-1 Overgrown Tomb
+3 Wooded Foothills
+3 Verdant Catacombs
+1 Eldritch Evolution
+1 Flooded Strand
+1 Marsh Flats
 4 Postmortem Lunge
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
-1 Godless Shrine
-1 Viscera Seer
-3 Kitchen Finks
-3 Wooded Foothills
-1 Eldritch Evolution
-1 Flooded Strand
-1 Marsh Flats
-4 Mishra's Bauble
 3 Plains
 4 Horizon Canopy
 1 Snow-Covered Forest
 2 Snow-Covered Forest
+3 Walking Ballista
 2 Eldritch Evolution
 2 Chord of Calling
-1 Sunpetal Grove
 1 Branchloft Pathway
+1 Sunpetal Grove
 1 Shalai, Voice of Plenty
 1 Eternal Witness
 1 Dissenter's Deliverance
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Duskwatch Recruiter
-3 Verdant Catacombs
 4 Verdant Catacombs
 1 Stirring Wildwood
 1 Karn, the Great Creator
@@ -82,12 +82,6 @@
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 4 Kitchen Finks
-1 Tarmogoyf
-1 Unknown Card
-2 Tarmogoyf
-2 Unknown Card
-3 Tarmogoyf
-4 Tarmogoyf
 1 Seasoned Pyromancer
 1 Sacred Foundry
 1 Stomping Ground
@@ -100,12 +94,54 @@
 3 Seasoned Pyromancer
 3 Magus of the Moon
 4 Wooded Foothills
+1 Tarmogoyf
+1 Unknown Card
+2 Tarmogoyf
+2 Unknown Card
+3 Tarmogoyf
+4 Tarmogoyf
+4 Mishra's Bauble
+1 Gilded Goose
+1 Twilight Mire
+2 Overgrown Tomb
+2 Twilight Mire
+3 Overgrown Tomb
+1 Grisly Salvage
+1 Kessig Wolf Run
+1 Fauna Shaman
+1 Abrupt Decay
+1 Assassin's Trophy
+1 Lotleth Troll
+1 Swamp
+1 Necrotic Ooze
+1 Jarad's Orders
+1 Morselhoarder
+1 Cavern of Souls
+1 Oona, Queen of the Fae
+2 Fauna Shaman
+2 Abrupt Decay
+2 Morselhoarder
+2 Grisly Salvage
+2 Necrotic Ooze
+2 Swamp
+2 Cavern of Souls
+2 Lotleth Troll
+2 Jarad's Orders
+3 Swamp
+3 Fauna Shaman
+3 Cavern of Souls
+3 Jarad's Orders
+3 Morselhoarder
+3 Grisly Salvage
+3 Necrotic Ooze
+4 Swamp
+4 Grisly Salvage
+4 Necrotic Ooze
 1 Charming Prince
 1 Karn's Bastion
 1 Brushland
 2 Charming Prince
 3 Charming Prince
-3 Walking Ballista
 4 Charming Prince
 4 Auriok Champion
 4 Walking Ballista
@@ -114,8 +150,6 @@
 1 Wall of Roots
 1 Khalni Garden
 1 Nurturing Peatland
-1 Gilded Goose
-1 Twilight Mire
 1 Urborg, Tomb of Yawgmoth
 1 Cavalier of Night
 1 Geralf's Messenger
@@ -128,10 +162,8 @@
 1 Strangleroot Geist
 2 Wall of Roots
 2 Nurturing Peatland
-2 Overgrown Tomb
 2 Gilded Goose
 2 Geralf's Messenger
-2 Twilight Mire
 2 Blooming Marsh
 2 Young Wolf
 2 Yawgmoth, Thran Physician
@@ -139,7 +171,6 @@
 3 Wall of Roots
 3 Chord of Calling
 3 Nurturing Peatland
-3 Overgrown Tomb
 3 Geralf's Messenger
 3 Young Wolf
 3 Yawgmoth, Thran Physician
@@ -150,8 +181,8 @@
 4 Geralf's Messenger
 4 Strangleroot Geist
 4 Young Wolf
-4 Yawgmoth, Thran Physician
 4 Eldritch Evolution
 4 Chord of Calling
+4 Yawgmoth, Thran Physician
 4 Blooming Marsh
 4 Wall of Roots

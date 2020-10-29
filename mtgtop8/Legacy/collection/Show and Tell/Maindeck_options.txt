@@ -1,11 +1,5 @@
-1 Island
-2 Polluted Delta
-3 Ancient Tomb
-1 Volcanic Island
-2 Volcanic Island
 2 Island
 2 Scalding Tarn
-1 Spell Pierce
 1 Lotus Petal
 1 Sneak Attack
 2 Lotus Petal
@@ -13,7 +7,16 @@
 2 Sneak Attack
 3 Griselbrand
 3 Sneak Attack
+1 Spell Pierce
+2 Impulse
+2 Prismatic Vista
+3 Lotus Petal
 3 Scalding Tarn
+4 Lotus Petal
+2 Spell Pierce
+2 Polluted Delta
+3 Prismatic Vista
+1 Uro, Titan of Nature's Wrath
 1 Teferi, Time Raveler
 1 Tundra
 2 Snow-Covered Forest
@@ -23,32 +26,31 @@
 2 Arcum's Astrolabe
 3 Arcum's Astrolabe
 1 Mystic Sanctuary
-2 Spell Pierce
-3 Lotus Petal
-4 Lotus Petal
-4 Griselbrand
-4 Scalding Tarn
-1 Sylvan Library
-2 Tropical Island
-1 Drawn from Dreams
-4 Snow-Covered Island
 1 Mountain
-3 Volcanic Island
 4 Sneak Attack
+4 Scalding Tarn
+4 Griselbrand
+4 Snow-Covered Island
+3 Volcanic Island
+1 Drawn from Dreams
 1 Flusterstorm
 3 Island
+1 Sylvan Library
+2 Tropical Island
 2 Teferi, Time Raveler
 3 Flooded Strand
-4 Emrakul, the Aeons Torn
 2 Sylvan Library
 1 Narset, Parter of Veils
 2 Drawn from Dreams
+1 Boseiju, Who Shelters All
 2 Flusterstorm
-1 Simian Spirit Guide
 1 Karakas
 4 Prismatic Vista
+1 Simian Spirit Guide
+4 Emrakul, the Aeons Torn
 2 Tundra
 1 Eladamri's Call
+1 Brazen Borrower
 2 Uro, Titan of Nature's Wrath
 5 Snow-Covered Island
 1 Sea Gate Restoration
@@ -58,40 +60,12 @@
 3 Daze
 2 Simian Spirit Guide
 3 Spell Pierce
-1 Boseiju, Who Shelters All
 3 Teferi, Time Raveler
 4 Flooded Strand
 2 Intuition
 3 Impulse
 4 Impulse
-1 Brazen Borrower
-1 Stifle
-1 Oko, Thief of Crowns
-1 Phyrexian Dreadnought
-1 Wasteland
-1 Mosswort Bridge
-2 Stifle
-2 Oko, Thief of Crowns
-2 Wasteland
-2 Phyrexian Dreadnought
-2 Mosswort Bridge
-3 Stifle
-3 Phyrexian Dreadnought
-3 Mosswort Bridge
-4 Stifle
-4 Phyrexian Dreadnought
-4 Mosswort Bridge
 1 Eureka
-1 Underground Sea
-1 Abrupt Decay
-1 Force of Negation
-2 Underground Sea
-1 Green Sun's Zenith
-1 Dryad Arbor
-1 Noble Hierarch
-1 Knight of the Reliquary
-2 Green Sun's Zenith
-2 Noble Hierarch
 3 Polluted Delta
 3 Snow-Covered Forest
 1 Venser, Shaper Savant
@@ -102,6 +76,28 @@
 2 Burning Wish
 3 Burning Wish
 4 Burning Wish
+1 Stifle
+1 Oko, Thief of Crowns
+1 Green Sun's Zenith
+1 Dryad Arbor
+1 Noble Hierarch
+1 Phyrexian Dreadnought
+1 Wasteland
+1 Knight of the Reliquary
+1 Mosswort Bridge
+2 Stifle
+2 Oko, Thief of Crowns
+2 Green Sun's Zenith
+2 Noble Hierarch
+2 Wasteland
+2 Phyrexian Dreadnought
+2 Mosswort Bridge
+3 Stifle
+3 Phyrexian Dreadnought
+3 Mosswort Bridge
+4 Stifle
+4 Phyrexian Dreadnought
+4 Mosswort Bridge
 4 Cunning Wish
 4 Teferi, Time Raveler
 1 Snow-Covered Mountain

@@ -1,5 +1,3 @@
-2 Spell Pierce
-1 Umezawa's Jitte
 1 Brazen Borrower
 2 Vendilion Clique
 2 Karakas
@@ -8,6 +6,8 @@
 1 Counterspell
 3 Snapcaster Mage
 1 Volcanic Island
+2 Spell Pierce
+1 Umezawa's Jitte
 1 Stifle
 1 Delver of Secrets
 1 Daze
@@ -19,8 +19,8 @@
 2 Stifle
 3 Wasteland
 3 Delver of Secrets
-3 Daze
 3 Stifle
+3 Daze
 3 Tundra
 4 Stifle
 4 Delver of Secrets
@@ -42,26 +42,6 @@
 2 Skyclave Apparition
 2 Preordain
 3 Snow-Covered Plains
-1 Drown in the Loch
-1 Swamp
-1 Underground Sea
-1 Baleful Strix
-1 Niambi, Esteemed Speaker
-1 Polluted Delta
-1 Eliminate
-1 Scrubland
-1 Marsh Flats
-1 Oboro, Palace in the Clouds
-2 Drown in the Loch
-2 Eliminate
-2 Underground Sea
-2 Baleful Strix
-2 Polluted Delta
-3 Teferi, Time Raveler
-3 Polluted Delta
-3 Baleful Strix
-4 Polluted Delta
-4 Baleful Strix
 1 Council's Judgment
 2 Back to Basics
 3 Plains

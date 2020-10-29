@@ -1,8 +1,8 @@
 1 Verdant Catacombs
 1 Misty Rainforest
-1 Snow-Covered Plains
 1 Snow-Covered Forest
 2 Snow-Covered Forest
+1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Forest
 4 Snow-Covered Forest
@@ -11,33 +11,33 @@
 3 Hardened Scales
 1 Wooded Foothills
 5 Snow-Covered Forest
+1 Spellskite
 1 Noble Hierarch
 2 Noble Hierarch
-1 Spellskite
-3 Noble Hierarch
-4 Noble Hierarch
 2 Skyclave Apparition
+4 Hardened Scales
+3 Eladamri's Call
 1 Birds of Paradise
 2 Birds of Paradise
+3 Noble Hierarch
+4 Noble Hierarch
+2 Misty Rainforest
+3 Walking Ballista
+3 Birds of Paradise
 1 Razorverge Thicket
 2 Razorverge Thicket
 3 Razorverge Thicket
-4 Hardened Scales
-3 Eladamri's Call
 1 Wooded Bastion
-2 Misty Rainforest
-4 Auriok Champion
-3 Walking Ballista
-3 Birds of Paradise
 2 Verdant Catacombs
 3 Verdant Catacombs
 6 Forest
-2 Wooded Foothills
+4 Auriok Champion
 4 Horizon Canopy
 1 Giver of Runes
 2 Giver of Runes
 3 Giver of Runes
 4 Giver of Runes
+2 Wooded Foothills
 1 Vizier of Remedies
 1 Devoted Druid
 1 Finale of Devastation
@@ -47,6 +47,7 @@
 3 Devoted Druid
 4 Devoted Druid
 4 Walking Ballista
+4 Birds of Paradise
 1 Waterlogged Grove
 1 Eternal Witness
 3 Snow-Covered Plains
@@ -58,9 +59,24 @@
 2 Grand Abolisher
 3 Luminarch Aspirant
 3 Skyclave Apparition
-1 Lurrus of the Dream-Den
-2 Wooded Bastion
+1 Brushland
+1 Charming Prince
+1 Karn's Bastion
+2 Charming Prince
+3 Charming Prince
+4 Charming Prince
+1 Sunbaked Canyon
+1 Seasoned Pyromancer
+1 Stomping Ground
+1 Mountain
+1 Magus of the Moon
+1 Sacred Foundry
+2 Stomping Ground
+2 Seasoned Pyromancer
+2 Magus of the Moon
+3 Magus of the Moon
 3 Wooded Foothills
+3 Seasoned Pyromancer
 4 Wooded Foothills
 3 Misty Rainforest
 4 Misty Rainforest
@@ -76,10 +92,3 @@
 3 Kitchen Finks
 4 Razorverge Thicket
 4 Kitchen Finks
-1 Brushland
-1 Charming Prince
-1 Karn's Bastion
-2 Charming Prince
-3 Charming Prince
-4 Charming Prince
-4 Birds of Paradise

@@ -4,10 +4,10 @@
 2 Essence Scatter
 2 Temple of Enlightenment
 2 Island
+1 Omen of the Sun
 1 Omen of the Sea
 1 Castle Ardenvale
 1 Castle Vantress
-1 Omen of the Sun
 2 Omen of the Sun
 2 Omen of the Sea
 3 Omen of the Sun
@@ -21,8 +21,8 @@
 5 Island
 4 Mystical Dispute
 2 Negate
-3 Temple of Enlightenment
 3 Essence Scatter
+3 Temple of Enlightenment
 1 Shatterskull Smashing
 1 Temple of Triumph
 1 Transmogrify
@@ -35,24 +35,24 @@
 2 Mountain
 2 Lukka, Coppercoat Outcast
 2 Castle Ardenvale
-3 Transmogrify
 3 Dream Trawler
+3 Transmogrify
 3 Mazemind Tome
 3 The Birth of Meletis
 3 Valakut Awakening
-4 The Birth of Meletis
 4 Omen of the Sun
 4 Transmogrify
 4 Dream Trawler
 4 Mazemind Tome
+4 The Birth of Meletis
 6 Island
-1 Barrin, Tolarian Archmage
 1 Alirios, Enraptured
 1 Charming Prince
 1 Golden Egg
 1 Giant Killer
 1 Glimpse of Freedom
 1 Omen of the Forge
+1 Barrin, Tolarian Archmage
 1 Yorion, Sky Nomad
 2 Charming Prince
 2 Golden Egg
@@ -63,8 +63,8 @@
 3 Golden Egg
 3 Omen of the Forge
 3 Yorion, Sky Nomad
-4 Temple of Enlightenment
 4 Charming Prince
+4 Temple of Enlightenment
 4 Omen of the Forge
 5 Plains
 6 Plains
@@ -74,7 +74,6 @@
 2 Temple of Triumph
 3 Brazen Borrower
 4 Shatter the Sky
-1 Whirlwind of Thought
 1 Realm-Cloaked Giant
 1 Beyeen Veil
 1 Elspeth, Sun's Nemesis
@@ -85,22 +84,23 @@
 1 Temple of Epiphany
 1 Fae of Wishes
 1 Neutralize
-2 Neutralize
-2 Whirlwind of Thought
+1 Whirlwind of Thought
 2 Beyeen Veil
 2 Storm's Wrath
 2 Banishing Light
+2 Neutralize
 2 Spikefield Hazard
 2 Shatterskull Smashing
+2 Whirlwind of Thought
 2 Opt
 2 Fae of Wishes
 3 Spikefield Hazard
-3 Neutralize
-3 Whirlwind of Thought
-3 Beyeen Veil
 3 Storm's Wrath
+3 Neutralize
+3 Beyeen Veil
+3 Fae of Wishes
+3 Whirlwind of Thought
 4 Essence Scatter
+4 Neutralize
 4 Spikefield Hazard
 4 Whirlwind of Thought
-4 Neutralize
-3 Fae of Wishes

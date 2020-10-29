@@ -55,15 +55,15 @@
 1 Watery Grave
 2 Polluted Delta
 2 Watery Grave
+1 Remand
 1 River of Tears
 1 Murderous Cut
-1 Inquisition of Kozilek
 1 Fatal Push
+1 Inquisition of Kozilek
 1 Inverter of Truth
-1 Remand
 2 Remand
-2 Inquisition of Kozilek
 2 Fatal Push
+2 Inquisition of Kozilek
 2 River of Tears
 2 Inverter of Truth
 2 Jace, Wielder of Mysteries
@@ -72,8 +72,8 @@
 3 Jace, Wielder of Mysteries
 3 River of Tears
 3 Inverter of Truth
-4 Remand
 4 Inverter of Truth
+4 Remand
 3 Watery Grave
 1 Force of Negation
 2 Force of Negation
@@ -95,10 +95,10 @@
 1 Snow-Covered Swamp
 2 Snow-Covered Island
 3 Force of Negation
-1 Castle Locthwain
 1 Dark Confidant
 1 Thespian's Stage
 1 Dark Depths
+1 Castle Locthwain
 1 Preordain
 1 Ponder
 1 Urborg, Tomb of Yawgmoth
@@ -109,6 +109,7 @@
 1 Thopter Foundry
 1 Gitaxian Probe
 2 Dark Confidant
+2 Urborg, Tomb of Yawgmoth
 2 Preordain
 2 Ponder
 2 Chrome Mox
@@ -118,11 +119,10 @@
 2 Mishra's Bauble
 2 Thopter Foundry
 2 Thespian's Stage
-2 Urborg, Tomb of Yawgmoth
 3 Urborg, Tomb of Yawgmoth
 3 Dark Confidant
-3 Ponder
 3 Chrome Mox
+3 Ponder
 3 Preordain
 3 Vampire Hexmage
 3 Thopter Foundry
@@ -188,13 +188,13 @@
 1 Steam Vents
 1 Spell Queller
 1 Wall of Omens
+1 Fae of Wishes
 1 Prismatic Vista
+1 Snow-Covered Mountain
 1 Narset of the Ancient Way
 1 Delay
-1 Snow-Covered Mountain
-1 Fae of Wishes
-1 Chandra, Torch of Defiance
 1 Commandeer
+1 Chandra, Torch of Defiance
 1 Arid Mesa
 1 Drannith Magistrate
 1 Flooded Strand
@@ -205,13 +205,13 @@
 1 Possibility Storm
 1 Phyrexian Unlife
 2 Spell Queller
-2 Wall of Omens
+2 Fae of Wishes
 2 Snow-Covered Plains
+2 Wall of Omens
 2 Drannith Magistrate
 2 Delay
 2 Snow-Covered Mountain
 2 Prismatic Vista
-2 Fae of Wishes
 2 Spellskite
 2 Arid Mesa
 2 Narset of the Ancient Way
@@ -223,18 +223,19 @@
 2 Commandeer
 3 Spell Queller
 3 Snow-Covered Island
+3 Fae of Wishes
 3 Wall of Omens
 3 Drannith Magistrate
 3 Snow-Covered Plains
 3 Prismatic Vista
 3 Delay
-3 Fae of Wishes
 3 Arid Mesa
 3 Phyrexian Unlife
 3 Flooded Strand
 3 Possibility Storm
 3 Scalding Tarn
 4 Spell Queller
+4 Fae of Wishes
 4 Drannith Magistrate
 4 Snow-Covered Plains
 4 Prismatic Vista
@@ -245,24 +246,23 @@
 4 Force of Negation
 4 Phyrexian Unlife
 4 Scalding Tarn
-4 Fae of Wishes
 4 Flooded Strand
 5 Snow-Covered Plains
 5 Snow-Covered Island
 1 Silundi Vision
-1 Jwari Disruption
 1 Beyeen Veil
 1 Talisman of Progress
 1 Disrupting Shoal
 1 Skyclave Cleric
 1 Teferi, Hero of Dominaria
+1 Jwari Disruption
 1 Pieces of the Puzzle
 1 Path to Exile
 1 Selective Memory
 1 Snapback
 2 Silundi Vision
-2 Jwari Disruption
 2 Beyeen Veil
+2 Jwari Disruption
 2 Talisman of Progress
 2 Disrupting Shoal
 2 Skyclave Cleric
@@ -272,26 +272,26 @@
 2 Pieces of the Puzzle
 3 Talisman of Progress
 3 Jwari Disruption
-3 Silundi Vision
 3 Disrupting Shoal
 3 Snapback
 3 Path to Exile
 3 Selective Memory
+3 Silundi Vision
 4 Jwari Disruption
-4 Silundi Vision
 4 Disrupting Shoal
 4 Talisman of Progress
 4 Selective Memory
+4 Silundi Vision
 1 Waterlogged Grove
-1 Through the Breach
 1 Karn, the Great Creator
 1 Wooded Foothills
 1 Aether Hub
+1 Emrakul, the Aeons Torn
+1 Through the Breach
 1 Wrenn and Six
 1 Attune with Aether
 1 Breeding Pool
 1 Lightning Bolt
-1 Emrakul, the Aeons Torn
 1 Uro, Titan of Nature's Wrath
 1 Mountain
 1 Woodweaver's Puzzleknot
@@ -302,11 +302,11 @@
 1 Harnessed Lightning
 1 Whirler Virtuoso
 1 Rogue Refiner
-2 Emrakul, the Aeons Torn
-2 Through the Breach
 2 Karn, the Great Creator
 2 Forest
 2 Aether Hub
+2 Through the Breach
+2 Emrakul, the Aeons Torn
 2 Wooded Foothills
 2 Misty Rainforest
 2 Whirler Virtuoso
@@ -318,9 +318,9 @@
 2 Lightning Bolt
 2 Uro, Titan of Nature's Wrath
 2 Wrenn and Six
-3 Emrakul, the Aeons Torn
-3 Through the Breach
 3 Karn, the Great Creator
+3 Through the Breach
+3 Emrakul, the Aeons Torn
 3 Wooded Foothills
 3 Lightning Bolt
 3 Aether Hub

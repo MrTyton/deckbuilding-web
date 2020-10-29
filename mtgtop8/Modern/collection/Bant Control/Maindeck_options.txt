@@ -1,14 +1,3 @@
-1 Polluted Delta
-1 Windswept Heath
-1 Stoneforge Mystic
-1 Sword of Feast and Famine
-1 Noble Hierarch
-1 Batterskull
-2 Stoneforge Mystic
-2 Noble Hierarch
-3 Stoneforge Mystic
-3 Noble Hierarch
-4 Stoneforge Mystic
 1 Ice-Fang Coatl
 1 Spell Queller
 2 Snow-Covered Forest
@@ -20,41 +9,52 @@
 4 Ice-Fang Coatl
 4 Spell Queller
 4 Noble Hierarch
+1 Aether Gust
+1 Prairie Stream
+1 Plains
+3 Growth Spiral
+1 Birds of Paradise
+2 Aether Gust
+1 Hour of Promise
+4 Uro, Titan of Nature's Wrath
+1 Remand
+3 Snow-Covered Island
+4 Growth Spiral
+2 Hallowed Fountain
+1 Polluted Delta
+1 Waterlogged Grove
+1 Wall of Blossoms
 1 Seaside Citadel
 1 Oboro, Palace in the Clouds
-1 Birds of Paradise
-3 Snow-Covered Island
-1 Wall of Blossoms
-1 Wall of Omens
-2 Teferi, Hero of Dominaria
-1 Waterlogged Grove
+1 Sword of Fire and Ice
 2 Birds of Paradise
+2 Teferi, Hero of Dominaria
 3 Windswept Heath
 3 Snow-Covered Forest
 2 Supreme Verdict
-2 Wall of Omens
-3 Wall of Omens
+1 Wall of Omens
 2 Remand
-1 Snapcaster Mage
-1 Sword of Fire and Ice
 4 Windswept Heath
 1 Scalding Tarn
 2 Snow-Covered Plains
-4 Teferi, Time Raveler
 1 Shark Typhoon
 2 Polluted Delta
 2 Wall of Blossoms
+2 Wall of Omens
+3 Wall of Omens
 1 Castle Vantress
 4 Force of Negation
 4 Snow-Covered Forest
+1 Brazen Borrower
+1 Snapcaster Mage
+2 Snapcaster Mage
 1 Wilderness Reclamation
 1 Fact or Fiction
 2 Wilderness Reclamation
 2 Fact or Fiction
 3 Fact or Fiction
 4 Fact or Fiction
-1 Brazen Borrower
-2 Snapcaster Mage
+4 Teferi, Time Raveler
 1 Prismatic Vista
 1 Horizon Canopy
 1 Primeval Titan
@@ -66,8 +66,6 @@
 1 Dovin's Veto
 1 Engineered Explosives
 1 Ketria Triome
-1 Ashiok, Dream Render
-2 Spell Snare
 1 Archmage's Charm
 1 Hinterland Harbor
 1 Mystic Gate
@@ -76,6 +74,8 @@
 1 Celestial Colonnade
 1 Wrath of God
 2 Primeval Titan
+1 Ashiok, Dream Render
+2 Spell Snare
 3 Mana Leak
 3 Remand
 1 Gilded Goose

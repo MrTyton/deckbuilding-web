@@ -1,6 +1,6 @@
+1 Basalt Monolith
 1 Inventors' Fair
 1 Mystic Forge
-1 Forsaken Monument
 2 Sphere of Resistance
 2 Forsaken Monument
 2 Basalt Monolith
@@ -57,8 +57,8 @@
 2 Eye of Ugin
 3 Ugin, the Spirit Dragon
 1 Ancient Stirrings
-1 Sylvan Library
 1 Warping Wail
+1 Sylvan Library
 2 Ancient Stirrings
 2 Warping Wail
 3 Ancient Stirrings
@@ -93,19 +93,9 @@
 3 Primeval Titan
 4 Primeval Titan
 4 Green Sun's Zenith
-1 Explore
-1 Elvish Rejuvenator
-2 Emrakul, the Aeons Torn
-2 Explore
-2 Elvish Rejuvenator
-3 Elvish Rejuvenator
-4 Elvish Rejuvenator
-7 Forest
-8 Forest
-9 Forest
 1 Hydroid Krasis
-1 Stifle
 1 Snow-Covered Forest
+1 Stifle
 1 Uro, Titan of Nature's Wrath
 1 Tropical Island
 1 Veil of Summer
@@ -116,8 +106,8 @@
 1 Prismatic Vista
 1 Shark Typhoon
 1 Force of Will
-2 Stifle
 2 Snow-Covered Forest
+2 Stifle
 2 Uro, Titan of Nature's Wrath
 2 Misty Rainforest
 2 Tropical Island
@@ -129,8 +119,8 @@
 2 Brainstorm
 2 Hydroid Krasis
 2 Prismatic Vista
-3 Stifle
 3 Tropical Island
+3 Stifle
 3 Misty Rainforest
 3 Shark Typhoon
 3 Force of Will
@@ -138,3 +128,13 @@
 3 Unbound Flourishing
 4 Misty Rainforest
 4 Brainstorm
+1 Explore
+1 Elvish Rejuvenator
+2 Emrakul, the Aeons Torn
+2 Explore
+2 Elvish Rejuvenator
+3 Elvish Rejuvenator
+4 Elvish Rejuvenator
+7 Forest
+8 Forest
+9 Forest

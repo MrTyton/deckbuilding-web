@@ -37,9 +37,9 @@
 3 Wooded Foothills
 1 Temple Garden
 1 Sacred Foundry
-1 Sejiri Shelter
 1 Flagstones of Trokair
 1 Windswept Heath
+1 Sejiri Shelter
 1 Akoum Hellhound
 1 Brushfire Elemental
 1 Atarka's Command
@@ -153,11 +153,6 @@
 1 Mwonvuli Acid-Moss
 1 Supreme Verdict
 2 Abrupt Decay
-1 Snapcaster Mage
-1 Archmage's Charm
-2 Mountain
-2 Archmage's Charm
-2 Snapcaster Mage
 1 Sheltered Thicket
 1 Platinum Emperion
 1 Madcap Experiment
@@ -171,8 +166,13 @@
 2 Snow-Covered Mountain
 2 Obstinate Baloth
 2 Thoughtseize
-1 Shelldock Isle
+1 Snapcaster Mage
+1 Archmage's Charm
+2 Mountain
+2 Snapcaster Mage
+2 Archmage's Charm
 1 Surgical Extraction
+1 Shelldock Isle
 2 Surgical Extraction
 3 Surgical Extraction
 3 Shark Typhoon
@@ -191,13 +191,13 @@
 1 Verdant Catacombs
 1 Maddening Cacophony
 2 Verdant Catacombs
-2 Maddening Cacophony
 2 Swamp
+2 Maddening Cacophony
 3 Verdant Catacombs
 4 Verdant Catacombs
+1 Jwari Disruption
 1 Peer Through Depths
 1 Explore
-1 Jwari Disruption
 1 Farseek
 2 Peer Through Depths
 2 Jwari Disruption

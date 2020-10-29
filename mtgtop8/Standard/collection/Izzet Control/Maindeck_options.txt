@@ -24,24 +24,24 @@
 2 Radiant Fountain
 3 Neutralize
 1 Thassa's Intervention
-1 Bonecrusher Giant
 1 Sublime Epiphany
 1 Temple of Epiphany
 1 Riverglide Pathway
+1 Bonecrusher Giant
 1 Castle Vantress
 2 Brazen Borrower
-2 Bonecrusher Giant
 2 Sublime Epiphany
+2 Bonecrusher Giant
 2 Riverglide Pathway
 2 Temple of Epiphany
 3 Brazen Borrower
-3 Bonecrusher Giant
 3 Temple of Epiphany
 3 Riverglide Pathway
+3 Bonecrusher Giant
 4 Brazen Borrower
-4 Bonecrusher Giant
 4 Temple of Epiphany
 4 Riverglide Pathway
+4 Bonecrusher Giant
 1 Rain of Revelation
 1 Sanctum of Calm Waters
 1 Volcanic Geyser
@@ -74,27 +74,27 @@
 4 Dismal Backwater
 4 Bloodfell Caves
 1 Silundi Vision
-1 Shatterskull Smashing
 1 Shredded Sails
 1 Brash Taunter
 1 Storm's Wrath
-1 Mazemind Tome
 1 Soul Sear
+1 Mazemind Tome
+1 Shatterskull Smashing
 1 Shipwreck Dowser
 2 Silundi Vision
-2 Shatterskull Smashing
 2 Shredded Sails
 2 Mazemind Tome
-2 Brash Taunter
 2 Storm's Wrath
 2 Soul Sear
+2 Shatterskull Smashing
 2 Shipwreck Dowser
+2 Brash Taunter
 3 Silundi Vision
 3 Radiant Fountain
 3 Mazemind Tome
 3 Storm's Wrath
-3 Brash Taunter
 3 Shipwreck Dowser
+3 Brash Taunter
 3 Sublime Epiphany
 4 Radiant Fountain
 1 Kiora Bests the Sea God
@@ -103,11 +103,11 @@
 1 Fabled Passage
 1 Gadwick, the Wizened
 1 Voracious Greatshark
+2 Voracious Greatshark
 2 Cinderclasm
 2 Thassa's Intervention
 2 Fabled Passage
 2 Gadwick, the Wizened
-2 Voracious Greatshark
 3 Mystical Dispute
 3 Thassa's Intervention
 4 Mystical Dispute
@@ -119,19 +119,19 @@
 4 Blitz of the Thunder-Raptor
 4 Lore Drakkis
 4 Neutralize
-1 Roost of Drakes
 1 Weaponize the Monsters
+1 Roost of Drakes
 1 Bubble Snare
 1 Roil Eruption
 2 Roost of Drakes
-2 Into the Roil
 2 Weaponize the Monsters
+2 Into the Roil
 2 Roil Eruption
 3 Roost of Drakes
 3 Into the Roil
 3 Roil Eruption
-4 Roost of Drakes
 4 Into the Roil
+4 Roost of Drakes
 4 Roil Eruption
 10 Island
 11 Island

@@ -32,8 +32,8 @@
 1 Celestial Purge
 1 Rest in Peace
 1 Surgical Extraction
-2 Rest in Peace
 2 Celestial Purge
+2 Rest in Peace
 3 Rest in Peace
 3 Aether Gust
 1 Ghost Quarter
@@ -58,8 +58,8 @@
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
-1 Go for the Throat
 1 Soul-Guide Lantern
+1 Go for the Throat
 2 Ghost Quarter
 2 Soul-Guide Lantern
 3 Soul-Guide Lantern
@@ -78,6 +78,10 @@
 2 Set Adrift
 2 Fatal Push
 3 Darkness
+1 Relic of Progenitus
+2 Relic of Progenitus
+3 Relic of Progenitus
+4 Relic of Progenitus
 1 Thassa's Oracle
 2 Thassa's Oracle
 3 Thassa's Oracle
@@ -96,7 +100,3 @@
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 4 Leyline of Sanctity
-1 Relic of Progenitus
-2 Relic of Progenitus
-3 Relic of Progenitus
-4 Relic of Progenitus
