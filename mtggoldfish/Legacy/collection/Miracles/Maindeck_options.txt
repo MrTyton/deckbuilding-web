@@ -49,17 +49,17 @@
 2 Karakas
 1 Underground Sea
 3 Teferi, Time Raveler
+1 Sword of Fire and Ice
 1 Stoneforge Mystic
 1 True-Name Nemesis
-1 Vendilion Clique
 1 Batterskull
-1 Sword of Fire and Ice
+1 Vendilion Clique
 1 Venser, Shaper Savant
 2 Stoneforge Mystic
 2 True-Name Nemesis
 2 Vendilion Clique
-3 True-Name Nemesis
 3 Stoneforge Mystic
+3 True-Name Nemesis
 4 Stoneforge Mystic
 3 Arcum's Astrolabe
 1 Unexpectedly Absent
@@ -68,10 +68,10 @@
 1 Kaya, Orzhov Usurper
 2 Cling to Dust
 6 Island
-1 Snow-Covered Forest
 1 Sylvan Library
 1 Daze
 1 Tropical Island
+1 Snow-Covered Forest
 1 Oko, Thief of Crowns
 2 Daze
 2 Oko, Thief of Crowns
@@ -90,8 +90,8 @@
 2 Preordain
 3 Spell Pierce
 3 Lightning Bolt
-4 Arcum's Astrolabe
 4 Snapcaster Mage
+4 Arcum's Astrolabe
 4 Lightning Bolt
 4 True-Name Nemesis
 1 Sword of Feast and Famine
@@ -99,8 +99,11 @@
 1 Deprive
 1 Mystical Dispute
 2 Tropical Island
-1 Rest in Peace
+1 Teferi, Hero of Dominaria
+2 Teferi, Hero of Dominaria
+3 Portent
 1 Helm of Obedience
+1 Rest in Peace
 2 Rest in Peace
 2 Helm of Obedience
 3 Rest in Peace
@@ -108,30 +111,6 @@
 1 Precognition Field
 2 See the Truth
 3 See the Truth
-1 Teferi, Hero of Dominaria
-2 Teferi, Hero of Dominaria
-3 Portent
-4 Terminus
-1 Brazen Borrower
-1 Accumulated Knowledge
-1 Search for Azcanta
-2 Accumulated Knowledge
-3 Accumulated Knowledge
-4 Accumulated Knowledge
-1 Standstill
-1 Wasteland
-1 Myth Realized
-1 Shark Typhoon
-1 Hall of Heliod's Generosity
-2 Wasteland
-2 Standstill
-2 Shark Typhoon
-2 Myth Realized
-2 Spell Snare
-3 Myth Realized
-3 Standstill
-3 Shark Typhoon
-4 Standstill
 1 Orim's Chant
 1 Lavinia, Azorius Renegade
 1 Possibility Storm
@@ -139,10 +118,17 @@
 1 Isochron Scepter
 2 Possibility Storm
 2 Lavinia, Azorius Renegade
-2 Pyroblast
 2 Orim's Chant
+2 Pyroblast
 3 Mystic Sanctuary
 4 Teferi, Time Raveler
+4 Terminus
+1 Brazen Borrower
+1 Accumulated Knowledge
+1 Search for Azcanta
+2 Accumulated Knowledge
+3 Accumulated Knowledge
+4 Accumulated Knowledge
 1 Marsh Flats
 1 Spellseeker
 1 Eliminate
@@ -161,3 +147,17 @@
 3 Eliminate
 4 Eliminate
 4 Baleful Strix
+1 Wasteland
+1 Myth Realized
+1 Shark Typhoon
+1 Standstill
+1 Hall of Heliod's Generosity
+2 Wasteland
+2 Shark Typhoon
+2 Myth Realized
+2 Spell Snare
+2 Standstill
+3 Myth Realized
+3 Shark Typhoon
+3 Standstill
+4 Standstill

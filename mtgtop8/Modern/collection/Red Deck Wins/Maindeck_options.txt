@@ -1,71 +1,65 @@
-4 Mountain
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-13 Mountain
-1 Soul-Scar Mage
-2 Soul-Scar Mage
-3 Soul-Scar Mage
-4 Soul-Scar Mage
-1 Lava Dart
-1 Light Up the Stage
-2 Lava Dart
-2 Light Up the Stage
-3 Light Up the Stage
-3 Lava Dart
-4 Light Up the Stage
-4 Lava Dart
+4 Rift Bolt
+1 Skullcrack
+2 Skullcrack
+1 Boros Charm
+2 Boros Charm
+3 Boros Charm
+4 Boros Charm
+1 Wooded Foothills
+2 Wooded Foothills
+4 Searing Blaze
+1 Skewer the Critics
+2 Skewer the Critics
+1 Bloodstained Mire
+2 Bloodstained Mire
+1 Arid Mesa
+1 Inspiring Vantage
+2 Inspiring Vantage
+3 Inspiring Vantage
+4 Inspiring Vantage
 2 Fiery Islet
+3 Skewer the Critics
 14 Mountain
 1 Bonecrusher Giant
+2 Bonecrusher Giant
 1 Firebolt
 1 Seasoned Pyromancer
 1 Flame Slash
 2 Firebolt
-2 Bonecrusher Giant
 2 Seasoned Pyromancer
 2 Flame Slash
 3 Seasoned Pyromancer
 3 Bonecrusher Giant
 3 Firebolt
-4 Seasoned Pyromancer
 4 Bonecrusher Giant
+4 Seasoned Pyromancer
 15 Mountain
+2 Arid Mesa
+4 Skewer the Critics
+3 Fiery Islet
 4 Firebolt
 3 Flame Slash
 4 Flame Slash
 3 Lightning Helix
 16 Mountain
-3 Fiery Islet
+1 Burst Lightning
+17 Mountain
+1 Scalding Tarn
+1 Manamorphose
+2 Manamorphose
+3 Manamorphose
+4 Manamorphose
+2 Scalding Tarn
 1 Blistercoil Weird
 2 Blistercoil Weird
 3 Blistercoil Weird
 4 Blistercoil Weird
-17 Mountain
-1 Scalding Tarn
-1 Burst Lightning
-3 Bloodstained Mire
-18 Mountain
 1 Forgotten Cave
 2 Forgotten Cave
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
-4 Fiery Islet
-3 Wooded Foothills
-4 Lightning Helix
-1 Manamorphose
-2 Manamorphose
-3 Manamorphose
-4 Manamorphose
-1 Spikefield Hazard
-2 Scalding Tarn
-2 Burst Lightning
+18 Mountain
 1 Crash Through
 1 Kiln Fiend
 2 Crash Through
@@ -73,47 +67,59 @@
 3 Crash Through
 3 Kiln Fiend
 4 Crash Through
+4 Fiery Islet
+1 Bedlam Reveler
+2 Bedlam Reveler
+3 Bedlam Reveler
+4 Lightning Helix
+3 Bloodstained Mire
+1 Spikefield Hazard
+1 Forked Bolt
+3 Scalding Tarn
+4 Scalding Tarn
+2 Burst Lightning
 4 Kiln Fiend
 1 Wild Slash
 1 Mutagenic Growth
 2 Wild Slash
 2 Mutagenic Growth
-1 Bedlam Reveler
-2 Bedlam Reveler
-3 Bedlam Reveler
 1 Atarka's Command
 1 Stomping Ground
 2 Stomping Ground
 2 Atarka's Command
 3 Atarka's Command
+3 Wooded Foothills
 4 Atarka's Command
-3 Arid Mesa
-4 Arid Mesa
 1 Shard Volley
 2 Shard Volley
 4 Bloodstained Mire
-1 Forked Bolt
 1 Roiling Vortex
 2 Roiling Vortex
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
 4 Blood Moon
+3 Skullcrack
+4 Skullcrack
 1 Magus of the Moon
 2 Magus of the Moon
 3 Forgotten Cave
 3 Magus of the Moon
 4 Magus of the Moon
-1 Chandra's Incinerator
 1 Seal of Fire
-2 Chandra's Incinerator
+1 Chandra's Incinerator
 2 Seal of Fire
-3 Seal of Fire
+2 Chandra's Incinerator
 3 Chandra's Incinerator
+3 Seal of Fire
 4 Seal of Fire
 4 Chandra's Incinerator
-3 Scalding Tarn
-4 Scalding Tarn
+1 Blast Zone
+1 Bomat Courier
+2 Blast Zone
+2 Bomat Courier
+3 Bomat Courier
+4 Bomat Courier
 1 Thunderous Wrath
 1 Copperline Gorge
 1 Grim Lavamancer
@@ -126,13 +132,23 @@
 3 Wild Nacatl
 4 Copperline Gorge
 4 Wild Nacatl
+1 Abbot of Keral Keep
+2 Abbot of Keral Keep
+3 Wild Slash
+3 Mutagenic Growth
+3 Abbot of Keral Keep
+4 Wild Slash
+4 Bedlam Reveler
+4 Mutagenic Growth
+4 Abbot of Keral Keep
+4 Wooded Foothills
 1 Blood Crypt
 1 Bump in the Night
 1 Scourge of the Skyclaves
 1 Fatal Push
 1 Blackcleave Cliffs
-1 Cling to Dust
 1 Mishra's Bauble
+1 Cling to Dust
 2 Bump in the Night
 2 Scourge of the Skyclaves
 2 Fatal Push
@@ -141,18 +157,10 @@
 2 Blackcleave Cliffs
 3 Bump in the Night
 3 Scourge of the Skyclaves
+3 Arid Mesa
 3 Blood Crypt
 3 Mishra's Bauble
-4 Scourge of the Skyclaves
 4 Bump in the Night
+4 Scourge of the Skyclaves
 4 Mishra's Bauble
-1 Abbot of Keral Keep
-2 Abbot of Keral Keep
-3 Wild Slash
-3 Mutagenic Growth
-3 Abbot of Keral Keep
-4 Mutagenic Growth
-4 Wild Slash
-4 Bedlam Reveler
-4 Abbot of Keral Keep
-4 Wooded Foothills
+4 Arid Mesa

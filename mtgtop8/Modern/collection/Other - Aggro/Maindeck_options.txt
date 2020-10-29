@@ -5,12 +5,13 @@
 2 Stomping Ground
 1 Steam Vents
 1 Bloodstained Mire
-2 Mountain
 2 Bloodstained Mire
+2 Mountain
 1 Dakmor Salvage
 1 Mana Confluence
 1 Arid Mesa
 1 Conflagrate
+1 Forgotten Cave
 1 Bloodghast
 1 Shriekhorn
 1 Blood Crypt
@@ -22,7 +23,6 @@
 1 Cathartic Reunion
 1 Ox of Agonas
 1 Copperline Gorge
-1 Forgotten Cave
 1 Life from the Loam
 1 Creeping Chill
 1 Prized Amalgam
@@ -78,6 +78,7 @@
 1 Light Up the Stage
 1 Stormwing Entity
 2 Wild Slash
+2 Fiery Islet
 2 Stormwing Entity
 2 Sprite Dragon
 2 Gut Shot
@@ -92,7 +93,6 @@
 2 Monastery Swiftspear
 2 Light Up the Stage
 2 Opt
-2 Fiery Islet
 3 Sprite Dragon
 3 Manamorphose
 3 Light Up the Stage
@@ -113,61 +113,61 @@
 4 Monastery Swiftspear
 4 Scalding Tarn
 4 Soul-Scar Mage
-1 Watery Grave
-1 Swamp
-1 Aether Vial
-1 Gravecrawler
-1 Fatal Push
 1 Carrion Feeder
+1 Swamp
 1 Cryptbreaker
 1 Polluted Delta
-1 Geralf's Messenger
+1 Village Rites
 1 Cavern of Souls
+1 Aether Vial
+1 Murderous Rider
+1 Watery Grave
+1 Gravecrawler
+1 Soul Diviner
+1 Fatal Push
+1 Geralf's Messenger
 1 Dread Wanderer
 1 Darkslick Shores
-1 Village Rites
-1 Soul Diviner
 1 Agadeem's Awakening
 1 Diregraf Captain
 1 Undead Augur
 1 Plague Belcher
-1 Murderous Rider
-2 Cavern of Souls
-2 Watery Grave
-2 Agadeem's Awakening
-2 Gravecrawler
-2 Aether Vial
 2 Carrion Feeder
+2 Cavern of Souls
+2 Aether Vial
+2 Agadeem's Awakening
+2 Village Rites
+2 Murderous Rider
+2 Watery Grave
+2 Gravecrawler
 2 Geralf's Messenger
 2 Plague Belcher
-2 Murderous Rider
 2 Dread Wanderer
 2 Soul Diviner
 2 Darkslick Shores
 2 Diregraf Captain
 2 Swamp
-2 Village Rites
 2 Polluted Delta
 2 Fatal Push
 2 Undead Augur
 2 Cryptbreaker
+3 Carrion Feeder
 3 Aether Vial
 3 Gravecrawler
 3 Watery Grave
 3 Polluted Delta
 3 Diregraf Captain
-3 Carrion Feeder
 3 Fatal Push
 3 Geralf's Messenger
 3 Swamp
 3 Undead Augur
 4 Watery Grave
 4 Aether Vial
+4 Carrion Feeder
 4 Fatal Push
 4 Diregraf Captain
 4 Gravecrawler
 4 Polluted Delta
-4 Carrion Feeder
 4 Swamp
 4 Undead Augur
 4 Geralf's Messenger

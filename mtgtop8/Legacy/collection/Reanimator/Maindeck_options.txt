@@ -18,9 +18,9 @@
 1 Underground Sea
 1 Ponder
 1 Force of Will
-2 Force of Will
 2 Brainstorm
 2 Ponder
+2 Force of Will
 3 Force of Will
 3 Brainstorm
 3 Ponder
@@ -60,8 +60,8 @@
 1 Snow-Covered Island
 1 Blood Crypt
 1 Inquisition of Kozilek
-1 Feed the Swarm
 1 Massacre Wurm
+1 Feed the Swarm
 1 Hymn to Tourach
 1 Scrying Sheets
 2 Feed the Swarm
@@ -78,29 +78,6 @@
 3 Careful Study
 3 Underground Sea
 4 Careful Study
-1 Titanoth Rex
-1 Mana Confluence
-1 Rotting Regisaur
-1 Pithing Needle
-1 Berserk
-1 Ancient Tomb
-1 Not of This World
-1 Taiga
-1 Gishath, Sun's Avatar
-2 Mana Confluence
-2 Titanoth Rex
-2 Rotting Regisaur
-2 Gishath, Sun's Avatar
-2 Berserk
-3 Mana Confluence
-3 Titanoth Rex
-3 Rotting Regisaur
-3 Gishath, Sun's Avatar
-3 Berserk
-4 Mana Confluence
-4 Titanoth Rex
-4 Rotting Regisaur
-4 Berserk
 1 Snow-Covered Forest
 1 Ice-Fang Coatl
 1 Uro, Titan of Nature's Wrath
@@ -131,6 +108,29 @@
 4 Ice-Fang Coatl
 4 Misty Rainforest
 4 Arcum's Astrolabe
+1 Mana Confluence
+1 Rotting Regisaur
+1 Not of This World
+1 Pithing Needle
+1 Titanoth Rex
+1 Berserk
+1 Ancient Tomb
+1 Taiga
+1 Gishath, Sun's Avatar
+2 Mana Confluence
+2 Rotting Regisaur
+2 Gishath, Sun's Avatar
+2 Berserk
+2 Titanoth Rex
+3 Mana Confluence
+3 Rotting Regisaur
+3 Gishath, Sun's Avatar
+3 Berserk
+3 Titanoth Rex
+4 Mana Confluence
+4 Rotting Regisaur
+4 Berserk
+4 Titanoth Rex
 1 Spellseeker
 1 Intuition
 1 Teferi, Time Raveler

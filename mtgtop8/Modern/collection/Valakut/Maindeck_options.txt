@@ -1,26 +1,30 @@
-1 Scattered Groves
+1 Elder Gargaroth
 1 Courser of Kruphix
 1 Horizon Canopy
 2 Wooded Foothills
-1 Search for Tomorrow
-1 Cinder Glade
+1 Misty Rainforest
+1 Verdant Catacombs
 1 Summoner's Pact
 1 Mountain
+1 Search for Tomorrow
 1 Stomping Ground
-2 Search for Tomorrow
+1 Cinder Glade
 2 Stomping Ground
 2 Sakura-Tribe Elder
 2 Summoner's Pact
+2 Search for Tomorrow
 2 Mountain
-3 Search for Tomorrow
 3 Stomping Ground
 3 Wooded Foothills
-3 Sakura-Tribe Elder
 3 Valakut, the Molten Pinnacle
 3 Summoner's Pact
+3 Sakura-Tribe Elder
+3 Search for Tomorrow
 4 Wooded Foothills
-4 Search for Tomorrow
 4 Sakura-Tribe Elder
+4 Search for Tomorrow
+2 Skyclave Apparition
+1 Tireless Tracker
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 4 Stomping Ground
@@ -28,42 +32,32 @@
 2 Farseek
 3 Farseek
 3 Mountain
-1 Sheltered Thicket
 4 Summoner's Pact
-1 Elder Gargaroth
 3 Castle Garenbrig
-1 Verdant Catacombs
-1 Scapeshift
-1 Misty Rainforest
-4 Valakut, the Molten Pinnacle
+1 Sheltered Thicket
 4 Farseek
 1 Through the Breach
 2 Through the Breach
 3 Through the Breach
-1 Knight of the Reliquary
-1 Sejiri Steppe
-1 Woodland Bellower
+4 Valakut, the Molten Pinnacle
+1 Kazandu Mammoth
 1 Springbloom Druid
-2 Skyclave Apparition
-2 Scapeshift
-3 Scapeshift
-1 Lightning Bolt
-2 Lightning Bolt
+1 Knight of the Reliquary
+1 Scapeshift
 1 Woodfall Primus
 2 Cinder Glade
 4 Through the Breach
+1 Turntimber Symbiosis
 1 Voice of Resurgence
 1 Elvish Rejuvenator
+1 Sejiri Steppe
+1 Woodland Bellower
 1 Felidar Retreat
 1 Scavenging Ooze
 2 Felidar Retreat
 2 Ghost Quarter
 3 Temple Garden
 1 Archon of Emeria
-1 Kazandu Mammoth
-1 Abrade
-3 Snow-Covered Mountain
-4 Castle Garenbrig
 1 Ketria Triome
 1 Uro, Titan of Nature's Wrath
 1 Breeding Pool
@@ -73,44 +67,47 @@
 1 Prairie Stream
 1 Field of Ruin
 1 Prismatic Vista
-1 Jace, the Mind Sculptor
+1 Cryptic Command
+1 Mystic Sanctuary
 1 Island
 1 Teferi, Time Raveler
 1 Aether Gust
+1 Jace, the Mind Sculptor
 1 Force of Negation
-1 Mystic Sanctuary
 1 Mana Leak
 1 Growth Spiral
 1 Hallowed Fountain
-1 Cryptic Command
 1 Flooded Strand
 1 Supreme Verdict
-2 Jace, the Mind Sculptor
+2 Mystic Sanctuary
+2 Cryptic Command
 2 Misty Rainforest
 2 Aether Gust
 2 Force of Negation
-2 Cryptic Command
+2 Jace, the Mind Sculptor
 2 Teferi, Time Raveler
 2 Mana Leak
 2 Growth Spiral
-2 Mystic Sanctuary
 2 Flooded Strand
-3 Misty Rainforest
 3 Uro, Titan of Nature's Wrath
+3 Cryptic Command
+3 Misty Rainforest
 3 Growth Spiral
 3 Flooded Strand
-3 Cryptic Command
-4 Growth Spiral
 4 Flooded Strand
+4 Growth Spiral
 1 Dead / Gone
 1 Nightpack Ambusher
 2 Nightpack Ambusher
+1 Lightning Bolt
+2 Lightning Bolt
+2 Scapeshift
+3 Scapeshift
 1 Sweltering Suns
 1 Emrakul, the Aeons Torn
 3 Cinder Glade
 4 Mountain
-1 Turntimber Symbiosis
-1 Nissa, Vastwood Seer
+1 Yasharn, Implacable Earth
 1 Omnath, Locus of Creation
 1 Shalai, Voice of Plenty
 1 Raugrin Triome
@@ -120,13 +117,15 @@
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 2 Dead / Gone
-2 Sweltering Suns
 1 Castle Vantress
 2 Island
 2 Prismatic Vista
+1 Abrade
+2 Sweltering Suns
+3 Snow-Covered Mountain
+3 Forest
 1 Crumbling Vestige
 3 Snow-Covered Forest
-3 Forest
 1 Escape to the Wilds
 1 Mwonvuli Acid-Moss
 2 Mwonvuli Acid-Moss
@@ -137,6 +136,12 @@
 1 Omen of the Hunt
 3 Lightning Bolt
 4 Lightning Bolt
+1 Pendelhaven
+1 Beast Within
+1 Dwarven Mine
+2 Beast Within
+4 Castle Garenbrig
+4 Scapeshift
 1 Chalice of the Void
 1 Anger of the Gods
 1 Simian Spirit Guide
@@ -148,8 +153,3 @@
 4 Chalice of the Void
 5 Mountain
 6 Mountain
-1 Pendelhaven
-1 Beast Within
-1 Dwarven Mine
-2 Beast Within
-4 Scapeshift

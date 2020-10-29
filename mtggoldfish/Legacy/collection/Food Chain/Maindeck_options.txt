@@ -4,9 +4,9 @@
 2 Force of Negation
 2 Abrupt Decay
 3 Arcum's Astrolabe
+3 Abrupt Decay
 3 Oko, Thief of Crowns
 3 Walking Ballista
-3 Abrupt Decay
 4 Polluted Delta
 4 Arcum's Astrolabe
 5 Snow-Covered Island
@@ -22,10 +22,10 @@
 2 Baleful Strix
 3 Snapcaster Mage
 1 Tundra
+1 Horizon Canopy
 1 Snow-Covered Plains
 1 Savannah
 1 Flooded Strand
-1 Horizon Canopy
 1 Ranger-Captain of Eos
 1 Swords to Plowshares
 2 Flooded Strand
@@ -36,8 +36,8 @@
 3 Swords to Plowshares
 4 Flooded Strand
 1 Bloodchief's Thirst
-2 Bloodchief's Thirst
 2 Cling to Dust
+2 Bloodchief's Thirst
 3 Bloodchief's Thirst
 1 Fatal Push
 2 Fatal Push
@@ -46,31 +46,31 @@
 1 Sylvan Library
 2 Sylvan Library
 3 Baleful Strix
-4 Baleful Strix
 4 Abrupt Decay
+4 Baleful Strix
 1 Once Upon a Time
-1 Chrome Mox
 1 Venser, Shaper Savant
 1 Hydroid Krasis
 1 Chalice of the Void
 1 Genesis Hydra
 1 Winding Canyons
 1 Ancient Tomb
+1 Chrome Mox
 1 Emrakul, the Aeons Torn
 1 City of Traitors
-2 Chrome Mox
 2 Once Upon a Time
 2 Hydroid Krasis
 2 Chalice of the Void
+2 Chrome Mox
 2 Ancient Tomb
-3 Chrome Mox
 3 Chalice of the Void
+3 Chrome Mox
 4 Manipulate Fate
 4 Snow-Covered Forest
 4 Chalice of the Void
 1 Wooded Foothills
-1 Taiga
 1 Veil of Summer
+1 Taiga
 1 Scalding Tarn
 1 Purphoros, God of the Forge
 1 Lightning Bolt
@@ -83,7 +83,7 @@
 3 Lightning Bolt
 3 Scalding Tarn
 4 Misthollow Griffin
+1 Leovold, Emissary of Trest
 1 Relic of Progenitus
 1 Tidespout Tyrant
-1 Leovold, Emissary of Trest
 4 Noble Hierarch

@@ -1,8 +1,9 @@
-4 Fatal Push
+4 Censor
 3 Negate
 1 Hieroglyphic Illumination
 5 Island
 1 Agadeem's Awakening
+2 Agadeem's Awakening
 1 Turntimber Symbiosis
 1 Bala Ged Recovery
 1 Balustrade Spy
@@ -10,13 +11,12 @@
 1 Worldspine Wurm
 1 Pelakka Predation
 1 Undercity Informer
-2 Agadeem's Awakening
 2 Turntimber Symbiosis
 2 Bala Ged Recovery
 2 Undercity Informer
-2 Tangled Florahedron
 2 Pelakka Predation
 2 Balustrade Spy
+2 Tangled Florahedron
 3 Turntimber Symbiosis
 3 Agadeem's Awakening
 3 Undercity Informer
@@ -28,21 +28,22 @@
 4 Tangled Florahedron
 1 Driven/Despair
 1 Sea Gate Restoration
-1 Creeping Chill
 1 Silversmote Ghoul
+1 Creeping Chill
 1 Haunted Dead
 1 Prized Amalgam
+2 Sea Gate Restoration
 2 Creeping Chill
 2 Silversmote Ghoul
-2 Sea Gate Restoration
 2 Prized Amalgam
 3 Prized Amalgam
 3 Creeping Chill
-4 Creeping Chill
 4 Prized Amalgam
+4 Creeping Chill
 1 Hagra Mauling
-4 Bala Ged Recovery
 4 Agadeem's Awakening
+4 Bala Ged Recovery
+1 Thoughtseize
 3 Sea Gate Restoration
 2 Hagra Mauling
 2 Worldspine Wurm
@@ -52,6 +53,9 @@
 3 Sylvan Caryatid
 4 Sylvan Caryatid
 4 Balustrade Spy
+2 Thoughtseize
+3 Thoughtseize
+4 Thoughtseize
 4 Fetid Pools
 1 Paradise Druid
 2 Paradise Druid
@@ -59,15 +63,12 @@
 3 Paradise Druid
 1 Emeria's Call
 2 Emeria's Call
-1 Thoughtseize
-2 Rewind
 3 Torrential Gearhulk
-2 Thoughtseize
-3 Thoughtseize
-4 Thoughtseize
+2 Rewind
 3 Pelakka Predation
 2 Vraska's Contempt
 1 Heartless Act
+1 Clearwater Pathway
 4 Dig Through Time
 1 Thassa's Oracle
 4 Pelakka Predation
@@ -77,48 +78,110 @@
 2 Eldritch Evolution
 3 Eldritch Evolution
 4 Eldritch Evolution
-1 Neoform
-2 Neoform
-3 Neoform
-4 Neoform
+1 Cling to Dust
+1 Urborg, Tomb of Yawgmoth
+1 Thieves' Guild Enforcer
+1 Drown in the Loch
+1 Soaring Thought-Thief
+1 Mutavault
+2 Clearwater Pathway
+2 Thieves' Guild Enforcer
+2 Drown in the Loch
+2 Soaring Thought-Thief
+2 Mutavault
+3 Thieves' Guild Enforcer
+3 Drown in the Loch
+3 Soaring Thought-Thief
+4 Thieves' Guild Enforcer
+4 Drown in the Loch
+4 Soaring Thought-Thief
 1 Gilded Goose
 2 Gilded Goose
 3 Hagra Mauling
 3 Gilded Goose
 4 Gilded Goose
 4 Hagra Mauling
-1 Cling to Dust
+1 Neoform
+2 Neoform
+3 Neoform
+4 Neoform
 2 Eliminate
 4 Fabled Passage
-1 Clearwater Pathway
+1 Into the Story
+2 Into the Story
 2 Hieroglyphic Illumination
 1 Claim/Fame
+3 Clearwater Pathway
+1 Brazen Borrower
+3 Swamp
+1 Merfolk Windrobber
+2 Merfolk Windrobber
+3 Merfolk Windrobber
+4 Merfolk Windrobber
+4 Clearwater Pathway
+1 Botanical Sanctum
+1 Mana Confluence
+1 Deathrite Shaman
+1 Chart a Course
+1 Blooming Marsh
+1 Breeding Pool
+2 Mana Confluence
+2 Botanical Sanctum
+2 Deathrite Shaman
+2 Blooming Marsh
+2 Chart a Course
+3 Into the Story
+3 Botanical Sanctum
+3 Mutavault
+3 Chart a Course
+3 Deathrite Shaman
+4 Into the Story
+4 Botanical Sanctum
+4 Deathrite Shaman
+4 Chart a Course
 1 Mystical Dispute
 2 Mystical Dispute
 3 Hieroglyphic Illumination
 4 Hieroglyphic Illumination
-1 Brazen Borrower
-3 Swamp
 4 Silversmote Ghoul
+1 Ipnu Rivulet
+1 Dead Weight
+1 Frantic Inventory
+1 Pteramander
+2 Frantic Inventory
+3 Frantic Inventory
+4 Frantic Inventory
 4 Paradise Druid
 3 Emeria's Call
 4 Emeria's Call
+1 Ugin, the Spirit Dragon
+1 Ashiok, Nightmare Muse
+1 Jace, Vryn's Prodigy
+1 Syncopate
 1 Jwari Disruption
 1 Zof Consumption
-1 Ashiok, Nightmare Muse
-1 Ugin, the Spirit Dragon
+1 Sea Gate Stormcaller
+1 Lofty Denial
+1 Bloodchief's Thirst
 2 Castle Vantress
 1 Silundi Vision
 1 Shatterskull Smashing
 2 Shatterskull Smashing
 1 Shadows' Verdict
-1 Urborg, Tomb of Yawgmoth
 1 Scavenger Grounds
 2 Hero's Downfall
 2 Scavenger Grounds
 2 Shadows' Verdict
 3 Scavenger Grounds
 3 Vraska's Contempt
+1 Leyline of Sanctity
+1 Pillar of Origins
+2 Leyline of Sanctity
+2 Pillar of Origins
+3 Leyline of Sanctity
+3 Pillar of Origins
+4 Leyline of Sanctity
+4 Pillar of Origins
 1 Vastwood Fortification
 1 Failure/Comply
 1 Revival/Revenge
@@ -130,14 +193,22 @@
 3 Vastwood Fortification
 3 Claim/Fame
 3 Revival/Revenge
-4 Vastwood Fortification
-4 Revival/Revenge
 4 Claim/Fame
-1 Leyline of Sanctity
-1 Pillar of Origins
-2 Leyline of Sanctity
-2 Pillar of Origins
-3 Leyline of Sanctity
-3 Pillar of Origins
-4 Leyline of Sanctity
-4 Pillar of Origins
+4 Revival/Revenge
+4 Vastwood Fortification
+1 Zareth San, the Trickster
+1 Nighthawk Scavenger
+1 Aether Hub
+1 Glint-Sleeve Siphoner
+1 Choked Estuary
+2 Nighthawk Scavenger
+2 Aether Hub
+2 Zareth San, the Trickster
+2 Choked Estuary
+2 Brazen Borrower
+2 Glint-Sleeve Siphoner
+3 Zareth San, the Trickster
+3 Brazen Borrower
+3 Glint-Sleeve Siphoner
+4 Glint-Sleeve Siphoner
+4 Swamp
