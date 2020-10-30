@@ -1,8 +1,8 @@
 4 Pentad Prism
 1 Sword of the Meek
 2 Sword of the Meek
-1 Vengevine
 1 Creeping Chill
+1 Vengevine
 1 Narcomoeba
 1 Agadeem's Awakening
 1 Phantasmagorian
@@ -55,12 +55,12 @@
 1 Watery Grave
 2 Polluted Delta
 2 Watery Grave
-1 Remand
 1 River of Tears
 1 Murderous Cut
 1 Fatal Push
 1 Inquisition of Kozilek
 1 Inverter of Truth
+1 Remand
 2 Remand
 2 Fatal Push
 2 Inquisition of Kozilek
@@ -95,44 +95,44 @@
 1 Snow-Covered Swamp
 2 Snow-Covered Island
 3 Force of Negation
+1 Castle Locthwain
 1 Dark Confidant
 1 Thespian's Stage
 1 Dark Depths
-1 Castle Locthwain
-1 Preordain
-1 Ponder
 1 Urborg, Tomb of Yawgmoth
 1 Vampire Hexmage
 1 Chrome Mox
-1 Muddle the Mixture
 1 Mishra's Bauble
+1 Muddle the Mixture
 1 Thopter Foundry
+1 Preordain
+1 Ponder
 1 Gitaxian Probe
-2 Dark Confidant
 2 Urborg, Tomb of Yawgmoth
-2 Preordain
-2 Ponder
+2 Dark Confidant
 2 Chrome Mox
+2 Ponder
 2 Dark Depths
 2 Vampire Hexmage
+2 Preordain
 2 Gitaxian Probe
 2 Mishra's Bauble
 2 Thopter Foundry
 2 Thespian's Stage
-3 Urborg, Tomb of Yawgmoth
+3 Preordain
 3 Dark Confidant
 3 Chrome Mox
-3 Ponder
-3 Preordain
 3 Vampire Hexmage
+3 Urborg, Tomb of Yawgmoth
+3 Ponder
 3 Thopter Foundry
 3 Dark Depths
 3 Gitaxian Probe
-4 Dark Confidant
-4 Ponder
-4 Chrome Mox
 4 Preordain
+4 Dark Confidant
+4 Chrome Mox
 4 Thoughtseize
+4 Ponder
 4 Gitaxian Probe
 4 Dark Depths
 4 Vampire Hexmage
@@ -189,56 +189,55 @@
 1 Spell Queller
 1 Wall of Omens
 1 Fae of Wishes
-1 Prismatic Vista
 1 Snow-Covered Mountain
+1 Prismatic Vista
 1 Narset of the Ancient Way
 1 Delay
-1 Commandeer
+1 Spellskite
 1 Chandra, Torch of Defiance
 1 Arid Mesa
 1 Drannith Magistrate
 1 Flooded Strand
 1 Snow-Covered Plains
+1 Commandeer
 1 Sacred Foundry
 1 Reverse the Sands
-1 Spellskite
 1 Possibility Storm
 1 Phyrexian Unlife
 2 Spell Queller
-2 Fae of Wishes
-2 Snow-Covered Plains
 2 Wall of Omens
 2 Drannith Magistrate
+2 Snow-Covered Plains
 2 Delay
 2 Snow-Covered Mountain
-2 Prismatic Vista
 2 Spellskite
 2 Arid Mesa
+2 Fae of Wishes
 2 Narset of the Ancient Way
 2 Possibility Storm
 2 Chandra, Torch of Defiance
 2 Phyrexian Unlife
 2 Jace, the Mind Sculptor
 2 Flooded Strand
+2 Prismatic Vista
 2 Commandeer
 3 Spell Queller
 3 Snow-Covered Island
-3 Fae of Wishes
 3 Wall of Omens
 3 Drannith Magistrate
 3 Snow-Covered Plains
-3 Prismatic Vista
+3 Fae of Wishes
 3 Delay
+3 Prismatic Vista
 3 Arid Mesa
 3 Phyrexian Unlife
 3 Flooded Strand
 3 Possibility Storm
 3 Scalding Tarn
 4 Spell Queller
-4 Fae of Wishes
 4 Drannith Magistrate
-4 Snow-Covered Plains
 4 Prismatic Vista
+4 Snow-Covered Plains
 4 Delay
 4 Wall of Omens
 4 Snow-Covered Island
@@ -246,22 +245,22 @@
 4 Force of Negation
 4 Phyrexian Unlife
 4 Scalding Tarn
+4 Fae of Wishes
 4 Flooded Strand
 5 Snow-Covered Plains
 5 Snow-Covered Island
 1 Silundi Vision
-1 Beyeen Veil
+1 Jwari Disruption
 1 Talisman of Progress
 1 Disrupting Shoal
 1 Skyclave Cleric
 1 Teferi, Hero of Dominaria
-1 Jwari Disruption
+1 Beyeen Veil
 1 Pieces of the Puzzle
 1 Path to Exile
 1 Selective Memory
 1 Snapback
 2 Silundi Vision
-2 Beyeen Veil
 2 Jwari Disruption
 2 Talisman of Progress
 2 Disrupting Shoal
@@ -269,6 +268,7 @@
 2 Selective Memory
 2 Path to Exile
 2 Snapback
+2 Beyeen Veil
 2 Pieces of the Puzzle
 3 Talisman of Progress
 3 Jwari Disruption

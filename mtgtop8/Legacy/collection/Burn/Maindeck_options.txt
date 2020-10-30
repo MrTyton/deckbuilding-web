@@ -1,11 +1,7 @@
-2 Light Up the Stage
-1 Sulfuric Vortex
-18 Mountain
+4 Exquisite Firecraft
 1 Snow-Covered Mountain
-1 Searing Blood
 1 Chandra's Incinerator
 2 Chandra's Incinerator
-1 Risk Factor
 1 Grim Lavamancer
 3 Skewer the Critics
 2 Snow-Covered Mountain
@@ -17,6 +13,7 @@
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
+1 Sulfuric Vortex
 2 Sulfuric Vortex
 1 Bloodstained Mire
 1 Wooded Foothills
@@ -24,11 +21,14 @@
 2 Arid Mesa
 2 Bloodstained Mire
 2 Wooded Foothills
+18 Mountain
+1 Searing Blood
 1 Scalding Tarn
 2 Scalding Tarn
 1 Sunbaked Canyon
 2 Sunbaked Canyon
 1 Mystic Monastery
+1 Risk Factor
 2 Risk Factor
 2 Grim Lavamancer
 2 Mystic Monastery
@@ -46,8 +46,8 @@
 3 Arid Mesa
 3 Bloodstained Mire
 3 Wayward Guide-Beast
-4 Wooded Foothills
 4 Akoum Hellhound
+4 Wooded Foothills
 4 Bloodstained Mire
 4 Arid Mesa
 1 Spark Elemental
@@ -80,7 +80,6 @@
 4 Bedlam Reveler
 4 Soul-Scar Mage
 4 Light Up the Stage
-19 Mountain
 11 Snow-Covered Mountain
 12 Snow-Covered Mountain
 13 Snow-Covered Mountain

@@ -55,8 +55,8 @@
 |                    4|[Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)             |                    3|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                 |
 |                    4|Blackbloom Rogue                                                                               |                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)     |
 |                    1|Emeria's Call                                                                                  |                    1|[Anafenza, the Foremost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386476)|
-|                    1|Zof Consumption                                                                                |                     |                                                                                                 |
 |                    2|Emeria's Call                                                                                  |                     |                                                                                                 |
-|                    4|Emeria's Call                                                                                  |                     |                                                                                                 |
 |                    3|Emeria's Call                                                                                  |                     |                                                                                                 |
+|                    4|Emeria's Call                                                                                  |                     |                                                                                                 |
+|                    1|Zof Consumption                                                                                |                     |                                                                                                 |
 

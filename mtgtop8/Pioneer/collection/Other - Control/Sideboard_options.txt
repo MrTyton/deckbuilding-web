@@ -42,20 +42,20 @@
 1 Erebos's Intervention
 1 Search for Azcanta
 1 Whirlwind Denial
-2 Erebos's Intervention
 2 Whirlwind Denial
+2 Erebos's Intervention
 2 Legion's End
 1 Containment Priest
 1 Settle the Wreckage
 2 Containment Priest
 2 Settle the Wreckage
 1 Thought Distortion
+1 Stonecoil Serpent
+1 Necromentia
 1 Chandra, Torch of Defiance
 1 Fry
 1 Chandra, Awakened Inferno
 1 The Elderspell
-1 Necromentia
-1 Stonecoil Serpent
 1 Rankle, Master of Pranks
 2 Kalitas, Traitor of Ghet
 2 Stonecoil Serpent
@@ -68,17 +68,6 @@
 1 Apostle of Purifying Light
 2 Apostle of Purifying Light
 3 Apostle of Purifying Light
-1 Thoughtseize
-1 Vantress Gargoyle
-1 Crypt Incursion
-2 Thoughtseize
-2 Vantress Gargoyle
-2 Grafdigger's Cage
-3 Thoughtseize
-3 Vantress Gargoyle
-4 Thoughtseize
-3 Rest in Peace
-4 Rest in Peace
 1 Ugin, the Ineffable
 1 Thought-Knot Seer
 1 Shifting Ceratops
@@ -91,6 +80,17 @@
 3 Thought-Knot Seer
 3 Shifting Ceratops
 4 Thought-Knot Seer
+1 Thoughtseize
+1 Vantress Gargoyle
+1 Crypt Incursion
+2 Thoughtseize
+2 Vantress Gargoyle
+2 Grafdigger's Cage
+3 Thoughtseize
+3 Vantress Gargoyle
+4 Thoughtseize
+3 Rest in Peace
+4 Rest in Peace
 1 Abrade
 1 Back to Nature
 1 Saruli Gatekeepers
@@ -100,8 +100,8 @@
 2 Saruli Gatekeepers
 2 Crackling Perimeter
 2 Thought Distortion
-3 Abrade
 3 Back to Nature
+3 Abrade
 3 Saruli Gatekeepers
 4 Saruli Gatekeepers
 1 Radiant Flames

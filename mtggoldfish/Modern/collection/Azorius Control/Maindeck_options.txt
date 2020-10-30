@@ -1,18 +1,4 @@
-3 Stoneforge Mystic
-4 Stoneforge Mystic
-3 Shark Typhoon
-3 Snow-Covered Island
-1 Polluted Delta
-4 Field of Ruin
-3 Archmage's Charm
-1 Celestial Colonnade
-1 Supreme Verdict
 2 Scalding Tarn
-1 Prairie Stream
-2 Plains
-2 Celestial Colonnade
-3 Misty Rainforest
-4 Misty Rainforest
 3 Remand
 4 Snapcaster Mage
 1 Lightning Bolt
@@ -24,30 +10,74 @@
 1 Cleansing Wildfire
 2 Lightning Bolt
 2 Lightning Helix
-2 Cleansing Wildfire
 2 Flagstones of Trokair
+2 Cleansing Wildfire
 3 Scalding Tarn
 3 Cleansing Wildfire
 3 Lightning Bolt
 3 Lightning Helix
 3 Flagstones of Trokair
 4 Cleansing Wildfire
-1 Sword of Fire and Ice
-6 Island
-1 Logic Knot
+3 Archmage's Charm
+2 Misty Rainforest
+1 Celestial Colonnade
+2 Mana Leak
+2 Plains
+1 Sword of Feast and Famine
+1 Batterskull
+1 Stoneforge Mystic
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+4 Stoneforge Mystic
 4 Flagstones of Trokair
 4 Scalding Tarn
+1 Logic Knot
+2 Celestial Colonnade
+1 Mountain
 4 Remand
+6 Island
 1 Terminus
+1 Sword of Fire and Ice
+3 Misty Rainforest
+4 Misty Rainforest
 2 Terminus
 3 Terminus
-1 Mountain
+4 Snow-Covered Island
+2 Polluted Delta
+2 Supreme Verdict
+5 Snow-Covered Island
+1 Glacial Fortress
+1 Mystic Gate
+3 Polluted Delta
+1 Omen of the Sea
+2 Snow-Covered Plains
+1 Wall of Omens
+2 Wall of Omens
+3 Mystic Sanctuary
+4 Force of Negation
+1 Spreading Seas
+2 Spreading Seas
+3 Spreading Seas
+4 Spreading Seas
+4 Shark Typhoon
+7 Island
+1 Shatterskull Smashing
 1 Uro, Titan of Nature's Wrath
 1 Snow-Covered Forest
-1 Breeding Pool
 1 Temple Garden
+1 Breeding Pool
 2 Uro, Titan of Nature's Wrath
-3 Uro, Titan of Nature's Wrath
+1 Delay
+2 Delay
+2 Glacial Fortress
+3 Supreme Verdict
+1 Spell Queller
+2 Spell Queller
+3 Celestial Colonnade
+2 Omen of the Sea
+3 Jace, the Mind Sculptor
+3 Omen of the Sea
+4 Polluted Delta
 1 Windswept Heath
 1 Noble Hierarch
 1 Ice-Fang Coatl
@@ -57,68 +87,17 @@
 2 Windswept Heath
 2 Snow-Covered Forest
 3 Noble Hierarch
+3 Spell Queller
 3 Ice-Fang Coatl
 4 Noble Hierarch
 4 Ice-Fang Coatl
-1 Glacial Fortress
-1 Mystic Gate
-4 Snow-Covered Island
-2 Breeding Pool
-2 Birds of Paradise
-3 Mana Leak
-3 Snow-Covered Forest
-3 Windswept Heath
-4 Snow-Covered Forest
-4 Windswept Heath
-1 Spell Queller
-2 Spell Queller
-4 Force of Negation
-5 Snow-Covered Island
-2 Supreme Verdict
-2 Polluted Delta
-1 Omen of the Sea
-1 Wall of Omens
-2 Wall of Omens
-3 Mystic Sanctuary
-4 Uro, Titan of Nature's Wrath
-1 Spreading Seas
-2 Spreading Seas
-3 Spreading Seas
-4 Spreading Seas
-4 Shark Typhoon
-7 Island
-3 Spell Queller
 4 Spell Queller
-1 Shatterskull Smashing
-1 Delay
-2 Delay
-2 Glacial Fortress
-3 Supreme Verdict
-3 Celestial Colonnade
-2 Omen of the Sea
-3 Jace, the Mind Sculptor
-3 Omen of the Sea
-3 Polluted Delta
-4 Polluted Delta
-2 Snow-Covered Plains
+3 Uro, Titan of Nature's Wrath
 2 Mystic Gate
 3 Wall of Omens
 4 Mystic Sanctuary
 4 Terminus
 1 Sea Gate Restoration
-1 Confounding Conundrum
-1 Abundant Growth
-2 Abundant Growth
-2 Confounding Conundrum
-3 Abundant Growth
-3 Breeding Pool
-3 Confounding Conundrum
-3 Birds of Paradise
-4 Abundant Growth
-4 Breeding Pool
-4 Mana Leak
-4 Confounding Conundrum
-4 Birds of Paradise
 1 Timely Reinforcements
 1 Frantic Inventory
 1 Deprive
@@ -127,11 +106,17 @@
 4 Frantic Inventory
 3 Delay
 4 Delay
+2 Birds of Paradise
+3 Mana Leak
+3 Snow-Covered Forest
+3 Windswept Heath
+4 Snow-Covered Forest
+4 Windswept Heath
 2 Raugrin Triome
 1 Snow-Covered Mountain
+2 Breeding Pool
 4 Wall of Omens
 1 Condemn
-4 Teferi, Time Raveler
 1 Leyline of Sanctity
 1 Nahiri, the Harbinger
 1 Search for Azcanta
@@ -140,10 +125,12 @@
 2 Search for Azcanta
 1 Castle Vantress
 1 Castle Ardenvale
-1 Flooded Grove
-1 Oust
 1 Dovin's Veto
 1 Waterlogged Grove
+1 Narset, Parter of Veils
+1 Geier Reach Sanitarium
+2 Spell Snare
+2 Narset, Parter of Veils
 3 Glacial Fortress
 1 Fact or Fiction
 1 Peek
@@ -171,3 +158,6 @@
 3 Mystic Gate
 4 Cryptic Command
 4 Celestial Colonnade
+1 Flooded Grove
+1 Oust
+4 Uro, Titan of Nature's Wrath

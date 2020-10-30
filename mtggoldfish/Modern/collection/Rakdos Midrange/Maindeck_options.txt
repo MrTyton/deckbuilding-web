@@ -19,10 +19,10 @@
 1 Terminate
 1 Blood Moon
 2 Blood Moon
-1 Mishra's Bauble
 1 Lurrus of the Dream-Den
-2 Mishra's Bauble
+1 Mishra's Bauble
 2 Lurrus of the Dream-Den
+2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
 4 Liliana of the Veil
@@ -49,8 +49,8 @@
 5 Swamp
 1 Chandra, Torch of Defiance
 2 Graven Cairns
-1 Collective Brutality
 1 Pillage
+1 Collective Brutality
 1 Castle Embereth
 1 Savai Triome
 1 Kaya's Guile
@@ -60,16 +60,18 @@
 1 Sunbaked Canyon
 2 Sunbaked Canyon
 3 Sunbaked Canyon
-1 Snow-Covered Plains
-1 Sword of Fire and Ice
+3 Kolaghan's Command
 1 Batterskull
+1 Sword of Fire and Ice
+1 Snow-Covered Plains
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
-3 Kolaghan's Command
 2 Ransack the Lab
 3 Ransack the Lab
 3 Mountain
+3 Magus of the Moon
+4 Magus of the Moon
 1 Dark Petition
 1 Damnation
 1 Kalitas, Traitor of Ghet
@@ -85,19 +87,19 @@
 2 Field of Ruin
 2 Rakdos Signet
 2 Castle Locthwain
+3 Castle Locthwain
 3 Chandra, Torch of Defiance
 3 Field of Ruin
-3 Castle Locthwain
 3 Lavaclaw Reaches
 4 Field of Ruin
 2 Snow-Covered Swamp
 2 Snow-Covered Mountain
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
-1 Arid Mesa
 1 Village Rites
 1 Liliana, the Last Hope
 1 Young Pyromancer
+1 Arid Mesa
 1 Dragonskull Summit
 2 Village Rites
 2 Young Pyromancer
@@ -106,26 +108,24 @@
 4 Young Pyromancer
 1 Engineered Explosives
 4 Bloodchief's Thirst
-3 Magus of the Moon
-4 Magus of the Moon
 1 Dreadhorde Arcanist
 2 Dreadhorde Arcanist
 4 Unearth
 1 Scourge of the Skyclaves
-1 Phyrexian Obliterator
 1 Abrade
+1 Phyrexian Obliterator
 2 Scourge of the Skyclaves
 2 Phyrexian Obliterator
 3 Scourge of the Skyclaves
 3 Phyrexian Obliterator
 3 Graven Cairns
-4 Polluted Delta
 4 Scourge of the Skyclaves
+4 Polluted Delta
 4 Graven Cairns
 1 Nihil Spellbomb
 2 Terminate
-2 Nihil Spellbomb
 2 Verdant Catacombs
+2 Nihil Spellbomb
 3 Lurrus of the Dream-Den
 3 Nihil Spellbomb
 3 Verdant Catacombs

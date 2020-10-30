@@ -37,9 +37,9 @@
 3 Wooded Foothills
 1 Temple Garden
 1 Sacred Foundry
-1 Flagstones of Trokair
-1 Windswept Heath
 1 Sejiri Shelter
+1 Windswept Heath
+1 Flagstones of Trokair
 1 Akoum Hellhound
 1 Brushfire Elemental
 1 Atarka's Command
@@ -61,6 +61,7 @@
 2 Steppe Lynx
 2 Arid Mesa
 3 Windswept Heath
+3 Flagstones of Trokair
 3 Brushfire Elemental
 3 Elvish Reclaimer
 3 Akoum Hellhound
@@ -68,13 +69,12 @@
 3 Sacred Foundry
 3 Mishra's Bauble
 3 Steppe Lynx
-3 Flagstones of Trokair
 4 Windswept Heath
 4 Wooded Foothills
+4 Flagstones of Trokair
 4 Brushfire Elemental
 4 Elvish Reclaimer
 4 Akoum Hellhound
-4 Flagstones of Trokair
 4 Mishra's Bauble
 4 Atarka's Command
 4 Steppe Lynx
@@ -154,9 +154,9 @@
 1 Supreme Verdict
 2 Abrupt Decay
 1 Sheltered Thicket
+1 Terminate
 1 Platinum Emperion
 1 Madcap Experiment
-1 Terminate
 1 Obstinate Baloth
 1 Thoughtseize
 1 Sultai Charm
@@ -191,8 +191,8 @@
 1 Verdant Catacombs
 1 Maddening Cacophony
 2 Verdant Catacombs
-2 Swamp
 2 Maddening Cacophony
+2 Swamp
 3 Verdant Catacombs
 4 Verdant Catacombs
 1 Jwari Disruption

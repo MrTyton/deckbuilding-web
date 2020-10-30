@@ -28,12 +28,11 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                 |                    3|[Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)       |
 |                    1|[Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)              |
-|                    1|Riverglide Pathway                                                                             |                    3|[Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|
-|                    1|Silundi Vision                                                                                 |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |
-|                    1|Valakut Awakening                                                                              |                     |                                                                                               |
+|                    1|Riverglide Pathway                                                                             |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)           |
+|                    1|Silundi Vision                                                                                 |                    3|[Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|
+|                    1|Valakut Awakening                                                                              |                    3|[Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)       |
 |                    2|Silundi Vision                                                                                 |                     |                                                                                               |
-|                    3|[Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)           |                     |                                                                                               |
+|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                 |                     |                                                                                               |
 |                    3|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130) |                     |                                                                                               |
 

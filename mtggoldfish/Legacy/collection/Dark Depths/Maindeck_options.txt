@@ -51,8 +51,8 @@
 1 Tundra
 1 Snow-Covered Plains
 1 Intuition
+1 Torpor Orb
 1 Murderous Cut
-1 Scrubland
 1 Misdirection
 1 Celestial Colonnade
 1 Mystic Sanctuary
@@ -66,7 +66,6 @@
 1 Elesh Norn, Grand Cenobite
 1 Leyline of Sanctity
 1 Phyrexian Unlife
-1 Torpor Orb
 1 Jin-Gitaxias, Core Augur
 1 Flusterstorm
 1 Teferi, Time Raveler
@@ -103,7 +102,9 @@
 1 Battle of Wits
 1 Impulse
 1 Boseiju, Who Shelters All
+1 Scrubland
 1 Force of Will
+2 Snow-Covered Plains
 2 Cabal Therapy
 2 Teferi, Time Raveler
 2 Pact of Negation
@@ -118,7 +119,6 @@
 2 Swords to Plowshares
 2 Flooded Strand
 2 Glacial Fortress
-2 Snow-Covered Plains
 2 Intuition
 2 Windswept Heath
 2 Counterspell
@@ -130,11 +130,11 @@
 2 Phyrexian Unlife
 2 Scrubland
 2 Flusterstorm
-2 Karakas
 2 Enlightened Tutor
 2 Toxic Deluge
 2 Jace, the Mind Sculptor
 2 Spell Pierce
+2 Karakas
 2 Ponder
 2 Preordain
 2 Academy Rector
@@ -158,6 +158,7 @@
 2 Show and Tell
 2 Polluted Delta
 2 Terminus
+3 Snow-Covered Plains
 3 Cabal Therapy
 3 Pact of Negation
 3 Teferi, Time Raveler
@@ -172,7 +173,6 @@
 3 Tolaria West
 3 Impulse
 3 Mystic Sanctuary
-3 Snow-Covered Plains
 3 Baleful Strix
 3 Phyrexian Unlife
 3 Scalding Tarn
@@ -217,7 +217,6 @@
 4 Baleful Strix
 4 Phyrexian Unlife
 4 Snapcaster Mage
-4 Jace, the Mind Sculptor
 4 Underground Sea
 4 Teferi, Time Raveler
 4 Celestial Colonnade
@@ -229,6 +228,7 @@
 4 Portent
 4 Ponder
 4 Preordain
+4 Jace, the Mind Sculptor
 4 Snow-Covered Island
 4 Academy Rector
 4 Serum Visions
@@ -250,8 +250,8 @@
 4 Abrupt Decay
 1 Assassin's Trophy
 4 Not of This World
-1 Riftstone Portal
 1 Blast Zone
+1 Riftstone Portal
 1 Hymn to Tourach
 2 Hymn to Tourach
 3 Hymn to Tourach
@@ -271,9 +271,8 @@
 4 Nurturing Peatland
 3 Wasteland
 4 Mox Diamond
-1 Karn, the Great Creator
-1 Lake of the Dead
 1 Lion's Eye Diamond
+1 Lake of the Dead
 1 Helm of Obedience
 1 Infernal Tutor
 1 Plunge into Darkness
@@ -281,11 +280,12 @@
 1 Ill-Gotten Gains
 1 Tendrils of Agony
 1 Echo of Eons
+1 Karn, the Great Creator
 2 Infernal Tutor
-2 Karn, the Great Creator
 2 Helm of Obedience
 2 Lion's Eye Diamond
 2 Ill-Gotten Gains
+2 Karn, the Great Creator
 2 Leyline of the Void
 2 Swamp
 3 Infernal Tutor

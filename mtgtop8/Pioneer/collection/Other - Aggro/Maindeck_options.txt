@@ -172,67 +172,6 @@
 1 Mardu Woe-Reaper
 1 Benalish Marshal
 2 Benalish Marshal
-3 Botanical Sanctum
-2 Breeding Pool
-1 Bonecrusher Giant
-1 Mountain
-1 Rootbound Crag
-2 Bonecrusher Giant
-2 Mountain
-3 Bonecrusher Giant
-3 Stomping Ground
-4 Bonecrusher Giant
-1 Ketria Triome
-2 Ketria Triome
-3 Ketria Triome
-3 Breeding Pool
-4 Ketria Triome
-1 Scavenging Ooze
-2 Scavenging Ooze
-1 Satyr Wayfinder
-2 Satyr Wayfinder
-3 Satyr Wayfinder
-4 Satyr Wayfinder
-1 Jadelight Ranger
-1 Courser of Kruphix
-1 Yavimaya Coast
-1 Arboreal Grazer
-1 Cavalier of Thorns
-1 World Breaker
-1 Champion of Wits
-1 Nimble Obstructionist
-1 Elder Deep-Fiend
-1 Castle Garenbrig
-1 Sanctum of Ugin
-1 Fierce Empath
-1 Llanowar Visionary
-1 Stubborn Denial
-1 Kozilek's Return
-1 Uro, Titan of Nature's Wrath
-1 Hinterland Harbor
-2 Yavimaya Coast
-2 Arboreal Grazer
-2 Cavalier of Thorns
-2 Champion of Wits
-2 Kozilek's Return
-2 Elder Deep-Fiend
-2 Sanctum of Ugin
-2 Fierce Empath
-2 Llanowar Visionary
-2 Hinterland Harbor
-2 Uro, Titan of Nature's Wrath
-3 Arboreal Grazer
-3 Cavalier of Thorns
-3 Sanctum of Ugin
-3 Kozilek's Return
-3 Elder Deep-Fiend
-3 Uro, Titan of Nature's Wrath
-3 Yavimaya Coast
-3 Hinterland Harbor
-4 Hinterland Harbor
-4 Breeding Pool
-4 Sanctum of Ugin
-4 Elder Deep-Fiend
 1 Skyclave Shade
 1 Tangled Florahedron
 1 Korvold, Fae-Cursed King
@@ -271,8 +210,8 @@
 1 Skyclave Apparition
 2 Glasspool Mimic
 2 Branchloft Pathway
-2 Skyclave Cleric
 2 Charming Prince
+2 Skyclave Cleric
 2 Skyclave Apparition
 2 Militia Bugler
 3 Branchloft Pathway
@@ -285,6 +224,67 @@
 4 Charming Prince
 4 Skyclave Apparition
 4 Militia Bugler
+3 Botanical Sanctum
+2 Breeding Pool
+1 Bonecrusher Giant
+1 Mountain
+1 Rootbound Crag
+2 Bonecrusher Giant
+2 Mountain
+3 Bonecrusher Giant
+3 Stomping Ground
+4 Bonecrusher Giant
+1 Ketria Triome
+2 Ketria Triome
+3 Ketria Triome
+3 Breeding Pool
+4 Ketria Triome
+1 Scavenging Ooze
+2 Scavenging Ooze
+1 Satyr Wayfinder
+2 Satyr Wayfinder
+3 Satyr Wayfinder
+4 Satyr Wayfinder
+1 Jadelight Ranger
+1 Llanowar Visionary
+1 Courser of Kruphix
+1 Fierce Empath
+1 Yavimaya Coast
+1 Arboreal Grazer
+1 World Breaker
+1 Cavalier of Thorns
+1 Sanctum of Ugin
+1 Castle Garenbrig
+1 Elder Deep-Fiend
+1 Kozilek's Return
+1 Nimble Obstructionist
+1 Uro, Titan of Nature's Wrath
+1 Hinterland Harbor
+1 Stubborn Denial
+1 Champion of Wits
+2 Llanowar Visionary
+2 Fierce Empath
+2 Yavimaya Coast
+2 Arboreal Grazer
+2 Cavalier of Thorns
+2 Sanctum of Ugin
+2 Elder Deep-Fiend
+2 Kozilek's Return
+2 Champion of Wits
+2 Hinterland Harbor
+2 Uro, Titan of Nature's Wrath
+3 Arboreal Grazer
+3 Cavalier of Thorns
+3 Elder Deep-Fiend
+3 Kozilek's Return
+3 Uro, Titan of Nature's Wrath
+3 Yavimaya Coast
+3 Hinterland Harbor
+3 Sanctum of Ugin
+4 Hinterland Harbor
+4 Breeding Pool
+4 Sanctum of Ugin
+4 Elder Deep-Fiend
 1 Stonecoil Serpent
 1 Thassa's Oracle
 1 Possibility Storm
@@ -332,17 +332,17 @@
 4 Chart a Course
 4 Botanical Sanctum
 1 Unclaimed Territory
-1 Rogue Refiner
 1 Archpriest of Iona
+1 Rogue Refiner
 1 Acquisitions Expert
 1 Bloodsoaked Champion
 1 Hamlet Captain
 1 Gust Walker
 2 Unclaimed Territory
+2 Archpriest of Iona
 2 Rogue Refiner
 2 Acquisitions Expert
 2 Gust Walker
-2 Archpriest of Iona
 2 Bloodsoaked Champion
 2 Hamlet Captain
 3 Mana Confluence
@@ -471,8 +471,8 @@
 1 Glacial Fortress
 1 Watcher of the Spheres
 1 Irrigated Farmland
-1 Emeria's Call
 1 Azorius Charm
+1 Emeria's Call
 1 Selfless Spirit
 1 Winged Words
 1 Lofty Denial
@@ -481,8 +481,8 @@
 2 Glacial Fortress
 2 Watcher of the Spheres
 2 Irrigated Farmland
-2 Emeria's Call
 2 Azorius Charm
+2 Emeria's Call
 2 Winged Words
 2 Lofty Denial
 2 Selfless Spirit
@@ -504,7 +504,6 @@
 5 Island
 6 Island
 7 Island
-1 Animal Sanctuary
 1 Leonin Vanguard
 1 Kaheera, the Orphanguard
 1 Scattered Groves
@@ -518,7 +517,7 @@
 1 Fortified Village
 1 Adorned Pouncer
 1 Ajani Steadfast
-2 Animal Sanctuary
+1 Animal Sanctuary
 2 Leonin Vanguard
 2 Regal Caracal
 2 Fortified Village
@@ -528,6 +527,7 @@
 2 Scattered Groves
 2 Feline Sovereign
 2 Fleecemane Lion
+2 Animal Sanctuary
 2 Pride Sovereign
 2 Bronzehide Lion
 2 Ajani, Adversary of Tyrants

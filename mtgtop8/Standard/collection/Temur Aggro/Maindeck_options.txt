@@ -23,9 +23,9 @@
 1 Unsubstantiate
 1 Tangled Florahedron
 1 Cragcrown Pathway
+2 Questing Beast
 2 Spikefield Hazard
 2 Neutralize
-2 Questing Beast
 2 Embercleave
 2 Tangled Florahedron
 3 Embercleave
@@ -74,9 +74,9 @@
 3 Cloudkin Seer
 3 Healer of the Glade
 3 Scorch Spitter
+4 Mountain
 4 Healer of the Glade
 4 Cloudkin Seer
-4 Mountain
 4 Scorch Spitter
 1 Aether Gust
 2 Aether Gust
@@ -116,10 +116,10 @@
 5 Forest
 6 Forest
 1 Gilded Goose
+1 Ilysian Caryatid
 1 Crawling Barrens
 1 Lotus Cobra
 1 Zagoth Triome
-1 Ilysian Caryatid
 1 Brokkos, Apex of Forever
 1 Sea-Dasher Octopus
 1 Tuktuk Rubblefort
@@ -132,10 +132,10 @@
 1 Migratory Greathorn
 1 Auspicious Starrix
 2 Lotus Cobra
-2 Terror of the Peaks
 2 Sea-Dasher Octopus
-2 Gilded Goose
 2 Ilysian Caryatid
+2 Gilded Goose
+2 Terror of the Peaks
 2 Vivien, Monsters' Advocate
 2 Migratory Greathorn
 2 Gemrazer
@@ -173,21 +173,21 @@
 1 Teferi, Master of Time
 1 Thornwood Falls
 1 Jace, Mirror Mage
-1 Roost of Drakes
 1 Roil Eruption
 1 Cinderclasm
-1 Cragplate Baloth
 1 Bubble Snare
+1 Cragplate Baloth
 1 Gnarlid Colony
 1 Vine Gecko
 1 Reclaim the Wastes
 1 Lullmage's Familiar
 1 Murasa Sproutling
 1 Swiftwater Cliffs
+1 Roost of Drakes
 2 Thornwood Falls
-2 Roost of Drakes
-2 Bubble Snare
 2 Roil Eruption
+2 Bubble Snare
+2 Roost of Drakes
 2 Gnarlid Colony
 2 Vine Gecko
 2 Murasa Sproutling
@@ -196,15 +196,15 @@
 2 Negate
 3 Thornwood Falls
 3 Negate
-3 Roost of Drakes
-3 Into the Roil
 3 Bubble Snare
+3 Into the Roil
+3 Roost of Drakes
 3 Vine Gecko
 3 Swiftwater Cliffs
 3 Lullmage's Familiar
 3 Roil Eruption
-4 Roost of Drakes
 4 Negate
+4 Roost of Drakes
 4 Thornwood Falls
 4 Into the Roil
 4 Swiftwater Cliffs

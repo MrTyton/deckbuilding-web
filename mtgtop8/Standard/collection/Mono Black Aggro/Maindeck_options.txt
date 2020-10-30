@@ -42,10 +42,10 @@
 1 Grasp of Darkness
 1 Rotting Regisaur
 2 Rotting Regisaur
-3 Demonic Embrace
 3 Rotting Regisaur
-1 Mobilized District
+3 Demonic Embrace
 1 Blacklance Paragon
+1 Mobilized District
 2 Blacklance Paragon
 3 Blacklance Paragon
 1 Duress
@@ -68,8 +68,8 @@
 2 Eliminate
 3 Stonecoil Serpent
 4 Stonecoil Serpent
-4 Demonic Embrace
 4 Blacklance Paragon
+4 Demonic Embrace
 4 Nightmare Shepherd
 4 Spawn of Mayhem
 4 Rotting Regisaur
@@ -84,18 +84,18 @@
 2 Liliana, Waker of the Dead
 3 Skyclave Shade
 4 Skyclave Shade
-1 Hateful Eidolon
 1 Dead Weight
 1 Mire's Grasp
-2 Hateful Eidolon
+1 Hateful Eidolon
 2 Mire's Grasp
 2 Dead Weight
-3 Hateful Eidolon
-3 Mire's Grasp
+2 Hateful Eidolon
 3 Dead Weight
-4 Hateful Eidolon
-4 Mire's Grasp
+3 Mire's Grasp
+3 Hateful Eidolon
 4 Dead Weight
+4 Mire's Grasp
+4 Hateful Eidolon
 2 Crawling Barrens
 1 Bastion of Remembrance
 2 Bastion of Remembrance
@@ -121,12 +121,6 @@
 1 Scourge of the Skyclaves
 1 Witch's Vengeance
 2 Elspeth's Nightmare
-1 Discordant Piper
-1 Witch's Cauldron
-1 Taborax, Hope's Demise
-2 Discordant Piper
-2 Witch's Cauldron
-3 Witch's Cauldron
 1 Blackbloom Rogue
 1 Inscription of Ruin
 2 Inscription of Ruin
@@ -134,16 +128,22 @@
 3 Liliana, Waker of the Dead
 3 Inscription of Ruin
 1 Agonizing Remorse
-2 Mobilized District
 2 Agonizing Remorse
+2 Mobilized District
 3 Duress
 3 Agonizing Remorse
 3 Mobilized District
+1 Taborax, Hope's Demise
+1 Discordant Piper
+1 Witch's Cauldron
+2 Discordant Piper
+2 Witch's Cauldron
+3 Witch's Cauldron
 3 Hagra Mauling
 4 Lurrus of the Dream-Den
 3 Murderous Rider
-4 Rankle, Master of Pranks
 4 Heartless Act
+4 Rankle, Master of Pranks
 4 Murderous Rider
 1 Jungle Hollow
 1 Savvy Hunter
@@ -192,25 +192,25 @@
 4 Priest of Forgotten Gods
 4 Woe Strider
 4 Bolas's Citadel
-1 Foulmire Knight
-1 Underworld Dreams
-1 Mindwrack Harpy
-1 Pharika's Spawn
-2 Foulmire Knight
-2 Underworld Dreams
-2 Pharika's Spawn
-3 Foulmire Knight
-3 Underworld Dreams
-4 Gray Merchant of Asphodel
-4 Underworld Dreams
-24 Swamp
-1 Aphemia, the Cacophony
 1 Mogis's Favor
 1 Tymaret Calls the Dead
-2 Aphemia, the Cacophony
+1 Aphemia, the Cacophony
 2 Mogis's Favor
+2 Aphemia, the Cacophony
 2 Tymaret Calls the Dead
 3 Aphemia, the Cacophony
 3 Tymaret Calls the Dead
 4 Aphemia, the Cacophony
 4 Tymaret Calls the Dead
+1 Foulmire Knight
+1 Mindwrack Harpy
+1 Pharika's Spawn
+1 Underworld Dreams
+2 Foulmire Knight
+2 Underworld Dreams
+2 Pharika's Spawn
+3 Foulmire Knight
+3 Underworld Dreams
+4 Underworld Dreams
+4 Gray Merchant of Asphodel
+24 Swamp

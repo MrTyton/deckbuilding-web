@@ -63,6 +63,7 @@
 3 Lightning Bolt
 4 Lightning Bolt
 1 Wild Slash
+1 Fiery Islet
 1 Spirebluff Canal
 1 Mutagenic Growth
 1 Opt
@@ -73,7 +74,6 @@
 1 Soul-Scar Mage
 1 Manamorphose
 1 Bedlam Reveler
-1 Fiery Islet
 1 Monastery Swiftspear
 1 Light Up the Stage
 1 Stormwing Entity
@@ -116,12 +116,12 @@
 1 Carrion Feeder
 1 Swamp
 1 Cryptbreaker
+1 Murderous Rider
 1 Polluted Delta
 1 Village Rites
 1 Cavern of Souls
 1 Aether Vial
 1 Watery Grave
-1 Murderous Rider
 1 Gravecrawler
 1 Soul Diviner
 1 Fatal Push
@@ -132,14 +132,15 @@
 1 Diregraf Captain
 1 Undead Augur
 1 Plague Belcher
-2 Carrion Feeder
 2 Cavern of Souls
 2 Aether Vial
 2 Agadeem's Awakening
+2 Carrion Feeder
 2 Village Rites
 2 Watery Grave
-2 Murderous Rider
+2 Polluted Delta
 2 Gravecrawler
+2 Murderous Rider
 2 Geralf's Messenger
 2 Plague Belcher
 2 Dread Wanderer
@@ -147,15 +148,14 @@
 2 Darkslick Shores
 2 Diregraf Captain
 2 Swamp
-2 Polluted Delta
 2 Fatal Push
 2 Undead Augur
 2 Cryptbreaker
 3 Carrion Feeder
 3 Aether Vial
+3 Polluted Delta
 3 Gravecrawler
 3 Watery Grave
-3 Polluted Delta
 3 Diregraf Captain
 3 Fatal Push
 3 Geralf's Messenger
@@ -165,10 +165,10 @@
 4 Watery Grave
 4 Aether Vial
 4 Carrion Feeder
+4 Polluted Delta
 4 Fatal Push
 4 Diregraf Captain
 4 Gravecrawler
-4 Polluted Delta
 4 Swamp
 4 Undead Augur
 5 Swamp
