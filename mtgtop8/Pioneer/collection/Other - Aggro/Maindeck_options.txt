@@ -29,9 +29,9 @@
 4 Lovestruck Beast
 5 Forest
 1 Nissa, Voice of Zendikar
-1 Declaration in Stone
-1 Paradise Druid
 1 Castle Ardenvale
+1 Paradise Druid
+1 Declaration in Stone
 1 Dromoka's Command
 1 Gideon, Ally of Zendikar
 1 Leonin Warleader
@@ -39,8 +39,8 @@
 1 Westvale Abbey
 1 Divine Visitation
 2 Nissa, Voice of Zendikar
-2 Paradise Druid
 2 Castle Ardenvale
+2 Paradise Druid
 2 Dromoka's Command
 2 Gideon, Ally of Zendikar
 2 Westvale Abbey
@@ -157,16 +157,16 @@
 1 Branchloft Pathway
 1 Reflector Mage
 2 Reflector Mage
-1 Spell Queller
 1 Teferi, Time Raveler
+1 Spell Queller
 2 Teferi, Time Raveler
 2 Spell Queller
-3 Teferi, Time Raveler
 3 Hallowed Fountain
+3 Teferi, Time Raveler
 3 Spell Queller
-4 Spell Queller
 4 Teferi, Time Raveler
 4 Hallowed Fountain
+4 Spell Queller
 3 Island
 4 Island
 1 Mardu Woe-Reaper
@@ -210,9 +210,9 @@
 1 Skyclave Apparition
 2 Glasspool Mimic
 2 Branchloft Pathway
-2 Charming Prince
 2 Skyclave Cleric
 2 Skyclave Apparition
+2 Charming Prince
 2 Militia Bugler
 3 Branchloft Pathway
 3 Glasspool Mimic
@@ -221,8 +221,8 @@
 3 Militia Bugler
 4 Branchloft Pathway
 4 Glasspool Mimic
-4 Charming Prince
 4 Skyclave Apparition
+4 Charming Prince
 4 Militia Bugler
 3 Botanical Sanctum
 2 Breeding Pool
@@ -239,6 +239,31 @@
 3 Ketria Triome
 3 Breeding Pool
 4 Ketria Triome
+1 Thassa's Oracle
+1 Stonecoil Serpent
+1 Possibility Storm
+1 Enter the Infinite
+1 Shared Summons
+1 Beanstalk Giant
+1 Fae of Wishes
+1 Steam Vents
+1 Lucky Clover
+1 Rosethorn Acolyte
+1 Sulfur Falls
+2 Possibility Storm
+2 Beanstalk Giant
+2 Enter the Infinite
+2 Steam Vents
+2 Lucky Clover
+2 Fae of Wishes
+2 Sulfur Falls
+3 Possibility Storm
+3 Lucky Clover
+3 Fae of Wishes
+3 Beanstalk Giant
+4 Fae of Wishes
+4 Beanstalk Giant
+4 Lucky Clover
 1 Scavenging Ooze
 2 Scavenging Ooze
 1 Satyr Wayfinder
@@ -281,35 +306,10 @@
 3 Yavimaya Coast
 3 Hinterland Harbor
 3 Sanctum of Ugin
-4 Hinterland Harbor
 4 Breeding Pool
 4 Sanctum of Ugin
 4 Elder Deep-Fiend
-1 Stonecoil Serpent
-1 Thassa's Oracle
-1 Possibility Storm
-1 Enter the Infinite
-1 Shared Summons
-1 Beanstalk Giant
-1 Fae of Wishes
-1 Steam Vents
-1 Lucky Clover
-1 Rosethorn Acolyte
-1 Sulfur Falls
-2 Possibility Storm
-2 Beanstalk Giant
-2 Enter the Infinite
-2 Steam Vents
-2 Lucky Clover
-2 Fae of Wishes
-2 Sulfur Falls
-3 Possibility Storm
-3 Lucky Clover
-3 Fae of Wishes
-3 Beanstalk Giant
-4 Fae of Wishes
-4 Beanstalk Giant
-4 Lucky Clover
+4 Hinterland Harbor
 1 Into the Story
 1 Merfolk Windrobber
 1 Deathrite Shaman
@@ -352,8 +352,8 @@
 3 Archpriest of Iona
 3 Acquisitions Expert
 4 Mana Confluence
-4 Unclaimed Territory
 4 Reflector Mage
+4 Unclaimed Territory
 4 Acquisitions Expert
 4 Archpriest of Iona
 3 Llanowar Wastes
@@ -397,8 +397,8 @@
 1 Rhonas the Indomitable
 1 Game Trail
 1 Yorvo, Lord of Garenbrig
-1 Gruul Spellbreaker
 1 Pelt Collector
+1 Gruul Spellbreaker
 1 Wildborn Preserver
 1 Cinder Glade
 1 Legion Loyalist
@@ -428,23 +428,23 @@
 4 Game Trail
 4 Burning-Tree Emissary
 4 Stomping Ground
-1 Isolated Chapel
 1 Lazotep Reaver
 1 Foulmire Knight
 1 Cryptbreaker
 1 Dark Salvation
 1 Corpse Knight
 1 Liliana, Untouched by Death
+1 Isolated Chapel
 1 Rally the Ancestors
 1 Diregraf Colossus
 1 Necrotic Wound
 1 Wayward Servant
 1 Slitherhead
-2 Isolated Chapel
 2 Lazotep Reaver
 2 Foulmire Knight
 2 Cryptbreaker
 2 Wayward Servant
+2 Isolated Chapel
 2 Dark Salvation
 2 Slitherhead
 2 Corpse Knight
@@ -468,60 +468,60 @@
 4 Dark Salvation
 4 Rally the Ancestors
 4 Corpse Knight
-1 Glacial Fortress
 1 Watcher of the Spheres
-1 Irrigated Farmland
 1 Azorius Charm
 1 Emeria's Call
+1 Irrigated Farmland
+1 Glacial Fortress
+1 Lofty Denial
 1 Selfless Spirit
 1 Winged Words
-1 Lofty Denial
 1 Archangel Avacyn
 1 Rattlechains
-2 Glacial Fortress
 2 Watcher of the Spheres
-2 Irrigated Farmland
 2 Azorius Charm
 2 Emeria's Call
+2 Irrigated Farmland
+2 Glacial Fortress
 2 Winged Words
 2 Lofty Denial
 2 Selfless Spirit
 2 Rattlechains
 2 Archangel Avacyn
 3 Watcher of the Spheres
-3 Glacial Fortress
 3 Azorius Charm
 3 Irrigated Farmland
+3 Glacial Fortress
 3 Archangel Avacyn
 3 Rattlechains
 3 Lofty Denial
 3 Selfless Spirit
 4 Watcher of the Spheres
+4 Glacial Fortress
 4 Irrigated Farmland
 4 Selfless Spirit
-4 Glacial Fortress
 4 Archangel Avacyn
 5 Island
 6 Island
 7 Island
+1 Sacred Cat
+1 Scattered Groves
 1 Leonin Vanguard
 1 Kaheera, the Orphanguard
-1 Scattered Groves
 1 Fleecemane Lion
 1 Pride Sovereign
 1 Feline Sovereign
 1 Bronzehide Lion
 1 Ajani, Adversary of Tyrants
-1 Sacred Cat
 1 Regal Caracal
 1 Fortified Village
 1 Adorned Pouncer
 1 Ajani Steadfast
 1 Animal Sanctuary
+2 Sacred Cat
 2 Leonin Vanguard
 2 Regal Caracal
 2 Fortified Village
-2 Sacred Cat
 2 Kaheera, the Orphanguard
 2 Adorned Pouncer
 2 Scattered Groves

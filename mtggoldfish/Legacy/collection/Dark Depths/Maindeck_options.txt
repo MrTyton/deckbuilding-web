@@ -36,39 +36,36 @@
 1 Misty Rainforest
 1 Ancient Tomb
 2 Ancient Tomb
-1 Academy Rector
-1 Cabal Therapy
+1 Windswept Heath
 1 Personal Tutor
 1 Entreat the Angels
 1 Snapcaster Mage
 1 Arcum's Astrolabe
 1 Arid Mesa
-1 Windswept Heath
 1 Baleful Strix
 1 Tolaria West
 1 Marsh Flats
 1 Flooded Strand
-1 Tundra
 1 Snow-Covered Plains
-1 Intuition
+1 Tundra
 1 Torpor Orb
 1 Murderous Cut
+1 Intuition
 1 Misdirection
 1 Celestial Colonnade
 1 Mystic Sanctuary
 1 Drowned Catacomb
 1 Counterspell
 1 Glacial Fortress
-1 Emrakul, the Aeons Torn
 1 Scalding Tarn
 1 Portent
+1 Emrakul, the Aeons Torn
 1 Spell Pierce
 1 Elesh Norn, Grand Cenobite
 1 Leyline of Sanctity
 1 Phyrexian Unlife
 1 Jin-Gitaxias, Core Augur
 1 Flusterstorm
-1 Teferi, Time Raveler
 1 Jace, the Mind Sculptor
 1 Enlightened Tutor
 1 Pact of Negation
@@ -83,8 +80,10 @@
 1 Moat
 1 Brainstorm
 1 Gifts Ungiven
+1 Cabal Therapy
 1 Underground Sea
 1 Swords to Plowshares
+1 Teferi, Time Raveler
 1 Ponder
 1 Rest in Peace
 1 Omniscience
@@ -94,6 +93,7 @@
 1 Ethersworn Canonist
 1 Preordain
 1 Show and Tell
+1 Academy Rector
 1 Bloodstained Mire
 1 Creeping Tar Pit
 1 Cunning Wish
@@ -105,22 +105,20 @@
 1 Scrubland
 1 Force of Will
 2 Snow-Covered Plains
-2 Cabal Therapy
-2 Teferi, Time Raveler
+2 Windswept Heath
 2 Pact of Negation
 2 Marsh Flats
+2 Intuition
+2 Cabal Therapy
 2 Tundra
 2 Snapcaster Mage
 2 Snow-Covered Swamp
 2 Arcum's Astrolabe
 2 Baleful Strix
 2 Personal Tutor
-2 Underground Sea
 2 Swords to Plowshares
 2 Flooded Strand
 2 Glacial Fortress
-2 Intuition
-2 Windswept Heath
 2 Counterspell
 2 Celestial Colonnade
 2 Drowned Catacomb
@@ -135,6 +133,7 @@
 2 Jace, the Mind Sculptor
 2 Spell Pierce
 2 Karakas
+2 Teferi, Time Raveler
 2 Ponder
 2 Preordain
 2 Academy Rector
@@ -154,21 +153,23 @@
 2 Serum Visions
 2 Omniscience
 2 Snow-Covered Island
+2 Underground Sea
 2 Creeping Tar Pit
 2 Show and Tell
 2 Polluted Delta
 2 Terminus
 3 Snow-Covered Plains
-3 Cabal Therapy
 3 Pact of Negation
 3 Teferi, Time Raveler
 3 Marsh Flats
+3 Cabal Therapy
 3 Jace, the Mind Sculptor
 3 Arcum's Astrolabe
+3 Windswept Heath
 3 Enlightened Tutor
 3 Snapcaster Mage
-3 Emrakul, the Aeons Torn
 3 Swords to Plowshares
+3 Emrakul, the Aeons Torn
 3 Flooded Strand
 3 Tolaria West
 3 Impulse
@@ -190,7 +191,6 @@
 3 Serum Visions
 3 Personal Tutor
 3 Omniscience
-3 Windswept Heath
 3 Portent
 3 Snow-Covered Island
 3 Ad Nauseam
@@ -209,9 +209,8 @@
 3 Murderous Cut
 3 Gifts Ungiven
 3 Battle of Wits
-4 Cabal Therapy
-4 Polluted Delta
 4 Arcum's Astrolabe
+4 Polluted Delta
 4 Flooded Strand
 4 Cunning Wish
 4 Baleful Strix
@@ -222,6 +221,7 @@
 4 Celestial Colonnade
 4 Tolaria West
 4 Spell Pierce
+4 Cabal Therapy
 4 Impulse
 4 Tundra
 4 Battle of Wits
@@ -255,8 +255,8 @@
 1 Hymn to Tourach
 2 Hymn to Tourach
 3 Hymn to Tourach
-1 Berserk
 1 Mindbreak Trap
+1 Berserk
 1 Shizo, Death's Storehouse
 2 Wooded Foothills
 2 Assassin's Trophy

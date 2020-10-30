@@ -58,12 +58,12 @@
 1 Sword of Feast and Famine
 1 Aven Mindcensor
 2 Aven Mindcensor
-1 Waterlogged Grove
 1 Spirit of the Labyrinth
 1 Tale's End
 1 Teferi, Time Raveler
 1 Unsettled Mariner
 1 Mausoleum Wanderer
+1 Waterlogged Grove
 2 Spirit of the Labyrinth
 2 Tale's End
 2 Teferi, Time Raveler
@@ -126,16 +126,23 @@
 3 Meddling Mage
 4 Meddling Mage
 4 Deputy of Detention
+1 Phyrexian Revoker
+1 Mutavault
+2 Mutavault
+2 Phyrexian Revoker
+3 Mutavault
+4 Mutavault
+12 Snow-Covered Plains
 1 Charming Prince
 1 Renegade Rallier
 1 Stirring Wildwood
+1 Qasali Pridemage
 1 Noble Hierarch
 1 Razorverge Thicket
 1 Temple Garden
 1 Windswept Heath
 1 Scavenging Ooze
 1 Forest
-1 Qasali Pridemage
 2 Charming Prince
 2 Renegade Rallier
 2 Forest
@@ -151,10 +158,3 @@
 4 Razorverge Thicket
 4 Horizon Canopy
 4 Noble Hierarch
-1 Phyrexian Revoker
-1 Mutavault
-2 Mutavault
-2 Phyrexian Revoker
-3 Mutavault
-4 Mutavault
-12 Snow-Covered Plains

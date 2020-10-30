@@ -13,8 +13,8 @@
 7 Island
 1 Frantic Inventory
 1 Blitz of the Thunder-Raptor
-2 Blitz of the Thunder-Raptor
 2 Frantic Inventory
+2 Blitz of the Thunder-Raptor
 2 Fabled Passage
 1 Sea Gate Stormcaller
 2 Sea Gate Stormcaller
@@ -68,36 +68,26 @@
 2 Essence Scatter
 2 Negate
 1 Traitorous Greed
-1 Kazuul's Fury
-4 Phoenix of Ash
-1 Jwari Disruption
-2 Jwari Disruption
-3 Jwari Disruption
-4 Jwari Disruption
 1 Lofty Denial
 1 Infuriate
 1 Lore Drakkis
 2 Lofty Denial
 3 Lofty Denial
 4 Lofty Denial
+1 Kazuul's Fury
+4 Phoenix of Ash
+1 Jwari Disruption
+2 Jwari Disruption
+3 Jwari Disruption
+4 Jwari Disruption
 1 Glasspool Mimic
-1 Purphoros's Intervention
 1 Miscast
+1 Purphoros's Intervention
 1 Unsubstantiate
 2 Miscast
 2 Purphoros's Intervention
 2 Unsubstantiate
 4 Magmatic Channeler
-1 Sea Gate Restoration
-1 Umara Mystic
-2 Umara Mystic
-4 Sea Gate Stormcaller
-1 Shell Shield
-1 Satyr's Cunning
-2 Shell Shield
-2 Satyr's Cunning
-3 Satyr's Cunning
-4 Satyr's Cunning
 1 Scorching Dragonfire
 1 Raugrin Triome
 2 Scorching Dragonfire
@@ -105,9 +95,15 @@
 3 Robber of the Rich
 3 Scorching Dragonfire
 3 Raugrin Triome
+4 Raugrin Triome
 4 Scorching Dragonfire
 4 Robber of the Rich
-4 Raugrin Triome
+1 Shell Shield
+1 Satyr's Cunning
+2 Shell Shield
+2 Satyr's Cunning
+3 Satyr's Cunning
+4 Satyr's Cunning
 1 Fire Prophecy
 1 Shark Typhoon
 2 Shark Typhoon
@@ -116,6 +112,10 @@
 3 Experimental Overload
 4 Essence Scatter
 4 Experimental Overload
+1 Sea Gate Restoration
+1 Umara Mystic
+2 Umara Mystic
+4 Sea Gate Stormcaller
 3 Gadwick, the Wizened
 4 Gadwick, the Wizened
 1 Glimpse of Freedom
