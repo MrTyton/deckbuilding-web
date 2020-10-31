@@ -1,4 +1,5 @@
-1 Chain Lightning
+1 Gamble
+1 Cave-In
 1 Goblin Charbelcher
 1 Leyline of Sanctity
 2 Leyline of Sanctity
@@ -15,7 +16,6 @@
 1 Chain of Vapor
 2 Chain of Vapor
 2 Goblin Charbelcher
-1 Cave-In
 1 Carpet of Flowers
 1 Nature's Claim
 2 Carpet of Flowers
@@ -23,10 +23,8 @@
 3 Carpet of Flowers
 3 Nature's Claim
 4 Carpet of Flowers
-3 Xantid Swarm
 1 Autumn's Veil
 2 Autumn's Veil
-1 Lightning Bolt
 1 Lion's Eye Diamond
 3 Goblin Charbelcher
 4 Goblin Charbelcher
@@ -40,19 +38,20 @@
 2 Doomsday
 3 Doomsday
 4 Doomsday
-1 Thassa's Oracle
-2 Irencrag Feat
-3 Irencrag Feat
-4 Irencrag Feat
+1 Trash for Treasure
 1 Toxic Deluge
 2 Lion's Eye Diamond
 3 Lion's Eye Diamond
 4 Lion's Eye Diamond
+1 Infernal Tutor
+1 Magus of the Moon
+1 Telemin Performance
 1 Thoughtseize
 1 Fatal Push
 2 Fatal Push
 2 Echoing Truth
 2 Toxic Deluge
+3 Xantid Swarm
 1 Wishclaw Talisman
 2 Wishclaw Talisman
 3 Wishclaw Talisman
@@ -63,6 +62,10 @@
 3 Grim Monolith
 3 Serum Powder
 4 Grim Monolith
+1 Force of Vigor
+2 Force of Vigor
+3 Force of Vigor
+4 Force of Vigor
 1 Chancellor of the Annex
 1 Duress
 2 Chancellor of the Annex
@@ -70,3 +73,7 @@
 3 Duress
 3 Chancellor of the Annex
 4 Chancellor of the Annex
+1 Thassa's Oracle
+2 Irencrag Feat
+3 Irencrag Feat
+4 Irencrag Feat

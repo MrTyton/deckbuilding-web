@@ -192,8 +192,8 @@
 1 Prismatic Vista
 1 Narset of the Ancient Way
 1 Delay
-1 Spellskite
 1 Fae of Wishes
+1 Spellskite
 1 Chandra, Torch of Defiance
 1 Arid Mesa
 1 Drannith Magistrate
@@ -204,16 +204,16 @@
 1 Reverse the Sands
 1 Possibility Storm
 1 Phyrexian Unlife
-2 Fae of Wishes
 2 Spell Queller
 2 Wall of Omens
+2 Narset of the Ancient Way
 2 Drannith Magistrate
 2 Snow-Covered Plains
 2 Delay
 2 Snow-Covered Mountain
 2 Spellskite
 2 Arid Mesa
-2 Narset of the Ancient Way
+2 Fae of Wishes
 2 Possibility Storm
 2 Chandra, Torch of Defiance
 2 Phyrexian Unlife
@@ -221,12 +221,12 @@
 2 Flooded Strand
 2 Prismatic Vista
 2 Commandeer
-3 Fae of Wishes
 3 Spell Queller
 3 Snow-Covered Island
 3 Wall of Omens
 3 Drannith Magistrate
 3 Snow-Covered Plains
+3 Fae of Wishes
 3 Delay
 3 Prismatic Vista
 3 Arid Mesa
@@ -234,7 +234,6 @@
 3 Flooded Strand
 3 Possibility Storm
 3 Scalding Tarn
-4 Fae of Wishes
 4 Spell Queller
 4 Drannith Magistrate
 4 Prismatic Vista
@@ -246,22 +245,22 @@
 4 Force of Negation
 4 Phyrexian Unlife
 4 Scalding Tarn
+4 Fae of Wishes
 4 Flooded Strand
 5 Snow-Covered Plains
 5 Snow-Covered Island
 1 Silundi Vision
-1 Beyeen Veil
 1 Jwari Disruption
 1 Talisman of Progress
 1 Disrupting Shoal
 1 Skyclave Cleric
 1 Teferi, Hero of Dominaria
+1 Beyeen Veil
 1 Pieces of the Puzzle
 1 Path to Exile
 1 Selective Memory
 1 Snapback
 2 Silundi Vision
-2 Beyeen Veil
 2 Jwari Disruption
 2 Talisman of Progress
 2 Disrupting Shoal
@@ -269,6 +268,7 @@
 2 Selective Memory
 2 Path to Exile
 2 Snapback
+2 Beyeen Veil
 2 Pieces of the Puzzle
 3 Silundi Vision
 3 Talisman of Progress
@@ -277,11 +277,11 @@
 3 Snapback
 3 Path to Exile
 3 Selective Memory
+4 Silundi Vision
 4 Jwari Disruption
 4 Disrupting Shoal
 4 Talisman of Progress
 4 Selective Memory
-4 Silundi Vision
 1 Waterlogged Grove
 1 Karn, the Great Creator
 1 Wooded Foothills

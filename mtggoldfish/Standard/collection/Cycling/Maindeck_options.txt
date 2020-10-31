@@ -18,12 +18,12 @@
 1 Branchloft Pathway
 2 Emeria's Call
 1 Cragcrown Pathway
-2 Cragcrown Pathway
 2 Branchloft Pathway
+2 Cragcrown Pathway
 3 Branchloft Pathway
 3 Cragcrown Pathway
-4 Cragcrown Pathway
 4 Branchloft Pathway
+4 Cragcrown Pathway
 1 Savai Triome
 1 Raugrin Triome
 1 Spikefield Hazard
@@ -50,27 +50,42 @@
 4 Fiend Artisan
 2 Raugrin Triome
 1 Island
-1 Fire Prophecy
 1 Valakut Awakening
-1 Skyclave Apparition
+1 Fire Prophecy
 1 Legion Angel
+1 Skyclave Apparition
 2 Skyclave Apparition
-1 Fabled Passage
 1 Sejiri Shelter
+1 Fabled Passage
 2 Fabled Passage
 1 Selfless Savior
 2 Selfless Savior
-1 Titanoth Rex
 1 Splendor Mare
-2 Titanoth Rex
+1 Titanoth Rex
 2 Splendor Mare
+2 Titanoth Rex
 3 Splendor Mare
 3 Titanoth Rex
+1 Suffocating Fumes
 1 Raking Claws
 1 Coordinated Charge
-1 Suffocating Fumes
 3 Spikefield Hazard
 4 Spikefield Hazard
+1 Temple of Epiphany
+1 Temple of Triumph
+1 Neutralize
+1 Temple of Enlightenment
+2 Temple of Epiphany
+2 Temple of Triumph
+2 Temple of Enlightenment
+2 Island
+2 Neutralize
+3 Island
+3 Neutralize
+3 Temple of Epiphany
+4 Island
+4 Neutralize
+4 Temple of Epiphany
 1 Improbable Alliance
 1 Rielle, the Everwise
 2 Rielle, the Everwise
@@ -84,18 +99,3 @@
 2 Frost Breath
 3 Frost Breath
 4 Frost Breath
-1 Neutralize
-1 Temple of Triumph
-1 Temple of Enlightenment
-1 Temple of Epiphany
-2 Temple of Enlightenment
-2 Island
-2 Neutralize
-2 Temple of Triumph
-2 Temple of Epiphany
-3 Neutralize
-3 Temple of Epiphany
-3 Island
-4 Temple of Epiphany
-4 Island
-4 Neutralize

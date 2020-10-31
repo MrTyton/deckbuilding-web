@@ -5,28 +5,27 @@
 3 Lightning Helix
 3 Flagstones of Trokair
 4 Cleansing Wildfire
+1 Snow-Covered Island
+1 Snow-Covered Plains
+2 Snow-Covered Island
 3 Field of Ruin
+1 Spell Snare
+1 Mana Leak
 4 Island
 4 Flagstones of Trokair
 4 Scalding Tarn
 4 Remand
-1 Mana Leak
-1 Snow-Covered Island
-1 Snow-Covered Plains
-2 Snow-Covered Island
-1 Spell Snare
-5 Island
-1 Mountain
-1 Supreme Verdict
 1 Polluted Delta
-1 Misty Rainforest
 3 Snow-Covered Island
+5 Island
+1 Supreme Verdict
+1 Mountain
+1 Misty Rainforest
 4 Field of Ruin
 1 Celestial Colonnade
 2 Mana Leak
-2 Plains
 2 Misty Rainforest
-2 Celestial Colonnade
+2 Plains
 3 Archmage's Charm
 1 Sword of Feast and Famine
 1 Batterskull
@@ -34,21 +33,24 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+2 Celestial Colonnade
 1 Logic Knot
+1 Sword of Fire and Ice
 6 Island
 1 Terminus
 2 Terminus
 3 Terminus
-1 Sword of Fire and Ice
+4 Snow-Covered Island
 3 Misty Rainforest
+2 Polluted Delta
+5 Snow-Covered Island
 1 Glacial Fortress
 1 Mystic Gate
-4 Snow-Covered Island
 4 Misty Rainforest
-2 Supreme Verdict
-5 Snow-Covered Island
-2 Polluted Delta
+3 Polluted Delta
+4 Polluted Delta
 1 Omen of the Sea
+2 Supreme Verdict
 1 Wall of Omens
 2 Wall of Omens
 3 Mystic Sanctuary
@@ -58,6 +60,11 @@
 1 Temple Garden
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
+1 Spreading Seas
+2 Spreading Seas
+3 Spreading Seas
+4 Spreading Seas
+4 Shark Typhoon
 1 Shatterskull Smashing
 1 Ice-Fang Coatl
 1 Noble Hierarch
@@ -83,8 +90,6 @@
 2 Omen of the Sea
 3 Jace, the Mind Sculptor
 3 Omen of the Sea
-3 Polluted Delta
-4 Polluted Delta
 2 Snow-Covered Plains
 2 Mystic Gate
 3 Wall of Omens
@@ -106,12 +111,8 @@
 4 Frantic Inventory
 3 Delay
 4 Delay
-1 Spreading Seas
-2 Spreading Seas
-3 Spreading Seas
-4 Spreading Seas
-4 Shark Typhoon
 7 Island
+1 Castle Ardenvale
 3 Spell Queller
 4 Spell Queller
 1 Snow-Covered Mountain
@@ -139,7 +140,6 @@
 1 Castle Vantress
 1 Waterlogged Grove
 1 Prismatic Vista
-1 Castle Ardenvale
 1 Dovin's Veto
 1 Flooded Grove
 1 Oust
@@ -166,8 +166,10 @@
 2 Counterbalance
 2 Condemn
 3 Counterbalance
-4 Omen of the Sea
 4 Counterbalance
+4 Omen of the Sea
+6 Snow-Covered Island
+7 Snow-Covered Island
 3 Mystic Gate
 4 Cryptic Command
 4 Celestial Colonnade

@@ -4,10 +4,10 @@
 3 Glass Casket
 1 Scavenging Ooze
 4 Emeria's Call
-1 Vivien, Monsters' Advocate
 1 Cultivate
-2 Vivien, Monsters' Advocate
+1 Vivien, Monsters' Advocate
 2 Cultivate
+2 Vivien, Monsters' Advocate
 5 Plains
 9 Forest
 1 Ugin, the Spirit Dragon
@@ -37,22 +37,22 @@
 2 Indatha Triome
 1 Elspeth, Sun's Nemesis
 4 Turntimber Symbiosis
-1 Solemn Simulacrum
-1 Crawling Barrens
-2 Solemn Simulacrum
-2 Crawling Barrens
-2 Yasharn, Implacable Earth
-3 Solemn Simulacrum
-4 Solemn Simulacrum
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 The Great Henge
 3 Lovestruck Beast
 4 The Great Henge
 4 Lovestruck Beast
-1 Skyclave Cleric
-1 Feasting Troll King
+1 Crawling Barrens
+1 Solemn Simulacrum
+2 Crawling Barrens
+2 Solemn Simulacrum
+2 Yasharn, Implacable Earth
+3 Solemn Simulacrum
+4 Solemn Simulacrum
 1 Archon of Sun's Grace
+1 Feasting Troll King
+1 Skyclave Cleric
 1 Kazandu Mammoth
 1 Blossoming Sands
 1 The Binding of the Titans
@@ -60,5 +60,5 @@
 2 The Binding of the Titans
 2 Blossoming Sands
 3 The Binding of the Titans
-3 Kazandu Mammoth
 4 Kazandu Mammoth
+3 Kazandu Mammoth

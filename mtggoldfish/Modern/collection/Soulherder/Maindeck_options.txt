@@ -1,28 +1,28 @@
-1 Birds of Paradise
+3 Teferi, Time Raveler
 1 Force of Negation
 2 Birds of Paradise
 3 Snow-Covered Forest
-2 Force of Negation
-1 Charming Prince
-3 Birds of Paradise
 1 Coiling Oracle
 2 Coiling Oracle
 1 Prismatic Vista
 2 Prismatic Vista
+1 Charming Prince
+2 Force of Negation
+3 Birds of Paradise
 2 Wall of Blossoms
+1 Skyclave Apparition
+2 Skyclave Apparition
 3 Soulherder
 1 Stonehorn Dignitary
 1 Canopy Vista
 1 Prairie Stream
 4 Eternal Witness
-1 Skyclave Apparition
-2 Skyclave Apparition
+1 Stomping Ground
+1 Avalanche Riders
 4 Birds of Paradise
 3 Coiling Oracle
 1 Gaddock Teeg
 3 Force of Negation
-1 Stomping Ground
-1 Avalanche Riders
 1 Wooded Foothills
 1 Chord of Calling
 2 Chord of Calling
@@ -50,16 +50,19 @@
 1 Acidic Slime
 2 Stomping Ground
 4 Wooded Foothills
-1 Huntmaster of the Fells
 3 Skyclave Apparition
+1 Huntmaster of the Fells
 2 Venser, Shaper Savant
 4 Path to Exile
 3 Avalanche Riders
-4 Force of Negation
 1 Wall of Omens
-1 Time Warp
-1 Knight of Autumn
+1 Glasspool Mimic
+2 Glasspool Mimic
+4 Force of Negation
 1 Raugrin Triome
+1 Time Warp
+1 Ketria Triome
+1 Knight of Autumn
 1 Steam Vents
 1 Saheeli Rai
 1 Felidar Guardian
@@ -69,10 +72,7 @@
 3 Felidar Guardian
 4 Saheeli Rai
 4 Felidar Guardian
-1 Glasspool Mimic
-2 Glasspool Mimic
 2 Wall of Omens
-1 Ketria Triome
 1 Waterlogged Grove
 1 Field of the Dead
 1 Wrenn and Six
@@ -84,6 +84,7 @@
 2 Wrenn and Six
 3 Oath of Nissa
 1 Lurrus of the Dream-Den
+1 Omnath, Locus of Creation
 1 Collected Company
 2 Collected Company
 1 Siege Rhino
@@ -93,6 +94,9 @@
 1 Neoform
 2 Neoform
 3 Neoform
+3 Glasspool Mimic
+1 Flickerwisp
+4 Skyclave Apparition
 1 Ranger-Captain of Eos
 2 Giver of Runes
 3 Collected Company
@@ -108,7 +112,6 @@
 2 Charming Prince
 3 Charming Prince
 1 Agent of Treachery
-1 Omnath, Locus of Creation
 1 Arid Mesa
 1 Magus of the Moon
 1 Gilded Goose
@@ -130,14 +133,11 @@
 2 Ranger-Captain of Eos
 3 Ranger-Captain of Eos
 3 Temple Garden
-4 Skyclave Apparition
 1 Renegade Rallier
-3 Glasspool Mimic
 3 Giver of Runes
 3 Wall of Omens
 4 Wall of Omens
 4 Giver of Runes
-1 Flickerwisp
 1 Forest
 1 Fblthp, the Lost
 2 Flickerwisp
@@ -152,8 +152,8 @@
 1 Seasoned Pyromancer
 1 Lightning Bolt
 1 Sword of Feast and Famine
-1 Cryptic Command
 1 Mystic Sanctuary
+1 Cryptic Command
 1 Mountain
 1 Scalding Tarn
 2 Plains
