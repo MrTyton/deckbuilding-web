@@ -2,33 +2,29 @@
 2 Temple Garden
 3 Temple Garden
 2 Plains
+1 Llanowar Elves
+1 Elvish Mystic
+2 Llanowar Elves
+2 Elvish Mystic
 1 Forest
 2 Forest
 3 Forest
-1 Elvish Mystic
-1 Llanowar Elves
-2 Llanowar Elves
-2 Elvish Mystic
 4 Forest
 3 Plains
-4 Temple Garden
-4 Plains
-1 Sunpetal Grove
-1 Brimaz, King of Oreskos
-2 Sunpetal Grove
-2 Brimaz, King of Oreskos
-3 Sunpetal Grove
-4 Sunpetal Grove
 1 Voice of Resurgence
 2 Voice of Resurgence
 3 Voice of Resurgence
+4 Temple Garden
 4 Voice of Resurgence
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
 4 Lovestruck Beast
 5 Forest
+4 Plains
 1 Nissa, Voice of Zendikar
+1 Westvale Abbey
+1 Sunpetal Grove
 1 Castle Ardenvale
 1 Paradise Druid
 1 Declaration in Stone
@@ -36,24 +32,28 @@
 1 Gideon, Ally of Zendikar
 1 Leonin Warleader
 1 Secure the Wastes
-1 Westvale Abbey
+1 Brimaz, King of Oreskos
 1 Divine Visitation
 2 Nissa, Voice of Zendikar
+2 Sunpetal Grove
 2 Castle Ardenvale
 2 Paradise Druid
 2 Dromoka's Command
-2 Gideon, Ally of Zendikar
+2 Brimaz, King of Oreskos
 2 Westvale Abbey
-2 Divine Visitation
 2 Secure the Wastes
+2 Divine Visitation
+2 Gideon, Ally of Zendikar
 2 Leonin Warleader
 3 Gideon, Ally of Zendikar
+3 Sunpetal Grove
 3 Paradise Druid
 3 Dromoka's Command
 3 Secure the Wastes
 3 Westvale Abbey
 3 Divine Visitation
 4 Dromoka's Command
+4 Sunpetal Grove
 4 Paradise Druid
 4 Secure the Wastes
 6 Forest
@@ -92,10 +92,10 @@
 3 Mayhem Devil
 3 Catacomb Sifter
 3 Cragcrown Pathway
-3 Woe Strider
 3 Zulaport Cutthroat
 3 Bolas's Citadel
 3 Priest of Forgotten Gods
+3 Woe Strider
 4 Gilded Goose
 4 Catacomb Sifter
 4 Woe Strider
@@ -276,8 +276,8 @@
 1 Fierce Empath
 1 Yavimaya Coast
 1 Arboreal Grazer
-1 World Breaker
 1 Cavalier of Thorns
+1 World Breaker
 1 Sanctum of Ugin
 1 Castle Garenbrig
 1 Elder Deep-Fiend
@@ -428,55 +428,15 @@
 4 Game Trail
 4 Burning-Tree Emissary
 4 Stomping Ground
-1 Lazotep Reaver
-1 Foulmire Knight
-1 Cryptbreaker
-1 Dark Salvation
-1 Corpse Knight
-1 Liliana, Untouched by Death
-1 Isolated Chapel
-1 Rally the Ancestors
-1 Diregraf Colossus
-1 Necrotic Wound
-1 Wayward Servant
-1 Slitherhead
-2 Lazotep Reaver
-2 Foulmire Knight
-2 Cryptbreaker
-2 Wayward Servant
-2 Isolated Chapel
-2 Dark Salvation
-2 Slitherhead
-2 Corpse Knight
-2 Liliana, Untouched by Death
-2 Castle Locthwain
-2 Diregraf Colossus
-2 Rally the Ancestors
-3 Lazotep Reaver
-3 Corpse Knight
-3 Cryptbreaker
-3 Liliana, Untouched by Death
-3 Castle Locthwain
-3 Rally the Ancestors
-3 Wayward Servant
-3 Isolated Chapel
-3 Slitherhead
-3 Dark Salvation
-4 Isolated Chapel
-4 Cryptbreaker
-4 Wayward Servant
-4 Dark Salvation
-4 Rally the Ancestors
-4 Corpse Knight
 1 Watcher of the Spheres
 1 Azorius Charm
 1 Emeria's Call
 1 Irrigated Farmland
 1 Glacial Fortress
 1 Lofty Denial
-1 Selfless Spirit
 1 Winged Words
 1 Archangel Avacyn
+1 Selfless Spirit
 1 Rattlechains
 2 Watcher of the Spheres
 2 Azorius Charm
@@ -504,42 +464,43 @@
 5 Island
 6 Island
 7 Island
-1 Sacred Cat
-1 Scattered Groves
-1 Leonin Vanguard
-1 Kaheera, the Orphanguard
-1 Fleecemane Lion
-1 Pride Sovereign
-1 Feline Sovereign
-1 Bronzehide Lion
-1 Ajani, Adversary of Tyrants
-1 Regal Caracal
-1 Fortified Village
-1 Adorned Pouncer
-1 Ajani Steadfast
-1 Animal Sanctuary
-2 Sacred Cat
-2 Leonin Vanguard
-2 Regal Caracal
-2 Fortified Village
-2 Kaheera, the Orphanguard
-2 Adorned Pouncer
-2 Scattered Groves
-2 Feline Sovereign
-2 Fleecemane Lion
-2 Animal Sanctuary
-2 Pride Sovereign
-2 Bronzehide Lion
-2 Ajani, Adversary of Tyrants
-3 Leonin Vanguard
-3 Feline Sovereign
-3 Pride Sovereign
-3 Sacred Cat
-3 Regal Caracal
-4 Regal Caracal
-4 Sacred Cat
-4 Pride Sovereign
-4 Feline Sovereign
-5 Plains
-6 Plains
-7 Plains
+1 Lazotep Reaver
+1 Foulmire Knight
+1 Cryptbreaker
+1 Dark Salvation
+1 Corpse Knight
+1 Liliana, Untouched by Death
+1 Isolated Chapel
+1 Rally the Ancestors
+1 Diregraf Colossus
+1 Necrotic Wound
+1 Wayward Servant
+1 Slitherhead
+2 Lazotep Reaver
+2 Foulmire Knight
+2 Cryptbreaker
+2 Wayward Servant
+2 Isolated Chapel
+2 Dark Salvation
+2 Diregraf Colossus
+2 Slitherhead
+2 Corpse Knight
+2 Liliana, Untouched by Death
+2 Castle Locthwain
+2 Rally the Ancestors
+3 Lazotep Reaver
+3 Corpse Knight
+3 Cryptbreaker
+3 Liliana, Untouched by Death
+3 Castle Locthwain
+3 Rally the Ancestors
+3 Wayward Servant
+3 Isolated Chapel
+3 Slitherhead
+3 Dark Salvation
+4 Isolated Chapel
+4 Cryptbreaker
+4 Wayward Servant
+4 Dark Salvation
+4 Rally the Ancestors
+4 Corpse Knight

@@ -1,10 +1,4 @@
-3 Elvish Visionary
-4 Elvish Visionary
 1 Chord of Calling
-1 Nettle Sentinel
-2 Nettle Sentinel
-3 Nettle Sentinel
-4 Nettle Sentinel
 2 Chord of Calling
 1 Leyline of Abundance
 1 Devoted Druid
@@ -37,8 +31,8 @@
 3 Razorverge Thicket
 3 Temple Garden
 3 Llanowar Tribe
-3 Beastcaller Savant
 3 Chord of Calling
+3 Beastcaller Savant
 3 Windswept Heath
 4 Umbral Mantle
 4 Horizon Canopy
@@ -47,10 +41,10 @@
 4 Windswept Heath
 4 Llanowar Tribe
 4 Temple Garden
+1 Westvale Abbey
+3 Forest
 1 Elvish Champion
 2 Elvish Champion
-1 Scavenging Ooze
-2 Scavenging Ooze
 1 Overgrown Tomb
 1 Verdant Catacombs
 2 Verdant Catacombs
@@ -58,9 +52,11 @@
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
+1 Nettle Sentinel
+2 Nettle Sentinel
+3 Nettle Sentinel
+4 Nettle Sentinel
 1 Craterhoof Behemoth
-1 Wildborn Preserver
-2 Wildborn Preserver
 1 Nissa of Shadowed Boughs
 2 Nissa of Shadowed Boughs
 3 Lead the Stampede
@@ -91,11 +87,13 @@
 8 Snow-Covered Forest
 1 Wooded Foothills
 1 Llanowar Wastes
+1 Scavenging Ooze
 1 Twilight Mire
 1 Swamp
 1 Prismatic Vista
 1 Woodland Cemetery
 2 Wooded Foothills
+2 Scavenging Ooze
 2 Woodland Cemetery
 3 Woodland Cemetery
 4 Woodland Cemetery

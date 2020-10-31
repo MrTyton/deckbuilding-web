@@ -51,16 +51,16 @@
 2 Thassa's Oracle
 3 Opt
 4 Opt
-1 Polluted Delta
 1 Watery Grave
+1 Polluted Delta
 2 Polluted Delta
 2 Watery Grave
+1 Remand
 1 River of Tears
 1 Murderous Cut
 1 Fatal Push
 1 Inquisition of Kozilek
 1 Inverter of Truth
-1 Remand
 2 Remand
 2 Fatal Push
 2 Inquisition of Kozilek
@@ -108,8 +108,8 @@
 1 Preordain
 1 Ponder
 1 Gitaxian Probe
-2 Urborg, Tomb of Yawgmoth
 2 Dark Confidant
+2 Urborg, Tomb of Yawgmoth
 2 Chrome Mox
 2 Ponder
 2 Dark Depths
@@ -122,8 +122,8 @@
 3 Preordain
 3 Dark Confidant
 3 Chrome Mox
-3 Vampire Hexmage
 3 Urborg, Tomb of Yawgmoth
+3 Vampire Hexmage
 3 Ponder
 3 Thopter Foundry
 3 Dark Depths
@@ -153,9 +153,9 @@
 4 Pact of Negation
 1 Snapcaster Mage
 1 Sunken Ruins
-1 Tasigur, the Golden Fang
 1 Vendilion Clique
 1 Cryptic Command
+1 Tasigur, the Golden Fang
 2 Snapcaster Mage
 3 Island
 3 Snapcaster Mage
@@ -204,13 +204,13 @@
 1 Reverse the Sands
 1 Possibility Storm
 1 Phyrexian Unlife
+2 Fae of Wishes
 2 Spell Queller
 2 Wall of Omens
 2 Drannith Magistrate
 2 Snow-Covered Plains
 2 Delay
 2 Snow-Covered Mountain
-2 Fae of Wishes
 2 Spellskite
 2 Arid Mesa
 2 Narset of the Ancient Way
@@ -221,10 +221,10 @@
 2 Flooded Strand
 2 Prismatic Vista
 2 Commandeer
+3 Fae of Wishes
 3 Spell Queller
 3 Snow-Covered Island
 3 Wall of Omens
-3 Fae of Wishes
 3 Drannith Magistrate
 3 Snow-Covered Plains
 3 Delay
@@ -234,6 +234,7 @@
 3 Flooded Strand
 3 Possibility Storm
 3 Scalding Tarn
+4 Fae of Wishes
 4 Spell Queller
 4 Drannith Magistrate
 4 Prismatic Vista
@@ -245,22 +246,22 @@
 4 Force of Negation
 4 Phyrexian Unlife
 4 Scalding Tarn
-4 Fae of Wishes
 4 Flooded Strand
 5 Snow-Covered Plains
 5 Snow-Covered Island
 1 Silundi Vision
+1 Beyeen Veil
+1 Jwari Disruption
 1 Talisman of Progress
 1 Disrupting Shoal
 1 Skyclave Cleric
 1 Teferi, Hero of Dominaria
-1 Jwari Disruption
-1 Beyeen Veil
 1 Pieces of the Puzzle
 1 Path to Exile
 1 Selective Memory
 1 Snapback
 2 Silundi Vision
+2 Beyeen Veil
 2 Jwari Disruption
 2 Talisman of Progress
 2 Disrupting Shoal
@@ -268,15 +269,14 @@
 2 Selective Memory
 2 Path to Exile
 2 Snapback
-2 Beyeen Veil
 2 Pieces of the Puzzle
+3 Silundi Vision
 3 Talisman of Progress
 3 Jwari Disruption
 3 Disrupting Shoal
 3 Snapback
 3 Path to Exile
 3 Selective Memory
-3 Silundi Vision
 4 Jwari Disruption
 4 Disrupting Shoal
 4 Talisman of Progress
@@ -305,8 +305,8 @@
 2 Karn, the Great Creator
 2 Forest
 2 Aether Hub
-2 Through the Breach
 2 Emrakul, the Aeons Torn
+2 Through the Breach
 2 Wooded Foothills
 2 Misty Rainforest
 2 Whirler Virtuoso
@@ -334,8 +334,8 @@
 3 Attune with Aether
 3 Harnessed Lightning
 4 Emrakul, the Aeons Torn
-4 Through the Breach
 4 Wooded Foothills
+4 Through the Breach
 4 Harnessed Lightning
 4 Misty Rainforest
 4 Rogue Refiner
