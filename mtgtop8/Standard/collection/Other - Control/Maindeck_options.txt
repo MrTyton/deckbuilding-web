@@ -25,15 +25,15 @@
 2 Acquisitions Expert
 1 Clearwater Pathway
 2 Clearwater Pathway
-1 Maddening Cacophony
 1 Into the Story
 1 Ruin Crab
 1 Island
 1 Drown in the Loch
 1 Temple of Deceit
 1 Thieves' Guild Enforcer
-2 Maddening Cacophony
+1 Maddening Cacophony
 2 Into the Story
+2 Maddening Cacophony
 2 Ruin Crab
 2 Temple of Deceit
 2 Thieves' Guild Enforcer
@@ -77,8 +77,8 @@
 1 So Tiny
 2 Silundi Vision
 2 Hagra Mauling
-2 So Tiny
 2 Merfolk Secretkeeper
+2 So Tiny
 3 Silundi Vision
 3 Merfolk Secretkeeper
 4 Bloodchief's Thirst
@@ -125,13 +125,13 @@
 4 Swamp
 1 Valakut Awakening
 1 Ugin, the Spirit Dragon
+1 Labyrinth of Skophos
 1 Radiant Fountain
 1 Fire Prophecy
 1 Kazuul's Fury
 1 Mazemind Tome
 1 Crawling Barrens
 1 Storm's Wrath
-1 Labyrinth of Skophos
 1 Bonecrusher Giant
 1 Mountain
 1 Irencrag Feat
@@ -142,6 +142,7 @@
 2 Valakut Awakening
 2 Crawling Barrens
 2 Kazuul's Fury
+2 Labyrinth of Skophos
 2 Radiant Fountain
 2 Fire Prophecy
 2 Mazemind Tome
@@ -153,14 +154,13 @@
 2 Ugin, the Spirit Dragon
 2 Mountain
 2 Ox of Agonas
-2 Labyrinth of Skophos
-3 Labyrinth of Skophos
 3 Crawling Barrens
 3 Mazemind Tome
 3 Solemn Simulacrum
+3 Radiant Fountain
+3 Labyrinth of Skophos
 3 Fire Prophecy
 3 Shredded Sails
-3 Radiant Fountain
 3 Spikefield Hazard
 3 Irencrag Feat
 3 Bonecrusher Giant
@@ -168,14 +168,14 @@
 3 Shatterskull Smashing
 3 Mountain
 4 Mazemind Tome
+4 Radiant Fountain
 4 Irencrag Feat
-4 Mountain
 4 Shredded Sails
+4 Mountain
 4 Ugin, the Spirit Dragon
 4 Shatterskull Smashing
 4 Spikefield Hazard
 4 Solemn Simulacrum
-4 Radiant Fountain
 4 Bonecrusher Giant
 5 Mountain
 6 Mountain

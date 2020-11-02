@@ -36,17 +36,18 @@
 1 Misty Rainforest
 1 Ancient Tomb
 2 Ancient Tomb
+1 Snapcaster Mage
 1 Tundra
 1 Snow-Covered Plains
 1 Arcum's Astrolabe
 1 Personal Tutor
 1 Scalding Tarn
-1 Snapcaster Mage
 1 Bloodstained Mire
 1 Tolaria West
 1 Arid Mesa
 1 Marsh Flats
 1 Entreat the Angels
+1 Jace, the Mind Sculptor
 1 Swords to Plowshares
 1 Spell Pierce
 1 Murderous Cut
@@ -55,18 +56,16 @@
 1 Ethersworn Canonist
 1 Misdirection
 1 Celestial Colonnade
-1 Toxic Deluge
-1 Counterspell
 1 Drowned Catacomb
 1 Underground Sea
+1 Counterspell
 1 Glacial Fortress
 1 Portent
 1 Baleful Strix
 1 Elesh Norn, Grand Cenobite
-1 Phyrexian Unlife
 1 Torpor Orb
 1 Jin-Gitaxias, Core Augur
-1 Jace, the Mind Sculptor
+1 Toxic Deluge
 1 Enlightened Tutor
 1 Ensnaring Bridge
 1 Pact of Negation
@@ -103,14 +102,14 @@
 1 Boseiju, Who Shelters All
 1 Cabal Therapy
 1 Scrubland
+1 Phyrexian Unlife
 1 Force of Will
+2 Snapcaster Mage
 2 Snow-Covered Plains
 2 Arcum's Astrolabe
 2 Polluted Delta
 2 Teferi, Time Raveler
-2 Snapcaster Mage
 2 Intuition
-2 Snow-Covered Swamp
 2 Tundra
 2 Spell Pierce
 2 Arid Mesa
@@ -123,13 +122,14 @@
 2 Glacial Fortress
 2 Celestial Colonnade
 2 Drowned Catacomb
+2 Snow-Covered Swamp
 2 Portent
-2 Phyrexian Unlife
+2 Jace, the Mind Sculptor
 2 Scrubland
+2 Tolaria West
 2 Baleful Strix
 2 Flusterstorm
 2 Enlightened Tutor
-2 Jace, the Mind Sculptor
 2 Toxic Deluge
 2 Pact of Negation
 2 Ponder
@@ -143,12 +143,12 @@
 2 Gifts Ungiven
 2 Battle of Wits
 2 Impulse
+2 Phyrexian Unlife
 2 Force of Will
 2 Emrakul, the Aeons Torn
 2 Brainstorm
 2 Mystic Sanctuary
 2 Flooded Strand
-2 Tolaria West
 2 Ad Nauseam
 2 Serum Visions
 2 Omniscience
@@ -167,28 +167,28 @@
 3 Marsh Flats
 3 Jace, the Mind Sculptor
 3 Emrakul, the Aeons Torn
-3 Polluted Delta
 3 Enlightened Tutor
+3 Polluted Delta
 3 Arid Mesa
-3 Tolaria West
 3 Impulse
 3 Mystic Sanctuary
 3 Swords to Plowshares
-3 Phyrexian Unlife
-3 Counterspell
 3 Tundra
-3 Snow-Covered Swamp
+3 Counterspell
 3 Intuition
+3 Snow-Covered Swamp
 3 Spell Pierce
-3 Celestial Colonnade
 3 Ancient Tomb
+3 Celestial Colonnade
+3 Personal Tutor
+3 Tolaria West
 3 Pact of Negation
 3 Flusterstorm
 3 Baleful Strix
+3 Phyrexian Unlife
 3 Force of Will
 3 Brainstorm
 3 Serum Visions
-3 Personal Tutor
 3 Omniscience
 3 Windswept Heath
 3 Portent
@@ -211,20 +211,20 @@
 3 Battle of Wits
 4 Preordain
 4 Flooded Strand
-4 Polluted Delta
 4 Cunning Wish
-4 Phyrexian Unlife
 4 Snapcaster Mage
 4 Underground Sea
 4 Teferi, Time Raveler
+4 Polluted Delta
 4 Celestial Colonnade
-4 Tolaria West
 4 Arcum's Astrolabe
 4 Spell Pierce
 4 Impulse
 4 Tundra
 4 Baleful Strix
+4 Tolaria West
 4 Battle of Wits
+4 Phyrexian Unlife
 4 Portent
 4 Ponder
 4 Jace, the Mind Sculptor
@@ -270,27 +270,27 @@
 1 Lion's Eye Diamond
 1 Karn, the Great Creator
 1 Leyline of the Void
+1 Infernal Tutor
 1 Lake of the Dead
 1 Helm of Obedience
-1 Infernal Tutor
 1 Plunge into Darkness
 1 Ill-Gotten Gains
 1 Echo of Eons
-2 Infernal Tutor
 2 Swamp
 2 Helm of Obedience
 2 Karn, the Great Creator
 2 Leyline of the Void
+2 Infernal Tutor
 2 Ill-Gotten Gains
 2 Lion's Eye Diamond
-3 Infernal Tutor
 3 Leyline of the Void
+3 Infernal Tutor
 3 Swamp
 3 Lion's Eye Diamond
 3 Helm of Obedience
 4 Infernal Tutor
-4 Leyline of the Void
 4 Lion's Eye Diamond
+4 Leyline of the Void
 4 Swamp
 5 Swamp
 6 Swamp

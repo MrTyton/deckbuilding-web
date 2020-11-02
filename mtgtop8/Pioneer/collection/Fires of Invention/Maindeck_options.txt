@@ -81,31 +81,31 @@
 1 Oath of Gideon
 2 Sea Gate Restoration
 2 Baffling End
-1 Wandering Fumarole
-2 Wandering Fumarole
 1 Deafening Clarion
 2 Deafening Clarion
+1 Wandering Fumarole
+2 Wandering Fumarole
 4 Omen of the Sun
 1 Satyr Wayfinder
 1 Arboreal Grazer
-1 Charming Prince
 1 Oath of Nissa
 1 Skyclave Apparition
+1 Charming Prince
 1 Karn, the Great Creator
 2 Satyr Wayfinder
 2 Arboreal Grazer
-2 Charming Prince
 2 Oath of Nissa
 2 Karn, the Great Creator
+2 Charming Prince
 2 Skyclave Apparition
 3 Yorion, Sky Nomad
 3 Arboreal Grazer
-3 Charming Prince
 3 Skyclave Apparition
 3 Oath of Nissa
 3 Satyr Wayfinder
 3 Sunpetal Grove
 3 Karn, the Great Creator
+3 Charming Prince
 4 Temple Garden
 4 Skyclave Apparition
 4 Oath of Nissa
@@ -120,9 +120,9 @@
 1 Goblin Rabblemaster
 1 Kari Zev, Skyship Raider
 1 Castle Embereth
-1 Wild Slash
 1 Omen of the Forge
 1 Purphoros, God of the Forge
+1 Wild Slash
 1 Anax, Hardened in the Forge
 1 Siege-Gang Commander
 1 Soul-Scar Mage
@@ -134,9 +134,9 @@
 2 Castle Embereth
 2 Goblin Rabblemaster
 2 Kari Zev, Skyship Raider
-2 Wild Slash
 2 Omen of the Forge
 2 Purphoros, God of the Forge
+2 Wild Slash
 2 Anax, Hardened in the Forge
 2 Battlefield Forge
 2 Pia and Kiran Nalaar
@@ -148,22 +148,22 @@
 2 Earthshaker Khenra
 3 Pia and Kiran Nalaar
 3 Goblin Rabblemaster
+3 Mountain
 3 Omen of the Forge
 3 Bonecrusher Giant
-3 Wild Slash
-3 Mountain
 3 Anax, Hardened in the Forge
 3 Purphoros, God of the Forge
 3 Mutavault
 3 Inspiring Vantage
 3 Earthshaker Khenra
+3 Wild Slash
 3 Clifftop Retreat
 3 Battlefield Forge
 3 Needle Spires
 3 Soul-Scar Mage
 3 Siege-Gang Commander
-4 Goblin Rabblemaster
 4 Bonecrusher Giant
+4 Goblin Rabblemaster
 4 Omen of the Forge
 4 Anax, Hardened in the Forge
 4 Earthshaker Khenra
@@ -179,12 +179,11 @@
 6 Mountain
 7 Mountain
 8 Mountain
-1 Fae of Wishes
-1 Chandra, Awakened Inferno
 1 Chandra, Torch of Defiance
+1 Chandra, Awakened Inferno
+1 Fae of Wishes
 2 Fae of Wishes
 3 Fae of Wishes
-1 Thought Erasure
 1 Nicol Bolas, the Ravager
 1 Drowned Catacomb
 1 Watery Grave
@@ -202,8 +201,8 @@
 1 Dreadbore
 1 Temple of Deceit
 1 Drawn from Dreams
+1 Thought Erasure
 1 Sarkhan the Masterless
-2 Thought Erasure
 2 Temple of Deceit
 2 Drowned Catacomb
 2 Watery Grave
@@ -218,15 +217,16 @@
 2 Riverglide Pathway
 2 Drawn from Dreams
 2 Nicol Bolas, the Ravager
+2 Thought Erasure
 3 Watery Grave
 3 Blood Crypt
 3 Nicol Bolas, Dragon-God
 3 Nicol Bolas, the Ravager
-1 Gideon of the Trials
 1 Gideon Blackblade
 1 The Royal Scions
 1 Chance for Glory
 1 Heart of Kiran
+1 Gideon of the Trials
 1 Interplanar Beacon
 2 Chandra, Torch of Defiance
 2 Gideon of the Trials

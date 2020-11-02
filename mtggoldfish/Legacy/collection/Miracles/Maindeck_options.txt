@@ -1,28 +1,29 @@
-2 Scalding Tarn
-1 Island
-2 Island
 3 Island
-3 Prismatic Vista
-4 Prismatic Vista
+1 Arcum's Astrolabe
+2 Arcum's Astrolabe
+6 Snow-Covered Island
 2 Plains
+4 Island
+1 Portent
 1 Polluted Delta
 2 Polluted Delta
-4 Island
 1 Karakas
-1 Portent
 2 Portent
-1 Preordain
 2 Force of Negation
+3 Prismatic Vista
+4 Prismatic Vista
+1 Spell Pierce
+1 Preordain
 1 Supreme Verdict
 1 Snow-Covered Mountain
+1 Monastery Mentor
 1 Gideon, Ally of Zendikar
 1 Lightning Bolt
 2 Back to Basics
-1 Spell Pierce
-1 Dovin's Veto
-1 Monastery Mentor
-2 Narset, Parter of Veils
 5 Island
+1 Dovin's Veto
+2 Narset, Parter of Veils
+2 Monastery Mentor
 3 Scalding Tarn
 4 Scalding Tarn
 1 Mishra's Bauble
@@ -31,7 +32,6 @@
 3 Predict
 4 Mishra's Bauble
 1 Misty Rainforest
-2 Monastery Mentor
 1 Red Elemental Blast
 2 Dovin's Veto
 3 Polluted Delta
@@ -39,27 +39,26 @@
 2 Counterspell
 2 Council's Judgment
 2 Misty Rainforest
+6 Island
 1 Teferi, Master of Time
-1 Sylvan Library
 1 Daze
+2 Daze
+3 Daze
+1 Sylvan Library
 1 Snow-Covered Forest
 1 Tropical Island
 1 Oko, Thief of Crowns
-2 Daze
 2 Oko, Thief of Crowns
-3 Daze
 3 Monastery Mentor
 3 Misty Rainforest
 4 Monastery Mentor
 4 Misty Rainforest
 1 Sevinne's Reclamation
 3 Counterbalance
-6 Island
 2 Volcanic Island
 1 Underground Sea
 3 Teferi, Time Raveler
 1 Unexpectedly Absent
-2 Lightning Bolt
 1 Swamp
 1 Kaya, Orzhov Usurper
 1 Cling to Dust
@@ -70,30 +69,31 @@
 2 Karakas
 3 Narset, Parter of Veils
 1 Personal Tutor
+1 Helm of Obedience
+1 Rest in Peace
+2 Rest in Peace
+3 Rest in Peace
+1 True-Name Nemesis
 1 Deprive
+2 Lightning Bolt
 2 Tropical Island
 1 Teferi, Hero of Dominaria
 2 Teferi, Hero of Dominaria
 3 Portent
-1 Helm of Obedience
-1 Rest in Peace
-2 Rest in Peace
 2 Helm of Obedience
 3 Tundra
-3 Rest in Peace
 1 Temporal Mastery
 2 Temporal Mastery
 3 Temporal Mastery
+1 Precognition Field
 1 See the Truth
 1 Spell Snare
-1 Precognition Field
 2 See the Truth
 3 Arcum's Astrolabe
 3 See the Truth
 1 Sword of Fire and Ice
 1 Stoneforge Mystic
 1 Sword of Feast and Famine
-1 True-Name Nemesis
 1 Batterskull
 1 Jace, Vryn's Prodigy
 1 Vendilion Clique
@@ -105,14 +105,14 @@
 3 True-Name Nemesis
 4 Stoneforge Mystic
 1 Possibility Storm
+1 Pyroblast
 1 Orim's Chant
 1 Lavinia, Azorius Renegade
-1 Pyroblast
 1 Isochron Scepter
-2 Possibility Storm
+2 Pyroblast
 2 Lavinia, Azorius Renegade
 2 Orim's Chant
-2 Pyroblast
+2 Possibility Storm
 3 Mystic Sanctuary
 4 Teferi, Time Raveler
 4 Terminus
@@ -137,15 +137,15 @@
 3 Show and Tell
 3 Preordain
 3 Cunning Wish
-4 Omniscience
 4 Show and Tell
+4 Omniscience
 1 Marsh Flats
-1 Snow-Covered Swamp
 1 Spellseeker
 1 Eliminate
 1 Baleful Strix
 1 Gurmag Angler
 1 Plague Engineer
+1 Snow-Covered Swamp
 2 Spellseeker
 2 Eliminate
 2 Gurmag Angler
@@ -157,3 +157,25 @@
 3 Eliminate
 4 Eliminate
 4 Baleful Strix
+1 Trade Routes
+1 Energy Field
+1 Enlightened Tutor
+1 Detention Sphere
+1 Path to Exile
+1 Solitary Confinement
+1 Scroll Rack
+1 Land Tax
+1 Web of Inertia
+2 Enlightened Tutor
+2 Scroll Rack
+2 Land Tax
+3 Enlightened Tutor
+3 Plains
+3 Scroll Rack
+3 Land Tax
+4 Enlightened Tutor
+4 Plains
+4 Land Tax
+5 Plains
+6 Plains
+7 Island

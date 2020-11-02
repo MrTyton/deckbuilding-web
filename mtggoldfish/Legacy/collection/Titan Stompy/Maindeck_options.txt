@@ -34,9 +34,9 @@
 1 Castle Locthwain
 1 Fierce Empath
 1 Collector Ouphe
-1 Grasping Dunes
 1 Arasta of the Endless Web
 1 Swamp
+1 Grasping Dunes
 1 Hogaak, Arisen Necropolis
 2 Satyr Wayfinder
 2 Elvish Reclaimer
@@ -54,29 +54,29 @@
 3 Trinisphere
 4 Uro, Titan of Nature's Wrath
 3 Sylvan Library
-1 The Tabernacle at Pendrell Vale
-1 Rishadan Port
 1 Exploration
+1 Rishadan Port
+1 The Tabernacle at Pendrell Vale
 1 Maze of Ith
-2 Crop Rotation
 2 Maze of Ith
 2 Exploration
-3 Crop Rotation
-3 Exploration
+2 Crop Rotation
 3 Life from the Loam
+3 Exploration
+3 Crop Rotation
+4 Exploration
 4 Life from the Loam
 4 Crop Rotation
-4 Exploration
 1 Leovold, Emissary of Trest
 1 Snow-Covered Swamp
 1 Underground Sea
+1 Arcum's Astrolabe
 1 Ice-Fang Coatl
 1 Plague Engineer
 1 Brainstorm
 1 Veil of Summer
 1 Snow-Covered Plains
 1 Ponder
-1 Arcum's Astrolabe
 1 Utopia Sprawl
 1 Savannah
 1 Snow-Covered Island
@@ -85,13 +85,13 @@
 1 Force of Negation
 1 Force of Will
 1 Swords to Plowshares
+2 Arcum's Astrolabe
 2 Force of Negation
 2 Ice-Fang Coatl
 2 Plague Engineer
 2 Veil of Summer
 2 Ponder
 2 Snow-Covered Island
-2 Arcum's Astrolabe
 2 Force of Will
 2 Swords to Plowshares
 2 Utopia Sprawl
@@ -136,17 +136,17 @@
 3 Ghost Quarter
 3 Tropical Island
 3 Field of the Dead
-1 Zagoth Triome
-1 Cabal Pit
-2 Thespian's Stage
-2 Rishadan Port
-3 Rishadan Port
-4 Rishadan Port
 1 Llanowar Visionary
 3 Primeval Titan
 3 Bayou
 4 Primeval Titan
 4 Windswept Heath
+1 Zagoth Triome
+1 Cabal Pit
+2 Rishadan Port
+2 Thespian's Stage
+3 Rishadan Port
+4 Rishadan Port
 1 Assassin's Trophy
 1 Titania, Protector of Argoth
 1 Meren of Clan Nel Toth

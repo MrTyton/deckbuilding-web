@@ -1,14 +1,14 @@
-3 Glass Casket
-1 Blitz of the Thunder-Raptor
 2 Blitz of the Thunder-Raptor
-1 Deafening Silence
+1 Glass Casket
+2 Glass Casket
+3 Glass Casket
 1 Hushbringer
 2 Hushbringer
+1 Shock
+2 Shock
 3 Blitz of the Thunder-Raptor
 4 Shredded Sails
 4 Glass Casket
-1 Shock
-2 Shock
 3 Redcap Melee
 1 Thundering Rebuke
 1 Sejiri Shelter
@@ -32,17 +32,14 @@
 1 Reptilian Reflection
 2 Reptilian Reflection
 3 Reptilian Reflection
-1 Containment Priest
 1 Spikefield Hazard
 2 Spikefield Hazard
 1 Claim the Firstborn
+1 Containment Priest
 2 Claim the Firstborn
 4 Hushbringer
 2 Thundering Rebuke
 3 Thundering Rebuke
-1 Skyclave Apparition
-1 Klothys, God of Destiny
-2 Klothys, God of Destiny
 3 Tormod's Crypt
 2 Deafening Silence
 1 Blazing Volley
@@ -83,7 +80,10 @@
 2 Fire Prophecy
 3 Magmatic Channeler
 1 Legion Angel
+1 Skyclave Apparition
+1 Klothys, God of Destiny
 2 Legion Angel
+2 Klothys, God of Destiny
 3 Legion Angel
 1 Negate
 1 Ox of Agonas
@@ -100,12 +100,6 @@
 4 Suffocating Fumes
 3 Blazing Volley
 4 Blazing Volley
-1 The Akroan War
-2 Skyclave Apparition
-2 Containment Priest
-2 The Akroan War
-3 Skyclave Apparition
-4 Skyclave Apparition
 4 Underworld Rage-Hound
 1 Confounding Conundrum
 1 Shark Typhoon

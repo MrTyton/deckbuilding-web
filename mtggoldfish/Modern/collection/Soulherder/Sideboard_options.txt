@@ -28,8 +28,8 @@
 2 Wall of Blossoms
 1 Pithing Needle
 1 Worship
-1 Winds of Abandon
 1 Spore Frog
+1 Winds of Abandon
 2 Pithing Needle
 2 Veil of Summer
 1 Damping Sphere
@@ -59,9 +59,9 @@
 3 Auriok Champion
 2 Magus of the Moon
 1 Kozilek, Butcher of Truth
+1 Reflector Mage
 1 Gaea's Blessing
 1 Archon of Emeria
-1 Reflector Mage
 1 Coiling Oracle
 1 Mana Leak
 1 Isolate
@@ -69,12 +69,6 @@
 2 Coiling Oracle
 2 Collector Ouphe
 2 Knight of Autumn
-1 Phyrexian Revoker
-2 Tale's End
-2 Dovin's Veto
-1 Glen Elendra Archmage
-1 Ice-Fang Coatl
-2 Ice-Fang Coatl
 1 Sword of Fire and Ice
 1 Lightning Bolt
 1 Vendilion Clique
@@ -83,9 +77,15 @@
 1 Angel of Invention
 1 Soulherder
 2 Force of Negation
+2 Vendilion Clique
 2 Jace, the Mind Sculptor
 2 Rest in Peace
-2 Vendilion Clique
+1 Phyrexian Revoker
+2 Tale's End
+2 Dovin's Veto
+1 Glen Elendra Archmage
+1 Ice-Fang Coatl
+2 Ice-Fang Coatl
 1 Remand
 1 Brazen Borrower
 1 Spellskite
@@ -103,17 +103,17 @@
 2 Boil
 2 Relic of Progenitus
 3 Relic of Progenitus
+1 Sacred Foundry
+1 Mangara of Corondor
+2 Gaddock Teeg
+3 Magus of the Moon
+4 Magus of the Moon
+4 Auriok Champion
 1 Uro, Titan of Nature's Wrath
 2 Kor Firewalker
 2 Scavenging Ooze
 2 Vedalken Plotter
 3 Meddling Mage
 3 Vedalken Plotter
-3 Kor Firewalker
 4 Kor Firewalker
-1 Sacred Foundry
-1 Mangara of Corondor
-2 Gaddock Teeg
-3 Magus of the Moon
-4 Auriok Champion
-4 Magus of the Moon
+3 Kor Firewalker

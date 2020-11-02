@@ -1,11 +1,11 @@
-3 Gamble
-1 Grasping Dunes
-1 Bayou
-2 Field of the Dead
 1 Tranquil Thicket
+1 Bayou
 1 Valakut Exploration
 2 Valakut Exploration
 1 Nurturing Peatland
+1 Ancient Tomb
+3 Gamble
+2 Field of the Dead
 1 Abrupt Decay
 2 Abrupt Decay
 2 Bayou
@@ -22,10 +22,10 @@
 1 Valakut, the Molten Pinnacle
 1 Green Sun's Zenith
 2 Forest
-2 Once Upon a Time
 2 Primeval Titan
-2 Dryad of the Ilysian Grove
+2 Once Upon a Time
 2 Green Sun's Zenith
+2 Dryad of the Ilysian Grove
 2 Ancient Tomb
 2 Valakut, the Molten Pinnacle
 2 Cavern of Souls
@@ -38,8 +38,8 @@
 4 Ancient Tomb
 1 Tireless Tracker
 1 Titania, Protector of Argoth
-1 Scavenging Ooze
 1 Chalice of the Void
+1 Scavenging Ooze
 1 Uro, Titan of Nature's Wrath
 2 Wooded Foothills
 2 Uro, Titan of Nature's Wrath
@@ -80,8 +80,8 @@
 1 Swords to Plowshares
 2 Snow-Covered Forest
 2 Yasharn, Implacable Earth
-2 Windswept Heath
 2 Savannah
+2 Windswept Heath
 2 Swords to Plowshares
 2 Turntimber Symbiosis
 2 Knight of the Reliquary
@@ -90,8 +90,8 @@
 3 Turntimber Symbiosis
 3 Swords to Plowshares
 4 Once Upon a Time
-4 Windswept Heath
 4 Primeval Titan
+4 Windswept Heath
 1 Scattered Groves
 1 Molten Vortex
 1 Horizon Canopy

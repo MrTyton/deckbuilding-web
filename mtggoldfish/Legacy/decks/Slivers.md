@@ -50,6 +50,6 @@
 |                    2|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)           |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)      |
 |                    3|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)           |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)    |
 |                    4|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)           |                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)         |
-|                    4|[Hibernation Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207907)    |                    2|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)         |
-|                    4|[Ancient Ziggurat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189271)      |                     |                                                                                                  |
+|                    4|[Ancient Ziggurat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189271)      |                    2|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)         |
+|                    4|[Hibernation Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207907)    |                     |                                                                                                  |
 
