@@ -42,8 +42,8 @@
 1 Grasp of Darkness
 1 Rotting Regisaur
 2 Rotting Regisaur
-3 Rotting Regisaur
 3 Demonic Embrace
+3 Rotting Regisaur
 1 Blacklance Paragon
 1 Mobilized District
 2 Blacklance Paragon
@@ -87,15 +87,15 @@
 1 Hateful Eidolon
 1 Dead Weight
 1 Mire's Grasp
-2 Dead Weight
-2 Hateful Eidolon
 2 Mire's Grasp
-3 Dead Weight
-3 Hateful Eidolon
+2 Hateful Eidolon
+2 Dead Weight
 3 Mire's Grasp
+3 Hateful Eidolon
+3 Dead Weight
 4 Hateful Eidolon
-4 Dead Weight
 4 Mire's Grasp
+4 Dead Weight
 2 Crawling Barrens
 1 Bastion of Remembrance
 2 Bastion of Remembrance
@@ -118,12 +118,12 @@
 4 Grasp of Darkness
 1 Shadowspear
 2 Shadowspear
-1 Witch's Vengeance
 1 Scourge of the Skyclaves
+1 Witch's Vengeance
 2 Elspeth's Nightmare
-1 Witch's Cauldron
-1 Discordant Piper
 1 Taborax, Hope's Demise
+1 Discordant Piper
+1 Witch's Cauldron
 2 Discordant Piper
 2 Witch's Cauldron
 3 Witch's Cauldron
@@ -146,26 +146,26 @@
 4 Heartless Act
 4 Murderous Rider
 1 Jungle Hollow
+1 Deathless Knight
 1 Savvy Hunter
 1 The Great Henge
 1 Silversmote Ghoul
 1 Garruk, Cursed Huntsman
+1 Unexpected Fangs
 1 Witch's Oven
 1 Evolving Wilds
-1 Deathless Knight
 1 Forest
-1 Unexpected Fangs
 2 Jungle Hollow
+2 Deathless Knight
 2 Savvy Hunter
 2 Silversmote Ghoul
 2 Forest
 2 Witch's Oven
-2 Deathless Knight
 2 Evolving Wilds
 3 Jungle Hollow
+3 Deathless Knight
 3 Savvy Hunter
 3 Silversmote Ghoul
-3 Deathless Knight
 3 Forest
 4 Jungle Hollow
 4 Savvy Hunter
@@ -204,11 +204,11 @@
 4 Gray Merchant of Asphodel
 4 Underworld Dreams
 24 Swamp
-1 Aphemia, the Cacophony
 1 Mogis's Favor
 1 Tymaret Calls the Dead
-2 Aphemia, the Cacophony
+1 Aphemia, the Cacophony
 2 Mogis's Favor
+2 Aphemia, the Cacophony
 2 Tymaret Calls the Dead
 3 Aphemia, the Cacophony
 3 Tymaret Calls the Dead

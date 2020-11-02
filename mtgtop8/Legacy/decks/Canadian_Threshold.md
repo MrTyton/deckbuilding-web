@@ -70,7 +70,7 @@
 |                    1|[Nimble Mongoose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413721)             |                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)    |
 |                    2|[Nimble Mongoose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413721)             |                     |                                                                                              |
 |                    3|[Nimble Mongoose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413721)             |                     |                                                                                              |
-|                    4|[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382377)                      |                     |                                                                                              |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)            |                     |                                                                                              |
+|                    4|[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382377)                      |                     |                                                                                              |
 |                    4|[Nimble Mongoose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413721)             |                     |                                                                                              |
 

@@ -4,8 +4,9 @@
 5 Island
 6 Island
 7 Island
-1 Blast Zone
 6 Snow-Covered Island
+1 Blast Zone
+7 Snow-Covered Island
 1 Defense Grid
 2 Defense Grid
 1 Inventors' Fair
@@ -20,9 +21,9 @@
 2 Mystic Forge
 2 Voltaic Key
 2 Grim Monolith
-3 City of Traitors
 3 Defense Grid
 3 Mystic Forge
+3 City of Traitors
 3 Grim Monolith
 4 City of Traitors
 4 Defense Grid
@@ -30,8 +31,8 @@
 4 Grim Monolith
 1 Prismatic Vista
 1 Mesmeric Orb
-2 Prismatic Vista
 2 Mesmeric Orb
+2 Prismatic Vista
 3 Prismatic Vista
 3 Basalt Monolith
 3 Voltaic Key
@@ -39,7 +40,6 @@
 3 Manifold Key
 4 Voltaic Key
 1 Saheeli, Sublime Artificer
-7 Snow-Covered Island
 2 Saheeli, Sublime Artificer
 3 Mishra's Bauble
 1 Crystal Vein

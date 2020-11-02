@@ -1,12 +1,8 @@
 3 Mana Leak
 4 Scalding Tarn
-1 Stomping Ground
-1 Snow-Covered Plains
-1 Mountain
-2 Breeding Pool
-1 Zagoth Triome
-1 Watery Grave
 1 Polluted Delta
+1 Watery Grave
+1 Zagoth Triome
 1 Abrupt Decay
 1 Fatal Push
 2 Polluted Delta
@@ -15,24 +11,31 @@
 3 Fatal Push
 4 Fatal Push
 4 Polluted Delta
-1 Lonely Sandbar
+1 Snow-Covered Plains
+2 Breeding Pool
 1 Swamp
 1 Remand
-1 Supreme Verdict
-2 Island
-2 Jace, the Mind Sculptor
-1 Spell Snare
+1 Mountain
+1 Stomping Ground
+1 Lonely Sandbar
 2 Remand
+1 Cling to Dust
+1 Fact or Fiction
+1 Bloodchief's Thirst
+2 Island
+1 Spell Snare
+2 Jace, the Mind Sculptor
+1 Supreme Verdict
 1 Snow-Covered Mountain
 1 Engineered Explosives
-1 Cling to Dust
-1 Bloodchief's Thirst
-1 Fact or Fiction
+1 Overgrown Tomb
+2 Fact or Fiction
+1 Assassin's Trophy
 3 Omnath, Locus of Creation
-1 Nexus of Fate
-3 Mystic Sanctuary
 1 Archmage's Charm
 2 Snow-Covered Island
+1 Nexus of Fate
+3 Mystic Sanctuary
 1 Time Warp
 2 Time Warp
 2 Raugrin Triome
@@ -41,22 +44,18 @@
 4 Omnath, Locus of Creation
 4 Time Warp
 4 Mystic Sanctuary
-1 Overgrown Tomb
-2 Fact or Fiction
-1 Assassin's Trophy
 1 Drown in the Loch
 2 Archmage's Charm
 3 Archmage's Charm
+3 Fact or Fiction
 4 Wrenn and Six
 1 Life from the Loam
 2 Hour of Promise
 1 River of Tears
 1 Sunken Hollow
 3 Jace, the Mind Sculptor
-1 Firespout
 1 Waterlogged Grove
 3 Lightning Bolt
-3 Fact or Fiction
 3 Teferi, Time Raveler
 1 Snapcaster Mage
 1 Flooded Grove
@@ -67,6 +66,7 @@
 1 Blooming Marsh
 2 Watery Grave
 1 Sea Gate Restoration
+1 Firespout
 1 Go for the Throat
 1 Dismember
 2 Snapcaster Mage
@@ -85,8 +85,8 @@
 1 Wilderness Reclamation
 2 Ice-Fang Coatl
 2 Wilderness Reclamation
-3 Remand
 3 Snow-Covered Island
+3 Remand
 4 Snow-Covered Island
 4 Remand
 4 Cryptic Command

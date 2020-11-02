@@ -31,19 +31,19 @@
 4 Eldrazi Temple
 1 Ghost Quarter
 1 Leonin Arbiter
-1 Thalia, Guardian of Thraben
 1 Eldrazi Displacer
-2 Ghost Quarter
+1 Thalia, Guardian of Thraben
 2 Leonin Arbiter
 2 Thalia, Guardian of Thraben
+2 Ghost Quarter
 2 Eldrazi Displacer
-3 Leonin Arbiter
 3 Ghost Quarter
-3 Thalia, Guardian of Thraben
 3 Giver of Runes
 3 Eldrazi Displacer
-4 Ghost Quarter
+3 Thalia, Guardian of Thraben
+3 Leonin Arbiter
 4 Leonin Arbiter
+4 Ghost Quarter
 4 Caves of Koilos
 4 Thought-Knot Seer
 1 Tectonic Edge
@@ -98,24 +98,24 @@
 4 Street Wraith
 4 Ranger-Captain of Eos
 4 Death's Shadow
-1 Wall of Omens
-1 Ephemerate
-1 Treacherous Blessing
 1 Maul of the Skyclaves
+1 Ephemerate
+1 Wall of Omens
+1 Treacherous Blessing
 1 Mind Raker
 1 Brightclimb Pathway
 1 Cavern of Souls
 1 Sun Titan
-2 Wall of Omens
 2 Ephemerate
+2 Wall of Omens
 2 Mind Raker
 2 Treacherous Blessing
 3 Treacherous Blessing
-3 Ephemerate
 3 Wall of Omens
 3 Charming Prince
-4 Treacherous Blessing
+3 Ephemerate
 4 Charming Prince
+4 Treacherous Blessing
 6 Snow-Covered Plains
 1 Ashiok, Dream Render
 2 Ashiok, Dream Render
@@ -134,15 +134,13 @@
 2 Bloodstained Mire
 3 Arid Mesa
 3 Bloodstained Mire
-1 Aven Mindcensor
-4 Flickerwisp
 4 Swamp
 1 Castle Ardenvale
 1 Lurrus of the Dream-Den
 1 Mishra's Bauble
 1 Nihil Spellbomb
-2 Lurrus of the Dream-Den
 2 Mishra's Bauble
+2 Lurrus of the Dream-Den
 2 Nihil Spellbomb
 3 Mishra's Bauble
 4 Mishra's Bauble
@@ -154,5 +152,7 @@
 2 Bitterblossom
 3 Bitterblossom
 4 Shambling Vent
-4 Eldrazi Displacer
 4 Giver of Runes
+4 Eldrazi Displacer
+1 Aven Mindcensor
+4 Flickerwisp
