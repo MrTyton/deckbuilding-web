@@ -26,12 +26,12 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------|
-|                    1|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)  |                    4|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)   |
-|                    1|[Blistercoil Weird](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=289222)|                    4|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)|
-|                    2|[Burst Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397662)  |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)      |
+|                    1|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)  |                    4|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)|
+|                    1|[Blistercoil Weird](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=289222)|                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)      |
+|                    2|[Burst Lightning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397662)  |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)      |
 |                    2|[Blistercoil Weird](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=289222)|                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)      |
 |                    3|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)      |                    4|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)      |
-|                    3|[Blistercoil Weird](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=289222)|                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)      |
+|                    3|[Blistercoil Weird](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=289222)|                    4|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)   |
 |                    4|Spikefield Hazard                                                                           |                     |                                                                                       |
 |                    4|[Blistercoil Weird](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=289222)|                     |                                                                                       |
 

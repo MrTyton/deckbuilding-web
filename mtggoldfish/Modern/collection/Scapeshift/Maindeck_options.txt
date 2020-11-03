@@ -2,21 +2,23 @@
 1 Snow-Covered Forest
 2 Snow-Covered Island
 4 Opt
+2 Force of Negation
 4 Stomping Ground
 1 Snow-Covered Mountain
 3 Snow-Covered Island
-2 Force of Negation
 1 Wilt
-1 Censor
-2 Snow-Covered Forest
 3 Island
+1 Censor
+1 Mountain
+2 Snow-Covered Forest
 2 Wilt
 2 Censor
-1 Mountain
 1 Search for Tomorrow
 2 Search for Tomorrow
 3 Search for Tomorrow
 4 Search for Tomorrow
+1 Shark Typhoon
+2 Shark Typhoon
 3 Wrenn and Six
 1 Sweltering Suns
 1 Flame Slash
@@ -24,73 +26,72 @@
 2 Sakura-Tribe Elder
 3 Sakura-Tribe Elder
 4 Sakura-Tribe Elder
-1 Shark Typhoon
-2 Shark Typhoon
+1 Snapcaster Mage
 1 Wooded Foothills
 2 Wooded Foothills
 1 Bring to Light
 2 Bring to Light
 3 Bring to Light
 4 Bring to Light
-1 Watery Grave
 1 Polluted Delta
+1 Watery Grave
 1 Fatal Push
 2 Fatal Push
+3 Shark Typhoon
 3 Wooded Foothills
 1 Temple Garden
 1 Sacred Foundry
-1 Flagstones of Trokair
 1 Sejiri Shelter
-1 Arid Mesa
-1 Mishra's Bauble
 1 Akoum Hellhound
 1 Brushfire Elemental
 1 Atarka's Command
-1 Elvish Reclaimer
+1 Flagstones of Trokair
 1 Windswept Heath
+1 Mishra's Bauble
+1 Arid Mesa
 1 Soaring Seacliff
 1 Sunbaked Canyon
 1 Steppe Lynx
+1 Elvish Reclaimer
 1 Sejiri Steppe
-2 Flagstones of Trokair
-2 Arid Mesa
-2 Mishra's Bauble
 2 Brushfire Elemental
-2 Elvish Reclaimer
 2 Akoum Hellhound
+2 Mishra's Bauble
+2 Flagstones of Trokair
 2 Sacred Foundry
 2 Windswept Heath
+2 Elvish Reclaimer
 2 Atarka's Command
 2 Steppe Lynx
+2 Arid Mesa
 3 Brushfire Elemental
-3 Mishra's Bauble
-3 Elvish Reclaimer
 3 Akoum Hellhound
 3 Atarka's Command
 3 Sacred Foundry
+3 Mishra's Bauble
 3 Steppe Lynx
+3 Elvish Reclaimer
 3 Flagstones of Trokair
 3 Windswept Heath
-4 Windswept Heath
 4 Wooded Foothills
 4 Brushfire Elemental
-4 Elvish Reclaimer
-4 Mishra's Bauble
 4 Akoum Hellhound
 4 Flagstones of Trokair
+4 Elvish Reclaimer
+4 Mishra's Bauble
+4 Windswept Heath
 4 Atarka's Command
 4 Steppe Lynx
 3 Censor
 1 Prismatic Vista
 2 Prismatic Vista
-1 Snapcaster Mage
 3 Fatal Push
 1 Flooded Strand
-1 Teferi, Time Raveler
 1 Hallowed Fountain
 1 Path to Exile
-2 Teferi, Time Raveler
+1 Teferi, Time Raveler
 2 Path to Exile
+2 Teferi, Time Raveler
 3 Path to Exile
 1 Assassin's Trophy
 1 Overgrown Tomb
@@ -114,8 +115,8 @@
 2 Archive Trap
 2 Hedron Crab
 2 Glimpse the Unthinkable
-3 Field of Ruin
 3 Polluted Delta
+3 Field of Ruin
 3 Assassin's Trophy
 3 Hedron Crab
 3 Glimpse the Unthinkable
@@ -154,15 +155,15 @@
 1 Mwonvuli Acid-Moss
 1 Supreme Verdict
 2 Abrupt Decay
+1 Courser of Kruphix
 1 Sheltered Thicket
+1 Platinum Emperion
 1 Terminate
 1 Madcap Experiment
-1 Platinum Emperion
 1 Obstinate Baloth
 1 Thoughtseize
 1 Sultai Charm
 1 Anger of the Gods
-1 Courser of Kruphix
 1 Cinder Glade
 2 Snow-Covered Mountain
 2 Obstinate Baloth
@@ -175,38 +176,37 @@
 1 Shelldock Isle
 2 Surgical Extraction
 3 Surgical Extraction
-3 Shark Typhoon
 1 Botanical Sanctum
 1 Jace, the Mind Sculptor
 2 Botanical Sanctum
 3 Botanical Sanctum
 3 Prismatic Vista
 4 Botanical Sanctum
-1 Jwari Disruption
-1 Peer Through Depths
-1 Explore
-1 Farseek
-2 Jwari Disruption
-2 Peer Through Depths
-2 Explore
-2 Farseek
-3 Jwari Disruption
-4 Jwari Disruption
-4 Censor
+1 Verdant Catacombs
+1 Maddening Cacophony
+2 Verdant Catacombs
+2 Swamp
+2 Maddening Cacophony
+3 Verdant Catacombs
+4 Verdant Catacombs
 1 Brazen Borrower
 2 Brazen Borrower
 2 Flame Slash
 4 Wrenn and Six
+4 Censor
+1 Explore
+1 Jwari Disruption
+1 Peer Through Depths
+1 Farseek
+2 Jwari Disruption
+2 Explore
+2 Peer Through Depths
+2 Farseek
+3 Jwari Disruption
+4 Jwari Disruption
 1 Omnath, Locus of Creation
 1 Raugrin Triome
 2 Raugrin Triome
 2 Omnath, Locus of Creation
 3 Raugrin Triome
 4 Path to Exile
-1 Verdant Catacombs
-1 Maddening Cacophony
-2 Verdant Catacombs
-2 Maddening Cacophony
-2 Swamp
-3 Verdant Catacombs
-4 Verdant Catacombs

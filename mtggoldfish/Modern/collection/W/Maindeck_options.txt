@@ -1,4 +1,3 @@
-2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
@@ -14,35 +13,33 @@
 2 Giver of Runes
 3 Giver of Runes
 4 Giver of Runes
+1 Heliod, Sun-Crowned
 1 Ranger-Captain of Eos
 1 Walking Ballista
-1 Heliod, Sun-Crowned
 2 Heliod, Sun-Crowned
 2 Walking Ballista
 3 Auriok Champion
+1 Skyclave Apparition
 1 Luminarch Aspirant
 1 Field of Ruin
-1 Skyclave Apparition
 2 Skyclave Apparition
-2 Ranger-Captain of Eos
 2 Luminarch Aspirant
+2 Ranger-Captain of Eos
 2 Field of Ruin
 3 Field of Ruin
-3 Ranger-Captain of Eos
 3 Skyclave Apparition
 3 Luminarch Aspirant
+3 Ranger-Captain of Eos
 4 Ranger-Captain of Eos
 4 Skyclave Apparition
 4 Auriok Champion
 4 Luminarch Aspirant
-11 Snow-Covered Plains
-12 Snow-Covered Plains
 2 Cavern of Souls
-3 Walking Ballista
 3 Heliod, Sun-Crowned
 3 Cavern of Souls
-4 Walking Ballista
+3 Walking Ballista
 4 Heliod, Sun-Crowned
+4 Walking Ballista
 1 Aether Vial
 1 Ranger of Eos
 2 Aether Vial
@@ -50,11 +47,14 @@
 3 Aether Vial
 4 Cavern of Souls
 4 Aether Vial
+3 Path to Exile
+11 Snow-Covered Plains
+12 Snow-Covered Plains
 1 Horizon Canopy
 1 Hangarback Walker
-2 Paradise Mantle
 1 Grand Abolisher
 2 Grand Abolisher
+2 Paradise Mantle
 2 Horizon Canopy
 1 Sunbaked Canyon
 1 Welding Jar
@@ -76,6 +76,8 @@
 1 Sacred Cat
 2 Sacred Cat
 4 Paradise Mantle
+11 Plains
+12 Plains
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 14 Snow-Covered Plains
@@ -85,25 +87,23 @@
 2 Welding Jar
 3 Horizon Canopy
 1 Spellskite
-1 Seachrome Coast
 1 Conjurer's Bauble
-2 Seachrome Coast
+1 Seachrome Coast
 2 Spellskite
 2 Conjurer's Bauble
+2 Seachrome Coast
 3 Seachrome Coast
 4 Seachrome Coast
-1 Nykthos, Shrine to Nyx
 1 Maul of the Skyclaves
 1 Giant Killer
+1 Nykthos, Shrine to Nyx
 1 Judge's Familiar
 2 Maul of the Skyclaves
+2 Giant Killer
 2 Nykthos, Shrine to Nyx
 2 Judge's Familiar
-2 Giant Killer
 3 Judge's Familiar
 4 Judge's Familiar
-11 Plains
-12 Plains
 1 Speaker of the Heavens
 1 Lurrus of the Dream-Den
 1 Serra Ascendant
@@ -119,8 +119,8 @@
 2 Soul's Attendant
 2 Soul Warden
 2 Ajani's Pridemate
-3 Lurrus of the Dream-Den
 3 Speaker of the Heavens
+3 Lurrus of the Dream-Den
 3 Ajani's Pridemate
 3 Martyr of Sands
 3 Serra Ascendant

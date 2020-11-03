@@ -24,8 +24,8 @@
 3 Ugin, the Ineffable
 3 Ghost Quarter
 3 Chromatic Star
-4 Ugin, the Ineffable
 4 Chromatic Star
+4 Ugin, the Ineffable
 1 Hallowed Fountain
 1 Mystic Gate
 1 Adarkar Wastes
@@ -41,7 +41,6 @@
 1 Opt
 1 Elder Deep-Fiend
 1 Snow-Covered Island
-2 Serum Visions
 2 Adarkar Wastes
 2 Stoneforge Mystic
 2 Eldrazi Mimic
@@ -52,22 +51,23 @@
 2 Elder Deep-Fiend
 2 Flooded Strand
 2 Opt
-3 Geist of Saint Traft
-3 Serum Visions
+2 Serum Visions
 3 Hallowed Fountain
 3 Adarkar Wastes
 3 Stoneforge Mystic
 3 Eldrazi Mimic
 3 Mystic Gate
 3 Seachrome Coast
+3 Geist of Saint Traft
 3 Flooded Strand
 3 Opt
 3 Elder Deep-Fiend
+3 Serum Visions
 4 Flooded Strand
 4 Seachrome Coast
-4 Serum Visions
 4 Stoneforge Mystic
 4 Eldrazi Mimic
+4 Serum Visions
 4 Adarkar Wastes
 4 Mystic Gate
 4 Opt
@@ -79,20 +79,20 @@
 1 Urborg, Tomb of Yawgmoth
 1 Once Upon a Time
 1 Punishing Fire
-1 Oblivion Sower
 1 Umezawa's Jitte
 1 Grove of the Burnwillows
 1 Eye of Ugin
+1 Oblivion Sower
 1 Karplusan Forest
 1 Eldrazi Obligator
 1 Endless One
+2 Grove of the Burnwillows
 2 Once Upon a Time
 2 Punishing Fire
 2 Mind Stone
 2 World Breaker
 2 Eldrazi Obligator
 2 Spellskite
-2 Grove of the Burnwillows
 2 Karplusan Forest
 2 Oblivion Sower
 2 Eye of Ugin
@@ -114,16 +114,16 @@
 1 Windswept Heath
 1 Yavimaya Coast
 1 Engineered Explosives
+1 Bonders' Enclave
 1 Knight of Autumn
 1 Birds of Paradise
 1 Eldrazi Displacer
-1 Stubborn Denial
 1 Brushland
+1 Stubborn Denial
 1 Temple Garden
 1 Noble Hierarch
 1 Breeding Pool
 1 Ancient Stirrings
-1 Bonders' Enclave
 1 Drowner of Hope
 1 Plains
 1 Path to Exile
@@ -133,12 +133,12 @@
 2 Windswept Heath
 2 Eldrazi Displacer
 2 Brushland
-2 Stubborn Denial
 2 Path to Exile
 2 Noble Hierarch
 2 Eldrazi Skyspawner
 2 Ancient Stirrings
 2 Drowner of Hope
+2 Stubborn Denial
 3 Brushland
 3 Windswept Heath
 3 Eldrazi Displacer

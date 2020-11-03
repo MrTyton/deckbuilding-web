@@ -52,8 +52,8 @@
 3 Secure the Wastes
 3 Westvale Abbey
 3 Divine Visitation
-4 Sunpetal Grove
 4 Dromoka's Command
+4 Sunpetal Grove
 4 Paradise Druid
 4 Secure the Wastes
 6 Forest
@@ -200,8 +200,8 @@
 3 Drowned Catacomb
 3 Nighthawk Scavenger
 3 Mystical Dispute
-4 Nighthawk Scavenger
 4 Drowned Catacomb
+4 Nighthawk Scavenger
 4 Mystical Dispute
 1 Glasspool Mimic
 1 Skyclave Cleric
@@ -396,10 +396,10 @@
 4 Narcomoeba
 1 Rhonas the Indomitable
 1 Game Trail
-1 Gruul Spellbreaker
 1 Wildborn Preserver
-1 Yorvo, Lord of Garenbrig
 1 Cinder Glade
+1 Gruul Spellbreaker
+1 Yorvo, Lord of Garenbrig
 1 Legion Loyalist
 1 Pelt Collector
 1 Klothys, God of Destiny
@@ -407,16 +407,16 @@
 1 Burning-Tree Emissary
 1 Reckless Bushwhacker
 2 Rootbound Crag
+2 Cinder Glade
 2 Game Trail
 2 Gruul Spellbreaker
-2 Cinder Glade
 2 Klothys, God of Destiny
 2 Atarka's Command
 2 Burning-Tree Emissary
 2 Reckless Bushwhacker
 3 Rootbound Crag
-3 Reckless Bushwhacker
 3 Game Trail
+3 Reckless Bushwhacker
 3 Gruul Spellbreaker
 3 Scavenging Ooze
 3 Atarka's Command
@@ -464,37 +464,37 @@
 5 Island
 6 Island
 7 Island
-1 Lazotep Reaver
 1 Foulmire Knight
-1 Cryptbreaker
+1 Diregraf Colossus
 1 Dark Salvation
 1 Corpse Knight
+1 Cryptbreaker
 1 Liliana, Untouched by Death
 1 Isolated Chapel
 1 Rally the Ancestors
-1 Diregraf Colossus
 1 Necrotic Wound
 1 Wayward Servant
+1 Lazotep Reaver
 1 Slitherhead
 2 Isolated Chapel
-2 Lazotep Reaver
 2 Foulmire Knight
-2 Cryptbreaker
+2 Diregraf Colossus
+2 Lazotep Reaver
 2 Wayward Servant
 2 Dark Salvation
-2 Diregraf Colossus
 2 Slitherhead
 2 Corpse Knight
 2 Liliana, Untouched by Death
 2 Castle Locthwain
+2 Cryptbreaker
 2 Rally the Ancestors
 3 Isolated Chapel
-3 Lazotep Reaver
 3 Corpse Knight
 3 Cryptbreaker
 3 Liliana, Untouched by Death
 3 Castle Locthwain
 3 Rally the Ancestors
+3 Lazotep Reaver
 3 Wayward Servant
 3 Slitherhead
 3 Dark Salvation

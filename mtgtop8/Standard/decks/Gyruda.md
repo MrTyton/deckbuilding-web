@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Gyruda/Gyruda.txt)
 #### [Export Arena List](../collection/Gyruda/Gyruda_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Breeding%20Pool%0A4%09Charming%20Prince%0A4%09Cultivate%0A4%09Fiend%20Artisan%0A2%09Forest%0A4%09Gilded%20Goose%0A4%09Gyruda,%20Doom%20of%20Depths%0A4%09Hallowed%20Fountain%0A2%09Island%0A4%09Migration%20Path%0A2%09Mountain%0A2%09Paradise%20Druid%0A1%09Plains%0A4%09Spark%20Double%0A4%09Stomping%20Ground%0A4%09Temple%20Garden%0A4%09Terror%20of%20the%20Peaks%0A3%09Thassa,%20Deep-Dwelling&deckside=4%09Giant%20Killer%0A4%09Heartless%20Act%0A3%09Kiora%20Bests%20the%20Sea%20God%0A4%09Shatter%20the%20Sky)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Breeding%20Pool%0A4%09Charming%20Prince%0A4%09Cultivate%0A4%09Fiend%20Artisan%0A2%09Forest%0A4%09Gilded%20Goose%0A4%09Gyruda,%20Doom%20of%20Depths%0A4%09Hallowed%20Fountain%0A2%09Island%0A4%09Migration%20Path%0A2%09Mountain%0A2%09Paradise%20Druid%0A1%09Plains%0A4%09Spark%20Double%0A4%09Stomping%20Ground%0A4%09Temple%20Garden%0A3%09Terror%20of%20the%20Peaks%0A4%09Thassa,%20Deep-Dwelling&deckside=4%09Giant%20Killer%0A4%09Heartless%20Act%0A3%09Kiora%20Bests%20the%20Sea%20God%0A4%09Shatter%20the%20Sky)
 # Maindeck
 
 |                                           Creature (29)                                           |                                          Land (23)                                          |                                        Sorcery (8)                                        |
@@ -13,8 +13,8 @@
 |4 [Gyruda, Doom of Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479741)|2 [Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)          |                                                                                           |
 |2 [Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)        |2 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)        |                                                                                           |
 |4 [Spark Double](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460995)          |1 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)          |                                                                                           |
-|4 [Terror of the Peaks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485487)   |4 [Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110) |                                                                                           |
-|3 [Thassa, Deep-Dwelling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476322) |4 [Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)   |                                                                                           |
+|3 [Terror of the Peaks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485487)   |4 [Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110) |                                                                                           |
+|4 [Thassa, Deep-Dwelling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476322) |4 [Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)   |                                                                                           |
 
 
 # Sideboard
@@ -26,7 +26,7 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    4|[Thassa, Deep-Dwelling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476322)|                     |              |
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|----------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    4|[Terror of the Peaks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485487)|                     |              |
 

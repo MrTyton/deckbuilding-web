@@ -47,12 +47,6 @@
 1 Wasteland Strangler
 2 Kaya's Guile
 1 Engineered Explosives
-1 Leonin Relic-Warder
-1 Tormod's Crypt
-1 Thoughtseize
-1 Sword of Feast and Famine
-2 Leonin Relic-Warder
-2 Kambal, Consul of Allocation
 1 Deafening Silence
 2 Deafening Silence
 1 Extirpate
@@ -63,14 +57,15 @@
 2 Archon of Emeria
 1 Mirran Crusader
 2 Mirran Crusader
+1 Leonin Relic-Warder
+1 Tormod's Crypt
+1 Thoughtseize
+1 Sword of Feast and Famine
+2 Leonin Relic-Warder
+2 Kambal, Consul of Allocation
 3 Kor Firewalker
-1 Sundering Growth
-1 Relic of Progenitus
-1 Zealous Persecution
-2 Sundering Growth
-2 Zealous Persecution
-2 Relic of Progenitus
-3 Duress
+2 Nihil Spellbomb
+3 Nihil Spellbomb
 1 Yorion, Sky Nomad
 3 Ashiok, Dream Render
 4 Auriok Champion
@@ -78,5 +73,10 @@
 1 Oust
 2 Oust
 4 Rest in Peace
-2 Nihil Spellbomb
-3 Nihil Spellbomb
+1 Sundering Growth
+1 Relic of Progenitus
+1 Zealous Persecution
+2 Sundering Growth
+2 Zealous Persecution
+3 Duress
+2 Relic of Progenitus

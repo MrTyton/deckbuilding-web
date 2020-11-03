@@ -57,9 +57,9 @@
 2 Watery Grave
 1 Remand
 1 River of Tears
-1 Murderous Cut
 1 Fatal Push
 1 Inquisition of Kozilek
+1 Murderous Cut
 1 Inverter of Truth
 2 Remand
 2 Fatal Push
@@ -119,8 +119,8 @@
 2 Thespian's Stage
 2 Snow-Covered Island
 3 Preordain
-3 Urborg, Tomb of Yawgmoth
 3 Dark Confidant
+3 Urborg, Tomb of Yawgmoth
 3 Chrome Mox
 3 Force of Negation
 3 Vampire Hexmage
@@ -181,43 +181,43 @@
 4 Thassa's Oracle
 4 Emeria's Call
 1 Silundi Vision
-1 Beyeen Veil
 1 Jwari Disruption
-1 Talisman of Progress
 1 Disrupting Shoal
-1 Skyclave Cleric
+1 Talisman of Progress
 1 Teferi, Hero of Dominaria
 1 Teferi, Time Raveler
+1 Skyclave Cleric
+1 Beyeen Veil
 1 Pieces of the Puzzle
 1 Jace, the Mind Sculptor
 1 Path to Exile
 1 Selective Memory
 1 Snapback
-2 Silundi Vision
-2 Beyeen Veil
-2 Jwari Disruption
 2 Talisman of Progress
 2 Disrupting Shoal
-2 Skyclave Cleric
 2 Selective Memory
 2 Path to Exile
+2 Silundi Vision
 2 Teferi, Time Raveler
 2 Snapback
+2 Jwari Disruption
+2 Skyclave Cleric
+2 Beyeen Veil
 2 Pieces of the Puzzle
-3 Silundi Vision
 3 Talisman of Progress
-3 Jwari Disruption
 3 Disrupting Shoal
+3 Jwari Disruption
 3 Teferi, Time Raveler
 3 Snapback
 3 Path to Exile
 3 Selective Memory
+3 Silundi Vision
 4 Teferi, Time Raveler
-4 Silundi Vision
-4 Jwari Disruption
 4 Disrupting Shoal
+4 Jwari Disruption
 4 Talisman of Progress
 4 Selective Memory
+4 Silundi Vision
 1 Waterlogged Grove
 1 Karn, the Great Creator
 1 Wooded Foothills
@@ -304,8 +304,8 @@
 1 Sphere of the Suns
 2 Wild Cantor
 2 Sphere of the Suns
-3 Sphere of the Suns
 3 Wild Cantor
+3 Sphere of the Suns
 4 Wild Cantor
 4 Sword of the Meek
 1 Lotus Field

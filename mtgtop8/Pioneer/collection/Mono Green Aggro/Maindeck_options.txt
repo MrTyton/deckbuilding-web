@@ -50,6 +50,23 @@
 1 Heart of Kiran
 1 Questing Beast
 2 Heart of Kiran
+1 Lovestruck Beast
+1 Syr Faren, the Hengehammer
+1 Yorvo, Lord of Garenbrig
+1 Collected Company
+2 Lovestruck Beast
+2 Syr Faren, the Hengehammer
+2 Yorvo, Lord of Garenbrig
+2 Collected Company
+3 Aspect of Hydra
+3 Lovestruck Beast
+3 Hashep Oasis
+3 Collected Company
+4 Lovestruck Beast
+4 Aspect of Hydra
+4 Hashep Oasis
+4 Steel Leaf Champion
+4 Collected Company
 1 Commune with Dinosaurs
 2 The Great Henge
 2 Commune with Dinosaurs
@@ -58,50 +75,33 @@
 3 Shifting Ceratops
 3 Ghalta, Primal Hunger
 4 Ghalta, Primal Hunger
-1 Lovestruck Beast
-1 Yorvo, Lord of Garenbrig
-1 Syr Faren, the Hengehammer
-1 Collected Company
-2 Yorvo, Lord of Garenbrig
-2 Lovestruck Beast
-2 Syr Faren, the Hengehammer
-2 Collected Company
-3 Lovestruck Beast
-3 Aspect of Hydra
-3 Hashep Oasis
-3 Collected Company
-4 Lovestruck Beast
-4 Hashep Oasis
-4 Steel Leaf Champion
-4 Collected Company
-4 Aspect of Hydra
 1 Paradise Druid
 1 Finale of Devastation
 1 Feasting Troll King
-1 Primal Might
 1 End-Raze Forerunners
+1 Primal Might
 1 Gemrazer
 1 Barkhide Troll
 1 God-Eternal Rhonas
 2 Paradise Druid
-2 Feasting Troll King
 2 Finale of Devastation
 2 Primal Might
 2 Gemrazer
+2 Feasting Troll King
 2 Barkhide Troll
-3 Feasting Troll King
 3 Paradise Druid
 3 Gemrazer
 3 Gilded Goose
+3 Feasting Troll King
 3 Castle Garenbrig
 3 Barkhide Troll
-4 Castle Garenbrig
 4 Paradise Druid
 4 Gilded Goose
+4 Castle Garenbrig
 18 Forest
 1 Branchloft Pathway
-1 Swarm Shambler
 1 Conclave Mentor
+1 Swarm Shambler
 1 Dromoka's Command
 1 Hardened Scales
 1 Pelt Collector
@@ -115,8 +115,8 @@
 1 Endless One
 2 Branchloft Pathway
 2 Mana Confluence
-2 Swarm Shambler
 2 Conclave Mentor
+2 Swarm Shambler
 2 Dromoka's Command
 2 Stonecoil Serpent
 2 Hardened Scales
@@ -140,6 +140,7 @@
 3 Pelt Collector
 4 Mana Confluence
 4 Branchloft Pathway
+4 Temple Garden
 4 Luminarch Aspirant
 4 Conclave Mentor
 4 Avatar of the Resolute
@@ -148,4 +149,3 @@
 4 Stonecoil Serpent
 4 Experiment One
 4 Dromoka's Command
-4 Temple Garden

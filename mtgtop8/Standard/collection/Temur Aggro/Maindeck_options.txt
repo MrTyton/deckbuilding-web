@@ -38,16 +38,16 @@
 2 Mystical Dispute
 1 Into the Roil
 2 Into the Roil
-1 Garruk, Unleashed
 1 Garruk's Harbinger
+1 Garruk, Unleashed
 1 Riverglide Pathway
 2 Radha, Heart of Keld
 3 Mystical Dispute
-1 Arboreal Grazer
 1 Cultivate
-2 Cultivate
-2 Temple of Abandon
+1 Arboreal Grazer
 2 Elder Gargaroth
+2 Temple of Abandon
+2 Cultivate
 2 Arboreal Grazer
 3 Arboreal Grazer
 3 Temple of Mystery
@@ -74,9 +74,9 @@
 3 Cloudkin Seer
 3 Scorch Spitter
 3 Healer of the Glade
-4 Mountain
 4 Healer of the Glade
 4 Cloudkin Seer
+4 Mountain
 4 Scorch Spitter
 1 Kazandu Mammoth
 1 Scorching Dragonfire
@@ -94,12 +94,12 @@
 1 The Royal Scions
 5 Forest
 6 Forest
-1 Ilysian Caryatid
-1 Gilded Goose
 1 Crawling Barrens
 1 Lotus Cobra
 1 Sea-Dasher Octopus
 1 Zagoth Triome
+1 Gilded Goose
+1 Ilysian Caryatid
 1 Brokkos, Apex of Forever
 1 Tuktuk Rubblefort
 1 Gemrazer
@@ -111,11 +111,11 @@
 1 Migratory Greathorn
 1 Auspicious Starrix
 2 Lotus Cobra
-2 Ilysian Caryatid
-2 Sea-Dasher Octopus
 2 Gilded Goose
-2 Vivien, Monsters' Advocate
+2 Sea-Dasher Octopus
 2 Terror of the Peaks
+2 Ilysian Caryatid
+2 Vivien, Monsters' Advocate
 2 Migratory Greathorn
 2 Gemrazer
 2 Auspicious Starrix
@@ -138,9 +138,9 @@
 1 Sinister Sabotage
 1 Quench
 1 Paradise Druid
+2 Whirlwind Denial
 2 Castle Vantress
 2 Aether Gust
-2 Whirlwind Denial
 2 Paradise Druid
 2 Sinister Sabotage
 2 Nissa, Who Shakes the World
@@ -150,52 +150,52 @@
 4 Quench
 3 Tangled Florahedron
 4 Spikefield Hazard
-1 Swiftwater Cliffs
-1 Teferi, Master of Time
 1 Thornwood Falls
-1 Roost of Drakes
-1 Jace, Mirror Mage
-1 Bubble Snare
-1 Cinderclasm
+1 Teferi, Master of Time
+1 Swiftwater Cliffs
 1 Roil Eruption
-1 Negate
-1 Cragplate Baloth
-1 Gnarlid Colony
+1 Jace, Mirror Mage
+1 Roost of Drakes
+1 Murasa Sproutling
 1 Vine Gecko
 1 Reclaim the Wastes
+1 Bubble Snare
+1 Cinderclasm
+1 Negate
+1 Cragplate Baloth
 1 Lullmage's Familiar
-1 Murasa Sproutling
-2 Swiftwater Cliffs
+1 Gnarlid Colony
 2 Thornwood Falls
-2 Roost of Drakes
-2 Bubble Snare
+2 Swiftwater Cliffs
 2 Roil Eruption
-2 Gnarlid Colony
 2 Vine Gecko
+2 Roost of Drakes
 2 Murasa Sproutling
+2 Bubble Snare
 2 Lullmage's Familiar
+2 Gnarlid Colony
 2 Negate
-3 Swiftwater Cliffs
 3 Thornwood Falls
-3 Roost of Drakes
-3 Negate
-3 Into the Roil
-3 Bubble Snare
-3 Vine Gecko
-3 Lullmage's Familiar
+3 Swiftwater Cliffs
 3 Roil Eruption
+3 Roost of Drakes
+3 Vine Gecko
+3 Negate
+3 Bubble Snare
+3 Into the Roil
+3 Lullmage's Familiar
+4 Thornwood Falls
 4 Swiftwater Cliffs
+4 Roil Eruption
 4 Roost of Drakes
 4 Into the Roil
-4 Negate
-4 Thornwood Falls
 4 Vine Gecko
-4 Roil Eruption
+4 Negate
 5 Island
 6 Island
 7 Island
-1 Wildborn Preserver
 1 Spectral Sailor
+1 Wildborn Preserver
 1 Essence Capture
 1 Brineborn Cutthroat
 1 Ionize
