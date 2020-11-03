@@ -1,15 +1,8 @@
-1 Elder Gargaroth
-2 Elder Gargaroth
-2 Brazen Borrower
-3 Temple of Mystery
-1 Scavenging Ooze
-2 Scavenging Ooze
-3 Fabled Passage
 8 Island
 8 Forest
 9 Forest
-1 Evolving Wilds
 1 Tangled Florahedron
+1 Evolving Wilds
 1 Vivien, Monsters' Advocate
 1 Auspicious Starrix
 1 Migratory Greathorn
@@ -17,28 +10,31 @@
 1 Pollywog Symbiote
 1 Dreamtail Heron
 1 Scute Swarm
-1 Gemrazer
 1 Gilded Goose
 1 Chainweb Aracnir
+1 Scavenging Ooze
+1 Gemrazer
 1 Parcelbeast
 2 Tangled Florahedron
-2 Evolving Wilds
 2 Gemrazer
 2 Pollywog Symbiote
 2 Auspicious Starrix
 2 Migratory Greathorn
+2 Evolving Wilds
 2 Vivien, Monsters' Advocate
 2 Scute Swarm
 2 Gilded Goose
 2 Dreamtail Heron
+2 Scavenging Ooze
 2 Parcelbeast
 3 Tangled Florahedron
+3 Fabled Passage
 3 Migratory Greathorn
 3 Auspicious Starrix
 3 Scute Swarm
 3 Pollywog Symbiote
-3 Dreamtail Heron
 3 Parcelbeast
+3 Dreamtail Heron
 3 Gilded Goose
 4 Scute Swarm
 4 Fabled Passage
@@ -46,32 +42,6 @@
 4 Migratory Greathorn
 4 Pollywog Symbiote
 4 Dreamtail Heron
-1 Wolfwillow Haven
-1 Paradise Druid
-1 Nissa, Who Shakes the World
-1 Aether Gust
-1 Essence Scatter
-1 Questing Beast
-1 Uro, Titan of Nature's Wrath
-1 Breeding Pool
-1 Blast Zone
-2 Wolfwillow Haven
-2 Uro, Titan of Nature's Wrath
-2 Nissa, Who Shakes the World
-2 Paradise Druid
-2 Aether Gust
-2 Shark Typhoon
-2 Questing Beast
-2 Breeding Pool
-3 Brazen Borrower
-3 Questing Beast
-3 Aether Gust
-3 Breeding Pool
-3 Scavenging Ooze
-3 Paradise Druid
-3 Nissa, Who Shakes the World
-4 Breeding Pool
-4 Paradise Druid
 1 Midnight Clock
 1 Kiora Bests the Sea God
 1 Heroic Intervention
@@ -81,10 +51,11 @@
 1 Dream Trawler
 1 Yorvo, Lord of Garenbrig
 1 Discontinuity
-1 Maraleaf Pixie
+1 Elder Gargaroth
 1 Sublime Epiphany
 1 Chromatic Orrery
 1 Treeshaker Chimera
+1 Maraleaf Pixie
 1 Garruk's Harbinger
 2 Kiora Bests the Sea God
 2 Cultivate
@@ -92,15 +63,18 @@
 2 Midnight Clock
 2 Heroic Intervention
 2 Sublime Epiphany
-2 Discontinuity
 2 Maraleaf Pixie
+2 Brazen Borrower
+2 Discontinuity
 2 Garruk's Harbinger
+2 Elder Gargaroth
 3 Cultivate
+3 Temple of Mystery
 3 Ilysian Caryatid
 3 Heroic Intervention
 3 Midnight Clock
-3 Maraleaf Pixie
 3 Discontinuity
+3 Maraleaf Pixie
 4 Cultivate
 4 Temple of Mystery
 4 Ilysian Caryatid

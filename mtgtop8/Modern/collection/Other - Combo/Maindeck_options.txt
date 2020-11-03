@@ -58,8 +58,8 @@
 1 Remand
 1 River of Tears
 1 Fatal Push
-1 Inquisition of Kozilek
 1 Murderous Cut
+1 Inquisition of Kozilek
 1 Inverter of Truth
 2 Remand
 2 Fatal Push
@@ -97,42 +97,42 @@
 1 Dark Confidant
 1 Thespian's Stage
 1 Dark Depths
+1 Preordain
 1 Urborg, Tomb of Yawgmoth
+1 Ponder
 1 Vampire Hexmage
 1 Chrome Mox
 1 Mishra's Bauble
 1 Muddle the Mixture
 1 Thopter Foundry
-1 Preordain
-1 Ponder
 1 Gitaxian Probe
 2 Dark Confidant
+2 Preordain
+2 Ponder
 2 Urborg, Tomb of Yawgmoth
 2 Chrome Mox
-2 Ponder
 2 Dark Depths
 2 Vampire Hexmage
-2 Preordain
 2 Gitaxian Probe
 2 Mishra's Bauble
 2 Thopter Foundry
 2 Thespian's Stage
 2 Snow-Covered Island
-3 Preordain
 3 Dark Confidant
+3 Ponder
 3 Urborg, Tomb of Yawgmoth
+3 Preordain
 3 Chrome Mox
 3 Force of Negation
 3 Vampire Hexmage
-3 Ponder
 3 Thopter Foundry
 3 Dark Depths
 3 Gitaxian Probe
-4 Preordain
+4 Ponder
 4 Dark Confidant
 4 Chrome Mox
+4 Preordain
 4 Thoughtseize
-4 Ponder
 4 Gitaxian Probe
 4 Dark Depths
 4 Vampire Hexmage
@@ -287,13 +287,6 @@
 2 Defense Grid
 3 Defense Grid
 4 Hagra Mauling
-1 Drowned Catacomb
-1 Cavern of Souls
-2 Drowned Catacomb
-3 Inquisition of Kozilek
-3 Drowned Catacomb
-4 Darkslick Shores
-4 Omen of the Sea
 1 Akoum Warrior
 2 Akoum Warrior
 2 Veil of Summer
@@ -308,13 +301,20 @@
 3 Sphere of the Suns
 4 Wild Cantor
 4 Sword of the Meek
+1 Drowned Catacomb
+1 Cavern of Souls
+2 Drowned Catacomb
+3 Inquisition of Kozilek
+3 Drowned Catacomb
+4 Omen of the Sea
+4 Darkslick Shores
 1 Lotus Field
 1 Tolaria West
 1 Lonely Sandbar
 1 Peer Through Depths
 1 Ideas Unbound
-1 Serum Visions
 1 Echoing Truth
+1 Serum Visions
 1 Reach Through Mists
 1 Psychic Puppetry
 1 Twiddle

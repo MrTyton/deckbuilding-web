@@ -78,8 +78,8 @@
 1 Gadwick, the Wizened
 1 Shatterskull Smashing
 2 Temple of Epiphany
-3 Kroxa, Titan of Death's Hunger
 3 Temple of Epiphany
+3 Kroxa, Titan of Death's Hunger
 4 Temple of Epiphany
 4 Rewind
 2 Castle Vantress
@@ -141,15 +141,11 @@
 2 Anticognition
 3 Shadows' Verdict
 3 Lochmere Serpent
-4 Essence Scatter
-2 Shatterskull Smashing
-3 Shatterskull Smashing
-4 Kroxa, Titan of Death's Hunger
 1 Elspeth Conquers Death
+1 Opt
 1 Felidar Retreat
 1 Dream Trawler
 1 Brightclimb Pathway
-1 Opt
 1 Temple of Silence
 1 Plains
 2 Dream Trawler
@@ -161,26 +157,16 @@
 3 Temple of Enlightenment
 3 Dream Trawler
 3 Temple of Silence
+3 Opt
 3 Brightclimb Pathway
 3 Whirlwind Denial
-3 Opt
 4 Temple of Enlightenment
 4 Temple of Silence
 4 Opt
-1 Lofty Denial
-1 Grasp of Darkness
-1 Inscription of Insight
-1 Anticipate
-2 Lofty Denial
-2 Inscription of Insight
-2 Grasp of Darkness
-2 Anticipate
-3 Lofty Denial
-3 Grasp of Darkness
-3 Anticipate
-4 Lofty Denial
-4 Grasp of Darkness
-4 Anticipate
+4 Essence Scatter
+2 Shatterskull Smashing
+3 Shatterskull Smashing
+4 Kroxa, Titan of Death's Hunger
 1 Skyclave Relic
 2 Skyclave Relic
 3 Labyrinth of Skophos
@@ -225,3 +211,17 @@
 4 Crawling Barrens
 4 Fae of Wishes
 4 Stonecoil Serpent
+1 Lofty Denial
+1 Grasp of Darkness
+1 Anticipate
+1 Inscription of Insight
+2 Lofty Denial
+2 Grasp of Darkness
+2 Anticipate
+2 Inscription of Insight
+3 Lofty Denial
+3 Grasp of Darkness
+3 Anticipate
+4 Grasp of Darkness
+4 Anticipate
+4 Lofty Denial

@@ -23,8 +23,8 @@
 5 Forest
 4 Plains
 1 Nissa, Voice of Zendikar
-1 Westvale Abbey
 1 Sunpetal Grove
+1 Westvale Abbey
 1 Castle Ardenvale
 1 Paradise Druid
 1 Declaration in Stone
@@ -45,15 +45,15 @@
 2 Divine Visitation
 2 Gideon, Ally of Zendikar
 2 Leonin Warleader
-3 Gideon, Ally of Zendikar
 3 Sunpetal Grove
+3 Gideon, Ally of Zendikar
 3 Paradise Druid
 3 Dromoka's Command
 3 Secure the Wastes
 3 Westvale Abbey
 3 Divine Visitation
-4 Dromoka's Command
 4 Sunpetal Grove
+4 Dromoka's Command
 4 Paradise Druid
 4 Secure the Wastes
 6 Forest
@@ -140,11 +140,11 @@
 3 Clearwater Pathway
 3 Drown in the Loch
 3 Fatal Push
-4 Thoughtseize
 4 Fatal Push
+4 Thoughtseize
+4 Watery Grave
 4 Soaring Thought-Thief
 4 Thieves' Guild Enforcer
-4 Watery Grave
 4 Drown in the Loch
 1 Hallowed Fountain
 2 Hallowed Fountain
@@ -185,8 +185,8 @@
 3 Swamp
 4 Swamp
 5 Swamp
-1 Eliminate
 1 Nighthawk Scavenger
+1 Eliminate
 1 Zareth San, the Trickster
 1 Fabled Passage
 1 Drowned Catacomb
@@ -200,16 +200,16 @@
 3 Drowned Catacomb
 3 Nighthawk Scavenger
 3 Mystical Dispute
-4 Drowned Catacomb
 4 Nighthawk Scavenger
+4 Drowned Catacomb
 4 Mystical Dispute
 1 Glasspool Mimic
 1 Skyclave Cleric
 1 Charming Prince
 1 Militia Bugler
 1 Skyclave Apparition
-2 Glasspool Mimic
 2 Branchloft Pathway
+2 Glasspool Mimic
 2 Skyclave Cleric
 2 Skyclave Apparition
 2 Charming Prince
@@ -333,9 +333,9 @@
 4 Botanical Sanctum
 1 Unclaimed Territory
 1 Rogue Refiner
+1 Bloodsoaked Champion
 1 Archpriest of Iona
 1 Acquisitions Expert
-1 Bloodsoaked Champion
 1 Hamlet Captain
 1 Gust Walker
 2 Unclaimed Territory
@@ -397,9 +397,9 @@
 1 Rhonas the Indomitable
 1 Game Trail
 1 Wildborn Preserver
+1 Yorvo, Lord of Garenbrig
 1 Cinder Glade
 1 Gruul Spellbreaker
-1 Yorvo, Lord of Garenbrig
 1 Legion Loyalist
 1 Pelt Collector
 1 Klothys, God of Destiny
@@ -464,43 +464,43 @@
 5 Island
 6 Island
 7 Island
-1 Foulmire Knight
-1 Diregraf Colossus
 1 Dark Salvation
-1 Corpse Knight
 1 Cryptbreaker
+1 Foulmire Knight
+1 Lazotep Reaver
+1 Diregraf Colossus
+1 Corpse Knight
 1 Liliana, Untouched by Death
 1 Isolated Chapel
 1 Rally the Ancestors
 1 Necrotic Wound
 1 Wayward Servant
-1 Lazotep Reaver
 1 Slitherhead
 2 Isolated Chapel
-2 Foulmire Knight
-2 Diregraf Colossus
-2 Lazotep Reaver
-2 Wayward Servant
 2 Dark Salvation
+2 Foulmire Knight
+2 Cryptbreaker
+2 Lazotep Reaver
+2 Diregraf Colossus
+2 Wayward Servant
 2 Slitherhead
 2 Corpse Knight
 2 Liliana, Untouched by Death
 2 Castle Locthwain
-2 Cryptbreaker
 2 Rally the Ancestors
 3 Isolated Chapel
-3 Corpse Knight
 3 Cryptbreaker
+3 Dark Salvation
+3 Lazotep Reaver
+3 Corpse Knight
 3 Liliana, Untouched by Death
 3 Castle Locthwain
 3 Rally the Ancestors
-3 Lazotep Reaver
 3 Wayward Servant
 3 Slitherhead
-3 Dark Salvation
 4 Isolated Chapel
+4 Dark Salvation
 4 Cryptbreaker
 4 Wayward Servant
-4 Dark Salvation
 4 Rally the Ancestors
 4 Corpse Knight

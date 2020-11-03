@@ -62,8 +62,8 @@
 4 Acquisitions Expert
 1 Mystical Dispute
 2 Mystical Dispute
-3 Swamp
 3 Bloodchief's Thirst
+3 Swamp
 1 Hagra Mauling
 1 Cling to Dust
 2 Cling to Dust
@@ -82,8 +82,8 @@
 3 Silundi Vision
 3 Merfolk Secretkeeper
 4 Bloodchief's Thirst
-4 Merfolk Secretkeeper
 4 Silundi Vision
+4 Merfolk Secretkeeper
 1 Jwari Disruption
 1 Frantic Inventory
 2 Jwari Disruption
@@ -95,13 +95,58 @@
 3 Sea Gate Stormcaller
 5 Island
 6 Island
+1 Solemn Simulacrum
+2 Solemn Simulacrum
+1 Ugin, the Spirit Dragon
+1 Radiant Fountain
+1 Mazemind Tome
+1 Crawling Barrens
+1 Shredded Sails
+1 Storm's Wrath
+1 Bonecrusher Giant
+1 Mountain
+1 Irencrag Feat
+1 Shatterskull Smashing
+1 Ox of Agonas
+1 Spikefield Hazard
+2 Crawling Barrens
+2 Radiant Fountain
+2 Mazemind Tome
+2 Spikefield Hazard
+2 Irencrag Feat
+2 Mountain
+2 Shredded Sails
+2 Bonecrusher Giant
+2 Ugin, the Spirit Dragon
+2 Shatterskull Smashing
+2 Ox of Agonas
+3 Crawling Barrens
+3 Mazemind Tome
+3 Solemn Simulacrum
+3 Shredded Sails
+3 Spikefield Hazard
+3 Ugin, the Spirit Dragon
+3 Irencrag Feat
+3 Bonecrusher Giant
+3 Shatterskull Smashing
+3 Mountain
+4 Mazemind Tome
+4 Shredded Sails
+4 Mountain
+4 Ugin, the Spirit Dragon
+4 Shatterskull Smashing
+4 Spikefield Hazard
+4 Solemn Simulacrum
+4 Bonecrusher Giant
+5 Mountain
+6 Mountain
+7 Mountain
+8 Mountain
 1 Lurrus of the Dream-Den
 3 Agadeem's Awakening
 4 Glass Casket
 1 Emeria's Call
 4 Elspeth Conquers Death
-1 Solemn Simulacrum
-2 Solemn Simulacrum
 1 Tangled Florahedron
 1 Temple of Silence
 2 Temple of Silence
@@ -117,70 +162,25 @@
 2 Vantress Gargoyle
 3 Vantress Gargoyle
 4 Vantress Gargoyle
+1 Valakut Awakening
+1 Labyrinth of Skophos
+1 Fire Prophecy
+1 Kazuul's Fury
+2 Valakut Awakening
+2 Labyrinth of Skophos
+2 Kazuul's Fury
+2 Fire Prophecy
+3 Radiant Fountain
+3 Labyrinth of Skophos
+3 Fire Prophecy
+4 Radiant Fountain
+4 Irencrag Feat
 1 Thirst for Meaning
 3 Jwari Disruption
 3 Mystical Dispute
 4 Jwari Disruption
 4 Mystical Dispute
 4 Swamp
-1 Valakut Awakening
-1 Ugin, the Spirit Dragon
-1 Labyrinth of Skophos
-1 Radiant Fountain
-1 Fire Prophecy
-1 Kazuul's Fury
-1 Mazemind Tome
-1 Crawling Barrens
-1 Storm's Wrath
-1 Bonecrusher Giant
-1 Mountain
-1 Irencrag Feat
-1 Shatterskull Smashing
-1 Ox of Agonas
-1 Shredded Sails
-1 Spikefield Hazard
-2 Valakut Awakening
-2 Crawling Barrens
-2 Labyrinth of Skophos
-2 Kazuul's Fury
-2 Radiant Fountain
-2 Fire Prophecy
-2 Mazemind Tome
-2 Shatterskull Smashing
-2 Spikefield Hazard
-2 Bonecrusher Giant
-2 Irencrag Feat
-2 Shredded Sails
-2 Ugin, the Spirit Dragon
-2 Mountain
-2 Ox of Agonas
-3 Crawling Barrens
-3 Mazemind Tome
-3 Solemn Simulacrum
-3 Radiant Fountain
-3 Labyrinth of Skophos
-3 Fire Prophecy
-3 Shredded Sails
-3 Spikefield Hazard
-3 Irencrag Feat
-3 Bonecrusher Giant
-3 Ugin, the Spirit Dragon
-3 Shatterskull Smashing
-3 Mountain
-4 Mazemind Tome
-4 Shredded Sails
-4 Radiant Fountain
-4 Irencrag Feat
-4 Mountain
-4 Ugin, the Spirit Dragon
-4 Shatterskull Smashing
-4 Spikefield Hazard
-4 Solemn Simulacrum
-4 Bonecrusher Giant
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
 1 Merfolk Windrobber
 1 Soaring Thought-Thief
 2 Soaring Thought-Thief
@@ -193,3 +193,16 @@
 4 Merfolk Windrobber
 7 Island
 8 Island
+1 Scorching Dragonfire
+2 Storm's Wrath
+2 Scorching Dragonfire
+3 Storm's Wrath
+3 Scorching Dragonfire
+4 Crawling Barrens
+4 Scorching Dragonfire
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+13 Mountain
+14 Mountain

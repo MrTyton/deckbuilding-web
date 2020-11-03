@@ -73,9 +73,9 @@
 6 Forest
 7 Forest
 1 Elspeth, Sun's Nemesis
-1 Kenrith, the Returned King
 1 Massacre Wurm
 1 Gyruda, Doom of Depths
+1 Kenrith, the Returned King
 2 Kenrith, the Returned King
 3 Skyclave Apparition
 3 Nullpriest of Oblivion
@@ -111,41 +111,13 @@
 1 Kogla, the Titan Ape
 1 Inscription of Ruin
 2 Inscription of Ruin
-1 Solemn Simulacrum
-2 Ugin, the Spirit Dragon
-2 Solemn Simulacrum
-3 Ugin, the Spirit Dragon
 1 Gemrazer
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 2 Gemrazer
 3 Stonecoil Serpent
-1 Temple of Silence
-1 Seasoned Hallowblade
-1 Luminarch Aspirant
-1 Evolving Wilds
-1 Shadowspear
-1 Baneslayer Angel
-1 Sejiri Shelter
-1 Eat to Extinction
-1 Heroic Intervention
-1 Luminous Broodmoth
-1 Nethroi, Apex of Death
-1 Blacklance Paragon
-1 Liliana's Standard Bearer
-2 Temple of Silence
-2 Temple of Plenty
-2 Seasoned Hallowblade
-2 Luminarch Aspirant
-2 Jungle Hollow
-2 Luminous Broodmoth
-2 Blacklance Paragon
-2 Liliana's Standard Bearer
-3 Seasoned Hallowblade
-3 Luminarch Aspirant
-3 Eliminate
-1 Beanstalk Giant
 1 Realm-Cloaked Giant
+1 Beanstalk Giant
 2 Beanstalk Giant
 3 Beanstalk Giant
 3 Plains
@@ -153,33 +125,39 @@
 2 Glass Casket
 3 Glass Casket
 3 Polukranos, Unchained
+1 Solemn Simulacrum
+2 Ugin, the Spirit Dragon
+2 Solemn Simulacrum
+3 Ugin, the Spirit Dragon
+3 Eliminate
+1 Evolving Wilds
+1 Luminous Broodmoth
+1 Heroic Intervention
+1 Baneslayer Angel
+1 Sejiri Shelter
+1 Shadowspear
+1 Seasoned Hallowblade
+1 Luminarch Aspirant
+1 Nethroi, Apex of Death
+1 Temple of Silence
+1 Blacklance Paragon
+1 Liliana's Standard Bearer
+1 Eat to Extinction
+2 Luminous Broodmoth
+2 Jungle Hollow
+2 Seasoned Hallowblade
+2 Temple of Plenty
+2 Luminarch Aspirant
+2 Temple of Silence
+2 Blacklance Paragon
+2 Liliana's Standard Bearer
+3 Seasoned Hallowblade
+3 Luminarch Aspirant
 1 Fiend Artisan
 2 Fiend Artisan
 3 Fiend Artisan
 4 Fiend Artisan
 4 Agonizing Remorse
-1 Shatterskull Smashing
-1 Temple of Malice
-1 Cragcrown Pathway
-1 Temple of Abandon
-1 Liliana, Waker of the Dead
-1 Kroxa, Titan of Death's Hunger
-1 Bonecrusher Giant
-1 Mountain
-1 Radha, Heart of Keld
-2 Shatterskull Smashing
-2 Temple of Malice
-2 Cragcrown Pathway
-2 Kroxa, Titan of Death's Hunger
-2 Bonecrusher Giant
-2 Mountain
-2 Temple of Abandon
-2 Radha, Heart of Keld
-3 Kroxa, Titan of Death's Hunger
-3 Cragcrown Pathway
-3 Bonecrusher Giant
-4 Kroxa, Titan of Death's Hunger
-4 Bonecrusher Giant
 1 Nighthawk Scavenger
 2 Nighthawk Scavenger
 3 Nighthawk Scavenger
@@ -187,11 +165,33 @@
 4 Questing Beast
 3 Rankle, Master of Pranks
 4 Turntimber Symbiosis
-1 Inscription of Abundance
+1 Shatterskull Smashing
+1 Cragcrown Pathway
+1 Radha, Heart of Keld
+1 Temple of Abandon
+1 Bonecrusher Giant
+1 Kroxa, Titan of Death's Hunger
+1 Mountain
+1 Liliana, Waker of the Dead
+1 Temple of Malice
+2 Shatterskull Smashing
+2 Cragcrown Pathway
+2 Radha, Heart of Keld
+2 Bonecrusher Giant
+2 Temple of Malice
+2 Mountain
+2 Kroxa, Titan of Death's Hunger
+2 Temple of Abandon
+3 Cragcrown Pathway
+3 Kroxa, Titan of Death's Hunger
+3 Bonecrusher Giant
+4 Bonecrusher Giant
+4 Kroxa, Titan of Death's Hunger
 1 Ram Through
-2 Chainweb Aracnir
-2 Inscription of Abundance
+1 Inscription of Abundance
 2 Ram Through
+2 Inscription of Abundance
+2 Chainweb Aracnir
 3 Chainweb Aracnir
 3 Inscription of Abundance
 3 Ram Through
@@ -200,23 +200,23 @@
 4 Inscription of Abundance
 4 Ram Through
 9 Swamp
+1 Arasta of the Endless Web
 1 Thrashing Brontodon
 1 Adventurous Impulse
 1 Skull Prophet
-1 Arasta of the Endless Web
 1 Whisper Squad
 2 Skull Prophet
 2 Adventurous Impulse
 2 Whisper Squad
-3 Extinction Event
 3 Whisper Squad
 3 Adventurous Impulse
+3 Extinction Event
 3 Skull Prophet
 4 Heartless Act
 4 Skull Prophet
 4 Whisper Squad
+9 Forest
 10 Forest
 11 Forest
 12 Forest
 13 Forest
-9 Forest

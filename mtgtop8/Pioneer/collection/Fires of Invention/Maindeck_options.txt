@@ -88,9 +88,9 @@
 4 Omen of the Sun
 1 Satyr Wayfinder
 1 Arboreal Grazer
-1 Charming Prince
 1 Oath of Nissa
 1 Skyclave Apparition
+1 Charming Prince
 1 Karn, the Great Creator
 2 Satyr Wayfinder
 2 Arboreal Grazer
@@ -98,27 +98,27 @@
 2 Charming Prince
 2 Karn, the Great Creator
 2 Skyclave Apparition
+3 Karn, the Great Creator
 3 Yorion, Sky Nomad
 3 Arboreal Grazer
 3 Skyclave Apparition
-3 Oath of Nissa
 3 Charming Prince
+3 Oath of Nissa
 3 Sunpetal Grove
 3 Satyr Wayfinder
-3 Karn, the Great Creator
 4 Temple Garden
 4 Skyclave Apparition
-4 Oath of Nissa
+4 Karn, the Great Creator
 4 Charming Prince
+4 Oath of Nissa
 4 Arboreal Grazer
 4 Uro, Titan of Nature's Wrath
 4 Satyr Wayfinder
-4 Karn, the Great Creator
 1 Bonecrusher Giant
 1 Needle Spires
 2 Bonecrusher Giant
-1 Goblin Rabblemaster
 1 Kari Zev, Skyship Raider
+1 Goblin Rabblemaster
 1 Castle Embereth
 1 Omen of the Forge
 1 Purphoros, God of the Forge
@@ -132,8 +132,8 @@
 1 Mutavault
 1 Pia and Kiran Nalaar
 2 Castle Embereth
-2 Goblin Rabblemaster
 2 Kari Zev, Skyship Raider
+2 Goblin Rabblemaster
 2 Omen of the Forge
 2 Purphoros, God of the Forge
 2 Wild Slash
@@ -179,8 +179,8 @@
 6 Mountain
 7 Mountain
 8 Mountain
-1 Chandra, Torch of Defiance
 1 Chandra, Awakened Inferno
+1 Chandra, Torch of Defiance
 1 Fae of Wishes
 2 Fae of Wishes
 3 Fae of Wishes
@@ -189,17 +189,17 @@
 1 Watery Grave
 1 Swamp
 1 Ashiok, Nightmare Muse
-1 Temple of Deceit
 1 Jace, Architect of Thought
 1 Blood Crypt
 1 Dragonskull Summit
 1 Clearwater Pathway
-1 Nicol Bolas, Dragon-God
 1 The Scarab God
 1 Thoughtseize
 1 The Scorpion God
 1 Bontu's Last Reckoning
 1 Dreadbore
+1 Nicol Bolas, Dragon-God
+1 Temple of Deceit
 1 Drawn from Dreams
 1 Thought Erasure
 1 Sarkhan the Masterless
@@ -208,6 +208,7 @@
 2 Drowned Catacomb
 2 Watery Grave
 2 Swamp
+2 Riverglide Pathway
 2 Blood Crypt
 2 Dragonskull Summit
 2 Clearwater Pathway
@@ -215,7 +216,6 @@
 2 Bontu's Last Reckoning
 2 Nicol Bolas, Dragon-God
 2 Dreadbore
-2 Riverglide Pathway
 2 Nicol Bolas, the Ravager
 2 Thought Erasure
 3 Watery Grave

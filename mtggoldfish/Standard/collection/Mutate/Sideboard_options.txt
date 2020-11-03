@@ -29,17 +29,17 @@
 2 Run Afoul
 2 Essence Symbiote
 1 Tormod's Crypt
-1 Akoum Hellhound
-1 Fervent Champion
 1 Fling
 1 Thundering Rebuke
 1 Shock
-2 Fervent Champion
-2 Akoum Hellhound
+1 Akoum Hellhound
+1 Fervent Champion
 2 Thundering Rebuke
 2 Shock
 2 Tormod's Crypt
+2 Fervent Champion
 2 Fling
+2 Akoum Hellhound
 3 Return to Nature
 4 Mystical Dispute
 3 Scavenging Ooze
@@ -57,11 +57,11 @@
 1 Dreamtail Heron
 1 Storm's Wrath
 2 Storm's Wrath
+1 Grasp of Darkness
+2 Grasp of Darkness
 1 Primal Might
 1 Phoenix of Ash
 2 Phoenix of Ash
-1 Grasp of Darkness
-2 Grasp of Darkness
 1 Capture Sphere
 1 Stern Dismissal
 2 Cancel
@@ -88,6 +88,9 @@
 1 Forever Young
 2 Forever Young
 3 Forever Young
+1 Cinderclasm
+2 Cinderclasm
+3 Cinderclasm
 1 Ugin, the Spirit Dragon
 1 Radha, Heart of Keld
 1 Bonecrusher Giant
@@ -97,11 +100,8 @@
 3 Kazandu Nectarpot
 3 Wilt
 3 Thundering Rebuke
-3 Shock
 3 Fling
-1 Cinderclasm
-2 Cinderclasm
-3 Cinderclasm
+3 Shock
 1 Cragplate Baloth
 2 Into the Roil
 4 Scavenging Ooze
@@ -122,9 +122,6 @@
 3 Lovestruck Beast
 4 Lovestruck Beast
 4 Garruk's Harbinger
-4 Chainweb Aracnir
-4 Soul-Guide Lantern
-4 Heroic Intervention
 1 Everquill Phoenix
 1 Klothys, God of Destiny
 2 Everquill Phoenix
@@ -132,3 +129,6 @@
 3 Destiny Spinner
 3 Storm's Wrath
 4 Storm's Wrath
+4 Chainweb Aracnir
+4 Heroic Intervention
+4 Soul-Guide Lantern
