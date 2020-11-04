@@ -72,29 +72,6 @@
 3 Teferi's Tutelage
 4 Teferi's Tutelage
 4 Island
-1 Silundi Vision
-1 Merfolk Secretkeeper
-1 So Tiny
-2 Silundi Vision
-2 Hagra Mauling
-2 Merfolk Secretkeeper
-2 So Tiny
-3 Silundi Vision
-3 Merfolk Secretkeeper
-4 Bloodchief's Thirst
-4 Silundi Vision
-4 Merfolk Secretkeeper
-1 Jwari Disruption
-1 Frantic Inventory
-2 Jwari Disruption
-2 Frantic Inventory
-3 Frantic Inventory
-4 Frantic Inventory
-1 Sea Gate Stormcaller
-2 Sea Gate Stormcaller
-3 Sea Gate Stormcaller
-5 Island
-6 Island
 1 Solemn Simulacrum
 2 Solemn Simulacrum
 1 Ugin, the Spirit Dragon
@@ -123,7 +100,6 @@
 3 Crawling Barrens
 3 Mazemind Tome
 3 Solemn Simulacrum
-3 Shredded Sails
 3 Spikefield Hazard
 3 Ugin, the Spirit Dragon
 3 Irencrag Feat
@@ -131,7 +107,6 @@
 3 Shatterskull Smashing
 3 Mountain
 4 Mazemind Tome
-4 Shredded Sails
 4 Mountain
 4 Ugin, the Spirit Dragon
 4 Shatterskull Smashing
@@ -142,6 +117,46 @@
 6 Mountain
 7 Mountain
 8 Mountain
+1 Silundi Vision
+1 Merfolk Secretkeeper
+1 So Tiny
+2 Silundi Vision
+2 Hagra Mauling
+2 Merfolk Secretkeeper
+2 So Tiny
+3 Silundi Vision
+3 Merfolk Secretkeeper
+4 Bloodchief's Thirst
+4 Silundi Vision
+4 Merfolk Secretkeeper
+1 Scorching Dragonfire
+2 Storm's Wrath
+2 Scorching Dragonfire
+3 Storm's Wrath
+3 Scorching Dragonfire
+4 Crawling Barrens
+4 Scorching Dragonfire
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+13 Mountain
+14 Mountain
+1 Valakut Awakening
+2 Valakut Awakening
+3 Shredded Sails
+4 Shredded Sails
+1 Jwari Disruption
+1 Frantic Inventory
+2 Jwari Disruption
+2 Frantic Inventory
+3 Frantic Inventory
+4 Frantic Inventory
+1 Sea Gate Stormcaller
+2 Sea Gate Stormcaller
+3 Sea Gate Stormcaller
+5 Island
+6 Island
 1 Lurrus of the Dream-Den
 3 Agadeem's Awakening
 4 Glass Casket
@@ -162,25 +177,23 @@
 2 Vantress Gargoyle
 3 Vantress Gargoyle
 4 Vantress Gargoyle
-1 Valakut Awakening
-1 Labyrinth of Skophos
-1 Fire Prophecy
-1 Kazuul's Fury
-2 Valakut Awakening
-2 Labyrinth of Skophos
-2 Kazuul's Fury
-2 Fire Prophecy
-3 Radiant Fountain
-3 Labyrinth of Skophos
-3 Fire Prophecy
-4 Radiant Fountain
-4 Irencrag Feat
 1 Thirst for Meaning
 3 Jwari Disruption
 3 Mystical Dispute
 4 Jwari Disruption
 4 Mystical Dispute
 4 Swamp
+1 Labyrinth of Skophos
+1 Fire Prophecy
+1 Kazuul's Fury
+2 Kazuul's Fury
+2 Labyrinth of Skophos
+2 Fire Prophecy
+3 Fire Prophecy
+3 Radiant Fountain
+3 Labyrinth of Skophos
+4 Irencrag Feat
+4 Radiant Fountain
 1 Merfolk Windrobber
 1 Soaring Thought-Thief
 2 Soaring Thought-Thief
@@ -193,16 +206,3 @@
 4 Merfolk Windrobber
 7 Island
 8 Island
-1 Scorching Dragonfire
-2 Storm's Wrath
-2 Scorching Dragonfire
-3 Storm's Wrath
-3 Scorching Dragonfire
-4 Crawling Barrens
-4 Scorching Dragonfire
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain

@@ -3,7 +3,6 @@
 1 Waterlogged Grove
 2 Waterlogged Grove
 4 Mutavault
-4 Harbinger of the Tides
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
@@ -11,8 +10,8 @@
 1 Merfolk Mistbinder
 1 Kumena's Speaker
 1 Botanical Sanctum
-2 Botanical Sanctum
 2 Merfolk Mistbinder
+2 Botanical Sanctum
 2 Kumena's Speaker
 3 Botanical Sanctum
 3 Kumena's Speaker
@@ -24,14 +23,15 @@
 2 Glasspool Mimic
 5 Snow-Covered Island
 4 Dismember
+4 Harbinger of the Tides
 3 Merfolk Mistbinder
 4 Merfolk Mistbinder
+4 Benthic Biomancer
 3 Waterlogged Grove
 3 Glasspool Mimic
 4 Glasspool Mimic
 4 Force of Negation
 1 Breeding Pool
-4 Benthic Biomancer
 1 Polluted Delta
 9 Island
 1 Flooded Strand
@@ -67,8 +67,8 @@
 1 Path to Exile
 2 Path to Exile
 3 Path to Exile
-4 Seachrome Coast
 4 Path to Exile
+4 Seachrome Coast
 2 Flooded Strand
 3 Merrow Reejerey
 4 Merrow Reejerey
@@ -107,23 +107,23 @@
 1 Spirebluff Canal
 1 Steam Vents
 1 Kira, Great Glass-Spinner
-2 Bonecrusher Giant
 2 The Royal Scions
+2 Bonecrusher Giant
 2 Steam Vents
-2 Lightning Bolt
 2 Fiery Islet
+2 Lightning Bolt
 2 Spirebluff Canal
 3 Lightning Bolt
-3 Steam Vents
 3 Bonecrusher Giant
+3 Steam Vents
 3 Spirebluff Canal
 4 Lightning Bolt
 4 Bonecrusher Giant
 4 Steam Vents
 4 Spirebluff Canal
 1 Chalice of the Void
-2 Chalice of the Void
 2 Castle Vantress
+2 Chalice of the Void
 3 Chalice of the Void
 3 Castle Vantress
 4 Chalice of the Void

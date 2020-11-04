@@ -64,8 +64,8 @@
 |                    1|[Adanto Vanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435152)        |                    2|[Ornithopter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129665)       |
 |                    1|Skyclave Cleric                                                                                   |                    2|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)      |
 |                    2|Skyclave Cleric                                                                                   |                    2|[Erase](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386533)             |
-|                    1|[Legion's Landing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435173)       |                    3|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)      |
-|                    2|[Legion's Landing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435173)       |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)     |
+|                    1|[Legion's Landing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435173)       |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)     |
+|                    2|[Legion's Landing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435173)       |                    3|[Baffling End](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439658)      |
 |                    1|[Brain Maggot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380382)           |                    3|[Erase](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386533)             |
 |                    2|[Brain Maggot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380382)           |                    4|[Brain Maggot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380382)      |
 

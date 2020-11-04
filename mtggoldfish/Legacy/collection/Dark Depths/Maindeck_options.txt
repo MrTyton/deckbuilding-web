@@ -47,12 +47,11 @@
 1 Marsh Flats
 1 Entreat the Angels
 1 Jace, the Mind Sculptor
+1 Ethersworn Canonist
 1 Murderous Cut
 1 Maze of Ith
 1 Intuition
-1 Ethersworn Canonist
 1 Torpor Orb
-1 Misdirection
 1 Celestial Colonnade
 1 Mystic Sanctuary
 1 Drowned Catacomb
@@ -61,16 +60,17 @@
 1 Portent
 1 Glacial Fortress
 1 Emrakul, the Aeons Torn
-1 Iona, Shield of Emeria
 1 Elesh Norn, Grand Cenobite
+1 Iona, Shield of Emeria
 1 Spell Pierce
 1 Rest in Peace
 1 Jin-Gitaxias, Core Augur
 1 Flusterstorm
 1 Enlightened Tutor
-1 Inkwell Leviathan
+1 Misdirection
 1 Pact of Negation
 1 Unburial Rites
+1 Inkwell Leviathan
 1 Ensnaring Bridge
 1 Toxic Deluge
 1 Supreme Verdict
@@ -211,14 +211,15 @@
 3 Battle of Wits
 4 Arcum's Astrolabe
 4 Polluted Delta
+4 Terminus
 4 Underground Sea
 4 Flooded Strand
 4 Cunning Wish
 4 Baleful Strix
 4 Snapcaster Mage
 4 Teferi, Time Raveler
-4 Impulse
 4 Celestial Colonnade
+4 Impulse
 4 Spell Pierce
 4 Tundra
 4 Tolaria West
@@ -239,7 +240,6 @@
 4 Creeping Tar Pit
 4 Show and Tell
 4 Counterspell
-4 Terminus
 4 Marsh Flats
 4 Personal Tutor
 4 Cabal Therapy
@@ -256,8 +256,6 @@
 1 Assassin's Trophy
 2 Assassin's Trophy
 3 Assassin's Trophy
-3 Wasteland
-4 Mox Diamond
 1 Life from the Loam
 1 Llanowar Wastes
 1 Blooming Marsh
@@ -266,6 +264,8 @@
 3 Nurturing Peatland
 4 Duress
 4 Nurturing Peatland
+3 Wasteland
+4 Mox Diamond
 1 Tendrils of Agony
 1 Lion's Eye Diamond
 1 Infernal Tutor

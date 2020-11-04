@@ -2,8 +2,8 @@
 1 Declaration in Stone
 1 Settle the Wreckage
 2 Settle the Wreckage
-1 Heroic Intervention
 1 Lyra Dawnbringer
+1 Heroic Intervention
 1 Tormod's Crypt
 1 Tocatli Honor Guard
 2 Heroic Intervention
@@ -25,8 +25,6 @@
 1 Kalitas, Traitor of Ghet
 1 Grafdigger's Cage
 2 Aether Gust
-1 Aethersphere Harvester
-1 Golgari Charm
 1 Conclave Tribunal
 1 Negate
 1 Soul-Guide Lantern
@@ -38,12 +36,14 @@
 1 Kozilek's Return
 1 Scrabbling Claws
 1 Sorcerous Spyglass
+1 Barrier Breach
 1 Shifting Ceratops
 1 Reclamation Sage
-1 Barrier Breach
 2 Negate
+1 Aethersphere Harvester
 1 Korvold, Fae-Cursed King
 1 Back to Nature
+1 Golgari Charm
 2 Golgari Charm
 2 Aethersphere Harvester
 1 The Ozolith
@@ -62,18 +62,6 @@
 1 Dead Weight
 1 Extinction Event
 2 Extinction Event
-1 Collective Brutality
-1 Return to Nature
-1 Abrupt Decay
-1 Assassin's Trophy
-1 Gurmag Angler
-1 Thief of Sanity
-1 Den Protector
-1 Driven / Despair
-2 Abrupt Decay
-2 Gurmag Angler
-2 Collective Brutality
-2 Den Protector
 1 Reflector Mage
 1 Knight of the White Orchid
 1 Disdainful Stroke
@@ -88,6 +76,7 @@
 3 Declaration in Stone
 3 Apostle of Purifying Light
 1 Legion's End
+1 Collective Brutality
 1 Cry of the Carnarium
 1 Shark Typhoon
 2 Legion's End
@@ -96,11 +85,12 @@
 2 Shark Typhoon
 3 Aether Gust
 1 Damping Sphere
+1 Fog
 1 Fabled Passage
 1 Possibility Storm
 1 Fry
+1 Return to Nature
 1 Gruul Charm
-1 Fog
 1 Chandra, Awakened Inferno
 1 Void Snare
 2 Chandra, Awakened Inferno

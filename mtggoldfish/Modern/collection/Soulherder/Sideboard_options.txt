@@ -1,7 +1,7 @@
 1 Aven Mindcensor
 1 Elder Gargaroth
-1 Thragtusk
 1 Veil of Summer
+1 Thragtusk
 1 Vedalken Plotter
 1 Remorseful Cleric
 2 Ceremonious Rejection
@@ -13,11 +13,13 @@
 1 Force of Negation
 2 Teferi, Time Raveler
 3 Ceremonious Rejection
-2 Celestial Purge
 1 Auriok Champion
+2 Celestial Purge
 1 Eidolon of Rhetoric
+3 Ashiok, Dream Render
 1 Disdainful Stroke
 2 Disdainful Stroke
+2 Veil of Summer
 1 Stonehorn Dignitary
 1 Siege Rhino
 1 Skyclave Cleric
@@ -31,7 +33,6 @@
 1 Spore Frog
 1 Winds of Abandon
 2 Pithing Needle
-2 Veil of Summer
 1 Damping Sphere
 1 Grafdigger's Cage
 1 Delay
@@ -42,10 +43,14 @@
 2 Grafdigger's Cage
 2 Wing Shards
 3 Damping Sphere
-3 Ashiok, Dream Render
+1 Surgical Extraction
+2 Surgical Extraction
+2 Auriok Champion
+3 Auriok Champion
 1 Mystical Dispute
 1 Dovin's Veto
 1 Scavenging Ooze
+1 Emrakul, the Aeons Torn
 1 Kor Firewalker
 1 Deputy of Detention
 1 Tale's End
@@ -53,33 +58,29 @@
 1 Familiar's Ruse
 2 Oust
 2 Meddling Mage
-1 Surgical Extraction
-2 Surgical Extraction
-2 Auriok Champion
-3 Auriok Champion
 2 Magus of the Moon
 1 Kozilek, Butcher of Truth
+1 Reflector Mage
 1 Gaea's Blessing
 1 Archon of Emeria
-1 Reflector Mage
 1 Coiling Oracle
 1 Mana Leak
 1 Isolate
 1 Flashfreeze
 2 Coiling Oracle
-1 Rest in Peace
+2 Collector Ouphe
+2 Knight of Autumn
 1 Sword of Fire and Ice
 1 Lightning Bolt
 1 Vendilion Clique
 1 Jace, the Mind Sculptor
+1 Rest in Peace
 1 Angel of Invention
 1 Soulherder
 2 Force of Negation
 2 Vendilion Clique
-2 Rest in Peace
 2 Jace, the Mind Sculptor
-2 Collector Ouphe
-2 Knight of Autumn
+2 Rest in Peace
 1 Phyrexian Revoker
 2 Tale's End
 2 Dovin's Veto
@@ -92,7 +93,6 @@
 2 Familiar's Ruse
 1 Heliod, Sun-Crowned
 1 Walking Ballista
-1 Emrakul, the Aeons Torn
 2 Heliod, Sun-Crowned
 2 Walking Ballista
 1 Arasta of the Endless Web
@@ -103,6 +103,10 @@
 2 Boil
 2 Relic of Progenitus
 3 Relic of Progenitus
+1 Confounding Conundrum
+2 Confounding Conundrum
+3 Surgical Extraction
+3 Confounding Conundrum
 1 Sacred Foundry
 1 Mangara of Corondor
 2 Gaddock Teeg
@@ -110,10 +114,10 @@
 4 Magus of the Moon
 4 Auriok Champion
 1 Uro, Titan of Nature's Wrath
-2 Kor Firewalker
 2 Scavenging Ooze
+2 Kor Firewalker
 2 Vedalken Plotter
-3 Kor Firewalker
 3 Meddling Mage
 3 Vedalken Plotter
 4 Kor Firewalker
+3 Kor Firewalker

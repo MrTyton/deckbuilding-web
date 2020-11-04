@@ -68,6 +68,8 @@
 4 Ancient Tomb
 1 Trinisphere
 3 Chrome Mox
+1 Elder Gargaroth
+1 Llanowar Visionary
 1 Wooded Foothills
 1 Garruk, Unleashed
 1 Tarmogoyf
@@ -78,11 +80,9 @@
 1 Shifting Ceratops
 1 Ramunap Excavator
 1 Elvish Spirit Guide
-1 Elder Gargaroth
 1 Natural Order
 1 Progenitus
 1 Once Upon a Time
-1 Llanowar Visionary
 1 Thragtusk
 1 Hexdrinker
 1 Deathgorge Scavenger
@@ -112,7 +112,6 @@
 1 Snow-Covered Plains
 1 Snow-Covered Mountain
 1 Goblin Rabblemaster
-1 Seasoned Pyromancer
 1 Thought-Knot Seer
 1 Battlefield Forge
 1 Winota, Joiner of Forces
@@ -120,8 +119,9 @@
 1 Legion Warboss
 1 Inspiring Vantage
 1 Angrath's Marauders
-2 Goblin Rabblemaster
+1 Seasoned Pyromancer
 2 Seasoned Pyromancer
+2 Goblin Rabblemaster
 2 Trinisphere
 2 Winota, Joiner of Forces
 2 Battlefield Forge
@@ -129,8 +129,8 @@
 2 Angrath's Marauders
 2 Thought-Knot Seer
 2 Legion Warboss
-3 Goblin Rabblemaster
 3 Seasoned Pyromancer
+3 Goblin Rabblemaster
 3 Inspiring Vantage
 3 Angrath's Marauders
 3 Legion Warboss
@@ -144,7 +144,6 @@
 4 Chrome Mox
 4 Inspiring Vantage
 4 Angrath's Marauders
-1 Moraug, Fury of Akoum
 1 Punishing Fire
 1 Grove of the Burnwillows
 1 Fiery Confluence
@@ -155,18 +154,19 @@
 1 Deadshot Minotaur
 1 Mountain
 1 Didgeridoo
-2 Moraug, Fury of Akoum
+1 Moraug, Fury of Akoum
 2 Grove of the Burnwillows
 2 Punishing Fire
+2 Moraug, Fury of Akoum
 2 Didgeridoo
 2 Neheb, Dreadhorde Champion
 2 Mountain
 2 Neheb, the Eternal
 2 Sethron, Hurloon General
-3 Moraug, Fury of Akoum
 3 Grove of the Burnwillows
 3 Punishing Fire
 3 Didgeridoo
+3 Moraug, Fury of Akoum
 3 Neheb, the Eternal
 3 Sethron, Hurloon General
 3 Neheb, Dreadhorde Champion
