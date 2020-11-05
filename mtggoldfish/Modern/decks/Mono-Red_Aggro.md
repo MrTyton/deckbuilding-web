@@ -54,7 +54,7 @@
 |                    2|[Castle Embereth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473201)      |                    2|[Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)       |
 |                    2|Spikefield Hazard                                                                               |                     |                                                                                             |
 |                    3|Spikefield Hazard                                                                               |                     |                                                                                             |
+|                    3|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)      |                     |                                                                                             |
 |                    4|Spikefield Hazard                                                                               |                     |                                                                                             |
 |                    4|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)      |                     |                                                                                             |
-|                    3|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)      |                     |                                                                                             |
 

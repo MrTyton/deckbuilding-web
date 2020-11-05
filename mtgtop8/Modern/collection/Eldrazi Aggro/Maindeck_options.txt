@@ -21,9 +21,9 @@
 1 Sea Gate Wreckage
 1 Chromatic Star
 2 Chromatic Star
-3 Ugin, the Ineffable
 3 Ghost Quarter
 3 Chromatic Star
+3 Ugin, the Ineffable
 4 Chromatic Star
 4 Ugin, the Ineffable
 1 Hallowed Fountain
@@ -52,13 +52,13 @@
 2 Flooded Strand
 2 Opt
 2 Serum Visions
-3 Geist of Saint Traft
 3 Adarkar Wastes
 3 Hallowed Fountain
 3 Stoneforge Mystic
 3 Eldrazi Mimic
 3 Mystic Gate
 3 Seachrome Coast
+3 Geist of Saint Traft
 3 Flooded Strand
 3 Opt
 3 Elder Deep-Fiend
@@ -112,24 +112,23 @@
 4 Karplusan Forest
 4 Endless One
 1 Windswept Heath
-1 Stubborn Denial
 1 Containment Priest
 1 Yavimaya Coast
+1 Bonders' Enclave
 1 Engineered Explosives
 1 Path to Exile
+1 Stubborn Denial
 1 Temple Garden
 1 Noble Hierarch
 1 Brushland
 1 Eldrazi Displacer
 1 Breeding Pool
 1 Ancient Stirrings
-1 Bonders' Enclave
 1 Birds of Paradise
 1 Drowner of Hope
 1 Plains
 1 Knight of Autumn
 1 Eldrazi Skyspawner
-2 Stubborn Denial
 2 Yavimaya Coast
 2 Windswept Heath
 2 Eldrazi Displacer
@@ -139,6 +138,7 @@
 2 Eldrazi Skyspawner
 2 Ancient Stirrings
 2 Drowner of Hope
+2 Stubborn Denial
 3 Brushland
 3 Windswept Heath
 3 Eldrazi Displacer

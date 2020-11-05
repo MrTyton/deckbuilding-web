@@ -5,46 +5,46 @@
 1 Opt
 2 Opt
 3 Opt
-1 Spell Snare
 4 Flagstones of Trokair
 4 Remand
+1 Spell Snare
 1 Mountain
 4 Opt
 1 Polluted Delta
-3 Field of Ruin
-4 Island
-5 Island
 1 Snow-Covered Plains
 1 Snow-Covered Island
 2 Snow-Covered Island
+3 Field of Ruin
 1 Mana Leak
 1 Misty Rainforest
 3 Snow-Covered Island
+4 Island
+5 Island
 2 Misty Rainforest
 1 Supreme Verdict
 4 Field of Ruin
 1 Celestial Colonnade
+2 Mana Leak
 1 Terminus
-3 Archmage's Charm
 2 Plains
 1 Logic Knot
-6 Island
-2 Mana Leak
 2 Terminus
 3 Terminus
+3 Archmage's Charm
 1 Sword of Feast and Famine
 1 Batterskull
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+6 Island
 2 Celestial Colonnade
 2 Polluted Delta
 3 Polluted Delta
 4 Snow-Covered Island
 3 Mystic Sanctuary
-1 Sword of Fire and Ice
 5 Snow-Covered Island
+1 Sword of Fire and Ice
 1 Omen of the Sea
 3 Jace, the Mind Sculptor
 1 Glacial Fortress
@@ -52,43 +52,20 @@
 2 Delay
 2 Supreme Verdict
 3 Supreme Verdict
-3 Misty Rainforest
 4 Polluted Delta
 2 Omen of the Sea
 3 Omen of the Sea
+3 Misty Rainforest
 4 Terminus
 4 Misty Rainforest
-3 Delay
-4 Delay
-1 Spreading Seas
-2 Spreading Seas
-3 Spreading Seas
-4 Spreading Seas
-4 Shark Typhoon
-4 Mystic Sanctuary
-1 Mystic Gate
-1 Sea Gate Restoration
 1 Uro, Titan of Nature's Wrath
 1 Breeding Pool
 1 Snow-Covered Forest
 1 Temple Garden
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
-1 Spell Queller
-2 Spell Queller
-1 Timely Reinforcements
-2 Glacial Fortress
-1 Frantic Inventory
-1 Deprive
-2 Frantic Inventory
-3 Frantic Inventory
-4 Force of Negation
-4 Frantic Inventory
-7 Island
-1 Castle Ardenvale
-6 Snow-Covered Island
-1 Snow-Covered Mountain
-1 Shatterskull Smashing
+3 Delay
+4 Delay
 1 Ice-Fang Coatl
 1 Noble Hierarch
 1 Windswept Heath
@@ -101,12 +78,38 @@
 3 Noble Hierarch
 3 Ice-Fang Coatl
 3 Snow-Covered Forest
-3 Spell Queller
 3 Mana Leak
 4 Snow-Covered Forest
-4 Spell Queller
 4 Noble Hierarch
 4 Ice-Fang Coatl
+4 Mystic Sanctuary
+1 Mystic Gate
+1 Spell Queller
+2 Spell Queller
+1 Sea Gate Restoration
+3 Windswept Heath
+4 Windswept Heath
+2 Breeding Pool
+4 Uro, Titan of Nature's Wrath
+1 Timely Reinforcements
+2 Glacial Fortress
+1 Frantic Inventory
+1 Deprive
+2 Frantic Inventory
+3 Frantic Inventory
+4 Force of Negation
+4 Frantic Inventory
+3 Spell Queller
+4 Spell Queller
+1 Castle Ardenvale
+1 Spreading Seas
+2 Spreading Seas
+3 Spreading Seas
+4 Spreading Seas
+4 Shark Typhoon
+6 Snow-Covered Island
+1 Snow-Covered Mountain
+1 Shatterskull Smashing
 2 Spell Snare
 1 Castle Vantress
 1 Entreat the Angels
@@ -116,6 +119,19 @@
 1 Wall of Omens
 2 Wall of Omens
 1 Condemn
+1 Abundant Growth
+1 Confounding Conundrum
+2 Abundant Growth
+2 Confounding Conundrum
+3 Abundant Growth
+3 Breeding Pool
+3 Confounding Conundrum
+3 Birds of Paradise
+4 Abundant Growth
+4 Breeding Pool
+4 Confounding Conundrum
+4 Mana Leak
+4 Birds of Paradise
 1 Leyline of Sanctity
 1 Nahiri, the Harbinger
 1 Search for Azcanta
@@ -123,6 +139,8 @@
 1 Desolate Lighthouse
 2 Search for Azcanta
 1 Dovin's Veto
+1 Oust
+1 Flooded Grove
 1 Shadow of Doubt
 1 Prismatic Vista
 1 Waterlogged Grove
@@ -148,14 +166,9 @@
 1 Silundi Vision
 2 Monastery Mentor
 3 Hallowed Fountain
-3 Windswept Heath
-4 Windswept Heath
 2 Condemn
 3 Counterbalance
 4 Omen of the Sea
 4 Counterbalance
 7 Snow-Covered Island
-1 Oust
-1 Flooded Grove
-2 Breeding Pool
-4 Uro, Titan of Nature's Wrath
+7 Island

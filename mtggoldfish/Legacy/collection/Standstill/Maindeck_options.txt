@@ -29,8 +29,8 @@
 1 Batterskull
 2 Stoneforge Mystic
 4 Prismatic Vista
-1 Replenish
 1 Cast Out
+1 Replenish
 2 Replenish
 2 Cast Out
 3 Cast Out
@@ -39,8 +39,8 @@
 5 Snow-Covered Island
 1 Lay Claim
 2 Lay Claim
-3 Lay Claim
 3 Replenish
+3 Lay Claim
 4 Lay Claim
 3 Teferi, Time Raveler
 4 Cast Out
@@ -73,13 +73,13 @@
 1 Mishra's Factory
 2 Mishra's Factory
 1 The Tabernacle at Pendrell Vale
-1 Forest
-1 Blast Zone
 1 Mox Diamond
 1 Tranquil Thicket
 1 Life from the Loam
 1 Field of the Dead
+1 Forest
 1 Verdant Catacombs
+1 Blast Zone
 2 Mox Diamond
 2 Life from the Loam
 3 Mox Diamond
@@ -88,15 +88,15 @@
 4 Wasteland
 4 Mox Diamond
 1 Uro, Titan of Nature's Wrath
+1 Crop Rotation
 1 Maze of Ith
 1 Dark Depths
 1 Thespian's Stage
 1 Elvish Reclaimer
-1 Crop Rotation
 1 Bojuka Bog
 2 Elvish Reclaimer
-2 Thespian's Stage
 2 Crop Rotation
+2 Thespian's Stage
 2 Tropical Island
 3 Crop Rotation
 4 Crop Rotation
@@ -109,25 +109,25 @@
 1 Ramunap Excavator
 1 Glacial Chasm
 1 Emrakul, the Aeons Torn
+1 Ugin, the Spirit Dragon
+1 Cascading Cataracts
 1 Candelabra of Tawnos
+1 Golos, Tireless Pilgrim
 1 Primeval Titan
 1 Ulamog, the Ceaseless Hunger
-1 Golos, Tireless Pilgrim
-1 Cascading Cataracts
 1 Glimmerpost
 1 Prophetic Prism
 1 Cloudpost
 1 Thought-Knot Seer
 1 Green Sun's Zenith
 1 Eye of Ugin
-1 Ugin, the Spirit Dragon
 1 Cavern of Souls
 1 Prophet of Kruphix
 2 Snow-Covered Forest
 2 Once Upon a Time
-2 Primeval Titan
 2 Dryad of the Ilysian Grove
 2 Pithing Needle
+2 Primeval Titan
 2 Vesuva
 2 Green Sun's Zenith
 2 Cloudpost
@@ -156,14 +156,14 @@
 1 Brazen Borrower
 1 Palace Jailer
 1 Retrofitter Foundry
-1 Counterbalance
-2 Counterbalance
 1 Mountain
 1 Magmatic Sinkhole
 1 Pyroblast
 1 Decree of Justice
 2 Pyroblast
 2 Magmatic Sinkhole
+1 Counterbalance
+2 Counterbalance
 1 Daze
 1 Path to Exile
 2 Daze
@@ -181,8 +181,8 @@
 2 Stifle
 2 Phyrexian Dreadnought
 2 Karn, the Great Creator
-3 Stifle
 3 Mishra's Factory
+3 Stifle
 3 Phyrexian Dreadnought
 4 Stifle
 1 Savannah
@@ -198,11 +198,11 @@
 3 Abrupt Decay
 3 Chalice of the Void
 3 Uro, Titan of Nature's Wrath
-4 Uro, Titan of Nature's Wrath
 4 Abrupt Decay
+4 Uro, Titan of Nature's Wrath
 4 Chalice of the Void
-1 Wooded Foothills
 1 Waterlogged Grove
+1 Wooded Foothills
 1 Riftstone Portal
 1 Rishadan Port
 1 Exploration
@@ -235,16 +235,16 @@
 2 Gilded Drake
 3 Gilded Drake
 3 Street Wraith
+3 Lonely Sandbar
 3 Snow-Covered Plains
 3 Containment Priest
-3 Lonely Sandbar
 3 Astral Slide
 3 Secluded Steppe
 3 Astral Drift
 4 Snow-Covered Plains
 4 Street Wraith
-4 Containment Priest
 4 Lonely Sandbar
+4 Containment Priest
 4 Astral Drift
 4 Gilded Drake
 4 Astral Slide

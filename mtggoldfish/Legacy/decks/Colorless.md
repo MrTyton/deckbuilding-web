@@ -1,7 +1,7 @@
 # Colorless
 
 #### [Export MTGO List](../collection/Colorless/Colorless.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Tomb%0A4%09Astral%20Cornucopia%0A2%09Blast%20Zone%0A4%09City%20of%20Traitors%0A4%09Coretapper%0A3%09Ensnaring%20Bridge%0A4%09Everflowing%20Chalice%0A4%09Grim%20Monolith%0A3%09Inventors'%20Fair%0A4%09Karn,%20Scion%20of%20Urza%0A4%09Karn,%20the%20Great%20Creator%0A2%09Mazemind%20Tome%0A4%09Mox%20Opal%0A4%09Mystic%20Forge%0A1%09Rings%20of%20Brighthearth%0A4%09Surge%20Node%0A4%09Voltaic%20Key%0A1%09Walking%20Ballista&deckside=1%09Ensnaring%20Bridge%0A1%09Grafdigger's%20Cage%0A1%09Liquimetal%20Coating%0A1%09Mycosynth%20Lattice%0A1%09Rings%20of%20Brighthearth%0A1%09Skysovereign,%20Consul%20Flagship%0A1%09Sorcerous%20Spyglass%0A4%09Thought-Knot%20Seer%0A1%09Tormod's%20Crypt%0A1%09Trinisphere%0A1%09Walking%20Ballista%0A1%09Winter%20Orb)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Ancient%20Tomb%0A4%09Astral%20Cornucopia%0A2%09Blast%20Zone%0A4%09City%20of%20Traitors%0A4%09Coretapper%0A3%09Ensnaring%20Bridge%0A4%09Everflowing%20Chalice%0A4%09Grim%20Monolith%0A3%09Inventors'%20Fair%0A4%09Karn,%20Scion%20of%20Urza%0A4%09Karn,%20the%20Great%20Creator%0A2%09Mazemind%20Tome%0A4%09Mox%20Opal%0A4%09Mystic%20Forge%0A1%09Rings%20of%20Brighthearth%0A4%09Surge%20Node%0A4%09Voltaic%20Key%0A1%09Walking%20Ballista&deckside=1%09Basalt%20Monolith%0A1%09Ensnaring%20Bridge%0A1%09Grafdigger's%20Cage%0A1%09Liquimetal%20Coating%0A1%09Mycosynth%20Lattice%0A1%09Rings%20of%20Brighthearth%0A1%09Skysovereign,%20Consul%20Flagship%0A1%09Sorcerous%20Spyglass%0A3%09Thought-Knot%20Seer%0A1%09Tormod's%20Crypt%0A1%09Trinisphere%0A1%09Walking%20Ballista%0A1%09Winter%20Orb)
 # Maindeck
 
 |                                          Artifact (34)                                           |                                        Creature (5)                                         |                                         Land (13)                                          |                                          Planeswalker (8)                                          |
@@ -20,10 +20,11 @@
 
 # Sideboard
 
-|                                              Artifact (10)                                               |                                         Creature (5)                                         |
+|                                              Artifact (11)                                               |                                         Creature (4)                                         |
 |----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|1 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)              |4 [Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)|
-|1 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)            |1 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848) |
+|1 [Basalt Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=599)                 |3 [Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)|
+|1 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)              |1 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848) |
+|1 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)            |                                                                                              |
 |1 [Liquimetal Coating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389578)           |                                                                                              |
 |1 [Mycosynth Lattice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446209)            |                                                                                              |
 |1 [Rings of Brighthearth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140216)        |                                                                                              |
@@ -36,12 +37,12 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                     Maindeck Card                                      |*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
-|--------------------:|----------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------|
-|                    1|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)    |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)|
-|                    2|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)    |                    1|[Basalt Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=599)|
-|                    3|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)   |                    2|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)  |
-|                    3|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)    |                    3|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)  |
-|                    4|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)|                    4|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)  |
-|                    3|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)|                     |                                                                                       |
+|*n*<sup>th</sup> copy|                                     Maindeck Card                                      |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|----------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)    |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)     |
+|                    2|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)    |                    2|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)       |
+|                    3|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)   |                    3|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)       |
+|                    3|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)    |                    4|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)       |
+|                    4|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)|                    4|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)|
+|                    3|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)|                     |                                                                                            |
 

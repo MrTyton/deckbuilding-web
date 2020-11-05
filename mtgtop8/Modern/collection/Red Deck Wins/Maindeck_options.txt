@@ -1,14 +1,3 @@
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-13 Mountain
-1 Soul-Scar Mage
-1 Light Up the Stage
-2 Soul-Scar Mage
-2 Light Up the Stage
 3 Light Up the Stage
 3 Soul-Scar Mage
 4 Soul-Scar Mage
@@ -32,30 +21,42 @@
 4 Bonecrusher Giant
 4 Seasoned Pyromancer
 15 Mountain
+1 Skullcrack
+2 Skullcrack
+4 Sunbaked Canyon
+1 Arid Mesa
+2 Arid Mesa
+1 Bloodstained Mire
+2 Bloodstained Mire
+1 Inspiring Vantage
+2 Inspiring Vantage
+3 Inspiring Vantage
+4 Inspiring Vantage
 3 Skewer the Critics
-2 Fiery Islet
+4 Searing Blaze
 4 Firebolt
 3 Flame Slash
 4 Flame Slash
 16 Mountain
-2 Arid Mesa
-4 Skewer the Critics
-3 Lightning Helix
+2 Fiery Islet
 17 Mountain
+3 Lightning Helix
 1 Burst Lightning
 3 Fiery Islet
+4 Skewer the Critics
+1 Snow-Covered Mountain
 18 Mountain
-1 Scalding Tarn
-2 Scalding Tarn
+3 Wooded Foothills
+3 Bloodstained Mire
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
 1 Blistercoil Weird
 2 Blistercoil Weird
 3 Blistercoil Weird
 4 Blistercoil Weird
 1 Forgotten Cave
 2 Forgotten Cave
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
+4 Wooded Foothills
 1 Crash Through
 1 Manamorphose
 1 Kiln Fiend
@@ -67,8 +68,7 @@
 3 Manamorphose
 4 Crash Through
 4 Manamorphose
-4 Lightning Helix
-3 Bloodstained Mire
+1 Stomping Ground
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
@@ -85,25 +85,29 @@
 1 Bedlam Reveler
 2 Bedlam Reveler
 3 Bedlam Reveler
-3 Scalding Tarn
-4 Scalding Tarn
+1 Atarka's Command
+2 Stomping Ground
+2 Atarka's Command
+3 Atarka's Command
+4 Atarka's Command
+1 Scalding Tarn
+2 Scalding Tarn
+4 Lightning Helix
 2 Burst Lightning
 4 Kiln Fiend
 3 Skullcrack
-1 Stomping Ground
-3 Wooded Foothills
 3 Arid Mesa
 4 Bloodstained Mire
 4 Arid Mesa
 1 Shard Volley
 2 Shard Volley
-1 Roiling Vortex
-2 Roiling Vortex
-1 Wild Slash
 1 Mutagenic Growth
-2 Wild Slash
+1 Wild Slash
 2 Mutagenic Growth
+2 Wild Slash
+3 Scalding Tarn
 4 Skullcrack
+4 Scalding Tarn
 1 Magus of the Moon
 2 Magus of the Moon
 3 Forgotten Cave
@@ -113,15 +117,15 @@
 1 Chandra's Incinerator
 2 Seal of Fire
 2 Chandra's Incinerator
-3 Seal of Fire
 3 Chandra's Incinerator
+3 Seal of Fire
 4 Seal of Fire
 4 Chandra's Incinerator
 1 Scourge of the Skyclaves
 1 Blackcleave Cliffs
 1 Fatal Push
-1 Mishra's Bauble
 1 Cling to Dust
+1 Mishra's Bauble
 1 Bump in the Night
 1 Blood Crypt
 2 Scourge of the Skyclaves
@@ -137,9 +141,3 @@
 4 Scourge of the Skyclaves
 4 Mishra's Bauble
 4 Bump in the Night
-1 Atarka's Command
-2 Stomping Ground
-2 Atarka's Command
-3 Atarka's Command
-4 Wooded Foothills
-4 Atarka's Command

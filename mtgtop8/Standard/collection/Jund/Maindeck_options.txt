@@ -1,15 +1,20 @@
-4 Temple of Malady
-3 Bonecrusher Giant
-4 Bonecrusher Giant
-1 Scavenging Ooze
-2 Bloodchief's Thirst
+2 Witch's Oven
+2 Lotus Cobra
+2 Woe Strider
+2 Claim the Firstborn
+3 Woe Strider
+3 Claim the Firstborn
+4 Woe Strider
+4 Claim the Firstborn
+4 Korvold, Fae-Cursed King
+4 Wicked Wolf
+3 Temple of Malice
+6 Forest
+3 Bloodchief's Thirst
 1 Heartless Act
 2 Heartless Act
 1 Elder Gargaroth
-2 Temple of Malice
-2 Scavenging Ooze
 1 The Great Henge
-1 Garruk, Cursed Huntsman
 1 Lovestruck Beast
 1 Edgewall Innkeeper
 1 Foulmire Knight
@@ -22,13 +27,13 @@
 4 Lovestruck Beast
 4 Edgewall Innkeeper
 4 Foulmire Knight
-1 Kroxa, Titan of Death's Hunger
+2 Kroxa, Titan of Death's Hunger
+3 Kroxa, Titan of Death's Hunger
 1 Klothys, God of Destiny
-3 Temple of Malice
 4 Temple of Malice
 1 Chevill, Bane of Monsters
 2 Chevill, Bane of Monsters
-3 Bloodchief's Thirst
+1 Nissa of Shadowed Boughs
 4 Swamp
 1 Terror of the Peaks
 1 Shredded Sails
@@ -42,8 +47,6 @@
 2 Shredded Sails
 2 Inscription of Ruin
 2 Klothys, God of Destiny
-2 Kroxa, Titan of Death's Hunger
-3 Kroxa, Titan of Death's Hunger
 3 Heartless Act
 3 Mire Triton
 4 Kroxa, Titan of Death's Hunger
@@ -53,8 +56,7 @@
 1 Vivien, Monsters' Advocate
 3 Witch's Oven
 4 Witch's Oven
-4 Korvold, Fae-Cursed King
-4 Wicked Wolf
+1 Castle Locthwain
 2 Agadeem's Awakening
 1 Beanstalk Giant
 1 Polukranos, Unchained
@@ -64,21 +66,28 @@
 2 Eliminate
 1 Jungle Hollow
 1 Llanowar Visionary
-1 Bloodfell Caves
 1 Fierce Witchstalker
+1 Bloodfell Caves
 1 Rugged Highlands
 2 Jungle Hollow
 2 Llanowar Visionary
-2 Bloodfell Caves
 2 Fierce Witchstalker
+2 Bloodfell Caves
 2 Rugged Highlands
 3 Llanowar Visionary
 3 Rugged Highlands
 4 Rugged Highlands
 2 Vivien, Monsters' Advocate
+3 Murderous Rider
+1 Radha, Heart of Keld
+2 Radha, Heart of Keld
+2 Elder Gargaroth
+3 Agonizing Remorse
+3 Elder Gargaroth
+4 Agonizing Remorse
 3 Beanstalk Giant
-1 Boneyard Lurker
 1 Ugin, the Spirit Dragon
+1 Boneyard Lurker
 1 Cultivate
 1 Scorching Dragonfire
 1 Migratory Greathorn
@@ -92,22 +101,19 @@
 4 Migratory Greathorn
 4 Jungle Hollow
 8 Forest
-3 Murderous Rider
-1 Radha, Heart of Keld
-2 Radha, Heart of Keld
-2 Elder Gargaroth
-3 Agonizing Remorse
-3 Elder Gargaroth
-4 Agonizing Remorse
+2 Nissa of Shadowed Boughs
 1 Tangled Florahedron
 1 Embercleave
 1 Feasting Troll King
-4 Evolving Wilds
 1 Hagra Mauling
-1 Nissa of Shadowed Boughs
 1 Turntimber Symbiosis
+4 Evolving Wilds
 1 Roil Eruption
 2 Roil Eruption
+1 Garruk, Unleashed
+1 Extinction Event
+2 Garruk, Unleashed
+2 Extinction Event
 1 Kazuul's Fury
 1 Thrashing Brontodon
 3 Agadeem's Awakening
@@ -133,8 +139,8 @@
 4 Scavenging Ooze
 1 Arboreal Grazer
 1 Liliana, Dreadhorde General
-1 Paradise Druid
 1 Chandra, Awakened Inferno
+1 Paradise Druid
 1 Ob Nixilis's Cruelty
 2 Arboreal Grazer
 2 Paradise Druid
@@ -149,15 +155,14 @@
 1 Phylath, World Sculptor
 1 Questing Beast
 1 Garruk's Harbinger
-2 Nissa of Shadowed Boughs
 2 Wilt
 2 Tangled Florahedron
 2 Questing Beast
 2 Garruk's Harbinger
+3 Radha, Heart of Keld
 3 Questing Beast
 3 Tangled Florahedron
 3 Garruk's Harbinger
-3 Radha, Heart of Keld
 4 Bloodchief's Thirst
 4 Tangled Florahedron
 4 Garruk's Harbinger
@@ -167,6 +172,9 @@
 2 Gemrazer
 3 Kazandu Mammoth
 4 Kazandu Mammoth
+1 Shatterskull Smashing
+3 Vivien, Monsters' Advocate
+4 Beanstalk Giant
 2 Garruk, Cursed Huntsman
 4 Murderous Rider
 1 Golden Egg
@@ -188,11 +196,7 @@
 3 Blood Aspirant
 3 Mountain
 4 Golden Egg
+4 Giant Opportunity
 4 Llanowar Visionary
 4 Savvy Hunter
-4 Giant Opportunity
 4 Curious Pair
-1 Shatterskull Smashing
-1 Castle Locthwain
-3 Vivien, Monsters' Advocate
-4 Beanstalk Giant
