@@ -25,12 +25,12 @@
 3 Bolt Hound
 3 Kargan Intimidator
 4 Kargan Intimidator
-1 Roil Eruption
 1 Slaying Fire
-2 Roil Eruption
+1 Roil Eruption
 2 Slaying Fire
-3 Roil Eruption
+2 Roil Eruption
 3 Slaying Fire
+3 Roil Eruption
 4 Slaying Fire
 4 Fireblade Charger
 4 Roil Eruption
@@ -52,10 +52,6 @@
 2 Relic Robber
 3 Relic Robber
 1 Dwarven Mine
-1 Fabled Passage
-2 Fabled Passage
-3 Fabled Passage
-4 Fabled Passage
 4 Scorching Dragonfire
 1 Ox of Agonas
 1 Heraldic Banner
@@ -79,10 +75,14 @@
 3 Heartfire Immolator
 4 Goblin Arsonist
 4 Heartfire Immolator
+1 Fabled Passage
+2 Fabled Passage
+3 Fabled Passage
+4 Fabled Passage
 1 Forbidden Friendship
 2 Kazuul's Fury
 2 Forbidden Friendship
 3 Kazuul's Fury
 4 Kazuul's Fury
-4 Ardent Electromancer
 20 Mountain
+4 Ardent Electromancer

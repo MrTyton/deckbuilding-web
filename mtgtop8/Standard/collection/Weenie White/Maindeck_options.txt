@@ -14,8 +14,8 @@
 1 Heliod, Sun-Crowned
 2 Linden, the Steadfast Queen
 2 Lurrus of the Dream-Den
-2 Daxos, Blessed by the Sun
 2 Speaker of the Heavens
+2 Daxos, Blessed by the Sun
 2 Heliod, Sun-Crowned
 3 Linden, the Steadfast Queen
 3 Daxos, Blessed by the Sun
@@ -51,10 +51,16 @@
 1 Pacifism
 2 Pacifism
 3 Pacifism
+1 Sentinel's Eyes
+1 Charming Prince
+1 Luminous Broodmoth
+2 Sentinel's Eyes
+3 Lurrus of the Dream-Den
+4 Daxos, Blessed by the Sun
 1 Crystalline Giant
 1 Gingerbrute
-1 Dub
 1 Banishing Light
+1 Dub
 2 Crystalline Giant
 2 Gingerbrute
 3 Crystalline Giant
@@ -62,12 +68,6 @@
 4 All That Glitters
 4 Crystalline Giant
 4 Gingerbrute
-1 Sentinel's Eyes
-1 Charming Prince
-1 Luminous Broodmoth
-2 Sentinel's Eyes
-3 Lurrus of the Dream-Den
-4 Daxos, Blessed by the Sun
 1 Elspeth, Sun's Nemesis
 2 Kabira Takedown
 3 Emeria's Call
@@ -78,10 +78,10 @@
 1 Drannith Magistrate
 1 Elspeth Conquers Death
 2 Crawling Barrens
-2 Realm-Cloaked Giant
 2 Mazemind Tome
 2 Drannith Magistrate
 2 Baneslayer Angel
+2 Realm-Cloaked Giant
 2 Elspeth Conquers Death
 3 Drannith Magistrate
 3 Elspeth Conquers Death
@@ -93,7 +93,7 @@
 1 Basri Ket
 1 Light of Hope
 1 Skyclave Cleric
-2 Light of Hope
 2 Basri Ket
-4 Linden, the Steadfast Queen
+2 Light of Hope
 4 Glass Casket
+4 Linden, the Steadfast Queen

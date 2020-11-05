@@ -86,8 +86,8 @@
 |                    2|[Chandra's Incinerator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485459)|                     |                                                                                                     |
 |                    2|[Seal of Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185817)         |                     |                                                                                                     |
 |                    3|[Seal of Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185817)         |                     |                                                                                                     |
-|                    3|[Thunderous Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=239985)     |                     |                                                                                                     |
 |                    3|[Chandra's Incinerator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485459)|                     |                                                                                                     |
+|                    3|[Thunderous Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=239985)     |                     |                                                                                                     |
 |                    4|[Chandra's Incinerator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485459)|                     |                                                                                                     |
 |                    4|[Seal of Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185817)         |                     |                                                                                                     |
 

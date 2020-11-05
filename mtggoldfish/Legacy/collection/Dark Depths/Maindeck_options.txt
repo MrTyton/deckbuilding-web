@@ -51,26 +51,25 @@
 1 Murderous Cut
 1 Maze of Ith
 1 Intuition
-1 Celestial Colonnade
 1 Misdirection
+1 Celestial Colonnade
 1 Counterspell
 1 Drowned Catacomb
 1 Underground Sea
-1 Portent
 1 Glacial Fortress
-1 Baleful Strix
+1 Portent
 1 Elesh Norn, Grand Cenobite
+1 Iona, Shield of Emeria
+1 Baleful Strix
 1 Jin-Gitaxias, Core Augur
 1 Toxic Deluge
 1 Torpor Orb
 1 Enlightened Tutor
-1 Ensnaring Bridge
 1 Pact of Negation
 1 Unburial Rites
 1 Inkwell Leviathan
 1 Supreme Verdict
 1 Jace, the Mind Sculptor
-1 Iona, Shield of Emeria
 1 Teferi, Time Raveler
 1 Serum Visions
 1 Mystic Sanctuary
@@ -81,6 +80,7 @@
 1 Gifts Ungiven
 1 Emrakul, the Aeons Torn
 1 The Tabernacle at Pendrell Vale
+1 Ensnaring Bridge
 1 Swords to Plowshares
 1 Ponder
 1 Rest in Peace
@@ -126,8 +126,8 @@
 2 Scrubland
 2 Baleful Strix
 2 Pact of Negation
-2 Flusterstorm
 2 Enlightened Tutor
+2 Flusterstorm
 2 Toxic Deluge
 2 Ponder
 2 Preordain
@@ -172,16 +172,16 @@
 3 Polluted Delta
 3 Arid Mesa
 3 Impulse
-3 Mystic Sanctuary
 3 Swords to Plowshares
+3 Mystic Sanctuary
 3 Tundra
 3 Scrubland
-3 Counterspell
+3 Creeping Tar Pit
 3 Intuition
+3 Counterspell
 3 Snow-Covered Swamp
 3 Spell Pierce
 3 Celestial Colonnade
-3 Ancient Tomb
 3 Personal Tutor
 3 Pact of Negation
 3 Flusterstorm
@@ -195,11 +195,11 @@
 3 Portent
 3 Snow-Covered Island
 3 Ad Nauseam
+3 Ancient Tomb
 3 Show and Tell
 3 Underground Sea
 3 Terminus
 3 Ponder
-3 Creeping Tar Pit
 3 Preordain
 3 Academy Rector
 3 Cabal Therapy
@@ -268,7 +268,6 @@
 4 Mox Diamond
 1 Tendrils of Agony
 1 Lion's Eye Diamond
-1 Karn, the Great Creator
 1 Leyline of the Void
 1 Infernal Tutor
 1 Lake of the Dead
@@ -276,13 +275,14 @@
 1 Plunge into Darkness
 1 Ill-Gotten Gains
 1 Echo of Eons
+1 Karn, the Great Creator
 2 Swamp
 2 Helm of Obedience
-2 Karn, the Great Creator
 2 Leyline of the Void
 2 Infernal Tutor
 2 Ill-Gotten Gains
 2 Lion's Eye Diamond
+2 Karn, the Great Creator
 3 Leyline of the Void
 3 Infernal Tutor
 3 Swamp

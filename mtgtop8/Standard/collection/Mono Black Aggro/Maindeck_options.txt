@@ -49,8 +49,8 @@
 4 Gutterbones
 4 Village Rites
 2 Hagra Mauling
-1 Mire's Grasp
 1 Hateful Eidolon
+1 Mire's Grasp
 1 Dead Weight
 2 Hateful Eidolon
 2 Dead Weight
@@ -115,8 +115,8 @@
 2 Grasp of Darkness
 3 Grasp of Darkness
 4 Grasp of Darkness
-1 Witch's Vengeance
 1 Scourge of the Skyclaves
+1 Witch's Vengeance
 2 Elspeth's Nightmare
 3 Liliana, Waker of the Dead
 1 Agonizing Remorse
@@ -138,44 +138,6 @@
 4 Rankle, Master of Pranks
 4 Heartless Act
 4 Murderous Rider
-1 Pelakka Predation
-1 Order of Midnight
-1 Pestilent Haze
-1 Soul-Guide Lantern
-2 Pelakka Predation
-2 Soul-Guide Lantern
-2 Order of Midnight
-2 Pestilent Haze
-3 Order of Midnight
-3 Pelakka Predation
-3 Mogis's Favor
-4 Order of Midnight
-1 Deathless Knight
-1 Jungle Hollow
-1 The Great Henge
-1 Savvy Hunter
-1 Witch's Oven
-1 Silversmote Ghoul
-1 Garruk, Cursed Huntsman
-1 Evolving Wilds
-1 Forest
-1 Unexpected Fangs
-2 Witch's Oven
-2 Jungle Hollow
-2 Savvy Hunter
-2 Silversmote Ghoul
-2 Forest
-2 Deathless Knight
-2 Evolving Wilds
-3 Jungle Hollow
-3 Savvy Hunter
-3 Silversmote Ghoul
-3 Deathless Knight
-3 Forest
-4 Jungle Hollow
-4 Savvy Hunter
-4 Silversmote Ghoul
-4 Forest
 1 Stonecoil Serpent
 1 Eliminate
 2 Stonecoil Serpent
@@ -184,6 +146,18 @@
 4 Stonecoil Serpent
 4 Blacklance Paragon
 4 Demonic Embrace
+1 Pestilent Haze
+1 Pelakka Predation
+1 Order of Midnight
+1 Soul-Guide Lantern
+2 Pelakka Predation
+2 Pestilent Haze
+2 Soul-Guide Lantern
+2 Order of Midnight
+3 Order of Midnight
+3 Pelakka Predation
+3 Mogis's Favor
+4 Order of Midnight
 1 Noxious Grasp
 2 Field of Ruin
 2 Noxious Grasp
@@ -213,10 +187,36 @@
 3 Tymaret Calls the Dead
 4 Aphemia, the Cacophony
 4 Tymaret Calls the Dead
+1 Deathless Knight
+1 Jungle Hollow
+1 The Great Henge
+1 Savvy Hunter
+1 Witch's Oven
+1 Garruk, Cursed Huntsman
+1 Evolving Wilds
+1 Forest
+1 Unexpected Fangs
+1 Silversmote Ghoul
+2 Witch's Oven
+2 Jungle Hollow
+2 Savvy Hunter
+2 Forest
+2 Deathless Knight
+2 Evolving Wilds
+2 Silversmote Ghoul
+3 Jungle Hollow
+3 Savvy Hunter
+3 Deathless Knight
+3 Forest
+3 Silversmote Ghoul
+4 Jungle Hollow
+4 Savvy Hunter
+4 Forest
+4 Silversmote Ghoul
 1 Foulmire Knight
+1 Pharika's Spawn
 1 Mindwrack Harpy
 1 Underworld Dreams
-1 Pharika's Spawn
 2 Foulmire Knight
 2 Underworld Dreams
 2 Pharika's Spawn

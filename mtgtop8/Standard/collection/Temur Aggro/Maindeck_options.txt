@@ -1,87 +1,10 @@
-3 Stomping Ground
-3 Steam Vents
-4 Breeding Pool
-4 Stomping Ground
-4 Steam Vents
-1 Ugin, the Spirit Dragon
-2 Ugin, the Spirit Dragon
-1 Risen Reef
-1 Leafkin Druid
-1 Omnath, Locus of the Roil
-1 Genesis Ultimatum
-1 Cavalier of Thorns
-2 Temple of Epiphany
-2 Omnath, Locus of the Roil
-2 Hydroid Krasis
-2 Cavalier of Thorns
-2 Leafkin Druid
-2 Risen Reef
-2 Genesis Ultimatum
-3 Ugin, the Spirit Dragon
-3 Hydroid Krasis
-3 Cavalier of Thorns
-3 Leafkin Druid
-3 Risen Reef
-3 Omnath, Locus of the Roil
-3 Genesis Ultimatum
-3 Uro, Titan of Nature's Wrath
-4 Leafkin Druid
-4 Genesis Ultimatum
-4 Risen Reef
-4 Fabled Passage
-1 Vivien, Monsters' Advocate
-1 Scavenging Ooze
-1 Bala Ged Recovery
-2 Bala Ged Recovery
-4 Island
-1 Into the Roil
-2 Into the Roil
-1 Garruk, Unleashed
-1 Garruk's Harbinger
-1 Riverglide Pathway
-2 Radha, Heart of Keld
-1 Mystical Dispute
-2 Mystical Dispute
-1 Cultivate
-1 Arboreal Grazer
-2 Temple of Abandon
-2 Cultivate
-2 Elder Gargaroth
-2 Arboreal Grazer
-3 Temple of Mystery
-3 Cultivate
-3 Arboreal Grazer
-3 Mystical Dispute
-4 Arboreal Grazer
-4 Uro, Titan of Nature's Wrath
-4 Temple of Mystery
-4 Ugin, the Spirit Dragon
-4 Cultivate
-4 Cavalier of Thorns
-4 Omnath, Locus of the Roil
-1 Thassa, Deep-Dwelling
-1 Scorch Spitter
-1 Healer of the Glade
-1 Lightning Stormkin
-1 Cloudkin Seer
-2 Thassa, Deep-Dwelling
-2 Scorch Spitter
-2 Cloudkin Seer
-2 Healer of the Glade
-2 Lightning Stormkin
-3 Thassa, Deep-Dwelling
-3 Lightning Stormkin
-3 Cloudkin Seer
-3 Scorch Spitter
-3 Healer of the Glade
-4 Healer of the Glade
-4 Cloudkin Seer
-4 Mountain
-4 Scorch Spitter
+1 Uro, Titan of Nature's Wrath
 1 Kazandu Mammoth
 1 Scorching Dragonfire
-2 Unsubstantiate
 2 Scorching Dragonfire
+2 Unsubstantiate
+4 Fabled Passage
+4 Island
 1 Sublime Epiphany
 1 Castle Vantress
 5 Forest
@@ -93,16 +16,18 @@
 1 Zagoth Triome
 1 Gilded Goose
 1 Brokkos, Apex of Forever
-1 Tuktuk Rubblefort
+1 Ugin, the Spirit Dragon
+1 Pollywog Symbiote
 1 Gemrazer
 1 Castle Garenbrig
 1 Thorn Mammoth
-1 Pollywog Symbiote
+1 Tuktuk Rubblefort
 1 Pouncing Shoreshark
 1 Boneyard Lurker
 1 Migratory Greathorn
 1 Auspicious Starrix
 2 Terror of the Peaks
+2 Ugin, the Spirit Dragon
 2 Gilded Goose
 2 Ilysian Caryatid
 2 Lotus Cobra
@@ -126,6 +51,9 @@
 8 Forest
 3 Tangled Florahedron
 4 Spikefield Hazard
+1 Breeding Pool
+1 Hydroid Krasis
+1 Stomping Ground
 1 Aether Gust
 1 Whirlwind Denial
 1 Nightpack Ambusher
@@ -133,50 +61,63 @@
 1 Sinister Sabotage
 1 Quench
 1 Frilled Mystic
+1 Mystical Dispute
+1 Steam Vents
 1 Paradise Druid
+2 Breeding Pool
 2 Nightpack Ambusher
-2 Whirlwind Denial
+2 Uro, Titan of Nature's Wrath
 2 Castle Vantress
+2 Whirlwind Denial
+2 Mystical Dispute
 2 Aether Gust
+2 Stomping Ground
 2 Paradise Druid
+2 Steam Vents
+2 Frilled Mystic
 2 Nissa, Who Shakes the World
 2 Sinister Sabotage
-2 Frilled Mystic
 2 Quench
+3 Breeding Pool
+3 Stomping Ground
 3 Aether Gust
 3 Nightpack Ambusher
-3 Quench
 3 Frilled Mystic
+3 Quench
+3 Steam Vents
+4 Breeding Pool
+4 Stomping Ground
+4 Steam Vents
 4 Quench
 4 Nightpack Ambusher
 1 Thornwood Falls
 1 Teferi, Master of Time
 1 The Royal Scions
 1 Roost of Drakes
-1 Cragplate Baloth
 1 Jace, Mirror Mage
+1 Cragplate Baloth
 1 Bubble Snare
 1 Cinderclasm
 1 Negate
 1 Roil Eruption
 1 Gnarlid Colony
+1 Swiftwater Cliffs
 1 Vine Gecko
 1 Reclaim the Wastes
 1 Lullmage's Familiar
 1 Murasa Sproutling
-1 Swiftwater Cliffs
 2 Thornwood Falls
 2 Roost of Drakes
 2 Bubble Snare
 2 Negate
 2 Roil Eruption
+2 Swiftwater Cliffs
 2 Gnarlid Colony
 2 Vine Gecko
 2 Murasa Sproutling
 2 Lullmage's Familiar
-2 Swiftwater Cliffs
-3 Roil Eruption
 3 Thornwood Falls
+3 Roil Eruption
 3 Roost of Drakes
 3 Negate
 3 Bubble Snare

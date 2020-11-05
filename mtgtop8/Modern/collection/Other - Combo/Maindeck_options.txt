@@ -1,29 +1,29 @@
 2 Sword of the Meek
 1 Vengevine
-1 Creeping Chill
-1 Narcomoeba
 1 Agadeem's Awakening
+1 Narcomoeba
 1 Phantasmagorian
 1 Balustrade Spy
 1 Salvage Titan
+1 Creeping Chill
 1 Undercity Informer
 2 Vengevine
-2 Narcomoeba
-2 Creeping Chill
 2 Agadeem's Awakening
+2 Creeping Chill
+2 Narcomoeba
 2 Undercity Informer
 2 Balustrade Spy
-3 Creeping Chill
 3 Vengevine
 3 Undercity Informer
 3 Sword of the Meek
 3 Balustrade Spy
 3 Agadeem's Awakening
+3 Creeping Chill
 4 Vengevine
-4 Creeping Chill
 4 Undercity Informer
 4 Balustrade Spy
 4 Agadeem's Awakening
+4 Creeping Chill
 2 Tangled Florahedron
 1 Pact of Negation
 3 Emeria's Call
@@ -60,8 +60,8 @@
 2 Watery Grave
 1 Remand
 1 River of Tears
-1 Fatal Push
 1 Murderous Cut
+1 Fatal Push
 1 Inquisition of Kozilek
 1 Inverter of Truth
 2 Remand
@@ -75,8 +75,8 @@
 3 Jace, Wielder of Mysteries
 3 River of Tears
 3 Inverter of Truth
-4 Inverter of Truth
 4 Remand
+4 Inverter of Truth
 3 Watery Grave
 1 Force of Negation
 2 Force of Negation
@@ -126,10 +126,10 @@
 3 Urborg, Tomb of Yawgmoth
 3 Preordain
 3 Chrome Mox
-3 Force of Negation
 3 Vampire Hexmage
 3 Thopter Foundry
 3 Dark Depths
+3 Force of Negation
 3 Gitaxian Probe
 4 Ponder
 4 Dark Confidant
@@ -153,9 +153,9 @@
 4 Pact of Negation
 1 Sunken Ruins
 1 Snapcaster Mage
+1 Tasigur, the Golden Fang
 1 Vendilion Clique
 1 Cryptic Command
-1 Tasigur, the Golden Fang
 2 Snapcaster Mage
 3 Island
 3 Shelldock Isle
@@ -182,11 +182,11 @@
 4 Thassa's Oracle
 4 Emeria's Call
 1 Silundi Vision
+1 Jwari Disruption
 1 Disrupting Shoal
 1 Talisman of Progress
 1 Teferi, Hero of Dominaria
 1 Jace, the Mind Sculptor
-1 Jwari Disruption
 1 Teferi, Time Raveler
 1 Skyclave Cleric
 1 Beyeen Veil
@@ -213,25 +213,25 @@
 3 Path to Exile
 3 Selective Memory
 3 Silundi Vision
-4 Teferi, Time Raveler
 4 Disrupting Shoal
 4 Jwari Disruption
 4 Talisman of Progress
+4 Teferi, Time Raveler
 4 Selective Memory
 4 Silundi Vision
 1 Waterlogged Grove
 1 Karn, the Great Creator
-1 Wooded Foothills
 1 Aether Hub
 1 Emrakul, the Aeons Torn
 1 Through the Breach
-1 Wrenn and Six
 1 Steam Vents
 1 Breeding Pool
+1 Wrenn and Six
 1 Lightning Bolt
 1 Attune with Aether
 1 Uro, Titan of Nature's Wrath
 1 Mountain
+1 Wooded Foothills
 1 Woodweaver's Puzzleknot
 1 Misty Rainforest
 1 Aetherworks Marvel
@@ -243,8 +243,8 @@
 2 Karn, the Great Creator
 2 Forest
 2 Aether Hub
-2 Emrakul, the Aeons Torn
 2 Through the Breach
+2 Emrakul, the Aeons Torn
 2 Wooded Foothills
 2 Misty Rainforest
 2 Whirler Virtuoso
@@ -257,9 +257,10 @@
 2 Attune with Aether
 2 Wrenn and Six
 3 Karn, the Great Creator
-3 Emrakul, the Aeons Torn
 3 Through the Breach
+3 Emrakul, the Aeons Torn
 3 Wooded Foothills
+3 Forest
 3 Wrenn and Six
 3 Lightning Bolt
 3 Whirler Virtuoso
@@ -267,7 +268,6 @@
 3 Woodweaver's Puzzleknot
 3 Misty Rainforest
 3 Aetherworks Marvel
-3 Forest
 3 Attune with Aether
 3 Aether Hub
 3 Harnessed Lightning
@@ -279,8 +279,8 @@
 4 Rogue Refiner
 4 Attune with Aether
 4 Aether Hub
-1 Castle Vantress
 1 Creeping Tar Pit
+1 Castle Vantress
 1 Eliminate
 1 Leveler
 1 Logic Knot

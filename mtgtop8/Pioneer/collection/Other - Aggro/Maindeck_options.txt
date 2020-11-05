@@ -162,8 +162,8 @@
 3 Hallowed Fountain
 3 Teferi, Time Raveler
 3 Spell Queller
-4 Teferi, Time Raveler
 4 Hallowed Fountain
+4 Teferi, Time Raveler
 4 Spell Queller
 3 Island
 4 Island
@@ -217,9 +217,9 @@
 3 Charming Prince
 3 Skyclave Apparition
 3 Militia Bugler
+4 Skyclave Apparition
 4 Branchloft Pathway
 4 Glasspool Mimic
-4 Skyclave Apparition
 4 Charming Prince
 4 Militia Bugler
 1 Bonecrusher Giant
@@ -231,10 +231,10 @@
 3 Stomping Ground
 4 Bonecrusher Giant
 1 Ketria Triome
-2 Ketria Triome
 2 Breeding Pool
-3 Ketria Triome
+2 Ketria Triome
 3 Breeding Pool
+3 Ketria Triome
 4 Ketria Triome
 1 Thassa's Oracle
 1 Stonecoil Serpent
@@ -291,8 +291,8 @@
 1 Fierce Empath
 1 Yavimaya Coast
 1 Arboreal Grazer
-1 Cavalier of Thorns
 1 World Breaker
+1 Cavalier of Thorns
 1 Llanowar Visionary
 1 Sanctum of Ugin
 1 Castle Garenbrig
@@ -330,18 +330,18 @@
 4 Hinterland Harbor
 4 Elder Deep-Fiend
 1 Unclaimed Territory
+1 Archpriest of Iona
 1 Rogue Refiner
 1 Bloodsoaked Champion
-1 Archpriest of Iona
 1 Acquisitions Expert
 1 Hamlet Captain
 1 Gust Walker
 2 Unclaimed Territory
+2 Archpriest of Iona
 2 Rogue Refiner
 2 Acquisitions Expert
 2 Bloodsoaked Champion
 2 Gust Walker
-2 Archpriest of Iona
 2 Hamlet Captain
 3 Mana Confluence
 3 Unclaimed Territory
@@ -394,18 +394,18 @@
 4 Stomping Ground
 1 Watcher of the Spheres
 1 Azorius Charm
-1 Archangel Avacyn
 1 Irrigated Farmland
 1 Glacial Fortress
+1 Archangel Avacyn
 1 Emeria's Call
 1 Lofty Denial
 1 Winged Words
 1 Selfless Spirit
 1 Rattlechains
 2 Watcher of the Spheres
-2 Azorius Charm
-2 Irrigated Farmland
 2 Glacial Fortress
+2 Irrigated Farmland
+2 Azorius Charm
 2 Archangel Avacyn
 2 Emeria's Call
 2 Winged Words
@@ -414,8 +414,8 @@
 2 Rattlechains
 3 Watcher of the Spheres
 3 Azorius Charm
-3 Irrigated Farmland
 3 Glacial Fortress
+3 Irrigated Farmland
 3 Archangel Avacyn
 3 Rattlechains
 3 Lofty Denial
@@ -428,25 +428,25 @@
 5 Island
 6 Island
 7 Island
+1 Lazotep Reaver
 1 Foulmire Knight
 1 Wayward Servant
-1 Dark Salvation
 1 Cryptbreaker
-1 Lazotep Reaver
-1 Diregraf Colossus
+1 Dark Salvation
 1 Corpse Knight
 1 Stitcher's Supplier
 1 Liliana, Untouched by Death
 1 Isolated Chapel
 1 Rally the Ancestors
+1 Diregraf Colossus
 1 Necrotic Wound
 1 Slitherhead
 2 Isolated Chapel
+2 Lazotep Reaver
 2 Foulmire Knight
 2 Wayward Servant
-2 Dark Salvation
 2 Cryptbreaker
-2 Lazotep Reaver
+2 Dark Salvation
 2 Diregraf Colossus
 2 Liliana, Untouched by Death
 2 Slitherhead
@@ -455,20 +455,20 @@
 2 Stitcher's Supplier
 2 Rally the Ancestors
 3 Isolated Chapel
-3 Wayward Servant
-3 Cryptbreaker
-3 Dark Salvation
 3 Lazotep Reaver
+3 Wayward Servant
 3 Corpse Knight
+3 Cryptbreaker
 3 Liliana, Untouched by Death
 3 Castle Locthwain
 3 Stitcher's Supplier
 3 Rally the Ancestors
 3 Slitherhead
+3 Dark Salvation
 4 Isolated Chapel
-4 Dark Salvation
 4 Cryptbreaker
 4 Stitcher's Supplier
 4 Wayward Servant
+4 Dark Salvation
 4 Rally the Ancestors
 4 Corpse Knight

@@ -35,30 +35,30 @@
 1 Dreadhorde Arcanist
 1 Daze
 1 Lightning Bolt
-1 Force of Will
 1 Force of Negation
 1 Ponder
 1 Ox of Agonas
+1 Force of Will
 2 Young Pyromancer
 2 Dreadhorde Arcanist
 2 Preordain
 2 Volcanic Island
 2 Daze
 2 Lightning Bolt
-2 Force of Will
 2 Ponder
+2 Force of Will
 2 Scalding Tarn
 3 Dreadhorde Arcanist
 3 Daze
 3 Young Pyromancer
 3 Lightning Bolt
-3 Force of Will
 3 Underground Sea
 3 Scalding Tarn
 3 Ponder
+3 Force of Will
 4 Daze
-4 Force of Will
 4 Dreadhorde Arcanist
+4 Force of Will
 4 Lightning Bolt
 1 Collective Brutality
 2 Collective Brutality
@@ -124,6 +124,12 @@
 4 Narcomoeba
 4 Careful Study
 4 Chrome Mox
+3 Collective Brutality
+4 Collective Brutality
+13 Swamp
+14 Swamp
+15 Swamp
+16 Swamp
 1 Massacre Wurm
 1 Scrying Sheets
 1 Feed the Swarm
@@ -142,7 +148,6 @@
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
-9 Snow-Covered Swamp
 10 Snow-Covered Swamp
 11 Snow-Covered Swamp
 12 Snow-Covered Swamp
@@ -150,9 +155,4 @@
 14 Snow-Covered Swamp
 15 Snow-Covered Swamp
 16 Snow-Covered Swamp
-3 Collective Brutality
-4 Collective Brutality
-13 Swamp
-14 Swamp
-15 Swamp
-16 Swamp
+9 Snow-Covered Swamp
