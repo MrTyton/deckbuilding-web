@@ -31,8 +31,8 @@
 1 Zulaport Duelist
 2 Zulaport Duelist
 3 Zulaport Duelist
-8 Swamp
 8 Island
+8 Swamp
 1 Vantress Gargoyle
 2 Castle Vantress
 1 Rankle, Master of Pranks
@@ -54,8 +54,8 @@
 3 Omen of the Sea
 3 Dismal Backwater
 3 Nimana Skydancer
-4 Omen of the Sea
 4 Dismal Backwater
+4 Omen of the Sea
 9 Island
 10 Island
 1 Slitherwisp
@@ -82,11 +82,11 @@
 1 Sea Gate Restoration
 1 Ashiok, Nightmare Muse
 3 Castle Locthwain
+4 Bloodchief's Thirst
 1 Evolving Wilds
 2 Evolving Wilds
 3 Evolving Wilds
 4 Evolving Wilds
-4 Bloodchief's Thirst
 1 Lullmage's Domination
 2 Lullmage's Domination
 3 Blackbloom Rogue
@@ -105,8 +105,6 @@
 2 Grasp of Darkness
 3 Grasp of Darkness
 4 Lofty Denial
-9 Swamp
-10 Swamp
 1 Cunning Nightbonder
 1 Rewind
 2 Cunning Nightbonder
@@ -119,3 +117,5 @@
 4 Cunning Nightbonder
 4 Zareth San, the Trickster
 4 Slitherwisp
+9 Swamp
+10 Swamp

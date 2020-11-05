@@ -1,14 +1,14 @@
-1 Springbloom Druid
+1 Tireless Tracker
+2 Explore
 1 Knight of Autumn
 1 Scattered Groves
-2 Wooded Foothills
+3 Castle Garenbrig
 1 Misty Rainforest
 1 Courser of Kruphix
 1 Horizon Canopy
-3 Castle Garenbrig
 1 Kazandu Mammoth
-1 Ketria Triome
-1 Breeding Pool
+1 Felidar Retreat
+2 Felidar Retreat
 1 Verdant Catacombs
 1 Stomping Ground
 1 Mountain
@@ -36,6 +36,8 @@
 4 Summoner's Pact
 1 Snow-Covered Mountain
 1 Elder Gargaroth
+1 Ketria Triome
+1 Breeding Pool
 1 Woodfall Primus
 2 Snow-Covered Mountain
 4 Stomping Ground
@@ -46,17 +48,31 @@
 4 Farseek
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
-1 Hallowed Fountain
-2 Misty Rainforest
-3 Misty Rainforest
 1 Turntimber Symbiosis
-1 Felidar Retreat
 1 Scavenging Ooze
-2 Felidar Retreat
 2 Ghost Quarter
 3 Temple Garden
 1 Archon of Emeria
 1 Knight of the Reliquary
+1 Hallowed Fountain
+2 Misty Rainforest
+3 Misty Rainforest
+1 Sheltered Thicket
+1 Dead / Gone
+1 Nightpack Ambusher
+2 Nightpack Ambusher
+1 Emrakul, the Aeons Torn
+2 Cinder Glade
+3 Cinder Glade
+4 Valakut, the Molten Pinnacle
+4 Mountain
+1 Scapeshift
+1 Hour of Promise
+1 Omnath, Locus of Creation
+1 Raugrin Triome
+1 Wrenn and Six
+2 Wrenn and Six
+3 Wrenn and Six
 4 Misty Rainforest
 2 Breeding Pool
 1 Island
@@ -64,49 +80,9 @@
 2 Teferi, Time Raveler
 3 Uro, Titan of Nature's Wrath
 1 Snow-Covered Island
-1 Prairie Stream
-1 Prismatic Vista
-1 Field of Ruin
-1 Supreme Verdict
-1 Jace, the Mind Sculptor
-1 Aether Gust
-1 Mystic Sanctuary
-1 Mana Leak
-1 Growth Spiral
-1 Cryptic Command
-1 Flooded Strand
-1 Force of Negation
-2 Jace, the Mind Sculptor
-2 Aether Gust
-2 Cryptic Command
-2 Mana Leak
-2 Growth Spiral
-2 Mystic Sanctuary
-2 Flooded Strand
-2 Force of Negation
-3 Growth Spiral
-3 Flooded Strand
-3 Cryptic Command
-4 Flooded Strand
-4 Growth Spiral
-1 Sheltered Thicket
-1 Dead / Gone
-1 Nightpack Ambusher
-2 Nightpack Ambusher
-1 Scapeshift
-1 Emrakul, the Aeons Torn
-2 Cinder Glade
-3 Cinder Glade
-4 Valakut, the Molten Pinnacle
-4 Mountain
-1 Omnath, Locus of Creation
-1 Raugrin Triome
-1 Wrenn and Six
-2 Wrenn and Six
-3 Wrenn and Six
 1 Tranquil Thicket
-1 Indatha Triome
 1 Batterskull
+1 Indatha Triome
 1 Lightning Helix
 1 Sword of Fire and Ice
 1 Kami of False Hope
@@ -137,11 +113,6 @@
 1 Voice of Resurgence
 1 Sejiri Steppe
 1 Woodland Bellower
-1 Castle Vantress
-2 Island
-2 Prismatic Vista
-1 Oboro, Palace in the Clouds
-2 Snow-Covered Island
 1 Chandra, Torch of Defiance
 1 Bonecrusher Giant
 2 Bonecrusher Giant
@@ -160,7 +131,6 @@
 4 Lightning Bolt
 1 Arid Mesa
 1 Utopia Sprawl
-1 Hour of Promise
 2 Hour of Promise
 2 Omnath, Locus of Creation
 2 Utopia Sprawl
@@ -171,6 +141,34 @@
 4 Omnath, Locus of Creation
 4 Wrenn and Six
 4 Utopia Sprawl
+1 Castle Vantress
+1 Prairie Stream
+1 Prismatic Vista
+1 Field of Ruin
+1 Supreme Verdict
+1 Jace, the Mind Sculptor
+1 Aether Gust
+1 Mystic Sanctuary
+1 Mana Leak
+1 Growth Spiral
+1 Cryptic Command
+1 Flooded Strand
+1 Force of Negation
+2 Island
+2 Prismatic Vista
+2 Jace, the Mind Sculptor
+2 Aether Gust
+2 Cryptic Command
+2 Growth Spiral
+2 Mystic Sanctuary
+2 Flooded Strand
+2 Force of Negation
+2 Mana Leak
+3 Growth Spiral
+3 Flooded Strand
+3 Cryptic Command
+4 Flooded Strand
+4 Growth Spiral
 1 Sweltering Suns
 1 Anger of the Gods
 1 Simian Spirit Guide
