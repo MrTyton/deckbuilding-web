@@ -1,26 +1,26 @@
+3 Stomping Ground
+1 Snow-Covered Mountain
 1 Opt
 2 Opt
 3 Opt
-1 Snow-Covered Mountain
-2 Force of Negation
 3 Snow-Covered Island
 4 Opt
-4 Stomping Ground
 2 Snow-Covered Forest
+1 Shark Typhoon
+2 Shark Typhoon
 3 Island
+4 Stomping Ground
 1 Search for Tomorrow
 2 Search for Tomorrow
 3 Search for Tomorrow
+1 Mountain
 1 Censor
 4 Search for Tomorrow
-1 Shark Typhoon
-2 Shark Typhoon
-1 Mountain
-1 Wilt
+1 Snapcaster Mage
 2 Censor
 3 Wrenn and Six
-1 Snapcaster Mage
 1 Sweltering Suns
+1 Wilt
 3 Shark Typhoon
 1 Flame Slash
 1 Prismatic Vista
@@ -60,25 +60,24 @@
 1 Watery Grave
 1 Fatal Push
 2 Fatal Push
-2 Wilt
 1 Temple Garden
 1 Sejiri Shelter
 1 Flagstones of Trokair
+1 Brushfire Elemental
 1 Akoum Hellhound
 1 Atarka's Command
 1 Elvish Reclaimer
-1 Brushfire Elemental
-1 Arid Mesa
 1 Windswept Heath
 1 Mishra's Bauble
+1 Arid Mesa
 1 Soaring Seacliff
 1 Sunbaked Canyon
 1 Steppe Lynx
 1 Sejiri Steppe
 2 Flagstones of Trokair
+2 Brushfire Elemental
 2 Elvish Reclaimer
 2 Akoum Hellhound
-2 Brushfire Elemental
 2 Mishra's Bauble
 2 Sacred Foundry
 2 Windswept Heath
@@ -121,8 +120,8 @@
 1 Abrupt Decay
 1 Mesmeric Orb
 1 Glimpse the Unthinkable
-1 Visions of Beyond
 1 Hedron Crab
+1 Visions of Beyond
 1 Archive Trap
 1 Field of Ruin
 1 Ruin Crab
@@ -134,8 +133,8 @@
 2 Archive Trap
 2 Hedron Crab
 2 Glimpse the Unthinkable
-3 Polluted Delta
 3 Field of Ruin
+3 Polluted Delta
 3 Assassin's Trophy
 3 Hedron Crab
 3 Glimpse the Unthinkable
@@ -147,8 +146,8 @@
 4 Hedron Crab
 4 Mesmeric Orb
 4 Ruin Crab
-4 Visions of Beyond
 4 Archive Trap
+4 Visions of Beyond
 4 Glimpse the Unthinkable
 1 Damnation
 1 Snow-Covered Swamp
@@ -162,10 +161,14 @@
 1 Mwonvuli Acid-Moss
 1 Supreme Verdict
 2 Abrupt Decay
+2 Wilt
+1 Archmage's Charm
+1 Silundi Vision
+2 Archmage's Charm
 1 Sheltered Thicket
+1 Terminate
 1 Platinum Emperion
 1 Madcap Experiment
-1 Terminate
 1 Obstinate Baloth
 1 Thoughtseize
 1 Sultai Charm
@@ -175,11 +178,11 @@
 2 Snow-Covered Mountain
 2 Obstinate Baloth
 2 Thoughtseize
+3 Raugrin Triome
 1 Surgical Extraction
 1 Shelldock Isle
 2 Surgical Extraction
 3 Surgical Extraction
-3 Raugrin Triome
 1 Plains
 1 Omen of the Sea
 2 Omen of the Sea

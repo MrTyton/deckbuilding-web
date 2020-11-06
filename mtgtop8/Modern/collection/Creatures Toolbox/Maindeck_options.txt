@@ -69,6 +69,11 @@
 1 Wooded Bastion
 1 Turntimber Symbiosis
 1 Flooded Strand
+1 Mishra's Bauble
+1 Blossoming Defense
+2 Mishra's Bauble
+3 Mishra's Bauble
+4 Mishra's Bauble
 3 Snow-Covered Plains
 3 Snow-Covered Forest
 4 Snow-Covered Forest
@@ -84,11 +89,6 @@
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 4 Kitchen Finks
-1 Mishra's Bauble
-1 Blossoming Defense
-2 Mishra's Bauble
-3 Mishra's Bauble
-4 Mishra's Bauble
 1 Hardened Scales
 2 Hardened Scales
 3 Hardened Scales
@@ -126,8 +126,8 @@
 3 Morselhoarder
 3 Grisly Salvage
 3 Necrotic Ooze
-4 Swamp
 4 Grisly Salvage
+4 Swamp
 4 Necrotic Ooze
 1 Charming Prince
 1 Karn's Bastion
@@ -143,9 +143,9 @@
 1 Nurturing Peatland
 1 Yawgmoth, Thran Physician
 1 Strangleroot Geist
+1 Geralf's Messenger
 1 Urborg, Tomb of Yawgmoth
 1 Reclamation Sage
-1 Geralf's Messenger
 1 Dryad Arbor
 1 Zulaport Cutthroat
 1 Young Wolf
@@ -155,26 +155,26 @@
 2 Nurturing Peatland
 2 Wall of Roots
 2 Strangleroot Geist
-2 Blooming Marsh
 2 Geralf's Messenger
+2 Blooming Marsh
 2 Gilded Goose
 2 Young Wolf
 2 Yawgmoth, Thran Physician
 3 Wall of Roots
 3 Nurturing Peatland
 3 Strangleroot Geist
-3 Chord of Calling
 3 Geralf's Messenger
+3 Chord of Calling
 3 Young Wolf
 3 Yawgmoth, Thran Physician
 3 Eldritch Evolution
 3 Twilight Mire
 3 Blooming Marsh
+4 Blooming Marsh
 4 Strangleroot Geist
 4 Geralf's Messenger
 4 Young Wolf
 4 Eldritch Evolution
 4 Chord of Calling
 4 Yawgmoth, Thran Physician
-4 Blooming Marsh
 4 Wall of Roots

@@ -1,7 +1,7 @@
 3 Scavenging Ooze
 1 Verdant Catacombs
-1 Snow-Covered Plains
 1 Snow-Covered Forest
+1 Snow-Covered Plains
 2 Snow-Covered Forest
 2 Snow-Covered Plains
 3 Snow-Covered Forest
@@ -53,16 +53,15 @@
 3 Plains
 4 Razorverge Thicket
 1 Waterlogged Grove
+3 Verdant Catacombs
 1 Luminarch Aspirant
 1 Marsh Flats
 1 Grand Abolisher
 2 Luminarch Aspirant
 2 Marsh Flats
 2 Grand Abolisher
-3 Luminarch Aspirant
 3 Skyclave Apparition
-3 Verdant Catacombs
-4 Wooded Foothills
+3 Luminarch Aspirant
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
@@ -81,6 +80,7 @@
 3 Karn, the Great Creator
 3 Kitchen Finks
 4 Kitchen Finks
+4 Wooded Foothills
 1 Eternal Witness
 1 Shalai, Voice of Plenty
 1 Sunpetal Grove

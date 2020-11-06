@@ -53,35 +53,11 @@
 3 Thirst for Meaning
 3 Shock
 4 Evolving Wilds
-1 Silundi Vision
-1 Soul Sear
-1 Storm's Wrath
-1 Shredded Sails
-1 Brash Taunter
-1 Mazemind Tome
-1 Shatterskull Smashing
-1 Shipwreck Dowser
-2 Silundi Vision
-2 Shredded Sails
-2 Soul Sear
-2 Mazemind Tome
-2 Brash Taunter
-2 Storm's Wrath
-2 Shatterskull Smashing
-2 Shipwreck Dowser
-3 Silundi Vision
-3 Radiant Fountain
-3 Mazemind Tome
-3 Brash Taunter
-3 Storm's Wrath
-3 Shipwreck Dowser
-3 Sublime Epiphany
-4 Radiant Fountain
 1 Cancel
 1 Dismal Backwater
 1 Swamp
-1 Bloodfell Caves
 1 Flame Sweep
+1 Bloodfell Caves
 1 Heartless Act
 1 Firemind's Research
 1 Expansion / Explosion
@@ -98,6 +74,30 @@
 3 Negate
 4 Dismal Backwater
 4 Bloodfell Caves
+1 Silundi Vision
+1 Shipwreck Dowser
+1 Soul Sear
+1 Storm's Wrath
+1 Shredded Sails
+1 Brash Taunter
+1 Mazemind Tome
+1 Shatterskull Smashing
+2 Silundi Vision
+2 Shredded Sails
+2 Shipwreck Dowser
+2 Soul Sear
+2 Mazemind Tome
+2 Brash Taunter
+2 Storm's Wrath
+2 Shatterskull Smashing
+3 Silundi Vision
+3 Radiant Fountain
+3 Mazemind Tome
+3 Brash Taunter
+3 Storm's Wrath
+3 Shipwreck Dowser
+3 Sublime Epiphany
+4 Radiant Fountain
 1 Voracious Greatshark
 1 Kiora Bests the Sea God
 1 Cinderclasm
@@ -112,13 +112,13 @@
 3 Mystical Dispute
 3 Thassa's Intervention
 4 Mystical Dispute
-1 Thrill of Possibility
 1 Lore Drakkis
+1 Thrill of Possibility
 2 Lore Drakkis
 3 Lore Drakkis
-4 Fire Prophecy
-4 Lore Drakkis
 4 Blitz of the Thunder-Raptor
+4 Lore Drakkis
+4 Fire Prophecy
 4 Neutralize
 1 Roil Eruption
 1 Weaponize the Monsters
@@ -126,8 +126,8 @@
 1 Bubble Snare
 2 Roil Eruption
 2 Roost of Drakes
-2 Weaponize the Monsters
 2 Into the Roil
+2 Weaponize the Monsters
 3 Roil Eruption
 3 Roost of Drakes
 3 Into the Roil

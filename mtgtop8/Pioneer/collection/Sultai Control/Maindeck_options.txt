@@ -2,11 +2,9 @@
 2 Overgrown Tomb
 1 Breeding Pool
 2 Forest
-1 Growth Spiral
 2 Breeding Pool
 4 Uro, Titan of Nature's Wrath
 4 Fatal Push
-1 Abrupt Decay
 1 Satyr Wayfinder
 1 Blooming Marsh
 2 Satyr Wayfinder
@@ -16,38 +14,25 @@
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
+1 Heartless Act
+1 Growth Spiral
+2 Blooming Marsh
+1 Abrupt Decay
+1 Woodland Cemetery
+3 Blooming Marsh
+4 Blooming Marsh
 2 Growth Spiral
 3 Growth Spiral
-2 Blooming Marsh
 1 Hydroid Krasis
 1 Nissa, Who Shakes the World
 2 Hydroid Krasis
 2 Nissa, Who Shakes the World
 3 Nissa, Who Shakes the World
 4 Growth Spiral
-3 Blooming Marsh
-4 Blooming Marsh
-1 Heartless Act
-3 Hydroid Krasis
-3 Overgrown Tomb
-4 Overgrown Tomb
-1 Woodland Cemetery
-4 Watery Grave
-1 Ugin, the Spirit Dragon
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-1 Assassin's Trophy
-3 Breeding Pool
-4 Breeding Pool
-1 Vraska, Golgari Queen
-2 Swamp
 1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
-1 Eat to Extinction
-2 Lumbering Falls
-3 Lumbering Falls
-1 Mystical Dispute
-2 Mystical Dispute
+3 Breeding Pool
+4 Breeding Pool
 1 Ishkanah, Grafwidow
 1 Tireless Tracker
 1 Murderous Rider
@@ -56,25 +41,40 @@
 2 Murderous Rider
 3 Jace, Vryn's Prodigy
 3 Traverse the Ulvenwald
+3 Hydroid Krasis
+3 Overgrown Tomb
+4 Overgrown Tomb
+2 Swamp
+1 Mystical Dispute
+2 Mystical Dispute
+1 Atris, Oracle of Half-Truths
+1 Clearwater Pathway
+2 Clearwater Pathway
+4 Traverse the Ulvenwald
+1 Ugin, the Spirit Dragon
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
+4 Watery Grave
+1 Vraska, Golgari Queen
+1 Assassin's Trophy
 2 Abrupt Decay
 3 Forest
 4 Forest
-4 Nissa, Who Shakes the World
-1 Atris, Oracle of Half-Truths
 1 Mazemind Tome
-1 Clearwater Pathway
-2 Clearwater Pathway
 2 Heartless Act
-4 Traverse the Ulvenwald
+4 Nissa, Who Shakes the World
+1 Eat to Extinction
+2 Lumbering Falls
+3 Lumbering Falls
 1 Tamiyo, Collector of Tales
 2 Drowned Catacomb
 1 Drown in the Loch
 1 Botanical Sanctum
+1 Nissa of Shadowed Boughs
 1 Kazandu Mammoth
 1 Cavalier of Thorns
 1 World Breaker
 1 Ipnu Rivulet
-1 Nissa of Shadowed Boughs
 1 Ulamog, the Ceaseless Hunger
 1 Arboreal Grazer
 1 Yavimaya Coast
@@ -116,6 +116,10 @@
 1 Temple of Deceit
 1 Brazen Borrower
 2 Brazen Borrower
+1 Reclamation Sage
+1 Soul-Guide Lantern
+2 Tireless Tracker
+2 Soul-Guide Lantern
 2 Thassa's Intervention
 3 Thassa's Intervention
 1 Emrakul, the Promised End

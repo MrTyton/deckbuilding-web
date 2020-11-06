@@ -22,8 +22,8 @@
 1 Coordinated Charge
 1 Raking Claws
 1 Cinderclasm
-2 Cinderclasm
 2 Embereth Shieldbreaker
+2 Cinderclasm
 3 Embereth Shieldbreaker
 3 Selfless Savior
 3 Underworld Rage-Hound
@@ -51,27 +51,32 @@
 1 Disenchant
 2 Deafening Silence
 1 Scorching Dragonfire
-1 Sorcerous Spyglass
-2 Sorcerous Spyglass
-1 Shock
-2 Shock
 2 Disenchant
 1 Miscast
 2 Miscast
+1 Shock
+2 Shock
+1 Sorcerous Spyglass
+2 Sorcerous Spyglass
+2 Lurrus of the Dream-Den
+3 Lurrus of the Dream-Den
+1 Legion Angel
+2 Legion Angel
+3 Legion Angel
+1 Giant Killer
+1 Shepherd of the Flock
+1 Pacifism
+1 Underworld Fires
+1 Roil Eruption
+2 Shepherd of the Flock
+2 Pacifism
+2 Roil Eruption
+3 Shepherd of the Flock
 1 Claim the Firstborn
 2 Claim the Firstborn
 3 Spikefield Hazard
 2 Sejiri Shelter
 3 Shatter the Sky
-1 Giant Killer
-1 Pacifism
-1 Underworld Fires
-1 Roil Eruption
-1 Shepherd of the Flock
-2 Pacifism
-2 Roil Eruption
-2 Shepherd of the Flock
-3 Shepherd of the Flock
 1 Fire Prophecy
 1 Blazing Volley
 1 Magmatic Channeler
@@ -81,9 +86,6 @@
 2 Duress
 2 Blazing Volley
 3 Magmatic Channeler
-1 Legion Angel
-2 Legion Angel
-3 Legion Angel
 1 Negate
 1 Ox of Agonas
 1 Irencrag Pyromancer
@@ -91,8 +93,6 @@
 2 Ox of Agonas
 2 Negate
 3 Negate
-2 Lurrus of the Dream-Den
-3 Lurrus of the Dream-Den
 1 The Akroan War
 2 Skyclave Apparition
 2 Containment Priest
@@ -107,5 +107,5 @@
 3 Confounding Conundrum
 4 Tormod's Crypt
 4 Mystical Dispute
-2 Scorching Dragonfire
 4 Confounding Conundrum
+2 Scorching Dragonfire

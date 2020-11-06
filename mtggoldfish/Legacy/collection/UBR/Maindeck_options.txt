@@ -14,8 +14,8 @@
 1 Cling to Dust
 1 Force of Negation
 3 Daze
-4 Daze
 4 Wasteland
+4 Daze
 1 Preordain
 4 Scalding Tarn
 3 Thoughtseize
@@ -34,13 +34,13 @@
 1 Spell Pierce
 1 Bayou
 1 Assassin's Trophy
-1 Leovold, Emissary of Trest
-1 Oko, Thief of Crowns
-1 Uro, Titan of Nature's Wrath
-1 Tropical Island
 1 Forest
-2 Uro, Titan of Nature's Wrath
+1 Uro, Titan of Nature's Wrath
+1 Oko, Thief of Crowns
+1 Tropical Island
+1 Leovold, Emissary of Trest
 2 Leovold, Emissary of Trest
+2 Uro, Titan of Nature's Wrath
 1 Narset, Parter of Veils
 1 Eliminate
 1 Arcum's Astrolabe
@@ -51,23 +51,6 @@
 1 Snow-Covered Island
 1 Diabolic Edict
 1 Liliana's Triumph
-1 Abrupt Decay
-1 Creeping Tar Pit
-1 Pernicious Deed
-1 Cabal Pit
-1 Bitterblossom
-1 Dark Depths
-1 Crop Rotation
-1 Bojuka Bog
-1 Life from the Loam
-1 Thespian's Stage
-2 Abrupt Decay
-2 Tropical Island
-2 Oko, Thief of Crowns
-2 Crop Rotation
-2 Life from the Loam
-3 Abrupt Decay
-3 Crop Rotation
 1 Thwart
 1 Chain Lightning
 2 Thwart
@@ -81,16 +64,33 @@
 1 Pyroblast
 2 Surgical Extraction
 4 Thoughtseize
-1 Dack Fayden
 1 Grove of the Burnwillows
-1 Verdant Catacombs
 1 Punishing Fire
-2 Assassin's Trophy
-2 Punishing Fire
-2 Dack Fayden
+1 Dack Fayden
+1 Verdant Catacombs
 2 Grove of the Burnwillows
+2 Punishing Fire
+2 Assassin's Trophy
+2 Dack Fayden
 3 Assassin's Trophy
 3 Dack Fayden
 3 Grove of the Burnwillows
-4 Assassin's Trophy
 3 Uro, Titan of Nature's Wrath
+4 Assassin's Trophy
+1 Life from the Loam
+1 Dark Depths
+1 Thespian's Stage
+1 Crop Rotation
+1 Creeping Tar Pit
+1 Cabal Pit
+1 Pernicious Deed
+1 Bitterblossom
+1 Abrupt Decay
+1 Bojuka Bog
+2 Life from the Loam
+2 Crop Rotation
+2 Oko, Thief of Crowns
+2 Abrupt Decay
+2 Tropical Island
+3 Crop Rotation
+3 Abrupt Decay

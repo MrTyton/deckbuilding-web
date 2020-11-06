@@ -13,8 +13,8 @@
 3 Glass Casket
 3 Golden Egg
 4 Golden Egg
-3 Plains
 3 Treacherous Blessing
+3 Plains
 4 Temple of Malady
 2 Elspeth's Nightmare
 3 Charming Prince
@@ -47,9 +47,9 @@
 3 Island
 3 Temple of Deceit
 3 Into the Story
-4 Maddening Cacophony
 4 Clearwater Pathway
 4 Drown in the Loch
+4 Maddening Cacophony
 4 Ruin Crab
 4 Temple of Deceit
 4 Thieves' Guild Enforcer
@@ -80,13 +80,14 @@
 1 Mazemind Tome
 1 Crawling Barrens
 1 Bonecrusher Giant
-1 Storm's Wrath
 1 Shredded Sails
+1 Storm's Wrath
 1 Mountain
 1 Irencrag Feat
 1 Ox of Agonas
 1 Spikefield Hazard
 2 Crawling Barrens
+2 Ugin, the Spirit Dragon
 2 Shatterskull Smashing
 2 Radiant Fountain
 2 Shredded Sails
@@ -95,7 +96,6 @@
 2 Irencrag Feat
 2 Mountain
 2 Bonecrusher Giant
-2 Ugin, the Spirit Dragon
 2 Ox of Agonas
 3 Crawling Barrens
 3 Mazemind Tome
@@ -118,8 +118,8 @@
 7 Mountain
 8 Mountain
 1 Silundi Vision
-1 So Tiny
 1 Merfolk Secretkeeper
+1 So Tiny
 2 Silundi Vision
 2 Hagra Mauling
 2 Merfolk Secretkeeper
@@ -181,13 +181,13 @@
 1 Kazuul's Fury
 1 Fire Prophecy
 2 Kazuul's Fury
-2 Labyrinth of Skophos
 2 Fire Prophecy
+2 Labyrinth of Skophos
 3 Radiant Fountain
-3 Labyrinth of Skophos
 3 Fire Prophecy
-4 Radiant Fountain
+3 Labyrinth of Skophos
 4 Irencrag Feat
+4 Radiant Fountain
 1 Thirst for Meaning
 3 Jwari Disruption
 3 Mystical Dispute
