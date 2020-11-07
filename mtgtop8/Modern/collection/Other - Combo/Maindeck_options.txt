@@ -1,45 +1,51 @@
-1 Irencrag Feat
-2 Spikefield Hazard
-2 Valakut Awakening
-2 Pyretic Ritual
-2 Bala Ged Recovery
-2 Irencrag Feat
-2 Manamorphose
-2 Recross the Paths
-2 Desperate Ritual
-3 Spikefield Hazard
-3 Valakut Awakening
-3 Manamorphose
-3 Desperate Ritual
-3 Recross the Paths
-3 Irencrag Feat
-3 Bala Ged Recovery
-3 Pyretic Ritual
-4 Spikefield Hazard
-4 Valakut Awakening
-4 Manamorphose
-4 Recross the Paths
-4 Irencrag Feat
-4 Pyretic Ritual
-4 Desperate Ritual
-4 Bala Ged Recovery
-1 Tangled Florahedron
-1 Pact of Negation
+1 Vengevine
+1 Sword of the Meek
+1 Phantasmagorian
+1 Balustrade Spy
+1 Creeping Chill
+1 Salvage Titan
+1 Agadeem's Awakening
+1 Undercity Informer
+2 Agadeem's Awakening
+2 Creeping Chill
+2 Narcomoeba
+2 Sword of the Meek
+2 Undercity Informer
+2 Vengevine
+2 Balustrade Spy
+3 Undercity Informer
+3 Vengevine
+3 Sword of the Meek
+3 Balustrade Spy
+3 Agadeem's Awakening
+3 Creeping Chill
+4 Undercity Informer
+4 Vengevine
+4 Balustrade Spy
+4 Agadeem's Awakening
+4 Creeping Chill
+4 Sea Gate Restoration
 3 Emeria's Call
+1 Tangled Florahedron
 1 Talisman of Resilience
 2 Talisman of Resilience
 3 Talisman of Resilience
-4 Sea Gate Restoration
 4 Talisman of Resilience
 1 Hagra Mauling
 1 Nexus of Fate
 1 Pelakka Predation
 2 Pelakka Predation
 2 Tangled Florahedron
+2 Pact of Negation
+3 Pact of Negation
+4 Pact of Negation
 3 Pelakka Predation
 4 Pelakka Predation
 1 Leyline of Sanctity
 3 Tangled Florahedron
+1 Blood Moon
+2 Blood Moon
+3 Blood Moon
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
@@ -50,17 +56,17 @@
 2 Thassa's Oracle
 3 Opt
 4 Opt
-1 Polluted Delta
-1 Watery Grave
-2 Polluted Delta
-2 Watery Grave
 1 River of Tears
 1 Remand
 1 Murderous Cut
+1 Polluted Delta
+1 Watery Grave
 1 Fatal Push
 1 Inquisition of Kozilek
 1 Inverter of Truth
 2 Remand
+2 Watery Grave
+2 Polluted Delta
 2 Fatal Push
 2 Inquisition of Kozilek
 2 River of Tears
@@ -73,56 +79,50 @@
 3 Inverter of Truth
 4 Remand
 4 Inverter of Truth
-3 Watery Grave
 1 Island
 2 Island
 1 Swamp
 1 Shelldock Isle
 2 Shelldock Isle
 1 Relic of Progenitus
+3 Watery Grave
 4 Watery Grave
 1 Cling to Dust
 4 River of Tears
 4 Fatal Push
-1 Force of Negation
-2 Force of Negation
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 4 Leyline of Sanctity
 2 Hagra Mauling
 3 Hagra Mauling
-2 Pact of Negation
-3 Pact of Negation
-4 Pact of Negation
-1 Scalding Tarn
-2 Scalding Tarn
-3 Polluted Delta
-4 Polluted Delta
+1 Force of Negation
+2 Force of Negation
 3 Island
 1 Sunken Ruins
 1 Snapcaster Mage
-1 Tasigur, the Golden Fang
 1 Vendilion Clique
 1 Cryptic Command
+1 Tasigur, the Golden Fang
+1 Scalding Tarn
 2 Snapcaster Mage
+2 Scalding Tarn
+3 Polluted Delta
 3 Shelldock Isle
 3 Snapcaster Mage
 4 Jace, Wielder of Mysteries
 4 Shelldock Isle
+4 Polluted Delta
 1 Vessel of Volatility
 2 Vessel of Volatility
 3 Vessel of Volatility
-1 Blood Moon
-2 Blood Moon
-3 Blood Moon
 4 Blood Moon
 1 Veil of Summer
 1 Worldspine Wurm
 2 Swamp
-1 Snow-Covered Island
 1 Darkslick Shores
 1 Omen of the Sea
 1 Eldrazi Temple
+1 Snow-Covered Island
 2 Darkslick Shores
 2 Omen of the Sea
 2 Eldrazi Temple
@@ -133,13 +133,12 @@
 3 Thassa's Oracle
 4 Thassa's Oracle
 4 Emeria's Call
-1 Snow-Covered Swamp
 1 Silundi Vision
 1 Teferi, Hero of Dominaria
+1 Jwari Disruption
 1 Disrupting Shoal
 1 Talisman of Progress
 1 Jace, the Mind Sculptor
-1 Jwari Disruption
 1 Teferi, Time Raveler
 1 Skyclave Cleric
 1 Beyeen Veil
@@ -158,13 +157,13 @@
 2 Skyclave Cleric
 2 Beyeen Veil
 2 Pieces of the Puzzle
+3 Talisman of Progress
 3 Disrupting Shoal
 3 Jwari Disruption
 3 Teferi, Time Raveler
 3 Snapback
 3 Path to Exile
 3 Selective Memory
-3 Talisman of Progress
 3 Silundi Vision
 4 Disrupting Shoal
 4 Jwari Disruption
@@ -212,10 +211,10 @@
 3 Karn, the Great Creator
 3 Through the Breach
 3 Emrakul, the Aeons Torn
-3 Wrenn and Six
 3 Lightning Bolt
 3 Wooded Foothills
 3 Whirler Virtuoso
+3 Wrenn and Six
 3 Rogue Refiner
 3 Woodweaver's Puzzleknot
 3 Misty Rainforest
@@ -226,55 +225,12 @@
 3 Harnessed Lightning
 4 Emrakul, the Aeons Torn
 4 Through the Breach
-4 Rogue Refiner
 4 Harnessed Lightning
 4 Misty Rainforest
+4 Rogue Refiner
 4 Wooded Foothills
 4 Attune with Aether
 4 Aether Hub
-1 Castle Locthwain
-1 Dark Confidant
-1 Thespian's Stage
-1 Dark Depths
-1 Preordain
-1 Urborg, Tomb of Yawgmoth
-1 Ponder
-1 Vampire Hexmage
-1 Chrome Mox
-1 Mishra's Bauble
-1 Muddle the Mixture
-1 Thopter Foundry
-1 Gitaxian Probe
-2 Dark Confidant
-2 Preordain
-2 Ponder
-2 Urborg, Tomb of Yawgmoth
-2 Chrome Mox
-2 Dark Depths
-2 Vampire Hexmage
-2 Gitaxian Probe
-2 Mishra's Bauble
-2 Thopter Foundry
-2 Thespian's Stage
-2 Snow-Covered Island
-3 Dark Confidant
-3 Ponder
-3 Urborg, Tomb of Yawgmoth
-3 Preordain
-3 Chrome Mox
-3 Vampire Hexmage
-3 Thopter Foundry
-3 Dark Depths
-3 Force of Negation
-3 Gitaxian Probe
-4 Ponder
-4 Dark Confidant
-4 Chrome Mox
-4 Preordain
-4 Thoughtseize
-4 Gitaxian Probe
-4 Dark Depths
-4 Vampire Hexmage
 1 Creeping Tar Pit
 1 Castle Vantress
 1 Eliminate
@@ -303,6 +259,7 @@
 4 Sword of the Meek
 1 Drowned Catacomb
 1 Cavern of Souls
+1 Snow-Covered Swamp
 2 Drowned Catacomb
 3 Inquisition of Kozilek
 3 Drowned Catacomb
@@ -337,14 +294,14 @@
 2 Serum Visions
 2 Ideas Unbound
 2 Grapeshot
-2 Twiddle
 2 Past in Flames
+2 Twiddle
 3 Lonely Sandbar
-3 Shivan Reef
 3 Sleight of Hand
+3 Shivan Reef
+3 Psychic Puppetry
 3 Serum Visions
 3 Ideas Unbound
-3 Psychic Puppetry
 3 Past in Flames
 3 Peer Through Depths
 3 Lotus Field
@@ -352,8 +309,8 @@
 3 Reach Through Mists
 4 Lonely Sandbar
 4 Serum Visions
-4 Shivan Reef
 4 Sleight of Hand
+4 Shivan Reef
 4 Lotus Field
 4 Reach Through Mists
 4 Peer Through Depths

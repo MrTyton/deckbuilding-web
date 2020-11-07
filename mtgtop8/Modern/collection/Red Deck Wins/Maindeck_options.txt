@@ -1,13 +1,14 @@
+2 Light Up the Stage
 3 Light Up the Stage
 3 Soul-Scar Mage
 4 Soul-Scar Mage
 4 Light Up the Stage
-14 Mountain
 1 Lava Dart
 2 Lava Dart
 3 Lava Dart
 4 Lava Dart
 1 Bonecrusher Giant
+15 Mountain
 2 Bonecrusher Giant
 1 Firebolt
 1 Seasoned Pyromancer
@@ -20,7 +21,7 @@
 3 Seasoned Pyromancer
 4 Bonecrusher Giant
 4 Seasoned Pyromancer
-15 Mountain
+16 Mountain
 1 Skullcrack
 2 Skullcrack
 4 Sunbaked Canyon
@@ -34,28 +35,27 @@
 4 Inspiring Vantage
 3 Skewer the Critics
 4 Searing Blaze
+17 Mountain
 4 Firebolt
 3 Flame Slash
 4 Flame Slash
-16 Mountain
-2 Fiery Islet
-17 Mountain
+18 Mountain
 3 Lightning Helix
 1 Burst Lightning
-3 Fiery Islet
+2 Fiery Islet
 4 Skewer the Critics
 1 Snow-Covered Mountain
-18 Mountain
 3 Wooded Foothills
 3 Bloodstained Mire
+3 Fiery Islet
+1 Bomat Courier
+1 Blast Zone
+2 Bomat Courier
+2 Blast Zone
+3 Bomat Courier
+4 Bomat Courier
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
-1 Blistercoil Weird
-2 Blistercoil Weird
-3 Blistercoil Weird
-4 Blistercoil Weird
-1 Forgotten Cave
-2 Forgotten Cave
 4 Wooded Foothills
 1 Crash Through
 1 Manamorphose
@@ -73,14 +73,6 @@
 2 Blood Moon
 3 Blood Moon
 4 Blood Moon
-1 Bomat Courier
-1 Blast Zone
-2 Bomat Courier
-2 Blast Zone
-3 Bomat Courier
-4 Bomat Courier
-1 Spikefield Hazard
-4 Fiery Islet
 1 Forked Bolt
 1 Bedlam Reveler
 2 Bedlam Reveler
@@ -93,18 +85,26 @@
 1 Scalding Tarn
 2 Scalding Tarn
 4 Lightning Helix
+1 Blistercoil Weird
+2 Blistercoil Weird
+3 Blistercoil Weird
+4 Blistercoil Weird
 2 Burst Lightning
 4 Kiln Fiend
 3 Skullcrack
+1 Forgotten Cave
+2 Forgotten Cave
 3 Arid Mesa
 4 Bloodstained Mire
 4 Arid Mesa
 1 Shard Volley
 2 Shard Volley
-1 Wild Slash
 1 Mutagenic Growth
-2 Wild Slash
+1 Wild Slash
 2 Mutagenic Growth
+2 Wild Slash
+1 Spikefield Hazard
+4 Fiery Islet
 3 Scalding Tarn
 4 Skullcrack
 4 Scalding Tarn
@@ -119,8 +119,8 @@
 2 Chandra's Incinerator
 3 Chandra's Incinerator
 3 Seal of Fire
-4 Seal of Fire
 4 Chandra's Incinerator
+4 Seal of Fire
 1 Scourge of the Skyclaves
 1 Blackcleave Cliffs
 1 Fatal Push
@@ -128,11 +128,11 @@
 1 Mishra's Bauble
 1 Bump in the Night
 1 Blood Crypt
+2 Blackcleave Cliffs
 2 Scourge of the Skyclaves
 2 Fatal Push
 2 Mishra's Bauble
 2 Blood Crypt
-2 Blackcleave Cliffs
 2 Bump in the Night
 3 Scourge of the Skyclaves
 3 Bump in the Night

@@ -59,7 +59,7 @@
 |                    3|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)        |                     |                                                                                             |
 |                    3|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)      |                     |                                                                                             |
 |                    1|Emeria's Call                                                                                     |                     |                                                                                             |
-|                    1|Shatterskull Smashing                                                                             |                     |                                                                                             |
 |                    1|Sea Gate Restoration                                                                              |                     |                                                                                             |
+|                    1|Shatterskull Smashing                                                                             |                     |                                                                                             |
 |                    4|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|                     |                                                                                             |
 

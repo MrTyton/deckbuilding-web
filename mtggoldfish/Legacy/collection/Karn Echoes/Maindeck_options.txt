@@ -7,9 +7,8 @@
 5 Island
 6 Island
 7 Island
-1 Defense Grid
-2 Defense Grid
 1 Inventors' Fair
+1 Defense Grid
 1 Basalt Monolith
 1 Voltaic Key
 1 Manifold Key
@@ -18,6 +17,7 @@
 1 Grim Monolith
 2 Basalt Monolith
 2 Manifold Key
+2 Defense Grid
 2 Mystic Forge
 2 Voltaic Key
 2 Grim Monolith
@@ -40,14 +40,13 @@
 3 Manifold Key
 4 Voltaic Key
 1 Saheeli, Sublime Artificer
-2 Saheeli, Sublime Artificer
 3 Mishra's Bauble
 1 Thran Dynamo
 1 Crystal Vein
 1 Paradox Engine
 2 Inventors' Fair
 2 Crystal Vein
-3 Crystal Vein
 3 Inventors' Fair
+3 Crystal Vein
 4 Inventors' Fair
 4 Crystal Vein

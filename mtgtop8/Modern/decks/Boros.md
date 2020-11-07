@@ -1,7 +1,7 @@
 # Boros
 
 #### [Export MTGO List](../collection/Boros/Boros.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Apostle's%20Blessing%0A4%09Colossus%20Hammer%0A4%09Giver%20of%20Runes%0A4%09Inkmoth%20Nexus%0A4%09Inspiring%20Vantage%0A4%09Kor%20Duelist%0A4%09Kor%20Outfitter%0A4%09Magnetic%20Theft%0A5%09Plains%0A4%09Sacred%20Foundry%0A1%09Shadowspear%0A4%09Sigarda's%20Aid%0A4%09Spellskite%0A4%09Steelshaper's%20Gift%0A4%09Stoneforge%20Mystic%0A4%09Sunbaked%20Canyon%0A1%09Swiftfoot%20Boots&deckside=2%09Auriok%20Champion%0A2%09Boros%20Charm%0A2%09Burrenton%20Forge-Tender%0A2%09Grand%20Abolisher%0A1%09Kor%20Firewalker%0A2%09Leonin%20Relic-Warder%0A1%09Lurrus%20of%20the%20Dream-Den%0A3%09Path%20to%20Exile)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Apostle's%20Blessing%0A4%09Colossus%20Hammer%0A4%09Giver%20of%20Runes%0A4%09Inkmoth%20Nexus%0A4%09Inspiring%20Vantage%0A4%09Kor%20Duelist%0A4%09Kor%20Outfitter%0A4%09Magnetic%20Theft%0A5%09Plains%0A4%09Sacred%20Foundry%0A1%09Shadowspear%0A4%09Sigarda's%20Aid%0A4%09Spellskite%0A4%09Steelshaper's%20Gift%0A4%09Stoneforge%20Mystic%0A4%09Sunbaked%20Canyon%0A1%09Swiftfoot%20Boots&deckside=2%09Alpine%20Moon%0A2%09Auriok%20Champion%0A1%09Leonin%20Relic-Warder%0A2%09Mirran%20Crusader%0A2%09Phyrexian%20Revoker%0A3%09Rest%20in%20Peace%0A3%09Skyclave%20Apparition)
 # Maindeck
 
 |                                        Artifact (6)                                        |                                        Creature (20)                                         |                                     Enchantment (4)                                      |                                          Instant (5)                                          |                                          Land (21)                                           |                                         Sorcery (4)                                          |
@@ -15,35 +15,28 @@
 
 # Sideboard
 
-|                                           Creature (10)                                            |                                       Instant (5)                                        |
-|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-|2 [Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)         |2 [Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)  |
-|2 [Burrenton Forge-Tender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438580) |3 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|
-|2 [Grand Abolisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389538)        |                                                                                          |
-|1 [Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)         |                                                                                          |
-|2 [Leonin Relic-Warder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=432997)    |                                                                                          |
-|1 [Lurrus of the Dream-Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479746)|                                                                                          |
+|                                          Creature (7)                                          |                                     Enchantment (5)                                      |     Unknown (3)     |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------------|
+|2 [Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)     |2 [Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)  |3 Skyclave Apparition|
+|1 [Leonin Relic-Warder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=432997)|3 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|                     |
+|2 [Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802)    |                                                                                          |                     |
+|2 [Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)  |                                                                                          |                     |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                    Maindeck Card                                     |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|--------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Batterskull](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233055)|                    2|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)   |
-|                    1|Maul of the Skyclaves                                                                 |                    3|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)   |
-|                     |                                                                                      |                    1|Skyclave Apparition                                                                         |
-|                     |                                                                                      |                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)|
-|                     |                                                                                      |                    1|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)      |
-|                     |                                                                                      |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
-|                     |                                                                                      |                    1|[Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802)  |
-|                     |                                                                                      |                    2|[Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802)  |
-|                     |                                                                                      |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
-|                     |                                                                                      |                    2|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)|
-|                     |                                                                                      |                    2|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)      |
-|                     |                                                                                      |                    2|Skyclave Apparition                                                                         |
-|                     |                                                                                      |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
-|                     |                                                                                      |                    3|Skyclave Apparition                                                                         |
-|                     |                                                                                      |                    1|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)      |
-|                     |                                                                                      |                    2|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)      |
-|                     |                                                                                      |                    3|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)   |
+|*n*<sup>th</sup> copy|                                    Maindeck Card                                     |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
+|--------------------:|--------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
+|                    1|[Batterskull](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233055)|                    1|[Lurrus of the Dream-Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479746)|
+|                    1|Maul of the Skyclaves                                                                 |                    1|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)            |
+|                     |                                                                                      |                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)          |
+|                     |                                                                                      |                    1|[Grand Abolisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389538)        |
+|                     |                                                                                      |                    1|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)            |
+|                     |                                                                                      |                    2|[Grand Abolisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389538)        |
+|                     |                                                                                      |                    2|[Leonin Relic-Warder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=432997)    |
+|                     |                                                                                      |                    2|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)            |
+|                     |                                                                                      |                    2|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)            |
+|                     |                                                                                      |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)          |
+|                     |                                                                                      |                    3|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)          |
+|                     |                                                                                      |                    3|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)         |
 

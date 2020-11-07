@@ -29,6 +29,8 @@
 1 Grafdigger's Cage
 2 Aether Gust
 1 Conclave Tribunal
+2 Kalitas, Traitor of Ghet
+2 Distended Mindbender
 1 Negate
 1 Soul-Guide Lantern
 1 Questing Beast
@@ -43,8 +45,6 @@
 1 Barrier Breach
 1 Shifting Ceratops
 2 Negate
-2 Kalitas, Traitor of Ghet
-2 Distended Mindbender
 1 Aethersphere Harvester
 1 Korvold, Fae-Cursed King
 1 Back to Nature
@@ -68,34 +68,29 @@
 1 Dead Weight
 1 Extinction Event
 2 Extinction Event
+1 Reflector Mage
+1 Knight of the White Orchid
+1 Disdainful Stroke
+1 Dusk / Dawn
+2 Knight of the White Orchid
+2 Selfless Spirit
+2 Disdainful Stroke
+2 Dusk / Dawn
 1 Dovin's Veto
 2 Declaration in Stone
 2 Dovin's Veto
 3 Declaration in Stone
-1 Damping Sphere
-1 Rampaging Ferocidon
-1 Hornet Nest
-1 Skylasher
-1 Stoke the Flames
-1 Destructive Revelry
-1 Anger of the Gods
-2 Skylasher
-2 Damping Sphere
-2 Hornet Nest
-2 Rampaging Ferocidon
-2 Destructive Revelry
-2 Anger of the Gods
-3 Destructive Revelry
-3 Apostle of Purifying Light
+1 Cry of the Carnarium
 1 Collective Brutality
 1 Legion's End
-1 Cry of the Carnarium
 1 Shark Typhoon
 2 Grafdigger's Cage
-2 Cry of the Carnarium
 2 Legion's End
+2 Cry of the Carnarium
 2 Shark Typhoon
 3 Aether Gust
+3 Apostle of Purifying Light
+1 Damping Sphere
 1 Fog
 1 Fabled Passage
 1 Possibility Storm
@@ -117,11 +112,16 @@
 3 Banishing Light
 3 Duress
 4 Duress
-1 Reflector Mage
-1 Knight of the White Orchid
-1 Disdainful Stroke
-1 Dusk / Dawn
-2 Knight of the White Orchid
-2 Selfless Spirit
-2 Disdainful Stroke
-2 Dusk / Dawn
+1 Hornet Nest
+1 Stoke the Flames
+1 Skylasher
+1 Rampaging Ferocidon
+1 Destructive Revelry
+1 Anger of the Gods
+2 Hornet Nest
+2 Damping Sphere
+2 Destructive Revelry
+2 Anger of the Gods
+2 Skylasher
+3 Destructive Revelry
+2 Rampaging Ferocidon

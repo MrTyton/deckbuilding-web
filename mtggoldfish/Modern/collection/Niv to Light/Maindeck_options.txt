@@ -13,11 +13,11 @@
 4 Abundant Growth
 4 Kaya's Guile
 3 Abrupt Decay
-1 Mountain
-1 Swamp
-1 Island
-1 Plains
 1 Forest
+1 Swamp
+1 Plains
+1 Mountain
+1 Island
 2 Snow-Covered Forest
 3 Verdant Catacombs
 3 Pillar of the Paruns
@@ -40,8 +40,8 @@
 1 Ice-Fang Coatl
 1 Kaya, Orzhov Usurper
 1 Blood Crypt
-1 Sword of Feast and Famine
 1 Batterskull
+1 Sword of Feast and Famine
 1 Sword of Fire and Ice
 1 Stoneforge Mystic
 2 Stoneforge Mystic
@@ -58,8 +58,8 @@
 1 Golos, Tireless Pilgrim
 1 Field of the Dead
 3 Glittering Wish
-1 Birds of Paradise
 1 Ashiok, Dream Render
+1 Birds of Paradise
 1 Reflecting Pool
 2 Forest
 1 Manamorphose

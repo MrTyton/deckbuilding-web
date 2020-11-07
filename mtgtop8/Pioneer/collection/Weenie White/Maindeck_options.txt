@@ -1,3 +1,7 @@
+2 Plains
+3 Plains
+4 Plains
+5 Plains
 6 Plains
 7 Plains
 8 Plains
@@ -80,6 +84,10 @@
 2 Speaker of the Heavens
 2 Castle Ardenvale
 2 Skyclave Apparition
+1 Kitesail Freebooter
+1 Liliana, Heretical Healer
+2 Kitesail Freebooter
+3 Kitesail Freebooter
 1 Archangel of Thune
 1 Leonin Vanguard
 1 Ajani's Pridemate
@@ -100,17 +108,13 @@
 1 Mardu Woe-Reaper
 2 Benalish Marshal
 4 Luminarch Aspirant
-1 Venerated Loxodon
-2 Venerated Loxodon
-3 Venerated Loxodon
-4 Venerated Loxodon
 18 Plains
 1 Pacifism
 1 Ethereal Armor
 1 Karametra's Blessing
 1 Cartouche of Solidarity
-1 Angelic Gift
 1 All That Glitters
+1 Angelic Gift
 1 Helm of the Gods
 1 Oppressive Rays
 1 Hopeful Eidolon
@@ -121,7 +125,6 @@
 2 Alseid of Life's Bounty
 2 Cartouche of Solidarity
 2 Ethereal Armor
-2 Oppressive Rays
 2 All That Glitters
 2 Hopeful Eidolon
 2 Angelic Gift
@@ -129,6 +132,7 @@
 2 Transcendent Envoy
 2 Sentinel's Eyes
 2 Helm of the Gods
+2 Oppressive Rays
 3 Oppressive Rays
 3 Hopeful Eidolon
 3 Transcendent Envoy
@@ -159,10 +163,10 @@
 2 Bishop of Wings
 3 Speaker of the Heavens
 3 Emeria's Call
-3 Shalai, Voice of Plenty
 3 Archangel Avacyn
 3 Angel of Vitality
 3 Resplendent Angel
+3 Shalai, Voice of Plenty
 3 Bishop of Wings
 4 Speaker of the Heavens
 4 Resplendent Angel
