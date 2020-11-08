@@ -1,83 +1,81 @@
 3 Path to Exile
 1 Archmage's Charm
-4 Path to Exile
 2 Hallowed Fountain
 1 Opt
 2 Opt
 3 Opt
+4 Path to Exile
 1 Field of Ruin
+4 Opt
 2 Field of Ruin
 2 Archmage's Charm
-4 Opt
 1 Polluted Delta
 1 Spell Snare
+1 Mana Leak
 4 Island
 5 Island
-1 Mana Leak
-3 Field of Ruin
-6 Island
+2 Polluted Delta
 1 Snow-Covered Plains
 1 Snow-Covered Island
 2 Snow-Covered Island
-2 Polluted Delta
 1 Terminus
-2 Plains
-4 Field of Ruin
-1 Celestial Colonnade
 3 Polluted Delta
-2 Terminus
-3 Terminus
-3 Mystic Sanctuary
-3 Archmage's Charm
-1 Misty Rainforest
-2 Misty Rainforest
-3 Snow-Covered Island
-1 Supreme Verdict
-1 Logic Knot
-1 Sword of Feast and Famine
-1 Batterskull
+3 Field of Ruin
 1 Stoneforge Mystic
+1 Batterskull
+1 Sword of Feast and Famine
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-3 Jace, the Mind Sculptor
-2 Supreme Verdict
+6 Island
+1 Misty Rainforest
+2 Misty Rainforest
+3 Archmage's Charm
+3 Mystic Sanctuary
+2 Terminus
+3 Terminus
+3 Snow-Covered Island
+1 Logic Knot
+2 Plains
+4 Field of Ruin
+1 Celestial Colonnade
 2 Mana Leak
 1 Sword of Fire and Ice
+3 Jace, the Mind Sculptor
 4 Polluted Delta
+1 Supreme Verdict
 1 Omen of the Sea
 2 Omen of the Sea
 3 Omen of the Sea
 4 Terminus
+2 Supreme Verdict
+4 Snow-Covered Island
+5 Snow-Covered Island
+4 Mystic Sanctuary
+1 Castle Ardenvale
 1 Delay
 2 Delay
 2 Celestial Colonnade
 3 Supreme Verdict
 1 Glacial Fortress
-4 Snow-Covered Island
-5 Snow-Covered Island
-4 Mystic Sanctuary
-3 Delay
-4 Delay
-1 Castle Ardenvale
 3 Misty Rainforest
 4 Misty Rainforest
 1 Ice-Fang Coatl
+1 Noble Hierarch
+1 Snow-Covered Forest
 1 Uro, Titan of Nature's Wrath
 1 Breeding Pool
-1 Snow-Covered Forest
-1 Noble Hierarch
 1 Temple Garden
 1 Windswept Heath
 1 Birds of Paradise
 2 Ice-Fang Coatl
+2 Noble Hierarch
 2 Uro, Titan of Nature's Wrath
 2 Windswept Heath
-2 Noble Hierarch
 2 Birds of Paradise
 2 Snow-Covered Forest
-3 Noble Hierarch
 3 Ice-Fang Coatl
+3 Noble Hierarch
 3 Snow-Covered Forest
 3 Mana Leak
 4 Noble Hierarch
@@ -86,7 +84,6 @@
 1 Counterbalance
 2 Counterbalance
 1 Timely Reinforcements
-2 Glacial Fortress
 1 Sea Gate Restoration
 1 Frantic Inventory
 1 Deprive
@@ -97,8 +94,8 @@
 1 Condemn
 2 Condemn
 3 Counterbalance
-4 Omen of the Sea
 4 Counterbalance
+4 Omen of the Sea
 1 Spreading Seas
 2 Spreading Seas
 3 Spreading Seas
@@ -106,6 +103,8 @@
 4 Shark Typhoon
 3 Uro, Titan of Nature's Wrath
 4 Snow-Covered Forest
+3 Delay
+4 Delay
 6 Snow-Covered Island
 1 Spell Queller
 1 Waterlogged Grove
@@ -142,9 +141,31 @@
 1 Shadow of Doubt
 1 Aether Gust
 2 Aether Gust
-1 Geist of Saint Traft
+2 Glacial Fortress
 1 Deputy of Detention
+1 Geist of Saint Traft
 2 Waterlogged Grove
+1 Watery Grave
+1 Creeping Tar Pit
+1 Marsh Flats
+1 Fatal Push
+1 Tasigur, the Golden Fang
+1 Kaya's Guile
+1 Godless Shrine
+1 Inquisition of Kozilek
+1 Thoughtseize
+1 Swamp
+1 Esper Charm
+2 Watery Grave
+2 Fatal Push
+2 Kaya's Guile
+2 Inquisition of Kozilek
+2 Thoughtseize
+2 Creeping Tar Pit
+3 Fatal Push
+3 Kaya's Guile
+3 Creeping Tar Pit
+3 Thoughtseize
 1 Time Warp
 1 Castle Vantress
 1 Monastery Mentor

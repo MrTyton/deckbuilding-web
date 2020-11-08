@@ -100,9 +100,9 @@
 3 Island
 1 Sunken Ruins
 1 Snapcaster Mage
-1 Tasigur, the Golden Fang
 1 Vendilion Clique
 1 Cryptic Command
+1 Tasigur, the Golden Fang
 1 Scalding Tarn
 2 Snapcaster Mage
 2 Scalding Tarn
@@ -135,26 +135,26 @@
 4 Emeria's Call
 1 Silundi Vision
 1 Teferi, Hero of Dominaria
-1 Talisman of Progress
-1 Disrupting Shoal
-1 Jace, the Mind Sculptor
 1 Jwari Disruption
-1 Teferi, Time Raveler
 1 Skyclave Cleric
+1 Disrupting Shoal
+1 Talisman of Progress
+1 Jace, the Mind Sculptor
+1 Teferi, Time Raveler
 1 Beyeen Veil
 1 Pieces of the Puzzle
 1 Path to Exile
 1 Selective Memory
 1 Snapback
+2 Skyclave Cleric
 2 Talisman of Progress
-2 Silundi Vision
 2 Disrupting Shoal
 2 Selective Memory
 2 Path to Exile
+2 Silundi Vision
 2 Teferi, Time Raveler
 2 Snapback
 2 Jwari Disruption
-2 Skyclave Cleric
 2 Beyeen Veil
 2 Pieces of the Puzzle
 3 Disrupting Shoal
@@ -173,6 +173,7 @@
 4 Silundi Vision
 1 Forest
 1 Karn, the Great Creator
+1 Mountain
 1 Aether Hub
 1 Emrakul, the Aeons Torn
 1 Through the Breach
@@ -183,7 +184,6 @@
 1 Uro, Titan of Nature's Wrath
 1 Steam Vents
 1 Waterlogged Grove
-1 Mountain
 1 Wooded Foothills
 1 Woodweaver's Puzzleknot
 1 Misty Rainforest
@@ -266,15 +266,15 @@
 4 Omen of the Sea
 4 Darkslick Shores
 1 Lotus Field
-1 Lonely Sandbar
 1 Empty the Warrens
 1 Shivan Reef
 1 Peer Through Depths
 1 Ideas Unbound
-1 Echoing Truth
 1 Serum Visions
 1 Reach Through Mists
 1 Psychic Puppetry
+1 Echoing Truth
+1 Lonely Sandbar
 1 Twiddle
 1 Grapeshot
 1 Past in Flames
@@ -299,10 +299,10 @@
 3 Sleight of Hand
 3 Lonely Sandbar
 3 Shivan Reef
+3 Past in Flames
 3 Psychic Puppetry
 3 Serum Visions
 3 Ideas Unbound
-3 Past in Flames
 3 Peer Through Depths
 3 Lotus Field
 3 Dream's Grip

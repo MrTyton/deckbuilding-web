@@ -1,9 +1,9 @@
 1 Shefet Dunes
-1 Restoration Angel
 2 Horizon Canopy
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
+1 Restoration Angel
 3 Silent Clearing
 4 Silent Clearing
 4 Snow-Covered Plains
@@ -13,6 +13,7 @@
 8 Snow-Covered Plains
 9 Snow-Covered Plains
 2 Shefet Dunes
+1 Selfless Savior
 1 Seachrome Coast
 1 Spell Queller
 1 Island
@@ -20,40 +21,34 @@
 2 Seachrome Coast
 2 Spell Queller
 2 Hallowed Fountain
+3 Hallowed Fountain
 3 Spell Queller
 3 Seachrome Coast
-4 Spell Queller
 4 Seachrome Coast
-1 Selfless Savior
-3 Hallowed Fountain
 4 Hallowed Fountain
+4 Spell Queller
 1 Glasspool Mimic
 1 Confounding Conundrum
 1 Adarkar Wastes
 2 Selfless Savior
-2 Confounding Conundrum
 2 Glasspool Mimic
+2 Confounding Conundrum
 2 Adarkar Wastes
 3 Glasspool Mimic
 3 Confounding Conundrum
 3 Adarkar Wastes
-4 Glasspool Mimic
 4 Confounding Conundrum
+4 Glasspool Mimic
 10 Snow-Covered Plains
-2 Restoration Angel
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
+2 Restoration Angel
 1 Scavenger Grounds
 3 Teferi, Time Raveler
-1 Deputy of Detention
-1 Lurrus of the Dream-Den
-2 Deputy of Detention
-2 Lurrus of the Dream-Den
 11 Plains
+1 Sword of Light and Shadow
 11 Snow-Covered Plains
-1 Serra Avenger
-2 Serra Avenger
-2 Island
+1 Sword of Feast and Famine
 2 Sunbaked Canyon
 1 Eldrazi Temple
 1 Eldrazi Displacer
@@ -65,82 +60,88 @@
 3 Eldrazi Temple
 3 Eldrazi Displacer
 4 Thought-Knot Seer
-4 Eldrazi Displacer
 4 Eldrazi Temple
+4 Eldrazi Displacer
+1 Deputy of Detention
+1 Lurrus of the Dream-Den
+2 Deputy of Detention
+2 Lurrus of the Dream-Den
 1 Caves of Koilos
 1 Brightclimb Pathway
+1 Concealed Courtyard
 1 Tectonic Edge
 1 Wasteland Strangler
 1 Tidehollow Sculler
 1 Charming Prince
 1 Swamp
-1 Concealed Courtyard
 2 Caves of Koilos
-2 Wasteland Strangler
-2 Concealed Courtyard
-2 Tidehollow Sculler
 2 Brightclimb Pathway
+2 Concealed Courtyard
+2 Wasteland Strangler
+2 Tidehollow Sculler
 2 Charming Prince
 3 Charming Prince
-3 Caves of Koilos
 3 Wasteland Strangler
 3 Brightclimb Pathway
 3 Concealed Courtyard
 3 Tidehollow Sculler
+3 Caves of Koilos
 4 Concealed Courtyard
-4 Caves of Koilos
 4 Charming Prince
 4 Brightclimb Pathway
 4 Wasteland Strangler
+4 Caves of Koilos
 4 Tidehollow Sculler
-1 Sword of Light and Shadow
-1 Sword of Feast and Famine
+1 Serra Avenger
 1 Aven Mindcensor
 2 Aven Mindcensor
+2 Serra Avenger
 1 Waterlogged Grove
-1 Spirit of the Labyrinth
-1 Tale's End
 1 Unsettled Mariner
 1 Mausoleum Wanderer
-2 Spirit of the Labyrinth
-2 Tale's End
+1 Spirit of the Labyrinth
+1 Tale's End
 2 Unsettled Mariner
+2 Spirit of the Labyrinth
 2 Mausoleum Wanderer
-3 Island
+2 Tale's End
+2 Island
 3 Unsettled Mariner
+3 Island
+1 Linvala, Keeper of Silence
+1 Skyclave Cleric
+2 Skyclave Cleric
+3 Horizon Canopy
+4 Horizon Canopy
+1 Reality Smasher
+1 Battlefield Forge
 1 Wastes
 1 Simian Spirit Guide
-1 Inspiring Vantage
-1 Battlefield Forge
-1 Containment Priest
-1 Gemstone Caverns
-1 Reality Smasher
 1 Bonecrusher Giant
+1 Containment Priest
+1 Inspiring Vantage
+1 Gemstone Caverns
 1 Chalice of the Void
-2 Simian Spirit Guide
+2 Reality Smasher
 2 Battlefield Forge
+2 Simian Spirit Guide
+2 Bonecrusher Giant
 2 Containment Priest
 2 Gemstone Caverns
-2 Reality Smasher
-2 Bonecrusher Giant
 2 Chalice of the Void
-3 Simian Spirit Guide
-3 Sunbaked Canyon
+3 Reality Smasher
 3 Battlefield Forge
 3 Containment Priest
+3 Simian Spirit Guide
+3 Sunbaked Canyon
 3 Chalice of the Void
-3 Reality Smasher
 3 Gemstone Caverns
-4 Simian Spirit Guide
-4 Sunbaked Canyon
-4 Chalice of the Void
 4 Reality Smasher
 4 Battlefield Forge
 4 Containment Priest
-2 Batterskull
-3 Archon of Emeria
-3 Batterskull
-4 Batterskull
+4 Simian Spirit Guide
+4 Sunbaked Canyon
+4 Chalice of the Void
 1 Mutavault
 1 Phyrexian Revoker
 2 Mutavault
@@ -148,15 +149,7 @@
 3 Mutavault
 4 Mutavault
 12 Snow-Covered Plains
-1 Meddling Mage
-1 Flooded Strand
-1 Blade Splicer
-2 Meddling Mage
-2 Blade Splicer
-2 Flooded Strand
-3 Meddling Mage
-3 Deputy of Detention
-3 Horizon Canopy
-3 Restoration Angel
-4 Meddling Mage
-4 Deputy of Detention
+2 Batterskull
+3 Archon of Emeria
+3 Batterskull
+4 Batterskull

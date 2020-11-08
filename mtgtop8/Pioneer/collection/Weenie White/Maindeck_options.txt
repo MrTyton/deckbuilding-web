@@ -8,13 +8,13 @@
 9 Plains
 10 Plains
 11 Plains
-1 Knight of the White Orchid
-1 Heliod, Sun-Crowned
 1 Castle Ardenvale
+1 Heliod, Sun-Crowned
 1 Nykthos, Shrine to Nyx
-2 Knight of the White Orchid
+1 Knight of the White Orchid
 2 Heliod, Sun-Crowned
 2 Nykthos, Shrine to Nyx
+2 Knight of the White Orchid
 3 Heliod, Sun-Crowned
 1 Daxos, Blessed by the Sun
 2 Daxos, Blessed by the Sun
@@ -25,8 +25,8 @@
 15 Plains
 16 Plains
 17 Plains
-1 Idyllic Grange
 1 Stasis Snare
+1 Idyllic Grange
 2 Stasis Snare
 3 Knight of the White Orchid
 3 Nykthos, Shrine to Nyx
@@ -48,9 +48,9 @@
 1 Hallowed Fountain
 1 Reflector Mage
 2 Irrigated Farmland
-2 Banishing Light
 2 Charming Prince
 2 Teferi, Time Raveler
+2 Banishing Light
 2 Baffling End
 2 Shark Typhoon
 2 Temple of Enlightenment
@@ -58,15 +58,15 @@
 2 Reflector Mage
 2 Arcanist's Owl
 2 Glacial Fortress
-3 Temple of Enlightenment
-3 Reflector Mage
 3 Shark Typhoon
 3 Charming Prince
 3 Irrigated Farmland
 3 Baffling End
 3 Teferi, Time Raveler
 3 Glacial Fortress
+3 Reflector Mage
 3 Arcanist's Owl
+3 Temple of Enlightenment
 3 Hallowed Fountain
 4 Temple of Enlightenment
 4 Teferi, Time Raveler
@@ -88,24 +88,8 @@
 1 Liliana, Heretical Healer
 2 Kitesail Freebooter
 3 Kitesail Freebooter
-1 Archangel of Thune
-1 Leonin Vanguard
-1 Ajani's Pridemate
-1 Linden, the Steadfast Queen
-2 Leonin Vanguard
-2 Idyllic Grange
-2 Archangel of Thune
-2 Ajani's Pridemate
-2 Linden, the Steadfast Queen
-3 Leonin Vanguard
-3 Ajani's Pridemate
-3 Stasis Snare
-3 Skyclave Apparition
-4 Leonin Vanguard
-4 Ajani's Pridemate
-4 Stasis Snare
-1 Benalish Marshal
 1 Mardu Woe-Reaper
+1 Benalish Marshal
 2 Benalish Marshal
 4 Luminarch Aspirant
 18 Plains
@@ -144,14 +128,30 @@
 3 Karametra's Blessing
 4 Alseid of Life's Bounty
 4 Hopeful Eidolon
+1 Leonin Vanguard
+1 Linden, the Steadfast Queen
+1 Ajani's Pridemate
+1 Archangel of Thune
+2 Idyllic Grange
+2 Archangel of Thune
+2 Linden, the Steadfast Queen
+2 Ajani's Pridemate
+2 Leonin Vanguard
+3 Skyclave Apparition
+3 Ajani's Pridemate
+3 Leonin Vanguard
+3 Stasis Snare
+4 Ajani's Pridemate
+4 Stasis Snare
+4 Leonin Vanguard
 1 Emeria's Call
 1 Shalai, Voice of Plenty
-1 Sejiri Shelter
 1 Lyra Dawnbringer
 1 Archangel Avacyn
 1 Legion Angel
 1 Resplendent Angel
 1 Bishop of Wings
+1 Sejiri Shelter
 1 Angel of Vitality
 2 Emeria's Call
 2 Sejiri Shelter

@@ -1,6 +1,5 @@
 2 Ramunap Ruins
 3 Ramunap Ruins
-1 Castle Embereth
 4 Ramunap Ruins
 8 Mountain
 9 Mountain
@@ -9,6 +8,7 @@
 12 Mountain
 13 Mountain
 14 Mountain
+1 Castle Embereth
 15 Mountain
 16 Mountain
 1 Bonecrusher Giant
@@ -19,6 +19,7 @@
 3 Torbran, Thane of Red Fell
 4 Bonecrusher Giant
 1 Wayward Guide-Beast
+1 Shock
 2 Castle Embereth
 1 Spikefield Hazard
 2 Spikefield Hazard
@@ -30,7 +31,6 @@
 2 Kari Zev, Skyship Raider
 1 Needleverge Pathway
 1 Ash Zealot
-1 Shock
 2 Ash Zealot
 1 Legion Warboss
 1 Burning-Tree Emissary
@@ -41,6 +41,9 @@
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
 17 Mountain
+1 Skewer the Critics
+2 Skewer the Critics
+3 Skewer the Critics
 1 Zurgo Bellstriker
 1 Mutavault
 1 Rampaging Ferocidon
@@ -57,14 +60,40 @@
 1 Chandra, Torch of Defiance
 3 Rampaging Ferocidon
 4 Rampaging Ferocidon
-1 Skewer the Critics
 1 Roiling Vortex
-2 Skewer the Critics
 2 Roiling Vortex
 3 Spikefield Hazard
-3 Skewer the Critics
 4 Skewer the Critics
 4 Spikefield Hazard
+2 Shock
+3 Shock
+4 Shock
+1 Legion Loyalist
+1 Foundry Street Denizen
+1 Fanatical Firebrand
+1 Embercleave
+1 Goblin Warchief
+1 Goblin Piledriver
+1 Reckless Bushwhacker
+2 Fanatical Firebrand
+2 Legion Loyalist
+2 Foundry Street Denizen
+2 Reckless Bushwhacker
+2 Embercleave
+2 Goblin Warchief
+2 Goblin Piledriver
+3 Goblin Warchief
+3 Goblin Piledriver
+3 Legion Loyalist
+3 Fanatical Firebrand
+3 Embercleave
+3 Foundry Street Denizen
+4 Goblin Warchief
+4 Fanatical Firebrand
+4 Embercleave
+4 Legion Loyalist
+4 Foundry Street Denizen
+4 Goblin Piledriver
 1 Bomat Courier
 1 Runaway Steam-Kin
 2 Bomat Courier
@@ -72,29 +101,3 @@
 3 Bomat Courier
 3 Runaway Steam-Kin
 4 Runaway Steam-Kin
-1 Fanatical Firebrand
-1 Foundry Street Denizen
-1 Embercleave
-1 Goblin Warchief
-1 Legion Loyalist
-1 Goblin Piledriver
-1 Reckless Bushwhacker
-2 Fanatical Firebrand
-2 Foundry Street Denizen
-2 Reckless Bushwhacker
-2 Legion Loyalist
-2 Embercleave
-2 Goblin Warchief
-2 Goblin Piledriver
-3 Goblin Warchief
-3 Goblin Piledriver
-3 Embercleave
-3 Foundry Street Denizen
-3 Fanatical Firebrand
-3 Legion Loyalist
-4 Goblin Warchief
-4 Embercleave
-4 Foundry Street Denizen
-4 Goblin Piledriver
-4 Fanatical Firebrand
-4 Legion Loyalist

@@ -121,31 +121,31 @@
 1 Botanical Sanctum
 1 Swamp
 1 Drown in the Loch
-1 Thieves' Guild Enforcer
 1 Thoughtseize
+1 Thieves' Guild Enforcer
 1 Soaring Thought-Thief
 1 Fatal Push
 1 Watery Grave
 2 Clearwater Pathway
-2 Thieves' Guild Enforcer
 2 Thoughtseize
-2 Soaring Thought-Thief
+2 Thieves' Guild Enforcer
 2 Drown in the Loch
 2 Fatal Push
 2 Watery Grave
+2 Soaring Thought-Thief
 3 Thoughtseize
-3 Thieves' Guild Enforcer
-3 Soaring Thought-Thief
 3 Clearwater Pathway
 3 Drown in the Loch
+3 Thieves' Guild Enforcer
 3 Fatal Push
 3 Watery Grave
+3 Soaring Thought-Thief
 4 Fatal Push
 4 Thoughtseize
-4 Thieves' Guild Enforcer
 4 Watery Grave
-4 Soaring Thought-Thief
 4 Drown in the Loch
+4 Thieves' Guild Enforcer
+4 Soaring Thought-Thief
 1 Hallowed Fountain
 2 Hallowed Fountain
 1 Brazen Borrower
@@ -171,8 +171,8 @@
 4 Spell Queller
 3 Island
 4 Island
-1 Mardu Woe-Reaper
 1 Benalish Marshal
+1 Mardu Woe-Reaper
 2 Benalish Marshal
 1 Blisterpod
 2 Blisterpod
@@ -188,8 +188,8 @@
 1 Drowned Catacomb
 1 Mystical Dispute
 2 Drowned Catacomb
-2 Eliminate
 2 Nighthawk Scavenger
+2 Eliminate
 2 Zareth San, the Trickster
 2 Mystical Dispute
 2 Fabled Passage
@@ -204,10 +204,10 @@
 1 Skyclave Cleric
 1 Charming Prince
 1 Skyclave Apparition
-2 Glasspool Mimic
 2 Branchloft Pathway
 2 Skyclave Apparition
 2 Skyclave Cleric
+2 Glasspool Mimic
 2 Charming Prince
 2 Militia Bugler
 3 Branchloft Pathway
@@ -239,11 +239,11 @@
 1 Stonecoil Serpent
 1 Enter the Infinite
 1 Shared Summons
+1 Rosethorn Acolyte
 1 Beanstalk Giant
 1 Steam Vents
 1 Fae of Wishes
 1 Lucky Clover
-1 Rosethorn Acolyte
 1 Sulfur Falls
 2 Possibility Storm
 2 Beanstalk Giant
@@ -253,11 +253,11 @@
 2 Lucky Clover
 2 Fae of Wishes
 3 Possibility Storm
-3 Lucky Clover
 3 Beanstalk Giant
+3 Lucky Clover
 3 Fae of Wishes
-4 Fae of Wishes
 4 Beanstalk Giant
+4 Fae of Wishes
 4 Lucky Clover
 1 Skyclave Shade
 1 Korvold, Fae-Cursed King
@@ -272,22 +272,22 @@
 1 Deathrite Shaman
 1 Mutavault
 1 Chart a Course
-2 Into the Story
 2 Merfolk Windrobber
+2 Into the Story
 2 Deathrite Shaman
 2 Chart a Course
 2 Mutavault
-3 Into the Story
 3 Botanical Sanctum
 3 Merfolk Windrobber
+3 Into the Story
 3 Deathrite Shaman
 3 Chart a Course
 3 Mutavault
-4 Into the Story
 4 Clearwater Pathway
 4 Merfolk Windrobber
 4 Deathrite Shaman
 4 Chart a Course
+4 Into the Story
 4 Botanical Sanctum
 1 Scavenging Ooze
 2 Scavenging Ooze
@@ -362,6 +362,7 @@
 4 Unclaimed Territory
 1 Rhonas the Indomitable
 1 Game Trail
+1 Wildborn Preserver
 1 Cinder Glade
 1 Yorvo, Lord of Garenbrig
 1 Gruul Spellbreaker
@@ -369,7 +370,6 @@
 1 Pelt Collector
 1 Klothys, God of Destiny
 1 Atarka's Command
-1 Wildborn Preserver
 1 Burning-Tree Emissary
 1 Reckless Bushwhacker
 2 Rootbound Crag
@@ -381,8 +381,8 @@
 2 Reckless Bushwhacker
 2 Burning-Tree Emissary
 3 Rootbound Crag
-3 Reckless Bushwhacker
 3 Game Trail
+3 Reckless Bushwhacker
 3 Gruul Spellbreaker
 3 Scavenging Ooze
 3 Elvish Mystic
@@ -396,9 +396,9 @@
 4 Stomping Ground
 1 Watcher of the Spheres
 1 Glacial Fortress
+1 Azorius Charm
 1 Archangel Avacyn
 1 Irrigated Farmland
-1 Azorius Charm
 1 Emeria's Call
 1 Lofty Denial
 1 Winged Words
@@ -430,11 +430,11 @@
 5 Island
 6 Island
 7 Island
-1 Lazotep Reaver
 1 Foulmire Knight
-1 Cryptbreaker
 1 Dark Salvation
+1 Cryptbreaker
 1 Wayward Servant
+1 Lazotep Reaver
 1 Diregraf Colossus
 1 Corpse Knight
 1 Stitcher's Supplier
@@ -444,11 +444,11 @@
 1 Necrotic Wound
 1 Slitherhead
 2 Isolated Chapel
-2 Lazotep Reaver
-2 Cryptbreaker
 2 Wayward Servant
-2 Dark Salvation
 2 Foulmire Knight
+2 Dark Salvation
+2 Cryptbreaker
+2 Lazotep Reaver
 2 Diregraf Colossus
 2 Liliana, Untouched by Death
 2 Slitherhead
@@ -457,10 +457,10 @@
 2 Stitcher's Supplier
 2 Rally the Ancestors
 3 Isolated Chapel
-3 Lazotep Reaver
-3 Cryptbreaker
-3 Wayward Servant
 3 Dark Salvation
+3 Wayward Servant
+3 Cryptbreaker
+3 Lazotep Reaver
 3 Corpse Knight
 3 Liliana, Untouched by Death
 3 Castle Locthwain

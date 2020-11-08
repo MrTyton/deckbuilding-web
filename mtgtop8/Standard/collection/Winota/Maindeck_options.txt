@@ -41,15 +41,15 @@
 1 Kitesail Freebooter
 1 Judith, the Scourge Diva
 1 Lazotep Reaver
-2 Woe Strider
 2 Godless Shrine
 2 Savai Triome
 2 Blood Crypt
 2 Lazotep Reaver
 2 Judith, the Scourge Diva
+2 Woe Strider
 2 Kitesail Freebooter
-3 Godless Shrine
 3 Savai Triome
+3 Godless Shrine
 3 Blood Crypt
 3 Judith, the Scourge Diva
 4 Blood Crypt
@@ -114,15 +114,14 @@
 4 Pack Leader
 1 Temple of Silence
 1 Venerated Loxodon
-2 Venerated Loxodon
 2 Temple of Silence
+2 Venerated Loxodon
 3 Woe Strider
 3 Venerated Loxodon
 3 Lazotep Reaver
 4 Venerated Loxodon
 4 Lazotep Reaver
 1 Charming Prince
-1 Oko, Thief of Crowns
 1 Arboreal Grazer
 1 Hallowed Fountain
 1 Paradise Druid
@@ -134,22 +133,23 @@
 1 Gilded Goose
 1 Once Upon a Time
 1 Forest
+1 Oko, Thief of Crowns
 2 Temple Garden
-2 Oko, Thief of Crowns
-2 Breeding Pool
 2 Arboreal Grazer
-2 Hallowed Fountain
+2 Breeding Pool
 2 Paradise Druid
+2 Hallowed Fountain
 2 Steam Vents
-2 Stomping Ground
 2 Agent of Treachery
+2 Stomping Ground
 2 Gilded Goose
 2 Once Upon a Time
+2 Oko, Thief of Crowns
 2 Forest
+3 Oko, Thief of Crowns
 3 Hallowed Fountain
 3 Temple Garden
 3 Breeding Pool
-3 Oko, Thief of Crowns
 3 Arboreal Grazer
 3 Stomping Ground
 3 Agent of Treachery
@@ -164,10 +164,10 @@
 4 Gilded Goose
 4 Once Upon a Time
 4 Agent of Treachery
-1 Faerie Guidemother
 1 Garrison Cat
 1 Giant Killer
 1 Seven Dwarves
+1 Faerie Guidemother
 2 Garrison Cat
 2 Seven Dwarves
 3 Garrison Cat

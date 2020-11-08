@@ -29,9 +29,9 @@
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
 |                    1|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)      |                    2|[Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)|
-|                    2|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)      |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)    |
-|                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130) |                    1|[Shatterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130370) |
-|                    3|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)      |                    1|[Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)  |
+|                    2|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)      |                    1|[Shatterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130370) |
+|                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130) |                    1|[Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)  |
+|                    3|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)      |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)    |
 |                    4|[Shivan Reef](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129731)         |                     |                                                                                        |
 |                    1|[Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|                     |                                                                                        |
 

@@ -85,11 +85,11 @@
 3 Mystical Dispute
 4 Sunpetal Grove
 1 Chandra, Flamecaller
-1 Karn's Bastion
 1 Oath of Chandra
 1 Time Wipe
 1 Baffling End
 1 Sea Gate Restoration
+1 Karn's Bastion
 1 Karn's Temporal Sundering
 1 Oath of Gideon
 2 Baffling End
@@ -111,15 +111,15 @@
 1 Arboreal Grazer
 1 Satyr Wayfinder
 1 Karn, the Great Creator
-2 Charming Prince
 2 Skyclave Apparition
+2 Charming Prince
 2 Arboreal Grazer
 2 Karn, the Great Creator
 2 Satyr Wayfinder
-3 Skyclave Apparition
 3 Yorion, Sky Nomad
 3 Charming Prince
 3 Arboreal Grazer
+3 Skyclave Apparition
 3 Satyr Wayfinder
 3 Karn, the Great Creator
 4 Temple Garden
@@ -132,26 +132,26 @@
 1 Kari Zev, Skyship Raider
 1 Castle Embereth
 1 Soul-Scar Mage
-1 Omen of the Forge
 1 Purphoros, God of the Forge
-1 Bonecrusher Giant
 1 Mutavault
 1 Anax, Hardened in the Forge
-1 Needle Spires
 1 Wild Slash
 1 Siege-Gang Commander
+1 Omen of the Forge
 1 Battlefield Forge
 1 Inspiring Vantage
+1 Needle Spires
+1 Bonecrusher Giant
 1 Goblin Rabblemaster
 1 Earthshaker Khenra
 1 Pia and Kiran Nalaar
 2 Kari Zev, Skyship Raider
 2 Soul-Scar Mage
 2 Mutavault
-2 Omen of the Forge
 2 Purphoros, God of the Forge
 2 Anax, Hardened in the Forge
 2 Wild Slash
+2 Omen of the Forge
 2 Battlefield Forge
 2 Siege-Gang Commander
 2 Pia and Kiran Nalaar
@@ -197,11 +197,9 @@
 1 Ashiok, Nightmare Muse
 1 Nicol Bolas, the Ravager
 1 Dragonskull Summit
-1 Chandra, Torch of Defiance
-1 Temple of Deceit
+1 Nicol Bolas, Dragon-God
 1 Clearwater Pathway
 1 Chandra, Awakened Inferno
-1 Nicol Bolas, Dragon-God
 1 Drawn from Dreams
 1 Bontu's Last Reckoning
 1 Blood Crypt
@@ -213,17 +211,19 @@
 1 Drowned Catacomb
 1 The Scorpion God
 1 The Scarab God
+1 Temple of Deceit
 1 Thought Erasure
 1 Fae of Wishes
 1 Sarkhan the Masterless
+1 Chandra, Torch of Defiance
 2 Drawn from Dreams
 2 Swamp
 2 Temple of Deceit
 2 Dragonskull Summit
 2 Riverglide Pathway
-2 Blood Crypt
 2 Clearwater Pathway
 2 Bontu's Last Reckoning
+2 Blood Crypt
 2 Nicol Bolas, Dragon-God
 2 Dreadbore
 2 Nicol Bolas, the Ravager
@@ -232,8 +232,8 @@
 2 Thought Erasure
 2 Thoughtseize
 2 Fae of Wishes
-3 Blood Crypt
 3 Fae of Wishes
+3 Blood Crypt
 3 Nicol Bolas, Dragon-God
 3 Watery Grave
 3 Nicol Bolas, the Ravager
