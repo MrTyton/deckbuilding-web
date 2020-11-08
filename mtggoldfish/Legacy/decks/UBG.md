@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)      |                    1|[Eliminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485420)        |
-|                    1|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)    |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)     |
+|                    1|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)    |                    1|[Eliminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485420)        |
+|                    1|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)      |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)     |
 |                    2|[Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)|                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
 |                    2|[Snuff Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201794)      |                    1|[Sign in Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220480)    |
 |                    2|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)    |                    1|[Tsabo's Web](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=23228)       |

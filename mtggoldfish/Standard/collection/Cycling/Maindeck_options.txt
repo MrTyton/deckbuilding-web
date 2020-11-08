@@ -1,19 +1,19 @@
 4 Brightclimb Pathway
+4 Mountain
+1 Shatterskull Smashing
 3 Boon of the Wish-Giver
 4 Boon of the Wish-Giver
-4 Mountain
 4 Frostveil Ambush
-1 Shatterskull Smashing
 6 Plains
 5 Mountain
 7 Plains
-2 Shatterskull Smashing
 1 Shredded Sails
+2 Shatterskull Smashing
 1 Raugrin Triome
-8 Plains
 2 Shredded Sails
 3 Shatterskull Smashing
 3 Shredded Sails
+8 Plains
 9 Plains
 1 Emeria's Call
 1 Savai Triome
@@ -36,8 +36,6 @@
 3 Ominous Seas
 3 Temple of Triumph
 4 Temple of Triumph
-1 Spikefield Hazard
-2 Spikefield Hazard
 1 Fabled Passage
 6 Mountain
 10 Plains
@@ -52,14 +50,14 @@
 4 Imposing Vantasaur
 4 Fiend Artisan
 2 Island
-1 Valakut Awakening
 1 Fire Prophecy
-1 Skyclave Apparition
-1 Legion Angel
-2 Skyclave Apparition
+1 Valakut Awakening
 1 Swamp
 1 Clearwater Pathway
 2 Swamp
+1 Skyclave Apparition
+1 Legion Angel
+2 Skyclave Apparition
 1 Sejiri Shelter
 2 Fabled Passage
 1 Selfless Savior
@@ -72,9 +70,11 @@
 2 Splendor Mare
 3 Splendor Mare
 3 Titanoth Rex
+1 Spikefield Hazard
 1 Raking Claws
 1 Coordinated Charge
 1 Suffocating Fumes
+2 Spikefield Hazard
 3 Spikefield Hazard
 4 Spikefield Hazard
 1 Improbable Alliance
@@ -86,6 +86,12 @@
 3 Rielle, the Everwise
 4 Raugrin Triome
 4 Rielle, the Everwise
+1 Frost Breath
+2 Frost Breath
+3 Frost Breath
+4 Frost Breath
+7 Mountain
+8 Mountain
 1 Neutralize
 1 Temple of Enlightenment
 1 Temple of Epiphany
@@ -98,9 +104,3 @@
 4 Island
 4 Neutralize
 4 Temple of Epiphany
-1 Frost Breath
-2 Frost Breath
-3 Frost Breath
-4 Frost Breath
-7 Mountain
-8 Mountain

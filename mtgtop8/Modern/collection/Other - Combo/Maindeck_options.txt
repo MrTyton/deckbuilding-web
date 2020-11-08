@@ -6,8 +6,8 @@
 1 Salvage Titan
 1 Agadeem's Awakening
 1 Undercity Informer
-2 Agadeem's Awakening
 2 Creeping Chill
+2 Agadeem's Awakening
 2 Narcomoeba
 2 Sword of the Meek
 2 Undercity Informer
@@ -50,8 +50,8 @@
 2 Thoughtseize
 3 Thoughtseize
 1 Opt
-1 Thassa's Oracle
 1 Jace, Wielder of Mysteries
+1 Thassa's Oracle
 2 Opt
 2 Thassa's Oracle
 3 Opt
@@ -68,10 +68,10 @@
 2 Watery Grave
 2 Polluted Delta
 2 Fatal Push
+2 Jace, Wielder of Mysteries
 2 Inquisition of Kozilek
 2 River of Tears
 2 Inverter of Truth
-2 Jace, Wielder of Mysteries
 3 Remand
 3 Fatal Push
 3 Jace, Wielder of Mysteries
@@ -100,18 +100,18 @@
 3 Island
 1 Sunken Ruins
 1 Snapcaster Mage
+1 Tasigur, the Golden Fang
 1 Vendilion Clique
 1 Cryptic Command
-1 Tasigur, the Golden Fang
 1 Scalding Tarn
 2 Snapcaster Mage
 2 Scalding Tarn
 3 Polluted Delta
 3 Shelldock Isle
 3 Snapcaster Mage
+4 Polluted Delta
 4 Jace, Wielder of Mysteries
 4 Shelldock Isle
-4 Polluted Delta
 1 Vessel of Volatility
 2 Vessel of Volatility
 3 Vessel of Volatility
@@ -119,14 +119,14 @@
 1 Veil of Summer
 1 Worldspine Wurm
 2 Swamp
-1 Darkslick Shores
 1 Omen of the Sea
 1 Eldrazi Temple
 1 Snow-Covered Island
-2 Darkslick Shores
+1 Darkslick Shores
 2 Omen of the Sea
 2 Eldrazi Temple
 2 Relic of Progenitus
+2 Darkslick Shores
 3 Omen of the Sea
 3 Relic of Progenitus
 3 Darkslick Shores
@@ -135,10 +135,10 @@
 4 Emeria's Call
 1 Silundi Vision
 1 Teferi, Hero of Dominaria
-1 Jwari Disruption
-1 Disrupting Shoal
 1 Talisman of Progress
+1 Disrupting Shoal
 1 Jace, the Mind Sculptor
+1 Jwari Disruption
 1 Teferi, Time Raveler
 1 Skyclave Cleric
 1 Beyeen Veil
@@ -147,23 +147,23 @@
 1 Selective Memory
 1 Snapback
 2 Talisman of Progress
+2 Silundi Vision
 2 Disrupting Shoal
 2 Selective Memory
 2 Path to Exile
-2 Silundi Vision
 2 Teferi, Time Raveler
 2 Snapback
 2 Jwari Disruption
 2 Skyclave Cleric
 2 Beyeen Veil
 2 Pieces of the Puzzle
-3 Talisman of Progress
 3 Disrupting Shoal
 3 Jwari Disruption
 3 Teferi, Time Raveler
 3 Snapback
 3 Path to Exile
 3 Selective Memory
+3 Talisman of Progress
 3 Silundi Vision
 4 Disrupting Shoal
 4 Jwari Disruption
@@ -258,8 +258,8 @@
 4 Wild Cantor
 4 Sword of the Meek
 1 Drowned Catacomb
-1 Cavern of Souls
 1 Snow-Covered Swamp
+1 Cavern of Souls
 2 Drowned Catacomb
 3 Inquisition of Kozilek
 3 Drowned Catacomb
@@ -296,8 +296,8 @@
 2 Grapeshot
 2 Past in Flames
 2 Twiddle
-3 Lonely Sandbar
 3 Sleight of Hand
+3 Lonely Sandbar
 3 Shivan Reef
 3 Psychic Puppetry
 3 Serum Visions
@@ -307,10 +307,10 @@
 3 Lotus Field
 3 Dream's Grip
 3 Reach Through Mists
-4 Lonely Sandbar
-4 Serum Visions
 4 Sleight of Hand
+4 Lonely Sandbar
 4 Shivan Reef
+4 Serum Visions
 4 Lotus Field
 4 Reach Through Mists
 4 Peer Through Depths

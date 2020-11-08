@@ -51,10 +51,11 @@
 1 Silundi Vision
 2 Archmage's Charm
 1 Sejiri Shelter
+1 Flagstones of Trokair
 1 Brushfire Elemental
 1 Akoum Hellhound
 1 Atarka's Command
-1 Flagstones of Trokair
+1 Elvish Reclaimer
 1 Temple Garden
 1 Windswept Heath
 1 Mishra's Bauble
@@ -62,35 +63,34 @@
 1 Soaring Seacliff
 1 Sunbaked Canyon
 1 Steppe Lynx
-1 Elvish Reclaimer
 1 Sejiri Steppe
+2 Flagstones of Trokair
 2 Brushfire Elemental
+2 Elvish Reclaimer
 2 Akoum Hellhound
 2 Mishra's Bauble
-2 Flagstones of Trokair
 2 Sacred Foundry
 2 Windswept Heath
-2 Elvish Reclaimer
 2 Atarka's Command
 2 Steppe Lynx
 2 Arid Mesa
 3 Wooded Foothills
-3 Brushfire Elemental
+3 Elvish Reclaimer
 3 Akoum Hellhound
+3 Brushfire Elemental
 3 Atarka's Command
 3 Sacred Foundry
 3 Mishra's Bauble
 3 Steppe Lynx
-3 Elvish Reclaimer
 3 Flagstones of Trokair
 3 Windswept Heath
-4 Wooded Foothills
-4 Brushfire Elemental
-4 Akoum Hellhound
-4 Flagstones of Trokair
-4 Elvish Reclaimer
-4 Mishra's Bauble
 4 Windswept Heath
+4 Wooded Foothills
+4 Elvish Reclaimer
+4 Akoum Hellhound
+4 Brushfire Elemental
+4 Flagstones of Trokair
+4 Mishra's Bauble
 4 Atarka's Command
 4 Steppe Lynx
 1 Sweltering Suns
@@ -98,15 +98,15 @@
 2 Forest
 1 Flooded Strand
 2 Flooded Strand
-1 Omnath, Locus of Creation
-1 Raugrin Triome
-1 Hallowed Fountain
 1 Path to Exile
 1 Teferi, Time Raveler
-2 Omnath, Locus of Creation
-2 Path to Exile
+1 Hallowed Fountain
+1 Omnath, Locus of Creation
+1 Raugrin Triome
 2 Raugrin Triome
+2 Path to Exile
 2 Teferi, Time Raveler
+2 Omnath, Locus of Creation
 3 Path to Exile
 4 Path to Exile
 3 Fatal Push
@@ -116,12 +116,12 @@
 1 Zagoth Triome
 1 Swamp
 1 Abrupt Decay
-1 Field of Ruin
 1 Mesmeric Orb
 1 Glimpse the Unthinkable
 1 Hedron Crab
 1 Visions of Beyond
 1 Archive Trap
+1 Field of Ruin
 1 Ruin Crab
 2 Assassin's Trophy
 2 Mesmeric Orb
@@ -161,15 +161,15 @@
 1 Vendilion Clique
 2 Abrupt Decay
 2 Wilt
-1 Courser of Kruphix
 1 Sheltered Thicket
 1 Terminate
-1 Madcap Experiment
+1 Sultai Charm
 1 Platinum Emperion
+1 Madcap Experiment
 1 Obstinate Baloth
 1 Thoughtseize
-1 Sultai Charm
 1 Anger of the Gods
+1 Courser of Kruphix
 1 Cinder Glade
 2 Snow-Covered Mountain
 2 Obstinate Baloth
@@ -191,10 +191,6 @@
 3 Botanical Sanctum
 3 Prismatic Vista
 4 Botanical Sanctum
-1 Brazen Borrower
-2 Brazen Borrower
-2 Flame Slash
-4 Wrenn and Six
 1 Verdant Catacombs
 1 Maddening Cacophony
 2 Verdant Catacombs
@@ -202,15 +198,19 @@
 2 Swamp
 3 Verdant Catacombs
 4 Verdant Catacombs
-1 Explore
 1 Jwari Disruption
+1 Explore
 1 Peer Through Depths
 1 Farseek
-2 Explore
 2 Jwari Disruption
+2 Explore
 2 Peer Through Depths
 2 Farseek
 3 Jwari Disruption
 4 Jwari Disruption
 3 Censor
 4 Censor
+1 Brazen Borrower
+2 Brazen Borrower
+2 Flame Slash
+4 Wrenn and Six

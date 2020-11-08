@@ -18,7 +18,66 @@
 4 Temple of Malady
 2 Elspeth's Nightmare
 3 Charming Prince
+1 Solemn Simulacrum
+2 Solemn Simulacrum
+1 Ugin, the Spirit Dragon
+1 Shatterskull Smashing
+1 Radiant Fountain
+1 Mazemind Tome
+1 Crawling Barrens
+1 Bonecrusher Giant
+1 Shredded Sails
+1 Storm's Wrath
+1 Mountain
+1 Irencrag Feat
+1 Ox of Agonas
+1 Spikefield Hazard
+2 Ugin, the Spirit Dragon
+2 Crawling Barrens
+2 Shatterskull Smashing
+2 Radiant Fountain
+2 Shredded Sails
+2 Mazemind Tome
+2 Spikefield Hazard
+2 Irencrag Feat
+2 Mountain
+2 Bonecrusher Giant
+2 Ox of Agonas
+3 Mazemind Tome
+3 Solemn Simulacrum
+3 Bonecrusher Giant
+3 Spikefield Hazard
+3 Ugin, the Spirit Dragon
+3 Irencrag Feat
+3 Crawling Barrens
+3 Shatterskull Smashing
+3 Mountain
+4 Mazemind Tome
+4 Spikefield Hazard
+4 Ugin, the Spirit Dragon
+4 Shatterskull Smashing
+4 Solemn Simulacrum
+4 Bonecrusher Giant
+4 Mountain
+5 Mountain
+6 Mountain
+7 Mountain
+8 Mountain
+1 Scorching Dragonfire
+2 Storm's Wrath
+2 Scorching Dragonfire
+3 Storm's Wrath
+3 Scorching Dragonfire
+4 Scorching Dragonfire
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+13 Mountain
+3 Shredded Sails
 2 Eerie Ultimatum
+4 Crawling Barrens
+14 Mountain
 2 Extinction Event
 3 Extinction Event
 1 Acquisitions Expert
@@ -26,12 +85,12 @@
 1 Clearwater Pathway
 2 Clearwater Pathway
 1 Into the Story
-1 Ruin Crab
 1 Island
 1 Drown in the Loch
 1 Temple of Deceit
 1 Thieves' Guild Enforcer
 1 Maddening Cacophony
+1 Ruin Crab
 2 Into the Story
 2 Maddening Cacophony
 2 Ruin Crab
@@ -53,6 +112,7 @@
 4 Ruin Crab
 4 Temple of Deceit
 4 Thieves' Guild Enforcer
+4 Shredded Sails
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
 4 Into the Story
@@ -72,51 +132,7 @@
 3 Teferi's Tutelage
 4 Teferi's Tutelage
 4 Island
-1 Solemn Simulacrum
-2 Solemn Simulacrum
-1 Shatterskull Smashing
-1 Ugin, the Spirit Dragon
-1 Radiant Fountain
-1 Mazemind Tome
-1 Crawling Barrens
-1 Bonecrusher Giant
-1 Shredded Sails
-1 Storm's Wrath
-1 Mountain
-1 Irencrag Feat
-1 Ox of Agonas
-1 Spikefield Hazard
-2 Crawling Barrens
-2 Ugin, the Spirit Dragon
-2 Shatterskull Smashing
-2 Radiant Fountain
-2 Shredded Sails
-2 Mazemind Tome
-2 Spikefield Hazard
-2 Irencrag Feat
-2 Mountain
-2 Bonecrusher Giant
-2 Ox of Agonas
-3 Crawling Barrens
-3 Mazemind Tome
-3 Solemn Simulacrum
-3 Bonecrusher Giant
-3 Spikefield Hazard
-3 Ugin, the Spirit Dragon
-3 Irencrag Feat
-3 Shatterskull Smashing
-3 Mountain
-4 Mazemind Tome
-4 Spikefield Hazard
-4 Ugin, the Spirit Dragon
-4 Shatterskull Smashing
-4 Solemn Simulacrum
-4 Bonecrusher Giant
-4 Mountain
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
+1 Soul Sear
 1 Silundi Vision
 1 Merfolk Secretkeeper
 1 So Tiny
@@ -129,23 +145,8 @@
 4 Bloodchief's Thirst
 4 Silundi Vision
 4 Merfolk Secretkeeper
-1 Scorching Dragonfire
-2 Storm's Wrath
-2 Scorching Dragonfire
-3 Storm's Wrath
-3 Scorching Dragonfire
-4 Crawling Barrens
-4 Scorching Dragonfire
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain
 1 Valakut Awakening
 2 Valakut Awakening
-3 Shredded Sails
-4 Shredded Sails
 1 Jwari Disruption
 1 Frantic Inventory
 2 Jwari Disruption
@@ -164,12 +165,14 @@
 4 Elspeth Conquers Death
 1 Tangled Florahedron
 1 Temple of Silence
-2 Temple of Silence
 2 Tangled Florahedron
+2 Temple of Silence
 3 Elspeth's Nightmare
 3 Temple of Silence
 5 Forest
 6 Forest
+1 Field of Ruin
+2 Field of Ruin
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 1 Heartless Act
@@ -186,8 +189,8 @@
 3 Radiant Fountain
 3 Labyrinth of Skophos
 3 Fire Prophecy
-4 Irencrag Feat
 4 Radiant Fountain
+4 Irencrag Feat
 1 Thirst for Meaning
 3 Jwari Disruption
 3 Mystical Dispute

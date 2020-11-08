@@ -45,10 +45,10 @@
 2 Edgewall Innkeeper
 2 Lovestruck Beast
 2 Giant Killer
-3 Shepherd of the Flock
 3 Faerie Guidemother
 3 Lovestruck Beast
 3 Edgewall Innkeeper
+3 Shepherd of the Flock
 3 Giant Killer
 4 Giant Killer
 4 Shepherd of the Flock
@@ -76,18 +76,18 @@
 1 Banishing Light
 2 Banishing Light
 3 Scavenging Ooze
-1 Mazemind Tome
-1 Flicker of Fate
 1 Bronzehide Lion
+1 Mazemind Tome
 1 Realm-Cloaked Giant
-2 Mazemind Tome
+1 Flicker of Fate
 2 Bronzehide Lion
 2 Realm-Cloaked Giant
-3 Mazemind Tome
+2 Mazemind Tome
 3 Indatha Triome
 3 Bronzehide Lion
-4 Charming Prince
+3 Mazemind Tome
 4 Mazemind Tome
+4 Charming Prince
 4 Indatha Triome
 4 Yasharn, Implacable Earth
 1 Gemrazer
@@ -100,9 +100,9 @@
 3 Omen of the Sun
 4 Glass Casket
 1 Swarm Shambler
-1 Inscription of Abundance
 1 Luminarch Aspirant
 1 Conclave Mentor
+1 Inscription of Abundance
 1 Stonecoil Serpent
 1 Crystalline Giant
 1 Primal Might
@@ -110,11 +110,11 @@
 1 Wildwood Scourge
 1 The Ozolith
 2 Swarm Shambler
-2 Inscription of Abundance
 2 Luminarch Aspirant
 2 Conclave Mentor
 2 Stonecoil Serpent
 2 Crystalline Giant
+2 Inscription of Abundance
 2 Primal Might
 2 The Ozolith
 2 Wildwood Scourge
@@ -138,10 +138,10 @@
 3 Solemn Simulacrum
 4 Solemn Simulacrum
 4 Turntimber Symbiosis
-1 Kenrith, the Returned King
 1 Needleverge Pathway
 1 Ashaya, Soul of the Wild
 1 Cragcrown Pathway
+1 Kenrith, the Returned King
 2 Ashaya, Soul of the Wild
 2 Kenrith, the Returned King
 3 Banishing Light
