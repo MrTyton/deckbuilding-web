@@ -1,9 +1,9 @@
+1 Blooming Marsh
+1 Agadeem's Awakening
 1 Llanowar Elves
 1 Elvish Mystic
 2 Llanowar Elves
 2 Elvish Mystic
-1 Blooming Marsh
-1 Agadeem's Awakening
 2 Blooming Marsh
 1 Gilded Goose
 1 Blood Crypt
@@ -37,48 +37,46 @@
 3 Woe Strider
 4 Blooming Marsh
 4 Overgrown Tomb
-4 Priest of Forgotten Gods
 4 Catacomb Sifter
 4 Woe Strider
 4 Zulaport Cutthroat
+4 Priest of Forgotten Gods
 4 Bolas's Citadel
 4 Mayhem Devil
 4 Cragcrown Pathway
 1 Urborg, Tomb of Yawgmoth
-1 Stomping Ground
-2 Stomping Ground
 1 Venerated Loxodon
 2 Venerated Loxodon
 3 Venerated Loxodon
 4 Venerated Loxodon
-3 Llanowar Elves
+1 Stomping Ground
+2 Stomping Ground
 1 Temple Garden
 2 Temple Garden
 3 Temple Garden
-1 Forest
-2 Forest
-3 Forest
 2 Plains
-4 Forest
 3 Plains
 1 Voice of Resurgence
 2 Voice of Resurgence
 3 Voice of Resurgence
 4 Temple Garden
 4 Voice of Resurgence
-5 Forest
+1 Forest
+2 Forest
+3 Forest
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
 4 Lovestruck Beast
+4 Forest
 4 Plains
 1 Nissa, Voice of Zendikar
 1 Westvale Abbey
 1 Sunpetal Grove
 1 Castle Ardenvale
 1 Paradise Druid
-1 Declaration in Stone
 1 Dromoka's Command
+1 Declaration in Stone
 1 Gideon, Ally of Zendikar
 1 Leonin Warleader
 1 Secure the Wastes
@@ -106,9 +104,11 @@
 4 Dromoka's Command
 4 Paradise Druid
 4 Secure the Wastes
+5 Forest
 6 Forest
 1 Llanowar Wastes
 2 Llanowar Wastes
+3 Llanowar Elves
 3 Llanowar Wastes
 4 Llanowar Wastes
 4 Gilded Goose
@@ -220,45 +220,6 @@
 4 Glasspool Mimic
 4 Charming Prince
 4 Militia Bugler
-1 Bonecrusher Giant
-1 Mountain
-1 Rootbound Crag
-2 Mountain
-2 Bonecrusher Giant
-3 Bonecrusher Giant
-3 Stomping Ground
-4 Bonecrusher Giant
-1 Ketria Triome
-2 Breeding Pool
-2 Ketria Triome
-3 Ketria Triome
-3 Breeding Pool
-4 Ketria Triome
-1 Thassa's Oracle
-1 Possibility Storm
-1 Stonecoil Serpent
-1 Enter the Infinite
-1 Shared Summons
-1 Rosethorn Acolyte
-1 Beanstalk Giant
-1 Steam Vents
-1 Fae of Wishes
-1 Lucky Clover
-1 Sulfur Falls
-2 Possibility Storm
-2 Beanstalk Giant
-2 Enter the Infinite
-2 Sulfur Falls
-2 Steam Vents
-2 Lucky Clover
-2 Fae of Wishes
-3 Possibility Storm
-3 Beanstalk Giant
-3 Lucky Clover
-3 Fae of Wishes
-4 Beanstalk Giant
-4 Fae of Wishes
-4 Lucky Clover
 1 Skyclave Shade
 1 Korvold, Fae-Cursed King
 1 Tangled Florahedron
@@ -267,6 +228,58 @@
 3 Tangled Florahedron
 4 Blood Crypt
 4 Tangled Florahedron
+1 Ketria Triome
+2 Breeding Pool
+2 Ketria Triome
+3 Ketria Triome
+3 Breeding Pool
+4 Ketria Triome
+1 Satyr Wayfinder
+1 Llanowar Visionary
+1 Jadelight Ranger
+1 Fierce Empath
+1 World Breaker
+1 Cavalier of Thorns
+1 Yavimaya Coast
+1 Arboreal Grazer
+1 Courser of Kruphix
+1 Kozilek's Return
+1 Nimble Obstructionist
+1 Scavenging Ooze
+1 Stubborn Denial
+1 Castle Garenbrig
+1 Sanctum of Ugin
+1 Uro, Titan of Nature's Wrath
+1 Elder Deep-Fiend
+1 Hinterland Harbor
+1 Champion of Wits
+2 Satyr Wayfinder
+2 Llanowar Visionary
+2 Fierce Empath
+2 Yavimaya Coast
+2 Arboreal Grazer
+2 Cavalier of Thorns
+2 Scavenging Ooze
+2 Kozilek's Return
+2 Sanctum of Ugin
+2 Champion of Wits
+2 Hinterland Harbor
+2 Uro, Titan of Nature's Wrath
+2 Elder Deep-Fiend
+3 Satyr Wayfinder
+3 Arboreal Grazer
+3 Cavalier of Thorns
+3 Kozilek's Return
+3 Uro, Titan of Nature's Wrath
+3 Elder Deep-Fiend
+3 Yavimaya Coast
+3 Sanctum of Ugin
+3 Hinterland Harbor
+4 Satyr Wayfinder
+4 Breeding Pool
+4 Sanctum of Ugin
+4 Elder Deep-Fiend
+4 Hinterland Harbor
 1 Merfolk Windrobber
 1 Into the Story
 1 Deathrite Shaman
@@ -289,52 +302,6 @@
 4 Chart a Course
 4 Into the Story
 4 Botanical Sanctum
-1 Scavenging Ooze
-2 Scavenging Ooze
-1 Satyr Wayfinder
-1 Llanowar Visionary
-1 Jadelight Ranger
-1 Fierce Empath
-1 World Breaker
-1 Cavalier of Thorns
-1 Yavimaya Coast
-1 Arboreal Grazer
-1 Courser of Kruphix
-1 Kozilek's Return
-1 Nimble Obstructionist
-1 Stubborn Denial
-1 Castle Garenbrig
-1 Sanctum of Ugin
-1 Uro, Titan of Nature's Wrath
-1 Elder Deep-Fiend
-1 Hinterland Harbor
-1 Champion of Wits
-2 Satyr Wayfinder
-2 Llanowar Visionary
-2 Fierce Empath
-2 Yavimaya Coast
-2 Arboreal Grazer
-2 Cavalier of Thorns
-2 Kozilek's Return
-2 Sanctum of Ugin
-2 Champion of Wits
-2 Hinterland Harbor
-2 Uro, Titan of Nature's Wrath
-2 Elder Deep-Fiend
-3 Satyr Wayfinder
-3 Arboreal Grazer
-3 Cavalier of Thorns
-3 Kozilek's Return
-3 Uro, Titan of Nature's Wrath
-3 Elder Deep-Fiend
-3 Yavimaya Coast
-3 Sanctum of Ugin
-3 Hinterland Harbor
-4 Satyr Wayfinder
-4 Breeding Pool
-4 Sanctum of Ugin
-4 Hinterland Harbor
-4 Elder Deep-Fiend
 1 Unclaimed Territory
 1 Rogue Refiner
 1 Bloodsoaked Champion
@@ -350,8 +317,8 @@
 2 Archpriest of Iona
 2 Hamlet Captain
 3 Mana Confluence
-3 Unclaimed Territory
 3 Reflector Mage
+3 Unclaimed Territory
 3 Rogue Refiner
 3 Archpriest of Iona
 3 Acquisitions Expert
@@ -360,47 +327,46 @@
 4 Acquisitions Expert
 4 Archpriest of Iona
 4 Unclaimed Territory
-1 Rhonas the Indomitable
-1 Game Trail
-1 Wildborn Preserver
-1 Cinder Glade
-1 Yorvo, Lord of Garenbrig
-1 Gruul Spellbreaker
-1 Legion Loyalist
-1 Pelt Collector
-1 Klothys, God of Destiny
-1 Atarka's Command
-1 Burning-Tree Emissary
-1 Reckless Bushwhacker
-2 Rootbound Crag
-2 Cinder Glade
-2 Game Trail
-2 Gruul Spellbreaker
-2 Klothys, God of Destiny
-2 Atarka's Command
-2 Reckless Bushwhacker
-2 Burning-Tree Emissary
-3 Rootbound Crag
-3 Game Trail
-3 Reckless Bushwhacker
-3 Gruul Spellbreaker
-3 Scavenging Ooze
-3 Elvish Mystic
-3 Atarka's Command
-3 Mountain
-3 Burning-Tree Emissary
-4 Rootbound Crag
-4 Reckless Bushwhacker
-4 Burning-Tree Emissary
-4 Game Trail
-4 Stomping Ground
+1 Thassa's Oracle
+1 Possibility Storm
+1 Stonecoil Serpent
+1 Enter the Infinite
+1 Shared Summons
+1 Rosethorn Acolyte
+1 Beanstalk Giant
+1 Steam Vents
+1 Fae of Wishes
+1 Lucky Clover
+1 Bonecrusher Giant
+1 Mountain
+1 Sulfur Falls
+1 Rootbound Crag
+2 Possibility Storm
+2 Beanstalk Giant
+2 Enter the Infinite
+2 Bonecrusher Giant
+2 Mountain
+2 Sulfur Falls
+2 Steam Vents
+2 Lucky Clover
+2 Fae of Wishes
+3 Possibility Storm
+3 Beanstalk Giant
+3 Lucky Clover
+3 Bonecrusher Giant
+3 Fae of Wishes
+3 Stomping Ground
+4 Beanstalk Giant
+4 Fae of Wishes
+4 Lucky Clover
+4 Bonecrusher Giant
 1 Watcher of the Spheres
 1 Glacial Fortress
 1 Azorius Charm
+1 Lofty Denial
 1 Archangel Avacyn
 1 Irrigated Farmland
 1 Emeria's Call
-1 Lofty Denial
 1 Winged Words
 1 Selfless Spirit
 1 Rattlechains
@@ -410,8 +376,8 @@
 2 Archangel Avacyn
 2 Irrigated Farmland
 2 Emeria's Call
-2 Winged Words
 2 Lofty Denial
+2 Winged Words
 2 Selfless Spirit
 2 Rattlechains
 3 Watcher of the Spheres
@@ -444,8 +410,8 @@
 1 Necrotic Wound
 1 Slitherhead
 2 Isolated Chapel
-2 Wayward Servant
 2 Foulmire Knight
+2 Wayward Servant
 2 Dark Salvation
 2 Cryptbreaker
 2 Lazotep Reaver

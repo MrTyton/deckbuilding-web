@@ -39,9 +39,9 @@
 |*n*<sup>th</sup> copy|                                     Maindeck Card                                      |*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
 |--------------------:|----------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------|
 |                    1|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)    |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)|
-|                    2|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)    |                    1|[Basalt Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=599)|
-|                    3|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)   |                    2|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)  |
-|                    3|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)    |                    3|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)  |
-|                    4|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)|                    4|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)  |
+|                    2|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)    |                    2|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)  |
+|                    3|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)   |                    3|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)  |
+|                    3|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)    |                    4|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)  |
+|                    4|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)|                    1|[Basalt Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=599)|
 |                    3|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)|                     |                                                                                       |
 

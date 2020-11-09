@@ -74,8 +74,8 @@
 1 Absorb
 1 Supreme Verdict
 1 Azorius Charm
-1 Dream Trawler
 1 Jace, Architect of Thought
+1 Dream Trawler
 1 Teferi, Hero of Dominaria
 1 Elspeth Conquers Death
 1 Omen of the Sea
@@ -96,6 +96,7 @@
 2 Teferi, Hero of Dominaria
 2 Steam Vents
 2 Omen of the Sea
+3 Supreme Verdict
 3 Castle Ardenvale
 3 Glacial Fortress
 3 Teferi, Hero of Dominaria
@@ -103,7 +104,6 @@
 3 Anger of the Gods
 3 Omen of the Sea
 3 Azorius Charm
-3 Supreme Verdict
 3 Sacred Foundry
 3 Steam Vents
 4 Absorb
@@ -159,8 +159,8 @@
 1 Drown in the Loch
 1 Ipnu Rivulet
 1 Breaking / Entering
-1 Maddening Cacophony
 1 Clearwater Pathway
+1 Maddening Cacophony
 1 Didn't Say Please
 1 Crypt Incursion
 1 Ruin Crab
@@ -247,6 +247,47 @@
 2 Magma Jet
 3 Bonecrusher Giant
 3 Magma Jet
+1 Calix, Destiny's Hand
+1 Gideon's Intervention
+1 Banishing Light
+1 Sigil of the Empty Throne
+1 Courser of Kruphix
+1 Temple of Plenty
+1 Starfield Mystic
+1 Mana Bloom
+1 Setessan Champion
+1 Sphere of Safety
+1 Wolfwillow Haven
+1 Eidolon of Blossoms
+1 Seal Away
+1 Herald of the Pantheon
+2 Calix, Destiny's Hand
+2 Gideon's Intervention
+2 Banishing Light
+2 Branchloft Pathway
+2 Courser of Kruphix
+2 Sigil of the Empty Throne
+2 Herald of the Pantheon
+2 Setessan Champion
+2 Eidolon of Blossoms
+2 Wolfwillow Haven
+2 Seal Away
+2 Temple of Plenty
+2 Sphere of Safety
+3 Setessan Champion
+3 Banishing Light
+3 Branchloft Pathway
+3 Courser of Kruphix
+3 Temple of Plenty
+3 Sphere of Safety
+3 Eidolon of Blossoms
+3 Wolfwillow Haven
+3 Herald of the Pantheon
+4 Wolfwillow Haven
+4 Banishing Light
+4 Temple of Plenty
+4 Eidolon of Blossoms
+4 Herald of the Pantheon
 1 Nissa, Who Shakes the World
 1 Sylvan Caryatid
 1 Oath of Nissa
@@ -380,10 +421,10 @@
 4 Gatecreeper Vine
 1 Jace, Vryn's Prodigy
 1 God-Eternal Kefnet
+1 Brazen Borrower
 1 Ashiok, Nightmare Muse
 1 Heartless Act
 1 Day's Undoing
-1 Brazen Borrower
 1 Legion's End
 1 Choked Estuary
 1 Kalitas, Traitor of Ghet
@@ -392,46 +433,5 @@
 2 Choked Estuary
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
-4 Dig Through Time
 5 Island
-1 Calix, Destiny's Hand
-1 Gideon's Intervention
-1 Banishing Light
-1 Sigil of the Empty Throne
-1 Courser of Kruphix
-1 Temple of Plenty
-1 Starfield Mystic
-1 Mana Bloom
-1 Setessan Champion
-1 Sphere of Safety
-1 Wolfwillow Haven
-1 Eidolon of Blossoms
-1 Seal Away
-1 Herald of the Pantheon
-2 Calix, Destiny's Hand
-2 Gideon's Intervention
-2 Banishing Light
-2 Branchloft Pathway
-2 Courser of Kruphix
-2 Sigil of the Empty Throne
-2 Herald of the Pantheon
-2 Setessan Champion
-2 Eidolon of Blossoms
-2 Wolfwillow Haven
-2 Seal Away
-2 Temple of Plenty
-2 Sphere of Safety
-3 Setessan Champion
-3 Banishing Light
-3 Branchloft Pathway
-3 Courser of Kruphix
-3 Temple of Plenty
-3 Sphere of Safety
-3 Eidolon of Blossoms
-3 Wolfwillow Haven
-3 Herald of the Pantheon
-4 Banishing Light
-4 Temple of Plenty
-4 Eidolon of Blossoms
-4 Herald of the Pantheon
-4 Wolfwillow Haven
+4 Dig Through Time

@@ -33,13 +33,13 @@
 2 Distended Mindbender
 1 Negate
 1 Soul-Guide Lantern
-1 Questing Beast
 1 Carnage Tyrant
 1 The Immortal Sun
 1 Stubborn Denial
 1 Nimble Obstructionist
 1 Kozilek's Return
 1 Scrabbling Claws
+1 Questing Beast
 1 Sorcerous Spyglass
 1 Reclamation Sage
 1 Barrier Breach
@@ -57,7 +57,6 @@
 2 Knight of Autumn
 2 Sin Collector
 2 Xathrid Necromancer
-2 Midnight Reaper
 1 Cling to Dust
 2 Cling to Dust
 1 Duress
@@ -68,6 +67,7 @@
 1 Dead Weight
 1 Extinction Event
 2 Extinction Event
+2 Midnight Reaper
 1 Reflector Mage
 1 Knight of the White Orchid
 1 Disdainful Stroke
@@ -76,20 +76,6 @@
 2 Selfless Spirit
 2 Disdainful Stroke
 2 Dusk / Dawn
-1 Damping Sphere
-1 Hornet Nest
-1 Skylasher
-1 Stoke the Flames
-1 Rampaging Ferocidon
-1 Destructive Revelry
-1 Anger of the Gods
-2 Hornet Nest
-2 Damping Sphere
-2 Skylasher
-2 Destructive Revelry
-2 Anger of the Gods
-2 Rampaging Ferocidon
-3 Destructive Revelry
 1 Cry of the Carnarium
 1 Collective Brutality
 1 Legion's End
@@ -102,12 +88,13 @@
 3 Apostle of Purifying Light
 1 Fog
 1 Fabled Passage
-1 Possibility Storm
 1 Fry
+1 Possibility Storm
 1 Return to Nature
 1 Gruul Charm
 1 Chandra, Awakened Inferno
 1 Void Snare
+1 Damping Sphere
 2 Chandra, Awakened Inferno
 3 Chandra, Awakened Inferno
 1 Murderous Rider
