@@ -36,9 +36,9 @@
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|---------------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    1|[Yorvo, Lord of Garenbrig](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473147)|                     |              |
-|                    1|[Discontinuity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488248)           |                     |              |
 |                    1|[Sublime Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488254)        |                     |              |
 |                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)         |                     |              |
+|                    1|[Discontinuity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488248)           |                     |              |
 |                    1|[Cultivate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442154)               |                     |              |
 |                    1|[Heroic Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423776)     |                     |              |
 |                    1|[Ilysian Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476425)        |                     |              |
@@ -65,8 +65,8 @@
 |                    2|[Discontinuity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488248)           |                     |              |
 |                    2|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)       |                     |              |
 |                    2|[Maraleaf Pixie](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473158)          |                     |              |
-|                    3|[Midnight Clock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473016)          |                     |              |
 |                    3|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)       |                     |              |
+|                    3|[Midnight Clock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473016)          |                     |              |
 |                    3|[Ilysian Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476425)        |                     |              |
 |                    3|[Cultivate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442154)               |                     |              |
 |                    3|[Heroic Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423776)     |                     |              |

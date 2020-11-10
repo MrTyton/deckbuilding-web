@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Inventors' Fair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417820)     |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
-|                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)          |                    1|[Spine of Ish Sah](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376514)    |
+|                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)          |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
+|                    1|[Inventors' Fair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417820)     |                    1|[Spine of Ish Sah](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376514)    |
 |                    1|[Spire of Industry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423851)   |                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931) |
 |                    1|[Fae of Wishes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473006)       |                    1|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)     |
 |                    2|[Spire of Industry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423851)   |                    1|[Ugin, the Ineffable](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460929) |

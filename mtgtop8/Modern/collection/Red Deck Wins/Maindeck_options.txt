@@ -68,8 +68,8 @@
 2 Crash Through
 2 Kiln Fiend
 3 Crash Through
-3 Manamorphose
 3 Kiln Fiend
+3 Manamorphose
 4 Crash Through
 4 Manamorphose
 3 Fiery Islet
@@ -93,14 +93,21 @@
 4 Arid Mesa
 1 Shard Volley
 2 Shard Volley
-1 Mutagenic Growth
 1 Wild Slash
-2 Mutagenic Growth
+1 Mutagenic Growth
 2 Wild Slash
+2 Mutagenic Growth
 1 Blistercoil Weird
 2 Blistercoil Weird
 3 Blistercoil Weird
 4 Blistercoil Weird
+1 Magus of the Moon
+1 Forgotten Cave
+2 Magus of the Moon
+2 Forgotten Cave
+3 Forgotten Cave
+3 Magus of the Moon
+4 Magus of the Moon
 3 Scalding Tarn
 4 Skullcrack
 4 Scalding Tarn
@@ -110,15 +117,8 @@
 2 Chandra's Incinerator
 3 Chandra's Incinerator
 3 Seal of Fire
-4 Chandra's Incinerator
 4 Seal of Fire
-1 Magus of the Moon
-1 Forgotten Cave
-2 Magus of the Moon
-2 Forgotten Cave
-3 Forgotten Cave
-3 Magus of the Moon
-4 Magus of the Moon
+4 Chandra's Incinerator
 1 Scourge of the Skyclaves
 1 Blackcleave Cliffs
 1 Fatal Push
@@ -126,11 +126,11 @@
 1 Mishra's Bauble
 1 Bump in the Night
 1 Blood Crypt
-2 Blackcleave Cliffs
 2 Scourge of the Skyclaves
 2 Fatal Push
 2 Mishra's Bauble
 2 Blood Crypt
+2 Blackcleave Cliffs
 2 Bump in the Night
 3 Scourge of the Skyclaves
 3 Bump in the Night

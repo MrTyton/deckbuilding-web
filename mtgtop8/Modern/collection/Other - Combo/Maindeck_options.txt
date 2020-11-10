@@ -1,3 +1,5 @@
+1 Talisman of Resilience
+1 Narcomoeba
 1 Vengevine
 1 Sword of the Meek
 1 Phantasmagorian
@@ -6,6 +8,7 @@
 1 Salvage Titan
 1 Agadeem's Awakening
 1 Undercity Informer
+2 Talisman of Resilience
 2 Creeping Chill
 2 Agadeem's Awakening
 2 Narcomoeba
@@ -13,6 +16,7 @@
 2 Undercity Informer
 2 Vengevine
 2 Balustrade Spy
+3 Talisman of Resilience
 3 Undercity Informer
 3 Vengevine
 3 Sword of the Meek
@@ -24,56 +28,54 @@
 4 Balustrade Spy
 4 Agadeem's Awakening
 4 Creeping Chill
-4 Sea Gate Restoration
 3 Emeria's Call
-1 Tangled Florahedron
-1 Talisman of Resilience
-2 Talisman of Resilience
-3 Talisman of Resilience
 4 Talisman of Resilience
 1 Hagra Mauling
 1 Nexus of Fate
+1 Tangled Florahedron
+2 Tangled Florahedron
+1 Thoughtseize
+2 Thoughtseize
 1 Pelakka Predation
 2 Pelakka Predation
-2 Tangled Florahedron
+3 Pelakka Predation
+4 Pelakka Predation
 2 Pact of Negation
 3 Pact of Negation
 4 Pact of Negation
-3 Pelakka Predation
-4 Pelakka Predation
 1 Leyline of Sanctity
+2 Hagra Mauling
+3 Hagra Mauling
 3 Tangled Florahedron
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
-1 Thoughtseize
-2 Thoughtseize
 3 Thoughtseize
 1 Opt
-1 Thassa's Oracle
 1 Jace, Wielder of Mysteries
+1 Thassa's Oracle
 2 Opt
 2 Thassa's Oracle
 3 Opt
 4 Opt
 1 River of Tears
-1 Remand
 1 Murderous Cut
+1 Remand
 1 Polluted Delta
 1 Watery Grave
 1 Fatal Push
 1 Inquisition of Kozilek
 1 Inverter of Truth
-2 Remand
 2 Watery Grave
+2 Remand
 2 Polluted Delta
 2 Fatal Push
+2 Jace, Wielder of Mysteries
 2 Inquisition of Kozilek
 2 River of Tears
 2 Inverter of Truth
-2 Jace, Wielder of Mysteries
-3 Remand
 3 Fatal Push
+3 Remand
 3 Jace, Wielder of Mysteries
 3 River of Tears
 3 Inverter of Truth
@@ -93,31 +95,29 @@
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 4 Leyline of Sanctity
-2 Hagra Mauling
-3 Hagra Mauling
+4 Hagra Mauling
 1 Force of Negation
 2 Force of Negation
 3 Island
 1 Sunken Ruins
 1 Snapcaster Mage
 1 Vendilion Clique
-1 Cryptic Command
 1 Tasigur, the Golden Fang
 1 Scalding Tarn
+1 Cryptic Command
 2 Snapcaster Mage
 2 Scalding Tarn
 3 Polluted Delta
 3 Shelldock Isle
 3 Snapcaster Mage
+4 Polluted Delta
 4 Jace, Wielder of Mysteries
 4 Shelldock Isle
-4 Polluted Delta
 1 Vessel of Volatility
 2 Vessel of Volatility
 3 Vessel of Volatility
 4 Blood Moon
 1 Veil of Summer
-1 Worldspine Wurm
 2 Swamp
 1 Omen of the Sea
 1 Eldrazi Temple
@@ -135,23 +135,23 @@
 4 Emeria's Call
 1 Silundi Vision
 1 Teferi, Hero of Dominaria
-1 Jwari Disruption
 1 Skyclave Cleric
 1 Disrupting Shoal
 1 Talisman of Progress
-1 Jace, the Mind Sculptor
+1 Jwari Disruption
 1 Teferi, Time Raveler
 1 Beyeen Veil
 1 Pieces of the Puzzle
+1 Jace, the Mind Sculptor
 1 Path to Exile
 1 Selective Memory
 1 Snapback
 2 Skyclave Cleric
 2 Talisman of Progress
-2 Silundi Vision
 2 Disrupting Shoal
 2 Selective Memory
 2 Path to Exile
+2 Silundi Vision
 2 Teferi, Time Raveler
 2 Snapback
 2 Jwari Disruption
@@ -171,8 +171,8 @@
 4 Teferi, Time Raveler
 4 Selective Memory
 4 Silundi Vision
-1 Forest
 1 Karn, the Great Creator
+1 Forest
 1 Mountain
 1 Aether Hub
 1 Emrakul, the Aeons Torn
@@ -231,6 +231,8 @@
 4 Wooded Foothills
 4 Attune with Aether
 4 Aether Hub
+1 Sphere of the Suns
+1 Worldspine Wurm
 1 Creeping Tar Pit
 1 Castle Vantress
 1 Eliminate
@@ -239,7 +241,6 @@
 1 Defense Grid
 2 Defense Grid
 3 Defense Grid
-4 Hagra Mauling
 1 Akoum Warrior
 2 Akoum Warrior
 2 Veil of Summer
@@ -249,28 +250,19 @@
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
-1 Wild Cantor
-1 Sphere of the Suns
-2 Wild Cantor
-2 Sphere of the Suns
-3 Wild Cantor
-3 Sphere of the Suns
-4 Wild Cantor
-4 Sword of the Meek
 1 Drowned Catacomb
 1 Snow-Covered Swamp
 1 Cavern of Souls
 2 Drowned Catacomb
-3 Inquisition of Kozilek
 3 Drowned Catacomb
+3 Inquisition of Kozilek
 4 Omen of the Sea
 4 Darkslick Shores
-1 Lotus Field
-1 Empty the Warrens
 1 Shivan Reef
-1 Peer Through Depths
-1 Ideas Unbound
+1 Vizier of Tumbling Sands
+1 Empty the Warrens
 1 Serum Visions
+1 Ideas Unbound
 1 Reach Through Mists
 1 Psychic Puppetry
 1 Echoing Truth
@@ -279,37 +271,38 @@
 1 Grapeshot
 1 Past in Flames
 1 Sleight of Hand
+1 Lotus Field
 1 Dream's Grip
-1 Vizier of Tumbling Sands
-2 Sleight of Hand
-2 Shivan Reef
-2 Peer Through Depths
+1 Peer Through Depths
+2 Grapeshot
+2 Vizier of Tumbling Sands
 2 Lonely Sandbar
+2 Shivan Reef
 2 Psychic Puppetry
 2 Dream's Grip
 2 Reach Through Mists
+2 Peer Through Depths
+2 Sleight of Hand
 2 Lotus Field
-2 Vizier of Tumbling Sands
 2 Echoing Truth
 2 Serum Visions
 2 Ideas Unbound
-2 Grapeshot
 2 Past in Flames
 2 Twiddle
-3 Sleight of Hand
 3 Lonely Sandbar
 3 Shivan Reef
-3 Past in Flames
+3 Sleight of Hand
 3 Psychic Puppetry
 3 Serum Visions
 3 Ideas Unbound
+3 Past in Flames
 3 Peer Through Depths
 3 Lotus Field
 3 Dream's Grip
 3 Reach Through Mists
-4 Sleight of Hand
 4 Lonely Sandbar
 4 Shivan Reef
+4 Sleight of Hand
 4 Serum Visions
 4 Lotus Field
 4 Reach Through Mists

@@ -6,18 +6,18 @@
 4 Alseid of Life's Bounty
 4 Castle Ardenvale
 1 Daxos, Blessed by the Sun
+1 Linden, the Steadfast Queen
 1 Speaker of the Heavens
 1 Heliod, Sun-Crowned
-1 Linden, the Steadfast Queen
 2 Lurrus of the Dream-Den
+2 Linden, the Steadfast Queen
 2 Speaker of the Heavens
 2 Daxos, Blessed by the Sun
-2 Linden, the Steadfast Queen
 2 Heliod, Sun-Crowned
-3 Speaker of the Heavens
-3 Heliod, Sun-Crowned
-3 Linden, the Steadfast Queen
 3 Daxos, Blessed by the Sun
+3 Speaker of the Heavens
+3 Linden, the Steadfast Queen
+3 Heliod, Sun-Crowned
 1 Sejiri Shelter
 4 Giant Killer
 4 Speaker of the Heavens
@@ -40,8 +40,8 @@
 3 All That Glitters
 1 Basri's Lieutenant
 2 Basri's Lieutenant
-3 Sejiri Shelter
 3 Basri's Lieutenant
+3 Sejiri Shelter
 4 Basri's Lieutenant
 1 Crawling Barrens
 1 Elspeth, Sun's Nemesis
@@ -59,54 +59,43 @@
 2 Charming Prince
 3 Charming Prince
 4 Charming Prince
-1 Light of Hope
+1 Luminous Broodmoth
+3 Lurrus of the Dream-Den
+4 Daxos, Blessed by the Sun
 1 Basri Ket
 1 Skyclave Cleric
-2 Light of Hope
+1 Light of Hope
 2 Basri Ket
-4 Linden, the Steadfast Queen
+2 Light of Hope
 4 Glass Casket
-1 Crystalline Giant
-1 Banishing Light
-1 Dub
-1 Gingerbrute
-2 Crystalline Giant
-2 Gingerbrute
-3 Crystalline Giant
-3 Gingerbrute
-4 Crystalline Giant
-4 Gingerbrute
-4 All That Glitters
-1 Idyllic Grange
+4 Linden, the Steadfast Queen
 1 Basri's Acolyte
-1 Garrison Cat
+1 Eidolon of Inspiration
 1 Sunlit Hoplite
 1 Daybreak Chimera
-1 Eidolon of Inspiration
+1 Idyllic Grange
 1 Daybreak Charger
+1 Garrison Cat
 1 Fearless Fledgling
 2 Basri's Acolyte
-2 Garrison Cat
 2 Sunlit Hoplite
 2 Daybreak Chimera
 2 Daybreak Charger
 2 Eidolon of Inspiration
+2 Garrison Cat
+3 Basri's Acolyte
 3 Kabira Takedown
 3 Daybreak Charger
 3 Sunlit Hoplite
-3 Garrison Cat
 3 Daybreak Chimera
-3 Basri's Acolyte
+3 Garrison Cat
 4 Sunlit Hoplite
 4 Basri's Acolyte
 4 Daybreak Charger
-4 Garrison Cat
 4 Daybreak Chimera
+4 Garrison Cat
 3 Emeria's Call
 4 Emeria's Call
-1 Luminous Broodmoth
-3 Lurrus of the Dream-Den
-4 Daxos, Blessed by the Sun
 1 Realm-Cloaked Giant
 1 Baneslayer Angel
 1 Mazemind Tome
@@ -114,8 +103,8 @@
 1 Elspeth Conquers Death
 2 Crawling Barrens
 2 Mazemind Tome
-2 Baneslayer Angel
 2 Drannith Magistrate
+2 Baneslayer Angel
 2 Elspeth Conquers Death
 2 Realm-Cloaked Giant
 3 Mazemind Tome
@@ -125,3 +114,14 @@
 4 Baneslayer Angel
 4 Mazemind Tome
 4 Drannith Magistrate
+1 Crystalline Giant
+1 Banishing Light
+1 Dub
+1 Gingerbrute
+2 Crystalline Giant
+2 Gingerbrute
+3 Crystalline Giant
+4 Gingerbrute
+4 All That Glitters
+4 Crystalline Giant
+3 Gingerbrute

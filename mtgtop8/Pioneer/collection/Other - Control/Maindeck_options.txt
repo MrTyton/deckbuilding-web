@@ -1,20 +1,20 @@
-4 Forest
-2 Hinterland Harbor
-3 Hinterland Harbor
+1 Sunpetal Grove
 3 Breeding Pool
+2 Genesis Ultimatum
+4 Forest
+1 Sulfur Falls
+1 Steam Vents
 2 Mountain
+1 Dryad of the Ilysian Grove
 3 Ketria Triome
 4 Ketria Triome
 4 Island
-1 Sulfur Falls
-1 Rootbound Crag
-4 Teferi, Time Raveler
-1 Steam Vents
-1 Dryad of the Ilysian Grove
 2 Hallowed Fountain
 2 Ugin, the Spirit Dragon
+1 Rootbound Crag
 2 Rootbound Crag
 3 Rootbound Crag
+4 Teferi, Time Raveler
 2 Kenrith, the Returned King
 1 Castle Vantress
 1 Prophet of Kruphix
@@ -30,44 +30,79 @@
 2 Satyr Wayfinder
 1 Mystical Dispute
 3 Stomping Ground
-1 Arboreal Grazer
-2 Arboreal Grazer
-3 Arboreal Grazer
 1 Shark Typhoon
 2 Shark Typhoon
+1 Swamp
+2 Swamp
+1 Watery Grave
+2 Watery Grave
+3 Watery Grave
+4 Watery Grave
+1 Eliminate
+1 Fatal Push
+2 Fatal Push
+3 Fatal Push
+1 Drowned Catacomb
+2 Drowned Catacomb
+3 Drowned Catacomb
+4 Drowned Catacomb
+1 Thoughtseize
+2 Eliminate
+2 Thoughtseize
+3 Eliminate
+3 Thoughtseize
+4 Thoughtseize
+3 Mountain
+1 Field of Ruin
+1 Kolaghan's Command
+1 Kroxa, Titan of Death's Hunger
+1 Dragonskull Summit
+1 Collective Brutality
+1 Davriel, Rogue Shadowmage
+1 Liliana, Waker of the Dead
+1 Blood Crypt
+2 Kroxa, Titan of Death's Hunger
+2 Kolaghan's Command
+2 Dragonskull Summit
+2 Davriel, Rogue Shadowmage
+2 Collective Brutality
+2 Liliana, Waker of the Dead
+2 Blood Crypt
+3 Liliana, Waker of the Dead
+3 Kroxa, Titan of Death's Hunger
+3 Davriel, Rogue Shadowmage
+4 Kroxa, Titan of Death's Hunger
+4 Fatal Push
+4 Liliana, Waker of the Dead
 1 Anger of the Gods
 2 Anger of the Gods
-1 Zagoth Triome
+1 Ashiok, Nightmare Muse
+1 Geier Reach Sanitarium
+1 Negate
+1 Castle Locthwain
+2 Castle Locthwain
+1 Fetid Pools
+1 Dig Through Time
+1 Censor
+1 Opt
+2 Dig Through Time
+2 Censor
+2 Fetid Pools
+2 Opt
+3 Dig Through Time
+3 Opt
+4 Opt
 3 Hallowed Fountain
-1 Clifftop Retreat
-1 Sea Gate Restoration
-1 Turntimber Symbiosis
-1 Nahiri, the Harbinger
-1 Agent of Treachery
-2 Turntimber Symbiosis
-2 Cultivate
-2 Sea Gate Restoration
-2 Evolving Wilds
-2 Agent of Treachery
-3 Sea Gate Restoration
-3 Genesis Ultimatum
-3 Evolving Wilds
-3 Cultivate
-3 Agent of Treachery
-4 Sea Gate Restoration
-4 Agent of Treachery
-4 Evolving Wilds
-4 Genesis Ultimatum
+2 Steam Vents
 3 Shark Typhoon
-1 Field of Ruin
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
+2 Field of Ruin
 1 Baffling End
 1 Castle Ardenvale
 2 Baffling End
 2 Plains
 3 Baffling End
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-2 Field of Ruin
 1 Glacial Fortress
 1 Elspeth, Sun's Nemesis
 1 Absorb
@@ -94,7 +129,6 @@
 2 Supreme Verdict
 2 Sacred Foundry
 2 Teferi, Hero of Dominaria
-2 Steam Vents
 2 Omen of the Sea
 3 Supreme Verdict
 3 Castle Ardenvale
@@ -108,52 +142,17 @@
 3 Steam Vents
 4 Absorb
 4 Azorius Charm
-4 Shark Typhoon
 4 Omen of the Sea
-4 Steam Vents
+4 Shark Typhoon
 4 Sacred Foundry
+4 Steam Vents
 4 Hallowed Fountain
+1 Zagoth Triome
 1 Branchloft Pathway
 2 Sunpetal Grove
-1 Negate
-1 Swamp
-2 Swamp
-1 Eliminate
-1 Fatal Push
-2 Fatal Push
-3 Fatal Push
-1 Watery Grave
-2 Watery Grave
-3 Watery Grave
-4 Watery Grave
-1 Fetid Pools
-1 Dig Through Time
-1 Censor
-1 Drowned Catacomb
-1 Opt
-2 Dig Through Time
-2 Censor
-2 Fetid Pools
-2 Drowned Catacomb
-2 Opt
-3 Dig Through Time
-3 Drowned Catacomb
-3 Opt
-4 Drowned Catacomb
-4 Opt
 1 Hydroid Krasis
 2 Hydroid Krasis
 4 Breeding Pool
-3 Mountain
-1 Thoughtseize
-1 Geier Reach Sanitarium
-2 Eliminate
-2 Thoughtseize
-3 Eliminate
-3 Thoughtseize
-4 Thoughtseize
-1 Castle Locthwain
-2 Castle Locthwain
 3 Swamp
 1 Drown in the Loch
 1 Jwari Disruption
@@ -165,9 +164,9 @@
 1 Crypt Incursion
 1 Ruin Crab
 1 Drowned Secrets
+1 Sea Gate Stormcaller
 1 Merfolk Secretkeeper
 1 Fraying Sanity
-1 Sea Gate Stormcaller
 2 Jwari Disruption
 2 Drown in the Loch
 2 Breaking / Entering
@@ -177,9 +176,9 @@
 2 Didn't Say Please
 2 Crypt Incursion
 2 Ruin Crab
+2 Sea Gate Stormcaller
 2 Fraying Sanity
 2 Drowned Secrets
-2 Sea Gate Stormcaller
 2 Merfolk Secretkeeper
 3 Jwari Disruption
 3 Fraying Sanity
@@ -247,96 +246,48 @@
 3 Fetid Pools
 3 Void Shatter
 3 Field of Ruin
-1 Calix, Destiny's Hand
-1 Gideon's Intervention
-1 Sigil of the Empty Throne
-1 Courser of Kruphix
-1 Banishing Light
-1 Temple of Plenty
-1 Starfield Mystic
-1 Mana Bloom
-1 Setessan Champion
-1 Sphere of Safety
-1 Wolfwillow Haven
-1 Eidolon of Blossoms
-1 Seal Away
-1 Herald of the Pantheon
-2 Calix, Destiny's Hand
-2 Gideon's Intervention
-2 Banishing Light
-2 Branchloft Pathway
-2 Courser of Kruphix
-2 Sigil of the Empty Throne
-2 Herald of the Pantheon
-2 Setessan Champion
-2 Eidolon of Blossoms
-2 Wolfwillow Haven
-2 Seal Away
-2 Temple of Plenty
-2 Sphere of Safety
-3 Setessan Champion
-3 Banishing Light
-3 Branchloft Pathway
-3 Courser of Kruphix
-3 Temple of Plenty
-3 Sphere of Safety
-3 Eidolon of Blossoms
-3 Wolfwillow Haven
-3 Herald of the Pantheon
-4 Wolfwillow Haven
-4 Banishing Light
-4 Temple of Plenty
-4 Eidolon of Blossoms
-4 Herald of the Pantheon
 1 Nissa, Who Shakes the World
 1 Sylvan Caryatid
 1 Oath of Nissa
 1 Aether Gust
-2 Mystical Dispute
 2 Nissa, Who Shakes the World
+2 Mystical Dispute
 2 Sylvan Caryatid
 2 Oath of Nissa
 3 Nissa, Who Shakes the World
 3 Oath of Nissa
 4 Oath of Nissa
-1 Kolaghan's Command
-1 Kroxa, Titan of Death's Hunger
 1 Hazoret the Fervent
-1 Dragonskull Summit
-1 Collective Brutality
-1 Davriel, Rogue Shadowmage
-1 Liliana, Waker of the Dead
-1 Blood Crypt
 1 Waste Not
 1 Murderous Rider
-2 Kolaghan's Command
-2 Kroxa, Titan of Death's Hunger
-2 Dragonskull Summit
-2 Davriel, Rogue Shadowmage
-2 Collective Brutality
-2 Liliana, Waker of the Dead
 2 Hazoret the Fervent
-2 Blood Crypt
 2 Waste Not
 2 Murderous Rider
 3 Kolaghan's Command
-3 Liliana, Waker of the Dead
-3 Kroxa, Titan of Death's Hunger
-3 Davriel, Rogue Shadowmage
 3 Castle Locthwain
 3 Dragonskull Summit
 3 Blood Crypt
 3 Waste Not
 4 Blood Crypt
-4 Kroxa, Titan of Death's Hunger
 4 Dragonskull Summit
 4 Waste Not
-4 Fatal Push
 4 Swamp
 4 Castle Locthwain
-4 Liliana, Waker of the Dead
-1 Botanical Sanctum
+1 Thought Erasure
+1 Nicol Bolas, the Ravager
+2 Sulfur Falls
+2 Thought Erasure
+2 Nicol Bolas, the Ravager
+3 Nicol Bolas, the Ravager
+3 Thought Erasure
+4 Nicol Bolas, the Ravager
+4 Thought Erasure
+4 Davriel, Rogue Shadowmage
+1 Arboreal Grazer
+2 Arboreal Grazer
+3 Arboreal Grazer
 1 Voracious Hydra
+1 Botanical Sanctum
 1 Cavalier of Thorns
 1 Yavimaya Coast
 1 Sanctum of Ugin
@@ -346,6 +297,7 @@
 1 Castle Garenbrig
 1 Shrine of the Forsaken Gods
 1 Ulamog, the Ceaseless Hunger
+2 Castle Garenbrig
 2 Botanical Sanctum
 2 Sanctum of Ugin
 2 Yavimaya Coast
@@ -354,7 +306,6 @@
 2 Elvish Rejuvenator
 2 Voracious Hydra
 2 Zagoth Triome
-2 Castle Garenbrig
 2 Shrine of the Forsaken Gods
 3 Botanical Sanctum
 3 Castle Garenbrig
@@ -370,28 +321,13 @@
 4 Voracious Hydra
 4 Botanical Sanctum
 4 Shrine of the Forsaken Gods
-1 Jace, Vryn's Prodigy
-1 God-Eternal Kefnet
-1 Brazen Borrower
-1 Legion's End
-1 Ashiok, Nightmare Muse
-1 Heartless Act
-1 Day's Undoing
-1 Choked Estuary
-1 Kalitas, Traitor of Ghet
-2 Jace, Vryn's Prodigy
-2 Heartless Act
-2 Choked Estuary
-3 Narset, Parter of Veils
-4 Narset, Parter of Veils
-4 Dig Through Time
-5 Island
 1 Mythos of Nethroi
 1 Izzet Guildgate
 1 Gateway Plaza
 1 Gatecreeper Vine
 1 Plaza of Harmony
 1 Azorius Guildgate
+1 Dimir Guildgate
 1 Gruul Guildgate
 1 Selesnya Guildgate
 1 Golgari Guildgate
@@ -399,24 +335,23 @@
 1 Simic Guildgate
 1 Guild Summit
 1 Gates Ablaze
-1 Dimir Guildgate
 1 Maze's End
 1 Rakdos Guildgate
-1 Gatebreaker Ram
 1 Orzhov Guildgate
 1 Boros Guildgate
+1 Gatebreaker Ram
 2 Mythos of Nethroi
 2 Izzet Guildgate
 2 Simic Guildgate
 2 Guild Summit
-2 Plaza of Harmony
-2 Maze's End
 2 Gatebreaker Ram
 2 Gatecreeper Vine
-2 Gates Ablaze
+2 Plaza of Harmony
+2 Maze's End
 2 Gruul Guildgate
-2 Golgari Guildgate
+2 Gates Ablaze
 2 Gate Colossus
+2 Golgari Guildgate
 3 Gruul Guildgate
 3 Gates Ablaze
 3 Izzet Guildgate
@@ -435,3 +370,59 @@
 4 Simic Guildgate
 4 Guild Summit
 4 Gatecreeper Vine
+1 Jace, Vryn's Prodigy
+1 God-Eternal Kefnet
+1 Brazen Borrower
+1 Legion's End
+1 Heartless Act
+1 Day's Undoing
+1 Choked Estuary
+1 Kalitas, Traitor of Ghet
+2 Jace, Vryn's Prodigy
+2 Heartless Act
+2 Choked Estuary
+3 Narset, Parter of Veils
+4 Narset, Parter of Veils
+4 Dig Through Time
+5 Island
+1 Calix, Destiny's Hand
+1 Banishing Light
+1 Gideon's Intervention
+1 Sigil of the Empty Throne
+1 Courser of Kruphix
+1 Mana Bloom
+1 Eidolon of Blossoms
+1 Temple of Plenty
+1 Starfield Mystic
+1 Setessan Champion
+1 Sphere of Safety
+1 Wolfwillow Haven
+1 Seal Away
+1 Herald of the Pantheon
+2 Calix, Destiny's Hand
+2 Banishing Light
+2 Gideon's Intervention
+2 Branchloft Pathway
+2 Courser of Kruphix
+2 Herald of the Pantheon
+2 Setessan Champion
+2 Eidolon of Blossoms
+2 Wolfwillow Haven
+2 Seal Away
+2 Sigil of the Empty Throne
+2 Temple of Plenty
+2 Sphere of Safety
+3 Setessan Champion
+3 Banishing Light
+3 Branchloft Pathway
+3 Courser of Kruphix
+3 Temple of Plenty
+3 Sphere of Safety
+3 Eidolon of Blossoms
+3 Wolfwillow Haven
+3 Herald of the Pantheon
+4 Wolfwillow Haven
+4 Banishing Light
+4 Herald of the Pantheon
+4 Eidolon of Blossoms
+4 Temple of Plenty

@@ -63,8 +63,8 @@
 |                    3|[Uro, Titan of Nature's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476480)|                     |                                                                                              |
 |                    3|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)         |                     |                                                                                              |
 |                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)                |                     |                                                                                              |
-|                    4|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)                |                     |                                                                                              |
 |                    4|[Arcum's Astrolabe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464169)           |                     |                                                                                              |
 |                    4|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)              |                     |                                                                                              |
+|                    4|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)                |                     |                                                                                              |
 |                    4|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                      |                     |                                                                                              |
 
