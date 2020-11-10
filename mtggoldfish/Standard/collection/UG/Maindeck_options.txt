@@ -1,11 +1,11 @@
 1 Ugin, the Spirit Dragon
-4 Gilded Goose
-1 Mountain
 1 Terror of the Peaks
+1 Mountain
 2 Terror of the Peaks
 2 Mountain
 3 Mountain
 1 Sea-Dasher Octopus
+4 Gilded Goose
 3 Pouncing Shoreshark
 4 Pouncing Shoreshark
 1 Cragcrown Pathway
@@ -15,8 +15,8 @@
 1 Turntimber Symbiosis
 3 Cragcrown Pathway
 4 Cragcrown Pathway
-1 Brushfire Elemental
 1 Everquill Phoenix
+1 Brushfire Elemental
 2 Turntimber Symbiosis
 2 Brushfire Elemental
 2 Everquill Phoenix
@@ -25,7 +25,6 @@
 5 Mountain
 1 Thornwood Falls
 2 Thornwood Falls
-1 Chainweb Aracnir
 10 Forest
 3 Thornwood Falls
 3 Gemrazer
@@ -47,6 +46,7 @@
 3 Jungle Hollow
 1 Brokkos, Apex of Forever
 1 Temple of Mystery
+1 Chainweb Aracnir
 1 Eliminate
 1 Reave Soul
 2 Reave Soul
@@ -54,60 +54,60 @@
 3 Swamp
 1 Illuna, Apex of Wishes
 4 Parcelbeast
+1 Cultivate
+2 Cultivate
 2 Temple of Mystery
 3 Temple of Mystery
 4 Temple of Mystery
 2 Ugin, the Spirit Dragon
-4 Tangled Florahedron
-1 Cultivate
-2 Cultivate
-1 Elder Gargaroth
 1 Ilysian Caryatid
 2 Ilysian Caryatid
+4 Tangled Florahedron
+1 Elder Gargaroth
+11 Forest
+3 Cultivate
 4 Gemrazer
 1 Radha, Heart of Keld
+3 Ilysian Caryatid
 2 Illuna, Apex of Wishes
 2 Sea-Dasher Octopus
 4 Terror of the Peaks
-11 Forest
-3 Cultivate
 1 Ketria Triome
 4 Thornwood Falls
 2 Elder Gargaroth
-3 Ilysian Caryatid
+12 Forest
+13 Forest
 4 Cultivate
 1 Lotus Cobra
 2 Lotus Cobra
-12 Forest
-13 Forest
 14 Forest
 15 Forest
 1 Temple of Abandon
+1 The Great Henge
+1 Ashaya, Soul of the Wild
+2 Ashaya, Soul of the Wild
 3 Turntimber Symbiosis
 1 Roiling Regrowth
-1 Ashaya, Soul of the Wild
 1 Castle Embereth
 1 Sudden Spinnerets
 2 Roiling Regrowth
-2 Temple of Abandon
 2 Sudden Spinnerets
 2 Castle Embereth
-2 Ashaya, Soul of the Wild
-3 Temple of Abandon
+2 Temple of Abandon
 3 Lotus Cobra
 3 Ashaya, Soul of the Wild
 3 Sudden Spinnerets
+3 Temple of Abandon
 3 Roiling Regrowth
-4 Roiling Regrowth
 4 Ashaya, Soul of the Wild
+4 Roiling Regrowth
 1 Castle Garenbrig
 2 Castle Garenbrig
 1 Beanstalk Giant
-1 Questing Beast
 3 Elder Gargaroth
+1 Questing Beast
 1 Bala Ged Recovery
 4 Ilysian Caryatid
-1 The Great Henge
 3 Evolving Wilds
 4 Evolving Wilds
 1 Territorial Scythecat
@@ -123,43 +123,71 @@
 17 Forest
 18 Forest
 19 Forest
+1 Mangara, the Diplomat
+1 Castle Ardenvale
+1 Mirror Shield
+1 Luminous Broodmoth
+1 Destiny Spinner
+1 Daxos, Blessed by the Sun
+1 Sorcerous Spyglass
+1 Nylea, Keen-Eyed
+1 Dryad of the Ilysian Grove
+1 Murasa Rootgrazer
+1 Mace of the Valiant
+1 Plains
+1 Azusa, Lost but Seeking
+1 Renata, Called to the Hunt
+2 The Great Henge
+2 Mirror Shield
+2 Castle Ardenvale
+2 Sorcerous Spyglass
+2 Plains
+2 Daxos, Blessed by the Sun
+2 Murasa Rootgrazer
+3 Plains
+3 Sorcerous Spyglass
+4 Plains
+5 Plains
+6 Plains
+7 Plains
+8 Plains
+9 Plains
 1 Glasspool Mimic
-2 Chainweb Aracnir
-1 Migration Path
-1 Spikefield Hazard
-1 Bonecrusher Giant
-2 Migration Path
-2 Spikefield Hazard
-2 Bonecrusher Giant
-2 Ketria Triome
-3 Migration Path
-3 Spikefield Hazard
-3 Vivien, Monsters' Advocate
 1 Faerie Vandal
 2 Faerie Vandal
 3 Faerie Vandal
-3 Scavenging Ooze
-1 Ranger's Guile
+1 Spikefield Hazard
+1 Bonecrusher Giant
+1 Migration Path
+2 Ketria Triome
+2 Spikefield Hazard
+2 Bonecrusher Giant
+2 Migration Path
+3 Spikefield Hazard
+3 Vivien, Monsters' Advocate
+3 Migration Path
 1 Castle Vantress
+1 Ranger's Guile
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 3 Ugin, the Spirit Dragon
 3 Sea-Dasher Octopus
-1 Into the Roil
-1 Neutralize
-1 Whirlwind Denial
+3 Scavenging Ooze
+1 Feed the Swarm
 1 Grasp of Darkness
+1 Whirlwind Denial
+1 Neutralize
+1 Into the Roil
 1 Vanquish the Weak
 1 Drown in the Loch
-1 Feed the Swarm
 1 Unknown Shores
 2 Grasp of Darkness
 4 Swamp
-1 Shatterskull Smashing
 1 Valakut Exploration
+1 Shatterskull Smashing
 1 Lead the Stampede
-2 Shatterskull Smashing
 2 Valakut Exploration
+2 Shatterskull Smashing
 2 Lead the Stampede
 2 Garruk's Harbinger
 3 Garruk's Harbinger
@@ -177,14 +205,14 @@
 3 Llanowar Visionary
 4 Llanowar Visionary
 4 Essence Symbiote
+1 Opt
+3 Illuna, Apex of Wishes
+9 Island
 1 Kiora Bests the Sea God
 2 Kiora Bests the Sea God
 2 Brokkos, Apex of Forever
 3 Brokkos, Apex of Forever
 3 Kiora Bests the Sea God
 4 Elder Gargaroth
-4 Kiora Bests the Sea God
 4 Brokkos, Apex of Forever
-1 Opt
-3 Illuna, Apex of Wishes
-9 Island
+4 Kiora Bests the Sea God

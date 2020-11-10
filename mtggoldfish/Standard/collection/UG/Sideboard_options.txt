@@ -1,16 +1,9 @@
-2 Lead the Stampede
-1 Heroic Intervention
+2 Negate
+1 Essence Symbiote
 1 Mystical Dispute
 2 Mystical Dispute
 3 Mystical Dispute
-1 Essence Symbiote
 2 Scavenging Ooze
-3 Chainweb Aracnir
-1 Gemrazer
-1 Questing Beast
-1 Scorching Dragonfire
-2 Scorching Dragonfire
-2 Heroic Intervention
 1 Ranger's Guile
 2 Ranger's Guile
 1 Return to Nature
@@ -21,13 +14,19 @@
 2 Destiny Spinner
 3 Return to Nature
 1 Reave Soul
-3 Scorching Dragonfire
+3 Chainweb Aracnir
+1 Heroic Intervention
+1 Questing Beast
+1 Scorching Dragonfire
+2 Scorching Dragonfire
+1 Gemrazer
 1 Run Afoul
 2 Run Afoul
+3 Scorching Dragonfire
 2 Questing Beast
 1 Forever Young
 2 Forever Young
-3 Soul-Guide Lantern
+2 Heroic Intervention
 1 Phoenix of Ash
 1 Ugin, the Spirit Dragon
 1 Terror of the Peaks
@@ -37,20 +36,21 @@
 2 Fire Prophecy
 3 Fire Prophecy
 3 Forever Young
+3 Soul-Guide Lantern
 1 Into the Roil
 1 Primal Might
 2 Essence Symbiote
 1 Fling
 1 Thundering Rebuke
-1 Shock
 1 Tormod's Crypt
+1 Shock
 1 Akoum Hellhound
 1 Fervent Champion
 2 Thundering Rebuke
+2 Fling
 2 Tormod's Crypt
 2 Shock
 2 Fervent Champion
-2 Fling
 2 Akoum Hellhound
 1 Cragplate Baloth
 2 Into the Roil
@@ -67,17 +67,16 @@
 1 Storm's Wrath
 2 Storm's Wrath
 1 Vivien, Monsters' Advocate
-1 Dreamtail Heron
 1 Grasp of Darkness
 2 Grasp of Darkness
+2 Phoenix of Ash
 1 Suffocating Fumes
 2 Suffocating Fumes
-2 Phoenix of Ash
-1 Capture Sphere
 1 Stern Dismissal
+1 Capture Sphere
+2 Stern Dismissal
 2 Cancel
 2 Capture Sphere
-2 Stern Dismissal
 1 Wicked Wolf
 2 Wicked Wolf
 1 Blood Curdle
@@ -108,11 +107,18 @@
 2 Radha, Heart of Keld
 3 Wilt
 3 Kazandu Nectarpot
-2 Primal Might
-3 Primal Might
+3 Shock
 3 Thundering Rebuke
 3 Fling
-3 Shock
+2 Primal Might
+3 Primal Might
+1 Everquill Phoenix
+1 Klothys, God of Destiny
+2 Everquill Phoenix
+3 Gemrazer
+3 Storm's Wrath
+3 Destiny Spinner
+4 Storm's Wrath
 4 Scavenging Ooze
 1 Lovestruck Beast
 2 Lovestruck Beast
@@ -123,10 +129,3 @@
 4 Chainweb Aracnir
 4 Soul-Guide Lantern
 4 Heroic Intervention
-1 Everquill Phoenix
-1 Klothys, God of Destiny
-2 Everquill Phoenix
-3 Gemrazer
-3 Storm's Wrath
-3 Destiny Spinner
-4 Storm's Wrath

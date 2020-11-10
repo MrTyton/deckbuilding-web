@@ -46,7 +46,7 @@
 |                    3|Valakut Awakening                                                                                   |                    3|Magmatic Channeler                                                                               |
 |                    4|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)            |                    4|Magmatic Channeler                                                                               |
 |                    4|Valakut Awakening                                                                                   |                    3|[Soul Sear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485483)             |
-|                     |                                                                                                    |                    3|[Storm's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476408)         |
-|                     |                                                                                                    |                    4|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)    |
 |                     |                                                                                                    |                    4|[Soul Sear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485483)             |
+|                     |                                                                                                    |                    4|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)    |
+|                     |                                                                                                    |                    3|[Storm's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476408)         |
 

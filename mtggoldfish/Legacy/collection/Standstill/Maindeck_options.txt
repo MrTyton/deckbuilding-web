@@ -1,29 +1,29 @@
+2 Counterspell
+1 Moat
+2 Moat
+1 Island
+1 Plains
+2 Island
 2 Plains
 3 Island
+1 Supreme Verdict
+1 Wasteland
+2 Wasteland
+1 Dovin's Veto
 1 Council's Judgment
 4 Island
 5 Island
 1 Myth Realized
+2 Myth Realized
 2 Spell Pierce
 3 Snapcaster Mage
-1 Mystic Sanctuary
-2 Jace, the Mind Sculptor
-2 Myth Realized
-1 Supreme Verdict
-1 Wasteland
-2 Wasteland
-1 Snow-Covered Mountain
-1 Narset, Parter of Veils
-1 Crucible of Worlds
-1 Moat
-2 Moat
-1 Dovin's Veto
-2 Supreme Verdict
-3 Prismatic Vista
 2 Narset, Parter of Veils
 2 Dovin's Veto
 1 Silundi Vision
 2 Silundi Vision
+1 Crucible of Worlds
+2 Supreme Verdict
+3 Prismatic Vista
 2 Council's Judgment
 1 Stoneforge Mystic
 1 Batterskull
@@ -35,7 +35,6 @@
 2 Cast Out
 3 Cast Out
 2 Mystic Sanctuary
-1 Misty Rainforest
 5 Snow-Covered Island
 1 Lay Claim
 2 Lay Claim
@@ -47,13 +46,13 @@
 1 Arcum's Astrolabe
 1 Snow-Covered Forest
 1 Tropical Island
+1 Misty Rainforest
 1 Oko, Thief of Crowns
 2 Misty Rainforest
 2 Oko, Thief of Crowns
 3 Misty Rainforest
 4 Misty Rainforest
 1 Sword of Feast and Famine
-1 Polluted Delta
 4 Replenish
 2 Arcum's Astrolabe
 3 Arcum's Astrolabe
@@ -67,6 +66,7 @@
 3 Wasteland
 1 Vendilion Clique
 6 Island
+1 Polluted Delta
 2 Polluted Delta
 6 Snow-Covered Island
 3 Tundra
@@ -74,10 +74,10 @@
 2 Mishra's Factory
 1 The Tabernacle at Pendrell Vale
 1 Forest
-1 Blast Zone
 1 Mox Diamond
-1 Life from the Loam
 1 Tranquil Thicket
+1 Life from the Loam
+1 Blast Zone
 1 Field of the Dead
 1 Verdant Catacombs
 2 Mox Diamond
@@ -85,8 +85,8 @@
 3 Mox Diamond
 3 Life from the Loam
 3 Oko, Thief of Crowns
-4 Wasteland
 4 Mox Diamond
+4 Wasteland
 1 Uro, Titan of Nature's Wrath
 1 Maze of Ith
 1 Dark Depths
@@ -104,7 +104,6 @@
 1 Cyclonic Rift
 1 Emrakul, the Aeons Torn
 1 Kiora, Behemoth Beckoner
-1 Pithing Needle
 1 Vesuva
 1 Ramunap Excavator
 1 Dryad of the Ilysian Grove
@@ -113,6 +112,7 @@
 1 Primeval Titan
 1 Glacial Chasm
 1 Golos, Tireless Pilgrim
+1 Pithing Needle
 1 Cascading Cataracts
 1 Glimmerpost
 1 Prophetic Prism
@@ -125,9 +125,9 @@
 1 Prophet of Kruphix
 2 Snow-Covered Forest
 2 Once Upon a Time
+2 Dryad of the Ilysian Grove
 2 Primeval Titan
 2 Pithing Needle
-2 Dryad of the Ilysian Grove
 2 Vesuva
 2 Thought-Knot Seer
 2 Green Sun's Zenith
@@ -155,7 +155,6 @@
 1 Back to Basics
 1 Brazen Borrower
 1 Palace Jailer
-1 Retrofitter Foundry
 1 Counterbalance
 2 Counterbalance
 1 Mountain
@@ -181,8 +180,8 @@
 2 Stifle
 2 Phyrexian Dreadnought
 2 Karn, the Great Creator
-3 Mishra's Factory
 3 Stifle
+3 Mishra's Factory
 3 Phyrexian Dreadnought
 4 Stifle
 1 Snow-Covered Swamp
@@ -201,8 +200,8 @@
 4 Uro, Titan of Nature's Wrath
 4 Abrupt Decay
 4 Chalice of the Void
-1 Wooded Foothills
 1 Waterlogged Grove
+1 Wooded Foothills
 1 Riftstone Portal
 1 Rishadan Port
 1 Exploration
@@ -226,16 +225,16 @@
 1 Astral Drift
 1 Astral Slide
 1 Containment Priest
-2 Containment Priest
 2 Secluded Steppe
+2 Containment Priest
 2 Street Wraith
 2 Lonely Sandbar
 2 Astral Drift
 2 Astral Slide
 2 Gilded Drake
+3 Street Wraith
 3 Snow-Covered Plains
 3 Gilded Drake
-3 Street Wraith
 3 Lonely Sandbar
 3 Astral Slide
 3 Containment Priest

@@ -10,14 +10,13 @@
 1 Walking Ballista
 1 All Is Dust
 1 Thought-Knot Seer
-1 Ugin, the Spirit Dragon
 2 Ancient Tomb
 3 Ancient Tomb
 4 Ancient Tomb
 1 Grim Monolith
 2 Grim Monolith
 3 Grim Monolith
-1 Blast Zone
+1 Ugin, the Spirit Dragon
 1 Ugin, the Ineffable
 2 Ulamog, the Ceaseless Hunger
 2 Thought-Knot Seer
@@ -33,38 +32,39 @@
 4 Grim Monolith
 4 Chalice of the Void
 2 City of Traitors
+1 Blast Zone
 4 Vesuva
+2 Ugin, the Ineffable
+2 All Is Dust
+2 Walking Ballista
+1 Candelabra of Tawnos
+2 Candelabra of Tawnos
 1 Forest
 2 Forest
 3 Forest
 4 Forest
 5 Forest
 6 Forest
-2 Walking Ballista
-2 Ugin, the Ineffable
-1 Candelabra of Tawnos
-2 Candelabra of Tawnos
-2 All Is Dust
-1 The Tabernacle at Pendrell Vale
-3 Candelabra of Tawnos
-2 Ugin, the Spirit Dragon
 1 Reality Smasher
 2 Reality Smasher
 2 Eye of Ugin
 4 Eldrazi Temple
-3 Golos, Tireless Pilgrim
+1 The Tabernacle at Pendrell Vale
+3 Candelabra of Tawnos
 1 Matter Reshaper
 2 Matter Reshaper
 3 Matter Reshaper
 3 Reality Smasher
 4 Reality Smasher
+2 Ugin, the Spirit Dragon
+3 All Is Dust
+4 Matter Reshaper
+3 Golos, Tireless Pilgrim
 1 Wastes
 1 Sorcerous Spyglass
 2 Sorcerous Spyglass
 1 Urborg, Tomb of Yawgmoth
 3 Sorcerous Spyglass
-3 All Is Dust
-4 Matter Reshaper
 1 Warping Wail
 1 Ancient Stirrings
 2 Warping Wail
@@ -80,8 +80,6 @@
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 3 Stonecoil Serpent
-1 Verdant Catacombs
-7 Forest
 1 Forsaken Monument
 2 Blast Zone
 1 Trinisphere
@@ -96,6 +94,7 @@
 1 Mystic Forge
 2 Basalt Monolith
 2 Forsaken Monument
+1 Verdant Catacombs
 1 Endbringer
 2 Endbringer
 1 Thran Dynamo
@@ -110,8 +109,9 @@
 4 Lodestone Golem
 2 Trinisphere
 3 Trinisphere
-4 Stonecoil Serpent
 4 City of Traitors
+4 Stonecoil Serpent
+7 Forest
 3 Warping Wail
 4 Warping Wail
 3 Thran Dynamo

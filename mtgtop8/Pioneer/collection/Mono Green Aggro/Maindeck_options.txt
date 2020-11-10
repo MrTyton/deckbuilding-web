@@ -38,16 +38,16 @@
 1 Yorvo, Lord of Garenbrig
 1 Syr Faren, the Hengehammer
 1 Collected Company
-2 Yorvo, Lord of Garenbrig
 2 Syr Faren, the Hengehammer
+2 Yorvo, Lord of Garenbrig
 2 Collected Company
 3 Aspect of Hydra
 3 Hashep Oasis
 3 Collected Company
+4 Aspect of Hydra
 4 Hashep Oasis
 4 Steel Leaf Champion
 4 Collected Company
-4 Aspect of Hydra
 1 The Great Henge
 1 Jadelight Ranger
 2 Jadelight Ranger
@@ -80,6 +80,7 @@
 3 Shifting Ceratops
 3 Ghalta, Primal Hunger
 4 Ghalta, Primal Hunger
+1 Paradise Druid
 1 Finale of Devastation
 1 Feasting Troll King
 1 End-Raze Forerunners
@@ -87,18 +88,17 @@
 1 Gemrazer
 1 Barkhide Troll
 1 God-Eternal Rhonas
-1 Paradise Druid
+2 Paradise Druid
 2 Finale of Devastation
 2 Primal Might
 2 Gemrazer
-2 Paradise Druid
 2 Feasting Troll King
 2 Barkhide Troll
+3 Paradise Druid
+3 Castle Garenbrig
 3 Gemrazer
 3 Gilded Goose
 3 Feasting Troll King
-3 Paradise Druid
-3 Castle Garenbrig
 3 Barkhide Troll
 4 Paradise Druid
 4 Gilded Goose
@@ -106,7 +106,6 @@
 18 Forest
 1 Temple Garden
 1 Branchloft Pathway
-1 Stonecoil Serpent
 1 Luminarch Aspirant
 1 Endless One
 1 Conclave Mentor
@@ -116,16 +115,17 @@
 1 Hardened Scales
 1 Pelt Collector
 1 Mana Confluence
+1 Stonecoil Serpent
 1 Avatar of the Resolute
 1 Experiment One
 2 Temple Garden
-2 Branchloft Pathway
 2 Mana Confluence
-2 Stonecoil Serpent
+2 Branchloft Pathway
 2 Luminarch Aspirant
 2 Conclave Mentor
 2 Swarm Shambler
 2 Dromoka's Command
+2 Stonecoil Serpent
 2 Hardened Scales
 2 Avatar of the Resolute
 2 Huatli's Raptor
@@ -133,7 +133,6 @@
 2 Experiment One
 3 Temple Garden
 3 Branchloft Pathway
-3 Stonecoil Serpent
 3 Mana Confluence
 3 Luminarch Aspirant
 3 Conclave Mentor
@@ -141,16 +140,17 @@
 3 Experiment One
 3 Hardened Scales
 3 Dromoka's Command
+3 Stonecoil Serpent
 3 Huatli's Raptor
 3 Pelt Collector
-4 Mana Confluence
 4 Branchloft Pathway
-4 Stonecoil Serpent
+4 Mana Confluence
 4 Temple Garden
 4 Conclave Mentor
 4 Luminarch Aspirant
 4 Avatar of the Resolute
 4 Hardened Scales
 4 Pelt Collector
+4 Stonecoil Serpent
 4 Experiment One
 4 Dromoka's Command

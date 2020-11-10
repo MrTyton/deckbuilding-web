@@ -176,6 +176,14 @@
 2 Benalish Marshal
 1 Blisterpod
 2 Blisterpod
+1 Skyclave Shade
+1 Tangled Florahedron
+1 Korvold, Fae-Cursed King
+2 Tangled Florahedron
+3 Tangled Florahedron
+3 Blood Crypt
+4 Tangled Florahedron
+4 Blood Crypt
 1 Castle Locthwain
 2 Swamp
 3 Swamp
@@ -196,8 +204,8 @@
 3 Drowned Catacomb
 3 Nighthawk Scavenger
 3 Mystical Dispute
-4 Nighthawk Scavenger
 4 Drowned Catacomb
+4 Nighthawk Scavenger
 4 Mystical Dispute
 1 Glasspool Mimic
 1 Militia Bugler
@@ -220,14 +228,6 @@
 4 Glasspool Mimic
 4 Charming Prince
 4 Militia Bugler
-1 Skyclave Shade
-1 Korvold, Fae-Cursed King
-1 Tangled Florahedron
-2 Tangled Florahedron
-3 Blood Crypt
-3 Tangled Florahedron
-4 Blood Crypt
-4 Tangled Florahedron
 1 Ketria Triome
 2 Breeding Pool
 2 Ketria Triome
@@ -399,8 +399,8 @@
 1 Foulmire Knight
 1 Dark Salvation
 1 Cryptbreaker
-1 Wayward Servant
 1 Lazotep Reaver
+1 Wayward Servant
 1 Diregraf Colossus
 1 Corpse Knight
 1 Stitcher's Supplier
@@ -411,8 +411,8 @@
 1 Slitherhead
 2 Isolated Chapel
 2 Foulmire Knight
-2 Wayward Servant
 2 Dark Salvation
+2 Wayward Servant
 2 Cryptbreaker
 2 Lazotep Reaver
 2 Diregraf Colossus
@@ -424,9 +424,9 @@
 2 Rally the Ancestors
 3 Isolated Chapel
 3 Dark Salvation
-3 Wayward Servant
 3 Cryptbreaker
 3 Lazotep Reaver
+3 Wayward Servant
 3 Corpse Knight
 3 Liliana, Untouched by Death
 3 Castle Locthwain
