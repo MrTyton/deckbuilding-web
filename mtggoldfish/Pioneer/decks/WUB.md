@@ -46,8 +46,8 @@
 |                    1|Silundi Vision                                                                                  |                     |                                                                                               |
 |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                |                     |                                                                                               |
 |                    2|Silundi Vision                                                                                  |                     |                                                                                               |
-|                    3|Silundi Vision                                                                                  |                     |                                                                                               |
 |                    3|Sea Gate Stormcaller                                                                            |                     |                                                                                               |
+|                    3|Silundi Vision                                                                                  |                     |                                                                                               |
 |                    1|Clearwater Pathway                                                                              |                     |                                                                                               |
 |                    2|Clearwater Pathway                                                                              |                     |                                                                                               |
 

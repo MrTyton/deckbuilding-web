@@ -1,9 +1,8 @@
 1 The Birth of Meletis
 2 Omen of the Sun
-2 Acquisitions Expert
-2 Scoured Barrens
 2 Hagra Mauling
 2 Charming Prince
+2 Scoured Barrens
 2 Shepherd of the Flock
 2 Treacherous Blessing
 2 Elspeth's Nightmare
@@ -14,11 +13,11 @@
 2 Emeria's Call
 2 Doom Foretold
 2 Yorion, Sky Nomad
+2 Acquisitions Expert
 2 The Birth of Meletis
 2 Fabled Passage
 3 Omen of the Sun
 3 Yorion, Sky Nomad
-3 Acquisitions Expert
 3 Scoured Barrens
 3 Treacherous Blessing
 3 Shepherd of the Flock
@@ -31,13 +30,14 @@
 3 Glass Casket
 3 Fabled Passage
 3 Doom Foretold
+3 Acquisitions Expert
 4 The Birth of Meletis
 4 Omen of the Sun
-4 Acquisitions Expert
 4 Temple of Silence
 4 Scoured Barrens
 4 Fabled Passage
 4 Shepherd of the Flock
+4 Acquisitions Expert
 4 Doom Foretold
 4 Elspeth Conquers Death
 1 Luminarch Aspirant
@@ -52,10 +52,10 @@
 2 Selfless Savior
 2 Rankle, Master of Pranks
 3 Selfless Savior
-4 Selfless Savior
 4 Giant Killer
 4 Dire Tactics
 4 Kitesail Freebooter
+4 Selfless Savior
 1 Order of Midnight
 1 Elspeth, Sun's Nemesis
 1 Mangara, the Diplomat
@@ -70,18 +70,17 @@
 2 Lavabrink Venturer
 2 General's Enforcer
 2 Taranika, Akroan Veteran
+3 Blacklance Paragon
 3 Lavabrink Venturer
 3 General's Enforcer
-3 Blacklance Paragon
 4 Lavabrink Venturer
 5 Swamp
 6 Swamp
 7 Swamp
 8 Swamp
 9 Plains
-1 Taborax, Hope's Demise
-1 Archfiend's Vessel
 1 Cleric of Life's Bond
+1 Taborax, Hope's Demise
 1 Bloodchief's Thirst
 1 Village Rites
 1 Lurrus of the Dream-Den
@@ -89,18 +88,18 @@
 1 Nullpriest of Oblivion
 1 Nighthawk Scavenger
 1 Vito, Thorn of the Dusk Rose
-2 Archfiend's Vessel
-2 Nullpriest of Oblivion
-2 Taborax, Hope's Demise
-2 Vito, Thorn of the Dusk Rose
+1 Archfiend's Vessel
 2 Cleric of Life's Bond
+2 Vito, Thorn of the Dusk Rose
+2 Taborax, Hope's Demise
 2 Lurrus of the Dream-Den
 2 Bloodchief's Thirst
 2 Malakir Rebirth
 2 Village Rites
 2 Speaker of the Heavens
+2 Archfiend's Vessel
 2 Nighthawk Scavenger
-3 Archfiend's Vessel
+2 Nullpriest of Oblivion
 3 Cleric of Life's Bond
 3 Vito, Thorn of the Dusk Rose
 3 Nullpriest of Oblivion
@@ -108,8 +107,9 @@
 3 Village Rites
 3 Speaker of the Heavens
 3 Malakir Rebirth
-4 Archfiend's Vessel
+3 Archfiend's Vessel
 4 Cleric of Life's Bond
 4 Bloodchief's Thirst
 4 Nullpriest of Oblivion
+4 Archfiend's Vessel
 4 Agadeem's Awakening
