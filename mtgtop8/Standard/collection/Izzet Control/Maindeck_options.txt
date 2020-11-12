@@ -1,12 +1,12 @@
 9 Island
+1 Brazen Borrower
 1 Neutralize
 2 Neutralize
-1 Brazen Borrower
 3 Neutralize
 1 Temple of Epiphany
 1 Riverglide Pathway
-1 Castle Vantress
 1 Bonecrusher Giant
+1 Castle Vantress
 2 Brazen Borrower
 2 Bonecrusher Giant
 2 Riverglide Pathway
@@ -16,6 +16,11 @@
 3 Riverglide Pathway
 4 Temple of Epiphany
 4 Riverglide Pathway
+1 Thirst for Meaning
+1 Lofty Denial
+2 Lofty Denial
+3 Lofty Denial
+1 Into the Roil
 1 Negate
 4 Neutralize
 1 Mazemind Tome
@@ -28,19 +33,36 @@
 1 Kiora Bests the Sea God
 1 Midnight Clock
 1 Field of Ruin
-1 Soul-Guide Lantern
 1 Crawling Barrens
+1 Soul-Guide Lantern
 1 Shark Typhoon
-2 Shark Typhoon
 2 Midnight Clock
 2 Soul-Guide Lantern
 2 Negate
+2 Shark Typhoon
 2 Castle Vantress
 3 Midnight Clock
 3 Shark Typhoon
 3 Shatterskull Smashing
 4 Shark Typhoon
 4 Shatterskull Smashing
+1 Roil Eruption
+1 Weaponize the Monsters
+1 Roost of Drakes
+1 Bubble Snare
+2 Roil Eruption
+2 Weaponize the Monsters
+2 Roost of Drakes
+2 Into the Roil
+3 Roil Eruption
+3 Roost of Drakes
+3 Into the Roil
+4 Roil Eruption
+4 Roost of Drakes
+4 Into the Roil
+10 Island
+11 Island
+12 Island
 3 Fire Prophecy
 1 Jwari Disruption
 1 Mystical Dispute
@@ -52,11 +74,6 @@
 3 Spikefield Hazard
 4 Jwari Disruption
 4 Spikefield Hazard
-1 Into the Roil
-1 Thirst for Meaning
-1 Lofty Denial
-2 Lofty Denial
-3 Lofty Denial
 1 Radiant Fountain
 2 Radiant Fountain
 1 Sublime Epiphany
@@ -76,13 +93,27 @@
 3 Shock
 3 Omen of the Sea
 4 Evolving Wilds
+1 Thassa's Intervention
+1 Voracious Greatshark
+1 Cinderclasm
+1 Hypnotic Sprite
+1 Fabled Passage
+1 Gadwick, the Wizened
+2 Voracious Greatshark
+2 Cinderclasm
+2 Thassa's Intervention
+2 Gadwick, the Wizened
+2 Fabled Passage
+3 Thassa's Intervention
+3 Mystical Dispute
+4 Mystical Dispute
 1 Lore Drakkis
 1 Thrill of Possibility
 2 Lore Drakkis
 3 Lore Drakkis
-4 Blitz of the Thunder-Raptor
-4 Lore Drakkis
 4 Fire Prophecy
+4 Lore Drakkis
+4 Blitz of the Thunder-Raptor
 1 Silundi Vision
 1 Shredded Sails
 1 Brash Taunter
@@ -98,36 +129,5 @@
 3 Mazemind Tome
 3 Brash Taunter
 3 Shipwreck Dowser
-3 Sublime Epiphany
 4 Radiant Fountain
-1 Thassa's Intervention
-1 Voracious Greatshark
-1 Cinderclasm
-1 Hypnotic Sprite
-1 Fabled Passage
-1 Gadwick, the Wizened
-2 Voracious Greatshark
-2 Cinderclasm
-2 Thassa's Intervention
-2 Gadwick, the Wizened
-2 Fabled Passage
-3 Mystical Dispute
-3 Thassa's Intervention
-4 Mystical Dispute
-1 Weaponize the Monsters
-1 Roil Eruption
-1 Roost of Drakes
-1 Bubble Snare
-2 Weaponize the Monsters
-2 Roil Eruption
-2 Roost of Drakes
-2 Into the Roil
-3 Roil Eruption
-3 Roost of Drakes
-3 Into the Roil
-4 Roil Eruption
-4 Into the Roil
-4 Roost of Drakes
-10 Island
-11 Island
-12 Island
+3 Sublime Epiphany

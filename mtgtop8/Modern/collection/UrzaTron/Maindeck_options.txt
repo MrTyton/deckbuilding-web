@@ -5,7 +5,10 @@
 1 Thragtusk
 1 Snow-Covered Forest
 2 Snow-Covered Forest
+1 World Breaker
 1 Dismember
+1 Kozilek, Butcher of Truth
+1 Thought-Knot Seer
 1 Island
 1 Thirst for Knowledge
 1 Remand
@@ -19,6 +22,10 @@
 2 Repeal
 3 Remand
 3 Condescend
+1 Ghost Quarter
+1 Mazemind Tome
+1 Spatial Contortion
+1 Chalice of the Void
 1 Talisman of Dominance
 1 Tolaria West
 2 Talisman of Dominance
@@ -29,31 +36,20 @@
 4 Condescend
 1 Mindslaver
 3 Repeal
-1 Kozilek, Butcher of Truth
-1 World Breaker
+1 Grove of the Burnwillows
 3 Relic of Progenitus
-1 Thought-Knot Seer
-1 Spatial Contortion
+2 Thragtusk
+2 All Is Dust
+2 Dismember
+2 Thought-Knot Seer
 1 Gemstone Caverns
+2 Chalice of the Void
 4 Remand
 1 Field of Ruin
 1 Cyclonic Rift
 3 Thirst for Knowledge
-1 Chalice of the Void
-1 Ghost Quarter
-1 Mazemind Tome
-1 Grove of the Burnwillows
-2 Thragtusk
-4 Thirst for Knowledge
-1 Oboro, Palace in the Clouds
-2 Thought-Knot Seer
-2 All Is Dust
-2 Chalice of the Void
-2 Dismember
+2 Mazemind Tome
 1 Ensnaring Bridge
-1 Trinket Mage
-1 Treasure Mage
-1 Snow-Covered Island
 1 Emrakul, the Aeons Torn
 1 Kozilek, the Great Distortion
 1 Cavern of Souls
@@ -66,6 +62,7 @@
 3 Snow-Covered Forest
 3 Dismember
 4 Snow-Covered Forest
+1 Oboro, Palace in the Clouds
 1 Eldrazi Temple
 2 Gemstone Caverns
 3 Thought-Knot Seer
@@ -77,12 +74,12 @@
 1 Talisman of Progress
 1 Gifts Ungiven
 1 Watery Grave
+1 Unburial Rites
 1 Flooded Strand
 1 Hallowed Fountain
 1 Elesh Norn, Grand Cenobite
-1 Unburial Rites
-1 Iona, Shield of Emeria
 1 Seachrome Coast
+1 Iona, Shield of Emeria
 1 Plains
 1 Emry, Lurker of the Loch
 2 Seachrome Coast
@@ -90,8 +87,8 @@
 2 Emry, Lurker of the Loch
 2 Talisman of Progress
 3 Seachrome Coast
-3 Emry, Lurker of the Loch
 3 Gifts Ungiven
+3 Emry, Lurker of the Loch
 4 Gifts Ungiven
 4 Emry, Lurker of the Loch
 1 Talisman of Resilience
@@ -101,6 +98,9 @@
 3 Ugin, the Spirit Dragon
 3 Talisman of Resilience
 4 Talisman of Resilience
+1 Treasure Mage
+1 Snow-Covered Island
+4 Thirst for Knowledge
 1 Mystic Forge
 1 Inventors' Fair
 1 Buried Ruin
@@ -111,7 +111,6 @@
 1 Coretapper
 1 Sea Gate Wreckage
 1 Paradox Engine
-2 Mazemind Tome
 2 Blast Zone
 2 Paradox Engine
 2 Everflowing Chalice

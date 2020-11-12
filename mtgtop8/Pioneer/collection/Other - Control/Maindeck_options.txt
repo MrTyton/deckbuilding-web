@@ -20,8 +20,8 @@
 1 Prophet of Kruphix
 1 Inspired Ultimatum
 1 Temple of Mystery
-2 Dryad of the Ilysian Grove
 2 Prophet of Kruphix
+2 Dryad of the Ilysian Grove
 3 Dryad of the Ilysian Grove
 4 Dryad of the Ilysian Grove
 4 Temple Garden
@@ -156,35 +156,34 @@
 3 Swamp
 1 Drown in the Loch
 1 Jwari Disruption
-1 Breaking / Entering
 1 Ipnu Rivulet
+1 Breaking / Entering
+1 Didn't Say Please
 1 Clearwater Pathway
 1 Maddening Cacophony
-1 Didn't Say Please
-1 Crypt Incursion
 1 Ruin Crab
 1 Drowned Secrets
 1 Sea Gate Stormcaller
 1 Merfolk Secretkeeper
 1 Fraying Sanity
+1 Crypt Incursion
 2 Jwari Disruption
 2 Drown in the Loch
 2 Breaking / Entering
-2 Ipnu Rivulet
-2 Clearwater Pathway
 2 Didn't Say Please
+2 Clearwater Pathway
 2 Maddening Cacophony
 2 Crypt Incursion
 2 Ruin Crab
 2 Sea Gate Stormcaller
 2 Fraying Sanity
 2 Drowned Secrets
+2 Ipnu Rivulet
 2 Merfolk Secretkeeper
 3 Jwari Disruption
 3 Fraying Sanity
 3 Crypt Incursion
 3 Breaking / Entering
-3 Ipnu Rivulet
 3 Didn't Say Please
 3 Drown in the Loch
 3 Maddening Cacophony
@@ -192,13 +191,14 @@
 3 Drowned Secrets
 3 Clearwater Pathway
 3 Merfolk Secretkeeper
+3 Ipnu Rivulet
 4 Fraying Sanity
 4 Breaking / Entering
-4 Ipnu Rivulet
 4 Maddening Cacophony
 4 Drown in the Loch
 4 Ruin Crab
 4 Drowned Secrets
+4 Ipnu Rivulet
 4 Merfolk Secretkeeper
 4 Clearwater Pathway
 1 Spikefield Hazard
@@ -286,39 +286,39 @@
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
-1 Voracious Hydra
-1 Botanical Sanctum
-1 Cavalier of Thorns
-1 Yavimaya Coast
-1 Sanctum of Ugin
-1 World Breaker
-1 Elvish Rejuvenator
 1 Blast Zone
+1 Voracious Hydra
+1 Elvish Rejuvenator
+1 Botanical Sanctum
+1 World Breaker
 1 Castle Garenbrig
+1 Sanctum of Ugin
+1 Yavimaya Coast
+1 Cavalier of Thorns
 1 Shrine of the Forsaken Gods
 1 Ulamog, the Ceaseless Hunger
 2 Castle Garenbrig
 2 Botanical Sanctum
 2 Sanctum of Ugin
-2 Yavimaya Coast
-2 Cavalier of Thorns
-2 World Breaker
 2 Elvish Rejuvenator
 2 Voracious Hydra
+2 World Breaker
+2 Cavalier of Thorns
 2 Zagoth Triome
 2 Shrine of the Forsaken Gods
+2 Yavimaya Coast
 3 Botanical Sanctum
-3 Castle Garenbrig
-3 Cavalier of Thorns
-3 Yavimaya Coast
 3 Elvish Rejuvenator
+3 Castle Garenbrig
 3 Voracious Hydra
 3 Ugin, the Spirit Dragon
 3 Shrine of the Forsaken Gods
-4 Yavimaya Coast
-4 Cavalier of Thorns
+3 Yavimaya Coast
+3 Cavalier of Thorns
 4 Elvish Rejuvenator
 4 Voracious Hydra
+4 Yavimaya Coast
+4 Cavalier of Thorns
 4 Botanical Sanctum
 4 Shrine of the Forsaken Gods
 1 Mythos of Nethroi

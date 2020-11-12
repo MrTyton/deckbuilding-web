@@ -14,15 +14,15 @@
 3 Hallowed Fountain
 3 Spell Queller
 4 Hallowed Fountain
-4 Seachrome Coast
 4 Spell Queller
+4 Seachrome Coast
 1 Selfless Savior
 1 Glasspool Mimic
 1 Confounding Conundrum
 1 Adarkar Wastes
 2 Selfless Savior
-2 Confounding Conundrum
 2 Glasspool Mimic
+2 Confounding Conundrum
 2 Adarkar Wastes
 3 Glasspool Mimic
 3 Confounding Conundrum
@@ -112,12 +112,12 @@
 1 Reality Smasher
 1 Battlefield Forge
 1 Wastes
-1 Inspiring Vantage
 1 Simian Spirit Guide
 1 Bonecrusher Giant
 1 Containment Priest
 1 Gemstone Caverns
 1 Chalice of the Void
+1 Inspiring Vantage
 2 Reality Smasher
 2 Battlefield Forge
 2 Bonecrusher Giant
@@ -128,8 +128,8 @@
 3 Reality Smasher
 3 Battlefield Forge
 3 Containment Priest
-3 Gemstone Caverns
 3 Sunbaked Canyon
+3 Gemstone Caverns
 3 Simian Spirit Guide
 3 Chalice of the Void
 4 Reality Smasher
@@ -142,6 +142,24 @@
 3 Archon of Emeria
 3 Batterskull
 4 Batterskull
+1 Branchloft Pathway
+1 Noble Hierarch
+1 Aven Mindcensor
+1 Razorverge Thicket
+1 Temple Garden
+1 Forest
+2 Branchloft Pathway
+2 Noble Hierarch
+2 Aven Mindcensor
+2 Temple Garden
+2 Razorverge Thicket
+3 Branchloft Pathway
+3 Temple Garden
+3 Noble Hierarch
+3 Razorverge Thicket
+4 Razorverge Thicket
+4 Temple Garden
+4 Noble Hierarch
 1 Mutavault
 1 Phyrexian Revoker
 2 Mutavault
@@ -149,21 +167,3 @@
 3 Mutavault
 4 Mutavault
 12 Snow-Covered Plains
-1 Branchloft Pathway
-1 Aven Mindcensor
-1 Noble Hierarch
-1 Razorverge Thicket
-1 Temple Garden
-1 Forest
-2 Branchloft Pathway
-2 Aven Mindcensor
-2 Noble Hierarch
-2 Temple Garden
-2 Razorverge Thicket
-3 Temple Garden
-3 Branchloft Pathway
-3 Noble Hierarch
-3 Razorverge Thicket
-4 Razorverge Thicket
-4 Temple Garden
-4 Noble Hierarch

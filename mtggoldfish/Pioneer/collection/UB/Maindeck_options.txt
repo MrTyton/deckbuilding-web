@@ -1,4 +1,8 @@
 4 Fatal Push
+3 Negate
+1 Hieroglyphic Illumination
+5 Island
+4 Fetid Pools
 1 Agadeem's Awakening
 1 Turntimber Symbiosis
 1 Bala Ged Recovery
@@ -7,11 +11,11 @@
 1 Pelakka Predation
 1 Undercity Informer
 1 Balustrade Spy
-2 Pelakka Predation
 2 Agadeem's Awakening
 2 Bala Ged Recovery
 2 Undercity Informer
 2 Turntimber Symbiosis
+2 Pelakka Predation
 2 Balustrade Spy
 2 Tangled Florahedron
 3 Agadeem's Awakening
@@ -22,6 +26,7 @@
 3 Balustrade Spy
 4 Undercity Informer
 4 Turntimber Symbiosis
+4 Agadeem's Awakening
 4 Tangled Florahedron
 1 Sea Gate Restoration
 1 Silversmote Ghoul
@@ -38,52 +43,42 @@
 4 Creeping Chill
 4 Prized Amalgam
 1 Hagra Mauling
+2 Hagra Mauling
 4 Bala Ged Recovery
 3 Sea Gate Restoration
-2 Hagra Mauling
 2 Worldspine Wurm
-4 Agadeem's Awakening
+4 Balustrade Spy
+1 Thoughtseize
+2 Rewind
+3 Torrential Gearhulk
 3 Silversmote Ghoul
 1 Sylvan Caryatid
 2 Sylvan Caryatid
 3 Sylvan Caryatid
 4 Sylvan Caryatid
-4 Balustrade Spy
-3 Negate
-1 Paradise Druid
-2 Paradise Druid
-1 Hieroglyphic Illumination
-5 Island
-4 Sea Gate Restoration
-3 Paradise Druid
-1 Emeria's Call
-2 Emeria's Call
-4 Fetid Pools
-1 Thoughtseize
-2 Rewind
-3 Torrential Gearhulk
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
-3 Pelakka Predation
-1 Eldritch Evolution
-2 Eldritch Evolution
-3 Eldritch Evolution
-4 Eldritch Evolution
+1 Paradise Druid
+2 Paradise Druid
+1 Emeria's Call
+2 Emeria's Call
 2 Vraska's Contempt
 1 Heartless Act
 4 Dig Through Time
 1 Thassa's Intervention
-4 Pelakka Predation
+4 Sea Gate Restoration
+3 Paradise Druid
 1 Thassa's Oracle
+3 Pelakka Predation
+4 Pelakka Predation
 1 Consign/Oblivion
 2 Eliminate
 4 Fabled Passage
-1 Neoform
-2 Neoform
-3 Neoform
-4 Neoform
-4 Silversmote Ghoul
+1 Eldritch Evolution
+2 Eldritch Evolution
+3 Eldritch Evolution
+4 Eldritch Evolution
 1 Gilded Goose
 2 Gilded Goose
 3 Hagra Mauling
@@ -100,18 +95,16 @@
 4 Hieroglyphic Illumination
 1 Brazen Borrower
 3 Swamp
-1 Leyline of Sanctity
-2 Leyline of Sanctity
+1 Neoform
+2 Neoform
+3 Neoform
+4 Neoform
 4 Paradise Druid
-1 Silundi Vision
 3 Emeria's Call
 4 Emeria's Call
-1 Jwari Disruption
-1 Zof Consumption
-1 Ashiok, Nightmare Muse
 1 Ugin, the Spirit Dragon
-1 Shatterskull Smashing
-2 Shatterskull Smashing
+1 Jwari Disruption
+1 Ashiok, Nightmare Muse
 2 Castle Vantress
 1 Shadows' Verdict
 1 Scavenger Grounds
@@ -124,6 +117,7 @@
 1 Syncopate
 1 The Scarab God
 1 Silumgar's Command
+1 Silundi Vision
 1 Languish
 1 Dissolve
 1 Pull from Tomorrow
@@ -133,12 +127,16 @@
 2 Thassa's Intervention
 2 Languish
 2 Silundi Vision
-3 Temple of Deceit
 3 Eliminate
 3 Syncopate
+3 Temple of Deceit
 4 Eliminate
 4 Syncopate
+1 Zof Consumption
+4 Silversmote Ghoul
+1 Leyline of Sanctity
 1 Pillar of Origins
+2 Leyline of Sanctity
 2 Pillar of Origins
 3 Leyline of Sanctity
 3 Pillar of Origins

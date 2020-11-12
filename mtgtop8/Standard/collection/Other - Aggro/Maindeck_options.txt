@@ -22,23 +22,23 @@
 2 Golden Egg
 2 Labyrinth of Skophos
 2 Crystalline Giant
-2 Myriad Construct
 2 Stonecoil Serpent
 2 Crawling Barrens
 2 Swamp
 2 Indatha Triome
 2 Bonders' Enclave
 2 Palladium Myr
+2 Myriad Construct
 2 Radiant Fountain
 3 Mazemind Tome
 3 Bloodchief's Thirst
 3 Radiant Fountain
 3 Golden Egg
 3 Labyrinth of Skophos
-3 Myriad Construct
-3 Crystalline Giant
 3 Forsaken Monument
+3 Crystalline Giant
 3 Stonecoil Serpent
+3 Myriad Construct
 3 Ugin, the Spirit Dragon
 3 Palladium Myr
 3 Swamp
@@ -46,9 +46,8 @@
 4 Mazemind Tome
 4 Bloodchief's Thirst
 4 Radiant Fountain
-4 Labyrinth of Skophos
-4 Myriad Construct
 4 Crystalline Giant
+4 Labyrinth of Skophos
 4 Golden Egg
 4 Stonecoil Serpent
 4 Swamp
@@ -56,18 +55,19 @@
 4 Ugin, the Spirit Dragon
 4 Indatha Triome
 4 Forsaken Monument
+4 Myriad Construct
 5 Swamp
 6 Swamp
-1 Experimental Overload
 1 God-Eternal Kefnet
-1 Irencrag Pyromancer
+1 Experimental Overload
 1 Lofty Denial
+1 Ominous Seas
 1 Flame Sweep
 1 Crackling Drake
 1 Swiftwater Cliffs
 1 Niv-Mizzet, Parun
 1 The Royal Scions
-1 Ominous Seas
+1 Irencrag Pyromancer
 1 Shock
 1 Winged Words
 1 Izzet Guildgate
@@ -77,9 +77,9 @@
 1 Opt
 2 Experimental Overload
 2 Lofty Denial
+2 Ominous Seas
 2 Flame Sweep
 2 Swiftwater Cliffs
-2 Ominous Seas
 2 Shock
 2 Sprite Dragon
 2 Winged Words
@@ -90,8 +90,8 @@
 2 Crackling Drake
 3 Lofty Denial
 3 Flame Sweep
-3 Swiftwater Cliffs
 3 Ominous Seas
+3 Swiftwater Cliffs
 3 Frantic Inventory
 3 Sprite Dragon
 3 Opt
