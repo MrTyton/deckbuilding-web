@@ -1,5 +1,5 @@
-3 Plains
 3 Mountain
+3 Plains
 4 Plains
 1 Cragcrown Pathway
 2 Cragcrown Pathway
@@ -8,10 +8,9 @@
 4 Mountain
 5 Plains
 1 Savai Triome
-3 Fabled Passage
+4 Shatterskull Smashing
 5 Mountain
 6 Mountain
-4 Shatterskull Smashing
 6 Plains
 1 Alseid of Life's Bounty
 2 Alseid of Life's Bounty
@@ -20,66 +19,32 @@
 3 Archon of Emeria
 4 Spikefield Hazard
 1 Phoenix of Ash
+3 Fabled Passage
 1 Tazri, Beacon of Unity
 1 Emeria's Call
 1 Nahiri, Heir of the Ancients
 2 Emeria's Call
 1 Castle Embereth
+1 Seasoned Hallowblade
+2 Haktos the Unscarred
+2 Seasoned Hallowblade
+3 Seasoned Hallowblade
+4 Seasoned Hallowblade
+7 Plains
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
 4 Sacred Foundry
-1 Raise the Alarm
-2 Raise the Alarm
-3 Raise the Alarm
-4 Raise the Alarm
-1 Godless Shrine
-1 Blood Crypt
-1 Swamp
-1 Woe Strider
-1 Tajic, Legion's Edge
-1 Kitesail Freebooter
-1 Judith, the Scourge Diva
-1 Lazotep Reaver
-2 Savai Triome
-2 Blood Crypt
-2 Lazotep Reaver
-2 Judith, the Scourge Diva
-2 Woe Strider
-2 Kitesail Freebooter
-2 Godless Shrine
-3 Savai Triome
-3 Blood Crypt
-3 Godless Shrine
-3 Judith, the Scourge Diva
-4 Blood Crypt
-4 Godless Shrine
-1 Seasoned Hallowblade
-2 Seasoned Hallowblade
-2 Haktos the Unscarred
-3 Seasoned Hallowblade
-4 Seasoned Hallowblade
-7 Plains
-1 Legion Warboss
-2 Legion Warboss
-3 Cragcrown Pathway
 1 Fissure Wizard
-1 Riverglide Pathway
 1 Silverwing Squadron
+1 Riverglide Pathway
 1 Raugrin Triome
 2 Fissure Wizard
 2 Silverwing Squadron
 2 Riverglide Pathway
-3 Riverglide Pathway
 3 Silverwing Squadron
-1 General's Enforcer
-1 Knight of the Ebon Legion
-1 General Kudro of Drannith
-2 General's Enforcer
-2 Knight of the Ebon Legion
-2 General Kudro of Drannith
-2 Tajic, Legion's Edge
-3 Kitesail Freebooter
+3 Riverglide Pathway
+3 Cragcrown Pathway
 1 Shock
 2 Phoenix of Ash
 2 Shock
@@ -91,85 +56,112 @@
 3 Emeria's Call
 4 Archon of Emeria
 1 Igneous Cur
-1 Taranika, Akroan Veteran
 1 Alpine Watchdog
 1 Alpine Houndmaster
+1 Pack Leader
+1 Taranika, Akroan Veteran
 1 Luminous Broodmoth
 1 Shatter the Sky
 1 Storm's Wrath
-1 Pack Leader
 2 Alpine Houndmaster
-2 Taranika, Akroan Veteran
 2 Alpine Watchdog
 2 Igneous Cur
+2 Pack Leader
+2 Taranika, Akroan Veteran
 2 Luminous Broodmoth
 2 Shatter the Sky
-2 Pack Leader
 3 Alpine Houndmaster
+3 Pack Leader
 3 Luminous Broodmoth
 3 Haktos the Unscarred
-3 Pack Leader
 4 Alpine Houndmaster
-4 Luminous Broodmoth
 4 Pack Leader
+4 Luminous Broodmoth
+1 Raise the Alarm
+2 Raise the Alarm
+3 Raise the Alarm
+4 Raise the Alarm
+1 Godless Shrine
 1 Temple of Silence
+1 Blood Crypt
+1 Swamp
+1 Woe Strider
+1 Tajic, Legion's Edge
+1 Kitesail Freebooter
+1 Judith, the Scourge Diva
+1 Lazotep Reaver
 1 Venerated Loxodon
 2 Temple of Silence
+2 Savai Triome
+2 Blood Crypt
+2 Lazotep Reaver
 2 Venerated Loxodon
+2 Judith, the Scourge Diva
+2 Woe Strider
+2 Kitesail Freebooter
+2 Godless Shrine
+3 Savai Triome
 3 Woe Strider
 3 Venerated Loxodon
+3 Blood Crypt
+3 Godless Shrine
+3 Judith, the Scourge Diva
 3 Lazotep Reaver
-4 Venerated Loxodon
+4 Blood Crypt
+4 Godless Shrine
 4 Lazotep Reaver
+4 Venerated Loxodon
+1 Oko, Thief of Crowns
 1 Charming Prince
 1 Stomping Ground
-1 Oko, Thief of Crowns
 1 Breeding Pool
-1 Paradise Druid
-1 Arboreal Grazer
 1 Temple Garden
 1 Once Upon a Time
 1 Agent of Treachery
+1 Legion Warboss
+1 Arboreal Grazer
 1 Gilded Goose
 1 Hallowed Fountain
 1 Steam Vents
+1 Paradise Druid
 1 Forest
 2 Oko, Thief of Crowns
 2 Hallowed Fountain
-2 Arboreal Grazer
-2 Paradise Druid
 2 Once Upon a Time
 2 Agent of Treachery
+2 Legion Warboss
 2 Gilded Goose
 2 Stomping Ground
+2 Paradise Druid
+2 Forest
 2 Steam Vents
 2 Temple Garden
+2 Arboreal Grazer
 2 Breeding Pool
-2 Forest
 3 Oko, Thief of Crowns
 3 Breeding Pool
 3 Arboreal Grazer
 3 Once Upon a Time
-3 Hallowed Fountain
 3 Agent of Treachery
 3 Legion Warboss
 3 Stomping Ground
 3 Temple Garden
 3 Gilded Goose
+3 Hallowed Fountain
 4 Breeding Pool
 4 Once Upon a Time
-4 Hallowed Fountain
 4 Oko, Thief of Crowns
 4 Gilded Goose
+4 Hallowed Fountain
 4 Temple Garden
 4 Stomping Ground
 4 Agent of Treachery
+1 Faerie Guidemother
+1 Seven Dwarves
 1 Garrison Cat
 1 Giant Killer
-1 Seven Dwarves
-1 Faerie Guidemother
-2 Garrison Cat
 2 Seven Dwarves
+2 Garrison Cat
 3 Garrison Cat
 3 Seven Dwarves
 4 Garrison Cat

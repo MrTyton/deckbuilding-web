@@ -33,7 +33,7 @@
 |                    2|Sejiri Shelter                                                                |                    1|[Sunscour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121251)       |
 |                    2|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)|                    2|[Sunscour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121251)       |
 |                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)|                    3|[Sunscour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121251)       |
-|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)|                    4|[Sunscour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121251)       |
-|                    4|Skyclave Cleric                                                               |                     |                                                                                          |
+|                    4|Skyclave Cleric                                                               |                    4|[Sunscour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121251)       |
+|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)|                     |                                                                                          |
 |                    4|Beyeen Veil                                                                   |                     |                                                                                          |
 

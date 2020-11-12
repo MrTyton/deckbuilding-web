@@ -56,18 +56,18 @@
 1 Field of Ruin
 1 Kolaghan's Command
 1 Kroxa, Titan of Death's Hunger
-1 Dragonskull Summit
 1 Collective Brutality
-1 Davriel, Rogue Shadowmage
+1 Dragonskull Summit
 1 Liliana, Waker of the Dead
+1 Davriel, Rogue Shadowmage
 1 Blood Crypt
 2 Kroxa, Titan of Death's Hunger
 2 Kolaghan's Command
 2 Dragonskull Summit
-2 Davriel, Rogue Shadowmage
 2 Collective Brutality
 2 Liliana, Waker of the Dead
 2 Blood Crypt
+2 Davriel, Rogue Shadowmage
 3 Kroxa, Titan of Death's Hunger
 3 Liliana, Waker of the Dead
 3 Davriel, Rogue Shadowmage
@@ -103,7 +103,6 @@
 2 Baffling End
 2 Plains
 3 Baffling End
-1 Glacial Fortress
 1 Elspeth, Sun's Nemesis
 1 Absorb
 1 Supreme Verdict
@@ -112,6 +111,7 @@
 1 Jace, Architect of Thought
 1 Dream Trawler
 1 Teferi, Hero of Dominaria
+1 Glacial Fortress
 1 Elspeth Conquers Death
 1 Omen of the Sea
 1 Dovin's Veto
@@ -119,12 +119,12 @@
 1 Sacred Foundry
 1 Omen of the Sun
 2 Omen of the Sun
-2 Castle Ardenvale
 2 Glacial Fortress
+2 Castle Ardenvale
 2 Absorb
-2 Elspeth Conquers Death
 2 Syncopate
 2 Azorius Charm
+2 Elspeth Conquers Death
 2 Dream Trawler
 2 Supreme Verdict
 2 Sacred Foundry
@@ -257,9 +257,9 @@
 3 Nissa, Who Shakes the World
 3 Oath of Nissa
 4 Oath of Nissa
+1 Murderous Rider
 1 Hazoret the Fervent
 1 Waste Not
-1 Murderous Rider
 2 Hazoret the Fervent
 2 Waste Not
 2 Murderous Rider
@@ -270,8 +270,8 @@
 3 Waste Not
 4 Blood Crypt
 4 Dragonskull Summit
-4 Waste Not
 4 Swamp
+4 Waste Not
 4 Castle Locthwain
 1 Thought Erasure
 1 Nicol Bolas, the Ravager
@@ -322,7 +322,6 @@
 4 Botanical Sanctum
 4 Shrine of the Forsaken Gods
 1 Mythos of Nethroi
-1 Izzet Guildgate
 1 Gateway Plaza
 1 Gatecreeper Vine
 1 Plaza of Harmony
@@ -331,6 +330,7 @@
 1 Gruul Guildgate
 1 Selesnya Guildgate
 1 Golgari Guildgate
+1 Izzet Guildgate
 1 Gate Colossus
 1 Simic Guildgate
 1 Guild Summit
@@ -341,7 +341,6 @@
 1 Boros Guildgate
 1 Gatebreaker Ram
 2 Mythos of Nethroi
-2 Izzet Guildgate
 2 Simic Guildgate
 2 Guild Summit
 2 Gatebreaker Ram
@@ -352,6 +351,7 @@
 2 Gates Ablaze
 2 Gate Colossus
 2 Golgari Guildgate
+2 Izzet Guildgate
 3 Gruul Guildgate
 3 Gates Ablaze
 3 Izzet Guildgate
@@ -385,6 +385,7 @@
 4 Narset, Parter of Veils
 4 Dig Through Time
 5 Island
+1 Wolfwillow Haven
 1 Calix, Destiny's Hand
 1 Banishing Light
 1 Gideon's Intervention
@@ -396,9 +397,9 @@
 1 Starfield Mystic
 1 Setessan Champion
 1 Sphere of Safety
-1 Wolfwillow Haven
 1 Seal Away
 1 Herald of the Pantheon
+2 Wolfwillow Haven
 2 Calix, Destiny's Hand
 2 Banishing Light
 2 Gideon's Intervention
@@ -407,11 +408,11 @@
 2 Herald of the Pantheon
 2 Setessan Champion
 2 Eidolon of Blossoms
-2 Wolfwillow Haven
 2 Seal Away
 2 Sigil of the Empty Throne
 2 Temple of Plenty
 2 Sphere of Safety
+3 Wolfwillow Haven
 3 Setessan Champion
 3 Banishing Light
 3 Branchloft Pathway
@@ -419,7 +420,6 @@
 3 Temple of Plenty
 3 Sphere of Safety
 3 Eidolon of Blossoms
-3 Wolfwillow Haven
 3 Herald of the Pantheon
 4 Wolfwillow Haven
 4 Banishing Light

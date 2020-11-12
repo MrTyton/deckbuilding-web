@@ -1,11 +1,11 @@
 1 Omen of the Sea
 2 Omen of the Sea
+3 Irrigated Farmland
 3 Fabled Passage
 3 Omen of the Sea
 4 Omen of the Sea
 1 Narset, Parter of Veils
 6 Island
-3 Irrigated Farmland
 4 Fabled Passage
 4 Irrigated Farmland
 1 Settle the Wreckage
@@ -35,12 +35,12 @@
 1 Sphinx's Revelation
 2 Sphinx's Revelation
 1 Whirlwind Denial
+4 Teferi, Time Raveler
 1 Jwari Disruption
 2 Jwari Disruption
 3 Jwari Disruption
 1 Sinister Sabotage
 2 Sinister Sabotage
-4 Teferi, Time Raveler
 2 Narset, Parter of Veils
 1 Blast Zone
 3 Dovin's Veto
@@ -60,12 +60,10 @@
 3 Baffling End
 1 Elspeth, Sun's Nemesis
 3 Castle Ardenvale
-1 Brazen Borrower
 2 Blast Zone
 4 Jwari Disruption
 1 Jace, Architect of Thought
 3 Field of Ruin
-2 Castle Vantress
 1 Omen of the Sun
 2 Omen of the Sun
 1 Mountain
@@ -73,17 +71,16 @@
 2 Raugrin Triome
 3 Raugrin Triome
 4 Raugrin Triome
-1 Teferi, Master of Time
-1 Port Town
-2 Port Town
+2 Castle Vantress
+1 Brazen Borrower
 1 Skyclave Cleric
 2 Skyclave Cleric
 3 Skyclave Cleric
 4 Skyclave Cleric
 1 Steam Vents
 1 Sulfur Falls
-1 Sacred Foundry
 1 Anger of the Gods
+1 Sacred Foundry
 1 Chained to the Rocks
 2 Anger of the Gods
 2 Steam Vents
@@ -101,6 +98,9 @@
 4 Plains
 4 Baffling End
 1 Ondu Inversion
+1 Teferi, Master of Time
+1 Port Town
+2 Port Town
 1 Cast Out
 3 Sinister Sabotage
 4 Sinister Sabotage
@@ -123,6 +123,7 @@
 3 Syncopate
 4 Syncopate
 1 Emeria's Call
+1 Warrant/Warden
 1 Ketria Triome
 1 Omnath, Locus of Creation
 2 Ketria Triome
@@ -134,4 +135,8 @@
 2 Frantic Inventory
 3 Frantic Inventory
 4 Frantic Inventory
-1 Warrant/Warden
+1 Thassa's Intervention
+1 Render Silent
+2 Render Silent
+3 Render Silent
+4 Render Silent

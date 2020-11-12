@@ -46,15 +46,15 @@
 2 Omen of the Sun
 3 Scavenging Ooze
 1 Shepherd of the Flock
-1 Edgewall Innkeeper
 1 Lovestruck Beast
+1 Edgewall Innkeeper
 2 Shepherd of the Flock
-2 Lovestruck Beast
 2 Edgewall Innkeeper
+2 Lovestruck Beast
 2 Giant Killer
 3 Shepherd of the Flock
-3 Edgewall Innkeeper
 3 Lovestruck Beast
+3 Edgewall Innkeeper
 3 Giant Killer
 4 Shepherd of the Flock
 4 Lovestruck Beast
@@ -84,15 +84,15 @@
 2 Solemn Simulacrum
 3 Solemn Simulacrum
 1 Legion Angel
+1 Flicker of Fate
 1 Mazemind Tome
 1 Realm-Cloaked Giant
-1 Flicker of Fate
 2 Mazemind Tome
 2 Realm-Cloaked Giant
-3 Indatha Triome
 3 Mazemind Tome
-4 Charming Prince
+3 Indatha Triome
 4 Mazemind Tome
+4 Charming Prince
 4 Indatha Triome
 7 Plains
 1 The Birth of Meletis
@@ -111,6 +111,7 @@
 2 Questing Beast
 3 The Great Henge
 4 Scavenging Ooze
+4 Bronzehide Lion
 1 Gemrazer
 2 Gemrazer
 3 Gemrazer
@@ -144,5 +145,4 @@
 4 Needleverge Pathway
 4 Wolfwillow Haven
 4 Beanstalk Giant
-4 Bronzehide Lion
 10 Forest

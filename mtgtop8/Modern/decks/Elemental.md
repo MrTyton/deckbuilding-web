@@ -49,6 +49,6 @@
 |                    3|[Phantasmal Image](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220099)         |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                    4|[Phantasmal Image](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220099)         |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                    4|[Reflecting Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382342)          |                    3|[Fulminator Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397686)    |
-|                    2|[Omnath, Locus of the Roil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466970)|                    2|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
-|                    3|[Vesperlark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463984)               |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
+|                    3|[Vesperlark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463984)               |                    2|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
+|                    2|[Omnath, Locus of the Roil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466970)|                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
 

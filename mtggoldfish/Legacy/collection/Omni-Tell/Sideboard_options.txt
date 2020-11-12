@@ -1,10 +1,10 @@
-1 Boseiju, Who Shelters All
-3 Surgical Extraction
-1 Wipe Away
+1 Release the Ants
 3 Swords to Plowshares
 1 Grafdigger's Cage
-1 Wilt
 2 Grafdigger's Cage
+1 Wilt
+3 Surgical Extraction
+1 Wipe Away
 1 Containment Priest
 2 Boseiju, Who Shelters All
 1 Intuition
@@ -13,21 +13,21 @@
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
-2 Return to Nature
 2 Wilt
 1 Disallow
 3 Grafdigger's Cage
 1 Disenchant
 1 Noxious Revival
 1 Mindbreak Trap
+2 Return to Nature
 1 Oko, Thief of Crowns
 1 Orim's Chant
 2 Containment Priest
 1 Engineered Explosives
-1 Submerge
 1 Sevinne's Reclamation
-1 Hydroblast
 1 Null Rod
+1 Hydroblast
+1 Submerge
 3 Wilt
 2 Echoing Truth
 3 Carpet of Flowers
@@ -36,6 +36,8 @@
 1 Eladamri's Call
 1 Rapid Hybridization
 1 Kozilek's Return
+1 Pyroclasm
+2 Pyroclasm
 1 Xantid Swarm
 1 Lavinia, Azorius Renegade
 1 Tormod's Crypt
@@ -45,9 +47,7 @@
 1 Meddling Mage
 2 Meddling Mage
 1 Pyroblast
-1 Pyroclasm
 1 Ancient Grudge
-2 Pyroclasm
 2 Ancient Grudge
 1 Pongify
 1 Relic of Progenitus
@@ -63,6 +63,15 @@
 2 Veil of Summer
 2 Oko, Thief of Crowns
 3 Oko, Thief of Crowns
+1 Chain of Vapor
+1 Shatterstorm
+1 Blood Moon
+1 Through the Breach
+1 Show and Tell
+1 Consign/Oblivion
+2 Through the Breach
+2 Blood Moon
+3 Blood Moon
 4 Swords to Plowshares
 4 Leyline of the Void
 1 Wrath of God
