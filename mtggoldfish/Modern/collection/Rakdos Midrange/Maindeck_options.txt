@@ -25,10 +25,10 @@
 1 Blood Moon
 2 Blood Moon
 1 Terminate
-1 Mishra's Bauble
 1 Lurrus of the Dream-Den
-2 Mishra's Bauble
+1 Mishra's Bauble
 2 Lurrus of the Dream-Den
+2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
 4 Liliana of the Veil
@@ -67,13 +67,13 @@
 1 Hazoret the Fervent
 2 Pillage
 3 Pillage
-1 Snow-Covered Plains
 1 Godless Shrine
+1 Snow-Covered Plains
+1 Lingering Souls
 1 Sacred Foundry
 1 Sword of Fire and Ice
 1 Batterskull
 1 Silent Clearing
-1 Lingering Souls
 1 Stoneforge Mystic
 2 Lingering Souls
 2 Stoneforge Mystic
@@ -93,8 +93,11 @@
 3 Field of Ruin
 3 Lavaclaw Reaches
 4 Field of Ruin
-3 Snow-Covered Swamp
-4 Snow-Covered Swamp
+1 Sunbaked Canyon
+2 Sunbaked Canyon
+3 Sunbaked Canyon
+3 Blood Moon
+4 Magmatic Channeler
 1 Nihil Spellbomb
 2 Verdant Catacombs
 2 Terminate
@@ -103,11 +106,8 @@
 3 Lurrus of the Dream-Den
 3 Nihil Spellbomb
 4 Verdant Catacombs
-1 Sunbaked Canyon
-2 Sunbaked Canyon
-3 Sunbaked Canyon
-3 Blood Moon
-4 Magmatic Channeler
+3 Snow-Covered Swamp
+4 Snow-Covered Swamp
 1 Dreadhorde Arcanist
 2 Dreadhorde Arcanist
 4 Unearth

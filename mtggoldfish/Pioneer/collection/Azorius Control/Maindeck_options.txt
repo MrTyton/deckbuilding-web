@@ -1,11 +1,11 @@
-6 Island
-1 Narset, Parter of Veils
 1 Omen of the Sea
 2 Omen of the Sea
-3 Irrigated Farmland
 3 Fabled Passage
+1 Narset, Parter of Veils
+3 Irrigated Farmland
 3 Omen of the Sea
 4 Omen of the Sea
+6 Island
 4 Fabled Passage
 4 Irrigated Farmland
 1 Settle the Wreckage
@@ -37,9 +37,9 @@
 1 Jwari Disruption
 2 Jwari Disruption
 3 Jwari Disruption
+2 Narset, Parter of Veils
 1 Sinister Sabotage
 2 Sinister Sabotage
-2 Narset, Parter of Veils
 1 Sphinx's Revelation
 2 Sphinx's Revelation
 1 Blast Zone
@@ -60,12 +60,10 @@
 3 Baffling End
 1 Elspeth, Sun's Nemesis
 3 Castle Ardenvale
-1 Brazen Borrower
 2 Blast Zone
 4 Jwari Disruption
 1 Jace, Architect of Thought
 3 Field of Ruin
-2 Castle Vantress
 1 Omen of the Sun
 2 Omen of the Sun
 1 Mountain
@@ -73,13 +71,14 @@
 2 Raugrin Triome
 3 Raugrin Triome
 4 Raugrin Triome
-1 Teferi, Master of Time
-1 Port Town
-2 Port Town
+2 Castle Vantress
+1 Brazen Borrower
 1 Skyclave Cleric
 2 Skyclave Cleric
 3 Skyclave Cleric
 4 Skyclave Cleric
+1 Prairie Stream
+2 Prairie Stream
 1 Steam Vents
 1 Sulfur Falls
 1 Sacred Foundry
@@ -92,24 +91,25 @@
 3 Sacred Foundry
 4 Steam Vents
 4 Sacred Foundry
-1 Prairie Stream
-1 Essence Scatter
 1 Geier Reach Sanitarium
+1 Essence Scatter
 2 Essence Scatter
-2 Prairie Stream
 3 Plains
 4 Plains
 4 Baffling End
-1 Ondu Inversion
-1 Cast Out
-3 Sinister Sabotage
-4 Sinister Sabotage
 1 Neutralize
 2 Neutralize
+1 Ondu Inversion
+1 Teferi, Master of Time
+1 Port Town
+2 Port Town
+1 Cast Out
+3 Narset, Parter of Veils
+3 Sinister Sabotage
+4 Sinister Sabotage
 1 Kiora, Master of the Depths
 3 Anger of the Gods
 1 Fumigate
-3 Narset, Parter of Veils
 4 Castle Ardenvale
 1 Rest in Peace
 1 Gideon of the Trials
@@ -132,6 +132,28 @@
 2 Frantic Inventory
 3 Frantic Inventory
 4 Frantic Inventory
+1 Eliminate
+1 Thought Erasure
+1 Declaration in Stone
+1 Ashiok, Nightmare Muse
+1 Swamp
+1 Isolated Chapel
+1 Dragonlord Ojutai
+1 Watery Grave
+1 Castle Locthwain
+2 Isolated Chapel
+2 Eliminate
+2 Thought Erasure
+2 Ashiok, Nightmare Muse
+2 Declaration in Stone
+2 Watery Grave
+3 Isolated Chapel
+3 Ashiok, Nightmare Muse
+3 Neutralize
+3 Declaration in Stone
+3 Watery Grave
+4 Neutralize
+4 Watery Grave
 1 Thassa's Intervention
 1 Render Silent
 2 Render Silent
