@@ -54,26 +54,26 @@
 4 Thoughtseize
 3 Mountain
 1 Field of Ruin
-1 Kolaghan's Command
-1 Kroxa, Titan of Death's Hunger
-1 Collective Brutality
 1 Dragonskull Summit
-1 Liliana, Waker of the Dead
+1 Kroxa, Titan of Death's Hunger
 1 Davriel, Rogue Shadowmage
+1 Liliana, Waker of the Dead
+1 Kolaghan's Command
+1 Collective Brutality
 1 Blood Crypt
 2 Kroxa, Titan of Death's Hunger
-2 Kolaghan's Command
+2 Davriel, Rogue Shadowmage
 2 Dragonskull Summit
-2 Collective Brutality
 2 Liliana, Waker of the Dead
 2 Blood Crypt
-2 Davriel, Rogue Shadowmage
+2 Kolaghan's Command
+2 Collective Brutality
 3 Kroxa, Titan of Death's Hunger
-3 Liliana, Waker of the Dead
 3 Davriel, Rogue Shadowmage
+3 Liliana, Waker of the Dead
+4 Liliana, Waker of the Dead
 4 Kroxa, Titan of Death's Hunger
 4 Fatal Push
-4 Liliana, Waker of the Dead
 1 Anger of the Gods
 2 Anger of the Gods
 1 Ashiok, Nightmare Muse
@@ -82,12 +82,12 @@
 1 Castle Locthwain
 2 Castle Locthwain
 1 Fetid Pools
-1 Dig Through Time
 1 Censor
 1 Opt
-2 Dig Through Time
-2 Censor
+1 Dig Through Time
 2 Fetid Pools
+2 Censor
+2 Dig Through Time
 2 Opt
 3 Dig Through Time
 3 Opt
@@ -103,46 +103,46 @@
 2 Baffling End
 2 Plains
 3 Baffling End
-1 Elspeth, Sun's Nemesis
-1 Absorb
-1 Supreme Verdict
-1 Azorius Charm
+1 Omen of the Sun
+1 Omen of the Sea
 1 Syncopate
+1 Elspeth, Sun's Nemesis
 1 Jace, Architect of Thought
-1 Dream Trawler
 1 Teferi, Hero of Dominaria
 1 Glacial Fortress
 1 Elspeth Conquers Death
-1 Omen of the Sea
 1 Dovin's Veto
+1 Dream Trawler
+1 Supreme Verdict
 1 Chained to the Rocks
+1 Absorb
 1 Sacred Foundry
-1 Omen of the Sun
+1 Azorius Charm
 2 Omen of the Sun
-2 Glacial Fortress
+2 Syncopate
+2 Omen of the Sea
+2 Dream Trawler
+2 Azorius Charm
+2 Supreme Verdict
 2 Castle Ardenvale
 2 Absorb
-2 Syncopate
-2 Azorius Charm
-2 Elspeth Conquers Death
-2 Dream Trawler
-2 Supreme Verdict
 2 Sacred Foundry
 2 Teferi, Hero of Dominaria
-2 Omen of the Sea
-3 Supreme Verdict
+2 Elspeth Conquers Death
+2 Glacial Fortress
 3 Castle Ardenvale
-3 Glacial Fortress
-3 Teferi, Hero of Dominaria
 3 Absorb
-3 Anger of the Gods
 3 Omen of the Sea
+3 Glacial Fortress
 3 Azorius Charm
+3 Supreme Verdict
+3 Anger of the Gods
 3 Sacred Foundry
+3 Teferi, Hero of Dominaria
 3 Steam Vents
 4 Absorb
-4 Azorius Charm
 4 Omen of the Sea
+4 Azorius Charm
 4 Shark Typhoon
 4 Sacred Foundry
 4 Steam Vents
@@ -154,46 +154,45 @@
 2 Hydroid Krasis
 4 Breeding Pool
 3 Swamp
+1 Fraying Sanity
 1 Drown in the Loch
-1 Jwari Disruption
+1 Sea Gate Stormcaller
 1 Ipnu Rivulet
-1 Breaking / Entering
-1 Didn't Say Please
 1 Clearwater Pathway
+1 Didn't Say Please
 1 Maddening Cacophony
 1 Ruin Crab
 1 Drowned Secrets
-1 Sea Gate Stormcaller
+1 Jwari Disruption
 1 Merfolk Secretkeeper
-1 Fraying Sanity
 1 Crypt Incursion
-2 Jwari Disruption
-2 Drown in the Loch
-2 Breaking / Entering
-2 Didn't Say Please
+1 Breaking / Entering
+2 Fraying Sanity
 2 Clearwater Pathway
+2 Didn't Say Please
 2 Maddening Cacophony
 2 Crypt Incursion
 2 Ruin Crab
 2 Sea Gate Stormcaller
-2 Fraying Sanity
+2 Breaking / Entering
+2 Jwari Disruption
 2 Drowned Secrets
+2 Drown in the Loch
 2 Ipnu Rivulet
 2 Merfolk Secretkeeper
-3 Jwari Disruption
-3 Fraying Sanity
 3 Crypt Incursion
-3 Breaking / Entering
 3 Didn't Say Please
+3 Fraying Sanity
 3 Drown in the Loch
 3 Maddening Cacophony
 3 Ruin Crab
+3 Breaking / Entering
+3 Jwari Disruption
 3 Drowned Secrets
 3 Clearwater Pathway
 3 Merfolk Secretkeeper
 3 Ipnu Rivulet
 4 Fraying Sanity
-4 Breaking / Entering
 4 Maddening Cacophony
 4 Drown in the Loch
 4 Ruin Crab
@@ -201,9 +200,10 @@
 4 Ipnu Rivulet
 4 Merfolk Secretkeeper
 4 Clearwater Pathway
+4 Breaking / Entering
 1 Spikefield Hazard
-1 Golos, Tireless Pilgrim
 1 Indatha Triome
+1 Golos, Tireless Pilgrim
 1 Shatterskull Smashing
 1 Jolrael, Mwonvuli Recluse
 2 Jolrael, Mwonvuli Recluse
@@ -235,31 +235,31 @@
 1 Unwind
 1 Glimmer of Genius
 1 Sinister Sabotage
-2 Castle Vantress
 2 Torrential Gearhulk
-2 Negate
+2 Castle Vantress
 2 Ritual of Soot
+2 Negate
 2 Glimmer of Genius
 2 Void Shatter
 3 Torrential Gearhulk
-3 Censor
 3 Fetid Pools
+3 Censor
 3 Void Shatter
 3 Field of Ruin
-1 Nissa, Who Shakes the World
 1 Sylvan Caryatid
+1 Nissa, Who Shakes the World
 1 Oath of Nissa
 1 Aether Gust
+2 Sylvan Caryatid
 2 Nissa, Who Shakes the World
 2 Mystical Dispute
-2 Sylvan Caryatid
 2 Oath of Nissa
 3 Nissa, Who Shakes the World
 3 Oath of Nissa
 4 Oath of Nissa
-1 Murderous Rider
 1 Hazoret the Fervent
 1 Waste Not
+1 Murderous Rider
 2 Hazoret the Fervent
 2 Waste Not
 2 Murderous Rider
@@ -270,19 +270,19 @@
 3 Waste Not
 4 Blood Crypt
 4 Dragonskull Summit
-4 Swamp
 4 Waste Not
+4 Swamp
 4 Castle Locthwain
 1 Thought Erasure
 1 Nicol Bolas, the Ravager
 2 Sulfur Falls
-2 Thought Erasure
 2 Nicol Bolas, the Ravager
+2 Thought Erasure
 3 Nicol Bolas, the Ravager
 3 Thought Erasure
+4 Davriel, Rogue Shadowmage
 4 Nicol Bolas, the Ravager
 4 Thought Erasure
-4 Davriel, Rogue Shadowmage
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
@@ -299,12 +299,12 @@
 1 Ulamog, the Ceaseless Hunger
 2 Castle Garenbrig
 2 Botanical Sanctum
+2 Zagoth Triome
 2 Sanctum of Ugin
 2 Elvish Rejuvenator
 2 Voracious Hydra
 2 World Breaker
 2 Cavalier of Thorns
-2 Zagoth Triome
 2 Shrine of the Forsaken Gods
 2 Yavimaya Coast
 3 Botanical Sanctum
@@ -370,12 +370,53 @@
 4 Simic Guildgate
 4 Guild Summit
 4 Gatecreeper Vine
-1 Jace, Vryn's Prodigy
+1 Gideon's Intervention
+1 Calix, Destiny's Hand
+1 Banishing Light
+1 Sigil of the Empty Throne
+1 Courser of Kruphix
+1 Mana Bloom
+1 Eidolon of Blossoms
+1 Temple of Plenty
+1 Starfield Mystic
+1 Setessan Champion
+1 Sphere of Safety
+1 Wolfwillow Haven
+1 Seal Away
+1 Herald of the Pantheon
+2 Gideon's Intervention
+2 Calix, Destiny's Hand
+2 Banishing Light
+2 Branchloft Pathway
+2 Courser of Kruphix
+2 Herald of the Pantheon
+2 Setessan Champion
+2 Eidolon of Blossoms
+2 Wolfwillow Haven
+2 Seal Away
+2 Sigil of the Empty Throne
+2 Temple of Plenty
+2 Sphere of Safety
+3 Setessan Champion
+3 Banishing Light
+3 Branchloft Pathway
+3 Courser of Kruphix
+3 Temple of Plenty
+3 Sphere of Safety
+3 Eidolon of Blossoms
+3 Wolfwillow Haven
+3 Herald of the Pantheon
+4 Wolfwillow Haven
+4 Banishing Light
+4 Herald of the Pantheon
+4 Eidolon of Blossoms
+4 Temple of Plenty
 1 God-Eternal Kefnet
+1 Day's Undoing
 1 Brazen Borrower
 1 Legion's End
 1 Heartless Act
-1 Day's Undoing
+1 Jace, Vryn's Prodigy
 1 Choked Estuary
 1 Kalitas, Traitor of Ghet
 2 Jace, Vryn's Prodigy
@@ -385,44 +426,3 @@
 4 Narset, Parter of Veils
 4 Dig Through Time
 5 Island
-1 Wolfwillow Haven
-1 Calix, Destiny's Hand
-1 Banishing Light
-1 Gideon's Intervention
-1 Sigil of the Empty Throne
-1 Courser of Kruphix
-1 Mana Bloom
-1 Eidolon of Blossoms
-1 Temple of Plenty
-1 Starfield Mystic
-1 Setessan Champion
-1 Sphere of Safety
-1 Seal Away
-1 Herald of the Pantheon
-2 Wolfwillow Haven
-2 Calix, Destiny's Hand
-2 Banishing Light
-2 Gideon's Intervention
-2 Branchloft Pathway
-2 Courser of Kruphix
-2 Herald of the Pantheon
-2 Setessan Champion
-2 Eidolon of Blossoms
-2 Seal Away
-2 Sigil of the Empty Throne
-2 Temple of Plenty
-2 Sphere of Safety
-3 Wolfwillow Haven
-3 Setessan Champion
-3 Banishing Light
-3 Branchloft Pathway
-3 Courser of Kruphix
-3 Temple of Plenty
-3 Sphere of Safety
-3 Eidolon of Blossoms
-3 Herald of the Pantheon
-4 Wolfwillow Haven
-4 Banishing Light
-4 Herald of the Pantheon
-4 Eidolon of Blossoms
-4 Temple of Plenty

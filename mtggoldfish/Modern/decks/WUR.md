@@ -26,8 +26,8 @@
 
 |*n*<sup>th</sup> copy|                                Maindeck Card                                 |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
 |--------------------:|------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|Glasspool Mimic                                                               |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)   |
-|                    1|Sejiri Shelter                                                                |                    1|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)|
+|                    1|Glasspool Mimic                                                               |                    1|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)|
+|                    1|Sejiri Shelter                                                                |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)   |
 |                    1|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)|                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)  |
 |                    2|Glasspool Mimic                                                               |                    2|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)  |
 |                    2|Sejiri Shelter                                                                |                    1|[Sunscour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121251)       |

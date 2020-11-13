@@ -1,36 +1,40 @@
-2 Dark Confidant
+2 Kaya's Guile
 4 Concealed Courtyard
+3 Swamp
+2 Plains
 1 Path to Exile
 2 Path to Exile
 1 Sword of Fire and Ice
-3 Swamp
 3 Path to Exile
-2 Plains
 2 Snow-Covered Swamp
+4 Skyclave Apparition
 3 Dark Confidant
-2 Snow-Covered Plains
 2 Collective Brutality
 3 Field of Ruin
+2 Snow-Covered Plains
 3 Snow-Covered Swamp
-4 Skyclave Apparition
 1 Bloodchief's Thirst
 4 Dark Confidant
 1 Urborg, Tomb of Yawgmoth
-4 Path to Exile
 1 Wasteland Strangler
-1 Caves of Koilos
+4 Path to Exile
+1 Kaya, Orzhov Usurper
+1 Windswept Heath
+1 Mutavault
+4 Lingering Souls
 1 Eldrazi Temple
 1 Thought-Knot Seer
 1 Flickerwisp
 1 Aether Vial
-2 Caves of Koilos
+1 Caves of Koilos
 2 Eldrazi Temple
 2 Thought-Knot Seer
 2 Flickerwisp
 2 Aether Vial
+2 Caves of Koilos
 3 Caves of Koilos
-3 Eldrazi Temple
 3 Thought-Knot Seer
+3 Eldrazi Temple
 3 Aether Vial
 4 Eldrazi Temple
 4 Aether Vial
@@ -40,24 +44,18 @@
 1 Leonin Arbiter
 1 Giver of Runes
 2 Leonin Arbiter
-2 Thalia, Guardian of Thraben
 2 Ghost Quarter
 2 Eldrazi Displacer
+2 Thalia, Guardian of Thraben
 2 Giver of Runes
 3 Giver of Runes
 3 Ghost Quarter
 3 Thalia, Guardian of Thraben
 3 Eldrazi Displacer
 3 Leonin Arbiter
+4 Thought-Knot Seer
 4 Leonin Arbiter
 4 Ghost Quarter
-1 Kaya, Orzhov Usurper
-1 Windswept Heath
-1 Mutavault
-4 Lingering Souls
-4 Caves of Koilos
-4 Thought-Knot Seer
-1 Tectonic Edge
 3 Snow-Covered Plains
 3 Flickerwisp
 4 Snow-Covered Plains
@@ -74,29 +72,31 @@
 4 Snow-Covered Swamp
 1 Wastes
 1 Thalia, Heretic Cathar
+1 Tectonic Edge
 4 Thalia, Guardian of Thraben
-1 Sword of Light and Shadow
 3 Godless Shrine
-1 Charming Prince
-2 Charming Prince
+1 Sword of Light and Shadow
+4 Caves of Koilos
 1 Nihil Spellbomb
 2 Bloodchief's Thirst
+1 Brightclimb Pathway
 1 Treacherous Blessing
 1 Wall of Omens
 1 Ephemerate
+1 Charming Prince
 1 Maul of the Skyclaves
 1 Mind Raker
-1 Brightclimb Pathway
 1 Cavern of Souls
 1 Sun Titan
 2 Wall of Omens
+2 Charming Prince
 2 Ephemerate
 2 Treacherous Blessing
 2 Mind Raker
 3 Treacherous Blessing
 3 Wall of Omens
-3 Ephemerate
 3 Charming Prince
+3 Ephemerate
 4 Charming Prince
 4 Treacherous Blessing
 4 Godless Shrine
@@ -114,9 +114,6 @@
 3 Mishra's Bauble
 4 Mishra's Bauble
 4 Swamp
-3 Plains
-4 Giver of Runes
-4 Eldrazi Displacer
 1 Ashiok, Dream Render
 2 Ashiok, Dream Render
 4 Thoughtseize

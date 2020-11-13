@@ -1,3 +1,13 @@
+2 Plains
+3 Plains
+4 Plains
+5 Plains
+6 Plains
+7 Plains
+8 Plains
+9 Plains
+10 Plains
+11 Plains
 1 Knight of the White Orchid
 1 Heliod, Sun-Crowned
 1 Castle Ardenvale
@@ -18,24 +28,24 @@
 4 Knight of the White Orchid
 1 Elspeth Conquers Death
 2 Elspeth Conquers Death
-1 Irrigated Farmland
 1 Charming Prince
-1 Teferi, Time Raveler
 1 Baffling End
+1 Teferi, Time Raveler
 1 Shark Typhoon
 1 Detention Sphere
 1 Temple of Enlightenment
 1 Arcanist's Owl
 1 Glacial Fortress
+1 Irrigated Farmland
 1 Hallowed Fountain
 1 Reflector Mage
-2 Irrigated Farmland
 2 Charming Prince
 2 Baffling End
 2 Teferi, Time Raveler
 2 Shark Typhoon
 2 Temple of Enlightenment
 2 Reflector Mage
+2 Irrigated Farmland
 2 Hallowed Fountain
 2 Arcanist's Owl
 2 Glacial Fortress
@@ -43,14 +53,14 @@
 3 Shark Typhoon
 3 Irrigated Farmland
 3 Baffling End
-3 Teferi, Time Raveler
 3 Glacial Fortress
+3 Teferi, Time Raveler
+3 Arcanist's Owl
 3 Temple of Enlightenment
 3 Hallowed Fountain
-3 Arcanist's Owl
 4 Arcanist's Owl
-4 Teferi, Time Raveler
 4 Charming Prince
+4 Teferi, Time Raveler
 4 Shark Typhoon
 4 Irrigated Farmland
 4 Baffling End
@@ -59,16 +69,6 @@
 4 Hallowed Fountain
 4 Nykthos, Shrine to Nyx
 2 Castle Ardenvale
-1 Venerated Loxodon
-2 Venerated Loxodon
-3 Venerated Loxodon
-4 Venerated Loxodon
-1 Boros Elite
-2 Boros Elite
-3 Boros Elite
-3 Brightclimb Pathway
-4 Brightclimb Pathway
-4 Boros Elite
 3 Stasis Snare
 12 Plains
 13 Plains
@@ -148,11 +148,11 @@
 4 Alseid of Life's Bounty
 4 Hopeful Eidolon
 1 Emeria's Call
-1 Shalai, Voice of Plenty
 1 Legion Angel
 1 Archangel Avacyn
 1 Sejiri Shelter
 1 Lyra Dawnbringer
+1 Shalai, Voice of Plenty
 1 Resplendent Angel
 1 Bishop of Wings
 1 Angel of Vitality

@@ -24,14 +24,14 @@
 1 Aven Mindcensor
 1 Scavenger Grounds
 2 Aven Mindcensor
-1 Razorverge Thicket
 1 Temple Garden
 1 Branchloft Pathway
-1 Forest
 1 Noble Hierarch
+1 Forest
+1 Razorverge Thicket
 2 Razorverge Thicket
-2 Temple Garden
 2 Branchloft Pathway
+2 Temple Garden
 2 Noble Hierarch
 3 Razorverge Thicket
 3 Branchloft Pathway
@@ -44,11 +44,11 @@
 1 Spellskite
 2 Spellskite
 1 Deputy of Detention
-1 Glacial Fortress
 1 Snow-Covered Island
 1 Geist of Saint Traft
 1 Unsettled Mariner
 1 Hallowed Fountain
+1 Glacial Fortress
 1 Seachrome Coast
 1 Spell Queller
 1 Steel of the Godhead
@@ -64,19 +64,19 @@
 3 Spell Queller
 3 Geist of Saint Traft
 4 Spell Queller
-1 Ephemerate
-1 Charming Prince
-1 Akroma, Angel of Fury
-2 Restoration Angel
-2 Ephemerate
-2 Akroma, Angel of Fury
-2 Charming Prince
-3 Charming Prince
-3 Ephemerate
-3 Akroma, Angel of Fury
-4 Ephemerate
-10 Snow-Covered Plains
-11 Snow-Covered Plains
 1 Scavenging Ooze
 1 Eternal Witness
 4 Branchloft Pathway
+1 Charming Prince
+1 Akroma, Angel of Fury
+1 Ephemerate
+2 Akroma, Angel of Fury
+2 Ephemerate
+2 Charming Prince
+2 Restoration Angel
+3 Ephemerate
+3 Charming Prince
+4 Ephemerate
+10 Snow-Covered Plains
+11 Snow-Covered Plains
+3 Akroma, Angel of Fury

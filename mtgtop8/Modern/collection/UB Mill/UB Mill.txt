@@ -2,11 +2,9 @@
 1 Cling to Dust
 1 Crypt Incursion
 2 Darkslick Shores
-3 Drown in the Loch
 4 Fatal Push
 3 Field of Ruin
 1 Flooded Strand
-2 Fraying Sanity
 4 Glimpse the Unthinkable
 4 Hedron Crab
 2 Island
@@ -17,6 +15,8 @@
 2 Prismatic Vista
 4 Ruin Crab
 1 Shelldock Isle
+3 Snow-Covered Island
+2 Snow-Covered Swamp
 3 Surgical Extraction
 1 Swamp
 4 Visions of Beyond
@@ -26,8 +26,8 @@ Sideboard
 1 Echoing Truth
 2 Ensnaring Bridge
 1 Fatal Push
-3 Leyline of the Void
+1 Leyline of the Void
 2 Mystical Dispute
 2 Profane Memento
-2 Ravenous Trap
-1 Stern Dismissal
+3 Ravenous Trap
+2 Stern Dismissal

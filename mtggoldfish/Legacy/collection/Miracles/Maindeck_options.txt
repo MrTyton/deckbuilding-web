@@ -5,15 +5,15 @@
 4 Misty Rainforest
 1 Mishra's Bauble
 2 Mishra's Bauble
-3 Mishra's Bauble
 3 Predict
+3 Mishra's Bauble
 4 Mishra's Bauble
 1 Daze
 2 Daze
 3 Daze
-1 Snow-Covered Forest
-1 Tropical Island
 1 Oko, Thief of Crowns
+1 Tropical Island
+1 Snow-Covered Forest
 2 Oko, Thief of Crowns
 3 Monastery Mentor
 4 Monastery Mentor
@@ -26,8 +26,8 @@
 1 Lightning Bolt
 2 Back to Basics
 1 Polluted Delta
-1 Island
 1 Plains
+1 Island
 2 Island
 3 Island
 4 Island
@@ -64,8 +64,8 @@
 2 Council's Judgment
 3 Counterbalance
 3 Narset, Parter of Veils
-1 Rest in Peace
 1 Helm of Obedience
+1 Rest in Peace
 2 Rest in Peace
 3 Rest in Peace
 1 Orim's Chant
@@ -73,17 +73,17 @@
 3 Preordain
 1 Snow-Covered Swamp
 1 Teferi, Master of Time
-1 Unexpectedly Absent
-1 Flusterstorm
-1 Deprive
 1 Uro, Titan of Nature's Wrath
+1 Unexpectedly Absent
+1 Deprive
+1 Flusterstorm
+2 Tropical Island
 2 Lightning Bolt
-1 Swamp
 1 Cling to Dust
 1 Kaya, Orzhov Usurper
+1 Swamp
 2 Cling to Dust
 2 Entreat the Angels
-2 Tropical Island
 1 Teferi, Hero of Dominaria
 2 Teferi, Hero of Dominaria
 3 Portent
@@ -91,11 +91,11 @@
 2 Helm of Obedience
 3 Tundra
 4 Snapcaster Mage
-1 Ancient Tomb
 1 Omniscience
 1 Show and Tell
 1 Cunning Wish
 1 Emrakul, the Aeons Torn
+1 Ancient Tomb
 2 Spell Pierce
 2 Show and Tell
 2 Omniscience
@@ -119,15 +119,15 @@
 1 Spellseeker
 1 Marsh Flats
 1 Personal Tutor
-1 Eliminate
 1 Gurmag Angler
+1 Eliminate
 1 Baleful Strix
 1 Plague Engineer
 2 Spellseeker
 2 Gurmag Angler
-2 Eliminate
-2 Marsh Flats
 2 Plague Engineer
+2 Marsh Flats
+2 Eliminate
 2 Baleful Strix
 3 Marsh Flats
 3 Baleful Strix
@@ -141,31 +141,31 @@
 1 Doomsday
 1 Edge of Autumn
 1 Thoughtseize
-1 Lotus Petal
 1 Scrubland
 1 Cavern of Souls
 1 Dark Ritual
-2 Underground Sea
-2 Thoughtseize
+1 Lotus Petal
 2 Doomsday
-2 Lotus Petal
+2 Thoughtseize
 2 Dark Ritual
+2 Underground Sea
+2 Lotus Petal
+3 Lotus Petal
 3 Underground Sea
 3 Doomsday
 3 Dark Ritual
-3 Lotus Petal
 4 Doomsday
 4 Dark Ritual
 4 Preordain
 1 True-Name Nemesis
-1 Trade Routes
-1 Enlightened Tutor
-1 Path to Exile
 1 Energy Field
+1 Enlightened Tutor
+1 Detention Sphere
+1 Trade Routes
+1 Path to Exile
 1 Solitary Confinement
 1 Scroll Rack
 1 Land Tax
-1 Detention Sphere
 1 Web of Inertia
 2 Enlightened Tutor
 2 Scroll Rack

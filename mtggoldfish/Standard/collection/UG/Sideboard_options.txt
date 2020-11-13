@@ -1,17 +1,15 @@
-1 Forever Young
 2 Forever Young
 1 Destiny Spinner
 2 Destiny Spinner
 3 Return to Nature
 1 Reave Soul
 3 Forever Young
-1 Pouncing Shoreshark
-2 Pouncing Shoreshark
+1 Soul-Guide Lantern
+2 Scavenging Ooze
 1 Mystical Dispute
 2 Mystical Dispute
 3 Mystical Dispute
-2 Scavenging Ooze
-2 Soul-Guide Lantern
+1 Pouncing Shoreshark
 3 Chainweb Aracnir
 1 Run Afoul
 2 Run Afoul
@@ -23,22 +21,26 @@
 2 Fire Prophecy
 2 Ox of Agonas
 3 Fire Prophecy
+2 Pouncing Shoreshark
 1 Heroic Intervention
 1 Scorching Dragonfire
 2 Scorching Dragonfire
+2 Soul-Guide Lantern
 3 Scorching Dragonfire
-1 Oakhame Adversary
-2 Oakhame Adversary
-1 Essence Symbiote
 2 Heroic Intervention
-1 Lead the Stampede
-2 Lead the Stampede
+3 Scavenging Ooze
 1 Questing Beast
 2 Questing Beast
+1 Oakhame Adversary
+2 Oakhame Adversary
 1 Into the Roil
+1 Essence Symbiote
 1 Primal Might
 3 Soul-Guide Lantern
+1 Vivien, Monsters' Advocate
 1 Gemrazer
+1 Cragplate Baloth
+2 Into the Roil
 1 Tormod's Crypt
 2 Tormod's Crypt
 1 Thundering Rebuke
@@ -51,13 +53,10 @@
 2 Fervent Champion
 2 Fling
 2 Akoum Hellhound
-1 Cragplate Baloth
-2 Into the Roil
-3 Scavenging Ooze
+4 Mystical Dispute
 1 Bubble Snare
 2 Bubble Snare
 3 Bubble Snare
-4 Mystical Dispute
 1 Kazandu Nectarpot
 2 Kazandu Nectarpot
 1 Roil Eruption
@@ -69,9 +68,10 @@
 3 Kazandu Nectarpot
 1 Broken Wings
 2 Broken Wings
-1 Vivien, Monsters' Advocate
 2 Essence Symbiote
 2 Phoenix of Ash
+1 Lead the Stampede
+2 Lead the Stampede
 1 Grasp of Darkness
 2 Grasp of Darkness
 1 Suffocating Fumes
@@ -81,6 +81,10 @@
 2 Cancel
 2 Capture Sphere
 2 Stern Dismissal
+1 Elder Gargaroth
+1 Shadowspear
+2 Elder Gargaroth
+2 Vivien, Monsters' Advocate
 2 Wilt
 1 Sudden Spinnerets
 1 Hunter's Edge
@@ -122,8 +126,8 @@
 1 Light of Hope
 1 Nahiri's Binding
 1 Pacifism
-2 Pacifism
 2 Ram Through
+2 Pacifism
 2 Light of Hope
 2 Nahiri's Binding
 3 Pacifism
@@ -142,5 +146,5 @@
 4 Lovestruck Beast
 3 Heroic Intervention
 4 Chainweb Aracnir
-4 Heroic Intervention
 4 Soul-Guide Lantern
+4 Heroic Intervention

@@ -1,20 +1,20 @@
-1 Assassin's Trophy
-3 Watery Grave
-4 Overgrown Tomb
-1 Hydroid Krasis
-1 Nissa, Who Shakes the World
-2 Hydroid Krasis
-2 Nissa, Who Shakes the World
 1 Vraska, Golgari Queen
+1 Assassin's Trophy
+1 Abrupt Decay
 1 Growth Spiral
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
-3 Hydroid Krasis
+1 Nissa, Who Shakes the World
+1 Hydroid Krasis
+2 Nissa, Who Shakes the World
+2 Hydroid Krasis
+3 Watery Grave
+4 Overgrown Tomb
 1 Eat to Extinction
 1 Lumbering Falls
 3 Nissa, Who Shakes the World
-2 Heartless Act
+3 Hydroid Krasis
 2 Lumbering Falls
 3 Lumbering Falls
 4 Watery Grave
@@ -24,15 +24,14 @@
 1 Elder Gargaroth
 1 Ugin, the Spirit Dragon
 3 Breeding Pool
-3 Zagoth Triome
-2 Abrupt Decay
 1 Clever Impersonator
 1 Tamiyo, Collector of Tales
 1 Cling to Dust
 4 Breeding Pool
+3 Zagoth Triome
 4 Zagoth Triome
+2 Abrupt Decay
 1 Drowned Catacomb
-1 Scavenging Ooze
 1 Mazemind Tome
 2 Cling to Dust
 1 Reclamation Sage
@@ -42,26 +41,20 @@
 1 Languish
 1 Emrakul, the Promised End
 2 Woodland Cemetery
-1 Grisly Salvage
-2 Hinterland Harbor
 2 Drowned Catacomb
-1 Liliana, the Last Hope
-1 Liliana, Waker of the Dead
-2 Liliana, Waker of the Dead
+1 Scavenging Ooze
 1 Commit/Memory
 1 Brain Maggot
 1 Sea Gate Stormcaller
 1 Deathrite Shaman
+1 Grisly Salvage
 1 Courser of Kruphix
 1 Dig Through Time
 1 Ipnu Rivulet
 1 Stitcher's Supplier
+2 Hinterland Harbor
 2 Deathrite Shaman
 2 Stitcher's Supplier
-1 Questing Beast
-2 Questing Beast
-2 Grisly Salvage
-3 Hinterland Harbor
 1 Opulent Palace
 1 Day's Undoing
 1 Silumgar's Command
@@ -72,16 +65,19 @@
 1 Hero's Downfall
 1 Kalitas, Traitor of Ghet
 1 Liliana's Triumph
-2 Kalitas, Traitor of Ghet
+1 Liliana, the Last Hope
+1 Liliana, Waker of the Dead
 2 Elder Gargaroth
 2 Swamp
+2 Kalitas, Traitor of Ghet
+2 Liliana, Waker of the Dead
 2 Scavenging Ooze
 3 Elder Gargaroth
 3 Swamp
 4 Fabled Passage
 4 Elder Gargaroth
-1 Fetid Pools
 1 Jolrael, Mwonvuli Recluse
+1 Fetid Pools
 1 Censor
 1 Opt
 1 Ashiok, Nightmare Muse
@@ -91,6 +87,6 @@
 2 Opt
 3 Jolrael, Mwonvuli Recluse
 3 Opt
+4 Jolrael, Mwonvuli Recluse
 4 Jace, Vryn's Prodigy
 4 Opt
-4 Jolrael, Mwonvuli Recluse
