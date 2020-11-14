@@ -14,8 +14,8 @@
 3 Hallowed Fountain
 3 Spell Queller
 4 Seachrome Coast
-4 Hallowed Fountain
 4 Spell Queller
+4 Hallowed Fountain
 1 Selfless Savior
 1 Glasspool Mimic
 1 Confounding Conundrum
@@ -54,39 +54,39 @@
 1 Eldrazi Temple
 1 Thought-Knot Seer
 1 Eldrazi Displacer
-2 Thought-Knot Seer
-2 Eldrazi Displacer
 2 Eldrazi Temple
-3 Thought-Knot Seer
-3 Eldrazi Displacer
+2 Eldrazi Displacer
+2 Thought-Knot Seer
 3 Eldrazi Temple
-4 Thought-Knot Seer
-4 Eldrazi Displacer
+3 Eldrazi Displacer
+3 Thought-Knot Seer
 4 Eldrazi Temple
+4 Eldrazi Displacer
+4 Thought-Knot Seer
 1 Deputy of Detention
 1 Lurrus of the Dream-Den
 2 Deputy of Detention
 2 Lurrus of the Dream-Den
+1 Caves of Koilos
 1 Brightclimb Pathway
 1 Tidehollow Sculler
 1 Tectonic Edge
 1 Wasteland Strangler
 1 Charming Prince
 1 Swamp
-1 Caves of Koilos
 1 Concealed Courtyard
+2 Caves of Koilos
 2 Brightclimb Pathway
 2 Tidehollow Sculler
 2 Wasteland Strangler
 2 Concealed Courtyard
-2 Caves of Koilos
 2 Charming Prince
+3 Charming Prince
 3 Caves of Koilos
 3 Tidehollow Sculler
 3 Concealed Courtyard
 3 Brightclimb Pathway
 3 Wasteland Strangler
-3 Charming Prince
 4 Charming Prince
 4 Caves of Koilos
 4 Concealed Courtyard
@@ -97,51 +97,51 @@
 1 Linvala, Keeper of Silence
 1 Skyclave Cleric
 2 Skyclave Cleric
-1 Mausoleum Wanderer
 1 Spirit of the Labyrinth
 1 Tale's End
 1 Unsettled Mariner
+1 Mausoleum Wanderer
 1 Waterlogged Grove
-2 Mausoleum Wanderer
 2 Spirit of the Labyrinth
 2 Tale's End
 2 Unsettled Mariner
 2 Island
+2 Mausoleum Wanderer
 3 Island
 3 Unsettled Mariner
-1 Reality Smasher
-1 Wastes
-1 Battlefield Forge
-1 Simian Spirit Guide
-1 Bonecrusher Giant
-1 Containment Priest
-1 Gemstone Caverns
-1 Chalice of the Void
-1 Inspiring Vantage
-2 Reality Smasher
-2 Battlefield Forge
-2 Simian Spirit Guide
-2 Bonecrusher Giant
-2 Containment Priest
-2 Gemstone Caverns
-2 Chalice of the Void
-3 Reality Smasher
-3 Battlefield Forge
-3 Containment Priest
-3 Gemstone Caverns
-3 Sunbaked Canyon
-3 Simian Spirit Guide
-3 Chalice of the Void
-4 Reality Smasher
-4 Battlefield Forge
-4 Containment Priest
-4 Sunbaked Canyon
-4 Simian Spirit Guide
-4 Chalice of the Void
 2 Batterskull
 3 Archon of Emeria
 3 Batterskull
 4 Batterskull
+1 Reality Smasher
+1 Wastes
+1 Battlefield Forge
+1 Bonecrusher Giant
+1 Inspiring Vantage
+1 Containment Priest
+1 Gemstone Caverns
+1 Chalice of the Void
+1 Simian Spirit Guide
+2 Reality Smasher
+2 Battlefield Forge
+2 Bonecrusher Giant
+2 Containment Priest
+2 Gemstone Caverns
+2 Chalice of the Void
+2 Simian Spirit Guide
+3 Reality Smasher
+3 Battlefield Forge
+3 Containment Priest
+3 Sunbaked Canyon
+3 Gemstone Caverns
+3 Chalice of the Void
+3 Simian Spirit Guide
+4 Reality Smasher
+4 Battlefield Forge
+4 Containment Priest
+4 Sunbaked Canyon
+4 Chalice of the Void
+4 Simian Spirit Guide
 1 Branchloft Pathway
 1 Aven Mindcensor
 1 Noble Hierarch
@@ -160,8 +160,8 @@
 4 Razorverge Thicket
 4 Temple Garden
 4 Noble Hierarch
-1 Mutavault
 1 Phyrexian Revoker
+1 Mutavault
 2 Mutavault
 2 Phyrexian Revoker
 3 Mutavault

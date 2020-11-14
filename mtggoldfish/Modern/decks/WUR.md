@@ -24,16 +24,18 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                Maindeck Card                                 |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
-|--------------------:|------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|Sejiri Shelter                                                                |                    1|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)|
-|                    1|Glasspool Mimic                                                               |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)   |
-|                    1|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)|                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)  |
-|                    2|Sejiri Shelter                                                                |                    2|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)  |
-|                    2|Glasspool Mimic                                                               |                    1|[Sunscour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121251)       |
-|                    2|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)|                    2|[Sunscour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121251)       |
-|                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)|                    3|[Sunscour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121251)       |
-|                    4|Skyclave Cleric                                                               |                    4|[Sunscour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121251)       |
-|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)|                     |                                                                                          |
-|                    4|Beyeen Veil                                                                   |                     |                                                                                          |
+|*n*<sup>th</sup> copy|                                Maindeck Card                                 |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    4|Skyclave Cleric                                                               |                    1|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)    |
+|                    1|Sejiri Shelter                                                                |                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |
+|                    1|Glasspool Mimic                                                               |                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)      |
+|                    1|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)|                    2|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)      |
+|                    2|Sejiri Shelter                                                                |                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                    2|Glasspool Mimic                                                               |                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                    2|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)|                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)|                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
+|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)|                    1|[Sunscour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121251)           |
+|                    4|Beyeen Veil                                                                   |                    2|[Sunscour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121251)           |
+|                     |                                                                              |                    3|[Sunscour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121251)           |
+|                     |                                                                              |                    4|[Sunscour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121251)           |
 

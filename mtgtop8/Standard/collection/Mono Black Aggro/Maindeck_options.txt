@@ -39,18 +39,18 @@
 2 Call of the Death-Dweller
 3 Call of the Death-Dweller
 2 Hagra Mauling
-1 Hateful Eidolon
 1 Mire's Grasp
 1 Dead Weight
+1 Hateful Eidolon
+2 Dead Weight
 2 Mire's Grasp
 2 Hateful Eidolon
-2 Dead Weight
+3 Mire's Grasp
 3 Hateful Eidolon
 3 Dead Weight
-3 Mire's Grasp
-4 Hateful Eidolon
-4 Mire's Grasp
 4 Dead Weight
+4 Mire's Grasp
+4 Hateful Eidolon
 2 Demonic Embrace
 19 Swamp
 20 Swamp
@@ -92,6 +92,18 @@
 2 Elspeth's Nightmare
 3 Liliana, Waker of the Dead
 3 Heraldic Banner
+3 Hagra Mauling
+4 Lurrus of the Dream-Den
+1 Bastion of Remembrance
+1 Taborax, Hope's Demise
+1 Discordant Piper
+1 Witch's Cauldron
+2 Bastion of Remembrance
+2 Discordant Piper
+2 Witch's Cauldron
+3 Bastion of Remembrance
+3 Witch's Cauldron
+4 Bastion of Remembrance
 1 Pelakka Predation
 1 Order of Midnight
 1 Pestilent Haze
@@ -101,21 +113,9 @@
 2 Soul-Guide Lantern
 2 Order of Midnight
 3 Order of Midnight
-3 Mogis's Favor
 3 Pelakka Predation
+3 Mogis's Favor
 4 Order of Midnight
-3 Hagra Mauling
-4 Lurrus of the Dream-Den
-1 Discordant Piper
-1 Bastion of Remembrance
-1 Taborax, Hope's Demise
-1 Witch's Cauldron
-2 Discordant Piper
-2 Bastion of Remembrance
-2 Witch's Cauldron
-3 Bastion of Remembrance
-3 Witch's Cauldron
-4 Bastion of Remembrance
 1 Duress
 2 Duress
 3 Murderous Rider
@@ -123,8 +123,8 @@
 4 Heartless Act
 4 Murderous Rider
 4 Hunted Nightmare
-1 Aphemia, the Cacophony
 1 Tymaret Calls the Dead
+1 Aphemia, the Cacophony
 2 Aphemia, the Cacophony
 2 Tymaret Calls the Dead
 3 Aphemia, the Cacophony
@@ -142,13 +142,13 @@
 2 Noxious Grasp
 2 Spawn of Mayhem
 2 Gutterbones
-3 Demonic Embrace
 3 Rotting Regisaur
 3 Knight of the Ebon Legion
 3 Tymaret, Chosen from Death
 3 Noxious Grasp
 3 Field of Ruin
 3 Spawn of Mayhem
+3 Demonic Embrace
 3 Gutterbones
 4 Rotting Regisaur
 4 Knight of the Ebon Legion

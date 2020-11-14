@@ -3,10 +3,10 @@
 3 Torbran, Thane of Red Fell
 4 Fireblade Charger
 1 Spikefield Hazard
+4 Shatterskull Smashing
+2 Spikefield Hazard
 3 Shock
 18 Mountain
-2 Spikefield Hazard
-4 Shatterskull Smashing
 3 Phoenix of Ash
 4 Phoenix of Ash
 2 Scorching Dragonfire
@@ -19,15 +19,15 @@
 1 Roil Eruption
 2 Roil Eruption
 4 Shock
-19 Mountain
 1 Heraldic Banner
 2 Heraldic Banner
-3 Spikefield Hazard
-4 Torbran, Thane of Red Fell
-1 Ox of Agonas
-1 Bolt Hound
 3 Kargan Intimidator
 4 Kargan Intimidator
+19 Mountain
+1 Ox of Agonas
+3 Spikefield Hazard
+4 Torbran, Thane of Red Fell
+1 Bolt Hound
 4 Spikefield Hazard
 1 Crawling Barrens
 1 Goblin Arsonist
@@ -37,44 +37,21 @@
 3 Bolt Hound
 1 Slaying Fire
 2 Slaying Fire
-1 Infuriate
-1 Valakut Awakening
-1 Storm's Wrath
-1 Mythos of Vadrok
-2 Ox of Agonas
 1 Embereth Shieldbreaker
 1 Redcap Melee
 2 Embereth Shieldbreaker
 1 Claim the Firstborn
 2 Claim the Firstborn
+1 Storm's Wrath
+1 Mythos of Vadrok
+1 Valakut Awakening
+2 Ox of Agonas
 1 Wayward Guide-Beast
 2 Wayward Guide-Beast
 2 The Akroan War
 4 Scorching Dragonfire
 3 Weaselback Redcap
 4 Weaselback Redcap
-3 Roil Eruption
-3 Slaying Fire
-4 Roil Eruption
-4 Slaying Fire
-1 Fire Prophecy
-1 Relic Robber
-1 Sneaking Guide
-1 Goma Fada Vanguard
-1 Shatterskull Charger
-2 Infuriate
-2 Fire Prophecy
-2 Relic Robber
-2 Goma Fada Vanguard
-2 Shatterskull Charger
-2 Sneaking Guide
-3 Fire Prophecy
-3 Relic Robber
-3 Goma Fada Vanguard
-3 Shatterskull Charger
-4 Fire Prophecy
-4 Relic Robber
-4 Goma Fada Vanguard
 1 Underworld Rage-Hound
 2 Underworld Rage-Hound
 4 Goblin Arsonist
@@ -82,5 +59,10 @@
 2 Heartfire Immolator
 3 Heartfire Immolator
 4 Heartfire Immolator
+3 Slaying Fire
+3 Roil Eruption
+4 Slaying Fire
+4 Roil Eruption
+1 Infuriate
 4 Bolt Hound
 20 Mountain

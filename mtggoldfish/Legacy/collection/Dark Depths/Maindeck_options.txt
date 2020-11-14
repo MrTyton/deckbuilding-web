@@ -35,6 +35,7 @@
 1 Flooded Strand
 1 Tundra
 1 Snow-Covered Plains
+1 Ethersworn Canonist
 1 Tolaria West
 1 Teferi, Time Raveler
 1 Baleful Strix
@@ -51,29 +52,30 @@
 1 Scalding Tarn
 1 Emrakul, the Aeons Torn
 1 Mystic Sanctuary
-1 Portent
 1 Iona, Shield of Emeria
+1 Portent
 1 Elesh Norn, Grand Cenobite
 1 Glacial Fortress
 1 Unburial Rites
+1 Gifts Ungiven
 1 Moat
-1 Torpor Orb
 1 Rest in Peace
 1 Swords to Plowshares
-1 Flusterstorm
 1 Jin-Gitaxias, Core Augur
+1 Flusterstorm
+1 Torpor Orb
 1 Inkwell Leviathan
 1 Jace, the Mind Sculptor
 1 Enlightened Tutor
 1 Spell Pierce
 1 Supreme Verdict
 1 Ensnaring Bridge
+1 Terminus
 1 Leyline of Sanctity
 1 Cunning Wish
 1 Brainstorm
 1 Serum Visions
 1 Personal Tutor
-1 Gifts Ungiven
 1 Arcum's Astrolabe
 1 The Tabernacle at Pendrell Vale
 1 Cabal Therapy
@@ -81,10 +83,8 @@
 1 Pact of Negation
 1 Ponder
 1 Omniscience
-1 Terminus
 1 Snow-Covered Island
 1 Ad Nauseam
-1 Ethersworn Canonist
 1 Preordain
 1 Show and Tell
 1 Academy Rector
@@ -113,6 +113,7 @@
 2 Scalding Tarn
 2 Ancient Tomb
 2 Portent
+2 Gifts Ungiven
 2 Arid Mesa
 2 Glacial Fortress
 2 Snow-Covered Plains
@@ -133,7 +134,6 @@
 2 Cunning Wish
 2 Murderous Cut
 2 Misdirection
-2 Gifts Ungiven
 2 Battle of Wits
 2 Impulse
 2 Phyrexian Unlife
@@ -169,6 +169,7 @@
 3 Baleful Strix
 3 Mystic Sanctuary
 3 Scalding Tarn
+3 Gifts Ungiven
 3 Intuition
 3 Celestial Colonnade
 3 Counterspell
@@ -198,17 +199,16 @@
 3 Misty Rainforest
 3 Cunning Wish
 3 Murderous Cut
-3 Gifts Ungiven
 3 Battle of Wits
 4 Arcum's Astrolabe
 4 Polluted Delta
-4 Terminus
 4 Underground Sea
 4 Flooded Strand
 4 Cunning Wish
 4 Impulse
 4 Teferi, Time Raveler
 4 Baleful Strix
+4 Serum Visions
 4 Celestial Colonnade
 4 Marsh Flats
 4 Tolaria West
@@ -222,7 +222,6 @@
 4 Jace, the Mind Sculptor
 4 Snow-Covered Island
 4 Academy Rector
-4 Serum Visions
 4 Ancient Tomb
 4 Enlightened Tutor
 4 Snapcaster Mage
@@ -232,6 +231,7 @@
 4 Creeping Tar Pit
 4 Show and Tell
 4 Counterspell
+4 Terminus
 4 Personal Tutor
 4 Cabal Therapy
 5 Snow-Covered Island
@@ -244,8 +244,8 @@
 2 Gemstone Mine
 3 Mana Confluence
 3 Gemstone Mine
-4 Gemstone Mine
 4 Mana Confluence
+4 Gemstone Mine
 1 Sylvan Safekeeper
 2 Sylvan Safekeeper
 1 Sylvan Library
@@ -294,8 +294,8 @@
 2 Chalice of the Void
 2 Gurmag Angler
 2 Chrome Mox
-2 Eliminate
 2 Trinisphere
+2 Eliminate
 2 Karn, the Great Creator
 2 Hymn to Tourach
 2 Desolation

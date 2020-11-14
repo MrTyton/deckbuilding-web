@@ -47,7 +47,7 @@
 |                    2|[Phantasmal Image](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220099)         |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
 |                    3|[Phantasmal Image](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220099)         |                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
 |                    4|[Phantasmal Image](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220099)         |                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
-|                    4|[Reflecting Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382342)          |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                    3|[Reflecting Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382342)          |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
+|                    4|[Reflecting Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382342)          |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
+|                    3|[Reflecting Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382342)          |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                     |                                                                                                    |                    2|[Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)    |
 

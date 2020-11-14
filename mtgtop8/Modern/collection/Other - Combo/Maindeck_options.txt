@@ -2,11 +2,11 @@
 1 Bala Ged Recovery
 1 Spikefield Hazard
 1 Valakut Awakening
+1 Pyretic Ritual
 1 Recross the Paths
 1 Manamorphose
 1 Reforge the Soul
 1 Desperate Ritual
-1 Pyretic Ritual
 1 Irencrag Feat
 2 Spikefield Hazard
 2 Bala Ged Recovery
@@ -25,10 +25,10 @@
 3 Shatterskull Smashing
 3 Bala Ged Recovery
 3 Pyretic Ritual
+4 Spikefield Hazard
 4 Valakut Awakening
 4 Shatterskull Smashing
 4 Manamorphose
-4 Spikefield Hazard
 4 Recross the Paths
 4 Irencrag Feat
 4 Pyretic Ritual
@@ -62,12 +62,12 @@
 1 Fatal Push
 1 Inverter of Truth
 2 Watery Grave
+2 River of Tears
 2 Remand
 2 Polluted Delta
 2 Inquisition of Kozilek
 2 Fatal Push
 2 Jace, Wielder of Mysteries
-2 River of Tears
 2 Inverter of Truth
 3 Fatal Push
 3 Remand
@@ -134,7 +134,6 @@
 1 Silundi Vision
 1 Teferi, Hero of Dominaria
 1 Skyclave Cleric
-1 Disrupting Shoal
 1 Talisman of Progress
 1 Jwari Disruption
 1 Teferi, Time Raveler
@@ -142,20 +141,20 @@
 1 Pieces of the Puzzle
 1 Jace, the Mind Sculptor
 1 Path to Exile
+1 Disrupting Shoal
 1 Selective Memory
 1 Snapback
 2 Skyclave Cleric
 2 Talisman of Progress
 2 Silundi Vision
-2 Disrupting Shoal
 2 Selective Memory
 2 Path to Exile
+2 Disrupting Shoal
 2 Teferi, Time Raveler
 2 Snapback
 2 Jwari Disruption
 2 Beyeen Veil
 2 Pieces of the Puzzle
-3 Disrupting Shoal
 3 Jwari Disruption
 3 Teferi, Time Raveler
 3 Snapback
@@ -163,14 +162,14 @@
 3 Selective Memory
 3 Talisman of Progress
 3 Silundi Vision
-4 Disrupting Shoal
+3 Disrupting Shoal
 4 Jwari Disruption
 4 Talisman of Progress
 4 Teferi, Time Raveler
 4 Selective Memory
+4 Disrupting Shoal
 4 Silundi Vision
 1 Karn, the Great Creator
-1 Mountain
 1 Forest
 1 Aether Hub
 1 Through the Breach
@@ -182,6 +181,7 @@
 1 Uro, Titan of Nature's Wrath
 1 Steam Vents
 1 Waterlogged Grove
+1 Mountain
 1 Wooded Foothills
 1 Woodweaver's Puzzleknot
 1 Misty Rainforest
@@ -193,8 +193,8 @@
 2 Karn, the Great Creator
 2 Forest
 2 Aether Hub
-2 Through the Breach
 2 Emrakul, the Aeons Torn
+2 Through the Breach
 2 Wooded Foothills
 2 Misty Rainforest
 2 Whirler Virtuoso
@@ -207,8 +207,8 @@
 2 Uro, Titan of Nature's Wrath
 2 Wrenn and Six
 3 Karn, the Great Creator
-3 Through the Breach
 3 Emrakul, the Aeons Torn
+3 Through the Breach
 3 Lightning Bolt
 3 Wooded Foothills
 3 Whirler Virtuoso
@@ -256,8 +256,8 @@
 3 Inquisition of Kozilek
 4 Omen of the Sea
 4 Darkslick Shores
+1 Lonely Sandbar
 1 Past in Flames
-1 Grapeshot
 1 Reach Through Mists
 1 Psychic Puppetry
 1 Twiddle
@@ -268,9 +268,9 @@
 1 Vizier of Tumbling Sands
 1 Lotus Field
 1 Empty the Warrens
+1 Grapeshot
 1 Echoing Truth
 1 Serum Visions
-1 Lonely Sandbar
 1 Sleight of Hand
 2 Twiddle
 2 Past in Flames
@@ -294,8 +294,8 @@
 3 Peer Through Depths
 3 Psychic Puppetry
 3 Past in Flames
-3 Shivan Reef
 3 Lonely Sandbar
+3 Shivan Reef
 3 Sleight of Hand
 3 Serum Visions
 4 Peer Through Depths
@@ -306,8 +306,8 @@
 4 Lotus Field
 4 Serum Visions
 4 Lonely Sandbar
-4 Sleight of Hand
 4 Shivan Reef
+4 Sleight of Hand
 4 Island
 5 Island
 7 Island

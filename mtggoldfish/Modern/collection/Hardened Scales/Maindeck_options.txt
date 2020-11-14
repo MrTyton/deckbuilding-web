@@ -3,8 +3,8 @@
 3 Ancient Stirrings
 4 Ancient Stirrings
 2 Blinkmoth Nexus
-4 Llanowar Reborn
 3 Scrapyard Recombiner
+4 Llanowar Reborn
 3 Darksteel Citadel
 4 Darksteel Citadel
 3 Welding Jar
@@ -13,18 +13,7 @@
 9 Forest
 1 Cavern of Souls
 1 Spellskite
-1 Snow-Covered Forest
-4 Scrapyard Recombiner
-10 Forest
-2 Snow-Covered Forest
-1 Inscription of Abundance
-2 Inscription of Abundance
-2 Cavern of Souls
-3 Blinkmoth Nexus
-4 Blinkmoth Nexus
-4 Animation Module
 1 Llanowar Wastes
-1 Swamp
 1 Blooming Marsh
 2 Blooming Marsh
 2 Llanowar Wastes
@@ -32,15 +21,26 @@
 3 Blooming Marsh
 4 Llanowar Wastes
 4 Blooming Marsh
+4 Scrapyard Recombiner
+10 Forest
+1 Snow-Covered Forest
+1 Inscription of Abundance
+2 Inscription of Abundance
+2 Cavern of Souls
+3 Blinkmoth Nexus
+4 Blinkmoth Nexus
+4 Animation Module
+1 Swamp
 1 Waterlogged Grove
-3 Snow-Covered Forest
+2 Snow-Covered Forest
 1 Brushland
 2 Brushland
 3 Brushland
 1 Crystalline Giant
+3 Snow-Covered Forest
 1 Cragcrown Pathway
-1 Grove of the Burnwillows
 1 Kazuul's Fury
+1 Grove of the Burnwillows
 1 Lightning Bolt
 1 Kessig Wolf Run
 2 Cragcrown Pathway
@@ -51,6 +51,7 @@
 3 Grove of the Burnwillows
 4 Cragcrown Pathway
 4 Grove of the Burnwillows
+1 Overgrown Tomb
 2 Spellskite
 1 Razorverge Thicket
 1 Temple Garden
@@ -61,9 +62,10 @@
 4 Brushland
 1 Surgical Extraction
 1 Twilight Mire
-1 Overgrown Tomb
 1 Agadeem's Awakening
 1 Blast Zone
+1 Urborg, Tomb of Yawgmoth
+2 Overgrown Tomb
 1 Branchloft Pathway
 1 Snow-Covered Plains
 1 Aether Hub

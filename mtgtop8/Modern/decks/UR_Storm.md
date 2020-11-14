@@ -26,12 +26,7 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
-|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
-|                    1|[Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|                    1|[Shatterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130370) |
-|                    1|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)      |                    2|[Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)|
-|                    2|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)      |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)    |
-|                    3|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)      |                     |                                                                                        |
-|                    4|[Shivan Reef](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129731)         |                     |                                                                                        |
-|                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130) |                     |                                                                                        |
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
+|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------|
+|                     |             |                    1|[Shatterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130370)|
 
