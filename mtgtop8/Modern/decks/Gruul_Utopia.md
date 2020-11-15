@@ -97,7 +97,7 @@
 |                    3|[Gruul Spellbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457323)        |                     |                                                                                                        |
 |                    3|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)            |                     |                                                                                                        |
 |                    4|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)                 |                     |                                                                                                        |
+|                    4|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)            |                     |                                                                                                        |
 |                    4|[Hexdrinker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464117)                |                     |                                                                                                        |
 |                    4|[Gruul Spellbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457323)        |                     |                                                                                                        |
-|                    4|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)            |                     |                                                                                                        |
 

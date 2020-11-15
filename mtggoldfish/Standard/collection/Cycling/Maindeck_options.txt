@@ -1,21 +1,21 @@
-5 Plains
+2 Mountain
 2 Shredded Sails
-3 Frostveil Ambush
 3 Boon of the Wish-Giver
-2 Shatterskull Smashing
-3 Mountain
+5 Plains
 3 Shredded Sails
+3 Frostveil Ambush
+3 Mountain
+4 Boon of the Wish-Giver
+3 Shatterskull Smashing
 4 Mountain
 4 Frostveil Ambush
-4 Boon of the Wish-Giver
 6 Plains
-3 Shatterskull Smashing
-7 Plains
 1 Raugrin Triome
+7 Plains
 8 Plains
-9 Plains
 1 Savai Triome
 2 Raugrin Triome
+9 Plains
 5 Mountain
 1 Branchloft Pathway
 1 Emeria's Call
@@ -42,10 +42,13 @@
 7 Mountain
 1 Clearwater Pathway
 1 Fabled Passage
+1 Easy Prey
+1 Call of the Death-Dweller
+2 Easy Prey
 1 Jolrael, Mwonvuli Recluse
-1 Fiend Artisan
 1 Imposing Vantasaur
 1 Indatha Triome
+1 Fiend Artisan
 2 Fiend Artisan
 2 Imposing Vantasaur
 3 Fiend Artisan
@@ -53,15 +56,12 @@
 4 Fiend Artisan
 4 Imposing Vantasaur
 1 Sejiri Shelter
-1 Suffocating Fumes
-1 Valakut Awakening
 1 Fire Prophecy
+1 Valakut Awakening
+1 Suffocating Fumes
 1 Skyclave Apparition
 1 Legion Angel
 2 Skyclave Apparition
-1 Call of the Death-Dweller
-1 Easy Prey
-2 Easy Prey
 1 Island
 1 Swamp
 2 Island
@@ -77,7 +77,15 @@
 2 Fabled Passage
 3 Fabled Passage
 4 Fabled Passage
-11 Plains
+1 Wind-Scarred Crag
+1 Temple of Deceit
+1 Temple of Silence
+1 Scoured Barrens
+2 Scoured Barrens
+2 Wind-Scarred Crag
+3 Scoured Barrens
+4 Scoured Barrens
 2 Raking Claws
-9 Mountain
 8 Mountain
+9 Mountain
+11 Plains

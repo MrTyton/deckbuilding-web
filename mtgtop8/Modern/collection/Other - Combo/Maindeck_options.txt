@@ -1,3 +1,9 @@
+1 Pelakka Predation
+2 Pelakka Predation
+1 Pact of Negation
+1 Goblin Charbelcher
+2 Goblin Charbelcher
+3 Goblin Charbelcher
 4 Goblin Charbelcher
 1 Bala Ged Recovery
 1 Spikefield Hazard
@@ -19,8 +25,8 @@
 3 Spikefield Hazard
 3 Valakut Awakening
 3 Manamorphose
-3 Recross the Paths
 3 Desperate Ritual
+3 Recross the Paths
 3 Irencrag Feat
 3 Shatterskull Smashing
 3 Bala Ged Recovery
@@ -34,18 +40,13 @@
 4 Pyretic Ritual
 4 Desperate Ritual
 4 Bala Ged Recovery
-2 Hagra Mauling
-1 Pelakka Predation
-2 Pelakka Predation
 3 Thoughtseize
-4 Emeria's Call
-3 Hagra Mauling
+4 Hagra Mauling
+2 Leyline of Sanctity
+3 Leyline of Sanctity
 2 Pact of Negation
 3 Pact of Negation
 4 Pact of Negation
-1 Leyline of Sanctity
-1 Tangled Florahedron
-2 Tangled Florahedron
 1 Opt
 1 Jace, Wielder of Mysteries
 1 Thassa's Oracle
@@ -87,10 +88,7 @@
 1 Cling to Dust
 4 River of Tears
 4 Fatal Push
-2 Leyline of Sanctity
-3 Leyline of Sanctity
 4 Leyline of Sanctity
-4 Hagra Mauling
 3 Pelakka Predation
 4 Pelakka Predation
 1 Force of Negation
@@ -110,18 +108,17 @@
 4 Polluted Delta
 4 Jace, Wielder of Mysteries
 4 Shelldock Isle
+1 Tangled Florahedron
+2 Tangled Florahedron
 3 Tangled Florahedron
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
-1 Vessel of Volatility
-2 Vessel of Volatility
-3 Vessel of Volatility
 2 Swamp
 1 Omen of the Sea
 1 Eldrazi Temple
-1 Snow-Covered Island
 1 Darkslick Shores
+1 Snow-Covered Island
 2 Omen of the Sea
 2 Eldrazi Temple
 2 Darkslick Shores
@@ -131,9 +128,9 @@
 3 Darkslick Shores
 3 Thassa's Oracle
 4 Thassa's Oracle
-1 Silundi Vision
 1 Teferi, Hero of Dominaria
 1 Skyclave Cleric
+1 Silundi Vision
 1 Talisman of Progress
 1 Jwari Disruption
 1 Teferi, Time Raveler
@@ -163,12 +160,13 @@
 3 Talisman of Progress
 3 Silundi Vision
 3 Disrupting Shoal
+4 Teferi, Time Raveler
 4 Jwari Disruption
 4 Talisman of Progress
-4 Teferi, Time Raveler
 4 Selective Memory
 4 Disrupting Shoal
 4 Silundi Vision
+1 Waterlogged Grove
 1 Karn, the Great Creator
 1 Forest
 1 Aether Hub
@@ -180,7 +178,6 @@
 1 Lightning Bolt
 1 Uro, Titan of Nature's Wrath
 1 Steam Vents
-1 Waterlogged Grove
 1 Mountain
 1 Wooded Foothills
 1 Woodweaver's Puzzleknot
@@ -237,12 +234,9 @@
 1 Eliminate
 1 Leveler
 1 Logic Knot
-1 Veil of Summer
-1 Akoum Warrior
-2 Akoum Warrior
-2 Veil of Summer
-3 Veil of Summer
-4 Veil of Summer
+1 Vessel of Volatility
+2 Vessel of Volatility
+3 Vessel of Volatility
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
@@ -256,7 +250,6 @@
 3 Inquisition of Kozilek
 4 Omen of the Sea
 4 Darkslick Shores
-1 Lonely Sandbar
 1 Past in Flames
 1 Reach Through Mists
 1 Psychic Puppetry
@@ -271,6 +264,7 @@
 1 Grapeshot
 1 Echoing Truth
 1 Serum Visions
+1 Lonely Sandbar
 1 Sleight of Hand
 2 Twiddle
 2 Past in Flames

@@ -1,5 +1,4 @@
-3 Steel Leaf Champion
-1 Scavenging Ooze
+4 Voracious Hydra
 4 Garruk's Harbinger
 2 Scavenging Ooze
 1 Aspect of Hydra
@@ -11,6 +10,7 @@
 1 Nissa, Voice of Zendikar
 2 Nissa, Voice of Zendikar
 3 Nissa, Voice of Zendikar
+4 Nissa, Who Shakes the World
 4 Wolfwillow Haven
 1 Rhonas the Indomitable
 2 Castle Garenbrig
@@ -18,19 +18,19 @@
 2 Llanowar Visionary
 1 Ram Through
 2 Ram Through
-16 Forest
+1 Hashep Oasis
+2 Hashep Oasis
 1 Elder Gargaroth
 3 Surrak, the Hunt Caller
 3 Llanowar Visionary
+16 Forest
 17 Forest
-1 Hashep Oasis
-2 Hashep Oasis
+2 Elder Gargaroth
 1 Questing Beast
 1 Shadowspear
 1 Heart of Kiran
 2 Heart of Kiran
 2 Rhonas the Indomitable
-2 Elder Gargaroth
 3 Scavenging Ooze
 4 Scavenging Ooze
 2 Questing Beast
@@ -63,8 +63,6 @@
 2 The Great Henge
 2 Shadowspear
 3 Ghalta, Primal Hunger
-1 Gilded Goose
-2 Gilded Goose
 1 Garruk, Unleashed
 1 Shifting Ceratops
 2 Shifting Ceratops
@@ -82,20 +80,22 @@
 4 Kraul Harpooner
 1 Commune with Dinosaurs
 2 Commune with Dinosaurs
-3 Commune with Dinosaurs
 3 Shifting Ceratops
+3 Commune with Dinosaurs
 4 Ghalta, Primal Hunger
 1 Finale of Devastation
 1 Feasting Troll King
 1 Primal Might
 1 End-Raze Forerunners
 1 Gemrazer
+1 Gilded Goose
 1 Barkhide Troll
 1 God-Eternal Rhonas
 1 Paradise Druid
 2 Finale of Devastation
 2 Primal Might
 2 Gemrazer
+2 Gilded Goose
 2 Paradise Druid
 2 Feasting Troll King
 2 Barkhide Troll
@@ -109,7 +109,6 @@
 4 Gilded Goose
 4 Castle Garenbrig
 18 Forest
-1 Branchloft Pathway
 1 Mana Confluence
 1 Endless One
 1 Conclave Mentor
@@ -120,6 +119,7 @@
 1 Pelt Collector
 1 Temple Garden
 1 Luminarch Aspirant
+1 Branchloft Pathway
 1 Stonecoil Serpent
 1 Avatar of the Resolute
 1 Experiment One
@@ -149,8 +149,8 @@
 3 Luminarch Aspirant
 3 Pelt Collector
 4 Mana Confluence
-4 Luminarch Aspirant
 4 Branchloft Pathway
+4 Luminarch Aspirant
 4 Temple Garden
 4 Conclave Mentor
 4 Avatar of the Resolute

@@ -1,12 +1,25 @@
-9 Island
-1 Brazen Borrower
+1 Ugin, the Spirit Dragon
+1 Into the Roil
 1 Neutralize
 2 Neutralize
+1 Brazen Borrower
 3 Neutralize
+4 Neutralize
+3 Fire Prophecy
+1 Jwari Disruption
+1 Mystical Dispute
+1 Spikefield Hazard
+2 Jwari Disruption
+2 Mystical Dispute
+2 Spikefield Hazard
+3 Jwari Disruption
+3 Spikefield Hazard
+4 Jwari Disruption
+4 Spikefield Hazard
+1 Castle Vantress
 1 Temple of Epiphany
 1 Riverglide Pathway
 1 Bonecrusher Giant
-1 Castle Vantress
 2 Brazen Borrower
 2 Bonecrusher Giant
 2 Riverglide Pathway
@@ -20,20 +33,18 @@
 1 Lofty Denial
 2 Lofty Denial
 3 Lofty Denial
-1 Into the Roil
 1 Negate
-4 Neutralize
+1 Kiora Bests the Sea God
 1 Mazemind Tome
 1 Storm's Wrath
 1 Shatterskull Smashing
-2 Storm's Wrath
 2 Mazemind Tome
+2 Storm's Wrath
 2 Shatterskull Smashing
 3 Storm's Wrath
-1 Kiora Bests the Sea God
-1 Midnight Clock
 1 Field of Ruin
 1 Crawling Barrens
+1 Midnight Clock
 1 Shark Typhoon
 1 Soul-Guide Lantern
 2 Midnight Clock
@@ -46,6 +57,13 @@
 3 Shatterskull Smashing
 4 Shark Typhoon
 4 Shatterskull Smashing
+1 Thrill of Possibility
+1 Lore Drakkis
+2 Lore Drakkis
+3 Lore Drakkis
+4 Fire Prophecy
+4 Lore Drakkis
+4 Blitz of the Thunder-Raptor
 1 Weaponize the Monsters
 1 Roost of Drakes
 1 Bubble Snare
@@ -63,17 +81,6 @@
 10 Island
 11 Island
 12 Island
-3 Fire Prophecy
-1 Jwari Disruption
-1 Mystical Dispute
-1 Spikefield Hazard
-2 Jwari Disruption
-2 Spikefield Hazard
-2 Mystical Dispute
-3 Jwari Disruption
-3 Spikefield Hazard
-4 Jwari Disruption
-4 Spikefield Hazard
 1 Radiant Fountain
 2 Radiant Fountain
 1 Sublime Epiphany
@@ -86,20 +93,13 @@
 1 Shock
 1 Omen of the Sea
 2 Thirst for Meaning
-2 Ominous Seas
 2 Omen of the Sea
 2 Shock
+2 Ominous Seas
 3 Thirst for Meaning
 3 Omen of the Sea
 3 Shock
 4 Evolving Wilds
-1 Lore Drakkis
-1 Thrill of Possibility
-2 Lore Drakkis
-3 Lore Drakkis
-4 Blitz of the Thunder-Raptor
-4 Lore Drakkis
-4 Fire Prophecy
 1 Thassa's Intervention
 1 Voracious Greatshark
 1 Cinderclasm
@@ -125,8 +125,8 @@
 2 Shipwreck Dowser
 2 Brash Taunter
 3 Silundi Vision
-3 Radiant Fountain
 3 Mazemind Tome
+3 Radiant Fountain
 3 Shipwreck Dowser
 3 Brash Taunter
 4 Radiant Fountain

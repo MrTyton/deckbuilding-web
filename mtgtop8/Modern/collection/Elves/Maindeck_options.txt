@@ -1,20 +1,20 @@
+3 Blooming Marsh
+3 Gilt-Leaf Palace
+3 Nurturing Peatland
+1 Elvish Visionary
+2 Elvish Visionary
+3 Elvish Visionary
+4 Elvish Visionary
+1 Elvish Clancaller
+2 Elvish Clancaller
+3 Elvish Clancaller
+4 Elvish Clancaller
+1 Snow-Covered Forest
 2 Snow-Covered Forest
-2 Nettle Sentinel
-2 Bramblewood Paragon
-2 Turntimber Symbiosis
-2 Growth-Chamber Guardian
-2 Joraga Warcaller
 3 Snow-Covered Forest
-3 Turntimber Symbiosis
-3 Growth-Chamber Guardian
-3 Bramblewood Paragon
 3 Joraga Warcaller
-3 Nettle Sentinel
 4 Snow-Covered Forest
 4 Bramblewood Paragon
-4 Turntimber Symbiosis
-4 Nettle Sentinel
-4 Growth-Chamber Guardian
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest
@@ -27,6 +27,8 @@
 1 Elvish Champion
 2 Lead the Stampede
 2 Elvish Champion
+3 Forest
+4 Forest
 1 Verdant Catacombs
 1 Overgrown Tomb
 2 Verdant Catacombs
@@ -42,9 +44,7 @@
 1 Westvale Abbey
 2 Imperious Perfect
 3 Elvish Champion
-3 Forest
 3 Imperious Perfect
-4 Forest
 1 Razorverge Thicket
 1 Leyline of Abundance
 1 Vizier of Remedies
@@ -84,9 +84,9 @@
 4 Llanowar Tribe
 4 Umbral Mantle
 4 Devoted Druid
-1 Llanowar Wastes
 1 Scavenging Ooze
 1 Twilight Mire
+1 Llanowar Wastes
 1 Swamp
 1 Wooded Foothills
 1 Prismatic Vista
@@ -96,3 +96,12 @@
 2 Scavenging Ooze
 3 Woodland Cemetery
 4 Woodland Cemetery
+1 Inscription of Abundance
+2 Inscription of Abundance
+5 Forest
+6 Forest
+7 Forest
+8 Forest
+9 Forest
+10 Forest
+11 Forest

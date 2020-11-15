@@ -1,14 +1,23 @@
 2 Bloodstained Mire
 2 Wooded Foothills
-2 Exquisite Firecraft
 1 Sulfuric Vortex
 19 Mountain
 2 Sulfuric Vortex
-4 Skewer the Critics
+3 Skewer the Critics
 1 Arid Mesa
 2 Arid Mesa
 3 Wooded Foothills
 3 Exquisite Firecraft
+20 Mountain
+1 Light Up the Stage
+2 Light Up the Stage
+1 Sunbaked Canyon
+2 Sunbaked Canyon
+4 Skewer the Critics
+4 Wooded Foothills
+3 Bloodstained Mire
+3 Arid Mesa
+4 Exquisite Firecraft
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -19,15 +28,6 @@
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
-20 Mountain
-1 Sunbaked Canyon
-2 Sunbaked Canyon
-1 Light Up the Stage
-2 Light Up the Stage
-4 Exquisite Firecraft
-4 Wooded Foothills
-3 Bloodstained Mire
-3 Arid Mesa
 11 Snow-Covered Mountain
 12 Snow-Covered Mountain
 13 Snow-Covered Mountain
@@ -39,35 +39,33 @@
 19 Snow-Covered Mountain
 20 Snow-Covered Mountain
 1 Roiling Vortex
-1 Cursed Scroll
 1 Grim Lavamancer
 2 Grim Lavamancer
 1 Scalding Tarn
 2 Scalding Tarn
 1 Ball Lightning
 3 Sulfuric Vortex
-1 Akoum Hellhound
-1 Wayward Guide-Beast
-1 Searing Blaze
-1 Prismatic Vista
-2 Akoum Hellhound
-2 Wayward Guide-Beast
-2 Searing Blaze
-2 Prismatic Vista
-3 Akoum Hellhound
-3 Wayward Guide-Beast
-4 Akoum Hellhound
-4 Bloodstained Mire
-4 Arid Mesa
 1 Plateau
 2 Roiling Vortex
 2 Plateau
 3 Roiling Vortex
 3 Plateau
 4 Plateau
+1 Wayward Guide-Beast
+1 Akoum Hellhound
+1 Searing Blaze
+1 Prismatic Vista
+2 Wayward Guide-Beast
+2 Akoum Hellhound
+2 Searing Blaze
+2 Prismatic Vista
+3 Wayward Guide-Beast
+3 Akoum Hellhound
+4 Bloodstained Mire
+4 Arid Mesa
+4 Akoum Hellhound
 3 Light Up the Stage
 4 Light Up the Stage
-1 Anax, Hardened in the Forge
 1 Robber of the Rich
 1 Forked Bolt
 1 Chandra, Torch of Defiance
@@ -94,6 +92,7 @@
 1 Bomat Courier
 1 Hazoret the Fervent
 1 Viashino Pyromancer
+1 Anax, Hardened in the Forge
 1 Abrade
 1 Ash Zealot
 21 Snow-Covered Mountain
