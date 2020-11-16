@@ -45,8 +45,8 @@
 2 Stoneforge Mystic
 4 Replenish
 1 Arcum's Astrolabe
-1 Snow-Covered Forest
 1 Tropical Island
+1 Snow-Covered Forest
 1 Oko, Thief of Crowns
 1 Misty Rainforest
 2 Oko, Thief of Crowns
@@ -73,29 +73,29 @@
 2 Mishra's Factory
 1 The Tabernacle at Pendrell Vale
 1 Forest
-1 Mox Diamond
-1 Blast Zone
 1 Tranquil Thicket
 1 Life from the Loam
 1 Field of the Dead
 1 Verdant Catacombs
-2 Mox Diamond
+1 Blast Zone
+1 Mox Diamond
 2 Life from the Loam
-3 Mox Diamond
+2 Mox Diamond
 3 Life from the Loam
 3 Oko, Thief of Crowns
-4 Mox Diamond
+3 Mox Diamond
 4 Wasteland
+4 Mox Diamond
 1 Uro, Titan of Nature's Wrath
-1 Crop Rotation
 1 Maze of Ith
 1 Dark Depths
 1 Thespian's Stage
 1 Elvish Reclaimer
+1 Crop Rotation
 1 Bojuka Bog
-2 Elvish Reclaimer
-2 Crop Rotation
 2 Thespian's Stage
+2 Crop Rotation
+2 Elvish Reclaimer
 2 Tropical Island
 3 Crop Rotation
 4 Crop Rotation
@@ -103,14 +103,14 @@
 1 Cyclonic Rift
 1 Emrakul, the Aeons Torn
 1 Kiora, Behemoth Beckoner
+1 Pithing Needle
 1 Vesuva
 1 Dryad of the Ilysian Grove
+1 Ulamog, the Ceaseless Hunger
 1 Candelabra of Tawnos
 1 Primeval Titan
-1 Ulamog, the Ceaseless Hunger
 1 Glacial Chasm
 1 Golos, Tireless Pilgrim
-1 Pithing Needle
 1 Cascading Cataracts
 1 Prophetic Prism
 1 Cloudpost
@@ -122,28 +122,28 @@
 1 Prophet of Kruphix
 1 Glimmerpost
 1 Ramunap Excavator
-2 Snow-Covered Forest
 2 Once Upon a Time
-2 Primeval Titan
-2 Dryad of the Ilysian Grove
+2 Snow-Covered Forest
 2 Pithing Needle
+2 Dryad of the Ilysian Grove
+2 Primeval Titan
 2 Vesuva
 2 Thought-Knot Seer
 2 Green Sun's Zenith
 2 Cloudpost
 2 Cavern of Souls
 2 Glimmerpost
-3 Elvish Reclaimer
 3 Once Upon a Time
+3 Tropical Island
 3 Pithing Needle
 3 Cavern of Souls
 3 Glimmerpost
 3 Cloudpost
-3 Tropical Island
 3 Snow-Covered Forest
+3 Elvish Reclaimer
 3 Green Sun's Zenith
-4 Elvish Reclaimer
 4 Snow-Covered Forest
+4 Elvish Reclaimer
 4 Pithing Needle
 4 Cloudpost
 4 Glimmerpost
@@ -160,32 +160,17 @@
 1 Magmatic Sinkhole
 1 Pyroblast
 1 Decree of Justice
-2 Pyroblast
 2 Magmatic Sinkhole
+2 Pyroblast
 3 Tundra
 4 Teferi, Time Raveler
-1 Stifle
-1 Enlightened Tutor
-1 Scroll of Fate
-1 Search for Azcanta
-1 Karn, the Great Creator
-1 Phyrexian Dreadnought
-1 Jace, Vryn's Prodigy
-1 Sevinne's Reclamation
-2 Stifle
-2 Phyrexian Dreadnought
-2 Karn, the Great Creator
-3 Stifle
-3 Mishra's Factory
-3 Phyrexian Dreadnought
-4 Stifle
-1 Snow-Covered Swamp
 1 Savannah
+1 Chalice of the Void
 1 Bayou
 1 Underground Sea
 1 Abrupt Decay
-1 Chalice of the Void
 1 Assassin's Trophy
+1 Snow-Covered Swamp
 2 Chalice of the Void
 2 Abrupt Decay
 2 Uro, Titan of Nature's Wrath
@@ -195,15 +180,30 @@
 4 Uro, Titan of Nature's Wrath
 4 Abrupt Decay
 4 Chalice of the Void
+1 Karn, the Great Creator
+1 Enlightened Tutor
+1 Scroll of Fate
+1 Search for Azcanta
+1 Stifle
+1 Phyrexian Dreadnought
+1 Jace, Vryn's Prodigy
+1 Sevinne's Reclamation
+2 Karn, the Great Creator
+2 Phyrexian Dreadnought
+2 Stifle
+3 Mishra's Factory
+3 Phyrexian Dreadnought
+3 Stifle
+4 Stifle
 1 Waterlogged Grove
 1 Wooded Foothills
 1 Riftstone Portal
 1 Rishadan Port
 1 Exploration
 1 Ghost Quarter
+2 Maze of Ith
 2 Dark Depths
 2 Waterlogged Grove
-2 Maze of Ith
 2 Exploration
 2 Rishadan Port
 3 Thespian's Stage
@@ -220,10 +220,10 @@
 1 Astral Drift
 1 Astral Slide
 1 Containment Priest
-2 Secluded Steppe
-2 Street Wraith
 2 Containment Priest
+2 Secluded Steppe
 2 Lonely Sandbar
+2 Street Wraith
 2 Astral Drift
 2 Astral Slide
 2 Gilded Drake
@@ -237,8 +237,8 @@
 3 Astral Drift
 4 Street Wraith
 4 Containment Priest
-4 Snow-Covered Plains
 4 Lonely Sandbar
+4 Snow-Covered Plains
 4 Gilded Drake
 4 Astral Slide
 4 Secluded Steppe

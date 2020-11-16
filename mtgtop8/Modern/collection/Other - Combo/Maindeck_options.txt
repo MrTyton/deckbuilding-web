@@ -62,8 +62,8 @@
 1 Watery Grave
 1 Fatal Push
 1 Inverter of Truth
-2 Watery Grave
 2 River of Tears
+2 Watery Grave
 2 Remand
 2 Polluted Delta
 2 Inquisition of Kozilek
@@ -96,8 +96,8 @@
 3 Island
 1 Sunken Ruins
 1 Snapcaster Mage
-1 Vendilion Clique
 1 Tasigur, the Golden Fang
+1 Vendilion Clique
 1 Scalding Tarn
 1 Cryptic Command
 2 Snapcaster Mage
@@ -128,6 +128,7 @@
 3 Darkslick Shores
 3 Thassa's Oracle
 4 Thassa's Oracle
+1 Disrupting Shoal
 1 Teferi, Hero of Dominaria
 1 Skyclave Cleric
 1 Silundi Vision
@@ -138,20 +139,20 @@
 1 Pieces of the Puzzle
 1 Jace, the Mind Sculptor
 1 Path to Exile
-1 Disrupting Shoal
 1 Selective Memory
 1 Snapback
+2 Disrupting Shoal
 2 Skyclave Cleric
 2 Talisman of Progress
 2 Silundi Vision
 2 Selective Memory
 2 Path to Exile
-2 Disrupting Shoal
 2 Teferi, Time Raveler
 2 Snapback
 2 Jwari Disruption
 2 Beyeen Veil
 2 Pieces of the Puzzle
+3 Disrupting Shoal
 3 Jwari Disruption
 3 Teferi, Time Raveler
 3 Snapback
@@ -159,12 +160,11 @@
 3 Selective Memory
 3 Talisman of Progress
 3 Silundi Vision
-3 Disrupting Shoal
+4 Disrupting Shoal
 4 Teferi, Time Raveler
 4 Jwari Disruption
 4 Talisman of Progress
 4 Selective Memory
-4 Disrupting Shoal
 4 Silundi Vision
 1 Waterlogged Grove
 1 Karn, the Great Creator
@@ -281,6 +281,7 @@
 2 Sleight of Hand
 2 Echoing Truth
 2 Serum Visions
+3 Sleight of Hand
 3 Reach Through Mists
 3 Ideas Unbound
 3 Dream's Grip
@@ -290,8 +291,8 @@
 3 Past in Flames
 3 Lonely Sandbar
 3 Shivan Reef
-3 Sleight of Hand
 3 Serum Visions
+4 Sleight of Hand
 4 Peer Through Depths
 4 Reach Through Mists
 4 Ideas Unbound
@@ -301,7 +302,6 @@
 4 Serum Visions
 4 Lonely Sandbar
 4 Shivan Reef
-4 Sleight of Hand
 4 Island
 5 Island
 7 Island

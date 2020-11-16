@@ -1,23 +1,26 @@
-2 Bloodstained Mire
-2 Wooded Foothills
-1 Sulfuric Vortex
-19 Mountain
+15 Mountain
+16 Mountain
+17 Mountain
+18 Mountain
 2 Sulfuric Vortex
-3 Skewer the Critics
-1 Arid Mesa
-2 Arid Mesa
-3 Wooded Foothills
-3 Exquisite Firecraft
-20 Mountain
 1 Light Up the Stage
 2 Light Up the Stage
+4 Skewer the Critics
+3 Wooded Foothills
+3 Exquisite Firecraft
+19 Mountain
 1 Sunbaked Canyon
 2 Sunbaked Canyon
-4 Skewer the Critics
+3 Light Up the Stage
 4 Wooded Foothills
-3 Bloodstained Mire
-3 Arid Mesa
 4 Exquisite Firecraft
+3 Bloodstained Mire
+1 Arid Mesa
+2 Arid Mesa
+20 Mountain
+4 Light Up the Stage
+4 Bloodstained Mire
+3 Arid Mesa
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -43,11 +46,15 @@
 2 Grim Lavamancer
 1 Scalding Tarn
 2 Scalding Tarn
+1 Fiery Islet
+1 Barbarian Ring
+2 Barbarian Ring
+2 Fiery Islet
 1 Ball Lightning
 3 Sulfuric Vortex
 1 Plateau
-2 Roiling Vortex
 2 Plateau
+2 Roiling Vortex
 3 Roiling Vortex
 3 Plateau
 4 Plateau
@@ -59,17 +66,15 @@
 2 Akoum Hellhound
 2 Searing Blaze
 2 Prismatic Vista
-3 Wayward Guide-Beast
 3 Akoum Hellhound
-4 Bloodstained Mire
+3 Wayward Guide-Beast
 4 Arid Mesa
 4 Akoum Hellhound
-3 Light Up the Stage
-4 Light Up the Stage
-1 Robber of the Rich
 1 Forked Bolt
 1 Chandra, Torch of Defiance
+1 Robber of the Rich
 1 Porcelain Legionnaire
+1 Wild Slash
 1 Goblin Rabblemaster
 1 Icehide Golem
 1 Figure of Destiny
@@ -86,7 +91,6 @@
 1 Falkenrath Gorger
 1 Incinerate
 1 Legion Warboss
-1 Wild Slash
 1 Seal of Fire
 1 Village Messenger
 1 Bomat Courier

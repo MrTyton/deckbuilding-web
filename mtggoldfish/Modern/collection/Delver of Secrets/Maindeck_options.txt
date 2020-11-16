@@ -8,19 +8,19 @@
 3 Mishra's Bauble
 4 Mishra's Bauble
 4 Snapcaster Mage
-1 Hallowed Fountain
-1 Path to Exile
-1 Lightning Helix
 1 Sacred Foundry
+1 Hallowed Fountain
+1 Lightning Helix
+1 Path to Exile
 2 Path to Exile
 2 Lightning Helix
 3 Lightning Helix
 1 Thoughtseize
 1 Thieves' Guild Enforcer
 2 Thieves' Guild Enforcer
-3 Inquisition of Kozilek
 3 Drown in the Loch
 3 Thieves' Guild Enforcer
+3 Inquisition of Kozilek
 4 Drown in the Loch
 4 Thieves' Guild Enforcer
 1 Swamp
@@ -32,11 +32,11 @@
 3 Mana Leak
 3 Path to Exile
 3 Remand
-1 Batterskull
 1 Stoneforge Mystic
-1 Plains
+1 Batterskull
 1 Sword of Fire and Ice
 1 Mantis Rider
+1 Plains
 2 Stoneforge Mystic
 2 Mantis Rider
 3 Stoneforge Mystic
@@ -53,24 +53,24 @@
 4 Force of Negation
 1 Manamorphose
 1 Stormwing Entity
-2 Stormwing Entity
 2 Manamorphose
-3 Stormwing Entity
+2 Stormwing Entity
 3 Manamorphose
+3 Stormwing Entity
 4 Manamorphose
 1 Misty Rainforest
 2 Misty Rainforest
-1 Forest
+1 Tarmogoyf
 1 Breeding Pool
 1 Stubborn Denial
-1 Tarmogoyf
-2 Stubborn Denial
+1 Forest
 2 Tarmogoyf
+2 Stubborn Denial
 3 Misty Rainforest
 3 Stubborn Denial
 3 Tarmogoyf
-4 Misty Rainforest
 4 Stubborn Denial
+4 Misty Rainforest
 1 Disrupting Shoal
 2 Disrupting Shoal
 3 Disrupting Shoal
@@ -86,16 +86,16 @@
 3 Archmage's Charm
 4 Mana Leak
 4 Tarmogoyf
-1 Uro, Titan of Nature's Wrath
 1 Hexdrinker
+1 Uro, Titan of Nature's Wrath
 1 Wooded Foothills
-2 Uro, Titan of Nature's Wrath
 2 Breeding Pool
 2 Hexdrinker
+2 Uro, Titan of Nature's Wrath
 2 Forest
 2 Wooded Foothills
-3 Uro, Titan of Nature's Wrath
 3 Hexdrinker
+3 Uro, Titan of Nature's Wrath
 4 Hexdrinker
 1 Gut Shot
 2 Gut Shot
@@ -119,32 +119,32 @@
 3 Vantress Gargoyle
 1 Surgical Extraction
 2 Surgical Extraction
-4 Lightning Helix
 4 Spirebluff Canal
-1 Lava Spike
+4 Lightning Helix
 1 Assault Strobe
+1 Lava Spike
 1 Monastery Swiftspear
 1 Rift Bolt
 1 Light Up the Stage
-2 Lava Spike
+2 Mountain
 2 Fiery Islet
 2 Rift Bolt
 2 Monastery Swiftspear
-2 Mountain
 2 Light Up the Stage
-3 Lava Spike
+2 Lava Spike
 3 Fiery Islet
+3 Mountain
+3 Lava Spike
 3 Monastery Swiftspear
 3 Light Up the Stage
-3 Mountain
 3 Rift Bolt
 3 Lava Dart
-4 Lava Spike
 4 Fiery Islet
+4 Mountain
 4 Monastery Swiftspear
 4 Rift Bolt
 4 Lava Dart
-4 Mountain
+4 Lava Spike
 4 Light Up the Stage
 3 Darkslick Shores
 2 Spell Snare
@@ -152,8 +152,8 @@
 2 Nimble Obstructionist
 1 Magmatic Sinkhole
 2 Magmatic Sinkhole
-4 Island
 4 Steam Vents
+4 Island
 2 Brazen Borrower
 1 Hooting Mandrills
 1 Botanical Sanctum
@@ -167,15 +167,15 @@
 1 Dark Confidant
 1 The Royal Scions
 2 Dark Confidant
-2 Seal of Fire
-2 Cling to Dust
-2 Unearth
 1 Terminate
 1 Young Pyromancer
 1 Gurmag Angler
 2 Young Pyromancer
 2 Gurmag Angler
 2 Terminate
+2 Seal of Fire
+2 Unearth
+2 Cling to Dust
 1 Tarfire
 1 Blossoming Defense
 1 Flame Slash
@@ -200,9 +200,9 @@
 1 Ancestral Vision
 2 Ancestral Vision
 2 Dreadhorde Arcanist
-3 Hallowed Fountain
 3 Dreadhorde Arcanist
 3 Ancestral Vision
+3 Hallowed Fountain
 4 Ancestral Vision
 4 Dreadhorde Arcanist
 1 Creeping Tar Pit
@@ -212,22 +212,22 @@
 3 Soaring Thought-Thief
 4 Soaring Thought-Thief
 4 Watery Grave
+1 Wizard's Retort
+1 Magmatic Channeler
+1 Wizard's Lightning
+1 Soul-Scar Mage
+2 Wizard's Retort
+2 Soul-Scar Mage
+2 Magmatic Channeler
+2 Wizard's Lightning
+3 Wizard's Retort
+3 Wizard's Lightning
+3 Magmatic Channeler
+3 Soul-Scar Mage
+4 Wizard's Lightning
+4 Wizard's Retort
+4 Magmatic Channeler
+4 Soul-Scar Mage
 1 Blood Moon
 2 Blood Moon
 5 Island
-1 Magmatic Channeler
-1 Wizard's Retort
-1 Wizard's Lightning
-1 Soul-Scar Mage
-2 Magmatic Channeler
-2 Wizard's Retort
-2 Soul-Scar Mage
-2 Wizard's Lightning
-3 Magmatic Channeler
-3 Wizard's Retort
-3 Wizard's Lightning
-3 Soul-Scar Mage
-4 Magmatic Channeler
-4 Wizard's Lightning
-4 Wizard's Retort
-4 Soul-Scar Mage

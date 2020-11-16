@@ -1,32 +1,18 @@
 1 Scalding Tarn
 2 Scalding Tarn
-1 Baleful Strix
 4 Misty Rainforest
-1 Volcanic Island
+1 Baleful Strix
 1 Badlands
-1 Veil of Summer
-2 Baleful Strix
-1 Cabal Therapy
+1 Volcanic Island
 1 Abrupt Decay
+2 Baleful Strix
+1 Veil of Summer
+1 Cabal Therapy
 3 Scalding Tarn
 4 Scalding Tarn
 1 Bloodstained Mire
-3 Thoughtseize
 1 Lim-Dul's Vault
-1 Griselbrand
-1 Entomb
-2 Entomb
-2 Griselbrand
-3 Entomb
-4 Entomb
-1 Emrakul, the Aeons Torn
-1 Shallow Grave
-1 Goryo's Vengeance
-1 Children of Korlis
-2 Shallow Grave
-3 Shallow Grave
-4 Lotus Petal
-4 Shallow Grave
+3 Thoughtseize
 4 Thoughtseize
 1 Arclight Phoenix
 1 Dreadhorde Arcanist
@@ -34,13 +20,13 @@
 1 Lightning Bolt
 1 Sprite Dragon
 1 Buried Alive
-2 Lightning Bolt
 2 Bloodstained Mire
 2 Arclight Phoenix
-2 Dreadhorde Arcanist
 2 Sprite Dragon
+2 Dreadhorde Arcanist
 2 Delver of Secrets
 2 Buried Alive
+2 Lightning Bolt
 3 Arclight Phoenix
 3 Buried Alive
 3 Delver of Secrets
@@ -54,26 +40,37 @@
 1 Prismatic Vista
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
+1 Griselbrand
+1 Entomb
+2 Entomb
+2 Griselbrand
+3 Entomb
+4 Entomb
 4 Underground Sea
-2 Goryo's Vengeance
+1 Emrakul, the Aeons Torn
+1 Shallow Grave
+1 Goryo's Vengeance
 1 Flooded Strand
 1 Collective Brutality
+1 Children of Korlis
+2 Shallow Grave
+3 Shallow Grave
+4 Lotus Petal
+4 Shallow Grave
 2 Verdant Catacombs
-3 Griselbrand
 1 Spell Pierce
 1 Chrome Mox
 2 Flooded Strand
+2 Goryo's Vengeance
 1 Flusterstorm
-1 Swamp
-1 Island
-1 Careful Study
 1 Reanimate
 2 Reanimate
 3 Reanimate
+3 Griselbrand
 4 Reanimate
 1 Marsh Flats
-1 Tendrils of Agony
-1 Shelldock Isle
+1 Swamp
+1 Island
 1 Night's Whisper
 3 Baleful Strix
 1 Snow-Covered Forest
@@ -86,6 +83,7 @@
 3 Unmask
 4 Unmask
 4 Griselbrand
+1 Careful Study
 1 Elesh Norn, Grand Cenobite
 1 Iona, Shield of Emeria
 1 Archetype of Endurance
@@ -94,9 +92,9 @@
 1 Predict
 2 Careful Study
 2 Exhume
-3 Verdant Catacombs
 3 Careful Study
 3 Exhume
+3 Verdant Catacombs
 4 Careful Study
 4 Verdant Catacombs
 4 Exhume

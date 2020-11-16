@@ -9,17 +9,17 @@
 4 Flooded Strand
 1 Ice-Fang Coatl
 1 Fact or Fiction
-1 Thought Scour
 1 Archmage's Charm
 1 Nexus of Fate
 1 Wilderness Reclamation
+1 Thought Scour
 1 Polluted Delta
 2 Ice-Fang Coatl
-2 Thought Scour
-2 Remand
 2 Breeding Pool
+2 Remand
 2 Fact or Fiction
 2 Snow-Covered Island
+2 Thought Scour
 2 Archmage's Charm
 2 Polluted Delta
 2 Wilderness Reclamation
@@ -45,8 +45,6 @@
 1 Magus of the Tabernacle
 1 Baneslayer Angel
 1 Crucible of Worlds
-1 Mistveil Plains
-1 Flagstones of Trokair
 1 Valakut Awakening
 1 Ghost Quarter
 1 Cascading Cataracts
@@ -55,6 +53,7 @@
 1 Lightning Helix
 1 Cleansing Wildfire
 1 Leyline of Sanctity
+1 Flagstones of Trokair
 1 Mountain
 1 Talisman of Conviction
 1 Boros Signet
@@ -62,18 +61,19 @@
 1 Boom / Bust
 1 Sacred Foundry
 1 Plains
-2 Sacred Foundry
+1 Mistveil Plains
 2 Valakut Awakening
 2 Ghostly Prison
 2 Magus of the Tabernacle
-2 Flagstones of Trokair
 2 Baneslayer Angel
-2 Generous Gift
 2 Cleansing Wildfire
 2 Leyline of Sanctity
+2 Flagstones of Trokair
 2 Plains
 2 Ghost Quarter
 2 Talisman of Conviction
+2 Generous Gift
+2 Sacred Foundry
 2 Mountain
 2 Crucible of Worlds
 2 Boom / Bust
@@ -81,7 +81,6 @@
 2 Cascading Cataracts
 2 Lightning Helix
 3 Ghostly Prison
-3 Flagstones of Trokair
 3 Sacred Foundry
 3 Cleansing Wildfire
 3 Leyline of Sanctity
@@ -92,13 +91,14 @@
 3 Magus of the Tabernacle
 3 Cascading Cataracts
 3 Generous Gift
-4 Sacred Foundry
+3 Flagstones of Trokair
 4 Cleansing Wildfire
-4 Flagstones of Trokair
+4 Sacred Foundry
 4 Leyline of Sanctity
 4 Valakut Awakening
 4 Cascading Cataracts
 4 Magus of the Tabernacle
 4 Boom / Bust
+4 Flagstones of Trokair
 4 Ghostly Prison
 4 Ghost Quarter

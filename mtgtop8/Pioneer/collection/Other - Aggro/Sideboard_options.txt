@@ -8,8 +8,8 @@
 1 Tormod's Crypt
 1 Tocatli Honor Guard
 2 Heroic Intervention
-2 Tormod's Crypt
 2 Tocatli Honor Guard
+2 Tormod's Crypt
 3 Settle the Wreckage
 3 Tormod's Crypt
 4 Settle the Wreckage
@@ -29,6 +29,19 @@
 1 Grafdigger's Cage
 2 Aether Gust
 1 Conclave Tribunal
+1 Aethersphere Harvester
+1 Negate
+1 Cling to Dust
+2 Cling to Dust
+1 Duress
+1 Soul-Guide Lantern
+1 Dead Weight
+1 Sea Gate Stormcaller
+1 Bloodchief's Thirst
+1 Lurrus of the Dream-Den
+1 The Elderspell
+1 Extinction Event
+2 Extinction Event
 2 Kalitas, Traitor of Ghet
 2 Distended Mindbender
 1 Xathrid Necromancer
@@ -37,35 +50,22 @@
 2 Xathrid Necromancer
 2 Sin Collector
 2 Knight of Autumn
-1 Aethersphere Harvester
 1 Golgari Charm
 1 Korvold, Fae-Cursed King
 1 Back to Nature
 2 Golgari Charm
 2 Aethersphere Harvester
-1 Negate
-1 Cling to Dust
-2 Cling to Dust
-1 Duress
-1 Soul-Guide Lantern
-1 Bloodchief's Thirst
-1 Dead Weight
-1 Sea Gate Stormcaller
-1 The Elderspell
-1 Lurrus of the Dream-Den
-1 Extinction Event
-2 Extinction Event
 1 Carnage Tyrant
-1 The Immortal Sun
 1 Reclamation Sage
+1 The Immortal Sun
 1 Stubborn Denial
 1 Kozilek's Return
 1 Nimble Obstructionist
 1 Barrier Breach
-1 Scrabbling Claws
 1 Shifting Ceratops
 1 Sorcerous Spyglass
 1 Questing Beast
+1 Scrabbling Claws
 2 Negate
 2 Midnight Reaper
 1 Dovin's Veto
@@ -73,9 +73,9 @@
 2 Dovin's Veto
 3 Declaration in Stone
 3 Apostle of Purifying Light
-1 Cry of the Carnarium
 1 Collective Brutality
 1 Legion's End
+1 Cry of the Carnarium
 1 Shark Typhoon
 2 Cry of the Carnarium
 2 Legion's End
@@ -86,9 +86,9 @@
 1 Fabled Passage
 1 Fry
 1 Possibility Storm
+1 Fog
 1 Return to Nature
 1 Gruul Charm
-1 Fog
 1 Chandra, Awakened Inferno
 1 Void Snare
 2 Chandra, Awakened Inferno

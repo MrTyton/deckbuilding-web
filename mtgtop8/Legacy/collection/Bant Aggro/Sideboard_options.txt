@@ -1,5 +1,5 @@
-1 True-Name Nemesis
 1 Engineered Explosives
+1 True-Name Nemesis
 2 Engineered Explosives
 1 Grafdigger's Cage
 2 Containment Priest
@@ -14,14 +14,6 @@
 2 Dovin's Veto
 2 Return to Nature
 2 Faerie Macabre
-2 Force of Vigor
-1 Sylvan Library
-1 Skyclave Apparition
-1 Sword of Fire and Ice
-1 Ethersworn Canonist
-1 Wilt
-2 Ethersworn Canonist
-2 Surgical Extraction
 1 Karakas
 1 Force of Negation
 1 Crop Rotation
@@ -41,6 +33,7 @@
 2 Grafdigger's Cage
 2 Detention Sphere
 3 Deafening Silence
+2 Force of Vigor
 1 Knight of Autumn
 1 Allosaurus Shepherd
 1 Trinisphere
@@ -51,3 +44,10 @@
 3 Carpet of Flowers
 3 Leyline of the Void
 4 Leyline of the Void
+1 Sylvan Library
+1 Skyclave Apparition
+1 Sword of Fire and Ice
+1 Wilt
+1 Ethersworn Canonist
+2 Ethersworn Canonist
+2 Surgical Extraction

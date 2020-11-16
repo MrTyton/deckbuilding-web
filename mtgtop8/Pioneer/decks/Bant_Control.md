@@ -43,8 +43,8 @@
 |                    3|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)               |                     |              |
 |                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                         |                     |              |
 |                    3|[Shark Typhoon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479587)               |                     |              |
-|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                         |                     |              |
 |                    4|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)                |                     |              |
+|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                         |                     |              |
 |                    4|[Shark Typhoon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479587)               |                     |              |
 |                    4|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)             |                     |              |
 |                    4|[Absorb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=23155)                       |                     |              |
