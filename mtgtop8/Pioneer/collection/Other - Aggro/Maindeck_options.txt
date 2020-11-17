@@ -100,10 +100,10 @@
 3 Paradise Druid
 3 Westvale Abbey
 3 Divine Visitation
+4 Paradise Druid
 4 Sunpetal Grove
 4 Dromoka's Command
 4 Secure the Wastes
-4 Paradise Druid
 5 Forest
 6 Forest
 1 Llanowar Wastes
@@ -121,31 +121,31 @@
 1 Botanical Sanctum
 1 Swamp
 1 Drown in the Loch
+1 Soaring Thought-Thief
 1 Thieves' Guild Enforcer
 1 Thoughtseize
-1 Soaring Thought-Thief
 1 Fatal Push
 1 Watery Grave
 2 Clearwater Pathway
-2 Drown in the Loch
+2 Soaring Thought-Thief
 2 Thieves' Guild Enforcer
+2 Drown in the Loch
 2 Fatal Push
 2 Thoughtseize
 2 Watery Grave
-2 Soaring Thought-Thief
 3 Thoughtseize
+3 Soaring Thought-Thief
+3 Thieves' Guild Enforcer
 3 Clearwater Pathway
 3 Drown in the Loch
-3 Thieves' Guild Enforcer
 3 Fatal Push
 3 Watery Grave
-3 Soaring Thought-Thief
 4 Thoughtseize
 4 Fatal Push
 4 Watery Grave
-4 Drown in the Loch
-4 Thieves' Guild Enforcer
 4 Soaring Thought-Thief
+4 Thieves' Guild Enforcer
+4 Drown in the Loch
 1 Hallowed Fountain
 2 Hallowed Fountain
 1 Brazen Borrower
@@ -396,11 +396,11 @@
 5 Island
 6 Island
 7 Island
-1 Lazotep Reaver
 1 Foulmire Knight
-1 Cryptbreaker
 1 Dark Salvation
+1 Cryptbreaker
 1 Wayward Servant
+1 Lazotep Reaver
 1 Diregraf Colossus
 1 Corpse Knight
 1 Stitcher's Supplier
@@ -410,11 +410,11 @@
 1 Necrotic Wound
 1 Slitherhead
 2 Isolated Chapel
-2 Lazotep Reaver
 2 Foulmire Knight
-2 Cryptbreaker
 2 Wayward Servant
 2 Dark Salvation
+2 Cryptbreaker
+2 Lazotep Reaver
 2 Diregraf Colossus
 2 Liliana, Untouched by Death
 2 Slitherhead
@@ -423,9 +423,9 @@
 2 Stitcher's Supplier
 2 Rally the Ancestors
 3 Isolated Chapel
+3 Dark Salvation
 3 Lazotep Reaver
 3 Wayward Servant
-3 Dark Salvation
 3 Cryptbreaker
 3 Corpse Knight
 3 Liliana, Untouched by Death

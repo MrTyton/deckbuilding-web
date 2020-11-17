@@ -16,23 +16,23 @@
 8 Island
 1 Lotus Field
 1 Lonely Sandbar
-1 Peer Through Depths
-1 Ideas Unbound
+1 Grapeshot
 1 Echoing Truth
+1 Ideas Unbound
 1 Dream's Grip
 1 Twiddle
 1 Psychic Puppetry
 1 Reach Through Mists
 1 Sleight of Hand
-1 Grapeshot
 1 Past in Flames
+1 Peer Through Depths
 2 Sleight of Hand
-2 Peer Through Depths
 2 Lonely Sandbar
 2 Ideas Unbound
 2 Dream's Grip
 2 Psychic Puppetry
 2 Reach Through Mists
+2 Peer Through Depths
 2 Lotus Field
 2 Past in Flames
 2 Twiddle
@@ -50,16 +50,16 @@
 4 Reach Through Mists
 4 Peer Through Depths
 1 Silundi Vision
-1 Pact of Negation
 1 Tolaria West
+1 Pact of Negation
 1 Merchant Scroll
 2 Tolaria West
 2 Merchant Scroll
 3 Tolaria West
 4 Tolaria West
 9 Island
-1 Prismatic Vista
 1 Fiery Islet
+1 Prismatic Vista
 2 Fiery Islet
 1 Spell Pierce
 2 Spell Pierce
@@ -73,6 +73,10 @@
 1 Wandering Fumarole
 2 Bonecrusher Giant
 2 Sulfur Falls
+1 Burst Lightning
+2 Misty Rainforest
+3 Force of Negation
+4 Thing in the Ice
 1 Peek
 1 Fire Prophecy
 1 Shark Typhoon
@@ -83,10 +87,6 @@
 2 Peek
 3 Polluted Delta
 4 Polluted Delta
-1 Burst Lightning
-2 Misty Rainforest
-3 Force of Negation
-4 Thing in the Ice
 4 Cleansing Wildfire
 1 Empty the Warrens
 1 Shivan Reef
@@ -119,8 +119,8 @@
 2 Spirebluff Canal
 2 Riverglide Pathway
 2 Silundi Vision
-3 Spirebluff Canal
 3 Cascade Bluffs
+3 Spirebluff Canal
 3 Riverglide Pathway
 4 Spirebluff Canal
 4 Riverglide Pathway

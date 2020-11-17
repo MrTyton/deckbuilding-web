@@ -27,9 +27,9 @@
 1 Swamp
 1 Eliminate
 1 Dark Ritual
+2 Swamp
 2 Eliminate
 2 Dark Ritual
-2 Swamp
 3 Swamp
 1 Liliana of the Veil
 1 Fatal Push
@@ -41,25 +41,25 @@
 2 Urborg, Tomb of Yawgmoth
 3 Eliminate
 3 Dark Ritual
-4 Dark Ritual
 4 Swamp
+4 Dark Ritual
 5 Swamp
 6 Swamp
 1 Castle Locthwain
+1 Murderous Rider
 1 Hymn to Tourach
 1 Mishra's Factory
 1 Cabal Pit
-1 Murderous Rider
 1 Thoughtseize
 1 Inquisition of Kozilek
 1 Tombstalker
 1 Rotting Regisaur
 1 Blast Zone
 2 Castle Locthwain
+2 Murderous Rider
 2 Hymn to Tourach
 2 Mishra's Factory
 2 Liliana, the Last Hope
-2 Murderous Rider
 2 Liliana's Triumph
 2 Thoughtseize
 2 Tombstalker
@@ -100,11 +100,11 @@
 3 Punishing Fire
 3 Dack Fayden
 3 Jolrael, Mwonvuli Recluse
+1 Gilded Goose
 1 Taiga
 1 Hexdrinker
 1 Pyroblast
 1 Fire / Ice
-1 Gilded Goose
 1 Forked Bolt
 1 Delver of Secrets
 1 Noble Hierarch
@@ -162,20 +162,20 @@
 4 Island
 4 Flooded Strand
 4 Swords to Plowshares
+1 Pelakka Predation
 1 Trinisphere
 1 Chrome Mox
 1 Helm of Obedience
 1 Leyline of the Void
 1 Curse of Misfortunes
-1 Pelakka Predation
 1 Sorcerous Spyglass
 1 Curse of Death's Hold
 1 Cruel Reality
 1 City of Traitors
 1 Overwhelming Splendor
 1 Chalice of the Void
-2 Pelakka Predation
 2 Chrome Mox
+2 Pelakka Predation
 2 Trinisphere
 2 Leyline of the Void
 2 Helm of Obedience
@@ -195,12 +195,12 @@
 4 Trinisphere
 4 Pelakka Predation
 4 City of Traitors
-4 Eliminate
 4 Leyline of the Void
+4 Eliminate
 4 Chalice of the Void
 4 Curse of Misfortunes
 4 Chrome Mox
 4 Ancient Tomb
-4 Karn, the Great Creator
 7 Swamp
 8 Swamp
+4 Karn, the Great Creator

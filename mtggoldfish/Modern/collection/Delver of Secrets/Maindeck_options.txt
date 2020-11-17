@@ -8,8 +8,8 @@
 3 Mishra's Bauble
 4 Mishra's Bauble
 4 Snapcaster Mage
-1 Sacred Foundry
 1 Hallowed Fountain
+1 Sacred Foundry
 1 Lightning Helix
 1 Path to Exile
 2 Path to Exile
@@ -32,9 +32,9 @@
 3 Mana Leak
 3 Path to Exile
 3 Remand
-1 Stoneforge Mystic
-1 Batterskull
 1 Sword of Fire and Ice
+1 Batterskull
+1 Stoneforge Mystic
 1 Mantis Rider
 1 Plains
 2 Stoneforge Mystic
@@ -89,9 +89,9 @@
 1 Hexdrinker
 1 Uro, Titan of Nature's Wrath
 1 Wooded Foothills
+2 Uro, Titan of Nature's Wrath
 2 Breeding Pool
 2 Hexdrinker
-2 Uro, Titan of Nature's Wrath
 2 Forest
 2 Wooded Foothills
 3 Hexdrinker
@@ -107,20 +107,20 @@
 4 Archmage's Charm
 1 Snow-Covered Swamp
 2 Mystic Sanctuary
-3 Island
 3 Steam Vents
+3 Island
 1 Vapor Snag
 1 Lava Dart
 2 Lava Dart
 1 Fiery Islet
-1 Vantress Gargoyle
 1 Into the Story
+1 Vantress Gargoyle
 2 Vantress Gargoyle
 3 Vantress Gargoyle
 1 Surgical Extraction
 2 Surgical Extraction
-4 Spirebluff Canal
 4 Lightning Helix
+4 Spirebluff Canal
 1 Assault Strobe
 1 Lava Spike
 1 Monastery Swiftspear
@@ -132,18 +132,18 @@
 2 Monastery Swiftspear
 2 Light Up the Stage
 2 Lava Spike
-3 Fiery Islet
-3 Mountain
 3 Lava Spike
 3 Monastery Swiftspear
+3 Fiery Islet
 3 Light Up the Stage
+3 Mountain
 3 Rift Bolt
 3 Lava Dart
 4 Fiery Islet
-4 Mountain
 4 Monastery Swiftspear
 4 Rift Bolt
 4 Lava Dart
+4 Mountain
 4 Lava Spike
 4 Light Up the Stage
 3 Darkslick Shores
@@ -155,8 +155,8 @@
 4 Steam Vents
 4 Island
 2 Brazen Borrower
-1 Hooting Mandrills
 1 Botanical Sanctum
+1 Hooting Mandrills
 1 Stomping Ground
 2 Hooting Mandrills
 3 Hooting Mandrills
@@ -164,18 +164,18 @@
 1 Snow-Covered Mountain
 2 Vapor Snag
 1 Blackcleave Cliffs
-1 Dark Confidant
 1 The Royal Scions
+1 Dark Confidant
 2 Dark Confidant
+1 Gurmag Angler
 1 Terminate
 1 Young Pyromancer
-1 Gurmag Angler
-2 Young Pyromancer
 2 Gurmag Angler
 2 Terminate
+2 Young Pyromancer
 2 Seal of Fire
-2 Unearth
 2 Cling to Dust
+2 Unearth
 1 Tarfire
 1 Blossoming Defense
 1 Flame Slash
@@ -183,50 +183,50 @@
 2 Flame Slash
 2 Blossoming Defense
 3 Tarfire
-1 Visions of Beyond
-2 Visions of Beyond
-3 Visions of Beyond
-4 Visions of Beyond
 1 Deprive
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
 3 Arcum's Astrolabe
 3 Snow-Covered Island
 4 Snow-Covered Island
-1 Mutagenic Growth
-2 Mutagenic Growth
-4 Hooting Mandrills
-1 Dreadhorde Arcanist
-1 Ancestral Vision
-2 Ancestral Vision
-2 Dreadhorde Arcanist
-3 Dreadhorde Arcanist
-3 Ancestral Vision
-3 Hallowed Fountain
-4 Ancestral Vision
-4 Dreadhorde Arcanist
 1 Creeping Tar Pit
 1 Soaring Thought-Thief
 2 Spell Pierce
 2 Soaring Thought-Thief
 3 Soaring Thought-Thief
-4 Soaring Thought-Thief
 4 Watery Grave
-1 Wizard's Retort
+4 Soaring Thought-Thief
+1 Visions of Beyond
+2 Visions of Beyond
+3 Visions of Beyond
+4 Visions of Beyond
+1 Mutagenic Growth
+2 Mutagenic Growth
+4 Hooting Mandrills
+1 Dreadhorde Arcanist
+1 Ancestral Vision
+2 Dreadhorde Arcanist
+2 Ancestral Vision
+3 Ancestral Vision
+3 Dreadhorde Arcanist
+3 Hallowed Fountain
+4 Ancestral Vision
+4 Dreadhorde Arcanist
 1 Magmatic Channeler
+1 Wizard's Retort
 1 Wizard's Lightning
 1 Soul-Scar Mage
+2 Magmatic Channeler
 2 Wizard's Retort
 2 Soul-Scar Mage
-2 Magmatic Channeler
 2 Wizard's Lightning
+3 Magmatic Channeler
 3 Wizard's Retort
 3 Wizard's Lightning
-3 Magmatic Channeler
 3 Soul-Scar Mage
+4 Magmatic Channeler
 4 Wizard's Lightning
 4 Wizard's Retort
-4 Magmatic Channeler
 4 Soul-Scar Mage
 1 Blood Moon
 2 Blood Moon
