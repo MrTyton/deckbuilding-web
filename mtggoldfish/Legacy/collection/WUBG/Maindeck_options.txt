@@ -1,29 +1,27 @@
-4 Meddling Mage
-1 Oko, Thief of Crowns
-1 Tropical Island
-1 Swords to Plowshares
-1 Brainstorm
 1 Uro, Titan of Nature's Wrath
+1 Brainstorm
+1 Swords to Plowshares
+1 Oko, Thief of Crowns
 1 Tundra
 1 Force of Negation
 1 Flooded Strand
 1 Force of Will
 1 Misty Rainforest
 2 Uro, Titan of Nature's Wrath
+2 Misty Rainforest
+2 Brainstorm
 2 Force of Will
 2 Swords to Plowshares
-2 Brainstorm
-2 Force of Negation
-2 Misty Rainforest
+3 Brainstorm
 3 Force of Will
 3 Swords to Plowshares
-3 Brainstorm
 4 Brainstorm
 4 Force of Will
 1 Ponder
 2 Ponder
 3 Ponder
 4 Ponder
+2 Force of Negation
 3 Uro, Titan of Nature's Wrath
 1 Snow-Covered Forest
 1 Snow-Covered Island
@@ -31,63 +29,65 @@
 4 Misty Rainforest
 2 Oko, Thief of Crowns
 1 Underground Sea
-1 Sylvan Library
 1 Volcanic Island
-4 Uro, Titan of Nature's Wrath
+1 Sylvan Library
+1 Snow-Covered Swamp
+1 Polluted Delta
 1 Dead of Winter
 1 Assassin's Trophy
-1 Arcum's Astrolabe
 1 Snow-Covered Plains
 1 Prismatic Vista
-1 Polluted Delta
-1 Snow-Covered Swamp
+1 Arcum's Astrolabe
 2 Dead of Winter
-2 Assassin's Trophy
 2 Snow-Covered Forest
 2 Snow-Covered Island
 2 Arcum's Astrolabe
 2 Polluted Delta
 2 Sylvan Library
 2 Prismatic Vista
+3 Arcum's Astrolabe
+4 Arcum's Astrolabe
+4 Uro, Titan of Nature's Wrath
+2 Assassin's Trophy
 3 Polluted Delta
 3 Sylvan Library
 3 Assassin's Trophy
-3 Arcum's Astrolabe
-4 Arcum's Astrolabe
+1 Kelsien, the Plague
+4 Meddling Mage
 1 Drown in the Loch
-1 Veil of Summer
+1 Shark Typhoon
+2 Shark Typhoon
 1 Leovold, Emissary of Trest
-1 Savannah
 2 Flooded Strand
 3 Oko, Thief of Crowns
 4 Swords to Plowshares
+1 Veil of Summer
+1 Savannah
 1 Entreat the Angels
-1 Back to Basics
 1 Plague Engineer
-1 Shark Typhoon
-2 Shark Typhoon
+1 Back to Basics
 1 Windswept Heath
 2 Windswept Heath
 1 Island
 3 Flooded Strand
 1 Preordain
 1 Jolrael, Mwonvuli Recluse
-1 Stoneforge Mystic
-1 Batterskull
-1 Umezawa's Jitte
-1 Skyclave Apparition
 1 Waterlogged Grove
+1 Batterskull
+1 Skyclave Apparition
+1 Stoneforge Mystic
+1 Umezawa's Jitte
 2 Preordain
 2 Jolrael, Mwonvuli Recluse
-2 Tundra
-2 Stoneforge Mystic
 2 Tropical Island
 2 Waterlogged Grove
+2 Stoneforge Mystic
 2 Skyclave Apparition
-3 Jolrael, Mwonvuli Recluse
+2 Tundra
 3 Waterlogged Grove
-3 Stoneforge Mystic
+3 Jolrael, Mwonvuli Recluse
 3 Preordain
+3 Stoneforge Mystic
 3 Skyclave Apparition
 3 Tundra
 4 Flooded Strand
@@ -96,40 +96,43 @@
 2 Palace Jailer
 3 Reflector Mage
 4 Wasteland
+1 Abrupt Decay
+2 Abrupt Decay
 1 Teferi, Time Raveler
 1 Orzhov Pontiff
+1 Narset, Parter of Veils
+1 Thoughtseize
+2 Narset, Parter of Veils
 1 Plains
 1 Scalding Tarn
-1 Lightning Bolt
 1 Growth Spiral
-1 Field of the Dead
 1 Teferi, Hero of Dominaria
-1 Forest
-1 Mystic Sanctuary
-1 Primeval Titan
 1 Raugrin Triome
-1 Life from the Loam
+1 Field of the Dead
+1 Lightning Bolt
+1 Primeval Titan
+1 Mystic Sanctuary
 1 Jace, the Mind Sculptor
 1 Ketria Triome
+1 Life from the Loam
+1 Forest
 2 Teferi, Time Raveler
 2 Field of the Dead
 2 Scalding Tarn
-2 Lightning Bolt
 2 Growth Spiral
+2 Lightning Bolt
 2 Primeval Titan
 3 Growth Spiral
 4 Growth Spiral
 1 Bayou
 1 Birds of Paradise
-1 Dryad Arbor
-1 Green Sun's Zenith
 1 Knight of the Reliquary
-1 Taiga
 1 Scrubland
-1 Abrupt Decay
+1 Green Sun's Zenith
+1 Dryad Arbor
 1 Thrun, the Last Troll
+1 Taiga
 2 Green Sun's Zenith
-2 Abrupt Decay
 2 Knight of the Reliquary
 3 Abrupt Decay
 3 Windswept Heath

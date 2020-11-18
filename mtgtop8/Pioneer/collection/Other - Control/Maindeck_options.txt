@@ -54,26 +54,26 @@
 4 Thoughtseize
 3 Mountain
 1 Field of Ruin
+1 Kolaghan's Command
 1 Dragonskull Summit
+1 Collective Brutality
 1 Kroxa, Titan of Death's Hunger
 1 Liliana, Waker of the Dead
-1 Kolaghan's Command
-1 Collective Brutality
 1 Davriel, Rogue Shadowmage
 1 Blood Crypt
-2 Kroxa, Titan of Death's Hunger
+2 Collective Brutality
 2 Dragonskull Summit
+2 Kroxa, Titan of Death's Hunger
+2 Kolaghan's Command
 2 Liliana, Waker of the Dead
 2 Blood Crypt
-2 Kolaghan's Command
 2 Davriel, Rogue Shadowmage
-2 Collective Brutality
-3 Davriel, Rogue Shadowmage
-3 Liliana, Waker of the Dead
 3 Kroxa, Titan of Death's Hunger
-4 Liliana, Waker of the Dead
+3 Liliana, Waker of the Dead
+3 Davriel, Rogue Shadowmage
 4 Kroxa, Titan of Death's Hunger
 4 Fatal Push
+4 Liliana, Waker of the Dead
 1 Anger of the Gods
 2 Anger of the Gods
 1 Ashiok, Nightmare Muse
@@ -103,14 +103,14 @@
 2 Plains
 2 Baffling End
 3 Baffling End
+1 Elspeth Conquers Death
+1 Syncopate
 1 Omen of the Sun
 1 Omen of the Sea
 1 Elspeth, Sun's Nemesis
-1 Jace, Architect of Thought
-1 Syncopate
 1 Teferi, Hero of Dominaria
+1 Jace, Architect of Thought
 1 Glacial Fortress
-1 Elspeth Conquers Death
 1 Dovin's Veto
 1 Dream Trawler
 1 Supreme Verdict
@@ -118,8 +118,9 @@
 1 Absorb
 1 Sacred Foundry
 1 Azorius Charm
-2 Omen of the Sun
 2 Syncopate
+2 Elspeth Conquers Death
+2 Omen of the Sun
 2 Omen of the Sea
 2 Dream Trawler
 2 Azorius Charm
@@ -128,7 +129,6 @@
 2 Absorb
 2 Sacred Foundry
 2 Teferi, Hero of Dominaria
-2 Elspeth Conquers Death
 2 Glacial Fortress
 3 Castle Ardenvale
 3 Absorb
@@ -141,9 +141,9 @@
 3 Teferi, Hero of Dominaria
 3 Steam Vents
 4 Absorb
+4 Shark Typhoon
 4 Omen of the Sea
 4 Azorius Charm
-4 Shark Typhoon
 4 Sacred Foundry
 4 Steam Vents
 4 Hallowed Fountain
@@ -169,6 +169,7 @@
 1 Breaking / Entering
 2 Fraying Sanity
 2 Merfolk Secretkeeper
+2 Drown in the Loch
 2 Didn't Say Please
 2 Clearwater Pathway
 2 Maddening Cacophony
@@ -178,13 +179,12 @@
 2 Breaking / Entering
 2 Jwari Disruption
 2 Drowned Secrets
-2 Drown in the Loch
 2 Ipnu Rivulet
 3 Merfolk Secretkeeper
 3 Crypt Incursion
 3 Didn't Say Please
-3 Drown in the Loch
 3 Fraying Sanity
+3 Drown in the Loch
 3 Maddening Cacophony
 3 Ruin Crab
 3 Breaking / Entering
@@ -194,8 +194,8 @@
 3 Ipnu Rivulet
 4 Merfolk Secretkeeper
 4 Fraying Sanity
-4 Drown in the Loch
 4 Maddening Cacophony
+4 Drown in the Loch
 4 Ruin Crab
 4 Drowned Secrets
 4 Ipnu Rivulet
@@ -219,20 +219,20 @@
 2 Temple of Mystery
 3 Temple of Mystery
 1 Hieroglyphic Illumination
-1 Torrential Gearhulk
-1 Glimmer of Genius
 1 Hero's Downfall
+1 Torrential Gearhulk
 1 Erebos's Intervention
 1 Void Shatter
 1 Ritual of Soot
 1 Vraska's Contempt
 1 Unwind
+1 Glimmer of Genius
 1 Sinister Sabotage
 2 Torrential Gearhulk
-2 Glimmer of Genius
 2 Castle Vantress
 2 Negate
 2 Ritual of Soot
+2 Glimmer of Genius
 2 Void Shatter
 3 Fetid Pools
 3 Censor
@@ -257,9 +257,9 @@
 3 Nissa, Who Shakes the World
 3 Oath of Nissa
 4 Oath of Nissa
+1 Murderous Rider
 1 Hazoret the Fervent
 1 Waste Not
-1 Murderous Rider
 2 Hazoret the Fervent
 2 Waste Not
 2 Murderous Rider
@@ -270,57 +270,22 @@
 3 Waste Not
 4 Blood Crypt
 4 Dragonskull Summit
-4 Swamp
 4 Waste Not
+4 Swamp
 4 Castle Locthwain
 1 Thought Erasure
 1 Nicol Bolas, the Ravager
 2 Sulfur Falls
-2 Nicol Bolas, the Ravager
 2 Thought Erasure
+2 Nicol Bolas, the Ravager
 3 Nicol Bolas, the Ravager
 3 Thought Erasure
-4 Davriel, Rogue Shadowmage
 4 Nicol Bolas, the Ravager
 4 Thought Erasure
+4 Davriel, Rogue Shadowmage
 1 Arboreal Grazer
 2 Arboreal Grazer
 3 Arboreal Grazer
-1 Blast Zone
-1 Elvish Rejuvenator
-1 Voracious Hydra
-1 Yavimaya Coast
-1 World Breaker
-1 Castle Garenbrig
-1 Sanctum of Ugin
-1 Cavalier of Thorns
-1 Shrine of the Forsaken Gods
-1 Ulamog, the Ceaseless Hunger
-1 Botanical Sanctum
-2 Castle Garenbrig
-2 Zagoth Triome
-2 Sanctum of Ugin
-2 Elvish Rejuvenator
-2 Yavimaya Coast
-2 World Breaker
-2 Voracious Hydra
-2 Cavalier of Thorns
-2 Botanical Sanctum
-2 Shrine of the Forsaken Gods
-3 Elvish Rejuvenator
-3 Yavimaya Coast
-3 Voracious Hydra
-3 Ugin, the Spirit Dragon
-3 Shrine of the Forsaken Gods
-3 Cavalier of Thorns
-3 Botanical Sanctum
-3 Castle Garenbrig
-4 Yavimaya Coast
-4 Elvish Rejuvenator
-4 Voracious Hydra
-4 Cavalier of Thorns
-4 Botanical Sanctum
-4 Shrine of the Forsaken Gods
 1 Gateway Plaza
 1 Gatecreeper Vine
 1 Plaza of Harmony
@@ -411,6 +376,41 @@
 4 Eidolon of Blossoms
 4 Wolfwillow Haven
 4 Temple of Plenty
+1 Elvish Rejuvenator
+1 Blast Zone
+1 Yavimaya Coast
+1 Voracious Hydra
+1 World Breaker
+1 Castle Garenbrig
+1 Sanctum of Ugin
+1 Cavalier of Thorns
+1 Shrine of the Forsaken Gods
+1 Ulamog, the Ceaseless Hunger
+1 Botanical Sanctum
+2 Castle Garenbrig
+2 Zagoth Triome
+2 Elvish Rejuvenator
+2 Yavimaya Coast
+2 World Breaker
+2 Sanctum of Ugin
+2 Cavalier of Thorns
+2 Botanical Sanctum
+2 Voracious Hydra
+2 Shrine of the Forsaken Gods
+3 Elvish Rejuvenator
+3 Yavimaya Coast
+3 Ugin, the Spirit Dragon
+3 Shrine of the Forsaken Gods
+3 Cavalier of Thorns
+3 Voracious Hydra
+3 Botanical Sanctum
+3 Castle Garenbrig
+4 Yavimaya Coast
+4 Elvish Rejuvenator
+4 Cavalier of Thorns
+4 Botanical Sanctum
+4 Shrine of the Forsaken Gods
+4 Voracious Hydra
 1 Jace, Vryn's Prodigy
 1 God-Eternal Kefnet
 1 Brazen Borrower

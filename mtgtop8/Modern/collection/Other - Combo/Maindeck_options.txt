@@ -15,25 +15,25 @@
 1 Pyretic Ritual
 1 Irencrag Feat
 2 Spikefield Hazard
+2 Valakut Awakening
 2 Bala Ged Recovery
 2 Irencrag Feat
 2 Manamorphose
 2 Recross the Paths
-2 Valakut Awakening
 2 Pyretic Ritual
 2 Desperate Ritual
+3 Shatterskull Smashing
 3 Spikefield Hazard
 3 Valakut Awakening
 3 Manamorphose
 3 Desperate Ritual
 3 Recross the Paths
 3 Irencrag Feat
-3 Shatterskull Smashing
 3 Bala Ged Recovery
 3 Pyretic Ritual
+4 Shatterskull Smashing
 4 Spikefield Hazard
 4 Valakut Awakening
-4 Shatterskull Smashing
 4 Manamorphose
 4 Recross the Paths
 4 Irencrag Feat
@@ -96,8 +96,8 @@
 3 Island
 1 Sunken Ruins
 1 Snapcaster Mage
-1 Tasigur, the Golden Fang
 1 Vendilion Clique
+1 Tasigur, the Golden Fang
 1 Scalding Tarn
 1 Cryptic Command
 2 Snapcaster Mage
@@ -128,7 +128,6 @@
 3 Darkslick Shores
 3 Thassa's Oracle
 4 Thassa's Oracle
-1 Disrupting Shoal
 1 Teferi, Hero of Dominaria
 1 Skyclave Cleric
 1 Silundi Vision
@@ -139,20 +138,20 @@
 1 Pieces of the Puzzle
 1 Jace, the Mind Sculptor
 1 Path to Exile
+1 Disrupting Shoal
 1 Selective Memory
 1 Snapback
-2 Disrupting Shoal
 2 Silundi Vision
 2 Skyclave Cleric
 2 Talisman of Progress
 2 Selective Memory
 2 Path to Exile
+2 Disrupting Shoal
 2 Teferi, Time Raveler
 2 Snapback
 2 Jwari Disruption
 2 Beyeen Veil
 2 Pieces of the Puzzle
-3 Disrupting Shoal
 3 Jwari Disruption
 3 Teferi, Time Raveler
 3 Snapback
@@ -160,14 +159,15 @@
 3 Selective Memory
 3 Talisman of Progress
 3 Silundi Vision
-4 Disrupting Shoal
+3 Disrupting Shoal
 4 Teferi, Time Raveler
 4 Jwari Disruption
 4 Talisman of Progress
 4 Selective Memory
+4 Disrupting Shoal
 4 Silundi Vision
-1 Waterlogged Grove
 1 Karn, the Great Creator
+1 Waterlogged Grove
 1 Forest
 1 Aether Hub
 1 Through the Breach
@@ -246,21 +246,21 @@
 1 Snow-Covered Swamp
 1 Cavern of Souls
 2 Drowned Catacomb
-3 Drowned Catacomb
 3 Inquisition of Kozilek
+3 Drowned Catacomb
 4 Omen of the Sea
 4 Darkslick Shores
-1 Peer Through Depths
 1 Past in Flames
+1 Grapeshot
 1 Reach Through Mists
 1 Psychic Puppetry
 1 Twiddle
 1 Dream's Grip
 1 Ideas Unbound
 1 Shivan Reef
-1 Grapeshot
-1 Vizier of Tumbling Sands
+1 Peer Through Depths
 1 Lotus Field
+1 Vizier of Tumbling Sands
 1 Empty the Warrens
 1 Echoing Truth
 1 Serum Visions
@@ -269,11 +269,11 @@
 2 Twiddle
 2 Past in Flames
 2 Lotus Field
-2 Peer Through Depths
 2 Reach Through Mists
 2 Psychic Puppetry
 2 Dream's Grip
 2 Ideas Unbound
+2 Peer Through Depths
 2 Grapeshot
 2 Vizier of Tumbling Sands
 2 Shivan Reef
@@ -281,7 +281,6 @@
 2 Sleight of Hand
 2 Echoing Truth
 2 Serum Visions
-3 Sleight of Hand
 3 Reach Through Mists
 3 Ideas Unbound
 3 Dream's Grip
@@ -289,10 +288,10 @@
 3 Peer Through Depths
 3 Psychic Puppetry
 3 Past in Flames
-3 Lonely Sandbar
 3 Shivan Reef
+3 Lonely Sandbar
+3 Sleight of Hand
 3 Serum Visions
-4 Sleight of Hand
 4 Peer Through Depths
 4 Reach Through Mists
 4 Ideas Unbound
@@ -302,6 +301,7 @@
 4 Serum Visions
 4 Lonely Sandbar
 4 Shivan Reef
+4 Sleight of Hand
 4 Island
 5 Island
 7 Island

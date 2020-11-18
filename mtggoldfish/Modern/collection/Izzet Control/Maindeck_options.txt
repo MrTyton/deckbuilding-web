@@ -1,4 +1,5 @@
 1 Force of Negation
+1 Peek
 2 Force of Negation
 1 Through the Breach
 1 Emrakul, the Aeons Torn
@@ -9,26 +10,19 @@
 4 Emrakul, the Aeons Torn
 4 Through the Breach
 2 Mountain
-1 Peek
-1 Fiery Islet
-3 Serum Visions
-3 Force of Negation
-1 Omen of the Sea
-2 Temple of Epiphany
-4 Reflecting Pool
 2 Valakut Awakening
-1 Silundi Vision
-2 Silundi Vision
+3 Serum Visions
+1 Fiery Islet
 1 Mystic Sanctuary
 1 Steam Vents
 1 Scalding Tarn
 2 Steam Vents
 2 Scalding Tarn
 3 Scalding Tarn
-2 Omen of the Sea
+3 Force of Negation
+1 Omen of the Sea
+2 Spell Snare
 4 Scalding Tarn
-3 Omen of the Sea
-4 Omen of the Sea
 1 Blood Moon
 2 Blood Moon
 4 Island
@@ -36,17 +30,23 @@
 6 Island
 2 Mystic Sanctuary
 1 Mana Leak
-3 Steam Vents
 1 Polluted Delta
+3 Steam Vents
 4 Serum Visions
-2 Spell Snare
+2 Temple of Epiphany
+4 Reflecting Pool
+2 Omen of the Sea
+1 Silundi Vision
+2 Silundi Vision
 2 Polluted Delta
 3 Polluted Delta
-3 Temple of Epiphany
-4 Temple of Epiphany
+3 Omen of the Sea
+4 Omen of the Sea
 4 Polluted Delta
 2 Mana Leak
 2 Abrade
+3 Temple of Epiphany
+4 Temple of Epiphany
 7 Island
 1 Thing in the Ice
 2 Thing in the Ice
@@ -73,8 +73,8 @@
 2 Misty Rainforest
 1 Brazen Borrower
 1 Jace, the Mind Sculptor
-1 Snow-Covered Mountain
 1 Snow-Covered Island
+1 Snow-Covered Mountain
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
@@ -83,15 +83,16 @@
 1 Vendilion Clique
 2 Spell Pierce
 2 Jace, the Mind Sculptor
+3 Crackling Drake
 3 Flooded Strand
+1 Disrupting Shoal
 1 Spikefield Hazard
 1 Deprive
-1 Disrupting Shoal
 1 Niv-Mizzet, Parun
-2 Spikefield Hazard
-2 Niv-Mizzet, Parun
-2 Sulfur Falls
 2 Disrupting Shoal
+2 Spikefield Hazard
+2 Sulfur Falls
+2 Niv-Mizzet, Parun
 3 Disrupting Shoal
 3 Niv-Mizzet, Parun
 1 Desolate Lighthouse

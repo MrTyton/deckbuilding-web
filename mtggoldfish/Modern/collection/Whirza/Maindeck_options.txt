@@ -29,12 +29,12 @@
 3 Misty Rainforest
 4 Misty Rainforest
 3 Darkslick Shores
-1 Path to Exile
 1 Cryptic Command
+1 Path to Exile
 2 Path to Exile
-1 Forest
-1 Uro, Titan of Nature's Wrath
 1 Breeding Pool
+1 Uro, Titan of Nature's Wrath
+1 Forest
 1 Gilded Goose
 2 Breeding Pool
 2 Cryptic Command
@@ -66,8 +66,8 @@
 3 Mox Amber
 1 Sorcerous Spyglass
 1 Sunken Hollow
-1 Inquisition of Kozilek
 1 Thoughtseize
+1 Inquisition of Kozilek
 2 Thoughtseize
 1 Ghirapur Aether Grid
 3 Scalding Tarn
@@ -84,53 +84,25 @@
 1 Dreadbore
 1 Lurrus of the Dream-Den
 1 Temple Garden
-1 Cavern of Souls
-2 Cavern of Souls
 1 Seachrome Coast
 2 Seachrome Coast
+1 Cavern of Souls
+2 Cavern of Souls
+3 Fatal Push
+3 Chromatic Star
+3 Teferi, Time Raveler
+4 Teferi, Time Raveler
 1 Glacial Fortress
 1 Lonely Sandbar
 1 Sai, Master Thopterist
 2 Sai, Master Thopterist
 3 Path to Exile
 4 Path to Exile
-3 Fatal Push
-3 Chromatic Star
-3 Teferi, Time Raveler
-4 Teferi, Time Raveler
-1 Simian Spirit Guide
-1 Tolaria West
-1 Torpor Orb
-1 Cascade Bluffs
-1 Crucible of Worlds
-1 Ghost Quarter
-1 Grafdigger's Cage
-1 Welding Jar
-1 Tormod's Crypt
-1 Ipnu Rivulet
-1 Witchbane Orb
-1 Bottled Cloister
-1 Blast Zone
-2 Simian Spirit Guide
-2 Tolaria West
-2 Cascade Bluffs
-2 Welding Jar
-2 Ensnaring Bridge
-2 Sorcerous Spyglass
-3 Simian Spirit Guide
-3 Ensnaring Bridge
-3 Tolaria West
-4 Simian Spirit Guide
-4 Ensnaring Bridge
-4 Tolaria West
-5 Island
-6 Island
-7 Island
-1 Field of Ruin
-1 Heliod, Sun-Crowned
 1 Prismatic Vista
-1 Walking Ballista
 1 Mazemind Tome
+1 Heliod, Sun-Crowned
+1 Walking Ballista
+1 Field of Ruin
 1 Mirran Spy
 2 Prismatic Vista
 2 Glimmervoid
@@ -140,3 +112,31 @@
 3 Glimmervoid
 4 Prismatic Vista
 4 Glimmervoid
+1 Simian Spirit Guide
+1 Cascade Bluffs
+1 Ghost Quarter
+1 Crucible of Worlds
+1 Grafdigger's Cage
+1 Welding Jar
+1 Tormod's Crypt
+1 Torpor Orb
+1 Ipnu Rivulet
+1 Witchbane Orb
+1 Bottled Cloister
+1 Tolaria West
+1 Blast Zone
+2 Cascade Bluffs
+2 Simian Spirit Guide
+2 Sorcerous Spyglass
+2 Welding Jar
+2 Ensnaring Bridge
+2 Tolaria West
+3 Tolaria West
+3 Ensnaring Bridge
+3 Simian Spirit Guide
+4 Simian Spirit Guide
+4 Ensnaring Bridge
+4 Tolaria West
+5 Island
+7 Island
+6 Island

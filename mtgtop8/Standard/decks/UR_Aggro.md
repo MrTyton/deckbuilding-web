@@ -38,8 +38,8 @@
 |                    3|Magmatic Channeler                                                                        |                    2|[Blitz of the Thunder-Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479629)|
 |                    3|[Stern Dismissal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476319)|                    2|[Ox of Agonas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476398)               |
 |                    3|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)|                     |                                                                                                      |
-|                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)       |                     |                                                                                                      |
+|                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)       |                     |                                                                                                      |
 |                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)         |                     |                                                                                                      |
 |                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)         |                     |                                                                                                      |
-|                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)       |                     |                                                                                                      |
+|                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)       |                     |                                                                                                      |
 

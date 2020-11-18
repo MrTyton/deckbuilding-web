@@ -38,6 +38,6 @@
 |                     |                                                                                      |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
 |                     |                                                                                      |                    2|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)|
 |                     |                                                                                      |                    2|Skyclave Apparition                                                                         |
-|                     |                                                                                      |                    3|Skyclave Apparition                                                                         |
 |                     |                                                                                      |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
+|                     |                                                                                      |                    3|Skyclave Apparition                                                                         |
 

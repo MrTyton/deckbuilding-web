@@ -11,8 +11,8 @@
 3 Yorion, Sky Nomad
 3 Omen of the Forge
 3 Charming Prince
-4 Omen of the Forge
 4 Charming Prince
+4 Omen of the Forge
 2 Negate
 1 Castle Ardenvale
 4 Omen of the Sun
@@ -30,26 +30,26 @@
 1 Temple of Enlightenment
 2 Essence Scatter
 2 Temple of Enlightenment
-1 Solemn Simulacrum
-1 Felidar Retreat
 1 Evolving Wilds
+1 Felidar Retreat
+1 Solemn Simulacrum
 2 Castle Vantress
 2 Evolving Wilds
-2 Solemn Simulacrum
 2 Felidar Retreat
-3 Solemn Simulacrum
+2 Solemn Simulacrum
 3 Evolving Wilds
 3 Felidar Retreat
-4 Solemn Simulacrum
+3 Solemn Simulacrum
 4 Evolving Wilds
 4 Felidar Retreat
+4 Solemn Simulacrum
 5 Plains
 1 Barrin, Tolarian Archmage
 1 Golden Egg
 2 Golden Egg
 3 Mazemind Tome
-1 Shatterskull Smashing
 1 Temple of Triumph
+1 Shatterskull Smashing
 1 Legion Angel
 2 Legion Angel
 4 Mystical Dispute
@@ -90,9 +90,6 @@
 4 Temple of Enlightenment
 6 Plains
 1 Nine Lives
-2 Brazen Borrower
-3 Brazen Borrower
-4 Shatter the Sky
 1 Mythos of Vadrok
 1 Scorching Dragonfire
 1 Ketria Triome
@@ -103,31 +100,34 @@
 4 Scorching Dragonfire
 1 Fae of Wishes
 1 Temple of Epiphany
-1 Whirlwind of Thought
-1 Spikefield Hazard
 1 Realm-Cloaked Giant
 1 Elspeth, Sun's Nemesis
-1 Opt
 1 Beyeen Veil
+1 Neutralize
 1 Banishing Light
 1 Storm's Wrath
-1 Neutralize
+1 Opt
+1 Whirlwind of Thought
+1 Spikefield Hazard
 2 Shatterskull Smashing
 2 Fae of Wishes
+2 Beyeen Veil
+2 Storm's Wrath
+2 Neutralize
+2 Banishing Light
+2 Spikefield Hazard
 2 Whirlwind of Thought
 2 Opt
-2 Beyeen Veil
-2 Spikefield Hazard
-2 Banishing Light
-2 Neutralize
-2 Storm's Wrath
 3 Neutralize
-3 Spikefield Hazard
 3 Fae of Wishes
 3 Storm's Wrath
 3 Beyeen Veil
+3 Spikefield Hazard
 3 Whirlwind of Thought
 4 Essence Scatter
 4 Neutralize
 4 Spikefield Hazard
 4 Whirlwind of Thought
+2 Brazen Borrower
+3 Brazen Borrower
+4 Shatter the Sky

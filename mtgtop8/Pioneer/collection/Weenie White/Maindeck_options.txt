@@ -1,63 +1,5 @@
-2 Plains
-3 Plains
-4 Plains
-5 Plains
-6 Plains
-7 Plains
-8 Plains
-9 Plains
-10 Plains
-11 Plains
-1 Knight of the White Orchid
-1 Castle Ardenvale
-1 Heliod, Sun-Crowned
-1 Nykthos, Shrine to Nyx
-2 Knight of the White Orchid
-2 Nykthos, Shrine to Nyx
-2 Heliod, Sun-Crowned
-3 Heliod, Sun-Crowned
-1 Daxos, Blessed by the Sun
-2 Daxos, Blessed by the Sun
-3 Daxos, Blessed by the Sun
-1 Stasis Snare
-1 Idyllic Grange
-2 Stasis Snare
-3 Knight of the White Orchid
-3 Nykthos, Shrine to Nyx
-4 Heliod, Sun-Crowned
-4 Knight of the White Orchid
-1 Elspeth Conquers Death
-2 Elspeth Conquers Death
-1 Reflector Mage
-1 Charming Prince
-1 Baffling End
-1 Teferi, Time Raveler
-1 Shark Typhoon
-1 Detention Sphere
-1 Temple of Enlightenment
-1 Arcanist's Owl
-1 Glacial Fortress
-1 Irrigated Farmland
-1 Hallowed Fountain
-2 Reflector Mage
-2 Charming Prince
-2 Baffling End
-2 Teferi, Time Raveler
-2 Shark Typhoon
-2 Temple of Enlightenment
-2 Irrigated Farmland
-2 Hallowed Fountain
-2 Arcanist's Owl
-2 Glacial Fortress
-3 Charming Prince
-3 Shark Typhoon
-3 Irrigated Farmland
-3 Baffling End
-3 Glacial Fortress
-3 Teferi, Time Raveler
-3 Arcanist's Owl
-3 Temple of Enlightenment
 3 Hallowed Fountain
+3 Arcanist's Owl
 4 Arcanist's Owl
 4 Charming Prince
 4 Teferi, Time Raveler
@@ -68,16 +10,78 @@
 4 Temple of Enlightenment
 4 Hallowed Fountain
 4 Nykthos, Shrine to Nyx
+1 Soldier of the Pantheon
+1 Legion's Landing
+1 Giant Killer
+1 Luminarch Aspirant
+1 Shefet Dunes
+1 Thalia's Lieutenant
+1 Kytheon, Hero of Akros
+1 General Kudro of Drannith
+1 Godless Shrine
+1 Dire Tactics
+1 Caves of Koilos
+1 Concealed Courtyard
+1 Brightclimb Pathway
+1 Brave the Elements
+1 Dauntless Bodyguard
+2 Legion's Landing
+2 Giant Killer
+2 Kytheon, Hero of Akros
+2 Concealed Courtyard
+2 Caves of Koilos
+2 Brightclimb Pathway
+2 Thalia's Lieutenant
+2 Brave the Elements
+2 Luminarch Aspirant
+2 Soldier of the Pantheon
+2 General Kudro of Drannith
+2 Shefet Dunes
+2 Dauntless Bodyguard
+2 Godless Shrine
+3 Concealed Courtyard
+3 Dauntless Bodyguard
+3 Godless Shrine
+3 Soldier of the Pantheon
+3 Caves of Koilos
+3 Brave the Elements
+3 Thalia's Lieutenant
+3 Luminarch Aspirant
+3 General Kudro of Drannith
+4 Dauntless Bodyguard
+4 Soldier of the Pantheon
+4 Brave the Elements
+4 Concealed Courtyard
+4 Thalia's Lieutenant
+4 Caves of Koilos
+4 Godless Shrine
 2 Castle Ardenvale
 3 Stasis Snare
+4 Heliod, Sun-Crowned
+1 Venerated Loxodon
+2 Venerated Loxodon
+3 Venerated Loxodon
+4 Venerated Loxodon
+1 Boros Elite
+2 Boros Elite
+3 Boros Elite
+3 Brightclimb Pathway
+4 Brightclimb Pathway
+4 Boros Elite
+2 Detention Sphere
+3 Elspeth Conquers Death
+1 Reflector Mage
+2 Reflector Mage
+1 Skyclave Apparition
+2 Skyclave Apparition
 12 Plains
 13 Plains
 14 Plains
 15 Plains
 16 Plains
 17 Plains
-2 Detention Sphere
-3 Elspeth Conquers Death
+1 Thassa, Deep-Dwelling
+2 Thassa, Deep-Dwelling
 3 Detention Sphere
 1 Port Town
 1 Banishing Light
@@ -85,9 +89,7 @@
 3 Reflector Mage
 4 Reflector Mage
 1 Speaker of the Heavens
-1 Skyclave Apparition
 2 Speaker of the Heavens
-2 Skyclave Apparition
 1 Kitesail Freebooter
 1 Liliana, Heretical Healer
 2 Kitesail Freebooter
@@ -113,14 +115,14 @@
 2 Alseid of Life's Bounty
 2 Cartouche of Solidarity
 2 Ethereal Armor
+2 Oppressive Rays
 2 All That Glitters
 2 Hopeful Eidolon
 2 Angelic Gift
 2 Karametra's Blessing
-2 Transcendent Envoy
 2 Sentinel's Eyes
 2 Helm of the Gods
-2 Oppressive Rays
+2 Transcendent Envoy
 3 Oppressive Rays
 3 Hopeful Eidolon
 3 Transcendent Envoy
@@ -150,8 +152,8 @@
 1 Emeria's Call
 1 Legion Angel
 1 Archangel Avacyn
-1 Lyra Dawnbringer
 1 Sejiri Shelter
+1 Lyra Dawnbringer
 1 Shalai, Voice of Plenty
 1 Resplendent Angel
 1 Bishop of Wings

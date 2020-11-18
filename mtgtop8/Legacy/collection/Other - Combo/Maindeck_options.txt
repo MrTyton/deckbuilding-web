@@ -9,8 +9,8 @@
 1 Aether Vial
 1 Baleful Strix
 1 Eliminate
-1 Unearth
 1 Plains
+1 Unearth
 1 Scrubland
 1 Meddling Mage
 1 Teferi, Time Raveler
@@ -54,7 +54,6 @@
 1 Prismatic Vista
 1 Jace, Wielder of Mysteries
 1 Shelldock Isle
-2 Spell Pierce
 2 Prismatic Vista
 2 Uro, Titan of Nature's Wrath
 2 Tropical Island
@@ -64,6 +63,7 @@
 2 Jace, Wielder of Mysteries
 2 Waterlogged Grove
 2 Snow-Covered Island
+2 Spell Pierce
 2 Shelldock Isle
 2 Paradigm Shift
 3 Misty Rainforest
@@ -95,14 +95,14 @@
 1 Echo of Eons
 1 Faithless Looting
 2 Street Wraith
+2 Personal Tutor
 2 Elvish Spirit Guide
 2 Manamorphose
-2 Rite of Flame
 2 Chrome Mox
+2 Rite of Flame
 2 Thoughtseize
 2 Lion's Eye Diamond
 2 Faithless Looting
-2 Personal Tutor
 2 Dark Ritual
 2 Entomb
 2 Land Grant
@@ -121,8 +121,8 @@
 3 Infernal Tutor
 3 Dark Ritual
 4 Street Wraith
-4 Manamorphose
 4 Elvish Spirit Guide
+4 Manamorphose
 4 Rite of Flame
 4 Lion's Eye Diamond
 4 Dark Ritual
@@ -164,8 +164,8 @@
 3 Ilharg, the Raze-Boar
 4 Ancient Tomb
 4 Seething Song
-4 City of Traitors
 4 Snow-Covered Mountain
+4 City of Traitors
 4 Through the Breach
 4 Sneak Attack
 4 Griselbrand

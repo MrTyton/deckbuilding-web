@@ -11,38 +11,41 @@
 9 Plains
 10 Plains
 11 Plains
-1 Opt
 1 Castle Vantress
-1 Fabled Passage
 1 Supreme Verdict
 1 Island
+2 Supreme Verdict
+2 Island
+3 Supreme Verdict
+3 Island
 1 Dovin's Veto
-1 Azorius Charm
+1 Dig Through Time
+2 Dig Through Time
+1 Opt
+1 Fabled Passage
 2 Opt
 2 Fabled Passage
-2 Supreme Verdict
-2 Azorius Charm
-2 Island
 3 Opt
-3 Supreme Verdict
+1 Azorius Charm
+2 Azorius Charm
 3 Azorius Charm
-3 Island
 4 Azorius Charm
 1 Teferi, Hero of Dominaria
-1 Dig Through Time
 2 Teferi, Hero of Dominaria
-2 Dig Through Time
+4 Supreme Verdict
 2 Dovin's Veto
+4 Opt
 2 Detention Sphere
 3 Stasis Snare
 1 Reflector Mage
 2 Reflector Mage
 4 Heliod, Sun-Crowned
-4 Opt
-4 Supreme Verdict
-3 Teferi, Hero of Dominaria
 1 Censor
 2 Censor
+3 Teferi, Hero of Dominaria
+4 Island
+5 Island
+1 Field of Ruin
 3 Dig Through Time
 1 Skyclave Cleric
 2 Skyclave Cleric
@@ -63,19 +66,19 @@
 4 Skyclave Cleric
 1 Cast Out
 3 Detention Sphere
-1 Field of Ruin
-4 Island
-5 Island
 3 Elspeth Conquers Death
 3 Reflector Mage
 1 Absorb
 2 Absorb
+3 Censor
 4 Teferi, Hero of Dominaria
 1 Settle the Wreckage
 2 Field of Ruin
-3 Censor
 3 Absorb
 4 Absorb
+6 Island
+1 Sinister Sabotage
+2 Sinister Sabotage
 1 Thassa, Deep-Dwelling
 1 Skyclave Apparition
 2 Thassa, Deep-Dwelling
@@ -84,13 +87,44 @@
 1 Banishing Light
 2 Banishing Light
 4 Reflector Mage
+3 Fabled Passage
 1 Ondu Inversion
 1 Gideon of the Trials
-1 Sinister Sabotage
 2 Gideon of the Trials
-2 Sinister Sabotage
 1 Omen of the Sun
 2 Omen of the Sun
+1 Emeria's Call
+4 Censor
+1 Prairie Stream
+1 Narset, Parter of Veils
+1 Isolated Chapel
+1 Declaration in Stone
+1 Eliminate
+1 Ashiok, Nightmare Muse
+1 Swamp
+1 Watery Grave
+1 Dragonlord Ojutai
+1 Thought Erasure
+1 Neutralize
+1 Castle Locthwain
+2 Ashiok, Nightmare Muse
+2 Narset, Parter of Veils
+2 Isolated Chapel
+2 Declaration in Stone
+2 Eliminate
+2 Thought Erasure
+2 Watery Grave
+2 Prairie Stream
+2 Neutralize
+3 Narset, Parter of Veils
+3 Ashiok, Nightmare Muse
+3 Isolated Chapel
+3 Neutralize
+3 Declaration in Stone
+3 Watery Grave
+4 Watery Grave
+4 Fabled Passage
+4 Neutralize
 1 Thassa's Intervention
 1 Render Silent
 2 Render Silent
@@ -106,11 +140,23 @@
 2 Dream Trawler
 2 Uro, Titan of Nature's Wrath
 3 Breeding Pool
-3 Fabled Passage
 3 Hinterland Harbor
 3 Uro, Titan of Nature's Wrath
 4 Breeding Pool
 4 Uro, Titan of Nature's Wrath
-1 Emeria's Call
-4 Censor
-6 Island
+1 Thirst for Meaning
+1 Essence Scatter
+1 Seal Away
+1 Elspeth, Sun's Nemesis
+1 Omen of the Sea
+2 Castle Vantress
+2 Thirst for Meaning
+2 Omen of the Sea
+2 Seal Away
+3 Thirst for Meaning
+3 Omen of the Sea
+3 Sinister Sabotage
+3 Seal Away
+4 Seal Away
+4 Omen of the Sea
+7 Island

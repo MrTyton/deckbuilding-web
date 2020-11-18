@@ -1,13 +1,17 @@
 1 Forest
-1 Dryad Arbor
 1 Windswept Heath
+2 Windswept Heath
+1 Dryad Arbor
 1 Savannah
 1 Fauna Shaman
 1 Scavenging Ooze
 1 Green Sun's Zenith
-2 Windswept Heath
 2 Green Sun's Zenith
 3 Green Sun's Zenith
+1 Scryb Ranger
+2 Scryb Ranger
+3 Windswept Heath
+4 Windswept Heath
 1 Noble Hierarch
 1 Birds of Paradise
 2 Birds of Paradise
@@ -29,28 +33,24 @@
 1 Phyrexian Revoker
 1 Sanctum Prelate
 1 Mother of Runes
-1 Palace Jailer
-1 Deputy of Detention
 1 Renegade Rallier
 1 Atraxa, Praetors' Voice
-1 Scryb Ranger
+1 Palace Jailer
+1 Deputy of Detention
 1 Voice of Resurgence
-2 Misty Rainforest
 2 Tropical Island
+2 Misty Rainforest
 2 Bayou
 2 Aether Vial
 2 Savannah
-2 Scryb Ranger
 2 Mother of Runes
 2 Fauna Shaman
 3 Misty Rainforest
 3 Aether Vial
-3 Windswept Heath
 3 Fauna Shaman
 3 Mother of Runes
 4 Misty Rainforest
 4 Aether Vial
-4 Windswept Heath
 4 Fauna Shaman
 2 Forest
 2 Tundra
@@ -73,9 +73,9 @@
 1 Chrome Mox
 1 Chalice of the Void
 1 City of Traitors
+2 Chalice of the Void
 2 Chrome Mox
 2 City of Traitors
-2 Chalice of the Void
 3 Ancient Tomb
 3 Chalice of the Void
 3 City of Traitors
@@ -98,52 +98,53 @@
 1 Sunbaked Canyon
 1 Embercleave
 1 Plains
+1 Winota, Joiner of Forces
 1 Legion Warboss
 1 Goblin Rabblemaster
 1 Battlefield Forge
 1 Godo, Bandit Warlord
-1 Winota, Joiner of Forces
 1 Talisman of Conviction
 1 Plateau
 1 Angrath's Marauders
 1 Thalia, Guardian of Thraben
+2 Winota, Joiner of Forces
 2 Goblin Rabblemaster
 2 Plateau
 2 Trinisphere
-2 Winota, Joiner of Forces
 2 Angrath's Marauders
 2 Thalia, Guardian of Thraben
 2 Legion Warboss
 3 Plateau
+3 Winota, Joiner of Forces
 3 Goblin Rabblemaster
 3 Angrath's Marauders
 3 Legion Warboss
 3 Trinisphere
-3 Winota, Joiner of Forces
 4 Plateau
 4 Goblin Rabblemaster
-4 Legion Warboss
 4 Winota, Joiner of Forces
+4 Legion Warboss
 4 Angrath's Marauders
 1 Wooded Foothills
+2 Wooded Foothills
 1 Once Upon a Time
 1 Ramunap Excavator
 2 Once Upon a Time
-2 Wooded Foothills
 3 Once Upon a Time
 1 Grove of the Burnwillows
 2 Grove of the Burnwillows
 2 Mountain
+3 Wooded Foothills
 1 Tireless Tracker
-1 Taiga
 1 Klothys, God of Destiny
+1 Taiga
 1 Bonecrusher Giant
 1 Wasteland
 1 Bloodbraid Elf
+1 Prismatic Vista
 1 Pillage
 1 Lightning Bolt
 1 Stomping Ground
-1 Prismatic Vista
 2 Lightning Bolt
 2 Bonecrusher Giant
 2 Wasteland
@@ -154,7 +155,6 @@
 2 Prismatic Vista
 2 Tireless Tracker
 2 Magus of the Moon
-3 Wooded Foothills
 3 Lightning Bolt
 3 Bonecrusher Giant
 3 Wasteland
@@ -171,31 +171,31 @@
 4 Wasteland
 4 Prismatic Vista
 4 Pillage
+3 Forest
+4 Forest
 1 Llanowar Visionary
+1 Garruk, Unleashed
 1 Elder Gargaroth
 1 Natural Order
 1 Tarmogoyf
-1 Allosaurus Shepherd
-1 Garruk, Unleashed
-1 Questing Beast
-1 Garruk Relentless
 1 Shifting Ceratops
 1 Archon of Valor's Reach
 1 Elvish Spirit Guide
+1 Allosaurus Shepherd
 1 Progenitus
+1 Questing Beast
+1 Garruk Relentless
 1 Deathgorge Scavenger
 1 Thragtusk
 1 Hexdrinker
 2 Natural Order
 2 Allosaurus Shepherd
 2 Elvish Spirit Guide
-3 Allosaurus Shepherd
 3 Elvish Spirit Guide
-3 Forest
+3 Allosaurus Shepherd
 3 Natural Order
 4 Once Upon a Time
 4 Elvish Spirit Guide
-4 Forest
 4 Green Sun's Zenith
 4 Natural Order
 1 Punishing Fire
@@ -223,11 +223,58 @@
 3 Blood Sun
 3 Mountain
 4 Grove of the Burnwillows
+4 Cavern of Souls
 4 Sethron, Hurloon General
 4 Neheb, Dreadhorde Champion
 4 Didgeridoo
 4 Mountain
 4 Blood Sun
-4 Cavern of Souls
 4 Moraug, Fury of Akoum
 5 Mountain
+1 Berserk
+1 Nettle Sentinel
+1 Jungle Lion
+1 Kavu Predator
+1 Rancor
+1 Dryad Militant
+1 Invigorate
+1 Silhana Ledgewalker
+1 Might of Old Krosa
+1 Skarrgan Pit-Skulk
+1 Seal of Strength
+2 Berserk
+2 Rancor
+2 Skarrgan Pit-Skulk
+2 Seal of Strength
+2 Jungle Lion
+2 Invigorate
+2 Kavu Predator
+2 Silhana Ledgewalker
+2 Dryad Militant
+2 Nettle Sentinel
+2 Might of Old Krosa
+3 Berserk
+3 Invigorate
+3 Rancor
+3 Skarrgan Pit-Skulk
+3 Kavu Predator
+3 Silhana Ledgewalker
+3 Might of Old Krosa
+3 Dryad Militant
+3 Seal of Strength
+3 Jungle Lion
+4 Berserk
+4 Invigorate
+4 Might of Old Krosa
+4 Kavu Predator
+4 Skarrgan Pit-Skulk
+4 Dryad Militant
+4 Silhana Ledgewalker
+4 Jungle Lion
+4 Rancor
+5 Forest
+6 Forest
+7 Forest
+8 Forest
+9 Forest
+10 Forest
