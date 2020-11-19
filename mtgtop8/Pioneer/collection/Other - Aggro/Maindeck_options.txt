@@ -100,10 +100,10 @@
 3 Paradise Druid
 3 Westvale Abbey
 3 Divine Visitation
-4 Paradise Druid
 4 Sunpetal Grove
 4 Secure the Wastes
 4 Dromoka's Command
+4 Paradise Druid
 5 Forest
 6 Forest
 1 Llanowar Wastes
@@ -397,11 +397,11 @@
 6 Island
 7 Island
 1 Corpse Knight
+1 Lazotep Reaver
+1 Cryptbreaker
 1 Foulmire Knight
 1 Dark Salvation
-1 Cryptbreaker
 1 Wayward Servant
-1 Lazotep Reaver
 1 Diregraf Colossus
 1 Stitcher's Supplier
 1 Liliana, Untouched by Death
@@ -411,11 +411,11 @@
 1 Slitherhead
 2 Isolated Chapel
 2 Corpse Knight
+2 Lazotep Reaver
 2 Foulmire Knight
+2 Cryptbreaker
 2 Wayward Servant
 2 Dark Salvation
-2 Cryptbreaker
-2 Lazotep Reaver
 2 Diregraf Colossus
 2 Liliana, Untouched by Death
 2 Slitherhead
@@ -424,19 +424,19 @@
 2 Rally the Ancestors
 3 Isolated Chapel
 3 Corpse Knight
-3 Dark Salvation
-3 Wayward Servant
-3 Lazotep Reaver
 3 Cryptbreaker
+3 Lazotep Reaver
+3 Wayward Servant
+3 Dark Salvation
 3 Liliana, Untouched by Death
 3 Castle Locthwain
 3 Stitcher's Supplier
 3 Rally the Ancestors
 3 Slitherhead
 4 Isolated Chapel
+4 Cryptbreaker
 4 Wayward Servant
 4 Dark Salvation
-4 Cryptbreaker
 4 Stitcher's Supplier
 4 Rally the Ancestors
 4 Corpse Knight

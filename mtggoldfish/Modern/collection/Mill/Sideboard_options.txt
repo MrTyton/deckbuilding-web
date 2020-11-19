@@ -28,8 +28,8 @@
 1 Bloodchief's Thirst
 1 Search for Azcanta
 1 Soul-Guide Lantern
-1 Ghost Quarter
 1 Go for the Throat
+1 Ghost Quarter
 1 Legion's End
 2 Soul-Guide Lantern
 2 Ghost Quarter
@@ -40,8 +40,8 @@
 3 Profane Memento
 2 Engineered Explosives
 1 Thoughtseize
-1 Collective Brutality
 1 Unmoored Ego
+1 Collective Brutality
 1 Fatal Push
 2 Collective Brutality
 2 Unmoored Ego
@@ -51,14 +51,6 @@
 3 Ensnaring Bridge
 2 Nihil Spellbomb
 3 Nihil Spellbomb
-1 Drown in the Loch
-2 Drown in the Loch
-3 Ashiok, Dream Render
-1 Bojuka Bog
-1 Veil of Summer
-2 Veil of Summer
-3 Collective Brutality
-3 Ceremonious Rejection
 1 Timely Reinforcements
 2 Timely Reinforcements
 1 Celestial Purge
@@ -67,9 +59,17 @@
 1 Surgical Extraction
 2 Rest in Peace
 2 Torpor Orb
-2 Celestial Purge
 2 Surgical Extraction
+2 Celestial Purge
 3 Rest in Peace
+1 Drown in the Loch
+2 Drown in the Loch
+3 Ashiok, Dream Render
+1 Veil of Summer
+1 Bojuka Bog
+2 Veil of Summer
+3 Collective Brutality
+3 Ceremonious Rejection
 2 Thoughtseize
 3 Thoughtseize
 1 Tormod's Crypt
@@ -85,10 +85,10 @@
 2 Plague Engineer
 3 Leyline of the Void
 4 Leyline of the Void
-1 Disenchant
 1 Elesh Norn, Grand Cenobite
 1 Resolute Archangel
 1 Iona, Shield of Emeria
+1 Disenchant
 2 Disenchant
 2 Iona, Shield of Emeria
 2 Elesh Norn, Grand Cenobite

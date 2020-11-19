@@ -26,8 +26,8 @@
 2 Spell Pierce
 1 Cast Out
 1 Replenish
-2 Cast Out
 2 Replenish
+2 Cast Out
 3 Cast Out
 2 Mystic Sanctuary
 1 Lay Claim
@@ -74,11 +74,11 @@
 1 The Tabernacle at Pendrell Vale
 1 Forest
 1 Tranquil Thicket
+1 Life from the Loam
 1 Field of the Dead
 1 Verdant Catacombs
 1 Blast Zone
 1 Mox Diamond
-1 Life from the Loam
 2 Life from the Loam
 2 Mox Diamond
 3 Life from the Loam
@@ -105,14 +105,14 @@
 1 Kiora, Behemoth Beckoner
 1 Pithing Needle
 1 Vesuva
+1 Prophetic Prism
 1 Dryad of the Ilysian Grove
-1 Ulamog, the Ceaseless Hunger
 1 Candelabra of Tawnos
+1 Ulamog, the Ceaseless Hunger
 1 Primeval Titan
 1 Glacial Chasm
 1 Golos, Tireless Pilgrim
 1 Cascading Cataracts
-1 Prophetic Prism
 1 Cloudpost
 1 Thought-Knot Seer
 1 Green Sun's Zenith
@@ -122,8 +122,8 @@
 1 Prophet of Kruphix
 1 Glimmerpost
 1 Ramunap Excavator
-2 Snow-Covered Forest
 2 Once Upon a Time
+2 Snow-Covered Forest
 2 Primeval Titan
 2 Pithing Needle
 2 Dryad of the Ilysian Grove
@@ -219,10 +219,10 @@
 1 Astral Drift
 1 Astral Slide
 1 Containment Priest
-2 Secluded Steppe
 2 Containment Priest
-2 Street Wraith
+2 Secluded Steppe
 2 Lonely Sandbar
+2 Street Wraith
 2 Astral Drift
 2 Astral Slide
 2 Gilded Drake

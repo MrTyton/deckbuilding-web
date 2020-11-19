@@ -11,12 +11,12 @@
 1 Veil of Summer
 2 Veil of Summer
 2 Assassin's Trophy
-1 Abrupt Decay
-2 Abrupt Decay
 1 Archetype of Endurance
 1 Surgical Extraction
 2 Surgical Extraction
 1 Wear/Tear
+1 Abrupt Decay
+2 Abrupt Decay
 1 Feed the Swarm
 3 Pyroblast
 1 Abrade
@@ -28,10 +28,10 @@
 1 Shattering Spree
 2 Fatal Push
 2 Wear/Tear
-1 Lake of the Dead
-2 Grave Titan
-1 Tranquil Domain
-2 Tranquil Domain
+1 Defense Grid
+2 Defense Grid
+3 Wear/Tear
+1 Pithing Needle
 2 Feed the Swarm
 1 Ratchet Bomb
 2 Ratchet Bomb
@@ -39,33 +39,35 @@
 2 Pack Rat
 3 Pack Rat
 3 Ratchet Bomb
+1 Lake of the Dead
+2 Grave Titan
+1 Tranquil Domain
+2 Tranquil Domain
 1 Duress
 3 Plague Engineer
-1 Pithing Needle
+1 Blood Moon
+1 Cabal Therapy
+2 Shenanigans
 3 Faerie Macabre
-1 Defense Grid
-2 Defense Grid
+4 Wear/Tear
 3 Feed the Swarm
 1 Ashiok, Dream Render
 1 Bitterblossom
 2 Bitterblossom
-3 Wear/Tear
 1 Sorcerous Spyglass
 1 Nihil Spellbomb
 2 Pithing Needle
 1 Chancellor of the Annex
 1 Tidespout Tyrant
 1 Collective Brutality
+1 Thoughtseize
+1 Plunge into Darkness
 1 Cryptbreaker
 1 Karakas
 2 Cryptbreaker
 1 Toxic Deluge
 1 Tormod's Crypt
 2 Toxic Deluge
-1 Blood Moon
-1 Cabal Therapy
-1 Plunge into Darkness
-2 Shenanigans
 3 Defense Grid
 1 Stronghold Gambit
 2 Stronghold Gambit
@@ -83,23 +85,6 @@
 2 Massacre
 2 Nihil Spellbomb
 4 Pack Rat
-1 Street Wraith
-1 Flusterstorm
-1 Thought Scour
-1 Echoing Truth
-1 Thassa's Oracle
-1 Lion's Eye Diamond
-1 Doomsday
-1 Edge of Autumn
-1 Shelldock Isle
-2 Flusterstorm
-2 Street Wraith
-2 Doomsday
-2 Echoing Truth
-3 Doomsday
-4 Doomsday
-1 Thoughtseize
-4 Wear/Tear
 1 Sphinx of the Steel Wind
 1 Chain of Vapor
 1 Leyline of Sanctity

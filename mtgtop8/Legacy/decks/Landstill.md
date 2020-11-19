@@ -29,7 +29,22 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                 Sideboard Card                                  |
-|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------|
-|                     |             |                    2|[Humility](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4881)|
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                          Sideboard Card                                           |
+|--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------------|
+|                    1|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)  |                    1|[Izzet Staticaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253638)       |
+|                    1|[Volcanic Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=887)           |                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)           |
+|                    1|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|                    1|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)        |
+|                    1|[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442051)|                    1|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)                 |
+|                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)      |                    1|[From the Ashes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376346)          |
+|                    1|[Counterspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=699)              |                    1|Wear / Tear                                                                                        |
+|                    1|[Moat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1626)                     |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)           |
+|                    1|[Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)           |                    1|[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)              |
+|                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)      |                    1|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)         |
+|                    2|[Counterspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=699)              |                    1|[Kaheera, the Orphanguard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479744)|
+|                    2|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)|                    2|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)                 |
+|                    2|[Dovin's Veto](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461120)           |                    2|Wear / Tear                                                                                        |
+|                    2|[Moat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1626)                     |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)           |
+|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)          |                    2|[From the Ashes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376346)          |
+|                    5|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)    |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)           |
+|                    2|[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442051)|                    2|[Humility](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4881)                  |
 
