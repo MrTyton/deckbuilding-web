@@ -38,8 +38,8 @@
 1 Palace Jailer
 1 Deputy of Detention
 1 Voice of Resurgence
-2 Tropical Island
 2 Misty Rainforest
+2 Tropical Island
 2 Bayou
 2 Aether Vial
 2 Savannah
@@ -98,32 +98,32 @@
 1 Sunbaked Canyon
 1 Embercleave
 1 Plains
-1 Winota, Joiner of Forces
 1 Legion Warboss
 1 Goblin Rabblemaster
 1 Battlefield Forge
 1 Godo, Bandit Warlord
+1 Winota, Joiner of Forces
 1 Talisman of Conviction
 1 Plateau
 1 Angrath's Marauders
 1 Thalia, Guardian of Thraben
-2 Winota, Joiner of Forces
 2 Goblin Rabblemaster
 2 Plateau
 2 Trinisphere
+2 Winota, Joiner of Forces
 2 Angrath's Marauders
 2 Thalia, Guardian of Thraben
 2 Legion Warboss
 3 Plateau
-3 Winota, Joiner of Forces
 3 Goblin Rabblemaster
 3 Angrath's Marauders
 3 Legion Warboss
+3 Winota, Joiner of Forces
 3 Trinisphere
 4 Plateau
 4 Goblin Rabblemaster
-4 Winota, Joiner of Forces
 4 Legion Warboss
+4 Winota, Joiner of Forces
 4 Angrath's Marauders
 1 Wooded Foothills
 2 Wooded Foothills
@@ -173,7 +173,6 @@
 4 Pillage
 3 Forest
 4 Forest
-1 Llanowar Visionary
 1 Garruk, Unleashed
 1 Elder Gargaroth
 1 Natural Order
@@ -184,6 +183,7 @@
 1 Allosaurus Shepherd
 1 Progenitus
 1 Questing Beast
+1 Llanowar Visionary
 1 Garruk Relentless
 1 Deathgorge Scavenger
 1 Thragtusk
@@ -198,6 +198,7 @@
 4 Elvish Spirit Guide
 4 Green Sun's Zenith
 4 Natural Order
+1 Moraug, Fury of Akoum
 1 Punishing Fire
 1 Fiery Confluence
 1 Deathbellow War Cry
@@ -206,7 +207,6 @@
 1 Neheb, Dreadhorde Champion
 1 Deadshot Minotaur
 1 Didgeridoo
-1 Moraug, Fury of Akoum
 2 Punishing Fire
 2 Moraug, Fury of Akoum
 2 Neheb, the Eternal
@@ -215,8 +215,8 @@
 2 Sethron, Hurloon General
 3 Punishing Fire
 3 Grove of the Burnwillows
-3 Didgeridoo
 3 Moraug, Fury of Akoum
+3 Didgeridoo
 3 Neheb, the Eternal
 3 Sethron, Hurloon General
 3 Neheb, Dreadhorde Champion

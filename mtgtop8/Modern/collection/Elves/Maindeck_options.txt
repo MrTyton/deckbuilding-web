@@ -11,8 +11,8 @@
 4 Elvish Clancaller
 1 Snow-Covered Forest
 2 Snow-Covered Forest
-3 Joraga Warcaller
 3 Snow-Covered Forest
+3 Joraga Warcaller
 4 Snow-Covered Forest
 4 Bramblewood Paragon
 5 Snow-Covered Forest
@@ -23,10 +23,10 @@
 4 Nurturing Peatland
 4 Blooming Marsh
 4 Gilt-Leaf Palace
-1 Elvish Champion
 1 Lead the Stampede
-2 Elvish Champion
+1 Elvish Champion
 2 Lead the Stampede
+2 Elvish Champion
 3 Forest
 4 Forest
 1 Verdant Catacombs
@@ -43,13 +43,13 @@
 1 Imperious Perfect
 1 Westvale Abbey
 2 Imperious Perfect
-3 Imperious Perfect
 3 Elvish Champion
-1 Umbral Mantle
+3 Imperious Perfect
 1 Razorverge Thicket
 1 Leyline of Abundance
 1 Vizier of Remedies
 1 Temple Garden
+1 Umbral Mantle
 1 Devoted Druid
 1 Marwyn, the Nurturer
 1 Llanowar Tribe
@@ -57,17 +57,16 @@
 1 Stoneforge Mystic
 1 Beastcaller Savant
 2 Horizon Canopy
-2 Umbral Mantle
 2 Razorverge Thicket
 2 Temple Garden
 2 Leyline of Abundance
 2 Marwyn, the Nurturer
 2 Devoted Druid
 2 Llanowar Tribe
+2 Umbral Mantle
 2 Vizier of Remedies
 2 Beastcaller Savant
 3 Horizon Canopy
-3 Umbral Mantle
 3 Temple Garden
 3 Razorverge Thicket
 3 Leyline of Abundance
@@ -76,13 +75,14 @@
 3 Chord of Calling
 3 Beastcaller Savant
 3 Windswept Heath
+3 Umbral Mantle
 4 Horizon Canopy
-4 Umbral Mantle
 4 Temple Garden
 4 Razorverge Thicket
 4 Leyline of Abundance
 4 Windswept Heath
 4 Llanowar Tribe
+4 Umbral Mantle
 4 Devoted Druid
 1 Scavenging Ooze
 1 Twilight Mire
@@ -99,9 +99,9 @@
 1 Inscription of Abundance
 2 Inscription of Abundance
 5 Forest
+6 Forest
 7 Forest
 8 Forest
 9 Forest
 10 Forest
 11 Forest
-6 Forest

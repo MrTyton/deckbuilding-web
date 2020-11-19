@@ -94,21 +94,17 @@
 2 Elspeth's Nightmare
 3 Heraldic Banner
 3 Liliana, Waker of the Dead
-1 Pelakka Predation
-1 Order of Midnight
-1 Pestilent Haze
-1 Soul-Guide Lantern
-2 Pelakka Predation
-2 Pestilent Haze
-2 Soul-Guide Lantern
-2 Order of Midnight
-3 Mogis's Favor
-3 Order of Midnight
-3 Pelakka Predation
-4 Order of Midnight
+1 Vito, Thorn of the Dusk Rose
+1 Massacre Wurm
+1 Witch's Cottage
+2 Vito, Thorn of the Dusk Rose
+2 Witch's Cottage
+3 Vito, Thorn of the Dusk Rose
+3 Nullpriest of Oblivion
+4 Nullpriest of Oblivion
+1 Witch's Cauldron
 1 Bastion of Remembrance
 1 Taborax, Hope's Demise
-1 Witch's Cauldron
 1 Discordant Piper
 2 Bastion of Remembrance
 2 Discordant Piper
@@ -118,14 +114,18 @@
 4 Bastion of Remembrance
 3 Hagra Mauling
 4 Lurrus of the Dream-Den
-1 Witch's Cottage
-1 Massacre Wurm
-1 Vito, Thorn of the Dusk Rose
-2 Witch's Cottage
-2 Vito, Thorn of the Dusk Rose
-3 Nullpriest of Oblivion
-3 Vito, Thorn of the Dusk Rose
-4 Nullpriest of Oblivion
+1 Pelakka Predation
+1 Order of Midnight
+1 Pestilent Haze
+1 Soul-Guide Lantern
+2 Pelakka Predation
+2 Pestilent Haze
+2 Soul-Guide Lantern
+2 Order of Midnight
+3 Order of Midnight
+3 Pelakka Predation
+3 Mogis's Favor
+4 Order of Midnight
 1 Duress
 2 Duress
 4 Rankle, Master of Pranks
@@ -146,20 +146,20 @@
 1 Gutterbones
 2 Knight of the Ebon Legion
 2 Field of Ruin
-2 Noxious Grasp
 2 Rotting Regisaur
+2 Noxious Grasp
 2 Spawn of Mayhem
 2 Gutterbones
-3 Demonic Embrace
 3 Field of Ruin
 3 Rotting Regisaur
 3 Knight of the Ebon Legion
 3 Tymaret, Chosen from Death
 3 Noxious Grasp
 3 Spawn of Mayhem
+3 Demonic Embrace
 3 Gutterbones
-4 Knight of the Ebon Legion
 4 Rotting Regisaur
+4 Knight of the Ebon Legion
 4 Noxious Grasp
 4 Gutterbones
 1 Evolving Wilds
@@ -179,8 +179,8 @@
 2 Deathless Knight
 2 Forest
 2 Silversmote Ghoul
-3 Savvy Hunter
 3 Jungle Hollow
+3 Savvy Hunter
 3 Deathless Knight
 3 Forest
 3 Silversmote Ghoul
@@ -197,6 +197,6 @@
 2 Pharika's Spawn
 3 Foulmire Knight
 3 Underworld Dreams
-4 Gray Merchant of Asphodel
 4 Underworld Dreams
+4 Gray Merchant of Asphodel
 24 Swamp

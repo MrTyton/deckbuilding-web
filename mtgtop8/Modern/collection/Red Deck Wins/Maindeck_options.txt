@@ -1,8 +1,8 @@
 3 Light Up the Stage
 3 Soul-Scar Mage
-4 Light Up the Stage
 4 Mountain
 4 Soul-Scar Mage
+4 Light Up the Stage
 5 Mountain
 6 Mountain
 7 Mountain
@@ -17,10 +17,10 @@
 14 Mountain
 1 Firebolt
 1 Flame Slash
-2 Flame Slash
 2 Firebolt
-3 Bonecrusher Giant
+2 Flame Slash
 3 Firebolt
+3 Bonecrusher Giant
 4 Bonecrusher Giant
 4 Firebolt
 1 Lava Dart
@@ -69,14 +69,14 @@
 2 Atarka's Command
 3 Atarka's Command
 4 Atarka's Command
-1 Manamorphose
 1 Crash Through
 1 Kiln Fiend
 1 Bedlam Reveler
-2 Manamorphose
+1 Manamorphose
 2 Crash Through
 2 Kiln Fiend
 2 Bedlam Reveler
+2 Manamorphose
 3 Crash Through
 3 Bedlam Reveler
 3 Kiln Fiend
@@ -92,8 +92,8 @@
 3 Abbot of Keral Keep
 4 Abbot of Keral Keep
 1 Snow-Covered Mountain
-1 Castle Embereth
 1 Shard Volley
+1 Castle Embereth
 1 Forked Bolt
 1 Burst Lightning
 1 Mutagenic Growth
