@@ -40,7 +40,6 @@
 3 Snow-Covered Swamp
 3 Dark Ritual
 4 Dark Ritual
-1 Mystic Sanctuary
 1 Teferi, Time Raveler
 1 Snapcaster Mage
 1 Scalding Tarn
@@ -56,6 +55,7 @@
 1 Enlightened Tutor
 1 Drowned Catacomb
 1 Murderous Cut
+1 Spell Pierce
 1 Counterspell
 1 Iona, Shield of Emeria
 1 Elesh Norn, Grand Cenobite
@@ -63,18 +63,18 @@
 1 Unburial Rites
 1 Jin-Gitaxias, Core Augur
 1 Torpor Orb
-1 Spell Pierce
 1 Rest in Peace
 1 Moat
 1 Jace, the Mind Sculptor
 1 Misdirection
-1 Inkwell Leviathan
 1 Supreme Verdict
+1 Inkwell Leviathan
 1 Baleful Strix
 1 Leyline of Sanctity
 1 Cunning Wish
 1 Brainstorm
 1 Serum Visions
+1 Mystic Sanctuary
 1 Flusterstorm
 1 Personal Tutor
 1 Gifts Ungiven
@@ -109,18 +109,18 @@
 2 Teferi, Time Raveler
 2 Snapcaster Mage
 2 Polluted Delta
-2 Toxic Deluge
 2 Intuition
-2 Tundra
+2 Toxic Deluge
 2 Ancient Tomb
+2 Tundra
 2 Spell Pierce
 2 Personal Tutor
 2 Mystic Sanctuary
-2 Scalding Tarn
 2 Celestial Colonnade
 2 Karakas
 2 Marsh Flats
 2 Drowned Catacomb
+2 Scalding Tarn
 2 Portent
 2 Arid Mesa
 2 Counterspell
@@ -164,24 +164,23 @@
 3 Scalding Tarn
 3 Teferi, Time Raveler
 3 Flooded Strand
-3 Emrakul, the Aeons Torn
 3 Jace, the Mind Sculptor
 3 Impulse
 3 Arid Mesa
+3 Emrakul, the Aeons Torn
 3 Polluted Delta
 3 Tundra
 3 Tolaria West
 3 Marsh Flats
 3 Spell Pierce
-3 Scrubland
 3 Swords to Plowshares
+3 Scrubland
 3 Mystic Sanctuary
 3 Ancient Tomb
 3 Intuition
 3 Counterspell
 3 Celestial Colonnade
 3 Snow-Covered Plains
-3 Flusterstorm
 3 Pact of Negation
 3 Baleful Strix
 3 Enlightened Tutor
@@ -189,6 +188,7 @@
 3 Force of Will
 3 Brainstorm
 3 Serum Visions
+3 Flusterstorm
 3 Personal Tutor
 3 Omniscience
 3 Windswept Heath
@@ -212,17 +212,17 @@
 3 Battle of Wits
 4 Preordain
 4 Flooded Strand
-4 Cunning Wish
 4 Impulse
 4 Teferi, Time Raveler
+4 Cunning Wish
 4 Terminus
 4 Underground Sea
 4 Baleful Strix
 4 Polluted Delta
+4 Celestial Colonnade
 4 Marsh Flats
 4 Tolaria West
 4 Spell Pierce
-4 Celestial Colonnade
 4 Tundra
 4 Arcum's Astrolabe
 4 Battle of Wits

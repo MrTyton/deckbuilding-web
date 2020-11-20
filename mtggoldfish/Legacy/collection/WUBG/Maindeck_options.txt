@@ -94,11 +94,11 @@
 2 Waterlogged Grove
 2 Skyclave Apparition
 2 Tundra
-3 Waterlogged Grove
-3 Jolrael, Mwonvuli Recluse
 3 Preordain
+3 Jolrael, Mwonvuli Recluse
 3 Skyclave Apparition
 3 Tundra
+3 Waterlogged Grove
 4 Stoneforge Mystic
 4 Waterlogged Grove
 2 Palace Jailer
@@ -123,6 +123,17 @@
 2 Stifle
 2 Pyroblast
 3 Stifle
+1 Sword of Fire and Ice
+1 Sevinne's Reclamation
+1 Venser, Shaper Savant
+1 Sword of the Meek
+1 Thopter Foundry
+1 Vendilion Clique
+1 Urza, Lord High Artificer
+2 Thopter Foundry
+2 Snow-Covered Plains
+2 Urza, Lord High Artificer
+4 Snow-Covered Island
 1 Plains
 1 Scalding Tarn
 1 Growth Spiral
@@ -139,17 +150,6 @@
 2 Primeval Titan
 3 Growth Spiral
 4 Growth Spiral
-1 Sword of Fire and Ice
-1 Sevinne's Reclamation
-1 Venser, Shaper Savant
-1 Sword of the Meek
-1 Thopter Foundry
-1 Vendilion Clique
-1 Urza, Lord High Artificer
-2 Thopter Foundry
-2 Snow-Covered Plains
-2 Urza, Lord High Artificer
-4 Snow-Covered Island
 1 Birds of Paradise
 1 Knight of the Reliquary
 1 Scrubland
@@ -176,8 +176,8 @@
 1 Dark Depths
 1 Bojuka Bog
 2 Underground Sea
-2 Leovold, Emissary of Trest
 2 Thoughtseize
+2 Leovold, Emissary of Trest
 2 Crop Rotation
 3 Crop Rotation
 3 Snapcaster Mage

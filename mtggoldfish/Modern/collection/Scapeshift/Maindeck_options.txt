@@ -41,12 +41,12 @@
 1 Temple Garden
 1 Sacred Foundry
 1 Windswept Heath
-1 Sejiri Shelter
 1 Elvish Reclaimer
 1 Flagstones of Trokair
 1 Akoum Hellhound
 1 Sejiri Steppe
 1 Atarka's Command
+1 Sejiri Shelter
 1 Sunbaked Canyon
 1 Brushfire Elemental
 1 Arid Mesa
@@ -64,8 +64,8 @@
 2 Steppe Lynx
 2 Arid Mesa
 3 Akoum Hellhound
-3 Brushfire Elemental
 3 Elvish Reclaimer
+3 Brushfire Elemental
 3 Atarka's Command
 3 Sacred Foundry
 3 Mishra's Bauble
@@ -73,9 +73,9 @@
 3 Flagstones of Trokair
 3 Windswept Heath
 4 Wooded Foothills
-4 Brushfire Elemental
-4 Akoum Hellhound
 4 Elvish Reclaimer
+4 Akoum Hellhound
+4 Brushfire Elemental
 4 Mishra's Bauble
 4 Flagstones of Trokair
 4 Windswept Heath
@@ -146,8 +146,8 @@
 3 Abundant Growth
 3 Mystic Sanctuary
 4 Snow-Covered Island
-4 Abundant Growth
 4 Ice-Fang Coatl
+4 Abundant Growth
 5 Snow-Covered Island
 1 Vendilion Clique
 1 Castle Vantress
@@ -197,6 +197,11 @@
 2 Maddening Cacophony
 3 Verdant Catacombs
 4 Verdant Catacombs
+4 Censor
+1 Brazen Borrower
+2 Brazen Borrower
+2 Flame Slash
+4 Wrenn and Six
 1 Explore
 1 Jwari Disruption
 1 Peer Through Depths
@@ -205,8 +210,3 @@
 2 Peer Through Depths
 3 Jwari Disruption
 4 Jwari Disruption
-4 Censor
-1 Brazen Borrower
-2 Brazen Borrower
-2 Flame Slash
-4 Wrenn and Six

@@ -18,8 +18,8 @@
 1 Steam Vents
 4 Flooded Strand
 1 Scalding Tarn
-1 Snow-Covered Island
 1 Snow-Covered Plains
+1 Snow-Covered Island
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
@@ -32,16 +32,6 @@
 3 Snapcaster Mage
 3 Lightning Bolt
 4 Remand
-1 Verdant Catacombs
-1 Batterskull
-1 Stoneforge Mystic
-2 Verdant Catacombs
-2 Stoneforge Mystic
-2 Batterskull
-3 Prismatic Vista
-3 Stoneforge Mystic
-4 Prismatic Vista
-4 Stoneforge Mystic
 1 Growth Spiral
 1 Field of the Dead
 1 Mystic Sanctuary
@@ -55,6 +45,16 @@
 2 Primeval Titan
 3 Growth Spiral
 4 Growth Spiral
+1 Verdant Catacombs
+1 Batterskull
+1 Stoneforge Mystic
+2 Verdant Catacombs
+2 Stoneforge Mystic
+2 Batterskull
+3 Prismatic Vista
+3 Stoneforge Mystic
+4 Prismatic Vista
+4 Stoneforge Mystic
 1 Wall of Blossoms
 1 Lotus Cobra
 1 Delay
@@ -65,13 +65,13 @@
 1 Force of Negation
 1 Jace, the Mind Sculptor
 1 Opt
+2 Flagstones of Trokair
 2 Force of Negation
 2 Snow-Covered Island
-2 Flagstones of Trokair
 2 Cleansing Wildfire
 2 Opt
-3 Snow-Covered Island
 3 Flagstones of Trokair
+3 Snow-Covered Island
 3 Cleansing Wildfire
 3 Opt
 4 Cleansing Wildfire
@@ -84,15 +84,15 @@
 1 Sulfur Falls
 2 Arid Mesa
 2 Peek
-2 Narset, Parter of Veils
 2 Sacred Foundry
 2 Spreading Seas
+2 Narset, Parter of Veils
 2 Sulfur Falls
 2 Island
 2 Hallowed Fountain
 3 Arid Mesa
-3 Narset, Parter of Veils
 3 Spreading Seas
+3 Narset, Parter of Veils
 3 Peek
 4 Arid Mesa
 4 Lightning Bolt

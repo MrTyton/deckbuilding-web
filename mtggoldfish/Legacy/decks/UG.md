@@ -91,7 +91,7 @@
 |                    2|[Tropical Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=884)            |                     |                                                                                              |
 |                    3|[Tropical Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=884)            |                     |                                                                                              |
 |                    3|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)    |                     |                                                                                              |
-|                    4|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)    |                     |                                                                                              |
 |                    4|[Tropical Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=884)            |                     |                                                                                              |
+|                    4|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)    |                     |                                                                                              |
 |                    4|[Emry, Lurker of the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473005)|                     |                                                                                              |
 

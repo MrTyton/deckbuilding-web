@@ -25,9 +25,9 @@
 
 |*n*<sup>th</sup> copy|                                     Maindeck Card                                      |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|Needleverge Pathway                                                                     |                    3|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
+|                    1|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)        |                    3|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
 |                    1|Wayward Guide-Beast                                                                     |                    1|[Light of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479540)     |
-|                    1|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)        |                    4|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
+|                    1|Needleverge Pathway                                                                     |                    4|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
 |                    1|[Insult/Injury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426915)|                    1|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)        |
 |                     |                                                                                        |                    2|[Light of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479540)     |
 |                     |                                                                                        |                    2|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)        |

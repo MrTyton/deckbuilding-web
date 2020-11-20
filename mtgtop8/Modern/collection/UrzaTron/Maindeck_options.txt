@@ -54,7 +54,6 @@
 2 All Is Dust
 3 Oblivion Stone
 3 Thragtusk
-1 River of Tears
 1 Talisman of Progress
 1 Gifts Ungiven
 1 Watery Grave
@@ -64,6 +63,7 @@
 1 Seachrome Coast
 1 Flooded Strand
 1 Hallowed Fountain
+1 River of Tears
 1 Plains
 1 Emry, Lurker of the Loch
 2 Gifts Ungiven
@@ -75,10 +75,6 @@
 3 Emry, Lurker of the Loch
 4 Emry, Lurker of the Loch
 4 Gifts Ungiven
-2 Dismember
-3 Snow-Covered Forest
-3 Dismember
-4 Snow-Covered Forest
 1 Oboro, Palace in the Clouds
 1 Eldrazi Temple
 2 Gemstone Caverns
@@ -87,6 +83,10 @@
 4 Repeal
 4 Thought-Knot Seer
 4 Chalice of the Void
+2 Dismember
+3 Snow-Covered Forest
+3 Dismember
+4 Snow-Covered Forest
 1 Treasure Mage
 1 Snow-Covered Island
 4 Thirst for Knowledge
