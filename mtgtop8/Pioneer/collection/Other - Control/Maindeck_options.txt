@@ -19,9 +19,9 @@
 1 Mystical Dispute
 2 Kenrith, the Returned King
 4 Temple Garden
+1 Inspired Ultimatum
 1 Prophet of Kruphix
 1 Temple of Mystery
-1 Inspired Ultimatum
 2 Prophet of Kruphix
 2 Dryad of the Ilysian Grove
 3 Dryad of the Ilysian Grove
@@ -153,6 +153,7 @@
 1 Crypt Incursion
 1 Breaking / Entering
 2 Merfolk Secretkeeper
+2 Drown in the Loch
 2 Didn't Say Please
 2 Clearwater Pathway
 2 Maddening Cacophony
@@ -163,7 +164,6 @@
 2 Breaking / Entering
 2 Jwari Disruption
 2 Drowned Secrets
-2 Drown in the Loch
 2 Ipnu Rivulet
 3 Merfolk Secretkeeper
 3 Crypt Incursion
@@ -189,8 +189,8 @@
 1 Spikefield Hazard
 1 Indatha Triome
 1 Golos, Tireless Pilgrim
-1 Jolrael, Mwonvuli Recluse
 1 Shatterskull Smashing
+1 Jolrael, Mwonvuli Recluse
 2 Jolrael, Mwonvuli Recluse
 1 Cling to Dust
 1 The Scarab God
@@ -206,26 +206,26 @@
 2 Cragcrown Pathway
 2 Voice of Resurgence
 3 Voice of Resurgence
-1 Ritual of Soot
-1 Hieroglyphic Illumination
 1 Torrential Gearhulk
-1 Erebos's Intervention
+1 Hieroglyphic Illumination
 1 Void Shatter
+1 Erebos's Intervention
 1 Vraska's Contempt
 1 Unwind
+1 Ritual of Soot
 1 Glimmer of Genius
 1 Sinister Sabotage
 2 Torrential Gearhulk
+2 Void Shatter
 2 Castle Vantress
+2 Castle Locthwain
 2 Negate
 2 Ritual of Soot
 2 Glimmer of Genius
-2 Void Shatter
-2 Castle Locthwain
 3 Fetid Pools
+3 Void Shatter
 3 Field of Ruin
 3 Censor
-3 Void Shatter
 3 Torrential Gearhulk
 1 Bonecrusher Giant
 1 Urban Evolution
@@ -251,33 +251,33 @@
 3 Nissa, Who Shakes the World
 3 Oath of Nissa
 4 Oath of Nissa
-1 Kolaghan's Command
 1 Dragonskull Summit
 1 Kroxa, Titan of Death's Hunger
 1 Collective Brutality
 1 Liliana, Waker of the Dead
+1 Kolaghan's Command
 1 Davriel, Rogue Shadowmage
 1 Thought Erasure
 1 Blood Crypt
 1 Nicol Bolas, the Ravager
 2 Sulfur Falls
-2 Collective Brutality
 2 Dragonskull Summit
 2 Kroxa, Titan of Death's Hunger
-2 Kolaghan's Command
 2 Liliana, Waker of the Dead
 2 Blood Crypt
 2 Thought Erasure
 2 Nicol Bolas, the Ravager
+2 Kolaghan's Command
 2 Davriel, Rogue Shadowmage
+2 Collective Brutality
 3 Kroxa, Titan of Death's Hunger
-3 Liliana, Waker of the Dead
 3 Davriel, Rogue Shadowmage
+3 Liliana, Waker of the Dead
 3 Nicol Bolas, the Ravager
 3 Thought Erasure
+4 Nicol Bolas, the Ravager
 4 Kroxa, Titan of Death's Hunger
 4 Fatal Push
-4 Nicol Bolas, the Ravager
 4 Thought Erasure
 4 Liliana, Waker of the Dead
 4 Davriel, Rogue Shadowmage

@@ -18,10 +18,10 @@
 1 Smuggler's Copter
 2 Smuggler's Copter
 3 Harbinger of the Tides
-1 Wanderwine Hub
 1 Seachrome Coast
-2 Wanderwine Hub
+1 Wanderwine Hub
 2 Seachrome Coast
+2 Wanderwine Hub
 3 Seachrome Coast
 3 Wanderwine Hub
 4 Wanderwine Hub
@@ -67,8 +67,8 @@
 1 Path to Exile
 2 Path to Exile
 3 Path to Exile
-4 Path to Exile
 4 Seachrome Coast
+4 Path to Exile
 3 Merrow Reejerey
 4 Merrow Reejerey
 13 Island
@@ -77,17 +77,17 @@
 2 Tidebinder Mage
 3 Tidebinder Mage
 1 Fiery Islet
-1 Sea's Claim
-2 Sea's Claim
 1 Clearwater Pathway
 2 Clearwater Pathway
+1 Sea's Claim
+2 Sea's Claim
 1 Coralhelm Commander
 2 Hallowed Fountain
 2 Coralhelm Commander
 3 Coralhelm Commander
 1 Minamo, School at Water's Edge
-1 Spell Pierce
 1 Vapor Snag
+1 Spell Pierce
 1 Ghost Quarter
 1 Cursecatcher
 2 Cursecatcher
@@ -100,16 +100,19 @@
 1 Mistcaller
 2 Boomerang
 4 Master of Waves
+3 Flooded Strand
+4 Flooded Strand
+4 Tidebinder Mage
 1 Bonecrusher Giant
 1 The Royal Scions
-1 Lightning Bolt
 1 Kira, Great Glass-Spinner
+1 Lightning Bolt
 1 Spirebluff Canal
 1 Steam Vents
-2 The Royal Scions
 2 Steam Vents
 2 Lightning Bolt
 2 Bonecrusher Giant
+2 The Royal Scions
 2 Fiery Islet
 2 Spirebluff Canal
 3 Lightning Bolt
@@ -123,9 +126,6 @@
 4 Brazen Borrower
 4 Smuggler's Copter
 4 Faerie Conclave
-3 Flooded Strand
-4 Tidebinder Mage
-4 Flooded Strand
 11 Snow-Covered Island
 12 Snow-Covered Island
 14 Island

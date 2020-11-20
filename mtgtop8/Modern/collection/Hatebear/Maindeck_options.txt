@@ -1,19 +1,19 @@
 1 Sunbaked Canyon
 2 Shefet Dunes
 2 Horizon Canopy
-1 Seachrome Coast
 1 Spell Queller
 1 Island
 1 Hallowed Fountain
-2 Seachrome Coast
+1 Seachrome Coast
 2 Spell Queller
 2 Hallowed Fountain
-3 Seachrome Coast
+2 Seachrome Coast
 3 Hallowed Fountain
 3 Spell Queller
-4 Seachrome Coast
-4 Spell Queller
+3 Seachrome Coast
 4 Hallowed Fountain
+4 Spell Queller
+4 Seachrome Coast
 1 Selfless Savior
 1 Glasspool Mimic
 1 Confounding Conundrum
@@ -22,11 +22,11 @@
 2 Glasspool Mimic
 2 Confounding Conundrum
 2 Adarkar Wastes
-3 Glasspool Mimic
 3 Confounding Conundrum
 3 Adarkar Wastes
-4 Glasspool Mimic
+3 Glasspool Mimic
 4 Confounding Conundrum
+4 Glasspool Mimic
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 3 Silent Clearing
@@ -77,17 +77,17 @@
 2 Concealed Courtyard
 2 Tidehollow Sculler
 2 Caves of Koilos
-3 Caves of Koilos
 3 Concealed Courtyard
+3 Caves of Koilos
 3 Brightclimb Pathway
-3 Charming Prince
 3 Wasteland Strangler
 3 Tidehollow Sculler
+3 Charming Prince
 4 Charming Prince
-4 Caves of Koilos
 4 Concealed Courtyard
-4 Brightclimb Pathway
+4 Caves of Koilos
 4 Wasteland Strangler
+4 Brightclimb Pathway
 4 Tidehollow Sculler
 1 Restoration Angel
 1 Spellskite
@@ -96,11 +96,11 @@
 1 Linvala, Keeper of Silence
 1 Sword of Feast and Famine
 2 Skyclave Cleric
+1 Waterlogged Grove
 1 Unsettled Mariner
 1 Spirit of the Labyrinth
 1 Tale's End
 1 Mausoleum Wanderer
-1 Waterlogged Grove
 2 Unsettled Mariner
 2 Spirit of the Labyrinth
 2 Tale's End
@@ -108,36 +108,36 @@
 2 Mausoleum Wanderer
 3 Unsettled Mariner
 3 Island
-1 Reality Smasher
 1 Wastes
 1 Battlefield Forge
 1 Simian Spirit Guide
+1 Reality Smasher
 1 Inspiring Vantage
 1 Containment Priest
 1 Gemstone Caverns
 1 Bonecrusher Giant
 1 Chalice of the Void
-2 Reality Smasher
-2 Battlefield Forge
-2 Chalice of the Void
 2 Sunbaked Canyon
+2 Chalice of the Void
 2 Simian Spirit Guide
+2 Reality Smasher
 2 Containment Priest
 2 Gemstone Caverns
 2 Bonecrusher Giant
-3 Reality Smasher
-3 Battlefield Forge
+2 Battlefield Forge
 3 Sunbaked Canyon
-3 Containment Priest
 3 Chalice of the Void
 3 Gemstone Caverns
 3 Simian Spirit Guide
-4 Reality Smasher
-4 Battlefield Forge
-4 Containment Priest
+3 Containment Priest
+3 Reality Smasher
+3 Battlefield Forge
 4 Chalice of the Void
 4 Simian Spirit Guide
 4 Sunbaked Canyon
+4 Reality Smasher
+4 Battlefield Forge
+4 Containment Priest
 1 Branchloft Pathway
 1 Razorverge Thicket
 1 Aven Mindcensor

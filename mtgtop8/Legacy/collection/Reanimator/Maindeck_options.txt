@@ -36,9 +36,9 @@
 2 Cabal Therapy
 3 Cabal Therapy
 1 Ashen Rider
-1 Massacre Wurm
 1 Duress
 1 Iona, Shield of Emeria
+1 Massacre Wurm
 1 Grave Titan
 2 Duress
 2 Grave Titan
@@ -81,36 +81,11 @@
 4 Bloodstained Mire
 2 Flooded Strand
 4 Thoughtseize
-1 Taiga
-1 Berserk
-1 Titanoth Rex
-1 Rotting Regisaur
-1 Pithing Needle
-1 Ancient Tomb
-1 Not of This World
-1 Gishath, Sun's Avatar
-1 Mana Confluence
-2 Berserk
-2 Titanoth Rex
-2 Rotting Regisaur
-2 Gishath, Sun's Avatar
-2 Mana Confluence
-3 Swamp
-3 Rotting Regisaur
-3 Titanoth Rex
-3 Mana Confluence
-3 Gishath, Sun's Avatar
-3 Berserk
-4 Swamp
-4 Rotting Regisaur
-4 Titanoth Rex
-4 Mana Confluence
-4 Berserk
 1 Force of Negation
 1 Ice-Fang Coatl
 1 Snow-Covered Forest
-1 Oko, Thief of Crowns
 1 Veil of Summer
+1 Oko, Thief of Crowns
 1 Worldgorger Dragon
 1 Ishkanah, Grafwidow
 1 Arcum's Astrolabe
@@ -119,8 +94,8 @@
 2 Snow-Covered Forest
 2 Ice-Fang Coatl
 2 Snow-Covered Island
-2 Oko, Thief of Crowns
 2 Veil of Summer
+2 Oko, Thief of Crowns
 2 Uro, Titan of Nature's Wrath
 2 Arcum's Astrolabe
 2 Abrupt Decay
@@ -134,6 +109,31 @@
 4 Ice-Fang Coatl
 4 Misty Rainforest
 4 Arcum's Astrolabe
+1 Taiga
+1 Berserk
+1 Rotting Regisaur
+1 Pithing Needle
+1 Titanoth Rex
+1 Ancient Tomb
+1 Not of This World
+1 Gishath, Sun's Avatar
+1 Mana Confluence
+2 Berserk
+2 Rotting Regisaur
+2 Gishath, Sun's Avatar
+2 Mana Confluence
+2 Titanoth Rex
+3 Swamp
+3 Rotting Regisaur
+3 Mana Confluence
+3 Gishath, Sun's Avatar
+3 Berserk
+3 Titanoth Rex
+4 Swamp
+4 Rotting Regisaur
+4 Mana Confluence
+4 Berserk
+4 Titanoth Rex
 1 Spellseeker
 1 Teferi, Time Raveler
 1 Unburial Rites

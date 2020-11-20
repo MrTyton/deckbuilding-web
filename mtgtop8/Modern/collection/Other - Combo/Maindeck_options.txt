@@ -5,13 +5,13 @@
 2 Goblin Charbelcher
 3 Goblin Charbelcher
 4 Goblin Charbelcher
-1 Bala Ged Recovery
 1 Spikefield Hazard
 1 Valakut Awakening
 1 Recross the Paths
 1 Manamorphose
 1 Reforge the Soul
 1 Desperate Ritual
+1 Bala Ged Recovery
 1 Pyretic Ritual
 1 Irencrag Feat
 2 Spikefield Hazard
@@ -62,13 +62,13 @@
 1 Watery Grave
 1 Fatal Push
 1 Inverter of Truth
-2 River of Tears
 2 Watery Grave
 2 Remand
 2 Polluted Delta
 2 Inquisition of Kozilek
 2 Fatal Push
 2 Jace, Wielder of Mysteries
+2 River of Tears
 2 Inverter of Truth
 3 Fatal Push
 3 Remand
@@ -131,8 +131,8 @@
 1 Teferi, Hero of Dominaria
 1 Skyclave Cleric
 1 Silundi Vision
-1 Talisman of Progress
 1 Jwari Disruption
+1 Talisman of Progress
 1 Teferi, Time Raveler
 1 Beyeen Veil
 1 Pieces of the Puzzle
@@ -143,13 +143,13 @@
 1 Snapback
 2 Silundi Vision
 2 Skyclave Cleric
+2 Jwari Disruption
 2 Talisman of Progress
 2 Selective Memory
 2 Path to Exile
 2 Disrupting Shoal
 2 Teferi, Time Raveler
 2 Snapback
-2 Jwari Disruption
 2 Beyeen Veil
 2 Pieces of the Puzzle
 3 Jwari Disruption
@@ -227,9 +227,9 @@
 4 Attune with Aether
 4 Aether Hub
 1 Sphere of the Suns
-1 Memory's Journey
 1 Creeping Tar Pit
 1 Castle Vantress
+1 Memory's Journey
 1 Worldspine Wurm
 1 Eliminate
 1 Leveler
@@ -251,7 +251,6 @@
 4 Omen of the Sea
 4 Darkslick Shores
 1 Lotus Field
-1 Empty the Warrens
 1 Shivan Reef
 1 Peer Through Depths
 1 Ideas Unbound
@@ -263,6 +262,7 @@
 1 Psychic Puppetry
 1 Grapeshot
 1 Past in Flames
+1 Empty the Warrens
 1 Sleight of Hand
 1 Dream's Grip
 1 Vizier of Tumbling Sands
@@ -283,19 +283,19 @@
 2 Twiddle
 3 Sleight of Hand
 3 Lonely Sandbar
-3 Shivan Reef
 3 Past in Flames
 3 Serum Visions
 3 Ideas Unbound
+3 Shivan Reef
 3 Psychic Puppetry
 3 Peer Through Depths
 3 Lotus Field
 3 Dream's Grip
 3 Reach Through Mists
-4 Sleight of Hand
 4 Serum Visions
 4 Lonely Sandbar
 4 Shivan Reef
+4 Sleight of Hand
 4 Lotus Field
 4 Reach Through Mists
 4 Peer Through Depths
