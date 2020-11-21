@@ -28,9 +28,9 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Apostle's Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397768)|                    1|Skyclave Apparition                                                                         |
-|                    1|[Swiftfoot Boots](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442223)   |                    1|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)      |
-|                     |                                                                                             |                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)|
+|                    1|[Apostle's Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397768)|                    1|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)      |
+|                    1|[Swiftfoot Boots](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442223)   |                    1|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)|
+|                     |                                                                                             |                    1|Skyclave Apparition                                                                         |
 |                     |                                                                                             |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
 |                     |                                                                                             |                    1|[Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802)  |
 |                     |                                                                                             |                    2|[Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802)  |
@@ -38,6 +38,6 @@
 |                     |                                                                                             |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
 |                     |                                                                                             |                    2|[Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)|
 |                     |                                                                                             |                    2|Skyclave Apparition                                                                         |
-|                     |                                                                                             |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
 |                     |                                                                                             |                    3|Skyclave Apparition                                                                         |
+|                     |                                                                                             |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
 

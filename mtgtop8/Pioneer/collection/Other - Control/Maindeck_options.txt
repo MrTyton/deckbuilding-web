@@ -128,8 +128,8 @@
 4 Absorb
 4 Shark Typhoon
 4 Omen of the Sea
-4 Azorius Charm
 4 Sacred Foundry
+4 Azorius Charm
 4 Hallowed Fountain
 4 Steam Vents
 1 Zagoth Triome
@@ -139,8 +139,8 @@
 2 Hydroid Krasis
 4 Breeding Pool
 3 Swamp
-1 Drown in the Loch
 1 Merfolk Secretkeeper
+1 Drown in the Loch
 1 Clearwater Pathway
 1 Didn't Say Please
 1 Maddening Cacophony
@@ -159,11 +159,11 @@
 2 Maddening Cacophony
 2 Crypt Incursion
 2 Ruin Crab
-2 Sea Gate Stormcaller
 2 Fraying Sanity
 2 Breaking / Entering
 2 Jwari Disruption
 2 Drowned Secrets
+2 Sea Gate Stormcaller
 2 Ipnu Rivulet
 3 Merfolk Secretkeeper
 3 Crypt Incursion
@@ -281,58 +281,6 @@
 4 Thought Erasure
 4 Liliana, Waker of the Dead
 4 Davriel, Rogue Shadowmage
-1 Arboreal Grazer
-2 Arboreal Grazer
-3 Arboreal Grazer
-1 Gateway Plaza
-1 Gatecreeper Vine
-1 Plaza of Harmony
-1 Azorius Guildgate
-1 Dimir Guildgate
-1 Gruul Guildgate
-1 Selesnya Guildgate
-1 Golgari Guildgate
-1 Izzet Guildgate
-1 Gate Colossus
-1 Simic Guildgate
-1 Guild Summit
-1 Gates Ablaze
-1 Maze's End
-1 Rakdos Guildgate
-1 Gatebreaker Ram
-1 Mythos of Nethroi
-1 Orzhov Guildgate
-1 Boros Guildgate
-2 Simic Guildgate
-2 Guild Summit
-2 Gatebreaker Ram
-2 Gatecreeper Vine
-2 Mythos of Nethroi
-2 Plaza of Harmony
-2 Maze's End
-2 Gruul Guildgate
-2 Gates Ablaze
-2 Golgari Guildgate
-2 Izzet Guildgate
-2 Gate Colossus
-3 Gruul Guildgate
-3 Gates Ablaze
-3 Izzet Guildgate
-3 Gate Colossus
-3 Simic Guildgate
-3 Guild Summit
-3 Gatebreaker Ram
-3 Gatecreeper Vine
-3 Plaza of Harmony
-4 Izzet Guildgate
-4 Gates Ablaze
-4 Plaza of Harmony
-4 Arboreal Grazer
-4 Gatebreaker Ram
-4 Gruul Guildgate
-4 Simic Guildgate
-4 Guild Summit
-4 Gatecreeper Vine
 1 Calix, Destiny's Hand
 1 Mana Bloom
 1 Eidolon of Blossoms
@@ -369,21 +317,22 @@
 3 Wolfwillow Haven
 3 Herald of the Pantheon
 3 Banishing Light
+4 Temple of Plenty
 4 Banishing Light
 4 Herald of the Pantheon
 4 Eidolon of Blossoms
 4 Wolfwillow Haven
-4 Temple of Plenty
 1 Blast Zone
 1 Voracious Hydra
+1 Arboreal Grazer
 1 Castle Garenbrig
+1 Shrine of the Forsaken Gods
+1 Ulamog, the Ceaseless Hunger
 1 Sanctum of Ugin
 1 Elvish Rejuvenator
 1 Yavimaya Coast
 1 Cavalier of Thorns
 1 World Breaker
-1 Shrine of the Forsaken Gods
-1 Ulamog, the Ceaseless Hunger
 1 Botanical Sanctum
 2 Castle Garenbrig
 2 Zagoth Triome
@@ -392,6 +341,7 @@
 2 Cavalier of Thorns
 2 Botanical Sanctum
 2 Voracious Hydra
+2 Arboreal Grazer
 2 Elvish Rejuvenator
 2 Shrine of the Forsaken Gods
 2 Yavimaya Coast
@@ -402,6 +352,7 @@
 3 Yavimaya Coast
 3 Voracious Hydra
 3 Botanical Sanctum
+3 Arboreal Grazer
 3 Castle Garenbrig
 4 Cavalier of Thorns
 4 Elvish Rejuvenator

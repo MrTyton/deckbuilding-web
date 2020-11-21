@@ -49,8 +49,8 @@
 |                    4|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)             |                     |              |
 |                    4|[Absorb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=23155)                       |                     |              |
 |                    4|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)            |                     |              |
-|                    4|[Irrigated Farmland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426947)          |                     |              |
 |                    4|[Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)               |                     |              |
+|                    4|[Irrigated Farmland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426947)          |                     |              |
 |                    4|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)             |                     |              |
 |                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)              |                     |              |
 |                    4|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)               |                     |              |

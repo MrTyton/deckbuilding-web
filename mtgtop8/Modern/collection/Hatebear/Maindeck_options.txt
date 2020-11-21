@@ -1,5 +1,5 @@
+10 Plains
 1 Sunbaked Canyon
-2 Shefet Dunes
 2 Horizon Canopy
 1 Spell Queller
 1 Island
@@ -33,21 +33,6 @@
 4 Silent Clearing
 3 Teferi, Time Raveler
 1 Scavenger Grounds
-11 Plains
-1 Snow-Covered Plains
-2 Snow-Covered Plains
-3 Snow-Covered Plains
-4 Snow-Covered Plains
-5 Snow-Covered Plains
-6 Snow-Covered Plains
-7 Snow-Covered Plains
-8 Snow-Covered Plains
-9 Snow-Covered Plains
-10 Snow-Covered Plains
-11 Snow-Covered Plains
-1 Charming Prince
-3 Horizon Canopy
-4 Horizon Canopy
 1 Eldrazi Temple
 1 Thought-Knot Seer
 1 Eldrazi Displacer
@@ -60,10 +45,34 @@
 4 Thought-Knot Seer
 4 Eldrazi Displacer
 4 Eldrazi Temple
+1 Snow-Covered Plains
+2 Snow-Covered Plains
+3 Snow-Covered Plains
+1 Sword of Light and Shadow
+1 Sword of Feast and Famine
+1 Skyclave Cleric
+2 Skyclave Cleric
+4 Snow-Covered Plains
+5 Snow-Covered Plains
+6 Snow-Covered Plains
+7 Snow-Covered Plains
+8 Snow-Covered Plains
+11 Plains
+1 Charming Prince
+1 Wastes
+1 Reality Smasher
+2 Reality Smasher
+3 Reality Smasher
+4 Reality Smasher
+3 Horizon Canopy
+4 Horizon Canopy
 1 Deputy of Detention
 1 Lurrus of the Dream-Den
 2 Deputy of Detention
 2 Lurrus of the Dream-Den
+1 Flagstones of Trokair
+3 Skyclave Cleric
+4 Skyclave Cleric
 1 Brightclimb Pathway
 1 Tectonic Edge
 1 Wasteland Strangler
@@ -72,11 +81,11 @@
 1 Caves of Koilos
 1 Concealed Courtyard
 2 Brightclimb Pathway
-2 Charming Prince
 2 Wasteland Strangler
 2 Concealed Courtyard
 2 Tidehollow Sculler
 2 Caves of Koilos
+2 Charming Prince
 3 Concealed Courtyard
 3 Caves of Koilos
 3 Brightclimb Pathway
@@ -90,12 +99,8 @@
 4 Brightclimb Pathway
 4 Tidehollow Sculler
 1 Restoration Angel
-1 Spellskite
-1 Sword of Light and Shadow
-1 Skyclave Cleric
 1 Linvala, Keeper of Silence
-1 Sword of Feast and Famine
-2 Skyclave Cleric
+1 Spellskite
 1 Waterlogged Grove
 1 Unsettled Mariner
 1 Spirit of the Labyrinth
@@ -103,15 +108,13 @@
 1 Mausoleum Wanderer
 2 Unsettled Mariner
 2 Spirit of the Labyrinth
-2 Tale's End
 2 Island
+2 Tale's End
 2 Mausoleum Wanderer
 3 Unsettled Mariner
 3 Island
-1 Wastes
 1 Battlefield Forge
 1 Simian Spirit Guide
-1 Reality Smasher
 1 Inspiring Vantage
 1 Containment Priest
 1 Gemstone Caverns
@@ -120,22 +123,19 @@
 2 Sunbaked Canyon
 2 Chalice of the Void
 2 Simian Spirit Guide
-2 Reality Smasher
 2 Containment Priest
 2 Gemstone Caverns
 2 Bonecrusher Giant
 2 Battlefield Forge
 3 Sunbaked Canyon
 3 Chalice of the Void
-3 Gemstone Caverns
 3 Simian Spirit Guide
+3 Gemstone Caverns
 3 Containment Priest
-3 Reality Smasher
 3 Battlefield Forge
 4 Chalice of the Void
 4 Simian Spirit Guide
 4 Sunbaked Canyon
-4 Reality Smasher
 4 Battlefield Forge
 4 Containment Priest
 1 Branchloft Pathway
@@ -147,11 +147,11 @@
 2 Branchloft Pathway
 2 Temple Garden
 2 Razorverge Thicket
-2 Noble Hierarch
 2 Aven Mindcensor
+2 Noble Hierarch
 3 Branchloft Pathway
-3 Razorverge Thicket
 3 Temple Garden
+3 Razorverge Thicket
 3 Noble Hierarch
 4 Razorverge Thicket
 4 Temple Garden
@@ -162,4 +162,7 @@
 2 Phyrexian Revoker
 3 Mutavault
 4 Mutavault
+9 Snow-Covered Plains
+10 Snow-Covered Plains
+11 Snow-Covered Plains
 12 Snow-Covered Plains

@@ -12,16 +12,16 @@
 4 Nykthos, Shrine to Nyx
 1 Legion's Landing
 1 Giant Killer
-1 Luminarch Aspirant
-1 Shefet Dunes
 1 Thalia's Lieutenant
 1 Kytheon, Hero of Akros
 1 General Kudro of Drannith
 1 Godless Shrine
 1 Dire Tactics
 1 Caves of Koilos
+1 Luminarch Aspirant
 1 Concealed Courtyard
 1 Brightclimb Pathway
+1 Shefet Dunes
 1 Brave the Elements
 1 Dauntless Bodyguard
 1 Soldier of the Pantheon
@@ -49,12 +49,12 @@
 3 Luminarch Aspirant
 3 General Kudro of Drannith
 4 Dauntless Bodyguard
+4 Godless Shrine
 4 Soldier of the Pantheon
-4 Brave the Elements
 4 Concealed Courtyard
 4 Thalia's Lieutenant
 4 Caves of Koilos
-4 Godless Shrine
+4 Brave the Elements
 2 Castle Ardenvale
 3 Stasis Snare
 4 Heliod, Sun-Crowned
@@ -74,12 +74,6 @@
 2 Reflector Mage
 1 Skyclave Apparition
 2 Skyclave Apparition
-12 Plains
-13 Plains
-14 Plains
-15 Plains
-16 Plains
-17 Plains
 1 Thassa, Deep-Dwelling
 2 Thassa, Deep-Dwelling
 3 Detention Sphere
@@ -90,6 +84,12 @@
 4 Reflector Mage
 1 Speaker of the Heavens
 2 Speaker of the Heavens
+12 Plains
+13 Plains
+14 Plains
+15 Plains
+16 Plains
+17 Plains
 1 Kitesail Freebooter
 1 Liliana, Heretical Healer
 2 Kitesail Freebooter
@@ -98,50 +98,14 @@
 1 Benalish Marshal
 2 Benalish Marshal
 4 Luminarch Aspirant
-18 Plains
-1 Pacifism
-1 Ethereal Armor
-1 Karametra's Blessing
-1 All That Glitters
-1 Angelic Gift
-1 Cartouche of Solidarity
-1 Helm of the Gods
-1 Oppressive Rays
-1 Hopeful Eidolon
-1 Transcendent Envoy
-1 Sentinel's Eyes
-1 Alseid of Life's Bounty
-2 Pacifism
-2 Alseid of Life's Bounty
-2 Cartouche of Solidarity
-2 Ethereal Armor
-2 Oppressive Rays
-2 All That Glitters
-2 Hopeful Eidolon
-2 Angelic Gift
-2 Karametra's Blessing
-2 Sentinel's Eyes
-2 Helm of the Gods
-2 Transcendent Envoy
-3 Oppressive Rays
-3 Hopeful Eidolon
-3 Transcendent Envoy
-3 Alseid of Life's Bounty
-3 Ethereal Armor
-3 All That Glitters
-3 Sentinel's Eyes
-3 Karametra's Blessing
-3 Angelic Gift
-4 Alseid of Life's Bounty
-4 Hopeful Eidolon
 1 Linden, the Steadfast Queen
 1 Archangel of Thune
 1 Leonin Vanguard
 1 Ajani's Pridemate
 2 Linden, the Steadfast Queen
+2 Archangel of Thune
 2 Idyllic Grange
 2 Ajani's Pridemate
-2 Archangel of Thune
 2 Leonin Vanguard
 3 Ajani's Pridemate
 3 Skyclave Apparition
@@ -175,4 +139,5 @@
 3 Bishop of Wings
 4 Speaker of the Heavens
 4 Resplendent Angel
+18 Plains
 4 Bishop of Wings

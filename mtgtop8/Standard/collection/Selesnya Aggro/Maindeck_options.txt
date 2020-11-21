@@ -1,21 +1,22 @@
-1 The Great Henge
 2 The Great Henge
 2 Turntimber Symbiosis
 2 Charming Prince
-4 Glass Casket
 3 Elspeth Conquers Death
-1 Fabled Passage
 1 Tangled Florahedron
 2 Tangled Florahedron
-2 Fabled Passage
-3 Turntimber Symbiosis
+4 Glass Casket
+9 Forest
+1 Fabled Passage
 1 Omen of the Sun
 2 Omen of the Sun
+2 Fabled Passage
+3 Turntimber Symbiosis
 1 Yasharn, Implacable Earth
-1 Ugin, the Spirit Dragon
 3 Fabled Passage
 4 Fabled Passage
 2 Scavenging Ooze
+6 Plains
+2 Yasharn, Implacable Earth
 1 Kazandu Mammoth
 2 Kazandu Mammoth
 3 Kazandu Mammoth
@@ -25,12 +26,10 @@
 3 Lotus Cobra
 1 Murasa Rootgrazer
 1 Felidar Retreat
-2 Yasharn, Implacable Earth
 2 Murasa Rootgrazer
 2 Felidar Retreat
 3 Yasharn, Implacable Earth
 3 Felidar Retreat
-6 Plains
 4 Lotus Cobra
 1 Giant Killer
 1 Scute Swarm
@@ -45,6 +44,9 @@
 4 Scute Swarm
 4 Felidar Retreat
 3 Charming Prince
+1 Bronzehide Lion
+2 Bronzehide Lion
+3 Bronzehide Lion
 3 Scavenging Ooze
 1 Shepherd of the Flock
 1 Lovestruck Beast
@@ -60,11 +62,9 @@
 4 Shepherd of the Flock
 4 Edgewall Innkeeper
 4 Lovestruck Beast
-1 Cultivate
-2 Cultivate
-1 Bronzehide Lion
-2 Bronzehide Lion
-3 Bronzehide Lion
+1 Ugin, the Spirit Dragon
+3 Tangled Florahedron
+4 Tangled Florahedron
 4 Yasharn, Implacable Earth
 1 Indatha Triome
 2 Indatha Triome
@@ -75,9 +75,20 @@
 2 Faerie Guidemother
 3 Faerie Guidemother
 4 Giant Killer
-3 Tangled Florahedron
-4 Tangled Florahedron
+4 Elspeth Conquers Death
+7 Plains
+1 The Birth of Meletis
+1 Banishing Light
+2 Banishing Light
+4 Bronzehide Lion
+1 Bala Ged Recovery
+1 Elspeth, Sun's Nemesis
+2 Elspeth, Sun's Nemesis
+1 Cultivate
+2 Cultivate
 1 Legion Angel
+1 Wolfwillow Haven
+2 Wolfwillow Haven
 1 Ondu Inversion
 1 Crawling Barrens
 1 Mazemind Tome
@@ -87,23 +98,43 @@
 2 Mazemind Tome
 3 Mazemind Tome
 3 Indatha Triome
-4 Elspeth Conquers Death
 4 Mazemind Tome
 4 Charming Prince
 4 Indatha Triome
-7 Plains
-1 The Birth of Meletis
+1 Alseid of Life's Bounty
+1 Calix, Destiny's Hand
+1 Rambunctious Mutt
+1 Kenrith's Transformation
+1 Setessan Champion
+1 Archon of Sun's Grace
+2 The Birth of Meletis
+2 Calix, Destiny's Hand
+2 Alseid of Life's Bounty
+2 Archon of Sun's Grace
+2 Setessan Champion
+2 Rambunctious Mutt
+2 Kenrith's Transformation
+3 Calix, Destiny's Hand
+3 Banishing Light
+3 Alseid of Life's Bounty
+3 Archon of Sun's Grace
+3 Setessan Champion
+3 Kenrith's Transformation
+4 Alseid of Life's Bounty
+4 Calix, Destiny's Hand
+4 Banishing Light
+4 Archon of Sun's Grace
+4 Setessan Champion
+4 Kenrith's Transformation
+8 Plains
+9 Plains
+10 Plains
 1 Migratory Greathorn
-1 Banishing Light
-2 Banishing Light
 1 Chainweb Aracnir
-1 Bala Ged Recovery
 2 Bala Ged Recovery
 3 Omen of the Sun
 1 Kabira Takedown
-1 Elspeth, Sun's Nemesis
 1 Questing Beast
-2 Elspeth, Sun's Nemesis
 2 Questing Beast
 3 The Great Henge
 3 Vivien, Monsters' Advocate
@@ -119,7 +150,6 @@
 1 Beanstalk Giant
 1 Cragcrown Pathway
 1 Lithoform Engine
-1 Wolfwillow Haven
 1 Phylath, World Sculptor
 2 Needleverge Pathway
 2 Beanstalk Giant
@@ -128,7 +158,6 @@
 2 Lithoform Engine
 2 Phylath, World Sculptor
 2 Solemn Simulacrum
-2 Wolfwillow Haven
 2 Mountain
 3 Needleverge Pathway
 3 Cragcrown Pathway
@@ -142,5 +171,4 @@
 4 Beanstalk Giant
 4 Baneslayer Angel
 4 Wolfwillow Haven
-4 Bronzehide Lion
 10 Forest

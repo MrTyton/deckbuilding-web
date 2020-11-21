@@ -1,10 +1,6 @@
-2 Spikefield Hazard
 3 Spikefield Hazard
-3 Temple of Mystery
-5 Forest
-1 Temple of Epiphany
-3 Fabled Passage
-4 Fabled Passage
+1 Temple of Mystery
+2 Temple of Mystery
 1 Ugin, the Spirit Dragon
 1 Shatterskull Smashing
 1 Shark Typhoon
@@ -13,7 +9,6 @@
 2 Ugin, the Spirit Dragon
 3 Ugin, the Spirit Dragon
 1 Jwari Disruption
-1 Mystical Dispute
 1 Into the Roil
 1 Migration Path
 1 Fire Prophecy
@@ -21,17 +16,22 @@
 2 Migration Path
 2 Fire Prophecy
 2 Into the Roil
-3 Fire Prophecy
 3 Jwari Disruption
 3 Shark Typhoon
+3 Fire Prophecy
 4 Shark Typhoon
+3 Temple of Mystery
+1 Mystical Dispute
 4 Fire Prophecy
-1 Glasspool Mimic
 4 Jwari Disruption
 4 Ugin, the Spirit Dragon
 3 Migration Path
 6 Forest
+3 Fabled Passage
+4 Fabled Passage
+1 Glasspool Mimic
 1 Glimpse of Freedom
+1 Temple of Epiphany
 4 Temple of Mystery
 1 Vivien, Monsters' Advocate
 1 Kazandu Mammoth
@@ -41,6 +41,9 @@
 2 Elder Gargaroth
 1 Phylath, World Sculptor
 1 Soul Sear
+1 Storm's Wrath
+1 Thundering Rebuke
+1 Wilt
 1 Castle Vantress
 1 Bala Ged Recovery
 1 Lotus Cobra

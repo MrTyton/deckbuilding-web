@@ -1,3 +1,74 @@
+1 Island
+2 Plains
+3 Plains
+1 Spell Queller
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+2 Spell Queller
+3 Hallowed Fountain
+3 Teferi, Time Raveler
+4 Hallowed Fountain
+4 Teferi, Time Raveler
+1 Skyclave Cleric
+1 Skyclave Apparition
+1 Charming Prince
+2 Skyclave Apparition
+2 Skyclave Cleric
+2 Charming Prince
+3 Skyclave Apparition
+3 Charming Prince
+4 Charming Prince
+4 Skyclave Apparition
+4 Plains
+2 Island
+3 Island
+4 Island
+1 Glacial Fortress
+2 Glacial Fortress
+3 Glacial Fortress
+4 Glacial Fortress
+5 Island
+6 Island
+7 Island
+3 Reflector Mage
+4 Reflector Mage
+1 Castle Ardenvale
+1 Elite Guardmage
+1 Glass Casket
+1 Elspeth Conquers Death
+1 Isolate
+1 Castle Vantress
+1 Temple of Enlightenment
+1 Yorion, Sky Nomad
+1 Agent of Treachery
+2 Yorion, Sky Nomad
+2 Temple of Enlightenment
+2 Glass Casket
+2 Elite Guardmage
+2 Elspeth Conquers Death
+2 Agent of Treachery
+2 Isolate
+3 Yorion, Sky Nomad
+3 Skyclave Cleric
+3 Elite Guardmage
+3 Isolate
+3 Temple of Enlightenment
+3 Glass Casket
+4 Temple of Enlightenment
+4 Skyclave Cleric
+4 Isolate
+4 Elite Guardmage
+4 Glass Casket
+5 Plains
+6 Plains
+7 Plains
+8 Island
+8 Plains
+9 Island
+1 Collected Company
+2 Collected Company
+3 Collected Company
+4 Collected Company
 1 Blooming Marsh
 1 Agadeem's Awakening
 1 Llanowar Elves
@@ -45,68 +116,15 @@
 4 Mayhem Devil
 4 Cragcrown Pathway
 1 Urborg, Tomb of Yawgmoth
+3 Spell Queller
+4 Spell Queller
 1 Venerated Loxodon
 2 Venerated Loxodon
 3 Venerated Loxodon
 4 Venerated Loxodon
 1 Stomping Ground
-2 Stomping Ground
-1 Temple Garden
-2 Temple Garden
-3 Temple Garden
-2 Plains
-3 Plains
-1 Voice of Resurgence
-2 Voice of Resurgence
-3 Voice of Resurgence
-4 Temple Garden
-4 Voice of Resurgence
-1 Forest
-2 Forest
-3 Forest
-1 Lovestruck Beast
-2 Lovestruck Beast
-3 Lovestruck Beast
-4 Lovestruck Beast
-4 Forest
-4 Plains
-1 Castle Ardenvale
-1 Nissa, Voice of Zendikar
-1 Sunpetal Grove
-1 Secure the Wastes
-1 Westvale Abbey
-1 Dromoka's Command
-1 Declaration in Stone
-1 Gideon, Ally of Zendikar
-1 Leonin Warleader
-1 Paradise Druid
-1 Brimaz, King of Oreskos
-1 Divine Visitation
-2 Nissa, Voice of Zendikar
-2 Castle Ardenvale
-2 Sunpetal Grove
-2 Dromoka's Command
-2 Paradise Druid
-2 Secure the Wastes
-2 Brimaz, King of Oreskos
-2 Westvale Abbey
-2 Divine Visitation
-2 Gideon, Ally of Zendikar
-2 Leonin Warleader
-3 Sunpetal Grove
-3 Gideon, Ally of Zendikar
-3 Dromoka's Command
-3 Secure the Wastes
-3 Paradise Druid
-3 Westvale Abbey
-3 Divine Visitation
-4 Sunpetal Grove
-4 Paradise Druid
-4 Secure the Wastes
-4 Dromoka's Command
-5 Forest
-6 Forest
 1 Llanowar Wastes
+2 Stomping Ground
 2 Llanowar Wastes
 3 Llanowar Elves
 3 Llanowar Wastes
@@ -114,87 +132,21 @@
 4 Gilded Goose
 2 Agadeem's Awakening
 4 Luminarch Aspirant
-1 Hallowed Fountain
-2 Hallowed Fountain
-1 Island
-1 Reflector Mage
-2 Reflector Mage
-1 Spell Queller
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-2 Spell Queller
-3 Hallowed Fountain
-3 Teferi, Time Raveler
-3 Spell Queller
-4 Hallowed Fountain
-4 Teferi, Time Raveler
-4 Spell Queller
+1 Temple Garden
+2 Temple Garden
+3 Temple Garden
 1 Mana Confluence
 2 Mana Confluence
-1 Branchloft Pathway
-1 Skyclave Cleric
-1 Skyclave Apparition
-1 Charming Prince
-2 Skyclave Apparition
-2 Skyclave Cleric
-2 Charming Prince
-3 Skyclave Apparition
-3 Charming Prince
-4 Charming Prince
-4 Skyclave Apparition
-2 Island
-3 Reflector Mage
-4 Reflector Mage
-3 Island
-4 Island
-1 Glacial Fortress
-2 Glacial Fortress
-3 Glacial Fortress
-4 Glacial Fortress
-5 Island
-6 Island
-7 Island
+1 Champion of Wits
+2 Champion of Wits
+1 Thassa, Deep-Dwelling
+2 Thassa, Deep-Dwelling
 1 Niambi, Esteemed Speaker
-1 Elite Guardmage
-1 Glass Casket
-1 Elspeth Conquers Death
-1 Isolate
-1 Castle Vantress
-1 Temple of Enlightenment
-1 Yorion, Sky Nomad
-1 Agent of Treachery
-2 Yorion, Sky Nomad
-2 Temple of Enlightenment
-2 Glass Casket
-2 Elite Guardmage
-2 Elspeth Conquers Death
-2 Agent of Treachery
-2 Isolate
 2 Niambi, Esteemed Speaker
-3 Yorion, Sky Nomad
-3 Skyclave Cleric
-3 Elite Guardmage
-3 Isolate
-3 Temple of Enlightenment
-3 Glass Casket
-4 Temple of Enlightenment
-4 Skyclave Cleric
-4 Isolate
-4 Elite Guardmage
-4 Glass Casket
-5 Plains
-6 Plains
-7 Plains
-8 Island
-8 Plains
-9 Island
+1 Branchloft Pathway
 1 Botanical Sanctum
-1 Brazen Borrower
-2 Brazen Borrower
-3 Brazen Borrower
-4 Brazen Borrower
-2 Botanical Sanctum
 1 Clearwater Pathway
+2 Botanical Sanctum
 1 Drown in the Loch
 1 Thoughtseize
 1 Thieves' Guild Enforcer
@@ -222,13 +174,75 @@
 4 Watery Grave
 4 Soaring Thought-Thief
 4 Thieves' Guild Enforcer
-1 Breeding Pool
+1 Brazen Borrower
+2 Brazen Borrower
+3 Brazen Borrower
+4 Brazen Borrower
 1 Fiend Artisan
+1 Voice of Resurgence
+2 Voice of Resurgence
+3 Voice of Resurgence
+4 Temple Garden
+4 Voice of Resurgence
 1 Benalish Marshal
 1 Mardu Woe-Reaper
 2 Benalish Marshal
 1 Blisterpod
 2 Blisterpod
+1 Breeding Pool
+1 Forest
+2 Forest
+3 Forest
+1 Satyr Wayfinder
+1 Ketria Triome
+1 Fierce Empath
+1 Jadelight Ranger
+1 Nimble Obstructionist
+1 Courser of Kruphix
+1 Kozilek's Return
+1 Stubborn Denial
+1 Arboreal Grazer
+1 Llanowar Visionary
+1 Castle Garenbrig
+1 Sanctum of Ugin
+1 Uro, Titan of Nature's Wrath
+1 Yavimaya Coast
+1 Cavalier of Thorns
+1 World Breaker
+1 Elder Deep-Fiend
+1 Scavenging Ooze
+1 Hinterland Harbor
+2 Satyr Wayfinder
+2 Breeding Pool
+2 Kozilek's Return
+2 Sanctum of Ugin
+2 Cavalier of Thorns
+2 Hinterland Harbor
+2 Fierce Empath
+2 Arboreal Grazer
+2 Llanowar Visionary
+2 Uro, Titan of Nature's Wrath
+2 Elder Deep-Fiend
+2 Scavenging Ooze
+2 Ketria Triome
+2 Yavimaya Coast
+3 Satyr Wayfinder
+3 Ketria Triome
+3 Breeding Pool
+3 Kozilek's Return
+3 Uro, Titan of Nature's Wrath
+3 Elder Deep-Fiend
+3 Yavimaya Coast
+3 Sanctum of Ugin
+3 Cavalier of Thorns
+3 Hinterland Harbor
+3 Arboreal Grazer
+4 Breeding Pool
+4 Satyr Wayfinder
+4 Ketria Triome
+4 Sanctum of Ugin
+4 Elder Deep-Fiend
+4 Hinterland Harbor
 1 Skyclave Shade
 1 Korvold, Fae-Cursed King
 1 Tangled Florahedron
@@ -266,58 +280,6 @@
 4 Watcher of the Spheres
 4 Irrigated Farmland
 4 Archangel Avacyn
-1 Ketria Triome
-2 Breeding Pool
-2 Ketria Triome
-3 Ketria Triome
-3 Breeding Pool
-4 Ketria Triome
-1 Satyr Wayfinder
-1 Fierce Empath
-1 Jadelight Ranger
-1 Nimble Obstructionist
-1 Courser of Kruphix
-1 Kozilek's Return
-1 Stubborn Denial
-1 Arboreal Grazer
-1 Llanowar Visionary
-1 Castle Garenbrig
-1 Sanctum of Ugin
-1 Uro, Titan of Nature's Wrath
-1 Yavimaya Coast
-1 Cavalier of Thorns
-1 World Breaker
-1 Elder Deep-Fiend
-1 Scavenging Ooze
-1 Hinterland Harbor
-1 Champion of Wits
-2 Satyr Wayfinder
-2 Kozilek's Return
-2 Sanctum of Ugin
-2 Cavalier of Thorns
-2 Champion of Wits
-2 Hinterland Harbor
-2 Fierce Empath
-2 Arboreal Grazer
-2 Llanowar Visionary
-2 Uro, Titan of Nature's Wrath
-2 Elder Deep-Fiend
-2 Scavenging Ooze
-2 Yavimaya Coast
-3 Satyr Wayfinder
-3 Kozilek's Return
-3 Uro, Titan of Nature's Wrath
-3 Elder Deep-Fiend
-3 Yavimaya Coast
-3 Sanctum of Ugin
-3 Cavalier of Thorns
-3 Hinterland Harbor
-3 Arboreal Grazer
-4 Breeding Pool
-4 Satyr Wayfinder
-4 Sanctum of Ugin
-4 Elder Deep-Fiend
-4 Hinterland Harbor
 1 Glasspool Mimic
 1 Militia Bugler
 2 Branchloft Pathway
@@ -374,39 +336,6 @@
 4 Acquisitions Expert
 4 Unclaimed Territory
 4 Archpriest of Iona
-1 Thassa's Oracle
-1 Possibility Storm
-1 Stonecoil Serpent
-1 Enter the Infinite
-1 Shared Summons
-1 Rosethorn Acolyte
-1 Beanstalk Giant
-1 Fae of Wishes
-1 Steam Vents
-1 Lucky Clover
-1 Mountain
-1 Bonecrusher Giant
-1 Sulfur Falls
-1 Rootbound Crag
-2 Possibility Storm
-2 Beanstalk Giant
-2 Enter the Infinite
-2 Bonecrusher Giant
-2 Mountain
-2 Steam Vents
-2 Lucky Clover
-2 Fae of Wishes
-2 Sulfur Falls
-3 Possibility Storm
-3 Beanstalk Giant
-3 Lucky Clover
-3 Bonecrusher Giant
-3 Fae of Wishes
-3 Stomping Ground
-4 Beanstalk Giant
-4 Fae of Wishes
-4 Lucky Clover
-4 Bonecrusher Giant
 1 Eliminate
 1 Zareth San, the Trickster
 1 Mystical Dispute
@@ -414,19 +343,59 @@
 1 Castle Locthwain
 1 Nighthawk Scavenger
 1 Fabled Passage
-2 Drowned Catacomb
 2 Eliminate
 2 Zareth San, the Trickster
 2 Nighthawk Scavenger
+2 Drowned Catacomb
 2 Mystical Dispute
 2 Swamp
 2 Fabled Passage
 3 Drowned Catacomb
-3 Nighthawk Scavenger
 3 Mystical Dispute
+3 Nighthawk Scavenger
 3 Swamp
 4 Drowned Catacomb
 4 Nighthawk Scavenger
 4 Mystical Dispute
 4 Swamp
 5 Swamp
+1 Lovestruck Beast
+1 Nissa, Voice of Zendikar
+1 Sunpetal Grove
+1 Secure the Wastes
+1 Westvale Abbey
+1 Dromoka's Command
+1 Declaration in Stone
+1 Gideon, Ally of Zendikar
+1 Leonin Warleader
+1 Paradise Druid
+1 Brimaz, King of Oreskos
+1 Divine Visitation
+2 Lovestruck Beast
+2 Nissa, Voice of Zendikar
+2 Castle Ardenvale
+2 Sunpetal Grove
+2 Dromoka's Command
+2 Paradise Druid
+2 Secure the Wastes
+2 Brimaz, King of Oreskos
+2 Westvale Abbey
+2 Divine Visitation
+2 Gideon, Ally of Zendikar
+2 Leonin Warleader
+3 Lovestruck Beast
+3 Sunpetal Grove
+3 Gideon, Ally of Zendikar
+3 Dromoka's Command
+3 Secure the Wastes
+3 Paradise Druid
+3 Westvale Abbey
+3 Divine Visitation
+4 Lovestruck Beast
+4 Sunpetal Grove
+4 Paradise Druid
+4 Secure the Wastes
+4 Forest
+4 Dromoka's Command
+5 Forest
+6 Forest
