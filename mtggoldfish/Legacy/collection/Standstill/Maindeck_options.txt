@@ -1,49 +1,54 @@
+1 Moat
 2 Moat
-1 Dovin's Veto
-1 Narset, Parter of Veils
-2 Counterspell
 2 Narset, Parter of Veils
-2 Dovin's Veto
+1 Dovin's Veto
 1 Supreme Verdict
+2 Dovin's Veto
+2 Counterspell
 1 Wasteland
 2 Wasteland
 1 Silundi Vision
 2 Silundi Vision
 1 Council's Judgment
+5 Snow-Covered Island
 3 Prismatic Vista
 1 Island
 1 Plains
 2 Island
 2 Plains
 3 Island
-3 Snapcaster Mage
-1 Crucible of Worlds
 1 Myth Realized
 2 Myth Realized
+2 Supreme Verdict
 4 Island
 5 Island
-5 Snow-Covered Island
-2 Spell Pierce
+1 Crucible of Worlds
+3 Snapcaster Mage
 1 Cast Out
 1 Replenish
 2 Replenish
 2 Cast Out
 3 Cast Out
-2 Mystic Sanctuary
 1 Lay Claim
 2 Lay Claim
 3 Replenish
 3 Lay Claim
 4 Lay Claim
-2 Supreme Verdict
 4 Prismatic Vista
 3 Teferi, Time Raveler
 4 Cast Out
 2 Council's Judgment
-1 Stoneforge Mystic
+2 Spell Pierce
 1 Batterskull
+1 Stoneforge Mystic
 2 Stoneforge Mystic
+2 Mystic Sanctuary
 4 Replenish
+1 Sword of Feast and Famine
+1 Polluted Delta
+2 Polluted Delta
+6 Snow-Covered Island
+3 Wasteland
 1 Arcum's Astrolabe
 1 Tropical Island
 1 Snow-Covered Forest
@@ -51,12 +56,12 @@
 1 Misty Rainforest
 2 Oko, Thief of Crowns
 2 Misty Rainforest
+1 Vendilion Clique
+6 Island
 3 Misty Rainforest
 4 Misty Rainforest
-1 Sword of Feast and Famine
-1 Polluted Delta
-2 Polluted Delta
-6 Snow-Covered Island
+1 Mishra's Factory
+2 Mishra's Factory
 2 Arcum's Astrolabe
 3 Arcum's Astrolabe
 4 Arcum's Astrolabe
@@ -66,17 +71,12 @@
 3 Ice-Fang Coatl
 3 Moat
 4 Ice-Fang Coatl
-3 Wasteland
-1 Vendilion Clique
-6 Island
-1 Mishra's Factory
-2 Mishra's Factory
 1 The Tabernacle at Pendrell Vale
 1 Forest
-1 Blast Zone
 1 Tranquil Thicket
 1 Field of the Dead
 1 Verdant Catacombs
+1 Blast Zone
 1 Mox Diamond
 1 Life from the Loam
 2 Life from the Loam
@@ -122,10 +122,10 @@
 1 Prophet of Kruphix
 1 Glimmerpost
 1 Ramunap Excavator
-2 Once Upon a Time
 2 Snow-Covered Forest
-2 Primeval Titan
+2 Once Upon a Time
 2 Pithing Needle
+2 Primeval Titan
 2 Dryad of the Ilysian Grove
 2 Vesuva
 2 Thought-Knot Seer
@@ -161,6 +161,8 @@
 1 Decree of Justice
 2 Magmatic Sinkhole
 2 Pyroblast
+3 Force of Negation
+4 Force of Negation
 3 Tundra
 4 Teferi, Time Raveler
 1 Savannah
@@ -176,12 +178,12 @@
 3 Chalice of the Void
 3 Abrupt Decay
 3 Uro, Titan of Nature's Wrath
-4 Uro, Titan of Nature's Wrath
 4 Abrupt Decay
+4 Uro, Titan of Nature's Wrath
 4 Chalice of the Void
-1 Karn, the Great Creator
 1 Enlightened Tutor
 1 Scroll of Fate
+1 Karn, the Great Creator
 1 Stifle
 1 Search for Azcanta
 1 Phyrexian Dreadnought

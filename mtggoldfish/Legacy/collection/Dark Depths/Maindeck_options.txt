@@ -1,11 +1,6 @@
 1 Wasteland
 1 Forest
 1 Swamp
-1 Nurturing Peatland
-1 Dark Confidant
-2 Dark Confidant
-3 Dark Confidant
-3 Inquisition of Kozilek
 1 Stifle
 1 Mana Confluence
 1 Gemstone Mine
@@ -17,15 +12,17 @@
 3 Gemstone Mine
 4 Mana Confluence
 4 Gemstone Mine
+1 Nurturing Peatland
+1 Dark Confidant
+2 Dark Confidant
+3 Dark Confidant
+3 Inquisition of Kozilek
 4 Dark Confidant
 1 Abrupt Decay
 2 Elvish Reclaimer
 2 Abrupt Decay
 3 Elvish Reclaimer
 4 Elvish Reclaimer
-1 Once Upon a Time
-2 Once Upon a Time
-3 Bayou
 1 Expedition Map
 2 Expedition Map
 3 Expedition Map
@@ -40,39 +37,39 @@
 3 Snow-Covered Swamp
 3 Dark Ritual
 4 Dark Ritual
-1 Snapcaster Mage
 1 Mystic Sanctuary
 1 Teferi, Time Raveler
 1 Scalding Tarn
 1 Bloodstained Mire
-1 Tolaria West
-1 Ethersworn Canonist
-1 Marsh Flats
-1 Jace, the Mind Sculptor
-1 Arid Mesa
-1 Celestial Colonnade
-1 Maze of Ith
-1 Intuition
-1 Portent
 1 Enlightened Tutor
+1 Ethersworn Canonist
+1 Tolaria West
+1 Underground Sea
+1 Celestial Colonnade
+1 Arid Mesa
+1 Intuition
+1 Baleful Strix
+1 Portent
+1 Marsh Flats
+1 Counterspell
 1 Drowned Catacomb
 1 Murderous Cut
-1 Counterspell
 1 Iona, Shield of Emeria
 1 Elesh Norn, Grand Cenobite
 1 Glacial Fortress
 1 Unburial Rites
+1 Misdirection
 1 Jin-Gitaxias, Core Augur
 1 Torpor Orb
 1 Spell Pierce
 1 Rest in Peace
 1 Moat
-1 Misdirection
-1 Supreme Verdict
+1 Jace, the Mind Sculptor
 1 Inkwell Leviathan
-1 Baleful Strix
-1 Leyline of Sanctity
+1 Supreme Verdict
+1 Snapcaster Mage
 1 Cunning Wish
+1 Leyline of Sanctity
 1 Brainstorm
 1 Serum Visions
 1 Flusterstorm
@@ -83,7 +80,6 @@
 1 The Tabernacle at Pendrell Vale
 1 Ensnaring Bridge
 1 Cabal Therapy
-1 Underground Sea
 1 Swords to Plowshares
 1 Pact of Negation
 1 Ponder
@@ -92,6 +88,7 @@
 1 Terminus
 1 Snow-Covered Island
 1 Tundra
+1 Maze of Ith
 1 Ad Nauseam
 1 Preordain
 1 Show and Tell
@@ -106,30 +103,32 @@
 1 Scrubland
 1 Phyrexian Unlife
 1 Force of Will
-2 Snapcaster Mage
 2 Teferi, Time Raveler
-2 Polluted Delta
 2 Toxic Deluge
+2 Polluted Delta
 2 Intuition
-2 Tundra
-2 Ancient Tomb
-2 Spell Pierce
 2 Personal Tutor
-2 Mystic Sanctuary
+2 Tundra
+2 Spell Pierce
+2 Enlightened Tutor
 2 Scalding Tarn
+2 Snapcaster Mage
+2 Mystic Sanctuary
+2 Ancient Tomb
+2 Arid Mesa
 2 Celestial Colonnade
-2 Karakas
+2 Baleful Strix
 2 Marsh Flats
 2 Drowned Catacomb
 2 Portent
-2 Arid Mesa
 2 Counterspell
 2 Glacial Fortress
 2 Snow-Covered Plains
 2 Scrubland
+2 Misdirection
 2 Pact of Negation
+2 Jace, the Mind Sculptor
 2 Flusterstorm
-2 Baleful Strix
 2 Ponder
 2 Preordain
 2 Academy Rector
@@ -137,16 +136,14 @@
 2 Misty Rainforest
 2 Cunning Wish
 2 Murderous Cut
-2 Misdirection
+2 Karakas
 2 Gifts Ungiven
 2 Battle of Wits
 2 Impulse
 2 Phyrexian Unlife
 2 Force of Will
 2 Emrakul, the Aeons Torn
-2 Enlightened Tutor
 2 Brainstorm
-2 Jace, the Mind Sculptor
 2 Flooded Strand
 2 Tolaria West
 2 Ad Nauseam
@@ -162,28 +159,28 @@
 2 Terminus
 3 Snapcaster Mage
 3 Scalding Tarn
+3 Emrakul, the Aeons Torn
 3 Teferi, Time Raveler
 3 Flooded Strand
-3 Emrakul, the Aeons Torn
 3 Jace, the Mind Sculptor
-3 Impulse
-3 Arid Mesa
 3 Polluted Delta
+3 Enlightened Tutor
+3 Impulse
 3 Tundra
 3 Tolaria West
-3 Spell Pierce
 3 Scrubland
 3 Swords to Plowshares
+3 Baleful Strix
 3 Mystic Sanctuary
+3 Spell Pierce
 3 Marsh Flats
 3 Ancient Tomb
 3 Intuition
+3 Arid Mesa
 3 Counterspell
 3 Celestial Colonnade
 3 Snow-Covered Plains
 3 Pact of Negation
-3 Baleful Strix
-3 Enlightened Tutor
 3 Phyrexian Unlife
 3 Force of Will
 3 Brainstorm
@@ -211,12 +208,12 @@
 3 Gifts Ungiven
 3 Battle of Wits
 4 Preordain
-4 Flooded Strand
 4 Cunning Wish
-4 Impulse
-4 Teferi, Time Raveler
+4 Flooded Strand
 4 Terminus
+4 Teferi, Time Raveler
 4 Underground Sea
+4 Impulse
 4 Baleful Strix
 4 Polluted Delta
 4 Celestial Colonnade
@@ -245,14 +242,17 @@
 4 Personal Tutor
 4 Cabal Therapy
 5 Snow-Covered Island
-3 Once Upon a Time
 1 Sylvan Safekeeper
 2 Sylvan Safekeeper
+1 Once Upon a Time
+2 Once Upon a Time
+3 Bayou
 1 Sylvan Library
+3 Sylvan Safekeeper
+3 Once Upon a Time
+3 Abrupt Decay
 1 Wooded Foothills
 4 Once Upon a Time
-3 Sylvan Safekeeper
-3 Abrupt Decay
 1 Mox Diamond
 2 Mox Diamond
 3 Mox Diamond
@@ -265,8 +265,8 @@
 3 Assassin's Trophy
 4 Mox Diamond
 4 Abrupt Decay
-1 Life from the Loam
 1 Blooming Marsh
+1 Life from the Loam
 1 Llanowar Wastes
 2 Nurturing Peatland
 2 Life from the Loam
@@ -274,43 +274,43 @@
 4 Duress
 4 Nurturing Peatland
 4 Not of This World
-1 Dakmor Salvage
-1 Liliana's Triumph
-1 Liliana of the Veil
-1 Chalice of the Void
-1 Liliana, the Last Hope
+1 Hymn to Tourach
 1 Castle Locthwain
+1 Chrome Mox
+1 Dakmor Salvage
+1 Liliana of the Veil
+1 Liliana's Triumph
 1 Wishclaw Talisman
+1 Liliana, the Last Hope
+1 Plague Engineer
 1 Cabal Pit
 1 Lake of the Dead
-1 Hymn to Tourach
-1 Plague Engineer
 1 Eliminate
 1 Trinisphere
 1 Gurmag Angler
 1 Desolation
-1 Chrome Mox
 1 Karn, the Great Creator
-2 Lake of the Dead
-2 Liliana of the Veil
-2 Chalice of the Void
-2 Hymn to Tourach
-2 Eliminate
-2 Trinisphere
-2 Gurmag Angler
+1 Chalice of the Void
 2 Chrome Mox
+2 Liliana of the Veil
+2 Lake of the Dead
+2 Hymn to Tourach
+2 Trinisphere
+2 Eliminate
+2 Gurmag Angler
+2 Chalice of the Void
 2 Karn, the Great Creator
 2 Desolation
 2 Wishclaw Talisman
+3 Chrome Mox
 3 Liliana of the Veil
+3 Eliminate
 3 Desolation
 3 Karn, the Great Creator
-3 Eliminate
-3 Chrome Mox
 3 Chalice of the Void
 4 Snow-Covered Swamp
+4 Chalice of the Void
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
-4 Chalice of the Void

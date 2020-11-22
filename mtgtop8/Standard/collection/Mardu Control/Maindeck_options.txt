@@ -1,7 +1,7 @@
+1 Temple of Silence
 1 Skyclave Apparition
 1 Elspeth, Sun's Nemesis
 1 Glass Casket
-1 Ruinous Ultimatum
 1 Cling to Dust
 1 Solemn Simulacrum
 1 The Birth of Meletis
@@ -12,6 +12,7 @@
 1 Omen of the Sun
 2 Charming Prince
 2 Emeria's Call
+2 Ruinous Ultimatum
 2 The Birth of Meletis
 2 Cling to Dust
 2 Glass Casket
@@ -22,7 +23,6 @@
 2 Omen of the Sun
 2 Skyclave Apparition
 2 Elspeth Conquers Death
-2 Ruinous Ultimatum
 3 Plains
 3 The Birth of Meletis
 3 Emeria's Call
@@ -42,8 +42,8 @@
 4 Mazemind Tome
 1 Acquisitions Expert
 2 Acquisitions Expert
-3 Acquisitions Expert
 3 Temple of Malice
+3 Acquisitions Expert
 3 Elspeth's Nightmare
 4 Swamp
 5 Swamp

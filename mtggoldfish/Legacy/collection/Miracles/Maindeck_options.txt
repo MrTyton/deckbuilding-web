@@ -17,8 +17,8 @@
 4 Misty Rainforest
 3 Daze
 1 Snow-Covered Forest
-1 Tropical Island
 1 Oko, Thief of Crowns
+1 Tropical Island
 2 Oko, Thief of Crowns
 3 Monastery Mentor
 4 Monastery Mentor
@@ -75,13 +75,13 @@
 1 Flusterstorm
 1 Deprive
 1 Uro, Titan of Nature's Wrath
+2 Tropical Island
 2 Lightning Bolt
 1 Swamp
 1 Kaya, Orzhov Usurper
 1 Cling to Dust
 2 Cling to Dust
 2 Entreat the Angels
-2 Tropical Island
 1 Teferi, Hero of Dominaria
 2 Teferi, Hero of Dominaria
 3 Portent
@@ -89,11 +89,11 @@
 2 Helm of Obedience
 3 Tundra
 4 Snapcaster Mage
-1 Ancient Tomb
 1 Omniscience
 1 Show and Tell
 1 Cunning Wish
 1 Emrakul, the Aeons Torn
+1 Ancient Tomb
 2 Spell Pierce
 2 Show and Tell
 2 Omniscience
@@ -108,25 +108,12 @@
 1 Lavinia, Azorius Renegade
 1 Pyroblast
 1 Isochron Scepter
-2 Lavinia, Azorius Renegade
 2 Orim's Chant
+2 Lavinia, Azorius Renegade
 2 Pyroblast
 2 Possibility Storm
 3 Mystic Sanctuary
 4 Teferi, Time Raveler
-1 Dreadhorde Arcanist
-1 Sprite Dragon
-1 Wasteland
-1 Accumulated Knowledge
-1 Stifle
-2 Dreadhorde Arcanist
-2 Stifle
-2 Wasteland
-2 Accumulated Knowledge
-3 Wasteland
-3 Accumulated Knowledge
-4 Wasteland
-4 Accumulated Knowledge
 1 Spellseeker
 1 Marsh Flats
 1 Personal Tutor
@@ -145,15 +132,28 @@
 3 Baleful Strix
 4 Eliminate
 4 Baleful Strix
+1 Dreadhorde Arcanist
+1 Sprite Dragon
+1 Accumulated Knowledge
+1 Stifle
+1 Wasteland
+2 Dreadhorde Arcanist
+2 Stifle
+2 Accumulated Knowledge
+2 Wasteland
+3 Accumulated Knowledge
+3 Wasteland
+4 Accumulated Knowledge
+4 Wasteland
 1 True-Name Nemesis
 1 Path to Exile
 1 Enlightened Tutor
 1 Trade Routes
-1 Detention Sphere
 1 Energy Field
 1 Solitary Confinement
 1 Scroll Rack
 1 Land Tax
+1 Detention Sphere
 1 Web of Inertia
 2 Enlightened Tutor
 2 Land Tax
@@ -173,17 +173,17 @@
 1 Ideas Unbound
 1 Edge of Autumn
 1 Thoughtseize
-1 Lotus Petal
 1 Doomsday
 1 Lion's Eye Diamond
 1 Scrubland
 1 Cavern of Souls
 1 Dark Ritual
+1 Lotus Petal
 2 Underground Sea
 2 Doomsday
-2 Lotus Petal
 2 Thoughtseize
 2 Dark Ritual
+2 Lotus Petal
 3 Underground Sea
 3 Doomsday
 3 Dark Ritual

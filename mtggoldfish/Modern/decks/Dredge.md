@@ -73,6 +73,6 @@
 |                    4|[Gemstone Caverns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122094)       |                     |                                                                                                 |
 |                    1|[Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)         |                     |                                                                                                 |
 |                    1|[Smiting Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464058)          |                     |                                                                                                 |
-|                    2|[Smiting Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464058)          |                     |                                                                                                 |
 |                    3|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)        |                     |                                                                                                 |
+|                    2|[Smiting Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464058)          |                     |                                                                                                 |
 

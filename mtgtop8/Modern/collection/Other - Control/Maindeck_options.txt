@@ -20,8 +20,8 @@
 1 Plains
 1 Lightning Helix
 1 Mistveil Plains
-2 Sunbaked Canyon
 2 Mountain
+2 Sunbaked Canyon
 2 Plains
 2 Ghost Quarter
 2 Talisman of Conviction
@@ -77,8 +77,8 @@
 1 Ice-Fang Coatl
 1 Nexus of Fate
 1 Fact or Fiction
-2 Wilderness Reclamation
 2 Thought Scour
+2 Wilderness Reclamation
 2 Breeding Pool
 2 Ice-Fang Coatl
 2 Fact or Fiction
@@ -88,8 +88,8 @@
 3 Mystic Sanctuary
 3 Ice-Fang Coatl
 3 Breeding Pool
-3 Snow-Covered Island
 3 Wilderness Reclamation
+3 Snow-Covered Island
 3 Remand
 4 Thought Scour
 4 Remand
@@ -104,6 +104,8 @@
 8 Snow-Covered Island
 1 Cling to Dust
 1 Watery Grave
+1 Sunken Hollow
+1 Sunken Ruins
 1 River of Tears
 1 Swamp
 1 Narset, Parter of Veils
@@ -112,8 +114,6 @@
 1 Bloodchief's Thirst
 1 Geier Reach Sanitarium
 1 Jace, the Mind Sculptor
-1 Sunken Hollow
-1 Sunken Ruins
 1 Snapcaster Mage
 1 Thoughtseize
 2 Cling to Dust
@@ -131,10 +131,10 @@
 3 Fatal Push
 3 Polluted Delta
 3 Island
-4 Fatal Push
 4 Polluted Delta
 4 Archmage's Charm
+4 Narset, Parter of Veils
 4 Force of Negation
 4 Island
-4 Narset, Parter of Veils
+4 Fatal Push
 5 Island

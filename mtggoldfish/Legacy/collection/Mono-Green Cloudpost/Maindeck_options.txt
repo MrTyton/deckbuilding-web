@@ -1,3 +1,4 @@
+1 Golos, Tireless Pilgrim
 1 Cascading Cataracts
 3 Vesuva
 1 Ancient Tomb
@@ -5,22 +6,14 @@
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 4 Karn, the Great Creator
-1 Golos, Tireless Pilgrim
 2 Golos, Tireless Pilgrim
-1 Forest
-2 Forest
-3 Forest
-4 Forest
-1 All Is Dust
 1 Walking Ballista
 1 Thought-Knot Seer
-5 Forest
-6 Forest
-4 Vesuva
-2 Ulamog, the Ceaseless Hunger
+1 All Is Dust
 2 Ancient Tomb
 3 Ancient Tomb
 4 Ancient Tomb
+2 Ulamog, the Ceaseless Hunger
 2 Thought-Knot Seer
 3 Thought-Knot Seer
 4 Thought-Knot Seer
@@ -30,21 +23,22 @@
 1 City of Traitors
 2 Grim Monolith
 3 Grim Monolith
+4 Vesuva
+2 City of Traitors
 1 Eldrazi Temple
 2 Eldrazi Temple
 3 Eldrazi Temple
 4 Grim Monolith
-2 City of Traitors
-1 Candelabra of Tawnos
-2 Candelabra of Tawnos
-1 Ugin, the Spirit Dragon
-1 Blast Zone
-2 All Is Dust
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
-3 All Is Dust
+1 Forest
+2 Forest
+3 Forest
+4 Forest
+2 All Is Dust
 4 Chalice of the Void
+3 All Is Dust
 1 Matter Reshaper
 1 Reality Smasher
 2 Eye of Ugin
@@ -55,34 +49,55 @@
 4 Matter Reshaper
 4 Reality Smasher
 4 Eldrazi Temple
+5 Forest
+6 Forest
+1 Blast Zone
+1 Ugin, the Spirit Dragon
+1 Candelabra of Tawnos
+2 Candelabra of Tawnos
 1 The Tabernacle at Pendrell Vale
 3 Candelabra of Tawnos
 2 Walking Ballista
+1 Verdant Catacombs
 1 Warping Wail
 1 Ancient Stirrings
 2 Warping Wail
 2 Ancient Stirrings
 3 Ancient Stirrings
 4 Candelabra of Tawnos
-1 Verdant Catacombs
 2 Ugin, the Spirit Dragon
+1 Sorcerous Spyglass
+2 Sorcerous Spyglass
+3 Sorcerous Spyglass
+3 City of Traitors
 1 Sylvan Library
 7 Forest
 3 Golos, Tireless Pilgrim
 1 Manifold Key
 2 Manifold Key
-1 Sorcerous Spyglass
-2 Sorcerous Spyglass
-3 Sorcerous Spyglass
-3 City of Traitors
+1 Wastes
+1 Trinisphere
+2 Blast Zone
+1 Stonecoil Serpent
+1 Karn, Scion of Urza
+2 Karakas
+2 Stonecoil Serpent
+2 Karn, Scion of Urza
+2 Trinisphere
+2 Wastes
+3 Ugin, the Ineffable
+3 Karn, Scion of Urza
+3 Walking Ballista
+3 Trinisphere
+3 Stonecoil Serpent
+4 Karn, Scion of Urza
+4 City of Traitors
+4 Stonecoil Serpent
 1 Urborg, Tomb of Yawgmoth
 1 Sphere of Resistance
 2 Sphere of Resistance
 3 Sphere of Resistance
 4 Sphere of Resistance
-1 Wastes
-1 Trinisphere
-2 Blast Zone
 1 Thran Dynamo
 2 Thran Dynamo
 3 Thran Dynamo
@@ -90,23 +105,26 @@
 3 Warping Wail
 4 Warping Wail
 1 Kozilek, the Great Distortion
-1 Crucible of Worlds
 1 Wasteland
+1 Crucible of Worlds
 1 Lodestone Golem
-2 Crucible of Worlds
 2 Wasteland
+2 Crucible of Worlds
 2 Lodestone Golem
-3 Manifold Key
 3 Wasteland
+3 Manifold Key
 3 Lodestone Golem
 4 Wasteland
 4 Lodestone Golem
 1 Forsaken Monument
 1 Lightning Greaves
 2 Lightning Greaves
+1 Emrakul, the Promised End
+1 Dryad Arbor
+2 Sylvan Library
+2 Cavern of Souls
 2 Verdant Catacombs
 4 Primeval Titan
-4 Ancient Stirrings
 1 Elvish Rejuvenator
 1 Explore
 2 Explore
@@ -117,18 +135,4 @@
 4 Golos, Tireless Pilgrim
 8 Forest
 9 Forest
-1 Karn, Scion of Urza
-1 Stonecoil Serpent
-2 Trinisphere
-2 Karn, Scion of Urza
-2 Wastes
-2 Stonecoil Serpent
-2 Karakas
-3 Trinisphere
-3 Ugin, the Ineffable
-3 Karn, Scion of Urza
-3 Walking Ballista
-3 Stonecoil Serpent
-4 Karn, Scion of Urza
-4 City of Traitors
-4 Stonecoil Serpent
+4 Ancient Stirrings
