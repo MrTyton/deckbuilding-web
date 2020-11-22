@@ -1,12 +1,12 @@
+2 Serum Visions
+1 Thing in the Ice
 2 Thing in the Ice
 3 Thing in the Ice
-1 Serum Visions
-2 Serum Visions
 1 Polluted Delta
 7 Island
+3 Serum Visions
 1 Fiery Islet
 3 Jace, the Mind Sculptor
-3 Serum Visions
 1 Brazen Borrower
 1 Spirebluff Canal
 1 Through the Breach
@@ -18,7 +18,9 @@
 4 Through the Breach
 4 Emrakul, the Aeons Torn
 1 Ral, Izzet Viceroy
+2 Misty Rainforest
 3 Force of Negation
+4 Serum Visions
 1 Cascade Bluffs
 2 Cascade Bluffs
 1 Silundi Vision
@@ -30,7 +32,6 @@
 3 Riverglide Pathway
 4 Riverglide Pathway
 4 Cascade Bluffs
-2 Misty Rainforest
 3 Blood Moon
 2 Mountain
 1 Temple of Epiphany
@@ -41,22 +42,21 @@
 3 Reflecting Pool
 4 Reflecting Pool
 4 Temple of Epiphany
-2 Magmatic Sinkhole
-4 Serum Visions
-2 Polluted Delta
 1 Snow-Covered Mountain
 1 Snow-Covered Island
 2 Snow-Covered Island
-3 Cleansing Wildfire
-1 Omen of the Sea
-2 Omen of the Sea
-1 Izzet Charm
+2 Magmatic Sinkhole
+2 Polluted Delta
 3 Snow-Covered Island
 4 Snow-Covered Island
 5 Snow-Covered Island
-2 Brazen Borrower
 3 Misty Rainforest
 4 Misty Rainforest
+1 Izzet Charm
+1 Omen of the Sea
+2 Omen of the Sea
+3 Cleansing Wildfire
+2 Brazen Borrower
 1 Oboro, Palace in the Clouds
 3 Steam Vents
 4 Thing in the Ice
@@ -90,9 +90,9 @@
 3 Arclight Phoenix
 3 Merchant of the Vale
 4 Thought Scour
-4 Merchant of the Vale
 4 Manamorphose
 4 Arclight Phoenix
+4 Merchant of the Vale
 1 Spell Pierce
 2 Spell Pierce
 3 Polluted Delta
@@ -100,7 +100,10 @@
 1 The Royal Scions
 1 Vendilion Clique
 1 Burst Lightning
+1 Mana Leak
+2 Mana Leak
 1 Bonecrusher Giant
+1 Breeding Pool
 1 Clearwater Pathway
 1 Blood Sun
 1 Minamo, School at Water's Edge
@@ -120,7 +123,6 @@
 2 Izzet Charm
 3 Izzet Charm
 1 Growth Spiral
-1 Breeding Pool
 1 Ketria Triome
 2 Breeding Pool
 2 Growth Spiral
@@ -128,9 +130,9 @@
 4 Growth Spiral
 1 Mikokoro, Center of the Sea
 1 Temporal Mastery
+1 Gemstone Caverns
 1 Exhaustion
 1 Time Warp
-1 Gemstone Caverns
 1 Chandra, Torch of Defiance
 1 Part the Waterveil
 1 Dictate of Kruphix
@@ -143,8 +145,8 @@
 2 Exhaustion
 3 Time Warp
 3 Gigadrowse
-3 Exhaustion
 3 Dictate of Kruphix
+3 Exhaustion
 4 Time Warp
 1 Fire Prophecy
 1 Shark Typhoon
@@ -155,15 +157,33 @@
 2 Shark Typhoon
 4 Polluted Delta
 4 Cleansing Wildfire
-1 Mana Leak
-2 Mana Leak
+1 Stomping Ground
+1 Huntmaster of the Fells
+1 Forked Bolt
+1 Wooded Foothills
+1 Jace, Vryn's Prodigy
+1 Engineered Explosives
+1 Snow-Covered Forest
+1 Tireless Tracker
+1 Tarmogoyf
+2 Snow-Covered Forest
+2 Tireless Tracker
+2 Forked Bolt
+2 Jace, Vryn's Prodigy
+2 Engineered Explosives
+2 Tarmogoyf
+2 Huntmaster of the Fells
+3 Mana Leak
+3 Huntmaster of the Fells
+3 Tarmogoyf
+4 Tarmogoyf
 9 Island
 1 Watcher for Tomorrow
 1 Boomerang
-1 Venser, Shaper Savant
 1 Naban, Dean of Iteration
 1 Aether Vial
 1 Barrin, Tolarian Archmage
+1 Venser, Shaper Savant
 1 Sea Gate Stormcaller
 1 Glasspool Mimic
 2 Barrin, Tolarian Archmage

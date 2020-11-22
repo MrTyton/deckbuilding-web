@@ -1,13 +1,13 @@
 10 Plains
 1 Sunbaked Canyon
 2 Horizon Canopy
+1 Seachrome Coast
 1 Spell Queller
 1 Island
 1 Hallowed Fountain
-1 Seachrome Coast
+2 Seachrome Coast
 2 Spell Queller
 2 Hallowed Fountain
-2 Seachrome Coast
 3 Hallowed Fountain
 3 Spell Queller
 3 Seachrome Coast
@@ -49,8 +49,8 @@
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 1 Sword of Light and Shadow
-1 Sword of Feast and Famine
 1 Skyclave Cleric
+1 Sword of Feast and Famine
 2 Skyclave Cleric
 4 Snow-Covered Plains
 5 Snow-Covered Plains
@@ -81,11 +81,11 @@
 1 Caves of Koilos
 1 Concealed Courtyard
 2 Brightclimb Pathway
+2 Charming Prince
 2 Wasteland Strangler
 2 Concealed Courtyard
 2 Tidehollow Sculler
 2 Caves of Koilos
-2 Charming Prince
 3 Concealed Courtyard
 3 Caves of Koilos
 3 Brightclimb Pathway
@@ -108,8 +108,8 @@
 1 Mausoleum Wanderer
 2 Unsettled Mariner
 2 Spirit of the Labyrinth
-2 Island
 2 Tale's End
+2 Island
 2 Mausoleum Wanderer
 3 Unsettled Mariner
 3 Island
@@ -129,8 +129,8 @@
 2 Battlefield Forge
 3 Sunbaked Canyon
 3 Chalice of the Void
-3 Simian Spirit Guide
 3 Gemstone Caverns
+3 Simian Spirit Guide
 3 Containment Priest
 3 Battlefield Forge
 4 Chalice of the Void
@@ -147,11 +147,11 @@
 2 Branchloft Pathway
 2 Temple Garden
 2 Razorverge Thicket
-2 Aven Mindcensor
 2 Noble Hierarch
+2 Aven Mindcensor
 3 Branchloft Pathway
-3 Temple Garden
 3 Razorverge Thicket
+3 Temple Garden
 3 Noble Hierarch
 4 Razorverge Thicket
 4 Temple Garden

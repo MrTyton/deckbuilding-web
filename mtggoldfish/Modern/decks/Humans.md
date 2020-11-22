@@ -66,6 +66,6 @@
 |                     |                                                                                                      |                    1|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)             |
 |                     |                                                                                                      |                    1|Archon of Emeria                                                                                       |
 |                     |                                                                                                      |                    2|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)             |
-|                     |                                                                                                      |                    3|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)             |
 |                     |                                                                                                      |                    2|Archon of Emeria                                                                                       |
+|                     |                                                                                                      |                    3|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)             |
 

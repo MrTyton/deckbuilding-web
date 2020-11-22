@@ -1,18 +1,19 @@
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
-2 Shredded Sails
 1 Negate
 2 Negate
+2 Shredded Sails
 3 Negate
+3 Soul-Guide Lantern
+1 Storm's Wrath
 1 Glass Casket
 2 Glass Casket
-1 Storm's Wrath
+1 Duress
+2 Duress
 3 Glass Casket
 4 Glass Casket
 1 Ox of Agonas
-1 Duress
 2 Ox of Agonas
-2 Duress
 3 Ox of Agonas
 3 Duress
 4 Duress
@@ -20,7 +21,6 @@
 1 Raking Claws
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
-3 Soul-Guide Lantern
 1 Deafening Silence
 1 Roiling Vortex
 2 Raking Claws
@@ -28,31 +28,31 @@
 1 Scorching Dragonfire
 2 Scorching Dragonfire
 3 Scorching Dragonfire
+1 Embereth Shieldbreaker
 1 Coordinated Charge
 1 Cinderclasm
-1 Embereth Shieldbreaker
-2 Cinderclasm
 2 Embereth Shieldbreaker
+2 Cinderclasm
 3 Embereth Shieldbreaker
-1 Underworld Rage-Hound
-2 Underworld Rage-Hound
-1 Thundering Rebuke
-2 Thundering Rebuke
 2 Lurrus of the Dream-Den
 1 Blitz of the Thunder-Raptor
 2 Storm's Wrath
 2 Deafening Silence
 1 Neutralize
 1 Shark Typhoon
+1 Thundering Rebuke
 1 Zirda, the Dawnwaker
 2 Neutralize
 2 Shark Typhoon
+2 Thundering Rebuke
 3 Shark Typhoon
 3 Thundering Rebuke
 1 Blazing Volley
 2 Blazing Volley
 3 Blazing Volley
 1 Heliod's Intervention
+1 Underworld Rage-Hound
+2 Underworld Rage-Hound
 2 Blitz of the Thunder-Raptor
 3 Blitz of the Thunder-Raptor
 1 Shatterskull Smashing
@@ -60,16 +60,12 @@
 3 Shatterskull Smashing
 4 Shatterskull Smashing
 4 Mystical Dispute
-1 Hushbringer
-2 Hushbringer
-3 Hushbringer
-4 Hushbringer
 1 Sejiri Shelter
+1 Magmatic Channeler
 1 Shock
 1 Disenchant
-1 Magmatic Channeler
-2 Shock
 2 Sejiri Shelter
 2 Magmatic Channeler
 2 Disenchant
+2 Shock
 3 Disenchant

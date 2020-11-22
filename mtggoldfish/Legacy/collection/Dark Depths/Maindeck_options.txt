@@ -40,14 +40,15 @@
 3 Snow-Covered Swamp
 3 Dark Ritual
 4 Dark Ritual
+1 Snapcaster Mage
 1 Mystic Sanctuary
 1 Teferi, Time Raveler
-1 Snapcaster Mage
 1 Scalding Tarn
 1 Bloodstained Mire
 1 Tolaria West
 1 Ethersworn Canonist
 1 Marsh Flats
+1 Jace, the Mind Sculptor
 1 Arid Mesa
 1 Celestial Colonnade
 1 Maze of Ith
@@ -66,7 +67,6 @@
 1 Spell Pierce
 1 Rest in Peace
 1 Moat
-1 Jace, the Mind Sculptor
 1 Misdirection
 1 Supreme Verdict
 1 Inkwell Leviathan
@@ -106,8 +106,8 @@
 1 Scrubland
 1 Phyrexian Unlife
 1 Force of Will
-2 Teferi, Time Raveler
 2 Snapcaster Mage
+2 Teferi, Time Raveler
 2 Polluted Delta
 2 Toxic Deluge
 2 Intuition
@@ -128,7 +128,6 @@
 2 Snow-Covered Plains
 2 Scrubland
 2 Pact of Negation
-2 Jace, the Mind Sculptor
 2 Flusterstorm
 2 Baleful Strix
 2 Ponder
@@ -147,6 +146,7 @@
 2 Emrakul, the Aeons Torn
 2 Enlightened Tutor
 2 Brainstorm
+2 Jace, the Mind Sculptor
 2 Flooded Strand
 2 Tolaria West
 2 Ad Nauseam
@@ -181,7 +181,6 @@
 3 Counterspell
 3 Celestial Colonnade
 3 Snow-Covered Plains
-3 Flusterstorm
 3 Pact of Negation
 3 Baleful Strix
 3 Enlightened Tutor
@@ -189,6 +188,7 @@
 3 Force of Will
 3 Brainstorm
 3 Serum Visions
+3 Flusterstorm
 3 Personal Tutor
 3 Omniscience
 3 Windswept Heath
@@ -219,10 +219,10 @@
 4 Underground Sea
 4 Baleful Strix
 4 Polluted Delta
+4 Celestial Colonnade
 4 Marsh Flats
 4 Tolaria West
 4 Spell Pierce
-4 Celestial Colonnade
 4 Tundra
 4 Arcum's Astrolabe
 4 Battle of Wits
@@ -275,11 +275,11 @@
 4 Nurturing Peatland
 4 Not of This World
 1 Dakmor Salvage
-1 Liliana of the Veil
 1 Liliana's Triumph
+1 Liliana of the Veil
 1 Chalice of the Void
-1 Castle Locthwain
 1 Liliana, the Last Hope
+1 Castle Locthwain
 1 Wishclaw Talisman
 1 Cabal Pit
 1 Lake of the Dead

@@ -94,9 +94,9 @@
 1 Show and Tell
 1 Cunning Wish
 1 Emrakul, the Aeons Torn
+2 Spell Pierce
 2 Show and Tell
 2 Omniscience
-2 Spell Pierce
 2 Cunning Wish
 2 Emrakul, the Aeons Torn
 3 Show and Tell
@@ -116,13 +116,13 @@
 4 Teferi, Time Raveler
 1 Dreadhorde Arcanist
 1 Sprite Dragon
-1 Accumulated Knowledge
 1 Wasteland
+1 Accumulated Knowledge
 1 Stifle
 2 Dreadhorde Arcanist
+2 Stifle
 2 Wasteland
 2 Accumulated Knowledge
-2 Stifle
 3 Wasteland
 3 Accumulated Knowledge
 4 Wasteland
@@ -135,16 +135,17 @@
 1 Baleful Strix
 1 Plague Engineer
 2 Gurmag Angler
-2 Eliminate
 2 Spellseeker
+2 Eliminate
 2 Marsh Flats
 2 Plague Engineer
 2 Baleful Strix
 3 Marsh Flats
-3 Baleful Strix
 3 Eliminate
-4 Baleful Strix
+3 Baleful Strix
 4 Eliminate
+4 Baleful Strix
+1 True-Name Nemesis
 1 Path to Exile
 1 Enlightened Tutor
 1 Trade Routes
@@ -153,7 +154,6 @@
 1 Solitary Confinement
 1 Scroll Rack
 1 Land Tax
-1 True-Name Nemesis
 1 Web of Inertia
 2 Enlightened Tutor
 2 Land Tax
@@ -168,14 +168,14 @@
 5 Plains
 6 Plains
 7 Island
-1 Street Wraith
 1 Thassa's Oracle
-1 Lion's Eye Diamond
+1 Street Wraith
 1 Ideas Unbound
-1 Doomsday
 1 Edge of Autumn
 1 Thoughtseize
 1 Lotus Petal
+1 Doomsday
+1 Lion's Eye Diamond
 1 Scrubland
 1 Cavern of Souls
 1 Dark Ritual

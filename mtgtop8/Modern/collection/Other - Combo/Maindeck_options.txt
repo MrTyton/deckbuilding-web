@@ -5,28 +5,28 @@
 2 Goblin Charbelcher
 3 Goblin Charbelcher
 4 Goblin Charbelcher
+1 Bala Ged Recovery
 1 Spikefield Hazard
 1 Pyretic Ritual
-1 Desperate Ritual
 1 Valakut Awakening
 1 Recross the Paths
 1 Manamorphose
 1 Reforge the Soul
-1 Bala Ged Recovery
+1 Desperate Ritual
 1 Irencrag Feat
 2 Spikefield Hazard
-2 Desperate Ritual
 2 Valakut Awakening
 2 Bala Ged Recovery
 2 Irencrag Feat
 2 Manamorphose
 2 Recross the Paths
 2 Pyretic Ritual
+2 Desperate Ritual
 3 Shatterskull Smashing
 3 Spikefield Hazard
 3 Valakut Awakening
-3 Desperate Ritual
 3 Manamorphose
+3 Desperate Ritual
 3 Recross the Paths
 3 Irencrag Feat
 3 Bala Ged Recovery
@@ -34,11 +34,11 @@
 4 Shatterskull Smashing
 4 Spikefield Hazard
 4 Valakut Awakening
-4 Desperate Ritual
 4 Manamorphose
 4 Recross the Paths
 4 Irencrag Feat
 4 Pyretic Ritual
+4 Desperate Ritual
 4 Bala Ged Recovery
 3 Thoughtseize
 4 Hagra Mauling
@@ -251,6 +251,7 @@
 4 Omen of the Sea
 4 Darkslick Shores
 1 Lotus Field
+1 Empty the Warrens
 1 Shivan Reef
 1 Peer Through Depths
 1 Grapeshot
@@ -262,7 +263,6 @@
 1 Twiddle
 1 Psychic Puppetry
 1 Past in Flames
-1 Empty the Warrens
 1 Sleight of Hand
 1 Dream's Grip
 1 Vizier of Tumbling Sands
@@ -281,12 +281,12 @@
 2 Grapeshot
 2 Past in Flames
 2 Twiddle
-3 Sleight of Hand
 3 Lonely Sandbar
+3 Shivan Reef
+3 Sleight of Hand
 3 Past in Flames
 3 Serum Visions
 3 Ideas Unbound
-3 Shivan Reef
 3 Psychic Puppetry
 3 Peer Through Depths
 3 Lotus Field

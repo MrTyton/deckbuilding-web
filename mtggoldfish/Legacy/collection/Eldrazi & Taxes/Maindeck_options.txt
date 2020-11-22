@@ -33,8 +33,8 @@
 1 Seasoned Pyromancer
 1 Plateau
 1 Angrath's Marauders
-1 Winota, Joiner of Forces
 1 Battlefield Forge
+1 Winota, Joiner of Forces
 1 Simian Spirit Guide
 1 Blood Sun
 1 Legion Warboss
@@ -51,16 +51,16 @@
 3 Seasoned Pyromancer
 3 City of Traitors
 3 Plateau
-3 Winota, Joiner of Forces
-3 Angrath's Marauders
-3 Simian Spirit Guide
 3 Legion Warboss
+3 Angrath's Marauders
+3 Winota, Joiner of Forces
+3 Simian Spirit Guide
 3 Trinisphere
 4 Goblin Rabblemaster
 4 Angrath's Marauders
+4 Legion Warboss
 4 Plateau
 4 Winota, Joiner of Forces
-4 Legion Warboss
 4 Simian Spirit Guide
 4 City of Traitors
 4 Snow-Covered Plains
@@ -102,6 +102,7 @@
 1 Silent Clearing
 1 Eye of Ugin
 2 Eye of Ugin
+1 Sword of Feast and Famine
 1 Council's Judgment
 1 Sunbaked Canyon
 1 Godo, Bandit Warlord
@@ -109,7 +110,6 @@
 1 Magus of the Moon
 1 Talisman of Conviction
 1 Oblivion Ring
-1 Sword of Feast and Famine
 1 Emeria's Call
 2 Silent Clearing
 2 Horizon Canopy
@@ -122,13 +122,13 @@
 4 Seasoned Pyromancer
 1 Swamp
 1 Marsh Flats
-1 Wasteland Strangler
 1 Agonizing Remorse
+1 Wasteland Strangler
 2 Marsh Flats
-2 Wasteland Strangler
 2 Agonizing Remorse
-3 Wasteland Strangler
+2 Wasteland Strangler
 3 Agonizing Remorse
+3 Wasteland Strangler
 3 Marsh Flats
 4 Marsh Flats
 4 Wasteland Strangler

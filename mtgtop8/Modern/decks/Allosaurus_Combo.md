@@ -35,6 +35,6 @@
 |                    2|Turntimber Symbiosis                                                             |                    1|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
 |                    3|Turntimber Symbiosis                                                             |                    2|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)                   |
 |                    4|Turntimber Symbiosis                                                             |                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)    |
-|                     |                                                                                 |                    3|[Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)         |
 |                     |                                                                                 |                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)    |
+|                     |                                                                                 |                    3|[Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)         |
 
