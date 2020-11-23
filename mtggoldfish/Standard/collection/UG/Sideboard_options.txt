@@ -7,9 +7,9 @@
 1 Terror of the Peaks
 2 Fire Prophecy
 1 Ugin, the Spirit Dragon
+1 Ox of Agonas
 1 Phoenix of Ash
 1 Run Afoul
-1 Ox of Agonas
 2 Ox of Agonas
 2 Run Afoul
 3 Fire Prophecy
@@ -18,12 +18,13 @@
 1 Gemrazer
 1 Giant Killer
 1 Elspeth Conquers Death
-2 Giant Killer
 2 Elspeth Conquers Death
+2 Giant Killer
 3 Tormod's Crypt
 1 Baneslayer Angel
 2 Baneslayer Angel
 1 Heliod's Intervention
+1 Wilt
 1 Kazandu Nectarpot
 1 Roil Eruption
 1 Blazing Volley
@@ -34,70 +35,78 @@
 1 Heroic Intervention
 2 Heroic Intervention
 2 Kazandu Nectarpot
-1 Snarespinner
-2 Snarespinner
-3 Ranger's Guile
-4 Ranger's Guile
 1 Klothys, God of Destiny
 1 Garruk's Harbinger
 2 Garruk's Harbinger
+1 Cragplate Baloth
+1 Mystical Dispute
+2 Mystical Dispute
+1 Snarespinner
+2 Snarespinner
+3 Scavenging Ooze
+4 Scavenging Ooze
+3 Ranger's Guile
+4 Ranger's Guile
 2 Heliod's Intervention
 3 Giant Killer
 1 Suffocating Fumes
 2 Suffocating Fumes
-3 Elspeth Conquers Death
-1 Wilt
 2 Gemrazer
+1 Into the Roil
+2 Into the Roil
+3 Mystical Dispute
+1 Primal Might
+2 Primal Might
+3 Elspeth Conquers Death
 3 Kazandu Nectarpot
 4 Kazandu Nectarpot
 1 Duress
 2 Duress
 2 Wilt
-1 Cragplate Baloth
-1 Primal Might
-2 Primal Might
-1 Mystical Dispute
-2 Mystical Dispute
 1 Pouncing Shoreshark
-3 Scavenging Ooze
-4 Scavenging Ooze
+1 Bubble Snare
+2 Bubble Snare
 1 Stonecoil Serpent
 1 Scute Swarm
 3 Garruk's Harbinger
+1 Broken Wings
+1 Grasp of Darkness
+1 Cancel
+2 Broken Wings
+2 Grasp of Darkness
 2 Cragplate Baloth
 1 Elspeth's Nightmare
 2 Elspeth's Nightmare
-1 Dreamtail Heron
-1 Bubble Snare
-1 Cling to Dust
 1 Boon of the Wish-Giver
+1 Mystic Subdual
+1 Cling to Dust
+1 Dreamtail Heron
 1 Archipelagore
 1 Mind Carver
-1 Mystic Subdual
-2 Dreamtail Heron
-2 Bubble Snare
-2 Mystic Subdual
-2 Cling to Dust
 2 Boon of the Wish-Giver
+2 Mystic Subdual
 2 Archipelagore
+2 Cling to Dust
+2 Dreamtail Heron
+1 Bonecrusher Giant
+2 Klothys, God of Destiny
+2 Bonecrusher Giant
+3 Bonecrusher Giant
 1 Glass Casket
 1 Luminous Broodmoth
 2 Glass Casket
 2 Stonecoil Serpent
 2 Scute Swarm
 3 Glass Casket
+3 Blazing Volley
+3 Heliod's Intervention
 1 Barrier Breach
 3 Baneslayer Angel
-3 Heliod's Intervention
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-2 Klothys, God of Destiny
-3 Bonecrusher Giant
-3 Blazing Volley
+3 Bubble Snare
 1 Boneyard Lurker
 1 Zagoth Mamba
-2 Boneyard Lurker
 2 Zagoth Mamba
+2 Boneyard Lurker
 3 Boneyard Lurker
 3 Zagoth Mamba
 3 Snarespinner
@@ -107,21 +116,18 @@
 2 Witch's Vengeance
 3 Duress
 3 Witch's Vengeance
-1 Spikefield Hazard
 1 Akoum Hellhound
 1 Skyclave Pick-Axe
+1 Spikefield Hazard
 1 Spellgorger Weird
-2 Spikefield Hazard
 2 Terror of the Peaks
 2 Skyclave Pick-Axe
+2 Spikefield Hazard
 2 Spellgorger Weird
 2 Akoum Hellhound
 3 Spikefield Hazard
 3 Skyclave Pick-Axe
 3 Akoum Hellhound
-1 Into the Roil
-2 Into the Roil
-3 Mystical Dispute
 3 Primal Might
 1 Legion Angel
 1 Sorcerous Spyglass
@@ -130,23 +136,23 @@
 4 Elspeth Conquers Death
 1 Extinction Event
 1 Bloodchief's Thirst
-1 Heartless Act
 1 Lovestruck Beast
+1 Heartless Act
 1 Temple of Malady
-2 Extinction Event
 2 Lovestruck Beast
 2 Heartless Act
+2 Extinction Event
 4 Garruk's Harbinger
+1 Light of Hope
 1 Pacifism
 1 Nahiri's Binding
-1 Light of Hope
 1 Ram Through
 2 Pacifism
+2 Light of Hope
 2 Nahiri's Binding
 2 Ram Through
-2 Light of Hope
-3 Nahiri's Binding
 3 Pacifism
+3 Nahiri's Binding
 3 Ram Through
 4 Nahiri's Binding
 4 Ram Through
@@ -159,6 +165,5 @@
 1 Yasharn, Implacable Earth
 1 Roiling Vortex
 2 Yasharn, Implacable Earth
-2 Roiling Vortex
 3 Yasharn, Implacable Earth
-1 Chromatic Orrery
+2 Roiling Vortex

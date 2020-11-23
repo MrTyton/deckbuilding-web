@@ -29,13 +29,13 @@
 2 Verdant Catacombs
 3 Pillar of the Paruns
 1 Unsettled Mariner
-1 Aether Vial
 1 Cavern of Souls
 1 Mutavault
 1 Unclaimed Territory
 1 Galerider Sliver
 1 Silent Clearing
 1 Sinew Sliver
+1 Aether Vial
 1 Cloudshredder Sliver
 1 Sliver Hive
 1 Predatory Sliver
@@ -47,11 +47,11 @@
 1 Fiery Islet
 2 Unsettled Mariner
 2 Fiery Islet
-2 Aether Vial
 2 Cavern of Souls
 2 Mutavault
 2 Unclaimed Territory
 2 Leeching Sliver
+2 Aether Vial
 2 Silent Clearing
 2 Sinew Sliver
 2 Frenetic Sliver
@@ -63,7 +63,6 @@
 2 Predatory Sliver
 2 Galerider Sliver
 3 Unsettled Mariner
-3 Aether Vial
 3 Mutavault
 3 Unclaimed Territory
 3 Cloudshredder Sliver
@@ -74,14 +73,15 @@
 3 Sinew Sliver
 3 Frenetic Sliver
 3 Predatory Sliver
+3 Aether Vial
 4 Unsettled Mariner
 4 Cavern of Souls
-4 Aether Vial
 4 Unclaimed Territory
 4 Predatory Sliver
 4 Sinew Sliver
 4 Sliver Hive
 4 Galerider Sliver
+4 Aether Vial
 4 Leeching Sliver
 4 Cloudshredder Sliver
 3 Verdant Catacombs
@@ -96,8 +96,8 @@
 1 Maelstrom Pulse
 1 Blood Crypt
 3 Abrupt Decay
-1 Saheeli Rai
 1 Felidar Guardian
+1 Saheeli Rai
 2 Saheeli Rai
 1 Godless Shrine
 1 Kaya, Orzhov Usurper

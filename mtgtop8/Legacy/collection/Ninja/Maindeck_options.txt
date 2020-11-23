@@ -3,19 +3,16 @@
 1 Swamp
 2 Swamp
 2 Island
-3 Island
-3 Fatal Push
 1 Force of Negation
 2 Force of Negation
-3 Swamp
-4 Island
-1 Flooded Strand
-2 Flooded Strand
+3 Fatal Push
+3 Island
 1 Misty Rainforest
+1 Verdant Catacombs
+1 Eliminate
 1 Tropical Island
 1 Bayou
 1 Abrupt Decay
-1 Verdant Catacombs
 1 Oko, Thief of Crowns
 2 Misty Rainforest
 2 Tropical Island
@@ -24,10 +21,13 @@
 2 Oko, Thief of Crowns
 3 Oko, Thief of Crowns
 3 Misty Rainforest
-1 Mothdust Changeling
+1 Murderous Cut
+3 Swamp
+4 Island
+1 Flooded Strand
+2 Flooded Strand
 1 Scalding Tarn
 2 Scalding Tarn
-1 Eliminate
 1 Badlands
 1 Volcanic Island
 1 Preordain
@@ -38,18 +38,25 @@
 2 Dreadhorde Arcanist
 3 Force of Negation
 3 Dreadhorde Arcanist
-1 Ninja of the Deep Hours
-2 Brazen Borrower
-2 Mothdust Changeling
-2 Ninja of the Deep Hours
-3 Mothdust Changeling
-4 Daze
-4 Mothdust Changeling
-1 Murderous Cut
+4 Snow-Covered Island
 5 Island
+1 Mothdust Changeling
+1 Narset, Parter of Veils
 1 Sea Gate Restoration
 1 Tyrant's Scorn
+1 Thoughtseize
+1 Watery Grave
+1 Liliana of the Veil
+2 Thoughtseize
+2 Watery Grave
 3 Baleful Strix
+1 Ancient Tomb
+1 Show and Tell
+1 Emrakul, the Aeons Torn
+2 Emrakul, the Aeons Torn
+2 Show and Tell
+3 Show and Tell
+3 Emrakul, the Aeons Torn
 1 Marsh Flats
 1 Tundra
 1 Teferi, Time Raveler
@@ -63,16 +70,10 @@
 2 Tundra
 3 Swords to Plowshares
 4 Swords to Plowshares
-1 Thoughtseize
-1 Watery Grave
-1 Liliana of the Veil
-2 Thoughtseize
-2 Watery Grave
-4 Snow-Covered Island
-1 Ancient Tomb
-1 Show and Tell
-1 Emrakul, the Aeons Torn
-2 Emrakul, the Aeons Torn
-2 Show and Tell
-3 Show and Tell
-3 Emrakul, the Aeons Torn
+1 Ninja of the Deep Hours
+2 Brazen Borrower
+2 Mothdust Changeling
+2 Ninja of the Deep Hours
+3 Mothdust Changeling
+4 Daze
+4 Mothdust Changeling

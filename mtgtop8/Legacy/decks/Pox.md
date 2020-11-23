@@ -41,6 +41,6 @@
 |                    2|[Nether Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1453)              |                    1|[Toxic Deluge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376559)        |
 |                    1|Bloodchief's Thirst                                                                               |                     |                                                                                               |
 |                    2|Bloodchief's Thirst                                                                               |                     |                                                                                               |
-|                    3|[Karn, the Great Creator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460928)|                     |                                                                                               |
 |                    3|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)       |                     |                                                                                               |
+|                    3|[Karn, the Great Creator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460928)|                     |                                                                                               |
 
