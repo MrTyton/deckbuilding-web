@@ -1,31 +1,30 @@
 1 Peek
 1 Temple of Epiphany
 3 Serum Visions
-1 Force of Negation
 3 Cryptic Command
+1 Force of Negation
 2 Force of Negation
+4 Serum Visions
 1 Mystic Sanctuary
 1 Steam Vents
 1 Scalding Tarn
 2 Scalding Tarn
 2 Steam Vents
 3 Scalding Tarn
+1 Blood Moon
 2 Mystic Sanctuary
 4 Scalding Tarn
 4 Island
 5 Island
 6 Island
-4 Serum Visions
-1 Blood Moon
 2 Mountain
-1 Thing in the Ice
-2 Thing in the Ice
-3 Thing in the Ice
 2 Blood Moon
 1 Polluted Delta
 1 Mana Leak
 3 Steam Vents
-1 Spell Pierce
+1 Thing in the Ice
+2 Thing in the Ice
+3 Thing in the Ice
 2 Polluted Delta
 3 Polluted Delta
 4 Polluted Delta
@@ -39,9 +38,8 @@
 4 Emrakul, the Aeons Torn
 4 Through the Breach
 2 Abrade
-1 Flooded Strand
+1 Spell Pierce
 1 Narset, Parter of Veils
-7 Island
 1 Sulfur Falls
 1 Ral, Izzet Viceroy
 2 Mana Leak
@@ -50,29 +48,31 @@
 4 Omen of the Sea
 1 Fiery Islet
 3 Force of Negation
+1 Flooded Strand
+3 Crackling Drake
 1 Pestermite
 2 Pestermite
 4 Kiki-Jiki, Mirror Breaker
 4 Deceiver Exarch
+7 Island
 2 Temple of Epiphany
 4 Reflecting Pool
 1 Silundi Vision
 2 Silundi Vision
-2 Flooded Strand
-3 Flooded Strand
 1 Jace, the Mind Sculptor
-3 Crackling Drake
 3 Mystic Sanctuary
 4 Steam Vents
 1 Prismatic Vista
+2 Flooded Strand
+3 Flooded Strand
 1 Misty Rainforest
 2 Jace, the Mind Sculptor
 2 Fiery Islet
-1 Brazen Borrower
-2 Spell Pierce
 1 Clearwater Pathway
 1 Shadow of Doubt
 1 Vendilion Clique
+1 Brazen Borrower
+2 Spell Pierce
 1 Shivan Reef
 2 Shivan Reef
 3 Temple of Epiphany
@@ -100,14 +100,3 @@
 2 Deliberate
 3 Deliberate
 4 Deliberate
-1 The Royal Scions
-1 Fire Prophecy
-1 Bonecrusher Giant
-1 Blast Zone
-2 Brazen Borrower
-2 The Royal Scions
-2 Bonecrusher Giant
-2 Magmatic Sinkhole
-4 Flooded Strand
-4 Archmage's Charm
-8 Island

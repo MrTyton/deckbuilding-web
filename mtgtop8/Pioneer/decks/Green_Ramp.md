@@ -49,6 +49,6 @@
 |                    4|[Elvish Rejuvenator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447316)          |                     |                                                                                                  |
 |                    4|[World Breaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407636)               |                     |                                                                                                  |
 |                    4|[Cavalier of Thorns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466921)          |                     |                                                                                                  |
-|                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                      |                     |                                                                                                  |
 |                    9|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                      |                     |                                                                                                  |
+|                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                      |                     |                                                                                                  |
 

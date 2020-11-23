@@ -1,4 +1,5 @@
 2 Hagra Mauling
+2 Acquisitions Expert
 2 Shepherd of the Flock
 2 Elspeth's Nightmare
 2 Treacherous Blessing
@@ -6,7 +7,6 @@
 2 Scoured Barrens
 2 The Birth of Meletis
 2 Elspeth Conquers Death
-2 Acquisitions Expert
 2 Emeria's Call
 2 Glass Casket
 2 Doom Foretold
@@ -18,15 +18,15 @@
 3 Yorion, Sky Nomad
 3 Omen of the Sun
 3 Temple of Silence
-3 Shepherd of the Flock
 3 Acquisitions Expert
+3 Shepherd of the Flock
 3 Elspeth's Nightmare
 3 Treacherous Blessing
 3 Scoured Barrens
 3 The Birth of Meletis
-3 Archon of Sun's Grace
 3 Elspeth Conquers Death
 3 Glass Casket
+3 Archon of Sun's Grace
 3 Emeria's Call
 3 Omen of the Dead
 3 Fabled Passage
@@ -64,10 +64,9 @@
 3 Lavabrink Venturer
 3 Blacklance Paragon
 4 Lavabrink Venturer
-1 Blood Curdle
 1 Whisper Squad
-1 Bastion of Remembrance
 1 Lampad of Death's Vigil
+1 Bastion of Remembrance
 1 Village Rites
 1 Grasp of Darkness
 1 Luminous Broodmoth
@@ -75,20 +74,21 @@
 1 Lurking Deadeye
 1 Nightsquad Commando
 1 Evolving Wilds
+1 Blood Curdle
 1 Sanctuary Lockdown
-2 Blood Curdle
 2 Whisper Squad
-2 Bastion of Remembrance
 2 Lampad of Death's Vigil
+2 Bastion of Remembrance
 2 Village Rites
 2 Grasp of Darkness
+2 Blood Curdle
 2 Lurking Deadeye
 2 Sanctuary Lockdown
 2 Evolving Wilds
 2 Nightsquad Commando
-3 Evolving Wilds
 3 Whisper Squad
 3 Bastion of Remembrance
+3 Evolving Wilds
 3 Nightsquad Commando
 4 Evolving Wilds
 4 Whisper Squad
@@ -106,8 +106,8 @@
 3 Agadeem's Awakening
 3 Selfless Savior
 3 Luminarch Aspirant
-4 Selfless Savior
 4 Giant Killer
 4 Dire Tactics
+4 Selfless Savior
 4 Luminarch Aspirant
 4 Kitesail Freebooter

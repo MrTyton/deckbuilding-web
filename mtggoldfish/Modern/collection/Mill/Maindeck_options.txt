@@ -2,27 +2,29 @@
 2 Bloodchief's Thirst
 4 Mesmeric Orb
 4 Maddening Cacophony
-2 Flooded Strand
-4 Island
 1 Snow-Covered Island
 1 Snow-Covered Swamp
 2 Snow-Covered Island
 1 Shelldock Isle
 3 Snow-Covered Island
+2 Flooded Strand
+4 Island
 3 Bloodchief's Thirst
 4 Surgical Extraction
 1 Ashiok, Dream Render
 2 Ashiok, Dream Render
+2 Snow-Covered Swamp
 1 Fraying Sanity
 2 Fraying Sanity
-2 Snow-Covered Swamp
 2 Crypt Incursion
-3 Watery Grave
-1 Mystic Sanctuary
 1 Search for Azcanta
 1 Engineered Explosives
-1 Misty Rainforest
+3 Watery Grave
+1 Mystic Sanctuary
 4 Snow-Covered Island
+1 Misty Rainforest
+1 Eliminate
+2 Shelldock Isle
 3 Flooded Strand
 4 Flooded Strand
 5 Island
@@ -31,6 +33,13 @@
 2 Thieves' Guild Enforcer
 3 Thieves' Guild Enforcer
 3 Swamp
+1 Murderous Cut
+1 Echoing Truth
+1 Damnation
+1 Manic Scribe
+2 Echoing Truth
+2 Damnation
+2 Manic Scribe
 3 Darkslick Shores
 4 Bloodchief's Thirst
 1 Soul-Guide Lantern
@@ -40,21 +49,13 @@
 1 Mission Briefing
 1 Trapmaker's Snare
 2 Trapmaker's Snare
-1 Eliminate
-2 Shelldock Isle
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 1 Sunken Hollow
 1 Set Adrift
 2 Mission Briefing
 3 Prismatic Vista
-1 Murderous Cut
-1 Echoing Truth
-1 Damnation
-1 Manic Scribe
-2 Echoing Truth
-2 Damnation
-2 Manic Scribe
+3 Manic Scribe
 4 Soul-Guide Lantern
 1 Scalding Tarn
 1 Mana Leak
@@ -67,13 +68,9 @@
 1 Cryptic Command
 2 Cryptic Command
 2 Mystic Sanctuary
-1 Hallowed Fountain
-1 Plains
-2 Hallowed Fountain
 1 Silundi Vision
 2 Silundi Vision
 2 Engineered Explosives
-3 Manic Scribe
 1 Ensnaring Bridge
 1 Ravenous Trap
 2 Ensnaring Bridge
@@ -83,71 +80,32 @@
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
-1 Settle the Wreckage
 1 Teferi, Time Raveler
+1 Hallowed Fountain
+1 Settle the Wreckage
 1 Archmage's Charm
-1 Path to Exile
 1 Force of Negation
+1 Plains
+1 Path to Exile
 2 Teferi, Time Raveler
+2 Hallowed Fountain
 2 Plains
 2 Settle the Wreckage
 2 Path to Exile
 2 Archmage's Charm
 2 Force of Negation
-3 Hallowed Fountain
 3 Path to Exile
+3 Hallowed Fountain
 4 Path to Exile
-1 Dakmor Salvage
-1 Godless Shrine
-1 Ransack the Lab
-1 Stitcher's Supplier
-1 Glasspool Mimic
-1 Jace, Vryn's Prodigy
-1 Unburial Rites
-1 Ashen Rider
-1 Vesperlark
-1 Silent Clearing
-1 Mind Rake
-1 Marsh Flats
-1 Jin-Gitaxias, Core Augur
-1 Footsteps of the Goryo
-1 Collective Brutality
-1 Body Double
-1 Woodfall Primus
-2 Stitcher's Supplier
-2 Glasspool Mimic
-2 Jace, Vryn's Prodigy
-2 Ashen Rider
-2 Woodfall Primus
-2 Mind Rake
-2 Unburial Rites
-2 Marsh Flats
-2 Collective Brutality
-2 Vesperlark
-2 Footsteps of the Goryo
-2 Body Double
-3 Stitcher's Supplier
-3 Collective Brutality
-3 Ashen Rider
-3 Jace, Vryn's Prodigy
-3 Body Double
-3 Woodfall Primus
-3 Vesperlark
-3 Footsteps of the Goryo
-4 Stitcher's Supplier
-4 Woodfall Primus
-4 Vesperlark
-4 Body Double
-4 Footsteps of the Goryo
 1 Field of the Dead
 1 Snow-Covered Forest
-1 Simic Growth Chamber
 1 Lonely Sandbar
-1 Growth Spiral
 1 Breeding Pool
+1 Growth Spiral
 1 Time Warp
 1 Assassin's Trophy
 1 Maelstrom Pulse
+1 Simic Growth Chamber
 1 Raven's Crime
 1 Uro, Titan of Nature's Wrath
 1 Zagoth Triome

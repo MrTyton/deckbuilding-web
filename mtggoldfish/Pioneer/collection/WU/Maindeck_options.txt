@@ -1,16 +1,18 @@
+1 Idyllic Grange
+1 Detention Sphere
+1 Charming Prince
 1 Arcanist's Owl
 1 Stasis Snare
-1 Thraben Inspector
 2 Temple of Enlightenment
 2 Heliod, Sun-Crowned
 2 Daxos, Blessed by the Sun
 2 Baffling End
 2 Nykthos, Shrine to Nyx
+2 Thraben Inspector
 2 Knight of the White Orchid
 2 Stasis Snare
-2 Charming Prince
 2 Arcanist's Owl
-2 Thraben Inspector
+2 Charming Prince
 3 Temple of Enlightenment
 3 Heliod, Sun-Crowned
 3 Daxos, Blessed by the Sun
@@ -38,10 +40,8 @@
 11 Plains
 4 Island
 5 Island
-1 Censor
-2 Censor
-3 Dig Through Time
 1 Field of Ruin
+3 Dig Through Time
 1 Absorb
 2 Absorb
 2 Detention Sphere
@@ -78,9 +78,19 @@
 1 Sinister Sabotage
 2 Sinister Sabotage
 4 Teferi, Hero of Dominaria
+3 Fabled Passage
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
+3 Narset, Parter of Veils
 1 Settle the Wreckage
 1 Thassa's Intervention
-3 Fabled Passage
+1 Neutralize
+1 Isolated Chapel
+1 Watery Grave
+2 Isolated Chapel
+2 Watery Grave
+3 Isolated Chapel
+3 Watery Grave
 1 Thassa, Deep-Dwelling
 1 Skyclave Apparition
 2 Thassa, Deep-Dwelling
@@ -90,20 +100,54 @@
 2 Banishing Light
 4 Reflector Mage
 1 Brazen Borrower
-1 Neutralize
 1 Ondu Inversion
 1 Gideon of the Trials
 2 Gideon of the Trials
 1 Omen of the Sun
 2 Omen of the Sun
 1 Geier Reach Sanitarium
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
 2 Thassa's Intervention
-3 Narset, Parter of Veils
 3 Field of Ruin
 1 Emeria's Call
 4 Censor
+1 Prairie Stream
+1 Ashiok, Nightmare Muse
+1 Declaration in Stone
+1 Thought Erasure
+1 Eliminate
+1 Swamp
+1 Dragonlord Ojutai
+1 Castle Locthwain
+2 Declaration in Stone
+2 Eliminate
+2 Thought Erasure
+2 Prairie Stream
+2 Neutralize
+2 Ashiok, Nightmare Muse
+3 Ashiok, Nightmare Muse
+3 Neutralize
+3 Declaration in Stone
+4 Watery Grave
+4 Fabled Passage
+4 Neutralize
+1 Heartless Act
+1 Drowned Catacomb
+1 Godless Shrine
+1 Fatal Push
+1 Thing in the Ice
+2 Heartless Act
+2 Drowned Catacomb
+2 Fatal Push
+2 Godless Shrine
+2 Thing in the Ice
+3 Heartless Act
+3 Drowned Catacomb
+3 Thing in the Ice
+3 Godless Shrine
+4 Heartless Act
+4 Thing in the Ice
+4 Drowned Catacomb
+4 Narset, Parter of Veils
 1 Render Silent
 2 Render Silent
 3 Render Silent
