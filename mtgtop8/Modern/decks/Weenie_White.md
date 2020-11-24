@@ -1,0 +1,36 @@
+# Weenie White
+
+#### [Export MTGO List](../collection/Weenie%20White/Weenie%20White.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A4%09Auriok%20Champion%0A4%09Cavern%20of%20Souls%0A3%09Field%20of%20Ruin%0A4%09Giver%20of%20Runes%0A2%09Grand%20Abolisher%0A1%09Hangarback%20Walker%0A4%09Heliod,%20Sun-Crowned%0A2%09Horizon%20Canopy%0A4%09Luminarch%20Aspirant%0A2%09Ranger%20of%20Eos%0A4%09Ranger-Captain%20of%20Eos%0A1%09Silent%20Clearing%0A4%09Skyclave%20Apparition%0A12%09Snow-Covered%20Plains%0A1%09Sunbaked%20Canyon%0A4%09Walking%20Ballista&deckside=1%09Archon%20of%20Emeria%0A2%09Aven%20Mindcensor%0A1%09Burrenton%20Forge-Tender%0A3%09Damping%20Sphere%0A1%09Giant%20Killer%0A3%09Path%20to%20Exile%0A2%09Rest%20in%20Peace%0A2%09Wheel%20of%20Sun%20and%20Moon)
+# Maindeck
+
+|                                     Artifact (4)                                      |                                          Creature (33)                                           |                                            Land (23)                                            |
+|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|4 [Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48146)|4 [Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)       |4 [Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)     |
+|                                                                                       |4 [Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)       |3 [Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)       |
+|                                                                                       |2 [Grand Abolisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389538)      |2 [Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)      |
+|                                                                                       |1 [Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)    |1 [Silent Clearing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464195)     |
+|                                                                                       |4 [Heliod, Sun-Crowned](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476269)  |12 [Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|
+|                                                                                       |4 [Luminarch Aspirant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491647)   |1 [Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)     |
+|                                                                                       |2 [Ranger of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174823)        |                                                                                                 |
+|                                                                                       |4 [Ranger-Captain of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463970)|                                                                                                 |
+|                                                                                       |4 [Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)  |                                                                                                 |
+|                                                                                       |4 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)     |                                                                                                 |
+
+
+# Sideboard
+
+|                                       Artifact (3)                                        |                                           Creature (5)                                            |                                         Enchantment (4)                                          |                                       Instant (3)                                        |
+|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+|3 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|1 [Archon of Emeria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495594)      |2 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)        |3 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|
+|                                                                                           |2 [Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)       |2 [Wheel of Sun and Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=146740)|                                                                                          |
+|                                                                                           |1 [Burrenton Forge-Tender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438580)|                                                                                                  |                                                                                          |
+|                                                                                           |1 [Giant Killer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472976)          |                                                                                                  |                                                                                          |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
+|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
+|                    3|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)|                    1|[Grand Abolisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389538)|
+
