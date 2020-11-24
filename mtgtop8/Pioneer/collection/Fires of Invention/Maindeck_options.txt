@@ -6,8 +6,8 @@
 1 Lukka, Coppercoat Outcast
 3 Anger of the Gods
 2 Omen of the Sun
-3 Omen of the Sun
 3 Sulfur Falls
+3 Omen of the Sun
 4 Omen of the Sun
 1 Castle Vantress
 1 Supreme Verdict
@@ -45,33 +45,33 @@
 3 Fabled Passage
 1 Nahiri, the Harbinger
 1 Growth Spiral
-1 Omnath, Locus of Creation
 1 Oath of Nissa
 1 Breeding Pool
 1 Sunpetal Grove
 1 Uro, Titan of Nature's Wrath
+1 Omnath, Locus of Creation
 1 Yorion, Sky Nomad
 1 Stomping Ground
 1 Forest
 2 Yorion, Sky Nomad
-2 Growth Spiral
-2 Omnath, Locus of Creation
 2 Breeding Pool
 2 Forest
+2 Omnath, Locus of Creation
+2 Growth Spiral
 2 Stomping Ground
 2 Oath of Nissa
 2 Sunpetal Grove
 2 Uro, Titan of Nature's Wrath
-3 Growth Spiral
-3 Omnath, Locus of Creation
 3 Sunpetal Grove
 3 Oath of Nissa
 3 Stomping Ground
 3 Uro, Titan of Nature's Wrath
-4 Growth Spiral
+3 Growth Spiral
+3 Omnath, Locus of Creation
 4 Oath of Nissa
 4 Fabled Passage
 4 Sunpetal Grove
+4 Growth Spiral
 1 Skyclave Apparition
 2 Skyclave Apparition
 3 Skyclave Apparition
@@ -97,10 +97,10 @@
 1 Savai Triome
 1 Interplanar Beacon
 1 Fae of Wishes
+2 Teferi, Hero of Dominaria
 2 Baffling End
 2 Savai Triome
 2 Interplanar Beacon
-2 Teferi, Hero of Dominaria
 2 Fae of Wishes
 3 Fae of Wishes
 4 Fae of Wishes
@@ -108,19 +108,19 @@
 4 Aether Gust
 4 Anger of the Gods
 4 Plains
-1 Arboreal Grazer
 1 Satyr Wayfinder
+1 Arboreal Grazer
 1 Temple Garden
 1 Hinterland Harbor
 1 Karn, the Great Creator
+2 Satyr Wayfinder
 2 Arboreal Grazer
 2 Hinterland Harbor
 2 Karn, the Great Creator
-2 Satyr Wayfinder
 2 Temple Garden
 3 Yorion, Sky Nomad
-3 Arboreal Grazer
 3 Satyr Wayfinder
+3 Arboreal Grazer
 3 Karn, the Great Creator
 3 Hinterland Harbor
 4 Skyclave Apparition

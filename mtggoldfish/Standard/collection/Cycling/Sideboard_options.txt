@@ -1,11 +1,9 @@
 1 Soul-Guide Lantern
-2 Soul-Guide Lantern
 1 Negate
 2 Negate
+2 Soul-Guide Lantern
 3 Negate
 2 Shredded Sails
-1 Raking Claws
-3 Shredded Sails
 1 Storm's Wrath
 1 Glass Casket
 2 Glass Casket
@@ -18,7 +16,9 @@
 3 Ox of Agonas
 3 Duress
 4 Duress
+3 Shredded Sails
 3 Soul-Guide Lantern
+1 Raking Claws
 1 Deafening Silence
 2 Raking Claws
 1 Roiling Vortex
@@ -26,17 +26,21 @@
 1 Scorching Dragonfire
 2 Scorching Dragonfire
 3 Scorching Dragonfire
-1 Embereth Shieldbreaker
-1 Coordinated Charge
-1 Cinderclasm
-2 Embereth Shieldbreaker
-2 Cinderclasm
-3 Embereth Shieldbreaker
+1 Neutralize
+2 Neutralize
+1 Easy Prey
+1 Will of the All-Hunter
+1 Suffocating Fumes
+2 Easy Prey
+2 Will of the All-Hunter
+2 Suffocating Fumes
+3 Easy Prey
+3 Neutralize
+3 Raking Claws
+3 Suffocating Fumes
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
 1 Zirda, the Dawnwaker
-1 Neutralize
-2 Neutralize
 1 Shark Typhoon
 2 Shark Typhoon
 3 Shark Typhoon
@@ -47,32 +51,28 @@
 2 Lurrus of the Dream-Den
 1 Blitz of the Thunder-Raptor
 2 Deafening Silence
-1 Improbable Alliance
 1 Yidaro, Wandering Monster
+1 Improbable Alliance
 2 Yidaro, Wandering Monster
 2 Improbable Alliance
-3 Improbable Alliance
 3 Yidaro, Wandering Monster
+3 Improbable Alliance
+1 Coordinated Charge
+1 Embereth Shieldbreaker
+1 Cinderclasm
+2 Embereth Shieldbreaker
+2 Cinderclasm
+3 Embereth Shieldbreaker
 1 Giant Killer
 2 Giant Killer
 3 Giant Killer
-1 Easy Prey
-1 Suffocating Fumes
-1 Will of the All-Hunter
-2 Easy Prey
-2 Suffocating Fumes
-2 Will of the All-Hunter
-3 Easy Prey
-3 Neutralize
-3 Raking Claws
-3 Suffocating Fumes
 1 Blazing Volley
 2 Blazing Volley
 3 Blazing Volley
-1 Heliod's Intervention
 1 Underworld Rage-Hound
-2 Blitz of the Thunder-Raptor
+1 Heliod's Intervention
 2 Underworld Rage-Hound
+2 Blitz of the Thunder-Raptor
 3 Blitz of the Thunder-Raptor
 4 Mystical Dispute
 1 Shatterskull Smashing
@@ -83,8 +83,8 @@
 1 Magmatic Channeler
 1 Disenchant
 1 Shock
-2 Magmatic Channeler
-2 Shock
 2 Sejiri Shelter
+2 Magmatic Channeler
 2 Disenchant
+2 Shock
 3 Disenchant

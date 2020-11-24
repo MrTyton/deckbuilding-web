@@ -1,7 +1,7 @@
 3 Blackcleave Cliffs
 2 Blood Crypt
 4 Bloodbraid Elf
-3 Bloodstained Mire
+4 Bloodstained Mire
 3 Fatal Push
 1 Forest
 4 Inquisition of Kozilek
@@ -11,7 +11,7 @@
 4 Liliana of the Veil
 1 Mountain
 1 Nihil Spellbomb
-2 Nurturing Peatland
+1 Nurturing Peatland
 2 Overgrown Tomb
 2 Raging Ravine
 2 Seasoned Pyromancer
@@ -28,5 +28,6 @@ Sideboard
 2 Boil
 3 Cleansing Wildfire
 2 Collective Brutality
-3 Nihil Spellbomb
+1 Fatal Push
+2 Nihil Spellbomb
 2 Plague Engineer

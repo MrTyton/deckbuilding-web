@@ -34,8 +34,8 @@
 3 Thieves' Guild Enforcer
 3 Swamp
 1 Murderous Cut
-1 Echoing Truth
 1 Damnation
+1 Echoing Truth
 1 Manic Scribe
 2 Echoing Truth
 2 Damnation
@@ -65,16 +65,16 @@
 4 Frantic Inventory
 3 Inquisition of Kozilek
 1 Cryptic Command
-2 Cryptic Command
 2 Mystic Sanctuary
-1 Hallowed Fountain
+2 Cryptic Command
 1 Plains
+1 Hallowed Fountain
 2 Hallowed Fountain
 1 Silundi Vision
 2 Silundi Vision
 2 Engineered Explosives
-1 Ensnaring Bridge
 1 Ravenous Trap
+1 Ensnaring Bridge
 2 Ravenous Trap
 2 Ensnaring Bridge
 3 Shelldock Isle
@@ -82,25 +82,24 @@
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
-1 Settle the Wreckage
-1 Teferi, Time Raveler
 1 Archmage's Charm
-1 Path to Exile
 1 Force of Negation
-2 Settle the Wreckage
+1 Settle the Wreckage
+1 Path to Exile
+1 Teferi, Time Raveler
 2 Teferi, Time Raveler
-2 Plains
-2 Path to Exile
 2 Archmage's Charm
 2 Force of Negation
-3 Hallowed Fountain
+2 Plains
+2 Path to Exile
+2 Settle the Wreckage
 3 Path to Exile
+3 Hallowed Fountain
 4 Path to Exile
 1 Dakmor Salvage
 1 Godless Shrine
 1 Ransack the Lab
 1 Stitcher's Supplier
-1 Glasspool Mimic
 1 Jace, Vryn's Prodigy
 1 Unburial Rites
 1 Ashen Rider
@@ -112,9 +111,9 @@
 1 Footsteps of the Goryo
 1 Collective Brutality
 1 Body Double
+1 Glasspool Mimic
 1 Woodfall Primus
 2 Stitcher's Supplier
-2 Glasspool Mimic
 2 Jace, Vryn's Prodigy
 2 Ashen Rider
 2 Woodfall Primus
@@ -125,6 +124,7 @@
 2 Vesperlark
 2 Footsteps of the Goryo
 2 Body Double
+2 Glasspool Mimic
 3 Stitcher's Supplier
 3 Collective Brutality
 3 Ashen Rider
@@ -142,7 +142,6 @@
 1 Snow-Covered Forest
 1 Lonely Sandbar
 1 Growth Spiral
-1 Breeding Pool
 1 Time Warp
 1 Assassin's Trophy
 1 Maelstrom Pulse
@@ -151,18 +150,19 @@
 1 Uro, Titan of Nature's Wrath
 1 Zagoth Triome
 1 Abrupt Decay
+1 Breeding Pool
 1 Remand
 1 Life from the Loam
+2 Time Warp
 2 Growth Spiral
 2 Breeding Pool
-2 Time Warp
 2 Remand
 2 Uro, Titan of Nature's Wrath
 2 Simic Growth Chamber
 2 Life from the Loam
 3 Misty Rainforest
-3 Growth Spiral
 3 Time Warp
+3 Growth Spiral
 3 Life from the Loam
 3 Mystic Sanctuary
 3 Cryptic Command

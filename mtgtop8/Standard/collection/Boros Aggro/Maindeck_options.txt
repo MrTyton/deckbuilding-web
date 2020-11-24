@@ -19,8 +19,8 @@
 1 Clearwater Pathway
 9 Plains
 2 Raugrin Triome
-1 Spikefield Hazard
 1 Sejiri Shelter
+1 Spikefield Hazard
 7 Mountain
 8 Mountain
 1 Ominous Seas
@@ -55,9 +55,9 @@
 1 Imposing Vantasaur
 1 Indatha Triome
 2 Fiend Artisan
+2 Splendor Mare
 2 Imposing Vantasaur
 2 Titanoth Rex
-2 Splendor Mare
 3 Fiend Artisan
 3 Splendor Mare
 3 Titanoth Rex
@@ -76,13 +76,9 @@
 4 Yidaro, Wandering Monster
 4 Raugrin Triome
 4 Improbable Alliance
-1 Raking Claws
-2 Raking Claws
-9 Mountain
-10 Plains
 1 Embercleave
-1 Seasoned Hallowblade
 1 Castle Embereth
+1 Seasoned Hallowblade
 1 Fireblade Charger
 1 Robber of the Rich
 1 Bonecrusher Giant
@@ -104,8 +100,8 @@
 2 Selfless Savior
 3 Seasoned Hallowblade
 3 Fireblade Charger
-3 Relic Robber
 3 Robber of the Rich
+3 Relic Robber
 3 Embercleave
 3 Skyclave Apparition
 3 Selfless Savior
@@ -114,11 +110,15 @@
 3 Luminarch Aspirant
 4 Seasoned Hallowblade
 4 Fireblade Charger
-4 Relic Robber
 4 Robber of the Rich
+4 Relic Robber
 4 Archpriest of Iona
 4 Temple of Triumph
 4 Skyclave Apparition
 4 Selfless Savior
 4 Embercleave
 4 Luminarch Aspirant
+10 Plains
+1 Raking Claws
+2 Raking Claws
+9 Mountain

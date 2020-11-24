@@ -21,8 +21,8 @@
 2 Firebolt
 3 Firebolt
 3 Bonecrusher Giant
-4 Bonecrusher Giant
 4 Firebolt
+4 Bonecrusher Giant
 14 Mountain
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
@@ -81,6 +81,10 @@
 1 Castle Embereth
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
+1 Shatterskull Smashing
+2 Shatterskull Smashing
+3 Shatterskull Smashing
+4 Shatterskull Smashing
 1 Copperline Gorge
 2 Copperline Gorge
 3 Copperline Gorge
@@ -90,24 +94,20 @@
 1 Manamorphose
 1 Kiln Fiend
 1 Bedlam Reveler
-2 Mutagenic Growth
 2 Crash Through
-2 Manamorphose
+2 Mutagenic Growth
 2 Kiln Fiend
 2 Bedlam Reveler
+2 Manamorphose
 3 Crash Through
 3 Bedlam Reveler
 3 Kiln Fiend
-3 Manamorphose
 3 Mutagenic Growth
+3 Manamorphose
 3 Fiery Islet
 4 Crash Through
 4 Bedlam Reveler
 4 Manamorphose
-1 Shatterskull Smashing
-2 Shatterskull Smashing
-3 Shatterskull Smashing
-4 Shatterskull Smashing
 1 Spikefield Hazard
 1 Magus of the Moon
 2 Spikefield Hazard

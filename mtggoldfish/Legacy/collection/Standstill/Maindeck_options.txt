@@ -49,8 +49,8 @@
 2 Polluted Delta
 6 Snow-Covered Island
 1 Vendilion Clique
-1 Snow-Covered Forest
 1 Tropical Island
+1 Snow-Covered Forest
 1 Oko, Thief of Crowns
 1 Misty Rainforest
 2 Oko, Thief of Crowns
@@ -72,16 +72,16 @@
 1 The Tabernacle at Pendrell Vale
 1 Forest
 1 Tranquil Thicket
-1 Mox Diamond
-1 Life from the Loam
 1 Field of the Dead
 1 Verdant Catacombs
 1 Blast Zone
-2 Mox Diamond
+1 Mox Diamond
+1 Life from the Loam
 2 Life from the Loam
+2 Mox Diamond
+3 Life from the Loam
 3 Oko, Thief of Crowns
 3 Mox Diamond
-3 Life from the Loam
 4 Wasteland
 4 Mox Diamond
 1 Uro, Titan of Nature's Wrath
@@ -91,18 +91,17 @@
 1 Elvish Reclaimer
 1 Crop Rotation
 1 Bojuka Bog
-2 Elvish Reclaimer
 2 Thespian's Stage
 2 Crop Rotation
+2 Elvish Reclaimer
 2 Tropical Island
 3 Crop Rotation
 4 Crop Rotation
-1 Once Upon a Time
 1 Green Sun's Zenith
+1 Once Upon a Time
 1 Emrakul, the Aeons Torn
 1 Cyclonic Rift
 1 Kiora, Behemoth Beckoner
-1 Cavern of Souls
 1 Pithing Needle
 1 Vesuva
 1 Prophetic Prism
@@ -110,42 +109,43 @@
 1 Ulamog, the Ceaseless Hunger
 1 Primeval Titan
 1 Candelabra of Tawnos
+1 Ugin, the Spirit Dragon
 1 Golos, Tireless Pilgrim
 1 Glacial Chasm
 1 Cascading Cataracts
 1 Cloudpost
 1 Thought-Knot Seer
 1 Eye of Ugin
-1 Ugin, the Spirit Dragon
+1 Cavern of Souls
 1 Prophet of Kruphix
 1 Glimmerpost
 1 Ramunap Excavator
+2 Green Sun's Zenith
 2 Snow-Covered Forest
 2 Once Upon a Time
-2 Green Sun's Zenith
 2 Vesuva
 2 Pithing Needle
-2 Cavern of Souls
 2 Primeval Titan
 2 Dryad of the Ilysian Grove
 2 Thought-Knot Seer
 2 Cloudpost
+2 Cavern of Souls
 2 Glimmerpost
-3 Once Upon a Time
-3 Elvish Reclaimer
 3 Snow-Covered Forest
-3 Cavern of Souls
+3 Green Sun's Zenith
+3 Once Upon a Time
+3 Tropical Island
 3 Pithing Needle
+3 Cavern of Souls
 3 Glimmerpost
 3 Cloudpost
-3 Tropical Island
-3 Green Sun's Zenith
-4 Elvish Reclaimer
+3 Elvish Reclaimer
+4 Green Sun's Zenith
 4 Snow-Covered Forest
+4 Elvish Reclaimer
 4 Pithing Needle
 4 Cloudpost
 4 Glimmerpost
-4 Green Sun's Zenith
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 1 Lonely Sandbar
@@ -155,37 +155,37 @@
 2 Counterbalance
 1 Mountain
 1 Mishra's Factory
-1 Pyroblast
 1 Magmatic Sinkhole
+1 Pyroblast
 1 Decree of Justice
 2 Mishra's Factory
-2 Pyroblast
 2 Magmatic Sinkhole
+2 Pyroblast
 3 Force of Negation
 4 Force of Negation
 3 Tundra
 4 Teferi, Time Raveler
-1 Snow-Covered Swamp
-1 Savannah
+1 Chalice of the Void
 1 Bayou
 1 Underground Sea
 1 Abrupt Decay
-1 Chalice of the Void
+1 Savannah
 1 Assassin's Trophy
+1 Snow-Covered Swamp
 2 Chalice of the Void
 2 Abrupt Decay
 2 Uro, Titan of Nature's Wrath
-3 Uro, Titan of Nature's Wrath
-3 Abrupt Decay
 3 Chalice of the Void
-4 Uro, Titan of Nature's Wrath
+3 Abrupt Decay
+3 Uro, Titan of Nature's Wrath
 4 Abrupt Decay
+4 Uro, Titan of Nature's Wrath
 4 Chalice of the Void
 1 Waterlogged Grove
-1 Wooded Foothills
 1 Riftstone Portal
 1 Rishadan Port
 1 Exploration
+1 Wooded Foothills
 1 Ghost Quarter
 2 Waterlogged Grove
 2 Maze of Ith
