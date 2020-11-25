@@ -1,5 +1,5 @@
-3 Windswept Heath
 3 Ephemerate
+3 Windswept Heath
 3 Snow-Covered Plains
 3 Marsh Flats
 4 Windswept Heath
@@ -17,11 +17,11 @@
 4 Charming Prince
 3 Birds of Paradise
 1 Horizon Canopy
-1 Wastes
 1 Brushland
-2 Razorverge Thicket
-2 Brushland
+1 Wastes
 2 Horizon Canopy
+2 Brushland
+2 Razorverge Thicket
 3 Razorverge Thicket
 4 Razorverge Thicket
 1 Forest
@@ -30,17 +30,17 @@
 1 Thought-Knot Seer
 1 Shefet Dunes
 1 Thalia, Guardian of Thraben
-2 Brightclimb Pathway
-2 Concealed Courtyard
-2 Shefet Dunes
-2 Thalia, Guardian of Thraben
 2 Thought-Knot Seer
+2 Shefet Dunes
+2 Brightclimb Pathway
+2 Thalia, Guardian of Thraben
+2 Concealed Courtyard
+3 Caves of Koilos
+3 Thalia, Guardian of Thraben
 3 Concealed Courtyard
 3 Silent Clearing
-3 Thalia, Guardian of Thraben
-3 Caves of Koilos
-4 Concealed Courtyard
 4 Caves of Koilos
+4 Concealed Courtyard
 1 Verdant Catacombs
 1 Godless Shrine
 1 Secluded Steppe
@@ -69,26 +69,26 @@
 1 Glasspool Mimic
 1 Fatal Push
 2 Secluded Steppe
-4 Wasteland Strangler
-2 Knight of the White Orchid
-3 Knight of the White Orchid
-4 Knight of the White Orchid
-4 Eternal Witness
 1 Ghost Quarter
-1 Noble Hierarch
 1 Renegade Rallier
-1 Archon of Emeria
 1 Leonin Arbiter
-2 Noble Hierarch
-2 Archon of Emeria
-2 Leonin Arbiter
-2 Ghost Quarter
+1 Archon of Emeria
+1 Noble Hierarch
 2 Renegade Rallier
+2 Leonin Arbiter
+2 Archon of Emeria
+2 Ghost Quarter
+2 Noble Hierarch
 3 Noble Hierarch
 3 Horizon Canopy
 3 Ghost Quarter
 3 Leonin Arbiter
 4 Noble Hierarch
 4 Horizon Canopy
-4 Leonin Arbiter
 4 Ghost Quarter
+4 Leonin Arbiter
+4 Wasteland Strangler
+2 Knight of the White Orchid
+3 Knight of the White Orchid
+4 Knight of the White Orchid
+4 Eternal Witness

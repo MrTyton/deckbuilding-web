@@ -60,6 +60,6 @@
 |                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)        |                    1|[Savannah](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=881)                       |
 |                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)              |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)         |
 |                    4|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)              |                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)           |
-|                    3|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)|                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)              |
-|                    4|[Vines of Vastwood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397747)   |                    1|[Viridian Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405438)             |
+|                    3|[Oko, Thief of Crowns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473159)|                    1|[Viridian Zealot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405438)             |
+|                    4|[Vines of Vastwood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397747)   |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)              |
 

@@ -8,8 +8,6 @@
 1 Thassa's Intervention
 1 Temple of Malice
 3 Fabled Passage
-3 Swamp
-4 Fabled Passage
 3 Mountain
 3 Island
 1 Opt
@@ -17,19 +15,17 @@
 2 Rain of Revelation
 1 Jace, Mirror Mage
 1 The Royal Scions
-1 Improbable Alliance
 1 Dismal Backwater
 1 Bloodfell Caves
+1 Improbable Alliance
 1 Fire Prophecy
 1 Feed the Swarm
 1 Swiftwater Cliffs
 1 Frantic Inventory
-1 Ugin, the Spirit Dragon
-1 Sanctum of Calm Waters
-2 Improbable Alliance
 2 Dismal Backwater
 2 Bloodfell Caves
 2 Opt
+2 Improbable Alliance
 2 Swiftwater Cliffs
 2 Frantic Inventory
 2 Feed the Swarm
@@ -38,16 +34,15 @@
 3 Frantic Inventory
 3 Opt
 4 Improbable Alliance
+4 Swiftwater Cliffs
 4 Frantic Inventory
 4 Mountain
-4 Swiftwater Cliffs
 4 Opt
 4 Island
 5 Island
 5 Mountain
 6 Island
 6 Mountain
-2 Temple of Malice
 1 Sprite Dragon
 1 Lofty Denial
 1 Scorching Dragonfire
@@ -62,10 +57,15 @@
 3 Blitz of the Thunder-Raptor
 3 Scorching Dragonfire
 4 Sprite Dragon
-4 Scorching Dragonfire
 4 Lofty Denial
 7 Mountain
 7 Island
+1 Ugin, the Spirit Dragon
+1 Sanctum of Calm Waters
+3 Swamp
+4 Fabled Passage
+2 Temple of Malice
+4 Scorching Dragonfire
 2 Shredded Sails
 4 Hagra Mauling
 1 Brazen Borrower
@@ -79,6 +79,8 @@
 1 Midnight Clock
 1 Storm's Wrath
 2 Storm's Wrath
+1 Memory Leak
+2 Memory Leak
 1 Eliminate
 1 Ketria Triome
 2 Eliminate
@@ -114,8 +116,8 @@
 3 Temple of Malice
 4 Heartless Act
 4 Temple of Malice
-1 Magmatic Channeler
 1 Mire's Grasp
+1 Magmatic Channeler
 1 Savai Triome
 1 Dead Weight
 1 Grasp of Darkness

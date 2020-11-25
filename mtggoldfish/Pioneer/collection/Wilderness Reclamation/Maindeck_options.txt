@@ -1,23 +1,20 @@
-4 Hinterland Harbor
+1 Extinction Event
+3 Overgrown Tomb
+2 Extinction Event
 1 Opt
 2 Opt
 3 Opt
 4 Opt
-2 Extinction Event
 4 Censor
-3 Overgrown Tomb
-3 Abrupt Decay
 2 Thassa's Intervention
 3 Thassa's Intervention
-1 Cry of the Carnarium
-1 Cling to Dust
+3 Abrupt Decay
 1 Breeding Pool
 2 Castle Vantress
 2 Breeding Pool
 3 Growth Spiral
 4 Growth Spiral
-4 Fatal Push
-1 Blast Zone
+1 Cry of the Carnarium
 1 Expansion/Explosion
 1 Mystical Dispute
 1 Steam Vents
@@ -32,11 +29,13 @@
 4 Ketria Triome
 4 Wilderness Reclamation
 4 Expansion/Explosion
+1 Stomping Ground
 2 Bloodchief's Thirst
-2 Forest
+1 Cling to Dust
+1 Blast Zone
 1 Anger of the Gods
 2 Anger of the Gods
-1 Stomping Ground
+2 Forest
 2 Steam Vents
 2 Blast Zone
 3 Breeding Pool
@@ -45,6 +44,7 @@
 4 Steam Vents
 4 Mystical Dispute
 3 Anger of the Gods
+4 Fatal Push
 1 Shadows' Verdict
 4 Thassa's Intervention
 1 Woodland Cemetery
@@ -67,9 +67,6 @@
 1 Rootbound Crag
 2 Rootbound Crag
 3 Castle Vantress
-1 Rewind
-4 Anger of the Gods
-1 Brazen Borrower
 1 Hallowed Fountain
 1 Temple Garden
 1 Teferi, Time Raveler
@@ -85,7 +82,15 @@
 3 Teferi, Time Raveler
 3 Omnath, Locus of Creation
 4 Raugrin Triome
-1 Lochmere Serpent
+1 Radiant Flames
+1 Izzet Charm
+2 Izzet Charm
+2 Radiant Flames
+3 Radiant Flames
+3 Stomping Ground
+4 Anger of the Gods
+1 Brazen Borrower
+1 Rewind
 1 Hieroglyphic Illumination
 1 Cragcrown Pathway
 2 Brazen Borrower
@@ -99,9 +104,4 @@
 2 Search for Azcanta
 3 Rootbound Crag
 3 Nimble Obstructionist
-1 Radiant Flames
-1 Izzet Charm
-2 Izzet Charm
-2 Radiant Flames
-3 Radiant Flames
-3 Stomping Ground
+4 Chemister's Insight

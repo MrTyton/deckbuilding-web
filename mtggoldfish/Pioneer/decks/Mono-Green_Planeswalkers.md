@@ -93,6 +93,6 @@
 |                    1|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)            |                     |                                                                                                     |
 |                    1|[Surrak, the Hunt Caller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394721)   |                     |                                                                                                     |
 |                    2|[Surrak, the Hunt Caller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394721)   |                     |                                                                                                     |
-|                    4|[Vivien, Monsters' Advocate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479695)|                     |                                                                                                     |
 |                    2|[Voyaging Satyr](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416952)            |                     |                                                                                                     |
+|                    4|[Vivien, Monsters' Advocate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479695)|                     |                                                                                                     |
 

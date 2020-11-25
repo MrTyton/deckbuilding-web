@@ -13,6 +13,8 @@
 1 Elesh Norn, Grand Cenobite
 4 Marsh Flats
 1 Tidespout Tyrant
+1 Preordain
+1 Dreadhorde Arcanist
 1 Brainstorm
 1 Young Pyromancer
 1 Scalding Tarn
@@ -20,12 +22,12 @@
 1 Volcanic Island
 1 Force of Will
 1 Force of Negation
-1 Dreadhorde Arcanist
 1 Daze
 1 Ponder
 1 Ox of Agonas
-1 Preordain
 1 Underground Sea
+2 Volcanic Island
+2 Dreadhorde Arcanist
 2 Brainstorm
 2 Young Pyromancer
 2 Scalding Tarn
@@ -33,9 +35,8 @@
 2 Force of Will
 2 Ponder
 2 Underground Sea
-2 Dreadhorde Arcanist
 2 Daze
-2 Volcanic Island
+3 Dreadhorde Arcanist
 3 Daze
 3 Scalding Tarn
 3 Young Pyromancer
@@ -43,12 +44,11 @@
 3 Force of Will
 3 Underground Sea
 3 Brainstorm
-3 Dreadhorde Arcanist
 3 Ponder
-4 Dreadhorde Arcanist
 4 Daze
 4 Force of Will
 4 Brainstorm
+4 Dreadhorde Arcanist
 4 Lightning Bolt
 3 Swamp
 4 Thoughtseize
@@ -67,8 +67,8 @@
 1 Hymn to Tourach
 2 Hymn to Tourach
 3 Snow-Covered Swamp
-4 Grave Titan
 4 Snow-Covered Swamp
+4 Grave Titan
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
@@ -90,9 +90,9 @@
 2 Force of Negation
 2 Scrubland
 4 Cabal Therapy
-1 Scrying Sheets
 1 Massacre Wurm
 1 Feed the Swarm
+1 Scrying Sheets
 1 Duress
 2 Scrying Sheets
 2 Duress
@@ -104,8 +104,8 @@
 4 Verdant Catacombs
 1 Sea Gate Restoration
 1 Narcomoeba
-1 Agadeem's Awakening
 1 Thassa's Oracle
+1 Agadeem's Awakening
 1 Balustrade Spy
 1 Careful Study
 1 Bridge from Below
@@ -147,9 +147,9 @@
 8 Swamp
 9 Swamp
 10 Swamp
-11 Swamp
 12 Swamp
 13 Swamp
 14 Swamp
 15 Swamp
 16 Swamp
+11 Swamp

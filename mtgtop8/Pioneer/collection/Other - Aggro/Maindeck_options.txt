@@ -20,6 +20,7 @@
 7 Island
 1 Castle Ardenvale
 1 Reflector Mage
+1 Agent of Treachery
 1 Skyclave Cleric
 1 Elite Guardmage
 1 Elspeth Conquers Death
@@ -30,16 +31,15 @@
 1 Glass Casket
 1 Temple of Enlightenment
 1 Yorion, Sky Nomad
-1 Agent of Treachery
 2 Yorion, Sky Nomad
 2 Reflector Mage
 2 Skyclave Apparition
+2 Agent of Treachery
 2 Skyclave Cleric
 2 Temple of Enlightenment
 2 Glass Casket
 2 Elite Guardmage
 2 Elspeth Conquers Death
-2 Agent of Treachery
 2 Isolate
 2 Charming Prince
 3 Yorion, Sky Nomad
@@ -182,9 +182,9 @@
 2 Forest
 3 Forest
 1 Satyr Wayfinder
+1 Nimble Obstructionist
 1 Ketria Triome
 1 Fierce Empath
-1 Nimble Obstructionist
 1 Jadelight Ranger
 1 Courser of Kruphix
 1 Stubborn Denial
@@ -215,10 +215,10 @@
 2 Ketria Triome
 2 Yavimaya Coast
 3 Satyr Wayfinder
-3 Ketria Triome
 3 Breeding Pool
 3 Kozilek's Return
 3 Uro, Titan of Nature's Wrath
+3 Ketria Triome
 3 Elder Deep-Fiend
 3 Yavimaya Coast
 3 Sanctum of Ugin
@@ -227,10 +227,10 @@
 3 Arboreal Grazer
 4 Breeding Pool
 4 Satyr Wayfinder
-4 Ketria Triome
 4 Sanctum of Ugin
 4 Elder Deep-Fiend
 4 Hinterland Harbor
+4 Ketria Triome
 1 Skyclave Shade
 1 Tangled Florahedron
 1 Korvold, Fae-Cursed King
@@ -300,11 +300,11 @@
 1 Nighthawk Scavenger
 1 Fabled Passage
 1 Drowned Catacomb
-2 Zareth San, the Trickster
 2 Eliminate
 2 Drowned Catacomb
 2 Nighthawk Scavenger
 2 Mystical Dispute
+2 Zareth San, the Trickster
 2 Swamp
 2 Fabled Passage
 3 Drowned Catacomb
@@ -317,8 +317,8 @@
 4 Swamp
 5 Swamp
 1 Lovestruck Beast
-1 Nissa, Voice of Zendikar
 1 Temple Garden
+1 Nissa, Voice of Zendikar
 1 Voice of Resurgence
 1 Sunpetal Grove
 1 Westvale Abbey
@@ -331,9 +331,9 @@
 1 Brimaz, King of Oreskos
 1 Divine Visitation
 2 Lovestruck Beast
-2 Nissa, Voice of Zendikar
 2 Castle Ardenvale
 2 Temple Garden
+2 Nissa, Voice of Zendikar
 2 Voice of Resurgence
 2 Sunpetal Grove
 2 Dromoka's Command
