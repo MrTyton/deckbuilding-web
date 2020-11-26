@@ -21,10 +21,10 @@
 3 Charming Prince
 3 Arcanist's Owl
 4 Temple of Enlightenment
+4 Charming Prince
 4 Thraben Inspector
 4 Knight of the White Orchid
 4 Baffling End
-4 Charming Prince
 4 Arcanist's Owl
 4 Irrigated Farmland
 4 Plains
@@ -56,15 +56,15 @@
 1 Skyclave Cleric
 2 Skyclave Cleric
 3 Skyclave Cleric
-1 Whirlwind Denial
+1 Commit/Memory
 1 Jwari Disruption
+1 Whirlwind Denial
 1 Horribly Awry
 1 Blast Zone
-1 Commit/Memory
+2 Jwari Disruption
 2 Blast Zone
 2 Whirlwind Denial
 2 Horribly Awry
-2 Jwari Disruption
 3 Jwari Disruption
 3 Horribly Awry
 3 Dovin's Veto
@@ -104,10 +104,6 @@
 3 Field of Ruin
 1 Emeria's Call
 4 Censor
-1 Render Silent
-2 Render Silent
-3 Render Silent
-4 Render Silent
 1 Breeding Pool
 1 Hinterland Harbor
 1 Uro, Titan of Nature's Wrath
@@ -115,16 +111,20 @@
 1 Forest
 2 Breeding Pool
 2 Hinterland Harbor
-2 Dream Trawler
 2 Uro, Titan of Nature's Wrath
+2 Dream Trawler
 3 Breeding Pool
 3 Hinterland Harbor
 3 Uro, Titan of Nature's Wrath
 4 Breeding Pool
 4 Uro, Titan of Nature's Wrath
-1 Essence Scatter
+1 Render Silent
+2 Render Silent
+3 Render Silent
+4 Render Silent
 1 Thirst for Meaning
 1 Seal Away
+1 Essence Scatter
 1 Elspeth, Sun's Nemesis
 1 Omen of the Sea
 2 Thirst for Meaning

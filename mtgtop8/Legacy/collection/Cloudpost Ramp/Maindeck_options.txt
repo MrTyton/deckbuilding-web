@@ -1,6 +1,6 @@
-1 Eye of Ugin
-1 Emrakul, the Aeons Torn
-1 All Is Dust
+2 Sphere of Resistance
+3 Sphere of Resistance
+4 Sphere of Resistance
 1 Expedition Map
 1 Bojuka Bog
 1 Crop Rotation
@@ -9,18 +9,20 @@
 2 Crop Rotation
 3 Pithing Needle
 3 Crop Rotation
-2 Walking Ballista
-2 Expedition Map
-3 Expedition Map
-3 Sorcerous Spyglass
-2 City of Traitors
-1 Maze of Ith
-4 Crop Rotation
 1 Candelabra of Tawnos
 2 Candelabra of Tawnos
-1 Mazemind Tome
+2 Expedition Map
+3 Expedition Map
 1 Warping Wail
 2 Warping Wail
+1 Maze of Ith
+4 Crop Rotation
+2 Ulamog, the Ceaseless Hunger
+1 Trinisphere
+3 Sorcerous Spyglass
+2 City of Traitors
+2 Walking Ballista
+3 Candelabra of Tawnos
 1 The Tabernacle at Pendrell Vale
 1 Forest
 2 Forest
@@ -28,7 +30,7 @@
 4 Forest
 5 Forest
 6 Forest
-2 Ulamog, the Ceaseless Hunger
+1 Mazemind Tome
 1 Glacial Chasm
 4 Pithing Needle
 1 Once Upon a Time
@@ -37,12 +39,12 @@
 2 Primeval Titan
 3 Once Upon a Time
 4 Once Upon a Time
-2 Thespian's Stage
 1 Cavern of Souls
 1 Elvish Reclaimer
 2 Elvish Reclaimer
 3 Elvish Reclaimer
 4 Elvish Reclaimer
+2 Thespian's Stage
 1 Misty Rainforest
 1 Ramunap Excavator
 1 Green Sun's Zenith
@@ -60,30 +62,28 @@
 6 Snow-Covered Forest
 7 Snow-Covered Forest
 3 Primeval Titan
-3 Candelabra of Tawnos
-3 Golos, Tireless Pilgrim
-1 Trinisphere
-1 Kozilek, Butcher of Truth
 1 Thran Dynamo
 2 All Is Dust
-2 Manifold Key
 2 Eldrazi Temple
 3 Eldrazi Temple
 4 Grim Monolith
+2 Trinisphere
+1 Kozilek, Butcher of Truth
+2 Manifold Key
 1 Ancient Stirrings
 2 Ancient Stirrings
 3 Ancient Stirrings
 1 Sylvan Library
-2 Trinisphere
-2 Stonecoil Serpent
-3 Stonecoil Serpent
+2 Thran Dynamo
+3 Warping Wail
+3 Golos, Tireless Pilgrim
+3 Trinisphere
+2 Blast Zone
 1 Allosaurus Shepherd
 4 Vesuva
 4 Candelabra of Tawnos
-1 Ensnaring Bridge
-1 Staff of Domination
-2 Thran Dynamo
-3 Warping Wail
+3 Ulamog, the Ceaseless Hunger
+3 Thran Dynamo
 4 Warping Wail
 1 Emrakul, the Promised End
 1 Elvish Rejuvenator
@@ -91,13 +91,16 @@
 3 Elvish Rejuvenator
 4 Elvish Rejuvenator
 7 Forest
-3 Trinisphere
-2 Blast Zone
+3 City of Traitors
+2 Stonecoil Serpent
+3 Stonecoil Serpent
 1 Kozilek, the Great Distortion
-3 Ulamog, the Ceaseless Hunger
-3 Thran Dynamo
+2 Eye of Ugin
+3 All Is Dust
+4 Eldrazi Temple
 4 Sorcerous Spyglass
-1 Crystal Vein
+1 Ensnaring Bridge
+1 Staff of Domination
 1 Lightning Greaves
 2 Lightning Greaves
 1 Dryad Arbor
@@ -107,7 +110,6 @@
 2 Karn, Scion of Urza
 2 Wastes
 2 Karakas
-3 City of Traitors
 3 Karn, Scion of Urza
 3 Walking Ballista
 3 Ugin, the Ineffable
