@@ -37,8 +37,8 @@
 |                    1|[Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)|                    2|[Distended Mindbender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414292)|
 |                    2|[Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)|                     |                                                                                               |
 |                    2|[Cragcrown Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491915)  |                     |                                                                                               |
-|                    3|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)     |                     |                                                                                               |
 |                    3|[Cragcrown Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491915)  |                     |                                                                                               |
+|                    3|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)     |                     |                                                                                               |
 |                    4|[Llanowar Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129627)    |                     |                                                                                               |
 |                    4|[Cragcrown Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491915)  |                     |                                                                                               |
 

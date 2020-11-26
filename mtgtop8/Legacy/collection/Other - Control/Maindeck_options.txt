@@ -31,8 +31,8 @@
 2 Urborg, Tomb of Yawgmoth
 3 Eliminate
 3 Dark Ritual
-4 Swamp
 4 Dark Ritual
+4 Swamp
 5 Swamp
 6 Swamp
 1 Castle Locthwain
@@ -48,8 +48,8 @@
 2 Castle Locthwain
 2 Hymn to Tourach
 2 Mishra's Factory
-2 Murderous Rider
 2 Liliana, the Last Hope
+2 Murderous Rider
 2 Liliana's Triumph
 2 Thoughtseize
 2 Tombstalker
@@ -127,9 +127,9 @@
 1 Flooded Strand
 1 Plains
 1 Supreme Verdict
+2 Plains
 2 Snapcaster Mage
 2 Teferi, Time Raveler
-2 Plains
 2 Monastery Mentor
 2 Swords to Plowshares
 2 Council's Judgment
@@ -141,8 +141,25 @@
 4 Flooded Strand
 4 Swords to Plowshares
 4 Island
-1 Pelakka Predation
+1 Jolrael, Mwonvuli Recluse
+1 Klothys, God of Destiny
+1 Punishing Fire
+1 Grove of the Burnwillows
+1 Dack Fayden
+1 Tireless Tracker
+2 Jolrael, Mwonvuli Recluse
+2 Grove of the Burnwillows
+2 Punishing Fire
+2 Dack Fayden
+3 Arcum's Astrolabe
+3 Jolrael, Mwonvuli Recluse
+3 Punishing Fire
+3 Grove of the Burnwillows
+3 Dack Fayden
+4 Ice-Fang Coatl
+4 Arcum's Astrolabe
 1 Trinisphere
+1 Pelakka Predation
 1 Chrome Mox
 1 Helm of Obedience
 1 Leyline of the Void
@@ -171,10 +188,10 @@
 3 Karn, the Great Creator
 3 Trinisphere
 3 Curse of Misfortunes
-4 Eliminate
 4 Trinisphere
 4 City of Traitors
 4 Leyline of the Void
+4 Eliminate
 4 Chalice of the Void
 4 Chrome Mox
 4 Pelakka Predation
@@ -183,20 +200,3 @@
 4 Karn, the Great Creator
 7 Swamp
 8 Swamp
-1 Jolrael, Mwonvuli Recluse
-1 Klothys, God of Destiny
-1 Punishing Fire
-1 Grove of the Burnwillows
-1 Dack Fayden
-1 Tireless Tracker
-2 Jolrael, Mwonvuli Recluse
-2 Grove of the Burnwillows
-2 Punishing Fire
-2 Dack Fayden
-3 Jolrael, Mwonvuli Recluse
-3 Arcum's Astrolabe
-3 Punishing Fire
-3 Grove of the Burnwillows
-3 Dack Fayden
-4 Ice-Fang Coatl
-4 Arcum's Astrolabe

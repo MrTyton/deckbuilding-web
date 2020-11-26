@@ -19,6 +19,7 @@
 6 Island
 7 Island
 1 Castle Ardenvale
+1 Glass Casket
 1 Reflector Mage
 1 Agent of Treachery
 1 Skyclave Cleric
@@ -28,37 +29,36 @@
 1 Isolate
 1 Castle Vantress
 1 Charming Prince
-1 Glass Casket
 1 Temple of Enlightenment
 1 Yorion, Sky Nomad
 2 Yorion, Sky Nomad
+2 Elite Guardmage
+2 Glass Casket
 2 Reflector Mage
 2 Skyclave Apparition
 2 Agent of Treachery
 2 Skyclave Cleric
 2 Temple of Enlightenment
-2 Glass Casket
-2 Elite Guardmage
 2 Elspeth Conquers Death
 2 Isolate
 2 Charming Prince
+3 Glass Casket
+3 Elite Guardmage
 3 Yorion, Sky Nomad
+3 Temple of Enlightenment
 3 Reflector Mage
 3 Skyclave Apparition
-3 Elite Guardmage
 3 Isolate
 3 Skyclave Cleric
 3 Charming Prince
-3 Temple of Enlightenment
-3 Glass Casket
+4 Glass Casket
+4 Isolate
+4 Elite Guardmage
 4 Charming Prince
 4 Temple of Enlightenment
 4 Skyclave Apparition
 4 Reflector Mage
 4 Skyclave Cleric
-4 Isolate
-4 Elite Guardmage
-4 Glass Casket
 5 Plains
 6 Plains
 7 Plains
@@ -132,10 +132,10 @@
 4 Spell Queller
 1 Champion of Wits
 2 Champion of Wits
-1 Thassa, Deep-Dwelling
-2 Thassa, Deep-Dwelling
 1 Niambi, Esteemed Speaker
 2 Niambi, Esteemed Speaker
+1 Thassa, Deep-Dwelling
+2 Thassa, Deep-Dwelling
 2 Agadeem's Awakening
 1 Clearwater Pathway
 1 Thieves' Guild Enforcer
@@ -146,23 +146,23 @@
 1 Fatal Push
 1 Watery Grave
 2 Clearwater Pathway
-2 Fatal Push
 2 Thieves' Guild Enforcer
+2 Fatal Push
 2 Drown in the Loch
 2 Thoughtseize
 2 Watery Grave
 2 Soaring Thought-Thief
 3 Thoughtseize
-3 Drown in the Loch
 3 Thieves' Guild Enforcer
+3 Drown in the Loch
 3 Clearwater Pathway
 3 Fatal Push
 3 Watery Grave
 3 Soaring Thought-Thief
 4 Thoughtseize
 4 Fatal Push
-4 Watery Grave
 4 Thieves' Guild Enforcer
+4 Watery Grave
 4 Drown in the Loch
 4 Soaring Thought-Thief
 1 Brazen Borrower
@@ -184,8 +184,8 @@
 1 Satyr Wayfinder
 1 Nimble Obstructionist
 1 Ketria Triome
-1 Fierce Empath
 1 Jadelight Ranger
+1 Fierce Empath
 1 Courser of Kruphix
 1 Stubborn Denial
 1 Kozilek's Return
@@ -275,14 +275,14 @@
 1 Mutavault
 1 Chart a Course
 2 Mana Confluence
+2 Deathrite Shaman
 2 Into the Story
 2 Merfolk Windrobber
 2 Botanical Sanctum
 2 Chart a Course
 2 Mutavault
-2 Deathrite Shaman
-3 Merfolk Windrobber
 3 Into the Story
+3 Merfolk Windrobber
 3 Deathrite Shaman
 3 Chart a Course
 3 Botanical Sanctum
@@ -294,15 +294,15 @@
 4 Chart a Course
 4 Botanical Sanctum
 1 Eliminate
+1 Nighthawk Scavenger
 1 Mystical Dispute
 1 Castle Locthwain
-1 Nighthawk Scavenger
 1 Fabled Passage
 1 Drowned Catacomb
 1 Zareth San, the Trickster
 2 Eliminate
-2 Drowned Catacomb
 2 Nighthawk Scavenger
+2 Drowned Catacomb
 2 Mystical Dispute
 2 Zareth San, the Trickster
 2 Swamp

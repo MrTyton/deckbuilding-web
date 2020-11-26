@@ -27,9 +27,9 @@
 2 Seachrome Coast
 3 Remand
 3 Path to Exile
-1 Stoneforge Mystic
-1 Batterskull
 1 Sword of Fire and Ice
+1 Batterskull
+1 Stoneforge Mystic
 1 Plains
 1 Mantis Rider
 2 Stoneforge Mystic
@@ -54,8 +54,8 @@
 2 Disrupting Shoal
 3 Disrupting Shoal
 4 Disrupting Shoal
-1 Forest
 1 Breeding Pool
+1 Forest
 1 Stubborn Denial
 1 Tarmogoyf
 2 Stubborn Denial
@@ -190,13 +190,6 @@
 2 Visions of Beyond
 3 Visions of Beyond
 4 Visions of Beyond
-1 Creeping Tar Pit
-1 Soaring Thought-Thief
-2 Spell Pierce
-2 Soaring Thought-Thief
-3 Soaring Thought-Thief
-4 Watery Grave
-4 Soaring Thought-Thief
 1 Mutagenic Growth
 2 Mutagenic Growth
 4 Hooting Mandrills
@@ -209,17 +202,24 @@
 3 Dreadhorde Arcanist
 4 Ancestral Vision
 4 Dreadhorde Arcanist
+1 Creeping Tar Pit
+1 Soaring Thought-Thief
+2 Spell Pierce
+2 Soaring Thought-Thief
+3 Soaring Thought-Thief
+4 Soaring Thought-Thief
+4 Watery Grave
 1 Magmatic Channeler
-1 Wizard's Retort
 1 Wizard's Lightning
 1 Soul-Scar Mage
+1 Wizard's Retort
 2 Magmatic Channeler
-2 Wizard's Retort
 2 Soul-Scar Mage
 2 Wizard's Lightning
+2 Wizard's Retort
 3 Magmatic Channeler
-3 Wizard's Retort
 3 Wizard's Lightning
+3 Wizard's Retort
 3 Soul-Scar Mage
 4 Magmatic Channeler
 4 Wizard's Lightning
@@ -230,18 +230,18 @@
 1 Castle Vantress
 1 Silundi Vision
 1 Mutavault
-1 Psionic Blast
 1 Deliberate
+1 Psionic Blast
 1 Spellstutter Sprite
 2 Cryptic Command
+2 Deliberate
 2 Mutavault
 2 Vendilion Clique
 2 Psionic Blast
-2 Deliberate
 2 Spellstutter Sprite
 3 Cryptic Command
-3 Spellstutter Sprite
 3 Deliberate
+3 Spellstutter Sprite
 4 Cryptic Command
 6 Island
 7 Island
@@ -249,8 +249,8 @@
 9 Island
 10 Island
 11 Island
-12 Island
 13 Island
 14 Island
 15 Island
 16 Island
+12 Island

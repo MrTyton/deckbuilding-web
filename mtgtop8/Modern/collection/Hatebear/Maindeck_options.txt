@@ -8,9 +8,9 @@
 2 Seachrome Coast
 2 Spell Queller
 2 Hallowed Fountain
+3 Seachrome Coast
 3 Hallowed Fountain
 3 Spell Queller
-3 Seachrome Coast
 4 Seachrome Coast
 4 Spell Queller
 4 Hallowed Fountain
@@ -59,8 +59,8 @@
 8 Snow-Covered Plains
 11 Plains
 1 Charming Prince
-1 Wastes
 1 Reality Smasher
+1 Wastes
 2 Reality Smasher
 3 Reality Smasher
 4 Reality Smasher
@@ -75,29 +75,29 @@
 4 Skyclave Cleric
 1 Brightclimb Pathway
 1 Tectonic Edge
-1 Wasteland Strangler
 1 Tidehollow Sculler
 1 Swamp
 1 Caves of Koilos
 1 Concealed Courtyard
-2 Brightclimb Pathway
-2 Charming Prince
+1 Wasteland Strangler
 2 Wasteland Strangler
-2 Concealed Courtyard
 2 Tidehollow Sculler
+2 Charming Prince
+2 Brightclimb Pathway
+2 Concealed Courtyard
 2 Caves of Koilos
-3 Concealed Courtyard
-3 Caves of Koilos
-3 Brightclimb Pathway
-3 Wasteland Strangler
 3 Tidehollow Sculler
+3 Concealed Courtyard
+3 Wasteland Strangler
+3 Brightclimb Pathway
 3 Charming Prince
-4 Charming Prince
+3 Caves of Koilos
 4 Concealed Courtyard
-4 Caves of Koilos
+4 Tidehollow Sculler
+4 Charming Prince
 4 Wasteland Strangler
 4 Brightclimb Pathway
-4 Tidehollow Sculler
+4 Caves of Koilos
 1 Restoration Angel
 1 Linvala, Keeper of Silence
 1 Spellskite
@@ -114,30 +114,30 @@
 3 Unsettled Mariner
 3 Island
 1 Battlefield Forge
+1 Bonecrusher Giant
 1 Simian Spirit Guide
 1 Inspiring Vantage
 1 Containment Priest
 1 Gemstone Caverns
-1 Bonecrusher Giant
 1 Chalice of the Void
 2 Sunbaked Canyon
+2 Battlefield Forge
 2 Chalice of the Void
-2 Simian Spirit Guide
-2 Gemstone Caverns
 2 Containment Priest
 2 Bonecrusher Giant
-2 Battlefield Forge
+2 Simian Spirit Guide
+2 Gemstone Caverns
 3 Sunbaked Canyon
+3 Battlefield Forge
+3 Containment Priest
 3 Chalice of the Void
 3 Gemstone Caverns
 3 Simian Spirit Guide
-3 Containment Priest
-3 Battlefield Forge
-4 Sunbaked Canyon
-4 Chalice of the Void
-4 Simian Spirit Guide
 4 Battlefield Forge
 4 Containment Priest
+4 Chalice of the Void
+4 Simian Spirit Guide
+4 Sunbaked Canyon
 1 Branchloft Pathway
 1 Razorverge Thicket
 1 Aven Mindcensor
@@ -163,6 +163,6 @@
 3 Mutavault
 4 Mutavault
 9 Snow-Covered Plains
+10 Snow-Covered Plains
 11 Snow-Covered Plains
 12 Snow-Covered Plains
-10 Snow-Covered Plains

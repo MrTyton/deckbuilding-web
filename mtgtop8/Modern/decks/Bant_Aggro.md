@@ -77,8 +77,8 @@
 |                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)        |                     |                                                                                                |
 |                    3|[Ephemerate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463956)             |                     |                                                                                                |
 |                    3|[Soulherder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464163)             |                     |                                                                                                |
-|                    4|[Ephemerate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463956)             |                     |                                                                                                |
 |                    4|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)      |                     |                                                                                                |
 |                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)        |                     |                                                                                                |
+|                    4|[Ephemerate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463956)             |                     |                                                                                                |
 |                    4|[Coiling Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405176)         |                     |                                                                                                |
 

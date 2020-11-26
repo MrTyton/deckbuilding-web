@@ -1,61 +1,93 @@
-1 Temple of Enlightenment
-1 Arcanist's Owl
-1 Stasis Snare
-2 Heliod, Sun-Crowned
-2 Daxos, Blessed by the Sun
-2 Baffling End
-2 Thraben Inspector
-2 Knight of the White Orchid
-2 Nykthos, Shrine to Nyx
-2 Temple of Enlightenment
-2 Stasis Snare
-2 Charming Prince
-2 Arcanist's Owl
-3 Daxos, Blessed by the Sun
-3 Heliod, Sun-Crowned
-3 Thraben Inspector
-3 Knight of the White Orchid
-3 Baffling End
-3 Nykthos, Shrine to Nyx
-3 Temple of Enlightenment
-3 Charming Prince
-3 Arcanist's Owl
 4 Temple of Enlightenment
 4 Charming Prince
 4 Thraben Inspector
-4 Knight of the White Orchid
-4 Baffling End
-4 Arcanist's Owl
-4 Irrigated Farmland
 4 Plains
-4 Nykthos, Shrine to Nyx
 5 Plains
 6 Plains
 7 Plains
 8 Plains
+4 Opt
+3 Teferi, Hero of Dominaria
+2 Dovin's Veto
+6 Island
+1 Reflector Mage
+2 Reflector Mage
+4 Skyclave Cleric
+1 Censor
+2 Censor
+4 Shark Typhoon
+3 Irrigated Farmland
+3 Reflector Mage
+4 Reflector Mage
+1 Skyclave Apparition
+2 Skyclave Apparition
+7 Island
+1 Agent of Treachery
+1 Elite Guardmage
+1 Yorion, Sky Nomad
+1 Isolate
+1 Spell Queller
+1 Glass Casket
+2 Agent of Treachery
+2 Glass Casket
+2 Isolate
+2 Yorion, Sky Nomad
+2 Spell Queller
+2 Elite Guardmage
+3 Yorion, Sky Nomad
+3 Isolate
+3 Elite Guardmage
+3 Skyclave Apparition
+3 Glass Casket
+4 Skyclave Apparition
+4 Elite Guardmage
+4 Isolate
+4 Glass Casket
+8 Island
+9 Island
+1 Daxos, Blessed by the Sun
+1 Heliod, Sun-Crowned
+1 Nykthos, Shrine to Nyx
+1 Baffling End
+1 Idyllic Grange
+1 Detention Sphere
+1 Arcanist's Owl
+1 Stasis Snare
+1 Knight of the White Orchid
+2 Heliod, Sun-Crowned
+2 Daxos, Blessed by the Sun
+2 Baffling End
+2 Nykthos, Shrine to Nyx
+2 Stasis Snare
+2 Knight of the White Orchid
+2 Arcanist's Owl
+3 Daxos, Blessed by the Sun
+3 Heliod, Sun-Crowned
+3 Baffling End
+3 Knight of the White Orchid
+3 Nykthos, Shrine to Nyx
+3 Arcanist's Owl
+4 Arcanist's Owl
+4 Baffling End
+4 Irrigated Farmland
+4 Nykthos, Shrine to Nyx
+4 Knight of the White Orchid
 9 Plains
 10 Plains
 11 Plains
-4 Island
-5 Island
-1 Censor
-2 Censor
 3 Dig Through Time
 1 Field of Ruin
 1 Absorb
 2 Absorb
+1 Thassa, Deep-Dwelling
+2 Thassa, Deep-Dwelling
 2 Detention Sphere
 3 Stasis Snare
-1 Reflector Mage
-2 Reflector Mage
 4 Heliod, Sun-Crowned
 2 Field of Ruin
 3 Censor
 3 Absorb
 1 Cast Out
-1 Skyclave Cleric
-2 Skyclave Cleric
-3 Skyclave Cleric
 1 Commit/Memory
 1 Jwari Disruption
 1 Whirlwind Denial
@@ -69,26 +101,27 @@
 3 Horribly Awry
 3 Dovin's Veto
 4 Jwari Disruption
-4 Skyclave Cleric
 4 Absorb
-6 Island
+1 Champion of Wits
+2 Champion of Wits
 3 Detention Sphere
 3 Elspeth Conquers Death
-3 Reflector Mage
+1 Niambi, Esteemed Speaker
+2 Niambi, Esteemed Speaker
+3 Spell Queller
+4 Spell Queller
 1 Sinister Sabotage
 2 Sinister Sabotage
 4 Teferi, Hero of Dominaria
 1 Settle the Wreckage
 1 Thassa's Intervention
 3 Fabled Passage
-1 Thassa, Deep-Dwelling
-1 Skyclave Apparition
-2 Thassa, Deep-Dwelling
-2 Skyclave Apparition
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
+3 Narset, Parter of Veils
 1 Port Town
 1 Banishing Light
 2 Banishing Light
-4 Reflector Mage
 1 Brazen Borrower
 1 Neutralize
 1 Ondu Inversion
@@ -97,10 +130,7 @@
 1 Omen of the Sun
 2 Omen of the Sun
 1 Geier Reach Sanitarium
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
 2 Thassa's Intervention
-3 Narset, Parter of Veils
 3 Field of Ruin
 1 Emeria's Call
 4 Censor
@@ -118,10 +148,6 @@
 3 Uro, Titan of Nature's Wrath
 4 Breeding Pool
 4 Uro, Titan of Nature's Wrath
-1 Render Silent
-2 Render Silent
-3 Render Silent
-4 Render Silent
 1 Thirst for Meaning
 1 Seal Away
 1 Essence Scatter
@@ -137,4 +163,31 @@
 3 Seal Away
 4 Seal Away
 4 Omen of the Sea
-7 Island
+1 Heartless Act
+1 Drowned Catacomb
+1 Godless Shrine
+1 Isolated Chapel
+1 Fatal Push
+1 Watery Grave
+1 Thing in the Ice
+2 Heartless Act
+2 Drowned Catacomb
+2 Godless Shrine
+2 Isolated Chapel
+2 Fatal Push
+2 Watery Grave
+2 Thing in the Ice
+3 Heartless Act
+3 Drowned Catacomb
+3 Isolated Chapel
+3 Thing in the Ice
+3 Godless Shrine
+3 Watery Grave
+4 Heartless Act
+4 Thing in the Ice
+4 Drowned Catacomb
+4 Narset, Parter of Veils
+1 Render Silent
+2 Render Silent
+3 Render Silent
+4 Render Silent
