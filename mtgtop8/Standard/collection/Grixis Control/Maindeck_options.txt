@@ -17,21 +17,21 @@
 1 Dismal Backwater
 1 The Royal Scions
 1 Bloodfell Caves
-1 Improbable Alliance
 1 Fire Prophecy
 1 Feed the Swarm
-1 Swiftwater Cliffs
 1 Frantic Inventory
+1 Swiftwater Cliffs
+1 Improbable Alliance
 2 Dismal Backwater
 2 Bloodfell Caves
 2 Opt
-2 Improbable Alliance
 2 Swiftwater Cliffs
 2 Frantic Inventory
+2 Improbable Alliance
 2 Feed the Swarm
-3 Improbable Alliance
 3 Swiftwater Cliffs
 3 Frantic Inventory
+3 Improbable Alliance
 3 Opt
 4 Improbable Alliance
 4 Swiftwater Cliffs
@@ -44,20 +44,20 @@
 6 Island
 6 Mountain
 1 Sprite Dragon
-1 Blitz of the Thunder-Raptor
 1 Scorching Dragonfire
+1 Blitz of the Thunder-Raptor
 1 Lofty Denial
 2 Sprite Dragon
 2 Lofty Denial
 2 Scorching Dragonfire
 2 Blitz of the Thunder-Raptor
 3 Blitz of the Thunder-Raptor
-3 Sprite Dragon
 3 Dismal Backwater
 3 Lofty Denial
 3 Scorching Dragonfire
-4 Sprite Dragon
+3 Sprite Dragon
 4 Lofty Denial
+4 Sprite Dragon
 7 Mountain
 7 Island
 1 Sanctum of Calm Waters
@@ -76,11 +76,11 @@
 2 Mire Triton
 3 Bloodchief's Thirst
 3 Mire Triton
+1 Memory Leak
+2 Memory Leak
 1 Midnight Clock
 1 Storm's Wrath
 2 Storm's Wrath
-1 Memory Leak
-2 Memory Leak
 1 Eliminate
 1 Ketria Triome
 2 Eliminate
@@ -103,8 +103,8 @@
 2 Cling to Dust
 2 Didn't Say Please
 3 Evolving Wilds
-3 Fire Prophecy
 3 Didn't Say Please
+3 Fire Prophecy
 3 Teferi's Tutelage
 4 Fire Prophecy
 1 Liliana, Waker of the Dead
@@ -116,7 +116,6 @@
 3 Temple of Malice
 4 Heartless Act
 4 Temple of Malice
-1 Mire's Grasp
 1 Magmatic Channeler
 1 Savai Triome
 1 Dead Weight
@@ -124,6 +123,7 @@
 1 Sea Gate Stormcaller
 1 Agonizing Remorse
 1 Zagoth Triome
+1 Mire's Grasp
 1 Epic Downfall
 1 Village Rites
 1 Agadeem's Awakening

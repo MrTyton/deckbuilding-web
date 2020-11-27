@@ -10,10 +10,10 @@
 1 Castle Ardenvale
 2 Snow-Covered Plains
 3 Snow-Covered Plains
+1 Temple Garden
 1 Branchloft Pathway
 1 Noble Hierarch
 1 Razorverge Thicket
-1 Temple Garden
 2 Branchloft Pathway
 2 Noble Hierarch
 2 Temple Garden
@@ -43,17 +43,17 @@
 1 Collected Company
 1 Eternal Witness
 2 Brushland
-2 Kazandu Mammoth
-2 Collected Company
 2 Eternal Witness
+2 Collected Company
+2 Kazandu Mammoth
 3 Collected Company
 4 Branchloft Pathway
 4 Collected Company
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 1 Blast Zone
-1 Spellskite
 1 Winds of Abandon
+1 Spellskite
 2 Spellskite
 3 Militia Bugler
 4 Militia Bugler
@@ -84,34 +84,31 @@
 1 Serra Avenger
 2 Shefet Dunes
 1 Snow-Covered Island
+1 Spell Queller
 1 Hallowed Fountain
 1 Unsettled Mariner
 1 Deputy of Detention
 1 Seachrome Coast
 1 Glacial Fortress
 1 Geist of Saint Traft
-1 Spell Queller
 1 Steel of the Godhead
-2 Hallowed Fountain
 2 Snow-Covered Island
+2 Hallowed Fountain
+2 Spell Queller
 2 Unsettled Mariner
 2 Seachrome Coast
 2 Geist of Saint Traft
-2 Spell Queller
 2 Steel of the Godhead
 3 Snow-Covered Island
-3 Unsettled Mariner
 3 Spell Queller
+3 Unsettled Mariner
 3 Geist of Saint Traft
 4 Spell Queller
-1 Tectonic Edge
-4 Silent Clearing
-1 Arid Mesa
 1 Mirran Crusader
-1 Sacred Foundry
 1 Grim Lavamancer
-1 Slayers' Stronghold
 1 Judge's Familiar
+1 Sacred Foundry
+1 Arid Mesa
 1 Needleverge Pathway
 1 Inspiring Vantage
 1 Goblin Cratermaker
@@ -120,6 +117,7 @@
 1 Lurrus of the Dream-Den
 1 Jaya Ballard, Task Mage
 1 Lightning Bolt
+1 Slayers' Stronghold
 2 Mirran Crusader
 2 Judge's Familiar
 2 Inspiring Vantage
@@ -134,13 +132,15 @@
 3 Slayers' Stronghold
 4 Judge's Familiar
 4 Inspiring Vantage
+1 Tectonic Edge
+4 Silent Clearing
 1 Akroma, Angel of Fury
 1 Ephemerate
+2 Ephemerate
 2 Restoration Angel
 2 Akroma, Angel of Fury
-2 Ephemerate
-3 Ephemerate
 3 Charming Prince
+3 Ephemerate
 3 Akroma, Angel of Fury
 4 Ephemerate
 11 Snow-Covered Plains

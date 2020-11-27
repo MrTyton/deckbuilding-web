@@ -205,9 +205,9 @@
 3 Drowned Secrets
 3 Ipnu Rivulet
 4 Merfolk Secretkeeper
+4 Drown in the Loch
 4 Fraying Sanity
 4 Clearwater Pathway
-4 Drown in the Loch
 4 Maddening Cacophony
 4 Ruin Crab
 4 Drowned Secrets
@@ -216,6 +216,9 @@
 1 Spikefield Hazard
 1 Golos, Tireless Pilgrim
 1 Indatha Triome
+1 Jolrael, Mwonvuli Recluse
+1 Shatterskull Smashing
+2 Jolrael, Mwonvuli Recluse
 1 Cling to Dust
 1 Scarab Feast
 1 The Scarab God
@@ -224,9 +227,6 @@
 2 Languish
 2 Kalitas, Traitor of Ghet
 2 Day's Undoing
-1 Shatterskull Smashing
-1 Jolrael, Mwonvuli Recluse
-2 Jolrael, Mwonvuli Recluse
 1 Terror of the Peaks
 2 Terror of the Peaks
 1 Voice of Resurgence
@@ -234,8 +234,8 @@
 2 Cragcrown Pathway
 3 Voice of Resurgence
 1 Hieroglyphic Illumination
-1 Erebos's Intervention
 1 Torrential Gearhulk
+1 Erebos's Intervention
 1 Void Shatter
 1 Vraska's Contempt
 1 Unwind
@@ -280,24 +280,24 @@
 1 Kolaghan's Command
 1 Collective Brutality
 1 Dragonskull Summit
-1 Davriel, Rogue Shadowmage
 1 Liliana, Waker of the Dead
+1 Davriel, Rogue Shadowmage
 1 Thought Erasure
 1 Blood Crypt
 1 Nicol Bolas, the Ravager
 1 Kroxa, Titan of Death's Hunger
 2 Collective Brutality
-2 Davriel, Rogue Shadowmage
 2 Liliana, Waker of the Dead
 2 Blood Crypt
 2 Thought Erasure
 2 Nicol Bolas, the Ravager
 2 Kroxa, Titan of Death's Hunger
 2 Kolaghan's Command
+2 Davriel, Rogue Shadowmage
 2 Dragonskull Summit
 3 Liliana, Waker of the Dead
-3 Davriel, Rogue Shadowmage
 3 Kroxa, Titan of Death's Hunger
+3 Davriel, Rogue Shadowmage
 3 Nicol Bolas, the Ravager
 3 Thought Erasure
 4 Thought Erasure
@@ -308,6 +308,7 @@
 4 Davriel, Rogue Shadowmage
 1 Banishing Light
 1 Sigil of the Empty Throne
+1 Courser of Kruphix
 1 Setessan Champion
 1 Calix, Destiny's Hand
 1 Gideon's Intervention
@@ -318,10 +319,10 @@
 1 Sphere of Safety
 1 Wolfwillow Haven
 1 Seal Away
-1 Courser of Kruphix
 1 Herald of the Pantheon
 2 Branchloft Pathway
 2 Banishing Light
+2 Gideon's Intervention
 2 Setessan Champion
 2 Calix, Destiny's Hand
 2 Sigil of the Empty Throne
@@ -330,7 +331,6 @@
 2 Eidolon of Blossoms
 2 Wolfwillow Haven
 2 Seal Away
-2 Gideon's Intervention
 2 Temple of Plenty
 2 Sphere of Safety
 3 Branchloft Pathway
@@ -348,8 +348,8 @@
 4 Eidolon of Blossoms
 4 Wolfwillow Haven
 1 Castle Garenbrig
-1 Blast Zone
 1 Yavimaya Coast
+1 Blast Zone
 1 Voracious Hydra
 1 Arboreal Grazer
 1 Ulamog, the Ceaseless Hunger
@@ -360,8 +360,8 @@
 1 Shrine of the Forsaken Gods
 1 Botanical Sanctum
 2 Castle Garenbrig
-2 Sanctum of Ugin
 2 Yavimaya Coast
+2 Sanctum of Ugin
 2 World Breaker
 2 Cavalier of Thorns
 2 Botanical Sanctum
@@ -370,8 +370,8 @@
 2 Zagoth Triome
 2 Elvish Rejuvenator
 2 Shrine of the Forsaken Gods
-3 Cavalier of Thorns
 3 Yavimaya Coast
+3 Cavalier of Thorns
 3 Ugin, the Spirit Dragon
 3 Elvish Rejuvenator
 3 Shrine of the Forsaken Gods

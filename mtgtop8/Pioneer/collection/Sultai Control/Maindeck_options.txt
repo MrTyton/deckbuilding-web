@@ -1,14 +1,12 @@
+3 Censor
 1 Bloodchief's Thirst
 1 Growth Spiral
 2 Growth Spiral
 1 Heartless Act
-3 Censor
-1 Thoughtseize
-2 Thoughtseize
 3 Overgrown Tomb
 3 Abrupt Decay
-1 Rewind
-3 Thoughtseize
+1 Thoughtseize
+2 Thoughtseize
 1 Woodland Cemetery
 4 Fatal Push
 1 Blooming Marsh
@@ -20,6 +18,7 @@
 2 Breeding Pool
 3 Blooming Marsh
 3 Satyr Wayfinder
+3 Thoughtseize
 4 Blooming Marsh
 4 Thoughtseize
 4 Satyr Wayfinder
@@ -31,10 +30,11 @@
 2 Clearwater Pathway
 2 Traverse the Ulvenwald
 3 Traverse the Ulvenwald
-1 Cling to Dust
-1 Mystical Dispute
+1 Rewind
 4 Censor
 4 Opt
+1 Mystical Dispute
+1 Cling to Dust
 1 Jace, Vryn's Prodigy
 1 Atris, Oracle of Half-Truths
 1 Ishkanah, Grafwidow
@@ -59,14 +59,15 @@
 3 Grim Flayer
 3 Soul-Guide Lantern
 4 Grim Flayer
-3 Growth Spiral
-4 Growth Spiral
-1 Enter the God-Eternals
-1 Reclamation Sage
-1 Blast Zone
-2 Cling to Dust
 2 Thassa's Intervention
 3 Thassa's Intervention
+3 Growth Spiral
+4 Growth Spiral
+1 Reclamation Sage
+1 Blast Zone
+1 Enter the God-Eternals
+1 Shadows' Verdict
+4 Thassa's Intervention
 1 Brazen Borrower
 2 Brazen Borrower
 3 Mystical Dispute

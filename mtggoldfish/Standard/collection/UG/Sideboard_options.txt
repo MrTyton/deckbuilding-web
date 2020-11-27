@@ -4,12 +4,12 @@
 2 Chainweb Aracnir
 1 Ugin, the Spirit Dragon
 1 Terror of the Peaks
+1 Fire Prophecy
 1 Phoenix of Ash
 1 Ox of Agonas
-1 Fire Prophecy
 1 Run Afoul
-2 Ox of Agonas
 2 Fire Prophecy
+2 Ox of Agonas
 2 Run Afoul
 3 Fire Prophecy
 3 Chainweb Aracnir
@@ -29,9 +29,9 @@
 1 Duress
 2 Duress
 1 Bloodchief's Thirst
-1 Inscription of Abundance
 1 Mire Triton
 1 Elspeth's Nightmare
+1 Inscription of Abundance
 2 Bloodchief's Thirst
 1 Snarespinner
 2 Snarespinner
@@ -61,12 +61,8 @@
 1 Pouncing Shoreshark
 1 Broken Wings
 2 Broken Wings
-1 Ram Through
-2 Ram Through
 1 Grasp of Darkness
 2 Grasp of Darkness
-1 Suffocating Fumes
-2 Suffocating Fumes
 1 Stern Dismissal
 1 Capture Sphere
 2 Stern Dismissal
@@ -86,26 +82,19 @@
 2 Gemrazer
 2 Cragplate Baloth
 2 Wilt
-1 Rabid Bite
-2 Rabid Bite
 1 Sudden Spinnerets
 1 Hunter's Edge
 1 Loathsome Chimera
 1 Outmuscle
 1 Charmed Sleep
+1 Rabid Bite
 1 Voracious Typhon
 2 Sudden Spinnerets
 2 Charmed Sleep
 2 Outmuscle
-1 Kogla, the Titan Ape
-1 Canopy Baloth
-1 Arasta of the Endless Web
-1 Feasting Troll King
-2 Kogla, the Titan Ape
-2 Inscription of Abundance
-2 Canopy Baloth
-2 Feasting Troll King
-2 Arasta of the Endless Web
+2 Rabid Bite
+1 Suffocating Fumes
+2 Suffocating Fumes
 3 Garruk's Harbinger
 1 Bonecrusher Giant
 2 Bonecrusher Giant
@@ -113,10 +102,10 @@
 3 Bonecrusher Giant
 3 Blazing Volley
 1 Akoum Hellhound
+1 Cinderclasm
 1 Fling
 1 Thundering Rebuke
 1 Shock
-1 Cinderclasm
 1 Fervent Champion
 2 Akoum Hellhound
 2 Cinderclasm
@@ -125,23 +114,25 @@
 2 Shock
 2 Fervent Champion
 3 Cinderclasm
+1 Ram Through
 1 Feed the Swarm
 2 Feed the Swarm
+2 Ram Through
 3 Feed the Swarm
 3 Primal Might
 1 Boneyard Lurker
 1 Zagoth Mamba
-2 Zagoth Mamba
 2 Boneyard Lurker
+2 Zagoth Mamba
 3 Boneyard Lurker
 3 Zagoth Mamba
+3 Snarespinner
 1 Elder Gargaroth
 1 Witch's Vengeance
 2 Elder Gargaroth
 2 Witch's Vengeance
 3 Duress
 3 Witch's Vengeance
-3 Snarespinner
 1 Heartless Act
 1 Extinction Event
 1 Lovestruck Beast
@@ -149,8 +140,8 @@
 1 Temple of Malady
 1 Scute Swarm
 2 Heartless Act
-2 Extinction Event
 2 Lovestruck Beast
+2 Extinction Event
 4 Garruk's Harbinger
 1 Redcap Melee
 1 Omen of the Forge

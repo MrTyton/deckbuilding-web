@@ -31,18 +31,18 @@
 1 Liliana, Waker of the Dead
 2 Liliana, Waker of the Dead
 4 Castle Locthwain
-1 Hateful Eidolon
 1 Dead Weight
 1 Mire's Grasp
+1 Hateful Eidolon
+2 Dead Weight
 2 Mire's Grasp
 2 Hateful Eidolon
-2 Dead Weight
 3 Mire's Grasp
 3 Hateful Eidolon
 3 Dead Weight
-4 Hateful Eidolon
 4 Dead Weight
 4 Mire's Grasp
+4 Hateful Eidolon
 1 Crawling Barrens
 1 Whisper Squad
 2 Whisper Squad
@@ -51,20 +51,20 @@
 4 Call of the Death-Dweller
 3 Fiend Artisan
 1 Heraldic Banner
-1 Hunted Nightmare
 1 Inscription of Ruin
 1 Blackbloom Rogue
+1 Hunted Nightmare
 2 Heraldic Banner
-2 Hunted Nightmare
 2 Inscription of Ruin
+2 Hunted Nightmare
 3 Inscription of Ruin
 3 Rankle, Master of Pranks
 3 Hunted Nightmare
 4 Village Rites
 4 Nightmare Shepherd
 1 Elspeth's Nightmare
-1 Vito, Thorn of the Dusk Rose
 1 Witch's Cottage
+1 Vito, Thorn of the Dusk Rose
 2 Vito, Thorn of the Dusk Rose
 2 Witch's Cottage
 3 Murderous Rider
@@ -95,16 +95,13 @@
 2 Elspeth's Nightmare
 3 Heraldic Banner
 3 Liliana, Waker of the Dead
-1 Marauding Blight-Priest
-1 Soul Shatter
-2 Marauding Blight-Priest
-2 Soul Shatter
-3 Marauding Blight-Priest
-4 Marauding Blight-Priest
 3 Hagra Mauling
 4 Lurrus of the Dream-Den
-1 Taborax, Hope's Demise
+1 Massacre Wurm
+3 Vito, Thorn of the Dusk Rose
+4 Murderous Rider
 1 Bastion of Remembrance
+1 Taborax, Hope's Demise
 1 Discordant Piper
 1 Witch's Cauldron
 2 Bastion of Remembrance
@@ -113,9 +110,6 @@
 3 Bastion of Remembrance
 3 Witch's Cauldron
 4 Bastion of Remembrance
-1 Massacre Wurm
-3 Vito, Thorn of the Dusk Rose
-4 Murderous Rider
 1 Pelakka Predation
 1 Order of Midnight
 1 Pestilent Haze
@@ -128,6 +122,12 @@
 3 Pelakka Predation
 3 Mogis's Favor
 4 Order of Midnight
+1 Soul Shatter
+1 Marauding Blight-Priest
+2 Soul Shatter
+2 Marauding Blight-Priest
+3 Marauding Blight-Priest
+4 Marauding Blight-Priest
 1 Tymaret Calls the Dead
 1 Aphemia, the Cacophony
 2 Crawling Barrens
@@ -137,22 +137,6 @@
 3 Tymaret Calls the Dead
 4 Aphemia, the Cacophony
 4 Tymaret Calls the Dead
-1 Foulmire Knight
-1 Pharika's Spawn
-1 Mindwrack Harpy
-1 Underworld Dreams
-2 Foulmire Knight
-2 Pharika's Spawn
-2 Underworld Dreams
-2 Kitesail Freebooter
-3 Foulmire Knight
-3 Underworld Dreams
-3 Kitesail Freebooter
-4 Gray Merchant of Asphodel
-4 Underworld Dreams
-4 Kitesail Freebooter
-24 Swamp
-1 Unexpected Fangs
 1 Evolving Wilds
 1 Witch's Oven
 1 Silversmote Ghoul
@@ -162,6 +146,7 @@
 1 The Great Henge
 1 Garruk, Cursed Huntsman
 1 Forest
+1 Unexpected Fangs
 2 Witch's Oven
 2 Silversmote Ghoul
 2 Evolving Wilds
@@ -178,3 +163,18 @@
 4 Savvy Hunter
 4 Jungle Hollow
 4 Forest
+1 Foulmire Knight
+1 Underworld Dreams
+1 Mindwrack Harpy
+1 Pharika's Spawn
+2 Foulmire Knight
+2 Underworld Dreams
+2 Pharika's Spawn
+2 Kitesail Freebooter
+3 Foulmire Knight
+3 Underworld Dreams
+3 Kitesail Freebooter
+4 Kitesail Freebooter
+4 Underworld Dreams
+4 Gray Merchant of Asphodel
+24 Swamp

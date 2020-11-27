@@ -1,5 +1,5 @@
-2 Leyline of Sanctity
-3 Leyline of Sanctity
+1 Thoughtseize
+2 Thoughtseize
 1 Pelakka Predation
 2 Pelakka Predation
 2 Shatterskull Smashing
@@ -44,6 +44,18 @@
 4 Pyretic Ritual
 4 Desperate Ritual
 4 Bala Ged Recovery
+4 Leyline of Sanctity
+3 Pelakka Predation
+4 Pelakka Predation
+2 Pact of Negation
+3 Pact of Negation
+4 Pact of Negation
+1 Tangled Florahedron
+2 Tangled Florahedron
+3 Tangled Florahedron
+1 Blood Moon
+2 Blood Moon
+3 Blood Moon
 1 Jace, Wielder of Mysteries
 1 Thassa's Oracle
 1 Opt
@@ -73,30 +85,22 @@
 3 River of Tears
 3 Inverter of Truth
 4 Remand
-4 Inverter of Truth
-1 Island
-2 Island
-1 Shelldock Isle
-1 Swamp
-2 Shelldock Isle
-1 Relic of Progenitus
-3 Watery Grave
-4 Watery Grave
-1 Cling to Dust
-4 River of Tears
 4 Fatal Push
-4 Leyline of Sanctity
-3 Pelakka Predation
-4 Pelakka Predation
+4 Inverter of Truth
 1 Force of Negation
 2 Force of Negation
+1 Island
+2 Island
 3 Island
 1 Snapcaster Mage
+1 Shelldock Isle
 1 Tasigur, the Golden Fang
 1 Sunken Ruins
 1 Vendilion Clique
 1 Scalding Tarn
+1 Swamp
 1 Cryptic Command
+2 Shelldock Isle
 2 Snapcaster Mage
 2 Scalding Tarn
 3 Polluted Delta
@@ -105,29 +109,11 @@
 4 Polluted Delta
 4 Jace, Wielder of Mysteries
 4 Shelldock Isle
-2 Pact of Negation
-3 Pact of Negation
-4 Pact of Negation
-1 Tangled Florahedron
-2 Tangled Florahedron
-3 Tangled Florahedron
-1 Blood Moon
-2 Blood Moon
-3 Blood Moon
-2 Swamp
-1 Omen of the Sea
-1 Eldrazi Temple
-1 Darkslick Shores
-1 Snow-Covered Island
-2 Omen of the Sea
-2 Eldrazi Temple
-2 Darkslick Shores
-2 Relic of Progenitus
-3 Omen of the Sea
-3 Relic of Progenitus
-3 Darkslick Shores
-3 Thassa's Oracle
-4 Thassa's Oracle
+1 Relic of Progenitus
+3 Watery Grave
+4 Watery Grave
+1 Cling to Dust
+4 River of Tears
 1 Talisman of Progress
 1 Skyclave Cleric
 1 Teferi, Hero of Dominaria
@@ -231,17 +217,28 @@
 1 Creeping Tar Pit
 1 Memory's Journey
 1 Worldspine Wurm
-1 Logic Knot
-1 Eliminate
-1 Leveler
+2 Swamp
+1 Omen of the Sea
+1 Eldrazi Temple
 1 Drowned Catacomb
 1 Snow-Covered Swamp
 1 Cavern of Souls
+1 Darkslick Shores
+1 Snow-Covered Island
+2 Omen of the Sea
+2 Eldrazi Temple
 2 Drowned Catacomb
-3 Inquisition of Kozilek
+2 Darkslick Shores
+2 Relic of Progenitus
+3 Omen of the Sea
 3 Drowned Catacomb
+3 Inquisition of Kozilek
+3 Relic of Progenitus
+3 Darkslick Shores
+3 Thassa's Oracle
 4 Omen of the Sea
 4 Darkslick Shores
+4 Thassa's Oracle
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void

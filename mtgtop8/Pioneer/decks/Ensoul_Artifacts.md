@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)   |                    1|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)             |
-|                    1|[Scrapheap Scrounger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417804)|                    1|[Aethersphere Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423809)|
+|                    1|[Scrapheap Scrounger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417804)|                    1|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)             |
+|                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)   |                    1|[Aethersphere Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423809)|
 |                    2|[Spire of Industry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423851)  |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)    |
 |                    2|[Scrapheap Scrounger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417804)|                    1|[Metallic Rebuke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423706)       |
 |                    3|[Spire of Industry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423851)  |                    1|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)            |

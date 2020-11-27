@@ -33,10 +33,10 @@
 1 Simian Spirit Guide
 1 Sunbaked Canyon
 2 Sunbaked Canyon
-1 Arid Mesa
 1 Scalding Tarn
-2 Arid Mesa
+1 Arid Mesa
 2 Scalding Tarn
+2 Arid Mesa
 1 Spikefield Hazard
 2 Spikefield Hazard
 2 Simian Spirit Guide
@@ -71,8 +71,6 @@
 2 Vexing Devil
 2 Chandra's Incinerator
 4 Scalding Tarn
-3 Wooded Foothills
-4 Wooded Foothills
 1 Wayward Guide-Beast
 1 Goblin Cratermaker
 1 Street Wraith
@@ -92,10 +90,12 @@
 2 Volcanic Fallout
 2 Badlands
 3 Badlands
-3 Arid Mesa
 3 Urza's Bauble
+3 Arid Mesa
 4 Urza's Bauble
 4 Arid Mesa
+3 Wooded Foothills
+4 Wooded Foothills
 1 Plateau
 1 Mishra's Bauble
 1 Sacred Foundry
