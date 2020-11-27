@@ -35,7 +35,6 @@
 1 Mystic Sanctuary
 1 Tundra
 1 Teferi, Time Raveler
-1 Snapcaster Mage
 1 Baleful Strix
 1 Scalding Tarn
 1 Bloodstained Mire
@@ -44,7 +43,6 @@
 1 Tolaria West
 1 Marsh Flats
 1 Ethersworn Canonist
-1 Counterspell
 1 Celestial Colonnade
 1 Intuition
 1 Arid Mesa
@@ -53,6 +51,7 @@
 1 Portent
 1 Drowned Catacomb
 1 Murderous Cut
+1 Counterspell
 1 Glacial Fortress
 1 Rest in Peace
 1 Moat
@@ -62,10 +61,9 @@
 1 Unburial Rites
 1 The Tabernacle at Pendrell Vale
 1 Jace, the Mind Sculptor
-1 Supreme Verdict
 1 Cunning Wish
-1 Leyline of Sanctity
 1 Iona, Shield of Emeria
+1 Leyline of Sanctity
 1 Elesh Norn, Grand Cenobite
 1 Brainstorm
 1 Serum Visions
@@ -86,10 +84,12 @@
 1 Snow-Covered Island
 1 Ad Nauseam
 1 Preordain
+1 Supreme Verdict
 1 Show and Tell
 1 Academy Rector
 1 Flooded Strand
 1 Creeping Tar Pit
+1 Snapcaster Mage
 1 Snow-Covered Plains
 1 Battle of Wits
 1 Impulse
@@ -98,7 +98,6 @@
 1 Scrubland
 1 Phyrexian Unlife
 1 Force of Will
-2 Snapcaster Mage
 2 Teferi, Time Raveler
 2 Toxic Deluge
 2 Baleful Strix
@@ -130,6 +129,7 @@
 2 Academy Rector
 2 Misty Rainforest
 2 Cunning Wish
+2 Snapcaster Mage
 2 Murderous Cut
 2 Gifts Ungiven
 2 Battle of Wits
@@ -208,11 +208,12 @@
 4 Teferi, Time Raveler
 4 Impulse
 4 Polluted Delta
+4 Terminus
 4 Underground Sea
+4 Celestial Colonnade
 4 Baleful Strix
 4 Marsh Flats
 4 Tolaria West
-4 Celestial Colonnade
 4 Tundra
 4 Arcum's Astrolabe
 4 Spell Pierce
@@ -233,7 +234,6 @@
 4 Creeping Tar Pit
 4 Show and Tell
 4 Counterspell
-4 Terminus
 4 Personal Tutor
 4 Cabal Therapy
 5 Snow-Covered Island
@@ -266,7 +266,6 @@
 4 Once Upon a Time
 4 Mox Diamond
 4 Abrupt Decay
-1 Castle Locthwain
 1 Chrome Mox
 1 Dakmor Salvage
 1 Liliana of the Veil
@@ -280,6 +279,7 @@
 1 Hymn to Tourach
 1 Eliminate
 1 Trinisphere
+1 Castle Locthwain
 1 Gurmag Angler
 1 Desolation
 1 Karn, the Great Creator
@@ -306,9 +306,9 @@
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
-1 Life from the Loam
 1 Blooming Marsh
 1 Llanowar Wastes
+1 Life from the Loam
 2 Nurturing Peatland
 2 Life from the Loam
 4 Duress

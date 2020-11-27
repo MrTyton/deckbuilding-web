@@ -21,6 +21,7 @@
 1 Bayou
 1 Tropical Island
 1 Abrupt Decay
+1 Sanctum Prelate
 1 Vendilion Clique
 1 Skyclave Apparition
 1 Swords to Plowshares
@@ -31,7 +32,6 @@
 1 Leovold, Emissary of Trest
 1 Knight of Autumn
 1 Phyrexian Revoker
-1 Sanctum Prelate
 1 Mother of Runes
 1 Renegade Rallier
 1 Atraxa, Praetors' Voice
@@ -98,8 +98,8 @@
 1 Sunbaked Canyon
 1 Embercleave
 1 Plains
-1 Legion Warboss
 1 Goblin Rabblemaster
+1 Legion Warboss
 1 Battlefield Forge
 1 Godo, Bandit Warlord
 1 Winota, Joiner of Forces
@@ -107,17 +107,17 @@
 1 Plateau
 1 Angrath's Marauders
 1 Thalia, Guardian of Thraben
+2 Legion Warboss
 2 Goblin Rabblemaster
 2 Plateau
 2 Trinisphere
 2 Winota, Joiner of Forces
 2 Angrath's Marauders
 2 Thalia, Guardian of Thraben
-2 Legion Warboss
+3 Legion Warboss
 3 Plateau
 3 Goblin Rabblemaster
 3 Angrath's Marauders
-3 Legion Warboss
 3 Winota, Joiner of Forces
 3 Trinisphere
 4 Legion Warboss
@@ -145,6 +145,7 @@
 1 Prismatic Vista
 1 Pillage
 1 Stomping Ground
+2 Magus of the Moon
 2 Ramunap Excavator
 2 Lightning Bolt
 2 Bonecrusher Giant
@@ -154,7 +155,6 @@
 2 Pillage
 2 Prismatic Vista
 2 Tireless Tracker
-2 Magus of the Moon
 3 Bonecrusher Giant
 3 Lightning Bolt
 3 Wasteland

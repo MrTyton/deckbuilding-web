@@ -75,29 +75,29 @@
 4 Skyclave Cleric
 1 Brightclimb Pathway
 1 Tectonic Edge
+1 Wasteland Strangler
 1 Tidehollow Sculler
 1 Swamp
 1 Caves of Koilos
 1 Concealed Courtyard
-1 Wasteland Strangler
-2 Wasteland Strangler
-2 Tidehollow Sculler
-2 Charming Prince
 2 Brightclimb Pathway
+2 Charming Prince
+2 Wasteland Strangler
 2 Concealed Courtyard
+2 Tidehollow Sculler
 2 Caves of Koilos
-3 Tidehollow Sculler
+3 Caves of Koilos
 3 Concealed Courtyard
-3 Wasteland Strangler
 3 Brightclimb Pathway
 3 Charming Prince
-3 Caves of Koilos
-4 Concealed Courtyard
-4 Tidehollow Sculler
+3 Wasteland Strangler
+3 Tidehollow Sculler
 4 Charming Prince
-4 Wasteland Strangler
-4 Brightclimb Pathway
 4 Caves of Koilos
+4 Concealed Courtyard
+4 Brightclimb Pathway
+4 Wasteland Strangler
+4 Tidehollow Sculler
 1 Restoration Angel
 1 Linvala, Keeper of Silence
 1 Spellskite
@@ -135,9 +135,19 @@
 3 Simian Spirit Guide
 4 Battlefield Forge
 4 Containment Priest
+4 Sunbaked Canyon
 4 Chalice of the Void
 4 Simian Spirit Guide
-4 Sunbaked Canyon
+1 Mutavault
+1 Phyrexian Revoker
+2 Mutavault
+2 Phyrexian Revoker
+3 Mutavault
+4 Mutavault
+9 Snow-Covered Plains
+10 Snow-Covered Plains
+11 Snow-Covered Plains
+12 Snow-Covered Plains
 1 Branchloft Pathway
 1 Razorverge Thicket
 1 Aven Mindcensor
@@ -156,13 +166,3 @@
 4 Temple Garden
 4 Razorverge Thicket
 4 Noble Hierarch
-1 Mutavault
-1 Phyrexian Revoker
-2 Mutavault
-2 Phyrexian Revoker
-3 Mutavault
-4 Mutavault
-9 Snow-Covered Plains
-10 Snow-Covered Plains
-11 Snow-Covered Plains
-12 Snow-Covered Plains

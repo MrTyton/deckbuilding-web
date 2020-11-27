@@ -54,21 +54,21 @@
 1 River of Tears
 1 Murderous Cut
 1 Remand
-1 Inquisition of Kozilek
 1 Watery Grave
 1 Fatal Push
+1 Inquisition of Kozilek
 1 Inverter of Truth
 1 Polluted Delta
 2 River of Tears
 2 Watery Grave
 2 Polluted Delta
 2 Remand
-2 Inquisition of Kozilek
 2 Fatal Push
+2 Inquisition of Kozilek
 2 Jace, Wielder of Mysteries
 2 Inverter of Truth
-3 Fatal Push
 3 Remand
+3 Fatal Push
 3 Jace, Wielder of Mysteries
 3 River of Tears
 3 Inverter of Truth
@@ -99,9 +99,9 @@
 1 Cryptic Command
 2 Snapcaster Mage
 2 Scalding Tarn
-3 Snapcaster Mage
 3 Polluted Delta
 3 Shelldock Isle
+3 Snapcaster Mage
 4 Polluted Delta
 4 Jace, Wielder of Mysteries
 4 Shelldock Isle
@@ -166,7 +166,9 @@
 4 Selective Memory
 4 Disrupting Shoal
 4 Silundi Vision
+1 Mountain
 1 Karn, the Great Creator
+1 Stomping Ground
 1 Waterlogged Grove
 1 Forest
 1 Aether Hub
@@ -178,12 +180,10 @@
 1 Lightning Bolt
 1 Uro, Titan of Nature's Wrath
 1 Steam Vents
-1 Mountain
 1 Wooded Foothills
 1 Woodweaver's Puzzleknot
 1 Misty Rainforest
 1 Aetherworks Marvel
-1 Stomping Ground
 1 Harnessed Lightning
 1 Whirler Virtuoso
 1 Rogue Refiner
@@ -227,8 +227,8 @@
 4 Attune with Aether
 4 Aether Hub
 1 Sphere of the Suns
-1 Creeping Tar Pit
 1 Castle Vantress
+1 Creeping Tar Pit
 1 Memory's Journey
 1 Worldspine Wurm
 1 Logic Knot
@@ -247,7 +247,6 @@
 3 Chalice of the Void
 4 Chalice of the Void
 4 Blood Moon
-1 Lotus Field
 1 Empty the Warrens
 1 Shivan Reef
 1 Peer Through Depths
@@ -261,6 +260,7 @@
 1 Grapeshot
 1 Past in Flames
 1 Sleight of Hand
+1 Lotus Field
 1 Dream's Grip
 1 Vizier of Tumbling Sands
 2 Shivan Reef

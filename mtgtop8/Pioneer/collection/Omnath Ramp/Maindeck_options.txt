@@ -10,8 +10,8 @@
 1 Glacial Fortress
 4 Teferi, Time Raveler
 1 Hallowed Fountain
-1 Fae of Wishes
 1 Radiant Flames
+1 Fae of Wishes
 2 Radiant Flames
 2 Fae of Wishes
 3 Radiant Flames
@@ -22,15 +22,15 @@
 4 Ketria Triome
 2 Evolving Wilds
 2 Rootbound Crag
-1 Blood Crypt
-1 Dragonskull Summit
+1 Godless Shrine
+1 Mana Confluence
 1 Skyclave Apparition
+1 Blood Crypt
 1 Sylvan Primordial
 1 Thoughtseize
 1 Charming Prince
 1 Fatal Push
 1 Swamp
-1 Godless Shrine
 1 Zagoth Triome
 1 Watery Grave
 1 Overgrown Tomb
@@ -38,8 +38,10 @@
 1 Golos, Tireless Pilgrim
 1 Nahiri, the Harbinger
 1 Yorion, Sky Nomad
-1 Mana Confluence
 1 Bring to Light
+1 Dragonskull Summit
+2 Godless Shrine
+2 Nahiri, the Harbinger
 2 Mana Confluence
 2 Skyclave Apparition
 2 Zagoth Triome
@@ -51,11 +53,9 @@
 2 Charming Prince
 2 Watery Grave
 2 Indatha Triome
-2 Godless Shrine
-2 Nahiri, the Harbinger
 3 Overgrown Tomb
-3 Zagoth Triome
 3 Mana Confluence
+3 Zagoth Triome
 3 Nahiri, the Harbinger
 3 Bring to Light
 3 Fatal Push
@@ -82,10 +82,10 @@
 1 Steam Vents
 2 Ugin, the Spirit Dragon
 2 Kenrith, the Returned King
-3 Stomping Ground
-1 Tireless Tracker
-4 Evolving Wilds
 1 Riverglide Pathway
 1 Cragcrown Pathway
 2 Riverglide Pathway
 2 Cragcrown Pathway
+1 Tireless Tracker
+4 Evolving Wilds
+3 Stomping Ground

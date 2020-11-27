@@ -33,11 +33,11 @@
 1 Languish
 1 Cling to Dust
 2 Negate
-1 Soul Shatter
-1 Disdainful Stroke
-1 Self-Inflicted Wound
 1 Collective Brutality
 1 Thought Distortion
+1 Self-Inflicted Wound
+1 Disdainful Stroke
+1 Soul Shatter
 1 Tormod's Crypt
 2 Noxious Grasp
 2 Tormod's Crypt
@@ -62,12 +62,6 @@
 1 Apostle of Purifying Light
 2 Apostle of Purifying Light
 3 Apostle of Purifying Light
-1 Detention Sphere
-1 Void Winnower
-1 Resolute Archangel
-3 Dovin's Veto
-3 Rest in Peace
-4 Dovin's Veto
 1 Thoughtseize
 1 Crypt Incursion
 1 Vantress Gargoyle
@@ -96,15 +90,6 @@
 3 Deafening Silence
 3 Destiny Spinner
 4 Destiny Spinner
-1 Spell Queller
-1 Radiant Flames
-1 Storm's Wrath
-2 Spell Queller
-2 Radiant Flames
-2 Storm's Wrath
-3 Radiant Flames
-3 Spell Queller
-4 Radiant Flames
 1 Shifting Ceratops
 1 Tale's End
 1 Ugin, the Ineffable
@@ -115,5 +100,20 @@
 2 Broken Wings
 2 Thought-Knot Seer
 3 Thought-Knot Seer
-4 Thought-Knot Seer
 3 Shifting Ceratops
+4 Thought-Knot Seer
+1 Detention Sphere
+1 Void Winnower
+1 Resolute Archangel
+3 Dovin's Veto
+3 Rest in Peace
+1 Spell Queller
+1 Storm's Wrath
+1 Radiant Flames
+2 Spell Queller
+2 Radiant Flames
+2 Storm's Wrath
+3 Radiant Flames
+3 Spell Queller
+4 Radiant Flames
+4 Dovin's Veto

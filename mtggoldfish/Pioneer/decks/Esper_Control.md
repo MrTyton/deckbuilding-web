@@ -113,7 +113,7 @@
 |                    3|[Irrigated Farmland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426947)          |                     |                                                                                                   |
 |                    3|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)         |                     |                                                                                                   |
 |                    3|[Fetid Pools](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426945)                 |                     |                                                                                                   |
-|                    4|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)         |                     |                                                                                                   |
 |                    4|[Irrigated Farmland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426947)          |                     |                                                                                                   |
+|                    4|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)         |                     |                                                                                                   |
 |                    4|[Fetid Pools](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426945)                 |                     |                                                                                                   |
 
