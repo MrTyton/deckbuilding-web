@@ -1,36 +1,35 @@
-1 Concealed Courtyard
-2 Tidehollow Sculler
-2 Wasteland Strangler
-2 Concealed Courtyard
-3 Wasteland Strangler
-3 Concealed Courtyard
 3 Tidehollow Sculler
 4 Concealed Courtyard
+1 Skyclave Apparition
+2 Skyclave Apparition
+3 Skyclave Apparition
+1 Snow-Covered Plains
+4 Plains
+1 Swamp
 1 Field of Ruin
 5 Plains
-1 Reality Smasher
-1 Horizon Canopy
-1 Blade Splicer
-2 Blade Splicer
 1 Charming Prince
 2 Charming Prince
-2 Reality Smasher
-3 Reality Smasher
-4 Reality Smasher
 4 Skyclave Apparition
+1 Reality Smasher
 1 Sword of Fire and Ice
 1 Batterskull
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
+1 Horizon Canopy
+1 Blade Splicer
+2 Blade Splicer
 6 Plains
+2 Snow-Covered Plains
 3 Charming Prince
 4 Tidehollow Sculler
-2 Snow-Covered Plains
+2 Reality Smasher
+3 Reality Smasher
+4 Reality Smasher
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 3 Shefet Dunes
-2 Horizon Canopy
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 1 Containment Priest
@@ -38,16 +37,16 @@
 1 Wastes
 1 Sunbaked Canyon
 1 Thalia, Heretic Cathar
+1 Gemstone Caverns
 1 Dismember
 1 Battlefield Forge
-1 Gemstone Caverns
 1 Chalice of the Void
 1 Simian Spirit Guide
 1 Cavern of Souls
 2 Chalice of the Void
+2 Dismember
 2 Battlefield Forge
 2 Simian Spirit Guide
-2 Dismember
 3 Chalice of the Void
 3 Simian Spirit Guide
 3 Battlefield Forge
@@ -62,8 +61,18 @@
 4 Silent Clearing
 4 Shefet Dunes
 2 Sunbaked Canyon
+2 Horizon Canopy
 7 Snow-Covered Plains
 8 Snow-Covered Plains
+1 Winds of Abandon
+2 Winds of Abandon
+3 Containment Priest
+4 Containment Priest
+7 Plains
+8 Plains
+9 Plains
+3 Sunbaked Canyon
+4 Charming Prince
 1 Brushland
 1 Noble Hierarch
 1 Razorverge Thicket
@@ -80,16 +89,6 @@
 4 Noble Hierarch
 4 Horizon Canopy
 4 Brushland
-1 Winds of Abandon
-2 Winds of Abandon
-3 Containment Priest
-4 Containment Priest
-7 Plains
-8 Plains
-9 Plains
-3 Sunbaked Canyon
-4 Charming Prince
-1 Snow-Covered Forest
 2 Gemstone Caverns
 1 Restoration Angel
 2 Restoration Angel
@@ -103,6 +102,7 @@
 1 Archon of Emeria
 1 Skyclave Cleric
 2 Skyclave Cleric
+1 Snow-Covered Forest
 2 Cavern of Souls
 1 Windbrisk Heights
 3 Mutavault
@@ -122,6 +122,7 @@
 4 Skyclave Cleric
 1 Legion Angel
 1 Lurrus of the Dream-Den
+1 Snow-Covered Swamp
 1 Sacred Foundry
 1 Forest
 1 Crucible of Worlds
@@ -142,6 +143,6 @@
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 2 Thalia, Heretic Cathar
-3 Dismember
 3 Gemstone Caverns
+3 Dismember
 4 Sunbaked Canyon

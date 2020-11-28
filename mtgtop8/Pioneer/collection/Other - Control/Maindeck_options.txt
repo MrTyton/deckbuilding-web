@@ -83,9 +83,9 @@
 2 Castle Ardenvale
 2 Sacred Foundry
 2 Glacial Fortress
-3 Anger of the Gods
 3 Castle Ardenvale
 3 Omen of the Sea
+3 Anger of the Gods
 3 Sacred Foundry
 3 Steam Vents
 4 Shark Typhoon
@@ -98,8 +98,8 @@
 3 Stomping Ground
 1 Geier Reach Sanitarium
 1 Heartless Act
-1 Kalitas, Traitor of Ghet
 1 Day's Undoing
+1 Kalitas, Traitor of Ghet
 2 Heartless Act
 1 Castle Locthwain
 1 Hero's Downfall
@@ -115,10 +115,10 @@
 1 Jace, Architect of Thought
 1 Elspeth, Sun's Nemesis
 1 Elspeth Conquers Death
+1 Dream Trawler
 1 Teferi, Hero of Dominaria
 1 Syncopate
 1 Dovin's Veto
-1 Dream Trawler
 1 Absorb
 1 Azorius Charm
 2 Elspeth Conquers Death
@@ -135,8 +135,8 @@
 4 Absorb
 4 Azorius Charm
 1 Lukka, Coppercoat Outcast
-1 Riverglide Pathway
 1 Gideon of the Trials
+1 Riverglide Pathway
 1 Detention Sphere
 1 Transmogrify
 1 Fires of Invention
@@ -169,8 +169,8 @@
 1 Merfolk Secretkeeper
 1 Clearwater Pathway
 1 Drown in the Loch
-1 Didn't Say Please
 1 Jwari Disruption
+1 Didn't Say Please
 1 Ipnu Rivulet
 1 Maddening Cacophony
 1 Ruin Crab
@@ -214,8 +214,8 @@
 4 Ipnu Rivulet
 4 Breaking / Entering
 1 Spikefield Hazard
-1 Golos, Tireless Pilgrim
 1 Indatha Triome
+1 Golos, Tireless Pilgrim
 1 Jolrael, Mwonvuli Recluse
 1 Shatterskull Smashing
 2 Jolrael, Mwonvuli Recluse
@@ -234,25 +234,25 @@
 2 Cragcrown Pathway
 3 Voice of Resurgence
 1 Hieroglyphic Illumination
+1 Void Shatter
 1 Torrential Gearhulk
 1 Erebos's Intervention
-1 Void Shatter
 1 Vraska's Contempt
 1 Unwind
 1 Ritual of Soot
 1 Glimmer of Genius
 1 Sinister Sabotage
+2 Castle Locthwain
+2 Void Shatter
 2 Torrential Gearhulk
 2 Castle Vantress
 2 Negate
 2 Ritual of Soot
 2 Glimmer of Genius
-2 Void Shatter
-2 Castle Locthwain
 3 Fetid Pools
+3 Void Shatter
 3 Field of Ruin
 3 Censor
-3 Void Shatter
 3 Torrential Gearhulk
 1 Bonecrusher Giant
 1 Urban Evolution
@@ -360,6 +360,7 @@
 1 Shrine of the Forsaken Gods
 1 Botanical Sanctum
 2 Castle Garenbrig
+2 Zagoth Triome
 2 Yavimaya Coast
 2 Sanctum of Ugin
 2 World Breaker
@@ -367,7 +368,6 @@
 2 Botanical Sanctum
 2 Voracious Hydra
 2 Arboreal Grazer
-2 Zagoth Triome
 2 Elvish Rejuvenator
 2 Shrine of the Forsaken Gods
 3 Yavimaya Coast

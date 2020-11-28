@@ -16,43 +16,43 @@
 1 Soldier of the Pantheon
 1 Dauntless Bodyguard
 1 Brave the Elements
-1 Shefet Dunes
 1 Concealed Courtyard
-1 Luminarch Aspirant
 1 Caves of Koilos
+1 General Kudro of Drannith
+1 Giant Killer
 1 Godless Shrine
 1 Brightclimb Pathway
-1 General Kudro of Drannith
 1 Kytheon, Hero of Akros
 1 Thalia's Lieutenant
-1 Giant Killer
+1 Luminarch Aspirant
 1 Legion's Landing
+1 Shefet Dunes
 1 Dire Tactics
 2 Boros Elite
 2 Dauntless Bodyguard
-2 Shefet Dunes
 2 General Kudro of Drannith
 2 Soldier of the Pantheon
-2 Luminarch Aspirant
 2 Brave the Elements
 2 Thalia's Lieutenant
 2 Caves of Koilos
 2 Concealed Courtyard
 2 Kytheon, Hero of Akros
-2 Giant Killer
+2 Luminarch Aspirant
 2 Legion's Landing
+2 Giant Killer
+2 Shefet Dunes
 2 Brightclimb Pathway
 2 Godless Shrine
 3 General Kudro of Drannith
-3 Luminarch Aspirant
-3 Boros Elite
 3 Thalia's Lieutenant
 3 Brave the Elements
+3 Boros Elite
 3 Caves of Koilos
 3 Soldier of the Pantheon
 3 Godless Shrine
 3 Dauntless Bodyguard
 3 Concealed Courtyard
+3 Luminarch Aspirant
 3 Brightclimb Pathway
 4 Brave the Elements
 4 Caves of Koilos
@@ -67,10 +67,6 @@
 4 Skyclave Cleric
 1 Thassa, Deep-Dwelling
 2 Thassa, Deep-Dwelling
-1 Llanowar Elves
-1 Elvish Mystic
-2 Llanowar Elves
-2 Elvish Mystic
 1 Agadeem's Awakening
 1 Blooming Marsh
 2 Blooming Marsh
@@ -79,36 +75,41 @@
 1 Woe Strider
 1 Blood Crypt
 1 Overgrown Tomb
-1 Catacomb Sifter
 1 Gilded Goose
-1 Bolas's Citadel
 1 Cragcrown Pathway
+1 Bolas's Citadel
 1 Collected Company
+1 Catacomb Sifter
+1 Llanowar Elves
 1 Mayhem Devil
+1 Elvish Mystic
 2 Priest of Forgotten Gods
 2 Zulaport Cutthroat
 2 Overgrown Tomb
 2 Woe Strider
 2 Blood Crypt
 2 Gilded Goose
+2 Catacomb Sifter
+2 Mayhem Devil
+2 Elvish Mystic
+2 Cragcrown Pathway
 2 Bolas's Citadel
 2 Collected Company
-2 Mayhem Devil
-2 Cragcrown Pathway
-2 Catacomb Sifter
+2 Llanowar Elves
 3 Zulaport Cutthroat
 3 Overgrown Tomb
 3 Priest of Forgotten Gods
-3 Mayhem Devil
-3 Catacomb Sifter
-3 Cragcrown Pathway
-3 Gilded Goose
-3 Woe Strider
 3 Bolas's Citadel
-3 Blooming Marsh
 3 Collected Company
+3 Woe Strider
+3 Catacomb Sifter
+3 Gilded Goose
+3 Mayhem Devil
+3 Cragcrown Pathway
+3 Blooming Marsh
 4 Zulaport Cutthroat
 4 Priest of Forgotten Gods
+4 Collected Company
 4 Catacomb Sifter
 4 Woe Strider
 4 Bolas's Citadel
@@ -116,7 +117,6 @@
 4 Cragcrown Pathway
 4 Overgrown Tomb
 4 Blooming Marsh
-4 Collected Company
 1 Venerated Loxodon
 2 Venerated Loxodon
 3 Venerated Loxodon
@@ -150,24 +150,71 @@
 1 Mardu Woe-Reaper
 2 Benalish Marshal
 4 Luminarch Aspirant
-1 Skyclave Shade
-1 Tangled Florahedron
-1 Korvold, Fae-Cursed King
-2 Tangled Florahedron
-3 Tangled Florahedron
-3 Blood Crypt
-4 Blood Crypt
-4 Tangled Florahedron
+1 Mana Confluence
+1 Deathrite Shaman
+1 Into the Story
+1 Merfolk Windrobber
+1 Fatal Push
+1 Watery Grave
+1 Thieves' Guild Enforcer
+1 Drown in the Loch
+1 Clearwater Pathway
+1 Thoughtseize
+1 Chart a Course
+1 Swamp
+1 Breeding Pool
+1 Mutavault
+1 Botanical Sanctum
+1 Soaring Thought-Thief
+2 Mana Confluence
+2 Deathrite Shaman
+2 Into the Story
+2 Merfolk Windrobber
+2 Watery Grave
+2 Thieves' Guild Enforcer
+2 Drown in the Loch
+2 Clearwater Pathway
+2 Fatal Push
+2 Thoughtseize
+2 Mutavault
+2 Soaring Thought-Thief
+2 Botanical Sanctum
+2 Chart a Course
+3 Watery Grave
+3 Into the Story
+3 Thieves' Guild Enforcer
+3 Merfolk Windrobber
+3 Drown in the Loch
+3 Clearwater Pathway
+3 Fatal Push
+3 Thoughtseize
+3 Botanical Sanctum
+3 Chart a Course
+3 Mutavault
+3 Soaring Thought-Thief
+3 Deathrite Shaman
+4 Into the Story
+4 Watery Grave
+4 Thieves' Guild Enforcer
+4 Clearwater Pathway
+4 Merfolk Windrobber
+4 Drown in the Loch
+4 Thoughtseize
+4 Fatal Push
+4 Botanical Sanctum
+4 Soaring Thought-Thief
+4 Chart a Course
+4 Deathrite Shaman
 1 Watcher of the Spheres
 1 Azorius Charm
 1 Lofty Denial
 1 Archangel Avacyn
 1 Emeria's Call
-1 Selfless Spirit
 1 Winged Words
-1 Rattlechains
 1 Brazen Borrower
+1 Rattlechains
 1 Irrigated Farmland
+1 Selfless Spirit
 2 Watcher of the Spheres
 2 Azorius Charm
 2 Archangel Avacyn
@@ -182,118 +229,20 @@
 3 Azorius Charm
 3 Archangel Avacyn
 3 Brazen Borrower
-3 Irrigated Farmland
-3 Rattlechains
-3 Lofty Denial
 3 Selfless Spirit
+3 Lofty Denial
+3 Rattlechains
+3 Irrigated Farmland
 4 Selfless Spirit
 4 Watcher of the Spheres
 4 Irrigated Farmland
 4 Brazen Borrower
 4 Archangel Avacyn
-1 Mana Confluence
-1 Deathrite Shaman
-1 Into the Story
-1 Merfolk Windrobber
-1 Fatal Push
-1 Watery Grave
-1 Thieves' Guild Enforcer
-1 Drown in the Loch
-1 Clearwater Pathway
-1 Thoughtseize
-1 Mutavault
-1 Breeding Pool
-1 Soaring Thought-Thief
-1 Swamp
-1 Chart a Course
-1 Botanical Sanctum
-2 Mana Confluence
-2 Deathrite Shaman
-2 Into the Story
-2 Merfolk Windrobber
-2 Watery Grave
-2 Thieves' Guild Enforcer
-2 Drown in the Loch
-2 Clearwater Pathway
-2 Fatal Push
-2 Thoughtseize
-2 Botanical Sanctum
-2 Chart a Course
-2 Mutavault
-2 Soaring Thought-Thief
-3 Watery Grave
-3 Into the Story
-3 Thieves' Guild Enforcer
-3 Merfolk Windrobber
-3 Drown in the Loch
-3 Clearwater Pathway
-3 Fatal Push
-3 Thoughtseize
-3 Deathrite Shaman
-3 Chart a Course
-3 Botanical Sanctum
-3 Mutavault
-3 Soaring Thought-Thief
-4 Into the Story
-4 Watery Grave
-4 Thieves' Guild Enforcer
-4 Merfolk Windrobber
-4 Clearwater Pathway
-4 Drown in the Loch
-4 Thoughtseize
-4 Fatal Push
-4 Soaring Thought-Thief
-4 Deathrite Shaman
-4 Chart a Course
-4 Botanical Sanctum
-1 Lovestruck Beast
-1 Temple Garden
-1 Nissa, Voice of Zendikar
-1 Voice of Resurgence
-1 Sunpetal Grove
-1 Westvale Abbey
-1 Dromoka's Command
-1 Declaration in Stone
-1 Gideon, Ally of Zendikar
-1 Leonin Warleader
-1 Secure the Wastes
-1 Paradise Druid
-1 Brimaz, King of Oreskos
-1 Forest
-1 Divine Visitation
-2 Lovestruck Beast
-2 Castle Ardenvale
-2 Temple Garden
-2 Nissa, Voice of Zendikar
-2 Voice of Resurgence
-2 Sunpetal Grove
-2 Dromoka's Command
-2 Secure the Wastes
-2 Brimaz, King of Oreskos
-2 Westvale Abbey
-2 Forest
-2 Paradise Druid
-2 Divine Visitation
-2 Gideon, Ally of Zendikar
-2 Leonin Warleader
-3 Lovestruck Beast
-3 Temple Garden
-3 Voice of Resurgence
-3 Sunpetal Grove
-3 Gideon, Ally of Zendikar
-3 Dromoka's Command
-3 Secure the Wastes
-3 Paradise Druid
-3 Westvale Abbey
-3 Forest
-3 Divine Visitation
-4 Lovestruck Beast
-4 Temple Garden
-4 Sunpetal Grove
-4 Voice of Resurgence
-4 Paradise Druid
-4 Secure the Wastes
-4 Forest
-4 Dromoka's Command
-5 Forest
-6 Forest
+1 Skyclave Shade
+1 Tangled Florahedron
+1 Korvold, Fae-Cursed King
+2 Tangled Florahedron
+3 Blood Crypt
+3 Tangled Florahedron
+4 Tangled Florahedron
+4 Blood Crypt

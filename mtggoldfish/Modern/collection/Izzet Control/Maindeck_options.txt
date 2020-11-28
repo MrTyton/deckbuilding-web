@@ -1,9 +1,12 @@
 1 Temple of Epiphany
 1 Peek
-3 Serum Visions
 3 Cryptic Command
-1 Force of Negation
+3 Serum Visions
 4 Serum Visions
+2 Mountain
+1 Force of Negation
+2 Abrade
+3 Crackling Drake
 2 Force of Negation
 1 Mystic Sanctuary
 1 Steam Vents
@@ -21,19 +24,7 @@
 1 Polluted Delta
 1 Mana Leak
 3 Steam Vents
-2 Mountain
-2 Polluted Delta
-3 Polluted Delta
-4 Polluted Delta
-2 Abrade
-3 Crackling Drake
 1 Spell Pierce
-1 Thing in the Ice
-2 Thing in the Ice
-3 Thing in the Ice
-1 Sulfur Falls
-1 Ral, Izzet Viceroy
-2 Mana Leak
 1 Omen of the Sea
 1 Through the Breach
 1 Emrakul, the Aeons Torn
@@ -43,17 +34,26 @@
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
 4 Through the Breach
+2 Polluted Delta
+3 Polluted Delta
+4 Polluted Delta
 1 Pestermite
 2 Pestermite
 4 Kiki-Jiki, Mirror Breaker
 4 Deceiver Exarch
-1 Narset, Parter of Veils
-7 Island
 2 Omen of the Sea
 3 Omen of the Sea
 4 Omen of the Sea
+1 Thing in the Ice
+2 Thing in the Ice
+3 Thing in the Ice
+1 Sulfur Falls
+1 Ral, Izzet Viceroy
+2 Mana Leak
 1 Fiery Islet
 1 Flooded Strand
+1 Narset, Parter of Veils
+7 Island
 3 Mystic Sanctuary
 4 Steam Vents
 1 Prismatic Vista
@@ -83,8 +83,8 @@
 1 Niv-Mizzet, Parun
 2 Disrupting Shoal
 2 Snow-Covered Island
-2 Spikefield Hazard
 2 Sulfur Falls
+2 Spikefield Hazard
 2 Niv-Mizzet, Parun
 3 Disrupting Shoal
 3 Niv-Mizzet, Parun

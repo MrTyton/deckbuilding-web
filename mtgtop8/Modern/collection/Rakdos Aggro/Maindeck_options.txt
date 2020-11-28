@@ -5,8 +5,8 @@
 1 Seal of Fire
 1 Monastery Swiftspear
 1 Sunbaked Canyon
-2 Seal of Fire
 2 Sunbaked Canyon
+2 Seal of Fire
 2 Mishra's Bauble
 2 Soul-Scar Mage
 2 Monastery Swiftspear
@@ -39,10 +39,10 @@
 1 Agadeem's Awakening
 2 Snow-Covered Mountain
 2 Snow-Covered Swamp
-1 Crash Through
 1 Scalding Tarn
-2 Crash Through
+1 Crash Through
 2 Scalding Tarn
+2 Crash Through
 3 Seal of Fire
 1 Lavaclaw Reaches
 3 Marsh Flats
@@ -52,9 +52,6 @@
 2 Wooded Foothills
 3 Abbot of Keral Keep
 4 Abbot of Keral Keep
-1 Arid Mesa
-3 Lava Dart
-4 Cling to Dust
 1 Duress
 1 Dreadhorde Arcanist
 1 Angrath's Rampage
@@ -68,7 +65,10 @@
 3 Dreadhorde Arcanist
 3 Young Pyromancer
 3 Ransack the Lab
+4 Mountain
 4 Young Pyromancer
 4 Unearth
 5 Mountain
-4 Mountain
+1 Arid Mesa
+3 Lava Dart
+4 Cling to Dust

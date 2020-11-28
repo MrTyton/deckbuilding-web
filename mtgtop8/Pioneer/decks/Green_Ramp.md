@@ -35,8 +35,8 @@
 
 |*n*<sup>th</sup> copy|                                             Maindeck Card                                             |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|-------------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|[Cultivate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442154)                   |                    1|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)      |
-|                    1|[Geier Reach Sanitarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414510)      |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)     |
+|                    1|[Geier Reach Sanitarium](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414510)      |                    1|[Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)      |
+|                    1|[Cultivate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442154)                   |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)     |
 |                    1|[Elvish Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389499)               |                    1|[Golos, Tireless Pilgrim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466980)|
 |                    2|[Ulamog, the Ceaseless Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402079)|                    3|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519)      |
 |                    2|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)                  |                    3|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)     |
@@ -49,6 +49,6 @@
 |                    4|[Elvish Rejuvenator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447316)          |                     |                                                                                                  |
 |                    4|[World Breaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407636)               |                     |                                                                                                  |
 |                    4|[Cavalier of Thorns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466921)          |                     |                                                                                                  |
-|                    9|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                      |                     |                                                                                                  |
 |                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                      |                     |                                                                                                  |
+|                    9|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                      |                     |                                                                                                  |
 

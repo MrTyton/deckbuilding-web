@@ -1,46 +1,51 @@
-1 Force of Negation
+4 Scalding Tarn
 2 Force of Negation
 4 Opt
-4 Stomping Ground
-1 Snow-Covered Forest
 3 Wrenn and Six
+1 Snow-Covered Forest
 2 Snow-Covered Island
+4 Stomping Ground
 1 Snow-Covered Mountain
-1 Wilt
 1 Censor
+1 Polluted Delta
 1 Flame Slash
 3 Snow-Covered Island
 3 Island
 2 Snow-Covered Forest
-1 Polluted Delta
 1 Search for Tomorrow
 2 Search for Tomorrow
 3 Search for Tomorrow
 4 Search for Tomorrow
-1 Mountain
-2 Censor
-1 Sakura-Tribe Elder
-2 Sakura-Tribe Elder
-3 Sakura-Tribe Elder
-4 Sakura-Tribe Elder
 1 Bring to Light
 2 Bring to Light
 3 Bring to Light
 4 Bring to Light
 1 Watery Grave
+1 Mountain
+2 Censor
+1 Wilt
 1 Damnation
+1 Sakura-Tribe Elder
+2 Sakura-Tribe Elder
+3 Sakura-Tribe Elder
+4 Sakura-Tribe Elder
 1 Fatal Push
 2 Fatal Push
-2 Wilt
-1 Sweltering Suns
 3 Fatal Push
+2 Polluted Delta
+1 Swamp
+1 Sweltering Suns
+1 Spell Snare
 1 Archmage's Charm
+3 Polluted Delta
+4 Polluted Delta
 1 Wooded Foothills
 2 Wooded Foothills
-2 Polluted Delta
 1 Overgrown Tomb
-1 Swamp
 1 Zagoth Triome
+2 Wilt
+1 Blood Crypt
+4 Fatal Push
 3 Wooded Foothills
 1 Temple Garden
 1 Arid Mesa
@@ -67,6 +72,7 @@
 2 Windswept Heath
 2 Atarka's Command
 2 Steppe Lynx
+3 Windswept Heath
 3 Akoum Hellhound
 3 Brushfire Elemental
 3 Elvish Reclaimer
@@ -75,23 +81,21 @@
 3 Mishra's Bauble
 3 Steppe Lynx
 3 Flagstones of Trokair
-3 Windswept Heath
+4 Windswept Heath
 4 Elvish Reclaimer
-4 Brushfire Elemental
 4 Wooded Foothills
+4 Brushfire Elemental
 4 Akoum Hellhound
 4 Mishra's Bauble
 4 Flagstones of Trokair
-4 Windswept Heath
 4 Atarka's Command
 4 Steppe Lynx
+1 Snow-Covered Swamp
 3 Censor
 1 Prismatic Vista
 2 Prismatic Vista
-1 Snow-Covered Swamp
 1 Mana Leak
 2 Flame Slash
-1 Spell Snare
 2 Archmage's Charm
 1 Flooded Strand
 1 Teferi, Time Raveler
@@ -102,8 +106,6 @@
 3 Path to Exile
 1 Snapcaster Mage
 2 Snapcaster Mage
-3 Polluted Delta
-4 Polluted Delta
 1 Assassin's Trophy
 1 Abrupt Decay
 2 Forest
@@ -144,8 +146,8 @@
 1 Cinder Glade
 3 Snow-Covered Forest
 1 Ice-Fang Coatl
-1 Search for Azcanta
 1 Abundant Growth
+1 Search for Azcanta
 1 Arboreal Grazer
 2 Ice-Fang Coatl
 2 Abundant Growth
@@ -190,14 +192,6 @@
 1 Surgical Extraction
 2 Surgical Extraction
 3 Surgical Extraction
-1 Explore
-1 Jwari Disruption
-1 Peer Through Depths
-2 Explore
-2 Jwari Disruption
-2 Peer Through Depths
-3 Jwari Disruption
-4 Jwari Disruption
 1 Verdant Catacombs
 1 Maddening Cacophony
 2 Swamp
@@ -211,9 +205,15 @@
 3 Prismatic Vista
 3 Botanical Sanctum
 4 Botanical Sanctum
-1 Blood Crypt
-4 Fatal Push
 4 Censor
 1 Brazen Borrower
 2 Brazen Borrower
 4 Wrenn and Six
+1 Explore
+1 Jwari Disruption
+1 Peer Through Depths
+2 Explore
+2 Jwari Disruption
+2 Peer Through Depths
+3 Jwari Disruption
+4 Jwari Disruption

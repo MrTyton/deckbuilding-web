@@ -33,14 +33,6 @@
 1 Languish
 1 Cling to Dust
 2 Negate
-1 Collective Brutality
-1 Thought Distortion
-1 Self-Inflicted Wound
-1 Disdainful Stroke
-1 Soul Shatter
-1 Tormod's Crypt
-2 Noxious Grasp
-2 Tormod's Crypt
 2 Brazen Borrower
 1 Fatal Push
 1 Search for Azcanta
@@ -50,18 +42,26 @@
 2 Whirlwind Denial
 2 Erebos's Intervention
 2 Legion's End
+1 Collective Brutality
+1 Self-Inflicted Wound
+1 Disdainful Stroke
+1 Soul Shatter
+1 Thought Distortion
+1 Tormod's Crypt
+2 Noxious Grasp
+2 Tormod's Crypt
 1 Quarantine Field
 2 Quarantine Field
 1 Containment Priest
 1 Settle the Wreckage
 2 Containment Priest
 2 Settle the Wreckage
-1 Supreme Verdict
-1 Elspeth Conquers Death
-1 Devout Decree
-1 Apostle of Purifying Light
-2 Apostle of Purifying Light
-3 Apostle of Purifying Light
+1 Detention Sphere
+1 Void Winnower
+1 Resolute Archangel
+3 Dovin's Veto
+3 Rest in Peace
+4 Dovin's Veto
 1 Thoughtseize
 1 Crypt Incursion
 1 Vantress Gargoyle
@@ -102,18 +102,18 @@
 3 Thought-Knot Seer
 3 Shifting Ceratops
 4 Thought-Knot Seer
-1 Detention Sphere
-1 Void Winnower
-1 Resolute Archangel
-3 Dovin's Veto
-3 Rest in Peace
-1 Spell Queller
-1 Storm's Wrath
+1 Supreme Verdict
+1 Elspeth Conquers Death
+1 Devout Decree
+1 Apostle of Purifying Light
+2 Apostle of Purifying Light
 1 Radiant Flames
-2 Spell Queller
+1 Storm's Wrath
+1 Spell Queller
 2 Radiant Flames
 2 Storm's Wrath
+2 Spell Queller
 3 Radiant Flames
 3 Spell Queller
 4 Radiant Flames
-4 Dovin's Veto
+3 Apostle of Purifying Light
