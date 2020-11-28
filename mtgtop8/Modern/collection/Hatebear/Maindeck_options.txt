@@ -1,13 +1,6 @@
-1 Hallowed Fountain
-2 Seachrome Coast
-2 Spell Queller
-2 Hallowed Fountain
-3 Seachrome Coast
-3 Hallowed Fountain
 3 Spell Queller
 4 Seachrome Coast
 4 Hallowed Fountain
-2 Shefet Dunes
 1 Glasspool Mimic
 1 Adarkar Wastes
 2 Glasspool Mimic
@@ -17,6 +10,13 @@
 4 Glasspool Mimic
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
+7 Plains
+8 Plains
+1 Horizon Canopy
+3 Teferi, Time Raveler
+1 Archon of Emeria
+2 Archon of Emeria
+1 Shefet Dunes
 4 Spell Queller
 9 Plains
 1 Eiganjo Castle
@@ -26,13 +26,15 @@
 2 Confounding Conundrum
 3 Confounding Conundrum
 4 Confounding Conundrum
-3 Teferi, Time Raveler
+2 Shefet Dunes
+1 Charming Prince
 10 Plains
 2 Horizon Canopy
+1 Sunbaked Canyon
+2 Charming Prince
+1 Lurrus of the Dream-Den
 3 Silent Clearing
 4 Silent Clearing
-1 Sunbaked Canyon
-1 Charming Prince
 1 Eldrazi Temple
 1 Thought-Knot Seer
 1 Eldrazi Displacer
@@ -45,10 +47,13 @@
 4 Thought-Knot Seer
 4 Eldrazi Displacer
 4 Eldrazi Temple
-2 Charming Prince
 1 Sword of Feast and Famine
-1 Scavenger Grounds
-1 Lurrus of the Dream-Den
+1 Watcher for Tomorrow
+1 Cavern of Souls
+2 Watcher for Tomorrow
+2 Cavern of Souls
+3 Watcher for Tomorrow
+4 Watcher for Tomorrow
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
@@ -69,17 +74,12 @@
 4 Reality Smasher
 2 Sunbaked Canyon
 3 Sunbaked Canyon
+1 Scavenger Grounds
 3 Horizon Canopy
 4 Horizon Canopy
 1 Deputy of Detention
 2 Deputy of Detention
 2 Lurrus of the Dream-Den
-1 Watcher for Tomorrow
-1 Cavern of Souls
-2 Watcher for Tomorrow
-2 Cavern of Souls
-3 Watcher for Tomorrow
-4 Watcher for Tomorrow
 1 Flagstones of Trokair
 3 Skyclave Cleric
 4 Skyclave Cleric
@@ -110,7 +110,6 @@
 3 Shefet Dunes
 4 Shefet Dunes
 12 Plains
-1 Restoration Angel
 1 Linvala, Keeper of Silence
 1 Spellskite
 1 Unsettled Mariner
@@ -141,8 +140,8 @@
 3 Battlefield Forge
 3 Containment Priest
 3 Chalice of the Void
-3 Gemstone Caverns
 3 Simian Spirit Guide
+3 Gemstone Caverns
 4 Battlefield Forge
 4 Containment Priest
 4 Sunbaked Canyon

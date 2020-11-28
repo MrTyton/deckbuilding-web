@@ -7,8 +7,8 @@
 2 Sleight of Hand
 3 Sleight of Hand
 1 Hallowed Fountain
-1 Lightning Helix
 1 Sacred Foundry
+1 Lightning Helix
 1 Path to Exile
 2 Lightning Helix
 2 Path to Exile
@@ -17,10 +17,10 @@
 1 Thieves' Guild Enforcer
 2 Drown in the Loch
 2 Thieves' Guild Enforcer
+3 Inquisition of Kozilek
 3 Watery Grave
 3 Drown in the Loch
 3 Thieves' Guild Enforcer
-3 Inquisition of Kozilek
 4 Drown in the Loch
 4 Thieves' Guild Enforcer
 1 Seachrome Coast
@@ -189,6 +189,13 @@
 3 Visions of Beyond
 4 Visions of Beyond
 4 Archmage's Charm
+1 Creeping Tar Pit
+1 Soaring Thought-Thief
+2 Spell Pierce
+2 Soaring Thought-Thief
+3 Soaring Thought-Thief
+4 Watery Grave
+4 Soaring Thought-Thief
 4 Hooting Mandrills
 1 Ancestral Vision
 1 Dreadhorde Arcanist
@@ -199,13 +206,6 @@
 3 Dreadhorde Arcanist
 4 Ancestral Vision
 4 Dreadhorde Arcanist
-1 Creeping Tar Pit
-1 Soaring Thought-Thief
-2 Spell Pierce
-2 Soaring Thought-Thief
-3 Soaring Thought-Thief
-4 Soaring Thought-Thief
-4 Watery Grave
 1 Magmatic Channeler
 1 Wizard's Retort
 1 Wizard's Lightning
@@ -218,28 +218,28 @@
 3 Wizard's Lightning
 3 Wizard's Retort
 3 Soul-Scar Mage
-4 Magmatic Channeler
 4 Wizard's Lightning
 4 Wizard's Retort
+4 Magmatic Channeler
 4 Soul-Scar Mage
 1 Cryptic Command
 1 Castle Vantress
-1 Silundi Vision
+1 Deliberate
 1 Oboro, Palace in the Clouds
 1 Mutavault
-1 Deliberate
+1 Silundi Vision
 1 Psionic Blast
 1 Spellstutter Sprite
 2 Cryptic Command
-2 Deliberate
 2 Spell Snare
 2 Mutavault
 2 Vendilion Clique
 2 Psionic Blast
+2 Deliberate
 2 Spellstutter Sprite
 3 Cryptic Command
-3 Deliberate
 3 Spellstutter Sprite
+3 Deliberate
 4 Cryptic Command
 6 Island
 7 Island

@@ -46,8 +46,8 @@
 4 Glass Casket
 1 Tangled Florahedron
 2 Tangled Florahedron
-3 Elspeth's Nightmare
 3 Temple of Silence
+3 Elspeth's Nightmare
 5 Forest
 6 Forest
 1 Mazemind Tome
@@ -81,8 +81,8 @@
 1 Harmonious Archon
 1 Raugrin Triome
 2 Omen of the Sun
-2 Needleverge Pathway
 2 Castle Ardenvale
+2 Needleverge Pathway
 2 Transmogrify
 2 Mountain
 2 Shatterskull Smashing
@@ -119,23 +119,23 @@
 6 Island
 1 Sea Gate Stormcaller
 1 Hagra Mauling
-1 Vantress Gargoyle
 1 Ruin Crab
-1 Heartless Act
+1 Vantress Gargoyle
 1 Into the Story
+1 Heartless Act
 1 Teferi's Tutelage
 1 Thieves' Guild Enforcer
 1 Drown in the Loch
 1 Bloodchief's Thirst
 1 Temple of Deceit
 1 Maddening Cacophony
-2 Vantress Gargoyle
-2 Ruin Crab
 2 Jwari Disruption
+2 Ruin Crab
 2 Sea Gate Stormcaller
+2 Vantress Gargoyle
+2 Teferi's Tutelage
 2 Bloodchief's Thirst
 2 Into the Story
-2 Teferi's Tutelage
 2 Temple of Deceit
 2 Maddening Cacophony
 2 Drown in the Loch
@@ -152,45 +152,45 @@
 3 Into the Story
 4 Maddening Cacophony
 4 Ruin Crab
+4 Teferi's Tutelage
 4 Vantress Gargoyle
 4 Clearwater Pathway
-4 Teferi's Tutelage
 4 Temple of Deceit
 4 Thieves' Guild Enforcer
 4 Drown in the Loch
 1 Wolfwillow Haven
-1 Mythos of Nethroi
 1 Bala Ged Recovery
+1 Mythos of Nethroi
 1 Cultivate
 1 Garruk, Cursed Huntsman
 1 Felidar Retreat
 1 Shadows' Verdict
 1 Erebos's Intervention
 2 Wolfwillow Haven
+2 Bala Ged Recovery
 2 Mythos of Nethroi
 2 Garruk, Cursed Huntsman
-2 Bala Ged Recovery
 2 Cultivate
 2 Erebos's Intervention
 3 Bala Ged Recovery
 3 Mythos of Nethroi
 3 Garruk, Cursed Huntsman
-3 Wolfwillow Haven
 3 Cultivate
 3 Emeria's Call
 3 Erebos's Intervention
+3 Wolfwillow Haven
 4 Emeria's Call
-4 Wolfwillow Haven
 4 Erebos's Intervention
+4 Wolfwillow Haven
 4 Garruk, Cursed Huntsman
 1 Rewind
 1 Rain of Revelation
-1 Silundi Vision
 1 Lofty Denial
-1 Gadwick, the Wizened
+1 Silundi Vision
 1 Sublime Epiphany
 1 Neutralize
 1 Brazen Borrower
+1 Gadwick, the Wizened
 1 Essence Scatter
 1 Kiora Bests the Sea God
 1 Mystic Sanctuary
@@ -212,9 +212,9 @@
 2 Into the Roil
 3 Neutralize
 3 Brazen Borrower
-3 Rewind
 3 Shark Typhoon
 3 Castle Vantress
+3 Rewind
 4 Neutralize
 4 Brazen Borrower
 4 Shark Typhoon
@@ -235,25 +235,25 @@
 1 Crawling Barrens
 1 Unknown Shores
 1 Radiant Fountain
-1 Forsaken Monument
-1 Labyrinth of Skophos
 1 Sleeper Dart
+1 Forsaken Monument
 1 Swift Response
+1 Labyrinth of Skophos
 1 Dance of the Manse
 2 Crawling Barrens
 2 Unknown Shores
 2 Labyrinth of Skophos
-2 Dance of the Manse
-2 Radiant Fountain
 2 Sleeper Dart
+2 Radiant Fountain
 2 Forsaken Monument
+2 Dance of the Manse
 2 Swift Response
 3 Solemn Simulacrum
+3 Crawling Barrens
+3 Sleeper Dart
 3 Unknown Shores
 3 Radiant Fountain
 3 Forsaken Monument
-3 Sleeper Dart
-3 Crawling Barrens
 4 Solemn Simulacrum
 4 Sleeper Dart
 4 Crawling Barrens

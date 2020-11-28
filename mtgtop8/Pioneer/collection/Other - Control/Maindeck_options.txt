@@ -71,8 +71,8 @@
 2 Steam Vents
 1 Castle Ardenvale
 2 Plains
-1 Omen of the Sun
 1 Omen of the Sea
+1 Omen of the Sun
 1 Glacial Fortress
 1 Supreme Verdict
 1 Chained to the Rocks
@@ -101,8 +101,8 @@
 1 Day's Undoing
 1 Kalitas, Traitor of Ghet
 2 Heartless Act
-1 Castle Locthwain
 1 Hero's Downfall
+1 Castle Locthwain
 1 Censor
 2 Censor
 1 Negate
@@ -169,21 +169,21 @@
 1 Merfolk Secretkeeper
 1 Clearwater Pathway
 1 Drown in the Loch
+1 Sea Gate Stormcaller
 1 Jwari Disruption
 1 Didn't Say Please
 1 Ipnu Rivulet
 1 Maddening Cacophony
 1 Ruin Crab
 1 Drowned Secrets
-1 Sea Gate Stormcaller
 1 Fraying Sanity
 1 Crypt Incursion
 1 Breaking / Entering
 2 Merfolk Secretkeeper
-2 Didn't Say Please
-2 Jwari Disruption
 2 Clearwater Pathway
+2 Didn't Say Please
 2 Drown in the Loch
+2 Jwari Disruption
 2 Maddening Cacophony
 2 Crypt Incursion
 2 Ruin Crab
@@ -225,8 +225,8 @@
 1 Languish
 2 Scarab Feast
 2 Languish
-2 Kalitas, Traitor of Ghet
 2 Day's Undoing
+2 Kalitas, Traitor of Ghet
 1 Terror of the Peaks
 2 Terror of the Peaks
 1 Voice of Resurgence
@@ -236,15 +236,15 @@
 1 Hieroglyphic Illumination
 1 Void Shatter
 1 Torrential Gearhulk
-1 Erebos's Intervention
+1 Ritual of Soot
 1 Vraska's Contempt
 1 Unwind
-1 Ritual of Soot
 1 Glimmer of Genius
 1 Sinister Sabotage
-2 Castle Locthwain
+1 Erebos's Intervention
 2 Void Shatter
 2 Torrential Gearhulk
+2 Castle Locthwain
 2 Castle Vantress
 2 Negate
 2 Ritual of Soot
@@ -277,10 +277,10 @@
 3 Nissa, Who Shakes the World
 3 Oath of Nissa
 4 Oath of Nissa
-1 Kolaghan's Command
 1 Collective Brutality
 1 Dragonskull Summit
 1 Liliana, Waker of the Dead
+1 Kolaghan's Command
 1 Davriel, Rogue Shadowmage
 1 Thought Erasure
 1 Blood Crypt
@@ -295,15 +295,15 @@
 2 Kolaghan's Command
 2 Davriel, Rogue Shadowmage
 2 Dragonskull Summit
-3 Liliana, Waker of the Dead
 3 Kroxa, Titan of Death's Hunger
 3 Davriel, Rogue Shadowmage
+3 Liliana, Waker of the Dead
 3 Nicol Bolas, the Ravager
 3 Thought Erasure
 4 Thought Erasure
-4 Kroxa, Titan of Death's Hunger
-4 Fatal Push
 4 Nicol Bolas, the Ravager
+4 Fatal Push
+4 Kroxa, Titan of Death's Hunger
 4 Liliana, Waker of the Dead
 4 Davriel, Rogue Shadowmage
 1 Banishing Light
@@ -385,8 +385,8 @@
 4 Botanical Sanctum
 4 Shrine of the Forsaken Gods
 4 Voracious Hydra
-1 Jace, Vryn's Prodigy
 1 God-Eternal Kefnet
+1 Jace, Vryn's Prodigy
 1 Brazen Borrower
 1 Legion's End
 1 Choked Estuary

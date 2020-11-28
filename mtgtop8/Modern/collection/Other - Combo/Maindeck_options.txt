@@ -1,9 +1,9 @@
-1 Thoughtseize
-2 Thoughtseize
+2 Leyline of Sanctity
+3 Leyline of Sanctity
 1 Pelakka Predation
 2 Pelakka Predation
-2 Shatterskull Smashing
 1 Pact of Negation
+2 Shatterskull Smashing
 3 Thoughtseize
 1 Goblin Charbelcher
 2 Goblin Charbelcher
@@ -29,9 +29,9 @@
 3 Shatterskull Smashing
 3 Spikefield Hazard
 3 Manamorphose
+3 Recross the Paths
 3 Valakut Awakening
 3 Desperate Ritual
-3 Recross the Paths
 3 Irencrag Feat
 3 Bala Ged Recovery
 3 Pyretic Ritual
@@ -68,6 +68,7 @@
 1 Remand
 1 Watery Grave
 1 Fatal Push
+1 Cling to Dust
 1 Inquisition of Kozilek
 1 Inverter of Truth
 1 Polluted Delta
@@ -86,38 +87,14 @@
 3 Inverter of Truth
 4 Remand
 4 Fatal Push
+4 River of Tears
 4 Inverter of Truth
 1 Force of Negation
 2 Force of Negation
-1 Island
-2 Island
-3 Island
-1 Snapcaster Mage
-1 Shelldock Isle
-1 Tasigur, the Golden Fang
-1 Vendilion Clique
-1 Scalding Tarn
-1 Swamp
-1 Cryptic Command
-1 Sunken Ruins
-2 Shelldock Isle
-2 Snapcaster Mage
-2 Scalding Tarn
-3 Polluted Delta
-3 Shelldock Isle
-3 Snapcaster Mage
-4 Polluted Delta
-4 Jace, Wielder of Mysteries
-4 Shelldock Isle
-1 Relic of Progenitus
-3 Watery Grave
-4 Watery Grave
-1 Cling to Dust
-4 River of Tears
 1 Talisman of Progress
 1 Skyclave Cleric
-1 Teferi, Hero of Dominaria
 1 Silundi Vision
+1 Teferi, Hero of Dominaria
 1 Jwari Disruption
 1 Teferi, Time Raveler
 1 Beyeen Veil
@@ -152,11 +129,11 @@
 4 Selective Memory
 4 Disrupting Shoal
 4 Silundi Vision
-1 Mountain
+1 Island
 1 Karn, the Great Creator
-1 Stomping Ground
 1 Waterlogged Grove
 1 Forest
+1 Wooded Foothills
 1 Aether Hub
 1 Through the Breach
 1 Emrakul, the Aeons Torn
@@ -166,19 +143,20 @@
 1 Lightning Bolt
 1 Uro, Titan of Nature's Wrath
 1 Steam Vents
-1 Wooded Foothills
+1 Mountain
 1 Woodweaver's Puzzleknot
 1 Misty Rainforest
 1 Aetherworks Marvel
+1 Stomping Ground
 1 Harnessed Lightning
 1 Whirler Virtuoso
 1 Rogue Refiner
 2 Karn, the Great Creator
 2 Forest
+2 Wooded Foothills
 2 Aether Hub
 2 Emrakul, the Aeons Torn
 2 Through the Breach
-2 Wooded Foothills
 2 Misty Rainforest
 2 Whirler Virtuoso
 2 Rogue Refiner
@@ -213,17 +191,41 @@
 4 Attune with Aether
 4 Aether Hub
 1 Sphere of the Suns
-1 Castle Vantress
-1 Creeping Tar Pit
 1 Memory's Journey
 1 Worldspine Wurm
-2 Swamp
+2 Island
+3 Island
+1 Snapcaster Mage
+1 Shelldock Isle
+1 Creeping Tar Pit
+1 Tasigur, the Golden Fang
+1 Castle Vantress
+1 Vendilion Clique
+1 Scalding Tarn
+1 Swamp
+1 Cryptic Command
+1 Sunken Ruins
+2 Shelldock Isle
+2 Snapcaster Mage
+2 Scalding Tarn
+3 Polluted Delta
+3 Shelldock Isle
+3 Snapcaster Mage
+4 Polluted Delta
+4 Jace, Wielder of Mysteries
+4 Shelldock Isle
+1 Chalice of the Void
+2 Chalice of the Void
+3 Chalice of the Void
+4 Chalice of the Void
+4 Blood Moon
 1 Omen of the Sea
 1 Eldrazi Temple
 1 Drowned Catacomb
 1 Snow-Covered Swamp
 1 Cavern of Souls
 1 Darkslick Shores
+1 Relic of Progenitus
 1 Snow-Covered Island
 2 Omen of the Sea
 2 Eldrazi Temple
@@ -236,14 +238,11 @@
 3 Darkslick Shores
 3 Relic of Progenitus
 3 Thassa's Oracle
+3 Watery Grave
 4 Omen of the Sea
 4 Darkslick Shores
 4 Thassa's Oracle
-1 Chalice of the Void
-2 Chalice of the Void
-3 Chalice of the Void
-4 Chalice of the Void
-4 Blood Moon
+4 Watery Grave
 1 Shivan Reef
 1 Peer Through Depths
 1 Ideas Unbound

@@ -61,7 +61,7 @@
 |                     |                                                                                              |                    1|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)               |
 |                     |                                                                                              |                    2|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)      |
 |                     |                                                                                              |                    2|[Lava Coil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452858)               |
-|                     |                                                                                              |                    3|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)              |
 |                     |                                                                                              |                    3|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)      |
 |                     |                                                                                              |                    4|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)      |
+|                     |                                                                                              |                    3|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)              |
 
