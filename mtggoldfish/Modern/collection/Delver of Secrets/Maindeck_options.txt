@@ -189,13 +189,6 @@
 3 Visions of Beyond
 4 Visions of Beyond
 4 Archmage's Charm
-1 Creeping Tar Pit
-1 Soaring Thought-Thief
-2 Spell Pierce
-2 Soaring Thought-Thief
-3 Soaring Thought-Thief
-4 Watery Grave
-4 Soaring Thought-Thief
 4 Hooting Mandrills
 1 Ancestral Vision
 1 Dreadhorde Arcanist
@@ -206,6 +199,13 @@
 3 Dreadhorde Arcanist
 4 Ancestral Vision
 4 Dreadhorde Arcanist
+1 Creeping Tar Pit
+1 Soaring Thought-Thief
+2 Spell Pierce
+2 Soaring Thought-Thief
+3 Soaring Thought-Thief
+4 Soaring Thought-Thief
+4 Watery Grave
 1 Magmatic Channeler
 1 Wizard's Retort
 1 Wizard's Lightning
@@ -223,11 +223,11 @@
 4 Magmatic Channeler
 4 Soul-Scar Mage
 1 Cryptic Command
+1 Silundi Vision
 1 Castle Vantress
-1 Deliberate
 1 Oboro, Palace in the Clouds
 1 Mutavault
-1 Silundi Vision
+1 Deliberate
 1 Psionic Blast
 1 Spellstutter Sprite
 2 Cryptic Command
@@ -247,8 +247,8 @@
 9 Island
 10 Island
 11 Island
+12 Island
 13 Island
 14 Island
 15 Island
 16 Island
-12 Island

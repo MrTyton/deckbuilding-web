@@ -3,20 +3,20 @@
 1 Goblin Charbelcher
 1 Leyline of Sanctity
 2 Leyline of Sanctity
-1 Echoing Truth
 1 Surgical Extraction
+1 Echoing Truth
 2 Surgical Extraction
 3 Surgical Extraction
 3 Leyline of Sanctity
 1 Pack Rat
 2 Pack Rat
 3 Pack Rat
-4 Surgical Extraction
 4 Pack Rat
+4 Surgical Extraction
 1 Chain of Vapor
 2 Chain of Vapor
-1 Lightning Bolt
 1 Cave-In
+1 Lightning Bolt
 2 Goblin Charbelcher
 1 Carpet of Flowers
 2 Carpet of Flowers
@@ -32,8 +32,8 @@
 4 Goblin Charbelcher
 1 Pact of Negation
 1 Doomsday
-1 Edge of Autumn
 1 Street Wraith
+1 Edge of Autumn
 1 Ideas Unbound
 1 Nexus of Fate
 2 Doomsday
@@ -56,13 +56,12 @@
 1 Massacre
 1 Hull Breach
 2 Toxic Deluge
-1 Thoughtseize
-1 Fatal Push
-2 Fatal Push
-2 Echoing Truth
 1 Wishclaw Talisman
 2 Wishclaw Talisman
 3 Wishclaw Talisman
+1 Duress
+2 Duress
+3 Duress
 1 Force of Vigor
 2 Force of Vigor
 3 Force of Vigor
@@ -74,6 +73,7 @@
 3 Grim Monolith
 3 Serum Powder
 4 Grim Monolith
-1 Duress
-2 Duress
-3 Duress
+1 Thoughtseize
+1 Fatal Push
+2 Fatal Push
+2 Echoing Truth

@@ -3,12 +3,11 @@
 4 Island
 6 Forest
 1 Gilded Goose
+1 Zagoth Triome
 1 Crawling Barrens
 1 Lotus Cobra
 1 Sea-Dasher Octopus
-1 Zagoth Triome
 1 Castle Vantress
-1 Migratory Greathorn
 1 Gemrazer
 1 Ugin, the Spirit Dragon
 1 Pollywog Symbiote
@@ -18,6 +17,7 @@
 1 Brokkos, Apex of Forever
 1 Castle Garenbrig
 1 Pouncing Shoreshark
+1 Migratory Greathorn
 1 Auspicious Starrix
 1 Boneyard Lurker
 2 Gilded Goose
@@ -25,8 +25,8 @@
 2 Ugin, the Spirit Dragon
 2 Vivien, Monsters' Advocate
 2 Sea-Dasher Octopus
-2 Migratory Greathorn
 2 Gemrazer
+2 Migratory Greathorn
 2 Auspicious Starrix
 2 Pollywog Symbiote
 2 Pouncing Shoreshark
@@ -34,35 +34,35 @@
 3 Gilded Goose
 3 Lotus Cobra
 3 Sea-Dasher Octopus
-3 Migratory Greathorn
 3 Gemrazer
 3 Auspicious Starrix
 3 Pouncing Shoreshark
+3 Migratory Greathorn
 4 Migratory Greathorn
 4 Auspicious Starrix
 7 Forest
 8 Forest
 1 Teferi, Master of Time
-1 Swiftwater Cliffs
+1 Roost of Drakes
 1 Cragplate Baloth
 1 Jace, Mirror Mage
 1 The Royal Scions
-1 Roost of Drakes
 1 Bubble Snare
 1 Cinderclasm
 1 Roil Eruption
 1 Negate
 1 Gnarlid Colony
+1 Swiftwater Cliffs
 1 Vine Gecko
 1 Reclaim the Wastes
 1 Thornwood Falls
 1 Lullmage's Familiar
 1 Murasa Sproutling
-2 Swiftwater Cliffs
 2 Roost of Drakes
 2 Bubble Snare
-2 Roil Eruption
 2 Negate
+2 Roil Eruption
+2 Swiftwater Cliffs
 2 Gnarlid Colony
 2 Vine Gecko
 2 Lullmage's Familiar
@@ -71,9 +71,9 @@
 3 Swiftwater Cliffs
 3 Roost of Drakes
 3 Negate
-3 Into the Roil
-3 Roil Eruption
 3 Bubble Snare
+3 Roil Eruption
+3 Into the Roil
 3 Vine Gecko
 3 Lullmage's Familiar
 3 Thornwood Falls
@@ -111,9 +111,9 @@
 3 Riverglide Pathway
 3 Genesis Ultimatum
 3 Beanstalk Giant
+4 Fabled Passage
 4 Terror of the Peaks
 4 Cragcrown Pathway
-4 Fabled Passage
 4 Riverglide Pathway
 4 Beanstalk Giant
 4 Lovestruck Beast

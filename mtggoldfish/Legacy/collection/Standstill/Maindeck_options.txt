@@ -1,6 +1,6 @@
 2 Moat
-2 Narset, Parter of Veils
 1 Dovin's Veto
+2 Prismatic Vista
 2 Dovin's Veto
 1 Spell Pierce
 1 Supreme Verdict
@@ -8,22 +8,21 @@
 2 Counterspell
 1 Silundi Vision
 2 Silundi Vision
-1 Council's Judgment
 1 Island
 1 Wasteland
-2 Wasteland
 1 Plains
 2 Island
 2 Plains
+1 Council's Judgment
+3 Prismatic Vista
+2 Wasteland
 3 Island
+3 Snapcaster Mage
 1 Myth Realized
 2 Myth Realized
-3 Prismatic Vista
+2 Supreme Verdict
 4 Island
 5 Island
-1 Crucible of Worlds
-3 Snapcaster Mage
-2 Supreme Verdict
 1 Cast Out
 1 Replenish
 2 Replenish
@@ -35,7 +34,7 @@
 3 Replenish
 4 Lay Claim
 4 Cast Out
-2 Council's Judgment
+1 Crucible of Worlds
 2 Spell Pierce
 1 Stoneforge Mystic
 1 Batterskull
@@ -44,6 +43,7 @@
 4 Prismatic Vista
 4 Replenish
 3 Teferi, Time Raveler
+2 Council's Judgment
 1 Sword of Feast and Famine
 1 Polluted Delta
 2 Polluted Delta
@@ -51,11 +51,19 @@
 1 Vendilion Clique
 1 Snow-Covered Forest
 1 Tropical Island
-1 Oko, Thief of Crowns
 1 Misty Rainforest
+1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
 2 Misty Rainforest
-6 Island
+1 Counterbalance
+2 Counterbalance
+1 Mountain
+1 Mishra's Factory
+1 Pyroblast
+1 Magmatic Sinkhole
+2 Mishra's Factory
+2 Pyroblast
+2 Magmatic Sinkhole
 3 Misty Rainforest
 4 Misty Rainforest
 3 Wasteland
@@ -70,144 +78,118 @@
 3 Moat
 4 Ice-Fang Coatl
 1 The Tabernacle at Pendrell Vale
-1 Tranquil Thicket
-1 Field of the Dead
-1 Mox Diamond
-1 Life from the Loam
 1 Forest
+1 Field of the Dead
+1 Tranquil Thicket
+1 Life from the Loam
 1 Verdant Catacombs
 1 Blast Zone
+1 Mox Diamond
 2 Mox Diamond
 2 Life from the Loam
 3 Oko, Thief of Crowns
 3 Mox Diamond
 3 Life from the Loam
-4 Wasteland
 4 Mox Diamond
+4 Wasteland
 1 Uro, Titan of Nature's Wrath
-1 Elvish Reclaimer
-1 Bojuka Bog
 1 Maze of Ith
 1 Dark Depths
 1 Thespian's Stage
+1 Elvish Reclaimer
 1 Crop Rotation
+1 Bojuka Bog
 2 Elvish Reclaimer
 2 Thespian's Stage
 2 Crop Rotation
 2 Tropical Island
 3 Crop Rotation
 4 Crop Rotation
+1 Green Sun's Zenith
 1 Once Upon a Time
-1 Cyclonic Rift
 1 Emrakul, the Aeons Torn
+1 Cyclonic Rift
+1 Pithing Needle
 1 Kiora, Behemoth Beckoner
 1 Cavern of Souls
-1 Pithing Needle
 1 Vesuva
 1 Prophetic Prism
 1 Dryad of the Ilysian Grove
+1 Primeval Titan
 1 Ulamog, the Ceaseless Hunger
 1 Candelabra of Tawnos
-1 Primeval Titan
 1 Ugin, the Spirit Dragon
 1 Golos, Tireless Pilgrim
 1 Glacial Chasm
+1 Thought-Knot Seer
 1 Cascading Cataracts
 1 Cloudpost
-1 Thought-Knot Seer
-1 Green Sun's Zenith
 1 Eye of Ugin
 1 Prophet of Kruphix
 1 Glimmerpost
 1 Ramunap Excavator
-2 Once Upon a Time
+2 Green Sun's Zenith
 2 Snow-Covered Forest
+2 Once Upon a Time
 2 Vesuva
 2 Pithing Needle
 2 Cavern of Souls
 2 Dryad of the Ilysian Grove
 2 Primeval Titan
 2 Thought-Knot Seer
-2 Green Sun's Zenith
 2 Cloudpost
 2 Glimmerpost
-3 Once Upon a Time
 3 Snow-Covered Forest
+3 Green Sun's Zenith
+3 Once Upon a Time
 3 Elvish Reclaimer
 3 Tropical Island
 3 Cavern of Souls
 3 Pithing Needle
 3 Glimmerpost
 3 Cloudpost
-3 Green Sun's Zenith
-4 Snow-Covered Forest
-4 Elvish Reclaimer
 4 Pithing Needle
+4 Green Sun's Zenith
+4 Elvish Reclaimer
+4 Snow-Covered Forest
 4 Cloudpost
 4 Glimmerpost
-4 Green Sun's Zenith
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 1 Lonely Sandbar
 1 Back to Basics
 1 Brazen Borrower
-1 Counterbalance
-2 Counterbalance
-1 Mountain
-1 Mishra's Factory
-1 Pyroblast
-1 Magmatic Sinkhole
+6 Island
+1 Venser, Shaper Savant
 1 Decree of Justice
-2 Mishra's Factory
-2 Pyroblast
-2 Magmatic Sinkhole
 3 Force of Negation
 4 Force of Negation
 3 Tundra
 4 Teferi, Time Raveler
-1 Savannah
 1 Snow-Covered Swamp
 1 Bayou
 1 Underground Sea
 1 Abrupt Decay
+1 Savannah
 1 Chalice of the Void
 1 Assassin's Trophy
 2 Chalice of the Void
 2 Abrupt Decay
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
-3 Chalice of the Void
 3 Abrupt Decay
+3 Chalice of the Void
 4 Uro, Titan of Nature's Wrath
 4 Abrupt Decay
 4 Chalice of the Void
-1 Waterlogged Grove
-1 Riftstone Portal
-1 Rishadan Port
-1 Exploration
-1 Wooded Foothills
-1 Ghost Quarter
-2 Waterlogged Grove
-2 Maze of Ith
-2 Rishadan Port
-2 Dark Depths
-2 Exploration
-3 Thespian's Stage
-3 Rishadan Port
-3 Exploration
-3 Dark Depths
-4 Oko, Thief of Crowns
-4 Life from the Loam
-4 Exploration
-4 Thespian's Stage
 1 Containment Priest
 1 Street Wraith
 1 Secluded Steppe
 1 Gilded Drake
 1 Astral Drift
 1 Astral Slide
-2 Street Wraith
 2 Containment Priest
+2 Street Wraith
 2 Lonely Sandbar
 2 Astral Drift
 2 Secluded Steppe
@@ -228,5 +210,24 @@
 4 Gilded Drake
 4 Astral Drift
 4 Astral Slide
-5 Snow-Covered Plains
 4 Secluded Steppe
+5 Snow-Covered Plains
+1 Waterlogged Grove
+1 Wooded Foothills
+1 Riftstone Portal
+1 Rishadan Port
+1 Exploration
+1 Ghost Quarter
+2 Waterlogged Grove
+2 Maze of Ith
+2 Rishadan Port
+2 Dark Depths
+2 Exploration
+3 Thespian's Stage
+3 Rishadan Port
+3 Exploration
+3 Dark Depths
+4 Oko, Thief of Crowns
+4 Exploration
+4 Thespian's Stage
+4 Life from the Loam
