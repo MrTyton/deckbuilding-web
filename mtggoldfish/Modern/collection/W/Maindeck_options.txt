@@ -4,15 +4,20 @@
 1 Walking Ballista
 1 Heliod, Sun-Crowned
 1 Auriok Champion
-1 Ranger-Captain of Eos
 2 Walking Ballista
 2 Heliod, Sun-Crowned
 2 Auriok Champion
 3 Auriok Champion
+1 Ranger-Captain of Eos
 1 Skyclave Apparition
+2 Skyclave Apparition
+4 Auriok Champion
+3 Walking Ballista
+3 Heliod, Sun-Crowned
+4 Heliod, Sun-Crowned
+4 Walking Ballista
 1 Luminarch Aspirant
 1 Field of Ruin
-2 Skyclave Apparition
 2 Luminarch Aspirant
 2 Ranger-Captain of Eos
 2 Field of Ruin
@@ -20,12 +25,7 @@
 3 Luminarch Aspirant
 3 Ranger-Captain of Eos
 4 Luminarch Aspirant
-4 Auriok Champion
 4 Ranger-Captain of Eos
-3 Walking Ballista
-3 Heliod, Sun-Crowned
-4 Heliod, Sun-Crowned
-4 Walking Ballista
 4 Skyclave Apparition
 1 Ranger of Eos
 1 Aether Vial
@@ -40,10 +40,10 @@
 1 Grand Abolisher
 2 Grand Abolisher
 2 Ranger of Eos
+11 Snow-Covered Plains
 1 Sunbaked Canyon
 1 Horizon Canopy
 1 Hangarback Walker
-11 Snow-Covered Plains
 12 Snow-Covered Plains
 1 Plains
 2 Plains
@@ -81,10 +81,12 @@
 15 Snow-Covered Plains
 1 Kor Outfitter
 2 Kor Outfitter
+1 Nykthos, Shrine to Nyx
+2 Nykthos, Shrine to Nyx
 1 Mountain
 1 Mana Tithe
-1 Sword of Feast and Famine
 1 Sword of Fire and Ice
+1 Sword of Feast and Famine
 1 Gingerbrute
 1 Surestrike Trident
 1 Sacred Cat
@@ -92,10 +94,10 @@
 2 Sacred Cat
 3 Path to Exile
 3 Gingerbrute
-1 Godless Shrine
 1 Apostle's Blessing
-1 Concealed Courtyard
+1 Godless Shrine
 1 Cabal Therapist
+1 Concealed Courtyard
 1 Thoughtseize
 2 Apostle's Blessing
 2 Marsh Flats
@@ -110,8 +112,8 @@
 1 Flooded Strand
 1 Temple Garden
 1 Windswept Heath
-2 Windswept Heath
 2 Eladamri's Call
+2 Windswept Heath
 3 Windswept Heath
 4 Windswept Heath
 4 Horizon Canopy
@@ -121,11 +123,9 @@
 3 Flagstones of Trokair
 4 Flagstones of Trokair
 1 Maul of the Skyclaves
-1 Nykthos, Shrine to Nyx
 1 Judge's Familiar
-2 Nykthos, Shrine to Nyx
-2 Maul of the Skyclaves
 2 Giant Killer
+2 Maul of the Skyclaves
 2 Judge's Familiar
 3 Judge's Familiar
 4 Judge's Familiar
@@ -152,14 +152,47 @@
 4 Kor Outfitter
 4 Magnetic Theft
 4 Inspiring Vantage
+1 Runed Halo
+1 Ghost Quarter
+1 Elesh Norn, Grand Cenobite
+1 Weathered Wayfarer
+1 Wildfield Borderpost
+1 Mastery of the Unseen
+1 Knight of the White Orchid
+1 Arcanist's Owl
+1 Fieldmist Borderpost
+1 Leyline of Sanctity
+2 Leyline of Sanctity
+2 Runed Halo
+2 Fieldmist Borderpost
+2 Knight of the White Orchid
+2 Arcanist's Owl
+2 Mastery of the Unseen
+2 Wildfield Borderpost
+2 Ghost Quarter
+2 Weathered Wayfarer
+3 Leyline of Sanctity
+3 Knight of the White Orchid
+3 Ghost Quarter
+3 Wildfield Borderpost
+3 Weathered Wayfarer
+3 Fieldmist Borderpost
+3 Nykthos, Shrine to Nyx
+3 Mastery of the Unseen
+4 Leyline of Sanctity
+4 Knight of the White Orchid
+4 Nykthos, Shrine to Nyx
+4 Mastery of the Unseen
+4 Fieldmist Borderpost
+4 Ghost Quarter
 1 Speaker of the Heavens
 1 Lurrus of the Dream-Den
-1 Serra Ascendant
 1 Martyr of Sands
+1 Serra Ascendant
+1 Dawn of Hope
 1 Soul Warden
 1 Ajani's Pridemate
 1 Soul's Attendant
-1 Dawn of Hope
 2 Speaker of the Heavens
 2 Lurrus of the Dream-Den
 2 Martyr of Sands

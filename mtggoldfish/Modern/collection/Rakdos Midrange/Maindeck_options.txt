@@ -1,30 +1,30 @@
-1 Magmatic Channeler
-2 Magmatic Channeler
 3 Magmatic Channeler
+1 Prismatic Vista
+2 Prismatic Vista
 4 Fatal Push
-1 Bloodchief's Thirst
 4 Marsh Flats
+4 Thoughtseize
+1 Bloodchief's Thirst
 1 Blood Moon
 2 Blood Moon
-4 Thoughtseize
-1 Kolaghan's Command
 4 Magmatic Channeler
+1 Kolaghan's Command
 3 Blood Moon
 1 Sunbaked Canyon
 2 Sunbaked Canyon
 3 Sunbaked Canyon
-1 Lavaclaw Reaches
 1 Snow-Covered Mountain
 1 Scourge of the Skyclaves
 2 Scourge of the Skyclaves
 3 Scourge of the Skyclaves
 1 Snow-Covered Swamp
+1 Lavaclaw Reaches
 2 Bloodchief's Thirst
 4 Swamp
 1 Verdant Catacombs
-2 Dreadbore
 2 Snow-Covered Swamp
 2 Kolaghan's Command
+2 Dreadbore
 1 Polluted Delta
 4 Blood Crypt
 1 Ransack the Lab
@@ -40,6 +40,13 @@
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+1 Godless Shrine
+1 Sacred Foundry
+1 Lingering Souls
+1 Silent Clearing
+2 Lingering Souls
 5 Swamp
 1 Field of Ruin
 1 Angrath's Rampage
@@ -48,61 +55,40 @@
 1 Pillage
 3 Magus of the Moon
 4 Magus of the Moon
+1 Castle Embereth
 3 Prismatic Vista
-1 Bonecrusher Giant
-2 Bonecrusher Giant
 3 Snow-Covered Swamp
+3 Lingering Souls
+1 Snow-Covered Plains
+1 Batterskull
+1 Stoneforge Mystic
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+1 Savai Triome
+1 Smiting Helix
 4 Liliana of the Veil
 1 Seal of Fire
 2 Seal of Fire
-1 Castle Embereth
-1 Sacred Foundry
-1 Godless Shrine
-1 Silent Clearing
-1 Lingering Souls
-2 Lingering Souls
-3 Lingering Souls
+1 Terminate
+1 Graven Cairns
 1 Rakdos Signet
 1 Talisman of Indulgence
 2 Castle Locthwain
 2 Talisman of Indulgence
 3 Chandra, Torch of Defiance
+1 Urborg, Tomb of Yawgmoth
+1 Sword of Fire and Ice
 1 Collective Brutality
 1 Agadeem's Awakening
 1 Wooded Foothills
 2 Wooded Foothills
-1 Savai Triome
-1 Smiting Helix
 1 Kaya's Guile
 2 Smiting Helix
 2 Kaya's Guile
 1 Hazoret the Fervent
 2 Pillage
 3 Pillage
-1 Urborg, Tomb of Yawgmoth
-1 Batterskull
-1 Sword of Fire and Ice
-1 Snow-Covered Plains
-1 Stoneforge Mystic
-2 Stoneforge Mystic
-3 Stoneforge Mystic
 3 Bonecrusher Giant
-1 Dark Petition
-1 Damnation
-1 Kalitas, Traitor of Ghet
-1 Bedevil
-1 Death Cloud
-1 Graven Cairns
-1 Rakdos Keyrune
-2 Field of Ruin
-2 Death Cloud
-2 Lavaclaw Reaches
-2 Graven Cairns
-2 Rakdos Signet
-3 Field of Ruin
-3 Castle Locthwain
-3 Lavaclaw Reaches
-4 Field of Ruin
 1 Canyon Slough
 1 Murderous Rider
 1 Eliminate
@@ -119,12 +105,31 @@
 4 Talisman of Indulgence
 1 Engineered Explosives
 4 Bloodchief's Thirst
-1 Terminate
 1 Nihil Spellbomb
+2 Verdant Catacombs
 2 Terminate
 2 Nihil Spellbomb
-2 Verdant Catacombs
 3 Lurrus of the Dream-Den
 3 Nihil Spellbomb
 3 Verdant Catacombs
 4 Verdant Catacombs
+1 Dark Petition
+1 Damnation
+1 Kalitas, Traitor of Ghet
+1 Bedevil
+1 Death Cloud
+1 Rakdos Keyrune
+2 Death Cloud
+2 Lavaclaw Reaches
+2 Graven Cairns
+2 Field of Ruin
+2 Rakdos Signet
+3 Castle Locthwain
+3 Field of Ruin
+3 Lavaclaw Reaches
+4 Field of Ruin
+1 Concealed Courtyard
+1 Sword of Feast and Famine
+1 Embercleave
+1 Shadowspear
+4 Stoneforge Mystic

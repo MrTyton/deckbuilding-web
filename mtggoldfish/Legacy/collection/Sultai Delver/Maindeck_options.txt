@@ -1,4 +1,5 @@
 3 Oko, Thief of Crowns
+4 Misty Rainforest
 1 Watery Grave
 1 Death's Shadow
 2 Death's Shadow
@@ -7,16 +8,16 @@
 4 Death's Shadow
 4 Fatal Push
 2 Force of Negation
-4 Misty Rainforest
-3 Abrupt Decay
 4 Polluted Delta
 1 Street Wraith
 2 Street Wraith
 3 Street Wraith
 4 Street Wraith
 1 Breeding Pool
-1 Spell Pierce
 1 Hymn to Tourach
+3 Abrupt Decay
+1 Spell Pierce
+4 Verdant Catacombs
 3 Tropical Island
 1 Scalding Tarn
 1 Overgrown Tomb
@@ -25,24 +26,20 @@
 1 Jolrael, Mwonvuli Recluse
 2 Jolrael, Mwonvuli Recluse
 2 Drown in the Loch
-4 Verdant Catacombs
+1 Bitterblossom
 1 Flooded Strand
 3 Watery Grave
+1 Tasigur, the Golden Fang
+1 Uro, Titan of Nature's Wrath
+2 Bayou
 2 Breeding Pool
 1 Tarnished Citadel
 1 Dismember
 2 Spell Pierce
 2 Dismember
 1 Sylvan Library
-1 Bitterblossom
 2 Scalding Tarn
-1 Stifle
-2 Stifle
-3 Stifle
 2 Berserk
-1 Tasigur, the Golden Fang
-1 Uro, Titan of Nature's Wrath
-2 Bayou
 1 Scourge of the Skyclaves
 1 Assassin's Trophy
 2 Scourge of the Skyclaves
@@ -52,11 +49,14 @@
 4 Scourge of the Skyclaves
 1 Plague Engineer
 2 Hymn to Tourach
+1 Stifle
+2 Stifle
+3 Stifle
 1 Waterlogged Grove
 2 Flooded Strand
 1 Snuff Out
-1 Spell Snare
 1 True-Name Nemesis
+1 Spell Snare
 1 Grafdigger's Cage
 1 Leovold, Emissary of Trest
 2 Leovold, Emissary of Trest
@@ -70,15 +70,6 @@
 1 Reanimate
 3 Drown in the Loch
 3 Flooded Strand
-1 Mishra's Bauble
-1 Nimble Mongoose
-2 Mishra's Bauble
-2 Nimble Mongoose
-2 Spell Snare
-3 Mishra's Bauble
-3 Nimble Mongoose
-4 Mishra's Bauble
-4 Nimble Mongoose
 4 Stifle
 4 Assassin's Trophy
 1 Elvish Reclaimer

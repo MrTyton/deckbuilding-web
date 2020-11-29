@@ -4,14 +4,14 @@
 2 Charming Prince
 4 Skyclave Apparition
 4 Llanowar Visionary
+3 Temple of Malady
+1 Elspeth's Nightmare
 2 Temple of Plenty
 3 Yorion, Sky Nomad
-3 Temple of Malady
 3 Glass Casket
 2 Agadeem's Awakening
 3 Golden Egg
 4 Golden Egg
-1 Elspeth's Nightmare
 1 Extinction Event
 3 Treacherous Blessing
 3 Plains
@@ -19,9 +19,9 @@
 3 Charming Prince
 4 Temple of Malady
 2 Eerie Ultimatum
-1 Emeria's Call
 2 Extinction Event
 3 Extinction Event
+1 Emeria's Call
 3 Temple of Plenty
 1 Acquisitions Expert
 2 Acquisitions Expert
@@ -42,14 +42,20 @@
 1 Ondu Inversion
 1 Lurrus of the Dream-Den
 3 Agadeem's Awakening
-4 Elspeth Conquers Death
 4 Glass Casket
+4 Elspeth Conquers Death
 1 Tangled Florahedron
 2 Tangled Florahedron
 3 Temple of Silence
 3 Elspeth's Nightmare
 5 Forest
 6 Forest
+1 Bala Ged Recovery
+1 Mythos of Nethroi
+1 Garruk, Cursed Huntsman
+2 Mythos of Nethroi
+2 Garruk, Cursed Huntsman
+3 Mythos of Nethroi
 1 Mazemind Tome
 1 Ugin, the Spirit Dragon
 2 Ugin, the Spirit Dragon
@@ -60,6 +66,48 @@
 4 Mazemind Tome
 4 Ugin, the Spirit Dragon
 4 Shatter the Sky
+1 Wolfwillow Haven
+1 Cultivate
+1 Felidar Retreat
+1 Shadows' Verdict
+1 Erebos's Intervention
+2 Wolfwillow Haven
+2 Bala Ged Recovery
+2 Cultivate
+2 Erebos's Intervention
+3 Bala Ged Recovery
+3 Garruk, Cursed Huntsman
+3 Wolfwillow Haven
+3 Cultivate
+3 Erebos's Intervention
+3 Emeria's Call
+4 Emeria's Call
+4 Erebos's Intervention
+4 Garruk, Cursed Huntsman
+4 Wolfwillow Haven
+1 Heartless Act
+1 Elder Gargaroth
+1 Eliminate
+1 Duress
+1 Polukranos, Unchained
+1 Thrashing Brontodon
+1 Cling to Dust
+1 Castle Locthwain
+1 Scavenging Ooze
+1 Yasharn, Implacable Earth
+2 Castle Locthwain
+2 Elder Gargaroth
+2 Duress
+2 Yasharn, Implacable Earth
+2 Heartless Act
+2 Polukranos, Unchained
+2 Scavenging Ooze
+2 Thrashing Brontodon
+3 Scavenging Ooze
+3 Yasharn, Implacable Earth
+3 Duress
+3 Elder Gargaroth
+4 Duress
 1 The Birth of Meletis
 2 The Birth of Meletis
 3 The Birth of Meletis
@@ -75,10 +123,10 @@
 1 Lukka, Coppercoat Outcast
 1 Outlaws' Merriment
 1 Fire Prophecy
-1 Castle Ardenvale
-1 The Akroan War
 1 Castle Embereth
 1 Harmonious Archon
+1 Castle Ardenvale
+1 The Akroan War
 1 Raugrin Triome
 2 Omen of the Sun
 2 Castle Ardenvale
@@ -98,10 +146,10 @@
 3 Fire Prophecy
 3 Mountain
 3 Harmonious Archon
-3 Raugrin Triome
 3 Elspeth, Sun's Nemesis
-4 Omen of the Sun
+3 Raugrin Triome
 4 Needleverge Pathway
+4 Omen of the Sun
 4 Transmogrify
 4 Fire Prophecy
 4 Harmonious Archon
@@ -117,73 +165,95 @@
 4 Island
 5 Island
 6 Island
-1 Sea Gate Stormcaller
 1 Hagra Mauling
-1 Ruin Crab
 1 Vantress Gargoyle
+1 Ruin Crab
+1 Sea Gate Stormcaller
 1 Into the Story
-1 Heartless Act
 1 Teferi's Tutelage
-1 Thieves' Guild Enforcer
 1 Drown in the Loch
+1 Thieves' Guild Enforcer
+1 Maddening Cacophony
 1 Bloodchief's Thirst
 1 Temple of Deceit
-1 Maddening Cacophony
 2 Jwari Disruption
-2 Ruin Crab
-2 Sea Gate Stormcaller
 2 Vantress Gargoyle
+2 Ruin Crab
 2 Teferi's Tutelage
-2 Bloodchief's Thirst
+2 Sea Gate Stormcaller
 2 Into the Story
+2 Bloodchief's Thirst
 2 Temple of Deceit
 2 Maddening Cacophony
 2 Drown in the Loch
 2 Thieves' Guild Enforcer
-3 Ruin Crab
-3 Sea Gate Stormcaller
 3 Vantress Gargoyle
+3 Ruin Crab
 3 Clearwater Pathway
 3 Teferi's Tutelage
+3 Sea Gate Stormcaller
 3 Maddening Cacophony
-3 Thieves' Guild Enforcer
 3 Drown in the Loch
+3 Thieves' Guild Enforcer
 3 Temple of Deceit
 3 Into the Story
 4 Maddening Cacophony
+4 Vantress Gargoyle
 4 Ruin Crab
 4 Teferi's Tutelage
-4 Vantress Gargoyle
 4 Clearwater Pathway
-4 Temple of Deceit
-4 Thieves' Guild Enforcer
 4 Drown in the Loch
-1 Wolfwillow Haven
-1 Bala Ged Recovery
-1 Mythos of Nethroi
-1 Cultivate
-1 Garruk, Cursed Huntsman
-1 Felidar Retreat
-1 Shadows' Verdict
-1 Erebos's Intervention
-2 Bala Ged Recovery
-2 Wolfwillow Haven
-2 Mythos of Nethroi
-2 Garruk, Cursed Huntsman
-2 Cultivate
-2 Erebos's Intervention
-3 Bala Ged Recovery
-3 Mythos of Nethroi
-3 Garruk, Cursed Huntsman
-3 Cultivate
-3 Emeria's Call
-3 Erebos's Intervention
-3 Wolfwillow Haven
-4 Emeria's Call
-4 Erebos's Intervention
-4 Wolfwillow Haven
-4 Garruk, Cursed Huntsman
-1 Crawling Barrens
+4 Thieves' Guild Enforcer
+4 Temple of Deceit
+1 Rain of Revelation
+1 Lofty Denial
+1 Rewind
+1 Silundi Vision
+1 Into the Roil
+1 Mystic Sanctuary
+1 Sublime Epiphany
+1 Neutralize
+1 Brazen Borrower
+1 Gadwick, the Wizened
+1 Essence Scatter
+1 Kiora Bests the Sea God
+1 Hypnotic Sprite
+1 Bonders' Enclave
+1 Castle Vantress
+1 Shark Typhoon
+2 Castle Vantress
+2 Lofty Denial
+2 Rain of Revelation
+2 Brazen Borrower
+2 Into the Roil
+2 Rewind
+2 Neutralize
+2 Essence Scatter
+2 Shark Typhoon
+2 Gadwick, the Wizened
+2 Hypnotic Sprite
+3 Neutralize
+3 Brazen Borrower
+3 Castle Vantress
+3 Rewind
+3 Shark Typhoon
+4 Neutralize
+4 Castle Vantress
+4 Brazen Borrower
+4 Shark Typhoon
+4 Rewind
+7 Island
+8 Island
+9 Island
+10 Island
+11 Island
+12 Island
+13 Island
+14 Island
+15 Island
+16 Island
+17 Island
+18 Island
 1 Unknown Shores
 1 Radiant Fountain
 1 Sleeper Dart
@@ -191,6 +261,7 @@
 1 Swift Response
 1 Labyrinth of Skophos
 1 Dance of the Manse
+1 Crawling Barrens
 2 Crawling Barrens
 2 Unknown Shores
 2 Labyrinth of Skophos
@@ -208,58 +279,9 @@
 4 Solemn Simulacrum
 4 Sleeper Dart
 4 Crawling Barrens
-4 Forsaken Monument
 4 Radiant Fountain
+4 Forsaken Monument
 4 Unknown Shores
-6 Plains
 7 Plains
 8 Plains
-1 Rewind
-1 Rain of Revelation
-1 Lofty Denial
-1 Silundi Vision
-1 Sublime Epiphany
-1 Neutralize
-1 Brazen Borrower
-1 Gadwick, the Wizened
-1 Essence Scatter
-1 Kiora Bests the Sea God
-1 Mystic Sanctuary
-1 Hypnotic Sprite
-1 Into the Roil
-1 Bonders' Enclave
-1 Shark Typhoon
-1 Castle Vantress
-2 Castle Vantress
-2 Rain of Revelation
-2 Rewind
-2 Brazen Borrower
-2 Lofty Denial
-2 Neutralize
-2 Essence Scatter
-2 Shark Typhoon
-2 Hypnotic Sprite
-2 Gadwick, the Wizened
-2 Into the Roil
-3 Neutralize
-3 Brazen Borrower
-3 Shark Typhoon
-3 Castle Vantress
-3 Rewind
-4 Neutralize
-4 Brazen Borrower
-4 Shark Typhoon
-4 Rewind
-4 Castle Vantress
-7 Island
-8 Island
-9 Island
-10 Island
-11 Island
-12 Island
-13 Island
-14 Island
-15 Island
-16 Island
-17 Island
-18 Island
+6 Plains

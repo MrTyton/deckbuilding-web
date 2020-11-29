@@ -1,5 +1,5 @@
-2 Leyline of Sanctity
-3 Leyline of Sanctity
+1 Thoughtseize
+2 Thoughtseize
 1 Pelakka Predation
 2 Pelakka Predation
 1 Pact of Negation
@@ -56,39 +56,6 @@
 1 Tangled Florahedron
 2 Tangled Florahedron
 3 Tangled Florahedron
-1 Murderous Cut
-1 River of Tears
-1 Remand
-1 Watery Grave
-1 Inquisition of Kozilek
-1 Fatal Push
-1 Cling to Dust
-1 Jace, Wielder of Mysteries
-1 Thassa's Oracle
-1 Opt
-1 Inverter of Truth
-1 Polluted Delta
-2 River of Tears
-2 Watery Grave
-2 Polluted Delta
-2 Remand
-2 Inquisition of Kozilek
-2 Fatal Push
-2 Jace, Wielder of Mysteries
-2 Thassa's Oracle
-2 Opt
-2 Inverter of Truth
-3 Remand
-3 Fatal Push
-3 Jace, Wielder of Mysteries
-3 Opt
-3 Inverter of Truth
-3 River of Tears
-4 Remand
-4 Fatal Push
-4 Opt
-4 River of Tears
-4 Inverter of Truth
 1 Island
 1 Karn, the Great Creator
 1 Waterlogged Grove
@@ -107,10 +74,10 @@
 1 Lightning Bolt
 1 Stomping Ground
 1 Woodweaver's Puzzleknot
+1 Misty Rainforest
 1 Mountain
 1 Attune with Aether
 1 Rogue Refiner
-1 Misty Rainforest
 2 Karn, the Great Creator
 2 Forest
 2 Wooded Foothills
@@ -145,9 +112,9 @@
 4 Through the Breach
 4 Emrakul, the Aeons Torn
 4 Misty Rainforest
-4 Attune with Aether
 4 Rogue Refiner
 4 Aether Hub
+4 Attune with Aether
 4 Wooded Foothills
 4 Harnessed Lightning
 1 Sphere of the Suns
@@ -158,53 +125,63 @@
 3 Chalice of the Void
 4 Chalice of the Void
 4 Blood Moon
+1 Murderous Cut
+1 River of Tears
+1 Remand
 1 Omen of the Sea
 1 Eldrazi Temple
 1 Drowned Catacomb
+1 Watery Grave
+1 Inquisition of Kozilek
+1 Fatal Push
+1 Cling to Dust
 1 Snow-Covered Swamp
 1 Cavern of Souls
 1 Darkslick Shores
 1 Relic of Progenitus
+1 Jace, Wielder of Mysteries
+1 Thassa's Oracle
+1 Opt
+1 Inverter of Truth
 1 Snow-Covered Island
+1 Polluted Delta
+2 River of Tears
+2 Watery Grave
+2 Polluted Delta
 2 Omen of the Sea
 2 Eldrazi Temple
-2 Drowned Catacomb
+2 Remand
+2 Inquisition of Kozilek
+2 Fatal Push
 2 Darkslick Shores
+2 Jace, Wielder of Mysteries
+2 Thassa's Oracle
+2 Drowned Catacomb
 2 Relic of Progenitus
+2 Opt
+2 Inverter of Truth
+3 Remand
 3 Omen of the Sea
-3 Drowned Catacomb
 3 Inquisition of Kozilek
+3 Fatal Push
 3 Darkslick Shores
 3 Thassa's Oracle
 3 Relic of Progenitus
+3 Jace, Wielder of Mysteries
+3 Opt
+3 Inverter of Truth
+3 River of Tears
 3 Watery Grave
+3 Drowned Catacomb
+4 Remand
 4 Omen of the Sea
+4 Fatal Push
 4 Darkslick Shores
+4 Opt
+4 Inverter of Truth
 4 Thassa's Oracle
 4 Watery Grave
-2 Island
-3 Island
-1 Shelldock Isle
-1 Snapcaster Mage
-1 Creeping Tar Pit
-1 Tasigur, the Golden Fang
-1 Castle Vantress
-1 Vendilion Clique
-1 Scalding Tarn
-1 Swamp
-1 Cryptic Command
-1 Force of Negation
-1 Sunken Ruins
-2 Shelldock Isle
-2 Snapcaster Mage
-2 Scalding Tarn
-2 Force of Negation
-3 Polluted Delta
-3 Shelldock Isle
-3 Snapcaster Mage
-4 Polluted Delta
-4 Jace, Wielder of Mysteries
-4 Shelldock Isle
+4 River of Tears
 1 Shivan Reef
 1 Peer Through Depths
 1 Ideas Unbound
@@ -221,22 +198,24 @@
 1 Echoing Truth
 1 Lonely Sandbar
 1 Lotus Field
+2 Island
 2 Shivan Reef
 2 Peer Through Depths
 2 Lonely Sandbar
 2 Echoing Truth
-2 Psychic Puppetry
+2 Ideas Unbound
 2 Grapeshot
 2 Vizier of Tumbling Sands
 2 Dream's Grip
+2 Psychic Puppetry
 2 Reach Through Mists
 2 Sleight of Hand
 2 Serum Visions
-2 Ideas Unbound
 2 Lotus Field
 2 Past in Flames
 2 Twiddle
 3 Sleight of Hand
+3 Island
 3 Lonely Sandbar
 3 Shivan Reef
 3 Past in Flames

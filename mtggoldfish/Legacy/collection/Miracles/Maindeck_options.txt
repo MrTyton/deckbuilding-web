@@ -1,16 +1,16 @@
-3 Prismatic Vista
-4 Prismatic Vista
+3 Jace, the Mind Sculptor
+1 Lightning Bolt
+6 Snow-Covered Island
 1 Back to Basics
 1 Supreme Verdict
-3 Jace, the Mind Sculptor
-1 Misty Rainforest
-2 Misty Rainforest
 3 Daze
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
 3 Predict
 4 Mishra's Bauble
+1 Misty Rainforest
+2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
 3 Monastery Mentor
@@ -22,72 +22,77 @@
 1 Gideon, Ally of Zendikar
 1 Red Elemental Blast
 2 Back to Basics
+2 Terminus
 1 Sylvan Library
 2 Force of Negation
-2 Terminus
 3 Terminus
 4 Predict
-2 Scalding Tarn
-3 Scalding Tarn
 1 Plains
 1 Island
 2 Island
 3 Island
 4 Island
-2 Mystic Sanctuary
-4 Scalding Tarn
-1 Entreat the Angels
-1 Sevinne's Reclamation
-1 Spell Pierce
-1 Polluted Delta
+2 Scalding Tarn
+3 Scalding Tarn
 2 Plains
 2 Counterspell
-2 Volcanic Island
-1 Portent
-2 Polluted Delta
-2 Narset, Parter of Veils
-3 Arcum's Astrolabe
+2 Mystic Sanctuary
+4 Scalding Tarn
+1 Polluted Delta
+1 Sevinne's Reclamation
 1 Temporal Mastery
+1 Entreat the Angels
+2 Volcanic Island
+1 Spell Pierce
+1 Portent
 2 Temporal Mastery
 3 Temporal Mastery
+3 Arcum's Astrolabe
+2 Council's Judgment
+4 Snapcaster Mage
+1 Accumulated Knowledge
+2 Accumulated Knowledge
+3 Accumulated Knowledge
+4 Accumulated Knowledge
+3 Tundra
 2 Portent
+2 Polluted Delta
+2 Narset, Parter of Veils
+1 Helm of Obedience
+1 Rest in Peace
+2 Rest in Peace
+3 Rest in Peace
+2 Preordain
+5 Island
+6 Island
 1 Underground Sea
 3 Polluted Delta
 4 Polluted Delta
-1 Rest in Peace
-1 Helm of Obedience
-2 Rest in Peace
-3 Rest in Peace
-5 Island
 1 Enlightened Tutor
 1 Veil of Summer
-2 Council's Judgment
 1 Dreadhorde Arcanist
 1 Stifle
-1 Accumulated Knowledge
 1 Wasteland
 1 Sprite Dragon
 2 Dreadhorde Arcanist
 2 Wasteland
-2 Accumulated Knowledge
-3 Accumulated Knowledge
 3 Wasteland
-4 Accumulated Knowledge
 3 Counterbalance
-1 Snow-Covered Swamp
 1 Lotus Petal
 2 Lotus Petal
 3 Lotus Petal
-1 Dovin's Veto
+2 Entreat the Angels
+3 Portent
 1 Pyroblast
 2 Pyroblast
-1 Ideas Unbound
+1 Snow-Covered Swamp
+1 Street Wraith
 1 Doomsday
 1 Edge of Autumn
-1 Lion's Eye Diamond
 1 Thassa's Oracle
-1 Street Wraith
 1 Cavern of Souls
+1 Lion's Eye Diamond
+1 Ideas Unbound
 1 Dark Ritual
 2 Underground Sea
 2 Doomsday
@@ -96,13 +101,8 @@
 3 Dark Ritual
 4 Doomsday
 4 Dark Ritual
-1 Karakas
-1 Baleful Strix
-2 Baleful Strix
-3 Baleful Strix
-3 Teferi, Time Raveler
-2 Preordain
 3 Preordain
+7 Island
 1 Energy Field
 1 Path to Exile
 1 Scroll Rack
@@ -113,30 +113,35 @@
 3 Scroll Rack
 3 Land Tax
 4 Land Tax
-6 Island
 1 Flusterstorm
 1 Deprive
+1 Karakas
 1 Uro, Titan of Nature's Wrath
 1 Swamp
 1 Cling to Dust
 1 Kaya, Orzhov Usurper
 2 Cling to Dust
-2 Entreat the Angels
-2 Tropical Island
 1 Arid Mesa
 2 Helm of Obedience
-3 Tundra
+2 Tropical Island
 1 Teferi, Hero of Dominaria
 2 Teferi, Hero of Dominaria
-3 Portent
+3 Teferi, Time Raveler
 3 Narset, Parter of Veils
-4 Snapcaster Mage
 1 Orim's Chant
 1 Thoughtseize
 1 Scrubland
 2 Thoughtseize
 3 Underground Sea
 4 Preordain
+1 Brazen Borrower
+1 Thing in the Ice
+1 Devastation Tide
+1 Maze of Ith
+2 Devastation Tide
+3 Mystic Sanctuary
+4 Portent
+4 Tundra
 1 Cunning Wish
 1 Omniscience
 1 Show and Tell
@@ -153,11 +158,15 @@
 4 Omniscience
 4 Show and Tell
 1 Hullbreacher
+1 Baleful Strix
+2 Baleful Strix
 2 Hullbreacher
+3 Baleful Strix
 4 Arcum's Astrolabe
 2 Stifle
 4 Wasteland
 1 Court of Cunning
+1 Dovin's Veto
 1 Humility
 1 Moat
 2 Energy Field
@@ -165,25 +174,10 @@
 3 Energy Field
 3 Court of Cunning
 4 Rest in Peace
-1 Marsh Flats
-1 Spellseeker
-1 Personal Tutor
-1 Gurmag Angler
-1 Eliminate
-1 Plague Engineer
-2 Gurmag Angler
-2 Spellseeker
-2 Eliminate
-2 Plague Engineer
-2 Marsh Flats
-3 Marsh Flats
-3 Eliminate
-4 Eliminate
-4 Baleful Strix
 1 Firestorm
 1 Pyrite Spellbomb
-1 Mox Opal
 1 Emry, Lurker of the Loch
+1 Mox Opal
 1 Urza, Lord High Artificer
 2 Firestorm
 2 Path to Exile
@@ -206,4 +200,3 @@
 4 Plains
 5 Plains
 6 Plains
-7 Island

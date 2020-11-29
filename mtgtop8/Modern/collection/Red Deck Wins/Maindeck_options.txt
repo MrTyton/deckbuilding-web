@@ -1,8 +1,3 @@
-2 Light Up the Stage
-2 Soul-Scar Mage
-3 Light Up the Stage
-3 Soul-Scar Mage
-4 Light Up the Stage
 4 Mountain
 4 Soul-Scar Mage
 5 Mountain
@@ -19,8 +14,8 @@
 1 Flame Slash
 2 Bonecrusher Giant
 2 Firebolt
-3 Firebolt
 3 Bonecrusher Giant
+3 Firebolt
 4 Firebolt
 4 Bonecrusher Giant
 14 Mountain
@@ -33,33 +28,38 @@
 2 Flame Slash
 1 Lava Dart
 2 Lava Dart
-3 Skullcrack
-2 Bloodstained Mire
 17 Mountain
 2 Blood Moon
 3 Flame Slash
-4 Flame Slash
 3 Lava Dart
 4 Lava Dart
+4 Sunbaked Canyon
+3 Lightning Helix
 3 Blood Moon
 4 Blood Moon
+4 Flame Slash
+3 Rift Bolt
+4 Rift Bolt
+2 Wooded Foothills
+18 Mountain
 1 Scalding Tarn
 2 Scalding Tarn
-4 Searing Blaze
-2 Arid Mesa
-1 Stomping Ground
+3 Skullcrack
+2 Bloodstained Mire
 2 Fiery Islet
-18 Mountain
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
-4 Lightning Helix
-3 Bloodstained Mire
-3 Wooded Foothills
+4 Searing Blaze
+2 Arid Mesa
+1 Stomping Ground
 1 Blast Zone
 2 Blast Zone
+4 Lightning Helix
 4 Skewer the Critics
+3 Bloodstained Mire
+3 Wooded Foothills
 4 Skullcrack
 3 Scalding Tarn
 4 Scalding Tarn
@@ -71,7 +71,7 @@
 2 Stomping Ground
 3 Atarka's Command
 4 Atarka's Command
-3 Arid Mesa
+1 Magus of the Moon
 1 Blistercoil Weird
 2 Blistercoil Weird
 1 Abbot of Keral Keep
@@ -109,7 +109,6 @@
 3 Shatterskull Smashing
 4 Shatterskull Smashing
 1 Spikefield Hazard
-1 Magus of the Moon
 2 Magus of the Moon
 2 Spikefield Hazard
 3 Spikefield Hazard
@@ -117,7 +116,6 @@
 1 Seal of Fire
 1 Mishra's Bauble
 2 Mishra's Bauble
+3 Arid Mesa
 3 Mishra's Bauble
 4 Mishra's Bauble
-4 Bloodstained Mire
-4 Arid Mesa

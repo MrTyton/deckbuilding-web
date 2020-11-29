@@ -13,16 +13,16 @@
 1 Eerie Ultimatum
 1 Agadeem's Awakening
 2 Golden Egg
-2 Agadeem's Awakening
 2 Charming Prince
+2 Agadeem's Awakening
 2 Elspeth's Nightmare
 2 Doom Foretold
 2 Treacherous Blessing
 2 Extinction Event
 3 Golden Egg
-3 Extinction Event
 3 Doom Foretold
 3 Elspeth Conquers Death
+3 Extinction Event
 3 Plains
 4 Doom Foretold
 1 Castle Locthwain
@@ -30,8 +30,8 @@
 1 Elder Gargaroth
 1 Bloodchief's Thirst
 2 Scavenging Ooze
-2 Elder Gargaroth
 2 Bloodchief's Thirst
+2 Elder Gargaroth
 3 Elder Gargaroth
 3 Scavenging Ooze
 4 Mythos of Nethroi
@@ -39,6 +39,24 @@
 2 Grakmaw, Skyclave Ravager
 3 Grakmaw, Skyclave Ravager
 3 Swamp
+1 Jolrael, Mwonvuli Recluse
+1 Yasharn, Implacable Earth
+1 Felidar Retreat
+1 Mazemind Tome
+1 Bala Ged Recovery
+1 Hagra Mauling
+2 Jolrael, Mwonvuli Recluse
+2 Castle Locthwain
+2 Garruk, Cursed Huntsman
+2 Hagra Mauling
+2 Felidar Retreat
+2 Bala Ged Recovery
+2 Mazemind Tome
+3 Felidar Retreat
+3 Garruk, Cursed Huntsman
+3 Mazemind Tome
+4 Mazemind Tome
+4 Felidar Retreat
 1 Luminarch Aspirant
 1 Fearless Fledgling
 1 Conclave Mentor
@@ -47,9 +65,9 @@
 1 Eliminate
 1 Stonecoil Serpent
 2 Luminarch Aspirant
-2 Gemrazer
 2 Conclave Mentor
 2 Fearless Fledgling
+2 Gemrazer
 2 Basri's Lieutenant
 2 Eliminate
 2 Stonecoil Serpent
@@ -66,7 +84,6 @@
 4 Basri's Lieutenant
 4 Stonecoil Serpent
 4 Swamp
-1 Crawling Barrens
 1 Chevill, Bane of Monsters
 1 Polukranos, Unchained
 1 The Great Henge
@@ -74,14 +91,15 @@
 1 Questing Beast
 1 Nethroi, Apex of Death
 1 Turntimber Symbiosis
+1 Crawling Barrens
 2 Nissa of Shadowed Boughs
 2 Polukranos, Unchained
 2 Chevill, Bane of Monsters
 2 Turntimber Symbiosis
 2 Questing Beast
 2 Nethroi, Apex of Death
-3 Bloodchief's Thirst
 3 Polukranos, Unchained
+3 Bloodchief's Thirst
 3 Nissa of Shadowed Boughs
 4 Bloodchief's Thirst
 4 Grakmaw, Skyclave Ravager
@@ -94,24 +112,6 @@
 3 Emeria's Call
 4 Yorion, Sky Nomad
 4 Emeria's Call
-4 Glass Casket
 5 Forest
 6 Forest
-1 Jolrael, Mwonvuli Recluse
-1 Yasharn, Implacable Earth
-1 Felidar Retreat
-1 Mazemind Tome
-1 Bala Ged Recovery
-1 Hagra Mauling
-2 Jolrael, Mwonvuli Recluse
-2 Castle Locthwain
-2 Garruk, Cursed Huntsman
-2 Hagra Mauling
-2 Felidar Retreat
-2 Mazemind Tome
-2 Bala Ged Recovery
-3 Garruk, Cursed Huntsman
-3 Felidar Retreat
-3 Mazemind Tome
-4 Mazemind Tome
-4 Felidar Retreat
+4 Glass Casket
