@@ -1,37 +1,52 @@
-2 The Great Henge
+8 Forest
+3 Elspeth Conquers Death
 2 Turntimber Symbiosis
 2 Charming Prince
-3 Elspeth Conquers Death
 1 Tangled Florahedron
 2 Tangled Florahedron
-4 Glass Casket
-9 Forest
 1 Fabled Passage
+4 Glass Casket
+2 Fabled Passage
 1 Omen of the Sun
 2 Omen of the Sun
-2 Fabled Passage
-3 Turntimber Symbiosis
 1 Yasharn, Implacable Earth
+3 Turntimber Symbiosis
+9 Forest
 3 Fabled Passage
 4 Fabled Passage
-2 Scavenging Ooze
 6 Plains
 2 Yasharn, Implacable Earth
 1 Kazandu Mammoth
 2 Kazandu Mammoth
 3 Kazandu Mammoth
 4 Kazandu Mammoth
+2 Scavenging Ooze
 1 Lotus Cobra
 2 Lotus Cobra
 3 Lotus Cobra
+1 Giant Killer
 1 Murasa Rootgrazer
 1 Felidar Retreat
 2 Murasa Rootgrazer
 2 Felidar Retreat
 3 Yasharn, Implacable Earth
 3 Felidar Retreat
+1 Bronzehide Lion
+2 Bronzehide Lion
+3 Bronzehide Lion
+1 Shepherd of the Flock
+1 Lovestruck Beast
+1 Edgewall Innkeeper
+2 Edgewall Innkeeper
+2 Lovestruck Beast
+2 Giant Killer
+3 Lovestruck Beast
+3 Edgewall Innkeeper
+3 Giant Killer
+4 Edgewall Innkeeper
+4 Lovestruck Beast
 4 Lotus Cobra
-1 Giant Killer
+3 Charming Prince
 1 Scute Swarm
 1 Evolving Wilds
 2 Scute Swarm
@@ -40,29 +55,16 @@
 3 Murasa Rootgrazer
 3 Evolving Wilds
 4 Evolving Wilds
-4 Scute Swarm
 4 Murasa Rootgrazer
+4 Scute Swarm
 4 Felidar Retreat
-3 Charming Prince
-1 Bronzehide Lion
-2 Bronzehide Lion
-3 Bronzehide Lion
 3 Scavenging Ooze
-1 Shepherd of the Flock
-1 Lovestruck Beast
-1 Edgewall Innkeeper
+4 Giant Killer
 2 Shepherd of the Flock
-2 Edgewall Innkeeper
-2 Lovestruck Beast
-2 Giant Killer
 3 Shepherd of the Flock
-3 Lovestruck Beast
-3 Edgewall Innkeeper
-3 Giant Killer
 4 Shepherd of the Flock
-4 Edgewall Innkeeper
-4 Lovestruck Beast
-1 Ugin, the Spirit Dragon
+4 Elspeth Conquers Death
+4 Bronzehide Lion
 3 Tangled Florahedron
 4 Tangled Florahedron
 4 Yasharn, Implacable Earth
@@ -74,18 +76,16 @@
 1 Faerie Guidemother
 2 Faerie Guidemother
 3 Faerie Guidemother
-4 Giant Killer
-4 Elspeth Conquers Death
+1 Questing Beast
+3 The Great Henge
 7 Plains
 1 The Birth of Meletis
 1 Banishing Light
 2 Banishing Light
-4 Bronzehide Lion
-1 Bala Ged Recovery
 1 Elspeth, Sun's Nemesis
 2 Elspeth, Sun's Nemesis
-1 Cultivate
-2 Cultivate
+1 Bala Ged Recovery
+1 Ugin, the Spirit Dragon
 1 Legion Angel
 1 Wolfwillow Haven
 2 Wolfwillow Haven
@@ -130,14 +130,16 @@
 9 Plains
 10 Plains
 1 Migratory Greathorn
+1 Kabira Takedown
+2 Questing Beast
 1 Chainweb Aracnir
 2 Bala Ged Recovery
 3 Omen of the Sun
-1 Kabira Takedown
-1 Questing Beast
-2 Questing Beast
-3 The Great Henge
 3 Vivien, Monsters' Advocate
+1 Luminarch Aspirant
+2 Luminarch Aspirant
+3 Luminarch Aspirant
+4 Luminarch Aspirant
 1 Gemrazer
 2 Gemrazer
 3 Gemrazer
@@ -145,11 +147,12 @@
 4 Scavenging Ooze
 1 Mountain
 1 Needleverge Pathway
-1 Solemn Simulacrum
 1 Cragcrown Pathway
 1 Beanstalk Giant
 1 Baneslayer Angel
 1 Lithoform Engine
+1 Solemn Simulacrum
+1 Cultivate
 1 Phylath, World Sculptor
 2 Needleverge Pathway
 2 Beanstalk Giant
@@ -157,6 +160,7 @@
 2 Baneslayer Angel
 2 Lithoform Engine
 2 Phylath, World Sculptor
+2 Cultivate
 2 Solemn Simulacrum
 2 Mountain
 3 Needleverge Pathway
@@ -168,7 +172,7 @@
 3 Wolfwillow Haven
 4 Needleverge Pathway
 4 Cragcrown Pathway
-4 Beanstalk Giant
 4 Baneslayer Angel
+4 Beanstalk Giant
 4 Wolfwillow Haven
 10 Forest

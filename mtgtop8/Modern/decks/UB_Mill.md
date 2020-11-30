@@ -85,8 +85,8 @@
 |                    3|[Scheming Symmetry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466867)       |                     |                                                                                                   |
 |                    3|[Trapmaker's Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=192223)       |                     |                                                                                                   |
 |                    4|[Drown in the Loch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473150)       |                     |                                                                                                   |
+|                    4|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)            |                     |                                                                                                   |
 |                    4|[Scheming Symmetry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466867)       |                     |                                                                                                   |
 |                    4|[Trapmaker's Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=192223)       |                     |                                                                                                   |
-|                    4|[Watery Grave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405114)            |                     |                                                                                                   |
 |                    4|[Fraying Sanity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430724)          |                     |                                                                                                   |
 

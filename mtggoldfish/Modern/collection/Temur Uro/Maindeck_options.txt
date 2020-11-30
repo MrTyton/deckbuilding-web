@@ -1,15 +1,14 @@
 1 Archmage's Charm
 2 Archmage's Charm
-2 Izzet Charm
-1 Shark Typhoon
-1 Snapcaster Mage
 1 Field of the Dead
 4 Cryptic Command
+2 Izzet Charm
+1 Shark Typhoon
 1 Jace, the Mind Sculptor
 2 Field of the Dead
+1 Snapcaster Mage
 1 Field of Ruin
 1 Lonely Sandbar
-3 Snow-Covered Island
 1 Wooded Foothills
 1 Spell Snare
 1 Flooded Strand
@@ -18,18 +17,20 @@
 2 Mana Leak
 1 Abrade
 2 Spell Snare
-2 Shark Typhoon
+3 Snow-Covered Island
+4 Scapeshift
+1 Silundi Vision
 2 Wooded Foothills
-2 Jace, the Mind Sculptor
 1 Hour of Promise
+2 Jace, the Mind Sculptor
 1 Castle Vantress
 1 Search for Tomorrow
 2 Search for Tomorrow
 3 Search for Tomorrow
+2 Shark Typhoon
 2 Snow-Covered Forest
-4 Scapeshift
-1 Silundi Vision
 3 Island
+1 Flame Slash
 2 Field of Ruin
 2 Snapcaster Mage
 3 Force of Negation
@@ -50,7 +51,6 @@
 1 Opt
 2 Opt
 3 Opt
-1 Flame Slash
 4 Search for Tomorrow
 1 Explore
 1 Primeval Titan
@@ -61,11 +61,10 @@
 3 Explore
 3 Primeval Titan
 4 Primeval Titan
-1 Radiant Fountain
 1 Ghost Quarter
 1 Cavern of Souls
+1 Radiant Fountain
 1 Dryad of the Ilysian Grove
-1 Azusa, Lost but Seeking
 1 Simic Growth Chamber
 1 Summoner's Pact
 1 Turntimber Symbiosis
@@ -76,6 +75,7 @@
 1 Vesuva
 1 Bojuka Bog
 1 Hanweir Battlements
+1 Azusa, Lost but Seeking
 2 Dryad of the Ilysian Grove
 2 Cavern of Souls
 2 Gruul Turf
@@ -241,8 +241,8 @@
 3 Bloodbraid Elf
 3 Bonecrusher Giant
 3 Noble Hierarch
-3 Ancestral Vision
 3 Blood Moon
+3 Ancestral Vision
 3 Tarmogoyf
 4 Blood Moon
 4 Bloodbraid Elf

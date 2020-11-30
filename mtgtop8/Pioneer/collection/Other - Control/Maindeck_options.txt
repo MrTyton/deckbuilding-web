@@ -18,9 +18,9 @@
 2 Ugin, the Spirit Dragon
 4 Temple Garden
 2 Kenrith, the Returned King
-1 Prophet of Kruphix
 1 Inspired Ultimatum
 1 Temple of Mystery
+1 Prophet of Kruphix
 2 Prophet of Kruphix
 2 Dryad of the Ilysian Grove
 3 Dryad of the Ilysian Grove
@@ -92,12 +92,12 @@
 1 Aether Gust
 3 Stomping Ground
 1 Geier Reach Sanitarium
-1 Heartless Act
 1 Day's Undoing
+1 Heartless Act
 1 Kalitas, Traitor of Ghet
 2 Heartless Act
-1 Castle Locthwain
 1 Hero's Downfall
+1 Castle Locthwain
 1 Censor
 2 Censor
 1 Negate
@@ -161,24 +161,24 @@
 2 Hydroid Krasis
 4 Breeding Pool
 3 Swamp
-1 Merfolk Secretkeeper
 1 Clearwater Pathway
 1 Drown in the Loch
+1 Merfolk Secretkeeper
+1 Sea Gate Stormcaller
 1 Jwari Disruption
 1 Didn't Say Please
 1 Ipnu Rivulet
 1 Maddening Cacophony
 1 Drowned Secrets
-1 Sea Gate Stormcaller
 1 Fraying Sanity
 1 Crypt Incursion
 1 Breaking / Entering
 1 Ruin Crab
 2 Merfolk Secretkeeper
-2 Didn't Say Please
-2 Drown in the Loch
-2 Jwari Disruption
 2 Clearwater Pathway
+2 Didn't Say Please
+2 Jwari Disruption
+2 Drown in the Loch
 2 Maddening Cacophony
 2 Crypt Incursion
 2 Sea Gate Stormcaller
@@ -216,8 +216,8 @@
 1 Languish
 2 Scarab Feast
 2 Languish
-2 Kalitas, Traitor of Ghet
 2 Day's Undoing
+2 Kalitas, Traitor of Ghet
 1 Terror of the Peaks
 2 Terror of the Peaks
 1 Voice of Resurgence
@@ -227,27 +227,27 @@
 2 Cragcrown Pathway
 3 Voice of Resurgence
 1 Rootbound Crag
-1 Shatterskull Smashing
 1 Jolrael, Mwonvuli Recluse
+1 Shatterskull Smashing
 2 Rootbound Crag
 2 Jolrael, Mwonvuli Recluse
 3 Rootbound Crag
 1 Hieroglyphic Illumination
 1 Void Shatter
+1 Erebos's Intervention
 1 Torrential Gearhulk
-1 Ritual of Soot
 1 Vraska's Contempt
 1 Unwind
+1 Ritual of Soot
 1 Glimmer of Genius
 1 Sinister Sabotage
-1 Erebos's Intervention
 2 Void Shatter
 2 Torrential Gearhulk
-2 Castle Locthwain
 2 Castle Vantress
 2 Negate
 2 Ritual of Soot
 2 Glimmer of Genius
+2 Castle Locthwain
 3 Fetid Pools
 3 Void Shatter
 3 Field of Ruin
@@ -276,10 +276,10 @@
 3 Nissa, Who Shakes the World
 3 Oath of Nissa
 4 Oath of Nissa
+1 Kolaghan's Command
 1 Collective Brutality
 1 Dragonskull Summit
 1 Liliana, Waker of the Dead
-1 Kolaghan's Command
 1 Davriel, Rogue Shadowmage
 1 Thought Erasure
 1 Blood Crypt
@@ -294,20 +294,20 @@
 2 Kolaghan's Command
 2 Davriel, Rogue Shadowmage
 2 Dragonskull Summit
+3 Liliana, Waker of the Dead
 3 Kroxa, Titan of Death's Hunger
 3 Davriel, Rogue Shadowmage
-3 Liliana, Waker of the Dead
 3 Nicol Bolas, the Ravager
 3 Thought Erasure
 4 Thought Erasure
-4 Nicol Bolas, the Ravager
-4 Fatal Push
 4 Kroxa, Titan of Death's Hunger
 4 Liliana, Waker of the Dead
+4 Fatal Push
+4 Nicol Bolas, the Ravager
 4 Davriel, Rogue Shadowmage
-1 Banishing Light
 1 Sigil of the Empty Throne
 1 Courser of Kruphix
+1 Banishing Light
 1 Setessan Champion
 1 Calix, Destiny's Hand
 1 Gideon's Intervention
@@ -320,9 +320,9 @@
 1 Seal Away
 1 Herald of the Pantheon
 2 Branchloft Pathway
-2 Banishing Light
 2 Setessan Champion
 2 Calix, Destiny's Hand
+2 Banishing Light
 2 Sigil of the Empty Throne
 2 Courser of Kruphix
 2 Herald of the Pantheon
@@ -385,11 +385,11 @@
 4 Shrine of the Forsaken Gods
 4 Voracious Hydra
 1 God-Eternal Kefnet
-1 Jace, Vryn's Prodigy
 1 Brazen Borrower
 1 Legion's End
+1 Jace, Vryn's Prodigy
 1 Choked Estuary
-2 Jace, Vryn's Prodigy
 2 Choked Estuary
+2 Jace, Vryn's Prodigy
 4 Dig Through Time
 5 Island
