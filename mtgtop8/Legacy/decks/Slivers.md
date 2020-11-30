@@ -26,14 +26,3 @@
 |                                                                                                |2 [Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|                                                                                                |                                                                                              |
 |                                                                                                |2 [Harmonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109706)    |                                                                                                |                                                                                              |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
-|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196) |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
-|                    4|[Predatory Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370745)|                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)          |
-|                     |                                                                                           |                    3|[Harmonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109706)    |
-|                     |                                                                                           |                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|
-|                     |                                                                                           |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-

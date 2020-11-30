@@ -75,7 +75,7 @@
 |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)             |                     |                                                                                                      |
 |                    3|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)   |                     |                                                                                                      |
 |                    3|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)                |                     |                                                                                                      |
+|                    4|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)                |                     |                                                                                                      |
 |                    4|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)        |                     |                                                                                                      |
 |                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)   |                     |                                                                                                      |
-|                    4|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)                |                     |                                                                                                      |
 
