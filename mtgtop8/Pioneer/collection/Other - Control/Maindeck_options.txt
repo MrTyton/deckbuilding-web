@@ -1,17 +1,15 @@
-2 Genesis Ultimatum
-1 Evolving Wilds
-1 Steam Vents
+2 Hinterland Harbor
+3 Hinterland Harbor
 1 Sunpetal Grove
 3 Breeding Pool
 3 Ketria Triome
 4 Ketria Triome
 1 Sulfur Falls
-1 Dryad of the Ilysian Grove
+4 Forest
 2 Mountain
-4 Island
 2 Hallowed Fountain
-1 Castle Vantress
 4 Teferi, Time Raveler
+1 Castle Vantress
 1 Shark Typhoon
 2 Shark Typhoon
 1 Mystical Dispute
@@ -20,12 +18,14 @@
 2 Kenrith, the Returned King
 1 Inspired Ultimatum
 1 Temple of Mystery
+1 Dryad of the Ilysian Grove
 1 Prophet of Kruphix
 2 Prophet of Kruphix
 2 Dryad of the Ilysian Grove
 3 Dryad of the Ilysian Grove
 4 Dryad of the Ilysian Grove
 1 Cragcrown Pathway
+4 Island
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 1 Watery Grave
@@ -92,12 +92,12 @@
 1 Aether Gust
 3 Stomping Ground
 1 Geier Reach Sanitarium
-1 Day's Undoing
 1 Heartless Act
+1 Day's Undoing
 1 Kalitas, Traitor of Ghet
 2 Heartless Act
-1 Hero's Downfall
 1 Castle Locthwain
+1 Hero's Downfall
 1 Censor
 2 Censor
 1 Negate
@@ -164,20 +164,20 @@
 1 Clearwater Pathway
 1 Drown in the Loch
 1 Merfolk Secretkeeper
-1 Sea Gate Stormcaller
 1 Jwari Disruption
 1 Didn't Say Please
 1 Ipnu Rivulet
 1 Maddening Cacophony
 1 Drowned Secrets
+1 Sea Gate Stormcaller
 1 Fraying Sanity
 1 Crypt Incursion
 1 Breaking / Entering
 1 Ruin Crab
 2 Merfolk Secretkeeper
-2 Clearwater Pathway
 2 Didn't Say Please
 2 Jwari Disruption
+2 Clearwater Pathway
 2 Drown in the Loch
 2 Maddening Cacophony
 2 Crypt Incursion
@@ -216,8 +216,8 @@
 1 Languish
 2 Scarab Feast
 2 Languish
-2 Day's Undoing
 2 Kalitas, Traitor of Ghet
+2 Day's Undoing
 1 Terror of the Peaks
 2 Terror of the Peaks
 1 Voice of Resurgence
@@ -241,13 +241,13 @@
 1 Ritual of Soot
 1 Glimmer of Genius
 1 Sinister Sabotage
+2 Castle Locthwain
 2 Void Shatter
 2 Torrential Gearhulk
 2 Castle Vantress
 2 Negate
 2 Ritual of Soot
 2 Glimmer of Genius
-2 Castle Locthwain
 3 Fetid Pools
 3 Void Shatter
 3 Field of Ruin
@@ -384,12 +384,12 @@
 4 Botanical Sanctum
 4 Shrine of the Forsaken Gods
 4 Voracious Hydra
+1 Jace, Vryn's Prodigy
 1 God-Eternal Kefnet
 1 Brazen Borrower
 1 Legion's End
-1 Jace, Vryn's Prodigy
 1 Choked Estuary
-2 Choked Estuary
 2 Jace, Vryn's Prodigy
+2 Choked Estuary
 4 Dig Through Time
 5 Island

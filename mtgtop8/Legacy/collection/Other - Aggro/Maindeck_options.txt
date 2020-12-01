@@ -1,8 +1,8 @@
 1 Windswept Heath
 2 Windswept Heath
 1 Savannah
-1 Scavenging Ooze
 1 Dryad Arbor
+1 Scavenging Ooze
 1 Green Sun's Zenith
 2 Green Sun's Zenith
 3 Green Sun's Zenith
@@ -22,6 +22,11 @@
 2 Savannah
 1 Forest
 1 Fauna Shaman
+1 Umezawa's Jitte
+1 Aether Vial
+2 Aether Vial
+3 Aether Vial
+4 Aether Vial
 2 Scryb Ranger
 2 Birds of Paradise
 3 Birds of Paradise
@@ -29,9 +34,7 @@
 1 Abrupt Decay
 1 Sanctum Prelate
 1 Vendilion Clique
-1 Umezawa's Jitte
 1 Spell Queller
-1 Aether Vial
 1 Leovold, Emissary of Trest
 1 Phyrexian Revoker
 1 Palace Jailer
@@ -42,14 +45,11 @@
 1 Atraxa, Praetors' Voice
 2 Tropical Island
 2 Bayou
-2 Aether Vial
 2 Mother of Runes
 2 Fauna Shaman
 3 Misty Rainforest
-3 Aether Vial
 3 Fauna Shaman
 3 Mother of Runes
-4 Aether Vial
 4 Misty Rainforest
 4 Fauna Shaman
 2 Forest
@@ -71,9 +71,9 @@
 1 Ramunap Excavator
 1 Ancient Tomb
 2 Ancient Tomb
-1 Chrome Mox
-1 City of Traitors
 1 Chalice of the Void
+1 City of Traitors
+1 Chrome Mox
 2 Chalice of the Void
 2 City of Traitors
 2 Chrome Mox
@@ -83,15 +83,15 @@
 4 City of Traitors
 4 Chalice of the Void
 4 Ancient Tomb
-1 Questing Beast
 1 Hexdrinker
+1 Questing Beast
 4 Green Sun's Zenith
+1 Wasteland
+2 Wasteland
 1 Wooded Foothills
 2 Wooded Foothills
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
-1 Wasteland
-2 Wasteland
 3 Noble Hierarch
 3 Wasteland
 4 Noble Hierarch
@@ -103,10 +103,10 @@
 1 Sylvan Library
 1 Knight of the Reliquary
 1 Collector Ouphe
+1 Horizon Canopy
 1 Snow-Covered Plains
 1 Gaea's Cradle
 1 Karakas
-1 Horizon Canopy
 2 Oko, Thief of Crowns
 2 Verdant Catacombs
 2 Skyclave Apparition
@@ -161,8 +161,8 @@
 3 Angrath's Marauders
 3 Trinisphere
 4 Legion Warboss
-4 Goblin Rabblemaster
 4 Plateau
+4 Goblin Rabblemaster
 4 Winota, Joiner of Forces
 4 Angrath's Marauders
 1 Grove of the Burnwillows
@@ -184,8 +184,8 @@
 2 Bonecrusher Giant
 2 Tireless Tracker
 2 Prismatic Vista
-2 Pillage
 2 Bloodbraid Elf
+2 Pillage
 2 Klothys, God of Destiny
 3 Bonecrusher Giant
 3 Lightning Bolt
@@ -256,6 +256,54 @@
 4 Moraug, Fury of Akoum
 4 Didgeridoo
 5 Mountain
+1 Island
+1 Ninja of the Deep Hours
+1 Force of Negation
+1 Mausoleum Wanderer
+1 Flusterstorm
+1 Skaab Ruinator
+1 Spellstutter Sprite
+1 Judge's Familiar
+1 Nivmagus Elemental
+1 Disrupting Shoal
+1 Daze
+1 Sky Hussar
+1 Martyr of Frost
+1 Ancestral Vision
+2 Island
+2 Ninja of the Deep Hours
+2 Force of Negation
+2 Mausoleum Wanderer
+2 Brazen Borrower
+2 Ancestral Vision
+2 Nivmagus Elemental
+2 Sky Hussar
+2 Martyr of Frost
+2 Spellstutter Sprite
+2 Disrupting Shoal
+2 Daze
+2 Flusterstorm
+2 Judge's Familiar
+2 Umezawa's Jitte
+3 Island
+3 Mausoleum Wanderer
+3 Flusterstorm
+3 Judge's Familiar
+3 Daze
+3 Sky Hussar
+3 Martyr of Frost
+4 Island
+4 Daze
+4 Mausoleum Wanderer
+4 Judge's Familiar
+4 Sky Hussar
+5 Island
+6 Island
+7 Island
+8 Island
+9 Island
+10 Island
+11 Island
 1 Berserk
 1 Seal of Strength
 1 Nettle Sentinel
@@ -273,28 +321,28 @@
 2 Might of Old Krosa
 2 Dryad Militant
 2 Rancor
+2 Seal of Strength
 2 Skarrgan Pit-Skulk
 2 Invigorate
-2 Seal of Strength
 2 Nettle Sentinel
 2 Kavu Predator
-3 Rancor
 3 Berserk
 3 Invigorate
+3 Rancor
 3 Seal of Strength
+3 Jungle Lion
 3 Kavu Predator
 3 Silhana Ledgewalker
-3 Jungle Lion
 3 Might of Old Krosa
 3 Dryad Militant
 3 Skarrgan Pit-Skulk
 4 Might of Old Krosa
 4 Kavu Predator
 4 Rancor
+4 Invigorate
 4 Berserk
 4 Jungle Lion
 4 Dryad Militant
-4 Invigorate
 4 Skarrgan Pit-Skulk
 4 Silhana Ledgewalker
 5 Forest

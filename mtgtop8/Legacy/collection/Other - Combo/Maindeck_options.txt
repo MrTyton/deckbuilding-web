@@ -1,3 +1,11 @@
+4 Ponder
+1 Teferi, Time Raveler
+1 Tundra
+1 Snapcaster Mage
+2 Teferi, Time Raveler
+3 Teferi, Time Raveler
+3 Flooded Strand
+4 Flooded Strand
 1 Thassa's Oracle
 1 Thought Lash
 2 Thassa's Oracle
@@ -5,7 +13,13 @@
 3 Thought Lash
 3 Thassa's Oracle
 4 Thassa's Oracle
-4 Ponder
+1 Spell Pierce
+1 Snow-Covered Island
+1 Prismatic Vista
+2 Prismatic Vista
+2 Spell Pierce
+2 Snow-Covered Island
+3 Snow-Covered Island
 1 Aether Vial
 1 Baleful Strix
 1 Eliminate
@@ -13,11 +27,7 @@
 1 Scrubland
 1 Meddling Mage
 1 Plains
-1 Teferi, Time Raveler
 1 Divining Witch
-1 Tundra
-1 Snapcaster Mage
-2 Teferi, Time Raveler
 2 Aether Vial
 2 Scrubland
 2 Meddling Mage
@@ -25,13 +35,10 @@
 2 Divining Witch
 2 Eliminate
 3 Aether Vial
-3 Teferi, Time Raveler
-3 Flooded Strand
 3 Meddling Mage
 3 Baleful Strix
 3 Divining Witch
 4 Aether Vial
-4 Flooded Strand
 4 Divining Witch
 4 Baleful Strix
 1 Ancient Tomb
@@ -43,40 +50,58 @@
 1 Waterlogged Grove
 1 Tropical Island
 1 Uro, Titan of Nature's Wrath
-1 Spell Pierce
-1 Oko, Thief of Crowns
 1 Relic of Progenitus
+1 Oko, Thief of Crowns
 1 Veil of Summer
-1 Snow-Covered Island
 1 Sylvan Library
 1 Misty Rainforest
 1 Paradigm Shift
-1 Prismatic Vista
 1 Jace, Wielder of Mysteries
 1 Shelldock Isle
-2 Prismatic Vista
-2 Spell Pierce
 2 Tropical Island
 2 Uro, Titan of Nature's Wrath
 2 Misty Rainforest
 2 Oko, Thief of Crowns
 2 Jace, Wielder of Mysteries
 2 Waterlogged Grove
-2 Snow-Covered Island
 2 Veil of Summer
 2 Shelldock Isle
 2 Paradigm Shift
 3 Misty Rainforest
 3 Paradigm Shift
-3 Snow-Covered Island
 3 Shelldock Isle
 4 Misty Rainforest
 4 Thought Lash
 4 Paradigm Shift
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+1 Lightning Bolt
+1 Vendilion Clique
+1 Pestermite
+1 Snow-Covered Plains
+1 Arid Mesa
+1 Arcum's Astrolabe
+1 Splinter Twin
+1 Deceiver Exarch
+1 Swords to Plowshares
+2 Snapcaster Mage
+2 Arcum's Astrolabe
+2 Swords to Plowshares
+2 Splinter Twin
+2 Deceiver Exarch
+3 Deceiver Exarch
+3 Splinter Twin
+3 Arcum's Astrolabe
+3 Spell Pierce
+3 Swords to Plowshares
+4 Teferi, Time Raveler
+4 Splinter Twin
+4 Deceiver Exarch
+4 Swords to Plowshares
+4 Arcum's Astrolabe
 1 Emrakul, the Aeons Torn
 1 Inferno Titan
 1 Simian Spirit Guide
-1 Snow-Covered Mountain
 1 Ashen Rider
 1 Griselbrand
 1 Sneak Attack
@@ -90,7 +115,6 @@
 2 Inferno Titan
 2 Emrakul, the Aeons Torn
 2 Simian Spirit Guide
-2 Snow-Covered Mountain
 2 Defense Grid
 2 Ashen Rider
 2 Ilharg, the Raze-Boar
@@ -104,12 +128,12 @@
 3 Simian Spirit Guide
 3 Snow-Covered Mountain
 3 Defense Grid
+3 Through the Breach
 3 Inferno Titan
 3 Griselbrand
 3 Sneak Attack
 3 Seething Song
 3 Ilharg, the Raze-Boar
-3 Through the Breach
 4 Ancient Tomb
 4 Seething Song
 4 City of Traitors
@@ -117,9 +141,9 @@
 4 Simian Spirit Guide
 4 Through the Breach
 4 Inferno Titan
-4 Emrakul, the Aeons Torn
 4 Sneak Attack
 4 Griselbrand
+4 Emrakul, the Aeons Torn
 4 Defense Grid
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain

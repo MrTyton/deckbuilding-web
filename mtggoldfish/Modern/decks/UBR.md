@@ -31,9 +31,9 @@
 |---------------------|-------------|--------------------:|------------------------------------------------------------------------------------------------|
 |                     |             |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)         |
 |                     |             |                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)      |
-|                     |             |                    1|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
 |                     |             |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)          |
+|                     |             |                    1|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
+|                     |             |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)     |
 |                     |             |                    2|[Ceremonious Rejection](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417613)|
 |                     |             |                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)          |
-|                     |             |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)     |
 
