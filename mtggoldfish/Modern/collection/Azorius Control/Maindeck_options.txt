@@ -37,8 +37,8 @@
 1 Supreme Verdict
 1 Glacial Fortress
 2 Condemn
-1 Stoneforge Mystic
 1 Batterskull
+1 Stoneforge Mystic
 1 Sword of Feast and Famine
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -77,15 +77,15 @@
 1 Sacred Foundry
 1 Lightning Helix
 1 Mountain
-1 Lightning Bolt
 1 Raugrin Triome
+1 Lightning Bolt
 2 Lightning Helix
 2 Cleansing Wildfire
-2 Lightning Bolt
 2 Flagstones of Trokair
+2 Lightning Bolt
 3 Scalding Tarn
-3 Lightning Bolt
 3 Cleansing Wildfire
+3 Lightning Bolt
 3 Lightning Helix
 3 Flagstones of Trokair
 4 Remand
@@ -97,6 +97,7 @@
 1 Castle Ardenvale
 1 Narset, Parter of Veils
 1 Telling Time
+3 Glacial Fortress
 1 Skyclave Apparition
 1 Emeria's Call
 1 Restoration Angel
@@ -109,7 +110,6 @@
 2 Spell Queller
 2 Peek
 3 Restoration Angel
-3 Glacial Fortress
 1 Time Warp
 1 Monastery Mentor
 1 God-Eternal Kefnet
@@ -128,5 +128,5 @@
 4 Lightning Bolt
 6 Snow-Covered Island
 3 Mystic Gate
-4 Celestial Colonnade
 4 Cryptic Command
+4 Celestial Colonnade

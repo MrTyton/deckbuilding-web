@@ -1,5 +1,3 @@
-1 Archon of Emeria
-2 Archon of Emeria
 4 Selfless Savior
 2 Alseid of Life's Bounty
 3 Alseid of Life's Bounty
@@ -10,28 +8,30 @@
 2 Speaker of the Heavens
 3 Speaker of the Heavens
 1 Daxos, Blessed by the Sun
-4 Speaker of the Heavens
-2 Linden, the Steadfast Queen
-3 Linden, the Steadfast Queen
 2 Heliod, Sun-Crowned
 2 Daxos, Blessed by the Sun
 3 Daxos, Blessed by the Sun
-4 Alseid of Life's Bounty
-1 Sejiri Shelter
+1 Archon of Emeria
+2 Archon of Emeria
 4 Castle Ardenvale
+4 Speaker of the Heavens
+2 Linden, the Steadfast Queen
+3 Linden, the Steadfast Queen
+4 Alseid of Life's Bounty
+1 Sentinel's Eyes
+1 Sejiri Shelter
 3 Heliod, Sun-Crowned
 19 Plains
 2 Kabira Takedown
-1 Sentinel's Eyes
 1 Lavabrink Venturer
 2 Lavabrink Venturer
 4 Giant Killer
 1 Temple of Triumph
 1 Embercleave
-1 Goma Fada Vanguard
-1 Winota, Joiner of Forces
 1 Kor Blademaster
+1 Goma Fada Vanguard
 1 Fireblade Charger
+1 Winota, Joiner of Forces
 1 Mountain
 1 Nahiri, Heir of the Ancients
 1 Expedition Champion
@@ -39,24 +39,24 @@
 1 Sea Gate Banneret
 1 Kargan Warleader
 2 Temple of Triumph
-2 Goma Fada Vanguard
-2 Winota, Joiner of Forces
 2 Kargan Warleader
 2 Kor Blademaster
 2 Haktos the Unscarred
 2 Embercleave
 2 Sea Gate Banneret
+2 Winota, Joiner of Forces
 2 Fireblade Charger
 2 Nahiri, Heir of the Ancients
 2 Mountain
+2 Goma Fada Vanguard
 2 Expedition Champion
 3 Mountain
-3 Goma Fada Vanguard
-3 Winota, Joiner of Forces
 3 Expedition Champion
 3 Kor Blademaster
 3 Kargan Warleader
+3 Winota, Joiner of Forces
 3 Sea Gate Banneret
+3 Goma Fada Vanguard
 3 Fireblade Charger
 4 Mountain
 4 Sea Gate Banneret
@@ -73,12 +73,14 @@
 10 Mountain
 11 Mountain
 1 Charming Prince
+4 Daxos, Blessed by the Sun
 1 Luminous Broodmoth
 3 Lurrus of the Dream-Den
 1 Heliod's Punishment
 2 Heliod's Punishment
 20 Plains
 21 Plains
+1 Banishing Light
 1 All That Glitters
 2 All That Glitters
 3 All That Glitters
@@ -105,10 +107,11 @@
 2 Angelic Ascension
 3 Angelic Ascension
 3 Heliod's Punishment
-4 Daxos, Blessed by the Sun
 2 Charming Prince
 3 Charming Prince
 4 Charming Prince
+1 Basri Ket
+4 Glass Casket
 1 Bonders' Enclave
 1 Pacifism
 2 Pacifism
@@ -119,31 +122,9 @@
 1 Hushbringer
 2 Hushbringer
 3 Hushbringer
-4 Kabira Takedown
 4 Hushbringer
-1 Realm-Cloaked Giant
-1 Basri's Lieutenant
-1 Mazemind Tome
-1 Drannith Magistrate
-1 Elspeth Conquers Death
-2 Realm-Cloaked Giant
-2 Basri's Lieutenant
-2 Crawling Barrens
-2 Mazemind Tome
-2 Drannith Magistrate
-2 Elspeth Conquers Death
-3 Sejiri Shelter
-3 Basri's Lieutenant
-3 Drannith Magistrate
-3 Baneslayer Angel
-3 Mazemind Tome
-3 Elspeth Conquers Death
-4 Baneslayer Angel
-4 Basri's Lieutenant
-4 Drannith Magistrate
-4 Mazemind Tome
+4 Kabira Takedown
 1 Crystalline Giant
-1 Banishing Light
 1 Gingerbrute
 1 Dub
 2 Gingerbrute
@@ -151,8 +132,8 @@
 3 Gingerbrute
 3 Crystalline Giant
 4 All That Glitters
-4 Crystalline Giant
 4 Gingerbrute
+4 Crystalline Giant
 1 Daybreak Charger
 1 Idyllic Grange
 1 Daybreak Chimera
@@ -177,3 +158,24 @@
 4 Daybreak Charger
 4 Basri's Acolyte
 4 Sunlit Hoplite
+1 Realm-Cloaked Giant
+1 Basri's Lieutenant
+1 Mazemind Tome
+1 Drannith Magistrate
+1 Elspeth Conquers Death
+2 Realm-Cloaked Giant
+2 Basri's Lieutenant
+2 Crawling Barrens
+2 Mazemind Tome
+2 Drannith Magistrate
+2 Elspeth Conquers Death
+3 Sejiri Shelter
+3 Basri's Lieutenant
+3 Drannith Magistrate
+3 Baneslayer Angel
+3 Mazemind Tome
+3 Elspeth Conquers Death
+4 Basri's Lieutenant
+4 Mazemind Tome
+4 Baneslayer Angel
+4 Drannith Magistrate

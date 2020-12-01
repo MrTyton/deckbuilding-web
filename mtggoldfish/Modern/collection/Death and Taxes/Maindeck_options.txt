@@ -8,21 +8,21 @@
 1 Sword of Light and Shadow
 1 Castle Ardenvale
 1 Snow-Covered Plains
-1 Noble Hierarch
-1 Branchloft Pathway
-1 Razorverge Thicket
 1 Temple Garden
-2 Noble Hierarch
-2 Branchloft Pathway
-2 Temple Garden
+1 Razorverge Thicket
+1 Branchloft Pathway
+1 Noble Hierarch
 2 Razorverge Thicket
-3 Noble Hierarch
+2 Temple Garden
+2 Branchloft Pathway
+2 Noble Hierarch
 3 Branchloft Pathway
-3 Temple Garden
 3 Razorverge Thicket
-4 Noble Hierarch
+3 Noble Hierarch
+3 Temple Garden
 4 Razorverge Thicket
 4 Temple Garden
+4 Noble Hierarch
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 1 Charming Prince
@@ -35,21 +35,21 @@
 1 Militia Bugler
 2 Sunbaked Canyon
 2 Militia Bugler
-1 Kazandu Mammoth
-1 Snow-Covered Forest
-1 Eternal Witness
 1 Brushland
+1 Eternal Witness
+1 Snow-Covered Forest
+1 Kazandu Mammoth
 1 Collected Company
 2 Eternal Witness
 2 Brushland
-2 Collected Company
 2 Kazandu Mammoth
+2 Collected Company
 3 Collected Company
 4 Collected Company
 4 Branchloft Pathway
+1 Spellskite
 1 Blast Zone
 1 Winds of Abandon
-1 Spellskite
 2 Spellskite
 3 Militia Bugler
 4 Militia Bugler
@@ -71,8 +71,8 @@
 1 Smuggler's Copter
 1 Blade Splicer
 1 Thraben Inspector
-2 Smuggler's Copter
 2 Castle Ardenvale
+2 Smuggler's Copter
 2 Blade Splicer
 2 Thraben Inspector
 3 Blade Splicer
@@ -82,54 +82,54 @@
 19 Plains
 20 Plains
 2 Shefet Dunes
+1 Glacial Fortress
+1 Deputy of Detention
 1 Unsettled Mariner
+1 Geist of Saint Traft
 1 Snow-Covered Island
+1 Spell Queller
 1 Hallowed Fountain
 1 Seachrome Coast
-1 Deputy of Detention
-1 Glacial Fortress
-1 Spell Queller
-1 Geist of Saint Traft
 1 Steel of the Godhead
 2 Unsettled Mariner
-2 Hallowed Fountain
-2 Snow-Covered Island
-2 Seachrome Coast
 2 Geist of Saint Traft
 2 Spell Queller
+2 Snow-Covered Island
 2 Steel of the Godhead
-3 Unsettled Mariner
+2 Hallowed Fountain
+2 Seachrome Coast
 3 Snow-Covered Island
+3 Unsettled Mariner
 3 Spell Queller
 3 Geist of Saint Traft
 4 Spell Queller
-1 Sacred Foundry
-1 Grim Lavamancer
-1 Judge's Familiar
-1 Inspiring Vantage
-1 Goblin Cratermaker
-1 Selfless Spirit
-1 Weathered Wayfarer
-1 Lurrus of the Dream-Den
-1 Arid Mesa
-1 Needleverge Pathway
-1 Jaya Ballard, Task Mage
-1 Lightning Bolt
-1 Mirran Crusader
-1 Slayers' Stronghold
-2 Judge's Familiar
-2 Inspiring Vantage
-2 Sacred Foundry
-2 Selfless Spirit
-2 Mirran Crusader
-2 Slayers' Stronghold
-2 Lightning Bolt
-3 Judge's Familiar
-3 Sacred Foundry
-3 Inspiring Vantage
-3 Selfless Spirit
-3 Slayers' Stronghold
-4 Judge's Familiar
-4 Inspiring Vantage
 1 Tectonic Edge
 4 Silent Clearing
+1 Mirran Crusader
+1 Lurrus of the Dream-Den
+1 Needleverge Pathway
+1 Lightning Bolt
+1 Grim Lavamancer
+1 Judge's Familiar
+1 Selfless Spirit
+1 Goblin Cratermaker
+1 Weathered Wayfarer
+1 Arid Mesa
+1 Sacred Foundry
+1 Jaya Ballard, Task Mage
+1 Inspiring Vantage
+1 Slayers' Stronghold
+2 Sacred Foundry
+2 Mirran Crusader
+2 Judge's Familiar
+2 Lightning Bolt
+2 Selfless Spirit
+2 Slayers' Stronghold
+2 Inspiring Vantage
+3 Judge's Familiar
+3 Inspiring Vantage
+3 Slayers' Stronghold
+3 Selfless Spirit
+3 Sacred Foundry
+4 Judge's Familiar
+4 Inspiring Vantage

@@ -1,11 +1,11 @@
-4 Mountain
-2 Raugrin Triome
 1 Shatterskull Smashing
+3 Frostveil Ambush
+2 Raugrin Triome
 3 Brightclimb Pathway
 4 Brightclimb Pathway
-4 Boon of the Wish-Giver
 1 Clearwater Pathway
 2 Shatterskull Smashing
+4 Boon of the Wish-Giver
 1 Shredded Sails
 2 Shredded Sails
 3 Shredded Sails
@@ -13,9 +13,9 @@
 2 Ominous Seas
 3 Shatterskull Smashing
 1 Savai Triome
-5 Mountain
 5 Plains
 6 Plains
+5 Mountain
 6 Mountain
 7 Plains
 8 Plains
@@ -24,57 +24,54 @@
 4 Frostveil Ambush
 9 Plains
 1 Embercleave
-1 Castle Embereth
-1 Seasoned Hallowblade
-1 Fireblade Charger
+1 Luminarch Aspirant
 1 Robber of the Rich
 1 Bonecrusher Giant
-1 Skyclave Apparition
-1 Archpriest of Iona
+1 Seasoned Hallowblade
 1 Selfless Savior
-1 Relic Robber
-1 Luminarch Aspirant
-2 Fireblade Charger
-2 Seasoned Hallowblade
+2 Luminarch Aspirant
 2 Robber of the Rich
 2 Bonecrusher Giant
+2 Seasoned Hallowblade
 2 Embercleave
+2 Selfless Savior
+3 Luminarch Aspirant
+3 Robber of the Rich
+3 Seasoned Hallowblade
+3 Selfless Savior
+4 Seasoned Hallowblade
+4 Robber of the Rich
+4 Selfless Savior
+1 Castle Embereth
+1 Fireblade Charger
+1 Skyclave Apparition
+1 Archpriest of Iona
+1 Relic Robber
+2 Fireblade Charger
 2 Relic Robber
 2 Archpriest of Iona
-2 Luminarch Aspirant
 2 Skyclave Apparition
-2 Selfless Savior
 3 Fireblade Charger
 3 Relic Robber
-3 Seasoned Hallowblade
-3 Robber of the Rich
 3 Embercleave
 3 Skyclave Apparition
-3 Selfless Savior
 3 Archpriest of Iona
-3 Luminarch Aspirant
-4 Seasoned Hallowblade
-4 Relic Robber
-4 Robber of the Rich
-4 Skyclave Apparition
-4 Selfless Savior
-4 Embercleave
 4 Luminarch Aspirant
+4 Relic Robber
+4 Skyclave Apparition
+4 Embercleave
 1 Yidaro, Wandering Monster
 2 Yidaro, Wandering Monster
 3 Raugrin Triome
 3 Yidaro, Wandering Monster
 4 Yidaro, Wandering Monster
+3 Bonecrusher Giant
+4 Bonecrusher Giant
+1 Temple of Triumph
+2 Temple of Triumph
+3 Temple of Triumph
+4 Temple of Triumph
 1 Emeria's Call
-2 Emeria's Call
-1 Cragcrown Pathway
-1 Branchloft Pathway
-2 Cragcrown Pathway
-2 Branchloft Pathway
-3 Branchloft Pathway
-3 Cragcrown Pathway
-4 Cragcrown Pathway
-4 Branchloft Pathway
 1 Splendor Mare
 2 Splendor Mare
 1 Temple of Epiphany
@@ -82,37 +79,31 @@
 1 Temple of Enlightenment
 1 Teferi's Ageless Insight
 2 Teferi's Ageless Insight
+2 Emeria's Call
 1 Call of the Death-Dweller
 1 Easy Prey
 2 Easy Prey
-1 Jolrael, Mwonvuli Recluse
-2 Jolrael, Mwonvuli Recluse
-3 Jolrael, Mwonvuli Recluse
-1 Fiend Artisan
-1 Titanoth Rex
-1 Imposing Vantasaur
-1 Indatha Triome
-2 Fiend Artisan
-2 Imposing Vantasaur
-2 Titanoth Rex
-3 Fiend Artisan
-3 Splendor Mare
-3 Titanoth Rex
-3 Imposing Vantasaur
-4 Fiend Artisan
-4 Imposing Vantasaur
-1 Temple of Triumph
 2 Castle Embereth
-2 Temple of Triumph
-3 Temple of Triumph
 4 Fireblade Charger
 4 Archpriest of Iona
-4 Temple of Triumph
-3 Bonecrusher Giant
-4 Bonecrusher Giant
-1 Raking Claws
-2 Raking Claws
-9 Mountain
+1 Castle Ardenvale
+1 Maul of the Skyclaves
+1 Faerie Guidemother
+1 Elspeth, Sun's Nemesis
+1 Fabled Passage
+1 Giant Killer
+1 Ox of Agonas
+2 Faerie Guidemother
+2 Elspeth, Sun's Nemesis
+2 Maul of the Skyclaves
+2 Ox of Agonas
+2 Fabled Passage
+2 Giant Killer
+3 Elspeth, Sun's Nemesis
+3 Giant Killer
+3 Fabled Passage
+4 Giant Killer
+4 Elspeth, Sun's Nemesis
 1 Island
 1 Improbable Alliance
 2 Island
@@ -120,3 +111,27 @@
 3 Improbable Alliance
 4 Raugrin Triome
 4 Improbable Alliance
+1 Raking Claws
+2 Raking Claws
+9 Mountain
+1 Fiend Artisan
+1 Titanoth Rex
+1 Imposing Vantasaur
+1 Indatha Triome
+1 Cragcrown Pathway
+1 Branchloft Pathway
+2 Fiend Artisan
+2 Cragcrown Pathway
+2 Imposing Vantasaur
+2 Branchloft Pathway
+2 Titanoth Rex
+3 Fiend Artisan
+3 Splendor Mare
+3 Branchloft Pathway
+3 Titanoth Rex
+3 Cragcrown Pathway
+3 Imposing Vantasaur
+4 Fiend Artisan
+4 Imposing Vantasaur
+4 Cragcrown Pathway
+4 Branchloft Pathway

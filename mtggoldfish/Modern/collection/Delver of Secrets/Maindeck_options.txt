@@ -17,9 +17,9 @@
 1 Thieves' Guild Enforcer
 2 Drown in the Loch
 2 Thieves' Guild Enforcer
-3 Inquisition of Kozilek
 3 Watery Grave
 3 Drown in the Loch
+3 Inquisition of Kozilek
 3 Thieves' Guild Enforcer
 4 Drown in the Loch
 4 Thieves' Guild Enforcer
@@ -27,8 +27,8 @@
 2 Seachrome Coast
 3 Remand
 3 Path to Exile
-1 Batterskull
 1 Stoneforge Mystic
+1 Batterskull
 1 Plains
 1 Sword of Fire and Ice
 1 Mantis Rider
@@ -41,8 +41,8 @@
 4 Mantis Rider
 4 Remand
 3 Spirebluff Canal
-1 Manamorphose
 1 Stormwing Entity
+1 Manamorphose
 2 Stormwing Entity
 2 Manamorphose
 3 Stormwing Entity
@@ -97,26 +97,26 @@
 2 Forest
 3 Uro, Titan of Nature's Wrath
 1 Fiery Islet
-1 Lava Spike
 1 Lava Dart
 1 Assault Strobe
+1 Lava Spike
 1 Monastery Swiftspear
 1 Light Up the Stage
-2 Fiery Islet
-2 Lava Spike
 2 Lava Dart
+2 Lava Spike
 2 Monastery Swiftspear
 2 Mountain
 2 Light Up the Stage
+2 Fiery Islet
 3 Lava Spike
 3 Monastery Swiftspear
 3 Light Up the Stage
 3 Fiery Islet
 3 Mountain
 3 Lava Dart
-4 Lava Spike
 4 Fiery Islet
 4 Monastery Swiftspear
+4 Lava Spike
 4 Mountain
 4 Lava Dart
 4 Light Up the Stage
@@ -127,14 +127,14 @@
 3 Steam Vents
 3 Archmage's Charm
 4 Island
-1 Rift Bolt
-2 Rift Bolt
-3 Rift Bolt
-4 Rift Bolt
 1 Surgical Extraction
 2 Surgical Extraction
 4 Lightning Helix
 4 Spirebluff Canal
+1 Rift Bolt
+2 Rift Bolt
+3 Rift Bolt
+4 Rift Bolt
 1 Into the Story
 1 Vantress Gargoyle
 2 Vantress Gargoyle
@@ -166,8 +166,8 @@
 2 Dark Confidant
 1 Blood Moon
 2 Blood Moon
-1 Terminate
 1 Young Pyromancer
+1 Terminate
 1 Gurmag Angler
 2 Terminate
 2 Young Pyromancer
@@ -180,9 +180,9 @@
 1 Tarfire
 1 Blossoming Defense
 1 Flame Slash
+2 Blossoming Defense
 2 Tarfire
 2 Flame Slash
-2 Blossoming Defense
 3 Tarfire
 1 Visions of Beyond
 2 Visions of Beyond
@@ -201,8 +201,8 @@
 1 Dreadhorde Arcanist
 2 Ancestral Vision
 2 Dreadhorde Arcanist
-3 Ancestral Vision
 3 Hallowed Fountain
+3 Ancestral Vision
 3 Dreadhorde Arcanist
 4 Ancestral Vision
 4 Dreadhorde Arcanist
@@ -224,22 +224,22 @@
 4 Soul-Scar Mage
 1 Cryptic Command
 1 Silundi Vision
+1 Mutavault
 1 Castle Vantress
 1 Oboro, Palace in the Clouds
-1 Mutavault
 1 Deliberate
 1 Psionic Blast
 1 Spellstutter Sprite
 2 Cryptic Command
-2 Spell Snare
 2 Mutavault
+2 Spell Snare
+2 Deliberate
 2 Vendilion Clique
 2 Spellstutter Sprite
 2 Psionic Blast
-2 Deliberate
 3 Cryptic Command
-3 Spellstutter Sprite
 3 Deliberate
+3 Spellstutter Sprite
 4 Cryptic Command
 6 Island
 7 Island
