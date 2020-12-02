@@ -27,10 +27,10 @@
 2 Seachrome Coast
 3 Remand
 3 Path to Exile
+1 Sword of Fire and Ice
 1 Batterskull
 1 Stoneforge Mystic
 1 Plains
-1 Sword of Fire and Ice
 1 Mantis Rider
 2 Stoneforge Mystic
 2 Mantis Rider
@@ -41,8 +41,8 @@
 4 Mantis Rider
 4 Remand
 3 Spirebluff Canal
-1 Manamorphose
 1 Stormwing Entity
+1 Manamorphose
 2 Stormwing Entity
 2 Manamorphose
 3 Stormwing Entity
@@ -206,34 +206,18 @@
 3 Ancestral Vision
 4 Ancestral Vision
 4 Dreadhorde Arcanist
-1 Magmatic Channeler
-1 Wizard's Retort
-1 Wizard's Lightning
-1 Soul-Scar Mage
-2 Magmatic Channeler
-2 Wizard's Retort
-2 Wizard's Lightning
-2 Soul-Scar Mage
-3 Magmatic Channeler
-3 Wizard's Retort
-3 Wizard's Lightning
-3 Soul-Scar Mage
-4 Magmatic Channeler
-4 Wizard's Lightning
-4 Wizard's Retort
-4 Soul-Scar Mage
 1 Cryptic Command
+1 Silundi Vision
+1 Mutavault
 1 Castle Vantress
 1 Oboro, Palace in the Clouds
-1 Mutavault
-1 Silundi Vision
 1 Deliberate
 1 Psionic Blast
 1 Spellstutter Sprite
 2 Cryptic Command
+2 Mutavault
 2 Spell Snare
 2 Deliberate
-2 Mutavault
 2 Vendilion Clique
 2 Spellstutter Sprite
 2 Psionic Blast
@@ -252,3 +236,19 @@
 14 Island
 15 Island
 16 Island
+1 Magmatic Channeler
+1 Wizard's Retort
+1 Wizard's Lightning
+1 Soul-Scar Mage
+2 Magmatic Channeler
+2 Wizard's Retort
+2 Wizard's Lightning
+2 Soul-Scar Mage
+3 Magmatic Channeler
+3 Wizard's Retort
+3 Wizard's Lightning
+3 Soul-Scar Mage
+4 Magmatic Channeler
+4 Wizard's Lightning
+4 Wizard's Retort
+4 Soul-Scar Mage

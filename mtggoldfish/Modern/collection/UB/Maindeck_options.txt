@@ -1,6 +1,6 @@
 3 Snapcaster Mage
-1 Creeping Tar Pit
 1 Spell Snare
+1 Creeping Tar Pit
 4 Flooded Strand
 1 Darkslick Shores
 2 Creeping Tar Pit
@@ -21,15 +21,15 @@
 2 Mishra's Bauble
 2 Thought Scour
 2 Soaring Thought-Thief
-2 Drown in the Loch
 2 Into the Story
+2 Drown in the Loch
 2 Swamp
 3 Thieves' Guild Enforcer
 3 Mishra's Bauble
+3 Into the Story
 3 Soaring Thought-Thief
 3 Drown in the Loch
 3 Thought Scour
-3 Into the Story
 4 Thieves' Guild Enforcer
 4 Drown in the Loch
 4 Mishra's Bauble
@@ -40,22 +40,22 @@
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
+2 Spell Snare
+1 Teferi, Hero of Dominaria
+1 Hallowed Fountain
+1 Prairie Stream
 1 Opt
 2 Opt
 3 Inquisition of Kozilek
-1 Teferi, Hero of Dominaria
 1 Deprive
 1 Kaya's Guile
 1 Teferi, Time Raveler
 1 Snow-Covered Plains
-1 Hallowed Fountain
-1 Prairie Stream
 2 Teferi, Hero of Dominaria
 2 Kaya's Guile
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
 1 Marsh Flats
-2 Spell Snare
 4 Into the Story
 2 Scalding Tarn
 3 Watery Grave
@@ -70,13 +70,13 @@
 3 Bitterblossom
 1 Spreading Seas
 2 Spreading Seas
-3 Creeping Tar Pit
 3 Opt
+3 Creeping Tar Pit
 3 Spreading Seas
 4 Opt
 4 Inquisition of Kozilek
-3 Scalding Tarn
 3 Mystic Sanctuary
+3 Scalding Tarn
 1 Brazen Borrower
 1 Despise
 2 Brazen Borrower
@@ -92,8 +92,6 @@
 2 Vendilion Clique
 3 Spellstutter Sprite
 4 Spellstutter Sprite
-1 Eliminate
-5 Snow-Covered Island
 1 Damnation
 1 Liliana, the Last Hope
 1 Consume the Meek
@@ -102,3 +100,23 @@
 2 Damnation
 4 Spreading Seas
 4 Snapcaster Mage
+1 Eliminate
+5 Snow-Covered Island
+1 Plains
+1 Supreme Verdict
+1 Mystic Gate
+1 Path to Exile
+1 Elspeth, Sun's Nemesis
+1 Oust
+1 Karn, the Great Creator
+2 Hallowed Fountain
+2 Supreme Verdict
+2 Oust
+2 Path to Exile
+2 Remand
+2 Karn, the Great Creator
+3 Spell Snare
+3 Path to Exile
+4 Path to Exile
+7 Island
+6 Island

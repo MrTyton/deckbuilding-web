@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Ram Through](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479690)           |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |
-|                    1|[Speaker of the Heavens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488246)|                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
+|                    1|[Speaker of the Heavens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488246)|                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |
+|                    1|[Ram Through](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479690)           |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
 |                    2|[Ram Through](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479690)           |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
 |                    2|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)   |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
 |                    2|[Spirit Link](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129744)           |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
