@@ -1,9 +1,9 @@
-4 Elite Guardmage
 4 Isolate
 4 Temple of Enlightenment
 4 Charming Prince
 4 Skyclave Apparition
 4 Reflector Mage
+4 Elite Guardmage
 5 Plains
 6 Plains
 7 Plains
@@ -22,9 +22,9 @@
 1 Caves of Koilos
 1 General Kudro of Drannith
 1 Giant Killer
-1 Kytheon, Hero of Akros
 1 Thalia's Lieutenant
 1 Luminarch Aspirant
+1 Kytheon, Hero of Akros
 1 Legion's Landing
 1 Shefet Dunes
 1 Dire Tactics
@@ -36,8 +36,8 @@
 2 Thalia's Lieutenant
 2 Caves of Koilos
 2 Concealed Courtyard
-2 Kytheon, Hero of Akros
 2 Luminarch Aspirant
+2 Kytheon, Hero of Akros
 2 Legion's Landing
 2 Giant Killer
 2 Shefet Dunes
@@ -151,14 +151,14 @@
 2 Benalish Marshal
 4 Luminarch Aspirant
 1 Mana Confluence
+1 Clearwater Pathway
 1 Deathrite Shaman
+1 Drown in the Loch
 1 Into the Story
 1 Merfolk Windrobber
-1 Fatal Push
 1 Watery Grave
+1 Fatal Push
 1 Thieves' Guild Enforcer
-1 Drown in the Loch
-1 Clearwater Pathway
 1 Thoughtseize
 1 Chart a Course
 1 Swamp
@@ -168,12 +168,12 @@
 1 Soaring Thought-Thief
 2 Mana Confluence
 2 Deathrite Shaman
+2 Clearwater Pathway
 2 Into the Story
 2 Watery Grave
 2 Merfolk Windrobber
 2 Thieves' Guild Enforcer
 2 Drown in the Loch
-2 Clearwater Pathway
 2 Fatal Push
 2 Thoughtseize
 2 Mutavault
@@ -181,7 +181,6 @@
 2 Botanical Sanctum
 2 Chart a Course
 3 Watery Grave
-3 Clearwater Pathway
 3 Into the Story
 3 Thieves' Guild Enforcer
 3 Merfolk Windrobber
@@ -189,16 +188,17 @@
 3 Fatal Push
 3 Thoughtseize
 3 Botanical Sanctum
+3 Clearwater Pathway
 3 Chart a Course
 3 Mutavault
 3 Soaring Thought-Thief
 3 Deathrite Shaman
 4 Into the Story
 4 Watery Grave
+4 Clearwater Pathway
 4 Thieves' Guild Enforcer
 4 Drown in the Loch
 4 Merfolk Windrobber
-4 Clearwater Pathway
 4 Thoughtseize
 4 Fatal Push
 4 Botanical Sanctum

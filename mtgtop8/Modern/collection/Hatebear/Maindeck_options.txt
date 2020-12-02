@@ -1,6 +1,6 @@
 3 Spell Queller
-4 Seachrome Coast
 4 Hallowed Fountain
+4 Seachrome Coast
 1 Glasspool Mimic
 1 Adarkar Wastes
 2 Glasspool Mimic
@@ -10,28 +10,28 @@
 4 Glasspool Mimic
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
+3 Teferi, Time Raveler
+4 Spell Queller
+1 Charming Prince
 7 Plains
 8 Plains
 1 Horizon Canopy
-3 Teferi, Time Raveler
-1 Archon of Emeria
-2 Archon of Emeria
-1 Shefet Dunes
-4 Spell Queller
-9 Plains
-1 Eiganjo Castle
 1 Selfless Savior
 1 Confounding Conundrum
 2 Selfless Savior
 2 Confounding Conundrum
 3 Confounding Conundrum
 4 Confounding Conundrum
-2 Shefet Dunes
-1 Charming Prince
-10 Plains
+1 Archon of Emeria
+2 Archon of Emeria
+1 Shefet Dunes
+9 Plains
 2 Horizon Canopy
-1 Sunbaked Canyon
+1 Eiganjo Castle
 2 Charming Prince
+2 Shefet Dunes
+1 Sunbaked Canyon
+10 Plains
 1 Lurrus of the Dream-Den
 3 Silent Clearing
 4 Silent Clearing
@@ -47,17 +47,18 @@
 4 Thought-Knot Seer
 4 Eldrazi Displacer
 4 Eldrazi Temple
+1 Cavern of Souls
+2 Cavern of Souls
 1 Sword of Feast and Famine
 1 Watcher for Tomorrow
-1 Cavern of Souls
 2 Watcher for Tomorrow
-2 Cavern of Souls
 3 Watcher for Tomorrow
 4 Watcher for Tomorrow
+2 Sunbaked Canyon
+3 Sunbaked Canyon
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
-11 Plains
 3 Charming Prince
 1 Skyclave Cleric
 1 Sword of Light and Shadow
@@ -72,11 +73,15 @@
 2 Reality Smasher
 3 Reality Smasher
 4 Reality Smasher
-2 Sunbaked Canyon
-3 Sunbaked Canyon
 1 Scavenger Grounds
 3 Horizon Canopy
 4 Horizon Canopy
+1 Inspiring Vantage
+1 Battlefield Forge
+2 Battlefield Forge
+3 Battlefield Forge
+4 Sunbaked Canyon
+4 Battlefield Forge
 1 Deputy of Detention
 2 Deputy of Detention
 2 Lurrus of the Dream-Den
@@ -84,31 +89,60 @@
 3 Skyclave Cleric
 4 Skyclave Cleric
 1 Tidehollow Sculler
-1 Tectonic Edge
 1 Brightclimb Pathway
+1 Tectonic Edge
+1 Concealed Courtyard
 1 Swamp
 1 Caves of Koilos
-1 Concealed Courtyard
 1 Wasteland Strangler
 2 Tidehollow Sculler
 2 Brightclimb Pathway
 2 Concealed Courtyard
 2 Caves of Koilos
 2 Wasteland Strangler
-3 Tidehollow Sculler
 3 Brightclimb Pathway
 3 Concealed Courtyard
 3 Wasteland Strangler
 3 Caves of Koilos
+3 Tidehollow Sculler
 4 Tidehollow Sculler
 4 Charming Prince
 4 Wasteland Strangler
 4 Brightclimb Pathway
 4 Concealed Courtyard
 4 Caves of Koilos
+1 Sacred Foundry
+1 Pia and Kiran Nalaar
+1 Embercleave
+1 Needleverge Pathway
+1 Winota, Joiner of Forces
+1 Mountain
+1 Angrath's Marauders
+1 Smuggler's Copter
+1 Seasoned Pyromancer
+2 Sacred Foundry
+2 Inspiring Vantage
+2 Needleverge Pathway
+2 Pia and Kiran Nalaar
+2 Winota, Joiner of Forces
+2 Seasoned Pyromancer
+2 Angrath's Marauders
+3 Sacred Foundry
+3 Inspiring Vantage
+3 Needleverge Pathway
+3 Angrath's Marauders
+3 Seasoned Pyromancer
+3 Winota, Joiner of Forces
+4 Needleverge Pathway
+4 Sacred Foundry
+4 Inspiring Vantage
+4 Seasoned Pyromancer
+4 Winota, Joiner of Forces
+4 Angrath's Marauders
 1 Akroma, Angel of Fury
 3 Shefet Dunes
 4 Shefet Dunes
+11 Plains
 12 Plains
 1 Spellskite
 1 Linvala, Keeper of Silence
@@ -120,43 +154,37 @@
 2 Unsettled Mariner
 2 Spirit of the Labyrinth
 2 Island
-2 Tale's End
 2 Mausoleum Wanderer
+2 Tale's End
 3 Unsettled Mariner
 3 Island
 1 Bonecrusher Giant
 1 Simian Spirit Guide
-1 Inspiring Vantage
-1 Battlefield Forge
 1 Gemstone Caverns
-1 Containment Priest
 1 Chalice of the Void
+1 Containment Priest
 2 Bonecrusher Giant
 2 Simian Spirit Guide
-2 Battlefield Forge
 2 Containment Priest
 2 Gemstone Caverns
 2 Chalice of the Void
 3 Containment Priest
 3 Simian Spirit Guide
-3 Battlefield Forge
 3 Chalice of the Void
 3 Gemstone Caverns
 4 Containment Priest
-4 Sunbaked Canyon
-4 Battlefield Forge
 4 Chalice of the Void
 4 Simian Spirit Guide
 1 Branchloft Pathway
-1 Aven Mindcensor
 1 Razorverge Thicket
+1 Aven Mindcensor
 1 Noble Hierarch
 1 Temple Garden
 1 Forest
-2 Branchloft Pathway
 2 Temple Garden
-2 Aven Mindcensor
+2 Branchloft Pathway
 2 Razorverge Thicket
+2 Aven Mindcensor
 2 Noble Hierarch
 3 Branchloft Pathway
 3 Razorverge Thicket

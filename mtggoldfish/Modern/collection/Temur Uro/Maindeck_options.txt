@@ -1,69 +1,100 @@
-1 Archmage's Charm
-2 Archmage's Charm
-1 Field of the Dead
+1 Mountain
+2 Island
 4 Cryptic Command
-2 Izzet Charm
-1 Shark Typhoon
 1 Jace, the Mind Sculptor
+1 Field of the Dead
 2 Field of the Dead
-1 Snapcaster Mage
 1 Field of Ruin
 1 Lonely Sandbar
-1 Wooded Foothills
 1 Spell Snare
-1 Flooded Strand
+1 Shark Typhoon
+2 Izzet Charm
 3 Archmage's Charm
 1 Mana Leak
 2 Mana Leak
+4 Scapeshift
+1 Flooded Strand
+2 Jace, the Mind Sculptor
+1 Wooded Foothills
 1 Abrade
 2 Spell Snare
-3 Snow-Covered Island
-4 Scapeshift
-1 Silundi Vision
-2 Wooded Foothills
 1 Hour of Promise
-2 Jace, the Mind Sculptor
+2 Wooded Foothills
 1 Castle Vantress
+3 Snow-Covered Island
+1 Silundi Vision
+1 Snapcaster Mage
+1 Flame Slash
 1 Search for Tomorrow
 2 Search for Tomorrow
 3 Search for Tomorrow
-2 Shark Typhoon
-2 Snow-Covered Forest
-3 Island
-1 Flame Slash
-2 Field of Ruin
-2 Snapcaster Mage
-3 Force of Negation
 1 Firespout
-1 Abundant Growth
+2 Field of Ruin
+2 Snow-Covered Forest
+3 Wooded Foothills
+1 Waterlogged Grove
 1 Ice-Fang Coatl
+1 Abundant Growth
 1 Prismatic Vista
-2 Abundant Growth
 2 Ice-Fang Coatl
 2 Prismatic Vista
+2 Abundant Growth
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
-1 Waterlogged Grove
-3 Wooded Foothills
+2 Snapcaster Mage
+1 Mystical Dispute
+1 Reflecting Pool
+1 Tectonic Edge
 1 Sulfur Falls
 1 Polluted Delta
+3 Force of Negation
 4 Archmage's Charm
+1 Time Warp
+2 Time Warp
+3 Time Warp
+4 Time Warp
+3 Snow-Covered Forest
+1 Utopia Sprawl
+1 Tamiyo, Collector of Tales
+1 Arbor Elf
+2 Utopia Sprawl
+2 Arbor Elf
+2 Tamiyo, Collector of Tales
+3 Jace, the Mind Sculptor
+3 Arbor Elf
+3 Prismatic Vista
+3 Tamiyo, Collector of Tales
+3 Utopia Sprawl
+4 Utopia Sprawl
+4 Arbor Elf
+4 Prismatic Vista
+2 Shark Typhoon
 1 Opt
 2 Opt
 3 Opt
+3 Island
 4 Search for Tomorrow
+2 Hour of Promise
 1 Explore
+3 Abundant Growth
 1 Primeval Titan
 2 Primeval Titan
+1 Wilderness Reclamation
+1 Hinterland Harbor
+1 Blast Zone
+3 Hour of Promise
+1 Fact or Fiction
+2 Fact or Fiction
+3 Mystic Sanctuary
 1 Arboreal Grazer
 2 Arboreal Grazer
 2 Explore
 3 Explore
 3 Primeval Titan
 4 Primeval Titan
+2 Forest
 1 Radiant Fountain
 1 Ghost Quarter
-1 Cavern of Souls
 1 Dryad of the Ilysian Grove
 1 Azusa, Lost but Seeking
 1 Simic Growth Chamber
@@ -72,12 +103,12 @@
 1 Amulet of Vigor
 1 Castle Garenbrig
 1 Gruul Turf
-1 Tolaria West
+1 Cavern of Souls
 1 Vesuva
+1 Tolaria West
 1 Bojuka Bog
 1 Hanweir Battlements
 2 Dryad of the Ilysian Grove
-2 Cavern of Souls
 2 Gruul Turf
 2 Amulet of Vigor
 2 Castle Garenbrig
@@ -85,6 +116,7 @@
 2 Simic Growth Chamber
 2 Azusa, Lost but Seeking
 2 Tolaria West
+2 Cavern of Souls
 3 Dryad of the Ilysian Grove
 3 Simic Growth Chamber
 3 Gruul Turf
@@ -95,75 +127,19 @@
 4 Simic Growth Chamber
 4 Amulet of Vigor
 4 Gruul Turf
-2 Hour of Promise
-3 Prismatic Vista
-4 Prismatic Vista
-3 Abundant Growth
-4 Abundant Growth
+3 Stomping Ground
+1 Brazen Borrower
+2 Brazen Borrower
 4 Snow-Covered Island
+4 Abundant Growth
 5 Snow-Covered Island
-1 Time Warp
-2 Time Warp
-3 Time Warp
-4 Time Warp
-3 Snow-Covered Forest
-1 Mystical Dispute
-1 Reflecting Pool
-1 Tectonic Edge
-3 Mystic Sanctuary
-1 Primal Command
-1 Gemstone Mine
-3 Arboreal Grazer
-4 Arboreal Grazer
-1 Utopia Sprawl
-1 Tamiyo, Collector of Tales
-1 Arbor Elf
-2 Arbor Elf
-2 Tamiyo, Collector of Tales
-2 Utopia Sprawl
-3 Jace, the Mind Sculptor
-3 Arbor Elf
-3 Tamiyo, Collector of Tales
-3 Utopia Sprawl
-4 Utopia Sprawl
-4 Arbor Elf
-3 Shark Typhoon
-1 Wilderness Reclamation
-1 Hinterland Harbor
-1 Blast Zone
-3 Hour of Promise
-1 Fact or Fiction
-2 Fact or Fiction
-2 Forest
-1 Magmatic Sinkhole
-1 Stubborn Denial
-1 Hornet Nest
-1 Skred
-1 Swans of Bryn Argoll
-1 Omen of the Sea
-2 Omen of the Sea
-2 Stubborn Denial
-2 Firespout
-2 Swans of Bryn Argoll
-2 Hornet Nest
-2 Snow-Covered Mountain
-2 Skred
-3 Omen of the Sea
-3 Snapcaster Mage
-3 Swans of Bryn Argoll
-3 Skred
-3 Hornet Nest
-4 Omen of the Sea
-4 Skred
-6 Snow-Covered Island
-7 Snow-Covered Island
-8 Snow-Covered Island
 1 Farseek
 1 Tireless Tracker
 2 Tireless Tracker
 1 Nexus of Fate
 2 Wilderness Reclamation
 2 Flooded Strand
+3 Shark Typhoon
 1 Jwari Disruption
 2 Jwari Disruption
 2 Flame Slash
@@ -172,6 +148,10 @@
 1 Life from the Loam
 1 Oboro, Palace in the Clouds
 3 Field of the Dead
+1 Primal Command
+1 Gemstone Mine
+3 Arboreal Grazer
+4 Arboreal Grazer
 1 Search for Azcanta
 1 Narset, Parter of Veils
 1 Serum Visions
@@ -199,53 +179,50 @@
 3 Turntimber Symbiosis
 3 Castle Garenbrig
 4 Castle Garenbrig
-1 Bloodstained Mire
 1 Engineered Explosives
+1 Bloodstained Mire
 1 Sakura-Tribe Elder
-2 Engineered Explosives
 2 Bloodstained Mire
 2 Mountain
+2 Engineered Explosives
 2 Sakura-Tribe Elder
 3 Bloodstained Mire
 3 Mountain
 3 Valakut, the Molten Pinnacle
 3 Izzet Charm
 3 Sakura-Tribe Elder
-3 Stomping Ground
 4 Wooded Foothills
 4 Bloodstained Mire
 4 Mountain
 4 Sakura-Tribe Elder
+4 Valakut, the Molten Pinnacle
 4 Stomping Ground
 4 Izzet Charm
-4 Valakut, the Molten Pinnacle
 5 Mountain
+1 Tarmogoyf
+1 Scavenging Ooze
 1 Bloodbraid Elf
 1 Bonecrusher Giant
 1 Ancestral Vision
 1 Blood Moon
-1 Scavenging Ooze
-1 Brazen Borrower
 1 Birds of Paradise
 1 Noble Hierarch
-1 Tarmogoyf
-2 Brazen Borrower
+2 Tarmogoyf
+2 Birds of Paradise
 2 Bloodbraid Elf
 2 Bonecrusher Giant
-2 Birds of Paradise
 2 Ancestral Vision
 2 Blood Moon
 2 Noble Hierarch
-2 Tarmogoyf
 3 Birds of Paradise
+3 Tarmogoyf
 3 Bloodbraid Elf
 3 Bonecrusher Giant
 3 Noble Hierarch
-3 Blood Moon
 3 Ancestral Vision
-3 Tarmogoyf
+3 Blood Moon
 4 Blood Moon
-4 Bloodbraid Elf
 4 Tarmogoyf
+4 Bloodbraid Elf
 4 Snow-Covered Forest
 4 Noble Hierarch

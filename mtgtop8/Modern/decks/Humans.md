@@ -56,7 +56,7 @@
 |                     |                                                                                                      |                    1|[Charming Prince](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472970)             |
 |                     |                                                                                                      |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)          |
 |                     |                                                                                                      |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)           |
-|                     |                                                                                                      |                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)         |
 |                     |                                                                                                      |                    1|[Unsettled Mariner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464165)           |
 |                     |                                                                                                      |                    2|[Unsettled Mariner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464165)           |
+|                     |                                                                                                      |                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)         |
 

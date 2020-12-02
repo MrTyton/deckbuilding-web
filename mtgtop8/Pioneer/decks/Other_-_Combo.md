@@ -32,10 +32,10 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
-|                    1|[Silundi Vision](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491711)   |                    1|[Necromentia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485439)  |
-|                    1|[Kazandu Mammoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491835)  |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)        |
-|                    1|[Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)          |                    2|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)|
-|                    1|[Pelakka Predation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491757)|                     |                                                                                        |
+|                    1|[Pelakka Predation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491757)|                    1|[Necromentia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485439)  |
+|                    1|[Silundi Vision](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491711)   |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)        |
+|                    1|[Kazandu Mammoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491835)  |                    2|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646)|
+|                    1|[Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)          |                     |                                                                                        |
 |                    2|[Pelakka Predation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491757)|                     |                                                                                        |
 |                    3|[Pelakka Predation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491757)|                     |                                                                                        |
 |                    4|[Pelakka Predation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491757)|                     |                                                                                        |

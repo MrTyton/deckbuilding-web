@@ -51,15 +51,15 @@
 2 Verdant Catacombs
 2 Omen of the Sea
 2 Shark Typhoon
-3 Estrid's Invocation
 3 Misty Rainforest
+3 Estrid's Invocation
 1 Seal of Primordium
 2 Snow-Covered Plains
 3 Solitary Confinement
 4 Rest in Peace
 1 Energy Field
-1 Words of Wind
 1 Spreading Seas
+1 Words of Wind
 1 Force of Negation
 1 Force of Will
 2 Words of Wind
@@ -73,8 +73,8 @@
 3 Shark Typhoon
 3 Force of Will
 3 Spreading Seas
-4 Estrid's Invocation
 4 Omen of the Sea
+4 Estrid's Invocation
 4 Misty Rainforest
 4 Spreading Seas
 4 Shark Typhoon
@@ -98,7 +98,6 @@
 2 Oko, Thief of Crowns
 4 On Thin Ice
 8 Forest
-1 Karn, the Great Creator
 1 The Abyss
 1 Island
 1 Moat
@@ -107,8 +106,9 @@
 1 Engineered Plague
 1 Swamp
 1 Leyline of the Void
-2 Karn, the Great Creator
+1 Karn, the Great Creator
 2 Trial of Ambition
+2 Karn, the Great Creator
 2 Abrupt Decay
 2 Leyline of the Void
 3 Verdant Catacombs
