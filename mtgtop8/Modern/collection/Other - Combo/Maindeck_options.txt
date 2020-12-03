@@ -57,8 +57,6 @@
 1 Memory's Journey
 1 Island
 1 Karn, the Great Creator
-1 Waterlogged Grove
-1 Forest
 1 Wooded Foothills
 1 Aether Hub
 1 Through the Breach
@@ -75,8 +73,10 @@
 1 Stomping Ground
 1 Woodweaver's Puzzleknot
 1 Misty Rainforest
+1 Waterlogged Grove
 1 Attune with Aether
 1 Rogue Refiner
+1 Forest
 2 Karn, the Great Creator
 2 Forest
 2 Wooded Foothills
@@ -121,44 +121,43 @@
 1 Talisman of Curiosity
 2 Talisman of Dominance
 4 Blood Moon
-1 River of Tears
 1 Murderous Cut
+1 River of Tears
 1 Inquisition of Kozilek
-1 Remand
 1 Omen of the Sea
-1 Drowned Catacomb
 1 Eldrazi Temple
 1 Watery Grave
 1 Fatal Push
-1 Jace, Wielder of Mysteries
 1 Cling to Dust
 1 Snow-Covered Swamp
+1 Jace, Wielder of Mysteries
 1 Cavern of Souls
 1 Darkslick Shores
 1 Relic of Progenitus
 1 Thassa's Oracle
 1 Opt
+1 Drowned Catacomb
 1 Inverter of Truth
 1 Snow-Covered Island
+1 Remand
 1 Polluted Delta
-2 Watery Grave
 2 River of Tears
+2 Remand
 2 Polluted Delta
 2 Omen of the Sea
 2 Eldrazi Temple
-2 Remand
-2 Drowned Catacomb
 2 Inquisition of Kozilek
-2 Jace, Wielder of Mysteries
 2 Fatal Push
+2 Jace, Wielder of Mysteries
 2 Darkslick Shores
 2 Thassa's Oracle
+2 Watery Grave
+2 Drowned Catacomb
 2 Relic of Progenitus
 2 Opt
 2 Inverter of Truth
 3 Remand
 3 Omen of the Sea
-3 Drowned Catacomb
 3 Inquisition of Kozilek
 3 Fatal Push
 3 Darkslick Shores
@@ -169,6 +168,7 @@
 3 Inverter of Truth
 3 River of Tears
 3 Watery Grave
+3 Drowned Catacomb
 4 Remand
 4 Omen of the Sea
 4 Thassa's Oracle
@@ -195,12 +195,12 @@
 1 Lonely Sandbar
 1 Lotus Field
 2 Sleight of Hand
-2 Island
 2 Shivan Reef
 2 Peer Through Depths
 2 Lonely Sandbar
 2 Echoing Truth
 2 Ideas Unbound
+2 Island
 2 Grapeshot
 2 Vizier of Tumbling Sands
 2 Dream's Grip

@@ -31,11 +31,11 @@
 3 Snow-Covered Swamp
 3 Dark Ritual
 4 Dark Ritual
+1 Snapcaster Mage
 1 Personal Tutor
 1 Arcum's Astrolabe
 1 Tundra
 1 Snow-Covered Plains
-1 Snapcaster Mage
 1 Spell Pierce
 1 Baleful Strix
 1 Tolaria West
@@ -45,25 +45,25 @@
 1 Marsh Flats
 1 Teferi, Time Raveler
 1 Counterspell
-1 Celestial Colonnade
 1 Flusterstorm
 1 Intuition
 1 Ethersworn Canonist
 1 Maze of Ith
 1 Cabal Therapy
+1 Celestial Colonnade
 1 Portent
 1 Glacial Fortress
 1 Inkwell Leviathan
 1 Moat
 1 The Tabernacle at Pendrell Vale
-1 Torpor Orb
 1 Jin-Gitaxias, Core Augur
+1 Torpor Orb
 1 Misdirection
 1 Unburial Rites
+1 Drowned Catacomb
 1 Jace, the Mind Sculptor
 1 Supreme Verdict
 1 Cunning Wish
-1 Drowned Catacomb
 1 Leyline of Sanctity
 1 Iona, Shield of Emeria
 1 Elesh Norn, Grand Cenobite
@@ -97,9 +97,9 @@
 1 Scrubland
 1 Phyrexian Unlife
 1 Force of Will
+2 Snapcaster Mage
 2 Arcum's Astrolabe
 2 Polluted Delta
-2 Snapcaster Mage
 2 Teferi, Time Raveler
 2 Toxic Deluge
 2 Flooded Strand
@@ -109,9 +109,9 @@
 2 Baleful Strix
 2 Enlightened Tutor
 2 Arid Mesa
-2 Mystic Sanctuary
 2 Spell Pierce
 2 Celestial Colonnade
+2 Mystic Sanctuary
 2 Tundra
 2 Counterspell
 2 Marsh Flats
@@ -121,8 +121,8 @@
 2 Glacial Fortress
 2 Snow-Covered Plains
 2 Misdirection
-2 Flusterstorm
 2 Drowned Catacomb
+2 Flusterstorm
 2 Jace, the Mind Sculptor
 2 Cabal Therapy
 2 Karakas
@@ -168,13 +168,13 @@
 3 Baleful Strix
 3 Marsh Flats
 3 Creeping Tar Pit
-3 Mystic Sanctuary
 3 Portent
 3 Spell Pierce
 3 Misty Rainforest
 3 Arid Mesa
 3 Intuition
 3 Celestial Colonnade
+3 Mystic Sanctuary
 3 Snow-Covered Plains
 3 Pact of Negation
 3 Phyrexian Unlife
@@ -209,12 +209,12 @@
 4 Terminus
 4 Underground Sea
 4 Portent
-4 Celestial Colonnade
 4 Misty Rainforest
 4 Polluted Delta
 4 Baleful Strix
 4 Marsh Flats
 4 Tolaria West
+4 Celestial Colonnade
 4 Tundra
 4 Arcum's Astrolabe
 4 Spell Pierce

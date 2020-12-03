@@ -1,75 +1,72 @@
-2 Mountain
-3 Mountain
-3 Island
-1 Opt
-1 Rain of Revelation
-2 Rain of Revelation
-1 Jace, Mirror Mage
-1 Improbable Alliance
-1 The Royal Scions
-1 Bloodfell Caves
-1 Dismal Backwater
-1 Feed the Swarm
-1 Frantic Inventory
-1 Swiftwater Cliffs
-1 Fire Prophecy
-2 Improbable Alliance
-2 Bloodfell Caves
-2 Opt
-2 Dismal Backwater
-2 Swiftwater Cliffs
-2 Frantic Inventory
-2 Feed the Swarm
-3 Improbable Alliance
-3 Swiftwater Cliffs
-3 Frantic Inventory
-3 Opt
-4 Improbable Alliance
-4 Mountain
-4 Swiftwater Cliffs
-4 Frantic Inventory
-4 Opt
-4 Island
-5 Island
-5 Mountain
-6 Mountain
-6 Island
-1 Sprite Dragon
-1 Blitz of the Thunder-Raptor
-1 Scorching Dragonfire
-1 Lofty Denial
-2 Blitz of the Thunder-Raptor
-2 Lofty Denial
-2 Scorching Dragonfire
-2 Sprite Dragon
-3 Blitz of the Thunder-Raptor
-3 Lofty Denial
-3 Dismal Backwater
-3 Scorching Dragonfire
-3 Sprite Dragon
-4 Lofty Denial
-4 Sprite Dragon
-7 Mountain
-7 Island
-4 Mazemind Tome
+1 Swamp
+1 Essence Scatter
+1 Hagra Mauling
+1 Riverglide Pathway
+1 Temple of Epiphany
+1 Kroxa, Titan of Death's Hunger
+1 Fabled Passage
+1 Clearwater Pathway
+2 Hagra Mauling
+2 Riverglide Pathway
+2 Kroxa, Titan of Death's Hunger
+3 Riverglide Pathway
+1 Mazemind Tome
+1 Heartless Act
+1 Bonecrusher Giant
+1 Temple of Deceit
+1 Spikefield Hazard
+2 Mazemind Tome
+2 Shark Typhoon
+2 Spikefield Hazard
+2 Bonecrusher Giant
+2 Clearwater Pathway
+2 Heartless Act
+3 Clearwater Pathway
+3 Bonecrusher Giant
+2 Fabled Passage
+1 Bloodchief's Thirst
+3 Kroxa, Titan of Death's Hunger
+3 Shark Typhoon
+4 Bonecrusher Giant
+2 Temple of Deceit
+4 Clearwater Pathway
+1 Negate
 1 Temple of Malice
-3 Fabled Passage
+2 Temple of Epiphany
+1 Shatterskull Smashing
+1 Mystical Dispute
+1 Neutralize
+2 Neutralize
+2 Mystical Dispute
+3 Mazemind Tome
+3 Neutralize
+3 Temple of Deceit
+4 Riverglide Pathway
+4 Temple of Deceit
+4 Neutralize
+4 Shark Typhoon
+4 Kroxa, Titan of Death's Hunger
+1 Extinction Event
 2 Essence Scatter
-1 Sanctum of Calm Waters
-1 Ugin, the Spirit Dragon
+2 Extinction Event
+2 Negate
+2 Ashiok, Nightmare Muse
 3 Heartless Act
-2 Swamp
-3 Swamp
-4 Fabled Passage
+3 Spikefield Hazard
+3 Hagra Mauling
+2 Shatterskull Smashing
 2 Bloodchief's Thirst
-2 Temple of Malice
 4 Scorching Dragonfire
-1 Thassa's Intervention
-3 Temple of Epiphany
-4 Hagra Mauling
+2 Temple of Malice
+3 Fabled Passage
+4 Mazemind Tome
+1 Shredded Sails
 1 Brazen Borrower
 1 Rankle, Master of Pranks
 2 Rankle, Master of Pranks
+2 Swamp
+3 Swamp
+4 Fabled Passage
 1 Castle Locthwain
 1 Mire Triton
 2 Mire Triton
@@ -77,15 +74,13 @@
 3 Mire Triton
 1 Memory Leak
 2 Memory Leak
-1 Midnight Clock
-1 Storm's Wrath
-2 Storm's Wrath
-2 Shredded Sails
 1 Eliminate
 1 Ketria Triome
 2 Eliminate
 2 Brazen Borrower
 3 Ashiok, Nightmare Muse
+2 Shredded Sails
+3 Temple of Epiphany
 4 Spikefield Hazard
 1 Evolving Wilds
 1 Into the Story
@@ -139,5 +134,9 @@
 4 Swamp
 4 Agonizing Remorse
 4 Bloodchief's Thirst
-5 Swamp
 4 Mire Triton
+5 Swamp
+1 Midnight Clock
+1 Storm's Wrath
+2 Storm's Wrath
+4 Hagra Mauling

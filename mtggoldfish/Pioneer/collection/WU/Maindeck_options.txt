@@ -1,70 +1,74 @@
+4 Reflector Mage
 4 Elite Guardmage
 4 Plains
 4 Glass Casket
 5 Plains
 6 Plains
 7 Plains
-7 Island
 2 Elspeth Conquers Death
 1 Irrigated Farmland
-1 Opt
 1 Supreme Verdict
-2 Opt
 2 Supreme Verdict
-3 Opt
 3 Supreme Verdict
-1 Fabled Passage
-2 Fabled Passage
 1 Dovin's Veto
 1 Shark Typhoon
 2 Shark Typhoon
+1 Opt
+2 Opt
+3 Opt
+1 Dig Through Time
+2 Dig Through Time
+1 Teferi, Hero of Dominaria
+2 Teferi, Hero of Dominaria
+1 Fabled Passage
+2 Fabled Passage
+2 Irrigated Farmland
 1 Azorius Charm
 2 Azorius Charm
 3 Azorius Charm
 4 Azorius Charm
-1 Teferi, Hero of Dominaria
-2 Teferi, Hero of Dominaria
-1 Dig Through Time
-2 Dig Through Time
 4 Opt
 4 Skyclave Cleric
 3 Isolate
 4 Isolate
 8 Island
 8 Plains
-2 Irrigated Farmland
 2 Castle Ardenvale
-9 Island
 4 Supreme Verdict
-3 Teferi, Hero of Dominaria
-2 Dovin's Veto
-3 Dig Through Time
-1 Absorb
-2 Absorb
-1 Field of Ruin
+9 Island
 1 Censor
 2 Censor
+3 Teferi, Hero of Dominaria
+2 Dovin's Veto
+1 Absorb
+2 Absorb
+3 Dig Through Time
+1 Field of Ruin
+3 Shark Typhoon
 1 Spell Queller
 2 Spell Queller
-3 Shark Typhoon
 1 Thassa, Deep-Dwelling
 2 Field of Ruin
+1 Omen of the Sea
+2 Omen of the Sea
 1 Cast Out
+3 Censor
 2 Thassa, Deep-Dwelling
 1 Champion of Wits
 2 Champion of Wits
 1 Spell Pierce
-1 Omen of the Sea
 2 Spell Pierce
-2 Omen of the Sea
+1 Sinister Sabotage
+2 Sinister Sabotage
 3 Absorb
-3 Censor
 1 Jwari Disruption
 1 Whirlwind Denial
 2 Jwari Disruption
 2 Whirlwind Denial
 3 Jwari Disruption
 4 Jwari Disruption
+3 Omen of the Sea
+4 Omen of the Sea
 4 Shark Typhoon
 1 Commit/Memory
 1 Horribly Awry
@@ -73,8 +77,6 @@
 2 Horribly Awry
 3 Horribly Awry
 3 Dovin's Veto
-1 Sinister Sabotage
-2 Sinister Sabotage
 4 Absorb
 1 Niambi, Esteemed Speaker
 2 Niambi, Esteemed Speaker
@@ -84,9 +86,8 @@
 1 Scavenger Grounds
 2 Scavenger Grounds
 3 Scavenger Grounds
-3 Omen of the Sea
 4 Scavenger Grounds
-4 Omen of the Sea
+3 Irrigated Farmland
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Narset, Parter of Veils
@@ -99,8 +100,9 @@
 1 Settle the Wreckage
 1 Thassa's Intervention
 1 Geier Reach Sanitarium
+1 Seal Away
+2 Seal Away
 4 Censor
-3 Irrigated Farmland
 1 Dream Trawler
 1 Faith's Fetters
 2 Faith's Fetters
@@ -152,10 +154,19 @@
 4 Neutralize
 4 Fabled Passage
 4 Watery Grave
+1 Essence Scatter
+1 Elspeth, Sun's Nemesis
+1 Thirst for Meaning
+2 Castle Vantress
+2 Thirst for Meaning
+3 Thirst for Meaning
+3 Sinister Sabotage
+3 Seal Away
+4 Seal Away
 1 Raugrin Triome
-1 Sulfur Falls
 1 Steam Vents
 1 Sweltering Suns
+1 Sulfur Falls
 1 Zenith Flare
 1 Hieroglyphic Illumination
 2 Raugrin Triome
@@ -171,11 +182,9 @@
 4 Irrigated Farmland
 4 Sulfur Falls
 4 Steam Vents
-1 Seal Away
-1 Elspeth, Sun's Champion
 1 Emergency Powers
 1 Teferi, Master of Time
-2 Seal Away
+1 Elspeth, Sun's Champion
 2 Emergency Powers
 4 Narset, Parter of Veils
 1 Render Silent

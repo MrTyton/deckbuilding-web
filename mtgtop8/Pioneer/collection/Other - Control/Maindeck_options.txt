@@ -1,22 +1,22 @@
-2 Hinterland Harbor
-3 Hinterland Harbor
-1 Sunpetal Grove
-3 Breeding Pool
-3 Ketria Triome
-4 Ketria Triome
 1 Sulfur Falls
+1 Evolving Wilds
 4 Forest
-2 Mountain
 2 Hallowed Fountain
 4 Teferi, Time Raveler
+1 Cultivate
+2 Hinterland Harbor
+3 Hinterland Harbor
 1 Castle Vantress
 2 Ugin, the Spirit Dragon
+3 Ketria Triome
+4 Ketria Triome
 2 Kenrith, the Returned King
 1 Inspired Ultimatum
 1 Temple of Mystery
 1 Dryad of the Ilysian Grove
 1 Prophet of Kruphix
 2 Prophet of Kruphix
+2 Mountain
 2 Dryad of the Ilysian Grove
 3 Dryad of the Ilysian Grove
 4 Dryad of the Ilysian Grove
@@ -105,18 +105,18 @@
 1 Jace, Architect of Thought
 1 Elspeth, Sun's Nemesis
 1 Elspeth Conquers Death
-1 Syncopate
 1 Dream Trawler
 1 Teferi, Hero of Dominaria
+1 Syncopate
 1 Dovin's Veto
 1 Absorb
 1 Azorius Charm
-2 Syncopate
 2 Elspeth Conquers Death
 2 Dream Trawler
 2 Azorius Charm
 2 Absorb
 2 Teferi, Hero of Dominaria
+2 Syncopate
 3 Absorb
 3 Glacial Fortress
 3 Azorius Charm
@@ -149,14 +149,11 @@
 4 The Birth of Meletis
 4 Chained to the Rocks
 4 Transmogrify
-1 Zagoth Triome
 1 Branchloft Pathway
 2 Sunpetal Grove
 1 Hydroid Krasis
 2 Hydroid Krasis
 4 Breeding Pool
-1 Indatha Triome
-1 Golos, Tireless Pilgrim
 1 Terror of the Peaks
 2 Terror of the Peaks
 1 Castle Locthwain
@@ -278,6 +275,7 @@
 4 Wolfwillow Haven
 1 Castle Garenbrig
 1 Yavimaya Coast
+1 Zagoth Triome
 1 Blast Zone
 1 Arboreal Grazer
 1 Ulamog, the Ceaseless Hunger
@@ -314,8 +312,8 @@
 4 Botanical Sanctum
 4 Shrine of the Forsaken Gods
 4 Voracious Hydra
-1 God-Eternal Kefnet
 1 Jace, Vryn's Prodigy
+1 God-Eternal Kefnet
 1 Brazen Borrower
 1 Legion's End
 1 Censor
