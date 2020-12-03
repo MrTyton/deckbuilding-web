@@ -51,9 +51,9 @@
 1 Sacred Foundry
 1 Windswept Heath
 1 Flagstones of Trokair
-1 Sejiri Shelter
 1 Elvish Reclaimer
 1 Arid Mesa
+1 Sejiri Shelter
 1 Akoum Hellhound
 1 Sejiri Steppe
 1 Mishra's Bauble
@@ -64,11 +64,11 @@
 1 Steppe Lynx
 2 Flagstones of Trokair
 2 Elvish Reclaimer
+2 Sacred Foundry
 2 Arid Mesa
 2 Akoum Hellhound
 2 Brushfire Elemental
 2 Mishra's Bauble
-2 Sacred Foundry
 2 Windswept Heath
 2 Atarka's Command
 2 Steppe Lynx
@@ -101,8 +101,8 @@
 1 Hallowed Fountain
 1 Teferi, Time Raveler
 1 Path to Exile
-2 Teferi, Time Raveler
 2 Path to Exile
+2 Teferi, Time Raveler
 3 Path to Exile
 1 Snapcaster Mage
 2 Snapcaster Mage
@@ -192,13 +192,6 @@
 1 Shelldock Isle
 2 Surgical Extraction
 3 Surgical Extraction
-1 Verdant Catacombs
-1 Maddening Cacophony
-2 Verdant Catacombs
-2 Maddening Cacophony
-2 Swamp
-3 Verdant Catacombs
-4 Verdant Catacombs
 1 Explore
 1 Jwari Disruption
 1 Peer Through Depths
@@ -210,6 +203,13 @@
 1 Brazen Borrower
 2 Brazen Borrower
 4 Wrenn and Six
+1 Verdant Catacombs
+1 Maddening Cacophony
+2 Verdant Catacombs
+2 Maddening Cacophony
+2 Swamp
+3 Verdant Catacombs
+4 Verdant Catacombs
 1 Jace, the Mind Sculptor
 1 Botanical Sanctum
 2 Botanical Sanctum

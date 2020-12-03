@@ -1,24 +1,24 @@
-15 Mountain
-16 Mountain
 17 Mountain
+1 Wooded Foothills
+2 Wooded Foothills
 3 Wooded Foothills
+18 Mountain
 3 Skewer the Critics
 1 Arid Mesa
 2 Arid Mesa
 3 Bloodstained Mire
+1 Roiling Vortex
 3 Sulfuric Vortex
-18 Mountain
+19 Mountain
+2 Roiling Vortex
+3 Exquisite Firecraft
 1 Light Up the Stage
 2 Light Up the Stage
-3 Exquisite Firecraft
 4 Skewer the Critics
 3 Arid Mesa
-1 Roiling Vortex
 1 Plateau
 2 Plateau
-19 Mountain
 20 Mountain
-2 Roiling Vortex
 4 Exquisite Firecraft
 1 Sunbaked Canyon
 2 Sunbaked Canyon
@@ -35,9 +35,9 @@
 2 Wheel of Misfortune
 3 Wheel of Misfortune
 1 Akoum Hellhound
-1 Wayward Guide-Beast
 1 Searing Blaze
 1 Prismatic Vista
+1 Wayward Guide-Beast
 2 Akoum Hellhound
 2 Searing Blaze
 2 Prismatic Vista
@@ -48,14 +48,18 @@
 4 Arid Mesa
 3 Plateau
 4 Plateau
+1 Soul-Scar Mage
+2 Soul-Scar Mage
+3 Soul-Scar Mage
+4 Soul-Scar Mage
 1 Fiery Islet
 1 Barbarian Ring
 2 Barbarian Ring
 2 Fiery Islet
 4 Light Up the Stage
 1 Legion Warboss
-1 Anax, Hardened in the Forge
 1 Chandra, Torch of Defiance
+1 Robber of the Rich
 1 Forked Bolt
 1 Porcelain Legionnaire
 1 Goblin Rabblemaster
@@ -67,7 +71,6 @@
 1 Hellrider
 1 Firedrinker Satyr
 1 Burst Lightning
-1 Robber of the Rich
 1 Rakdos Cackler
 1 Jackal Pup
 1 Stormblood Berserker
@@ -81,6 +84,7 @@
 1 Hazoret the Fervent
 1 Snow-Covered Mountain
 1 Viashino Pyromancer
+1 Anax, Hardened in the Forge
 1 Abrade
 1 Ash Zealot
 2 Snow-Covered Mountain

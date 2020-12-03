@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)   |                    1|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)   |
-|                    1|[Tropical Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=884)       |                    1|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)     |
+|                    1|[Tropical Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=884)       |                    1|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)   |
+|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)   |                    1|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)     |
 |                    2|[Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625)      |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
 |                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)   |                    2|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)   |
 |                    4|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)  |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |

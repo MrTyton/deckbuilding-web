@@ -1,13 +1,13 @@
-1 Liliana of the Veil
-1 Ancient Tomb
-2 Karn, the Great Creator
-2 Liliana of the Veil
 3 Swamp
 1 Spell Pierce
+1 Thoughtseize
 1 Verdant Catacombs
 1 Hymn to Tourach
 2 Hymn to Tourach
+1 Badlands
 1 Kolaghan's Command
+2 Lightning Bolt
+2 Thoughtseize
 1 Bloodstained Mire
 2 Bloodstained Mire
 2 Kolaghan's Command
@@ -21,44 +21,20 @@
 1 Murderous Rider
 2 Ethereal Forager
 2 Murderous Rider
-1 Wasteland
-2 Wasteland
-1 Gurmag Angler
-2 Gurmag Angler
-2 Misty Rainforest
-3 Lightning Bolt
-4 Lightning Bolt
 1 Hullbreacher
 2 Hullbreacher
+1 Gurmag Angler
+2 Gurmag Angler
 3 Jace, the Mind Sculptor
 1 Murderous Cut
 1 Impulse
-3 Wasteland
-3 Volcanic Island
-1 Dreadhorde Arcanist
-1 Daze
-1 Delver of Secrets
-1 Young Pyromancer
-1 Preordain
-2 Young Pyromancer
-2 Dreadhorde Arcanist
-2 Daze
-2 Delver of Secrets
-2 Preordain
-3 Dreadhorde Arcanist
-3 Daze
-3 Delver of Secrets
-3 Thoughtseize
-4 Dreadhorde Arcanist
-4 Delver of Secrets
-4 Wasteland
-4 Daze
 1 Opposition Agent
 2 Opposition Agent
-2 Drown in the Loch
 2 Brazen Borrower
-1 Flooded Strand
-2 Flooded Strand
+2 Drown in the Loch
+1 Wasteland
+2 Wasteland
+2 Misty Rainforest
 1 Krark, the Thumbless
 1 Price of Progress
 1 Mountain
@@ -68,6 +44,8 @@
 2 Mountain
 2 Price of Progress
 2 Blood Moon
+3 Lightning Bolt
+4 Lightning Bolt
 4 Snapcaster Mage
 4 Island
 5 Island
@@ -86,14 +64,13 @@
 2 Uro, Titan of Nature's Wrath
 2 Leovold, Emissary of Trest
 3 Misty Rainforest
-1 Narset, Parter of Veils
-1 Snow-Covered Island
-1 Snow-Covered Swamp
 1 Arcum's Astrolabe
-1 Angrath's Rampage
 1 Toxic Deluge
+1 Angrath's Rampage
+1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 2 Arcum's Astrolabe
+3 Volcanic Island
 1 Diabolic Edict
 2 Spell Pierce
 1 Stonecoil Serpent
@@ -103,51 +80,14 @@
 2 Retrofitter Foundry
 2 Liliana's Triumph
 3 Karn, the Great Creator
-1 Stifle
-1 Bedlam Reveler
-1 Chain Lightning
-2 Stifle
-2 Bedlam Reveler
-3 Stifle
-1 Sprite Dragon
-2 Sprite Dragon
-3 Preordain
-4 Volcanic Island
+1 Snow-Covered Island
+1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 2 Snow-Covered Island
 3 Snow-Covered Island
 3 Snow-Covered Swamp
 3 Ethereal Forager
 4 Snow-Covered Island
-1 Unearth
-1 Scrubland
-1 Marsh Flats
-1 Ephemerate
-1 Mystic Sanctuary
-1 Sea Gate Stormcaller
-1 Swords to Plowshares
-1 Cabal Therapy
-1 Karakas
-1 Snow-Covered Plains
-1 Teferi, Time Raveler
-1 Monastery Mentor
-1 Tundra
-2 Cabal Therapy
-2 Sea Gate Stormcaller
-2 Swords to Plowshares
-2 Cling to Dust
-2 Marsh Flats
-2 Tundra
-2 Monastery Mentor
-3 Marsh Flats
-3 Cabal Therapy
-3 Sea Gate Stormcaller
-3 Monastery Mentor
-3 Flooded Strand
-3 Swords to Plowshares
-4 Sea Gate Stormcaller
-4 Cabal Therapy
-4 Monastery Mentor
 1 Punishing Fire
 1 Grove of the Burnwillows
 1 Dack Fayden
@@ -161,8 +101,8 @@
 3 Dack Fayden
 3 Grove of the Burnwillows
 4 Assassin's Trophy
-1 Bitterblossom
 1 Pernicious Deed
+1 Bitterblossom
 1 Dark Depths
 1 Abrupt Decay
 1 Cabal Pit
@@ -175,5 +115,6 @@
 2 Crop Rotation
 2 Abrupt Decay
 2 Life from the Loam
+3 Wasteland
 3 Crop Rotation
 3 Abrupt Decay

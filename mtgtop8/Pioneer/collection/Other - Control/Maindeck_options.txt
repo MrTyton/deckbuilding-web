@@ -84,8 +84,8 @@
 1 Fetid Pools
 1 Geier Reach Sanitarium
 1 Heartless Act
-1 Opt
 1 Day's Undoing
+1 Opt
 1 Dig Through Time
 1 Kalitas, Traitor of Ghet
 2 Fetid Pools
@@ -125,8 +125,8 @@
 4 Absorb
 4 Azorius Charm
 1 Lukka, Coppercoat Outcast
-1 Gideon of the Trials
 1 Riverglide Pathway
+1 Gideon of the Trials
 1 Detention Sphere
 1 Transmogrify
 1 Fires of Invention
@@ -156,22 +156,22 @@
 4 Breeding Pool
 1 Terror of the Peaks
 2 Terror of the Peaks
-1 Castle Locthwain
 1 Cling to Dust
+1 Castle Locthwain
 1 Scarab Feast
-1 Hero's Downfall
 1 Languish
+1 Hero's Downfall
 1 The Scarab God
 2 Scarab Feast
 2 Languish
-2 Kalitas, Traitor of Ghet
 2 Day's Undoing
+2 Kalitas, Traitor of Ghet
 3 Swamp
 1 Voice of Resurgence
 1 Satyr Wayfinder
 2 Voice of Resurgence
-2 Satyr Wayfinder
 2 Cragcrown Pathway
+2 Satyr Wayfinder
 3 Voice of Resurgence
 1 Rootbound Crag
 1 Shatterskull Smashing
@@ -192,6 +192,35 @@
 2 Temple of Mystery
 3 Temple of Mystery
 3 Mountain
+1 Collective Brutality
+1 Dragonskull Summit
+1 Davriel, Rogue Shadowmage
+1 Kolaghan's Command
+1 Liliana, Waker of the Dead
+1 Thought Erasure
+1 Blood Crypt
+1 Nicol Bolas, the Ravager
+1 Kroxa, Titan of Death's Hunger
+2 Collective Brutality
+2 Davriel, Rogue Shadowmage
+2 Liliana, Waker of the Dead
+2 Blood Crypt
+2 Thought Erasure
+2 Nicol Bolas, the Ravager
+2 Kroxa, Titan of Death's Hunger
+2 Kolaghan's Command
+2 Dragonskull Summit
+3 Davriel, Rogue Shadowmage
+3 Liliana, Waker of the Dead
+3 Kroxa, Titan of Death's Hunger
+3 Nicol Bolas, the Ravager
+3 Thought Erasure
+4 Thought Erasure
+4 Kroxa, Titan of Death's Hunger
+4 Davriel, Rogue Shadowmage
+4 Liliana, Waker of the Dead
+4 Nicol Bolas, the Ravager
+4 Fatal Push
 1 Negate
 1 Nissa, Who Shakes the World
 1 Sylvan Caryatid
@@ -203,35 +232,6 @@
 3 Nissa, Who Shakes the World
 3 Oath of Nissa
 4 Oath of Nissa
-1 Kolaghan's Command
-1 Collective Brutality
-1 Dragonskull Summit
-1 Liliana, Waker of the Dead
-1 Davriel, Rogue Shadowmage
-1 Thought Erasure
-1 Blood Crypt
-1 Nicol Bolas, the Ravager
-1 Kroxa, Titan of Death's Hunger
-2 Collective Brutality
-2 Liliana, Waker of the Dead
-2 Kolaghan's Command
-2 Blood Crypt
-2 Thought Erasure
-2 Nicol Bolas, the Ravager
-2 Kroxa, Titan of Death's Hunger
-2 Davriel, Rogue Shadowmage
-2 Dragonskull Summit
-3 Liliana, Waker of the Dead
-3 Kroxa, Titan of Death's Hunger
-3 Davriel, Rogue Shadowmage
-3 Nicol Bolas, the Ravager
-3 Thought Erasure
-4 Thought Erasure
-4 Kroxa, Titan of Death's Hunger
-4 Liliana, Waker of the Dead
-4 Fatal Push
-4 Nicol Bolas, the Ravager
-4 Davriel, Rogue Shadowmage
 1 Sigil of the Empty Throne
 1 Courser of Kruphix
 1 Banishing Light
@@ -312,11 +312,11 @@
 4 Botanical Sanctum
 4 Shrine of the Forsaken Gods
 4 Voracious Hydra
-1 Jace, Vryn's Prodigy
-1 God-Eternal Kefnet
 1 Brazen Borrower
 1 Legion's End
 1 Censor
+1 God-Eternal Kefnet
+1 Jace, Vryn's Prodigy
 1 Choked Estuary
 2 Jace, Vryn's Prodigy
 2 Choked Estuary

@@ -104,8 +104,8 @@
 1 Lukka, Coppercoat Outcast
 1 Outlaws' Merriment
 1 Fire Prophecy
-1 Castle Embereth
 1 Harmonious Archon
+1 Castle Embereth
 1 Castle Ardenvale
 1 The Akroan War
 1 Raugrin Triome
@@ -117,10 +117,10 @@
 2 Shatterskull Smashing
 2 Fire Prophecy
 2 The Akroan War
+2 Harmonious Archon
 2 Elspeth, Sun's Nemesis
 2 Lukka, Coppercoat Outcast
 2 Raugrin Triome
-2 Harmonious Archon
 3 Omen of the Sun
 3 Needleverge Pathway
 3 Transmogrify
@@ -151,8 +151,8 @@
 3 Emeria's Call
 3 Wolfwillow Haven
 4 Emeria's Call
-4 Garruk, Cursed Huntsman
 4 Erebos's Intervention
+4 Garruk, Cursed Huntsman
 4 Wolfwillow Haven
 1 Island
 2 Island
@@ -215,37 +215,37 @@
 1 Crawling Barrens
 2 Crawling Barrens
 2 Radiant Fountain
-2 Labyrinth of Skophos
 2 Sleeper Dart
+2 Labyrinth of Skophos
 2 Unknown Shores
 2 Forsaken Monument
 2 Dance of the Manse
 2 Swift Response
 3 Solemn Simulacrum
 3 Radiant Fountain
-3 Unknown Shores
 3 Sleeper Dart
+3 Unknown Shores
 3 Forsaken Monument
 3 Crawling Barrens
 4 Solemn Simulacrum
-4 Radiant Fountain
-4 Sleeper Dart
-4 Crawling Barrens
-4 Forsaken Monument
 4 Unknown Shores
+4 Forsaken Monument
+4 Sleeper Dart
+4 Radiant Fountain
+4 Crawling Barrens
 6 Plains
 7 Plains
 8 Plains
-1 Rain of Revelation
 1 Lofty Denial
 1 Rewind
 1 Silundi Vision
 1 Hypnotic Sprite
-1 Mystic Sanctuary
 1 Sublime Epiphany
 1 Neutralize
 1 Into the Roil
+1 Mystic Sanctuary
 1 Brazen Borrower
+1 Rain of Revelation
 1 Gadwick, the Wizened
 1 Essence Scatter
 1 Kiora Bests the Sea God
@@ -256,17 +256,17 @@
 2 Castle Vantress
 2 Rain of Revelation
 2 Lofty Denial
-2 Rewind
 2 Brazen Borrower
+2 Rewind
 2 Hypnotic Sprite
 2 Neutralize
 2 Essence Scatter
 2 Into the Roil
 2 Shark Typhoon
 3 Neutralize
-3 Brazen Borrower
 3 Castle Vantress
 3 Rewind
+3 Brazen Borrower
 3 Shark Typhoon
 4 Neutralize
 4 Rewind
@@ -276,7 +276,6 @@
 7 Island
 8 Island
 9 Island
-10 Island
 11 Island
 12 Island
 13 Island
@@ -285,3 +284,4 @@
 16 Island
 17 Island
 18 Island
+10 Island

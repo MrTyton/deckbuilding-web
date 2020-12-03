@@ -35,9 +35,9 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Phantasmal Image](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220099)|                    1|[Master of Waves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438441)   |
-|                    1|[Mulldrifter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389605)     |                    2|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
-|                    2|[Phantasmal Image](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220099)|                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
-|                    2|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196) |                     |                                                                                             |
-|                    2|[Flickerwisp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376338)     |                     |                                                                                             |
+|                    2|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196) |                    1|[Master of Waves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438441)   |
+|                    2|[Flickerwisp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376338)     |                    2|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
+|                    1|[Mulldrifter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389605)     |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
+|                    1|[Phantasmal Image](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220099)|                     |                                                                                             |
+|                    2|[Phantasmal Image](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220099)|                     |                                                                                             |
 

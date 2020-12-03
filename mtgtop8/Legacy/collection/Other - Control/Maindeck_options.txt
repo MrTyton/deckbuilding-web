@@ -82,11 +82,11 @@
 1 Plains
 1 Supreme Verdict
 1 Swords to Plowshares
-2 Plains
 2 Snapcaster Mage
 2 Teferi, Time Raveler
 2 Flooded Strand
 2 Monastery Mentor
+2 Plains
 2 Swords to Plowshares
 2 Council's Judgment
 3 Snapcaster Mage
@@ -97,9 +97,9 @@
 4 Flooded Strand
 4 Swords to Plowshares
 1 Trinisphere
-1 Pelakka Predation
 1 Chrome Mox
 1 Helm of Obedience
+1 Pelakka Predation
 1 Leyline of the Void
 1 Urborg, Tomb of Yawgmoth
 1 Curse of Misfortunes
@@ -109,8 +109,8 @@
 1 City of Traitors
 1 Overwhelming Splendor
 1 Chalice of the Void
-2 Chrome Mox
 2 Pelakka Predation
+2 Chrome Mox
 2 Trinisphere
 2 Leyline of the Void
 2 Helm of Obedience
@@ -120,9 +120,9 @@
 2 Ancient Tomb
 2 Chalice of the Void
 3 Chrome Mox
-3 Eliminate
-3 Leyline of the Void
 3 Pelakka Predation
+3 Leyline of the Void
+3 Eliminate
 3 Ancient Tomb
 3 Dark Ritual
 3 Chalice of the Void
@@ -130,6 +130,7 @@
 3 Karn, the Great Creator
 3 Trinisphere
 3 Curse of Misfortunes
+4 Swamp
 4 Trinisphere
 4 Eliminate
 4 City of Traitors
@@ -140,9 +141,8 @@
 4 Curse of Misfortunes
 4 Ancient Tomb
 4 Chrome Mox
-4 Swamp
-4 Karn, the Great Creator
 5 Swamp
 6 Swamp
 7 Swamp
 8 Swamp
+4 Karn, the Great Creator
