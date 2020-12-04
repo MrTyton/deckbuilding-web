@@ -35,11 +35,12 @@
 1 Personal Tutor
 1 Arcum's Astrolabe
 1 Tundra
-1 Snow-Covered Plains
 1 Spell Pierce
 1 Baleful Strix
+1 Snow-Covered Plains
 1 Tolaria West
 1 Enlightened Tutor
+1 Entreat the Angels
 1 Rest in Peace
 1 Arid Mesa
 1 Marsh Flats
@@ -48,7 +49,6 @@
 1 Flusterstorm
 1 Intuition
 1 Ethersworn Canonist
-1 Maze of Ith
 1 Cabal Therapy
 1 Celestial Colonnade
 1 Portent
@@ -56,12 +56,13 @@
 1 Inkwell Leviathan
 1 Moat
 1 The Tabernacle at Pendrell Vale
-1 Jin-Gitaxias, Core Augur
 1 Torpor Orb
+1 Jin-Gitaxias, Core Augur
 1 Misdirection
 1 Unburial Rites
 1 Jace, the Mind Sculptor
 1 Supreme Verdict
+1 Maze of Ith
 1 Cunning Wish
 1 Leyline of Sanctity
 1 Iona, Shield of Emeria
@@ -93,7 +94,6 @@
 1 Battle of Wits
 1 Impulse
 1 Boseiju, Who Shelters All
-1 Entreat the Angels
 1 Scrubland
 1 Phyrexian Unlife
 1 Force of Will
@@ -107,6 +107,7 @@
 2 Personal Tutor
 2 Intuition
 2 Baleful Strix
+2 Snow-Covered Plains
 2 Enlightened Tutor
 2 Arid Mesa
 2 Spell Pierce
@@ -119,7 +120,6 @@
 2 Pact of Negation
 2 Scrubland
 2 Glacial Fortress
-2 Snow-Covered Plains
 2 Misdirection
 2 Flusterstorm
 2 Drowned Catacomb
@@ -163,6 +163,7 @@
 3 Enlightened Tutor
 3 Swords to Plowshares
 3 Tolaria West
+3 Snow-Covered Plains
 3 Scrubland
 3 Flusterstorm
 3 Baleful Strix
@@ -175,7 +176,6 @@
 3 Intuition
 3 Celestial Colonnade
 3 Mystic Sanctuary
-3 Snow-Covered Plains
 3 Pact of Negation
 3 Phyrexian Unlife
 3 Force of Will
@@ -206,15 +206,15 @@
 4 Teferi, Time Raveler
 4 Impulse
 4 Flooded Strand
-4 Terminus
 4 Underground Sea
+4 Terminus
 4 Portent
+4 Celestial Colonnade
 4 Misty Rainforest
 4 Polluted Delta
 4 Baleful Strix
 4 Marsh Flats
 4 Tolaria West
-4 Celestial Colonnade
 4 Tundra
 4 Arcum's Astrolabe
 4 Spell Pierce
@@ -277,13 +277,15 @@
 4 Not of This World
 4 Mox Diamond
 4 Abrupt Decay
+1 Chrome Mox
+1 Trinisphere
 1 Dakmor Salvage
+1 Plague Engineer
 1 Liliana of the Veil
 1 Liliana's Triumph
-1 Plague Engineer
 1 Liliana, the Last Hope
 1 Wishclaw Talisman
-1 Trinisphere
+1 Chalice of the Void
 1 Lake of the Dead
 1 Hymn to Tourach
 1 Eliminate
@@ -291,29 +293,27 @@
 1 Castle Locthwain
 1 Gurmag Angler
 1 Desolation
-1 Chrome Mox
 1 Karn, the Great Creator
-1 Chalice of the Void
+2 Chrome Mox
 2 Lake of the Dead
+2 Trinisphere
+2 Chalice of the Void
 2 Hymn to Tourach
 2 Eliminate
-2 Trinisphere
 2 Gurmag Angler
-2 Chrome Mox
-2 Chalice of the Void
 2 Karn, the Great Creator
 2 Desolation
 2 Wishclaw Talisman
 2 Liliana of the Veil
-3 Desolation
-3 Karn, the Great Creator
-3 Liliana of the Veil
-3 Eliminate
 3 Chrome Mox
 3 Chalice of the Void
+3 Eliminate
+3 Desolation
+3 Karn, the Great Creator
 4 Snow-Covered Swamp
+4 Chalice of the Void
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
-4 Chalice of the Void
+3 Liliana of the Veil

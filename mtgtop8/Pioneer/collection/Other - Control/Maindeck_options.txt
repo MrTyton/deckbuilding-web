@@ -1,32 +1,9 @@
-1 Sulfur Falls
-1 Evolving Wilds
-4 Forest
-2 Hallowed Fountain
-4 Teferi, Time Raveler
-1 Cultivate
-2 Hinterland Harbor
-3 Hinterland Harbor
-1 Castle Vantress
-2 Ugin, the Spirit Dragon
-3 Ketria Triome
-4 Ketria Triome
-2 Kenrith, the Returned King
-1 Inspired Ultimatum
-1 Temple of Mystery
-1 Dryad of the Ilysian Grove
-1 Prophet of Kruphix
-2 Prophet of Kruphix
-2 Mountain
-2 Dryad of the Ilysian Grove
-3 Dryad of the Ilysian Grove
-4 Dryad of the Ilysian Grove
-4 Temple Garden
-1 Mystical Dispute
-1 Cragcrown Pathway
-1 Shark Typhoon
 2 Shark Typhoon
-3 Hallowed Fountain
+1 Steam Vents
+2 Hallowed Fountain
 3 Shark Typhoon
+4 Teferi, Time Raveler
+1 Castle Vantress
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 1 Castle Ardenvale
@@ -49,6 +26,7 @@
 3 Castle Ardenvale
 3 Omen of the Sea
 3 Anger of the Gods
+3 Hallowed Fountain
 3 Sacred Foundry
 3 Steam Vents
 4 Shark Typhoon
@@ -56,9 +34,13 @@
 4 Sacred Foundry
 4 Steam Vents
 4 Hallowed Fountain
+4 Temple Garden
+2 Kenrith, the Returned King
+2 Genesis Ultimatum
 3 Stomping Ground
 1 Aether Gust
-4 Island
+3 Ketria Triome
+4 Ketria Triome
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
 1 Ashiok, Nightmare Muse
@@ -95,6 +77,8 @@
 3 Dig Through Time
 3 Opt
 4 Opt
+4 Island
+4 Forest
 2 Sulfur Falls
 1 Eliminate
 2 Eliminate
@@ -149,30 +133,26 @@
 4 The Birth of Meletis
 4 Chained to the Rocks
 4 Transmogrify
-1 Branchloft Pathway
-2 Sunpetal Grove
+4 Uro, Titan of Nature's Wrath
 1 Hydroid Krasis
 2 Hydroid Krasis
 4 Breeding Pool
-1 Terror of the Peaks
-2 Terror of the Peaks
+2 Ugin, the Spirit Dragon
+1 Cultivate
+1 Hinterland Harbor
+2 Hinterland Harbor
+3 Hinterland Harbor
 1 Cling to Dust
 1 Castle Locthwain
-1 Scarab Feast
-1 Languish
 1 Hero's Downfall
 1 The Scarab God
-2 Scarab Feast
-2 Languish
+1 Languish
+1 Scarab Feast
 2 Day's Undoing
 2 Kalitas, Traitor of Ghet
+2 Languish
+2 Scarab Feast
 3 Swamp
-1 Voice of Resurgence
-1 Satyr Wayfinder
-2 Voice of Resurgence
-2 Cragcrown Pathway
-2 Satyr Wayfinder
-3 Voice of Resurgence
 1 Rootbound Crag
 1 Shatterskull Smashing
 1 Jolrael, Mwonvuli Recluse
@@ -186,41 +166,18 @@
 2 Magma Jet
 3 Bonecrusher Giant
 3 Magma Jet
-1 Expansion / Explosion
-2 Inspired Ultimatum
-2 Expansion / Explosion
-2 Temple of Mystery
-3 Temple of Mystery
-3 Mountain
-1 Collective Brutality
-1 Dragonskull Summit
-1 Davriel, Rogue Shadowmage
-1 Kolaghan's Command
-1 Liliana, Waker of the Dead
-1 Thought Erasure
-1 Blood Crypt
-1 Nicol Bolas, the Ravager
-1 Kroxa, Titan of Death's Hunger
-2 Collective Brutality
-2 Davriel, Rogue Shadowmage
-2 Liliana, Waker of the Dead
-2 Blood Crypt
-2 Thought Erasure
-2 Nicol Bolas, the Ravager
-2 Kroxa, Titan of Death's Hunger
-2 Kolaghan's Command
-2 Dragonskull Summit
-3 Davriel, Rogue Shadowmage
-3 Liliana, Waker of the Dead
-3 Kroxa, Titan of Death's Hunger
-3 Nicol Bolas, the Ravager
-3 Thought Erasure
-4 Thought Erasure
-4 Kroxa, Titan of Death's Hunger
-4 Davriel, Rogue Shadowmage
-4 Liliana, Waker of the Dead
-4 Nicol Bolas, the Ravager
-4 Fatal Push
+1 Terror of the Peaks
+1 Cragcrown Pathway
+1 Inspired Ultimatum
+1 Temple of Mystery
+1 Dryad of the Ilysian Grove
+1 Prophet of Kruphix
+2 Prophet of Kruphix
+2 Mountain
+2 Terror of the Peaks
+2 Dryad of the Ilysian Grove
+3 Dryad of the Ilysian Grove
+4 Dryad of the Ilysian Grove
 1 Negate
 1 Nissa, Who Shakes the World
 1 Sylvan Caryatid
@@ -232,6 +189,36 @@
 3 Nissa, Who Shakes the World
 3 Oath of Nissa
 4 Oath of Nissa
+1 Collective Brutality
+1 Dragonskull Summit
+1 Liliana, Waker of the Dead
+1 Kolaghan's Command
+1 Davriel, Rogue Shadowmage
+1 Thought Erasure
+1 Blood Crypt
+1 Nicol Bolas, the Ravager
+1 Kroxa, Titan of Death's Hunger
+2 Collective Brutality
+2 Liliana, Waker of the Dead
+2 Blood Crypt
+2 Nicol Bolas, the Ravager
+2 Thought Erasure
+2 Kroxa, Titan of Death's Hunger
+2 Kolaghan's Command
+2 Davriel, Rogue Shadowmage
+2 Dragonskull Summit
+3 Kroxa, Titan of Death's Hunger
+3 Davriel, Rogue Shadowmage
+3 Liliana, Waker of the Dead
+3 Nicol Bolas, the Ravager
+3 Thought Erasure
+4 Thought Erasure
+4 Nicol Bolas, the Ravager
+4 Fatal Push
+4 Kroxa, Titan of Death's Hunger
+4 Liliana, Waker of the Dead
+4 Davriel, Rogue Shadowmage
+1 Branchloft Pathway
 1 Sigil of the Empty Throne
 1 Courser of Kruphix
 1 Banishing Light
@@ -247,6 +234,7 @@
 1 Seal Away
 1 Herald of the Pantheon
 2 Branchloft Pathway
+2 Sunpetal Grove
 2 Setessan Champion
 2 Calix, Destiny's Hand
 2 Banishing Light
@@ -312,11 +300,11 @@
 4 Botanical Sanctum
 4 Shrine of the Forsaken Gods
 4 Voracious Hydra
+1 God-Eternal Kefnet
+1 Jace, Vryn's Prodigy
 1 Brazen Borrower
 1 Legion's End
 1 Censor
-1 God-Eternal Kefnet
-1 Jace, Vryn's Prodigy
 1 Choked Estuary
 2 Jace, Vryn's Prodigy
 2 Choked Estuary

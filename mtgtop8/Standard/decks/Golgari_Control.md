@@ -28,12 +28,3 @@
 |1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)     |1 [Elspeth Conquers Death](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476264)|2 [Cling to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476338) |                                                                                                    |1 [Feed the Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491737)|
 |                                                                                                 |                                                                                                   |1 [Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)          |                                                                                                    |                                                                                           |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
-|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    2|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)|                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
-|                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)|                    2|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)              |
-|                     |                                                                                         |                    1|[Felidar Retreat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491638)   |
-

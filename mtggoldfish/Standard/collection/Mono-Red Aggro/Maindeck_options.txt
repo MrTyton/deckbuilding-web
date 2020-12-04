@@ -1,7 +1,7 @@
 3 Kargan Intimidator
 1 The Akroan War
-4 Rimrock Knight
 2 The Akroan War
+4 Rimrock Knight
 1 Akoum Hellhound
 2 Akoum Hellhound
 3 Akoum Hellhound
@@ -9,10 +9,10 @@
 3 Phoenix of Ash
 1 Spikefield Hazard
 1 Shock
-1 Claim the Firstborn
 2 Spikefield Hazard
 2 Shock
 17 Mountain
+1 Claim the Firstborn
 18 Mountain
 1 Roil Eruption
 19 Mountain
@@ -33,26 +33,24 @@
 3 Relic Robber
 4 Relic Robber
 1 Storm's Wrath
+1 Slaying Fire
+2 Slaying Fire
+1 Ox of Agonas
 1 Chandra, Flame's Catalyst
 1 Fiery Emancipation
-1 Ox of Agonas
 2 Chandra, Flame's Catalyst
 2 Fiery Emancipation
 1 Crawling Barrens
-1 Shadowspear
-1 Shredded Sails
-1 Raking Claws
 1 Terror of the Peaks
+1 Shredded Sails
+1 Shadowspear
+1 Raking Claws
 1 Forbidden Friendship
-2 Shredded Sails
 2 Crawling Barrens
+2 Shredded Sails
 2 Forbidden Friendship
 3 Shredded Sails
 3 Forbidden Friendship
-1 Stonecoil Serpent
-2 Stonecoil Serpent
-3 Stonecoil Serpent
-4 Stonecoil Serpent
 1 Roiling Vortex
 1 Furor of the Bitten
 2 Roiling Vortex
@@ -70,6 +68,10 @@
 3 Blisterspit Gremlin
 4 Valakut Exploration
 4 Blisterspit Gremlin
+1 Stonecoil Serpent
+2 Stonecoil Serpent
+3 Stonecoil Serpent
+4 Stonecoil Serpent
 1 Thrill of Possibility
 2 Shatterskull Charger
 2 Thrill of Possibility

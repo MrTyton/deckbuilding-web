@@ -1,3 +1,4 @@
+1 Walking Ballista
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
@@ -31,10 +32,13 @@
 2 All Is Dust
 2 Eldrazi Temple
 3 Eldrazi Temple
-1 Allosaurus Shepherd
 4 Chalice of the Void
-3 All Is Dust
+1 Forest
+2 Forest
+3 Forest
+4 Forest
 4 Vesuva
+3 All Is Dust
 2 Eye of Ugin
 4 Eldrazi Temple
 1 Reality Smasher
@@ -45,10 +49,6 @@
 3 Reality Smasher
 4 Reality Smasher
 4 Matter Reshaper
-1 Forest
-2 Forest
-3 Forest
-4 Forest
 5 Forest
 6 Forest
 1 Ugin, the Spirit Dragon
@@ -86,9 +86,9 @@
 3 Ulamog, the Ceaseless Hunger
 3 Warping Wail
 1 Karn, Scion of Urza
+2 Karakas
 2 Karn, Scion of Urza
 2 Wastes
-2 Karakas
 3 Ugin, the Ineffable
 3 Karn, Scion of Urza
 3 Walking Ballista
@@ -129,9 +129,9 @@
 2 Forsaken Monument
 2 Basalt Monolith
 3 Ugin, the Spirit Dragon
+1 Mistcutter Hydra
 1 Exploration
 1 Amulet of Vigor
-1 Mistcutter Hydra
 1 Worldly Tutor
 1 Windswept Heath
 1 Somberwald Sage

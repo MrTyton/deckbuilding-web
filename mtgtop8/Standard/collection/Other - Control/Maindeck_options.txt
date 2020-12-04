@@ -37,14 +37,14 @@
 2 Shatter the Sky
 4 Plains
 3 Swamp
-1 Clearwater Pathway
-2 Clearwater Pathway
 1 Ondu Inversion
 1 Lurrus of the Dream-Den
 3 Agadeem's Awakening
-4 Glass Casket
 4 Elspeth Conquers Death
+4 Glass Casket
+1 Clearwater Pathway
 1 Tangled Florahedron
+2 Clearwater Pathway
 2 Tangled Florahedron
 3 Temple of Silence
 3 Elspeth's Nightmare
@@ -66,28 +66,47 @@
 4 Mazemind Tome
 4 Ugin, the Spirit Dragon
 4 Shatter the Sky
-1 Heartless Act
+1 Wolfwillow Haven
+1 Cultivate
+1 Felidar Retreat
+1 Shadows' Verdict
+1 Erebos's Intervention
+2 Wolfwillow Haven
+2 Bala Ged Recovery
+2 Cultivate
+2 Erebos's Intervention
+3 Bala Ged Recovery
+3 Garruk, Cursed Huntsman
+3 Wolfwillow Haven
+3 Cultivate
+3 Emeria's Call
+3 Erebos's Intervention
+4 Emeria's Call
+4 Wolfwillow Haven
+4 Garruk, Cursed Huntsman
+4 Erebos's Intervention
+1 Yasharn, Implacable Earth
 1 Eliminate
 1 Duress
+1 Heartless Act
 1 Polukranos, Unchained
 1 Elder Gargaroth
 1 Thrashing Brontodon
 1 Cling to Dust
-1 Castle Locthwain
 1 Scavenging Ooze
-1 Yasharn, Implacable Earth
+1 Castle Locthwain
 2 Castle Locthwain
 2 Thrashing Brontodon
-2 Duress
 2 Yasharn, Implacable Earth
+2 Duress
 2 Heartless Act
 2 Elder Gargaroth
 2 Polukranos, Unchained
 2 Scavenging Ooze
 3 Scavenging Ooze
-3 Yasharn, Implacable Earth
 3 Duress
 3 Elder Gargaroth
+3 Yasharn, Implacable Earth
 4 Duress
 1 The Birth of Meletis
 2 The Birth of Meletis
@@ -100,116 +119,48 @@
 1 Transmogrify
 1 Shatterskull Smashing
 1 Valakut Awakening
+1 Harmonious Archon
 1 Elspeth, Sun's Nemesis
 1 Lukka, Coppercoat Outcast
 1 Outlaws' Merriment
 1 Fire Prophecy
-1 Harmonious Archon
-1 Castle Embereth
 1 Castle Ardenvale
 1 The Akroan War
+1 Castle Embereth
 1 Raugrin Triome
 2 Omen of the Sun
 2 Castle Ardenvale
 2 Needleverge Pathway
 2 Transmogrify
 2 Mountain
+2 Harmonious Archon
+2 Lukka, Coppercoat Outcast
 2 Shatterskull Smashing
 2 Fire Prophecy
-2 The Akroan War
-2 Harmonious Archon
 2 Elspeth, Sun's Nemesis
-2 Lukka, Coppercoat Outcast
+2 The Akroan War
 2 Raugrin Triome
 3 Omen of the Sun
 3 Needleverge Pathway
 3 Transmogrify
 3 Fire Prophecy
-3 Mountain
-3 Harmonious Archon
 3 Elspeth, Sun's Nemesis
+3 Harmonious Archon
+3 Mountain
 3 Raugrin Triome
-4 Needleverge Pathway
 4 Omen of the Sun
+4 Needleverge Pathway
 4 Transmogrify
 4 Fire Prophecy
 4 Harmonious Archon
 4 Mountain
-1 Wolfwillow Haven
-1 Cultivate
-1 Felidar Retreat
-1 Shadows' Verdict
-1 Erebos's Intervention
-2 Wolfwillow Haven
-2 Bala Ged Recovery
-2 Cultivate
-2 Erebos's Intervention
-3 Bala Ged Recovery
-3 Garruk, Cursed Huntsman
-3 Cultivate
-3 Erebos's Intervention
-3 Emeria's Call
-3 Wolfwillow Haven
-4 Emeria's Call
-4 Erebos's Intervention
-4 Garruk, Cursed Huntsman
-4 Wolfwillow Haven
 1 Island
 2 Island
-1 Jwari Disruption
-1 Frantic Inventory
-2 Frantic Inventory
-3 Frantic Inventory
-3 Island
-4 Frantic Inventory
-4 Island
-5 Island
-6 Island
-1 Sea Gate Stormcaller
-1 Hagra Mauling
-1 Ruin Crab
-1 Maddening Cacophony
-1 Vantress Gargoyle
-1 Teferi's Tutelage
-1 Into the Story
-1 Drown in the Loch
-1 Thieves' Guild Enforcer
-1 Bloodchief's Thirst
-1 Temple of Deceit
-2 Ruin Crab
-2 Maddening Cacophony
-2 Jwari Disruption
-2 Vantress Gargoyle
-2 Sea Gate Stormcaller
-2 Teferi's Tutelage
-2 Into the Story
-2 Bloodchief's Thirst
-2 Temple of Deceit
-2 Drown in the Loch
-2 Thieves' Guild Enforcer
-3 Ruin Crab
-3 Maddening Cacophony
-3 Vantress Gargoyle
-3 Sea Gate Stormcaller
-3 Clearwater Pathway
-3 Teferi's Tutelage
-3 Drown in the Loch
-3 Thieves' Guild Enforcer
-3 Temple of Deceit
-3 Into the Story
-4 Ruin Crab
-4 Maddening Cacophony
-4 Vantress Gargoyle
-4 Clearwater Pathway
-4 Teferi's Tutelage
-4 Drown in the Loch
-4 Thieves' Guild Enforcer
-4 Temple of Deceit
 1 Radiant Fountain
 1 Forsaken Monument
 1 Sleeper Dart
-1 Unknown Shores
 1 Swift Response
+1 Unknown Shores
 1 Labyrinth of Skophos
 1 Dance of the Manse
 1 Crawling Barrens
@@ -236,46 +187,56 @@
 6 Plains
 7 Plains
 8 Plains
+1 Rain of Revelation
+1 Jwari Disruption
 1 Lofty Denial
 1 Rewind
 1 Silundi Vision
-1 Hypnotic Sprite
+1 Mystic Sanctuary
 1 Sublime Epiphany
+1 Frantic Inventory
 1 Neutralize
 1 Into the Roil
-1 Mystic Sanctuary
 1 Brazen Borrower
-1 Rain of Revelation
 1 Gadwick, the Wizened
 1 Essence Scatter
 1 Kiora Bests the Sea God
+1 Hypnotic Sprite
 1 Bonders' Enclave
-1 Castle Vantress
 1 Shark Typhoon
+1 Castle Vantress
 2 Gadwick, the Wizened
-2 Castle Vantress
 2 Rain of Revelation
+2 Castle Vantress
 2 Lofty Denial
 2 Brazen Borrower
 2 Rewind
-2 Hypnotic Sprite
+2 Frantic Inventory
 2 Neutralize
 2 Essence Scatter
 2 Into the Roil
 2 Shark Typhoon
+2 Hypnotic Sprite
 3 Neutralize
-3 Castle Vantress
-3 Rewind
 3 Brazen Borrower
+3 Rewind
+3 Frantic Inventory
 3 Shark Typhoon
+3 Castle Vantress
+3 Island
 4 Neutralize
-4 Rewind
 4 Brazen Borrower
-4 Castle Vantress
+4 Rewind
+4 Frantic Inventory
 4 Shark Typhoon
+4 Island
+4 Castle Vantress
+5 Island
+6 Island
 7 Island
 8 Island
 9 Island
+10 Island
 11 Island
 12 Island
 13 Island
@@ -284,4 +245,3 @@
 16 Island
 17 Island
 18 Island
-10 Island
