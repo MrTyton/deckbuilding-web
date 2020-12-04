@@ -66,25 +66,6 @@
 4 Mazemind Tome
 4 Ugin, the Spirit Dragon
 4 Shatter the Sky
-1 Wolfwillow Haven
-1 Cultivate
-1 Felidar Retreat
-1 Shadows' Verdict
-1 Erebos's Intervention
-2 Wolfwillow Haven
-2 Bala Ged Recovery
-2 Cultivate
-2 Erebos's Intervention
-3 Bala Ged Recovery
-3 Garruk, Cursed Huntsman
-3 Wolfwillow Haven
-3 Cultivate
-3 Emeria's Call
-3 Erebos's Intervention
-4 Emeria's Call
-4 Wolfwillow Haven
-4 Garruk, Cursed Huntsman
-4 Erebos's Intervention
 1 Yasharn, Implacable Earth
 1 Eliminate
 1 Duress
@@ -97,10 +78,10 @@
 1 Castle Locthwain
 2 Castle Locthwain
 2 Thrashing Brontodon
-2 Yasharn, Implacable Earth
 2 Duress
 2 Heartless Act
 2 Elder Gargaroth
+2 Yasharn, Implacable Earth
 2 Polukranos, Unchained
 2 Scavenging Ooze
 3 Scavenging Ooze
@@ -119,7 +100,6 @@
 1 Transmogrify
 1 Shatterskull Smashing
 1 Valakut Awakening
-1 Harmonious Archon
 1 Elspeth, Sun's Nemesis
 1 Lukka, Coppercoat Outcast
 1 Outlaws' Merriment
@@ -127,26 +107,27 @@
 1 Castle Ardenvale
 1 The Akroan War
 1 Castle Embereth
+1 Harmonious Archon
 1 Raugrin Triome
 2 Omen of the Sun
 2 Castle Ardenvale
 2 Needleverge Pathway
 2 Transmogrify
 2 Mountain
-2 Harmonious Archon
-2 Lukka, Coppercoat Outcast
 2 Shatterskull Smashing
+2 Lukka, Coppercoat Outcast
 2 Fire Prophecy
 2 Elspeth, Sun's Nemesis
 2 The Akroan War
+2 Harmonious Archon
 2 Raugrin Triome
 3 Omen of the Sun
 3 Needleverge Pathway
 3 Transmogrify
 3 Fire Prophecy
 3 Elspeth, Sun's Nemesis
-3 Harmonious Archon
 3 Mountain
+3 Harmonious Archon
 3 Raugrin Triome
 4 Omen of the Sun
 4 Needleverge Pathway
@@ -154,6 +135,25 @@
 4 Fire Prophecy
 4 Harmonious Archon
 4 Mountain
+1 Wolfwillow Haven
+1 Cultivate
+1 Felidar Retreat
+1 Shadows' Verdict
+1 Erebos's Intervention
+2 Wolfwillow Haven
+2 Bala Ged Recovery
+2 Cultivate
+2 Erebos's Intervention
+3 Bala Ged Recovery
+3 Garruk, Cursed Huntsman
+3 Cultivate
+3 Emeria's Call
+3 Erebos's Intervention
+3 Wolfwillow Haven
+4 Emeria's Call
+4 Erebos's Intervention
+4 Wolfwillow Haven
+4 Garruk, Cursed Huntsman
 1 Island
 2 Island
 1 Radiant Fountain
@@ -167,15 +167,15 @@
 2 Crawling Barrens
 2 Radiant Fountain
 2 Sleeper Dart
-2 Labyrinth of Skophos
 2 Unknown Shores
+2 Labyrinth of Skophos
 2 Forsaken Monument
 2 Dance of the Manse
 2 Swift Response
 3 Solemn Simulacrum
 3 Radiant Fountain
-3 Sleeper Dart
 3 Unknown Shores
+3 Sleeper Dart
 3 Forsaken Monument
 3 Crawling Barrens
 4 Solemn Simulacrum
@@ -192,51 +192,50 @@
 1 Lofty Denial
 1 Rewind
 1 Silundi Vision
+1 Hypnotic Sprite
 1 Mystic Sanctuary
-1 Sublime Epiphany
 1 Frantic Inventory
+1 Sublime Epiphany
 1 Neutralize
 1 Into the Roil
 1 Brazen Borrower
 1 Gadwick, the Wizened
 1 Essence Scatter
 1 Kiora Bests the Sea God
-1 Hypnotic Sprite
 1 Bonders' Enclave
 1 Shark Typhoon
 1 Castle Vantress
 2 Gadwick, the Wizened
-2 Rain of Revelation
 2 Castle Vantress
+2 Rain of Revelation
 2 Lofty Denial
 2 Brazen Borrower
 2 Rewind
+2 Hypnotic Sprite
 2 Frantic Inventory
 2 Neutralize
 2 Essence Scatter
 2 Into the Roil
 2 Shark Typhoon
-2 Hypnotic Sprite
 3 Neutralize
-3 Brazen Borrower
 3 Rewind
+3 Brazen Borrower
+3 Castle Vantress
 3 Frantic Inventory
 3 Shark Typhoon
-3 Castle Vantress
 3 Island
 4 Neutralize
-4 Brazen Borrower
 4 Rewind
+4 Brazen Borrower
+4 Castle Vantress
 4 Frantic Inventory
 4 Shark Typhoon
 4 Island
-4 Castle Vantress
 5 Island
 6 Island
 7 Island
 8 Island
 9 Island
-10 Island
 11 Island
 12 Island
 13 Island
@@ -245,3 +244,4 @@
 16 Island
 17 Island
 18 Island
+10 Island

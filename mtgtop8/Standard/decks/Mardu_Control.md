@@ -86,6 +86,6 @@
 |                    1|[Golden Egg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473182)             |                     |                                                                                                 |
 |                    1|[Spare Supplies](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491905)         |                     |                                                                                                 |
 |                    1|[Spikefield Hazard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491809)      |                     |                                                                                                 |
-|                    2|[Spikefield Hazard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491809)      |                     |                                                                                                 |
 |                    2|[Spare Supplies](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491905)         |                     |                                                                                                 |
+|                    2|[Spikefield Hazard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491809)      |                     |                                                                                                 |
 

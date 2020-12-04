@@ -1,11 +1,13 @@
+2 Ominous Seas
+4 Memory Leak
+3 Plains
 3 Mountain
 4 Plains
 4 Mountain
-1 Ominous Seas
-2 Ominous Seas
-4 Memory Leak
 1 Savai Triome
 1 Island
+1 Shredded Sails
+2 Shredded Sails
 1 Improbable Alliance
 2 Improbable Alliance
 3 Improbable Alliance
@@ -14,45 +16,42 @@
 1 Valakut Awakening
 2 Neutralize
 2 Valakut Awakening
-3 Neutralize
 3 Ominous Seas
-3 Raugrin Triome
-1 Shredded Sails
-2 Shredded Sails
 3 Valakut Awakening
 4 Valakut Awakening
 1 Sea Gate Restoration
 1 Jwari Disruption
 2 Jwari Disruption
+3 Neutralize
 2 Clearwater Pathway
 3 Clearwater Pathway
 4 Clearwater Pathway
+3 Raugrin Triome
+3 Shredded Sails
 1 Shatterskull Smashing
 2 Shatterskull Smashing
-3 Shredded Sails
-5 Plains
-6 Plains
 3 Brightclimb Pathway
 4 Brightclimb Pathway
+1 Easy Prey
 3 Shatterskull Smashing
+5 Plains
+6 Plains
+2 Easy Prey
+3 Easy Prey
+4 Raugrin Triome
 5 Mountain
 6 Mountain
 7 Mountain
 7 Plains
-1 Easy Prey
-2 Easy Prey
-3 Easy Prey
-4 Raugrin Triome
 8 Plains
-4 Frostveil Ambush
-9 Plains
 2 Island
+4 Frostveil Ambush
 2 Savai Triome
-10 Plains
+9 Plains
 1 Emeria's Call
 2 Emeria's Call
 3 Island
-11 Plains
+10 Plains
 1 Spikefield Hazard
 1 Sejiri Shelter
 1 Raking Claws
@@ -65,19 +64,19 @@
 1 Wind-Scarred Crag
 2 Raking Claws
 1 Temple of Epiphany
-1 Temple of Enlightenment
 1 Reptilian Reflection
+1 Temple of Enlightenment
 1 Splendor Mare
 1 Teferi's Ageless Insight
 2 Temple of Epiphany
 2 Teferi's Ageless Insight
 2 Splendor Mare
-4 Neutralize
+4 Yidaro, Wandering Monster
 1 Coordinated Charge
 2 Spikefield Hazard
 3 Spikefield Hazard
 4 Spikefield Hazard
-4 Yidaro, Wandering Monster
+4 Neutralize
 1 Fabled Passage
 1 Rielle, the Everwise
 1 Irencrag Pyromancer
@@ -86,6 +85,7 @@
 3 Irencrag Pyromancer
 3 Rielle, the Everwise
 4 Irencrag Pyromancer
+4 Ominous Seas
 1 Cragcrown Pathway
 1 Jolrael, Mwonvuli Recluse
 2 Branchloft Pathway
@@ -94,5 +94,6 @@
 3 Branchloft Pathway
 3 Jolrael, Mwonvuli Recluse
 3 Cragcrown Pathway
-4 Branchloft Pathway
 4 Cragcrown Pathway
+4 Branchloft Pathway
+11 Plains

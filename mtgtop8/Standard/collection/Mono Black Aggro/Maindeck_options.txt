@@ -29,12 +29,12 @@
 2 Liliana, Waker of the Dead
 4 Castle Locthwain
 2 Hagra Mauling
+1 Hateful Eidolon
 1 Dead Weight
 1 Mire's Grasp
-1 Hateful Eidolon
-2 Dead Weight
 2 Mire's Grasp
 2 Hateful Eidolon
+2 Dead Weight
 3 Mire's Grasp
 3 Hateful Eidolon
 3 Dead Weight
@@ -50,12 +50,12 @@
 1 Inscription of Ruin
 1 Hunted Nightmare
 1 Blackbloom Rogue
-2 Heraldic Banner
 2 Inscription of Ruin
+2 Heraldic Banner
 2 Whisper Squad
 2 Hunted Nightmare
-3 Inscription of Ruin
 3 Rankle, Master of Pranks
+3 Inscription of Ruin
 3 Whisper Squad
 3 Hunted Nightmare
 4 Whisper Squad
@@ -89,11 +89,17 @@
 2 Elspeth's Nightmare
 3 Heraldic Banner
 3 Liliana, Waker of the Dead
+1 Marauding Blight-Priest
+1 Soul Shatter
+2 Marauding Blight-Priest
+2 Soul Shatter
+3 Marauding Blight-Priest
+4 Marauding Blight-Priest
+3 Hagra Mauling
+4 Lurrus of the Dream-Den
 1 Massacre Wurm
 3 Vito, Thorn of the Dusk Rose
 4 Murderous Rider
-3 Hagra Mauling
-4 Lurrus of the Dream-Den
 1 Pelakka Predation
 1 Order of Midnight
 1 Pestilent Haze
@@ -106,12 +112,6 @@
 3 Pelakka Predation
 3 Mogis's Favor
 4 Order of Midnight
-1 Soul Shatter
-1 Marauding Blight-Priest
-2 Soul Shatter
-2 Marauding Blight-Priest
-3 Marauding Blight-Priest
-4 Marauding Blight-Priest
 1 Tymaret Calls the Dead
 1 Aphemia, the Cacophony
 2 Crawling Barrens
@@ -121,6 +121,23 @@
 3 Tymaret Calls the Dead
 4 Aphemia, the Cacophony
 4 Tymaret Calls the Dead
+1 Foulmire Knight
+1 Pharika's Spawn
+1 Mindwrack Harpy
+1 Underworld Dreams
+2 Foulmire Knight
+2 Pharika's Spawn
+2 Underworld Dreams
+2 Kitesail Freebooter
+3 Foulmire Knight
+3 Underworld Dreams
+3 Kitesail Freebooter
+4 Gray Merchant of Asphodel
+4 Underworld Dreams
+4 Kitesail Freebooter
+22 Swamp
+23 Swamp
+24 Swamp
 1 Evolving Wilds
 1 Witch's Oven
 1 Silversmote Ghoul
@@ -143,28 +160,11 @@
 3 Silversmote Ghoul
 3 Jungle Hollow
 3 Savvy Hunter
+3 Lampad of Death's Vigil
 3 Deathless Knight
 3 Forest
-3 Lampad of Death's Vigil
 4 Silversmote Ghoul
 4 Savvy Hunter
 4 Jungle Hollow
 4 Lampad of Death's Vigil
 4 Forest
-1 Foulmire Knight
-1 Underworld Dreams
-1 Mindwrack Harpy
-1 Pharika's Spawn
-2 Foulmire Knight
-2 Underworld Dreams
-2 Pharika's Spawn
-2 Kitesail Freebooter
-3 Foulmire Knight
-3 Underworld Dreams
-3 Kitesail Freebooter
-4 Kitesail Freebooter
-4 Underworld Dreams
-4 Gray Merchant of Asphodel
-22 Swamp
-23 Swamp
-24 Swamp

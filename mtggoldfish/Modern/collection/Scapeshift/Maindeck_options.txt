@@ -48,24 +48,24 @@
 4 Fatal Push
 3 Wooded Foothills
 1 Temple Garden
-1 Sacred Foundry
 1 Windswept Heath
 1 Flagstones of Trokair
-1 Sejiri Shelter
 1 Elvish Reclaimer
 1 Arid Mesa
-1 Akoum Hellhound
 1 Sejiri Steppe
+1 Akoum Hellhound
 1 Mishra's Bauble
 1 Atarka's Command
 1 Brushfire Elemental
+1 Sejiri Shelter
 1 Sunbaked Canyon
+1 Sacred Foundry
 1 Soaring Seacliff
 1 Steppe Lynx
 2 Flagstones of Trokair
 2 Elvish Reclaimer
-2 Arid Mesa
 2 Sacred Foundry
+2 Arid Mesa
 2 Akoum Hellhound
 2 Brushfire Elemental
 2 Mishra's Bauble
@@ -82,8 +82,8 @@
 3 Steppe Lynx
 3 Windswept Heath
 4 Flagstones of Trokair
-4 Elvish Reclaimer
 4 Brushfire Elemental
+4 Elvish Reclaimer
 4 Akoum Hellhound
 4 Mishra's Bauble
 4 Wooded Foothills
@@ -147,8 +147,8 @@
 3 Snow-Covered Forest
 1 Ice-Fang Coatl
 1 Abundant Growth
-1 Arboreal Grazer
 1 Search for Azcanta
+1 Arboreal Grazer
 2 Ice-Fang Coatl
 2 Abundant Growth
 2 Arboreal Grazer
@@ -173,8 +173,8 @@
 2 Shark Typhoon
 2 Abrupt Decay
 2 Mana Leak
-1 Sheltered Thicket
 1 Courser of Kruphix
+1 Sheltered Thicket
 1 Terminate
 1 Obstinate Baloth
 1 Thoughtseize
@@ -200,11 +200,8 @@
 2 Peer Through Depths
 3 Jwari Disruption
 4 Jwari Disruption
-1 Brazen Borrower
-2 Brazen Borrower
-4 Wrenn and Six
-1 Maddening Cacophony
 1 Verdant Catacombs
+1 Maddening Cacophony
 2 Verdant Catacombs
 2 Maddening Cacophony
 2 Swamp
@@ -217,3 +214,6 @@
 3 Botanical Sanctum
 4 Botanical Sanctum
 4 Censor
+1 Brazen Borrower
+2 Brazen Borrower
+4 Wrenn and Six

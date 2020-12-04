@@ -64,7 +64,7 @@
 |                    3|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)  |                    3|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)       |
 |                    4|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)  |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)          |
 |                    1|[Shatterskull Smashing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491802) |                    4|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)       |
-|                    1|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)      |                    4|[Savage Summoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370710)      |
-|                    2|[Vastwood Fortification](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491866)|                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)   |
+|                    1|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)      |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)   |
+|                    2|[Vastwood Fortification](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491866)|                    4|[Savage Summoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370710)      |
 |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)     |                     |                                                                                                 |
 

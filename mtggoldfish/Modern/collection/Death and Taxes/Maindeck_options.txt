@@ -11,17 +11,17 @@
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 2 Sunbaked Canyon
+1 Razorverge Thicket
 1 Branchloft Pathway
 1 Noble Hierarch
-1 Razorverge Thicket
 1 Temple Garden
 2 Branchloft Pathway
 2 Noble Hierarch
 2 Temple Garden
 2 Razorverge Thicket
+3 Temple Garden
 3 Branchloft Pathway
 3 Noble Hierarch
-3 Temple Garden
 3 Razorverge Thicket
 4 Razorverge Thicket
 4 Temple Garden
@@ -35,17 +35,17 @@
 2 Militia Bugler
 1 Restoration Angel
 1 Kazandu Mammoth
-1 Eternal Witness
-1 Snow-Covered Forest
 1 Brushland
 1 Collected Company
+1 Eternal Witness
+1 Snow-Covered Forest
 2 Eternal Witness
 2 Brushland
 2 Collected Company
 2 Kazandu Mammoth
 3 Collected Company
-4 Collected Company
 4 Branchloft Pathway
+4 Collected Company
 1 Blast Zone
 1 Spellskite
 1 Winds of Abandon
@@ -76,21 +76,21 @@
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
-1 Smuggler's Copter
 1 Blade Splicer
+1 Smuggler's Copter
 1 Thraben Inspector
-2 Smuggler's Copter
 2 Castle Ardenvale
 2 Blade Splicer
 2 Thraben Inspector
+2 Smuggler's Copter
 3 Blade Splicer
 3 Thraben Inspector
 4 Thraben Inspector
 18 Plains
 19 Plains
 20 Plains
-1 Sword of Feast and Famine
 1 Forest
+1 Sword of Feast and Famine
 2 Shefet Dunes
 1 Unsettled Mariner
 1 Snow-Covered Island
@@ -106,40 +106,40 @@
 3 Unsettled Mariner
 3 Spell Queller
 4 Spell Queller
-1 Mirran Crusader
-1 Judge's Familiar
-1 Grim Lavamancer
-1 Inspiring Vantage
-1 Goblin Cratermaker
-1 Selfless Spirit
-1 Weathered Wayfarer
-1 Lurrus of the Dream-Den
-1 Needleverge Pathway
-1 Jaya Ballard, Task Mage
-1 Lightning Bolt
-1 Arid Mesa
-1 Slayers' Stronghold
-2 Mirran Crusader
-2 Judge's Familiar
-2 Inspiring Vantage
-2 Selfless Spirit
-2 Slayers' Stronghold
-2 Lightning Bolt
-3 Judge's Familiar
-3 Inspiring Vantage
-3 Selfless Spirit
-3 Slayers' Stronghold
-4 Judge's Familiar
-4 Inspiring Vantage
-1 Magus of the Moon
 1 Mountain
+1 Magus of the Moon
 1 Boros Charm
 2 Magus of the Moon
 2 Boros Charm
 3 Sunbaked Canyon
 3 Magus of the Moon
-4 Sunbaked Canyon
 4 Sacred Foundry
+4 Sunbaked Canyon
+1 Mirran Crusader
+1 Judge's Familiar
+1 Inspiring Vantage
+1 Needleverge Pathway
+1 Grim Lavamancer
+1 Lightning Bolt
+1 Goblin Cratermaker
+1 Selfless Spirit
+1 Weathered Wayfarer
+1 Lurrus of the Dream-Den
+1 Jaya Ballard, Task Mage
+1 Arid Mesa
+1 Slayers' Stronghold
+2 Inspiring Vantage
+2 Mirran Crusader
+2 Judge's Familiar
+2 Lightning Bolt
+2 Selfless Spirit
+2 Slayers' Stronghold
+3 Inspiring Vantage
+3 Judge's Familiar
+3 Selfless Spirit
+3 Slayers' Stronghold
+4 Inspiring Vantage
+4 Judge's Familiar
 1 Island
 3 Seachrome Coast
 3 Hallowed Fountain
