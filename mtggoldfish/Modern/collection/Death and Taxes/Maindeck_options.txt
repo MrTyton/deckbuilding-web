@@ -3,13 +3,13 @@
 1 Aven Mindcensor
 3 Horizon Canopy
 4 Horizon Canopy
-1 Linvala, Keeper of Silence
+1 Snow-Covered Plains
 2 Aven Mindcensor
 1 Castle Ardenvale
 1 Sword of Light and Shadow
-1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
+1 Linvala, Keeper of Silence
 2 Sunbaked Canyon
 1 Razorverge Thicket
 1 Branchloft Pathway
@@ -33,7 +33,10 @@
 1 Shefet Dunes
 1 Militia Bugler
 2 Militia Bugler
+3 Silent Clearing
 1 Restoration Angel
+4 Snow-Covered Plains
+5 Snow-Covered Plains
 1 Kazandu Mammoth
 1 Brushland
 1 Collected Company
@@ -57,11 +60,11 @@
 15 Plains
 16 Plains
 17 Plains
-1 Skyclave Cleric
-2 Skyclave Cleric
-3 Silent Clearing
-4 Snow-Covered Plains
-5 Snow-Covered Plains
+6 Snow-Covered Plains
+7 Snow-Covered Plains
+8 Snow-Covered Plains
+9 Snow-Covered Plains
+4 Silent Clearing
 1 Hallowed Fountain
 1 Seachrome Coast
 1 Geist of Saint Traft
@@ -72,10 +75,6 @@
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
-6 Snow-Covered Plains
-7 Snow-Covered Plains
-8 Snow-Covered Plains
-9 Snow-Covered Plains
 1 Blade Splicer
 1 Smuggler's Copter
 1 Thraben Inspector
@@ -90,22 +89,11 @@
 19 Plains
 20 Plains
 1 Forest
-1 Sword of Feast and Famine
+1 Tectonic Edge
 2 Shefet Dunes
-1 Unsettled Mariner
-1 Snow-Covered Island
-1 Deputy of Detention
-1 Glacial Fortress
-1 Spell Queller
-1 Steel of the Godhead
-2 Unsettled Mariner
-2 Snow-Covered Island
-2 Spell Queller
-2 Steel of the Godhead
-3 Snow-Covered Island
-3 Unsettled Mariner
-3 Spell Queller
-4 Spell Queller
+1 Skyclave Cleric
+1 Sword of Feast and Famine
+2 Skyclave Cleric
 1 Mountain
 1 Magus of the Moon
 1 Boros Charm
@@ -115,19 +103,33 @@
 3 Magus of the Moon
 4 Sacred Foundry
 4 Sunbaked Canyon
+1 Unsettled Mariner
+1 Snow-Covered Island
+1 Spell Queller
+1 Deputy of Detention
+1 Glacial Fortress
+1 Steel of the Godhead
+2 Unsettled Mariner
+2 Snow-Covered Island
+2 Spell Queller
+2 Steel of the Godhead
+3 Snow-Covered Island
+3 Spell Queller
+3 Unsettled Mariner
+4 Spell Queller
 1 Mirran Crusader
-1 Judge's Familiar
 1 Inspiring Vantage
 1 Needleverge Pathway
+1 Judge's Familiar
 1 Grim Lavamancer
 1 Lightning Bolt
 1 Goblin Cratermaker
 1 Selfless Spirit
 1 Weathered Wayfarer
 1 Lurrus of the Dream-Den
+1 Slayers' Stronghold
 1 Jaya Ballard, Task Mage
 1 Arid Mesa
-1 Slayers' Stronghold
 2 Inspiring Vantage
 2 Mirran Crusader
 2 Judge's Familiar
@@ -145,5 +147,4 @@
 3 Hallowed Fountain
 4 Seachrome Coast
 4 Hallowed Fountain
-1 Tectonic Edge
-4 Silent Clearing
+10 Snow-Covered Plains

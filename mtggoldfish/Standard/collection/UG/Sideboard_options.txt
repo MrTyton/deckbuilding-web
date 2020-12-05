@@ -5,12 +5,12 @@
 4 Ranger's Guile
 3 Scorching Dragonfire
 4 Destiny Spinner
+2 Kazandu Nectarpot
 1 Negate
 1 Forever Young
 2 Forever Young
 3 Forever Young
 2 Negate
-2 Kazandu Nectarpot
 1 Gemrazer
 1 Tormod's Crypt
 2 Tormod's Crypt
@@ -37,40 +37,27 @@
 2 Klothys, God of Destiny
 4 Scavenging Ooze
 1 Pouncing Shoreshark
+1 Elder Gargaroth
 1 Duress
 2 Duress
-1 Elder Gargaroth
 2 Elder Gargaroth
 1 Bloodchief's Thirst
 1 Garruk's Harbinger
 2 Garruk's Harbinger
 1 Agonizing Remorse
-1 Elspeth's Nightmare
 1 Mire Triton
+1 Elspeth's Nightmare
 2 Bloodchief's Thirst
 1 Primal Might
 2 Primal Might
-1 Shredded Sails
-2 Shredded Sails
-1 Cragplate Baloth
-2 Cragplate Baloth
 1 Elspeth, Sun's Nemesis
 1 Mangara, the Diplomat
 2 Elspeth, Sun's Nemesis
 2 Mangara, the Diplomat
-1 Dreamtail Heron
-1 Boon of the Wish-Giver
-1 Bubble Snare
-1 Archipelagore
-1 Mystic Subdual
-1 Cling to Dust
-1 Mind Carver
-2 Dreamtail Heron
-2 Boon of the Wish-Giver
-2 Bubble Snare
-2 Mystic Subdual
-2 Cling to Dust
-2 Archipelagore
+1 Cragplate Baloth
+2 Cragplate Baloth
+1 Shredded Sails
+2 Shredded Sails
 1 Ugin, the Spirit Dragon
 1 Fire Prophecy
 2 Fire Prophecy
@@ -86,21 +73,21 @@
 2 Bonecrusher Giant
 2 Mystical Dispute
 3 Bonecrusher Giant
-1 Soul-Guide Lantern
-2 Pouncing Shoreshark
-2 Soul-Guide Lantern
-3 Pouncing Shoreshark
-3 Soul-Guide Lantern
 1 Ram Through
 1 Feed the Swarm
 2 Ram Through
 2 Feed the Swarm
 3 Feed the Swarm
-1 Llanowar Visionary
-1 Shock
+1 Soul-Guide Lantern
+2 Pouncing Shoreshark
+2 Soul-Guide Lantern
+3 Pouncing Shoreshark
+3 Soul-Guide Lantern
 1 Tajuru Blightblade
 1 Adventurous Impulse
+1 Shock
 1 Roiling Regrowth
+1 Llanowar Visionary
 1 Cultivate
 1 Azusa, Lost but Seeking
 2 Adventurous Impulse
@@ -115,19 +102,19 @@
 3 Legion Angel
 3 Elspeth Conquers Death
 4 Elspeth Conquers Death
-1 Cinderclasm
-2 Cinderclasm
-3 Cinderclasm
-3 Heroic Intervention
-4 Cinderclasm
 1 Wilt
 1 Witch's Vengeance
-2 Witch's Vengeance
 2 Wilt
-3 Duress
-3 Witch's Vengeance
+2 Witch's Vengeance
 3 Kazandu Nectarpot
+3 Witch's Vengeance
+3 Duress
 4 Kazandu Nectarpot
+1 Cinderclasm
+2 Cinderclasm
+3 Heroic Intervention
+3 Cinderclasm
+4 Cinderclasm
 1 Brokkos, Apex of Forever
 1 Parcelbeast
 1 Trumpeting Gnarr
@@ -143,9 +130,9 @@
 3 Parcelbeast
 4 Parcelbeast
 1 Heartless Act
+1 Extinction Event
 1 Stonecoil Serpent
 1 Lovestruck Beast
-1 Extinction Event
 1 Temple of Malady
 1 Scute Swarm
 2 Heartless Act
@@ -153,6 +140,19 @@
 2 Lovestruck Beast
 3 Garruk's Harbinger
 4 Garruk's Harbinger
+1 Beanstalk Giant
+1 Oran-Rief Ooze
+1 Swarm Shambler
+1 Nylea's Intervention
+1 Hornbash Mentor
+1 Ilysian Caryatid
+1 Treeshaker Chimera
+1 Strength of Solidarity
+1 Canopy Baloth
+2 Swarm Shambler
+2 Hornbash Mentor
+2 Strength of Solidarity
+2 Canopy Baloth
 1 Yasharn, Implacable Earth
 1 Roiling Vortex
 2 Yasharn, Implacable Earth

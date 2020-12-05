@@ -25,10 +25,10 @@
 3 Castle Locthwain
 1 Lotus Cobra
 2 Lotus Cobra
-1 Ilysian Caryatid
 1 Tangled Florahedron
-2 Ilysian Caryatid
+1 Ilysian Caryatid
 2 Tangled Florahedron
+2 Ilysian Caryatid
 3 Tangled Florahedron
 3 Ilysian Caryatid
 4 Ilysian Caryatid
@@ -38,26 +38,26 @@
 3 Mire Triton
 1 Bala Ged Recovery
 1 Inscription of Abundance
-1 Migratory Greathorn
-1 Brokkos, Apex of Forever
 1 Elspeth's Nightmare
+1 Brokkos, Apex of Forever
+1 Migratory Greathorn
 1 Essence Symbiote
 2 Essence Symbiote
 2 Bala Ged Recovery
-2 Migratory Greathorn
 2 Elspeth's Nightmare
+2 Migratory Greathorn
 2 Inscription of Abundance
 3 Essence Symbiote
-3 Migratory Greathorn
 3 Polukranos, Unchained
+3 Migratory Greathorn
 4 Polukranos, Unchained
 4 Castle Locthwain
 4 Migratory Greathorn
 1 Turntimber Symbiosis
 2 Turntimber Symbiosis
 1 Nissa of Shadowed Boughs
-1 Branchloft Pathway
 1 Brightclimb Pathway
+1 Branchloft Pathway
 2 Branchloft Pathway
 4 Zagoth Triome
 2 Massacre Wurm
@@ -65,11 +65,11 @@
 9 Forest
 10 Forest
 1 Thrashing Brontodon
+1 Inscription of Ruin
+2 Inscription of Ruin
 1 Dirge Bat
 2 Dirge Bat
 2 Hagra Mauling
-1 Inscription of Ruin
-2 Inscription of Ruin
 2 Elder Gargaroth
 1 Mythos of Nethroi
 1 Kenrith, the Returned King
@@ -88,24 +88,24 @@
 1 Lochmere Serpent
 1 Kogla, the Titan Ape
 1 Thassa, Deep-Dwelling
+1 Humble Naturalist
 1 Nightmare Shepherd
 1 Thassa's Oracle
-1 Humble Naturalist
 1 Gyruda, Doom of Depths
 1 Clearwater Pathway
 2 Solemn Simulacrum
-2 Thassa, Deep-Dwelling
 2 Lochmere Serpent
 2 Kogla, the Titan Ape
 2 Gyruda, Doom of Depths
 2 Humble Naturalist
+2 Thassa, Deep-Dwelling
 2 Nightmare Shepherd
 2 Clearwater Pathway
 3 Solemn Simulacrum
-3 Nightmare Shepherd
 3 Questing Beast
-3 Thassa, Deep-Dwelling
+3 Nightmare Shepherd
 3 Humble Naturalist
+3 Thassa, Deep-Dwelling
 3 Lochmere Serpent
 3 Clearwater Pathway
 3 Gyruda, Doom of Depths
@@ -136,17 +136,17 @@
 2 Evolving Wilds
 2 Greater Sandwurm
 3 Jungle Hollow
-3 Grasp of Darkness
 3 Ram Through
 3 Chainweb Aracnir
 3 Llanowar Visionary
 3 Garruk's Uprising
-4 Grasp of Darkness
-4 Mire Triton
+3 Grasp of Darkness
+4 Jungle Hollow
 4 Ram Through
+4 Mire Triton
 4 Llanowar Visionary
 4 Garruk's Uprising
-4 Jungle Hollow
+4 Grasp of Darkness
 7 Swamp
 1 Nethroi, Apex of Death
 2 Nethroi, Apex of Death

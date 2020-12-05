@@ -11,10 +11,13 @@
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
-4 Spell Queller
-1 Charming Prince
 7 Plains
 8 Plains
+4 Spell Queller
+1 Charming Prince
+9 Plains
+1 Archon of Emeria
+2 Archon of Emeria
 1 Horizon Canopy
 1 Selfless Savior
 1 Confounding Conundrum
@@ -22,17 +25,14 @@
 2 Confounding Conundrum
 3 Confounding Conundrum
 4 Confounding Conundrum
+10 Plains
 2 Horizon Canopy
-9 Plains
-1 Archon of Emeria
-2 Archon of Emeria
 1 Eiganjo Castle
 1 Shefet Dunes
+3 Silent Clearing
 2 Charming Prince
 1 Sunbaked Canyon
-10 Plains
 1 Lurrus of the Dream-Den
-3 Silent Clearing
 4 Silent Clearing
 2 Shefet Dunes
 1 Eldrazi Temple
@@ -57,9 +57,12 @@
 2 Sunbaked Canyon
 3 Sunbaked Canyon
 3 Charming Prince
+11 Plains
+12 Plains
 1 Sword of Light and Shadow
 1 Skyclave Cleric
 2 Skyclave Cleric
+1 Spellskite
 1 Reality Smasher
 1 Wastes
 1 Snow-Covered Plains
@@ -79,6 +82,9 @@
 1 Deputy of Detention
 2 Deputy of Detention
 2 Lurrus of the Dream-Den
+1 Akroma, Angel of Fury
+3 Shefet Dunes
+4 Shefet Dunes
 1 Tidehollow Sculler
 1 Tectonic Edge
 1 Brightclimb Pathway
@@ -111,9 +117,9 @@
 1 Winota, Joiner of Forces
 1 Mountain
 1 Angrath's Marauders
-2 Sacred Foundry
 2 Needleverge Pathway
 2 Pia and Kiran Nalaar
+2 Sacred Foundry
 2 Inspiring Vantage
 2 Winota, Joiner of Forces
 2 Seasoned Pyromancer
@@ -138,14 +144,12 @@
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
-1 Akroma, Angel of Fury
-3 Shefet Dunes
-4 Shefet Dunes
-11 Plains
-12 Plains
-1 Linvala, Keeper of Silence
 1 Scavenger Grounds
-1 Spellskite
+1 Linvala, Keeper of Silence
+1 Ethersworn Canonist
+2 Spellskite
+2 Ethersworn Canonist
+3 Ethersworn Canonist
 1 Unsettled Mariner
 1 Spirit of the Labyrinth
 1 Tale's End
@@ -159,19 +163,19 @@
 3 Unsettled Mariner
 3 Island
 1 Bonecrusher Giant
+1 Simian Spirit Guide
 1 Containment Priest
 1 Gemstone Caverns
-1 Simian Spirit Guide
 1 Chalice of the Void
 2 Bonecrusher Giant
+2 Simian Spirit Guide
 2 Containment Priest
 2 Gemstone Caverns
 2 Chalice of the Void
-2 Simian Spirit Guide
 3 Containment Priest
+3 Simian Spirit Guide
 3 Chalice of the Void
 3 Gemstone Caverns
-3 Simian Spirit Guide
 4 Containment Priest
 4 Chalice of the Void
 4 Simian Spirit Guide

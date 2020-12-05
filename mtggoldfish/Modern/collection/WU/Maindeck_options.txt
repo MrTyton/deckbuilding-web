@@ -3,22 +3,21 @@
 4 Thalia, Guardian of Thraben
 4 Aether Vial
 5 Plains
+1 Teferi, Time Raveler
 3 Flickerwisp
 4 Flickerwisp
-1 Teferi, Time Raveler
 1 Confounding Conundrum
 2 Confounding Conundrum
 3 Confounding Conundrum
 4 Confounding Conundrum
 6 Plains
-4 Spell Queller
 2 Teferi, Time Raveler
+4 Spell Queller
 3 Teferi, Time Raveler
 1 Selfless Savior
 2 Selfless Savior
 1 Silent Clearing
 2 Silent Clearing
-1 Lurrus of the Dream-Den
 1 Jace, the Mind Sculptor
 1 Cryptic Command
 1 Flooded Strand
@@ -30,91 +29,110 @@
 1 Mystic Sanctuary
 1 Force of Negation
 2 Force of Negation
-1 Snapcaster Mage
-1 Opt
-2 Snapcaster Mage
-2 Opt
-3 Opt
 1 Archmage's Charm
 2 Mystic Sanctuary
-1 Supreme Verdict
-1 Teferi, Hero of Dominaria
-1 Spell Snare
+1 Opt
+2 Opt
+3 Opt
 4 Opt
+1 Teferi, Hero of Dominaria
+2 Archmage's Charm
+3 Force of Negation
+1 Snapcaster Mage
+2 Snapcaster Mage
+1 Polluted Delta
+1 Spell Snare
+1 Supreme Verdict
 2 Island
 3 Island
-2 Archmage's Charm
+1 Lurrus of the Dream-Den
 3 Snapcaster Mage
-1 Polluted Delta
-3 Force of Negation
 4 Island
 5 Island
-2 Supreme Verdict
 1 Celestial Colonnade
+1 Mana Leak
+2 Teferi, Hero of Dominaria
+1 Shark Typhoon
+2 Shark Typhoon
+2 Supreme Verdict
 1 Prairie Stream
 2 Celestial Colonnade
 2 Polluted Delta
-3 Cryptic Command
-1 Mana Leak
 6 Island
+1 Logic Knot
+1 Misty Rainforest
+2 Misty Rainforest
+3 Archmage's Charm
+1 Scalding Tarn
+3 Cryptic Command
 1 Watcher for Tomorrow
 2 Watcher for Tomorrow
 3 Watcher for Tomorrow
-2 Teferi, Hero of Dominaria
+1 Snow-Covered Plains
+1 Snow-Covered Island
+2 Snow-Covered Island
+3 Snow-Covered Island
+4 Snow-Covered Island
+5 Snow-Covered Island
+3 Mystic Sanctuary
+1 Terminus
 1 Archon of Emeria
 2 Archon of Emeria
 1 Horizon Canopy
 2 Lurrus of the Dream-Den
 1 Cavern of Souls
 2 Cavern of Souls
-1 Shark Typhoon
-2 Shark Typhoon
-1 Misty Rainforest
-2 Mana Leak
+1 Sea Gate Restoration
+1 Deprive
+1 Frantic Inventory
+2 Scalding Tarn
+2 Frantic Inventory
+2 Terminus
+3 Terminus
+3 Frantic Inventory
+4 Mystic Sanctuary
+4 Force of Negation
+4 Terminus
+4 Frantic Inventory
 1 Delay
 2 Delay
 3 Delay
 4 Delay
-2 Misty Rainforest
-1 Logic Knot
-1 Glacial Fortress
 3 Supreme Verdict
-3 Archmage's Charm
-1 Scalding Tarn
+3 Polluted Delta
+1 Glacial Fortress
+1 Remand
+2 Remand
 3 Jace, the Mind Sculptor
+2 Mana Leak
 1 Deputy of Detention
 2 Deputy of Detention
 2 Horizon Canopy
 1 Charming Prince
 2 Charming Prince
 4 Watcher for Tomorrow
-1 Remand
-2 Remand
-3 Mystic Sanctuary
-3 Polluted Delta
-4 Snapcaster Mage
-2 Spell Snare
-1 Snow-Covered Island
-1 Snow-Covered Plains
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
-5 Snow-Covered Island
-1 Aether Gust
-2 Aether Gust
-2 Glacial Fortress
 3 Shark Typhoon
-6 Snow-Covered Island
-1 Terminus
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
+4 Snapcaster Mage
 1 Sword of Feast and Famine
 4 Polluted Delta
+1 Aether Gust
+2 Aether Gust
+6 Snow-Covered Island
+2 Spell Snare
+2 Glacial Fortress
+1 Silundi Vision
 1 Raugrin Triome
 1 Shadow of Doubt
 1 Castle Ardenvale
+1 Spreading Seas
+2 Spreading Seas
+3 Spreading Seas
+3 Remand
+4 Shark Typhoon
+4 Spreading Seas
+1 Narset, Parter of Veils
 1 Timely Reinforcements
-1 Oust
+2 Narset, Parter of Veils
 2 Logic Knot
 1 Fatal Push
 1 Kaya's Guile
@@ -124,23 +142,23 @@
 2 Fatal Push
 2 Kaya's Guile
 3 Kaya's Guile
-4 Force of Negation
 3 Selfless Savior
 1 Peek
 2 Peek
+1 Oust
 3 Mana Leak
-1 Swamp
 1 Marsh Flats
 1 Inquisition of Kozilek
-1 Tasigur, the Golden Fang
+1 Swamp
 1 Thoughtseize
+1 Tasigur, the Golden Fang
 1 Godless Shrine
 1 Creeping Tar Pit
 2 Inquisition of Kozilek
 2 Thoughtseize
 2 Creeping Tar Pit
-3 Fatal Push
 3 Thoughtseize
+3 Fatal Push
 3 Creeping Tar Pit
 1 Condemn
 2 Condemn
@@ -156,30 +174,5 @@
 3 Glacial Fortress
 3 Drowned Catacomb
 4 Archmage's Charm
-1 Frantic Inventory
-1 Sea Gate Restoration
-1 Deprive
-2 Frantic Inventory
-2 Scalding Tarn
-2 Terminus
-3 Frantic Inventory
-3 Terminus
-4 Frantic Inventory
-4 Mystic Sanctuary
-4 Terminus
-1 Spreading Seas
-2 Spreading Seas
-3 Spreading Seas
-3 Remand
-4 Shark Typhoon
-4 Spreading Seas
 7 Snow-Covered Island
-1 Elspeth, Sun's Nemesis
-1 Mystic Gate
-1 Karn, the Great Creator
-2 Oust
-2 Karn, the Great Creator
-3 Narset, Parter of Veils
-3 Spell Snare
-4 Narset, Parter of Veils
 7 Island

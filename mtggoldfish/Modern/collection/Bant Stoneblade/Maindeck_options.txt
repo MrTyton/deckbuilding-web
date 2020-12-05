@@ -1,14 +1,14 @@
+1 Deputy of Detention
 3 Windswept Heath
 4 Windswept Heath
-3 Uro, Titan of Nature's Wrath
 4 Snow-Covered Forest
+1 Skyclave Apparition
+2 Skyclave Apparition
 1 Horizon Canopy
 1 Collected Company
 1 Giver of Runes
-1 Skyclave Apparition
 2 Temple Garden
 2 Collected Company
-2 Skyclave Apparition
 2 Giver of Runes
 3 Collected Company
 3 Skyclave Apparition
@@ -47,11 +47,11 @@
 3 Abundant Growth
 3 Breeding Pool
 3 Confounding Conundrum
-4 Confounding Conundrum
 4 Abundant Growth
 4 Mana Leak
 4 Breeding Pool
 4 Uro, Titan of Nature's Wrath
+4 Confounding Conundrum
 1 Tireless Tracker
 1 Polluted Delta
 1 On Thin Ice
@@ -59,29 +59,22 @@
 1 Razorverge Thicket
 1 Plains
 1 Forest
-1 Island
 1 Maul of the Skyclaves
+1 Island
 2 Razorverge Thicket
 2 Forest
 2 Plains
 2 Deputy of Detention
 3 Razorverge Thicket
 3 Geist of Saint Traft
-1 Soulherder
-1 Ghost Quarter
-2 Soulherder
-3 Ranger-Captain of Eos
-3 Temple Garden
-3 Soulherder
-4 Force of Negation
 1 Logic Knot
 1 Mystic Gate
 1 Spell Snare
 1 Scalding Tarn
 1 Shark Typhoon
 1 Glacial Fortress
-1 Dovin's Veto
 1 Remand
+1 Dovin's Veto
 1 Supreme Verdict
 1 Opt
 1 Snapcaster Mage
@@ -93,6 +86,13 @@
 2 Opt
 3 Shark Typhoon
 3 Snapcaster Mage
+3 Opt
 4 Snow-Covered Island
 5 Snow-Covered Island
-3 Opt
+1 Soulherder
+1 Ghost Quarter
+2 Soulherder
+3 Ranger-Captain of Eos
+3 Temple Garden
+3 Soulherder
+4 Force of Negation

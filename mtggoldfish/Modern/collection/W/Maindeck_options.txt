@@ -1,16 +1,16 @@
 2 Giver of Runes
 3 Giver of Runes
 4 Giver of Runes
-1 Auriok Champion
 1 Walking Ballista
 1 Heliod, Sun-Crowned
+1 Auriok Champion
 1 Ranger-Captain of Eos
-2 Auriok Champion
 2 Walking Ballista
 2 Heliod, Sun-Crowned
+2 Auriok Champion
 3 Auriok Champion
-1 Luminarch Aspirant
 1 Skyclave Apparition
+1 Luminarch Aspirant
 2 Skyclave Apparition
 2 Luminarch Aspirant
 2 Ranger-Captain of Eos
@@ -20,8 +20,6 @@
 4 Luminarch Aspirant
 4 Auriok Champion
 4 Ranger-Captain of Eos
-1 Field of Ruin
-2 Field of Ruin
 4 Skyclave Apparition
 1 Cavern of Souls
 2 Cavern of Souls
@@ -30,65 +28,74 @@
 3 Walking Ballista
 4 Heliod, Sun-Crowned
 4 Walking Ballista
-1 Ranger of Eos
+1 Field of Ruin
+2 Field of Ruin
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
 4 Aether Vial
 4 Cavern of Souls
-1 Horizon Canopy
+1 Ranger of Eos
 1 Plains
-1 Grand Abolisher
-2 Grand Abolisher
-3 Field of Ruin
 2 Plains
 3 Plains
 4 Plains
-1 Sunbaked Canyon
+1 Horizon Canopy
 5 Plains
 6 Plains
 7 Plains
 8 Plains
+1 Sunbaked Canyon
+1 Grand Abolisher
+2 Grand Abolisher
+3 Field of Ruin
+2 Horizon Canopy
 2 Ranger of Eos
 1 Hangarback Walker
-2 Horizon Canopy
 11 Snow-Covered Plains
 12 Snow-Covered Plains
 1 Arid Mesa
 2 Arid Mesa
-1 Welding Jar
-1 Emeria's Call
+9 Plains
 2 Sunbaked Canyon
 3 Sunbaked Canyon
 4 Sunbaked Canyon
-9 Plains
-1 Flayer Husk
+1 Welding Jar
+1 Emeria's Call
 3 Arid Mesa
 4 Arid Mesa
 1 Sacred Foundry
 3 Horizon Canopy
 10 Plains
+1 Flayer Husk
+1 Kor Outfitter
 11 Plains
 1 Windswept Heath
 2 Windswept Heath
-1 Marsh Flats
-4 Field of Ruin
-1 Kor Outfitter
+1 Spellskite
 1 Springleaf Drum
 2 Springleaf Drum
 4 Horizon Canopy
 1 Temple Garden
-12 Plains
-1 Spellskite
-1 Giant Killer
-1 Batterskull
-13 Snow-Covered Plains
-1 Mountain
-1 Thalia, Guardian of Thraben
-2 Thalia, Guardian of Thraben
+1 Marsh Flats
+4 Field of Ruin
 3 Windswept Heath
 4 Windswept Heath
+1 Mountain
+1 Burrenton Forge-Tender
+2 Burrenton Forge-Tender
 3 Path to Exile
+12 Plains
+1 Giant Killer
+2 Spellskite
+1 Batterskull
+2 Kor Outfitter
+13 Snow-Covered Plains
+1 Swiftfoot Boots
+1 Archon of Emeria
+3 Burrenton Forge-Tender
+1 Thalia, Guardian of Thraben
+2 Thalia, Guardian of Thraben
 1 Maul of the Skyclaves
 1 Nykthos, Shrine to Nyx
 2 Nykthos, Shrine to Nyx
@@ -97,10 +104,8 @@
 3 Marsh Flats
 14 Snow-Covered Plains
 15 Snow-Covered Plains
-2 Kor Outfitter
-1 Archon of Emeria
 1 Mana Tithe
-1 Swiftfoot Boots
+2 Archon of Emeria
 1 Eladamri's Call
 1 Flooded Strand
 2 Eladamri's Call
@@ -121,24 +126,21 @@
 3 Flagstones of Trokair
 4 Flagstones of Trokair
 1 Judge's Familiar
+2 Maul of the Skyclaves
 2 Judge's Familiar
 2 Giant Killer
-2 Maul of the Skyclaves
 3 Judge's Familiar
 4 Judge's Familiar
-1 Burrenton Forge-Tender
-2 Burrenton Forge-Tender
-3 Burrenton Forge-Tender
 4 Burrenton Forge-Tender
+1 Thoughtseize
 1 Godless Shrine
 1 Apostle's Blessing
 1 Concealed Courtyard
 1 Cabal Therapist
-1 Thoughtseize
 2 Apostle's Blessing
-2 Cabal Therapist
-2 Concealed Courtyard
 2 Thoughtseize
+2 Concealed Courtyard
+2 Cabal Therapist
 3 Concealed Courtyard
 3 Apostle's Blessing
 4 Concealed Courtyard
@@ -146,7 +148,6 @@
 1 Kor Duelist
 1 Inspiring Vantage
 1 Magnetic Theft
-2 Spellskite
 2 Shadowspear
 2 Inspiring Vantage
 2 Sacred Foundry
@@ -165,12 +166,12 @@
 4 Magnetic Theft
 4 Inspiring Vantage
 1 Lurrus of the Dream-Den
-1 Speaker of the Heavens
 1 Serra Ascendant
-1 Ajani's Pridemate
 1 Martyr of Sands
+1 Ajani's Pridemate
 1 Soul Warden
 1 Soul's Attendant
+1 Speaker of the Heavens
 1 Dawn of Hope
 2 Lurrus of the Dream-Den
 2 Martyr of Sands

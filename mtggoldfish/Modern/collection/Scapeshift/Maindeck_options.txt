@@ -48,6 +48,7 @@
 4 Fatal Push
 3 Wooded Foothills
 1 Temple Garden
+1 Sacred Foundry
 1 Windswept Heath
 1 Flagstones of Trokair
 1 Elvish Reclaimer
@@ -59,12 +60,11 @@
 1 Brushfire Elemental
 1 Sejiri Shelter
 1 Sunbaked Canyon
-1 Sacred Foundry
 1 Soaring Seacliff
 1 Steppe Lynx
+2 Sacred Foundry
 2 Flagstones of Trokair
 2 Elvish Reclaimer
-2 Sacred Foundry
 2 Arid Mesa
 2 Akoum Hellhound
 2 Brushfire Elemental
@@ -84,9 +84,9 @@
 4 Flagstones of Trokair
 4 Brushfire Elemental
 4 Elvish Reclaimer
+4 Wooded Foothills
 4 Akoum Hellhound
 4 Mishra's Bauble
-4 Wooded Foothills
 4 Windswept Heath
 4 Atarka's Command
 4 Steppe Lynx
@@ -147,8 +147,8 @@
 3 Snow-Covered Forest
 1 Ice-Fang Coatl
 1 Abundant Growth
-1 Search for Azcanta
 1 Arboreal Grazer
+1 Search for Azcanta
 2 Ice-Fang Coatl
 2 Abundant Growth
 2 Arboreal Grazer
@@ -192,6 +192,23 @@
 1 Shelldock Isle
 2 Surgical Extraction
 3 Surgical Extraction
+1 Verdant Catacombs
+1 Maddening Cacophony
+2 Verdant Catacombs
+2 Maddening Cacophony
+2 Swamp
+3 Verdant Catacombs
+4 Verdant Catacombs
+1 Brazen Borrower
+2 Brazen Borrower
+4 Wrenn and Six
+1 Jace, the Mind Sculptor
+1 Botanical Sanctum
+2 Botanical Sanctum
+3 Prismatic Vista
+3 Botanical Sanctum
+4 Botanical Sanctum
+4 Censor
 1 Explore
 1 Jwari Disruption
 1 Peer Through Depths
@@ -200,20 +217,3 @@
 2 Peer Through Depths
 3 Jwari Disruption
 4 Jwari Disruption
-1 Verdant Catacombs
-1 Maddening Cacophony
-2 Verdant Catacombs
-2 Maddening Cacophony
-2 Swamp
-3 Verdant Catacombs
-4 Verdant Catacombs
-1 Jace, the Mind Sculptor
-1 Botanical Sanctum
-2 Botanical Sanctum
-3 Prismatic Vista
-3 Botanical Sanctum
-4 Botanical Sanctum
-4 Censor
-1 Brazen Borrower
-2 Brazen Borrower
-4 Wrenn and Six
