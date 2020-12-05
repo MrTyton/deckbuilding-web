@@ -19,8 +19,8 @@
 1 Ancient Tomb
 1 Dark Ritual
 1 Karn, the Great Creator
-2 Swamp
 2 Eliminate
+2 Swamp
 2 Karn, the Great Creator
 2 Dark Ritual
 3 Swamp
@@ -93,11 +93,11 @@
 3 Flooded Strand
 3 Monastery Mentor
 3 Swords to Plowshares
-4 Island
 4 Flooded Strand
 4 Swords to Plowshares
-1 Pelakka Predation
+4 Island
 1 Trinisphere
+1 Pelakka Predation
 1 Chrome Mox
 1 Helm of Obedience
 1 Leyline of the Void
@@ -131,7 +131,6 @@
 3 Trinisphere
 3 Curse of Misfortunes
 4 Trinisphere
-4 Swamp
 4 Eliminate
 4 City of Traitors
 4 Leyline of the Void
@@ -141,6 +140,7 @@
 4 Curse of Misfortunes
 4 Ancient Tomb
 4 Chrome Mox
+4 Swamp
 5 Swamp
 6 Swamp
 7 Swamp

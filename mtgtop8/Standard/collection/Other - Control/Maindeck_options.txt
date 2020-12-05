@@ -46,8 +46,8 @@
 1 Tangled Florahedron
 2 Clearwater Pathway
 2 Tangled Florahedron
-3 Temple of Silence
 3 Elspeth's Nightmare
+3 Temple of Silence
 5 Forest
 6 Forest
 1 Bala Ged Recovery
@@ -116,19 +116,19 @@
 2 Mountain
 2 Shatterskull Smashing
 2 Fire Prophecy
+2 Lukka, Coppercoat Outcast
 2 The Akroan War
 2 Elspeth, Sun's Nemesis
-2 Lukka, Coppercoat Outcast
 2 Harmonious Archon
 2 Raugrin Triome
 3 Omen of the Sun
 3 Needleverge Pathway
 3 Transmogrify
 3 Fire Prophecy
-3 Elspeth, Sun's Nemesis
 3 Mountain
 3 Harmonious Archon
 3 Raugrin Triome
+3 Elspeth, Sun's Nemesis
 4 Omen of the Sun
 4 Needleverge Pathway
 4 Transmogrify
@@ -156,34 +156,34 @@
 4 Garruk, Cursed Huntsman
 1 Island
 2 Island
-1 Radiant Fountain
-1 Forsaken Monument
-1 Sleeper Dart
-1 Swift Response
 1 Unknown Shores
+1 Radiant Fountain
+1 Sleeper Dart
+1 Forsaken Monument
+1 Swift Response
 1 Labyrinth of Skophos
 1 Dance of the Manse
 1 Crawling Barrens
-2 Crawling Barrens
-2 Radiant Fountain
-2 Sleeper Dart
 2 Unknown Shores
 2 Labyrinth of Skophos
+2 Sleeper Dart
+2 Radiant Fountain
 2 Forsaken Monument
 2 Dance of the Manse
 2 Swift Response
+2 Crawling Barrens
 3 Solemn Simulacrum
-3 Radiant Fountain
-3 Unknown Shores
 3 Sleeper Dart
+3 Unknown Shores
+3 Radiant Fountain
 3 Forsaken Monument
 3 Crawling Barrens
 4 Solemn Simulacrum
-4 Unknown Shores
-4 Forsaken Monument
 4 Sleeper Dart
-4 Radiant Fountain
 4 Crawling Barrens
+4 Forsaken Monument
+4 Radiant Fountain
+4 Unknown Shores
 6 Plains
 7 Plains
 8 Plains
@@ -205,7 +205,6 @@
 1 Bonders' Enclave
 1 Shark Typhoon
 1 Castle Vantress
-2 Gadwick, the Wizened
 2 Castle Vantress
 2 Rain of Revelation
 2 Lofty Denial
@@ -217,18 +216,19 @@
 2 Into the Roil
 2 Shark Typhoon
 2 Hypnotic Sprite
+2 Gadwick, the Wizened
 3 Neutralize
 3 Brazen Borrower
+3 Rewind
+3 Castle Vantress
 3 Frantic Inventory
 3 Shark Typhoon
-3 Castle Vantress
-3 Rewind
 3 Island
 4 Neutralize
 4 Brazen Borrower
+4 Rewind
 4 Frantic Inventory
 4 Shark Typhoon
-4 Rewind
 4 Island
 4 Castle Vantress
 5 Island

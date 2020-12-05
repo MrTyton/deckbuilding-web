@@ -4,6 +4,7 @@
 3 Tarmogoyf
 4 Tarmogoyf
 1 Apostle's Blessing
+2 Sunbaked Canyon
 2 Marsh Flats
 2 Swamp
 3 Verdant Catacombs
@@ -11,17 +12,14 @@
 1 Nurturing Peatland
 2 Nurturing Peatland
 2 Seal of Fire
-2 Sunbaked Canyon
-1 Agadeem's Awakening
 1 Scalding Tarn
-1 Mutagenic Growth
-3 Marsh Flats
-1 Silent Clearing
-1 Soul-Scar Mage
-2 Mutagenic Growth
-3 Wooded Foothills
+1 Agadeem's Awakening
 1 Cling to Dust
+3 Marsh Flats
 1 Kolaghan's Command
+1 Silent Clearing
+1 Mutagenic Growth
+2 Mutagenic Growth
 1 Night's Whisper
 2 Night's Whisper
 1 Wrenn and Six
@@ -35,10 +33,11 @@
 3 Street Wraith
 4 Street Wraith
 3 Inquisition of Kozilek
-1 Fiery Islet
+1 Soul-Scar Mage
+2 Scalding Tarn
 1 Thought Scour
-1 Gurmag Angler
 1 Watery Grave
+1 Gurmag Angler
 1 Stubborn Denial
 1 Island
 1 Steam Vents
@@ -51,18 +50,16 @@
 3 Gurmag Angler
 4 Thought Scour
 4 Gurmag Angler
+3 Wooded Foothills
 2 Kroxa, Titan of Death's Hunger
 2 Brushfire Elemental
+1 Fiery Islet
 1 Serum Visions
 1 Sprite Dragon
-2 Sprite Dragon
 2 Serum Visions
+2 Sprite Dragon
 4 Stubborn Denial
-2 Soul-Scar Mage
-3 Soul-Scar Mage
-4 Soul-Scar Mage
 1 Crash Through
-2 Scalding Tarn
 1 Snow-Covered Swamp
 1 The Royal Scions
 1 Abrupt Decay
@@ -71,11 +68,10 @@
 1 Arid Mesa
 2 Cling to Dust
 2 Arid Mesa
-1 Lava Dart
-2 Lava Dart
-2 Crash Through
-3 Lava Dart
-4 Lava Dart
+1 Terminate
+1 Snapcaster Mage
+2 Snapcaster Mage
+3 Scalding Tarn
 1 Tarfire
 1 Snow-Covered Forest
 1 Lurrus of the Dream-Den
@@ -85,6 +81,11 @@
 2 Tarfire
 2 Traverse the Ulvenwald
 4 Wooded Foothills
-1 Terminate
-1 Snapcaster Mage
-2 Snapcaster Mage
+1 Lava Dart
+2 Crash Through
+2 Lava Dart
+2 Soul-Scar Mage
+3 Soul-Scar Mage
+3 Lava Dart
+4 Lava Dart
+4 Soul-Scar Mage

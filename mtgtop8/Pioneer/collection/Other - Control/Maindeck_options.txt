@@ -142,23 +142,23 @@
 1 Hinterland Harbor
 2 Hinterland Harbor
 3 Hinterland Harbor
-1 Cling to Dust
-1 Hero's Downfall
-1 Castle Locthwain
-1 The Scarab God
-1 Languish
-1 Scarab Feast
-2 Day's Undoing
-2 Kalitas, Traitor of Ghet
-2 Languish
-2 Scarab Feast
-3 Swamp
 1 Rootbound Crag
 1 Shatterskull Smashing
 1 Jolrael, Mwonvuli Recluse
 2 Rootbound Crag
 2 Jolrael, Mwonvuli Recluse
 3 Rootbound Crag
+1 Cling to Dust
+1 Hero's Downfall
+1 The Scarab God
+1 Languish
+1 Castle Locthwain
+1 Scarab Feast
+2 Day's Undoing
+2 Languish
+2 Kalitas, Traitor of Ghet
+2 Scarab Feast
+3 Swamp
 1 Bonecrusher Giant
 1 Urban Evolution
 1 Magma Jet
@@ -166,6 +166,46 @@
 2 Magma Jet
 3 Bonecrusher Giant
 3 Magma Jet
+1 Negate
+1 Nissa, Who Shakes the World
+1 Sylvan Caryatid
+1 Oath of Nissa
+2 Mystical Dispute
+2 Nissa, Who Shakes the World
+2 Sylvan Caryatid
+2 Oath of Nissa
+3 Nissa, Who Shakes the World
+3 Oath of Nissa
+4 Oath of Nissa
+1 Kolaghan's Command
+1 Collective Brutality
+1 Dragonskull Summit
+1 Davriel, Rogue Shadowmage
+1 Liliana, Waker of the Dead
+1 Thought Erasure
+1 Blood Crypt
+1 Nicol Bolas, the Ravager
+1 Kroxa, Titan of Death's Hunger
+2 Collective Brutality
+2 Liliana, Waker of the Dead
+2 Kolaghan's Command
+2 Blood Crypt
+2 Nicol Bolas, the Ravager
+2 Thought Erasure
+2 Kroxa, Titan of Death's Hunger
+2 Davriel, Rogue Shadowmage
+2 Dragonskull Summit
+3 Liliana, Waker of the Dead
+3 Kroxa, Titan of Death's Hunger
+3 Davriel, Rogue Shadowmage
+3 Nicol Bolas, the Ravager
+3 Thought Erasure
+4 Thought Erasure
+4 Kroxa, Titan of Death's Hunger
+4 Liliana, Waker of the Dead
+4 Fatal Push
+4 Nicol Bolas, the Ravager
+4 Davriel, Rogue Shadowmage
 1 Terror of the Peaks
 1 Cragcrown Pathway
 1 Inspired Ultimatum
@@ -178,48 +218,7 @@
 2 Dryad of the Ilysian Grove
 3 Dryad of the Ilysian Grove
 4 Dryad of the Ilysian Grove
-1 Negate
-1 Nissa, Who Shakes the World
-1 Sylvan Caryatid
-1 Oath of Nissa
-2 Mystical Dispute
-2 Nissa, Who Shakes the World
-2 Sylvan Caryatid
-2 Oath of Nissa
-3 Nissa, Who Shakes the World
-3 Oath of Nissa
-4 Oath of Nissa
-1 Collective Brutality
-1 Dragonskull Summit
-1 Liliana, Waker of the Dead
-1 Kolaghan's Command
-1 Davriel, Rogue Shadowmage
-1 Thought Erasure
-1 Blood Crypt
-1 Nicol Bolas, the Ravager
-1 Kroxa, Titan of Death's Hunger
-2 Collective Brutality
-2 Liliana, Waker of the Dead
-2 Blood Crypt
-2 Nicol Bolas, the Ravager
-2 Thought Erasure
-2 Kroxa, Titan of Death's Hunger
-2 Kolaghan's Command
-2 Davriel, Rogue Shadowmage
-2 Dragonskull Summit
-3 Kroxa, Titan of Death's Hunger
-3 Davriel, Rogue Shadowmage
-3 Liliana, Waker of the Dead
-3 Nicol Bolas, the Ravager
-3 Thought Erasure
-4 Thought Erasure
-4 Fatal Push
-4 Nicol Bolas, the Ravager
-4 Kroxa, Titan of Death's Hunger
-4 Liliana, Waker of the Dead
-4 Davriel, Rogue Shadowmage
 1 Branchloft Pathway
-1 Sigil of the Empty Throne
 1 Courser of Kruphix
 1 Banishing Light
 1 Setessan Champion
@@ -228,6 +227,7 @@
 1 Mana Bloom
 1 Temple of Plenty
 1 Starfield Mystic
+1 Sigil of the Empty Throne
 1 Sphere of Safety
 1 Wolfwillow Haven
 1 Eidolon of Blossoms
@@ -248,8 +248,8 @@
 2 Temple of Plenty
 2 Sphere of Safety
 3 Branchloft Pathway
-3 Banishing Light
 3 Setessan Champion
+3 Banishing Light
 3 Temple of Plenty
 3 Sphere of Safety
 3 Eidolon of Blossoms

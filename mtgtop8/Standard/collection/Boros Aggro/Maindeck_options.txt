@@ -1,10 +1,10 @@
-1 Shatterskull Smashing
-3 Frostveil Ambush
-2 Raugrin Triome
+4 Memory Leak
+2 Shatterskull Smashing
 3 Brightclimb Pathway
 4 Brightclimb Pathway
+3 Mountain
+4 Mountain
 1 Clearwater Pathway
-2 Shatterskull Smashing
 4 Boon of the Wish-Giver
 1 Shredded Sails
 2 Shredded Sails
@@ -13,16 +13,27 @@
 2 Ominous Seas
 3 Shatterskull Smashing
 1 Savai Triome
+1 Yidaro, Wandering Monster
+2 Yidaro, Wandering Monster
+3 Raugrin Triome
+3 Yidaro, Wandering Monster
+4 Yidaro, Wandering Monster
+1 Splendor Mare
+2 Splendor Mare
 5 Plains
 6 Plains
 5 Mountain
 6 Mountain
 7 Plains
-8 Plains
 7 Mountain
 8 Mountain
+8 Plains
+1 Emeria's Call
 4 Frostveil Ambush
 9 Plains
+1 Reptilian Reflection
+2 Emeria's Call
+4 Raugrin Triome
 1 Embercleave
 1 Luminarch Aspirant
 1 Robber of the Rich
@@ -60,26 +71,16 @@
 4 Relic Robber
 4 Skyclave Apparition
 4 Embercleave
-1 Yidaro, Wandering Monster
-2 Yidaro, Wandering Monster
-3 Raugrin Triome
-3 Yidaro, Wandering Monster
-4 Yidaro, Wandering Monster
 3 Bonecrusher Giant
 4 Bonecrusher Giant
 1 Temple of Triumph
 2 Temple of Triumph
 3 Temple of Triumph
 4 Temple of Triumph
-1 Emeria's Call
-1 Splendor Mare
-2 Splendor Mare
-1 Temple of Epiphany
 1 Teferi's Ageless Insight
-1 Reptilian Reflection
+1 Temple of Epiphany
 1 Temple of Enlightenment
 2 Teferi's Ageless Insight
-2 Emeria's Call
 1 Call of the Death-Dweller
 1 Easy Prey
 2 Easy Prey
@@ -102,14 +103,13 @@
 3 Elspeth, Sun's Nemesis
 3 Giant Killer
 3 Fabled Passage
-4 Elspeth, Sun's Nemesis
 4 Giant Killer
+4 Elspeth, Sun's Nemesis
 1 Island
 1 Improbable Alliance
 2 Island
 2 Improbable Alliance
 3 Improbable Alliance
-4 Raugrin Triome
 4 Improbable Alliance
 1 Raking Claws
 2 Raking Claws

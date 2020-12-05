@@ -1,8 +1,8 @@
+1 Misty Rainforest
 1 Gavony Township
-1 Wooded Foothills
-3 Auriok Champion
 5 Forest
 1 Noble Hierarch
+3 Auriok Champion
 2 Giver of Runes
 1 Spellskite
 3 Eladamri's Call
@@ -10,13 +10,14 @@
 4 Giver of Runes
 4 Horizon Canopy
 2 Prismatic Vista
-2 Misty Rainforest
 1 Razorverge Thicket
 1 Birds of Paradise
 2 Birds of Paradise
+2 Wooded Foothills
+3 Birds of Paradise
+1 Devoted Druid
 1 Vizier of Remedies
 1 Duskwatch Recruiter
-1 Devoted Druid
 1 Finale of Devastation
 2 Devoted Druid
 2 Razorverge Thicket
@@ -26,8 +27,7 @@
 3 Devoted Druid
 3 Vizier of Remedies
 4 Devoted Druid
-2 Wooded Foothills
-3 Birds of Paradise
+4 Birds of Paradise
 1 Blossoming Defense
 1 Mishra's Bauble
 1 Postmortem Lunge
@@ -39,60 +39,54 @@
 3 Razorverge Thicket
 3 Postmortem Lunge
 4 Mishra's Bauble
-4 Birds of Paradise
 4 Eladamri's Call
 4 Vizier of Remedies
 4 Finale of Devastation
+2 Misty Rainforest
 3 Wooded Foothills
 1 Snow-Covered Plains
 2 Snow-Covered Plains
-4 Postmortem Lunge
-2 Verdant Catacombs
 1 Eldritch Evolution
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 4 Snow-Covered Forest
-1 Loaming Shaman
-1 Restoration Angel
-1 Sigarda, Host of Herons
-1 Magus of the Moon
 1 Chord of Calling
+1 Gilded Goose
+2 Chord of Calling
+2 Eldritch Evolution
+3 Chord of Calling
+4 Chord of Calling
+1 Loaming Shaman
+1 Magus of the Moon
+1 Restoration Angel
 1 Snow-Covered Mountain
 1 Raugrin Triome
+1 Eternal Witness
 1 Sacred Foundry
 1 Wall of Blossoms
-1 Eternal Witness
 1 Phyrexian Revoker
-1 Knight of Autumn
 1 Stomping Ground
 1 Wrenn and Six
 1 Batterskull
 1 Sword of Fire and Ice
-1 Kiki-Jiki, Mirror Breaker
-1 Grove of the Burnwillows
 1 Arid Mesa
-1 Gilded Goose
 1 Lightning Bolt
 1 Stoneforge Mystic
-1 Seasoned Pyromancer
+1 Kiki-Jiki, Mirror Breaker
 1 Eidolon of Rhetoric
 1 Path to Exile
 1 Sunbaked Canyon
+1 Seasoned Pyromancer
 2 Arid Mesa
 2 Wall of Blossoms
 2 Restoration Angel
-2 Chord of Calling
-2 Gilded Goose
 2 Sacred Foundry
-2 Stoneforge Mystic
 2 Seasoned Pyromancer
 2 Path to Exile
-2 Lightning Bolt
-2 Eldritch Evolution
+2 Stoneforge Mystic
 3 Wall of Blossoms
 3 Restoration Angel
-3 Chord of Calling
 3 Misty Rainforest
 3 Path to Exile
 3 Stoneforge Mystic
@@ -102,17 +96,25 @@
 4 Wooded Foothills
 4 Seasoned Pyromancer
 4 Path to Exile
-4 Chord of Calling
 4 Stoneforge Mystic
+4 Postmortem Lunge
+2 Verdant Catacombs
+2 Gilded Goose
+1 Sigarda, Host of Herons
+1 Knight of Autumn
+1 Grove of the Burnwillows
+2 Lightning Bolt
+1 Tectonic Edge
+2 Eternal Witness
+2 Wrenn and Six
+4 Misty Rainforest
+1 Overgrown Tomb
 1 Luminarch Aspirant
 1 Selfless Savior
 2 Selfless Savior
-3 Scavenging Ooze
-5 Snow-Covered Forest
 1 Shalai, Voice of Plenty
 1 Godless Shrine
 1 Kitchen Finks
-1 Overgrown Tomb
 1 Marsh Flats
 1 Viscera Seer
 2 Kitchen Finks
@@ -121,3 +123,44 @@
 3 Noble Hierarch
 4 Verdant Catacombs
 4 Noble Hierarch
+5 Snow-Covered Forest
+1 Wall of Roots
+1 Elves of Deep Shadow
+1 Blooming Marsh
+1 Urborg, Tomb of Yawgmoth
+1 Twilight Mire
+1 Woodland Cemetery
+1 Geralf's Messenger
+1 Dryad Arbor
+1 Swamp
+1 Zulaport Cutthroat
+1 Strangleroot Geist
+1 Hapatra, Vizier of Poisons
+1 Khalni Garden
+1 Young Wolf
+1 Yawgmoth, Thran Physician
+2 Wall of Roots
+2 Khalni Garden
+2 Overgrown Tomb
+2 Geralf's Messenger
+2 Blooming Marsh
+2 Twilight Mire
+2 Young Wolf
+2 Yawgmoth, Thran Physician
+2 Strangleroot Geist
+3 Wall of Roots
+3 Blooming Marsh
+3 Geralf's Messenger
+3 Young Wolf
+3 Yawgmoth, Thran Physician
+3 Strangleroot Geist
+3 Eldritch Evolution
+3 Twilight Mire
+4 Blooming Marsh
+4 Geralf's Messenger
+4 Strangleroot Geist
+4 Young Wolf
+4 Eldritch Evolution
+4 Twilight Mire
+4 Yawgmoth, Thran Physician
+4 Wall of Roots

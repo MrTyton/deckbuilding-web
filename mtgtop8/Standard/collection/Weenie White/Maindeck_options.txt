@@ -27,45 +27,45 @@
 1 Lavabrink Venturer
 2 Lavabrink Venturer
 4 Giant Killer
-1 Kargan Warleader
-1 Haktos the Unscarred
-1 Expedition Champion
-1 Sea Gate Banneret
-1 Goma Fada Vanguard
 1 Temple of Triumph
 1 Embercleave
 1 Winota, Joiner of Forces
 1 Kor Blademaster
-1 Nahiri, Heir of the Ancients
+1 Goma Fada Vanguard
 1 Fireblade Charger
 1 Mountain
-2 Haktos the Unscarred
-2 Kargan Warleader
-2 Nahiri, Heir of the Ancients
-2 Expedition Champion
-2 Sea Gate Banneret
-2 Goma Fada Vanguard
+1 Nahiri, Heir of the Ancients
+1 Expedition Champion
+1 Haktos the Unscarred
+1 Sea Gate Banneret
+1 Kargan Warleader
 2 Temple of Triumph
 2 Winota, Joiner of Forces
+2 Kargan Warleader
 2 Kor Blademaster
+2 Haktos the Unscarred
 2 Embercleave
+2 Sea Gate Banneret
 2 Fireblade Charger
+2 Nahiri, Heir of the Ancients
 2 Mountain
+2 Goma Fada Vanguard
+2 Expedition Champion
+3 Mountain
+3 Winota, Joiner of Forces
+3 Expedition Champion
 3 Kor Blademaster
 3 Kargan Warleader
 3 Sea Gate Banneret
-3 Expedition Champion
 3 Goma Fada Vanguard
-3 Mountain
-3 Winota, Joiner of Forces
 3 Fireblade Charger
-4 Kor Blademaster
-4 Kargan Warleader
-4 Expedition Champion
-4 Sea Gate Banneret
-4 Goma Fada Vanguard
 4 Mountain
+4 Sea Gate Banneret
+4 Kargan Warleader
 4 Fireblade Charger
+4 Goma Fada Vanguard
+4 Kor Blademaster
+4 Expedition Champion
 5 Mountain
 6 Mountain
 7 Mountain
@@ -96,13 +96,13 @@
 3 Stonecoil Serpent
 4 Stonecoil Serpent
 1 Fight as One
+1 Angel of Destiny
+2 Luminous Broodmoth
+2 Angel of Destiny
 1 Akiri, Fearless Voyager
 2 Akiri, Fearless Voyager
 1 Resolute Strike
 2 Resolute Strike
-1 Angel of Destiny
-2 Luminous Broodmoth
-2 Angel of Destiny
 1 Angelic Ascension
 2 Angelic Ascension
 3 Angelic Ascension
@@ -114,61 +114,40 @@
 4 Glass Casket
 3 Emeria's Call
 4 Emeria's Call
-1 Crystalline Giant
-1 Gingerbrute
-1 Dub
-2 Gingerbrute
-2 Crystalline Giant
-3 Crystalline Giant
-3 Gingerbrute
-4 Crystalline Giant
-4 All That Glitters
-4 Gingerbrute
 1 Hushbringer
 2 Hushbringer
 3 Hushbringer
 4 Hushbringer
 4 Kabira Takedown
-1 Realm-Cloaked Giant
-1 Basri's Lieutenant
-1 Drannith Magistrate
-1 Mazemind Tome
-1 Elspeth Conquers Death
-2 Realm-Cloaked Giant
-2 Basri's Lieutenant
-2 Crawling Barrens
-2 Mazemind Tome
-2 Drannith Magistrate
-2 Elspeth Conquers Death
-3 Sejiri Shelter
-3 Basri's Lieutenant
-3 Baneslayer Angel
-3 Drannith Magistrate
-3 Mazemind Tome
-3 Elspeth Conquers Death
-4 Baneslayer Angel
-4 Basri's Lieutenant
-4 Drannith Magistrate
-4 Mazemind Tome
 1 Bonders' Enclave
 1 Pacifism
 2 Pacifism
 3 Pacifism
 4 Heliod, Sun-Crowned
+1 Crystalline Giant
+1 Gingerbrute
+1 Dub
+2 Gingerbrute
+2 Crystalline Giant
+3 Gingerbrute
+3 Crystalline Giant
+4 All That Glitters
+4 Crystalline Giant
+4 Gingerbrute
+1 Garrison Cat
 1 Daybreak Charger
 1 Idyllic Grange
 1 Daybreak Chimera
 1 Basri's Acolyte
 1 Sunlit Hoplite
 1 Eidolon of Inspiration
-1 Garrison Cat
 1 Fearless Fledgling
+2 Garrison Cat
 2 Eidolon of Inspiration
 2 Daybreak Charger
 2 Daybreak Chimera
 2 Sunlit Hoplite
 2 Basri's Acolyte
-2 Garrison Cat
 3 Daybreak Chimera
 3 Basri's Acolyte
 3 Garrison Cat
@@ -179,3 +158,24 @@
 4 Daybreak Charger
 4 Basri's Acolyte
 4 Sunlit Hoplite
+1 Realm-Cloaked Giant
+1 Basri's Lieutenant
+1 Mazemind Tome
+1 Drannith Magistrate
+1 Elspeth Conquers Death
+2 Realm-Cloaked Giant
+2 Basri's Lieutenant
+2 Crawling Barrens
+2 Mazemind Tome
+2 Drannith Magistrate
+2 Elspeth Conquers Death
+3 Sejiri Shelter
+3 Basri's Lieutenant
+3 Baneslayer Angel
+3 Mazemind Tome
+3 Elspeth Conquers Death
+3 Drannith Magistrate
+4 Basri's Lieutenant
+4 Mazemind Tome
+4 Baneslayer Angel
+4 Drannith Magistrate
