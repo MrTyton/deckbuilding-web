@@ -29,10 +29,10 @@
 1 Ilysian Caryatid
 2 Tangled Florahedron
 2 Ilysian Caryatid
-3 Ilysian Caryatid
 3 Tangled Florahedron
-4 Ilysian Caryatid
+3 Ilysian Caryatid
 4 Tangled Florahedron
+4 Ilysian Caryatid
 1 Mire Triton
 2 Mire Triton
 3 Mire Triton
@@ -50,8 +50,8 @@
 3 Polukranos, Unchained
 3 Essence Symbiote
 3 Migratory Greathorn
-4 Castle Locthwain
 4 Migratory Greathorn
+4 Castle Locthwain
 4 Polukranos, Unchained
 1 Turntimber Symbiosis
 2 Turntimber Symbiosis
@@ -76,8 +76,8 @@
 1 Cragcrown Pathway
 1 Crawling Barrens
 2 Mythos of Nethroi
-2 Nissa of Shadowed Boughs
 2 Brightclimb Pathway
+2 Nissa of Shadowed Boughs
 2 Cragcrown Pathway
 3 Branchloft Pathway
 1 Village Rites
@@ -87,31 +87,33 @@
 1 Solemn Simulacrum
 1 Lochmere Serpent
 1 Thassa, Deep-Dwelling
-1 Kogla, the Titan Ape
 1 Nightmare Shepherd
+1 Kogla, the Titan Ape
 1 Thassa's Oracle
 1 Humble Naturalist
 1 Gyruda, Doom of Depths
 1 Clearwater Pathway
 2 Solemn Simulacrum
 2 Lochmere Serpent
+2 Thassa, Deep-Dwelling
 2 Kogla, the Titan Ape
 2 Gyruda, Doom of Depths
 2 Humble Naturalist
-2 Thassa, Deep-Dwelling
 2 Nightmare Shepherd
 2 Clearwater Pathway
 3 Solemn Simulacrum
 3 Lochmere Serpent
+3 Thassa, Deep-Dwelling
 3 Questing Beast
 3 Nightmare Shepherd
 3 Humble Naturalist
-3 Thassa, Deep-Dwelling
 3 Clearwater Pathway
 3 Gyruda, Doom of Depths
 4 Clearwater Pathway
 4 Humble Naturalist
 4 Nightmare Shepherd
+1 Acolyte of Affliction
+1 Jungle Hollow
 1 Gnarlid Colony
 1 Ugin, the Spirit Dragon
 1 Garruk's Uprising
@@ -121,32 +123,30 @@
 1 Ram Through
 1 Chainweb Aracnir
 1 Evolving Wilds
-1 Jungle Hollow
 1 Greater Sandwurm
-1 Acolyte of Affliction
 2 Ram Through
+2 Jungle Hollow
 2 Gnarlid Colony
 2 Garruk's Uprising
 2 Feed the Swarm
 2 Grasp of Darkness
 2 Llanowar Visionary
-2 Jungle Hollow
 2 Acolyte of Affliction
 2 Chainweb Aracnir
 2 Evolving Wilds
 2 Greater Sandwurm
-3 Grasp of Darkness
-3 Ram Through
-3 Chainweb Aracnir
 3 Jungle Hollow
+3 Ram Through
+3 Grasp of Darkness
+3 Chainweb Aracnir
 3 Llanowar Visionary
 3 Garruk's Uprising
 4 Mire Triton
-4 Grasp of Darkness
+4 Jungle Hollow
 4 Ram Through
 4 Llanowar Visionary
 4 Garruk's Uprising
-4 Jungle Hollow
+4 Grasp of Darkness
 7 Swamp
 1 Nethroi, Apex of Death
 2 Nethroi, Apex of Death

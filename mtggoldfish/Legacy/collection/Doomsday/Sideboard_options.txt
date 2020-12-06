@@ -1,13 +1,14 @@
-2 Abrade
 1 Red Elemental Blast
+2 Abrade
 2 Surgical Extraction
 2 Pyroblast
 3 Defense Grid
 1 Tormod's Crypt
 1 Spell Pierce
 1 Echoing Truth
-2 Echoing Truth
 1 Force of Negation
+2 Spell Pierce
+2 Echoing Truth
 1 Grafdigger's Cage
 1 Thassa's Oracle
 1 Doomsday
@@ -18,7 +19,6 @@
 1 Edge of Autumn
 1 Liliana, the Last Hope
 3 Veil of Summer
-2 Spell Pierce
 2 Force of Negation
 2 Red Elemental Blast
 1 Dread of Night
@@ -32,25 +32,16 @@
 1 Lim-Dul's Vault
 1 Mystical Dispute
 2 Mystical Dispute
+3 Pyroblast
 2 Fatal Push
 2 Grafdigger's Cage
 2 Massacre
 2 Tormod's Crypt
-1 Swords to Plowshares
-1 Monastery Mentor
-1 Serenity
-2 Swords to Plowshares
-2 Monastery Mentor
-3 Swords to Plowshares
-4 Swords to Plowshares
+1 Bayou
 1 Thought Scour
 1 Ashiok, Dream Render
 1 Pyroclasm
 1 Chain of Vapor
-1 Bayou
-1 Snow-Covered Plains
-1 Disenchant
-1 Terminus
 1 Duress
 1 Submerge
 2 Submerge
@@ -58,23 +49,30 @@
 1 Null Rod
 2 Null Rod
 3 Surgical Extraction
-1 Hullbreacher
-1 Rest in Peace
-2 Hullbreacher
-2 Rest in Peace
-2 Serenity
-3 Monastery Mentor
 1 Karakas
 3 Grafdigger's Cage
 3 Abrade
+1 Hullbreacher
+1 Swords to Plowshares
+1 Monastery Mentor
+1 Rest in Peace
+1 Serenity
+2 Hullbreacher
+2 Swords to Plowshares
+2 Monastery Mentor
+2 Rest in Peace
+2 Serenity
+3 Swords to Plowshares
+3 Monastery Mentor
+4 Swords to Plowshares
+4 Defense Grid
+1 Dead of Winter
+1 Thoughtseize
+2 Thoughtseize
+4 Abrupt Decay
 1 Curator of Mysteries
 1 Search for Azcanta
 1 City of Solitude
 1 Drown in the Loch
 2 City of Solitude
 3 City of Solitude
-1 Dead of Winter
-1 Thoughtseize
-2 Thoughtseize
-4 Abrupt Decay
-3 Pyroblast

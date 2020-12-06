@@ -27,9 +27,9 @@
 1 Logic Knot
 1 Supreme Verdict
 3 Snow-Covered Island
+1 Stoneforge Mystic
 1 Batterskull
 1 Sword of Feast and Famine
-1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
@@ -47,23 +47,23 @@
 3 Remand
 4 Misty Rainforest
 4 Snapcaster Mage
-1 Sacred Foundry
-1 Mountain
-1 Raugrin Triome
-1 Flagstones of Trokair
 1 Lightning Bolt
 1 Steam Vents
+1 Raugrin Triome
+1 Sacred Foundry
 1 Cleansing Wildfire
+1 Mountain
 1 Lightning Helix
-2 Flagstones of Trokair
-2 Cleansing Wildfire
+1 Flagstones of Trokair
 2 Lightning Bolt
+2 Cleansing Wildfire
 2 Lightning Helix
-3 Flagstones of Trokair
-3 Lightning Bolt
-3 Cleansing Wildfire
-3 Lightning Helix
+2 Flagstones of Trokair
 3 Scalding Tarn
+3 Cleansing Wildfire
+3 Lightning Bolt
+3 Lightning Helix
+3 Flagstones of Trokair
 4 Cleansing Wildfire
 4 Flagstones of Trokair
 1 Delay
@@ -76,37 +76,37 @@
 1 Sea Gate Restoration
 1 Timely Reinforcements
 1 Radiant Purge
-1 Birds of Paradise
 1 Windswept Heath
-1 Temple Garden
 1 Noble Hierarch
 1 Ice-Fang Coatl
+1 Uro, Titan of Nature's Wrath
+1 Birds of Paradise
 1 Snow-Covered Forest
 1 Breeding Pool
-1 Uro, Titan of Nature's Wrath
-2 Birds of Paradise
-2 Windswept Heath
+1 Temple Garden
 2 Noble Hierarch
-2 Snow-Covered Forest
 2 Ice-Fang Coatl
 2 Uro, Titan of Nature's Wrath
+2 Windswept Heath
+2 Birds of Paradise
+2 Snow-Covered Forest
 3 Snow-Covered Forest
+3 Ice-Fang Coatl
+3 Noble Hierarch
 3 Mana Leak
 3 Windswept Heath
-3 Noble Hierarch
-3 Ice-Fang Coatl
 3 Uro, Titan of Nature's Wrath
-4 Windswept Heath
 4 Noble Hierarch
 4 Ice-Fang Coatl
 4 Snow-Covered Forest
+4 Windswept Heath
+3 Delay
+4 Delay
 1 Frantic Inventory
 1 Deprive
 2 Frantic Inventory
 3 Frantic Inventory
 4 Frantic Inventory
-3 Delay
-4 Delay
 1 Spreading Seas
 2 Spreading Seas
 3 Spreading Seas
@@ -121,8 +121,8 @@
 2 Snow-Covered Plains
 1 Spell Queller
 2 Spell Queller
-1 Abundant Growth
 1 Confounding Conundrum
+1 Abundant Growth
 2 Abundant Growth
 2 Breeding Pool
 2 Confounding Conundrum
@@ -134,37 +134,37 @@
 4 Abundant Growth
 4 Mana Leak
 4 Teferi, Time Raveler
-4 Breeding Pool
 4 Birds of Paradise
+4 Breeding Pool
 4 Uro, Titan of Nature's Wrath
+1 Castle Ardenvale
 1 Narset, Parter of Veils
 1 Shatterskull Smashing
 1 Telling Time
-1 Castle Ardenvale
-1 Skyclave Apparition
-1 Emeria's Call
-1 Vendilion Clique
 1 Peek
+1 Emeria's Call
 1 Restoration Angel
+1 Vendilion Clique
+1 Skyclave Apparition
 1 Fact or Fiction
-2 Skyclave Apparition
 2 Peek
 2 Restoration Angel
+2 Skyclave Apparition
 3 Restoration Angel
 3 Glacial Fortress
 1 Time Warp
-1 Monastery Mentor
-1 Mazemind Tome
 1 Silundi Vision
+1 Monastery Mentor
 1 God-Eternal Kefnet
-2 Monastery Mentor
+1 Mazemind Tome
 2 Spell Snare
+2 Monastery Mentor
 3 Hallowed Fountain
 3 Spell Queller
 4 Spell Queller
+1 Crucible of Worlds
 1 Jwari Disruption
 1 Ghost Quarter
-1 Crucible of Worlds
 2 Jwari Disruption
 4 Archmage's Charm
 4 Lightning Bolt

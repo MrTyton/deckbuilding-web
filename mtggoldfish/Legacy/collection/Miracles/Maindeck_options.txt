@@ -1,6 +1,11 @@
-2 Predict
+1 Supreme Verdict
+2 Monastery Mentor
 1 Daze
+1 Gideon, Ally of Zendikar
+1 Red Elemental Blast
+2 Back to Basics
 2 Daze
+2 Predict
 3 Daze
 1 Misty Rainforest
 2 Misty Rainforest
@@ -15,90 +20,103 @@
 1 Snow-Covered Forest
 3 Monastery Mentor
 4 Monastery Mentor
-1 Back to Basics
-1 Supreme Verdict
+2 Terminus
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
-1 Gideon, Ally of Zendikar
-1 Red Elemental Blast
-2 Back to Basics
-2 Terminus
-1 Sylvan Library
 2 Force of Negation
 3 Terminus
-4 Predict
-1 Plains
+1 Sylvan Library
+2 Scalding Tarn
+3 Scalding Tarn
+4 Scalding Tarn
 1 Island
+1 Plains
 2 Island
 3 Island
 4 Island
-2 Scalding Tarn
-3 Scalding Tarn
-2 Plains
-2 Counterspell
 2 Mystic Sanctuary
-4 Scalding Tarn
-1 Sevinne's Reclamation
-1 Polluted Delta
-1 Temporal Mastery
-1 Entreat the Angels
+4 Predict
 2 Volcanic Island
-1 Spell Pierce
+2 Plains
+1 Temporal Mastery
 3 Arcum's Astrolabe
-1 Portent
-2 Temporal Mastery
-3 Temporal Mastery
-2 Council's Judgment
-4 Snapcaster Mage
+2 Counterspell
 1 Accumulated Knowledge
 2 Accumulated Knowledge
 3 Accumulated Knowledge
 4 Accumulated Knowledge
+1 Polluted Delta
 3 Tundra
+1 Spell Pierce
+1 Portent
+2 Temporal Mastery
+3 Temporal Mastery
+1 Sevinne's Reclamation
+2 Council's Judgment
+2 Preordain
+4 Snapcaster Mage
+1 Entreat the Angels
 1 Veil of Summer
 2 Portent
+1 Wasteland
+2 Wasteland
 2 Narset, Parter of Veils
 1 Helm of Obedience
 1 Rest in Peace
 2 Rest in Peace
 3 Rest in Peace
-2 Preordain
 5 Island
 6 Island
-2 Polluted Delta
 1 Enlightened Tutor
-1 Dreadhorde Arcanist
-1 Wasteland
 1 Stifle
+1 Dreadhorde Arcanist
 1 Sprite Dragon
 2 Dreadhorde Arcanist
-2 Wasteland
 3 Wasteland
 3 Counterbalance
+3 Preordain
+2 Polluted Delta
 1 Uro, Titan of Nature's Wrath
-1 Cunning Wish
 1 Omniscience
 1 Show and Tell
+1 Cunning Wish
 1 Emrakul, the Aeons Torn
-2 Emrakul, the Aeons Torn
-2 Cunning Wish
-2 Omniscience
 2 Show and Tell
-3 Omniscience
+2 Omniscience
+2 Cunning Wish
+2 Emrakul, the Aeons Torn
 3 Show and Tell
 3 Cunning Wish
-3 Preordain
+3 Omniscience
 4 Omniscience
 4 Show and Tell
-3 Portent
-2 Entreat the Angels
+1 Lotus Petal
+2 Lotus Petal
+3 Lotus Petal
 1 Pyroblast
 2 Pyroblast
-7 Island
-1 Energy Field
+1 Edge of Autumn
+1 Street Wraith
+1 Doomsday
+1 Snow-Covered Swamp
+1 Lion's Eye Diamond
+1 Thassa's Oracle
+1 Cavern of Souls
+1 Ideas Unbound
 1 Underground Sea
+1 Dark Ritual
+2 Underground Sea
+2 Doomsday
+2 Dark Ritual
 3 Polluted Delta
+3 Doomsday
+3 Dark Ritual
 4 Polluted Delta
+4 Doomsday
+4 Dark Ritual
+3 Portent
+1 Energy Field
+7 Island
 1 Path to Exile
 1 Scroll Rack
 1 Land Tax
@@ -108,21 +126,13 @@
 3 Scroll Rack
 3 Land Tax
 4 Land Tax
-1 Lotus Petal
-2 Lotus Petal
-3 Lotus Petal
 1 Flusterstorm
 1 Deprive
 1 Karakas
 1 Ancient Tomb
 2 Spell Pierce
-1 Swamp
-1 Cling to Dust
-1 Kaya, Orzhov Usurper
-2 Cling to Dust
 1 Arid Mesa
 2 Helm of Obedience
-2 Tropical Island
 1 Teferi, Hero of Dominaria
 2 Teferi, Hero of Dominaria
 3 Teferi, Time Raveler
@@ -137,18 +147,25 @@
 2 Veil of Summer
 2 Snow-Covered Forest
 3 Veil of Summer
+2 Stifle
+4 Wasteland
+1 Hullbreacher
+1 Baleful Strix
+2 Baleful Strix
+2 Hullbreacher
+3 Baleful Strix
+4 Arcum's Astrolabe
 1 Brazen Borrower
 1 Thing in the Ice
 1 Maze of Ith
 1 Devastation Tide
+2 Entreat the Angels
 2 Devastation Tide
 3 Mystic Sanctuary
 4 Portent
 4 Tundra
-2 Stifle
-4 Wasteland
-1 Court of Cunning
 1 Dovin's Veto
+1 Court of Cunning
 1 Moat
 1 Humility
 2 Energy Field
@@ -156,37 +173,36 @@
 3 Energy Field
 3 Court of Cunning
 4 Rest in Peace
-1 Snow-Covered Swamp
-1 Edge of Autumn
-1 Street Wraith
-1 Doomsday
-1 Thassa's Oracle
-1 Hullbreacher
-1 Cavern of Souls
-1 Baleful Strix
-1 Lion's Eye Diamond
-1 Ideas Unbound
-1 Dark Ritual
-2 Baleful Strix
-2 Underground Sea
-2 Hullbreacher
-2 Doomsday
-2 Dark Ritual
-3 Doomsday
-3 Dark Ritual
-3 Baleful Strix
-4 Doomsday
-4 Dark Ritual
-4 Arcum's Astrolabe
+1 Dack Fayden
+1 Frantic Inventory
+1 Mox Diamond
+1 Aria of Flame
+2 Aria of Flame
+2 Dack Fayden
+2 Frantic Inventory
+2 Lightning Bolt
+2 Mox Diamond
+3 Volcanic Island
+3 Frantic Inventory
+3 Aria of Flame
+3 Mox Diamond
+4 Frantic Inventory
+4 Aria of Flame
+1 Thoughtseize
+1 Orim's Chant
+1 Scrubland
+2 Thoughtseize
+3 Underground Sea
+4 Preordain
 1 Firestorm
+1 Urza, Lord High Artificer
 1 Pyrite Spellbomb
 1 Emry, Lurker of the Loch
-1 Urza, Lord High Artificer
 1 Mox Opal
 2 Firestorm
+2 Urza, Lord High Artificer
 2 Path to Exile
 2 Mox Opal
-2 Urza, Lord High Artificer
 3 Snow-Covered Plains
 3 Mox Opal
 4 Snow-Covered Plains
@@ -195,8 +211,8 @@
 7 Snow-Covered Island
 1 Solitary Confinement
 1 Detention Sphere
-1 True-Name Nemesis
 1 Trade Routes
+1 True-Name Nemesis
 1 Web of Inertia
 3 Enlightened Tutor
 3 Plains

@@ -19,35 +19,24 @@
 3 Jace, the Mind Sculptor
 2 Silundi Vision
 1 Spirebluff Canal
-2 Cascade Bluffs
 1 Riverglide Pathway
 2 Riverglide Pathway
 3 Riverglide Pathway
+2 Cascade Bluffs
 1 Serum Visions
 2 Serum Visions
 1 Brazen Borrower
-3 Cascade Bluffs
 4 Riverglide Pathway
+3 Cascade Bluffs
 4 Cascade Bluffs
 3 Blood Moon
-2 Magmatic Sinkhole
-1 Temple of Epiphany
-1 Reflecting Pool
-2 Temple of Epiphany
-2 Reflecting Pool
-3 Temple of Epiphany
-3 Reflecting Pool
-4 Temple of Epiphany
-4 Reflecting Pool
-2 Spirebluff Canal
-3 Serum Visions
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
 1 Academy Ruins
-1 Thirst for Knowledge
 1 Talisman of Creativity
+1 Thirst for Knowledge
 1 Gemstone Caverns
 1 Chalice of the Void
 1 Urza's Mine
@@ -75,81 +64,96 @@
 3 Expedition Map
 3 Condescend
 4 Expedition Map
-4 Urza's Tower
 4 Urza's Mine
 4 Karn, the Great Creator
 4 Urza's Power Plant
-3 Cleansing Wildfire
-2 Mountain
-1 Omen of the Sea
-2 Omen of the Sea
-2 Polluted Delta
-3 Polluted Delta
-8 Island
-4 Serum Visions
-2 Brazen Borrower
-1 Snow-Covered Mountain
+4 Urza's Tower
+2 Magmatic Sinkhole
+1 Temple of Epiphany
+1 Reflecting Pool
+2 Temple of Epiphany
+2 Reflecting Pool
+3 Temple of Epiphany
+3 Reflecting Pool
+4 Temple of Epiphany
+4 Reflecting Pool
+2 Spirebluff Canal
+3 Serum Visions
 5 Snow-Covered Island
-3 Misty Rainforest
-1 Oboro, Palace in the Clouds
-1 Thought-Knot Seer
-1 Eldrazi Temple
-2 Gemstone Caverns
-2 Thought-Knot Seer
-3 Thought-Knot Seer
-4 Thought-Knot Seer
 1 Ugin, the Spirit Dragon
 1 Repeal
 2 Thirst for Knowledge
 2 Repeal
-1 Cyclonic Rift
+2 Gemstone Caverns
 4 Condescend
-3 Omen of the Sea
-4 Omen of the Sea
+1 Oboro, Palace in the Clouds
+3 Misty Rainforest
+3 Cleansing Wildfire
+2 Mountain
+1 Omen of the Sea
+2 Omen of the Sea
+4 Serum Visions
+2 Polluted Delta
+3 Polluted Delta
+8 Island
+1 Snow-Covered Mountain
+2 Brazen Borrower
+1 Thought-Knot Seer
+1 Eldrazi Temple
+2 Thought-Knot Seer
+3 Thought-Knot Seer
+4 Thought-Knot Seer
+1 Cyclonic Rift
+1 Dismember
+3 Thirst for Knowledge
+1 Wurmcoil Engine
+1 Vendilion Clique
+4 Misty Rainforest
 1 Deliberate
 2 Deliberate
 3 Deliberate
 4 Deliberate
+3 Omen of the Sea
+4 Omen of the Sea
 9 Island
 1 Prismatic Vista
 2 Fiery Islet
-1 Vendilion Clique
-1 Engineered Explosives
+4 Thirst for Knowledge
 1 Mindslaver
-1 Dismember
-3 Thirst for Knowledge
-4 Chalice of the Void
+1 Engineered Explosives
+3 Repeal
+2 Wurmcoil Engine
+2 Dismember
 1 Simian Spirit Guide
 2 Simian Spirit Guide
 3 Simian Spirit Guide
-1 Wurmcoil Engine
+4 Chalice of the Void
+1 Blood Sun
 1 Desolate Lighthouse
 1 Valakut Awakening
 6 Snow-Covered Island
 1 Izzet Charm
-4 Misty Rainforest
+1 Blast Zone
 1 Spell Pierce
 2 Spell Pierce
-1 Blast Zone
+3 Steam Vents
+1 Burst Lightning
+1 Field of Ruin
 1 The Royal Scions
-1 Mana Leak
-2 Mana Leak
 1 Karn, Scion of Urza
 2 Karn, Scion of Urza
 2 Vendilion Clique
-1 Field of Ruin
-2 Wurmcoil Engine
-2 Dismember
+1 Spreading Seas
+2 Spreading Seas
+2 Blood Sun
+1 Mana Leak
+2 Mana Leak
 1 Sulfur Falls
 1 Bonecrusher Giant
 1 Wandering Fumarole
 2 Bonecrusher Giant
 2 Sulfur Falls
 3 Spell Snare
-1 Spreading Seas
-2 Spreading Seas
-3 Repeal
-3 Steam Vents
 1 Breeding Pool
 1 Growth Spiral
 1 Ketria Triome
@@ -157,6 +161,7 @@
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
+4 Cleansing Wildfire
 1 Peek
 1 Shark Typhoon
 1 Fire Prophecy
@@ -164,13 +169,32 @@
 2 Peek
 2 Fire Prophecy
 4 Polluted Delta
-4 Cleansing Wildfire
-4 Thirst for Knowledge
-1 Burst Lightning
 4 Thing in the Ice
+1 Venser, Shaper Savant
+1 Watcher for Tomorrow
+1 Manamorphose
+1 Naban, Dean of Iteration
+1 Aether Vial
+1 Boomerang
+1 Barrin, Tolarian Archmage
+1 Sea Gate Stormcaller
+1 Glasspool Mimic
+2 Barrin, Tolarian Archmage
+2 Manamorphose
+2 Watcher for Tomorrow
+2 Aether Vial
+2 Venser, Shaper Savant
+2 Sea Gate Stormcaller
+2 Naban, Dean of Iteration
+3 Watcher for Tomorrow
+3 Naban, Dean of Iteration
+3 Aether Vial
+3 Sea Gate Stormcaller
+4 Naban, Dean of Iteration
+4 Aether Vial
+4 Sea Gate Stormcaller
 1 Clearwater Pathway
 1 Flame Slash
-1 Blood Sun
 1 Minamo, School at Water's Edge
 3 Spirebluff Canal
 4 Spirebluff Canal

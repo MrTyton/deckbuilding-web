@@ -1,20 +1,21 @@
 2 Silent Clearing
 3 Archon of Emeria
 1 Aven Mindcensor
-3 Horizon Canopy
-4 Horizon Canopy
 1 Snow-Covered Plains
 2 Aven Mindcensor
+3 Silent Clearing
 1 Castle Ardenvale
-1 Sword of Light and Shadow
 2 Snow-Covered Plains
 3 Snow-Covered Plains
-1 Linvala, Keeper of Silence
+3 Horizon Canopy
+4 Horizon Canopy
+4 Silent Clearing
+1 Sword of Light and Shadow
 2 Sunbaked Canyon
+1 Noble Hierarch
 1 Temple Garden
 1 Razorverge Thicket
 1 Branchloft Pathway
-1 Noble Hierarch
 2 Razorverge Thicket
 2 Temple Garden
 2 Branchloft Pathway
@@ -28,15 +29,19 @@
 4 Noble Hierarch
 1 Charming Prince
 2 Charming Prince
+4 Snow-Covered Plains
+5 Snow-Covered Plains
+6 Snow-Covered Plains
+7 Snow-Covered Plains
+8 Snow-Covered Plains
+9 Snow-Covered Plains
 11 Plains
 12 Plains
+1 Linvala, Keeper of Silence
 1 Shefet Dunes
 1 Militia Bugler
 2 Militia Bugler
-3 Silent Clearing
 1 Restoration Angel
-4 Snow-Covered Plains
-5 Snow-Covered Plains
 1 Brushland
 1 Eternal Witness
 1 Snow-Covered Forest
@@ -60,18 +65,7 @@
 15 Plains
 16 Plains
 17 Plains
-6 Snow-Covered Plains
-7 Snow-Covered Plains
-8 Snow-Covered Plains
-9 Snow-Covered Plains
-4 Silent Clearing
-1 Geist of Saint Traft
-1 Hallowed Fountain
-1 Seachrome Coast
-2 Geist of Saint Traft
-2 Hallowed Fountain
-2 Seachrome Coast
-3 Geist of Saint Traft
+10 Snow-Covered Plains
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
@@ -91,23 +85,6 @@
 1 Forest
 1 Tectonic Edge
 2 Shefet Dunes
-1 Sword of Feast and Famine
-1 Skyclave Cleric
-2 Skyclave Cleric
-1 Glacial Fortress
-1 Deputy of Detention
-1 Snow-Covered Island
-1 Spell Queller
-1 Unsettled Mariner
-1 Steel of the Godhead
-2 Spell Queller
-2 Unsettled Mariner
-2 Snow-Covered Island
-2 Steel of the Godhead
-3 Snow-Covered Island
-3 Unsettled Mariner
-3 Spell Queller
-4 Spell Queller
 1 Magus of the Moon
 1 Mountain
 1 Boros Charm
@@ -117,8 +94,8 @@
 3 Sunbaked Canyon
 4 Sacred Foundry
 4 Sunbaked Canyon
-1 Needleverge Pathway
 1 Arid Mesa
+1 Needleverge Pathway
 1 Lurrus of the Dream-Den
 1 Lightning Bolt
 1 Grim Lavamancer
@@ -142,9 +119,16 @@
 3 Selfless Spirit
 4 Judge's Familiar
 4 Inspiring Vantage
-10 Snow-Covered Plains
+1 Geist of Saint Traft
 1 Island
+1 Hallowed Fountain
+1 Seachrome Coast
+2 Geist of Saint Traft
+2 Hallowed Fountain
+2 Seachrome Coast
 3 Seachrome Coast
+3 Geist of Saint Traft
 3 Hallowed Fountain
 4 Hallowed Fountain
 4 Seachrome Coast
+11 Snow-Covered Plains
