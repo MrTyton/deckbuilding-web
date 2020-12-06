@@ -1,29 +1,24 @@
-1 Bayou
+2 Scalding Tarn
 1 Personal Tutor
-3 Misty Rainforest
+3 Duress
 3 Scalding Tarn
+4 Misty Rainforest
 4 Scalding Tarn
 1 Lim-Dul's Vault
-4 Misty Rainforest
-1 Verdant Catacombs
-1 Bloodstained Mire
-1 Abrupt Decay
-1 Cabal Therapy
-1 Baleful Strix
-1 Spell Pierce
-1 Flooded Strand
 1 Swamp
 1 Island
+1 Bloodstained Mire
+1 Abrupt Decay
+1 Verdant Catacombs
+1 Spell Pierce
+1 Baleful Strix
+1 Cabal Therapy
 2 Personal Tutor
-2 Flooded Strand
+3 Thoughtseize
 2 Baleful Strix
+1 Flooded Strand
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
-3 Thoughtseize
-1 Pyroblast
-1 Prismatic Vista
-1 Night's Whisper
-4 Duress
 1 Dreadhorde Arcanist
 1 Delver of Secrets
 1 Arclight Phoenix
@@ -40,9 +35,23 @@
 4 Delver of Secrets
 4 Buried Alive
 4 Arclight Phoenix
+2 Flooded Strand
+1 Prismatic Vista
+2 Volcanic Island
+3 Dreadhorde Arcanist
+3 Lightning Bolt
+1 Night's Whisper
+4 Duress
+1 Pyroblast
+1 Opposition Agent
+2 Opposition Agent
+3 Opposition Agent
+1 Flusterstorm
+1 Veil of Summer
+3 Baleful Strix
 1 Emrakul, the Aeons Torn
-1 Collective Brutality
 1 Entomb
+1 Collective Brutality
 1 Griselbrand
 1 Shallow Grave
 1 Goryo's Vengeance
@@ -55,16 +64,8 @@
 4 Entomb
 4 Lotus Petal
 4 Shallow Grave
-1 Chrome Mox
-2 Verdant Catacombs
-2 Goryo's Vengeance
-1 Flusterstorm
-2 Volcanic Island
-3 Dreadhorde Arcanist
-3 Lightning Bolt
-3 Baleful Strix
-4 Underground Sea
 4 Thoughtseize
+1 Chrome Mox
 3 Flooded Strand
 1 Disrupting Shoal
 1 Rain of Filth
@@ -75,8 +76,8 @@
 1 Misdirection
 1 Thought Erasure
 1 Curator of Mysteries
-1 Cabal Ritual
 1 Unclaimed Territory
+1 Cabal Ritual
 1 Abjure
 1 Mox Tantalite
 2 Portent
@@ -86,12 +87,16 @@
 3 Thought Erasure
 4 Flooded Strand
 4 Portent
-1 Veil of Summer
 1 Repeal
 1 Predict
-1 Opposition Agent
-2 Opposition Agent
-3 Opposition Agent
+2 Verdant Catacombs
+2 Goryo's Vengeance
+2 Island
+2 Veil of Summer
+1 Sprite Dragon
+2 Bloodstained Mire
+2 Sprite Dragon
+3 Bloodstained Mire
 1 Young Pyromancer
 2 Young Pyromancer
 3 Young Pyromancer
@@ -100,10 +105,6 @@
 2 Uro, Titan of Nature's Wrath
 3 Arcum's Astrolabe
 3 Uro, Titan of Nature's Wrath
-1 Sprite Dragon
-2 Bloodstained Mire
-2 Sprite Dragon
-3 Bloodstained Mire
 1 Teferi, Time Raveler
 1 Tundra
 1 Marsh Flats
@@ -122,3 +123,4 @@
 4 Reanimate
 4 Griselbrand
 4 Unmask
+4 Underground Sea

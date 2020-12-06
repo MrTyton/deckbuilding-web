@@ -56,17 +56,17 @@
 1 Tamiyo, Collector of Tales
 1 Arbor Elf
 1 Prismatic Vista
-2 Ice-Fang Coatl
 2 Utopia Sprawl
 2 Arbor Elf
 2 Prismatic Vista
+2 Ice-Fang Coatl
 2 Tamiyo, Collector of Tales
 2 Abundant Growth
 3 Jace, the Mind Sculptor
-3 Ice-Fang Coatl
 3 Arbor Elf
 3 Prismatic Vista
 3 Tamiyo, Collector of Tales
+3 Ice-Fang Coatl
 3 Utopia Sprawl
 4 Ice-Fang Coatl
 4 Utopia Sprawl
@@ -79,8 +79,8 @@
 1 Primeval Titan
 2 Primeval Titan
 2 Shark Typhoon
-1 Life from the Loam
 1 Oboro, Palace in the Clouds
+1 Life from the Loam
 3 Field of the Dead
 1 Wilderness Reclamation
 1 Blast Zone
@@ -92,8 +92,8 @@
 4 Primeval Titan
 2 Forest
 1 Radiant Fountain
-1 Ghost Quarter
 1 Dryad of the Ilysian Grove
+1 Ghost Quarter
 1 Arboreal Grazer
 1 Simic Growth Chamber
 1 Summoner's Pact
@@ -164,17 +164,38 @@
 3 Serum Visions
 3 Savor the Moment
 3 Fires of Invention
+4 Mystic Sanctuary
 4 Fires of Invention
 4 Wrenn and Six
 4 Serum Visions
 4 Savor the Moment
-4 Mystic Sanctuary
-1 Sakura-Tribe Scout
-2 Turntimber Symbiosis
-2 Sakura-Tribe Scout
-3 Turntimber Symbiosis
-3 Castle Garenbrig
-4 Castle Garenbrig
+1 Tarmogoyf
+1 Bloodbraid Elf
+1 Bonecrusher Giant
+1 Scavenging Ooze
+1 Ancestral Vision
+1 Blood Moon
+1 Birds of Paradise
+1 Noble Hierarch
+2 Tarmogoyf
+2 Noble Hierarch
+2 Bloodbraid Elf
+2 Bonecrusher Giant
+2 Ancestral Vision
+2 Blood Moon
+2 Birds of Paradise
+3 Noble Hierarch
+3 Blood Moon
+3 Birds of Paradise
+3 Tarmogoyf
+3 Bloodbraid Elf
+3 Bonecrusher Giant
+3 Ancestral Vision
+4 Noble Hierarch
+4 Blood Moon
+4 Tarmogoyf
+4 Bloodbraid Elf
+4 Snow-Covered Forest
 1 Engineered Explosives
 1 Bloodstained Mire
 1 Sakura-Tribe Elder
@@ -195,30 +216,9 @@
 4 Stomping Ground
 4 Izzet Charm
 5 Mountain
-1 Tarmogoyf
-1 Scavenging Ooze
-1 Bloodbraid Elf
-1 Bonecrusher Giant
-1 Ancestral Vision
-1 Blood Moon
-1 Birds of Paradise
-1 Noble Hierarch
-2 Tarmogoyf
-2 Birds of Paradise
-2 Bloodbraid Elf
-2 Bonecrusher Giant
-2 Ancestral Vision
-2 Blood Moon
-2 Noble Hierarch
-3 Blood Moon
-3 Birds of Paradise
-3 Tarmogoyf
-3 Bloodbraid Elf
-3 Bonecrusher Giant
-3 Noble Hierarch
-3 Ancestral Vision
-4 Blood Moon
-4 Tarmogoyf
-4 Bloodbraid Elf
-4 Snow-Covered Forest
-4 Noble Hierarch
+1 Sakura-Tribe Scout
+2 Turntimber Symbiosis
+2 Sakura-Tribe Scout
+3 Turntimber Symbiosis
+3 Castle Garenbrig
+4 Castle Garenbrig

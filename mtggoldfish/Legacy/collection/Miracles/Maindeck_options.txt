@@ -68,8 +68,8 @@
 5 Island
 6 Island
 1 Enlightened Tutor
-1 Stifle
 1 Dreadhorde Arcanist
+1 Stifle
 1 Sprite Dragon
 2 Dreadhorde Arcanist
 3 Wasteland
@@ -78,13 +78,13 @@
 2 Polluted Delta
 1 Uro, Titan of Nature's Wrath
 1 Omniscience
-1 Show and Tell
 1 Cunning Wish
+1 Show and Tell
 1 Emrakul, the Aeons Torn
-2 Show and Tell
 2 Omniscience
 2 Cunning Wish
 2 Emrakul, the Aeons Torn
+2 Show and Tell
 3 Show and Tell
 3 Cunning Wish
 3 Omniscience
@@ -95,14 +95,14 @@
 3 Lotus Petal
 1 Pyroblast
 2 Pyroblast
-1 Edge of Autumn
 1 Street Wraith
-1 Doomsday
 1 Snow-Covered Swamp
 1 Lion's Eye Diamond
 1 Thassa's Oracle
-1 Cavern of Souls
 1 Ideas Unbound
+1 Doomsday
+1 Edge of Autumn
+1 Cavern of Souls
 1 Underground Sea
 1 Dark Ritual
 2 Underground Sea
@@ -147,14 +147,6 @@
 2 Veil of Summer
 2 Snow-Covered Forest
 3 Veil of Summer
-2 Stifle
-4 Wasteland
-1 Hullbreacher
-1 Baleful Strix
-2 Baleful Strix
-2 Hullbreacher
-3 Baleful Strix
-4 Arcum's Astrolabe
 1 Brazen Borrower
 1 Thing in the Ice
 1 Maze of Ith
@@ -164,15 +156,14 @@
 3 Mystic Sanctuary
 4 Portent
 4 Tundra
-1 Dovin's Veto
-1 Court of Cunning
-1 Moat
-1 Humility
-2 Energy Field
-2 Court of Cunning
-3 Energy Field
-3 Court of Cunning
-4 Rest in Peace
+2 Stifle
+4 Wasteland
+1 Hullbreacher
+1 Baleful Strix
+2 Baleful Strix
+2 Hullbreacher
+3 Baleful Strix
+4 Arcum's Astrolabe
 1 Dack Fayden
 1 Frantic Inventory
 1 Mox Diamond
@@ -186,8 +177,17 @@
 3 Frantic Inventory
 3 Aria of Flame
 3 Mox Diamond
-4 Frantic Inventory
 4 Aria of Flame
+4 Frantic Inventory
+1 Dovin's Veto
+1 Court of Cunning
+1 Humility
+1 Moat
+2 Energy Field
+2 Court of Cunning
+3 Energy Field
+3 Court of Cunning
+4 Rest in Peace
 1 Thoughtseize
 1 Orim's Chant
 1 Scrubland

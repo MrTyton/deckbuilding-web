@@ -71,23 +71,23 @@
 1 Duress
 1 Heartless Act
 1 Polukranos, Unchained
-1 Elder Gargaroth
 1 Thrashing Brontodon
 1 Cling to Dust
+1 Elder Gargaroth
 1 Scavenging Ooze
 1 Castle Locthwain
-2 Yasharn, Implacable Earth
 2 Castle Locthwain
 2 Thrashing Brontodon
 2 Duress
 2 Heartless Act
 2 Elder Gargaroth
+2 Yasharn, Implacable Earth
 2 Polukranos, Unchained
 2 Scavenging Ooze
 3 Scavenging Ooze
-3 Yasharn, Implacable Earth
 3 Duress
 3 Elder Gargaroth
+3 Yasharn, Implacable Earth
 4 Duress
 1 The Birth of Meletis
 2 The Birth of Meletis
@@ -136,23 +136,23 @@
 4 Harmonious Archon
 4 Mountain
 1 Wolfwillow Haven
+1 Shadows' Verdict
 1 Cultivate
 1 Felidar Retreat
-1 Shadows' Verdict
 1 Erebos's Intervention
-2 Wolfwillow Haven
 2 Bala Ged Recovery
+2 Wolfwillow Haven
 2 Cultivate
 2 Erebos's Intervention
 3 Bala Ged Recovery
-3 Wolfwillow Haven
 3 Garruk, Cursed Huntsman
 3 Cultivate
 3 Emeria's Call
 3 Erebos's Intervention
+3 Wolfwillow Haven
 4 Emeria's Call
-4 Wolfwillow Haven
 4 Erebos's Intervention
+4 Wolfwillow Haven
 4 Garruk, Cursed Huntsman
 1 Island
 2 Island
@@ -160,8 +160,8 @@
 1 Radiant Fountain
 1 Sleeper Dart
 1 Forsaken Monument
-1 Swift Response
 1 Labyrinth of Skophos
+1 Swift Response
 1 Dance of the Manse
 1 Crawling Barrens
 2 Unknown Shores
@@ -194,17 +194,18 @@
 1 Silundi Vision
 1 Hypnotic Sprite
 1 Frantic Inventory
-1 Sublime Epiphany
-1 Neutralize
 1 Into the Roil
-1 Brazen Borrower
+1 Sublime Epiphany
 1 Gadwick, the Wizened
+1 Neutralize
+1 Brazen Borrower
 1 Essence Scatter
 1 Kiora Bests the Sea God
 1 Mystic Sanctuary
 1 Bonders' Enclave
 1 Shark Typhoon
 1 Castle Vantress
+2 Gadwick, the Wizened
 2 Castle Vantress
 2 Rain of Revelation
 2 Lofty Denial
@@ -212,11 +213,10 @@
 2 Rewind
 2 Hypnotic Sprite
 2 Frantic Inventory
+2 Into the Roil
 2 Neutralize
 2 Essence Scatter
-2 Into the Roil
 2 Shark Typhoon
-2 Gadwick, the Wizened
 3 Neutralize
 3 Brazen Borrower
 3 Castle Vantress

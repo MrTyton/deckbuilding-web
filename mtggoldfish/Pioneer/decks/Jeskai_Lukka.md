@@ -94,7 +94,7 @@
 |                    3|[Elspeth Conquers Death](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476264)   |                     |                                                                                                 |
 |                    3|[Lukka, Coppercoat Outcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479645)|                     |                                                                                                 |
 |                    3|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)           |                     |                                                                                                 |
-|                    4|[Lukka, Coppercoat Outcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479645)|                     |                                                                                                 |
 |                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)           |                     |                                                                                                 |
+|                    4|[Lukka, Coppercoat Outcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479645)|                     |                                                                                                 |
 |                    4|[Elspeth Conquers Death](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476264)   |                     |                                                                                                 |
 

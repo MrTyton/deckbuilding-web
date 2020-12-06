@@ -15,8 +15,8 @@
 2 Scourge of the Skyclaves
 1 Terminate
 1 Blooming Marsh
-1 Mishra's Bauble
 1 Seal of Fire
+1 Mishra's Bauble
 2 Mishra's Bauble
 2 Seal of Fire
 2 Assassin's Trophy
@@ -40,14 +40,14 @@
 2 Temur Battle Rage
 3 Soul-Scar Mage
 3 Monastery Swiftspear
-4 Soul-Scar Mage
 4 Monastery Swiftspear
+4 Soul-Scar Mage
 1 Sheltered Thicket
 1 Canyon Slough
 3 Scavenging Ooze
 1 Ghost Quarter
-1 Snow-Covered Mountain
 1 Snow-Covered Swamp
+1 Snow-Covered Mountain
 1 Snow-Covered Forest
 2 Snow-Covered Swamp
 2 Dark Confidant
@@ -56,8 +56,8 @@
 1 Hexdrinker
 1 Unearth
 2 Hexdrinker
-3 Hexdrinker
 3 Nurturing Peatland
+3 Hexdrinker
 1 Tireless Tracker
 2 Tireless Tracker
 2 Terminate
@@ -67,11 +67,8 @@
 2 Ashiok, Dream Render
 1 Liliana, the Last Hope
 3 Dark Confidant
-1 Vexing Devil
-1 Grim Flayer
-2 Vexing Devil
-2 Grim Flayer
-3 Vexing Devil
+3 Abrupt Decay
+4 Abrupt Decay
 1 Tarfire
 1 Lurrus of the Dream-Den
 1 Tranquil Thicket
@@ -79,5 +76,8 @@
 3 Lurrus of the Dream-Den
 3 Assassin's Trophy
 4 Wrenn and Six
-3 Abrupt Decay
-4 Abrupt Decay
+1 Vexing Devil
+1 Grim Flayer
+2 Vexing Devil
+2 Grim Flayer
+3 Vexing Devil
