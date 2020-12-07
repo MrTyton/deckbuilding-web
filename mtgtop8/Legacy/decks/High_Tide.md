@@ -62,7 +62,6 @@
 |                    3|[Sapphire Medallion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389662) |                     |                                                                                            |
 |                    4|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
 |                    4|[Sapphire Medallion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389662) |                     |                                                                                            |
-|                    4|[Spellseeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446009)        |                     |                                                                                            |
 |                    5|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
 |                    6|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
 |                    7|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
@@ -70,4 +69,5 @@
 |                    9|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
 |                   10|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
 |                   11|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                            |
+|                    4|[Spellseeker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446009)        |                     |                                                                                            |
 

@@ -19,25 +19,25 @@
 1 Agadeem's Awakening
 1 Blooming Marsh
 2 Blooming Marsh
-1 Priest of Forgotten Gods
-1 Zulaport Cutthroat
+1 Gilded Goose
 1 Woe Strider
+1 Zulaport Cutthroat
+1 Priest of Forgotten Gods
 1 Blood Crypt
 1 Overgrown Tomb
 1 Catacomb Sifter
 1 Llanowar Elves
-1 Gilded Goose
 1 Bolas's Citadel
 1 Elvish Mystic
 1 Cragcrown Pathway
 1 Collected Company
 1 Mayhem Devil
-2 Priest of Forgotten Gods
+2 Gilded Goose
 2 Zulaport Cutthroat
-2 Overgrown Tomb
 2 Woe Strider
 2 Blood Crypt
-2 Gilded Goose
+2 Priest of Forgotten Gods
+2 Overgrown Tomb
 2 Bolas's Citadel
 2 Collected Company
 2 Llanowar Elves
@@ -45,24 +45,24 @@
 2 Elvish Mystic
 2 Cragcrown Pathway
 2 Catacomb Sifter
+3 Woe Strider
+3 Gilded Goose
 3 Zulaport Cutthroat
-3 Overgrown Tomb
 3 Priest of Forgotten Gods
+3 Overgrown Tomb
 3 Mayhem Devil
 3 Catacomb Sifter
 3 Cragcrown Pathway
-3 Gilded Goose
-3 Woe Strider
 3 Bolas's Citadel
 3 Blooming Marsh
 3 Collected Company
+4 Overgrown Tomb
+4 Woe Strider
 4 Zulaport Cutthroat
 4 Priest of Forgotten Gods
 4 Catacomb Sifter
-4 Woe Strider
 4 Mayhem Devil
 4 Cragcrown Pathway
-4 Overgrown Tomb
 4 Blooming Marsh
 4 Collected Company
 4 Bolas's Citadel
@@ -74,12 +74,31 @@
 3 Llanowar Wastes
 4 Llanowar Wastes
 1 Urborg, Tomb of Yawgmoth
+4 Gilded Goose
+3 Spell Queller
+4 Spell Queller
+1 Champion of Wits
+2 Champion of Wits
+1 Niambi, Esteemed Speaker
+2 Niambi, Esteemed Speaker
+1 Solemn Simulacrum
+1 Omen of the Sea
+1 Spell Pierce
+2 Solemn Simulacrum
+2 Omen of the Sea
+2 Spell Pierce
+2 Agadeem's Awakening
+1 Fiend Artisan
+1 Blisterpod
+2 Blisterpod
 1 Legion's Landing
 2 Legion's Landing
 1 Boros Elite
 1 Soldier of the Pantheon
 1 Dauntless Bodyguard
 1 Brave the Elements
+1 Benalish Marshal
+1 Mardu Woe-Reaper
 1 Concealed Courtyard
 1 Godless Shrine
 1 Brightclimb Pathway
@@ -103,6 +122,7 @@
 2 Kytheon, Hero of Akros
 2 Giant Killer
 2 Shefet Dunes
+2 Benalish Marshal
 2 Brightclimb Pathway
 2 Godless Shrine
 3 General Kudro of Drannith
@@ -125,38 +145,14 @@
 4 Dauntless Bodyguard
 4 Boros Elite
 4 Brightclimb Pathway
-4 Gilded Goose
-3 Spell Queller
-4 Spell Queller
-1 Champion of Wits
-2 Champion of Wits
-1 Niambi, Esteemed Speaker
-2 Niambi, Esteemed Speaker
-1 Solemn Simulacrum
-1 Omen of the Sea
-1 Spell Pierce
-2 Solemn Simulacrum
-2 Omen of the Sea
-2 Spell Pierce
-2 Agadeem's Awakening
-1 Fiend Artisan
-1 Blisterpod
-2 Blisterpod
-1 Venerated Loxodon
-2 Venerated Loxodon
-3 Venerated Loxodon
-4 Venerated Loxodon
-1 Benalish Marshal
-1 Mardu Woe-Reaper
-2 Benalish Marshal
 4 Luminarch Aspirant
 1 Temple Garden
 1 Branchloft Pathway
 1 Trostani Discordant
 1 Voice of Resurgence
 1 Sunpetal Grove
-1 Omen of the Sun
 1 Westvale Abbey
+1 Omen of the Sun
 1 Elspeth, Sun's Champion
 1 Conclave Tribunal
 1 Nissa, Voice of Zendikar
@@ -172,9 +168,9 @@
 2 Castle Ardenvale
 2 Temple Garden
 2 Branchloft Pathway
-2 Omen of the Sun
 2 Voice of Resurgence
 2 Sunpetal Grove
+2 Omen of the Sun
 2 Raise the Alarm
 2 Conclave Tribunal
 2 Brimaz, King of Oreskos
@@ -222,21 +218,21 @@
 1 Brazen Borrower
 1 Irrigated Farmland
 2 Watcher of the Spheres
-2 Azorius Charm
 2 Archangel Avacyn
 2 Emeria's Call
 2 Lofty Denial
 2 Selfless Spirit
 2 Rattlechains
+2 Azorius Charm
 2 Brazen Borrower
 2 Winged Words
 2 Irrigated Farmland
 3 Watcher of the Spheres
-3 Azorius Charm
 3 Brazen Borrower
 3 Archangel Avacyn
 3 Irrigated Farmland
 3 Rattlechains
+3 Azorius Charm
 3 Lofty Denial
 3 Selfless Spirit
 4 Selfless Spirit
@@ -263,8 +259,8 @@
 2 Mana Confluence
 2 Deathrite Shaman
 2 Clearwater Pathway
-2 Merfolk Windrobber
 2 Watery Grave
+2 Merfolk Windrobber
 2 Into the Story
 2 Fatal Push
 2 Thoughtseize

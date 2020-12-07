@@ -55,7 +55,7 @@
 |                     |                                                                                               |                    1|[Lavinia of the Tenth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368983)      |
 |                     |                                                                                               |                    1|[Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208284)            |
 |                     |                                                                                               |                    2|[Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208284)            |
-|                     |                                                                                               |                    3|[Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208284)            |
-|                     |                                                                                               |                    4|[Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208284)            |
 |                     |                                                                                               |                    2|[Lavinia of the Tenth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368983)      |
+|                     |                                                                                               |                    4|[Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208284)            |
+|                     |                                                                                               |                    3|[Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208284)            |
 

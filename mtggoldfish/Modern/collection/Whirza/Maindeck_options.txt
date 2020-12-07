@@ -17,8 +17,8 @@
 1 Blood Crypt
 1 Damping Sphere
 2 Mystic Sanctuary
-1 Hallowed Fountain
 1 Teferi, Time Raveler
+1 Hallowed Fountain
 2 Teferi, Time Raveler
 1 Misty Rainforest
 1 Island
@@ -32,16 +32,16 @@
 1 Snow-Covered Mountain
 3 Misty Rainforest
 4 Misty Rainforest
-1 Path to Exile
 1 Cryptic Command
+1 Path to Exile
 2 Path to Exile
-1 Uro, Titan of Nature's Wrath
 1 Breeding Pool
+1 Uro, Titan of Nature's Wrath
 1 Gilded Goose
 1 Forest
 2 Gilded Goose
-2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
+2 Breeding Pool
 2 Cryptic Command
 3 Gilded Goose
 3 Uro, Titan of Nature's Wrath
@@ -65,8 +65,8 @@
 4 Whir of Invention
 1 Swamp
 1 Sunken Hollow
-1 Thoughtseize
 1 Inquisition of Kozilek
+1 Thoughtseize
 2 Thoughtseize
 2 Fatal Push
 2 Talisman of Progress
@@ -79,16 +79,16 @@
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
-1 Lurrus of the Dream-Den
-1 Dreadbore
 1 Temple Garden
+1 Dreadbore
+1 Lurrus of the Dream-Den
 1 Cavern of Souls
 2 Cavern of Souls
 1 Seachrome Coast
 2 Seachrome Coast
-3 Teferi, Time Raveler
-3 Chromatic Star
 3 Fatal Push
+3 Chromatic Star
+3 Teferi, Time Raveler
 4 Teferi, Time Raveler
 1 Glacial Fortress
 1 Lonely Sandbar
@@ -96,15 +96,29 @@
 2 Sai, Master Thopterist
 3 Path to Exile
 4 Path to Exile
+1 Mazemind Tome
+1 Prismatic Vista
+1 Heliod, Sun-Crowned
+1 Walking Ballista
+1 Field of Ruin
+1 Mirran Spy
+2 Prismatic Vista
+2 Glimmervoid
+2 Mazemind Tome
+2 Walking Ballista
+3 Prismatic Vista
+3 Glimmervoid
+4 Prismatic Vista
+4 Glimmervoid
 1 Simian Spirit Guide
-1 Crucible of Worlds
-1 Cascade Bluffs
 1 Ghost Quarter
-1 Sorcerous Spyglass
+1 Cascade Bluffs
+1 Crucible of Worlds
 1 Grafdigger's Cage
+1 Sorcerous Spyglass
 1 Witchbane Orb
-1 Torpor Orb
 1 Tormod's Crypt
+1 Torpor Orb
 1 Ipnu Rivulet
 1 Bottled Cloister
 1 Tolaria West
@@ -122,19 +136,5 @@
 4 Ensnaring Bridge
 4 Tolaria West
 5 Island
-6 Island
 7 Island
-1 Field of Ruin
-1 Prismatic Vista
-1 Heliod, Sun-Crowned
-1 Walking Ballista
-1 Mazemind Tome
-1 Mirran Spy
-2 Prismatic Vista
-2 Glimmervoid
-2 Mazemind Tome
-2 Walking Ballista
-3 Prismatic Vista
-3 Glimmervoid
-4 Prismatic Vista
-4 Glimmervoid
+6 Island
