@@ -1,36 +1,29 @@
 3 Snow-Covered Island
-2 Dead of Winter
-1 Jace, the Mind Sculptor
 1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
-1 Bayou
-1 Green Sun's Zenith
-1 Dryad Arbor
-2 Green Sun's Zenith
-3 Polluted Delta
-3 Green Sun's Zenith
-4 Green Sun's Zenith
-1 Wasteland
 1 Snow-Covered Mountain
 1 Lightning Bolt
 2 Lightning Bolt
 2 Volcanic Island
-4 Uro, Titan of Nature's Wrath
+1 Wasteland
+1 Jace, the Mind Sculptor
+2 Dead of Winter
 2 Wasteland
 3 Wasteland
 4 Wasteland
+3 Polluted Delta
+4 Uro, Titan of Nature's Wrath
+1 Bayou
+1 Green Sun's Zenith
+1 Dryad Arbor
+2 Green Sun's Zenith
+3 Green Sun's Zenith
+4 Green Sun's Zenith
 4 Abrupt Decay
-1 Verdant Catacombs
-2 Leovold, Emissary of Trest
 4 Prismatic Vista
-1 Scavenging Ooze
-2 Flooded Strand
-1 Noble Hierarch
-1 Preordain
-1 Plague Engineer
-2 Plague Engineer
 2 Tropical Island
+1 Preordain
 1 Stifle
 1 Dreadhorde Arcanist
 1 Daze
@@ -38,20 +31,26 @@
 2 Dreadhorde Arcanist
 2 Daze
 3 Stifle
-3 Force of Negation
-2 Verdant Catacombs
-3 Verdant Catacombs
-3 Snow-Covered Forest
+1 Scavenging Ooze
+3 Dreadhorde Arcanist
+3 Lightning Bolt
+4 Lightning Bolt
+2 Flooded Strand
+1 Plague Engineer
+2 Plague Engineer
+1 Verdant Catacombs
+2 Leovold, Emissary of Trest
 1 Assassin's Trophy
+1 Noble Hierarch
 4 Scalding Tarn
 1 Veil of Summer
+2 Veil of Summer
 1 Red Elemental Blast
 1 Pyroblast
 1 Painter's Servant
 1 Grindstone
-2 Veil of Summer
-2 Red Elemental Blast
 2 Pyroblast
+2 Red Elemental Blast
 2 Painter's Servant
 2 Grindstone
 3 Pyroblast
@@ -59,21 +58,23 @@
 3 Grindstone
 3 Painter's Servant
 4 Painter's Servant
-2 Preordain
-3 Dreadhorde Arcanist
-3 Lightning Bolt
-4 Lightning Bolt
+1 Narset, Parter of Veils
+1 Spell Pierce
 1 Ramunap Excavator
 1 Bojuka Bog
+3 Force of Negation
 4 Oko, Thief of Crowns
 1 Savannah
 1 Knight of the Reliquary
+2 Preordain
+2 Verdant Catacombs
+3 Verdant Catacombs
+3 Snow-Covered Forest
 2 Assassin's Trophy
 1 Gilded Goose
 1 Wooded Foothills
+2 Narset, Parter of Veils
 1 Hullbreacher
-1 Narset, Parter of Veils
-1 Spell Pierce
 4 Force of Negation
 1 Thoughtseize
 4 Polluted Delta
@@ -82,7 +83,6 @@
 3 Sylvan Library
 1 Cling to Dust
 1 Shark Typhoon
-2 Narset, Parter of Veils
 4 Stifle
 1 Steam Vents
 2 Hullbreacher
@@ -90,9 +90,10 @@
 1 Questing Beast
 2 Noble Hierarch
 3 Noble Hierarch
-4 Verdant Catacombs
+4 Snow-Covered Island
 2 Snow-Covered Swamp
-1 Tireless Tracker
+4 Verdant Catacombs
+1 Teferi, Time Raveler
 2 Jace, the Mind Sculptor
 1 Windswept Heath
 1 Birds of Paradise
@@ -104,7 +105,6 @@
 1 Back to Basics
 2 Back to Basics
 3 Dead of Winter
-4 Snow-Covered Island
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Utopia Sprawl
@@ -114,12 +114,12 @@
 1 Grove of the Burnwillows
 1 Punishing Fire
 2 Dack Fayden
-2 Punishing Fire
 2 Grove of the Burnwillows
+2 Punishing Fire
 2 Knight of the Reliquary
-3 Punishing Fire
-3 Grove of the Burnwillows
 3 Dack Fayden
+3 Grove of the Burnwillows
+3 Punishing Fire
 3 Flooded Strand
 3 Knight of the Reliquary
 4 Knight of the Reliquary
@@ -127,7 +127,6 @@
 1 Monastery Mentor
 1 Snapcaster Mage
 1 Felidar Retreat
-1 Eternal Witness
 1 Hooting Mandrills
 2 Opposition Agent
 1 Fatal Push
@@ -136,11 +135,30 @@
 2 Gurmag Angler
 1 Chain Lightning
 2 Chain Lightning
-1 Teferi, Time Raveler
 3 Assassin's Trophy
-3 Preordain
-4 Preordain
+1 Intuition
+1 Show and Tell
+1 Griselbrand
+1 Cunning Wish
+1 Omniscience
+1 Emrakul, the Aeons Torn
+1 Flusterstorm
+1 City of Traitors
+2 Teferi, Time Raveler
+2 Emrakul, the Aeons Torn
+2 Show and Tell
+2 Cunning Wish
+2 Omniscience
+2 City of Traitors
+3 Omniscience
+3 Cunning Wish
+3 Show and Tell
+3 Veil of Summer
+4 Show and Tell
+4 Omniscience
+5 Snow-Covered Island
 1 Village Rites
+1 Tireless Tracker
 1 Phyrexian Tower
 1 Liliana, the Last Hope
 1 Titania, Protector of Argoth

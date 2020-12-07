@@ -12,9 +12,9 @@
 1 Island
 1 Tundra
 1 Teferi, Time Raveler
+1 Flooded Strand
 1 Monastery Mentor
 1 Karakas
-1 Flooded Strand
 1 Plains
 1 Swords to Plowshares
 2 Flooded Strand
@@ -40,8 +40,8 @@
 1 Ancient Tomb
 1 Dark Ritual
 1 Karn, the Great Creator
-2 Eliminate
 2 Swamp
+2 Eliminate
 2 Karn, the Great Creator
 2 Dark Ritual
 3 Swamp
@@ -97,14 +97,14 @@
 4 Flooded Strand
 4 Swords to Plowshares
 1 Scrubland
-1 Sea Gate Stormcaller
 1 Unearth
 1 Marsh Flats
 1 Cabal Therapy
 1 Cling to Dust
+1 Sea Gate Stormcaller
 2 Tundra
-2 Sea Gate Stormcaller
 2 Cling to Dust
+2 Sea Gate Stormcaller
 2 Marsh Flats
 2 Unearth
 2 Cabal Therapy
@@ -150,6 +150,7 @@
 3 Chrome Mox
 4 Trinisphere
 4 Eliminate
+4 Swamp
 4 City of Traitors
 4 Leyline of the Void
 4 Chalice of the Void
@@ -158,7 +159,6 @@
 4 Curse of Misfortunes
 4 Ancient Tomb
 4 Chrome Mox
-4 Swamp
 4 Karn, the Great Creator
 5 Swamp
 6 Swamp

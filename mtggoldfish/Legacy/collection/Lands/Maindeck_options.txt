@@ -35,6 +35,7 @@
 1 Scute Swarm
 1 Underground Sea
 1 Brainstorm
+1 Scavenging Ooze
 1 Island
 1 Cling to Dust
 1 Leovold, Emissary of Trest
@@ -43,7 +44,6 @@
 1 Green Sun's Zenith
 1 Raven's Crime
 1 Polluted Delta
-1 Scavenging Ooze
 2 Brainstorm
 2 Green Sun's Zenith
 3 Brainstorm
@@ -51,8 +51,8 @@
 4 Brainstorm
 1 Riftstone Portal
 1 Drown in the Loch
-1 Dryad of the Ilysian Grove
 1 Valakut, the Molten Pinnacle
+1 Dryad of the Ilysian Grove
 1 Intuition
 1 Manabond
 1 Spreading Algae
@@ -81,8 +81,8 @@
 1 Dark Confidant
 1 Nissa of Shadowed Boughs
 1 Badlands
-2 Dark Confidant
 2 Brushfire Elemental
+2 Dark Confidant
 2 Nissa of Shadowed Boughs
 2 Ramunap Excavator
 3 Lightning Bolt

@@ -3,12 +3,12 @@
 4 Magmatic Channeler
 1 Blood Moon
 2 Blood Moon
-2 Cling to Dust
 3 Blood Moon
+2 Cling to Dust
+1 Bloodchief's Thirst
 4 Dark Confidant
 4 Thoughtseize
 4 Fatal Push
-1 Bloodchief's Thirst
 1 Sunbaked Canyon
 2 Sunbaked Canyon
 3 Sunbaked Canyon
@@ -16,21 +16,19 @@
 2 Scourge of the Skyclaves
 3 Scourge of the Skyclaves
 2 Bloodchief's Thirst
-2 Dreadbore
 1 Kolaghan's Command
-1 Snow-Covered Mountain
 1 Snow-Covered Swamp
+1 Snow-Covered Mountain
 4 Blood Crypt
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-4 Swamp
-1 Lavaclaw Reaches
-2 Snow-Covered Swamp
 3 Prismatic Vista
+2 Dreadbore
+2 Snow-Covered Swamp
+1 Lavaclaw Reaches
+4 Swamp
 3 Bonecrusher Giant
 1 Castle Embereth
-1 Polluted Delta
-2 Polluted Delta
 2 Kolaghan's Command
 1 Savai Triome
 1 Godless Shrine
@@ -38,24 +36,22 @@
 1 Sacred Foundry
 2 Lingering Souls
 2 Snow-Covered Mountain
-1 Verdant Catacombs
+1 Polluted Delta
+2 Polluted Delta
 1 Smiting Helix
 1 Silent Clearing
-1 Stoneforge Mystic
 1 Batterskull
+1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
 1 Graven Cairns
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
-5 Swamp
 1 Agadeem's Awakening
+1 Verdant Catacombs
 1 Ransack the Lab
 1 Collective Brutality
-1 Pillage
-1 Magus of the Moon
-2 Magus of the Moon
 1 Embercleave
 1 Terminate
 1 Concealed Courtyard
@@ -64,7 +60,11 @@
 1 Kaya's Guile
 3 Lingering Souls
 1 Plains
+1 Pillage
+1 Magus of the Moon
+2 Magus of the Moon
 3 Polluted Delta
+5 Swamp
 1 Field of Ruin
 1 Rakdos Signet
 1 Angrath's Rampage
@@ -87,10 +87,10 @@
 1 Bedevil
 1 Death Cloud
 1 Rakdos Keyrune
-2 Field of Ruin
 2 Death Cloud
 2 Lavaclaw Reaches
 2 Graven Cairns
+2 Field of Ruin
 2 Rakdos Signet
 3 Field of Ruin
 3 Castle Locthwain
@@ -113,25 +113,10 @@
 3 Pillage
 3 Magus of the Moon
 4 Magus of the Moon
-1 Chandra, Heart of Fire
 1 Ensnaring Bridge
-2 Chandra, Heart of Fire
+1 Chandra, Heart of Fire
 2 Ensnaring Bridge
+2 Chandra, Heart of Fire
 3 Talisman of Indulgence
 4 Chandra, Torch of Defiance
 4 Talisman of Indulgence
-1 Nihil Spellbomb
-1 Mishra's Bauble
-1 Lurrus of the Dream-Den
-1 Seal of Fire
-2 Verdant Catacombs
-2 Nihil Spellbomb
-2 Seal of Fire
-2 Lurrus of the Dream-Den
-2 Mishra's Bauble
-3 Lurrus of the Dream-Den
-3 Mishra's Bauble
-3 Verdant Catacombs
-4 Lurrus of the Dream-Den
-4 Mishra's Bauble
-4 Verdant Catacombs

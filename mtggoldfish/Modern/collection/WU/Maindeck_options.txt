@@ -3,9 +3,9 @@
 4 Thalia, Guardian of Thraben
 4 Aether Vial
 5 Plains
-1 Teferi, Time Raveler
 3 Flickerwisp
 4 Flickerwisp
+1 Teferi, Time Raveler
 1 Confounding Conundrum
 2 Confounding Conundrum
 3 Confounding Conundrum
@@ -34,37 +34,39 @@
 3 Opt
 1 Archmage's Charm
 2 Mystic Sanctuary
-1 Teferi, Hero of Dominaria
 4 Opt
+1 Teferi, Hero of Dominaria
 2 Archmage's Charm
-3 Force of Negation
 1 Snapcaster Mage
 2 Snapcaster Mage
+3 Force of Negation
+1 Lurrus of the Dream-Den
 1 Supreme Verdict
 1 Polluted Delta
 1 Spell Snare
 2 Island
 3 Island
-1 Mana Leak
+3 Snapcaster Mage
+1 Celestial Colonnade
 4 Island
 5 Island
-3 Snapcaster Mage
-2 Supreme Verdict
+1 Mana Leak
 2 Teferi, Hero of Dominaria
-1 Lurrus of the Dream-Den
-1 Prairie Stream
-1 Celestial Colonnade
-2 Polluted Delta
-1 Misty Rainforest
-3 Cryptic Command
-6 Island
+2 Supreme Verdict
 2 Celestial Colonnade
-2 Misty Rainforest
 1 Shark Typhoon
 2 Shark Typhoon
-3 Archmage's Charm
-3 Mystic Sanctuary
+1 Prairie Stream
 1 Logic Knot
+1 Misty Rainforest
+2 Misty Rainforest
+2 Polluted Delta
+3 Cryptic Command
+1 Watcher for Tomorrow
+2 Watcher for Tomorrow
+3 Watcher for Tomorrow
+6 Island
+3 Archmage's Charm
 1 Scalding Tarn
 1 Snow-Covered Plains
 1 Snow-Covered Island
@@ -72,19 +74,14 @@
 3 Snow-Covered Island
 4 Snow-Covered Island
 5 Snow-Covered Island
-1 Watcher for Tomorrow
-2 Watcher for Tomorrow
-3 Watcher for Tomorrow
-2 Mana Leak
+3 Mystic Sanctuary
 1 Terminus
-1 Glacial Fortress
 1 Archon of Emeria
 2 Archon of Emeria
 1 Horizon Canopy
 2 Lurrus of the Dream-Den
 1 Cavern of Souls
 2 Cavern of Souls
-4 Force of Negation
 1 Sea Gate Restoration
 1 Frantic Inventory
 1 Deprive
@@ -94,42 +91,42 @@
 3 Frantic Inventory
 3 Terminus
 4 Frantic Inventory
+4 Force of Negation
 4 Mystic Sanctuary
 4 Terminus
-3 Polluted Delta
 1 Delay
 2 Delay
 3 Delay
 4 Delay
 3 Supreme Verdict
-2 Spell Snare
+1 Glacial Fortress
 3 Jace, the Mind Sculptor
-1 Remand
-2 Remand
+2 Mana Leak
 1 Deputy of Detention
 2 Deputy of Detention
 2 Horizon Canopy
 1 Charming Prince
 2 Charming Prince
 4 Watcher for Tomorrow
-2 Glacial Fortress
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
+3 Polluted Delta
+1 Remand
+2 Remand
 4 Snapcaster Mage
 1 Aether Gust
 2 Aether Gust
-1 Oust
-1 Castle Ardenvale
+2 Glacial Fortress
+2 Spell Snare
 3 Shark Typhoon
 6 Snow-Covered Island
 1 Sword of Feast and Famine
 4 Polluted Delta
-3 Mana Leak
-3 Misty Rainforest
 1 Silundi Vision
 1 Raugrin Triome
 1 Shadow of Doubt
+1 Castle Ardenvale
+1 Narset, Parter of Veils
 1 Timely Reinforcements
+2 Narset, Parter of Veils
 2 Logic Knot
 1 Fatal Push
 1 Kaya's Guile
@@ -139,19 +136,14 @@
 2 Fatal Push
 2 Kaya's Guile
 3 Kaya's Guile
-1 Castle Vantress
-1 Search for Azcanta
-1 Elspeth Conquers Death
-1 Geier Reach Sanitarium
-1 Emeria's Call
-1 Wall of Omens
-2 Wall of Omens
-3 Wall of Omens
 3 Selfless Savior
-1 Condemn
-2 Condemn
 1 Peek
 2 Peek
+1 Condemn
+2 Condemn
+3 Misty Rainforest
+1 Oust
+3 Mana Leak
 1 Marsh Flats
 1 Inquisition of Kozilek
 1 Swamp
@@ -171,11 +163,6 @@
 2 Dovin's Veto
 2 Vendilion Clique
 3 Celestial Colonnade
-1 Drowned Catacomb
-2 Drowned Catacomb
-3 Glacial Fortress
-3 Drowned Catacomb
-4 Archmage's Charm
 1 Spreading Seas
 2 Spreading Seas
 3 Spreading Seas
@@ -183,12 +170,8 @@
 4 Shark Typhoon
 4 Spreading Seas
 7 Snow-Covered Island
-1 Elspeth, Sun's Nemesis
-1 Mystic Gate
-1 Karn, the Great Creator
-2 Oust
-2 Karn, the Great Creator
-3 Narset, Parter of Veils
-3 Spell Snare
-4 Narset, Parter of Veils
-7 Island
+1 Drowned Catacomb
+2 Drowned Catacomb
+3 Glacial Fortress
+4 Archmage's Charm
+3 Drowned Catacomb

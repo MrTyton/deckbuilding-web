@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Unsubstantiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414374)    |                    1|[Valakut Exploration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491820)   |
-|                    1|[Stern Dismissal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476319)   |                    1|[Glimpse of Freedom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476301)    |
+|                    1|[Stern Dismissal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476319)   |                    1|[Valakut Exploration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491820)   |
+|                    1|[Unsubstantiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414374)    |                    1|[Glimpse of Freedom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476301)    |
 |                    1|[Magmatic Channeler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491789)|                    1|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
 |                    1|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)     |                    1|[Shredded Sails](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479656)        |
 |                    2|[Unsubstantiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414374)    |                    1|[Roiling Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491797)        |

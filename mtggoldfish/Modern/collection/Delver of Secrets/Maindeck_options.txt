@@ -7,11 +7,11 @@
 2 Sleight of Hand
 3 Sleight of Hand
 1 Hallowed Fountain
-1 Lightning Helix
 1 Sacred Foundry
 1 Path to Exile
-2 Lightning Helix
+1 Lightning Helix
 2 Path to Exile
+2 Lightning Helix
 3 Lightning Helix
 1 Thoughtseize
 1 Thieves' Guild Enforcer
@@ -19,18 +19,18 @@
 2 Thieves' Guild Enforcer
 3 Drown in the Loch
 3 Watery Grave
-3 Inquisition of Kozilek
 3 Thieves' Guild Enforcer
+3 Inquisition of Kozilek
 4 Drown in the Loch
 4 Thieves' Guild Enforcer
 1 Seachrome Coast
 2 Seachrome Coast
 3 Remand
 3 Path to Exile
-1 Batterskull
 1 Stoneforge Mystic
-1 Plains
+1 Batterskull
 1 Sword of Fire and Ice
+1 Plains
 1 Mantis Rider
 2 Stoneforge Mystic
 2 Mantis Rider
@@ -54,13 +54,13 @@
 1 Breeding Pool
 1 Stubborn Denial
 1 Tarmogoyf
-2 Stubborn Denial
 2 Tarmogoyf
+2 Stubborn Denial
 3 Misty Rainforest
 3 Stubborn Denial
 3 Tarmogoyf
-4 Misty Rainforest
 4 Stubborn Denial
+4 Misty Rainforest
 1 Disrupting Shoal
 2 Disrupting Shoal
 3 Disrupting Shoal
@@ -80,9 +80,9 @@
 3 Island
 1 Hexdrinker
 1 Wooded Foothills
-2 Hexdrinker
-2 Breeding Pool
 2 Wooded Foothills
+2 Breeding Pool
+2 Hexdrinker
 3 Hexdrinker
 4 Hexdrinker
 1 Bloodstained Mire
@@ -98,24 +98,24 @@
 3 Uro, Titan of Nature's Wrath
 1 Fiery Islet
 1 Lava Dart
+1 Monastery Swiftspear
 1 Assault Strobe
 1 Lava Spike
-1 Monastery Swiftspear
 1 Light Up the Stage
 2 Fiery Islet
+2 Monastery Swiftspear
 2 Lava Dart
 2 Lava Spike
-2 Monastery Swiftspear
 2 Mountain
 2 Light Up the Stage
-3 Lava Spike
 3 Monastery Swiftspear
+3 Lava Spike
 3 Light Up the Stage
 3 Fiery Islet
 3 Mountain
 3 Lava Dart
-4 Fiery Islet
 4 Monastery Swiftspear
+4 Fiery Islet
 4 Lava Spike
 4 Mountain
 4 Lava Dart
@@ -135,8 +135,8 @@
 2 Rift Bolt
 3 Rift Bolt
 4 Rift Bolt
-1 Vantress Gargoyle
 1 Into the Story
+1 Vantress Gargoyle
 2 Vantress Gargoyle
 3 Vantress Gargoyle
 1 Darkslick Shores
@@ -184,11 +184,11 @@
 2 Blossoming Defense
 2 Tarfire
 3 Tarfire
+4 Archmage's Charm
 1 Visions of Beyond
 2 Visions of Beyond
 3 Visions of Beyond
 4 Visions of Beyond
-4 Archmage's Charm
 1 Creeping Tar Pit
 1 Soaring Thought-Thief
 2 Spell Pierce
@@ -208,21 +208,21 @@
 4 Dreadhorde Arcanist
 1 Cryptic Command
 1 Mutavault
-1 Castle Vantress
-1 Oboro, Palace in the Clouds
 1 Silundi Vision
-1 Deliberate
+1 Oboro, Palace in the Clouds
+1 Castle Vantress
 1 Psionic Blast
+1 Deliberate
 1 Spellstutter Sprite
 2 Cryptic Command
 2 Mutavault
 2 Spell Snare
 2 Vendilion Clique
+2 Deliberate
 2 Spellstutter Sprite
 2 Psionic Blast
-2 Deliberate
-3 Cryptic Command
 3 Spellstutter Sprite
+3 Cryptic Command
 3 Deliberate
 4 Cryptic Command
 6 Island

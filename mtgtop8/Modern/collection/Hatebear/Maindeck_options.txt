@@ -1,6 +1,6 @@
 3 Spell Queller
-4 Hallowed Fountain
 4 Seachrome Coast
+4 Hallowed Fountain
 1 Glasspool Mimic
 1 Adarkar Wastes
 2 Glasspool Mimic
@@ -18,22 +18,21 @@
 9 Plains
 1 Archon of Emeria
 2 Archon of Emeria
-1 Horizon Canopy
 1 Selfless Savior
 1 Confounding Conundrum
 2 Selfless Savior
 2 Confounding Conundrum
 3 Confounding Conundrum
 4 Confounding Conundrum
-10 Plains
-2 Horizon Canopy
-1 Eiganjo Castle
-1 Shefet Dunes
 3 Silent Clearing
-2 Charming Prince
-1 Sunbaked Canyon
-1 Lurrus of the Dream-Den
+10 Plains
+1 Eiganjo Castle
+1 Horizon Canopy
+2 Horizon Canopy
 4 Silent Clearing
+2 Charming Prince
+1 Lurrus of the Dream-Den
+1 Shefet Dunes
 2 Shefet Dunes
 1 Eldrazi Temple
 1 Thought-Knot Seer
@@ -47,6 +46,7 @@
 4 Thought-Knot Seer
 4 Eldrazi Displacer
 4 Eldrazi Temple
+1 Sunbaked Canyon
 1 Cavern of Souls
 2 Cavern of Souls
 1 Sword of Feast and Famine
@@ -112,27 +112,27 @@
 1 Embercleave
 1 Pia and Kiran Nalaar
 1 Needleverge Pathway
-1 Seasoned Pyromancer
 1 Winota, Joiner of Forces
 1 Mountain
 1 Angrath's Marauders
 1 Smuggler's Copter
-2 Inspiring Vantage
+1 Seasoned Pyromancer
 2 Needleverge Pathway
+2 Inspiring Vantage
 2 Pia and Kiran Nalaar
 2 Sacred Foundry
 2 Winota, Joiner of Forces
 2 Seasoned Pyromancer
 2 Angrath's Marauders
+3 Needleverge Pathway
 3 Inspiring Vantage
 3 Sacred Foundry
-3 Needleverge Pathway
 3 Angrath's Marauders
 3 Seasoned Pyromancer
 3 Winota, Joiner of Forces
+4 Needleverge Pathway
 4 Inspiring Vantage
 4 Sacred Foundry
-4 Needleverge Pathway
 4 Seasoned Pyromancer
 4 Winota, Joiner of Forces
 4 Angrath's Marauders
@@ -163,19 +163,19 @@
 3 Unsettled Mariner
 3 Island
 1 Bonecrusher Giant
-1 Simian Spirit Guide
 1 Gemstone Caverns
 1 Containment Priest
+1 Simian Spirit Guide
 1 Chalice of the Void
 2 Bonecrusher Giant
-2 Simian Spirit Guide
 2 Containment Priest
 2 Gemstone Caverns
 2 Chalice of the Void
+2 Simian Spirit Guide
 3 Containment Priest
-3 Simian Spirit Guide
 3 Chalice of the Void
 3 Gemstone Caverns
+3 Simian Spirit Guide
 4 Containment Priest
 4 Chalice of the Void
 4 Simian Spirit Guide
