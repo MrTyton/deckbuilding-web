@@ -7,18 +7,18 @@
 1 Steam Vents
 1 Ashiok, Nightmare Muse
 1 Watery Grave
-1 Swamp
-1 Fatal Push
 1 Thoughtseize
+1 Swamp
 1 Drowned Catacomb
-2 Swamp
+1 Fatal Push
 2 Watery Grave
+2 Drowned Catacomb
 2 Fatal Push
 2 Thoughtseize
-2 Drowned Catacomb
-3 Thoughtseize
+2 Swamp
 3 Fatal Push
 3 Drowned Catacomb
+3 Thoughtseize
 3 Watery Grave
 4 Drowned Catacomb
 4 Thoughtseize
@@ -29,9 +29,9 @@
 4 Narset, Parter of Veils
 1 Fetid Pools
 1 Geier Reach Sanitarium
-1 Kalitas, Traitor of Ghet
 1 Heartless Act
 1 Day's Undoing
+1 Kalitas, Traitor of Ghet
 1 Opt
 1 Dig Through Time
 2 Fetid Pools
@@ -143,14 +143,14 @@
 2 Magma Jet
 3 Magma Jet
 1 Terror of the Peaks
-1 Inspired Ultimatum
-1 Temple of Mystery
 1 Dryad of the Ilysian Grove
 1 Cragcrown Pathway
+1 Inspired Ultimatum
+1 Temple of Mystery
 1 Prophet of Kruphix
+2 Dryad of the Ilysian Grove
 2 Prophet of Kruphix
 2 Terror of the Peaks
-2 Dryad of the Ilysian Grove
 3 Dryad of the Ilysian Grove
 4 Dryad of the Ilysian Grove
 1 Blast Zone
@@ -160,14 +160,14 @@
 1 Irencrag Feat
 1 Vessel of Volatility
 1 Mazemind Tome
+1 Cascading Cataracts
+1 Scavenger Grounds
 1 Chandra, Awakened Inferno
 1 Chandra, Torch of Defiance
 1 Golos, Tireless Pilgrim
 1 Cleansing Wildfire
 1 Darksteel Citadel
 1 Thought-Knot Seer
-1 Scavenger Grounds
-1 Cascading Cataracts
 1 Battlefield Forge
 2 Valakut Awakening
 2 Ramunap Ruins
@@ -216,17 +216,17 @@
 4 Oath of Nissa
 1 Kolaghan's Command
 1 Collective Brutality
-1 Blood Crypt
 1 Dragonskull Summit
 1 Davriel, Rogue Shadowmage
+1 Blood Crypt
 1 Liliana, Waker of the Dead
 1 Thought Erasure
 1 Nicol Bolas, the Ravager
 1 Kroxa, Titan of Death's Hunger
 2 Collective Brutality
+2 Blood Crypt
 2 Liliana, Waker of the Dead
 2 Kolaghan's Command
-2 Blood Crypt
 2 Thought Erasure
 2 Nicol Bolas, the Ravager
 2 Kroxa, Titan of Death's Hunger
@@ -238,10 +238,10 @@
 3 Nicol Bolas, the Ravager
 3 Thought Erasure
 4 Thought Erasure
-4 Fatal Push
-4 Liliana, Waker of the Dead
 4 Kroxa, Titan of Death's Hunger
+4 Fatal Push
 4 Nicol Bolas, the Ravager
+4 Liliana, Waker of the Dead
 4 Davriel, Rogue Shadowmage
 1 Castle Garenbrig
 1 Yavimaya Coast
@@ -267,17 +267,17 @@
 2 Elvish Rejuvenator
 2 Shrine of the Forsaken Gods
 3 Yavimaya Coast
-3 Cavalier of Thorns
 3 Elvish Rejuvenator
 3 Shrine of the Forsaken Gods
+3 Cavalier of Thorns
 3 Voracious Hydra
 3 Botanical Sanctum
 3 Arboreal Grazer
 3 Castle Garenbrig
 4 Yavimaya Coast
 4 Cavalier of Thorns
-4 Elvish Rejuvenator
 4 Voracious Hydra
+4 Elvish Rejuvenator
 4 Botanical Sanctum
 4 Shrine of the Forsaken Gods
 1 Baffling End

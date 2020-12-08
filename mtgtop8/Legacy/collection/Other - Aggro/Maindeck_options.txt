@@ -50,11 +50,11 @@
 1 Valakut, the Molten Pinnacle
 1 Flagstones of Trokair
 1 Primeval Titan
-1 Yasharn, Implacable Earth
 1 Vesuva
 1 Temple Garden
-1 Dryad of the Ilysian Grove
 1 Scute Swarm
+1 Dryad of the Ilysian Grove
+1 Yasharn, Implacable Earth
 1 Sevinne's Reclamation
 1 Elvish Reclaimer
 1 Bojuka Bog
@@ -65,9 +65,9 @@
 1 Blast Zone
 1 Gaddock Teeg
 1 Path to Exile
-2 Dryad of the Ilysian Grove
 2 Field of the Dead
 2 Flagstones of Trokair
+2 Dryad of the Ilysian Grove
 2 Elvish Reclaimer
 2 Path to Exile
 2 Crop Rotation
@@ -166,8 +166,8 @@
 2 Grove of the Burnwillows
 2 Mountain
 1 Oko, Thief of Crowns
-1 Uro, Titan of Nature's Wrath
 1 Gilded Goose
+1 Uro, Titan of Nature's Wrath
 1 Gaea's Cradle
 2 Oko, Thief of Crowns
 2 Verdant Catacombs
@@ -232,7 +232,6 @@
 4 Pillage
 3 Forest
 4 Forest
-1 Llanowar Visionary
 1 Natural Order
 1 Garruk, Unleashed
 1 Tarmogoyf
@@ -241,6 +240,7 @@
 1 Garruk Relentless
 1 Shifting Ceratops
 1 Archon of Valor's Reach
+1 Llanowar Visionary
 1 Allosaurus Shepherd
 1 Deathgorge Scavenger
 1 Thragtusk
@@ -376,8 +376,8 @@
 4 Skarrgan Pit-Skulk
 4 Silhana Ledgewalker
 5 Forest
-6 Forest
 7 Forest
 8 Forest
 9 Forest
 10 Forest
+6 Forest

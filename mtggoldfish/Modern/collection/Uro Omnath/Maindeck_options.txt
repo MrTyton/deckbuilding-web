@@ -32,11 +32,11 @@
 2 Windswept Heath
 3 Ephemerate
 1 Aether Vial
-1 Venser, Shaper Savant
-1 Meddling Mage
 1 Deputy of Detention
+1 Meddling Mage
 1 Thassa, Deep-Dwelling
 1 Watcher for Tomorrow
+1 Venser, Shaper Savant
 1 Stonehorn Dignitary
 1 Soulherder
 2 Aether Vial
@@ -45,8 +45,8 @@
 2 Watcher for Tomorrow
 2 Ketria Triome
 3 Eladamri's Call
-3 Aether Vial
 3 Eternal Witness
+3 Aether Vial
 3 Watcher for Tomorrow
 4 Time Warp
 4 Aether Vial
@@ -63,12 +63,12 @@
 1 Wall of Blossoms
 1 Coiling Oracle
 2 Noble Hierarch
-2 Snow-Covered Island
 2 Saheeli Rai
 2 Felidar Guardian
 2 Skyclave Apparition
 2 Birds of Paradise
 2 Wall of Blossoms
+2 Snow-Covered Island
 2 Coiling Oracle
 2 Oath of Nissa
 2 Snow-Covered Forest
@@ -90,11 +90,11 @@
 1 Wooded Foothills
 1 Spell Snare
 1 Sea Gate Restoration
-1 Farseek
-2 Breeding Pool
-2 Farseek
 1 Blast Zone
 2 Steam Vents
 2 Remand
-4 Cryptic Command
 2 Island
+4 Cryptic Command
+1 Farseek
+2 Farseek
+2 Breeding Pool

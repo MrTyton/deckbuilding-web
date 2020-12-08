@@ -53,39 +53,39 @@
 1 Sacred Foundry
 1 Flagstones of Trokair
 1 Elvish Reclaimer
-1 Sejiri Shelter
 1 Sejiri Steppe
 1 Akoum Hellhound
 1 Atarka's Command
 1 Brushfire Elemental
+1 Sejiri Shelter
 1 Sunbaked Canyon
 1 Soaring Seacliff
 1 Mishra's Bauble
 1 Steppe Lynx
 2 Arid Mesa
 2 Flagstones of Trokair
-2 Sacred Foundry
 2 Elvish Reclaimer
 2 Akoum Hellhound
 2 Brushfire Elemental
 2 Mishra's Bauble
+2 Sacred Foundry
 2 Windswept Heath
 2 Atarka's Command
 2 Steppe Lynx
 3 Flagstones of Trokair
-3 Sacred Foundry
 3 Akoum Hellhound
 3 Brushfire Elemental
 3 Elvish Reclaimer
 3 Atarka's Command
+3 Sacred Foundry
 3 Mishra's Bauble
 3 Steppe Lynx
 3 Windswept Heath
 4 Flagstones of Trokair
 4 Brushfire Elemental
 4 Wooded Foothills
-4 Elvish Reclaimer
 4 Akoum Hellhound
+4 Elvish Reclaimer
 4 Mishra's Bauble
 4 Windswept Heath
 4 Atarka's Command
@@ -147,8 +147,8 @@
 3 Snow-Covered Forest
 1 Ice-Fang Coatl
 1 Abundant Growth
-1 Arboreal Grazer
 1 Search for Azcanta
+1 Arboreal Grazer
 2 Ice-Fang Coatl
 2 Abundant Growth
 2 Arboreal Grazer
@@ -177,8 +177,8 @@
 1 Courser of Kruphix
 1 Terminate
 1 Obstinate Baloth
-1 Platinum Emperion
 1 Madcap Experiment
+1 Platinum Emperion
 1 Thoughtseize
 2 Snow-Covered Mountain
 2 Obstinate Baloth
@@ -186,12 +186,20 @@
 2 Mountain
 1 Raugrin Triome
 2 Raugrin Triome
-3 Raugrin Triome
 3 Teferi, Time Raveler
+3 Raugrin Triome
 1 Shelldock Isle
 1 Surgical Extraction
 2 Surgical Extraction
 3 Surgical Extraction
+1 Explore
+1 Jwari Disruption
+1 Peer Through Depths
+2 Explore
+2 Jwari Disruption
+2 Peer Through Depths
+3 Jwari Disruption
+4 Jwari Disruption
 1 Verdant Catacombs
 1 Maddening Cacophony
 2 Verdant Catacombs
@@ -209,11 +217,3 @@
 3 Botanical Sanctum
 4 Botanical Sanctum
 4 Censor
-1 Explore
-1 Jwari Disruption
-1 Peer Through Depths
-2 Explore
-2 Jwari Disruption
-2 Peer Through Depths
-3 Jwari Disruption
-4 Jwari Disruption

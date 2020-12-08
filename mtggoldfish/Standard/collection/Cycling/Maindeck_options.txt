@@ -1,8 +1,7 @@
-1 Ominous Seas
-2 Ominous Seas
-2 Clearwater Pathway
 3 Clearwater Pathway
 4 Clearwater Pathway
+1 Ominous Seas
+2 Ominous Seas
 1 Neutralize
 1 Island
 1 Improbable Alliance
@@ -20,20 +19,21 @@
 1 Sea Gate Restoration
 1 Jwari Disruption
 2 Jwari Disruption
-1 Shredded Sails
-2 Shredded Sails
 3 Shredded Sails
-2 Mountain
+2 Frostveil Ambush
+3 Frostveil Ambush
+1 Mountain
 1 Shatterskull Smashing
 2 Shatterskull Smashing
+3 Neutralize
+2 Mountain
+3 Shatterskull Smashing
 3 Plains
 4 Plains
-3 Neutralize
-3 Mountain
 1 Easy Prey
 3 Raugrin Triome
+3 Mountain
 4 Mountain
-3 Shatterskull Smashing
 5 Plains
 6 Plains
 2 Easy Prey
@@ -59,14 +59,23 @@
 2 Emeria's Call
 1 Branchloft Pathway
 3 Emeria's Call
+1 Temple of Triumph
+1 Temple of Epiphany
+1 Temple of Silence
+2 Temple of Silence
+2 Temple of Triumph
+2 Temple of Epiphany
+3 Temple of Triumph
+3 Temple of Epiphany
+4 Temple of Epiphany
 1 Yidaro, Wandering Monster
 2 Yidaro, Wandering Monster
 3 Yidaro, Wandering Monster
 4 Yidaro, Wandering Monster
 3 Jwari Disruption
 4 Jwari Disruption
-1 Sejiri Shelter
 1 Raking Claws
+1 Sejiri Shelter
 1 Coordinated Charge
 1 Spikefield Hazard
 2 Spikefield Hazard
@@ -78,8 +87,8 @@
 2 Cragcrown Pathway
 2 Jolrael, Mwonvuli Recluse
 2 Branchloft Pathway
-3 Jolrael, Mwonvuli Recluse
 3 Branchloft Pathway
+3 Jolrael, Mwonvuli Recluse
 3 Cragcrown Pathway
 4 Cragcrown Pathway
 4 Branchloft Pathway

@@ -1,62 +1,62 @@
 1 Counterspell
-5 Snow-Covered Island
-2 Prismatic Vista
 1 Snapcaster Mage
 1 Hall of Heliod's Generosity
-1 Silundi Vision
 2 Snapcaster Mage
+5 Snow-Covered Island
+1 Silundi Vision
+2 Prismatic Vista
 2 Silundi Vision
-3 Prismatic Vista
 1 Spell Pierce
 1 Island
+2 Island
+3 Prismatic Vista
+1 Plains
+2 Plains
+1 Wasteland
+2 Counterspell
+2 Supreme Verdict
+3 Island
+2 Wasteland
+1 Stoneforge Mystic
+1 Batterskull
+2 Stoneforge Mystic
+1 Council's Judgment
+4 Island
+4 Prismatic Vista
 1 Cast Out
 1 Replenish
 2 Replenish
 2 Cast Out
 3 Cast Out
-2 Island
+5 Island
 1 Lay Claim
 2 Lay Claim
 3 Lay Claim
 3 Replenish
 4 Lay Claim
-1 Plains
-2 Plains
 4 Cast Out
-4 Prismatic Vista
-1 Stoneforge Mystic
-1 Batterskull
-2 Stoneforge Mystic
-3 Island
-1 Wasteland
-2 Counterspell
-4 Replenish
-3 Teferi, Time Raveler
-2 Supreme Verdict
-1 Polluted Delta
-2 Polluted Delta
-4 Island
-2 Wasteland
-6 Snow-Covered Island
-2 Mystic Sanctuary
-1 Sword of Feast and Famine
-1 Council's Judgment
-5 Island
-1 Vendilion Clique
 1 Crucible of Worlds
 1 Myth Realized
 2 Council's Judgment
 2 Myth Realized
+1 Sword of Feast and Famine
+1 Vendilion Clique
+4 Replenish
+3 Teferi, Time Raveler
+1 Polluted Delta
+2 Polluted Delta
 3 Snapcaster Mage
+6 Snow-Covered Island
 1 Counterbalance
 2 Counterbalance
 1 Mountain
 1 Mishra's Factory
-1 Magmatic Sinkhole
 1 Pyroblast
+1 Magmatic Sinkhole
 2 Mishra's Factory
-2 Magmatic Sinkhole
 2 Pyroblast
+2 Magmatic Sinkhole
+2 Mystic Sanctuary
 3 Wasteland
 1 Brazen Borrower
 3 Force of Negation
@@ -75,8 +75,8 @@
 1 Verdant Catacombs
 1 Oko, Thief of Crowns
 1 Mox Diamond
-2 Mox Diamond
 2 Life from the Loam
+2 Mox Diamond
 2 Oko, Thief of Crowns
 2 Misty Rainforest
 3 Oko, Thief of Crowns
@@ -84,26 +84,25 @@
 3 Life from the Loam
 4 Wasteland
 4 Mox Diamond
-1 Swamp
 1 Daze
-1 Eliminate
 1 Cling to Dust
+1 Eliminate
 1 Changeling Outcast
 1 Yuriko, the Tiger's Shadow
 1 Ingenious Infiltrator
 1 Ornithopter
 1 Retrofitter Foundry
+1 Swamp
 1 Fatal Push
-2 Swamp
 2 Daze
 2 Changeling Outcast
 2 Ornithopter
 2 Yuriko, the Tiger's Shadow
 2 Retrofitter Foundry
+2 Swamp
 2 Fatal Push
 2 Ingenious Infiltrator
 3 Fatal Push
-3 Swamp
 3 Daze
 3 Yuriko, the Tiger's Shadow
 3 Polluted Delta
@@ -111,6 +110,7 @@
 3 Ornithopter
 3 Ingenious Infiltrator
 3 Changeling Outcast
+3 Swamp
 4 Polluted Delta
 4 Changeling Outcast
 4 Ingenious Infiltrator
@@ -124,20 +124,20 @@
 2 Spell Pierce
 3 Tundra
 4 Teferi, Time Raveler
+1 Snow-Covered Swamp
 1 Savannah
-1 Chalice of the Void
 1 Bayou
 1 Uro, Titan of Nature's Wrath
+1 Chalice of the Void
 1 Abrupt Decay
 1 Assassin's Trophy
-1 Snow-Covered Swamp
-2 Chalice of the Void
 2 Abrupt Decay
+2 Chalice of the Void
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
-3 Chalice of the Void
 3 Abrupt Decay
 3 Misty Rainforest
+3 Chalice of the Void
 4 Uro, Titan of Nature's Wrath
 4 Misty Rainforest
 4 Abrupt Decay
@@ -206,11 +206,11 @@
 1 Glasspool Mimic
 1 Sea Gate Restoration
 1 True-Name Nemesis
+1 Cavern of Souls
 1 Hullbreacher
 1 Silvergill Adept
 1 Aether Vial
 1 Master of the Pearl Trident
-1 Cavern of Souls
 1 Chrome Mox
 1 Lord of Atlantis
 1 Mutavault
@@ -218,19 +218,19 @@
 2 Hullbreacher
 2 True-Name Nemesis
 2 Sea Gate Restoration
+2 Cavern of Souls
 2 Chrome Mox
 2 Silvergill Adept
 2 Master of the Pearl Trident
 2 Aether Vial
-2 Cavern of Souls
 2 Lord of Atlantis
 2 Mutavault
 3 Sea Gate Restoration
 3 Glasspool Mimic
 3 Hullbreacher
+3 Cavern of Souls
 3 True-Name Nemesis
 3 Silvergill Adept
-3 Cavern of Souls
 3 Lord of Atlantis
 3 Master of the Pearl Trident
 3 Mutavault

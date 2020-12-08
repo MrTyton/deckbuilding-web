@@ -12,17 +12,17 @@
 1 Bala Ged Recovery
 1 Spikefield Hazard
 1 Valakut Awakening
-1 Pyretic Ritual
 1 Desperate Ritual
+1 Recross the Paths
+1 Pyretic Ritual
 1 Irencrag Feat
 1 Manamorphose
 1 Reforge the Soul
-1 Recross the Paths
 2 Bala Ged Recovery
 2 Irencrag Feat
+2 Recross the Paths
 2 Manamorphose
 2 Valakut Awakening
-2 Recross the Paths
 2 Desperate Ritual
 3 Shatterskull Smashing
 3 Manamorphose
@@ -54,73 +54,29 @@
 4 Pelakka Predation
 1 Sphere of the Suns
 1 Memory's Journey
-1 Karn, the Great Creator
-2 Karn, the Great Creator
-3 Karn, the Great Creator
-1 Island
-1 Wooded Foothills
-1 Aether Hub
-1 Through the Breach
-1 Emrakul, the Aeons Torn
-1 Aetherworks Marvel
-1 Breeding Pool
-1 Steam Vents
-1 Whirler Virtuoso
-1 Uro, Titan of Nature's Wrath
-1 Wrenn and Six
-1 Lightning Bolt
-1 Harnessed Lightning
-1 Stomping Ground
-1 Woodweaver's Puzzleknot
-1 Misty Rainforest
-1 Mountain
-1 Waterlogged Grove
-1 Attune with Aether
-1 Rogue Refiner
-1 Forest
-2 Forest
-2 Wooded Foothills
-2 Aether Hub
-2 Emrakul, the Aeons Torn
-2 Through the Breach
-2 Harnessed Lightning
-2 Rogue Refiner
-2 Uro, Titan of Nature's Wrath
-2 Wrenn and Six
-2 Woodweaver's Puzzleknot
-2 Aetherworks Marvel
-2 Whirler Virtuoso
-2 Attune with Aether
-2 Lightning Bolt
-2 Misty Rainforest
-3 Emrakul, the Aeons Torn
-3 Through the Breach
-3 Wrenn and Six
-3 Lightning Bolt
-3 Harnessed Lightning
-3 Rogue Refiner
-3 Woodweaver's Puzzleknot
-3 Aetherworks Marvel
-3 Forest
-3 Aether Hub
-3 Misty Rainforest
-3 Whirler Virtuoso
-3 Attune with Aether
-3 Wooded Foothills
-4 Through the Breach
-4 Emrakul, the Aeons Torn
-4 Misty Rainforest
-4 Rogue Refiner
-4 Aether Hub
-4 Attune with Aether
-4 Wooded Foothills
-4 Harnessed Lightning
 1 Worldspine Wurm
 1 Talisman of Dominance
 1 Talisman of Curiosity
 2 Talisman of Dominance
 4 Leyline of Sanctity
 4 Blood Moon
+1 Tangled Florahedron
+1 Mass Hysteria
+1 Wild Cantor
+1 Karn, the Great Creator
+1 Noxious Revival
+1 Vizier of Remedies
+1 Devoted Druid
+2 Tangled Florahedron
+2 Wild Cantor
+2 Karn, the Great Creator
+2 Devoted Druid
+3 Tangled Florahedron
+3 Karn, the Great Creator
+3 Devoted Druid
+4 Tangled Florahedron
+4 Devoted Druid
+4 Karn, the Great Creator
 1 Murderous Cut
 1 River of Tears
 1 Inquisition of Kozilek
@@ -130,19 +86,18 @@
 1 Watery Grave
 1 Fatal Push
 1 Cling to Dust
+1 Remand
 1 Snow-Covered Swamp
 1 Jace, Wielder of Mysteries
-1 Cavern of Souls
 1 Darkslick Shores
+1 Cavern of Souls
 1 Relic of Progenitus
 1 Thassa's Oracle
 1 Opt
 1 Inverter of Truth
 1 Snow-Covered Island
-1 Remand
 1 Polluted Delta
 2 River of Tears
-2 Remand
 2 Polluted Delta
 2 Omen of the Sea
 2 Eldrazi Temple
@@ -150,17 +105,18 @@
 2 Inquisition of Kozilek
 2 Fatal Push
 2 Jace, Wielder of Mysteries
+2 Remand
 2 Darkslick Shores
 2 Thassa's Oracle
 2 Watery Grave
 2 Relic of Progenitus
-2 Inverter of Truth
 2 Opt
-3 Remand
+2 Inverter of Truth
 3 Omen of the Sea
 3 Drowned Catacomb
-3 Inquisition of Kozilek
 3 Darkslick Shores
+3 Inquisition of Kozilek
+3 Remand
 3 Fatal Push
 3 Relic of Progenitus
 3 Thassa's Oracle
@@ -170,36 +126,22 @@
 3 River of Tears
 3 Watery Grave
 4 Remand
+4 Darkslick Shores
+4 Fatal Push
 4 Omen of the Sea
 4 Thassa's Oracle
-4 Fatal Push
 4 Opt
-4 Darkslick Shores
-4 Inverter of Truth
 4 Watery Grave
 4 River of Tears
-1 Tangled Florahedron
-1 Mass Hysteria
-1 Wild Cantor
-1 Noxious Revival
-1 Vizier of Remedies
-1 Devoted Druid
-2 Tangled Florahedron
-2 Wild Cantor
-2 Devoted Druid
-3 Tangled Florahedron
-3 Devoted Druid
-4 Tangled Florahedron
-4 Devoted Druid
-4 Karn, the Great Creator
+4 Inverter of Truth
 1 Lotus Field
 1 Peer Through Depths
 1 Shivan Reef
 1 Ideas Unbound
 1 Serum Visions
 1 Twiddle
+1 Island
 1 Dream's Grip
-1 Vizier of Tumbling Sands
 1 Empty the Warrens
 1 Psychic Puppetry
 1 Grapeshot
@@ -208,38 +150,39 @@
 1 Past in Flames
 1 Echoing Truth
 1 Lonely Sandbar
+1 Vizier of Tumbling Sands
 2 Sleight of Hand
 2 Peer Through Depths
 2 Lonely Sandbar
 2 Shivan Reef
 2 Echoing Truth
 2 Ideas Unbound
-2 Island
 2 Grapeshot
 2 Vizier of Tumbling Sands
 2 Dream's Grip
 2 Psychic Puppetry
+2 Island
 2 Reach Through Mists
 2 Lotus Field
 2 Serum Visions
-2 Past in Flames
 2 Twiddle
+2 Past in Flames
+3 Sleight of Hand
 3 Island
 3 Lonely Sandbar
 3 Shivan Reef
-3 Sleight of Hand
 3 Past in Flames
 3 Psychic Puppetry
-3 Dream's Grip
 3 Peer Through Depths
 3 Lotus Field
+3 Dream's Grip
 3 Serum Visions
 3 Ideas Unbound
 3 Reach Through Mists
+4 Sleight of Hand
 4 Serum Visions
 4 Lonely Sandbar
 4 Island
-4 Sleight of Hand
 4 Shivan Reef
 4 Lotus Field
 4 Dream's Grip
