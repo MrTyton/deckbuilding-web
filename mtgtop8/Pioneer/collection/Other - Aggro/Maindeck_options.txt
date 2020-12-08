@@ -1,9 +1,9 @@
-4 Isolate
-4 Elite Guardmage
+4 Glass Casket
 4 Temple of Enlightenment
 4 Charming Prince
 4 Skyclave Apparition
 4 Reflector Mage
+4 Isolate
 5 Plains
 6 Plains
 7 Plains
@@ -66,6 +66,7 @@
 4 Blooming Marsh
 4 Collected Company
 4 Bolas's Citadel
+1 Urborg, Tomb of Yawgmoth
 1 Llanowar Wastes
 1 Stomping Ground
 2 Stomping Ground
@@ -73,8 +74,58 @@
 3 Llanowar Elves
 3 Llanowar Wastes
 4 Llanowar Wastes
-1 Urborg, Tomb of Yawgmoth
 4 Gilded Goose
+2 Agadeem's Awakening
+1 Mana Confluence
+1 Clearwater Pathway
+1 Deathrite Shaman
+1 Drown in the Loch
+1 Into the Story
+1 Merfolk Windrobber
+1 Fatal Push
+1 Watery Grave
+1 Thoughtseize
+1 Mutavault
+1 Breeding Pool
+1 Thieves' Guild Enforcer
+1 Soaring Thought-Thief
+1 Swamp
+1 Chart a Course
+1 Botanical Sanctum
+2 Mana Confluence
+2 Deathrite Shaman
+2 Clearwater Pathway
+2 Watery Grave
+2 Merfolk Windrobber
+2 Into the Story
+2 Fatal Push
+2 Thoughtseize
+2 Botanical Sanctum
+2 Chart a Course
+2 Mutavault
+2 Soaring Thought-Thief
+2 Drown in the Loch
+2 Thieves' Guild Enforcer
+3 Watery Grave
+3 Merfolk Windrobber
+3 Fatal Push
+3 Thoughtseize
+3 Drown in the Loch
+3 Deathrite Shaman
+3 Thieves' Guild Enforcer
+3 Clearwater Pathway
+3 Botanical Sanctum
+3 Mutavault
+3 Into the Story
+3 Soaring Thought-Thief
+4 Watery Grave
+4 Clearwater Pathway
+4 Thoughtseize
+4 Soaring Thought-Thief
+4 Deathrite Shaman
+4 Botanical Sanctum
+4 Drown in the Loch
+4 Thieves' Guild Enforcer
 3 Spell Queller
 4 Spell Queller
 1 Champion of Wits
@@ -87,8 +138,12 @@
 2 Solemn Simulacrum
 2 Omen of the Sea
 2 Spell Pierce
-2 Agadeem's Awakening
 1 Fiend Artisan
+1 Eliminate
+1 Sea Gate Stormcaller
+1 Cling to Dust
+2 Sea Gate Stormcaller
+2 Cling to Dust
 1 Blisterpod
 2 Blisterpod
 1 Legion's Landing
@@ -99,42 +154,42 @@
 1 Brave the Elements
 1 Benalish Marshal
 1 Mardu Woe-Reaper
-1 Concealed Courtyard
+1 Shefet Dunes
 1 Godless Shrine
 1 Brightclimb Pathway
+1 Concealed Courtyard
+1 Luminarch Aspirant
 1 Caves of Koilos
 1 General Kudro of Drannith
-1 Giant Killer
-1 Thalia's Lieutenant
-1 Luminarch Aspirant
 1 Kytheon, Hero of Akros
-1 Shefet Dunes
+1 Thalia's Lieutenant
+1 Giant Killer
 1 Dire Tactics
 2 Boros Elite
 2 Dauntless Bodyguard
+2 Shefet Dunes
 2 General Kudro of Drannith
 2 Soldier of the Pantheon
+2 Luminarch Aspirant
 2 Brave the Elements
 2 Thalia's Lieutenant
 2 Caves of Koilos
 2 Concealed Courtyard
-2 Luminarch Aspirant
 2 Kytheon, Hero of Akros
 2 Giant Killer
-2 Shefet Dunes
 2 Benalish Marshal
 2 Brightclimb Pathway
 2 Godless Shrine
 3 General Kudro of Drannith
+3 Luminarch Aspirant
 3 Thalia's Lieutenant
 3 Brave the Elements
 3 Caves of Koilos
 3 Soldier of the Pantheon
 3 Godless Shrine
 3 Dauntless Bodyguard
-3 Concealed Courtyard
 3 Boros Elite
-3 Luminarch Aspirant
+3 Concealed Courtyard
 3 Brightclimb Pathway
 4 Brave the Elements
 4 Caves of Koilos
@@ -151,8 +206,8 @@
 1 Trostani Discordant
 1 Voice of Resurgence
 1 Sunpetal Grove
-1 Westvale Abbey
 1 Omen of the Sun
+1 Westvale Abbey
 1 Conclave Tribunal
 1 Nissa, Voice of Zendikar
 1 Elspeth, Sun's Champion
@@ -199,6 +254,11 @@
 4 Nissa, Voice of Zendikar
 4 Saproling Migration
 4 Raise the Alarm
+3 Chart a Course
+4 Into the Story
+4 Merfolk Windrobber
+4 Fatal Push
+4 Chart a Course
 1 Skyclave Shade
 1 Tangled Florahedron
 1 Korvold, Fae-Cursed King
@@ -240,58 +300,3 @@
 4 Irrigated Farmland
 4 Brazen Borrower
 4 Archangel Avacyn
-1 Mana Confluence
-1 Clearwater Pathway
-1 Deathrite Shaman
-1 Drown in the Loch
-1 Into the Story
-1 Merfolk Windrobber
-1 Fatal Push
-1 Watery Grave
-1 Thoughtseize
-1 Mutavault
-1 Breeding Pool
-1 Thieves' Guild Enforcer
-1 Soaring Thought-Thief
-1 Swamp
-1 Chart a Course
-1 Botanical Sanctum
-2 Mana Confluence
-2 Deathrite Shaman
-2 Clearwater Pathway
-2 Watery Grave
-2 Merfolk Windrobber
-2 Into the Story
-2 Fatal Push
-2 Thoughtseize
-2 Botanical Sanctum
-2 Chart a Course
-2 Mutavault
-2 Soaring Thought-Thief
-2 Drown in the Loch
-2 Thieves' Guild Enforcer
-3 Watery Grave
-3 Merfolk Windrobber
-3 Fatal Push
-3 Thoughtseize
-3 Drown in the Loch
-3 Deathrite Shaman
-3 Thieves' Guild Enforcer
-3 Clearwater Pathway
-3 Chart a Course
-3 Botanical Sanctum
-3 Mutavault
-3 Into the Story
-3 Soaring Thought-Thief
-4 Into the Story
-4 Watery Grave
-4 Clearwater Pathway
-4 Merfolk Windrobber
-4 Thoughtseize
-4 Fatal Push
-4 Soaring Thought-Thief
-4 Deathrite Shaman
-4 Chart a Course
-4 Botanical Sanctum
-4 Drown in the Loch
-4 Thieves' Guild Enforcer

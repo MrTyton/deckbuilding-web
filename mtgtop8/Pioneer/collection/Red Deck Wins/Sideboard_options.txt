@@ -1,6 +1,4 @@
 3 Soul-Guide Lantern
-1 Light of Hope
-2 Light of Hope
 1 Chandra, Torch of Defiance
 1 Grafdigger's Cage
 2 Grafdigger's Cage
@@ -8,10 +6,12 @@
 1 Goblin Chainwhirler
 1 Damping Sphere
 2 Goblin Chainwhirler
-2 Damping Sphere
 3 Goblin Chainwhirler
 3 Grafdigger's Cage
 4 Goblin Chainwhirler
+1 Light of Hope
+2 Light of Hope
+2 Damping Sphere
 1 Burning Earth
 1 Magma Spray
 2 Burning Earth
@@ -22,11 +22,11 @@
 1 Peak Eruption
 1 Rending Volley
 2 Cleansing Wildfire
-2 Rending Volley
 2 Peak Eruption
-1 Erase
+2 Rending Volley
 1 Rest in Peace
 1 Skullcrack
+1 Erase
 2 Rest in Peace
 2 Skullcrack
 2 Erase
@@ -42,6 +42,7 @@
 2 Lava Coil
 4 Magma Spray
 4 Soul-Guide Lantern
+4 Grafdigger's Cage
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 3 Goblin Rabblemaster

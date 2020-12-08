@@ -67,8 +67,8 @@
 3 Cabal Therapy
 1 Hymn to Tourach
 2 Hymn to Tourach
-4 Snow-Covered Swamp
 4 Grave Titan
+4 Snow-Covered Swamp
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
@@ -100,8 +100,8 @@
 3 Hapless Researcher
 4 Underground Sea
 1 Massacre Wurm
-1 Scrying Sheets
 1 Feed the Swarm
+1 Scrying Sheets
 1 Duress
 2 Scrying Sheets
 2 Duress
@@ -149,6 +149,7 @@
 5 Swamp
 6 Swamp
 7 Swamp
+8 Swamp
 9 Swamp
 10 Swamp
 11 Swamp
@@ -157,4 +158,3 @@
 14 Swamp
 15 Swamp
 16 Swamp
-8 Swamp

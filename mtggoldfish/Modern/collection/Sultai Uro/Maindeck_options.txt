@@ -1,20 +1,29 @@
-1 Drown in the Loch
-2 Growth Spiral
-2 Remand
 1 Overgrown Tomb
+1 Fact or Fiction
 3 Mana Leak
-3 Growth Spiral
-1 Assassin's Trophy
 2 Island
 1 Damnation
+2 Growth Spiral
+1 Assassin's Trophy
+3 Growth Spiral
+2 Remand
 1 Snow-Covered Swamp
-3 Remand
 1 Flooded Grove
 4 Growth Spiral
-2 Fact or Fiction
-1 Scalding Tarn
+3 Remand
+1 Aether Gust
+2 Cling to Dust
 3 Snow-Covered Island
+2 Fact or Fiction
+1 Sunken Hollow
+1 Snapcaster Mage
+1 Scalding Tarn
 4 Cryptic Command
+4 Archmage's Charm
+2 Flooded Strand
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
+2 Bloodchief's Thirst
 1 Ice-Fang Coatl
 1 Wilderness Reclamation
 1 Nexus of Fate
@@ -24,22 +33,21 @@
 4 Remand
 5 Snow-Covered Island
 6 Snow-Covered Island
-1 Aether Gust
-1 Snapcaster Mage
-3 Ice-Fang Coatl
-2 Flooded Strand
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-2 Bloodchief's Thirst
-1 Sunken Hollow
-2 Cling to Dust
-3 Fact or Fiction
 1 Hour of Promise
 1 Verdant Catacombs
-2 Scalding Tarn
 2 Assassin's Trophy
+3 Ice-Fang Coatl
+1 Oboro, Palace in the Clouds
+2 Snapcaster Mage
+3 Thoughtseize
+1 Shark Typhoon
+2 Shark Typhoon
+3 Fact or Fiction
+2 Hour of Promise
+2 Scalding Tarn
+3 Island
+1 Creeping Tar Pit
 3 Scalding Tarn
-4 Archmage's Charm
 2 Verdant Catacombs
 3 Verdant Catacombs
 1 Prized Amalgam
@@ -51,15 +59,17 @@
 1 Glimpse the Unthinkable
 1 Vengevine
 1 Merfolk Secretkeeper
+1 Gurmag Angler
 1 Silversmote Ghoul
 2 Prized Amalgam
 2 Creeping Chill
+2 Gurmag Angler
 2 Silversmote Ghoul
 2 Overgrown Tomb
 2 Merfolk Secretkeeper
+2 Stitcher's Supplier
 2 Vengevine
 2 Gravecrawler
-2 Stitcher's Supplier
 2 Hedron Crab
 2 Narcomoeba
 2 Glimpse the Unthinkable
@@ -70,8 +80,8 @@
 3 Vengevine
 3 Glimpse the Unthinkable
 3 Silversmote Ghoul
-3 Narcomoeba
 3 Overgrown Tomb
+3 Narcomoeba
 3 Stitcher's Supplier
 3 Gravecrawler
 4 Creeping Chill
@@ -81,48 +91,46 @@
 4 Merfolk Secretkeeper
 4 Glimpse the Unthinkable
 4 Vengevine
-1 Oboro, Palace in the Clouds
-2 Snapcaster Mage
-2 Hour of Promise
-3 Island
-1 Creeping Tar Pit
-1 Gurmag Angler
-2 Gurmag Angler
-3 Thoughtseize
 7 Snow-Covered Island
-1 Inquisition of Kozilek
-1 Shark Typhoon
 1 Tale's End
-2 Shark Typhoon
+1 Inquisition of Kozilek
 1 Primeval Titan
+1 Sunken Ruins
+3 Shark Typhoon
 4 Island
 1 Life from the Loam
 1 Blooming Marsh
 1 Lonely Sandbar
+1 Prismatic Vista
 1 Waterlogged Grove
 1 Vesuva
 1 Blast Zone
 1 Fetid Pools
-1 Prismatic Vista
-3 Shark Typhoon
 1 Minamo, School at Water's Edge
 1 Geier Reach Sanitarium
 3 Narset, Parter of Veils
-4 Prized Amalgam
-4 Gravecrawler
+1 Nissa, Who Shakes the World
+2 Aether Gust
+2 Snow-Covered Forest
+2 Nissa, Who Shakes the World
+2 Zagoth Triome
+3 Breeding Pool
+3 Field of Ruin
+3 Zagoth Triome
+3 Nissa, Who Shakes the World
+4 Thoughtseize
 1 Mox Amber
-1 Mishra's Bauble
 1 Sword of the Meek
 1 Thopter Foundry
-1 Engineered Explosives
 1 Gilded Goose
 1 Metallic Rebuke
 1 Emry, Lurker of the Loch
 1 Urza, Lord High Artificer
+1 Engineered Explosives
 1 Ensnaring Bridge
 1 Whir of Invention
 1 Witching Well
-2 Mishra's Bauble
+1 Mishra's Bauble
 2 Thopter Foundry
 2 Emry, Lurker of the Loch
 2 Metallic Rebuke
@@ -131,9 +139,10 @@
 2 Witching Well
 2 Sword of the Meek
 2 Urza, Lord High Artificer
+2 Mishra's Bauble
 3 Gilded Goose
-3 Mishra's Bauble
 3 Whir of Invention
+3 Mishra's Bauble
 3 Thopter Foundry
 3 Emry, Lurker of the Loch
 3 Urza, Lord High Artificer
@@ -142,7 +151,6 @@
 1 Hinterland Harbor
 1 Search for Tomorrow
 1 Botanical Sanctum
-1 Sunken Ruins
 2 Search for Tomorrow
 3 Search for Tomorrow
 3 Assassin's Trophy

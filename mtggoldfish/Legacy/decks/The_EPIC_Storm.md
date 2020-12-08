@@ -38,7 +38,7 @@
 |                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)|                    1|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)|
 |                    2|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                    1|[Crash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19616)               |
 |                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)    |                    1|[Hull Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376367)        |
-|                    2|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)    |                    1|[Echoing Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46155)        |
+|                    1|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)    |                    1|[Echoing Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46155)        |
+|                    2|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)    |                     |                                                                                              |
 |                    4|[Chrome Mox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413761)        |                     |                                                                                              |
-|                    1|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)    |                     |                                                                                              |
 

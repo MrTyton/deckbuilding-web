@@ -30,8 +30,8 @@
 1 Fetid Pools
 1 Geier Reach Sanitarium
 1 Kalitas, Traitor of Ghet
-1 Day's Undoing
 1 Heartless Act
+1 Day's Undoing
 1 Opt
 1 Dig Through Time
 2 Fetid Pools
@@ -56,12 +56,14 @@
 2 Sulfur Falls
 1 Castle Ardenvale
 2 Plains
+1 Anger of the Gods
+2 Anger of the Gods
+3 Anger of the Gods
 1 Lukka, Coppercoat Outcast
 1 Riverglide Pathway
 1 Gideon of the Trials
-1 Omen of the Sun
 1 Omen of the Sea
-1 Anger of the Gods
+1 Omen of the Sun
 1 Detention Sphere
 1 Transmogrify
 1 Glacial Fortress
@@ -74,22 +76,20 @@
 2 Gideon of the Trials
 2 Omen of the Sun
 2 Omen of the Sea
-2 Anger of the Gods
 2 Fires of Invention
 2 Supreme Verdict
 2 Castle Ardenvale
 2 Sacred Foundry
+2 The Birth of Meletis
 2 Agent of Treachery
 2 Transmogrify
 2 Glacial Fortress
 2 Aether Gust
-2 The Birth of Meletis
 2 Chained to the Rocks
 3 Sulfur Falls
 3 Castle Ardenvale
 3 Plains
 3 Omen of the Sea
-3 Anger of the Gods
 3 Transmogrify
 3 Agent of Treachery
 3 Hallowed Fountain
@@ -107,10 +107,14 @@
 4 Steam Vents
 4 Hallowed Fountain
 4 Uro, Titan of Nature's Wrath
+2 Ugin, the Spirit Dragon
 1 Hydroid Krasis
 2 Hydroid Krasis
 4 Breeding Pool
-2 Ugin, the Spirit Dragon
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+3 Bonecrusher Giant
+2 Mountain
 1 Cultivate
 1 Hinterland Harbor
 2 Hinterland Harbor
@@ -134,12 +138,9 @@
 2 Kalitas, Traitor of Ghet
 2 Scarab Feast
 3 Swamp
-1 Bonecrusher Giant
 1 Urban Evolution
 1 Magma Jet
-2 Bonecrusher Giant
 2 Magma Jet
-3 Bonecrusher Giant
 3 Magma Jet
 1 Terror of the Peaks
 1 Inspired Ultimatum
@@ -148,19 +149,68 @@
 1 Cragcrown Pathway
 1 Prophet of Kruphix
 2 Prophet of Kruphix
-2 Mountain
 2 Terror of the Peaks
 2 Dryad of the Ilysian Grove
 3 Dryad of the Ilysian Grove
 4 Dryad of the Ilysian Grove
+1 Blast Zone
+3 Ugin, the Spirit Dragon
+1 Valakut Awakening
+1 Ramunap Ruins
+1 Irencrag Feat
+1 Vessel of Volatility
+1 Mazemind Tome
+1 Chandra, Awakened Inferno
+1 Chandra, Torch of Defiance
+1 Golos, Tireless Pilgrim
+1 Cleansing Wildfire
+1 Darksteel Citadel
+1 Thought-Knot Seer
+1 Scavenger Grounds
+1 Cascading Cataracts
+1 Battlefield Forge
+2 Valakut Awakening
+2 Ramunap Ruins
+2 Irencrag Feat
+2 Cascading Cataracts
+2 Vessel of Volatility
+2 Mazemind Tome
+2 Chandra, Torch of Defiance
+2 Cleansing Wildfire
+2 Battlefield Forge
+2 Thought-Knot Seer
+2 Darksteel Citadel
+3 Cleansing Wildfire
+3 Cascading Cataracts
+3 Valakut Awakening
+3 Vessel of Volatility
+3 Ramunap Ruins
+3 Irencrag Feat
+3 Mazemind Tome
+3 Chandra, Torch of Defiance
+3 Thought-Knot Seer
+3 Darksteel Citadel
+3 Battlefield Forge
+3 Mountain
+4 Chandra, Torch of Defiance
+4 Cleansing Wildfire
+4 Cascading Cataracts
+4 Valakut Awakening
+4 Ramunap Ruins
+4 Bonecrusher Giant
+4 Anger of the Gods
+4 Mazemind Tome
+4 Thought-Knot Seer
+4 Darksteel Citadel
+4 Ugin, the Spirit Dragon
 1 Negate
 1 Nissa, Who Shakes the World
-1 Sylvan Caryatid
 1 Oath of Nissa
+1 Sylvan Caryatid
+2 Oath of Nissa
 2 Mystical Dispute
 2 Nissa, Who Shakes the World
 2 Sylvan Caryatid
-2 Oath of Nissa
 3 Nissa, Who Shakes the World
 3 Oath of Nissa
 4 Oath of Nissa
@@ -177,8 +227,8 @@
 2 Liliana, Waker of the Dead
 2 Kolaghan's Command
 2 Blood Crypt
-2 Nicol Bolas, the Ravager
 2 Thought Erasure
+2 Nicol Bolas, the Ravager
 2 Kroxa, Titan of Death's Hunger
 2 Davriel, Rogue Shadowmage
 2 Dragonskull Summit
@@ -193,56 +243,9 @@
 4 Kroxa, Titan of Death's Hunger
 4 Nicol Bolas, the Ravager
 4 Davriel, Rogue Shadowmage
-1 Branchloft Pathway
-1 Courser of Kruphix
-1 Baffling End
-1 Banishing Light
-1 Setessan Champion
-1 Calix, Destiny's Hand
-1 Gideon's Intervention
-1 Mana Bloom
-1 Temple of Plenty
-1 Starfield Mystic
-1 Sigil of the Empty Throne
-1 Sphere of Safety
-1 Wolfwillow Haven
-1 Eidolon of Blossoms
-1 Seal Away
-1 Herald of the Pantheon
-2 Branchloft Pathway
-2 Sunpetal Grove
-2 Baffling End
-2 Setessan Champion
-2 Courser of Kruphix
-2 Calix, Destiny's Hand
-2 Banishing Light
-2 Sigil of the Empty Throne
-2 Herald of the Pantheon
-2 Eidolon of Blossoms
-2 Wolfwillow Haven
-2 Seal Away
-2 Gideon's Intervention
-2 Temple of Plenty
-2 Sphere of Safety
-3 Branchloft Pathway
-3 Setessan Champion
-3 Banishing Light
-3 Baffling End
-3 Temple of Plenty
-3 Sphere of Safety
-3 Eidolon of Blossoms
-3 Courser of Kruphix
-3 Wolfwillow Haven
-3 Herald of the Pantheon
-4 Banishing Light
-4 Temple of Plenty
-4 Herald of the Pantheon
-4 Eidolon of Blossoms
-4 Wolfwillow Haven
 1 Castle Garenbrig
 1 Yavimaya Coast
 1 Zagoth Triome
-1 Blast Zone
 1 Arboreal Grazer
 1 Ulamog, the Ceaseless Hunger
 1 Sanctum of Ugin
@@ -265,7 +268,6 @@
 2 Shrine of the Forsaken Gods
 3 Yavimaya Coast
 3 Cavalier of Thorns
-3 Ugin, the Spirit Dragon
 3 Elvish Rejuvenator
 3 Shrine of the Forsaken Gods
 3 Voracious Hydra
@@ -275,9 +277,55 @@
 4 Yavimaya Coast
 4 Cavalier of Thorns
 4 Elvish Rejuvenator
+4 Voracious Hydra
 4 Botanical Sanctum
 4 Shrine of the Forsaken Gods
-4 Voracious Hydra
+1 Baffling End
+1 Gideon's Intervention
+1 Calix, Destiny's Hand
+1 Mana Bloom
+1 Temple of Plenty
+1 Banishing Light
+1 Starfield Mystic
+1 Sigil of the Empty Throne
+1 Setessan Champion
+1 Sphere of Safety
+1 Branchloft Pathway
+1 Wolfwillow Haven
+1 Eidolon of Blossoms
+1 Seal Away
+1 Courser of Kruphix
+1 Herald of the Pantheon
+2 Branchloft Pathway
+2 Baffling End
+2 Courser of Kruphix
+2 Herald of the Pantheon
+2 Setessan Champion
+2 Eidolon of Blossoms
+2 Wolfwillow Haven
+2 Calix, Destiny's Hand
+2 Seal Away
+2 Banishing Light
+2 Gideon's Intervention
+2 Sigil of the Empty Throne
+2 Temple of Plenty
+2 Sunpetal Grove
+2 Sphere of Safety
+3 Sphere of Safety
+3 Baffling End
+3 Branchloft Pathway
+3 Temple of Plenty
+3 Eidolon of Blossoms
+3 Setessan Champion
+3 Courser of Kruphix
+3 Wolfwillow Haven
+3 Herald of the Pantheon
+3 Banishing Light
+4 Temple of Plenty
+4 Banishing Light
+4 Herald of the Pantheon
+4 Eidolon of Blossoms
+4 Wolfwillow Haven
 1 God-Eternal Kefnet
 1 Brazen Borrower
 1 Legion's End
