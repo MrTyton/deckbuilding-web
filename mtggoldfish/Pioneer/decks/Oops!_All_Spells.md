@@ -60,6 +60,6 @@
 |                    1|[Silundi Vision](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491711)        |                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)   |
 |                    1|[Wolfwillow Haven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476456)      |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)   |
 |                    1|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)       |                    1|[Savage Summoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370710)      |
-|                    1|[Beyeen Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491673)           |                    2|[Savage Summoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370710)      |
-|                    2|[Vastwood Fortification](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491866)|                    3|[Savage Summoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370710)      |
+|                    2|[Vastwood Fortification](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491866)|                    2|[Savage Summoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370710)      |
+|                    1|[Beyeen Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491673)           |                    3|[Savage Summoning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370710)      |
 

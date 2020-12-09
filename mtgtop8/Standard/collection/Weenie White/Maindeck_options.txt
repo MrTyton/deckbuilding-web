@@ -1,7 +1,7 @@
-2 Daxos, Blessed by the Sun
-2 Heliod, Sun-Crowned
 3 Daxos, Blessed by the Sun
 4 Selfless Savior
+2 Emeria's Call
+2 Heliod, Sun-Crowned
 3 Giant Killer
 4 Castle Ardenvale
 1 Venerable Knight
@@ -9,24 +9,34 @@
 4 Maul of the Skyclaves
 4 Speaker of the Heavens
 2 Linden, the Steadfast Queen
+4 Alseid of Life's Bounty
+1 Sentinel's Eyes
 3 Venerable Knight
 4 Venerable Knight
 3 Heliod, Sun-Crowned
-1 Makindi Stampede
 3 Linden, the Steadfast Queen
-4 Alseid of Life's Bounty
-1 Sentinel's Eyes
+1 Makindi Stampede
 1 Sejiri Shelter
+19 Plains
 1 Shepherd of the Flock
 2 Shepherd of the Flock
 1 Banishing Light
-19 Plains
 2 Kabira Takedown
+20 Plains
+21 Plains
+1 All That Glitters
+2 All That Glitters
+3 All That Glitters
+2 Sentinel's Eyes
 1 Archon of Emeria
 2 Archon of Emeria
 1 Lavabrink Venturer
 2 Lavabrink Venturer
 4 Giant Killer
+4 Daxos, Blessed by the Sun
+1 Charming Prince
+1 Luminous Broodmoth
+3 Lurrus of the Dream-Den
 1 Temple of Triumph
 1 Embercleave
 1 Winota, Joiner of Forces
@@ -39,13 +49,13 @@
 1 Haktos the Unscarred
 1 Sea Gate Banneret
 1 Kargan Warleader
+2 Embercleave
 2 Temple of Triumph
 2 Winota, Joiner of Forces
 2 Kargan Warleader
-2 Kor Blademaster
 2 Haktos the Unscarred
-2 Embercleave
 2 Sea Gate Banneret
+2 Kor Blademaster
 2 Fireblade Charger
 2 Nahiri, Heir of the Ancients
 2 Mountain
@@ -73,20 +83,15 @@
 9 Mountain
 10 Mountain
 11 Mountain
-4 Daxos, Blessed by the Sun
-1 Charming Prince
-1 Luminous Broodmoth
-3 Lurrus of the Dream-Den
 1 Heliod's Punishment
 2 Heliod's Punishment
-20 Plains
-21 Plains
-1 All That Glitters
-2 All That Glitters
-3 All That Glitters
-2 Sentinel's Eyes
+1 Hushbringer
+1 Gingerbrute
+2 Gingerbrute
+3 Gingerbrute
+4 Gingerbrute
+4 All That Glitters
 1 Elspeth, Sun's Nemesis
-3 Kabira Takedown
 1 Baneslayer Angel
 2 Baneslayer Angel
 2 Sejiri Shelter
@@ -94,6 +99,7 @@
 2 Stonecoil Serpent
 3 Stonecoil Serpent
 4 Stonecoil Serpent
+3 Kabira Takedown
 1 Fight as One
 1 Akiri, Fearless Voyager
 2 Akiri, Fearless Voyager
@@ -111,45 +117,39 @@
 4 Glass Casket
 3 Emeria's Call
 4 Emeria's Call
-1 Hushbringer
 2 Hushbringer
 3 Hushbringer
-4 Hushbringer
 4 Kabira Takedown
-1 Gingerbrute
+4 Hushbringer
 1 Crystalline Giant
 1 Dub
-2 Gingerbrute
 2 Crystalline Giant
-3 Gingerbrute
 3 Crystalline Giant
-4 Gingerbrute
-4 All That Glitters
 4 Crystalline Giant
-1 Bonders' Enclave
 1 Pacifism
+1 Bonders' Enclave
 2 Pacifism
 3 Pacifism
 4 Heliod, Sun-Crowned
-1 Fearless Fledgling
-1 Basri's Acolyte
 1 Garrison Cat
+1 Fearless Fledgling
 1 Daybreak Charger
+1 Basri's Acolyte
 1 Idyllic Grange
 1 Daybreak Chimera
 1 Sunlit Hoplite
 1 Eidolon of Inspiration
-2 Basri's Acolyte
 2 Garrison Cat
 2 Eidolon of Inspiration
 2 Daybreak Charger
 2 Daybreak Chimera
 2 Sunlit Hoplite
+2 Basri's Acolyte
 3 Garrison Cat
 3 Daybreak Chimera
-3 Basri's Acolyte
 3 Sunlit Hoplite
 3 Daybreak Charger
+3 Basri's Acolyte
 4 Daybreak Chimera
 4 Garrison Cat
 4 Daybreak Charger
@@ -158,8 +158,8 @@
 1 Basri's Lieutenant
 1 Crawling Barrens
 1 Mazemind Tome
-1 Realm-Cloaked Giant
 1 Drannith Magistrate
+1 Realm-Cloaked Giant
 1 Elspeth Conquers Death
 2 Basri's Lieutenant
 2 Crawling Barrens
@@ -177,3 +177,18 @@
 4 Mazemind Tome
 4 Baneslayer Angel
 4 Drannith Magistrate
+1 Faerie Guidemother
+1 Karametra's Blessing
+1 Feat of Resistance
+2 Faerie Guidemother
+2 Karametra's Blessing
+2 Feat of Resistance
+3 Faerie Guidemother
+3 Sentinel's Eyes
+3 Feat of Resistance
+3 Karametra's Blessing
+4 Faerie Guidemother
+4 Sentinel's Eyes
+4 Karametra's Blessing
+4 Feat of Resistance
+22 Plains
