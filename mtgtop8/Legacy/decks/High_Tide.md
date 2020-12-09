@@ -34,39 +34,3 @@
 |1 [Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |1 [Wipe Away](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118911)          |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Predict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451053)       |                    1|[Turnabout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5728)          |
-|                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)  |                    1|[Teferi's Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3651)     |
-|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                    1|[Shark Typhoon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479587)    |
-|                    1|[Turnabout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5728)       |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
-|                    1|[Intuition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4707)       |                    1|[Blue Sun's Zenith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442033)|
-|                    1|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)     |                    2|[Shark Typhoon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479587)    |
-|                    2|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)     |                    2|[Teferi's Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3651)     |
-|                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)  |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
-|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                     |                                                                                            |
-|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107) |                     |                                                                                            |
-|                    2|[Turnabout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5728)       |                     |                                                                                            |
-|                    2|[Predict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451053)       |                     |                                                                                            |
-|                    3|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)     |                     |                                                                                            |
-|                    3|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)  |                     |                                                                                            |
-|                    3|[Cunning Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=34400)   |                     |                                                                                            |
-|                    3|[Predict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451053)       |                     |                                                                                            |
-|                    3|[Merchant Scroll](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45275)|                     |                                                                                            |
-|                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                     |                                                                                            |
-|                    3|[Turnabout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5728)       |                     |                                                                                            |
-|                    4|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)     |                     |                                                                                            |
-|                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                     |                                                                                            |
-|                    4|[Merchant Scroll](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45275)|                     |                                                                                            |
-|                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                     |                                                                                            |
-|                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                     |                                                                                            |
-|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                     |                                                                                            |
-|                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                     |                                                                                            |
-|                    9|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                     |                                                                                            |
-|                   10|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                     |                                                                                            |
-|                   11|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                     |                                                                                            |
-|                   12|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)        |                     |                                                                                            |
-

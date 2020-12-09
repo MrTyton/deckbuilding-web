@@ -28,17 +28,19 @@
 4 Dark Ritual
 1 Snapcaster Mage
 1 Personal Tutor
-1 Snow-Covered Plains
-1 Tundra
 1 Arcum's Astrolabe
+1 Tundra
+1 Snow-Covered Plains
 1 Scalding Tarn
 1 Tolaria West
 1 Marsh Flats
 1 Enlightened Tutor
 1 Counterspell
 1 Intuition
+1 Academy Rector
 1 Ethersworn Canonist
 1 Maze of Ith
+1 Cabal Therapy
 1 Bloodstained Mire
 1 Celestial Colonnade
 1 Arid Mesa
@@ -56,11 +58,11 @@
 1 Baleful Strix
 1 Supreme Verdict
 1 Cunning Wish
-1 Leyline of Sanctity
 1 Elesh Norn, Grand Cenobite
+1 Leyline of Sanctity
 1 Drowned Catacomb
-1 Teferi, Time Raveler
 1 Iona, Shield of Emeria
+1 Teferi, Time Raveler
 1 Murderous Cut
 1 Brainstorm
 1 Serum Visions
@@ -70,7 +72,6 @@
 1 Emrakul, the Aeons Torn
 1 The Tabernacle at Pendrell Vale
 1 Ensnaring Bridge
-1 Cabal Therapy
 1 Underground Sea
 1 Swords to Plowshares
 1 Pact of Negation
@@ -82,7 +83,6 @@
 1 Ad Nauseam
 1 Preordain
 1 Show and Tell
-1 Academy Rector
 1 Flooded Strand
 1 Creeping Tar Pit
 1 Battle of Wits
@@ -116,6 +116,7 @@
 2 Glacial Fortress
 2 Snow-Covered Plains
 2 Misdirection
+2 Cabal Therapy
 2 Drowned Catacomb
 2 Baleful Strix
 2 Flusterstorm
@@ -123,7 +124,6 @@
 2 Ponder
 2 Preordain
 2 Academy Rector
-2 Cabal Therapy
 2 Misty Rainforest
 2 Cunning Wish
 2 Murderous Cut
@@ -152,12 +152,12 @@
 3 Arcum's Astrolabe
 3 Polluted Delta
 3 Emrakul, the Aeons Torn
+3 Windswept Heath
 3 Impulse
 3 Teferi, Time Raveler
 3 Flooded Strand
 3 Baleful Strix
 3 Jace, the Mind Sculptor
-3 Tundra
 3 Enlightened Tutor
 3 Tolaria West
 3 Scrubland
@@ -166,29 +166,29 @@
 3 Ancient Tomb
 3 Portent
 3 Creeping Tar Pit
-3 Celestial Colonnade
 3 Flusterstorm
 3 Arid Mesa
+3 Celestial Colonnade
 3 Mystic Sanctuary
 3 Snow-Covered Plains
 3 Pact of Negation
+3 Cabal Therapy
 3 Phyrexian Unlife
 3 Force of Will
 3 Brainstorm
 3 Serum Visions
 3 Personal Tutor
 3 Omniscience
-3 Windswept Heath
 3 Snow-Covered Island
 3 Ad Nauseam
 3 Show and Tell
 3 Underground Sea
 3 Terminus
 3 Ponder
+3 Tundra
 3 Preordain
 3 Counterspell
 3 Academy Rector
-3 Cabal Therapy
 3 Marsh Flats
 3 Misdirection
 3 Misty Rainforest
@@ -205,6 +205,7 @@
 4 Impulse
 4 Flooded Strand
 4 Polluted Delta
+4 Cabal Therapy
 4 Baleful Strix
 4 Marsh Flats
 4 Terminus
@@ -212,7 +213,6 @@
 4 Underground Sea
 4 Celestial Colonnade
 4 Tolaria West
-4 Tundra
 4 Arcum's Astrolabe
 4 Spell Pierce
 4 Battle of Wits
@@ -226,6 +226,7 @@
 4 Enlightened Tutor
 4 Snapcaster Mage
 4 Expedition Map
+4 Tundra
 4 Brainstorm
 4 Misty Rainforest
 4 Creeping Tar Pit
@@ -233,7 +234,6 @@
 4 Counterspell
 4 Personal Tutor
 4 Inquisition of Kozilek
-4 Cabal Therapy
 5 Snow-Covered Island
 1 Forest
 1 Swamp
@@ -247,8 +247,8 @@
 2 Into the North
 1 Dark Confidant
 2 Elvish Reclaimer
-2 Abrupt Decay
 2 Dark Confidant
+2 Abrupt Decay
 3 Elvish Reclaimer
 3 Bayou
 3 Dark Confidant
@@ -259,8 +259,8 @@
 4 Duress
 2 Wasteland
 3 Wasteland
-1 Assassin's Trophy
 1 Shizo, Death's Storehouse
+1 Assassin's Trophy
 1 Llanowar Wastes
 1 Blooming Marsh
 1 Life from the Loam
@@ -269,42 +269,37 @@
 3 Nurturing Peatland
 4 Nurturing Peatland
 4 Not of This World
-1 Mox Diamond
-2 Mox Diamond
-3 Mox Diamond
-4 Abrupt Decay
-4 Mox Diamond
-1 Hymn to Tourach
 1 Chrome Mox
 1 Liliana of the Veil
 1 Liliana's Triumph
 1 Liliana, the Last Hope
+1 Plague Engineer
 1 Chalice of the Void
 1 Cabal Pit
-1 Dakmor Salvage
 1 Castle Locthwain
+1 Dakmor Salvage
 1 Wishclaw Talisman
-1 Plague Engineer
-1 Lake of the Dead
 1 Eliminate
+1 Lake of the Dead
+1 Hymn to Tourach
 1 Trinisphere
 1 Gurmag Angler
 1 Desolation
 1 Karn, the Great Creator
 2 Chrome Mox
-2 Hymn to Tourach
 2 Trinisphere
 2 Lake of the Dead
 2 Chalice of the Void
 2 Eliminate
+2 Hymn to Tourach
 2 Gurmag Angler
 2 Karn, the Great Creator
 2 Desolation
 2 Wishclaw Talisman
 2 Liliana of the Veil
-3 Eliminate
 3 Chrome Mox
 3 Chalice of the Void
+3 Eliminate
 3 Desolation
 3 Karn, the Great Creator
 3 Liliana of the Veil
@@ -314,3 +309,8 @@
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
+1 Mox Diamond
+2 Mox Diamond
+3 Mox Diamond
+4 Abrupt Decay
+4 Mox Diamond

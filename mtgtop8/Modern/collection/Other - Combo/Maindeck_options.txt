@@ -11,13 +11,13 @@
 4 Goblin Charbelcher
 1 Bala Ged Recovery
 1 Spikefield Hazard
-1 Valakut Awakening
 1 Desperate Ritual
 1 Recross the Paths
 1 Pyretic Ritual
 1 Irencrag Feat
 1 Manamorphose
 1 Reforge the Soul
+1 Valakut Awakening
 2 Bala Ged Recovery
 2 Irencrag Feat
 2 Recross the Paths
@@ -61,11 +61,11 @@
 4 Leyline of Sanctity
 4 Blood Moon
 1 Tangled Florahedron
-1 Mass Hysteria
 1 Wild Cantor
 1 Karn, the Great Creator
 1 Noxious Revival
 1 Vizier of Remedies
+1 Mass Hysteria
 1 Devoted Druid
 2 Tangled Florahedron
 2 Wild Cantor
@@ -113,8 +113,8 @@
 2 Opt
 2 Inverter of Truth
 3 Omen of the Sea
-3 Drowned Catacomb
 3 Darkslick Shores
+3 Drowned Catacomb
 3 Inquisition of Kozilek
 3 Remand
 3 Fatal Push
@@ -126,15 +126,14 @@
 3 River of Tears
 3 Watery Grave
 4 Remand
-4 Darkslick Shores
 4 Fatal Push
 4 Omen of the Sea
 4 Thassa's Oracle
 4 Opt
+4 Darkslick Shores
 4 Watery Grave
 4 River of Tears
 4 Inverter of Truth
-1 Lotus Field
 1 Peer Through Depths
 1 Shivan Reef
 1 Ideas Unbound
@@ -150,6 +149,7 @@
 1 Past in Flames
 1 Echoing Truth
 1 Lonely Sandbar
+1 Lotus Field
 1 Vizier of Tumbling Sands
 2 Sleight of Hand
 2 Peer Through Depths
@@ -167,10 +167,10 @@
 2 Serum Visions
 2 Twiddle
 2 Past in Flames
-3 Sleight of Hand
 3 Island
 3 Lonely Sandbar
 3 Shivan Reef
+3 Sleight of Hand
 3 Past in Flames
 3 Psychic Puppetry
 3 Peer Through Depths
@@ -179,9 +179,9 @@
 3 Serum Visions
 3 Ideas Unbound
 3 Reach Through Mists
-4 Sleight of Hand
 4 Serum Visions
 4 Lonely Sandbar
+4 Sleight of Hand
 4 Island
 4 Shivan Reef
 4 Lotus Field
