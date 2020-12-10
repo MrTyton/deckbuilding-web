@@ -5,11 +5,11 @@
 1 Skyclave Apparition
 2 Skyclave Apparition
 1 Horizon Canopy
-1 Collected Company
 1 Giver of Runes
-2 Temple Garden
-2 Collected Company
+1 Collected Company
 2 Giver of Runes
+2 Collected Company
+2 Temple Garden
 3 Collected Company
 3 Skyclave Apparition
 4 Collected Company
@@ -41,9 +41,9 @@
 3 Field of Ruin
 1 Confounding Conundrum
 1 Abundant Growth
+2 Confounding Conundrum
 2 Abundant Growth
 2 Teferi, Hero of Dominaria
-2 Confounding Conundrum
 3 Confounding Conundrum
 3 Abundant Growth
 3 Breeding Pool
@@ -56,17 +56,6 @@
 1 Polluted Delta
 1 On Thin Ice
 2 Prismatic Vista
-1 Razorverge Thicket
-1 Forest
-1 Plains
-1 Maul of the Skyclaves
-1 Island
-2 Razorverge Thicket
-2 Deputy of Detention
-2 Plains
-2 Forest
-3 Razorverge Thicket
-3 Geist of Saint Traft
 1 Ghost Quarter
 1 Soulherder
 2 Soulherder
@@ -80,9 +69,9 @@
 1 Spell Snare
 1 Scalding Tarn
 1 Shark Typhoon
-1 Mystic Gate
 1 Supreme Verdict
 1 Opt
+1 Mystic Gate
 1 Remand
 1 Snapcaster Mage
 2 Shark Typhoon
@@ -93,6 +82,17 @@
 2 Opt
 3 Shark Typhoon
 3 Snapcaster Mage
+3 Opt
 4 Snow-Covered Island
 5 Snow-Covered Island
-3 Opt
+1 Razorverge Thicket
+1 Forest
+1 Plains
+1 Maul of the Skyclaves
+1 Island
+2 Deputy of Detention
+2 Plains
+2 Forest
+2 Razorverge Thicket
+3 Geist of Saint Traft
+3 Razorverge Thicket

@@ -1,7 +1,7 @@
 2 Forest
-1 Shaman of the Pack
 1 Elvish Visionary
 1 Gilt-Leaf Palace
+1 Shaman of the Pack
 2 Elvish Visionary
 2 Shaman of the Pack
 3 Elvish Visionary
@@ -25,18 +25,18 @@
 1 Overgrown Tomb
 2 Verdant Catacombs
 2 Overgrown Tomb
-1 Nissa of Shadowed Boughs
 1 Elvish Champion
+1 Nissa of Shadowed Boughs
 1 Lead the Stampede
-2 Nissa of Shadowed Boughs
 2 Elvish Champion
+2 Nissa of Shadowed Boughs
 2 Lead the Stampede
 1 Wooded Foothills
 1 Woodland Cemetery
-1 Twilight Mire
 1 Llanowar Wastes
 1 Swamp
 1 Windswept Heath
+1 Twilight Mire
 1 Prismatic Vista
 1 Scavenging Ooze
 2 Wooded Foothills
@@ -45,11 +45,6 @@
 2 Scavenging Ooze
 3 Woodland Cemetery
 4 Woodland Cemetery
-1 Chord of Calling
-2 Chord of Calling
-3 Ezuri, Renegade Leader
-4 Gilt-Leaf Palace
-4 Blooming Marsh
 1 Inscription of Abundance
 2 Inscription of Abundance
 3 Forest
@@ -61,3 +56,8 @@
 9 Forest
 10 Forest
 11 Forest
+1 Chord of Calling
+2 Chord of Calling
+3 Ezuri, Renegade Leader
+4 Gilt-Leaf Palace
+4 Blooming Marsh

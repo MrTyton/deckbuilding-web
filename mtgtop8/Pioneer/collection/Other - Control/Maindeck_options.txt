@@ -83,23 +83,23 @@
 2 The Birth of Meletis
 2 Chained to the Rocks
 3 Sulfur Falls
+3 Transmogrify
 3 Castle Ardenvale
 3 Plains
 3 Omen of the Sea
-3 Transmogrify
 3 Agent of Treachery
 3 Hallowed Fountain
 3 The Birth of Meletis
 3 Chained to the Rocks
 3 Sacred Foundry
 3 Steam Vents
+4 Transmogrify
 4 Sulfur Falls
 4 Shark Typhoon
 4 Omen of the Sea
 4 The Birth of Meletis
 4 Sacred Foundry
 4 Chained to the Rocks
-4 Transmogrify
 4 Steam Vents
 4 Hallowed Fountain
 4 Forest
@@ -108,9 +108,9 @@
 2 Bonecrusher Giant
 3 Bonecrusher Giant
 1 Cling to Dust
+1 The Scarab God
 1 Hero's Downfall
 1 Castle Locthwain
-1 The Scarab God
 1 Languish
 1 Field of Ruin
 1 Scarab Feast
@@ -142,6 +142,7 @@
 1 Valakut Awakening
 1 Ramunap Ruins
 1 Irencrag Feat
+1 Cleansing Wildfire
 1 Vessel of Volatility
 1 Mazemind Tome
 1 Scavenger Grounds
@@ -150,18 +151,17 @@
 1 Chandra, Awakened Inferno
 1 Chandra, Torch of Defiance
 1 Golos, Tireless Pilgrim
-1 Cleansing Wildfire
 1 Darksteel Citadel
 1 Thought-Knot Seer
 1 Battlefield Forge
 2 Valakut Awakening
-2 Ramunap Ruins
 2 Irencrag Feat
+2 Cleansing Wildfire
 2 Cascading Cataracts
+2 Ramunap Ruins
 2 Vessel of Volatility
 2 Mazemind Tome
 2 Chandra, Torch of Defiance
-2 Cleansing Wildfire
 2 Battlefield Forge
 2 Thought-Knot Seer
 2 Darksteel Citadel
@@ -169,8 +169,8 @@
 3 Cascading Cataracts
 3 Valakut Awakening
 3 Vessel of Volatility
-3 Ramunap Ruins
 3 Irencrag Feat
+3 Ramunap Ruins
 3 Mazemind Tome
 3 Chandra, Torch of Defiance
 3 Thought-Knot Seer
@@ -184,8 +184,8 @@
 4 Valakut Awakening
 4 Ramunap Ruins
 4 Bonecrusher Giant
-4 Anger of the Gods
 4 Mazemind Tome
+4 Anger of the Gods
 4 Thought-Knot Seer
 4 Darksteel Citadel
 4 Ugin, the Spirit Dragon
@@ -204,13 +204,13 @@
 1 Nicol Bolas, the Ravager
 1 Kroxa, Titan of Death's Hunger
 2 Collective Brutality
+2 Davriel, Rogue Shadowmage
 2 Blood Crypt
 2 Liliana, Waker of the Dead
 2 Kolaghan's Command
 2 Nicol Bolas, the Ravager
 2 Thought Erasure
 2 Kroxa, Titan of Death's Hunger
-2 Davriel, Rogue Shadowmage
 2 Dragonskull Summit
 3 Liliana, Waker of the Dead
 3 Kroxa, Titan of Death's Hunger
@@ -254,6 +254,7 @@
 1 Courser of Kruphix
 1 Herald of the Pantheon
 2 Branchloft Pathway
+2 Sunpetal Grove
 2 Baffling End
 2 Courser of Kruphix
 2 Herald of the Pantheon
@@ -266,7 +267,6 @@
 2 Gideon's Intervention
 2 Sigil of the Empty Throne
 2 Temple of Plenty
-2 Sunpetal Grove
 2 Sphere of Safety
 3 Sphere of Safety
 3 Baffling End

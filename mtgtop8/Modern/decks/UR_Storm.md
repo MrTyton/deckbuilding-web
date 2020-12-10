@@ -1,7 +1,7 @@
 # UR Storm
 
 #### [Export MTGO List](../collection/UR%20Storm/UR%20Storm.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Baral,%20Chief%20of%20Compliance%0A4%09Desperate%20Ritual%0A1%09Empty%20the%20Warrens%0A1%09Fiery%20Islet%0A4%09Gifts%20Ungiven%0A3%09Goblin%20Electromancer%0A2%09Grapeshot%0A2%09Island%0A4%09Manamorphose%0A1%09Mountain%0A4%09Opt%0A2%09Past%20in%20Flames%0A4%09Pyretic%20Ritual%0A3%09Remand%0A1%09Repeal%0A1%09Riverglide%20Pathway%0A4%09Serum%20Visions%0A3%09Shivan%20Reef%0A2%09Silundi%20Vision%0A1%09Snow-Covered%20Island%0A4%09Spirebluff%20Canal%0A4%09Steam%20Vents%0A1%09Valakut%20Awakening&deckside=2%09Abrade%0A1%09Aria%20of%20Flame%0A2%09Empty%20the%20Warrens%0A4%09Lightning%20Bolt%0A3%09Mystical%20Dispute%0A3%09Pieces%20of%20the%20Puzzle)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Baral,%20Chief%20of%20Compliance%0A4%09Desperate%20Ritual%0A1%09Empty%20the%20Warrens%0A1%09Fiery%20Islet%0A4%09Gifts%20Ungiven%0A3%09Goblin%20Electromancer%0A2%09Grapeshot%0A2%09Island%0A4%09Manamorphose%0A1%09Mountain%0A4%09Opt%0A2%09Past%20in%20Flames%0A4%09Pyretic%20Ritual%0A3%09Remand%0A1%09Repeal%0A1%09Riverglide%20Pathway%0A4%09Serum%20Visions%0A3%09Shivan%20Reef%0A2%09Silundi%20Vision%0A1%09Snow-Covered%20Island%0A4%09Spirebluff%20Canal%0A4%09Steam%20Vents%0A1%09Valakut%20Awakening&deckside=2%09Abrade%0A1%09Aria%20of%20Flame%0A2%09Empty%20the%20Warrens%0A1%09Flame%20Slash%0A3%09Lightning%20Bolt%0A3%09Mystical%20Dispute%0A3%09Pieces%20of%20the%20Puzzle)
 # Maindeck
 
 |                                             Creature (7)                                              |                                         Instant (27)                                         |                                           Land (17)                                            |                                         Sorcery (9)                                          |
@@ -19,20 +19,26 @@
 
 # Sideboard
 
-|                                     Enchantment (1)                                      |                                         Instant (9)                                         |                                           Sorcery (5)                                           |
+|                                     Enchantment (1)                                      |                                         Instant (8)                                         |                                           Sorcery (6)                                           |
 |------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 |1 [Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)|2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)          |2 [Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)   |
-|                                                                                          |4 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)     |3 [Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|
-|                                                                                          |3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                                 |
+|                                                                                          |3 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)     |1 [Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)         |
+|                                                                                          |3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|3 [Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
-|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    1|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)     |
-|                    2|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)     |                    1|[Shatterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130370)    |
-|                    3|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)     |                    1|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)        |
-|                    1|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)     |                    2|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)        |
-|                     |                                                                                              |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)|
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130) |                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)         |
+|                    1|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)      |                    1|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)            |
+|                    2|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)      |                    2|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)            |
+|                    3|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)      |                    1|[Shatterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130370)        |
+|                    1|[Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)    |
+|                    2|[Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)   |                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|
+|                    2|[Riverglide Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491920)  |                    1|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)       |
+|                    2|[Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|                    1|[Repeal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405357)              |
+|                    4|[Goblin Electromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405244)|                    2|[Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)       |
+|                    4|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)      |                    3|[Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)       |
+|                    3|[Riverglide Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491920)  |                    1|[Perilous Voyage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435219)     |
 

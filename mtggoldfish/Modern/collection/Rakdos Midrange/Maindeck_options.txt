@@ -25,20 +25,20 @@
 1 Snow-Covered Mountain
 2 Snow-Covered Swamp
 1 Savai Triome
-1 Sacred Foundry
-1 Godless Shrine
-1 Batterskull
-1 Lingering Souls
 1 Stoneforge Mystic
-2 Lingering Souls
+1 Batterskull
+1 Godless Shrine
+1 Lingering Souls
+1 Sacred Foundry
 2 Stoneforge Mystic
+2 Lingering Souls
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-1 Shadowspear
-1 Embercleave
-1 Terminate
-1 Graven Cairns
 1 Silent Clearing
+1 Embercleave
+1 Graven Cairns
+1 Terminate
+1 Shadowspear
 1 Plains
 1 Sword of Feast and Famine
 2 Dreadbore
@@ -67,18 +67,10 @@
 1 Ransack the Lab
 2 Wooded Foothills
 2 Batterskull
-1 Kaya's Guile
 1 Sword of Fire and Ice
+1 Kaya's Guile
 2 Sacred Foundry
 3 Lingering Souls
-1 Magus of the Moon
-1 Hazoret the Fervent
-1 Pillage
-2 Magus of the Moon
-2 Pillage
-3 Magus of the Moon
-3 Pillage
-4 Magus of the Moon
 1 Canyon Slough
 1 Murderous Rider
 1 Eliminate
@@ -87,28 +79,36 @@
 3 Snow-Covered Swamp
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
+1 Hazoret the Fervent
+1 Magus of the Moon
+1 Pillage
+2 Magus of the Moon
+2 Pillage
+3 Pillage
+3 Magus of the Moon
+4 Magus of the Moon
 1 Chandra, Heart of Fire
 1 Angrath's Rampage
-1 Ensnaring Bridge
 1 Rakdos Signet
+1 Ensnaring Bridge
 1 Talisman of Indulgence
-2 Castle Locthwain
-2 Chandra, Heart of Fire
 2 Ensnaring Bridge
 2 Talisman of Indulgence
+2 Chandra, Heart of Fire
+2 Castle Locthwain
 3 Chandra, Torch of Defiance
 3 Polluted Delta
 3 Talisman of Indulgence
 4 Chandra, Torch of Defiance
 4 Talisman of Indulgence
 1 Seal of Fire
-1 Lurrus of the Dream-Den
 1 Mishra's Bauble
+1 Lurrus of the Dream-Den
 1 Nihil Spellbomb
-2 Verdant Catacombs
 2 Lurrus of the Dream-Den
 2 Mishra's Bauble
 2 Nihil Spellbomb
+2 Verdant Catacombs
 2 Seal of Fire
 3 Lurrus of the Dream-Den
 3 Mishra's Bauble
