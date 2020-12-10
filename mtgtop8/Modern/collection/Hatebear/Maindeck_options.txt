@@ -1,6 +1,6 @@
-3 Seachrome Coast
-4 Hallowed Fountain
+3 Spell Queller
 4 Seachrome Coast
+4 Hallowed Fountain
 1 Glasspool Mimic
 1 Adarkar Wastes
 2 Glasspool Mimic
@@ -68,8 +68,8 @@
 1 Snow-Covered Plains
 2 Reality Smasher
 2 Snow-Covered Plains
-3 Snow-Covered Plains
 3 Reality Smasher
+3 Snow-Covered Plains
 4 Reality Smasher
 3 Horizon Canopy
 4 Horizon Canopy
@@ -85,10 +85,38 @@
 1 Akroma, Angel of Fury
 3 Shefet Dunes
 4 Shefet Dunes
+1 Pia and Kiran Nalaar
+1 Sacred Foundry
+1 Embercleave
+1 Smuggler's Copter
+1 Angrath's Marauders
+1 Winota, Joiner of Forces
+1 Needleverge Pathway
+1 Seasoned Pyromancer
+1 Mountain
+2 Pia and Kiran Nalaar
+2 Sacred Foundry
+2 Needleverge Pathway
+2 Inspiring Vantage
+2 Angrath's Marauders
+2 Winota, Joiner of Forces
+2 Seasoned Pyromancer
+3 Sacred Foundry
+3 Needleverge Pathway
+3 Inspiring Vantage
+3 Angrath's Marauders
+3 Winota, Joiner of Forces
+3 Seasoned Pyromancer
+4 Angrath's Marauders
+4 Needleverge Pathway
+4 Sacred Foundry
+4 Winota, Joiner of Forces
+4 Inspiring Vantage
+4 Seasoned Pyromancer
 1 Brightclimb Pathway
 1 Tectonic Edge
-1 Concealed Courtyard
 1 Tidehollow Sculler
+1 Concealed Courtyard
 1 Swamp
 1 Caves of Koilos
 1 Wasteland Strangler
@@ -108,34 +136,6 @@
 4 Wasteland Strangler
 4 Concealed Courtyard
 4 Caves of Koilos
-1 Smuggler's Copter
-1 Pia and Kiran Nalaar
-1 Embercleave
-1 Sacred Foundry
-1 Angrath's Marauders
-1 Winota, Joiner of Forces
-1 Needleverge Pathway
-1 Seasoned Pyromancer
-1 Mountain
-2 Pia and Kiran Nalaar
-2 Sacred Foundry
-2 Needleverge Pathway
-2 Angrath's Marauders
-2 Winota, Joiner of Forces
-2 Seasoned Pyromancer
-2 Inspiring Vantage
-3 Sacred Foundry
-3 Needleverge Pathway
-3 Angrath's Marauders
-3 Winota, Joiner of Forces
-3 Inspiring Vantage
-3 Seasoned Pyromancer
-4 Sacred Foundry
-4 Angrath's Marauders
-4 Winota, Joiner of Forces
-4 Needleverge Pathway
-4 Seasoned Pyromancer
-4 Inspiring Vantage
 1 Flagstones of Trokair
 3 Skyclave Cleric
 4 Snow-Covered Plains
@@ -144,11 +144,11 @@
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
-1 Linvala, Keeper of Silence
 1 Scavenger Grounds
+1 Linvala, Keeper of Silence
 1 Ethersworn Canonist
-2 Ethersworn Canonist
 2 Spellskite
+2 Ethersworn Canonist
 3 Ethersworn Canonist
 1 Unsettled Mariner
 1 Spirit of the Labyrinth
@@ -157,14 +157,14 @@
 1 Waterlogged Grove
 2 Unsettled Mariner
 2 Spirit of the Labyrinth
+2 Tale's End
 2 Island
 2 Mausoleum Wanderer
-2 Tale's End
 3 Unsettled Mariner
 3 Island
 1 Bonecrusher Giant
-1 Gemstone Caverns
 1 Containment Priest
+1 Gemstone Caverns
 1 Simian Spirit Guide
 1 Chalice of the Void
 2 Bonecrusher Giant
@@ -181,9 +181,9 @@
 4 Simian Spirit Guide
 1 Branchloft Pathway
 1 Razorverge Thicket
-1 Temple Garden
 1 Aven Mindcensor
 1 Noble Hierarch
+1 Temple Garden
 1 Forest
 2 Temple Garden
 2 Branchloft Pathway
@@ -194,6 +194,6 @@
 3 Razorverge Thicket
 3 Temple Garden
 3 Noble Hierarch
-4 Razorverge Thicket
 4 Temple Garden
+4 Razorverge Thicket
 4 Noble Hierarch

@@ -23,16 +23,16 @@
 4 Castle Locthwain
 2 Hagra Mauling
 1 Hateful Eidolon
-1 Dead Weight
 1 Mire's Grasp
+1 Dead Weight
 2 Hateful Eidolon
 2 Mire's Grasp
 2 Dead Weight
 3 Hateful Eidolon
 3 Dead Weight
 3 Mire's Grasp
-4 Hateful Eidolon
 4 Dead Weight
+4 Hateful Eidolon
 4 Mire's Grasp
 21 Swamp
 1 Crawling Barrens
@@ -43,8 +43,8 @@
 3 Fiend Artisan
 1 Inscription of Ruin
 1 Heraldic Banner
-1 Blackbloom Rogue
 1 Hunted Nightmare
+1 Blackbloom Rogue
 1 Whisper Squad
 2 Inscription of Ruin
 2 Heraldic Banner
@@ -56,14 +56,14 @@
 3 Hunted Nightmare
 4 Whisper Squad
 4 Bloodchief's Thirst
-4 Nightmare Shepherd
 4 Nighthawk Scavenger
+4 Nightmare Shepherd
 1 Elspeth's Nightmare
 3 Heartless Act
-1 Vito, Thorn of the Dusk Rose
 1 Witch's Cottage
-2 Vito, Thorn of the Dusk Rose
+1 Vito, Thorn of the Dusk Rose
 2 Witch's Cottage
+2 Vito, Thorn of the Dusk Rose
 3 Murderous Rider
 3 Nullpriest of Oblivion
 4 Nullpriest of Oblivion
@@ -112,9 +112,9 @@
 1 Aphemia, the Cacophony
 1 Tymaret Calls the Dead
 2 Aphemia, the Cacophony
+2 Demonic Embrace
 2 Crawling Barrens
 2 Tymaret Calls the Dead
-2 Demonic Embrace
 3 Aphemia, the Cacophony
 3 Skyclave Shade
 3 Tymaret Calls the Dead
@@ -122,22 +122,23 @@
 4 Tymaret Calls the Dead
 4 Skyclave Shade
 1 Foulmire Knight
+1 Underworld Dreams
 1 Pharika's Spawn
 1 Mindwrack Harpy
-1 Underworld Dreams
 2 Foulmire Knight
-2 Pharika's Spawn
 2 Underworld Dreams
+2 Pharika's Spawn
 2 Kitesail Freebooter
 3 Foulmire Knight
 3 Underworld Dreams
 3 Kitesail Freebooter
 4 Gray Merchant of Asphodel
-4 Underworld Dreams
 4 Kitesail Freebooter
+4 Underworld Dreams
 22 Swamp
 23 Swamp
 24 Swamp
+1 Unexpected Fangs
 1 Witch's Oven
 1 Silversmote Ghoul
 1 Evolving Wilds
@@ -147,7 +148,6 @@
 1 Jungle Hollow
 1 The Great Henge
 1 Deathless Knight
-1 Unexpected Fangs
 1 Forest
 2 Witch's Oven
 2 Silversmote Ghoul
@@ -158,9 +158,9 @@
 2 Deathless Knight
 2 Forest
 3 Silversmote Ghoul
-3 Deathless Knight
 3 Savvy Hunter
 3 Jungle Hollow
+3 Deathless Knight
 3 Forest
 3 Lampad of Death's Vigil
 4 Silversmote Ghoul

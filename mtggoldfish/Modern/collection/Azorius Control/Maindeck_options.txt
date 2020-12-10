@@ -79,23 +79,23 @@
 1 Noble Hierarch
 1 Snow-Covered Forest
 1 Breeding Pool
-1 Ice-Fang Coatl
 1 Birds of Paradise
+1 Ice-Fang Coatl
 1 Temple Garden
 1 Windswept Heath
 1 Uro, Titan of Nature's Wrath
 2 Noble Hierarch
-2 Ice-Fang Coatl
 2 Windswept Heath
 2 Uro, Titan of Nature's Wrath
 2 Birds of Paradise
+2 Ice-Fang Coatl
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 3 Noble Hierarch
-3 Ice-Fang Coatl
 3 Mana Leak
 3 Windswept Heath
 3 Uro, Titan of Nature's Wrath
+3 Ice-Fang Coatl
 4 Noble Hierarch
 4 Ice-Fang Coatl
 4 Snow-Covered Forest
@@ -137,10 +137,18 @@
 4 Birds of Paradise
 4 Confounding Conundrum
 4 Uro, Titan of Nature's Wrath
-1 Castle Ardenvale
 1 Narset, Parter of Veils
 1 Shatterskull Smashing
 1 Telling Time
+1 Castle Ardenvale
+1 Time Warp
+1 Monastery Mentor
+1 God-Eternal Kefnet
+1 Mazemind Tome
+1 Silundi Vision
+2 Spell Snare
+2 Monastery Mentor
+3 Hallowed Fountain
 1 Fact or Fiction
 1 Emeria's Call
 1 Restoration Angel
@@ -151,14 +159,6 @@
 2 Restoration Angel
 2 Peek
 3 Restoration Angel
-1 Time Warp
-1 Monastery Mentor
-1 God-Eternal Kefnet
-1 Mazemind Tome
-1 Silundi Vision
-2 Spell Snare
-2 Monastery Mentor
-3 Hallowed Fountain
 3 Glacial Fortress
 1 Crucible of Worlds
 1 Jwari Disruption
