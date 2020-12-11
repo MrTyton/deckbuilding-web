@@ -49,6 +49,6 @@
 |                    4|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)            |                    3|[Magmatic Channeler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491789)    |
 |                   15|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                 |                    4|[Magmatic Channeler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491789)    |
 |                   16|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                 |                    3|[Soul Sear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485483)             |
-|                     |                                                                                                    |                    3|[Storm's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476408)         |
 |                     |                                                                                                    |                    4|[Soul Sear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485483)             |
+|                     |                                                                                                    |                    3|[Storm's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476408)         |
 

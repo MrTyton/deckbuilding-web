@@ -1,8 +1,8 @@
-1 Mountain
-2 Shredded Sails
 1 Savai Triome
 3 Shredded Sails
 2 Raugrin Triome
+2 Frostveil Ambush
+3 Frostveil Ambush
 2 Clearwater Pathway
 3 Clearwater Pathway
 4 Clearwater Pathway
@@ -31,10 +31,10 @@
 3 Shatterskull Smashing
 3 Neutralize
 3 Mountain
+1 Easy Prey
 4 Mountain
 5 Plains
 6 Plains
-1 Easy Prey
 3 Raugrin Triome
 5 Mountain
 6 Mountain
@@ -58,15 +58,18 @@
 11 Plains
 1 Reptilian Reflection
 9 Mountain
+1 Sejiri Shelter
+1 Branchloft Pathway
+1 Spikefield Hazard
+2 Spikefield Hazard
 1 Emeria's Call
 2 Emeria's Call
-1 Branchloft Pathway
 3 Emeria's Call
 1 Temple of Triumph
 1 Temple of Epiphany
 1 Temple of Silence
-2 Temple of Silence
 2 Temple of Triumph
+2 Temple of Silence
 2 Temple of Epiphany
 3 Temple of Triumph
 3 Temple of Epiphany
@@ -78,11 +81,8 @@
 3 Jwari Disruption
 4 Jwari Disruption
 4 Shatterskull Smashing
-1 Sejiri Shelter
 1 Raking Claws
 1 Coordinated Charge
-1 Spikefield Hazard
-2 Spikefield Hazard
 3 Spikefield Hazard
 4 Spikefield Hazard
 4 Neutralize
@@ -91,16 +91,31 @@
 2 Imposing Vantasaur
 3 Reptilian Reflection
 4 Reptilian Reflection
+1 Klothys, God of Destiny
+1 Titanoth Rex
+1 Bala Ged Recovery
+1 Feat of Resistance
 1 Cragcrown Pathway
-1 Jolrael, Mwonvuli Recluse
+1 Splendor Mare
+1 Wilt
+1 Forest
+2 Klothys, God of Destiny
+2 Sejiri Shelter
+2 Wilt
 2 Cragcrown Pathway
-2 Jolrael, Mwonvuli Recluse
 2 Branchloft Pathway
+2 Titanoth Rex
+2 Splendor Mare
+2 Feat of Resistance
+3 Sejiri Shelter
+3 Wilt
+3 Klothys, God of Destiny
 3 Branchloft Pathway
-3 Jolrael, Mwonvuli Recluse
+3 Feat of Resistance
 3 Cragcrown Pathway
+4 Sejiri Shelter
+4 Feat of Resistance
 4 Cragcrown Pathway
-4 Branchloft Pathway
 1 Pacifism
 1 Shock
 2 Shock

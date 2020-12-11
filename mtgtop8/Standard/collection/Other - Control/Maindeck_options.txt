@@ -89,6 +89,25 @@
 3 Elder Gargaroth
 3 Yasharn, Implacable Earth
 4 Duress
+1 Wolfwillow Haven
+1 Shadows' Verdict
+1 Cultivate
+1 Felidar Retreat
+1 Erebos's Intervention
+2 Bala Ged Recovery
+2 Wolfwillow Haven
+2 Cultivate
+2 Erebos's Intervention
+3 Bala Ged Recovery
+3 Wolfwillow Haven
+3 Garruk, Cursed Huntsman
+3 Cultivate
+3 Emeria's Call
+3 Erebos's Intervention
+4 Emeria's Call
+4 Garruk, Cursed Huntsman
+4 Wolfwillow Haven
+4 Erebos's Intervention
 1 The Birth of Meletis
 2 The Birth of Meletis
 3 The Birth of Meletis
@@ -135,25 +154,6 @@
 4 Fire Prophecy
 4 Harmonious Archon
 4 Mountain
-1 Wolfwillow Haven
-1 Shadows' Verdict
-1 Felidar Retreat
-1 Cultivate
-1 Erebos's Intervention
-2 Bala Ged Recovery
-2 Wolfwillow Haven
-2 Erebos's Intervention
-2 Cultivate
-3 Bala Ged Recovery
-3 Garruk, Cursed Huntsman
-3 Wolfwillow Haven
-3 Emeria's Call
-3 Cultivate
-3 Erebos's Intervention
-4 Emeria's Call
-4 Wolfwillow Haven
-4 Erebos's Intervention
-4 Garruk, Cursed Huntsman
 1 Island
 2 Island
 1 Unknown Shores
@@ -179,25 +179,24 @@
 3 Radiant Fountain
 3 Forsaken Monument
 4 Solemn Simulacrum
-4 Radiant Fountain
 4 Sleeper Dart
 4 Crawling Barrens
 4 Forsaken Monument
+4 Radiant Fountain
 4 Unknown Shores
 6 Plains
 7 Plains
 8 Plains
-1 Rain of Revelation
 1 Jwari Disruption
 1 Lofty Denial
 1 Silundi Vision
+1 Rain of Revelation
 1 Rewind
 1 Mystic Sanctuary
 1 Frantic Inventory
 1 Sublime Epiphany
 1 Gadwick, the Wizened
 1 Neutralize
-1 Into the Roil
 1 Brazen Borrower
 1 Essence Scatter
 1 Kiora Bests the Sea God
@@ -205,18 +204,19 @@
 1 Bonders' Enclave
 1 Shark Typhoon
 1 Castle Vantress
+1 Into the Roil
 2 Castle Vantress
 2 Gadwick, the Wizened
-2 Rain of Revelation
 2 Lofty Denial
 2 Brazen Borrower
+2 Rain of Revelation
 2 Rewind
 2 Frantic Inventory
 2 Neutralize
-2 Into the Roil
 2 Essence Scatter
 2 Shark Typhoon
 2 Hypnotic Sprite
+2 Into the Roil
 3 Neutralize
 3 Brazen Borrower
 3 Rewind
@@ -237,7 +237,6 @@
 8 Island
 9 Island
 10 Island
-11 Island
 12 Island
 13 Island
 14 Island
@@ -245,3 +244,4 @@
 16 Island
 17 Island
 18 Island
+11 Island

@@ -14,16 +14,16 @@
 1 Storm's Wrath
 1 The Akroan War
 3 Shredded Sails
-1 Yidaro, Wandering Monster
-2 Yidaro, Wandering Monster
-3 Yidaro, Wandering Monster
-4 Yidaro, Wandering Monster
 1 Improbable Alliance
 1 Easy Prey
+1 Yidaro, Wandering Monster
 2 Improbable Alliance
 2 Easy Prey
+2 Yidaro, Wandering Monster
 3 Improbable Alliance
+3 Yidaro, Wandering Monster
 3 Negate
+4 Yidaro, Wandering Monster
 3 Extinction Event
 1 Glass Casket
 2 Glass Casket
@@ -40,19 +40,12 @@
 1 Hushbringer
 2 Hushbringer
 3 Hushbringer
-1 Thundering Rebuke
-1 Magmatic Channeler
-1 Zirda, the Dawnwaker
-2 Thundering Rebuke
-2 Magmatic Channeler
-3 Magmatic Channeler
-3 Thundering Rebuke
-1 Divine Arrow
 1 Kabira Takedown
+1 Divine Arrow
 1 Pressure Point
-2 Divine Arrow
 2 Kabira Takedown
 2 Pressure Point
+2 Divine Arrow
 3 Kabira Takedown
 3 Divine Arrow
 4 Kabira Takedown
@@ -67,7 +60,20 @@
 1 Duress
 2 Duress
 3 Duress
+4 Duress
+1 Containment Priest
+1 Lavabrink Venturer
+1 Yasharn, Implacable Earth
+1 Once and Future
+2 Containment Priest
+2 Lavabrink Venturer
+2 Yasharn, Implacable Earth
+2 Once and Future
+3 Lavabrink Venturer
+3 Containment Priest
+3 Yasharn, Implacable Earth
+4 Containment Priest
 1 Scorching Dragonfire
 2 Scorching Dragonfire
 2 Lurrus of the Dream-Den
-4 Duress
+4 Lavabrink Venturer
