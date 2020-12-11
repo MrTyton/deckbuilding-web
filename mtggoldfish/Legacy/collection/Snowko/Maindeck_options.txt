@@ -1,15 +1,14 @@
-1 Jace, the Mind Sculptor
-3 Abrupt Decay
-1 Snow-Covered Mountain
-1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
-3 Snow-Covered Island
+3 Prismatic Vista
 1 Lightning Bolt
 2 Lightning Bolt
 2 Volcanic Island
+1 Flooded Strand
+3 Snow-Covered Island
+1 Jace, the Mind Sculptor
+3 Abrupt Decay
 1 Wasteland
-1 Assassin's Trophy
 2 Wasteland
 3 Wasteland
 4 Wasteland
@@ -24,48 +23,48 @@
 3 Dreadhorde Arcanist
 3 Lightning Bolt
 4 Lightning Bolt
-1 Hullbreacher
+1 Assassin's Trophy
 1 Bayou
 1 Green Sun's Zenith
 1 Dryad Arbor
 2 Green Sun's Zenith
-1 Cling to Dust
+1 Spell Pierce
+2 Preordain
 3 Stifle
+1 Cling to Dust
+1 Hullbreacher
 3 Green Sun's Zenith
 4 Green Sun's Zenith
 3 Polluted Delta
 4 Abrupt Decay
-1 Plague Engineer
-2 Plague Engineer
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
 1 Veil of Summer
 1 Red Elemental Blast
 1 Pyroblast
 1 Painter's Servant
 1 Grindstone
-2 Pyroblast
 2 Veil of Summer
 2 Red Elemental Blast
+2 Pyroblast
 2 Painter's Servant
 2 Grindstone
 3 Pyroblast
-3 Grindstone
 3 Red Elemental Blast
+3 Grindstone
 3 Painter's Servant
 4 Scalding Tarn
 4 Painter's Servant
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-2 Preordain
-1 Spell Pierce
 1 Scavenging Ooze
 2 Hullbreacher
+1 Plague Engineer
+2 Plague Engineer
 2 Leovold, Emissary of Trest
 1 Verdant Catacombs
 2 Verdant Catacombs
 3 Verdant Catacombs
 4 Uro, Titan of Nature's Wrath
 4 Prismatic Vista
-2 Flooded Strand
 2 Assassin's Trophy
 1 Noble Hierarch
 1 Opposition Agent
@@ -76,6 +75,7 @@
 1 Omnath, Locus of Creation
 1 Savannah
 1 Knight of the Reliquary
+2 Flooded Strand
 1 Wooded Foothills
 4 Stifle
 1 Fatal Push
@@ -90,8 +90,8 @@
 1 Thoughtseize
 2 Jace, the Mind Sculptor
 2 Snow-Covered Swamp
-1 Waterlogged Grove
 1 Elvish Reclaimer
+1 Waterlogged Grove
 1 Courser of Kruphix
 1 Knight of Autumn
 4 Polluted Delta
@@ -129,26 +129,27 @@
 2 Gurmag Angler
 1 Chain Lightning
 2 Chain Lightning
-1 Field of Ruin
 1 Drown in the Loch
+1 Field of Ruin
 2 Drown in the Loch
 3 Opposition Agent
 3 Drown in the Loch
 3 Plague Engineer
 4 Plague Engineer
+4 Dreadhorde Arcanist
 1 Village Rites
-1 Tireless Tracker
 1 Phyrexian Tower
 1 Liliana, the Last Hope
 1 Titania, Protector of Argoth
 1 Confounding Conundrum
 1 Dark Confidant
 1 Veteran Explorer
+1 Tireless Tracker
 1 Pernicious Deed
 1 Cabal Therapy
 2 Village Rites
-2 Liliana, the Last Hope
 2 Confounding Conundrum
+2 Liliana, the Last Hope
 2 Pernicious Deed
 2 Thoughtseize
 2 Dark Confidant

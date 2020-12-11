@@ -162,7 +162,7 @@
 |                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)               |                     |                                                                                                   |
 |                    4|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)              |                     |                                                                                                   |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)               |                     |                                                                                                   |
-|                   14|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                       |                     |                                                                                                   |
 |                   11|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)          |                     |                                                                                                   |
 |                   12|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)          |                     |                                                                                                   |
+|                   14|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                       |                     |                                                                                                   |
 

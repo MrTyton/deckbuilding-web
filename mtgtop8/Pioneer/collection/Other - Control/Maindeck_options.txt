@@ -1,18 +1,18 @@
 1 Castle Vantress
 1 Ashiok, Nightmare Muse
 1 Watery Grave
-1 Thoughtseize
 1 Swamp
-1 Drowned Catacomb
 1 Fatal Push
+1 Thoughtseize
+1 Drowned Catacomb
+2 Swamp
 2 Watery Grave
-2 Drowned Catacomb
 2 Fatal Push
 2 Thoughtseize
-2 Swamp
+2 Drowned Catacomb
+3 Thoughtseize
 3 Fatal Push
 3 Drowned Catacomb
-3 Thoughtseize
 3 Watery Grave
 4 Drowned Catacomb
 4 Thoughtseize
@@ -23,9 +23,9 @@
 4 Narset, Parter of Veils
 1 Fetid Pools
 1 Geier Reach Sanitarium
+1 Kalitas, Traitor of Ghet
 1 Heartless Act
 1 Day's Undoing
-1 Kalitas, Traitor of Ghet
 1 Opt
 1 Dig Through Time
 2 Fetid Pools
@@ -58,8 +58,8 @@
 1 Lukka, Coppercoat Outcast
 1 Riverglide Pathway
 1 Gideon of the Trials
-1 Omen of the Sea
 1 Omen of the Sun
+1 Omen of the Sea
 1 Detention Sphere
 1 Transmogrify
 1 Glacial Fortress
@@ -196,18 +196,18 @@
 4 Uro, Titan of Nature's Wrath
 1 Kolaghan's Command
 1 Collective Brutality
+1 Blood Crypt
 1 Dragonskull Summit
 1 Davriel, Rogue Shadowmage
-1 Blood Crypt
 1 Liliana, Waker of the Dead
 1 Thought Erasure
 1 Nicol Bolas, the Ravager
 1 Kroxa, Titan of Death's Hunger
 2 Collective Brutality
 2 Davriel, Rogue Shadowmage
-2 Blood Crypt
 2 Liliana, Waker of the Dead
 2 Kolaghan's Command
+2 Blood Crypt
 2 Nicol Bolas, the Ravager
 2 Thought Erasure
 2 Kroxa, Titan of Death's Hunger
@@ -218,9 +218,9 @@
 3 Nicol Bolas, the Ravager
 3 Thought Erasure
 4 Thought Erasure
+4 Fatal Push
 4 Liliana, Waker of the Dead
 4 Kroxa, Titan of Death's Hunger
-4 Fatal Push
 4 Nicol Bolas, the Ravager
 4 Davriel, Rogue Shadowmage
 1 Negate

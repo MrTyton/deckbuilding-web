@@ -91,8 +91,8 @@
 3 Primeval Titan
 4 Primeval Titan
 2 Forest
-1 Ghost Quarter
 1 Radiant Fountain
+1 Ghost Quarter
 1 Dryad of the Ilysian Grove
 1 Azusa, Lost but Seeking
 1 Arboreal Grazer
@@ -142,12 +142,7 @@
 3 Jwari Disruption
 3 Breeding Pool
 3 Abundant Growth
-1 Sakura-Tribe Scout
-2 Turntimber Symbiosis
-2 Sakura-Tribe Scout
-3 Turntimber Symbiosis
-3 Castle Garenbrig
-4 Castle Garenbrig
+4 Opt
 1 Primal Command
 1 Gemstone Mine
 3 Arboreal Grazer
@@ -164,36 +159,15 @@
 2 Fires of Invention
 2 Narset, Parter of Veils
 2 Serum Visions
-3 Mystic Sanctuary
 3 Serum Visions
+3 Mystic Sanctuary
 3 Savor the Moment
 3 Fires of Invention
-4 Mystic Sanctuary
 4 Fires of Invention
 4 Wrenn and Six
 4 Serum Visions
 4 Savor the Moment
-4 Opt
-1 Bloodstained Mire
-1 Engineered Explosives
-1 Sakura-Tribe Elder
-2 Engineered Explosives
-2 Bloodstained Mire
-2 Mountain
-2 Sakura-Tribe Elder
-3 Bloodstained Mire
-3 Mountain
-3 Valakut, the Molten Pinnacle
-3 Izzet Charm
-3 Sakura-Tribe Elder
-4 Wooded Foothills
-4 Bloodstained Mire
-4 Mountain
-4 Sakura-Tribe Elder
-4 Valakut, the Molten Pinnacle
-4 Stomping Ground
-4 Izzet Charm
-5 Mountain
+4 Mystic Sanctuary
 1 Birds of Paradise
 1 Noble Hierarch
 1 Bloodbraid Elf
@@ -221,3 +195,29 @@
 4 Tarmogoyf
 4 Snow-Covered Forest
 4 Blood Moon
+1 Bloodstained Mire
+1 Engineered Explosives
+1 Sakura-Tribe Elder
+2 Engineered Explosives
+2 Bloodstained Mire
+2 Mountain
+2 Sakura-Tribe Elder
+3 Bloodstained Mire
+3 Mountain
+3 Valakut, the Molten Pinnacle
+3 Izzet Charm
+3 Sakura-Tribe Elder
+4 Bloodstained Mire
+4 Mountain
+4 Sakura-Tribe Elder
+4 Valakut, the Molten Pinnacle
+4 Stomping Ground
+4 Izzet Charm
+4 Wooded Foothills
+5 Mountain
+1 Sakura-Tribe Scout
+2 Turntimber Symbiosis
+2 Sakura-Tribe Scout
+3 Turntimber Symbiosis
+3 Castle Garenbrig
+4 Castle Garenbrig

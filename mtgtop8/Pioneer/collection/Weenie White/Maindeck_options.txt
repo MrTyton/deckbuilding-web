@@ -17,6 +17,8 @@
 3 Elspeth Conquers Death
 1 Reflector Mage
 2 Reflector Mage
+1 Skyclave Apparition
+2 Skyclave Apparition
 1 Giant Killer
 1 Thalia's Lieutenant
 1 Kytheon, Hero of Akros
@@ -29,6 +31,7 @@
 1 Concealed Courtyard
 1 Brightclimb Pathway
 1 Shefet Dunes
+1 Venerated Loxodon
 1 Brave the Elements
 1 Dauntless Bodyguard
 1 Soldier of the Pantheon
@@ -36,44 +39,35 @@
 2 Kytheon, Hero of Akros
 2 Concealed Courtyard
 2 Caves of Koilos
+2 Venerated Loxodon
 2 Brightclimb Pathway
 2 Thalia's Lieutenant
 2 Brave the Elements
 2 Luminarch Aspirant
-2 Soldier of the Pantheon
 2 General Kudro of Drannith
 2 Shefet Dunes
 2 Legion's Landing
+2 Soldier of the Pantheon
 2 Dauntless Bodyguard
 2 Godless Shrine
 3 Concealed Courtyard
 3 Dauntless Bodyguard
+3 Venerated Loxodon
+3 Brave the Elements
 3 Godless Shrine
 3 Soldier of the Pantheon
 3 Caves of Koilos
-3 Brave the Elements
 3 Thalia's Lieutenant
 3 Luminarch Aspirant
 3 General Kudro of Drannith
 4 Dauntless Bodyguard
 4 Godless Shrine
 4 Soldier of the Pantheon
+4 Venerated Loxodon
 4 Concealed Courtyard
 4 Thalia's Lieutenant
 4 Caves of Koilos
 4 Brave the Elements
-1 Skyclave Apparition
-2 Skyclave Apparition
-1 Venerated Loxodon
-2 Venerated Loxodon
-3 Venerated Loxodon
-4 Venerated Loxodon
-1 Boros Elite
-2 Boros Elite
-3 Boros Elite
-3 Brightclimb Pathway
-4 Brightclimb Pathway
-4 Boros Elite
 1 Thassa, Deep-Dwelling
 2 Thassa, Deep-Dwelling
 3 Detention Sphere
@@ -94,18 +88,20 @@
 1 Liliana, Heretical Healer
 2 Kitesail Freebooter
 3 Kitesail Freebooter
-1 Mardu Woe-Reaper
-1 Benalish Marshal
-2 Benalish Marshal
-4 Luminarch Aspirant
+1 Boros Elite
+2 Boros Elite
+3 Boros Elite
+3 Brightclimb Pathway
+4 Brightclimb Pathway
+4 Boros Elite
 1 Archangel of Thune
 1 Linden, the Steadfast Queen
 1 Ajani's Pridemate
 1 Leonin Vanguard
-2 Idyllic Grange
 2 Ajani's Pridemate
 2 Linden, the Steadfast Queen
 2 Archangel of Thune
+2 Idyllic Grange
 2 Leonin Vanguard
 3 Ajani's Pridemate
 3 Skyclave Apparition
@@ -126,9 +122,9 @@
 2 Emeria's Call
 2 Resplendent Angel
 2 Angel of Vitality
-2 Archangel Avacyn
 2 Bishop of Wings
 2 Shalai, Voice of Plenty
+2 Archangel Avacyn
 2 Lyra Dawnbringer
 3 Emeria's Call
 3 Speaker of the Heavens
