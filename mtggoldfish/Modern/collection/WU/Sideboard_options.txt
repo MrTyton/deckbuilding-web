@@ -5,8 +5,8 @@
 1 Ashiok, Dream Render
 3 Burrenton Forge-Tender
 4 Burrenton Forge-Tender
-1 Mystical Dispute
 3 Aether Gust
+1 Mystical Dispute
 2 Ashiok, Dream Render
 2 Dovin's Veto
 1 Monastery Mentor
@@ -44,6 +44,7 @@
 2 Oust
 1 Dispel
 1 Condemn
+2 Dispel
 1 Flusterstorm
 1 Sword of Light and Shadow
 3 Tormod's Crypt
@@ -53,7 +54,6 @@
 1 Disdainful Stroke
 1 Surgical Extraction
 2 Surgical Extraction
-2 Dispel
 1 Torpor Orb
 1 Supreme Verdict
 1 Teferi, Hero of Dominaria
@@ -82,16 +82,26 @@
 1 Stony Silence
 2 Stony Silence
 2 Disdainful Stroke
-1 Alpine Moon
-2 Alpine Moon
 1 Kor Firewalker
 2 Kor Firewalker
+1 Alpine Moon
+2 Alpine Moon
 2 Torpor Orb
 1 Eight-and-a-Half-Tails
 2 Eight-and-a-Half-Tails
 1 Narset, Parter of Veils
 1 Leyline of Sanctity
 2 Leyline of Sanctity
+1 Tale's End
+1 Aven Mindcensor
+1 Batterskull
+1 Cleansing Wildfire
+2 Tale's End
+2 Aven Mindcensor
+2 Cleansing Wildfire
+3 Cleansing Wildfire
+3 Aven Mindcensor
+4 Cleansing Wildfire
 1 Force of Negation
 1 Skyclave Apparition
 1 Blood Moon

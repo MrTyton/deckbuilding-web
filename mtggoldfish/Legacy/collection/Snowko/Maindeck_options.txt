@@ -1,12 +1,12 @@
 2 Scalding Tarn
 3 Scalding Tarn
-1 Flooded Strand
-2 Tropical Island
-3 Snow-Covered Island
 1 Lightning Bolt
 2 Lightning Bolt
 2 Volcanic Island
+3 Snow-Covered Island
+1 Flooded Strand
 3 Prismatic Vista
+2 Tropical Island
 1 Wasteland
 2 Wasteland
 3 Wasteland
@@ -23,10 +23,10 @@
 3 Dreadhorde Arcanist
 3 Lightning Bolt
 4 Lightning Bolt
-2 Preordain
 1 Hullbreacher
 1 Bayou
 1 Spell Pierce
+2 Preordain
 3 Stifle
 4 Abrupt Decay
 1 Cling to Dust
@@ -42,6 +42,22 @@
 3 Verdant Catacombs
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
+1 Veil of Summer
+1 Red Elemental Blast
+1 Pyroblast
+1 Painter's Servant
+1 Grindstone
+2 Veil of Summer
+2 Red Elemental Blast
+2 Pyroblast
+2 Painter's Servant
+2 Grindstone
+3 Pyroblast
+3 Red Elemental Blast
+3 Grindstone
+3 Painter's Servant
+4 Scalding Tarn
+4 Painter's Servant
 1 Scavenging Ooze
 1 Plague Engineer
 2 Plague Engineer
@@ -50,22 +66,6 @@
 2 Noble Hierarch
 3 Noble Hierarch
 4 Prismatic Vista
-1 Veil of Summer
-2 Veil of Summer
-1 Red Elemental Blast
-1 Pyroblast
-1 Painter's Servant
-1 Grindstone
-2 Pyroblast
-2 Red Elemental Blast
-2 Painter's Servant
-2 Grindstone
-3 Pyroblast
-3 Grindstone
-3 Red Elemental Blast
-3 Painter's Servant
-4 Scalding Tarn
-4 Painter's Servant
 2 Flooded Strand
 1 Opposition Agent
 2 Leovold, Emissary of Trest
@@ -75,6 +75,7 @@
 4 Uro, Titan of Nature's Wrath
 4 Oko, Thief of Crowns
 3 Force of Negation
+1 Wooded Foothills
 4 Stifle
 1 Fatal Push
 1 Gilded Goose
@@ -86,7 +87,6 @@
 2 Assassin's Trophy
 3 Assassin's Trophy
 4 Verdant Catacombs
-1 Mystic Sanctuary
 1 Thoughtseize
 2 Jace, the Mind Sculptor
 2 Snow-Covered Swamp
@@ -112,7 +112,6 @@
 3 Punishing Fire
 3 Knight of the Reliquary
 4 Knight of the Reliquary
-1 Wooded Foothills
 1 Sevinne's Reclamation
 1 Monastery Mentor
 1 Steam Vents
@@ -130,6 +129,7 @@
 2 Drown in the Loch
 3 Opposition Agent
 3 Drown in the Loch
+1 Mystic Sanctuary
 1 Path to Exile
 1 Carpet of Flowers
 1 Archmage's Charm
@@ -141,35 +141,12 @@
 4 Noble Hierarch
 4 Daze
 4 Dreadhorde Arcanist
-1 Eureka
-1 Drawn from Dreams
-1 Impulse
-1 Show and Tell
-1 Cunning Wish
-1 Omniscience
-1 Emrakul, the Aeons Torn
-1 Griselbrand
-1 Brazen Borrower
-1 City of Traitors
-2 Impulse
-2 Show and Tell
-2 Emrakul, the Aeons Torn
-2 Cunning Wish
-2 Omniscience
-2 City of Traitors
-3 Omniscience
-3 Cunning Wish
-3 Show and Tell
-4 Snow-Covered Island
-4 Show and Tell
-4 Omniscience
-5 Snow-Covered Island
 1 Village Rites
 1 Tireless Tracker
 1 Phyrexian Tower
 1 Liliana, the Last Hope
-1 Titania, Protector of Argoth
 1 Confounding Conundrum
+1 Titania, Protector of Argoth
 1 Dark Confidant
 1 Veteran Explorer
 1 Pernicious Deed
@@ -178,11 +155,11 @@
 2 Confounding Conundrum
 2 Liliana, the Last Hope
 2 Dark Confidant
-2 Veteran Explorer
 2 Pernicious Deed
 2 Thoughtseize
 2 Bayou
 2 Cabal Therapy
+2 Veteran Explorer
 3 Veteran Explorer
 3 Snow-Covered Swamp
 3 Cabal Therapy

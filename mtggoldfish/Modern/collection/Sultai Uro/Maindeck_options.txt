@@ -44,21 +44,21 @@
 3 Island
 2 Verdant Catacombs
 3 Verdant Catacombs
-1 Silversmote Ghoul
 1 Prized Amalgam
 1 Creeping Chill
-1 Merfolk Secretkeeper
 1 Stitcher's Supplier
 1 Glimpse the Unthinkable
 1 Gravecrawler
 1 Narcomoeba
 1 Hedron Crab
 1 Vengevine
-2 Silversmote Ghoul
+1 Merfolk Secretkeeper
+1 Silversmote Ghoul
 2 Creeping Chill
 2 Prized Amalgam
-2 Merfolk Secretkeeper
+2 Silversmote Ghoul
 2 Overgrown Tomb
+2 Merfolk Secretkeeper
 2 Gravecrawler
 2 Stitcher's Supplier
 2 Vengevine
@@ -77,11 +77,11 @@
 3 Stitcher's Supplier
 3 Gravecrawler
 4 Creeping Chill
-4 Merfolk Secretkeeper
 4 Verdant Catacombs
 4 Hedron Crab
 4 Stitcher's Supplier
 4 Glimpse the Unthinkable
+4 Merfolk Secretkeeper
 4 Vengevine
 1 Ice-Fang Coatl
 1 Wilderness Reclamation
@@ -110,8 +110,8 @@
 1 Life from the Loam
 1 Blooming Marsh
 1 Waterlogged Grove
-1 Vesuva
 1 Blast Zone
+1 Vesuva
 1 Prismatic Vista
 1 Deprive
 1 Dismember

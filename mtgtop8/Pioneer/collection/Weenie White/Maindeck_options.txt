@@ -19,15 +19,15 @@
 2 Reflector Mage
 1 Skyclave Apparition
 2 Skyclave Apparition
-1 Giant Killer
-1 Thalia's Lieutenant
 1 Kytheon, Hero of Akros
+1 Giant Killer
+1 Luminarch Aspirant
+1 Dire Tactics
+1 Thalia's Lieutenant
 1 General Kudro of Drannith
 1 Godless Shrine
-1 Dire Tactics
 1 Caves of Koilos
 1 Legion's Landing
-1 Luminarch Aspirant
 1 Concealed Courtyard
 1 Brightclimb Pathway
 1 Shefet Dunes
@@ -37,19 +37,20 @@
 1 Soldier of the Pantheon
 2 Giant Killer
 2 Kytheon, Hero of Akros
+2 Luminarch Aspirant
 2 Concealed Courtyard
 2 Caves of Koilos
 2 Venerated Loxodon
 2 Brightclimb Pathway
 2 Thalia's Lieutenant
 2 Brave the Elements
-2 Luminarch Aspirant
 2 General Kudro of Drannith
 2 Shefet Dunes
 2 Legion's Landing
 2 Soldier of the Pantheon
 2 Dauntless Bodyguard
 2 Godless Shrine
+3 Luminarch Aspirant
 3 Concealed Courtyard
 3 Dauntless Bodyguard
 3 Venerated Loxodon
@@ -58,7 +59,6 @@
 3 Soldier of the Pantheon
 3 Caves of Koilos
 3 Thalia's Lieutenant
-3 Luminarch Aspirant
 3 General Kudro of Drannith
 4 Dauntless Bodyguard
 4 Godless Shrine
@@ -94,9 +94,9 @@
 3 Brightclimb Pathway
 4 Brightclimb Pathway
 4 Boros Elite
-1 Archangel of Thune
 1 Linden, the Steadfast Queen
 1 Ajani's Pridemate
+1 Archangel of Thune
 1 Leonin Vanguard
 2 Linden, the Steadfast Queen
 2 Ajani's Pridemate
@@ -109,10 +109,10 @@
 4 Ajani's Pridemate
 4 Stasis Snare
 4 Leonin Vanguard
+1 Sejiri Shelter
 1 Emeria's Call
 1 Legion Angel
 1 Lyra Dawnbringer
-1 Sejiri Shelter
 1 Archangel Avacyn
 1 Resplendent Angel
 1 Bishop of Wings
@@ -135,5 +135,5 @@
 3 Bishop of Wings
 4 Resplendent Angel
 4 Speaker of the Heavens
-18 Plains
 4 Bishop of Wings
+18 Plains
