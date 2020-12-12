@@ -1,107 +1,104 @@
 2 Scalding Tarn
 3 Scalding Tarn
-3 Prismatic Vista
+1 Flooded Strand
+2 Tropical Island
+3 Snow-Covered Island
 1 Lightning Bolt
 2 Lightning Bolt
 2 Volcanic Island
-1 Flooded Strand
-3 Snow-Covered Island
-1 Jace, the Mind Sculptor
-3 Abrupt Decay
+3 Prismatic Vista
 1 Wasteland
 2 Wasteland
 3 Wasteland
 4 Wasteland
-2 Tropical Island
+1 Jace, the Mind Sculptor
+3 Abrupt Decay
+1 Daze
+2 Daze
 1 Preordain
 1 Stifle
 1 Dreadhorde Arcanist
-1 Daze
 2 Stifle
 2 Dreadhorde Arcanist
-2 Daze
-3 Lightning Bolt
 3 Dreadhorde Arcanist
+3 Lightning Bolt
 4 Lightning Bolt
-1 Assassin's Trophy
+2 Preordain
+1 Hullbreacher
 1 Bayou
+1 Spell Pierce
+3 Stifle
+4 Abrupt Decay
+1 Cling to Dust
+1 Assassin's Trophy
 1 Green Sun's Zenith
 1 Dryad Arbor
 2 Green Sun's Zenith
-1 Spell Pierce
-2 Preordain
-3 Stifle
-1 Cling to Dust
-1 Hullbreacher
+2 Hullbreacher
 3 Green Sun's Zenith
 4 Green Sun's Zenith
-3 Polluted Delta
-4 Abrupt Decay
+1 Verdant Catacombs
+2 Verdant Catacombs
+3 Verdant Catacombs
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
+1 Scavenging Ooze
+1 Plague Engineer
+2 Plague Engineer
+3 Polluted Delta
+1 Noble Hierarch
+2 Noble Hierarch
+3 Noble Hierarch
+4 Prismatic Vista
 1 Veil of Summer
+2 Veil of Summer
 1 Red Elemental Blast
 1 Pyroblast
 1 Painter's Servant
 1 Grindstone
-2 Veil of Summer
-2 Red Elemental Blast
 2 Pyroblast
+2 Red Elemental Blast
 2 Painter's Servant
 2 Grindstone
-3 Red Elemental Blast
 3 Pyroblast
 3 Grindstone
+3 Red Elemental Blast
 3 Painter's Servant
 4 Scalding Tarn
 4 Painter's Servant
-1 Scavenging Ooze
-2 Hullbreacher
-1 Plague Engineer
-2 Plague Engineer
-2 Leovold, Emissary of Trest
-1 Verdant Catacombs
-2 Verdant Catacombs
-3 Verdant Catacombs
-4 Uro, Titan of Nature's Wrath
-4 Prismatic Vista
-2 Assassin's Trophy
-1 Noble Hierarch
+2 Flooded Strand
 1 Opposition Agent
-1 Ramunap Excavator
-1 Bojuka Bog
+2 Leovold, Emissary of Trest
 3 Snow-Covered Forest
-1 Field of the Dead
-1 Omnath, Locus of Creation
 1 Savannah
 1 Knight of the Reliquary
-2 Flooded Strand
-1 Wooded Foothills
+4 Uro, Titan of Nature's Wrath
+4 Oko, Thief of Crowns
+3 Force of Negation
 4 Stifle
 1 Fatal Push
 1 Gilded Goose
 1 Questing Beast
-2 Noble Hierarch
-3 Noble Hierarch
+3 Flooded Strand
+1 Court of Cunning
 2 Opposition Agent
 1 Snapcaster Mage
+2 Assassin's Trophy
 3 Assassin's Trophy
 4 Verdant Catacombs
+1 Mystic Sanctuary
 1 Thoughtseize
 2 Jace, the Mind Sculptor
 2 Snow-Covered Swamp
-1 Elvish Reclaimer
-1 Waterlogged Grove
-1 Courser of Kruphix
-1 Knight of Autumn
-4 Polluted Delta
+1 Ramunap Excavator
+1 Bojuka Bog
 1 Utopia Sprawl
 2 Utopia Sprawl
-3 Force of Negation
 3 Utopia Sprawl
-4 Oko, Thief of Crowns
 4 Utopia Sprawl
 1 Taiga
+1 Field of the Dead
+1 Omnath, Locus of Creation
 1 Dack Fayden
 1 Grove of the Burnwillows
 1 Punishing Fire
@@ -113,16 +110,15 @@
 3 Dack Fayden
 3 Grove of the Burnwillows
 3 Punishing Fire
-3 Flooded Strand
 3 Knight of the Reliquary
 4 Knight of the Reliquary
+1 Wooded Foothills
 1 Sevinne's Reclamation
 1 Monastery Mentor
 1 Steam Vents
 1 Teferi, Time Raveler
 1 Shark Typhoon
 2 Cling to Dust
-1 Court of Cunning
 2 Court of Cunning
 2 Fatal Push
 1 Gurmag Angler
@@ -134,28 +130,59 @@
 2 Drown in the Loch
 3 Opposition Agent
 3 Drown in the Loch
-4 Dreadhorde Arcanist
+1 Path to Exile
+1 Carpet of Flowers
+1 Archmage's Charm
+3 Hullbreacher
+4 Flooded Strand
 3 Plague Engineer
 4 Plague Engineer
+3 Daze
+4 Noble Hierarch
+4 Daze
+4 Dreadhorde Arcanist
+1 Eureka
+1 Drawn from Dreams
+1 Impulse
+1 Show and Tell
+1 Cunning Wish
+1 Omniscience
+1 Emrakul, the Aeons Torn
+1 Griselbrand
+1 Brazen Borrower
+1 City of Traitors
+2 Impulse
+2 Show and Tell
+2 Emrakul, the Aeons Torn
+2 Cunning Wish
+2 Omniscience
+2 City of Traitors
+3 Omniscience
+3 Cunning Wish
+3 Show and Tell
+4 Snow-Covered Island
+4 Show and Tell
+4 Omniscience
+5 Snow-Covered Island
 1 Village Rites
+1 Tireless Tracker
 1 Phyrexian Tower
 1 Liliana, the Last Hope
 1 Titania, Protector of Argoth
 1 Confounding Conundrum
 1 Dark Confidant
 1 Veteran Explorer
-1 Tireless Tracker
 1 Pernicious Deed
 1 Cabal Therapy
 2 Village Rites
 2 Confounding Conundrum
 2 Liliana, the Last Hope
+2 Dark Confidant
+2 Veteran Explorer
 2 Pernicious Deed
 2 Thoughtseize
-2 Dark Confidant
 2 Bayou
 2 Cabal Therapy
-2 Veteran Explorer
 3 Veteran Explorer
 3 Snow-Covered Swamp
 3 Cabal Therapy

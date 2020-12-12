@@ -34,9 +34,9 @@
 2 Aether Gust
 2 Nissa, Who Shakes the World
 2 Zagoth Triome
-3 Zagoth Triome
 3 Breeding Pool
 3 Field of Ruin
+3 Zagoth Triome
 3 Nissa, Who Shakes the World
 4 Thoughtseize
 1 Oboro, Palace in the Clouds
@@ -44,6 +44,7 @@
 3 Island
 2 Verdant Catacombs
 3 Verdant Catacombs
+1 Silversmote Ghoul
 1 Prized Amalgam
 1 Creeping Chill
 1 Merfolk Secretkeeper
@@ -53,11 +54,10 @@
 1 Narcomoeba
 1 Hedron Crab
 1 Vengevine
-1 Silversmote Ghoul
+2 Silversmote Ghoul
 2 Creeping Chill
 2 Prized Amalgam
 2 Merfolk Secretkeeper
-2 Silversmote Ghoul
 2 Overgrown Tomb
 2 Gravecrawler
 2 Stitcher's Supplier
@@ -83,8 +83,8 @@
 4 Stitcher's Supplier
 4 Glimpse the Unthinkable
 4 Vengevine
-1 Wilderness Reclamation
 1 Ice-Fang Coatl
+1 Wilderness Reclamation
 1 Nexus of Fate
 2 Ice-Fang Coatl
 2 Wilderness Reclamation
@@ -109,14 +109,14 @@
 1 Hinterland Harbor
 1 Life from the Loam
 1 Blooming Marsh
-1 Lonely Sandbar
-1 Prismatic Vista
 1 Waterlogged Grove
-1 Blast Zone
 1 Vesuva
+1 Blast Zone
+1 Prismatic Vista
 1 Deprive
 1 Dismember
 1 Go for the Throat
+1 Lonely Sandbar
 1 Minamo, School at Water's Edge
 1 Geier Reach Sanitarium
 3 Narset, Parter of Veils
