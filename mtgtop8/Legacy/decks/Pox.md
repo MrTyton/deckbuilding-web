@@ -28,13 +28,3 @@
 |1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)     |                                                                                             |                                                                                                |                                                                                                 |
 |1 [Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)         |                                                                                             |                                                                                                |                                                                                                 |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
-|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
-|                    1|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)    |                    2|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)|
-|                    1|[Toxic Deluge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376559)  |                     |                                                                                        |
-|                    2|[Innocent Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417477)|                     |                                                                                        |
-|                    3|[Innocent Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417477)|                     |                                                                                        |
-

@@ -1,13 +1,13 @@
+1 Red Elemental Blast
 2 Surgical Extraction
-2 Abrupt Decay
 2 Pyroblast
 3 Defense Grid
 1 Fatal Push
 1 Grafdigger's Cage
+1 Tormod's Crypt
 1 Force of Negation
 1 Echoing Truth
 1 Spell Pierce
-2 Echoing Truth
 1 Thassa's Oracle
 1 Doomsday
 2 Doomsday
@@ -15,30 +15,29 @@
 4 Doomsday
 1 Cavern of Souls
 1 Edge of Autumn
-1 Tormod's Crypt
+2 Echoing Truth
 1 Liliana, the Last Hope
-2 Spell Pierce
-2 Red Elemental Blast
-3 Abrupt Decay
-3 Veil of Summer
 2 Force of Negation
-1 Dread of Night
+3 Abrupt Decay
+2 Red Elemental Blast
+3 Veil of Summer
+2 Spell Pierce
 2 Grafdigger's Cage
-1 Lim-Dul's Vault
-1 Mystical Dispute
-2 Mystical Dispute
+3 Carpet of Flowers
 3 Pyroblast
+4 Defense Grid
+1 Dread of Night
 1 Lion's Eye Diamond
 1 Street Wraith
 2 Street Wraith
-3 Carpet of Flowers
 3 Abrade
+4 Abrupt Decay
 1 Thoughtseize
+1 Lim-Dul's Vault
 1 Shelldock Isle
 1 Thought Scour
 1 Predict
 1 Ashiok, Dream Render
-1 Pyroclasm
 1 Baleful Strix
 1 Xantid Swarm
 2 Baleful Strix
@@ -46,7 +45,11 @@
 1 Submerge
 2 Submerge
 2 Fatal Push
-2 Dread of Night
+1 Dead of Winter
+2 Massacre
+2 Thoughtseize
+1 Mystical Dispute
+2 Mystical Dispute
 1 Null Rod
 2 Null Rod
 3 Surgical Extraction
@@ -59,6 +62,12 @@
 2 Tormod's Crypt
 2 City of Solitude
 3 City of Solitude
+1 Uro, Titan of Nature's Wrath
+1 Carnage Tyrant
+2 Uro, Titan of Nature's Wrath
+2 Carnage Tyrant
+3 Uro, Titan of Nature's Wrath
+3 Carnage Tyrant
 1 Hullbreacher
 1 Swords to Plowshares
 1 Monastery Mentor
@@ -72,7 +81,6 @@
 3 Swords to Plowshares
 3 Monastery Mentor
 4 Swords to Plowshares
-4 Defense Grid
 1 Lightning Bolt
 1 Dreadhorde Arcanist
 1 Brazen Borrower
@@ -81,10 +89,6 @@
 3 Lightning Bolt
 3 Dreadhorde Arcanist
 4 Lightning Bolt
-1 Dead of Winter
-2 Massacre
-2 Thoughtseize
-4 Abrupt Decay
 1 Leyline of the Void
 1 Helm of Obedience
 2 Helm of Obedience

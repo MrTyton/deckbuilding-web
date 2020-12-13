@@ -7,13 +7,18 @@
 4 Growth Spiral
 2 Teferi, Hero of Dominaria
 1 Supreme Verdict
-1 Windswept Heath
-1 Wooded Foothills
 3 Lightning Bolt
-3 Teferi, Time Raveler
+1 Wooded Foothills
 1 Remand
-2 Windswept Heath
+1 Windswept Heath
+3 Teferi, Time Raveler
 1 Snow-Covered Mountain
+2 Breeding Pool
+2 Windswept Heath
+3 Mystic Sanctuary
+1 Blast Zone
+2 Remand
+2 Wooded Foothills
 1 Noble Hierarch
 1 Eternal Witness
 1 Birds of Paradise
@@ -32,9 +37,11 @@
 3 Windswept Heath
 4 Birds of Paradise
 4 Noble Hierarch
-1 Horizon Canopy
+1 Branchloft Pathway
 1 Felidar Guardian
 1 Saheeli Rai
+1 Horizon Canopy
+1 Flame Slash
 1 Skyclave Apparition
 1 Primeval Titan
 1 Oath of Nissa
@@ -51,21 +58,9 @@
 3 Skyclave Apparition
 4 Felidar Guardian
 4 Saheeli Rai
-4 Windswept Heath
-2 Breeding Pool
-1 Coiling Oracle
-2 Snow-Covered Island
-2 Coiling Oracle
-3 Ephemerate
-3 Coiling Oracle
-3 Mystic Sanctuary
-1 Blast Zone
-2 Remand
-2 Wooded Foothills
-1 Branchloft Pathway
-1 Flame Slash
 4 Teferi, Time Raveler
 4 Wall of Blossoms
+4 Windswept Heath
 1 Aether Vial
 1 Giver of Runes
 1 Charming Prince
@@ -80,20 +75,25 @@
 1 Akroma, Angel of Fury
 1 Restoration Angel
 1 Chord of Calling
+1 Coiling Oracle
 2 Prismatic Vista
 2 Stomping Ground
 2 Aether Vial
+2 Snow-Covered Island
 2 Ice-Fang Coatl
 2 Chord of Calling
 2 Avalanche Riders
+2 Coiling Oracle
 2 Restoration Angel
 2 Soulherder
 3 Aether Vial
 3 Eternal Witness
 3 Ice-Fang Coatl
 3 Prismatic Vista
+3 Ephemerate
 3 Chord of Calling
 3 Wooded Foothills
+3 Coiling Oracle
 3 Snow-Covered Forest
 3 Soulherder
 4 Prismatic Vista
@@ -118,8 +118,8 @@
 1 Shark Typhoon
 1 Magmaquake
 2 Wilderness Reclamation
-2 Expansion/Explosion
 2 Shark Typhoon
+2 Expansion/Explosion
 3 Wilderness Reclamation
 3 Remand
 3 Expansion/Explosion
