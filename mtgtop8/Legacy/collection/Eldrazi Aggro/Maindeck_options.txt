@@ -1,9 +1,3 @@
-4 Simian Spirit Guide
-1 Lotus Petal
-1 Eldrazi Displacer
-2 Eldrazi Displacer
-3 Eldrazi Displacer
-4 Eldrazi Displacer
 1 Ulamog, the Ceaseless Hunger
 1 Grim Monolith
 2 Grim Monolith
@@ -15,12 +9,10 @@
 1 Glimmerpost
 1 All Is Dust
 1 Golos, Tireless Pilgrim
-1 Ugin, the Ineffable
 2 Cloudpost
 2 Golos, Tireless Pilgrim
 2 Ulamog, the Ceaseless Hunger
 2 Vesuva
-2 Ugin, the Ineffable
 2 All Is Dust
 2 Glimmerpost
 3 Glimmerpost
@@ -31,6 +23,15 @@
 4 Cloudpost
 4 Vesuva
 4 Grim Monolith
+4 Simian Spirit Guide
+1 Lotus Petal
+1 Eldrazi Displacer
+2 Eldrazi Displacer
+3 Eldrazi Displacer
+4 Eldrazi Displacer
+1 Ugin, the Ineffable
+2 Ugin, the Ineffable
+2 Walking Ballista
 2 Lotus Petal
 3 Lotus Petal
 1 Eliminate
@@ -56,7 +57,6 @@
 1 Mishra's Factory
 2 Mishra's Factory
 2 Elvish Spirit Guide
-2 Walking Ballista
 3 Elvish Spirit Guide
 3 Mishra's Factory
 4 Wasteland
@@ -64,10 +64,16 @@
 1 Sorcerous Spyglass
 1 Umezawa's Jitte
 1 Warping Wail
+3 Golos, Tireless Pilgrim
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
 4 Elvish Spirit Guide
+2 Thorn of Amethyst
+3 Snow-Covered Plains
+3 Thorn of Amethyst
+4 Thorn of Amethyst
+4 Eye of Ugin
 1 Mountain
 1 Valakut Awakening
 1 Punishing Fire
@@ -81,6 +87,7 @@
 1 Goblin Rabblemaster
 1 Dead / Gone
 1 Blood Sun
+2 Goblin Rabblemaster
 2 Valakut Awakening
 2 Punishing Fire
 2 Grove of the Burnwillows
@@ -88,7 +95,6 @@
 2 Fiery Confluence
 2 Chrome Mox
 2 Bonecrusher Giant
-2 Goblin Rabblemaster
 2 Blood Sun
 2 Mountain
 3 Goblin Rabblemaster
@@ -97,13 +103,8 @@
 3 Grove of the Burnwillows
 3 Snow-Covered Mountain
 3 Blood Sun
-4 Blood Sun
 4 Goblin Rabblemaster
 4 City of Traitors
 4 Punishing Fire
 4 Grove of the Burnwillows
-2 Thorn of Amethyst
-3 Snow-Covered Plains
-3 Thorn of Amethyst
-4 Thorn of Amethyst
-4 Eye of Ugin
+4 Blood Sun

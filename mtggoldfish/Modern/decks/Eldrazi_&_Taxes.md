@@ -179,7 +179,7 @@
 |                    1|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)        |                     |                                                                                                       |
 |                    2|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)        |                     |                                                                                                       |
 |                    2|[Thalia, Heretic Cathar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414338)   |                     |                                                                                                       |
-|                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)                |                     |                                                                                                       |
 |                    3|[Gemstone Caverns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122094)         |                     |                                                                                                       |
+|                    3|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)                |                     |                                                                                                       |
 |                    4|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)          |                     |                                                                                                       |
 

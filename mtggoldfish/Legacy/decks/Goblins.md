@@ -122,6 +122,6 @@
 |                    3|[Stingscourger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413691)           |                     |                                                                                                     |
 |                    4|[Warren Instigator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438472)       |                     |                                                                                                     |
 |                    4|[Stingscourger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413691)           |                     |                                                                                                     |
-|                    4|[Torch Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452869)           |                     |                                                                                                     |
 |                   10|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                |                     |                                                                                                     |
+|                    4|[Torch Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452869)           |                     |                                                                                                     |
 

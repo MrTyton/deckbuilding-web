@@ -145,6 +145,7 @@
 |                    3|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)           |                     |                                                                                                    |
 |                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)                 |                     |                                                                                                    |
 |                    4|[Mishra's Bauble](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122122)           |                     |                                                                                                    |
+|                    4|[Great Furnace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389542)             |                     |                                                                                                    |
 |                    1|[Liquimetal Coating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389578)        |                     |                                                                                                    |
 |                    1|[Grim Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=12626)              |                     |                                                                                                    |
 |                    1|[Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)               |                     |                                                                                                    |
@@ -155,5 +156,4 @@
 |                    3|[Liquimetal Coating](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389578)        |                     |                                                                                                    |
 |                    3|[Grim Monolith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=12626)              |                     |                                                                                                    |
 |                   13|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)     |                     |                                                                                                    |
-|                    4|[Great Furnace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389542)             |                     |                                                                                                    |
 

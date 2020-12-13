@@ -45,8 +45,8 @@
 |                    2|[Thopter Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183017)  |                    2|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)   |
 |                    2|[Living Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442168)      |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102) |                    3|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)   |
-|                    4|[Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48146)       |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
-|                    4|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)|                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
+|                    4|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)|                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
+|                    4|[Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48146)       |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102) |                     |                                                                                               |
 |                    3|[Living Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442168)      |                     |                                                                                               |
 
