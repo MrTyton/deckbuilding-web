@@ -1,37 +1,40 @@
-2 Into the Roil
+3 Grasp of Darkness
 3 Omen of the Sea
 4 Omen of the Sea
 4 Bubble Snare
-1 Negate
-2 Cancel
-3 Cancel
-1 Field Research
-1 Scorching Dragonfire
-1 Mountain
-1 Goblin Wizardry
-1 Swiftwater Cliffs
-2 Scorching Dragonfire
-2 Swiftwater Cliffs
-2 Goblin Wizardry
-2 Mountain
-3 Scorching Dragonfire
-3 Goblin Wizardry
-3 Swiftwater Cliffs
-3 Mountain
-4 Goblin Wizardry
-4 Scorching Dragonfire
-4 Swiftwater Cliffs
-4 Mountain
+1 Reaper of Night
+1 Bake into a Pie
+2 Bake into a Pie
 1 Suffocating Fumes
 2 Suffocating Fumes
+2 Cancel
+3 Cancel
+1 Negate
+1 Field Research
 4 Cancel
 10 Island
 1 Shock
 1 Fire Prophecy
+1 Mountain
+1 Goblin Wizardry
+1 Scorching Dragonfire
+1 Swiftwater Cliffs
 2 Fire Prophecy
+2 Swiftwater Cliffs
+2 Goblin Wizardry
 2 Field Research
+2 Mountain
+2 Scorching Dragonfire
 3 Fire Prophecy
+3 Goblin Wizardry
+3 Scorching Dragonfire
+3 Swiftwater Cliffs
+3 Mountain
 4 Fire Prophecy
+4 Scorching Dragonfire
+4 Goblin Wizardry
+4 Swiftwater Cliffs
+4 Mountain
 5 Mountain
 6 Mountain
 7 Mountain
@@ -44,75 +47,68 @@
 2 Teferi's Tutelage
 3 Ruin Crab
 3 Teferi's Tutelage
-1 Cling to Dust
-1 Bloodchief's Thirst
-2 Bloodchief's Thirst
-3 Into the Story
 3 Essence Scatter
 4 Essence Scatter
-2 Negate
-2 Spined Megalodon
-1 Plains
-1 Swift Response
-1 Tranquil Cove
-2 Plains
-2 Swift Response
-2 Tranquil Cove
-3 Plains
-3 Tranquil Cove
-4 Plains
-4 Tranquil Cove
+1 Bloodchief's Thirst
+1 Cling to Dust
+2 Bloodchief's Thirst
+3 Into the Story
 3 Anticognition
 4 Anticognition
-1 Bake into a Pie
-1 Reaper of Night
-2 Bake into a Pie
 2 Reaper of Night
 3 Bake into a Pie
 3 Reaper of Night
 4 Reaper of Night
-1 Opt
-2 Opt
-3 Opt
-4 Opt
-3 Spined Megalodon
-4 Spined Megalodon
 1 Witching Well
 2 Witching Well
+1 Living Tempest
+1 Lurking Deadeye
 3 Feed the Swarm
-1 Thirst for Meaning
-2 Thirst for Meaning
-3 Thirst for Meaning
+2 Spined Megalodon
+2 Negate
+3 Spined Megalodon
+4 Spined Megalodon
 1 Convolute
 11 Island
+1 Tranquil Cove
+1 Swift Response
+1 Plains
+2 Tranquil Cove
+2 Swift Response
+2 Plains
+3 Tranquil Cove
 3 Swift Response
+3 Plains
+4 Plains
+4 Tranquil Cove
 5 Plains
 6 Plains
 7 Plains
 1 Teferi, Master of Time
 1 Shark Typhoon
-4 Ruin Crab
 4 Into the Story
-3 Negate
-4 Bake into a Pie
+4 Ruin Crab
+1 Thirst for Meaning
 1 Mire's Grasp
 1 Fruit of Tizerus
 1 Vanquish the Weak
 1 Underworld Charger
 1 Mindwrack Harpy
+2 Thirst for Meaning
 2 Mire's Grasp
 2 Vanquish the Weak
 2 Underworld Charger
 2 Mindwrack Harpy
+3 Thirst for Meaning
 3 Into the Roil
 3 Mire's Grasp
 3 Underworld Charger
 3 Vanquish the Weak
 3 Mindwrack Harpy
-4 Into the Roil
 4 Mire's Grasp
-4 Mindwrack Harpy
 4 Vanquish the Weak
+4 Mindwrack Harpy
+4 Into the Roil
 4 Thirst for Meaning
 4 Underworld Charger
 1 Castle Vantress
@@ -137,47 +133,52 @@
 4 Watcher of the Spheres
 4 Windrider Wizard
 4 Tide Skimmer
-1 Memory Leak
-1 Durable Coilbug
-1 Witch's Cottage
+1 Nimana Skydancer
+1 Blitz Leech
+1 Blood Curdle
+1 Roaming Ghostlight
+1 Vexing Gull
+2 Nimana Skydancer
+2 Living Tempest
+2 Blitz Leech
+2 Roaming Ghostlight
+2 Vexing Gull
+3 Nimana Skydancer
+3 Vexing Gull
+3 Living Tempest
+4 Living Tempest
+4 Nimana Skydancer
+4 Vexing Gull
 1 Pharika's Libation
+1 Memory Leak
+1 Witch's Cottage
 1 Wingfold Pteron
+1 Durable Coilbug
 1 Deathbloom Thallid
-2 Wingfold Pteron
 2 Memory Leak
+2 Wingfold Pteron
 2 Deathbloom Thallid
 3 Suffocating Fumes
 3 Memory Leak
 3 Deathbloom Thallid
-4 Suffocating Fumes
 4 Memory Leak
+4 Suffocating Fumes
 4 Deathbloom Thallid
-1 Omen of the Sun
-1 Omen of the Forge
-1 Wind-Scarred Crag
-1 Revitalize
-2 Omen of the Sun
-2 Revitalize
-2 Omen of the Forge
-2 Wind-Scarred Crag
-3 Omen of the Sun
-3 Wind-Scarred Crag
-3 Revitalize
-3 Omen of the Forge
-4 Omen of the Sun
-4 Revitalize
-1 Spare Supplies
-2 Spare Supplies
-8 Mountain
+1 Opt
+2 Opt
+3 Negate
+3 Opt
+4 Bake into a Pie
+4 Opt
 1 Pacifism
 1 Divine Arrow
 1 Trapped in the Tower
 1 Dreadful Apathy
+2 Pacifism
 2 Divine Arrow
 2 Trapped in the Tower
 2 Convolute
 2 Dreadful Apathy
-2 Pacifism
 3 Trapped in the Tower
 3 Divine Arrow
 3 Dreadful Apathy
@@ -188,22 +189,23 @@
 4 Divine Arrow
 4 Dreadful Apathy
 8 Plains
+1 Spare Supplies
+2 Spare Supplies
+8 Mountain
 1 Shadows' Verdict
-1 Final Death
 1 Finishing Blow
+1 Final Death
 1 Pestilent Haze
 2 Mystic Sanctuary
-2 Cling to Dust
 2 Pestilent Haze
+2 Cling to Dust
 4 Grasp of Darkness
 10 Swamp
-1 Lurking Deadeye
 1 Dead Weight
-1 Living Tempest
 1 Deny the Divine
-2 Lurking Deadeye
 2 Dead Weight
 2 Deny the Divine
+2 Lurking Deadeye
 3 Deny the Divine
 3 Witching Well
 3 Lurking Deadeye
