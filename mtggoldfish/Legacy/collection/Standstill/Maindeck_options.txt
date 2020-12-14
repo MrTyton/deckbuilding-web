@@ -9,8 +9,8 @@
 3 Prismatic Vista
 1 Cast Out
 1 Replenish
-2 Replenish
 2 Cast Out
+2 Replenish
 3 Cast Out
 1 Island
 1 Lay Claim
@@ -41,8 +41,8 @@
 2 Stoneforge Mystic
 5 Island
 1 Vendilion Clique
-1 Council's Judgment
 1 Crucible of Worlds
+1 Council's Judgment
 1 Myth Realized
 2 Council's Judgment
 2 Myth Realized
@@ -80,9 +80,9 @@
 2 Life from the Loam
 2 Misty Rainforest
 2 Oko, Thief of Crowns
-3 Oko, Thief of Crowns
 3 Mox Diamond
 3 Life from the Loam
+3 Oko, Thief of Crowns
 4 Wasteland
 4 Mox Diamond
 1 Daze
@@ -127,8 +127,8 @@
 3 Tundra
 4 Teferi, Time Raveler
 1 Snow-Covered Swamp
-1 Savannah
 1 Uro, Titan of Nature's Wrath
+1 Savannah
 1 Bayou
 1 Chalice of the Void
 1 Abrupt Decay
@@ -137,30 +137,30 @@
 2 Chalice of the Void
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
-3 Abrupt Decay
 3 Misty Rainforest
 3 Chalice of the Void
+3 Abrupt Decay
 4 Uro, Titan of Nature's Wrath
-4 Misty Rainforest
 4 Abrupt Decay
+4 Misty Rainforest
 4 Chalice of the Void
-1 Ghost Quarter
 1 Waterlogged Grove
 1 Wooded Foothills
-1 Riftstone Portal
+1 Ghost Quarter
+1 Bojuka Bog
 1 Maze of Ith
+1 Riftstone Portal
+1 Crop Rotation
 1 Dark Depths
 1 Elvish Reclaimer
 1 Rishadan Port
 1 Exploration
 1 Thespian's Stage
-1 Crop Rotation
-1 Bojuka Bog
 2 Waterlogged Grove
 2 Elvish Reclaimer
-2 Crop Rotation
 2 Maze of Ith
 2 Thespian's Stage
+2 Crop Rotation
 2 Dark Depths
 2 Exploration
 2 Rishadan Port
@@ -205,11 +205,11 @@
 4 Astral Slide
 4 Secluded Steppe
 5 Snow-Covered Plains
-1 Glasspool Mimic
 1 Sea Gate Restoration
-1 True-Name Nemesis
+1 Glasspool Mimic
 1 Cavern of Souls
 1 Hullbreacher
+1 True-Name Nemesis
 1 Silvergill Adept
 1 Aether Vial
 1 Master of the Pearl Trident

@@ -5,8 +5,8 @@
 1 Grim Monolith
 1 Ancient Tomb
 1 City of Traitors
-2 Grim Monolith
 2 City of Traitors
+2 Grim Monolith
 2 Ancient Tomb
 3 Grim Monolith
 3 Ancient Tomb
@@ -57,22 +57,30 @@
 2 Sorcerous Spyglass
 3 Golos, Tireless Pilgrim
 2 Walking Ballista
-3 Sorcerous Spyglass
 3 City of Traitors
+3 Sorcerous Spyglass
 1 Wastes
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 3 Stonecoil Serpent
 1 Dryad Arbor
-1 Verdant Catacombs
 1 Trinisphere
 2 Trinisphere
 2 Blast Zone
 3 Trinisphere
 2 Ugin, the Spirit Dragon
-1 Allosaurus Shepherd
-1 Staff of Domination
+1 Karn, Scion of Urza
+2 Karn, Scion of Urza
+2 Wastes
+2 Karakas
+3 Ugin, the Ineffable
+3 Karn, Scion of Urza
+3 Walking Ballista
+4 City of Traitors
+4 Karn, Scion of Urza
+4 Stonecoil Serpent
 1 Mystic Forge
+1 Staff of Domination
 1 Urborg, Tomb of Yawgmoth
 1 Inventors' Fair
 1 Forsaken Monument
@@ -84,16 +92,8 @@
 3 Ugin, the Spirit Dragon
 3 Sphere of Resistance
 4 Sphere of Resistance
-1 Karn, Scion of Urza
-2 Karn, Scion of Urza
-2 Wastes
-2 Karakas
-3 Ugin, the Ineffable
-3 Karn, Scion of Urza
-3 Walking Ballista
-4 Karn, Scion of Urza
-4 Stonecoil Serpent
-4 City of Traitors
+1 Emrakul, the Promised End
+2 Cavern of Souls
 1 Thran Dynamo
 1 Candelabra of Tawnos
 2 Candelabra of Tawnos
@@ -107,17 +107,17 @@
 2 Ancient Stirrings
 3 Ancient Stirrings
 4 Ancient Stirrings
+1 Verdant Catacombs
 1 Manifold Key
 1 The Tabernacle at Pendrell Vale
 2 Manifold Key
 3 Warping Wail
 1 Wooded Foothills
+1 Allosaurus Shepherd
 1 Lightning Greaves
 2 Lightning Greaves
-1 Emrakul, the Promised End
 1 Sylvan Library
 2 Sylvan Library
-2 Cavern of Souls
 1 Hour of Promise
 1 Boompile
 1 From Beyond

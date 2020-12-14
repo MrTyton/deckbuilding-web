@@ -49,8 +49,8 @@
 |                    2|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)          |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)               |
 |                    2|[Tarfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157921)            |                     |                                                                                                    |
 |                    2|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)          |                     |                                                                                                    |
+|                    2|[Frogtosser Banneret](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152587)|                     |                                                                                                    |
 |                    3|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)          |                     |                                                                                                    |
 |                    3|[Tarfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157921)            |                     |                                                                                                    |
 |                    3|[Goblin Chieftain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438481)   |                     |                                                                                                    |
-|                    2|[Frogtosser Banneret](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152587)|                     |                                                                                                    |
 

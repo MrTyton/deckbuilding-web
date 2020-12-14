@@ -48,46 +48,46 @@
 4 Fatal Push
 3 Wooded Foothills
 1 Temple Garden
+1 Sunbaked Canyon
 1 Akoum Hellhound
-1 Arid Mesa
 1 Windswept Heath
 1 Sacred Foundry
 1 Sejiri Shelter
 1 Sejiri Steppe
 1 Brushfire Elemental
+1 Mishra's Bauble
+1 Arid Mesa
 1 Atarka's Command
 1 Flagstones of Trokair
-1 Sunbaked Canyon
 1 Soaring Seacliff
-1 Mishra's Bauble
 1 Steppe Lynx
 1 Elvish Reclaimer
 2 Akoum Hellhound
-2 Arid Mesa
 2 Flagstones of Trokair
-2 Brushfire Elemental
-2 Elvish Reclaimer
-2 Mishra's Bauble
 2 Sacred Foundry
+2 Brushfire Elemental
+2 Mishra's Bauble
+2 Arid Mesa
+2 Elvish Reclaimer
 2 Windswept Heath
 2 Atarka's Command
 2 Steppe Lynx
 3 Akoum Hellhound
 3 Elvish Reclaimer
 3 Flagstones of Trokair
-3 Brushfire Elemental
-3 Atarka's Command
 3 Sacred Foundry
+3 Brushfire Elemental
 3 Mishra's Bauble
+3 Atarka's Command
 3 Steppe Lynx
 3 Windswept Heath
 4 Akoum Hellhound
 4 Flagstones of Trokair
 4 Elvish Reclaimer
 4 Brushfire Elemental
-4 Wooded Foothills
 4 Mishra's Bauble
 4 Windswept Heath
+4 Wooded Foothills
 4 Atarka's Command
 4 Steppe Lynx
 1 Snow-Covered Swamp
@@ -98,20 +98,20 @@
 2 Flame Slash
 2 Archmage's Charm
 1 Flooded Strand
-1 Teferi, Time Raveler
 1 Hallowed Fountain
+1 Teferi, Time Raveler
 1 Path to Exile
-2 Teferi, Time Raveler
 2 Path to Exile
+2 Teferi, Time Raveler
 3 Path to Exile
 1 Snapcaster Mage
 2 Snapcaster Mage
 1 Assassin's Trophy
 1 Abrupt Decay
 2 Forest
+1 Field of Ruin
 1 Hedron Crab
 1 Glimpse the Unthinkable
-1 Field of Ruin
 1 Mesmeric Orb
 1 Visions of Beyond
 1 Archive Trap
@@ -141,14 +141,14 @@
 1 Farseek
 2 Farseek
 2 Watery Grave
-1 Anger of the Gods
 1 Sultai Charm
+1 Anger of the Gods
 1 Cinder Glade
 3 Snow-Covered Forest
 1 Ice-Fang Coatl
 1 Abundant Growth
-1 Arboreal Grazer
 1 Search for Azcanta
+1 Arboreal Grazer
 2 Ice-Fang Coatl
 2 Abundant Growth
 2 Arboreal Grazer
@@ -162,14 +162,13 @@
 5 Snow-Covered Island
 1 Vendilion Clique
 1 Castle Vantress
-1 Maelstrom Pulse
 1 Electrolyze
 1 Worldly Counsel
 1 Hunting Wilds
+1 Maelstrom Pulse
 1 Supreme Verdict
 1 Snow-Covered Plains
 1 Mwonvuli Acid-Moss
-2 Mountain
 1 Shark Typhoon
 2 Shark Typhoon
 2 Abrupt Decay
@@ -178,18 +177,19 @@
 1 Courser of Kruphix
 1 Terminate
 1 Obstinate Baloth
+1 Thoughtseize
 1 Platinum Emperion
 1 Madcap Experiment
-1 Thoughtseize
 2 Snow-Covered Mountain
 2 Obstinate Baloth
 2 Thoughtseize
+2 Mountain
 1 Raugrin Triome
 2 Raugrin Triome
 3 Teferi, Time Raveler
 3 Raugrin Triome
-1 Shelldock Isle
 1 Surgical Extraction
+1 Shelldock Isle
 2 Surgical Extraction
 3 Surgical Extraction
 1 Verdant Catacombs

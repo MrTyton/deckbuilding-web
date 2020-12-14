@@ -39,6 +39,6 @@
 |                    4|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989)  |                    1|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)             |
 |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)            |                    1|[Crackling Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452913)    |
 |                    4|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)      |                    1|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)  |
-|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)          |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)   |
-|                     |                                                                                             |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
+|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)          |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
+|                     |                                                                                             |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)   |
 
