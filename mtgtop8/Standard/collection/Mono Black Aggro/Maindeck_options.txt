@@ -28,12 +28,12 @@
 2 Hateful Eidolon
 2 Dead Weight
 2 Mire's Grasp
-3 Hateful Eidolon
 3 Dead Weight
+3 Hateful Eidolon
 3 Mire's Grasp
-4 Dead Weight
 4 Hateful Eidolon
 4 Mire's Grasp
+4 Dead Weight
 21 Swamp
 1 Crawling Barrens
 1 Serrated Scorpion
@@ -50,20 +50,20 @@
 2 Heraldic Banner
 2 Whisper Squad
 2 Hunted Nightmare
-3 Inscription of Ruin
 3 Rankle, Master of Pranks
 3 Whisper Squad
 3 Hunted Nightmare
+3 Inscription of Ruin
 4 Whisper Squad
 4 Bloodchief's Thirst
 4 Nightmare Shepherd
 4 Nighthawk Scavenger
 1 Elspeth's Nightmare
 3 Heartless Act
-1 Vito, Thorn of the Dusk Rose
 1 Witch's Cottage
-2 Vito, Thorn of the Dusk Rose
+1 Vito, Thorn of the Dusk Rose
 2 Witch's Cottage
+2 Vito, Thorn of the Dusk Rose
 3 Murderous Rider
 3 Nullpriest of Oblivion
 4 Nullpriest of Oblivion
@@ -109,8 +109,8 @@
 2 Marauding Blight-Priest
 3 Marauding Blight-Priest
 4 Marauding Blight-Priest
-1 Aphemia, the Cacophony
 1 Tymaret Calls the Dead
+1 Aphemia, the Cacophony
 2 Crawling Barrens
 2 Aphemia, the Cacophony
 2 Tymaret Calls the Dead
@@ -121,27 +121,9 @@
 4 Aphemia, the Cacophony
 4 Tymaret Calls the Dead
 4 Skyclave Shade
-1 Foulmire Knight
-1 Mindwrack Harpy
-1 Underworld Dreams
-1 Pharika's Spawn
-2 Foulmire Knight
-2 Underworld Dreams
-2 Pharika's Spawn
-2 Kitesail Freebooter
-3 Foulmire Knight
-3 Underworld Dreams
-3 Kitesail Freebooter
-4 Gray Merchant of Asphodel
-4 Kitesail Freebooter
-4 Underworld Dreams
-22 Swamp
-23 Swamp
-24 Swamp
-1 Unexpected Fangs
 1 Witch's Oven
-1 Silversmote Ghoul
 1 Evolving Wilds
+1 Silversmote Ghoul
 1 Lampad of Death's Vigil
 1 Savvy Hunter
 1 Garruk, Cursed Huntsman
@@ -149,9 +131,10 @@
 1 The Great Henge
 1 Deathless Knight
 1 Forest
+1 Unexpected Fangs
 2 Witch's Oven
-2 Silversmote Ghoul
 2 Evolving Wilds
+2 Silversmote Ghoul
 2 Lampad of Death's Vigil
 2 Savvy Hunter
 2 Jungle Hollow
@@ -168,3 +151,20 @@
 4 Jungle Hollow
 4 Lampad of Death's Vigil
 4 Forest
+1 Foulmire Knight
+1 Underworld Dreams
+1 Pharika's Spawn
+1 Mindwrack Harpy
+2 Foulmire Knight
+2 Underworld Dreams
+2 Pharika's Spawn
+2 Kitesail Freebooter
+3 Foulmire Knight
+3 Underworld Dreams
+3 Kitesail Freebooter
+4 Kitesail Freebooter
+4 Underworld Dreams
+4 Gray Merchant of Asphodel
+22 Swamp
+23 Swamp
+24 Swamp

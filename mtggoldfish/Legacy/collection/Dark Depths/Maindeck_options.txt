@@ -30,19 +30,19 @@
 1 Snow-Covered Plains
 1 Tundra
 1 Scalding Tarn
-1 Murderous Cut
+1 Bloodstained Mire
 1 Tolaria West
+1 Murderous Cut
+1 Arid Mesa
 1 Marsh Flats
 1 Enlightened Tutor
 1 Counterspell
-1 Academy Rector
 1 Ethersworn Canonist
+1 Academy Rector
 1 Rest in Peace
 1 Intuition
 1 Maze of Ith
-1 Arid Mesa
 1 Celestial Colonnade
-1 Bloodstained Mire
 1 Drowned Catacomb
 1 Cabal Therapy
 1 Unburial Rites
@@ -51,8 +51,8 @@
 1 Inkwell Leviathan
 1 Moat
 1 Misdirection
-1 Torpor Orb
 1 Baleful Strix
+1 Torpor Orb
 1 Spell Pierce
 1 Jace, the Mind Sculptor
 1 Teferi, Time Raveler
@@ -110,20 +110,20 @@
 2 Ancient Tomb
 2 Drowned Catacomb
 2 Portent
+2 Academy Rector
 2 Scrubland
 2 Arid Mesa
 2 Glacial Fortress
 2 Snow-Covered Plains
 2 Misdirection
-2 Marsh Flats
-2 Baleful Strix
 2 Tundra
+2 Baleful Strix
+2 Marsh Flats
 2 Flusterstorm
 2 Cabal Therapy
 2 Jace, the Mind Sculptor
 2 Ponder
 2 Preordain
-2 Academy Rector
 2 Misty Rainforest
 2 Cunning Wish
 2 Murderous Cut
@@ -152,12 +152,12 @@
 3 Arcum's Astrolabe
 3 Impulse
 3 Teferi, Time Raveler
+3 Polluted Delta
 3 Windswept Heath
 3 Flooded Strand
-3 Polluted Delta
+3 Baleful Strix
 3 Emrakul, the Aeons Torn
 3 Jace, the Mind Sculptor
-3 Baleful Strix
 3 Enlightened Tutor
 3 Creeping Tar Pit
 3 Scrubland
@@ -167,6 +167,7 @@
 3 Celestial Colonnade
 3 Portent
 3 Tolaria West
+3 Academy Rector
 3 Flusterstorm
 3 Arid Mesa
 3 Intuition
@@ -189,7 +190,6 @@
 3 Ponder
 3 Preordain
 3 Counterspell
-3 Academy Rector
 3 Marsh Flats
 3 Misdirection
 3 Misty Rainforest
@@ -204,8 +204,8 @@
 4 Impulse
 4 Flooded Strand
 4 Teferi, Time Raveler
-4 Cabal Therapy
 4 Baleful Strix
+4 Cabal Therapy
 4 Terminus
 4 Portent
 4 Underground Sea
@@ -296,8 +296,8 @@
 2 Wishclaw Talisman
 2 Liliana of the Veil
 3 Chrome Mox
-3 Eliminate
 3 Wasteland
+3 Eliminate
 3 Chalice of the Void
 3 Desolation
 3 Karn, the Great Creator

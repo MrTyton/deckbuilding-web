@@ -1,3 +1,4 @@
+1 Windswept Heath
 1 Umezawa's Jitte
 1 Sanctum Prelate
 1 Chrome Mox
@@ -8,7 +9,6 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Once Upon a Time
-1 Windswept Heath
 1 Brushland
 4 Stoneforge Mystic
 1 Sword of Fire and Ice
@@ -69,7 +69,9 @@
 2 Battlefield Forge
 3 Blood Sun
 4 Blood Sun
+4 Walking Ballista
 4 Palace Jailer
+1 Marsh Flats
 5 Plains
 6 Plains
 1 Caves of Koilos
@@ -81,7 +83,6 @@
 1 Ghost Quarter
 2 Ghost Quarter
 2 Umezawa's Jitte
-4 Walking Ballista
 2 Brushland
 3 Brushland
 1 Plague Engineer
@@ -100,7 +101,6 @@
 4 Sanctum Prelate
 4 Vryn Wingmare
 4 Ghost Quarter
-1 Marsh Flats
 1 Silent Clearing
 1 Eye of Ugin
 2 Eye of Ugin
@@ -117,10 +117,10 @@
 2 Horizon Canopy
 1 Skyclave Apparition
 2 Skyclave Apparition
-3 Windswept Heath
 1 Lavabrink Venturer
 2 Lavabrink Venturer
 3 Lavabrink Venturer
+3 Windswept Heath
 4 Seasoned Pyromancer
 1 Swamp
 1 Agonizing Remorse

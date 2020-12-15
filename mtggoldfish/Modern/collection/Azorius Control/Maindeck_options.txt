@@ -19,8 +19,8 @@
 2 Shark Typhoon
 1 Spell Snare
 2 Scalding Tarn
-1 Snow-Covered Plains
 1 Snow-Covered Island
+1 Snow-Covered Plains
 2 Snow-Covered Island
 3 Cryptic Command
 1 Logic Knot
@@ -55,32 +55,32 @@
 3 Wall of Omens
 1 Sea Gate Restoration
 4 Snapcaster Mage
-1 Radiant Purge
 1 Timely Reinforcements
+1 Radiant Purge
+1 Birds of Paradise
 1 Noble Hierarch
+1 Windswept Heath
+1 Ice-Fang Coatl
 1 Snow-Covered Forest
 1 Breeding Pool
-1 Ice-Fang Coatl
-1 Birds of Paradise
 1 Temple Garden
-1 Windswept Heath
 1 Uro, Titan of Nature's Wrath
+2 Birds of Paradise
 2 Noble Hierarch
+2 Snow-Covered Forest
 2 Ice-Fang Coatl
 2 Windswept Heath
 2 Uro, Titan of Nature's Wrath
-2 Birds of Paradise
-2 Snow-Covered Forest
+3 Windswept Heath
 3 Snow-Covered Forest
 3 Noble Hierarch
 3 Ice-Fang Coatl
 3 Mana Leak
-3 Windswept Heath
 3 Uro, Titan of Nature's Wrath
+4 Windswept Heath
 4 Noble Hierarch
 4 Ice-Fang Coatl
 4 Snow-Covered Forest
-4 Windswept Heath
 1 Frantic Inventory
 1 Deprive
 2 Frantic Inventory
@@ -94,45 +94,45 @@
 4 Spreading Seas
 4 Shark Typhoon
 7 Island
-1 Lightning Helix
+1 Mountain
+1 Raugrin Triome
 1 Flagstones of Trokair
+1 Lightning Bolt
 1 Steam Vents
 1 Sacred Foundry
 1 Cleansing Wildfire
-1 Mountain
-1 Raugrin Triome
-1 Lightning Bolt
+1 Lightning Helix
+2 Flagstones of Trokair
+2 Cleansing Wildfire
 2 Lightning Bolt
 2 Lightning Helix
-2 Cleansing Wildfire
-2 Flagstones of Trokair
-3 Scalding Tarn
+3 Flagstones of Trokair
 3 Lightning Bolt
 3 Cleansing Wildfire
 3 Lightning Helix
-3 Flagstones of Trokair
-4 Cleansing Wildfire
+3 Scalding Tarn
 4 Remand
 4 Flagstones of Trokair
+4 Cleansing Wildfire
 4 Wall of Omens
 1 Castle Vantress
 3 Hallowed Fountain
 2 Snow-Covered Plains
 1 Spell Queller
 2 Spell Queller
-1 Abundant Growth
 1 Confounding Conundrum
-2 Breeding Pool
+1 Abundant Growth
 2 Abundant Growth
+2 Breeding Pool
 2 Confounding Conundrum
 3 Abundant Growth
 3 Breeding Pool
 3 Confounding Conundrum
 3 Birds of Paradise
 4 Abundant Growth
+4 Mana Leak
 4 Teferi, Time Raveler
 4 Breeding Pool
-4 Mana Leak
 4 Birds of Paradise
 4 Confounding Conundrum
 4 Uro, Titan of Nature's Wrath
@@ -140,28 +140,26 @@
 1 Narset, Parter of Veils
 1 Telling Time
 1 Time Warp
-1 Monastery Mentor
-1 God-Eternal Kefnet
 1 Mazemind Tome
 1 Silundi Vision
-2 Spell Snare
+1 Monastery Mentor
+1 God-Eternal Kefnet
 2 Monastery Mentor
+2 Spell Snare
 1 Fact or Fiction
-1 Emeria's Call
-1 Restoration Angel
 1 Vendilion Clique
+1 Restoration Angel
 1 Skyclave Apparition
 1 Peek
-2 Skyclave Apparition
+1 Emeria's Call
 2 Restoration Angel
+2 Skyclave Apparition
 2 Peek
 3 Restoration Angel
 3 Glacial Fortress
-1 Shatterskull Smashing
-4 Scalding Tarn
-1 Crucible of Worlds
 1 Jwari Disruption
 1 Ghost Quarter
+1 Crucible of Worlds
 2 Jwari Disruption
 4 Archmage's Charm
 2 Raugrin Triome
@@ -169,6 +167,8 @@
 3 Mystic Gate
 4 Cryptic Command
 4 Celestial Colonnade
+1 Shatterskull Smashing
+4 Scalding Tarn
 6 Snow-Covered Island
 3 Spell Queller
 4 Spell Queller

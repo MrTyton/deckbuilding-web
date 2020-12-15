@@ -1,4 +1,3 @@
-1 Titania, Protector of Argoth
 1 Sevinne's Reclamation
 1 Crop Rotation
 1 Maze of Ith
@@ -6,6 +5,7 @@
 1 Blast Zone
 1 Gaddock Teeg
 1 Path to Exile
+1 Titania, Protector of Argoth
 2 Field of the Dead
 2 Flagstones of Trokair
 2 Dryad of the Ilysian Grove
@@ -70,28 +70,28 @@
 2 Force of Will
 3 Force of Will
 4 Force of Will
-1 Nighthawk Scavenger
 1 Eliminate
 1 Spell Pierce
+1 Rankle, Master of Pranks
 1 Scalding Tarn
 1 Jace, the Mind Sculptor
 1 Fatal Push
 1 Unearth
+1 Nighthawk Scavenger
 1 Baleful Strix
 1 Thieves' Guild Enforcer
 1 Soaring Thought-Thief
 1 Underground Sea
 1 Ponder
-1 Rankle, Master of Pranks
 1 Snow-Covered Island
 1 Bitterblossom
 1 Anowon, the Ruin Thief
 1 Polluted Delta
 1 Snow-Covered Swamp
-2 Nighthawk Scavenger
 2 Scalding Tarn
 2 True-Name Nemesis
 2 Eliminate
+2 Nighthawk Scavenger
 2 Ponder
 2 Polluted Delta
 2 Fatal Push
@@ -101,12 +101,12 @@
 2 Snow-Covered Swamp
 2 Snow-Covered Island
 2 Underground Sea
-3 Nighthawk Scavenger
+3 Underground Sea
 3 Baleful Strix
 3 Scalding Tarn
+3 Nighthawk Scavenger
 3 Snow-Covered Island
 3 Thieves' Guild Enforcer
-3 Underground Sea
 3 Ponder
 3 Polluted Delta
 3 Soaring Thought-Thief
@@ -268,8 +268,8 @@
 2 Neheb, Dreadhorde Champion
 2 Neheb, the Eternal
 2 Sethron, Hurloon General
-3 Grove of the Burnwillows
 3 Punishing Fire
+3 Grove of the Burnwillows
 3 Neheb, Dreadhorde Champion
 3 Neheb, the Eternal
 3 Sethron, Hurloon General

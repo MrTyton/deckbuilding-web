@@ -27,10 +27,10 @@
 2 Seachrome Coast
 3 Remand
 3 Path to Exile
+1 Sword of Fire and Ice
 1 Batterskull
 1 Stoneforge Mystic
 1 Plains
-1 Sword of Fire and Ice
 1 Mantis Rider
 2 Stoneforge Mystic
 2 Mantis Rider
@@ -52,13 +52,13 @@
 1 Breeding Pool
 1 Stubborn Denial
 1 Tarmogoyf
-2 Stubborn Denial
 2 Tarmogoyf
+2 Stubborn Denial
 3 Misty Rainforest
 3 Stubborn Denial
 3 Tarmogoyf
-4 Misty Rainforest
 4 Stubborn Denial
+4 Misty Rainforest
 1 Manamorphose
 1 Stormwing Entity
 2 Stormwing Entity
@@ -74,11 +74,11 @@
 4 Mana Leak
 4 Tarmogoyf
 1 Vapor Snag
-1 Hexdrinker
 1 Wooded Foothills
-2 Hexdrinker
-2 Breeding Pool
+1 Hexdrinker
 2 Wooded Foothills
+2 Breeding Pool
+2 Hexdrinker
 3 Hexdrinker
 4 Hexdrinker
 3 Kolaghan's Command
@@ -182,8 +182,8 @@
 1 Cling to Dust
 1 Darkslick Shores
 2 Darkslick Shores
-1 Vantress Gargoyle
 1 Into the Story
+1 Vantress Gargoyle
 2 Vantress Gargoyle
 3 Vantress Gargoyle
 1 Tarfire
@@ -192,11 +192,11 @@
 2 Blossoming Defense
 2 Tarfire
 3 Tarfire
+4 Archmage's Charm
 1 Visions of Beyond
 2 Visions of Beyond
 3 Visions of Beyond
 4 Visions of Beyond
-4 Archmage's Charm
 1 Pteramander
 2 Pteramander
 3 Pteramander
@@ -226,12 +226,12 @@
 4 Soul-Scar Mage
 1 Cryptic Command
 1 Mutavault
-1 Castle Vantress
 1 Oboro, Palace in the Clouds
-1 Silundi Vision
+1 Castle Vantress
 1 Psionic Blast
 1 Spellstutter Sprite
 1 Deliberate
+1 Silundi Vision
 2 Cryptic Command
 2 Mutavault
 2 Spell Snare
@@ -239,8 +239,8 @@
 2 Spellstutter Sprite
 2 Psionic Blast
 2 Deliberate
-3 Cryptic Command
 3 Spellstutter Sprite
+3 Cryptic Command
 3 Deliberate
 4 Cryptic Command
 6 Island
