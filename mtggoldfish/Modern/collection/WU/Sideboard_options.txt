@@ -2,8 +2,8 @@
 2 Aether Gust
 2 Celestial Purge
 1 Dovin's Veto
-1 Ashiok, Dream Render
 1 Mystical Dispute
+1 Ashiok, Dream Render
 3 Aether Gust
 2 Dovin's Veto
 3 Burrenton Forge-Tender
@@ -23,11 +23,11 @@
 2 Geist of Saint Traft
 2 Lurrus of the Dream-Den
 1 Ceremonious Rejection
+2 Ceremonious Rejection
 3 Phyrexian Revoker
 3 Remorseful Cleric
 1 Tormod's Crypt
 2 Tormod's Crypt
-2 Ceremonious Rejection
 1 Spell Queller
 1 Soul-Guide Lantern
 2 Monastery Mentor
@@ -38,31 +38,34 @@
 1 Kozilek, Butcher of Truth
 2 Soul-Guide Lantern
 1 Teferi, Time Raveler
+1 Supreme Verdict
+1 Vendilion Clique
 1 Wrath of God
+1 Elspeth, Sun's Nemesis
 1 Archon of Emeria
 2 Archon of Emeria
 4 Auriok Champion
-1 Supreme Verdict
-1 Vendilion Clique
 1 Dispel
-1 Elspeth, Sun's Nemesis
+1 Aven Mindcensor
+1 Sword of Fire and Ice
+2 Aven Mindcensor
+2 Vendilion Clique
 1 Condemn
 1 Flusterstorm
 1 Sword of Light and Shadow
 3 Tormod's Crypt
 4 Tormod's Crypt
 1 Containment Priest
-1 Aven Mindcensor
-1 Sword of Fire and Ice
-2 Aven Mindcensor
 3 Ashiok, Dream Render
 1 Nexus of Fate
 1 Disdainful Stroke
+1 Narset, Parter of Veils
 1 Surgical Extraction
 2 Surgical Extraction
-2 Vendilion Clique
 1 Teferi, Hero of Dominaria
 1 Kaya's Guile
+1 Stony Silence
+2 Stony Silence
 1 Cryptic Command
 1 Detention Sphere
 1 Damnation
@@ -74,9 +77,9 @@
 1 Thoughtseize
 1 Path to Exile
 2 Teferi, Time Raveler
+2 Narset, Parter of Veils
 2 Containment Priest
 2 Condemn
-1 Narset, Parter of Veils
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 1 Alpine Moon
@@ -84,8 +87,6 @@
 1 Kor Firewalker
 2 Kor Firewalker
 2 Dispel
-1 Stony Silence
-2 Stony Silence
 2 Disdainful Stroke
 1 Torpor Orb
 2 Torpor Orb
@@ -97,3 +98,11 @@
 2 Blood Moon
 2 Skyclave Apparition
 3 Skyclave Apparition
+1 Cleansing Wildfire
+1 Blood Sun
+2 Supreme Verdict
+2 Cleansing Wildfire
+2 Blood Sun
+3 Cleansing Wildfire
+3 Ceremonious Rejection
+3 Blood Sun

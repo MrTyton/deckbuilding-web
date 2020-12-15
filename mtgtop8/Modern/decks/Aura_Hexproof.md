@@ -28,8 +28,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Ram Through](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479690)           |                    1|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)|
-|                    1|[Speaker of the Heavens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488246)|                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)    |
+|                    1|[Speaker of the Heavens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488246)|                    1|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)|
+|                    1|[Ram Through](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479690)           |                    1|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)    |
 |                    2|[Ram Through](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479690)           |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |
 |                    3|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)        |                    2|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)|
 |                    4|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)        |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)    |

@@ -43,16 +43,16 @@
 1 Scavenging Ooze
 2 Lovestruck Beast
 2 Rhonas the Indomitable
-2 Elder Gargaroth
 2 Bonders' Enclave
+2 Elder Gargaroth
 2 Spirebluff Canal
 2 Bonecrusher Giant
 2 Vivien, Arkbow Ranger
 2 Breeding Pool
 2 Questing Beast
 2 Scavenging Ooze
-3 Elder Gargaroth
 3 Lovestruck Beast
+3 Elder Gargaroth
 3 Scavenging Ooze
 3 Breeding Pool
 3 Elvish Mystic
@@ -74,8 +74,8 @@
 4 Llanowar Elves
 1 Champion of Wits
 2 Champion of Wits
-1 Solemn Simulacrum
 1 Omen of the Sea
+1 Solemn Simulacrum
 1 Spell Pierce
 2 Solemn Simulacrum
 2 Omen of the Sea
@@ -92,61 +92,6 @@
 2 Mystical Dispute
 3 Mystical Dispute
 4 Mystical Dispute
-1 Temple Garden
-1 Trostani Discordant
-1 Branchloft Pathway
-1 Sunpetal Grove
-1 Voice of Resurgence
-1 Omen of the Sun
-1 Westvale Abbey
-1 Legion's Landing
-1 Conclave Tribunal
-1 Nissa, Voice of Zendikar
-1 Elspeth, Sun's Champion
-1 Brimaz, King of Oreskos
-1 Gideon, Ally of Zendikar
-1 Huatli, Radiant Champion
-1 Appeal / Authority
-1 Raise the Alarm
-1 Anointed Procession
-1 Forest
-1 Saproling Migration
-1 Oath of Gideon
-2 Castle Ardenvale
-2 Temple Garden
-2 Legion's Landing
-2 Branchloft Pathway
-2 Sunpetal Grove
-2 Voice of Resurgence
-2 Omen of the Sun
-2 Nissa, Voice of Zendikar
-2 Forest
-2 Gideon, Ally of Zendikar
-2 Trostani Discordant
-2 Saproling Migration
-2 Anointed Procession
-2 Raise the Alarm
-2 Conclave Tribunal
-2 Brimaz, King of Oreskos
-3 Temple Garden
-3 Sunpetal Grove
-3 Branchloft Pathway
-3 Voice of Resurgence
-3 Legion's Landing
-3 Omen of the Sun
-3 Raise the Alarm
-3 Conclave Tribunal
-3 Anointed Procession
-3 Nissa, Voice of Zendikar
-3 Forest
-3 Saproling Migration
-4 Voice of Resurgence
-4 Temple Garden
-4 Branchloft Pathway
-4 Sunpetal Grove
-4 Saproling Migration
-4 Nissa, Voice of Zendikar
-4 Raise the Alarm
 1 Agadeem's Awakening
 1 Blooming Marsh
 1 Urborg, Tomb of Yawgmoth
@@ -204,8 +149,8 @@
 4 Thieves' Guild Enforcer
 1 Gilded Goose
 1 Blood Crypt
-1 Priest of Forgotten Gods
 1 Zulaport Cutthroat
+1 Priest of Forgotten Gods
 1 Woe Strider
 1 Overgrown Tomb
 1 Catacomb Sifter
@@ -215,8 +160,8 @@
 1 Collected Company
 1 Mayhem Devil
 2 Gilded Goose
-2 Overgrown Tomb
 2 Priest of Forgotten Gods
+2 Overgrown Tomb
 2 Woe Strider
 2 Zulaport Cutthroat
 2 Blood Crypt
@@ -247,3 +192,58 @@
 4 Woe Strider
 4 Collected Company
 4 Mayhem Devil
+1 Sunpetal Grove
+1 Branchloft Pathway
+1 Temple Garden
+1 Trostani Discordant
+1 Voice of Resurgence
+1 Westvale Abbey
+1 Legion's Landing
+1 Omen of the Sun
+1 Conclave Tribunal
+1 Nissa, Voice of Zendikar
+1 Elspeth, Sun's Champion
+1 Brimaz, King of Oreskos
+1 Gideon, Ally of Zendikar
+1 Huatli, Radiant Champion
+1 Appeal / Authority
+1 Raise the Alarm
+1 Anointed Procession
+1 Forest
+1 Saproling Migration
+1 Oath of Gideon
+2 Castle Ardenvale
+2 Sunpetal Grove
+2 Branchloft Pathway
+2 Temple Garden
+2 Legion's Landing
+2 Voice of Resurgence
+2 Omen of the Sun
+2 Nissa, Voice of Zendikar
+2 Forest
+2 Gideon, Ally of Zendikar
+2 Trostani Discordant
+2 Saproling Migration
+2 Anointed Procession
+2 Raise the Alarm
+2 Conclave Tribunal
+2 Brimaz, King of Oreskos
+3 Omen of the Sun
+3 Branchloft Pathway
+3 Temple Garden
+3 Voice of Resurgence
+3 Legion's Landing
+3 Sunpetal Grove
+3 Raise the Alarm
+3 Conclave Tribunal
+3 Anointed Procession
+3 Nissa, Voice of Zendikar
+3 Forest
+3 Saproling Migration
+4 Voice of Resurgence
+4 Branchloft Pathway
+4 Temple Garden
+4 Saproling Migration
+4 Nissa, Voice of Zendikar
+4 Raise the Alarm
+4 Sunpetal Grove

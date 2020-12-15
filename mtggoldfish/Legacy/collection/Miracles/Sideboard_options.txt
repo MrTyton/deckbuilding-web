@@ -32,8 +32,8 @@
 1 Izzet Staticaster
 1 Aria of Flame
 1 Felidar Retreat
-2 Aria of Flame
 2 Null Rod
+2 Aria of Flame
 1 Relic of Progenitus
 1 Soul-Guide Lantern
 3 Veil of Summer
@@ -46,9 +46,9 @@
 2 Engineered Explosives
 1 Echoing Truth
 1 Meddling Mage
-1 Tormod's Crypt
 1 Gideon, Ally of Zendikar
 1 Dovin's Veto
+1 Tormod's Crypt
 1 Hullbreacher
 1 Mind Harness
 1 Return to Nature
@@ -62,39 +62,30 @@
 2 Meddling Mage
 1 Submerge
 2 Submerge
-1 Palace Jailer
-2 Deafening Silence
-2 Containment Priest
-1 Ashiok, Dream Render
-1 Unexpectedly Absent
-1 Gideon of the Trials
-2 Blood Moon
-2 Ashiok, Dream Render
 2 Soul-Guide Lantern
 2 Damping Sphere
 2 Relic of Progenitus
+1 Palace Jailer
+2 Containment Priest
+2 Deafening Silence
 1 Porphyry Nodes
 1 Teferi, Time Raveler
 1 Nevermore
 2 Seal of Cleansing
 2 Porphyry Nodes
+1 Ashiok, Dream Render
+1 Unexpectedly Absent
+1 Gideon of the Trials
+2 Ashiok, Dream Render
+2 Blood Moon
+1 Torpor Orb
+1 Aether Gust
+2 Aether Gust
 2 Flusterstorm
 3 Terminus
 3 Aria of Flame
 1 Spell Pierce
 4 Monastery Mentor
-1 Daze
-1 Delver of Secrets
-1 Stifle
-1 Hydroblast
-2 Daze
-2 Delver of Secrets
-2 Stifle
-2 Hydroblast
-3 Daze
-3 Stifle
-3 Delver of Secrets
-4 Delver of Secrets
 1 Eladamri's Call
 1 Intuition
 1 Boseiju, Who Shelters All
@@ -102,6 +93,15 @@
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 4 Leyline of Sanctity
-1 Torpor Orb
-1 Aether Gust
-2 Aether Gust
+1 Daze
+1 Stifle
+1 Hydroblast
+1 Delver of Secrets
+2 Daze
+2 Stifle
+2 Hydroblast
+2 Delver of Secrets
+3 Daze
+3 Stifle
+3 Delver of Secrets
+4 Delver of Secrets

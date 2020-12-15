@@ -1,13 +1,10 @@
-1 Zurgo Bellstriker
 1 Spikefield Hazard
-2 Spikefield Hazard
 1 Bonecrusher Giant
 1 Ramunap Ruins
 2 Bonecrusher Giant
 2 Ramunap Ruins
-3 Ramunap Ruins
 3 Bonecrusher Giant
-4 Bonecrusher Giant
+3 Ramunap Ruins
 4 Ramunap Ruins
 8 Mountain
 9 Mountain
@@ -15,6 +12,9 @@
 11 Mountain
 12 Mountain
 13 Mountain
+2 Spikefield Hazard
+1 Zurgo Bellstriker
+4 Bonecrusher Giant
 1 Shatterskull Smashing
 1 Collective Defiance
 1 Bomat Courier
@@ -23,14 +23,19 @@
 3 Spikefield Hazard
 3 Bomat Courier
 3 Collective Defiance
-4 Spikefield Hazard
 4 Bomat Courier
+4 Spikefield Hazard
 4 Collective Defiance
-1 Wayward Guide-Beast
 1 Needleverge Pathway
-1 Roiling Vortex
 2 Shock
+14 Mountain
+15 Mountain
+1 Wayward Guide-Beast
+1 Roiling Vortex
 2 Roiling Vortex
+3 Shock
+1 Rampaging Ferocidon
+2 Rampaging Ferocidon
 1 Castle Embereth
 1 Torbran, Thane of Red Fell
 1 Mutavault
@@ -41,19 +46,20 @@
 3 Torbran, Thane of Red Fell
 3 Goblin Chainwhirler
 4 Goblin Chainwhirler
-14 Mountain
-15 Mountain
 16 Mountain
+1 Skewer the Critics
+1 Skullcrack
 1 Ash Zealot
 2 Ash Zealot
 2 Needleverge Pathway
-3 Shock
+1 Abbot of Keral Keep
+2 Abbot of Keral Keep
+3 Abbot of Keral Keep
+4 Abbot of Keral Keep
 1 Kari Zev, Skyship Raider
 2 Kari Zev, Skyship Raider
 3 Kari Zev, Skyship Raider
 4 Torbran, Thane of Red Fell
-1 Chandra, Torch of Defiance
-2 Rampaging Ferocidon
 3 Rampaging Ferocidon
 4 Rampaging Ferocidon
-1 Rampaging Ferocidon
+1 Chandra, Torch of Defiance
