@@ -156,38 +156,39 @@
 4 Garruk, Cursed Huntsman
 1 Island
 2 Island
-1 Unknown Shores
 1 Sleeper Dart
 1 Forsaken Monument
-1 Swift Response
 1 Radiant Fountain
 1 Labyrinth of Skophos
+1 Swift Response
+1 Unknown Shores
 1 Dance of the Manse
 1 Crawling Barrens
-2 Unknown Shores
 2 Sleeper Dart
 2 Labyrinth of Skophos
 2 Radiant Fountain
 2 Forsaken Monument
+2 Unknown Shores
 2 Dance of the Manse
 2 Swift Response
 2 Crawling Barrens
 3 Solemn Simulacrum
 3 Crawling Barrens
 3 Sleeper Dart
-3 Unknown Shores
 3 Radiant Fountain
 3 Forsaken Monument
+3 Unknown Shores
+4 Unknown Shores
 4 Solemn Simulacrum
 4 Sleeper Dart
-4 Radiant Fountain
 4 Crawling Barrens
 4 Forsaken Monument
-4 Unknown Shores
+4 Radiant Fountain
 6 Plains
 7 Plains
 8 Plains
 1 Jwari Disruption
+1 Rain of Revelation
 1 Silundi Vision
 1 Lofty Denial
 1 Mystic Sanctuary
@@ -199,14 +200,15 @@
 1 Brazen Borrower
 1 Essence Scatter
 1 Kiora Bests the Sea God
-1 Rain of Revelation
 1 Hypnotic Sprite
 1 Bonders' Enclave
 1 Shark Typhoon
 1 Castle Vantress
 1 Into the Roil
 2 Castle Vantress
+2 Into the Roil
 2 Gadwick, the Wizened
+2 Rain of Revelation
 2 Lofty Denial
 2 Brazen Borrower
 2 Rewind
@@ -215,8 +217,6 @@
 2 Essence Scatter
 2 Shark Typhoon
 2 Hypnotic Sprite
-2 Into the Roil
-2 Rain of Revelation
 3 Neutralize
 3 Brazen Borrower
 3 Castle Vantress
@@ -237,7 +237,6 @@
 8 Island
 9 Island
 10 Island
-11 Island
 12 Island
 13 Island
 14 Island
@@ -245,3 +244,4 @@
 16 Island
 17 Island
 18 Island
+11 Island

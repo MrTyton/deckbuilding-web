@@ -73,6 +73,8 @@
 |                     |                                                                                                  |                    1|[Combustible Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417685) |
 |                     |                                                                                                  |                    2|[Combustible Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417685) |
 |                     |                                                                                                  |                    3|[Combustible Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417685) |
+|                     |                                                                                                  |                    2|[Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)    |
+|                     |                                                                                                  |                    3|[Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)    |
 |                     |                                                                                                  |                    1|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)  |
 |                     |                                                                                                  |                    2|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)  |
 |                     |                                                                                                  |                    3|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)  |
@@ -80,6 +82,4 @@
 |                     |                                                                                                  |                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)          |
 |                     |                                                                                                  |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)       |
 |                     |                                                                                                  |                    4|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)          |
-|                     |                                                                                                  |                    2|[Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)    |
-|                     |                                                                                                  |                    3|[Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)    |
 

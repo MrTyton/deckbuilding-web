@@ -1,45 +1,46 @@
-2 Thoughtseize
-1 Flooded Grove
 3 Jace, the Mind Sculptor
-1 Snow-Covered Swamp
-3 Snow-Covered Island
-4 Growth Spiral
 1 Aether Gust
-2 Cling to Dust
-3 Remand
-4 Archmage's Charm
-1 Sunken Hollow
-1 Fact or Fiction
-1 Scalding Tarn
+1 Flooded Grove
 2 Watery Grave
+4 Archmage's Charm
+3 Snow-Covered Island
+1 Snow-Covered Swamp
+2 Remand
+2 Cling to Dust
+1 Sunken Hollow
+4 Growth Spiral
+1 Fact or Fiction
 3 Mana Leak
 1 Drown in the Loch
-1 Damnation
-2 Fact or Fiction
+3 Remand
 3 Thoughtseize
-4 Remand
-1 Shark Typhoon
-4 Cryptic Command
+1 Scalding Tarn
+2 Fact or Fiction
 3 Mystic Sanctuary
+1 Shark Typhoon
+2 Flooded Strand
+2 Bloodchief's Thirst
+1 Damnation
 1 Wilderness Reclamation
 1 Nexus of Fate
 2 Wilderness Reclamation
+4 Remand
 2 Shark Typhoon
 3 Fact or Fiction
-2 Flooded Strand
-2 Bloodchief's Thirst
+1 Narset, Parter of Veils
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Snow-Covered Island
 5 Snow-Covered Island
 6 Snow-Covered Island
-1 Narset, Parter of Veils
 1 Snapcaster Mage
 1 Sunken Ruins
+4 Cryptic Command
 1 Assassin's Trophy
 3 Shark Typhoon
 1 Hour of Promise
+1 Verdant Catacombs
 2 Scalding Tarn
 1 Nissa, Who Shakes the World
 2 Aether Gust
@@ -51,68 +52,15 @@
 3 Nissa, Who Shakes the World
 4 Thoughtseize
 2 Narset, Parter of Veils
-1 Verdant Catacombs
 2 Hour of Promise
 2 Snow-Covered Forest
 3 Scalding Tarn
-1 Valakut, the Molten Pinnacle
-2 Valakut, the Molten Pinnacle
-1 Scapeshift
-1 Lightning Bolt
-1 Blood Crypt
-1 Steam Vents
-1 Wrenn and Six
-1 Bring to Light
-1 Ketria Triome
-1 Stomping Ground
-2 Ketria Triome
-2 Scapeshift
-2 Bring to Light
-2 Steam Vents
-2 Wrenn and Six
-3 Ketria Triome
-3 Wrenn and Six
-3 Steam Vents
-3 Bring to Light
-4 Ketria Triome
-4 Bring to Light
 1 Oboro, Palace in the Clouds
 1 Tale's End
 2 Snapcaster Mage
 3 Island
-1 Fetid Pools
-1 Hinterland Harbor
-4 Fact or Fiction
-2 Assassin's Trophy
 2 Verdant Catacombs
 3 Verdant Catacombs
-1 Ghost Quarter
-1 Primeval Titan
-1 Vesuva
-1 Castle Vantress
-1 Life from the Loam
-1 Waterlogged Grove
-1 Blast Zone
-1 Deprive
-1 Dismember
-1 Go for the Throat
-1 Prismatic Vista
-1 Minamo, School at Water's Edge
-1 Geier Reach Sanitarium
-3 Narset, Parter of Veils
-1 Search for Tomorrow
-1 Botanical Sanctum
-2 Search for Tomorrow
-3 Search for Tomorrow
-3 Assassin's Trophy
-4 Search for Tomorrow
-4 Assassin's Trophy
-4 Mana Leak
-1 Thought Scour
-2 Thought Scour
-3 Thought Scour
-4 Thought Scour
-1 Bloodstained Mire
 1 Prized Amalgam
 1 Creeping Chill
 1 Stitcher's Supplier
@@ -144,19 +92,53 @@
 3 Narcomoeba
 3 Overgrown Tomb
 3 Gravecrawler
-3 Watery Grave
 3 Stitcher's Supplier
 4 Creeping Chill
-4 Prized Amalgam
 4 Hedron Crab
 4 Stitcher's Supplier
 4 Merfolk Secretkeeper
 4 Glimpse the Unthinkable
 4 Vengevine
 4 Verdant Catacombs
+1 Fetid Pools
+1 Hinterland Harbor
+4 Fact or Fiction
+2 Assassin's Trophy
+1 Ghost Quarter
+1 Primeval Titan
+1 Vesuva
+1 Prismatic Vista
+1 Life from the Loam
+1 Castle Vantress
+1 Waterlogged Grove
+1 Blast Zone
+1 Deprive
+1 Dismember
+1 Go for the Throat
+1 Gurmag Angler
+2 Gurmag Angler
+1 Minamo, School at Water's Edge
+1 Geier Reach Sanitarium
+3 Narset, Parter of Veils
+1 Bloodstained Mire
+3 Watery Grave
+4 Prized Amalgam
+1 Search for Tomorrow
+1 Botanical Sanctum
+2 Search for Tomorrow
+3 Search for Tomorrow
+3 Assassin's Trophy
+4 Search for Tomorrow
+4 Assassin's Trophy
+4 Mana Leak
+1 Thought Scour
+2 Thought Scour
+3 Thought Scour
+4 Thought Scour
 7 Snow-Covered Island
-1 Explore
 1 Cavern of Souls
+1 Valakut, the Molten Pinnacle
+1 Explore
 1 Windswept Heath
 1 Azusa, Lost but Seeking
 1 Hanweir Battlements
@@ -172,9 +154,10 @@
 1 Arboreal Grazer
 1 Dryad of the Ilysian Grove
 1 Radiant Fountain
-1 Primal Command
 1 Golgari Rot Farm
+1 Primal Command
 2 Cavern of Souls
+2 Valakut, the Molten Pinnacle
 2 Primeval Titan
 2 Explore
 2 Tolaria West
