@@ -1,10 +1,11 @@
-1 Sunbaked Canyon
+2 Silent Clearing
 3 Archon of Emeria
 3 Silent Clearing
 4 Silent Clearing
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
+1 Aven Mindcensor
 1 Castle Ardenvale
 2 Sunbaked Canyon
 4 Snow-Covered Plains
@@ -14,7 +15,6 @@
 8 Snow-Covered Plains
 9 Snow-Covered Plains
 11 Plains
-1 Aven Mindcensor
 1 Charming Prince
 2 Charming Prince
 2 Aven Mindcensor
@@ -23,30 +23,12 @@
 1 Militia Bugler
 2 Militia Bugler
 1 Restoration Angel
-1 Blast Zone
-1 Spellskite
-1 Winds of Abandon
-2 Spellskite
-3 Militia Bugler
-4 Militia Bugler
-1 Sword of Light and Shadow
-13 Plains
-14 Plains
-15 Plains
-16 Plains
-17 Plains
-11 Snow-Covered Plains
-1 Linvala, Keeper of Silence
-1 Shefet Dunes
 3 Horizon Canopy
 4 Horizon Canopy
-1 Sacred Foundry
-2 Sacred Foundry
-3 Sacred Foundry
-1 Temple Garden
 1 Noble Hierarch
 1 Brushland
 1 Eternal Witness
+1 Temple Garden
 1 Razorverge Thicket
 1 Branchloft Pathway
 1 Snow-Covered Forest
@@ -70,12 +52,30 @@
 4 Razorverge Thicket
 4 Temple Garden
 4 Noble Hierarch
+1 Blast Zone
+1 Spellskite
+1 Winds of Abandon
+2 Spellskite
+3 Militia Bugler
+4 Militia Bugler
+1 Sword of Light and Shadow
+13 Plains
+14 Plains
+15 Plains
+16 Plains
+17 Plains
+1 Linvala, Keeper of Silence
+11 Snow-Covered Plains
+1 Shefet Dunes
+1 Sacred Foundry
+2 Sacred Foundry
+3 Sacred Foundry
 1 Smuggler's Copter
 1 Blade Splicer
 1 Thraben Inspector
 2 Smuggler's Copter
-2 Blade Splicer
 2 Thraben Inspector
+2 Blade Splicer
 2 Castle Ardenvale
 3 Blade Splicer
 3 Thraben Inspector
@@ -131,20 +131,3 @@
 3 Selfless Spirit
 4 Judge's Familiar
 4 Inspiring Vantage
-1 Godless Shrine
-1 Concealed Courtyard
-1 Wasteland Strangler
-1 Tidehollow Sculler
-1 Swamp
-1 Brightclimb Pathway
-2 Concealed Courtyard
-2 Wasteland Strangler
-2 Tidehollow Sculler
-2 Brightclimb Pathway
-2 Godless Shrine
-3 Concealed Courtyard
-3 Godless Shrine
-3 Tidehollow Sculler
-3 Brightclimb Pathway
-4 Concealed Courtyard
-4 Tidehollow Sculler

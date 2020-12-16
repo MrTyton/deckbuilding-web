@@ -47,10 +47,6 @@
 1 Selfless Savior
 2 Selfless Savior
 3 Selfless Savior
-1 Deafening Silence
-2 Deafening Silence
-2 Storm's Wrath
-3 Soul-Guide Lantern
 1 Shark Typhoon
 1 Thundering Rebuke
 1 Zirda, the Dawnwaker
@@ -58,6 +54,10 @@
 2 Thundering Rebuke
 3 Shark Typhoon
 3 Thundering Rebuke
+1 Deafening Silence
+2 Deafening Silence
+2 Storm's Wrath
+3 Soul-Guide Lantern
 4 Shredded Sails
 1 Skyclave Apparition
 1 Containment Priest
@@ -71,16 +71,16 @@
 2 Duress
 3 Duress
 4 Duress
-1 Sorcerous Spyglass
 1 Embereth Shieldbreaker
 1 Disenchant
+1 Sorcerous Spyglass
 1 Baneslayer Angel
 2 Embereth Shieldbreaker
+2 Disenchant
 2 Sorcerous Spyglass
 2 Baneslayer Angel
-2 Disenchant
-3 Baneslayer Angel
 3 Hushbringer
+3 Baneslayer Angel
 4 Hushbringer
 1 Kabira Takedown
 1 Pressure Point
@@ -88,8 +88,8 @@
 2 Kabira Takedown
 2 Pressure Point
 2 Divine Arrow
-3 Kabira Takedown
 3 Divine Arrow
+3 Kabira Takedown
 4 Kabira Takedown
 1 Scorching Dragonfire
 1 Basri's Lieutenant

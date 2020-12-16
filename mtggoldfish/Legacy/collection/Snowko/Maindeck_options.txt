@@ -1,9 +1,9 @@
-1 Cling to Dust
+4 Ice-Fang Coatl
 3 Abrupt Decay
 3 Prismatic Vista
-3 Snow-Covered Island
 2 Tropical Island
 1 Hullbreacher
+3 Snow-Covered Island
 1 Wasteland
 1 Jace, the Mind Sculptor
 4 Abrupt Decay
@@ -12,6 +12,7 @@
 4 Wasteland
 1 Daze
 2 Daze
+2 Flooded Strand
 1 Snow-Covered Mountain
 1 Lightning Bolt
 1 Scalding Tarn
@@ -19,7 +20,6 @@
 2 Lightning Bolt
 2 Volcanic Island
 3 Scalding Tarn
-2 Flooded Strand
 1 Narset, Parter of Veils
 1 Preordain
 1 Stifle
@@ -57,30 +57,15 @@
 4 Daze
 2 Hullbreacher
 1 Court of Cunning
-4 Scalding Tarn
 1 Back to Basics
+2 Cling to Dust
 3 Stifle
 4 Dreadhorde Arcanist
-2 Cling to Dust
 1 Drown in the Loch
 2 Drown in the Loch
 1 Fatal Push
-1 Veil of Summer
-1 Red Elemental Blast
-1 Pyroblast
-1 Painter's Servant
-1 Grindstone
-2 Veil of Summer
-2 Red Elemental Blast
-2 Pyroblast
-2 Painter's Servant
-2 Grindstone
-3 Red Elemental Blast
-3 Grindstone
-3 Pyroblast
-3 Painter's Servant
-4 Painter's Servant
 2 Plague Engineer
+4 Scalding Tarn
 2 Court of Cunning
 1 Path to Exile
 3 Flooded Strand
@@ -110,8 +95,10 @@
 1 Carpet of Flowers
 1 Archmage's Charm
 3 Hullbreacher
-1 Opposition Agent
+3 Plague Engineer
+4 Plague Engineer
 1 Field of Ruin
+1 Opposition Agent
 2 Opposition Agent
 2 Snow-Covered Swamp
 2 Leovold, Emissary of Trest
@@ -119,10 +106,23 @@
 3 Assassin's Trophy
 3 Dead of Winter
 4 Assassin's Trophy
-3 Plague Engineer
-4 Plague Engineer
-1 Teferi, Time Raveler
 1 Supreme Verdict
+1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 3 Court of Cunning
 4 Court of Cunning
+1 Veil of Summer
+1 Red Elemental Blast
+1 Pyroblast
+1 Painter's Servant
+1 Grindstone
+2 Veil of Summer
+2 Red Elemental Blast
+2 Pyroblast
+2 Painter's Servant
+2 Grindstone
+3 Red Elemental Blast
+3 Grindstone
+3 Pyroblast
+3 Painter's Servant
+4 Painter's Servant
