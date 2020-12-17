@@ -77,8 +77,8 @@
 1 Zulaport Cutthroat
 1 Priest of Forgotten Gods
 1 Woe Strider
-1 Gilded Goose
 1 Blood Crypt
+1 Gilded Goose
 1 Overgrown Tomb
 1 Catacomb Sifter
 1 Blisterpod
@@ -87,9 +87,9 @@
 1 Collected Company
 1 Mayhem Devil
 2 Woe Strider
-2 Priest of Forgotten Gods
 2 Gilded Goose
 2 Blood Crypt
+2 Priest of Forgotten Gods
 2 Zulaport Cutthroat
 2 Overgrown Tomb
 2 Llanowar Wastes
@@ -144,9 +144,9 @@
 4 Mystical Dispute
 1 Merfolk Windrobber
 1 Mana Confluence
-1 Clearwater Pathway
 1 Sea Gate Stormcaller
 1 Drown in the Loch
+1 Clearwater Pathway
 1 Into the Story
 1 Watery Grave
 1 Fatal Push
@@ -161,33 +161,33 @@
 1 Soaring Thought-Thief
 2 Merfolk Windrobber
 2 Mana Confluence
+2 Clearwater Pathway
+2 Cling to Dust
 2 Agadeem's Awakening
 2 Watery Grave
 2 Sea Gate Stormcaller
 2 Into the Story
 2 Fatal Push
-2 Cling to Dust
 2 Thoughtseize
 2 Mutavault
 2 Soaring Thought-Thief
 2 Deathrite Shaman
 2 Drown in the Loch
-2 Clearwater Pathway
 2 Thieves' Guild Enforcer
 2 Chart a Course
 3 Merfolk Windrobber
+3 Clearwater Pathway
 3 Watery Grave
 3 Fatal Push
 3 Thoughtseize
 3 Thieves' Guild Enforcer
-3 Clearwater Pathway
 3 Drown in the Loch
 3 Mutavault
 3 Into the Story
 3 Soaring Thought-Thief
 3 Deathrite Shaman
-4 Thoughtseize
 4 Clearwater Pathway
+4 Thoughtseize
 4 Soaring Thought-Thief
 4 Drown in the Loch
 4 Deathrite Shaman
@@ -196,7 +196,6 @@
 1 Sunpetal Grove
 1 Branchloft Pathway
 1 Temple Garden
-1 Trostani Discordant
 1 Voice of Resurgence
 1 Westvale Abbey
 1 Legion's Landing
@@ -208,6 +207,7 @@
 1 Huatli, Radiant Champion
 1 Brimaz, King of Oreskos
 1 Appeal / Authority
+1 Trostani Discordant
 1 Raise the Alarm
 1 Anointed Procession
 1 Saproling Migration

@@ -39,6 +39,6 @@
 |                     |                                                                                                |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                   |
 |                     |                                                                                                |                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                   |
 |                     |                                                                                                |                    3|[Agonizing Remorse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476334)       |
-|                     |                                                                                                |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)          |
 |                     |                                                                                                |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)          |
+|                     |                                                                                                |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)          |
 

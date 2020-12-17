@@ -28,10 +28,10 @@
 2 Seachrome Coast
 3 Remand
 3 Path to Exile
+1 Plains
 1 Sword of Fire and Ice
 1 Batterskull
 1 Stoneforge Mystic
-1 Plains
 1 Mantis Rider
 2 Stoneforge Mystic
 2 Mantis Rider
@@ -101,24 +101,24 @@
 2 Uro, Titan of Nature's Wrath
 2 Forest
 3 Uro, Titan of Nature's Wrath
-1 Monastery Swiftspear
 1 Lava Dart
 1 Assault Strobe
 1 Lava Spike
+1 Monastery Swiftspear
 1 Light Up the Stage
-2 Monastery Swiftspear
 2 Lava Dart
 2 Lava Spike
+2 Monastery Swiftspear
 2 Mountain
 2 Light Up the Stage
 3 Fiery Islet
-3 Monastery Swiftspear
 3 Lava Spike
+3 Monastery Swiftspear
 3 Light Up the Stage
 3 Mountain
 3 Lava Dart
-4 Monastery Swiftspear
 4 Fiery Islet
+4 Monastery Swiftspear
 4 Lava Spike
 4 Lava Dart
 4 Mountain
@@ -166,8 +166,6 @@
 1 Dark Confidant
 1 The Royal Scions
 2 Dark Confidant
-1 Blood Moon
-2 Blood Moon
 1 Young Pyromancer
 1 Terminate
 1 Gurmag Angler
@@ -175,10 +173,12 @@
 2 Young Pyromancer
 2 Gurmag Angler
 2 Snow-Covered Island
-1 Sunbaked Canyon
 1 Mutagenic Growth
+1 Sunbaked Canyon
 2 Mutagenic Growth
 2 Assault Strobe
+1 Blood Moon
+2 Blood Moon
 1 Cling to Dust
 1 Darkslick Shores
 2 Darkslick Shores
@@ -187,9 +187,9 @@
 2 Vantress Gargoyle
 3 Vantress Gargoyle
 1 Tarfire
-1 Botanical Sanctum
 1 Hooting Mandrills
 1 Blossoming Defense
+1 Botanical Sanctum
 1 Stomping Ground
 2 Flame Slash
 2 Blossoming Defense
@@ -211,20 +211,32 @@
 3 Ancestral Vision
 4 Ancestral Vision
 4 Dreadhorde Arcanist
+1 Wizard's Retort
+1 Wizard's Lightning
+1 Soul-Scar Mage
+2 Wizard's Retort
+2 Wizard's Lightning
+2 Soul-Scar Mage
+3 Wizard's Retort
+3 Wizard's Lightning
+3 Soul-Scar Mage
+4 Wizard's Lightning
+4 Wizard's Retort
+4 Soul-Scar Mage
 1 Cryptic Command
-1 Silundi Vision
 1 Mutavault
 1 Oboro, Palace in the Clouds
 1 Castle Vantress
 1 Spellstutter Sprite
 1 Deliberate
 1 Psionic Blast
+1 Silundi Vision
 2 Spell Snare
 2 Cryptic Command
 2 Mutavault
-2 Vendilion Clique
 2 Spellstutter Sprite
 2 Psionic Blast
+2 Vendilion Clique
 2 Deliberate
 3 Spellstutter Sprite
 3 Cryptic Command
@@ -241,15 +253,3 @@
 14 Island
 15 Island
 16 Island
-1 Wizard's Retort
-1 Wizard's Lightning
-1 Soul-Scar Mage
-2 Wizard's Retort
-2 Wizard's Lightning
-2 Soul-Scar Mage
-3 Wizard's Retort
-3 Wizard's Lightning
-3 Soul-Scar Mage
-4 Wizard's Lightning
-4 Wizard's Retort
-4 Soul-Scar Mage

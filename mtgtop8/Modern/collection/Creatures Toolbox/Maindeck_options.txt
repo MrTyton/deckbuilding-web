@@ -1,10 +1,9 @@
 2 Scavenging Ooze
+4 Horizon Canopy
 4 Conclave Mentor
 1 Spellskite
-4 Horizon Canopy
 3 Eladamri's Call
 1 Snow-Covered Plains
-1 Gavony Township
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 2 Giver of Runes
@@ -12,49 +11,26 @@
 3 Auriok Champion
 2 Prismatic Vista
 5 Forest
-2 Misty Rainforest
 1 Birds of Paradise
+1 Gavony Township
 3 Snow-Covered Forest
 1 Razorverge Thicket
 2 Razorverge Thicket
 2 Birds of Paradise
 2 Wooded Foothills
-3 Giver of Runes
-4 Giver of Runes
-4 Snow-Covered Forest
 2 Verdant Catacombs
 3 Verdant Catacombs
+4 Snow-Covered Forest
+1 Overgrown Tomb
 2 Noble Hierarch
 3 Noble Hierarch
-1 Devoted Druid
-1 Vizier of Remedies
-1 Shalai, Voice of Plenty
-1 Duskwatch Recruiter
-1 Finale of Devastation
-2 Devoted Druid
-2 Finale of Devastation
-2 Vizier of Remedies
-3 Devoted Druid
-3 Vizier of Remedies
-4 Devoted Druid
-1 Overgrown Tomb
-4 Noble Hierarch
-1 Godless Shrine
 1 Chord of Calling
-1 Kitchen Finks
-1 Marsh Flats
-1 Viscera Seer
-2 Kitchen Finks
-3 Kitchen Finks
-4 Verdant Catacombs
-5 Snow-Covered Forest
 2 Chord of Calling
 3 Chord of Calling
 3 Birds of Paradise
 4 Chord of Calling
 1 Eldritch Evolution
 2 Eldritch Evolution
-4 Birds of Paradise
 1 Gilded Goose
 1 Strangleroot Geist
 1 Wall of Roots
@@ -62,8 +38,6 @@
 1 Geralf's Messenger
 1 Swamp
 1 Twilight Mire
-1 Zulaport Cutthroat
-1 Hapatra, Vizier of Poisons
 1 Khalni Garden
 1 Young Wolf
 1 Yawgmoth, Thran Physician
@@ -73,8 +47,8 @@
 2 Geralf's Messenger
 2 Twilight Mire
 2 Overgrown Tomb
-2 Yawgmoth, Thran Physician
 2 Young Wolf
+2 Yawgmoth, Thran Physician
 3 Strangleroot Geist
 3 Wall of Roots
 3 Blooming Marsh
@@ -87,14 +61,50 @@
 4 Wall of Roots
 4 Eldritch Evolution
 4 Twilight Mire
+3 Giver of Runes
+4 Giver of Runes
+1 Godless Shrine
+4 Verdant Catacombs
+1 Devoted Druid
+1 Vizier of Remedies
+1 Shalai, Voice of Plenty
+1 Duskwatch Recruiter
+1 Finale of Devastation
+2 Devoted Druid
+2 Finale of Devastation
+2 Vizier of Remedies
+3 Devoted Druid
+3 Vizier of Remedies
+4 Devoted Druid
+4 Birds of Paradise
+4 Noble Hierarch
+2 Misty Rainforest
+1 Kitchen Finks
+1 Marsh Flats
+1 Viscera Seer
+2 Kitchen Finks
+3 Kitchen Finks
+5 Snow-Covered Forest
+1 Zulaport Cutthroat
+1 Hapatra, Vizier of Poisons
+1 Urborg, Tomb of Yawgmoth
+1 Dryad Arbor
+2 Gilded Goose
+3 Geralf's Messenger
+4 Yawgmoth, Thran Physician
 3 Wooded Foothills
+1 Phyrexian Revoker
+1 Aether Vial
+2 Aether Vial
+3 Aether Vial
+4 Aether Vial
 1 Snow-Covered Mountain
 1 Eternal Witness
-1 Restoration Angel
 1 Stomping Ground
+1 Restoration Angel
 1 Raugrin Triome
-1 Kiki-Jiki, Mirror Breaker
 1 Arid Mesa
+1 Kiki-Jiki, Mirror Breaker
 1 Sacred Foundry
 1 Seasoned Pyromancer
 2 Restoration Angel
@@ -110,41 +120,36 @@
 1 Charming Prince
 1 Deputy of Detention
 1 Venser, Shaper Savant
-1 Aether Vial
 1 Ice-Fang Coatl
 1 Snow-Covered Island
 1 Steam Vents
-1 Hallowed Fountain
 1 Omnath, Locus of Creation
 1 Breeding Pool
 1 Ketria Triome
 1 Flooded Strand
+1 Hallowed Fountain
 2 Breeding Pool
 2 Soulherder
 2 Ephemerate
 2 Coiling Oracle
 2 Avalanche Riders
-2 Aether Vial
+2 Flooded Strand
 2 Snow-Covered Island
 2 Ice-Fang Coatl
-2 Flooded Strand
 3 Eternal Witness
 3 Soulherder
 3 Ephemerate
 3 Coiling Oracle
 3 Flooded Strand
 3 Ice-Fang Coatl
-3 Aether Vial
 4 Ephemerate
 4 Coiling Oracle
 4 Ice-Fang Coatl
-4 Aether Vial
 4 Flooded Strand
 1 Tectonic Edge
 1 Sunbaked Canyon
 1 Magus of the Moon
 1 Wall of Blossoms
-1 Phyrexian Revoker
 1 Path to Exile
 1 Loaming Shaman
 1 Batterskull
@@ -165,13 +170,16 @@
 3 Path to Exile
 3 Stoneforge Mystic
 3 Seasoned Pyromancer
-4 Wall of Blossoms
 4 Restoration Angel
+4 Wall of Blossoms
 4 Wooded Foothills
 4 Misty Rainforest
-4 Path to Exile
 4 Seasoned Pyromancer
+4 Path to Exile
 4 Stoneforge Mystic
+1 Nurturing Peatland
+1 Blood Artist
+1 Cavalier of Night
 1 Lurrus of the Dream-Den
 1 Mishra's Bauble
 1 Simian Spirit Guide
@@ -189,19 +197,14 @@
 3 Razorverge Thicket
 3 Postmortem Lunge
 4 Mishra's Bauble
-4 Postmortem Lunge
 4 Razorverge Thicket
 4 Eladamri's Call
+4 Postmortem Lunge
 4 Vizier of Remedies
 4 Finale of Devastation
 6 Forest
 1 Elves of Deep Shadow
 1 Woodland Cemetery
-1 Urborg, Tomb of Yawgmoth
-1 Dryad Arbor
 2 Khalni Garden
-2 Gilded Goose
-3 Geralf's Messenger
 4 Geralf's Messenger
-4 Yawgmoth, Thran Physician
 4 Blooming Marsh

@@ -175,6 +175,6 @@
 |                    2|[Worldly Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15429)                 |                     |                                                                                                        |
 |                    2|[Amulet of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191577)              |                     |                                                                                                        |
 |                    2|[Mistcutter Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373727)             |                     |                                                                                                        |
-|                    3|[Mistcutter Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373727)             |                     |                                                                                                        |
 |                    4|[Primeval Titan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438749)               |                     |                                                                                                        |
+|                    3|[Mistcutter Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373727)             |                     |                                                                                                        |
 

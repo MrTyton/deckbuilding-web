@@ -1,3 +1,6 @@
+1 Anger of the Gods
+2 Anger of the Gods
+3 Anger of the Gods
 1 Lukka, Coppercoat Outcast
 1 Riverglide Pathway
 1 Gideon of the Trials
@@ -7,8 +10,8 @@
 1 Aether Gust
 1 Transmogrify
 1 Chained to the Rocks
-1 Hallowed Fountain
 1 Teferi, Time Raveler
+1 Hallowed Fountain
 1 Agent of Treachery
 1 Fires of Invention
 1 Ketria Triome
@@ -25,13 +28,13 @@
 2 Fires of Invention
 2 Supreme Verdict
 2 Transmogrify
+2 Chained to the Rocks
 2 Aether Gust
+2 The Birth of Meletis
 2 Hallowed Fountain
 2 Raugrin Triome
 2 Glacial Fortress
 2 Castle Ardenvale
-2 The Birth of Meletis
-2 Chained to the Rocks
 2 Ketria Triome
 2 Agent of Treachery
 3 Sulfur Falls
@@ -42,39 +45,53 @@
 3 Agent of Treachery
 3 Raugrin Triome
 3 The Birth of Meletis
-3 Hallowed Fountain
+3 Sacred Foundry
 3 Chained to the Rocks
 3 Teferi, Time Raveler
 3 Steam Vents
 3 Transmogrify
-3 Sacred Foundry
+3 Hallowed Fountain
 3 Shark Typhoon
-4 Transmogrify
 4 Sulfur Falls
 4 Ketria Triome
 4 Shark Typhoon
 4 Omen of the Sea
 4 Teferi, Time Raveler
+4 Transmogrify
 4 Raugrin Triome
 4 Hallowed Fountain
-4 Steam Vents
 4 The Birth of Meletis
+4 Steam Vents
 4 Sacred Foundry
 4 Chained to the Rocks
-1 Cling to Dust
+4 Fatal Push
 1 Hero's Downfall
-1 Scarab Feast
 1 The Scarab God
 1 Castle Locthwain
 1 Languish
+1 Scarab Feast
 1 Mystical Dispute
 1 Field of Ruin
 2 Day's Undoing
-2 Scarab Feast
-2 Languish
 2 Kalitas, Traitor of Ghet
+2 Languish
+2 Scarab Feast
 2 Field of Ruin
 3 Swamp
+1 Silundi Vision
+1 Tasigur, the Golden Fang
+1 Clearwater Pathway
+1 Hieroglyphic Illumination
+1 Thing in the Ice
+1 Bloodchief's Thirst
+1 Consign / Oblivion
+2 Ashiok, Nightmare Muse
+2 Hieroglyphic Illumination
+2 Cling to Dust
+2 Clearwater Pathway
+3 Cling to Dust
+3 Clearwater Pathway
+4 Clearwater Pathway
 1 Mountain
 1 Valakut Awakening
 1 Ramunap Ruins
@@ -107,12 +124,12 @@
 2 Battlefield Forge
 2 Darksteel Citadel
 2 Mountain
-3 Ramunap Ruins
 3 Cascading Cataracts
-3 Bonecrusher Giant
 3 Cleansing Wildfire
 3 Valakut Awakening
 3 Vessel of Volatility
+3 Ramunap Ruins
+3 Bonecrusher Giant
 3 Irencrag Feat
 3 Mazemind Tome
 3 Chandra, Torch of Defiance
@@ -125,16 +142,16 @@
 4 Cleansing Wildfire
 4 Cascading Cataracts
 4 Valakut Awakening
-4 Bonecrusher Giant
-4 Ramunap Ruins
-4 Mazemind Tome
 4 Anger of the Gods
+4 Ramunap Ruins
+4 Bonecrusher Giant
+4 Mazemind Tome
 4 Thought-Knot Seer
 4 Darksteel Citadel
 4 Ugin, the Spirit Dragon
 1 Courser of Kruphix
-1 Sunpetal Grove
 1 Branchloft Pathway
+1 Sunpetal Grove
 1 Baffling End
 1 Sigil of the Empty Throne
 1 Setessan Champion
@@ -142,15 +159,15 @@
 1 Calix, Destiny's Hand
 1 Gideon's Intervention
 1 Mana Bloom
-1 Wolfwillow Haven
-1 Sphere of Safety
 1 Eidolon of Blossoms
+1 Sphere of Safety
 1 Temple Garden
 1 Temple of Plenty
 1 Seal Away
+1 Forest
+1 Wolfwillow Haven
 1 Starfield Mystic
 1 Herald of the Pantheon
-1 Forest
 2 Branchloft Pathway
 2 Courser of Kruphix
 2 Sunpetal Grove
@@ -159,12 +176,12 @@
 2 Calix, Destiny's Hand
 2 Banishing Light
 2 Eidolon of Blossoms
+2 Sigil of the Empty Throne
 2 Forest
 2 Temple Garden
 2 Temple of Plenty
 2 Seal Away
 2 Gideon's Intervention
-2 Sigil of the Empty Throne
 2 Wolfwillow Haven
 2 Herald of the Pantheon
 2 Sphere of Safety
@@ -173,12 +190,12 @@
 3 Banishing Light
 3 Setessan Champion
 3 Baffling End
-3 Temple of Plenty
 3 Courser of Kruphix
 3 Forest
 3 Wolfwillow Haven
 3 Sphere of Safety
 3 Eidolon of Blossoms
+3 Temple of Plenty
 3 Herald of the Pantheon
 4 Temple Garden
 4 Banishing Light
@@ -192,10 +209,10 @@
 1 Blood Crypt
 1 Nicol Bolas, the Ravager
 1 Kroxa, Titan of Death's Hunger
-1 Davriel, Rogue Shadowmage
 1 Thought Erasure
 1 Dragonskull Summit
 1 Liliana, Waker of the Dead
+1 Davriel, Rogue Shadowmage
 2 Collective Brutality
 2 Liliana, Waker of the Dead
 2 Kolaghan's Command
@@ -214,16 +231,13 @@
 4 Kroxa, Titan of Death's Hunger
 4 Liliana, Waker of the Dead
 4 Nicol Bolas, the Ravager
-4 Fatal Push
 4 Davriel, Rogue Shadowmage
 1 Brazen Borrower
 1 Legion's End
 1 Choked Estuary
-1 God-Eternal Kefnet
 1 Censor
-1 Jace, Vryn's Prodigy
-2 Censor
+1 God-Eternal Kefnet
 2 Choked Estuary
-2 Jace, Vryn's Prodigy
+2 Censor
 4 Dig Through Time
 5 Island

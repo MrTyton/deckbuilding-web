@@ -48,7 +48,6 @@
 4 Fatal Push
 3 Wooded Foothills
 1 Temple Garden
-1 Windswept Heath
 1 Arid Mesa
 1 Sacred Foundry
 1 Sejiri Shelter
@@ -58,6 +57,7 @@
 1 Flagstones of Trokair
 1 Sunbaked Canyon
 1 Akoum Hellhound
+1 Windswept Heath
 1 Soaring Seacliff
 1 Mishra's Bauble
 1 Steppe Lynx
@@ -99,10 +99,10 @@
 2 Archmage's Charm
 1 Flooded Strand
 1 Hallowed Fountain
-1 Teferi, Time Raveler
 1 Path to Exile
-2 Path to Exile
+1 Teferi, Time Raveler
 2 Teferi, Time Raveler
+2 Path to Exile
 3 Path to Exile
 1 Snapcaster Mage
 2 Snapcaster Mage
@@ -119,16 +119,16 @@
 2 Glimpse the Unthinkable
 2 Hedron Crab
 2 Assassin's Trophy
-2 Field of Ruin
 2 Mesmeric Orb
 2 Ruin Crab
 2 Visions of Beyond
+2 Field of Ruin
 2 Archive Trap
 3 Glimpse the Unthinkable
 3 Hedron Crab
 3 Assassin's Trophy
-3 Field of Ruin
 3 Ruin Crab
+3 Field of Ruin
 3 Mesmeric Orb
 3 Visions of Beyond
 3 Archive Trap
@@ -146,8 +146,8 @@
 1 Cinder Glade
 3 Snow-Covered Forest
 1 Ice-Fang Coatl
-1 Search for Azcanta
 1 Abundant Growth
+1 Search for Azcanta
 1 Arboreal Grazer
 2 Ice-Fang Coatl
 2 Abundant Growth
@@ -166,8 +166,8 @@
 1 Worldly Counsel
 1 Hunting Wilds
 1 Maelstrom Pulse
-1 Supreme Verdict
 1 Snow-Covered Plains
+1 Supreme Verdict
 1 Mwonvuli Acid-Moss
 2 Mana Leak
 1 Shark Typhoon
@@ -177,21 +177,21 @@
 1 Courser of Kruphix
 1 Terminate
 1 Obstinate Baloth
-1 Thoughtseize
 1 Platinum Emperion
 1 Madcap Experiment
+1 Thoughtseize
 2 Snow-Covered Mountain
 2 Obstinate Baloth
 2 Thoughtseize
 2 Mountain
-1 Raugrin Triome
-2 Raugrin Triome
-3 Teferi, Time Raveler
-3 Raugrin Triome
 1 Surgical Extraction
 1 Shelldock Isle
 2 Surgical Extraction
 3 Surgical Extraction
+1 Raugrin Triome
+2 Raugrin Triome
+3 Teferi, Time Raveler
+3 Raugrin Triome
 1 Jwari Disruption
 1 Explore
 1 Peer Through Depths
