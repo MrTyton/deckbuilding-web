@@ -1,6 +1,6 @@
 1 Ral, Izzet Viceroy
-3 Force of Negation
 1 Polluted Delta
+3 Force of Negation
 1 Emrakul, the Aeons Torn
 1 Through the Breach
 2 Emrakul, the Aeons Torn
@@ -9,10 +9,10 @@
 3 Through the Breach
 4 Through the Breach
 4 Emrakul, the Aeons Torn
-1 Silundi Vision
 2 Misty Rainforest
-1 Cascade Bluffs
 1 Fiery Islet
+1 Cascade Bluffs
+1 Silundi Vision
 1 Thing in the Ice
 2 Thing in the Ice
 3 Thing in the Ice
@@ -49,39 +49,39 @@
 4 Snow-Covered Island
 5 Snow-Covered Island
 3 Serum Visions
-8 Island
 2 Mountain
 3 Cleansing Wildfire
 6 Snow-Covered Island
 4 Serum Visions
 2 Polluted Delta
 3 Polluted Delta
+8 Island
 2 Brazen Borrower
 3 Misty Rainforest
-9 Island
+3 Omen of the Sea
+4 Omen of the Sea
 1 Deliberate
 2 Deliberate
 3 Deliberate
-1 Vendilion Clique
-1 Oboro, Palace in the Clouds
-1 Spell Pierce
-3 Omen of the Sea
-4 Omen of the Sea
 4 Deliberate
+9 Island
 1 Prismatic Vista
 2 Fiery Islet
+1 Vendilion Clique
 3 Steam Vents
+1 Oboro, Palace in the Clouds
 1 Desolate Lighthouse
 1 Valakut Awakening
 1 Izzet Charm
 4 Misty Rainforest
+1 Spell Pierce
 2 Spell Pierce
-2 Vendilion Clique
-1 Electrolyze
 1 The Royal Scions
-1 Engineered Explosives
+1 Electrolyze
 1 Mana Leak
 2 Mana Leak
+1 Engineered Explosives
+2 Vendilion Clique
 1 Sulfur Falls
 1 Bonecrusher Giant
 1 Wandering Fumarole
@@ -108,25 +108,6 @@
 4 Cleansing Wildfire
 1 Burst Lightning
 4 Thing in the Ice
-1 Mutavault
-1 Castle Vantress
-1 Delver of Secrets
-1 Psionic Blast
-1 Spellstutter Sprite
-2 Mutavault
-2 Delver of Secrets
-2 Spellstutter Sprite
-2 Psionic Blast
-3 Delver of Secrets
-3 Spellstutter Sprite
-4 Delver of Secrets
-10 Island
-11 Island
-12 Island
-13 Island
-14 Island
-15 Island
-16 Island
 1 Clearwater Pathway
 1 Flame Slash
 1 Blood Sun

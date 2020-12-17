@@ -136,10 +136,10 @@
 4 Harmonious Archon
 4 Mountain
 1 Wolfwillow Haven
+1 Cultivate
 1 Shadows' Verdict
 1 Erebos's Intervention
 1 Felidar Retreat
-1 Cultivate
 2 Bala Ged Recovery
 2 Wolfwillow Haven
 2 Erebos's Intervention
@@ -188,8 +188,8 @@
 7 Plains
 8 Plains
 1 Jwari Disruption
-1 Rain of Revelation
 1 Silundi Vision
+1 Rain of Revelation
 1 Lofty Denial
 1 Mystic Sanctuary
 1 Rewind
@@ -206,7 +206,6 @@
 1 Castle Vantress
 1 Into the Roil
 2 Castle Vantress
-2 Into the Roil
 2 Gadwick, the Wizened
 2 Rain of Revelation
 2 Lofty Denial
@@ -215,6 +214,7 @@
 2 Neutralize
 2 Frantic Inventory
 2 Essence Scatter
+2 Into the Roil
 2 Shark Typhoon
 2 Hypnotic Sprite
 3 Neutralize
@@ -237,6 +237,7 @@
 8 Island
 9 Island
 10 Island
+11 Island
 12 Island
 13 Island
 14 Island
@@ -244,4 +245,3 @@
 16 Island
 17 Island
 18 Island
-11 Island

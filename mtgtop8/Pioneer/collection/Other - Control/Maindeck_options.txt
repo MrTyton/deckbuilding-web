@@ -1,40 +1,3 @@
-1 Forest
-2 Forest
-2 Temple Garden
-3 Temple Garden
-1 Ugin, the Spirit Dragon
-1 Kenrith, the Returned King
-1 Felidar Retreat
-1 Escape to the Wilds
-1 Genesis Ultimatum
-1 Growth Spiral
-1 Omnath, Locus of Creation
-1 Breeding Pool
-1 Stomping Ground
-2 Felidar Retreat
-2 Growth Spiral
-2 Omnath, Locus of Creation
-2 Escape to the Wilds
-3 Felidar Retreat
-3 Escape to the Wilds
-3 Growth Spiral
-3 Omnath, Locus of Creation
-4 Omnath, Locus of Creation
-4 Growth Spiral
-1 Eliminate
-2 Eliminate
-3 Eliminate
-1 Hallowed Fountain
-2 Hallowed Fountain
-4 Raugrin Triome
-1 Sulfur Falls
-2 Steam Vents
-2 Sulfur Falls
-1 Castle Ardenvale
-2 Plains
-1 Anger of the Gods
-2 Anger of the Gods
-3 Anger of the Gods
 1 Lukka, Coppercoat Outcast
 1 Riverglide Pathway
 1 Gideon of the Trials
@@ -44,24 +7,32 @@
 1 Aether Gust
 1 Transmogrify
 1 Chained to the Rocks
-1 Glacial Fortress
+1 Hallowed Fountain
+1 Teferi, Time Raveler
 1 Agent of Treachery
 1 Fires of Invention
+1 Ketria Triome
 1 Sacred Foundry
 1 The Birth of Meletis
 1 Supreme Verdict
+1 Raugrin Triome
+1 Glacial Fortress
 2 Gideon of the Trials
 2 Omen of the Sun
 2 Omen of the Sea
 2 Sacred Foundry
+2 Teferi, Time Raveler
 2 Fires of Invention
 2 Supreme Verdict
 2 Transmogrify
 2 Aether Gust
-2 The Birth of Meletis
+2 Hallowed Fountain
+2 Raugrin Triome
 2 Glacial Fortress
 2 Castle Ardenvale
+2 The Birth of Meletis
 2 Chained to the Rocks
+2 Ketria Triome
 2 Agent of Treachery
 3 Sulfur Falls
 3 Castle Ardenvale
@@ -69,22 +40,25 @@
 3 Plains
 3 Omen of the Sea
 3 Agent of Treachery
+3 Raugrin Triome
 3 The Birth of Meletis
 3 Hallowed Fountain
+3 Chained to the Rocks
+3 Teferi, Time Raveler
 3 Steam Vents
 3 Transmogrify
-3 Chained to the Rocks
 3 Sacred Foundry
 3 Shark Typhoon
 4 Transmogrify
 4 Sulfur Falls
 4 Ketria Triome
 4 Shark Typhoon
-4 Teferi, Time Raveler
 4 Omen of the Sea
+4 Teferi, Time Raveler
+4 Raugrin Triome
 4 Hallowed Fountain
-4 The Birth of Meletis
 4 Steam Vents
+4 The Birth of Meletis
 4 Sacred Foundry
 4 Chained to the Rocks
 1 Cling to Dust
@@ -93,6 +67,7 @@
 1 The Scarab God
 1 Castle Locthwain
 1 Languish
+1 Mystical Dispute
 1 Field of Ruin
 2 Day's Undoing
 2 Scarab Feast
@@ -100,22 +75,7 @@
 2 Kalitas, Traitor of Ghet
 2 Field of Ruin
 3 Swamp
-4 Temple Garden
-2 Ugin, the Spirit Dragon
-2 Mountain
-1 Terror of the Peaks
-1 Dryad of the Ilysian Grove
-1 Cragcrown Pathway
-1 Inspired Ultimatum
-1 Prophet of Kruphix
-1 Temple of Mystery
-2 Dryad of the Ilysian Grove
-2 Terror of the Peaks
-2 Prophet of Kruphix
-2 Kenrith, the Returned King
-2 Genesis Ultimatum
-3 Dryad of the Ilysian Grove
-4 Dryad of the Ilysian Grove
+1 Mountain
 1 Valakut Awakening
 1 Ramunap Ruins
 1 Bonecrusher Giant
@@ -131,6 +91,7 @@
 1 Cascading Cataracts
 1 Thought-Knot Seer
 1 Battlefield Forge
+1 Ugin, the Spirit Dragon
 1 Darksteel Citadel
 2 Valakut Awakening
 2 Ramunap Ruins
@@ -142,12 +103,14 @@
 2 Cascading Cataracts
 2 Chandra, Torch of Defiance
 2 Thought-Knot Seer
+2 Ugin, the Spirit Dragon
 2 Battlefield Forge
 2 Darksteel Citadel
+2 Mountain
 3 Ramunap Ruins
-3 Cleansing Wildfire
-3 Bonecrusher Giant
 3 Cascading Cataracts
+3 Bonecrusher Giant
+3 Cleansing Wildfire
 3 Valakut Awakening
 3 Vessel of Volatility
 3 Irencrag Feat
@@ -169,25 +132,25 @@
 4 Thought-Knot Seer
 4 Darksteel Citadel
 4 Ugin, the Spirit Dragon
-3 Forest
-4 Forest
 1 Courser of Kruphix
 1 Sunpetal Grove
 1 Branchloft Pathway
 1 Baffling End
 1 Sigil of the Empty Throne
-1 Banishing Light
 1 Setessan Champion
+1 Banishing Light
 1 Calix, Destiny's Hand
 1 Gideon's Intervention
+1 Mana Bloom
+1 Wolfwillow Haven
 1 Sphere of Safety
 1 Eidolon of Blossoms
+1 Temple Garden
 1 Temple of Plenty
 1 Seal Away
-1 Wolfwillow Haven
-1 Mana Bloom
 1 Starfield Mystic
 1 Herald of the Pantheon
+1 Forest
 2 Branchloft Pathway
 2 Courser of Kruphix
 2 Sunpetal Grove
@@ -196,6 +159,8 @@
 2 Calix, Destiny's Hand
 2 Banishing Light
 2 Eidolon of Blossoms
+2 Forest
+2 Temple Garden
 2 Temple of Plenty
 2 Seal Away
 2 Gideon's Intervention
@@ -203,36 +168,25 @@
 2 Wolfwillow Haven
 2 Herald of the Pantheon
 2 Sphere of Safety
+3 Temple Garden
 3 Branchloft Pathway
 3 Banishing Light
 3 Setessan Champion
 3 Baffling End
 3 Temple of Plenty
 3 Courser of Kruphix
+3 Forest
+3 Wolfwillow Haven
 3 Sphere of Safety
 3 Eidolon of Blossoms
 3 Herald of the Pantheon
-3 Wolfwillow Haven
+4 Temple Garden
 4 Banishing Light
 4 Temple of Plenty
 4 Eidolon of Blossoms
 4 Herald of the Pantheon
 4 Wolfwillow Haven
-1 Hinterland Harbor
-1 Lotus Cobra
-1 Uro, Titan of Nature's Wrath
-1 Cultivate
-2 Hinterland Harbor
-2 Stomping Ground
-2 Lotus Cobra
-2 Breeding Pool
-2 Uro, Titan of Nature's Wrath
-3 Hinterland Harbor
-3 Uro, Titan of Nature's Wrath
-3 Lotus Cobra
-4 Lotus Cobra
-4 Uro, Titan of Nature's Wrath
-4 Escape to the Wilds
+4 Forest
 1 Kolaghan's Command
 1 Collective Brutality
 1 Blood Crypt
@@ -262,14 +216,14 @@
 4 Nicol Bolas, the Ravager
 4 Fatal Push
 4 Davriel, Rogue Shadowmage
-1 God-Eternal Kefnet
 1 Brazen Borrower
 1 Legion's End
 1 Choked Estuary
+1 God-Eternal Kefnet
 1 Censor
 1 Jace, Vryn's Prodigy
-2 Choked Estuary
 2 Censor
+2 Choked Estuary
 2 Jace, Vryn's Prodigy
 4 Dig Through Time
 5 Island

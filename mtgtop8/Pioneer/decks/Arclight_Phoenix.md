@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    3|[Tome Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191598)        |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                 |
-|                    4|[Tome Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191598)        |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)   |
+|                    3|[Tome Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191598)        |                    2|[Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)   |
+|                    4|[Tome Scour](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191598)        |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)                 |
 |                    4|[Magmatic Channeler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491789)|                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)            |
 |                    1|[Sprite Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479731)     |                    1|[Sprite Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479731)          |
 |                    2|[Sprite Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479731)     |                    2|[Sprite Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479731)          |
