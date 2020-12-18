@@ -96,8 +96,8 @@
 |                     |                                                                                              |                    1|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)           |
 |                     |                                                                                              |                    2|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)           |
 |                     |                                                                                              |                    2|[Surge of Righteousness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394720)     |
-|                     |                                                                                              |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)          |
 |                     |                                                                                              |                    3|[Blessed Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414302)           |
+|                     |                                                                                              |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)          |
 |                     |                                                                                              |                    4|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)          |
 |                     |                                                                                              |                    3|[Surge of Righteousness](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394720)     |
 

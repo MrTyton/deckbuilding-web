@@ -11,43 +11,43 @@
 1 Ashen Rider
 1 Sire of Insanity
 1 Elesh Norn, Grand Cenobite
-1 Daze
 1 Brainstorm
-1 Ponder
+1 Daze
 1 Force of Will
+1 Ponder
 1 Underground Sea
-2 Daze
 2 Brainstorm
+2 Daze
+2 Force of Will
 2 Ponder
 2 Underground Sea
-2 Force of Will
 3 Daze
-3 Underground Sea
 3 Force of Will
+3 Underground Sea
 3 Brainstorm
 3 Ponder
 4 Daze
 4 Force of Will
 4 Brainstorm
 1 Young Pyromancer
-1 Lightning Bolt
+1 Preordain
 1 Dreadhorde Arcanist
 1 Volcanic Island
-1 Preordain
 1 Force of Negation
+1 Lightning Bolt
 1 Ox of Agonas
 1 Scalding Tarn
-2 Scalding Tarn
 2 Young Pyromancer
-2 Lightning Bolt
-2 Dreadhorde Arcanist
 2 Volcanic Island
-3 Scalding Tarn
+2 Dreadhorde Arcanist
+2 Lightning Bolt
+2 Scalding Tarn
 3 Dreadhorde Arcanist
 3 Young Pyromancer
 3 Lightning Bolt
-4 Lightning Bolt
+3 Scalding Tarn
 4 Dreadhorde Arcanist
+4 Lightning Bolt
 1 Tidespout Tyrant
 3 Swamp
 2 Cabal Therapy
@@ -68,16 +68,16 @@
 4 Collective Brutality
 1 Blood Crypt
 1 Inquisition of Kozilek
+2 Force of Negation
 1 Vilis, Broker of Blood
 2 Bayou
-2 Force of Negation
 3 Cabal Therapy
 4 Cabal Therapy
 3 Verdant Catacombs
 4 Verdant Catacombs
+1 Island
 1 Archetype of Endurance
 1 Hapless Researcher
-1 Island
 1 Careful Study
 2 Careful Study
 2 Hapless Researcher
@@ -91,11 +91,24 @@
 2 Brazen Borrower
 2 Wasteland
 4 Ponder
+4 Swamp
+5 Swamp
+6 Swamp
+7 Swamp
+8 Swamp
+9 Swamp
+10 Swamp
+11 Swamp
+12 Swamp
+13 Swamp
+14 Swamp
+15 Swamp
+16 Swamp
 1 Grim Tutor
 1 Hymn to Tourach
 1 Sphinx of the Steel Wind
-2 Hymn to Tourach
 2 Grim Tutor
+2 Hymn to Tourach
 3 Hymn to Tourach
 4 Snow-Covered Swamp
 4 Hymn to Tourach
@@ -113,16 +126,3 @@
 15 Snow-Covered Swamp
 16 Snow-Covered Swamp
 17 Snow-Covered Swamp
-4 Swamp
-5 Swamp
-6 Swamp
-7 Swamp
-8 Swamp
-9 Swamp
-10 Swamp
-11 Swamp
-12 Swamp
-13 Swamp
-14 Swamp
-15 Swamp
-16 Swamp

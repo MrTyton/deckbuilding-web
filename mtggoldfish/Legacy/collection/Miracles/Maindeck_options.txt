@@ -1,8 +1,8 @@
 1 Supreme Verdict
 2 Monastery Mentor
 1 Daze
-1 Gideon, Ally of Zendikar
 1 Red Elemental Blast
+1 Gideon, Ally of Zendikar
 2 Back to Basics
 2 Daze
 2 Predict
@@ -97,11 +97,11 @@
 2 Pyroblast
 1 Snow-Covered Swamp
 1 Street Wraith
-1 Lion's Eye Diamond
 1 Thassa's Oracle
 1 Ideas Unbound
 1 Doomsday
 1 Edge of Autumn
+1 Lion's Eye Diamond
 1 Cavern of Souls
 1 Underground Sea
 1 Dark Ritual
@@ -117,9 +117,9 @@
 3 Portent
 1 Energy Field
 7 Island
-1 Path to Exile
 1 Scroll Rack
 1 Land Tax
+1 Path to Exile
 2 Enlightened Tutor
 2 Land Tax
 2 Scroll Rack
@@ -133,6 +133,10 @@
 2 Spell Pierce
 1 Arid Mesa
 2 Helm of Obedience
+1 Teferi, Hero of Dominaria
+2 Teferi, Hero of Dominaria
+3 Teferi, Time Raveler
+3 Narset, Parter of Veils
 1 Intuition
 1 Eladamri's Call
 1 Griselbrand
@@ -143,10 +147,6 @@
 2 Uro, Titan of Nature's Wrath
 2 Veil of Summer
 3 Veil of Summer
-1 Teferi, Hero of Dominaria
-2 Teferi, Hero of Dominaria
-3 Teferi, Time Raveler
-3 Narset, Parter of Veils
 1 Brazen Borrower
 1 Thing in the Ice
 1 Maze of Ith
@@ -154,10 +154,10 @@
 2 Entreat the Angels
 2 Devastation Tide
 3 Mystic Sanctuary
-4 Portent
 4 Tundra
-1 Dovin's Veto
+4 Portent
 1 Court of Cunning
+1 Dovin's Veto
 1 Humility
 1 Moat
 2 Energy Field
@@ -165,12 +165,6 @@
 3 Energy Field
 3 Court of Cunning
 4 Rest in Peace
-1 Hullbreacher
-1 Baleful Strix
-2 Baleful Strix
-2 Hullbreacher
-3 Baleful Strix
-4 Arcum's Astrolabe
 1 Dack Fayden
 1 Frantic Inventory
 1 Aria of Flame
@@ -194,6 +188,12 @@
 2 Thoughtseize
 3 Underground Sea
 4 Preordain
+1 Hullbreacher
+1 Baleful Strix
+2 Baleful Strix
+2 Hullbreacher
+3 Baleful Strix
+4 Arcum's Astrolabe
 1 Solitary Confinement
 1 Detention Sphere
 1 Trade Routes
@@ -205,14 +205,14 @@
 4 Enlightened Tutor
 5 Plains
 6 Plains
-1 Urza, Lord High Artificer
 1 Pyrite Spellbomb
 1 Emry, Lurker of the Loch
+1 Urza, Lord High Artificer
 1 Firestorm
 1 Mox Opal
-2 Urza, Lord High Artificer
 2 Path to Exile
 2 Mox Opal
+2 Urza, Lord High Artificer
 2 Firestorm
 3 Mox Opal
 3 Snow-Covered Plains

@@ -3,9 +3,11 @@
 4 Cabal Therapy
 2 Polluted Delta
 3 Polluted Delta
+1 Snow-Covered Swamp
 2 Swamp
 3 Bloodstained Mire
-4 Bloodstained Mire
+2 Marsh Flats
+3 Marsh Flats
 1 Badlands
 1 Putrid Imp
 1 Faithless Looting
@@ -14,12 +16,10 @@
 2 Faithless Looting
 3 Faithless Looting
 4 Faithless Looting
-1 Snow-Covered Swamp
+4 Bloodstained Mire
 4 Polluted Delta
-3 Putrid Imp
-2 Marsh Flats
-3 Marsh Flats
 4 Marsh Flats
+3 Putrid Imp
 1 Overgrown Tomb
 1 Blood Crypt
 2 Blood Crypt
@@ -28,7 +28,9 @@
 3 Satyr Wayfinder
 2 Badlands
 3 Badlands
+3 Carrion Feeder
 1 Anger
 1 Darkblast
-3 Carrion Feeder
+2 Snow-Covered Swamp
+4 Carrion Feeder
 4 Satyr Wayfinder

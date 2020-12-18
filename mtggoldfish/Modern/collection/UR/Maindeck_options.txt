@@ -1,4 +1,4 @@
-1 Ral, Izzet Viceroy
+7 Island
 1 Polluted Delta
 3 Force of Negation
 1 Emrakul, the Aeons Torn
@@ -8,16 +8,16 @@
 3 Emrakul, the Aeons Torn
 3 Through the Breach
 4 Through the Breach
-4 Emrakul, the Aeons Torn
 2 Misty Rainforest
-1 Fiery Islet
-1 Cascade Bluffs
+4 Emrakul, the Aeons Torn
 1 Silundi Vision
+2 Silundi Vision
+1 Cascade Bluffs
+1 Fiery Islet
 1 Thing in the Ice
 2 Thing in the Ice
 3 Thing in the Ice
 3 Jace, the Mind Sculptor
-2 Silundi Vision
 1 Spirebluff Canal
 1 Serum Visions
 2 Serum Visions
@@ -48,8 +48,10 @@
 3 Snow-Covered Island
 4 Snow-Covered Island
 5 Snow-Covered Island
+3 Misty Rainforest
 3 Serum Visions
 2 Mountain
+1 Vendilion Clique
 3 Cleansing Wildfire
 6 Snow-Covered Island
 4 Serum Visions
@@ -57,7 +59,8 @@
 3 Polluted Delta
 8 Island
 2 Brazen Borrower
-3 Misty Rainforest
+1 Engineered Explosives
+2 Vendilion Clique
 3 Omen of the Sea
 4 Omen of the Sea
 1 Deliberate
@@ -67,7 +70,6 @@
 9 Island
 1 Prismatic Vista
 2 Fiery Islet
-1 Vendilion Clique
 3 Steam Vents
 1 Oboro, Palace in the Clouds
 1 Desolate Lighthouse
@@ -76,18 +78,18 @@
 4 Misty Rainforest
 1 Spell Pierce
 2 Spell Pierce
-1 The Royal Scions
 1 Electrolyze
+1 The Royal Scions
 1 Mana Leak
 2 Mana Leak
-1 Engineered Explosives
-2 Vendilion Clique
 1 Sulfur Falls
 1 Bonecrusher Giant
 1 Wandering Fumarole
 2 Bonecrusher Giant
 2 Sulfur Falls
 3 Spell Snare
+1 Logic Knot
+4 Steam Vents
 1 Shark Typhoon
 1 Peek
 1 Fire Prophecy
@@ -96,8 +98,6 @@
 2 Peek
 2 Fire Prophecy
 4 Polluted Delta
-1 Logic Knot
-4 Steam Vents
 1 Breeding Pool
 1 Growth Spiral
 1 Ketria Triome
@@ -108,8 +108,8 @@
 4 Cleansing Wildfire
 1 Burst Lightning
 4 Thing in the Ice
-1 Clearwater Pathway
 1 Flame Slash
+1 Clearwater Pathway
 1 Blood Sun
 1 Minamo, School at Water's Edge
 3 Spirebluff Canal
