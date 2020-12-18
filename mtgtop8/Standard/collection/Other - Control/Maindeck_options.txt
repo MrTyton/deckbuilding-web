@@ -84,30 +84,11 @@
 2 Yasharn, Implacable Earth
 2 Polukranos, Unchained
 2 Scavenging Ooze
-3 Yasharn, Implacable Earth
 3 Duress
 3 Elder Gargaroth
 3 Scavenging Ooze
+3 Yasharn, Implacable Earth
 4 Duress
-1 Cultivate
-1 Wolfwillow Haven
-1 Shadows' Verdict
-1 Erebos's Intervention
-1 Felidar Retreat
-2 Cultivate
-2 Bala Ged Recovery
-2 Wolfwillow Haven
-2 Erebos's Intervention
-3 Garruk, Cursed Huntsman
-3 Bala Ged Recovery
-3 Cultivate
-3 Wolfwillow Haven
-3 Emeria's Call
-3 Erebos's Intervention
-4 Emeria's Call
-4 Garruk, Cursed Huntsman
-4 Wolfwillow Haven
-4 Erebos's Intervention
 1 The Birth of Meletis
 2 The Birth of Meletis
 3 The Birth of Meletis
@@ -133,27 +114,46 @@
 2 Needleverge Pathway
 2 Transmogrify
 2 Mountain
+2 Elspeth, Sun's Nemesis
 2 Shatterskull Smashing
 2 Fire Prophecy
 2 The Akroan War
 2 Lukka, Coppercoat Outcast
-2 Elspeth, Sun's Nemesis
 2 Harmonious Archon
 2 Raugrin Triome
 3 Omen of the Sun
 3 Needleverge Pathway
 3 Transmogrify
 3 Fire Prophecy
+3 Elspeth, Sun's Nemesis
 3 Mountain
 3 Harmonious Archon
 3 Raugrin Triome
-3 Elspeth, Sun's Nemesis
 4 Omen of the Sun
 4 Needleverge Pathway
 4 Transmogrify
 4 Fire Prophecy
 4 Harmonious Archon
 4 Mountain
+1 Wolfwillow Haven
+1 Shadows' Verdict
+1 Erebos's Intervention
+1 Felidar Retreat
+1 Cultivate
+2 Bala Ged Recovery
+2 Wolfwillow Haven
+2 Erebos's Intervention
+2 Cultivate
+3 Bala Ged Recovery
+3 Wolfwillow Haven
+3 Emeria's Call
+3 Cultivate
+3 Erebos's Intervention
+3 Garruk, Cursed Huntsman
+4 Emeria's Call
+4 Wolfwillow Haven
+4 Erebos's Intervention
+4 Garruk, Cursed Huntsman
 1 Island
 2 Island
 1 Sleeper Dart
@@ -187,6 +187,7 @@
 6 Plains
 7 Plains
 8 Plains
+1 Rain of Revelation
 1 Jwari Disruption
 1 Silundi Vision
 1 Lofty Denial
@@ -199,15 +200,14 @@
 1 Brazen Borrower
 1 Essence Scatter
 1 Kiora Bests the Sea God
-1 Rain of Revelation
 1 Hypnotic Sprite
 1 Bonders' Enclave
 1 Shark Typhoon
 1 Castle Vantress
 1 Into the Roil
 2 Castle Vantress
-2 Into the Roil
 2 Gadwick, the Wizened
+2 Rain of Revelation
 2 Lofty Denial
 2 Brazen Borrower
 2 Rewind
@@ -216,7 +216,7 @@
 2 Essence Scatter
 2 Shark Typhoon
 2 Hypnotic Sprite
-2 Rain of Revelation
+2 Into the Roil
 3 Neutralize
 3 Brazen Borrower
 3 Castle Vantress
@@ -237,7 +237,6 @@
 8 Island
 9 Island
 10 Island
-11 Island
 12 Island
 13 Island
 14 Island
@@ -245,3 +244,4 @@
 16 Island
 17 Island
 18 Island
+11 Island

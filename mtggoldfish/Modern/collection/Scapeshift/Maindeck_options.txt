@@ -48,20 +48,20 @@
 4 Fatal Push
 3 Wooded Foothills
 1 Temple Garden
+1 Sunbaked Canyon
 1 Arid Mesa
 1 Sacred Foundry
-1 Sejiri Shelter
 1 Sejiri Steppe
 1 Brushfire Elemental
+1 Elvish Reclaimer
+1 Sejiri Shelter
 1 Atarka's Command
 1 Flagstones of Trokair
-1 Sunbaked Canyon
 1 Akoum Hellhound
 1 Windswept Heath
 1 Soaring Seacliff
 1 Mishra's Bauble
 1 Steppe Lynx
-1 Elvish Reclaimer
 2 Flagstones of Trokair
 2 Arid Mesa
 2 Sacred Foundry
@@ -98,11 +98,11 @@
 2 Flame Slash
 2 Archmage's Charm
 1 Flooded Strand
-1 Hallowed Fountain
 1 Path to Exile
 1 Teferi, Time Raveler
-2 Teferi, Time Raveler
+1 Hallowed Fountain
 2 Path to Exile
+2 Teferi, Time Raveler
 3 Path to Exile
 1 Snapcaster Mage
 2 Snapcaster Mage
@@ -167,8 +167,8 @@
 1 Hunting Wilds
 1 Maelstrom Pulse
 1 Snow-Covered Plains
-1 Supreme Verdict
 1 Mwonvuli Acid-Moss
+1 Supreme Verdict
 2 Mana Leak
 1 Shark Typhoon
 2 Shark Typhoon
@@ -190,16 +190,8 @@
 3 Surgical Extraction
 1 Raugrin Triome
 2 Raugrin Triome
-3 Teferi, Time Raveler
 3 Raugrin Triome
-1 Jwari Disruption
-1 Explore
-1 Peer Through Depths
-2 Jwari Disruption
-2 Explore
-2 Peer Through Depths
-3 Jwari Disruption
-4 Jwari Disruption
+3 Teferi, Time Raveler
 1 Verdant Catacombs
 1 Maddening Cacophony
 2 Verdant Catacombs
@@ -210,6 +202,14 @@
 1 Brazen Borrower
 2 Brazen Borrower
 4 Wrenn and Six
+1 Jwari Disruption
+1 Explore
+1 Peer Through Depths
+2 Jwari Disruption
+2 Explore
+2 Peer Through Depths
+3 Jwari Disruption
+4 Jwari Disruption
 1 Jace, the Mind Sculptor
 1 Botanical Sanctum
 2 Botanical Sanctum

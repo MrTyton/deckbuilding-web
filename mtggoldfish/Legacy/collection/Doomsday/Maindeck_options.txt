@@ -1,22 +1,21 @@
+1 Volcanic Island
 1 Scalding Tarn
 2 Scalding Tarn
 1 Badlands
-4 Misty Rainforest
 3 Scalding Tarn
 1 Swamp
 1 Island
 4 Scalding Tarn
 1 Lim-Dul's Vault
+2 Personal Tutor
 1 Bloodstained Mire
 1 Night's Whisper
 1 Baleful Strix
 2 Baleful Strix
-2 Personal Tutor
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
-1 Flooded Strand
-1 Verdant Catacombs
 1 Abrupt Decay
+1 Flooded Strand
 3 Thoughtseize
 1 Dreadhorde Arcanist
 1 Delver of Secrets
@@ -37,6 +36,7 @@
 4 Delver of Secrets
 4 Buried Alive
 4 Arclight Phoenix
+1 Verdant Catacombs
 1 Spell Pierce
 3 Baleful Strix
 2 Flooded Strand
@@ -46,30 +46,15 @@
 1 Veil of Summer
 2 Veil of Summer
 4 Baleful Strix
-1 Cabal Therapy
 2 Island
 1 Flusterstorm
-1 Snow-Covered Forest
-3 Arcum's Astrolabe
 4 Duress
 2 Night's Whisper
-1 Emrakul, the Aeons Torn
-1 Entomb
-1 Collective Brutality
-1 Shallow Grave
-1 Goryo's Vengeance
-1 Griselbrand
-1 Children of Korlis
-2 Griselbrand
-2 Entomb
-2 Shallow Grave
-3 Entomb
-3 Shallow Grave
-4 Entomb
-4 Shallow Grave
-4 Lotus Petal
-1 Chrome Mox
+1 Snow-Covered Forest
+3 Arcum's Astrolabe
+1 Cabal Therapy
 3 Flooded Strand
+1 Chrome Mox
 1 Disrupting Shoal
 1 Rain of Filth
 1 Dark Petition
@@ -100,8 +85,6 @@
 1 Scrubland
 2 Snow-Covered Swamp
 2 Teferi, Time Raveler
-2 Verdant Catacombs
-2 Goryo's Vengeance
 1 Young Pyromancer
 2 Young Pyromancer
 3 Young Pyromancer
@@ -115,15 +98,20 @@
 3 Snow-Covered Island
 4 Arcum's Astrolabe
 4 Veil of Summer
-1 Reanimate
-1 Unmask
-2 Reanimate
-2 Unmask
-3 Reanimate
-3 Griselbrand
-3 Unmask
-4 Thoughtseize
-4 Reanimate
-4 Griselbrand
-4 Unmask
-4 Underground Sea
+1 Emrakul, the Aeons Torn
+1 Entomb
+1 Collective Brutality
+1 Shallow Grave
+1 Goryo's Vengeance
+1 Griselbrand
+1 Children of Korlis
+2 Griselbrand
+2 Entomb
+2 Verdant Catacombs
+2 Goryo's Vengeance
+2 Shallow Grave
+3 Entomb
+3 Shallow Grave
+4 Entomb
+4 Shallow Grave
+4 Lotus Petal

@@ -26,6 +26,8 @@
 1 Charming Prince
 1 Luminous Broodmoth
 1 Temple of Triumph
+1 Kargan Warleader
+1 Haktos the Unscarred
 1 Winota, Joiner of Forces
 1 Embercleave
 1 Kor Blademaster
@@ -34,13 +36,11 @@
 1 Mountain
 1 Nahiri, Heir of the Ancients
 1 Expedition Champion
-1 Haktos the Unscarred
 1 Sea Gate Banneret
-1 Kargan Warleader
 2 Embercleave
+2 Kargan Warleader
 2 Temple of Triumph
 2 Winota, Joiner of Forces
-2 Kargan Warleader
 2 Kor Blademaster
 2 Haktos the Unscarred
 2 Sea Gate Banneret
@@ -49,17 +49,17 @@
 2 Mountain
 2 Goma Fada Vanguard
 2 Expedition Champion
+3 Kargan Warleader
 3 Mountain
 3 Winota, Joiner of Forces
 3 Expedition Champion
 3 Kor Blademaster
-3 Kargan Warleader
 3 Sea Gate Banneret
 3 Goma Fada Vanguard
 3 Fireblade Charger
+4 Kargan Warleader
 4 Mountain
 4 Sea Gate Banneret
-4 Kargan Warleader
 4 Fireblade Charger
 4 Goma Fada Vanguard
 4 Kor Blademaster
@@ -100,9 +100,9 @@
 1 Angelic Ascension
 2 Angelic Ascension
 3 Angelic Ascension
-3 Shepherd of the Flock
 1 Makindi Stampede
 3 Heliod's Punishment
+3 Shepherd of the Flock
 2 Charming Prince
 3 Charming Prince
 4 Charming Prince
@@ -151,8 +151,8 @@
 2 Feat of Resistance
 2 Karametra's Blessing
 3 Gingerbrute
-3 Sentinel's Eyes
 3 Feat of Resistance
+3 Sentinel's Eyes
 3 Karametra's Blessing
 4 Gingerbrute
 4 All That Glitters

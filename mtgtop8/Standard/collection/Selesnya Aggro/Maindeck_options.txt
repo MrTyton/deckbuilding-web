@@ -74,9 +74,9 @@
 3 Scute Swarm
 3 Evolving Wilds
 3 Murasa Rootgrazer
+4 Felidar Retreat
 4 Scute Swarm
 4 Evolving Wilds
-4 Felidar Retreat
 4 Murasa Rootgrazer
 3 Faerie Guidemother
 1 The Birth of Meletis
@@ -99,8 +99,8 @@
 2 Realm-Cloaked Giant
 3 Mazemind Tome
 3 Indatha Triome
-4 Charming Prince
 4 Mazemind Tome
+4 Charming Prince
 4 Indatha Triome
 1 Calix, Destiny's Hand
 1 Alseid of Life's Bounty
@@ -109,24 +109,24 @@
 1 Setessan Champion
 1 Archon of Sun's Grace
 2 The Birth of Meletis
-2 Calix, Destiny's Hand
 2 Alseid of Life's Bounty
-2 Setessan Champion
 2 Rambunctious Mutt
+2 Setessan Champion
+2 Calix, Destiny's Hand
 2 Archon of Sun's Grace
 2 Kenrith's Transformation
 3 Setessan Champion
 3 Banishing Light
-3 Calix, Destiny's Hand
 3 Archon of Sun's Grace
 3 Alseid of Life's Bounty
 3 Kenrith's Transformation
+3 Calix, Destiny's Hand
 4 Setessan Champion
-4 Calix, Destiny's Hand
-4 Banishing Light
 4 Archon of Sun's Grace
+4 Banishing Light
 4 Alseid of Life's Bounty
 4 Kenrith's Transformation
+4 Calix, Destiny's Hand
 9 Plains
 10 Plains
 1 Kabira Takedown
@@ -135,6 +135,7 @@
 2 Bala Ged Recovery
 3 Omen of the Sun
 3 Vivien, Monsters' Advocate
+4 Scavenging Ooze
 1 Luminarch Aspirant
 2 Luminarch Aspirant
 3 Luminarch Aspirant
@@ -143,22 +144,21 @@
 2 Gemrazer
 3 Gemrazer
 4 Gemrazer
-4 Scavenging Ooze
 10 Forest
 1 Needleverge Pathway
 1 Mountain
-1 Solemn Simulacrum
+1 Phylath, World Sculptor
 1 Beanstalk Giant
 1 Baneslayer Angel
-1 Phylath, World Sculptor
+1 Solemn Simulacrum
 1 Cragcrown Pathway
 1 Cultivate
 1 Lithoform Engine
 2 Needleverge Pathway
+2 Phylath, World Sculptor
 2 Beanstalk Giant
 2 Cragcrown Pathway
 2 Solemn Simulacrum
-2 Phylath, World Sculptor
 2 Baneslayer Angel
 2 Cultivate
 2 Mountain
@@ -166,12 +166,12 @@
 3 Needleverge Pathway
 3 Cragcrown Pathway
 3 Beanstalk Giant
-3 Solemn Simulacrum
 3 Wolfwillow Haven
 3 Baneslayer Angel
 3 Cultivate
+3 Solemn Simulacrum
 4 Needleverge Pathway
-4 Cragcrown Pathway
 4 Beanstalk Giant
+4 Cragcrown Pathway
 4 Wolfwillow Haven
 4 Baneslayer Angel
