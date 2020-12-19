@@ -33,9 +33,8 @@
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|--------------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    1|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)          |                     |              |
-|                    1|[Solemn Simulacrum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389682)      |                     |              |
 |                    1|[Temple of Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373560)      |                     |              |
-|                    1|[The Birth of Meletis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476256)   |                     |              |
+|                    1|[Solemn Simulacrum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389682)      |                     |              |
 |                    1|[Branchloft Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491909)     |                     |              |
 |                    1|[Kazuul's Fury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491786)          |                     |              |
 |                    1|[Storm's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476408)          |                     |              |
@@ -46,16 +45,17 @@
 |                    1|[Beanstalk Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473111)        |                     |              |
 |                    1|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|                     |              |
 |                    1|[Outlaws' Merriment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473160)     |                     |              |
+|                    1|[The Birth of Meletis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476256)   |                     |              |
 |                    2|[Kazuul's Fury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491786)          |                     |              |
 |                    2|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)          |                     |              |
 |                    2|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)      |                     |              |
-|                    2|[The Birth of Meletis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476256)   |                     |              |
-|                    2|[Solemn Simulacrum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389682)      |                     |              |
 |                    2|[Cragcrown Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491915)      |                     |              |
 |                    2|[Crawling Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491917)       |                     |              |
+|                    2|[Solemn Simulacrum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389682)      |                     |              |
 |                    2|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|                     |              |
 |                    2|[Realm-Cloaked Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472988)    |                     |              |
 |                    2|[Beanstalk Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473111)        |                     |              |
+|                    2|[The Birth of Meletis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476256)   |                     |              |
 |                    2|[Castle Ardenvale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473200)       |                     |              |
 |                    3|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)               |                     |              |
 |                    3|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|                     |              |

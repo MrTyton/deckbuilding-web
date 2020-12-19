@@ -73,9 +73,9 @@
 |                    3|[Lucky Clover](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473188)       |                     |                                                                                                   |
 |                    3|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)  |                     |                                                                                                   |
 |                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                                   |
-|                    4|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)    |                     |                                                                                                   |
 |                    4|[Beanstalk Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473111)    |                     |                                                                                                   |
 |                    4|[Lucky Clover](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473188)       |                     |                                                                                                   |
 |                    4|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)  |                     |                                                                                                   |
+|                    4|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)    |                     |                                                                                                   |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |                     |                                                                                                   |
 

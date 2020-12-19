@@ -1,8 +1,8 @@
+3 Polluted Delta
 4 Polluted Delta
-4 Snapcaster Mage
-1 Watery Grave
 1 Spell Snare
 1 Blood Crypt
+1 Watery Grave
 1 Kolaghan's Command
 2 Kolaghan's Command
 1 Sprite Dragon
@@ -12,8 +12,8 @@
 3 Spirebluff Canal
 1 Drown in the Loch
 1 Inquisition of Kozilek
-2 Watery Grave
 2 Inquisition of Kozilek
+2 Watery Grave
 1 Thieves' Guild Enforcer
 1 Thoughtseize
 2 Thieves' Guild Enforcer
@@ -26,30 +26,34 @@
 4 Thieves' Guild Enforcer
 1 Seachrome Coast
 2 Seachrome Coast
-3 Path to Exile
 3 Remand
+3 Path to Exile
 1 Batterskull
 1 Sword of Fire and Ice
 1 Mantis Rider
 1 Stoneforge Mystic
 1 Plains
-2 Mantis Rider
 2 Stoneforge Mystic
+2 Mantis Rider
 3 Stoneforge Mystic
 3 Mantis Rider
+4 Stoneforge Mystic
 4 Sleight of Hand
 4 Mantis Rider
-4 Stoneforge Mystic
+4 Remand
+1 Swamp
+1 Bloodstained Mire
+2 Bloodstained Mire
+3 Island
 4 Force of Negation
-1 Manamorphose
-1 Stormwing Entity
-2 Stormwing Entity
-2 Manamorphose
-3 Manamorphose
-3 Stormwing Entity
-4 Manamorphose
+1 Mountain
+1 Disrupting Shoal
+2 Disrupting Shoal
+3 Disrupting Shoal
+4 Disrupting Shoal
 1 Misty Rainforest
 2 Misty Rainforest
+4 Mana Leak
 1 Forest
 1 Breeding Pool
 1 Stubborn Denial
@@ -61,19 +65,15 @@
 3 Tarmogoyf
 4 Misty Rainforest
 4 Stubborn Denial
-1 Vapor Snag
-1 Disrupting Shoal
-2 Disrupting Shoal
-3 Disrupting Shoal
-4 Disrupting Shoal
-1 Mountain
-3 Island
-4 Remand
-1 Bloodstained Mire
-1 Swamp
-2 Bloodstained Mire
-4 Mana Leak
 4 Tarmogoyf
+1 Vapor Snag
+1 Stormwing Entity
+1 Manamorphose
+2 Stormwing Entity
+2 Manamorphose
+3 Stormwing Entity
+3 Manamorphose
+4 Manamorphose
 1 Fiery Islet
 1 Wooded Foothills
 1 Hexdrinker
@@ -82,6 +82,7 @@
 2 Breeding Pool
 3 Hexdrinker
 4 Hexdrinker
+4 Island
 3 Kolaghan's Command
 1 Gut Shot
 2 Gut Shot
@@ -93,44 +94,44 @@
 2 Spell Pierce
 2 Fiery Islet
 1 Mystic Sanctuary
-4 Island
 2 Vapor Snag
+1 Archmage's Charm
+2 Archmage's Charm
 1 Uro, Titan of Nature's Wrath
-2 Uro, Titan of Nature's Wrath
 2 Forest
+2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
-1 Lava Spike
 1 Lava Dart
 1 Assault Strobe
+1 Lava Spike
 1 Monastery Swiftspear
 1 Light Up the Stage
-2 Lava Spike
-2 Mountain
 2 Lava Dart
+2 Mountain
+2 Lava Spike
 2 Monastery Swiftspear
 2 Light Up the Stage
+3 Lava Dart
 3 Lava Spike
 3 Monastery Swiftspear
 3 Fiery Islet
 3 Light Up the Stage
 3 Mountain
-3 Lava Dart
-4 Mountain
-4 Lava Spike
 4 Fiery Islet
-4 Monastery Swiftspear
 4 Lava Dart
+4 Monastery Swiftspear
+4 Lava Spike
+4 Mountain
 4 Light Up the Stage
 4 Spirebluff Canal
 2 Hallowed Fountain
-1 Archmage's Charm
-2 Archmage's Charm
 1 Flame Slash
 1 Magmatic Channeler
 2 Magmatic Channeler
 3 Magmatic Channeler
 1 Snow-Covered Island
 3 Steam Vents
+3 Archmage's Charm
 1 Surgical Extraction
 2 Surgical Extraction
 4 Lightning Helix
@@ -152,34 +153,31 @@
 1 Magmatic Sinkhole
 2 Magmatic Sinkhole
 2 Mystic Sanctuary
-3 Archmage's Charm
 4 Steam Vents
-1 Mutagenic Growth
-2 Mutagenic Growth
-1 Stomping Ground
-1 Hooting Mandrills
-1 Botanical Sanctum
-2 Hooting Mandrills
-3 Hooting Mandrills
+2 Brazen Borrower
 1 Fatal Push
 2 Fatal Push
-2 Brazen Borrower
 1 Snow-Covered Swamp
 4 Magmatic Channeler
 1 Snow-Covered Mountain
 1 Vendilion Clique
+5 Island
 1 Creeping Tar Pit
+1 Blood Moon
+2 Blood Moon
 1 The Royal Scions
 1 Dark Confidant
 2 Dark Confidant
-1 Terminate
 1 Young Pyromancer
+1 Terminate
 1 Gurmag Angler
-2 Snow-Covered Island
 2 Terminate
 2 Young Pyromancer
 2 Gurmag Angler
+2 Snow-Covered Island
+1 Mutagenic Growth
 1 Sunbaked Canyon
+2 Mutagenic Growth
 2 Assault Strobe
 1 Cling to Dust
 1 Darkslick Shores
@@ -189,38 +187,69 @@
 2 Vantress Gargoyle
 3 Vantress Gargoyle
 1 Tarfire
+1 Stomping Ground
+1 Hooting Mandrills
 1 Blossoming Defense
+1 Botanical Sanctum
+2 Flame Slash
 2 Blossoming Defense
 2 Tarfire
-2 Flame Slash
+2 Hooting Mandrills
+3 Hooting Mandrills
 3 Tarfire
-1 Dreadhorde Arcanist
-1 Ancestral Vision
-2 Ancestral Vision
-2 Dreadhorde Arcanist
-3 Hallowed Fountain
-3 Dreadhorde Arcanist
-3 Ancestral Vision
-4 Ancestral Vision
-4 Dreadhorde Arcanist
 1 Visions of Beyond
 2 Visions of Beyond
 3 Visions of Beyond
 4 Visions of Beyond
-4 Hooting Mandrills
-4 Archmage's Charm
+1 Soul-Scar Mage
 1 Wizard's Retort
 1 Wizard's Lightning
-1 Soul-Scar Mage
-2 Wizard's Retort
 2 Soul-Scar Mage
+2 Wizard's Retort
 2 Wizard's Lightning
+3 Soul-Scar Mage
 3 Wizard's Retort
 3 Wizard's Lightning
-3 Soul-Scar Mage
+4 Soul-Scar Mage
 4 Wizard's Lightning
 4 Wizard's Retort
-4 Soul-Scar Mage
-1 Blood Moon
-2 Blood Moon
-5 Island
+1 Dreadhorde Arcanist
+1 Ancestral Vision
+2 Ancestral Vision
+2 Dreadhorde Arcanist
+3 Dreadhorde Arcanist
+3 Ancestral Vision
+3 Hallowed Fountain
+4 Ancestral Vision
+4 Dreadhorde Arcanist
+4 Archmage's Charm
+1 Silundi Vision
+1 Mutavault
+1 Deliberate
+1 Oboro, Palace in the Clouds
+1 Castle Vantress
+1 Spellstutter Sprite
+1 Cryptic Command
+1 Psionic Blast
+2 Mutavault
+2 Deliberate
+2 Spellstutter Sprite
+2 Spell Snare
+2 Psionic Blast
+2 Cryptic Command
+2 Vendilion Clique
+3 Deliberate
+3 Spellstutter Sprite
+3 Cryptic Command
+4 Cryptic Command
+7 Island
+8 Island
+9 Island
+10 Island
+11 Island
+12 Island
+13 Island
+14 Island
+15 Island
+16 Island
+6 Island

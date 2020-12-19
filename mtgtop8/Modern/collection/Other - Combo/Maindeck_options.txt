@@ -9,20 +9,20 @@
 2 Goblin Charbelcher
 3 Goblin Charbelcher
 4 Goblin Charbelcher
-1 Bala Ged Recovery
 1 Spikefield Hazard
+1 Bala Ged Recovery
 1 Manamorphose
+1 Valakut Awakening
 1 Desperate Ritual
 1 Pyretic Ritual
 1 Irencrag Feat
 1 Reforge the Soul
 1 Recross the Paths
-1 Valakut Awakening
 2 Manamorphose
+2 Valakut Awakening
 2 Bala Ged Recovery
 2 Irencrag Feat
 2 Recross the Paths
-2 Valakut Awakening
 2 Desperate Ritual
 3 Manamorphose
 3 Valakut Awakening
@@ -66,12 +66,12 @@
 2 Blackbloom Rogue
 2 Brazen Borrower
 2 Glasspool Mimic
-3 Blackbloom Rogue
 3 Brazen Borrower
+3 Blackbloom Rogue
 3 Glasspool Mimic
 4 Glasspool Mimic
-4 Blackbloom Rogue
 4 Brazen Borrower
+4 Blackbloom Rogue
 4 Leyline of Sanctity
 4 Blood Moon
 1 Tangled Florahedron
@@ -91,7 +91,6 @@
 4 Tangled Florahedron
 4 Devoted Druid
 4 Karn, the Great Creator
-1 Peer Through Depths
 1 Shivan Reef
 1 Lotus Field
 1 Ideas Unbound
@@ -105,13 +104,12 @@
 1 Reach Through Mists
 1 Sleight of Hand
 1 Echoing Truth
+1 Peer Through Depths
 1 Past in Flames
 1 Lonely Sandbar
 1 Vizier of Tumbling Sands
-2 Sleight of Hand
-2 Peer Through Depths
-2 Shivan Reef
 2 Lonely Sandbar
+2 Shivan Reef
 2 Lotus Field
 2 Echoing Truth
 2 Ideas Unbound
@@ -121,11 +119,14 @@
 2 Psychic Puppetry
 2 Island
 2 Reach Through Mists
+2 Peer Through Depths
+2 Sleight of Hand
 2 Serum Visions
 2 Past in Flames
 2 Twiddle
 3 Island
 3 Lonely Sandbar
+3 Sleight of Hand
 3 Shivan Reef
 3 Past in Flames
 3 Lotus Field
@@ -135,11 +136,10 @@
 3 Serum Visions
 3 Ideas Unbound
 3 Reach Through Mists
-3 Sleight of Hand
-4 Sleight of Hand
 4 Serum Visions
 4 Lonely Sandbar
 4 Island
+4 Sleight of Hand
 4 Shivan Reef
 4 Lotus Field
 4 Ideas Unbound
