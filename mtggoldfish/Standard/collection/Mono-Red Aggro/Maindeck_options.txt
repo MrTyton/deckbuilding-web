@@ -1,10 +1,10 @@
 1 Shock
 2 Shock
 17 Mountain
-18 Mountain
 1 Kargan Intimidator
 2 Kargan Intimidator
 1 The Akroan War
+18 Mountain
 2 The Akroan War
 1 Spikefield Hazard
 2 Spikefield Hazard
@@ -18,23 +18,21 @@
 1 Scorching Dragonfire
 2 Scorching Dragonfire
 4 Torbran, Thane of Red Fell
+4 Phoenix of Ash
+4 Shock
 1 Relic Robber
 2 Relic Robber
-4 Phoenix of Ash
-3 Relic Robber
-4 Relic Robber
-4 Shock
-1 Slaying Fire
-2 Slaying Fire
 2 Ox of Agonas
 3 Spikefield Hazard
 4 Spikefield Hazard
 1 Claim the Firstborn
+3 Relic Robber
+4 Relic Robber
 1 Furor of the Bitten
 2 Furor of the Bitten
 3 Furor of the Bitten
-3 Slaying Fire
-4 Slaying Fire
+1 Slaying Fire
+2 Slaying Fire
 1 Roil Eruption
 2 Roil Eruption
 1 Shadowspear
@@ -45,13 +43,14 @@
 2 Weaselback Redcap
 2 Heraldic Banner
 4 Furor of the Bitten
-1 Crawling Barrens
-1 Roiling Vortex
-2 Roiling Vortex
 1 Chandra, Heart of Fire
-3 Roil Eruption
+3 Slaying Fire
+4 Slaying Fire
+1 Crawling Barrens
 1 Kazuul's Fury
 2 Kazuul's Fury
+1 Roiling Vortex
+2 Roiling Vortex
 3 The Akroan War
 1 Thundering Rebuke
 1 Shatterskull Charger
@@ -67,13 +66,6 @@
 4 Scorching Dragonfire
 3 Heraldic Banner
 4 Heraldic Banner
-1 Infuriate
-1 Bolt Hound
-2 Crawling Barrens
-2 Infuriate
-2 Bolt Hound
-3 Roiling Vortex
-4 Roiling Vortex
 1 Goblin Arsonist
 2 Goblin Arsonist
 3 Goblin Arsonist
@@ -81,6 +73,7 @@
 1 Flame Spill
 2 Flame Spill
 3 Flame Spill
+3 Roil Eruption
 4 Flame Spill
 4 Roil Eruption
 1 Embereth Shieldbreaker

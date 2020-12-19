@@ -1,49 +1,49 @@
-1 Sunbaked Canyon
-3 Silent Clearing
+2 Silent Clearing
 2 Horizon Canopy
+3 Silent Clearing
 4 Silent Clearing
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
-11 Plains
 2 Sunbaked Canyon
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
-10 Snow-Covered Plains
 1 Castle Ardenvale
-12 Plains
+11 Plains
 1 Aven Mindcensor
+10 Snow-Covered Plains
+1 Spellskite
+1 Winds of Abandon
+2 Spellskite
+1 Charming Prince
+2 Charming Prince
+12 Plains
+1 Militia Bugler
+2 Militia Bugler
+2 Aven Mindcensor
+1 Blast Zone
+3 Militia Bugler
+4 Militia Bugler
 13 Plains
 14 Plains
 15 Plains
 16 Plains
-1 Winds of Abandon
-1 Spellskite
-2 Spellskite
-1 Charming Prince
-2 Charming Prince
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
 1 Restoration Angel
 1 Sword of Feast and Famine
 11 Snow-Covered Plains
-1 Militia Bugler
-2 Militia Bugler
 3 Sunbaked Canyon
-4 Sacred Foundry
 4 Sunbaked Canyon
-2 Aven Mindcensor
-3 Militia Bugler
-4 Militia Bugler
+4 Sacred Foundry
 17 Plains
-1 Blast Zone
-2 Restoration Angel
 2 Winds of Abandon
+2 Restoration Angel
 4 Archon of Emeria
 2 Castle Ardenvale
 1 Mountain
@@ -59,9 +59,9 @@
 4 Inspiring Vantage
 1 Remorseful Cleric
 1 Phyrexian Revoker
-2 Remorseful Cleric
 2 Flagstones of Trokair
 2 Lurrus of the Dream-Den
+2 Remorseful Cleric
 2 Phyrexian Revoker
 3 Phyrexian Revoker
 3 Remorseful Cleric
@@ -73,11 +73,11 @@
 4 Tectonic Edge
 1 Pia and Kiran Nalaar
 1 Snow-Covered Mountain
-1 Seasoned Pyromancer
-1 Bonecrusher Giant
 1 Simian Spirit Guide
-2 Seasoned Pyromancer
+1 Bonecrusher Giant
+1 Seasoned Pyromancer
 2 Bonecrusher Giant
+2 Seasoned Pyromancer
 2 Simian Spirit Guide
 2 Needleverge Pathway
 3 Bonecrusher Giant
@@ -165,32 +165,15 @@
 3 Selfless Spirit
 3 Slayers' Stronghold
 4 Judge's Familiar
+1 Hallowed Fountain
 1 Seachrome Coast
 1 Geist of Saint Traft
 1 Island
-1 Hallowed Fountain
-2 Seachrome Coast
 2 Hallowed Fountain
+2 Seachrome Coast
 2 Geist of Saint Traft
 3 Seachrome Coast
 3 Hallowed Fountain
 3 Geist of Saint Traft
 4 Seachrome Coast
 4 Hallowed Fountain
-1 Swamp
-1 Tidehollow Sculler
-1 Brightclimb Pathway
-1 Concealed Courtyard
-1 Godless Shrine
-1 Wasteland Strangler
-2 Tidehollow Sculler
-2 Brightclimb Pathway
-2 Concealed Courtyard
-2 Godless Shrine
-2 Wasteland Strangler
-3 Brightclimb Pathway
-3 Concealed Courtyard
-3 Godless Shrine
-3 Tidehollow Sculler
-4 Tidehollow Sculler
-4 Concealed Courtyard

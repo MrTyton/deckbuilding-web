@@ -9,16 +9,16 @@
 1 Mystical Dispute
 1 Saheeli, Sublime Artificer
 1 Soul-Guide Lantern
-1 Abrade
 1 Timely Reinforcements
-2 Mystical Dispute
-2 Soul-Guide Lantern
-2 Saheeli, Sublime Artificer
-2 Abrade
+1 Abrade
 2 Timely Reinforcements
+2 Abrade
+2 Saheeli, Sublime Artificer
+2 Soul-Guide Lantern
+2 Mystical Dispute
 3 Abrade
-3 Timely Reinforcements
 3 Soul-Guide Lantern
+3 Timely Reinforcements
 3 Saheeli, Sublime Artificer
 1 Assassin's Trophy
 1 Silent Gravestone
@@ -37,13 +37,13 @@
 1 Stormwing Entity
 2 Stormwing Entity
 3 Stormwing Entity
-1 Skyclave Apparition
-1 Damping Sphere
-1 Pithing Needle
-1 Tormod's Crypt
 1 Dispel
 1 Ensnaring Bridge
+1 Pithing Needle
+1 Tormod's Crypt
+1 Damping Sphere
 1 Aether Gust
+1 Skyclave Apparition
 1 Engineered Explosives
 1 Metallic Rebuke
 2 Skyclave Apparition
@@ -51,8 +51,8 @@
 2 Metallic Rebuke
 2 Aether Gust
 3 Skyclave Apparition
-1 Fiery Justice
 1 Consign/Oblivion
+1 Fiery Justice
 2 Path to Exile
 3 Path to Exile
 4 Path to Exile

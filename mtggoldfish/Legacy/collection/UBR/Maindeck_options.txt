@@ -47,9 +47,9 @@
 1 Narset, Parter of Veils
 1 Snow-Covered Island
 1 Snow-Covered Swamp
-1 Arcum's Astrolabe
 1 Angrath's Rampage
 1 Toxic Deluge
+1 Arcum's Astrolabe
 2 Narset, Parter of Veils
 2 Arcum's Astrolabe
 3 Volcanic Island
@@ -58,6 +58,7 @@
 1 Stonecoil Serpent
 1 To the Slaughter
 2 Stonecoil Serpent
+1 Wasteland
 1 Thespian's Stage
 1 Dark Depths
 1 Crop Rotation
@@ -66,13 +67,12 @@
 1 Bitterblossom
 1 Abrupt Decay
 1 Cabal Pit
-1 Wasteland
 1 Life from the Loam
+2 Wasteland
 2 Tropical Island
 2 Crop Rotation
 2 Oko, Thief of Crowns
 2 Abrupt Decay
-2 Wasteland
 2 Life from the Loam
 3 Wasteland
 3 Abrupt Decay
@@ -81,25 +81,15 @@
 2 Retrofitter Foundry
 2 Liliana's Triumph
 3 Karn, the Great Creator
-1 Opposition Agent
-2 Snow-Covered Swamp
-2 Snow-Covered Island
-2 Brazen Borrower
-2 Opposition Agent
-2 Drown in the Loch
-3 Snow-Covered Island
-3 Snow-Covered Swamp
-3 Ethereal Forager
-4 Snow-Covered Island
 1 Snow-Covered Plains
 1 Sea Gate Stormcaller
 1 Teferi, Time Raveler
-1 Scrubland
 1 Unearth
+1 Scrubland
 1 Marsh Flats
-1 Mystic Sanctuary
 1 Ephemerate
 1 Karakas
+1 Mystic Sanctuary
 1 Monastery Mentor
 1 Cabal Therapy
 1 Tundra
@@ -122,16 +112,26 @@
 4 Cabal Therapy
 4 Sea Gate Stormcaller
 4 Monastery Mentor
-1 Dack Fayden
 1 Grove of the Burnwillows
 1 Punishing Fire
+1 Dack Fayden
 1 Plague Engineer
-2 Dack Fayden
 2 Grove of the Burnwillows
-2 Assassin's Trophy
 2 Punishing Fire
+2 Dack Fayden
+2 Assassin's Trophy
 3 Uro, Titan of Nature's Wrath
 3 Grove of the Burnwillows
 3 Assassin's Trophy
-4 Assassin's Trophy
 3 Dack Fayden
+4 Assassin's Trophy
+1 Opposition Agent
+2 Snow-Covered Swamp
+2 Snow-Covered Island
+2 Opposition Agent
+2 Drown in the Loch
+2 Brazen Borrower
+3 Snow-Covered Swamp
+3 Ethereal Forager
+3 Snow-Covered Island
+4 Snow-Covered Island

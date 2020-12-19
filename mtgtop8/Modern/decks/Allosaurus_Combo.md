@@ -32,9 +32,9 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Life Goes On](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430810)     |                    2|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)            |
-|                    1|[Noxious Revival](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230067)  |                    3|[Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)  |
-|                    2|[Griselbrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=239995)      |                    3|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)            |
+|                    1|[Noxious Revival](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230067)  |                    2|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)            |
+|                    1|[Life Goes On](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430810)     |                    3|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)            |
+|                    2|[Griselbrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=239995)      |                    3|[Slaughter Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130704)  |
 |                    3|[Botanical Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417817)|                    4|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)|
 |                    4|[Gemstone Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109761)    |                    3|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)|
 

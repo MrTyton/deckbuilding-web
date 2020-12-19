@@ -70,14 +70,14 @@
 1 Erebos's Intervention
 1 Cultivate
 1 Felidar Retreat
-2 Wolfwillow Haven
 2 Bala Ged Recovery
+2 Wolfwillow Haven
 2 Erebos's Intervention
 2 Cultivate
 3 Bala Ged Recovery
+3 Garruk, Cursed Huntsman
 3 Cultivate
 3 Wolfwillow Haven
-3 Garruk, Cursed Huntsman
 3 Erebos's Intervention
 3 Emeria's Call
 4 Emeria's Call
@@ -155,38 +155,37 @@
 4 Mountain
 1 Island
 2 Island
-1 Forsaken Monument
-1 Radiant Fountain
 1 Unknown Shores
-1 Swift Response
 1 Sleeper Dart
+1 Forsaken Monument
+1 Swift Response
+1 Radiant Fountain
 1 Labyrinth of Skophos
 1 Dance of the Manse
 1 Crawling Barrens
-2 Radiant Fountain
-2 Dance of the Manse
 2 Unknown Shores
 2 Sleeper Dart
+2 Radiant Fountain
 2 Forsaken Monument
 2 Labyrinth of Skophos
+2 Dance of the Manse
 2 Swift Response
 2 Crawling Barrens
 3 Solemn Simulacrum
 3 Crawling Barrens
-3 Radiant Fountain
-3 Unknown Shores
 3 Sleeper Dart
+3 Unknown Shores
 3 Forsaken Monument
+3 Radiant Fountain
 4 Radiant Fountain
 4 Solemn Simulacrum
-4 Forsaken Monument
 4 Sleeper Dart
-4 Unknown Shores
 4 Crawling Barrens
+4 Forsaken Monument
+4 Unknown Shores
 6 Plains
 7 Plains
 8 Plains
-1 Rain of Revelation
 1 Jwari Disruption
 1 Lofty Denial
 1 Silundi Vision
@@ -199,6 +198,7 @@
 1 Brazen Borrower
 1 Essence Scatter
 1 Kiora Bests the Sea God
+1 Rain of Revelation
 1 Hypnotic Sprite
 1 Bonders' Enclave
 1 Shark Typhoon
@@ -206,7 +206,6 @@
 1 Into the Roil
 2 Castle Vantress
 2 Gadwick, the Wizened
-2 Rain of Revelation
 2 Lofty Denial
 2 Brazen Borrower
 2 Rewind
@@ -216,6 +215,7 @@
 2 Shark Typhoon
 2 Hypnotic Sprite
 2 Into the Roil
+2 Rain of Revelation
 3 Neutralize
 3 Brazen Borrower
 3 Castle Vantress

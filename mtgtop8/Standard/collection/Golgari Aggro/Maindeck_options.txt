@@ -30,10 +30,10 @@
 1 Chevill, Bane of Monsters
 2 Chevill, Bane of Monsters
 4 Eliminate
-1 Ilysian Caryatid
 1 Tangled Florahedron
-2 Ilysian Caryatid
+1 Ilysian Caryatid
 2 Tangled Florahedron
+2 Ilysian Caryatid
 3 Ilysian Caryatid
 3 Tangled Florahedron
 4 Tangled Florahedron
@@ -42,19 +42,19 @@
 2 Mire Triton
 3 Mire Triton
 1 Bala Ged Recovery
-1 Migratory Greathorn
+1 Essence Symbiote
 1 Elspeth's Nightmare
 1 Brokkos, Apex of Forever
+1 Migratory Greathorn
 1 Inscription of Abundance
-1 Essence Symbiote
 2 Bala Ged Recovery
-2 Migratory Greathorn
-2 Elspeth's Nightmare
-2 Inscription of Abundance
 2 Essence Symbiote
-3 Migratory Greathorn
-3 Castle Locthwain
+2 Elspeth's Nightmare
+2 Migratory Greathorn
+2 Inscription of Abundance
 3 Essence Symbiote
+3 Castle Locthwain
+3 Migratory Greathorn
 4 Castle Locthwain
 4 Migratory Greathorn
 4 Polukranos, Unchained
@@ -66,19 +66,19 @@
 2 Massacre Wurm
 1 Village Rites
 1 Thrashing Brontodon
-2 Hagra Mauling
 1 Inscription of Ruin
 2 Inscription of Ruin
 1 Dirge Bat
 2 Dirge Bat
+2 Hagra Mauling
 1 Crawling Barrens
 1 Nissa of Shadowed Boughs
 1 Kenrith, the Returned King
 1 Mythos of Nethroi
 1 Cragcrown Pathway
-2 Mythos of Nethroi
 2 Nissa of Shadowed Boughs
 2 Brightclimb Pathway
+2 Mythos of Nethroi
 2 Cragcrown Pathway
 3 Branchloft Pathway
 3 Gemrazer
@@ -101,8 +101,8 @@
 2 Clearwater Pathway
 2 Kogla, the Titan Ape
 3 Solemn Simulacrum
-3 Questing Beast
 3 Humble Naturalist
+3 Questing Beast
 3 Nightmare Shepherd
 3 Thassa, Deep-Dwelling
 3 Lochmere Serpent
@@ -113,32 +113,32 @@
 4 Nightmare Shepherd
 1 Gnarlid Colony
 1 Acolyte of Affliction
-1 Greater Sandwurm
+1 Garruk's Uprising
 1 Ram Through
 1 Evolving Wilds
-1 Garruk's Uprising
 1 Jungle Hollow
 1 Chainweb Aracnir
 1 Ugin, the Spirit Dragon
 1 Feed the Swarm
 1 Grasp of Darkness
 1 Llanowar Visionary
+1 Greater Sandwurm
 2 Gnarlid Colony
+2 Garruk's Uprising
 2 Acolyte of Affliction
-2 Greater Sandwurm
 2 Evolving Wilds
 2 Ram Through
-2 Garruk's Uprising
 2 Jungle Hollow
 2 Chainweb Aracnir
 2 Feed the Swarm
 2 Grasp of Darkness
 2 Llanowar Visionary
+2 Greater Sandwurm
 3 Grasp of Darkness
-3 Garruk's Uprising
 3 Jungle Hollow
-3 Ram Through
 3 Chainweb Aracnir
+3 Ram Through
+3 Garruk's Uprising
 3 Llanowar Visionary
 4 Grasp of Darkness
 4 Jungle Hollow
@@ -150,8 +150,8 @@
 8 Forest
 9 Forest
 10 Forest
-1 Turntimber Symbiosis
 1 Nethroi, Apex of Death
+1 Turntimber Symbiosis
 2 Nethroi, Apex of Death
 2 Turntimber Symbiosis
 3 Indatha Triome
