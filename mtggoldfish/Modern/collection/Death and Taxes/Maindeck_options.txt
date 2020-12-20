@@ -7,12 +7,12 @@
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
-2 Sunbaked Canyon
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
 1 Castle Ardenvale
+2 Sunbaked Canyon
 11 Plains
 1 Aven Mindcensor
 10 Snow-Covered Plains
@@ -32,64 +32,37 @@
 14 Plains
 15 Plains
 16 Plains
+1 Restoration Angel
+11 Snow-Covered Plains
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
-1 Restoration Angel
-1 Sword of Feast and Famine
-11 Snow-Covered Plains
-3 Sunbaked Canyon
-4 Sunbaked Canyon
-4 Sacred Foundry
 17 Plains
+1 Sword of Feast and Famine
 2 Winds of Abandon
 2 Restoration Angel
 4 Archon of Emeria
 2 Castle Ardenvale
 1 Mountain
-1 Flagstones of Trokair
+3 Sunbaked Canyon
+4 Sacred Foundry
+4 Sunbaked Canyon
 1 Lurrus of the Dream-Den
-1 Sword of Light and Shadow
-1 Needleverge Pathway
-1 Lightning Bolt
-1 Inspiring Vantage
-2 Inspiring Vantage
-2 Lightning Bolt
-3 Inspiring Vantage
-4 Inspiring Vantage
+1 Flagstones of Trokair
 1 Remorseful Cleric
 1 Phyrexian Revoker
 2 Flagstones of Trokair
 2 Lurrus of the Dream-Den
 2 Remorseful Cleric
 2 Phyrexian Revoker
+3 Flagstones of Trokair
 3 Phyrexian Revoker
 3 Remorseful Cleric
-3 Flagstones of Trokair
 4 Flagstones of Trokair
 1 Tectonic Edge
 2 Tectonic Edge
 3 Tectonic Edge
 4 Tectonic Edge
-1 Pia and Kiran Nalaar
-1 Snow-Covered Mountain
-1 Simian Spirit Guide
-1 Bonecrusher Giant
-1 Seasoned Pyromancer
-2 Bonecrusher Giant
-2 Seasoned Pyromancer
-2 Simian Spirit Guide
-2 Needleverge Pathway
-3 Bonecrusher Giant
-3 Needleverge Pathway
-3 Lightning Bolt
-3 Simian Spirit Guide
-3 Seasoned Pyromancer
-4 Bonecrusher Giant
-4 Needleverge Pathway
-4 Seasoned Pyromancer
-4 Lightning Bolt
-4 Simian Spirit Guide
 1 Snow-Covered Forest
 1 Temple Garden
 1 Brushland
@@ -113,8 +86,8 @@
 3 Horizon Canopy
 3 Noble Hierarch
 3 Razorverge Thicket
-4 Branchloft Pathway
 4 Collected Company
+4 Branchloft Pathway
 4 Horizon Canopy
 4 Razorverge Thicket
 4 Temple Garden
@@ -148,32 +121,40 @@
 2 Boros Charm
 2 Magus of the Moon
 3 Magus of the Moon
-1 Arid Mesa
-1 Slayers' Stronghold
-1 Mirran Crusader
-1 Judge's Familiar
-1 Grim Lavamancer
-1 Goblin Cratermaker
-1 Selfless Spirit
-1 Weathered Wayfarer
-1 Jaya Ballard, Task Mage
-2 Mirran Crusader
-2 Judge's Familiar
-2 Selfless Spirit
-2 Slayers' Stronghold
-3 Judge's Familiar
-3 Selfless Spirit
-3 Slayers' Stronghold
-4 Judge's Familiar
-1 Hallowed Fountain
 1 Seachrome Coast
 1 Geist of Saint Traft
 1 Island
-2 Hallowed Fountain
+1 Hallowed Fountain
 2 Seachrome Coast
+2 Hallowed Fountain
 2 Geist of Saint Traft
 3 Seachrome Coast
 3 Hallowed Fountain
 3 Geist of Saint Traft
 4 Seachrome Coast
 4 Hallowed Fountain
+1 Arid Mesa
+1 Slayers' Stronghold
+1 Mirran Crusader
+1 Sword of Light and Shadow
+1 Judge's Familiar
+1 Grim Lavamancer
+1 Goblin Cratermaker
+1 Selfless Spirit
+1 Weathered Wayfarer
+1 Needleverge Pathway
+1 Jaya Ballard, Task Mage
+1 Lightning Bolt
+1 Inspiring Vantage
+2 Mirran Crusader
+2 Judge's Familiar
+2 Selfless Spirit
+2 Slayers' Stronghold
+2 Inspiring Vantage
+2 Lightning Bolt
+3 Judge's Familiar
+3 Selfless Spirit
+3 Inspiring Vantage
+3 Slayers' Stronghold
+4 Judge's Familiar
+4 Inspiring Vantage

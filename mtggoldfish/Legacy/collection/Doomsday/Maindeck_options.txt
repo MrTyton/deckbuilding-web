@@ -1,23 +1,21 @@
-2 Scalding Tarn
 1 Badlands
-3 Scalding Tarn
+2 Scalding Tarn
 3 Misty Rainforest
-4 Misty Rainforest
+3 Scalding Tarn
 1 Swamp
 1 Island
+4 Misty Rainforest
 4 Scalding Tarn
+1 Bloodstained Mire
 2 Personal Tutor
 1 Lim-Dul's Vault
-1 Bloodstained Mire
-1 Night's Whisper
 1 Baleful Strix
-1 Flooded Strand
+1 Night's Whisper
 2 Baleful Strix
-2 Flooded Strand
-3 Thoughtseize
+1 Flooded Strand
 1 Dreadhorde Arcanist
-1 Delver of Secrets
 1 Arclight Phoenix
+1 Delver of Secrets
 1 Lightning Bolt
 1 Buried Alive
 2 Volcanic Island
@@ -27,6 +25,7 @@
 2 Delver of Secrets
 2 Buried Alive
 3 Dreadhorde Arcanist
+3 Thoughtseize
 3 Lightning Bolt
 3 Buried Alive
 3 Arclight Phoenix
@@ -34,20 +33,22 @@
 4 Delver of Secrets
 4 Buried Alive
 4 Arclight Phoenix
-1 Spell Pierce
-1 Arcum's Astrolabe
-2 Arcum's Astrolabe
 3 Baleful Strix
-1 Abrupt Decay
 1 Opposition Agent
 2 Opposition Agent
 3 Opposition Agent
+1 Spell Pierce
+4 Baleful Strix
+1 Arcum's Astrolabe
+2 Arcum's Astrolabe
+2 Flooded Strand
+1 Abrupt Decay
 1 Veil of Summer
 2 Veil of Summer
-4 Baleful Strix
 1 Verdant Catacombs
+2 Bloodstained Mire
 2 Island
-1 Flusterstorm
+1 Predict
 4 Duress
 2 Night's Whisper
 2 Snow-Covered Swamp
@@ -73,10 +74,9 @@
 3 Thought Erasure
 4 Flooded Strand
 4 Portent
-1 Predict
 1 Repeal
+1 Flusterstorm
 1 Pyroblast
-2 Bloodstained Mire
 1 Marsh Flats
 1 Tundra
 1 Teferi, Time Raveler
@@ -85,6 +85,8 @@
 1 Young Pyromancer
 2 Young Pyromancer
 3 Young Pyromancer
+2 Predict
+3 Predict
 1 Snow-Covered Mountain
 3 Night's Whisper
 1 Snow-Covered Forest
@@ -95,21 +97,3 @@
 4 Veil of Summer
 2 Thassa's Oracle
 4 Underground Sea
-1 Cabal Therapy
-1 Emrakul, the Aeons Torn
-1 Entomb
-1 Collective Brutality
-1 Shallow Grave
-1 Goryo's Vengeance
-1 Griselbrand
-1 Children of Korlis
-2 Griselbrand
-2 Entomb
-2 Verdant Catacombs
-2 Goryo's Vengeance
-2 Shallow Grave
-3 Entomb
-3 Shallow Grave
-4 Entomb
-4 Shallow Grave
-4 Lotus Petal

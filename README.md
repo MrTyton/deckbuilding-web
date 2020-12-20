@@ -4,11 +4,11 @@
 
 # Standard
 
-|                              A                               |                                    B                                     |                                 C                                  |                                 D                                  |                    E                     |
-|--------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------|
-|[Cycling](./mtggoldfish/Standard/decks/Cycling.md)            |[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Green Food](./mtggoldfish/Standard/decks/Mono-Green_Food.md)  |[Rakdos Sacrifice](./mtggoldfish/Standard/decks/Rakdos_Sacrifice.md)|[WB](./mtggoldfish/Standard/decks/WB.md)  |
-|[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)|[Golgari Adventures](./mtggoldfish/Standard/decks/Golgari_Adventures.md)  |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)    |[Temur Ramp](./mtggoldfish/Standard/decks/Temur_Ramp.md)            |[WR](./mtggoldfish/Standard/decks/WR.md)  |
-|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)  |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[UB](./mtggoldfish/Standard/decks/UB.md)                            |[WUG](./mtggoldfish/Standard/decks/WUG.md)|
+|                              A                               |                                    B                                     |                                 C                                  |                                 D                                  |                   E                    |
+|--------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------|
+|[BR](./mtggoldfish/Standard/decks/BR.md)                      |[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)              |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)|[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[UR](./mtggoldfish/Standard/decks/UR.md)|
+|[Cycling](./mtggoldfish/Standard/decks/Cycling.md)            |[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Green Food](./mtggoldfish/Standard/decks/Mono-Green_Food.md)  |[Temur Ramp](./mtggoldfish/Standard/decks/Temur_Ramp.md)            |[WB](./mtggoldfish/Standard/decks/WB.md)|
+|[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)|[Golgari Adventures](./mtggoldfish/Standard/decks/Golgari_Adventures.md)  |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)    |[UB](./mtggoldfish/Standard/decks/UB.md)                            |                                        |
 
 
 # Pioneer
@@ -26,8 +26,9 @@
 
 |                                   A                                    |                                         B                                          |                                   C                                    |                                     D                                      |                          E                           |
 |------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------|
-|[Ad Nauseam](./mtggoldfish/Modern/decks/Ad_Nauseam.md)                  |[Eldrazi & Taxes](./mtggoldfish/Modern/decks/Eldrazi_&_Taxes.md)                    |[Humans](./mtggoldfish/Modern/decks/Humans.md)                          |[Orzhov Stoneblade](./mtggoldfish/Modern/decks/Orzhov_Stoneblade.md)        |[UR](./mtggoldfish/Modern/decks/UR.md)                |
-|[Amulet Titan](./mtggoldfish/Modern/decks/Amulet_Titan.md)              |[Eldrazi Tron](./mtggoldfish/Modern/decks/Eldrazi_Tron.md)                          |[Infect](./mtggoldfish/Modern/decks/Infect.md)                          |[RG](./mtggoldfish/Modern/decks/RG.md)                                      |[U](./mtggoldfish/Modern/decks/U.md)                  |
+|[Ad Nauseam](./mtggoldfish/Modern/decks/Ad_Nauseam.md)                  |[Eladamri’s Toolbox](./mtggoldfish/Modern/decks/Eladamri’s_Toolbox.md)              |[Heliod Company](./mtggoldfish/Modern/decks/Heliod_Company.md)          |[Oops! All Spells](./mtggoldfish/Modern/decks/Oops!_All_Spells.md)          |[UG](./mtggoldfish/Modern/decks/UG.md)                |
+|[Amulet Titan](./mtggoldfish/Modern/decks/Amulet_Titan.md)              |[Eldrazi & Taxes](./mtggoldfish/Modern/decks/Eldrazi_&_Taxes.md)                    |[Humans](./mtggoldfish/Modern/decks/Humans.md)                          |[Orzhov Stoneblade](./mtggoldfish/Modern/decks/Orzhov_Stoneblade.md)        |[UR](./mtggoldfish/Modern/decks/UR.md)                |
+|[Azorius Control](./mtggoldfish/Modern/decks/Azorius_Control.md)        |[Eldrazi Tron](./mtggoldfish/Modern/decks/Eldrazi_Tron.md)                          |[Infect](./mtggoldfish/Modern/decks/Infect.md)                          |[RG](./mtggoldfish/Modern/decks/RG.md)                                      |[U](./mtggoldfish/Modern/decks/U.md)                  |
 |[BG](./mtggoldfish/Modern/decks/BG.md)                                  |[Electrobalance](./mtggoldfish/Modern/decks/Electrobalance.md)                      |[Izzet Control](./mtggoldfish/Modern/decks/Izzet_Control.md)            |[R](./mtggoldfish/Modern/decks/R.md)                                        |[Uro Omnath](./mtggoldfish/Modern/decks/Uro_Omnath.md)|
 |[Bant Stoneblade](./mtggoldfish/Modern/decks/Bant_Stoneblade.md)        |[Five-Colors Elementals](./mtggoldfish/Modern/decks/Five-Colors_Elementals.md)      |[Jeskai Ascendancy](./mtggoldfish/Modern/decks/Jeskai_Ascendancy.md)    |[Rakdos Death's Shadow](./mtggoldfish/Modern/decks/Rakdos_Death's_Shadow.md)|[WRG](./mtggoldfish/Modern/decks/WRG.md)              |
 |[Blitz](./mtggoldfish/Modern/decks/Blitz.md)                            |[Four-Color Death's Shadow](./mtggoldfish/Modern/decks/Four-Color_Death's_Shadow.md)|[Jeskai Control](./mtggoldfish/Modern/decks/Jeskai_Control.md)          |[Rakdos Midrange](./mtggoldfish/Modern/decks/Rakdos_Midrange.md)            |[WUBRG](./mtggoldfish/Modern/decks/WUBRG.md)          |
@@ -37,7 +38,6 @@
 |[Delver of Secrets](./mtggoldfish/Modern/decks/Delver_of_Secrets.md)    |[Gruul Midrange](./mtggoldfish/Modern/decks/Gruul_Midrange.md)                      |[Mill](./mtggoldfish/Modern/decks/Mill.md)                              |[Tron](./mtggoldfish/Modern/decks/Tron.md)                                  |[Whirza](./mtggoldfish/Modern/decks/Whirza.md)        |
 |[Devoted Devastation](./mtggoldfish/Modern/decks/Devoted_Devastation.md)|[Hammer Time](./mtggoldfish/Modern/decks/Hammer_Time.md)                            |[Mono-Blue Tron](./mtggoldfish/Modern/decks/Mono-Blue_Tron.md)          |[UBR](./mtggoldfish/Modern/decks/UBR.md)                                    |[Winota](./mtggoldfish/Modern/decks/Winota.md)        |
 |[Dredge](./mtggoldfish/Modern/decks/Dredge.md)                          |[Hardened Scales](./mtggoldfish/Modern/decks/Hardened_Scales.md)                    |[Mono-Red Aggro](./mtggoldfish/Modern/decks/Mono-Red_Aggro.md)          |[UB](./mtggoldfish/Modern/decks/UB.md)                                      |                                                      |
-|[Eladamri’s Toolbox](./mtggoldfish/Modern/decks/Eladamri’s_Toolbox.md)  |[Heliod Company](./mtggoldfish/Modern/decks/Heliod_Company.md)                      |[Oops! All Spells](./mtggoldfish/Modern/decks/Oops!_All_Spells.md)      |[UG](./mtggoldfish/Modern/decks/UG.md)                                      |                                                      |
 
 
 # Legacy
@@ -58,4 +58,4 @@
 
 
 
-#### Last Updated at 12:51PM on December 19, 2020
+#### Last Updated at 01:12AM on December 20, 2020

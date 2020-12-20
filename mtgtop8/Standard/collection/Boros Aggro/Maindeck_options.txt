@@ -37,13 +37,13 @@
 1 Embercleave
 1 Luminarch Aspirant
 1 Bonecrusher Giant
-1 Seasoned Hallowblade
 1 Robber of the Rich
+1 Seasoned Hallowblade
 1 Selfless Savior
 2 Luminarch Aspirant
 2 Bonecrusher Giant
-2 Seasoned Hallowblade
 2 Robber of the Rich
+2 Seasoned Hallowblade
 2 Embercleave
 2 Selfless Savior
 3 Luminarch Aspirant
@@ -54,9 +54,9 @@
 4 Seasoned Hallowblade
 4 Selfless Savior
 1 Fireblade Charger
+1 Archpriest of Iona
 1 Castle Embereth
 1 Skyclave Apparition
-1 Archpriest of Iona
 1 Relic Robber
 2 Fireblade Charger
 2 Relic Robber
@@ -77,13 +77,16 @@
 2 Temple of Triumph
 3 Temple of Triumph
 4 Temple of Triumph
-1 Call of the Death-Dweller
-1 Easy Prey
-2 Easy Prey
 1 Temple of Epiphany
-1 Temple of Enlightenment
 1 Teferi's Ageless Insight
+1 Temple of Enlightenment
 2 Teferi's Ageless Insight
+1 Easy Prey
+1 Call of the Death-Dweller
+2 Easy Prey
+2 Castle Embereth
+4 Fireblade Charger
+4 Archpriest of Iona
 1 Faerie Guidemother
 1 Castle Ardenvale
 1 Elspeth, Sun's Nemesis
@@ -100,11 +103,8 @@
 3 Elspeth, Sun's Nemesis
 3 Fabled Passage
 3 Giant Killer
-4 Elspeth, Sun's Nemesis
 4 Giant Killer
-2 Castle Embereth
-4 Fireblade Charger
-4 Archpriest of Iona
+4 Elspeth, Sun's Nemesis
 1 Island
 1 Improbable Alliance
 2 Island

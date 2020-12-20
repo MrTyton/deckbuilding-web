@@ -1,46 +1,44 @@
 1 Counterspell
-5 Snow-Covered Island
+1 Prismatic Vista
 1 Silundi Vision
 2 Silundi Vision
 2 Prismatic Vista
 1 Snapcaster Mage
 1 Hall of Heliod's Generosity
-2 Snapcaster Mage
 3 Prismatic Vista
 1 Cast Out
 1 Replenish
 2 Cast Out
 2 Replenish
 3 Cast Out
-1 Island
 1 Lay Claim
 2 Lay Claim
 3 Lay Claim
 3 Replenish
 4 Lay Claim
+2 Snapcaster Mage
+2 Counterspell
+4 Cast Out
+1 Island
+4 Replenish
 2 Island
+3 Teferi, Time Raveler
 1 Plains
 2 Plains
-4 Cast Out
-2 Counterspell
-3 Island
-4 Replenish
-2 Supreme Verdict
-3 Teferi, Time Raveler
-1 Spell Pierce
 1 Polluted Delta
 2 Polluted Delta
 4 Prismatic Vista
-4 Island
-1 Wasteland
+3 Island
 6 Snow-Covered Island
 2 Mystic Sanctuary
 1 Stoneforge Mystic
 1 Batterskull
 2 Stoneforge Mystic
-5 Island
+2 Supreme Verdict
 1 Vendilion Clique
-2 Wasteland
+1 Spell Pierce
+4 Island
+1 Wasteland
 1 Sword of Feast and Famine
 3 Snapcaster Mage
 1 Counterbalance
@@ -49,10 +47,12 @@
 1 Mishra's Factory
 1 Pyroblast
 1 Magmatic Sinkhole
+2 Magmatic Sinkhole
 2 Mishra's Factory
 2 Pyroblast
-2 Magmatic Sinkhole
+5 Island
 1 Back to Basics
+2 Wasteland
 3 Wasteland
 1 Brazen Borrower
 3 Force of Negation
@@ -60,9 +60,9 @@
 1 The Tabernacle at Pendrell Vale
 1 Lonely Sandbar
 1 Underground Sea
-1 Forest
 1 Tranquil Thicket
 1 Field of the Dead
+1 Forest
 1 Snow-Covered Forest
 1 Mox Diamond
 1 Life from the Loam
@@ -119,11 +119,6 @@
 1 Court of Cunning
 2 Back to Basics
 2 Court of Cunning
-1 Crucible of Worlds
-1 Council's Judgment
-1 Myth Realized
-2 Council's Judgment
-2 Myth Realized
 3 Tundra
 4 Teferi, Time Raveler
 1 Snow-Covered Swamp
@@ -136,8 +131,8 @@
 2 Abrupt Decay
 2 Chalice of the Void
 2 Uro, Titan of Nature's Wrath
-3 Abrupt Decay
 3 Uro, Titan of Nature's Wrath
+3 Abrupt Decay
 3 Misty Rainforest
 3 Chalice of the Void
 4 Uro, Titan of Nature's Wrath
@@ -158,12 +153,12 @@
 1 Crop Rotation
 2 Waterlogged Grove
 2 Elvish Reclaimer
-2 Crop Rotation
 2 Maze of Ith
 2 Thespian's Stage
+2 Crop Rotation
 2 Dark Depths
-2 Exploration
 2 Rishadan Port
+2 Exploration
 2 Tropical Island
 3 Thespian's Stage
 3 Crop Rotation
@@ -179,8 +174,8 @@
 1 Street Wraith
 1 Gilded Drake
 1 Astral Drift
-1 Secluded Steppe
 1 Astral Slide
+1 Secluded Steppe
 2 Containment Priest
 2 Street Wraith
 2 Lonely Sandbar
