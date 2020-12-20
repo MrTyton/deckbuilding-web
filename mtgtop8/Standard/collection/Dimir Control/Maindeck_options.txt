@@ -1,19 +1,19 @@
 6 Island
+4 Swamp
 1 Cling to Dust
 2 Cling to Dust
-4 Swamp
 5 Swamp
 6 Swamp
 3 Heartless Act
 3 Bloodchief's Thirst
 1 Jwari Disruption
+2 Jwari Disruption
 1 Ashiok, Nightmare Muse
 1 Mazemind Tome
-1 Extinction Event
 1 Crawling Barrens
-2 Mazemind Tome
+1 Extinction Event
 2 Ashiok, Nightmare Muse
-2 Jwari Disruption
+2 Mazemind Tome
 2 Crawling Barrens
 2 Extinction Event
 3 Crawling Barrens
@@ -21,13 +21,13 @@
 1 Omen of the Sea
 1 Ugin, the Spirit Dragon
 2 Omen of the Sea
-1 Solemn Simulacrum
 1 Elspeth's Nightmare
+1 Solemn Simulacrum
 1 Negate
 2 Ugin, the Spirit Dragon
 2 Elspeth's Nightmare
-2 Negate
 2 Solemn Simulacrum
+2 Negate
 3 Omen of the Sea
 3 Solemn Simulacrum
 1 Neutralize
@@ -40,6 +40,7 @@
 4 Extinction Event
 3 Jwari Disruption
 4 Jwari Disruption
+7 Island
 1 Atris, Oracle of Half-Truths
 3 Ugin, the Spirit Dragon
 4 Omen of the Sea
@@ -48,7 +49,6 @@
 2 Essence Scatter
 4 Mazemind Tome
 1 Castle Vantress
-7 Island
 1 Lochmere Serpent
 1 Castle Locthwain
 3 Zagoth Triome
@@ -58,18 +58,27 @@
 3 Ashiok, Nightmare Muse
 2 Atris, Oracle of Half-Truths
 4 Ugin, the Spirit Dragon
-1 Sublime Epiphany
+4 Merfolk Windrobber
+4 Bloodchief's Thirst
 1 Anticognition
+1 Sublime Epiphany
+1 Evolving Wilds
+2 Evolving Wilds
 3 Cling to Dust
 1 Silundi Vision
 1 Shadows' Verdict
-4 Merfolk Windrobber
+8 Island
 1 Mystical Dispute
-4 Bloodchief's Thirst
 1 Shark Typhoon
 7 Swamp
-1 Evolving Wilds
-2 Evolving Wilds
+1 Dismal Backwater
+1 Teferi's Tutelage
+2 Didn't Say Please
+2 Dismal Backwater
+3 Dismal Backwater
+3 Evolving Wilds
+4 Dismal Backwater
+4 Evolving Wilds
 1 Teferi, Master of Time
 2 Shark Typhoon
 2 Teferi, Master of Time
@@ -80,7 +89,6 @@
 1 Midnight Clock
 2 Midnight Clock
 8 Swamp
-8 Island
 9 Island
 1 Call of the Death-Dweller
 2 Call of the Death-Dweller
@@ -88,33 +96,33 @@
 2 Vantress Gargoyle
 2 Mystical Dispute
 3 Vantress Gargoyle
+1 Frantic Inventory
+1 Radiant Fountain
+1 Feed the Swarm
+1 Grasp of Darkness
+2 Frantic Inventory
+2 Anticognition
+2 Feed the Swarm
+2 Grasp of Darkness
+2 Radiant Fountain
+2 Teferi's Tutelage
+3 Didn't Say Please
+3 Frantic Inventory
+3 Teferi's Tutelage
+3 Grasp of Darkness
+4 Didn't Say Please
+4 Frantic Inventory
+1 Mind Carver
+1 Blackbloom Rogue
+2 Mind Carver
+2 Blackbloom Rogue
+3 Mind Carver
+3 Blackbloom Rogue
+4 Mind Carver
+4 Blackbloom Rogue
 1 Murderous Rider
 2 Shadows' Verdict
 3 Shadows' Verdict
 3 Eliminate
-4 Zagoth Triome
 4 Ashiok, Nightmare Muse
-1 Frantic Inventory
-1 Radiant Fountain
-1 Feed the Swarm
-1 Teferi's Tutelage
-1 Grasp of Darkness
-1 Dismal Backwater
-2 Frantic Inventory
-2 Teferi's Tutelage
-2 Feed the Swarm
-2 Grasp of Darkness
-2 Radiant Fountain
-2 Didn't Say Please
-2 Dismal Backwater
-2 Anticognition
-3 Teferi's Tutelage
-3 Frantic Inventory
-3 Dismal Backwater
-3 Evolving Wilds
-3 Grasp of Darkness
-3 Didn't Say Please
-4 Frantic Inventory
-4 Dismal Backwater
-4 Evolving Wilds
-4 Didn't Say Please
+4 Zagoth Triome

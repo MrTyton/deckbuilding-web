@@ -1,8 +1,8 @@
 2 Spell Pierce
 3 Snow-Covered Island
-3 Wasteland
 1 Daze
 2 Daze
+3 Wasteland
 3 Daze
 3 Tundra
 1 Council's Judgment
@@ -38,11 +38,11 @@
 3 Noble Hierarch
 3 Stifle
 4 Noble Hierarch
-4 Wasteland
 1 Delver of Secrets
 2 Delver of Secrets
 3 Delver of Secrets
 4 Daze
+4 Wasteland
 4 Delver of Secrets
 1 Snow-Covered Mountain
 1 Vendilion Clique
@@ -60,8 +60,8 @@
 1 Krark, the Thumbless
 1 Drown in the Loch
 1 Price of Progress
-1 Opposition Agent
 1 Fatal Push
+1 Opposition Agent
 1 Blood Moon
 1 Hullbreacher
 2 Krark, the Thumbless
@@ -125,47 +125,46 @@
 2 Geist of Saint Traft
 3 Volcanic Island
 4 Tundra
-1 Ancient Tomb
-1 Chalice of the Void
-2 Ancient Tomb
-2 Chalice of the Void
-3 Chalice of the Void
-3 Ancient Tomb
-4 Chalice of the Void
-4 Ancient Tomb
 1 Cavern of Souls
 1 Chrome Mox
+1 Ancient Tomb
+1 Chalice of the Void
 2 Chrome Mox
+2 Ancient Tomb
+2 Chalice of the Void
 2 Cavern of Souls
 3 Cavern of Souls
+3 Ancient Tomb
+3 Chalice of the Void
 3 Chrome Mox
 4 Chrome Mox
+4 Chalice of the Void
+4 Ancient Tomb
 4 Cavern of Souls
-1 City of Traitors
-2 City of Traitors
-3 City of Traitors
-4 City of Traitors
 1 Shatterskull Smashing
 1 Blood Sun
 1 Simian Spirit Guide
 1 Punishing Fire
 1 Grove of the Burnwillows
+1 City of Traitors
 1 Boros Battleshaper
 1 Sethron, Hurloon General
 1 Moraug, Fury of Akoum
-1 Neheb, Dreadhorde Champion
 1 Didgeridoo
+1 Neheb, Dreadhorde Champion
 2 Shatterskull Smashing
 2 Blood Sun
 2 Simian Spirit Guide
 2 Punishing Fire
 2 Grove of the Burnwillows
+2 City of Traitors
 2 Boros Battleshaper
 2 Didgeridoo
 2 Moraug, Fury of Akoum
 2 Sethron, Hurloon General
 2 Neheb, Dreadhorde Champion
 3 Shatterskull Smashing
+3 City of Traitors
 3 Simian Spirit Guide
 3 Grove of the Burnwillows
 3 Punishing Fire
@@ -176,6 +175,7 @@
 3 Sethron, Hurloon General
 3 Neheb, Dreadhorde Champion
 3 Mountain
+4 City of Traitors
 4 Simian Spirit Guide
 4 Blood Sun
 4 Moraug, Fury of Akoum
@@ -183,48 +183,6 @@
 4 Neheb, Dreadhorde Champion
 4 Sethron, Hurloon General
 4 Grove of the Burnwillows
-1 Mishra's Factory
-1 Lodestone Golem
-1 Lotus Petal
-1 Inventors' Fair
-1 Karn, Scion of Urza
-1 Walking Ballista
-1 Thorn of Amethyst
-1 Blinkmoth Nexus
-1 Mox Opal
-1 Phyrexian Revoker
-1 Stonecoil Serpent
-1 Tree of Tales
-1 Steel Overseer
-1 Arcbound Ravager
-1 Hangarback Walker
-2 Mishra's Factory
-2 Lodestone Golem
-2 Lotus Petal
-2 Thorn of Amethyst
-2 Mox Opal
-2 Steel Overseer
-2 Phyrexian Revoker
-2 Stonecoil Serpent
-2 Arcbound Ravager
-2 Walking Ballista
-2 Tree of Tales
-3 Mishra's Factory
-3 Lotus Petal
-3 Thorn of Amethyst
-3 Steel Overseer
-3 Lodestone Golem
-3 Stonecoil Serpent
-3 Tree of Tales
-3 Arcbound Ravager
-3 Walking Ballista
-4 Walking Ballista
-4 Mishra's Factory
-4 Lodestone Golem
-4 Thorn of Amethyst
-4 Stonecoil Serpent
-4 Arcbound Ravager
-4 Steel Overseer
 1 Path to Exile
 1 Thalia, Heretic Cathar
 1 Palace Jailer

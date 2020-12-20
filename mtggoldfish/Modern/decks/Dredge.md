@@ -62,9 +62,9 @@
 |                     |                                                                                               |                    1|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)      |
 |                     |                                                                                               |                    2|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)      |
 |                     |                                                                                               |                    2|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)          |
-|                     |                                                                                               |                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
 |                     |                                                                                               |                    1|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)  |
 |                     |                                                                                               |                    2|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)  |
 |                     |                                                                                               |                    3|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)  |
+|                     |                                                                                               |                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
 |                     |                                                                                               |                    3|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)     |
 

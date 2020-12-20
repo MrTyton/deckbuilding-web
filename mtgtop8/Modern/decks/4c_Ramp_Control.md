@@ -86,7 +86,7 @@
 |                    3|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989)         |                     |                                                                                               |
 |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)               |                     |                                                                                               |
 |                    3|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)           |                     |                                                                                               |
-|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)               |                     |                                                                                               |
 |                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)           |                     |                                                                                               |
+|                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)               |                     |                                                                                               |
 |                    4|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989)         |                     |                                                                                               |
 

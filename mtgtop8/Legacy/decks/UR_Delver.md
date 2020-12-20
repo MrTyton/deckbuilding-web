@@ -85,7 +85,7 @@
 |                    2|[Of One Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479580)          |                     |                                                                                                  |
 |                    3|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)         |                     |                                                                                                  |
 |                    3|[Of One Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479580)          |                     |                                                                                                  |
-|                    4|Krark, the Thumbless                                                                            |                     |                                                                                                  |
 |                    4|[Of One Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479580)          |                     |                                                                                                  |
+|                    4|Krark, the Thumbless                                                                            |                     |                                                                                                  |
 |                    4|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592)     |                     |                                                                                                  |
 

@@ -6,8 +6,8 @@
 2 Eliminate
 3 Eliminate
 1 Castle Vantress
-1 Sulfur Falls
 1 Steam Vents
+1 Sulfur Falls
 2 Steam Vents
 2 Sulfur Falls
 1 Castle Ardenvale
@@ -52,10 +52,10 @@
 2 Castle Ardenvale
 2 Ketria Triome
 2 Agent of Treachery
+3 Ketria Triome
 3 Sulfur Falls
 3 Castle Ardenvale
 3 Plains
-3 Ketria Triome
 3 Omen of the Sea
 3 Agent of Treachery
 3 Raugrin Triome
@@ -67,9 +67,9 @@
 3 Transmogrify
 3 Hallowed Fountain
 3 Shark Typhoon
+4 Ketria Triome
 4 Sulfur Falls
 4 Shark Typhoon
-4 Ketria Triome
 4 Omen of the Sea
 4 Teferi, Time Raveler
 4 Transmogrify
@@ -100,9 +100,9 @@
 1 Cleansing Wildfire
 1 Vessel of Volatility
 1 Mazemind Tome
+1 Chandra, Torch of Defiance
 1 Blast Zone
 1 Scavenger Grounds
-1 Chandra, Torch of Defiance
 1 Chandra, Awakened Inferno
 1 Golos, Tireless Pilgrim
 1 Cascading Cataracts
@@ -117,19 +117,19 @@
 2 Cleansing Wildfire
 2 Vessel of Volatility
 2 Mazemind Tome
-2 Cascading Cataracts
 2 Chandra, Torch of Defiance
+2 Cascading Cataracts
 2 Thought-Knot Seer
 2 Ugin, the Spirit Dragon
 2 Battlefield Forge
 2 Darksteel Citadel
 2 Mountain
+3 Bonecrusher Giant
+3 Ramunap Ruins
 3 Cleansing Wildfire
 3 Cascading Cataracts
 3 Valakut Awakening
 3 Vessel of Volatility
-3 Ramunap Ruins
-3 Bonecrusher Giant
 3 Irencrag Feat
 3 Mazemind Tome
 3 Chandra, Torch of Defiance
@@ -143,21 +143,21 @@
 4 Cascading Cataracts
 4 Valakut Awakening
 4 Anger of the Gods
-4 Ramunap Ruins
 4 Bonecrusher Giant
+4 Ramunap Ruins
 4 Mazemind Tome
 4 Thought-Knot Seer
 4 Darksteel Citadel
 4 Ugin, the Spirit Dragon
 1 Courser of Kruphix
-1 Branchloft Pathway
-1 Sunpetal Grove
 1 Baffling End
 1 Sigil of the Empty Throne
 1 Setessan Champion
 1 Banishing Light
 1 Calix, Destiny's Hand
+1 Sunpetal Grove
 1 Gideon's Intervention
+1 Branchloft Pathway
 1 Mana Bloom
 1 Eidolon of Blossoms
 1 Sphere of Safety
@@ -168,13 +168,13 @@
 1 Wolfwillow Haven
 1 Starfield Mystic
 1 Herald of the Pantheon
-2 Branchloft Pathway
 2 Courser of Kruphix
-2 Sunpetal Grove
 2 Baffling End
+2 Sunpetal Grove
 2 Calix, Destiny's Hand
 2 Setessan Champion
 2 Banishing Light
+2 Branchloft Pathway
 2 Eidolon of Blossoms
 2 Sigil of the Empty Throne
 2 Forest
@@ -185,10 +185,10 @@
 2 Wolfwillow Haven
 2 Herald of the Pantheon
 2 Sphere of Safety
-3 Branchloft Pathway
-3 Temple Garden
 3 Setessan Champion
 3 Banishing Light
+3 Temple Garden
+3 Branchloft Pathway
 3 Baffling End
 3 Courser of Kruphix
 3 Forest
@@ -197,8 +197,8 @@
 3 Eidolon of Blossoms
 3 Temple of Plenty
 3 Herald of the Pantheon
-4 Temple Garden
 4 Banishing Light
+4 Temple Garden
 4 Temple of Plenty
 4 Eidolon of Blossoms
 4 Herald of the Pantheon

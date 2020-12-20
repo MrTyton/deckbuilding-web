@@ -26,8 +26,8 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    4|[Thoughtcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222732)             |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
-|                    1|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                  |                    1|[Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)         |
+|                    4|[Thoughtcast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222732)             |                    1|[Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)         |
+|                    1|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                  |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
 |                    2|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                  |                    2|[Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)         |
 |                    3|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                  |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
 |                    4|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)                  |                    3|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)    |
