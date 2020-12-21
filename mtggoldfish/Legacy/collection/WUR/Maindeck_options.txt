@@ -1,22 +1,18 @@
-2 Spell Pierce
-3 Snow-Covered Island
-1 Daze
-2 Daze
 3 Wasteland
 3 Daze
+2 Force of Negation
 3 Tundra
+2 Island
+1 Scalding Tarn
+1 Volcanic Island
 1 Council's Judgment
-2 Scalding Tarn
-1 Brazen Borrower
 1 Plains
+1 Brazen Borrower
+2 Scalding Tarn
 1 Counterspell
-3 Prismatic Vista
-1 Lightning Bolt
-2 Lightning Bolt
 1 Tropical Island
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
-3 Island
 1 Dovin's Veto
 2 Snow-Covered Plains
 4 Snow-Covered Island
@@ -26,11 +22,10 @@
 2 Windswept Heath
 2 Tropical Island
 3 Oko, Thief of Crowns
-3 Snapcaster Mage
-3 Scalding Tarn
-1 Swamp
-1 Underground Sea
-2 Brazen Borrower
+3 Prismatic Vista
+1 Lightning Bolt
+2 Lightning Bolt
+3 Island
 1 Noble Hierarch
 1 Stifle
 2 Noble Hierarch
@@ -49,30 +44,15 @@
 1 Marsh Flats
 1 Misty Rainforest
 2 Misty Rainforest
+3 Snapcaster Mage
+3 Scalding Tarn
 3 Skyclave Apparition
-1 Mountain
-2 Volcanic Island
-3 Lightning Bolt
-4 Lightning Bolt
-4 Island
-5 Island
-2 Mountain
-1 Krark, the Thumbless
-1 Drown in the Loch
-1 Price of Progress
-1 Fatal Push
-1 Opposition Agent
-1 Blood Moon
-1 Hullbreacher
-2 Krark, the Thumbless
-2 Drown in the Loch
-2 Blood Moon
-2 Hullbreacher
-2 Fatal Push
-2 Price of Progress
-2 Opposition Agent
-4 Snapcaster Mage
-2 Plains
+1 Swamp
+1 Underground Sea
+2 Brazen Borrower
+1 Back to Basics
+5 Snow-Covered Island
+6 Snow-Covered Island
 1 Ashiok, Dream Render
 1 Scrubland
 1 Baleful Strix
@@ -81,17 +61,41 @@
 3 Baleful Strix
 4 Skyclave Apparition
 4 Baleful Strix
-1 Back to Basics
-5 Snow-Covered Island
-6 Snow-Covered Island
+2 Plains
 1 Pyroblast
 1 Lavinia, Azorius Renegade
 2 Lavinia, Azorius Renegade
 4 Polluted Delta
 1 Sevinne's Reclamation
+1 Mountain
+4 Island
+5 Island
+2 Volcanic Island
+3 Lightning Bolt
+4 Lightning Bolt
 1 Meddling Mage
 2 Underground Sea
+1 Krark, the Thumbless
+1 Drown in the Loch
+1 Fatal Push
+1 Opposition Agent
+1 Blood Moon
+1 Hullbreacher
+1 Price of Progress
+2 Krark, the Thumbless
+2 Drown in the Loch
+2 Hullbreacher
+2 Fatal Push
+2 Price of Progress
+2 Opposition Agent
+2 Blood Moon
+2 Mountain
+4 Snapcaster Mage
 4 Scalding Tarn
+1 Geist of Saint Traft
+2 Geist of Saint Traft
+3 Volcanic Island
+4 Tundra
 1 Jolrael, Mwonvuli Recluse
 1 Horizon Canopy
 1 Waterlogged Grove
@@ -115,74 +119,15 @@
 1 Arcum's Astrolabe
 1 Sword of the Meek
 2 Urza, Lord High Artificer
-2 Arcum's Astrolabe
 2 Thopter Foundry
+2 Arcum's Astrolabe
 3 Misty Rainforest
 3 Arcum's Astrolabe
 4 Misty Rainforest
 4 Arcum's Astrolabe
-1 Geist of Saint Traft
-2 Geist of Saint Traft
-3 Volcanic Island
-4 Tundra
 1 Cavern of Souls
 1 Chrome Mox
 1 Ancient Tomb
-1 Chalice of the Void
-2 Chrome Mox
-2 Ancient Tomb
-2 Chalice of the Void
-2 Cavern of Souls
-3 Cavern of Souls
-3 Ancient Tomb
-3 Chalice of the Void
-3 Chrome Mox
-4 Chrome Mox
-4 Chalice of the Void
-4 Ancient Tomb
-4 Cavern of Souls
-1 Shatterskull Smashing
-1 Blood Sun
-1 Simian Spirit Guide
-1 Punishing Fire
-1 Grove of the Burnwillows
-1 City of Traitors
-1 Boros Battleshaper
-1 Sethron, Hurloon General
-1 Moraug, Fury of Akoum
-1 Didgeridoo
-1 Neheb, Dreadhorde Champion
-2 Shatterskull Smashing
-2 Blood Sun
-2 Simian Spirit Guide
-2 Punishing Fire
-2 Grove of the Burnwillows
-2 City of Traitors
-2 Boros Battleshaper
-2 Didgeridoo
-2 Moraug, Fury of Akoum
-2 Sethron, Hurloon General
-2 Neheb, Dreadhorde Champion
-3 Shatterskull Smashing
-3 City of Traitors
-3 Simian Spirit Guide
-3 Grove of the Burnwillows
-3 Punishing Fire
-3 Blood Sun
-3 Boros Battleshaper
-3 Didgeridoo
-3 Moraug, Fury of Akoum
-3 Sethron, Hurloon General
-3 Neheb, Dreadhorde Champion
-3 Mountain
-4 City of Traitors
-4 Simian Spirit Guide
-4 Blood Sun
-4 Moraug, Fury of Akoum
-4 Didgeridoo
-4 Neheb, Dreadhorde Champion
-4 Sethron, Hurloon General
-4 Grove of the Burnwillows
 1 Path to Exile
 1 Thalia, Heretic Cathar
 1 Palace Jailer
@@ -196,30 +141,43 @@
 1 Citadel Siege
 1 Thalia, Guardian of Thraben
 1 High Sentinels of Arashin
+1 Chalice of the Void
 1 Baird, Steward of Argive
 2 Path to Exile
 2 Suppression Field
 2 Palace Jailer
-2 Holy Light
 2 High Sentinels of Arashin
 2 Thalia, Heretic Cathar
+2 Chrome Mox
+2 Ancient Tomb
 2 Thalia's Lieutenant
+2 Holy Light
 2 Thalia, Guardian of Thraben
 2 Preeminent Captain
 2 Enlistment Officer
+2 Chalice of the Void
 2 Daru Warchief
+2 Cavern of Souls
 2 Aerial Responder
 3 Thalia, Heretic Cathar
 3 Plains
 3 Suppression Field
 3 Thalia, Guardian of Thraben
 3 Preeminent Captain
+3 Cavern of Souls
+3 Ancient Tomb
+3 Chalice of the Void
 3 High Sentinels of Arashin
 3 Aerial Responder
+3 Chrome Mox
+4 Chrome Mox
 4 Plains
+4 Chalice of the Void
 4 Suppression Field
+4 Ancient Tomb
 4 High Sentinels of Arashin
 4 Thalia, Guardian of Thraben
+4 Preeminent Captain
 5 Plains
 6 Plains
-4 Preeminent Captain
+4 Cavern of Souls

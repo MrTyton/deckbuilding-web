@@ -8,13 +8,13 @@
 2 Baneslayer Angel
 2 Elspeth Conquers Death
 1 Heliod's Intervention
-1 Banishing Light
-3 Legion Angel
 3 Glass Casket
-1 Hushbringer
-2 Hushbringer
 4 Glass Casket
 2 Lurrus of the Dream-Den
+1 Hushbringer
+2 Hushbringer
+1 Banishing Light
+3 Legion Angel
 2 Soul-Guide Lantern
 3 Idol of Endurance
 2 Heliod's Intervention
@@ -22,39 +22,37 @@
 1 Speaker of the Heavens
 3 Hushbringer
 4 Hushbringer
+1 Skyclave Apparition
 1 Tormod's Crypt
 2 Tormod's Crypt
 3 Tormod's Crypt
-2 Banishing Light
-1 Angelic Ascension
 1 Kabira Takedown
-1 Skyclave Apparition
+1 Angelic Ascension
+1 Shepherd of the Flock
 1 Archon of Sun's Grace
 2 Archon of Sun's Grace
 1 Selfless Savior
 1 Maul of the Skyclaves
+2 Angelic Ascension
 1 Containment Priest
 2 Containment Priest
-2 Angelic Ascension
 4 Tormod's Crypt
 1 Light of Hope
 2 Light of Hope
-1 Shepherd of the Flock
 1 Cubwarden
 2 Cubwarden
 3 Cubwarden
 1 Shatter the Sky
-1 Emeria's Call
+2 Banishing Light
 3 Heliod's Intervention
 1 Luminous Broodmoth
 1 Drannith Magistrate
 2 Drannith Magistrate
-3 Banishing Light
 2 Maul of the Skyclaves
-1 Shadowspear
-1 Crawling Barrens
 1 Daxos, Blessed by the Sun
+1 Crawling Barrens
 1 Feat of Resistance
+1 Emeria's Call
 2 Emeria's Call
 1 Archon of Emeria
 1 Nahiri's Binding
@@ -74,6 +72,7 @@
 4 Speaker of the Heavens
 4 Basri Ket
 2 Shatter the Sky
+3 Banishing Light
 3 Shatter the Sky
 4 Banishing Light
 1 Sentinel's Eyes
@@ -84,6 +83,15 @@
 2 The Birth of Meletis
 3 Sentinel's Eyes
 4 Sentinel's Eyes
+1 Venerable Knight
+2 Venerable Knight
+2 Shepherd of the Flock
+2 Skyclave Apparition
+3 Venerable Knight
+3 Shepherd of the Flock
+3 Skyclave Apparition
+4 Venerable Knight
+4 Skyclave Apparition
 1 Garrison Cat
 2 Kabira Takedown
 2 Garrison Cat
@@ -93,7 +101,5 @@
 2 Swift Response
 3 Containment Priest
 4 Containment Priest
+1 Shadowspear
 4 Heliod's Intervention
-1 Sejiri Shelter
-2 Sejiri Shelter
-1 Heliod, Sun-Crowned

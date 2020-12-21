@@ -17,37 +17,38 @@
 3 Skewer the Critics
 3 Rift Bolt
 4 Eidolon of the Great Revel
-1 Bloodstained Mire
 1 Boros Charm
+1 Bloodstained Mire
 1 Searing Blaze
 1 Sacred Foundry
 2 Sacred Foundry
 2 Boros Charm
 2 Searing Blaze
+2 Bloodstained Mire
+3 Searing Blaze
 3 Boros Charm
 4 Boros Charm
 1 Inspiring Vantage
+1 Wooded Foothills
 1 Lightning Helix
 2 Inspiring Vantage
+2 Wooded Foothills
 2 Lightning Helix
 3 Inspiring Vantage
 3 Lightning Helix
 4 Inspiring Vantage
-2 Bloodstained Mire
-3 Searing Blaze
 1 Skullcrack
 2 Skullcrack
-3 Skullcrack
 2 Sunbaked Canyon
-1 Wooded Foothills
-2 Wooded Foothills
 3 Flame Slash
 4 Rift Bolt
 3 Sunbaked Canyon
+3 Skullcrack
 1 Blast Zone
 2 Blast Zone
 2 Fiery Islet
 4 Skewer the Critics
+4 Sunbaked Canyon
 4 Searing Blaze
 3 Bloodstained Mire
 4 Bloodstained Mire
@@ -55,26 +56,29 @@
 4 Flame Slash
 1 Burst Lightning
 18 Mountain
-4 Sunbaked Canyon
-1 Scalding Tarn
-2 Scalding Tarn
 1 Stomping Ground
 3 Sacred Foundry
 4 Sacred Foundry
+1 Arid Mesa
 1 Forgotten Cave
 2 Forgotten Cave
+1 Snow-Covered Mountain
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
 1 Ramunap Ruins
 1 Magus of the Moon
+1 Scalding Tarn
+2 Scalding Tarn
 1 Shard Volley
 1 Grim Lavamancer
 1 Rampaging Ferocidon
-2 Rampaging Ferocidon
 2 Shard Volley
+2 Rampaging Ferocidon
 3 Wooded Foothills
 4 Wooded Foothills
 1 Kiln Fiend
-1 Bedlam Reveler
 1 Abrade
+1 Bedlam Reveler
 1 Crash Through
 1 Manamorphose
 2 Kiln Fiend
@@ -89,7 +93,6 @@
 4 Crash Through
 4 Manamorphose
 1 Atarka's Command
-1 Arid Mesa
 2 Atarka's Command
 2 Stomping Ground
 2 Arid Mesa
@@ -97,10 +100,7 @@
 3 Arid Mesa
 4 Atarka's Command
 4 Arid Mesa
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
 3 Forgotten Cave
-3 Snow-Covered Mountain
 4 Forgotten Cave
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
@@ -113,6 +113,4 @@
 12 Snow-Covered Mountain
 13 Snow-Covered Mountain
 14 Snow-Covered Mountain
-3 Scalding Tarn
 4 Lightning Helix
-4 Scalding Tarn

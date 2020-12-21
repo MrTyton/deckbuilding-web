@@ -1,6 +1,15 @@
 1 Assassin's Trophy
+2 Flusterstorm
 1 Leovold, Emissary of Trest
+1 Dead of Winter
 2 Surgical Extraction
+1 Null Rod
+1 Back to Basics
+1 Skyclave Apparition
+1 Abrade
+2 Abrade
+1 Pithing Needle
+1 Opposition Agent
 1 Wasteland
 1 Life from the Loam
 1 Notion Thief
@@ -9,17 +18,6 @@
 1 Pernicious Deed
 1 Scavenging Ooze
 1 Crop Rotation
-2 Flusterstorm
-1 Null Rod
-1 Back to Basics
-1 Dead of Winter
-1 Skyclave Apparition
-1 Mindbreak Trap
-2 Mindbreak Trap
-1 Abrade
-2 Abrade
-1 Pithing Needle
-1 Opposition Agent
 1 Damping Sphere
 2 Carpet of Flowers
 2 Skyclave Apparition
@@ -50,11 +48,11 @@
 1 Grafdigger's Cage
 1 Hullbreacher
 2 Hullbreacher
+1 Thoughtseize
+2 Thoughtseize
 1 Abrupt Decay
 1 Ceremonious Rejection
 2 Back to Basics
-1 Thoughtseize
-2 Thoughtseize
 1 Kaya, Orzhov Usurper
 1 Felidar Retreat
 1 Ground Seal
@@ -71,6 +69,8 @@
 1 Relic of Progenitus
 1 Submerge
 2 Submerge
+1 Mindbreak Trap
+2 Mindbreak Trap
 3 Red Elemental Blast
 1 Leyline of Sanctity
 1 Extirpate
@@ -87,4 +87,6 @@
 2 Fragmentize
 2 Oko, Thief of Crowns
 3 Oko, Thief of Crowns
+2 Dead of Winter
+3 Nihil Spellbomb
 4 Meddling Mage

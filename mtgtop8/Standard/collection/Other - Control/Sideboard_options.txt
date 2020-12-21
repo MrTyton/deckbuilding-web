@@ -4,8 +4,8 @@
 2 Skyclave Shade
 1 Eliminate
 2 Eliminate
-1 Bloodchief's Thirst
 1 Shatter the Sky
+1 Bloodchief's Thirst
 2 Cling to Dust
 2 Treacherous Blessing
 2 Chainweb Aracnir
@@ -13,6 +13,7 @@
 1 Mazemind Tome
 2 Mazemind Tome
 1 Soul Shatter
+2 Shatter the Sky
 1 Ugin, the Spirit Dragon
 1 Shadows' Verdict
 1 Vivien, Monsters' Advocate
@@ -36,17 +37,27 @@
 3 Stonecoil Serpent
 1 Run Afoul
 1 Tormod's Crypt
-2 Shatter the Sky
 3 Shatter the Sky
-1 Covetous Urge
+1 Emeria's Call
+1 Shark Typhoon
+1 Sanctum of Tranquil Light
+1 Sanctum of Fruitful Harvest
+1 Sanctum of Stone Fangs
+1 Sanctum of All
+1 Neutralize
+1 Sanctum of Calm Waters
+2 Shark Typhoon
+2 Neutralize
+3 Neutralize
 1 Essence Scatter
+1 Covetous Urge
 1 Rewind
 1 Into the Roil
 1 Lullmage's Domination
 1 Mystical Dispute
-2 Covetous Urge
-2 Essence Scatter
 2 Rewind
+2 Essence Scatter
+2 Covetous Urge
 2 Into the Roil
 2 Miscast
 2 Lullmage's Domination
@@ -72,16 +83,6 @@
 3 Soul-Guide Lantern
 4 Mazemind Tome
 4 Ox of Agonas
-1 Swift Response
-1 Midnight Clock
-1 Shimmer Dragon
-1 Disenchant
-2 Swift Response
-2 Disenchant
-2 Midnight Clock
-3 Midnight Clock
-4 Negate
-4 Midnight Clock
 1 Kogla, the Titan Ape
 1 Glass Casket
 3 Chainweb Aracnir
@@ -91,3 +92,13 @@
 3 Skyclave Shade
 3 Heartless Act
 4 Skyclave Shade
+1 Disenchant
+1 Midnight Clock
+1 Swift Response
+1 Shimmer Dragon
+2 Swift Response
+2 Disenchant
+2 Midnight Clock
+3 Midnight Clock
+4 Negate
+4 Midnight Clock

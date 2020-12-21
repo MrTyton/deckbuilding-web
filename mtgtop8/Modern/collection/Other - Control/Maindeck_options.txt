@@ -10,8 +10,8 @@
 3 Primeval Titan
 4 Primeval Titan
 1 Scattered Groves
-1 Felidar Retreat
 1 Search for Tomorrow
+1 Felidar Retreat
 1 Baneslayer Angel
 1 Temple Garden
 1 Arboreal Grazer
@@ -73,16 +73,16 @@
 1 Engineered Explosives
 1 Waterlogged Grove
 2 Snow-Covered Island
-1 Mox Amber
-1 Unearth
-1 Tasigur, the Golden Fang
 1 Silent Clearing
 1 Snow-Covered Swamp
 1 Lurrus of the Dream-Den
 1 Soul-Guide Lantern
 1 Repeal
 1 Spellskite
+1 Unearth
+1 Tasigur, the Golden Fang
 1 Erayo, Soratami Ascendant
+1 Mox Amber
 1 Monastery Mentor
 1 Godless Shrine
 1 Teferi, Time Raveler
@@ -91,29 +91,29 @@
 1 Aether Spellbomb
 1 Hallowed Fountain
 2 Repeal
-2 Mox Amber
+2 Unearth
 2 Monastery Mentor
 2 Emry, Lurker of the Loch
 2 Teferi, Time Raveler
 2 Erayo, Soratami Ascendant
-2 Unearth
 2 Waterlogged Grove
+2 Mox Amber
 2 Engineered Explosives
-3 Unearth
 3 Repeal
-3 Mox Amber
 3 Teferi, Time Raveler
-3 Monastery Mentor
+3 Unearth
 3 Flooded Strand
 3 Erayo, Soratami Ascendant
+3 Mox Amber
 3 Emry, Lurker of the Loch
-4 Mox Amber
+3 Monastery Mentor
 4 Repeal
-4 Monastery Mentor
 4 Flooded Strand
+4 Monastery Mentor
 4 Emry, Lurker of the Loch
 4 Teferi, Time Raveler
 4 Erayo, Soratami Ascendant
+4 Mox Amber
 1 Battlefield Forge
 1 Suppression Field
 1 Mana Tithe
@@ -177,6 +177,7 @@
 1 Hinterland Harbor
 1 Flooded Grove
 1 Zagoth Triome
+1 Ketria Triome
 1 Uro, Titan of Nature's Wrath
 1 Simic Growth Chamber
 1 Dryad of the Ilysian Grove
@@ -185,7 +186,6 @@
 1 Breeding Pool
 1 Hour of Promise
 1 Oboro, Palace in the Clouds
-1 Ketria Triome
 1 Radiant Fountain
 1 Blast Zone
 1 Valakut, the Molten Pinnacle

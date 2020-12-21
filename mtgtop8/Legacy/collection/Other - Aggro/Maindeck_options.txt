@@ -36,11 +36,11 @@
 1 Spell Pierce
 1 Scalding Tarn
 1 Unearth
-1 Thieves' Guild Enforcer
 1 Jace, the Mind Sculptor
-1 Nighthawk Scavenger
-1 Fatal Push
+1 Thieves' Guild Enforcer
 1 Rankle, Master of Pranks
+1 Fatal Push
+1 Nighthawk Scavenger
 1 Baleful Strix
 1 Soaring Thought-Thief
 1 Underground Sea
@@ -181,8 +181,8 @@
 1 Archon of Valor's Reach
 1 Garruk, Unleashed
 1 Tarmogoyf
-1 Llanowar Visionary
 1 Progenitus
+1 Llanowar Visionary
 1 Elder Gargaroth
 1 Garruk Relentless
 1 Shifting Ceratops
@@ -202,11 +202,11 @@
 1 Sunbaked Canyon
 1 Embercleave
 1 Goblin Rabblemaster
-1 Winota, Joiner of Forces
 1 Legion Warboss
 1 Talisman of Conviction
 1 Battlefield Forge
 1 Godo, Bandit Warlord
+1 Winota, Joiner of Forces
 1 Angrath's Marauders
 2 Legion Warboss
 2 Goblin Rabblemaster
@@ -222,8 +222,8 @@
 3 Trinisphere
 4 Legion Warboss
 4 Plateau
-4 Winota, Joiner of Forces
 4 Goblin Rabblemaster
+4 Winota, Joiner of Forces
 4 Angrath's Marauders
 1 Tireless Tracker
 1 Lightning Bolt
@@ -253,39 +253,53 @@
 4 Seasoned Pyromancer
 4 Prismatic Vista
 4 Pillage
-1 Punishing Fire
-1 Fiery Confluence
-1 Neheb, Dreadhorde Champion
-1 Sethron, Hurloon General
-1 Moraug, Fury of Akoum
-1 Deathbellow War Cry
-1 Neheb, the Eternal
-1 Didgeridoo
-1 Deadshot Minotaur
-2 Punishing Fire
-2 Didgeridoo
-2 Moraug, Fury of Akoum
-2 Neheb, Dreadhorde Champion
-2 Neheb, the Eternal
-2 Sethron, Hurloon General
-3 Grove of the Burnwillows
-3 Punishing Fire
-3 Neheb, Dreadhorde Champion
-3 Neheb, the Eternal
-3 Sethron, Hurloon General
-3 Didgeridoo
-3 Moraug, Fury of Akoum
-3 Mountain
-3 Blood Sun
-4 Grove of the Burnwillows
-4 Sethron, Hurloon General
-4 Neheb, Dreadhorde Champion
-4 Blood Sun
-4 Mountain
-4 Cavern of Souls
-4 Moraug, Fury of Akoum
-4 Didgeridoo
-5 Mountain
+1 Berserk
+1 Rancor
+1 Seal of Strength
+1 Nettle Sentinel
+1 Kavu Predator
+1 Invigorate
+1 Jungle Lion
+1 Dryad Militant
+1 Silhana Ledgewalker
+1 Skarrgan Pit-Skulk
+1 Might of Old Krosa
+2 Berserk
+2 Jungle Lion
+2 Silhana Ledgewalker
+2 Might of Old Krosa
+2 Dryad Militant
+2 Rancor
+2 Skarrgan Pit-Skulk
+2 Invigorate
+2 Seal of Strength
+2 Nettle Sentinel
+2 Kavu Predator
+3 Berserk
+3 Invigorate
+3 Rancor
+3 Seal of Strength
+3 Jungle Lion
+3 Kavu Predator
+3 Silhana Ledgewalker
+3 Might of Old Krosa
+3 Dryad Militant
+3 Skarrgan Pit-Skulk
+4 Might of Old Krosa
+4 Kavu Predator
+4 Rancor
+4 Invigorate
+4 Berserk
+4 Jungle Lion
+4 Dryad Militant
+4 Skarrgan Pit-Skulk
+4 Silhana Ledgewalker
+5 Forest
+6 Forest
+7 Forest
+8 Forest
+9 Forest
+10 Forest
 1 Island
 1 Ninja of the Deep Hours
 1 Force of Negation
@@ -334,50 +348,36 @@
 9 Island
 10 Island
 11 Island
-1 Berserk
-1 Rancor
-1 Seal of Strength
-1 Nettle Sentinel
-1 Kavu Predator
-1 Invigorate
-1 Jungle Lion
-1 Dryad Militant
-1 Silhana Ledgewalker
-1 Skarrgan Pit-Skulk
-1 Might of Old Krosa
-2 Berserk
-2 Jungle Lion
-2 Silhana Ledgewalker
-2 Might of Old Krosa
-2 Dryad Militant
-2 Rancor
-2 Skarrgan Pit-Skulk
-2 Invigorate
-2 Seal of Strength
-2 Nettle Sentinel
-2 Kavu Predator
-3 Berserk
-3 Invigorate
-3 Rancor
-3 Seal of Strength
-3 Jungle Lion
-3 Kavu Predator
-3 Silhana Ledgewalker
-3 Might of Old Krosa
-3 Dryad Militant
-3 Skarrgan Pit-Skulk
-4 Might of Old Krosa
-4 Kavu Predator
-4 Rancor
-4 Invigorate
-4 Berserk
-4 Jungle Lion
-4 Dryad Militant
-4 Skarrgan Pit-Skulk
-4 Silhana Ledgewalker
-5 Forest
-6 Forest
-7 Forest
-8 Forest
-9 Forest
-10 Forest
+1 Punishing Fire
+1 Fiery Confluence
+1 Neheb, Dreadhorde Champion
+1 Sethron, Hurloon General
+1 Moraug, Fury of Akoum
+1 Deathbellow War Cry
+1 Neheb, the Eternal
+1 Didgeridoo
+1 Deadshot Minotaur
+2 Punishing Fire
+2 Didgeridoo
+2 Moraug, Fury of Akoum
+2 Neheb, Dreadhorde Champion
+2 Neheb, the Eternal
+2 Sethron, Hurloon General
+3 Grove of the Burnwillows
+3 Punishing Fire
+3 Neheb, Dreadhorde Champion
+3 Neheb, the Eternal
+3 Sethron, Hurloon General
+3 Didgeridoo
+3 Moraug, Fury of Akoum
+3 Mountain
+3 Blood Sun
+4 Grove of the Burnwillows
+4 Sethron, Hurloon General
+4 Neheb, Dreadhorde Champion
+4 Blood Sun
+4 Mountain
+4 Cavern of Souls
+4 Moraug, Fury of Akoum
+4 Didgeridoo
+5 Mountain

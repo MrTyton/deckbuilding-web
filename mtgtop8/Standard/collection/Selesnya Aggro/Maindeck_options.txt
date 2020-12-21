@@ -1,22 +1,16 @@
-8 Forest
 3 Elspeth Conquers Death
-2 Turntimber Symbiosis
-2 Charming Prince
 1 Tangled Florahedron
 2 Tangled Florahedron
-4 Glass Casket
 1 Fabled Passage
-1 Omen of the Sun
-2 Omen of the Sun
 1 Yasharn, Implacable Earth
 2 Fabled Passage
-2 Scavenging Ooze
 6 Plains
 2 Yasharn, Implacable Earth
 1 Giant Killer
 1 Kazandu Mammoth
 2 Kazandu Mammoth
 3 Kazandu Mammoth
+2 Scavenging Ooze
 1 Shepherd of the Flock
 1 Edgewall Innkeeper
 1 Lovestruck Beast
@@ -30,20 +24,28 @@
 4 Edgewall Innkeeper
 3 Fabled Passage
 4 Fabled Passage
-3 Turntimber Symbiosis
-9 Forest
+8 Forest
+2 Turntimber Symbiosis
 4 Kazandu Mammoth
-2 Shepherd of the Flock
-3 Shepherd of the Flock
-4 Shepherd of the Flock
+2 Charming Prince
+1 Omen of the Sun
+2 Omen of the Sun
 4 Giant Killer
 1 Bronzehide Lion
 2 Bronzehide Lion
 3 Bronzehide Lion
-1 Faerie Guidemother
-2 Faerie Guidemother
+4 Glass Casket
+9 Forest
 1 Questing Beast
 3 The Great Henge
+2 Shepherd of the Flock
+3 Shepherd of the Flock
+4 Shepherd of the Flock
+4 Bronzehide Lion
+4 Elspeth Conquers Death
+3 Turntimber Symbiosis
+1 Faerie Guidemother
+2 Faerie Guidemother
 3 Charming Prince
 1 Lotus Cobra
 2 Lotus Cobra
@@ -51,20 +53,22 @@
 4 Lotus Cobra
 7 Plains
 3 Scavenging Ooze
-4 Elspeth Conquers Death
 1 Felidar Retreat
 1 Murasa Rootgrazer
 2 Felidar Retreat
 2 Murasa Rootgrazer
 3 Felidar Retreat
 3 Yasharn, Implacable Earth
-4 Bronzehide Lion
 1 Indatha Triome
 2 Indatha Triome
 1 Golden Egg
 2 Golden Egg
 3 Tangled Florahedron
 4 Tangled Florahedron
+1 Luminarch Aspirant
+2 Luminarch Aspirant
+3 Luminarch Aspirant
+4 Luminarch Aspirant
 1 Kogla, the Titan Ape
 4 Yasharn, Implacable Earth
 1 Scute Swarm
@@ -80,8 +84,6 @@
 4 Murasa Rootgrazer
 3 Faerie Guidemother
 1 The Birth of Meletis
-1 Banishing Light
-2 Banishing Light
 8 Plains
 1 Elspeth, Sun's Nemesis
 2 Elspeth, Sun's Nemesis
@@ -91,9 +93,9 @@
 1 Wolfwillow Haven
 2 Wolfwillow Haven
 1 Crawling Barrens
-1 Ondu Inversion
 1 Mazemind Tome
 1 Realm-Cloaked Giant
+1 Ondu Inversion
 1 Flicker of Fate
 2 Mazemind Tome
 2 Realm-Cloaked Giant
@@ -107,11 +109,13 @@
 1 Rambunctious Mutt
 1 Kenrith's Transformation
 1 Setessan Champion
+1 Banishing Light
 1 Archon of Sun's Grace
 2 The Birth of Meletis
+2 Banishing Light
 2 Alseid of Life's Bounty
-2 Setessan Champion
 2 Rambunctious Mutt
+2 Setessan Champion
 2 Calix, Destiny's Hand
 2 Archon of Sun's Grace
 2 Kenrith's Transformation
@@ -136,10 +140,6 @@
 3 Omen of the Sun
 3 Vivien, Monsters' Advocate
 4 Scavenging Ooze
-1 Luminarch Aspirant
-2 Luminarch Aspirant
-3 Luminarch Aspirant
-4 Luminarch Aspirant
 1 Gemrazer
 2 Gemrazer
 3 Gemrazer
@@ -172,6 +172,6 @@
 3 Solemn Simulacrum
 4 Needleverge Pathway
 4 Beanstalk Giant
-4 Cragcrown Pathway
 4 Wolfwillow Haven
+4 Cragcrown Pathway
 4 Baneslayer Angel

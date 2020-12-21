@@ -24,3 +24,13 @@
 |4 [Hanweir Garrison](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414428)|                                                                                             |
 |4 [Sulfur Elemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122416)|                                                                                             |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|-----------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Fireflux Squad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=484898)|                    1|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)|
+|                    2|[Fireflux Squad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=484898)|                    2|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)|
+|                    3|[Fireflux Squad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=484898)|                     |                                                                                            |
+|                    8|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)      |                     |                                                                                            |
+

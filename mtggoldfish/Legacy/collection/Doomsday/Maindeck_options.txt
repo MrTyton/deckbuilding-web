@@ -1,30 +1,27 @@
-1 Badlands
-2 Scalding Tarn
-3 Misty Rainforest
-3 Scalding Tarn
+2 Thoughtseize
 1 Swamp
 1 Island
+2 Snow-Covered Island
+1 Misty Rainforest
+1 Bayou
+2 Misty Rainforest
+3 Misty Rainforest
 4 Misty Rainforest
-4 Scalding Tarn
-1 Bloodstained Mire
 2 Personal Tutor
 1 Lim-Dul's Vault
 1 Baleful Strix
-1 Night's Whisper
-2 Baleful Strix
-1 Flooded Strand
 1 Dreadhorde Arcanist
-1 Arclight Phoenix
-1 Delver of Secrets
 1 Lightning Bolt
-1 Buried Alive
 2 Volcanic Island
 2 Lightning Bolt
 2 Dreadhorde Arcanist
+3 Dreadhorde Arcanist
+1 Arclight Phoenix
+1 Delver of Secrets
+1 Buried Alive
 2 Arclight Phoenix
 2 Delver of Secrets
 2 Buried Alive
-3 Dreadhorde Arcanist
 3 Thoughtseize
 3 Lightning Bolt
 3 Buried Alive
@@ -33,7 +30,10 @@
 4 Delver of Secrets
 4 Buried Alive
 4 Arclight Phoenix
+1 Night's Whisper
+2 Baleful Strix
 3 Baleful Strix
+1 Flooded Strand
 1 Opposition Agent
 2 Opposition Agent
 3 Opposition Agent
@@ -41,13 +41,13 @@
 4 Baleful Strix
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
-2 Flooded Strand
-1 Abrupt Decay
 1 Veil of Summer
 2 Veil of Summer
-1 Verdant Catacombs
+2 Flooded Strand
+1 Abrupt Decay
 2 Bloodstained Mire
 2 Island
+1 Pyroblast
 1 Predict
 4 Duress
 2 Night's Whisper
@@ -74,9 +74,8 @@
 3 Thought Erasure
 4 Flooded Strand
 4 Portent
-1 Repeal
 1 Flusterstorm
-1 Pyroblast
+1 Verdant Catacombs
 1 Marsh Flats
 1 Tundra
 1 Teferi, Time Raveler
@@ -97,3 +96,5 @@
 4 Veil of Summer
 2 Thassa's Oracle
 4 Underground Sea
+2 Lim-Dul's Vault
+4 Lotus Petal

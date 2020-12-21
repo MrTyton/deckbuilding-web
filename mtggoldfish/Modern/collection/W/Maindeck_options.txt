@@ -5,7 +5,6 @@
 1 Silent Clearing
 1 Hangarback Walker
 2 Ranger of Eos
-1 Horizon Canopy
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
@@ -18,9 +17,10 @@
 10 Snow-Covered Plains
 11 Snow-Covered Plains
 12 Snow-Covered Plains
-2 Horizon Canopy
+1 Horizon Canopy
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
+2 Horizon Canopy
 1 Archon of Emeria
 2 Archon of Emeria
 10 Plains
@@ -30,32 +30,7 @@
 3 Silent Clearing
 12 Plains
 1 Giant Killer
-3 Horizon Canopy
 13 Snow-Covered Plains
-1 Noble Hierarch
-1 Collected Company
-1 Temple Garden
-1 Windswept Heath
-1 Forest
-1 Avacyn's Pilgrim
-1 Prismatic Vista
-1 Conclave Mentor
-2 Noble Hierarch
-2 Collected Company
-2 Windswept Heath
-2 Prismatic Vista
-2 Conclave Mentor
-2 Temple Garden
-3 Windswept Heath
-3 Noble Hierarch
-3 Collected Company
-3 Conclave Mentor
-3 Temple Garden
-4 Windswept Heath
-4 Horizon Canopy
-4 Noble Hierarch
-4 Collected Company
-4 Temple Garden
 1 Maul of the Skyclaves
 1 Stoneforge Mystic
 1 Batterskull
@@ -67,6 +42,7 @@
 14 Snow-Covered Plains
 15 Snow-Covered Plains
 1 Mana Tithe
+3 Horizon Canopy
 1 Sword of Fire and Ice
 1 Elspeth, Knight-Errant
 1 Kytheon, Hero of Akros

@@ -3,9 +3,9 @@
 2 Rootbound Crag
 6 Mountain
 1 Game Trail
-2 Game Trail
 1 Klothys, God of Destiny
 1 Scavenging Ooze
+2 Game Trail
 1 Robber of the Rich
 2 Robber of the Rich
 2 Scavenging Ooze
@@ -42,8 +42,8 @@
 2 Kari Zev, Skyship Raider
 1 Riverglide Pathway
 1 Botanical Sanctum
-1 Steel Leaf Champion
 1 Stubborn Denial
+1 Steel Leaf Champion
 1 Savage Knuckleblade
 1 Breeding Pool
 1 Crater's Claws
@@ -56,117 +56,15 @@
 3 Steel Leaf Champion
 3 Stubborn Denial
 3 Botanical Sanctum
-1 Blooming Marsh
-1 Woodland Cemetery
-1 Zulaport Cutthroat
-1 Priest of Forgotten Gods
-1 Woe Strider
-1 Overgrown Tomb
-1 Llanowar Visionary
-1 Llanowar Wastes
-1 Urborg, Tomb of Yawgmoth
-1 Swamp
-1 Bolas's Citadel
-1 Blisterpod
-1 Catacomb Sifter
-1 Castle Locthwain
-2 Blooming Marsh
-2 Woodland Cemetery
-2 Woe Strider
-2 Priest of Forgotten Gods
-2 Llanowar Visionary
-2 Swamp
-2 Overgrown Tomb
-2 Bolas's Citadel
-2 Zulaport Cutthroat
-2 Blisterpod
-2 Catacomb Sifter
-2 Llanowar Wastes
-3 Blooming Marsh
-3 Overgrown Tomb
-3 Woe Strider
-3 Llanowar Visionary
-3 Bolas's Citadel
-3 Priest of Forgotten Gods
-3 Catacomb Sifter
-3 Llanowar Wastes
-3 Swamp
-3 Zulaport Cutthroat
-4 Blooming Marsh
-4 Overgrown Tomb
-4 Woe Strider
-4 Llanowar Visionary
-4 Priest of Forgotten Gods
-4 Catacomb Sifter
-4 Zulaport Cutthroat
-4 Llanowar Wastes
-4 Bolas's Citadel
-1 Plains
-1 Omen of the Sun
-1 Branchloft Pathway
-1 Gideon, Ally of Zendikar
-1 Voice of Resurgence
-1 Westvale Abbey
-1 Nissa, Voice of Zendikar
-1 Elspeth, Sun's Champion
-1 Saproling Migration
-1 Brimaz, King of Oreskos
-1 Castle Ardenvale
-1 Appeal/Authority
-1 Huatli, Radiant Champion
-1 Conclave Tribunal
-1 Legion's Landing
-1 Trostani Discordant
-1 Temple Garden
-1 Sunpetal Grove
-1 Raise the Alarm
-1 Oath of Gideon
-1 Anointed Procession
-2 Castle Ardenvale
-2 Plains
-2 Omen of the Sun
-2 Branchloft Pathway
-2 Gideon, Ally of Zendikar
-2 Voice of Resurgence
-2 Legion's Landing
-2 Nissa, Voice of Zendikar
-2 Trostani Discordant
-2 Temple Garden
-2 Anointed Procession
-2 Sunpetal Grove
-2 Raise the Alarm
-2 Saproling Migration
-2 Conclave Tribunal
-2 Brimaz, King of Oreskos
-3 Omen of the Sun
-3 Branchloft Pathway
-3 Temple Garden
-3 Legion's Landing
-3 Sunpetal Grove
-3 Nissa, Voice of Zendikar
-3 Voice of Resurgence
-3 Raise the Alarm
-3 Conclave Tribunal
-3 Anointed Procession
-3 Saproling Migration
-3 Plains
-4 Voice of Resurgence
-4 Plains
-4 Temple Garden
-4 Branchloft Pathway
-4 Saproling Migration
-4 Raise the Alarm
-4 Nissa, Voice of Zendikar
-4 Sunpetal Grove
 1 Ghor-Clan Rampager
 1 Cinder Glade
-1 Yorvo, Lord of Garenbrig
 1 Wildborn Preserver
+1 Yorvo, Lord of Garenbrig
 1 Legion Loyalist
 1 Gruul Spellbreaker
 2 Cinder Glade
-2 Gruul Spellbreaker
 2 Klothys, God of Destiny
+2 Gruul Spellbreaker
 3 Scavenging Ooze
 3 Game Trail
 3 Gruul Spellbreaker
@@ -177,11 +75,11 @@
 1 Marauding Raptor
 1 Regisaur Alpha
 1 Commune with Dinosaurs
+2 Ghalta, Primal Hunger
 2 Rhonas the Indomitable
 2 Regisaur Alpha
 2 Marauding Raptor
 2 Commune with Dinosaurs
-2 Ghalta, Primal Hunger
 2 Reckless Rage
 2 Ripjaw Raptor
 3 Regisaur Alpha
@@ -194,4 +92,49 @@
 4 Commune with Dinosaurs
 4 Ripjaw Raptor
 4 Marauding Raptor
+1 Zulaport Cutthroat
+1 Priest of Forgotten Gods
+1 Woe Strider
+1 Overgrown Tomb
+1 Llanowar Visionary
+1 Llanowar Wastes
+1 Urborg, Tomb of Yawgmoth
+1 Swamp
+1 Blooming Marsh
+1 Bolas's Citadel
+1 Blisterpod
+1 Catacomb Sifter
+1 Woodland Cemetery
+1 Castle Locthwain
+2 Woodland Cemetery
+2 Woe Strider
+2 Priest of Forgotten Gods
+2 Llanowar Visionary
+2 Blooming Marsh
+2 Overgrown Tomb
+2 Bolas's Citadel
+2 Swamp
+2 Zulaport Cutthroat
+2 Blisterpod
+2 Catacomb Sifter
+2 Llanowar Wastes
+3 Woe Strider
+3 Overgrown Tomb
+3 Llanowar Visionary
+3 Bolas's Citadel
+3 Priest of Forgotten Gods
+3 Catacomb Sifter
+3 Llanowar Wastes
+3 Blooming Marsh
+3 Swamp
+3 Zulaport Cutthroat
+4 Overgrown Tomb
+4 Woe Strider
+4 Llanowar Visionary
+4 Llanowar Wastes
+4 Priest of Forgotten Gods
+4 Catacomb Sifter
+4 Zulaport Cutthroat
+4 Bolas's Citadel
+4 Blooming Marsh
 7 Forest

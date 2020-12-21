@@ -1,103 +1,141 @@
-1 Hagra Mauling
-3 Castle Locthwain
-4 Castle Locthwain
-4 Lurrus of the Dream-Den
-1 Malakir Rebirth
-3 Serrated Scorpion
-4 Serrated Scorpion
+1 Durable Coilbug
+2 Durable Coilbug
+3 Scavenging Harpy
+4 Scavenging Harpy
 19 Swamp
-3 Call of the Death-Dweller
-4 Call of the Death-Dweller
-4 Archfiend's Vessel
-1 Mind Drain
-1 Feed the Swarm
-1 Bloodchief's Thirst
-1 Zof Consumption
-1 Soul Shatter
-1 Pharika's Libation
-1 Stonecoil Serpent
-1 Forever Young
-1 Boot Nipper
-1 Inscription of Ruin
-1 Infernal Scarring
-1 Erebos's Intervention
-1 Sanctum of Stone Fangs
-1 Blood Beckoning
-2 Bloodchief's Thirst
-2 Pharika's Libation
-2 Zof Consumption
-2 Blood Beckoning
-2 Infernal Scarring
-3 Bloodchief's Thirst
-20 Swamp
-21 Swamp
-22 Swamp
-23 Swamp
-24 Swamp
-1 Ayara, First of Locthwain
-1 Fiend Artisan
-2 Fiend Artisan
-2 Ayara, First of Locthwain
-4 Agadeem's Awakening
-1 Murderous Rider
-1 Nighthawk Scavenger
-1 Liliana, Waker of the Dead
-1 Tymaret, Chosen from Death
-1 Erebos, Bleak-Hearted
-1 Nullpriest of Oblivion
-2 Tymaret, Chosen from Death
-2 Erebos, Bleak-Hearted
-2 Nighthawk Scavenger
-2 Murderous Rider
-2 Liliana, Waker of the Dead
-2 Nullpriest of Oblivion
-3 Nighthawk Scavenger
-4 Nighthawk Scavenger
-1 Order of Midnight
-1 Acquisitions Expert
-2 Order of Midnight
-2 Malakir Rebirth
-2 Acquisitions Expert
-3 Order of Midnight
-3 Mogis's Favor
-3 Acquisitions Expert
-4 Mogis's Favor
-4 Order of Midnight
-4 Acquisitions Expert
-1 Crawling Barrens
-1 Duress
-1 Skyclave Shade
-2 Crawling Barrens
-2 Duress
-2 Skyclave Shade
-2 Demonic Embrace
-3 Duress
-3 Aphemia, the Cacophony
-3 Skyclave Shade
-4 Skyclave Shade
-4 Tymaret Calls the Dead
-4 Aphemia, the Cacophony
-1 Evolving Wilds
-1 Speaker of the Heavens
-1 Plains
-1 Sentinel's Eyes
-1 Luminarch Aspirant
-1 Cleric of Life's Bond
-2 Mind Drain
-2 Evolving Wilds
-2 Plains
-2 Feed the Swarm
-2 Sentinel's Eyes
-2 Cleric of Life's Bond
-3 Evolving Wilds
-3 Plains
-3 Sentinel's Eyes
-3 Cleric of Life's Bond
-4 Plains
-4 Evolving Wilds
-4 Sentinel's Eyes
-5 Plains
-6 Plains
-7 Plains
-8 Plains
-4 Village Rites
+1 Forest
+2 Forest
+3 Forest
+4 Forest
+5 Forest
+6 Forest
+7 Forest
+8 Forest
+1 Fierce Witchstalker
+2 Fierce Witchstalker
+3 Fierce Witchstalker
+1 Fruit of Tizerus
+1 Dead Weight
+1 Tempting Witch
+1 Cavern Whisperer
+1 Golden Egg
+1 Loathsome Chimera
+1 Whisper Squad
+1 Village Rites
+1 Jungle Hollow
+1 Curious Pair
+1 Blood Curdle
+2 Dead Weight
+2 Blood Curdle
+2 Jungle Hollow
+2 Golden Egg
+2 Village Rites
+2 Tempting Witch
+2 Loathsome Chimera
+2 Fruit of Tizerus
+2 Curious Pair
+2 Cavern Whisperer
+2 Whisper Squad
+3 Dead Weight
+3 Whisper Squad
+3 Jungle Hollow
+3 Curious Pair
+3 Reaper of Night
+3 Golden Egg
+4 Golden Egg
+4 Whisper Squad
+4 Jungle Hollow
+4 Reaper of Night
+4 Fierce Witchstalker
+1 Llanowar Visionary
+1 Ram Through
+2 Llanowar Visionary
+2 Ram Through
+3 Llanowar Visionary
+3 Ram Through
+4 Llanowar Visionary
+9 Forest
+10 Forest
+11 Forest
+12 Forest
+13 Forest
+14 Forest
+1 Tangled Florahedron
+1 Thrashing Brontodon
+1 Bala Ged Recovery
+1 Voracious Typhon
+1 Syr Faren, the Hengehammer
+1 Garruk's Uprising
+1 Wildwood Scourge
+1 Invigorating Surge
+1 Hydra's Growth
+1 Canopy Baloth
+1 Chainweb Aracnir
+1 Wildwood Tracker
+1 Khalni Ambush
+1 Gnarlid Colony
+1 Nessian Hornbeetle
+1 Ranger's Guile
+1 Vastwood Fortification
+2 Bala Ged Recovery
+2 Thrashing Brontodon
+2 Invigorating Surge
+2 Ranger's Guile
+2 Nessian Hornbeetle
+2 Garruk's Uprising
+2 Gnarlid Colony
+2 Khalni Ambush
+2 Voracious Typhon
+2 Syr Faren, the Hengehammer
+2 Chainweb Aracnir
+2 Wildwood Tracker
+2 Wildwood Scourge
+2 Vastwood Fortification
+2 Canopy Baloth
+3 Wildwood Tracker
+3 Khalni Ambush
+3 Gnarlid Colony
+3 Nessian Hornbeetle
+4 Khalni Ambush
+4 Nessian Hornbeetle
+4 Wildwood Tracker
+1 Skeleton Archer
+2 Skeleton Archer
+3 Skeleton Archer
+4 Skeleton Archer
+1 Rabid Bite
+1 Garenbrig Paladin
+1 Tajuru Blightblade
+1 Titanic Growth
+1 Almighty Brushwagg
+1 Moss Viper
+1 Scale the Heights
+1 Migratory Greathorn
+1 Radiant Fountain
+1 Crashing Drawbridge
+1 Greater Sandwurm
+2 Migratory Greathorn
+2 Moss Viper
+2 Garenbrig Paladin
+2 Almighty Brushwagg
+2 Titanic Growth
+2 Scale the Heights
+2 Tajuru Blightblade
+2 Rabid Bite
+2 Radiant Fountain
+2 Crashing Drawbridge
+2 Greater Sandwurm
+3 Radiant Fountain
+3 Migratory Greathorn
+3 Rabid Bite
+3 Tajuru Blightblade
+3 Titanic Growth
+4 Tajuru Blightblade
+4 Titanic Growth
+4 Rabid Bite
+4 Ram Through
+4 Radiant Fountain
+15 Forest
+16 Forest
+17 Forest
+18 Forest
