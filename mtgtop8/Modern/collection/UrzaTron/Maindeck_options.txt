@@ -10,18 +10,18 @@
 2 Relic of Progenitus
 1 Nurturing Peatland
 1 Dismember
-1 Mindslaver
 1 Island
 1 Thirst for Knowledge
 1 Remand
 1 Field of Ruin
+1 Mindslaver
 1 Repeal
 1 Condescend
 1 Academy Ruins
+2 Repeal
 2 Remand
 2 Island
 2 Thirst for Knowledge
-2 Repeal
 3 Remand
 1 Nimble Obstructionist
 1 Cyclonic Rift
@@ -40,8 +40,8 @@
 1 Kozilek, Butcher of Truth
 4 Wurmcoil Engine
 2 Spatial Contortion
-1 Oboro, Palace in the Clouds
 1 Treasure Mage
+1 Oboro, Palace in the Clouds
 4 Condescend
 4 Thirst for Knowledge
 1 Shark Typhoon
@@ -63,10 +63,6 @@
 1 Golos, Tireless Pilgrim
 2 Golos, Tireless Pilgrim
 3 Golos, Tireless Pilgrim
-1 Talisman of Progress
-1 Clearwater Pathway
-2 Dismember
-4 Repeal
 1 Thought-Knot Seer
 1 Mana Leak
 1 Omen of the Sea
@@ -86,6 +82,10 @@
 4 Snow-Covered Island
 3 Thragtusk
 4 Thragtusk
+1 Talisman of Progress
+1 Clearwater Pathway
+2 Dismember
+4 Repeal
 1 Mystic Forge
 1 Buried Ruin
 1 Sea Gate Wreckage
@@ -103,8 +103,8 @@
 2 Astral Cornucopia
 2 Blast Zone
 2 Coretapper
-3 Mazemind Tome
 3 Ugin, the Ineffable
+3 Mazemind Tome
 3 Mystic Forge
 3 Surge Node
 3 Astral Cornucopia

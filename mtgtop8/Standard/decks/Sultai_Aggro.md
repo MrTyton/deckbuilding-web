@@ -30,11 +30,11 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|----------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    1|[Llanowar Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485516) |                     |              |
 |                    1|[Essence Symbiote](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479669)   |                     |              |
 |                    1|[Migratory Greathorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479685)|                     |              |
 |                    1|[Sea-Dasher Octopus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479586) |                     |              |
 |                    1|[Eliminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485420)          |                     |              |
-|                    1|[Llanowar Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485516) |                     |              |
 |                    1|[Jungle Hollow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405273)      |                     |              |
 |                    1|[Blood Curdle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479595)       |                     |              |
 |                    1|[Gemrazer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479675)           |                     |              |
@@ -46,9 +46,9 @@
 |                    1|[Auspicious Starrix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479664) |                     |              |
 |                    1|[Dismal Backwater](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420908)   |                     |              |
 |                    1|[Pouncing Shoreshark](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479584)|                     |              |
+|                    2|[Llanowar Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485516) |                     |              |
 |                    2|[Essence Symbiote](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479669)   |                     |              |
 |                    2|[Migratory Greathorn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479685)|                     |              |
-|                    2|[Llanowar Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485516) |                     |              |
 |                    2|[Jungle Hollow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405273)      |                     |              |
 |                    2|[Blood Curdle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479595)       |                     |              |
 |                    2|[Reave Soul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473065)         |                     |              |
