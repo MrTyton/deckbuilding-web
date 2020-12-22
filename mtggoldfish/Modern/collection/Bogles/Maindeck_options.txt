@@ -15,8 +15,8 @@
 1 Keen Sense
 1 Silhana Ledgewalker
 2 Silhana Ledgewalker
-1 Hallowed Fountain
 1 Stubborn Denial
+1 Hallowed Fountain
 2 Keen Sense
 2 Sentinel's Eyes
 2 Wooded Foothills
@@ -29,11 +29,11 @@
 1 Curious Obsession
 1 Invisible Stalker
 1 Seachrome Coast
-2 Stubborn Denial
 2 Flooded Strand
 2 Curious Obsession
 2 Invisible Stalker
 2 Seachrome Coast
+2 Stubborn Denial
 3 Flooded Strand
 3 Invisible Stalker
 3 Curious Obsession
@@ -46,8 +46,8 @@
 2 Dromoka's Command
 2 Sixth Sense
 1 Irrigated Farmland
-2 Irrigated Farmland
 2 Misty Rainforest
+2 Irrigated Farmland
 1 Suppression Field
 2 Suppression Field
 3 Suppression Field
@@ -76,8 +76,8 @@
 1 Stoneforge Mystic
 1 City of Brass
 2 Sunbaked Canyon
-2 Shadowspear
 2 Mana Confluence
+2 Shadowspear
 2 Kor Outfitter
 2 Steelshaper's Gift
 2 Inkmoth Nexus
@@ -89,7 +89,6 @@
 2 Magnetic Theft
 2 Kor Duelist
 3 Mana Confluence
-3 Sunbaked Canyon
 3 Magnetic Theft
 3 Kor Duelist
 3 Sigarda's Aid
@@ -97,6 +96,7 @@
 3 Stoneforge Mystic
 3 Colossus Hammer
 3 City of Brass
+3 Sunbaked Canyon
 3 Kor Outfitter
 3 Steelshaper's Gift
 3 Inkmoth Nexus
@@ -111,11 +111,11 @@
 4 Magnetic Theft
 4 Colossus Hammer
 4 Stoneforge Mystic
+1 Force of Negation
 1 Island
 1 Waterlogged Grove
-1 Force of Negation
 1 Arcane Flight
-2 Arcane Flight
 2 Force of Negation
+2 Arcane Flight
 3 Arcane Flight
 4 Arcane Flight
