@@ -1,25 +1,45 @@
-1 Chandra, Torch of Defiance
+4 Atarka's Command
 5 Mountain
 2 Rootbound Crag
 6 Mountain
-1 Game Trail
 1 Klothys, God of Destiny
 1 Scavenging Ooze
-2 Game Trail
+1 Game Trail
 1 Robber of the Rich
 2 Robber of the Rich
+2 Game Trail
 2 Scavenging Ooze
 3 Robber of the Rich
-3 Reckless Bushwhacker
-2 Chandra, Torch of Defiance
-1 Mana Confluence
 1 Lovestruck Beast
+1 Mana Confluence
 2 Lovestruck Beast
 3 Lovestruck Beast
 4 Lovestruck Beast
+3 Reckless Bushwhacker
+1 Rhonas the Indomitable
+1 Collected Company
+2 Collected Company
+3 Collected Company
+4 Collected Company
+2 Chandra, Torch of Defiance
 1 Domri, Anarch of Bolas
 2 Domri, Anarch of Bolas
-1 Rhonas the Indomitable
+1 Riverglide Pathway
+1 Steel Leaf Champion
+1 Botanical Sanctum
+1 Stubborn Denial
+1 Savage Knuckleblade
+1 Breeding Pool
+1 Crater's Claws
+2 Steel Leaf Champion
+2 Botanical Sanctum
+2 Stubborn Denial
+2 Savage Knuckleblade
+2 Breeding Pool
+3 Breeding Pool
+3 Steel Leaf Champion
+3 Stubborn Denial
+3 Botanical Sanctum
 1 Kazandu Mammoth
 1 Shared Summons
 1 Enter the Infinite
@@ -34,33 +54,13 @@
 3 Possibility Storm
 4 Rootbound Crag
 4 Possibility Storm
-1 Collected Company
-2 Collected Company
-3 Collected Company
-4 Collected Company
 1 Kari Zev, Skyship Raider
 2 Kari Zev, Skyship Raider
-1 Riverglide Pathway
-1 Botanical Sanctum
-1 Stubborn Denial
-1 Steel Leaf Champion
-1 Savage Knuckleblade
-1 Breeding Pool
-1 Crater's Claws
-2 Botanical Sanctum
-2 Steel Leaf Champion
-2 Stubborn Denial
-2 Savage Knuckleblade
-2 Breeding Pool
-3 Breeding Pool
-3 Steel Leaf Champion
-3 Stubborn Denial
-3 Botanical Sanctum
 1 Ghor-Clan Rampager
 1 Cinder Glade
-1 Wildborn Preserver
 1 Yorvo, Lord of Garenbrig
 1 Legion Loyalist
+1 Wildborn Preserver
 1 Gruul Spellbreaker
 2 Cinder Glade
 2 Klothys, God of Destiny
@@ -75,11 +75,11 @@
 1 Marauding Raptor
 1 Regisaur Alpha
 1 Commune with Dinosaurs
-2 Ghalta, Primal Hunger
 2 Rhonas the Indomitable
 2 Regisaur Alpha
 2 Marauding Raptor
 2 Commune with Dinosaurs
+2 Ghalta, Primal Hunger
 2 Reckless Rage
 2 Ripjaw Raptor
 3 Regisaur Alpha
@@ -93,11 +93,11 @@
 4 Ripjaw Raptor
 4 Marauding Raptor
 1 Zulaport Cutthroat
+1 Llanowar Wastes
 1 Priest of Forgotten Gods
 1 Woe Strider
 1 Overgrown Tomb
 1 Llanowar Visionary
-1 Llanowar Wastes
 1 Urborg, Tomb of Yawgmoth
 1 Swamp
 1 Blooming Marsh
@@ -107,7 +107,7 @@
 1 Woodland Cemetery
 1 Castle Locthwain
 2 Woodland Cemetery
-2 Woe Strider
+2 Llanowar Wastes
 2 Priest of Forgotten Gods
 2 Llanowar Visionary
 2 Blooming Marsh
@@ -117,21 +117,21 @@
 2 Zulaport Cutthroat
 2 Blisterpod
 2 Catacomb Sifter
-2 Llanowar Wastes
+2 Woe Strider
 3 Woe Strider
 3 Overgrown Tomb
+3 Llanowar Wastes
 3 Llanowar Visionary
 3 Bolas's Citadel
 3 Priest of Forgotten Gods
 3 Catacomb Sifter
-3 Llanowar Wastes
 3 Blooming Marsh
 3 Swamp
 3 Zulaport Cutthroat
 4 Overgrown Tomb
 4 Woe Strider
-4 Llanowar Visionary
 4 Llanowar Wastes
+4 Llanowar Visionary
 4 Priest of Forgotten Gods
 4 Catacomb Sifter
 4 Zulaport Cutthroat

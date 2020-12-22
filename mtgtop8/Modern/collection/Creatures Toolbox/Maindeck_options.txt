@@ -1,68 +1,63 @@
+1 Misty Rainforest
 2 Scavenging Ooze
-4 Horizon Canopy
-4 Conclave Mentor
 1 Spellskite
+4 Conclave Mentor
 3 Eladamri's Call
-1 Snow-Covered Plains
-1 Snow-Covered Forest
-2 Snow-Covered Forest
-2 Giver of Runes
-2 Snow-Covered Plains
 3 Auriok Champion
+1 Snow-Covered Plains
 2 Prismatic Vista
 5 Forest
 1 Birds of Paradise
-1 Gavony Township
-3 Snow-Covered Forest
+1 Snow-Covered Forest
+2 Snow-Covered Forest
+2 Giver of Runes
+2 Birds of Paradise
 1 Razorverge Thicket
 2 Razorverge Thicket
-2 Birds of Paradise
-2 Wooded Foothills
 2 Verdant Catacombs
 3 Verdant Catacombs
-4 Snow-Covered Forest
 1 Overgrown Tomb
-2 Noble Hierarch
-3 Noble Hierarch
 1 Chord of Calling
+3 Birds of Paradise
 2 Chord of Calling
 3 Chord of Calling
-3 Birds of Paradise
 4 Chord of Calling
 1 Eldritch Evolution
 2 Eldritch Evolution
-1 Gilded Goose
 1 Strangleroot Geist
-1 Wall of Roots
 1 Blooming Marsh
 1 Geralf's Messenger
-1 Swamp
 1 Twilight Mire
-1 Khalni Garden
 1 Young Wolf
 1 Yawgmoth, Thran Physician
 2 Strangleroot Geist
-2 Wall of Roots
 2 Blooming Marsh
 2 Geralf's Messenger
 2 Overgrown Tomb
-2 Twilight Mire
 2 Young Wolf
+2 Twilight Mire
 2 Yawgmoth, Thran Physician
 3 Strangleroot Geist
-3 Wall of Roots
 3 Blooming Marsh
 3 Young Wolf
-3 Yawgmoth, Thran Physician
 3 Eldritch Evolution
 3 Twilight Mire
 4 Strangleroot Geist
 4 Young Wolf
-4 Wall of Roots
 4 Eldritch Evolution
 4 Twilight Mire
-3 Giver of Runes
-4 Giver of Runes
+1 Gavony Township
+2 Noble Hierarch
+3 Noble Hierarch
+2 Wooded Foothills
+1 Gilded Goose
+1 Wall of Roots
+1 Swamp
+1 Khalni Garden
+2 Wall of Roots
+3 Wall of Roots
+3 Yawgmoth, Thran Physician
+4 Wall of Roots
 1 Godless Shrine
 4 Verdant Catacombs
 1 Devoted Druid
@@ -76,24 +71,31 @@
 3 Devoted Druid
 3 Vizier of Remedies
 4 Devoted Druid
-4 Birds of Paradise
-4 Noble Hierarch
-2 Misty Rainforest
 1 Kitchen Finks
+2 Snow-Covered Plains
+4 Birds of Paradise
+1 Urborg, Tomb of Yawgmoth
+1 Dryad Arbor
+3 Geralf's Messenger
+4 Noble Hierarch
+1 Phyrexian Revoker
+2 Misty Rainforest
+3 Snow-Covered Forest
 1 Marsh Flats
 1 Viscera Seer
 2 Kitchen Finks
 3 Kitchen Finks
-5 Snow-Covered Forest
 1 Zulaport Cutthroat
 1 Hapatra, Vizier of Poisons
-1 Urborg, Tomb of Yawgmoth
-1 Dryad Arbor
 2 Gilded Goose
-3 Geralf's Messenger
 4 Yawgmoth, Thran Physician
+3 Giver of Runes
+4 Giver of Runes
+4 Geralf's Messenger
+1 Nurturing Peatland
+1 Blood Artist
 3 Wooded Foothills
-1 Phyrexian Revoker
+4 Snow-Covered Forest
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
@@ -152,8 +154,8 @@
 1 Loaming Shaman
 1 Path to Exile
 1 Wall of Blossoms
-1 Batterskull
 1 Sword of Fire and Ice
+1 Batterskull
 1 Wrenn and Six
 1 Lightning Bolt
 1 Stoneforge Mystic
@@ -170,30 +172,32 @@
 3 Path to Exile
 3 Stoneforge Mystic
 3 Seasoned Pyromancer
-4 Wall of Blossoms
 4 Restoration Angel
+4 Wall of Blossoms
 4 Wooded Foothills
 4 Misty Rainforest
 4 Seasoned Pyromancer
 4 Path to Exile
 4 Stoneforge Mystic
-1 Nurturing Peatland
-1 Blood Artist
 1 Cavalier of Night
-1 Lurrus of the Dream-Den
+1 Elves of Deep Shadow
+1 Woodland Cemetery
+2 Khalni Garden
+4 Blooming Marsh
 1 Mishra's Bauble
+1 Lurrus of the Dream-Den
 1 Simian Spirit Guide
 1 Postmortem Lunge
 1 Turntimber Symbiosis
+2 Mishra's Bauble
 2 Lurrus of the Dream-Den
 2 Turntimber Symbiosis
 2 Simian Spirit Guide
 2 Postmortem Lunge
 2 Duskwatch Recruiter
-2 Mishra's Bauble
+3 Mishra's Bauble
 3 Turntimber Symbiosis
 3 Finale of Devastation
-3 Mishra's Bauble
 3 Razorverge Thicket
 3 Postmortem Lunge
 4 Mishra's Bauble
@@ -202,9 +206,23 @@
 4 Postmortem Lunge
 4 Vizier of Remedies
 4 Finale of Devastation
+5 Snow-Covered Forest
 6 Forest
-1 Elves of Deep Shadow
-1 Woodland Cemetery
-2 Khalni Garden
-4 Geralf's Messenger
-4 Blooming Marsh
+1 Snow-Covered Swamp
+1 Carrion Feeder
+1 Assassin's Trophy
+1 Unearth
+1 Fatal Push
+1 Fulminator Mage
+1 Retribution of the Ancients
+2 Nurturing Peatland
+2 Snow-Covered Swamp
+2 Carrion Feeder
+2 Assassin's Trophy
+2 Retribution of the Ancients
+2 Unearth
+3 Overgrown Tomb
+3 Carrion Feeder
+3 Retribution of the Ancients
+4 Carrion Feeder
+4 Retribution of the Ancients

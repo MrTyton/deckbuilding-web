@@ -1,24 +1,26 @@
-1 Akoum Hellhound
-2 Akoum Hellhound
 1 Shock
 2 Shock
+1 Akoum Hellhound
+2 Akoum Hellhound
 1 Spikefield Hazard
-3 Akoum Hellhound
-1 The Akroan War
 2 Spikefield Hazard
-1 Ox of Agonas
-2 The Akroan War
-1 Kargan Intimidator
-2 Kargan Intimidator
-4 Akoum Hellhound
-1 Scorching Dragonfire
-2 Scorching Dragonfire
-4 Phoenix of Ash
-1 Fire Prophecy
-2 Fire Prophecy
-3 Shock
 1 Claim the Firstborn
 4 Torbran, Thane of Red Fell
+3 Spikefield Hazard
+4 Spikefield Hazard
+2 Claim the Firstborn
+1 Ox of Agonas
+1 The Akroan War
+1 Kargan Intimidator
+2 Kargan Intimidator
+3 Akoum Hellhound
+1 Fire Prophecy
+2 Fire Prophecy
+4 Phoenix of Ash
+3 Shock
+2 The Akroan War
+1 Scorching Dragonfire
+2 Scorching Dragonfire
 4 Shock
 1 Slaying Fire
 2 Slaying Fire
@@ -26,14 +28,10 @@
 2 Relic Robber
 2 Ox of Agonas
 3 Kargan Intimidator
-2 Claim the Firstborn
-3 Spikefield Hazard
-4 Spikefield Hazard
+4 Akoum Hellhound
 1 Furor of the Bitten
 2 Furor of the Bitten
 3 Furor of the Bitten
-1 Weaselback Redcap
-2 Weaselback Redcap
 3 Relic Robber
 4 Relic Robber
 3 Slaying Fire
@@ -42,9 +40,9 @@
 2 Roil Eruption
 1 Shadowspear
 2 Shadowspear
-1 Heraldic Banner
-2 Heraldic Banner
 4 Furor of the Bitten
+1 Weaselback Redcap
+2 Weaselback Redcap
 19 Mountain
 20 Mountain
 1 Crawling Barrens
@@ -56,6 +54,8 @@
 3 Roil Eruption
 1 Thrill of Possibility
 2 Thrill of Possibility
+1 Heraldic Banner
+2 Heraldic Banner
 1 Kazuul's Fury
 2 Kazuul's Fury
 3 The Akroan War
@@ -67,18 +67,16 @@
 1 Shatterskull Charger
 1 Purphoros's Intervention
 1 Song-Mad Treachery
-2 Thundering Rebuke
 2 Shatterskull Charger
+2 Thundering Rebuke
 2 Song-Mad Treachery
 2 Purphoros's Intervention
-3 Scorching Dragonfire
 3 Purphoros's Intervention
+3 Scorching Dragonfire
 3 Shatterskull Charger
 4 Scorching Dragonfire
 3 Weaselback Redcap
 4 Weaselback Redcap
-3 Heraldic Banner
-4 Heraldic Banner
 1 Bolt Hound
 2 Crawling Barrens
 2 Bolt Hound
@@ -93,17 +91,17 @@
 3 Flame Spill
 4 Flame Spill
 4 Roil Eruption
-1 Brazen Borrower
-1 Ketria Triome
 1 Temple of Epiphany
+1 Brazen Borrower
 1 Riverglide Pathway
 1 Island
+1 Ketria Triome
 1 Sprite Dragon
 1 Whirlwind Denial
 1 Of One Mind
-2 Brazen Borrower
 2 Temple of Epiphany
 2 Of One Mind
+2 Brazen Borrower
 2 Riverglide Pathway
 2 Island
 2 Sprite Dragon
@@ -115,10 +113,10 @@
 3 Of One Mind
 3 Riverglide Pathway
 3 Island
-4 Temple of Epiphany
-4 Sprite Dragon
 4 Riverglide Pathway
 4 Island
+4 Temple of Epiphany
+4 Sprite Dragon
 5 Island
 1 Embereth Shieldbreaker
 1 Fiery Emancipation

@@ -60,7 +60,6 @@
 1 The Tabernacle at Pendrell Vale
 1 Lonely Sandbar
 1 Underground Sea
-1 Tranquil Thicket
 1 Field of the Dead
 1 Forest
 1 Snow-Covered Forest
@@ -68,6 +67,7 @@
 1 Life from the Loam
 1 Blast Zone
 1 Tropical Island
+1 Tranquil Thicket
 1 Misty Rainforest
 1 Verdant Catacombs
 1 Oko, Thief of Crowns
@@ -192,9 +192,9 @@
 3 Secluded Steppe
 3 Astral Drift
 4 Street Wraith
-4 Containment Priest
 4 Snow-Covered Plains
 4 Lonely Sandbar
+4 Containment Priest
 4 Gilded Drake
 4 Astral Drift
 4 Astral Slide

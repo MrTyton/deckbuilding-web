@@ -1,5 +1,41 @@
-1 Snow-Covered Plains
-1 Snow-Covered Forest
+1 Thought Scour
+1 Mishra's Bauble
+2 Thought Scour
+2 Mishra's Bauble
+3 Thought Scour
+3 Mishra's Bauble
+4 Mishra's Bauble
+1 Creeping Tar Pit
+1 Into the Story
+1 Soaring Thought-Thief
+1 Thieves' Guild Enforcer
+1 Agadeem's Awakening
+1 Darkslick Shores
+1 Drown in the Loch
+1 Spell Snare
+1 Marsh Flats
+2 Soaring Thought-Thief
+2 Thieves' Guild Enforcer
+2 Into the Story
+2 Darkslick Shores
+2 Drown in the Loch
+2 Spell Snare
+2 Swamp
+2 Creeping Tar Pit
+3 Drown in the Loch
+3 Soaring Thought-Thief
+3 Thieves' Guild Enforcer
+3 Into the Story
+3 Darkslick Shores
+3 Snapcaster Mage
+4 Thieves' Guild Enforcer
+4 Drown in the Loch
+4 Soaring Thought-Thief
+4 Into the Story
+4 Thought Scour
+4 Darkslick Shores
+1 Explore
+2 Snow-Covered Forest
 1 Cavern of Souls
 1 Primeval Titan
 1 Field of the Dead
@@ -9,10 +45,11 @@
 2 Primeval Titan
 3 Primeval Titan
 4 Primeval Titan
+1 Snow-Covered Plains
 1 Scattered Groves
 1 Search for Tomorrow
-1 Felidar Retreat
 1 Baneslayer Angel
+1 Felidar Retreat
 1 Temple Garden
 1 Arboreal Grazer
 1 Wurmcoil Engine
@@ -21,34 +58,32 @@
 1 Sakura-Tribe Elder
 1 Wooded Foothills
 1 Selesnya Sanctuary
-1 Explore
 1 Canopy Vista
 1 Plains
-2 Explore
 2 Sakura-Tribe Elder
 2 Search for Tomorrow
-2 Snow-Covered Forest
-2 Felidar Retreat
 2 Arboreal Grazer
+2 Felidar Retreat
+2 Solemn Simulacrum
+2 Explore
 2 Windswept Heath
 2 Wurmcoil Engine
-2 Solemn Simulacrum
 2 Forest
 2 Wooded Foothills
 2 Castle Garenbrig
 2 Temple Garden
+3 Castle Garenbrig
 3 Explore
 3 Sakura-Tribe Elder
 3 Search for Tomorrow
 3 Snow-Covered Forest
 3 Field of the Dead
+3 Felidar Retreat
 3 Arboreal Grazer
 3 Forest
 3 Solemn Simulacrum
 3 Wurmcoil Engine
-3 Felidar Retreat
 3 Windswept Heath
-3 Castle Garenbrig
 3 Temple Garden
 3 Wooded Foothills
 4 Explore
@@ -58,43 +93,30 @@
 4 Arboreal Grazer
 4 Castle Garenbrig
 4 Solemn Simulacrum
-1 Misty Rainforest
-1 Mana Leak
-1 Cryptic Command
-1 Mystic Sanctuary
-1 Scalding Tarn
-1 Remand
-2 Cryptic Command
-2 Mana Leak
-2 Misty Rainforest
-3 Cryptic Command
-2 Flooded Strand
-1 Snow-Covered Island
 1 Engineered Explosives
 1 Waterlogged Grove
-2 Snow-Covered Island
 1 Silent Clearing
 1 Snow-Covered Swamp
 1 Lurrus of the Dream-Den
 1 Soul-Guide Lantern
 1 Repeal
-1 Spellskite
 1 Unearth
+1 Spellskite
 1 Tasigur, the Golden Fang
 1 Erayo, Soratami Ascendant
 1 Mox Amber
-1 Monastery Mentor
 1 Godless Shrine
+1 Hallowed Fountain
 1 Teferi, Time Raveler
 1 Emry, Lurker of the Loch
 1 Minamo, School at Water's Edge
 1 Aether Spellbomb
-1 Hallowed Fountain
+1 Monastery Mentor
 2 Repeal
 2 Unearth
-2 Monastery Mentor
 2 Emry, Lurker of the Loch
 2 Teferi, Time Raveler
+2 Monastery Mentor
 2 Erayo, Soratami Ascendant
 2 Waterlogged Grove
 2 Mox Amber
@@ -117,118 +139,118 @@
 1 Battlefield Forge
 1 Suppression Field
 1 Mana Tithe
-1 Sunbaked Canyon
 1 Cascading Cataracts
+1 Sunbaked Canyon
 1 Valakut Awakening
+1 Boom / Bust
+1 Flagstones of Trokair
 1 Stone Rain
 1 Oust
 1 Molten Rain
-1 Ghostly Prison
 1 Magus of the Tabernacle
-1 Flagstones of Trokair
+1 Ghostly Prison
 1 Mountain
 1 Pillage
 1 Lightning Bolt
-1 Boom / Bust
 1 Inspiring Vantage
 1 Sacred Foundry
 1 Goblin Dark-Dwellers
 2 Battlefield Forge
 2 Pillage
+2 Cascading Cataracts
+2 Boom / Bust
+2 Flagstones of Trokair
+2 Oust
 2 Stone Rain
 2 Suppression Field
 2 Molten Rain
-2 Flagstones of Trokair
 2 Sacred Foundry
 2 Magus of the Tabernacle
-2 Oust
+2 Valakut Awakening
 2 Inspiring Vantage
-2 Sunbaked Canyon
 2 Goblin Dark-Dwellers
 2 Ghostly Prison
-2 Valakut Awakening
 2 Mana Tithe
 2 Mountain
-2 Boom / Bust
+2 Sunbaked Canyon
 2 Lightning Bolt
-2 Cascading Cataracts
 3 Suppression Field
+3 Flagstones of Trokair
+3 Cascading Cataracts
+3 Sacred Foundry
+3 Boom / Bust
 3 Pillage
 3 Molten Rain
-3 Boom / Bust
 3 Inspiring Vantage
 3 Oust
 3 Sunbaked Canyon
-3 Sacred Foundry
-3 Cascading Cataracts
 3 Ghostly Prison
-3 Flagstones of Trokair
 3 Stone Rain
 3 Mana Tithe
 4 Pillage
+4 Sacred Foundry
+4 Flagstones of Trokair
+4 Boom / Bust
 4 Molten Rain
 4 Stone Rain
 4 Mana Tithe
-4 Flagstones of Trokair
-4 Boom / Bust
-4 Sacred Foundry
 4 Sunbaked Canyon
 4 Inspiring Vantage
 1 Hinterland Harbor
 1 Flooded Grove
 1 Zagoth Triome
 1 Ketria Triome
-1 Uro, Titan of Nature's Wrath
 1 Simic Growth Chamber
 1 Dryad of the Ilysian Grove
-1 Growth Spiral
 1 Vesuva
-1 Breeding Pool
-1 Hour of Promise
 1 Oboro, Palace in the Clouds
 1 Radiant Fountain
 1 Blast Zone
 1 Valakut, the Molten Pinnacle
 1 Ghost Quarter
+1 Hour of Promise
 1 Chalice of the Void
 2 Hour of Promise
-2 Uro, Titan of Nature's Wrath
-2 Remand
-2 Growth Spiral
-2 Scalding Tarn
 2 Valakut, the Molten Pinnacle
 2 Chalice of the Void
 2 Dryad of the Ilysian Grove
-3 Misty Rainforest
-3 Growth Spiral
-3 Uro, Titan of Nature's Wrath
 3 Dryad of the Ilysian Grove
-4 Growth Spiral
-4 Misty Rainforest
 4 Dryad of the Ilysian Grove
 4 Uro, Titan of Nature's Wrath
+1 Fact or Fiction
+1 Ice-Fang Coatl
+1 Castle Vantress
+1 Wilderness Reclamation
+1 Nexus of Fate
+1 Shark Typhoon
+2 Ice-Fang Coatl
+2 Breeding Pool
+2 Wilderness Reclamation
+2 Nexus of Fate
+3 Breeding Pool
+3 Wilderness Reclamation
+3 Snow-Covered Island
+3 Field of Ruin
+3 Remand
+3 Nexus of Fate
+3 Mystic Sanctuary
+4 Mystic Sanctuary
+4 Cryptic Command
+4 Snow-Covered Island
+5 Snow-Covered Island
+6 Snow-Covered Island
 1 River of Tears
 1 Narset, Parter of Veils
 1 Thoughtseize
 1 Inquisition of Kozilek
-1 Archmage's Charm
 1 Geier Reach Sanitarium
-1 Jace, the Mind Sculptor
-1 Force of Negation
 1 Sunken Hollow
 2 Narset, Parter of Veils
 2 Thoughtseize
-2 Field of Ruin
-2 Mystic Sanctuary
-2 Jace, the Mind Sculptor
-2 Archmage's Charm
 2 Inquisition of Kozilek
-2 Force of Negation
+3 Force of Negation
 3 Narset, Parter of Veils
 3 Jace, the Mind Sculptor
-3 Force of Negation
-3 Archmage's Charm
 4 Narset, Parter of Veils
-4 Archmage's Charm
 4 Force of Negation
 5 Island

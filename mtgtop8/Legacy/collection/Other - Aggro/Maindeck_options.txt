@@ -1,11 +1,11 @@
-1 Sevinne's Reclamation
-1 Crop Rotation
-1 Maze of Ith
 1 Bojuka Bog
+1 Field of the Dead
 1 Blast Zone
+1 Dryad of the Ilysian Grove
 1 Gaddock Teeg
 1 Path to Exile
 1 Titania, Protector of Argoth
+1 Yasharn, Implacable Earth
 2 Field of the Dead
 2 Flagstones of Trokair
 2 Dryad of the Ilysian Grove
@@ -18,65 +18,6 @@
 3 Skyclave Apparition
 4 Flagstones of Trokair
 4 Elvish Reclaimer
-1 True-Name Nemesis
-1 Brainstorm
-1 Plague Engineer
-2 Brainstorm
-3 Brainstorm
-4 Brainstorm
-1 Cavern of Souls
-2 Cavern of Souls
-3 Cavern of Souls
-1 Brazen Borrower
-1 Force of Will
-2 Force of Will
-3 Force of Will
-4 Force of Will
-1 Eliminate
-1 Spell Pierce
-1 Scalding Tarn
-1 Unearth
-1 Jace, the Mind Sculptor
-1 Thieves' Guild Enforcer
-1 Rankle, Master of Pranks
-1 Fatal Push
-1 Nighthawk Scavenger
-1 Baleful Strix
-1 Soaring Thought-Thief
-1 Underground Sea
-1 Ponder
-1 Snow-Covered Island
-1 Bitterblossom
-1 Anowon, the Ruin Thief
-1 Polluted Delta
-1 Snow-Covered Swamp
-2 Scalding Tarn
-2 Eliminate
-2 Thieves' Guild Enforcer
-2 Nighthawk Scavenger
-2 Ponder
-2 Polluted Delta
-2 Fatal Push
-2 Baleful Strix
-2 Soaring Thought-Thief
-2 Snow-Covered Swamp
-2 Snow-Covered Island
-2 True-Name Nemesis
-2 Underground Sea
-3 Underground Sea
-3 Baleful Strix
-3 Scalding Tarn
-3 Nighthawk Scavenger
-3 Snow-Covered Island
-3 Thieves' Guild Enforcer
-3 Ponder
-3 Polluted Delta
-3 Soaring Thought-Thief
-4 Scalding Tarn
-4 Soaring Thought-Thief
-4 Baleful Strix
-4 Polluted Delta
-4 Thieves' Guild Enforcer
 1 Birds of Paradise
 1 Noble Hierarch
 2 Noble Hierarch
@@ -89,12 +30,18 @@
 1 Fauna Shaman
 2 Birds of Paradise
 3 Birds of Paradise
+2 Scryb Ranger
+1 True-Name Nemesis
+1 Brainstorm
+1 Plague Engineer
+2 Brainstorm
+3 Brainstorm
+4 Brainstorm
 1 Umezawa's Jitte
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
 4 Aether Vial
-2 Scryb Ranger
 1 Abrupt Decay
 1 Bayou
 1 Sanctum Prelate
@@ -131,6 +78,9 @@
 7 Windswept Heath
 8 Windswept Heath
 8 Misty Rainforest
+3 Noble Hierarch
+4 Wasteland
+4 Noble Hierarch
 1 Hexdrinker
 1 Questing Beast
 2 Ancient Tomb
@@ -146,12 +96,12 @@
 4 City of Traitors
 4 Chalice of the Void
 4 Ancient Tomb
-3 Noble Hierarch
-4 Wasteland
-4 Noble Hierarch
 1 Mountain
 1 Trinisphere
 3 Chrome Mox
+1 Cavern of Souls
+2 Cavern of Souls
+3 Cavern of Souls
 1 Magus of the Moon
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
@@ -176,6 +126,56 @@
 3 Oko, Thief of Crowns
 3 Knight of the Reliquary
 4 Knight of the Reliquary
+1 Brazen Borrower
+1 Force of Will
+2 Force of Will
+3 Force of Will
+4 Force of Will
+1 Eliminate
+1 Spell Pierce
+1 Scalding Tarn
+1 Unearth
+1 Thieves' Guild Enforcer
+1 Soaring Thought-Thief
+1 Jace, the Mind Sculptor
+1 Nighthawk Scavenger
+1 Fatal Push
+1 Rankle, Master of Pranks
+1 Baleful Strix
+1 Underground Sea
+1 Ponder
+1 Snow-Covered Island
+1 Bitterblossom
+1 Anowon, the Ruin Thief
+1 Polluted Delta
+1 Snow-Covered Swamp
+2 Scalding Tarn
+2 Eliminate
+2 Thieves' Guild Enforcer
+2 Soaring Thought-Thief
+2 Nighthawk Scavenger
+2 Ponder
+2 Polluted Delta
+2 Fatal Push
+2 Baleful Strix
+2 Snow-Covered Swamp
+2 Snow-Covered Island
+2 True-Name Nemesis
+2 Underground Sea
+3 Underground Sea
+3 Baleful Strix
+3 Soaring Thought-Thief
+3 Scalding Tarn
+3 Nighthawk Scavenger
+3 Snow-Covered Island
+3 Thieves' Guild Enforcer
+3 Ponder
+3 Polluted Delta
+4 Scalding Tarn
+4 Soaring Thought-Thief
+4 Baleful Strix
+4 Polluted Delta
+4 Thieves' Guild Enforcer
 3 Forest
 4 Forest
 1 Archon of Valor's Reach
@@ -235,13 +235,13 @@
 1 Pillage
 2 Magus of the Moon
 2 Lightning Bolt
-2 Ramunap Excavator
 2 Bonecrusher Giant
+2 Klothys, God of Destiny
 2 Tireless Tracker
 2 Prismatic Vista
+2 Ramunap Excavator
 2 Bloodbraid Elf
 2 Pillage
-2 Klothys, God of Destiny
 3 Lightning Bolt
 3 Bonecrusher Giant
 3 Pillage
@@ -253,53 +253,39 @@
 4 Seasoned Pyromancer
 4 Prismatic Vista
 4 Pillage
-1 Berserk
-1 Rancor
-1 Seal of Strength
-1 Nettle Sentinel
-1 Kavu Predator
-1 Invigorate
-1 Jungle Lion
-1 Dryad Militant
-1 Silhana Ledgewalker
-1 Skarrgan Pit-Skulk
-1 Might of Old Krosa
-2 Berserk
-2 Jungle Lion
-2 Silhana Ledgewalker
-2 Might of Old Krosa
-2 Dryad Militant
-2 Rancor
-2 Skarrgan Pit-Skulk
-2 Invigorate
-2 Seal of Strength
-2 Nettle Sentinel
-2 Kavu Predator
-3 Berserk
-3 Invigorate
-3 Rancor
-3 Seal of Strength
-3 Jungle Lion
-3 Kavu Predator
-3 Silhana Ledgewalker
-3 Might of Old Krosa
-3 Dryad Militant
-3 Skarrgan Pit-Skulk
-4 Might of Old Krosa
-4 Kavu Predator
-4 Rancor
-4 Invigorate
-4 Berserk
-4 Jungle Lion
-4 Dryad Militant
-4 Skarrgan Pit-Skulk
-4 Silhana Ledgewalker
-5 Forest
-6 Forest
-7 Forest
-8 Forest
-9 Forest
-10 Forest
+1 Punishing Fire
+1 Fiery Confluence
+1 Neheb, Dreadhorde Champion
+1 Sethron, Hurloon General
+1 Moraug, Fury of Akoum
+1 Deathbellow War Cry
+1 Neheb, the Eternal
+1 Didgeridoo
+1 Deadshot Minotaur
+2 Punishing Fire
+2 Didgeridoo
+2 Moraug, Fury of Akoum
+2 Neheb, Dreadhorde Champion
+2 Neheb, the Eternal
+2 Sethron, Hurloon General
+3 Grove of the Burnwillows
+3 Punishing Fire
+3 Neheb, Dreadhorde Champion
+3 Neheb, the Eternal
+3 Sethron, Hurloon General
+3 Didgeridoo
+3 Moraug, Fury of Akoum
+3 Mountain
+3 Blood Sun
+4 Grove of the Burnwillows
+4 Sethron, Hurloon General
+4 Neheb, Dreadhorde Champion
+4 Blood Sun
+4 Mountain
+4 Cavern of Souls
+4 Moraug, Fury of Akoum
+4 Didgeridoo
+5 Mountain
 1 Island
 1 Ninja of the Deep Hours
 1 Force of Negation
@@ -348,36 +334,50 @@
 9 Island
 10 Island
 11 Island
-1 Punishing Fire
-1 Fiery Confluence
-1 Neheb, Dreadhorde Champion
-1 Sethron, Hurloon General
-1 Moraug, Fury of Akoum
-1 Deathbellow War Cry
-1 Neheb, the Eternal
-1 Didgeridoo
-1 Deadshot Minotaur
-2 Punishing Fire
-2 Didgeridoo
-2 Moraug, Fury of Akoum
-2 Neheb, Dreadhorde Champion
-2 Neheb, the Eternal
-2 Sethron, Hurloon General
-3 Grove of the Burnwillows
-3 Punishing Fire
-3 Neheb, Dreadhorde Champion
-3 Neheb, the Eternal
-3 Sethron, Hurloon General
-3 Didgeridoo
-3 Moraug, Fury of Akoum
-3 Mountain
-3 Blood Sun
-4 Grove of the Burnwillows
-4 Sethron, Hurloon General
-4 Neheb, Dreadhorde Champion
-4 Blood Sun
-4 Mountain
-4 Cavern of Souls
-4 Moraug, Fury of Akoum
-4 Didgeridoo
-5 Mountain
+1 Berserk
+1 Rancor
+1 Seal of Strength
+1 Nettle Sentinel
+1 Kavu Predator
+1 Invigorate
+1 Jungle Lion
+1 Dryad Militant
+1 Silhana Ledgewalker
+1 Skarrgan Pit-Skulk
+1 Might of Old Krosa
+2 Berserk
+2 Jungle Lion
+2 Silhana Ledgewalker
+2 Might of Old Krosa
+2 Dryad Militant
+2 Rancor
+2 Skarrgan Pit-Skulk
+2 Invigorate
+2 Seal of Strength
+2 Nettle Sentinel
+2 Kavu Predator
+3 Berserk
+3 Invigorate
+3 Rancor
+3 Seal of Strength
+3 Jungle Lion
+3 Kavu Predator
+3 Silhana Ledgewalker
+3 Might of Old Krosa
+3 Dryad Militant
+3 Skarrgan Pit-Skulk
+4 Might of Old Krosa
+4 Kavu Predator
+4 Rancor
+4 Invigorate
+4 Berserk
+4 Jungle Lion
+4 Dryad Militant
+4 Skarrgan Pit-Skulk
+4 Silhana Ledgewalker
+5 Forest
+6 Forest
+7 Forest
+8 Forest
+9 Forest
+10 Forest

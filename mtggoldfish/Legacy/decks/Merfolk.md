@@ -146,6 +146,6 @@
 |                    3|[Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417808)         |                     |                                                                                                    |
 |                    3|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)       |                     |                                                                                                    |
 |                    3|[Cosi's Trickster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=186322)          |                     |                                                                                                    |
-|                    4|[Merrow Reejerey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438453)           |                     |                                                                                                    |
 |                    4|[Cosi's Trickster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=186322)          |                     |                                                                                                    |
+|                    4|[Merrow Reejerey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438453)           |                     |                                                                                                    |
 

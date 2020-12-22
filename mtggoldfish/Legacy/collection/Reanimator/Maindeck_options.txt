@@ -1,10 +1,10 @@
 3 Marsh Flats
 4 Marsh Flats
 3 Polluted Delta
-4 Polluted Delta
-1 Cabal Therapy
 3 Badlands
+4 Polluted Delta
 1 Verdant Catacombs
+1 Cabal Therapy
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 2 Verdant Catacombs
@@ -48,13 +48,13 @@
 3 Scalding Tarn
 4 Dreadhorde Arcanist
 4 Lightning Bolt
-1 Tidespout Tyrant
-2 Cabal Therapy
-4 Thoughtseize
 3 Snow-Covered Swamp
+4 Thoughtseize
 3 Swamp
 2 Preordain
 3 Volcanic Island
+1 Tidespout Tyrant
+2 Cabal Therapy
 1 Iona, Shield of Emeria
 1 Flusterstorm
 1 Grave Titan
@@ -87,8 +87,6 @@
 2 Force of Negation
 1 Vilis, Broker of Blood
 2 Bayou
-3 Cabal Therapy
-4 Cabal Therapy
 3 Verdant Catacombs
 4 Verdant Catacombs
 1 Island
