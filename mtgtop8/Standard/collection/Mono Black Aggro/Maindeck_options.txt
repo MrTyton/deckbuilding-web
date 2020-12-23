@@ -17,8 +17,8 @@
 1 Mire's Grasp
 1 Dead Weight
 1 Hateful Eidolon
-2 Mire's Grasp
 2 Dead Weight
+2 Mire's Grasp
 2 Hateful Eidolon
 3 Mire's Grasp
 3 Hateful Eidolon
@@ -29,9 +29,9 @@
 1 Hagra Mauling
 1 Fiend Artisan
 2 Fiend Artisan
+3 Ayara, First of Locthwain
 3 Nightmare Shepherd
 3 Fiend Artisan
-3 Ayara, First of Locthwain
 4 Ayara, First of Locthwain
 1 Serrated Scorpion
 2 Serrated Scorpion
@@ -53,6 +53,12 @@
 4 Serrated Scorpion
 1 Massacre Wurm
 3 Heartless Act
+1 Marauding Blight-Priest
+1 Soul Shatter
+2 Marauding Blight-Priest
+2 Soul Shatter
+3 Marauding Blight-Priest
+4 Marauding Blight-Priest
 1 Elspeth's Nightmare
 3 Hagra Mauling
 4 Lurrus of the Dream-Den
@@ -67,12 +73,12 @@
 2 Nighthawk Scavenger
 2 Inscription of Ruin
 2 Hunted Nightmare
-3 Rankle, Master of Pranks
 3 Heraldic Banner
 3 Nighthawk Scavenger
+3 Inscription of Ruin
+3 Rankle, Master of Pranks
 3 Whisper Squad
 3 Hunted Nightmare
-3 Inscription of Ruin
 4 Whisper Squad
 4 Bloodchief's Thirst
 1 Pelakka Predation
@@ -88,12 +94,6 @@
 3 Mogis's Favor
 4 Call of the Death-Dweller
 4 Order of Midnight
-1 Soul Shatter
-1 Marauding Blight-Priest
-2 Soul Shatter
-2 Marauding Blight-Priest
-3 Marauding Blight-Priest
-4 Marauding Blight-Priest
 1 Grimdancer
 2 Grimdancer
 3 Grimdancer
@@ -120,18 +120,18 @@
 1 Garruk, Cursed Huntsman
 1 Jungle Hollow
 1 Lampad of Death's Vigil
+1 Unexpected Fangs
 1 Grasp of Darkness
 1 Savvy Hunter
 1 Deathless Knight
 1 Forest
-1 Unexpected Fangs
 1 The Great Henge
 2 Silversmote Ghoul
 2 Witch's Oven
 2 Grasp of Darkness
 2 Jungle Hollow
-2 Lampad of Death's Vigil
 2 Evolving Wilds
+2 Lampad of Death's Vigil
 2 Forest
 2 Savvy Hunter
 2 Deathless Knight
@@ -143,8 +143,8 @@
 3 Forest
 3 Lampad of Death's Vigil
 4 Silversmote Ghoul
-4 Jungle Hollow
 4 Grasp of Darkness
+4 Jungle Hollow
 4 Savvy Hunter
 4 Lampad of Death's Vigil
 4 Forest

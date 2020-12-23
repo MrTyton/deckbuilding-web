@@ -9,17 +9,17 @@
 1 Snow-Covered Swamp
 2 Force of Negation
 1 Disrupting Shoal
-1 Breeding Pool
-1 Snow-Covered Forest
+1 Mana Leak
 1 Overgrown Tomb
-1 Ice-Fang Coatl
 1 Misty Rainforest
+1 Snow-Covered Forest
+1 Breeding Pool
 1 Gilded Goose
 1 Spellstutter Sprite
+1 Ice-Fang Coatl
 1 Ninja of the Deep Hours
 1 Assassin's Trophy
 1 Brazen Borrower
-1 Mana Leak
 1 Fatal Push
 1 Ingenious Infiltrator
 1 Abrupt Decay
@@ -28,14 +28,14 @@
 1 Darkslick Shores
 1 Botanical Sanctum
 2 Disrupting Shoal
-2 Assassin's Trophy
 2 Brazen Borrower
+2 Mana Leak
 2 Misty Rainforest
 2 Gilded Goose
-2 Ice-Fang Coatl
+2 Assassin's Trophy
 2 Spellstutter Sprite
+2 Ice-Fang Coatl
 2 Snow-Covered Island
-2 Mana Leak
 2 Abrupt Decay
 2 Ingenious Infiltrator
 2 Darkslick Shores
@@ -44,22 +44,22 @@
 2 Botanical Sanctum
 3 Ice-Fang Coatl
 3 Brazen Borrower
-3 Misty Rainforest
 3 Fatal Push
+3 Misty Rainforest
 3 Gilded Goose
 3 Spellstutter Sprite
 3 Ingenious Infiltrator
 3 Snow-Covered Island
 3 Faerie Seer
 4 Ice-Fang Coatl
-4 Misty Rainforest
 4 Fatal Push
+4 Misty Rainforest
 4 Ingenious Infiltrator
 4 Faerie Seer
 4 Spellstutter Sprite
 1 Gut Shot
-1 Crash Through
 1 Soul-Scar Mage
+1 Crash Through
 1 Mutagenic Growth
 1 Kiln Fiend
 1 Stormwing Entity
@@ -88,6 +88,7 @@
 2 Monastery Swiftspear
 2 Temur Battle Rage
 3 Stormwing Entity
+3 Mutagenic Growth
 3 Soul-Scar Mage
 3 Crash Through
 3 Fiery Islet
@@ -95,7 +96,6 @@
 3 Kiln Fiend
 3 Mountain
 3 Wooded Foothills
-3 Mutagenic Growth
 3 Steam Vents
 3 Manamorphose
 3 Spirebluff Canal
@@ -106,23 +106,22 @@
 4 Crash Through
 4 Soul-Scar Mage
 4 Steam Vents
-4 Kiln Fiend
 4 Monastery Swiftspear
 4 Manamorphose
 4 Wooded Foothills
 4 Lava Dart
+4 Kiln Fiend
 1 Delay
 1 Aether Vial
 1 Glacial Fortress
 1 Charming Prince
 1 Mystic Gate
 1 Ephemerate
-1 Marsh Flats
-1 Cavern of Souls
 1 Teferi, Time Raveler
-1 Snow-Covered Plains
 1 Hallowed Fountain
 1 Godless Shrine
+1 Snow-Covered Plains
+1 Cavern of Souls
 1 Wasteland Strangler
 1 Path to Exile
 1 Tidehollow Sculler
@@ -130,6 +129,7 @@
 1 Flooded Strand
 1 Cling to Dust
 1 Ulamog's Nullifier
+1 Marsh Flats
 1 Spell Queller
 2 Aether Vial
 2 Wasteland Strangler

@@ -22,6 +22,11 @@
 1 Elvish Mystic
 2 Llanowar Elves
 2 Elvish Mystic
+1 Breeding Pool
+1 Botanical Sanctum
+2 Botanical Sanctum
+3 Botanical Sanctum
+4 Botanical Sanctum
 3 Stomping Ground
 1 Cragcrown Pathway
 2 Cragcrown Pathway
@@ -29,11 +34,6 @@
 3 Cragcrown Pathway
 4 Cragcrown Pathway
 4 Stomping Ground
-1 Breeding Pool
-1 Botanical Sanctum
-2 Botanical Sanctum
-3 Botanical Sanctum
-4 Botanical Sanctum
 1 Rhonas the Indomitable
 1 Lovestruck Beast
 1 Elder Gargaroth
@@ -56,16 +56,16 @@
 3 Lovestruck Beast
 3 Elder Gargaroth
 3 Scavenging Ooze
-3 Breeding Pool
 3 Elvish Mystic
 3 Bonecrusher Giant
 3 Vivien, Arkbow Ranger
 3 Spirebluff Canal
+3 Breeding Pool
 3 Questing Beast
 4 Lovestruck Beast
 4 Elder Gargaroth
-4 Scavenging Ooze
 4 Questing Beast
+4 Scavenging Ooze
 4 Breeding Pool
 4 Elvish Mystic
 4 Vivien, Arkbow Ranger
@@ -81,43 +81,87 @@
 3 Overgrown Tomb
 3 Blooming Marsh
 4 Blooming Marsh
-1 Llanowar Wastes
 1 Gilded Goose
-1 Woe Strider
-1 Priest of Forgotten Gods
 1 Zulaport Cutthroat
+1 Priest of Forgotten Gods
+1 Woe Strider
 1 Catacomb Sifter
-1 Bolas's Citadel
-1 Collected Company
 1 Blisterpod
+1 Bolas's Citadel
+1 Llanowar Wastes
+1 Collected Company
 1 Mayhem Devil
-2 Llanowar Wastes
 2 Gilded Goose
-2 Zulaport Cutthroat
-2 Woe Strider
 2 Priest of Forgotten Gods
+2 Woe Strider
+2 Zulaport Cutthroat
+2 Catacomb Sifter
+2 Blisterpod
 2 Bolas's Citadel
+2 Llanowar Wastes
 2 Collected Company
 2 Mayhem Devil
-2 Blisterpod
-2 Catacomb Sifter
-3 Woe Strider
-3 Llanowar Wastes
 3 Gilded Goose
-3 Zulaport Cutthroat
 3 Priest of Forgotten Gods
-3 Mayhem Devil
+3 Zulaport Cutthroat
 3 Catacomb Sifter
 3 Bolas's Citadel
+3 Llanowar Wastes
+3 Woe Strider
+3 Mayhem Devil
 3 Collected Company
-4 Woe Strider
 4 Overgrown Tomb
-4 Zulaport Cutthroat
 4 Priest of Forgotten Gods
-4 Catacomb Sifter
 4 Bolas's Citadel
+4 Zulaport Cutthroat
+4 Catacomb Sifter
+4 Woe Strider
 4 Mayhem Devil
 4 Collected Company
+1 Agadeem's Awakening
+1 Urborg, Tomb of Yawgmoth
+1 Mystical Dispute
+1 Merfolk Windrobber
+1 Drown in the Loch
+1 Watery Grave
+1 Fatal Push
+1 Into the Story
+1 Eliminate
+1 Cling to Dust
+1 Thoughtseize
+1 Deathrite Shaman
+1 Mutavault
+1 Thieves' Guild Enforcer
+1 Soaring Thought-Thief
+1 Clearwater Pathway
+2 Merfolk Windrobber
+2 Agadeem's Awakening
+2 Watery Grave
+2 Into the Story
+2 Fatal Push
+2 Thoughtseize
+2 Mutavault
+2 Soaring Thought-Thief
+2 Drown in the Loch
+2 Thieves' Guild Enforcer
+2 Deathrite Shaman
+2 Clearwater Pathway
+3 Merfolk Windrobber
+3 Clearwater Pathway
+3 Watery Grave
+3 Into the Story
+3 Thoughtseize
+3 Drown in the Loch
+3 Deathrite Shaman
+3 Thieves' Guild Enforcer
+3 Soaring Thought-Thief
+4 Clearwater Pathway
+4 Thoughtseize
+4 Soaring Thought-Thief
+4 Deathrite Shaman
+4 Drown in the Loch
+4 Thieves' Guild Enforcer
+4 Watery Grave
 1 Champion of Wits
 2 Champion of Wits
 1 Omen of the Sea
@@ -131,22 +175,37 @@
 3 Spell Queller
 4 Spell Queller
 1 Forest
-1 Agadeem's Awakening
-1 Urborg, Tomb of Yawgmoth
-4 Llanowar Wastes
+1 Swamp
+1 Mana Confluence
+1 Sea Gate Stormcaller
+1 Chart a Course
+2 Cling to Dust
+2 Mana Confluence
+2 Sea Gate Stormcaller
+2 Chart a Course
+3 Fatal Push
+3 Mutavault
+1 Zagoth Triome
+1 Heartless Act
+1 Of One Mind
+2 Zagoth Triome
+2 Of One Mind
+3 Of One Mind
+3 Agadeem's Awakening
+4 Into the Story
 1 Stubborn Denial
 2 Stubborn Denial
 3 Stubborn Denial
 4 Stubborn Denial
+4 Llanowar Wastes
 1 Sunpetal Grove
 1 Branchloft Pathway
 1 Temple Garden
 1 Voice of Resurgence
-1 Westvale Abbey
 1 Legion's Landing
+1 Westvale Abbey
 1 Omen of the Sun
 1 Conclave Tribunal
-1 Nissa, Voice of Zendikar
 1 Elspeth, Sun's Champion
 1 Saproling Migration
 1 Gideon, Ally of Zendikar
@@ -157,6 +216,7 @@
 1 Trostani Discordant
 1 Oath of Gideon
 1 Raise the Alarm
+1 Nissa, Voice of Zendikar
 2 Castle Ardenvale
 2 Sunpetal Grove
 2 Branchloft Pathway
@@ -197,61 +257,9 @@
 4 Gilded Goose
 4 Blisterpod
 4 Blood Crypt
-1 Mystical Dispute
 2 Mystical Dispute
 3 Mystical Dispute
 4 Mystical Dispute
-1 Swamp
-1 Merfolk Windrobber
-1 Mana Confluence
-1 Sea Gate Stormcaller
-1 Drown in the Loch
-1 Watery Grave
-1 Fatal Push
-1 Into the Story
-1 Eliminate
-1 Cling to Dust
-1 Thoughtseize
-1 Deathrite Shaman
-1 Mutavault
-1 Thieves' Guild Enforcer
-1 Soaring Thought-Thief
-1 Clearwater Pathway
-1 Chart a Course
-2 Merfolk Windrobber
-2 Cling to Dust
-2 Mana Confluence
-2 Agadeem's Awakening
-2 Watery Grave
-2 Sea Gate Stormcaller
-2 Into the Story
-2 Fatal Push
-2 Thoughtseize
-2 Chart a Course
-2 Mutavault
-2 Soaring Thought-Thief
-2 Drown in the Loch
-2 Thieves' Guild Enforcer
-2 Deathrite Shaman
-2 Clearwater Pathway
-3 Merfolk Windrobber
-3 Clearwater Pathway
-3 Watery Grave
-3 Into the Story
-3 Fatal Push
-3 Thoughtseize
-3 Drown in the Loch
-3 Deathrite Shaman
-3 Thieves' Guild Enforcer
-3 Mutavault
-3 Soaring Thought-Thief
-4 Clearwater Pathway
-4 Thoughtseize
-4 Soaring Thought-Thief
-4 Thieves' Guild Enforcer
-4 Deathrite Shaman
-4 Drown in the Loch
-4 Watery Grave
 1 Satyr Wayfinder
 1 Claim / Fame
 1 Grapple with the Past
@@ -261,19 +269,19 @@
 1 Vampire of the Dire Moon
 1 Traverse the Ulvenwald
 1 Stitcher's Supplier
+1 Zetalpa, Primal Dawn
 1 Samut, Voice of Dissent
 1 Magmatic Channeler
 1 Woodland Cemetery
 1 Mountain
-1 Zetalpa, Primal Dawn
 2 Woodland Cemetery
 2 Satyr Wayfinder
 2 Grapple with the Past
 2 Grisly Salvage
 2 Claim / Fame
+2 Traverse the Ulvenwald
 2 Nullhide Ferox
 2 Samut, Voice of Dissent
-2 Traverse the Ulvenwald
 2 Zetalpa, Primal Dawn
 2 Vampire of the Dire Moon
 2 Magmatic Channeler
@@ -290,11 +298,11 @@
 3 Nullhide Ferox
 3 Satyr Wayfinder
 3 Woodland Cemetery
+4 Zetalpa, Primal Dawn
 4 Grisly Salvage
 4 Stitcher's Supplier
 4 Woodland Cemetery
 4 Grapple with the Past
-4 Zetalpa, Primal Dawn
 4 Nullhide Ferox
 4 Satyr Wayfinder
 4 Soulflayer

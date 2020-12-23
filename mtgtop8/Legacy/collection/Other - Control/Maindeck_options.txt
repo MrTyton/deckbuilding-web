@@ -1,14 +1,13 @@
+4 Stifle
 1 Chain Lightning
 3 Daze
 1 Spell Pierce
-4 Stifle
 2 Preordain
 1 Flooded Strand
-2 Flooded Strand
 1 Polluted Delta
 2 Polluted Delta
 1 Hullbreacher
-3 Flooded Strand
+2 Flooded Strand
 1 Baleful Strix
 2 Baleful Strix
 3 Polluted Delta
@@ -18,9 +17,17 @@
 2 Underground Sea
 1 Island
 3 Baleful Strix
-1 Jace, the Mind Sculptor
+3 Flooded Strand
 2 Eliminate
 1 Swamp
+2 Island
+3 Island
+1 Fatal Push
+2 Fatal Push
+4 Baleful Strix
+1 Jace, the Mind Sculptor
+3 Underground Sea
+2 Prismatic Vista
 1 Teferi, Time Raveler
 1 Tundra
 1 Monastery Mentor
@@ -29,12 +36,16 @@
 2 Swords to Plowshares
 3 Monastery Mentor
 3 Swords to Plowshares
-2 Island
-3 Island
-1 Fatal Push
-2 Fatal Push
-4 Baleful Strix
-3 Underground Sea
+1 Brazen Borrower
+1 Murderous Rider
+1 Ethereal Forager
+2 Brazen Borrower
+2 Murderous Rider
+2 Ethereal Forager
+2 Hullbreacher
+2 Swamp
+1 Cling to Dust
+1 Liliana's Triumph
 1 Snapcaster Mage
 2 Snapcaster Mage
 2 Teferi, Time Raveler
@@ -44,7 +55,6 @@
 1 Plains
 1 Karakas
 2 Jace, the Mind Sculptor
-2 Prismatic Vista
 3 Prismatic Vista
 3 Snow-Covered Island
 1 Snow-Covered Swamp
@@ -61,6 +71,9 @@
 3 Inquisition of Kozilek
 3 Hymn to Tourach
 2 Narset, Parter of Veils
+1 Thoughtseize
+1 Gurmag Angler
+3 Ethereal Forager
 1 Surgical Extraction
 2 Snow-Covered Forest
 3 Ice-Fang Coatl
@@ -68,14 +81,12 @@
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 1 Dark Ritual
-2 Swamp
 2 Dark Ritual
 3 Swamp
-1 Ashiok, Nightmare Muse
 1 Stonecoil Serpent
 1 Ashiok, Dream Render
+1 Ashiok, Nightmare Muse
 1 Liliana of the Veil
-1 Liliana's Triumph
 1 Liliana, the Last Hope
 1 The Abyss
 1 To the Slaughter
@@ -84,14 +95,7 @@
 2 Liliana of the Veil
 3 Fatal Push
 4 Prismatic Vista
-1 Brazen Borrower
-1 Murderous Rider
-1 Ethereal Forager
 1 Snuff Out
-2 Murderous Rider
-2 Brazen Borrower
-2 Ethereal Forager
-2 Hullbreacher
 3 Brazen Borrower
 3 Hullbreacher
 4 Brazen Borrower
@@ -141,15 +145,14 @@
 4 Daze
 4 Tropical Island
 4 Dreadhorde Arcanist
+1 Sea Gate Stormcaller
 1 Marsh Flats
 1 Cabal Therapy
-1 Cling to Dust
-1 Sea Gate Stormcaller
-2 Sea Gate Stormcaller
 2 Cling to Dust
+2 Sea Gate Stormcaller
 2 Marsh Flats
-2 Cabal Therapy
 2 Unearth
+2 Cabal Therapy
 3 Marsh Flats
 3 Cabal Therapy
 3 Sea Gate Stormcaller
@@ -176,11 +179,11 @@
 1 Punishing Fire
 1 Chandra, Awakened Inferno
 1 Dead / Gone
+1 Mazemind Tome
 1 Thought-Knot Seer
 1 Simian Spirit Guide
 1 Bonecrusher Giant
 1 Blood Sun
-1 Mazemind Tome
 1 Eldrazi Temple
 1 Reality Smasher
 2 Grove of the Burnwillows
@@ -190,10 +193,10 @@
 2 Thought-Knot Seer
 2 Reality Smasher
 2 Bonecrusher Giant
-2 Simian Spirit Guide
-2 Eldrazi Temple
-2 Mountain
 2 Blood Sun
+2 Eldrazi Temple
+2 Simian Spirit Guide
+2 Mountain
 3 Bonecrusher Giant
 3 Grove of the Burnwillows
 3 Punishing Fire
@@ -213,30 +216,30 @@
 4 Reality Smasher
 5 Mountain
 1 Chrome Mox
+1 Pelakka Predation
 1 Helm of Obedience
 1 Leyline of the Void
 1 Curse of Death's Hold
 1 Urborg, Tomb of Yawgmoth
 1 Curse of Misfortunes
-1 Pelakka Predation
 1 Sorcerous Spyglass
 1 Cruel Reality
 1 Overwhelming Splendor
+2 Pelakka Predation
 2 Chrome Mox
 2 Leyline of the Void
 2 Helm of Obedience
 2 Urborg, Tomb of Yawgmoth
 2 Curse of Misfortunes
-2 Pelakka Predation
-3 Pelakka Predation
-3 Chrome Mox
 3 Eliminate
+3 Chrome Mox
+3 Pelakka Predation
 3 Leyline of the Void
 3 Dark Ritual
 3 Curse of Misfortunes
-4 Pelakka Predation
 4 Chrome Mox
 4 Eliminate
+4 Pelakka Predation
 4 Leyline of the Void
 4 Dark Ritual
 4 Swamp
