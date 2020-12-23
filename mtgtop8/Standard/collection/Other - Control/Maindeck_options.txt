@@ -1,52 +1,38 @@
-2 Temple of Malady
-1 Glass Casket
-2 Glass Casket
-1 Eerie Ultimatum
-1 Agadeem's Awakening
-1 Treacherous Blessing
-2 Treacherous Blessing
 3 Glass Casket
-4 Skyclave Apparition
-4 Llanowar Visionary
+4 Trail of Crumbs
+4 Doom Foretold
+4 Wicked Wolf
+4 Gilded Goose
+4 Forest
+4 Indatha Triome
 1 Extinction Event
-3 Temple of Malady
+1 Emeria's Call
+1 Elspeth's Nightmare
 2 Elspeth's Nightmare
+3 Temple of Malady
 2 Temple of Plenty
 3 Yorion, Sky Nomad
-2 Agadeem's Awakening
-3 Treacherous Blessing
-3 Charming Prince
-1 Emeria's Call
-3 Plains
 3 Temple of Plenty
-2 Eerie Ultimatum
-1 Solemn Simulacrum
-2 Solemn Simulacrum
-1 Temple of Silence
-2 Temple of Silence
+4 Skyclave Apparition
+3 Treacherous Blessing
+2 Agadeem's Awakening
+4 Llanowar Visionary
 2 Extinction Event
 3 Extinction Event
-2 Emeria's Call
 1 Shatter the Sky
 2 Shatter the Sky
-4 Plains
+2 Emeria's Call
 3 Swamp
-1 Clearwater Pathway
-2 Clearwater Pathway
+3 Plains
+4 Plains
+1 Solemn Simulacrum
+2 Solemn Simulacrum
 1 Ondu Inversion
+1 Temple of Silence
+2 Temple of Silence
+2 Eerie Ultimatum
+3 Charming Prince
 3 Agadeem's Awakening
-4 Temple of Malady
-1 Tangled Florahedron
-1 Acquisitions Expert
-2 Tangled Florahedron
-2 Acquisitions Expert
-3 Acquisitions Expert
-3 Elspeth's Nightmare
-3 Temple of Silence
-4 Charming Prince
-4 Acquisitions Expert
-5 Forest
-6 Forest
 1 Garruk, Cursed Huntsman
 1 Bala Ged Recovery
 1 Mythos of Nethroi
@@ -81,30 +67,11 @@
 2 Yasharn, Implacable Earth
 2 Polukranos, Unchained
 2 Scavenging Ooze
-3 Yasharn, Implacable Earth
 3 Duress
 3 Elder Gargaroth
 3 Scavenging Ooze
+3 Yasharn, Implacable Earth
 4 Duress
-1 Wolfwillow Haven
-1 Cultivate
-1 Shadows' Verdict
-1 Erebos's Intervention
-1 Felidar Retreat
-2 Wolfwillow Haven
-2 Bala Ged Recovery
-2 Cultivate
-2 Erebos's Intervention
-3 Bala Ged Recovery
-3 Garruk, Cursed Huntsman
-3 Wolfwillow Haven
-3 Cultivate
-3 Erebos's Intervention
-3 Emeria's Call
-4 Emeria's Call
-4 Garruk, Cursed Huntsman
-4 Wolfwillow Haven
-4 Erebos's Intervention
 1 Island
 1 Mountain
 1 Raugrin Triome
@@ -117,6 +84,7 @@
 1 Dismal Backwater
 1 Cragcrown Pathway
 1 Savai Triome
+1 Clearwater Pathway
 1 Jungle Hollow
 1 Bloodfell Caves
 1 Thornwood Falls
@@ -133,6 +101,7 @@
 2 Thirst for Meaning
 2 Cragcrown Pathway
 2 Dismal Backwater
+2 Clearwater Pathway
 2 Bloodchief's Thirst
 2 Sanctum of Fruitful Harvest
 2 Sanctum of Tranquil Light
@@ -199,9 +168,9 @@
 3 Didn't Say Please
 3 Evolving Wilds
 3 Merfolk Secretkeeper
-3 Stern Dismissal
-3 Anticognition
 3 Teferi's Tutelage
+3 Anticognition
+3 Stern Dismissal
 3 Relic Golem
 3 Into the Story
 4 Ruin Crab
@@ -289,34 +258,53 @@
 4 Transmogrify
 4 Harmonious Archon
 4 Mountain
+1 Cultivate
+1 Shadows' Verdict
+1 Erebos's Intervention
+1 Felidar Retreat
+1 Wolfwillow Haven
+2 Cultivate
+2 Bala Ged Recovery
+2 Wolfwillow Haven
+2 Erebos's Intervention
+3 Bala Ged Recovery
+3 Cultivate
+3 Erebos's Intervention
+3 Garruk, Cursed Huntsman
+3 Emeria's Call
+3 Wolfwillow Haven
+4 Emeria's Call
+4 Erebos's Intervention
+4 Garruk, Cursed Huntsman
+4 Wolfwillow Haven
 1 Forsaken Monument
 1 Swift Response
-1 Unknown Shores
-1 Sleeper Dart
 1 Radiant Fountain
 1 Labyrinth of Skophos
+1 Unknown Shores
+1 Sleeper Dart
 1 Dance of the Manse
 1 Crawling Barrens
 2 Radiant Fountain
+2 Forsaken Monument
 2 Unknown Shores
 2 Sleeper Dart
 2 Dance of the Manse
-2 Forsaken Monument
 2 Labyrinth of Skophos
 2 Swift Response
 2 Crawling Barrens
 3 Solemn Simulacrum
 3 Crawling Barrens
 3 Radiant Fountain
+3 Forsaken Monument
 3 Unknown Shores
 3 Sleeper Dart
-3 Forsaken Monument
 4 Solemn Simulacrum
+4 Unknown Shores
+4 Forsaken Monument
 4 Sleeper Dart
 4 Crawling Barrens
-4 Unknown Shores
 4 Radiant Fountain
-4 Forsaken Monument
 7 Plains
 8 Plains
 6 Plains

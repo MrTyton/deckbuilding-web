@@ -141,7 +141,7 @@
 |                    4|[City of Traitors](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=6168)               |                     |                                                                                                |
 |                    4|[Imperial Recruiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442125)           |                     |                                                                                                |
 |                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                     |                     |                                                                                                |
-|                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                     |                     |                                                                                                |
 |                    7|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                     |                     |                                                                                                |
 |                    8|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                     |                     |                                                                                                |
+|                    6|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                     |                     |                                                                                                |
 

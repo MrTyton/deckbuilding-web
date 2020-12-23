@@ -42,18 +42,17 @@
 1 Unknown Shores
 2 Unknown Shores
 3 Unknown Shores
-9 Mountain
+1 Fling
 1 Valakut Awakening
 1 Rielle, the Everwise
 2 Rielle, the Everwise
 3 Rielle, the Everwise
-1 Fling
 3 Cathartic Reunion
 4 Cathartic Reunion
 4 Unknown Shores
+1 Island
 1 Easy Prey
 1 Neutralize
-1 Island
 1 Improbable Alliance
 1 Ominous Seas
 1 Sea Gate Restoration
@@ -70,8 +69,9 @@
 4 Improbable Alliance
 4 Ominous Seas
 9 Plains
-1 Shock
-2 Shock
+9 Mountain
+1 Fire Prophecy
+2 Fire Prophecy
 10 Plains
 11 Plains
 1 Reptilian Reflection
@@ -81,18 +81,13 @@
 4 Wind-Scarred Crag
 1 Thrill of Possibility
 2 Thrill of Possibility
-1 Fire Prophecy
-2 Fire Prophecy
-10 Mountain
-3 Shock
-4 Shock
+1 Shock
+2 Shock
 1 Raking Claws
-1 Pacifism
+2 Raking Claws
 1 Swift Response
 2 Forever Young
 2 Swamp
-3 Thrill of Possibility
-4 Thrill of Possibility
 1 Temple of Triumph
 1 Temple of Epiphany
 1 Temple of Silence
@@ -112,29 +107,37 @@
 2 Reptilian Reflection
 3 Reptilian Reflection
 4 Reptilian Reflection
-2 Raking Claws
 3 Fire Prophecy
 4 Fire Prophecy
-1 Seven Dwarves
-1 Crash Through
-1 Roil Eruption
-2 Seven Dwarves
-2 Roil Eruption
-2 Crash Through
-3 Seven Dwarves
-3 Roil Eruption
-4 Seven Dwarves
-4 Roil Eruption
-5 Seven Dwarves
-6 Seven Dwarves
-7 Seven Dwarves
-11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain
-15 Mountain
-16 Mountain
-17 Mountain
-18 Mountain
-19 Mountain
-20 Mountain
+3 Thrill of Possibility
+3 Shock
+4 Thrill of Possibility
+4 Shock
+1 Spelleater Wolverine
+1 Spellgorger Weird
+1 Frantic Inventory
+1 Keep Safe
+1 Swiftwater Cliffs
+2 Frantic Inventory
+2 Swiftwater Cliffs
+2 Spellgorger Weird
+2 Island
+2 Spelleater Wolverine
+2 Keep Safe
+3 Spellgorger Weird
+3 Keep Safe
+3 Frantic Inventory
+3 Raking Claws
+3 Island
+3 Spelleater Wolverine
+4 Spellgorger Weird
+4 Island
+4 Frantic Inventory
+4 Spelleater Wolverine
+5 Island
+6 Island
+7 Island
+8 Island
+9 Island
+1 Pacifism
+10 Mountain

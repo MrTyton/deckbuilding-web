@@ -11,13 +11,13 @@
 1 Scalding Tarn
 2 Scalding Tarn
 1 Drown in the Loch
-1 Grove of the Burnwillows
 1 Punishing Fire
+1 Grove of the Burnwillows
 2 Drown in the Loch
-2 Grove of the Burnwillows
 2 Punishing Fire
-3 Grove of the Burnwillows
+2 Grove of the Burnwillows
 3 Punishing Fire
+3 Grove of the Burnwillows
 3 Flooded Strand
 3 Scalding Tarn
 2 Assassin's Trophy
@@ -100,11 +100,6 @@
 2 Counterspell
 2 Spell Pierce
 4 Snow-Covered Island
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-4 Thoughtseize
-4 Abrupt Decay
 1 Shared Fate
 1 Portent
 1 Deprive
@@ -114,15 +109,15 @@
 3 Terminus
 3 Portent
 4 Portent
-1 Preordain
 1 Snow-Covered Mountain
+1 Preordain
 1 Dreadhorde Arcanist
 1 Daze
 1 Spell Snare
 1 Stifle
 1 Wasteland
-2 Preordain
 2 Dreadhorde Arcanist
+2 Preordain
 2 Daze
 2 Wasteland
 2 Stifle
@@ -132,3 +127,8 @@
 4 Wasteland
 4 Scalding Tarn
 4 Lightning Bolt
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+4 Abrupt Decay
+4 Thoughtseize

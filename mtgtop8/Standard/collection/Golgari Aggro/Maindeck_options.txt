@@ -34,10 +34,10 @@
 1 Tangled Florahedron
 2 Ilysian Caryatid
 2 Tangled Florahedron
-3 Tangled Florahedron
 3 Ilysian Caryatid
-4 Tangled Florahedron
+3 Tangled Florahedron
 4 Ilysian Caryatid
+4 Tangled Florahedron
 1 Mire Triton
 2 Mire Triton
 3 Mire Triton
@@ -66,14 +66,14 @@
 2 Massacre Wurm
 1 Village Rites
 1 Thrashing Brontodon
+2 Hagra Mauling
 1 Inscription of Ruin
 2 Inscription of Ruin
 1 Dirge Bat
 2 Dirge Bat
-2 Hagra Mauling
-1 Mythos of Nethroi
 1 Crawling Barrens
 1 Kenrith, the Returned King
+1 Mythos of Nethroi
 1 Nissa of Shadowed Boughs
 1 Cragcrown Pathway
 2 Mythos of Nethroi
@@ -111,37 +111,37 @@
 4 Clearwater Pathway
 4 Humble Naturalist
 4 Nightmare Shepherd
-1 Gnarlid Colony
-1 Jungle Hollow
 1 Ram Through
-1 Acolyte of Affliction
 1 Evolving Wilds
-1 Greater Sandwurm
 1 Chainweb Aracnir
 1 Ugin, the Spirit Dragon
+1 Garruk's Uprising
 1 Grasp of Darkness
 1 Feed the Swarm
 1 Llanowar Visionary
-1 Garruk's Uprising
-2 Gnarlid Colony
-2 Jungle Hollow
-2 Acolyte of Affliction
+1 Gnarlid Colony
+1 Jungle Hollow
+1 Greater Sandwurm
+1 Acolyte of Affliction
 2 Evolving Wilds
 2 Ram Through
-2 Greater Sandwurm
 2 Chainweb Aracnir
+2 Garruk's Uprising
 2 Feed the Swarm
 2 Grasp of Darkness
 2 Llanowar Visionary
-2 Garruk's Uprising
-3 Jungle Hollow
+2 Jungle Hollow
+2 Gnarlid Colony
+2 Acolyte of Affliction
+2 Greater Sandwurm
 3 Grasp of Darkness
-3 Chainweb Aracnir
 3 Ram Through
 3 Garruk's Uprising
+3 Chainweb Aracnir
+3 Jungle Hollow
 3 Llanowar Visionary
-4 Ram Through
 4 Grasp of Darkness
+4 Ram Through
 4 Mire Triton
 4 Llanowar Visionary
 4 Garruk's Uprising
@@ -150,8 +150,8 @@
 8 Forest
 9 Forest
 10 Forest
-1 Nethroi, Apex of Death
 1 Turntimber Symbiosis
+1 Nethroi, Apex of Death
 2 Nethroi, Apex of Death
 2 Turntimber Symbiosis
 3 Indatha Triome

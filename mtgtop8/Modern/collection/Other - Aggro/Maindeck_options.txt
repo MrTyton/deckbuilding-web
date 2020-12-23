@@ -14,11 +14,11 @@
 1 Overgrown Tomb
 1 Ice-Fang Coatl
 1 Misty Rainforest
-1 Brazen Borrower
 1 Gilded Goose
 1 Spellstutter Sprite
 1 Ninja of the Deep Hours
 1 Assassin's Trophy
+1 Brazen Borrower
 1 Mana Leak
 1 Fatal Push
 1 Ingenious Infiltrator
@@ -63,9 +63,9 @@
 1 Mutagenic Growth
 1 Kiln Fiend
 1 Stormwing Entity
-1 Spirebluff Canal
-1 Fiery Islet
 1 Opt
+1 Fiery Islet
+1 Spirebluff Canal
 1 Mountain
 1 Wooded Foothills
 1 Manamorphose
@@ -76,19 +76,18 @@
 2 Soul-Scar Mage
 2 Crash Through
 2 Mutagenic Growth
-2 Stormwing Entity
 2 Kiln Fiend
-2 Mountain
+2 Stormwing Entity
+2 Opt
 2 Spirebluff Canal
+2 Mountain
 2 Fiery Islet
 2 Wooded Foothills
 2 Lava Dart
 2 Manamorphose
 2 Monastery Swiftspear
 2 Temur Battle Rage
-2 Opt
 3 Stormwing Entity
-3 Mutagenic Growth
 3 Soul-Scar Mage
 3 Crash Through
 3 Fiery Islet
@@ -96,6 +95,7 @@
 3 Kiln Fiend
 3 Mountain
 3 Wooded Foothills
+3 Mutagenic Growth
 3 Steam Vents
 3 Manamorphose
 3 Spirebluff Canal
@@ -106,11 +106,11 @@
 4 Crash Through
 4 Soul-Scar Mage
 4 Steam Vents
+4 Kiln Fiend
 4 Monastery Swiftspear
 4 Manamorphose
 4 Wooded Foothills
 4 Lava Dart
-4 Kiln Fiend
 1 Delay
 1 Aether Vial
 1 Glacial Fortress
@@ -123,8 +123,8 @@
 1 Snow-Covered Plains
 1 Hallowed Fountain
 1 Godless Shrine
-1 Path to Exile
 1 Wasteland Strangler
+1 Path to Exile
 1 Tidehollow Sculler
 1 Skyclave Apparition
 1 Flooded Strand
@@ -132,8 +132,8 @@
 1 Ulamog's Nullifier
 1 Spell Queller
 2 Aether Vial
-2 Delay
 2 Wasteland Strangler
+2 Delay
 2 Ephemerate
 2 Charming Prince
 2 Snow-Covered Swamp

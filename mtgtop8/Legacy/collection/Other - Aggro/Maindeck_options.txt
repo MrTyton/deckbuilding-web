@@ -1,11 +1,11 @@
+1 Path to Exile
+1 Gaddock Teeg
 1 Field of the Dead
 1 Blast Zone
 1 Dryad of the Ilysian Grove
-1 Gaddock Teeg
-1 Path to Exile
+1 Temple Garden
 1 Titania, Protector of Argoth
-1 Yasharn, Implacable Earth
-1 Scute Swarm
+1 Bojuka Bog
 2 Field of the Dead
 2 Flagstones of Trokair
 2 Dryad of the Ilysian Grove
@@ -119,9 +119,9 @@
 1 Gilded Goose
 1 Uro, Titan of Nature's Wrath
 1 Gaea's Cradle
-2 Oko, Thief of Crowns
 2 Verdant Catacombs
 2 Snow-Covered Forest
+2 Oko, Thief of Crowns
 2 Knight of the Reliquary
 3 Oko, Thief of Crowns
 3 Knight of the Reliquary
@@ -135,13 +135,13 @@
 1 Spell Pierce
 1 Scalding Tarn
 1 Unearth
-1 Rankle, Master of Pranks
 1 Thieves' Guild Enforcer
-1 Soaring Thought-Thief
 1 Jace, the Mind Sculptor
 1 Nighthawk Scavenger
 1 Fatal Push
+1 Rankle, Master of Pranks
 1 Baleful Strix
+1 Soaring Thought-Thief
 1 Underground Sea
 1 Ponder
 1 Snow-Covered Island
@@ -152,25 +152,25 @@
 2 Scalding Tarn
 2 Eliminate
 2 Thieves' Guild Enforcer
-2 Soaring Thought-Thief
 2 Nighthawk Scavenger
 2 Ponder
 2 Polluted Delta
 2 Fatal Push
 2 Baleful Strix
+2 Soaring Thought-Thief
 2 Snow-Covered Swamp
 2 Snow-Covered Island
 2 True-Name Nemesis
 2 Underground Sea
 3 Underground Sea
 3 Baleful Strix
-3 Soaring Thought-Thief
 3 Scalding Tarn
 3 Nighthawk Scavenger
 3 Snow-Covered Island
 3 Polluted Delta
 3 Thieves' Guild Enforcer
 3 Ponder
+3 Soaring Thought-Thief
 4 Scalding Tarn
 4 Soaring Thought-Thief
 4 Baleful Strix
@@ -182,10 +182,10 @@
 1 Archon of Valor's Reach
 1 Garruk, Unleashed
 1 Tarmogoyf
+1 Shifting Ceratops
 1 Progenitus
 1 Elder Gargaroth
 1 Garruk Relentless
-1 Shifting Ceratops
 1 Natural Order
 1 Allosaurus Shepherd
 1 Deathgorge Scavenger
@@ -201,42 +201,42 @@
 4 Elvish Spirit Guide
 1 Sunbaked Canyon
 1 Embercleave
-1 Goblin Rabblemaster
 1 Legion Warboss
+1 Goblin Rabblemaster
 1 Talisman of Conviction
 1 Battlefield Forge
 1 Godo, Bandit Warlord
 1 Winota, Joiner of Forces
 1 Angrath's Marauders
-2 Legion Warboss
 2 Goblin Rabblemaster
+2 Legion Warboss
 2 Winota, Joiner of Forces
 2 Angrath's Marauders
 2 Trinisphere
 2 Plateau
+3 Goblin Rabblemaster
 3 Legion Warboss
 3 Plateau
-3 Goblin Rabblemaster
 3 Winota, Joiner of Forces
 3 Angrath's Marauders
 3 Trinisphere
+4 Goblin Rabblemaster
 4 Legion Warboss
 4 Plateau
-4 Goblin Rabblemaster
 4 Winota, Joiner of Forces
 4 Angrath's Marauders
-1 Tireless Tracker
 1 Lightning Bolt
-1 Bonecrusher Giant
 1 Klothys, God of Destiny
+1 Bonecrusher Giant
 1 Bloodbraid Elf
+1 Tireless Tracker
 1 Prismatic Vista
 1 Stomping Ground
 1 Pillage
 2 Magus of the Moon
+2 Klothys, God of Destiny
 2 Lightning Bolt
 2 Bonecrusher Giant
-2 Klothys, God of Destiny
 2 Tireless Tracker
 2 Prismatic Vista
 2 Ramunap Excavator
@@ -254,7 +254,6 @@
 4 Prismatic Vista
 4 Pillage
 1 Punishing Fire
-1 Fiery Confluence
 1 Neheb, Dreadhorde Champion
 1 Sethron, Hurloon General
 1 Moraug, Fury of Akoum
@@ -262,14 +261,15 @@
 1 Neheb, the Eternal
 1 Didgeridoo
 1 Deadshot Minotaur
+1 Fiery Confluence
 2 Punishing Fire
 2 Didgeridoo
 2 Moraug, Fury of Akoum
 2 Neheb, Dreadhorde Champion
 2 Neheb, the Eternal
 2 Sethron, Hurloon General
-3 Grove of the Burnwillows
 3 Punishing Fire
+3 Grove of the Burnwillows
 3 Neheb, Dreadhorde Champion
 3 Neheb, the Eternal
 3 Sethron, Hurloon General

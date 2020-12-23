@@ -41,7 +41,7 @@
 |                    3|[Luminarch Aspirant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491647)|                    3|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)  |
 |                    3|[Unsettled Mariner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464165) |                    3|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)|
 |                    3|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)    |                     |                                                                                           |
-|                    4|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)    |                     |                                                                                           |
 |                    4|[Luminarch Aspirant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491647)|                     |                                                                                           |
+|                    4|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)    |                     |                                                                                           |
 |                    4|[Unsettled Mariner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464165) |                     |                                                                                           |
 

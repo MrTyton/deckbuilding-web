@@ -22,8 +22,8 @@
 3 Watery Grave
 3 Inquisition of Kozilek
 3 Drown in the Loch
-4 Drown in the Loch
 4 Thieves' Guild Enforcer
+4 Drown in the Loch
 1 Seachrome Coast
 2 Seachrome Coast
 3 Remand
@@ -69,8 +69,8 @@
 1 Vapor Snag
 1 Manamorphose
 1 Stormwing Entity
-2 Stormwing Entity
 2 Manamorphose
+2 Stormwing Entity
 3 Stormwing Entity
 3 Manamorphose
 4 Manamorphose
@@ -101,28 +101,28 @@
 2 Forest
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
+1 Light Up the Stage
 1 Lava Dart
 1 Assault Strobe
 1 Lava Spike
 1 Monastery Swiftspear
-1 Light Up the Stage
 2 Lava Dart
 2 Mountain
+2 Light Up the Stage
 2 Lava Spike
 2 Monastery Swiftspear
-2 Light Up the Stage
-3 Fiery Islet
 3 Lava Dart
+3 Mountain
+3 Light Up the Stage
 3 Lava Spike
 3 Monastery Swiftspear
-3 Light Up the Stage
-3 Mountain
-4 Fiery Islet
+3 Fiery Islet
 4 Lava Dart
+4 Fiery Islet
+4 Light Up the Stage
+4 Mountain
 4 Monastery Swiftspear
 4 Lava Spike
-4 Mountain
-4 Light Up the Stage
 4 Spirebluff Canal
 2 Hallowed Fountain
 1 Flame Slash
@@ -231,8 +231,8 @@
 1 Spellstutter Sprite
 1 Cryptic Command
 1 Psionic Blast
-2 Mutavault
 2 Deliberate
+2 Mutavault
 2 Spellstutter Sprite
 2 Spell Snare
 2 Psionic Blast
