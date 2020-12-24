@@ -1,34 +1,32 @@
 2 Shock
-3 Phoenix of Ash
-1 Spikefield Hazard
 2 Spikefield Hazard
+18 Mountain
+3 Phoenix of Ash
+3 Spikefield Hazard
 1 Akoum Hellhound
 2 Akoum Hellhound
-3 Spikefield Hazard
-1 Claim the Firstborn
 4 Torbran, Thane of Red Fell
 4 Spikefield Hazard
+1 Claim the Firstborn
 2 Claim the Firstborn
 3 Shock
 1 Ox of Agonas
 3 Akoum Hellhound
-4 Shock
-4 Phoenix of Ash
-1 Relic Robber
-2 Relic Robber
 1 Fire Prophecy
 2 Fire Prophecy
+4 Shock
+1 Relic Robber
+2 Relic Robber
 1 Roil Eruption
 2 Roil Eruption
 2 Ox of Agonas
-1 The Akroan War
 3 Relic Robber
+1 The Akroan War
 4 Akoum Hellhound
 1 Furor of the Bitten
 2 Furor of the Bitten
 3 Furor of the Bitten
-1 Scorching Dragonfire
-2 Scorching Dragonfire
+4 Phoenix of Ash
 4 Relic Robber
 3 Roil Eruption
 1 Slaying Fire
@@ -46,11 +44,13 @@
 19 Mountain
 20 Mountain
 1 Chandra, Heart of Fire
-1 Crawling Barrens
 1 Roiling Vortex
 2 Roiling Vortex
+1 Crawling Barrens
 1 Infuriate
 2 Infuriate
+1 Scorching Dragonfire
+2 Scorching Dragonfire
 1 Skyclave Apparition
 1 Seasoned Hallowblade
 1 Plains
@@ -59,20 +59,18 @@
 2 Seasoned Hallowblade
 2 Plains
 2 Needleverge Pathway
-3 Needleverge Pathway
-3 Skyclave Apparition
 3 Plains
+3 Skyclave Apparition
+3 Needleverge Pathway
 4 Plains
 4 Needleverge Pathway
 5 Plains
 6 Plains
 7 Plains
-1 Thrill of Possibility
-2 Thrill of Possibility
 1 Kazuul's Fury
 2 Kazuul's Fury
-1 Shadowspear
-2 Shadowspear
+1 Thrill of Possibility
+2 Thrill of Possibility
 1 Heraldic Banner
 2 Heraldic Banner
 1 Blisterspit Gremlin
@@ -87,8 +85,8 @@
 2 Thundering Rebuke
 2 Song-Mad Treachery
 2 Purphoros's Intervention
-3 Scorching Dragonfire
 3 Purphoros's Intervention
+3 Scorching Dragonfire
 3 Shatterskull Charger
 4 Scorching Dragonfire
 1 Flame Spill
@@ -98,18 +96,18 @@
 3 Weaselback Redcap
 4 Weaselback Redcap
 1 Temple of Triumph
+1 Skyclave Cleric
 1 Selfless Savior
 1 Winota, Joiner of Forces
 1 Brightclimb Pathway
 1 Haktos the Unscarred
-1 Skyclave Cleric
 1 Kargan Warleader
 1 Kenrith, the Returned King
 2 Temple of Triumph
+2 Skyclave Cleric
 2 Kargan Warleader
 2 Winota, Joiner of Forces
 2 Brightclimb Pathway
-2 Skyclave Cleric
 2 Selfless Savior
 3 Temple of Triumph
 3 Kargan Warleader
@@ -153,14 +151,14 @@
 3 Of One Mind
 3 Riverglide Pathway
 3 Island
-4 Temple of Epiphany
 4 Riverglide Pathway
-4 Sprite Dragon
 4 Island
+4 Temple of Epiphany
+4 Sprite Dragon
 5 Island
+1 Maul of the Skyclaves
 1 Archpriest of Iona
 1 Fabled Passage
-1 Maul of the Skyclaves
 1 Luminarch Aspirant
 1 Legion Angel
 2 Maul of the Skyclaves
@@ -170,9 +168,9 @@
 3 Maul of the Skyclaves
 3 Archpriest of Iona
 3 Luminarch Aspirant
+4 Skyclave Apparition
 4 Seasoned Hallowblade
 4 Archpriest of Iona
-4 Skyclave Apparition
 4 Maul of the Skyclaves
 4 Luminarch Aspirant
 8 Plains
