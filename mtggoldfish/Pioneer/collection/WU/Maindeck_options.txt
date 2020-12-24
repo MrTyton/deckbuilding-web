@@ -1,4 +1,3 @@
-7 Island
 1 Thraben Inspector
 1 Agent of Treachery
 1 Reflector Mage
@@ -14,16 +13,16 @@
 2 Agent of Treachery
 2 Isolate
 2 Yorion, Sky Nomad
-2 Reflector Mage
 2 Skyclave Apparition
 2 Elite Guardmage
+2 Reflector Mage
 3 Charming Prince
 3 Thraben Inspector
 3 Glass Casket
 3 Elite Guardmage
 3 Reflector Mage
-3 Temple of Enlightenment
 3 Skyclave Apparition
+3 Temple of Enlightenment
 3 Yorion, Sky Nomad
 4 Glass Casket
 4 Skyclave Apparition
@@ -36,24 +35,25 @@
 5 Plains
 6 Plains
 7 Plains
+2 Elspeth Conquers Death
 3 Shark Typhoon
 2 Field of Ruin
 8 Plains
 3 Absorb
 3 Teferi, Hero of Dominaria
 4 Skyclave Cleric
-3 Dig Through Time
-3 Censor
 3 Isolate
 4 Isolate
 8 Island
+3 Censor
+3 Dig Through Time
 1 Omen of the Sea
 2 Omen of the Sea
+1 Settle the Wreckage
+9 Island
+3 Irrigated Farmland
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
-1 Settle the Wreckage
-3 Irrigated Farmland
-9 Island
 3 Omen of the Sea
 4 Omen of the Sea
 4 Shark Typhoon
@@ -68,9 +68,9 @@
 2 Spell Pierce
 1 Commit/Memory
 1 Sinister Sabotage
-3 Fabled Passage
 1 Cast Out
 1 Sphinx's Revelation
+3 Fabled Passage
 2 Thassa, Deep-Dwelling
 1 Detention Sphere
 1 Scavenger Grounds
@@ -86,8 +86,6 @@
 2 Whirlwind Denial
 3 Jwari Disruption
 4 Jwari Disruption
-3 Narset, Parter of Veils
-4 Fabled Passage
 1 Sea Gate Restoration
 1 Forest
 1 Breeding Pool
@@ -97,8 +95,8 @@
 2 Breeding Pool
 2 Hinterland Harbor
 3 Breeding Pool
-3 Uro, Titan of Nature's Wrath
 3 Hinterland Harbor
+3 Uro, Titan of Nature's Wrath
 4 Breeding Pool
 1 Ondu Inversion
 1 Syncopate
@@ -109,12 +107,13 @@
 1 Last Breath
 2 Last Breath
 2 Syncopate
+3 Narset, Parter of Veils
 1 Blast Zone
 2 Blast Zone
 2 Horribly Awry
 3 Horribly Awry
 4 Irrigated Farmland
-1 Neutralize
+4 Fabled Passage
 1 Faith's Fetters
 2 Faith's Fetters
 1 Niambi, Esteemed Speaker
@@ -137,6 +136,15 @@
 4 Censor
 4 Teferi, Hero of Dominaria
 1 Omen of the Sun
+1 Neutralize
+1 Emeria's Call
+1 Gideon of the Trials
+2 Gideon of the Trials
+1 Thassa's Intervention
+1 Seal Away
+2 Seal Away
+1 Dream Trawler
+4 Narset, Parter of Veils
 1 Isolated Chapel
 1 Watery Grave
 2 Isolated Chapel
@@ -145,38 +153,11 @@
 3 Watery Grave
 2 Neutralize
 3 Neutralize
-1 Emeria's Call
-1 Gideon of the Trials
-2 Gideon of the Trials
-1 Prairie Stream
-1 Castle Locthwain
-1 Eliminate
-1 Declaration in Stone
-1 Ashiok, Nightmare Muse
-1 Swamp
-1 Dragonlord Ojutai
-2 Eliminate
-2 Declaration in Stone
-2 Ashiok, Nightmare Muse
-2 Prairie Stream
-3 Ashiok, Nightmare Muse
-3 Declaration in Stone
-4 Watery Grave
-4 Neutralize
-1 Thassa's Intervention
-1 Seal Away
-2 Seal Away
-1 Fatal Push
-2 Fatal Push
-4 Narset, Parter of Veils
-1 Dream Trawler
 1 Tamiyo, Collector of Tales
 2 Solemn Simulacrum
 2 Detention Sphere
 1 Brazen Borrower
 2 Omen of the Sun
-1 Thought Erasure
-2 Thought Erasure
 1 Teferi, Master of Time
 1 Emergency Powers
 1 Elspeth, Sun's Champion
@@ -185,6 +166,24 @@
 3 Field of Ruin
 2 Dream Trawler
 4 Uro, Titan of Nature's Wrath
+1 Prairie Stream
+1 Thought Erasure
+1 Eliminate
+1 Declaration in Stone
+1 Ashiok, Nightmare Muse
+1 Swamp
+1 Dragonlord Ojutai
+1 Castle Locthwain
+2 Thought Erasure
+2 Eliminate
+2 Declaration in Stone
+2 Ashiok, Nightmare Muse
+2 Prairie Stream
+3 Ashiok, Nightmare Muse
+3 Declaration in Stone
+4 Watery Grave
+4 Neutralize
+1 Fatal Push
 1 Drowned Catacomb
 1 Thing in the Ice
 1 Heartless Act
@@ -192,10 +191,11 @@
 2 Thing in the Ice
 2 Drowned Catacomb
 2 Godless Shrine
+2 Fatal Push
 2 Heartless Act
 3 Thing in the Ice
-3 Drowned Catacomb
 3 Godless Shrine
+3 Drowned Catacomb
 3 Heartless Act
 4 Heartless Act
 4 Thing in the Ice

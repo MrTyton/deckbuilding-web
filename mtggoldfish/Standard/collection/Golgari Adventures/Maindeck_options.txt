@@ -35,7 +35,6 @@
 3 Tangled Florahedron
 1 Lotus Cobra
 2 Lotus Cobra
-4 Eliminate
 2 Garruk, Cursed Huntsman
 3 Lotus Cobra
 3 Heartless Act
@@ -43,18 +42,19 @@
 4 Lotus Cobra
 4 Zagoth Triome
 4 Heartless Act
+4 Eliminate
 1 Ilysian Caryatid
 2 Turntimber Symbiosis
 2 Ilysian Caryatid
 3 Vivien, Monsters' Advocate
 4 Tangled Florahedron
-1 Mythos of Nethroi
-1 Brightclimb Pathway
 1 Plains
+1 Brightclimb Pathway
+1 Mythos of Nethroi
 1 Branchloft Pathway
+2 Brightclimb Pathway
 2 Thrashing Brontodon
 2 Mythos of Nethroi
-2 Brightclimb Pathway
 2 Branchloft Pathway
 3 Thrashing Brontodon
 3 Branchloft Pathway
@@ -72,34 +72,34 @@
 2 Agonizing Remorse
 1 Jolrael, Mwonvuli Recluse
 2 Jolrael, Mwonvuli Recluse
-3 Ilysian Caryatid
 1 Humble Naturalist
 2 Humble Naturalist
-3 Humble Naturalist
 3 Brightclimb Pathway
+3 Humble Naturalist
+3 Ilysian Caryatid
 1 Scourge of the Skyclaves
 1 Skyclave Shade
 2 Skyclave Shade
 3 Order of Midnight
-4 Branchloft Pathway
 1 Elspeth's Nightmare
-1 Mire's Grasp
 1 Dead Weight
+1 Mire's Grasp
 1 Lurrus of the Dream-Den
 1 Hateful Eidolon
-2 Lurrus of the Dream-Den
 2 Elspeth's Nightmare
-2 Dead Weight
 2 Mire's Grasp
+2 Dead Weight
+2 Lurrus of the Dream-Den
 2 Hateful Eidolon
 3 Mire's Grasp
-3 Dead Weight
 3 Elspeth's Nightmare
 3 Hateful Eidolon
-4 Dead Weight
+3 Dead Weight
 4 Elspeth's Nightmare
 4 Mire's Grasp
+4 Dead Weight
 4 Hateful Eidolon
+4 Branchloft Pathway
 1 Extinction Event
 1 Epic Downfall
 1 Necromentia
@@ -111,8 +111,8 @@
 2 Necromentia
 2 Stonecoil Serpent
 2 Flaxen Intruder
-3 Epic Downfall
 3 Flaxen Intruder
+3 Epic Downfall
 4 Flaxen Intruder
 9 Swamp
 1 Inscription of Abundance

@@ -16,8 +16,8 @@
 4 Shark Typhoon
 1 Steam Vents
 1 Sulfur Falls
-2 Steam Vents
 2 Sulfur Falls
+2 Steam Vents
 1 Castle Ardenvale
 1 Plains
 2 Plains
@@ -102,13 +102,13 @@
 2 Negate
 2 Vraska's Contempt
 2 Castle Locthwain
-3 Censor
 3 Fetid Pools
 3 Void Shatter
 3 Vraska's Contempt
+3 Censor
 4 Eliminate
-4 Void Shatter
 4 Censor
+4 Void Shatter
 4 Vraska's Contempt
 1 Mountain
 1 Valakut Awakening
@@ -121,8 +121,8 @@
 1 Blast Zone
 1 Scavenger Grounds
 1 Chandra, Torch of Defiance
-1 Golos, Tireless Pilgrim
 1 Chandra, Awakened Inferno
+1 Golos, Tireless Pilgrim
 1 Cascading Cataracts
 1 Thought-Knot Seer
 1 Ugin, the Spirit Dragon
@@ -134,10 +134,10 @@
 2 Irencrag Feat
 2 Vessel of Volatility
 2 Cleansing Wildfire
+2 Darksteel Citadel
 2 Mazemind Tome
 2 Chandra, Torch of Defiance
 2 Cascading Cataracts
-2 Darksteel Citadel
 2 Thought-Knot Seer
 2 Ugin, the Spirit Dragon
 2 Battlefield Forge
@@ -157,10 +157,10 @@
 3 Ugin, the Spirit Dragon
 3 Mountain
 4 Chandra, Torch of Defiance
+4 Anger of the Gods
 4 Cleansing Wildfire
 4 Cascading Cataracts
 4 Valakut Awakening
-4 Anger of the Gods
 4 Bonecrusher Giant
 4 Darksteel Citadel
 4 Ramunap Ruins
@@ -169,13 +169,13 @@
 4 Ugin, the Spirit Dragon
 1 Courser of Kruphix
 1 Branchloft Pathway
-1 Baffling End
 1 Sigil of the Empty Throne
 1 Setessan Champion
 1 Banishing Light
 1 Calix, Destiny's Hand
 1 Sunpetal Grove
 1 Gideon's Intervention
+1 Baffling End
 1 Eidolon of Blossoms
 1 Sphere of Safety
 1 Temple Garden
@@ -188,11 +188,11 @@
 1 Herald of the Pantheon
 2 Branchloft Pathway
 2 Courser of Kruphix
-2 Baffling End
 2 Sunpetal Grove
 2 Calix, Destiny's Hand
 2 Setessan Champion
 2 Banishing Light
+2 Baffling End
 2 Eidolon of Blossoms
 2 Sigil of the Empty Throne
 2 Forest

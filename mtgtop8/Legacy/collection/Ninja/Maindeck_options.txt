@@ -1,15 +1,14 @@
 3 Underground Sea
+1 Force of Negation
 1 Island
 1 Swamp
 2 Swamp
 2 Island
-1 Force of Negation
 2 Force of Negation
 3 Island
+3 Swamp
 4 Island
 1 Eliminate
-3 Swamp
-3 Fatal Push
 1 Misty Rainforest
 1 Verdant Catacombs
 1 Oko, Thief of Crowns
@@ -24,28 +23,8 @@
 3 Misty Rainforest
 3 Oko, Thief of Crowns
 1 Narset, Parter of Veils
-5 Island
-1 Scalding Tarn
-2 Scalding Tarn
+3 Fatal Push
 1 Cling to Dust
-3 Baleful Strix
-1 Volcanic Island
-1 Preordain
-1 Daretti, Ingenious Iconoclast
-1 Dreadhorde Arcanist
-1 Badlands
-2 Dreadhorde Arcanist
-2 Volcanic Island
-2 Bloodstained Mire
-3 Force of Negation
-3 Dreadhorde Arcanist
-1 Emrakul, the Aeons Torn
-1 Show and Tell
-1 Ancient Tomb
-2 Show and Tell
-2 Emrakul, the Aeons Torn
-3 Show and Tell
-3 Emrakul, the Aeons Torn
 1 Murderous Cut
 4 Snow-Covered Island
 1 Flooded Strand
@@ -63,8 +42,12 @@
 2 Flooded Strand
 3 Swords to Plowshares
 4 Swords to Plowshares
+3 Baleful Strix
+5 Island
+1 Scalding Tarn
 1 Mothdust Changeling
 1 Ninja of the Deep Hours
+2 Scalding Tarn
 2 Brazen Borrower
 2 Mothdust Changeling
 2 Ninja of the Deep Hours

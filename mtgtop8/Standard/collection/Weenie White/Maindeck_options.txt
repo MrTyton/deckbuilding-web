@@ -32,6 +32,8 @@
 3 Hushbringer
 4 Hushbringer
 1 Temple of Triumph
+1 Sea Gate Banneret
+1 Kargan Warleader
 1 Winota, Joiner of Forces
 1 Kor Blademaster
 1 Goma Fada Vanguard
@@ -41,30 +43,28 @@
 1 Embercleave
 1 Expedition Champion
 1 Haktos the Unscarred
-1 Sea Gate Banneret
-1 Kargan Warleader
 2 Embercleave
 2 Temple of Triumph
-2 Winota, Joiner of Forces
+2 Sea Gate Banneret
 2 Kargan Warleader
+2 Winota, Joiner of Forces
 2 Kor Blademaster
 2 Haktos the Unscarred
-2 Sea Gate Banneret
 2 Fireblade Charger
 2 Nahiri, Heir of the Ancients
 2 Mountain
 2 Goma Fada Vanguard
 2 Expedition Champion
+3 Sea Gate Banneret
 3 Mountain
+3 Kargan Warleader
 3 Winota, Joiner of Forces
 3 Expedition Champion
 3 Kor Blademaster
-3 Kargan Warleader
-3 Sea Gate Banneret
 3 Goma Fada Vanguard
 3 Fireblade Charger
-4 Mountain
 4 Sea Gate Banneret
+4 Mountain
 4 Kargan Warleader
 4 Fireblade Charger
 4 Goma Fada Vanguard
@@ -86,17 +86,17 @@
 2 All That Glitters
 3 All That Glitters
 3 Kabira Takedown
+1 Fight as One
+1 Archon of Sun's Grace
+2 Fight as One
+2 Banishing Light
+2 Archon of Sun's Grace
 1 Akiri, Fearless Voyager
 2 Akiri, Fearless Voyager
 1 Angel of Destiny
 1 Baneslayer Angel
 2 Baneslayer Angel
 2 Angel of Destiny
-1 Archon of Sun's Grace
-1 Fight as One
-2 Banishing Light
-2 Archon of Sun's Grace
-2 Fight as One
 1 Angelic Ascension
 2 Angelic Ascension
 3 Angelic Ascension
@@ -120,29 +120,29 @@
 2 Heliod's Punishment
 3 Pacifism
 4 Heliod, Sun-Crowned
-1 Basri's Acolyte
-1 Garrison Cat
 1 Fearless Fledgling
+1 Garrison Cat
 1 Daybreak Charger
+1 Basri's Acolyte
 1 Idyllic Grange
 1 Daybreak Chimera
 1 Sunlit Hoplite
 1 Eidolon of Inspiration
-2 Basri's Acolyte
 2 Garrison Cat
 2 Eidolon of Inspiration
 2 Daybreak Charger
 2 Daybreak Chimera
+2 Basri's Acolyte
 2 Sunlit Hoplite
 3 Garrison Cat
-3 Basri's Acolyte
 3 Daybreak Chimera
 3 Sunlit Hoplite
 3 Daybreak Charger
-4 Basri's Acolyte
+3 Basri's Acolyte
 4 Garrison Cat
 4 Daybreak Chimera
 4 Daybreak Charger
+4 Basri's Acolyte
 4 Sunlit Hoplite
 1 Basri Ket
 4 Glass Casket

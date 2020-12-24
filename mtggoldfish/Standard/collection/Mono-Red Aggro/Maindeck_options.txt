@@ -11,36 +11,36 @@
 2 Claim the Firstborn
 3 Shock
 1 Ox of Agonas
-1 The Akroan War
 3 Akoum Hellhound
-1 Fire Prophecy
-2 Fire Prophecy
 4 Shock
-2 The Akroan War
-1 Kargan Intimidator
-2 Kargan Intimidator
 4 Phoenix of Ash
-1 Roil Eruption
-2 Roil Eruption
 1 Relic Robber
 2 Relic Robber
+1 Fire Prophecy
+2 Fire Prophecy
+1 Roil Eruption
+2 Roil Eruption
 2 Ox of Agonas
-3 Kargan Intimidator
+1 The Akroan War
+3 Relic Robber
 4 Akoum Hellhound
 1 Furor of the Bitten
 2 Furor of the Bitten
 3 Furor of the Bitten
 1 Scorching Dragonfire
 2 Scorching Dragonfire
-3 Relic Robber
 4 Relic Robber
 3 Roil Eruption
 1 Slaying Fire
 2 Slaying Fire
 3 Slaying Fire
 4 Slaying Fire
+1 Kargan Intimidator
+2 Kargan Intimidator
 4 Furor of the Bitten
+2 The Akroan War
 4 Roil Eruption
+3 Kargan Intimidator
 1 Weaselback Redcap
 2 Weaselback Redcap
 19 Mountain
@@ -51,15 +51,30 @@
 2 Roiling Vortex
 1 Infuriate
 2 Infuriate
+1 Skyclave Apparition
+1 Seasoned Hallowblade
+1 Plains
+1 Needleverge Pathway
+2 Skyclave Apparition
+2 Seasoned Hallowblade
+2 Plains
+2 Needleverge Pathway
+3 Needleverge Pathway
+3 Skyclave Apparition
+3 Plains
+4 Plains
+4 Needleverge Pathway
+5 Plains
+6 Plains
+7 Plains
 1 Thrill of Possibility
 2 Thrill of Possibility
 1 Kazuul's Fury
 2 Kazuul's Fury
-1 Heraldic Banner
-2 Heraldic Banner
 1 Shadowspear
 2 Shadowspear
-3 The Akroan War
+1 Heraldic Banner
+2 Heraldic Banner
 1 Blisterspit Gremlin
 2 Blisterspit Gremlin
 3 Infuriate
@@ -68,8 +83,8 @@
 1 Shatterskull Charger
 1 Purphoros's Intervention
 1 Song-Mad Treachery
-2 Thundering Rebuke
 2 Shatterskull Charger
+2 Thundering Rebuke
 2 Song-Mad Treachery
 2 Purphoros's Intervention
 3 Scorching Dragonfire
@@ -82,6 +97,31 @@
 4 Flame Spill
 3 Weaselback Redcap
 4 Weaselback Redcap
+1 Temple of Triumph
+1 Selfless Savior
+1 Winota, Joiner of Forces
+1 Brightclimb Pathway
+1 Haktos the Unscarred
+1 Skyclave Cleric
+1 Kargan Warleader
+1 Kenrith, the Returned King
+2 Temple of Triumph
+2 Kargan Warleader
+2 Winota, Joiner of Forces
+2 Brightclimb Pathway
+2 Skyclave Cleric
+2 Selfless Savior
+3 Temple of Triumph
+3 Kargan Warleader
+3 Brightclimb Pathway
+3 Winota, Joiner of Forces
+3 Selfless Savior
+3 Skyclave Cleric
+4 Brightclimb Pathway
+4 Skyclave Cleric
+4 Temple of Triumph
+4 Selfless Savior
+4 Winota, Joiner of Forces
 1 Bolt Hound
 2 Crawling Barrens
 2 Bolt Hound
@@ -91,17 +131,17 @@
 2 Goblin Arsonist
 3 Goblin Arsonist
 4 Goblin Arsonist
-1 Brazen Borrower
-1 Ketria Triome
 1 Temple of Epiphany
+1 Brazen Borrower
 1 Riverglide Pathway
 1 Island
+1 Ketria Triome
 1 Sprite Dragon
 1 Whirlwind Denial
 1 Of One Mind
 2 Temple of Epiphany
-2 Brazen Borrower
 2 Of One Mind
+2 Brazen Borrower
 2 Riverglide Pathway
 2 Island
 2 Sprite Dragon
@@ -118,6 +158,26 @@
 4 Sprite Dragon
 4 Island
 5 Island
+1 Archpriest of Iona
+1 Fabled Passage
+1 Maul of the Skyclaves
+1 Luminarch Aspirant
+1 Legion Angel
+2 Maul of the Skyclaves
+2 Luminarch Aspirant
+2 Archpriest of Iona
+3 Seasoned Hallowblade
+3 Maul of the Skyclaves
+3 Archpriest of Iona
+3 Luminarch Aspirant
+4 Seasoned Hallowblade
+4 Archpriest of Iona
+4 Skyclave Apparition
+4 Maul of the Skyclaves
+4 Luminarch Aspirant
+8 Plains
+9 Plains
+10 Plains
 1 Embereth Shieldbreaker
 1 Fiery Emancipation
 21 Mountain

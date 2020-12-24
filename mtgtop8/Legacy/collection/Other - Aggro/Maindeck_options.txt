@@ -1,11 +1,11 @@
+1 Path to Exile
 1 Gaddock Teeg
 1 Field of the Dead
-1 Blast Zone
 1 Dryad of the Ilysian Grove
+1 Vesuva
 1 Titania, Protector of Argoth
 1 Yasharn, Implacable Earth
 1 Bojuka Bog
-1 Scute Swarm
 2 Field of the Dead
 2 Dryad of the Ilysian Grove
 2 Elvish Reclaimer
@@ -31,9 +31,9 @@
 2 Birds of Paradise
 3 Birds of Paradise
 2 Scryb Ranger
-1 True-Name Nemesis
 1 Brainstorm
 1 Plague Engineer
+1 True-Name Nemesis
 2 Brainstorm
 3 Brainstorm
 4 Brainstorm
@@ -131,17 +131,17 @@
 2 Force of Will
 3 Force of Will
 4 Force of Will
+1 Nighthawk Scavenger
 1 Eliminate
 1 Spell Pierce
-1 Scalding Tarn
 1 Unearth
+1 Scalding Tarn
 1 Thieves' Guild Enforcer
-1 Jace, the Mind Sculptor
-1 Fatal Push
-1 Nighthawk Scavenger
-1 Rankle, Master of Pranks
-1 Baleful Strix
 1 Soaring Thought-Thief
+1 Jace, the Mind Sculptor
+1 Rankle, Master of Pranks
+1 Fatal Push
+1 Baleful Strix
 1 Underground Sea
 1 Ponder
 1 Snow-Covered Island
@@ -149,28 +149,28 @@
 1 Anowon, the Ruin Thief
 1 Polluted Delta
 1 Snow-Covered Swamp
+2 Nighthawk Scavenger
 2 Scalding Tarn
 2 Eliminate
 2 Thieves' Guild Enforcer
-2 Nighthawk Scavenger
+2 Soaring Thought-Thief
 2 Ponder
 2 Polluted Delta
 2 Fatal Push
 2 Baleful Strix
-2 Soaring Thought-Thief
 2 Snow-Covered Swamp
 2 Snow-Covered Island
 2 True-Name Nemesis
 2 Underground Sea
 3 Underground Sea
-3 Baleful Strix
-3 Scalding Tarn
 3 Nighthawk Scavenger
+3 Baleful Strix
+3 Soaring Thought-Thief
+3 Scalding Tarn
 3 Snow-Covered Island
 3 Polluted Delta
 3 Thieves' Guild Enforcer
 3 Ponder
-3 Soaring Thought-Thief
 4 Scalding Tarn
 4 Soaring Thought-Thief
 4 Baleful Strix
@@ -201,12 +201,12 @@
 4 Elvish Spirit Guide
 1 Sunbaked Canyon
 1 Embercleave
+1 Winota, Joiner of Forces
 1 Legion Warboss
 1 Goblin Rabblemaster
 1 Talisman of Conviction
 1 Battlefield Forge
 1 Godo, Bandit Warlord
-1 Winota, Joiner of Forces
 1 Angrath's Marauders
 2 Goblin Rabblemaster
 2 Legion Warboss
@@ -226,8 +226,8 @@
 4 Winota, Joiner of Forces
 4 Angrath's Marauders
 1 Lightning Bolt
-1 Klothys, God of Destiny
 1 Bonecrusher Giant
+1 Klothys, God of Destiny
 1 Bloodbraid Elf
 1 Tireless Tracker
 1 Prismatic Vista
@@ -235,8 +235,8 @@
 1 Pillage
 2 Magus of the Moon
 2 Lightning Bolt
-2 Klothys, God of Destiny
 2 Bonecrusher Giant
+2 Klothys, God of Destiny
 2 Tireless Tracker
 2 Prismatic Vista
 2 Ramunap Excavator
