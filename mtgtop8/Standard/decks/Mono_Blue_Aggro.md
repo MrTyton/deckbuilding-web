@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Mono%20Blue%20Aggro/Mono%20Blue%20Aggro.txt)
 #### [Export Arena List](../collection/Mono%20Blue%20Aggro/Mono%20Blue%20Aggro_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Arcanist's%20Owl%0A1%09Beyeen%20Veil%0A4%09Brazen%20Borrower%0A3%09Castle%20Vantress%0A4%09Corridor%20Monitor%0A4%09Gadwick,%20the%20Wizened%0A2%09Inscription%20of%20Insight%0A17%09Island%0A3%09Jwari%20Disruption%0A2%09Midnight%20Clock%0A2%09Nyx%20Lotus%0A4%09Omen%20of%20the%20Sea%0A3%09Opt%0A1%09Stern%20Dismissal%0A3%09Thassa's%20Intervention%0A2%09Thassa's%20Oracle%0A2%09Thassa,%20Deep-Dwelling&deckside=3%09Barrin,%20Tolarian%20Archmage%0A3%09Brazen%20Borrower%0A2%09Mystical%20Dispute%0A1%09Negate%0A2%09Shark%20Typhoon%0A2%09Stern%20Dismissal%0A2%09Thassa,%20Deep-Dwelling)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Arcanist's%20Owl%0A1%09Beyeen%20Veil%0A4%09Brazen%20Borrower%0A3%09Castle%20Vantress%0A4%09Corridor%20Monitor%0A4%09Gadwick,%20the%20Wizened%0A2%09Inscription%20of%20Insight%0A17%09Island%0A3%09Jwari%20Disruption%0A2%09Midnight%20Clock%0A2%09Nyx%20Lotus%0A4%09Omen%20of%20the%20Sea%0A3%09Opt%0A1%09Stern%20Dismissal%0A3%09Thassa's%20Intervention%0A2%09Thassa's%20Oracle%0A2%09Thassa,%20Deep-Dwelling&deckside=2%09Confounding%20Conundrum%0A3%09Frost%20Breath%0A4%09Into%20the%20Roil%0A3%09Mystical%20Dispute%0A3%09Stern%20Dismissal)
 # Maindeck
 
 |                                       Artifact (4)                                        |                                          Creature (19)                                           |                                      Enchantment (4)                                       |                                           Instant (11)                                           |                                         Land (20)                                          |                                            Sorcery (2)                                            |
@@ -17,34 +17,10 @@
 
 # Sideboard
 
-|                                             Creature (8)                                             |                                     Enchantment (2)                                      |                                         Instant (5)                                         |
-|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-|3 [Barrin, Tolarian Archmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488247)|2 [Shark Typhoon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479587)|2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
-|3 [Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)          |                                                                                          |1 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |
-|2 [Thassa, Deep-Dwelling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476322)    |                                                                                          |2 [Stern Dismissal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476319) |
-
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
-|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Sea Gate Restoration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491706)|                    1|[Frost Breath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220284)         |
-|                    1|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)      |                    1|[Confounding Conundrum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495607)|
-|                    1|[Glasspool Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491688)     |                    1|[Into the Roil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389560)        |
-|                    1|[Sublime Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488254)    |                    2|[Confounding Conundrum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495607)|
-|                    2|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)      |                    2|[Into the Roil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389560)        |
-|                    2|[Sea Gate Restoration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491706)|                    2|[Frost Breath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220284)         |
-|                    2|[Glasspool Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491688)     |                    3|[Into the Roil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389560)        |
-|                    2|[Sublime Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488254)    |                    3|[Stern Dismissal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476319)      |
-|                    3|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)      |                    3|[Frost Breath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220284)         |
-|                    3|[Sea Gate Restoration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491706)|                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)     |
-|                    3|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)     |                    4|[Into the Roil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389560)        |
-|                    3|[Sublime Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488254)    |                     |                                                                                                |
-|                    3|[Nyx Lotus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476486)           |                     |                                                                                                |
-|                    4|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)      |                     |                                                                                                |
-|                    4|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)     |                     |                                                                                                |
-|                    4|[Sea Gate Restoration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491706)|                     |                                                                                                |
-|                    4|[Arcanist's Owl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473168)      |                     |                                                                                                |
-|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                 |                     |                                                                                                |
-|                    4|[Nyx Lotus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476486)           |                     |                                                                                                |
+|                                         Enchantment (2)                                          |                                        Instant (13)                                         |
+|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+|2 [Confounding Conundrum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495607)|3 [Frost Breath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220284)    |
+|                                                                                                  |4 [Into the Roil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389560)   |
+|                                                                                                  |3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
+|                                                                                                  |3 [Stern Dismissal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476319) |
 

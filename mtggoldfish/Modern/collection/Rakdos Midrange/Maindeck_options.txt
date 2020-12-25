@@ -1,15 +1,16 @@
-3 Polluted Delta
-4 Polluted Delta
-1 Abrade
+2 Marsh Flats
+3 Marsh Flats
+4 Marsh Flats
 1 Dark Confidant
-1 Bloodchief's Thirst
 4 Lightning Bolt
+1 Bloodchief's Thirst
+2 Abrade
+1 Cling to Dust
+2 Dark Confidant
 1 Prismatic Vista
 2 Prismatic Vista
-2 Dark Confidant
 1 Unearth
 2 Unearth
-2 Abrade
 1 Lightning Skelemental
 2 Lightning Skelemental
 3 Prismatic Vista
@@ -17,6 +18,7 @@
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 3 Bonecrusher Giant
+4 Bonecrusher Giant
 1 Batterskull
 1 Godless Shrine
 1 Lingering Souls
@@ -26,35 +28,28 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-4 Bonecrusher Giant
 1 Sword of Feast and Famine
-1 Sacred Foundry
-1 Cling to Dust
 1 Embercleave
+1 Sacred Foundry
 1 Shadowspear
 1 Graven Cairns
-1 Smiting Helix
-2 Bloodchief's Thirst
 1 Terminate
-1 Arid Mesa
 1 Sunbaked Canyon
-1 Castle Embereth
+1 Smiting Helix
+1 Arid Mesa
 2 Terminate
+1 Castle Embereth
 1 Needleverge Pathway
+2 Bloodchief's Thirst
 1 Rankle, Master of Pranks
-2 Rankle, Master of Pranks
 2 Arid Mesa
+2 Rankle, Master of Pranks
 1 Silent Clearing
-4 Fatal Push
 1 Kolaghan's Command
-1 Kaya's Guile
-1 Sword of Fire and Ice
-3 Lingering Souls
 1 Bedevil
 1 Lavaclaw Reaches
 1 Inspiring Vantage
 1 Hagra Mauling
-2 Sacred Foundry
 1 Urborg, Tomb of Yawgmoth
 1 Brightclimb Pathway
 1 Angrath's Rampage
@@ -65,17 +60,41 @@
 1 Mazemind Tome
 1 Castle Locthwain
 1 Concealed Courtyard
+1 Kaya's Guile
 1 Bedlam Reveler
+1 Sword of Fire and Ice
 1 Skyclave Apparition
 1 Shambling Vent
 2 Concealed Courtyard
-2 Kaya, Orzhov Usurper
 2 Godless Shrine
+2 Kaya, Orzhov Usurper
 2 Skyclave Apparition
 2 Batterskull
+3 Lingering Souls
 4 Lingering Souls
-2 Cling to Dust
-4 Prismatic Vista
+1 Wooded Foothills
+1 Tarmogoyf
+1 Forest
+1 Verdant Catacombs
+1 Bloodbraid Elf
+1 Stomping Ground
+1 Abrupt Decay
+1 Wrenn and Six
+2 Abrupt Decay
+2 Verdant Catacombs
+2 Wooded Foothills
+2 Tarmogoyf
+2 Forest
+2 Bloodbraid Elf
+2 Wrenn and Six
+3 Verdant Catacombs
+3 Tarmogoyf
+3 Wooded Foothills
+4 Tarmogoyf
+4 Wooded Foothills
+4 Verdant Catacombs
+4 Fatal Push
+4 Kroxa, Titan of Death's Hunger
 1 Chandra, Torch of Defiance
 1 Pack Rat
 2 Pack Rat
@@ -84,6 +103,5 @@
 4 Dark Confidant
 5 Swamp
 6 Swamp
-1 Collective Brutality
-2 Collective Brutality
-4 Blood Crypt
+2 Cling to Dust
+4 Prismatic Vista

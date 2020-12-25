@@ -1,17 +1,12 @@
-2 Cling to Dust
-3 Clearwater Pathway
-3 Cling to Dust
-4 Clearwater Pathway
-2 Eliminate
-3 Eliminate
-4 Narset, Parter of Veils
+4 Drowned Catacomb
 1 Castle Vantress
-1 Censor
-2 Censor
-4 Dig Through Time
+1 Shark Typhoon
+2 Shark Typhoon
 1 Castle Locthwain
 1 Field of Ruin
 2 Field of Ruin
+3 Dig Through Time
+4 Narset, Parter of Veils
 3 Shark Typhoon
 4 Shark Typhoon
 1 Steam Vents
@@ -66,9 +61,9 @@
 3 Plains
 3 Omen of the Sea
 3 Steam Vents
-3 Raugrin Triome
 3 The Birth of Meletis
 3 Agent of Treachery
+3 Raugrin Triome
 3 Hallowed Fountain
 3 Chained to the Rocks
 3 Teferi, Time Raveler
@@ -85,6 +80,8 @@
 4 Steam Vents
 4 Sacred Foundry
 4 Chained to the Rocks
+2 Eliminate
+3 Eliminate
 1 The Scarab God
 1 Hero's Downfall
 1 Languish
@@ -98,9 +95,11 @@
 1 Vraska's Contempt
 1 Void Shatter
 1 Negate
+1 Censor
 2 Void Shatter
 2 Negate
 2 Vraska's Contempt
+2 Censor
 2 Castle Locthwain
 3 Fetid Pools
 3 Void Shatter
@@ -109,6 +108,7 @@
 4 Eliminate
 4 Censor
 4 Void Shatter
+4 Dig Through Time
 4 Vraska's Contempt
 1 Mountain
 1 Valakut Awakening
@@ -212,9 +212,9 @@
 3 Forest
 3 Sphere of Safety
 3 Eidolon of Blossoms
-3 Wolfwillow Haven
 3 Temple of Plenty
 3 Herald of the Pantheon
+3 Wolfwillow Haven
 4 Banishing Light
 4 Temple of Plenty
 4 Eidolon of Blossoms
@@ -225,18 +225,18 @@
 1 Dragonskull Summit
 1 Kolaghan's Command
 1 Collective Brutality
+1 Davriel, Rogue Shadowmage
 1 Blood Crypt
 1 Nicol Bolas, the Ravager
 1 Kroxa, Titan of Death's Hunger
-1 Davriel, Rogue Shadowmage
 1 Thought Erasure
 1 Liliana, Waker of the Dead
 2 Collective Brutality
+2 Davriel, Rogue Shadowmage
 2 Liliana, Waker of the Dead
 2 Kolaghan's Command
 2 Blood Crypt
 2 Nicol Bolas, the Ravager
-2 Davriel, Rogue Shadowmage
 2 Kroxa, Titan of Death's Hunger
 2 Thought Erasure
 2 Dragonskull Summit
@@ -250,9 +250,3 @@
 4 Liliana, Waker of the Dead
 4 Nicol Bolas, the Ravager
 4 Davriel, Rogue Shadowmage
-1 Brazen Borrower
-1 Legion's End
-1 Choked Estuary
-1 God-Eternal Kefnet
-2 Choked Estuary
-5 Island

@@ -1,15 +1,15 @@
 3 Silent Clearing
-4 Silent Clearing
 1 Sunbaked Canyon
+4 Silent Clearing
 2 Horizon Canopy
-1 Snow-Covered Plains
 11 Plains
+1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
+12 Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains
-12 Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
@@ -23,8 +23,8 @@
 2 Spellskite
 1 Sword of Feast and Famine
 1 Castle Ardenvale
-1 Aven Mindcensor
 1 Restoration Angel
+1 Aven Mindcensor
 2 Restoration Angel
 2 Winds of Abandon
 2 Sunbaked Canyon
@@ -48,14 +48,15 @@
 2 Militia Bugler
 3 Militia Bugler
 4 Militia Bugler
-3 Horizon Canopy
-4 Horizon Canopy
+1 Mountain
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
 3 Sunbaked Canyon
 4 Sunbaked Canyon
-1 Mountain
+4 Sacred Foundry
+3 Horizon Canopy
+4 Horizon Canopy
 1 Flagstones of Trokair
 1 Remorseful Cleric
 1 Lurrus of the Dream-Den
@@ -68,7 +69,6 @@
 3 Remorseful Cleric
 3 Flagstones of Trokair
 4 Flagstones of Trokair
-4 Sacred Foundry
 1 Snow-Covered Forest
 1 Temple Garden
 1 Razorverge Thicket
@@ -116,17 +116,8 @@
 20 Plains
 1 Shefet Dunes
 2 Shefet Dunes
-1 Snow-Covered Mountain
-1 Seasoned Pyromancer
 1 Magus of the Moon
-1 Lightning Bolt
-1 Inspiring Vantage
-2 Seasoned Pyromancer
-2 Inspiring Vantage
+1 Boros Charm
+2 Boros Charm
 2 Magus of the Moon
-2 Lightning Bolt
 3 Magus of the Moon
-3 Inspiring Vantage
-3 Lightning Bolt
-4 Lightning Bolt
-4 Inspiring Vantage

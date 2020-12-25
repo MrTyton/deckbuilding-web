@@ -21,9 +21,9 @@
 3 Glass Casket
 3 Elite Guardmage
 3 Reflector Mage
+3 Yorion, Sky Nomad
 3 Skyclave Apparition
 3 Temple of Enlightenment
-3 Yorion, Sky Nomad
 4 Glass Casket
 4 Skyclave Apparition
 4 Charming Prince
@@ -72,12 +72,12 @@
 1 Sphinx's Revelation
 3 Fabled Passage
 2 Thassa, Deep-Dwelling
+2 Sinister Sabotage
 1 Detention Sphere
 1 Scavenger Grounds
 2 Scavenger Grounds
 3 Scavenger Grounds
 4 Scavenger Grounds
-2 Sinister Sabotage
 1 Horribly Awry
 3 Dovin's Veto
 1 Jwari Disruption
@@ -121,13 +121,13 @@
 3 Spell Queller
 4 Spell Queller
 1 Solemn Simulacrum
-1 Growth Spiral
 1 Mystical Dispute
+2 Mystical Dispute
+1 Growth Spiral
 1 Temple Garden
 1 Sunpetal Grove
 2 Growth Spiral
 2 Settle the Wreckage
-2 Mystical Dispute
 2 Temple Garden
 3 Growth Spiral
 3 Temple Garden
@@ -156,6 +156,16 @@
 1 Tamiyo, Collector of Tales
 2 Solemn Simulacrum
 2 Detention Sphere
+1 Essence Scatter
+3 Sinister Sabotage
+1 Steam Vents
+1 Sulfur Falls
+2 Sulfur Falls
+2 Steam Vents
+3 Sulfur Falls
+3 Steam Vents
+4 Sulfur Falls
+4 Steam Vents
 1 Brazen Borrower
 2 Omen of the Sun
 1 Teferi, Master of Time
@@ -164,15 +174,25 @@
 2 Emergency Powers
 2 Thassa's Intervention
 3 Field of Ruin
+1 Raugrin Triome
+1 Hieroglyphic Illumination
+1 Sweltering Suns
+1 Zenith Flare
+2 Zenith Flare
+2 Hieroglyphic Illumination
+2 Raugrin Triome
+3 Raugrin Triome
+3 Hieroglyphic Illumination
+4 Raugrin Triome
 2 Dream Trawler
 4 Uro, Titan of Nature's Wrath
-1 Prairie Stream
 1 Thought Erasure
-1 Eliminate
 1 Declaration in Stone
+1 Eliminate
 1 Ashiok, Nightmare Muse
 1 Swamp
 1 Dragonlord Ojutai
+1 Prairie Stream
 1 Castle Locthwain
 2 Thought Erasure
 2 Eliminate
@@ -201,38 +221,53 @@
 4 Thing in the Ice
 4 Drowned Catacomb
 1 Elspeth, Sun's Nemesis
-1 Essence Scatter
 1 Thirst for Meaning
 2 Castle Vantress
 2 Thirst for Meaning
 3 Thirst for Meaning
-3 Sinister Sabotage
 3 Seal Away
 4 Seal Away
-1 Raugrin Triome
-1 Steam Vents
-1 Hieroglyphic Illumination
-1 Sulfur Falls
-1 Sweltering Suns
-1 Zenith Flare
-2 Sulfur Falls
-2 Steam Vents
-2 Zenith Flare
-2 Hieroglyphic Illumination
-2 Raugrin Triome
-3 Raugrin Triome
-3 Sulfur Falls
-3 Steam Vents
-3 Hieroglyphic Illumination
-4 Raugrin Triome
-4 Sulfur Falls
-4 Steam Vents
 1 Soul-Guide Lantern
 1 Tale's End
 1 Void Shatter
 2 Void Shatter
 3 Void Shatter
 4 Void Shatter
+1 Lava Coil
+1 Wild Slash
+1 Wandering Fumarole
+1 Ral, Izzet Viceroy
+1 Valakut Awakening
+1 Mountain
+1 Crackling Drake
+1 Torrential Gearhulk
+1 Jace, Vryn's Prodigy
+1 Spirebluff Canal
+1 Riverglide Pathway
+1 Chemister's Insight
+1 Anger of the Gods
+1 Ral's Outburst
+1 Frantic Inventory
+1 Maximize Velocity
+1 Spikefield Hazard
+2 Wild Slash
+2 Jace, Vryn's Prodigy
+2 Spikefield Hazard
+2 Spirebluff Canal
+2 Riverglide Pathway
+2 Chemister's Insight
+2 Frantic Inventory
+2 Wandering Fumarole
+2 Crackling Drake
+3 Crackling Drake
+3 Wild Slash
+3 Frantic Inventory
+3 Spirebluff Canal
+4 Wild Slash
+4 Sinister Sabotage
+4 Dig Through Time
+4 Spirebluff Canal
+4 Frantic Inventory
 1 Render Silent
 2 Render Silent
 3 Render Silent
