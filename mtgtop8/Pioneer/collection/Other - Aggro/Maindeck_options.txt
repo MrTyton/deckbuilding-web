@@ -37,12 +37,12 @@
 1 Rhonas the Indomitable
 1 Lovestruck Beast
 1 Bonders' Enclave
-1 Elder Gargaroth
 1 Questing Beast
 1 Vivien, Arkbow Ranger
 1 Spirebluff Canal
 1 Bonecrusher Giant
 1 Scavenging Ooze
+1 Elder Gargaroth
 2 Lovestruck Beast
 2 Rhonas the Indomitable
 2 Elder Gargaroth
@@ -81,41 +81,41 @@
 3 Overgrown Tomb
 3 Blooming Marsh
 4 Blooming Marsh
-1 Llanowar Wastes
 1 Gilded Goose
-1 Woe Strider
-1 Priest of Forgotten Gods
 1 Zulaport Cutthroat
+1 Priest of Forgotten Gods
+1 Woe Strider
 1 Catacomb Sifter
-1 Bolas's Citadel
-1 Collected Company
 1 Blisterpod
+1 Bolas's Citadel
+1 Llanowar Wastes
+1 Collected Company
 1 Mayhem Devil
-2 Llanowar Wastes
 2 Gilded Goose
-2 Zulaport Cutthroat
-2 Priest of Forgotten Gods
 2 Woe Strider
+2 Priest of Forgotten Gods
+2 Zulaport Cutthroat
+2 Catacomb Sifter
+2 Blisterpod
 2 Bolas's Citadel
+2 Llanowar Wastes
 2 Collected Company
 2 Mayhem Devil
-2 Blisterpod
-2 Catacomb Sifter
-3 Woe Strider
-3 Llanowar Wastes
 3 Gilded Goose
-3 Zulaport Cutthroat
 3 Priest of Forgotten Gods
-3 Mayhem Devil
+3 Zulaport Cutthroat
 3 Catacomb Sifter
 3 Bolas's Citadel
+3 Llanowar Wastes
+3 Woe Strider
+3 Mayhem Devil
 3 Collected Company
-4 Woe Strider
 4 Overgrown Tomb
-4 Zulaport Cutthroat
 4 Priest of Forgotten Gods
-4 Catacomb Sifter
 4 Bolas's Citadel
+4 Zulaport Cutthroat
+4 Catacomb Sifter
+4 Woe Strider
 4 Mayhem Devil
 4 Collected Company
 1 Agadeem's Awakening
@@ -193,17 +193,17 @@
 3 Of One Mind
 3 Agadeem's Awakening
 4 Into the Story
-4 Llanowar Wastes
 1 Stubborn Denial
 2 Stubborn Denial
 3 Stubborn Denial
 4 Stubborn Denial
+4 Llanowar Wastes
 1 Sunpetal Grove
 1 Branchloft Pathway
 1 Temple Garden
 1 Voice of Resurgence
-1 Westvale Abbey
 1 Legion's Landing
+1 Westvale Abbey
 1 Omen of the Sun
 1 Conclave Tribunal
 1 Elspeth, Sun's Champion
@@ -218,10 +218,10 @@
 1 Raise the Alarm
 1 Nissa, Voice of Zendikar
 2 Castle Ardenvale
-2 Sunpetal Grove
 2 Branchloft Pathway
 2 Temple Garden
 2 Voice of Resurgence
+2 Sunpetal Grove
 2 Legion's Landing
 2 Omen of the Sun
 2 Raise the Alarm
@@ -276,10 +276,10 @@
 1 Mountain
 2 Grapple with the Past
 2 Grisly Salvage
+2 Woodland Cemetery
 2 Claim / Fame
 2 Traverse the Ulvenwald
 2 Nullhide Ferox
-2 Woodland Cemetery
 2 Samut, Voice of Dissent
 2 Satyr Wayfinder
 2 Zetalpa, Primal Dawn
