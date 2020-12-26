@@ -54,13 +54,13 @@
 1 Transmogrify
 2 Fire Prophecy
 2 Transmogrify
-3 Fire Prophecy
 3 Transmogrify
+3 Fire Prophecy
 4 Fire Prophecy
 4 Transmogrify
 2 Ugin, the Spirit Dragon
-1 Inspired Ultimatum
 1 Shatterskull Smashing
+1 Inspired Ultimatum
 2 Mountain
 2 Sea Gate Restoration
 1 Glimpse of Freedom
@@ -70,8 +70,8 @@
 2 Solemn Simulacrum
 3 Solemn Simulacrum
 4 Solemn Simulacrum
-1 Narset of the Ancient Way
 1 Teferi, Master of Time
+1 Narset of the Ancient Way
 2 Narset of the Ancient Way
 2 Glasspool Mimic
 1 Jwari Disruption
@@ -108,16 +108,6 @@
 3 Swift Response
 4 Swift Response
 4 Negate
-1 Thirst for Meaning
-2 Thirst for Meaning
-2 Temple of Triumph
-3 Valakut Awakening
-3 Thirst for Meaning
-3 Temple of Triumph
-4 Valakut Awakening
-4 Thirst for Meaning
-4 Temple of Triumph
-4 Glimpse of Freedom
 1 Temple of Epiphany
 1 Storm's Wrath
 1 Scorching Dragonfire
@@ -131,6 +121,16 @@
 4 Scorching Dragonfire
 2 Mystical Dispute
 4 Brazen Borrower
+1 Thirst for Meaning
+2 Thirst for Meaning
+2 Temple of Triumph
+3 Valakut Awakening
+3 Temple of Triumph
+3 Thirst for Meaning
+4 Valakut Awakening
+4 Glimpse of Freedom
+4 Thirst for Meaning
+4 Temple of Triumph
 1 Fae of Wishes
 2 Fae of Wishes
 2 Ondu Inversion
@@ -144,9 +144,9 @@
 1 Cancel
 1 Disenchant
 2 Ruin Crab
+2 Kiora Bests the Sea God
 2 Rain of Revelation
 2 Frantic Inventory
-2 Kiora Bests the Sea God
 2 Cancel
 3 Tranquil Cove
 3 Frantic Inventory
@@ -155,25 +155,25 @@
 1 Labyrinth of Skophos
 1 Forsaken Monument
 1 Radiant Fountain
+1 Runed Halo
 1 Golden Egg
 1 Sleeper Dart
-1 Runed Halo
 1 Unknown Shores
 2 Dance of the Manse
 2 Forsaken Monument
-2 Golden Egg
 2 Runed Halo
 2 Radiant Fountain
+2 Golden Egg
 2 Labyrinth of Skophos
 2 Sleeper Dart
 2 Unknown Shores
+3 Dance of the Manse
 3 Crawling Barrens
 3 Ugin, the Spirit Dragon
-3 Dance of the Manse
 3 Golden Egg
 3 Forsaken Monument
-3 Radiant Fountain
 3 Runed Halo
+3 Radiant Fountain
 3 Labyrinth of Skophos
 3 Unknown Shores
 3 Sleeper Dart

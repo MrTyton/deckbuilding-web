@@ -1,10 +1,13 @@
-1 Thoughtseize
-2 Thoughtseize
 1 Pelakka Predation
 2 Pelakka Predation
+1 Thoughtseize
+2 Thoughtseize
 1 Pact of Negation
 2 Shatterskull Smashing
 1 Goblin Charbelcher
+2 Goblin Charbelcher
+3 Goblin Charbelcher
+4 Goblin Charbelcher
 1 Spikefield Hazard
 1 Bala Ged Recovery
 1 Manamorphose
@@ -14,21 +17,18 @@
 1 Pyretic Ritual
 1 Irencrag Feat
 1 Reforge the Soul
-2 Goblin Charbelcher
+2 Bala Ged Recovery
 2 Manamorphose
 2 Valakut Awakening
-2 Bala Ged Recovery
 2 Irencrag Feat
 2 Recross the Paths
 2 Desperate Ritual
-3 Goblin Charbelcher
 3 Valakut Awakening
 3 Manamorphose
 3 Desperate Ritual
 3 Recross the Paths
 3 Shatterskull Smashing
 4 Manamorphose
-4 Goblin Charbelcher
 4 Desperate Ritual
 4 Shatterskull Smashing
 4 Valakut Awakening
@@ -38,11 +38,11 @@
 2 Spikefield Hazard
 2 Pyretic Ritual
 2 Pact of Negation
+3 Bala Ged Recovery
 3 Blood Moon
 3 Spikefield Hazard
 3 Pact of Negation
 3 Pyretic Ritual
-3 Bala Ged Recovery
 3 Irencrag Feat
 4 Bala Ged Recovery
 4 Spikefield Hazard
@@ -50,14 +50,13 @@
 4 Irencrag Feat
 3 Thoughtseize
 1 Lightning Bolt
-4 Pact of Negation
+3 Pelakka Predation
+4 Pelakka Predation
 1 Sphere of the Suns
 1 Memory's Journey
 1 Talisman of Dominance
 1 Talisman of Curiosity
 2 Talisman of Dominance
-3 Pelakka Predation
-4 Pelakka Predation
 1 Blackbloom Rogue
 1 Glasspool Mimic
 1 Brazen Borrower
@@ -72,6 +71,7 @@
 4 Glasspool Mimic
 4 Blackbloom Rogue
 4 Brazen Borrower
+4 Pact of Negation
 4 Leyline of Sanctity
 4 Blood Moon
 1 Tangled Florahedron
@@ -86,8 +86,8 @@
 2 Karn, the Great Creator
 2 Devoted Druid
 3 Tangled Florahedron
-3 Karn, the Great Creator
 3 Devoted Druid
+3 Karn, the Great Creator
 4 Tangled Florahedron
 4 Devoted Druid
 4 Karn, the Great Creator

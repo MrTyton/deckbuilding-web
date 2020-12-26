@@ -53,10 +53,10 @@
 4 Lotus Cobra
 7 Plains
 3 Scavenging Ooze
-1 Felidar Retreat
 1 Murasa Rootgrazer
-2 Felidar Retreat
+1 Felidar Retreat
 2 Murasa Rootgrazer
+2 Felidar Retreat
 3 Yasharn, Implacable Earth
 3 Felidar Retreat
 1 Indatha Triome
@@ -79,9 +79,9 @@
 3 Murasa Rootgrazer
 3 Scute Swarm
 4 Felidar Retreat
+4 Murasa Rootgrazer
 4 Evolving Wilds
 4 Scute Swarm
-4 Murasa Rootgrazer
 3 Faerie Guidemother
 1 The Birth of Meletis
 8 Plains
@@ -126,8 +126,8 @@
 3 Setessan Champion
 3 Calix, Destiny's Hand
 4 Setessan Champion
-4 Banishing Light
 4 Archon of Sun's Grace
+4 Banishing Light
 4 Alseid of Life's Bounty
 4 Kenrith's Transformation
 4 Calix, Destiny's Hand
@@ -145,6 +145,7 @@
 3 Gemrazer
 4 Gemrazer
 10 Forest
+1 Phylath, World Sculptor
 1 Needleverge Pathway
 1 Mountain
 1 Beanstalk Giant
@@ -153,25 +154,24 @@
 1 Cragcrown Pathway
 1 Cultivate
 1 Lithoform Engine
-1 Phylath, World Sculptor
+2 Phylath, World Sculptor
 2 Needleverge Pathway
 2 Beanstalk Giant
 2 Cragcrown Pathway
 2 Solemn Simulacrum
 2 Baneslayer Angel
-2 Phylath, World Sculptor
 2 Cultivate
 2 Mountain
 2 Lithoform Engine
 3 Needleverge Pathway
-3 Beanstalk Giant
 3 Wolfwillow Haven
+3 Beanstalk Giant
 3 Baneslayer Angel
 3 Cragcrown Pathway
 3 Cultivate
 3 Solemn Simulacrum
 4 Needleverge Pathway
-4 Baneslayer Angel
-4 Beanstalk Giant
 4 Wolfwillow Haven
+4 Beanstalk Giant
+4 Baneslayer Angel
 4 Cragcrown Pathway

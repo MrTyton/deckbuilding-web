@@ -84,6 +84,6 @@
 |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)       |                     |                                                                                              |
 |                    3|[On Thin Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463969)         |                     |                                                                                              |
 |                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)     |                     |                                                                                              |
-|                    4|[On Thin Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463969)         |                     |                                                                                              |
 |                    4|[Destiny Spinner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476419)     |                     |                                                                                              |
+|                    4|[On Thin Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463969)         |                     |                                                                                              |
 

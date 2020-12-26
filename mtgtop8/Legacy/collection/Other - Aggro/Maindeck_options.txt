@@ -1,3 +1,4 @@
+1 Path to Exile
 1 Gaddock Teeg
 1 Field of the Dead
 1 Dryad of the Ilysian Grove
@@ -5,7 +6,6 @@
 1 Titania, Protector of Argoth
 1 Yasharn, Implacable Earth
 1 Bojuka Bog
-1 Scute Swarm
 2 Field of the Dead
 2 Dryad of the Ilysian Grove
 2 Elvish Reclaimer
@@ -119,11 +119,11 @@
 4 Force of Will
 1 Eliminate
 1 Spell Pierce
-1 Rankle, Master of Pranks
 1 Unearth
 1 Scalding Tarn
-1 Jace, the Mind Sculptor
 1 Thieves' Guild Enforcer
+1 Jace, the Mind Sculptor
+1 Rankle, Master of Pranks
 1 Fatal Push
 1 Nighthawk Scavenger
 1 Baleful Strix
@@ -164,12 +164,12 @@
 4 Thieves' Guild Enforcer
 3 Forest
 4 Forest
-1 Llanowar Visionary
 1 Archon of Valor's Reach
 1 Garruk, Unleashed
 1 Tarmogoyf
 1 Shifting Ceratops
 1 Progenitus
+1 Llanowar Visionary
 1 Elder Gargaroth
 1 Garruk Relentless
 1 Natural Order
@@ -192,13 +192,13 @@
 3 Seasoned Pyromancer
 1 Sunbaked Canyon
 1 Embercleave
-1 Winota, Joiner of Forces
 1 Legion Warboss
 1 Goblin Rabblemaster
 1 Simian Spirit Guide
 1 Talisman of Conviction
 1 Battlefield Forge
 1 Godo, Bandit Warlord
+1 Winota, Joiner of Forces
 1 Angrath's Marauders
 1 Blood Sun
 2 Goblin Rabblemaster
@@ -212,15 +212,15 @@
 3 Goblin Rabblemaster
 3 Legion Warboss
 3 Plateau
-3 Winota, Joiner of Forces
 3 Simian Spirit Guide
+3 Winota, Joiner of Forces
 3 Angrath's Marauders
 3 Trinisphere
 4 Goblin Rabblemaster
 4 Legion Warboss
 4 Plateau
-4 Winota, Joiner of Forces
 4 Simian Spirit Guide
+4 Winota, Joiner of Forces
 4 Angrath's Marauders
 1 Lightning Bolt
 1 Grove of the Burnwillows
@@ -232,10 +232,10 @@
 1 Stomping Ground
 1 Pillage
 2 Magus of the Moon
+2 Klothys, God of Destiny
 2 Lightning Bolt
 2 Grove of the Burnwillows
 2 Bonecrusher Giant
-2 Klothys, God of Destiny
 2 Tireless Tracker
 2 Prismatic Vista
 2 Mountain

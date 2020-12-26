@@ -92,24 +92,6 @@
 2 Languish
 2 Scarab Feast
 3 Swamp
-1 Vraska's Contempt
-1 Void Shatter
-1 Negate
-1 Censor
-2 Void Shatter
-2 Negate
-2 Vraska's Contempt
-2 Censor
-2 Castle Locthwain
-3 Fetid Pools
-3 Void Shatter
-3 Vraska's Contempt
-3 Censor
-4 Eliminate
-4 Censor
-4 Void Shatter
-4 Dig Through Time
-4 Vraska's Contempt
 1 Mountain
 1 Valakut Awakening
 1 Ramunap Ruins
@@ -121,8 +103,8 @@
 1 Blast Zone
 1 Scavenger Grounds
 1 Chandra, Torch of Defiance
-1 Chandra, Awakened Inferno
 1 Golos, Tireless Pilgrim
+1 Chandra, Awakened Inferno
 1 Cascading Cataracts
 1 Thought-Knot Seer
 1 Ugin, the Spirit Dragon
@@ -135,9 +117,9 @@
 2 Vessel of Volatility
 2 Cleansing Wildfire
 2 Mazemind Tome
+2 Darksteel Citadel
 2 Chandra, Torch of Defiance
 2 Cascading Cataracts
-2 Darksteel Citadel
 2 Thought-Knot Seer
 2 Ugin, the Spirit Dragon
 2 Battlefield Forge
@@ -167,15 +149,33 @@
 4 Mazemind Tome
 4 Thought-Knot Seer
 4 Ugin, the Spirit Dragon
+1 Vraska's Contempt
+1 Void Shatter
+1 Negate
+1 Censor
+2 Void Shatter
+2 Negate
+2 Vraska's Contempt
+2 Censor
+2 Castle Locthwain
+3 Fetid Pools
+3 Void Shatter
+3 Vraska's Contempt
+3 Censor
+4 Eliminate
+4 Censor
+4 Void Shatter
+4 Vraska's Contempt
+4 Dig Through Time
 1 Sunpetal Grove
 1 Courser of Kruphix
 1 Sigil of the Empty Throne
 1 Setessan Champion
 1 Banishing Light
 1 Calix, Destiny's Hand
-1 Branchloft Pathway
 1 Gideon's Intervention
 1 Baffling End
+1 Branchloft Pathway
 1 Eidolon of Blossoms
 1 Sphere of Safety
 1 Temple Garden
@@ -190,8 +190,8 @@
 2 Sunpetal Grove
 2 Calix, Destiny's Hand
 2 Setessan Champion
-2 Branchloft Pathway
 2 Banishing Light
+2 Branchloft Pathway
 2 Baffling End
 2 Eidolon of Blossoms
 2 Sigil of the Empty Throne
@@ -203,11 +203,11 @@
 2 Gideon's Intervention
 2 Herald of the Pantheon
 2 Sphere of Safety
-3 Temple Garden
 3 Setessan Champion
 3 Banishing Light
 3 Courser of Kruphix
 3 Branchloft Pathway
+3 Temple Garden
 3 Baffling End
 3 Forest
 3 Sphere of Safety
@@ -216,11 +216,11 @@
 3 Herald of the Pantheon
 3 Wolfwillow Haven
 4 Banishing Light
+4 Temple Garden
 4 Temple of Plenty
 4 Eidolon of Blossoms
 4 Herald of the Pantheon
 4 Wolfwillow Haven
-4 Temple Garden
 4 Forest
 1 Dragonskull Summit
 1 Kolaghan's Command

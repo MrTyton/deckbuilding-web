@@ -1,56 +1,99 @@
-4 Roil Eruption
 1 Crash Through
 2 Crash Through
-3 Fire Prophecy
-4 Fire Prophecy
+4 Roil Eruption
+1 Shell Shield
+2 Shell Shield
+1 Scorching Dragonfire
+2 Scorching Dragonfire
 3 Crash Through
 4 Crash Through
+1 Infuriate
+1 Underworld Rage-Hound
+2 Underworld Rage-Hound
 1 Essence Scatter
 2 Essence Scatter
 1 Mystic Sanctuary
 2 Mystic Sanctuary
-1 Negate
-1 Keep Safe
-1 Scorching Dragonfire
-2 Scorching Dragonfire
-1 Infuriate
-3 Into the Roil
-2 Negate
+3 Scorching Dragonfire
 10 Island
-3 Essence Scatter
-4 Essence Scatter
+1 Keep Safe
+2 Infuriate
+1 Thrill of Possibility
+2 Thrill of Possibility
+3 Underworld Rage-Hound
 1 Raking Claws
 1 Pyroceratops
-2 Infuriate
 2 Pyroceratops
 3 Infuriate
 3 Pyroceratops
 4 Pyroceratops
-1 Evolving Wilds
-1 Underworld Rage-Hound
-2 Underworld Rage-Hound
+3 Essence Scatter
+4 Essence Scatter
+1 Negate
 2 Keep Safe
 1 Bubble Snare
 2 Bubble Snare
-1 Thrill of Possibility
-2 Thrill of Possibility
+4 Scorching Dragonfire
 1 Fling
 2 Fling
-3 Scorching Dragonfire
+1 Sprite Dragon
+1 Stormwing Entity
+1 Umara Mystic
+2 Sprite Dragon
+2 Umara Mystic
+3 Sprite Dragon
+3 Umara Mystic
+4 Sprite Dragon
+1 Dwarven Mine
+11 Mountain
+12 Mountain
+13 Mountain
+14 Mountain
+15 Mountain
+16 Mountain
+17 Mountain
+18 Mountain
+19 Mountain
+20 Mountain
+3 Thrill of Possibility
+4 Thrill of Possibility
+1 Riverglide Pathway
+1 Irencrag Pyromancer
+1 Faerie Vandal
+2 Faerie Vandal
+3 Faerie Vandal
 1 Shark Typhoon
 1 Improbable Alliance
 1 Sea Gate Restoration
 2 Improbable Alliance
 3 Improbable Alliance
 4 Improbable Alliance
-1 Riverglide Pathway
 1 Spined Megalodon
+2 Negate
 1 Startling Development
 2 Startling Development
-1 Satyr's Cunning
-2 Satyr's Cunning
-3 Shell Shield
-3 Satyr's Cunning
+1 Windrider Wizard
+1 Brazen Borrower
+1 Sea Gate Stormcaller
+1 Rockslide Sorcerer
+1 Chilling Trap
+2 Chilling Trap
+2 Rockslide Sorcerer
+2 Windrider Wizard
+3 Chilling Trap
+3 Windrider Wizard
+1 Ominous Seas
+1 Blitz of the Thunder-Raptor
+1 Experimental Overload
+1 Storm's Wrath
+1 Shatterskull Smashing
+2 Ominous Seas
+2 Experimental Overload
+2 Blitz of the Thunder-Raptor
+3 Ominous Seas
+3 Experimental Overload
+3 Into the Roil
+1 Evolving Wilds
 1 Sleep of the Dead
 1 Cancel
 1 Omen of the Sea
@@ -62,24 +105,21 @@
 4 Omen of the Sea
 3 Bubble Snare
 4 Bubble Snare
-1 Ominous Seas
-1 Blitz of the Thunder-Raptor
-1 Experimental Overload
-1 Storm's Wrath
-1 Shatterskull Smashing
-2 Ominous Seas
-2 Experimental Overload
-2 Blitz of the Thunder-Raptor
-3 Ominous Seas
-3 Thrill of Possibility
-3 Experimental Overload
-4 Thrill of Possibility
+1 Embereth Paladin
+1 Searing Barrage
+2 Embereth Paladin
+2 Searing Barrage
+2 Dwarven Mine
+3 Searing Barrage
+3 Dwarven Mine
+4 Dwarven Mine
+4 Underworld Rage-Hound
+4 Searing Barrage
 1 Furor of the Bitten
 1 Barge In
 2 Furor of the Bitten
 2 Barge In
 3 Furor of the Bitten
-3 Underworld Rage-Hound
 3 Keep Safe
 3 Barge In
 3 Mystic Sanctuary
@@ -89,54 +129,41 @@
 3 Raking Claws
 4 Infuriate
 4 Raking Claws
-1 Of One Mind
-1 Sprite Dragon
-1 Riddleform
-1 Bonecrusher Giant
-1 Heartfire Immolator
-1 Stormwing Entity
-1 Umara Mystic
-2 Sprite Dragon
-2 Umara Mystic
-2 Heartfire Immolator
-2 Riddleform
-3 Sprite Dragon
-3 Umara Mystic
-3 Heartfire Immolator
-3 Riddleform
-4 Sprite Dragon
-4 Umara Mystic
-4 Heartfire Immolator
-1 Rielle, the Everwise
-1 Irencrag Pyromancer
 1 Temple of Epiphany
+1 Rielle, the Everwise
 1 Spikefield Hazard
 1 Neutralize
-1 Faerie Vandal
 1 Fabled Passage
 1 Teferi, Master of Time
 1 The Royal Scions
+2 Spikefield Hazard
 2 Rielle, the Everwise
 2 Irencrag Pyromancer
 2 Shark Typhoon
-2 Spikefield Hazard
 2 Neutralize
-2 Faerie Vandal
-2 Teferi, Master of Time
 2 The Royal Scions
+2 Teferi, Master of Time
 2 Fabled Passage
 3 Rielle, the Everwise
 3 Irencrag Pyromancer
 3 Neutralize
+3 Fabled Passage
 3 Teferi, Master of Time
 3 The Royal Scions
-3 Faerie Vandal
-3 Fabled Passage
 4 Irencrag Pyromancer
 4 Faerie Vandal
 4 Fabled Passage
+1 Of One Mind
+1 Bonecrusher Giant
+1 Riddleform
+1 Heartfire Immolator
+2 Heartfire Immolator
+2 Riddleform
+3 Heartfire Immolator
+3 Riddleform
+4 Umara Mystic
+4 Heartfire Immolator
 1 Blisterspit Gremlin
-1 Dwarven Mine
 1 Forbidden Friendship
 1 Burn Bright
 2 Blisterspit Gremlin
@@ -145,18 +172,37 @@
 3 Blisterspit Gremlin
 3 Burn Bright
 3 Forbidden Friendship
-4 Scorching Dragonfire
+4 Burn Bright
 4 Blisterspit Gremlin
 4 Forbidden Friendship
-4 Burn Bright
-11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain
-15 Mountain
-16 Mountain
-18 Mountain
-19 Mountain
-20 Mountain
 21 Mountain
-17 Mountain
+1 Bake into a Pie
+1 Swamp
+1 Bloodfell Caves
+1 Grasp of Darkness
+1 Suffocating Fumes
+1 Foreboding Fruit
+1 Reaper of Night
+1 Underworld Charger
+2 Bake into a Pie
+2 Suffocating Fumes
+2 Foreboding Fruit
+2 Underworld Charger
+2 Swamp
+2 Grasp of Darkness
+2 Bloodfell Caves
+3 Bake into a Pie
+3 Grasp of Darkness
+3 Foreboding Fruit
+3 Swamp
+3 Bloodfell Caves
+4 Bloodfell Caves
+4 Swamp
+4 Grasp of Darkness
+4 Foreboding Fruit
+5 Swamp
+6 Swamp
+7 Swamp
+8 Swamp
+9 Swamp
+10 Swamp
