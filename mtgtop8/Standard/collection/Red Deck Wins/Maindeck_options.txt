@@ -23,20 +23,20 @@
 4 Shock
 3 Infuriate
 2 The Akroan War
-1 Satyr's Cunning
 1 Weaponize the Monsters
 1 Dwarven Mine
 1 Heraldic Banner
+1 Satyr's Cunning
 1 Goblin Arsonist
 2 Weaponize the Monsters
-2 Satyr's Cunning
-2 Heraldic Banner
 2 Dwarven Mine
+2 Heraldic Banner
+2 Satyr's Cunning
 2 Goblin Arsonist
 3 Weaponize the Monsters
+3 Heraldic Banner
 3 Dwarven Mine
 3 Goblin Arsonist
-3 Heraldic Banner
 4 Heraldic Banner
 4 Goblin Arsonist
 1 Claim the Firstborn
@@ -55,8 +55,8 @@
 4 Phoenix of Ash
 1 Crawling Barrens
 1 Bolt Hound
-1 Relic Robber
 1 Roiling Vortex
+1 Relic Robber
 1 Roil Eruption
 2 Crawling Barrens
 2 Bolt Hound
@@ -64,11 +64,11 @@
 2 Roiling Vortex
 2 Roil Eruption
 3 Roil Eruption
-3 Slaying Fire
 3 Relic Robber
 3 Roiling Vortex
-4 Slaying Fire
+3 Slaying Fire
 4 Relic Robber
+4 Slaying Fire
 4 Roiling Vortex
 1 Forbidden Friendship
 1 Redcap Melee

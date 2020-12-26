@@ -1,7 +1,7 @@
 1 Jace, the Mind Sculptor
+1 Mountain
 2 Island
 1 Castle Vantress
-1 Mountain
 2 Fact or Fiction
 2 Jace, the Mind Sculptor
 1 Aether Gust
@@ -14,8 +14,8 @@
 2 Scapeshift
 2 Stomping Ground
 2 Ketria Triome
-3 Steam Vents
 3 Ketria Triome
+3 Steam Vents
 3 Scapeshift
 4 Steam Vents
 4 Cryptic Command
@@ -24,15 +24,16 @@
 4 Ketria Triome
 4 Scapeshift
 3 Archmage's Charm
-1 Abrade
+1 Flame Slash
 2 Spell Snare
 1 Blast Zone
+1 Explore
 2 Wooded Foothills
+1 Abrade
 1 Mystical Dispute
 1 Reflecting Pool
 1 Firespout
 1 Tectonic Edge
-1 Explore
 1 Time Warp
 2 Time Warp
 3 Time Warp
@@ -60,13 +61,12 @@
 3 Ice-Fang Coatl
 3 Utopia Sprawl
 4 Ice-Fang Coatl
-4 Utopia Sprawl
 4 Arbor Elf
+4 Utopia Sprawl
 4 Prismatic Vista
-1 Flame Slash
 2 Izzet Charm
-1 Wilderness Reclamation
 3 Force of Negation
+1 Wilderness Reclamation
 4 Wrenn and Six
 1 Opt
 2 Opt
@@ -74,7 +74,6 @@
 1 Silundi Vision
 1 Nexus of Fate
 2 Wilderness Reclamation
-1 Shark Typhoon
 3 Fact or Fiction
 4 Fact or Fiction
 2 Flooded Strand
@@ -83,8 +82,12 @@
 3 Search for Tomorrow
 3 Hour of Promise
 2 Field of Ruin
+3 Island
+1 Shark Typhoon
 1 Snapcaster Mage
 2 Snapcaster Mage
+1 Waterlogged Grove
+1 Polluted Delta
 1 Farseek
 1 Tireless Tracker
 2 Tireless Tracker
@@ -93,20 +96,15 @@
 2 Valakut Awakening
 2 Shark Typhoon
 3 Flooded Strand
-3 Abundant Growth
 1 Jwari Disruption
 2 Jwari Disruption
 2 Forest
 2 Flame Slash
 3 Jwari Disruption
-3 Island
+3 Abundant Growth
 1 Brazen Borrower
 2 Brazen Borrower
 3 Stomping Ground
-1 Waterlogged Grove
-1 Sulfur Falls
-1 Polluted Delta
-4 Archmage's Charm
 1 Search for Azcanta
 1 Chandra, Torch of Defiance
 1 Narset, Parter of Veils

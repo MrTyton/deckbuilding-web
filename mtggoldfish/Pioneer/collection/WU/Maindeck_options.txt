@@ -1,3 +1,4 @@
+7 Island
 1 Thraben Inspector
 1 Agent of Treachery
 1 Reflector Mage
@@ -36,10 +37,9 @@
 6 Plains
 7 Plains
 2 Elspeth Conquers Death
-3 Shark Typhoon
-2 Field of Ruin
-8 Plains
 3 Absorb
+3 Shark Typhoon
+8 Plains
 3 Teferi, Hero of Dominaria
 4 Skyclave Cleric
 3 Isolate
@@ -47,33 +47,41 @@
 8 Island
 3 Censor
 3 Dig Through Time
+1 Settle the Wreckage
 1 Omen of the Sea
 2 Omen of the Sea
-1 Settle the Wreckage
-9 Island
-3 Irrigated Farmland
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
+3 Irrigated Farmland
+9 Island
 3 Omen of the Sea
 4 Omen of the Sea
+1 Geier Reach Sanitarium
+1 Commit/Memory
 4 Shark Typhoon
 4 Absorb
+1 Sphinx's Revelation
 1 Spell Queller
 2 Spell Queller
 1 Thassa, Deep-Dwelling
 1 Champion of Wits
 2 Champion of Wits
-1 Geier Reach Sanitarium
 1 Spell Pierce
 2 Spell Pierce
-1 Commit/Memory
 1 Sinister Sabotage
+1 Detention Sphere
 1 Cast Out
-1 Sphinx's Revelation
+1 Syncopate
+1 Elixir of Immortality
+1 Search for Azcanta
+1 Blessed Alliance
+1 Jace, Architect of Thought
+1 Last Breath
+2 Last Breath
+2 Syncopate
 3 Fabled Passage
 2 Thassa, Deep-Dwelling
 2 Sinister Sabotage
-1 Detention Sphere
 1 Scavenger Grounds
 2 Scavenger Grounds
 3 Scavenger Grounds
@@ -95,18 +103,10 @@
 2 Breeding Pool
 2 Hinterland Harbor
 3 Breeding Pool
-3 Hinterland Harbor
 3 Uro, Titan of Nature's Wrath
+3 Hinterland Harbor
 4 Breeding Pool
 1 Ondu Inversion
-1 Syncopate
-1 Elixir of Immortality
-1 Search for Azcanta
-1 Blessed Alliance
-1 Jace, Architect of Thought
-1 Last Breath
-2 Last Breath
-2 Syncopate
 3 Narset, Parter of Veils
 1 Blast Zone
 2 Blast Zone
@@ -160,12 +160,12 @@
 3 Sinister Sabotage
 1 Steam Vents
 1 Sulfur Falls
-2 Sulfur Falls
 2 Steam Vents
+2 Sulfur Falls
 3 Sulfur Falls
 3 Steam Vents
-4 Sulfur Falls
 4 Steam Vents
+4 Sulfur Falls
 1 Brazen Borrower
 2 Omen of the Sun
 1 Teferi, Master of Time
@@ -236,8 +236,8 @@
 1 Ral, Izzet Viceroy
 1 Lava Coil
 1 Wild Slash
-1 Wandering Fumarole
 1 Valakut Awakening
+1 Wandering Fumarole
 1 Mountain
 1 Crackling Drake
 1 Torrential Gearhulk

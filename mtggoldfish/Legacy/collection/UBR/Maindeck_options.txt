@@ -1,80 +1,96 @@
-1 Volcanic Island
-2 Volcanic Island
-1 Thoughtseize
+1 Kolaghan's Command
+1 Ethereal Forager
+1 Murderous Rider
+2 Ethereal Forager
+2 Murderous Rider
+2 Thoughtseize
+2 Misty Rainforest
 1 Hymn to Tourach
 2 Hymn to Tourach
 1 Scalding Tarn
 1 Lightning Bolt
 2 Scalding Tarn
 3 Scalding Tarn
-1 Badlands
-1 Kolaghan's Command
-2 Thoughtseize
-1 Bloodstained Mire
-2 Bloodstained Mire
-2 Kolaghan's Command
-2 Badlands
-3 Hymn to Tourach
-3 Kolaghan's Command
 1 Spell Pierce
-1 Ashiok, Nightmare Muse
-1 Dark Ritual
-2 Dark Ritual
-2 Lightning Bolt
-1 Hullbreacher
-2 Brazen Borrower
-2 Misty Rainforest
-2 Hullbreacher
-1 Wasteland
-1 Gurmag Angler
-2 Gurmag Angler
-3 Jace, the Mind Sculptor
-1 Murderous Cut
-1 Impulse
-1 Opposition Agent
-2 Opposition Agent
-2 Drown in the Loch
 1 Bayou
 1 Uro, Titan of Nature's Wrath
 1 Oko, Thief of Crowns
 1 Forest
 1 Tropical Island
 2 Uro, Titan of Nature's Wrath
-1 Thespian's Stage
-1 Dark Depths
+1 Ashiok, Nightmare Muse
+1 Dark Ritual
+2 Dark Ritual
+1 Bloodstained Mire
+2 Bloodstained Mire
+2 Kolaghan's Command
+2 Badlands
+3 Hymn to Tourach
+3 Kolaghan's Command
+1 Wasteland
+1 Hullbreacher
+2 Lightning Bolt
+2 Brazen Borrower
+2 Hullbreacher
+1 Opposition Agent
+2 Opposition Agent
+2 Drown in the Loch
+1 Gurmag Angler
+2 Gurmag Angler
+3 Jace, the Mind Sculptor
+1 Murderous Cut
+1 Impulse
 1 Abrupt Decay
 1 Life from the Loam
 2 Tropical Island
 2 Oko, Thief of Crowns
 2 Abrupt Decay
+1 Leovold, Emissary of Trest
+3 Misty Rainforest
 2 Wasteland
-1 Snow-Covered Island
-1 Snow-Covered Swamp
-1 Gilded Goose
-1 Lonely Sandbar
+1 Thespian's Stage
+1 Dark Depths
 1 Mox Diamond
-1 Ghost Quarter
-1 Intuition
 1 Tranquil Thicket
 2 Mox Diamond
 2 Verdant Catacombs
 3 Oko, Thief of Crowns
 3 Mox Diamond
+3 Abrupt Decay
+1 Creeping Tar Pit
+1 Assassin's Trophy
+2 Leovold, Emissary of Trest
+3 Uro, Titan of Nature's Wrath
+3 Wasteland
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Gilded Goose
+1 Lonely Sandbar
+1 Ghost Quarter
+1 Intuition
 3 Tropical Island
+1 Punishing Fire
+1 Grove of the Burnwillows
+1 Dack Fayden
+1 Plague Engineer
+2 Punishing Fire
+2 Grove of the Burnwillows
+2 Dack Fayden
+2 Assassin's Trophy
+3 Grove of the Burnwillows
+3 Assassin's Trophy
+3 Dack Fayden
+4 Assassin's Trophy
 1 The Abyss
 1 Ashiok, Dream Render
 2 Ashiok, Dream Render
 3 Fatal Push
-3 Abrupt Decay
-1 Creeping Tar Pit
+1 Cabal Pit
+2 Life from the Loam
 2 Snow-Covered Island
 3 Ethereal Forager
 3 Snow-Covered Island
-1 Assassin's Trophy
-1 Leovold, Emissary of Trest
-2 Leovold, Emissary of Trest
-3 Misty Rainforest
-3 Wasteland
+4 Wasteland
 1 Narset, Parter of Veils
 1 Flooded Strand
 2 Flooded Strand
@@ -87,6 +103,18 @@
 2 Narset, Parter of Veils
 2 Arcum's Astrolabe
 3 Volcanic Island
+1 Taiga
+1 Sylvan Library
+1 Raven's Crime
+1 Cephalid Coliseum
+1 Flux
+1 The Gitrog Monster
+2 Sylvan Library
+2 Bayou
+2 Flux
+4 Misty Rainforest
+4 Abrupt Decay
+4 Mox Diamond
 1 Price of Progress
 1 Krark, the Thumbless
 1 Mountain
@@ -110,9 +138,7 @@
 1 Bojuka Bog
 1 Pernicious Deed
 1 Bitterblossom
-1 Cabal Pit
 2 Crop Rotation
-2 Life from the Loam
 3 Crop Rotation
 1 Retrofitter Foundry
 2 Retrofitter Foundry
@@ -130,22 +156,8 @@
 2 Daze
 3 Stifle
 3 Brazen Borrower
-4 Wasteland
-4 Stifle
 4 Brazen Borrower
-1 Punishing Fire
-1 Grove of the Burnwillows
-1 Dack Fayden
-1 Plague Engineer
-2 Punishing Fire
-2 Grove of the Burnwillows
-2 Dack Fayden
-2 Assassin's Trophy
-3 Grove of the Burnwillows
-3 Uro, Titan of Nature's Wrath
-3 Assassin's Trophy
-3 Dack Fayden
-4 Assassin's Trophy
+4 Stifle
 1 Snow-Covered Plains
 1 Teferi, Time Raveler
 1 Scrubland

@@ -57,6 +57,6 @@
 |                     |                                                                                                      |                    2|[Anafenza, the Foremost](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386476)      |
 |                     |                                                                                                      |                    3|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)         |
 |                     |                                                                                                      |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)          |
-|                     |                                                                                                      |                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)            |
 |                     |                                                                                                      |                    4|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)              |
+|                     |                                                                                                      |                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)            |
 

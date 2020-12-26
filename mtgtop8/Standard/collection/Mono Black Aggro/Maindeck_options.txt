@@ -1,30 +1,22 @@
-3 Village Rites
 1 Malakir Rebirth
 1 Castle Locthwain
 2 Malakir Rebirth
 2 Castle Locthwain
 3 Malakir Rebirth
+3 Village Rites
 4 Malakir Rebirth
 1 Massacre Wurm
 3 Heartless Act
-1 Grimdancer
-2 Grimdancer
-3 Grimdancer
-4 Grimdancer
-1 Serrated Scorpion
-2 Serrated Scorpion
-3 Serrated Scorpion
-4 Village Rites
-4 Serrated Scorpion
 1 Pelakka Predation
-1 Mogis's Favor
-1 Pestilent Haze
 1 Soul-Guide Lantern
+1 Pestilent Haze
 1 Mire's Grasp
 1 Dead Weight
 1 Hateful Eidolon
 1 Hagra Mauling
+1 Mogis's Favor
 1 Order of Midnight
+1 Serrated Scorpion
 2 Order of Midnight
 2 Pelakka Predation
 2 Pestilent Haze
@@ -34,17 +26,25 @@
 2 Hateful Eidolon
 2 Mogis's Favor
 2 Soul-Guide Lantern
+2 Serrated Scorpion
 3 Order of Midnight
 3 Pelakka Predation
+3 Dead Weight
 3 Mire's Grasp
 3 Hateful Eidolon
-3 Dead Weight
 3 Mogis's Favor
+3 Serrated Scorpion
+4 Village Rites
+4 Dead Weight
 4 Call of the Death-Dweller
 4 Mire's Grasp
-4 Dead Weight
 4 Hateful Eidolon
 4 Order of Midnight
+4 Serrated Scorpion
+1 Grimdancer
+2 Grimdancer
+3 Grimdancer
+4 Grimdancer
 1 Fiend Artisan
 1 Agadeem's Awakening
 1 Skyclave Shade
@@ -54,11 +54,11 @@
 2 Skyclave Shade
 2 Acquisitions Expert
 3 Lurrus of the Dream-Den
-3 Ayara, First of Locthwain
-3 Agadeem's Awakening
-3 Fiend Artisan
 3 Nightmare Shepherd
 3 Acquisitions Expert
+3 Fiend Artisan
+3 Ayara, First of Locthwain
+3 Agadeem's Awakening
 4 Acquisitions Expert
 4 Agadeem's Awakening
 4 Ayara, First of Locthwain
@@ -68,38 +68,3 @@
 2 Marauding Blight-Priest
 3 Marauding Blight-Priest
 4 Marauding Blight-Priest
-1 Silversmote Ghoul
-1 Evolving Wilds
-1 Witch's Oven
-1 Garruk, Cursed Huntsman
-1 Jungle Hollow
-1 Demonic Embrace
-1 Unexpected Fangs
-1 Lampad of Death's Vigil
-1 Grasp of Darkness
-1 Savvy Hunter
-1 Deathless Knight
-1 Forest
-1 The Great Henge
-2 Silversmote Ghoul
-2 Witch's Oven
-2 Grasp of Darkness
-2 Jungle Hollow
-2 Evolving Wilds
-2 Lampad of Death's Vigil
-2 Forest
-2 Savvy Hunter
-2 Deathless Knight
-3 Silversmote Ghoul
-3 Grasp of Darkness
-3 Jungle Hollow
-3 Deathless Knight
-3 Savvy Hunter
-3 Forest
-3 Lampad of Death's Vigil
-4 Silversmote Ghoul
-4 Grasp of Darkness
-4 Jungle Hollow
-4 Savvy Hunter
-4 Lampad of Death's Vigil
-4 Forest

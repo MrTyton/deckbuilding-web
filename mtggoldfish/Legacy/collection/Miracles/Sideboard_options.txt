@@ -58,8 +58,6 @@
 1 Sublime Epiphany
 1 Ground Seal
 2 Spell Pierce
-1 Submerge
-2 Submerge
 2 Soul-Guide Lantern
 2 Damping Sphere
 1 Enlightened Tutor
@@ -71,6 +69,8 @@
 1 Nevermore
 2 Seal of Cleansing
 2 Porphyry Nodes
+1 Submerge
+2 Submerge
 1 Palace Jailer
 2 Containment Priest
 2 Deafening Silence
@@ -97,6 +97,6 @@
 2 Hydroblast
 2 Delver of Secrets
 3 Daze
-3 Stifle
 3 Delver of Secrets
+3 Stifle
 4 Delver of Secrets

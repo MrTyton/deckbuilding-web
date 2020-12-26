@@ -1,10 +1,10 @@
 4 Roil Eruption
 1 Crash Through
 2 Crash Through
-3 Crash Through
-4 Crash Through
 3 Fire Prophecy
 4 Fire Prophecy
+3 Crash Through
+4 Crash Through
 1 Essence Scatter
 2 Essence Scatter
 1 Mystic Sanctuary
@@ -32,11 +32,19 @@
 2 Keep Safe
 1 Bubble Snare
 2 Bubble Snare
-3 Scorching Dragonfire
-1 Riverglide Pathway
-1 Spined Megalodon
 1 Thrill of Possibility
 2 Thrill of Possibility
+1 Fling
+2 Fling
+3 Scorching Dragonfire
+1 Shark Typhoon
+1 Improbable Alliance
+1 Sea Gate Restoration
+2 Improbable Alliance
+3 Improbable Alliance
+4 Improbable Alliance
+1 Riverglide Pathway
+1 Spined Megalodon
 1 Startling Development
 2 Startling Development
 1 Satyr's Cunning
@@ -54,6 +62,18 @@
 4 Omen of the Sea
 3 Bubble Snare
 4 Bubble Snare
+1 Ominous Seas
+1 Blitz of the Thunder-Raptor
+1 Experimental Overload
+1 Storm's Wrath
+1 Shatterskull Smashing
+2 Ominous Seas
+2 Experimental Overload
+2 Blitz of the Thunder-Raptor
+3 Ominous Seas
+3 Thrill of Possibility
+3 Experimental Overload
+4 Thrill of Possibility
 1 Furor of the Bitten
 1 Barge In
 2 Furor of the Bitten
@@ -65,8 +85,6 @@
 3 Mystic Sanctuary
 4 Furor of the Bitten
 4 Barge In
-1 Fling
-2 Fling
 2 Raking Claws
 3 Raking Claws
 4 Infuriate
@@ -83,27 +101,23 @@
 2 Heartfire Immolator
 2 Riddleform
 3 Sprite Dragon
+3 Umara Mystic
 3 Heartfire Immolator
 3 Riddleform
-3 Umara Mystic
 4 Sprite Dragon
 4 Umara Mystic
 4 Heartfire Immolator
 1 Rielle, the Everwise
-1 Shark Typhoon
+1 Irencrag Pyromancer
 1 Temple of Epiphany
 1 Spikefield Hazard
-1 Irencrag Pyromancer
 1 Neutralize
-1 Improbable Alliance
-1 Sea Gate Restoration
 1 Faerie Vandal
 1 Fabled Passage
 1 Teferi, Master of Time
 1 The Royal Scions
 2 Rielle, the Everwise
 2 Irencrag Pyromancer
-2 Improbable Alliance
 2 Shark Typhoon
 2 Spikefield Hazard
 2 Neutralize
@@ -113,19 +127,17 @@
 2 Fabled Passage
 3 Rielle, the Everwise
 3 Irencrag Pyromancer
-3 Improbable Alliance
 3 Neutralize
 3 Teferi, Master of Time
 3 The Royal Scions
 3 Faerie Vandal
 3 Fabled Passage
-4 Improbable Alliance
 4 Irencrag Pyromancer
 4 Faerie Vandal
 4 Fabled Passage
 1 Blisterspit Gremlin
-1 Forbidden Friendship
 1 Dwarven Mine
+1 Forbidden Friendship
 1 Burn Bright
 2 Blisterspit Gremlin
 2 Forbidden Friendship
