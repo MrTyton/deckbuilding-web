@@ -4,11 +4,11 @@
 
 # Standard
 
-|                              A                               |                                    B                                     |                                 C                                  |                           D                            |
-|--------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------|
-|[Cycling](./mtggoldfish/Standard/decks/Cycling.md)            |[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Green Food](./mtggoldfish/Standard/decks/Mono-Green_Food.md)  |[Temur Ramp](./mtggoldfish/Standard/decks/Temur_Ramp.md)|
-|[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)|[G](./mtggoldfish/Standard/decks/G.md)                                    |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)    |[UR](./mtggoldfish/Standard/decks/UR.md)                |
-|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)  |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[WUG](./mtggoldfish/Standard/decks/WUG.md)              |
+|                              A                               |                                    B                                     |                                 C                                  |                           D                            |                    E                     |
+|--------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------|------------------------------------------|
+|[Cycling](./mtggoldfish/Standard/decks/Cycling.md)            |[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Green Food](./mtggoldfish/Standard/decks/Mono-Green_Food.md)  |[Temur Ramp](./mtggoldfish/Standard/decks/Temur_Ramp.md)|[WUG](./mtggoldfish/Standard/decks/WUG.md)|
+|[Dimir Control](./mtggoldfish/Standard/decks/Dimir_Control.md)|[G](./mtggoldfish/Standard/decks/G.md)                                    |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)    |[UB](./mtggoldfish/Standard/decks/UB.md)                |[WUR](./mtggoldfish/Standard/decks/WUR.md)|
+|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)  |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[UR](./mtggoldfish/Standard/decks/UR.md)                |                                          |
 
 
 # Pioneer
@@ -59,4 +59,4 @@
 
 
 
-#### Last Updated at 12:43AM on December 27, 2020
+#### Last Updated at 01:44PM on December 27, 2020
