@@ -1,9 +1,9 @@
-1 Forest
-2 Forest
+1 Snow-Covered Plains
 1 Kaya, Orzhov Usurper
 2 Kaya, Orzhov Usurper
 3 Abrupt Decay
 3 Savannah
+4 Thalia, Guardian of Thraben
 1 Misty Rainforest
 1 Tropical Island
 1 Oko, Thief of Crowns
@@ -26,11 +26,6 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Verdant Catacombs
-1 Uro, Titan of Nature's Wrath
-1 Gilded Goose
-1 Tundra
-2 Sylvan Library
-4 Noble Hierarch
 1 Scryb Ranger
 1 Bojuka Bog
 3 Skyclave Apparition
@@ -41,14 +36,17 @@
 1 Flooded Strand
 2 Snow-Covered Plains
 2 Flooded Strand
-2 Uro, Titan of Nature's Wrath
-3 Uro, Titan of Nature's Wrath
+1 Uro, Titan of Nature's Wrath
+1 Gilded Goose
+1 Tundra
+2 Sylvan Library
+4 Noble Hierarch
 1 Flagstones of Trokair
 1 Dark Depths
 1 Thespian's Stage
 1 Mother of Runes
-1 Cavern of Souls
 1 Sylvan Safekeeper
+1 Cavern of Souls
 1 Sejiri Steppe
 2 Mother of Runes
 2 Flagstones of Trokair
@@ -57,8 +55,8 @@
 3 Mother of Runes
 3 Elvish Reclaimer
 4 Flagstones of Trokair
-4 Skyclave Apparition
 4 Elvish Reclaimer
+4 Skyclave Apparition
 4 Savannah
 4 Once Upon a Time
 3 Flagstones of Trokair

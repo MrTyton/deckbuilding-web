@@ -1,17 +1,17 @@
 3 Silent Clearing
 1 Glasspool Mimic
+1 Seachrome Coast
 1 Spell Queller
 1 Teferi, Time Raveler
 1 Island
 1 Hallowed Fountain
-1 Seachrome Coast
 1 Adarkar Wastes
 2 Glasspool Mimic
+2 Seachrome Coast
 2 Spell Queller
 2 Adarkar Wastes
 2 Teferi, Time Raveler
 2 Hallowed Fountain
-2 Seachrome Coast
 3 Glasspool Mimic
 3 Seachrome Coast
 3 Hallowed Fountain
@@ -34,17 +34,17 @@
 1 Cavern of Souls
 2 Cavern of Souls
 1 Eldrazi Temple
-1 Thought-Knot Seer
 1 Eldrazi Displacer
-2 Thought-Knot Seer
+1 Thought-Knot Seer
 2 Eldrazi Displacer
+2 Thought-Knot Seer
 2 Eldrazi Temple
 3 Thought-Knot Seer
 3 Eldrazi Displacer
 3 Eldrazi Temple
 4 Thought-Knot Seer
-4 Eldrazi Temple
 4 Eldrazi Displacer
+4 Eldrazi Temple
 1 Sword of Feast and Famine
 1 Snow-Covered Plains
 2 Snow-Covered Plains
@@ -76,12 +76,12 @@
 1 Mountain
 1 Angrath's Marauders
 1 Seasoned Pyromancer
-2 Pia and Kiran Nalaar
 2 Battlefield Forge
+2 Pia and Kiran Nalaar
 2 Sacred Foundry
+2 Inspiring Vantage
 2 Winota, Joiner of Forces
 2 Seasoned Pyromancer
-2 Inspiring Vantage
 2 Angrath's Marauders
 2 Needleverge Pathway
 3 Battlefield Forge
@@ -93,11 +93,11 @@
 3 Winota, Joiner of Forces
 4 Battlefield Forge
 4 Angrath's Marauders
-4 Sacred Foundry
 4 Sunbaked Canyon
+4 Sacred Foundry
+4 Inspiring Vantage
 4 Seasoned Pyromancer
 4 Winota, Joiner of Forces
-4 Inspiring Vantage
 4 Needleverge Pathway
 1 Aven Mindcensor
 1 Horizon Canopy
@@ -105,8 +105,8 @@
 12 Plains
 3 Charming Prince
 1 Flagstones of Trokair
-1 Skyclave Cleric
 1 Sword of Light and Shadow
+1 Skyclave Cleric
 2 Skyclave Cleric
 7 Snow-Covered Plains
 8 Snow-Covered Plains
@@ -124,31 +124,31 @@
 2 Reality Smasher
 3 Reality Smasher
 3 Skyclave Cleric
-4 Reality Smasher
 4 Skyclave Cleric
+4 Reality Smasher
 1 Tidehollow Sculler
+1 Caves of Koilos
 1 Tectonic Edge
 1 Brightclimb Pathway
-1 Swamp
-1 Caves of Koilos
 1 Concealed Courtyard
 1 Wasteland Strangler
+1 Swamp
 2 Tidehollow Sculler
-2 Brightclimb Pathway
-2 Concealed Courtyard
 2 Caves of Koilos
+2 Concealed Courtyard
 2 Wasteland Strangler
-3 Brightclimb Pathway
-3 Concealed Courtyard
-3 Wasteland Strangler
+2 Brightclimb Pathway
 3 Caves of Koilos
 3 Tidehollow Sculler
-4 Tidehollow Sculler
-4 Charming Prince
-4 Brightclimb Pathway
-4 Wasteland Strangler
-4 Concealed Courtyard
+3 Wasteland Strangler
+3 Concealed Courtyard
+3 Brightclimb Pathway
 4 Caves of Koilos
+4 Wasteland Strangler
+4 Tidehollow Sculler
+4 Brightclimb Pathway
+4 Charming Prince
+4 Concealed Courtyard
 1 Scavenger Grounds
 1 Linvala, Keeper of Silence
 1 Selfless Spirit
@@ -158,8 +158,8 @@
 9 Snow-Covered Plains
 10 Snow-Covered Plains
 1 Forest
-1 Razorverge Thicket
 1 Branchloft Pathway
+1 Razorverge Thicket
 1 Noble Hierarch
 1 Temple Garden
 2 Temple Garden

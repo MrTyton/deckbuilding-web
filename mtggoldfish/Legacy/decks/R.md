@@ -30,7 +30,11 @@
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                      |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |--------------------:|-----------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
 |                    1|[Fireflux Squad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=484898)|                    1|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)|
-|                    2|[Fireflux Squad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=484898)|                    2|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)|
-|                    3|[Fireflux Squad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=484898)|                     |                                                                                            |
+|                    2|[Fireflux Squad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=484898)|                    2|[Anje's Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=470568)   |
+|                    3|[Fireflux Squad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=484898)|                    2|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)|
 |                    8|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)      |                     |                                                                                            |
+|                    1|[Blood Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439749)     |                     |                                                                                            |
+|                    2|[Blood Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439749)     |                     |                                                                                            |
+|                    3|[Blood Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439749)     |                     |                                                                                            |
+|                    4|[Fireflux Squad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=484898)|                     |                                                                                            |
 

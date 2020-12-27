@@ -39,8 +39,8 @@
 1 Murderous Rider
 1 Brazen Borrower
 1 Ethereal Forager
-2 Brazen Borrower
 2 Murderous Rider
+2 Brazen Borrower
 2 Ethereal Forager
 2 Hullbreacher
 2 Swamp
@@ -69,18 +69,18 @@
 4 City of Traitors
 4 Ancient Tomb
 4 Karn, the Great Creator
-1 Chrome Mox
 1 Pelakka Predation
 1 Helm of Obedience
 1 Leyline of the Void
 1 Curse of Misfortunes
+1 Chrome Mox
 1 Curse of Death's Hold
 1 Cruel Reality
 1 Overwhelming Splendor
-2 Chrome Mox
 2 Leyline of the Void
 2 Helm of Obedience
 2 Curse of Misfortunes
+2 Chrome Mox
 2 Pelakka Predation
 3 Chrome Mox
 3 Leyline of the Void
@@ -124,8 +124,8 @@
 2 Snow-Covered Forest
 3 Ice-Fang Coatl
 1 Stonecoil Serpent
-1 Ashiok, Dream Render
 1 Ashiok, Nightmare Muse
+1 Ashiok, Dream Render
 1 Liliana of the Veil
 1 Liliana, the Last Hope
 1 The Abyss
@@ -135,6 +135,17 @@
 2 Liliana of the Veil
 3 Fatal Push
 4 Prismatic Vista
+1 Sevinne's Reclamation
+1 Supreme Verdict
+1 Council's Judgment
+1 Felidar Retreat
+1 Plateau
+1 Keranos, God of Storms
+2 Plains
+2 Council's Judgment
+3 Snapcaster Mage
+4 Island
+4 Swords to Plowshares
 1 Mystic Sanctuary
 2 Chain Lightning
 3 Volcanic Island
@@ -146,21 +157,10 @@
 3 Brazen Borrower
 3 Hullbreacher
 4 Brazen Borrower
-1 Sevinne's Reclamation
-1 Supreme Verdict
-1 Council's Judgment
-1 Felidar Retreat
-1 Plateau
-1 Keranos, God of Storms
-2 Plains
-2 Council's Judgment
-3 Snapcaster Mage
-4 Swords to Plowshares
-4 Island
-1 Abrupt Decay
 1 Engineered Explosives
 1 Emry, Lurker of the Loch
 1 Watery Grave
+1 Abrupt Decay
 1 Breeding Pool
 1 Mox Opal
 1 Tezzeret, Agent of Bolas
@@ -185,10 +185,10 @@
 4 Snow-Covered Island
 4 Mox Opal
 1 Marsh Flats
-1 Sea Gate Stormcaller
 1 Cabal Therapy
-2 Cling to Dust
+1 Sea Gate Stormcaller
 2 Sea Gate Stormcaller
+2 Cling to Dust
 2 Marsh Flats
 2 Unearth
 2 Cabal Therapy
@@ -242,15 +242,15 @@
 1 Sorcerous Spyglass
 2 Urborg, Tomb of Yawgmoth
 3 Eliminate
-4 Eliminate
 4 Swamp
+4 Eliminate
 4 Trinisphere
 5 Swamp
 6 Swamp
 7 Swamp
 8 Swamp
-1 Opposition Agent
 1 Feed the Swarm
+1 Opposition Agent
 2 Snow-Covered Swamp
 2 Opposition Agent
 3 Snow-Covered Swamp

@@ -1,14 +1,14 @@
-1 Relic of Progenitus
+1 Emrakul, the Promised End
 1 World Breaker
 2 Walking Ballista
 1 Spatial Contortion
+2 Relic of Progenitus
+3 Relic of Progenitus
 1 Ghost Quarter
 1 Nurturing Peatland
 2 Spatial Contortion
 1 Mazemind Tome
 1 Ugin, the Ineffable
-2 Mazemind Tome
-2 Ugin, the Ineffable
 1 Mindslaver
 1 Island
 1 Gemstone Caverns
@@ -36,9 +36,10 @@
 1 River of Tears
 1 Sundering Titan
 3 Repeal
+2 Mazemind Tome
+2 Ugin, the Ineffable
 1 Kozilek, Butcher of Truth
-2 Relic of Progenitus
-3 Relic of Progenitus
+3 Oblivion Stone
 4 Wurmcoil Engine
 1 Nimble Obstructionist
 1 Oboro, Palace in the Clouds
@@ -55,7 +56,6 @@
 2 Snow-Covered Island
 2 Gemstone Caverns
 4 Remand
-1 Wastes
 1 Talisman of Progress
 1 Snapcaster Mage
 2 Dismember
@@ -65,10 +65,10 @@
 2 Field of Ruin
 1 Snow-Covered Forest
 2 Snow-Covered Forest
-3 Oblivion Stone
 1 Golos, Tireless Pilgrim
 2 Golos, Tireless Pilgrim
 3 Golos, Tireless Pilgrim
+1 Wastes
 1 Warping Wail
 2 Warping Wail
 3 Walking Ballista
@@ -91,37 +91,6 @@
 4 Snow-Covered Island
 3 Thragtusk
 4 Thragtusk
-1 Mystic Forge
-1 Buried Ruin
-1 Sea Gate Wreckage
-1 Paradox Engine
-1 Inventors' Fair
-1 Astral Cornucopia
-1 Coretapper
-1 Everflowing Chalice
-1 Surge Node
-1 Ensnaring Bridge
-2 Mystic Forge
-2 Paradox Engine
-2 Everflowing Chalice
-2 Ensnaring Bridge
-2 Surge Node
-2 Astral Cornucopia
-2 Blast Zone
-2 Coretapper
-3 Mazemind Tome
-3 Ugin, the Ineffable
-3 Mystic Forge
-3 Surge Node
-3 Astral Cornucopia
-3 Everflowing Chalice
-3 Coretapper
-4 Mazemind Tome
-4 Astral Cornucopia
-4 Coretapper
-4 Mystic Forge
-4 Surge Node
-4 Everflowing Chalice
 1 Urza's Factory
 1 Hexdrinker
 1 Explore

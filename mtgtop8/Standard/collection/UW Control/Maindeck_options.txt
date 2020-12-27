@@ -54,8 +54,8 @@
 1 Transmogrify
 2 Fire Prophecy
 2 Transmogrify
-3 Transmogrify
 3 Fire Prophecy
+3 Transmogrify
 4 Fire Prophecy
 4 Transmogrify
 2 Ugin, the Spirit Dragon
@@ -106,8 +106,8 @@
 3 Charming Prince
 4 Charming Prince
 3 Swift Response
-4 Swift Response
 4 Negate
+4 Swift Response
 1 Temple of Epiphany
 1 Storm's Wrath
 1 Scorching Dragonfire
@@ -122,8 +122,8 @@
 2 Mystical Dispute
 4 Brazen Borrower
 1 Thirst for Meaning
-2 Thirst for Meaning
 2 Temple of Triumph
+2 Thirst for Meaning
 3 Valakut Awakening
 3 Temple of Triumph
 3 Thirst for Meaning
@@ -136,46 +136,30 @@
 2 Ondu Inversion
 3 Fae of Wishes
 10 Plains
-1 Ruin Crab
-1 Rain of Revelation
-1 Jace, Mirror Mage
-1 Frantic Inventory
-1 Kiora Bests the Sea God
-1 Cancel
-1 Disenchant
-2 Ruin Crab
-2 Kiora Bests the Sea God
-2 Rain of Revelation
-2 Frantic Inventory
-2 Cancel
-3 Tranquil Cove
-3 Frantic Inventory
-4 Tranquil Cove
-4 Frantic Inventory
+1 Unknown Shores
 1 Labyrinth of Skophos
 1 Forsaken Monument
 1 Radiant Fountain
 1 Runed Halo
 1 Golden Egg
 1 Sleeper Dart
-1 Unknown Shores
 2 Dance of the Manse
+2 Unknown Shores
 2 Forsaken Monument
 2 Runed Halo
 2 Radiant Fountain
 2 Golden Egg
 2 Labyrinth of Skophos
 2 Sleeper Dart
-2 Unknown Shores
 3 Dance of the Manse
 3 Crawling Barrens
 3 Ugin, the Spirit Dragon
+3 Unknown Shores
 3 Golden Egg
 3 Forsaken Monument
-3 Runed Halo
 3 Radiant Fountain
+3 Runed Halo
 3 Labyrinth of Skophos
-3 Unknown Shores
 3 Sleeper Dart
 4 Ugin, the Spirit Dragon
 4 Crawling Barrens
@@ -183,3 +167,19 @@
 4 Runed Halo
 4 Sleeper Dart
 4 Labyrinth of Skophos
+1 Ruin Crab
+1 Frantic Inventory
+1 Kiora Bests the Sea God
+1 Cancel
+1 Disenchant
+1 Rain of Revelation
+1 Jace, Mirror Mage
+2 Ruin Crab
+2 Kiora Bests the Sea God
+2 Frantic Inventory
+2 Cancel
+2 Rain of Revelation
+3 Frantic Inventory
+3 Tranquil Cove
+4 Frantic Inventory
+4 Tranquil Cove

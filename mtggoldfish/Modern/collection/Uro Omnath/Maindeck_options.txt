@@ -6,9 +6,9 @@
 1 Windswept Heath
 2 Windswept Heath
 3 Windswept Heath
+1 Birds of Paradise
 1 Noble Hierarch
 1 Sacred Foundry
-1 Birds of Paradise
 1 Eternal Witness
 2 Birds of Paradise
 2 Snow-Covered Forest
@@ -20,9 +20,9 @@
 2 Wall of Blossoms
 4 Birds of Paradise
 2 Noble Hierarch
-1 Restoration Angel
 1 Chord of Calling
 1 Kiki-Jiki, Mirror Breaker
+1 Restoration Angel
 2 Restoration Angel
 2 Chord of Calling
 2 Eternal Witness
@@ -38,28 +38,28 @@
 3 Utopia Sprawl
 4 Utopia Sprawl
 1 Scavenging Ooze
+1 Stoneforge Mystic
 1 Batterskull
 1 Sword of Fire and Ice
 1 Eldritch Evolution
 1 Magus of the Moon
-1 Stoneforge Mystic
 1 Seasoned Pyromancer
+2 Stoneforge Mystic
 2 Sacred Foundry
 2 Seasoned Pyromancer
 2 Eldritch Evolution
-2 Stoneforge Mystic
 3 Seasoned Pyromancer
-3 Restoration Angel
 3 Stoneforge Mystic
+3 Restoration Angel
+4 Stoneforge Mystic
 4 Seasoned Pyromancer
 4 Restoration Angel
-4 Stoneforge Mystic
 3 Growth Spiral
 1 Meddling Mage
 1 Verdant Catacombs
 1 Loaming Shaman
-1 Eidolon of Rhetoric
 1 Grove of the Burnwillows
+1 Eidolon of Rhetoric
 2 Scavenging Ooze
 4 Growth Spiral
 3 Wall of Blossoms
@@ -72,8 +72,8 @@
 1 Coiling Oracle
 1 Eladamri's Call
 2 Coiling Oracle
-3 Coiling Oracle
 3 Noble Hierarch
+3 Coiling Oracle
 4 Coiling Oracle
 4 Noble Hierarch
 1 Reflecting Pool
@@ -82,24 +82,24 @@
 1 Gilded Goose
 2 Stomping Ground
 1 Deputy of Detention
-1 Aether Vial
-1 Soulherder
 1 Charming Prince
+1 Aether Vial
 1 Snow-Covered Mountain
+1 Soulherder
 1 Acidic Slime
 1 Ice-Fang Coatl
 1 Avalanche Riders
 1 Venser, Shaper Savant
 1 Ephemerate
 2 Aether Vial
-2 Snow-Covered Island
 2 Avalanche Riders
+2 Snow-Covered Island
 2 Soulherder
 2 Ice-Fang Coatl
 2 Ephemerate
 2 Breeding Pool
-3 Eternal Witness
 3 Aether Vial
+3 Eternal Witness
 3 Ephemerate
 3 Ice-Fang Coatl
 4 Aether Vial
@@ -112,13 +112,13 @@
 2 Saheeli Rai
 2 Felidar Guardian
 2 Oath of Nissa
-3 Teferi, Time Raveler
 3 Saheeli Rai
 3 Felidar Guardian
 3 Oath of Nissa
-4 Felidar Guardian
-4 Saheeli Rai
+3 Teferi, Time Raveler
 4 Teferi, Time Raveler
+4 Saheeli Rai
+4 Felidar Guardian
 4 Oath of Nissa
 3 Time Warp
 4 Omnath, Locus of Creation
@@ -126,8 +126,8 @@
 3 Meddling Mage
 1 Glen Elendra Archmage
 3 Eldritch Evolution
-1 Giver of Runes
 1 Akroma, Angel of Fury
+1 Giver of Runes
 3 Prismatic Vista
 3 Soulherder
 4 Prismatic Vista
@@ -138,15 +138,15 @@
 3 Skyclave Apparition
 4 Wall of Blossoms
 1 Watcher for Tomorrow
-1 Auriok Champion
 1 Arid Mesa
+1 Auriok Champion
 3 Avalanche Riders
 4 Avalanche Riders
 1 Castle Vantress
 1 Life from the Loam
 1 Tale's End
-1 Mountain
 1 Arboreal Grazer
+1 Mountain
 1 Waterlogged Grove
 2 Forest
 2 Arboreal Grazer

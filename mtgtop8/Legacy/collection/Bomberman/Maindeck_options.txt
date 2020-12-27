@@ -1,5 +1,4 @@
 1 Ancient Den
-2 Ancient Den
 1 Spatial Contortion
 1 Azorius Signet
 1 Ranger of Eos
@@ -7,14 +6,10 @@
 2 Azorius Signet
 2 Spatial Contortion
 2 Ranger of Eos
+2 Ancient Den
 3 Seat of the Synod
 3 Azorius Signet
 4 Seat of the Synod
-1 Monastery Mentor
-2 Monastery Mentor
-2 Plains
-3 Monastery Mentor
-4 Mishra's Bauble
 1 Lodestone Bauble
 1 Crystal Vein
 1 Blast Zone
@@ -22,13 +17,18 @@
 1 Karn, Scion of Urza
 1 Teferi, Time Raveler
 1 Engineered Explosives
+1 Monastery Mentor
 1 Trinket Mage
 1 Sai, Master Thopterist
 1 Skycloud Expanse
+2 Monastery Mentor
 2 Karn, Scion of Urza
+2 Plains
 2 Teferi, Time Raveler
 2 Sai, Master Thopterist
 2 Skycloud Expanse
+3 Monastery Mentor
+4 Mishra's Bauble
 1 Worldgorger Dragon
 1 Wishclaw Talisman
 1 Prophetic Prism
@@ -44,10 +44,3 @@
 3 Entomb
 3 Dance of the Dead
 4 Entomb
-1 Heliod, Sun-Crowned
-1 Mystic Forge
-2 Mystic Forge
-3 Ancient Den
-4 Monastery Mentor
-4 Ancient Den
-4 Urza's Bauble

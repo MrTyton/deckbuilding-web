@@ -131,6 +131,6 @@
 |                    4|[Goblin Warchief](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157934)         |                     |                                                                                                     |
 |                    1|[Pyrokinesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3180)               |                     |                                                                                                     |
 |                    2|[Pyrokinesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3180)               |                     |                                                                                                     |
-|                   10|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                |                     |                                                                                                     |
 |                   11|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                |                     |                                                                                                     |
+|                   10|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                |                     |                                                                                                     |
 

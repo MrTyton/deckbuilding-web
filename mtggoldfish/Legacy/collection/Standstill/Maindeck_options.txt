@@ -1,10 +1,8 @@
-1 Counterspell
 1 Prismatic Vista
+2 Spell Snare
 1 Silundi Vision
-2 Silundi Vision
 2 Prismatic Vista
-1 Snapcaster Mage
-1 Hall of Heliod's Generosity
+2 Silundi Vision
 3 Prismatic Vista
 1 Cast Out
 1 Replenish
@@ -16,13 +14,15 @@
 3 Lay Claim
 3 Replenish
 4 Lay Claim
-2 Snapcaster Mage
-2 Counterspell
+3 Teferi, Time Raveler
+1 Hall of Heliod's Generosity
 4 Cast Out
+1 Snapcaster Mage
+2 Counterspell
 1 Island
 4 Replenish
 2 Island
-3 Teferi, Time Raveler
+2 Snapcaster Mage
 1 Plains
 2 Plains
 1 Polluted Delta
@@ -31,25 +31,23 @@
 3 Island
 6 Snow-Covered Island
 2 Mystic Sanctuary
+2 Supreme Verdict
+1 Pyroblast
+4 Island
+1 Wasteland
 1 Stoneforge Mystic
 1 Batterskull
 2 Stoneforge Mystic
-2 Supreme Verdict
-1 Vendilion Clique
-1 Spell Pierce
-4 Island
-1 Wasteland
-1 Sword of Feast and Famine
-3 Snapcaster Mage
 1 Counterbalance
 2 Counterbalance
+1 Vendilion Clique
+1 Spell Pierce
 1 Mountain
 1 Mishra's Factory
 1 Magmatic Sinkhole
-1 Pyroblast
 2 Mishra's Factory
-2 Magmatic Sinkhole
 2 Pyroblast
+2 Magmatic Sinkhole
 5 Island
 1 Back to Basics
 2 Wasteland
@@ -57,11 +55,13 @@
 1 Brazen Borrower
 3 Force of Negation
 4 Force of Negation
+1 Hullbreacher
+2 Hullbreacher
 1 The Tabernacle at Pendrell Vale
 1 Lonely Sandbar
 1 Underground Sea
-1 Field of the Dead
 1 Forest
+1 Field of the Dead
 1 Snow-Covered Forest
 1 Mox Diamond
 1 Life from the Loam
@@ -71,19 +71,19 @@
 1 Misty Rainforest
 1 Verdant Catacombs
 1 Oko, Thief of Crowns
-2 Life from the Loam
 2 Mox Diamond
+2 Life from the Loam
 2 Misty Rainforest
 2 Oko, Thief of Crowns
-3 Oko, Thief of Crowns
 3 Mox Diamond
 3 Life from the Loam
-4 Mox Diamond
+3 Oko, Thief of Crowns
 4 Wasteland
+4 Mox Diamond
+1 Daze
 1 Swamp
 1 Eliminate
 1 Cling to Dust
-1 Daze
 1 Changeling Outcast
 1 Yuriko, the Tiger's Shadow
 1 Ingenious Infiltrator
@@ -91,14 +91,15 @@
 1 Retrofitter Foundry
 1 Fatal Push
 2 Swamp
+2 Daze
 2 Changeling Outcast
 2 Ornithopter
 2 Yuriko, the Tiger's Shadow
-2 Daze
 2 Retrofitter Foundry
 2 Fatal Push
 2 Ingenious Infiltrator
 3 Fatal Push
+3 Daze
 3 Swamp
 3 Yuriko, the Tiger's Shadow
 3 Polluted Delta
@@ -106,7 +107,6 @@
 3 Ornithopter
 3 Ingenious Infiltrator
 3 Changeling Outcast
-3 Daze
 4 Polluted Delta
 4 Changeling Outcast
 4 Ingenious Infiltrator
@@ -119,6 +119,12 @@
 1 Court of Cunning
 2 Back to Basics
 2 Court of Cunning
+1 Sword of Feast and Famine
+3 Snapcaster Mage
+1 Day's Undoing
+1 Council's Judgment
+2 Day's Undoing
+3 Day's Undoing
 3 Tundra
 4 Teferi, Time Raveler
 1 Savannah
@@ -131,18 +137,17 @@
 2 Chalice of the Void
 2 Abrupt Decay
 2 Uro, Titan of Nature's Wrath
-3 Chalice of the Void
 3 Abrupt Decay
-3 Misty Rainforest
 3 Uro, Titan of Nature's Wrath
+3 Chalice of the Void
+3 Misty Rainforest
 4 Uro, Titan of Nature's Wrath
 4 Misty Rainforest
 4 Abrupt Decay
 4 Chalice of the Void
-1 Ghost Quarter
 1 Waterlogged Grove
+1 Ghost Quarter
 1 Wooded Foothills
-1 Bojuka Bog
 1 Maze of Ith
 1 Dark Depths
 1 Elvish Reclaimer
@@ -151,6 +156,7 @@
 1 Riftstone Portal
 1 Thespian's Stage
 1 Crop Rotation
+1 Bojuka Bog
 2 Waterlogged Grove
 2 Elvish Reclaimer
 2 Maze of Ith
@@ -172,19 +178,17 @@
 4 Crop Rotation
 1 Glasspool Mimic
 1 Sea Gate Restoration
-1 Hullbreacher
 1 True-Name Nemesis
-1 Silvergill Adept
 1 Aether Vial
+1 Silvergill Adept
 1 Master of the Pearl Trident
 1 Cavern of Souls
 1 Chrome Mox
 1 Lord of Atlantis
 1 Mutavault
 2 Glasspool Mimic
-2 Hullbreacher
-2 Sea Gate Restoration
 2 True-Name Nemesis
+2 Sea Gate Restoration
 2 Chrome Mox
 2 Silvergill Adept
 2 Master of the Pearl Trident
@@ -198,8 +202,8 @@
 3 True-Name Nemesis
 3 Silvergill Adept
 3 Cavern of Souls
-3 Lord of Atlantis
 3 Master of the Pearl Trident
+3 Lord of Atlantis
 3 Mutavault
 3 Aether Vial
 3 Chrome Mox
@@ -221,8 +225,8 @@
 1 Astral Slide
 1 Secluded Steppe
 2 Lonely Sandbar
-2 Containment Priest
 2 Street Wraith
+2 Containment Priest
 2 Astral Drift
 2 Astral Slide
 2 Secluded Steppe
@@ -236,8 +240,8 @@
 3 Lonely Sandbar
 3 Astral Drift
 4 Street Wraith
-4 Containment Priest
 4 Snow-Covered Plains
+4 Containment Priest
 4 Gilded Drake
 4 Astral Drift
 4 Astral Slide

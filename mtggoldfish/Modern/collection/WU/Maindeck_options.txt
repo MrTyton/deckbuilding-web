@@ -1,8 +1,8 @@
 1 Spell Queller
 2 Spell Queller
 3 Spell Queller
-1 Maul of the Skyclaves
 1 Glasspool Mimic
+1 Maul of the Skyclaves
 2 Glasspool Mimic
 3 Glasspool Mimic
 4 Glasspool Mimic
@@ -16,11 +16,11 @@
 4 Confounding Conundrum
 1 Selfless Savior
 2 Selfless Savior
-1 Jace, the Mind Sculptor
-1 Mystic Sanctuary
 1 Flooded Strand
-2 Mystic Sanctuary
+1 Mystic Sanctuary
+1 Jace, the Mind Sculptor
 2 Flooded Strand
+2 Mystic Sanctuary
 3 Flooded Strand
 4 Flooded Strand
 1 Opt
@@ -33,7 +33,12 @@
 1 Archmage's Charm
 2 Force of Negation
 2 Archmage's Charm
+1 Watcher for Tomorrow
+2 Watcher for Tomorrow
 3 Force of Negation
+3 Watcher for Tomorrow
+1 Cavern of Souls
+2 Cavern of Souls
 2 Island
 3 Island
 4 Opt
@@ -41,8 +46,6 @@
 4 Island
 5 Island
 1 Silent Clearing
-1 Watcher for Tomorrow
-2 Watcher for Tomorrow
 1 Snapcaster Mage
 1 Misty Rainforest
 2 Snapcaster Mage
@@ -51,9 +54,6 @@
 1 Spell Snare
 1 Scalding Tarn
 1 Mana Leak
-3 Watcher for Tomorrow
-1 Cavern of Souls
-2 Cavern of Souls
 2 Silent Clearing
 2 Teferi, Hero of Dominaria
 3 Snapcaster Mage
@@ -62,15 +62,17 @@
 1 Shark Typhoon
 2 Shark Typhoon
 3 Cryptic Command
+4 Watcher for Tomorrow
 2 Misty Rainforest
 3 Archmage's Charm
 6 Island
 2 Supreme Verdict
-4 Watcher for Tomorrow
 2 Mana Leak
 1 Deprive
 3 Mystic Sanctuary
 1 Remand
+1 Deputy of Detention
+2 Deputy of Detention
 1 Sword of Feast and Famine
 1 Charming Prince
 1 Delay
@@ -80,8 +82,6 @@
 1 Celestial Colonnade
 2 Celestial Colonnade
 1 Oust
-1 Deputy of Detention
-2 Deputy of Detention
 2 Polluted Delta
 2 Spell Snare
 1 Logic Knot
@@ -98,8 +98,8 @@
 5 Snow-Covered Island
 4 Force of Negation
 2 Scalding Tarn
-1 Sea Gate Restoration
 1 Frantic Inventory
+1 Sea Gate Restoration
 2 Frantic Inventory
 3 Frantic Inventory
 4 Frantic Inventory
@@ -116,6 +116,9 @@
 1 Prismatic Vista
 3 Shark Typhoon
 3 Jace, the Mind Sculptor
+1 Sword of Light and Shadow
+3 Deputy of Detention
+7 Plains
 1 Glacial Fortress
 3 Polluted Delta
 2 Remand
@@ -126,9 +129,6 @@
 2 Glacial Fortress
 1 Omen of the Sea
 2 Omen of the Sea
-1 Sword of Light and Shadow
-3 Deputy of Detention
-7 Plains
 4 Snapcaster Mage
 3 Supreme Verdict
 1 Eldrazi Displacer
@@ -140,6 +140,14 @@
 4 Eldrazi Displacer
 4 Adarkar Wastes
 4 Shefet Dunes
+1 Aven Mindcensor
+1 Mirran Crusader
+2 Aven Mindcensor
+2 Mirran Crusader
+8 Plains
+9 Plains
+10 Plains
+11 Plains
 4 Polluted Delta
 1 Search for Azcanta
 3 Mana Leak
@@ -173,14 +181,6 @@
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains
-1 Aven Mindcensor
-1 Mirran Crusader
-2 Aven Mindcensor
-2 Mirran Crusader
-8 Plains
-9 Plains
-10 Plains
-11 Plains
 1 Peek
 2 Peek
 1 Detention Sphere
@@ -191,17 +191,6 @@
 1 Hieroglyphic Illumination
 3 Teferi, Hero of Dominaria
 4 Misty Rainforest
-1 Lightning Bolt
-1 Steam Vents
-1 Mountain
-1 Lightning Helix
-2 Lightning Bolt
-2 Steam Vents
-2 Lightning Helix
-3 Scalding Tarn
-3 Lightning Bolt
-4 Scalding Tarn
-4 Lightning Bolt
 1 Fatal Push
 1 Kaya's Guile
 1 Watery Grave
@@ -222,5 +211,16 @@
 2 Karn, the Great Creator
 3 Narset, Parter of Veils
 3 Spell Snare
-7 Island
 4 Narset, Parter of Veils
+7 Island
+1 Lightning Bolt
+1 Mountain
+1 Steam Vents
+1 Lightning Helix
+2 Steam Vents
+2 Lightning Bolt
+2 Lightning Helix
+3 Lightning Bolt
+3 Scalding Tarn
+4 Lightning Bolt
+4 Scalding Tarn
