@@ -1,8 +1,8 @@
-3 Oko, Thief of Crowns
+2 Preordain
 1 Flooded Strand
 1 Polluted Delta
 2 Polluted Delta
-1 Hullbreacher
+3 Oko, Thief of Crowns
 4 Stifle
 4 Scalding Tarn
 2 Flooded Strand
@@ -25,6 +25,7 @@
 1 Fatal Push
 2 Fatal Push
 4 Baleful Strix
+2 Hullbreacher
 1 Jace, the Mind Sculptor
 3 Underground Sea
 2 Prismatic Vista
@@ -83,7 +84,6 @@
 2 Murderous Rider
 2 Brazen Borrower
 2 Ethereal Forager
-2 Hullbreacher
 3 Trinisphere
 1 Opposition Agent
 2 Snow-Covered Swamp
@@ -142,15 +142,15 @@
 1 Surgical Extraction
 2 Snow-Covered Forest
 3 Ice-Fang Coatl
+1 Stonecoil Serpent
 1 Ashiok, Dream Render
 1 Ashiok, Nightmare Muse
-1 Stonecoil Serpent
 1 Liliana, the Last Hope
 1 The Abyss
 1 Liliana of the Veil
 1 To the Slaughter
-2 Ashiok, Dream Render
 2 Stonecoil Serpent
+2 Ashiok, Dream Render
 2 Liliana of the Veil
 3 Fatal Push
 4 Prismatic Vista
@@ -176,10 +176,10 @@
 3 Snapcaster Mage
 4 Swords to Plowshares
 4 Island
+1 Emry, Lurker of the Loch
 1 Engineered Explosives
 1 Watery Grave
 1 Abrupt Decay
-1 Emry, Lurker of the Loch
 1 Breeding Pool
 1 Mox Opal
 1 Tezzeret, Agent of Bolas
@@ -203,14 +203,14 @@
 4 Mishra's Bauble
 4 Snow-Covered Island
 4 Mox Opal
+1 Sea Gate Stormcaller
 1 Marsh Flats
 1 Cabal Therapy
-1 Sea Gate Stormcaller
 2 Cling to Dust
 2 Sea Gate Stormcaller
 2 Marsh Flats
-2 Unearth
 2 Cabal Therapy
+2 Unearth
 3 Marsh Flats
 3 Cabal Therapy
 3 Sea Gate Stormcaller
@@ -244,9 +244,9 @@
 3 Punishing Fire
 3 Eldrazi Temple
 3 Blood Sun
+3 Simian Spirit Guide
 3 Reality Smasher
 3 Thought-Knot Seer
-3 Simian Spirit Guide
 3 Mountain
 4 Thought-Knot Seer
 4 Punishing Fire

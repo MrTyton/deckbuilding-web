@@ -74,7 +74,7 @@
 |                    3|[Ashiok's Erasure](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476294)        |                     |                                                                                                 |
 |                    3|[Tempest Djinn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442956)           |                     |                                                                                                 |
 |                    4|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)         |                     |                                                                                                 |
+|                    4|[Witching Well](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473036)           |                     |                                                                                                 |
 |                   18|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                  |                     |                                                                                                 |
 |                   19|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                  |                     |                                                                                                 |
-|                    4|[Witching Well](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473036)           |                     |                                                                                                 |
 

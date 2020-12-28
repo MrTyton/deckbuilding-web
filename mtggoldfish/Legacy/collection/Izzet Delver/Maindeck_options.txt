@@ -2,12 +2,11 @@
 1 Mountain
 1 Island
 2 Island
-1 Brazen Borrower
-2 Misty Rainforest
 2 Flooded Strand
+1 Brazen Borrower
 4 Volcanic Island
+2 Misty Rainforest
 3 Polluted Delta
-1 Spell Pierce
 1 Flusterstorm
 1 Monastery Swiftspear
 2 Monastery Swiftspear
@@ -15,6 +14,7 @@
 4 Monastery Swiftspear
 1 Wooded Foothills
 3 Flooded Strand
+1 Spell Pierce
 1 Krark, the Thumbless
 2 Krark, the Thumbless
 3 Krark, the Thumbless
@@ -72,8 +72,5 @@
 2 Magmatic Channeler
 3 Magmatic Channeler
 3 Fiery Islet
-3 True-Name Nemesis
 4 Magmatic Channeler
-1 Sword of Fire and Ice
-3 Misty Rainforest
-4 Misty Rainforest
+3 True-Name Nemesis

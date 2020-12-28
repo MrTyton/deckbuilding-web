@@ -22,8 +22,8 @@
 1 Blood Price
 2 Shredded Sails
 3 Shredded Sails
-1 Easy Prey
 1 Improbable Alliance
+1 Easy Prey
 1 Yidaro, Wandering Monster
 2 Improbable Alliance
 2 Yidaro, Wandering Monster
@@ -33,12 +33,12 @@
 3 Negate
 4 Yidaro, Wandering Monster
 2 Soul-Guide Lantern
-1 Extinction Event
-1 Experimental Overload
 1 Irencrag Pyromancer
+1 Experimental Overload
+1 Extinction Event
+2 Irencrag Pyromancer
 2 Experimental Overload
 2 Extinction Event
-2 Irencrag Pyromancer
 3 Irencrag Pyromancer
 4 Irencrag Pyromancer
 1 Storm's Wrath
@@ -55,6 +55,8 @@
 2 Revoke Existence
 1 Feat of Resistance
 2 Feat of Resistance
+1 Shock
+2 Shock
 3 Scorching Dragonfire
 1 Mazemind Tome
 1 Phoenix of Ash
@@ -62,11 +64,9 @@
 1 Hushbringer
 2 Hushbringer
 3 Hushbringer
-1 Shock
 1 Roil Eruption
-1 Zirda, the Dawnwaker
 1 Dreadful Apathy
-2 Shock
+1 Zirda, the Dawnwaker
 2 Dreadful Apathy
 3 Revoke Existence
 1 Swamp
@@ -74,14 +74,22 @@
 2 Village Rites
 3 Suffocating Fumes
 3 Village Rites
+1 Cancel
+1 Essence Scatter
+1 Starlit Mantle
+2 Essence Scatter
+2 Starlit Mantle
+3 Shock
+3 Starlit Mantle
+4 Shock
 1 Seasoned Hallowblade
 2 Seasoned Hallowblade
 3 Seasoned Hallowblade
 4 Seasoned Hallowblade
-1 Underworld Rage-Hound
 1 Disenchant
-2 Underworld Rage-Hound
+1 Underworld Rage-Hound
 2 Disenchant
+2 Underworld Rage-Hound
 3 Underworld Rage-Hound
 4 Underworld Rage-Hound
 3 Blazing Volley

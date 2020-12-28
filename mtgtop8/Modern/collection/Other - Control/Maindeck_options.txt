@@ -1,8 +1,8 @@
-2 Into the Story
 2 Soaring Thought-Thief
 2 Creeping Tar Pit
 2 Darkslick Shores
 2 Drown in the Loch
+2 Thieves' Guild Enforcer
 2 Spell Snare
 2 Swamp
 3 Thieves' Guild Enforcer
@@ -21,11 +21,12 @@
 1 Explore
 2 Snow-Covered Forest
 1 Snow-Covered Plains
+1 Sakura-Tribe Elder
 1 Scattered Groves
 1 Search for Tomorrow
+1 Field of the Dead
 1 Felidar Retreat
 1 Primeval Titan
-1 Field of the Dead
 1 Temple Garden
 1 Solemn Simulacrum
 1 Baneslayer Angel
@@ -34,7 +35,6 @@
 1 Wurmcoil Engine
 1 Castle Garenbrig
 1 Windswept Heath
-1 Sakura-Tribe Elder
 1 Wooded Foothills
 1 Selesnya Sanctuary
 1 Canopy Vista
@@ -43,9 +43,9 @@
 2 Search for Tomorrow
 2 Sakura-Tribe Elder
 2 Field of the Dead
+2 Arboreal Grazer
 2 Solemn Simulacrum
 2 Explore
-2 Arboreal Grazer
 2 Felidar Retreat
 2 Windswept Heath
 2 Wurmcoil Engine
@@ -140,9 +140,9 @@
 4 Force of Negation
 5 Island
 1 Wilderness Reclamation
+1 Castle Vantress
 1 Ice-Fang Coatl
 1 Fact or Fiction
-1 Castle Vantress
 1 Uro, Titan of Nature's Wrath
 1 Nexus of Fate
 1 Shark Typhoon
@@ -150,21 +150,21 @@
 1 Breeding Pool
 2 Wilderness Reclamation
 2 Breeding Pool
-2 Nexus of Fate
 2 Ice-Fang Coatl
+2 Nexus of Fate
 2 Uro, Titan of Nature's Wrath
 2 Remand
 2 Growth Spiral
 2 Scalding Tarn
 3 Field of Ruin
 3 Mystic Sanctuary
-3 Nexus of Fate
 3 Wilderness Reclamation
 3 Breeding Pool
 3 Snow-Covered Island
 3 Misty Rainforest
 3 Remand
 3 Growth Spiral
+3 Nexus of Fate
 3 Uro, Titan of Nature's Wrath
 4 Growth Spiral
 4 Snow-Covered Island
@@ -175,11 +175,11 @@
 6 Snow-Covered Island
 1 Battlefield Forge
 1 Suppression Field
-1 Mana Tithe
 1 Cascading Cataracts
+1 Mana Tithe
 1 Stone Rain
-1 Inspiring Vantage
 1 Oust
+1 Inspiring Vantage
 1 Molten Rain
 1 Magus of the Tabernacle
 1 Flagstones of Trokair
@@ -194,8 +194,8 @@
 1 Goblin Dark-Dwellers
 2 Battlefield Forge
 2 Mana Tithe
-2 Stone Rain
 2 Inspiring Vantage
+2 Stone Rain
 2 Suppression Field
 2 Oust
 2 Molten Rain

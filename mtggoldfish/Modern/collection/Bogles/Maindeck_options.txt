@@ -34,9 +34,9 @@
 4 Path to Exile
 1 Invisible Stalker
 1 Seachrome Coast
-2 Stubborn Denial
 2 Invisible Stalker
 2 Seachrome Coast
+2 Stubborn Denial
 3 Invisible Stalker
 3 Staggering Insight
 1 Island
@@ -53,8 +53,8 @@
 2 Dromoka's Command
 2 Sixth Sense
 1 Irrigated Farmland
-2 Irrigated Farmland
 2 Misty Rainforest
+2 Irrigated Farmland
 1 Suppression Field
 2 Suppression Field
 3 Suppression Field
@@ -70,12 +70,12 @@
 1 Sram, Senior Edificer
 3 All That Glitters
 4 All That Glitters
-1 Kor Outfitter
-1 Magnetic Theft
 1 Sunbaked Canyon
+1 Kor Outfitter
 1 Silence
-1 Colossus Hammer
+1 Magnetic Theft
 1 Shadowspear
+1 Colossus Hammer
 1 Steelshaper's Gift
 1 Inkmoth Nexus
 1 Kor Duelist
@@ -83,9 +83,9 @@
 1 Open the Armory
 1 Stoneforge Mystic
 1 City of Brass
+2 Sunbaked Canyon
 2 Kor Outfitter
 2 Magnetic Theft
-2 Sunbaked Canyon
 2 Shadowspear
 2 Steelshaper's Gift
 2 Inkmoth Nexus
@@ -96,7 +96,6 @@
 2 Colossus Hammer
 2 Kor Duelist
 3 Mana Confluence
-3 Sunbaked Canyon
 3 Magnetic Theft
 3 Kor Duelist
 3 Sigarda's Aid
@@ -104,21 +103,22 @@
 3 Stoneforge Mystic
 3 Colossus Hammer
 3 City of Brass
+3 Sunbaked Canyon
 3 Kor Outfitter
 3 Steelshaper's Gift
 3 Inkmoth Nexus
-4 Sunbaked Canyon
 4 Sigarda's Aid
 4 Kor Duelist
 4 Kor Outfitter
 4 City of Brass
 4 Mana Confluence
 4 Steelshaper's Gift
+4 Sunbaked Canyon
 4 Inkmoth Nexus
 4 Magnetic Theft
 4 Colossus Hammer
 4 Stoneforge Mystic
-1 Waterlogged Grove
 1 Force of Negation
+1 Waterlogged Grove
 2 Force of Negation
 4 Arcane Flight

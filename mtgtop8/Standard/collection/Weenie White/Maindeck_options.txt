@@ -32,8 +32,8 @@
 3 Hushbringer
 4 Hushbringer
 1 Temple of Triumph
-1 Winota, Joiner of Forces
 1 Kor Blademaster
+1 Winota, Joiner of Forces
 1 Goma Fada Vanguard
 1 Fireblade Charger
 1 Mountain
@@ -86,17 +86,17 @@
 2 All That Glitters
 3 All That Glitters
 3 Kabira Takedown
+1 Akiri, Fearless Voyager
+2 Akiri, Fearless Voyager
+1 Baneslayer Angel
+1 Angel of Destiny
+2 Baneslayer Angel
+2 Angel of Destiny
 1 Archon of Sun's Grace
 1 Fight as One
 2 Banishing Light
 2 Archon of Sun's Grace
 2 Fight as One
-1 Akiri, Fearless Voyager
-2 Akiri, Fearless Voyager
-1 Angel of Destiny
-1 Baneslayer Angel
-2 Baneslayer Angel
-2 Angel of Destiny
 1 Angelic Ascension
 2 Angelic Ascension
 3 Angelic Ascension
@@ -106,12 +106,6 @@
 2 Elspeth, Sun's Nemesis
 4 Lurrus of the Dream-Den
 4 Kabira Takedown
-1 Venerable Knight
-2 Venerable Knight
-3 Emeria's Call
-3 Venerable Knight
-4 Emeria's Call
-4 Venerable Knight
 1 Pacifism
 1 Heliod's Punishment
 1 Bonders' Enclave
@@ -120,11 +114,17 @@
 2 Heliod's Punishment
 3 Pacifism
 4 Heliod, Sun-Crowned
+1 Venerable Knight
+2 Venerable Knight
+3 Emeria's Call
+3 Venerable Knight
+4 Emeria's Call
+4 Venerable Knight
+1 Idyllic Grange
 1 Fearless Fledgling
 1 Garrison Cat
 1 Daybreak Charger
 1 Basri's Acolyte
-1 Idyllic Grange
 1 Daybreak Chimera
 1 Sunlit Hoplite
 1 Eidolon of Inspiration
@@ -146,11 +146,11 @@
 4 Sunlit Hoplite
 1 Basri Ket
 4 Glass Casket
-1 Feat of Resistance
 1 Gingerbrute
+1 Feat of Resistance
 1 Karametra's Blessing
-2 Feat of Resistance
 2 Gingerbrute
+2 Feat of Resistance
 2 Karametra's Blessing
 3 Sentinel's Eyes
 3 Gingerbrute

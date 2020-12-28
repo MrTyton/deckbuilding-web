@@ -1,7 +1,9 @@
-14 Mountain
-15 Mountain
-16 Mountain
 17 Mountain
+1 Wooded Foothills
+2 Wooded Foothills
+3 Wooded Foothills
+1 Roiling Vortex
+2 Roiling Vortex
 3 Sulfuric Vortex
 3 Bloodstained Mire
 1 Plateau
@@ -9,13 +11,11 @@
 2 Arid Mesa
 2 Plateau
 3 Arid Mesa
-1 Roiling Vortex
-2 Roiling Vortex
-3 Skewer the Critics
-4 Skewer the Critics
 3 Exquisite Firecraft
 18 Mountain
 19 Mountain
+3 Skewer the Critics
+4 Skewer the Critics
 1 Light Up the Stage
 2 Light Up the Stage
 3 Roiling Vortex
@@ -44,6 +44,7 @@
 2 Barbarian Ring
 4 Light Up the Stage
 1 Goblin Rabblemaster
+1 Anax, Hardened in the Forge
 1 Legion Warboss
 1 Chandra, Torch of Defiance
 1 Bonecrusher Giant
@@ -70,7 +71,6 @@
 1 Hazoret the Fervent
 1 Snow-Covered Mountain
 1 Viashino Pyromancer
-1 Anax, Hardened in the Forge
 1 Abrade
 1 Ash Zealot
 2 Snow-Covered Mountain
