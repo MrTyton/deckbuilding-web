@@ -1,20 +1,20 @@
 4 Riverglide Pathway
-4 Memory Leak
 3 Mountain
 4 Mountain
+4 Memory Leak
 1 Clearwater Pathway
+4 Boon of the Wish-Giver
+1 Ominous Seas
+2 Ominous Seas
 3 Brightclimb Pathway
 1 Shredded Sails
 2 Shredded Sails
 3 Shredded Sails
-4 Boon of the Wish-Giver
-1 Ominous Seas
-2 Ominous Seas
 4 Brightclimb Pathway
-3 Shatterskull Smashing
 5 Plains
 6 Plains
 3 Raugrin Triome
+3 Shatterskull Smashing
 1 Savai Triome
 1 Emeria's Call
 1 Reptilian Reflection
@@ -31,9 +31,6 @@
 7 Plains
 7 Mountain
 8 Mountain
-8 Plains
-4 Frostveil Ambush
-9 Plains
 1 Robber of the Rich
 1 Selfless Savior
 1 Bonecrusher Giant
@@ -43,9 +40,9 @@
 2 Robber of the Rich
 2 Selfless Savior
 2 Bonecrusher Giant
-2 Seasoned Hallowblade
 2 Embercleave
 2 Luminarch Aspirant
+2 Seasoned Hallowblade
 3 Robber of the Rich
 3 Selfless Savior
 3 Seasoned Hallowblade
@@ -62,19 +59,23 @@
 2 Relic Robber
 2 Skyclave Apparition
 2 Archpriest of Iona
-3 Fireblade Charger
 3 Relic Robber
 3 Embercleave
 3 Skyclave Apparition
 3 Archpriest of Iona
-4 Embercleave
 4 Relic Robber
 4 Skyclave Apparition
+4 Embercleave
 4 Luminarch Aspirant
 3 Bonecrusher Giant
-4 Bonecrusher Giant
+8 Plains
 1 Temple of Triumph
 2 Temple of Triumph
+4 Frostveil Ambush
+9 Plains
+4 Archpriest of Iona
+3 Fireblade Charger
+4 Bonecrusher Giant
 3 Temple of Triumph
 4 Temple of Triumph
 2 Reptilian Reflection
@@ -87,7 +88,6 @@
 2 Easy Prey
 2 Castle Embereth
 4 Fireblade Charger
-4 Archpriest of Iona
 1 Faerie Guidemother
 1 Castle Ardenvale
 1 Maul of the Skyclaves

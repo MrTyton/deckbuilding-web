@@ -12,17 +12,17 @@
 2 Duress
 5 Swamp
 1 Castle Locthwain
-1 Agonizing Remorse
 1 Leyline Tyrant
+1 Agonizing Remorse
 1 Myriad Construct
 2 Valakut Awakening
 2 Agonizing Remorse
 3 Shredded Sails
 3 Fire Prophecy
 1 Savai Triome
+1 Purphoros's Intervention
 1 Phoenix of Ash
 1 Eliminate
-1 Purphoros's Intervention
 1 Gravebreaker Lamia
 1 Pelakka Predation
 1 Kazuul's Fury
@@ -39,9 +39,8 @@
 4 Yidaro, Wandering Monster
 4 Irencrag Feat
 1 Chandra, Heart of Fire
-1 Massacre Wurm
 1 Thrill of Possibility
-1 Underworld Dreams
+1 Massacre Wurm
 1 Roil Eruption
 1 Pestilent Haze
 1 Grasp of Darkness
@@ -51,24 +50,25 @@
 1 Revenge of Ravens
 1 Bloodchief's Thirst
 1 Cling to Dust
-2 Dead Weight
+1 Underworld Dreams
 2 Thrill of Possibility
-2 Underworld Dreams
+2 Bloodfell Caves
+2 Dead Weight
 2 Roil Eruption
 2 Pestilent Haze
 2 Grasp of Darkness
+2 Cinderclasm
 2 Cling to Dust
 2 Revenge of Ravens
 2 Bloodchief's Thirst
-2 Cinderclasm
-2 Bloodfell Caves
+2 Underworld Dreams
+3 Bloodfell Caves
 3 Thrill of Possibility
-3 Underworld Dreams
 3 Grasp of Darkness
 3 Bloodchief's Thirst
-3 Bloodfell Caves
+3 Underworld Dreams
 3 Revenge of Ravens
-3 Duress
+4 Bloodfell Caves
 6 Swamp
 7 Swamp
 8 Mountain
@@ -77,4 +77,4 @@
 9 Swamp
 10 Swamp
 11 Swamp
-4 Bloodfell Caves
+3 Duress

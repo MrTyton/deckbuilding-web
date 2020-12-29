@@ -87,7 +87,7 @@
 |                    2|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)        |                    2|[Klothys, God of Destiny](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476471)|
 |                    3|[Of One Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479580)         |                    2|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)         |
 |                    3|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)        |                    2|Rough / Tumble                                                                                    |
-|                    4|[Of One Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479580)         |                     |                                                                                                  |
 |                    4|Krark, the Thumbless                                                                           |                     |                                                                                                  |
+|                    4|[Of One Mind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479580)         |                     |                                                                                                  |
 |                    4|[Young Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426592)    |                     |                                                                                                  |
 

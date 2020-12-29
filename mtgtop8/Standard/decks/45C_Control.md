@@ -41,13 +41,13 @@
 |                    4|[Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977)         |                     |              |
 |                    4|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)        |                     |              |
 |                    4|[Elspeth's Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476342)  |                     |              |
+|                    4|[Archon of Sun's Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476254)|                     |              |
 |                    4|[Savai Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479773)         |                     |              |
 |                    4|[Clearwater Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491913)   |                     |              |
 |                    4|[Banishing Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405135)      |                     |              |
 |                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)       |                     |              |
 |                    4|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)  |                     |              |
 |                    4|[Raugrin Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479771)       |                     |              |
-|                    4|[Archon of Sun's Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476254)|                     |              |
 |                    4|[Riverglide Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491920)   |                     |              |
 |                    4|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)  |                     |              |
 |                    4|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)        |                     |              |

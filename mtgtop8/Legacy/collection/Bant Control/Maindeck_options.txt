@@ -1,25 +1,26 @@
-2 Snow-Covered Forest
-4 Ice-Fang Coatl
 1 Volcanic Island
+1 Archmage's Charm
 2 Teferi, Time Raveler
+4 Ice-Fang Coatl
 1 Snapcaster Mage
-4 Force of Negation
-1 Karakas
 1 Council's Judgment
 2 Snow-Covered Plains
+4 Force of Negation
+1 Karakas
 3 Uro, Titan of Nature's Wrath
-1 Supreme Verdict
 2 Prismatic Vista
+1 Supreme Verdict
 1 Sevinne's Reclamation
 1 Counterspell
+3 Terminus
+4 Snow-Covered Island
 1 Narset, Parter of Veils
 1 Back to Basics
 1 Windswept Heath
 2 Windswept Heath
 1 Noble Hierarch
 2 Noble Hierarch
-3 Terminus
-4 Snow-Covered Island
+1 Scalding Tarn
 3 Prismatic Vista
 1 Search for Azcanta
 1 Hullbreacher
@@ -44,12 +45,11 @@
 3 Noble Hierarch
 3 Green Sun's Zenith
 4 Green Sun's Zenith
-1 Forest
 1 Field of the Dead
-1 Indatha Triome
-1 Zagoth Triome
+1 Forest
 1 Birds of Paradise
 1 Opposition Agent
+1 Eternal Witness
 1 Thragtusk
 1 Leovold, Emissary of Trest
 1 Bayou
@@ -58,15 +58,16 @@
 1 Gonti, Lord of Luxury
 1 Ramunap Excavator
 1 Baleful Strix
+1 Zagoth Triome
 1 Skyclave Apparition
+1 Birthing Pod
+1 Indatha Triome
 1 Taiga
 1 Spellseeker
 1 Thrun, the Last Troll
 1 Sigarda, Host of Herons
 1 Verdant Catacombs
-1 Eternal Witness
 1 Ephemerate
-1 Birthing Pod
 1 Primeval Titan
 1 Recruiter of the Guard
 1 Coiling Oracle
@@ -86,7 +87,6 @@
 1 Monastery Mentor
 1 Preordain
 1 Abundant Growth
-1 Scalding Tarn
 1 Pyroblast
 2 Abundant Growth
 2 Counterspell
@@ -116,5 +116,9 @@
 1 Dead of Winter
 2 Abrupt Decay
 2 Polluted Delta
-4 Prismatic Vista
 3 Abrupt Decay
+4 Prismatic Vista
+1 Accumulated Knowledge
+2 Accumulated Knowledge
+3 Accumulated Knowledge
+4 Accumulated Knowledge

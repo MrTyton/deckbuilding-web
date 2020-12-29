@@ -1,9 +1,9 @@
 1 Expedition Map
 2 Once Upon a Time
 2 Green Sun's Zenith
+2 Primeval Titan
 2 Elvish Reclaimer
 2 Pithing Needle
-2 Primeval Titan
 2 Expedition Map
 3 Once Upon a Time
 3 Green Sun's Zenith
@@ -34,9 +34,16 @@
 1 Dark Depths
 3 Crop Rotation
 4 Crop Rotation
-1 Kozilek, Butcher of Truth
 1 Maze of Ith
+1 Kozilek, Butcher of Truth
 3 Primeval Titan
+1 Forest
+2 Forest
+3 Forest
+4 Forest
+5 Forest
+6 Forest
+7 Forest
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
@@ -47,13 +54,6 @@
 2 Walking Ballista
 7 Snow-Covered Forest
 4 Matter Reshaper
-1 Forest
-2 Forest
-3 Forest
-4 Forest
-5 Forest
-6 Forest
-7 Forest
 1 Wastes
 2 Sorcerous Spyglass
 1 Blast Zone
@@ -71,7 +71,6 @@
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 1 Waterlogged Grove
-1 Dryad Arbor
 1 Warping Wail
 2 Warping Wail
 1 Emrakul, the Promised End
@@ -82,13 +81,14 @@
 1 Sphere of Resistance
 2 Basalt Monolith
 2 Forsaken Monument
-2 Ugin, the Spirit Dragon
 2 Sphere of Resistance
+2 Ugin, the Spirit Dragon
 3 Sphere of Resistance
 4 Sphere of Resistance
 3 Stonecoil Serpent
 2 Wastes
 3 Walking Ballista
+1 Dryad Arbor
 1 Manifold Key
 1 Mazemind Tome
 1 Mindbreak Trap

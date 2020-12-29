@@ -71,8 +71,8 @@
 |                    4|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)                |                     |                                                                                                   |
 |                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)       |                     |                                                                                                   |
 |                    4|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)              |                     |                                                                                                   |
-|                    4|[Fearless Fledgling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491637)  |                     |                                                                                                   |
 |                    4|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052) |                     |                                                                                                   |
 |                    4|[Delver of Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=226749)   |                     |                                                                                                   |
+|                    4|[Fearless Fledgling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491637)  |                     |                                                                                                   |
 |                    4|[Brainstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3897)            |                     |                                                                                                   |
 

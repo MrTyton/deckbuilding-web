@@ -7,7 +7,6 @@
 4 Fabled Passage
 2 Fatal Push
 1 Forest
-1 Heartless Act
 4 Hinterland Harbor
 3 Island
 2 Negate
@@ -17,6 +16,7 @@
 4 Shark Typhoon
 4 Sinister Sabotage
 1 Swamp
+1 Tasigur, the Golden Fang
 3 Thassa's Intervention
 3 Uro, Titan of Nature's Wrath
 3 Watery Grave
@@ -29,6 +29,6 @@ Sideboard
 1 Erebos's Intervention
 1 Extinction Event
 2 Fatal Push
-4 Mystical Dispute
-1 Notion Thief
-1 Soul Shatter
+2 Mystical Dispute
+2 Notion Thief
+2 Thought Distortion
