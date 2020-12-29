@@ -1,11 +1,11 @@
-1 Titania, Protector of Argoth
-1 Maze of Ith
 1 Bojuka Bog
 1 Field of the Dead
+1 Dryad of the Ilysian Grove
 1 Vesuva
 1 Gaddock Teeg
 1 Path to Exile
 1 Crop Rotation
+1 Scute Swarm
 2 Field of the Dead
 2 Dryad of the Ilysian Grove
 2 Elvish Reclaimer
@@ -31,12 +31,6 @@
 2 Birds of Paradise
 3 Birds of Paradise
 2 Scryb Ranger
-1 Brainstorm
-1 True-Name Nemesis
-1 Plague Engineer
-2 Brainstorm
-3 Brainstorm
-4 Brainstorm
 1 Umezawa's Jitte
 1 Aether Vial
 2 Aether Vial
@@ -50,13 +44,17 @@
 1 Phyrexian Revoker
 1 Vendilion Clique
 1 Voice of Resurgence
+1 Brainstorm
 1 Spell Queller
+1 True-Name Nemesis
+1 Plague Engineer
 1 Palace Jailer
 1 Deputy of Detention
 1 Atraxa, Praetors' Voice
 2 Tropical Island
 2 Tundra
 2 Mother of Runes
+2 Brainstorm
 2 Fauna Shaman
 2 Bayou
 3 Misty Rainforest
@@ -65,9 +63,11 @@
 3 Savannah
 3 Fauna Shaman
 3 Bayou
+3 Brainstorm
 4 Misty Rainforest
 4 Tropical Island
 4 Fauna Shaman
+4 Brainstorm
 4 Savannah
 4 Bayou
 5 Windswept Heath
@@ -109,59 +109,6 @@
 4 City of Traitors
 4 Chalice of the Void
 4 Ancient Tomb
-1 Cavern of Souls
-2 Cavern of Souls
-3 Cavern of Souls
-1 Brazen Borrower
-1 Force of Will
-2 Force of Will
-3 Force of Will
-4 Force of Will
-1 Jace, the Mind Sculptor
-1 Eliminate
-1 Spell Pierce
-1 Unearth
-1 Scalding Tarn
-1 Thieves' Guild Enforcer
-1 Rankle, Master of Pranks
-1 Fatal Push
-1 Nighthawk Scavenger
-1 Baleful Strix
-1 Soaring Thought-Thief
-1 Underground Sea
-1 Ponder
-1 Snow-Covered Island
-1 Bitterblossom
-1 Anowon, the Ruin Thief
-1 Polluted Delta
-1 Snow-Covered Swamp
-2 Scalding Tarn
-2 Eliminate
-2 Thieves' Guild Enforcer
-2 Nighthawk Scavenger
-2 Ponder
-2 Polluted Delta
-2 Fatal Push
-2 Baleful Strix
-2 Soaring Thought-Thief
-2 Snow-Covered Swamp
-2 Snow-Covered Island
-2 True-Name Nemesis
-2 Underground Sea
-3 Underground Sea
-3 Baleful Strix
-3 Scalding Tarn
-3 Nighthawk Scavenger
-3 Snow-Covered Island
-3 Polluted Delta
-3 Thieves' Guild Enforcer
-3 Ponder
-3 Soaring Thought-Thief
-4 Scalding Tarn
-4 Soaring Thought-Thief
-4 Baleful Strix
-4 Polluted Delta
-4 Thieves' Guild Enforcer
 3 Forest
 4 Forest
 1 Archon of Valor's Reach
@@ -193,34 +140,37 @@
 1 Sunbaked Canyon
 1 Embercleave
 1 Winota, Joiner of Forces
-1 Legion Warboss
 1 Goblin Rabblemaster
+1 Legion Warboss
+1 Cavern of Souls
 1 Simian Spirit Guide
 1 Talisman of Conviction
 1 Battlefield Forge
 1 Godo, Bandit Warlord
 1 Angrath's Marauders
 1 Blood Sun
-2 Goblin Rabblemaster
 2 Legion Warboss
+2 Cavern of Souls
 2 Winota, Joiner of Forces
 2 Angrath's Marauders
 2 Blood Sun
 2 Trinisphere
 2 Simian Spirit Guide
 2 Plateau
-3 Goblin Rabblemaster
+2 Goblin Rabblemaster
 3 Legion Warboss
+3 Cavern of Souls
 3 Plateau
 3 Winota, Joiner of Forces
 3 Simian Spirit Guide
+3 Goblin Rabblemaster
 3 Angrath's Marauders
 3 Trinisphere
-4 Goblin Rabblemaster
 4 Legion Warboss
 4 Plateau
 4 Winota, Joiner of Forces
 4 Simian Spirit Guide
+4 Goblin Rabblemaster
 4 Angrath's Marauders
 1 Tireless Tracker
 1 Lightning Bolt
@@ -253,20 +203,22 @@
 4 Seasoned Pyromancer
 4 Prismatic Vista
 4 Pillage
-1 Island
 1 Ninja of the Deep Hours
 1 Force of Negation
 1 Flusterstorm
 1 Skaab Ruinator
 1 Spellstutter Sprite
 1 Judge's Familiar
+1 Island
 1 Nivmagus Elemental
+1 Brazen Borrower
 1 Mausoleum Wanderer
 1 Disrupting Shoal
 1 Daze
 1 Sky Hussar
 1 Martyr of Frost
 1 Ancestral Vision
+1 Force of Will
 2 Island
 2 Umezawa's Jitte
 2 Ninja of the Deep Hours
@@ -280,20 +232,23 @@
 2 Spellstutter Sprite
 2 Disrupting Shoal
 2 Daze
+2 Force of Will
 2 Flusterstorm
 2 Judge's Familiar
 3 Island
 3 Flusterstorm
 3 Judge's Familiar
 3 Mausoleum Wanderer
+3 Force of Will
 3 Daze
 3 Sky Hussar
 3 Martyr of Frost
 4 Island
 4 Daze
 4 Judge's Familiar
-4 Sky Hussar
 4 Mausoleum Wanderer
+4 Sky Hussar
+4 Force of Will
 5 Island
 6 Island
 7 Island
@@ -316,11 +271,11 @@
 2 Jungle Lion
 2 Silhana Ledgewalker
 2 Might of Old Krosa
+2 Skarrgan Pit-Skulk
 2 Dryad Militant
 2 Rancor
-2 Skarrgan Pit-Skulk
-2 Invigorate
 2 Seal of Strength
+2 Invigorate
 2 Nettle Sentinel
 2 Kavu Predator
 3 Berserk

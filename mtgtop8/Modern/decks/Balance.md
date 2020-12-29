@@ -44,7 +44,7 @@
 |                    3|[Izzet Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=338413)          |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
 |                    3|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)  |                    2|[Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129801)          |
 |                    3|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)          |                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
-|                    4|[Ancestral Vision](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189244)     |                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)    |
-|                    4|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)  |                     |                                                                                              |
+|                    4|[Dreadhorde Arcanist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461052)  |                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)    |
+|                    4|[Ancestral Vision](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189244)     |                     |                                                                                              |
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)               |                     |                                                                                              |
 
