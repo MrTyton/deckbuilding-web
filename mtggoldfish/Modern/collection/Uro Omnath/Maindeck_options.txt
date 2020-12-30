@@ -39,9 +39,9 @@
 3 Utopia Sprawl
 4 Utopia Sprawl
 1 Scavenging Ooze
-1 Batterskull
-1 Sword of Fire and Ice
 1 Stoneforge Mystic
+1 Sword of Fire and Ice
+1 Batterskull
 1 Eldritch Evolution
 1 Verdant Catacombs
 1 Seasoned Pyromancer
@@ -50,14 +50,14 @@
 2 Sacred Foundry
 2 Seasoned Pyromancer
 2 Eldritch Evolution
-3 Stoneforge Mystic
 3 Seasoned Pyromancer
 3 Wooded Foothills
+3 Stoneforge Mystic
 3 Restoration Angel
 4 Stoneforge Mystic
-4 Seasoned Pyromancer
 4 Wooded Foothills
 4 Restoration Angel
+4 Seasoned Pyromancer
 3 Teferi, Time Raveler
 4 Wrenn and Six
 3 Wall of Blossoms
@@ -141,7 +141,6 @@
 4 Ice-Fang Coatl
 4 Avalanche Riders
 4 Ephemerate
-3 Field of the Dead
 1 Arboreal Grazer
 1 Prismatic Vista
 1 Mountain
@@ -149,3 +148,4 @@
 2 Forest
 2 Prismatic Vista
 2 Arboreal Grazer
+3 Field of the Dead

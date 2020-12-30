@@ -13,10 +13,10 @@
 2 Windswept Heath
 1 Ancient Tomb
 3 Punishing Fire
-1 Abrupt Decay
 1 Bayou
-2 Verdant Catacombs
+1 Abrupt Decay
 2 Abrupt Decay
+2 Verdant Catacombs
 2 Bayou
 3 Abrupt Decay
 4 Elvish Reclaimer
@@ -82,8 +82,8 @@
 1 Nissa of Shadowed Boughs
 1 Badlands
 1 Sejiri Steppe
-2 Nissa of Shadowed Boughs
 2 Ramunap Excavator
+2 Nissa of Shadowed Boughs
 2 Brushfire Elemental
 3 Lightning Bolt
 3 Brushfire Elemental
@@ -92,11 +92,16 @@
 4 Brushfire Elemental
 4 Dark Confidant
 1 Manabond
-1 Temple Garden
-3 Skyclave Apparition
 1 Sevinne's Reclamation
 1 Plateau
 3 Flagstones of Trokair
+1 Temple Garden
+3 Skyclave Apparition
+1 Molten Vortex
+2 Molten Vortex
+3 Taiga
+3 Molten Vortex
+4 Oko, Thief of Crowns
 1 Breeding Pool
 1 Primeval Titan
 1 Tireless Tracker
@@ -109,8 +114,3 @@
 3 Cavern of Souls
 3 Swords to Plowshares
 3 Once Upon a Time
-1 Molten Vortex
-2 Molten Vortex
-3 Taiga
-3 Molten Vortex
-4 Oko, Thief of Crowns

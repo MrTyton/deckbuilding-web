@@ -1,9 +1,8 @@
-1 Titania, Protector of Argoth
 1 Maze of Ith
 1 Bojuka Bog
+1 Gaddock Teeg
 1 Field of the Dead
 1 Vesuva
-1 Gaddock Teeg
 1 Path to Exile
 1 Crop Rotation
 2 Dryad of the Ilysian Grove
@@ -14,20 +13,20 @@
 2 Path to Exile
 3 Dryad of the Ilysian Grove
 3 Elvish Reclaimer
-3 Flagstones of Trokair
 3 Skyclave Apparition
+3 Flagstones of Trokair
+4 Once Upon a Time
 4 Flagstones of Trokair
 4 Elvish Reclaimer
 1 Scryb Ranger
 1 Birds of Paradise
 1 Noble Hierarch
 2 Noble Hierarch
-2 Forest
 1 Misty Rainforest
 1 Tropical Island
 1 Tundra
 2 Misty Rainforest
-1 Fauna Shaman
+2 Forest
 2 Birds of Paradise
 3 Birds of Paradise
 2 Scryb Ranger
@@ -36,8 +35,8 @@
 2 Aether Vial
 3 Aether Vial
 4 Aether Vial
-1 Bayou
 1 Abrupt Decay
+1 Bayou
 1 Sanctum Prelate
 1 Mother of Runes
 1 Leovold, Emissary of Trest
@@ -49,6 +48,7 @@
 1 True-Name Nemesis
 1 Plague Engineer
 1 Palace Jailer
+1 Fauna Shaman
 1 Deputy of Detention
 1 Atraxa, Praetors' Voice
 2 Tropical Island
@@ -81,61 +81,24 @@
 3 Noble Hierarch
 4 Wasteland
 4 Noble Hierarch
-1 Hexdrinker
-1 Questing Beast
 1 Oko, Thief of Crowns
 1 Gilded Goose
 1 Uro, Titan of Nature's Wrath
+1 Hexdrinker
+1 Questing Beast
 1 Gaea's Cradle
 2 Verdant Catacombs
-2 Snow-Covered Forest
 2 Oko, Thief of Crowns
+2 Snow-Covered Forest
 2 Knight of the Reliquary
 3 Oko, Thief of Crowns
 3 Knight of the Reliquary
 4 Knight of the Reliquary
-2 Ancient Tomb
-1 Chalice of the Void
-1 Trinisphere
-1 City of Traitors
-1 Chrome Mox
-2 Chalice of the Void
-2 City of Traitors
-2 Chrome Mox
-3 Ancient Tomb
-3 City of Traitors
-3 Chrome Mox
-3 Chalice of the Void
-4 City of Traitors
-4 Chalice of the Void
-4 Ancient Tomb
-3 Forest
-4 Forest
-1 Archon of Valor's Reach
-1 Garruk, Unleashed
-1 Llanowar Visionary
-1 Tarmogoyf
-1 Progenitus
-1 Shifting Ceratops
-1 Elder Gargaroth
-1 Natural Order
-1 Allosaurus Shepherd
-1 Deathgorge Scavenger
-1 Thragtusk
-1 Elvish Spirit Guide
-1 Garruk Relentless
-2 Elvish Spirit Guide
-2 Allosaurus Shepherd
-2 Natural Order
-3 Natural Order
-3 Allosaurus Shepherd
-3 Elvish Spirit Guide
-4 Natural Order
-4 Elvish Spirit Guide
 1 Magus of the Moon
 1 Seasoned Pyromancer
 1 Mountain
 2 Seasoned Pyromancer
+2 Ancient Tomb
 3 Seasoned Pyromancer
 1 Sunbaked Canyon
 1 Embercleave
@@ -143,55 +106,69 @@
 1 Legion Warboss
 1 Cavern of Souls
 1 Simian Spirit Guide
+1 Trinisphere
 1 Talisman of Conviction
+1 Chalice of the Void
 1 Battlefield Forge
 1 Godo, Bandit Warlord
 1 Winota, Joiner of Forces
 1 Angrath's Marauders
+1 City of Traitors
 1 Blood Sun
+1 Chrome Mox
+2 Plateau
 2 Legion Warboss
-2 Cavern of Souls
 2 Winota, Joiner of Forces
+2 City of Traitors
 2 Angrath's Marauders
+2 Cavern of Souls
+2 Chrome Mox
 2 Blood Sun
+2 Chalice of the Void
 2 Trinisphere
 2 Simian Spirit Guide
-2 Plateau
 2 Goblin Rabblemaster
+3 Goblin Rabblemaster
 3 Legion Warboss
 3 Cavern of Souls
 3 Plateau
 3 Simian Spirit Guide
-3 Goblin Rabblemaster
+3 Ancient Tomb
 3 Winota, Joiner of Forces
 3 Angrath's Marauders
+3 City of Traitors
+3 Chrome Mox
+3 Chalice of the Void
 3 Trinisphere
+4 Goblin Rabblemaster
 4 Legion Warboss
 4 Plateau
+4 City of Traitors
 4 Simian Spirit Guide
-4 Goblin Rabblemaster
+4 Chalice of the Void
+4 Ancient Tomb
 4 Winota, Joiner of Forces
 4 Angrath's Marauders
-1 Tireless Tracker
 1 Lightning Bolt
 1 Grove of the Burnwillows
 1 Bonecrusher Giant
 1 Klothys, God of Destiny
 1 Bloodbraid Elf
+1 Tireless Tracker
 1 Prismatic Vista
 1 Stomping Ground
 1 Pillage
 2 Magus of the Moon
-2 Klothys, God of Destiny
 2 Lightning Bolt
 2 Grove of the Burnwillows
 2 Bonecrusher Giant
+2 Klothys, God of Destiny
 2 Tireless Tracker
 2 Prismatic Vista
 2 Mountain
+2 Pillage
 2 Ramunap Excavator
 2 Bloodbraid Elf
-2 Pillage
 3 Lightning Bolt
 3 Bonecrusher Giant
 3 Pillage
@@ -278,6 +255,7 @@
 2 Invigorate
 2 Nettle Sentinel
 2 Kavu Predator
+3 Forest
 3 Berserk
 3 Invigorate
 3 Rancor
@@ -291,10 +269,11 @@
 4 Might of Old Krosa
 4 Kavu Predator
 4 Rancor
-4 Invigorate
 4 Berserk
+4 Forest
 4 Jungle Lion
 4 Dryad Militant
+4 Invigorate
 4 Skarrgan Pit-Skulk
 4 Silhana Ledgewalker
 5 Forest
