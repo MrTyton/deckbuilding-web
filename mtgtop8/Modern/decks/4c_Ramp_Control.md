@@ -92,8 +92,8 @@
 |                    1|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989)         |                     |                                                                                                |
 |                    1|[Flooded Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442228)            |                     |                                                                                                |
 |                    1|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)        |                     |                                                                                                |
-|                    2|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989)         |                     |                                                                                                |
 |                    2|[Lonely Sandbar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376401)           |                     |                                                                                                |
+|                    2|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989)         |                     |                                                                                                |
 |                    3|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989)         |                     |                                                                                                |
 |                    4|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989)         |                     |                                                                                                |
 

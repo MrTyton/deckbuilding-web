@@ -4,11 +4,11 @@
 
 # Standard
 
-|                              A                               |                                    B                                     |                                 C                                  |                           D                            |                    E                     |
-|--------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------|------------------------------------------|
-|[Azorius Blink](./mtggoldfish/Standard/decks/Azorius_Blink.md)|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)              |[Mono-Green Food](./mtggoldfish/Standard/decks/Mono-Green_Food.md)  |[Temur Ramp](./mtggoldfish/Standard/decks/Temur_Ramp.md)|[WB](./mtggoldfish/Standard/decks/WB.md)  |
-|[B](./mtggoldfish/Standard/decks/B.md)                        |[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)    |[UBG](./mtggoldfish/Standard/decks/UBG.md)              |[WUR](./mtggoldfish/Standard/decks/WUR.md)|
-|[Cycling](./mtggoldfish/Standard/decks/Cycling.md)            |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[UB](./mtggoldfish/Standard/decks/UB.md)                |                                          |
+|                              A                               |                                    B                                     |                                 C                                  |                           D                            |
+|--------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------|
+|[Azorius Blink](./mtggoldfish/Standard/decks/Azorius_Blink.md)|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)              |[Mono-Green Food](./mtggoldfish/Standard/decks/Mono-Green_Food.md)  |[Temur Ramp](./mtggoldfish/Standard/decks/Temur_Ramp.md)|
+|[B](./mtggoldfish/Standard/decks/B.md)                        |[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)    |[UB](./mtggoldfish/Standard/decks/UB.md)                |
+|[Cycling](./mtggoldfish/Standard/decks/Cycling.md)            |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[WUR](./mtggoldfish/Standard/decks/WUR.md)              |
 
 
 # Pioneer
@@ -30,7 +30,7 @@
 |[Amulet Titan](./mtggoldfish/Modern/decks/Amulet_Titan.md)              |[Eldrazi Tron](./mtggoldfish/Modern/decks/Eldrazi_Tron.md)                          |[Infect](./mtggoldfish/Modern/decks/Infect.md)                          |[R](./mtggoldfish/Modern/decks/R.md)                                        |[U](./mtggoldfish/Modern/decks/U.md)                  |
 |[BG](./mtggoldfish/Modern/decks/BG.md)                                  |[Electrobalance](./mtggoldfish/Modern/decks/Electrobalance.md)                      |[Izzet Control](./mtggoldfish/Modern/decks/Izzet_Control.md)            |[Rakdos Death's Shadow](./mtggoldfish/Modern/decks/Rakdos_Death's_Shadow.md)|[Uro Omnath](./mtggoldfish/Modern/decks/Uro_Omnath.md)|
 |[BR](./mtggoldfish/Modern/decks/BR.md)                                  |[Five-Colors Elementals](./mtggoldfish/Modern/decks/Five-Colors_Elementals.md)      |[Jeskai Ascendancy](./mtggoldfish/Modern/decks/Jeskai_Ascendancy.md)    |[Rakdos Midrange](./mtggoldfish/Modern/decks/Rakdos_Midrange.md)            |[WB](./mtggoldfish/Modern/decks/WB.md)                |
-|[Bant Stoneblade](./mtggoldfish/Modern/decks/Bant_Stoneblade.md)        |[Four-Color Death's Shadow](./mtggoldfish/Modern/decks/Four-Color_Death's_Shadow.md)|[Jeskai Control](./mtggoldfish/Modern/decks/Jeskai_Control.md)          |[Spirits](./mtggoldfish/Modern/decks/Spirits.md)                            |[WUB](./mtggoldfish/Modern/decks/WUB.md)              |
+|[Bant Stoneblade](./mtggoldfish/Modern/decks/Bant_Stoneblade.md)        |[Four-Color Death's Shadow](./mtggoldfish/Modern/decks/Four-Color_Death's_Shadow.md)|[Jeskai Control](./mtggoldfish/Modern/decks/Jeskai_Control.md)          |[Spirits](./mtggoldfish/Modern/decks/Spirits.md)                            |[WUBRG](./mtggoldfish/Modern/decks/WUBRG.md)          |
 |[Blitz](./mtggoldfish/Modern/decks/Blitz.md)                            |[Gifts Storm](./mtggoldfish/Modern/decks/Gifts_Storm.md)                            |[Jund Death's Shadow](./mtggoldfish/Modern/decks/Jund_Death's_Shadow.md)|[Sultai Uro](./mtggoldfish/Modern/decks/Sultai_Uro.md)                      |[WUG](./mtggoldfish/Modern/decks/WUG.md)              |
 |[Bogles](./mtggoldfish/Modern/decks/Bogles.md)                          |[Goblins](./mtggoldfish/Modern/decks/Goblins.md)                                    |[Jund](./mtggoldfish/Modern/decks/Jund.md)                              |[Temur Uro](./mtggoldfish/Modern/decks/Temur_Uro.md)                        |[WU](./mtggoldfish/Modern/decks/WU.md)                |
 |[Burn](./mtggoldfish/Modern/decks/Burn.md)                              |[Grixis Death's Shadow](./mtggoldfish/Modern/decks/Grixis_Death's_Shadow.md)        |[Mill](./mtggoldfish/Modern/decks/Mill.md)                              |[Tron](./mtggoldfish/Modern/decks/Tron.md)                                  |[W](./mtggoldfish/Modern/decks/W.md)                  |
@@ -59,4 +59,4 @@
 
 
 
-#### Last Updated at 12:55AM on January 01, 2021
+#### Last Updated at 12:41PM on January 01, 2021

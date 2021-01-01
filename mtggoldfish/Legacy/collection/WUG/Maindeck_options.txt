@@ -1,5 +1,6 @@
 2 Snow-Covered Forest
 4 Thalia, Guardian of Thraben
+1 Misty Rainforest
 2 Forest
 1 Sword of Fire and Ice
 1 Batterskull
@@ -11,50 +12,82 @@
 1 Kaya, Orzhov Usurper
 2 Kaya, Orzhov Usurper
 3 Abrupt Decay
-1 Misty Rainforest
 1 Tropical Island
+2 Misty Rainforest
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
-2 Misty Rainforest
 3 Oko, Thief of Crowns
-1 Elvish Reclaimer
-4 Noble Hierarch
-1 Tireless Tracker
 1 Brainstorm
-2 Tropical Island
 2 Brainstorm
 3 Misty Rainforest
 3 Brainstorm
 4 Misty Rainforest
 4 Brainstorm
 1 Uro, Titan of Nature's Wrath
-1 Gilded Goose
 1 Tundra
+4 Noble Hierarch
+1 Elvish Reclaimer
+1 Tireless Tracker
+2 Tropical Island
+1 Gilded Goose
 2 Sylvan Library
 1 Scryb Ranger
+2 Uro, Titan of Nature's Wrath
+1 Thrun, the Last Troll
+1 Flooded Strand
+2 Flooded Strand
 1 Bojuka Bog
 3 Skyclave Apparition
-1 Cavern of Souls
-1 Mother of Runes
-2 Mother of Runes
-3 Mother of Runes
+1 Eternal Witness
+1 Spellseeker
+1 Leovold, Emissary of Trest
+1 Snow-Covered Swamp
+1 Snow-Covered Island
+1 Hostage Taker
+1 Indatha Triome
+1 Field of the Dead
+1 Sigarda, Host of Herons
+1 Zagoth Triome
+1 Opposition Agent
+1 Birthing Pod
+1 Coiling Oracle
+1 Baleful Strix
+1 Taiga
+1 Ephemerate
+1 Primeval Titan
+1 Gonti, Lord of Luxury
+1 Thragtusk
+1 Klothys, God of Destiny
+1 Recruiter of the Guard
+1 Underground Sea
+1 Polluted Delta
+1 Soulherder
+2 Birthing Pod
+2 Coiling Oracle
+2 Baleful Strix
+3 Birthing Pod
+3 Coiling Oracle
+3 Baleful Strix
+4 Birthing Pod
+4 Coiling Oracle
+4 Baleful Strix
 1 Nurturing Peatland
 1 Zealous Persecution
-1 Thrun, the Last Troll
 1 Shifting Ceratops
-1 Flooded Strand
 2 Snow-Covered Plains
-2 Flooded Strand
-2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
+1 Cavern of Souls
 1 Flagstones of Trokair
 1 Dark Depths
 1 Thespian's Stage
+1 Mother of Runes
 1 Sylvan Safekeeper
 1 Sejiri Steppe
+2 Mother of Runes
 2 Flagstones of Trokair
 2 Thespian's Stage
 2 Elvish Reclaimer
+3 Mother of Runes
 3 Elvish Reclaimer
 3 Flagstones of Trokair
 4 Flagstones of Trokair
@@ -62,51 +95,10 @@
 4 Elvish Reclaimer
 4 Savannah
 4 Once Upon a Time
-1 Thalia's Lieutenant
-2 Thalia's Lieutenant
-2 Cavern of Souls
-3 Cavern of Souls
-4 Cavern of Souls
-1 Aether Vial
-1 Deputy of Detention
-1 Unclaimed Territory
-1 Sanctum Prelate
-1 Anafenza, the Foremost
-1 Meddling Mage
-1 Ancient Ziggurat
-1 Silent Clearing
-1 Kitesail Freebooter
-1 General Kudro of Drannith
-1 Recruiter of the Guard
-1 Champion of the Parish
-1 Reflector Mage
-2 General Kudro of Drannith
-2 Karakas
-2 Silent Clearing
-2 Meddling Mage
-2 Kitesail Freebooter
-2 Aether Vial
-2 Ancient Ziggurat
-2 Recruiter of the Guard
-2 Champion of the Parish
-2 Unclaimed Territory
-2 Reflector Mage
-3 Meddling Mage
-3 Champion of the Parish
-3 Ancient Ziggurat
-3 Thalia's Lieutenant
-3 Kitesail Freebooter
-3 Aether Vial
-3 Unclaimed Territory
-4 Aether Vial
-4 Mother of Runes
-4 Unclaimed Territory
-4 Champion of the Parish
-4 Ancient Ziggurat
-4 Thalia's Lieutenant
 1 Thalia, Heretic Cathar
 1 Suppression Field
 1 Daru Warchief
+1 Thalia's Lieutenant
 1 Aerial Responder
 1 Preeminent Captain
 1 Enlistment Officer
@@ -128,12 +120,15 @@
 2 Thalia, Heretic Cathar
 2 Chrome Mox
 2 Ancient Tomb
+2 Thalia's Lieutenant
 2 Chalice of the Void
 2 Preeminent Captain
 2 Enlistment Officer
 2 Daru Warchief
 2 Aerial Responder
+2 Cavern of Souls
 3 Thalia, Heretic Cathar
+3 Cavern of Souls
 3 Plains
 3 Suppression Field
 3 Preeminent Captain
@@ -144,10 +139,11 @@
 3 Chrome Mox
 4 Plains
 4 Chalice of the Void
+4 Suppression Field
 4 Ancient Tomb
 4 Chrome Mox
-4 Suppression Field
 4 High Sentinels of Arashin
+4 Preeminent Captain
 5 Plains
 6 Plains
-4 Preeminent Captain
+4 Cavern of Souls

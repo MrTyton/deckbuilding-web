@@ -1,39 +1,39 @@
-1 Castle Vantress
-1 Storm's Wrath
-1 Bonecrusher Giant
-1 Shatterskull Smashing
-1 Mazemind Tome
-1 Field of Ruin
 1 Shark Typhoon
-1 Soul-Guide Lantern
-2 Storm's Wrath
-2 Midnight Clock
 2 Shark Typhoon
-2 Castle Vantress
 2 Brazen Borrower
 2 Riverglide Pathway
 2 Shatterskull Smashing
-2 Soul-Guide Lantern
-2 Mazemind Tome
 2 Bonecrusher Giant
 2 Temple of Epiphany
 3 Shark Typhoon
-3 Midnight Clock
-3 Storm's Wrath
 3 Temple of Epiphany
 3 Brazen Borrower
 3 Riverglide Pathway
-3 Shatterskull Smashing
 4 Shark Typhoon
 4 Temple of Epiphany
-4 Shatterskull Smashing
 4 Riverglide Pathway
+4 Neutralize
+1 Kiora Bests the Sea God
+1 Midnight Clock
+1 Castle Vantress
+1 Storm's Wrath
+1 Mazemind Tome
+1 Field of Ruin
+1 Soul-Guide Lantern
+2 Storm's Wrath
+2 Midnight Clock
+2 Castle Vantress
+2 Soul-Guide Lantern
+2 Mazemind Tome
+3 Midnight Clock
+3 Storm's Wrath
+3 Shatterskull Smashing
+4 Shatterskull Smashing
 1 Sanctum of Calm Waters
 1 Ugin, the Spirit Dragon
 1 Rain of Revelation
 2 Rain of Revelation
 4 Scorching Dragonfire
-3 Negate
 9 Mountain
 1 Sprite Dragon
 2 Sprite Dragon
@@ -45,6 +45,9 @@
 1 Lofty Denial
 2 Lofty Denial
 3 Lofty Denial
+1 Jwari Disruption
+2 Jwari Disruption
+3 Jwari Disruption
 1 Into the Roil
 1 Cinderclasm
 1 Cancel
@@ -52,20 +55,31 @@
 2 Cinderclasm
 3 Cinderclasm
 1 Thrill of Possibility
-1 Jwari Disruption
 1 Mystical Dispute
 1 Lore Drakkis
 1 Spikefield Hazard
-2 Jwari Disruption
 2 Spikefield Hazard
 2 Lore Drakkis
 2 Mystical Dispute
-3 Jwari Disruption
 3 Spikefield Hazard
 3 Lore Drakkis
 4 Jwari Disruption
 4 Lore Drakkis
 4 Spikefield Hazard
+1 Thassa's Intervention
+1 Ox of Agonas
+1 Voracious Greatshark
+1 Rewind
+1 Soul Sear
+1 Phoenix of Ash
+2 Thassa's Intervention
+2 Voracious Greatshark
+2 Phoenix of Ash
+2 Crawling Barrens
+3 Voracious Greatshark
+3 Bonecrusher Giant
+4 Brazen Borrower
+4 Bonecrusher Giant
 1 Volcanic Geyser
 1 Evolving Wilds
 2 Evolving Wilds
@@ -83,8 +97,8 @@
 3 Roil Eruption
 3 Into the Roil
 3 Roost of Drakes
-4 Into the Roil
 4 Roil Eruption
+4 Into the Roil
 4 Roost of Drakes
 11 Island
 12 Island

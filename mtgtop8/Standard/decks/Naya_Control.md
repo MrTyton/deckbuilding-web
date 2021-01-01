@@ -49,8 +49,8 @@
 |                    2|[Kazuul's Fury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491786)          |                     |              |
 |                    2|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)          |                     |              |
 |                    2|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)      |                     |              |
-|                    2|[Realm-Cloaked Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472988)    |                     |              |
 |                    2|[Crawling Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491917)       |                     |              |
+|                    2|[Realm-Cloaked Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472988)    |                     |              |
 |                    2|[Solemn Simulacrum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389682)      |                     |              |
 |                    2|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|                     |              |
 |                    2|[Cragcrown Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491915)      |                     |              |
