@@ -60,9 +60,9 @@
 2 Wasteland
 3 Wasteland
 1 Daze
-1 Cling to Dust
 1 Fatal Push
 1 Eliminate
+1 Cling to Dust
 1 Ingenious Infiltrator
 1 Changeling Outcast
 1 Yuriko, the Tiger's Shadow
@@ -78,8 +78,8 @@
 2 Retrofitter Foundry
 2 Swamp
 2 Ingenious Infiltrator
-3 Fatal Push
 3 Daze
+3 Fatal Push
 3 Yuriko, the Tiger's Shadow
 3 Polluted Delta
 3 Retrofitter Foundry
@@ -106,7 +106,6 @@
 3 Day's Undoing
 3 Tundra
 4 Teferi, Time Raveler
-1 Forest
 1 Waterlogged Grove
 1 Ghost Quarter
 1 Maze of Ith
@@ -114,8 +113,10 @@
 1 Blast Zone
 1 Field of the Dead
 1 Snow-Covered Forest
-1 Wooded Foothills
 1 Mox Diamond
+1 Verdant Catacombs
+1 Wooded Foothills
+1 Forest
 1 Life from the Loam
 1 Dark Depths
 1 Elvish Reclaimer
@@ -124,7 +125,6 @@
 1 Tropical Island
 1 Exploration
 1 Misty Rainforest
-1 Verdant Catacombs
 1 Riftstone Portal
 1 Thespian's Stage
 1 Oko, Thief of Crowns

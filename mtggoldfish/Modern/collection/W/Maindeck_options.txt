@@ -8,6 +8,7 @@
 1 Hangarback Walker
 1 Archon of Emeria
 2 Ranger of Eos
+2 Archon of Emeria
 1 Horizon Canopy
 1 Snow-Covered Plains
 2 Snow-Covered Plains
@@ -21,7 +22,6 @@
 10 Snow-Covered Plains
 11 Snow-Covered Plains
 12 Snow-Covered Plains
-2 Archon of Emeria
 2 Horizon Canopy
 10 Plains
 11 Plains
@@ -32,18 +32,20 @@
 1 Giant Killer
 1 Idyllic Grange
 1 Windswept Heath
-1 Batterskull
-1 Stoneforge Mystic
 1 Maul of the Skyclaves
+1 Stoneforge Mystic
+1 Batterskull
 1 Nykthos, Shrine to Nyx
 2 Stoneforge Mystic
 2 Nykthos, Shrine to Nyx
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-13 Snow-Covered Plains
+1 Chalice of the Void
+2 Chalice of the Void
+3 Chalice of the Void
 3 Horizon Canopy
-1 Sword of Fire and Ice
 1 Elspeth, Knight-Errant
+1 Sword of Fire and Ice
 1 Kytheon, Hero of Akros
 2 Kytheon, Hero of Akros
 3 Kytheon, Hero of Akros
@@ -59,35 +61,4 @@
 3 Judge's Familiar
 4 Judge's Familiar
 4 Silent Clearing
-1 Mishra's Bauble
-1 Speaker of the Heavens
-1 Lurrus of the Dream-Den
-1 Serra Ascendant
-1 Soul Warden
-1 Soul's Attendant
-1 Martyr of Sands
-1 Ajani's Pridemate
-1 Dawn of Hope
-2 Mishra's Bauble
-2 Speaker of the Heavens
-2 Lurrus of the Dream-Den
-2 Serra Ascendant
-2 Soul's Attendant
-2 Martyr of Sands
-2 Soul Warden
-2 Ajani's Pridemate
-3 Mishra's Bauble
-3 Speaker of the Heavens
-3 Lurrus of the Dream-Den
-3 Ajani's Pridemate
-3 Martyr of Sands
-3 Serra Ascendant
-4 Mishra's Bauble
-4 Speaker of the Heavens
-4 Ajani's Pridemate
-4 Serra Ascendant
-4 Martyr of Sands
-14 Snow-Covered Plains
-15 Snow-Covered Plains
-16 Snow-Covered Plains
-17 Snow-Covered Plains
+13 Snow-Covered Plains

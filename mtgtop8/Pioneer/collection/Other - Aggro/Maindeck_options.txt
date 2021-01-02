@@ -63,8 +63,8 @@
 3 Spirebluff Canal
 3 Breeding Pool
 4 Lovestruck Beast
-4 Questing Beast
 4 Elder Gargaroth
+4 Questing Beast
 4 Scavenging Ooze
 4 Breeding Pool
 4 Elvish Mystic
@@ -78,8 +78,8 @@
 1 Overgrown Tomb
 2 Blood Crypt
 2 Overgrown Tomb
-3 Blooming Marsh
 3 Overgrown Tomb
+3 Blooming Marsh
 4 Blooming Marsh
 1 Gilded Goose
 1 Llanowar Wastes
@@ -185,14 +185,6 @@
 2 Cling to Dust
 3 Fatal Push
 3 Mutavault
-1 Zagoth Triome
-1 Heartless Act
-1 Of One Mind
-2 Zagoth Triome
-2 Of One Mind
-3 Of One Mind
-3 Agadeem's Awakening
-4 Into the Story
 4 Llanowar Wastes
 1 Stubborn Denial
 2 Stubborn Denial
@@ -260,6 +252,14 @@
 4 Gilded Goose
 4 Blisterpod
 4 Blood Crypt
+1 Zagoth Triome
+1 Heartless Act
+1 Of One Mind
+2 Zagoth Triome
+2 Of One Mind
+3 Of One Mind
+3 Agadeem's Awakening
+4 Into the Story
 1 Satyr Wayfinder
 1 Claim / Fame
 1 Grapple with the Past
@@ -274,7 +274,6 @@
 1 Samut, Voice of Dissent
 1 Woodland Cemetery
 1 Mountain
-2 Satyr Wayfinder
 2 Grapple with the Past
 2 Grisly Salvage
 2 Magmatic Channeler
@@ -283,11 +282,11 @@
 2 Nullhide Ferox
 2 Woodland Cemetery
 2 Samut, Voice of Dissent
+2 Satyr Wayfinder
 2 Zetalpa, Primal Dawn
 2 Vampire of the Dire Moon
 2 Soulflayer
 2 Stitcher's Supplier
-3 Satyr Wayfinder
 3 Magmatic Channeler
 3 Claim / Fame
 3 Zetalpa, Primal Dawn
@@ -297,12 +296,13 @@
 3 Soulflayer
 3 Grapple with the Past
 3 Nullhide Ferox
+3 Satyr Wayfinder
 3 Woodland Cemetery
-4 Satyr Wayfinder
 4 Zetalpa, Primal Dawn
 4 Grisly Salvage
 4 Stitcher's Supplier
 4 Woodland Cemetery
 4 Grapple with the Past
 4 Nullhide Ferox
+4 Satyr Wayfinder
 4 Soulflayer
