@@ -1,14 +1,14 @@
 2 Soaring Thought-Thief
 2 Creeping Tar Pit
 2 Darkslick Shores
-2 Thieves' Guild Enforcer
 2 Drown in the Loch
+2 Thieves' Guild Enforcer
 2 Spell Snare
 2 Swamp
 3 Thieves' Guild Enforcer
+3 Drown in the Loch
 3 Into the Story
 3 Soaring Thought-Thief
-3 Drown in the Loch
 3 Darkslick Shores
 3 Snapcaster Mage
 4 Thieves' Guild Enforcer
@@ -17,8 +17,8 @@
 4 Thought Scour
 4 Into the Story
 4 Darkslick Shores
-1 Snow-Covered Forest
 1 Explore
+1 Snow-Covered Forest
 2 Snow-Covered Forest
 1 Snow-Covered Plains
 1 Sakura-Tribe Elder
@@ -27,14 +27,14 @@
 1 Field of the Dead
 1 Felidar Retreat
 1 Primeval Titan
-1 Temple Garden
 1 Baneslayer Angel
-1 Cavern of Souls
 1 Arboreal Grazer
 1 Wurmcoil Engine
 1 Castle Garenbrig
 1 Solemn Simulacrum
+1 Temple Garden
 1 Windswept Heath
+1 Cavern of Souls
 1 Wooded Foothills
 1 Selesnya Sanctuary
 1 Canopy Vista
@@ -56,10 +56,10 @@
 2 Primeval Titan
 3 Sakura-Tribe Elder
 3 Search for Tomorrow
-3 Snow-Covered Forest
 3 Field of the Dead
 3 Arboreal Grazer
 3 Explore
+3 Snow-Covered Forest
 3 Primeval Titan
 3 Solemn Simulacrum
 3 Wurmcoil Engine
@@ -108,16 +108,16 @@
 2 Waterlogged Grove
 2 Engineered Explosives
 3 Repeal
-3 Mox Amber
 3 Flooded Strand
+3 Mox Amber
 3 Unearth
 3 Monastery Mentor
 3 Erayo, Soratami Ascendant
 3 Teferi, Time Raveler
 3 Emry, Lurker of the Loch
+4 Flooded Strand
 4 Repeal
 4 Mox Amber
-4 Flooded Strand
 4 Monastery Mentor
 4 Emry, Lurker of the Loch
 4 Teferi, Time Raveler
@@ -144,7 +144,6 @@
 2 Inspiring Vantage
 2 Battlefield Forge
 2 Mana Tithe
-2 Pillage
 2 Stone Rain
 2 Suppression Field
 2 Oust
@@ -156,6 +155,7 @@
 2 Goblin Dark-Dwellers
 2 Ghostly Prison
 2 Mountain
+2 Pillage
 2 Boom / Bust
 2 Sunbaked Canyon
 2 Lightning Bolt
@@ -174,8 +174,8 @@
 3 Stone Rain
 3 Mana Tithe
 4 Inspiring Vantage
-4 Pillage
 4 Sacred Foundry
+4 Pillage
 4 Molten Rain
 4 Stone Rain
 4 Mana Tithe
@@ -184,28 +184,28 @@
 4 Sunbaked Canyon
 1 Wilderness Reclamation
 1 Castle Vantress
-1 Ice-Fang Coatl
 1 Fact or Fiction
 1 Uro, Titan of Nature's Wrath
 1 Nexus of Fate
 1 Shark Typhoon
 1 Growth Spiral
+1 Ice-Fang Coatl
 1 Breeding Pool
 2 Wilderness Reclamation
 2 Breeding Pool
 2 Nexus of Fate
-2 Ice-Fang Coatl
 2 Uro, Titan of Nature's Wrath
 2 Remand
 2 Growth Spiral
 2 Scalding Tarn
+2 Ice-Fang Coatl
 3 Wilderness Reclamation
+3 Field of Ruin
 3 Mystic Sanctuary
 3 Nexus of Fate
 3 Breeding Pool
 3 Snow-Covered Island
 3 Misty Rainforest
-3 Field of Ruin
 3 Remand
 3 Growth Spiral
 3 Uro, Titan of Nature's Wrath

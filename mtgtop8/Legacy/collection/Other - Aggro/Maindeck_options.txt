@@ -1,10 +1,10 @@
 1 Maze of Ith
-1 Bojuka Bog
 1 Gaddock Teeg
+1 Path to Exile
 1 Field of the Dead
 1 Vesuva
-1 Path to Exile
 1 Crop Rotation
+1 Bojuka Bog
 2 Dryad of the Ilysian Grove
 2 Field of the Dead
 2 Elvish Reclaimer
@@ -13,8 +13,8 @@
 2 Path to Exile
 3 Dryad of the Ilysian Grove
 3 Elvish Reclaimer
-3 Skyclave Apparition
 3 Flagstones of Trokair
+3 Skyclave Apparition
 4 Once Upon a Time
 4 Flagstones of Trokair
 4 Elvish Reclaimer
@@ -37,8 +37,6 @@
 4 Aether Vial
 1 Abrupt Decay
 1 Bayou
-1 Sanctum Prelate
-1 Mother of Runes
 1 Leovold, Emissary of Trest
 1 Phyrexian Revoker
 1 Vendilion Clique
@@ -49,7 +47,9 @@
 1 Plague Engineer
 1 Palace Jailer
 1 Fauna Shaman
+1 Sanctum Prelate
 1 Deputy of Detention
+1 Mother of Runes
 1 Atraxa, Praetors' Voice
 2 Tropical Island
 2 Tundra
@@ -82,14 +82,14 @@
 4 Wasteland
 4 Noble Hierarch
 1 Oko, Thief of Crowns
+1 Questing Beast
+1 Hexdrinker
 1 Gilded Goose
 1 Uro, Titan of Nature's Wrath
-1 Hexdrinker
-1 Questing Beast
 1 Gaea's Cradle
 2 Verdant Catacombs
-2 Oko, Thief of Crowns
 2 Snow-Covered Forest
+2 Oko, Thief of Crowns
 2 Knight of the Reliquary
 3 Oko, Thief of Crowns
 3 Knight of the Reliquary
@@ -104,7 +104,6 @@
 1 Embercleave
 1 Legion Warboss
 1 Goblin Rabblemaster
-1 Cavern of Souls
 1 Simian Spirit Guide
 1 Trinisphere
 1 Talisman of Conviction
@@ -112,11 +111,11 @@
 1 Battlefield Forge
 1 Godo, Bandit Warlord
 1 Winota, Joiner of Forces
+1 Cavern of Souls
 1 Angrath's Marauders
 1 City of Traitors
 1 Blood Sun
 1 Chrome Mox
-2 Plateau
 2 Goblin Rabblemaster
 2 Legion Warboss
 2 Winota, Joiner of Forces
@@ -128,9 +127,9 @@
 2 Chalice of the Void
 2 Trinisphere
 2 Simian Spirit Guide
+2 Plateau
 3 Goblin Rabblemaster
 3 Legion Warboss
-3 Cavern of Souls
 3 Plateau
 3 Simian Spirit Guide
 3 Ancient Tomb
@@ -138,6 +137,7 @@
 3 Angrath's Marauders
 3 City of Traitors
 3 Chrome Mox
+3 Cavern of Souls
 3 Chalice of the Void
 3 Trinisphere
 4 Goblin Rabblemaster

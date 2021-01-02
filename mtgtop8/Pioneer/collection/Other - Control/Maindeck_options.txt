@@ -1,6 +1,6 @@
 4 Drowned Catacomb
-1 Castle Vantress
 1 Shark Typhoon
+1 Castle Vantress
 2 Shark Typhoon
 1 Castle Locthwain
 1 Field of Ruin
@@ -22,27 +22,28 @@
 1 Lukka, Coppercoat Outcast
 1 Riverglide Pathway
 1 Gideon of the Trials
+1 Teferi, Time Raveler
 1 Omen of the Sun
-1 Omen of the Sea
 1 Detention Sphere
 1 Aether Gust
 1 Transmogrify
 1 Chained to the Rocks
 1 Fires of Invention
-1 Teferi, Time Raveler
 1 Hallowed Fountain
 1 Agent of Treachery
 1 Ketria Triome
 1 Sacred Foundry
 1 The Birth of Meletis
+1 Omen of the Sea
 1 Supreme Verdict
 1 Raugrin Triome
 1 Glacial Fortress
+2 Castle Ardenvale
 2 Gideon of the Trials
+2 Teferi, Time Raveler
 2 Omen of the Sun
 2 Omen of the Sea
 2 Sacred Foundry
-2 Teferi, Time Raveler
 2 Fires of Invention
 2 Supreme Verdict
 2 Transmogrify
@@ -52,30 +53,29 @@
 2 Hallowed Fountain
 2 Raugrin Triome
 2 Glacial Fortress
-2 Castle Ardenvale
 2 Ketria Triome
 2 Agent of Treachery
 3 Sulfur Falls
 3 Castle Ardenvale
 3 Plains
 3 Ketria Triome
-3 Omen of the Sea
+3 Teferi, Time Raveler
 3 Steam Vents
 3 The Birth of Meletis
 3 Agent of Treachery
+3 Omen of the Sea
 3 Raugrin Triome
 3 Hallowed Fountain
 3 Chained to the Rocks
-3 Teferi, Time Raveler
 3 Transmogrify
 3 Sacred Foundry
 4 Ketria Triome
 4 Sulfur Falls
-4 Omen of the Sea
 4 Teferi, Time Raveler
 4 Transmogrify
 4 Raugrin Triome
 4 Hallowed Fountain
+4 Omen of the Sea
 4 The Birth of Meletis
 4 Steam Vents
 4 Sacred Foundry
@@ -100,16 +100,16 @@
 1 Vessel of Volatility
 1 Cleansing Wildfire
 1 Mazemind Tome
-1 Blast Zone
+1 Chandra, Awakened Inferno
 1 Scavenger Grounds
 1 Chandra, Torch of Defiance
 1 Golos, Tireless Pilgrim
-1 Chandra, Awakened Inferno
 1 Cascading Cataracts
 1 Thought-Knot Seer
 1 Ugin, the Spirit Dragon
 1 Battlefield Forge
 1 Darksteel Citadel
+1 Blast Zone
 2 Valakut Awakening
 2 Irencrag Feat
 2 Vessel of Volatility
@@ -175,7 +175,6 @@
 1 Calix, Destiny's Hand
 1 Banishing Light
 1 Seal Away
-1 Gideon's Intervention
 1 Baffling End
 1 Eidolon of Blossoms
 1 Sphere of Safety
@@ -186,6 +185,7 @@
 1 Mana Bloom
 1 Starfield Mystic
 1 Herald of the Pantheon
+1 Gideon's Intervention
 2 Courser of Kruphix
 2 Branchloft Pathway
 2 Calix, Destiny's Hand
