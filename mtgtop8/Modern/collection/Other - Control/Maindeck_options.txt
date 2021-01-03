@@ -25,13 +25,13 @@
 1 Scattered Groves
 1 Search for Tomorrow
 1 Field of the Dead
+1 Solemn Simulacrum
 1 Felidar Retreat
 1 Primeval Titan
 1 Baneslayer Angel
 1 Arboreal Grazer
 1 Wurmcoil Engine
 1 Castle Garenbrig
-1 Solemn Simulacrum
 1 Temple Garden
 1 Windswept Heath
 1 Cavern of Souls
@@ -56,8 +56,8 @@
 2 Primeval Titan
 3 Sakura-Tribe Elder
 3 Search for Tomorrow
-3 Felidar Retreat
 3 Field of the Dead
+3 Felidar Retreat
 3 Arboreal Grazer
 3 Explore
 3 Snow-Covered Forest
@@ -69,7 +69,6 @@
 3 Windswept Heath
 3 Temple Garden
 3 Wooded Foothills
-4 Solemn Simulacrum
 4 Search for Tomorrow
 4 Sakura-Tribe Elder
 4 Wurmcoil Engine
@@ -77,16 +76,17 @@
 4 Arboreal Grazer
 4 Explore
 4 Primeval Titan
+4 Solemn Simulacrum
 1 Snow-Covered Island
 2 Snow-Covered Island
-1 Mox Amber
-1 Tasigur, the Golden Fang
 1 Snow-Covered Swamp
 1 Lurrus of the Dream-Den
 1 Repeal
 1 Unearth
 1 Spellskite
+1 Tasigur, the Golden Fang
 1 Erayo, Soratami Ascendant
+1 Mox Amber
 1 Godless Shrine
 1 Hallowed Fountain
 1 Teferi, Time Raveler
@@ -99,33 +99,32 @@
 1 Monastery Mentor
 1 Silent Clearing
 2 Repeal
-2 Mox Amber
 2 Unearth
 2 Emry, Lurker of the Loch
 2 Teferi, Time Raveler
 2 Monastery Mentor
 2 Erayo, Soratami Ascendant
 2 Waterlogged Grove
+2 Mox Amber
 2 Engineered Explosives
-3 Mox Amber
 3 Repeal
 3 Flooded Strand
 3 Unearth
-3 Monastery Mentor
 3 Erayo, Soratami Ascendant
 3 Teferi, Time Raveler
+3 Mox Amber
 3 Emry, Lurker of the Loch
-4 Mox Amber
+3 Monastery Mentor
+4 Erayo, Soratami Ascendant
 4 Flooded Strand
 4 Repeal
 4 Monastery Mentor
 4 Emry, Lurker of the Loch
 4 Teferi, Time Raveler
-4 Erayo, Soratami Ascendant
+4 Mox Amber
 1 Inspiring Vantage
 1 Battlefield Forge
 1 Cascading Cataracts
-1 Mana Tithe
 1 Suppression Field
 1 Oust
 1 Molten Rain
@@ -133,6 +132,7 @@
 1 Magus of the Tabernacle
 1 Flagstones of Trokair
 1 Ghostly Prison
+1 Mana Tithe
 1 Valakut Awakening
 1 Mountain
 1 Pillage
@@ -143,7 +143,6 @@
 1 Goblin Dark-Dwellers
 2 Inspiring Vantage
 2 Battlefield Forge
-2 Mana Tithe
 2 Stone Rain
 2 Suppression Field
 2 Oust
@@ -154,6 +153,7 @@
 2 Valakut Awakening
 2 Goblin Dark-Dwellers
 2 Ghostly Prison
+2 Mana Tithe
 2 Mountain
 2 Pillage
 2 Boom / Bust
@@ -161,8 +161,8 @@
 2 Lightning Bolt
 2 Cascading Cataracts
 3 Inspiring Vantage
-3 Stone Rain
 3 Sacred Foundry
+3 Stone Rain
 3 Pillage
 3 Suppression Field
 3 Molten Rain
@@ -192,13 +192,14 @@
 1 Ice-Fang Coatl
 1 Breeding Pool
 2 Wilderness Reclamation
+2 Nexus of Fate
 2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
 2 Remand
-2 Nexus of Fate
 2 Growth Spiral
 2 Scalding Tarn
 2 Ice-Fang Coatl
+3 Nexus of Fate
 3 Wilderness Reclamation
 3 Field of Ruin
 3 Mystic Sanctuary
@@ -207,7 +208,6 @@
 3 Misty Rainforest
 3 Remand
 3 Growth Spiral
-3 Nexus of Fate
 3 Uro, Titan of Nature's Wrath
 4 Mystic Sanctuary
 4 Growth Spiral

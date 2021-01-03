@@ -1,34 +1,31 @@
-3 Spirebluff Canal
-1 Sprite Dragon
-2 Sprite Dragon
-3 Sprite Dragon
-4 Sprite Dragon
-1 Polluted Delta
-2 Polluted Delta
-3 Polluted Delta
-4 Polluted Delta
-1 Spell Snare
-1 Watery Grave
-1 Blood Crypt
-1 Kolaghan's Command
-2 Kolaghan's Command
-1 Inquisition of Kozilek
-1 Drown in the Loch
-2 Watery Grave
-2 Inquisition of Kozilek
-1 Swamp
 1 Thieves' Guild Enforcer
 1 Thoughtseize
-2 Thieves' Guild Enforcer
 2 Drown in the Loch
+2 Thieves' Guild Enforcer
 3 Watery Grave
 3 Drown in the Loch
 3 Thieves' Guild Enforcer
 3 Inquisition of Kozilek
 4 Thieves' Guild Enforcer
 4 Drown in the Loch
+1 Bloodstained Mire
+2 Bloodstained Mire
+1 Opt
+2 Opt
+3 Opt
+3 Sleight of Hand
+4 Opt
+1 Hallowed Fountain
+1 Path to Exile
+1 Sacred Foundry
+1 Lightning Helix
+2 Path to Exile
+2 Lightning Helix
+3 Lightning Helix
 3 Remand
 3 Path to Exile
+1 Seachrome Coast
+2 Seachrome Coast
 1 Plains
 1 Batterskull
 1 Stoneforge Mystic
@@ -41,12 +38,15 @@
 4 Stoneforge Mystic
 4 Sleight of Hand
 4 Mantis Rider
+2 Spell Pierce
 4 Remand
-1 Bloodstained Mire
-2 Bloodstained Mire
+1 Sprite Dragon
+2 Sprite Dragon
+3 Sprite Dragon
+4 Sprite Dragon
+3 Spirebluff Canal
 3 Island
 4 Force of Negation
-1 Mountain
 1 Disrupting Shoal
 2 Disrupting Shoal
 3 Disrupting Shoal
@@ -66,16 +66,7 @@
 4 Stubborn Denial
 4 Misty Rainforest
 4 Tarmogoyf
-2 Spell Pierce
 1 Vapor Snag
-1 Stormwing Entity
-1 Manamorphose
-2 Stormwing Entity
-2 Manamorphose
-3 Stormwing Entity
-3 Manamorphose
-4 Manamorphose
-1 Fiery Islet
 1 Hexdrinker
 1 Wooded Foothills
 2 Wooded Foothills
@@ -85,21 +76,31 @@
 4 Hexdrinker
 4 Island
 3 Kolaghan's Command
-1 Gut Shot
-2 Gut Shot
-4 Stormwing Entity
-1 Mishra's Bauble
-2 Mishra's Bauble
-3 Mishra's Bauble
-4 Mishra's Bauble
-2 Fiery Islet
+1 Soaring Thought-Thief
+2 Soaring Thought-Thief
+3 Soaring Thought-Thief
+4 Soaring Thought-Thief
+1 Fiery Islet
+1 Mountain
 2 Vapor Snag
+2 Fiery Islet
+1 Stormwing Entity
+1 Manamorphose
+2 Stormwing Entity
+2 Manamorphose
+3 Stormwing Entity
+3 Manamorphose
+4 Manamorphose
 1 Archmage's Charm
 2 Archmage's Charm
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 2 Forest
 3 Uro, Titan of Nature's Wrath
+4 Watery Grave
+1 Gut Shot
+2 Gut Shot
+4 Stormwing Entity
 1 Monastery Swiftspear
 1 Lava Dart
 1 Assault Strobe
@@ -122,24 +123,19 @@
 4 Lava Dart
 4 Mountain
 4 Light Up the Stage
-4 Spirebluff Canal
-2 Hallowed Fountain
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
+4 Mishra's Bauble
 1 Flame Slash
 1 Magmatic Channeler
 2 Magmatic Channeler
 3 Magmatic Channeler
-1 Soaring Thought-Thief
-2 Soaring Thought-Thief
-3 Soaring Thought-Thief
-4 Soaring Thought-Thief
 1 Mystic Sanctuary
 3 Steam Vents
 1 Fatal Push
 2 Fatal Push
 3 Archmage's Charm
-1 Surgical Extraction
-2 Surgical Extraction
-4 Lightning Helix
 1 Rift Bolt
 2 Rift Bolt
 3 Rift Bolt
@@ -148,15 +144,16 @@
 2 Pteramander
 3 Pteramander
 4 Pteramander
-4 Watery Grave
 1 Nimble Obstructionist
 2 Nimble Obstructionist
+4 Spirebluff Canal
 1 Magmatic Sinkhole
 2 Mystic Sanctuary
 2 Magmatic Sinkhole
 4 Steam Vents
 4 Magmatic Channeler
 2 Brazen Borrower
+2 Hallowed Fountain
 1 Snow-Covered Mountain
 1 Snow-Covered Island
 1 Darkslick Shores
@@ -198,6 +195,9 @@
 3 Hooting Mandrills
 3 Tarfire
 4 Archmage's Charm
+1 Surgical Extraction
+2 Surgical Extraction
+4 Lightning Helix
 1 Visions of Beyond
 2 Visions of Beyond
 3 Visions of Beyond
@@ -212,11 +212,11 @@
 1 Marsh Flats
 1 Bloodchief's Thirst
 1 Bitterblossom
-2 Swamp
 2 Bloodchief's Thirst
-2 Agadeem's Awakening
-2 Bitterblossom
 2 Marsh Flats
+2 Agadeem's Awakening
+2 Swamp
+2 Bitterblossom
 2 Thoughtseize
 3 Darkslick Shores
 3 Bitterblossom
@@ -253,9 +253,9 @@
 1 Wizard's Retort
 1 Wizard's Lightning
 1 Soul-Scar Mage
+2 Soul-Scar Mage
 2 Wizard's Lightning
 2 Wizard's Retort
-2 Soul-Scar Mage
 3 Wizard's Lightning
 3 Wizard's Retort
 3 Soul-Scar Mage

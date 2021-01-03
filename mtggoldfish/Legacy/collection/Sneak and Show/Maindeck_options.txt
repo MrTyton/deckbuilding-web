@@ -1,12 +1,13 @@
 3 Scalding Tarn
 4 Scalding Tarn
+1 Island
 1 Spell Pierce
 1 Omniscience
 2 Omniscience
-1 Snow-Covered Mountain
-1 Island
-2 Spell Pierce
 2 Island
+1 Snow-Covered Mountain
+2 Spell Pierce
+3 Island
 3 Omniscience
 1 Intuition
 1 Mountain
@@ -16,7 +17,6 @@
 1 Impulse
 1 Cunning Wish
 2 Cunning Wish
-3 Island
 3 Spell Pierce
 3 Simian Spirit Guide
 1 Sea Gate Restoration
@@ -50,6 +50,16 @@
 1 Veil of Summer
 1 Tropical Island
 2 Veil of Summer
+1 Seething Song
+2 Through the Breach
+2 Blightsteel Colossus
+2 Seething Song
+3 Through the Breach
+3 Blightsteel Colossus
+3 Seething Song
+4 Seething Song
+4 Through the Breach
+4 Blightsteel Colossus
 3 Polluted Delta
 3 Cunning Wish
 4 Flooded Strand
@@ -60,13 +70,3 @@
 2 Burning Wish
 3 Burning Wish
 4 Burning Wish
-1 Seething Song
-2 Through the Breach
-2 Blightsteel Colossus
-2 Seething Song
-3 Through the Breach
-3 Blightsteel Colossus
-3 Seething Song
-4 Through the Breach
-4 Blightsteel Colossus
-4 Seething Song

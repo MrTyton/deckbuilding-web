@@ -3,13 +3,14 @@
 2 Grand Abolisher
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
+1 Archon of Emeria
+2 Archon of Emeria
 1 Silent Clearing
 3 Field of Ruin
 1 Hangarback Walker
-1 Archon of Emeria
-2 Ranger of Eos
-2 Archon of Emeria
 1 Horizon Canopy
+2 Ranger of Eos
+2 Horizon Canopy
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
@@ -22,16 +23,38 @@
 10 Snow-Covered Plains
 11 Snow-Covered Plains
 12 Snow-Covered Plains
-2 Horizon Canopy
-10 Plains
-11 Plains
 2 Silent Clearing
 3 Silent Clearing
-12 Plains
-4 Field of Ruin
-1 Giant Killer
-1 Idyllic Grange
 1 Windswept Heath
+10 Plains
+11 Plains
+1 Giant Killer
+3 Horizon Canopy
+1 Idyllic Grange
+1 Noble Hierarch
+1 Forest
+1 Temple Garden
+1 Prismatic Vista
+1 Collected Company
+1 Avacyn's Pilgrim
+1 Conclave Mentor
+2 Noble Hierarch
+2 Prismatic Vista
+2 Collected Company
+2 Windswept Heath
+2 Temple Garden
+2 Conclave Mentor
+3 Noble Hierarch
+3 Collected Company
+3 Conclave Mentor
+3 Temple Garden
+3 Windswept Heath
+4 Noble Hierarch
+4 Horizon Canopy
+4 Temple Garden
+4 Collected Company
+4 Windswept Heath
+12 Plains
 1 Maul of the Skyclaves
 1 Stoneforge Mystic
 1 Batterskull
@@ -40,13 +63,13 @@
 2 Nykthos, Shrine to Nyx
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+4 Field of Ruin
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
-3 Horizon Canopy
 1 Sword of Fire and Ice
-1 Elspeth, Knight-Errant
 1 Kytheon, Hero of Akros
+1 Elspeth, Knight-Errant
 2 Kytheon, Hero of Akros
 3 Kytheon, Hero of Akros
 1 Flagstones of Trokair
@@ -55,8 +78,8 @@
 3 Flagstones of Trokair
 4 Flagstones of Trokair
 1 Judge's Familiar
-2 Giant Killer
 2 Maul of the Skyclaves
+2 Giant Killer
 2 Judge's Familiar
 3 Judge's Familiar
 4 Judge's Familiar

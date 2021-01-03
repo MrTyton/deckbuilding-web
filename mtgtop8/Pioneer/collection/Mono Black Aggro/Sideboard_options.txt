@@ -1,9 +1,9 @@
 1 Necromentia
-2 Necromentia
 1 Noxious Grasp
+2 Necromentia
+2 Noxious Grasp
 3 Self-Inflicted Wound
 1 Duress
-2 Noxious Grasp
 1 Liliana, Waker of the Dead
 2 Duress
 1 Doom Blade
@@ -14,6 +14,7 @@
 3 Duress
 1 Bloodchief's Thirst
 1 Rankle, Master of Pranks
+1 Damping Sphere
 1 Blightbeetle
 1 Tainted Remedy
 1 Ashiok, Dream Render
@@ -28,9 +29,8 @@
 2 Soul Shatter
 1 Extinction Event
 1 Feed the Swarm
-1 Damping Sphere
-1 Lost Legacy
 1 Pithing Needle
+1 Lost Legacy
 1 Grafdigger's Cage
 2 Feed the Swarm
 2 Fatal Push
@@ -43,9 +43,11 @@
 2 Bloodchief's Thirst
 2 Rest in Peace
 2 Rankle, Master of Pranks
-3 Legion's End
-3 Agonizing Remorse
 3 Aethersphere Harvester
+3 Legion's End
+2 Damping Sphere
+3 Noxious Grasp
+3 Agonizing Remorse
 2 Blightbeetle
 3 Blightbeetle
 4 Blightbeetle
