@@ -1,6 +1,6 @@
-1 Shredded Sails
 1 Negate
 2 Negate
+1 Shredded Sails
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 1 Shatter the Sky
@@ -10,20 +10,9 @@
 2 Valiant Rescuer
 2 Shredded Sails
 3 Shredded Sails
+4 Shredded Sails
 1 Fight as One
 2 Fight as One
-1 Redcap Melee
-2 Redcap Melee
-3 Redcap Melee
-1 Bloodchief's Thirst
-1 Tormod's Crypt
-1 Mystical Dispute
-2 Bloodchief's Thirst
-2 Tormod's Crypt
-2 Mystical Dispute
-3 Tormod's Crypt
-3 Mystical Dispute
-4 Shredded Sails
 1 Ox of Agonas
 2 Ox of Agonas
 1 The Akroan War
@@ -36,7 +25,10 @@
 2 Phoenix of Ash
 2 Opportunistic Dragon
 3 Negate
+1 Redcap Melee
+2 Redcap Melee
 1 Storm's Wrath
+3 Redcap Melee
 1 Glass Casket
 2 Glass Casket
 3 Glass Casket
@@ -55,6 +47,14 @@
 2 Thundering Rebuke
 3 Thundering Rebuke
 3 Shark Typhoon
+1 Bloodchief's Thirst
+1 Tormod's Crypt
+1 Mystical Dispute
+2 Bloodchief's Thirst
+2 Tormod's Crypt
+2 Mystical Dispute
+3 Tormod's Crypt
+3 Mystical Dispute
 1 Kabira Takedown
 1 Divine Arrow
 1 Pressure Point
@@ -69,8 +69,8 @@
 3 Duress
 4 Glass Casket
 4 Duress
-1 Sorcerous Spyglass
 1 Embereth Shieldbreaker
+1 Sorcerous Spyglass
 1 Hushbringer
 1 Baneslayer Angel
 1 Disenchant

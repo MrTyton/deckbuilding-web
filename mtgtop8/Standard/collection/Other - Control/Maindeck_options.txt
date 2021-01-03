@@ -30,7 +30,6 @@
 1 Agadeem's Awakening
 1 Yorion, Sky Nomad
 2 Llanowar Visionary
-2 Charming Prince
 2 Trail of Crumbs
 2 Gilded Goose
 2 Doom Foretold
@@ -38,6 +37,7 @@
 2 Wicked Wolf
 2 Skyclave Apparition
 2 Yorion, Sky Nomad
+2 Charming Prince
 3 Llanowar Visionary
 3 Wicked Wolf
 3 Skyclave Apparition
@@ -89,9 +89,9 @@
 3 Mazemind Tome
 3 Ugin, the Spirit Dragon
 3 Shatter the Sky
+4 Shatter the Sky
 4 Mazemind Tome
 4 Ugin, the Spirit Dragon
-4 Shatter the Sky
 1 Valakut Awakening
 2 Shatterskull Smashing
 3 Elspeth, Sun's Nemesis
@@ -183,8 +183,8 @@
 1 Tranquil Cove
 1 Savai Triome
 1 Ketria Triome
-1 Riverglide Pathway
 1 Fae of Wishes
+1 Riverglide Pathway
 1 Thirst for Meaning
 1 Wind-Scarred Crag
 1 Cragcrown Pathway
@@ -201,16 +201,16 @@
 1 Zagoth Triome
 1 Sanctum of Fruitful Harvest
 1 Sanctum of Tranquil Light
-2 Zagoth Triome
 2 Tranquil Cove
-2 Fae of Wishes
 2 Thirst for Meaning
 2 Cragcrown Pathway
+2 Fae of Wishes
 2 Dismal Backwater
 2 Clearwater Pathway
 2 Bloodchief's Thirst
 2 Sanctum of Fruitful Harvest
 2 Sanctum of Tranquil Light
+2 Zagoth Triome
 2 Sanctum of All
 2 Sanctum of Shattered Heights
 2 Sanctum of Stone Fangs
@@ -244,30 +244,30 @@
 4 Emeria's Call
 4 Erebos's Intervention
 4 Garruk, Cursed Huntsman
-1 Essence Scatter
 1 Silundi Vision
-1 Jwari Disruption
 1 Rewind
 1 Lofty Denial
+1 Jwari Disruption
 1 Gadwick, the Wizened
+1 Kiora Bests the Sea God
 1 Rain of Revelation
-1 Neutralize
 1 Sublime Epiphany
 1 Brazen Borrower
-1 Kiora Bests the Sea God
 1 Hypnotic Sprite
 1 Bonders' Enclave
+1 Essence Scatter
 1 Castle Vantress
 1 Shark Typhoon
-2 Essence Scatter
-2 Castle Vantress
+1 Neutralize
 2 Gadwick, the Wizened
+2 Castle Vantress
 2 Lofty Denial
 2 Rain of Revelation
 2 Neutralize
 2 Rewind
 2 Shark Typhoon
 2 Brazen Borrower
+2 Essence Scatter
 2 Hypnotic Sprite
 3 Neutralize
 3 Castle Vantress
@@ -279,13 +279,13 @@
 4 Shark Typhoon
 4 Rewind
 4 Brazen Borrower
+1 Dance of the Manse
 1 Radiant Fountain
 1 Forsaken Monument
 1 Unknown Shores
 1 Sleeper Dart
 1 Labyrinth of Skophos
 1 Swift Response
-1 Dance of the Manse
 1 Crawling Barrens
 2 Dance of the Manse
 2 Radiant Fountain
@@ -296,17 +296,17 @@
 2 Swift Response
 2 Crawling Barrens
 3 Crawling Barrens
-3 Solemn Simulacrum
 3 Unknown Shores
 3 Radiant Fountain
 3 Sleeper Dart
+3 Solemn Simulacrum
 3 Forsaken Monument
-4 Solemn Simulacrum
 4 Radiant Fountain
 4 Forsaken Monument
 4 Sleeper Dart
-4 Crawling Barrens
+4 Solemn Simulacrum
 4 Unknown Shores
-6 Plains
-8 Plains
+4 Crawling Barrens
 7 Plains
+8 Plains
+6 Plains

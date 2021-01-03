@@ -22,17 +22,3 @@
 |                                                                                           |                                                                                                        |2 [Eliminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485420)    |                                                                                                 |
 |                                                                                           |                                                                                                        |3 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)|                                                                                                 |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                            Maindeck Card                                             |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
-|--------------------:|------------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
-|                    1|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|                    2|[Cling to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476338)|
-|                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                 |                    3|[Eliminate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485420)    |
-|                    2|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|                    1|[Vindicate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442208)    |
-|                    3|[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442025)|                     |                                                                                        |
-|                    7|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                      |                     |                                                                                        |
-|                    8|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                      |                     |                                                                                        |
-|                    9|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                      |                     |                                                                                        |
-|                    4|[Isolated Chapel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443129)            |                     |                                                                                        |
-
