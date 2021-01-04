@@ -40,15 +40,15 @@
 2 Massacre Wurm
 1 Tangled Florahedron
 2 Tangled Florahedron
-3 Tangled Florahedron
 3 Ilysian Caryatid
-4 Tangled Florahedron
+3 Tangled Florahedron
 4 Ilysian Caryatid
+4 Tangled Florahedron
 3 Mire Triton
 1 Thrashing Brontodon
-2 Hagra Mauling
 1 Inscription of Ruin
 2 Inscription of Ruin
+2 Hagra Mauling
 1 Mythos of Nethroi
 1 Crawling Barrens
 1 Kenrith, the Returned King
@@ -66,8 +66,8 @@
 3 Indatha Triome
 4 Indatha Triome
 1 Solemn Simulacrum
-1 Kogla, the Titan Ape
 1 Lochmere Serpent
+1 Kogla, the Titan Ape
 1 Thassa, Deep-Dwelling
 1 Nightmare Shepherd
 1 Thassa's Oracle
@@ -90,14 +90,14 @@
 3 Thassa, Deep-Dwelling
 3 Clearwater Pathway
 3 Gyruda, Doom of Depths
-4 Nightmare Shepherd
 4 Clearwater Pathway
 4 Humble Naturalist
+4 Nightmare Shepherd
 1 Bala Ged Recovery
 1 Brokkos, Apex of Forever
+1 Dirge Bat
 1 Elspeth's Nightmare
 1 Gemrazer
-1 Dirge Bat
 1 Migratory Greathorn
 1 Inscription of Abundance
 1 Essence Symbiote
@@ -108,33 +108,33 @@
 2 Migratory Greathorn
 2 Dirge Bat
 2 Essence Symbiote
-3 Castle Locthwain
 3 Essence Symbiote
+3 Castle Locthwain
 3 Migratory Greathorn
-4 Migratory Greathorn
 4 Castle Locthwain
+4 Migratory Greathorn
 4 Polukranos, Unchained
 8 Forest
 1 Jungle Hollow
+1 Llanowar Visionary
 1 Ram Through
-1 Garruk's Uprising
 1 Evolving Wilds
 1 Chainweb Aracnir
 1 Ugin, the Spirit Dragon
 1 Grasp of Darkness
 1 Feed the Swarm
-1 Llanowar Visionary
 1 Gnarlid Colony
+1 Garruk's Uprising
 1 Greater Sandwurm
 1 Acolyte of Affliction
 2 Jungle Hollow
 2 Llanowar Visionary
-2 Garruk's Uprising
 2 Ram Through
 2 Evolving Wilds
 2 Chainweb Aracnir
 2 Feed the Swarm
 2 Grasp of Darkness
+2 Garruk's Uprising
 2 Gnarlid Colony
 2 Acolyte of Affliction
 2 Greater Sandwurm
@@ -155,8 +155,8 @@
 10 Forest
 1 Trail of Crumbs
 1 Wicked Wolf
-1 Gilded Goose
 1 Witch's Oven
+1 Gilded Goose
 1 Castle Garenbrig
 1 Feasting Troll King
 2 Trail of Crumbs
@@ -172,8 +172,8 @@
 3 Castle Garenbrig
 3 Feasting Troll King
 4 Wicked Wolf
-4 Gilded Goose
 4 Trail of Crumbs
+4 Gilded Goose
 4 Agadeem's Awakening
 4 Bloodchief's Thirst
 4 Castle Garenbrig

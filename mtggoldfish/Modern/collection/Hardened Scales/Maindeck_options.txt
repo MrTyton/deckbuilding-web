@@ -5,17 +5,16 @@
 1 Darksteel Citadel
 2 Darksteel Citadel
 3 Ancient Stirrings
-2 Steel Overseer
 1 Vines of Vastwood
+2 Steel Overseer
 3 Blinkmoth Nexus
 4 Blinkmoth Nexus
 10 Forest
-3 Welding Jar
 3 Phyrexia's Core
-1 Kazuul's Fury
-1 Lightning Bolt
 1 Cragcrown Pathway
 1 Grove of the Burnwillows
+1 Lightning Bolt
+1 Kazuul's Fury
 2 Kazuul's Fury
 2 Cragcrown Pathway
 2 Grove of the Burnwillows
@@ -34,6 +33,7 @@
 4 Blooming Marsh
 3 Darksteel Citadel
 4 Darksteel Citadel
+3 Welding Jar
 1 Inscription of Abundance
 2 Inscription of Abundance
 1 Cavern of Souls
@@ -56,19 +56,19 @@
 1 Twilight Mire
 1 Agadeem's Awakening
 2 Vines of Vastwood
-3 Snow-Covered Forest
-1 Branchloft Pathway
 1 Snow-Covered Plains
 1 Aether Hub
+1 Branchloft Pathway
 1 Windbrisk Heights
 1 Path to Exile
 2 Snow-Covered Plains
-2 Surgical Extraction
 2 Branchloft Pathway
+2 Surgical Extraction
 2 Windbrisk Heights
 2 Path to Exile
 2 Aether Hub
 3 Branchloft Pathway
+3 Snow-Covered Forest
 1 Snow-Covered Mountain
 1 Springleaf Drum
 2 Springleaf Drum
@@ -85,5 +85,3 @@
 2 Razorverge Thicket
 3 Razorverge Thicket
 4 Brushland
-1 Blast Zone
-4 Animation Module

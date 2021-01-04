@@ -1,5 +1,5 @@
-1 Thieves' Guild Enforcer
 1 Thoughtseize
+1 Swamp
 2 Drown in the Loch
 2 Thieves' Guild Enforcer
 3 Watery Grave
@@ -15,22 +15,22 @@
 3 Opt
 3 Sleight of Hand
 4 Opt
+1 Lightning Helix
+1 Sacred Foundry
 1 Hallowed Fountain
 1 Path to Exile
-1 Sacred Foundry
-1 Lightning Helix
-2 Path to Exile
 2 Lightning Helix
+2 Path to Exile
 3 Lightning Helix
 3 Remand
 3 Path to Exile
 1 Seachrome Coast
 2 Seachrome Coast
-1 Plains
-1 Batterskull
 1 Stoneforge Mystic
+1 Batterskull
 1 Sword of Fire and Ice
 1 Mantis Rider
+1 Plains
 2 Stoneforge Mystic
 2 Mantis Rider
 3 Stoneforge Mystic
@@ -54,24 +54,24 @@
 1 Misty Rainforest
 2 Misty Rainforest
 4 Mana Leak
-1 Forest
-1 Breeding Pool
 1 Stubborn Denial
+1 Breeding Pool
 1 Tarmogoyf
+1 Forest
 2 Stubborn Denial
 2 Tarmogoyf
+3 Tarmogoyf
 3 Misty Rainforest
 3 Stubborn Denial
-3 Tarmogoyf
-4 Stubborn Denial
-4 Misty Rainforest
 4 Tarmogoyf
+4 Misty Rainforest
+4 Stubborn Denial
 1 Vapor Snag
 1 Hexdrinker
 1 Wooded Foothills
+2 Hexdrinker
 2 Wooded Foothills
 2 Breeding Pool
-2 Hexdrinker
 3 Hexdrinker
 4 Hexdrinker
 4 Island
@@ -84,45 +84,45 @@
 1 Mountain
 2 Vapor Snag
 2 Fiery Islet
-1 Stormwing Entity
 1 Manamorphose
-2 Stormwing Entity
+1 Stormwing Entity
 2 Manamorphose
-3 Stormwing Entity
+2 Stormwing Entity
 3 Manamorphose
+3 Stormwing Entity
 4 Manamorphose
 1 Archmage's Charm
 2 Archmage's Charm
 1 Uro, Titan of Nature's Wrath
-2 Uro, Titan of Nature's Wrath
 2 Forest
+2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
 4 Watery Grave
 1 Gut Shot
 2 Gut Shot
 4 Stormwing Entity
 1 Monastery Swiftspear
-1 Lava Dart
-1 Assault Strobe
-1 Lava Spike
 1 Light Up the Stage
+1 Assault Strobe
+1 Lava Dart
+1 Lava Spike
 2 Monastery Swiftspear
-2 Lava Spike
-2 Lava Dart
-2 Mountain
 2 Light Up the Stage
+2 Lava Dart
+2 Lava Spike
+2 Mountain
 3 Fiery Islet
 3 Monastery Swiftspear
-3 Lava Spike
-3 Light Up the Stage
 3 Mountain
+3 Light Up the Stage
+3 Lava Spike
 3 Lava Dart
-4 Monastery Swiftspear
 4 Fiery Islet
-4 Lava Spike
-4 Lava Dart
+4 Monastery Swiftspear
 4 Mountain
 4 Light Up the Stage
+4 Lava Spike
+4 Lava Dart
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
@@ -154,8 +154,8 @@
 4 Magmatic Channeler
 2 Brazen Borrower
 2 Hallowed Fountain
-1 Snow-Covered Mountain
 1 Snow-Covered Island
+1 Snow-Covered Mountain
 1 Darkslick Shores
 2 Darkslick Shores
 1 Ancestral Vision
@@ -166,8 +166,6 @@
 2 Spell Snare
 1 Creeping Tar Pit
 1 Cling to Dust
-1 Blood Moon
-2 Blood Moon
 1 Mutagenic Growth
 1 Sunbaked Canyon
 2 Mutagenic Growth
@@ -176,65 +174,67 @@
 1 Dark Confidant
 2 Dark Confidant
 1 Young Pyromancer
+1 Snow-Covered Swamp
 1 Terminate
 1 Gurmag Angler
-1 Snow-Covered Swamp
 2 Young Pyromancer
 2 Terminate
 2 Gurmag Angler
 2 Snow-Covered Island
-1 Tarfire
-1 Hooting Mandrills
-1 Blossoming Defense
+1 Blood Moon
+2 Blood Moon
 1 Botanical Sanctum
+1 Tarfire
+1 Blossoming Defense
+1 Hooting Mandrills
 1 Stomping Ground
-2 Blossoming Defense
 2 Tarfire
+2 Blossoming Defense
 2 Flame Slash
 2 Hooting Mandrills
 3 Hooting Mandrills
 3 Tarfire
-4 Archmage's Charm
-1 Surgical Extraction
-2 Surgical Extraction
-4 Lightning Helix
 1 Visions of Beyond
 2 Visions of Beyond
 3 Visions of Beyond
 4 Visions of Beyond
+1 Surgical Extraction
+2 Surgical Extraction
+4 Lightning Helix
+1 Agadeem's Awakening
+1 Bloodchief's Thirst
+1 Bitterblossom
+1 Marsh Flats
+2 Agadeem's Awakening
+2 Bitterblossom
+2 Bloodchief's Thirst
+2 Marsh Flats
+2 Thoughtseize
+2 Swamp
+3 Darkslick Shores
+3 Bitterblossom
+4 Darkslick Shores
+4 Archmage's Charm
 1 Dreadhorde Arcanist
 2 Dreadhorde Arcanist
 3 Dreadhorde Arcanist
 3 Hallowed Fountain
-4 Ancestral Vision
 4 Dreadhorde Arcanist
-1 Agadeem's Awakening
-1 Marsh Flats
-1 Bloodchief's Thirst
-1 Bitterblossom
-2 Bloodchief's Thirst
-2 Marsh Flats
-2 Agadeem's Awakening
-2 Swamp
-2 Bitterblossom
-2 Thoughtseize
-3 Darkslick Shores
-3 Bitterblossom
-4 Darkslick Shores
-1 Oboro, Palace in the Clouds
-1 Mutavault
-1 Cryptic Command
-1 Castle Vantress
-1 Spellstutter Sprite
-1 Deliberate
-1 Psionic Blast
+4 Ancestral Vision
 1 Silundi Vision
+1 Mutavault
+1 Castle Vantress
+1 Oboro, Palace in the Clouds
+1 Deliberate
+1 Spellstutter Sprite
+1 Cryptic Command
+1 Psionic Blast
 2 Mutavault
-2 Cryptic Command
 2 Vendilion Clique
+2 Deliberate
 2 Spellstutter Sprite
 2 Psionic Blast
-2 Deliberate
+2 Cryptic Command
 3 Spellstutter Sprite
 3 Cryptic Command
 3 Deliberate

@@ -1,12 +1,12 @@
 4 Lava Spike
-1 Rift Bolt
 1 Eidolon of the Great Revel
 1 Skewer the Critics
+1 Rift Bolt
 1 Goblin Guide
-2 Rift Bolt
 2 Eidolon of the Great Revel
 2 Goblin Guide
 2 Skewer the Critics
+2 Rift Bolt
 3 Eidolon of the Great Revel
 3 Skewer the Critics
 3 Goblin Guide
@@ -78,8 +78,8 @@
 2 Copperline Gorge
 2 Stomping Ground
 2 Atarka's Command
-2 Klothys, God of Destiny
 2 Bloodbraid Elf
+2 Klothys, God of Destiny
 3 Copperline Gorge
 3 Atarka's Command
 3 Klothys, God of Destiny
@@ -87,13 +87,11 @@
 4 Atarka's Command
 3 Sacred Foundry
 4 Sacred Foundry
-3 Scalding Tarn
-4 Scalding Tarn
 1 Kiln Fiend
+1 Manamorphose
+1 Crash Through
 1 Abrade
 1 Bedlam Reveler
-1 Crash Through
-1 Manamorphose
 2 Bedlam Reveler
 2 Kiln Fiend
 2 Abrade
@@ -109,3 +107,5 @@
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Lightning Helix
+3 Scalding Tarn
+4 Scalding Tarn

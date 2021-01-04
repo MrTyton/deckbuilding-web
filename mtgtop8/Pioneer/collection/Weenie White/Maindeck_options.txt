@@ -5,15 +5,15 @@
 3 Stasis Snare
 4 Shark Typhoon
 4 Glacial Fortress
-4 Irrigated Farmland
-4 Charming Prince
 4 Temple of Enlightenment
+4 Charming Prince
+4 Irrigated Farmland
+4 Arcanist's Owl
 4 Baffling End
 4 Knight of the White Orchid
 4 Hallowed Fountain
 4 Teferi, Time Raveler
 4 Nykthos, Shrine to Nyx
-4 Arcanist's Owl
 1 Thassa, Deep-Dwelling
 1 Skyclave Apparition
 2 Thassa, Deep-Dwelling
@@ -26,9 +26,9 @@
 1 Soldier of the Pantheon
 1 Kytheon, Hero of Akros
 1 Giant Killer
-1 Dire Tactics
-1 General Kudro of Drannith
 1 Thalia's Lieutenant
+1 General Kudro of Drannith
+1 Dire Tactics
 1 Shefet Dunes
 1 Godless Shrine
 1 Caves of Koilos
@@ -39,13 +39,13 @@
 1 Boros Elite
 1 Brave the Elements
 1 Dauntless Bodyguard
-2 General Kudro of Drannith
-2 Luminarch Aspirant
 2 Soldier of the Pantheon
+2 Luminarch Aspirant
 2 Kytheon, Hero of Akros
 2 Shefet Dunes
-2 Giant Killer
 2 Thalia's Lieutenant
+2 Giant Killer
+2 General Kudro of Drannith
 2 Legion's Landing
 2 Concealed Courtyard
 2 Caves of Koilos
@@ -57,6 +57,7 @@
 2 Godless Shrine
 3 General Kudro of Drannith
 3 Luminarch Aspirant
+3 Thalia's Lieutenant
 3 Concealed Courtyard
 3 Venerated Loxodon
 3 Brave the Elements
@@ -66,14 +67,13 @@
 3 Godless Shrine
 3 Caves of Koilos
 3 Brightclimb Pathway
-3 Thalia's Lieutenant
+4 Thalia's Lieutenant
 4 Brightclimb Pathway
 4 Godless Shrine
 4 Soldier of the Pantheon
 4 Concealed Courtyard
 4 Boros Elite
 4 Venerated Loxodon
-4 Thalia's Lieutenant
 4 Dauntless Bodyguard
 4 Caves of Koilos
 4 Brave the Elements

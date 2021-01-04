@@ -1,49 +1,36 @@
-3 Irrigated Farmland
+1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 1 Geier Reach Sanitarium
 1 Sphinx's Revelation
 1 Commit/Memory
 4 Censor
 1 Sinister Sabotage
-1 Skyclave Cleric
-2 Skyclave Cleric
+1 Sea Gate Restoration
 1 Detention Sphere
 1 Syncopate
 1 Temple of Enlightenment
 1 Search for Azcanta
-1 Blessed Alliance
 1 Jace, Architect of Thought
+1 Blessed Alliance
 1 Last Breath
 2 Temple of Enlightenment
 2 Last Breath
 2 Syncopate
-3 Skyclave Cleric
-1 Sea Gate Restoration
+1 Skyclave Cleric
+2 Skyclave Cleric
 4 Shark Typhoon
+3 Fabled Passage
 1 Cast Out
 1 Emeria's Call
-3 Fabled Passage
-1 Elixir of Immortality
-6 Island
-1 Horribly Awry
-3 Dovin's Veto
-1 Jwari Disruption
-1 Whirlwind Denial
-2 Jwari Disruption
-2 Whirlwind Denial
-3 Jwari Disruption
-4 Skyclave Cleric
-4 Jwari Disruption
-2 Sinister Sabotage
+3 Skyclave Cleric
 1 Ondu Inversion
-1 Neutralize
 4 Fabled Passage
 1 Breeding Pool
 1 Uro, Titan of Nature's Wrath
 1 Forest
 1 Hinterland Harbor
-2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
+2 Breeding Pool
 2 Hinterland Harbor
 3 Uro, Titan of Nature's Wrath
 3 Hinterland Harbor
@@ -53,11 +40,7 @@
 2 Omen of the Sea
 3 Omen of the Sea
 4 Omen of the Sea
-3 Narset, Parter of Veils
-1 Blast Zone
-2 Blast Zone
-2 Horribly Awry
-3 Horribly Awry
+1 Elixir of Immortality
 4 Irrigated Farmland
 1 Mystical Dispute
 1 Growth Spiral
@@ -71,20 +54,37 @@
 3 Temple Garden
 4 Growth Spiral
 4 Temple Garden
-4 Teferi, Hero of Dominaria
+6 Island
+2 Sinister Sabotage
+1 Neutralize
+3 Narset, Parter of Veils
+1 Horribly Awry
+3 Dovin's Veto
+1 Jwari Disruption
+1 Whirlwind Denial
+2 Jwari Disruption
+2 Whirlwind Denial
+3 Jwari Disruption
+4 Skyclave Cleric
+4 Jwari Disruption
 1 Seal Away
 2 Seal Away
 3 Plains
-4 Teferi, Time Raveler
 2 Elspeth Conquers Death
+4 Teferi, Time Raveler
 1 Omen of the Sun
 1 Gideon of the Trials
 2 Gideon of the Trials
+1 Blast Zone
+2 Blast Zone
+2 Horribly Awry
+3 Horribly Awry
 1 Thassa's Intervention
 1 Soul-Guide Lantern
 1 Brazen Borrower
 2 Castle Vantress
 1 Dream Trawler
+4 Teferi, Hero of Dominaria
 4 Narset, Parter of Veils
 1 Isolated Chapel
 1 Watery Grave
@@ -111,20 +111,20 @@
 4 Uro, Titan of Nature's Wrath
 1 Anticognition
 1 Sphinx of the Final Word
-1 Fumigate
 1 Pearl Lake Ancient
+1 Fumigate
 2 Brazen Borrower
 2 Anticognition
 2 Detention Sphere
 2 Sphinx's Revelation
 3 Anticognition
 4 Plains
+1 Thought Erasure
 1 Eliminate
 1 Declaration in Stone
 1 Ashiok, Nightmare Muse
 1 Swamp
 1 Dragonlord Ojutai
-1 Thought Erasure
 1 Prairie Stream
 1 Castle Locthwain
 2 Eliminate
@@ -148,15 +148,15 @@
 2 Godless Shrine
 3 Drowned Catacomb
 3 Thing in the Ice
-3 Godless Shrine
 3 Heartless Act
+3 Godless Shrine
 4 Thing in the Ice
 4 Heartless Act
 4 Drowned Catacomb
-1 Steam Vents
 1 Hieroglyphic Illumination
 1 Sulfur Falls
 1 Sweltering Suns
+1 Steam Vents
 1 Zenith Flare
 1 Raugrin Triome
 2 Steam Vents
@@ -165,12 +165,12 @@
 2 Zenith Flare
 2 Hieroglyphic Illumination
 3 Raugrin Triome
-3 Sulfur Falls
 3 Hieroglyphic Illumination
+3 Sulfur Falls
 3 Steam Vents
 4 Raugrin Triome
-4 Sulfur Falls
 4 Steam Vents
+4 Sulfur Falls
 1 Tale's End
 1 Void Shatter
 2 Void Shatter
