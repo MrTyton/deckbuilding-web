@@ -1,10 +1,10 @@
-1 Forest
 1 Island
-1 Botanical Sanctum
-1 Breeding Pool
 1 Elvish Mystic
+1 Forest
 1 Llanowar Elves
 1 Uro, Titan of Nature's Wrath
+1 Botanical Sanctum
+1 Breeding Pool
 1 Mox Amber
 1 Golden Egg
 1 Emry, Lurker of the Loch
@@ -14,8 +14,8 @@
 1 Karn, the Great Creator
 2 Breeding Pool
 2 Forest
-2 Botanical Sanctum
 2 Llanowar Elves
+2 Botanical Sanctum
 2 Uro, Titan of Nature's Wrath
 2 Emry, Lurker of the Loch
 2 Paradox Engine
@@ -26,8 +26,8 @@
 2 Kinnan, Bonder Prodigy
 2 Mox Amber
 3 Breeding Pool
-3 Forest
 3 Llanowar Elves
+3 Forest
 3 Botanical Sanctum
 3 Karn, the Great Creator
 3 Mox Amber
@@ -57,9 +57,9 @@
 2 Blackbloom Rogue
 3 Blackbloom Rogue
 4 Blackbloom Rogue
-1 Mana Confluence
 1 Springleaf Drum
 1 Terrarion
+1 Mana Confluence
 1 Darksteel Citadel
 2 Mana Confluence
 2 Terrarion
@@ -79,5 +79,5 @@
 4 Skyclave Relic
 4 Golden Egg
 4 Tamiyo, Collector of Tales
-6 Forest
 5 Forest
+6 Forest

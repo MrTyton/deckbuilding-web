@@ -1,5 +1,5 @@
+1 Maze of Ith
 1 Gaddock Teeg
-1 Sevinne's Reclamation
 1 Path to Exile
 1 Field of the Dead
 1 Vesuva
@@ -37,12 +37,12 @@
 4 Aether Vial
 1 Abrupt Decay
 1 Bayou
+1 Spell Queller
 1 Leovold, Emissary of Trest
 1 Phyrexian Revoker
 1 Vendilion Clique
 1 Voice of Resurgence
 1 Brainstorm
-1 Spell Queller
 1 True-Name Nemesis
 1 Plague Engineer
 1 Palace Jailer
@@ -102,6 +102,7 @@
 3 Seasoned Pyromancer
 1 Sunbaked Canyon
 1 Winota, Joiner of Forces
+1 Cavern of Souls
 1 Legion Warboss
 1 Goblin Rabblemaster
 1 Simian Spirit Guide
@@ -111,7 +112,6 @@
 1 Chalice of the Void
 1 Battlefield Forge
 1 Godo, Bandit Warlord
-1 Cavern of Souls
 1 Angrath's Marauders
 1 City of Traitors
 1 Blood Sun
@@ -119,25 +119,25 @@
 2 Goblin Rabblemaster
 2 Legion Warboss
 2 Winota, Joiner of Forces
+2 Cavern of Souls
+2 Plateau
 2 City of Traitors
 2 Angrath's Marauders
-2 Cavern of Souls
 2 Chrome Mox
 2 Blood Sun
 2 Chalice of the Void
 2 Trinisphere
 2 Simian Spirit Guide
-2 Plateau
 3 Goblin Rabblemaster
 3 Legion Warboss
 3 Plateau
 3 Winota, Joiner of Forces
+3 Cavern of Souls
 3 Simian Spirit Guide
 3 Ancient Tomb
 3 Angrath's Marauders
 3 City of Traitors
 3 Chrome Mox
-3 Cavern of Souls
 3 Chalice of the Void
 3 Trinisphere
 4 Goblin Rabblemaster
@@ -181,6 +181,7 @@
 4 Prismatic Vista
 4 Pillage
 1 Island
+1 Mausoleum Wanderer
 1 Force of Negation
 1 Flusterstorm
 1 Skaab Ruinator
@@ -189,23 +190,22 @@
 1 Ninja of the Deep Hours
 1 Nivmagus Elemental
 1 Brazen Borrower
-1 Mausoleum Wanderer
 1 Disrupting Shoal
 1 Daze
 1 Sky Hussar
 1 Martyr of Frost
 1 Ancestral Vision
 1 Force of Will
-2 Force of Negation
 2 Island
+2 Force of Negation
 2 Umezawa's Jitte
 2 Brazen Borrower
+2 Mausoleum Wanderer
 2 Ancestral Vision
 2 Nivmagus Elemental
 2 Ninja of the Deep Hours
 2 Sky Hussar
 2 Martyr of Frost
-2 Mausoleum Wanderer
 2 Spellstutter Sprite
 2 Disrupting Shoal
 2 Daze
@@ -213,17 +213,17 @@
 2 Flusterstorm
 2 Judge's Familiar
 3 Island
+3 Mausoleum Wanderer
 3 Flusterstorm
 3 Judge's Familiar
-3 Mausoleum Wanderer
 3 Force of Will
 3 Daze
 3 Sky Hussar
 3 Martyr of Frost
 4 Island
 4 Daze
-4 Judge's Familiar
 4 Mausoleum Wanderer
+4 Judge's Familiar
 4 Sky Hussar
 4 Force of Will
 5 Island
@@ -266,11 +266,11 @@
 3 Might of Old Krosa
 3 Dryad Militant
 3 Skarrgan Pit-Skulk
+4 Forest
 4 Might of Old Krosa
 4 Kavu Predator
 4 Rancor
 4 Berserk
-4 Forest
 4 Jungle Lion
 4 Dryad Militant
 4 Invigorate

@@ -16,48 +16,47 @@
 4 Skyclave Cleric
 1 Thassa, Deep-Dwelling
 2 Thassa, Deep-Dwelling
-1 Stomping Ground
-2 Stomping Ground
-1 Llanowar Elves
-1 Elvish Mystic
-2 Llanowar Elves
-2 Elvish Mystic
 1 Breeding Pool
 1 Botanical Sanctum
 2 Botanical Sanctum
 3 Botanical Sanctum
 4 Botanical Sanctum
+1 Stomping Ground
+2 Stomping Ground
 3 Stomping Ground
-1 Cragcrown Pathway
-2 Cragcrown Pathway
-3 Llanowar Elves
-3 Cragcrown Pathway
-4 Cragcrown Pathway
+1 Llanowar Elves
+1 Elvish Mystic
+2 Llanowar Elves
+2 Elvish Mystic
 4 Stomping Ground
 1 Lovestruck Beast
 1 Bonders' Enclave
-1 Questing Beast
+1 Scavenging Ooze
 1 Vivien, Arkbow Ranger
 1 Spirebluff Canal
+1 Cragcrown Pathway
 1 Bonecrusher Giant
-1 Scavenging Ooze
+1 Questing Beast
 1 Rhonas the Indomitable
 1 Elder Gargaroth
-2 Questing Beast
 2 Lovestruck Beast
 2 Bonders' Enclave
 2 Rhonas the Indomitable
+2 Scavenging Ooze
 2 Elder Gargaroth
 2 Bonecrusher Giant
 2 Vivien, Arkbow Ranger
 2 Spirebluff Canal
+2 Questing Beast
 2 Breeding Pool
-2 Scavenging Ooze
+2 Cragcrown Pathway
 3 Lovestruck Beast
 3 Elder Gargaroth
 3 Questing Beast
 3 Scavenging Ooze
+3 Llanowar Elves
 3 Elvish Mystic
+3 Cragcrown Pathway
 3 Bonecrusher Giant
 3 Vivien, Arkbow Ranger
 3 Spirebluff Canal
@@ -70,57 +69,13 @@
 4 Elvish Mystic
 4 Vivien, Arkbow Ranger
 4 Spirebluff Canal
+4 Cragcrown Pathway
 4 Bonecrusher Giant
 4 Llanowar Elves
+1 Mystical Dispute
 1 Blooming Marsh
 2 Blooming Marsh
-1 Blood Crypt
-1 Overgrown Tomb
-2 Blood Crypt
-2 Overgrown Tomb
-3 Blooming Marsh
-3 Overgrown Tomb
-4 Blooming Marsh
-1 Gilded Goose
-1 Llanowar Wastes
-1 Woe Strider
-1 Priest of Forgotten Gods
-1 Zulaport Cutthroat
-1 Bolas's Citadel
-1 Catacomb Sifter
-1 Collected Company
-1 Blisterpod
-1 Mayhem Devil
-2 Gilded Goose
-2 Llanowar Wastes
-2 Zulaport Cutthroat
-2 Priest of Forgotten Gods
-2 Woe Strider
-2 Bolas's Citadel
-2 Collected Company
-2 Mayhem Devil
-2 Blisterpod
-2 Catacomb Sifter
-3 Woe Strider
-3 Gilded Goose
-3 Llanowar Wastes
-3 Zulaport Cutthroat
-3 Priest of Forgotten Gods
-3 Mayhem Devil
-3 Catacomb Sifter
-3 Bolas's Citadel
-3 Collected Company
-4 Woe Strider
-4 Overgrown Tomb
-4 Zulaport Cutthroat
-4 Priest of Forgotten Gods
-4 Catacomb Sifter
-4 Bolas's Citadel
-4 Mayhem Devil
-4 Collected Company
 1 Agadeem's Awakening
-1 Urborg, Tomb of Yawgmoth
-1 Mystical Dispute
 1 Merfolk Windrobber
 1 Drown in the Loch
 1 Watery Grave
@@ -128,6 +83,7 @@
 1 Fatal Push
 1 Eliminate
 1 Thoughtseize
+1 Urborg, Tomb of Yawgmoth
 1 Deathrite Shaman
 1 Mutavault
 1 Thieves' Guild Enforcer
@@ -174,7 +130,6 @@
 2 Niambi, Esteemed Speaker
 3 Spell Queller
 4 Spell Queller
-1 Forest
 1 Swamp
 1 Mana Confluence
 1 Sea Gate Stormcaller
@@ -185,7 +140,6 @@
 2 Cling to Dust
 3 Fatal Push
 3 Mutavault
-4 Llanowar Wastes
 1 Stubborn Denial
 2 Stubborn Denial
 3 Stubborn Denial
@@ -193,6 +147,7 @@
 2 Mystical Dispute
 3 Mystical Dispute
 4 Mystical Dispute
+1 Forest
 1 Omen of the Sun
 1 Branchloft Pathway
 1 Temple Garden
@@ -247,19 +202,63 @@
 4 Saproling Migration
 4 Raise the Alarm
 4 Sunpetal Grove
-3 Blisterpod
-3 Blood Crypt
-4 Gilded Goose
-4 Blisterpod
-4 Blood Crypt
+1 Of One Mind
 1 Zagoth Triome
 1 Heartless Act
-1 Of One Mind
-2 Zagoth Triome
 2 Of One Mind
+2 Zagoth Triome
 3 Of One Mind
 3 Agadeem's Awakening
 4 Into the Story
+1 Blood Crypt
+1 Overgrown Tomb
+2 Blood Crypt
+2 Overgrown Tomb
+3 Overgrown Tomb
+3 Blooming Marsh
+4 Blooming Marsh
+1 Gilded Goose
+1 Llanowar Wastes
+1 Woe Strider
+1 Priest of Forgotten Gods
+1 Zulaport Cutthroat
+1 Bolas's Citadel
+1 Catacomb Sifter
+1 Collected Company
+1 Blisterpod
+1 Mayhem Devil
+2 Gilded Goose
+2 Llanowar Wastes
+2 Zulaport Cutthroat
+2 Priest of Forgotten Gods
+2 Woe Strider
+2 Bolas's Citadel
+2 Collected Company
+2 Mayhem Devil
+2 Blisterpod
+2 Catacomb Sifter
+3 Woe Strider
+3 Gilded Goose
+3 Llanowar Wastes
+3 Zulaport Cutthroat
+3 Priest of Forgotten Gods
+3 Blisterpod
+3 Mayhem Devil
+3 Catacomb Sifter
+3 Bolas's Citadel
+3 Blood Crypt
+3 Collected Company
+4 Woe Strider
+4 Overgrown Tomb
+4 Zulaport Cutthroat
+4 Priest of Forgotten Gods
+4 Gilded Goose
+4 Catacomb Sifter
+4 Blisterpod
+4 Blood Crypt
+4 Bolas's Citadel
+4 Mayhem Devil
+4 Collected Company
 1 Satyr Wayfinder
 1 Claim / Fame
 1 Grapple with the Past
@@ -274,7 +273,6 @@
 1 Samut, Voice of Dissent
 1 Woodland Cemetery
 1 Mountain
-2 Satyr Wayfinder
 2 Grapple with the Past
 2 Grisly Salvage
 2 Magmatic Channeler
@@ -283,11 +281,11 @@
 2 Nullhide Ferox
 2 Woodland Cemetery
 2 Samut, Voice of Dissent
+2 Satyr Wayfinder
 2 Zetalpa, Primal Dawn
 2 Vampire of the Dire Moon
 2 Soulflayer
 2 Stitcher's Supplier
-3 Satyr Wayfinder
 3 Magmatic Channeler
 3 Claim / Fame
 3 Zetalpa, Primal Dawn
@@ -297,12 +295,13 @@
 3 Soulflayer
 3 Grapple with the Past
 3 Nullhide Ferox
+3 Satyr Wayfinder
 3 Woodland Cemetery
-4 Satyr Wayfinder
 4 Zetalpa, Primal Dawn
 4 Grisly Salvage
 4 Stitcher's Supplier
 4 Woodland Cemetery
 4 Grapple with the Past
 4 Nullhide Ferox
+4 Satyr Wayfinder
 4 Soulflayer
