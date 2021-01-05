@@ -87,6 +87,6 @@
 |                    2|[Roiling Regrowth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491849)       |                     |                                                                                                     |
 |                    3|[Spikefield Hazard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491809)      |                     |                                                                                                     |
 |                    3|[Kazandu Mammoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491835)        |                     |                                                                                                     |
-|                    3|[Kiora Bests the Sea God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476303)|                     |                                                                                                     |
 |                    4|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)      |                     |                                                                                                     |
+|                    3|[Kiora Bests the Sea God](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476303)|                     |                                                                                                     |
 

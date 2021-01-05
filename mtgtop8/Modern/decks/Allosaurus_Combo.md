@@ -32,7 +32,7 @@
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
 |                    1|[Edge of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=243442)   |                    1|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)            |
 |                    1|[Life Goes On](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430810)     |                    1|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
-|                    3|[Botanical Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417817)|                    1|[Repeal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405357)                 |
-|                    4|[Gemstone Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109761)    |                    2|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
-|                    2|[Griselbrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=239995)      |                    3|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
+|                    2|[Griselbrand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=239995)      |                    1|[Repeal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405357)                 |
+|                    3|[Botanical Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417817)|                    2|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
+|                    4|[Gemstone Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109761)    |                    3|[Dissenter's Deliverance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426866)|
 

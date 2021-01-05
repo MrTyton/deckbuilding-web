@@ -60,8 +60,8 @@
 |                     |                                                                                                |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
 |                     |                                                                                                |                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |
 |                     |                                                                                                |                    4|[Goblin Charbelcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438497) |
-|                     |                                                                                                |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |
 |                     |                                                                                                |                    1|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)               |
+|                     |                                                                                                |                    1|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |
 |                     |                                                                                                |                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |
 |                     |                                                                                                |                    2|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)               |
 

@@ -1,16 +1,16 @@
-3 Young Pyromancer
-1 Gurmag Angler
-3 Thoughtseize
 2 Brazen Borrower
-2 Bedlam Reveler
+1 Bedlam Reveler
 3 Underground Sea
-1 Island
-1 Badlands
-2 Force of Negation
-1 Spell Pierce
 2 Gurmag Angler
-4 Volcanic Island
+3 Young Pyromancer
+3 Thoughtseize
 2 Fatal Push
+2 Bedlam Reveler
+1 Badlands
+1 Island
+1 Spell Pierce
+2 Force of Negation
+4 Volcanic Island
 1 Bloodstained Mire
 2 Bloodstained Mire
 1 Snow-Covered Island
@@ -36,26 +36,6 @@
 2 Thwart
 3 Misty Rainforest
 4 Misty Rainforest
-1 Snow-Covered Mountain
-1 Swords to Plowshares
-1 Tundra
-1 Narset, Parter of Veils
-1 Monastery Mentor
-1 Teferi, Time Raveler
-1 Snow-Covered Plains
-2 Teferi, Time Raveler
-2 Snow-Covered Island
-2 Tundra
-2 Swords to Plowshares
-2 Narset, Parter of Veils
-2 Monastery Mentor
-3 Flooded Strand
-3 Snow-Covered Island
-3 Swords to Plowshares
-3 Monastery Mentor
-4 Monastery Mentor
-4 Swords to Plowshares
-4 Flooded Strand
 1 Court of Cunning
 1 Baleful Strix
 1 Swamp
@@ -65,6 +45,26 @@
 2 Baleful Strix
 3 Gurmag Angler
 4 Young Pyromancer
+1 Snow-Covered Mountain
+1 Swords to Plowshares
+1 Narset, Parter of Veils
+1 Monastery Mentor
+1 Tundra
+1 Teferi, Time Raveler
+1 Snow-Covered Plains
+2 Teferi, Time Raveler
+2 Snow-Covered Island
+2 Narset, Parter of Veils
+2 Monastery Mentor
+2 Tundra
+2 Swords to Plowshares
+3 Snow-Covered Island
+3 Flooded Strand
+3 Monastery Mentor
+3 Swords to Plowshares
+4 Monastery Mentor
+4 Flooded Strand
+4 Swords to Plowshares
 1 Mishra's Bauble
 1 Pyroblast
 1 Urza's Bauble
@@ -97,7 +97,6 @@
 3 Snow-Covered Mountain
 3 Mishra's Bauble
 3 Mox Opal
-3 Arcum's Astrolabe
 3 Pyroblast
 3 Grindstone
 3 Karn, the Great Creator
@@ -105,11 +104,12 @@
 3 Emry, Lurker of the Loch
 3 Lion's Eye Diamond
 3 Painter's Servant
+3 Arcum's Astrolabe
 3 Goblin Engineer
 4 Goblin Engineer
-4 Arcum's Astrolabe
 4 Mishra's Bauble
 4 Mox Opal
+4 Arcum's Astrolabe
 4 Emry, Lurker of the Loch
 4 Painter's Servant
 4 Karn, the Great Creator

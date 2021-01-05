@@ -1,73 +1,71 @@
-1 Flooded Grove
-2 Flooded Strand
-3 Thoughtseize
 3 Mana Leak
+1 Forest
+1 Flooded Grove
+1 Overgrown Tomb
 1 Growth Spiral
-2 Remand
 1 Snow-Covered Swamp
 2 Growth Spiral
-3 Growth Spiral
-3 Snow-Covered Island
-4 Growth Spiral
-1 Fact or Fiction
+2 Remand
 1 Scalding Tarn
+1 Fact or Fiction
+3 Growth Spiral
+4 Growth Spiral
 1 Nexus of Fate
 1 Wilderness Reclamation
 2 Wilderness Reclamation
 2 Fact or Fiction
 3 Remand
+3 Snow-Covered Island
 1 Life from the Loam
 3 Fact or Fiction
 4 Remand
 1 Ghost Quarter
 4 Cryptic Command
 1 Shark Typhoon
-1 Damnation
-1 Cling to Dust
 1 Hour of Promise
 2 Scalding Tarn
+1 Cling to Dust
+1 Damnation
 2 Shark Typhoon
 1 Narset, Parter of Veils
-3 Shark Typhoon
 1 Sunken Hollow
-1 Sunken Ruins
-2 Cling to Dust
-1 Prismatic Vista
-1 Snapcaster Mage
+3 Abrupt Decay
 1 Castle Vantress
+1 Snapcaster Mage
 3 Wilderness Reclamation
+3 Shark Typhoon
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
-3 Mystic Sanctuary
 3 Ice-Fang Coatl
+3 Mystic Sanctuary
 4 Snow-Covered Island
 5 Snow-Covered Island
+1 Prismatic Vista
 2 Hour of Promise
 2 Bloodchief's Thirst
-1 Drown in the Loch
 1 Assassin's Trophy
 2 Assassin's Trophy
-3 Field of Ruin
 1 Waterlogged Grove
 1 Surgical Extraction
+1 Mesmeric Orb
 1 Hedron Crab
 1 Winds of Rebuke
-1 Mesmeric Orb
 1 Visions of Beyond
 1 Glimpse the Unthinkable
 1 Archive Trap
 1 Ruin Crab
 2 Surgical Extraction
+2 Mesmeric Orb
 2 Ruin Crab
 2 Visions of Beyond
 2 Overgrown Tomb
-2 Mesmeric Orb
 2 Archive Trap
 2 Hedron Crab
 2 Glimpse the Unthinkable
 3 Surgical Extraction
 3 Assassin's Trophy
 3 Hedron Crab
+3 Field of Ruin
 3 Archive Trap
 3 Glimpse the Unthinkable
 3 Ruin Crab
@@ -79,24 +77,25 @@
 4 Visions of Beyond
 4 Glimpse the Unthinkable
 4 Mesmeric Orb
-1 Pithing Needle
-1 Soul-Guide Lantern
+1 Sunken Ruins
 1 Urza, Lord High Artificer
 1 Emry, Lurker of the Loch
-1 Mishra's Bauble
 1 Mox Amber
 1 Thopter Foundry
 1 Sword of the Meek
-1 Whir of Invention
+1 Soul-Guide Lantern
+1 Pithing Needle
 1 Gilded Goose
 1 Engineered Explosives
-2 Mishra's Bauble
+1 Whir of Invention
+1 Mishra's Bauble
 2 Urza, Lord High Artificer
-2 Engineered Explosives
 2 Thopter Foundry
 2 Emry, Lurker of the Loch
+2 Engineered Explosives
 2 Gilded Goose
 2 Whir of Invention
+2 Mishra's Bauble
 3 Urza, Lord High Artificer
 3 Gilded Goose
 3 Mishra's Bauble
@@ -105,8 +104,8 @@
 4 Mishra's Bauble
 2 Snow-Covered Forest
 1 Primeval Titan
-1 Cavern of Souls
 1 Explore
+1 Cavern of Souls
 1 Valakut, the Molten Pinnacle
 1 Dryad of the Ilysian Grove
 1 Turntimber Symbiosis
@@ -124,7 +123,6 @@
 1 Tolaria West
 1 Sakura-Tribe Scout
 1 Hanweir Battlements
-2 Cavern of Souls
 2 Valakut, the Molten Pinnacle
 2 Dryad of the Ilysian Grove
 2 Primeval Titan
@@ -138,6 +136,7 @@
 2 Arboreal Grazer
 2 Simic Growth Chamber
 2 Tolaria West
+2 Cavern of Souls
 2 Castle Garenbrig
 3 Primeval Titan
 3 Dryad of the Ilysian Grove
@@ -156,11 +155,12 @@
 4 Explore
 1 Creeping Tar Pit
 2 Prismatic Vista
-3 Abrupt Decay
 1 Metallic Rebuke
 1 Aether Spellbomb
 1 Venser, Shaper Savant
 2 Spell Snare
+1 Drown in the Loch
+2 Cling to Dust
 1 Windswept Heath
 1 Azusa, Lost but Seeking
 2 Golgari Rot Farm
@@ -171,14 +171,6 @@
 3 Engineered Explosives
 4 Fact or Fiction
 4 Shark Typhoon
-1 Nissa, Who Shakes the World
-2 Zagoth Triome
-2 Nissa, Who Shakes the World
-2 Aether Gust
-3 Zagoth Triome
-3 Breeding Pool
-3 Nissa, Who Shakes the World
-4 Thoughtseize
 6 Snow-Covered Island
 1 Reclamation Sage
 4 Gruul Turf

@@ -57,8 +57,8 @@
 4 Ice-Fang Coatl
 4 Faerie Seer
 4 Spellstutter Sprite
-1 Gut Shot
 1 Soul-Scar Mage
+1 Gut Shot
 1 Crash Through
 1 Mutagenic Growth
 1 Stormwing Entity
@@ -73,8 +73,8 @@
 1 Fiery Islet
 1 Monastery Swiftspear
 2 Soul-Scar Mage
-2 Crash Through
 2 Gut Shot
+2 Crash Through
 2 Mutagenic Growth
 2 Stormwing Entity
 2 Lava Dart
@@ -87,6 +87,7 @@
 2 Monastery Swiftspear
 2 Temur Battle Rage
 2 Opt
+3 Stormwing Entity
 3 Soul-Scar Mage
 3 Mutagenic Growth
 3 Steam Vents
@@ -96,24 +97,23 @@
 3 Kiln Fiend
 3 Mountain
 3 Wooded Foothills
-3 Stormwing Entity
 3 Manamorphose
 3 Fiery Islet
 3 Spirebluff Canal
 3 Monastery Swiftspear
 4 Stormwing Entity
+4 Fiery Islet
 4 Steam Vents
 4 Soul-Scar Mage
-4 Fiery Islet
+4 Kiln Fiend
 4 Crash Through
 4 Lava Dart
-4 Kiln Fiend
 4 Monastery Swiftspear
 4 Manamorphose
 4 Wooded Foothills
 1 Ephemerate
-1 Glacial Fortress
 1 Wasteland Strangler
+1 Glacial Fortress
 1 Delay
 1 Teferi, Time Raveler
 1 Hallowed Fountain
@@ -133,9 +133,9 @@
 1 Spell Queller
 2 Charming Prince
 2 Cavern of Souls
+2 Wasteland Strangler
 2 Hallowed Fountain
 2 Snow-Covered Swamp
-2 Wasteland Strangler
 2 Delay
 2 Teferi, Time Raveler
 2 Path to Exile
@@ -151,8 +151,8 @@
 2 Spell Queller
 3 Aether Vial
 3 Delay
-3 Wasteland Strangler
 3 Teferi, Time Raveler
+3 Wasteland Strangler
 3 Marsh Flats
 3 Ulamog's Nullifier
 3 Tidehollow Sculler

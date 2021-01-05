@@ -119,8 +119,8 @@
 1 Cavern of Souls
 1 Underground Sea
 1 Dark Ritual
-2 Doomsday
 2 Underground Sea
+2 Doomsday
 2 Dark Ritual
 3 Polluted Delta
 3 Doomsday
@@ -183,19 +183,13 @@
 2 Thoughtseize
 3 Underground Sea
 4 Preordain
-1 Hullbreacher
-1 Baleful Strix
-2 Hullbreacher
-2 Baleful Strix
-3 Baleful Strix
-4 Arcum's Astrolabe
 1 Detention Sphere
 1 Solitary Confinement
 1 True-Name Nemesis
 1 Trade Routes
 1 Web of Inertia
-3 Enlightened Tutor
 3 Plains
+3 Enlightened Tutor
 4 Plains
 4 Enlightened Tutor
 5 Plains
@@ -209,9 +203,15 @@
 2 Path to Exile
 2 Mox Opal
 2 Urza, Lord High Artificer
-3 Mox Opal
 3 Snow-Covered Plains
-4 Lotus Petal
+3 Mox Opal
 4 Snow-Covered Plains
-7 Snow-Covered Island
+4 Lotus Petal
 5 Snow-Covered Plains
+7 Snow-Covered Island
+1 Hullbreacher
+1 Baleful Strix
+2 Hullbreacher
+2 Baleful Strix
+3 Baleful Strix
+4 Arcum's Astrolabe

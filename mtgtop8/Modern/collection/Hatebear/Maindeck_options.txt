@@ -1,30 +1,30 @@
-1 Glasspool Mimic
+1 Spellskite
+3 Silent Clearing
+1 Ethersworn Canonist
+2 Ethersworn Canonist
+2 Spellskite
 1 Seachrome Coast
+1 Glasspool Mimic
 1 Teferi, Time Raveler
 1 Island
 1 Hallowed Fountain
 1 Spell Queller
 1 Adarkar Wastes
-2 Glasspool Mimic
 2 Seachrome Coast
+2 Glasspool Mimic
 2 Teferi, Time Raveler
 2 Adarkar Wastes
 2 Hallowed Fountain
 2 Spell Queller
 3 Glasspool Mimic
-3 Seachrome Coast
 3 Hallowed Fountain
 3 Teferi, Time Raveler
 3 Spell Queller
 3 Adarkar Wastes
+3 Seachrome Coast
 4 Glasspool Mimic
 4 Hallowed Fountain
 4 Seachrome Coast
-1 Spellskite
-3 Silent Clearing
-1 Ethersworn Canonist
-2 Spellskite
-2 Ethersworn Canonist
 2 Charming Prince
 1 Sunbaked Canyon
 1 Lurrus of the Dream-Den
@@ -44,13 +44,6 @@
 2 Watcher for Tomorrow
 3 Watcher for Tomorrow
 4 Watcher for Tomorrow
-1 Selfless Savior
-1 Confounding Conundrum
-2 Selfless Savior
-2 Confounding Conundrum
-3 Confounding Conundrum
-4 Confounding Conundrum
-4 Spell Queller
 2 Sunbaked Canyon
 3 Sunbaked Canyon
 1 Pia and Kiran Nalaar
@@ -65,26 +58,26 @@
 1 Seasoned Pyromancer
 2 Battlefield Forge
 2 Pia and Kiran Nalaar
-2 Sacred Foundry
-2 Inspiring Vantage
 2 Winota, Joiner of Forces
+2 Sacred Foundry
 2 Seasoned Pyromancer
+2 Inspiring Vantage
 2 Angrath's Marauders
 2 Needleverge Pathway
 3 Battlefield Forge
 3 Angrath's Marauders
-3 Sacred Foundry
 3 Inspiring Vantage
+3 Sacred Foundry
 3 Seasoned Pyromancer
 3 Needleverge Pathway
 3 Winota, Joiner of Forces
 4 Battlefield Forge
 4 Angrath's Marauders
-4 Sunbaked Canyon
 4 Sacred Foundry
-4 Inspiring Vantage
 4 Seasoned Pyromancer
 4 Winota, Joiner of Forces
+4 Sunbaked Canyon
+4 Inspiring Vantage
 4 Needleverge Pathway
 1 Aven Mindcensor
 1 Eldrazi Temple
@@ -114,9 +107,16 @@
 3 Shefet Dunes
 3 Charming Prince
 4 Shefet Dunes
+1 Selfless Savior
+1 Confounding Conundrum
+2 Selfless Savior
+2 Confounding Conundrum
+3 Confounding Conundrum
+4 Confounding Conundrum
+4 Spell Queller
 1 Skyclave Cleric
-1 Sword of Light and Shadow
 1 Reality Smasher
+1 Sword of Light and Shadow
 1 Wastes
 2 Skyclave Cleric
 2 Reality Smasher
@@ -131,8 +131,8 @@
 3 Archon of Emeria
 9 Snow-Covered Plains
 10 Snow-Covered Plains
-1 Forest
 1 Razorverge Thicket
+1 Forest
 1 Branchloft Pathway
 1 Noble Hierarch
 1 Temple Garden
@@ -141,9 +141,9 @@
 2 Branchloft Pathway
 2 Noble Hierarch
 3 Razorverge Thicket
-3 Horizon Canopy
 3 Temple Garden
 3 Branchloft Pathway
+3 Horizon Canopy
 3 Noble Hierarch
 4 Horizon Canopy
 4 Razorverge Thicket
