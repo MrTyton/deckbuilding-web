@@ -1,4 +1,4 @@
-14 Mountain
+4 Spikefield Hazard
 15 Mountain
 1 Eidolon of the Great Revel
 2 Eidolon of the Great Revel
@@ -6,18 +6,21 @@
 1 Shock
 2 Shock
 3 Wizard's Lightning
+3 Shock
 4 Eidolon of the Great Revel
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
-3 Shock
+4 Wizard's Lightning
+1 Viashino Pyromancer
+2 Viashino Pyromancer
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
 1 Blast Zone
 1 Cascading Cataracts
 1 Mazemind Tome
 1 Golos, Tireless Pilgrim
-1 Scavenger Grounds
 1 Valakut Awakening
+1 Scavenger Grounds
 1 Darksteel Citadel
 1 Cleansing Wildfire
 1 Thought-Knot Seer
@@ -54,9 +57,6 @@
 4 Ugin, the Spirit Dragon
 4 Anger of the Gods
 4 Mazemind Tome
-4 Wizard's Lightning
-1 Viashino Pyromancer
-2 Viashino Pyromancer
 16 Mountain
 1 Chandra, Awakened Inferno
 3 Viashino Pyromancer
@@ -68,9 +68,11 @@
 4 Viashino Pyromancer
 2 Golos, Tireless Pilgrim
 1 Radiant Fountain
-4 Vessel of Volatility
-3 Golos, Tireless Pilgrim
 1 Skewer the Critics
+4 Vessel of Volatility
+1 Skullcrack
+3 Golos, Tireless Pilgrim
+2 Skewer the Critics
 2 Scavenger Grounds
 1 Castle Embereth
 1 Torbran, Thane of Red Fell
@@ -79,7 +81,6 @@
 2 Torbran, Thane of Red Fell
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
-1 Skullcrack
 1 The Flame of Keld
 1 Emrakul, the Promised End
 1 Sanctum of Ugin
@@ -89,6 +90,9 @@
 1 Shrine of the Forsaken Gods
 1 Ulamog, the Ceaseless Hunger
 2 Solemn Simulacrum
+2 Skullcrack
+3 Skewer the Critics
+4 Skewer the Critics
 1 Abbot of Keral Keep
 1 Crash Through
 1 Goblin Rabblemaster
@@ -102,7 +106,6 @@
 3 Goblin Rabblemaster
 4 Crash Through
 1 Roiling Vortex
-2 Skewer the Critics
 2 Roiling Vortex
 4 Shock
 1 Hazoret the Fervent

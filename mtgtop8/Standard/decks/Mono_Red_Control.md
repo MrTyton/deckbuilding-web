@@ -74,8 +74,8 @@
 |                    1|[Kazuul's Fury](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491786)              |                     |                                                                                                |
 |                    1|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)              |                     |                                                                                                |
 |                    2|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)              |                     |                                                                                                |
-|                    3|[Radiant Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438810)           |                     |                                                                                                |
 |                    3|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)              |                     |                                                                                                |
+|                    3|[Radiant Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438810)           |                     |                                                                                                |
 |                    4|[Irencrag Feat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473089)              |                     |                                                                                                |
 |                    4|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)              |                     |                                                                                                |
 
