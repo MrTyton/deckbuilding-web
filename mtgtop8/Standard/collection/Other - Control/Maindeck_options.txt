@@ -24,9 +24,9 @@
 3 Golden Egg
 4 Golden Egg
 1 Temple of Plenty
-1 Llanowar Visionary
 1 Treacherous Blessing
 1 Eerie Ultimatum
+1 Llanowar Visionary
 1 Yorion, Sky Nomad
 1 Wicked Wolf
 1 Skyclave Apparition
@@ -37,7 +37,6 @@
 1 Agadeem's Awakening
 1 Temple of Silence
 2 Temple of Silence
-2 Llanowar Visionary
 2 Eerie Ultimatum
 2 Gilded Goose
 2 Doom Foretold
@@ -46,21 +45,22 @@
 2 Treacherous Blessing
 2 Wicked Wolf
 2 Skyclave Apparition
+2 Llanowar Visionary
 2 Yorion, Sky Nomad
 2 Charming Prince
 3 Charming Prince
-3 Llanowar Visionary
 3 Doom Foretold
 3 Wicked Wolf
 3 Skyclave Apparition
+3 Llanowar Visionary
 3 Gilded Goose
 3 Trail of Crumbs
 3 Forest
 3 Glass Casket
 3 Treacherous Blessing
 4 Trail of Crumbs
-4 Llanowar Visionary
 4 Wicked Wolf
+4 Llanowar Visionary
 4 Gilded Goose
 4 Forest
 4 Doom Foretold
@@ -101,16 +101,16 @@
 1 Scavenging Ooze
 1 Yasharn, Implacable Earth
 2 Castle Locthwain
-2 Duress
 2 Thrashing Brontodon
+2 Duress
 2 Elder Gargaroth
 2 Elspeth's Nightmare
 2 Heartless Act
 2 Yasharn, Implacable Earth
 2 Polukranos, Unchained
 2 Scavenging Ooze
-3 Duress
 3 Scavenging Ooze
+3 Duress
 3 Elder Gargaroth
 3 Temple of Malady
 3 Yasharn, Implacable Earth
@@ -121,14 +121,14 @@
 1 Sanctum of Calm Waters
 1 Ketria Triome
 1 Fae of Wishes
-1 Thornwood Falls
 1 Thirst for Meaning
 1 Dismal Backwater
 1 Wind-Scarred Crag
+1 Bloodfell Caves
 1 Cragcrown Pathway
 1 Clearwater Pathway
 1 Jungle Hollow
-1 Bloodfell Caves
+1 Thornwood Falls
 1 Sanctum of Shattered Heights
 1 Sanctum of All
 1 Sanctum of Stone Fangs
@@ -162,14 +162,14 @@
 4 Extinction Event
 4 Sanctum of Shattered Heights
 1 Wolfwillow Haven
-1 Cultivate
 1 Shadows' Verdict
 1 Felidar Retreat
 1 Erebos's Intervention
+1 Cultivate
 2 Wolfwillow Haven
-2 Cultivate
 2 Bala Ged Recovery
 2 Erebos's Intervention
+2 Cultivate
 3 Bala Ged Recovery
 3 Wolfwillow Haven
 3 Cultivate
@@ -206,29 +206,29 @@
 18 Island
 1 Relic Golem
 1 Ruin Crab
+1 Stern Dismissal
 1 Into the Story
 1 Evolving Wilds
 1 Anticognition
 1 Merfolk Secretkeeper
 1 Negate
-1 Stern Dismissal
 1 Teferi's Tutelage
 1 Didn't Say Please
 2 Didn't Say Please
 2 Relic Golem
 2 Ruin Crab
 2 Evolving Wilds
+2 Stern Dismissal
 2 Merfolk Secretkeeper
 2 Into the Story
-2 Negate
 2 Anticognition
-2 Stern Dismissal
+2 Negate
 2 Teferi's Tutelage
 3 Anticognition
 3 Relic Golem
-3 Stern Dismissal
 3 Didn't Say Please
 3 Evolving Wilds
+3 Stern Dismissal
 3 Merfolk Secretkeeper
 3 Teferi's Tutelage
 3 Ruin Crab
@@ -239,38 +239,38 @@
 4 Merfolk Secretkeeper
 4 Ruin Crab
 4 Evolving Wilds
-1 Jwari Disruption
 1 Lofty Denial
-1 Silundi Vision
-1 Gadwick, the Wizened
 1 Rewind
 1 Rain of Revelation
+1 Neutralize
 1 Kiora Bests the Sea God
-1 Sublime Epiphany
-1 Brazen Borrower
+1 Silundi Vision
+1 Shark Typhoon
 1 Hypnotic Sprite
 1 Bonders' Enclave
+1 Jwari Disruption
 1 Essence Scatter
 1 Castle Vantress
-1 Shark Typhoon
-1 Neutralize
+1 Sublime Epiphany
+1 Brazen Borrower
+1 Gadwick, the Wizened
 2 Castle Vantress
 2 Lofty Denial
-2 Gadwick, the Wizened
 2 Rain of Revelation
-2 Rewind
-2 Brazen Borrower
-2 Shark Typhoon
-2 Essence Scatter
-2 Hypnotic Sprite
 2 Neutralize
-3 Neutralize
+2 Essence Scatter
+2 Rewind
+2 Shark Typhoon
+2 Gadwick, the Wizened
+2 Brazen Borrower
+2 Hypnotic Sprite
 3 Castle Vantress
+3 Neutralize
 3 Rewind
 3 Brazen Borrower
 3 Shark Typhoon
-4 Neutralize
 4 Castle Vantress
+4 Neutralize
 4 Shark Typhoon
 4 Rewind
 4 Brazen Borrower
@@ -294,12 +294,12 @@
 3 Solemn Simulacrum
 3 Sleeper Dart
 3 Unknown Shores
-3 Forsaken Monument
 3 Radiant Fountain
-4 Radiant Fountain
+3 Forsaken Monument
 4 Solemn Simulacrum
 4 Sleeper Dart
 4 Crawling Barrens
+4 Radiant Fountain
 4 Forsaken Monument
 4 Unknown Shores
 6 Plains

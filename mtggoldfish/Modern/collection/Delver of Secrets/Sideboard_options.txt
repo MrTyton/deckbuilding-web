@@ -8,8 +8,8 @@
 1 Veil of Summer
 2 Veil of Summer
 1 Ancient Grudge
-1 Shadowspear
 1 Firespout
+1 Shadowspear
 1 Natural State
 2 Firespout
 3 Veil of Summer
@@ -25,8 +25,8 @@
 1 Young Pyromancer
 2 Young Pyromancer
 1 Damping Sphere
-1 Flusterstorm
 1 Dragon's Claw
+1 Flusterstorm
 2 Dragon's Claw
 3 Ceremonious Rejection
 1 Grafdigger's Cage
@@ -56,32 +56,32 @@
 1 Wear/Tear
 1 Tormod's Crypt
 2 Tormod's Crypt
-1 Dovin's Veto
 1 Mana Leak
-1 Meddling Mage
-2 Meddling Mage
+1 Dovin's Veto
 1 Flame Slash
 1 Echoing Truth
 2 Flame Slash
 2 Echoing Truth
+1 Meddling Mage
+2 Meddling Mage
 1 Fry
 2 Bedlam Reveler
 2 Damping Sphere
 1 Infernal Reckoning
 2 Infernal Reckoning
-1 Geth's Verdict
-1 Psychic Barrier
-2 Psychic Barrier
-2 Geth's Verdict
 1 Alpine Moon
 1 Kor Firewalker
 1 Seasoned Pyromancer
 2 Path to Exile
 2 Lurrus of the Dream-Den
 2 Alpine Moon
+2 Wear/Tear
 2 Kor Firewalker
 2 Seasoned Pyromancer
-2 Wear/Tear
+1 Geth's Verdict
+1 Psychic Barrier
+2 Psychic Barrier
+2 Geth's Verdict
 2 Flusterstorm
 3 Dragon's Claw
 3 Rest in Peace
@@ -103,13 +103,6 @@
 2 Feed the Clan
 3 Grafdigger's Cage
 3 Feed the Clan
-1 Roast
-1 Spell Snare
-2 Spell Snare
-2 Magma Spray
-2 Roast
-3 Spell Snare
-3 Magma Spray
 1 Countersquall
 1 Snapcaster Mage
 2 Snapcaster Mage
@@ -123,5 +116,12 @@
 1 Wurmcoil Engine
 1 Teferi, Mage of Zhalfir
 2 Ratchet Bomb
-4 Aether Gust
 3 Entrancing Melody
+4 Aether Gust
+1 Roast
+1 Spell Snare
+2 Spell Snare
+2 Magma Spray
+2 Roast
+3 Magma Spray
+3 Spell Snare

@@ -16,11 +16,11 @@
 4 Confounding Conundrum
 1 Selfless Savior
 2 Selfless Savior
-1 Jace, the Mind Sculptor
-1 Mystic Sanctuary
 1 Flooded Strand
-2 Mystic Sanctuary
+1 Mystic Sanctuary
+1 Jace, the Mind Sculptor
 2 Flooded Strand
+2 Mystic Sanctuary
 3 Flooded Strand
 4 Flooded Strand
 1 Opt
@@ -72,8 +72,8 @@
 1 Terminus
 2 Terminus
 3 Terminus
-4 Mystic Sanctuary
 4 Terminus
+4 Mystic Sanctuary
 1 Logic Knot
 2 Supreme Verdict
 1 Deputy of Detention
@@ -84,8 +84,8 @@
 1 Charming Prince
 1 Snow-Covered Plains
 1 Snow-Covered Island
-1 Sea Gate Restoration
 1 Frantic Inventory
+1 Sea Gate Restoration
 2 Frantic Inventory
 3 Frantic Inventory
 4 Frantic Inventory
@@ -139,10 +139,10 @@
 4 Eldrazi Displacer
 4 Adarkar Wastes
 4 Shefet Dunes
-1 Aven Mindcensor
 1 Mirran Crusader
-2 Aven Mindcensor
+1 Aven Mindcensor
 2 Mirran Crusader
+2 Aven Mindcensor
 8 Plains
 9 Plains
 10 Plains
@@ -151,8 +151,8 @@
 1 Search for Azcanta
 3 Mana Leak
 1 Entreat the Angels
-1 Counterbalance
 1 Condemn
+1 Counterbalance
 2 Counterbalance
 2 Condemn
 3 Counterbalance
@@ -164,8 +164,8 @@
 2 Logic Knot
 4 Archmage's Charm
 3 Selfless Savior
-1 Castle Ardenvale
 1 Castle Vantress
+1 Castle Ardenvale
 1 Geier Reach Sanitarium
 1 Emeria's Call
 1 Elspeth Conquers Death
@@ -182,15 +182,15 @@
 6 Snow-Covered Plains
 1 Peek
 2 Peek
-1 Detention Sphere
 1 Dovin's Veto
-2 Dovin's Veto
+1 Detention Sphere
 2 Vendilion Clique
+2 Dovin's Veto
 3 Celestial Colonnade
 3 Supreme Verdict
-1 Fatal Push
-1 Kaya's Guile
 1 Watery Grave
+1 Kaya's Guile
+1 Fatal Push
 1 Drowned Catacomb
 1 Esper Charm
 2 Fatal Push
@@ -200,13 +200,13 @@
 3 Glacial Fortress
 3 Kaya's Guile
 3 Drowned Catacomb
+1 Hieroglyphic Illumination
+3 Teferi, Hero of Dominaria
+4 Misty Rainforest
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
-1 Hieroglyphic Illumination
-3 Teferi, Hero of Dominaria
-4 Misty Rainforest
 1 Elspeth, Sun's Nemesis
 1 Karn, the Great Creator
 2 Karn, the Great Creator
@@ -215,14 +215,14 @@
 4 Narset, Parter of Veils
 7 Island
 1 Raugrin Triome
-1 Lightning Bolt
 1 Steam Vents
 1 Mountain
+1 Lightning Bolt
 1 Lightning Helix
-2 Lightning Bolt
 2 Steam Vents
+2 Lightning Bolt
 2 Lightning Helix
-3 Scalding Tarn
 3 Lightning Bolt
-4 Scalding Tarn
+3 Scalding Tarn
 4 Lightning Bolt
+4 Scalding Tarn
