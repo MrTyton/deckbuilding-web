@@ -1,21 +1,21 @@
+3 Spikefield Hazard
 4 Spikefield Hazard
-15 Mountain
 1 Eidolon of the Great Revel
 2 Eidolon of the Great Revel
 3 Eidolon of the Great Revel
 1 Shock
 2 Shock
 3 Wizard's Lightning
-3 Shock
-4 Eidolon of the Great Revel
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
+3 Shock
+4 Eidolon of the Great Revel
+16 Mountain
 4 Wizard's Lightning
 1 Viashino Pyromancer
 2 Viashino Pyromancer
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
-1 Blast Zone
 1 Cascading Cataracts
 1 Mazemind Tome
 1 Golos, Tireless Pilgrim
@@ -24,15 +24,16 @@
 1 Darksteel Citadel
 1 Cleansing Wildfire
 1 Thought-Knot Seer
-2 Valakut Awakening
+1 Blast Zone
 2 Mazemind Tome
+2 Valakut Awakening
 2 Darksteel Citadel
 2 Cascading Cataracts
 2 Cleansing Wildfire
 2 Thought-Knot Seer
 3 Darksteel Citadel
-3 Valakut Awakening
 3 Mazemind Tome
+3 Valakut Awakening
 3 Cascading Cataracts
 3 Chandra, Torch of Defiance
 3 Cleansing Wildfire
@@ -43,12 +44,12 @@
 4 Cleansing Wildfire
 4 Cascading Cataracts
 4 Chandra, Torch of Defiance
-1 Anger of the Gods
 1 Ugin, the Spirit Dragon
-2 Anger of the Gods
+1 Anger of the Gods
 2 Ugin, the Spirit Dragon
-3 Anger of the Gods
+2 Anger of the Gods
 3 Ugin, the Spirit Dragon
+3 Anger of the Gods
 1 Vessel of Volatility
 1 Irencrag Feat
 2 Vessel of Volatility
@@ -57,7 +58,6 @@
 4 Ugin, the Spirit Dragon
 4 Anger of the Gods
 4 Mazemind Tome
-16 Mountain
 1 Chandra, Awakened Inferno
 3 Viashino Pyromancer
 3 Irencrag Feat
@@ -114,9 +114,9 @@
 2 Kari Zev, Skyship Raider
 4 Goblin Chainwhirler
 1 Reality Smasher
-2 Blast Zone
 2 Reality Smasher
 2 Chandra, Awakened Inferno
+2 Blast Zone
 3 Reality Smasher
 3 Blast Zone
 3 Scavenger Grounds

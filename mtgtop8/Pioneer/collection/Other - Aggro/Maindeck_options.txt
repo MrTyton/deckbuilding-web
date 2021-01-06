@@ -53,7 +53,6 @@
 3 Lovestruck Beast
 3 Elder Gargaroth
 3 Scavenging Ooze
-3 Questing Beast
 3 Llanowar Elves
 3 Elvish Mystic
 3 Cragcrown Pathway
@@ -61,6 +60,7 @@
 3 Vivien, Arkbow Ranger
 3 Spirebluff Canal
 3 Breeding Pool
+3 Questing Beast
 4 Lovestruck Beast
 4 Elder Gargaroth
 4 Questing Beast
@@ -171,7 +171,6 @@
 2 Branchloft Pathway
 2 Temple Garden
 2 Voice of Resurgence
-2 Sunpetal Grove
 2 Legion's Landing
 2 Gideon, Ally of Zendikar
 2 Castle Ardenvale
@@ -183,9 +182,10 @@
 2 Nissa, Voice of Zendikar
 2 Anointed Procession
 2 Saproling Migration
+2 Sunpetal Grove
 3 Omen of the Sun
-3 Branchloft Pathway
 3 Temple Garden
+3 Branchloft Pathway
 3 Voice of Resurgence
 3 Legion's Landing
 3 Anointed Procession
@@ -273,10 +273,10 @@
 1 Samut, Voice of Dissent
 1 Woodland Cemetery
 1 Mountain
-2 Satyr Wayfinder
 2 Grapple with the Past
 2 Grisly Salvage
 2 Magmatic Channeler
+2 Satyr Wayfinder
 2 Claim / Fame
 2 Traverse the Ulvenwald
 2 Nullhide Ferox
@@ -286,8 +286,8 @@
 2 Vampire of the Dire Moon
 2 Soulflayer
 2 Stitcher's Supplier
-3 Satyr Wayfinder
 3 Magmatic Channeler
+3 Satyr Wayfinder
 3 Claim / Fame
 3 Zetalpa, Primal Dawn
 3 Traverse the Ulvenwald

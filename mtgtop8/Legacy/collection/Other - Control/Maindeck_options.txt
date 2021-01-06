@@ -136,16 +136,16 @@
 3 Inquisition of Kozilek
 3 Hymn to Tourach
 1 Feed the Swarm
+1 Soul Shatter
+2 Soul Shatter
+2 Sorcerous Spyglass
+3 Sorcerous Spyglass
 1 Gurmag Angler
 1 Thoughtseize
 3 Ethereal Forager
 1 Surgical Extraction
 2 Snow-Covered Forest
 3 Ice-Fang Coatl
-1 Soul Shatter
-2 Soul Shatter
-2 Sorcerous Spyglass
-3 Sorcerous Spyglass
 1 Stoneforge Mystic
 1 Batterskull
 1 Dead of Winter
@@ -156,8 +156,8 @@
 1 Academy Ruins
 1 Thopter Foundry
 1 Urza, Lord High Artificer
-2 Snow-Covered Plains
 2 Stoneforge Mystic
+2 Snow-Covered Plains
 2 Abrupt Decay
 2 Supreme Verdict
 2 Urza, Lord High Artificer
@@ -204,8 +204,8 @@
 4 Mox Opal
 4 Gilded Goose
 4 Mishra's Bauble
-1 Council's Judgment
 1 Sevinne's Reclamation
+1 Council's Judgment
 1 Keranos, God of Storms
 1 Felidar Retreat
 1 Plateau
@@ -235,9 +235,9 @@
 4 Monastery Mentor
 4 Sea Gate Stormcaller
 4 Cabal Therapy
-1 Grove of the Burnwillows
 1 Chandra, Awakened Inferno
 1 Punishing Fire
+1 Grove of the Burnwillows
 1 Mazemind Tome
 1 Dead / Gone
 1 Reality Smasher
@@ -246,8 +246,8 @@
 1 Bonecrusher Giant
 1 Blood Sun
 1 Eldrazi Temple
-2 Grove of the Burnwillows
 2 Punishing Fire
+2 Grove of the Burnwillows
 2 Chandra, Awakened Inferno
 2 Bonecrusher Giant
 2 Mountain
@@ -257,22 +257,22 @@
 2 Eldrazi Temple
 2 Reality Smasher
 2 Dead / Gone
+3 Blood Sun
 3 Bonecrusher Giant
-3 Grove of the Burnwillows
 3 Punishing Fire
+3 Grove of the Burnwillows
 3 Eldrazi Temple
 3 Reality Smasher
 3 Simian Spirit Guide
 3 Thought-Knot Seer
 3 Mountain
-3 Blood Sun
-4 Punishing Fire
+4 Blood Sun
+4 Grove of the Burnwillows
 4 Thought-Knot Seer
+4 Punishing Fire
 4 Simian Spirit Guide
 4 Eldrazi Temple
-4 Blood Sun
 4 Reality Smasher
-4 Grove of the Burnwillows
 4 Mountain
 5 Mountain
 1 Urborg, Tomb of Yawgmoth

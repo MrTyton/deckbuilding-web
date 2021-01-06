@@ -8,15 +8,18 @@
 2 Brightclimb Pathway
 2 Forest
 2 Swamp
-3 Branchloft Pathway
 3 Indatha Triome
+3 Branchloft Pathway
 3 Brightclimb Pathway
 1 Temple of Malady
 2 Temple of Malady
 4 Branchloft Pathway
 3 Elspeth Conquers Death
+3 Swamp
 4 Brightclimb Pathway
+1 Solemn Simulacrum
 1 Golden Egg
+2 Solemn Simulacrum
 2 Golden Egg
 3 Golden Egg
 4 Golden Egg
@@ -24,6 +27,7 @@
 1 Llanowar Visionary
 1 Treacherous Blessing
 1 Eerie Ultimatum
+1 Yorion, Sky Nomad
 1 Wicked Wolf
 1 Skyclave Apparition
 1 Gilded Goose
@@ -31,60 +35,47 @@
 1 Doom Foretold
 1 Charming Prince
 1 Agadeem's Awakening
-1 Yorion, Sky Nomad
+1 Temple of Silence
+2 Temple of Silence
 2 Llanowar Visionary
+2 Eerie Ultimatum
 2 Gilded Goose
 2 Doom Foretold
 2 Trail of Crumbs
+2 Agadeem's Awakening
 2 Treacherous Blessing
 2 Wicked Wolf
 2 Skyclave Apparition
 2 Yorion, Sky Nomad
 2 Charming Prince
+3 Charming Prince
 3 Llanowar Visionary
+3 Doom Foretold
 3 Wicked Wolf
 3 Skyclave Apparition
 3 Gilded Goose
 3 Trail of Crumbs
-3 Doom Foretold
 3 Forest
 3 Glass Casket
 3 Treacherous Blessing
 4 Trail of Crumbs
+4 Llanowar Visionary
 4 Wicked Wolf
 4 Gilded Goose
 4 Forest
 4 Doom Foretold
-4 Indatha Triome
-1 Shatter the Sky
-2 Shatter the Sky
-1 Extinction Event
-1 Elspeth's Nightmare
-2 Elspeth's Nightmare
-3 Temple of Malady
-3 Swamp
-1 Solemn Simulacrum
-2 Solemn Simulacrum
-1 Temple of Silence
-2 Temple of Silence
-2 Eerie Ultimatum
-2 Agadeem's Awakening
-3 Charming Prince
-4 Llanowar Visionary
-1 Ondu Inversion
-2 Temple of Plenty
-3 Yorion, Sky Nomad
-3 Temple of Plenty
-4 Skyclave Apparition
 1 Garruk, Cursed Huntsman
 1 Mythos of Nethroi
 1 Bala Ged Recovery
 2 Garruk, Cursed Huntsman
 2 Mythos of Nethroi
 3 Mythos of Nethroi
+4 Indatha Triome
+1 Shatter the Sky
 1 Ugin, the Spirit Dragon
 1 Mazemind Tome
 2 Ugin, the Spirit Dragon
+2 Shatter the Sky
 2 Mazemind Tome
 3 Mazemind Tome
 3 Ugin, the Spirit Dragon
@@ -95,10 +86,12 @@
 1 Valakut Awakening
 2 Shatterskull Smashing
 3 Elspeth, Sun's Nemesis
+1 Extinction Event
 2 Extinction Event
 3 Extinction Event
 1 Eliminate
 1 Duress
+1 Elspeth's Nightmare
 1 Elder Gargaroth
 1 Polukranos, Unchained
 1 Heartless Act
@@ -111,6 +104,7 @@
 2 Duress
 2 Thrashing Brontodon
 2 Elder Gargaroth
+2 Elspeth's Nightmare
 2 Heartless Act
 2 Yasharn, Implacable Earth
 2 Polukranos, Unchained
@@ -118,6 +112,7 @@
 3 Duress
 3 Scavenging Ooze
 3 Elder Gargaroth
+3 Temple of Malady
 3 Yasharn, Implacable Earth
 4 Duress
 1 Island
@@ -128,16 +123,16 @@
 1 Fae of Wishes
 1 Thornwood Falls
 1 Thirst for Meaning
-1 Riverglide Pathway
-1 Bloodfell Caves
 1 Dismal Backwater
-1 Cragcrown Pathway
 1 Wind-Scarred Crag
+1 Cragcrown Pathway
 1 Clearwater Pathway
 1 Jungle Hollow
+1 Bloodfell Caves
 1 Sanctum of Shattered Heights
 1 Sanctum of All
 1 Sanctum of Stone Fangs
+1 Riverglide Pathway
 1 Bloodchief's Thirst
 1 Zagoth Triome
 1 Sanctum of Fruitful Harvest
@@ -166,8 +161,8 @@
 3 Sanctum of All
 4 Extinction Event
 4 Sanctum of Shattered Heights
-1 Cultivate
 1 Wolfwillow Haven
+1 Cultivate
 1 Shadows' Verdict
 1 Felidar Retreat
 1 Erebos's Intervention
@@ -223,9 +218,9 @@
 2 Relic Golem
 2 Ruin Crab
 2 Evolving Wilds
-2 Negate
-2 Into the Story
 2 Merfolk Secretkeeper
+2 Into the Story
+2 Negate
 2 Anticognition
 2 Stern Dismissal
 2 Teferi's Tutelage
@@ -259,7 +254,6 @@
 1 Castle Vantress
 1 Shark Typhoon
 1 Neutralize
-2 Essence Scatter
 2 Castle Vantress
 2 Lofty Denial
 2 Gadwick, the Wizened
@@ -267,6 +261,7 @@
 2 Rewind
 2 Brazen Borrower
 2 Shark Typhoon
+2 Essence Scatter
 2 Hypnotic Sprite
 2 Neutralize
 3 Neutralize
@@ -275,8 +270,8 @@
 3 Brazen Borrower
 3 Shark Typhoon
 4 Neutralize
-4 Shark Typhoon
 4 Castle Vantress
+4 Shark Typhoon
 4 Rewind
 4 Brazen Borrower
 1 Unknown Shores
@@ -307,6 +302,6 @@
 4 Crawling Barrens
 4 Forsaken Monument
 4 Unknown Shores
-7 Plains
-8 Plains
 6 Plains
+8 Plains
+7 Plains

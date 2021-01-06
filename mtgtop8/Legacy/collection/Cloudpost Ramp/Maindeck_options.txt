@@ -1,3 +1,8 @@
+1 Ancient Tomb
+1 Blast Zone
+2 Ancient Tomb
+2 Sorcerous Spyglass
+2 Grim Monolith
 3 Ancient Tomb
 3 Grim Monolith
 4 Ancient Tomb
@@ -5,31 +10,26 @@
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
+4 Chalice of the Void
 1 Thought-Knot Seer
 2 Thought-Knot Seer
 3 Thought-Knot Seer
 1 City of Traitors
 1 Urborg, Tomb of Yawgmoth
 1 Cascading Cataracts
+2 Ugin, the Spirit Dragon
 1 Wastes
 1 Eldrazi Temple
-4 Chalice of the Void
 1 Ugin, the Ineffable
 4 Thought-Knot Seer
-1 Dark Depths
-3 Crop Rotation
 1 Manifold Key
-2 Ugin, the Spirit Dragon
 1 Forsaken Monument
-3 Vesuva
-2 Ugin, the Ineffable
-1 Kozilek, Butcher of Truth
-3 Primeval Titan
-4 Crop Rotation
 1 Inventors' Fair
 1 Basalt Monolith
 2 Forsaken Monument
 2 Basalt Monolith
+3 Vesuva
+2 Ugin, the Ineffable
 1 Stonecoil Serpent
 1 Maze of Ith
 1 Forest
@@ -53,19 +53,14 @@
 1 Mystic Forge
 7 Snow-Covered Forest
 1 Trinisphere
-2 Ulamog, the Ceaseless Hunger
-3 Sorcerous Spyglass
 2 Trinisphere
+2 Stonecoil Serpent
 1 Warping Wail
 2 Warping Wail
 1 Thran Dynamo
-1 All Is Dust
-2 Eldrazi Temple
-3 Eldrazi Temple
-4 Grim Monolith
-2 Stonecoil Serpent
+2 Ulamog, the Ceaseless Hunger
 3 Trinisphere
-2 Blast Zone
+3 Sorcerous Spyglass
 2 City of Traitors
 1 Waterlogged Grove
 1 Wooded Foothills
@@ -73,16 +68,19 @@
 2 Ancient Stirrings
 3 Ancient Stirrings
 4 Ancient Stirrings
-2 Manifold Key
 1 Emrakul, the Promised End
 2 Cavern of Souls
-2 All Is Dust
-2 Walking Ballista
+1 All Is Dust
 2 Thran Dynamo
+2 Eldrazi Temple
+3 Eldrazi Temple
+4 Grim Monolith
 2 Wastes
 3 Stonecoil Serpent
+2 Blast Zone
 3 City of Traitors
 1 Candelabra of Tawnos
+2 All Is Dust
 2 Candelabra of Tawnos
 2 Eye of Ugin
 3 Warping Wail
@@ -92,6 +90,7 @@
 3 All Is Dust
 4 Eldrazi Temple
 1 Wurmcoil Engine
+2 Manifold Key
 2 Wurmcoil Engine
 1 Sylvan Library
 1 Dryad Arbor
@@ -110,6 +109,7 @@
 3 Forsaken Monument
 3 Basalt Monolith
 1 Karn, Scion of Urza
+2 Walking Ballista
 2 Karakas
 2 Karn, Scion of Urza
 3 Walking Ballista

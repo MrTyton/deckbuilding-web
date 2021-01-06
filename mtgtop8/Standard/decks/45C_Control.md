@@ -40,8 +40,8 @@
 |                    4|[Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977)         |                     |              |
 |                    4|[Omen of the Forge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476396)    |                     |              |
 |                    4|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)        |                     |              |
-|                    4|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)  |                     |              |
 |                    4|[Clearwater Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491913)   |                     |              |
+|                    4|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)  |                     |              |
 |                    4|[Banishing Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405135)      |                     |              |
 |                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)       |                     |              |
 |                    4|[Raugrin Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479771)       |                     |              |

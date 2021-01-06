@@ -60,10 +60,10 @@
 |                    2|[Temple of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373522)           |                     |              |
 |                    2|[Nullpriest of Oblivion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491755)      |                     |              |
 |                    3|[Malakir Rebirth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491747)             |                     |              |
-|                    3|[Cleric of Life's Bond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491873)       |                     |              |
 |                    3|[Temple of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373522)           |                     |              |
 |                    3|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)         |                     |              |
 |                    3|[Speaker of the Heavens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488246)      |                     |              |
+|                    3|[Cleric of Life's Bond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491873)       |                     |              |
 |                    3|[Village Rites](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485449)               |                     |              |
 |                    3|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)         |                     |              |
 |                    3|[Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)         |                     |              |

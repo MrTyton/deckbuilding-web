@@ -1,62 +1,8 @@
-1 Soaring Thought-Thief
-1 Creeping Tar Pit
-2 Soaring Thought-Thief
-2 Spell Pierce
-3 Soaring Thought-Thief
-4 Watery Grave
-4 Soaring Thought-Thief
-1 Snow-Covered Island
-1 Snow-Covered Swamp
-2 Force of Negation
-1 Disrupting Shoal
-1 Gilded Goose
-1 Brazen Borrower
-1 Assassin's Trophy
-1 Mana Leak
-1 Spellstutter Sprite
-1 Breeding Pool
-1 Ice-Fang Coatl
-1 Snow-Covered Forest
-1 Ninja of the Deep Hours
-1 Overgrown Tomb
-1 Fatal Push
-1 Ingenious Infiltrator
-1 Abrupt Decay
-1 Faerie Seer
-1 Mist-Syndicate Naga
-1 Darkslick Shores
-1 Botanical Sanctum
-1 Misty Rainforest
-2 Disrupting Shoal
-2 Gilded Goose
-2 Brazen Borrower
-2 Mana Leak
-2 Spellstutter Sprite
-2 Assassin's Trophy
-2 Ice-Fang Coatl
-2 Snow-Covered Island
-2 Abrupt Decay
-2 Ingenious Infiltrator
-2 Darkslick Shores
-2 Faerie Seer
-2 Misty Rainforest
-2 Fatal Push
-2 Botanical Sanctum
-3 Gilded Goose
-3 Brazen Borrower
-3 Misty Rainforest
-3 Spellstutter Sprite
-3 Fatal Push
-3 Ice-Fang Coatl
-3 Ingenious Infiltrator
-3 Snow-Covered Island
-3 Faerie Seer
-4 Misty Rainforest
-4 Fatal Push
-4 Ingenious Infiltrator
-4 Ice-Fang Coatl
-4 Faerie Seer
-4 Spellstutter Sprite
+1 Lightning Bolt
+1 Steam Vents
+2 Lightning Bolt
+3 Lightning Bolt
+4 Lightning Bolt
 1 Gut Shot
 1 Soul-Scar Mage
 1 Crash Through
@@ -77,6 +23,7 @@
 2 Gut Shot
 2 Mutagenic Growth
 2 Stormwing Entity
+2 Steam Vents
 2 Lava Dart
 2 Fiery Islet
 2 Kiln Fiend
@@ -111,6 +58,54 @@
 4 Monastery Swiftspear
 4 Manamorphose
 4 Wooded Foothills
+2 Watery Grave
+3 Watery Grave
+1 Inquisition of Kozilek
+1 Spell Pierce
+1 Serum Visions
+1 Blood Crypt
+1 Island
+1 Remand
+1 Thoughtseize
+1 Swamp
+1 Drown in the Loch
+1 Bloodstained Mire
+1 Delver of Secrets
+1 Scalding Tarn
+1 Soaring Thought-Thief
+1 Thought Scour
+1 Kolaghan's Command
+1 Thieves' Guild Enforcer
+1 Creeping Tar Pit
+2 Scalding Tarn
+2 Inquisition of Kozilek
+2 Thieves' Guild Enforcer
+2 Drown in the Loch
+2 Soaring Thought-Thief
+2 Remand
+2 Spell Pierce
+2 Bloodstained Mire
+2 Snapcaster Mage
+2 Delver of Secrets
+2 Thought Scour
+2 Kolaghan's Command
+2 Serum Visions
+3 Snapcaster Mage
+3 Soaring Thought-Thief
+3 Drown in the Loch
+3 Thieves' Guild Enforcer
+3 Thought Scour
+3 Inquisition of Kozilek
+3 Serum Visions
+3 Delver of Secrets
+4 Watery Grave
+4 Thought Scour
+4 Drown in the Loch
+4 Soaring Thought-Thief
+4 Thieves' Guild Enforcer
+4 Serum Visions
+4 Delver of Secrets
+4 Snapcaster Mage
 1 Ephemerate
 1 Glacial Fortress
 1 Wasteland Strangler
@@ -151,12 +146,12 @@
 2 Spell Queller
 3 Aether Vial
 3 Delay
-3 Wasteland Strangler
 3 Teferi, Time Raveler
+3 Wasteland Strangler
 3 Marsh Flats
 3 Ulamog's Nullifier
-3 Tidehollow Sculler
 3 Spell Queller
+3 Tidehollow Sculler
 4 Tidehollow Sculler
 4 Teferi, Time Raveler
 4 Delay
