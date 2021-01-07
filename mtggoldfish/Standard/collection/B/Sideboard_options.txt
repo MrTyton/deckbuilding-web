@@ -1,13 +1,13 @@
 1 Duress
-2 Duress
-3 Duress
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
+2 Duress
+3 Duress
 1 Extinction Event
-1 Village Rites
 1 Eliminate
-1 Grasp of Darkness
 2 Eliminate
+1 Village Rites
+1 Grasp of Darkness
 2 Grasp of Darkness
 3 Eliminate
 3 Grasp of Darkness
@@ -15,51 +15,52 @@
 2 Shadows' Verdict
 4 Duress
 1 Feed the Swarm
+2 Extinction Event
 2 Feed the Swarm
 1 Specter's Shriek
-2 Extinction Event
 2 Specter's Shriek
 3 Specter's Shriek
 4 Specter's Shriek
-1 Lurrus of the Dream-Den
-1 Hagra Mauling
-1 Kaervek, the Spiteful
-1 Witch's Cottage
 1 Witch's Vengeance
+1 Kaervek, the Spiteful
 2 Witch's Vengeance
-1 Shredded Sails
-2 Shredded Sails
-1 Mind Drain
-1 Scorching Dragonfire
-1 Shock
-2 Shock
-2 Scorching Dragonfire
-3 Shock
-1 Suffocating Fumes
-1 Light of Hope
-2 Suffocating Fumes
-2 Light of Hope
-3 Suffocating Fumes
+1 Hagra Mauling
+1 Witch's Cottage
+1 Inscription of Ruin
 1 Massacre Wurm
 1 Bloodchief's Thirst
-2 Bloodchief's Thirst
-3 Bloodchief's Thirst
-1 Heartless Act
-2 Heartless Act
-1 Serrated Scorpion
-1 Sentinel's Eyes
-2 Serrated Scorpion
-2 Village Rites
-3 Village Rites
-1 Inscription of Ruin
 1 Elspeth's Nightmare
 1 Agonizing Remorse
 2 Inscription of Ruin
 2 Agonizing Remorse
+2 Bloodchief's Thirst
+1 Heartless Act
+2 Heartless Act
+1 Skyclave Shade
+3 Bloodchief's Thirst
+1 Lurrus of the Dream-Den
+1 Shredded Sails
+2 Shredded Sails
+1 Disenchant
+1 Idol of Endurance
+1 Mangara, the Diplomat
+1 Containment Priest
+1 Duskfang Mentor
+2 Village Rites
+3 Village Rites
+1 Shock
+1 Scorching Dragonfire
+1 Mind Drain
+2 Scorching Dragonfire
+2 Shock
+3 Shock
 3 Agonizing Remorse
 1 Blood Beckoning
 2 Blood Beckoning
 3 Blood Beckoning
+1 Tymaret, Chosen from Death
+3 Extinction Event
+3 Witch's Vengeance
 1 Claim the Firstborn
 1 Necromentia
 2 Claim the Firstborn
@@ -69,12 +70,16 @@
 3 Shredded Sails
 4 Bloodchief's Thirst
 4 Claim the Firstborn
-1 Karametra's Blessing
-2 Karametra's Blessing
-3 Karametra's Blessing
-3 Light of Hope
-4 Light of Hope
-1 Skyclave Shade
+1 Dead Weight
+1 Suffocating Fumes
+1 Pharika's Libation
+1 Obosh, the Preypiercer
+2 Dead Weight
+2 Suffocating Fumes
+2 Pharika's Libation
+3 Dead Weight
+3 Suffocating Fumes
+4 Suffocating Fumes
 1 Liliana, Waker of the Dead
 1 Hunted Nightmare
 1 Murderous Rider
@@ -85,7 +90,6 @@
 3 Heartless Act
 4 Skyclave Shade
 1 Giant Killer
-1 Disenchant
 1 Swift Response
 1 Glass Casket
 1 Seasoned Hallowblade

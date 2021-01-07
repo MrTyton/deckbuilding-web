@@ -44,8 +44,8 @@
 1 Sinkhole
 1 Cabal Pit
 2 Sinkhole
-3 Mishra's Factory
 3 Sinkhole
+3 Mishra's Factory
 3 Urborg, Tomb of Yawgmoth
 4 Urborg, Tomb of Yawgmoth
 4 Mishra's Factory
@@ -115,12 +115,12 @@
 1 Grim Tutor
 1 Soul Shatter
 2 Soul Shatter
+1 Mastermind's Acquisition
+2 Crucible of Worlds
 1 Field of Ruin
 2 Field of Ruin
 1 Field of the Dead
 2 Field of the Dead
-1 Mastermind's Acquisition
-2 Crucible of Worlds
 3 Ensnaring Bridge
 1 Cavern of Souls
 2 Cavern of Souls
@@ -198,9 +198,6 @@
 3 Mox Diamond
 3 Skyclave Shade
 4 Dead of Winter
-1 Liliana's Triumph
-4 Sinkhole
-11 Swamp
 1 Phyrexian Revoker
 1 Rotting Regisaur
 1 Phyrexian Obliterator
@@ -208,3 +205,6 @@
 2 Phyrexian Revoker
 3 Rotting Regisaur
 4 Rotting Regisaur
+1 Liliana's Triumph
+4 Sinkhole
+11 Swamp

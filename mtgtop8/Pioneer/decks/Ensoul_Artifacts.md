@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    2|[Steel Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222714)    |                    1|[Metallic Rebuke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423706)       |
-|                    2|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)   |                    2|[Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435308)   |
+|                    2|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)   |                    1|[Metallic Rebuke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423706)       |
+|                    2|[Steel Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222714)    |                    2|[Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435308)   |
 |                    2|[All That Glitters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472964) |                    2|[Stern Dismissal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476319)       |
 |                    2|[Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071)  |                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)     |
 |                    3|[All That Glitters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472964) |                    3|[Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663)        |

@@ -1,4 +1,3 @@
-4 Drowned Catacomb
 1 Shark Typhoon
 1 Castle Vantress
 2 Shark Typhoon
@@ -6,13 +5,10 @@
 1 Field of Ruin
 2 Field of Ruin
 3 Dig Through Time
+4 Drowned Catacomb
 4 Narset, Parter of Veils
 3 Shark Typhoon
 4 Shark Typhoon
-1 Sulfur Falls
-1 Steam Vents
-2 Sulfur Falls
-2 Steam Vents
 1 Anger of the Gods
 2 Anger of the Gods
 3 Anger of the Gods
@@ -20,6 +16,7 @@
 1 Riverglide Pathway
 1 Gideon of the Trials
 1 Teferi, Time Raveler
+1 Sulfur Falls
 1 Omen of the Sun
 1 Detention Sphere
 1 Aether Gust
@@ -27,7 +24,9 @@
 1 Transmogrify
 1 Castle Ardenvale
 1 Chained to the Rocks
+1 Steam Vents
 1 Fires of Invention
+1 Glacial Fortress
 1 Agent of Treachery
 1 Ketria Triome
 1 Plains
@@ -36,7 +35,7 @@
 1 Omen of the Sea
 1 Supreme Verdict
 1 Raugrin Triome
-1 Glacial Fortress
+2 Sulfur Falls
 2 Plains
 2 Castle Ardenvale
 2 Gideon of the Trials
@@ -46,20 +45,21 @@
 2 Sacred Foundry
 2 Fires of Invention
 2 Supreme Verdict
+2 Steam Vents
 2 Transmogrify
-2 Chained to the Rocks
 2 Aether Gust
 2 The Birth of Meletis
 2 Hallowed Fountain
 2 Raugrin Triome
 2 Glacial Fortress
-2 Ketria Triome
 2 Agent of Treachery
+2 Chained to the Rocks
+2 Ketria Triome
 3 Sulfur Falls
 3 Castle Ardenvale
 3 Plains
-3 Ketria Triome
 3 Teferi, Time Raveler
+3 Ketria Triome
 3 Steam Vents
 3 The Birth of Meletis
 3 Omen of the Sea
@@ -80,10 +80,8 @@
 4 The Birth of Meletis
 4 Sacred Foundry
 4 Chained to the Rocks
-2 Eliminate
-3 Eliminate
-1 The Scarab God
 1 Hero's Downfall
+1 The Scarab God
 1 Languish
 1 Mystical Dispute
 1 Scarab Feast
@@ -97,11 +95,13 @@
 1 Vraska's Contempt
 1 Censor
 2 Void Shatter
+2 Eliminate
 2 Negate
 2 Censor
 2 Vraska's Contempt
 2 Castle Locthwain
 3 Censor
+3 Eliminate
 3 Fetid Pools
 3 Void Shatter
 3 Vraska's Contempt
@@ -110,33 +110,33 @@
 4 Void Shatter
 4 Vraska's Contempt
 4 Dig Through Time
-1 Mountain
-1 Valakut Awakening
 1 Irencrag Feat
 1 Vessel of Volatility
 1 Ramunap Ruins
 1 Bonecrusher Giant
 1 Cleansing Wildfire
-1 Cascading Cataracts
 1 Mazemind Tome
 1 Chandra, Awakened Inferno
 1 Scavenger Grounds
+1 Valakut Awakening
 1 Chandra, Torch of Defiance
 1 Golos, Tireless Pilgrim
+1 Cascading Cataracts
 1 Thought-Knot Seer
 1 Ugin, the Spirit Dragon
 1 Battlefield Forge
 1 Darksteel Citadel
+1 Mountain
 1 Blast Zone
-2 Valakut Awakening
 2 Irencrag Feat
 2 Vessel of Volatility
-2 Cleansing Wildfire
 2 Ramunap Ruins
 2 Bonecrusher Giant
+2 Cleansing Wildfire
 2 Mazemind Tome
-2 Cascading Cataracts
 2 Darksteel Citadel
+2 Cascading Cataracts
+2 Valakut Awakening
 2 Chandra, Torch of Defiance
 2 Thought-Knot Seer
 2 Ugin, the Spirit Dragon
@@ -146,10 +146,10 @@
 3 Cleansing Wildfire
 3 Cascading Cataracts
 3 Valakut Awakening
-3 Irencrag Feat
-3 Darksteel Citadel
 3 Bonecrusher Giant
+3 Irencrag Feat
 3 Ramunap Ruins
+3 Darksteel Citadel
 3 Mazemind Tome
 3 Chandra, Torch of Defiance
 3 Battlefield Forge
@@ -161,37 +161,9 @@
 4 Cleansing Wildfire
 4 Darksteel Citadel
 4 Valakut Awakening
-4 Bonecrusher Giant
 4 Ramunap Ruins
+4 Bonecrusher Giant
 4 Mazemind Tome
 4 Thought-Knot Seer
 4 Anger of the Gods
 4 Ugin, the Spirit Dragon
-1 Dragonskull Summit
-1 Collective Brutality
-1 Kolaghan's Command
-1 Davriel, Rogue Shadowmage
-1 Blood Crypt
-1 Nicol Bolas, the Ravager
-1 Kroxa, Titan of Death's Hunger
-1 Thought Erasure
-1 Liliana, Waker of the Dead
-2 Collective Brutality
-2 Davriel, Rogue Shadowmage
-2 Liliana, Waker of the Dead
-2 Kolaghan's Command
-2 Blood Crypt
-2 Nicol Bolas, the Ravager
-2 Kroxa, Titan of Death's Hunger
-2 Thought Erasure
-2 Dragonskull Summit
-3 Liliana, Waker of the Dead
-3 Kroxa, Titan of Death's Hunger
-3 Thought Erasure
-3 Davriel, Rogue Shadowmage
-3 Nicol Bolas, the Ravager
-4 Thought Erasure
-4 Kroxa, Titan of Death's Hunger
-4 Liliana, Waker of the Dead
-4 Nicol Bolas, the Ravager
-4 Davriel, Rogue Shadowmage

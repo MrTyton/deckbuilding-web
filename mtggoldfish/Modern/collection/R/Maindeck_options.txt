@@ -1,5 +1,3 @@
-2 Gemstone Caverns
-2 Seasoned Pyromancer
 2 Blood Moon
 2 Chandra, Torch of Defiance
 2 Desperate Ritual
@@ -15,7 +13,6 @@
 4 Simian Spirit Guide
 4 Desperate Ritual
 4 Blood Moon
-4 Chandra, Torch of Defiance
 1 Magus of the Moon
 1 Ramunap Ruins
 2 Magus of the Moon
@@ -24,10 +21,14 @@
 3 Ramunap Ruins
 4 Gemstone Caverns
 3 Seasoned Pyromancer
+12 Mountain
+4 Crash Through
+4 Chandra, Torch of Defiance
 1 Sunbaked Canyon
 1 Bedlam Reveler
 1 Fiery Islet
 2 Bedlam Reveler
+3 Bonecrusher Giant
 13 Mountain
 2 Fiery Islet
 2 Sunbaked Canyon
@@ -35,14 +36,11 @@
 2 Kiln Fiend
 1 Anger of the Gods
 2 Anger of the Gods
-3 Bonecrusher Giant
 3 Bedlam Reveler
 3 Kiln Fiend
 1 Scavenger Grounds
 2 Scavenger Grounds
 3 Anger of the Gods
-3 Fiery Islet
-14 Mountain
 4 Magus of the Moon
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
@@ -55,6 +53,8 @@
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
+3 Fiery Islet
+14 Mountain
 1 Wooded Foothills
 1 Mutagenic Growth
 2 Mutagenic Growth
@@ -89,14 +89,18 @@
 1 Gut Shot
 1 Abrade
 3 Mutagenic Growth
+1 Zhalfirin Void
+2 Zhalfirin Void
+1 Goblin Rabblemaster
+2 Goblin Rabblemaster
+3 Goblin Rabblemaster
+4 Goblin Rabblemaster
 15 Mountain
 2 Gut Shot
 4 Fiery Islet
 4 Kiln Fiend
 1 Blistercoil Weird
 2 Blistercoil Weird
-1 Zhalfirin Void
-2 Zhalfirin Void
 1 Finale of Promise
 1 Kozilek's Return
 1 Wild Slash
@@ -117,12 +121,8 @@
 3 Blood Crypt
 3 Thoughtseize
 4 Bloodstained Mire
-1 Goblin Rabblemaster
-2 Goblin Rabblemaster
-3 Goblin Rabblemaster
-4 Goblin Rabblemaster
-1 Chandra, Heart of Fire
 1 Mazemind Tome
+1 Chandra, Heart of Fire
 1 Grove of the Burnwillows
 2 Grove of the Burnwillows
 2 Mazemind Tome

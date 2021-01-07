@@ -15,15 +15,16 @@
 2 Wilderness Reclamation
 2 Fact or Fiction
 3 Remand
-1 Life from the Loam
 3 Snow-Covered Island
+1 Life from the Loam
 4 Cryptic Command
 3 Fact or Fiction
 4 Remand
 1 Ghost Quarter
-1 Shark Typhoon
 1 Hour of Promise
+1 Shark Typhoon
 2 Shark Typhoon
+1 Narset, Parter of Veils
 2 Scalding Tarn
 1 Cling to Dust
 1 Damnation
@@ -58,7 +59,6 @@
 4 Snow-Covered Island
 5 Snow-Covered Island
 2 Hour of Promise
-1 Narset, Parter of Veils
 1 Sunken Hollow
 1 Assassin's Trophy
 2 Assassin's Trophy
@@ -94,14 +94,41 @@
 4 Archive Trap
 4 Visions of Beyond
 4 Glimpse the Unthinkable
-1 Thopter Foundry
 1 Sword of the Meek
+1 Thopter Foundry
 1 Pithing Needle
 1 Whir of Invention
 2 Thopter Foundry
 2 Whir of Invention
+3 Emry, Lurker of the Loch
 2 Snow-Covered Forest
+1 Creeping Tar Pit
+2 Prismatic Vista
 1 Primeval Titan
+1 Aether Spellbomb
+1 Metallic Rebuke
+1 Venser, Shaper Savant
+1 Sunken Ruins
+2 Spell Snare
+2 Bloodchief's Thirst
+1 Oboro, Palace in the Clouds
+1 Lonely Sandbar
+2 Damnation
+3 Engineered Explosives
+4 Fact or Fiction
+4 Shark Typhoon
+1 Tireless Tracker
+1 Jace, Vryn's Prodigy
+2 Mox Amber
+2 Tireless Tracker
+3 Island
+3 Tireless Tracker
+4 Island
+5 Island
+1 Tamiyo, Collector of Tales
+1 Blast Zone
+3 Breeding Pool
+6 Snow-Covered Island
 1 Explore
 1 Cavern of Souls
 1 Valakut, the Molten Pinnacle
@@ -119,6 +146,7 @@
 1 Primal Command
 1 Vesuva
 1 Tolaria West
+1 Reclamation Sage
 1 Sakura-Tribe Scout
 1 Hanweir Battlements
 2 Valakut, the Molten Pinnacle
@@ -151,35 +179,4 @@
 4 Simic Growth Chamber
 4 Amulet of Vigor
 4 Explore
-3 Emry, Lurker of the Loch
-1 Creeping Tar Pit
-2 Prismatic Vista
-1 Aether Spellbomb
-1 Metallic Rebuke
-1 Venser, Shaper Savant
-1 Sunken Ruins
-2 Spell Snare
-2 Bloodchief's Thirst
-1 Windswept Heath
-1 Azusa, Lost but Seeking
-2 Golgari Rot Farm
-1 Oboro, Palace in the Clouds
-1 Lonely Sandbar
-2 Damnation
-3 Engineered Explosives
-4 Fact or Fiction
-4 Shark Typhoon
-1 Tireless Tracker
-1 Jace, Vryn's Prodigy
-2 Mox Amber
-2 Tireless Tracker
-3 Island
-3 Tireless Tracker
-4 Island
-5 Island
-1 Tamiyo, Collector of Tales
-1 Blast Zone
-3 Breeding Pool
-6 Snow-Covered Island
-1 Reclamation Sage
 4 Gruul Turf

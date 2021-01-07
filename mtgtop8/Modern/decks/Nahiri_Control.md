@@ -31,8 +31,8 @@
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
 |                    1|[Elspeth, Sun's Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476265)|                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)   |
 |                    2|[Elspeth, Sun's Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476265)|                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
-|                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)   |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)   |
-|                    4|[Nahiri, the Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463948) |                    3|[Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)  |
+|                    4|[Nahiri, the Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463948) |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)   |
+|                    4|[Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)   |                    3|[Celestial Purge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=183055)  |
 |                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                |                     |                                                                                            |
 |                    8|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                |                     |                                                                                            |
 

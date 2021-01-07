@@ -1,6 +1,6 @@
 4 Reflector Mage
-4 Island
 4 Thraben Inspector
+4 Island
 5 Plains
 5 Island
 6 Plains
@@ -16,11 +16,46 @@
 4 Skyclave Cleric
 1 Thassa, Deep-Dwelling
 2 Thassa, Deep-Dwelling
-1 Breeding Pool
-1 Botanical Sanctum
-2 Botanical Sanctum
-3 Botanical Sanctum
-4 Botanical Sanctum
+1 Forest
+1 Blooming Marsh
+2 Blooming Marsh
+1 Overgrown Tomb
+1 Blood Crypt
+2 Overgrown Tomb
+2 Blood Crypt
+3 Blooming Marsh
+3 Overgrown Tomb
+4 Blooming Marsh
+1 Swamp
+1 Grapple with the Past
+1 Grisly Salvage
+1 Nullhide Ferox
+1 Soulflayer
+1 Traverse the Ulvenwald
+1 Stitcher's Supplier
+1 Zetalpa, Primal Dawn
+1 Samut, Voice of Dissent
+1 Woodland Cemetery
+1 Mountain
+2 Grapple with the Past
+2 Grisly Salvage
+2 Traverse the Ulvenwald
+2 Nullhide Ferox
+2 Woodland Cemetery
+2 Samut, Voice of Dissent
+2 Zetalpa, Primal Dawn
+2 Stitcher's Supplier
+2 Soulflayer
+3 Zetalpa, Primal Dawn
+3 Traverse the Ulvenwald
+3 Grisly Salvage
+3 Soulflayer
+3 Stitcher's Supplier
+3 Grapple with the Past
+4 Zetalpa, Primal Dawn
+4 Grisly Salvage
+4 Stitcher's Supplier
+4 Soulflayer
 1 Stomping Ground
 2 Stomping Ground
 3 Stomping Ground
@@ -29,6 +64,11 @@
 2 Llanowar Elves
 2 Elvish Mystic
 4 Stomping Ground
+1 Breeding Pool
+1 Botanical Sanctum
+2 Botanical Sanctum
+3 Botanical Sanctum
+4 Botanical Sanctum
 1 Lovestruck Beast
 1 Bonders' Enclave
 1 Scavenging Ooze
@@ -41,17 +81,18 @@
 1 Elder Gargaroth
 2 Lovestruck Beast
 2 Bonders' Enclave
+2 Questing Beast
 2 Rhonas the Indomitable
-2 Scavenging Ooze
 2 Elder Gargaroth
+2 Scavenging Ooze
 2 Bonecrusher Giant
 2 Vivien, Arkbow Ranger
 2 Spirebluff Canal
-2 Questing Beast
 2 Breeding Pool
 2 Cragcrown Pathway
 3 Lovestruck Beast
 3 Elder Gargaroth
+3 Questing Beast
 3 Scavenging Ooze
 3 Llanowar Elves
 3 Elvish Mystic
@@ -60,7 +101,6 @@
 3 Vivien, Arkbow Ranger
 3 Spirebluff Canal
 3 Breeding Pool
-3 Questing Beast
 4 Lovestruck Beast
 4 Elder Gargaroth
 4 Questing Beast
@@ -72,15 +112,25 @@
 4 Cragcrown Pathway
 4 Bonecrusher Giant
 4 Llanowar Elves
+1 Satyr Wayfinder
+1 Claim / Fame
+1 Magmatic Channeler
+2 Magmatic Channeler
+2 Satyr Wayfinder
+2 Claim / Fame
+3 Magmatic Channeler
+3 Satyr Wayfinder
+3 Claim / Fame
+3 Woodland Cemetery
+4 Satyr Wayfinder
+4 Woodland Cemetery
+4 Grapple with the Past
 1 Mystical Dispute
-1 Blooming Marsh
-2 Blooming Marsh
-1 Agadeem's Awakening
 1 Merfolk Windrobber
+1 Agadeem's Awakening
 1 Drown in the Loch
 1 Watery Grave
 1 Into the Story
-1 Fatal Push
 1 Eliminate
 1 Thoughtseize
 1 Urborg, Tomb of Yawgmoth
@@ -90,12 +140,13 @@
 1 Soaring Thought-Thief
 1 Cling to Dust
 1 Clearwater Pathway
+1 Fatal Push
 2 Merfolk Windrobber
-2 Agadeem's Awakening
 2 Watery Grave
 2 Into the Story
 2 Fatal Push
 2 Thoughtseize
+2 Agadeem's Awakening
 2 Mutavault
 2 Soaring Thought-Thief
 2 Drown in the Loch
@@ -118,9 +169,12 @@
 4 Drown in the Loch
 4 Thieves' Guild Enforcer
 4 Watery Grave
+3 Nullhide Ferox
+1 Mana Confluence
+2 Mana Confluence
 1 Omen of the Sea
-1 Solemn Simulacrum
 1 Spell Pierce
+1 Solemn Simulacrum
 2 Solemn Simulacrum
 2 Omen of the Sea
 2 Spell Pierce
@@ -130,11 +184,11 @@
 2 Niambi, Esteemed Speaker
 3 Spell Queller
 4 Spell Queller
-1 Swamp
-1 Mana Confluence
+3 Blood Crypt
+4 Overgrown Tomb
+4 Blood Crypt
 1 Sea Gate Stormcaller
 1 Chart a Course
-2 Mana Confluence
 2 Sea Gate Stormcaller
 2 Chart a Course
 2 Cling to Dust
@@ -147,11 +201,13 @@
 2 Mystical Dispute
 3 Mystical Dispute
 4 Mystical Dispute
-1 Forest
+1 Embodiment of Agonies
+2 Embodiment of Agonies
+4 Magmatic Channeler
+4 Claim / Fame
 1 Omen of the Sun
 1 Branchloft Pathway
 1 Temple Garden
-1 Voice of Resurgence
 1 Sunpetal Grove
 1 Westvale Abbey
 1 Legion's Landing
@@ -161,6 +217,7 @@
 1 Huatli, Radiant Champion
 1 Appeal / Authority
 1 Anointed Procession
+1 Voice of Resurgence
 1 Brimaz, King of Oreskos
 1 Trostani Discordant
 1 Oath of Gideon
@@ -210,98 +267,59 @@
 3 Of One Mind
 3 Agadeem's Awakening
 4 Into the Story
-1 Blood Crypt
-1 Overgrown Tomb
-2 Blood Crypt
-2 Overgrown Tomb
-3 Blooming Marsh
-3 Overgrown Tomb
-4 Blooming Marsh
+1 Zulaport Cutthroat
+1 Priest of Forgotten Gods
 1 Gilded Goose
 1 Llanowar Wastes
-1 Woe Strider
-1 Priest of Forgotten Gods
-1 Zulaport Cutthroat
 1 Bolas's Citadel
 1 Catacomb Sifter
+1 Woe Strider
 1 Collected Company
 1 Blisterpod
 1 Mayhem Devil
+2 Priest of Forgotten Gods
 2 Gilded Goose
 2 Llanowar Wastes
-2 Zulaport Cutthroat
-2 Priest of Forgotten Gods
-2 Woe Strider
 2 Bolas's Citadel
 2 Collected Company
 2 Mayhem Devil
 2 Blisterpod
+2 Woe Strider
+2 Zulaport Cutthroat
 2 Catacomb Sifter
 3 Woe Strider
 3 Gilded Goose
 3 Llanowar Wastes
-3 Zulaport Cutthroat
-3 Priest of Forgotten Gods
 3 Blisterpod
 3 Mayhem Devil
 3 Catacomb Sifter
+3 Zulaport Cutthroat
 3 Bolas's Citadel
-3 Blood Crypt
 3 Collected Company
+3 Priest of Forgotten Gods
 4 Woe Strider
-4 Overgrown Tomb
-4 Zulaport Cutthroat
-4 Priest of Forgotten Gods
 4 Gilded Goose
+4 Priest of Forgotten Gods
 4 Catacomb Sifter
 4 Blisterpod
-4 Blood Crypt
+4 Zulaport Cutthroat
 4 Bolas's Citadel
 4 Mayhem Devil
 4 Collected Company
-1 Satyr Wayfinder
-1 Claim / Fame
-1 Grapple with the Past
-1 Grisly Salvage
-1 Magmatic Channeler
-1 Nullhide Ferox
-1 Soulflayer
+1 Cathartic Reunion
+1 Gather the Pack
+1 Lotleth Troll
+1 Murderous Rider
+2 Cathartic Reunion
+2 Murderous Rider
+2 Gather the Pack
+3 Cathartic Reunion
+3 Gather the Pack
+3 Samut, Voice of Dissent
+3 Murderous Rider
+4 Murderous Rider
+4 Samut, Voice of Dissent
+4 Cathartic Reunion
 1 Vampire of the Dire Moon
-1 Traverse the Ulvenwald
-1 Stitcher's Supplier
-1 Zetalpa, Primal Dawn
-1 Samut, Voice of Dissent
-1 Woodland Cemetery
-1 Mountain
-2 Grapple with the Past
-2 Grisly Salvage
-2 Magmatic Channeler
-2 Satyr Wayfinder
-2 Claim / Fame
-2 Traverse the Ulvenwald
-2 Nullhide Ferox
-2 Woodland Cemetery
-2 Samut, Voice of Dissent
-2 Zetalpa, Primal Dawn
 2 Vampire of the Dire Moon
-2 Soulflayer
-2 Stitcher's Supplier
-3 Magmatic Channeler
-3 Satyr Wayfinder
-3 Claim / Fame
-3 Zetalpa, Primal Dawn
-3 Traverse the Ulvenwald
-3 Grisly Salvage
-3 Stitcher's Supplier
-3 Soulflayer
-3 Grapple with the Past
-3 Nullhide Ferox
-3 Woodland Cemetery
-4 Satyr Wayfinder
-4 Zetalpa, Primal Dawn
-4 Grisly Salvage
-4 Stitcher's Supplier
-4 Woodland Cemetery
-4 Grapple with the Past
 4 Nullhide Ferox
-4 Soulflayer

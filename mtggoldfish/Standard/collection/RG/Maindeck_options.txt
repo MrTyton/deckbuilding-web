@@ -1,26 +1,20 @@
-3 Faerie Guidemother
-7 Plains
-8 Plains
-4 Kazandu Mammoth
-4 Emeria's Call
-1 Fabled Passage
-1 Swamp
-1 Foulmire Knight
-2 Foulmire Knight
-2 Swamp
-3 Swamp
-3 Foulmire Knight
-4 Foulmire Knight
-1 Murderous Rider
-2 Murderous Rider
 2 Fabled Passage
 3 Fabled Passage
 4 Fabled Passage
 1 Temple of Malady
 2 Temple of Malady
+2 Questing Beast
+2 Faerie Guidemother
+2 Branchloft Pathway
+3 Branchloft Pathway
+4 Skyclave Apparition
+4 Branchloft Pathway
+1 Yasharn, Implacable Earth
+2 Yasharn, Implacable Earth
+4 Shepherd of the Flock
+7 Plains
+8 Plains
 4 Swamp
-1 Elder Gargaroth
-2 Elder Gargaroth
 1 Castle Locthwain
 3 Temple of Malady
 4 Temple of Malady
@@ -30,14 +24,16 @@
 1 Crawling Barrens
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
-3 Elspeth Conquers Death
+3 Faerie Guidemother
 6 Swamp
 1 Thrashing Brontodon
-3 Elder Gargaroth
+1 Elder Gargaroth
+2 Elder Gargaroth
 3 Scavenging Ooze
 1 Polukranos, Unchained
 2 Polukranos, Unchained
 1 Agadeem's Awakening
+4 Kazandu Mammoth
 2 Castle Locthwain
 4 Murderous Rider
 1 Chevill, Bane of Monsters
@@ -50,21 +46,21 @@
 4 Questing Beast
 7 Swamp
 8 Swamp
-1 Bala Ged Recovery
 1 Ram Through
-1 Ranger's Guile
+1 Bala Ged Recovery
 1 Pelakka Predation
-1 Jungle Hollow
 1 Kogla, the Titan Ape
+1 Jungle Hollow
 1 Wilt
+1 Ranger's Guile
 1 Skull Prophet
 1 Hooded Blightfang
 2 Ram Through
-2 Ranger's Guile
+2 Bala Ged Recovery
 2 Jungle Hollow
 2 Kogla, the Titan Ape
+2 Ranger's Guile
 2 Skull Prophet
-2 Bala Ged Recovery
 2 Hooded Blightfang
 2 Pelakka Predation
 3 Ram Through
@@ -72,15 +68,18 @@
 3 Skull Prophet
 3 Chevill, Bane of Monsters
 1 Jolrael, Mwonvuli Recluse
-1 Nissa of Shadowed Boughs
 1 Wildborn Preserver
+1 Nissa of Shadowed Boughs
 2 Wildborn Preserver
 2 Nissa of Shadowed Boughs
+3 Elder Gargaroth
 3 Castle Locthwain
 3 Wildborn Preserver
 1 Castle Ardenvale
+3 Elspeth Conquers Death
 3 Temple of Plenty
-4 The Great Henge
+3 Emeria's Call
+4 Emeria's Call
 1 Eliminate
 1 Indatha Triome
 2 Agadeem's Awakening
@@ -89,11 +88,11 @@
 4 Eliminate
 1 Garruk, Cursed Huntsman
 1 Zagoth Triome
-1 Lotus Cobra
 1 Heartless Act
+1 Lotus Cobra
 2 Zagoth Triome
-2 Lotus Cobra
 2 Heartless Act
+2 Lotus Cobra
 2 Garruk, Cursed Huntsman
 3 Heartless Act
 3 Zagoth Triome
@@ -121,13 +120,13 @@
 4 Dead Weight
 4 Mire's Grasp
 4 Hateful Eidolon
-1 Primal Might
 1 Epic Downfall
 1 Stonecoil Serpent
 1 Necromentia
 1 Zof Consumption
 1 Extinction Event
 1 Order of Midnight
+1 Primal Might
 1 Flaxen Intruder
 2 Primal Might
 2 Epic Downfall
@@ -138,5 +137,5 @@
 2 Flaxen Intruder
 3 Flaxen Intruder
 3 Epic Downfall
-9 Swamp
 4 Flaxen Intruder
+9 Swamp

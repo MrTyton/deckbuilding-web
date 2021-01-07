@@ -50,6 +50,6 @@
 |                     |                                                                                              |                    1|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)          |
 |                     |                                                                                              |                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                    |
 |                     |                                                                                              |                    3|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)                      |
-|                     |                                                                                              |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)              |
 |                     |                                                                                              |                    1|[Hour of Revelation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430704)        |
+|                     |                                                                                              |                    1|[Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)              |
 
