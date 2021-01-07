@@ -58,13 +58,13 @@
 3 Sakura-Tribe Elder
 3 Search for Tomorrow
 3 Arboreal Grazer
-3 Felidar Retreat
 3 Explore
 3 Snow-Covered Forest
 3 Primeval Titan
 3 Solemn Simulacrum
 3 Wurmcoil Engine
 3 Forest
+3 Felidar Retreat
 3 Castle Garenbrig
 3 Windswept Heath
 3 Temple Garden
@@ -84,6 +84,7 @@
 1 Snow-Covered Swamp
 1 Lurrus of the Dream-Den
 1 Repeal
+1 Soul-Guide Lantern
 1 Unearth
 1 Spellskite
 1 Erayo, Soratami Ascendant
@@ -95,7 +96,6 @@
 1 Aether Spellbomb
 1 Engineered Explosives
 1 Waterlogged Grove
-1 Soul-Guide Lantern
 1 Monastery Mentor
 1 Silent Clearing
 2 Repeal
@@ -126,8 +126,8 @@
 1 Battlefield Forge
 1 Cascading Cataracts
 1 Suppression Field
-1 Mana Tithe
 1 Oust
+1 Mana Tithe
 1 Molten Rain
 1 Stone Rain
 1 Magus of the Tabernacle
@@ -145,8 +145,8 @@
 2 Battlefield Forge
 2 Stone Rain
 2 Suppression Field
-2 Mana Tithe
 2 Oust
+2 Mana Tithe
 2 Molten Rain
 2 Flagstones of Trokair
 2 Sacred Foundry
@@ -174,8 +174,8 @@
 3 Flagstones of Trokair
 3 Mana Tithe
 4 Inspiring Vantage
-4 Sacred Foundry
 4 Pillage
+4 Sacred Foundry
 4 Molten Rain
 4 Stone Rain
 4 Mana Tithe
