@@ -41,8 +41,8 @@
 |                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)      |                    1|[Tezzeret, Agent of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214065)|
 |                    5|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)             |
 |                    1|[Mox Amber](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443112)          |                    2|[Galvanic Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781)          |
-|                    1|[Galvanic Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781)     |                    2|[Tezzeret, Agent of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214065)|
-|                    2|[Galvanic Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781)     |                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)             |
+|                    1|[Galvanic Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781)     |                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)             |
+|                    2|[Galvanic Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442781)     |                    2|[Tezzeret, Agent of Bolas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=214065)|
 |                    2|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)    |                     |                                                                                                   |
 |                    3|[Witching Well](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473036)      |                     |                                                                                                   |
 

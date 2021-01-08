@@ -56,16 +56,16 @@
 2 Mother of Runes
 2 Birds of Paradise
 2 Fauna Shaman
+3 Tropical Island
 3 Misty Rainforest
 3 Mother of Runes
 3 Savannah
 3 Fauna Shaman
 3 Birds of Paradise
-3 Tropical Island
 3 Brainstorm
 3 Bayou
-4 Misty Rainforest
 4 Tropical Island
+4 Misty Rainforest
 4 Bayou
 4 Savannah
 4 Brainstorm
@@ -78,6 +78,61 @@
 7 Windswept Heath
 8 Windswept Heath
 8 Misty Rainforest
+1 Embercleave
+1 Sunbaked Canyon
+1 Winota, Joiner of Forces
+1 Blood Sun
+1 Trinisphere
+1 Mountain
+1 Goblin Rabblemaster
+1 Legion Warboss
+1 Cavern of Souls
+1 Battlefield Forge
+1 Godo, Bandit Warlord
+1 Simian Spirit Guide
+1 Talisman of Conviction
+1 Magus of the Moon
+1 Chrome Mox
+1 Chalice of the Void
+1 Angrath's Marauders
+1 City of Traitors
+1 Seasoned Pyromancer
+2 Goblin Rabblemaster
+2 Trinisphere
+2 Legion Warboss
+2 Winota, Joiner of Forces
+2 Blood Sun
+2 Plateau
+2 Simian Spirit Guide
+2 Seasoned Pyromancer
+2 City of Traitors
+2 Angrath's Marauders
+2 Chalice of the Void
+2 Chrome Mox
+2 Ancient Tomb
+2 Cavern of Souls
+3 Trinisphere
+3 Goblin Rabblemaster
+3 Legion Warboss
+3 Cavern of Souls
+3 Plateau
+3 City of Traitors
+3 Seasoned Pyromancer
+3 Winota, Joiner of Forces
+3 Angrath's Marauders
+3 Ancient Tomb
+3 Chalice of the Void
+3 Simian Spirit Guide
+3 Chrome Mox
+4 City of Traitors
+4 Goblin Rabblemaster
+4 Legion Warboss
+4 Plateau
+4 Winota, Joiner of Forces
+4 Angrath's Marauders
+4 Chalice of the Void
+4 Simian Spirit Guide
+4 Ancient Tomb
 1 Oko, Thief of Crowns
 1 Questing Beast
 1 Hexdrinker
@@ -92,63 +147,8 @@
 3 Knight of the Reliquary
 3 Noble Hierarch
 4 Wasteland
-4 Noble Hierarch
 4 Knight of the Reliquary
-1 Embercleave
-1 Sunbaked Canyon
-1 Blood Sun
-1 Trinisphere
-1 Mountain
-1 Cavern of Souls
-1 Goblin Rabblemaster
-1 Legion Warboss
-1 Battlefield Forge
-1 Godo, Bandit Warlord
-1 Simian Spirit Guide
-1 Winota, Joiner of Forces
-1 Talisman of Conviction
-1 Magus of the Moon
-1 Chrome Mox
-1 Chalice of the Void
-1 Angrath's Marauders
-1 City of Traitors
-1 Seasoned Pyromancer
-2 Goblin Rabblemaster
-2 Trinisphere
-2 Legion Warboss
-2 Blood Sun
-2 Cavern of Souls
-2 Plateau
-2 Simian Spirit Guide
-2 Winota, Joiner of Forces
-2 Seasoned Pyromancer
-2 City of Traitors
-2 Angrath's Marauders
-2 Chalice of the Void
-2 Chrome Mox
-2 Ancient Tomb
-3 Trinisphere
-3 Goblin Rabblemaster
-3 Legion Warboss
-3 Ancient Tomb
-3 Plateau
-3 City of Traitors
-3 Seasoned Pyromancer
-3 Cavern of Souls
-3 Angrath's Marauders
-3 Chalice of the Void
-3 Winota, Joiner of Forces
-3 Simian Spirit Guide
-3 Chrome Mox
-4 City of Traitors
-4 Goblin Rabblemaster
-4 Legion Warboss
-4 Plateau
-4 Angrath's Marauders
-4 Chalice of the Void
-4 Winota, Joiner of Forces
-4 Simian Spirit Guide
-4 Ancient Tomb
+4 Noble Hierarch
 1 Island
 1 Mausoleum Wanderer
 1 Force of Negation

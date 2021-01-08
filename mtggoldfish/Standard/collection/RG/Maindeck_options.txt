@@ -1,146 +1,63 @@
-3 Emeria's Call
-3 Faerie Guidemother
-7 Plains
-8 Plains
-8 Forest
-3 Scavenging Ooze
-1 Primal Might
-1 Gemrazer
-1 Ram Through
-1 Castle Garenbrig
-2 Gemrazer
-2 Castle Garenbrig
-3 Gemrazer
-9 Forest
-10 Forest
-1 Turntimber Symbiosis
-1 Stonecoil Serpent
-1 Yorvo, Lord of Garenbrig
-1 Inscription of Abundance
-2 Turntimber Symbiosis
-2 Stonecoil Serpent
-3 Stonecoil Serpent
-4 Stonecoil Serpent
-11 Forest
-12 Forest
-13 Forest
-1 Bonders' Enclave
-2 Bonders' Enclave
-2 Ram Through
-3 Ram Through
-4 Ram Through
-3 Questing Beast
-1 Fabled Passage
-2 Fabled Passage
-3 Elspeth Conquers Death
-4 Emeria's Call
-1 Elder Gargaroth
-2 Elder Gargaroth
-1 Swarm Shambler
-2 Swarm Shambler
-3 Swarm Shambler
-14 Forest
-15 Forest
-1 Garruk, Unleashed
-4 Gemrazer
-4 Scavenging Ooze
-1 Tangled Florahedron
-1 Thrashing Brontodon
-3 Fabled Passage
-4 Fabled Passage
-1 Temple of Abandon
-1 Bonecrusher Giant
-1 Needleverge Pathway
-1 Scorching Dragonfire
-1 Cragcrown Pathway
-1 Mountain
-2 Temple of Abandon
-2 Needleverge Pathway
-2 Bonecrusher Giant
-2 Scorching Dragonfire
-2 Cragcrown Pathway
-2 Mountain
-2 Thrashing Brontodon
-3 Bonecrusher Giant
-3 Needleverge Pathway
-3 Vivien, Monsters' Advocate
-3 Cragcrown Pathway
-4 Needleverge Pathway
-4 Bonecrusher Giant
-4 Cragcrown Pathway
-3 Elder Gargaroth
+3 The Great Henge
 2 Yorvo, Lord of Garenbrig
-4 The Great Henge
 2 Tangled Florahedron
 2 Primal Might
 3 Castle Garenbrig
-1 Indatha Triome
+1 Fabled Passage
+2 Fabled Passage
 1 Brazen Borrower
 1 Mazemind Tome
-1 Temple of Mystery
 1 Island
-1 Garruk's Harbinger
+1 Temple of Mystery
 1 Emry, Lurker of the Loch
+1 Garruk's Harbinger
 1 Garruk's Uprising
 1 Vantress Gargoyle
 2 Brazen Borrower
 2 Mazemind Tome
 2 Island
 2 Temple of Mystery
-2 Garruk's Harbinger
 2 Emry, Lurker of the Loch
-2 Vantress Gargoyle
+2 Garruk's Harbinger
 2 Garruk's Uprising
+2 Vantress Gargoyle
 3 Brazen Borrower
 3 Island
 3 Temple of Mystery
+3 Emry, Lurker of the Loch
 3 Tangled Florahedron
 3 Garruk's Harbinger
 3 Garruk's Uprising
 3 Primal Might
 3 Vantress Gargoyle
-3 Emry, Lurker of the Loch
 4 Brazen Borrower
 4 Temple of Mystery
 4 Tangled Florahedron
+4 The Great Henge
 4 Garruk's Harbinger
-4 Questing Beast
 4 Garruk's Uprising
+4 Questing Beast
 4 Vantress Gargoyle
 1 Oakhame Adversary
 2 Oakhame Adversary
-1 Castle Ardenvale
-3 Temple of Plenty
-1 Shredded Sails
-1 Storm's Wrath
-2 Shredded Sails
-2 Storm's Wrath
-3 Scorching Dragonfire
-3 Shredded Sails
-1 Thundering Rebuke
-1 The Akroan War
-2 The Akroan War
-3 The Akroan War
-3 Thrashing Brontodon
 1 Wildborn Preserver
 2 Wildborn Preserver
 4 Swarm Shambler
-1 Legion Angel
-1 Maul of the Skyclaves
-1 Luminarch Aspirant
-2 Maul of the Skyclaves
-2 Luminarch Aspirant
-3 Luminarch Aspirant
-4 Luminarch Aspirant
+1 Edgewall Innkeeper
+2 Edgewall Innkeeper
+3 Edgewall Innkeeper
+4 Edgewall Innkeeper
 1 Agadeem's Awakening
 1 Castle Locthwain
 1 Bloodchief's Thirst
+1 Chevill, Bane of Monsters
+1 Thrashing Brontodon
 1 Eliminate
 1 Temple of Malady
+1 Indatha Triome
 1 Swamp
 1 Polukranos, Unchained
 1 Foulmire Knight
-1 Chevill, Bane of Monsters
 1 Murderous Rider
 2 Agadeem's Awakening
 2 Polukranos, Unchained
@@ -154,16 +71,55 @@
 3 Swamp
 3 Eliminate
 3 Foulmire Knight
+3 Fabled Passage
 3 Temple of Malady
 4 Temple of Malady
 4 Swamp
 4 Eliminate
+4 Fabled Passage
 4 Foulmire Knight
 5 Swamp
+1 Emeria's Call
+1 Shepherd of the Flock
+1 Yasharn, Implacable Earth
+1 Faerie Guidemother
+1 Giant Killer
+1 Elspeth Conquers Death
+1 Skyclave Apparition
+1 Branchloft Pathway
+1 Temple of Plenty
+1 Plains
+2 Emeria's Call
+2 Yasharn, Implacable Earth
+2 Faerie Guidemother
+2 Giant Killer
+2 Plains
+2 Temple of Plenty
+2 Skyclave Apparition
+2 Branchloft Pathway
+2 Shepherd of the Flock
+2 Elspeth Conquers Death
+3 Giant Killer
+3 Branchloft Pathway
+3 Shepherd of the Flock
+3 Skyclave Apparition
+3 Plains
+4 Plains
+4 Giant Killer
+4 Skyclave Apparition
+4 Branchloft Pathway
+4 Shepherd of the Flock
+5 Plains
+6 Plains
+7 Plains
+8 Plains
 1 Bala Ged Recovery
+1 Elder Gargaroth
 1 Khalni Ambush
 1 Vastwood Fortification
 2 Garruk, Unleashed
+2 Elder Gargaroth
+3 Elder Gargaroth
 3 Yorvo, Lord of Garenbrig
 4 Elder Gargaroth
 16 Forest

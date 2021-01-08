@@ -1,24 +1,24 @@
-2 Snow-Covered Swamp
+3 Polluted Delta
 3 Marsh Flats
 4 Marsh Flats
-4 Polluted Delta
-3 Snow-Covered Swamp
 1 Verdant Catacombs
-1 Swamp
+4 Polluted Delta
 2 Verdant Catacombs
+3 Snow-Covered Swamp
+1 Swamp
 3 Verdant Catacombs
 1 Brainstorm
 1 Ponder
 1 Underground Sea
 1 Force of Will
-2 Ponder
 2 Brainstorm
+2 Ponder
 2 Force of Will
-3 Force of Will
 3 Brainstorm
+3 Force of Will
 3 Ponder
-4 Ponder
 4 Brainstorm
+4 Ponder
 4 Force of Will
 2 Underground Sea
 3 Underground Sea
@@ -28,6 +28,7 @@
 2 Daze
 3 Badlands
 4 Verdant Catacombs
+4 Thoughtseize
 1 Iona, Shield of Emeria
 1 Duress
 1 Ashen Rider
@@ -35,7 +36,6 @@
 3 Daze
 1 Collective Brutality
 1 Pathrazer of Ulamog
-4 Thoughtseize
 1 Island
 1 Careful Study
 1 Elesh Norn, Grand Cenobite
@@ -46,6 +46,7 @@
 1 Misty Rainforest
 2 Misty Rainforest
 1 Cabal Therapy
+1 Snow-Covered Island
 1 Ice-Fang Coatl
 1 Uro, Titan of Nature's Wrath
 1 Oko, Thief of Crowns
@@ -53,31 +54,31 @@
 1 Snow-Covered Forest
 1 Arcum's Astrolabe
 1 Abrupt Decay
-1 Snow-Covered Island
 2 Ice-Fang Coatl
+2 Snow-Covered Island
 2 Uro, Titan of Nature's Wrath
 2 Oko, Thief of Crowns
-2 Snow-Covered Island
 2 Arcum's Astrolabe
 2 Abrupt Decay
 3 Ice-Fang Coatl
-3 Misty Rainforest
 3 Snow-Covered Island
+3 Misty Rainforest
 3 Arcum's Astrolabe
 4 Ice-Fang Coatl
 4 Misty Rainforest
 4 Arcum's Astrolabe
-1 Volcanic Island
-1 Preordain
-1 Emrakul, the Aeons Torn
 1 Shallow Grave
+2 Shallow Grave
+3 Shallow Grave
+4 Shallow Grave
+1 Veil of Summer
+1 Preordain
+1 Volcanic Island
+1 Emrakul, the Aeons Torn
 1 Goryo's Vengeance
 2 Preordain
 2 Goryo's Vengeance
-2 Shallow Grave
 3 Preordain
-3 Shallow Grave
-4 Shallow Grave
 1 Vilis, Broker of Blood
 1 Mystic Sanctuary
 1 Fatal Push
@@ -86,34 +87,54 @@
 2 Tropical Island
 2 Mystic Sanctuary
 1 Sylvan Library
-1 Veil of Summer
 1 Ishkanah, Grafwidow
 2 Snow-Covered Forest
 3 Abrupt Decay
 4 Abrupt Decay
-1 Young Pyromancer
-1 Wasteland
-1 Brazen Borrower
-1 Lightning Bolt
-1 Dreadhorde Arcanist
-1 Ox of Agonas
-1 Force of Negation
 1 Scalding Tarn
-2 Young Pyromancer
+1 Wasteland
+1 Lightning Bolt
+1 Brazen Borrower
+1 Force of Negation
+1 Dreadhorde Arcanist
+1 Young Pyromancer
+1 Ox of Agonas
 2 Brazen Borrower
+2 Scalding Tarn
+2 Lightning Bolt
 2 Dreadhorde Arcanist
 2 Wasteland
-2 Lightning Bolt
-2 Scalding Tarn
+2 Young Pyromancer
 2 Volcanic Island
 3 Young Pyromancer
-3 Scalding Tarn
-3 Volcanic Island
 3 Lightning Bolt
+3 Volcanic Island
+3 Scalding Tarn
 3 Dreadhorde Arcanist
+4 Dreadhorde Arcanist
 4 Lightning Bolt
 4 Daze
-4 Dreadhorde Arcanist
+1 Urborg, Tomb of Yawgmoth
+1 Lion's Eye Diamond
+1 Vampire Hexmage
+1 Thespian's Stage
+1 Dark Depths
+1 Living Wish
+2 Urborg, Tomb of Yawgmoth
+2 Living Wish
+2 Vampire Hexmage
+2 Veil of Summer
+2 Thespian's Stage
+2 Dark Depths
+2 Bayou
+2 Lion's Eye Diamond
+3 Living Wish
+3 Thespian's Stage
+3 Vampire Hexmage
+3 Dark Depths
+3 Lion's Eye Diamond
+4 Living Wish
+4 Lion's Eye Diamond
 1 Putrid Imp
 1 Massacre Wurm
 1 Smallpox
