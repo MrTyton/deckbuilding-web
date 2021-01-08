@@ -31,11 +31,11 @@
 |--------------------:|-------------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                |                     |              |
 |                    3|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)         |                     |              |
+|                    4|[Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)   |                     |              |
+|                    4|[Tidehollow Sculler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175054)    |                     |              |
 |                    4|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)           |                     |              |
-|                    4|[Lingering Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368485)       |                     |              |
-|                    4|[Kaya's Guile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464154)          |                     |              |
-|                    4|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)        |                     |              |
 |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)            |                     |              |
+|                    4|[Kaya's Guile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464154)          |                     |              |
 |                    4|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)         |                     |              |
 |                    4|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)   |                     |              |
 |                    4|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)     |                     |              |
@@ -43,10 +43,10 @@
 |                    4|[Liliana of the Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235597)   |                     |              |
 |                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)       |                     |              |
 |                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                |                     |              |
+|                    4|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)        |                     |              |
 |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)         |                     |              |
 |                    4|[Shambling Vent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402031)        |                     |              |
+|                    4|[Lingering Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368485)       |                     |              |
 |                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                 |                     |              |
-|                    4|[Tidehollow Sculler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=175054)    |                     |              |
 |                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)|                     |              |
-|                    4|[Concealed Courtyard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417818)   |                     |              |
 

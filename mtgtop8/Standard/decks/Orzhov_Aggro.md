@@ -30,9 +30,9 @@
 
 |*n*<sup>th</sup> copy|                                             Maindeck Card                                             |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-------------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    1|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)         |                     |              |
-|                    1|[Taborax, Hope's Demise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491767)      |                     |              |
 |                    1|[Cleric of Life's Bond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491873)       |                     |              |
+|                    1|[Taborax, Hope's Demise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491767)      |                     |              |
+|                    1|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)         |                     |              |
 |                    1|[Malakir Rebirth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491747)             |                     |              |
 |                    1|[Speaker of the Heavens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488246)      |                     |              |
 |                    1|[Giant Killer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472976)                |                     |              |
@@ -44,10 +44,10 @@
 |                    1|[Temple of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373522)           |                     |              |
 |                    1|[Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)         |                     |              |
 |                    1|[Nullpriest of Oblivion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491755)      |                     |              |
-|                    2|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)         |                     |              |
-|                    2|[Taborax, Hope's Demise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491767)      |                     |              |
 |                    2|[Cleric of Life's Bond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491873)       |                     |              |
+|                    2|[Taborax, Hope's Demise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491767)      |                     |              |
 |                    2|[Speaker of the Heavens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488246)      |                     |              |
+|                    2|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)         |                     |              |
 |                    2|[Malakir Rebirth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491747)             |                     |              |
 |                    2|[Luminarch Aspirant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491647)          |                     |              |
 |                    2|[Giant Killer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472976)                |                     |              |
@@ -59,24 +59,24 @@
 |                    2|[Archfiend's Vessel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485411)          |                     |              |
 |                    2|[Temple of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373522)           |                     |              |
 |                    2|[Nullpriest of Oblivion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491755)      |                     |              |
-|                    3|[Vito, Thorn of the Dusk Rose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485450)|                     |              |
-|                    3|[Nullpriest of Oblivion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491755)      |                     |              |
+|                    3|[Malakir Rebirth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491747)             |                     |              |
 |                    3|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)         |                     |              |
-|                    3|[Speaker of the Heavens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488246)      |                     |              |
 |                    3|[Cleric of Life's Bond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491873)       |                     |              |
+|                    3|[Speaker of the Heavens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488246)      |                     |              |
 |                    3|[Temple of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373522)           |                     |              |
 |                    3|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)         |                     |              |
 |                    3|[Village Rites](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485449)               |                     |              |
 |                    3|[Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)         |                     |              |
-|                    3|[Malakir Rebirth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491747)             |                     |              |
+|                    3|[Nullpriest of Oblivion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491755)      |                     |              |
+|                    3|[Vito, Thorn of the Dusk Rose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485450)|                     |              |
 |                    3|[Luminarch Aspirant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491647)          |                     |              |
 |                    3|[Archfiend's Vessel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485411)          |                     |              |
-|                    4|[Nullpriest of Oblivion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491755)      |                     |              |
 |                    4|[Cleric of Life's Bond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491873)       |                     |              |
 |                    4|[Temple of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373522)           |                     |              |
+|                    4|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)         |                     |              |
 |                    4|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)         |                     |              |
 |                    4|[Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)         |                     |              |
-|                    4|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)         |                     |              |
 |                    4|[Archfiend's Vessel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485411)          |                     |              |
+|                    4|[Nullpriest of Oblivion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491755)      |                     |              |
 |                    4|[Luminarch Aspirant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491647)          |                     |              |
 

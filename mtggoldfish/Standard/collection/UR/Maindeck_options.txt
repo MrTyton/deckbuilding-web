@@ -1,16 +1,16 @@
 8 Mountain
-1 Riverglide Pathway
+1 Cling to Dust
+1 Memory Leak
 3 Fire Prophecy
 1 Thrill of Possibility
 2 Thrill of Possibility
+1 Riverglide Pathway
 1 Negate
+2 Negate
+1 Teferi, Master of Time
 1 Jwari Disruption
 2 Jwari Disruption
-1 Cling to Dust
-1 Memory Leak
-2 Negate
 2 Riverglide Pathway
-1 Teferi, Master of Time
 3 Riverglide Pathway
 4 Fire Prophecy
 9 Island
@@ -23,24 +23,24 @@
 1 Sanctum of Calm Waters
 1 Silundi Vision
 4 Riverglide Pathway
-3 Jwari Disruption
 1 Thirst for Meaning
 2 Thirst for Meaning
 2 Irencrag Pyromancer
 3 Irencrag Pyromancer
 4 Thrill of Possibility
 9 Mountain
+3 Jwari Disruption
 1 Essence Scatter
-4 Jwari Disruption
 1 Shatterskull Smashing
 1 Valakut Awakening
-1 Thassa's Oracle
 1 Teferi's Ageless Insight
+1 Thassa's Oracle
 2 Valakut Awakening
-2 Silundi Vision
 2 Teferi's Ageless Insight
 2 Teferi, Master of Time
+2 Silundi Vision
 3 Teferi, Master of Time
+4 Jwari Disruption
 1 Storm's Wrath
 1 Spikefield Hazard
 2 Spikefield Hazard
@@ -63,14 +63,14 @@
 2 Essence Scatter
 3 Essence Scatter
 4 Essence Scatter
-1 Temple of Epiphany
 1 Castle Vantress
+1 Temple of Epiphany
 2 Castle Vantress
 2 Shatterskull Smashing
 4 Blitz of the Thunder-Raptor
 1 Infuriate
-1 Stormwing Entity
 1 Umara Mystic
+1 Stormwing Entity
 2 Umara Mystic
 3 Umara Mystic
 1 Brazen Borrower
@@ -78,21 +78,14 @@
 2 Storm's Wrath
 2 Shark Typhoon
 3 Shark Typhoon
-1 Fabled Passage
-2 Fabled Passage
-1 Raugrin Triome
-1 Whirlwind of Thought
-2 Raugrin Triome
-2 Whirlwind of Thought
-3 Raugrin Triome
-3 Whirlwind of Thought
-4 Raugrin Triome
 1 Into the Roil
 1 Kazuul's Fury
 1 Reconnaissance Mission
+1 Fabled Passage
 1 Mazemind Tome
 1 The Magic Mirror
 1 Ketria Triome
+2 Fabled Passage
 2 The Royal Scions
 1 Cancel
 2 Cancel
@@ -100,11 +93,11 @@
 1 Rielle, the Everwise
 1 Volcanic Geyser
 3 Evolving Wilds
-1 Goblin Wizardry
 1 Sea Gate Stormcaller
 1 Rockslide Sorcerer
 1 Chilling Trap
 1 Windrider Wizard
+1 Goblin Wizardry
 2 Infuriate
 2 Chilling Trap
 2 Rockslide Sorcerer
@@ -121,15 +114,22 @@
 3 Experimental Overload
 4 Shock
 1 Soul Sear
-1 Needleverge Pathway
 1 Midnight Clock
 1 Thassa's Intervention
-2 Soul Sear
+1 Needleverge Pathway
+1 Whirlwind of Thought
+1 Raugrin Triome
+2 Raugrin Triome
 2 Midnight Clock
-2 Needleverge Pathway
+2 Soul Sear
 2 Thassa's Intervention
+2 Needleverge Pathway
+2 Whirlwind of Thought
+3 Raugrin Triome
 3 Needleverge Pathway
 3 Storm's Wrath
+3 Whirlwind of Thought
+4 Raugrin Triome
 4 Needleverge Pathway
 4 Whirlwind of Thought
 1 Yidaro, Wandering Monster
@@ -139,58 +139,28 @@
 2 Bonecrusher Giant
 2 Brazen Borrower
 2 Mystical Dispute
-3 Temple of Epiphany
 3 Spikefield Hazard
+3 Temple of Epiphany
 3 Yidaro, Wandering Monster
 3 Brazen Borrower
+3 Mystical Dispute
 3 Bonecrusher Giant
 3 Shatterskull Smashing
-3 Mystical Dispute
 4 Yidaro, Wandering Monster
 4 Shark Typhoon
-1 Plains
-1 Banishing Light
-1 Stern Dismissal
-1 Shatter the Sky
-1 Soul-Guide Lantern
-1 Glass Casket
-1 Glacial Grasp
-1 Teferi's Tutelage
-1 Folio of Fancies
-1 Ruin Crab
-1 Revitalize
-2 Plains
-2 Shatter the Sky
-2 Stern Dismissal
-2 Banishing Light
-2 Folio of Fancies
-2 Ruin Crab
-2 Revitalize
-2 Teferi's Tutelage
-3 Fabled Passage
-3 Plains
-3 Stern Dismissal
-3 Banishing Light
-3 Shatter the Sky
-3 Teferi's Tutelage
-3 Ruin Crab
-4 Fabled Passage
-4 Plains
-4 Teferi's Tutelage
-4 Stern Dismissal
+1 Of One Mind
 1 Heartfire Immolator
-1 Crash Through
 1 Riddleform
 1 Spellgorger Weird
-1 Of One Mind
+1 Crash Through
 2 Heartfire Immolator
+2 Spellgorger Weird
 2 Crash Through
 2 Riddleform
-2 Spellgorger Weird
-3 Heartfire Immolator
-3 Crash Through
-3 Riddleform
 3 Spellgorger Weird
+3 Heartfire Immolator
+3 Riddleform
+3 Crash Through
 4 Crash Through
 4 Umara Mystic
 4 Heartfire Immolator

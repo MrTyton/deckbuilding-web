@@ -1,20 +1,20 @@
-2 Island
-2 Clearwater Pathway
 3 Omen of the Sea
 3 Temple of Enlightenment
 3 Clearwater Pathway
-3 Island
 4 Temple of Enlightenment
 4 Omen of the Sea
 4 Clearwater Pathway
+4 Extinction Event
+1 Negate
+3 Island
 4 Emeria's Call
+1 Eliminate
 2 Temple of Silence
 4 Plains
-1 Eliminate
+3 Golden Egg
 1 Temple of Deceit
 2 Negate
 2 Temple of Deceit
-3 Golden Egg
 2 Eliminate
 4 Island
 1 Raugrin Triome
@@ -40,10 +40,11 @@
 3 Savai Triome
 3 Omen of the Forge
 4 Needleverge Pathway
-4 Treacherous Blessing
 4 Savai Triome
+4 Treacherous Blessing
 4 Omen of the Forge
 3 Glass Casket
+3 Omen of the Sun
 2 Temple of Triumph
 3 Mazemind Tome
 3 Temple of Triumph
@@ -51,7 +52,6 @@
 5 Swamp
 1 Archon of Sun's Grace
 2 Archon of Sun's Grace
-3 Omen of the Sun
 1 The Birth of Meletis
 1 Gilded Goose
 1 Indatha Triome
@@ -64,11 +64,11 @@
 1 Wicked Wolf
 2 Forest
 2 Gilded Goose
-2 Indatha Triome
 2 Temple of Malady
 2 Trail of Crumbs
 2 Temple of Plenty
 2 Wicked Wolf
+2 Indatha Triome
 2 Branchloft Pathway
 3 Forest
 3 Gilded Goose
@@ -95,7 +95,12 @@
 3 Archon of Sun's Grace
 3 Temple of Silence
 2 The Birth of Meletis
+1 Field of Ruin
+2 Field of Ruin
+4 Golden Egg
+3 Eliminate
 4 Yorion, Sky Nomad
+1 Duress
 1 Brazen Borrower
 2 Brazen Borrower
 1 Lithoform Blight
@@ -103,16 +108,11 @@
 2 Mountain
 3 Negate
 3 Temple of Deceit
-1 Field of Ruin
-1 Duress
-2 Field of Ruin
-4 Golden Egg
-4 Temple of Triumph
 1 Shark Typhoon
 1 Shatter the Sky
 2 Shark Typhoon
 2 Shatter the Sky
 4 Temple of Silence
+4 Temple of Triumph
 3 The Birth of Meletis
-3 Eliminate
 5 Plains

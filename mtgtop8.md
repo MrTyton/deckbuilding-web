@@ -18,14 +18,14 @@
 
 # Pioneer
 
-|                                 A                                 |                               B                               |                                C                                |                              D                              |                            E                            |
-|-------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------|
-|[Abzan Aggro](./mtgtop8/Pioneer/decks/Abzan_Aggro.md)              |[Golgari Aggro](./mtgtop8/Pioneer/decks/Golgari_Aggro.md)      |[Mono Blue Aggro](./mtgtop8/Pioneer/decks/Mono_Blue_Aggro.md)    |[Other - Control](./mtgtop8/Pioneer/decks/Other_-_Control.md)|[Temur Control](./mtgtop8/Pioneer/decks/Temur_Control.md)|
-|[Arclight Phoenix](./mtgtop8/Pioneer/decks/Arclight_Phoenix.md)    |[Green Ramp](./mtgtop8/Pioneer/decks/Green_Ramp.md)            |[Mono Green Aggro](./mtgtop8/Pioneer/decks/Mono_Green_Aggro.md)  |[Rakdos Aggro](./mtgtop8/Pioneer/decks/Rakdos_Aggro.md)      |[UW Control](./mtgtop8/Pioneer/decks/UW_Control.md)      |
-|[Boros Aggro](./mtgtop8/Pioneer/decks/Boros_Aggro.md)              |[Gruul Aggro](./mtgtop8/Pioneer/decks/Gruul_Aggro.md)          |[Niv-Mizzet Reborn](./mtgtop8/Pioneer/decks/Niv-Mizzet_Reborn.md)|[Red Deck Wins](./mtgtop8/Pioneer/decks/Red_Deck_Wins.md)    |[Weenie White](./mtgtop8/Pioneer/decks/Weenie_White.md)  |
-|[Ensoul Artifacts](./mtgtop8/Pioneer/decks/Ensoul_Artifacts.md)    |[Landless Spy](./mtgtop8/Pioneer/decks/Landless_Spy.md)        |[Omnath Ramp](./mtgtop8/Pioneer/decks/Omnath_Ramp.md)            |[Spirit Aggro](./mtgtop8/Pioneer/decks/Spirit_Aggro.md)      |[Winota](./mtgtop8/Pioneer/decks/Winota.md)              |
-|[Esper Control](./mtgtop8/Pioneer/decks/Esper_Control.md)          |[Lotus Field](./mtgtop8/Pioneer/decks/Lotus_Field.md)          |[Other - Aggro](./mtgtop8/Pioneer/decks/Other_-_Aggro.md)        |[Sram Aggro](./mtgtop8/Pioneer/decks/Sram_Aggro.md)          |                                                         |
-|[Fires of Invention](./mtgtop8/Pioneer/decks/Fires_of_Invention.md)|[Mono Black Aggro](./mtgtop8/Pioneer/decks/Mono_Black_Aggro.md)|[Other - Combo](./mtgtop8/Pioneer/decks/Other_-_Combo.md)        |[Sultai Control](./mtgtop8/Pioneer/decks/Sultai_Control.md)  |                                                         |
+|                                 A                                 |                               B                               |                                C                                |                             D                             |                           E                           |
+|-------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------|
+|[Arclight Phoenix](./mtgtop8/Pioneer/decks/Arclight_Phoenix.md)    |[Green Ramp](./mtgtop8/Pioneer/decks/Green_Ramp.md)            |[Mono Green Aggro](./mtgtop8/Pioneer/decks/Mono_Green_Aggro.md)  |[Rakdos Aggro](./mtgtop8/Pioneer/decks/Rakdos_Aggro.md)    |[UW Control](./mtgtop8/Pioneer/decks/UW_Control.md)    |
+|[Boros Aggro](./mtgtop8/Pioneer/decks/Boros_Aggro.md)              |[Gruul Aggro](./mtgtop8/Pioneer/decks/Gruul_Aggro.md)          |[Niv-Mizzet Reborn](./mtgtop8/Pioneer/decks/Niv-Mizzet_Reborn.md)|[Red Deck Wins](./mtgtop8/Pioneer/decks/Red_Deck_Wins.md)  |[Weenie White](./mtgtop8/Pioneer/decks/Weenie_White.md)|
+|[Ensoul Artifacts](./mtgtop8/Pioneer/decks/Ensoul_Artifacts.md)    |[Landless Spy](./mtgtop8/Pioneer/decks/Landless_Spy.md)        |[Omnath Ramp](./mtgtop8/Pioneer/decks/Omnath_Ramp.md)            |[Spirit Aggro](./mtgtop8/Pioneer/decks/Spirit_Aggro.md)    |[Winota](./mtgtop8/Pioneer/decks/Winota.md)            |
+|[Esper Control](./mtgtop8/Pioneer/decks/Esper_Control.md)          |[Lotus Field](./mtgtop8/Pioneer/decks/Lotus_Field.md)          |[Other - Aggro](./mtgtop8/Pioneer/decks/Other_-_Aggro.md)        |[Sram Aggro](./mtgtop8/Pioneer/decks/Sram_Aggro.md)        |                                                       |
+|[Fires of Invention](./mtgtop8/Pioneer/decks/Fires_of_Invention.md)|[Mono Black Aggro](./mtgtop8/Pioneer/decks/Mono_Black_Aggro.md)|[Other - Combo](./mtgtop8/Pioneer/decks/Other_-_Combo.md)        |[Sultai Control](./mtgtop8/Pioneer/decks/Sultai_Control.md)|                                                       |
+|[Golgari Aggro](./mtgtop8/Pioneer/decks/Golgari_Aggro.md)          |[Mono Blue Aggro](./mtgtop8/Pioneer/decks/Mono_Blue_Aggro.md)  |[Other - Control](./mtgtop8/Pioneer/decks/Other_-_Control.md)    |[Temur Control](./mtgtop8/Pioneer/decks/Temur_Control.md)  |                                                       |
 
 
 # Modern
@@ -65,4 +65,4 @@
 
 
 
-#### Last Updated at 12:41PM on January 07, 2021
+#### Last Updated at 12:42AM on January 08, 2021
