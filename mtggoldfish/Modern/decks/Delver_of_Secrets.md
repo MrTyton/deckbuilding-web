@@ -285,6 +285,7 @@
 |                    3|[Spellstutter Sprite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=139429)         |                     |                                                                                                  |
 |                    3|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)             |                     |                                                                                                  |
 |                    4|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)             |                     |                                                                                                  |
+|                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |                                                                                                  |
 |                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |                                                                                                  |
 |                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |                                                                                                  |
 |                    9|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |                                                                                                  |
@@ -295,5 +296,4 @@
 |                   14|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |                                                                                                  |
 |                   15|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |                                                                                                  |
 |                   16|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |                                                                                                  |
-|                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |                                                                                                  |
 

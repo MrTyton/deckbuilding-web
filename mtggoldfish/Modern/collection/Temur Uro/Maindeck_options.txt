@@ -108,10 +108,10 @@
 4 Ketria Triome
 4 Steam Vents
 4 Scapeshift
-1 Witching Well
 1 Metallic Rebuke
 1 Urza, Lord High Artificer
 1 Soul-Guide Lantern
+1 Witching Well
 2 Soul-Guide Lantern
 2 Metallic Rebuke
 2 Urza, Lord High Artificer
@@ -130,8 +130,8 @@
 1 Temporal Mastery
 2 Temporal Mastery
 3 Polluted Delta
-4 Opt
 4 Polluted Delta
+4 Opt
 5 Snow-Covered Island
 6 Snow-Covered Island
 1 Arbor Elf
@@ -152,9 +152,6 @@
 2 Witching Well
 3 Engineered Explosives
 3 Metallic Rebuke
-1 Exhaustion
-2 Exhaustion
-4 Mystic Sanctuary
 1 Klothys, God of Destiny
 2 Birds of Paradise
 3 Shark Typhoon
@@ -172,6 +169,7 @@
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
 4 Prismatic Vista
+4 Galvanic Blast
 1 Windswept Heath
 1 Seasoned Pyromancer
 1 Thieving Skydiver
@@ -202,4 +200,6 @@
 4 Bloodbraid Elf
 4 Seasoned Pyromancer
 5 Forest
-4 Galvanic Blast
+1 Exhaustion
+2 Exhaustion
+4 Mystic Sanctuary

@@ -2,27 +2,26 @@
 2 Thoughtseize
 3 Thoughtseize
 1 Mountain
-1 Sweltering Suns
-1 Empty the Warrens
+3 Goblin Charbelcher
+1 Lightning Bolt
 1 Defense Grid
 2 Defense Grid
-1 Boil
-1 Anger of the Gods
-2 Anger of the Gods
-1 Lightning Bolt
 1 Surgical Extraction
 2 Surgical Extraction
-3 Goblin Charbelcher
-2 Boil
+1 Sweltering Suns
+1 Empty the Warrens
 1 Dismember
 3 Natural State
 4 Goblin Charbelcher
+1 Boil
+1 Anger of the Gods
+2 Anger of the Gods
 1 Slaughter Pact
 1 Swamp
 3 Pact of Negation
 1 Memory's Journey
 1 Thassa's Oracle
-1 Mass Hysteria
+2 Boil
 1 Vexing Shusher
 2 Vexing Shusher
 3 Vexing Shusher
@@ -31,6 +30,8 @@
 3 Veil of Summer
 3 Vendetta
 4 Pact of Negation
+1 Pithing Needle
+1 Mass Hysteria
 1 Gaea's Blessing
 1 Grafdigger's Cage
 1 Engineered Explosives
@@ -38,7 +39,6 @@
 1 Tormod's Crypt
 1 Darksteel Citadel
 1 Wurmcoil Engine
-1 Pithing Needle
 1 Walking Ballista
 1 Ensnaring Bridge
 1 Liquimetal Coating
@@ -50,6 +50,11 @@
 2 Wilt
 2 Fatal Push
 4 Natural State
+2 Pithing Needle
+2 Lightning Bolt
+3 Defense Grid
+3 Lightning Bolt
+4 Defense Grid
 1 Manamorphose
 4 Thoughtseize
 4 Nature's Claim

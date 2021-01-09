@@ -69,8 +69,8 @@
 2 Botanical Sanctum
 3 Botanical Sanctum
 4 Botanical Sanctum
-1 Lovestruck Beast
 1 Bonders' Enclave
+1 Lovestruck Beast
 1 Scavenging Ooze
 1 Vivien, Arkbow Ranger
 1 Spirebluff Canal
@@ -79,9 +79,9 @@
 1 Questing Beast
 1 Rhonas the Indomitable
 1 Elder Gargaroth
+2 Bonders' Enclave
 2 Lovestruck Beast
 2 Questing Beast
-2 Bonders' Enclave
 2 Rhonas the Indomitable
 2 Scavenging Ooze
 2 Elder Gargaroth
@@ -103,7 +103,6 @@
 3 Breeding Pool
 4 Lovestruck Beast
 4 Elder Gargaroth
-4 Questing Beast
 4 Scavenging Ooze
 4 Breeding Pool
 4 Elvish Mystic
@@ -111,6 +110,7 @@
 4 Spirebluff Canal
 4 Cragcrown Pathway
 4 Bonecrusher Giant
+4 Questing Beast
 4 Llanowar Elves
 1 Satyr Wayfinder
 1 Claim / Fame
@@ -270,15 +270,16 @@
 1 Zulaport Cutthroat
 1 Priest of Forgotten Gods
 1 Gilded Goose
+1 Llanowar Wastes
 1 Bolas's Citadel
 1 Catacomb Sifter
-1 Llanowar Wastes
 1 Woe Strider
 1 Collected Company
 1 Blisterpod
 1 Mayhem Devil
 2 Priest of Forgotten Gods
 2 Gilded Goose
+2 Llanowar Wastes
 2 Bolas's Citadel
 2 Collected Company
 2 Mayhem Devil
@@ -286,7 +287,6 @@
 2 Woe Strider
 2 Zulaport Cutthroat
 2 Catacomb Sifter
-2 Llanowar Wastes
 3 Gilded Goose
 3 Llanowar Wastes
 3 Blisterpod

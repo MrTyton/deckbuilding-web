@@ -6,10 +6,10 @@
 1 Manamorphose
 1 Valakut Awakening
 1 Desperate Ritual
+1 Recross the Paths
 1 Pyretic Ritual
 1 Irencrag Feat
 1 Reforge the Soul
-1 Recross the Paths
 2 Bala Ged Recovery
 2 Manamorphose
 2 Valakut Awakening
@@ -51,8 +51,9 @@
 4 Hagra Mauling
 3 Pelakka Predation
 4 Pelakka Predation
-3 Thoughtseize
 4 Pact of Negation
+4 Blood Moon
+3 Thoughtseize
 1 Talisman of Curiosity
 4 Leyline of Sanctity
 1 Talisman of Hierarchy
@@ -60,11 +61,11 @@
 1 Memory's Journey
 1 Sphere of the Suns
 2 Talisman of Dominance
-1 Blackbloom Rogue
 1 Glasspool Mimic
 1 Thassa's Oracle
 1 Brazen Borrower
 1 Unburial Rites
+1 Blackbloom Rogue
 2 Glasspool Mimic
 2 Brazen Borrower
 2 Blackbloom Rogue
@@ -74,7 +75,6 @@
 4 Glasspool Mimic
 4 Brazen Borrower
 4 Blackbloom Rogue
-4 Blood Moon
 1 Mass Hysteria
 1 Noxious Revival
 1 Vizier of Remedies
@@ -102,15 +102,15 @@
 1 Skyclave Apparition
 1 Wheel of Sun and Moon
 1 Oust
+1 Temple of Triumph
 1 Form of the Dragon
-1 Phyrexian Unlife
 1 Arid Mesa
 1 Dovescape
 1 Overwhelming Splendor
-1 Temple of Triumph
-1 Lotus Bloom
 1 Silence
+1 Lotus Bloom
 1 Nine Lives
+1 Phyrexian Unlife
 1 Enduring Ideal
 1 Treasure Map
 2 Arid Mesa
@@ -121,7 +121,6 @@
 2 Oust
 2 Sacred Foundry
 2 Skyclave Apparition
-2 Enduring Ideal
 2 Plains
 2 Phyrexian Unlife
 2 Lotus Bloom
@@ -129,9 +128,10 @@
 2 Treasure Map
 2 Solemnity
 2 Form of the Dragon
+2 Enduring Ideal
 2 Nine Lives
-3 Plains
 3 Temple of Triumph
+3 Plains
 3 Marsh Flats
 3 Oust
 3 Sacred Foundry

@@ -6,12 +6,16 @@
 3 Wooded Foothills
 1 Noble Hierarch
 4 Horizon Canopy
+1 Razorverge Thicket
+2 Razorverge Thicket
 2 Prismatic Vista
 1 Snow-Covered Plains
 1 Birds of Paradise
 2 Birds of Paradise
 2 Noble Hierarch
 2 Snow-Covered Plains
+2 Verdant Catacombs
+3 Verdant Catacombs
 1 Stomping Ground
 1 Snow-Covered Forest
 2 Snow-Covered Forest
@@ -21,10 +25,9 @@
 3 Chord of Calling
 3 Birds of Paradise
 4 Chord of Calling
+4 Wooded Foothills
 1 Eldritch Evolution
 2 Eldritch Evolution
-4 Wooded Foothills
-4 Birds of Paradise
 1 Eternal Witness
 1 Seasoned Pyromancer
 1 Sacred Foundry
@@ -38,8 +41,9 @@
 2 Restoration Angel
 2 Misty Rainforest
 2 Eternal Witness
-3 Misty Rainforest
 3 Flooded Strand
+3 Misty Rainforest
+4 Birds of Paradise
 1 Loaming Shaman
 1 Magus of the Moon
 1 Wall of Blossoms
@@ -61,51 +65,18 @@
 3 Seasoned Pyromancer
 4 Restoration Angel
 4 Misty Rainforest
-4 Seasoned Pyromancer
 4 Path to Exile
+4 Seasoned Pyromancer
 4 Stoneforge Mystic
-2 Verdant Catacombs
-3 Verdant Catacombs
 3 Noble Hierarch
 1 Overgrown Tomb
-3 Eldritch Evolution
-1 Strangleroot Geist
-1 Twilight Mire
-1 Swamp
-1 Geralf's Messenger
-1 Blooming Marsh
-1 Wall of Roots
-1 Young Wolf
-1 Yawgmoth, Thran Physician
-1 Khalni Garden
-2 Strangleroot Geist
-2 Overgrown Tomb
-2 Geralf's Messenger
-2 Twilight Mire
-2 Blooming Marsh
-2 Young Wolf
-2 Yawgmoth, Thran Physician
-2 Wall of Roots
-3 Strangleroot Geist
-3 Blooming Marsh
-3 Yawgmoth, Thran Physician
-3 Wall of Roots
-3 Young Wolf
-3 Twilight Mire
-4 Strangleroot Geist
-4 Young Wolf
-4 Wall of Roots
-4 Eldritch Evolution
-4 Twilight Mire
-1 Godless Shrine
-1 Razorverge Thicket
-2 Razorverge Thicket
-1 Gilded Goose
-4 Verdant Catacombs
 4 Noble Hierarch
+3 Eldritch Evolution
 1 Snow-Covered Island
 1 Ketria Triome
 1 Spellskite
+1 Godless Shrine
+4 Verdant Catacombs
 1 Marsh Flats
 1 Devoted Druid
 1 Vizier of Remedies
@@ -124,13 +95,35 @@
 3 Vizier of Remedies
 4 Devoted Druid
 4 Auriok Champion
-1 Zulaport Cutthroat
-1 Hapatra, Vizier of Poisons
-1 Urborg, Tomb of Yawgmoth
-1 Dryad Arbor
-2 Gilded Goose
-3 Geralf's Messenger
-4 Yawgmoth, Thran Physician
+1 Strangleroot Geist
+1 Blooming Marsh
+1 Swamp
+1 Geralf's Messenger
+1 Twilight Mire
+1 Wall of Roots
+1 Young Wolf
+1 Yawgmoth, Thran Physician
+1 Khalni Garden
+2 Strangleroot Geist
+2 Blooming Marsh
+2 Overgrown Tomb
+2 Geralf's Messenger
+2 Twilight Mire
+2 Yawgmoth, Thran Physician
+2 Young Wolf
+2 Wall of Roots
+3 Strangleroot Geist
+3 Blooming Marsh
+3 Yawgmoth, Thran Physician
+3 Wall of Roots
+3 Young Wolf
+3 Twilight Mire
+4 Strangleroot Geist
+4 Young Wolf
+4 Wall of Roots
+4 Eldritch Evolution
+4 Twilight Mire
+1 Gilded Goose
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
@@ -173,21 +166,24 @@
 4 Ice-Fang Coatl
 4 Ephemerate
 4 Flooded Strand
-1 Blood Artist
-1 Nurturing Peatland
-1 Cavalier of Night
-1 Phyrexian Revoker
+1 Zulaport Cutthroat
+1 Hapatra, Vizier of Poisons
 1 Anafenza, Kin-Tree Spirit
 1 Hardened Scales
 2 Anafenza, Kin-Tree Spirit
 2 Hardened Scales
 3 Walking Ballista
+3 Razorverge Thicket
 3 Eladamri's Call
 4 Snow-Covered Forest
 5 Snow-Covered Forest
 6 Forest
-1 Elves of Deep Shadow
-1 Woodland Cemetery
-2 Khalni Garden
-4 Blooming Marsh
-4 Geralf's Messenger
+1 Blood Artist
+1 Nurturing Peatland
+1 Cavalier of Night
+1 Urborg, Tomb of Yawgmoth
+1 Phyrexian Revoker
+1 Dryad Arbor
+2 Gilded Goose
+3 Geralf's Messenger
+4 Yawgmoth, Thran Physician

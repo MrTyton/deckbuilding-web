@@ -1,21 +1,31 @@
 2 Shatterskull Smashing
-3 Riverglide Pathway
-4 Riverglide Pathway
-1 Clearwater Pathway
-4 Memory Leak
 4 Boon of the Wish-Giver
+3 Mountain
+4 Mountain
+1 Clearwater Pathway
 1 Ominous Seas
 2 Ominous Seas
-5 Plains
-6 Plains
-3 Brightclimb Pathway
+4 Memory Leak
+3 Raugrin Triome
+1 Emeria's Call
+4 Raugrin Triome
+1 Reptilian Reflection
+1 Splendor Mare
+2 Splendor Mare
+2 Emeria's Call
+1 Yidaro, Wandering Monster
+2 Yidaro, Wandering Monster
+3 Yidaro, Wandering Monster
+4 Yidaro, Wandering Monster
 1 Shredded Sails
 2 Shredded Sails
 3 Shredded Sails
+3 Brightclimb Pathway
+5 Plains
+6 Plains
 5 Mountain
 6 Mountain
 7 Plains
-7 Mountain
 1 Robber of the Rich
 1 Selfless Savior
 1 Bonecrusher Giant
@@ -35,6 +45,7 @@
 4 Robber of the Rich
 4 Selfless Savior
 4 Seasoned Hallowblade
+7 Mountain
 1 Archpriest of Iona
 1 Relic Robber
 1 Skyclave Apparition
@@ -50,39 +61,27 @@
 4 Skyclave Apparition
 4 Relic Robber
 4 Luminarch Aspirant
-3 Raugrin Triome
 3 Bonecrusher Giant
 1 Temple of Triumph
 2 Temple of Triumph
-1 Emeria's Call
 4 Archpriest of Iona
 1 Fireblade Charger
 2 Fireblade Charger
-1 Reptilian Reflection
-1 Splendor Mare
-2 Splendor Mare
-2 Emeria's Call
-4 Raugrin Triome
-1 Yidaro, Wandering Monster
-2 Yidaro, Wandering Monster
-3 Yidaro, Wandering Monster
-4 Yidaro, Wandering Monster
-8 Mountain
 4 Bonecrusher Giant
-8 Plains
 4 Frostveil Ambush
 3 Shatterskull Smashing
 4 Brightclimb Pathway
-9 Plains
+8 Mountain
 3 Fireblade Charger
 1 Maul of the Skyclaves
+8 Plains
 3 Temple of Triumph
 4 Temple of Triumph
 2 Reptilian Reflection
 1 Savai Triome
-1 Temple of Epiphany
-1 Temple of Enlightenment
 1 Teferi's Ageless Insight
+1 Temple of Enlightenment
+1 Temple of Epiphany
 2 Teferi's Ageless Insight
 1 Improbable Alliance
 1 Island
@@ -96,11 +95,6 @@
 3 Rielle, the Everwise
 3 Clearwater Pathway
 4 Clearwater Pathway
-2 Castle Embereth
-4 Fireblade Charger
-1 Raking Claws
-2 Raking Claws
-9 Mountain
 1 Faerie Guidemother
 1 Castle Ardenvale
 1 Fabled Passage
@@ -118,3 +112,6 @@
 3 Giant Killer
 4 Giant Killer
 4 Elspeth, Sun's Nemesis
+9 Plains
+2 Castle Embereth
+4 Fireblade Charger
