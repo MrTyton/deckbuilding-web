@@ -1,114 +1,80 @@
-3 The Great Henge
 2 Yorvo, Lord of Garenbrig
-2 Tangled Florahedron
-2 Primal Might
-3 Castle Garenbrig
-1 Fabled Passage
-2 Fabled Passage
-1 Brazen Borrower
-1 Mazemind Tome
-1 Island
-1 Temple of Mystery
-1 Emry, Lurker of the Loch
-1 Garruk's Harbinger
-1 Garruk's Uprising
-1 Vantress Gargoyle
-2 Brazen Borrower
-2 Mazemind Tome
-2 Island
-2 Temple of Mystery
-2 Emry, Lurker of the Loch
-2 Garruk's Harbinger
-2 Garruk's Uprising
-2 Vantress Gargoyle
-3 Brazen Borrower
-3 Island
-3 Temple of Mystery
-3 Emry, Lurker of the Loch
-3 Tangled Florahedron
-3 Garruk's Harbinger
-3 Garruk's Uprising
-3 Primal Might
-3 Vantress Gargoyle
-4 Brazen Borrower
-4 Temple of Mystery
-4 Tangled Florahedron
-4 The Great Henge
-4 Garruk's Harbinger
-4 Garruk's Uprising
-4 Questing Beast
-4 Vantress Gargoyle
+3 The Great Henge
 1 Oakhame Adversary
 2 Oakhame Adversary
 1 Wildborn Preserver
+2 Tangled Florahedron
+2 Primal Might
 2 Wildborn Preserver
 4 Swarm Shambler
 1 Edgewall Innkeeper
 2 Edgewall Innkeeper
 3 Edgewall Innkeeper
 4 Edgewall Innkeeper
+1 Indatha Triome
 1 Agadeem's Awakening
-1 Castle Locthwain
+1 Swamp
 1 Bloodchief's Thirst
-1 Chevill, Bane of Monsters
 1 Thrashing Brontodon
 1 Eliminate
+1 Fabled Passage
 1 Temple of Malady
-1 Indatha Triome
-1 Swamp
 1 Polukranos, Unchained
 1 Foulmire Knight
+1 Chevill, Bane of Monsters
+1 Castle Locthwain
 1 Murderous Rider
-2 Agadeem's Awakening
-2 Polukranos, Unchained
+2 Swamp
 2 Bloodchief's Thirst
+2 Eliminate
 2 Murderous Rider
 2 Foulmire Knight
-2 Eliminate
+2 Polukranos, Unchained
+2 Agadeem's Awakening
 2 Chevill, Bane of Monsters
-2 Swamp
+2 Fabled Passage
 2 Temple of Malady
-3 Swamp
-3 Eliminate
-3 Foulmire Knight
 3 Fabled Passage
+3 Foulmire Knight
 3 Temple of Malady
-4 Temple of Malady
-4 Swamp
-4 Eliminate
+3 Eliminate
+3 Swamp
 4 Fabled Passage
+4 Eliminate
+4 Swamp
 4 Foulmire Knight
+4 Temple of Malady
 5 Swamp
-1 Emeria's Call
 1 Shepherd of the Flock
-1 Yasharn, Implacable Earth
-1 Faerie Guidemother
+1 Emeria's Call
+1 Temple of Plenty
 1 Giant Killer
+1 Branchloft Pathway
+1 Faerie Guidemother
 1 Elspeth Conquers Death
 1 Skyclave Apparition
-1 Branchloft Pathway
-1 Temple of Plenty
+1 Yasharn, Implacable Earth
 1 Plains
-2 Emeria's Call
-2 Yasharn, Implacable Earth
+2 Branchloft Pathway
 2 Faerie Guidemother
 2 Giant Killer
+2 Yasharn, Implacable Earth
 2 Plains
+2 Emeria's Call
 2 Temple of Plenty
 2 Skyclave Apparition
-2 Branchloft Pathway
 2 Shepherd of the Flock
 2 Elspeth Conquers Death
-3 Giant Killer
+3 Plains
 3 Branchloft Pathway
 3 Shepherd of the Flock
 3 Skyclave Apparition
-3 Plains
+3 Giant Killer
 4 Plains
+4 Shepherd of the Flock
 4 Giant Killer
 4 Skyclave Apparition
 4 Branchloft Pathway
-4 Shepherd of the Flock
 5 Plains
 6 Plains
 7 Plains
@@ -120,6 +86,7 @@
 2 Garruk, Unleashed
 2 Elder Gargaroth
 3 Elder Gargaroth
+3 Castle Garenbrig
 3 Yorvo, Lord of Garenbrig
 4 Elder Gargaroth
 16 Forest

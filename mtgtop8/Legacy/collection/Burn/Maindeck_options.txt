@@ -8,12 +8,12 @@
 2 Roiling Vortex
 3 Exquisite Firecraft
 3 Sulfuric Vortex
-3 Bloodstained Mire
-1 Plateau
 1 Arid Mesa
 2 Arid Mesa
-2 Plateau
 3 Arid Mesa
+3 Bloodstained Mire
+1 Plateau
+2 Plateau
 3 Skewer the Critics
 4 Skewer the Critics
 4 Exquisite Firecraft
@@ -22,16 +22,20 @@
 3 Roiling Vortex
 20 Mountain
 4 Wooded Foothills
-3 Light Up the Stage
+1 Grim Lavamancer
 1 Sunbaked Canyon
 2 Sunbaked Canyon
+3 Light Up the Stage
 1 Ball Lightning
-1 Grim Lavamancer
 2 Grim Lavamancer
 1 Wheel of Misfortune
 2 Wheel of Misfortune
 3 Wheel of Misfortune
 4 Bloodstained Mire
+1 Searing Blaze
+1 Skullcrack
+2 Searing Blaze
+4 Arid Mesa
 3 Plateau
 4 Plateau
 1 Soul-Scar Mage
@@ -43,20 +47,21 @@
 2 Fiery Islet
 2 Barbarian Ring
 4 Light Up the Stage
-1 Legion Warboss
 1 Anax, Hardened in the Forge
+1 Legion Warboss
 1 Goblin Rabblemaster
-1 Robber of the Rich
 1 Bonecrusher Giant
 1 Chandra, Torch of Defiance
 1 Porcelain Legionnaire
 1 Forked Bolt
 1 Icehide Golem
+1 Figure of Destiny
 1 Stromkirk Noble
 1 Hellrider
 1 Zurgo Bellstriker
 1 Firedrinker Satyr
 1 Burst Lightning
+1 Robber of the Rich
 1 Rakdos Cackler
 1 Jackal Pup
 1 Stormblood Berserker
@@ -65,7 +70,6 @@
 1 Incinerate
 1 Wild Slash
 1 Seal of Fire
-1 Figure of Destiny
 1 Village Messenger
 1 Bomat Courier
 1 Hazoret the Fervent

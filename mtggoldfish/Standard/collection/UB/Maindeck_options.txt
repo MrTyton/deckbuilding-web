@@ -1,6 +1,15 @@
+11 Island
+12 Island
+13 Island
+14 Island
+1 Lochmere Serpent
+4 Grasp of Darkness
+1 Cling to Dust
+1 Pestilent Haze
+2 Pestilent Haze
 3 Anticognition
-1 Omen of the Sea
-2 Omen of the Sea
+1 Essence Scatter
+2 Essence Scatter
 1 Negate
 1 Fabled Passage
 2 Fabled Passage
@@ -9,60 +18,52 @@
 1 Merfolk Secretkeeper
 2 Merfolk Secretkeeper
 3 Merfolk Secretkeeper
-11 Island
-12 Island
-13 Island
-14 Island
 15 Island
-1 Essence Scatter
-2 Essence Scatter
-2 Negate
-3 Evolving Wilds
-4 Evolving Wilds
 1 Bloodchief's Thirst
 1 Final Death
 1 Finishing Blow
 2 Bloodchief's Thirst
 2 Cling to Dust
-4 Grasp of Darkness
-4 Into the Story
+2 Negate
+8 Swamp
+1 Mystic Sanctuary
+1 Sublime Epiphany
+1 Witching Well
+3 Omen of the Sea
+4 Omen of the Sea
 1 Jwari Disruption
+4 Into the Story
 1 Stern Dismissal
 2 Stern Dismissal
 3 Stern Dismissal
-1 Jungle Hollow
-1 Garruk, Cursed Huntsman
-1 Thornwood Falls
-2 Thornwood Falls
-2 Jungle Hollow
-3 Thornwood Falls
-3 Jungle Hollow
-4 Jungle Hollow
-4 Thornwood Falls
 1 Opt
 2 Opt
 3 Opt
 1 Field of Ruin
-1 Sublime Epiphany
 1 Zulaport Duelist
 1 Overwhelmed Apprentice
 1 Anticipate
 1 Maddening Cacophony
 1 Merfolk Windrobber
-1 Witching Well
 2 Field of Ruin
 2 Maddening Cacophony
 2 Overwhelmed Apprentice
 2 Merfolk Windrobber
 3 Maddening Cacophony
-3 Omen of the Sea
 3 Overwhelmed Apprentice
 3 Merfolk Windrobber
 4 Opt
-4 Omen of the Sea
+1 Garruk, Cursed Huntsman
+1 Thornwood Falls
+1 Jungle Hollow
+2 Jungle Hollow
+2 Thornwood Falls
+3 Jungle Hollow
+3 Thornwood Falls
+4 Thornwood Falls
+4 Jungle Hollow
 1 Into the Roil
 1 Relic Golem
-1 Mystic Sanctuary
 2 Into the Roil
 2 Relic Golem
 3 Relic Golem
@@ -71,7 +72,9 @@
 16 Island
 17 Island
 18 Island
-8 Swamp
+9 Swamp
+10 Swamp
+4 Feed the Swarm
 1 Banishing Light
 1 Shatter the Sky
 1 Plains
@@ -81,10 +84,27 @@
 3 Plains
 4 Plains
 1 Shark Typhoon
-1 Mountain
+1 Lullmage's Domination
+1 Thirst for Meaning
+1 Elspeth's Nightmare
+2 Thirst for Meaning
+2 Lullmage's Domination
+2 Elspeth's Nightmare
+2 Mystic Sanctuary
+2 Witching Well
+3 Lullmage's Domination
+3 Elspeth's Nightmare
+3 Thirst for Meaning
+3 Witching Well
+3 Mystic Sanctuary
+4 Elspeth's Nightmare
+4 Thirst for Meaning
+4 Witching Well
+4 Mystic Sanctuary
 1 Riverglide Pathway
-2 Jwari Disruption
+1 Mountain
 2 Riverglide Pathway
+2 Jwari Disruption
 3 Jwari Disruption
 4 Jwari Disruption
 1 Jace, Mirror Mage
@@ -103,8 +123,6 @@
 4 Nimana Skitter-Sneak
 4 Nimana Skydancer
 4 Soaring Thought-Thief
-9 Swamp
-10 Swamp
 1 Shadows' Verdict
 1 Radiant Fountain
 2 Radiant Fountain
@@ -115,49 +133,48 @@
 2 Scoured Barrens
 3 Tranquil Cove
 4 Banishing Light
-4 Feed the Swarm
-1 Spikefield Hazard
-1 Bonecrusher Giant
-1 Rewind
-1 Cragcrown Pathway
-1 Klothys, God of Destiny
-1 Ketria Triome
-1 Shredded Sails
-1 Scorching Dragonfire
-1 Castle Vantress
-1 Forest
-2 Castle Vantress
-2 Bonecrusher Giant
-2 Rewind
-2 Spikefield Hazard
-2 Cragcrown Pathway
-2 Klothys, God of Destiny
-2 Ketria Triome
-2 Shark Typhoon
-2 Shredded Sails
-2 Scorching Dragonfire
-3 Riverglide Pathway
-3 Ketria Triome
-3 Cragcrown Pathway
-3 Shark Typhoon
-4 Cragcrown Pathway
-4 Ketria Triome
-4 Riverglide Pathway
-4 Shark Typhoon
 1 Raugrin Triome
 1 Soul-Guide Lantern
-1 Whirlwind of Thought
 1 Glass Casket
-1 Folio of Fancies
 1 Glacial Grasp
+1 Folio of Fancies
+1 Whirlwind of Thought
 1 Revitalize
-2 Whirlwind of Thought
+2 Raugrin Triome
 2 Shatter the Sky
 2 Folio of Fancies
 2 Revitalize
-2 Raugrin Triome
-3 Whirlwind of Thought
+2 Whirlwind of Thought
 3 Shatter the Sky
+3 Raugrin Triome
+3 Whirlwind of Thought
 4 Raugrin Triome
 4 Stern Dismissal
-3 Raugrin Triome
+1 Rewind
+1 Castle Vantress
+1 Shredded Sails
+1 Scorching Dragonfire
+1 Cragcrown Pathway
+1 Bonecrusher Giant
+1 Forest
+1 Klothys, God of Destiny
+1 Ketria Triome
+1 Spikefield Hazard
+2 Rewind
+2 Klothys, God of Destiny
+2 Scorching Dragonfire
+2 Castle Vantress
+2 Shredded Sails
+2 Shark Typhoon
+2 Spikefield Hazard
+2 Bonecrusher Giant
+2 Cragcrown Pathway
+2 Ketria Triome
+3 Riverglide Pathway
+3 Shark Typhoon
+3 Ketria Triome
+3 Cragcrown Pathway
+4 Riverglide Pathway
+4 Shark Typhoon
+4 Ketria Triome
+4 Cragcrown Pathway

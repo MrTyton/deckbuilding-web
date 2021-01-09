@@ -1,8 +1,8 @@
+1 Indatha Triome
 1 Branchloft Pathway
 1 Brightclimb Pathway
 1 Swamp
 1 Forest
-1 Indatha Triome
 2 Branchloft Pathway
 2 Indatha Triome
 2 Brightclimb Pathway
@@ -109,20 +109,19 @@
 2 Duress
 2 Polukranos, Unchained
 2 Scavenging Ooze
-3 Yasharn, Implacable Earth
 3 Scavenging Ooze
 3 Elder Gargaroth
 3 Temple of Malady
 3 Duress
+3 Yasharn, Implacable Earth
 4 Duress
 1 Island
 1 Savai Triome
-1 Bloodfell Caves
 1 Tranquil Cove
-1 Sanctum of Calm Waters
 1 Ketria Triome
 1 Fae of Wishes
 1 Thirst for Meaning
+1 Bloodfell Caves
 1 Dismal Backwater
 1 Wind-Scarred Crag
 1 Cragcrown Pathway
@@ -131,6 +130,7 @@
 1 Thornwood Falls
 1 Sanctum of Shattered Heights
 1 Sanctum of All
+1 Sanctum of Calm Waters
 1 Sanctum of Stone Fangs
 1 Riverglide Pathway
 1 Bloodchief's Thirst
@@ -162,8 +162,8 @@
 4 Extinction Event
 4 Sanctum of Shattered Heights
 1 Wolfwillow Haven
-1 Shadows' Verdict
 1 Felidar Retreat
+1 Shadows' Verdict
 1 Erebos's Intervention
 1 Cultivate
 2 Wolfwillow Haven
@@ -207,8 +207,8 @@
 1 Relic Golem
 1 Ruin Crab
 1 Stern Dismissal
-1 Evolving Wilds
 1 Into the Story
+1 Evolving Wilds
 1 Anticognition
 1 Merfolk Secretkeeper
 1 Negate
@@ -219,8 +219,8 @@
 2 Ruin Crab
 2 Evolving Wilds
 2 Stern Dismissal
-2 Merfolk Secretkeeper
 2 Into the Story
+2 Merfolk Secretkeeper
 2 Anticognition
 2 Negate
 2 Teferi's Tutelage
@@ -274,18 +274,18 @@
 4 Shark Typhoon
 4 Rewind
 4 Brazen Borrower
+1 Unknown Shores
 1 Dance of the Manse
 1 Sleeper Dart
 1 Radiant Fountain
 1 Forsaken Monument
-1 Unknown Shores
 1 Labyrinth of Skophos
 1 Swift Response
 1 Crawling Barrens
+2 Unknown Shores
 2 Dance of the Manse
 2 Sleeper Dart
 2 Radiant Fountain
-2 Unknown Shores
 2 Forsaken Monument
 2 Labyrinth of Skophos
 2 Swift Response
@@ -293,9 +293,9 @@
 3 Crawling Barrens
 3 Solemn Simulacrum
 3 Sleeper Dart
-3 Radiant Fountain
 3 Unknown Shores
 3 Forsaken Monument
+3 Radiant Fountain
 4 Radiant Fountain
 4 Solemn Simulacrum
 4 Sleeper Dart

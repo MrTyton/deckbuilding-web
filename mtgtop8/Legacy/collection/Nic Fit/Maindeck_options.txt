@@ -1,11 +1,10 @@
 2 Snow-Covered Swamp
+2 Opposition Agent
 2 Crop Rotation
 2 Pernicious Deed
 2 Living Wish
 2 Academy Rector
-2 Opposition Agent
 3 Cavern of Souls
-3 Opposition Agent
 3 Assassin's Trophy
 3 Pernicious Deed
 3 Living Wish
@@ -13,6 +12,7 @@
 3 Thoughtseize
 3 Swords to Plowshares
 3 Academy Rector
+3 Opposition Agent
 4 Assassin's Trophy
 4 Snow-Covered Forest
 4 Veteran Explorer
@@ -29,8 +29,8 @@
 1 Village Rites
 1 Leovold, Emissary of Trest
 1 Klothys, God of Destiny
-1 Dead of Winter
 1 Oko, Thief of Crowns
+1 Dead of Winter
 1 Brainstorm
 1 Nicol Bolas, Planeswalker
 1 Uro, Titan of Nature's Wrath
@@ -53,20 +53,20 @@
 2 Abundant Growth
 2 Ice-Fang Coatl
 2 Misty Rainforest
-3 Snow-Covered Island
 3 Prismatic Vista
 3 Misty Rainforest
 3 Brainstorm
 3 Ice-Fang Coatl
+3 Snow-Covered Island
 4 Misty Rainforest
 4 Brainstorm
 1 Punishing Fire
 1 Grove of the Burnwillows
 1 Mountain
+1 Grim Lavamancer
 1 Tireless Tracker
 1 Ramunap Excavator
 1 Knight of the Reliquary
-1 Grim Lavamancer
 1 Wooded Foothills
 1 Plains
 1 Forest
@@ -100,10 +100,10 @@
 3 Punishing Fire
 3 Green Sun's Zenith
 3 Knight of the Reliquary
-3 Lightning Bolt
 4 Grove of the Burnwillows
 4 Wooded Foothills
 4 Green Sun's Zenith
+4 Lightning Bolt
 4 Knight of the Reliquary
 4 Punishing Fire
-4 Lightning Bolt
+3 Lightning Bolt
