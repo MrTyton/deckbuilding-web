@@ -79,9 +79,9 @@
 3 Arcum's Astrolabe
 1 Brazen Borrower
 1 Ethereal Forager
+2 Murderous Rider
 2 Brazen Borrower
 2 Ethereal Forager
-2 Murderous Rider
 4 Stifle
 3 Trinisphere
 1 Opposition Agent
@@ -159,6 +159,10 @@
 2 Urza, Lord High Artificer
 2 Supreme Verdict
 3 Urza, Lord High Artificer
+1 Snuff Out
+3 Brazen Borrower
+3 Hullbreacher
+4 Brazen Borrower
 4 Scalding Tarn
 1 Mystic Sanctuary
 1 Chain Lightning
@@ -169,15 +173,11 @@
 4 Dreadhorde Arcanist
 4 Daze
 4 Tropical Island
-1 Snuff Out
-3 Brazen Borrower
-3 Hullbreacher
-4 Brazen Borrower
-1 Sevinne's Reclamation
+1 Plateau
 1 Council's Judgment
 1 Keranos, God of Storms
 1 Felidar Retreat
-1 Plateau
+1 Sevinne's Reclamation
 2 Council's Judgment
 2 Plains
 3 Snapcaster Mage
@@ -209,10 +209,10 @@
 4 Mox Opal
 4 Snow-Covered Island
 1 Marsh Flats
-1 Cabal Therapy
 1 Sea Gate Stormcaller
-2 Sea Gate Stormcaller
+1 Cabal Therapy
 2 Cling to Dust
+2 Sea Gate Stormcaller
 2 Marsh Flats
 2 Cabal Therapy
 2 Unearth
@@ -226,12 +226,12 @@
 1 Grove of the Burnwillows
 1 Chandra, Awakened Inferno
 1 Dead / Gone
-1 Mazemind Tome
 1 Reality Smasher
 1 Thought-Knot Seer
 1 Simian Spirit Guide
 1 Bonecrusher Giant
 1 Blood Sun
+1 Mazemind Tome
 1 Eldrazi Temple
 2 Grove of the Burnwillows
 2 Punishing Fire
@@ -264,10 +264,10 @@
 5 Mountain
 1 Urborg, Tomb of Yawgmoth
 2 Urborg, Tomb of Yawgmoth
-3 Swamp
 3 Eliminate
-4 Swamp
+3 Swamp
 4 Eliminate
+4 Swamp
 4 Trinisphere
 5 Swamp
 6 Swamp

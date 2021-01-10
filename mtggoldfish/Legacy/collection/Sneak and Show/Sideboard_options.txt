@@ -3,8 +3,8 @@
 2 Faerie Macabre
 3 Faerie Macabre
 1 Blood Moon
-2 Defense Grid
 2 Blood Moon
+2 Defense Grid
 2 Sorcerous Spyglass
 1 Omniscience
 2 Omniscience
@@ -13,26 +13,26 @@
 2 Pyroblast
 1 Surgical Extraction
 1 Kozilek's Return
-3 Pyroclasm
 1 Through the Breach
-1 Boseiju, Who Shelters All
+3 Pyroclasm
 1 Trickbind
-3 Pyroblast
-2 Surgical Extraction
-1 Intuition
+1 Boseiju, Who Shelters All
 1 Release the Ants
-1 Echoing Truth
-2 Boseiju, Who Shelters All
-3 Defense Grid
-4 Pyroblast
 1 Firemind's Foresight
-1 Wipe Away
 1 Sudden Shock
+2 Boseiju, Who Shelters All
+1 Intuition
+2 Surgical Extraction
+3 Defense Grid
+3 Pyroblast
+4 Pyroblast
+1 Wipe Away
 1 Chain of Vapor
 1 Consign/Oblivion
 1 Show and Tell
 1 Shatterstorm
 2 Through the Breach
+1 Echoing Truth
 1 Sublime Epiphany
 1 Relic of Progenitus
 2 Relic of Progenitus
@@ -47,11 +47,6 @@
 1 Engineered Explosives
 2 Engineered Explosives
 3 Engineered Explosives
-1 Leyline of the Void
-2 Leyline of the Void
-2 Echoing Truth
-3 Leyline of the Void
-4 Leyline of the Void
 1 Fiery Confluence
 1 Pithing Needle
 2 Fiery Confluence
@@ -60,3 +55,5 @@
 3 Fiery Confluence
 4 Pithing Needle
 4 Defense Grid
+1 Lightning Bolt
+1 Rushing River

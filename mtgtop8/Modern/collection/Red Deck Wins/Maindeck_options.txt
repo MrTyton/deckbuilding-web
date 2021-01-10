@@ -18,8 +18,8 @@
 1 Firebolt
 1 Lava Dart
 1 Soul-Scar Mage
-2 Lava Dart
 2 Firebolt
+2 Lava Dart
 2 Soul-Scar Mage
 3 Lava Dart
 3 Soul-Scar Mage
@@ -32,7 +32,6 @@
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
 3 Blood Moon
-3 Bomat Courier
 3 Firebolt
 4 Seasoned Pyromancer
 4 Firebolt
@@ -40,16 +39,17 @@
 4 Lava Dart
 3 Bonecrusher Giant
 4 Bonecrusher Giant
-17 Mountain
+3 Bomat Courier
 4 Bomat Courier
+17 Mountain
 1 Arid Mesa
 3 Lightning Helix
-1 Flame Slash
-2 Arid Mesa
-2 Flame Slash
 1 Blast Zone
 2 Blast Zone
+1 Flame Slash
+2 Arid Mesa
 2 Fiery Islet
+2 Flame Slash
 1 Shard Volley
 3 Sacred Foundry
 4 Skullcrack
@@ -62,8 +62,10 @@
 2 Scalding Tarn
 1 Stomping Ground
 4 Wooded Foothills
-1 Ramunap Ruins
 1 Burst Lightning
+1 Ramunap Ruins
+1 Castle Embereth
+2 Castle Embereth
 1 Grim Lavamancer
 1 Rampaging Ferocidon
 2 Shard Volley
@@ -74,9 +76,9 @@
 4 Flame Slash
 1 Kiln Fiend
 1 Manamorphose
-1 Crash Through
 1 Abrade
 1 Bedlam Reveler
+1 Crash Through
 2 Kiln Fiend
 2 Crash Through
 2 Manamorphose
