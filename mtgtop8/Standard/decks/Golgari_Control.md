@@ -42,9 +42,9 @@
 |                    2|[Zagoth Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479779)      |                     |              |
 |                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                     |              |
 |                    2|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |                     |              |
+|                    3|[Elder Gargaroth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485502)    |                     |              |
 |                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |                     |              |
 |                    3|[Silversmote Ghoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485445)  |                     |              |
-|                    3|[Elder Gargaroth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485502)    |                     |              |
 |                    3|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)      |                     |              |
 |                    3|[Extinction Event](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479608)   |                     |              |
 |                    3|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                     |              |

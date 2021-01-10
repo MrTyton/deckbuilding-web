@@ -1,21 +1,21 @@
 1 Forest
 1 Remand
+1 Flooded Grove
 1 Overgrown Tomb
-2 Remand
 1 Growth Spiral
 2 Growth Spiral
-1 Scalding Tarn
 1 Snow-Covered Swamp
-1 Flooded Grove
 1 Fact or Fiction
 3 Growth Spiral
 4 Growth Spiral
-3 Snow-Covered Island
+2 Remand
+1 Scalding Tarn
 1 Nexus of Fate
 1 Wilderness Reclamation
 2 Wilderness Reclamation
 2 Fact or Fiction
 3 Remand
+3 Snow-Covered Island
 1 Life from the Loam
 1 Hour of Promise
 4 Cryptic Command
@@ -29,6 +29,24 @@
 1 Cling to Dust
 1 Damnation
 3 Wilderness Reclamation
+1 Emry, Lurker of the Loch
+1 Mox Amber
+1 Urza, Lord High Artificer
+1 Soul-Guide Lantern
+1 Gilded Goose
+1 Engineered Explosives
+1 Mishra's Bauble
+2 Emry, Lurker of the Loch
+2 Engineered Explosives
+2 Urza, Lord High Artificer
+2 Gilded Goose
+2 Mishra's Bauble
+3 Gilded Goose
+3 Urza, Lord High Artificer
+3 Mishra's Bauble
+4 Gilded Goose
+4 Urza, Lord High Artificer
+4 Mishra's Bauble
 1 Snapcaster Mage
 1 Castle Vantress
 3 Abrupt Decay
@@ -46,11 +64,11 @@
 2 Assassin's Trophy
 1 Waterlogged Grove
 1 Surgical Extraction
+1 Glimpse the Unthinkable
 1 Mesmeric Orb
 1 Hedron Crab
 1 Winds of Rebuke
 1 Visions of Beyond
-1 Glimpse the Unthinkable
 1 Archive Trap
 1 Ruin Crab
 2 Surgical Extraction
@@ -76,8 +94,40 @@
 4 Archive Trap
 4 Visions of Beyond
 4 Glimpse the Unthinkable
+1 Sword of the Meek
+1 Thopter Foundry
+1 Pithing Needle
+1 Whir of Invention
+2 Thopter Foundry
+2 Whir of Invention
+3 Emry, Lurker of the Loch
 2 Snow-Covered Forest
+1 Creeping Tar Pit
+2 Prismatic Vista
 1 Primeval Titan
+1 Aether Spellbomb
+1 Metallic Rebuke
+1 Venser, Shaper Savant
+1 Sunken Ruins
+2 Spell Snare
+1 Oboro, Palace in the Clouds
+1 Lonely Sandbar
+2 Damnation
+3 Engineered Explosives
+4 Fact or Fiction
+4 Shark Typhoon
+1 Tireless Tracker
+1 Jace, Vryn's Prodigy
+2 Mox Amber
+2 Tireless Tracker
+3 Island
+3 Tireless Tracker
+4 Island
+5 Island
+1 Tamiyo, Collector of Tales
+1 Blast Zone
+3 Breeding Pool
+6 Snow-Covered Island
 1 Cavern of Souls
 1 Explore
 1 Valakut, the Molten Pinnacle
@@ -91,21 +141,22 @@
 1 Gruul Turf
 1 Amulet of Vigor
 1 Golgari Rot Farm
-1 Vesuva
 1 Castle Garenbrig
 1 Primal Command
+1 Vesuva
 1 Tolaria West
+1 Reclamation Sage
 1 Sakura-Tribe Scout
 1 Hanweir Battlements
 2 Valakut, the Molten Pinnacle
 2 Primeval Titan
 2 Dryad of the Ilysian Grove
 2 Explore
-2 Gruul Turf
 2 Amulet of Vigor
 2 Forest
 2 Turntimber Symbiosis
 2 Summoner's Pact
+2 Gruul Turf
 2 Sakura-Tribe Scout
 2 Arboreal Grazer
 2 Simic Growth Chamber
@@ -113,9 +164,9 @@
 2 Cavern of Souls
 2 Castle Garenbrig
 3 Dryad of the Ilysian Grove
-3 Turntimber Symbiosis
 3 Primeval Titan
 3 Simic Growth Chamber
+3 Turntimber Symbiosis
 3 Amulet of Vigor
 3 Castle Garenbrig
 3 Summoner's Pact
@@ -127,50 +178,4 @@
 4 Simic Growth Chamber
 4 Amulet of Vigor
 4 Explore
-1 Creeping Tar Pit
-2 Prismatic Vista
-1 Venser, Shaper Savant
-1 Sunken Ruins
-2 Spell Snare
-2 Bloodchief's Thirst
-1 Windswept Heath
-1 Azusa, Lost but Seeking
-2 Golgari Rot Farm
-1 Oboro, Palace in the Clouds
-1 Lonely Sandbar
-2 Damnation
-4 Fact or Fiction
-4 Shark Typhoon
-1 Emry, Lurker of the Loch
-1 Mox Amber
-1 Tireless Tracker
-1 Urza, Lord High Artificer
-1 Soul-Guide Lantern
-1 Gilded Goose
-1 Engineered Explosives
-1 Jace, Vryn's Prodigy
-1 Mishra's Bauble
-2 Emry, Lurker of the Loch
-2 Mox Amber
-2 Engineered Explosives
-2 Urza, Lord High Artificer
-2 Gilded Goose
-2 Tireless Tracker
-2 Mishra's Bauble
-3 Island
-3 Emry, Lurker of the Loch
-3 Gilded Goose
-3 Urza, Lord High Artificer
-3 Mishra's Bauble
-3 Tireless Tracker
-4 Gilded Goose
-4 Urza, Lord High Artificer
-4 Island
-4 Mishra's Bauble
-5 Island
-1 Tamiyo, Collector of Tales
-1 Blast Zone
-3 Breeding Pool
-6 Snow-Covered Island
-1 Reclamation Sage
 4 Gruul Turf

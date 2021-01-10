@@ -47,19 +47,11 @@
 1 Vexing Devil
 2 Chandra's Incinerator
 2 Vexing Devil
-1 Bloodstained Mire
-1 Wooded Foothills
-2 Wooded Foothills
-2 Bloodstained Mire
-3 Wooded Foothills
-3 Bloodstained Mire
-4 Bloodstained Mire
-4 Wooded Foothills
 1 Scalding Tarn
 1 Grim Lavamancer
 1 Arid Mesa
-2 Scalding Tarn
 2 Arid Mesa
+2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
 1 Barbarian Ring
@@ -67,6 +59,14 @@
 2 Sunbaked Canyon
 2 Barbarian Ring
 4 Light Up the Stage
+1 Bloodstained Mire
+1 Wooded Foothills
+2 Wooded Foothills
+2 Bloodstained Mire
+3 Wooded Foothills
+3 Bloodstained Mire
+4 Wooded Foothills
+4 Bloodstained Mire
 1 Pyrokinesis
 1 Street Wraith
 1 Wayward Guide-Beast
@@ -77,13 +77,17 @@
 2 Pyrokinesis
 2 Sonic Burst
 2 Goblin Cratermaker
-3 Goblin Cratermaker
 3 Wayward Guide-Beast
+3 Goblin Cratermaker
 4 Wayward Guide-Beast
 1 Searing Blood
 1 Volcanic Fallout
 2 Searing Blood
 4 Pyrostatic Pillar
+1 Flame Rift
+2 Flame Rift
+3 Flame Rift
+4 Flame Rift
 11 Snow-Covered Mountain
 12 Snow-Covered Mountain
 13 Snow-Covered Mountain
@@ -94,7 +98,3 @@
 18 Snow-Covered Mountain
 19 Snow-Covered Mountain
 20 Snow-Covered Mountain
-1 Flame Rift
-2 Flame Rift
-3 Flame Rift
-4 Flame Rift

@@ -48,6 +48,7 @@
 |                    3|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    2|[Magus of the Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136152)  |
 |                    3|[Skred](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122120)                |                     |                                                                                              |
 |                    4|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                              |
+|                    4|[Skred](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122120)                |                     |                                                                                              |
 |                    5|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                              |
 |                    6|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                              |
 |                    7|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                              |
@@ -62,5 +63,4 @@
 |                   16|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                              |
 |                   17|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                              |
 |                   18|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                              |
-|                    4|[Skred](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122120)                |                     |                                                                                              |
 

@@ -50,6 +50,7 @@
 1 Temple of Silence
 1 Agadeem's Awakening
 2 Temple of Silence
+2 Eerie Ultimatum
 2 Gilded Goose
 2 Doom Foretold
 2 Trail of Crumbs
@@ -59,7 +60,6 @@
 2 Llanowar Visionary
 2 Yorion, Sky Nomad
 2 Charming Prince
-2 Eerie Ultimatum
 3 Charming Prince
 3 Doom Foretold
 3 Wicked Wolf
@@ -118,16 +118,15 @@
 2 Duress
 2 Polukranos, Unchained
 2 Scavenging Ooze
-3 Yasharn, Implacable Earth
 3 Scavenging Ooze
 3 Elder Gargaroth
 3 Temple of Malady
 3 Duress
+3 Yasharn, Implacable Earth
 4 Duress
 1 Island
 1 Savai Triome
 1 Tranquil Cove
-1 Sanctum of Calm Waters
 1 Ketria Triome
 1 Fae of Wishes
 1 Thirst for Meaning
@@ -140,6 +139,7 @@
 1 Thornwood Falls
 1 Sanctum of Shattered Heights
 1 Sanctum of All
+1 Sanctum of Calm Waters
 1 Sanctum of Stone Fangs
 1 Riverglide Pathway
 1 Bloodchief's Thirst
@@ -148,8 +148,8 @@
 1 Sanctum of Tranquil Light
 2 Thirst for Meaning
 2 Fae of Wishes
-2 Dismal Backwater
 2 Cragcrown Pathway
+2 Dismal Backwater
 2 Tranquil Cove
 2 Clearwater Pathway
 2 Bloodchief's Thirst
@@ -190,9 +190,9 @@
 4 Erebos's Intervention
 4 Garruk, Cursed Huntsman
 2 Island
+1 Mystic Sanctuary
 1 Frantic Inventory
 1 Into the Roil
-1 Mystic Sanctuary
 2 Frantic Inventory
 2 Into the Roil
 3 Frantic Inventory
@@ -229,10 +229,10 @@
 2 Stern Dismissal
 2 Merfolk Secretkeeper
 2 Into the Story
-2 Teferi's Tutelage
 2 Anticognition
 2 Negate
 2 Relic Golem
+2 Teferi's Tutelage
 3 Didn't Say Please
 3 Evolving Wilds
 3 Merfolk Secretkeeper
@@ -250,12 +250,12 @@
 4 Teferi's Tutelage
 1 Lofty Denial
 1 Rewind
-1 Hypnotic Sprite
 1 Rain of Revelation
 1 Neutralize
 1 Kiora Bests the Sea God
 1 Silundi Vision
 1 Shark Typhoon
+1 Hypnotic Sprite
 1 Bonders' Enclave
 1 Jwari Disruption
 1 Essence Scatter
@@ -266,13 +266,13 @@
 2 Castle Vantress
 2 Rewind
 2 Lofty Denial
-2 Hypnotic Sprite
 2 Rain of Revelation
 2 Neutralize
 2 Essence Scatter
 2 Shark Typhoon
 2 Gadwick, the Wizened
 2 Brazen Borrower
+2 Hypnotic Sprite
 3 Neutralize
 3 Castle Vantress
 3 Rewind
@@ -283,18 +283,18 @@
 4 Rewind
 4 Castle Vantress
 4 Brazen Borrower
+1 Unknown Shores
 1 Dance of the Manse
 1 Sleeper Dart
 1 Radiant Fountain
 1 Forsaken Monument
-1 Unknown Shores
 1 Labyrinth of Skophos
 1 Swift Response
+2 Unknown Shores
 2 Sleeper Dart
 2 Radiant Fountain
-2 Unknown Shores
-2 Forsaken Monument
 2 Labyrinth of Skophos
+2 Forsaken Monument
 2 Dance of the Manse
 2 Swift Response
 3 Sleeper Dart

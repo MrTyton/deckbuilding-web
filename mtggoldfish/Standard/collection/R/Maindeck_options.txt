@@ -6,8 +6,8 @@
 1 Fabled Passage
 1 Temple of Malice
 1 Extinction Event
-1 Heartless Act
 1 Swamp
+1 Heartless Act
 2 Fabled Passage
 2 Temple of Malice
 2 Swamp
@@ -21,117 +21,97 @@
 1 Field of Ruin
 3 Storm's Wrath
 2 Field of Ruin
-1 Labyrinth of Skophos
 4 Temple of Malice
 3 Extinction Event
+1 Labyrinth of Skophos
 2 Valakut Awakening
-4 Radiant Fountain
+1 Temple of Triumph
+1 Elspeth Conquers Death
+1 The Birth of Meletis
+1 Needleverge Pathway
+1 Plains
+2 Temple of Triumph
+2 Elspeth Conquers Death
+2 Plains
+2 The Birth of Meletis
+2 Needleverge Pathway
+3 Plains
+4 Plains
 1 Shadows' Verdict
-1 Island
-1 Negate
-2 Island
-2 Negate
-3 Island
 1 Jwari Disruption
 1 Essence Scatter
 1 Riverglide Pathway
 1 Temple of Epiphany
+1 Island
+1 Negate
 2 Jwari Disruption
 2 Essence Scatter
 2 Riverglide Pathway
 2 Temple of Epiphany
+2 Island
+2 Negate
 3 Riverglide Pathway
 3 Temple of Epiphany
-4 Temple of Epiphany
+3 Island
 4 Riverglide Pathway
+4 Temple of Epiphany
+1 Into the Roil
 1 Cinderclasm
-2 Cinderclasm
-4 Island
 1 Midnight Clock
 1 Kiora Bests the Sea God
 1 Neutralize
-1 Into the Roil
 1 Mystical Dispute
 1 Rewind
 1 Castle Vantress
 1 Raugrin Triome
 2 Kiora Bests the Sea God
 2 Midnight Clock
+2 Cinderclasm
 2 Rewind
 2 Mystical Dispute
 2 Raugrin Triome
 3 Mystical Dispute
+4 Island
 5 Island
 6 Island
-1 Temple of Triumph
-1 Elspeth Conquers Death
 1 Skyclave Apparition
-1 The Birth of Meletis
-1 Plains
-1 Needleverge Pathway
-2 Temple of Triumph
-2 Elspeth Conquers Death
-2 Plains
-2 The Birth of Meletis
 2 Skyclave Apparition
-2 Needleverge Pathway
-3 Skyclave Apparition
-3 Plains
 3 Needleverge Pathway
+3 Skyclave Apparition
 3 Elspeth Conquers Death
 4 Skyclave Apparition
-4 Plains
 4 Elspeth Conquers Death
 4 Needleverge Pathway
+4 Radiant Fountain
 4 Scorching Dragonfire
-2 Labyrinth of Skophos
-1 Kroxa, Titan of Death's Hunger
 1 Emeria's Call
 2 Emeria's Call
 3 Temple of Triumph
+2 Labyrinth of Skophos
+1 Kroxa, Titan of Death's Hunger
 4 Storm's Wrath
 13 Mountain
 14 Mountain
 3 Valakut Awakening
-3 Soul Sear
-1 Forsaken Monument
-2 Forsaken Monument
-3 Forsaken Monument
+5 Plains
 1 Dreamshaper Shaman
 1 Bloodfell Caves
 2 Bloodfell Caves
 2 Heartless Act
-1 Bonders' Enclave
-1 Stonecoil Serpent
-1 Locthwain Gargoyle
-1 Traveler's Amulet
-1 Crystalline Giant
-1 Emry, Lurker of the Loch
-1 Myriad Construct
-1 Throne of Makindi
-1 Soul-Guide Lantern
-1 Skyscanner
-1 Unknown Shores
-2 Emry, Lurker of the Loch
-2 Locthwain Gargoyle
-2 Skyscanner
-2 Traveler's Amulet
-2 Unknown Shores
-2 Myriad Construct
-2 Throne of Makindi
-3 Myriad Construct
-3 Unknown Shores
-3 Emry, Lurker of the Loch
+3 Soul Sear
 1 Skyclave Relic
+1 Forsaken Monument
+2 Forsaken Monument
 2 Skyclave Relic
 3 Skyclave Relic
+3 Forsaken Monument
 4 Skyclave Relic
-1 Teferi, Master of Time
 1 Glimpse of Freedom
+1 Teferi, Master of Time
 1 Frantic Inventory
 1 Embereth Shieldbreaker
-2 Teferi, Master of Time
 2 Embereth Shieldbreaker
+2 Teferi, Master of Time
 2 Frantic Inventory
 2 Glimpse of Freedom
 3 Essence Scatter
@@ -139,6 +119,26 @@
 4 Frantic Inventory
 1 Chandra, Heart of Fire
 4 Shredded Sails
+1 Castle Ardenvale
+1 Banishing Light
+1 Glass Casket
+1 Legion Angel
+1 Realm-Cloaked Giant
+1 Shatter the Sky
+2 Castle Ardenvale
+2 Banishing Light
+2 Glass Casket
+2 Shatter the Sky
+3 Banishing Light
+3 Shatter the Sky
+3 Glass Casket
+3 Emeria's Call
+3 The Birth of Meletis
+4 The Birth of Meletis
+4 Banishing Light
+4 Shatter the Sky
+6 Plains
+7 Plains
 1 Slaying Fire
 1 Brash Taunter
 1 Palladium Myr
@@ -149,4 +149,3 @@
 4 Slaying Fire
 15 Mountain
 16 Mountain
-5 Plains

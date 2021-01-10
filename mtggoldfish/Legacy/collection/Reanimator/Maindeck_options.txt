@@ -1,26 +1,26 @@
-2 Swamp
 4 Marsh Flats
+2 Swamp
 3 Polluted Delta
-1 Cabal Therapy
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
+1 Cabal Therapy
 3 Badlands
-1 Verdant Catacombs
 4 Polluted Delta
+1 Verdant Catacombs
 2 Verdant Catacombs
 1 Elesh Norn, Grand Cenobite
 1 Sire of Insanity
-1 Ashen Rider
-1 Brainstorm
+3 Swamp
 1 Daze
 1 Force of Will
+1 Brainstorm
 1 Ponder
 1 Underground Sea
-2 Brainstorm
 2 Daze
 2 Force of Will
 2 Ponder
 2 Underground Sea
+2 Brainstorm
 3 Daze
 3 Force of Will
 3 Underground Sea
@@ -49,12 +49,13 @@
 4 Lightning Bolt
 4 Dreadhorde Arcanist
 3 Snow-Covered Swamp
-3 Swamp
-2 Preordain
-3 Volcanic Island
-2 Cabal Therapy
 4 Thoughtseize
 1 Iona, Shield of Emeria
+1 Ashen Rider
+2 Preordain
+3 Volcanic Island
+1 Tidespout Tyrant
+2 Cabal Therapy
 1 Flusterstorm
 1 Collective Brutality
 1 Grave Titan
@@ -63,7 +64,6 @@
 2 Grave Titan
 3 Collective Brutality
 3 Grave Titan
-1 Tidespout Tyrant
 4 Swamp
 5 Swamp
 6 Swamp
@@ -85,7 +85,6 @@
 4 Hymn to Tourach
 4 Grave Titan
 2 Force of Negation
-1 Vilis, Broker of Blood
 2 Bayou
 3 Verdant Catacombs
 4 Verdant Catacombs
@@ -121,8 +120,8 @@
 15 Snow-Covered Swamp
 16 Snow-Covered Swamp
 17 Snow-Covered Swamp
-1 Wurmcoil Engine
 1 Bitterblossom
+1 Wurmcoil Engine
 1 Duress
 1 Surgical Extraction
 1 Olivia's Dragoon
