@@ -7,6 +7,7 @@
 2 Ominous Seas
 4 Memory Leak
 3 Raugrin Triome
+5 Plains
 1 Emeria's Call
 4 Raugrin Triome
 1 Splendor Mare
@@ -19,9 +20,7 @@
 4 Yidaro, Wandering Monster
 1 Shredded Sails
 2 Shredded Sails
-3 Shredded Sails
 3 Brightclimb Pathway
-5 Plains
 6 Plains
 5 Mountain
 6 Mountain
@@ -64,40 +63,43 @@
 3 Bonecrusher Giant
 1 Temple of Triumph
 2 Temple of Triumph
+3 Shredded Sails
 4 Archpriest of Iona
 1 Fireblade Charger
 2 Fireblade Charger
 4 Bonecrusher Giant
 4 Frostveil Ambush
-3 Shatterskull Smashing
-4 Brightclimb Pathway
+1 Rielle, the Everwise
+2 Clearwater Pathway
+2 Rielle, the Everwise
+3 Clearwater Pathway
+3 Rielle, the Everwise
+4 Clearwater Pathway
 8 Mountain
 3 Fireblade Charger
+1 Island
 1 Maul of the Skyclaves
+1 Fabled Passage
+2 Fabled Passage
 8 Plains
 3 Temple of Triumph
 4 Temple of Triumph
 2 Reptilian Reflection
-1 Savai Triome
-1 Teferi's Ageless Insight
+1 Crawling Barrens
 1 Temple of Enlightenment
 1 Temple of Epiphany
+1 Teferi's Ageless Insight
 2 Teferi's Ageless Insight
 1 Improbable Alliance
-1 Island
 2 Improbable Alliance
 2 Island
 3 Improbable Alliance
 4 Improbable Alliance
-1 Rielle, the Everwise
-2 Clearwater Pathway
-2 Rielle, the Everwise
-3 Rielle, the Everwise
-3 Clearwater Pathway
-4 Clearwater Pathway
+1 Savai Triome
+3 Shatterskull Smashing
+4 Brightclimb Pathway
 1 Faerie Guidemother
 1 Castle Ardenvale
-1 Fabled Passage
 1 Giant Killer
 1 Ox of Agonas
 1 Elspeth, Sun's Nemesis
@@ -105,7 +107,6 @@
 2 Elspeth, Sun's Nemesis
 2 Ox of Agonas
 2 Maul of the Skyclaves
-2 Fabled Passage
 2 Giant Killer
 3 Elspeth, Sun's Nemesis
 3 Fabled Passage

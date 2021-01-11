@@ -1,107 +1,102 @@
-12 Forest
-9 Island
-1 Archipelagore
-2 Fabled Passage
-1 Temple of Mystery
+1 Parcelbeast
 1 Vivien, Monsters' Advocate
 3 Essence Symbiote
+1 Mysterious Egg
+1 Dirge Bat
+1 Insatiable Hemophage
+4 Swamp
+5 Swamp
+1 Brokkos, Apex of Forever
+1 Trumpeting Gnarr
+2 Glowstone Recluse
+1 Evolving Wilds
+2 Evolving Wilds
 1 Ilysian Caryatid
 2 Ilysian Caryatid
-3 Evolving Wilds
+1 Porcuparrot
 1 Mountain
 2 Mountain
 3 Mountain
 4 Mountain
-1 Mysterious Egg
-1 Dirge Bat
-1 Insatiable Hemophage
-5 Swamp
-1 Trumpeting Gnarr
-2 Thornwood Falls
-1 Ram Through
-2 Ram Through
-2 Glowstone Recluse
-1 Brokkos, Apex of Forever
-1 Zagoth Mamba
-1 Cultivate
+1 Llanowar Visionary
+1 Scorching Dragonfire
+1 Kazuul's Fury
 1 Terror of the Peaks
+1 Almighty Brushwagg
 1 Beanstalk Giant
+1 Cultivate
+1 Chainweb Aracnir
 1 Radha, Heart of Keld
+2 Llanowar Visionary
+2 Scorching Dragonfire
+2 Almighty Brushwagg
+2 Beanstalk Giant
+2 Kazuul's Fury
+2 Chainweb Aracnir
+2 Porcuparrot
+3 Llanowar Visionary
+3 Scorching Dragonfire
+3 Evolving Wilds
+3 Beanstalk Giant
+4 Scorching Dragonfire
+4 Llanowar Visionary
+4 Essence Symbiote
 5 Mountain
 6 Mountain
-1 Porcuparrot
+7 Mountain
+1 Zagoth Mamba
+2 Parcelbeast
+2 Sea-Dasher Octopus
 3 Fabled Passage
 4 Fabled Passage
 1 The Great Henge
 2 The Great Henge
-1 Kazandu Mammoth
-1 Ashaya, Soul of the Wild
-2 Kazandu Mammoth
-2 Ashaya, Soul of the Wild
 1 Plains
 2 Plains
 3 Plains
 4 Plains
 5 Plains
-1 Llanowar Visionary
-1 Chainweb Aracnir
-1 Kazuul's Fury
-1 Scorching Dragonfire
-1 Almighty Brushwagg
-2 Llanowar Visionary
-2 Chainweb Aracnir
-2 Almighty Brushwagg
-2 Beanstalk Giant
-2 Kazuul's Fury
-2 Porcuparrot
-2 Scorching Dragonfire
-3 Llanowar Visionary
-3 Scorching Dragonfire
-3 Beanstalk Giant
-4 Llanowar Visionary
-4 Scorching Dragonfire
-4 Essence Symbiote
-7 Mountain
-2 Sea-Dasher Octopus
-1 Emeria's Call
 1 Bala Ged Recovery
 1 Banishing Light
 1 Felidar Retreat
+1 Kazandu Mammoth
 1 Branchloft Pathway
 1 Fearless Fledgling
-2 Emeria's Call
-2 Bala Ged Recovery
+1 Emeria's Call
+1 Ashaya, Soul of the Wild
 2 Fearless Fledgling
+2 Bala Ged Recovery
+2 Ashaya, Soul of the Wild
+2 Kazandu Mammoth
 2 Felidar Retreat
-3 Emeria's Call
+2 Emeria's Call
 3 Lotus Cobra
 3 Kazandu Mammoth
+3 Emeria's Call
 3 Fearless Fledgling
 3 Felidar Retreat
 4 Lotus Cobra
 4 Kazandu Mammoth
 4 Felidar Retreat
 4 Fearless Fledgling
-1 Dismal Backwater
-2 Dismal Backwater
+10 Island
 1 Negate
 2 Negate
-10 Island
 2 Mysterious Egg
 3 Mysterious Egg
 2 Insatiable Hemophage
 3 Insatiable Hemophage
 1 Chittering Harvester
-1 Heartless Act
 1 Stern Dismissal
-1 Murderous Rider
+1 Heartless Act
+1 Atris, Oracle of Half-Truths
 1 Lochmere Serpent
 1 Tome Raider
 1 Massacre Wurm
-1 Atris, Oracle of Half-Truths
 1 Agonizing Remorse
 1 Temple of Deceit
 1 Boot Nipper
+1 Murderous Rider
 1 Unexpected Fangs
 2 Stern Dismissal
 2 Heartless Act
@@ -114,52 +109,33 @@
 8 Swamp
 9 Swamp
 1 Tangled Florahedron
+1 Dismal Backwater
+2 Dismal Backwater
 2 Archipelagore
+2 Thornwood Falls
 3 Thornwood Falls
 4 Dreamtail Heron
-3 Dismal Backwater
+1 Ram Through
+2 Ram Through
 2 Zagoth Mamba
 1 Cavern Whisperer
 1 Zagoth Triome
 3 Sea-Dasher Octopus
-3 Ilysian Caryatid
-4 Ilysian Caryatid
 1 Stonecoil Serpent
 2 Vivien, Monsters' Advocate
 1 Castle Garenbrig
-1 Cragcrown Pathway
 1 Illuna, Apex of Wishes
-1 Spikefield Hazard
-1 Shatterskull Smashing
-1 Temple of Abandon
-1 Bonecrusher Giant
-1 Brushfire Elemental
-1 Thundering Rebuke
-1 Reclaim the Wastes
-1 Akoum Hellhound
-1 Phylath, World Sculptor
-1 Klothys, God of Destiny
-2 Akoum Hellhound
-2 Spikefield Hazard
-2 Cultivate
-2 Brushfire Elemental
-2 Terror of the Peaks
-2 Thundering Rebuke
-2 Reclaim the Wastes
-2 Klothys, God of Destiny
-2 Radha, Heart of Keld
-3 Akoum Hellhound
-3 Spikefield Hazard
-3 Thundering Rebuke
-1 Swarm Shambler
+1 Cragcrown Pathway
 1 Crawling Barrens
+1 Swarm Shambler
 1 Roiling Regrowth
 1 Fae of Wishes
 2 Tangled Florahedron
 2 Fae of Wishes
-3 Tangled Florahedron
 3 Gemrazer
+3 Tangled Florahedron
 4 Gemrazer
+1 Brightclimb Pathway
 1 Ghastly Gloomhunter
 1 Cloudpiercer
 1 Huntmaster Liger
@@ -167,84 +143,62 @@
 1 Boneyard Lurker
 1 Vulpikeet
 1 Beloved Princess
-1 Brightclimb Pathway
 1 Everquill Phoenix
 1 Feed the Swarm
 1 Cubwarden
-1 Majestic Auricorn
 1 Regal Leosaur
 1 Necropanther
+1 Majestic Auricorn
 1 Lore Drakkis
 1 Murasa Rootgrazer
 2 Murasa Rootgrazer
+3 Dismal Backwater
 1 Jungle Hollow
 2 Jungle Hollow
 2 Cavern Whisperer
-3 Cavern Whisperer
 3 Negate
+3 Cavern Whisperer
 4 Negate
-1 Elder Gargaroth
 1 Ranger's Guile
 1 Kogla, the Titan Ape
+1 Elder Gargaroth
 2 Ranger's Guile
 3 Ranger's Guile
 4 Ranger's Guile
 1 Sea Gate Restoration
-1 Emry, Lurker of the Loch
-1 Thassa's Oracle
 1 Thassa, Deep-Dwelling
+1 Thassa's Oracle
 1 Lead the Stampede
 1 Nylea, Keen-Eyed
 1 Threnody Singer
+1 Emry, Lurker of the Loch
 2 Thassa's Oracle
 2 Threnody Singer
 3 Thassa's Oracle
 4 Thassa's Oracle
-1 Riverglide Pathway
 1 Castle Vantress
 1 Ugin, the Spirit Dragon
-1 Ketria Triome
-1 Teferi, Master of Time
+1 Riverglide Pathway
 1 Mystical Dispute
 1 Gilded Goose
-2 Riverglide Pathway
+1 Ketria Triome
+1 Teferi, Master of Time
 2 Ugin, the Spirit Dragon
-2 Castle Vantress
-2 Ketria Triome
-2 Cragcrown Pathway
-2 Mystical Dispute
 2 Castle Garenbrig
+2 Castle Vantress
 2 Gilded Goose
-3 Riverglide Pathway
-3 Ketria Triome
-3 Cragcrown Pathway
+2 Mystical Dispute
+2 Riverglide Pathway
+2 Cragcrown Pathway
+2 Ketria Triome
 3 Ugin, the Spirit Dragon
 3 Gilded Goose
+3 Ketria Triome
+3 Riverglide Pathway
+3 Cragcrown Pathway
+4 Ketria Triome
 4 Riverglide Pathway
 4 Cragcrown Pathway
-4 Ketria Triome
-1 Lullmage's Domination
-1 Faerie Vandal
-1 Drown in the Loch
-1 Into the Story
-1 Essence Scatter
-1 Soaring Thought-Thief
-1 Ruin Crab
-1 Merfolk Windrobber
-2 Essence Scatter
-2 Ruin Crab
-2 Into the Story
-2 Soaring Thought-Thief
-2 Drown in the Loch
-2 Merfolk Windrobber
-3 Ruin Crab
-3 Drown in the Loch
-3 Into the Story
-3 Soaring Thought-Thief
-4 Soaring Thought-Thief
-4 Drown in the Loch
-4 Ruin Crab
-4 Evolving Wilds
 2 Temple of Deceit
 3 Temple of Deceit
 4 Temple of Deceit
@@ -252,22 +206,24 @@
 2 Zagoth Triome
 2 Clearwater Pathway
 2 Dirge Bat
-3 Zagoth Triome
+3 Clearwater Pathway
 3 Zagoth Mamba
 3 Dirge Bat
-3 Clearwater Pathway
-4 Zagoth Triome
+3 Zagoth Triome
 4 Clearwater Pathway
 4 Sea-Dasher Octopus
 4 Insatiable Hemophage
 4 Dirge Bat
+4 Zagoth Triome
 4 Zagoth Mamba
 2 Trumpeting Gnarr
+3 Ram Through
 3 Parcelbeast
 3 Trumpeting Gnarr
 3 Glowstone Recluse
-3 Ram Through
+3 Ilysian Caryatid
 4 Parcelbeast
 4 Trumpeting Gnarr
 4 Ram Through
+4 Ilysian Caryatid
 11 Island

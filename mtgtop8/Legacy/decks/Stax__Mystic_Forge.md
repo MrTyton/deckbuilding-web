@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)        |                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)   |
-|                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)   |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |
+|                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)   |                    1|[Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)   |
+|                    1|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)        |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407) |
 |                    1|[Crystal Vein](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15413)        |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
 |                    1|[Mishra's Factory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2387)     |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                    1|[Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407694)             |                    1|[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255)   |
