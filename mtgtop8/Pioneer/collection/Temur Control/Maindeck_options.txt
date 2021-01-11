@@ -1,6 +1,6 @@
+1 Negate
 1 Lumbering Falls
 1 Hinterland Harbor
-1 Negate
 4 Fabled Passage
 1 Brazen Borrower
 1 Temple Garden
@@ -19,7 +19,6 @@
 1 Chemister's Insight
 2 Stomping Ground
 2 Temple Garden
-4 Anger of the Gods
 1 Izzet Charm
 3 Rootbound Crag
 1 Sinister Sabotage
@@ -34,6 +33,7 @@
 1 Aether Gust
 2 Aether Gust
 2 Brazen Borrower
+4 Anger of the Gods
 4 Rootbound Crag
 4 Uro, Titan of Nature's Wrath
 2 Sinister Sabotage
@@ -71,22 +71,22 @@
 1 Drowned Catacomb
 1 Hieroglyphic Illumination
 1 Fatal Push
+2 Chemister's Insight
 2 Bloodchief's Thirst
 2 Hinterland Harbor
 2 Abrupt Decay
 2 Overgrown Tomb
 2 Fatal Push
-2 Chemister's Insight
 2 Watery Grave
 2 Zagoth Triome
 2 Drowned Catacomb
-3 Hinterland Harbor
+3 Zagoth Triome
 3 Overgrown Tomb
 3 Fatal Push
 3 Island
+3 Hinterland Harbor
 3 Chemister's Insight
-3 Zagoth Triome
-3 Watery Grave
+4 Zagoth Triome
 4 Sinister Sabotage
 4 Hinterland Harbor
-4 Zagoth Triome
+3 Watery Grave

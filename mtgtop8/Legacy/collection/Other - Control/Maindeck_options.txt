@@ -1,7 +1,7 @@
+2 Preordain
 1 Flooded Strand
 1 Polluted Delta
 2 Flooded Strand
-2 Preordain
 2 Polluted Delta
 1 Underground Sea
 1 Baleful Strix
@@ -13,6 +13,7 @@
 2 Underground Sea
 1 Island
 2 Hullbreacher
+3 Oko, Thief of Crowns
 3 Baleful Strix
 1 Swords to Plowshares
 2 Swords to Plowshares
@@ -76,12 +77,19 @@
 3 Snow-Covered Island
 1 Karakas
 2 Narset, Parter of Veils
+4 Scalding Tarn
+1 Mystic Sanctuary
+1 Chain Lightning
+3 Volcanic Island
+3 Tropical Island
+3 Daze
+4 Dreadhorde Arcanist
 3 Arcum's Astrolabe
 1 Brazen Borrower
 1 Ethereal Forager
-2 Murderous Rider
 2 Brazen Borrower
 2 Ethereal Forager
+2 Murderous Rider
 4 Stifle
 3 Trinisphere
 1 Opposition Agent
@@ -112,7 +120,6 @@
 1 Scrubland
 2 Tundra
 1 Plains
-3 Oko, Thief of Crowns
 1 Snow-Covered Plains
 1 Supreme Verdict
 3 Prismatic Vista
@@ -163,14 +170,7 @@
 3 Brazen Borrower
 3 Hullbreacher
 4 Brazen Borrower
-4 Scalding Tarn
-1 Mystic Sanctuary
-1 Chain Lightning
 2 Chain Lightning
-3 Volcanic Island
-3 Tropical Island
-3 Daze
-4 Dreadhorde Arcanist
 4 Daze
 4 Tropical Island
 1 Plateau
@@ -183,8 +183,8 @@
 3 Snapcaster Mage
 4 Swords to Plowshares
 4 Island
-1 Watery Grave
 1 Emry, Lurker of the Loch
+1 Watery Grave
 1 Breeding Pool
 1 Mox Opal
 1 Engineered Explosives
@@ -192,19 +192,19 @@
 1 Seat of the Synod
 1 Gilded Goose
 1 Mishra's Bauble
+2 Emry, Lurker of the Loch
 2 Gilded Goose
 2 Mishra's Bauble
 2 Watery Grave
 2 Tezzeret, Agent of Bolas
 2 Mox Opal
-2 Emry, Lurker of the Loch
 2 Breeding Pool
+3 Emry, Lurker of the Loch
 3 Gilded Goose
 3 Mox Opal
 3 Mishra's Bauble
-3 Emry, Lurker of the Loch
-4 Gilded Goose
 4 Emry, Lurker of the Loch
+4 Gilded Goose
 4 Mishra's Bauble
 4 Mox Opal
 4 Snow-Covered Island
@@ -222,6 +222,7 @@
 4 Monastery Mentor
 4 Sea Gate Stormcaller
 4 Cabal Therapy
+1 Mazemind Tome
 1 Punishing Fire
 1 Grove of the Burnwillows
 1 Chandra, Awakened Inferno
@@ -231,7 +232,6 @@
 1 Simian Spirit Guide
 1 Bonecrusher Giant
 1 Blood Sun
-1 Mazemind Tome
 1 Eldrazi Temple
 2 Grove of the Burnwillows
 2 Punishing Fire
@@ -246,11 +246,11 @@
 2 Chandra, Awakened Inferno
 3 Grove of the Burnwillows
 3 Punishing Fire
+3 Bonecrusher Giant
 3 Eldrazi Temple
 3 Blood Sun
 3 Simian Spirit Guide
 3 Reality Smasher
-3 Bonecrusher Giant
 3 Thought-Knot Seer
 3 Mountain
 4 Punishing Fire
@@ -267,9 +267,9 @@
 3 Eliminate
 3 Swamp
 4 Eliminate
-4 Swamp
 4 Trinisphere
+4 Swamp
 5 Swamp
 6 Swamp
-7 Swamp
 8 Swamp
+7 Swamp

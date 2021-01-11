@@ -34,8 +34,8 @@
 1 Opt
 2 Opt
 3 Opt
-1 Force of Negation
 1 Archmage's Charm
+1 Force of Negation
 2 Force of Negation
 2 Archmage's Charm
 3 Force of Negation
@@ -76,8 +76,8 @@
 1 Terminus
 2 Terminus
 3 Terminus
-4 Terminus
 4 Mystic Sanctuary
+4 Terminus
 6 Island
 1 Deputy of Detention
 2 Deputy of Detention
@@ -86,8 +86,8 @@
 2 Charming Prince
 1 Snow-Covered Plains
 1 Snow-Covered Island
-1 Frantic Inventory
 1 Sea Gate Restoration
+1 Frantic Inventory
 2 Frantic Inventory
 3 Frantic Inventory
 4 Frantic Inventory
@@ -130,19 +130,19 @@
 1 Glacial Fortress
 1 Vendilion Clique
 3 Polluted Delta
-1 Shefet Dunes
 1 Eldrazi Displacer
-2 Shefet Dunes
+1 Shefet Dunes
 2 Eldrazi Displacer
-3 Shefet Dunes
+2 Shefet Dunes
 3 Eldrazi Displacer
-4 Shefet Dunes
-4 Adarkar Wastes
+3 Shefet Dunes
 4 Eldrazi Displacer
-1 Mirran Crusader
+4 Adarkar Wastes
+4 Shefet Dunes
 1 Aven Mindcensor
-2 Mirran Crusader
+1 Mirran Crusader
 2 Aven Mindcensor
+2 Mirran Crusader
 8 Plains
 9 Plains
 10 Plains
@@ -162,12 +162,12 @@
 1 Peek
 2 Peek
 1 Entreat the Angels
-1 Condemn
 1 Counterbalance
+1 Condemn
 2 Counterbalance
 2 Condemn
-3 Omen of the Sea
 3 Counterbalance
+3 Omen of the Sea
 4 Omen of the Sea
 4 Polluted Delta
 4 Counterbalance
@@ -183,33 +183,33 @@
 1 Meddling Mage
 2 Meddling Mage
 3 Meddling Mage
-1 Akroma, Angel of Fury
-1 Inspiring Vantage
+1 Sacred Foundry
+1 Auriok Champion
 1 Ephemerate
 1 Snow-Covered Mountain
-1 Sacred Foundry
-1 Glimmerpoint Stag
 1 Magus of the Moon
+1 Glimmerpoint Stag
+1 Inspiring Vantage
+1 Akroma, Angel of Fury
 1 Akoum Warrior
-1 Auriok Champion
-2 Inspiring Vantage
+2 Auriok Champion
+2 Magus of the Moon
 2 Sacred Foundry
-2 Ephemerate
 2 Akroma, Angel of Fury
 2 Glimmerpoint Stag
+2 Ephemerate
+2 Inspiring Vantage
 2 Akoum Warrior
-2 Magus of the Moon
-2 Auriok Champion
-3 Inspiring Vantage
-3 Sacred Foundry
 3 Magus of the Moon
 3 Ephemerate
+3 Inspiring Vantage
 3 Akoum Warrior
+3 Sacred Foundry
 3 Glimmerpoint Stag
 3 Akroma, Angel of Fury
-4 Sacred Foundry
-4 Magus of the Moon
 4 Wall of Omens
+4 Magus of the Moon
+4 Sacred Foundry
 4 Ephemerate
 4 Inspiring Vantage
 4 Akoum Warrior
@@ -218,22 +218,31 @@
 8 Snow-Covered Plains
 9 Snow-Covered Plains
 10 Snow-Covered Plains
-1 Tale's End
 1 Spell Pierce
+1 Tale's End
 1 Detention Sphere
 1 Dovin's Veto
 2 Dovin's Veto
 3 Celestial Colonnade
 3 Supreme Verdict
-1 Hieroglyphic Illumination
-3 Teferi, Hero of Dominaria
-4 Misty Rainforest
 1 Mishra's Bauble
 2 Mishra's Bauble
 2 Logic Knot
 3 Mishra's Bauble
-4 Archmage's Charm
 4 Mishra's Bauble
+4 Archmage's Charm
+1 Steam Vents
+1 Raugrin Triome
+1 Lightning Bolt
+1 Lightning Helix
+1 Mountain
+2 Lightning Bolt
+2 Steam Vents
+2 Lightning Helix
+3 Scalding Tarn
+3 Lightning Bolt
+4 Lightning Bolt
+4 Scalding Tarn
 1 Elspeth, Sun's Nemesis
 1 Karn, the Great Creator
 2 Karn, the Great Creator
@@ -241,15 +250,6 @@
 3 Spell Snare
 4 Narset, Parter of Veils
 7 Island
-1 Raugrin Triome
-1 Steam Vents
-1 Lightning Bolt
-1 Lightning Helix
-1 Mountain
-2 Steam Vents
-2 Lightning Bolt
-2 Lightning Helix
-3 Lightning Bolt
-3 Scalding Tarn
-4 Lightning Bolt
-4 Scalding Tarn
+1 Hieroglyphic Illumination
+3 Teferi, Hero of Dominaria
+4 Misty Rainforest

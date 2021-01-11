@@ -1,16 +1,16 @@
 2 Reanimate
 1 Stubborn Denial
-2 Brazen Borrower
 4 Polluted Delta
+2 Brazen Borrower
 1 Verdant Catacombs
 2 Force of Negation
 4 Flooded Strand
 1 Preordain
 2 Stubborn Denial
-1 Bloodstained Mire
-2 Verdant Catacombs
 1 Marsh Flats
 2 Marsh Flats
+1 Bloodstained Mire
+2 Verdant Catacombs
 1 Stifle
 2 Stifle
 1 Island
@@ -24,9 +24,10 @@
 3 Marsh Flats
 1 Tropical Island
 4 Marsh Flats
-3 Ethereal Forager
+1 Drown in the Loch
 3 Scalding Tarn
 4 Scalding Tarn
+3 Ethereal Forager
 1 Dreadhorde Arcanist
 1 Lightning Bolt
 1 Steam Vents
@@ -39,7 +40,6 @@
 1 Oko, Thief of Crowns
 1 Abrupt Decay
 2 Oko, Thief of Crowns
-1 Drown in the Loch
 1 Forest
 1 Uro, Titan of Nature's Wrath
 1 Bayou
@@ -61,6 +61,8 @@
 3 Stubborn Denial
 4 Stubborn Denial
 4 Misty Rainforest
+2 Drown in the Loch
+1 Cling to Dust
 1 Dark Depths
 1 Thespian's Stage
 1 Opposition Agent
@@ -70,7 +72,6 @@
 1 Ghost Quarter
 1 Volrath's Stronghold
 2 Opposition Agent
-2 Drown in the Loch
 2 Jace, the Mind Sculptor
 3 Tropical Island
 1 Creeping Tar Pit
@@ -80,7 +81,6 @@
 1 Taiga
 1 Raven's Crime
 1 Flux
-1 Cling to Dust
 1 The Gitrog Monster
 1 Cephalid Coliseum
 2 Life from the Loam
@@ -122,9 +122,36 @@
 1 The Royal Scions
 2 The Royal Scions
 4 Lightning Bolt
-1 Lim-Dul's Vault
+1 Court of Cunning
+1 Thieves' Guild Enforcer
+1 Soaring Thought-Thief
+1 Nighthawk Scavenger
+1 Spellstutter Sprite
+1 Bitterblossom
+1 Oona's Blackguard
+1 Cunning Nightbonder
+1 Plague Engineer
+2 Island
+2 Cling to Dust
+2 Soaring Thought-Thief
+2 Thieves' Guild Enforcer
+2 Nighthawk Scavenger
+2 Spellstutter Sprite
+2 Bitterblossom
+2 Oona's Blackguard
+2 Cunning Nightbonder
+2 Swamp
+3 Underground Sea
+3 Bitterblossom
+3 Thieves' Guild Enforcer
+3 Soaring Thought-Thief
+3 Cunning Nightbonder
+3 Spellstutter Sprite
+4 Thieves' Guild Enforcer
+4 Spellstutter Sprite
 1 Tarnished Citadel
 1 Mishra's Bauble
+1 Lim-Dul's Vault
 1 Overgrown Tomb
 1 Berserk
 1 Inquisition of Kozilek

@@ -1,4 +1,4 @@
-4 Skyclave Apparition
+4 Isolate
 4 Reflector Mage
 4 Island
 5 Plains
@@ -83,15 +83,16 @@
 2 Lovestruck Beast
 2 Questing Beast
 2 Rhonas the Indomitable
+2 Breeding Pool
 2 Scavenging Ooze
 2 Elder Gargaroth
 2 Bonecrusher Giant
 2 Vivien, Arkbow Ranger
 2 Spirebluff Canal
-2 Breeding Pool
 2 Cragcrown Pathway
 3 Lovestruck Beast
 3 Elder Gargaroth
+3 Breeding Pool
 3 Questing Beast
 3 Scavenging Ooze
 3 Llanowar Elves
@@ -100,20 +101,19 @@
 3 Bonecrusher Giant
 3 Vivien, Arkbow Ranger
 3 Spirebluff Canal
-3 Breeding Pool
 4 Lovestruck Beast
-4 Questing Beast
 4 Elder Gargaroth
-4 Scavenging Ooze
 4 Breeding Pool
+4 Scavenging Ooze
 4 Elvish Mystic
 4 Vivien, Arkbow Ranger
 4 Spirebluff Canal
 4 Cragcrown Pathway
 4 Bonecrusher Giant
+4 Questing Beast
 4 Llanowar Elves
-1 Satyr Wayfinder
 1 Claim / Fame
+1 Satyr Wayfinder
 1 Magmatic Channeler
 2 Magmatic Channeler
 2 Satyr Wayfinder
@@ -211,7 +211,6 @@
 1 Voice of Resurgence
 1 Branchloft Pathway
 1 Temple Garden
-1 Legion's Landing
 1 Elspeth, Sun's Champion
 1 Gideon, Ally of Zendikar
 1 Saproling Migration
@@ -221,6 +220,7 @@
 1 Brimaz, King of Oreskos
 1 Trostani Discordant
 1 Oath of Gideon
+1 Legion's Landing
 1 Raise the Alarm
 1 Conclave Tribunal
 1 Nissa, Voice of Zendikar
@@ -230,19 +230,19 @@
 2 Branchloft Pathway
 2 Temple Garden
 2 Castle Ardenvale
-2 Legion's Landing
 2 Raise the Alarm
 2 Conclave Tribunal
 2 Brimaz, King of Oreskos
 2 Forest
 2 Trostani Discordant
+2 Legion's Landing
 2 Nissa, Voice of Zendikar
 2 Anointed Procession
 2 Saproling Migration
 2 Sunpetal Grove
 3 Omen of the Sun
-3 Branchloft Pathway
 3 Temple Garden
+3 Branchloft Pathway
 3 Voice of Resurgence
 3 Legion's Landing
 3 Anointed Procession
@@ -253,12 +253,51 @@
 3 Conclave Tribunal
 3 Forest
 4 Voice of Resurgence
-4 Branchloft Pathway
 4 Temple Garden
+4 Branchloft Pathway
 4 Nissa, Voice of Zendikar
 4 Saproling Migration
 4 Raise the Alarm
 4 Sunpetal Grove
+1 Zulaport Cutthroat
+1 Priest of Forgotten Gods
+1 Gilded Goose
+1 Llanowar Wastes
+1 Collected Company
+1 Bolas's Citadel
+1 Catacomb Sifter
+1 Woe Strider
+1 Blisterpod
+1 Mayhem Devil
+2 Priest of Forgotten Gods
+2 Gilded Goose
+2 Llanowar Wastes
+2 Collected Company
+2 Bolas's Citadel
+2 Mayhem Devil
+2 Blisterpod
+2 Woe Strider
+2 Zulaport Cutthroat
+2 Catacomb Sifter
+3 Gilded Goose
+3 Llanowar Wastes
+3 Collected Company
+3 Blisterpod
+3 Mayhem Devil
+3 Catacomb Sifter
+3 Woe Strider
+3 Zulaport Cutthroat
+3 Bolas's Citadel
+3 Priest of Forgotten Gods
+4 Woe Strider
+4 Gilded Goose
+4 Collected Company
+4 Priest of Forgotten Gods
+4 Catacomb Sifter
+4 Blisterpod
+4 Zulaport Cutthroat
+4 Bolas's Citadel
+4 Mayhem Devil
 1 Of One Mind
 1 Zagoth Triome
 1 Heartless Act
@@ -267,45 +306,6 @@
 3 Of One Mind
 3 Agadeem's Awakening
 4 Into the Story
-1 Zulaport Cutthroat
-1 Priest of Forgotten Gods
-1 Gilded Goose
-1 Llanowar Wastes
-1 Bolas's Citadel
-1 Catacomb Sifter
-1 Woe Strider
-1 Collected Company
-1 Blisterpod
-1 Mayhem Devil
-2 Priest of Forgotten Gods
-2 Gilded Goose
-2 Llanowar Wastes
-2 Bolas's Citadel
-2 Collected Company
-2 Mayhem Devil
-2 Blisterpod
-2 Woe Strider
-2 Zulaport Cutthroat
-2 Catacomb Sifter
-3 Gilded Goose
-3 Llanowar Wastes
-3 Blisterpod
-3 Mayhem Devil
-3 Catacomb Sifter
-3 Woe Strider
-3 Zulaport Cutthroat
-3 Bolas's Citadel
-3 Collected Company
-3 Priest of Forgotten Gods
-4 Woe Strider
-4 Gilded Goose
-4 Priest of Forgotten Gods
-4 Catacomb Sifter
-4 Blisterpod
-4 Zulaport Cutthroat
-4 Bolas's Citadel
-4 Mayhem Devil
-4 Collected Company
 1 Cathartic Reunion
 1 Gather the Pack
 1 Lotleth Troll

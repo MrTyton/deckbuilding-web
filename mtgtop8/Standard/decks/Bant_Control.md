@@ -36,8 +36,8 @@
 |                    3|[Cultivate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442154)              |                     |              |
 |                    3|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)           |                     |              |
 |                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)         |                     |              |
-|                    4|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)      |                     |              |
 |                    4|[Temple of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378537)       |                     |              |
+|                    4|[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373571)      |                     |              |
 |                    4|[Trail of Crumbs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473141)        |                     |              |
 |                    4|[Wicked Wolf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473143)            |                     |              |
 |                    4|[Elspeth Conquers Death](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476264) |                     |              |
