@@ -11,8 +11,8 @@
 2 Once Upon a Time
 3 Dryad of the Ilysian Grove
 3 Elvish Reclaimer
-3 Flagstones of Trokair
 3 Skyclave Apparition
+3 Flagstones of Trokair
 3 Once Upon a Time
 4 Once Upon a Time
 4 Flagstones of Trokair
@@ -43,11 +43,11 @@
 1 True-Name Nemesis
 1 Abrupt Decay
 1 Bayou
-1 Spell Queller
 1 Leovold, Emissary of Trest
 1 Phyrexian Revoker
 1 Vendilion Clique
 1 Voice of Resurgence
+1 Spell Queller
 1 Plague Engineer
 1 Palace Jailer
 1 Fauna Shaman
@@ -130,17 +130,17 @@
 3 Krark, the Thumbless
 3 Ponder
 3 Of One Mind
-4 Lightning Bolt
 4 Scalding Tarn
+4 Lightning Bolt
 4 Ponder
 1 Legion Warboss
 1 Goblin Rabblemaster
-1 Sunbaked Canyon
+1 Embercleave
 1 Winota, Joiner of Forces
+1 Sunbaked Canyon
 1 Mountain
 1 Blood Sun
 1 Trinisphere
-1 Embercleave
 1 Cavern of Souls
 1 Simian Spirit Guide
 1 Talisman of Conviction
@@ -152,13 +152,13 @@
 1 Chalice of the Void
 1 Angrath's Marauders
 1 Chrome Mox
+2 Plateau
 2 Goblin Rabblemaster
 2 Legion Warboss
 2 Trinisphere
-2 Cavern of Souls
 2 Winota, Joiner of Forces
+2 Cavern of Souls
 2 Blood Sun
-2 Plateau
 2 Seasoned Pyromancer
 2 City of Traitors
 2 Angrath's Marauders
@@ -169,10 +169,10 @@
 3 Goblin Rabblemaster
 3 Legion Warboss
 3 Trinisphere
+3 Winota, Joiner of Forces
 3 Cavern of Souls
 3 Seasoned Pyromancer
 3 City of Traitors
-3 Winota, Joiner of Forces
 3 Simian Spirit Guide
 3 Plateau
 3 Ancient Tomb
@@ -189,7 +189,6 @@
 4 Plateau
 4 Angrath's Marauders
 1 Island
-1 Mausoleum Wanderer
 1 Force of Negation
 1 Flusterstorm
 1 Skaab Ruinator
@@ -198,6 +197,7 @@
 1 Ninja of the Deep Hours
 1 Nivmagus Elemental
 1 Brazen Borrower
+1 Mausoleum Wanderer
 1 Disrupting Shoal
 1 Sky Hussar
 1 Martyr of Frost
@@ -206,26 +206,26 @@
 2 Umezawa's Jitte
 2 Brazen Borrower
 2 Flusterstorm
-2 Mausoleum Wanderer
 2 Ancestral Vision
 2 Nivmagus Elemental
 2 Ninja of the Deep Hours
 2 Sky Hussar
 2 Martyr of Frost
+2 Mausoleum Wanderer
 2 Force of Negation
 2 Spellstutter Sprite
 2 Disrupting Shoal
 2 Judge's Familiar
 3 Island
-3 Mausoleum Wanderer
 3 Flusterstorm
 3 Judge's Familiar
+3 Mausoleum Wanderer
 3 Sky Hussar
 3 Martyr of Frost
 4 Island
-4 Mausoleum Wanderer
 4 Judge's Familiar
 4 Sky Hussar
+4 Mausoleum Wanderer
 5 Island
 6 Island
 7 Island
