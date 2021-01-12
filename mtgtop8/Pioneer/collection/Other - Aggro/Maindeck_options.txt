@@ -17,28 +17,28 @@
 1 Blood Crypt
 2 Overgrown Tomb
 2 Blood Crypt
-3 Blooming Marsh
 3 Overgrown Tomb
+3 Blooming Marsh
 4 Blooming Marsh
 1 Swamp
-1 Grapple with the Past
-1 Grisly Salvage
 1 Soulflayer
 1 Traverse the Ulvenwald
 1 Stitcher's Supplier
 1 Zetalpa, Primal Dawn
+1 Grisly Salvage
 1 Samut, Voice of Dissent
 1 Woodland Cemetery
+1 Grapple with the Past
 1 Mountain
 1 Nullhide Ferox
-2 Grapple with the Past
-2 Grisly Salvage
 2 Woodland Cemetery
 2 Traverse the Ulvenwald
 2 Nullhide Ferox
 2 Samut, Voice of Dissent
 2 Zetalpa, Primal Dawn
+2 Grisly Salvage
 2 Stitcher's Supplier
+2 Grapple with the Past
 2 Soulflayer
 3 Zetalpa, Primal Dawn
 3 Traverse the Ulvenwald
@@ -108,10 +108,10 @@
 2 Spirebluff Canal
 2 Cragcrown Pathway
 3 Lovestruck Beast
-3 Elder Gargaroth
 3 Breeding Pool
 3 Questing Beast
 3 Scavenging Ooze
+3 Elder Gargaroth
 3 Llanowar Elves
 3 Elvish Mystic
 3 Cragcrown Pathway
@@ -119,9 +119,9 @@
 3 Vivien, Arkbow Ranger
 3 Spirebluff Canal
 4 Lovestruck Beast
+4 Breeding Pool
 4 Questing Beast
 4 Elder Gargaroth
-4 Breeding Pool
 4 Scavenging Ooze
 4 Elvish Mystic
 4 Vivien, Arkbow Ranger
@@ -130,18 +130,19 @@
 4 Bonecrusher Giant
 4 Llanowar Elves
 1 Mystical Dispute
+1 Mutavault
+2 Mutavault
 1 Merfolk Windrobber
 1 Agadeem's Awakening
 1 Soaring Thought-Thief
 1 Thieves' Guild Enforcer
-1 Into the Story
 1 Drown in the Loch
 1 Watery Grave
+1 Into the Story
 1 Eliminate
 1 Thoughtseize
 1 Urborg, Tomb of Yawgmoth
 1 Deathrite Shaman
-1 Mutavault
 1 Cling to Dust
 1 Clearwater Pathway
 1 Fatal Push
@@ -154,7 +155,6 @@
 2 Into the Story
 2 Fatal Push
 2 Thoughtseize
-2 Mutavault
 2 Deathrite Shaman
 2 Clearwater Pathway
 3 Merfolk Windrobber
@@ -192,13 +192,13 @@
 3 Blood Crypt
 4 Overgrown Tomb
 4 Blood Crypt
+3 Mutavault
 1 Sea Gate Stormcaller
 1 Chart a Course
 2 Sea Gate Stormcaller
 2 Chart a Course
 2 Cling to Dust
 3 Fatal Push
-3 Mutavault
 1 Stubborn Denial
 2 Stubborn Denial
 3 Stubborn Denial
@@ -220,9 +220,9 @@
 1 Anointed Procession
 1 Brimaz, King of Oreskos
 1 Trostani Discordant
+1 Raise the Alarm
 1 Oath of Gideon
 1 Legion's Landing
-1 Raise the Alarm
 1 Conclave Tribunal
 1 Nissa, Voice of Zendikar
 2 Omen of the Sun
@@ -260,6 +260,27 @@
 4 Saproling Migration
 4 Raise the Alarm
 4 Sunpetal Grove
+1 Of One Mind
+1 Zagoth Triome
+1 Heartless Act
+2 Of One Mind
+2 Zagoth Triome
+3 Of One Mind
+3 Agadeem's Awakening
+4 Into the Story
+1 Cathartic Reunion
+1 Gather the Pack
+1 Lotleth Troll
+2 Cathartic Reunion
+2 Murderous Rider
+2 Gather the Pack
+3 Cathartic Reunion
+3 Gather the Pack
+3 Samut, Voice of Dissent
+3 Murderous Rider
+4 Murderous Rider
+4 Samut, Voice of Dissent
+4 Cathartic Reunion
 1 Llanowar Wastes
 1 Zulaport Cutthroat
 1 Priest of Forgotten Gods
@@ -297,29 +318,65 @@
 4 Catacomb Sifter
 4 Blisterpod
 4 Zulaport Cutthroat
-4 Bolas's Citadel
 4 Mayhem Devil
-1 Of One Mind
-1 Zagoth Triome
-1 Heartless Act
-2 Of One Mind
-2 Zagoth Triome
-3 Of One Mind
-3 Agadeem's Awakening
-4 Into the Story
-1 Cathartic Reunion
-1 Gather the Pack
-1 Lotleth Troll
-2 Cathartic Reunion
-2 Murderous Rider
-2 Gather the Pack
-3 Cathartic Reunion
-3 Gather the Pack
-3 Samut, Voice of Dissent
-3 Murderous Rider
-4 Murderous Rider
-4 Samut, Voice of Dissent
-4 Cathartic Reunion
+4 Bolas's Citadel
 1 Vampire of the Dire Moon
 2 Vampire of the Dire Moon
 4 Nullhide Ferox
+1 Brightclimb Pathway
+1 Godless Shrine
+1 Shadowspear
+1 Open the Armory
+1 Kor Blademaster
+1 Caves of Koilos
+1 Concealed Courtyard
+1 Mardu Shadowspear
+1 Sigarda's Aid
+1 Resolute Strike
+1 Wishclaw Talisman
+1 Bloodsoaked Champion
+1 Gods Willing
+1 Colossus Hammer
+1 Blood-Chin Rager
+1 Mardu Woe-Reaper
+2 Godless Shrine
+2 Brightclimb Pathway
+2 Open the Armory
+2 Concealed Courtyard
+2 Sigarda's Aid
+2 Resolute Strike
+2 Colossus Hammer
+2 Gods Willing
+2 Bloodsoaked Champion
+2 Kor Blademaster
+2 Blood-Chin Rager
+2 Mardu Woe-Reaper
+2 Caves of Koilos
+2 Mardu Shadowspear
+2 Wishclaw Talisman
+3 Brightclimb Pathway
+3 Open the Armory
+3 Mardu Woe-Reaper
+3 Kor Blademaster
+3 Caves of Koilos
+3 Mardu Shadowspear
+3 Wishclaw Talisman
+3 Concealed Courtyard
+3 Sigarda's Aid
+3 Resolute Strike
+3 Colossus Hammer
+3 Godless Shrine
+3 Bloodsoaked Champion
+3 Blood-Chin Rager
+4 Brightclimb Pathway
+4 Godless Shrine
+4 Sigarda's Aid
+4 Caves of Koilos
+4 Open the Armory
+4 Mardu Shadowspear
+4 Concealed Courtyard
+4 Colossus Hammer
+4 Resolute Strike
+4 Mardu Woe-Reaper
+4 Kor Blademaster
+4 Mutavault

@@ -1,10 +1,10 @@
-4 Giver of Runes
 1 Spell Queller
 2 Spell Queller
 1 Glasspool Mimic
 2 Glasspool Mimic
 3 Glasspool Mimic
 4 Glasspool Mimic
+4 Giver of Runes
 6 Plains
 3 Spell Queller
 1 Maul of the Skyclaves
@@ -21,8 +21,8 @@
 3 Watcher for Tomorrow
 1 Cavern of Souls
 2 Cavern of Souls
-1 Flooded Strand
 1 Mystic Sanctuary
+1 Flooded Strand
 1 Jace, the Mind Sculptor
 2 Flooded Strand
 2 Mystic Sanctuary
@@ -151,14 +151,6 @@
 2 Glacial Fortress
 3 Mana Leak
 1 Castle Ardenvale
-2 Snow-Covered Plains
-3 Snow-Covered Plains
-4 Snow-Covered Plains
-5 Snow-Covered Plains
-6 Snow-Covered Plains
-1 Wall of Omens
-2 Wall of Omens
-3 Wall of Omens
 1 Peek
 2 Peek
 1 Entreat the Angels
@@ -173,51 +165,24 @@
 4 Counterbalance
 1 Timely Reinforcements
 2 Vendilion Clique
+1 Restoration Angel
+2 Restoration Angel
+3 Selfless Savior
 1 Castle Vantress
 1 Geier Reach Sanitarium
 1 Emeria's Call
 1 Elspeth Conquers Death
-1 Restoration Angel
-2 Restoration Angel
-3 Selfless Savior
+1 Wall of Omens
+2 Wall of Omens
+3 Wall of Omens
 1 Meddling Mage
+2 Snow-Covered Plains
 2 Meddling Mage
+3 Snow-Covered Plains
 3 Meddling Mage
-1 Akroma, Angel of Fury
-1 Inspiring Vantage
-1 Ephemerate
-1 Snow-Covered Mountain
-1 Sacred Foundry
-1 Glimmerpoint Stag
-1 Magus of the Moon
-1 Akoum Warrior
-1 Auriok Champion
-2 Inspiring Vantage
-2 Sacred Foundry
-2 Akroma, Angel of Fury
-2 Glimmerpoint Stag
-2 Ephemerate
-2 Akoum Warrior
-2 Magus of the Moon
-2 Auriok Champion
-3 Inspiring Vantage
-3 Sacred Foundry
-3 Magus of the Moon
-3 Ephemerate
-3 Akoum Warrior
-3 Glimmerpoint Stag
-3 Akroma, Angel of Fury
-4 Sacred Foundry
-4 Magus of the Moon
-4 Wall of Omens
-4 Ephemerate
-4 Inspiring Vantage
-4 Akoum Warrior
-4 Akroma, Angel of Fury
-7 Snow-Covered Plains
-8 Snow-Covered Plains
-9 Snow-Covered Plains
-10 Snow-Covered Plains
+4 Snow-Covered Plains
+5 Snow-Covered Plains
+6 Snow-Covered Plains
 1 Spell Pierce
 1 Tale's End
 1 Detention Sphere
@@ -241,14 +206,14 @@
 3 Spell Snare
 4 Narset, Parter of Veils
 7 Island
+1 Lightning Helix
 1 Raugrin Triome
 1 Steam Vents
-1 Lightning Bolt
-1 Lightning Helix
 1 Mountain
+1 Lightning Bolt
+2 Lightning Helix
 2 Steam Vents
 2 Lightning Bolt
-2 Lightning Helix
 3 Lightning Bolt
 3 Scalding Tarn
 4 Lightning Bolt

@@ -60,12 +60,12 @@
 1 Eladamri's Call
 1 Show and Tell
 1 City of Traitors
+2 Snow-Covered Forest
 2 Veil of Summer
 2 Emrakul, the Aeons Torn
 2 Omniscience
 2 Cunning Wish
 2 Intuition
-2 Snow-Covered Forest
 2 Show and Tell
 2 City of Traitors
 3 Show and Tell
@@ -117,9 +117,9 @@
 1 Snow-Covered Swamp
 1 Street Wraith
 1 Lion's Eye Diamond
+1 Cavern of Souls
 1 Ideas Unbound
 1 Thassa's Oracle
-1 Cavern of Souls
 1 Edge of Autumn
 1 Doomsday
 1 Underground Sea
@@ -159,12 +159,6 @@
 2 Temporal Mastery
 3 Temporal Mastery
 3 Counterbalance
-1 Thoughtseize
-1 Orim's Chant
-1 Scrubland
-2 Thoughtseize
-3 Underground Sea
-4 Preordain
 1 Court of Cunning
 1 Dovin's Veto
 1 Humility
@@ -189,17 +183,14 @@
 3 Mox Diamond
 4 Frantic Inventory
 4 Aria of Flame
-1 Detention Sphere
-1 Solitary Confinement
-1 True-Name Nemesis
-1 Trade Routes
-1 Web of Inertia
-3 Plains
-3 Enlightened Tutor
-4 Plains
-4 Enlightened Tutor
-5 Plains
-6 Plains
+2 Stifle
+4 Wasteland
+1 Thoughtseize
+1 Orim's Chant
+1 Scrubland
+2 Thoughtseize
+3 Underground Sea
+4 Preordain
 1 Mox Opal
 1 Firestorm
 1 Pyrite Spellbomb
@@ -209,11 +200,20 @@
 2 Firestorm
 2 Path to Exile
 2 Urza, Lord High Artificer
-3 Snow-Covered Plains
 3 Mox Opal
+3 Snow-Covered Plains
 4 Snow-Covered Plains
 4 Lotus Petal
 5 Snow-Covered Plains
 7 Snow-Covered Island
-2 Stifle
-4 Wasteland
+1 Detention Sphere
+1 Solitary Confinement
+1 True-Name Nemesis
+1 Trade Routes
+1 Web of Inertia
+3 Enlightened Tutor
+3 Plains
+4 Plains
+4 Enlightened Tutor
+5 Plains
+6 Plains

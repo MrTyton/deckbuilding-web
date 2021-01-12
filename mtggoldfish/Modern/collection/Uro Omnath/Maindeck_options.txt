@@ -16,12 +16,12 @@
 4 Windswept Heath
 1 Skyclave Apparition
 2 Skyclave Apparition
-1 Eternal Witness
-1 Sacred Foundry
 1 Noble Hierarch
+1 Sacred Foundry
+1 Eternal Witness
 1 Wall of Blossoms
-2 Wall of Blossoms
 2 Snow-Covered Forest
+2 Wall of Blossoms
 3 Wall of Blossoms
 1 Oath of Nissa
 2 Oath of Nissa
@@ -49,8 +49,8 @@
 2 Wooded Foothills
 1 Coiling Oracle
 1 Abundant Growth
-2 Coiling Oracle
 2 Abundant Growth
+2 Coiling Oracle
 3 Coiling Oracle
 4 Coiling Oracle
 4 Noble Hierarch
@@ -65,11 +65,11 @@
 1 Gilded Goose
 1 Mountain
 1 Scavenging Ooze
-1 Glen Elendra Archmage
+1 Kiki-Jiki, Mirror Breaker
 1 Batterskull
+1 Glen Elendra Archmage
 1 Sword of Fire and Ice
 1 Eldritch Evolution
-1 Kiki-Jiki, Mirror Breaker
 1 Chord of Calling
 1 Verdant Catacombs
 1 Stoneforge Mystic
@@ -101,27 +101,27 @@
 3 Field of the Dead
 2 Gilded Goose
 4 Wrenn and Six
-1 Karn, the Great Creator
 1 Lotus Cobra
-2 Karn, the Great Creator
+1 Karn, the Great Creator
 2 Forest
-2 Lotus Cobra
 2 Breeding Pool
+2 Lotus Cobra
+2 Karn, the Great Creator
 3 Karn, the Great Creator
 3 Lotus Cobra
-4 Karn, the Great Creator
-4 Omnath, Locus of Creation
 4 Lotus Cobra
-1 Reflecting Pool
-1 Grove of the Burnwillows
-2 Scavenging Ooze
+4 Omnath, Locus of Creation
+4 Karn, the Great Creator
 2 Snow-Covered Plains
+1 Grove of the Burnwillows
+1 Reflecting Pool
+2 Scavenging Ooze
 1 Flame Slash
 2 Eladamri's Call
 1 Spell Snare
 1 Oboro, Palace in the Clouds
-1 Lonely Sandbar
 1 Mystical Dispute
+1 Lonely Sandbar
 2 Time Warp
 3 Mystic Sanctuary
 1 Prismatic Vista

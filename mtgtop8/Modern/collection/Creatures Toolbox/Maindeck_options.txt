@@ -1,11 +1,12 @@
-1 Wooded Foothills
-2 Wooded Foothills
+2 Scavenging Ooze
 1 Gavony Township
-1 Misty Rainforest
+1 Wooded Foothills
 1 Verdant Catacombs
+2 Wooded Foothills
 2 Prismatic Vista
 1 Razorverge Thicket
 2 Razorverge Thicket
+1 Stomping Ground
 1 Snow-Covered Plains
 3 Wooded Foothills
 1 Birds of Paradise
@@ -13,7 +14,8 @@
 1 Noble Hierarch
 2 Noble Hierarch
 2 Snow-Covered Plains
-1 Stomping Ground
+2 Misty Rainforest
+3 Misty Rainforest
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
@@ -34,10 +36,8 @@
 1 Restoration Angel
 2 Flooded Strand
 2 Restoration Angel
-2 Misty Rainforest
 2 Eternal Witness
 3 Flooded Strand
-3 Misty Rainforest
 1 Eldritch Evolution
 2 Eldritch Evolution
 4 Birds of Paradise
@@ -69,12 +69,12 @@
 3 Verdant Catacombs
 3 Noble Hierarch
 4 Horizon Canopy
+2 Giver of Runes
 1 Overgrown Tomb
 4 Noble Hierarch
 3 Eldritch Evolution
 1 Snow-Covered Island
 1 Ketria Triome
-1 Spellskite
 1 Godless Shrine
 4 Verdant Catacombs
 1 Marsh Flats
@@ -87,7 +87,6 @@
 1 Viscera Seer
 2 Devoted Druid
 2 Kitchen Finks
-2 Giver of Runes
 2 Finale of Devastation
 2 Vizier of Remedies
 3 Kitchen Finks
@@ -95,6 +94,7 @@
 3 Vizier of Remedies
 4 Devoted Druid
 4 Auriok Champion
+3 Eladamri's Call
 1 Twilight Mire
 1 Blooming Marsh
 1 Swamp
@@ -166,15 +166,16 @@
 4 Ice-Fang Coatl
 4 Ephemerate
 4 Flooded Strand
+1 Spellskite
 1 Zulaport Cutthroat
 1 Hapatra, Vizier of Poisons
+3 Skyclave Apparition
 1 Anafenza, Kin-Tree Spirit
 1 Hardened Scales
 2 Anafenza, Kin-Tree Spirit
 2 Hardened Scales
 3 Walking Ballista
 3 Razorverge Thicket
-3 Eladamri's Call
 4 Snow-Covered Forest
 5 Snow-Covered Forest
 6 Forest
