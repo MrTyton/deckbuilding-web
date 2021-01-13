@@ -1,6 +1,5 @@
-7 Mountain
-3 Light Up the Stage
-4 Light Up the Stage
+1 Light Up the Stage
+2 Light Up the Stage
 8 Mountain
 9 Mountain
 10 Mountain
@@ -9,12 +8,17 @@
 13 Mountain
 14 Mountain
 15 Mountain
+1 Arid Mesa
+1 Bloodstained Mire
+2 Bloodstained Mire
 16 Mountain
+3 Light Up the Stage
+4 Light Up the Stage
 1 Blood Moon
 2 Blood Moon
+1 Lava Dart
 1 Firebolt
 1 Soul-Scar Mage
-1 Lava Dart
 2 Firebolt
 2 Lava Dart
 2 Soul-Scar Mage
@@ -33,52 +37,51 @@
 4 Seasoned Pyromancer
 4 Firebolt
 4 Blood Moon
-2 Wooded Foothills
 4 Lava Dart
+2 Arid Mesa
 3 Bonecrusher Giant
 4 Bonecrusher Giant
 3 Bomat Courier
-1 Arid Mesa
-1 Bloodstained Mire
-2 Bloodstained Mire
-2 Arid Mesa
-4 Bomat Courier
 17 Mountain
+4 Bomat Courier
 1 Blast Zone
 2 Blast Zone
 1 Flame Slash
 3 Lightning Helix
-3 Arid Mesa
-4 Arid Mesa
-2 Fiery Islet
-4 Searing Blaze
-2 Flame Slash
-3 Sacred Foundry
 1 Shard Volley
 4 Skullcrack
+3 Arid Mesa
+4 Arid Mesa
+4 Searing Blaze
+2 Fiery Islet
+3 Sacred Foundry
+2 Flame Slash
 3 Wooded Foothills
 3 Bloodstained Mire
+1 Wayward Guide-Beast
+2 Wayward Guide-Beast
+3 Wayward Guide-Beast
+4 Wayward Guide-Beast
+1 Grim Lavamancer
+2 Shard Volley
 4 Wooded Foothills
 1 Ramunap Ruins
-1 Burst Lightning
 1 Castle Embereth
 2 Castle Embereth
 1 Rampaging Ferocidon
-1 Grim Lavamancer
-2 Shard Volley
 2 Rampaging Ferocidon
 1 Forgotten Cave
 2 Forgotten Cave
 3 Flame Slash
 4 Flame Slash
-1 Scalding Tarn
-2 Scalding Tarn
-3 Scalding Tarn
-4 Scalding Tarn
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Lightning Helix
+1 Scalding Tarn
+2 Scalding Tarn
+3 Scalding Tarn
+4 Scalding Tarn
 1 Copperline Gorge
 1 Bloodbraid Elf
 1 Atarka's Command
@@ -95,17 +98,13 @@
 3 Klothys, God of Destiny
 4 Copperline Gorge
 4 Atarka's Command
-1 Wayward Guide-Beast
-2 Wayward Guide-Beast
-3 Wayward Guide-Beast
-4 Wayward Guide-Beast
 1 Kiln Fiend
 1 Crash Through
 1 Abrade
 1 Manamorphose
 1 Bedlam Reveler
-2 Crash Through
 2 Kiln Fiend
+2 Crash Through
 2 Bedlam Reveler
 2 Abrade
 2 Manamorphose
@@ -115,5 +114,6 @@
 3 Manamorphose
 4 Crash Through
 4 Manamorphose
+18 Mountain
 4 Sacred Foundry
 4 Bloodstained Mire

@@ -2,8 +2,8 @@
 2 Growth Spiral
 1 Remand
 1 Scalding Tarn
-1 Nexus of Fate
 1 Fact or Fiction
+1 Nexus of Fate
 1 Wilderness Reclamation
 2 Fact or Fiction
 2 Remand
@@ -27,9 +27,9 @@
 1 Ice-Fang Coatl
 1 Blast Zone
 2 Ice-Fang Coatl
+3 Mystic Sanctuary
 3 Ice-Fang Coatl
 3 Breeding Pool
-3 Mystic Sanctuary
 4 Snow-Covered Island
 5 Snow-Covered Island
 6 Snow-Covered Island
@@ -39,16 +39,16 @@
 3 Wilderness Reclamation
 1 Emry, Lurker of the Loch
 1 Mox Amber
-1 Engineered Explosives
-1 Urza, Lord High Artificer
 1 Soul-Guide Lantern
+1 Urza, Lord High Artificer
 1 Gilded Goose
+1 Engineered Explosives
 1 Mishra's Bauble
 2 Emry, Lurker of the Loch
 2 Urza, Lord High Artificer
-2 Engineered Explosives
 2 Gilded Goose
 2 Mishra's Bauble
+2 Engineered Explosives
 3 Gilded Goose
 3 Urza, Lord High Artificer
 3 Mishra's Bauble
@@ -92,9 +92,9 @@
 1 Sunken Hollow
 1 Shark Typhoon
 2 Shark Typhoon
+1 Pithing Needle
 1 Sword of the Meek
 1 Thopter Foundry
-1 Pithing Needle
 1 Whir of Invention
 2 Thopter Foundry
 2 Whir of Invention
@@ -116,7 +116,7 @@
 3 Tireless Tracker
 4 Island
 5 Island
-1 Cavern of Souls
+1 Explore
 1 Valakut, the Molten Pinnacle
 1 Vesuva
 1 Dryad of the Ilysian Grove
@@ -124,19 +124,19 @@
 1 Summoner's Pact
 1 Radiant Fountain
 1 Bojuka Bog
+1 Reclamation Sage
 1 Arboreal Grazer
 1 Simic Growth Chamber
 1 Castle Garenbrig
 1 Gruul Turf
 1 Amulet of Vigor
 1 Golgari Rot Farm
+1 Cavern of Souls
 1 Primal Command
 1 Tolaria West
-1 Reclamation Sage
-1 Explore
 1 Sakura-Tribe Scout
 1 Hanweir Battlements
-2 Forest
+2 Snow-Covered Forest
 2 Primeval Titan
 2 Valakut, the Molten Pinnacle
 2 Dryad of the Ilysian Grove
@@ -144,6 +144,7 @@
 2 Summoner's Pact
 2 Explore
 2 Amulet of Vigor
+2 Forest
 2 Gruul Turf
 2 Sakura-Tribe Scout
 2 Arboreal Grazer
@@ -151,7 +152,6 @@
 2 Tolaria West
 2 Cavern of Souls
 2 Castle Garenbrig
-2 Snow-Covered Forest
 3 Primeval Titan
 3 Dryad of the Ilysian Grove
 3 Turntimber Symbiosis

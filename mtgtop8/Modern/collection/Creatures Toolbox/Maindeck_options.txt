@@ -1,24 +1,21 @@
-2 Scavenging Ooze
 1 Gavony Township
 1 Wooded Foothills
-1 Verdant Catacombs
 2 Wooded Foothills
+2 Scavenging Ooze
+1 Verdant Catacombs
 2 Prismatic Vista
-1 Razorverge Thicket
-2 Razorverge Thicket
 1 Stomping Ground
-1 Snow-Covered Plains
 3 Wooded Foothills
 1 Birds of Paradise
 2 Birds of Paradise
 1 Noble Hierarch
 2 Noble Hierarch
-2 Snow-Covered Plains
+1 Razorverge Thicket
+2 Razorverge Thicket
+2 Giver of Runes
+1 Snow-Covered Plains
 2 Misty Rainforest
 3 Misty Rainforest
-1 Snow-Covered Forest
-2 Snow-Covered Forest
-3 Snow-Covered Forest
 1 Chord of Calling
 2 Chord of Calling
 3 Chord of Calling
@@ -26,75 +23,77 @@
 4 Chord of Calling
 4 Wooded Foothills
 1 Eternal Witness
-1 Sacred Foundry
-1 Seasoned Pyromancer
+1 Snow-Covered Forest
+2 Eternal Witness
+2 Snow-Covered Plains
 1 Raugrin Triome
+1 Seasoned Pyromancer
+1 Sacred Foundry
 1 Omnath, Locus of Creation
 1 Breeding Pool
 1 Flooded Strand
 1 Kiki-Jiki, Mirror Breaker
 1 Restoration Angel
-2 Flooded Strand
 2 Restoration Angel
-2 Eternal Witness
+2 Snow-Covered Forest
+2 Flooded Strand
+3 Snow-Covered Forest
 3 Flooded Strand
 1 Eldritch Evolution
 2 Eldritch Evolution
+1 Batterskull
+1 Stoneforge Mystic
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+4 Stoneforge Mystic
 4 Birds of Paradise
 1 Loaming Shaman
 1 Magus of the Moon
 1 Wall of Blossoms
 1 Sword of Fire and Ice
-1 Batterskull
 1 Uro, Titan of Nature's Wrath
 1 Wrenn and Six
-1 Stoneforge Mystic
 1 Eidolon of Rhetoric
 1 Path to Exile
 2 Sacred Foundry
 2 Wall of Blossoms
 2 Seasoned Pyromancer
 2 Path to Exile
-2 Stoneforge Mystic
 3 Restoration Angel
 3 Path to Exile
-3 Stoneforge Mystic
 3 Seasoned Pyromancer
 4 Restoration Angel
 4 Misty Rainforest
-4 Path to Exile
 4 Seasoned Pyromancer
-4 Stoneforge Mystic
-2 Verdant Catacombs
-3 Verdant Catacombs
+4 Path to Exile
 3 Noble Hierarch
 4 Horizon Canopy
-2 Giver of Runes
 1 Overgrown Tomb
 4 Noble Hierarch
-3 Eldritch Evolution
-1 Snow-Covered Island
-1 Ketria Triome
-1 Godless Shrine
-4 Verdant Catacombs
-1 Marsh Flats
 1 Devoted Druid
 1 Vizier of Remedies
-1 Shalai, Voice of Plenty
-1 Kitchen Finks
 1 Duskwatch Recruiter
 1 Finale of Devastation
-1 Viscera Seer
 2 Devoted Druid
-2 Kitchen Finks
-2 Finale of Devastation
 2 Vizier of Remedies
 3 Devoted Druid
-3 Kitchen Finks
 3 Vizier of Remedies
 4 Devoted Druid
+1 Godless Shrine
+3 Eldritch Evolution
+2 Verdant Catacombs
+3 Verdant Catacombs
+4 Verdant Catacombs
+1 Ketria Triome
+1 Snow-Covered Island
+1 Shalai, Voice of Plenty
+1 Kitchen Finks
+1 Marsh Flats
+1 Viscera Seer
+2 Kitchen Finks
+2 Finale of Devastation
+3 Kitchen Finks
 4 Auriok Champion
-3 Eladamri's Call
 1 Strangleroot Geist
 1 Khalni Garden
 1 Twilight Mire
@@ -106,11 +105,11 @@
 1 Yawgmoth, Thran Physician
 2 Strangleroot Geist
 2 Blooming Marsh
-2 Overgrown Tomb
 2 Geralf's Messenger
 2 Twilight Mire
-2 Yawgmoth, Thran Physician
+2 Overgrown Tomb
 2 Young Wolf
+2 Yawgmoth, Thran Physician
 2 Wall of Roots
 3 Strangleroot Geist
 3 Blooming Marsh
@@ -120,14 +119,16 @@
 3 Twilight Mire
 4 Strangleroot Geist
 4 Young Wolf
-4 Wall of Roots
 4 Eldritch Evolution
+4 Wall of Roots
 4 Twilight Mire
 1 Gilded Goose
 1 Aether Vial
 2 Aether Vial
 3 Aether Vial
 4 Aether Vial
+3 Razorverge Thicket
+3 Skyclave Apparition
 1 Reflecting Pool
 1 Meddling Mage
 1 Grove of the Burnwillows
@@ -169,19 +170,36 @@
 1 Spellskite
 1 Zulaport Cutthroat
 1 Hapatra, Vizier of Poisons
-3 Skyclave Apparition
 1 Anafenza, Kin-Tree Spirit
 1 Hardened Scales
 2 Anafenza, Kin-Tree Spirit
 2 Hardened Scales
 3 Walking Ballista
-3 Razorverge Thicket
-4 Snow-Covered Forest
-5 Snow-Covered Forest
+3 Eladamri's Call
+1 Eldrazi Displacer
+1 Viridian Longbow
+1 Branchloft Pathway
+1 Lightning Greaves
+1 Brushland
+1 Lurrus of the Dream-Den
+2 Branchloft Pathway
+2 Brushland
+2 Duskwatch Recruiter
+3 Duskwatch Recruiter
+3 Branchloft Pathway
+3 Brushland
+3 Giver of Runes
+4 Branchloft Pathway
+4 Duskwatch Recruiter
+4 Skyclave Apparition
+4 Brushland
+4 Razorverge Thicket
+4 Vizier of Remedies
+4 Giver of Runes
 6 Forest
 1 Blood Artist
-1 Nurturing Peatland
 1 Cavalier of Night
+1 Nurturing Peatland
 1 Urborg, Tomb of Yawgmoth
 1 Phyrexian Revoker
 1 Dryad Arbor
