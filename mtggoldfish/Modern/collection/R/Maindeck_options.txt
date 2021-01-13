@@ -1,7 +1,5 @@
-2 Manamorphose
 2 Soul-Scar Mage
 2 Monastery Swiftspear
-2 Crash Through
 2 Light Up the Stage
 2 Lightning Bolt
 3 Light Up the Stage
@@ -12,15 +10,17 @@
 4 Lightning Bolt
 4 Monastery Swiftspear
 4 Soul-Scar Mage
+1 Crash Through
+2 Crash Through
 4 Light Up the Stage
+3 Manamorphose
+4 Lava Dart
+4 Manamorphose
 1 Lava Spike
 2 Lava Spike
 3 Crash Through
 3 Lava Spike
-3 Manamorphose
 4 Lava Spike
-4 Lava Dart
-4 Manamorphose
 12 Mountain
 4 Crash Through
 4 Chandra, Torch of Defiance
@@ -55,28 +55,29 @@
 2 Scavenger Grounds
 3 Fiery Islet
 14 Mountain
-1 Zhalfirin Void
-2 Zhalfirin Void
 1 Wooded Foothills
 1 Mutagenic Growth
 2 Mutagenic Growth
-1 Abbot of Keral Keep
+1 Zhalfirin Void
+2 Zhalfirin Void
 1 Bloodstained Mire
 1 Mishra's Bauble
-2 Abbot of Keral Keep
 2 Mishra's Bauble
-3 Sunbaked Canyon
 3 Mishra's Bauble
 4 Mishra's Bauble
+3 Mutagenic Growth
+1 Abbot of Keral Keep
+2 Abbot of Keral Keep
+3 Sunbaked Canyon
+1 Seal of Fire
+1 Arid Mesa
+1 Scalding Tarn
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 3 Goblin Rabblemaster
 4 Goblin Rabblemaster
-1 Seal of Fire
 1 Inspiring Vantage
 1 Sacred Foundry
-1 Arid Mesa
-1 Scalding Tarn
 2 Seal of Fire
 2 Sacred Foundry
 2 Inspiring Vantage
@@ -94,13 +95,16 @@
 14 Snow-Covered Mountain
 1 Gut Shot
 1 Abrade
-3 Mutagenic Growth
 15 Mountain
 2 Gut Shot
 4 Fiery Islet
 4 Kiln Fiend
 1 Blistercoil Weird
 2 Blistercoil Weird
+1 Temur Battle Rage
+2 Wooded Foothills
+2 Temur Battle Rage
+3 Wooded Foothills
 1 Finale of Promise
 1 Kozilek's Return
 1 Forked Bolt
@@ -108,21 +112,35 @@
 2 Forked Bolt
 1 Wild Slash
 2 Wild Slash
-1 Temur Battle Rage
 1 Blood Crypt
 1 Thoughtseize
-2 Wooded Foothills
 2 Blood Crypt
-2 Temur Battle Rage
-2 Bloodstained Mire
 2 Thoughtseize
+2 Bloodstained Mire
 3 Bloodstained Mire
-3 Wooded Foothills
 3 Blood Crypt
 3 Thoughtseize
 4 Bloodstained Mire
-1 Grove of the Burnwillows
+1 Tarfire
+1 Forest
+1 Brushfire Elemental
+1 Hooting Mandrills
+1 Copperline Gorge
+1 Tarmogoyf
+1 Stomping Ground
+2 Brushfire Elemental
+2 Hooting Mandrills
+2 Copperline Gorge
+2 Tarmogoyf
+2 Stomping Ground
+3 Stomping Ground
+3 Copperline Gorge
+3 Tarmogoyf
+4 Wooded Foothills
+4 Copperline Gorge
+4 Tarmogoyf
 1 Chandra, Heart of Fire
+1 Grove of the Burnwillows
 1 Mazemind Tome
 2 Grove of the Burnwillows
 2 Abrade

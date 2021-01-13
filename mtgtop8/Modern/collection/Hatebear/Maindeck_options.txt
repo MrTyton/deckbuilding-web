@@ -1,21 +1,18 @@
-1 Spellskite
-3 Silent Clearing
 1 Ethersworn Canonist
+1 Spellskite
 2 Spellskite
 2 Ethersworn Canonist
+3 Silent Clearing
 1 Sunbaked Canyon
 3 Ethersworn Canonist
-1 Shefet Dunes
-2 Shefet Dunes
-4 Silent Clearing
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains
-2 Charming Prince
 1 Lurrus of the Dream-Den
+2 Charming Prince
 1 Cavern of Souls
 2 Cavern of Souls
 1 Watcher for Tomorrow
@@ -28,9 +25,9 @@
 1 Adarkar Wastes
 2 Glasspool Mimic
 2 Watcher for Tomorrow
-2 Hallowed Fountain
 2 Teferi, Time Raveler
 2 Seachrome Coast
+2 Hallowed Fountain
 2 Adarkar Wastes
 2 Spell Queller
 3 Glasspool Mimic
@@ -51,39 +48,41 @@
 1 Needleverge Pathway
 1 Inspiring Vantage
 1 Sacred Foundry
-1 Smuggler's Copter
-1 Angrath's Marauders
 1 Winota, Joiner of Forces
 1 Mountain
+1 Angrath's Marauders
+1 Smuggler's Copter
 1 Seasoned Pyromancer
+2 Pia and Kiran Nalaar
 2 Battlefield Forge
 2 Inspiring Vantage
 2 Sacred Foundry
-2 Pia and Kiran Nalaar
-2 Angrath's Marauders
 2 Winota, Joiner of Forces
 2 Seasoned Pyromancer
+2 Angrath's Marauders
 2 Needleverge Pathway
-3 Needleverge Pathway
 3 Battlefield Forge
-3 Inspiring Vantage
-3 Sacred Foundry
 3 Angrath's Marauders
-3 Winota, Joiner of Forces
+3 Sacred Foundry
+3 Inspiring Vantage
 3 Seasoned Pyromancer
-4 Needleverge Pathway
+3 Needleverge Pathway
+3 Winota, Joiner of Forces
 4 Battlefield Forge
 4 Angrath's Marauders
+4 Inspiring Vantage
 4 Sunbaked Canyon
 4 Sacred Foundry
-4 Winota, Joiner of Forces
 4 Seasoned Pyromancer
-4 Inspiring Vantage
+4 Winota, Joiner of Forces
+4 Needleverge Pathway
 1 Eldrazi Temple
 1 Eldrazi Displacer
-1 Thought-Knot Seer
+1 Shefet Dunes
 1 Sword of Feast and Famine
+1 Thought-Knot Seer
 2 Eldrazi Displacer
+2 Shefet Dunes
 2 Thought-Knot Seer
 2 Eldrazi Temple
 3 Thought-Knot Seer
@@ -94,6 +93,7 @@
 4 Eldrazi Temple
 12 Plains
 1 Flagstones of Trokair
+4 Silent Clearing
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 1 Aven Mindcensor
@@ -101,8 +101,8 @@
 1 Phyrexian Revoker
 2 Phyrexian Revoker
 1 Akroma, Angel of Fury
-3 Charming Prince
 3 Shefet Dunes
+3 Charming Prince
 4 Shefet Dunes
 1 Reality Smasher
 1 Wastes
@@ -114,7 +114,6 @@
 3 Skyclave Cleric
 4 Reality Smasher
 4 Skyclave Cleric
-1 Scavenger Grounds
 1 Horizon Canopy
 2 Horizon Canopy
 1 Selfless Spirit

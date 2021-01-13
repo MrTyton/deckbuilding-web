@@ -9,8 +9,8 @@
 2 Mazemind Tome
 3 Ugin, the Spirit Dragon
 3 Mazemind Tome
-4 Mazemind Tome
 4 Ugin, the Spirit Dragon
+4 Mazemind Tome
 3 Elspeth Conquers Death
 1 Indatha Triome
 1 Branchloft Pathway
@@ -22,9 +22,9 @@
 2 Indatha Triome
 2 Forest
 2 Swamp
-3 Indatha Triome
 3 Branchloft Pathway
 3 Brightclimb Pathway
+3 Indatha Triome
 1 Skyclave Apparition
 2 Skyclave Apparition
 3 Skyclave Apparition
@@ -118,19 +118,18 @@
 2 Duress
 2 Polukranos, Unchained
 2 Scavenging Ooze
+3 Yasharn, Implacable Earth
 3 Scavenging Ooze
 3 Elder Gargaroth
 3 Temple of Malady
 3 Duress
-3 Yasharn, Implacable Earth
 4 Duress
 1 Island
 1 Savai Triome
-1 Tranquil Cove
-1 Sanctum of Calm Waters
+1 Bloodfell Caves
 1 Ketria Triome
 1 Fae of Wishes
-1 Bloodfell Caves
+1 Tranquil Cove
 1 Thirst for Meaning
 1 Dismal Backwater
 1 Cragcrown Pathway
@@ -139,6 +138,7 @@
 1 Thornwood Falls
 1 Sanctum of Shattered Heights
 1 Sanctum of All
+1 Sanctum of Calm Waters
 1 Sanctum of Stone Fangs
 1 Riverglide Pathway
 1 Bloodchief's Thirst
@@ -147,9 +147,9 @@
 1 Sanctum of Fruitful Harvest
 1 Sanctum of Tranquil Light
 2 Thirst for Meaning
+2 Dismal Backwater
 2 Fae of Wishes
 2 Cragcrown Pathway
-2 Dismal Backwater
 2 Tranquil Cove
 2 Clearwater Pathway
 2 Bloodchief's Thirst
@@ -170,6 +170,25 @@
 3 Sanctum of All
 4 Extinction Event
 4 Sanctum of Shattered Heights
+1 Wolfwillow Haven
+1 Felidar Retreat
+1 Erebos's Intervention
+1 Cultivate
+1 Shadows' Verdict
+2 Wolfwillow Haven
+2 Bala Ged Recovery
+2 Erebos's Intervention
+2 Cultivate
+3 Bala Ged Recovery
+3 Wolfwillow Haven
+3 Erebos's Intervention
+3 Cultivate
+3 Garruk, Cursed Huntsman
+3 Emeria's Call
+4 Wolfwillow Haven
+4 Emeria's Call
+4 Erebos's Intervention
+4 Garruk, Cursed Huntsman
 2 Island
 1 Mystic Sanctuary
 1 Frantic Inventory
@@ -194,47 +213,47 @@
 16 Island
 17 Island
 18 Island
-1 Relic Golem
 1 Ruin Crab
 1 Stern Dismissal
-1 Anticognition
 1 Evolving Wilds
 1 Into the Story
 1 Didn't Say Please
+1 Teferi's Tutelage
 1 Merfolk Secretkeeper
 1 Negate
-1 Teferi's Tutelage
+1 Relic Golem
+1 Anticognition
 2 Didn't Say Please
-2 Relic Golem
+2 Teferi's Tutelage
 2 Ruin Crab
 2 Evolving Wilds
 2 Stern Dismissal
-2 Anticognition
 2 Merfolk Secretkeeper
 2 Into the Story
 2 Negate
-2 Teferi's Tutelage
-3 Anticognition
-3 Relic Golem
+2 Relic Golem
+2 Anticognition
 3 Didn't Say Please
 3 Evolving Wilds
+3 Teferi's Tutelage
 3 Stern Dismissal
 3 Merfolk Secretkeeper
 3 Ruin Crab
-3 Teferi's Tutelage
+3 Relic Golem
+3 Anticognition
 3 Into the Story
-4 Evolving Wilds
-4 Relic Golem
-4 Merfolk Secretkeeper
 4 Didn't Say Please
-4 Ruin Crab
 4 Teferi's Tutelage
+4 Merfolk Secretkeeper
+4 Relic Golem
+4 Ruin Crab
+4 Evolving Wilds
+1 Rewind
 1 Lofty Denial
 1 Rain of Revelation
 1 Neutralize
 1 Kiora Bests the Sea God
 1 Silundi Vision
-1 Rewind
 1 Shark Typhoon
 1 Hypnotic Sprite
 1 Bonders' Enclave
@@ -245,11 +264,11 @@
 1 Brazen Borrower
 1 Gadwick, the Wizened
 2 Castle Vantress
+2 Rewind
 2 Lofty Denial
 2 Rain of Revelation
-2 Neutralize
 2 Essence Scatter
-2 Rewind
+2 Neutralize
 2 Shark Typhoon
 2 Gadwick, the Wizened
 2 Brazen Borrower
@@ -264,42 +283,23 @@
 4 Rewind
 4 Castle Vantress
 4 Brazen Borrower
-1 Wolfwillow Haven
-1 Felidar Retreat
-1 Erebos's Intervention
-1 Cultivate
-1 Shadows' Verdict
-2 Wolfwillow Haven
-2 Bala Ged Recovery
-2 Erebos's Intervention
-2 Cultivate
-3 Bala Ged Recovery
-3 Wolfwillow Haven
-3 Erebos's Intervention
-3 Garruk, Cursed Huntsman
-3 Cultivate
-3 Emeria's Call
-4 Emeria's Call
-4 Erebos's Intervention
-4 Garruk, Cursed Huntsman
-4 Wolfwillow Haven
-1 Unknown Shores
 1 Dance of the Manse
 1 Sleeper Dart
 1 Radiant Fountain
+1 Unknown Shores
 1 Forsaken Monument
 1 Labyrinth of Skophos
 1 Swift Response
 2 Labyrinth of Skophos
-2 Unknown Shores
 2 Sleeper Dart
 2 Radiant Fountain
+2 Unknown Shores
 2 Forsaken Monument
 2 Dance of the Manse
 2 Swift Response
 3 Sleeper Dart
-3 Unknown Shores
 3 Forsaken Monument
+3 Unknown Shores
 3 Radiant Fountain
 4 Radiant Fountain
 4 Sleeper Dart

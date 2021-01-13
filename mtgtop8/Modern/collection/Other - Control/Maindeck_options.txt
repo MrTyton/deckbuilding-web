@@ -21,12 +21,12 @@
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 1 Snow-Covered Plains
-1 Sakura-Tribe Elder
 1 Arboreal Grazer
+1 Sakura-Tribe Elder
 1 Scattered Groves
 1 Field of the Dead
-1 Search for Tomorrow
 1 Baneslayer Angel
+1 Search for Tomorrow
 1 Felidar Retreat
 1 Primeval Titan
 1 Solemn Simulacrum
@@ -40,10 +40,10 @@
 1 Canopy Vista
 1 Plains
 1 Forest
-2 Sakura-Tribe Elder
 2 Field of the Dead
-2 Search for Tomorrow
+2 Sakura-Tribe Elder
 2 Arboreal Grazer
+2 Search for Tomorrow
 2 Explore
 2 Temple Garden
 2 Felidar Retreat
@@ -55,19 +55,19 @@
 2 Castle Garenbrig
 2 Primeval Titan
 3 Arboreal Grazer
-3 Sakura-Tribe Elder
 3 Field of the Dead
+3 Sakura-Tribe Elder
 3 Search for Tomorrow
-3 Felidar Retreat
+3 Temple Garden
 3 Explore
 3 Snow-Covered Forest
 3 Primeval Titan
 3 Solemn Simulacrum
 3 Wurmcoil Engine
 3 Forest
+3 Felidar Retreat
 3 Castle Garenbrig
 3 Windswept Heath
-3 Temple Garden
 3 Wooded Foothills
 4 Arboreal Grazer
 4 Sakura-Tribe Elder
@@ -79,16 +79,15 @@
 4 Solemn Simulacrum
 1 Snow-Covered Island
 2 Snow-Covered Island
-1 Mox Amber
 1 Tasigur, the Golden Fang
-1 Snow-Covered Swamp
 1 Lurrus of the Dream-Den
 1 Monastery Mentor
 1 Repeal
 1 Soul-Guide Lantern
-1 Unearth
 1 Spellskite
+1 Unearth
 1 Erayo, Soratami Ascendant
+1 Mox Amber
 1 Godless Shrine
 1 Hallowed Fountain
 1 Teferi, Time Raveler
@@ -98,9 +97,10 @@
 1 Engineered Explosives
 1 Waterlogged Grove
 1 Silent Clearing
-2 Mox Amber
+1 Snow-Covered Swamp
 2 Repeal
 2 Monastery Mentor
+2 Mox Amber
 2 Unearth
 2 Emry, Lurker of the Loch
 2 Teferi, Time Raveler
@@ -200,10 +200,10 @@
 2 Scalding Tarn
 2 Ice-Fang Coatl
 3 Growth Spiral
-3 Mystic Sanctuary
 3 Wilderness Reclamation
-3 Field of Ruin
+3 Mystic Sanctuary
 3 Breeding Pool
+3 Field of Ruin
 3 Snow-Covered Island
 3 Misty Rainforest
 3 Remand
@@ -211,14 +211,14 @@
 3 Uro, Titan of Nature's Wrath
 4 Mystic Sanctuary
 4 Growth Spiral
-4 Cryptic Command
 4 Snow-Covered Island
 4 Misty Rainforest
+4 Cryptic Command
 5 Snow-Covered Island
 6 Snow-Covered Island
 1 River of Tears
-1 Thoughtseize
 1 Narset, Parter of Veils
+1 Thoughtseize
 1 Inquisition of Kozilek
 1 Geier Reach Sanitarium
 1 Sunken Hollow

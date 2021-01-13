@@ -1,7 +1,7 @@
-1 Once Upon a Time
-1 Vesuva
+1 Plains
 1 Crop Rotation
 1 Bojuka Bog
+1 Sevinne's Reclamation
 2 Dryad of the Ilysian Grove
 2 Field of the Dead
 2 Elvish Reclaimer
@@ -33,8 +33,8 @@
 3 Brainstorm
 4 Misty Rainforest
 4 Brainstorm
-2 Scryb Ranger
 2 Forest
+2 Scryb Ranger
 1 Umezawa's Jitte
 1 Aether Vial
 2 Aether Vial
@@ -44,17 +44,17 @@
 1 Abrupt Decay
 1 Bayou
 1 Leovold, Emissary of Trest
-1 Phyrexian Revoker
 1 Vendilion Clique
 1 Voice of Resurgence
-1 Spell Queller
-1 Plague Engineer
-1 Palace Jailer
-1 Fauna Shaman
+1 Phyrexian Revoker
 1 Sanctum Prelate
-1 Deputy of Detention
 1 Mother of Runes
+1 Spell Queller
+1 Deputy of Detention
+1 Fauna Shaman
+1 Palace Jailer
 1 Atraxa, Praetors' Voice
+1 Plague Engineer
 2 Tundra
 2 Mother of Runes
 2 Birds of Paradise
@@ -63,21 +63,21 @@
 3 Tropical Island
 3 Mother of Runes
 3 Savannah
-3 Birds of Paradise
 3 Fauna Shaman
 3 Bayou
+3 Birds of Paradise
 4 Tropical Island
-4 Fauna Shaman
-4 Savannah
 4 Bayou
+4 Savannah
+4 Fauna Shaman
 5 Windswept Heath
 5 Misty Rainforest
-6 Windswept Heath
 6 Misty Rainforest
+6 Windswept Heath
 7 Misty Rainforest
 7 Windswept Heath
-8 Misty Rainforest
 8 Windswept Heath
+8 Misty Rainforest
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
 3 Oko, Thief of Crowns
@@ -96,8 +96,8 @@
 4 Knight of the Reliquary
 1 Daze
 1 Force of Will
-2 Daze
 2 Force of Will
+2 Daze
 3 Force of Will
 3 Daze
 4 Daze
@@ -105,14 +105,14 @@
 1 Volcanic Island
 1 Young Pyromancer
 1 Dreadhorde Arcanist
-1 Narset, Parter of Veils
 1 Lightning Bolt
 1 Scalding Tarn
-1 Krark, the Thumbless
-1 Ponder
-1 Snow-Covered Island
+1 Narset, Parter of Veils
 1 Of One Mind
+1 Ponder
 1 Chain Lightning
+1 Snow-Covered Island
+1 Krark, the Thumbless
 1 Polluted Delta
 2 Volcanic Island
 2 Young Pyromancer
@@ -120,112 +120,57 @@
 2 Lightning Bolt
 2 Scalding Tarn
 2 Narset, Parter of Veils
-2 Ponder
 2 Of One Mind
+2 Ponder
 2 Krark, the Thumbless
-3 Volcanic Island
 3 Scalding Tarn
 3 Lightning Bolt
 3 Young Pyromancer
+3 Volcanic Island
 3 Krark, the Thumbless
-3 Ponder
 3 Of One Mind
+3 Ponder
 4 Scalding Tarn
 4 Lightning Bolt
 4 Ponder
-1 Embercleave
-1 Legion Warboss
-1 Goblin Rabblemaster
-1 Sunbaked Canyon
-1 Winota, Joiner of Forces
-1 Mountain
-1 Blood Sun
-1 Trinisphere
-1 Cavern of Souls
-1 Simian Spirit Guide
-1 Talisman of Conviction
-1 Magus of the Moon
-1 City of Traitors
-1 Seasoned Pyromancer
-1 Battlefield Forge
-1 Godo, Bandit Warlord
-1 Chalice of the Void
-1 Angrath's Marauders
-1 Chrome Mox
-2 Plateau
-2 Goblin Rabblemaster
-2 Legion Warboss
-2 Trinisphere
-2 Cavern of Souls
-2 Winota, Joiner of Forces
-2 Blood Sun
-2 Seasoned Pyromancer
-2 City of Traitors
-2 Angrath's Marauders
-2 Chrome Mox
-2 Chalice of the Void
-2 Simian Spirit Guide
-2 Ancient Tomb
-3 Goblin Rabblemaster
-3 Legion Warboss
-3 Trinisphere
-3 Cavern of Souls
-3 Seasoned Pyromancer
-3 City of Traitors
-3 Winota, Joiner of Forces
-3 Simian Spirit Guide
-3 Plateau
-3 Ancient Tomb
-3 Angrath's Marauders
-3 Chrome Mox
-3 Chalice of the Void
-4 City of Traitors
-4 Goblin Rabblemaster
-4 Legion Warboss
-4 Winota, Joiner of Forces
-4 Simian Spirit Guide
-4 Chalice of the Void
-4 Ancient Tomb
-4 Plateau
-4 Angrath's Marauders
 1 Island
-1 Force of Negation
+1 Brazen Borrower
 1 Flusterstorm
+1 Sky Hussar
+1 Nivmagus Elemental
 1 Skaab Ruinator
+1 Force of Negation
+1 Disrupting Shoal
 1 Spellstutter Sprite
+1 Mausoleum Wanderer
+1 Ancestral Vision
+1 Martyr of Frost
 1 Judge's Familiar
 1 Ninja of the Deep Hours
-1 Nivmagus Elemental
-1 Brazen Borrower
-1 Mausoleum Wanderer
-1 Disrupting Shoal
-1 Sky Hussar
-1 Martyr of Frost
-1 Ancestral Vision
+2 Force of Negation
 2 Island
 2 Umezawa's Jitte
 2 Brazen Borrower
 2 Flusterstorm
-2 Ancestral Vision
-2 Nivmagus Elemental
+2 Disrupting Shoal
 2 Ninja of the Deep Hours
 2 Sky Hussar
-2 Martyr of Frost
-2 Mausoleum Wanderer
-2 Force of Negation
-2 Spellstutter Sprite
-2 Disrupting Shoal
+2 Nivmagus Elemental
+2 Ancestral Vision
 2 Judge's Familiar
+2 Martyr of Frost
+2 Spellstutter Sprite
+2 Mausoleum Wanderer
 3 Island
-3 Flusterstorm
 3 Judge's Familiar
-3 Mausoleum Wanderer
-3 Sky Hussar
 3 Martyr of Frost
+3 Flusterstorm
+3 Sky Hussar
+3 Mausoleum Wanderer
 4 Island
-4 Judge's Familiar
 4 Sky Hussar
 4 Mausoleum Wanderer
+4 Judge's Familiar
 5 Island
 6 Island
 7 Island
@@ -235,47 +180,47 @@
 11 Island
 1 Berserk
 1 Rancor
-1 Seal of Strength
 1 Nettle Sentinel
-1 Kavu Predator
-1 Invigorate
 1 Jungle Lion
+1 Kavu Predator
 1 Dryad Militant
+1 Invigorate
 1 Silhana Ledgewalker
-1 Skarrgan Pit-Skulk
 1 Might of Old Krosa
+1 Skarrgan Pit-Skulk
+1 Seal of Strength
 2 Berserk
-2 Jungle Lion
-2 Silhana Ledgewalker
-2 Might of Old Krosa
-2 Skarrgan Pit-Skulk
-2 Dryad Militant
 2 Rancor
-2 Seal of Strength
-2 Invigorate
-2 Nettle Sentinel
+2 Jungle Lion
+2 Dryad Militant
+2 Skarrgan Pit-Skulk
 2 Kavu Predator
+2 Silhana Ledgewalker
+2 Seal of Strength
+2 Nettle Sentinel
+2 Might of Old Krosa
+2 Invigorate
 3 Forest
-3 Berserk
-3 Invigorate
 3 Rancor
-3 Seal of Strength
 3 Kavu Predator
-3 Silhana Ledgewalker
-3 Jungle Lion
-3 Might of Old Krosa
-3 Dryad Militant
+3 Invigorate
 3 Skarrgan Pit-Skulk
+3 Silhana Ledgewalker
+3 Dryad Militant
+3 Might of Old Krosa
+3 Seal of Strength
+3 Berserk
+3 Jungle Lion
 4 Forest
 4 Might of Old Krosa
-4 Kavu Predator
-4 Rancor
-4 Berserk
-4 Jungle Lion
-4 Dryad Militant
 4 Invigorate
 4 Skarrgan Pit-Skulk
+4 Kavu Predator
+4 Berserk
+4 Dryad Militant
 4 Silhana Ledgewalker
+4 Jungle Lion
+4 Rancor
 5 Forest
 6 Forest
 7 Forest

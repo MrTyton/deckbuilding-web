@@ -1,4 +1,4 @@
-4 Extinction Event
+4 Omen of the Hunt
 1 Negate
 4 Swamp
 4 Heartless Act
@@ -26,19 +26,19 @@
 1 Crawling Barrens
 5 Island
 1 Cling to Dust
-2 Shadows' Verdict
 2 Temple of Malady
+2 Shadows' Verdict
 3 Shadows' Verdict
 3 Temple of Malady
 1 Soul Shatter
 1 Mazemind Tome
 2 Mazemind Tome
-1 Teferi, Master of Time
 1 Lochmere Serpent
+1 Teferi, Master of Time
 2 Teferi, Master of Time
 2 Negate
-1 Ugin, the Spirit Dragon
 1 Cultivate
+1 Ugin, the Spirit Dragon
 2 Cultivate
 2 Ugin, the Spirit Dragon
 3 Cultivate
@@ -57,26 +57,26 @@
 1 Atris, Oracle of Half-Truths
 2 Atris, Oracle of Half-Truths
 3 Atris, Oracle of Half-Truths
-1 Golden Egg
-1 Solemn Simulacrum
-1 Fae of Wishes
 1 Field of Ruin
+1 Golden Egg
+1 Fae of Wishes
+1 Solemn Simulacrum
 2 Field of Ruin
 2 Golden Egg
 2 Fae of Wishes
 2 Crawling Barrens
 2 Solemn Simulacrum
 2 Cling to Dust
+3 Crawling Barrens
 3 Ugin, the Spirit Dragon
 3 Golden Egg
 3 Field of Ruin
 3 Fae of Wishes
 3 Solemn Simulacrum
 3 Cling to Dust
-3 Crawling Barrens
-4 Golden Egg
 4 Crawling Barrens
 4 Solemn Simulacrum
+4 Golden Egg
 4 Cling to Dust
 4 Temple of Malady
 6 Swamp
@@ -86,25 +86,31 @@
 1 Eat to Extinction
 2 Essence Scatter
 1 Llanowar Visionary
-1 Pelakka Predation
 1 Scavenging Ooze
+1 Pelakka Predation
 1 Neutralize
-2 Scavenging Ooze
-2 Llanowar Visionary
 2 Hagra Mauling
-2 Soul Shatter
 2 Elder Gargaroth
+2 Llanowar Visionary
+2 Scavenging Ooze
+2 Soul Shatter
 3 Llanowar Visionary
 4 Llanowar Visionary
 2 Lochmere Serpent
 3 Mazemind Tome
 4 Mazemind Tome
+1 Brazen Borrower
+1 Temple of Malice
+2 Brazen Borrower
+2 Temple of Malice
+3 Brazen Borrower
+4 Brazen Borrower
 1 Heraldic Banner
 1 Murderous Rider
-2 Castle Locthwain
 2 Heraldic Banner
-2 Temple of Deceit
+2 Castle Locthwain
 2 Eliminate
+2 Temple of Deceit
 2 Murderous Rider
 3 Heraldic Banner
 3 Garruk, Cursed Huntsman
@@ -112,28 +118,28 @@
 3 Elspeth's Nightmare
 4 Heraldic Banner
 4 Garruk, Cursed Huntsman
-1 Scute Swarm
 1 Boon of the Wish-Giver
+1 Scute Swarm
 1 Sublime Epiphany
-2 Scute Swarm
 2 Boon of the Wish-Giver
+2 Scute Swarm
 3 Sea Gate Restoration
 3 Negate
 3 Boon of the Wish-Giver
 4 Sea Gate Restoration
 1 Sea Gate Stormcaller
 1 Agadeem's Awakening
-1 Opt
-1 Kazandu Mammoth
 1 Duress
+1 Kazandu Mammoth
+1 Opt
 1 Lovestruck Beast
 1 Castle Vantress
 1 The Great Henge
-2 Kiora Bests the Sea God
-2 Opt
 2 Sea Gate Stormcaller
+2 Kiora Bests the Sea God
 2 Duress
 2 The Great Henge
+2 Opt
 2 Lovestruck Beast
 2 Kazandu Mammoth
 3 Kiora Bests the Sea God
@@ -144,22 +150,16 @@
 4 Lovestruck Beast
 4 Kazandu Mammoth
 4 Atris, Oracle of Half-Truths
-1 Brazen Borrower
-1 Temple of Malice
-2 Brazen Borrower
-2 Temple of Malice
-3 Brazen Borrower
-4 Brazen Borrower
-1 Turntimber Symbiosis
-1 Cragplate Baloth
 1 Lotus Cobra
-1 Beanstalk Giant
+1 Turntimber Symbiosis
 1 Emergent Ultimatum
-2 Emergent Ultimatum
+1 Cragplate Baloth
+1 Beanstalk Giant
 2 Lotus Cobra
+2 Emergent Ultimatum
 2 Beanstalk Giant
-3 Emergent Ultimatum
 3 Lotus Cobra
-4 Forest
+3 Emergent Ultimatum
 4 Lotus Cobra
+4 Forest
 5 Forest

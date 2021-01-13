@@ -10,8 +10,8 @@
 1 Ghost Quarter
 1 Field of Ruin
 1 Mazemind Tome
-1 Mindslaver
 1 Island
+1 Mindslaver
 1 Gemstone Caverns
 1 Thirst for Knowledge
 1 Remand
@@ -24,12 +24,12 @@
 2 Repeal
 3 Remand
 1 Dismember
-1 Treasure Mage
 1 Chalice of the Void
+1 Treasure Mage
 1 Cyclonic Rift
 2 Condescend
-3 Condescend
 3 Island
+3 Condescend
 3 Thirst for Knowledge
 4 Condescend
 4 Thirst for Knowledge
@@ -105,6 +105,8 @@
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 4 Wurmcoil Engine
+3 Thragtusk
+4 Thragtusk
 1 Spell Snare
 1 Omen of the Sea
 1 Mana Leak
@@ -116,14 +118,12 @@
 3 Snow-Covered Island
 4 Omen of the Sea
 4 Snow-Covered Island
-3 Thragtusk
-4 Thragtusk
 3 Spatial Contortion
 4 Spatial Contortion
 2 Clearwater Pathway
 3 Clearwater Pathway
-3 Chalice of the Void
 3 Shark Typhoon
+3 Chalice of the Void
 4 Shark Typhoon
 4 Chalice of the Void
 5 Island

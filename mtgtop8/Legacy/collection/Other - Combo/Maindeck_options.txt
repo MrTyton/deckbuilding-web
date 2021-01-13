@@ -17,8 +17,8 @@
 1 Fauna Shaman
 1 Snow-Covered Swamp
 1 Birds of Paradise
-1 Aether Vial
 1 Mesmeric Fiend
+1 Aether Vial
 1 Brazen Borrower
 1 Scavenging Ooze
 1 Kira, Great Glass-Spinner
@@ -36,8 +36,8 @@
 2 Divining Witch
 2 Thassa's Oracle
 3 Baleful Strix
-3 Fauna Shaman
 3 Birds of Paradise
+3 Fauna Shaman
 3 Misty Rainforest
 3 Mesmeric Fiend
 3 Aether Vial
@@ -59,22 +59,20 @@
 4 Lotus Petal
 4 Elvish Spirit Guide
 1 Cabal Therapy
-1 Chrome Mox
-1 Simian Spirit Guide
 1 Turntimber Symbiosis
 1 Cabal Ritual
 1 Thoughtseize
 1 Wild Cantor
+1 Simian Spirit Guide
 1 Balustrade Spy
 1 Narcomoeba
 1 Bridge from Below
+1 Chrome Mox
 1 Dark Ritual
 1 Agadeem's Awakening
 1 Undercity Informer
 1 Dread Return
 2 Cabal Therapy
-2 Simian Spirit Guide
-2 Chrome Mox
 2 Cabal Ritual
 2 Undercity Informer
 2 Narcomoeba
@@ -82,10 +80,10 @@
 2 Dark Ritual
 2 Turntimber Symbiosis
 2 Agadeem's Awakening
+2 Simian Spirit Guide
 2 Balustrade Spy
 2 Pact of Negation
-3 Chrome Mox
-3 Simian Spirit Guide
+2 Chrome Mox
 3 Turntimber Symbiosis
 3 Agadeem's Awakening
 3 Dark Ritual
@@ -93,8 +91,9 @@
 3 Pact of Negation
 3 Undercity Informer
 3 Cabal Ritual
+3 Simian Spirit Guide
 3 Balustrade Spy
-4 Simian Spirit Guide
+3 Chrome Mox
 4 Dark Ritual
 4 Cabal Ritual
 4 Turntimber Symbiosis
@@ -103,6 +102,7 @@
 4 Narcomoeba
 4 Pact of Negation
 4 Chrome Mox
+4 Simian Spirit Guide
 4 Balustrade Spy
 4 Ponder
 1 Waterlogged Grove
@@ -147,8 +147,8 @@
 1 Arid Mesa
 1 Snow-Covered Mountain
 1 Lightning Bolt
-1 Vendilion Clique
 1 Snow-Covered Plains
+1 Vendilion Clique
 1 Swords to Plowshares
 1 Spell Pierce
 1 Pestermite

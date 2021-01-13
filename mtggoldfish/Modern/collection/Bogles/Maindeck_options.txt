@@ -11,8 +11,8 @@
 2 Flooded Strand
 1 Staggering Insight
 2 Staggering Insight
-1 Curious Obsession
 1 Breeding Pool
+1 Curious Obsession
 2 Curious Obsession
 3 Flooded Strand
 3 Curious Obsession
@@ -71,7 +71,6 @@
 4 Inkmoth Nexus
 4 Colossus Hammer
 4 Stoneforge Mystic
-2 Sentinel's Eyes
 1 Speaker of the Heavens
 1 Ram Through
 2 Ram Through
@@ -88,23 +87,24 @@
 1 Cartouche of Solidarity
 2 Cartouche of Solidarity
 2 Wooded Bastion
+2 Sentinel's Eyes
 1 Suppression Field
 2 Suppression Field
 3 Suppression Field
+3 Force of Negation
+4 Force of Negation
 1 Snow-Covered Island
 3 Stubborn Denial
 4 Stubborn Denial
-3 Force of Negation
-4 Force of Negation
 1 Sunbaked Canyon
 1 City of Brass
 1 Silence
-1 Magnetic Theft
 1 Kor Duelist
 1 Open the Armory
+1 Magnetic Theft
 2 Sunbaked Canyon
-2 Magnetic Theft
 2 Shadowspear
+2 Magnetic Theft
 2 Open the Armory
 2 City of Brass
 2 Kor Duelist
@@ -126,16 +126,16 @@
 1 Arid Mesa
 1 Lurrus of the Dream-Den
 1 Sword of Fire and Ice
-1 Eladamri's Call
 1 Sword of Feast and Famine
-1 Batterskull
 1 Skyclave Apparition
+1 Batterskull
 1 Noble Hierarch
 1 Marsh Flats
+1 Eladamri's Call
 2 Arid Mesa
-2 Eladamri's Call
 2 Marsh Flats
 2 Noble Hierarch
+2 Eladamri's Call
 3 Plains
 3 Noble Hierarch
 3 Eladamri's Call
