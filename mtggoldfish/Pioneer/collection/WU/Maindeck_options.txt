@@ -116,6 +116,7 @@
 2 Emergency Powers
 2 Thassa's Intervention
 3 Field of Ruin
+4 Castle Ardenvale
 2 Dream Trawler
 4 Uro, Titan of Nature's Wrath
 1 Prairie Stream
@@ -134,9 +135,8 @@
 3 Ashiok, Nightmare Muse
 4 Watery Grave
 4 Neutralize
-4 Castle Ardenvale
-1 Drowned Catacomb
 1 Thing in the Ice
+1 Drowned Catacomb
 1 Fatal Push
 1 Heartless Act
 1 Godless Shrine
@@ -145,30 +145,13 @@
 2 Fatal Push
 2 Thing in the Ice
 2 Heartless Act
-3 Drowned Catacomb
 3 Heartless Act
 3 Godless Shrine
+3 Drowned Catacomb
 3 Thing in the Ice
 4 Thing in the Ice
 4 Heartless Act
 4 Drowned Catacomb
-1 Hieroglyphic Illumination
-1 Sulfur Falls
-1 Sweltering Suns
-1 Zenith Flare
-1 Raugrin Triome
-2 Sulfur Falls
-2 Steam Vents
-2 Raugrin Triome
-2 Zenith Flare
-2 Hieroglyphic Illumination
-3 Raugrin Triome
-3 Sulfur Falls
-3 Hieroglyphic Illumination
-3 Steam Vents
-4 Raugrin Triome
-4 Sulfur Falls
-4 Steam Vents
 1 Anticognition
 1 Sphinx of the Final Word
 1 Fumigate
@@ -178,6 +161,23 @@
 2 Brazen Borrower
 3 Anticognition
 4 Plains
+1 Hieroglyphic Illumination
+1 Sulfur Falls
+1 Sweltering Suns
+1 Zenith Flare
+1 Raugrin Triome
+2 Steam Vents
+2 Sulfur Falls
+2 Raugrin Triome
+2 Zenith Flare
+2 Hieroglyphic Illumination
+3 Raugrin Triome
+3 Hieroglyphic Illumination
+3 Sulfur Falls
+3 Steam Vents
+4 Raugrin Triome
+4 Steam Vents
+4 Sulfur Falls
 1 Tale's End
 3 Void Shatter
 4 Void Shatter

@@ -147,7 +147,7 @@
 |                    2|[Spreading Algae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45432)              |                     |                                                                                                      |
 |                    3|[Spreading Algae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45432)              |                     |                                                                                                      |
 |                    3|[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383425)    |                     |                                                                                                      |
+|                    4|[Spreading Algae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45432)              |                     |                                                                                                      |
 |                    4|[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383425)    |                     |                                                                                                      |
 |                    4|[Rishadan Port](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442235)               |                     |                                                                                                      |
-|                    4|[Spreading Algae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45432)              |                     |                                                                                                      |
 

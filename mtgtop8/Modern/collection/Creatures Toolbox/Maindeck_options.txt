@@ -27,8 +27,8 @@
 2 Eternal Witness
 2 Snow-Covered Plains
 1 Raugrin Triome
-1 Seasoned Pyromancer
 1 Sacred Foundry
+1 Seasoned Pyromancer
 1 Omnath, Locus of Creation
 1 Breeding Pool
 1 Flooded Strand
@@ -87,23 +87,22 @@
 1 Ketria Triome
 1 Snow-Covered Island
 1 Shalai, Voice of Plenty
+1 Viscera Seer
 1 Kitchen Finks
 1 Marsh Flats
-1 Viscera Seer
 2 Kitchen Finks
 2 Finale of Devastation
 3 Kitchen Finks
 4 Auriok Champion
-1 Strangleroot Geist
 1 Khalni Garden
-1 Twilight Mire
 1 Blooming Marsh
 1 Swamp
 1 Geralf's Messenger
+1 Twilight Mire
 1 Wall of Roots
 1 Young Wolf
 1 Yawgmoth, Thran Physician
-2 Strangleroot Geist
+1 Strangleroot Geist
 2 Blooming Marsh
 2 Geralf's Messenger
 2 Twilight Mire
@@ -111,12 +110,13 @@
 2 Young Wolf
 2 Yawgmoth, Thran Physician
 2 Wall of Roots
-3 Strangleroot Geist
-3 Blooming Marsh
+2 Strangleroot Geist
 3 Yawgmoth, Thran Physician
 3 Wall of Roots
+3 Strangleroot Geist
 3 Young Wolf
 3 Twilight Mire
+3 Blooming Marsh
 4 Strangleroot Geist
 4 Young Wolf
 4 Eldritch Evolution
@@ -139,13 +139,13 @@
 1 Snow-Covered Mountain
 1 Coiling Oracle
 1 Charming Prince
-1 Avalanche Riders
 1 Ephemerate
 1 Soulherder
 1 Watcher for Tomorrow
 1 Glasspool Mimic
 1 Deputy of Detention
 1 Acidic Slime
+1 Avalanche Riders
 1 Ice-Fang Coatl
 1 Steam Vents
 1 Arid Mesa
@@ -197,10 +197,10 @@
 4 Vizier of Remedies
 4 Giver of Runes
 6 Forest
-1 Blood Artist
 1 Cavalier of Night
 1 Nurturing Peatland
 1 Urborg, Tomb of Yawgmoth
+1 Blood Artist
 1 Phyrexian Revoker
 1 Dryad Arbor
 2 Gilded Goose
