@@ -22,9 +22,9 @@
 2 Indatha Triome
 2 Forest
 2 Swamp
+3 Indatha Triome
 3 Branchloft Pathway
 3 Brightclimb Pathway
-3 Indatha Triome
 1 Skyclave Apparition
 2 Skyclave Apparition
 3 Skyclave Apparition
@@ -37,17 +37,17 @@
 2 Golden Egg
 3 Golden Egg
 4 Golden Egg
+1 Temple of Plenty
 1 Temple of Silence
 1 Treacherous Blessing
+1 Eerie Ultimatum
 1 Llanowar Visionary
-1 Temple of Plenty
 1 Yorion, Sky Nomad
 1 Wicked Wolf
 1 Gilded Goose
 1 Charming Prince
 1 Trail of Crumbs
 1 Doom Foretold
-1 Eerie Ultimatum
 1 Agadeem's Awakening
 2 Temple of Silence
 2 Eerie Ultimatum
@@ -118,11 +118,11 @@
 2 Duress
 2 Polukranos, Unchained
 2 Scavenging Ooze
+3 Yasharn, Implacable Earth
 3 Scavenging Ooze
 3 Elder Gargaroth
 3 Temple of Malady
 3 Duress
-3 Yasharn, Implacable Earth
 4 Duress
 1 Island
 1 Savai Triome
@@ -181,14 +181,14 @@
 2 Cultivate
 3 Bala Ged Recovery
 3 Wolfwillow Haven
-3 Garruk, Cursed Huntsman
-3 Erebos's Intervention
 3 Cultivate
+3 Erebos's Intervention
+3 Garruk, Cursed Huntsman
 3 Emeria's Call
-4 Garruk, Cursed Huntsman
 4 Wolfwillow Haven
 4 Emeria's Call
 4 Erebos's Intervention
+4 Garruk, Cursed Huntsman
 2 Island
 1 Mystic Sanctuary
 1 Frantic Inventory
@@ -236,8 +236,8 @@
 3 Didn't Say Please
 3 Evolving Wilds
 3 Teferi's Tutelage
-3 Merfolk Secretkeeper
 3 Stern Dismissal
+3 Merfolk Secretkeeper
 3 Ruin Crab
 3 Relic Golem
 3 Anticognition
@@ -249,12 +249,12 @@
 4 Relic Golem
 4 Ruin Crab
 1 Lofty Denial
+1 Hypnotic Sprite
 1 Rain of Revelation
 1 Neutralize
 1 Kiora Bests the Sea God
 1 Silundi Vision
 1 Shark Typhoon
-1 Hypnotic Sprite
 1 Bonders' Enclave
 1 Jwari Disruption
 1 Essence Scatter
@@ -264,48 +264,48 @@
 1 Brazen Borrower
 1 Gadwick, the Wizened
 2 Castle Vantress
+2 Rewind
 2 Lofty Denial
+2 Hypnotic Sprite
 2 Rain of Revelation
 2 Essence Scatter
 2 Neutralize
 2 Shark Typhoon
 2 Gadwick, the Wizened
 2 Brazen Borrower
-2 Rewind
-2 Hypnotic Sprite
-3 Neutralize
 3 Castle Vantress
 3 Rewind
+3 Neutralize
 3 Brazen Borrower
 3 Shark Typhoon
+4 Castle Vantress
+4 Rewind
 4 Neutralize
 4 Shark Typhoon
-4 Rewind
-4 Castle Vantress
 4 Brazen Borrower
-1 Unknown Shores
 1 Dance of the Manse
 1 Sleeper Dart
 1 Radiant Fountain
 1 Forsaken Monument
 1 Labyrinth of Skophos
+1 Unknown Shores
 1 Swift Response
-2 Labyrinth of Skophos
-2 Unknown Shores
 2 Sleeper Dart
 2 Radiant Fountain
+2 Unknown Shores
+2 Labyrinth of Skophos
 2 Forsaken Monument
 2 Dance of the Manse
 2 Swift Response
 3 Sleeper Dart
-3 Unknown Shores
-3 Forsaken Monument
 3 Radiant Fountain
-4 Radiant Fountain
+3 Forsaken Monument
+3 Unknown Shores
+4 Unknown Shores
+4 Forsaken Monument
 4 Sleeper Dart
 4 Crawling Barrens
-4 Forsaken Monument
-4 Unknown Shores
+4 Radiant Fountain
 6 Plains
 7 Plains
 8 Plains
