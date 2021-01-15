@@ -4,12 +4,12 @@
 
 # Standard
 
-|                              A                               |                                    B                                     |                                 C                                  |                    D                     |                    E                     |
-|--------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------|------------------------------------------|
-|[Azorius Blink](./mtggoldfish/Standard/decks/Azorius_Blink.md)|[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[UR](./mtggoldfish/Standard/decks/UR.md)  |[WRG](./mtggoldfish/Standard/decks/WRG.md)|
-|[BG](./mtggoldfish/Standard/decks/BG.md)                      |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[R](./mtggoldfish/Standard/decks/R.md)                              |[WBG](./mtggoldfish/Standard/decks/WBG.md)|[WR](./mtggoldfish/Standard/decks/WR.md)  |
-|[B](./mtggoldfish/Standard/decks/B.md)                        |[Mono-Green Food](./mtggoldfish/Standard/decks/Mono-Green_Food.md)        |[Temur Ramp](./mtggoldfish/Standard/decks/Temur_Ramp.md)            |[WB](./mtggoldfish/Standard/decks/WB.md)  |                                          |
-|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)  |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)          |[UBG](./mtggoldfish/Standard/decks/UBG.md)                          |[WG](./mtggoldfish/Standard/decks/WG.md)  |                                          |
+|                              A                               |                                    B                                     |                                 C                                  |                    D                     |                     E                      |
+|--------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------|--------------------------------------------|
+|[Azorius Blink](./mtggoldfish/Standard/decks/Azorius_Blink.md)|[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)    |[WBG](./mtggoldfish/Standard/decks/WBG.md)|[WUBR](./mtggoldfish/Standard/decks/WUBR.md)|
+|[BG](./mtggoldfish/Standard/decks/BG.md)                      |[G](./mtggoldfish/Standard/decks/G.md)                                    |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[WG](./mtggoldfish/Standard/decks/WG.md)  |                                            |
+|[B](./mtggoldfish/Standard/decks/B.md)                        |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[R](./mtggoldfish/Standard/decks/R.md)                              |[WRG](./mtggoldfish/Standard/decks/WRG.md)|                                            |
+|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)  |[Mono-Green Food](./mtggoldfish/Standard/decks/Mono-Green_Food.md)        |[Temur Ramp](./mtggoldfish/Standard/decks/Temur_Ramp.md)            |[WR](./mtggoldfish/Standard/decks/WR.md)  |                                            |
 
 
 # Pioneer
@@ -59,4 +59,4 @@
 
 
 
-#### Last Updated at 12:41AM on January 15, 2021
+#### Last Updated at 12:43PM on January 15, 2021

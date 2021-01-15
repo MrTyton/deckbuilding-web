@@ -22,8 +22,8 @@
 2 Indatha Triome
 2 Forest
 2 Swamp
-3 Branchloft Pathway
 3 Indatha Triome
+3 Branchloft Pathway
 3 Brightclimb Pathway
 1 Skyclave Apparition
 2 Skyclave Apparition
@@ -38,10 +38,10 @@
 3 Golden Egg
 4 Golden Egg
 1 Temple of Silence
+1 Temple of Plenty
 1 Treacherous Blessing
 1 Eerie Ultimatum
 1 Llanowar Visionary
-1 Temple of Plenty
 1 Yorion, Sky Nomad
 1 Wicked Wolf
 1 Gilded Goose
@@ -95,9 +95,55 @@
 3 Lukka, Coppercoat Outcast
 1 Valakut Awakening
 3 Elspeth, Sun's Nemesis
+1 Island
 1 Extinction Event
 2 Extinction Event
 3 Extinction Event
+1 Savai Triome
+1 Fae of Wishes
+1 Ketria Triome
+1 Tranquil Cove
+1 Thirst for Meaning
+1 Sanctum of Shattered Heights
+1 Wind-Scarred Crag
+1 Dismal Backwater
+1 Cragcrown Pathway
+1 Bloodfell Caves
+1 Clearwater Pathway
+1 Jungle Hollow
+1 Sanctum of All
+1 Sanctum of Calm Waters
+1 Sanctum of Stone Fangs
+1 Sanctum of Fruitful Harvest
+1 Sanctum of Tranquil Light
+1 Thornwood Falls
+1 Riverglide Pathway
+1 Bloodchief's Thirst
+1 Zagoth Triome
+2 Sanctum of Calm Waters
+2 Sanctum of Stone Fangs
+2 Sanctum of Shattered Heights
+2 Sanctum of All
+2 Sanctum of Tranquil Light
+2 Sanctum of Fruitful Harvest
+2 Thirst for Meaning
+2 Dismal Backwater
+2 Fae of Wishes
+2 Cragcrown Pathway
+2 Tranquil Cove
+2 Clearwater Pathway
+2 Bloodchief's Thirst
+2 Zagoth Triome
+3 Sanctum of All
+3 Sanctum of Shattered Heights
+3 Sanctum of Fruitful Harvest
+3 Sanctum of Calm Waters
+3 Sanctum of Stone Fangs
+3 Sanctum of Tranquil Light
+3 Fae of Wishes
+3 Bloodchief's Thirst
+4 Extinction Event
+4 Sanctum of Shattered Heights
 1 Eliminate
 1 Elspeth's Nightmare
 1 Polukranos, Unchained
@@ -118,58 +164,12 @@
 2 Duress
 2 Polukranos, Unchained
 2 Scavenging Ooze
-3 Yasharn, Implacable Earth
 3 Scavenging Ooze
 3 Elder Gargaroth
 3 Temple of Malady
 3 Duress
+3 Yasharn, Implacable Earth
 4 Duress
-1 Island
-1 Savai Triome
-1 Sanctum of Calm Waters
-1 Fae of Wishes
-1 Ketria Triome
-1 Tranquil Cove
-1 Bloodfell Caves
-1 Thirst for Meaning
-1 Dismal Backwater
-1 Cragcrown Pathway
-1 Clearwater Pathway
-1 Jungle Hollow
-1 Thornwood Falls
-1 Sanctum of Shattered Heights
-1 Sanctum of All
-1 Sanctum of Stone Fangs
-1 Riverglide Pathway
-1 Bloodchief's Thirst
-1 Zagoth Triome
-1 Wind-Scarred Crag
-1 Sanctum of Fruitful Harvest
-1 Sanctum of Tranquil Light
-2 Thirst for Meaning
-2 Dismal Backwater
-2 Fae of Wishes
-2 Cragcrown Pathway
-2 Tranquil Cove
-2 Clearwater Pathway
-2 Bloodchief's Thirst
-2 Sanctum of Fruitful Harvest
-2 Sanctum of Tranquil Light
-2 Zagoth Triome
-2 Sanctum of All
-2 Sanctum of Shattered Heights
-2 Sanctum of Stone Fangs
-2 Sanctum of Calm Waters
-3 Fae of Wishes
-3 Bloodchief's Thirst
-3 Sanctum of Stone Fangs
-3 Sanctum of Calm Waters
-3 Sanctum of Tranquil Light
-3 Sanctum of Fruitful Harvest
-3 Sanctum of Shattered Heights
-3 Sanctum of All
-4 Extinction Event
-4 Sanctum of Shattered Heights
 1 Wolfwillow Haven
 1 Felidar Retreat
 1 Erebos's Intervention
@@ -181,8 +181,8 @@
 2 Cultivate
 3 Bala Ged Recovery
 3 Wolfwillow Haven
-3 Cultivate
 3 Erebos's Intervention
+3 Cultivate
 3 Garruk, Cursed Huntsman
 3 Emeria's Call
 4 Wolfwillow Haven
@@ -248,6 +248,7 @@
 4 Evolving Wilds
 4 Relic Golem
 4 Ruin Crab
+1 Rewind
 1 Lofty Denial
 1 Rain of Revelation
 1 Neutralize
@@ -259,11 +260,11 @@
 1 Jwari Disruption
 1 Essence Scatter
 1 Castle Vantress
-1 Rewind
 1 Sublime Epiphany
 1 Brazen Borrower
 1 Gadwick, the Wizened
 2 Castle Vantress
+2 Rewind
 2 Lofty Denial
 2 Rain of Revelation
 2 Essence Scatter
@@ -271,7 +272,6 @@
 2 Shark Typhoon
 2 Gadwick, the Wizened
 2 Brazen Borrower
-2 Rewind
 2 Hypnotic Sprite
 3 Neutralize
 3 Castle Vantress
@@ -284,21 +284,21 @@
 4 Castle Vantress
 4 Brazen Borrower
 1 Dance of the Manse
+1 Sleeper Dart
 1 Labyrinth of Skophos
 1 Radiant Fountain
-1 Sleeper Dart
 1 Forsaken Monument
 1 Unknown Shores
 1 Swift Response
-2 Radiant Fountain
 2 Sleeper Dart
+2 Radiant Fountain
 2 Unknown Shores
-2 Forsaken Monument
 2 Labyrinth of Skophos
+2 Forsaken Monument
 2 Dance of the Manse
 2 Swift Response
-3 Radiant Fountain
 3 Sleeper Dart
+3 Radiant Fountain
 3 Forsaken Monument
 3 Unknown Shores
 4 Forsaken Monument

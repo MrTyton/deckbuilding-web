@@ -153,10 +153,10 @@
 1 Mutavault
 2 Mutavault
 1 Merfolk Windrobber
-1 Soaring Thought-Thief
-1 Thieves' Guild Enforcer
-1 Drown in the Loch
 1 Into the Story
+1 Drown in the Loch
+1 Thieves' Guild Enforcer
+1 Soaring Thought-Thief
 1 Agadeem's Awakening
 1 Eliminate
 1 Thoughtseize
@@ -167,28 +167,28 @@
 1 Fatal Push
 1 Watery Grave
 2 Merfolk Windrobber
+2 Agadeem's Awakening
+2 Into the Story
 2 Soaring Thought-Thief
 2 Drown in the Loch
-2 Agadeem's Awakening
 2 Thieves' Guild Enforcer
-2 Into the Story
 2 Fatal Push
 2 Thoughtseize
 2 Watery Grave
 2 Deathrite Shaman
 2 Clearwater Pathway
 3 Merfolk Windrobber
-3 Soaring Thought-Thief
-3 Drown in the Loch
-3 Thieves' Guild Enforcer
 3 Into the Story
+3 Thieves' Guild Enforcer
+3 Drown in the Loch
+3 Soaring Thought-Thief
 3 Deathrite Shaman
 3 Clearwater Pathway
 3 Thoughtseize
 3 Watery Grave
 4 Drown in the Loch
-4 Soaring Thought-Thief
 4 Thieves' Guild Enforcer
+4 Soaring Thought-Thief
 4 Thoughtseize
 4 Deathrite Shaman
 4 Clearwater Pathway
@@ -324,8 +324,8 @@
 2 Vampire of the Dire Moon
 4 Nullhide Ferox
 1 Shadowspear
-1 Open the Armory
 1 Brightclimb Pathway
+1 Open the Armory
 1 Godless Shrine
 1 Kor Blademaster
 1 Caves of Koilos
