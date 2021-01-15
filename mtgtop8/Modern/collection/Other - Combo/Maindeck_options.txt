@@ -63,8 +63,8 @@
 2 Talisman of Dominance
 1 Blackbloom Rogue
 1 Glasspool Mimic
-1 Brazen Borrower
 1 Thassa's Oracle
+1 Brazen Borrower
 1 Unburial Rites
 2 Glasspool Mimic
 2 Brazen Borrower
@@ -92,20 +92,20 @@
 4 Tangled Florahedron
 4 Devoted Druid
 4 Karn, the Great Creator
-1 Arid Mesa
 1 Sacred Foundry
+1 Arid Mesa
 2 Arid Mesa
 1 Opt
 1 Izzet Charm
 1 Emrakul, the Aeons Torn
 1 Scalding Tarn
 1 Dwarven Mine
-1 Bloodstained Mire
 1 Force of Negation
 1 Delay
 1 Raugrin Triome
 1 Steam Vents
 1 Teferi, Time Raveler
+1 Bloodstained Mire
 1 Mountain
 1 Wooded Foothills
 1 Polymorph
@@ -113,12 +113,13 @@
 1 Ketria Triome
 1 Stomping Ground
 1 Remand
-2 Izzet Charm
 2 Opt
 2 Wooded Foothills
-2 Bloodstained Mire
+2 Emrakul, the Aeons Torn
+2 Izzet Charm
 2 Delay
 2 Mountain
+2 Bloodstained Mire
 2 Teferi, Time Raveler
 2 Remand
 2 Mass Hysteria
@@ -127,10 +128,9 @@
 2 Dwarven Mine
 2 Force of Negation
 2 Lightning Bolt
-2 Emrakul, the Aeons Torn
 2 Polymorph
-3 Opt
 3 Arid Mesa
+3 Opt
 3 Wooded Foothills
 3 Lightning Bolt
 3 Polymorph
@@ -142,9 +142,9 @@
 3 Scalding Tarn
 3 Mass Hysteria
 4 Remand
+4 Arid Mesa
 4 Wooded Foothills
 4 Teferi, Time Raveler
-4 Arid Mesa
 4 Transmogrify
 4 Lightning Bolt
 4 Polymorph
@@ -156,12 +156,12 @@
 1 Nykthos, Shrine to Nyx
 1 Deafening Clarion
 1 Marsh Flats
-1 Plains
 1 Skyclave Apparition
 1 Wheel of Sun and Moon
 1 Nine Lives
 1 Oust
 1 Solemnity
+1 Plains
 1 Form of the Dragon
 1 Overwhelming Splendor
 1 Silence
@@ -169,11 +169,11 @@
 1 Phyrexian Unlife
 1 Enduring Ideal
 1 Treasure Map
-2 Temple of Triumph
 2 Silence
+2 Temple of Triumph
 2 Oust
-2 Nykthos, Shrine to Nyx
 2 Marsh Flats
+2 Nykthos, Shrine to Nyx
 2 Deafening Clarion
 2 Sacred Foundry
 2 Skyclave Apparition

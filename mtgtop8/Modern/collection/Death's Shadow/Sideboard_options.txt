@@ -1,6 +1,8 @@
 1 Feed the Swarm
 2 Boil
-2 Feed the Swarm
+2 Rain of Gore
+3 Boil
+1 Engineered Explosives
 1 Cleansing Wildfire
 2 Cleansing Wildfire
 2 Kolaghan's Command
@@ -10,10 +12,8 @@
 3 Nihil Spellbomb
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
-3 Boil
-2 Rain of Gore
+2 Feed the Swarm
 4 Boil
-1 Engineered Explosives
 2 Kroxa, Titan of Death's Hunger
 1 Tormod's Crypt
 1 Rakdos Charm
@@ -27,10 +27,6 @@
 1 Abrupt Decay
 1 Seal of Primordium
 1 Pyrite Spellbomb
-1 Apostle's Blessing
-1 Unravel the Aether
-2 Apostle's Blessing
-2 Unravel the Aether
 1 Stony Silence
 1 Liliana, the Last Hope
 1 Lingering Souls
@@ -41,6 +37,10 @@
 2 Thalia, Heretic Cathar
 2 Lingering Souls
 2 Stony Silence
+1 Apostle's Blessing
+1 Unravel the Aether
+2 Apostle's Blessing
+2 Unravel the Aether
 2 Abrade
 1 Mutagenic Growth
 1 Grim Lavamancer
@@ -67,11 +67,11 @@
 1 Drown in the Loch
 1 Disdainful Stroke
 1 Mystical Dispute
+2 The Royal Scions
 2 Collective Brutality
 2 Plague Engineer
 2 Drown in the Loch
 2 Disdainful Stroke
-2 The Royal Scions
 2 Mystical Dispute
 3 Disdainful Stroke
 1 Surgical Extraction

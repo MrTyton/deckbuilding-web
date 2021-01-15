@@ -23,27 +23,27 @@
 1 Massacre Wurm
 1 Tangled Florahedron
 2 Tangled Florahedron
-3 Ilysian Caryatid
 3 Tangled Florahedron
-4 Ilysian Caryatid
+3 Ilysian Caryatid
 4 Tangled Florahedron
+4 Ilysian Caryatid
 3 Mire Triton
 6 Swamp
 1 Elder Gargaroth
 1 Crawling Barrens
+1 Order of Midnight
 1 Brightclimb Pathway
 1 Kenrith, the Returned King
 1 Nissa of Shadowed Boughs
 1 Mythos of Nethroi
 1 Cragcrown Pathway
 1 Branchloft Pathway
-1 Order of Midnight
-2 Nissa of Shadowed Boughs
 2 Indatha Triome
+2 Order of Midnight
 2 Brightclimb Pathway
 2 Mythos of Nethroi
 2 Cragcrown Pathway
-2 Order of Midnight
+2 Nissa of Shadowed Boughs
 2 Branchloft Pathway
 3 Branchloft Pathway
 1 Chevill, Bane of Monsters
@@ -52,21 +52,21 @@
 2 Vivien, Monsters' Advocate
 4 Eliminate
 1 Solemn Simulacrum
-1 Nightmare Shepherd
 1 Kogla, the Titan Ape
+1 Thassa, Deep-Dwelling
 1 Lochmere Serpent
 1 Gyruda, Doom of Depths
-1 Thassa, Deep-Dwelling
+1 Nightmare Shepherd
 1 Thassa's Oracle
 1 Humble Naturalist
 1 Clearwater Pathway
 2 Solemn Simulacrum
-2 Nightmare Shepherd
 2 Massacre Wurm
 2 Thassa, Deep-Dwelling
 2 Lochmere Serpent
 2 Gyruda, Doom of Depths
 2 Humble Naturalist
+2 Nightmare Shepherd
 2 Clearwater Pathway
 2 Kogla, the Titan Ape
 3 Solemn Simulacrum
@@ -80,12 +80,12 @@
 4 Nightmare Shepherd
 4 Clearwater Pathway
 4 Humble Naturalist
-1 Brokkos, Apex of Forever
 1 Inscription of Abundance
 1 Dirge Bat
 1 Elspeth's Nightmare
 1 Gemrazer
 1 Bala Ged Recovery
+1 Brokkos, Apex of Forever
 1 Essence Symbiote
 1 Migratory Greathorn
 2 Bala Ged Recovery
@@ -98,9 +98,9 @@
 3 Essence Symbiote
 3 Castle Locthwain
 3 Migratory Greathorn
+4 Polukranos, Unchained
 4 Migratory Greathorn
 4 Castle Locthwain
-4 Polukranos, Unchained
 8 Forest
 1 Gilded Goose
 1 Feasting Troll King
@@ -116,18 +116,19 @@
 2 Trail of Crumbs
 3 Bloodchief's Thirst
 3 Gilded Goose
-3 Castle Garenbrig
 3 Feasting Troll King
 3 Wicked Wolf
 3 Trail of Crumbs
+3 Castle Garenbrig
 4 Bloodchief's Thirst
 4 Trail of Crumbs
 4 Gilded Goose
-4 Castle Garenbrig
 4 Agadeem's Awakening
+4 Castle Garenbrig
 4 Wicked Wolf
 4 Feasting Troll King
 1 Acolyte of Affliction
+1 Grasp of Darkness
 1 Ram Through
 1 Evolving Wilds
 1 Garruk's Uprising
@@ -137,9 +138,9 @@
 1 Feed the Swarm
 1 Chainweb Aracnir
 1 Gnarlid Colony
-1 Grasp of Darkness
 1 Greater Sandwurm
 2 Acolyte of Affliction
+2 Grasp of Darkness
 2 Ram Through
 2 Evolving Wilds
 2 Garruk's Uprising
@@ -148,19 +149,18 @@
 2 Feed the Swarm
 2 Chainweb Aracnir
 2 Gnarlid Colony
-2 Grasp of Darkness
 2 Greater Sandwurm
 3 Llanowar Visionary
+3 Grasp of Darkness
 3 Chainweb Aracnir
-3 Jungle Hollow
 3 Ram Through
 3 Garruk's Uprising
-3 Grasp of Darkness
-4 Mire Triton
+3 Jungle Hollow
 4 Llanowar Visionary
-4 Jungle Hollow
+4 Mire Triton
 4 Ram Through
 4 Garruk's Uprising
+4 Jungle Hollow
 4 Grasp of Darkness
 7 Swamp
 10 Forest

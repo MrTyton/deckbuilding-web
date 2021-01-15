@@ -61,6 +61,7 @@
 |                    3|[Doomsday](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15397)           |                     |                                                                                              |
 |                    3|[Street Wraith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442097)     |                     |                                                                                              |
 |                    3|[Echo of Eons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463995)      |                     |                                                                                              |
+|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                     |                                                                                              |
 |                    1|[Buried Alive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446795)      |                     |                                                                                              |
 |                    1|[Arclight Phoenix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452841)  |                     |                                                                                              |
 |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)      |                     |                                                                                              |
@@ -77,5 +78,4 @@
 |                    1|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)    |                     |                                                                                              |
 |                    2|[Infernal Tutor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107308)    |                     |                                                                                              |
 |                    4|[Chrome Mox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413761)        |                     |                                                                                              |
-|                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113) |                     |                                                                                              |
 

@@ -2,11 +2,11 @@
 2 Growth Spiral
 1 Remand
 1 Scalding Tarn
-1 Fact or Fiction
 1 Nexus of Fate
+1 Fact or Fiction
 1 Wilderness Reclamation
-2 Fact or Fiction
 2 Remand
+2 Fact or Fiction
 2 Wilderness Reclamation
 3 Remand
 3 Growth Spiral
@@ -39,16 +39,16 @@
 3 Wilderness Reclamation
 1 Emry, Lurker of the Loch
 1 Mox Amber
-1 Urza, Lord High Artificer
 1 Soul-Guide Lantern
+1 Urza, Lord High Artificer
 1 Gilded Goose
 1 Engineered Explosives
 1 Mishra's Bauble
 2 Emry, Lurker of the Loch
+2 Engineered Explosives
 2 Urza, Lord High Artificer
 2 Gilded Goose
 2 Mishra's Bauble
-2 Engineered Explosives
 3 Urza, Lord High Artificer
 3 Gilded Goose
 3 Mishra's Bauble
@@ -56,8 +56,8 @@
 4 Gilded Goose
 4 Mishra's Bauble
 1 Waterlogged Grove
-1 Assassin's Trophy
 1 Surgical Extraction
+1 Assassin's Trophy
 1 Mesmeric Orb
 1 Hedron Crab
 1 Winds of Rebuke
@@ -65,19 +65,19 @@
 1 Glimpse the Unthinkable
 1 Archive Trap
 1 Ruin Crab
+2 Overgrown Tomb
 2 Surgical Extraction
 2 Assassin's Trophy
 2 Ruin Crab
-2 Overgrown Tomb
 2 Visions of Beyond
 2 Mesmeric Orb
 2 Archive Trap
 2 Hedron Crab
 2 Glimpse the Unthinkable
 3 Field of Ruin
-3 Surgical Extraction
 3 Assassin's Trophy
 3 Hedron Crab
+3 Surgical Extraction
 3 Archive Trap
 3 Glimpse the Unthinkable
 3 Ruin Crab
@@ -92,9 +92,9 @@
 1 Sunken Hollow
 1 Shark Typhoon
 2 Shark Typhoon
+1 Pithing Needle
 1 Sword of the Meek
 1 Thopter Foundry
-1 Pithing Needle
 1 Whir of Invention
 2 Thopter Foundry
 2 Whir of Invention
@@ -103,9 +103,9 @@
 1 Metallic Rebuke
 1 Venser, Shaper Savant
 2 Hour of Promise
+3 Engineered Explosives
 1 Cling to Dust
 3 Abrupt Decay
-3 Engineered Explosives
 3 Shark Typhoon
 4 Shark Typhoon
 1 Tireless Tracker
@@ -116,7 +116,6 @@
 3 Tireless Tracker
 4 Island
 5 Island
-1 Cavern of Souls
 1 Explore
 1 Valakut, the Molten Pinnacle
 1 Vesuva
@@ -131,14 +130,15 @@
 1 Gruul Turf
 1 Amulet of Vigor
 1 Golgari Rot Farm
+1 Cavern of Souls
 1 Primal Command
 1 Tolaria West
 1 Reclamation Sage
 1 Sakura-Tribe Scout
 1 Hanweir Battlements
-2 Valakut, the Molten Pinnacle
 2 Snow-Covered Forest
 2 Primeval Titan
+2 Valakut, the Molten Pinnacle
 2 Dryad of the Ilysian Grove
 2 Turntimber Symbiosis
 2 Summoner's Pact

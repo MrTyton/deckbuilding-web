@@ -1,12 +1,13 @@
-2 Snow-Covered Island
+3 Fact or Fiction
 4 Fact or Fiction
-1 Jace, the Mind Sculptor
 1 Mana Leak
-1 Flooded Strand
 2 Mana Leak
+1 Jace, the Mind Sculptor
+1 Flooded Strand
 2 Flooded Strand
 1 Snow-Covered Mountain
 2 Archmage's Charm
+1 Hour of Promise
 2 Snow-Covered Forest
 3 Snow-Covered Island
 1 Mox Amber
@@ -21,18 +22,18 @@
 3 Emry, Lurker of the Loch
 4 Mishra's Bauble
 4 Emry, Lurker of the Loch
-1 Polluted Delta
 1 Tamiyo, Collector of Tales
-1 Hour of Promise
+4 Wrenn and Six
+1 Polluted Delta
 3 Mana Leak
-2 Ketria Triome
+2 Hour of Promise
 1 Gilded Goose
 2 Gilded Goose
 3 Gilded Goose
 4 Gilded Goose
 1 Galvanic Blast
-2 Jace, the Mind Sculptor
 1 Aether Spellbomb
+2 Jace, the Mind Sculptor
 1 Soul-Guide Lantern
 1 Metallic Rebuke
 1 Urza, Lord High Artificer
@@ -42,20 +43,18 @@
 3 Galvanic Blast
 3 Urza, Lord High Artificer
 4 Urza, Lord High Artificer
-4 Wrenn and Six
 3 Mystic Sanctuary
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Utopia Sprawl
 4 Utopia Sprawl
-1 Flame Slash
 2 Polluted Delta
 1 Time Warp
 2 Time Warp
 3 Time Warp
 4 Time Warp
-2 Steam Vents
 3 Archmage's Charm
+2 Ketria Triome
 1 Waterlogged Grove
 1 Prismatic Vista
 2 Wooded Foothills
@@ -78,13 +77,18 @@
 4 Underworld Breach
 3 Flooded Strand
 4 Snow-Covered Island
+1 Spell Snare
+1 Flame Slash
+1 Oboro, Palace in the Clouds
+3 Field of the Dead
 1 Witching Well
 1 Snapcaster Mage
 1 Opt
 2 Opt
 3 Opt
-2 Hour of Promise
-1 Spell Snare
+2 Steam Vents
+2 Field of Ruin
+1 Aether Gust
 2 Tamiyo, Collector of Tales
 2 Prismatic Vista
 3 Wooded Foothills
@@ -92,10 +96,8 @@
 1 Expansion/Explosion
 1 Shark Typhoon
 3 Wilderness Reclamation
-2 Stomping Ground
 2 Lonely Sandbar
 1 Reflecting Pool
-1 Aether Gust
 1 Nightpack Ambusher
 1 Tectonic Edge
 2 Snapcaster Mage
@@ -103,27 +105,14 @@
 2 Nightpack Ambusher
 3 Snapcaster Mage
 4 Mana Leak
-1 Oboro, Palace in the Clouds
+1 Hinterland Harbor
 1 Life from the Loam
 1 Explore
-3 Field of the Dead
 2 Soul-Guide Lantern
 3 Engineered Explosives
 3 Metallic Rebuke
-4 Cryptic Command
-1 Valakut, the Molten Pinnacle
-1 Scapeshift
-2 Valakut, the Molten Pinnacle
-2 Scapeshift
-3 Ketria Triome
-3 Scapeshift
-3 Steam Vents
-4 Ketria Triome
-4 Steam Vents
-4 Scapeshift
-1 Izzet Charm
-2 Field of Ruin
 3 Island
+1 Izzet Charm
 3 Prismatic Vista
 4 Prismatic Vista
 1 Birds of Paradise
@@ -140,15 +129,12 @@
 4 Opt
 5 Snow-Covered Island
 6 Snow-Covered Island
+2 Stomping Ground
 1 Minamo, School at Water's Edge
 1 Tireless Tracker
-1 Hinterland Harbor
 2 Spell Snare
 1 Talisman of Curiosity
 2 Talisman of Curiosity
-1 Silundi Vision
-1 Atarka's Command
-2 Atarka's Command
 2 Witching Well
 1 Ice-Fang Coatl
 1 Abundant Growth
@@ -162,6 +148,20 @@
 1 Exhaustion
 2 Exhaustion
 4 Mystic Sanctuary
+4 Cryptic Command
+1 Silundi Vision
+1 Valakut, the Molten Pinnacle
+1 Atarka's Command
+1 Scapeshift
+2 Valakut, the Molten Pinnacle
+2 Scapeshift
+2 Atarka's Command
+3 Ketria Triome
+3 Steam Vents
+3 Scapeshift
+4 Ketria Triome
+4 Steam Vents
+4 Scapeshift
 1 Klothys, God of Destiny
 2 Shark Typhoon
 2 Birds of Paradise

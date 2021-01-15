@@ -1,7 +1,7 @@
-2 Abrupt Decay
-2 Wooded Foothills
+3 Misty Rainforest
 3 Abundant Growth
 3 Wooded Foothills
+4 Misty Rainforest
 4 Abundant Growth
 4 Wrenn and Six
 1 Windswept Heath
@@ -10,186 +10,35 @@
 2 Omnath, Locus of Creation
 3 Omnath, Locus of Creation
 3 Windswept Heath
-1 Dreadbore
 1 Expansion/Explosion
+1 Dreadbore
 1 Kolaghan's Command
 1 Birds of Paradise
 4 Omnath, Locus of Creation
 4 Windswept Heath
-2 Verdant Catacombs
 1 Kaya, Orzhov Usurper
+2 Verdant Catacombs
 1 Lightning Bolt
-1 Hour of Promise
-1 Nahiri, the Harbinger
-1 Engineered Explosives
-1 Snow-Covered Island
-1 Polluted Delta
-3 Verdant Catacombs
-4 Verdant Catacombs
-1 Snow-Covered Mountain
-1 Snow-Covered Plains
 2 Sisay, Weatherlight Captain
+1 Hour of Promise
 1 Oath of Nissa
 1 Valakut Awakening
 1 Blood Crypt
+1 Nahiri, the Harbinger
+1 Polluted Delta
 2 Oath of Nissa
 2 Nahiri, the Harbinger
 3 Abrupt Decay
+3 Verdant Catacombs
 4 Wooded Foothills
+4 Verdant Catacombs
+1 Snow-Covered Mountain
+1 Snow-Covered Plains
+1 Nissa of Shadowed Boughs
+1 Engineered Explosives
+1 Snow-Covered Island
+1 Pillar of the Paruns
 1 Snow-Covered Swamp
 2 Assassin's Trophy
-2 Snow-Covered Forest
-1 Primeval Titan
-2 Field of the Dead
-1 Flooded Strand
-1 Mystic Sanctuary
-1 Remand
-1 Mana Leak
-1 Cryptic Command
-1 Growth Spiral
-1 Life from the Loam
-2 Breeding Pool
-1 Cavern of Souls
-1 Ghost Quarter
-1 Dryad of the Ilysian Grove
-1 Search for Tomorrow
-1 Blast Zone
-1 Radiant Fountain
-1 Valakut, the Molten Pinnacle
-1 Bojuka Bog
-2 Cavern of Souls
-2 Forest
-2 Valakut, the Molten Pinnacle
-2 Dryad of the Ilysian Grove
-2 Search for Tomorrow
-2 Primeval Titan
-3 Search for Tomorrow
-3 Primeval Titan
-3 Dryad of the Ilysian Grove
-4 Dryad of the Ilysian Grove
-1 Nissa of Shadowed Boughs
-1 Pillar of the Paruns
 2 Pillar of the Paruns
-1 Field of Ruin
-1 Snapcaster Mage
-1 Flame Slash
-1 Izzet Charm
-1 Aether Gust
-1 Fact or Fiction
-1 Narset, Parter of Veils
-1 Oboro, Palace in the Clouds
-1 Thought Scour
-1 Firespout
-1 Archmage's Charm
-1 Dovin's Veto
-1 Path to Exile
-1 Oust
-1 Force of Negation
-1 Teferi, Hero of Dominaria
-1 Explore
-1 Spell Pierce
-1 Jace, the Mind Sculptor
-1 Raugrin Triome
-2 Field of Ruin
-2 Flooded Strand
-2 Mystic Sanctuary
-3 Flooded Strand
-4 Flooded Strand
-1 Scalding Tarn
-1 Negate
-1 Tolaria West
-1 Pact of Negation
-1 Simic Growth Chamber
-1 Gifts Ungiven
-1 Summoner's Pact
-1 Vesuva
-2 Island
-2 Remand
-2 Engineered Explosives
-2 Mana Leak
-2 Growth Spiral
-2 Gifts Ungiven
-3 Forest
-4 Search for Tomorrow
-1 Battlefield Forge
-1 Blood Artist
-1 Inspiring Vantage
-1 Village Rites
-1 Westvale Abbey
-1 Promise of Bunrei
-1 Ayli, Eternal Pilgrim
-1 Falkenrath Aristocrat
-1 Tragic Slip
-1 Caves of Koilos
-1 Needle Spires
-1 Doomed Traveler
-1 Concealed Courtyard
-1 Zulaport Cutthroat
-1 Lingering Souls
-1 Thraben Inspector
-1 Butcher of the Horde
-1 Shambling Vent
-1 Viscera Seer
-2 Battlefield Forge
-2 Inspiring Vantage
-2 Swamp
-2 Plains
-2 Promise of Bunrei
-2 Doomed Traveler
-2 Concealed Courtyard
-2 Lingering Souls
-2 Tragic Slip
-2 Caves of Koilos
-2 Blood Artist
-2 Thraben Inspector
-2 Falkenrath Aristocrat
-2 Zulaport Cutthroat
-2 Butcher of the Horde
-2 Shambling Vent
-3 Battlefield Forge
-3 Inspiring Vantage
-3 Concealed Courtyard
-3 Lingering Souls
-3 Butcher of the Horde
-3 Promise of Bunrei
-3 Tragic Slip
-3 Caves of Koilos
-3 Blood Artist
-3 Doomed Traveler
-3 Falkenrath Aristocrat
-3 Zulaport Cutthroat
-4 Concealed Courtyard
-4 Lingering Souls
-4 Battlefield Forge
-4 Blood Artist
-4 Inspiring Vantage
-4 Zulaport Cutthroat
-4 Doomed Traveler
-4 Promise of Bunrei
-4 Caves of Koilos
-1 Arboreal Grazer
-1 Elder Gargaroth
-1 Urborg, Tomb of Yawgmoth
-1 Tireless Tracker
-1 Cascading Cataracts
-1 Oracle of Mul Daya
-1 Golgari Rot Farm
-1 Heartless Summoning
-1 Dread Presence
-2 Golgari Rot Farm
-2 Arboreal Grazer
-2 Golos, Tireless Pilgrim
-2 Urborg, Tomb of Yawgmoth
-2 Tireless Tracker
-2 Heartless Summoning
-2 Oracle of Mul Daya
-2 Dread Presence
-2 Elder Gargaroth
-3 Elder Gargaroth
-3 Golgari Rot Farm
-3 Tireless Tracker
-3 Dread Presence
-3 Heartless Summoning
-4 Elder Gargaroth
-4 Primeval Titan
-4 Heartless Summoning
+2 Snow-Covered Forest
