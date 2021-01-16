@@ -1,10 +1,11 @@
-2 Hullbreacher
-4 Arcum's Astrolabe
-1 Day's Undoing
-1 Carpet of Flowers
-2 Day's Undoing
-2 Narset, Parter of Veils
 2 Tropical Island
+1 Flusterstorm
+2 Prismatic Vista
+1 Snapcaster Mage
+1 Jace, the Mind Sculptor
+4 Snow-Covered Island
+1 Counterbalance
+2 Counterbalance
 2 Snapcaster Mage
 3 Snapcaster Mage
 1 Predict
@@ -18,9 +19,8 @@
 4 Prismatic Vista
 5 Snow-Covered Island
 6 Snow-Covered Island
-1 Flusterstorm
-1 Back to Basics
 2 Tundra
+1 Back to Basics
 1 Gideon, Ally of Zendikar
 1 Supreme Verdict
 1 Red Elemental Blast
@@ -31,7 +31,6 @@
 2 Monastery Mentor
 2 Daze
 3 Terminus
-3 Daze
 1 Accumulated Knowledge
 2 Accumulated Knowledge
 3 Accumulated Knowledge
@@ -40,23 +39,21 @@
 3 Scalding Tarn
 2 Preordain
 1 Polluted Delta
-1 Island
-4 Snapcaster Mage
 1 Veil of Summer
 3 Preordain
-1 Intuition
 1 Emrakul, the Aeons Torn
+1 Intuition
 1 Omniscience
 1 Cunning Wish
 1 Eladamri's Call
 1 Show and Tell
 1 City of Traitors
 2 Snow-Covered Forest
+2 Veil of Summer
 2 Emrakul, the Aeons Torn
 2 Omniscience
 2 Cunning Wish
 2 Intuition
-2 Veil of Summer
 2 Show and Tell
 2 City of Traitors
 3 Show and Tell
@@ -65,27 +62,26 @@
 3 Veil of Summer
 4 Omniscience
 4 Show and Tell
-3 Monastery Mentor
-2 Mystic Sanctuary
-3 Tundra
+4 Snapcaster Mage
 1 Karakas
-1 Plains
-2 Island
-2 Plains
-3 Island
-4 Island
+2 Mystic Sanctuary
+1 Island
+3 Tundra
+3 Monastery Mentor
+3 Daze
 1 Wasteland
 2 Volcanic Island
 2 Wasteland
 4 Scalding Tarn
 1 Pyroblast
+1 Plains
+2 Island
+2 Plains
+3 Island
+4 Island
 1 Entreat the Angels
 4 Monastery Mentor
 2 Predict
-1 Portent
-5 Island
-6 Island
-7 Island
 3 Intuition
 1 Mishra's Bauble
 2 Mishra's Bauble
@@ -101,6 +97,7 @@
 1 Temporal Mastery
 1 Brazen Borrower
 1 Maze of Ith
+1 Portent
 1 Devastation Tide
 2 Entreat the Angels
 2 Portent
@@ -108,7 +105,9 @@
 3 Portent
 4 Tundra
 4 Portent
-1 Enlightened Tutor
+5 Island
+6 Island
+7 Island
 1 Lotus Petal
 2 Lotus Petal
 3 Lotus Petal
@@ -116,11 +115,11 @@
 1 Snow-Covered Swamp
 1 Street Wraith
 1 Cavern of Souls
-1 Lion's Eye Diamond
 1 Ideas Unbound
 1 Thassa's Oracle
 1 Edge of Autumn
 1 Doomsday
+1 Lion's Eye Diamond
 1 Underground Sea
 1 Dark Ritual
 2 Polluted Delta
@@ -133,21 +132,7 @@
 4 Polluted Delta
 4 Doomsday
 4 Dark Ritual
-1 Spell Pierce
-1 Energy Field
-1 Rest in Peace
-1 Helm of Obedience
-2 Rest in Peace
-3 Rest in Peace
-1 Path to Exile
-1 Scroll Rack
-1 Land Tax
-2 Enlightened Tutor
-2 Land Tax
-2 Scroll Rack
-3 Scroll Rack
-3 Land Tax
-4 Land Tax
+1 Enlightened Tutor
 1 Sevinne's Reclamation
 1 Griselbrand
 2 Brazen Borrower
@@ -156,6 +141,7 @@
 1 Baleful Strix
 2 Baleful Strix
 3 Baleful Strix
+1 Spell Pierce
 3 Counterbalance
 1 Thoughtseize
 1 Orim's Chant
@@ -167,9 +153,14 @@
 1 Dovin's Veto
 1 Humility
 1 Moat
+1 Energy Field
+1 Rest in Peace
+1 Helm of Obedience
 2 Court of Cunning
+2 Rest in Peace
 2 Energy Field
 3 Energy Field
+3 Rest in Peace
 3 Court of Cunning
 4 Rest in Peace
 1 Dack Fayden
@@ -187,31 +178,29 @@
 3 Mox Diamond
 4 Frantic Inventory
 4 Aria of Flame
-2 Stifle
-4 Wasteland
+1 Path to Exile
 1 Emry, Lurker of the Loch
 1 Firestorm
 1 Mox Opal
 1 Pyrite Spellbomb
+1 Scroll Rack
+1 Land Tax
 1 Urza, Lord High Artificer
+2 Enlightened Tutor
 2 Firestorm
 2 Mox Opal
 2 Path to Exile
+2 Land Tax
+2 Scroll Rack
 2 Urza, Lord High Artificer
 3 Snow-Covered Plains
 3 Mox Opal
+3 Land Tax
+3 Scroll Rack
 4 Snow-Covered Plains
 4 Lotus Petal
+4 Land Tax
 5 Snow-Covered Plains
 7 Snow-Covered Island
-1 Detention Sphere
-1 Solitary Confinement
-1 True-Name Nemesis
-1 Trade Routes
-1 Web of Inertia
-3 Enlightened Tutor
-3 Plains
-4 Plains
-4 Enlightened Tutor
-5 Plains
-6 Plains
+2 Stifle
+4 Wasteland

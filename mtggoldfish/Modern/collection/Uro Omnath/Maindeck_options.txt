@@ -1,12 +1,10 @@
-1 Snow-Covered Plains
 4 Scalding Tarn
+3 Force of Negation
 3 Omnath, Locus of Creation
 3 Growth Spiral
-1 Supreme Verdict
 3 Teferi, Time Raveler
 4 Growth Spiral
 1 Time Warp
-1 Aether Gust
 1 Primeval Titan
 1 Windswept Heath
 2 Windswept Heath
@@ -51,21 +49,24 @@
 4 Coiling Oracle
 4 Wall of Blossoms
 4 Noble Hierarch
+1 Supreme Verdict
 2 Hour of Promise
+1 Aether Gust
 1 Snow-Covered Mountain
 3 Field of the Dead
 1 Wooded Foothills
 2 Wooded Foothills
 3 Wooded Foothills
 4 Wooded Foothills
+1 Remand
 1 Mountain
 1 Utopia Sprawl
 2 Utopia Sprawl
 3 Utopia Sprawl
 4 Utopia Sprawl
+4 Omnath, Locus of Creation
 2 Teferi, Hero of Dominaria
-1 Spell Snare
-1 Remand
+4 Mana Leak
 2 Remand
 1 Lotus Cobra
 1 Karn, the Great Creator
@@ -73,10 +74,9 @@
 2 Lotus Cobra
 2 Karn, the Great Creator
 2 Breeding Pool
-3 Karn, the Great Creator
 3 Lotus Cobra
+3 Karn, the Great Creator
 4 Karn, the Great Creator
-4 Omnath, Locus of Creation
 4 Lotus Cobra
 1 Scavenging Ooze
 1 Eidolon of Rhetoric
@@ -88,8 +88,8 @@
 1 Chord of Calling
 1 Glen Elendra Archmage
 1 Verdant Catacombs
-1 Stoneforge Mystic
 1 Seasoned Pyromancer
+1 Stoneforge Mystic
 1 Restoration Angel
 1 Loaming Shaman
 2 Snow-Covered Plains
@@ -117,10 +117,8 @@
 1 Tale's End
 1 Life from the Loam
 1 Ghost Quarter
+1 Spell Snare
 2 Spell Snare
-1 Prismatic Vista
-3 Remand
-4 Wrenn and Six
 1 Gilded Goose
 1 Stone Rain
 1 Ugin, the Spirit Dragon
@@ -133,7 +131,11 @@
 3 Gilded Goose
 3 Stone Rain
 4 Gilded Goose
-4 Mana Leak
+1 Prismatic Vista
+3 Remand
+4 Wrenn and Six
+3 Lightning Bolt
+4 Lightning Bolt
 1 Tamiyo, Collector of Tales
 1 Arbor Elf
 2 Temple Garden

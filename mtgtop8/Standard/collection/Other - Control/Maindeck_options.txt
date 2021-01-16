@@ -1,23 +1,12 @@
 1 Shredded Sails
 2 Shredded Sails
-2 Shatterskull Smashing
-1 Solemn Simulacrum
-2 Solemn Simulacrum
-1 Ugin, the Spirit Dragon
-1 Mazemind Tome
-2 Ugin, the Spirit Dragon
-2 Mazemind Tome
-3 Ugin, the Spirit Dragon
-3 Mazemind Tome
-4 Ugin, the Spirit Dragon
-4 Mazemind Tome
-3 Elspeth Conquers Death
 1 Indatha Triome
 1 Branchloft Pathway
 1 Brightclimb Pathway
 1 Swamp
 1 Forest
 2 Branchloft Pathway
+3 Elspeth Conquers Death
 2 Brightclimb Pathway
 2 Indatha Triome
 2 Forest
@@ -25,31 +14,31 @@
 3 Indatha Triome
 3 Branchloft Pathway
 3 Brightclimb Pathway
+1 Solemn Simulacrum
 1 Skyclave Apparition
+2 Solemn Simulacrum
 2 Skyclave Apparition
 3 Skyclave Apparition
-3 Swamp
-4 Brightclimb Pathway
 1 Temple of Malady
 2 Temple of Malady
 4 Branchloft Pathway
-1 Golden Egg
-2 Golden Egg
-3 Golden Egg
-4 Golden Egg
+3 Swamp
+4 Brightclimb Pathway
 1 Temple of Silence
-1 Temple of Plenty
 1 Treacherous Blessing
+1 Golden Egg
 1 Eerie Ultimatum
 1 Llanowar Visionary
-1 Yorion, Sky Nomad
+1 Temple of Plenty
 1 Wicked Wolf
 1 Gilded Goose
 1 Charming Prince
 1 Trail of Crumbs
 1 Doom Foretold
+1 Yorion, Sky Nomad
 1 Agadeem's Awakening
 2 Temple of Silence
+2 Golden Egg
 2 Eerie Ultimatum
 2 Gilded Goose
 2 Doom Foretold
@@ -62,6 +51,7 @@
 2 Charming Prince
 3 Treacherous Blessing
 3 Charming Prince
+3 Golden Egg
 3 Doom Foretold
 3 Wicked Wolf
 3 Llanowar Visionary
@@ -70,20 +60,20 @@
 3 Forest
 3 Glass Casket
 4 Trail of Crumbs
+4 Golden Egg
 4 Wicked Wolf
 4 Llanowar Visionary
 4 Gilded Goose
 4 Forest
 4 Doom Foretold
-1 Crawling Barrens
-2 Crawling Barrens
-3 Crawling Barrens
-3 Solemn Simulacrum
-4 Solemn Simulacrum
-1 Shatter the Sky
-2 Shatter the Sky
-3 Shatter the Sky
-4 Shatter the Sky
+1 Ugin, the Spirit Dragon
+1 Mazemind Tome
+2 Ugin, the Spirit Dragon
+2 Mazemind Tome
+3 Ugin, the Spirit Dragon
+3 Mazemind Tome
+4 Ugin, the Spirit Dragon
+4 Mazemind Tome
 1 Garruk, Cursed Huntsman
 1 Mythos of Nethroi
 1 Bala Ged Recovery
@@ -93,108 +83,87 @@
 4 Indatha Triome
 1 Banishing Light
 3 Lukka, Coppercoat Outcast
-1 Valakut Awakening
-3 Elspeth, Sun's Nemesis
-1 Island
 1 Extinction Event
 2 Extinction Event
 3 Extinction Event
+1 Island
 1 Savai Triome
 1 Fae of Wishes
 1 Ketria Triome
 1 Tranquil Cove
 1 Thirst for Meaning
-1 Sanctum of Shattered Heights
-1 Wind-Scarred Crag
 1 Dismal Backwater
 1 Cragcrown Pathway
-1 Bloodfell Caves
+1 Wind-Scarred Crag
 1 Clearwater Pathway
 1 Jungle Hollow
-1 Sanctum of All
+1 Sanctum of Shattered Heights
+1 Bloodfell Caves
+1 Bloodchief's Thirst
 1 Sanctum of Calm Waters
+1 Sanctum of All
 1 Sanctum of Stone Fangs
-1 Sanctum of Fruitful Harvest
 1 Sanctum of Tranquil Light
+1 Sanctum of Fruitful Harvest
 1 Thornwood Falls
 1 Riverglide Pathway
-1 Bloodchief's Thirst
 1 Zagoth Triome
+2 Thirst for Meaning
+2 Dismal Backwater
+2 Cragcrown Pathway
+2 Fae of Wishes
+2 Tranquil Cove
 2 Sanctum of Calm Waters
 2 Sanctum of Stone Fangs
 2 Sanctum of Shattered Heights
 2 Sanctum of All
 2 Sanctum of Tranquil Light
 2 Sanctum of Fruitful Harvest
-2 Thirst for Meaning
-2 Dismal Backwater
-2 Fae of Wishes
-2 Cragcrown Pathway
-2 Tranquil Cove
 2 Clearwater Pathway
 2 Bloodchief's Thirst
 2 Zagoth Triome
+3 Fae of Wishes
 3 Sanctum of All
 3 Sanctum of Shattered Heights
+3 Sanctum of Tranquil Light
 3 Sanctum of Fruitful Harvest
 3 Sanctum of Calm Waters
 3 Sanctum of Stone Fangs
-3 Sanctum of Tranquil Light
-3 Fae of Wishes
 3 Bloodchief's Thirst
 4 Extinction Event
 4 Sanctum of Shattered Heights
 1 Eliminate
+1 Duress
 1 Elspeth's Nightmare
 1 Polukranos, Unchained
 1 Heartless Act
-1 Duress
 1 Thrashing Brontodon
 1 Cling to Dust
 1 Castle Locthwain
 1 Scavenging Ooze
 1 Elder Gargaroth
 1 Yasharn, Implacable Earth
-2 Castle Locthwain
 2 Thrashing Brontodon
-2 Elder Gargaroth
-2 Elspeth's Nightmare
-2 Heartless Act
-2 Yasharn, Implacable Earth
 2 Duress
+2 Heartless Act
+2 Elspeth's Nightmare
+2 Yasharn, Implacable Earth
+2 Elder Gargaroth
+2 Castle Locthwain
 2 Polukranos, Unchained
 2 Scavenging Ooze
-3 Scavenging Ooze
-3 Elder Gargaroth
-3 Temple of Malady
-3 Duress
 3 Yasharn, Implacable Earth
+3 Scavenging Ooze
+3 Duress
+3 Temple of Malady
+3 Elder Gargaroth
 4 Duress
-1 Wolfwillow Haven
-1 Felidar Retreat
-1 Erebos's Intervention
-1 Cultivate
-1 Shadows' Verdict
-2 Wolfwillow Haven
-2 Bala Ged Recovery
-2 Erebos's Intervention
-2 Cultivate
-3 Bala Ged Recovery
-3 Wolfwillow Haven
-3 Erebos's Intervention
-3 Cultivate
-3 Garruk, Cursed Huntsman
-3 Emeria's Call
-4 Wolfwillow Haven
-4 Emeria's Call
-4 Erebos's Intervention
-4 Garruk, Cursed Huntsman
-2 Island
 1 Mystic Sanctuary
 1 Frantic Inventory
 1 Into the Roil
 2 Frantic Inventory
 2 Into the Roil
+2 Island
 3 Frantic Inventory
 3 Island
 4 Frantic Inventory
@@ -214,25 +183,25 @@
 17 Island
 18 Island
 1 Teferi's Tutelage
+1 Evolving Wilds
 1 Ruin Crab
 1 Stern Dismissal
-1 Evolving Wilds
 1 Into the Story
 1 Didn't Say Please
+1 Anticognition
 1 Merfolk Secretkeeper
 1 Negate
 1 Relic Golem
-1 Anticognition
 2 Didn't Say Please
+2 Evolving Wilds
 2 Teferi's Tutelage
 2 Ruin Crab
-2 Evolving Wilds
 2 Stern Dismissal
 2 Merfolk Secretkeeper
 2 Into the Story
+2 Anticognition
 2 Negate
 2 Relic Golem
-2 Anticognition
 3 Didn't Say Please
 3 Evolving Wilds
 3 Teferi's Tutelage
@@ -243,19 +212,42 @@
 3 Anticognition
 3 Into the Story
 4 Didn't Say Please
+4 Evolving Wilds
 4 Teferi's Tutelage
 4 Merfolk Secretkeeper
-4 Evolving Wilds
-4 Relic Golem
 4 Ruin Crab
+4 Relic Golem
+1 Wolfwillow Haven
+1 Felidar Retreat
+1 Erebos's Intervention
+1 Cultivate
+1 Shatter the Sky
+1 Shadows' Verdict
+2 Wolfwillow Haven
+2 Bala Ged Recovery
+2 Shatter the Sky
+2 Erebos's Intervention
+2 Cultivate
+3 Bala Ged Recovery
+3 Wolfwillow Haven
+3 Garruk, Cursed Huntsman
+3 Cultivate
+3 Erebos's Intervention
+3 Emeria's Call
+3 Shatter the Sky
+4 Shatter the Sky
+4 Wolfwillow Haven
+4 Garruk, Cursed Huntsman
+4 Emeria's Call
+4 Erebos's Intervention
 1 Rewind
+1 Hypnotic Sprite
 1 Lofty Denial
 1 Rain of Revelation
 1 Neutralize
 1 Kiora Bests the Sea God
 1 Silundi Vision
 1 Shark Typhoon
-1 Hypnotic Sprite
 1 Bonders' Enclave
 1 Jwari Disruption
 1 Essence Scatter
@@ -266,63 +258,43 @@
 2 Castle Vantress
 2 Rewind
 2 Lofty Denial
+2 Hypnotic Sprite
 2 Rain of Revelation
 2 Essence Scatter
 2 Neutralize
 2 Shark Typhoon
 2 Gadwick, the Wizened
 2 Brazen Borrower
-2 Hypnotic Sprite
-3 Neutralize
 3 Castle Vantress
 3 Rewind
+3 Neutralize
 3 Brazen Borrower
 3 Shark Typhoon
+4 Castle Vantress
+4 Rewind
 4 Neutralize
 4 Shark Typhoon
-4 Rewind
-4 Castle Vantress
 4 Brazen Borrower
-1 Dance of the Manse
-1 Sleeper Dart
-1 Labyrinth of Skophos
-1 Radiant Fountain
-1 Forsaken Monument
-1 Unknown Shores
-1 Swift Response
-2 Sleeper Dart
-2 Radiant Fountain
-2 Unknown Shores
-2 Labyrinth of Skophos
-2 Forsaken Monument
-2 Dance of the Manse
-2 Swift Response
-3 Sleeper Dart
-3 Radiant Fountain
-3 Forsaken Monument
-3 Unknown Shores
-4 Forsaken Monument
-4 Unknown Shores
-4 Sleeper Dart
-4 Crawling Barrens
-4 Radiant Fountain
-6 Plains
-7 Plains
-8 Plains
 1 Temple of Triumph
 1 Storm's Wrath
 1 Scorching Dragonfire
+1 Crawling Barrens
 1 Bonecrusher Giant
 1 Ox of Agonas
 2 Temple of Triumph
 2 Storm's Wrath
-2 Ox of Agonas
 2 Bonecrusher Giant
+2 Ox of Agonas
+2 Crawling Barrens
+2 Shatterskull Smashing
 2 Scorching Dragonfire
+3 Crawling Barrens
 3 Temple of Triumph
+3 Solemn Simulacrum
 3 Storm's Wrath
 3 Bonecrusher Giant
 3 Shatterskull Smashing
+4 Solemn Simulacrum
 4 Skyclave Apparition
 4 Elspeth Conquers Death
 5 Mountain

@@ -22,18 +22,18 @@
 1 Summoner's Pact
 1 Cinder Glade
 1 Stomping Ground
-2 Mountain
 2 Scapeshift
 2 Stomping Ground
 2 Summoner's Pact
 2 Cinder Glade
+2 Mountain
 2 Lightning Bolt
-3 Mountain
 3 Lightning Bolt
 3 Valakut, the Molten Pinnacle
 3 Stomping Ground
 3 Sakura-Tribe Elder
 3 Scapeshift
+3 Mountain
 4 Search for Tomorrow
 4 Sakura-Tribe Elder
 4 Valakut, the Molten Pinnacle
@@ -56,23 +56,6 @@
 3 Snow-Covered Mountain
 3 Snow-Covered Forest
 4 Castle Garenbrig
-1 Migration Path
-1 Farseek
-1 Prismatic Omen
-1 Bloodstained Mire
-1 Dwarven Mine
-1 Mwonvuli Acid-Moss
-2 Bloodstained Mire
-2 Prismatic Omen
-2 Farseek
-3 Forest
-3 Farseek
-4 Mountain
-4 Lightning Bolt
-4 Scapeshift
-4 Farseek
-5 Mountain
-6 Mountain
 1 Urborg, Tomb of Yawgmoth
 1 Cascading Cataracts
 1 Snow-Covered Swamp
@@ -104,3 +87,20 @@
 4 Elder Gargaroth
 4 Verdant Catacombs
 4 Heartless Summoning
+1 Migration Path
+1 Farseek
+1 Prismatic Omen
+1 Bloodstained Mire
+1 Dwarven Mine
+1 Mwonvuli Acid-Moss
+2 Bloodstained Mire
+2 Prismatic Omen
+2 Farseek
+3 Forest
+3 Farseek
+4 Lightning Bolt
+4 Scapeshift
+4 Farseek
+4 Mountain
+5 Mountain
+6 Mountain
