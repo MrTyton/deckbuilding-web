@@ -5,8 +5,8 @@
 3 Lotus Cobra
 3 Heartless Act
 4 Heartless Act
-4 Lotus Cobra
 4 Scavenging Ooze
+4 Lotus Cobra
 1 Eliminate
 2 Eliminate
 4 Kazandu Mammoth
@@ -21,25 +21,25 @@
 2 Mire Triton
 1 Tangled Florahedron
 2 Tangled Florahedron
-3 Tangled Florahedron
 3 Ilysian Caryatid
-4 Tangled Florahedron
+3 Tangled Florahedron
 4 Ilysian Caryatid
+4 Tangled Florahedron
 7 Forest
 1 Elder Gargaroth
 1 Crawling Barrens
-1 Order of Midnight
 1 Brightclimb Pathway
 1 Kenrith, the Returned King
+1 Order of Midnight
 1 Nissa of Shadowed Boughs
 1 Mythos of Nethroi
 1 Cragcrown Pathway
 1 Branchloft Pathway
 2 Indatha Triome
 2 Nissa of Shadowed Boughs
-2 Order of Midnight
 2 Brightclimb Pathway
 2 Mythos of Nethroi
+2 Order of Midnight
 2 Cragcrown Pathway
 2 Branchloft Pathway
 3 Branchloft Pathway
@@ -51,20 +51,20 @@
 4 Eliminate
 1 Solemn Simulacrum
 1 Kogla, the Titan Ape
+1 Thassa, Deep-Dwelling
 1 Lochmere Serpent
 1 Gyruda, Doom of Depths
-1 Thassa, Deep-Dwelling
 1 Nightmare Shepherd
 1 Thassa's Oracle
 1 Humble Naturalist
 1 Clearwater Pathway
 2 Solemn Simulacrum
+2 Nightmare Shepherd
 2 Thassa, Deep-Dwelling
 2 Lochmere Serpent
+2 Massacre Wurm
 2 Gyruda, Doom of Depths
 2 Humble Naturalist
-2 Massacre Wurm
-2 Nightmare Shepherd
 2 Clearwater Pathway
 2 Kogla, the Titan Ape
 3 Solemn Simulacrum
@@ -75,31 +75,31 @@
 3 Clearwater Pathway
 3 Humble Naturalist
 3 Gyruda, Doom of Depths
+4 Nightmare Shepherd
 4 Clearwater Pathway
 4 Humble Naturalist
-4 Nightmare Shepherd
-1 Migratory Greathorn
+1 Brokkos, Apex of Forever
 1 Inscription of Abundance
 1 Dirge Bat
 1 Essence Symbiote
 1 Elspeth's Nightmare
 1 Gemrazer
-1 Brokkos, Apex of Forever
 1 Bala Ged Recovery
+1 Migratory Greathorn
 2 Bala Ged Recovery
-2 Migratory Greathorn
 2 Essence Symbiote
 2 Inscription of Abundance
 2 Dirge Bat
 2 Elspeth's Nightmare
 2 Gemrazer
-3 Mire Triton
-3 Migratory Greathorn
+2 Migratory Greathorn
 3 Essence Symbiote
 3 Castle Locthwain
+3 Migratory Greathorn
+3 Mire Triton
 4 Migratory Greathorn
-4 Polukranos, Unchained
 4 Castle Locthwain
+4 Polukranos, Unchained
 6 Swamp
 1 Gilded Goose
 1 Witch's Oven
@@ -119,8 +119,8 @@
 3 Wicked Wolf
 3 Trail of Crumbs
 3 Castle Garenbrig
-4 Bloodchief's Thirst
 4 Trail of Crumbs
+4 Bloodchief's Thirst
 4 Gilded Goose
 4 Agadeem's Awakening
 4 Castle Garenbrig

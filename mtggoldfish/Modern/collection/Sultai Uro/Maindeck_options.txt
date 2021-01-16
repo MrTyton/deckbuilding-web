@@ -1,41 +1,41 @@
+1 Scalding Tarn
 1 Growth Spiral
 2 Growth Spiral
 1 Remand
-1 Scalding Tarn
-1 Fact or Fiction
+3 Snow-Covered Island
 1 Nexus of Fate
+1 Fact or Fiction
 1 Wilderness Reclamation
-2 Fact or Fiction
 2 Remand
+2 Fact or Fiction
 2 Wilderness Reclamation
 3 Remand
 3 Growth Spiral
 4 Growth Spiral
-3 Snow-Covered Island
-3 Fact or Fiction
-4 Remand
 1 Forest
-1 Flooded Grove
-1 Snow-Covered Swamp
+3 Fact or Fiction
 2 Scalding Tarn
-1 Overgrown Tomb
+4 Remand
 1 Tamiyo, Collector of Tales
 1 Ice-Fang Coatl
 1 Blast Zone
 2 Ice-Fang Coatl
 3 Mystic Sanctuary
-3 Ice-Fang Coatl
 3 Breeding Pool
+3 Ice-Fang Coatl
 4 Snow-Covered Island
 5 Snow-Covered Island
 6 Snow-Covered Island
-4 Cryptic Command
+1 Flooded Grove
+1 Snow-Covered Swamp
+1 Overgrown Tomb
 7 Snow-Covered Island
-1 Life from the Loam
+4 Cryptic Command
 1 Primeval Titan
-1 Ghost Quarter
-3 Wilderness Reclamation
+1 Narset, Parter of Veils
 1 Hour of Promise
+3 Wilderness Reclamation
+1 Life from the Loam
 1 Emry, Lurker of the Loch
 1 Mox Amber
 1 Soul-Guide Lantern
@@ -44,17 +44,17 @@
 1 Gilded Goose
 1 Mishra's Bauble
 2 Emry, Lurker of the Loch
+2 Engineered Explosives
 2 Urza, Lord High Artificer
 2 Gilded Goose
 2 Mishra's Bauble
-2 Engineered Explosives
 3 Gilded Goose
 3 Urza, Lord High Artificer
 3 Mishra's Bauble
 4 Gilded Goose
 4 Urza, Lord High Artificer
 4 Mishra's Bauble
-1 Narset, Parter of Veils
+1 Ghost Quarter
 1 Glimpse the Unthinkable
 1 Hedron Crab
 2 Overgrown Tomb
@@ -102,6 +102,7 @@
 1 Aether Spellbomb
 1 Metallic Rebuke
 1 Venser, Shaper Savant
+1 Drowned Catacomb
 2 Hour of Promise
 1 Cling to Dust
 3 Abrupt Decay
@@ -171,16 +172,15 @@
 1 Verdant Catacombs
 1 Carrion Feeder
 1 Narcomoeba
-1 Merfolk Secretkeeper
 1 Stitcher's Supplier
 1 Gravecrawler
 1 Bloodstained Mire
 1 Vengevine
+1 Merfolk Secretkeeper
 1 Creeping Chill
 1 Silversmote Ghoul
 1 Prized Amalgam
 2 Narcomoeba
-2 Merfolk Secretkeeper
 2 Prized Amalgam
 2 Creeping Chill
 2 Silversmote Ghoul
@@ -188,8 +188,9 @@
 2 Vengevine
 2 Stitcher's Supplier
 2 Gravecrawler
-3 Narcomoeba
+2 Merfolk Secretkeeper
 3 Merfolk Secretkeeper
+3 Narcomoeba
 3 Vengevine
 3 Stitcher's Supplier
 3 Prized Amalgam

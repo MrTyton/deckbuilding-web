@@ -54,11 +54,11 @@
 1 Cabal Pit
 2 Sinkhole
 3 Mishra's Factory
-3 Urborg, Tomb of Yawgmoth
 3 Sinkhole
+3 Urborg, Tomb of Yawgmoth
+4 Urborg, Tomb of Yawgmoth
 4 Mishra's Factory
 4 Smallpox
-4 Urborg, Tomb of Yawgmoth
 1 Plague Engineer
 1 Bloodstained Mire
 1 Toxic Deluge
@@ -132,9 +132,9 @@
 3 Bloodstained Mire
 3 Polluted Delta
 4 Bloodstained Mire
-1 Fetid Heath
 1 Swords to Plowshares
 1 Plains
+1 Fetid Heath
 1 Sevinne's Reclamation
 1 Kaya, Orzhov Usurper
 1 Lingering Souls
@@ -212,5 +212,5 @@
 3 Dead of Winter
 4 Dead of Winter
 1 Liliana's Triumph
-11 Swamp
 4 Sinkhole
+11 Swamp

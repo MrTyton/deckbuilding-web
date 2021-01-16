@@ -1,14 +1,14 @@
 1 Flooded Strand
-1 Thought Scour
-1 Watery Grave
 1 Polluted Delta
+1 Watery Grave
+1 Thought Scour
 1 Mishra's Bauble
-2 Thought Scour
 2 Polluted Delta
+2 Thought Scour
 2 Mishra's Bauble
+3 Polluted Delta
 3 Thought Scour
 3 Mishra's Bauble
-3 Polluted Delta
 4 Polluted Delta
 4 Mishra's Bauble
 1 Field of Ruin
@@ -16,15 +16,15 @@
 1 Agadeem's Awakening
 1 Soaring Thought-Thief
 1 Bloodchief's Thirst
+1 Fatal Push
 1 Thieves' Guild Enforcer
-1 Darkslick Shores
-1 Swamp
 1 Drown in the Loch
 1 Island
-1 Fatal Push
 1 Cling to Dust
+1 Swamp
 1 Spell Snare
 1 Marsh Flats
+1 Darkslick Shores
 1 Creeping Tar Pit
 1 Sunken Ruins
 1 Snapcaster Mage
@@ -33,7 +33,7 @@
 2 Creeping Tar Pit
 2 Bloodchief's Thirst
 2 Watery Grave
-2 Darkslick Shores
+2 Fatal Push
 2 Thieves' Guild Enforcer
 2 Drown in the Loch
 2 Spell Snare
@@ -41,7 +41,7 @@
 2 Cling to Dust
 2 Island
 2 Swamp
-2 Fatal Push
+2 Darkslick Shores
 3 Drown in the Loch
 3 Thieves' Guild Enforcer
 3 Into the Story
@@ -52,21 +52,22 @@
 3 Island
 4 Thieves' Guild Enforcer
 4 Drown in the Loch
+4 Darkslick Shores
 4 Soaring Thought-Thief
 4 Fatal Push
 4 Into the Story
 4 Thought Scour
-4 Darkslick Shores
 4 Island
 1 Snow-Covered Island
 2 Snow-Covered Island
 2 Flooded Strand
 1 Tasigur, the Golden Fang
+1 Snow-Covered Swamp
+1 Unearth
 1 Lurrus of the Dream-Den
 1 Monastery Mentor
 1 Repeal
 1 Soul-Guide Lantern
-1 Unearth
 1 Spellskite
 1 Erayo, Soratami Ascendant
 1 Teferi, Time Raveler
@@ -79,13 +80,12 @@
 1 Aether Spellbomb
 1 Engineered Explosives
 1 Waterlogged Grove
-1 Snow-Covered Swamp
 2 Repeal
 2 Monastery Mentor
 2 Mox Amber
 2 Unearth
-2 Emry, Lurker of the Loch
 2 Teferi, Time Raveler
+2 Emry, Lurker of the Loch
 2 Erayo, Soratami Ascendant
 2 Waterlogged Grove
 2 Engineered Explosives
@@ -142,8 +142,8 @@
 3 Breeding Pool
 3 Mystic Sanctuary
 3 Snow-Covered Island
-3 Misty Rainforest
 3 Field of Ruin
+3 Misty Rainforest
 3 Remand
 3 Cryptic Command
 3 Uro, Titan of Nature's Wrath
@@ -151,21 +151,22 @@
 4 Growth Spiral
 4 Mystic Sanctuary
 4 Snow-Covered Island
-4 Misty Rainforest
 4 Cryptic Command
+4 Misty Rainforest
 4 Archmage's Charm
 5 Snow-Covered Island
 6 Snow-Covered Island
 1 Oust
 1 Battlefield Forge
 1 Cascading Cataracts
+1 Inspiring Vantage
 1 Suppression Field
 1 Sunbaked Canyon
 1 Sacred Foundry
 1 Mana Tithe
 1 Pillage
-1 Stone Rain
 1 Molten Rain
+1 Stone Rain
 1 Ghostly Prison
 1 Magus of the Tabernacle
 1 Flagstones of Trokair
@@ -173,7 +174,6 @@
 1 Mountain
 1 Lightning Bolt
 1 Boom / Bust
-1 Inspiring Vantage
 1 Goblin Dark-Dwellers
 2 Oust
 2 Battlefield Forge
