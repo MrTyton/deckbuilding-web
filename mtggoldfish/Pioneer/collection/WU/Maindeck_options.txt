@@ -10,21 +10,23 @@
 2 Syncopate
 4 Censor
 1 Sinister Sabotage
+1 Detention Sphere
 1 Skyclave Cleric
 2 Skyclave Cleric
-1 Detention Sphere
 1 Temple of Enlightenment
 1 Last Breath
 2 Temple of Enlightenment
 2 Last Breath
-3 Skyclave Cleric
 1 Cast Out
+3 Skyclave Cleric
 1 Emeria's Call
 1 Elixir of Immortality
 1 Sea Gate Restoration
 4 Shark Typhoon
+1 Neutralize
 3 Fabled Passage
 6 Island
+2 Sinister Sabotage
 1 Horribly Awry
 3 Dovin's Veto
 1 Whirlwind Denial
@@ -32,17 +34,12 @@
 2 Whirlwind Denial
 2 Jwari Disruption
 3 Jwari Disruption
-4 Skyclave Cleric
 4 Jwari Disruption
-2 Sinister Sabotage
-1 Neutralize
 3 Narset, Parter of Veils
 1 Blast Zone
-2 Blast Zone
 2 Horribly Awry
-3 Horribly Awry
+4 Skyclave Cleric
 1 Ondu Inversion
-4 Teferi, Hero of Dominaria
 1 Seal Away
 2 Seal Away
 3 Plains
@@ -50,40 +47,46 @@
 4 Teferi, Time Raveler
 2 Elspeth Conquers Death
 4 Fabled Passage
+2 Neutralize
 1 Gideon of the Trials
 2 Gideon of the Trials
-1 Omen of the Sun
 1 Forest
-1 Uro, Titan of Nature's Wrath
 1 Hinterland Harbor
+1 Uro, Titan of Nature's Wrath
 1 Breeding Pool
 2 Breeding Pool
-2 Uro, Titan of Nature's Wrath
 2 Hinterland Harbor
+2 Uro, Titan of Nature's Wrath
 3 Breeding Pool
-3 Uro, Titan of Nature's Wrath
 3 Hinterland Harbor
+3 Uro, Titan of Nature's Wrath
 4 Breeding Pool
+1 Omen of the Sun
+2 Blast Zone
+3 Horribly Awry
 1 Omen of the Sea
 2 Omen of the Sea
 3 Omen of the Sea
 4 Omen of the Sea
-1 Thassa's Intervention
+3 Castle Ardenvale
+1 Void Shatter
+2 Void Shatter
 1 Soul-Guide Lantern
+1 Thassa's Intervention
 1 Brazen Borrower
 2 Castle Vantress
 4 Irrigated Farmland
 2 Sphinx's Revelation
 1 Steam Vents
-4 Narset, Parter of Veils
+4 Teferi, Hero of Dominaria
 1 Dragonlord Ojutai
+4 Narset, Parter of Veils
 1 Watery Grave
 1 Isolated Chapel
 2 Watery Grave
 2 Isolated Chapel
-3 Isolated Chapel
 3 Watery Grave
-2 Neutralize
+3 Isolated Chapel
 3 Neutralize
 1 Mystical Dispute
 1 Tamiyo, Collector of Tales
@@ -100,6 +103,7 @@
 4 Growth Spiral
 2 Omen of the Sun
 2 Search for Azcanta
+2 Soul-Guide Lantern
 1 Temple of Epiphany
 1 Temple of Triumph
 1 Aurelia's Fury
@@ -112,8 +116,7 @@
 2 Emergency Powers
 2 Thassa's Intervention
 3 Field of Ruin
-2 Soul-Guide Lantern
-3 Castle Ardenvale
+4 Castle Ardenvale
 2 Dream Trawler
 4 Uro, Titan of Nature's Wrath
 1 Eliminate
@@ -132,19 +135,19 @@
 3 Ashiok, Nightmare Muse
 4 Watery Grave
 4 Neutralize
-1 Thing in the Ice
 1 Drowned Catacomb
+1 Thing in the Ice
 1 Fatal Push
 1 Heartless Act
 1 Godless Shrine
 2 Drowned Catacomb
-2 Thing in the Ice
 2 Fatal Push
+2 Thing in the Ice
 2 Heartless Act
 2 Godless Shrine
+3 Drowned Catacomb
 3 Heartless Act
 3 Godless Shrine
-3 Drowned Catacomb
 3 Thing in the Ice
 4 Thing in the Ice
 4 Heartless Act
@@ -176,8 +179,6 @@
 4 Steam Vents
 4 Sulfur Falls
 1 Tale's End
-1 Void Shatter
-2 Void Shatter
 3 Void Shatter
 4 Void Shatter
 1 Render Silent

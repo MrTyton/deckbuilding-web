@@ -1,3 +1,8 @@
+1 Plains
+1 Castle Ardenvale
+2 Plains
+3 Plains
+4 Plains
 1 Island
 1 Thraben Inspector
 1 Elite Guardmage
@@ -65,17 +70,6 @@
 8 Island
 8 Plains
 9 Island
-1 Embodiment of Agonies
-2 Embodiment of Agonies
-4 Magmatic Channeler
-4 Claim / Fame
-4 Satyr Wayfinder
-1 Spell Queller
-2 Elspeth Conquers Death
-2 Spell Queller
-4 Skyclave Cleric
-1 Thassa, Deep-Dwelling
-2 Thassa, Deep-Dwelling
 1 Murderous Rider
 3 Nullhide Ferox
 3 Blood Crypt
@@ -195,15 +189,19 @@
 4 Watery Grave
 1 Spell Pierce
 1 Omen of the Sea
+1 Thassa, Deep-Dwelling
 1 Solemn Simulacrum
 2 Solemn Simulacrum
 2 Spell Pierce
 2 Omen of the Sea
-1 Champion of Wits
-2 Champion of Wits
+2 Thassa, Deep-Dwelling
 1 Niambi, Esteemed Speaker
+1 Spell Queller
+2 Elspeth Conquers Death
+2 Spell Queller
 2 Niambi, Esteemed Speaker
 3 Spell Queller
+4 Skyclave Cleric
 4 Spell Queller
 3 Mutavault
 1 Sea Gate Stormcaller
@@ -273,8 +271,8 @@
 2 Mystical Dispute
 3 Mystical Dispute
 4 Mystical Dispute
-1 Llanowar Wastes
 1 Zulaport Cutthroat
+1 Llanowar Wastes
 1 Priest of Forgotten Gods
 1 Gilded Goose
 1 Catacomb Sifter
@@ -283,8 +281,8 @@
 1 Collected Company
 1 Blisterpod
 1 Mayhem Devil
-2 Llanowar Wastes
 2 Priest of Forgotten Gods
+2 Llanowar Wastes
 2 Gilded Goose
 2 Collected Company
 2 Bolas's Citadel

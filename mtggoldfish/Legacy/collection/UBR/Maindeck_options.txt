@@ -1,4 +1,3 @@
-1 Spell Pierce
 1 Hullbreacher
 1 Volcanic Island
 2 Volcanic Island
@@ -18,14 +17,14 @@
 2 Kolaghan's Command
 3 Hymn to Tourach
 3 Kolaghan's Command
-2 Hullbreacher
-2 Brazen Borrower
-1 Ashiok, Nightmare Muse
+1 Spell Pierce
 1 Dark Ritual
+1 Ashiok, Nightmare Muse
 2 Dark Ritual
+2 Hullbreacher
 2 Lightning Bolt
+2 Brazen Borrower
 1 Wasteland
-2 Wasteland
 1 Gurmag Angler
 2 Gurmag Angler
 3 Jace, the Mind Sculptor
@@ -33,83 +32,79 @@
 1 Impulse
 1 Snow-Covered Island
 1 Snow-Covered Swamp
-3 Ethereal Forager
+2 Wasteland
 2 Misty Rainforest
+2 Snow-Covered Island
+3 Ethereal Forager
+3 Snow-Covered Island
+1 Opposition Agent
+2 Drown in the Loch
+2 Opposition Agent
 3 Wasteland
 1 Flooded Strand
 2 Flooded Strand
 3 Flooded Strand
-2 Snow-Covered Island
-3 Snow-Covered Island
+1 Bayou
+1 Uro, Titan of Nature's Wrath
+1 Oko, Thief of Crowns
+1 Tropical Island
+1 Forest
+2 Uro, Titan of Nature's Wrath
 1 Preordain
+1 Snuff Out
 1 Daze
 1 Stifle
 2 Stifle
 2 Daze
 3 Brazen Borrower
 3 Stifle
+4 Brazen Borrower
 4 Stifle
 4 Wasteland
-1 Opposition Agent
-2 Drown in the Loch
-2 Opposition Agent
-1 Bayou
-1 Uro, Titan of Nature's Wrath
-1 Oko, Thief of Crowns
-1 Forest
-1 Tropical Island
-2 Uro, Titan of Nature's Wrath
-1 Snuff Out
-4 Brazen Borrower
-1 Ashiok, Dream Render
 1 The Abyss
+1 Ashiok, Dream Render
 2 Ashiok, Dream Render
 3 Fatal Push
 1 Creeping Tar Pit
-1 Thespian's Stage
-1 Dark Depths
 1 Abrupt Decay
+1 Dark Depths
 1 Life from the Loam
+1 Thespian's Stage
+2 Abrupt Decay
 2 Tropical Island
 2 Oko, Thief of Crowns
-2 Abrupt Decay
 1 Assassin's Trophy
 1 Leovold, Emissary of Trest
 2 Leovold, Emissary of Trest
 3 Misty Rainforest
 1 Narset, Parter of Veils
-1 Tundra
-1 Swords to Plowshares
-2 Swords to Plowshares
-2 Tundra
-3 Swords to Plowshares
 1 Angrath's Rampage
 1 Toxic Deluge
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
 2 Narset, Parter of Veils
 3 Volcanic Island
+1 Tranquil Thicket
 1 Intuition
 1 Gilded Goose
-1 Mox Diamond
 1 Court of Cunning
+1 Mox Diamond
 1 Ghost Quarter
-1 Tranquil Thicket
 1 Lonely Sandbar
 2 Verdant Catacombs
 2 Mox Diamond
-3 Mox Diamond
 3 Tropical Island
 3 Oko, Thief of Crowns
+3 Mox Diamond
 1 Spell Snare
 1 Price of Progress
-1 Mountain
 1 Blood Moon
 1 Krark, the Thumbless
+1 Mountain
 2 Krark, the Thumbless
-2 Mountain
 2 Price of Progress
 2 Blood Moon
+2 Mountain
 3 Lightning Bolt
 4 Lightning Bolt
 4 Snapcaster Mage
@@ -125,39 +120,19 @@
 2 Retrofitter Foundry
 2 Liliana's Triumph
 3 Karn, the Great Creator
-1 Bojuka Bog
-1 Crop Rotation
-1 Pernicious Deed
 1 Bitterblossom
+1 Pernicious Deed
 1 Cabal Pit
+1 Crop Rotation
+1 Bojuka Bog
 2 Crop Rotation
 2 Life from the Loam
-3 Crop Rotation
 3 Abrupt Decay
+3 Crop Rotation
+2 Snow-Covered Swamp
+3 Snow-Covered Swamp
+4 Snow-Covered Island
 4 Underground Sea
-1 Snow-Covered Plains
-1 Unearth
-1 Teferi, Time Raveler
-1 Monastery Mentor
-1 Scrubland
-1 Marsh Flats
-1 Ephemerate
-1 Sea Gate Stormcaller
-1 Karakas
-1 Mystic Sanctuary
-1 Cabal Therapy
-2 Monastery Mentor
-2 Sea Gate Stormcaller
-2 Cling to Dust
-2 Marsh Flats
-2 Cabal Therapy
-3 Sea Gate Stormcaller
-3 Monastery Mentor
-3 Marsh Flats
-3 Cabal Therapy
-4 Cabal Therapy
-4 Sea Gate Stormcaller
-4 Monastery Mentor
 1 Grove of the Burnwillows
 1 Punishing Fire
 1 Dack Fayden
@@ -167,24 +142,35 @@
 2 Dack Fayden
 2 Assassin's Trophy
 3 Grove of the Burnwillows
+3 Uro, Titan of Nature's Wrath
 3 Assassin's Trophy
 3 Dack Fayden
-3 Uro, Titan of Nature's Wrath
 4 Assassin's Trophy
-2 Snow-Covered Swamp
-3 Snow-Covered Swamp
-4 Snow-Covered Island
-1 True-Name Nemesis
-1 Delver of Secrets
-1 Plains
-2 True-Name Nemesis
-2 Delver of Secrets
-3 Daze
-3 True-Name Nemesis
-3 Tundra
-3 Delver of Secrets
-4 Daze
-4 Flooded Strand
-4 Swords to Plowshares
-4 Delver of Secrets
-4 True-Name Nemesis
+1 Snow-Covered Plains
+1 Unearth
+1 Teferi, Time Raveler
+1 Scrubland
+1 Marsh Flats
+1 Ephemerate
+1 Mystic Sanctuary
+1 Sea Gate Stormcaller
+1 Karakas
+1 Monastery Mentor
+1 Cabal Therapy
+1 Tundra
+1 Swords to Plowshares
+2 Sea Gate Stormcaller
+2 Cling to Dust
+2 Swords to Plowshares
+2 Marsh Flats
+2 Tundra
+2 Cabal Therapy
+2 Monastery Mentor
+3 Sea Gate Stormcaller
+3 Marsh Flats
+3 Monastery Mentor
+3 Swords to Plowshares
+3 Cabal Therapy
+4 Cabal Therapy
+4 Sea Gate Stormcaller
+4 Monastery Mentor

@@ -45,11 +45,11 @@
 |                    3|[Omnath, Locus of Creation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491883)   |                     |              |
 |                    3|[Abundant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240017)             |                     |              |
 |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)        |                     |              |
-|                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)             |                     |              |
-|                    3|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)             |                     |              |
 |                    3|[Kaya's Guile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464154)                |                     |              |
+|                    3|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)             |                     |              |
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)            |                     |              |
 |                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)            |                     |              |
+|                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)             |                     |              |
 |                    3|[Uro, Titan of Nature's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476480)|                     |              |
 |                    3|[Utopia Sprawl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442181)               |                     |              |
 |                    3|[Bring to Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401831)              |                     |              |

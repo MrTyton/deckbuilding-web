@@ -1,25 +1,32 @@
 2 Tropical Island
-2 Dead of Winter
-1 Assassin's Trophy
 1 Wasteland
-3 Polluted Delta
-3 Prismatic Vista
+1 Assassin's Trophy
+2 Dead of Winter
 3 Snow-Covered Island
-3 Sylvan Library
-1 Snow-Covered Mountain
-2 Flooded Strand
+3 Prismatic Vista
+3 Polluted Delta
 1 Green Sun's Zenith
 1 Dryad Arbor
+1 Snow-Covered Mountain
+2 Flooded Strand
+3 Flooded Strand
 2 Green Sun's Zenith
+2 Wasteland
 3 Green Sun's Zenith
 4 Green Sun's Zenith
-4 Uro, Titan of Nature's Wrath
-3 Flooded Strand
-1 Cling to Dust
-2 Wasteland
 3 Wasteland
+1 Scavenging Ooze
+1 Noble Hierarch
+2 Noble Hierarch
+3 Noble Hierarch
 4 Flooded Strand
-2 Leovold, Emissary of Trest
+1 Cling to Dust
+4 Oko, Thief of Crowns
+1 Bayou
+1 Verdant Catacombs
+2 Verdant Catacombs
+3 Verdant Catacombs
+4 Noble Hierarch
 1 Dreadhorde Arcanist
 1 Preordain
 2 Dreadhorde Arcanist
@@ -27,51 +34,40 @@
 1 Lightning Bolt
 1 Pyroblast
 2 Lightning Bolt
-1 Bayou
-4 Wasteland
-1 Noble Hierarch
-2 Noble Hierarch
-3 Noble Hierarch
-4 Noble Hierarch
-1 Scavenging Ooze
 1 Scalding Tarn
+4 Uro, Titan of Nature's Wrath
 4 Prismatic Vista
 1 Daze
-1 Verdant Catacombs
-2 Verdant Catacombs
 2 Daze
-3 Verdant Catacombs
 3 Daze
 4 Daze
+4 Wasteland
+1 Teferi, Time Raveler
 2 Preordain
 4 Dreadhorde Arcanist
-4 Oko, Thief of Crowns
-2 Assassin's Trophy
+3 Sylvan Library
+2 Leovold, Emissary of Trest
+1 Living Wish
+1 Baleful Strix
+2 Living Wish
+2 Baleful Strix
+3 Snow-Covered Forest
+3 Force of Negation
+3 Living Wish
+3 Baleful Strix
+4 Living Wish
+4 Polluted Delta
+4 Baleful Strix
 2 Scalding Tarn
 3 Scalding Tarn
-1 Baleful Strix
-2 Baleful Strix
-3 Force of Negation
-3 Baleful Strix
-4 Baleful Strix
-1 Skyclave Apparition
-1 Savannah
-2 Skyclave Apparition
 1 Narset, Parter of Veils
-1 Shark Typhoon
-1 Teferi, Time Raveler
+2 Assassin's Trophy
 1 Hullbreacher
 1 Jace, the Mind Sculptor
-2 Snow-Covered Plains
 1 Life from the Loam
 1 Intuition
 1 Brazen Borrower
-1 Living Wish
-2 Living Wish
-3 Snow-Covered Forest
-3 Living Wish
-4 Living Wish
-4 Polluted Delta
+2 Snow-Covered Plains
 4 Snow-Covered Island
 1 Spellseeker
 1 Renegade Rallier
@@ -80,14 +76,16 @@
 1 Restoration Angel
 1 Knight of Autumn
 1 Kiki-Jiki, Mirror Breaker
-1 Yorion, Sky Nomad
 1 Taiga
+1 Yorion, Sky Nomad
 1 Ephemerate
-1 Birthing Pod
 1 Omnath, Locus of Creation
+1 Birthing Pod
 1 Voice of Resurgence
 1 Huntmaster of the Fells
+1 Skyclave Apparition
 1 Karmic Guide
+1 Savannah
 1 Eternal Witness
 1 Corridor Monitor
 1 Deceiver Exarch
@@ -95,30 +93,35 @@
 2 Windswept Heath
 2 Restoration Angel
 2 Birthing Pod
+2 Skyclave Apparition
 2 Renegade Rallier
 2 Felidar Guardian
 3 Windswept Heath
 3 Birthing Pod
 4 Windswept Heath
 4 Birthing Pod
-1 Plague Engineer
-2 Plague Engineer
 4 Force of Negation
-4 Sylvan Library
-1 Grove of the Burnwillows
 1 Punishing Fire
-1 Dark Depths
+1 Grove of the Burnwillows
 1 Thespian's Stage
-2 Grove of the Burnwillows
+1 Dark Depths
 2 Brazen Borrower
 2 Punishing Fire
+2 Grove of the Burnwillows
 2 Jace, the Mind Sculptor
-3 Grove of the Burnwillows
 3 Punishing Fire
+3 Grove of the Burnwillows
 4 Punishing Fire
 1 Snapcaster Mage
+1 Shark Typhoon
 1 Thoughtseize
 2 Thoughtseize
+1 Gilded Goose
+1 Fatal Push
+1 Natural Order
+1 Progenitus
+2 Fatal Push
+2 Natural Order
 1 Klothys, God of Destiny
 1 Field of Ruin
 1 Opposition Agent
@@ -130,9 +133,9 @@
 1 Stifle
 1 Day's Undoing
 2 Stifle
+2 Day's Undoing
 2 Narset, Parter of Veils
 2 Hullbreacher
-2 Day's Undoing
 3 Stifle
 4 Stifle
 1 Veil of Summer
@@ -151,11 +154,11 @@
 3 Pyroblast
 4 Scalding Tarn
 4 Painter's Servant
+1 Trade Routes
 1 Court of Cunning
 1 Supreme Verdict
 1 Orim's Chant
 1 Mystic Sanctuary
-1 Trade Routes
 2 Teferi, Time Raveler
 2 Tundra
 2 Court of Cunning
