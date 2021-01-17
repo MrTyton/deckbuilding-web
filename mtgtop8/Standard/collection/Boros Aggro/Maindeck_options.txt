@@ -1,11 +1,12 @@
 2 Shatterskull Smashing
-3 Mountain
-4 Mountain
 1 Clearwater Pathway
 4 Boon of the Wish-Giver
+3 Mountain
+4 Mountain
+4 Memory Leak
 1 Ominous Seas
 2 Ominous Seas
-4 Memory Leak
+3 Brightclimb Pathway
 5 Plains
 1 Emeria's Call
 1 Splendor Mare
@@ -13,7 +14,6 @@
 2 Splendor Mare
 2 Emeria's Call
 3 Raugrin Triome
-3 Brightclimb Pathway
 1 Shredded Sails
 2 Shredded Sails
 6 Plains
@@ -40,10 +40,10 @@
 4 Selfless Savior
 4 Seasoned Hallowblade
 7 Mountain
+1 Castle Embereth
 1 Relic Robber
 1 Skyclave Apparition
 1 Archpriest of Iona
-1 Castle Embereth
 2 Relic Robber
 2 Skyclave Apparition
 2 Archpriest of Iona
@@ -58,6 +58,12 @@
 3 Bonecrusher Giant
 1 Temple of Triumph
 2 Temple of Triumph
+1 Rielle, the Everwise
+2 Clearwater Pathway
+2 Rielle, the Everwise
+3 Clearwater Pathway
+3 Rielle, the Everwise
+4 Clearwater Pathway
 4 Raugrin Triome
 1 Yidaro, Wandering Monster
 2 Yidaro, Wandering Monster
@@ -69,12 +75,6 @@
 2 Fireblade Charger
 4 Bonecrusher Giant
 4 Frostveil Ambush
-1 Rielle, the Everwise
-2 Clearwater Pathway
-2 Rielle, the Everwise
-3 Clearwater Pathway
-3 Rielle, the Everwise
-4 Clearwater Pathway
 8 Mountain
 3 Fireblade Charger
 1 Maul of the Skyclaves
