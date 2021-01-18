@@ -3,16 +3,15 @@
 2 Prismatic Vista
 1 Snapcaster Mage
 1 Jace, the Mind Sculptor
-4 Snow-Covered Island
-1 Counterbalance
-2 Counterbalance
 1 Lightning Bolt
 3 Prismatic Vista
 2 Snow-Covered Plains
+4 Snow-Covered Island
+1 Counterbalance
 2 Snapcaster Mage
 3 Snapcaster Mage
 4 Prismatic Vista
-1 Predict
+2 Counterbalance
 2 Jace, the Mind Sculptor
 5 Snow-Covered Island
 1 Back to Basics
@@ -20,16 +19,14 @@
 1 Council's Judgment
 1 Counterspell
 3 Jace, the Mind Sculptor
+1 Predict
 6 Snow-Covered Island
 1 Gideon, Ally of Zendikar
 1 Red Elemental Blast
 2 Back to Basics
 2 Tundra
-1 Monastery Mentor
 2 Terminus
-1 Daze
-2 Monastery Mentor
-2 Daze
+1 Monastery Mentor
 1 Accumulated Knowledge
 2 Accumulated Knowledge
 3 Accumulated Knowledge
@@ -39,31 +36,33 @@
 3 Scalding Tarn
 1 Wasteland
 2 Preordain
-1 Polluted Delta
 1 Karakas
 1 Intuition
 2 Intuition
 3 Preordain
+1 City of Traitors
 1 Emrakul, the Aeons Torn
 1 Omniscience
 1 Cunning Wish
 1 Eladamri's Call
 1 Show and Tell
 1 Veil of Summer
-1 City of Traitors
+2 City of Traitors
+2 Snow-Covered Forest
 2 Emrakul, the Aeons Torn
 2 Omniscience
 2 Cunning Wish
-2 Snow-Covered Forest
 2 Show and Tell
 2 Veil of Summer
-2 City of Traitors
 3 Show and Tell
 3 Cunning Wish
 3 Omniscience
 3 Veil of Summer
 4 Omniscience
 4 Show and Tell
+1 Daze
+1 Polluted Delta
+2 Monastery Mentor
 1 Island
 3 Tundra
 2 Mystic Sanctuary
@@ -71,6 +70,7 @@
 2 Wasteland
 4 Scalding Tarn
 1 Pyroblast
+2 Daze
 1 Plains
 2 Plains
 2 Island
@@ -78,9 +78,7 @@
 4 Island
 4 Snapcaster Mage
 1 Entreat the Angels
-3 Monastery Mentor
 3 Intuition
-3 Daze
 1 Sprite Dragon
 1 Stifle
 3 Wasteland
@@ -93,8 +91,8 @@
 2 Portent
 3 Mystic Sanctuary
 3 Portent
-4 Tundra
 4 Portent
+4 Tundra
 5 Island
 6 Island
 7 Island
@@ -122,11 +120,11 @@
 4 Polluted Delta
 4 Doomsday
 4 Dark Ritual
-2 Predict
 1 Orim's Chant
 1 Court of Cunning
 2 Court of Cunning
-4 Monastery Mentor
+3 Monastery Mentor
+3 Daze
 1 Enlightened Tutor
 1 Griselbrand
 2 Counterspell
@@ -146,15 +144,10 @@
 1 Baleful Strix
 2 Baleful Strix
 3 Baleful Strix
-1 Thoughtseize
-1 Scrubland
-2 Thoughtseize
-3 Underground Sea
-4 Preordain
 1 Dovin's Veto
 1 Humility
-1 Helm of Obedience
 1 Moat
+1 Helm of Obedience
 1 Energy Field
 1 Rest in Peace
 2 Rest in Peace
@@ -178,12 +171,8 @@
 3 Mox Diamond
 4 Frantic Inventory
 4 Aria of Flame
-1 Mishra's Bauble
-2 Mishra's Bauble
-3 Predict
-3 Mishra's Bauble
-4 Mishra's Bauble
-4 Predict
+2 Stifle
+4 Wasteland
 1 Emry, Lurker of the Loch
 1 Firestorm
 1 Mox Opal
@@ -204,9 +193,14 @@
 3 Land Tax
 3 Scroll Rack
 4 Snow-Covered Plains
+4 Monastery Mentor
 4 Lotus Petal
 4 Land Tax
 5 Snow-Covered Plains
 7 Snow-Covered Island
-2 Stifle
-4 Wasteland
+1 Thoughtseize
+1 Scrubland
+2 Predict
+2 Thoughtseize
+3 Underground Sea
+4 Preordain

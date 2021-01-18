@@ -13,9 +13,9 @@
 2 Indatha Triome
 2 Forest
 2 Swamp
+3 Indatha Triome
 3 Branchloft Pathway
 3 Brightclimb Pathway
-3 Indatha Triome
 1 Solemn Simulacrum
 1 Skyclave Apparition
 2 Solemn Simulacrum
@@ -27,11 +27,11 @@
 3 Swamp
 4 Brightclimb Pathway
 1 Temple of Silence
-1 Temple of Plenty
-1 Eerie Ultimatum
 1 Treacherous Blessing
 1 Golden Egg
+1 Eerie Ultimatum
 1 Llanowar Visionary
+1 Temple of Plenty
 1 Wicked Wolf
 1 Gilded Goose
 1 Charming Prince
@@ -41,7 +41,6 @@
 1 Agadeem's Awakening
 2 Temple of Silence
 2 Golden Egg
-2 Eerie Ultimatum
 2 Gilded Goose
 2 Doom Foretold
 2 Trail of Crumbs
@@ -51,6 +50,7 @@
 2 Llanowar Visionary
 2 Yorion, Sky Nomad
 2 Charming Prince
+2 Eerie Ultimatum
 3 Treacherous Blessing
 3 Charming Prince
 3 Golden Egg
@@ -118,24 +118,24 @@
 1 Savai Triome
 1 Tranquil Cove
 1 Ketria Triome
-1 Jungle Hollow
 1 Dismal Backwater
 1 Thirst for Meaning
 1 Fae of Wishes
-1 Cragcrown Pathway
+1 Jungle Hollow
 1 Bloodfell Caves
+1 Cragcrown Pathway
 1 Clearwater Pathway
 1 Bloodchief's Thirst
-1 Thornwood Falls
+1 Sanctum of Stone Fangs
+1 Sanctum of Calm Waters
+1 Sanctum of Fruitful Harvest
 1 Sanctum of Shattered Heights
 1 Sanctum of All
-1 Sanctum of Calm Waters
-1 Sanctum of Stone Fangs
+1 Sanctum of Tranquil Light
+1 Thornwood Falls
 1 Riverglide Pathway
 1 Zagoth Triome
 1 Wind-Scarred Crag
-1 Sanctum of Fruitful Harvest
-1 Sanctum of Tranquil Light
 2 Tranquil Cove
 2 Dismal Backwater
 2 Thirst for Meaning
@@ -215,8 +215,8 @@
 3 Into the Story
 4 Evolving Wilds
 4 Teferi's Tutelage
-4 Merfolk Secretkeeper
 4 Didn't Say Please
+4 Merfolk Secretkeeper
 4 Ruin Crab
 4 Relic Golem
 1 Lofty Denial
@@ -255,8 +255,8 @@
 4 Rewind
 4 Brazen Borrower
 1 Wolfwillow Haven
-1 Felidar Retreat
 1 Shatter the Sky
+1 Felidar Retreat
 1 Erebos's Intervention
 1 Cultivate
 1 Shadows' Verdict
@@ -267,8 +267,8 @@
 2 Shatter the Sky
 3 Bala Ged Recovery
 3 Garruk, Cursed Huntsman
-3 Erebos's Intervention
 3 Cultivate
+3 Erebos's Intervention
 3 Emeria's Call
 3 Wolfwillow Haven
 3 Shatter the Sky

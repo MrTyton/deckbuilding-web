@@ -46,6 +46,6 @@
 |                     |                                                                                        |                    2|[Serenity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15360)                  |
 |                     |                                                                                        |                    4|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)           |
 |                     |                                                                                        |                    3|Wear / Tear                                                                                         |
-|                     |                                                                                        |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)      |
 |                     |                                                                                        |                    3|[Wispmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=145974)                 |
+|                     |                                                                                        |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)      |
 

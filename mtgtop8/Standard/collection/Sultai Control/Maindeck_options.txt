@@ -39,8 +39,8 @@
 2 Negate
 1 Cultivate
 1 Ugin, the Spirit Dragon
-2 Cultivate
 2 Ugin, the Spirit Dragon
+2 Cultivate
 3 Cultivate
 4 Cultivate
 1 Polukranos, Unchained
@@ -58,21 +58,21 @@
 2 Atris, Oracle of Half-Truths
 3 Atris, Oracle of Half-Truths
 1 Field of Ruin
+1 Solemn Simulacrum
 1 Golden Egg
 1 Fae of Wishes
-1 Solemn Simulacrum
 2 Field of Ruin
+2 Solemn Simulacrum
+2 Crawling Barrens
 2 Golden Egg
 2 Fae of Wishes
-2 Crawling Barrens
-2 Solemn Simulacrum
 2 Cling to Dust
+3 Solemn Simulacrum
 3 Crawling Barrens
 3 Ugin, the Spirit Dragon
 3 Golden Egg
 3 Field of Ruin
 3 Fae of Wishes
-3 Solemn Simulacrum
 3 Cling to Dust
 4 Crawling Barrens
 4 Solemn Simulacrum
@@ -85,9 +85,6 @@
 9 Swamp
 1 Eat to Extinction
 2 Essence Scatter
-2 Lochmere Serpent
-3 Mazemind Tome
-4 Mazemind Tome
 1 Llanowar Visionary
 1 Scavenging Ooze
 1 Pelakka Predation
@@ -99,6 +96,9 @@
 2 Soul Shatter
 3 Llanowar Visionary
 4 Llanowar Visionary
+2 Lochmere Serpent
+3 Mazemind Tome
+4 Mazemind Tome
 1 Brazen Borrower
 1 Temple of Malice
 2 Brazen Borrower
@@ -109,8 +109,8 @@
 1 Murderous Rider
 2 Castle Locthwain
 2 Heraldic Banner
-2 Eliminate
 2 Temple of Deceit
+2 Eliminate
 2 Murderous Rider
 3 Heraldic Banner
 3 Garruk, Cursed Huntsman
@@ -121,8 +121,8 @@
 1 Boon of the Wish-Giver
 1 Scute Swarm
 1 Sublime Epiphany
-2 Boon of the Wish-Giver
 2 Scute Swarm
+2 Boon of the Wish-Giver
 3 Sea Gate Restoration
 3 Negate
 3 Boon of the Wish-Giver
@@ -146,10 +146,10 @@
 3 Sea Gate Stormcaller
 3 Lovestruck Beast
 3 Kazandu Mammoth
+4 Atris, Oracle of Half-Truths
 4 Sea Gate Stormcaller
 4 Lovestruck Beast
 4 Kazandu Mammoth
-4 Atris, Oracle of Half-Truths
 1 Lotus Cobra
 1 Turntimber Symbiosis
 1 Cragplate Baloth

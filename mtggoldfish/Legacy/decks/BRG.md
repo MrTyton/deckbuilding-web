@@ -60,5 +60,4 @@
 |                     |                                                                                                  |                    4|[Dark Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121155)         |
 |                     |                                                                                                  |                    4|[Thespian's Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366353)    |
 |                     |                                                                                                  |                    4|[Sylvan Scrying](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130513)      |
-|                     |                                                                                                  |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
 

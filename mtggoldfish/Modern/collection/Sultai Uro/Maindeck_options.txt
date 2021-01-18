@@ -1,21 +1,18 @@
-1 Scalding Tarn
+3 Snow-Covered Island
 1 Growth Spiral
 2 Growth Spiral
+1 Scalding Tarn
 1 Remand
-3 Snow-Covered Island
-1 Fact or Fiction
 1 Nexus of Fate
+1 Fact or Fiction
 1 Wilderness Reclamation
-2 Fact or Fiction
 2 Remand
+2 Fact or Fiction
 2 Wilderness Reclamation
 3 Remand
 3 Growth Spiral
 4 Growth Spiral
-1 Forest
 3 Fact or Fiction
-2 Scalding Tarn
-4 Remand
 1 Tamiyo, Collector of Tales
 1 Ice-Fang Coatl
 1 Blast Zone
@@ -26,16 +23,18 @@
 4 Snow-Covered Island
 5 Snow-Covered Island
 6 Snow-Covered Island
-1 Flooded Grove
-1 Snow-Covered Swamp
-1 Overgrown Tomb
+4 Remand
+1 Forest
+2 Scalding Tarn
 7 Snow-Covered Island
-4 Cryptic Command
-1 Primeval Titan
-1 Narset, Parter of Veils
+1 Flooded Grove
 1 Hour of Promise
+1 Snow-Covered Swamp
+1 Primeval Titan
+1 Overgrown Tomb
+1 Narset, Parter of Veils
 3 Wilderness Reclamation
-1 Life from the Loam
+4 Cryptic Command
 1 Emry, Lurker of the Loch
 1 Mox Amber
 1 Soul-Guide Lantern
@@ -54,7 +53,7 @@
 4 Gilded Goose
 4 Urza, Lord High Artificer
 4 Mishra's Bauble
-1 Ghost Quarter
+1 Assassin's Trophy
 1 Glimpse the Unthinkable
 1 Hedron Crab
 2 Overgrown Tomb
@@ -66,7 +65,6 @@
 4 Glimpse the Unthinkable
 1 Waterlogged Grove
 1 Surgical Extraction
-1 Assassin's Trophy
 1 Mesmeric Orb
 1 Winds of Rebuke
 1 Archive Trap
@@ -90,8 +88,8 @@
 4 Archive Trap
 4 Visions of Beyond
 1 Sunken Hollow
-1 Shark Typhoon
-2 Shark Typhoon
+3 Abrupt Decay
+1 Life from the Loam
 1 Pithing Needle
 1 Sword of the Meek
 1 Thopter Foundry
@@ -99,14 +97,17 @@
 2 Thopter Foundry
 2 Whir of Invention
 3 Emry, Lurker of the Loch
+1 Ghost Quarter
+2 Snow-Covered Forest
 1 Aether Spellbomb
 1 Metallic Rebuke
 1 Venser, Shaper Savant
+1 Cling to Dust
 1 Drowned Catacomb
 2 Hour of Promise
-1 Cling to Dust
-3 Abrupt Decay
 3 Engineered Explosives
+1 Shark Typhoon
+2 Shark Typhoon
 3 Shark Typhoon
 4 Shark Typhoon
 1 Explore
@@ -122,14 +123,13 @@
 1 Bojuka Bog
 1 Summoner's Pact
 1 Dryad of the Ilysian Grove
-1 Turntimber Symbiosis
 1 Vesuva
+1 Turntimber Symbiosis
 1 Radiant Fountain
 1 Cavern of Souls
 1 Primal Command
 1 Reclamation Sage
 1 Sakura-Tribe Scout
-2 Snow-Covered Forest
 2 Valakut, the Molten Pinnacle
 2 Gruul Turf
 2 Tolaria West
@@ -185,8 +185,8 @@
 2 Prized Amalgam
 2 Creeping Chill
 2 Silversmote Ghoul
-2 Verdant Catacombs
 2 Vengevine
+2 Verdant Catacombs
 2 Stitcher's Supplier
 2 Gravecrawler
 3 Narcomoeba
@@ -202,7 +202,7 @@
 3 Verdant Catacombs
 4 Verdant Catacombs
 4 Gravecrawler
-4 Prized Amalgam
 4 Stitcher's Supplier
+4 Prized Amalgam
 4 Vengevine
 4 Creeping Chill

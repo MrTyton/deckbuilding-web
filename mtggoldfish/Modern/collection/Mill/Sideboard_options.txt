@@ -1,11 +1,10 @@
 2 Soul-Guide Lantern
-1 Bloodchief's Thirst
-1 Drown in the Loch
 1 Ensnaring Bridge
 2 Ensnaring Bridge
+1 Bloodchief's Thirst
+1 Bontu's Last Reckoning
+1 Drown in the Loch
 2 Extirpate
-3 Aether Gust
-2 Set Adrift
 3 Soul-Guide Lantern
 1 Leyline of the Void
 1 Chancellor of the Spires
@@ -15,30 +14,31 @@
 1 Thieves' Guild Enforcer
 1 Bitter Ordeal
 2 Thieves' Guild Enforcer
-1 Bontu's Last Reckoning
+3 Aether Gust
+2 Set Adrift
+2 Drown in the Loch
+1 Surgical Extraction
 4 Aether Gust
 1 Damnation
 2 Damnation
-1 Surgical Extraction
-2 Drown in the Loch
 2 Surgical Extraction
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
 1 Go for the Throat
 1 Ghost Quarter
 2 Ghost Quarter
-1 Lullmage's Domination
-2 Lullmage's Domination
-3 Lullmage's Domination
 1 Search for Azcanta
 1 Legion's End
 2 Bloodchief's Thirst
 1 Fatal Push
+1 Lullmage's Domination
+2 Lullmage's Domination
+3 Lullmage's Domination
 1 Echoing Truth
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
 1 Wipe Away
-1 Ashiok, Dream Render
 1 Ravenous Trap
+1 Ashiok, Dream Render
 2 Ashiok, Dream Render
 1 Leyline of Sanctity
 2 Leyline of Sanctity
@@ -59,9 +59,9 @@
 2 Feed the Swarm
 2 Echoing Truth
 3 Mystical Dispute
-1 Devour Flesh
 1 Weather the Storm
 1 Veil of Summer
+1 Devour Flesh
 2 Weather the Storm
 2 Veil of Summer
 3 Weather the Storm
@@ -70,7 +70,6 @@
 3 Thing in the Ice
 3 Crypt Incursion
 3 Yixlid Jailer
-4 Thoughtseize
 3 Engineered Explosives
 3 Surgical Extraction
 4 Soul-Guide Lantern

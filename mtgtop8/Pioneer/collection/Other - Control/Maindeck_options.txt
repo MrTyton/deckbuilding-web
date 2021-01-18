@@ -1,12 +1,6 @@
-4 Drowned Catacomb
 1 Shark Typhoon
 1 Castle Vantress
 2 Shark Typhoon
-1 Castle Locthwain
-1 Field of Ruin
-2 Field of Ruin
-3 Dig Through Time
-4 Narset, Parter of Veils
 3 Shark Typhoon
 4 Shark Typhoon
 1 Anger of the Gods
@@ -57,8 +51,8 @@
 2 Ketria Triome
 3 Sulfur Falls
 3 Steam Vents
-3 Teferi, Time Raveler
 3 Ketria Triome
+3 Teferi, Time Raveler
 3 Castle Ardenvale
 3 Plains
 3 Agent of Treachery
@@ -70,8 +64,9 @@
 3 Chained to the Rocks
 3 Transmogrify
 4 Sulfur Falls
-4 Ketria Triome
 4 Steam Vents
+4 Ketria Triome
+4 Narset, Parter of Veils
 4 Teferi, Time Raveler
 4 Transmogrify
 4 Raugrin Triome
@@ -80,16 +75,7 @@
 4 The Birth of Meletis
 4 Sacred Foundry
 4 Chained to the Rocks
-1 The Scarab God
-1 Languish
-1 Mystical Dispute
-1 Scarab Feast
-1 Hero's Downfall
-2 Day's Undoing
-2 Kalitas, Traitor of Ghet
-2 Languish
-2 Scarab Feast
-3 Swamp
+4 Drowned Catacomb
 1 Soaring Thought-Thief
 1 Thieves' Guild Enforcer
 1 Lullmage's Domination
@@ -113,21 +99,25 @@
 4 Drown in the Loch
 4 Soaring Thought-Thief
 4 Ruin Crab
+1 Field of Ruin
+1 Castle Locthwain
 1 Void Shatter
 1 Negate
 1 Vraska's Contempt
 1 Censor
 2 Void Shatter
+2 Field of Ruin
 2 Eliminate
 2 Negate
 2 Censor
 2 Vraska's Contempt
 2 Castle Locthwain
-3 Censor
 3 Eliminate
 3 Fetid Pools
 3 Void Shatter
+3 Dig Through Time
 3 Vraska's Contempt
+3 Censor
 4 Censor
 4 Eliminate
 4 Void Shatter
@@ -136,55 +126,55 @@
 1 Vessel of Volatility
 1 Irencrag Feat
 1 Cleansing Wildfire
+1 Scavenger Grounds
 1 Mazemind Tome
 1 Chandra, Torch of Defiance
-1 Scavenger Grounds
 1 Valakut Awakening
 1 Chandra, Awakened Inferno
-1 Golos, Tireless Pilgrim
 1 Bonecrusher Giant
 1 Cascading Cataracts
 1 Thought-Knot Seer
 1 Ugin, the Spirit Dragon
+1 Golos, Tireless Pilgrim
 1 Battlefield Forge
 1 Mountain
 1 Darksteel Citadel
 1 Blast Zone
 1 Ramunap Ruins
-2 Ramunap Ruins
 2 Vessel of Volatility
 2 Irencrag Feat
+2 Ramunap Ruins
 2 Cleansing Wildfire
 2 Mazemind Tome
 2 Chandra, Torch of Defiance
-2 Darksteel Citadel
 2 Cascading Cataracts
+2 Darksteel Citadel
 2 Valakut Awakening
 2 Bonecrusher Giant
 2 Thought-Knot Seer
 2 Ugin, the Spirit Dragon
 2 Battlefield Forge
 2 Mountain
-3 Ramunap Ruins
 3 Vessel of Volatility
-3 Chandra, Torch of Defiance
+3 Ramunap Ruins
 3 Cleansing Wildfire
+3 Chandra, Torch of Defiance
 3 Cascading Cataracts
+3 Irencrag Feat
 3 Valakut Awakening
 3 Mazemind Tome
 3 Darksteel Citadel
-3 Irencrag Feat
 3 Bonecrusher Giant
 3 Battlefield Forge
 3 Thought-Knot Seer
 3 Ugin, the Spirit Dragon
 3 Mountain
-4 Ramunap Ruins
-4 Chandra, Torch of Defiance
-4 Cascading Cataracts
 4 Mazemind Tome
+4 Chandra, Torch of Defiance
 4 Cleansing Wildfire
+4 Cascading Cataracts
 4 Darksteel Citadel
+4 Ramunap Ruins
 4 Valakut Awakening
 4 Bonecrusher Giant
 4 Anger of the Gods

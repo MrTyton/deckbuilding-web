@@ -6,21 +6,21 @@
 1 Arboreal Grazer
 2 Arboreal Grazer
 4 Cryptic Command
-1 Jace, the Mind Sculptor
 1 Wilderness Reclamation
-1 Archmage's Charm
+1 Jace, the Mind Sculptor
 1 Castle Vantress
 1 Fact or Fiction
 1 Nexus of Fate
-1 Force of Negation
+1 Archmage's Charm
 1 Field of Ruin
-2 Archmage's Charm
-2 Mystic Sanctuary
+1 Force of Negation
 2 Wilderness Reclamation
-2 Force of Negation
+2 Mystic Sanctuary
 2 Field of Ruin
-3 Mystic Sanctuary
+2 Archmage's Charm
+2 Force of Negation
 3 Wilderness Reclamation
+3 Mystic Sanctuary
 3 Field of Ruin
 2 Cavern of Souls
 3 Mana Leak
@@ -59,8 +59,8 @@
 4 Flagstones of Trokair
 4 Elvish Reclaimer
 2 Engineered Explosives
-2 Island
 2 Forest
+2 Island
 1 Teferi, Time Raveler
 1 Turntimber Symbiosis
 3 Engineered Explosives
@@ -89,17 +89,6 @@
 2 Eladamri's Call
 2 Temple Garden
 3 Ice-Fang Coatl
-1 Prairie Stream
-1 Castle Ardenvale
-1 Plains
-1 Supreme Verdict
-1 Teferi, Hero of Dominaria
-1 Path to Exile
-1 Dovin's Veto
-2 Teferi, Hero of Dominaria
-2 Path to Exile
-3 Path to Exile
-4 Path to Exile
 1 Negate
 1 Pact of Negation
 1 Summoner's Pact
@@ -111,12 +100,23 @@
 3 Search for Tomorrow
 3 Forest
 4 Search for Tomorrow
-1 Spell Snare
-2 Spell Snare
-2 Castle Vantress
-3 Island
-4 Island
-5 Island
+1 Prairie Stream
+1 Castle Ardenvale
+1 Plains
+1 Supreme Verdict
+1 Teferi, Hero of Dominaria
+1 Path to Exile
+1 Dovin's Veto
+2 Teferi, Hero of Dominaria
+2 Path to Exile
+3 Path to Exile
+4 Path to Exile
 3 Field of the Dead
 3 Hour of Promise
 4 Engineered Explosives
+1 Spell Snare
+2 Castle Vantress
+2 Spell Snare
+3 Island
+4 Island
+5 Island

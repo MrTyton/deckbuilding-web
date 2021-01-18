@@ -23,30 +23,3 @@
 |2 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)     |                                                                                                    |4 [Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|
 |4 [Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|                                                                                                    |                                                                                              |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
-|--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)     |                    1|[Deprive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193519)           |
-|                    1|[Merfolk Mistbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439823)    |                    1|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
-|                    1|[Botanical Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417817)     |                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)   |
-|                    1|[Kumena's Speaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435352)      |                    1|[Tidebinder Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438462)   |
-|                    2|[Botanical Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417817)     |                    1|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)       |
-|                    2|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)     |                    1|[Spreading Seas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190405)    |
-|                    2|[Merfolk Mistbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439823)    |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)         |
-|                    2|[Kumena's Speaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435352)      |                    2|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
-|                    3|[Botanical Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417817)     |                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)   |
-|                    3|[Harbinger of the Tides](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433017)|                    2|[Deprive](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193519)           |
-|                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)     |                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)       |
-|                    3|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)     |                    2|[Spreading Seas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190405)    |
-|                    3|[Kumena's Speaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435352)      |                     |                                                                                             |
-|                    3|[Merfolk Mistbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439823)    |                     |                                                                                             |
-|                    4|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)     |                     |                                                                                             |
-|                    4|[Botanical Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417817)     |                     |                                                                                             |
-|                    4|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)     |                     |                                                                                             |
-|                    4|[Kumena's Speaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435352)      |                     |                                                                                             |
-|                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                     |                                                                                             |
-|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                     |                                                                                             |
-|                    4|[Merfolk Mistbinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439823)    |                     |                                                                                             |
-
