@@ -1,27 +1,28 @@
-2 Soul-Scar Mage
-2 Monastery Swiftspear
-2 Light Up the Stage
-2 Lightning Bolt
-3 Light Up the Stage
-3 Lightning Bolt
-3 Monastery Swiftspear
-3 Soul-Scar Mage
-3 Lava Dart
-4 Lightning Bolt
 4 Monastery Swiftspear
-4 Soul-Scar Mage
-1 Crash Through
-2 Crash Through
-4 Light Up the Stage
-3 Manamorphose
-4 Lava Dart
-4 Manamorphose
 1 Lava Spike
 2 Lava Spike
 3 Lava Spike
-3 Crash Through
 4 Lava Spike
-12 Mountain
+1 Light Up the Stage
+2 Light Up the Stage
+3 Light Up the Stage
+4 Light Up the Stage
+1 Soul-Scar Mage
+2 Soul-Scar Mage
+1 Manamorphose
+1 Crash Through
+1 Lava Dart
+2 Lava Dart
+2 Manamorphose
+2 Crash Through
+3 Soul-Scar Mage
+3 Lava Dart
+4 Soul-Scar Mage
+3 Manamorphose
+3 Crash Through
+4 Lava Dart
+4 Manamorphose
+13 Mountain
 4 Crash Through
 4 Chandra, Torch of Defiance
 3 Bonecrusher Giant
@@ -29,9 +30,9 @@
 1 Bedlam Reveler
 1 Fiery Islet
 2 Bedlam Reveler
-13 Mountain
-2 Fiery Islet
+14 Mountain
 2 Sunbaked Canyon
+2 Fiery Islet
 1 Kiln Fiend
 2 Kiln Fiend
 1 Anger of the Gods
@@ -54,34 +55,52 @@
 1 Scavenger Grounds
 2 Scavenger Grounds
 3 Fiery Islet
-14 Mountain
+15 Mountain
+1 Zhalfirin Void
+2 Zhalfirin Void
+1 Shard Volley
+1 Skewer the Critics
+1 Rift Bolt
+1 Goblin Guide
+2 Goblin Guide
+2 Skewer the Critics
+2 Rift Bolt
+3 Rift Bolt
+3 Skewer the Critics
+3 Goblin Guide
+4 Rift Bolt
+4 Goblin Guide
+4 Skewer the Critics
 1 Wooded Foothills
 1 Mutagenic Growth
 2 Mutagenic Growth
-1 Zhalfirin Void
-2 Zhalfirin Void
 1 Bloodstained Mire
+3 Sunbaked Canyon
+1 Seal of Fire
+2 Seal of Fire
+1 Abbot of Keral Keep
 1 Mishra's Bauble
+2 Abbot of Keral Keep
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
-3 Mutagenic Growth
-1 Abbot of Keral Keep
-2 Abbot of Keral Keep
-3 Sunbaked Canyon
-1 Seal of Fire
-1 Arid Mesa
 1 Scalding Tarn
+1 Arid Mesa
+4 Sunbaked Canyon
+16 Mountain
+17 Mountain
+1 Skullcrack
+2 Skullcrack
+1 Searing Blaze
+2 Searing Blaze
 1 Inspiring Vantage
 1 Sacred Foundry
-2 Seal of Fire
 2 Sacred Foundry
 2 Inspiring Vantage
 3 Sacred Foundry
 3 Abbot of Keral Keep
 3 Inspiring Vantage
 4 Abbot of Keral Keep
-4 Sunbaked Canyon
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 3 Goblin Rabblemaster
@@ -95,53 +114,53 @@
 14 Snow-Covered Mountain
 1 Gut Shot
 1 Abrade
-15 Mountain
+3 Mutagenic Growth
+1 Wayward Guide-Beast
+2 Wayward Guide-Beast
+3 Wayward Guide-Beast
+4 Wayward Guide-Beast
+18 Mountain
+2 Shard Volley
+3 Searing Blaze
+1 Eidolon of the Great Revel
+2 Eidolon of the Great Revel
+3 Eidolon of the Great Revel
+3 Skullcrack
+4 Skullcrack
+4 Eidolon of the Great Revel
+1 Grim Lavamancer
 2 Gut Shot
 4 Fiery Islet
+3 Shard Volley
+4 Searing Blaze
+4 Shard Volley
 4 Kiln Fiend
 1 Blistercoil Weird
 2 Blistercoil Weird
-1 Temur Battle Rage
-2 Wooded Foothills
-2 Temur Battle Rage
-3 Wooded Foothills
+1 Blood Crypt
+2 Blood Crypt
+2 Bloodstained Mire
+3 Blood Crypt
 1 Finale of Promise
 1 Kozilek's Return
+2 Grim Lavamancer
 1 Forked Bolt
 1 Spikefield Hazard
 2 Forked Bolt
 1 Wild Slash
 2 Wild Slash
-1 Blood Crypt
+1 Temur Battle Rage
 1 Thoughtseize
-2 Blood Crypt
+2 Wooded Foothills
+2 Temur Battle Rage
 2 Thoughtseize
-2 Bloodstained Mire
 3 Bloodstained Mire
-3 Blood Crypt
+3 Wooded Foothills
 3 Thoughtseize
 4 Bloodstained Mire
-1 Tarfire
-1 Forest
-1 Brushfire Elemental
-1 Hooting Mandrills
-1 Copperline Gorge
-1 Tarmogoyf
-1 Stomping Ground
-2 Brushfire Elemental
-2 Hooting Mandrills
-2 Copperline Gorge
-2 Tarmogoyf
-2 Stomping Ground
-3 Stomping Ground
-3 Copperline Gorge
-3 Tarmogoyf
-4 Copperline Gorge
-4 Wooded Foothills
-4 Tarmogoyf
+1 Chandra, Heart of Fire
 1 Grove of the Burnwillows
 1 Mazemind Tome
-1 Chandra, Heart of Fire
 2 Grove of the Burnwillows
 2 Abrade
 2 Mazemind Tome
@@ -153,11 +172,27 @@
 4 Karn, the Great Creator
 4 Zhalfirin Void
 4 Bedlam Reveler
-3 Blistercoil Weird
-3 Gut Shot
-4 Gut Shot
-4 Blistercoil Weird
 1 Sweltering Suns
 2 Sweltering Suns
 3 Sweltering Suns
 4 Ramunap Ruins
+1 Bump in the Night
+1 Blackcleave Cliffs
+2 Scalding Tarn
+2 Bump in the Night
+2 Blackcleave Cliffs
+3 Scalding Tarn
+3 Bump in the Night
+3 Blackcleave Cliffs
+4 Bump in the Night
+3 Blistercoil Weird
+3 Gut Shot
+4 Gut Shot
+4 Blistercoil Weird
+1 Chandra's Incinerator
+2 Chandra's Incinerator
+3 Seal of Fire
+3 Chandra's Incinerator
+4 Chandra's Incinerator
+4 Seal of Fire
+19 Mountain

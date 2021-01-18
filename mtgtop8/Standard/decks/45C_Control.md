@@ -42,9 +42,9 @@
 |                    4|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)   |                     |              |
 |                    4|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)   |                     |              |
 |                    4|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)       |                     |              |
+|                    4|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)   |                     |              |
 |                    4|[Raugrin Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479771)        |                     |              |
 |                    4|[Riverglide Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491920)    |                     |              |
-|                    4|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)   |                     |              |
 |                    4|[Savai Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479773)          |                     |              |
 |                    4|[Banishing Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405135)       |                     |              |
 |                    4|[Clearwater Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491913)    |                     |              |

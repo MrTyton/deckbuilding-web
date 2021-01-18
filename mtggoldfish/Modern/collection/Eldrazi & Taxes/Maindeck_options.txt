@@ -3,15 +3,15 @@
 2 Caves of Koilos
 3 Caves of Koilos
 4 Caves of Koilos
-1 Tidehollow Sculler
-1 Wasteland Strangler
 1 Concealed Courtyard
-2 Tidehollow Sculler
+1 Wasteland Strangler
+1 Tidehollow Sculler
 2 Wasteland Strangler
 2 Concealed Courtyard
-3 Tidehollow Sculler
+2 Tidehollow Sculler
 3 Wasteland Strangler
 3 Concealed Courtyard
+3 Tidehollow Sculler
 4 Concealed Courtyard
 3 Plains
 1 Maul of the Skyclaves
@@ -38,8 +38,8 @@
 3 Charming Prince
 1 Auriok Champion
 1 Phyrexian Revoker
-2 Phyrexian Revoker
 2 Auriok Champion
+2 Phyrexian Revoker
 12 Snow-Covered Plains
 13 Snow-Covered Plains
 14 Snow-Covered Plains
@@ -57,10 +57,10 @@
 1 Wastes
 1 Dismember
 1 Gemstone Caverns
+1 Cavern of Souls
 1 Thalia, Heretic Cathar
 1 Battlefield Forge
 1 Simian Spirit Guide
-1 Cavern of Souls
 1 Chalice of the Void
 2 Dismember
 2 Battlefield Forge
@@ -104,10 +104,10 @@
 1 Tectonic Edge
 2 Brightclimb Pathway
 3 Brightclimb Pathway
-4 Brightclimb Pathway
 4 Wasteland Strangler
-1 Flagstones of Trokair
+4 Brightclimb Pathway
 1 Sword of Light and Shadow
+1 Flagstones of Trokair
 3 Skyclave Cleric
 4 Skyclave Cleric
 1 Snow-Covered Swamp
@@ -119,11 +119,28 @@
 1 Sejiri Shelter
 2 Sejiri Shelter
 2 Wastes
-1 Kaya, Orzhov Usurper
 1 Dark Confidant
+1 Kaya, Orzhov Usurper
 2 Dark Confidant
 3 Dark Confidant
 3 Blade Splicer
+1 Snow-Covered Forest
+1 Brushland
+1 Knight of Autumn
+1 Noble Hierarch
+1 Razorverge Thicket
+1 Blast Zone
+2 Brushland
+2 Noble Hierarch
+2 Knight of Autumn
+2 Razorverge Thicket
+3 Noble Hierarch
+3 Brushland
+3 Horizon Canopy
+3 Razorverge Thicket
+4 Noble Hierarch
+4 Horizon Canopy
+4 Brushland
 1 Restoration Angel
 2 Restoration Angel
 3 Restoration Angel
@@ -134,20 +151,3 @@
 3 Dismember
 3 Gemstone Caverns
 4 Sunbaked Canyon
-1 Snow-Covered Forest
-1 Brushland
-1 Razorverge Thicket
-1 Knight of Autumn
-1 Noble Hierarch
-1 Blast Zone
-2 Brushland
-2 Razorverge Thicket
-2 Noble Hierarch
-2 Knight of Autumn
-3 Brushland
-3 Razorverge Thicket
-3 Horizon Canopy
-3 Noble Hierarch
-4 Horizon Canopy
-4 Brushland
-4 Noble Hierarch

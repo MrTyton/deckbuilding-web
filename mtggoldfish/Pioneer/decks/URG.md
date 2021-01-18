@@ -78,6 +78,6 @@
 |                    3|[Steel Leaf Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443070)     |                     |                                                                                                     |
 |                    3|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)        |                     |                                                                                                     |
 |                    4|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)        |                     |                                                                                                     |
-|                    4|[Atarka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394502)        |                     |                                                                                                     |
 |                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                |                     |                                                                                                     |
+|                    4|[Atarka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394502)        |                     |                                                                                                     |
 

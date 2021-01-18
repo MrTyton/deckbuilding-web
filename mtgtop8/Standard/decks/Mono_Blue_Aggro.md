@@ -24,3 +24,27 @@
 |                                                                                                  |3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
 |                                                                                                  |3 [Stern Dismissal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476319) |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
+|--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
+|                    1|[Sea Gate Restoration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491706)     |                    1|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)   |
+|                    1|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)           |                    1|[Nadir Kraken](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476306)     |
+|                    1|[Sublime Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488254)         |                    1|[Shark Typhoon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479587)    |
+|                    1|[Barrin, Tolarian Archmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488247)|                    1|[Jace, Mirror Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495153)|
+|                    1|[Witching Well](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473036)            |                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |
+|                    1|[Glasspool Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491688)          |                    2|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)   |
+|                    2|[Sea Gate Restoration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491706)     |                    2|[Nadir Kraken](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476306)     |
+|                    2|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)           |                    2|[Shark Typhoon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479587)    |
+|                    2|[Barrin, Tolarian Archmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488247)|                    2|[Jace, Mirror Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495153)|
+|                    2|[Glasspool Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491688)          |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |
+|                    2|[Sublime Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488254)         |                     |                                                                                            |
+|                    3|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)          |                     |                                                                                            |
+|                    3|[Sea Gate Restoration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491706)     |                     |                                                                                            |
+|                    3|[Nyx Lotus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476486)                |                     |                                                                                            |
+|                    4|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)          |                     |                                                                                            |
+|                    4|[Sea Gate Restoration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491706)     |                     |                                                                                            |
+|                    4|[Arcanist's Owl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473168)           |                     |                                                                                            |
+|                    4|[Nyx Lotus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476486)                |                     |                                                                                            |
+
