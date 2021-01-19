@@ -9,9 +9,9 @@
 4 Light Up the Stage
 1 Soul-Scar Mage
 2 Soul-Scar Mage
+1 Manamorphose
 1 Crash Through
 1 Lava Dart
-1 Manamorphose
 2 Lava Dart
 2 Manamorphose
 2 Crash Through
@@ -66,8 +66,8 @@
 2 Skewer the Critics
 2 Rift Bolt
 3 Goblin Guide
-3 Skewer the Critics
 3 Rift Bolt
+3 Skewer the Critics
 4 Rift Bolt
 4 Goblin Guide
 4 Skewer the Critics
@@ -176,10 +176,6 @@
 2 Sweltering Suns
 3 Sweltering Suns
 4 Ramunap Ruins
-3 Blistercoil Weird
-3 Gut Shot
-4 Gut Shot
-4 Blistercoil Weird
 1 Bump in the Night
 1 Blackcleave Cliffs
 2 Scalding Tarn
@@ -189,6 +185,10 @@
 3 Bump in the Night
 3 Blackcleave Cliffs
 4 Bump in the Night
+3 Blistercoil Weird
+3 Gut Shot
+4 Gut Shot
+4 Blistercoil Weird
 1 Chandra's Incinerator
 2 Chandra's Incinerator
 3 Seal of Fire

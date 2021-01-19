@@ -4,22 +4,22 @@
 
 # Standard
 
-|                             A                              |                                    B                                     |                                 C                                  |                   D                    |                     E                      |
-|------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------|--------------------------------------------|
-|[BG](./mtggoldfish/Standard/decks/BG.md)                    |[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)    |[UR](./mtggoldfish/Standard/decks/UR.md)|[WR](./mtggoldfish/Standard/decks/WR.md)    |
-|[B](./mtggoldfish/Standard/decks/B.md)                      |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[WB](./mtggoldfish/Standard/decks/WB.md)|[WUBR](./mtggoldfish/Standard/decks/WUBR.md)|
-|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)|[Mono-Green Food](./mtggoldfish/Standard/decks/Mono-Green_Food.md)        |[Temur Ramp](./mtggoldfish/Standard/decks/Temur_Ramp.md)            |[WG](./mtggoldfish/Standard/decks/WG.md)|[WUG](./mtggoldfish/Standard/decks/WUG.md)  |
+|                             A                              |                                    B                                     |                                 C                                  |                    D                     |                     E                      |
+|------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------|--------------------------------------------|
+|[BG](./mtggoldfish/Standard/decks/BG.md)                    |[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)    |[UR](./mtggoldfish/Standard/decks/UR.md)  |[WR](./mtggoldfish/Standard/decks/WR.md)    |
+|[B](./mtggoldfish/Standard/decks/B.md)                      |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[WBG](./mtggoldfish/Standard/decks/WBG.md)|[WUBR](./mtggoldfish/Standard/decks/WUBR.md)|
+|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)|[Mono-Green Food](./mtggoldfish/Standard/decks/Mono-Green_Food.md)        |[Temur Ramp](./mtggoldfish/Standard/decks/Temur_Ramp.md)            |[WG](./mtggoldfish/Standard/decks/WG.md)  |                                            |
 
 
 # Pioneer
 
 |                                  A                                  |                                         B                                         |                                 C                                 |                                  D                                  |                                       E                                       |
 |---------------------------------------------------------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------------|
-|[BG](./mtggoldfish/Pioneer/decks/BG.md)                              |[Jeskai Control](./mtggoldfish/Pioneer/decks/Jeskai_Control.md)                    |[Niv to Light](./mtggoldfish/Pioneer/decks/Niv_to_Light.md)        |[Rakdos Pyromancer](./mtggoldfish/Pioneer/decks/Rakdos_Pyromancer.md)|[URG](./mtggoldfish/Pioneer/decks/URG.md)                                      |
-|[Burn](./mtggoldfish/Pioneer/decks/Burn.md)                          |[Lotus Combo](./mtggoldfish/Pioneer/decks/Lotus_Combo.md)                          |[Oops! All Spells](./mtggoldfish/Pioneer/decks/Oops!_All_Spells.md)|[Spirits](./mtggoldfish/Pioneer/decks/Spirits.md)                    |[WB](./mtggoldfish/Pioneer/decks/WB.md)                                        |
-|[Esper Control](./mtggoldfish/Pioneer/decks/Esper_Control.md)        |[Mono-Black Aggro](./mtggoldfish/Pioneer/decks/Mono-Black_Aggro.md)                |[Orzhov Auras](./mtggoldfish/Pioneer/decks/Orzhov_Auras.md)        |[UBG](./mtggoldfish/Pioneer/decks/UBG.md)                            |[WR](./mtggoldfish/Pioneer/decks/WR.md)                                        |
-|[Four-Color Omnath](./mtggoldfish/Pioneer/decks/Four-Color_Omnath.md)|[Mono-Green Planeswalkers](./mtggoldfish/Pioneer/decks/Mono-Green_Planeswalkers.md)|[RG](./mtggoldfish/Pioneer/decks/RG.md)                            |[UB](./mtggoldfish/Pioneer/decks/UB.md)                              |[WU](./mtggoldfish/Pioneer/decks/WU.md)                                        |
-|[G](./mtggoldfish/Pioneer/decks/G.md)                                |[Naya Winota](./mtggoldfish/Pioneer/decks/Naya_Winota.md)                          |[R](./mtggoldfish/Pioneer/decks/R.md)                              |[UG](./mtggoldfish/Pioneer/decks/UG.md)                              |[Wilderness Reclamation](./mtggoldfish/Pioneer/decks/Wilderness_Reclamation.md)|
+|[BG](./mtggoldfish/Pioneer/decks/BG.md)                              |[Jeskai Control](./mtggoldfish/Pioneer/decks/Jeskai_Control.md)                    |[Niv to Light](./mtggoldfish/Pioneer/decks/Niv_to_Light.md)        |[Rakdos Pyromancer](./mtggoldfish/Pioneer/decks/Rakdos_Pyromancer.md)|[WB](./mtggoldfish/Pioneer/decks/WB.md)                                        |
+|[Burn](./mtggoldfish/Pioneer/decks/Burn.md)                          |[Lotus Combo](./mtggoldfish/Pioneer/decks/Lotus_Combo.md)                          |[Oops! All Spells](./mtggoldfish/Pioneer/decks/Oops!_All_Spells.md)|[Spirits](./mtggoldfish/Pioneer/decks/Spirits.md)                    |[WR](./mtggoldfish/Pioneer/decks/WR.md)                                        |
+|[Esper Control](./mtggoldfish/Pioneer/decks/Esper_Control.md)        |[Mono-Black Aggro](./mtggoldfish/Pioneer/decks/Mono-Black_Aggro.md)                |[Orzhov Auras](./mtggoldfish/Pioneer/decks/Orzhov_Auras.md)        |[UBG](./mtggoldfish/Pioneer/decks/UBG.md)                            |[WU](./mtggoldfish/Pioneer/decks/WU.md)                                        |
+|[Four-Color Omnath](./mtggoldfish/Pioneer/decks/Four-Color_Omnath.md)|[Mono-Green Planeswalkers](./mtggoldfish/Pioneer/decks/Mono-Green_Planeswalkers.md)|[RG](./mtggoldfish/Pioneer/decks/RG.md)                            |[UG](./mtggoldfish/Pioneer/decks/UG.md)                              |[Wilderness Reclamation](./mtggoldfish/Pioneer/decks/Wilderness_Reclamation.md)|
+|[G](./mtggoldfish/Pioneer/decks/G.md)                                |[Naya Winota](./mtggoldfish/Pioneer/decks/Naya_Winota.md)                          |[R](./mtggoldfish/Pioneer/decks/R.md)                              |[URG](./mtggoldfish/Pioneer/decks/URG.md)                            |                                                                               |
 
 
 # Modern
@@ -57,4 +57,4 @@
 
 
 
-#### Last Updated at 12:45AM on January 19, 2021
+#### Last Updated at 12:43PM on January 19, 2021
