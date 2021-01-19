@@ -1,4 +1,3 @@
-2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
@@ -9,6 +8,7 @@
 10 Snow-Covered Plains
 9 Plains
 10 Plains
+4 Flickerwisp
 1 Sword of Feast and Famine
 1 Restoration Angel
 1 Winds of Abandon
@@ -16,23 +16,23 @@
 2 Winds of Abandon
 3 Restoration Angel
 4 Restoration Angel
+1 Horizon Canopy
 1 Tectonic Edge
 2 Tectonic Edge
 3 Tectonic Edge
 4 Tectonic Edge
-1 Aven Mindcensor
-11 Plains
 1 Sunbaked Canyon
-1 Horizon Canopy
+1 Aven Mindcensor
 2 Aven Mindcensor
+11 Plains
 12 Plains
 13 Plains
 14 Plains
 1 Spellskite
-11 Snow-Covered Plains
 15 Plains
 16 Plains
 2 Spellskite
+11 Snow-Covered Plains
 4 Archon of Emeria
 1 Sejiri Shelter
 2 Sejiri Shelter
@@ -42,11 +42,13 @@
 15 Snow-Covered Plains
 16 Snow-Covered Plains
 1 Blast Zone
+2 Horizon Canopy
 2 Sunbaked Canyon
 1 Castle Ardenvale
 2 Castle Ardenvale
 1 Flagstones of Trokair
-2 Horizon Canopy
+3 Horizon Canopy
+4 Horizon Canopy
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
@@ -80,19 +82,17 @@
 17 Snow-Covered Plains
 18 Snow-Covered Plains
 19 Snow-Covered Plains
-3 Horizon Canopy
-4 Horizon Canopy
 1 Snow-Covered Mountain
 1 Inspiring Vantage
+1 Seasoned Pyromancer
 1 Magus of the Moon
 1 Lightning Bolt
-1 Seasoned Pyromancer
 2 Inspiring Vantage
-2 Magus of the Moon
 2 Seasoned Pyromancer
 2 Lightning Bolt
-3 Magus of the Moon
+2 Magus of the Moon
 3 Inspiring Vantage
+3 Magus of the Moon
 3 Lightning Bolt
 4 Lightning Bolt
 4 Inspiring Vantage

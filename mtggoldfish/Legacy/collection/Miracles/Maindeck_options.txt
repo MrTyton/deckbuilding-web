@@ -1,9 +1,8 @@
 1 Flusterstorm
-1 Preordain
 2 Prismatic Vista
+1 Preordain
 1 Snapcaster Mage
 1 Jace, the Mind Sculptor
-1 Lightning Bolt
 3 Prismatic Vista
 2 Snow-Covered Plains
 4 Snow-Covered Island
@@ -12,81 +11,74 @@
 3 Snapcaster Mage
 4 Prismatic Vista
 2 Counterbalance
+1 Lightning Bolt
 2 Jace, the Mind Sculptor
 5 Snow-Covered Island
+2 Tundra
 1 Back to Basics
 1 Supreme Verdict
 1 Council's Judgment
 1 Counterspell
 3 Jace, the Mind Sculptor
-1 Predict
 6 Snow-Covered Island
 1 Gideon, Ally of Zendikar
 1 Red Elemental Blast
+1 Predict
 2 Back to Basics
-2 Tundra
 2 Terminus
 1 Monastery Mentor
-1 Accumulated Knowledge
-2 Accumulated Knowledge
-3 Accumulated Knowledge
-3 Terminus
-4 Accumulated Knowledge
-2 Scalding Tarn
-3 Scalding Tarn
-1 Wasteland
-2 Preordain
 1 Karakas
+2 Preordain
 1 Intuition
 2 Intuition
-3 Preordain
-1 City of Traitors
+1 Veil of Summer
 1 Emrakul, the Aeons Torn
 1 Omniscience
 1 Cunning Wish
 1 Eladamri's Call
 1 Show and Tell
-1 Veil of Summer
-2 City of Traitors
+1 City of Traitors
 2 Snow-Covered Forest
+2 Veil of Summer
 2 Emrakul, the Aeons Torn
 2 Omniscience
 2 Cunning Wish
 2 Show and Tell
-2 Veil of Summer
+2 City of Traitors
+3 Preordain
 3 Show and Tell
 3 Cunning Wish
 3 Omniscience
 3 Veil of Summer
 4 Omniscience
 4 Show and Tell
-1 Daze
-1 Polluted Delta
 2 Monastery Mentor
 1 Island
 3 Tundra
 2 Mystic Sanctuary
-2 Volcanic Island
-2 Wasteland
-4 Scalding Tarn
-1 Pyroblast
-2 Daze
+1 Polluted Delta
+1 Accumulated Knowledge
+2 Accumulated Knowledge
+3 Accumulated Knowledge
+3 Terminus
+4 Accumulated Knowledge
 1 Plains
-2 Plains
 2 Island
+2 Plains
 3 Island
 4 Island
 4 Snapcaster Mage
+1 Pyroblast
+1 Wasteland
+2 Scalding Tarn
+3 Scalding Tarn
 1 Entreat the Angels
 3 Intuition
-1 Sprite Dragon
-1 Stifle
-3 Wasteland
 1 Temporal Mastery
 1 Brazen Borrower
-1 Devastation Tide
 1 Maze of Ith
 1 Portent
+1 Devastation Tide
 2 Entreat the Angels
 2 Portent
 3 Mystic Sanctuary
@@ -96,37 +88,23 @@
 5 Island
 6 Island
 7 Island
-1 Lotus Petal
-2 Lotus Petal
-3 Lotus Petal
-2 Pyroblast
-1 Snow-Covered Swamp
-1 Ideas Unbound
-1 Thassa's Oracle
-1 Street Wraith
-1 Cavern of Souls
-1 Edge of Autumn
-1 Doomsday
-1 Lion's Eye Diamond
-1 Underground Sea
-1 Dark Ritual
-2 Underground Sea
-2 Doomsday
-2 Dark Ritual
-2 Polluted Delta
-3 Polluted Delta
-3 Doomsday
-3 Dark Ritual
-4 Polluted Delta
-4 Doomsday
-4 Dark Ritual
-1 Orim's Chant
+1 Stifle
+1 Daze
+2 Volcanic Island
+2 Wasteland
+4 Scalding Tarn
 1 Court of Cunning
 2 Court of Cunning
+2 Pyroblast
 3 Monastery Mentor
-3 Daze
 1 Enlightened Tutor
+1 Lotus Petal
+2 Daze
+2 Lotus Petal
+3 Daze
+3 Lotus Petal
 1 Griselbrand
+2 Stifle
 2 Counterspell
 2 Council's Judgment
 2 Brazen Borrower
@@ -137,32 +115,32 @@
 1 True-Name Nemesis
 1 Crucible of Worlds
 1 Trade Routes
+1 Orim's Chant
 1 Cryptic Command
 1 Island Sanctuary
 2 Sevinne's Reclamation
 3 Teferi, Time Raveler
-1 Baleful Strix
-2 Baleful Strix
-3 Baleful Strix
+1 Sprite Dragon
+3 Wasteland
 1 Dovin's Veto
-1 Humility
 1 Moat
-1 Helm of Obedience
 1 Energy Field
+1 Humility
 1 Rest in Peace
+1 Helm of Obedience
 2 Rest in Peace
 2 Energy Field
 3 Energy Field
 3 Rest in Peace
 3 Court of Cunning
 4 Rest in Peace
-1 Dack Fayden
 1 Frantic Inventory
+1 Dack Fayden
 1 Mox Diamond
 1 Aria of Flame
 2 Lightning Bolt
-2 Dack Fayden
 2 Frantic Inventory
+2 Dack Fayden
 2 Mox Diamond
 2 Aria of Flame
 3 Volcanic Island
@@ -171,36 +149,51 @@
 3 Mox Diamond
 4 Frantic Inventory
 4 Aria of Flame
-2 Stifle
-4 Wasteland
-1 Emry, Lurker of the Loch
-1 Firestorm
+1 Snow-Covered Swamp
+1 Lion's Eye Diamond
+1 Cavern of Souls
+1 Ideas Unbound
+1 Thassa's Oracle
+1 Edge of Autumn
+1 Doomsday
+1 Street Wraith
+1 Baleful Strix
+1 Underground Sea
+1 Dark Ritual
+2 Polluted Delta
+2 Underground Sea
+2 Doomsday
+2 Baleful Strix
+2 Dark Ritual
+3 Polluted Delta
+3 Doomsday
+3 Dark Ritual
+3 Baleful Strix
+4 Polluted Delta
+4 Doomsday
+4 Dark Ritual
 1 Mox Opal
+1 Path to Exile
+1 Firestorm
 1 Scroll Rack
 1 Pyrite Spellbomb
-1 Path to Exile
+1 Emry, Lurker of the Loch
 1 Land Tax
 1 Urza, Lord High Artificer
-2 Firestorm
-2 Enlightened Tutor
-2 Path to Exile
-2 Land Tax
 2 Mox Opal
+2 Firestorm
+2 Path to Exile
+2 Enlightened Tutor
+2 Land Tax
 2 Scroll Rack
 2 Urza, Lord High Artificer
-3 Snow-Covered Plains
 3 Mox Opal
+3 Snow-Covered Plains
 3 Land Tax
 3 Scroll Rack
 4 Snow-Covered Plains
 4 Monastery Mentor
 4 Lotus Petal
-4 Land Tax
 5 Snow-Covered Plains
 7 Snow-Covered Island
-1 Thoughtseize
-1 Scrubland
-2 Predict
-2 Thoughtseize
-3 Underground Sea
-4 Preordain
+4 Land Tax

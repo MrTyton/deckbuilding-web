@@ -1,18 +1,15 @@
-1 Charming Prince
 1 Spellskite
 1 Ethersworn Canonist
 2 Spellskite
 2 Ethersworn Canonist
+3 Silent Clearing
+3 Ethersworn Canonist
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains
-3 Ethersworn Canonist
-4 Silent Clearing
-7 Snow-Covered Plains
-8 Snow-Covered Plains
 1 Lurrus of the Dream-Den
 2 Charming Prince
 1 Cavern of Souls
@@ -64,14 +61,13 @@
 2 Seasoned Pyromancer
 2 Angrath's Marauders
 2 Needleverge Pathway
-3 Needleverge Pathway
 3 Battlefield Forge
 3 Sacred Foundry
 3 Inspiring Vantage
 3 Angrath's Marauders
 3 Seasoned Pyromancer
+3 Needleverge Pathway
 3 Winota, Joiner of Forces
-4 Needleverge Pathway
 4 Battlefield Forge
 4 Sunbaked Canyon
 4 Sacred Foundry
@@ -79,7 +75,19 @@
 4 Seasoned Pyromancer
 4 Winota, Joiner of Forces
 4 Angrath's Marauders
+4 Needleverge Pathway
+12 Plains
+4 Silent Clearing
+7 Snow-Covered Plains
+8 Snow-Covered Plains
+9 Snow-Covered Plains
+10 Snow-Covered Plains
+1 Aven Mindcensor
+1 Embercleave
+1 Phyrexian Revoker
+2 Phyrexian Revoker
 1 Eldrazi Temple
+1 Akroma, Angel of Fury
 1 Eldrazi Displacer
 1 Shefet Dunes
 1 Thought-Knot Seer
@@ -89,33 +97,15 @@
 2 Thought-Knot Seer
 2 Eldrazi Temple
 3 Thought-Knot Seer
+3 Charming Prince
 3 Eldrazi Displacer
+3 Shefet Dunes
 3 Eldrazi Temple
 4 Thought-Knot Seer
 4 Eldrazi Displacer
-4 Eldrazi Temple
-12 Plains
-1 Flagstones of Trokair
-9 Snow-Covered Plains
-10 Snow-Covered Plains
-1 Aven Mindcensor
-1 Embercleave
-1 Phyrexian Revoker
-2 Phyrexian Revoker
-1 Akroma, Angel of Fury
-3 Charming Prince
-3 Shefet Dunes
 4 Shefet Dunes
-1 Reality Smasher
-1 Wastes
-1 Skyclave Cleric
-1 Sword of Light and Shadow
-2 Reality Smasher
-2 Skyclave Cleric
-3 Reality Smasher
-3 Skyclave Cleric
-4 Reality Smasher
-4 Skyclave Cleric
+4 Eldrazi Temple
+1 Flagstones of Trokair
 1 Selfless Spirit
 2 Aven Mindcensor
 2 Selfless Spirit

@@ -33,8 +33,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)     |                    1|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446104)  |
-|                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|
+|                    1|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)     |                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)|
+|                    1|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|                    1|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446104)  |
 |                    1|[Daru Spiritualist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45139)    |                    1|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)  |
 |                    1|[Shaman en-Kor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5220)         |                    1|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)|
 |                    1|[Starlit Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=40542)      |                    1|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)     |
@@ -42,9 +42,9 @@
 |                    2|[Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625)       |                    1|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)    |
 |                    2|[Starlit Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=40542)      |                    1|[Grand Abolisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389538)    |
 |                    2|[Daru Spiritualist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45139)    |                    2|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)|
-|                    3|[Daru Spiritualist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45139)    |                    2|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)  |
-|                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)      |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
-|                     |                                                                                               |                    2|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446104)  |
+|                    3|[Daru Spiritualist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45139)    |                    2|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446104)  |
+|                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)      |                    2|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)  |
+|                     |                                                                                               |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 |                     |                                                                                               |                    3|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)  |
 |                     |                                                                                               |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|
 

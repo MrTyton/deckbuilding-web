@@ -1,13 +1,13 @@
 1 Flooded Strand
-1 Polluted Delta
-1 Watery Grave
 1 Thought Scour
+1 Watery Grave
+1 Polluted Delta
 1 Mishra's Bauble
-2 Polluted Delta
 2 Thought Scour
+2 Polluted Delta
 2 Mishra's Bauble
-3 Polluted Delta
 3 Thought Scour
+3 Polluted Delta
 3 Mishra's Bauble
 4 Polluted Delta
 4 Mishra's Bauble
@@ -15,7 +15,6 @@
 2 Snow-Covered Island
 2 Flooded Strand
 1 Tasigur, the Golden Fang
-1 Snow-Covered Swamp
 1 Unearth
 1 Lurrus of the Dream-Den
 1 Monastery Mentor
@@ -33,18 +32,19 @@
 1 Aether Spellbomb
 1 Engineered Explosives
 1 Waterlogged Grove
+1 Snow-Covered Swamp
 2 Repeal
 2 Monastery Mentor
 2 Mox Amber
 2 Unearth
-2 Teferi, Time Raveler
 2 Emry, Lurker of the Loch
+2 Teferi, Time Raveler
 2 Erayo, Soratami Ascendant
 2 Waterlogged Grove
 2 Engineered Explosives
 3 Teferi, Time Raveler
-3 Repeal
 3 Flooded Strand
+3 Repeal
 3 Unearth
 3 Monastery Mentor
 3 Erayo, Soratami Ascendant
@@ -52,8 +52,8 @@
 3 Emry, Lurker of the Loch
 4 Flooded Strand
 4 Repeal
-4 Teferi, Time Raveler
 4 Monastery Mentor
+4 Teferi, Time Raveler
 4 Emry, Lurker of the Loch
 4 Erayo, Soratami Ascendant
 4 Mox Amber
@@ -123,8 +123,8 @@
 1 Shark Typhoon
 1 Castle Vantress
 1 Fact or Fiction
-1 Uro, Titan of Nature's Wrath
 1 Nexus of Fate
+1 Force of Negation
 1 Cryptic Command
 1 Mystic Sanctuary
 1 Growth Spiral
@@ -132,87 +132,87 @@
 1 Archmage's Charm
 1 Jace, the Mind Sculptor
 1 Scalding Tarn
+1 Uro, Titan of Nature's Wrath
 1 Breeding Pool
 1 Remand
-1 Force of Negation
 2 Wilderness Reclamation
+2 Scalding Tarn
 2 Misty Rainforest
+2 Jace, the Mind Sculptor
+2 Uro, Titan of Nature's Wrath
 2 Breeding Pool
 2 Cryptic Command
-2 Uro, Titan of Nature's Wrath
 2 Remand
 2 Nexus of Fate
-2 Jace, the Mind Sculptor
 2 Growth Spiral
 2 Mystic Sanctuary
-2 Scalding Tarn
 2 Ice-Fang Coatl
 2 Archmage's Charm
 2 Field of Ruin
 2 Force of Negation
-3 Growth Spiral
 3 Wilderness Reclamation
 3 Mystic Sanctuary
 3 Breeding Pool
 3 Snow-Covered Island
-3 Field of Ruin
 3 Misty Rainforest
+3 Field of Ruin
 3 Nexus of Fate
 3 Remand
+3 Growth Spiral
 3 Cryptic Command
 3 Uro, Titan of Nature's Wrath
 3 Archmage's Charm
 4 Mystic Sanctuary
 4 Growth Spiral
 4 Snow-Covered Island
-4 Cryptic Command
 4 Misty Rainforest
+4 Cryptic Command
 4 Archmage's Charm
 5 Snow-Covered Island
 6 Snow-Covered Island
 1 Agadeem's Awakening
 1 Into the Story
-1 Soaring Thought-Thief
 1 Bloodchief's Thirst
-1 Fatal Push
+1 Soaring Thought-Thief
+1 Darkslick Shores
+1 Swamp
 1 Thieves' Guild Enforcer
+1 Fatal Push
 1 Drown in the Loch
 1 Island
 1 Cling to Dust
-1 Swamp
 1 Spell Snare
 1 Marsh Flats
-1 Darkslick Shores
 1 Creeping Tar Pit
 1 Sunken Ruins
 1 Snapcaster Mage
-2 Creeping Tar Pit
 2 Into the Story
-2 Soaring Thought-Thief
+2 Creeping Tar Pit
 2 Bloodchief's Thirst
+2 Soaring Thought-Thief
 2 Watery Grave
-2 Fatal Push
+2 Darkslick Shores
 2 Thieves' Guild Enforcer
+2 Fatal Push
 2 Drown in the Loch
 2 Spell Snare
 2 Snapcaster Mage
 2 Cling to Dust
 2 Island
 2 Swamp
-2 Darkslick Shores
-3 Drown in the Loch
 3 Thieves' Guild Enforcer
-3 Soaring Thought-Thief
 3 Into the Story
+3 Soaring Thought-Thief
 3 Darkslick Shores
 3 Fatal Push
 3 Snapcaster Mage
 3 Island
+3 Drown in the Loch
 4 Thieves' Guild Enforcer
 4 Drown in the Loch
-4 Darkslick Shores
-4 Soaring Thought-Thief
 4 Fatal Push
+4 Soaring Thought-Thief
 4 Thought Scour
+4 Darkslick Shores
 4 Island
 4 Into the Story

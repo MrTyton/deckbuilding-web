@@ -1,31 +1,30 @@
+2 Swamp
 2 Polluted Delta
-4 Marsh Flats
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 1 Cabal Therapy
-3 Polluted Delta
 1 Verdant Catacombs
 2 Verdant Catacombs
+3 Polluted Delta
 3 Badlands
-4 Polluted Delta
-1 Elesh Norn, Grand Cenobite
 3 Swamp
 3 Snow-Covered Swamp
+4 Polluted Delta
+1 Elesh Norn, Grand Cenobite
 1 Ashen Rider
 1 Iona, Shield of Emeria
-1 Sire of Insanity
 1 Daze
 1 Brainstorm
 1 Ponder
 1 Force of Will
 1 Underground Sea
-2 Daze
 2 Ponder
 2 Underground Sea
 2 Brainstorm
 2 Force of Will
-3 Daze
+2 Daze
 3 Underground Sea
+3 Daze
 3 Brainstorm
 3 Force of Will
 3 Ponder
@@ -34,26 +33,27 @@
 4 Brainstorm
 1 Volcanic Island
 1 Force of Negation
-1 Dreadhorde Arcanist
-1 Lightning Bolt
-1 Young Pyromancer
 1 Ox of Agonas
-1 Preordain
 1 Scalding Tarn
-2 Young Pyromancer
-2 Dreadhorde Arcanist
+1 Lightning Bolt
+1 Dreadhorde Arcanist
+1 Young Pyromancer
+1 Preordain
 2 Lightning Bolt
 2 Scalding Tarn
 2 Volcanic Island
-3 Young Pyromancer
+2 Dreadhorde Arcanist
+2 Young Pyromancer
 3 Lightning Bolt
 3 Volcanic Island
 3 Scalding Tarn
+3 Young Pyromancer
 3 Dreadhorde Arcanist
 4 Lightning Bolt
 4 Dreadhorde Arcanist
 2 Cabal Therapy
 4 Thoughtseize
+1 Sire of Insanity
 1 Flusterstorm
 2 Preordain
 2 Bayou
@@ -122,7 +122,7 @@
 17 Snow-Covered Swamp
 1 Wurmcoil Engine
 1 Bitterblossom
-1 Duress
 1 Surgical Extraction
+1 Duress
 1 Olivia's Dragoon
 17 Swamp

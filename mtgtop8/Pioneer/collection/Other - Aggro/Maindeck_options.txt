@@ -18,16 +18,49 @@
 4 Murderous Rider
 4 Samut, Voice of Dissent
 4 Cathartic Reunion
-1 Llanowar Elves
-1 Elvish Mystic
-2 Llanowar Elves
-2 Elvish Mystic
-4 Stomping Ground
+1 Thieves' Guild Enforcer
+1 Soaring Thought-Thief
+1 Into the Story
+1 Drown in the Loch
+1 Agadeem's Awakening
+1 Thoughtseize
+1 Urborg, Tomb of Yawgmoth
+1 Eliminate
+1 Cling to Dust
+1 Clearwater Pathway
+1 Fatal Push
+1 Watery Grave
+2 Soaring Thought-Thief
+2 Thieves' Guild Enforcer
+2 Into the Story
+2 Drown in the Loch
+2 Fatal Push
+2 Thoughtseize
+2 Watery Grave
+2 Clearwater Pathway
+3 Soaring Thought-Thief
+3 Drown in the Loch
+3 Thieves' Guild Enforcer
+3 Clearwater Pathway
+3 Thoughtseize
+3 Watery Grave
+4 Drown in the Loch
+4 Soaring Thought-Thief
+4 Thieves' Guild Enforcer
+4 Thoughtseize
+4 Clearwater Pathway
+4 Watery Grave
 1 Breeding Pool
 1 Botanical Sanctum
 2 Botanical Sanctum
 3 Botanical Sanctum
 4 Botanical Sanctum
+1 Mystical Dispute
+1 Llanowar Elves
+1 Elvish Mystic
+2 Llanowar Elves
+2 Elvish Mystic
+4 Stomping Ground
 1 Bonders' Enclave
 1 Lovestruck Beast
 1 Scavenging Ooze
@@ -61,61 +94,32 @@
 3 Spirebluff Canal
 3 Scavenging Ooze
 4 Lovestruck Beast
-4 Questing Beast
 4 Scavenging Ooze
 4 Breeding Pool
 4 Elder Gargaroth
+4 Questing Beast
 4 Elvish Mystic
 4 Vivien, Arkbow Ranger
 4 Spirebluff Canal
 4 Cragcrown Pathway
 4 Bonecrusher Giant
 4 Llanowar Elves
-1 Mystical Dispute
 1 Mutavault
 2 Mutavault
 1 Merfolk Windrobber
-1 Soaring Thought-Thief
-1 Thieves' Guild Enforcer
-1 Drown in the Loch
-1 Into the Story
-1 Agadeem's Awakening
-1 Eliminate
-1 Thoughtseize
-1 Urborg, Tomb of Yawgmoth
 1 Deathrite Shaman
-1 Cling to Dust
-1 Clearwater Pathway
-1 Fatal Push
-1 Watery Grave
 2 Merfolk Windrobber
-2 Soaring Thought-Thief
-2 Drown in the Loch
 2 Agadeem's Awakening
-2 Thieves' Guild Enforcer
-2 Into the Story
-2 Fatal Push
-2 Thoughtseize
-2 Watery Grave
 2 Deathrite Shaman
-2 Clearwater Pathway
 3 Merfolk Windrobber
-3 Soaring Thought-Thief
-3 Drown in the Loch
-3 Thieves' Guild Enforcer
 3 Into the Story
 3 Deathrite Shaman
-3 Clearwater Pathway
-3 Thoughtseize
-3 Watery Grave
-4 Drown in the Loch
-4 Soaring Thought-Thief
-4 Thieves' Guild Enforcer
-4 Thoughtseize
 4 Deathrite Shaman
-4 Clearwater Pathway
-4 Watery Grave
+2 Mystical Dispute
 1 Island
+3 Fatal Push
+2 Island
+3 Island
 1 Plains
 1 Castle Ardenvale
 2 Plains
@@ -131,6 +135,7 @@
 1 Omen of the Sea
 1 Thassa, Deep-Dwelling
 1 Reflector Mage
+1 Solemn Simulacrum
 1 Isolate
 1 Skyclave Apparition
 1 Hallowed Fountain
@@ -140,7 +145,6 @@
 1 Glass Casket
 1 Yorion, Sky Nomad
 1 Agent of Treachery
-1 Solemn Simulacrum
 2 Charming Prince
 2 Elite Guardmage
 2 Thraben Inspector
@@ -152,7 +156,6 @@
 2 Thassa, Deep-Dwelling
 2 Isolate
 2 Skyclave Apparition
-2 Island
 2 Yorion, Sky Nomad
 2 Glass Casket
 2 Agent of Treachery
@@ -173,14 +176,13 @@
 3 Teferi, Time Raveler
 3 Hallowed Fountain
 3 Temple of Enlightenment
-3 Island
 4 Glacial Fortress
 4 Thraben Inspector
 4 Elite Guardmage
 4 Charming Prince
+4 Isolate
 4 Glass Casket
 4 Skyclave Apparition
-4 Isolate
 4 Teferi, Time Raveler
 4 Reflector Mage
 4 Temple of Enlightenment
@@ -201,11 +203,31 @@
 2 Sea Gate Stormcaller
 2 Chart a Course
 2 Cling to Dust
-3 Fatal Push
 1 Stubborn Denial
 2 Stubborn Denial
 3 Stubborn Denial
 4 Stubborn Denial
+1 Anticognition
+1 Nighthawk Scavenger
+1 Zareth San, the Trickster
+1 Notion Thief
+1 Drowned Catacomb
+1 Castle Locthwain
+1 Fabled Passage
+1 Brazen Borrower
+2 Notion Thief
+2 Eliminate
+2 Nighthawk Scavenger
+2 Drowned Catacomb
+2 Brazen Borrower
+2 Swamp
+2 Fabled Passage
+3 Swamp
+3 Brazen Borrower
+3 Drowned Catacomb
+4 Drowned Catacomb
+4 Fatal Push
+4 Brazen Borrower
 1 Omen of the Sun
 1 Sunpetal Grove
 1 Westvale Abbey
@@ -220,13 +242,14 @@
 1 Anointed Procession
 1 Brimaz, King of Oreskos
 1 Trostani Discordant
-1 Raise the Alarm
 1 Oath of Gideon
 1 Legion's Landing
+1 Raise the Alarm
 1 Conclave Tribunal
 1 Nissa, Voice of Zendikar
 2 Castle Ardenvale
 2 Omen of the Sun
+2 Sunpetal Grove
 2 Gideon, Ally of Zendikar
 2 Voice of Resurgence
 2 Temple Garden
@@ -240,7 +263,6 @@
 2 Nissa, Voice of Zendikar
 2 Anointed Procession
 2 Saproling Migration
-2 Sunpetal Grove
 3 Omen of the Sun
 3 Temple Garden
 3 Branchloft Pathway
@@ -260,17 +282,8 @@
 4 Saproling Migration
 4 Raise the Alarm
 4 Sunpetal Grove
-2 Mystical Dispute
 3 Mystical Dispute
 4 Mystical Dispute
-1 Of One Mind
-1 Heartless Act
-1 Zagoth Triome
-2 Of One Mind
-2 Zagoth Triome
-3 Of One Mind
-3 Agadeem's Awakening
-4 Into the Story
 1 Zulaport Cutthroat
 1 Priest of Forgotten Gods
 1 Gilded Goose
@@ -308,8 +321,16 @@
 4 Catacomb Sifter
 4 Blisterpod
 4 Zulaport Cutthroat
-4 Mayhem Devil
 4 Bolas's Citadel
+4 Mayhem Devil
+1 Of One Mind
+1 Heartless Act
+1 Zagoth Triome
+2 Of One Mind
+2 Zagoth Triome
+3 Of One Mind
+3 Agadeem's Awakening
+4 Into the Story
 1 Vampire of the Dire Moon
 2 Vampire of the Dire Moon
 4 Nullhide Ferox
