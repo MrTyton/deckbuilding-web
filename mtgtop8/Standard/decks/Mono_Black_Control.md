@@ -34,9 +34,9 @@
 |                    1|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)              |                     |              |
 |                    1|[Agonizing Remorse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476334)  |                     |              |
 |                    1|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)      |                     |              |
+|                    2|[Pelakka Predation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491757)  |                     |              |
 |                    2|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)   |                     |              |
 |                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)              |                     |              |
-|                    2|[Pelakka Predation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491757)  |                     |              |
 |                    2|[Agonizing Remorse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476334)  |                     |              |
 |                    2|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)      |                     |              |
 |                    3|[Hagra Mauling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491741)      |                     |              |

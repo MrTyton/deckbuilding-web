@@ -39,6 +39,7 @@
 2 Mystic Sanctuary
 1 Brazen Borrower
 1 Swamp
+1 Underground Sea
 1 Eliminate
 1 Cling to Dust
 1 Ingenious Infiltrator
@@ -47,7 +48,6 @@
 1 Yuriko, the Tiger's Shadow
 1 Ornithopter
 1 Retrofitter Foundry
-1 Underground Sea
 1 Fatal Push
 2 Swamp
 2 Changeling Outcast
@@ -59,8 +59,8 @@
 2 Daze
 3 Fatal Push
 3 Swamp
-3 Yuriko, the Tiger's Shadow
 3 Polluted Delta
+3 Yuriko, the Tiger's Shadow
 3 Retrofitter Foundry
 3 Ornithopter
 3 Ingenious Infiltrator
@@ -109,23 +109,23 @@
 3 Day's Undoing
 1 Waterlogged Grove
 1 Tranquil Thicket
+1 Snow-Covered Forest
 1 Thespian's Stage
-1 Life from the Loam
-1 Bojuka Bog
 1 Mox Diamond
-1 Crop Rotation
+1 Wooded Foothills
+1 Life from the Loam
 1 Elvish Reclaimer
 1 Forest
 1 Blast Zone
 1 The Tabernacle at Pendrell Vale
 1 Maze of Ith
+1 Crop Rotation
+1 Bojuka Bog
 1 Dark Depths
 1 Field of the Dead
 1 Rishadan Port
 1 Tropical Island
 1 Exploration
-1 Snow-Covered Forest
-1 Wooded Foothills
 1 Misty Rainforest
 1 Verdant Catacombs
 1 Riftstone Portal
@@ -153,8 +153,8 @@
 3 Exploration
 3 Dark Depths
 4 Oko, Thief of Crowns
-4 Mox Diamond
 4 Wasteland
+4 Mox Diamond
 4 Crop Rotation
 4 Exploration
 4 Life from the Loam
