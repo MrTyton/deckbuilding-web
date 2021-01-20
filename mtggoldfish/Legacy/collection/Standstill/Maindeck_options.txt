@@ -39,7 +39,6 @@
 2 Mystic Sanctuary
 1 Brazen Borrower
 1 Swamp
-1 Underground Sea
 1 Eliminate
 1 Cling to Dust
 1 Ingenious Infiltrator
@@ -48,6 +47,7 @@
 1 Yuriko, the Tiger's Shadow
 1 Ornithopter
 1 Retrofitter Foundry
+1 Underground Sea
 1 Fatal Push
 2 Swamp
 2 Changeling Outcast
@@ -93,7 +93,6 @@
 1 Stoneforge Mystic
 1 Batterskull
 2 Stoneforge Mystic
-2 Spell Pierce
 1 Back to Basics
 1 Court of Cunning
 2 Back to Basics
@@ -103,24 +102,25 @@
 1 Terminus
 2 Brazen Borrower
 2 Terminus
+2 Spell Pierce
 1 Council's Judgment
 1 Day's Undoing
 2 Day's Undoing
 3 Day's Undoing
 1 Waterlogged Grove
 1 Tranquil Thicket
-1 Snow-Covered Forest
 1 Thespian's Stage
+1 Life from the Loam
+1 Bojuka Bog
 1 Mox Diamond
 1 Wooded Foothills
-1 Life from the Loam
+1 Snow-Covered Forest
+1 Crop Rotation
 1 Elvish Reclaimer
 1 Forest
 1 Blast Zone
 1 The Tabernacle at Pendrell Vale
 1 Maze of Ith
-1 Crop Rotation
-1 Bojuka Bog
 1 Dark Depths
 1 Field of the Dead
 1 Rishadan Port
@@ -153,8 +153,8 @@
 3 Exploration
 3 Dark Depths
 4 Oko, Thief of Crowns
-4 Wasteland
 4 Mox Diamond
+4 Wasteland
 4 Crop Rotation
 4 Exploration
 4 Life from the Loam

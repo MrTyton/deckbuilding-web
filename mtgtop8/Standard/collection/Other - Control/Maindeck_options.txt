@@ -1,123 +1,4 @@
-1 Indatha Triome
-1 Brightclimb Pathway
-1 Swamp
-1 Branchloft Pathway
-1 Forest
-1 Bala Ged Recovery
-1 Mythos of Nethroi
-2 Indatha Triome
-2 Mythos of Nethroi
-2 Swamp
-2 Forest
-3 Indatha Triome
-3 Mythos of Nethroi
-4 Indatha Triome
-1 Extinction Event
-1 Elspeth's Nightmare
-1 Eliminate
-1 Cling to Dust
-1 Temple of Malady
-1 Elder Gargaroth
-1 Polukranos, Unchained
-1 Heartless Act
-1 Yasharn, Implacable Earth
-1 Scavenging Ooze
-1 Castle Locthwain
-2 Elspeth's Nightmare
-2 Polukranos, Unchained
-2 Scavenging Ooze
-2 Heartless Act
-2 Temple of Malady
-2 Elder Gargaroth
-2 Castle Locthwain
-3 Scavenging Ooze
-3 Elder Gargaroth
-1 Temple of Triumph
-2 Temple of Triumph
-1 Shredded Sails
-2 Shredded Sails
-2 Branchloft Pathway
-1 Garruk, Cursed Huntsman
-2 Brightclimb Pathway
-2 Garruk, Cursed Huntsman
-3 Branchloft Pathway
-3 Brightclimb Pathway
-2 Bala Ged Recovery
-3 Swamp
-1 Crawling Barrens
-1 Ugin, the Spirit Dragon
-1 Mazemind Tome
-2 Ugin, the Spirit Dragon
-2 Mazemind Tome
-3 Ugin, the Spirit Dragon
-3 Mazemind Tome
-3 Elspeth Conquers Death
-4 Ugin, the Spirit Dragon
-4 Mazemind Tome
-2 Extinction Event
-3 Extinction Event
-1 Bloodchief's Thirst
-1 Banishing Light
-3 Lukka, Coppercoat Outcast
 1 Island
-1 Savai Triome
-1 Ketria Triome
-1 Dismal Backwater
-1 Thirst for Meaning
-1 Fae of Wishes
-1 Jungle Hollow
-1 Bloodfell Caves
-1 Riverglide Pathway
-1 Sanctum of Shattered Heights
-1 Sanctum of Tranquil Light
-1 Zagoth Triome
-1 Thornwood Falls
-1 Cragcrown Pathway
-1 Wind-Scarred Crag
-1 Sanctum of Calm Waters
-1 Sanctum of All
-1 Sanctum of Fruitful Harvest
-1 Clearwater Pathway
-1 Sanctum of Stone Fangs
-1 Tranquil Cove
-2 Tranquil Cove
-2 Dismal Backwater
-2 Thirst for Meaning
-2 Fae of Wishes
-2 Bloodchief's Thirst
-2 Sanctum of Calm Waters
-2 Zagoth Triome
-2 Sanctum of Shattered Heights
-2 Cragcrown Pathway
-2 Sanctum of All
-2 Sanctum of Fruitful Harvest
-2 Sanctum of Tranquil Light
-2 Clearwater Pathway
-2 Sanctum of Stone Fangs
-3 Fae of Wishes
-3 Bloodchief's Thirst
-3 Sanctum of Fruitful Harvest
-3 Sanctum of Tranquil Light
-3 Sanctum of Calm Waters
-3 Sanctum of Stone Fangs
-3 Sanctum of All
-3 Sanctum of Shattered Heights
-4 Extinction Event
-4 Sanctum of Shattered Heights
-1 Bonders' Enclave
-1 Temple of Silence
-1 Hagra Mauling
-1 Agonizing Remorse
-1 Vivien, Monsters' Advocate
-1 Llanowar Visionary
-2 Eliminate
-2 Vivien, Monsters' Advocate
-2 Agonizing Remorse
-2 Llanowar Visionary
-3 Forest
-3 Llanowar Visionary
-3 Agonizing Remorse
-4 Llanowar Visionary
 1 Mystic Sanctuary
 1 Frantic Inventory
 1 Into the Roil
@@ -140,8 +21,6 @@
 14 Island
 15 Island
 16 Island
-17 Island
-18 Island
 1 Rewind
 1 Lofty Denial
 1 Rain of Revelation
@@ -150,15 +29,14 @@
 1 Silundi Vision
 1 Shark Typhoon
 1 Hypnotic Sprite
+1 Gadwick, the Wizened
+1 Jwari Disruption
+1 Essence Scatter
 1 Castle Vantress
 1 Sublime Epiphany
-1 Gadwick, the Wizened
-1 Essence Scatter
-1 Jwari Disruption
 1 Brazen Borrower
 2 Castle Vantress
 2 Rewind
-2 Lofty Denial
 2 Rain of Revelation
 2 Neutralize
 2 Essence Scatter
@@ -168,37 +46,185 @@
 2 Gadwick, the Wizened
 3 Castle Vantress
 3 Neutralize
-3 Brazen Borrower
 3 Rewind
 3 Shark Typhoon
+3 Brazen Borrower
 4 Castle Vantress
 4 Neutralize
 4 Shark Typhoon
 4 Rewind
 4 Brazen Borrower
-1 Wolfwillow Haven
-1 Erebos's Intervention
+1 Crawling Barrens
+1 Ugin, the Spirit Dragon
+1 Bonders' Enclave
+1 Indatha Triome
+1 Brightclimb Pathway
+1 Swamp
+1 Branchloft Pathway
+1 Forest
+1 Bala Ged Recovery
+1 Mythos of Nethroi
+2 Indatha Triome
+2 Mythos of Nethroi
+2 Forest
+2 Swamp
+3 Indatha Triome
+3 Mythos of Nethroi
+4 Indatha Triome
+1 Extinction Event
+1 Elspeth's Nightmare
+1 Eliminate
+1 Cling to Dust
+1 Temple of Malady
+1 Polukranos, Unchained
+1 Castle Locthwain
+1 Heartless Act
+1 Scavenging Ooze
+1 Elder Gargaroth
+1 Yasharn, Implacable Earth
+2 Elspeth's Nightmare
+2 Heartless Act
+2 Elder Gargaroth
+2 Temple of Malady
+2 Castle Locthwain
+2 Polukranos, Unchained
+2 Scavenging Ooze
+3 Scavenging Ooze
+3 Elder Gargaroth
+1 Temple of Triumph
+2 Temple of Triumph
+2 Crawling Barrens
+1 Shredded Sails
+2 Shredded Sails
+17 Island
+18 Island
+2 Branchloft Pathway
+1 Banishing Light
+1 Mazemind Tome
+2 Mazemind Tome
+3 Mazemind Tome
+1 Garruk, Cursed Huntsman
+2 Brightclimb Pathway
+2 Garruk, Cursed Huntsman
+3 Brightclimb Pathway
+3 Branchloft Pathway
+2 Bala Ged Recovery
+3 Swamp
 1 Felidar Retreat
-1 Shatter the Sky
-1 Cultivate
-1 Shadows' Verdict
-2 Wolfwillow Haven
-2 Erebos's Intervention
-2 Cultivate
-2 Shatter the Sky
-3 Bala Ged Recovery
-3 Garruk, Cursed Huntsman
-3 Cultivate
-3 Erebos's Intervention
-3 Emeria's Call
-3 Shatter the Sky
-3 Wolfwillow Haven
-4 Emeria's Call
-4 Garruk, Cursed Huntsman
-4 Brightclimb Pathway
-4 Erebos's Intervention
-4 Wolfwillow Haven
-4 Shatter the Sky
+1 Idyllic Grange
+1 Daxos, Blessed by the Sun
+1 Runed Halo
+1 Stonecoil Serpent
+1 Shadowspear
+1 Heliod's Intervention
+1 Archon of Sun's Grace
+1 Archon of Absolution
+1 Journey to Oblivion
+1 Arcanist's Owl
+1 Heliod, Sun-Crowned
+2 Stonecoil Serpent
+2 Banishing Light
+2 Runed Halo
+2 Felidar Retreat
+2 Archon of Sun's Grace
+2 Idyllic Grange
+2 Arcanist's Owl
+2 Archon of Absolution
+2 Journey to Oblivion
+3 Stonecoil Serpent
+3 Banishing Light
+3 Runed Halo
+3 Castle Ardenvale
+3 Archon of Absolution
+3 Journey to Oblivion
+3 Arcanist's Owl
+3 Idyllic Grange
+4 Banishing Light
+4 Runed Halo
+4 Castle Ardenvale
+4 Arcanist's Owl
+4 Idyllic Grange
+4 Journey to Oblivion
+4 Archon of Absolution
+4 Stonecoil Serpent
+6 Plains
+7 Plains
+8 Plains
+9 Plains
+10 Plains
+11 Plains
+12 Plains
+13 Plains
+14 Plains
+15 Plains
+16 Plains
+17 Plains
+18 Plains
+19 Plains
+20 Plains
+21 Plains
+22 Plains
+23 Plains
+24 Plains
+25 Plains
+26 Plains
+27 Plains
+28 Plains
+2 Ugin, the Spirit Dragon
+3 Ugin, the Spirit Dragon
+3 Elspeth Conquers Death
+4 Ugin, the Spirit Dragon
+4 Mazemind Tome
+2 Extinction Event
+3 Extinction Event
+1 Bloodchief's Thirst
+1 Field of Ruin
+2 Lofty Denial
+3 Lukka, Coppercoat Outcast
+1 Savai Triome
+1 Ketria Triome
+1 Dismal Backwater
+1 Thirst for Meaning
+1 Fae of Wishes
+1 Jungle Hollow
+1 Bloodfell Caves
+1 Thornwood Falls
+1 Sanctum of Shattered Heights
+1 Sanctum of All
+1 Sanctum of Calm Waters
+1 Sanctum of Stone Fangs
+1 Clearwater Pathway
+1 Sanctum of Tranquil Light
+1 Zagoth Triome
+1 Cragcrown Pathway
+1 Wind-Scarred Crag
+1 Riverglide Pathway
+1 Tranquil Cove
+1 Sanctum of Fruitful Harvest
+2 Tranquil Cove
+2 Dismal Backwater
+2 Thirst for Meaning
+2 Fae of Wishes
+2 Bloodchief's Thirst
+2 Sanctum of Fruitful Harvest
+2 Sanctum of Tranquil Light
+2 Zagoth Triome
+2 Sanctum of All
+2 Sanctum of Shattered Heights
+2 Sanctum of Stone Fangs
+2 Sanctum of Calm Waters
+2 Cragcrown Pathway
+2 Clearwater Pathway
+3 Fae of Wishes
+3 Bloodchief's Thirst
+3 Sanctum of Stone Fangs
+3 Sanctum of Calm Waters
+3 Sanctum of Tranquil Light
+3 Sanctum of Fruitful Harvest
+3 Sanctum of Shattered Heights
+3 Sanctum of All
+4 Extinction Event
+4 Sanctum of Shattered Heights
 1 Teferi's Tutelage
 1 Evolving Wilds
 1 Ruin Crab
@@ -207,8 +233,8 @@
 1 Anticognition
 1 Didn't Say Please
 1 Into the Story
-1 Relic Golem
 1 Negate
+1 Relic Golem
 2 Didn't Say Please
 2 Teferi's Tutelage
 2 Evolving Wilds
@@ -225,45 +251,79 @@
 3 Merfolk Secretkeeper
 3 Stern Dismissal
 3 Anticognition
-3 Relic Golem
 3 Ruin Crab
+3 Relic Golem
 3 Into the Story
 4 Didn't Say Please
 4 Evolving Wilds
 4 Teferi's Tutelage
 4 Merfolk Secretkeeper
-4 Relic Golem
 4 Ruin Crab
+4 Relic Golem
+1 Temple of Silence
+1 Hagra Mauling
+1 Llanowar Visionary
+1 Agonizing Remorse
+1 Vivien, Monsters' Advocate
+2 Eliminate
+2 Vivien, Monsters' Advocate
+2 Agonizing Remorse
+2 Llanowar Visionary
+3 Llanowar Visionary
+3 Forest
+3 Agonizing Remorse
+4 Llanowar Visionary
 1 Duress
 1 Thrashing Brontodon
 2 Thrashing Brontodon
 2 Duress
 2 Yasharn, Implacable Earth
 3 Duress
-3 Yasharn, Implacable Earth
 3 Temple of Malady
+3 Yasharn, Implacable Earth
 4 Duress
 4 Branchloft Pathway
+1 Wolfwillow Haven
+1 Erebos's Intervention
+1 Cultivate
+1 Shadows' Verdict
+1 Shatter the Sky
+2 Wolfwillow Haven
+2 Erebos's Intervention
+2 Cultivate
+2 Shatter the Sky
+3 Bala Ged Recovery
+3 Garruk, Cursed Huntsman
+3 Cultivate
+3 Erebos's Intervention
+3 Wolfwillow Haven
+3 Emeria's Call
+3 Shatter the Sky
+4 Emeria's Call
+4 Garruk, Cursed Huntsman
+4 Brightclimb Pathway
+4 Erebos's Intervention
+4 Shatter the Sky
+4 Wolfwillow Haven
 1 Solemn Simulacrum
 1 Storm's Wrath
 1 Skyclave Apparition
+1 Scorching Dragonfire
 1 Bonecrusher Giant
 1 Ox of Agonas
-1 Scorching Dragonfire
 2 Solemn Simulacrum
 2 Storm's Wrath
-2 Crawling Barrens
 2 Ox of Agonas
-2 Shatterskull Smashing
 2 Bonecrusher Giant
+2 Shatterskull Smashing
 2 Skyclave Apparition
 2 Scorching Dragonfire
 3 Crawling Barrens
 3 Temple of Triumph
 3 Solemn Simulacrum
 3 Storm's Wrath
-3 Bonecrusher Giant
 3 Skyclave Apparition
+3 Bonecrusher Giant
 3 Shatterskull Smashing
 4 Solemn Simulacrum
 4 Skyclave Apparition
