@@ -64,8 +64,9 @@
 2 Llanowar Elves
 2 Elvish Mystic
 4 Stomping Ground
-1 Bonders' Enclave
 1 Lovestruck Beast
+1 Bonders' Enclave
+1 Elder Gargaroth
 1 Scavenging Ooze
 1 Vivien, Arkbow Ranger
 1 Spirebluff Canal
@@ -73,34 +74,33 @@
 1 Bonecrusher Giant
 1 Questing Beast
 1 Rhonas the Indomitable
-1 Elder Gargaroth
+2 Lovestruck Beast
 2 Bonders' Enclave
 2 Questing Beast
-2 Lovestruck Beast
+2 Elder Gargaroth
 2 Rhonas the Indomitable
 2 Breeding Pool
-2 Elder Gargaroth
 2 Scavenging Ooze
 2 Bonecrusher Giant
 2 Vivien, Arkbow Ranger
 2 Spirebluff Canal
 2 Cragcrown Pathway
 3 Lovestruck Beast
+3 Scavenging Ooze
+3 Elder Gargaroth
 3 Breeding Pool
 3 Questing Beast
-3 Elder Gargaroth
 3 Llanowar Elves
 3 Elvish Mystic
 3 Cragcrown Pathway
 3 Bonecrusher Giant
 3 Vivien, Arkbow Ranger
 3 Spirebluff Canal
-3 Scavenging Ooze
 4 Lovestruck Beast
+4 Elder Gargaroth
 4 Scavenging Ooze
 4 Breeding Pool
 4 Questing Beast
-4 Elder Gargaroth
 4 Elvish Mystic
 4 Vivien, Arkbow Ranger
 4 Spirebluff Canal
@@ -129,6 +129,59 @@
 4 Fatal Push
 1 Mutavault
 2 Mutavault
+3 Mutavault
+1 Shadowspear
+1 Brightclimb Pathway
+1 Open the Armory
+1 Kor Blademaster
+1 Caves of Koilos
+1 Concealed Courtyard
+1 Sigarda's Aid
+1 Resolute Strike
+1 Wishclaw Talisman
+1 Bloodsoaked Champion
+1 Gods Willing
+1 Colossus Hammer
+1 Blood-Chin Rager
+1 Godless Shrine
+1 Mardu Woe-Reaper
+2 Concealed Courtyard
+2 Sigarda's Aid
+2 Resolute Strike
+2 Colossus Hammer
+2 Godless Shrine
+2 Gods Willing
+2 Bloodsoaked Champion
+2 Kor Blademaster
+2 Blood-Chin Rager
+2 Mardu Woe-Reaper
+2 Caves of Koilos
+2 Brightclimb Pathway
+2 Open the Armory
+2 Wishclaw Talisman
+3 Mardu Woe-Reaper
+3 Kor Blademaster
+3 Caves of Koilos
+3 Brightclimb Pathway
+3 Open the Armory
+3 Concealed Courtyard
+3 Sigarda's Aid
+3 Resolute Strike
+3 Colossus Hammer
+3 Godless Shrine
+3 Bloodsoaked Champion
+3 Blood-Chin Rager
+4 Brightclimb Pathway
+4 Godless Shrine
+4 Sigarda's Aid
+4 Caves of Koilos
+4 Open the Armory
+4 Concealed Courtyard
+4 Colossus Hammer
+4 Resolute Strike
+4 Mardu Woe-Reaper
+4 Kor Blademaster
+4 Mutavault
 1 Merfolk Windrobber
 1 Deathrite Shaman
 2 Merfolk Windrobber
@@ -148,20 +201,20 @@
 1 Charming Prince
 1 Temple of Enlightenment
 1 Skyclave Cleric
-1 Castle Vantress
 1 Elspeth Conquers Death
 1 Omen of the Sea
+1 Thassa, Deep-Dwelling
 1 Glass Casket
 1 Skyclave Apparition
 1 Reflector Mage
 1 Solemn Simulacrum
 1 Agent of Treachery
-1 Thassa, Deep-Dwelling
 1 Hallowed Fountain
 1 Spell Pierce
 1 Glacial Fortress
 1 Isolate
 1 Teferi, Time Raveler
+1 Castle Vantress
 1 Yorion, Sky Nomad
 2 Charming Prince
 2 Elite Guardmage
@@ -223,12 +276,16 @@
 1 Zareth San, the Trickster
 1 Notion Thief
 2 Notion Thief
-3 Mutavault
 1 Sea Gate Stormcaller
 1 Chart a Course
 2 Sea Gate Stormcaller
 2 Chart a Course
 2 Cling to Dust
+1 Mardu Shadowspear
+2 Mardu Shadowspear
+3 Wishclaw Talisman
+3 Mardu Shadowspear
+4 Mardu Shadowspear
 1 Stubborn Denial
 2 Stubborn Denial
 3 Stubborn Denial
@@ -247,9 +304,9 @@
 1 Anointed Procession
 1 Brimaz, King of Oreskos
 1 Trostani Discordant
+1 Raise the Alarm
 1 Oath of Gideon
 1 Legion's Landing
-1 Raise the Alarm
 1 Conclave Tribunal
 1 Nissa, Voice of Zendikar
 2 Castle Ardenvale
@@ -289,6 +346,18 @@
 4 Sunpetal Grove
 3 Mystical Dispute
 4 Mystical Dispute
+1 Of One Mind
+1 Heartless Act
+1 Zagoth Triome
+2 Of One Mind
+2 Zagoth Triome
+3 Of One Mind
+3 Agadeem's Awakening
+4 Into the Story
+1 Dragon Hunter
+2 Dragon Hunter
+3 Dragon Hunter
+4 Dragon Hunter
 1 Zulaport Cutthroat
 1 Priest of Forgotten Gods
 1 Gilded Goose
@@ -326,73 +395,8 @@
 4 Catacomb Sifter
 4 Blisterpod
 4 Zulaport Cutthroat
-4 Bolas's Citadel
 4 Mayhem Devil
-1 Of One Mind
-1 Heartless Act
-1 Zagoth Triome
-2 Of One Mind
-2 Zagoth Triome
-3 Of One Mind
-3 Agadeem's Awakening
-4 Into the Story
+4 Bolas's Citadel
 1 Vampire of the Dire Moon
 2 Vampire of the Dire Moon
 4 Nullhide Ferox
-1 Mardu Shadowspear
-1 Shadowspear
-1 Brightclimb Pathway
-1 Open the Armory
-1 Kor Blademaster
-1 Caves of Koilos
-1 Concealed Courtyard
-1 Sigarda's Aid
-1 Resolute Strike
-1 Wishclaw Talisman
-1 Bloodsoaked Champion
-1 Gods Willing
-1 Colossus Hammer
-1 Blood-Chin Rager
-1 Godless Shrine
-1 Mardu Woe-Reaper
-2 Mardu Shadowspear
-2 Concealed Courtyard
-2 Sigarda's Aid
-2 Resolute Strike
-2 Colossus Hammer
-2 Godless Shrine
-2 Gods Willing
-2 Bloodsoaked Champion
-2 Kor Blademaster
-2 Blood-Chin Rager
-2 Mardu Woe-Reaper
-2 Caves of Koilos
-2 Brightclimb Pathway
-2 Open the Armory
-2 Wishclaw Talisman
-3 Wishclaw Talisman
-3 Mardu Shadowspear
-3 Mardu Woe-Reaper
-3 Kor Blademaster
-3 Caves of Koilos
-3 Brightclimb Pathway
-3 Open the Armory
-3 Concealed Courtyard
-3 Sigarda's Aid
-3 Resolute Strike
-3 Colossus Hammer
-3 Godless Shrine
-3 Bloodsoaked Champion
-3 Blood-Chin Rager
-4 Mardu Shadowspear
-4 Brightclimb Pathway
-4 Godless Shrine
-4 Sigarda's Aid
-4 Caves of Koilos
-4 Open the Armory
-4 Concealed Courtyard
-4 Colossus Hammer
-4 Resolute Strike
-4 Mardu Woe-Reaper
-4 Kor Blademaster
-4 Mutavault

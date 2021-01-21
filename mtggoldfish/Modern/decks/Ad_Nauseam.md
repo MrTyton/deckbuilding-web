@@ -63,7 +63,6 @@
 |                     |                                                                                              |                    2|[Chromatic Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420864)       |
 |                     |                                                                                              |                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)            |
 |                     |                                                                                              |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)              |
-|                     |                                                                                              |                    3|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)        |
 |                     |                                                                                              |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)        |
 |                     |                                                                                              |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)        |
 |                     |                                                                                              |                    4|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)        |
@@ -72,4 +71,5 @@
 |                     |                                                                                              |                    2|[Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191083)                 |
 |                     |                                                                                              |                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                  |
 |                     |                                                                                              |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)           |
+|                     |                                                                                              |                    3|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)        |
 

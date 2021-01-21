@@ -44,7 +44,7 @@
 |                    3|[Sea Gate Restoration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491706)     |                     |                                                                                            |
 |                    3|[Nyx Lotus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476486)                |                     |                                                                                            |
 |                    4|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)          |                     |                                                                                            |
-|                    4|[Arcanist's Owl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473168)           |                     |                                                                                            |
 |                    4|[Sea Gate Restoration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491706)     |                     |                                                                                            |
+|                    4|[Arcanist's Owl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473168)           |                     |                                                                                            |
 |                    4|[Nyx Lotus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476486)                |                     |                                                                                            |
 
