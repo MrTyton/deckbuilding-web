@@ -1,57 +1,3 @@
-1 Brazen Borrower
-1 Spellstutter Sprite
-1 Snow-Covered Swamp
-1 Gilded Goose
-1 Snapcaster Mage
-1 Spell Snare
-1 Ninja of the Deep Hours
-1 Breeding Pool
-1 Snow-Covered Island
-1 Disrupting Shoal
-1 Overgrown Tomb
-1 Ice-Fang Coatl
-1 Darkslick Shores
-1 Assassin's Trophy
-1 Force of Negation
-1 Misty Rainforest
-1 Ingenious Infiltrator
-1 Mana Leak
-1 Snow-Covered Forest
-1 Faerie Seer
-1 Mist-Syndicate Naga
-1 Abrupt Decay
-1 Botanical Sanctum
-2 Spellstutter Sprite
-2 Assassin's Trophy
-2 Gilded Goose
-2 Disrupting Shoal
-2 Ice-Fang Coatl
-2 Darkslick Shores
-2 Abrupt Decay
-2 Misty Rainforest
-2 Snow-Covered Island
-2 Force of Negation
-2 Mana Leak
-2 Brazen Borrower
-2 Faerie Seer
-2 Ingenious Infiltrator
-2 Botanical Sanctum
-3 Gilded Goose
-3 Misty Rainforest
-3 Snow-Covered Island
-3 Fatal Push
-3 Spellstutter Sprite
-3 Ice-Fang Coatl
-3 Faerie Seer
-3 Ingenious Infiltrator
-3 Brazen Borrower
-4 Misty Rainforest
-4 Fatal Push
-4 Ingenious Infiltrator
-4 Ice-Fang Coatl
-4 Faerie Seer
-4 Spellstutter Sprite
-1 Gut Shot
 1 Soul-Scar Mage
 1 Crash Through
 1 Stormwing Entity
@@ -61,11 +7,11 @@
 1 Mutagenic Growth
 1 Spirebluff Canal
 1 Opt
+1 Gut Shot
 1 Wooded Foothills
 1 Manamorphose
 1 Monastery Swiftspear
 2 Soul-Scar Mage
-2 Gut Shot
 2 Crash Through
 2 Stormwing Entity
 2 Lava Dart
@@ -73,30 +19,31 @@
 2 Kiln Fiend
 2 Mountain
 2 Mutagenic Growth
-2 Wooded Foothills
+2 Gut Shot
 2 Spirebluff Canal
+2 Wooded Foothills
 2 Manamorphose
 2 Monastery Swiftspear
 2 Temur Battle Rage
 2 Opt
-3 Fiery Islet
 3 Soul-Scar Mage
-3 Mutagenic Growth
+3 Gut Shot
 3 Lava Dart
 3 Kiln Fiend
-3 Gut Shot
 3 Mountain
 3 Crash Through
-3 Stormwing Entity
 3 Manamorphose
+3 Mutagenic Growth
+3 Fiery Islet
 3 Monastery Swiftspear
+3 Stormwing Entity
+3 Spirebluff Canal
 3 Steam Vents
 3 Wooded Foothills
-3 Spirebluff Canal
-4 Fiery Islet
 4 Soul-Scar Mage
 4 Kiln Fiend
 4 Lava Dart
+4 Fiery Islet
 4 Crash Through
 4 Steam Vents
 4 Manamorphose

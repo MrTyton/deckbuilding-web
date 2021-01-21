@@ -73,8 +73,8 @@
 3 Brazen Borrower
 3 Glasspool Mimic
 4 Glasspool Mimic
-4 Blackbloom Rogue
 4 Brazen Borrower
+4 Blackbloom Rogue
 1 Mass Hysteria
 1 Vizier of Remedies
 1 Tangled Florahedron
@@ -96,12 +96,12 @@
 1 Arid Mesa
 2 Arid Mesa
 1 Steam Vents
-1 Delay
 1 Opt
 1 Izzet Charm
 1 Emrakul, the Aeons Torn
 1 Scalding Tarn
 1 Dwarven Mine
+1 Delay
 1 Force of Negation
 1 Teferi, Time Raveler
 1 Bloodstained Mire
@@ -113,11 +113,11 @@
 1 Ketria Triome
 1 Stomping Ground
 1 Raugrin Triome
-2 Delay
 2 Emrakul, the Aeons Torn
 2 Opt
 2 Wooded Foothills
 2 Dwarven Mine
+2 Delay
 2 Izzet Charm
 2 Mountain
 2 Bloodstained Mire
@@ -209,12 +209,12 @@
 4 Ideas Unbound
 4 Reach Through Mists
 4 Peer Through Depths
-1 Temple of Triumph
 1 Dovescape
 1 Mistveil Plains
 1 Nykthos, Shrine to Nyx
 1 Deafening Clarion
 1 Marsh Flats
+1 Temple of Triumph
 1 Wheel of Sun and Moon
 1 Skyclave Apparition
 1 Oust
@@ -228,10 +228,10 @@
 1 Phyrexian Unlife
 1 Enduring Ideal
 1 Treasure Map
-2 Temple of Triumph
 2 Silence
 2 Oust
 2 Nykthos, Shrine to Nyx
+2 Temple of Triumph
 2 Deafening Clarion
 2 Sacred Foundry
 2 Skyclave Apparition
@@ -244,14 +244,14 @@
 2 Lotus Bloom
 2 Marsh Flats
 2 Nine Lives
-3 Temple of Triumph
 3 Plains
 3 Oust
+3 Temple of Triumph
 3 Sacred Foundry
-3 Silence
 3 Nine Lives
 3 Marsh Flats
 3 Enduring Ideal
+3 Silence
 3 Solemnity
 3 Lotus Bloom
 4 Plains

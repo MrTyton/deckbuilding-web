@@ -48,7 +48,7 @@
 |                     |                                                                                            |                    4|[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394686)    |
 |                     |                                                                                            |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
 |                     |                                                                                            |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
-|                     |                                                                                            |                    3|[Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|
 |                     |                                                                                            |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
+|                     |                                                                                            |                    3|[Kalitas, Traitor of Ghet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407596)|
 |                     |                                                                                            |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)     |
 

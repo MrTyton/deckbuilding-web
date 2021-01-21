@@ -1,7 +1,7 @@
 # Winota
 
 #### [Export MTGO List](../collection/Winota/Winota.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Angrath's%20Marauders%0A2%09Branchloft%20Pathway%0A4%09Burning-Tree%20Emissary%0A3%09Cragcrown%20Pathway%0A4%09Eldritch%20Evolution%0A4%09Elvish%20Mystic%0A3%09Elvish%20Visionary%0A4%09Goblin%20Rabblemaster%0A1%09Inspiring%20Vantage%0A1%09Kenrith,%20the%20Returned%20King%0A4%09Legion%20Warboss%0A4%09Llanowar%20Elves%0A4%09Mana%20Confluence%0A2%09Pia%20and%20Kiran%20Nalaar%0A4%09Sacred%20Foundry%0A4%09Stomping%20Ground%0A4%09Temple%20Garden%0A4%09Winota,%20Joiner%20of%20Forces&deckside=2%09Abrade%0A4%09Garruk's%20Harbinger%0A2%09Rending%20Volley%0A4%09Rest%20in%20Peace%0A3%09Voice%20of%20Resurgence)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Angrath's%20Marauders%0A2%09Branchloft%20Pathway%0A4%09Burning-Tree%20Emissary%0A3%09Cragcrown%20Pathway%0A4%09Eldritch%20Evolution%0A4%09Elvish%20Mystic%0A3%09Elvish%20Visionary%0A4%09Goblin%20Rabblemaster%0A1%09Inspiring%20Vantage%0A1%09Kenrith,%20the%20Returned%20King%0A4%09Legion%20Warboss%0A4%09Llanowar%20Elves%0A4%09Mana%20Confluence%0A2%09Pia%20and%20Kiran%20Nalaar%0A4%09Sacred%20Foundry%0A4%09Stomping%20Ground%0A4%09Temple%20Garden%0A4%09Winota,%20Joiner%20of%20Forces&deckside=1%09Archon%20of%20Emeria%0A3%09Bonecrusher%20Giant%0A1%09Fairgrounds%20Warden%0A1%09Garruk's%20Harbinger%0A1%09Gruul%20Spellbreaker%0A1%09Knight%20of%20Autumn%0A3%09Rending%20Volley%0A4%09Scavenging%20Ooze)
 # Maindeck
 
 |                                             Creature (34)                                             |                                           Land (22)                                           |                                          Sorcery (4)                                          |
@@ -20,26 +20,31 @@
 
 # Sideboard
 
-|                                          Creature (7)                                          |                                     Enchantment (4)                                      |                                        Instant (4)                                        |
-|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-|4 [Garruk's Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485508) |4 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|2 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)        |
-|3 [Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)|                                                                                          |2 [Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663)|
+|                                         Creature (12)                                         |                                        Instant (3)                                        |
+|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|1 [Archon of Emeria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495594)  |3 [Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663)|
+|3 [Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077) |                                                                                           |
+|1 [Fairgrounds Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417586)|                                                                                           |
+|1 [Garruk's Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485508)|                                                                                           |
+|1 [Gruul Spellbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457323)|                                                                                           |
+|1 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)  |                                                                                           |
+|4 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)   |                                                                                           |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Lotus Cobra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438740)      |                    1|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077) |
-|                    2|[Lotus Cobra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438740)      |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)   |
-|                    2|[Inspiring Vantage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417819)|                    1|[Archon of Emeria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495594)  |
-|                    3|[Lotus Cobra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438740)      |                    1|[Fairgrounds Warden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417586)|
-|                     |                                                                                            |                    1|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)  |
-|                     |                                                                                            |                    2|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077) |
-|                     |                                                                                            |                    2|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)   |
-|                     |                                                                                            |                    3|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)   |
-|                     |                                                                                            |                    3|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077) |
-|                     |                                                                                            |                    3|[Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663)    |
-|                     |                                                                                            |                    4|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)   |
-|                     |                                                                                            |                    1|[Gruul Spellbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457323)|
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Lotus Cobra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438740)      |                    1|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)|
+|                    2|[Lotus Cobra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438740)      |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
+|                    2|[Inspiring Vantage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417819)|                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
+|                    3|[Lotus Cobra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438740)      |                    2|[Garruk's Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485508) |
+|                     |                                                                                            |                    2|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)|
+|                     |                                                                                            |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
+|                     |                                                                                            |                    3|[Garruk's Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485508) |
+|                     |                                                                                            |                    3|[Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)|
+|                     |                                                                                            |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
+|                     |                                                                                            |                    4|[Garruk's Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485508) |
+|                     |                                                                                            |                    4|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)      |
+|                     |                                                                                            |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |
 
