@@ -27,6 +27,7 @@
 16 Island
 1 Jwari Disruption
 1 Essence Scatter
+1 Rewind
 1 Sublime Epiphany
 1 Silundi Vision
 1 Lofty Denial
@@ -36,18 +37,17 @@
 1 Neutralize
 1 Hypnotic Sprite
 1 Castle Vantress
-1 Rewind
 1 Shark Typhoon
 1 Brazen Borrower
 2 Castle Vantress
 2 Essence Scatter
+2 Rewind
 2 Rain of Revelation
 2 Brazen Borrower
 2 Neutralize
 2 Hypnotic Sprite
 2 Shark Typhoon
 2 Gadwick, the Wizened
-2 Rewind
 3 Neutralize
 3 Castle Vantress
 3 Rewind
@@ -67,14 +67,14 @@
 1 Branchloft Pathway
 1 Forest
 1 Elspeth's Nightmare
+1 Mythos of Nethroi
 1 Temple of Malady
 1 Heartless Act
-1 Mythos of Nethroi
+2 Indatha Triome
+2 Mythos of Nethroi
 2 Elspeth's Nightmare
 2 Heartless Act
 2 Forest
-2 Mythos of Nethroi
-2 Indatha Triome
 2 Temple of Malady
 2 Swamp
 3 Indatha Triome
@@ -124,12 +124,12 @@
 18 Island
 1 Banishing Light
 1 Golden Egg
+1 Trail of Crumbs
 1 Eerie Ultimatum
 1 Temple of Plenty
-1 Wicked Wolf
-1 Trail of Crumbs
-1 Gilded Goose
 1 Yorion, Sky Nomad
+1 Wicked Wolf
+1 Gilded Goose
 2 Golden Egg
 2 Gilded Goose
 2 Yorion, Sky Nomad
@@ -184,10 +184,10 @@
 3 Idyllic Grange
 4 Banishing Light
 4 Castle Ardenvale
-4 Runed Halo
 4 Arcanist's Owl
 4 Idyllic Grange
 4 Journey to Oblivion
+4 Runed Halo
 4 Archon of Absolution
 4 Stonecoil Serpent
 6 Plains
@@ -221,17 +221,6 @@
 2 Soul Sear
 3 Soul Sear
 4 Soul Sear
-1 Temple of Silence
-1 Hagra Mauling
-1 Llanowar Visionary
-1 Agonizing Remorse
-2 Eliminate
-2 Llanowar Visionary
-2 Bala Ged Recovery
-2 Agonizing Remorse
-3 Llanowar Visionary
-3 Agonizing Remorse
-4 Llanowar Visionary
 1 Duress
 1 Thrashing Brontodon
 1 Garruk, Cursed Huntsman
@@ -239,18 +228,18 @@
 2 Duress
 2 Yasharn, Implacable Earth
 2 Garruk, Cursed Huntsman
-3 Yasharn, Implacable Earth
 3 Duress
 3 Temple of Malady
+3 Yasharn, Implacable Earth
 4 Duress
 1 Savai Triome
 1 Ketria Triome
 1 Dismal Backwater
 1 Thirst for Meaning
 1 Fae of Wishes
+1 Bloodfell Caves
 1 Jungle Hollow
 1 Thornwood Falls
-1 Bloodfell Caves
 1 Sanctum of Shattered Heights
 1 Sanctum of All
 1 Sanctum of Calm Waters
@@ -310,8 +299,8 @@
 3 Didn't Say Please
 3 Teferi's Tutelage
 3 Evolving Wilds
-3 Merfolk Secretkeeper
 3 Stern Dismissal
+3 Merfolk Secretkeeper
 3 Anticognition
 3 Ruin Crab
 3 Relic Golem
@@ -322,18 +311,29 @@
 4 Merfolk Secretkeeper
 4 Ruin Crab
 4 Relic Golem
+1 Temple of Silence
+1 Hagra Mauling
+1 Llanowar Visionary
+1 Agonizing Remorse
+2 Llanowar Visionary
+2 Eliminate
+2 Bala Ged Recovery
+2 Agonizing Remorse
+3 Llanowar Visionary
+3 Agonizing Remorse
+4 Llanowar Visionary
 1 Solemn Simulacrum
 1 Storm's Wrath
 1 Bonecrusher Giant
 1 Ox of Agonas
 2 Solemn Simulacrum
-2 Ugin, the Spirit Dragon
 2 Storm's Wrath
 2 Ox of Agonas
 2 Bonecrusher Giant
+2 Ugin, the Spirit Dragon
 2 Scorching Dragonfire
-3 Crawling Barrens
 3 Temple of Triumph
+3 Crawling Barrens
 3 Solemn Simulacrum
 3 Ugin, the Spirit Dragon
 3 Storm's Wrath

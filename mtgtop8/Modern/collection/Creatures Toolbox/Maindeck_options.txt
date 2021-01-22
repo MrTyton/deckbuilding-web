@@ -1,12 +1,12 @@
-1 Gavony Township
+3 Auriok Champion
 1 Wooded Foothills
 2 Wooded Foothills
 2 Scavenging Ooze
-2 Prismatic Vista
-1 Verdant Catacombs
-1 Stomping Ground
 3 Wooded Foothills
-1 Snow-Covered Plains
+1 Verdant Catacombs
+2 Prismatic Vista
+1 Stomping Ground
+4 Wooded Foothills
 2 Misty Rainforest
 3 Misty Rainforest
 1 Birds of Paradise
@@ -18,11 +18,12 @@
 3 Birds of Paradise
 3 Chord of Calling
 4 Chord of Calling
-4 Wooded Foothills
-2 Snow-Covered Plains
 1 Eternal Witness
+1 Snow-Covered Plains
 1 Snow-Covered Forest
 2 Eternal Witness
+1 Eldritch Evolution
+2 Eldritch Evolution
 1 Raugrin Triome
 1 Seasoned Pyromancer
 1 Sacred Foundry
@@ -36,8 +37,6 @@
 2 Flooded Strand
 3 Snow-Covered Forest
 3 Flooded Strand
-1 Eldritch Evolution
-2 Eldritch Evolution
 1 Batterskull
 1 Stoneforge Mystic
 2 Stoneforge Mystic
@@ -63,11 +62,13 @@
 4 Misty Rainforest
 4 Seasoned Pyromancer
 4 Path to Exile
+3 Skyclave Apparition
 1 Razorverge Thicket
 2 Razorverge Thicket
 2 Giver of Runes
 1 Ketria Triome
 1 Snow-Covered Island
+2 Snow-Covered Plains
 3 Eldritch Evolution
 4 Auriok Champion
 3 Noble Hierarch
@@ -112,7 +113,6 @@
 4 Verdant Catacombs
 4 Noble Hierarch
 3 Razorverge Thicket
-3 Skyclave Apparition
 1 Devoted Druid
 1 Vizier of Remedies
 1 Duskwatch Recruiter
@@ -196,7 +196,6 @@
 4 Skyclave Apparition
 4 Vizier of Remedies
 4 Giver of Runes
-6 Forest
 1 Blood Artist
 1 Cavalier of Night
 1 Nurturing Peatland

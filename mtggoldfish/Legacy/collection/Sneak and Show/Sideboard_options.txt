@@ -8,8 +8,6 @@
 3 Blood Moon
 3 Pyroclasm
 2 Pyroblast
-1 Brain Freeze
-2 Sorcerous Spyglass
 1 Release the Ants
 1 Through the Breach
 1 Boseiju, Who Shelters All
@@ -23,8 +21,6 @@
 3 Pyroblast
 3 Defense Grid
 4 Pyroblast
-1 Omniscience
-2 Omniscience
 1 Intuition
 1 Relic of Progenitus
 1 Echoing Truth
@@ -32,6 +28,8 @@
 1 Surgical Extraction
 2 Relic of Progenitus
 2 Surgical Extraction
+1 Brain Freeze
+2 Sorcerous Spyglass
 1 Phyrexian Revoker
 2 Phyrexian Revoker
 2 Red Elemental Blast
@@ -39,11 +37,11 @@
 1 Engineered Explosives
 2 Engineered Explosives
 3 Engineered Explosives
-1 Fiery Confluence
 1 Pithing Needle
-2 Fiery Confluence
+1 Fiery Confluence
 2 Pithing Needle
+2 Fiery Confluence
 3 Pithing Needle
-3 Fiery Confluence
-4 Pithing Needle
 4 Defense Grid
+4 Pithing Needle
+3 Fiery Confluence

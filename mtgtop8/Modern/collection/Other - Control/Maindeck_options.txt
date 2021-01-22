@@ -25,18 +25,18 @@
 1 Teferi, Time Raveler
 1 Silent Clearing
 1 Mox Amber
-1 Godless Shrine
 1 Hallowed Fountain
 1 Emry, Lurker of the Loch
 1 Minamo, School at Water's Edge
+1 Godless Shrine
 1 Aether Spellbomb
 1 Engineered Explosives
 1 Waterlogged Grove
 1 Snow-Covered Swamp
 2 Repeal
-2 Monastery Mentor
 2 Mox Amber
 2 Unearth
+2 Monastery Mentor
 2 Emry, Lurker of the Loch
 2 Teferi, Time Raveler
 2 Erayo, Soratami Ascendant
@@ -50,13 +50,17 @@
 3 Erayo, Soratami Ascendant
 3 Mox Amber
 3 Emry, Lurker of the Loch
-4 Erayo, Soratami Ascendant
 4 Flooded Strand
 4 Repeal
 4 Monastery Mentor
 4 Teferi, Time Raveler
 4 Emry, Lurker of the Loch
+4 Erayo, Soratami Ascendant
 4 Mox Amber
+1 Mountain
+1 Lightning Bolt
+2 Mountain
+2 Lightning Bolt
 1 Oust
 1 Battlefield Forge
 1 Cascading Cataracts
@@ -67,12 +71,10 @@
 1 Pillage
 1 Molten Rain
 1 Stone Rain
-1 Ghostly Prison
 1 Magus of the Tabernacle
 1 Flagstones of Trokair
+1 Ghostly Prison
 1 Valakut Awakening
-1 Mountain
-1 Lightning Bolt
 1 Suppression Field
 1 Boom / Bust
 1 Goblin Dark-Dwellers
@@ -85,16 +87,14 @@
 2 Flagstones of Trokair
 2 Sacred Foundry
 2 Magus of the Tabernacle
-2 Suppression Field
-2 Valakut Awakening
 2 Inspiring Vantage
 2 Goblin Dark-Dwellers
-2 Ghostly Prison
+2 Suppression Field
+2 Valakut Awakening
 2 Molten Rain
-2 Mountain
 2 Boom / Bust
-2 Lightning Bolt
 2 Cascading Cataracts
+2 Ghostly Prison
 3 Sacred Foundry
 3 Sunbaked Canyon
 3 Pillage
@@ -109,80 +109,30 @@
 3 Mana Tithe
 3 Suppression Field
 4 Pillage
-4 Sunbaked Canyon
 4 Sacred Foundry
+4 Sunbaked Canyon
 4 Stone Rain
 4 Mana Tithe
 4 Flagstones of Trokair
 4 Boom / Bust
 4 Inspiring Vantage
 4 Molten Rain
+1 Swamp
+1 Fatal Push
+1 Marsh Flats
+2 Fatal Push
+2 Swamp
 1 Field of Ruin
-1 Wilderness Reclamation
-1 Misty Rainforest
-1 Shark Typhoon
-1 Castle Vantress
-1 Fact or Fiction
-1 Nexus of Fate
-1 Force of Negation
-1 Cryptic Command
-1 Mystic Sanctuary
-1 Growth Spiral
-1 Ice-Fang Coatl
-1 Archmage's Charm
-1 Jace, the Mind Sculptor
-1 Scalding Tarn
-1 Uro, Titan of Nature's Wrath
-1 Breeding Pool
-1 Remand
-2 Wilderness Reclamation
-2 Scalding Tarn
-2 Misty Rainforest
-2 Jace, the Mind Sculptor
-2 Uro, Titan of Nature's Wrath
-2 Breeding Pool
-2 Cryptic Command
-2 Remand
-2 Nexus of Fate
-2 Growth Spiral
-2 Mystic Sanctuary
-2 Ice-Fang Coatl
-2 Archmage's Charm
-2 Field of Ruin
-2 Force of Negation
-3 Mystic Sanctuary
-3 Wilderness Reclamation
-3 Breeding Pool
-3 Snow-Covered Island
-3 Misty Rainforest
-3 Field of Ruin
-3 Nexus of Fate
-3 Remand
-3 Growth Spiral
-3 Cryptic Command
-3 Uro, Titan of Nature's Wrath
-3 Archmage's Charm
-4 Growth Spiral
-4 Snow-Covered Island
-4 Misty Rainforest
-4 Mystic Sanctuary
-4 Cryptic Command
-4 Archmage's Charm
-5 Snow-Covered Island
-6 Snow-Covered Island
-1 Agadeem's Awakening
 1 Into the Story
+1 Agadeem's Awakening
 1 Bloodchief's Thirst
 1 Soaring Thought-Thief
 1 Darkslick Shores
-1 Swamp
 1 Thieves' Guild Enforcer
-1 Fatal Push
 1 Drown in the Loch
 1 Island
 1 Cling to Dust
 1 Spell Snare
-1 Marsh Flats
 1 Creeping Tar Pit
 1 Sunken Ruins
 1 Snapcaster Mage
@@ -193,13 +143,11 @@
 2 Watery Grave
 2 Darkslick Shores
 2 Thieves' Guild Enforcer
-2 Fatal Push
 2 Drown in the Loch
-2 Spell Snare
-2 Snapcaster Mage
 2 Cling to Dust
+2 Snapcaster Mage
+2 Spell Snare
 2 Island
-2 Swamp
 3 Thieves' Guild Enforcer
 3 Into the Story
 3 Soaring Thought-Thief
@@ -216,3 +164,106 @@
 4 Darkslick Shores
 4 Island
 4 Into the Story
+1 Wilderness Reclamation
+1 Misty Rainforest
+1 Shark Typhoon
+1 Castle Vantress
+1 Fact or Fiction
+1 Nexus of Fate
+1 Force of Negation
+1 Cryptic Command
+1 Mystic Sanctuary
+1 Growth Spiral
+1 Ice-Fang Coatl
+1 Archmage's Charm
+1 Breeding Pool
+1 Scalding Tarn
+1 Uro, Titan of Nature's Wrath
+1 Remand
+1 Jace, the Mind Sculptor
+2 Wilderness Reclamation
+2 Scalding Tarn
+2 Misty Rainforest
+2 Jace, the Mind Sculptor
+2 Uro, Titan of Nature's Wrath
+2 Breeding Pool
+2 Remand
+2 Cryptic Command
+2 Nexus of Fate
+2 Growth Spiral
+2 Mystic Sanctuary
+2 Ice-Fang Coatl
+2 Archmage's Charm
+2 Field of Ruin
+2 Force of Negation
+3 Mystic Sanctuary
+3 Wilderness Reclamation
+3 Breeding Pool
+3 Snow-Covered Island
+3 Misty Rainforest
+3 Remand
+3 Growth Spiral
+3 Field of Ruin
+3 Nexus of Fate
+3 Cryptic Command
+3 Uro, Titan of Nature's Wrath
+3 Archmage's Charm
+4 Growth Spiral
+4 Mystic Sanctuary
+4 Snow-Covered Island
+4 Misty Rainforest
+4 Cryptic Command
+4 Archmage's Charm
+5 Snow-Covered Island
+6 Snow-Covered Island
+1 Nurturing Peatland
+1 Thoughtseize
+1 Blood Crypt
+1 Magmatic Channeler
+1 Dreadbore
+1 Inquisition of Kozilek
+1 Liliana of the Veil
+1 Blackcleave Cliffs
+1 Bloodstained Mire
+1 Blood Moon
+1 Kroxa, Titan of Death's Hunger
+1 Chandra, Torch of Defiance
+1 Seasoned Pyromancer
+2 Kroxa, Titan of Death's Hunger
+2 Thoughtseize
+2 Dreadbore
+2 Bloodstained Mire
+2 Marsh Flats
+2 Blood Crypt
+2 Magmatic Channeler
+2 Seasoned Pyromancer
+2 Blood Moon
+2 Blackcleave Cliffs
+2 Liliana of the Veil
+2 Inquisition of Kozilek
+3 Bloodstained Mire
+3 Kroxa, Titan of Death's Hunger
+3 Lightning Bolt
+3 Thoughtseize
+3 Blackcleave Cliffs
+3 Blood Crypt
+3 Magmatic Channeler
+3 Seasoned Pyromancer
+3 Inquisition of Kozilek
+3 Marsh Flats
+3 Liliana of the Veil
+3 Blood Moon
+3 Swamp
+4 Kroxa, Titan of Death's Hunger
+4 Blackcleave Cliffs
+4 Blood Moon
+4 Thoughtseize
+4 Bloodstained Mire
+4 Seasoned Pyromancer
+4 Marsh Flats
+4 Magmatic Channeler
+4 Swamp
+4 Inquisition of Kozilek
+4 Liliana of the Veil
+4 Lightning Bolt
+4 Blood Crypt

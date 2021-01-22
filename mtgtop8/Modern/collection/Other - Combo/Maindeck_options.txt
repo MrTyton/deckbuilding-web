@@ -7,13 +7,13 @@
 1 Spikefield Hazard
 1 Reforge the Soul
 2 Bala Ged Recovery
-2 Manamorphose
 2 Valakut Awakening
+2 Manamorphose
 2 Irencrag Feat
 2 Recross the Paths
 2 Desperate Ritual
-3 Manamorphose
 3 Valakut Awakening
+3 Manamorphose
 3 Desperate Ritual
 3 Recross the Paths
 3 Shatterskull Smashing
@@ -73,8 +73,8 @@
 3 Brazen Borrower
 3 Glasspool Mimic
 4 Glasspool Mimic
-4 Blackbloom Rogue
 4 Brazen Borrower
+4 Blackbloom Rogue
 1 Mass Hysteria
 1 Vizier of Remedies
 1 Tangled Florahedron
@@ -96,12 +96,12 @@
 1 Arid Mesa
 2 Arid Mesa
 1 Steam Vents
-1 Delay
 1 Opt
 1 Izzet Charm
 1 Emrakul, the Aeons Torn
 1 Scalding Tarn
 1 Dwarven Mine
+1 Delay
 1 Force of Negation
 1 Teferi, Time Raveler
 1 Bloodstained Mire
@@ -113,11 +113,11 @@
 1 Ketria Triome
 1 Stomping Ground
 1 Raugrin Triome
-2 Delay
 2 Emrakul, the Aeons Torn
 2 Opt
 2 Wooded Foothills
 2 Dwarven Mine
+2 Delay
 2 Izzet Charm
 2 Mountain
 2 Bloodstained Mire
@@ -234,6 +234,7 @@
 2 Nykthos, Shrine to Nyx
 2 Deafening Clarion
 2 Sacred Foundry
+2 Marsh Flats
 2 Skyclave Apparition
 2 Enduring Ideal
 2 Plains
@@ -242,22 +243,21 @@
 2 Solemnity
 2 Form of the Dragon
 2 Lotus Bloom
-2 Marsh Flats
 2 Nine Lives
 3 Plains
 3 Oust
+3 Marsh Flats
 3 Sacred Foundry
 3 Nine Lives
-3 Marsh Flats
 3 Enduring Ideal
 3 Silence
 3 Solemnity
 3 Temple of Triumph
 3 Lotus Bloom
 4 Plains
+4 Marsh Flats
 4 Sacred Foundry
 4 Enduring Ideal
-4 Marsh Flats
 4 Silence
 5 Plains
 6 Plains

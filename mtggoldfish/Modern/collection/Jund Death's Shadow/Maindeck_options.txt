@@ -1,28 +1,14 @@
-1 Forest
 4 Fatal Push
-2 Dismember
+1 Forest
+2 Seal of Fire
 1 Kolaghan's Command
-2 Overgrown Tomb
-1 Apostle's Blessing
-1 Hexdrinker
 1 Bomat Courier
 2 Bomat Courier
 1 Agadeem's Awakening
-2 Apostle's Blessing
-2 Swamp
-1 Night's Whisper
-2 Hexdrinker
-1 Cling to Dust
 3 Bomat Courier
-2 Night's Whisper
-3 Nurturing Peatland
+1 Hexdrinker
+2 Overgrown Tomb
 1 Kroxa, Titan of Death's Hunger
-1 Mutagenic Growth
-2 Mutagenic Growth
-3 Wooded Foothills
-3 Temur Battle Rage
-1 Brushfire Elemental
-2 Brushfire Elemental
 1 Snow-Covered Swamp
 1 Surgical Extraction
 1 Sunbaked Canyon
@@ -30,6 +16,20 @@
 2 Surgical Extraction
 4 Bomat Courier
 4 Blood Crypt
+2 Hexdrinker
+1 Cling to Dust
+1 Snow-Covered Mountain
+2 Sunbaked Canyon
+1 Apostle's Blessing
+2 Swamp
+1 Night's Whisper
+3 Nurturing Peatland
+1 Mutagenic Growth
+2 Mutagenic Growth
+3 Wooded Foothills
+3 Temur Battle Rage
+2 Apostle's Blessing
+2 Night's Whisper
 4 Inquisition of Kozilek
 1 Street Wraith
 2 Street Wraith
@@ -37,8 +37,8 @@
 4 Street Wraith
 1 Unearth
 1 Tarfire
-1 Snow-Covered Mountain
-2 Sunbaked Canyon
+1 Brushfire Elemental
+2 Brushfire Elemental
 1 Lurrus of the Dream-Den
 1 Abrupt Decay
 1 Traverse the Ulvenwald
@@ -50,12 +50,12 @@
 1 Akoum Hellhound
 1 Scalding Tarn
 1 Become Immense
+2 Scalding Tarn
 2 Become Immense
 2 Polluted Delta
 2 Stomping Ground
 2 Soul-Scar Mage
 2 Akoum Hellhound
-2 Scalding Tarn
 3 Polluted Delta
 3 Soul-Scar Mage
 3 Mutagenic Growth
