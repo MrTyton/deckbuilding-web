@@ -1,5 +1,5 @@
-1 Plains
 1 Forest
+1 Plains
 1 Birds of Paradise
 1 Ashiok, Dream Render
 1 Golos, Tireless Pilgrim
@@ -20,17 +20,17 @@
 3 Niv-Mizzet Reborn
 2 Verdant Catacombs
 1 Lithoform Blight
-1 Magus of the Moon
 1 Phantasmal Image
+1 Scavenging Ooze
 1 Eternal Witness
 1 Ephemerate
-1 Lurrus of the Dream-Den
 1 Omen of the Sea
+1 Lurrus of the Dream-Den
 1 Charming Prince
-1 Scavenging Ooze
-1 Omen of the Forge
 1 Skyclave Apparition
+1 Omen of the Forge
 1 Enigmatic Incarnation
+1 Magus of the Moon
 1 Brain Maggot
 1 Spellskite
 1 Meddling Mage
@@ -43,8 +43,8 @@
 2 Enigmatic Incarnation
 3 Omen of the Sea
 3 Enigmatic Incarnation
-4 Omen of the Sea
 4 Enigmatic Incarnation
+4 Omen of the Sea
 1 Snow-Covered Plains
 1 Snow-Covered Island
 2 Snow-Covered Forest
@@ -63,8 +63,8 @@
 3 Lithoform Blight
 4 Birds of Paradise
 4 Lithoform Blight
-1 Seal of Fire
 1 Spreading Seas
+1 Seal of Fire
 1 Kitchen Finks
 1 Deputy of Detention
 2 Spreading Seas
@@ -81,8 +81,6 @@
 2 Forest
 2 Temple Garden
 3 Forest
-3 Omen of the Forge
-4 Omen of the Forge
 1 Hour of Promise
 1 Blood Crypt
 1 Nahiri, the Harbinger
@@ -92,8 +90,10 @@
 3 Abrupt Decay
 3 Verdant Catacombs
 4 Verdant Catacombs
-1 Nissa of Shadowed Boughs
+3 Omen of the Forge
+4 Omen of the Forge
 1 Engineered Explosives
+1 Nissa of Shadowed Boughs
 1 Pillar of the Paruns
 2 Assassin's Trophy
 2 Pillar of the Paruns

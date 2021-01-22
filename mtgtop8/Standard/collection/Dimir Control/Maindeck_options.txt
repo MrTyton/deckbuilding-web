@@ -30,11 +30,11 @@
 1 Soaring Thought-Thief
 1 Merfolk Windrobber
 1 Ruin Crab
-2 Merfolk Windrobber
 2 Soaring Thought-Thief
 2 Ruin Crab
-3 Merfolk Windrobber
+2 Merfolk Windrobber
 3 Soaring Thought-Thief
+3 Merfolk Windrobber
 3 Ruin Crab
 4 Soaring Thought-Thief
 4 Ruin Crab
@@ -62,8 +62,8 @@
 8 Island
 2 Essence Scatter
 1 Field of Ruin
-2 Neutralize
 2 Negate
+2 Neutralize
 3 Neutralize
 1 Castle Locthwain
 2 Didn't Say Please
@@ -123,29 +123,29 @@
 4 Essence Scatter
 4 Voracious Greatshark
 4 Castle Vantress
-1 Final Death
-1 Garruk, Cursed Huntsman
-1 Jungle Hollow
 1 Thornwood Falls
 1 Feed the Swarm
+1 Jungle Hollow
+1 Garruk, Cursed Huntsman
 1 Frantic Inventory
 1 Grasp of Darkness
-1 Finishing Blow
 1 Pestilent Haze
-2 Pestilent Haze
+1 Final Death
+1 Finishing Blow
 2 Thornwood Falls
 2 Jungle Hollow
 2 Frantic Inventory
-2 Feed the Swarm
 2 Grasp of Darkness
-3 Jungle Hollow
+2 Feed the Swarm
+2 Pestilent Haze
+3 Grasp of Darkness
 3 Thornwood Falls
 3 Frantic Inventory
 3 Feed the Swarm
-3 Grasp of Darkness
+3 Jungle Hollow
+4 Frantic Inventory
 4 Thornwood Falls
 4 Jungle Hollow
-4 Frantic Inventory
 4 Grasp of Darkness
 7 Swamp
 1 Overwhelmed Apprentice

@@ -41,6 +41,6 @@
 |                    3|[Goblin Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425921)       |                    3|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)     |
 |                     |                                                                                              |                    4|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)     |
 |                     |                                                                                              |                    1|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)         |
-|                     |                                                                                              |                    2|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)         |
 |                     |                                                                                              |                    3|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)         |
+|                     |                                                                                              |                    2|[Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)         |
 

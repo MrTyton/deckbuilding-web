@@ -53,7 +53,7 @@
 |                     |                                                                                                     |                    3|[Garruk's Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485508)        |
 |                     |                                                                                                     |                    2|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)       |
 |                     |                                                                                                     |                    3|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)                      |
-|                     |                                                                                                     |                    4|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)           |
 |                     |                                                                                                     |                    4|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)            |
 |                     |                                                                                                     |                    4|[Chainweb Aracnir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476418)          |
+|                     |                                                                                                     |                    4|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)           |
 

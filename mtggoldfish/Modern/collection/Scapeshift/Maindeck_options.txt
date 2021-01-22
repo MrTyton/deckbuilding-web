@@ -54,10 +54,10 @@
 2 Wooded Foothills
 1 Windswept Heath
 1 Arid Mesa
-1 Flagstones of Trokair
 1 Brushfire Elemental
 1 Atarka's Command
 1 Akoum Hellhound
+1 Flagstones of Trokair
 1 Elvish Reclaimer
 1 Sejiri Shelter
 1 Sunbaked Canyon
@@ -67,11 +67,11 @@
 1 Mishra's Bauble
 1 Steppe Lynx
 1 Sejiri Steppe
-2 Flagstones of Trokair
 2 Arid Mesa
 2 Brushfire Elemental
 2 Atarka's Command
 2 Akoum Hellhound
+2 Flagstones of Trokair
 2 Elvish Reclaimer
 2 Mishra's Bauble
 2 Sacred Foundry
@@ -79,19 +79,19 @@
 2 Steppe Lynx
 3 Elvish Reclaimer
 3 Wooded Foothills
-3 Flagstones of Trokair
 3 Brushfire Elemental
 3 Akoum Hellhound
+3 Flagstones of Trokair
 3 Atarka's Command
 3 Sacred Foundry
 3 Mishra's Bauble
 3 Steppe Lynx
 3 Windswept Heath
-4 Flagstones of Trokair
 4 Elvish Reclaimer
-4 Brushfire Elemental
 4 Wooded Foothills
+4 Brushfire Elemental
 4 Akoum Hellhound
+4 Flagstones of Trokair
 4 Mishra's Bauble
 4 Windswept Heath
 4 Steppe Lynx
@@ -144,8 +144,8 @@
 1 Farseek
 2 Farseek
 3 Snow-Covered Forest
-1 Anger of the Gods
 1 Sultai Charm
+1 Anger of the Gods
 1 Cinder Glade
 1 Ice-Fang Coatl
 1 Abundant Growth
@@ -166,23 +166,23 @@
 1 Vendilion Clique
 1 Brazen Borrower
 2 Brazen Borrower
+2 Mana Leak
+2 Archmage's Charm
 1 Shark Typhoon
 2 Shark Typhoon
 2 Abrupt Decay
-2 Mana Leak
-2 Archmage's Charm
 1 Castle Vantress
+1 Maelstrom Pulse
 1 Electrolyze
 1 Worldly Counsel
 1 Snapcaster Mage
 1 Hunting Wilds
-1 Maelstrom Pulse
 2 Snapcaster Mage
 1 Sheltered Thicket
 1 Courser of Kruphix
 1 Terminate
-1 Platinum Emperion
 1 Madcap Experiment
+1 Platinum Emperion
 1 Thoughtseize
 1 Obstinate Baloth
 2 Snow-Covered Mountain
@@ -201,20 +201,20 @@
 3 Botanical Sanctum
 3 Prismatic Vista
 4 Botanical Sanctum
+1 Verdant Catacombs
+1 Maddening Cacophony
+2 Verdant Catacombs
+2 Maddening Cacophony
+2 Swamp
+3 Verdant Catacombs
+4 Verdant Catacombs
+1 Jwari Disruption
 1 Explore
 1 Peer Through Depths
-1 Jwari Disruption
 2 Jwari Disruption
 2 Explore
 2 Peer Through Depths
 3 Jwari Disruption
 4 Jwari Disruption
-1 Verdant Catacombs
-1 Maddening Cacophony
-2 Maddening Cacophony
-2 Verdant Catacombs
-2 Swamp
-3 Verdant Catacombs
-4 Verdant Catacombs
 3 Censor
 4 Censor

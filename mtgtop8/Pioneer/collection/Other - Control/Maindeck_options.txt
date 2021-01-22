@@ -1,96 +1,24 @@
 4 Drowned Catacomb
+1 Castle Locthwain
 1 Shark Typhoon
 1 Castle Vantress
-2 Shark Typhoon
-3 Shark Typhoon
-4 Shark Typhoon
 1 Field of Ruin
-1 Castle Locthwain
 1 Vraska's Contempt
 1 Censor
+2 Shark Typhoon
 2 Censor
 2 Vraska's Contempt
 3 Fetid Pools
 3 Dig Through Time
+3 Shark Typhoon
 3 Censor
 4 Dig Through Time
-1 Anger of the Gods
-2 Anger of the Gods
-3 Anger of the Gods
-1 Lukka, Coppercoat Outcast
-1 Riverglide Pathway
-1 Sulfur Falls
-1 Teferi, Time Raveler
-1 Omen of the Sun
-1 Gideon of the Trials
-1 Supreme Verdict
-1 Detention Sphere
-1 Aether Gust
-1 Hallowed Fountain
-1 Transmogrify
-1 Castle Ardenvale
-1 Chained to the Rocks
-1 Fires of Invention
-1 Steam Vents
-1 Glacial Fortress
-1 Agent of Treachery
-1 Ketria Triome
-1 Plains
-1 Sacred Foundry
-1 The Birth of Meletis
-1 Omen of the Sea
-1 Raugrin Triome
-2 Omen of the Sun
-2 Sulfur Falls
-2 Plains
-2 Castle Ardenvale
-2 Teferi, Time Raveler
-2 Gideon of the Trials
-2 Steam Vents
-2 Omen of the Sea
-2 Sacred Foundry
-2 Fires of Invention
-2 Supreme Verdict
-2 Transmogrify
-2 Aether Gust
-2 The Birth of Meletis
-2 Hallowed Fountain
-2 Raugrin Triome
-2 Glacial Fortress
-2 Agent of Treachery
-2 Chained to the Rocks
-2 Ketria Triome
-3 Sulfur Falls
-3 Steam Vents
-3 Ketria Triome
-3 Teferi, Time Raveler
-3 Castle Ardenvale
-3 Plains
-3 The Birth of Meletis
-3 Omen of the Sea
-3 Raugrin Triome
-3 Sacred Foundry
-3 Hallowed Fountain
-3 Agent of Treachery
-3 Chained to the Rocks
-3 Transmogrify
-4 Sulfur Falls
-4 Steam Vents
-4 Ketria Triome
-4 Narset, Parter of Veils
-4 Teferi, Time Raveler
-4 Transmogrify
-4 Raugrin Triome
-4 Hallowed Fountain
-4 Omen of the Sea
-4 The Birth of Meletis
-4 Sacred Foundry
-4 Chained to the Rocks
+4 Shark Typhoon
 1 Extinction Event
 1 Rewind
-1 Torrential Gearhulk
 1 Sinister Sabotage
 1 Hero's Downfall
+1 Torrential Gearhulk
 1 Mutavault
 2 Rewind
 2 Mutavault
@@ -103,9 +31,9 @@
 1 Into the Story
 1 Ruin Crab
 1 Lullmage's Domination
+1 Thieves' Guild Enforcer
 1 Soaring Thought-Thief
 1 Agadeem's Awakening
-1 Thieves' Guild Enforcer
 2 Drown in the Loch
 2 Into the Story
 2 Ruin Crab
@@ -125,31 +53,32 @@
 1 Void Shatter
 1 Negate
 2 Void Shatter
-2 Field of Ruin
 2 Eliminate
 2 Negate
+2 Field of Ruin
 2 Castle Locthwain
 3 Eliminate
 3 Void Shatter
 3 Vraska's Contempt
-4 Censor
 4 Eliminate
+4 Censor
 4 Void Shatter
 4 Vraska's Contempt
 1 Irencrag Feat
 1 Vessel of Volatility
 1 Ramunap Ruins
-1 Cleansing Wildfire
 1 Scavenger Grounds
+1 Cleansing Wildfire
 1 Mazemind Tome
 1 Golos, Tireless Pilgrim
 1 Cascading Cataracts
 1 Chandra, Torch of Defiance
 1 Chandra, Awakened Inferno
 1 Valakut Awakening
+1 Anger of the Gods
 1 Bonecrusher Giant
-1 Thought-Knot Seer
 1 Ugin, the Spirit Dragon
+1 Thought-Knot Seer
 1 Battlefield Forge
 1 Mountain
 1 Darksteel Citadel
@@ -164,6 +93,7 @@
 2 Cascading Cataracts
 2 Valakut Awakening
 2 Bonecrusher Giant
+2 Anger of the Gods
 2 Thought-Knot Seer
 2 Ugin, the Spirit Dragon
 2 Battlefield Forge
@@ -171,21 +101,22 @@
 3 Vessel of Volatility
 3 Ramunap Ruins
 3 Cleansing Wildfire
-3 Chandra, Torch of Defiance
 3 Irencrag Feat
 3 Cascading Cataracts
 3 Valakut Awakening
 3 Mazemind Tome
 3 Darksteel Citadel
+3 Chandra, Torch of Defiance
 3 Bonecrusher Giant
+3 Anger of the Gods
+3 Ugin, the Spirit Dragon
 3 Battlefield Forge
 3 Thought-Knot Seer
-3 Ugin, the Spirit Dragon
 3 Mountain
 4 Mazemind Tome
 4 Chandra, Torch of Defiance
-4 Cleansing Wildfire
 4 Cascading Cataracts
+4 Cleansing Wildfire
 4 Ramunap Ruins
 4 Darksteel Citadel
 4 Valakut Awakening
