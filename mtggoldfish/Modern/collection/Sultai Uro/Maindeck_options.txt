@@ -1,19 +1,19 @@
-1 Scalding Tarn
+1 Remand
 1 Growth Spiral
 2 Growth Spiral
 3 Snow-Covered Island
-1 Remand
 2 Remand
+1 Scalding Tarn
 1 Fact or Fiction
+2 Fact or Fiction
 3 Growth Spiral
 4 Growth Spiral
 1 Wilderness Reclamation
 1 Nexus of Fate
-2 Fact or Fiction
 2 Wilderness Reclamation
-3 Fact or Fiction
 3 Mystic Sanctuary
 3 Remand
+3 Fact or Fiction
 1 Tamiyo, Collector of Tales
 1 Ice-Fang Coatl
 1 Blast Zone
@@ -26,9 +26,9 @@
 7 Snow-Covered Island
 4 Remand
 2 Scalding Tarn
+1 Flooded Grove
 1 Forest
 1 Hour of Promise
-1 Flooded Grove
 1 Overgrown Tomb
 1 Primeval Titan
 1 Narset, Parter of Veils
@@ -37,7 +37,6 @@
 1 Assassin's Trophy
 3 Wilderness Reclamation
 4 Cryptic Command
-1 Sunken Hollow
 3 Abrupt Decay
 1 Cling to Dust
 2 Hour of Promise
@@ -55,11 +54,11 @@
 2 Gilded Goose
 2 Mishra's Bauble
 3 Emry, Lurker of the Loch
-3 Gilded Goose
 3 Urza, Lord High Artificer
+3 Gilded Goose
 3 Mishra's Bauble
-4 Gilded Goose
 4 Urza, Lord High Artificer
+4 Gilded Goose
 4 Mishra's Bauble
 2 Assassin's Trophy
 1 Glimpse the Unthinkable
@@ -72,6 +71,7 @@
 4 Hedron Crab
 4 Glimpse the Unthinkable
 1 Drowned Catacomb
+1 Sunken Hollow
 2 Snow-Covered Forest
 1 Oboro, Palace in the Clouds
 1 Damnation
@@ -84,8 +84,8 @@
 2 Thopter Foundry
 2 Whir of Invention
 3 Engineered Explosives
-1 Search for Azcanta
 1 Castle Vantress
+1 Search for Azcanta
 4 Fact or Fiction
 1 Shark Typhoon
 2 Shark Typhoon
@@ -152,9 +152,9 @@
 3 Watery Grave
 3 Gravecrawler
 3 Verdant Catacombs
-4 Verdant Catacombs
 4 Creeping Chill
 4 Gravecrawler
 4 Stitcher's Supplier
 4 Prized Amalgam
+4 Verdant Catacombs
 4 Vengevine

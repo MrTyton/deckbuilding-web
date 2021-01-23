@@ -43,8 +43,8 @@
 |--------------------:|-------------------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    3|[Omnath, Locus of Creation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491883)   |                     |              |
 |                    3|[Niv-Mizzet Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461135)           |                     |              |
-|                    3|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)             |                     |              |
 |                    3|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)             |                     |              |
+|                    3|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)             |                     |              |
 |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)        |                     |              |
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)            |                     |              |
 |                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)            |                     |              |

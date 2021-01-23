@@ -39,6 +39,7 @@
 1 Castle Vantress
 1 Shark Typhoon
 1 Brazen Borrower
+2 Gadwick, the Wizened
 2 Castle Vantress
 2 Essence Scatter
 2 Rewind
@@ -47,16 +48,15 @@
 2 Neutralize
 2 Hypnotic Sprite
 2 Shark Typhoon
-2 Gadwick, the Wizened
+3 Rewind
 3 Neutralize
 3 Castle Vantress
-3 Rewind
 3 Shark Typhoon
 3 Brazen Borrower
+4 Rewind
 4 Neutralize
 4 Castle Vantress
 4 Shark Typhoon
-4 Rewind
 4 Brazen Borrower
 1 Crawling Barrens
 1 Bonders' Enclave
@@ -66,15 +66,15 @@
 1 Extinction Event
 1 Branchloft Pathway
 1 Forest
-1 Elspeth's Nightmare
-1 Mythos of Nethroi
-1 Temple of Malady
 1 Heartless Act
-2 Indatha Triome
-2 Mythos of Nethroi
-2 Elspeth's Nightmare
+1 Elspeth's Nightmare
+1 Temple of Malady
+1 Mythos of Nethroi
 2 Heartless Act
+2 Elspeth's Nightmare
 2 Forest
+2 Mythos of Nethroi
+2 Indatha Triome
 2 Temple of Malady
 2 Swamp
 3 Indatha Triome
@@ -82,16 +82,16 @@
 2 Extinction Event
 2 Branchloft Pathway
 3 Extinction Event
+1 Castle Locthwain
 1 Bala Ged Recovery
 1 Eliminate
 1 Cling to Dust
 1 Polukranos, Unchained
-1 Castle Locthwain
 1 Scavenging Ooze
 1 Elder Gargaroth
 1 Yasharn, Implacable Earth
-2 Elder Gargaroth
 2 Castle Locthwain
+2 Elder Gargaroth
 2 Polukranos, Unchained
 2 Scavenging Ooze
 3 Scavenging Ooze
@@ -125,17 +125,17 @@
 1 Banishing Light
 1 Golden Egg
 1 Trail of Crumbs
-1 Eerie Ultimatum
 1 Temple of Plenty
+1 Eerie Ultimatum
 1 Yorion, Sky Nomad
 1 Wicked Wolf
 1 Gilded Goose
 2 Golden Egg
+2 Temple of Plenty
 2 Gilded Goose
 2 Yorion, Sky Nomad
 2 Trail of Crumbs
 2 Wicked Wolf
-2 Temple of Plenty
 3 Golden Egg
 3 Wicked Wolf
 3 Elspeth's Nightmare
@@ -155,12 +155,12 @@
 6 Forest
 1 Idyllic Grange
 1 Daxos, Blessed by the Sun
+1 Shadowspear
+1 Felidar Retreat
 1 Runed Halo
 1 Stonecoil Serpent
-1 Shadowspear
 1 Heliod's Intervention
 1 Archon of Sun's Grace
-1 Felidar Retreat
 1 Archon of Absolution
 1 Journey to Oblivion
 1 Arcanist's Owl
@@ -228,21 +228,21 @@
 2 Duress
 2 Yasharn, Implacable Earth
 2 Garruk, Cursed Huntsman
+3 Yasharn, Implacable Earth
 3 Duress
 3 Temple of Malady
-3 Yasharn, Implacable Earth
 4 Duress
 1 Savai Triome
 1 Ketria Triome
 1 Dismal Backwater
 1 Thirst for Meaning
 1 Fae of Wishes
-1 Bloodfell Caves
-1 Jungle Hollow
+1 Sanctum of Calm Waters
 1 Thornwood Falls
+1 Jungle Hollow
+1 Bloodfell Caves
 1 Sanctum of Shattered Heights
 1 Sanctum of All
-1 Sanctum of Calm Waters
 1 Sanctum of Stone Fangs
 1 Clearwater Pathway
 1 Sanctum of Tranquil Light
@@ -256,7 +256,6 @@
 2 Dismal Backwater
 2 Thirst for Meaning
 2 Fae of Wishes
-2 Bloodchief's Thirst
 2 Sanctum of Fruitful Harvest
 2 Sanctum of Tranquil Light
 2 Zagoth Triome
@@ -264,10 +263,11 @@
 2 Sanctum of Shattered Heights
 2 Sanctum of Stone Fangs
 2 Sanctum of Calm Waters
+2 Bloodchief's Thirst
 2 Cragcrown Pathway
 2 Clearwater Pathway
-3 Fae of Wishes
 3 Bloodchief's Thirst
+3 Fae of Wishes
 3 Sanctum of Stone Fangs
 3 Sanctum of Calm Waters
 3 Sanctum of Tranquil Light
@@ -313,12 +313,12 @@
 4 Relic Golem
 1 Temple of Silence
 1 Hagra Mauling
-1 Llanowar Visionary
 1 Agonizing Remorse
-2 Llanowar Visionary
-2 Eliminate
+1 Llanowar Visionary
 2 Bala Ged Recovery
 2 Agonizing Remorse
+2 Eliminate
+2 Llanowar Visionary
 3 Llanowar Visionary
 3 Agonizing Remorse
 4 Llanowar Visionary
@@ -326,14 +326,14 @@
 1 Storm's Wrath
 1 Bonecrusher Giant
 1 Ox of Agonas
+2 Ugin, the Spirit Dragon
 2 Solemn Simulacrum
 2 Storm's Wrath
 2 Ox of Agonas
 2 Bonecrusher Giant
-2 Ugin, the Spirit Dragon
 2 Scorching Dragonfire
-3 Temple of Triumph
 3 Crawling Barrens
+3 Temple of Triumph
 3 Solemn Simulacrum
 3 Ugin, the Spirit Dragon
 3 Storm's Wrath

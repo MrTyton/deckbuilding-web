@@ -1,6 +1,6 @@
 1 Mystical Dispute
-1 Ceremonious Rejection
 1 Force of Vigor
+1 Ceremonious Rejection
 1 Pact of Negation
 2 Force of Vigor
 1 Fatal Push
@@ -20,20 +20,20 @@
 1 Collective Brutality
 2 Collective Brutality
 3 Grafdigger's Cage
-2 Spell Pierce
-1 Shapers' Sanctuary
-2 Shapers' Sanctuary
 1 Spellskite
 1 Choke
 2 Choke
 1 Surgical Extraction
 1 Tormod's Crypt
-1 Viridian Corrupter
 1 Nature's Claim
 2 Nature's Claim
 1 Abrupt Decay
 2 Surgical Extraction
 2 Abrupt Decay
+1 Viridian Corrupter
+1 Shapers' Sanctuary
+2 Shapers' Sanctuary
+2 Spell Pierce
 1 Torpor Orb
 2 Ceremonious Rejection
 2 Torpor Orb
@@ -45,11 +45,6 @@
 3 Force of Vigor
 1 Duress
 4 Fatal Push
-1 Ashiok, Dream Render
-1 Pithing Needle
-1 Plague Engineer
-3 Gemrazer
-4 Gemrazer
 1 Weather the Storm
 1 Faerie Macabre
 1 Wrap in Vigor
@@ -60,6 +55,11 @@
 3 Faerie Macabre
 3 Nature's Claim
 3 Wrap in Vigor
+4 Weather the Storm
 4 Nature's Claim
 4 Faerie Macabre
-4 Weather the Storm
+1 Ashiok, Dream Render
+1 Pithing Needle
+1 Plague Engineer
+3 Gemrazer
+4 Gemrazer

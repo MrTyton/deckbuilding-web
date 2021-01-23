@@ -43,9 +43,9 @@
 |                    3|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)   |                     |              |
 |                    3|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)      |                     |              |
 |                    3|[Pelakka Predation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491757)  |                     |              |
+|                    4|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)      |                     |              |
 |                    4|[Hagra Mauling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491741)      |                     |              |
 |                    4|[Elspeth's Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476342)|                     |              |
-|                    4|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)      |                     |              |
 |                    4|[Pelakka Predation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491757)  |                     |              |
 |                   13|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                     |              |
 |                   14|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                     |              |

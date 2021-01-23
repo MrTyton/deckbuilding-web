@@ -1,13 +1,13 @@
 1 Maul of the Skyclaves
 5 Snow-Covered Plains
 6 Snow-Covered Plains
-3 Silent Clearing
+3 Plains
 2 Field of Ruin
 4 Stoneforge Mystic
+3 Shefet Dunes
 7 Snow-Covered Plains
 8 Snow-Covered Plains
-3 Shefet Dunes
-3 Plains
+3 Silent Clearing
 1 Caves of Koilos
 2 Caves of Koilos
 3 Caves of Koilos
@@ -23,29 +23,30 @@
 3 Tidehollow Sculler
 4 Concealed Courtyard
 4 Shefet Dunes
+4 Plains
 1 Swamp
 3 Field of Ruin
 1 Archon of Emeria
 9 Snow-Covered Plains
 10 Snow-Covered Plains
 11 Snow-Covered Plains
-4 Plains
+1 Charming Prince
+2 Charming Prince
+5 Plains
 4 Field of Ruin
 2 Archon of Emeria
-1 Auriok Champion
 1 Phyrexian Revoker
+1 Auriok Champion
 2 Auriok Champion
 2 Phyrexian Revoker
 12 Snow-Covered Plains
 13 Snow-Covered Plains
 14 Snow-Covered Plains
 15 Snow-Covered Plains
-1 Charming Prince
-2 Charming Prince
-5 Plains
 3 Charming Prince
-6 Plains
+4 Tidehollow Sculler
 1 Reality Smasher
+6 Plains
 1 Sword of Feast and Famine
 1 Sunbaked Canyon
 7 Plains
@@ -55,16 +56,16 @@
 2 Reality Smasher
 3 Reality Smasher
 4 Reality Smasher
-1 Dismember
 1 Gemstone Caverns
 1 Thalia, Heretic Cathar
 1 Battlefield Forge
 1 Simian Spirit Guide
 1 Cavern of Souls
+1 Dismember
 1 Chalice of the Void
-2 Simian Spirit Guide
 2 Battlefield Forge
 2 Chalice of the Void
+2 Simian Spirit Guide
 2 Dismember
 3 Chalice of the Void
 3 Simian Spirit Guide
@@ -73,7 +74,6 @@
 4 Battlefield Forge
 4 Simian Spirit Guide
 2 Sunbaked Canyon
-4 Tidehollow Sculler
 1 Winds of Abandon
 1 Containment Priest
 2 Containment Priest
@@ -82,6 +82,7 @@
 4 Containment Priest
 1 Eiganjo Castle
 4 Silent Clearing
+4 Charming Prince
 3 Sunbaked Canyon
 2 Gemstone Caverns
 1 Mutavault
@@ -92,19 +93,20 @@
 10 Plains
 11 Plains
 12 Plains
-1 Skyclave Cleric
-2 Skyclave Cleric
-4 Charming Prince
-2 Cavern of Souls
-1 Horizon Canopy
-1 Windbrisk Heights
-3 Mutavault
 1 Brightclimb Pathway
-1 Tectonic Edge
 2 Brightclimb Pathway
 3 Brightclimb Pathway
 4 Wasteland Strangler
 4 Brightclimb Pathway
+1 Skyclave Cleric
+2 Skyclave Cleric
+2 Cavern of Souls
+1 Horizon Canopy
+1 Windbrisk Heights
+3 Mutavault
+1 Tectonic Edge
+1 Godless Shrine
+2 Godless Shrine
 1 Sword of Light and Shadow
 1 Flagstones of Trokair
 3 Skyclave Cleric

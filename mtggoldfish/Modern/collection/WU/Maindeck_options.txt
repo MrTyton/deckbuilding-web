@@ -1,7 +1,7 @@
-1 Glasspool Mimic
 1 Spell Queller
-2 Glasspool Mimic
 2 Spell Queller
+1 Glasspool Mimic
+2 Glasspool Mimic
 3 Glasspool Mimic
 4 Glasspool Mimic
 4 Giver of Runes
@@ -44,32 +44,45 @@
 9 Plains
 10 Plains
 11 Plains
-1 Archmage's Charm
-1 Prairie Stream
-1 Snapcaster Mage
-1 Mana Leak
-1 Shark Typhoon
-1 Mystic Sanctuary
 1 Flooded Strand
-1 Cryptic Command
 1 Jace, the Mind Sculptor
-1 Remand
-1 Polluted Delta
-1 Force of Negation
-2 Cryptic Command
-2 Shark Typhoon
-2 Snapcaster Mage
-2 Mystic Sanctuary
-2 Mana Leak
 2 Jace, the Mind Sculptor
-2 Island
-2 Force of Negation
 2 Flooded Strand
 3 Flooded Strand
-3 Force of Negation
-3 Island
 4 Flooded Strand
+1 Snapcaster Mage
+2 Snapcaster Mage
+2 Island
+1 Polluted Delta
+1 Mana Leak
+1 Cryptic Command
+2 Cryptic Command
+2 Mana Leak
+1 Mystic Sanctuary
+1 Opt
+2 Opt
+1 Force of Negation
+2 Force of Negation
+3 Force of Negation
+1 Remand
+2 Mystic Sanctuary
+3 Island
+1 Shark Typhoon
+2 Shark Typhoon
+1 Scalding Tarn
+1 Archmage's Charm
+1 Celestial Colonnade
+3 Snapcaster Mage
+1 Prairie Stream
 4 Island
+1 Oust
+1 Mystic Gate
+2 Archmage's Charm
+2 Oust
+2 Scalding Tarn
+3 Opt
+1 Misty Rainforest
+3 Shark Typhoon
 1 Restoration Angel
 2 Restoration Angel
 1 Mirran Crusader
@@ -83,34 +96,44 @@
 4 Shefet Dunes
 4 Adarkar Wastes
 4 Eldrazi Displacer
-1 Oust
-1 Scalding Tarn
-1 Mystic Gate
-1 Misty Rainforest
-2 Archmage's Charm
-2 Oust
-3 Shark Typhoon
-1 Celestial Colonnade
-1 Opt
-2 Opt
+3 Cryptic Command
+4 Opt
+2 Polluted Delta
+3 Jace, the Mind Sculptor
 1 Castle Ardenvale
 1 Vendilion Clique
 1 Spell Pierce
 2 Vendilion Clique
-2 Scalding Tarn
 1 Deprive
-3 Snapcaster Mage
-3 Opt
-3 Cryptic Command
 5 Island
-3 Selfless Savior
+1 Snow-Covered Island
+1 Snow-Covered Plains
+2 Snow-Covered Plains
+1 Spell Snare
+2 Remand
+4 Snapcaster Mage
+2 Celestial Colonnade
+1 Raugrin Triome
+1 Steam Vents
+1 Mountain
+1 Lightning Bolt
+1 Lightning Helix
+2 Lightning Helix
+2 Lightning Bolt
+3 Lightning Bolt
+3 Scalding Tarn
+4 Lightning Bolt
+4 Scalding Tarn
+1 Prismatic Vista
+1 Teferi, Hero of Dominaria
+1 Supreme Verdict
+3 Mana Leak
+4 Mana Leak
 1 Remorseful Cleric
 2 Remorseful Cleric
 3 Remorseful Cleric
-1 Snow-Covered Island
-1 Snow-Covered Plains
+3 Selfless Savior
 1 Meddling Mage
-2 Snow-Covered Plains
 2 Meddling Mage
 3 Snow-Covered Plains
 3 Meddling Mage
@@ -118,17 +141,64 @@
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 1 Tale's End
-1 Spell Snare
-1 Prismatic Vista
 2 Spell Snare
 1 Peek
-1 Teferi, Hero of Dominaria
-1 Supreme Verdict
 2 Supreme Verdict
-2 Celestial Colonnade
-2 Remand
 2 Peek
-2 Polluted Delta
-3 Jace, the Mind Sculptor
-4 Snapcaster Mage
-4 Opt
+1 Arid Mesa
+1 Sacred Foundry
+1 Brazen Borrower
+1 Shadow of Doubt
+2 Brazen Borrower
+3 Lightning Helix
+3 Celestial Colonnade
+1 Geist of Saint Traft
+2 Geist of Saint Traft
+2 Steam Vents
+3 Remand
+4 Remand
+1 Godless Shrine
+1 Drowned Catacomb
+1 Glacial Fortress
+1 Inquisition of Kozilek
+1 Thoughtseize
+1 Fatal Push
+1 Swamp
+1 Watery Grave
+1 Academy Ruins
+1 Engineered Explosives
+1 Lingering Souls
+2 Watery Grave
+2 Lingering Souls
+2 Thoughtseize
+2 Drowned Catacomb
+2 Glacial Fortress
+2 Fatal Push
+2 Inquisition of Kozilek
+3 Polluted Delta
+3 Inquisition of Kozilek
+3 Lingering Souls
+3 Fatal Push
+3 Drowned Catacomb
+4 Inquisition of Kozilek
+4 Polluted Delta
+1 Tectonic Edge
+1 Timely Reinforcements
+1 Rest in Peace
+1 Silundi Vision
+1 Sea Gate Restoration
+2 Prismatic Vista
+2 Teferi, Hero of Dominaria
+2 Snow-Covered Island
+2 Tectonic Edge
+2 Timely Reinforcements
+2 Rest in Peace
+2 Mystic Gate
+2 Silundi Vision
+3 Snow-Covered Island
+3 Archmage's Charm
+3 Tectonic Edge
+4 Snow-Covered Island
+4 Force of Negation
+4 Tectonic Edge
+4 Archmage's Charm

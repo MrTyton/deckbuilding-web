@@ -7,13 +7,13 @@
 1 Spikefield Hazard
 1 Reforge the Soul
 2 Bala Ged Recovery
-2 Valakut Awakening
 2 Manamorphose
+2 Valakut Awakening
 2 Irencrag Feat
 2 Recross the Paths
 2 Desperate Ritual
-3 Valakut Awakening
 3 Manamorphose
+3 Valakut Awakening
 3 Desperate Ritual
 3 Recross the Paths
 3 Shatterskull Smashing
@@ -73,8 +73,8 @@
 3 Brazen Borrower
 3 Glasspool Mimic
 4 Glasspool Mimic
-4 Brazen Borrower
 4 Blackbloom Rogue
+4 Brazen Borrower
 1 Mass Hysteria
 1 Vizier of Remedies
 1 Tangled Florahedron
@@ -152,6 +152,7 @@
 4 Scalding Tarn
 1 Polluted Delta
 1 Silundi Vision
+1 Peer Through Depths
 1 Darkslick Shores
 1 Wishclaw Talisman
 1 Serum Visions
@@ -169,20 +170,19 @@
 1 Sleight of Hand
 1 Grapeshot
 1 Flooded Strand
-1 Peer Through Depths
 1 Lotus Field
 2 Polluted Delta
-2 Wishclaw Talisman
+2 Peer Through Depths
 2 Darkslick Shores
 2 Psychic Puppetry
 2 Ideas Unbound
 2 Snow-Covered Island
 2 Dream's Grip
 2 Reach Through Mists
-2 Peer Through Depths
 2 Past in Flames
 2 Watery Grave
 2 Sleight of Hand
+2 Wishclaw Talisman
 2 Flooded Strand
 2 Lotus Field
 2 Merchant Scroll
@@ -245,8 +245,8 @@
 2 Lotus Bloom
 2 Nine Lives
 3 Plains
-3 Oust
 3 Marsh Flats
+3 Oust
 3 Sacred Foundry
 3 Nine Lives
 3 Enduring Ideal

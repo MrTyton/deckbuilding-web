@@ -25,10 +25,6 @@
 2 Path to Exile
 1 Collective Brutality
 1 Molten Rain
-1 Unravel the Aether
-1 Apostle's Blessing
-2 Apostle's Blessing
-2 Unravel the Aether
 1 Lingering Souls
 1 Liliana, the Last Hope
 1 Thalia, Heretic Cathar
@@ -36,9 +32,13 @@
 1 Liliana of the Veil
 1 Kataki, War's Wage
 1 Maelstrom Pulse
-2 Thalia, Heretic Cathar
 2 Lingering Souls
+2 Thalia, Heretic Cathar
 2 Stony Silence
+1 Apostle's Blessing
+1 Unravel the Aether
+2 Apostle's Blessing
+2 Unravel the Aether
 2 Abrade
 1 Grim Lavamancer
 1 Mutagenic Growth
@@ -58,8 +58,8 @@
 1 Disdainful Stroke
 2 Disdainful Stroke
 2 The Royal Scions
-2 Plague Engineer
 2 Collective Brutality
+2 Plague Engineer
 2 Drown in the Loch
 2 Mystical Dispute
 3 Disdainful Stroke
@@ -71,12 +71,12 @@
 3 Pithing Needle
 3 Cleansing Wildfire
 3 Kozilek's Return
-1 Tormod's Crypt
-2 Tormod's Crypt
-2 Feed the Swarm
-2 Fatal Push
-3 Fatal Push
-4 Fatal Push
 2 Seal of Primordium
 4 Soul-Guide Lantern
 4 Boil
+1 Tormod's Crypt
+2 Feed the Swarm
+2 Tormod's Crypt
+2 Fatal Push
+4 Fatal Push
+3 Fatal Push
