@@ -1,8 +1,7 @@
-4 Hullbreacher
+3 Snow-Covered Island
 2 Narset, Parter of Veils
 5 Island
 6 Island
-4 Snow-Covered Island
 1 Force of Will
 2 Force of Will
 3 Force of Will
@@ -10,10 +9,14 @@
 4 Mishra's Bauble
 1 Sword of the Meek
 1 Thopter Foundry
+4 Snow-Covered Island
+4 Force of Will
 1 Wasteland
 3 Narset, Parter of Veils
 1 Intuition
-4 Force of Will
+1 Polluted Delta
+2 Polluted Delta
+1 Minamo, School at Water's Edge
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island
@@ -22,15 +25,19 @@
 1 Plains
 1 Karakas
 4 Narset, Parter of Veils
-1 Polluted Delta
+1 Baleful Strix
+1 Underground Sea
+2 Baleful Strix
+2 Underground Sea
+3 Baleful Strix
+3 Polluted Delta
+4 Polluted Delta
 1 Volcanic Island
 1 Scalding Tarn
 1 Dack Fayden
-2 Polluted Delta
 2 Dack Fayden
 2 Scalding Tarn
 1 Crucible of Worlds
-1 Baleful Strix
 1 Swamp
 1 Badlands
 1 Academy Ruins
@@ -38,22 +45,15 @@
 1 Bloodstained Mire
 1 Mox Diamond
 1 Daretti, Ingenious Iconoclast
-1 Underground Sea
 2 Bloodstained Mire
-2 Baleful Strix
 2 Thopter Foundry
 2 Tezzeret, Agent of Bolas
-2 Underground Sea
 2 Wasteland
 2 Daretti, Ingenious Iconoclast
 2 Sword of the Meek
 2 Mox Diamond
-3 Baleful Strix
-3 Polluted Delta
-4 Polluted Delta
 1 Mountain
 3 Dack Fayden
-1 Minamo, School at Water's Edge
 1 Seething Song
 1 Daze
 1 Urborg, Tomb of Yawgmoth
@@ -87,6 +87,17 @@
 2 Jeweled Amulet
 2 Badlands
 2 Engineered Explosives
+1 Snow-Covered Forest
+1 Snow-Covered Swamp
+1 Oko, Thief of Crowns
+1 Uro, Titan of Nature's Wrath
+1 Tropical Island
+1 Misty Rainforest
+2 Oko, Thief of Crowns
+2 Uro, Titan of Nature's Wrath
+2 Tropical Island
+2 Misty Rainforest
+4 Baleful Strix
 1 Liquimetal Coating
 1 Ensnaring Bridge
 1 Transmute Artifact

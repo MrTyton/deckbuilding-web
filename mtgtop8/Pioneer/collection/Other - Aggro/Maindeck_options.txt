@@ -109,20 +109,20 @@
 4 Llanowar Elves
 2 Island
 3 Island
-1 Fabled Passage
+1 Anticognition
 1 Nighthawk Scavenger
+1 Fabled Passage
 1 Drowned Catacomb
 1 Castle Locthwain
-1 Anticognition
 1 Brazen Borrower
 2 Eliminate
-2 Fabled Passage
 2 Nighthawk Scavenger
+2 Fabled Passage
 2 Drowned Catacomb
 2 Swamp
 2 Brazen Borrower
-3 Swamp
 3 Brazen Borrower
+3 Swamp
 3 Drowned Catacomb
 4 Drowned Catacomb
 4 Brazen Borrower
@@ -130,16 +130,16 @@
 1 Mutavault
 2 Mutavault
 3 Mutavault
-1 Resolute Strike
 1 Open the Armory
 1 Sigarda's Aid
 1 Blood-Chin Rager
+1 Wishclaw Talisman
 1 Shadowspear
 1 Brightclimb Pathway
 1 Kor Blademaster
 1 Caves of Koilos
 1 Concealed Courtyard
-1 Wishclaw Talisman
+1 Resolute Strike
 1 Bloodsoaked Champion
 1 Gods Willing
 1 Colossus Hammer
@@ -200,8 +200,7 @@
 1 Charming Prince
 1 Temple of Enlightenment
 1 Skyclave Cleric
-1 Omen of the Sea
-1 Thassa, Deep-Dwelling
+1 Castle Vantress
 1 Glass Casket
 1 Skyclave Apparition
 1 Reflector Mage
@@ -209,30 +208,31 @@
 1 Solemn Simulacrum
 1 Agent of Treachery
 1 Elspeth Conquers Death
+1 Thassa, Deep-Dwelling
 1 Hallowed Fountain
 1 Spell Pierce
 1 Glacial Fortress
 1 Isolate
+1 Omen of the Sea
 1 Teferi, Time Raveler
-1 Castle Vantress
 1 Yorion, Sky Nomad
 2 Charming Prince
 2 Elite Guardmage
 2 Temple of Enlightenment
 2 Skyclave Cleric
 2 Solemn Simulacrum
-2 Thassa, Deep-Dwelling
-2 Omen of the Sea
 2 Glass Casket
 2 Thraben Inspector
 2 Skyclave Apparition
 2 Yorion, Sky Nomad
 2 Agent of Treachery
+2 Omen of the Sea
 2 Teferi, Time Raveler
 2 Isolate
 2 Hallowed Fountain
 2 Reflector Mage
 2 Glacial Fortress
+2 Thassa, Deep-Dwelling
 2 Spell Pierce
 3 Glacial Fortress
 3 Yorion, Sky Nomad
@@ -273,8 +273,8 @@
 3 Nighthawk Scavenger
 3 Glint-Sleeve Siphoner
 4 Glint-Sleeve Siphoner
-1 Notion Thief
 1 Zareth San, the Trickster
+1 Notion Thief
 2 Notion Thief
 1 Sea Gate Stormcaller
 1 Chart a Course
