@@ -26,13 +26,12 @@
 2 Fiery Islet
 1 Grim Lavamancer
 2 Grim Lavamancer
-1 Blackcleave Cliffs
 1 Blood Crypt
+1 Blackcleave Cliffs
 1 Bump in the Night
 2 Blackcleave Cliffs
 2 Bump in the Night
 3 Bump in the Night
-4 Bloodstained Mire
 1 Atarka's Command
 1 Wild Nacatl
 1 Copperline Gorge
@@ -40,12 +39,13 @@
 2 Copperline Gorge
 2 Stomping Ground
 2 Wild Nacatl
+3 Atarka's Command
 3 Copperline Gorge
 3 Wild Nacatl
-3 Atarka's Command
+4 Atarka's Command
 4 Copperline Gorge
 4 Wild Nacatl
-4 Atarka's Command
+4 Bloodstained Mire
 1 Akoum Hellhound
 1 Soul-Scar Mage
 1 Lava Dart
@@ -54,8 +54,8 @@
 2 Lava Dart
 2 Soul-Scar Mage
 2 Wayward Guide-Beast
-3 Akoum Hellhound
 3 Lava Dart
+3 Akoum Hellhound
 3 Light Up the Stage
 3 Wayward Guide-Beast
 3 Soul-Scar Mage
@@ -76,7 +76,7 @@
 4 Mountain
 5 Mountain
 6 Mountain
+7 Mountain
 8 Mountain
 9 Mountain
 10 Mountain
-7 Mountain

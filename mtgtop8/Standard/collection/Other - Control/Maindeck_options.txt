@@ -2,64 +2,6 @@
 2 Shredded Sails
 1 Temple of Triumph
 2 Temple of Triumph
-1 Island
-1 Mystic Sanctuary
-1 Frantic Inventory
-1 Into the Roil
-2 Frantic Inventory
-2 Into the Roil
-2 Island
-3 Frantic Inventory
-3 Island
-4 Frantic Inventory
-4 Island
-5 Island
-6 Island
-7 Island
-8 Island
-9 Island
-10 Island
-11 Island
-12 Island
-13 Island
-14 Island
-15 Island
-16 Island
-1 Jwari Disruption
-1 Essence Scatter
-1 Rewind
-1 Sublime Epiphany
-1 Silundi Vision
-1 Lofty Denial
-1 Gadwick, the Wizened
-1 Kiora Bests the Sea God
-1 Rain of Revelation
-1 Neutralize
-1 Hypnotic Sprite
-1 Castle Vantress
-1 Shark Typhoon
-1 Brazen Borrower
-2 Castle Vantress
-2 Essence Scatter
-2 Rewind
-2 Rain of Revelation
-2 Brazen Borrower
-2 Neutralize
-2 Shark Typhoon
-2 Gadwick, the Wizened
-2 Hypnotic Sprite
-3 Neutralize
-3 Castle Vantress
-3 Rewind
-3 Shark Typhoon
-3 Brazen Borrower
-4 Neutralize
-4 Castle Vantress
-4 Shark Typhoon
-4 Rewind
-4 Brazen Borrower
-1 Ugin, the Spirit Dragon
-1 Crawling Barrens
 1 Indatha Triome
 1 Brightclimb Pathway
 1 Swamp
@@ -91,10 +33,21 @@
 3 Mythos of Nethroi
 2 Temple of Malady
 3 Elspeth Conquers Death
-1 Bloodchief's Thirst
 2 Extinction Event
 3 Extinction Event
-1 Bonders' Enclave
+1 Bloodchief's Thirst
+1 Eerie Ultimatum
+1 Temple of Plenty
+1 Yorion, Sky Nomad
+2 Yorion, Sky Nomad
+4 Brightclimb Pathway
+4 Swamp
+4 Forest
+1 Garruk, Cursed Huntsman
+2 Yasharn, Implacable Earth
+1 Temple of Silence
+1 Llanowar Visionary
+2 Llanowar Visionary
 1 Castle Locthwain
 1 Bala Ged Recovery
 1 Cling to Dust
@@ -106,25 +59,13 @@
 2 Scavenging Ooze
 3 Scavenging Ooze
 3 Elder Gargaroth
-1 Garruk, Cursed Huntsman
-2 Yasharn, Implacable Earth
-1 Temple of Silence
-1 Llanowar Visionary
-2 Llanowar Visionary
-1 Eerie Ultimatum
-1 Temple of Plenty
-1 Yorion, Sky Nomad
-2 Yorion, Sky Nomad
-4 Brightclimb Pathway
-4 Swamp
-4 Forest
 1 Vivien, Monsters' Advocate
 2 Vivien, Monsters' Advocate
 1 Mazemind Tome
 2 Mazemind Tome
 3 Mazemind Tome
 1 Scorching Dragonfire
-2 Crawling Barrens
+1 Ugin, the Spirit Dragon
 1 Skyclave Apparition
 2 Skyclave Apparition
 3 Skyclave Apparition
@@ -133,8 +74,7 @@
 4 Elspeth Conquers Death
 2 Shatterskull Smashing
 5 Mountain
-17 Island
-18 Island
+1 Crawling Barrens
 1 Banishing Light
 2 Bloodchief's Thirst
 1 Wolfwillow Haven
@@ -184,8 +124,8 @@
 4 Gilded Goose
 5 Forest
 6 Forest
-1 Idyllic Grange
 1 Daxos, Blessed by the Sun
+1 Idyllic Grange
 1 Shadowspear
 1 Felidar Retreat
 1 Runed Halo
@@ -244,8 +184,6 @@
 26 Plains
 27 Plains
 28 Plains
-1 Field of Ruin
-2 Lofty Denial
 3 Lukka, Coppercoat Outcast
 1 Soul Sear
 2 Soul Sear
@@ -253,6 +191,7 @@
 4 Soul Sear
 1 Hagra Mauling
 1 Agonizing Remorse
+1 Bonders' Enclave
 2 Bala Ged Recovery
 2 Agonizing Remorse
 2 Eliminate
@@ -268,9 +207,10 @@
 3 Duress
 3 Temple of Malady
 4 Duress
+1 Island
 1 Savai Triome
-1 Ketria Triome
 1 Dismal Backwater
+1 Ketria Triome
 1 Thirst for Meaning
 1 Fae of Wishes
 1 Jungle Hollow
@@ -311,11 +251,89 @@
 3 Sanctum of All
 4 Extinction Event
 4 Sanctum of Shattered Heights
+2 Crawling Barrens
+1 Mystic Sanctuary
+1 Frantic Inventory
+1 Into the Roil
+2 Frantic Inventory
+2 Into the Roil
+2 Island
+3 Frantic Inventory
+3 Island
+4 Frantic Inventory
+4 Island
+5 Island
+6 Island
+7 Island
+8 Island
+9 Island
+10 Island
+11 Island
+12 Island
+13 Island
+14 Island
+15 Island
+16 Island
+1 Field of Ruin
+1 Rewind
+1 Jwari Disruption
+1 Essence Scatter
+1 Sublime Epiphany
+1 Silundi Vision
+1 Lofty Denial
+1 Gadwick, the Wizened
+1 Kiora Bests the Sea God
+1 Rain of Revelation
+1 Neutralize
+1 Hypnotic Sprite
+1 Castle Vantress
+1 Shark Typhoon
+1 Brazen Borrower
+2 Castle Vantress
+2 Essence Scatter
+2 Rewind
+2 Rain of Revelation
+2 Brazen Borrower
+2 Neutralize
+2 Shark Typhoon
+2 Gadwick, the Wizened
+2 Hypnotic Sprite
+3 Neutralize
+3 Castle Vantress
+3 Rewind
+3 Shark Typhoon
+3 Brazen Borrower
+4 Neutralize
+4 Castle Vantress
+4 Shark Typhoon
+4 Rewind
+4 Brazen Borrower
+1 Solemn Simulacrum
+1 Storm's Wrath
+1 Bonecrusher Giant
+1 Ox of Agonas
+2 Ugin, the Spirit Dragon
+2 Solemn Simulacrum
+2 Storm's Wrath
+2 Ox of Agonas
+2 Bonecrusher Giant
+2 Scorching Dragonfire
+3 Crawling Barrens
+3 Temple of Triumph
+3 Solemn Simulacrum
+3 Ugin, the Spirit Dragon
+3 Storm's Wrath
+3 Bonecrusher Giant
+3 Shatterskull Smashing
+4 Solemn Simulacrum
+4 Ugin, the Spirit Dragon
+6 Mountain
+7 Mountain
 1 Teferi's Tutelage
 1 Evolving Wilds
 1 Ruin Crab
-1 Anticognition
 1 Merfolk Secretkeeper
+1 Anticognition
 1 Didn't Say Please
 1 Into the Story
 1 Negate
@@ -346,24 +364,5 @@
 4 Merfolk Secretkeeper
 4 Relic Golem
 4 Ruin Crab
-1 Solemn Simulacrum
-1 Storm's Wrath
-1 Bonecrusher Giant
-1 Ox of Agonas
-2 Ugin, the Spirit Dragon
-2 Solemn Simulacrum
-2 Storm's Wrath
-2 Ox of Agonas
-2 Bonecrusher Giant
-2 Scorching Dragonfire
-3 Crawling Barrens
-3 Temple of Triumph
-3 Solemn Simulacrum
-3 Ugin, the Spirit Dragon
-3 Storm's Wrath
-3 Bonecrusher Giant
-3 Shatterskull Smashing
-4 Solemn Simulacrum
-4 Ugin, the Spirit Dragon
-6 Mountain
-7 Mountain
+17 Island
+18 Island
