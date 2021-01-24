@@ -1,9 +1,9 @@
-1 Remand
+3 Jace, the Mind Sculptor
 1 Growth Spiral
 2 Growth Spiral
-3 Snow-Covered Island
 2 Remand
 1 Scalding Tarn
+3 Snow-Covered Island
 1 Fact or Fiction
 2 Fact or Fiction
 3 Growth Spiral
@@ -23,43 +23,27 @@
 4 Snow-Covered Island
 5 Snow-Covered Island
 6 Snow-Covered Island
-7 Snow-Covered Island
 4 Remand
 2 Scalding Tarn
-1 Flooded Grove
+7 Snow-Covered Island
+1 Overgrown Tomb
 1 Forest
 1 Hour of Promise
-1 Overgrown Tomb
-1 Primeval Titan
+1 Flooded Grove
+1 Snow-Covered Swamp
 1 Narset, Parter of Veils
 1 Life from the Loam
-1 Snow-Covered Swamp
+1 Primeval Titan
 1 Assassin's Trophy
+1 Castle Vantress
+1 Search for Azcanta
+4 Fact or Fiction
 3 Wilderness Reclamation
 4 Cryptic Command
 3 Abrupt Decay
 1 Cling to Dust
 2 Hour of Promise
 3 Island
-1 Emry, Lurker of the Loch
-1 Mox Amber
-1 Urza, Lord High Artificer
-1 Soul-Guide Lantern
-1 Engineered Explosives
-1 Gilded Goose
-1 Mishra's Bauble
-2 Emry, Lurker of the Loch
-2 Urza, Lord High Artificer
-2 Gilded Goose
-2 Mishra's Bauble
-2 Engineered Explosives
-3 Emry, Lurker of the Loch
-3 Urza, Lord High Artificer
-3 Gilded Goose
-3 Mishra's Bauble
-4 Urza, Lord High Artificer
-4 Gilded Goose
-4 Mishra's Bauble
 2 Assassin's Trophy
 1 Glimpse the Unthinkable
 1 Hedron Crab
@@ -73,20 +57,12 @@
 1 Drowned Catacomb
 1 Sunken Hollow
 2 Snow-Covered Forest
-1 Lonely Sandbar
 1 Oboro, Palace in the Clouds
 1 Damnation
+1 Lonely Sandbar
 2 Damnation
-1 Sword of the Meek
-1 Thopter Foundry
-1 Pithing Needle
-1 Whir of Invention
-2 Thopter Foundry
-2 Whir of Invention
-3 Engineered Explosives
-1 Castle Vantress
-1 Search for Azcanta
-4 Fact or Fiction
+1 Snapcaster Mage
+2 Narset, Parter of Veils
 1 Waterlogged Grove
 1 Surgical Extraction
 1 Winds of Rebuke
@@ -114,25 +90,43 @@
 2 Shark Typhoon
 3 Shark Typhoon
 4 Shark Typhoon
+1 Emry, Lurker of the Loch
+1 Mox Amber
 1 Tireless Tracker
+1 Urza, Lord High Artificer
+1 Soul-Guide Lantern
+1 Engineered Explosives
 1 Jace, Vryn's Prodigy
+1 Gilded Goose
+1 Mishra's Bauble
+2 Emry, Lurker of the Loch
 2 Mox Amber
+2 Engineered Explosives
+2 Urza, Lord High Artificer
 2 Tireless Tracker
+2 Gilded Goose
+2 Mishra's Bauble
+3 Emry, Lurker of the Loch
+3 Urza, Lord High Artificer
 3 Tireless Tracker
+3 Gilded Goose
+3 Mishra's Bauble
+4 Urza, Lord High Artificer
 4 Island
+4 Gilded Goose
+4 Mishra's Bauble
 5 Island
-1 Narcomoeba
 1 Carrion Feeder
 1 Stitcher's Supplier
 1 Gravecrawler
 1 Bloodstained Mire
+1 Narcomoeba
 1 Verdant Catacombs
 1 Vengevine
 1 Merfolk Secretkeeper
 1 Creeping Chill
 1 Silversmote Ghoul
 1 Prized Amalgam
-2 Narcomoeba
 2 Prized Amalgam
 2 Creeping Chill
 2 Silversmote Ghoul
@@ -141,13 +135,14 @@
 2 Stitcher's Supplier
 2 Gravecrawler
 2 Verdant Catacombs
-3 Narcomoeba
+2 Narcomoeba
 3 Merfolk Secretkeeper
 3 Vengevine
 3 Stitcher's Supplier
 3 Prized Amalgam
 3 Creeping Chill
 3 Silversmote Ghoul
+3 Narcomoeba
 3 Overgrown Tomb
 3 Watery Grave
 3 Gravecrawler

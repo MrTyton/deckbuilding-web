@@ -1,7 +1,7 @@
+1 Crop Rotation
 1 Kaya, Orzhov Usurper
 1 Bojuka Bog
 1 Opposition Agent
-1 Academy Rector
 1 Living Wish
 1 Omniscience
 1 Dovescape
@@ -30,14 +30,14 @@
 1 Titania, Protector of Argoth
 1 Tropical Island
 1 Village Rites
-1 Klothys, God of Destiny
 1 Teferi, Time Raveler
 1 Omnath, Locus of Creation
+1 Klothys, God of Destiny
 1 Leovold, Emissary of Trest
 1 Oko, Thief of Crowns
-1 Dead of Winter
 1 Brainstorm
 1 Nicol Bolas, Planeswalker
+1 Dead of Winter
 1 Uro, Titan of Nature's Wrath
 1 Ice-Fang Coatl
 1 Snow-Covered Island
@@ -46,9 +46,9 @@
 1 Prismatic Vista
 1 Karn, the Great Creator
 1 Misty Rainforest
+2 Dead of Winter
 2 Abrupt Decay
 2 Village Rites
-2 Dead of Winter
 2 Teferi, Time Raveler
 2 Uro, Titan of Nature's Wrath
 2 Snow-Covered Island
@@ -78,20 +78,20 @@
 1 Collector Ouphe
 2 Lightning Bolt
 2 Wooded Foothills
-3 Wooded Foothills
 3 Lightning Bolt
+3 Wooded Foothills
 1 Archon of Valor's Reach
 1 Toxic Deluge
 1 Liliana, the Last Hope
 1 Kaya, Ghost Assassin
+1 Path to Exile
 1 Sylvan Library
 1 Karn Liberated
 1 Nissa, Vital Force
 1 Elspeth, Sun's Champion
-1 Path to Exile
 1 Thragtusk
-2 Swamp
 2 Sylvan Library
+2 Swamp
 2 Path to Exile
 3 Forest
 3 Path to Exile
@@ -120,10 +120,10 @@
 3 Grove of the Burnwillows
 3 Punishing Fire
 3 Knight of the Reliquary
-4 Wooded Foothills
 4 Grove of the Burnwillows
-4 Knight of the Reliquary
 4 Lightning Bolt
+4 Wooded Foothills
+4 Knight of the Reliquary
 4 Punishing Fire
 1 Snow-Covered Mountain
 1 Terror of the Peaks
