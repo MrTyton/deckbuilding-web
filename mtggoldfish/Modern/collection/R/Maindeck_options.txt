@@ -31,8 +31,8 @@
 1 Rift Bolt
 2 Skewer the Critics
 2 Rift Bolt
-3 Rift Bolt
 3 Skewer the Critics
+3 Rift Bolt
 4 Rift Bolt
 4 Skewer the Critics
 1 Light Up the Stage
@@ -80,8 +80,8 @@
 1 Bloodstained Mire
 1 Lava Dart
 2 Lava Dart
-3 Soul-Scar Mage
 3 Lava Dart
+3 Soul-Scar Mage
 4 Soul-Scar Mage
 3 Sunbaked Canyon
 1 Seal of Fire
@@ -100,8 +100,8 @@
 1 Grim Lavamancer
 4 Searing Blaze
 4 Ramunap Ruins
-1 Chandra, Heart of Fire
 1 Mazemind Tome
+1 Chandra, Heart of Fire
 2 Abrade
 2 Mazemind Tome
 2 Seal of Fire
@@ -122,6 +122,16 @@
 1 Sweltering Suns
 2 Sweltering Suns
 3 Sweltering Suns
+1 Abbot of Keral Keep
+1 Sacred Foundry
+1 Inspiring Vantage
+2 Abbot of Keral Keep
+2 Sacred Foundry
+2 Inspiring Vantage
+3 Sacred Foundry
+3 Abbot of Keral Keep
+3 Inspiring Vantage
+4 Abbot of Keral Keep
 1 Burst Lightning
 1 Signal Pest
 1 Legion Loyalist
@@ -134,13 +144,25 @@
 4 Mutagenic Growth
 1 Blast Zone
 1 Chandra, Awakened Inferno
-1 Chandra, Acolyte of Flame
 1 Chandra's Regulator
+1 Chandra, Acolyte of Flame
 2 Chandra, Heart of Fire
 2 Chandra, Acolyte of Flame
 2 Chandra's Regulator
 4 Ensnaring Bridge
 4 Seasoned Pyromancer
+1 Bump in the Night
+1 Blackcleave Cliffs
+1 Blood Crypt
+2 Scalding Tarn
+2 Blood Crypt
+2 Bump in the Night
+2 Blackcleave Cliffs
+3 Scalding Tarn
+3 Bump in the Night
+3 Blood Crypt
+3 Blackcleave Cliffs
+4 Bump in the Night
 1 Grove of the Burnwillows
 2 Grove of the Burnwillows
 3 Grove of the Burnwillows
@@ -150,6 +172,17 @@
 4 Grove of the Burnwillows
 4 Karn, the Great Creator
 4 Zhalfirin Void
+1 Wild Slash
+1 Kiln Fiend
+1 Fiery Islet
+1 Bedlam Reveler
+2 Fiery Islet
+2 Bedlam Reveler
+2 Wild Slash
+2 Kiln Fiend
+3 Kiln Fiend
+3 Bedlam Reveler
+4 Kiln Fiend
 1 Tarfire
 1 Brushfire Elemental
 1 Forest
@@ -169,43 +202,10 @@
 3 Tarmogoyf
 4 Copperline Gorge
 4 Tarmogoyf
-1 Bump in the Night
-1 Blood Crypt
-1 Blackcleave Cliffs
-2 Scalding Tarn
-2 Blood Crypt
-2 Bump in the Night
-2 Blackcleave Cliffs
-3 Scalding Tarn
-3 Bump in the Night
-3 Blood Crypt
-3 Blackcleave Cliffs
-4 Bump in the Night
-1 Sacred Foundry
-1 Abbot of Keral Keep
-1 Inspiring Vantage
-2 Sacred Foundry
-2 Inspiring Vantage
-2 Abbot of Keral Keep
-3 Sacred Foundry
-3 Inspiring Vantage
-3 Abbot of Keral Keep
-4 Abbot of Keral Keep
-1 Wild Slash
-1 Kiln Fiend
-1 Fiery Islet
-1 Bedlam Reveler
-2 Fiery Islet
-2 Bedlam Reveler
-2 Wild Slash
-2 Kiln Fiend
-3 Kiln Fiend
-3 Bedlam Reveler
-4 Kiln Fiend
 1 Chandra's Incinerator
 2 Chandra's Incinerator
 3 Seal of Fire
 3 Chandra's Incinerator
-4 Chandra's Incinerator
 4 Seal of Fire
+4 Chandra's Incinerator
 19 Mountain

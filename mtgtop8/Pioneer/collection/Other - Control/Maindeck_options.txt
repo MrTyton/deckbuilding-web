@@ -1,7 +1,7 @@
 4 Drowned Catacomb
-1 Castle Locthwain
 1 Shark Typhoon
 1 Castle Vantress
+1 Castle Locthwain
 1 Vraska's Contempt
 1 Field of Ruin
 1 Censor
@@ -20,12 +20,12 @@
 1 Sinister Sabotage
 1 Rewind
 1 Mutavault
+2 Sinister Sabotage
 2 Torrential Gearhulk
 2 Rewind
 2 Mutavault
-2 Sinister Sabotage
-3 Hieroglyphic Illumination
 3 Sinister Sabotage
+3 Hieroglyphic Illumination
 4 Sinister Sabotage
 1 Lullmage's Domination
 1 Ruin Crab
@@ -89,7 +89,6 @@
 2 Cleansing Wildfire
 2 Mazemind Tome
 2 Chandra, Torch of Defiance
-2 Darksteel Citadel
 2 Cascading Cataracts
 2 Valakut Awakening
 2 Bonecrusher Giant
@@ -98,6 +97,7 @@
 2 Ugin, the Spirit Dragon
 2 Battlefield Forge
 2 Mountain
+2 Darksteel Citadel
 3 Vessel of Volatility
 3 Ramunap Ruins
 3 Cleansing Wildfire

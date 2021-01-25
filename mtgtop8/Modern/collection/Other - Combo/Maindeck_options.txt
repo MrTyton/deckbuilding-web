@@ -13,14 +13,14 @@
 2 Recross the Paths
 2 Desperate Ritual
 3 Valakut Awakening
+3 Shatterskull Smashing
 3 Manamorphose
 3 Desperate Ritual
 3 Recross the Paths
-3 Shatterskull Smashing
 4 Valakut Awakening
+4 Shatterskull Smashing
 4 Manamorphose
 4 Recross the Paths
-4 Shatterskull Smashing
 4 Desperate Ritual
 1 Blood Moon
 2 Blood Moon
@@ -95,10 +95,10 @@
 3 Oust
 3 Sacred Foundry
 3 Marsh Flats
+3 Silence
 3 Nine Lives
 3 Solemnity
 3 Lotus Bloom
-3 Silence
 3 Enduring Ideal
 4 Plains
 4 Marsh Flats
@@ -134,8 +134,9 @@
 2 Snow-Covered Island
 3 Flooded Strand
 4 Flooded Strand
-1 Polluted Delta
+1 Lotus Field
 1 Silundi Vision
+1 Polluted Delta
 1 Darkslick Shores
 1 Serum Visions
 1 Ideas Unbound
@@ -147,11 +148,11 @@
 1 Echoing Truth
 1 Wishclaw Talisman
 1 Sleight of Hand
-1 Lotus Field
 1 Dream's Grip
 1 Merchant Scroll
 1 Watery Grave
 1 Peer Through Depths
+2 Lotus Field
 2 Polluted Delta
 2 Wishclaw Talisman
 2 Darkslick Shores
@@ -161,18 +162,17 @@
 2 Reach Through Mists
 2 Peer Through Depths
 2 Watery Grave
-2 Lotus Field
 2 Serum Visions
 2 Ideas Unbound
 2 Sleight of Hand
 2 Past in Flames
 2 Twiddle
+3 Lotus Field
 3 Wishclaw Talisman
 3 Darkslick Shores
 3 Serum Visions
 3 Ideas Unbound
 3 Snow-Covered Island
-3 Lotus Field
 3 Twiddle
 3 Sleight of Hand
 3 Psychic Puppetry
@@ -247,12 +247,12 @@
 1 Noxious Revival
 1 Devoted Druid
 1 Karn, the Great Creator
-2 Tangled Florahedron
 2 Wild Cantor
+2 Tangled Florahedron
 2 Devoted Druid
 2 Karn, the Great Creator
-3 Tangled Florahedron
 3 Karn, the Great Creator
+3 Tangled Florahedron
 3 Devoted Druid
 4 Tangled Florahedron
 4 Karn, the Great Creator

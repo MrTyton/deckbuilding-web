@@ -20,7 +20,6 @@
 2 Windswept Heath
 2 Wooded Foothills
 3 Field of the Dead
-3 Felidar Retreat
 3 Search for Tomorrow
 3 Explore
 3 Snow-Covered Forest
@@ -28,6 +27,7 @@
 3 Arboreal Grazer
 3 Solemn Simulacrum
 3 Wurmcoil Engine
+3 Felidar Retreat
 3 Windswept Heath
 3 Temple Garden
 3 Wooded Foothills
@@ -41,17 +41,17 @@
 1 Flooded Strand
 2 Snow-Covered Island
 2 Flooded Strand
-1 Erayo, Soratami Ascendant
-1 Monastery Mentor
 1 Tasigur, the Golden Fang
 1 Thought Scour
 1 Unearth
 1 Lurrus of the Dream-Den
+1 Monastery Mentor
 1 Watery Grave
 1 Polluted Delta
 1 Repeal
 1 Soul-Guide Lantern
 1 Spellskite
+1 Erayo, Soratami Ascendant
 1 Teferi, Time Raveler
 1 Silent Clearing
 1 Mox Amber
@@ -63,37 +63,37 @@
 1 Aether Spellbomb
 1 Engineered Explosives
 1 Waterlogged Grove
-2 Erayo, Soratami Ascendant
 2 Repeal
 2 Mox Amber
-2 Monastery Mentor
 2 Thought Scour
 2 Unearth
 2 Polluted Delta
+2 Monastery Mentor
 2 Emry, Lurker of the Loch
 2 Mishra's Bauble
 2 Teferi, Time Raveler
+2 Erayo, Soratami Ascendant
 2 Waterlogged Grove
 2 Engineered Explosives
+3 Mox Amber
 3 Teferi, Time Raveler
-3 Flooded Strand
 3 Repeal
-3 Erayo, Soratami Ascendant
+3 Flooded Strand
 3 Thought Scour
 3 Polluted Delta
 3 Unearth
 3 Mishra's Bauble
 3 Monastery Mentor
-3 Mox Amber
+3 Erayo, Soratami Ascendant
 3 Emry, Lurker of the Loch
-4 Erayo, Soratami Ascendant
-4 Flooded Strand
 4 Mox Amber
+4 Flooded Strand
 4 Repeal
 4 Polluted Delta
 4 Monastery Mentor
 4 Teferi, Time Raveler
 4 Mishra's Bauble
+4 Erayo, Soratami Ascendant
 4 Emry, Lurker of the Loch
 1 Mountain
 1 Lightning Bolt
@@ -103,6 +103,7 @@
 1 Cascading Cataracts
 1 Battlefield Forge
 1 Inspiring Vantage
+1 Suppression Field
 1 Sunbaked Canyon
 1 Sacred Foundry
 1 Mana Tithe
@@ -113,29 +114,29 @@
 1 Flagstones of Trokair
 1 Valakut Awakening
 1 Boom / Bust
-1 Suppression Field
 1 Goblin Dark-Dwellers
 1 Ghostly Prison
 2 Oust
 2 Battlefield Forge
 2 Sunbaked Canyon
+2 Suppression Field
 2 Mana Tithe
 2 Pillage
 2 Stone Rain
+2 Molten Rain
 2 Flagstones of Trokair
 2 Sacred Foundry
 2 Goblin Dark-Dwellers
 2 Magus of the Tabernacle
 2 Inspiring Vantage
-2 Suppression Field
 2 Valakut Awakening
-2 Molten Rain
 2 Boom / Bust
 2 Cascading Cataracts
 2 Ghostly Prison
 3 Sacred Foundry
 3 Sunbaked Canyon
 3 Pillage
+3 Suppression Field
 3 Boom / Bust
 3 Inspiring Vantage
 3 Oust
@@ -145,7 +146,6 @@
 3 Flagstones of Trokair
 3 Stone Rain
 3 Mana Tithe
-3 Suppression Field
 4 Pillage
 4 Sacred Foundry
 4 Sunbaked Canyon

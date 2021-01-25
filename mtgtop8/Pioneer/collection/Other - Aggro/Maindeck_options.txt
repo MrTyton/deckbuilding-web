@@ -98,7 +98,6 @@
 3 Spirebluff Canal
 4 Elder Gargaroth
 4 Scavenging Ooze
-4 Questing Beast
 4 Lovestruck Beast
 4 Elvish Mystic
 4 Vivien, Arkbow Ranger
@@ -106,6 +105,7 @@
 4 Cragcrown Pathway
 4 Bonecrusher Giant
 4 Breeding Pool
+4 Questing Beast
 4 Llanowar Elves
 1 Fabled Passage
 1 Nighthawk Scavenger
@@ -130,16 +130,16 @@
 1 Mutavault
 2 Mutavault
 3 Mutavault
-1 Open the Armory
+1 Resolute Strike
 1 Sigarda's Aid
-1 Blood-Chin Rager
 1 Wishclaw Talisman
+1 Blood-Chin Rager
 1 Shadowspear
 1 Brightclimb Pathway
+1 Open the Armory
 1 Kor Blademaster
 1 Caves of Koilos
 1 Concealed Courtyard
-1 Resolute Strike
 1 Bloodsoaked Champion
 1 Gods Willing
 1 Colossus Hammer
@@ -148,11 +148,11 @@
 2 Wishclaw Talisman
 2 Colossus Hammer
 2 Resolute Strike
-2 Open the Armory
 2 Sigarda's Aid
 2 Kor Blademaster
 2 Blood-Chin Rager
 2 Mardu Woe-Reaper
+2 Open the Armory
 2 Concealed Courtyard
 2 Godless Shrine
 2 Gods Willing
@@ -163,9 +163,9 @@
 3 Colossus Hammer
 3 Resolute Strike
 3 Kor Blademaster
-3 Open the Armory
 3 Sigarda's Aid
 3 Mardu Woe-Reaper
+3 Open the Armory
 3 Caves of Koilos
 3 Brightclimb Pathway
 3 Concealed Courtyard
@@ -227,16 +227,16 @@
 1 Branchloft Pathway
 1 Brimaz, King of Oreskos
 1 Castle Ardenvale
-1 Conclave Tribunal
-1 Legion's Landing
-1 Saproling Migration
 1 Elspeth, Sun's Champion
+1 Saproling Migration
 1 Huatli, Radiant Champion
 1 Appeal / Authority
 1 Anointed Procession
 1 Trostani Discordant
 1 Oath of Gideon
+1 Legion's Landing
 1 Raise the Alarm
+1 Conclave Tribunal
 1 Nissa, Voice of Zendikar
 2 Omen of the Sun
 2 Gideon, Ally of Zendikar
@@ -245,36 +245,36 @@
 2 Branchloft Pathway
 2 Brimaz, King of Oreskos
 2 Temple Garden
-2 Conclave Tribunal
-2 Saproling Migration
-2 Legion's Landing
 2 Castle Ardenvale
 2 Plains
 2 Raise the Alarm
+2 Conclave Tribunal
 2 Forest
 2 Trostani Discordant
+2 Legion's Landing
 2 Nissa, Voice of Zendikar
 2 Anointed Procession
+2 Saproling Migration
 3 Omen of the Sun
 3 Sunpetal Grove
-3 Legion's Landing
 3 Temple Garden
-3 Saproling Migration
 3 Branchloft Pathway
-3 Conclave Tribunal
 3 Voice of Resurgence
+3 Legion's Landing
 3 Anointed Procession
 3 Nissa, Voice of Zendikar
+3 Saproling Migration
 3 Plains
 3 Raise the Alarm
+3 Conclave Tribunal
 3 Forest
 4 Voice of Resurgence
-4 Sunpetal Grove
-4 Saproling Migration
 4 Branchloft Pathway
 4 Temple Garden
 4 Nissa, Voice of Zendikar
+4 Saproling Migration
 4 Raise the Alarm
+4 Sunpetal Grove
 4 Plains
 3 Mystical Dispute
 4 Mystical Dispute

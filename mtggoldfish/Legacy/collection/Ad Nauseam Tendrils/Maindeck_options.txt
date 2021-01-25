@@ -8,7 +8,6 @@
 1 Flusterstorm
 2 Island
 1 Rain of Filth
-4 Duress
 1 Bloodstained Mire
 2 Past in Flames
 1 Manamorphose
@@ -21,6 +20,7 @@
 1 Burning Wish
 1 Rite of Flame
 1 Jeska's Will
+2 Mountain
 2 Manamorphose
 2 Seething Song
 2 Rite of Flame
@@ -29,14 +29,13 @@
 2 Ancient Tomb
 2 Burning Wish
 2 Jeska's Will
-2 Mountain
 3 Manamorphose
 3 Seething Song
 3 Ancient Tomb
 3 Burning Wish
+3 Jeska's Will
 3 Rite of Flame
 3 Ruby Medallion
-3 Jeska's Will
 3 Mountain
 4 Manamorphose
 4 Seething Song
@@ -64,6 +63,7 @@
 9 Mountain
 1 Helm of Awakening
 2 Helm of Awakening
+4 Duress
 1 Grim Tutor
 1 Abrupt Decay
 1 Badlands
@@ -74,7 +74,6 @@
 1 Chrome Mox
 1 Reforge the Soul
 2 Reforge the Soul
-2 Dark Petition
 3 Veil of Summer
 4 Veil of Summer
 1 Shatterskull Smashing
@@ -85,11 +84,11 @@
 1 Mox Opal
 1 Echo of Eons
 2 Gamble
-2 Great Furnace
 2 Act on Impulse
+2 Great Furnace
 2 Mox Opal
 3 Great Furnace
 3 Mox Opal
 3 Act on Impulse
-4 Ancient Tomb
 4 Great Furnace
+4 Ancient Tomb

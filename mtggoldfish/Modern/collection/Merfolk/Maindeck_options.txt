@@ -84,12 +84,12 @@
 4 Darkslick Shores
 1 Fiery Islet
 1 Sygg, River Guide
-1 Clearwater Pathway
-2 Clearwater Pathway
 1 Echoing Truth
 2 Echoing Truth
 1 Deprive
 2 Deprive
+1 Clearwater Pathway
+2 Clearwater Pathway
 3 Phantasmal Image
 1 Minamo, School at Water's Edge
 1 Cursecatcher
@@ -110,20 +110,6 @@
 2 Path to Exile
 3 Path to Exile
 4 Path to Exile
-1 Paradise Mantle
-1 Thassa's Oracle
-1 Puresight Merrow
-2 Paradise Mantle
-2 Thassa's Oracle
-2 Puresight Merrow
-3 Paradise Mantle
-3 Thassa's Oracle
-3 Puresight Merrow
-4 Chalice of the Void
-4 Thassa's Oracle
-4 Puresight Merrow
-4 Smuggler's Copter
-4 Paradise Mantle
 1 The Royal Scions
 1 Lightning Bolt
 1 Kira, Great Glass-Spinner
@@ -138,12 +124,26 @@
 2 Spirebluff Canal
 3 Lightning Bolt
 3 Steam Vents
-3 Spirebluff Canal
 3 Bonecrusher Giant
-4 Steam Vents
+3 Spirebluff Canal
 4 Lightning Bolt
-4 Spirebluff Canal
 4 Bonecrusher Giant
+4 Steam Vents
+4 Spirebluff Canal
+1 Paradise Mantle
+1 Thassa's Oracle
+1 Puresight Merrow
+2 Paradise Mantle
+2 Thassa's Oracle
+2 Puresight Merrow
+3 Paradise Mantle
+3 Thassa's Oracle
+3 Puresight Merrow
+4 Chalice of the Void
+4 Thassa's Oracle
+4 Puresight Merrow
+4 Smuggler's Copter
+4 Paradise Mantle
 1 Relic of Progenitus
 2 Relic of Progenitus
 2 Castle Vantress
