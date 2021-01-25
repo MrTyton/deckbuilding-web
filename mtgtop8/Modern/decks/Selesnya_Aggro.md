@@ -1,0 +1,28 @@
+# Selesnya Aggro
+
+#### [Export MTGO List](../collection/Selesnya%20Aggro/Selesnya%20Aggro.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Arid%20Mesa%0A4%09Bloodbraid%20Elf%0A4%09Brushfire%20Elemental%0A4%09Collected%20Company%0A1%09Forest%0A4%09Giver%20of%20Runes%0A3%09Hexdrinker%0A3%09Kazandu%20Mammoth%0A2%09Kessig%20Wolf%20Run%0A4%09Knight%20of%20the%20Reliquary%0A3%09Lightning%20Bolt%0A3%09Path%20to%20Exile%0A2%09Plains%0A1%09Raging%20Ravine%0A3%09Ranger-Captain%20of%20Eos%0A2%09Sacred%20Foundry%0A1%09Stomping%20Ground%0A2%09Temple%20Garden%0A4%09Voice%20of%20Resurgence%0A4%09Windswept%20Heath%0A4%09Wooded%20Foothills&deckside=4%09Condemn%0A3%09Damping%20Sphere%0A2%09Knight%20of%20Autumn%0A3%09Lightning%20Helix%0A3%09Weather%20the%20Storm)
+# Maindeck
+
+|                                           Creature (29)                                            |                                         Instant (10)                                         |                                          Land (21)                                          |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+|4 [Bloodbraid Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185053)         |4 [Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)|2 [Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)       |
+|4 [Brushfire Elemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491872)    |3 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)      |1 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)          |
+|4 [Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)         |3 [Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)    |2 [Kessig Wolf Run](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233256) |
+|3 [Hexdrinker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464117)             |                                                                                              |2 [Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)          |
+|3 [Kazandu Mammoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491835)        |                                                                                              |1 [Raging Ravine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457142)   |
+|4 [Knight of the Reliquary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189145)|                                                                                              |2 [Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)  |
+|3 [Ranger-Captain of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463970)  |                                                                                              |1 [Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110) |
+|4 [Voice of Resurgence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368951)    |                                                                                              |2 [Temple Garden](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405112)   |
+|                                                                                                    |                                                                                              |4 [Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115) |
+|                                                                                                    |                                                                                              |4 [Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)|
+
+
+# Sideboard
+
+|                                       Artifact (3)                                        |                                        Creature (2)                                         |                                         Instant (10)                                         |
+|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|3 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|2 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)|4 [Condemn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=130528)          |
+|                                                                                           |                                                                                             |3 [Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)  |
+|                                                                                           |                                                                                             |3 [Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)|
+

@@ -90,12 +90,12 @@
 4 Brainstorm
 1 Arid Mesa
 1 Unearth
+1 Blood Crypt
 1 Inquisition of Kozilek
 1 Snow-Covered Mountain
 1 Fatal Push
 1 Cavern of Souls
 1 Lightning Skelemental
-1 Blood Crypt
 1 Thoughtseize
 1 Ball Lightning
 1 Blackcleave Cliffs
@@ -105,13 +105,13 @@
 1 Spark Trooper
 1 Faithless Looting
 1 Snow-Covered Swamp
-2 Cavern of Souls
-2 Snow-Covered Mountain
 2 Bloodstained Mire
+2 Cavern of Souls
+2 Blood Crypt
+2 Snow-Covered Mountain
 2 Unearth
 2 Inquisition of Kozilek
 2 Ball Lightning
-2 Blood Crypt
 2 Thoughtseize
 2 Blackcleave Cliffs
 2 Polluted Delta
@@ -146,10 +146,10 @@
 1 Sorcerous Spyglass
 1 Trinisphere
 1 Pack Rat
+1 Helm of Obedience
 1 Eliminate
 1 Leyline of the Void
 1 Swamp
-1 Helm of Obedience
 1 Chrome Mox
 1 City of Traitors
 1 Archfiend of Ifnir
@@ -157,9 +157,9 @@
 1 Chalice of the Void
 1 Plague Engineer
 2 Swamp
+2 Eliminate
 2 Karn, the Great Creator
 2 Trinisphere
-2 Eliminate
 2 Opposition Agent
 2 Pack Rat
 2 Leyline of the Void
