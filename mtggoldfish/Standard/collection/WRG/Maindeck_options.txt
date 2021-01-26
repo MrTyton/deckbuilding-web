@@ -23,6 +23,10 @@
 1 Scavenging Ooze
 1 Luminous Broodmoth
 1 Ram Through
+1 Embercleave
+2 Embercleave
+3 Embercleave
+3 Plains
 1 Thrashing Brontodon
 1 Banishing Light
 1 Fire Prophecy
@@ -32,24 +36,23 @@
 2 Scavenging Ooze
 1 Llanowar Visionary
 2 Llanowar Visionary
+1 Murasa Rootgrazer
+1 Felidar Retreat
 1 Cultivate
 1 Bronzehide Lion
 1 Beanstalk Giant
 1 Wolfwillow Haven
-1 Felidar Retreat
 1 Tajuru Blightblade
 1 Haktos the Unscarred
-1 Murasa Rootgrazer
+2 Murasa Rootgrazer
+2 Felidar Retreat
 2 Bronzehide Lion
 2 Beanstalk Giant
 2 Wolfwillow Haven
-2 Ram Through
 2 Haktos the Unscarred
+2 Ram Through
 2 Tajuru Blightblade
 2 Kargan Intimidator
-2 Felidar Retreat
-2 Murasa Rootgrazer
-3 Plains
 3 Bronzehide Lion
 3 Beanstalk Giant
 3 Tajuru Blightblade
@@ -60,26 +63,23 @@
 2 Edgewall Innkeeper
 3 Edgewall Innkeeper
 4 Edgewall Innkeeper
-1 Embercleave
 1 Seasoned Hallowblade
 1 Tajuru Paragon
 1 Radha, Heart of Keld
 2 Seasoned Hallowblade
-2 Embercleave
 2 Tajuru Paragon
 2 Radha, Heart of Keld
 3 Tajuru Paragon
-3 Embercleave
 3 Seasoned Hallowblade
 3 Tangled Florahedron
 4 Tangled Florahedron
 4 Tajuru Paragon
 1 Turntimber Symbiosis
-1 Swarm Shambler
 1 Primal Might
 1 Lavabrink Venturer
-2 Emeria's Call
+1 Swarm Shambler
 2 Primal Might
+2 Emeria's Call
 2 Swarm Shambler
 3 Swarm Shambler
 4 Swarm Shambler
@@ -87,3 +87,36 @@
 2 Garruk's Harbinger
 3 Garruk's Harbinger
 4 Garruk's Harbinger
+1 Temple of Triumph
+1 Igneous Cur
+1 Pack Leader
+1 Alpine Houndmaster
+1 Bolt Hound
+1 Gingerbrute
+1 Alpine Watchdog
+2 Igneous Cur
+2 Alpine Watchdog
+2 Alpine Houndmaster
+2 Pack Leader
+2 Gingerbrute
+2 Bolt Hound
+2 Temple of Triumph
+3 Mountain
+3 Pack Leader
+3 Bolt Hound
+3 Alpine Houndmaster
+3 Temple of Triumph
+4 Embercleave
+4 Plains
+4 Mountain
+4 Temple of Triumph
+4 Alpine Houndmaster
+5 Mountain
+5 Plains
+6 Mountain
+6 Plains
+7 Plains
+7 Mountain
+8 Plains
+8 Mountain
+4 Pack Leader

@@ -61,30 +61,29 @@
 3 Elder Gargaroth
 1 Vivien, Monsters' Advocate
 2 Vivien, Monsters' Advocate
-1 Mazemind Tome
-2 Mazemind Tome
-3 Mazemind Tome
 1 Scorching Dragonfire
 1 Ugin, the Spirit Dragon
+1 Mazemind Tome
 1 Skyclave Apparition
+2 Mazemind Tome
 2 Skyclave Apparition
 3 Skyclave Apparition
+3 Mazemind Tome
 4 Mazemind Tome
 4 Skyclave Apparition
 4 Elspeth Conquers Death
 2 Shatterskull Smashing
 5 Mountain
 1 Crawling Barrens
-1 Banishing Light
 2 Bloodchief's Thirst
 1 Wolfwillow Haven
 1 Chevill, Bane of Monsters
 1 Treacherous Blessing
-1 Skull Prophet
 1 Acquisitions Expert
 1 Mire Triton
 1 Omen of the Dead
 1 Lotus Cobra
+1 Skull Prophet
 1 Doom Foretold
 1 Acolyte of Affliction
 2 Acquisitions Expert
@@ -124,66 +123,7 @@
 4 Gilded Goose
 5 Forest
 6 Forest
-1 Daxos, Blessed by the Sun
-1 Idyllic Grange
-1 Shadowspear
-1 Felidar Retreat
-1 Runed Halo
-1 Stonecoil Serpent
-1 Heliod's Intervention
-1 Archon of Sun's Grace
-1 Archon of Absolution
-1 Arcanist's Owl
-1 Journey to Oblivion
-1 Heliod, Sun-Crowned
-2 Stonecoil Serpent
-2 Banishing Light
-2 Runed Halo
-2 Felidar Retreat
-2 Archon of Sun's Grace
-2 Idyllic Grange
-2 Arcanist's Owl
-2 Archon of Absolution
-2 Journey to Oblivion
-3 Stonecoil Serpent
-3 Banishing Light
-3 Runed Halo
-3 Castle Ardenvale
-3 Archon of Absolution
-3 Arcanist's Owl
-3 Journey to Oblivion
-3 Idyllic Grange
-4 Banishing Light
-4 Castle Ardenvale
-4 Runed Halo
-4 Arcanist's Owl
-4 Idyllic Grange
-4 Journey to Oblivion
-4 Archon of Absolution
-4 Stonecoil Serpent
-6 Plains
-7 Plains
-8 Plains
-9 Plains
-10 Plains
-11 Plains
-12 Plains
-13 Plains
-14 Plains
-15 Plains
-16 Plains
-17 Plains
-18 Plains
-19 Plains
-20 Plains
-21 Plains
-22 Plains
-23 Plains
-24 Plains
-25 Plains
-26 Plains
-27 Plains
-28 Plains
+1 Banishing Light
 3 Lukka, Coppercoat Outcast
 1 Hagra Mauling
 1 Agonizing Remorse
@@ -203,30 +143,30 @@
 2 Thrashing Brontodon
 2 Duress
 2 Garruk, Cursed Huntsman
+3 Yasharn, Implacable Earth
 3 Duress
 3 Temple of Malady
-3 Yasharn, Implacable Earth
 4 Duress
 1 Island
 1 Savai Triome
 1 Dismal Backwater
-1 Bloodfell Caves
 1 Ketria Triome
 1 Thirst for Meaning
 1 Fae of Wishes
-1 Thornwood Falls
+1 Sanctum of Calm Waters
+1 Bloodfell Caves
 1 Jungle Hollow
+1 Thornwood Falls
+1 Sanctum of Tranquil Light
 1 Sanctum of Shattered Heights
 1 Sanctum of All
-1 Sanctum of Calm Waters
 1 Sanctum of Stone Fangs
+1 Riverglide Pathway
 1 Clearwater Pathway
-1 Sanctum of Tranquil Light
 1 Zagoth Triome
 1 Cragcrown Pathway
 1 Wind-Scarred Crag
 1 Tranquil Cove
-1 Riverglide Pathway
 1 Sanctum of Fruitful Harvest
 2 Tranquil Cove
 2 Dismal Backwater
@@ -274,39 +214,39 @@
 14 Island
 15 Island
 16 Island
+1 Silundi Vision
 1 Field of Ruin
+1 Hypnotic Sprite
 1 Rewind
 1 Jwari Disruption
 1 Essence Scatter
 1 Sublime Epiphany
-1 Silundi Vision
 1 Lofty Denial
 1 Gadwick, the Wizened
 1 Kiora Bests the Sea God
 1 Rain of Revelation
 1 Neutralize
-1 Hypnotic Sprite
 1 Castle Vantress
 1 Shark Typhoon
 1 Brazen Borrower
+2 Hypnotic Sprite
 2 Castle Vantress
+2 Gadwick, the Wizened
 2 Essence Scatter
 2 Rewind
-2 Gadwick, the Wizened
 2 Rain of Revelation
 2 Brazen Borrower
 2 Neutralize
 2 Shark Typhoon
-2 Hypnotic Sprite
-3 Neutralize
-3 Castle Vantress
 3 Rewind
+3 Castle Vantress
+3 Neutralize
 3 Shark Typhoon
 3 Brazen Borrower
-4 Neutralize
 4 Castle Vantress
-4 Shark Typhoon
 4 Rewind
+4 Neutralize
+4 Shark Typhoon
 4 Brazen Borrower
 1 Solemn Simulacrum
 1 Storm's Wrath
@@ -320,8 +260,8 @@
 2 Scorching Dragonfire
 3 Crawling Barrens
 3 Temple of Triumph
-3 Solemn Simulacrum
 3 Ugin, the Spirit Dragon
+3 Solemn Simulacrum
 3 Storm's Wrath
 3 Bonecrusher Giant
 3 Shatterskull Smashing
@@ -329,20 +269,20 @@
 4 Ugin, the Spirit Dragon
 6 Mountain
 7 Mountain
-1 Teferi's Tutelage
 1 Evolving Wilds
+1 Teferi's Tutelage
 1 Ruin Crab
 1 Merfolk Secretkeeper
-1 Anticognition
 1 Didn't Say Please
 1 Into the Story
+1 Anticognition
 1 Negate
 1 Stern Dismissal
 1 Relic Golem
 2 Didn't Say Please
-2 Teferi's Tutelage
-2 Ruin Crab
 2 Evolving Wilds
+2 Ruin Crab
+2 Teferi's Tutelage
 2 Merfolk Secretkeeper
 2 Into the Story
 2 Negate
@@ -350,19 +290,19 @@
 2 Relic Golem
 2 Stern Dismissal
 3 Didn't Say Please
-3 Stern Dismissal
-3 Teferi's Tutelage
 3 Evolving Wilds
 3 Merfolk Secretkeeper
+3 Teferi's Tutelage
 3 Anticognition
 3 Ruin Crab
+3 Stern Dismissal
 3 Relic Golem
 3 Into the Story
 4 Didn't Say Please
-4 Evolving Wilds
-4 Teferi's Tutelage
 4 Merfolk Secretkeeper
-4 Relic Golem
+4 Teferi's Tutelage
+4 Evolving Wilds
 4 Ruin Crab
+4 Relic Golem
 17 Island
 18 Island

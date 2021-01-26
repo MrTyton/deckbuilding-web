@@ -37,6 +37,6 @@
 |                    1|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)|                    3|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)  |
 |                    2|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)|                    4|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)  |
 |                    3|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)|                    4|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
-|                     |                                                                                              |                    1|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|
 |                     |                                                                                              |                    4|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)         |
+|                     |                                                                                              |                    1|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|
 

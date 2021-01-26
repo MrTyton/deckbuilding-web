@@ -17,116 +17,6 @@
 4 Murderous Rider
 4 Samut, Voice of Dissent
 4 Satyr Wayfinder
-1 Soaring Thought-Thief
-1 Thieves' Guild Enforcer
-1 Into the Story
-1 Drown in the Loch
-1 Thoughtseize
-1 Urborg, Tomb of Yawgmoth
-1 Eliminate
-1 Cling to Dust
-1 Clearwater Pathway
-1 Fatal Push
-1 Watery Grave
-2 Soaring Thought-Thief
-2 Into the Story
-2 Drown in the Loch
-2 Thieves' Guild Enforcer
-2 Fatal Push
-2 Thoughtseize
-2 Watery Grave
-2 Clearwater Pathway
-3 Soaring Thought-Thief
-3 Drown in the Loch
-3 Thieves' Guild Enforcer
-3 Clearwater Pathway
-3 Thoughtseize
-3 Watery Grave
-4 Drown in the Loch
-4 Soaring Thought-Thief
-4 Thieves' Guild Enforcer
-4 Thoughtseize
-4 Clearwater Pathway
-4 Watery Grave
-4 Cathartic Reunion
-1 Mystical Dispute
-1 Agadeem's Awakening
-3 Fatal Push
-1 Island
-1 Botanical Sanctum
-1 Breeding Pool
-2 Botanical Sanctum
-3 Botanical Sanctum
-4 Botanical Sanctum
-2 Mystical Dispute
-1 Llanowar Elves
-1 Elvish Mystic
-2 Llanowar Elves
-2 Elvish Mystic
-4 Stomping Ground
-1 Bonders' Enclave
-1 Elder Gargaroth
-1 Spirebluff Canal
-1 Scavenging Ooze
-1 Questing Beast
-1 Lovestruck Beast
-1 Vivien, Arkbow Ranger
-1 Cragcrown Pathway
-1 Bonecrusher Giant
-1 Rhonas the Indomitable
-2 Bonders' Enclave
-2 Questing Beast
-2 Breeding Pool
-2 Elder Gargaroth
-2 Rhonas the Indomitable
-2 Scavenging Ooze
-2 Bonecrusher Giant
-2 Vivien, Arkbow Ranger
-2 Spirebluff Canal
-2 Lovestruck Beast
-2 Cragcrown Pathway
-3 Scavenging Ooze
-3 Breeding Pool
-3 Elder Gargaroth
-3 Questing Beast
-3 Llanowar Elves
-3 Lovestruck Beast
-3 Elvish Mystic
-3 Cragcrown Pathway
-3 Bonecrusher Giant
-3 Vivien, Arkbow Ranger
-3 Spirebluff Canal
-4 Elder Gargaroth
-4 Scavenging Ooze
-4 Questing Beast
-4 Lovestruck Beast
-4 Elvish Mystic
-4 Vivien, Arkbow Ranger
-4 Spirebluff Canal
-4 Cragcrown Pathway
-4 Bonecrusher Giant
-4 Breeding Pool
-4 Llanowar Elves
-1 Anticognition
-1 Fabled Passage
-1 Drowned Catacomb
-1 Castle Locthwain
-1 Nighthawk Scavenger
-1 Brazen Borrower
-2 Eliminate
-2 Fabled Passage
-2 Island
-2 Drowned Catacomb
-2 Nighthawk Scavenger
-2 Brazen Borrower
-2 Swamp
-3 Brazen Borrower
-3 Swamp
-3 Island
-3 Drowned Catacomb
-4 Drowned Catacomb
-4 Brazen Borrower
-4 Fatal Push
 1 Mutavault
 2 Mutavault
 3 Mutavault
@@ -182,6 +72,121 @@
 4 Caves of Koilos
 4 Concealed Courtyard
 4 Mutavault
+1 Soaring Thought-Thief
+1 Thieves' Guild Enforcer
+1 Into the Story
+1 Drown in the Loch
+1 Thoughtseize
+1 Urborg, Tomb of Yawgmoth
+1 Eliminate
+1 Cling to Dust
+1 Clearwater Pathway
+1 Fatal Push
+1 Watery Grave
+2 Soaring Thought-Thief
+2 Thieves' Guild Enforcer
+2 Into the Story
+2 Drown in the Loch
+2 Fatal Push
+2 Thoughtseize
+2 Watery Grave
+2 Clearwater Pathway
+3 Soaring Thought-Thief
+3 Drown in the Loch
+3 Thieves' Guild Enforcer
+3 Clearwater Pathway
+3 Thoughtseize
+3 Watery Grave
+4 Drown in the Loch
+4 Soaring Thought-Thief
+4 Thieves' Guild Enforcer
+4 Thoughtseize
+4 Clearwater Pathway
+4 Watery Grave
+1 Plains
+1 Dragon Hunter
+2 Dragon Hunter
+3 Dragon Hunter
+4 Dragon Hunter
+4 Cathartic Reunion
+1 Agadeem's Awakening
+1 Mystical Dispute
+3 Fatal Push
+1 Island
+1 Botanical Sanctum
+1 Breeding Pool
+2 Botanical Sanctum
+3 Botanical Sanctum
+4 Botanical Sanctum
+2 Mystical Dispute
+1 Llanowar Elves
+1 Elvish Mystic
+2 Llanowar Elves
+2 Elvish Mystic
+4 Stomping Ground
+1 Elder Gargaroth
+1 Bonders' Enclave
+1 Spirebluff Canal
+1 Scavenging Ooze
+1 Questing Beast
+1 Lovestruck Beast
+1 Vivien, Arkbow Ranger
+1 Cragcrown Pathway
+1 Bonecrusher Giant
+1 Rhonas the Indomitable
+2 Bonders' Enclave
+2 Questing Beast
+2 Breeding Pool
+2 Elder Gargaroth
+2 Rhonas the Indomitable
+2 Scavenging Ooze
+2 Bonecrusher Giant
+2 Vivien, Arkbow Ranger
+2 Spirebluff Canal
+2 Lovestruck Beast
+2 Cragcrown Pathway
+3 Scavenging Ooze
+3 Breeding Pool
+3 Elder Gargaroth
+3 Questing Beast
+3 Llanowar Elves
+3 Lovestruck Beast
+3 Elvish Mystic
+3 Cragcrown Pathway
+3 Bonecrusher Giant
+3 Vivien, Arkbow Ranger
+3 Spirebluff Canal
+4 Elder Gargaroth
+4 Scavenging Ooze
+4 Lovestruck Beast
+4 Elvish Mystic
+4 Vivien, Arkbow Ranger
+4 Spirebluff Canal
+4 Cragcrown Pathway
+4 Bonecrusher Giant
+4 Breeding Pool
+4 Questing Beast
+4 Llanowar Elves
+1 Anticognition
+1 Nighthawk Scavenger
+1 Fabled Passage
+1 Drowned Catacomb
+1 Castle Locthwain
+1 Brazen Borrower
+2 Eliminate
+2 Nighthawk Scavenger
+2 Fabled Passage
+2 Island
+2 Drowned Catacomb
+2 Brazen Borrower
+2 Swamp
+3 Brazen Borrower
+3 Swamp
+3 Island
+3 Drowned Catacomb
+4 Drowned Catacomb
+4 Brazen Borrower
+4 Fatal Push
 1 Merfolk Windrobber
 1 Deathrite Shaman
 2 Merfolk Windrobber
@@ -204,11 +209,6 @@
 2 Sea Gate Stormcaller
 2 Chart a Course
 2 Cling to Dust
-1 Plains
-1 Dragon Hunter
-2 Dragon Hunter
-3 Dragon Hunter
-4 Dragon Hunter
 1 Mardu Shadowspear
 2 Mardu Shadowspear
 3 Wishclaw Talisman
@@ -226,22 +226,21 @@
 1 Temple Garden
 1 Branchloft Pathway
 1 Brimaz, King of Oreskos
-1 Conclave Tribunal
 1 Castle Ardenvale
+1 Conclave Tribunal
 1 Legion's Landing
 1 Saproling Migration
 1 Elspeth, Sun's Champion
+1 Trostani Discordant
 1 Huatli, Radiant Champion
 1 Appeal / Authority
 1 Anointed Procession
-1 Trostani Discordant
 1 Oath of Gideon
 1 Raise the Alarm
 1 Nissa, Voice of Zendikar
 2 Omen of the Sun
 2 Gideon, Ally of Zendikar
 2 Voice of Resurgence
-2 Sunpetal Grove
 2 Branchloft Pathway
 2 Brimaz, King of Oreskos
 2 Temple Garden
@@ -249,19 +248,20 @@
 2 Saproling Migration
 2 Legion's Landing
 2 Castle Ardenvale
+2 Trostani Discordant
+2 Sunpetal Grove
 2 Plains
 2 Raise the Alarm
 2 Forest
-2 Trostani Discordant
 2 Nissa, Voice of Zendikar
 2 Anointed Procession
 3 Omen of the Sun
-3 Sunpetal Grove
-3 Legion's Landing
 3 Temple Garden
-3 Branchloft Pathway
 3 Saproling Migration
+3 Branchloft Pathway
 3 Conclave Tribunal
+3 Legion's Landing
+3 Sunpetal Grove
 3 Voice of Resurgence
 3 Anointed Procession
 3 Nissa, Voice of Zendikar
@@ -269,54 +269,54 @@
 3 Raise the Alarm
 3 Forest
 4 Voice of Resurgence
-4 Sunpetal Grove
 4 Branchloft Pathway
 4 Saproling Migration
 4 Temple Garden
+4 Sunpetal Grove
 4 Nissa, Voice of Zendikar
 4 Raise the Alarm
 4 Plains
 3 Mystical Dispute
 4 Mystical Dispute
-1 Zulaport Cutthroat
 1 Gilded Goose
-1 Mayhem Devil
-1 Priest of Forgotten Gods
-1 Woe Strider
 1 Bolas's Citadel
 1 Catacomb Sifter
 1 Llanowar Wastes
+1 Zulaport Cutthroat
 1 Collected Company
+1 Woe Strider
 1 Blisterpod
+1 Priest of Forgotten Gods
+1 Mayhem Devil
 2 Gilded Goose
-2 Priest of Forgotten Gods
-2 Woe Strider
 2 Bolas's Citadel
-2 Mayhem Devil
 2 Collected Company
+2 Priest of Forgotten Gods
+2 Mayhem Devil
 2 Blisterpod
+2 Woe Strider
 2 Zulaport Cutthroat
 2 Catacomb Sifter
 2 Llanowar Wastes
 3 Collected Company
 3 Gilded Goose
-3 Woe Strider
-3 Mayhem Devil
-3 Priest of Forgotten Gods
 3 Blisterpod
+3 Mayhem Devil
 3 Catacomb Sifter
 3 Llanowar Wastes
+3 Woe Strider
 3 Zulaport Cutthroat
 3 Bolas's Citadel
+3 Priest of Forgotten Gods
 4 Collected Company
 4 Gilded Goose
-4 Mayhem Devil
 4 Priest of Forgotten Gods
 4 Catacomb Sifter
 4 Blisterpod
 4 Woe Strider
 4 Zulaport Cutthroat
 4 Bolas's Citadel
+4 Mayhem Devil
 1 Of One Mind
 1 Heartless Act
 1 Zagoth Triome

@@ -1,9 +1,10 @@
+4 Skullcrack
+3 Arid Mesa
+4 Arid Mesa
 4 Mountain
 5 Mountain
 6 Mountain
 7 Mountain
-1 Light Up the Stage
-2 Light Up the Stage
 8 Mountain
 9 Mountain
 10 Mountain
@@ -13,10 +14,12 @@
 14 Mountain
 15 Mountain
 16 Mountain
-3 Arid Mesa
-4 Arid Mesa
+4 Searing Blaze
+1 Light Up the Stage
+2 Light Up the Stage
 3 Light Up the Stage
 4 Light Up the Stage
+1 Shard Volley
 1 Blood Moon
 2 Blood Moon
 1 Bomat Courier
@@ -27,7 +30,9 @@
 1 Seasoned Pyromancer
 1 Firebolt
 1 Soul-Scar Mage
+1 Blast Zone
 2 Seasoned Pyromancer
+2 Blast Zone
 2 Firebolt
 2 Lava Dart
 2 Soul-Scar Mage
@@ -40,23 +45,17 @@
 4 Firebolt
 4 Blood Moon
 4 Soul-Scar Mage
-4 Searing Blaze
+3 Sacred Foundry
+3 Bloodstained Mire
 3 Bonecrusher Giant
 4 Bonecrusher Giant
 3 Bomat Courier
 4 Bomat Courier
-1 Blast Zone
-2 Blast Zone
+1 Flame Slash
 4 Lava Dart
 3 Lightning Helix
-1 Shard Volley
-4 Skullcrack
 17 Mountain
-2 Fiery Islet
-3 Sacred Foundry
-1 Flame Slash
 3 Wooded Foothills
-3 Bloodstained Mire
 1 Wayward Guide-Beast
 2 Wayward Guide-Beast
 3 Wayward Guide-Beast
@@ -77,7 +76,6 @@
 4 Copperline Gorge
 4 Atarka's Command
 4 Wooded Foothills
-1 Ramunap Ruins
 1 Castle Embereth
 2 Castle Embereth
 1 Rampaging Ferocidon
@@ -94,6 +92,7 @@
 2 Forgotten Cave
 3 Flame Slash
 4 Flame Slash
+2 Fiery Islet
 3 Snow-Covered Mountain
 4 Lightning Helix
 1 Scalding Tarn

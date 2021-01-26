@@ -2,6 +2,7 @@
 1 Snow-Covered Plains
 1 Scattered Groves
 1 Arboreal Grazer
+1 Baneslayer Angel
 1 Solemn Simulacrum
 1 Search for Tomorrow
 1 Felidar Retreat
@@ -9,7 +10,6 @@
 1 Temple Garden
 1 Windswept Heath
 1 Wooded Foothills
-1 Baneslayer Angel
 1 Selesnya Sanctuary
 1 Plains
 2 Arboreal Grazer
@@ -20,6 +20,7 @@
 2 Windswept Heath
 2 Wooded Foothills
 3 Field of the Dead
+3 Felidar Retreat
 3 Search for Tomorrow
 3 Explore
 3 Snow-Covered Forest
@@ -27,7 +28,6 @@
 3 Arboreal Grazer
 3 Solemn Simulacrum
 3 Wurmcoil Engine
-3 Felidar Retreat
 3 Windswept Heath
 3 Temple Garden
 3 Wooded Foothills
@@ -63,7 +63,6 @@
 1 Aether Spellbomb
 1 Engineered Explosives
 1 Waterlogged Grove
-2 Erayo, Soratami Ascendant
 2 Repeal
 2 Engineered Explosives
 2 Mox Amber
@@ -74,26 +73,27 @@
 2 Emry, Lurker of the Loch
 2 Mishra's Bauble
 2 Teferi, Time Raveler
+2 Erayo, Soratami Ascendant
 2 Waterlogged Grove
-3 Mox Amber
 3 Teferi, Time Raveler
+3 Mox Amber
 3 Repeal
 3 Flooded Strand
-3 Erayo, Soratami Ascendant
 3 Thought Scour
 3 Polluted Delta
 3 Unearth
 3 Mishra's Bauble
 3 Monastery Mentor
+3 Erayo, Soratami Ascendant
 3 Emry, Lurker of the Loch
 4 Mox Amber
-4 Erayo, Soratami Ascendant
 4 Flooded Strand
 4 Repeal
 4 Polluted Delta
 4 Monastery Mentor
 4 Teferi, Time Raveler
 4 Mishra's Bauble
+4 Erayo, Soratami Ascendant
 4 Emry, Lurker of the Loch
 1 Mountain
 1 Lightning Bolt
@@ -188,8 +188,8 @@
 2 Mystic Sanctuary
 2 Ice-Fang Coatl
 2 Field of Ruin
-3 Mystic Sanctuary
 3 Wilderness Reclamation
+3 Mystic Sanctuary
 3 Snow-Covered Island
 3 Archmage's Charm
 3 Remand
@@ -202,9 +202,9 @@
 3 Uro, Titan of Nature's Wrath
 4 Growth Spiral
 4 Snow-Covered Island
+4 Mystic Sanctuary
 4 Archmage's Charm
 4 Cryptic Command
-4 Mystic Sanctuary
 4 Misty Rainforest
 5 Snow-Covered Island
 6 Snow-Covered Island
@@ -250,8 +250,8 @@
 3 Blood Moon
 3 Swamp
 3 Kroxa, Titan of Death's Hunger
-4 Blackcleave Cliffs
 4 Kroxa, Titan of Death's Hunger
+4 Blackcleave Cliffs
 4 Blood Moon
 4 Thoughtseize
 4 Bloodstained Mire
