@@ -1,85 +1,67 @@
-1 Terminus
 2 Terminus
 3 Terminus
 4 Mystic Sanctuary
 4 Terminus
-1 Celestial Colonnade
-2 Supreme Verdict
-6 Island
+3 Snapcaster Mage
+1 Remand
 1 Logic Knot
+2 Polluted Delta
+1 Celestial Colonnade
+4 Field of Ruin
 1 Sea Gate Restoration
 4 Force of Negation
-1 Snow-Covered Island
 1 Frantic Inventory
 2 Frantic Inventory
 3 Frantic Inventory
 4 Frantic Inventory
+1 Silundi Vision
+1 Snow-Covered Island
 1 Snow-Covered Plains
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
-2 Polluted Delta
 5 Snow-Covered Island
-1 Remand
-1 Silundi Vision
+6 Island
+1 Oust
 2 Celestial Colonnade
 3 Jace, the Mind Sculptor
-1 Oust
-1 Delay
-2 Delay
-3 Delay
-4 Delay
-1 Aether Gust
-2 Aether Gust
+1 Mystic Gate
 1 Stoneforge Mystic
 1 Batterskull
 1 Sword of Feast and Famine
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-1 Mystic Gate
-2 Oust
 3 Shark Typhoon
+2 Oust
+2 Remand
+1 Vendilion Clique
 2 Spell Snare
+1 Aether Gust
+3 Mana Leak
 1 Omen of the Sea
 2 Omen of the Sea
-2 Remand
-1 Skyclave Apparition
-2 Skyclave Apparition
+4 Snapcaster Mage
 3 Misty Rainforest
-3 Polluted Delta
+1 Delay
+2 Delay
+2 Aether Gust
+3 Delay
+4 Delay
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Hallowed Fountain
-1 Vendilion Clique
-1 Glacial Fortress
-4 Snapcaster Mage
-3 Mana Leak
-1 Castle Ardenvale
-4 Polluted Delta
-2 Vendilion Clique
-2 Glacial Fortress
-1 Prismatic Vista
 1 Timely Reinforcements
+1 Castle Ardenvale
+2 Vendilion Clique
+1 Prismatic Vista
+3 Polluted Delta
 4 Archmage's Charm
-1 Search for Azcanta
-1 Peek
-2 Peek
 1 Condemn
-1 Counterbalance
-1 Entreat the Angels
-2 Condemn
-2 Counterbalance
-3 Omen of the Sea
-3 Counterbalance
-4 Omen of the Sea
-4 Counterbalance
-1 Spell Pierce
-3 Celestial Colonnade
 1 Raugrin Triome
+1 Lightning Bolt
 1 Steam Vents
 1 Mountain
-1 Lightning Bolt
 1 Lightning Helix
 2 Lightning Bolt
 2 Lightning Helix
@@ -87,14 +69,27 @@
 3 Scalding Tarn
 4 Lightning Bolt
 4 Scalding Tarn
+1 Search for Azcanta
+1 Skyclave Apparition
+2 Skyclave Apparition
+1 Glacial Fortress
+1 Peek
+2 Peek
+1 Counterbalance
+1 Entreat the Angels
+2 Condemn
+2 Counterbalance
+3 Omen of the Sea
+3 Counterbalance
+4 Omen of the Sea
+4 Polluted Delta
+4 Counterbalance
+1 Spell Pierce
+1 Spell Queller
+2 Steam Vents
+2 Spell Queller
+3 Celestial Colonnade
 4 Mana Leak
-1 Godless Shrine
-1 Fatal Push
-1 Swamp
-1 Watery Grave
-2 Watery Grave
-2 Fatal Push
-3 Fatal Push
 1 Wall of Omens
 1 Castle Vantress
 1 Confounding Conundrum
@@ -103,6 +98,7 @@
 1 Elspeth Conquers Death
 2 Wall of Omens
 2 Confounding Conundrum
+2 Glacial Fortress
 3 Skyclave Apparition
 3 Wall of Omens
 1 Tale's End
@@ -110,30 +106,24 @@
 1 Detention Sphere
 1 Dovin's Veto
 2 Dovin's Veto
-3 Supreme Verdict
 1 Arid Mesa
 1 Sacred Foundry
 1 Brazen Borrower
 1 Shadow of Doubt
 2 Brazen Borrower
 3 Lightning Helix
-1 Drowned Catacomb
-1 Inquisition of Kozilek
-1 Thoughtseize
-1 Academy Ruins
-1 Engineered Explosives
-1 Lingering Souls
-2 Thoughtseize
-2 Lingering Souls
-2 Drowned Catacomb
-2 Inquisition of Kozilek
-3 Inquisition of Kozilek
-3 Lingering Souls
-3 Drowned Catacomb
-4 Inquisition of Kozilek
+1 Mishra's Bauble
+2 Mishra's Bauble
+2 Logic Knot
+3 Mishra's Bauble
+4 Mishra's Bauble
 1 Hieroglyphic Illumination
 3 Teferi, Hero of Dominaria
 4 Misty Rainforest
+1 Geist of Saint Traft
+2 Geist of Saint Traft
+3 Remand
+4 Remand
 1 Tectonic Edge
 1 Rest in Peace
 2 Prismatic Vista
@@ -145,17 +135,6 @@
 2 Silundi Vision
 3 Tectonic Edge
 4 Tectonic Edge
-1 Mishra's Bauble
-2 Mishra's Bauble
-2 Logic Knot
-3 Mishra's Bauble
-4 Mishra's Bauble
-1 Sword of Fire and Ice
-1 Spell Queller
-2 Steam Vents
-2 Spell Queller
-3 Spell Queller
-4 Spell Queller
 1 Elspeth, Sun's Nemesis
 1 Karn, the Great Creator
 2 Karn, the Great Creator
@@ -163,17 +142,6 @@
 3 Spell Snare
 4 Narset, Parter of Veils
 7 Island
-1 Kaya, Orzhov Usurper
-1 Drown in the Loch
-1 Cling to Dust
-1 Esper Charm
-1 Sunken Ruins
-2 Cling to Dust
-2 Drown in the Loch
-2 Esper Charm
-3 Cling to Dust
-3 Drown in the Loch
-3 Esper Charm
-4 Drown in the Loch
-4 Esper Charm
-4 Cling to Dust
+1 Sword of Fire and Ice
+3 Spell Queller
+4 Spell Queller

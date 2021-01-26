@@ -7,20 +7,20 @@
 1 Irencrag Feat
 1 Spikefield Hazard
 2 Bala Ged Recovery
-2 Valakut Awakening
 2 Manamorphose
+2 Valakut Awakening
 2 Irencrag Feat
 2 Recross the Paths
 2 Desperate Ritual
 3 Valakut Awakening
-3 Shatterskull Smashing
 3 Manamorphose
 3 Desperate Ritual
 3 Recross the Paths
+3 Shatterskull Smashing
 4 Valakut Awakening
-4 Shatterskull Smashing
 4 Manamorphose
 4 Recross the Paths
+4 Shatterskull Smashing
 4 Desperate Ritual
 1 Blood Moon
 2 Blood Moon
@@ -95,10 +95,10 @@
 3 Oust
 3 Sacred Foundry
 3 Marsh Flats
-3 Silence
 3 Nine Lives
 3 Solemnity
 3 Lotus Bloom
+3 Silence
 3 Enduring Ideal
 4 Plains
 4 Marsh Flats
@@ -117,16 +117,24 @@
 1 Blackbloom Rogue
 1 Unburial Rites
 1 Brazen Borrower
-2 Glasspool Mimic
 2 Brazen Borrower
+2 Glasspool Mimic
 2 Blackbloom Rogue
 3 Glasspool Mimic
-3 Blackbloom Rogue
 3 Brazen Borrower
+3 Blackbloom Rogue
 4 Glasspool Mimic
 4 Brazen Borrower
 4 Blackbloom Rogue
 1 Steam Vents
+1 Scalding Tarn
+1 Teferi, Time Raveler
+2 Scalding Tarn
+2 Teferi, Time Raveler
+3 Teferi, Time Raveler
+3 Scalding Tarn
+4 Teferi, Time Raveler
+4 Scalding Tarn
 1 Underworld Breach
 1 Snow-Covered Island
 1 Flooded Strand
@@ -134,6 +142,46 @@
 2 Snow-Covered Island
 3 Flooded Strand
 4 Flooded Strand
+1 Snow-Covered Mountain
+1 Grinding Station
+1 Sai, Master Thopterist
+1 Emry, Lurker of the Loch
+1 Mox Amber
+1 Engineered Explosives
+1 Minamo, School at Water's Edge
+1 Lurrus of the Dream-Den
+1 Metallic Rebuke
+1 Hallowed Fountain
+1 Chromatic Star
+1 Fiery Islet
+1 Mishra's Bauble
+1 Snow-Covered Plains
+2 Grinding Station
+2 Lurrus of the Dream-Den
+2 Emry, Lurker of the Loch
+2 Mox Amber
+2 Engineered Explosives
+2 Snow-Covered Plains
+2 Mishra's Bauble
+2 Underworld Breach
+2 Chromatic Star
+2 Metallic Rebuke
+3 Grinding Station
+3 Underworld Breach
+3 Lurrus of the Dream-Den
+3 Emry, Lurker of the Loch
+3 Mox Amber
+3 Engineered Explosives
+3 Chromatic Star
+3 Metallic Rebuke
+3 Mishra's Bauble
+4 Grinding Station
+4 Underworld Breach
+4 Emry, Lurker of the Loch
+4 Metallic Rebuke
+4 Mox Amber
+4 Chromatic Star
+4 Mishra's Bauble
 1 Lotus Field
 1 Silundi Vision
 1 Polluted Delta
@@ -187,14 +235,6 @@
 4 Psychic Puppetry
 4 Dream's Grip
 1 Mass Hysteria
-1 Scalding Tarn
-1 Teferi, Time Raveler
-2 Scalding Tarn
-2 Teferi, Time Raveler
-3 Teferi, Time Raveler
-3 Scalding Tarn
-4 Teferi, Time Raveler
-4 Scalding Tarn
 1 Delay
 1 Opt
 1 Izzet Charm
@@ -213,9 +253,9 @@
 2 Delay
 2 Emrakul, the Aeons Torn
 2 Opt
-2 Wooded Foothills
 2 Dwarven Mine
 2 Izzet Charm
+2 Wooded Foothills
 2 Mountain
 2 Bloodstained Mire
 2 Remand
@@ -234,12 +274,12 @@
 3 Polymorph
 3 Force of Negation
 3 Mass Hysteria
-4 Remand
 4 Arid Mesa
 4 Wooded Foothills
 4 Polymorph
 4 Mass Hysteria
 4 Transmogrify
+4 Remand
 4 Lightning Bolt
 1 Vizier of Remedies
 1 Tangled Florahedron
@@ -257,45 +297,5 @@
 4 Tangled Florahedron
 4 Karn, the Great Creator
 4 Devoted Druid
-1 Snow-Covered Mountain
-1 Grinding Station
-1 Sai, Master Thopterist
-1 Minamo, School at Water's Edge
-1 Emry, Lurker of the Loch
-1 Mox Amber
-1 Engineered Explosives
-1 Lurrus of the Dream-Den
-1 Metallic Rebuke
-1 Hallowed Fountain
-1 Chromatic Star
-1 Fiery Islet
-1 Mishra's Bauble
-1 Snow-Covered Plains
-2 Grinding Station
-2 Lurrus of the Dream-Den
-2 Emry, Lurker of the Loch
-2 Mox Amber
-2 Engineered Explosives
-2 Snow-Covered Plains
-2 Mishra's Bauble
-2 Underworld Breach
-2 Chromatic Star
-2 Metallic Rebuke
-3 Grinding Station
-3 Underworld Breach
-3 Lurrus of the Dream-Den
-3 Emry, Lurker of the Loch
-3 Mox Amber
-3 Engineered Explosives
-3 Chromatic Star
-3 Metallic Rebuke
-3 Mishra's Bauble
-4 Grinding Station
-4 Underworld Breach
-4 Emry, Lurker of the Loch
-4 Mox Amber
-4 Chromatic Star
-4 Mishra's Bauble
-4 Metallic Rebuke
 3 Skyclave Apparition
 7 Plains

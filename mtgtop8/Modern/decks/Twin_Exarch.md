@@ -26,14 +26,3 @@
 |                                                                                                 |1 [Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)          |                                                                                               |
 |                                                                                                 |1 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                               |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Magmatic Sinkhole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464084)         |                    1|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)|
-|                    1|[Oboro, Palace in the Clouds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74206)|                    1|[Flusterstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228255)     |
-|                    2|[Crackling Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452913)           |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)           |
-|                    3|[Kiki-Jiki, Mirror Breaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50321)  |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
-|                    3|[Serum Visions](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50145)              |                     |                                                                                            |
-

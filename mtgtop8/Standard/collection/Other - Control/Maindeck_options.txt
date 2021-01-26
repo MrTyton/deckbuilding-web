@@ -11,11 +11,11 @@
 1 Heartless Act
 1 Elspeth's Nightmare
 1 Temple of Malady
-2 Indatha Triome
 2 Mythos of Nethroi
 2 Heartless Act
 2 Elspeth's Nightmare
 2 Forest
+2 Indatha Triome
 2 Swamp
 3 Indatha Triome
 4 Indatha Triome
@@ -49,8 +49,8 @@
 1 Llanowar Visionary
 2 Llanowar Visionary
 1 Castle Locthwain
-1 Bala Ged Recovery
 1 Cling to Dust
+1 Bala Ged Recovery
 1 Scavenging Ooze
 1 Elder Gargaroth
 2 Castle Locthwain
@@ -80,20 +80,20 @@
 1 Wolfwillow Haven
 1 Chevill, Bane of Monsters
 1 Treacherous Blessing
+1 Skull Prophet
 1 Acquisitions Expert
 1 Mire Triton
 1 Omen of the Dead
 1 Lotus Cobra
-1 Skull Prophet
 1 Doom Foretold
 1 Acolyte of Affliction
-2 Mire Triton
 2 Acquisitions Expert
+2 Mire Triton
+2 Eerie Ultimatum
 2 Doom Foretold
 2 Treacherous Blessing
 2 Lotus Cobra
 2 Acolyte of Affliction
-2 Eerie Ultimatum
 3 Treacherous Blessing
 3 Doom Foretold
 4 Treacherous Blessing
@@ -185,6 +185,15 @@
 27 Plains
 28 Plains
 3 Lukka, Coppercoat Outcast
+1 Hagra Mauling
+1 Agonizing Remorse
+1 Bonders' Enclave
+2 Bala Ged Recovery
+2 Agonizing Remorse
+2 Eliminate
+3 Llanowar Visionary
+3 Agonizing Remorse
+4 Llanowar Visionary
 1 Soul Sear
 2 Soul Sear
 3 Soul Sear
@@ -201,15 +210,15 @@
 1 Island
 1 Savai Triome
 1 Dismal Backwater
+1 Bloodfell Caves
 1 Ketria Triome
 1 Thirst for Meaning
 1 Fae of Wishes
-1 Sanctum of Calm Waters
-1 Jungle Hollow
 1 Thornwood Falls
-1 Bloodfell Caves
+1 Jungle Hollow
 1 Sanctum of Shattered Heights
 1 Sanctum of All
+1 Sanctum of Calm Waters
 1 Sanctum of Stone Fangs
 1 Clearwater Pathway
 1 Sanctum of Tranquil Light
@@ -242,15 +251,6 @@
 3 Sanctum of All
 4 Extinction Event
 4 Sanctum of Shattered Heights
-1 Hagra Mauling
-1 Agonizing Remorse
-1 Bonders' Enclave
-2 Bala Ged Recovery
-2 Agonizing Remorse
-2 Eliminate
-3 Llanowar Visionary
-3 Agonizing Remorse
-4 Llanowar Visionary
 2 Crawling Barrens
 1 Mystic Sanctuary
 1 Frantic Inventory
@@ -350,8 +350,8 @@
 2 Relic Golem
 2 Stern Dismissal
 3 Didn't Say Please
-3 Teferi's Tutelage
 3 Stern Dismissal
+3 Teferi's Tutelage
 3 Evolving Wilds
 3 Merfolk Secretkeeper
 3 Anticognition

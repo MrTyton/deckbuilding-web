@@ -1,7 +1,7 @@
 2 Snow-Covered Forest
 1 Snow-Covered Plains
-1 Arboreal Grazer
 1 Scattered Groves
+1 Arboreal Grazer
 1 Solemn Simulacrum
 1 Search for Tomorrow
 1 Felidar Retreat
@@ -43,6 +43,7 @@
 2 Flooded Strand
 1 Tasigur, the Golden Fang
 1 Thought Scour
+1 Minamo, School at Water's Edge
 1 Unearth
 1 Lurrus of the Dream-Den
 1 Monastery Mentor
@@ -58,12 +59,13 @@
 1 Mishra's Bauble
 1 Hallowed Fountain
 1 Emry, Lurker of the Loch
-1 Minamo, School at Water's Edge
 1 Godless Shrine
 1 Aether Spellbomb
 1 Engineered Explosives
 1 Waterlogged Grove
+2 Erayo, Soratami Ascendant
 2 Repeal
+2 Engineered Explosives
 2 Mox Amber
 2 Thought Scour
 2 Unearth
@@ -72,38 +74,35 @@
 2 Emry, Lurker of the Loch
 2 Mishra's Bauble
 2 Teferi, Time Raveler
-2 Erayo, Soratami Ascendant
 2 Waterlogged Grove
-2 Engineered Explosives
 3 Mox Amber
 3 Teferi, Time Raveler
 3 Repeal
 3 Flooded Strand
+3 Erayo, Soratami Ascendant
 3 Thought Scour
 3 Polluted Delta
 3 Unearth
 3 Mishra's Bauble
 3 Monastery Mentor
-3 Erayo, Soratami Ascendant
 3 Emry, Lurker of the Loch
 4 Mox Amber
+4 Erayo, Soratami Ascendant
 4 Flooded Strand
 4 Repeal
 4 Polluted Delta
 4 Monastery Mentor
 4 Teferi, Time Raveler
 4 Mishra's Bauble
-4 Erayo, Soratami Ascendant
 4 Emry, Lurker of the Loch
 1 Mountain
 1 Lightning Bolt
 2 Mountain
 2 Lightning Bolt
 1 Oust
+1 Valakut Awakening
 1 Cascading Cataracts
 1 Battlefield Forge
-1 Inspiring Vantage
-1 Suppression Field
 1 Sunbaked Canyon
 1 Sacred Foundry
 1 Mana Tithe
@@ -112,14 +111,15 @@
 1 Stone Rain
 1 Magus of the Tabernacle
 1 Flagstones of Trokair
-1 Valakut Awakening
 1 Boom / Bust
+1 Suppression Field
+1 Inspiring Vantage
 1 Goblin Dark-Dwellers
 1 Ghostly Prison
 2 Oust
+2 Valakut Awakening
 2 Battlefield Forge
 2 Sunbaked Canyon
-2 Suppression Field
 2 Mana Tithe
 2 Pillage
 2 Stone Rain
@@ -129,14 +129,13 @@
 2 Goblin Dark-Dwellers
 2 Magus of the Tabernacle
 2 Inspiring Vantage
-2 Valakut Awakening
+2 Suppression Field
 2 Boom / Bust
 2 Cascading Cataracts
 2 Ghostly Prison
 3 Sacred Foundry
 3 Sunbaked Canyon
 3 Pillage
-3 Suppression Field
 3 Boom / Bust
 3 Inspiring Vantage
 3 Oust
@@ -146,6 +145,7 @@
 3 Flagstones of Trokair
 3 Stone Rain
 3 Mana Tithe
+3 Suppression Field
 4 Pillage
 4 Sacred Foundry
 4 Sunbaked Canyon
@@ -156,9 +156,11 @@
 4 Inspiring Vantage
 4 Molten Rain
 1 Wilderness Reclamation
+1 Remand
 1 Misty Rainforest
 1 Shark Typhoon
 1 Castle Vantress
+1 Archmage's Charm
 1 Fact or Fiction
 1 Uro, Titan of Nature's Wrath
 1 Nexus of Fate
@@ -166,46 +168,44 @@
 1 Cryptic Command
 1 Mystic Sanctuary
 1 Growth Spiral
-1 Archmage's Charm
 1 Breeding Pool
 1 Scalding Tarn
 1 Jace, the Mind Sculptor
 1 Ice-Fang Coatl
 1 Field of Ruin
-1 Remand
 2 Wilderness Reclamation
 2 Scalding Tarn
+2 Remand
 2 Breeding Pool
 2 Misty Rainforest
 2 Jace, the Mind Sculptor
+2 Archmage's Charm
 2 Uro, Titan of Nature's Wrath
 2 Force of Negation
-2 Remand
 2 Cryptic Command
 2 Nexus of Fate
 2 Growth Spiral
 2 Mystic Sanctuary
 2 Ice-Fang Coatl
-2 Archmage's Charm
 2 Field of Ruin
 3 Mystic Sanctuary
 3 Wilderness Reclamation
-3 Breeding Pool
 3 Snow-Covered Island
+3 Archmage's Charm
+3 Remand
+3 Breeding Pool
 3 Misty Rainforest
 3 Field of Ruin
-3 Remand
 3 Nexus of Fate
 3 Growth Spiral
 3 Cryptic Command
 3 Uro, Titan of Nature's Wrath
-3 Archmage's Charm
 4 Growth Spiral
 4 Snow-Covered Island
+4 Archmage's Charm
+4 Cryptic Command
 4 Mystic Sanctuary
 4 Misty Rainforest
-4 Cryptic Command
-4 Archmage's Charm
 5 Snow-Covered Island
 6 Snow-Covered Island
 1 Nurturing Peatland
@@ -250,8 +250,8 @@
 3 Blood Moon
 3 Swamp
 3 Kroxa, Titan of Death's Hunger
-4 Kroxa, Titan of Death's Hunger
 4 Blackcleave Cliffs
+4 Kroxa, Titan of Death's Hunger
 4 Blood Moon
 4 Thoughtseize
 4 Bloodstained Mire

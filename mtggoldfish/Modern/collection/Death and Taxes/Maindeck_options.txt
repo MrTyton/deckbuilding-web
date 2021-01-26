@@ -27,8 +27,8 @@
 13 Plains
 14 Plains
 1 Horizon Canopy
-1 Sunbaked Canyon
 1 Spellskite
+1 Sunbaked Canyon
 15 Plains
 16 Plains
 2 Spellskite
@@ -37,6 +37,8 @@
 2 Sejiri Shelter
 4 Archon of Emeria
 2 Horizon Canopy
+3 Horizon Canopy
+4 Horizon Canopy
 12 Snow-Covered Plains
 13 Snow-Covered Plains
 14 Snow-Covered Plains
@@ -44,8 +46,6 @@
 16 Snow-Covered Plains
 1 Flagstones of Trokair
 1 Blast Zone
-3 Horizon Canopy
-4 Horizon Canopy
 1 Sacred Foundry
 2 Sunbaked Canyon
 3 Sunbaked Canyon
@@ -58,8 +58,8 @@
 3 Sacred Foundry
 1 Inspiring Vantage
 1 Magus of the Moon
-2 Inspiring Vantage
 2 Magus of the Moon
+2 Inspiring Vantage
 3 Magus of the Moon
 3 Inspiring Vantage
 4 Inspiring Vantage
@@ -67,10 +67,10 @@
 1 Skyclave Cleric
 2 Skyclave Cleric
 1 Charming Prince
-1 Militia Bugler
-1 Phyrexian Revoker
 1 Remorseful Cleric
+1 Phyrexian Revoker
 1 Lurrus of the Dream-Den
+1 Militia Bugler
 2 Lurrus of the Dream-Den
 2 Militia Bugler
 2 Phyrexian Revoker

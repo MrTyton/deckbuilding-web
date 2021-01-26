@@ -1,3 +1,4 @@
+3 Once Upon a Time
 2 Forest
 1 Misty Rainforest
 1 Tropical Island
@@ -5,6 +6,11 @@
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
 3 Oko, Thief of Crowns
+1 Umezawa's Jitte
+1 Batterskull
+1 Stoneforge Mystic
+2 Stoneforge Mystic
+3 Stoneforge Mystic
 1 Kaya, Orzhov Usurper
 2 Kaya, Orzhov Usurper
 1 Brainstorm
@@ -12,27 +18,21 @@
 3 Brainstorm
 4 Brainstorm
 4 Noble Hierarch
-4 Thalia, Guardian of Thraben
-2 Snow-Covered Forest
 3 Misty Rainforest
 4 Misty Rainforest
 2 Tropical Island
-3 Savannah
-1 Uro, Titan of Nature's Wrath
-1 Tundra
-1 Umezawa's Jitte
-1 Batterskull
-1 Stoneforge Mystic
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-2 Sylvan Library
+2 Snow-Covered Forest
+4 Thalia, Guardian of Thraben
 4 Verdant Catacombs
+1 Sword of Fire and Ice
+1 Tundra
+1 Uro, Titan of Nature's Wrath
+2 Sylvan Library
 1 Snow-Covered Island
 1 Flooded Strand
 2 Flooded Strand
 1 Elvish Reclaimer
 2 Uro, Titan of Nature's Wrath
-1 Sword of Fire and Ice
 1 Force of Negation
 1 Ponder
 1 Force of Will
@@ -115,6 +115,10 @@
 1 Spell Pierce
 1 Force of Virtue
 2 Stifle
+1 Silent Clearing
+1 Marsh Flats
+1 Wooded Foothills
+2 Marsh Flats
 1 Shifting Ceratops
 2 Snow-Covered Plains
 1 Tarmogoyf
@@ -149,8 +153,8 @@
 3 Elvish Reclaimer
 3 Mother of Runes
 4 Skyclave Apparition
+4 Elvish Reclaimer
 4 Savannah
 4 Flagstones of Trokair
-4 Elvish Reclaimer
 4 Once Upon a Time
 3 Uro, Titan of Nature's Wrath

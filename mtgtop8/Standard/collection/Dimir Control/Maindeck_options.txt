@@ -30,8 +30,8 @@
 7 Island
 4 Extinction Event
 4 Omen of the Sea
-2 Neutralize
 2 Negate
+2 Neutralize
 1 Hagra Mauling
 2 Hagra Mauling
 3 Of One Mind
@@ -42,8 +42,8 @@
 3 Essence Scatter
 4 Zagoth Triome
 4 Mazemind Tome
-1 Rain of Revelation
 1 Field of Ruin
+1 Rain of Revelation
 2 Rain of Revelation
 3 Ashiok, Nightmare Muse
 1 Lochmere Serpent
@@ -73,10 +73,10 @@
 2 Ugin, the Spirit Dragon
 4 Solemn Simulacrum
 1 Shadows' Verdict
-1 Shark Typhoon
 1 Murderous Rider
-2 Shark Typhoon
+1 Shark Typhoon
 2 Murderous Rider
+2 Shark Typhoon
 3 Didn't Say Please
 3 Dismal Backwater
 4 Dismal Backwater
@@ -116,11 +116,6 @@
 1 Silundi Vision
 1 Pelakka Predation
 1 Sea Gate Restoration
-1 Brazen Borrower
-2 Castle Locthwain
-2 Brazen Borrower
-3 Shark Typhoon
-4 Shark Typhoon
 1 Mind Carver
 2 Mind Carver
 3 Mind Carver
@@ -133,20 +128,25 @@
 3 Voracious Greatshark
 3 Castle Vantress
 3 Sublime Epiphany
-4 Voracious Greatshark
 4 Essence Scatter
+4 Voracious Greatshark
 4 Castle Vantress
+1 Brazen Borrower
+2 Castle Locthwain
+2 Brazen Borrower
+3 Shark Typhoon
+4 Shark Typhoon
 1 Garruk, Cursed Huntsman
-1 Grasp of Darkness
 1 Feed the Swarm
+1 Jungle Hollow
+1 Grasp of Darkness
 1 Thornwood Falls
 1 Final Death
 1 Finishing Blow
 1 Pestilent Haze
-1 Jungle Hollow
+2 Jungle Hollow
 2 Grasp of Darkness
 2 Feed the Swarm
-2 Jungle Hollow
 2 Pestilent Haze
 2 Thornwood Falls
 3 Grasp of Darkness
