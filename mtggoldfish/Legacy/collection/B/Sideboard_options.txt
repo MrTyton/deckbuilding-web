@@ -70,8 +70,6 @@
 2 Skyclave Shade
 1 Nihil Spellbomb
 2 Nihil Spellbomb
-1 Elspeth's Nightmare
-2 Elspeth's Nightmare
 1 Fatal Push
 1 Swords to Plowshares
 1 Rest in Peace
@@ -83,14 +81,16 @@
 1 Trinisphere
 2 Celestial Purge
 2 Damping Sphere
+1 Elspeth's Nightmare
+2 Elspeth's Nightmare
 2 Walking Ballista
-3 Soul Shatter
 1 Grafdigger's Cage
 2 Bitterblossom
 3 Ensnaring Bridge
 2 Feed the Swarm
 3 Collective Brutality
 3 Pithing Needle
+3 Eliminate
 1 Cling to Dust
 1 Assassin's Trophy
 1 Veil of Summer
@@ -106,4 +106,4 @@
 3 Pack Rat
 4 Pack Rat
 4 Surgical Extraction
-3 Eliminate
+3 Soul Shatter

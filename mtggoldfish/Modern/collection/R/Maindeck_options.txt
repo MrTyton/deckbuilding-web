@@ -10,25 +10,25 @@
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
-1 Skewer the Critics
 1 Rift Bolt
 1 Lava Spike
 1 Lightning Bolt
 1 Monastery Swiftspear
+1 Skewer the Critics
 1 Shard Volley
 1 Goblin Guide
 2 Goblin Guide
+2 Lava Spike
 2 Monastery Swiftspear
 2 Lightning Bolt
 2 Skewer the Critics
-2 Lava Spike
 2 Rift Bolt
 3 Goblin Guide
 3 Lava Spike
 3 Lightning Bolt
 3 Monastery Swiftspear
-3 Rift Bolt
 3 Skewer the Critics
+3 Rift Bolt
 4 Rift Bolt
 4 Goblin Guide
 4 Lightning Bolt
@@ -86,6 +86,26 @@
 1 Sweltering Suns
 2 Sweltering Suns
 3 Sweltering Suns
+1 Sunbaked Canyon
+1 Bump in the Night
+1 Blackcleave Cliffs
+1 Arid Mesa
+1 Bloodstained Mire
+1 Scalding Tarn
+1 Blood Crypt
+2 Scalding Tarn
+2 Blood Crypt
+2 Sunbaked Canyon
+2 Bump in the Night
+2 Bloodstained Mire
+2 Blackcleave Cliffs
+3 Sunbaked Canyon
+3 Bump in the Night
+3 Scalding Tarn
+3 Blackcleave Cliffs
+3 Blood Crypt
+4 Sunbaked Canyon
+4 Bump in the Night
 1 Blast Zone
 1 Chandra, Awakened Inferno
 1 Chandra, Acolyte of Flame
@@ -97,9 +117,9 @@
 1 Emrakul, the Aeons Torn
 1 Lukka, Coppercoat Outcast
 1 Planebound Accomplice
+2 Emrakul, the Aeons Torn
 2 Lukka, Coppercoat Outcast
 2 Planebound Accomplice
-2 Emrakul, the Aeons Torn
 3 Lukka, Coppercoat Outcast
 3 Planebound Accomplice
 4 Lukka, Coppercoat Outcast
@@ -113,29 +133,9 @@
 4 Grove of the Burnwillows
 4 Karn, the Great Creator
 4 Zhalfirin Void
-1 Sunbaked Canyon
-1 Blackcleave Cliffs
-1 Blood Crypt
-1 Arid Mesa
-1 Bloodstained Mire
-1 Scalding Tarn
-1 Bump in the Night
-2 Scalding Tarn
-2 Blood Crypt
-2 Sunbaked Canyon
-2 Bloodstained Mire
-2 Blackcleave Cliffs
-2 Bump in the Night
-3 Sunbaked Canyon
-3 Scalding Tarn
-3 Bump in the Night
-3 Blackcleave Cliffs
-3 Blood Crypt
-4 Sunbaked Canyon
-4 Bump in the Night
 1 Seal of Fire
-1 Chandra's Incinerator
 1 Soul-Scar Mage
+1 Chandra's Incinerator
 2 Seal of Fire
 2 Chandra's Incinerator
 2 Soul-Scar Mage

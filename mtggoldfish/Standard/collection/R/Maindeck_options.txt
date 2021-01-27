@@ -1,13 +1,13 @@
+3 Storm's Wrath
+4 Elspeth Conquers Death
 1 Spikefield Hazard
 2 Spikefield Hazard
-3 Storm's Wrath
 4 Crawling Barrens
 3 Spikefield Hazard
 4 Spikefield Hazard
 1 Irencrag Feat
 2 Irencrag Feat
 3 Irencrag Feat
-4 Elspeth Conquers Death
 1 Kazuul's Fury
 1 Valakut Awakening
 8 Mountain
@@ -15,19 +15,16 @@
 10 Mountain
 1 Radiant Fountain
 1 Fire Prophecy
-2 Fire Prophecy
 2 Radiant Fountain
-3 Fire Prophecy
+2 Fire Prophecy
 3 Radiant Fountain
+3 Fire Prophecy
 4 Fire Prophecy
 3 Shredded Sails
-1 Soul Sear
-4 Irencrag Feat
-11 Mountain
 1 Fabled Passage
+2 Fabled Passage
 1 Swamp
 2 Swamp
-2 Fabled Passage
 1 Temple of Malice
 1 Eliminate
 1 Extinction Event
@@ -37,14 +34,17 @@
 3 Temple of Malice
 3 Fabled Passage
 4 Swamp
-2 Soul Sear
+1 Soul Sear
+4 Irencrag Feat
+11 Mountain
 4 Fabled Passage
 1 Heartless Act
-12 Mountain
-4 Temple of Triumph
 3 Scorching Dragonfire
+2 Soul Sear
+4 Temple of Triumph
 4 Temple of Malice
 3 Extinction Event
+12 Mountain
 5 Plains
 1 Kroxa, Titan of Death's Hunger
 2 Eliminate
@@ -56,7 +56,6 @@
 2 Yidaro, Wandering Monster
 1 Pelakka Predation
 2 Heartless Act
-1 Dreamshaper Shaman
 2 Valakut Awakening
 2 Kazuul's Fury
 3 Valakut Awakening
@@ -66,10 +65,12 @@
 1 Savai Triome
 2 Savai Triome
 3 Heartless Act
+4 Scorching Dragonfire
 1 Shadows' Verdict
+1 Dreamshaper Shaman
+2 Pelakka Predation
 1 Field of Ruin
 2 Field of Ruin
-2 Pelakka Predation
 1 Phoenix of Ash
 1 Gravebreaker Lamia
 1 Purphoros's Intervention
@@ -92,9 +93,35 @@
 3 Yidaro, Wandering Monster
 4 Storm's Wrath
 4 Yidaro, Wandering Monster
+1 Dream Trawler
+1 Island
+1 Ketria Triome
+1 Brazen Borrower
+1 Shark Typhoon
+1 Glass Casket
+1 Negate
+1 Mystical Dispute
+1 Mythos of Vadrok
+1 Riverglide Pathway
+1 Raugrin Triome
+2 Glass Casket
+2 Island
+2 Ketria Triome
+2 Shark Typhoon
+2 Mystical Dispute
+2 Negate
+2 Mythos of Vadrok
+2 Riverglide Pathway
+2 Dream Trawler
+2 Raugrin Triome
+3 Island
+3 Raugrin Triome
+3 Ketria Triome
+3 Riverglide Pathway
+4 Raugrin Triome
+4 Riverglide Pathway
 6 Plains
 1 Labyrinth of Skophos
-4 Scorching Dragonfire
 13 Mountain
 14 Mountain
 15 Mountain
