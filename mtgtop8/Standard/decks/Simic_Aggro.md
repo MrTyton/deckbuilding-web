@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Simic%20Aggro/Simic%20Aggro.txt)
 #### [Export Arena List](../collection/Simic%20Aggro/Simic%20Aggro_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Bonders'%20Enclave%0A3%09Elder%20Gargaroth%0A2%09Fabled%20Passage%0A9%09Forest%0A3%09Island%0A2%09Kazandu%20Mammoth%0A4%09Lovestruck%20Beast%0A4%09Negate%0A3%09Questing%20Beast%0A4%09Ram%20Through%0A4%09Ranger's%20Guile%0A2%09Scavenging%20Ooze%0A1%09Shadowspear%0A1%09Sublime%20Epiphany%0A4%09Temple%20of%20Mystery%0A2%09The%20Great%20Henge%0A2%09Ugin,%20the%20Spirit%20Dragon%0A2%09Vivien,%20Monsters'%20Advocate%0A2%09Wildborn%20Preserver%0A4%09Zagoth%20Triome&deckside=4%09Garruk's%20Harbinger%0A3%09Mystical%20Dispute%0A3%09Oakhame%20Adversary%0A3%09Return%20to%20Nature%0A2%09Tormod's%20Crypt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Bonders'%20Enclave%0A3%09Elder%20Gargaroth%0A2%09Fabled%20Passage%0A9%09Forest%0A3%09Island%0A2%09Kazandu%20Mammoth%0A4%09Lovestruck%20Beast%0A4%09Negate%0A3%09Questing%20Beast%0A4%09Ram%20Through%0A4%09Ranger's%20Guile%0A2%09Scavenging%20Ooze%0A1%09Shadowspear%0A1%09Sublime%20Epiphany%0A4%09Temple%20of%20Mystery%0A2%09The%20Great%20Henge%0A2%09Ugin,%20the%20Spirit%20Dragon%0A2%09Vivien,%20Monsters'%20Advocate%0A2%09Wildborn%20Preserver%0A4%09Zagoth%20Triome&deckside=3%09Garruk's%20Harbinger%0A2%09Mazemind%20Tome%0A3%09Mystical%20Dispute%0A3%09Oakhame%20Adversary%0A2%09Return%20to%20Nature%0A2%09Tormod's%20Crypt)
 # Maindeck
 
 |                                        Artifact (3)                                        |                                         Creature (16)                                         |                                        Instant (13)                                         |                                          Land (24)                                           |                                           Planeswalker (4)                                            |
@@ -17,18 +17,18 @@
 
 # Sideboard
 
-|                                       Artifact (2)                                        |                                         Creature (7)                                          |                                         Instant (6)                                         |
+|                                       Artifact (4)                                        |                                         Creature (6)                                          |                                         Instant (5)                                         |
 |-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-|2 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|4 [Garruk's Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485508)|3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
-|                                                                                           |3 [Oakhame Adversary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473129) |3 [Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)|
+|2 [Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555) |3 [Garruk's Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485508)|3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
+|2 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|3 [Oakhame Adversary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473129) |2 [Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)|
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
-|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
-|                    1|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570) |                    1|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)|
-|                    1|[Kogla, the Titan Ape](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479682)|                    2|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)|
-|                    2|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570) |                     |                                                                                        |
-|                    3|[The Great Henge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123)     |                     |                                                                                        |
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[Kogla, the Titan Ape](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479682)|                    4|[Garruk's Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485508)|
+|                    1|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570) |                    3|[Return to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461102)  |
+|                    2|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570) |                     |                                                                                             |
+|                    3|[The Great Henge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473123)     |                     |                                                                                             |
 

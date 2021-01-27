@@ -67,6 +67,6 @@
 |                    4|[Curious Obsession](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439692)           |                     |                                                                                             |
 |                    4|[Siren Stormtamer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435232)            |                     |                                                                                             |
 |                    4|[Spectral Sailor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466830)             |                     |                                                                                             |
-|                    4|[Winged Words](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466834)                |                     |                                                                                             |
 |                   20|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |                                                                                             |
+|                    4|[Winged Words](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466834)                |                     |                                                                                             |
 

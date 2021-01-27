@@ -19,28 +19,28 @@
 1 Emry, Lurker of the Loch
 1 Kinnan, Bonder Prodigy
 1 Karn, the Great Creator
-2 Breeding Pool
-2 Llanowar Elves
 2 Tamiyo, Collector of Tales
 2 Mox Amber
+2 Llanowar Elves
+2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
 2 Emry, Lurker of the Loch
 2 Paradox Engine
 2 Golden Egg
 2 Karn, the Great Creator
 2 Kinnan, Bonder Prodigy
-3 Llanowar Elves
-3 Breeding Pool
 3 Golden Egg
 3 Emry, Lurker of the Loch
 3 Forest
 3 Mox Amber
+3 Llanowar Elves
+3 Breeding Pool
 3 Kinnan, Bonder Prodigy
 3 Karn, the Great Creator
 3 Uro, Titan of Nature's Wrath
+4 Emry, Lurker of the Loch
 4 Llanowar Elves
 4 Breeding Pool
-4 Emry, Lurker of the Loch
 4 Mox Amber
 4 Karn, the Great Creator
 4 Kinnan, Bonder Prodigy
@@ -68,7 +68,6 @@
 3 Mana Confluence
 3 Terrarion
 3 Paradox Engine
-1 Geier Reach Sanitarium
 1 Drowned Catacomb
 1 Fabled Passage
 1 Watery Grave
@@ -77,19 +76,20 @@
 1 Inscription of Ruin
 1 Eliminate
 1 Fatal Push
+1 Shark Typhoon
 1 Cling to Dust
-1 Negate
 1 Heartless Act
+1 Negate
 1 Bloodchief's Thirst
-1 Day's Undoing
 1 Fetid Pools
 1 Thoughtseize
 1 Dig Through Time
 1 Swamp
 1 Narset, Parter of Veils
+1 Geier Reach Sanitarium
 1 Thing in the Ice
 1 Opt
-1 Shark Typhoon
+1 Day's Undoing
 2 Swamp
 2 Drowned Catacomb
 2 Clearwater Pathway
@@ -116,13 +116,13 @@
 3 Opt
 3 Dig Through Time
 3 Narset, Parter of Veils
+4 Fabled Passage
+4 Narset, Parter of Veils
 4 Fatal Push
 4 Drowned Catacomb
-4 Fabled Passage
 4 Thing in the Ice
 4 Thoughtseize
 4 Opt
-4 Narset, Parter of Veils
 1 Mountain
 1 Woodweaver's Puzzleknot
 1 Golos, Tireless Pilgrim
@@ -179,11 +179,11 @@
 1 Hinterland Harbor
 2 Skyclave Relic
 2 Elvish Mystic
-3 Elvish Mystic
 3 Tamiyo, Collector of Tales
+3 Elvish Mystic
 3 Skyclave Relic
-4 Elvish Mystic
 4 Golden Egg
+4 Elvish Mystic
 4 Skyclave Relic
 4 Tamiyo, Collector of Tales
 5 Forest

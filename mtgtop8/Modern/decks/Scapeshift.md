@@ -32,11 +32,11 @@
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
-|                     |             |                    1|[Thragtusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614)        |
 |                     |             |                    1|[Wall of Blossoms](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405447) |
+|                     |             |                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
 |                     |             |                    2|[Thragtusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614)        |
 |                     |             |                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
 |                     |             |                    2|[Wall of Blossoms](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405447) |
 |                     |             |                    3|[Wall of Blossoms](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405447) |
+|                     |             |                    1|[Thragtusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614)        |
 

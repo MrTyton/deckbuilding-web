@@ -28,9 +28,10 @@
 4 Stoneforge Mystic
 1 Eldritch Evolution
 2 Eldritch Evolution
-3 Birds of Paradise
 3 Chord of Calling
+3 Birds of Paradise
 4 Chord of Calling
+1 Loaming Shaman
 1 Raugrin Triome
 1 Sacred Foundry
 1 Seasoned Pyromancer
@@ -45,7 +46,6 @@
 1 Eidolon of Rhetoric
 1 Restoration Angel
 1 Path to Exile
-1 Loaming Shaman
 2 Sacred Foundry
 2 Restoration Angel
 2 Wall of Blossoms
@@ -88,8 +88,8 @@
 1 Grove of the Burnwillows
 1 Island
 2 Omnath, Locus of Creation
-1 Ketria Triome
 1 Glen Elendra Archmage
+1 Ketria Triome
 1 Snow-Covered Island
 2 Snow-Covered Plains
 3 Wall of Blossoms
@@ -118,21 +118,21 @@
 3 Eladamri's Call
 1 Lightning Greaves
 1 Viridian Longbow
+1 Eldrazi Displacer
 1 Branchloft Pathway
 1 Brushland
 1 Lurrus of the Dream-Den
-1 Eldrazi Displacer
 2 Brushland
 2 Branchloft Pathway
 2 Duskwatch Recruiter
 3 Duskwatch Recruiter
-3 Branchloft Pathway
 3 Brushland
+3 Branchloft Pathway
 3 Giver of Runes
-4 Razorverge Thicket
 4 Branchloft Pathway
 4 Duskwatch Recruiter
 4 Brushland
+4 Razorverge Thicket
 4 Vizier of Remedies
 4 Giver of Runes
 1 Idyllic Grange
@@ -144,8 +144,8 @@
 3 Luminarch Aspirant
 3 Cavern of Souls
 4 Plains
-4 Walking Ballista
 4 Luminarch Aspirant
+4 Walking Ballista
 5 Plains
 6 Plains
 1 Blood Artist

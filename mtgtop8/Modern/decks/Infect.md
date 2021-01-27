@@ -72,8 +72,8 @@
 |                    3|[Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)      |                     |                                                                                                |
 |                    3|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)       |                     |                                                                                                |
 |                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)            |                     |                                                                                                |
-|                    4|[Phyrexian Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213724)      |                     |                                                                                                |
 |                    4|[Plague Stinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208261)          |                     |                                                                                                |
+|                    4|[Phyrexian Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213724)      |                     |                                                                                                |
 |                    4|[Verdant Catacombs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405113)       |                     |                                                                                                |
 |                    3|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)  |                     |                                                                                                |
 

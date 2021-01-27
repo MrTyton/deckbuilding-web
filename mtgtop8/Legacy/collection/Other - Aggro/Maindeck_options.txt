@@ -1,55 +1,24 @@
-1 Forest
-1 Bojuka Bog
-2 Elvish Reclaimer
-2 Wooded Foothills
-2 Crop Rotation
-2 Flagstones of Trokair
-2 Path to Exile
-2 Field of the Dead
-2 Once Upon a Time
+2 Skyclave Apparition
 2 Dryad of the Ilysian Grove
 3 Elvish Reclaimer
 3 Skyclave Apparition
 3 Wooded Foothills
+3 Thalia, Guardian of Thraben
 3 Flagstones of Trokair
+3 Green Sun's Zenith
+3 Swords to Plowshares
+3 Windswept Heath
 3 Dryad of the Ilysian Grove
 3 Once Upon a Time
 4 Once Upon a Time
 4 Flagstones of Trokair
 4 Elvish Reclaimer
+4 Thalia, Guardian of Thraben
 4 Wooded Foothills
+4 Swords to Plowshares
+4 Windswept Heath
+4 Green Sun's Zenith
 1 Scryb Ranger
-1 Oko, Thief of Crowns
-1 Tropical Island
-1 Misty Rainforest
-1 Noble Hierarch
-2 Oko, Thief of Crowns
-2 Misty Rainforest
-2 Noble Hierarch
-3 Oko, Thief of Crowns
-3 Noble Hierarch
-4 Noble Hierarch
-1 Gilded Goose
-1 Questing Beast
-1 Hexdrinker
-1 Uro, Titan of Nature's Wrath
-1 Gaea's Cradle
-1 Tundra
-1 Birds of Paradise
-2 Verdant Catacombs
-2 Snow-Covered Forest
-2 Knight of the Reliquary
-3 Knight of the Reliquary
-4 Wasteland
-4 Knight of the Reliquary
-1 Daze
-1 Force of Will
-2 Force of Will
-2 Daze
-3 Force of Will
-3 Daze
-4 Daze
-4 Force of Will
 1 Lightning Bolt
 1 Dreadhorde Arcanist
 1 Chain Lightning
@@ -58,36 +27,6 @@
 2 Dreadhorde Arcanist
 3 Lightning Bolt
 4 Lightning Bolt
-1 Volcanic Island
-1 Scalding Tarn
-1 Narset, Parter of Veils
-1 Young Pyromancer
-1 Brainstorm
-1 Of One Mind
-1 Ponder
-1 Snow-Covered Island
-1 Krark, the Thumbless
-2 Tropical Island
-2 Scalding Tarn
-2 Young Pyromancer
-2 Narset, Parter of Veils
-2 Brainstorm
-2 Of One Mind
-2 Volcanic Island
-2 Ponder
-2 Krark, the Thumbless
-3 Misty Rainforest
-3 Scalding Tarn
-3 Young Pyromancer
-3 Volcanic Island
-3 Brainstorm
-3 Krark, the Thumbless
-3 Of One Mind
-3 Ponder
-4 Misty Rainforest
-4 Scalding Tarn
-4 Ponder
-4 Brainstorm
 1 Arid Mesa
 1 Unearth
 1 Blood Crypt
@@ -97,12 +36,12 @@
 1 Cavern of Souls
 1 Lightning Skelemental
 1 Thoughtseize
-1 Ball Lightning
 1 Blackcleave Cliffs
 1 Bloodstained Mire
 1 Thunderkin Awakener
 1 Sunbaked Canyon
 1 Spark Trooper
+1 Ball Lightning
 1 Faithless Looting
 1 Snow-Covered Swamp
 2 Bloodstained Mire
@@ -125,9 +64,9 @@
 3 Thoughtseize
 3 Ball Lightning
 3 Faithless Looting
+3 Blackcleave Cliffs
 3 Unearth
 3 Blood Crypt
-3 Blackcleave Cliffs
 3 Lightning Skelemental
 3 Thunderkin Awakener
 3 Chain Lightning
@@ -140,17 +79,65 @@
 4 Thunderkin Awakener
 4 Lightning Skelemental
 4 Ball Lightning
+1 Oko, Thief of Crowns
+1 Tropical Island
+1 Misty Rainforest
+1 Volcanic Island
+1 Scalding Tarn
+1 Narset, Parter of Veils
+1 Young Pyromancer
+1 Brainstorm
+1 Of One Mind
+1 Ponder
+1 Noble Hierarch
+1 Snow-Covered Island
+1 Krark, the Thumbless
+1 Daze
+1 Force of Will
+2 Oko, Thief of Crowns
+2 Tropical Island
+2 Misty Rainforest
+2 Scalding Tarn
+2 Young Pyromancer
+2 Narset, Parter of Veils
+2 Of One Mind
+2 Force of Will
+2 Noble Hierarch
+2 Brainstorm
+2 Daze
+2 Volcanic Island
+2 Ponder
+2 Krark, the Thumbless
+3 Oko, Thief of Crowns
+3 Misty Rainforest
+3 Scalding Tarn
+3 Young Pyromancer
+3 Volcanic Island
+3 Krark, the Thumbless
+3 Force of Will
+3 Brainstorm
+3 Daze
+3 Of One Mind
+3 Ponder
+3 Noble Hierarch
+4 Noble Hierarch
+4 Misty Rainforest
+4 Scalding Tarn
+4 Daze
+4 Brainstorm
+4 Force of Will
+4 Ponder
 1 Urborg, Tomb of Yawgmoth
 1 Karn, the Great Creator
 1 Opposition Agent
-1 Sorcerous Spyglass
 1 Trinisphere
 1 Pack Rat
 1 Helm of Obedience
 1 Eliminate
-1 Leyline of the Void
+1 Sorcerous Spyglass
 1 Swamp
 1 Chrome Mox
+1 Leyline of the Void
 1 City of Traitors
 1 Archfiend of Ifnir
 1 Liliana of the Veil
@@ -163,11 +150,11 @@
 2 Opposition Agent
 2 Pack Rat
 2 Leyline of the Void
-2 Plague Engineer
-2 City of Traitors
 2 Chrome Mox
 2 Ancient Tomb
 2 Chalice of the Void
+2 City of Traitors
+2 Plague Engineer
 2 Archfiend of Ifnir
 2 Liliana of the Veil
 3 Swamp
@@ -176,10 +163,10 @@
 3 Leyline of the Void
 3 Plague Engineer
 3 Pack Rat
+3 Ancient Tomb
 3 Chalice of the Void
 3 Karn, the Great Creator
 3 Opposition Agent
-3 Ancient Tomb
 3 Chrome Mox
 4 Eliminate
 4 Plague Engineer
@@ -193,57 +180,7 @@
 4 Swamp
 4 Karn, the Great Creator
 5 Swamp
-6 Swamp
 7 Swamp
 8 Swamp
 9 Swamp
-1 Umezawa's Jitte
-1 Force of Negation
-1 Brazen Borrower
-1 Flusterstorm
-1 Island
-1 Sky Hussar
-1 Nivmagus Elemental
-1 Aether Vial
-1 Ancestral Vision
-1 Skaab Ruinator
-1 Disrupting Shoal
-1 Spellstutter Sprite
-1 Mausoleum Wanderer
-1 Martyr of Frost
-1 Judge's Familiar
-1 Ninja of the Deep Hours
-2 Island
-2 Force of Negation
-2 Umezawa's Jitte
-2 Flusterstorm
-2 Brazen Borrower
-2 Aether Vial
-2 Ancestral Vision
-2 Sky Hussar
-2 Nivmagus Elemental
-2 Judge's Familiar
-2 Mausoleum Wanderer
-2 Martyr of Frost
-2 Spellstutter Sprite
-2 Ninja of the Deep Hours
-2 Disrupting Shoal
-3 Island
-3 Judge's Familiar
-3 Mausoleum Wanderer
-3 Flusterstorm
-3 Sky Hussar
-3 Martyr of Frost
-3 Aether Vial
-4 Island
-4 Sky Hussar
-4 Mausoleum Wanderer
-4 Judge's Familiar
-4 Aether Vial
-5 Island
-6 Island
-7 Island
-8 Island
-9 Island
-11 Island
-10 Island
+6 Swamp

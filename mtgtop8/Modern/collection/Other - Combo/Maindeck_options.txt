@@ -57,6 +57,7 @@
 1 Sacred Foundry
 1 Arid Mesa
 2 Arid Mesa
+1 Temple of Triumph
 1 Dovescape
 1 Mistveil Plains
 1 Plains
@@ -72,10 +73,10 @@
 1 Silence
 1 Lotus Bloom
 1 Nine Lives
-1 Temple of Triumph
 1 Enduring Ideal
 1 Overwhelming Splendor
 1 Phyrexian Unlife
+2 Temple of Triumph
 2 Silence
 2 Oust
 2 Nykthos, Shrine to Nyx
@@ -85,7 +86,6 @@
 2 Enduring Ideal
 2 Plains
 2 Lotus Bloom
-2 Temple of Triumph
 2 Phyrexian Unlife
 2 Form of the Dragon
 2 Nine Lives
@@ -95,10 +95,10 @@
 3 Oust
 3 Sacred Foundry
 3 Marsh Flats
+3 Silence
 3 Nine Lives
 3 Solemnity
 3 Lotus Bloom
-3 Silence
 3 Enduring Ideal
 4 Plains
 4 Marsh Flats
@@ -167,8 +167,8 @@
 2 Chromatic Star
 2 Metallic Rebuke
 3 Grinding Station
-3 Underworld Breach
 3 Lurrus of the Dream-Den
+3 Underworld Breach
 3 Emry, Lurker of the Loch
 3 Mox Amber
 3 Engineered Explosives
@@ -176,14 +176,14 @@
 3 Metallic Rebuke
 3 Mishra's Bauble
 4 Grinding Station
-4 Underworld Breach
 4 Emry, Lurker of the Loch
 4 Metallic Rebuke
+4 Underworld Breach
 4 Mox Amber
 4 Chromatic Star
 4 Mishra's Bauble
-1 Lotus Field
 1 Silundi Vision
+1 Wishclaw Talisman
 1 Polluted Delta
 1 Darkslick Shores
 1 Serum Visions
@@ -194,13 +194,12 @@
 1 Grapeshot
 1 Past in Flames
 1 Echoing Truth
-1 Wishclaw Talisman
 1 Sleight of Hand
+1 Lotus Field
 1 Dream's Grip
 1 Merchant Scroll
 1 Watery Grave
 1 Peer Through Depths
-2 Lotus Field
 2 Polluted Delta
 2 Wishclaw Talisman
 2 Darkslick Shores
@@ -210,17 +209,18 @@
 2 Reach Through Mists
 2 Peer Through Depths
 2 Watery Grave
+2 Lotus Field
 2 Serum Visions
 2 Ideas Unbound
 2 Sleight of Hand
 2 Past in Flames
 2 Twiddle
-3 Lotus Field
 3 Wishclaw Talisman
 3 Darkslick Shores
 3 Serum Visions
 3 Ideas Unbound
 3 Snow-Covered Island
+3 Lotus Field
 3 Twiddle
 3 Sleight of Hand
 3 Psychic Puppetry
@@ -235,11 +235,11 @@
 4 Psychic Puppetry
 4 Dream's Grip
 1 Mass Hysteria
+1 Delay
 1 Opt
 1 Izzet Charm
 1 Emrakul, the Aeons Torn
 1 Dwarven Mine
-1 Delay
 1 Force of Negation
 1 Transmogrify
 1 Remand
@@ -250,10 +250,10 @@
 1 Stomping Ground
 1 Wooded Foothills
 1 Raugrin Triome
+2 Delay
 2 Emrakul, the Aeons Torn
 2 Opt
 2 Dwarven Mine
-2 Delay
 2 Izzet Charm
 2 Wooded Foothills
 2 Mountain
