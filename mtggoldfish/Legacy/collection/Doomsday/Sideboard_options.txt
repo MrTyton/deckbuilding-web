@@ -1,4 +1,7 @@
-4 Fatal Push
+2 Red Elemental Blast
+1 Defense Grid
+2 Defense Grid
+3 Defense Grid
 1 Surgical Extraction
 2 Surgical Extraction
 2 Abrade
@@ -10,11 +13,8 @@
 2 Doomsday
 3 Doomsday
 4 Doomsday
-1 Defense Grid
-2 Defense Grid
-3 Defense Grid
-1 Spell Pierce
 4 Defense Grid
+1 Spell Pierce
 2 Spell Pierce
 1 Abrupt Decay
 1 Carpet of Flowers
@@ -22,10 +22,11 @@
 2 Abrupt Decay
 3 Abrupt Decay
 1 Edge of Autumn
+1 Massacre
 1 Nausea
 2 Nausea
 1 Null Rod
-1 Massacre
+1 Consign/Oblivion
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
@@ -34,7 +35,6 @@
 1 Plague Engineer
 2 Plague Engineer
 1 Extract
-1 Consign/Oblivion
 2 Consign/Oblivion
 1 Echoing Truth
 1 Street Wraith
@@ -49,6 +49,8 @@
 4 Abrupt Decay
 1 Shelldock Isle
 1 Daze
+1 Painful Truths
+1 Duress
 1 Uro, Titan of Nature's Wrath
 1 Volcanic Island
 1 Hullbreacher
@@ -64,13 +66,8 @@
 2 Chain of Vapor
 1 Shrivel
 2 Shrivel
-1 Pyroclasm
-1 Baleful Strix
-2 Pyroclasm
-2 Baleful Strix
-1 Lightning Bolt
-2 Lightning Bolt
-3 Lightning Bolt
+1 Cling to Dust
+2 Cling to Dust
 1 Opposition Agent
 1 Grafdigger's Cage
 2 Grafdigger's Cage
@@ -81,5 +78,7 @@
 3 Oko, Thief of Crowns
 3 Spell Pierce
 4 Spell Pierce
-1 Cling to Dust
-2 Cling to Dust
+1 Pyroclasm
+1 Baleful Strix
+2 Pyroclasm
+2 Baleful Strix

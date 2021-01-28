@@ -67,6 +67,6 @@
 |                    1|[Pendelhaven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442233)            |                    3|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)         |
 |                    3|[Birchlore Rangers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=39836)       |                    3|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)           |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                    1|[Natural Order](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413719)             |
-|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                     |                                                                                                     |
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                     |                                                                                                     |
+|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                     |                                                                                                     |
 

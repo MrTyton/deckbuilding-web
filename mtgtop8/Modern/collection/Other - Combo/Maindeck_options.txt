@@ -62,7 +62,6 @@
 1 Mistveil Plains
 1 Plains
 1 Nykthos, Shrine to Nyx
-1 Deafening Clarion
 1 Marsh Flats
 1 Wheel of Sun and Moon
 1 Skyclave Apparition
@@ -75,6 +74,7 @@
 1 Nine Lives
 1 Enduring Ideal
 1 Overwhelming Splendor
+1 Deafening Clarion
 1 Phyrexian Unlife
 2 Temple of Triumph
 2 Silence
@@ -157,11 +157,11 @@
 1 Mishra's Bauble
 1 Snow-Covered Plains
 2 Grinding Station
+2 Snow-Covered Plains
 2 Lurrus of the Dream-Den
 2 Emry, Lurker of the Loch
 2 Mox Amber
 2 Engineered Explosives
-2 Snow-Covered Plains
 2 Mishra's Bauble
 2 Underworld Breach
 2 Chromatic Star
@@ -266,9 +266,9 @@
 2 Polymorph
 3 Arid Mesa
 3 Opt
+3 Remand
 3 Dwarven Mine
 3 Wooded Foothills
-3 Remand
 3 Transmogrify
 3 Lightning Bolt
 3 Polymorph

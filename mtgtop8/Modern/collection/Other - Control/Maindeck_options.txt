@@ -31,9 +31,9 @@
 3 Windswept Heath
 3 Temple Garden
 3 Wooded Foothills
+4 Castle Garenbrig
 4 Wurmcoil Engine
 4 Search for Tomorrow
-4 Castle Garenbrig
 4 Explore
 4 Solemn Simulacrum
 4 Arboreal Grazer
@@ -46,10 +46,10 @@
 1 Thought Scour
 1 Unearth
 1 Lurrus of the Dream-Den
-1 Monastery Mentor
 1 Watery Grave
 1 Polluted Delta
 1 Repeal
+1 Monastery Mentor
 1 Soul-Guide Lantern
 1 Spellskite
 1 Erayo, Soratami Ascendant
@@ -89,8 +89,8 @@
 4 Mox Amber
 4 Flooded Strand
 4 Polluted Delta
-4 Repeal
 4 Monastery Mentor
+4 Repeal
 4 Teferi, Time Raveler
 4 Mishra's Bauble
 4 Erayo, Soratami Ascendant
@@ -161,6 +161,7 @@
 1 Castle Vantress
 1 Archmage's Charm
 1 Fact or Fiction
+1 Uro, Titan of Nature's Wrath
 1 Nexus of Fate
 1 Force of Negation
 1 Cryptic Command
@@ -168,7 +169,6 @@
 1 Growth Spiral
 1 Breeding Pool
 1 Scalding Tarn
-1 Uro, Titan of Nature's Wrath
 1 Jace, the Mind Sculptor
 1 Ice-Fang Coatl
 1 Wilderness Reclamation
@@ -190,10 +190,10 @@
 2 Field of Ruin
 3 Wilderness Reclamation
 3 Mystic Sanctuary
+3 Breeding Pool
 3 Snow-Covered Island
 3 Archmage's Charm
 3 Remand
-3 Breeding Pool
 3 Misty Rainforest
 3 Field of Ruin
 3 Nexus of Fate

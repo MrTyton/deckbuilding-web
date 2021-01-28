@@ -1,84 +1,88 @@
-3 Once Upon a Time
-2 Forest
-1 Misty Rainforest
-1 Tropical Island
-2 Misty Rainforest
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
 3 Oko, Thief of Crowns
-1 Umezawa's Jitte
-1 Batterskull
-1 Stoneforge Mystic
-2 Stoneforge Mystic
-3 Stoneforge Mystic
-1 Kaya, Orzhov Usurper
-2 Kaya, Orzhov Usurper
+1 Plains
+3 Savannah
 1 Brainstorm
 2 Brainstorm
 3 Brainstorm
 4 Brainstorm
 4 Noble Hierarch
+1 Stoneforge Mystic
+1 Batterskull
+1 Umezawa's Jitte
+2 Stoneforge Mystic
+3 Stoneforge Mystic
 3 Misty Rainforest
 4 Misty Rainforest
 2 Tropical Island
 2 Snow-Covered Forest
-4 Thalia, Guardian of Thraben
-4 Verdant Catacombs
-1 Sword of Fire and Ice
 1 Tundra
+3 Once Upon a Time
 1 Uro, Titan of Nature's Wrath
-2 Sylvan Library
+4 Thalia, Guardian of Thraben
+2 Forest
 1 Snow-Covered Island
+1 Sword of Fire and Ice
 1 Flooded Strand
 2 Flooded Strand
-1 Elvish Reclaimer
-2 Uro, Titan of Nature's Wrath
-1 Force of Negation
+4 Verdant Catacombs
+1 Kaya, Orzhov Usurper
+2 Kaya, Orzhov Usurper
+3 Abrupt Decay
 1 Ponder
 1 Force of Will
-2 Tundra
 2 Ponder
 2 Force of Will
+2 Tundra
 3 Force of Will
 4 Force of Will
-1 Scryb Ranger
-1 Tireless Tracker
-1 Gilded Goose
-1 Bojuka Bog
-1 Daze
-1 True-Name Nemesis
-2 True-Name Nemesis
-2 Daze
 3 Flooded Strand
-3 Daze
 4 Flooded Strand
-4 Stoneforge Mystic
 3 Ponder
 4 Ponder
-2 Scavenging Ooze
+1 Force of Negation
+1 Daze
+1 True-Name Nemesis
+2 Daze
+3 Daze
+4 Stoneforge Mystic
+2 Uro, Titan of Nature's Wrath
+1 Tireless Tracker
+2 True-Name Nemesis
+1 Gilded Goose
+1 Elvish Reclaimer
+1 Polluted Delta
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+3 Teferi, Time Raveler
+2 Sylvan Library
 1 Sword of Feast and Famine
 1 Court of Grace
 1 Brazen Borrower
 2 Court of Grace
 1 Archon of Valor's Reach
-1 Teferi, Time Raveler
 1 Natural Order
 1 Progenitus
 2 Birds of Paradise
-2 Teferi, Time Raveler
 2 Natural Order
 3 Birds of Paradise
-3 Teferi, Time Raveler
 3 Natural Order
 4 Birds of Paradise
 4 Natural Order
+1 Scryb Ranger
 3 True-Name Nemesis
 1 Eternal Witness
 1 Leovold, Emissary of Trest
 1 Thrun, the Last Troll
-1 Polluted Delta
+1 Bojuka Bog
 3 Skyclave Apparition
+1 Snapcaster Mage
 1 Snow-Covered Swamp
+1 Baleful Strix
+1 Underground Sea
+2 Baleful Strix
+3 Baleful Strix
 1 Zagoth Triome
 1 Taiga
 1 Ephemerate
@@ -86,50 +90,43 @@
 1 Klothys, God of Destiny
 1 Gonti, Lord of Luxury
 1 Field of the Dead
-1 Underground Sea
-1 Baleful Strix
 1 Indatha Triome
-1 Recruiter of the Guard
 1 Spellseeker
-1 Opposition Agent
+1 Recruiter of the Guard
 1 Sigarda, Host of Herons
 1 Birthing Pod
+1 Opposition Agent
 1 Thragtusk
 1 Coiling Oracle
 1 Hostage Taker
 1 Soulherder
-2 Baleful Strix
-2 Coiling Oracle
 2 Birthing Pod
-3 Baleful Strix
+2 Coiling Oracle
 3 Coiling Oracle
 3 Birthing Pod
-4 Birthing Pod
-4 Coiling Oracle
 4 Baleful Strix
+4 Coiling Oracle
+4 Birthing Pod
+1 Hullbreacher
+2 Hullbreacher
+2 Snow-Covered Island
 1 Island
-1 Snapcaster Mage
 1 Zealous Persecution
 1 Nurturing Peatland
 1 Stifle
 1 Spell Pierce
 1 Force of Virtue
 2 Stifle
-1 Silent Clearing
-1 Marsh Flats
-1 Wooded Foothills
-2 Marsh Flats
 1 Shifting Ceratops
 2 Snow-Covered Plains
+3 Uro, Titan of Nature's Wrath
 1 Tarmogoyf
-1 Hullbreacher
-1 Archon of Emeria
 1 Lavinia, Azorius Renegade
+1 Archon of Emeria
 2 Tarmogoyf
 2 Archon of Emeria
 2 Gilded Goose
 2 Force of Negation
-2 Hullbreacher
 2 Lavinia, Azorius Renegade
 3 Tundra
 3 Tarmogoyf
@@ -140,9 +137,9 @@
 4 Tarmogoyf
 1 Dark Depths
 1 Thespian's Stage
+1 Mother of Runes
 1 Sylvan Safekeeper
 1 Flagstones of Trokair
-1 Mother of Runes
 1 Cavern of Souls
 1 Sejiri Steppe
 2 Elvish Reclaimer
@@ -157,4 +154,51 @@
 4 Savannah
 4 Flagstones of Trokair
 4 Once Upon a Time
-3 Uro, Titan of Nature's Wrath
+1 Marsh Flats
+1 Spell Snare
+1 Thoughtseize
+1 Dark Confidant
+2 Marsh Flats
+2 Snapcaster Mage
+2 Thoughtseize
+2 Dark Confidant
+2 Underground Sea
+2 Polluted Delta
+3 Polluted Delta
+3 Underground Sea
+3 Dark Confidant
+3 Thoughtseize
+4 Polluted Delta
+4 Daze
+4 Thoughtseize
+1 Snow-Covered Mountain
+1 Volcanic Island
+1 Deceiver Exarch
+1 Vendilion Clique
+1 Arcum's Astrolabe
+1 Scalding Tarn
+1 Ancient Tomb
+1 Day's Undoing
+1 Splinter Twin
+2 Snow-Covered Mountain
+2 Deceiver Exarch
+2 Splinter Twin
+2 Arcum's Astrolabe
+2 Ancient Tomb
+2 Scalding Tarn
+2 Day's Undoing
+2 Volcanic Island
+3 Day's Undoing
+3 Scalding Tarn
+3 Deceiver Exarch
+3 Hullbreacher
+3 Ancient Tomb
+3 Arcum's Astrolabe
+3 Snow-Covered Island
+3 Splinter Twin
+4 Arcum's Astrolabe
+4 Scalding Tarn
+4 Day's Undoing
+4 Hullbreacher
+4 Deceiver Exarch
+4 Ancient Tomb

@@ -6,7 +6,6 @@
 1 Blood Sun
 2 Blood Sun
 3 Blood Sun
-1 Red Elemental Blast
 1 Smuggler's Copter
 1 Ethersworn Canonist
 1 Wooded Foothills
@@ -16,6 +15,7 @@
 1 Goblin Cratermaker
 1 Pyroblast
 1 Imperial Recruiter
+1 Red Elemental Blast
 1 Ensnaring Bridge
 1 Arid Mesa
 1 Goblin Welder
@@ -52,8 +52,6 @@
 4 Imperial Recruiter
 4 Painter's Servant
 4 Pyroblast
-9 Mountain
-10 Mountain
 1 Hanweir Garrison
 2 Hanweir Garrison
 1 Thorn of Amethyst
@@ -64,8 +62,7 @@
 3 Chandra, Awakened Inferno
 4 Blood Sun
 4 Chandra, Awakened Inferno
+10 Mountain
 11 Mountain
 12 Mountain
-2 Red Elemental Blast
-3 Red Elemental Blast
-4 Red Elemental Blast
+9 Mountain
