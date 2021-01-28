@@ -73,8 +73,8 @@
 1 Garruk, Cursed Huntsman
 1 Acolyte of Affliction
 2 Acquisitions Expert
-2 Mire Triton
 2 Eerie Ultimatum
+2 Mire Triton
 2 Doom Foretold
 2 Yasharn, Implacable Earth
 2 Treacherous Blessing
@@ -82,8 +82,8 @@
 2 Acolyte of Affliction
 3 Treacherous Blessing
 3 Doom Foretold
-4 Treacherous Blessing
 4 Mythos of Nethroi
+4 Treacherous Blessing
 4 Doom Foretold
 5 Swamp
 6 Swamp
@@ -116,12 +116,12 @@
 3 Lukka, Coppercoat Outcast
 1 Hagra Mauling
 1 Castle Locthwain
+1 Elder Gargaroth
 1 Agonizing Remorse
 1 Bonders' Enclave
 1 Cling to Dust
 1 Bala Ged Recovery
 1 Scavenging Ooze
-1 Elder Gargaroth
 2 Bala Ged Recovery
 2 Castle Locthwain
 2 Agonizing Remorse
@@ -141,12 +141,11 @@
 1 Island
 1 Savai Triome
 1 Dismal Backwater
-1 Ketria Triome
 1 Thirst for Meaning
 1 Fae of Wishes
-1 Jungle Hollow
-1 Thornwood Falls
+1 Ketria Triome
 1 Bloodfell Caves
+1 Thornwood Falls
 1 Sanctum of Shattered Heights
 1 Sanctum of All
 1 Sanctum of Calm Waters
@@ -158,6 +157,7 @@
 1 Cragcrown Pathway
 1 Wind-Scarred Crag
 1 Tranquil Cove
+1 Jungle Hollow
 1 Sanctum of Fruitful Harvest
 2 Tranquil Cove
 2 Dismal Backwater
@@ -264,12 +264,12 @@
 1 Evolving Wilds
 1 Ruin Crab
 1 Merfolk Secretkeeper
+1 Teferi's Tutelage
 1 Didn't Say Please
 1 Into the Story
 1 Negate
 1 Stern Dismissal
 1 Relic Golem
-1 Teferi's Tutelage
 2 Didn't Say Please
 2 Evolving Wilds
 2 Anticognition
@@ -289,11 +289,11 @@
 3 Relic Golem
 3 Teferi's Tutelage
 3 Into the Story
-4 Didn't Say Please
 4 Merfolk Secretkeeper
 4 Ruin Crab
 4 Teferi's Tutelage
 4 Relic Golem
+4 Didn't Say Please
 4 Evolving Wilds
 17 Island
 18 Island

@@ -76,13 +76,13 @@
 2 Mutavault
 3 Mutavault
 1 Resolute Strike
+1 Open the Armory
 1 Sigarda's Aid
+1 Mardu Woe-Reaper
 1 Wishclaw Talisman
 1 Blood-Chin Rager
 1 Colossus Hammer
 1 Kor Blademaster
-1 Mardu Woe-Reaper
-1 Open the Armory
 1 Shadowspear
 1 Brightclimb Pathway
 1 Caves of Koilos
@@ -93,11 +93,11 @@
 2 Wishclaw Talisman
 2 Colossus Hammer
 2 Resolute Strike
+2 Open the Armory
 2 Sigarda's Aid
 2 Kor Blademaster
-2 Blood-Chin Rager
 2 Mardu Woe-Reaper
-2 Open the Armory
+2 Blood-Chin Rager
 2 Concealed Courtyard
 2 Godless Shrine
 2 Gods Willing
@@ -108,19 +108,19 @@
 3 Colossus Hammer
 3 Resolute Strike
 3 Kor Blademaster
+3 Open the Armory
 3 Sigarda's Aid
 3 Mardu Woe-Reaper
-3 Open the Armory
 3 Caves of Koilos
 3 Brightclimb Pathway
 3 Concealed Courtyard
 3 Godless Shrine
 3 Bloodsoaked Champion
+4 Mardu Woe-Reaper
 4 Resolute Strike
 4 Open the Armory
 4 Colossus Hammer
 4 Sigarda's Aid
-4 Mardu Woe-Reaper
 4 Kor Blademaster
 4 Brightclimb Pathway
 4 Godless Shrine
@@ -168,7 +168,6 @@
 3 Wishclaw Talisman
 3 Mardu Shadowspear
 4 Mardu Shadowspear
-1 Omen of the Sun
 1 Gideon, Ally of Zendikar
 1 Elspeth, Sun's Champion
 1 Westvale Abbey
@@ -180,6 +179,7 @@
 1 Conclave Tribunal
 1 Legion's Landing
 1 Saproling Migration
+1 Omen of the Sun
 1 Trostani Discordant
 1 Sunpetal Grove
 1 Huatli, Radiant Champion
@@ -206,11 +206,11 @@
 2 Nissa, Voice of Zendikar
 2 Anointed Procession
 3 Omen of the Sun
-3 Legion's Landing
 3 Temple Garden
 3 Saproling Migration
 3 Branchloft Pathway
 3 Conclave Tribunal
+3 Legion's Landing
 3 Sunpetal Grove
 3 Voice of Resurgence
 3 Anointed Procession
@@ -219,8 +219,8 @@
 3 Raise the Alarm
 3 Forest
 4 Voice of Resurgence
-4 Saproling Migration
 4 Branchloft Pathway
+4 Saproling Migration
 4 Temple Garden
 4 Sunpetal Grove
 4 Nissa, Voice of Zendikar

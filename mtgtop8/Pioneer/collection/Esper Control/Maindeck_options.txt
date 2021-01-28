@@ -1,19 +1,10 @@
 1 Dovin's Veto
 2 Dovin's Veto
 4 Teferi, Time Raveler
-2 Teferi, Hero of Dominaria
-3 Yorion, Sky Nomad
-3 Glacial Fortress
-3 Thought Erasure
-4 Glacial Fortress
-4 Supreme Verdict
-4 Drowned Catacomb
 1 Clearwater Pathway
 1 Brightclimb Pathway
 2 Clearwater Pathway
 2 Brightclimb Pathway
-3 Isolated Chapel
-4 Fabled Passage
 1 Ashiok, Nightmare Muse
 2 Plains
 1 Charming Prince
@@ -27,6 +18,15 @@
 2 Skyclave Apparition
 3 Charming Prince
 3 Skyclave Apparition
+2 Teferi, Hero of Dominaria
+3 Yorion, Sky Nomad
+3 Glacial Fortress
+3 Thought Erasure
+4 Drowned Catacomb
+4 Glacial Fortress
+4 Supreme Verdict
+3 Isolated Chapel
+4 Fabled Passage
 1 Essence Scatter
 1 Cling to Dust
 2 Castle Ardenvale
@@ -50,13 +50,14 @@
 2 Commit / Memory
 3 Trial of Ambition
 3 Teferi, Hero of Dominaria
+1 Omen of the Sun
 1 Dig Through Time
-1 Eliminate
 1 Field of Ruin
 1 Neutralize
 1 Opt
 1 Prairie Stream
 1 Declaration in Stone
+1 Eliminate
 1 Dragonlord Ojutai
 2 Dig Through Time
 2 Neutralize
@@ -67,9 +68,9 @@
 2 Ashiok, Nightmare Muse
 3 Dig Through Time
 3 Neutralize
+3 Opt
 3 Ashiok, Nightmare Muse
 3 Island
-3 Opt
 4 Neutralize
 4 Opt
 3 Declaration in Stone

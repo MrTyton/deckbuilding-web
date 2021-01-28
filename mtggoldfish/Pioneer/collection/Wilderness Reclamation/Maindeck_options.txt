@@ -8,9 +8,9 @@
 1 Swamp
 1 Zagoth Triome
 1 Watery Grave
-2 Fatal Push
 2 Zagoth Triome
 2 Watery Grave
+2 Fatal Push
 3 Zagoth Triome
 4 Zagoth Triome
 4 Mystical Dispute
@@ -44,8 +44,8 @@
 1 Blooming Marsh
 1 Clearwater Pathway
 2 Botanical Sanctum
-2 Blooming Marsh
 2 Thoughtseize
+2 Blooming Marsh
 2 Overgrown Tomb
 3 Negate
 1 Heartless Act
@@ -61,20 +61,9 @@
 1 Spikefield Hazard
 1 Spirebluff Canal
 2 Aether Gust
-3 Drowned Catacomb
 2 Clearwater Pathway
 3 Chemister's Insight
-1 Castle Locthwain
-1 Opt
-1 Thassa's Intervention
-1 Narset, Parter of Veils
-2 Opt
-2 Thassa's Intervention
-3 Opt
-3 Island
-3 Thassa's Intervention
-4 Opt
-4 Thassa's Intervention
+3 Drowned Catacomb
 1 Lumbering Falls
 1 Elder Gargaroth
 2 Cyclonic Rift
@@ -101,3 +90,14 @@
 3 Teferi, Time Raveler
 4 Raugrin Triome
 4 Satyr Wayfinder
+1 Thassa's Intervention
+1 Narset, Parter of Veils
+1 Castle Locthwain
+1 Opt
+2 Thassa's Intervention
+2 Opt
+3 Island
+3 Opt
+3 Thassa's Intervention
+4 Thassa's Intervention
+4 Opt
