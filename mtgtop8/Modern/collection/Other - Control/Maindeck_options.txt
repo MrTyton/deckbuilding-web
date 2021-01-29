@@ -15,12 +15,11 @@
 2 Arboreal Grazer
 2 Solemn Simulacrum
 2 Search for Tomorrow
-2 Temple Garden
 2 Felidar Retreat
 2 Windswept Heath
 2 Wooded Foothills
+2 Temple Garden
 3 Field of the Dead
-3 Felidar Retreat
 3 Search for Tomorrow
 3 Explore
 3 Snow-Covered Forest
@@ -28,6 +27,7 @@
 3 Arboreal Grazer
 3 Solemn Simulacrum
 3 Wurmcoil Engine
+3 Felidar Retreat
 3 Windswept Heath
 3 Temple Garden
 3 Wooded Foothills
@@ -41,50 +41,50 @@
 1 Flooded Strand
 2 Snow-Covered Island
 2 Flooded Strand
+1 Silent Clearing
 1 Minamo, School at Water's Edge
+1 Godless Shrine
 1 Tasigur, the Golden Fang
 1 Thought Scour
-1 Unearth
-1 Lurrus of the Dream-Den
-1 Watery Grave
 1 Polluted Delta
+1 Unearth
+1 Watery Grave
 1 Repeal
 1 Monastery Mentor
 1 Soul-Guide Lantern
 1 Spellskite
 1 Erayo, Soratami Ascendant
 1 Teferi, Time Raveler
-1 Silent Clearing
 1 Mox Amber
 1 Mishra's Bauble
+1 Lurrus of the Dream-Den
 1 Hallowed Fountain
 1 Emry, Lurker of the Loch
-1 Godless Shrine
 1 Aether Spellbomb
 1 Engineered Explosives
 1 Waterlogged Grove
 2 Repeal
-2 Engineered Explosives
 2 Mox Amber
 2 Thought Scour
-2 Unearth
 2 Polluted Delta
+2 Unearth
 2 Monastery Mentor
 2 Emry, Lurker of the Loch
 2 Mishra's Bauble
 2 Teferi, Time Raveler
 2 Erayo, Soratami Ascendant
 2 Waterlogged Grove
+2 Engineered Explosives
 3 Teferi, Time Raveler
 3 Mox Amber
-3 Repeal
 3 Flooded Strand
+3 Repeal
 3 Thought Scour
 3 Polluted Delta
 3 Unearth
-3 Mishra's Bauble
 3 Monastery Mentor
 3 Erayo, Soratami Ascendant
+3 Mishra's Bauble
 3 Emry, Lurker of the Loch
 4 Mox Amber
 4 Flooded Strand
@@ -99,29 +99,28 @@
 1 Lightning Bolt
 2 Mountain
 2 Lightning Bolt
-1 Oust
 1 Valakut Awakening
 1 Cascading Cataracts
 1 Battlefield Forge
-1 Sunbaked Canyon
 1 Sacred Foundry
 1 Mana Tithe
 1 Pillage
 1 Molten Rain
+1 Oust
 1 Stone Rain
 1 Magus of the Tabernacle
 1 Flagstones of Trokair
 1 Boom / Bust
 1 Suppression Field
+1 Sunbaked Canyon
 1 Inspiring Vantage
 1 Goblin Dark-Dwellers
 1 Ghostly Prison
-2 Oust
 2 Valakut Awakening
 2 Battlefield Forge
-2 Sunbaked Canyon
 2 Mana Tithe
 2 Pillage
+2 Oust
 2 Stone Rain
 2 Molten Rain
 2 Flagstones of Trokair
@@ -131,6 +130,7 @@
 2 Inspiring Vantage
 2 Suppression Field
 2 Boom / Bust
+2 Sunbaked Canyon
 2 Cascading Cataracts
 2 Ghostly Prison
 3 Sacred Foundry
@@ -155,11 +155,12 @@
 4 Boom / Bust
 4 Inspiring Vantage
 4 Molten Rain
+1 Jace, the Mind Sculptor
 1 Remand
 1 Misty Rainforest
+1 Archmage's Charm
 1 Shark Typhoon
 1 Castle Vantress
-1 Archmage's Charm
 1 Fact or Fiction
 1 Nexus of Fate
 1 Force of Negation
@@ -169,16 +170,15 @@
 1 Breeding Pool
 1 Scalding Tarn
 1 Uro, Titan of Nature's Wrath
-1 Jace, the Mind Sculptor
 1 Ice-Fang Coatl
 1 Wilderness Reclamation
 1 Field of Ruin
 2 Scalding Tarn
+2 Archmage's Charm
 2 Remand
 2 Breeding Pool
-2 Misty Rainforest
 2 Jace, the Mind Sculptor
-2 Archmage's Charm
+2 Misty Rainforest
 2 Uro, Titan of Nature's Wrath
 2 Force of Negation
 2 Wilderness Reclamation
@@ -188,12 +188,12 @@
 2 Mystic Sanctuary
 2 Ice-Fang Coatl
 2 Field of Ruin
+3 Mystic Sanctuary
 3 Wilderness Reclamation
-3 Snow-Covered Island
 3 Archmage's Charm
 3 Remand
 3 Breeding Pool
-3 Mystic Sanctuary
+3 Snow-Covered Island
 3 Misty Rainforest
 3 Field of Ruin
 3 Nexus of Fate
@@ -201,20 +201,20 @@
 3 Cryptic Command
 3 Uro, Titan of Nature's Wrath
 4 Growth Spiral
-4 Snow-Covered Island
 4 Archmage's Charm
+4 Snow-Covered Island
 4 Cryptic Command
 4 Mystic Sanctuary
 4 Misty Rainforest
 5 Snow-Covered Island
 6 Snow-Covered Island
 1 Nurturing Peatland
-1 Thoughtseize
-1 Fatal Push
-1 Magmatic Channeler
 1 Dreadbore
 1 Inquisition of Kozilek
+1 Thoughtseize
+1 Fatal Push
 1 Liliana of the Veil
+1 Magmatic Channeler
 1 Bloodstained Mire
 1 Kroxa, Titan of Death's Hunger
 1 Chandra, Torch of Defiance
@@ -223,8 +223,10 @@
 1 Blackcleave Cliffs
 1 Seasoned Pyromancer
 1 Blood Moon
-2 Kroxa, Titan of Death's Hunger
+2 Swamp
 2 Thoughtseize
+2 Inquisition of Kozilek
+2 Kroxa, Titan of Death's Hunger
 2 Fatal Push
 2 Dreadbore
 2 Bloodstained Mire
@@ -233,31 +235,29 @@
 2 Magmatic Channeler
 2 Blood Moon
 2 Blackcleave Cliffs
-2 Swamp
 2 Liliana of the Veil
-2 Inquisition of Kozilek
 2 Seasoned Pyromancer
+3 Marsh Flats
+3 Inquisition of Kozilek
 3 Bloodstained Mire
 3 Lightning Bolt
-3 Marsh Flats
 3 Blackcleave Cliffs
 3 Blood Crypt
 3 Magmatic Channeler
 3 Thoughtseize
 3 Seasoned Pyromancer
-3 Inquisition of Kozilek
 3 Liliana of the Veil
 3 Blood Moon
 3 Swamp
 3 Kroxa, Titan of Death's Hunger
+4 Marsh Flats
 4 Blackcleave Cliffs
 4 Kroxa, Titan of Death's Hunger
 4 Blood Moon
-4 Thoughtseize
 4 Bloodstained Mire
 4 Seasoned Pyromancer
 4 Magmatic Channeler
-4 Marsh Flats
+4 Thoughtseize
 4 Swamp
 4 Inquisition of Kozilek
 4 Liliana of the Veil

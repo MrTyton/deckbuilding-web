@@ -1,15 +1,15 @@
-1 Manamorphose
 1 Valakut Awakening
 1 Recross the Paths
+1 Manamorphose
 1 Reforge the Soul
 1 Desperate Ritual
 1 Pyretic Ritual
 1 Irencrag Feat
 1 Spikefield Hazard
 2 Bala Ged Recovery
-2 Manamorphose
 2 Valakut Awakening
 2 Irencrag Feat
+2 Manamorphose
 2 Recross the Paths
 2 Desperate Ritual
 3 Valakut Awakening
@@ -57,24 +57,24 @@
 1 Sacred Foundry
 1 Arid Mesa
 2 Arid Mesa
-1 Dovescape
 1 Mistveil Plains
 1 Plains
+1 Wheel of Sun and Moon
 1 Nykthos, Shrine to Nyx
 1 Marsh Flats
+1 Deafening Clarion
 1 Skyclave Apparition
-1 Wheel of Sun and Moon
 1 Nine Lives
 1 Oust
-1 Solemnity
+1 Dovescape
 1 Treasure Map
 1 Form of the Dragon
 1 Silence
 1 Lotus Bloom
 1 Temple of Triumph
+1 Solemnity
 1 Enduring Ideal
 1 Overwhelming Splendor
-1 Deafening Clarion
 1 Phyrexian Unlife
 2 Silence
 2 Oust
@@ -101,8 +101,8 @@
 3 Silence
 3 Enduring Ideal
 4 Plains
-4 Marsh Flats
 4 Sacred Foundry
+4 Marsh Flats
 4 Silence
 4 Enduring Ideal
 5 Plains
@@ -120,8 +120,8 @@
 2 Brazen Borrower
 2 Glasspool Mimic
 2 Blackbloom Rogue
-3 Glasspool Mimic
 3 Brazen Borrower
+3 Glasspool Mimic
 3 Blackbloom Rogue
 4 Glasspool Mimic
 4 Brazen Borrower
@@ -184,7 +184,6 @@
 4 Mishra's Bauble
 1 Lotus Field
 1 Silundi Vision
-1 Wishclaw Talisman
 1 Polluted Delta
 1 Darkslick Shores
 1 Serum Visions
@@ -195,11 +194,13 @@
 1 Grapeshot
 1 Past in Flames
 1 Echoing Truth
+1 Wishclaw Talisman
 1 Sleight of Hand
 1 Dream's Grip
 1 Merchant Scroll
 1 Watery Grave
 1 Peer Through Depths
+2 Watery Grave
 2 Lotus Field
 2 Polluted Delta
 2 Wishclaw Talisman
@@ -209,7 +210,6 @@
 2 Dream's Grip
 2 Reach Through Mists
 2 Peer Through Depths
-2 Watery Grave
 2 Serum Visions
 2 Ideas Unbound
 2 Sleight of Hand
@@ -275,16 +275,16 @@
 3 Force of Negation
 3 Mass Hysteria
 4 Arid Mesa
-4 Wooded Foothills
 4 Polymorph
+4 Wooded Foothills
 4 Mass Hysteria
 4 Transmogrify
 4 Remand
 4 Lightning Bolt
-1 Vizier of Remedies
-1 Tangled Florahedron
-1 Wild Cantor
 1 Noxious Revival
+1 Tangled Florahedron
+1 Vizier of Remedies
+1 Wild Cantor
 1 Devoted Druid
 1 Karn, the Great Creator
 2 Wild Cantor

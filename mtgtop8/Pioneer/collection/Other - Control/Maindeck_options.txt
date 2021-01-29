@@ -18,11 +18,11 @@
 1 Rewind
 1 Sinister Sabotage
 1 Hero's Downfall
-1 Torrential Gearhulk
 1 Mutavault
+1 Torrential Gearhulk
+2 Mutavault
 2 Rewind
 2 Sinister Sabotage
-2 Mutavault
 2 Torrential Gearhulk
 3 Hieroglyphic Illumination
 3 Sinister Sabotage
@@ -69,14 +69,14 @@
 1 Ramunap Ruins
 1 Scavenger Grounds
 1 Cleansing Wildfire
-1 Mazemind Tome
 1 Golos, Tireless Pilgrim
 1 Cascading Cataracts
+1 Mazemind Tome
 1 Chandra, Awakened Inferno
 1 Chandra, Torch of Defiance
 1 Blast Zone
-1 Anger of the Gods
 1 Valakut Awakening
+1 Anger of the Gods
 1 Bonecrusher Giant
 1 Ugin, the Spirit Dragon
 1 Battlefield Forge
@@ -99,10 +99,10 @@
 2 Mountain
 2 Darksteel Citadel
 3 Vessel of Volatility
-3 Ramunap Ruins
 3 Cleansing Wildfire
 3 Irencrag Feat
 3 Cascading Cataracts
+3 Ramunap Ruins
 3 Valakut Awakening
 3 Mazemind Tome
 3 Anger of the Gods
@@ -128,8 +128,8 @@
 1 Charming Prince
 1 Paradise Druid
 1 Dragonlord Dromoka
-1 Void Winnower
 1 Emrakul, the Promised End
+1 Void Winnower
 1 Fortified Village
 1 Worldspine Wurm
 1 Stormtide Leviathan

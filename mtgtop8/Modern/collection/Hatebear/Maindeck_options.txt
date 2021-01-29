@@ -4,21 +4,15 @@
 2 Ethersworn Canonist
 3 Archon of Emeria
 3 Ethersworn Canonist
-1 Snow-Covered Plains
-2 Snow-Covered Plains
-3 Snow-Covered Plains
-4 Snow-Covered Plains
-5 Snow-Covered Plains
-6 Snow-Covered Plains
 1 Sunbaked Canyon
 1 Smuggler's Copter
 1 Battlefield Forge
 1 Charming Prince
-1 Inspiring Vantage
-1 Needleverge Pathway
 1 Sacred Foundry
+1 Inspiring Vantage
 1 Winota, Joiner of Forces
 1 Mountain
+1 Needleverge Pathway
 1 Angrath's Marauders
 1 Pia and Kiran Nalaar
 1 Seasoned Pyromancer
@@ -32,8 +26,8 @@
 2 Angrath's Marauders
 2 Needleverge Pathway
 3 Needleverge Pathway
-3 Sacred Foundry
 3 Battlefield Forge
+3 Sacred Foundry
 3 Sunbaked Canyon
 3 Inspiring Vantage
 3 Angrath's Marauders
@@ -47,7 +41,13 @@
 4 Seasoned Pyromancer
 4 Winota, Joiner of Forces
 4 Angrath's Marauders
+1 Snow-Covered Plains
+2 Snow-Covered Plains
+3 Snow-Covered Plains
+4 Snow-Covered Plains
 4 Silent Clearing
+5 Snow-Covered Plains
+6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
@@ -58,8 +58,6 @@
 1 Embercleave
 1 Cavern of Souls
 2 Cavern of Souls
-1 Lurrus of the Dream-Den
-1 Flagstones of Trokair
 1 Horizon Canopy
 2 Horizon Canopy
 11 Snow-Covered Plains

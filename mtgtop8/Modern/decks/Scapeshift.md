@@ -1,7 +1,7 @@
 # Scapeshift
 
 #### [Export MTGO List](../collection/Scapeshift/Scapeshift.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Blast%20Zone%0A3%09Brazen%20Borrower%0A2%09Breeding%20Pool%0A4%09Cryptic%20Command%0A1%09Forest%0A4%09Growth%20Spiral%0A1%09Island%0A4%09Ketria%20Triome%0A4%09Lightning%20Bolt%0A4%09Misty%20Rainforest%0A1%09Mountain%0A2%09Mystic%20Sanctuary%0A4%09Opt%0A4%09Remand%0A4%09Scalding%20Tarn%0A4%09Scapeshift%0A4%09Steam%20Vents%0A2%09Stomping%20Ground%0A4%09Uro,%20Titan%20of%20Nature's%20Wrath%0A2%09Valakut,%20the%20Molten%20Pinnacle%0A1%09Wrenn%20and%20Six&deckside=4%09Aether%20Gust%0A4%09Madcap%20Experiment%0A2%09Platinum%20Emperion%0A3%09Veil%20of%20Summer%0A2%09Wrenn%20and%20Six)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Blast%20Zone%0A3%09Brazen%20Borrower%0A2%09Breeding%20Pool%0A4%09Cryptic%20Command%0A1%09Forest%0A4%09Growth%20Spiral%0A1%09Island%0A4%09Ketria%20Triome%0A4%09Lightning%20Bolt%0A4%09Misty%20Rainforest%0A1%09Mountain%0A2%09Mystic%20Sanctuary%0A4%09Opt%0A4%09Remand%0A4%09Scalding%20Tarn%0A4%09Scapeshift%0A4%09Steam%20Vents%0A2%09Stomping%20Ground%0A4%09Uro,%20Titan%20of%20Nature's%20Wrath%0A2%09Valakut,%20the%20Molten%20Pinnacle%0A1%09Wrenn%20and%20Six&deckside=4%09Aether%20Gust%0A2%09Anger%20of%20the%20Gods%0A2%09Thragtusk%0A3%09Veil%20of%20Summer%0A3%09Wall%20of%20Blossoms%0A1%09Wrenn%20and%20Six)
 # Maindeck
 
 |                                              Creature (7)                                               |                                        Instant (20)                                        |                                                Land (28)                                                |                                     Planeswalker (1)                                     |                                      Sorcery (4)                                      |
@@ -22,21 +22,21 @@
 
 # Sideboard
 
-|                                         Creature (2)                                         |                                        Instant (7)                                        |                                     Planeswalker (2)                                     |                                         Sorcery (4)                                          |
-|----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|2 [Platinum Emperion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457134)|4 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)   |2 [Wrenn and Six](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464166)|4 [Madcap Experiment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417695)|
-|                                                                                              |3 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|                                                                                          |                                                                                              |
+|                                        Creature (5)                                         |                                        Instant (7)                                        |                                     Planeswalker (1)                                     |                                         Sorcery (2)                                          |
+|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|2 [Thragtusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614)       |4 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)   |1 [Wrenn and Six](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464166)|2 [Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
+|3 [Wall of Blossoms](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405447)|3 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)|                                                                                          |                                                                                              |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
 |---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Wall of Blossoms](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405447) |
-|                     |             |                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
-|                     |             |                    2|[Thragtusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614)        |
-|                     |             |                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)|
-|                     |             |                    2|[Wall of Blossoms](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405447) |
-|                     |             |                    3|[Wall of Blossoms](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405447) |
-|                     |             |                    1|[Thragtusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614)        |
+|                     |             |                    1|[Madcap Experiment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417695)|
+|                     |             |                    1|[Platinum Emperion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457134)|
+|                     |             |                    2|[Platinum Emperion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457134)|
+|                     |             |                    2|[Madcap Experiment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417695)|
+|                     |             |                    3|[Madcap Experiment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417695)|
+|                     |             |                    4|[Madcap Experiment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417695)|
+|                     |             |                    2|[Wrenn and Six](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464166)    |
 
