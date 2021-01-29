@@ -64,11 +64,11 @@
 1 Wolfwillow Haven
 1 Chevill, Bane of Monsters
 1 Treacherous Blessing
+1 Skull Prophet
 1 Acquisitions Expert
 1 Mire Triton
 1 Omen of the Dead
 1 Lotus Cobra
-1 Skull Prophet
 1 Doom Foretold
 1 Garruk, Cursed Huntsman
 1 Acolyte of Affliction
@@ -114,10 +114,6 @@
 6 Forest
 1 Banishing Light
 3 Lukka, Coppercoat Outcast
-1 Soul Sear
-2 Soul Sear
-3 Soul Sear
-4 Soul Sear
 1 Hagra Mauling
 1 Castle Locthwain
 1 Elder Gargaroth
@@ -144,6 +140,7 @@
 1 Dismal Backwater
 1 Thirst for Meaning
 1 Fae of Wishes
+1 Jungle Hollow
 1 Bloodfell Caves
 1 Thornwood Falls
 1 Sanctum of Shattered Heights
@@ -157,7 +154,6 @@
 1 Cragcrown Pathway
 1 Wind-Scarred Crag
 1 Tranquil Cove
-1 Jungle Hollow
 1 Sanctum of Fruitful Harvest
 2 Tranquil Cove
 2 Dismal Backwater
@@ -182,6 +178,10 @@
 3 Sanctum of All
 4 Extinction Event
 4 Sanctum of Shattered Heights
+1 Soul Sear
+2 Soul Sear
+3 Soul Sear
+4 Soul Sear
 2 Crawling Barrens
 1 Mystic Sanctuary
 1 Frantic Inventory
@@ -221,8 +221,8 @@
 1 Shark Typhoon
 1 Brazen Borrower
 2 Castle Vantress
-2 Gadwick, the Wizened
 2 Rewind
+2 Gadwick, the Wizened
 2 Rain of Revelation
 2 Brazen Borrower
 2 Neutralize
@@ -230,8 +230,8 @@
 2 Shark Typhoon
 2 Hypnotic Sprite
 3 Neutralize
-3 Castle Vantress
 3 Rewind
+3 Castle Vantress
 3 Shark Typhoon
 3 Brazen Borrower
 4 Neutralize

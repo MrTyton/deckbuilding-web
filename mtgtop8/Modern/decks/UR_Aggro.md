@@ -94,9 +94,9 @@
 |                    1|[Seasoned Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464094)  |                     |                                                                                                 |
 |                    2|[Firebolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189236)             |                     |                                                                                                 |
 |                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)     |                     |                                                                                                 |
+|                    4|[Mutagenic Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397717)     |                     |                                                                                                 |
 |                    1|[Reckless Charge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413686)      |                     |                                                                                                 |
 |                    4|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)   |                     |                                                                                                 |
 |                    4|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)          |                     |                                                                                                 |
-|                    4|[Mutagenic Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397717)     |                     |                                                                                                 |
 |                    4|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                                 |
 
