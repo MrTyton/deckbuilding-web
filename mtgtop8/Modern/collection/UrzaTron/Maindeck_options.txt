@@ -10,20 +10,20 @@
 3 Oblivion Stone
 1 Ghost Quarter
 1 Field of Ruin
-1 Island
 1 Repeal
 1 Remand
 1 Mindslaver
 1 Sundering Titan
+1 Island
 1 Thirst for Knowledge
 1 Condescend
 1 Academy Ruins
-2 Island
 2 Repeal
 2 Remand
+2 Island
 2 Thirst for Knowledge
-3 Remand
 3 Repeal
+3 Remand
 4 Remand
 4 Wurmcoil Engine
 1 Mazemind Tome
@@ -60,15 +60,15 @@
 2 Thought-Knot Seer
 3 Thought-Knot Seer
 4 Thought-Knot Seer
-1 Chalice of the Void
 1 Shark Typhoon
 1 Cyclonic Rift
+1 Chalice of the Void
 2 Condescend
-3 Island
 3 Condescend
+3 Island
 3 Thirst for Knowledge
-4 Island
 4 Condescend
+4 Island
 4 Thirst for Knowledge
 5 Island
 1 Gemstone Caverns
@@ -84,29 +84,13 @@
 2 Mind Stone
 2 Defense Grid
 3 Walking Ballista
-1 World Breaker
-1 Nurturing Peatland
-3 Thragtusk
-4 Thragtusk
-1 Clearwater Pathway
-1 Treasure Mage
-2 Chalice of the Void
-2 Shark Typhoon
-2 Clearwater Pathway
-3 Clearwater Pathway
-3 Chalice of the Void
-3 Shark Typhoon
-4 Chalice of the Void
-4 Shark Typhoon
-4 Repeal
-4 Relic of Progenitus
+1 Snow-Covered Island
 1 Omen of the Sea
 1 Dimir Signet
 1 Cavern of Souls
 1 Spell Snare
 1 Mana Leak
 1 River of Tears
-1 Snow-Covered Island
 2 Omen of the Sea
 2 Snow-Covered Island
 2 Mana Leak
@@ -114,8 +98,30 @@
 3 Snow-Covered Island
 4 Omen of the Sea
 4 Snow-Covered Island
+1 World Breaker
+1 Nurturing Peatland
+3 Thragtusk
+4 Thragtusk
+4 Relic of Progenitus
+1 Treasure Mage
+1 Clearwater Pathway
+2 Shark Typhoon
+2 Clearwater Pathway
+2 Chalice of the Void
+3 Clearwater Pathway
+3 Shark Typhoon
+3 Chalice of the Void
+4 Shark Typhoon
+4 Repeal
+4 Chalice of the Void
 3 Spatial Contortion
 4 Spatial Contortion
+1 Welding Jar
+1 Ensnaring Bridge
+2 Ensnaring Bridge
+3 Mazemind Tome
+3 Ensnaring Bridge
+4 Mazemind Tome
 1 Urza's Factory
 1 Hexdrinker
 1 Explore
@@ -125,15 +131,9 @@
 4 Explore
 5 Forest
 6 Forest
+1 Talisman of Dominance
 1 Tolaria West
 1 Dismember
 1 Oboro, Palace in the Clouds
-1 Talisman of Dominance
 2 Field of Ruin
 6 Island
-1 Welding Jar
-1 Ensnaring Bridge
-2 Ensnaring Bridge
-3 Mazemind Tome
-3 Ensnaring Bridge
-4 Mazemind Tome
