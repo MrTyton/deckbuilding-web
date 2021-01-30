@@ -20,6 +20,7 @@
 2 Wooded Foothills
 2 Temple Garden
 3 Field of the Dead
+3 Felidar Retreat
 3 Search for Tomorrow
 3 Explore
 3 Snow-Covered Forest
@@ -27,7 +28,6 @@
 3 Arboreal Grazer
 3 Solemn Simulacrum
 3 Wurmcoil Engine
-3 Felidar Retreat
 3 Windswept Heath
 3 Temple Garden
 3 Wooded Foothills
@@ -76,9 +76,9 @@
 2 Waterlogged Grove
 2 Engineered Explosives
 3 Teferi, Time Raveler
-3 Mox Amber
-3 Flooded Strand
 3 Repeal
+3 Flooded Strand
+3 Mox Amber
 3 Thought Scour
 3 Polluted Delta
 3 Unearth
@@ -101,13 +101,13 @@
 2 Lightning Bolt
 1 Valakut Awakening
 1 Cascading Cataracts
-1 Battlefield Forge
 1 Sacred Foundry
+1 Stone Rain
+1 Battlefield Forge
 1 Mana Tithe
 1 Pillage
 1 Molten Rain
 1 Oust
-1 Stone Rain
 1 Magus of the Tabernacle
 1 Flagstones of Trokair
 1 Boom / Bust
@@ -117,11 +117,11 @@
 1 Goblin Dark-Dwellers
 1 Ghostly Prison
 2 Valakut Awakening
+2 Stone Rain
 2 Battlefield Forge
 2 Mana Tithe
 2 Pillage
 2 Oust
-2 Stone Rain
 2 Molten Rain
 2 Flagstones of Trokair
 2 Sacred Foundry
@@ -134,6 +134,7 @@
 2 Cascading Cataracts
 2 Ghostly Prison
 3 Sacred Foundry
+3 Stone Rain
 3 Sunbaked Canyon
 3 Pillage
 3 Boom / Bust
@@ -143,15 +144,14 @@
 3 Molten Rain
 3 Cascading Cataracts
 3 Flagstones of Trokair
-3 Stone Rain
 3 Mana Tithe
 3 Suppression Field
 4 Pillage
 4 Sacred Foundry
 4 Sunbaked Canyon
+4 Stone Rain
 4 Mana Tithe
 4 Flagstones of Trokair
-4 Stone Rain
 4 Boom / Bust
 4 Inspiring Vantage
 4 Molten Rain
@@ -192,8 +192,8 @@
 3 Wilderness Reclamation
 3 Archmage's Charm
 3 Remand
-3 Breeding Pool
 3 Snow-Covered Island
+3 Breeding Pool
 3 Misty Rainforest
 3 Field of Ruin
 3 Nexus of Fate
@@ -227,8 +227,8 @@
 2 Thoughtseize
 2 Inquisition of Kozilek
 2 Kroxa, Titan of Death's Hunger
-2 Fatal Push
 2 Dreadbore
+2 Fatal Push
 2 Bloodstained Mire
 2 Marsh Flats
 2 Blood Crypt

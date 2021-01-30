@@ -1,31 +1,31 @@
 4 Drowned Catacomb
+1 Extinction Event
 1 Castle Locthwain
+1 Sinister Sabotage
+1 Hero's Downfall
+1 Mutavault
+1 Torrential Gearhulk
 1 Castle Vantress
 1 Vraska's Contempt
+1 Rewind
 1 Field of Ruin
 1 Censor
 1 Shark Typhoon
+2 Mutavault
+2 Rewind
+2 Sinister Sabotage
 2 Shark Typhoon
 2 Censor
 2 Vraska's Contempt
+2 Torrential Gearhulk
 3 Dig Through Time
+3 Hieroglyphic Illumination
+3 Sinister Sabotage
 3 Shark Typhoon
 3 Fetid Pools
 3 Censor
 4 Dig Through Time
 4 Shark Typhoon
-1 Extinction Event
-1 Rewind
-1 Sinister Sabotage
-1 Hero's Downfall
-1 Mutavault
-1 Torrential Gearhulk
-2 Mutavault
-2 Rewind
-2 Sinister Sabotage
-2 Torrential Gearhulk
-3 Hieroglyphic Illumination
-3 Sinister Sabotage
 4 Sinister Sabotage
 1 Drown in the Loch
 1 Thieves' Guild Enforcer
@@ -50,20 +50,6 @@
 4 Thieves' Guild Enforcer
 4 Soaring Thought-Thief
 4 Drown in the Loch
-1 Void Shatter
-1 Negate
-2 Void Shatter
-2 Eliminate
-2 Negate
-2 Field of Ruin
-2 Castle Locthwain
-3 Eliminate
-3 Void Shatter
-3 Vraska's Contempt
-4 Eliminate
-4 Censor
-4 Void Shatter
-4 Vraska's Contempt
 1 Irencrag Feat
 1 Vessel of Volatility
 1 Ramunap Ruins
@@ -96,8 +82,8 @@
 2 Battlefield Forge
 2 Ugin, the Spirit Dragon
 2 Thought-Knot Seer
-2 Mountain
 2 Darksteel Citadel
+2 Mountain
 3 Vessel of Volatility
 3 Cleansing Wildfire
 3 Irencrag Feat
@@ -145,7 +131,6 @@
 2 Charming Prince
 2 Paradise Druid
 2 Sunpetal Grove
-2 Trostani Discordant
 2 Plains
 2 Forest
 2 Elvish Mystic
@@ -155,6 +140,7 @@
 2 Dubious Challenge
 2 See the Unwritten
 2 Llanowar Elves
+2 Trostani Discordant
 3 Temple Garden
 3 Charming Prince
 3 Plains
@@ -170,16 +156,16 @@
 3 Worldspine Wurm
 4 Temple Garden
 4 Charming Prince
-4 Sunpetal Grove
+4 Paradise Druid
 4 Trostani Discordant
 4 See the Unwritten
-4 Paradise Druid
 4 Worldspine Wurm
 4 Elvish Mystic
 4 Fortified Village
 4 Llanowar Elves
 4 Dubious Challenge
 4 Forest
+4 Sunpetal Grove
 5 Forest
 6 Forest
 7 Forest
