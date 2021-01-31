@@ -1,12 +1,12 @@
-4 Shepherd of the Flock
-2 Vivien, Monsters' Advocate
 2 Questing Beast
+1 Faerie Guidemother
+4 Shepherd of the Flock
 7 Forest
 4 Emeria's Call
 2 Faerie Guidemother
 3 Temple of Plenty
-1 Legion Angel
 3 Scavenging Ooze
+1 Legion Angel
 3 Faerie Guidemother
 3 Elspeth Conquers Death
 1 Luminarch Aspirant
@@ -25,8 +25,9 @@
 4 Glass Casket
 7 Plains
 8 Plains
-1 Thrashing Brontodon
 4 Scavenging Ooze
+1 Thrashing Brontodon
+8 Forest
 1 Bronzehide Lion
 2 Bronzehide Lion
 1 Mountain
@@ -43,7 +44,6 @@
 4 Bonecrusher Giant
 4 Cragcrown Pathway
 4 Needleverge Pathway
-8 Forest
 1 Castle Ardenvale
 1 Indatha Triome
 1 Maul of the Skyclaves
@@ -68,6 +68,10 @@
 2 Scorching Dragonfire
 2 Thrashing Brontodon
 3 Vivien, Monsters' Advocate
+1 Turntimber Symbiosis
+2 Turntimber Symbiosis
+1 Gemrazer
+2 Gemrazer
 1 Ugin, the Spirit Dragon
 1 Field of Ruin
 1 Banishing Light
@@ -78,15 +82,13 @@
 2 Storm's Wrath
 3 Scorching Dragonfire
 3 Shredded Sails
-1 Thundering Rebuke
 1 The Akroan War
+1 Thundering Rebuke
 2 The Akroan War
 3 The Akroan War
 3 Thrashing Brontodon
 1 Blossoming Sands
-1 Turntimber Symbiosis
 1 Basri's Lieutenant
-2 Turntimber Symbiosis
 2 Basri's Lieutenant
 3 Basri's Lieutenant
 3 Elder Gargaroth
@@ -104,7 +106,6 @@
 4 Hushbringer
 1 Extinction Event
 1 Heartless Act
-1 Gemrazer
 1 Temple of Malady
 1 Swamp
 1 Polukranos, Unchained
@@ -119,7 +120,6 @@
 2 Foulmire Knight
 2 Bloodchief's Thirst
 2 Rankle, Master of Pranks
-2 Gemrazer
 2 Agadeem's Awakening
 2 Swamp
 2 Heartless Act
@@ -133,3 +133,33 @@
 4 Temple of Malady
 5 Swamp
 6 Swamp
+1 Swarm Shambler
+1 Garruk, Unleashed
+1 Stonecoil Serpent
+1 Castle Garenbrig
+1 Tangled Florahedron
+1 Primal Might
+1 Yorvo, Lord of Garenbrig
+1 Ram Through
+1 Inscription of Abundance
+1 Bonders' Enclave
+2 Stonecoil Serpent
+2 Ram Through
+2 Swarm Shambler
+2 Castle Garenbrig
+2 Bonders' Enclave
+3 Ram Through
+3 Stonecoil Serpent
+3 Questing Beast
+3 Gemrazer
+3 Swarm Shambler
+4 Gemrazer
+4 Stonecoil Serpent
+4 Ram Through
+9 Forest
+10 Forest
+11 Forest
+12 Forest
+13 Forest
+14 Forest
+15 Forest
