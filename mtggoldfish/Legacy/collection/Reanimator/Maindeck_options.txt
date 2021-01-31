@@ -36,12 +36,12 @@
 1 Collective Brutality
 1 Grave Titan
 1 Hymn to Tourach
+2 Grave Titan
 2 Collective Brutality
 2 Hymn to Tourach
-2 Grave Titan
 3 Hymn to Tourach
-3 Collective Brutality
 3 Grave Titan
+3 Collective Brutality
 4 Hymn to Tourach
 4 Grave Titan
 2 Bayou
@@ -107,11 +107,6 @@
 3 Hapless Researcher
 4 Underground Sea
 4 Careful Study
-1 Wasteland
-1 Brazen Borrower
-2 Wasteland
-2 Brazen Borrower
-4 Ponder
 1 Grim Tutor
 1 Sphinx of the Steel Wind
 2 Grim Tutor
@@ -133,3 +128,8 @@
 3 Lake of the Dead
 18 Swamp
 19 Swamp
+1 Wasteland
+1 Brazen Borrower
+2 Wasteland
+2 Brazen Borrower
+4 Ponder

@@ -1,11 +1,10 @@
+1 Iona, Shield of Emeria
+2 Verdant Catacombs
+1 Tendrils of Agony
+1 Chrome Mox
+3 Marsh Flats
 4 Bloodstained Mire
 4 Marsh Flats
-3 Badlands
-1 Verdant Catacombs
-2 Verdant Catacombs
-4 Thoughtseize
-1 Iona, Shield of Emeria
-1 Snow-Covered Swamp
 1 Cabal Therapy
 4 Polluted Delta
 1 Tropical Island
@@ -19,9 +18,11 @@
 3 Force of Will
 3 Brainstorm
 3 Ponder
-4 Force of Will
 4 Ponder
 4 Brainstorm
+4 Force of Will
+1 Snow-Covered Swamp
+1 Collective Brutality
 1 Duress
 2 Duress
 3 Verdant Catacombs
@@ -30,8 +31,8 @@
 2 Misty Rainforest
 1 Ice-Fang Coatl
 1 Worldgorger Dragon
-1 Snow-Covered Forest
 1 Arcum's Astrolabe
+1 Snow-Covered Forest
 1 Abrupt Decay
 1 Uro, Titan of Nature's Wrath
 1 Snow-Covered Island
@@ -47,20 +48,18 @@
 4 Misty Rainforest
 4 Arcum's Astrolabe
 4 Ice-Fang Coatl
-2 Snow-Covered Swamp
 3 Underground Sea
-1 Collective Brutality
 1 Ashen Rider
-3 Snow-Covered Swamp
-1 Pathrazer of Ulamog
 2 Cabal Therapy
 2 Swamp
+1 Pathrazer of Ulamog
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
 1 Ishkanah, Grafwidow
 3 Abrupt Decay
 1 Daze
 2 Daze
+2 Snow-Covered Swamp
 1 Veil of Summer
 1 Shallow Grave
 2 Shallow Grave
@@ -79,6 +78,7 @@
 3 Dark Depths
 1 Sire of Insanity
 3 Duress
+3 Snow-Covered Swamp
 3 Cabal Therapy
 4 Cabal Therapy
 4 Duress
@@ -86,6 +86,16 @@
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
+3 Swamp
+2 Collective Brutality
+3 Collective Brutality
+4 Collective Brutality
+1 Massacre Wurm
+1 Hymn to Tourach
+1 Grave Titan
+2 Hymn to Tourach
+3 Hymn to Tourach
+4 Hymn to Tourach
 1 Preordain
 1 Emrakul, the Aeons Torn
 1 Goryo's Vengeance
@@ -100,6 +110,9 @@
 2 Tropical Island
 2 Mystic Sanctuary
 2 Scrubland
+1 Blood Crypt
+1 Godless Shrine
+2 Blood Crypt
 1 Jace, the Mind Sculptor
 1 Drown in the Loch
 1 Dance of the Dead
@@ -107,10 +120,6 @@
 2 Drown in the Loch
 2 Prismatic Vista
 2 Dance of the Dead
-1 Blood Crypt
-1 Godless Shrine
-2 Blood Crypt
-3 Swamp
 1 Volcanic Island
 1 Sylvan Library
 2 Snow-Covered Forest
@@ -133,25 +142,16 @@
 3 Lion's Eye Diamond
 4 Living Wish
 4 Lion's Eye Diamond
-2 Collective Brutality
-3 Collective Brutality
 3 Urborg, Tomb of Yawgmoth
 4 Dark Depths
 4 Urborg, Tomb of Yawgmoth
 4 Vampire Hexmage
 4 Thespian's Stage
-4 Collective Brutality
 1 Putrid Imp
-1 Massacre Wurm
 1 Smallpox
-1 Hymn to Tourach
-1 Grave Titan
 2 Putrid Imp
-2 Hymn to Tourach
 2 Smallpox
 3 Smallpox
-3 Hymn to Tourach
-4 Hymn to Tourach
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
@@ -162,3 +162,25 @@
 15 Snow-Covered Swamp
 16 Snow-Covered Swamp
 17 Snow-Covered Swamp
+1 Lake of the Dead
+2 Lake of the Dead
+2 Grave Titan
+3 Grave Titan
+3 Lake of the Dead
+4 Swamp
+4 Grave Titan
+5 Swamp
+6 Swamp
+7 Swamp
+8 Swamp
+9 Swamp
+10 Swamp
+11 Swamp
+12 Swamp
+13 Swamp
+14 Swamp
+15 Swamp
+16 Swamp
+17 Swamp
+18 Swamp
+19 Swamp

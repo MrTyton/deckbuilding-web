@@ -39,7 +39,7 @@
 |                    4|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)|                    4|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)  |
 |                    1|[Abbot of Keral Keep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398411)|                    2|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|
 |                    2|[Abbot of Keral Keep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398411)|                    3|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|
-|                    3|[Abbot of Keral Keep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398411)|                    4|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)         |
-|                    4|[Abbot of Keral Keep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398411)|                    4|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
-|                    1|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259) |                    4|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|
+|                    3|[Abbot of Keral Keep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398411)|                    4|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|
+|                    4|[Abbot of Keral Keep](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398411)|                    4|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)         |
+|                    1|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259) |                    4|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
 

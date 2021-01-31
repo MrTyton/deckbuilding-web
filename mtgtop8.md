@@ -40,7 +40,7 @@
 |[Balance](./mtgtop8/Modern/decks/Balance.md)                  |[Goblins](./mtgtop8/Modern/decks/Goblins.md)                    |[Living End](./mtgtop8/Modern/decks/Living_End.md)                |[Scapeshift](./mtgtop8/Modern/decks/Scapeshift.md)                                    |[Urza](./mtgtop8/Modern/decks/Urza.md)                  |
 |[Bant Aggro](./mtgtop8/Modern/decks/Bant_Aggro.md)            |[Gruul Utopia](./mtgtop8/Modern/decks/Gruul_Utopia.md)          |[Martyr Life](./mtgtop8/Modern/decks/Martyr_Life.md)              |[Selesnya Aggro](./mtgtop8/Modern/decks/Selesnya_Aggro.md)                            |[Valakut](./mtgtop8/Modern/decks/Valakut.md)            |
 |[Bant Control](./mtgtop8/Modern/decks/Bant_Control.md)        |[Hardened Scales](./mtgtop8/Modern/decks/Hardened_Scales.md)    |[Merfolk](./mtgtop8/Modern/decks/Merfolk.md)                      |[Simic Ramp Field of the Dead](./mtgtop8/Modern/decks/Simic_Ramp_Field_of_the_Dead.md)|[Weenie White](./mtgtop8/Modern/decks/Weenie_White.md)  |
-|[Boros](./mtgtop8/Modern/decks/Boros.md)                      |[Hatebear](./mtgtop8/Modern/decks/Hatebear.md)                  |[Mono Red Control](./mtgtop8/Modern/decks/Mono_Red_Control.md)    |[Smallpox](./mtgtop8/Modern/decks/Smallpox.md)                                        |                                                        |
+|[Boros](./mtgtop8/Modern/decks/Boros.md)                      |[Hatebear](./mtgtop8/Modern/decks/Hatebear.md)                  |[Mono Red Control](./mtgtop8/Modern/decks/Mono_Red_Control.md)    |[Smallpox](./mtgtop8/Modern/decks/Smallpox.md)                                        |[Zoo](./mtgtop8/Modern/decks/Zoo.md)                    |
 |[CopyCat](./mtgtop8/Modern/decks/CopyCat.md)                  |[Heliod Life](./mtgtop8/Modern/decks/Heliod_Life.md)            |[Orzhov Midrange](./mtgtop8/Modern/decks/Orzhov_Midrange.md)      |[Spirit Aggro](./mtgtop8/Modern/decks/Spirit_Aggro.md)                                |                                                        |
 
 
@@ -62,4 +62,4 @@
 
 
 
-#### Last Updated at 03:08AM on January 31, 2021
+#### Last Updated at 04:10PM on January 31, 2021

@@ -45,19 +45,19 @@
 3 Swords to Plowshares
 1 Snow-Covered Swamp
 1 Ancient Tomb
+1 Karn, the Great Creator
 1 City of Traitors
 1 Trinisphere
-1 Karn, the Great Creator
 1 Chalice of the Void
-2 City of Traitors
 2 Ancient Tomb
-2 Trinisphere
 2 Karn, the Great Creator
+2 City of Traitors
+2 Trinisphere
 2 Chalice of the Void
 3 Ancient Tomb
+3 Karn, the Great Creator
 3 Chalice of the Void
 3 City of Traitors
-3 Karn, the Great Creator
 4 Ancient Tomb
 4 Chalice of the Void
 4 City of Traitors
@@ -72,17 +72,17 @@
 1 Cruel Reality
 1 Overwhelming Splendor
 2 Chrome Mox
+2 Snow-Covered Swamp
 2 Leyline of the Void
 2 Opposition Agent
 2 Curse of Misfortunes
 2 Dark Ritual
 2 Helm of Obedience
-2 Snow-Covered Swamp
 3 Chrome Mox
-3 Leyline of the Void
-3 Opposition Agent
-3 Dark Ritual
 3 Snow-Covered Swamp
+3 Opposition Agent
+3 Leyline of the Void
+3 Dark Ritual
 3 Curse of Misfortunes
 4 Chrome Mox
 4 Leyline of the Void
@@ -118,9 +118,9 @@
 1 Hymn to Tourach
 1 Drown in the Loch
 1 Snapcaster Mage
+2 Snapcaster Mage
 2 Jace, the Mind Sculptor
 2 Hymn to Tourach
-2 Snapcaster Mage
 2 Drown in the Loch
 2 Inquisition of Kozilek
 3 Teferi, Time Raveler
@@ -164,16 +164,16 @@
 3 Hullbreacher
 4 Brazen Borrower
 1 Marsh Flats
-1 Cabal Therapy
 1 Sea Gate Stormcaller
+1 Cabal Therapy
 1 Plains
 2 Cabal Therapy
 2 Sea Gate Stormcaller
 2 Cling to Dust
 2 Marsh Flats
 2 Unearth
-3 Cabal Therapy
 3 Sea Gate Stormcaller
+3 Cabal Therapy
 3 Marsh Flats
 4 Monastery Mentor
 4 Cabal Therapy
@@ -211,8 +211,8 @@
 4 Gilded Goose
 4 Mishra's Bauble
 4 Mox Opal
-1 Mountain
 1 Mazemind Tome
+1 Mountain
 1 Dead / Gone
 1 Reality Smasher
 1 Thought-Knot Seer
