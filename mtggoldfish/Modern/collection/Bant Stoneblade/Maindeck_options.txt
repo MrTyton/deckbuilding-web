@@ -8,16 +8,16 @@
 1 Cryptic Command
 2 Cryptic Command
 1 Deprive
-1 Prismatic Vista
-1 Oust
 1 Archmage's Charm
-1 Mystic Sanctuary
+1 Oust
+1 Prismatic Vista
 1 Spell Snare
+1 Mystic Sanctuary
 1 Flooded Grove
+2 Archmage's Charm
+2 Mystic Sanctuary
 2 Oust
 2 Jace, the Mind Sculptor
-2 Mystic Sanctuary
-2 Archmage's Charm
 3 Archmage's Charm
 4 Snow-Covered Island
 2 Skyclave Apparition
@@ -25,8 +25,8 @@
 1 Snapcaster Mage
 2 Prismatic Vista
 3 Windswept Heath
-2 Snow-Covered Plains
 2 Hallowed Fountain
+2 Snow-Covered Plains
 2 Field of Ruin
 1 Horizon Canopy
 4 Windswept Heath
@@ -55,9 +55,9 @@
 3 Birds of Paradise
 1 Gavony Township
 1 Prairie Stream
+1 Vendilion Clique
 1 Niambi, Esteemed Speaker
 1 Nightpack Ambusher
-1 Vendilion Clique
 2 Snapcaster Mage
 3 Geist of Saint Traft
 1 Voice of Resurgence
@@ -87,6 +87,6 @@
 3 Knight of the Reliquary
 3 Tireless Tracker
 4 Ghost Quarter
-4 Forest
 4 Knight of the Reliquary
+4 Forest
 3 Courser of Kruphix

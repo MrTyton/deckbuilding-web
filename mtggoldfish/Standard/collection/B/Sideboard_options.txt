@@ -1,17 +1,3 @@
-1 Extinction Event
-1 Revenge of Ravens
-1 Drag to the Underworld
-1 Epic Downfall
-1 Fiend Artisan
-1 Grimdancer
-1 Fruit of Tizerus
-1 Call of the Death-Dweller
-1 Necromentia
-1 Dark Bargain
-2 Call of the Death-Dweller
-2 Grimdancer
-3 Grimdancer
-4 Grimdancer
 1 Acquisitions Expert
 1 Rankle, Master of Pranks
 2 Acquisitions Expert
@@ -20,73 +6,59 @@
 4 Acquisitions Expert
 1 Duress
 2 Duress
-3 Duress
 1 Eliminate
+3 Duress
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
+1 Extinction Event
 2 Eliminate
-1 Grasp of Darkness
 1 Shadows' Verdict
-2 Shadows' Verdict
+1 Grasp of Darkness
 2 Grasp of Darkness
-1 Kaervek, the Spiteful
+2 Shadows' Verdict
 1 Agonizing Remorse
 1 Heartless Act
 1 Elspeth's Nightmare
+1 Kaervek, the Spiteful
 2 Elspeth's Nightmare
+1 Mystical Dispute
+2 Mystical Dispute
+1 Skyclave Shade
+2 Skyclave Shade
 1 Crush the Weak
 2 Crush the Weak
 3 Crush the Weak
-3 Elspeth's Nightmare
+1 Feed the Swarm
+2 Feed the Swarm
+3 Feed the Swarm
+3 Skyclave Shade
+3 Mystical Dispute
+4 Mystical Dispute
+2 Agonizing Remorse
+1 Sorcerous Spyglass
+2 Sorcerous Spyglass
+1 Wilt
 1 Eat to Extinction
 2 Kaervek, the Spiteful
-1 Wilt
 1 Kroxa, Titan of Death's Hunger
 1 Ox of Agonas
-2 Agonizing Remorse
 2 Kroxa, Titan of Death's Hunger
 2 Wilt
-1 Bloodchief's Thirst
-1 Elspeth, Sun's Nemesis
-1 Elspeth Conquers Death
-1 Hushbringer
-1 Heliod's Intervention
-1 Specter's Shriek
-1 Redcap Melee
-2 Elspeth Conquers Death
-2 Heliod's Intervention
-2 Hushbringer
-2 Bloodchief's Thirst
-2 Elspeth, Sun's Nemesis
-2 Specter's Shriek
-2 Redcap Melee
-3 Redcap Melee
-1 Village Rites
-3 Grasp of Darkness
-3 Eliminate
-1 Demon Bolt
-1 Jegantha, the Wellspring
-2 Demon Bolt
-3 Demon Bolt
+1 Midnight Clock
+1 Negate
+1 Covetous Urge
+2 Covetous Urge
+2 Negate
+1 Treacherous Blessing
+1 Glimpse of Freedom
+2 Treacherous Blessing
+3 Elspeth's Nightmare
+1 Nighthawk Scavenger
+1 Embereth Shieldbreaker
+2 Nighthawk Scavenger
+2 Embereth Shieldbreaker
+3 Embereth Shieldbreaker
 1 Underworld Charger
-1 Syr Konrad, the Grim
-2 Syr Konrad, the Grim
-2 Underworld Charger
-3 Underworld Charger
-3 Syr Konrad, the Grim
-1 Witch's Vengeance
-2 Witch's Vengeance
-1 Questing Beast
-1 Inscription of Ruin
-1 Return of the Wildspeaker
-1 The Great Henge
-1 Tajuru Blightblade
-1 Mirror Shield
-2 Inscription of Ruin
-2 Tajuru Blightblade
-2 Mirror Shield
-3 Witch's Vengeance
-1 Skyclave Shade
 1 Lurrus of the Dream-Den
 1 Kitesail Freebooter
 1 Piper of the Swarm
@@ -100,43 +72,44 @@
 2 Piper of the Swarm
 3 Tymaret, Chosen from Death
 3 Infernal Scarring
-2 Skyclave Shade
-1 Sorcerous Spyglass
-2 Sorcerous Spyglass
-1 Tormod's Crypt
-2 Tormod's Crypt
-3 Tormod's Crypt
-1 Ram Through
-1 Bound in Gold
-1 Sudden Spinnerets
-1 Righteousness
-2 Ram Through
-2 Sudden Spinnerets
-2 Righteousness
-2 Bound in Gold
-3 Righteousness
-3 Sudden Spinnerets
-1 Mystical Dispute
-1 Treacherous Blessing
-1 Glimpse of Freedom
-2 Mystical Dispute
-2 Treacherous Blessing
-3 Skyclave Shade
-3 Mystical Dispute
-4 Mystical Dispute
+1 Syr Konrad, the Grim
+1 Bloodchief's Thirst
+2 Syr Konrad, the Grim
+2 Underworld Charger
+3 Syr Konrad, the Grim
+3 Underworld Charger
+1 Demon Bolt
+1 Jegantha, the Wellspring
+2 Demon Bolt
+3 Demon Bolt
+1 Village Rites
+3 Eliminate
+3 Grasp of Darkness
+1 Inscription of Ruin
+1 Questing Beast
+1 Return of the Wildspeaker
+1 The Great Henge
+1 Tajuru Blightblade
+1 Mirror Shield
+1 Witch's Vengeance
+2 Inscription of Ruin
+2 Tajuru Blightblade
+2 Witch's Vengeance
+2 Mirror Shield
+3 Witch's Vengeance
+1 Essence Scatter
+1 Fetid Imp
+2 Essence Scatter
+2 Fetid Imp
+2 Heartless Act
+3 Heartless Act
+4 Heartless Act
+1 Revenge of Ravens
 1 Pharika's Libation
-2 Pharika's Libation
-1 Omen of the Dead
-1 Blazing Volley
-1 Obosh, the Preypiercer
-2 Omen of the Dead
-2 Blazing Volley
-3 Omen of the Dead
-3 Blazing Volley
-4 Duress
 1 Mind Drain
 1 Inevitable End
 2 Revenge of Ravens
+2 Pharika's Libation
 2 Mind Drain
 2 Inevitable End
 3 Pharika's Libation
@@ -144,10 +117,13 @@
 3 Revenge of Ravens
 4 Elspeth's Nightmare
 1 Dead Weight
+1 Tormod's Crypt
 2 Dead Weight
+2 Tormod's Crypt
 3 Dead Weight
 3 Soul Shatter
 3 Sorcerous Spyglass
+3 Tormod's Crypt
 4 Dead Weight
 4 Sorcerous Spyglass
 1 Ranger's Guile
@@ -159,29 +135,14 @@
 2 Crippling Fear
 2 Feed the Serpent
 3 Scavenging Ooze
-3 Crippling Fear
 3 Feed the Serpent
+3 Crippling Fear
 4 Scavenging Ooze
 4 Feed the Serpent
-1 Essence Scatter
-1 Miscast
-1 Kiora Bests the Sea God
-1 Shark Typhoon
-1 Unsubstantiate
-2 Essence Scatter
-2 Shark Typhoon
-2 Kiora Bests the Sea God
-2 Unsubstantiate
-2 Miscast
-3 Miscast
-3 Essence Scatter
-3 Unsubstantiate
-4 Essence Scatter
-4 Miscast
 1 Vivien, Monsters' Advocate
 1 Egon, God of Death
-1 Feed the Swarm
 1 Murderous Rider
-2 Feed the Swarm
-3 Feed the Swarm
+1 Legion Angel
+2 Legion Angel
+3 Legion Angel
 4 Crush the Weak

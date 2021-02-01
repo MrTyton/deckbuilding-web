@@ -1,6 +1,6 @@
+1 Scalding Tarn
 3 Badlands
 3 Bloodstained Mire
-1 Goblin Chainwhirler
 3 Goblin Cratermaker
 3 Goblin Warchief
 4 Bloodstained Mire
@@ -25,6 +25,7 @@
 4 Munitions Expert
 4 Conspicuous Snoop
 1 Earwig Squad
+1 Goblin Settler
 2 Arid Mesa
 3 Arid Mesa
 1 Chalice of the Void
@@ -36,7 +37,8 @@
 2 Ancient Tomb
 3 Ancient Tomb
 4 Ancient Tomb
-1 Goblin Settler
+3 Wooded Foothills
+4 Rishadan Port
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 5 Mountain
@@ -65,8 +67,6 @@
 2 Snow-Covered Mountain
 2 Stingscourger
 4 Badlands
-3 Wooded Foothills
-4 Rishadan Port
 1 Squee, the Immortal
 1 Wily Goblin
 1 Taiga
@@ -80,13 +80,13 @@
 3 Skirk Prospector
 4 Taiga
 4 Food Chain
-1 Pyrokinesis
-2 Pyrokinesis
-4 Goblin Ringleader
-10 Mountain
-11 Mountain
 1 City of Traitors
 2 City of Traitors
 2 Gempalm Incinerator
 3 Goblin Rabblemaster
 4 Goblin Warchief
+1 Pyrokinesis
+2 Pyrokinesis
+4 Goblin Ringleader
+11 Mountain
+10 Mountain

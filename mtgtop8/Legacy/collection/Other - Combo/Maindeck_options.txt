@@ -1,16 +1,52 @@
 1 Tropical Island
 1 Snow-Covered Forest
-1 Griselbrand
 2 Tropical Island
-3 Tropical Island
 1 Thassa's Oracle
+1 Misty Rainforest
+2 Thassa's Oracle
+2 Misty Rainforest
+3 Misty Rainforest
+1 Lotus Petal
+2 Lotus Petal
+3 Lotus Petal
+4 Lotus Petal
+1 Waterlogged Grove
+4 Ponder
+1 Thoughtseize
+2 Thoughtseize
+1 Preordain
+1 Spell Pierce
+1 Ancient Tomb
+1 Thought Lash
+1 Veil of Summer
+1 Skeletal Scrying
+1 Paradigm Shift
+1 Prismatic Vista
+1 Jace, Wielder of Mysteries
+1 Shelldock Isle
+2 Prismatic Vista
+2 Preordain
+2 Spell Pierce
+2 Thought Lash
+2 Jace, Wielder of Mysteries
+2 Veil of Summer
+2 Ancient Tomb
+2 Shelldock Isle
+2 Paradigm Shift
+3 Veil of Summer
+3 Thought Lash
+3 Paradigm Shift
+3 Thassa's Oracle
+4 Thassa's Oracle
+4 Thought Lash
+4 Paradigm Shift
+1 Griselbrand
+3 Tropical Island
 1 Uro, Titan of Nature's Wrath
 1 Abrupt Decay
 1 Bayou
 1 Divining Witch
-1 Misty Rainforest
 1 Snow-Covered Swamp
-1 Scavenging Ooze
 1 Mesmeric Fiend
 1 Baleful Strix
 1 Plague Engineer
@@ -22,6 +58,7 @@
 1 Kira, Great Glass-Spinner
 1 Birds of Paradise
 1 Fauna Shaman
+1 Scavenging Ooze
 1 Volrath's Shapeshifter
 2 Abrupt Decay
 2 Bayou
@@ -30,15 +67,12 @@
 2 Mesmeric Fiend
 2 Verdant Catacombs
 2 Divining Witch
-2 Thassa's Oracle
 2 Birds of Paradise
 2 Fauna Shaman
-2 Misty Rainforest
 2 Baleful Strix
 3 Baleful Strix
 3 Birds of Paradise
 3 Fauna Shaman
-3 Misty Rainforest
 3 Mesmeric Fiend
 3 Aether Vial
 3 Verdant Catacombs
@@ -48,21 +82,16 @@
 1 Pact of Negation
 1 Summoner's Pact
 1 Elvish Spirit Guide
-1 Lotus Petal
 2 Elvish Spirit Guide
 2 Summoner's Pact
-2 Lotus Petal
-3 Lotus Petal
 3 Elvish Spirit Guide
 3 Summoner's Pact
 4 Summoner's Pact
-4 Lotus Petal
 4 Elvish Spirit Guide
 1 Cabal Therapy
 1 Turntimber Symbiosis
 1 Chrome Mox
 1 Cabal Ritual
-1 Thoughtseize
 1 Wild Cantor
 1 Simian Spirit Guide
 1 Balustrade Spy
@@ -77,9 +106,8 @@
 2 Cabal Ritual
 2 Undercity Informer
 2 Narcomoeba
-2 Thoughtseize
-2 Dark Ritual
 2 Turntimber Symbiosis
+2 Dark Ritual
 2 Agadeem's Awakening
 2 Simian Spirit Guide
 2 Balustrade Spy
@@ -104,7 +132,6 @@
 4 Pact of Negation
 4 Simian Spirit Guide
 4 Balustrade Spy
-1 Waterlogged Grove
 1 Xantid Swarm
 1 Children of Korlis
 1 Laboratory Maniac
@@ -129,9 +156,9 @@
 3 Xantid Swarm
 3 Allosaurus Shepherd
 3 Allosaurus Rider
+3 Waterlogged Grove
 3 Eldritch Evolution
 3 Neoform
-3 Waterlogged Grove
 3 Chancellor of the Tangle
 3 Nourishing Shoal
 4 Tropical Island
@@ -141,5 +168,4 @@
 4 Eldritch Evolution
 4 Chancellor of the Tangle
 4 Waterlogged Grove
-4 Ponder
 4 Allosaurus Shepherd
