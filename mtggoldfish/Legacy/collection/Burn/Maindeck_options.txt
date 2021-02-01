@@ -1,34 +1,41 @@
 20 Mountain
 1 Skewer the Critics
 4 Exquisite Firecraft
-3 Roiling Vortex
 2 Skewer the Critics
 3 Skewer the Critics
 4 Skewer the Critics
+3 Roiling Vortex
 1 Bomat Courier
 2 Bomat Courier
 1 Sulfuric Vortex
 3 Bomat Courier
-4 Bomat Courier
 4 Roiling Vortex
+4 Bomat Courier
 1 Simian Spirit Guide
 2 Simian Spirit Guide
 3 Simian Spirit Guide
 4 Simian Spirit Guide
 2 Sulfuric Vortex
+1 Light Up the Stage
+2 Light Up the Stage
+3 Light Up the Stage
 1 Risk Factor
 2 Risk Factor
 3 Risk Factor
 4 Risk Factor
-3 Sulfuric Vortex
 1 Fiery Islet
-1 Light Up the Stage
-2 Light Up the Stage
-3 Light Up the Stage
+1 Bloodstained Mire
+1 Wooded Foothills
+2 Bloodstained Mire
+2 Wooded Foothills
+3 Bloodstained Mire
+4 Bloodstained Mire
 1 Spikefield Hazard
 2 Spikefield Hazard
-1 Bonecrusher Giant
+3 Wooded Foothills
+4 Wooded Foothills
 1 Goblin Chainwhirler
+1 Bonecrusher Giant
 2 Bonecrusher Giant
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
@@ -36,7 +43,7 @@
 4 Goblin Chainwhirler
 4 Bonecrusher Giant
 2 Fiery Islet
-1 Pyrostatic Pillar
+3 Sulfuric Vortex
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -47,19 +54,12 @@
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
-1 Bloodstained Mire
-1 Wooded Foothills
-2 Bloodstained Mire
-2 Wooded Foothills
-3 Bloodstained Mire
-4 Bloodstained Mire
 1 Arid Mesa
 1 Grim Lavamancer
 2 Arid Mesa
 1 Magmatic Channeler
 1 Blood Moon
-3 Wooded Foothills
-4 Wooded Foothills
+1 Pyrostatic Pillar
 1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
@@ -70,38 +70,22 @@
 2 Barbarian Ring
 4 Light Up the Stage
 1 Wayward Guide-Beast
-1 Pyrokinesis
 1 Street Wraith
 1 Goblin Cratermaker
 1 Sonic Burst
+1 Pyrokinesis
 2 Wayward Guide-Beast
 2 Street Wraith
-2 Pyrokinesis
 2 Sonic Burst
+2 Pyrokinesis
 2 Goblin Cratermaker
 3 Wayward Guide-Beast
 3 Goblin Cratermaker
 4 Wayward Guide-Beast
-1 Volcanic Fallout
-1 Searing Blood
-2 Searing Blood
-2 Pyrostatic Pillar
-3 Pyrostatic Pillar
-4 Pyrostatic Pillar
 1 Flame Rift
 2 Flame Rift
 3 Flame Rift
 4 Flame Rift
-11 Snow-Covered Mountain
-12 Snow-Covered Mountain
-13 Snow-Covered Mountain
-14 Snow-Covered Mountain
-15 Snow-Covered Mountain
-16 Snow-Covered Mountain
-17 Snow-Covered Mountain
-18 Snow-Covered Mountain
-19 Snow-Covered Mountain
-20 Snow-Covered Mountain
 1 Swamp
 1 Bump in the Night
 1 Dark Confidant
@@ -130,3 +114,13 @@
 4 Bump in the Night
 4 Pyromancer Ascension
 4 Inquisition of Kozilek
+12 Snow-Covered Mountain
+13 Snow-Covered Mountain
+14 Snow-Covered Mountain
+15 Snow-Covered Mountain
+16 Snow-Covered Mountain
+17 Snow-Covered Mountain
+18 Snow-Covered Mountain
+19 Snow-Covered Mountain
+20 Snow-Covered Mountain
+11 Snow-Covered Mountain

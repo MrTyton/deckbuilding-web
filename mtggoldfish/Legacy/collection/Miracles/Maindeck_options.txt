@@ -1,10 +1,10 @@
 4 Flooded Strand
 2 Prismatic Vista
 2 Tundra
-1 Preordain
 1 Jace, the Mind Sculptor
 1 Council's Judgment
 2 Snow-Covered Plains
+1 Preordain
 1 Snapcaster Mage
 2 Snapcaster Mage
 2 Jace, the Mind Sculptor
@@ -39,20 +39,20 @@
 1 Eladamri's Call
 1 Omniscience
 1 Cunning Wish
-1 Veil of Summer
 1 Show and Tell
+1 Veil of Summer
 1 Emrakul, the Aeons Torn
 1 City of Traitors
 2 Omniscience
 2 Cunning Wish
-2 Snow-Covered Forest
 2 Preordain
-2 Veil of Summer
+2 Snow-Covered Forest
 2 Show and Tell
+2 Veil of Summer
 2 City of Traitors
 2 Emrakul, the Aeons Torn
-3 Omniscience
 3 Preordain
+3 Omniscience
 3 Cunning Wish
 3 Intuition
 3 Veil of Summer
@@ -83,10 +83,6 @@
 6 Island
 7 Island
 1 Pyroblast
-2 Scalding Tarn
-3 Scalding Tarn
-3 Dreadhorde Arcanist
-1 Wasteland
 1 Snow-Covered Swamp
 1 Aminatou, the Fateshifter
 1 Omen of the Sea
@@ -96,6 +92,7 @@
 1 Underground Sea
 2 Polluted Delta
 2 Underground Sea
+2 Scalding Tarn
 2 Aminatou, the Fateshifter
 2 Court of Grace
 2 Council's Judgment
@@ -104,6 +101,7 @@
 3 Polluted Delta
 3 Terminus
 3 Force of Negation
+3 Scalding Tarn
 3 Aminatou, the Fateshifter
 3 Omen of the Sea
 3 Baleful Strix
@@ -117,7 +115,6 @@
 1 Dack Fayden
 1 Temporal Mastery
 1 Shark Typhoon
-2 Sylvan Library
 1 Sevinne's Reclamation
 1 Detention Sphere
 1 Court of Cunning
@@ -126,21 +123,18 @@
 1 Orim's Chant
 1 Trade Routes
 1 Cryptic Command
+1 Wasteland
 1 Island Sanctuary
 2 Court of Cunning
 2 Sevinne's Reclamation
 3 Teferi, Time Raveler
-1 Grove of the Burnwillows
 1 Punishing Fire
+1 Grove of the Burnwillows
 1 Omnath, Locus of Creation
 1 Spell Pierce
-2 Grove of the Burnwillows
 2 Punishing Fire
+2 Grove of the Burnwillows
 3 Grove of the Burnwillows
+3 Dreadhorde Arcanist
 3 Punishing Fire
-1 Ice-Fang Coatl
-2 Ice-Fang Coatl
-2 Wasteland
-3 Stifle
-4 Stifle
-3 Wasteland
+2 Sylvan Library
