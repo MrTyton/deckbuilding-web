@@ -79,27 +79,27 @@
 1 Ketria Triome
 1 Esika's Chariot
 1 Valki, God of Lies
+1 Binding the Old Gods
 1 Darkbore Pathway
 1 Kaya the Inexorable
-1 Binding the Old Gods
 1 Firja's Retribution
 1 Tangled Florahedron
 1 Charming Prince
 1 Burning-Rune Demon
 2 Temple of Silence
 2 Valki, God of Lies
-2 Darkbore Pathway
 2 Binding the Old Gods
 2 Firja's Retribution
+2 Darkbore Pathway
 2 Tangled Florahedron
 3 Valki, God of Lies
 3 Yorion, Sky Nomad
-3 Darkbore Pathway
 3 Binding the Old Gods
+3 Darkbore Pathway
 3 Temple of Silence
 3 Tangled Florahedron
-4 Darkbore Pathway
 4 Binding the Old Gods
+4 Darkbore Pathway
 4 Tangled Florahedron
 1 Wolfwillow Haven
 1 Chevill, Bane of Monsters
@@ -168,12 +168,11 @@
 1 Dismal Backwater
 1 Thirst for Meaning
 1 Fae of Wishes
-1 Jungle Hollow
+1 Sanctum of Calm Waters
 1 Bloodfell Caves
 1 Thornwood Falls
 1 Sanctum of Shattered Heights
 1 Sanctum of All
-1 Sanctum of Calm Waters
 1 Sanctum of Stone Fangs
 1 Riverglide Pathway
 1 Clearwater Pathway
@@ -182,23 +181,24 @@
 1 Cragcrown Pathway
 1 Wind-Scarred Crag
 1 Tranquil Cove
+1 Jungle Hollow
 1 Sanctum of Fruitful Harvest
 2 Tranquil Cove
 2 Dismal Backwater
 2 Thirst for Meaning
-2 Fae of Wishes
 2 Sanctum of Fruitful Harvest
 2 Sanctum of Tranquil Light
 2 Zagoth Triome
 2 Sanctum of All
 2 Sanctum of Shattered Heights
 2 Sanctum of Stone Fangs
+2 Fae of Wishes
 2 Sanctum of Calm Waters
 2 Cragcrown Pathway
 2 Clearwater Pathway
-3 Fae of Wishes
 3 Bloodchief's Thirst
 3 Sanctum of Stone Fangs
+3 Fae of Wishes
 3 Sanctum of Calm Waters
 3 Sanctum of Tranquil Light
 3 Sanctum of Fruitful Harvest
@@ -244,8 +244,8 @@
 1 Castle Vantress
 1 Shark Typhoon
 1 Brazen Borrower
-2 Gadwick, the Wizened
 2 Castle Vantress
+2 Gadwick, the Wizened
 2 Rewind
 2 Rain of Revelation
 2 Brazen Borrower
@@ -268,8 +268,8 @@
 1 Bonecrusher Giant
 1 Ox of Agonas
 2 Ugin, the Spirit Dragon
-2 Storm's Wrath
 2 Solemn Simulacrum
+2 Storm's Wrath
 2 Ox of Agonas
 2 Bonecrusher Giant
 2 Scorching Dragonfire
@@ -295,11 +295,11 @@
 1 Stern Dismissal
 1 Relic Golem
 2 Didn't Say Please
-2 Teferi's Tutelage
+2 Ruin Crab
 2 Evolving Wilds
 2 Anticognition
-2 Ruin Crab
 2 Merfolk Secretkeeper
+2 Teferi's Tutelage
 2 Into the Story
 2 Relic Golem
 2 Negate
@@ -308,16 +308,16 @@
 3 Evolving Wilds
 3 Anticognition
 3 Merfolk Secretkeeper
+3 Teferi's Tutelage
 3 Stern Dismissal
 3 Ruin Crab
 3 Relic Golem
-3 Teferi's Tutelage
 3 Into the Story
 4 Merfolk Secretkeeper
-4 Evolving Wilds
 4 Ruin Crab
 4 Teferi's Tutelage
 4 Relic Golem
 4 Didn't Say Please
+4 Evolving Wilds
 17 Island
 18 Island

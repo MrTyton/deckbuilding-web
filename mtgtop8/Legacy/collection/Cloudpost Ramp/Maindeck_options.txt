@@ -1,17 +1,21 @@
+1 Grim Monolith
+1 Sorcerous Spyglass
+1 Ancient Tomb
+2 Chalice of the Void
+2 Ancient Tomb
+2 Sorcerous Spyglass
+2 Grim Monolith
+3 Chalice of the Void
+3 Ancient Tomb
+3 Grim Monolith
 4 Karn, the Great Creator
 4 Ancient Tomb
 1 Cavern of Souls
-1 Forest
-2 Forest
-3 Forest
-4 Forest
-5 Forest
-6 Forest
-7 Forest
+1 Dark Depths
+3 Crop Rotation
+3 Primeval Titan
+4 Crop Rotation
 1 Misty Rainforest
-1 Crop Rotation
-2 Crop Rotation
-4 Green Sun's Zenith
 4 Pithing Needle
 1 Thought-Knot Seer
 1 Eldrazi Temple
@@ -22,12 +26,8 @@
 1 City of Traitors
 1 Forsaken Monument
 4 Chalice of the Void
-1 Dark Depths
 1 Kozilek, Butcher of Truth
 1 Maze of Ith
-3 Crop Rotation
-3 Primeval Titan
-4 Crop Rotation
 1 Trinisphere
 2 Eldrazi Temple
 4 Thought-Knot Seer
@@ -102,9 +102,20 @@
 3 Basalt Monolith
 3 Forsaken Monument
 4 Basalt Monolith
-7 Snow-Covered Forest
 1 Matter Reshaper
 2 Matter Reshaper
 3 Matter Reshaper
 4 Matter Reshaper
 4 Eldrazi Temple
+7 Snow-Covered Forest
+1 Living Wish
+1 Dryad Arbor
+1 Ghost Quarter
+1 Elvish Rejuvenator
+2 Living Wish
+2 Elvish Rejuvenator
+3 Living Wish
+3 Elvish Rejuvenator
+4 Living Wish
+8 Forest
+9 Forest

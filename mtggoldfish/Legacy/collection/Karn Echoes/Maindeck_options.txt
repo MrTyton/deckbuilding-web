@@ -15,8 +15,8 @@
 1 Karakas
 1 Defense Grid
 1 Grim Monolith
-2 Defense Grid
 2 Grim Monolith
+2 Defense Grid
 3 Defense Grid
 1 Manifold Key
 1 Walking Ballista
@@ -32,11 +32,11 @@
 2 Prismatic Vista
 2 Voltaic Key
 2 Mesmeric Orb
+3 Grim Monolith
 3 Mystic Forge
 3 Basalt Monolith
 3 Voltaic Key
 3 City of Traitors
-3 Grim Monolith
 3 Mesmeric Orb
 4 Grim Monolith
 4 Voltaic Key
@@ -92,6 +92,7 @@
 3 Pyroblast
 4 Pyroblast
 1 Tendrils of Agony
+1 Infernal Tutor
 1 Urborg, Tomb of Yawgmoth
 1 Vault of Whispers
 1 Swamp
@@ -102,8 +103,8 @@
 1 Collective Brutality
 1 Ill-Gotten Gains
 1 Peer into the Abyss
-1 Infernal Tutor
 1 Dark Ritual
+2 Infernal Tutor
 2 Urborg, Tomb of Yawgmoth
 2 Thoughtseize
 2 Leyline of the Void
@@ -113,15 +114,14 @@
 2 Dark Ritual
 2 Vault of Whispers
 2 Swamp
-2 Infernal Tutor
+3 Infernal Tutor
 3 Leyline of the Void
 3 Thoughtseize
-3 Infernal Tutor
 3 Helm of Obedience
 3 Dark Ritual
 3 Vault of Whispers
-4 Leyline of the Void
 4 Infernal Tutor
+4 Leyline of the Void
 4 Vault of Whispers
 4 Dark Ritual
 4 Thoughtseize

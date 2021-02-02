@@ -56,6 +56,7 @@
 1 Sacred Foundry
 1 Arid Mesa
 2 Arid Mesa
+1 Temple of Triumph
 1 Plains
 1 Wheel of Sun and Moon
 1 Nykthos, Shrine to Nyx
@@ -68,13 +69,13 @@
 1 Treasure Map
 1 Form of the Dragon
 1 Lotus Bloom
-1 Temple of Triumph
 1 Solemnity
 1 Silence
 1 Mistveil Plains
 1 Enduring Ideal
 1 Overwhelming Splendor
 1 Phyrexian Unlife
+2 Temple of Triumph
 2 Silence
 2 Oust
 2 Nykthos, Shrine to Nyx
@@ -85,7 +86,6 @@
 2 Enduring Ideal
 2 Plains
 2 Lotus Bloom
-2 Temple of Triumph
 2 Phyrexian Unlife
 2 Form of the Dragon
 2 Treasure Map
@@ -122,10 +122,9 @@
 4 Flooded Strand
 1 Lotus Field
 1 Silundi Vision
-1 Peer Through Depths
+1 Wishclaw Talisman
 1 Polluted Delta
 1 Darkslick Shores
-1 Wishclaw Talisman
 1 Serum Visions
 1 Ideas Unbound
 1 Reach Through Mists
@@ -138,27 +137,28 @@
 1 Dream's Grip
 1 Merchant Scroll
 1 Watery Grave
+1 Peer Through Depths
 2 Watery Grave
 2 Lotus Field
 2 Polluted Delta
-2 Peer Through Depths
+2 Wishclaw Talisman
 2 Darkslick Shores
 2 Psychic Puppetry
 2 Merchant Scroll
 2 Dream's Grip
 2 Reach Through Mists
+2 Peer Through Depths
 2 Serum Visions
 2 Ideas Unbound
 2 Sleight of Hand
-2 Wishclaw Talisman
 2 Past in Flames
 2 Twiddle
 3 Lotus Field
+3 Wishclaw Talisman
 3 Darkslick Shores
 3 Serum Visions
 3 Ideas Unbound
 3 Snow-Covered Island
-3 Wishclaw Talisman
 3 Twiddle
 3 Sleight of Hand
 3 Psychic Puppetry
@@ -198,9 +198,9 @@
 1 Wooded Foothills
 1 Raugrin Triome
 2 Opt
-2 Dwarven Mine
 2 Delay
 2 Mountain
+2 Dwarven Mine
 2 Izzet Charm
 2 Wooded Foothills
 2 Bloodstained Mire
@@ -270,12 +270,12 @@
 3 Kozilek, Butcher of Truth
 3 Pillar of the Paruns
 3 Brilliant Ultimatum
+4 Omniscience
 4 Emrakul, the Aeons Torn
 4 Gemstone Mine
 4 Ardent Plea
 4 Violent Outburst
 4 Ulamog, the Infinite Gyre
-4 Omniscience
 4 Pillar of the Paruns
 4 City of Brass
 4 Gemstone Caverns

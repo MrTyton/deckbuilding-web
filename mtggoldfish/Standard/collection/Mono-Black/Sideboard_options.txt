@@ -1,7 +1,6 @@
 1 Duress
 2 Duress
 1 Extinction Event
-3 Duress
 1 Shadows' Verdict
 1 Eliminate
 1 Soul-Guide Lantern
@@ -10,6 +9,7 @@
 2 Soul-Guide Lantern
 2 Shadows' Verdict
 2 Grasp of Darkness
+3 Duress
 1 Village Rites
 3 Grasp of Darkness
 3 Eliminate
@@ -21,30 +21,30 @@
 4 Acquisitions Expert
 1 Feed the Swarm
 2 Feed the Swarm
-1 Bloodchief's Thirst
 1 Kaervek, the Spiteful
-1 Pharika's Libation
-2 Pharika's Libation
-1 Eat to Extinction
-1 Call of the Death-Dweller
-2 Call of the Death-Dweller
-1 Heartless Act
+1 Bloodchief's Thirst
 1 Agonizing Remorse
+1 Heartless Act
 1 Nighthawk Scavenger
 2 Nighthawk Scavenger
+1 Call of the Death-Dweller
+2 Call of the Death-Dweller
 2 Extinction Event
 1 Lurrus of the Dream-Den
-2 Bloodchief's Thirst
 1 Tymaret, Chosen from Death
 2 Tymaret, Chosen from Death
 3 Tymaret, Chosen from Death
-1 Skyclave Shade
 1 Underworld Charger
+1 Skyclave Shade
+1 Eat to Extinction
 2 Kaervek, the Spiteful
 1 Bastion of Remembrance
+1 Pharika's Libation
 2 Skyclave Shade
 2 Village Rites
 2 Bastion of Remembrance
+2 Pharika's Libation
+2 Bloodchief's Thirst
 3 Feed the Swarm
 1 Kitesail Freebooter
 1 Piper of the Swarm
@@ -62,50 +62,18 @@
 2 Liliana's Standard Bearer
 3 Liliana's Standard Bearer
 1 Syr Konrad, the Grim
-2 Syr Konrad, the Grim
 2 Underworld Charger
+2 Syr Konrad, the Grim
 3 Underworld Charger
 3 Syr Konrad, the Grim
-1 Omen of the Dead
-1 Blazing Volley
-1 Obosh, the Preypiercer
-2 Omen of the Dead
-2 Blazing Volley
-3 Omen of the Dead
-3 Blazing Volley
-4 Duress
-1 Revenge of Ravens
-1 Inevitable End
-1 Mind Drain
-1 Elspeth's Nightmare
-2 Revenge of Ravens
-2 Inevitable End
-2 Elspeth's Nightmare
-2 Mind Drain
-3 Pharika's Libation
-3 Revenge of Ravens
-3 Mind Drain
-3 Elspeth's Nightmare
-4 Elspeth's Nightmare
 1 Hagra Mauling
 1 Witch's Cottage
-1 Specter's Shriek
 1 Witch's Vengeance
+1 Specter's Shriek
 2 Witch's Vengeance
 2 Specter's Shriek
 3 Specter's Shriek
 4 Specter's Shriek
-1 Minion's Return
-1 Elder Gargaroth
-1 Ugin, the Spirit Dragon
-1 Wildborn Preserver
-2 Minion's Return
-2 Elder Gargaroth
-2 Ugin, the Spirit Dragon
-2 Eat to Extinction
-2 Wildborn Preserver
-3 Eat to Extinction
-4 Eat to Extinction
 1 Dead Weight
 1 Sorcerous Spyglass
 1 Tormod's Crypt
@@ -117,6 +85,4 @@
 3 Sorcerous Spyglass
 3 Soul Shatter
 4 Dead Weight
-1 Legion Angel
-2 Legion Angel
 4 Sorcerous Spyglass
