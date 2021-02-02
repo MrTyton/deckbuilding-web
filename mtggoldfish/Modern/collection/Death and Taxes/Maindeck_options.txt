@@ -2,13 +2,13 @@
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
+4 Flickerwisp
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
 10 Snow-Covered Plains
-4 Flickerwisp
 1 Horizon Canopy
 1 Sword of Feast and Famine
 1 Restoration Angel
@@ -32,6 +32,7 @@
 12 Plains
 13 Plains
 14 Plains
+1 Sunbaked Canyon
 1 Cavern of Souls
 1 Teferi, Time Raveler
 1 Island
@@ -48,7 +49,6 @@
 3 Watcher for Tomorrow
 4 Hallowed Fountain
 4 Seachrome Coast
-1 Sunbaked Canyon
 1 Lurrus of the Dream-Den
 1 Adarkar Wastes
 2 Adarkar Wastes
@@ -65,6 +65,7 @@
 3 Adarkar Wastes
 15 Plains
 16 Plains
+1 Forest
 1 Noble Hierarch
 1 Temple Garden
 1 Razorverge Thicket
@@ -74,14 +75,13 @@
 1 Gavony Township
 1 Oath of Nissa
 1 Stirring Wildwood
-1 Forest
 2 Razorverge Thicket
 2 Temple Garden
 2 Noble Hierarch
 2 Branchloft Pathway
-2 Scavenging Ooze
 2 Forest
 2 Oath of Nissa
+2 Scavenging Ooze
 2 Eternal Witness
 3 Noble Hierarch
 3 Razorverge Thicket
@@ -95,6 +95,18 @@
 4 Oath of Nissa
 1 Flagstones of Trokair
 3 Teferi, Time Raveler
+1 Sacred Foundry
+1 Magus of the Moon
+1 Mountain
+1 Inspiring Vantage
+2 Magus of the Moon
+2 Inspiring Vantage
+2 Sunbaked Canyon
+3 Sunbaked Canyon
+3 Magus of the Moon
+3 Inspiring Vantage
+4 Sunbaked Canyon
+4 Inspiring Vantage
 1 Blast Zone
 1 Shefet Dunes
 2 Flagstones of Trokair
@@ -109,11 +121,11 @@
 2 Hengegate Pathway
 2 Alrund, God of the Cosmos
 3 Hengegate Pathway
-3 Charming Prince
 3 Spell Queller
+3 Charming Prince
 3 Alrund, God of the Cosmos
-4 Hengegate Pathway
 4 Charming Prince
+4 Hengegate Pathway
 1 Spellskite
 1 Skyclave Cleric
 2 Skyclave Cleric
@@ -123,18 +135,6 @@
 14 Snow-Covered Plains
 15 Snow-Covered Plains
 16 Snow-Covered Plains
-1 Sacred Foundry
-1 Magus of the Moon
-1 Mountain
-1 Inspiring Vantage
-2 Magus of the Moon
-2 Inspiring Vantage
-2 Sunbaked Canyon
-3 Magus of the Moon
-3 Sunbaked Canyon
-3 Inspiring Vantage
-4 Sunbaked Canyon
-4 Inspiring Vantage
 1 Reidane, God of the Worthy
 2 Reidane, God of the Worthy
 3 Reidane, God of the Worthy

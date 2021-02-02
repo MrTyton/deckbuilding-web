@@ -1,22 +1,22 @@
 1 Spell Snare
-1 Prismatic Vista
 1 Silundi Vision
 2 Spell Snare
+1 Prismatic Vista
+2 Silundi Vision
 2 Prismatic Vista
 1 Island
 2 Island
 1 Plains
 2 Plains
 3 Island
-2 Silundi Vision
 3 Teferi, Time Raveler
 1 Hall of Heliod's Generosity
-4 Island
-3 Prismatic Vista
 1 Spell Pierce
 1 Counterbalance
 2 Supreme Verdict
+4 Island
 1 Pyroblast
+3 Prismatic Vista
 1 Detention Sphere
 1 Hullbreacher
 2 Hullbreacher
@@ -32,54 +32,17 @@
 3 Cast Out
 4 Cast Out
 4 Replenish
-4 Prismatic Vista
-1 Brazen Borrower
 1 Mountain
 1 Wasteland
+4 Prismatic Vista
 3 Force of Negation
 4 Force of Negation
+1 Brazen Borrower
 1 Teferi, Hero of Dominaria
 1 Day's Undoing
 1 Council's Judgment
 2 Day's Undoing
 3 Day's Undoing
-1 Polluted Delta
-2 Polluted Delta
-1 Swamp
-1 Eliminate
-1 Cling to Dust
-1 Daze
-1 Ingenious Infiltrator
-1 Changeling Outcast
-1 Yuriko, the Tiger's Shadow
-1 Retrofitter Foundry
-1 Ornithopter
-1 Underground Sea
-1 Fatal Push
-2 Swamp
-2 Changeling Outcast
-2 Ornithopter
-2 Yuriko, the Tiger's Shadow
-2 Retrofitter Foundry
-2 Ingenious Infiltrator
-2 Fatal Push
-2 Daze
-3 Fatal Push
-3 Swamp
-3 Yuriko, the Tiger's Shadow
-3 Polluted Delta
-3 Retrofitter Foundry
-3 Ornithopter
-3 Ingenious Infiltrator
-3 Changeling Outcast
-3 Daze
-4 Changeling Outcast
-4 Ingenious Infiltrator
-4 Ornithopter
-4 Polluted Delta
-4 Retrofitter Foundry
-4 Lay Claim
-5 Island
 1 Mishra's Factory
 1 Snapcaster Mage
 1 Magmatic Sinkhole
@@ -93,10 +56,45 @@
 2 Wasteland
 1 Court of Grace
 2 Brazen Borrower
+5 Island
+4 Lay Claim
+1 Polluted Delta
+2 Polluted Delta
+1 Swamp
+1 Underground Sea
+1 Cling to Dust
+1 Eliminate
+1 Daze
+1 Ingenious Infiltrator
+1 Changeling Outcast
+1 Yuriko, the Tiger's Shadow
+1 Retrofitter Foundry
+1 Ornithopter
+1 Fatal Push
+2 Swamp
+2 Changeling Outcast
+2 Ornithopter
+2 Yuriko, the Tiger's Shadow
+2 Retrofitter Foundry
+2 Fatal Push
+2 Ingenious Infiltrator
+2 Daze
+3 Swamp
+3 Polluted Delta
+3 Fatal Push
+3 Yuriko, the Tiger's Shadow
+3 Retrofitter Foundry
+3 Ornithopter
+3 Ingenious Infiltrator
+3 Changeling Outcast
+3 Daze
+4 Polluted Delta
+4 Changeling Outcast
+4 Ingenious Infiltrator
+4 Ornithopter
+4 Retrofitter Foundry
 1 Venser, Shaper Savant
 1 Vendilion Clique
-1 Bloodstained Mire
-1 Baleful Strix
 1 Unexpectedly Absent
 1 Terminus
 2 Terminus
@@ -117,12 +115,12 @@
 1 True-Name Nemesis
 1 Sea Gate Restoration
 1 Glasspool Mimic
+1 Chrome Mox
 1 Aether Vial
 1 Silvergill Adept
 1 Master of the Pearl Trident
 1 Mutavault
 1 Cavern of Souls
-1 Chrome Mox
 1 Lord of Atlantis
 2 True-Name Nemesis
 2 Glasspool Mimic

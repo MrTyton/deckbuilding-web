@@ -13,8 +13,8 @@
 1 Satyr Wayfinder
 1 Blast Zone
 1 Karn, the Great Creator
-2 Wooded Foothills
 2 Karn, the Great Creator
+2 Wooded Foothills
 3 Karn, the Great Creator
 3 Wooded Foothills
 4 Karn, the Great Creator
@@ -33,9 +33,9 @@
 1 Shifting Ceratops
 1 Castle Locthwain
 1 Collector Ouphe
+1 Grasping Dunes
 1 Arasta of the Endless Web
 1 Swamp
-1 Grasping Dunes
 1 Hogaak, Arisen Necropolis
 1 Fierce Empath
 2 Satyr Wayfinder
@@ -43,8 +43,8 @@
 2 Hogaak, Arisen Necropolis
 2 Fierce Empath
 3 Satyr Wayfinder
-3 Hogaak, Arisen Necropolis
 3 Elvish Reclaimer
+3 Hogaak, Arisen Necropolis
 4 Satyr Wayfinder
 4 Elvish Reclaimer
 1 Crop Rotation
@@ -70,7 +70,6 @@
 1 Leovold, Emissary of Trest
 1 Snow-Covered Swamp
 1 Underground Sea
-1 Ice-Fang Coatl
 1 Force of Negation
 1 Swords to Plowshares
 1 Brainstorm
@@ -80,13 +79,13 @@
 1 Arcum's Astrolabe
 1 Utopia Sprawl
 1 Savannah
+1 Ice-Fang Coatl
 1 Snow-Covered Island
 1 Anafenza, the Foremost
 1 Prismatic Vista
 1 Plague Engineer
 1 Force of Will
 2 Prismatic Vista
-2 Ice-Fang Coatl
 2 Swords to Plowshares
 2 Veil of Summer
 2 Ponder
@@ -95,16 +94,17 @@
 2 Force of Will
 2 Utopia Sprawl
 2 Brainstorm
+2 Ice-Fang Coatl
 2 Force of Negation
 2 Plague Engineer
-3 Prismatic Vista
 3 Ice-Fang Coatl
+3 Prismatic Vista
+3 Utopia Sprawl
 3 Swords to Plowshares
 3 Misty Rainforest
 3 Force of Will
 3 Brainstorm
 3 Ponder
-3 Utopia Sprawl
 3 Arcum's Astrolabe
 4 Prismatic Vista
 4 Utopia Sprawl
@@ -125,6 +125,10 @@
 1 Overgrown Tomb
 2 City of Traitors
 2 Tireless Tracker
+1 Khalni Garden
+1 Cabal Therapy
+2 Cabal Therapy
+3 Cabal Therapy
 1 Breeding Pool
 1 Manabond
 2 Waterlogged Grove
@@ -132,14 +136,10 @@
 3 Ghost Quarter
 3 Field of the Dead
 3 Tropical Island
-1 Khalni Garden
-1 Cabal Therapy
-2 Cabal Therapy
-3 Cabal Therapy
 1 Zagoth Triome
 1 Cabal Pit
-2 Rishadan Port
 2 Thespian's Stage
+2 Rishadan Port
 3 Rishadan Port
 4 Rishadan Port
 1 Assassin's Trophy
