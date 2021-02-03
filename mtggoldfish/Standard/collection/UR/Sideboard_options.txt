@@ -1,7 +1,7 @@
-1 Fire Prophecy
-2 Fire Prophecy
 1 Essence Scatter
 2 Essence Scatter
+1 Fire Prophecy
+2 Fire Prophecy
 1 Cancel
 1 Improbable Alliance
 1 Lofty Denial
@@ -10,20 +10,27 @@
 2 Ominous Seas
 2 Brazen Borrower
 3 Ominous Seas
+1 Into the Roil
+2 Into the Roil
 1 Blazing Volley
 2 Blazing Volley
+3 Into the Roil
 3 Essence Scatter
 3 Blazing Volley
 1 Teferi's Tutelage
-1 Into the Roil
 2 Teferi's Tutelage
-2 Into the Roil
-3 Into the Roil
 3 Shark Typhoon
 3 Teferi's Tutelage
+4 Negate
+1 Duress
+2 Duress
+1 Bubble Snare
+2 Bubble Snare
+3 Duress
+4 Duress
 1 Didn't Say Please
-1 Merfolk Secretkeeper
 2 Didn't Say Please
+1 Merfolk Secretkeeper
 2 Merfolk Secretkeeper
 3 Didn't Say Please
 4 Didn't Say Please
@@ -35,26 +42,30 @@
 1 Sea Gate Stormcaller
 2 Sweet Oblivion
 2 Sea Gate Stormcaller
+1 Shredded Sails
+2 Shredded Sails
 1 Zulaport Duelist
 2 Zulaport Duelist
+1 Ugin, the Spirit Dragon
 1 Tormod's Crypt
+1 Elspeth's Nightmare
+2 Elspeth's Nightmare
 1 Storm's Wrath
 1 Zareth San, the Trickster
-1 Disdainful Stroke
-2 Disdainful Stroke
 1 Cinderclasm
 1 Midnight Clock
-1 Shredded Sails
 2 Cinderclasm
-2 Shredded Sails
-1 Ugin, the Spirit Dragon
+1 Disdainful Stroke
+2 Disdainful Stroke
+1 Charix, the Raging Isle
+2 Soul-Guide Lantern
 2 Tormod's Crypt
 1 Experimental Overload
 1 Crush the Weak
 1 Confounding Conundrum
 1 Fling
-1 Aegis Turtle
 1 Crystalline Giant
+1 Aegis Turtle
 1 Cleansing Wildfire
 2 Experimental Overload
 2 Fling
@@ -63,6 +74,20 @@
 1 Sage of Mysteries
 2 Sage of Mysteries
 3 Teferi's Ageless Insight
+1 Frost Bite
+1 Annul
+1 Ravenform
+1 Weathered Runestone
+1 Satyr's Cunning
+2 Annul
+2 Ravenform
+2 Weathered Runestone
+2 Satyr's Cunning
+3 Ravenform
+1 Grasp of Darkness
+2 Grasp of Darkness
+3 Grasp of Darkness
+4 Grasp of Darkness
 1 Mythos of Illuna
 3 Sweet Oblivion
 4 Sweet Oblivion
@@ -71,14 +96,11 @@
 2 Feed the Swarm
 2 Revenge of Ravens
 4 Essence Scatter
-4 Negate
-1 Mystic Sanctuary
 1 Swamp
-1 Elspeth's Nightmare
+1 Mystic Sanctuary
 1 Relic Golem
 2 Relic Golem
 2 Mystic Sanctuary
-2 Elspeth's Nightmare
 3 Tormod's Crypt
 3 Relic Golem
 3 Elspeth's Nightmare

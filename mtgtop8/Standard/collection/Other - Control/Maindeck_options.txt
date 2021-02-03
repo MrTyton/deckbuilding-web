@@ -27,8 +27,8 @@
 4 Brightclimb Pathway
 4 Branchloft Pathway
 1 Temple of Silence
-1 Llanowar Visionary
 1 Eliminate
+1 Llanowar Visionary
 1 Polukranos, Unchained
 2 Llanowar Visionary
 1 Mythos of Nethroi
@@ -36,15 +36,15 @@
 2 Mythos of Nethroi
 3 Swamp
 3 Forest
-1 Treacherous Blessing
-1 Acolyte of Affliction
 1 Acquisitions Expert
+1 Acolyte of Affliction
 1 Omen of the Dead
 1 Doom Foretold
-2 Acquisitions Expert
+1 Treacherous Blessing
 2 Eerie Ultimatum
-2 Doom Foretold
+2 Acquisitions Expert
 2 Treacherous Blessing
+2 Doom Foretold
 3 Treacherous Blessing
 3 Doom Foretold
 4 Treacherous Blessing
@@ -77,26 +77,26 @@
 1 Crawling Barrens
 2 Bloodchief's Thirst
 1 Ketria Triome
-1 Valki, God of Lies
 1 Esika's Chariot
-1 Kaya the Inexorable
 1 Darkbore Pathway
 1 Firja's Retribution
+1 Kaya the Inexorable
+1 Valki, God of Lies
 1 Binding the Old Gods
 1 Tangled Florahedron
 1 Charming Prince
 1 Burning-Rune Demon
 2 Temple of Silence
 2 Valki, God of Lies
+2 Firja's Retribution
 2 Darkbore Pathway
 2 Binding the Old Gods
-2 Firja's Retribution
 2 Tangled Florahedron
 3 Valki, God of Lies
 3 Yorion, Sky Nomad
 3 Darkbore Pathway
-3 Binding the Old Gods
 3 Temple of Silence
+3 Binding the Old Gods
 3 Tangled Florahedron
 4 Binding the Old Gods
 4 Darkbore Pathway
@@ -108,8 +108,8 @@
 1 Skull Prophet
 1 Garruk, Cursed Huntsman
 2 Yasharn, Implacable Earth
-2 Acolyte of Affliction
 2 Mire Triton
+2 Acolyte of Affliction
 2 Lotus Cobra
 4 Mythos of Nethroi
 5 Swamp
@@ -120,10 +120,10 @@
 1 Wicked Wolf
 1 Gilded Goose
 2 Golden Egg
+2 Temple of Plenty
 2 Gilded Goose
 2 Trail of Crumbs
 2 Wicked Wolf
-2 Temple of Plenty
 3 Golden Egg
 3 Wicked Wolf
 3 Elspeth's Nightmare
@@ -154,8 +154,8 @@
 2 Elder Gargaroth
 2 Polukranos, Unchained
 2 Scavenging Ooze
-3 Llanowar Visionary
 3 Scavenging Ooze
+3 Llanowar Visionary
 3 Agonizing Remorse
 3 Elder Gargaroth
 4 Llanowar Visionary
@@ -165,23 +165,23 @@
 4 Soul Sear
 1 Island
 1 Savai Triome
+1 Jungle Hollow
+1 Thornwood Falls
 1 Dismal Backwater
+1 Riverglide Pathway
 1 Thirst for Meaning
 1 Fae of Wishes
 1 Sanctum of Calm Waters
 1 Bloodfell Caves
-1 Thornwood Falls
 1 Sanctum of Shattered Heights
 1 Sanctum of All
 1 Sanctum of Stone Fangs
-1 Riverglide Pathway
 1 Clearwater Pathway
 1 Sanctum of Tranquil Light
 1 Zagoth Triome
 1 Cragcrown Pathway
 1 Wind-Scarred Crag
 1 Tranquil Cove
-1 Jungle Hollow
 1 Sanctum of Fruitful Harvest
 2 Tranquil Cove
 2 Dismal Backwater
@@ -233,10 +233,10 @@
 1 Jwari Disruption
 1 Sublime Epiphany
 1 Lofty Denial
-1 Rewind
 1 Gadwick, the Wizened
 1 Kiora Bests the Sea God
 1 Rain of Revelation
+1 Rewind
 1 Field of Ruin
 1 Neutralize
 1 Essence Scatter
@@ -265,8 +265,8 @@
 4 Brazen Borrower
 1 Anticognition
 1 Evolving Wilds
-1 Ruin Crab
 1 Teferi's Tutelage
+1 Ruin Crab
 1 Merfolk Secretkeeper
 1 Didn't Say Please
 1 Into the Story
@@ -277,8 +277,8 @@
 2 Ruin Crab
 2 Evolving Wilds
 2 Anticognition
-2 Merfolk Secretkeeper
 2 Teferi's Tutelage
+2 Merfolk Secretkeeper
 2 Into the Story
 2 Relic Golem
 2 Negate
@@ -300,24 +300,24 @@
 4 Ruin Crab
 17 Island
 18 Island
-1 Solemn Simulacrum
 1 Storm's Wrath
+1 Solemn Simulacrum
 1 Bonecrusher Giant
 1 Ox of Agonas
 2 Ugin, the Spirit Dragon
+2 Scorching Dragonfire
 2 Storm's Wrath
 2 Solemn Simulacrum
 2 Ox of Agonas
 2 Bonecrusher Giant
-2 Scorching Dragonfire
 3 Crawling Barrens
-3 Temple of Triumph
 3 Shatterskull Smashing
+3 Temple of Triumph
+3 Storm's Wrath
 3 Ugin, the Spirit Dragon
 3 Solemn Simulacrum
-3 Storm's Wrath
 3 Bonecrusher Giant
-4 Solemn Simulacrum
 4 Ugin, the Spirit Dragon
+4 Solemn Simulacrum
 6 Mountain
 7 Mountain

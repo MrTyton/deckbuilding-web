@@ -61,15 +61,15 @@
 1 Faerie Vandal
 1 Voracious Greatshark
 1 Ashiok's Erasure
-1 Shadowspear
 1 Starlit Mantle
 1 Ugin, the Spirit Dragon
+1 Shadowspear
 1 Dirge Bat
 2 Sea-Dasher Octopus
 2 Faerie Vandal
+2 Voracious Greatshark
 2 Ashiok's Erasure
 2 Starlit Mantle
-2 Voracious Greatshark
 2 Shadowspear
 2 Ugin, the Spirit Dragon
 2 Dirge Bat
@@ -102,6 +102,24 @@
 2 Call of the Death-Dweller
 3 Call of the Death-Dweller
 4 Agadeem's Awakening
+1 Acquisitions Expert
+1 Nimana Skydancer
+1 Lurking Deadeye
+1 Sure-Footed Infiltrator
+2 Acquisitions Expert
+2 Nimana Skydancer
+2 Zulaport Duelist
+2 Sure-Footed Infiltrator
+2 Lurking Deadeye
+3 Acquisitions Expert
+3 Dismal Backwater
+3 Nimana Skydancer
+3 Zulaport Duelist
+3 Blackbloom Rogue
+4 Acquisitions Expert
+4 Dismal Backwater
+4 Zulaport Duelist
+4 Blackbloom Rogue
 1 Lochmere Serpent
 1 Mind Drain
 1 Shadow Stinger
@@ -114,10 +132,10 @@
 3 Rankle, Master of Pranks
 4 Masked Blackguard
 4 Rankle, Master of Pranks
-1 Kaervek, the Spiteful
-1 Erebos's Intervention
-1 Eat to Extinction
 1 Extinction Event
+1 Erebos's Intervention
+1 Kaervek, the Spiteful
+1 Eat to Extinction
 2 Ashiok, Nightmare Muse
 2 Extinction Event
 2 Castle Vantress
@@ -130,26 +148,8 @@
 3 Murderous Rider
 3 Eat to Extinction
 4 Extinction Event
-4 Murderous Rider
 8 Swamp
 9 Island
 9 Swamp
 10 Swamp
-1 Acquisitions Expert
-1 Lurking Deadeye
-1 Nimana Skydancer
-1 Sure-Footed Infiltrator
-2 Acquisitions Expert
-2 Zulaport Duelist
-2 Sure-Footed Infiltrator
-2 Lurking Deadeye
-2 Nimana Skydancer
-3 Acquisitions Expert
-3 Dismal Backwater
-3 Zulaport Duelist
-3 Blackbloom Rogue
-3 Nimana Skydancer
-4 Acquisitions Expert
-4 Blackbloom Rogue
-4 Dismal Backwater
-4 Zulaport Duelist
+4 Murderous Rider

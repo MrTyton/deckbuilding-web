@@ -1,9 +1,8 @@
 1 Rift Bolt
 1 Lava Spike
 1 Lightning Bolt
-1 Monastery Swiftspear
 1 Skewer the Critics
-1 Shard Volley
+1 Monastery Swiftspear
 1 Goblin Guide
 2 Goblin Guide
 2 Lava Spike
@@ -23,27 +22,28 @@
 4 Lava Spike
 4 Monastery Swiftspear
 4 Skewer the Critics
+1 Shard Volley
+1 Skullcrack
+2 Skullcrack
 13 Mountain
 14 Mountain
 15 Mountain
 16 Mountain
 17 Mountain
-1 Skullcrack
-2 Skullcrack
 1 Wayward Guide-Beast
 2 Wayward Guide-Beast
 3 Wayward Guide-Beast
 4 Wayward Guide-Beast
-3 Anger of the Gods
-1 Searing Blaze
-2 Searing Blaze
-2 Shard Volley
 1 Eidolon of the Great Revel
 2 Eidolon of the Great Revel
 3 Skullcrack
 3 Eidolon of the Great Revel
 4 Skullcrack
 4 Eidolon of the Great Revel
+1 Searing Blaze
+2 Searing Blaze
+2 Shard Volley
+3 Anger of the Gods
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -75,12 +75,32 @@
 14 Snow-Covered Mountain
 1 Grim Lavamancer
 4 Ramunap Ruins
+1 Forked Bolt
+2 Forked Bolt
+3 Forked Bolt
 1 Chandra, Heart of Fire
 1 Mazemind Tome
 2 Mazemind Tome
 2 Abrade
 4 Seasoned Pyromancer
 4 Searing Blaze
+1 Arid Mesa
+1 Sacred Foundry
+1 Wooded Foothills
+1 Mishra's Bauble
+1 Inspiring Vantage
+2 Wooded Foothills
+2 Mishra's Bauble
+2 Sacred Foundry
+2 Inspiring Vantage
+2 Arid Mesa
+3 Arid Mesa
+3 Wooded Foothills
+3 Inspiring Vantage
+3 Mishra's Bauble
+4 Arid Mesa
+4 Mishra's Bauble
+4 Inspiring Vantage
 1 Kozilek's Return
 2 Grim Lavamancer
 1 Sweltering Suns
@@ -98,17 +118,16 @@
 1 Emrakul, the Aeons Torn
 1 Planebound Accomplice
 2 Lukka, Coppercoat Outcast
-2 Planebound Accomplice
 2 Emrakul, the Aeons Torn
+2 Planebound Accomplice
 3 Lukka, Coppercoat Outcast
 3 Planebound Accomplice
 4 Lukka, Coppercoat Outcast
 4 Planebound Accomplice
 1 Sunbaked Canyon
-1 Blackcleave Cliffs
-1 Arid Mesa
-1 Bloodstained Mire
 1 Scalding Tarn
+1 Blackcleave Cliffs
+1 Bloodstained Mire
 1 Blood Crypt
 1 Bump in the Night
 2 Scalding Tarn
@@ -124,9 +143,6 @@
 3 Blood Crypt
 4 Sunbaked Canyon
 4 Bump in the Night
-1 Forked Bolt
-2 Forked Bolt
-3 Forked Bolt
 4 Forked Bolt
 1 Grove of the Burnwillows
 2 Grove of the Burnwillows
