@@ -39,8 +39,8 @@
 1 Scrubland
 2 Scrubland
 2 Fatal Push
-1 Batterskull
 1 Stoneforge Mystic
+1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 3 Scrubland
@@ -61,8 +61,8 @@
 2 Bitterblossom
 1 Castle Locthwain
 3 Mishra's Factory
-1 Smallpox
 1 Cling to Dust
+1 Smallpox
 2 Smallpox
 3 Smallpox
 1 Karakas
@@ -185,11 +185,10 @@
 2 Cavern of Souls
 3 Cavern of Souls
 4 Bloodstained Mire
-4 Polluted Delta
 1 Ashiok, Dream Render
 1 Blast Zone
-2 Ashiok, Dream Render
 2 Liliana's Triumph
+2 Ashiok, Dream Render
 2 Blast Zone
 3 Liliana's Triumph
 3 Ashiok, Dream Render
@@ -234,3 +233,4 @@
 3 Skyclave Shade
 3 Dead of Winter
 4 Dead of Winter
+4 Polluted Delta

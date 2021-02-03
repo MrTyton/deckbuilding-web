@@ -6,15 +6,15 @@
 3 Storm's Wrath
 4 Radiant Fountain
 1 Field of Ruin
-1 Fabled Passage
-1 Extinction Event
+1 Swamp
 1 Heartless Act
 1 Temple of Malice
-1 Swamp
-2 Fabled Passage
-2 Extinction Event
+1 Extinction Event
+1 Fabled Passage
 2 Temple of Malice
+2 Extinction Event
 2 Swamp
+2 Fabled Passage
 3 Fabled Passage
 3 Swamp
 4 Fabled Passage
@@ -41,73 +41,73 @@
 1 Chandra, Heart of Fire
 4 Storm's Wrath
 1 Shadows' Verdict
+2 Heartless Act
 1 Bloodfell Caves
 2 Bloodfell Caves
 2 Labyrinth of Skophos
-2 Heartless Act
 3 Soul Sear
 2 Chandra, Heart of Fire
 3 Yidaro, Wandering Monster
 4 Yidaro, Wandering Monster
-1 Plains
-1 Needleverge Pathway
-1 Elspeth Conquers Death
 1 Temple of Triumph
+1 Needleverge Pathway
 1 Skyclave Apparition
 1 The Birth of Meletis
-2 Elspeth Conquers Death
-2 Needleverge Pathway
-2 Plains
-2 Skyclave Apparition
-2 The Birth of Meletis
+1 Elspeth Conquers Death
+1 Plains
 2 Temple of Triumph
-3 Plains
+2 Needleverge Pathway
+2 Elspeth Conquers Death
+2 Skyclave Apparition
+2 Plains
+2 The Birth of Meletis
+3 Elspeth Conquers Death
 3 Needleverge Pathway
 3 Skyclave Apparition
-3 Elspeth Conquers Death
-4 Plains
+3 Plains
+4 Elspeth Conquers Death
 4 Needleverge Pathway
 4 Skyclave Apparition
-4 Elspeth Conquers Death
+4 Plains
 5 Plains
-1 Into the Roil
+1 Raugrin Triome
+1 Riverglide Pathway
 1 Jwari Disruption
-1 Castle Vantress
-1 Neutralize
-1 Negate
+1 Rewind
+1 Temple of Epiphany
 1 Kiora Bests the Sea God
 1 Essence Scatter
-1 Temple of Epiphany
-1 Riverglide Pathway
+1 Midnight Clock
+1 Into the Roil
+1 Castle Vantress
 1 Cinderclasm
 1 Island
 1 Mystical Dispute
-1 Rewind
-1 Midnight Clock
-1 Raugrin Triome
-2 Kiora Bests the Sea God
-2 Jwari Disruption
-2 Negate
-2 Essence Scatter
+1 Negate
+1 Neutralize
+2 Midnight Clock
 2 Riverglide Pathway
+2 Raugrin Triome
+2 Jwari Disruption
 2 Rewind
+2 Essence Scatter
+2 Kiora Bests the Sea God
 2 Island
 2 Temple of Epiphany
 2 Cinderclasm
-2 Midnight Clock
+2 Negate
 2 Mystical Dispute
-2 Raugrin Triome
+3 Riverglide Pathway
 3 Mystical Dispute
 3 Temple of Epiphany
-3 Riverglide Pathway
 3 Island
 4 Riverglide Pathway
 4 Temple of Epiphany
 4 Island
 5 Island
 6 Island
-1 Frost Bite
 1 The Akroan War
+1 Frost Bite
 1 Goldspan Dragon
 1 Snow-Covered Mountain
 2 Goldspan Dragon

@@ -1,6 +1,6 @@
-1 Paradise Mantle
 1 Cranial Plating
 1 Plains
+2 Windswept Heath
 2 Plains
 4 Memnite
 1 Swiftfoot Boots
@@ -11,19 +11,20 @@
 4 Plains
 5 Plains
 6 Plains
-2 Cranial Plating
 1 Thoughtseize
-3 Paradise Mantle
+2 Cranial Plating
 1 Sunbaked Canyon
-1 Magnetic Theft
+3 Paradise Mantle
 1 Sacred Foundry
 2 Sunbaked Canyon
 2 Arid Mesa
+3 Sunbaked Canyon
+4 Sunbaked Canyon
+1 Magnetic Theft
 2 Magnetic Theft
 3 Arid Mesa
-3 Sunbaked Canyon
 4 Arid Mesa
-4 Sunbaked Canyon
+1 Accorder's Shield
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
@@ -38,7 +39,6 @@
 3 Horizon Canopy
 4 Windswept Heath
 4 Horizon Canopy
-1 Accorder's Shield
 1 Gilded Goose
 2 Gilded Goose
 2 Temple Garden
@@ -53,25 +53,31 @@
 1 Castle Ardenvale
 1 Oboro, Palace in the Clouds
 2 Thoughtseize
+1 Goblin Engineer
+1 Wishclaw Talisman
+2 Goblin Engineer
+2 Sacred Foundry
+3 Goblin Engineer
+4 Goblin Engineer
 1 Emeria's Call
 1 Mountain
 1 Valakut Awakening
 1 Skyclave Cleric
-1 Needleverge Pathway
 1 Maul of the Skyclaves
-1 Sword of Feast and Famine
 1 Sejiri Shelter
+1 Sword of Feast and Famine
 1 Sword of Fire and Ice
 1 Batterskull
 1 Battlefield Forge
 1 Armament Master
+1 Needleverge Pathway
 1 Swiftblade Vindicator
 1 Kor Duelist
 1 Clifftop Retreat
-2 Needleverge Pathway
 2 Path to Exile
 2 Clifftop Retreat
 2 Swiftblade Vindicator
+2 Needleverge Pathway
 2 Kor Duelist
 3 Path to Exile
 3 Kor Duelist
@@ -83,10 +89,10 @@
 2 Gladecover Scout
 3 Gladecover Scout
 4 Gladecover Scout
+4 Springleaf Drum
+12 Snow-Covered Plains
 7 Plains
 8 Plains
 9 Plains
 10 Plains
 11 Plains
-4 Springleaf Drum
-12 Snow-Covered Plains

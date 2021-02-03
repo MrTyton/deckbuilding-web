@@ -1,10 +1,11 @@
+2 Sylvan Library
 2 Once Upon a Time
 2 Skyclave Apparition
-3 Dryad of the Ilysian Grove
 3 Elvish Reclaimer
+3 Dryad of the Ilysian Grove
 3 Skyclave Apparition
-3 Wooded Foothills
 3 Thalia, Guardian of Thraben
+3 Wooded Foothills
 3 Flagstones of Trokair
 3 Green Sun's Zenith
 3 Swords to Plowshares
@@ -12,13 +13,12 @@
 3 Once Upon a Time
 4 Once Upon a Time
 4 Elvish Reclaimer
-4 Flagstones of Trokair
-4 Thalia, Guardian of Thraben
 4 Wooded Foothills
+4 Thalia, Guardian of Thraben
 4 Swords to Plowshares
 4 Windswept Heath
+4 Flagstones of Trokair
 4 Green Sun's Zenith
-1 Scryb Ranger
 1 Lightning Bolt
 1 Dreadhorde Arcanist
 1 Chain Lightning
@@ -29,10 +29,10 @@
 4 Lightning Bolt
 1 Sunbaked Canyon
 1 Arid Mesa
-1 Unearth
 1 Blood Crypt
 1 Snow-Covered Mountain
 1 Inquisition of Kozilek
+1 Unearth
 1 Fatal Push
 1 Cavern of Souls
 1 Lightning Skelemental
@@ -47,8 +47,6 @@
 2 Bloodstained Mire
 2 Snow-Covered Mountain
 2 Blood Crypt
-2 Unearth
-2 Cavern of Souls
 2 Inquisition of Kozilek
 2 Ball Lightning
 2 Thoughtseize
@@ -57,6 +55,8 @@
 2 Chain Lightning
 2 Thunderkin Awakener
 2 Faithless Looting
+2 Unearth
+2 Cavern of Souls
 2 Fatal Push
 2 Lightning Skelemental
 3 Cavern of Souls
@@ -83,12 +83,12 @@
 1 Urborg, Tomb of Yawgmoth
 1 Opposition Agent
 1 Trinisphere
-1 Helm of Obedience
 1 Pack Rat
 1 Eliminate
 1 Sorcerous Spyglass
 1 Swamp
 1 Karn, the Great Creator
+1 Helm of Obedience
 1 Leyline of the Void
 1 City of Traitors
 1 Archfiend of Ifnir
@@ -141,8 +141,8 @@
 1 Oko, Thief of Crowns
 1 Tropical Island
 1 Misty Rainforest
-1 Young Pyromancer
 1 Narset, Parter of Veils
+1 Young Pyromancer
 1 Brainstorm
 1 Of One Mind
 1 Ponder
@@ -177,8 +177,8 @@
 3 Of One Mind
 3 Ponder
 3 Noble Hierarch
-4 Noble Hierarch
 4 Misty Rainforest
+4 Noble Hierarch
 4 Daze
 4 Scalding Tarn
 4 Brainstorm

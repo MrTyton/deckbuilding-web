@@ -21,6 +21,7 @@
 1 Eladamri's Call
 4 Noble Hierarch
 1 Overgrown Tomb
+1 Devoted Druid
 1 Razorverge Thicket
 1 Collected Company
 1 Walking Ballista
@@ -29,18 +30,17 @@
 1 Finale of Devastation
 1 Giver of Runes
 1 Plains
-1 Devoted Druid
+2 Devoted Druid
 2 Giver of Runes
 2 Temple Garden
 2 Razorverge Thicket
 2 Collected Company
-2 Devoted Druid
 2 Vizier of Remedies
+3 Devoted Druid
 3 Collected Company
 3 Vizier of Remedies
-3 Devoted Druid
-4 Collected Company
 4 Devoted Druid
+4 Collected Company
 1 Godless Shrine
 1 Heliod, Sun-Crowned
 1 Spike Feeder
@@ -52,8 +52,8 @@
 3 Verdant Catacombs
 4 Verdant Catacombs
 1 Marsh Flats
-1 Ranger-Captain of Eos
 1 Shalai, Voice of Plenty
+1 Ranger-Captain of Eos
 1 Kitchen Finks
 1 Viscera Seer
 2 Ranger-Captain of Eos
@@ -66,18 +66,18 @@
 3 Horizon Canopy
 3 Heliod, Sun-Crowned
 4 Horizon Canopy
-1 Blooming Marsh
 1 Khalni Garden
 1 Swamp
 1 Geralf's Messenger
 1 Twilight Mire
+1 Blooming Marsh
 1 Wall of Roots
 1 Young Wolf
 1 Yawgmoth, Thran Physician
 1 Strangleroot Geist
-2 Blooming Marsh
 2 Geralf's Messenger
 2 Twilight Mire
+2 Blooming Marsh
 2 Overgrown Tomb
 2 Forest
 2 Young Wolf
@@ -109,7 +109,6 @@
 1 Glen Elendra Archmage
 3 Wall of Blossoms
 1 Snow-Covered Mountain
-1 Ephemerate
 1 Watcher for Tomorrow
 1 Coiling Oracle
 1 Glasspool Mimic
@@ -123,6 +122,7 @@
 1 Ice-Fang Coatl
 1 Steam Vents
 1 Arid Mesa
+1 Ephemerate
 1 Hallowed Fountain
 2 Breeding Pool
 2 Coiling Oracle
