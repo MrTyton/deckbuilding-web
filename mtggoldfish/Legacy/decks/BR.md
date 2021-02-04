@@ -63,7 +63,7 @@
 |                    1|[Ulamog, the Infinite Gyre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397815)|                     |                                                                                              |
 |                    2|[Worldspine Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253575)          |                     |                                                                                              |
 |                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)                |                     |                                                                                              |
-|                    4|[Seething Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83377)             |                     |                                                                                              |
 |                    4|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)                |                     |                                                                                              |
 |                    4|[Sandstone Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19645)          |                     |                                                                                              |
+|                    4|[Seething Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83377)             |                     |                                                                                              |
 

@@ -1,13 +1,13 @@
-2 Merfolk Windrobber
 3 Merfolk Windrobber
 2 Agadeem's Awakening
-4 Zagoth Triome
 4 Heartless Act
-1 Essence Scatter
+4 Swamp
+4 Zagoth Triome
 1 Castle Locthwain
 1 Cling to Dust
 1 Gadwick, the Wizened
 1 Eliminate
+1 Essence Scatter
 4 Merfolk Windrobber
 5 Swamp
 3 Agadeem's Awakening
@@ -62,9 +62,9 @@
 1 Voracious Greatshark
 1 Ashiok's Erasure
 1 Starlit Mantle
-1 Ugin, the Spirit Dragon
 1 Shadowspear
 1 Dirge Bat
+1 Ugin, the Spirit Dragon
 2 Sea-Dasher Octopus
 2 Faerie Vandal
 2 Voracious Greatshark
@@ -89,8 +89,6 @@
 2 Neutralize
 1 Blacklance Paragon
 2 Blacklance Paragon
-1 Sea Gate Restoration
-2 Sea Gate Restoration
 1 Omen of the Sea
 2 Essence Scatter
 2 Omen of the Sea
@@ -102,29 +100,11 @@
 2 Call of the Death-Dweller
 3 Call of the Death-Dweller
 4 Agadeem's Awakening
-1 Acquisitions Expert
-1 Nimana Skydancer
-1 Lurking Deadeye
-1 Sure-Footed Infiltrator
-2 Acquisitions Expert
-2 Nimana Skydancer
-2 Zulaport Duelist
-2 Sure-Footed Infiltrator
-2 Lurking Deadeye
-3 Acquisitions Expert
-3 Dismal Backwater
-3 Nimana Skydancer
-3 Zulaport Duelist
-3 Blackbloom Rogue
-4 Acquisitions Expert
-4 Dismal Backwater
-4 Zulaport Duelist
-4 Blackbloom Rogue
 1 Lochmere Serpent
-1 Mind Drain
 1 Shadow Stinger
 1 Obsessive Stitcher
 1 Masked Blackguard
+1 Mind Drain
 2 Obsessive Stitcher
 2 Shadow Stinger
 2 Masked Blackguard
@@ -139,17 +119,35 @@
 2 Ashiok, Nightmare Muse
 2 Extinction Event
 2 Castle Vantress
-2 Eat to Extinction
 2 Kaervek, the Spiteful
 2 Massacre Wurm
 2 Erebos's Intervention
+2 Eat to Extinction
 2 Murderous Rider
 3 Extinction Event
 3 Murderous Rider
 3 Eat to Extinction
 4 Extinction Event
+4 Murderous Rider
 8 Swamp
 9 Island
 9 Swamp
 10 Swamp
-4 Murderous Rider
+1 Acquisitions Expert
+1 Lurking Deadeye
+1 Nimana Skydancer
+1 Sure-Footed Infiltrator
+2 Acquisitions Expert
+2 Zulaport Duelist
+2 Sure-Footed Infiltrator
+2 Lurking Deadeye
+2 Nimana Skydancer
+3 Acquisitions Expert
+3 Dismal Backwater
+3 Zulaport Duelist
+3 Blackbloom Rogue
+3 Nimana Skydancer
+4 Acquisitions Expert
+4 Dismal Backwater
+4 Blackbloom Rogue
+4 Zulaport Duelist

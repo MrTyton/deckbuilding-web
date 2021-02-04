@@ -1,43 +1,29 @@
-2 Narset, Parter of Veils
-1 Chain Lightning
 4 Dreadhorde Arcanist
+1 Hullbreacher
 2 Preordain
-1 Flooded Strand
-1 Polluted Delta
-2 Hullbreacher
+1 Spell Pierce
+4 Scalding Tarn
 3 Volcanic Island
 3 Tropical Island
 3 Daze
-4 Scalding Tarn
+2 Hullbreacher
+1 Flooded Strand
+1 Polluted Delta
 2 Polluted Delta
 2 Flooded Strand
 3 Oko, Thief of Crowns
 1 Underground Sea
-1 Baleful Strix
-2 Baleful Strix
-3 Baleful Strix
-3 Polluted Delta
-4 Polluted Delta
 1 Mystic Sanctuary
 1 Eliminate
 2 Eliminate
+1 Baleful Strix
+2 Baleful Strix
 2 Underground Sea
+3 Baleful Strix
 3 Underground Sea
-1 Fatal Push
-2 Fatal Push
-4 Baleful Strix
-3 Flooded Strand
+3 Polluted Delta
+4 Polluted Delta
 1 Murderous Rider
-1 Ethereal Forager
-1 Island
-1 Brazen Borrower
-1 Swamp
-2 Murderous Rider
-2 Ethereal Forager
-2 Brazen Borrower
-2 Island
-3 Island
-4 Stifle
 1 Snow-Covered Swamp
 1 Ancient Tomb
 1 Karn, the Great Creator
@@ -58,12 +44,12 @@
 4 Chalice of the Void
 4 City of Traitors
 1 Opposition Agent
-1 Chrome Mox
 1 Leyline of the Void
 1 Curse of Misfortunes
 1 Helm of Obedience
-1 Dark Ritual
+1 Chrome Mox
 1 Curse of Death's Hold
+1 Dark Ritual
 1 Cruel Reality
 1 Overwhelming Splendor
 2 Snow-Covered Swamp
@@ -91,33 +77,44 @@
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
-3 Arcum's Astrolabe
+1 Fatal Push
+1 Ethereal Forager
+1 Island
+1 Brazen Borrower
+1 Swamp
+2 Fatal Push
+2 Ethereal Forager
+2 Murderous Rider
+2 Brazen Borrower
+2 Island
+3 Island
+4 Baleful Strix
+4 Stifle
 1 Tundra
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
+3 Flooded Strand
 2 Sylvan Library
 2 Prismatic Vista
 1 Snow-Covered Plains
 1 Swords to Plowshares
 2 Swords to Plowshares
+3 Arcum's Astrolabe
 3 Swords to Plowshares
 3 Trinisphere
-1 Abrupt Decay
-3 Snow-Covered Island
-4 Arcum's Astrolabe
 1 Snapcaster Mage
 1 Jace, the Mind Sculptor
-1 Drown in the Loch
 1 Inquisition of Kozilek
 1 Scrubland
 1 Hymn to Tourach
+1 Drown in the Loch
 1 Monastery Mentor
 2 Snapcaster Mage
 2 Tundra
 2 Jace, the Mind Sculptor
-2 Drown in the Loch
 2 Monastery Mentor
 2 Hymn to Tourach
+2 Drown in the Loch
 2 Inquisition of Kozilek
 3 Teferi, Time Raveler
 3 Inquisition of Kozilek
@@ -129,8 +126,8 @@
 2 Day's Undoing
 1 Soul Shatter
 1 Sorcerous Spyglass
-2 Soul Shatter
 2 Sorcerous Spyglass
+2 Soul Shatter
 3 Sorcerous Spyglass
 1 Cling to Dust
 1 Thoughtseize
@@ -138,9 +135,14 @@
 1 Gurmag Angler
 2 Swamp
 3 Ethereal Forager
+1 Snuff Out
+3 Hullbreacher
+3 Brazen Borrower
+4 Brazen Borrower
 1 Savannah
 1 Stoneforge Mystic
 1 Batterskull
+1 Abrupt Decay
 1 Ensnaring Bridge
 1 Supreme Verdict
 1 Back to Basics
@@ -156,12 +158,10 @@
 2 Thopter Foundry
 2 Urza, Lord High Artificer
 2 Supreme Verdict
+3 Snow-Covered Island
 3 Prismatic Vista
 3 Urza, Lord High Artificer
-1 Snuff Out
-3 Hullbreacher
-3 Brazen Borrower
-4 Brazen Borrower
+4 Arcum's Astrolabe
 2 Chain Lightning
 4 Daze
 4 Tropical Island
@@ -170,39 +170,13 @@
 2 Pelakka Predation
 3 Pelakka Predation
 4 Pelakka Predation
-1 Unearth
-1 Engineered Explosives
-1 Watery Grave
-1 Emry, Lurker of the Loch
-1 Breeding Pool
-1 Mox Opal
-1 Tezzeret, Agent of Bolas
-1 Gilded Goose
-1 Seat of the Synod
-1 Mishra's Bauble
-2 Gilded Goose
-2 Mishra's Bauble
-2 Watery Grave
-2 Tezzeret, Agent of Bolas
-2 Mox Opal
-2 Emry, Lurker of the Loch
-2 Breeding Pool
-3 Gilded Goose
-3 Mox Opal
-3 Emry, Lurker of the Loch
-3 Mishra's Bauble
-4 Snow-Covered Island
-4 Emry, Lurker of the Loch
-4 Gilded Goose
-4 Mishra's Bauble
-4 Mox Opal
+1 Mazemind Tome
 1 Blood Sun
 1 Chandra, Awakened Inferno
 1 Punishing Fire
 1 Grove of the Burnwillows
 1 Thought-Knot Seer
 1 Mountain
-1 Mazemind Tome
 1 Dead / Gone
 1 Reality Smasher
 1 Simian Spirit Guide

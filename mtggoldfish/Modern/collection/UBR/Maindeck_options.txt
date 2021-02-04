@@ -8,61 +8,62 @@
 3 Desert Cerodon
 4 Desert Cerodon
 1 Dreadhorde Arcanist
-1 Thought Scour
-1 Sprite Dragon
 1 Inquisition of Kozilek
 1 Blood Crypt
 1 Thoughtseize
 1 Fatal Push
-1 Watery Grave
 1 Bloodstained Mire
 1 Kroxa, Titan of Death's Hunger
 1 Lightning Bolt
-1 Polluted Delta
 1 Mishra's Bauble
 2 Dreadhorde Arcanist
-2 Thought Scour
-2 Sprite Dragon
 2 Kroxa, Titan of Death's Hunger
 2 Bloodstained Mire
+2 Mishra's Bauble
 2 Blood Crypt
 2 Thoughtseize
-2 Mishra's Bauble
-2 Polluted Delta
 2 Lightning Bolt
 2 Fatal Push
 2 Inquisition of Kozilek
-3 Inquisition of Kozilek
-3 Sprite Dragon
-3 Dreadhorde Arcanist
 3 Kroxa, Titan of Death's Hunger
-3 Polluted Delta
 3 Lightning Bolt
-3 Thought Scour
 3 Mishra's Bauble
-3 Thoughtseize
+3 Dreadhorde Arcanist
 3 Bloodstained Mire
-4 Inquisition of Kozilek
-4 Polluted Delta
-4 Dreadhorde Arcanist
 4 Bloodstained Mire
 4 Mishra's Bauble
 4 Lightning Bolt
+4 Dreadhorde Arcanist
+1 Thought Scour
+1 Sprite Dragon
+1 Watery Grave
+1 Polluted Delta
+2 Thought Scour
+2 Sprite Dragon
+2 Polluted Delta
+3 Inquisition of Kozilek
+3 Sprite Dragon
+3 Polluted Delta
+3 Thought Scour
+3 Thoughtseize
+4 Inquisition of Kozilek
+4 Polluted Delta
 4 Thought Scour
+1 Swamp
+1 Unearth
 3 Spirebluff Canal
 1 Young Pyromancer
-1 Unearth
 2 Young Pyromancer
 2 Unearth
 3 Unearth
 4 Sprite Dragon
-1 Swamp
 2 Swamp
 1 Sleight of Hand
 2 Sleight of Hand
 3 Sleight of Hand
 4 Sleight of Hand
 1 Cling to Dust
+3 Fatal Push
 1 Claim/Fame
 1 Sea Gate Stormcaller
 2 Watery Grave
@@ -72,7 +73,6 @@
 3 Cling to Dust
 3 Sea Gate Stormcaller
 3 Claim/Fame
-3 Fatal Push
 1 Snow-Covered Island
 1 Snow-Covered Mountain
 1 Snow-Covered Swamp
@@ -81,5 +81,33 @@
 2 Serum Visions
 3 Serum Visions
 4 Serum Visions
+1 Arid Mesa
+1 Manamorphose
+1 Soul-Scar Mage
+1 Light Up the Stage
+1 Mutagenic Growth
+1 Bloodchief's Thirst
+1 Blackcleave Cliffs
+1 Kolaghan's Command
+1 Sunbaked Canyon
+1 Monastery Swiftspear
+2 Arid Mesa
+2 Soul-Scar Mage
+2 Light Up the Stage
+2 Blackcleave Cliffs
+2 Manamorphose
+2 Monastery Swiftspear
+2 Mountain
+2 Sunbaked Canyon
+3 Soul-Scar Mage
+3 Blackcleave Cliffs
+3 Manamorphose
+3 Monastery Swiftspear
+3 Blood Crypt
+3 Mountain
+4 Blackcleave Cliffs
+4 Soul-Scar Mage
+4 Manamorphose
+4 Monastery Swiftspear
 1 Finale of Promise
 4 Spirebluff Canal

@@ -1,3 +1,5 @@
+2 Shatterskull Smashing
+2 Pact of Negation
 1 Blood Moon
 1 Bala Ged Recovery
 1 Valakut Awakening
@@ -8,17 +10,16 @@
 1 Pyretic Ritual
 1 Irencrag Feat
 1 Spikefield Hazard
-2 Bala Ged Recovery
 2 Valakut Awakening
 2 Blood Moon
 2 Pyretic Ritual
+2 Bala Ged Recovery
 2 Spikefield Hazard
 2 Irencrag Feat
 2 Manamorphose
 2 Recross the Paths
 2 Desperate Ritual
 3 Valakut Awakening
-3 Bala Ged Recovery
 3 Blood Moon
 3 Manamorphose
 3 Pact of Negation
@@ -27,9 +28,9 @@
 3 Recross the Paths
 3 Pyretic Ritual
 3 Shatterskull Smashing
+3 Bala Ged Recovery
 3 Spikefield Hazard
 4 Valakut Awakening
-4 Bala Ged Recovery
 4 Shatterskull Smashing
 4 Manamorphose
 4 Spikefield Hazard
@@ -37,21 +38,19 @@
 4 Pyretic Ritual
 4 Irencrag Feat
 4 Desperate Ritual
-1 Pelakka Predation
-2 Pelakka Predation
-1 Hagra Mauling
-2 Hagra Mauling
-1 Thoughtseize
-1 Lightning Bolt
+4 Bala Ged Recovery
 3 Pelakka Predation
 4 Pelakka Predation
-2 Thoughtseize
+1 Hagra Mauling
+2 Hagra Mauling
+1 Lightning Bolt
+1 Thoughtseize
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 4 Blood Moon
 4 Pact of Negation
-3 Thoughtseize
+2 Thoughtseize
 4 Leyline of Sanctity
 1 Sacred Foundry
 1 Arid Mesa
@@ -63,13 +62,13 @@
 1 Nykthos, Shrine to Nyx
 1 Marsh Flats
 1 Skyclave Apparition
-1 Nine Lives
 1 Deafening Clarion
 1 Oust
 1 Dovescape
 1 Treasure Map
 1 Form of the Dragon
 1 Lotus Bloom
+1 Nine Lives
 1 Silence
 1 Mistveil Plains
 1 Enduring Ideal
@@ -82,12 +81,12 @@
 2 Sacred Foundry
 2 Marsh Flats
 2 Skyclave Apparition
-2 Nine Lives
 2 Enduring Ideal
 2 Plains
 2 Lotus Bloom
 2 Phyrexian Unlife
 2 Form of the Dragon
+2 Nine Lives
 2 Treasure Map
 2 Solemnity
 3 Plains
@@ -110,8 +109,7 @@
 1 Talisman of Curiosity
 2 Deafening Clarion
 3 Temple of Triumph
-3 Hagra Mauling
-4 Hagra Mauling
+3 Thoughtseize
 1 Steam Vents
 1 Scalding Tarn
 1 Teferi, Time Raveler
@@ -170,9 +168,8 @@
 4 Emry, Lurker of the Loch
 4 Mishra's Bauble
 1 Lotus Field
-1 Peer Through Depths
-1 Wishclaw Talisman
 1 Silundi Vision
+1 Wishclaw Talisman
 1 Polluted Delta
 1 Darkslick Shores
 1 Serum Visions
@@ -187,8 +184,10 @@
 1 Dream's Grip
 1 Merchant Scroll
 1 Watery Grave
+1 Peer Through Depths
 2 Lotus Field
 2 Polluted Delta
+2 Wishclaw Talisman
 2 Darkslick Shores
 2 Psychic Puppetry
 2 Merchant Scroll
@@ -199,15 +198,14 @@
 2 Serum Visions
 2 Ideas Unbound
 2 Sleight of Hand
-2 Wishclaw Talisman
 2 Past in Flames
 2 Twiddle
 3 Lotus Field
+3 Wishclaw Talisman
 3 Darkslick Shores
 3 Serum Visions
 3 Ideas Unbound
 3 Snow-Covered Island
-3 Wishclaw Talisman
 3 Twiddle
 3 Sleight of Hand
 3 Psychic Puppetry
@@ -245,9 +243,9 @@
 2 Izzet Charm
 2 Wooded Foothills
 2 Bloodstained Mire
+2 Remand
 2 Force of Negation
 2 Mass Hysteria
-2 Remand
 2 Transmogrify
 2 Lightning Bolt
 2 Polymorph
@@ -273,9 +271,10 @@
 1 Mana Confluence
 1 Pillar of the Paruns
 1 Aether Hub
+1 Kozilek, Butcher of Truth
+1 Emrakul, the Promised End
 1 Ulamog, the Infinite Gyre
 1 Tibalt's Trickery
-1 Emrakul, the Promised End
 1 Gemstone Caverns
 1 Brilliant Ultimatum
 1 Tendo Ice Bridge
@@ -283,7 +282,6 @@
 1 Violent Outburst
 1 Ardent Plea
 1 Omniscience
-1 Kozilek, Butcher of Truth
 1 City of Brass
 2 Pillar of the Paruns
 2 Mana Confluence
@@ -315,9 +313,9 @@
 3 Brilliant Ultimatum
 4 Omniscience
 4 Emrakul, the Aeons Torn
-4 Gemstone Mine
 4 Ardent Plea
 4 Violent Outburst
+4 Gemstone Mine
 4 Ulamog, the Infinite Gyre
 4 Pillar of the Paruns
 4 City of Brass

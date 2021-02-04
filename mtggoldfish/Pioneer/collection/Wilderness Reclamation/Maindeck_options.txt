@@ -1,5 +1,5 @@
-1 Chemister's Insight
-2 Sinister Sabotage
+1 Cyclonic Rift
+2 Rootbound Crag
 1 Swamp
 1 Zagoth Triome
 1 Watery Grave
@@ -12,24 +12,24 @@
 3 Sinister Sabotage
 2 Watery Grave
 1 Abrupt Decay
-1 Sweltering Suns
-2 Sweltering Suns
-2 Anger of the Gods
-3 Anger of the Gods
-4 Censor
 1 Shadows' Verdict
 1 Drowned Catacomb
 2 Hinterland Harbor
-3 Hinterland Harbor
 3 Watery Grave
 2 Shadows' Verdict
+1 Sweltering Suns
+2 Sweltering Suns
+1 Dig Through Time
 4 Sinister Sabotage
 2 Drowned Catacomb
+3 Hinterland Harbor
+4 Censor
 4 Hinterland Harbor
-1 Dig Through Time
-4 Mystical Dispute
+2 Anger of the Gods
+3 Anger of the Gods
 4 Watery Grave
 1 Overgrown Tomb
+4 Mystical Dispute
 1 Pull from Tomorrow
 3 Negate
 2 Dig Through Time
@@ -39,6 +39,7 @@
 1 Heartless Act
 2 Pull from Tomorrow
 1 Into the Roil
+1 Search for Azcanta
 2 Chemister's Insight
 1 Castle Locthwain
 2 Thassa's Intervention
@@ -55,7 +56,6 @@
 4 Opt
 1 Neutralize
 1 Lumbering Falls
-1 Search for Azcanta
 1 Botanical Sanctum
 1 Fetid Pools
 2 Clearwater Pathway
@@ -75,6 +75,7 @@
 2 Radiant Flames
 2 Aether Gust
 3 Sweltering Suns
+3 Fatal Push
 4 Negate
 1 Tasigur, the Golden Fang
 1 Bloodchief's Thirst

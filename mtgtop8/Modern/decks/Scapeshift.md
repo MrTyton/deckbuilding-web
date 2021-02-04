@@ -34,8 +34,8 @@
 |---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------------|
 |                     |             |                    1|[Madcap Experiment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417695)|
 |                     |             |                    1|[Platinum Emperion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457134)|
-|                     |             |                    2|[Madcap Experiment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417695)|
 |                     |             |                    2|[Platinum Emperion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457134)|
+|                     |             |                    2|[Madcap Experiment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417695)|
 |                     |             |                    3|[Madcap Experiment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417695)|
 |                     |             |                    4|[Madcap Experiment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417695)|
 |                     |             |                    2|[Wrenn and Six](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464166)    |

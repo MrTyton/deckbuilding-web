@@ -96,7 +96,7 @@
 |                     |                                                                                              |                    3|[Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208284)             |
 |                     |                                                                                              |                    3|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)         |
 |                     |                                                                                              |                    3|[Permeating Mass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414467)            |
-|                     |                                                                                              |                    4|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)         |
 |                     |                                                                                              |                    4|[Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208284)             |
+|                     |                                                                                              |                    4|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)         |
 |                     |                                                                                              |                    4|[Permeating Mass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414467)            |
 
