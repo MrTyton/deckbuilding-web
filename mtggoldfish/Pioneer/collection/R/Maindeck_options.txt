@@ -1,10 +1,11 @@
 1 Shock
 2 Shock
+2 Spikefield Hazard
 1 Eidolon of the Great Revel
 2 Eidolon of the Great Revel
-2 Spikefield Hazard
 3 Eidolon of the Great Revel
 1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
 1 Blast Zone
 1 Mazemind Tome
 1 Darksteel Citadel
@@ -16,7 +17,6 @@
 1 Valakut Awakening
 2 Valakut Awakening
 2 Darksteel Citadel
-2 Chandra, Torch of Defiance
 2 Cascading Cataracts
 2 Mazemind Tome
 2 Cleansing Wildfire
@@ -54,6 +54,7 @@
 3 Spikefield Hazard
 4 Spikefield Hazard
 1 Chandra, Awakened Inferno
+4 Eidolon of the Great Revel
 16 Mountain
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
@@ -61,7 +62,6 @@
 1 Shatterskull Smashing
 1 Battlefield Forge
 2 Battlefield Forge
-4 Eidolon of the Great Revel
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep
 3 Abbot of Keral Keep
@@ -91,17 +91,17 @@
 4 Vessel of Volatility
 3 Golos, Tireless Pilgrim
 2 Scavenger Grounds
+1 Roiling Vortex
 1 Emrakul, the Promised End
-1 Abrade
 1 Sanctum of Ugin
+1 Abrade
 1 Ugin, the Ineffable
-1 Solemn Simulacrum
 1 Shrine of the Forsaken Gods
 1 Ulamog, the Ceaseless Hunger
+1 Solemn Simulacrum
 2 Solemn Simulacrum
 3 Shatterskull Smashing
 1 Skewer the Critics
-1 Roiling Vortex
 2 Skewer the Critics
 2 Roiling Vortex
 4 Shock
@@ -117,3 +117,15 @@
 4 Chandra, Awakened Inferno
 4 Blast Zone
 4 Scavenger Grounds
+1 Castle Embereth
+1 Rekindling Phoenix
+1 Kari Zev, Skyship Raider
+1 Mutavault
+1 Incendiary Flow
+2 Mutavault
+2 Incendiary Flow
+2 Rekindling Phoenix
+2 Kari Zev, Skyship Raider
+3 Kari Zev, Skyship Raider
+3 Rekindling Phoenix
+4 Rekindling Phoenix

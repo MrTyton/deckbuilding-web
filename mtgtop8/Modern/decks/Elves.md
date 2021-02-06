@@ -1,0 +1,27 @@
+# Elves
+
+#### [Export MTGO List](../collection/Elves/Elves.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Blooming%20Marsh%0A3%09Cavern%20of%20Souls%0A4%09Collected%20Company%0A3%09Dwynen's%20Elite%0A4%09Elvish%20Archdruid%0A4%09Elvish%20Clancaller%0A4%09Elvish%20Mystic%0A4%09Elvish%20Warmaster%0A2%09Ezuri,%20Renegade%20Leader%0A6%09Forest%0A4%09Heritage%20Druid%0A4%09Llanowar%20Elves%0A4%09Nettle%20Sentinel%0A4%09Nurturing%20Peatland%0A2%09Realmwalker%0A4%09Shaman%20of%20the%20Pack&deckside=4%09Assassin's%20Trophy%0A3%09Collector%20Ouphe%0A2%09Damping%20Sphere%0A3%09Reclamation%20Sage%0A3%09Scavenging%20Ooze)
+# Maindeck
+
+|                                           Creature (33)                                           |                                         Instant (4)                                          |                                           Land (17)                                           |   Unknown (6)    |
+|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------|
+|3 [Dwynen's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442739)        |4 [Collected Company](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394519)|4 [Blooming Marsh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417816)    |4 Elvish Warmaster|
+|4 [Elvish Archdruid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389498)      |                                                                                              |3 [Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)   |2 Realmwalker     |
+|4 [Elvish Clancaller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447315)     |                                                                                              |6 [Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                  |
+|4 [Elvish Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389499)         |                                                                                              |4 [Nurturing Peatland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464192)|                  |
+|2 [Ezuri, Renegade Leader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389511)|                                                                                              |                                                                                               |                  |
+|4 [Heritage Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413713)        |                                                                                              |                                                                                               |                  |
+|4 [Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)        |                                                                                              |                                                                                               |                  |
+|4 [Nettle Sentinel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442171)       |                                                                                              |                                                                                               |                  |
+|4 [Shaman of the Pack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413747)    |                                                                                              |                                                                                               |                  |
+
+
+# Sideboard
+
+|                                       Artifact (2)                                        |                                        Creature (9)                                         |                                         Instant (4)                                          |
+|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|2 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|3 [Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107) |4 [Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
+|                                                                                           |3 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)|                                                                                              |
+|                                                                                           |3 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783) |                                                                                              |
+
