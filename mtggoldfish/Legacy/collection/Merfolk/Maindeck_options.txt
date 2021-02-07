@@ -1,12 +1,12 @@
 1 Hullbreacher
-4 Snow-Covered Island
 1 Karakas
+1 Glasspool Mimic
+4 Snow-Covered Island
 5 Snow-Covered Island
 6 Snow-Covered Island
-1 Glasspool Mimic
 2 Glasspool Mimic
-7 Snow-Covered Island
 12 Island
+7 Snow-Covered Island
 4 Merfolk Trickster
 8 Snow-Covered Island
 2 Hullbreacher
@@ -20,9 +20,6 @@
 3 Phantasmal Image
 1 Mox Diamond
 12 Snow-Covered Island
-4 Mutavault
-1 Cursecatcher
-2 Cursecatcher
 1 Oboro, Palace in the Clouds
 1 Barrin, Tolarian Archmage
 2 Barrin, Tolarian Archmage
@@ -30,7 +27,9 @@
 1 Umezawa's Jitte
 1 Harbinger of the Tides
 2 Harbinger of the Tides
-3 Cursecatcher
+4 Mutavault
+1 Cursecatcher
+2 Cursecatcher
 1 Brazen Borrower
 1 Chrome Mox
 2 Chrome Mox
@@ -40,7 +39,7 @@
 4 Chrome Mox
 1 Waterlogged Grove
 2 Waterlogged Grove
-4 Cursecatcher
+3 Cursecatcher
 1 Fiery Islet
 1 Force of Negation
 2 Force of Negation
@@ -56,6 +55,7 @@
 3 Daze
 4 Daze
 1 Thassa, God of the Sea
+4 Cursecatcher
 1 Tropical Island
 1 Flooded Strand
 1 Oko, Thief of Crowns
@@ -66,13 +66,12 @@
 1 Merrow Reejerey
 2 Merrow Reejerey
 3 Merrow Reejerey
+1 Mystic Reflection
 1 Tolaria West
 1 Maze of Ith
 1 Shelldock Isle
 2 Brazen Borrower
 2 Karakas
-1 Muddle the Mixture
-2 Muddle the Mixture
 1 Sylvan Library
 1 Scalding Tarn
 1 Misty Rainforest
@@ -86,11 +85,11 @@
 4 Hullbreacher
 4 Phantasmal Image
 4 Wasteland
-1 Smuggler's Copter
 1 Relic of Progenitus
+1 Smuggler's Copter
 1 Cosi's Trickster
-2 Smuggler's Copter
 2 Relic of Progenitus
+2 Smuggler's Copter
 2 Cosi's Trickster
 3 Smuggler's Copter
 3 Relic of Progenitus

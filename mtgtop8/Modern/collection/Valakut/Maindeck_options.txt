@@ -26,7 +26,6 @@
 1 Search for Tomorrow
 2 Search for Tomorrow
 3 Search for Tomorrow
-1 Dwarven Mine
 1 Migration Path
 1 Prismatic Omen
 1 Scapeshift
@@ -34,6 +33,7 @@
 1 Mountain
 1 Lightning Bolt
 1 Summoner's Pact
+1 Dwarven Mine
 1 Cinder Glade
 1 Farseek
 1 Mwonvuli Acid-Moss
@@ -67,7 +67,6 @@
 5 Mountain
 6 Mountain
 1 Cascading Cataracts
-1 Golos, Tireless Pilgrim
 1 Tireless Tracker
 1 Urborg, Tomb of Yawgmoth
 1 Snow-Covered Swamp
@@ -76,6 +75,7 @@
 1 Overgrown Tomb
 1 Oracle of Mul Daya
 1 Swamp
+1 Golos, Tireless Pilgrim
 1 Golgari Rot Farm
 1 Heartless Summoning
 1 Verdant Catacombs
@@ -91,8 +91,8 @@
 2 Oracle of Mul Daya
 2 Dread Presence
 3 Golgari Rot Farm
-3 Elder Gargaroth
 3 Tireless Tracker
+3 Elder Gargaroth
 3 Dread Presence
 3 Heartless Summoning
 3 Verdant Catacombs

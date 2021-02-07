@@ -35,7 +35,7 @@
 |                    1|[Night's Whisper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51178)     |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
 |                    1|[Asylum Visitor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409846)     |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)     |
 |                    2|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)|                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)  |
-|                    3|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)   |                    3|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)  |
-|                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |                     |                                                                                              |
+|                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |                    3|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)  |
+|                    3|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)   |                     |                                                                                              |
 |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |                     |                                                                                              |
 

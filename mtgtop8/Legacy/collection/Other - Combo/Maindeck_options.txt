@@ -1,3 +1,25 @@
+1 Thassa's Oracle
+2 Thassa's Oracle
+1 Lotus Petal
+2 Lotus Petal
+3 Lotus Petal
+4 Lotus Petal
+1 Ancient Tomb
+1 Thought Lash
+1 Paradigm Shift
+1 Jace, Wielder of Mysteries
+1 Shelldock Isle
+2 Ancient Tomb
+2 Thought Lash
+2 Jace, Wielder of Mysteries
+2 Shelldock Isle
+2 Paradigm Shift
+3 Thought Lash
+3 Paradigm Shift
+3 Thassa's Oracle
+4 Thassa's Oracle
+4 Thought Lash
+4 Paradigm Shift
 4 Ponder
 1 Tropical Island
 1 Snow-Covered Forest
@@ -5,87 +27,71 @@
 1 Preordain
 1 Prismatic Vista
 2 Preordain
-1 Thassa's Oracle
 1 Misty Rainforest
 2 Misty Rainforest
-2 Thassa's Oracle
 3 Misty Rainforest
-1 Lotus Petal
-2 Lotus Petal
-3 Lotus Petal
-4 Lotus Petal
+1 Teferi, Time Raveler
+1 Tundra
+2 Teferi, Time Raveler
+3 Teferi, Time Raveler
+3 Flooded Strand
+4 Flooded Strand
 1 Waterlogged Grove
 1 Thoughtseize
 2 Thoughtseize
 1 Spell Pierce
-1 Ancient Tomb
 1 Veil of Summer
-1 Thought Lash
 1 Skeletal Scrying
-1 Paradigm Shift
-1 Jace, Wielder of Mysteries
-1 Shelldock Isle
 2 Prismatic Vista
-2 Ancient Tomb
 2 Veil of Summer
 2 Spell Pierce
-2 Thought Lash
-2 Jace, Wielder of Mysteries
-2 Shelldock Isle
-2 Paradigm Shift
 3 Veil of Summer
-3 Thought Lash
-3 Paradigm Shift
-3 Thassa's Oracle
-4 Thassa's Oracle
-4 Thought Lash
-4 Paradigm Shift
 1 Snow-Covered Island
 1 Griselbrand
 3 Tropical Island
-1 Birds of Paradise
 1 Uro, Titan of Nature's Wrath
 1 Bayou
 1 Abrupt Decay
 1 Verdant Catacombs
 1 Snow-Covered Swamp
+1 Aether Vial
 1 Baleful Strix
 1 Mesmeric Fiend
 1 Plague Engineer
 1 Leovold, Emissary of Trest
-1 Aether Vial
 1 Divining Witch
 1 Kira, Great Glass-Spinner
+1 Birds of Paradise
 1 Brazen Borrower
 1 Fauna Shaman
 1 Scavenging Ooze
 1 Volrath's Shapeshifter
-2 Birds of Paradise
 2 Abrupt Decay
 2 Bayou
-2 Leovold, Emissary of Trest
+2 Birds of Paradise
 2 Aether Vial
+2 Leovold, Emissary of Trest
 2 Mesmeric Fiend
 2 Verdant Catacombs
 2 Divining Witch
 2 Fauna Shaman
 2 Baleful Strix
 3 Baleful Strix
-3 Aether Vial
 3 Birds of Paradise
+3 Aether Vial
 3 Fauna Shaman
 3 Mesmeric Fiend
 3 Verdant Catacombs
-4 Aether Vial
 4 Birds of Paradise
+4 Aether Vial
 4 Mesmeric Fiend
 1 Pact of Negation
 1 Summoner's Pact
 1 Elvish Spirit Guide
 2 Elvish Spirit Guide
 2 Summoner's Pact
-3 Elvish Spirit Guide
 3 Summoner's Pact
+3 Elvish Spirit Guide
 4 Summoner's Pact
 4 Elvish Spirit Guide
 1 Cabal Therapy
@@ -115,11 +121,11 @@
 3 Chrome Mox
 3 Turntimber Symbiosis
 3 Agadeem's Awakening
-3 Cabal Ritual
 3 Narcomoeba
 3 Pact of Negation
 3 Undercity Informer
 3 Dark Ritual
+3 Cabal Ritual
 3 Simian Spirit Guide
 3 Balustrade Spy
 4 Chrome Mox
@@ -132,6 +138,36 @@
 4 Pact of Negation
 4 Simian Spirit Guide
 4 Balustrade Spy
+1 Lightning Bolt
+1 Snapcaster Mage
+1 Swords to Plowshares
+1 Pestermite
+1 Snow-Covered Plains
+1 Mystic Sanctuary
+1 Arcum's Astrolabe
+1 Force of Negation
+1 Splinter Twin
+1 Snow-Covered Mountain
+1 Deceiver Exarch
+2 Swords to Plowshares
+2 Mystic Sanctuary
+2 Snapcaster Mage
+2 Snow-Covered Mountain
+2 Pestermite
+2 Snow-Covered Island
+2 Arcum's Astrolabe
+2 Splinter Twin
+2 Deceiver Exarch
+3 Deceiver Exarch
+3 Swords to Plowshares
+3 Splinter Twin
+3 Snow-Covered Island
+3 Arcum's Astrolabe
+4 Teferi, Time Raveler
+4 Splinter Twin
+4 Deceiver Exarch
+4 Swords to Plowshares
+4 Arcum's Astrolabe
 1 Xantid Swarm
 1 Children of Korlis
 1 Laboratory Maniac
@@ -166,42 +202,24 @@
 4 Neoform
 4 Nourishing Shoal
 4 Eldritch Evolution
-4 Waterlogged Grove
 4 Chancellor of the Tangle
+4 Waterlogged Grove
 4 Allosaurus Shepherd
-1 Lightning Bolt
-1 Snapcaster Mage
-1 Swords to Plowshares
-1 Pestermite
-1 Snow-Covered Plains
-1 Teferi, Time Raveler
-1 Mystic Sanctuary
-1 Arcum's Astrolabe
-1 Tundra
-1 Splinter Twin
-1 Snow-Covered Mountain
-1 Deceiver Exarch
-1 Force of Negation
-2 Swords to Plowshares
-2 Mystic Sanctuary
-2 Snapcaster Mage
-2 Snow-Covered Mountain
-2 Teferi, Time Raveler
-2 Pestermite
-2 Snow-Covered Island
-2 Arcum's Astrolabe
-2 Splinter Twin
-2 Deceiver Exarch
-3 Teferi, Time Raveler
-3 Flooded Strand
-3 Deceiver Exarch
-3 Swords to Plowshares
-3 Splinter Twin
-3 Snow-Covered Island
-3 Arcum's Astrolabe
-4 Teferi, Time Raveler
-4 Splinter Twin
-4 Deceiver Exarch
-4 Swords to Plowshares
-4 Arcum's Astrolabe
-4 Flooded Strand
+1 Chalice of the Void
+1 Intuition
+1 Impulse
+1 Narset, Parter of Veils
+2 Impulse
+2 Chalice of the Void
+2 Narset, Parter of Veils
+2 Tundra
+3 Ancient Tomb
+3 Chalice of the Void
+3 Impulse
+3 Tundra
+3 Shelldock Isle
+4 Chalice of the Void
+4 Impulse
+5 Island
+7 Island
+6 Island

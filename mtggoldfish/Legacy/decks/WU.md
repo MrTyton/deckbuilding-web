@@ -28,12 +28,8 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                     Maindeck Card                                      |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
-|--------------------:|----------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
-|                    2|Starnheim Unleashed                                                                     |                    1|[Cast Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426710)     |
-|                    3|[Ranger of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174823)|                    2|[Cast Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426710)     |
-|                    3|[Ancient Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205275)  |                    4|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)|
-|                    3|Starnheim Unleashed                                                                     |                     |                                                                                        |
-|                    4|[Ancient Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205275)  |                     |                                                                                        |
-|                    1|Starnheim Unleashed                                                                     |                     |                                                                                        |
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                  Sideboard Card                                   |
+|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------|
+|                     |             |                    1|[Cast Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426710)|
+|                     |             |                    2|[Cast Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426710)|
 

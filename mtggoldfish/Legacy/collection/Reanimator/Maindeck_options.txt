@@ -1,10 +1,10 @@
-2 Swamp
+1 Bayou
 2 Polluted Delta
 3 Polluted Delta
 3 Badlands
+1 Cabal Therapy
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
-1 Cabal Therapy
 3 Swamp
 1 Verdant Catacombs
 2 Verdant Catacombs
@@ -58,17 +58,17 @@
 2 Underground Sea
 2 Brainstorm
 2 Force of Will
+3 Brainstorm
 3 Underground Sea
 3 Force of Will
-3 Brainstorm
 3 Ponder
-4 Force of Will
 4 Brainstorm
-1 Bitterblossom
+4 Force of Will
 1 Surgical Extraction
 1 Wurmcoil Engine
 1 Duress
 1 Olivia's Dragoon
+1 Bitterblossom
 1 Vilis, Broker of Blood
 1 Watery Grave
 1 Inkwell Leviathan
@@ -77,8 +77,6 @@
 1 Sire of Insanity
 3 Cabal Therapy
 4 Cabal Therapy
-3 Verdant Catacombs
-4 Verdant Catacombs
 1 Island
 1 Hapless Researcher
 1 Careful Study
@@ -96,20 +94,20 @@
 18 Swamp
 19 Swamp
 1 Young Pyromancer
-1 Wasteland
 1 Volcanic Island
 1 Force of Negation
 1 Brazen Borrower
 1 Dreadhorde Arcanist
 1 Lightning Bolt
 1 Ox of Agonas
+1 Wasteland
 1 Preordain
 1 Scalding Tarn
 2 Young Pyromancer
-2 Wasteland
 2 Brazen Borrower
 2 Dreadhorde Arcanist
 2 Lightning Bolt
+2 Wasteland
 2 Scalding Tarn
 2 Volcanic Island
 3 Scalding Tarn

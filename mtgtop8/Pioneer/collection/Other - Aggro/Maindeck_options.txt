@@ -27,14 +27,14 @@
 3 Mutavault
 4 Brightclimb Pathway
 4 Mutavault
-1 Resolute Strike
 1 Sigarda's Aid
-1 Mardu Woe-Reaper
 1 Wishclaw Talisman
 1 Blood-Chin Rager
 1 Colossus Hammer
 1 Kor Blademaster
 1 Open the Armory
+1 Resolute Strike
+1 Mardu Woe-Reaper
 1 Caves of Koilos
 1 Concealed Courtyard
 1 Shadowspear
@@ -42,33 +42,33 @@
 1 Gods Willing
 2 Wishclaw Talisman
 2 Colossus Hammer
-2 Resolute Strike
 2 Sigarda's Aid
-2 Kor Blademaster
-2 Mardu Woe-Reaper
 2 Blood-Chin Rager
+2 Kor Blademaster
 2 Open the Armory
+2 Resolute Strike
+2 Mardu Woe-Reaper
 2 Concealed Courtyard
 2 Gods Willing
 2 Bloodsoaked Champion
 2 Caves of Koilos
 3 Blood-Chin Rager
 3 Colossus Hammer
+3 Sigarda's Aid
+3 Open the Armory
 3 Resolute Strike
 3 Kor Blademaster
-3 Sigarda's Aid
 3 Mardu Woe-Reaper
-3 Open the Armory
 3 Caves of Koilos
 3 Concealed Courtyard
 3 Godless Shrine
 3 Bloodsoaked Champion
-4 Mardu Woe-Reaper
-4 Resolute Strike
 4 Open the Armory
 4 Colossus Hammer
 4 Sigarda's Aid
+4 Resolute Strike
 4 Kor Blademaster
+4 Mardu Woe-Reaper
 4 Godless Shrine
 4 Caves of Koilos
 4 Concealed Courtyard
@@ -79,8 +79,8 @@
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
-1 Drown in the Loch
 1 Thieves' Guild Enforcer
+1 Drown in the Loch
 1 Soaring Thought-Thief
 1 Eliminate
 1 Cling to Dust
@@ -88,9 +88,9 @@
 1 Clearwater Pathway
 1 Island
 1 Watery Grave
-2 Drown in the Loch
 2 Thieves' Guild Enforcer
 2 Soaring Thought-Thief
+2 Drown in the Loch
 2 Watery Grave
 2 Clearwater Pathway
 3 Thieves' Guild Enforcer
@@ -109,8 +109,8 @@
 3 Fatal Push
 4 Fatal Push
 1 Anticognition
-1 Fabled Passage
 1 Nighthawk Scavenger
+1 Fabled Passage
 1 Drowned Catacomb
 1 Brazen Borrower
 2 Eliminate
@@ -150,26 +150,26 @@
 3 Wishclaw Talisman
 3 Mardu Shadowspear
 4 Mardu Shadowspear
-1 Of One Mind
 1 Botanical Sanctum
 1 Breeding Pool
+1 Merfolk Windrobber
+1 Of One Mind
 1 Zagoth Triome
 1 Deathrite Shaman
-1 Merfolk Windrobber
-2 Merfolk Windrobber
-2 Of One Mind
 2 Botanical Sanctum
 2 Agadeem's Awakening
 2 Zagoth Triome
+2 Of One Mind
+2 Merfolk Windrobber
 2 Deathrite Shaman
-3 Merfolk Windrobber
 3 Botanical Sanctum
 3 Of One Mind
 3 Into the Story
+3 Merfolk Windrobber
 3 Deathrite Shaman
 3 Agadeem's Awakening
-4 Deathrite Shaman
 4 Into the Story
+4 Deathrite Shaman
 4 Botanical Sanctum
 1 Llanowar Wastes
 1 Zulaport Cutthroat
@@ -205,12 +205,12 @@
 3 Bolas's Citadel
 3 Collected Company
 3 Priest of Forgotten Gods
+4 Woe Strider
 4 Gilded Goose
 4 Priest of Forgotten Gods
 4 Catacomb Sifter
 4 Zulaport Cutthroat
 4 Blisterpod
-4 Woe Strider
 4 Bolas's Citadel
 4 Mayhem Devil
 4 Collected Company
@@ -222,8 +222,8 @@
 1 Season of Growth
 1 Branchloft Pathway
 1 Temple Garden
-1 Fortified Village
 1 Sunpetal Grove
+1 Fortified Village
 1 Unflinching Courage
 1 Bassara Tower Archer
 1 Cartouche of Solidarity

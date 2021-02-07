@@ -1,3 +1,5 @@
+3 Goblin Charbelcher
+4 Goblin Charbelcher
 2 Pact of Negation
 2 Shatterskull Smashing
 1 Blood Moon
@@ -39,8 +41,6 @@
 4 Pyretic Ritual
 4 Desperate Ritual
 4 Bala Ged Recovery
-3 Pelakka Predation
-4 Pelakka Predation
 1 Hagra Mauling
 2 Hagra Mauling
 4 Blood Moon
@@ -53,7 +53,6 @@
 1 Sacred Foundry
 1 Arid Mesa
 2 Arid Mesa
-1 Temple of Triumph
 1 Skyclave Apparition
 1 Oust
 1 Plains
@@ -63,16 +62,16 @@
 1 Deafening Clarion
 1 Nine Lives
 1 Dovescape
+1 Overwhelming Splendor
 1 Treasure Map
 1 Form of the Dragon
 1 Solemnity
 1 Silence
+1 Temple of Triumph
 1 Mistveil Plains
 1 Enduring Ideal
-1 Overwhelming Splendor
 1 Lotus Bloom
 1 Phyrexian Unlife
-2 Temple of Triumph
 2 Silence
 2 Skyclave Apparition
 2 Oust
@@ -82,6 +81,7 @@
 2 Nine Lives
 2 Enduring Ideal
 2 Plains
+2 Temple of Triumph
 2 Phyrexian Unlife
 2 Form of the Dragon
 2 Treasure Map
@@ -103,12 +103,52 @@
 4 Enduring Ideal
 5 Plains
 6 Plains
-1 Gemstone Caverns
 1 Violent Outburst
-2 Gemstone Caverns
+1 Gemstone Caverns
 2 Violent Outburst
+2 Gemstone Caverns
 3 Violent Outburst
 4 Violent Outburst
+1 Valki, God of Lies
+2 Valki, God of Lies
+3 Valki, God of Lies
+3 Gemstone Caverns
+4 Gemstone Caverns
+1 Dismember
+2 Dismember
+1 Wooded Foothills
+4 Valki, God of Lies
+1 Forest
+1 Stomping Ground
+2 Wooded Foothills
+1 Overgrown Tomb
+1 Verdant Catacombs
+1 Seasoned Pyromancer
+1 Blackcleave Cliffs
+1 Demonic Dread
+1 Magus of the Moon
+1 Swamp
+1 Bloodbraid Elf
+1 Blood Crypt
+2 Seasoned Pyromancer
+2 Blackcleave Cliffs
+2 Blood Crypt
+2 Verdant Catacombs
+2 Bloodbraid Elf
+2 Magus of the Moon
+2 Demonic Dread
+3 Magus of the Moon
+3 Verdant Catacombs
+3 Seasoned Pyromancer
+3 Blackcleave Cliffs
+3 Bloodbraid Elf
+3 Demonic Dread
+4 Verdant Catacombs
+4 Seasoned Pyromancer
+4 Blackcleave Cliffs
+4 Bloodbraid Elf
+4 Demonic Dread
+1 Snow-Covered Forest
 1 Steam Vents
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
@@ -118,11 +158,6 @@
 2 Flooded Strand
 3 Flooded Strand
 4 Flooded Strand
-1 Valki, God of Lies
-2 Valki, God of Lies
-3 Valki, God of Lies
-1 Hallowed Fountain
-1 Snow-Covered Plains
 1 Ardent Plea
 2 Ardent Plea
 3 Ardent Plea
@@ -132,21 +167,34 @@
 1 Raugrin Triome
 2 Force of Negation
 3 Force of Negation
-1 Watery Grave
+1 Hallowed Fountain
+1 Snow-Covered Plains
 1 Breeding Pool
-1 Lightning Bolt
+1 Watery Grave
 1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
-1 Dismember
-2 Dismember
+3 Wooded Foothills
+4 Wooded Foothills
+2 Forest
 1 Talisman of Hierarchy
 1 Talisman of Curiosity
 2 Thoughtseize
 2 Deafening Clarion
 3 Temple of Triumph
-4 Valki, God of Lies
+1 Lovestruck Beast
+2 Lovestruck Beast
+2 Swamp
+3 Lovestruck Beast
+1 Snow-Covered Swamp
+1 Murderous Rider
+1 Prismatic Vista
+2 Murderous Rider
+2 Prismatic Vista
+4 Magus of the Moon
+1 Emrakul, the Aeons Torn
+2 Emrakul, the Aeons Torn
 1 Mana Confluence
 2 Mana Confluence
 1 Polluted Delta
@@ -171,19 +219,11 @@
 4 Force of Negation
 4 Brazen Borrower
 4 Polluted Delta
-1 Snow-Covered Forest
-1 Wooded Foothills
-3 Gemstone Caverns
-4 Gemstone Caverns
-1 Emrakul, the Aeons Torn
-2 Emrakul, the Aeons Torn
-1 Forest
-2 Forest
+1 Mountain
+2 Mountain
 1 Tibalt's Trickery
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
-1 Mountain
-2 Mountain
 1 Hanweir Battlements
 1 Tranquil Thicket
 1 Field of the Dead
@@ -224,41 +264,6 @@
 3 Castle Garenbrig
 4 Gruul Turf
 4 Grove of the Burnwillows
-1 Stomping Ground
-2 Wooded Foothills
-3 Wooded Foothills
-4 Wooded Foothills
-1 Overgrown Tomb
-1 Verdant Catacombs
-1 Seasoned Pyromancer
-1 Blackcleave Cliffs
-1 Demonic Dread
-1 Magus of the Moon
-1 Lovestruck Beast
-1 Swamp
-1 Bloodbraid Elf
-1 Blood Crypt
-2 Seasoned Pyromancer
-2 Blackcleave Cliffs
-2 Blood Crypt
-2 Verdant Catacombs
-2 Bloodbraid Elf
-2 Magus of the Moon
-2 Demonic Dread
-2 Lovestruck Beast
-2 Swamp
-3 Magus of the Moon
-3 Verdant Catacombs
-3 Seasoned Pyromancer
-3 Blackcleave Cliffs
-3 Bloodbraid Elf
-3 Lovestruck Beast
-3 Demonic Dread
-4 Verdant Catacombs
-4 Seasoned Pyromancer
-4 Blackcleave Cliffs
-4 Bloodbraid Elf
-4 Demonic Dread
 1 Mystic Sanctuary
 1 Uro, Titan of Nature's Wrath
 1 Cryptic Command
@@ -281,36 +286,74 @@
 1 Opt
 1 Mass Hysteria
 1 Izzet Charm
-1 Delay
 1 Dwarven Mine
 1 Transmogrify
+1 Lightning Bolt
 1 Polymorph
 1 Remand
+1 Delay
 1 Bloodstained Mire
+2 Transmogrify
 2 Opt
 2 Delay
-2 Dwarven Mine
 2 Izzet Charm
 2 Bloodstained Mire
-2 Remand
+2 Dwarven Mine
 2 Mass Hysteria
-2 Transmogrify
+2 Remand
 2 Lightning Bolt
 2 Polymorph
+3 Transmogrify
 3 Arid Mesa
 3 Opt
-3 Dwarven Mine
 3 Remand
 3 Lightning Bolt
 3 Polymorph
-3 Transmogrify
+3 Dwarven Mine
 3 Mass Hysteria
+4 Transmogrify
 4 Arid Mesa
 4 Lightning Bolt
 4 Polymorph
 4 Mass Hysteria
-4 Transmogrify
 4 Remand
+1 Aether Hub
+1 Brilliant Ultimatum
+1 Pillar of the Paruns
+1 Omniscience
+1 Tendo Ice Bridge
+1 Kozilek, Butcher of Truth
+1 Ulamog, the Infinite Gyre
+1 Emrakul, the Promised End
+1 Gemstone Mine
+1 City of Brass
+2 Aether Hub
+2 Kozilek, Butcher of Truth
+2 Tibalt's Trickery
+2 Pillar of the Paruns
+2 Brilliant Ultimatum
+2 Ulamog, the Infinite Gyre
+2 Omniscience
+2 Tendo Ice Bridge
+2 Emrakul, the Promised End
+2 Gemstone Mine
+2 City of Brass
+3 Omniscience
+3 Aether Hub
+3 Kozilek, Butcher of Truth
+3 Brilliant Ultimatum
+3 Pillar of the Paruns
+3 Ulamog, the Infinite Gyre
+3 Emrakul, the Promised End
+3 Gemstone Mine
+3 City of Brass
+4 Aether Hub
+4 Ulamog, the Infinite Gyre
+4 Brilliant Ultimatum
+4 Omniscience
+4 Pillar of the Paruns
+4 Gemstone Mine
+4 City of Brass
 1 Underworld Breach
 2 Snow-Covered Island
 1 Silundi Vision
@@ -362,43 +405,6 @@
 4 Ideas Unbound
 4 Psychic Puppetry
 4 Dream's Grip
-1 Pillar of the Paruns
-1 Kozilek, Butcher of Truth
-1 Ulamog, the Infinite Gyre
-1 Emrakul, the Promised End
-1 Aether Hub
-1 Brilliant Ultimatum
-1 Tendo Ice Bridge
-1 Gemstone Mine
-1 Omniscience
-1 City of Brass
-2 Pillar of the Paruns
-2 Tibalt's Trickery
-2 Gemstone Mine
-2 Emrakul, the Promised End
-2 City of Brass
-2 Omniscience
-2 Aether Hub
-2 Tendo Ice Bridge
-2 Brilliant Ultimatum
-2 Ulamog, the Infinite Gyre
-2 Kozilek, Butcher of Truth
-3 Pillar of the Paruns
-3 Gemstone Mine
-3 City of Brass
-3 Omniscience
-3 Emrakul, the Promised End
-3 Ulamog, the Infinite Gyre
-3 Aether Hub
-3 Kozilek, Butcher of Truth
-3 Brilliant Ultimatum
-4 Omniscience
-4 Pillar of the Paruns
-4 Gemstone Mine
-4 Ulamog, the Infinite Gyre
-4 City of Brass
-4 Aether Hub
-4 Brilliant Ultimatum
 3 Skyclave Apparition
 7 Plains
 1 Snow-Covered Mountain
