@@ -11,29 +11,29 @@
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
 1 Thoughtseize
-2 Thoughtseize
 1 Wasteland
+2 Thoughtseize
 2 Wasteland
 3 Wasteland
 1 Liliana of the Veil
 2 Liliana of the Veil
-3 Thoughtseize
 4 Wasteland
 3 Liliana of the Veil
 1 Hymn to Tourach
 2 Hymn to Tourach
 1 Mishra's Factory
+3 Thoughtseize
 3 Hymn to Tourach
-4 Thoughtseize
 1 Liliana, the Last Hope
 4 Hymn to Tourach
-1 Bloodchief's Thirst
+4 Thoughtseize
 1 Dark Confidant
 2 Dark Confidant
 3 Dark Confidant
 4 Dark Confidant
 1 Marsh Flats
 1 Umezawa's Jitte
+1 Bloodchief's Thirst
 1 Fatal Push
 2 Marsh Flats
 1 Scrubland
@@ -46,14 +46,14 @@
 3 Scrubland
 4 Scrubland
 3 Marsh Flats
-2 Bloodchief's Thirst
-9 Swamp
 2 Sorcerous Spyglass
+9 Swamp
 2 Mishra's Factory
 4 Marsh Flats
 4 Stoneforge Mystic
 1 Bitterblossom
 4 Liliana of the Veil
+2 Bloodchief's Thirst
 1 Plague Engineer
 1 Sword of Fire and Ice
 1 Inquisition of Kozilek
@@ -94,7 +94,6 @@
 1 Verdant Catacombs
 2 Inquisition of Kozilek
 2 Innocent Blood
-9 Snow-Covered Swamp
 1 Plains
 1 Crucible of Worlds
 3 Polluted Delta
@@ -111,6 +110,7 @@
 1 The Tabernacle at Pendrell Vale
 1 Ghost Quarter
 1 Murderous Rider
+9 Snow-Covered Swamp
 4 Sorcerous Spyglass
 1 Rotting Regisaur
 2 Rotting Regisaur
@@ -148,9 +148,9 @@
 2 Bloodghast
 2 Vindicate
 3 Myth Realized
-3 Sphere of Resistance
 3 Bloodghast
 3 Vindicate
+3 Sphere of Resistance
 4 Cabal Therapy
 4 Vindicate
 4 Sphere of Resistance
@@ -170,14 +170,14 @@
 2 Agonizing Remorse
 1 Field of Ruin
 2 Field of Ruin
+1 Field of the Dead
+2 Field of the Dead
 1 Tidehollow Sculler
 2 Tidehollow Sculler
 2 Silent Clearing
 1 Fetid Heath
 2 Plains
 2 Fetid Heath
-1 Field of the Dead
-2 Field of the Dead
 1 Ifnir Deadlands
 2 Ifnir Deadlands
 3 Ensnaring Bridge
@@ -185,12 +185,6 @@
 2 Cavern of Souls
 3 Cavern of Souls
 4 Bloodstained Mire
-1 Duress
-2 Duress
-3 Duress
-3 Bloodchief's Thirst
-4 Bloodchief's Thirst
-4 Duress
 1 Ashiok, Dream Render
 1 Blast Zone
 2 Liliana's Triumph
