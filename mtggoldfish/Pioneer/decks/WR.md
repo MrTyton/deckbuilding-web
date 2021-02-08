@@ -43,6 +43,7 @@
 |                     |                                                                                                     |                    2|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)               |
 |                     |                                                                                                     |                    4|[Light of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479540)             |
 |                     |                                                                                                     |                    3|[Apostle of Purifying Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466760)|
+|                     |                                                                                                     |                    3|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)        |
 |                     |                                                                                                     |                    3|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)                |
 |                     |                                                                                                     |                    3|[Seeker of the Way](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438595)         |
 

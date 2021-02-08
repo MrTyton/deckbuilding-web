@@ -61,8 +61,8 @@
 1 Luminarch Aspirant
 2 Embercleave
 3 Temple of Triumph
-4 Temple of Triumph
 4 Shatterskull Smashing
+4 Temple of Triumph
 2 Giant Killer
 3 Giant Killer
 4 Giant Killer
@@ -81,13 +81,13 @@
 2 Hengegate Pathway
 3 Hengegate Pathway
 4 Hengegate Pathway
-1 Archpriest of Iona
 1 Relic Robber
 1 Castle Embereth
-2 Archpriest of Iona
+1 Archpriest of Iona
 2 Relic Robber
-3 Archpriest of Iona
+2 Archpriest of Iona
 3 Relic Robber
+3 Archpriest of Iona
 4 Archpriest of Iona
 4 Relic Robber
 1 Shredded Sails
@@ -97,6 +97,7 @@
 1 Crawling Barrens
 2 Shredded Sails
 4 Drannith Healer
+4 Embercleave
 1 Yidaro, Wandering Monster
 1 Reptilian Reflection
 1 Splendor Mare
@@ -105,39 +106,38 @@
 3 Yidaro, Wandering Monster
 4 Yidaro, Wandering Monster
 4 Brightclimb Pathway
-4 Embercleave
 3 Emeria's Call
 3 Fabled Passage
 4 Emeria's Call
 4 Fabled Passage
 4 Maul of the Skyclaves
-1 Venerable Knight
-1 Blightstep Pathway
+1 Tournament Grounds
+1 Acclaimed Contender
 1 Worthy Knight
 1 Inspiring Veteran
-1 Acclaimed Contender
-1 Tournament Grounds
+1 Venerable Knight
+1 Blightstep Pathway
 1 Embereth Shieldbreaker
 1 Fervent Champion
-2 Venerable Knight
-2 Fervent Champion
+2 Tournament Grounds
 2 Acclaimed Contender
 2 Worthy Knight
-2 Blightstep Pathway
 2 Inspiring Veteran
-2 Tournament Grounds
-3 Venerable Knight
+2 Venerable Knight
+2 Fervent Champion
+2 Blightstep Pathway
+3 Inspiring Veteran
 3 Acclaimed Contender
+3 Tournament Grounds
+3 Worthy Knight
+3 Venerable Knight
 3 Blightstep Pathway
 3 Fervent Champion
-3 Worthy Knight
-3 Inspiring Veteran
-3 Tournament Grounds
-4 Venerable Knight
 4 Inspiring Veteran
+4 Acclaimed Contender
 4 Tournament Grounds
 4 Worthy Knight
-4 Acclaimed Contender
+4 Venerable Knight
 4 Blightstep Pathway
 4 Fervent Champion
 9 Plains

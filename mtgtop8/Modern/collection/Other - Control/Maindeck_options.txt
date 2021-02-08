@@ -32,11 +32,11 @@
 3 Temple Garden
 3 Wooded Foothills
 4 Solemn Simulacrum
-4 Castle Garenbrig
 4 Wurmcoil Engine
 4 Explore
 4 Search for Tomorrow
 4 Arboreal Grazer
+4 Castle Garenbrig
 1 Mountain
 1 Lightning Bolt
 2 Mountain
@@ -106,37 +106,37 @@
 3 Archmage's Charm
 1 Fatal Push
 2 Fatal Push
-1 Spell Snare
-1 Ancestral Vision
 1 Island
 1 Clearwater Pathway
 1 Snapcaster Mage
 1 Drown in the Loch
-1 Polluted Delta
 1 Darkslick Shores
+1 Polluted Delta
 1 Thieves' Guild Enforcer
 1 Watery Grave
 1 Eliminate
+1 Spell Snare
 1 Cling to Dust
 1 Mana Leak
+1 Ancestral Vision
 1 Soaring Thought-Thief
 1 Mishra's Bauble
-2 Spell Snare
-2 Island
-2 Ancestral Vision
 2 Cling to Dust
-2 Watery Grave
+2 Island
 2 Drown in the Loch
+2 Watery Grave
 2 Snapcaster Mage
 2 Darkslick Shores
 2 Polluted Delta
 2 Thieves' Guild Enforcer
 2 Mishra's Bauble
+2 Spell Snare
 2 Mana Leak
+2 Ancestral Vision
 2 Soaring Thought-Thief
 3 Scalding Tarn
-3 Island
 3 Snapcaster Mage
+3 Island
 3 Cling to Dust
 3 Darkslick Shores
 3 Polluted Delta
@@ -148,13 +148,13 @@
 3 Mishra's Bauble
 4 Drown in the Loch
 4 Fatal Push
-4 Ancestral Vision
 4 Island
 4 Polluted Delta
 4 Darkslick Shores
-4 Thieves' Guild Enforcer
 4 Soaring Thought-Thief
 4 Mishra's Bauble
+4 Thieves' Guild Enforcer
+4 Ancestral Vision
 4 Snapcaster Mage
 1 Remand
 1 Misty Rainforest
@@ -192,10 +192,10 @@
 3 Remand
 3 Snow-Covered Island
 3 Field of Ruin
-3 Breeding Pool
 3 Misty Rainforest
 3 Nexus of Fate
 3 Growth Spiral
+3 Breeding Pool
 3 Cryptic Command
 3 Uro, Titan of Nature's Wrath
 4 Growth Spiral
@@ -248,10 +248,10 @@
 3 Blood Crypt
 4 Marsh Flats
 4 Blackcleave Cliffs
-4 Kroxa, Titan of Death's Hunger
 4 Blood Moon
 4 Inquisition of Kozilek
 4 Liliana of the Veil
+4 Kroxa, Titan of Death's Hunger
 4 Bloodstained Mire
 4 Seasoned Pyromancer
 4 Magmatic Channeler

@@ -1,20 +1,23 @@
-2 Teferi, Hero of Dominaria
-1 Spell Snare
 4 Remand
-1 Prairie Stream
+1 Polluted Delta
+2 Teferi, Hero of Dominaria
 4 Archmage's Charm
+1 Prairie Stream
+2 Steam Vents
 2 Mana Leak
 1 Misty Rainforest
 1 Celestial Colonnade
-2 Steam Vents
 2 Polluted Delta
 1 Raugrin Triome
 1 Sacred Foundry
 3 Shark Typhoon
+2 Spell Snare
+6 Island
 1 Deprive
-2 Plains
-3 Jace, the Mind Sculptor
 3 Mystic Sanctuary
+3 Jace, the Mind Sculptor
+2 Plains
+2 Misty Rainforest
 1 Lightning Helix
 2 Lightning Helix
 1 Sword of Feast and Famine
@@ -23,35 +26,34 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-2 Misty Rainforest
+1 Brazen Borrower
+2 Brazen Borrower
+7 Island
 1 Terminus
 2 Terminus
 3 Terminus
-2 Spell Snare
-6 Island
 2 Celestial Colonnade
+1 Magmatic Sinkhole
 1 Snow-Covered Island
 2 Snow-Covered Island
 1 Logic Knot
 4 Mystic Sanctuary
-4 Terminus
 1 Omen of the Sea
 2 Omen of the Sea
+4 Terminus
 1 Supreme Verdict
-1 Flagstones of Trokair
 1 Cleansing Wildfire
-2 Flagstones of Trokair
+1 Flagstones of Trokair
 2 Cleansing Wildfire
+2 Flagstones of Trokair
 3 Flagstones of Trokair
 4 Flagstones of Trokair
 1 Vendilion Clique
-1 Brazen Borrower
-2 Brazen Borrower
-7 Island
 3 Snow-Covered Island
 4 Snow-Covered Island
 3 Field of Ruin
-1 Magmatic Sinkhole
+1 Cascade Bluffs
+2 Cascade Bluffs
 3 Omen of the Sea
 1 Sulfur Falls
 5 Snow-Covered Island
@@ -67,8 +69,6 @@
 4 Field of Ruin
 1 Peek
 2 Peek
-1 Cascade Bluffs
-2 Cascade Bluffs
 1 Sea Gate Restoration
 4 Force of Negation
 3 Mana Leak
@@ -76,14 +76,14 @@
 3 Misty Rainforest
 1 Spirebluff Canal
 2 Spirebluff Canal
-1 Emrakul, the Aeons Torn
 1 Through the Breach
-2 Emrakul, the Aeons Torn
+1 Emrakul, the Aeons Torn
 2 Through the Breach
-3 Emrakul, the Aeons Torn
+2 Emrakul, the Aeons Torn
 3 Through the Breach
-4 Emrakul, the Aeons Torn
+3 Emrakul, the Aeons Torn
 4 Through the Breach
+4 Emrakul, the Aeons Torn
 1 Silundi Vision
 2 Raugrin Triome
 1 Abrade
@@ -104,6 +104,15 @@
 4 Spirebluff Canal
 2 Sulfur Falls
 2 Logic Knot
+4 Misty Rainforest
+1 The Royal Scions
+1 Blast Zone
+1 Bonecrusher Giant
+2 The Royal Scions
+2 Bonecrusher Giant
+2 Magmatic Sinkhole
+3 Brazen Borrower
+4 Brazen Borrower
 1 Blood Moon
 2 Blood Moon
 1 Fiery Islet
@@ -115,7 +124,6 @@
 4 Omen of the Sea
 2 Silundi Vision
 3 Reflecting Pool
-4 Misty Rainforest
 1 Flame Slash
 2 Tale's End
 3 Teferi, Hero of Dominaria
@@ -125,11 +133,11 @@
 1 Spell Pierce
 2 Vendilion Clique
 3 Sulfur Falls
-2 Temple of Epiphany
 2 Mountain
+2 Temple of Epiphany
 3 Temple of Epiphany
-4 Temple of Epiphany
 4 Reflecting Pool
+4 Temple of Epiphany
 1 Arid Mesa
 3 Celestial Colonnade
 3 Hallowed Fountain
@@ -148,21 +156,14 @@
 4 Lotus Field
 4 Shark Typhoon
 4 Teferi, Hero of Dominaria
+8 Island
+1 Fire Prophecy
 1 Spell Queller
 2 Spell Queller
-1 The Royal Scions
-1 Fire Prophecy
-1 Bonecrusher Giant
-1 Blast Zone
-2 The Royal Scions
-2 Bonecrusher Giant
-2 Magmatic Sinkhole
-3 Brazen Borrower
-4 Brazen Borrower
 1 Serum Visions
 1 Deceiver Exarch
-1 Kiki-Jiki, Mirror Breaker
 1 Minamo, School at Water's Edge
+1 Kiki-Jiki, Mirror Breaker
 1 Crackling Drake
 2 Serum Visions
 2 Deceiver Exarch
@@ -170,6 +171,7 @@
 2 Snow-Covered Plains
 1 Engineered Explosives
 1 Teferi, Master of Time
+1 Yidaro, Wandering Monster
 1 Castle Vantress
 1 Condemn
 1 Shadow of Doubt
@@ -214,13 +216,12 @@
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
-8 Island
 1 Snow-Covered Mountain
 6 Snow-Covered Island
 7 Snow-Covered Island
 8 Snow-Covered Island
-1 Godless Shrine
 1 Drowned Catacomb
+1 Godless Shrine
 1 Glacial Fortress
 1 Lingering Souls
 1 Thoughtseize

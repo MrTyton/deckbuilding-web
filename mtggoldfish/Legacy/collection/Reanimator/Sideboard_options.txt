@@ -23,12 +23,12 @@
 1 Veil of Summer
 2 Veil of Summer
 1 Duress
-1 Surgical Extraction
-1 Pyroblast
-2 Pyroblast
 1 Grave Titan
 1 Assassin's Trophy
 2 Assassin's Trophy
+1 Pyroblast
+2 Pyroblast
+1 Surgical Extraction
 1 Abrade
 3 Assassin's Trophy
 4 Assassin's Trophy
@@ -36,18 +36,22 @@
 2 Abrupt Decay
 1 Pithing Needle
 2 Pithing Needle
-2 Surgical Extraction
 1 Show and Tell
 2 Show and Tell
 1 Bitterblossom
 1 Liliana, the Last Hope
 2 Liliana, the Last Hope
 1 Lake of the Dead
-1 Red Elemental Blast
+2 Surgical Extraction
 1 Feed the Swarm
 1 Elsha of the Infinite
 2 Grave Titan
 2 Extirpate
+1 Inquisition of Kozilek
+1 Stronghold Gambit
+1 Dawnglade Regent
+2 Inquisition of Kozilek
+2 Stronghold Gambit
 1 Chandra, Awakened Inferno
 1 Cryptbreaker
 2 Cryptbreaker
@@ -59,14 +63,6 @@
 3 Echoing Truth
 3 Pithing Needle
 3 Thoughtseize
-1 Fatal Push
-1 Flusterstorm
-1 Null Rod
-1 Plague Engineer
-2 Fatal Push
-2 Abrade
-2 Plague Engineer
-3 Plague Engineer
 1 Pack Rat
 1 Sorcerous Spyglass
 2 Pack Rat
@@ -74,8 +70,8 @@
 2 Sorcerous Spyglass
 3 Pack Rat
 3 Liliana, the Last Hope
-2 Duress
 2 Shenanigans
+2 Duress
 4 Faerie Macabre
 1 Wurmcoil Engine
 1 Massacre Wurm
@@ -90,6 +86,7 @@
 3 Surgical Extraction
 4 Grim Monolith
 1 Shifting Ceratops
+1 Red Elemental Blast
 2 Red Elemental Blast
 2 Shifting Ceratops
 3 Abrupt Decay

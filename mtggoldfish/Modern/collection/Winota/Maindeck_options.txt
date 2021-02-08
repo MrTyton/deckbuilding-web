@@ -26,8 +26,8 @@
 2 Stomping Ground
 2 Windswept Heath
 3 Birds of Paradise
-3 Windswept Heath
 3 Wooded Foothills
+3 Windswept Heath
 4 Birds of Paradise
 1 Voice of Resurgence
 1 Eldritch Evolution
@@ -52,8 +52,8 @@
 4 Copperline Gorge
 1 Arbor Elf
 2 Arbor Elf
-3 Stomping Ground
 3 Arbor Elf
+3 Stomping Ground
 1 Cavern of Souls
 1 Phyrexian Revoker
 2 Phyrexian Revoker
@@ -94,6 +94,7 @@
 4 Godo, Bandit Warlord
 1 Reflecting Pool
 1 Blade Splicer
+1 Flooded Strand
 1 Alirios, Enraptured
 1 Noble Hierarch
 1 Meddling Mage
@@ -106,15 +107,14 @@
 1 Champion of the Parish
 1 Avacyn's Pilgrim
 1 Unclaimed Territory
-1 Flooded Strand
 2 Alirios, Enraptured
 2 Reflecting Pool
 2 Blade Splicer
+2 Flooded Strand
 2 Noble Hierarch
 2 Meddling Mage
 2 Ancient Ziggurat
 2 Avacyn's Pilgrim
-2 Flooded Strand
 2 Mantis Rider
 2 Thalia's Lieutenant
 2 Champion of the Parish
@@ -168,8 +168,8 @@
 4 Utopia Sprawl
 4 Forest
 5 Forest
-1 Brushfire Elemental
 1 Gilded Goose
+1 Brushfire Elemental
 1 Rampaging Ferocidon
 1 Banisher Priest
 2 Brushfire Elemental
