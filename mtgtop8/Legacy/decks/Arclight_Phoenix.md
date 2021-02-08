@@ -31,8 +31,8 @@
 |--------------------:|------------------------------------------------------------------------------------------|--------------------:|----------------|
 |                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)  |                    1|Opposition Agent|
 |                    1|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)|                    2|Opposition Agent|
-|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)  |                     |                |
 |                    2|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)      |                     |                |
+|                    2|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)  |                     |                |
 |                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)  |                     |                |
 |                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)  |                     |                |
 |                    4|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)    |                     |                |

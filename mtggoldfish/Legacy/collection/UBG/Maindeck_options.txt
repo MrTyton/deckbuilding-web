@@ -2,32 +2,32 @@
 1 Preordain
 2 Force of Negation
 4 Polluted Delta
-1 Stubborn Denial
-2 Brazen Borrower
 1 Verdant Catacombs
+2 Brazen Borrower
 2 Preordain
-4 Flooded Strand
+1 Stubborn Denial
+1 Hymn to Tourach
+2 Hymn to Tourach
+2 Verdant Catacombs
 1 Stifle
 2 Stifle
 3 Misty Rainforest
-1 Hymn to Tourach
-2 Hymn to Tourach
+4 Flooded Strand
 4 Watery Grave
-2 Verdant Catacombs
 1 Ethereal Forager
 1 Swamp
 1 Island
 3 Hymn to Tourach
 2 Ethereal Forager
-2 Stubborn Denial
 1 Marsh Flats
-2 Marsh Flats
+2 Stubborn Denial
 1 Lightning Bolt
 1 Steam Vents
 1 Volcanic Island
 2 Steam Vents
 2 Lightning Bolt
 3 Lightning Bolt
+2 Marsh Flats
 1 Breeding Pool
 1 Abrupt Decay
 1 Tropical Island
@@ -36,8 +36,6 @@
 3 Gurmag Angler
 4 Hymn to Tourach
 3 Ethereal Forager
-3 Marsh Flats
-1 Bloodstained Mire
 1 Dreadhorde Arcanist
 2 Dreadhorde Arcanist
 3 Dreadhorde Arcanist
@@ -60,18 +58,20 @@
 1 Spell Pierce
 1 Agadeem's Awakening
 2 Spell Pierce
-1 Sylvan Library
 1 Tasigur, the Golden Fang
+1 Sylvan Library
 1 Jolrael, Mwonvuli Recluse
 2 Jolrael, Mwonvuli Recluse
 3 Preordain
+3 Marsh Flats
+1 Bloodstained Mire
 3 Snuff Out
 1 Bayou
-1 Overgrown Tomb
 1 Snow-Covered Swamp
+1 Overgrown Tomb
 2 Abrupt Decay
-3 Verdant Catacombs
 3 Abrupt Decay
+3 Verdant Catacombs
 4 Verdant Catacombs
 1 Sprite Dragon
 2 Sprite Dragon
@@ -92,4 +92,3 @@
 3 Stifle
 4 Tarmogoyf
 4 Stifle
-4 Marsh Flats

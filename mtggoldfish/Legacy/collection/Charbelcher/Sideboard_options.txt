@@ -1,11 +1,11 @@
 1 Goblin Charbelcher
 1 Leyline of Sanctity
 2 Leyline of Sanctity
+3 Leyline of Sanctity
 1 Surgical Extraction
 1 Echoing Truth
 2 Surgical Extraction
 3 Surgical Extraction
-3 Leyline of Sanctity
 1 Pack Rat
 2 Pack Rat
 3 Pack Rat
@@ -15,7 +15,6 @@
 1 Chain of Vapor
 2 Chain of Vapor
 2 Goblin Charbelcher
-1 Cave-In
 1 Lightning Bolt
 3 Goblin Charbelcher
 1 Lion's Eye Diamond
@@ -37,6 +36,7 @@
 3 Nature's Claim
 4 Chancellor of the Annex
 2 Thoughtseize
+1 Cave-In
 1 Chain Lightning
 1 Autumn's Veil
 1 Thassa's Oracle
@@ -46,8 +46,8 @@
 4 Irencrag Feat
 1 Street Wraith
 1 Edge of Autumn
-1 Nexus of Fate
 1 Doomsday
+1 Nexus of Fate
 1 Pact of Negation
 1 Ideas Unbound
 2 Street Wraith
@@ -64,13 +64,13 @@
 1 Massacre
 1 Hull Breach
 2 Toxic Deluge
-1 Fatal Push
-2 Echoing Truth
-2 Fatal Push
 1 Rotting Regisaur
-1 Opposition Agent
 1 Reanimate
+1 Opposition Agent
 2 Reanimate
+1 Fatal Push
+2 Fatal Push
+2 Echoing Truth
 1 Slaughter Pact
 2 Slaughter Pact
 1 Duress
@@ -84,5 +84,16 @@
 2 Grim Monolith
 2 Serum Powder
 3 Grim Monolith
-4 Grim Monolith
 3 Serum Powder
+4 Grim Monolith
+1 Defense Grid
+1 Deafening Silence
+1 Aura of Silence
+1 Ghostly Prison
+1 Wrath of God
+1 Baneslayer Angel
+1 Cursed Totem
+1 Porphyry Nodes
+1 Isochron Scepter
+2 Isochron Scepter
+4 Leyline of Sanctity
