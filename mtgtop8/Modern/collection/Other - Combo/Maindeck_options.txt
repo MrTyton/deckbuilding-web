@@ -53,6 +53,7 @@
 1 Sacred Foundry
 1 Arid Mesa
 2 Arid Mesa
+1 Temple of Triumph
 1 Nykthos, Shrine to Nyx
 1 Skyclave Apparition
 1 Oust
@@ -67,13 +68,13 @@
 1 Form of the Dragon
 1 Solemnity
 1 Silence
-1 Temple of Triumph
 1 Mistveil Plains
 1 Enduring Ideal
 1 Lotus Bloom
 1 Phyrexian Unlife
 2 Skyclave Apparition
 2 Silence
+2 Temple of Triumph
 2 Nykthos, Shrine to Nyx
 2 Oust
 2 Sacred Foundry
@@ -81,7 +82,6 @@
 2 Nine Lives
 2 Enduring Ideal
 2 Plains
-2 Temple of Triumph
 2 Phyrexian Unlife
 2 Form of the Dragon
 2 Treasure Map
@@ -103,10 +103,10 @@
 4 Enduring Ideal
 5 Plains
 6 Plains
-1 Gemstone Caverns
 1 Violent Outburst
-2 Gemstone Caverns
+1 Gemstone Caverns
 2 Violent Outburst
+2 Gemstone Caverns
 3 Violent Outburst
 4 Violent Outburst
 1 Valki, God of Lies
@@ -227,12 +227,12 @@
 1 Hanweir Battlements
 1 Tranquil Thicket
 1 Field of the Dead
+1 Khalni Garden
 1 Tolaria West
 1 Valakut, the Molten Pinnacle
-1 Ghost Quarter
 1 Sheltered Thicket
+1 Ghost Quarter
 1 Blast Zone
-1 Khalni Garden
 1 Castle Garenbrig
 1 Sunhome, Fortress of the Legion
 1 Crumbling Vestige
@@ -285,19 +285,19 @@
 4 Teferi, Time Raveler
 1 Opt
 1 Mass Hysteria
+1 Dwarven Mine
 1 Izzet Charm
 1 Transmogrify
 1 Lightning Bolt
 1 Polymorph
 1 Remand
-1 Dwarven Mine
 1 Delay
 1 Bloodstained Mire
 2 Opt
+2 Dwarven Mine
 2 Delay
 2 Izzet Charm
 2 Bloodstained Mire
-2 Dwarven Mine
 2 Mass Hysteria
 2 Remand
 2 Transmogrify
@@ -305,11 +305,11 @@
 2 Polymorph
 3 Arid Mesa
 3 Opt
+3 Dwarven Mine
 3 Remand
 3 Lightning Bolt
 3 Polymorph
 3 Transmogrify
-3 Dwarven Mine
 3 Mass Hysteria
 4 Arid Mesa
 4 Lightning Bolt

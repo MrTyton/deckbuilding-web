@@ -1,3 +1,4 @@
+3 Scavenging Ooze
 3 Kazandu Mammoth
 4 Kazandu Mammoth
 1 Primal Might
@@ -18,27 +19,26 @@
 14 Forest
 15 Forest
 16 Forest
+18 Snow-Covered Forest
 1 Tangled Florahedron
 2 Tangled Florahedron
-4 Swarm Shambler
-18 Snow-Covered Forest
-3 Tangled Florahedron
-17 Forest
 1 Garruk, Unleashed
+3 Tangled Florahedron
 19 Snow-Covered Forest
-4 Tangled Florahedron
+17 Forest
 1 Snakeskin Veil
 2 Snakeskin Veil
 1 Nessian Hornbeetle
 2 Nessian Hornbeetle
 2 Garruk, Unleashed
+4 Tangled Florahedron
 1 Wildborn Preserver
 2 Wildborn Preserver
-3 Primal Might
 4 Questing Beast
 1 In Search of Greatness
 3 Vivien, Monsters' Advocate
 1 Kogla, the Titan Ape
+3 Primal Might
 1 Faceless Haven
 3 Yorvo, Lord of Garenbrig
 18 Forest
@@ -58,10 +58,14 @@
 2 Ram Through
 2 Turntimber Symbiosis
 2 In Search of Greatness
-3 Turntimber Symbiosis
+1 Fabled Passage
+2 Fabled Passage
+3 Fabled Passage
+4 Fabled Passage
 3 Ram Through
-4 Turntimber Symbiosis
+3 Turntimber Symbiosis
 4 Wildborn Preserver
+4 Turntimber Symbiosis
 4 Scavenging Ooze
 4 Blizzard Brawl
 1 Shadowspear
@@ -72,10 +76,6 @@
 1 Inscription of Abundance
 3 Nessian Hornbeetle
 4 Nessian Hornbeetle
-1 Fabled Passage
-2 Fabled Passage
-3 Fabled Passage
-4 Fabled Passage
 3 In Search of Greatness
 1 Battle Mammoth
 2 Battle Mammoth
@@ -84,39 +84,77 @@
 1 Migratory Greathorn
 2 Migratory Greathorn
 2 The Ozolith
+2 Inscription of Abundance
 1 Masked Vandal
 1 Fynn, the Fangbearer
 2 Fynn, the Fangbearer
-2 Inscription of Abundance
 3 Garruk, Unleashed
-1 Gilded Goose
 1 Blessing of Frost
-2 Gilded Goose
+1 Gilded Goose
 2 Blessing of Frost
+2 Gilded Goose
 3 Gilded Goose
 3 Battle Mammoth
 4 Gilded Goose
-4 Vorinclex, Monstrous Raider
-1 Thrashing Brontodon
+1 Brightclimb Pathway
+1 Plains
+1 Luminarch Aspirant
+1 Indatha Triome
+1 Branchloft Pathway
+1 Basri's Lieutenant
+1 Polukranos, Unchained
+1 Heartless Act
+1 Darkbore Pathway
+1 Grakmaw, Skyclave Ravager
+1 Swamp
+1 Conclave Mentor
+1 Mythos of Nethroi
+2 Indatha Triome
+2 Plains
+2 Luminarch Aspirant
+2 Brightclimb Pathway
+2 Branchloft Pathway
+2 Basri's Lieutenant
+2 Heartless Act
+2 Grakmaw, Skyclave Ravager
+2 Mythos of Nethroi
+2 Darkbore Pathway
+2 Conclave Mentor
+3 Indatha Triome
+3 Darkbore Pathway
+3 Brightclimb Pathway
+3 Luminarch Aspirant
+3 Branchloft Pathway
+3 Basri's Lieutenant
+3 Conclave Mentor
+3 Mythos of Nethroi
+4 Darkbore Pathway
+4 Brightclimb Pathway
+4 Luminarch Aspirant
+4 Branchloft Pathway
+4 Mythos of Nethroi
+4 Conclave Mentor
+4 Basri's Lieutenant
 1 Garruk's Harbinger
+1 Thrashing Brontodon
 1 Nylea's Huntmaster
-2 Nylea's Huntmaster
 2 Garruk's Harbinger
+2 Nylea's Huntmaster
 3 Nylea's Huntmaster
 4 In Search of Greatness
-1 Toski, Bearer of Secrets
-1 Chainweb Aracnir
 1 Heroic Intervention
+1 Chainweb Aracnir
+1 Toski, Bearer of Secrets
 1 Llanowar Visionary
 1 The World Tree
-1 Kolvori, God of Kinship
 1 Jolrael, Mwonvuli Recluse
+1 Kolvori, God of Kinship
 1 Esika, God of the Tree
-2 Toski, Bearer of Secrets
+2 Heroic Intervention
 2 Chainweb Aracnir
+2 Toski, Bearer of Secrets
 2 Jolrael, Mwonvuli Recluse
 2 Nylea, Keen-Eyed
-2 Heroic Intervention
 2 Esika, God of the Tree
 2 Kolvori, God of Kinship
 3 Esika, God of the Tree

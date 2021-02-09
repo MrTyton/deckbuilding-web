@@ -71,15 +71,12 @@
 4 Steelshaper's Gift
 4 Inkmoth Nexus
 1 Snow-Covered Forest
-2 Sentinel's Eyes
 1 Ram Through
 1 Speaker of the Heavens
 2 Ram Through
-1 Irrigated Farmland
-2 Misty Rainforest
-2 Irrigated Farmland
-2 Forest
+2 Sentinel's Eyes
 2 Wooded Foothills
+2 Forest
 1 Dromoka's Command
 2 Dromoka's Command
 2 Sixth Sense
@@ -88,6 +85,9 @@
 1 Wooded Bastion
 2 Cartouche of Solidarity
 2 Wooded Bastion
+1 Irrigated Farmland
+2 Irrigated Farmland
+2 Misty Rainforest
 2 Branchloft Pathway
 3 Branchloft Pathway
 1 Suppression Field
@@ -96,27 +96,27 @@
 3 Force of Negation
 4 Force of Negation
 1 Sunbaked Canyon
+1 City of Brass
 1 Magnetic Theft
 1 Kor Duelist
 1 Silence
 1 Open the Armory
-1 City of Brass
+2 City of Brass
 2 Magnetic Theft
 2 Sunbaked Canyon
 2 Kor Duelist
 2 Shadowspear
 2 Open the Armory
-2 City of Brass
+3 City of Brass
 3 Mana Confluence
-3 Sunbaked Canyon
 3 Kor Duelist
 3 Magnetic Theft
 3 Open the Armory
-3 City of Brass
-4 Mana Confluence
-4 Sunbaked Canyon
-4 Kor Duelist
+3 Sunbaked Canyon
 4 City of Brass
+4 Mana Confluence
+4 Kor Duelist
+4 Sunbaked Canyon
 4 Magnetic Theft
 1 Verdant Catacombs
 1 Sram, Senior Edificer
@@ -139,11 +139,11 @@
 3 Eladamri's Call
 4 Eladamri's Call
 4 Noble Hierarch
+1 Seachrome Coast
 1 Invisible Stalker
 1 Waterlogged Grove
-1 Seachrome Coast
-2 Stubborn Denial
 2 Seachrome Coast
+2 Stubborn Denial
 2 Invisible Stalker
 3 Invisible Stalker
 4 Arcane Flight

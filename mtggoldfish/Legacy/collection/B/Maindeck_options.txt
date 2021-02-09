@@ -34,11 +34,11 @@
 1 Marsh Flats
 1 Fatal Push
 2 Marsh Flats
-1 Scrubland
 1 Batterskull
 1 Stoneforge Mystic
-2 Scrubland
+1 Scrubland
 2 Stoneforge Mystic
+2 Scrubland
 3 Stoneforge Mystic
 3 Scrubland
 4 Scrubland
@@ -159,11 +159,10 @@
 3 Bloodchief's Thirst
 4 Bloodchief's Thirst
 4 Duress
-4 Polluted Delta
 1 Blast Zone
 1 Ashiok, Dream Render
-2 Ashiok, Dream Render
 2 Liliana's Triumph
+2 Ashiok, Dream Render
 2 Blast Zone
 3 Castle Locthwain
 3 Liliana's Triumph
@@ -190,13 +189,11 @@
 2 Bayou
 3 Assassin's Trophy
 3 Nurturing Peatland
-3 Tarmogoyf
 3 Hexdrinker
+3 Tarmogoyf
+4 Hexdrinker
 4 Verdant Catacombs
 4 Tarmogoyf
-4 Hexdrinker
-4 Sinkhole
-11 Swamp
 1 Cabal Therapy
 1 Volrath's Stronghold
 1 Court of Ambition
@@ -217,3 +214,6 @@
 3 Mox Diamond
 3 Astrolabe
 4 Dead of Winter
+4 Sinkhole
+11 Swamp
+4 Polluted Delta

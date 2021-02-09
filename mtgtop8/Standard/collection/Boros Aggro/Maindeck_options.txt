@@ -1,86 +1,101 @@
 1 Mountain
-2 Plains
 1 Shatterskull Smashing
 2 Shatterskull Smashing
 3 Plains
 4 Plains
 5 Plains
-2 Mountain
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-3 Bonecrusher Giant
 6 Plains
 7 Plains
-1 Skyclave Apparition
-1 Seasoned Hallowblade
-2 Seasoned Hallowblade
-2 Skyclave Apparition
-3 Seasoned Hallowblade
-3 Mountain
-4 Bonecrusher Giant
-4 Mountain
-4 Seasoned Hallowblade
-1 Embercleave
-1 Temple of Triumph
-1 Robber of the Rich
-2 Temple of Triumph
-2 Robber of the Rich
-3 Robber of the Rich
-4 Robber of the Rich
 1 Showdown of the Skalds
 2 Showdown of the Skalds
 3 Showdown of the Skalds
 4 Showdown of the Skalds
-1 Selfless Savior
-2 Selfless Savior
+1 Seasoned Hallowblade
+1 Skyclave Apparition
+2 Seasoned Hallowblade
+2 Mountain
+2 Skyclave Apparition
+3 Seasoned Hallowblade
+4 Seasoned Hallowblade
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+3 Bonecrusher Giant
 1 Usher of the Fallen
 1 Shepherd of the Flock
 2 Usher of the Fallen
 2 Shepherd of the Flock
 3 Usher of the Fallen
 4 Usher of the Fallen
+3 Mountain
+4 Mountain
+4 Bonecrusher Giant
+1 Temple of Triumph
+2 Temple of Triumph
 8 Plains
-1 Maul of the Skyclaves
-3 Selfless Savior
+1 Embercleave
+1 Robber of the Rich
+2 Robber of the Rich
+3 Robber of the Rich
+4 Robber of the Rich
+4 Clearwater Pathway
 3 Shepherd of the Flock
 4 Shepherd of the Flock
-2 Maul of the Skyclaves
+1 Selfless Savior
+2 Selfless Savior
+1 Giant Killer
 3 Skyclave Apparition
 4 Skyclave Apparition
+3 Selfless Savior
+1 Maul of the Skyclaves
+2 Maul of the Skyclaves
+1 Luminarch Aspirant
 5 Mountain
-4 Selfless Savior
-1 Goldspan Dragon
-2 Goldspan Dragon
-3 Maul of the Skyclaves
-1 Giant Killer
+2 Giant Killer
+3 Shatterskull Smashing
 1 Emeria's Call
 2 Emeria's Call
-6 Mountain
-7 Mountain
-3 Shatterskull Smashing
-1 Luminarch Aspirant
-2 Embercleave
-3 Temple of Triumph
-4 Shatterskull Smashing
-4 Temple of Triumph
-2 Giant Killer
+1 Goldspan Dragon
+2 Goldspan Dragon
 3 Giant Killer
 4 Giant Killer
+6 Mountain
+7 Mountain
+3 Maul of the Skyclaves
+3 Temple of Triumph
+2 Embercleave
+4 Selfless Savior
+4 Shatterskull Smashing
+4 Temple of Triumph
+2 Luminarch Aspirant
+3 Luminarch Aspirant
 1 Drannith Healer
 2 Drannith Healer
 3 Drannith Healer
-3 Raugrin Triome
-4 Raugrin Triome
-2 Luminarch Aspirant
-3 Luminarch Aspirant
+1 Fabled Passage
+2 Fabled Passage
 4 Luminarch Aspirant
-3 Embercleave
 1 Neutralize
 1 Hengegate Pathway
 2 Neutralize
 2 Hengegate Pathway
+3 Raugrin Triome
 3 Hengegate Pathway
 4 Hengegate Pathway
+4 Raugrin Triome
+1 Shredded Sails
+1 Island
+4 Brightclimb Pathway
+3 Embercleave
+9 Plains
+1 Lurrus of the Dream-Den
+2 Lurrus of the Dream-Den
+1 Blightstep Pathway
+2 Blightstep Pathway
+3 Blightstep Pathway
+4 Blightstep Pathway
+1 Crawling Barrens
+2 Shredded Sails
+4 Drannith Healer
 1 Relic Robber
 1 Castle Embereth
 1 Archpriest of Iona
@@ -90,22 +105,38 @@
 3 Archpriest of Iona
 4 Archpriest of Iona
 4 Relic Robber
-1 Shredded Sails
-1 Island
-1 Fabled Passage
-2 Fabled Passage
-1 Crawling Barrens
-2 Shredded Sails
-4 Drannith Healer
-4 Embercleave
-1 Yidaro, Wandering Monster
-1 Reptilian Reflection
-1 Splendor Mare
-2 Yidaro, Wandering Monster
-2 Splendor Mare
-3 Yidaro, Wandering Monster
-4 Yidaro, Wandering Monster
-4 Brightclimb Pathway
+1 Savai Triome
+1 Agadeem's Awakening
+1 Righteous Valkyrie
+1 Archfiend's Vessel
+1 Skyclave Cleric
+1 Speaker of the Heavens
+1 Cleric of Life's Bond
+1 Alseid of Life's Bounty
+1 Swamp
+1 Heartless Act
+2 Savai Triome
+2 Agadeem's Awakening
+2 Righteous Valkyrie
+2 Archfiend's Vessel
+2 Skyclave Cleric
+2 Cleric of Life's Bond
+2 Alseid of Life's Bounty
+2 Speaker of the Heavens
+2 Heartless Act
+2 Swamp
+3 Savai Triome
+3 Skyclave Cleric
+3 Archfiend's Vessel
+3 Righteous Valkyrie
+3 Cleric of Life's Bond
+3 Heartless Act
+3 Speaker of the Heavens
+4 Savai Triome
+4 Righteous Valkyrie
+4 Cleric of Life's Bond
+4 Archfiend's Vessel
+4 Speaker of the Heavens
 3 Emeria's Call
 3 Fabled Passage
 4 Emeria's Call
@@ -115,9 +146,8 @@
 1 Tournament Grounds
 1 Worthy Knight
 1 Venerable Knight
-1 Blightstep Pathway
-1 Inspiring Veteran
 1 Embereth Shieldbreaker
+1 Inspiring Veteran
 1 Fervent Champion
 2 Acclaimed Contender
 2 Tournament Grounds
@@ -125,19 +155,24 @@
 2 Inspiring Veteran
 2 Venerable Knight
 2 Fervent Champion
-2 Blightstep Pathway
 3 Tournament Grounds
 3 Acclaimed Contender
 3 Inspiring Veteran
 3 Worthy Knight
 3 Venerable Knight
-3 Blightstep Pathway
 3 Fervent Champion
 4 Acclaimed Contender
 4 Tournament Grounds
 4 Worthy Knight
 4 Inspiring Veteran
 4 Venerable Knight
-4 Blightstep Pathway
 4 Fervent Champion
-9 Plains
+1 Clarion Spirit
+1 Kabira Takedown
+1 Reidane, God of the Worthy
+1 Glass Casket
+2 Clarion Spirit
+2 Reidane, God of the Worthy
+2 Glass Casket
+2 Kabira Takedown
+10 Plains

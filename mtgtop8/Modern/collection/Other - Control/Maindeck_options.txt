@@ -12,19 +12,19 @@
 1 Windswept Heath
 1 Selesnya Sanctuary
 1 Plains
-2 Arboreal Grazer
 2 Solemn Simulacrum
+2 Arboreal Grazer
 2 Search for Tomorrow
 2 Felidar Retreat
 2 Windswept Heath
 2 Wooded Foothills
 2 Temple Garden
 3 Field of the Dead
+3 Solemn Simulacrum
 3 Explore
 3 Snow-Covered Forest
 3 Search for Tomorrow
 3 Arboreal Grazer
-3 Solemn Simulacrum
 3 Wurmcoil Engine
 3 Forest
 3 Felidar Retreat
@@ -32,11 +32,11 @@
 3 Temple Garden
 3 Wooded Foothills
 4 Solemn Simulacrum
+4 Castle Garenbrig
 4 Search for Tomorrow
 4 Wurmcoil Engine
 4 Explore
 4 Arboreal Grazer
-4 Castle Garenbrig
 1 Mountain
 1 Lightning Bolt
 2 Mountain
@@ -106,11 +106,11 @@
 3 Archmage's Charm
 1 Fatal Push
 2 Fatal Push
+1 Spell Snare
 1 Ancestral Vision
 1 Island
 1 Clearwater Pathway
 1 Snapcaster Mage
-1 Spell Snare
 1 Drown in the Loch
 1 Polluted Delta
 1 Thieves' Guild Enforcer
@@ -123,8 +123,8 @@
 1 Mishra's Bauble
 2 Spell Snare
 2 Island
-2 Cling to Dust
 2 Ancestral Vision
+2 Cling to Dust
 2 Drown in the Loch
 2 Snapcaster Mage
 2 Watery Grave
@@ -138,11 +138,11 @@
 3 Island
 3 Snapcaster Mage
 3 Thieves' Guild Enforcer
+3 Soaring Thought-Thief
 3 Cling to Dust
 3 Polluted Delta
 3 Fatal Push
 3 Darkslick Shores
-3 Soaring Thought-Thief
 3 Ancestral Vision
 3 Drown in the Loch
 3 Mishra's Bauble
@@ -151,9 +151,9 @@
 4 Ancestral Vision
 4 Drown in the Loch
 4 Island
+4 Soaring Thought-Thief
 4 Thieves' Guild Enforcer
 4 Polluted Delta
-4 Soaring Thought-Thief
 4 Mishra's Bauble
 4 Snapcaster Mage
 1 Remand
@@ -192,15 +192,15 @@
 3 Misty Rainforest
 3 Remand
 3 Field of Ruin
+3 Breeding Pool
 3 Snow-Covered Island
 3 Nexus of Fate
 3 Growth Spiral
-3 Breeding Pool
 3 Cryptic Command
 3 Uro, Titan of Nature's Wrath
 4 Growth Spiral
-4 Archmage's Charm
 4 Cryptic Command
+4 Archmage's Charm
 4 Misty Rainforest
 4 Snow-Covered Island
 4 Mystic Sanctuary

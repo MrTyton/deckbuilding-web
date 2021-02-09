@@ -1,7 +1,7 @@
 # Landless Spy
 
 #### [Export MTGO List](../collection/Landless%20Spy/Landless%20Spy.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Agadeem's%20Awakening%0A3%09Bala%20Ged%20Recovery%0A2%09Balustrade%20Spy%0A4%09Creeping%20Chill%0A1%09Driven%20/%20Despair%0A4%09Eldritch%20Evolution%0A4%09Kazandu%20Mammoth%0A1%09Narcomoeba%0A3%09Neoform%0A4%09Paradise%20Druid%0A4%09Prized%20Amalgam%0A4%09Sea%20Gate%20Restoration%0A3%09Silversmote%20Ghoul%0A4%09Sylvan%20Caryatid%0A4%09Tangled%20Florahedron%0A1%09Thoughtseize%0A4%09Turntimber%20Symbiosis%0A4%09Undercity%20Informer%0A2%09Worldspine%20Wurm&deckside=3%09Abrupt%20Decay%0A1%09Archon%20of%20Emeria%0A2%09Duress%0A4%09Leyline%20of%20the%20Void%0A2%09Natural%20State%0A1%09Reclamation%20Sage%0A1%09Thassa's%20Oracle%0A1%09Yorion,%20Sky%20Nomad)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Agadeem's%20Awakening%0A3%09Bala%20Ged%20Recovery%0A2%09Balustrade%20Spy%0A4%09Creeping%20Chill%0A1%09Driven%20/%20Despair%0A4%09Eldritch%20Evolution%0A4%09Kazandu%20Mammoth%0A1%09Narcomoeba%0A3%09Neoform%0A4%09Paradise%20Druid%0A1%09Pelakka%20Predation%0A4%09Prized%20Amalgam%0A4%09Sea%20Gate%20Restoration%0A3%09Silversmote%20Ghoul%0A4%09Sylvan%20Caryatid%0A4%09Tangled%20Florahedron%0A4%09Turntimber%20Symbiosis%0A4%09Undercity%20Informer%0A2%09Worldspine%20Wurm&deckside=3%09Abrupt%20Decay%0A1%09Archon%20of%20Emeria%0A2%09Duress%0A4%09Leyline%20of%20the%20Void%0A2%09Natural%20State%0A1%09Reclamation%20Sage%0A1%09Thassa's%20Oracle%0A1%09Yorion,%20Sky%20Nomad)
 # Maindeck
 
 |                                         Creature (32)                                          |                                          Sorcery (27)                                           |   Unknown (1)    |
@@ -11,8 +11,8 @@
 |1 [Narcomoeba](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136140)         |4 [Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)      |                  |
 |4 [Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)     |4 [Eldritch Evolution](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414456)  |                  |
 |4 [Prized Amalgam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410014)     |3 [Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)             |                  |
-|3 [Silversmote Ghoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485445)  |4 [Sea Gate Restoration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491706)|                  |
-|4 [Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624)    |1 [Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |                  |
+|3 [Silversmote Ghoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485445)  |1 [Pelakka Predation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491757)   |                  |
+|4 [Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624)    |4 [Sea Gate Restoration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491706)|                  |
 |4 [Tangled Florahedron](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491859)|4 [Turntimber Symbiosis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491864)|                  |
 |4 [Undercity Informer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366271) |                                                                                                 |                  |
 |2 [Worldspine Wurm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=253575)    |                                                                                                 |                  |
@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Pelakka Predation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491757)     |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)        |
-|                    1|[Hagra Mauling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491741)         |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)        |
+|                    1|[Hagra Mauling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491741)         |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)        |
+|                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)          |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)        |
 |                    1|[Haunted Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414387)          |                    4|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)          |
 |                    2|[Pelakka Predation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491757)     |                    3|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)        |
 |                    2|[Hagra Mauling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491741)         |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)   |
