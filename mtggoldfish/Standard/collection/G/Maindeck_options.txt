@@ -1,3 +1,11 @@
+3 Kazandu Mammoth
+4 Kazandu Mammoth
+1 Primal Might
+2 Primal Might
+1 Forest
+2 Forest
+3 Forest
+4 Forest
 5 Forest
 6 Forest
 7 Forest
@@ -10,59 +18,46 @@
 14 Forest
 15 Forest
 16 Forest
-2 Yorvo, Lord of Garenbrig
-4 Old-Growth Troll
 1 Tangled Florahedron
 2 Tangled Florahedron
-1 Blizzard Brawl
-2 Blizzard Brawl
-1 Primal Might
-2 Primal Might
-17 Snow-Covered Forest
 4 Swarm Shambler
-17 Forest
-3 Tangled Florahedron
-4 Gemrazer
-4 Tangled Florahedron
 18 Snow-Covered Forest
+3 Tangled Florahedron
+17 Forest
 1 Garruk, Unleashed
+19 Snow-Covered Forest
+4 Tangled Florahedron
 1 Snakeskin Veil
 2 Snakeskin Veil
-19 Snow-Covered Forest
-1 Wildborn Preserver
-2 Wildborn Preserver
-2 Garruk, Unleashed
-3 Primal Might
 1 Nessian Hornbeetle
 2 Nessian Hornbeetle
-1 Kogla, the Titan Ape
-3 Vivien, Monsters' Advocate
-18 Forest
-1 Faceless Haven
+2 Garruk, Unleashed
+1 Wildborn Preserver
+2 Wildborn Preserver
+3 Primal Might
 4 Questing Beast
-2 Kogla, the Titan Ape
 1 In Search of Greatness
+3 Vivien, Monsters' Advocate
+1 Kogla, the Titan Ape
+1 Faceless Haven
 3 Yorvo, Lord of Garenbrig
-1 Ram Through
-1 Elder Gargaroth
-2 Elder Gargaroth
+18 Forest
+20 Snow-Covered Forest
 1 Esika's Chariot
 3 Blizzard Brawl
 3 Wildborn Preserver
 1 Turntimber Symbiosis
-19 Forest
-2 Ram Through
+1 Elder Gargaroth
+2 Elder Gargaroth
+2 Kogla, the Titan Ape
 4 Primal Might
-20 Snow-Covered Forest
 1 The Ozolith
 2 Faceless Haven
+19 Forest
+1 Ram Through
+2 Ram Through
 2 Turntimber Symbiosis
 2 In Search of Greatness
-1 Nylea, Keen-Eyed
-1 Fabled Passage
-2 Fabled Passage
-3 Fabled Passage
-4 Fabled Passage
 3 Turntimber Symbiosis
 3 Ram Through
 4 Turntimber Symbiosis
@@ -77,26 +72,30 @@
 1 Inscription of Abundance
 3 Nessian Hornbeetle
 4 Nessian Hornbeetle
+1 Fabled Passage
+2 Fabled Passage
+3 Fabled Passage
+4 Fabled Passage
 3 In Search of Greatness
 1 Battle Mammoth
 2 Battle Mammoth
-20 Forest
-1 Gilded Goose
-2 Gilded Goose
-3 Gilded Goose
-4 Gilded Goose
 4 The Great Henge
+1 Nylea, Keen-Eyed
 1 Migratory Greathorn
 2 Migratory Greathorn
 2 The Ozolith
-2 Inscription of Abundance
 1 Masked Vandal
 1 Fynn, the Fangbearer
 2 Fynn, the Fangbearer
-1 Blessing of Frost
-2 Blessing of Frost
-3 Battle Mammoth
+2 Inscription of Abundance
 3 Garruk, Unleashed
+1 Gilded Goose
+1 Blessing of Frost
+2 Gilded Goose
+2 Blessing of Frost
+3 Gilded Goose
+3 Battle Mammoth
+4 Gilded Goose
 4 Vorinclex, Monstrous Raider
 1 Thrashing Brontodon
 1 Garruk's Harbinger
@@ -110,8 +109,8 @@
 1 Heroic Intervention
 1 Llanowar Visionary
 1 The World Tree
-1 Jolrael, Mwonvuli Recluse
 1 Kolvori, God of Kinship
+1 Jolrael, Mwonvuli Recluse
 1 Esika, God of the Tree
 2 Toski, Bearer of Secrets
 2 Chainweb Aracnir
@@ -122,56 +121,4 @@
 2 Kolvori, God of Kinship
 3 Esika, God of the Tree
 4 Esika, God of the Tree
-1 Swamp
-1 Luminarch Aspirant
-1 Plains
-1 Heartless Act
-1 Darkbore Pathway
-1 Grakmaw, Skyclave Ravager
-1 Mythos of Nethroi
-1 Polukranos, Unchained
-1 Branchloft Pathway
-1 Brightclimb Pathway
-1 Conclave Mentor
-1 Basri's Lieutenant
-1 Indatha Triome
-2 Luminarch Aspirant
-2 Plains
-2 Heartless Act
-2 Grakmaw, Skyclave Ravager
-2 Brightclimb Pathway
-2 Branchloft Pathway
-2 Indatha Triome
-2 Darkbore Pathway
-2 Conclave Mentor
-2 Mythos of Nethroi
-2 Basri's Lieutenant
-3 Luminarch Aspirant
-3 Branchloft Pathway
-3 Basri's Lieutenant
-3 Brightclimb Pathway
-3 Conclave Mentor
-3 Darkbore Pathway
-3 Mythos of Nethroi
-3 Indatha Triome
-4 Luminarch Aspirant
-4 Brightclimb Pathway
-4 Mythos of Nethroi
-4 Darkbore Pathway
-4 Basri's Lieutenant
-4 Conclave Mentor
-4 Branchloft Pathway
-1 Tuktuk Rubblefort
-1 Garruk's Uprising
-1 Ashaya, Soul of the Wild
-1 Ilysian Caryatid
-1 Feasting Troll King
-1 Terror of the Peaks
-2 Garruk's Uprising
-2 Ashaya, Soul of the Wild
-2 Terror of the Peaks
-2 Feasting Troll King
-2 Tuktuk Rubblefort
-2 Ilysian Caryatid
-21 Forest
-22 Forest
+20 Forest

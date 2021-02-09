@@ -1,16 +1,8 @@
-1 Shredded Sails
-2 Shredded Sails
-1 Temple of Triumph
-2 Temple of Triumph
-2 Shatterskull Smashing
-3 Elspeth Conquers Death
 1 Indatha Triome
 1 Brightclimb Pathway
 1 Swamp
 1 Branchloft Pathway
 1 Forest
-1 Heartless Act
-2 Heartless Act
 1 Elspeth's Nightmare
 2 Indatha Triome
 2 Elspeth's Nightmare
@@ -19,52 +11,78 @@
 3 Indatha Triome
 4 Indatha Triome
 2 Branchloft Pathway
+1 Heartless Act
+2 Heartless Act
 1 Eerie Ultimatum
 1 Yorion, Sky Nomad
-2 Yorion, Sky Nomad
 2 Brightclimb Pathway
-3 Brightclimb Pathway
-3 Branchloft Pathway
-4 Brightclimb Pathway
-4 Branchloft Pathway
-1 Temple of Silence
-1 Eliminate
-1 Llanowar Visionary
-1 Polukranos, Unchained
-2 Llanowar Visionary
 1 Mythos of Nethroi
 1 Temple of Malady
 2 Mythos of Nethroi
 3 Swamp
 3 Forest
-1 Acquisitions Expert
-1 Acolyte of Affliction
-1 Omen of the Dead
+1 Temple of Silence
+1 Eliminate
+3 Elspeth Conquers Death
+1 Bloodchief's Thirst
 1 Doom Foretold
 1 Treacherous Blessing
 2 Eerie Ultimatum
-2 Acquisitions Expert
 2 Treacherous Blessing
 2 Doom Foretold
 3 Treacherous Blessing
 3 Doom Foretold
-4 Treacherous Blessing
 4 Doom Foretold
-1 Bloodchief's Thirst
+2 Yorion, Sky Nomad
+3 Brightclimb Pathway
+3 Branchloft Pathway
+4 Brightclimb Pathway
+4 Branchloft Pathway
 1 Temple of Plenty
-4 Swamp
 4 Forest
+1 Shredded Sails
+2 Shredded Sails
+1 Llanowar Visionary
+1 Polukranos, Unchained
+2 Llanowar Visionary
 1 Ugin, the Spirit Dragon
-1 Yasharn, Implacable Earth
 3 Mythos of Nethroi
 1 Golden Egg
+1 Temple of Triumph
+2 Temple of Triumph
+2 Shatterskull Smashing
+2 Bloodchief's Thirst
+1 Darkbore Pathway
+1 Binding the Old Gods
+2 Darkbore Pathway
+2 Binding the Old Gods
+3 Binding the Old Gods
+4 Binding the Old Gods
+1 Acquisitions Expert
+1 Acolyte of Affliction
+1 Omen of the Dead
+2 Acquisitions Expert
+4 Treacherous Blessing
+1 Garruk, Cursed Huntsman
+4 Mythos of Nethroi
+1 Ondu Inversion
+4 Swamp
+1 Castle Locthwain
+1 Solemn Simulacrum
+2 Solemn Simulacrum
+2 Golden Egg
+3 Golden Egg
+3 Elspeth's Nightmare
 3 Heartless Act
+1 Yasharn, Implacable Earth
+1 Bala Ged Recovery
+2 Castle Locthwain
+2 Eliminate
 1 Extinction Event
-1 Scorching Dragonfire
 1 Vivien, Monsters' Advocate
 2 Vivien, Monsters' Advocate
 2 Temple of Malady
-3 Shatterskull Smashing
+1 Scorching Dragonfire
 1 Mazemind Tome
 1 Skyclave Apparition
 2 Mazemind Tome
@@ -74,26 +92,35 @@
 4 Mazemind Tome
 4 Skyclave Apparition
 4 Elspeth Conquers Death
+3 Shatterskull Smashing
 5 Mountain
-1 Darkbore Pathway
+1 Crawling Barrens
 1 Valki, God of Lies
-1 Binding the Old Gods
 2 Valki, God of Lies
-2 Darkbore Pathway
-2 Binding the Old Gods
 3 Darkbore Pathway
 3 Valki, God of Lies
-3 Binding the Old Gods
-4 Binding the Old Gods
 4 Darkbore Pathway
-1 Crawling Barrens
 1 Ketria Triome
-2 Bloodchief's Thirst
 3 Lukka, Coppercoat Outcast
+2 Extinction Event
+3 Extinction Event
+1 In Search of Greatness
+1 Doomskar
+1 Tergrid, God of Fright
+1 Setessan Champion
+2 Tergrid, God of Fright
+2 Doomskar
+2 Setessan Champion
+2 Garruk, Cursed Huntsman
+3 Eliminate
+3 Setessan Champion
+3 Tergrid, God of Fright
+3 Eerie Ultimatum
+4 Tergrid, God of Fright
 1 Firja's Retribution
 1 Kaya the Inexorable
-1 Charming Prince
 1 Burning-Rune Demon
+1 Charming Prince
 1 Esika's Chariot
 1 Tangled Florahedron
 2 Temple of Silence
@@ -108,27 +135,20 @@
 1 Mire Triton
 1 Lotus Cobra
 1 Skull Prophet
-1 Garruk, Cursed Huntsman
 2 Acolyte of Affliction
 2 Mire Triton
 2 Yasharn, Implacable Earth
 2 Lotus Cobra
-4 Mythos of Nethroi
 5 Swamp
 6 Swamp
-2 Extinction Event
-3 Extinction Event
 1 Trail of Crumbs
 1 Wicked Wolf
 1 Gilded Goose
-2 Golden Egg
 2 Temple of Plenty
 2 Gilded Goose
 2 Trail of Crumbs
 2 Wicked Wolf
-3 Golden Egg
 3 Wicked Wolf
-3 Elspeth's Nightmare
 3 Gilded Goose
 3 Trail of Crumbs
 3 Emeria's Call
@@ -139,27 +159,52 @@
 4 Gilded Goose
 5 Forest
 6 Forest
-1 Solemn Simulacrum
 2 Ugin, the Spirit Dragon
-2 Solemn Simulacrum
 3 Ugin, the Spirit Dragon
 3 Solemn Simulacrum
-4 Ugin, the Spirit Dragon
 4 Solemn Simulacrum
-1 Castle Locthwain
+4 Ugin, the Spirit Dragon
 1 Banishing Light
-1 Ondu Inversion
 2 Ondu Inversion
+1 Zagoth Triome
+1 Cragcrown Pathway
+2 Cragcrown Pathway
+1 Temple of Abandon
+1 Blightstep Pathway
+1 Liliana, Waker of the Dead
+1 Dream Devourer
+1 Cultivate
+1 Vorinclex, Monstrous Raider
+1 Snow-Covered Swamp
+1 Snow-Covered Mountain
+1 Snow-Covered Forest
+2 Snow-Covered Forest
+2 Blightstep Pathway
+2 Cultivate
+2 Dream Devourer
+2 Snow-Covered Swamp
+2 Vorinclex, Monstrous Raider
+2 Liliana, Waker of the Dead
+2 Snow-Covered Mountain
+3 Snow-Covered Forest
+3 Vorinclex, Monstrous Raider
+3 Blightstep Pathway
+3 Cultivate
+3 Dream Devourer
+3 Snow-Covered Swamp
+4 Blightstep Pathway
+4 Cultivate
+4 Dream Devourer
+4 Valki, God of Lies
+4 Vorinclex, Monstrous Raider
+4 Lukka, Coppercoat Outcast
 1 Hagra Mauling
-1 Bala Ged Recovery
 1 Elder Gargaroth
 1 Agonizing Remorse
 1 Bonders' Enclave
 1 Cling to Dust
 1 Scavenging Ooze
-2 Castle Locthwain
 2 Bala Ged Recovery
-2 Eliminate
 2 Agonizing Remorse
 2 Elder Gargaroth
 2 Polukranos, Unchained
@@ -173,9 +218,6 @@
 2 Soul Sear
 3 Soul Sear
 4 Soul Sear
-1 Zagoth Triome
-1 Cragcrown Pathway
-2 Cragcrown Pathway
 1 Island
 1 Savai Triome
 1 Tranquil Cove
@@ -190,10 +232,10 @@
 1 Sanctum of Calm Waters
 1 Sanctum of Stone Fangs
 1 Clearwater Pathway
+1 Sanctum of Tranquil Light
 1 Wind-Scarred Crag
 1 Jungle Hollow
 1 Sanctum of Fruitful Harvest
-1 Sanctum of Tranquil Light
 2 Fae of Wishes
 2 Tranquil Cove
 2 Thirst for Meaning
@@ -206,9 +248,9 @@
 2 Sanctum of Stone Fangs
 2 Sanctum of Calm Waters
 2 Clearwater Pathway
-3 Fae of Wishes
 3 Bloodchief's Thirst
 3 Sanctum of Stone Fangs
+3 Fae of Wishes
 3 Sanctum of Calm Waters
 3 Sanctum of Tranquil Light
 3 Sanctum of Fruitful Harvest
@@ -216,35 +258,6 @@
 3 Sanctum of All
 4 Extinction Event
 4 Sanctum of Shattered Heights
-1 Dream Devourer
-1 Temple of Abandon
-1 Blightstep Pathway
-1 Liliana, Waker of the Dead
-1 Cultivate
-1 Vorinclex, Monstrous Raider
-1 Snow-Covered Swamp
-1 Snow-Covered Mountain
-1 Snow-Covered Forest
-2 Dream Devourer
-2 Snow-Covered Forest
-2 Liliana, Waker of the Dead
-2 Blightstep Pathway
-2 Snow-Covered Swamp
-2 Vorinclex, Monstrous Raider
-2 Snow-Covered Mountain
-2 Cultivate
-3 Dream Devourer
-3 Snow-Covered Forest
-3 Vorinclex, Monstrous Raider
-3 Blightstep Pathway
-3 Snow-Covered Swamp
-3 Cultivate
-4 Vorinclex, Monstrous Raider
-4 Dream Devourer
-4 Blightstep Pathway
-4 Valki, God of Lies
-4 Lukka, Coppercoat Outcast
-4 Cultivate
 2 Crawling Barrens
 1 Frantic Inventory
 1 Mystic Sanctuary
@@ -274,29 +287,29 @@
 1 Sublime Epiphany
 1 Field of Ruin
 1 Neutralize
-1 Rewind
 1 Rain of Revelation
 1 Kiora Bests the Sea God
 1 Gadwick, the Wizened
-1 Brazen Borrower
 1 Essence Scatter
+1 Rewind
 1 Hypnotic Sprite
 1 Castle Vantress
 1 Shark Typhoon
-2 Gadwick, the Wizened
+1 Brazen Borrower
 2 Neutralize
-2 Rewind
 2 Rain of Revelation
-2 Brazen Borrower
+2 Gadwick, the Wizened
 2 Essence Scatter
+2 Rewind
 2 Shark Typhoon
+2 Brazen Borrower
 2 Castle Vantress
 2 Hypnotic Sprite
 3 Neutralize
 3 Rewind
 3 Shark Typhoon
-3 Brazen Borrower
 3 Castle Vantress
+3 Brazen Borrower
 4 Neutralize
 4 Shark Typhoon
 4 Rewind
@@ -345,10 +358,10 @@
 3 Evolving Wilds
 3 Into the Story
 4 Merfolk Secretkeeper
-4 Ruin Crab
 4 Teferi's Tutelage
-4 Relic Golem
 4 Didn't Say Please
+4 Ruin Crab
 4 Evolving Wilds
+4 Relic Golem
 17 Island
 18 Island

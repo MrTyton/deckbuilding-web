@@ -53,12 +53,11 @@
 1 Sacred Foundry
 1 Arid Mesa
 2 Arid Mesa
+1 Nykthos, Shrine to Nyx
 1 Skyclave Apparition
 1 Oust
 1 Plains
 1 Wheel of Sun and Moon
-1 Temple of Triumph
-1 Nykthos, Shrine to Nyx
 1 Marsh Flats
 1 Deafening Clarion
 1 Nine Lives
@@ -68,20 +67,21 @@
 1 Form of the Dragon
 1 Solemnity
 1 Silence
+1 Temple of Triumph
 1 Mistveil Plains
 1 Enduring Ideal
 1 Lotus Bloom
 1 Phyrexian Unlife
-2 Silence
 2 Skyclave Apparition
-2 Temple of Triumph
-2 Oust
+2 Silence
 2 Nykthos, Shrine to Nyx
+2 Oust
 2 Sacred Foundry
 2 Marsh Flats
 2 Nine Lives
 2 Enduring Ideal
 2 Plains
+2 Temple of Triumph
 2 Phyrexian Unlife
 2 Form of the Dragon
 2 Treasure Map
@@ -123,26 +123,26 @@
 2 Wooded Foothills
 1 Overgrown Tomb
 1 Verdant Catacombs
-1 Demonic Dread
 1 Seasoned Pyromancer
 1 Blackcleave Cliffs
+1 Demonic Dread
 1 Magus of the Moon
 1 Swamp
 1 Bloodbraid Elf
 1 Blood Crypt
-2 Demonic Dread
 2 Seasoned Pyromancer
 2 Blackcleave Cliffs
 2 Blood Crypt
 2 Verdant Catacombs
 2 Bloodbraid Elf
 2 Magus of the Moon
+2 Demonic Dread
 3 Magus of the Moon
 3 Verdant Catacombs
-3 Demonic Dread
 3 Seasoned Pyromancer
 3 Blackcleave Cliffs
 3 Bloodbraid Elf
+3 Demonic Dread
 4 Verdant Catacombs
 4 Seasoned Pyromancer
 4 Blackcleave Cliffs
@@ -286,11 +286,11 @@
 1 Opt
 1 Mass Hysteria
 1 Izzet Charm
-1 Dwarven Mine
 1 Transmogrify
 1 Lightning Bolt
 1 Polymorph
 1 Remand
+1 Dwarven Mine
 1 Delay
 1 Bloodstained Mire
 2 Opt
@@ -328,10 +328,10 @@
 1 Gemstone Mine
 1 City of Brass
 2 Aether Hub
-2 Pillar of the Paruns
 2 Kozilek, Butcher of Truth
-2 Brilliant Ultimatum
 2 Tibalt's Trickery
+2 Pillar of the Paruns
+2 Brilliant Ultimatum
 2 Ulamog, the Infinite Gyre
 2 Omniscience
 2 Tendo Ice Bridge
@@ -342,57 +342,57 @@
 3 Omniscience
 3 Kozilek, Butcher of Truth
 3 Brilliant Ultimatum
-3 Ulamog, the Infinite Gyre
 3 Pillar of the Paruns
+3 Ulamog, the Infinite Gyre
 3 Emrakul, the Promised End
 3 Gemstone Mine
 3 City of Brass
 4 Aether Hub
-4 Brilliant Ultimatum
-4 Omniscience
 4 Ulamog, the Infinite Gyre
+4 Brilliant Ultimatum
 4 Pillar of the Paruns
+4 Omniscience
 4 Gemstone Mine
 4 City of Brass
 1 Underworld Breach
 2 Snow-Covered Island
 1 Snow-Covered Mountain
-1 Grinding Station
 1 Engineered Explosives
 1 Thassa's Oracle
+1 Minamo, School at Water's Edge
 1 Sai, Master Thopterist
 1 Metallic Rebuke
-1 Minamo, School at Water's Edge
+1 Grinding Station
 1 Chromatic Star
 1 Lurrus of the Dream-Den
 1 Fiery Islet
 1 Emry, Lurker of the Loch
 1 Mishra's Bauble
 1 Mox Amber
-2 Grinding Station
 2 Lurrus of the Dream-Den
 2 Snow-Covered Plains
 2 Engineered Explosives
 2 Metallic Rebuke
 2 Emry, Lurker of the Loch
+2 Grinding Station
 2 Mishra's Bauble
 2 Underworld Breach
 2 Chromatic Star
 2 Mox Amber
-3 Grinding Station
 3 Underworld Breach
+3 Lurrus of the Dream-Den
 3 Metallic Rebuke
 3 Mox Amber
 3 Engineered Explosives
 3 Chromatic Star
-3 Lurrus of the Dream-Den
+3 Grinding Station
 3 Emry, Lurker of the Loch
 3 Mishra's Bauble
-4 Grinding Station
 4 Metallic Rebuke
-4 Mox Amber
 4 Underworld Breach
+4 Mox Amber
 4 Chromatic Star
+4 Grinding Station
 4 Mishra's Bauble
 4 Emry, Lurker of the Loch
 3 Skyclave Apparition

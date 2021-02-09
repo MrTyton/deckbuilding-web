@@ -25,18 +25,3 @@
 |1 [Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)   |3 [Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)         |                                                                                               |                                                                                       |
 |                                                                                              |1 [Walking Ballista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423848)      |                                                                                               |                                                                                       |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
-|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    3|[Ancient Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205275)       |                    4|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)     |
-|                    3|[Ranger of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174823)     |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
-|                    1|Starnheim Unleashed                                                                          |                     |                                                                                             |
-|                    2|Starnheim Unleashed                                                                          |                     |                                                                                             |
-|                    3|Starnheim Unleashed                                                                          |                     |                                                                                             |
-|                    4|[Ancient Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205275)       |                     |                                                                                             |
-|                    1|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519) |                     |                                                                                             |
-|                    2|[Thought-Knot Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407519) |                     |                                                                                             |
-|                    3|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)|                     |                                                                                             |
-

@@ -37,10 +37,10 @@
 1 Brain Maggot
 1 Spellskite
 1 Reflector Mage
+2 Birds of Paradise
 2 Omen of the Forge
 2 Omen of the Sea
 2 Skyclave Apparition
-2 Birds of Paradise
 2 Enigmatic Incarnation
 3 Omen of the Sea
 3 Enigmatic Incarnation
@@ -48,8 +48,8 @@
 4 Enigmatic Incarnation
 3 Verdant Catacombs
 1 Snow-Covered Mountain
-1 Lithoform Blight
 1 Eternal Witness
+1 Lithoform Blight
 1 Renegade Rallier
 2 Renegade Rallier
 2 Snow-Covered Forest
@@ -63,6 +63,7 @@
 1 Ardent Plea
 1 Ulamog, the Infinite Gyre
 1 Gemstone Caverns
+1 Simian Spirit Guide
 1 Omniscience
 1 Gemstone Mine
 2 Violent Outburst
@@ -71,47 +72,44 @@
 2 Ardent Plea
 2 Omniscience
 2 Gemstone Caverns
-3 Gemstone Mine
+2 Simian Spirit Guide
+2 Ulamog, the Infinite Gyre
 3 Violent Outburst
 3 Ardent Plea
+3 Gemstone Mine
+3 Simian Spirit Guide
+3 Ulamog, the Infinite Gyre
 3 Gemstone Caverns
 3 Emrakul, the Aeons Torn
 4 Violent Outburst
 4 Ardent Plea
+4 Gemstone Mine
 4 Gemstone Caverns
 4 Emrakul, the Aeons Torn
-4 Gemstone Mine
-1 Simian Spirit Guide
-2 Simian Spirit Guide
-2 Ulamog, the Infinite Gyre
-3 Simian Spirit Guide
-3 Ulamog, the Infinite Gyre
 4 Simian Spirit Guide
 4 Ulamog, the Infinite Gyre
-1 Tibalt's Trickery
-2 Tibalt's Trickery
-3 Tibalt's Trickery
-1 City of Brass
-1 Mana Confluence
-2 Mana Confluence
-2 City of Brass
-3 City of Brass
-3 Omniscience
 2 Pillar of the Paruns
 1 Brilliant Ultimatum
 2 Brilliant Ultimatum
 3 Brilliant Ultimatum
 4 Brilliant Ultimatum
+1 Tibalt's Trickery
+2 Tibalt's Trickery
+3 Tibalt's Trickery
+1 City of Brass
+1 Mana Confluence
 1 Aether Hub
+2 Mana Confluence
+2 City of Brass
 2 Aether Hub
+3 City of Brass
+3 Omniscience
 3 Aether Hub
 4 City of Brass
 4 Aether Hub
-3 Mana Confluence
-4 Mana Confluence
-1 Spreading Seas
 1 Seal of Fire
 1 Deputy of Detention
+1 Spreading Seas
 2 Spreading Seas
 3 Skyclave Apparition
 3 Spreading Seas
@@ -120,18 +118,20 @@
 1 Raugrin Triome
 3 Birds of Paradise
 4 Wooded Foothills
+3 Mana Confluence
+4 Mana Confluence
 1 Kozilek, Butcher of Truth
 2 Kozilek, Butcher of Truth
 3 Kozilek, Butcher of Truth
-1 Reflecting Pool
-4 Omniscience
-1 Emrakul, the Promised End
 1 Oath of Nissa
 2 Forest
 1 Kitchen Finks
+1 Reflecting Pool
 1 Ulamog, the Ceaseless Hunger
+4 Omniscience
 3 Pillar of the Paruns
 4 Pillar of the Paruns
+1 Emrakul, the Promised End
 1 Sacred Foundry
 4 Kozilek, Butcher of Truth
 2 Emrakul, the Promised End
@@ -151,16 +151,13 @@
 2 Nephalia Academy
 2 Ulamog, the Ceaseless Hunger
 3 Emrakul, the Promised End
-2 Reflecting Pool
-1 Genesis Ultimatum
-2 Genesis Ultimatum
 1 Lightning Bolt
-1 Path to the World Tree
+2 Seal of Fire
 1 Cosima, God of the Voyage
 1 Voice of Resurgence
+1 Path to the World Tree
 1 Archon of Emeria
 2 Path to the World Tree
-2 Seal of Fire
 1 Hour of Promise
 1 Blood Crypt
 1 Nahiri, the Harbinger
@@ -178,27 +175,12 @@
 1 Tendo Ice Bridge
 2 Liliana of the Veil
 2 Tendo Ice Bridge
+2 Reflecting Pool
 3 Ulamog, the Ceaseless Hunger
 4 Ulamog, the Ceaseless Hunger
+1 Genesis Ultimatum
+2 Genesis Ultimatum
 3 Genesis Ultimatum
 4 Genesis Ultimatum
 4 Emrakul, the Promised End
 4 Tibalt's Trickery
-1 Emergent Ultimatum
-1 Chancellor of the Annex
-1 Forbidden Orchard
-1 Demonic Dread
-1 Iona, Shield of Emeria
-1 Sway of the Stars
-2 Emergent Ultimatum
-2 Chancellor of the Annex
-2 Forbidden Orchard
-2 Demonic Dread
-3 Emergent Ultimatum
-3 Chancellor of the Annex
-3 Demonic Dread
-3 Forbidden Orchard
-3 Reflecting Pool
-4 Emergent Ultimatum
-4 Forbidden Orchard
-4 Reflecting Pool

@@ -1,12 +1,15 @@
 1 All That Glitters
 4 Hyena Umbra
 2 All That Glitters
-1 Sentinel's Eyes
 4 Gryff's Boon
+1 Sentinel's Eyes
 3 Path to Exile
+1 Branchloft Pathway
 1 Wooded Foothills
 1 Snow-Covered Plains
-1 Branchloft Pathway
+1 Mana Tithe
+2 Mana Tithe
+3 Mana Tithe
 1 Hallowed Fountain
 1 Flooded Strand
 2 Flooded Strand
@@ -27,9 +30,6 @@
 2 Mana Confluence
 1 Keen Sense
 2 Keen Sense
-1 Mana Tithe
-2 Mana Tithe
-3 Mana Tithe
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 3 Leyline of Sanctity
@@ -45,15 +45,15 @@
 2 Force of Negation
 1 Stubborn Denial
 3 Plains
-1 Stoneforge Mystic
 1 Kor Outfitter
+1 Stoneforge Mystic
+1 Shadowspear
 1 Colossus Hammer
 1 Steelshaper's Gift
-1 Shadowspear
 1 Inkmoth Nexus
 1 Sigarda's Aid
-2 Stoneforge Mystic
 2 Kor Outfitter
+2 Stoneforge Mystic
 2 Steelshaper's Gift
 2 Inkmoth Nexus
 2 Sigarda's Aid
@@ -64,8 +64,8 @@
 3 Colossus Hammer
 3 Steelshaper's Gift
 3 Inkmoth Nexus
-4 Stoneforge Mystic
 4 Kor Outfitter
+4 Stoneforge Mystic
 4 Sigarda's Aid
 4 Colossus Hammer
 4 Steelshaper's Gift
@@ -96,54 +96,54 @@
 3 Force of Negation
 4 Force of Negation
 1 Sunbaked Canyon
-1 City of Brass
 1 Magnetic Theft
 1 Kor Duelist
 1 Silence
 1 Open the Armory
-2 City of Brass
+1 City of Brass
 2 Magnetic Theft
 2 Sunbaked Canyon
 2 Kor Duelist
 2 Shadowspear
 2 Open the Armory
+2 City of Brass
 3 Mana Confluence
-3 City of Brass
 3 Sunbaked Canyon
 3 Kor Duelist
 3 Magnetic Theft
 3 Open the Armory
+3 City of Brass
 4 Mana Confluence
-4 City of Brass
 4 Sunbaked Canyon
 4 Kor Duelist
+4 City of Brass
 4 Magnetic Theft
 1 Verdant Catacombs
 1 Sram, Senior Edificer
 3 All That Glitters
 4 All That Glitters
-1 Arid Mesa
-1 Batterskull
+1 Marsh Flats
 1 Sword of Fire and Ice
 1 Sword of Feast and Famine
+1 Batterskull
+1 Arid Mesa
 1 Skyclave Apparition
 1 Lurrus of the Dream-Den
 1 Noble Hierarch
-1 Marsh Flats
 1 Eladamri's Call
-2 Arid Mesa
 2 Marsh Flats
+2 Arid Mesa
 2 Noble Hierarch
 2 Eladamri's Call
 3 Noble Hierarch
 3 Eladamri's Call
 4 Eladamri's Call
 4 Noble Hierarch
-1 Seachrome Coast
 1 Invisible Stalker
 1 Waterlogged Grove
-2 Seachrome Coast
+1 Seachrome Coast
 2 Stubborn Denial
+2 Seachrome Coast
 2 Invisible Stalker
 3 Invisible Stalker
 4 Arcane Flight
