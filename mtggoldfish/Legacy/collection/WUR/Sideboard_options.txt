@@ -1,34 +1,41 @@
 1 Containment Priest
 2 Containment Priest
 1 Flusterstorm
-1 Ancient Grudge
-1 Blazing Volley
 1 Engineered Explosives
 1 Pithing Needle
+1 Ancient Grudge
+1 Blazing Volley
+1 Force of Negation
 1 Spell Pierce
 1 Spell Snare
 1 Monastery Mentor
 2 Engineered Explosives
 2 Monastery Mentor
-1 Force of Negation
 2 Force of Negation
 1 Relic of Progenitus
+1 Ensnaring Bridge
 1 Walking Ballista
 1 Mycosynth Lattice
-1 Ensnaring Bridge
 1 Liquimetal Coating
 1 Stony Silence
 1 Supreme Verdict
 1 Soul-Guide Lantern
 1 Path to Exile
+1 Rest in Peace
 1 Back to Basics
 1 Tormod's Crypt
 1 Peacekeeper
-1 Electrickery
 1 Lavinia, Azorius Renegade
-1 Abrade
+1 Electrickery
+2 Red Elemental Blast
+1 Vendilion Clique
+1 Meddling Mage
+2 Meddling Mage
 2 Soul-Guide Lantern
 2 Blazing Volley
+1 Chandra, Awakened Inferno
+1 Abrade
+1 Hydroblast
 1 Damping Sphere
 1 Faerie Macabre
 1 Eidolon of Rhetoric
@@ -43,10 +50,8 @@
 1 Thieving Skydiver
 1 Plague Engineer
 1 Magus of the Moon
-1 Hydroblast
 1 Hurkyl's Recall
 1 Izzet Staticaster
-2 Red Elemental Blast
 1 Brazen Borrower
 2 Abrade
 1 Sword of Feast and Famine
@@ -55,9 +60,11 @@
 1 Daze
 2 Leyline of the Void
 2 Torpor Orb
+1 Blue Elemental Blast
+2 Blue Elemental Blast
+2 Chandra, Awakened Inferno
 1 Skyclave Apparition
 1 Deafening Silence
-1 Rest in Peace
 2 Deafening Silence
 1 Remorseful Cleric
 1 Disenchant
@@ -65,17 +72,11 @@
 2 Spell Pierce
 2 Remorseful Cleric
 2 Disenchant
-2 Kira, Great Glass-Spinner
 2 Eidolon of Rhetoric
+2 Kira, Great Glass-Spinner
 2 Holy Light
 1 Null Rod
-1 Meddling Mage
-2 Meddling Mage
 3 Soul-Guide Lantern
-1 Sword of Fire and Ice
-3 Monastery Mentor
-1 Spellskite
-4 Pyroblast
 1 Spirit of the Labyrinth
 1 Collector Ouphe
 1 Swords to Plowshares
@@ -83,3 +84,7 @@
 2 Damping Sphere
 2 Swords to Plowshares
 3 Swords to Plowshares
+1 Spellskite
+4 Pyroblast
+1 Sword of Fire and Ice
+3 Monastery Mentor

@@ -74,8 +74,8 @@
 1 Ashiok, Nightmare Muse
 2 Bloodchief's Thirst
 3 Esika's Chariot
-1 Riverglide Pathway
 1 Blightstep Pathway
+1 Riverglide Pathway
 1 Cragcrown Pathway
 2 Polukranos, Unchained
 4 Valki, God of Lies
@@ -108,13 +108,13 @@
 2 Beanstalk Giant
 2 Ashiok, Nightmare Muse
 1 Crippling Fear
-1 Snow-Covered Island
 1 Snow-Covered Swamp
 1 Snow-Covered Forest
 1 Blood on the Snow
-2 Snow-Covered Island
+1 Snow-Covered Island
 2 Snow-Covered Forest
 2 Snow-Covered Swamp
+2 Snow-Covered Island
 3 Snow-Covered Swamp
 3 Snow-Covered Forest
 1 Migration Path
@@ -125,25 +125,13 @@
 2 Cling to Dust
 2 Esika, God of the Tree
 3 Alrund's Epiphany
-1 Temple of Malady
-2 Temple of Malady
-3 Temple of Malady
 1 Path to the World Tree
 1 Acolyte of Affliction
 2 Path to the World Tree
 3 The World Tree
-1 Fae of Wishes
-1 Omen of the Hunt
-1 Boon of the Wish-Giver
-1 Midnight Clock
-2 Fae of Wishes
-2 Omen of the Hunt
-3 Omen of the Hunt
-3 Snow-Covered Island
-3 Fae of Wishes
-4 Omen of the Hunt
-4 Snow-Covered Island
-4 Snow-Covered Swamp
+1 Temple of Malady
+2 Temple of Malady
+3 Temple of Malady
 2 Temple of Mystery
 3 Temple of Mystery
 4 Eliminate
@@ -153,15 +141,27 @@
 3 Migration Path
 4 Tangled Florahedron
 4 Migration Path
+1 Fae of Wishes
+1 Midnight Clock
+1 Boon of the Wish-Giver
+1 Omen of the Hunt
+2 Fae of Wishes
+2 Omen of the Hunt
+3 Fae of Wishes
+3 Omen of the Hunt
+3 Snow-Covered Island
+4 Snow-Covered Swamp
+4 Snow-Covered Island
+4 Omen of the Hunt
 1 Hengegate Pathway
 1 Mythos of Nethroi
 1 Brightclimb Pathway
 1 Drown in the Loch
 1 Plains
 2 Hengegate Pathway
+2 Indatha Triome
 2 Mythos of Nethroi
 2 Brightclimb Pathway
-2 Indatha Triome
 2 Drown in the Loch
 2 Atris, Oracle of Half-Truths
 3 Hengegate Pathway
@@ -170,8 +170,8 @@
 3 Atris, Oracle of Half-Truths
 3 Drown in the Loch
 4 Hengegate Pathway
-4 Mythos of Nethroi
 4 Bloodchief's Thirst
+4 Mythos of Nethroi
 4 Brightclimb Pathway
 4 Atris, Oracle of Half-Truths
 4 Drown in the Loch

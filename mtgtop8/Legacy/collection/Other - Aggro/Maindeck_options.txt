@@ -1,6 +1,7 @@
 2 Windswept Heath
 2 Skyclave Apparition
 2 Thalia, Guardian of Thraben
+3 Once Upon a Time
 3 Elvish Reclaimer
 3 Dryad of the Ilysian Grove
 3 Green Sun's Zenith
@@ -10,12 +11,11 @@
 3 Thalia, Guardian of Thraben
 3 Skyclave Apparition
 3 Windswept Heath
-3 Once Upon a Time
-4 Elvish Reclaimer
 4 Wooded Foothills
-4 Once Upon a Time
+4 Elvish Reclaimer
 4 Windswept Heath
 4 Green Sun's Zenith
+4 Once Upon a Time
 4 Swords to Plowshares
 4 Flagstones of Trokair
 4 Thalia, Guardian of Thraben
@@ -30,10 +30,10 @@
 1 Scalding Tarn
 1 Volcanic Island
 1 Oko, Thief of Crowns
-1 Tropical Island
 1 Misty Rainforest
-1 Narset, Parter of Veils
+1 Tropical Island
 1 Noble Hierarch
+1 Narset, Parter of Veils
 1 Young Pyromancer
 1 Brainstorm
 1 Of One Mind
@@ -42,9 +42,9 @@
 1 Krark, the Thumbless
 1 Force of Will
 1 Daze
+2 Tropical Island
 2 Scalding Tarn
 2 Oko, Thief of Crowns
-2 Tropical Island
 2 Misty Rainforest
 2 Noble Hierarch
 2 Young Pyromancer
@@ -77,63 +77,63 @@
 4 Force of Will
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
+1 Unearth
+1 Sunbaked Canyon
+1 Arid Mesa
+1 Blood Crypt
+1 Fatal Push
+1 Inquisition of Kozilek
+1 Cavern of Souls
+1 Lightning Skelemental
+1 Thoughtseize
+1 Bloodstained Mire
+1 Thunderkin Awakener
+1 Spark Trooper
+1 Blackcleave Cliffs
+1 Faithless Looting
+1 Ball Lightning
+1 Snow-Covered Swamp
+2 Bloodstained Mire
+2 Blood Crypt
+2 Inquisition of Kozilek
+2 Ball Lightning
+2 Thoughtseize
+2 Blackcleave Cliffs
+2 Polluted Delta
+2 Chain Lightning
+2 Thunderkin Awakener
+2 Faithless Looting
+2 Unearth
+2 Cavern of Souls
+2 Fatal Push
+2 Lightning Skelemental
+3 Cavern of Souls
+3 Inquisition of Kozilek
+3 Thoughtseize
+3 Ball Lightning
+3 Faithless Looting
+3 Unearth
+3 Blood Crypt
+3 Lightning Skelemental
+3 Blackcleave Cliffs
+3 Thunderkin Awakener
+3 Chain Lightning
+4 Thoughtseize
+4 Cavern of Souls
+4 Blackcleave Cliffs
+4 Unearth
+4 Faithless Looting
+4 Inquisition of Kozilek
+4 Thunderkin Awakener
+4 Lightning Skelemental
+4 Ball Lightning
 1 City of Traitors
 2 Ancient Tomb
 2 City of Traitors
-3 City of Traitors
 3 Ancient Tomb
+3 City of Traitors
 4 City of Traitors
 4 Ancient Tomb
-1 Solemn Simulacrum
-1 Magmatic Channeler
-1 Seasoned Pyromancer
-1 Sundering Titan
-1 Spellskite
-1 Goblin Cratermaker
-1 Ensnaring Bridge
-1 Magus of the Moon
-1 Phyrexian Revoker
-1 Imperial Recruiter
-1 Goblin Welder
-1 Aether Vial
-1 Hex Parasite
-1 Tangle Wire
-1 Ichor Wellspring
-1 Goblin Engineer
-1 Lodestone Golem
-1 Dire Fleet Daredevil
-1 Great Furnace
-1 Winter Orb
-2 Magmatic Channeler
-2 Seasoned Pyromancer
-2 Phyrexian Revoker
-2 Aether Vial
-2 Goblin Welder
-2 Tangle Wire
-2 Lodestone Golem
-2 Great Furnace
-2 Goblin Engineer
-2 Imperial Recruiter
-3 Magmatic Channeler
-3 Snow-Covered Mountain
-3 Lodestone Golem
-3 Aether Vial
-3 Tangle Wire
-3 Goblin Welder
-3 Imperial Recruiter
-3 Goblin Engineer
-4 Magmatic Channeler
-4 Snow-Covered Mountain
-4 Aether Vial
-4 Imperial Recruiter
-4 Goblin Engineer
-4 Goblin Welder
-4 Tangle Wire
-5 Snow-Covered Mountain
-6 Snow-Covered Mountain
-7 Snow-Covered Mountain
-8 Snow-Covered Mountain
-9 Snow-Covered Mountain
 1 Urborg, Tomb of Yawgmoth
 1 Sorcerous Spyglass
 1 Chalice of the Void
@@ -161,9 +161,9 @@
 2 Plague Engineer
 2 Archfiend of Ifnir
 2 Liliana of the Veil
+3 Opposition Agent
 3 Swamp
 3 Eliminate
-3 Opposition Agent
 3 Leyline of the Void
 3 Plague Engineer
 3 Pack Rat
@@ -172,8 +172,8 @@
 3 Chrome Mox
 4 Karn, the Great Creator
 4 Eliminate
-4 Leyline of the Void
 4 Plague Engineer
+4 Leyline of the Void
 4 Swamp
 4 Pack Rat
 4 Chalice of the Void
@@ -184,53 +184,53 @@
 7 Swamp
 8 Swamp
 9 Swamp
-1 Unearth
-1 Sunbaked Canyon
-1 Arid Mesa
-1 Blood Crypt
-1 Fatal Push
-1 Inquisition of Kozilek
-1 Cavern of Souls
-1 Lightning Skelemental
-1 Thoughtseize
-1 Bloodstained Mire
-1 Thunderkin Awakener
-1 Spark Trooper
-1 Blackcleave Cliffs
-1 Faithless Looting
-1 Ball Lightning
-1 Snow-Covered Swamp
-2 Bloodstained Mire
-2 Cavern of Souls
-2 Blood Crypt
-2 Inquisition of Kozilek
-2 Ball Lightning
-2 Thoughtseize
-2 Blackcleave Cliffs
-2 Polluted Delta
-2 Chain Lightning
-2 Thunderkin Awakener
-2 Faithless Looting
-2 Unearth
-2 Fatal Push
-2 Lightning Skelemental
-3 Cavern of Souls
-3 Inquisition of Kozilek
-3 Thoughtseize
-3 Ball Lightning
-3 Faithless Looting
-3 Unearth
-3 Blood Crypt
-3 Lightning Skelemental
-3 Blackcleave Cliffs
-3 Thunderkin Awakener
-3 Chain Lightning
-4 Thoughtseize
-4 Blackcleave Cliffs
-4 Unearth
-4 Faithless Looting
-4 Inquisition of Kozilek
-4 Thunderkin Awakener
-4 Lightning Skelemental
-4 Ball Lightning
-4 Cavern of Souls
+1 Seasoned Pyromancer
+1 Solemn Simulacrum
+1 Sundering Titan
+1 Spellskite
+1 Goblin Cratermaker
+1 Ensnaring Bridge
+1 Magus of the Moon
+1 Phyrexian Revoker
+1 Imperial Recruiter
+1 Magmatic Channeler
+1 Goblin Welder
+1 Aether Vial
+1 Hex Parasite
+1 Tangle Wire
+1 Ichor Wellspring
+1 Goblin Engineer
+1 Lodestone Golem
+1 Dire Fleet Daredevil
+1 Great Furnace
+1 Winter Orb
+2 Seasoned Pyromancer
+2 Phyrexian Revoker
+2 Aether Vial
+2 Magmatic Channeler
+2 Goblin Welder
+2 Tangle Wire
+2 Lodestone Golem
+2 Great Furnace
+2 Goblin Engineer
+2 Imperial Recruiter
+3 Snow-Covered Mountain
+3 Lodestone Golem
+3 Aether Vial
+3 Magmatic Channeler
+3 Tangle Wire
+3 Goblin Welder
+3 Imperial Recruiter
+3 Goblin Engineer
+4 Snow-Covered Mountain
+4 Aether Vial
+4 Imperial Recruiter
+4 Goblin Engineer
+4 Goblin Welder
+4 Tangle Wire
+4 Magmatic Channeler
+5 Snow-Covered Mountain
+6 Snow-Covered Mountain
+7 Snow-Covered Mountain
+8 Snow-Covered Mountain
+9 Snow-Covered Mountain

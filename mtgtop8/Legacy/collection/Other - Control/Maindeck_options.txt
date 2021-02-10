@@ -27,48 +27,48 @@
 1 Snow-Covered Swamp
 1 Ancient Tomb
 1 Karn, the Great Creator
-1 Trinisphere
-1 City of Traitors
-1 Chalice of the Void
-2 Ancient Tomb
-2 Karn, the Great Creator
-2 Trinisphere
-2 City of Traitors
-2 Chalice of the Void
-3 Ancient Tomb
-3 Karn, the Great Creator
-3 Chalice of the Void
-3 City of Traitors
-4 Ancient Tomb
-4 Karn, the Great Creator
-4 Chalice of the Void
-4 City of Traitors
 1 Chrome Mox
 1 Leyline of the Void
 1 Opposition Agent
 1 Curse of Misfortunes
+1 Trinisphere
 1 Helm of Obedience
+1 City of Traitors
 1 Curse of Death's Hold
 1 Dark Ritual
 1 Cruel Reality
 1 Overwhelming Splendor
+1 Chalice of the Void
 2 Snow-Covered Swamp
+2 Ancient Tomb
+2 Karn, the Great Creator
 2 Leyline of the Void
 2 Opposition Agent
+2 Trinisphere
 2 Curse of Misfortunes
 2 Chrome Mox
+2 City of Traitors
 2 Dark Ritual
 2 Helm of Obedience
+2 Chalice of the Void
+3 Snow-Covered Swamp
+3 Ancient Tomb
+3 Karn, the Great Creator
 3 Leyline of the Void
 3 Opposition Agent
 3 Dark Ritual
-3 Snow-Covered Swamp
+3 Chalice of the Void
+3 City of Traitors
 3 Curse of Misfortunes
 3 Chrome Mox
+4 Ancient Tomb
 4 Snow-Covered Swamp
 4 Chrome Mox
+4 Karn, the Great Creator
 4 Leyline of the Void
+4 Chalice of the Void
 4 Dark Ritual
+4 City of Traitors
 4 Curse of Misfortunes
 4 Opposition Agent
 5 Snow-Covered Swamp
@@ -80,8 +80,8 @@
 1 Fatal Push
 1 Ethereal Forager
 1 Island
-1 Brazen Borrower
 1 Swamp
+1 Brazen Borrower
 2 Murderous Rider
 2 Fatal Push
 2 Ethereal Forager
@@ -90,8 +90,8 @@
 3 Island
 4 Baleful Strix
 4 Stifle
-1 Tundra
 1 Teferi, Time Raveler
+1 Tundra
 2 Teferi, Time Raveler
 3 Flooded Strand
 2 Sylvan Library
@@ -101,14 +101,13 @@
 2 Swords to Plowshares
 3 Arcum's Astrolabe
 3 Swords to Plowshares
-3 Trinisphere
 1 Snapcaster Mage
 1 Jace, the Mind Sculptor
 1 Monastery Mentor
 1 Inquisition of Kozilek
-1 Scrubland
-1 Hymn to Tourach
 1 Drown in the Loch
+1 Hymn to Tourach
+1 Scrubland
 2 Snapcaster Mage
 2 Tundra
 2 Jace, the Mind Sculptor
@@ -116,10 +115,10 @@
 2 Hymn to Tourach
 2 Drown in the Loch
 2 Inquisition of Kozilek
+3 Monastery Mentor
 3 Teferi, Time Raveler
 3 Inquisition of Kozilek
 3 Hymn to Tourach
-3 Monastery Mentor
 4 Flooded Strand
 1 Day's Undoing
 1 Pyroblast
@@ -135,6 +134,10 @@
 2 Sorcerous Spyglass
 2 Soul Shatter
 3 Sorcerous Spyglass
+1 Snuff Out
+3 Hullbreacher
+3 Brazen Borrower
+4 Brazen Borrower
 1 Savannah
 1 Stoneforge Mystic
 1 Batterskull
@@ -152,8 +155,8 @@
 2 Stoneforge Mystic
 2 Abrupt Decay
 2 Thopter Foundry
-2 Urza, Lord High Artificer
 2 Supreme Verdict
+2 Urza, Lord High Artificer
 3 Prismatic Vista
 3 Snow-Covered Island
 3 Urza, Lord High Artificer
@@ -161,53 +164,9 @@
 2 Chain Lightning
 4 Daze
 4 Tropical Island
-1 Pelakka Predation
 1 Feed the Swarm
+1 Pelakka Predation
 2 Pelakka Predation
 3 Pelakka Predation
+3 Trinisphere
 4 Pelakka Predation
-1 Snuff Out
-3 Hullbreacher
-3 Brazen Borrower
-4 Brazen Borrower
-1 Mazemind Tome
-1 Blood Sun
-1 Chandra, Awakened Inferno
-1 Punishing Fire
-1 Grove of the Burnwillows
-1 Thought-Knot Seer
-1 Mountain
-1 Dead / Gone
-1 Reality Smasher
-1 Simian Spirit Guide
-1 Bonecrusher Giant
-1 Eldrazi Temple
-2 Blood Sun
-2 Chandra, Awakened Inferno
-2 Grove of the Burnwillows
-2 Punishing Fire
-2 Thought-Knot Seer
-2 Dead / Gone
-2 Reality Smasher
-2 Bonecrusher Giant
-2 Simian Spirit Guide
-2 Eldrazi Temple
-2 Mountain
-3 Blood Sun
-3 Grove of the Burnwillows
-3 Punishing Fire
-3 Thought-Knot Seer
-3 Eldrazi Temple
-3 Simian Spirit Guide
-3 Reality Smasher
-3 Bonecrusher Giant
-3 Mountain
-4 Blood Sun
-4 Punishing Fire
-4 Grove of the Burnwillows
-4 Thought-Knot Seer
-4 Simian Spirit Guide
-4 Mountain
-4 Eldrazi Temple
-4 Reality Smasher
-5 Mountain

@@ -69,6 +69,7 @@
 |                    3|[Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129626)        |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)              |
 |                    3|[Elvish Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389499)         |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)              |
 |                    4|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)         |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)              |
+|                     |                                                                                                 |                    4|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)            |
 |                     |                                                                                                 |                    1|[Oath of Nissa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407650)             |
 |                     |                                                                                                 |                    1|[Jace, Wielder of Mysteries](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460981)|
 |                     |                                                                                                 |                    2|[Jace, Wielder of Mysteries](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460981)|
@@ -77,5 +78,4 @@
 |                     |                                                                                                 |                    3|[Jace, Wielder of Mysteries](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460981)|
 |                     |                                                                                                 |                    4|[Oath of Nissa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407650)             |
 |                     |                                                                                                 |                    4|[Jace, Wielder of Mysteries](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460981)|
-|                     |                                                                                                 |                    4|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)            |
 

@@ -1,6 +1,7 @@
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
+3 Ezuri, Renegade Leader
 5 Forest
 6 Forest
 1 Turntimber Symbiosis
@@ -8,14 +9,13 @@
 3 Turntimber Symbiosis
 4 Turntimber Symbiosis
 1 Craterhoof Behemoth
-4 Nurturing Peatland
 7 Forest
 1 Joraga Warcaller
 8 Forest
 1 Bramblewood Paragon
 1 Growth-Chamber Guardian
-2 Growth-Chamber Guardian
 2 Bramblewood Paragon
+2 Growth-Chamber Guardian
 2 Joraga Warcaller
 3 Growth-Chamber Guardian
 3 Bramblewood Paragon
@@ -26,16 +26,20 @@
 2 Scavenging Ooze
 4 Snow-Covered Forest
 9 Forest
+1 Elvish Warmaster
+1 Realmwalker
+2 Elvish Warmaster
+2 Realmwalker
+3 Elvish Warmaster
+4 Elvish Warmaster
+1 Elves of Deep Shadow
 1 Winding Way
 2 Winding Way
 5 Snow-Covered Forest
-1 Elves of Deep Shadow
 10 Forest
 11 Forest
-1 Devoted Druid
-2 Devoted Druid
-3 Devoted Druid
-4 Devoted Druid
+1 Overgrown Tomb
+2 Overgrown Tomb
 1 Elvish Champion
 2 Elvish Champion
 1 Inscription of Abundance
@@ -45,12 +49,10 @@
 3 Winding Way
 4 Winding Way
 2 Elves of Deep Shadow
-1 Realmwalker
-1 Elvish Warmaster
-2 Elvish Warmaster
-2 Realmwalker
-3 Elvish Warmaster
-4 Elvish Warmaster
+1 Devoted Druid
+2 Devoted Druid
+3 Devoted Druid
+4 Devoted Druid
 1 Imperious Perfect
 2 Imperious Perfect
 3 Elvish Champion
@@ -65,13 +67,17 @@
 1 Lead the Stampede
 2 Lead the Stampede
 3 Lead the Stampede
-1 Overgrown Tomb
-2 Overgrown Tomb
+1 Windswept Heath
+2 Windswept Heath
 1 Leyline of Abundance
 2 Leyline of Abundance
 3 Leyline of Abundance
-1 Windswept Heath
-2 Windswept Heath
+1 Wooded Foothills
+2 Wooded Foothills
+3 Realmwalker
+3 Windswept Heath
+4 Realmwalker
+4 Windswept Heath
 1 Beast Whisperer
 1 Nykthos, Shrine to Nyx
 2 Chord of Calling
@@ -79,16 +85,14 @@
 1 Tajuru Paragon
 2 Tajuru Paragon
 3 Tajuru Paragon
-1 Horizon Canopy
-2 Horizon Canopy
-3 Windswept Heath
-1 Verdant Catacombs
 1 Mutavault
+2 Craterhoof Behemoth
 1 Okina, Temple to the Grandfathers
 1 Eternal Witness
 1 Reclamation Sage
+1 Horizon Canopy
 2 Nykthos, Shrine to Nyx
-2 Craterhoof Behemoth
+2 Horizon Canopy
 1 Llanowar Wastes
 2 Llanowar Wastes
 3 Llanowar Wastes
@@ -96,16 +100,12 @@
 2 Llanowar Visionary
 3 Llanowar Visionary
 4 Llanowar Visionary
-1 Wooded Foothills
-2 Wooded Foothills
-3 Realmwalker
-4 Realmwalker
-4 Windswept Heath
 1 Elvish Reclaimer
 1 Nissa of Shadowed Boughs
+1 Verdant Catacombs
 2 Elvish Reclaimer
-2 Verdant Catacombs
 2 Nissa of Shadowed Boughs
+2 Verdant Catacombs
 3 Elvish Reclaimer
 3 Verdant Catacombs
 4 Elvish Reclaimer
@@ -117,32 +117,9 @@
 3 Elves of Deep Shadow
 4 Elves of Deep Shadow
 4 Gilt-Leaf Archdruid
-1 Razorverge Thicket
-1 Selfless Spirit
-1 Shalai, Voice of Plenty
-1 Mirror Entity
-1 Boreal Druid
-1 Temple Garden
-1 Joraga Treespeaker
-1 Umbral Mantle
-2 Temple Garden
-2 Razorverge Thicket
-2 Boreal Druid
-2 Joraga Treespeaker
-2 Umbral Mantle
-3 Razorverge Thicket
-3 Temple Garden
-3 Horizon Canopy
-3 Umbral Mantle
-4 Horizon Canopy
-4 Razorverge Thicket
-4 Umbral Mantle
-4 Ezuri, Renegade Leader
-1 Castle Garenbrig
-2 Beast Whisperer
-2 Castle Garenbrig
-3 Beast Whisperer
-4 Beast Whisperer
+6 Snow-Covered Forest
+7 Snow-Covered Forest
+8 Snow-Covered Forest
 1 Arbor Elf
 2 Arbor Elf
 3 Arbor Elf
@@ -154,6 +131,8 @@
 16 Forest
 17 Forest
 18 Forest
-6 Snow-Covered Forest
-7 Snow-Covered Forest
-8 Snow-Covered Forest
+1 Castle Garenbrig
+2 Beast Whisperer
+2 Castle Garenbrig
+3 Beast Whisperer
+4 Beast Whisperer

@@ -6,6 +6,9 @@
 1 Iona, Shield of Emeria
 1 Cabal Therapy
 2 Verdant Catacombs
+2 Swamp
+2 Cabal Therapy
+1 Sire of Insanity
 1 Brainstorm
 1 Ponder
 1 Tropical Island
@@ -18,49 +21,25 @@
 3 Force of Will
 3 Brainstorm
 3 Ponder
+4 Polluted Delta
 4 Force of Will
 4 Ponder
 4 Brainstorm
 1 Snow-Covered Swamp
-2 Swamp
-2 Cabal Therapy
-1 Sire of Insanity
-3 Underground Sea
-4 Polluted Delta
 1 Collective Brutality
 1 Duress
 2 Duress
-1 Misty Rainforest
-2 Misty Rainforest
 3 Verdant Catacombs
-1 Ice-Fang Coatl
-1 Worldgorger Dragon
-1 Snow-Covered Forest
-1 Arcum's Astrolabe
-1 Uro, Titan of Nature's Wrath
-1 Snow-Covered Island
-1 Abrupt Decay
-2 Uro, Titan of Nature's Wrath
-2 Snow-Covered Island
-2 Abrupt Decay
-2 Ice-Fang Coatl
-2 Arcum's Astrolabe
-3 Misty Rainforest
-3 Ice-Fang Coatl
-3 Snow-Covered Island
-3 Arcum's Astrolabe
-4 Misty Rainforest
-4 Ice-Fang Coatl
-4 Arcum's Astrolabe
 1 Daze
 2 Daze
+3 Underground Sea
 2 Snow-Covered Swamp
 1 Shallow Grave
 2 Shallow Grave
 3 Shallow Grave
 4 Shallow Grave
-1 Urborg, Tomb of Yawgmoth
 1 Dark Depths
+1 Urborg, Tomb of Yawgmoth
 1 Vampire Hexmage
 1 Thespian's Stage
 2 Urborg, Tomb of Yawgmoth
@@ -84,6 +63,8 @@
 2 Collective Brutality
 3 Collective Brutality
 4 Collective Brutality
+1 Misty Rainforest
+2 Misty Rainforest
 1 Massacre Wurm
 1 Hymn to Tourach
 1 Grave Titan
@@ -105,23 +86,6 @@
 1 Sphinx of the Steel Wind
 2 Chrome Mox
 2 Scrubland
-1 Mystic Sanctuary
-1 Fatal Push
-1 Oko, Thief of Crowns
-1 Assassin's Trophy
-1 Archmage's Charm
-2 Mystic Sanctuary
-2 Oko, Thief of Crowns
-2 Tropical Island
-1 Jace, the Mind Sculptor
-1 Drown in the Loch
-1 Prismatic Vista
-1 Ishkanah, Grafwidow
-1 Dance of the Dead
-2 Drown in the Loch
-2 Prismatic Vista
-2 Dance of the Dead
-3 Abrupt Decay
 1 Island
 1 Careful Study
 1 Elesh Norn, Grand Cenobite
@@ -135,8 +99,8 @@
 1 Living Wish
 2 Living Wish
 2 Bayou
-2 Veil of Summer
 2 Lion's Eye Diamond
+2 Veil of Summer
 3 Living Wish
 3 Lion's Eye Diamond
 4 Living Wish
@@ -146,6 +110,34 @@
 4 Urborg, Tomb of Yawgmoth
 4 Vampire Hexmage
 4 Thespian's Stage
+1 Jace, the Mind Sculptor
+1 Drown in the Loch
+1 Prismatic Vista
+1 Ice-Fang Coatl
+1 Worldgorger Dragon
+1 Ishkanah, Grafwidow
+1 Snow-Covered Forest
+1 Dance of the Dead
+1 Arcum's Astrolabe
+1 Uro, Titan of Nature's Wrath
+1 Snow-Covered Island
+1 Abrupt Decay
+2 Drown in the Loch
+2 Prismatic Vista
+2 Uro, Titan of Nature's Wrath
+2 Snow-Covered Island
+2 Arcum's Astrolabe
+2 Abrupt Decay
+2 Ice-Fang Coatl
+2 Dance of the Dead
+3 Abrupt Decay
+3 Misty Rainforest
+3 Ice-Fang Coatl
+3 Snow-Covered Island
+3 Arcum's Astrolabe
+4 Misty Rainforest
+4 Ice-Fang Coatl
+4 Arcum's Astrolabe
 1 Putrid Imp
 1 Smallpox
 2 Putrid Imp

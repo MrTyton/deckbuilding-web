@@ -1,15 +1,16 @@
 1 All That Glitters
-4 Hyena Umbra
 2 All That Glitters
+4 Hyena Umbra
 4 Gryff's Boon
 1 Sentinel's Eyes
 3 Path to Exile
-1 Branchloft Pathway
-1 Wooded Foothills
-1 Snow-Covered Plains
 1 Mana Tithe
 2 Mana Tithe
 3 Mana Tithe
+1 Branchloft Pathway
+1 Wooded Foothills
+1 Snow-Covered Plains
+1 Misty Rainforest
 1 Hallowed Fountain
 1 Flooded Strand
 2 Flooded Strand
@@ -30,20 +31,15 @@
 2 Mana Confluence
 1 Keen Sense
 2 Keen Sense
-1 Leyline of Sanctity
-2 Leyline of Sanctity
-3 Leyline of Sanctity
-4 Leyline of Sanctity
 1 Sixth Sense
 2 Hallowed Fountain
 3 Staggering Insight
 4 Flooded Strand
 4 Staggering Insight
-1 Misty Rainforest
-4 Path to Exile
 1 Force of Negation
 2 Force of Negation
 1 Stubborn Denial
+4 Path to Exile
 3 Plains
 1 Kor Outfitter
 1 Stoneforge Mystic
@@ -75,7 +71,9 @@
 1 Speaker of the Heavens
 2 Ram Through
 2 Sentinel's Eyes
-2 Wooded Foothills
+1 Irrigated Farmland
+2 Misty Rainforest
+2 Irrigated Farmland
 2 Forest
 1 Dromoka's Command
 2 Dromoka's Command
@@ -85,9 +83,6 @@
 1 Wooded Bastion
 2 Cartouche of Solidarity
 2 Wooded Bastion
-1 Irrigated Farmland
-2 Irrigated Farmland
-2 Misty Rainforest
 2 Branchloft Pathway
 3 Branchloft Pathway
 1 Suppression Field
@@ -95,28 +90,33 @@
 3 Suppression Field
 3 Force of Negation
 4 Force of Negation
-1 Sunbaked Canyon
-1 City of Brass
+1 Leyline of Sanctity
+2 Wooded Foothills
+2 Leyline of Sanctity
+3 Leyline of Sanctity
+4 Leyline of Sanctity
 1 Magnetic Theft
 1 Kor Duelist
 1 Silence
 1 Open the Armory
-2 City of Brass
-2 Magnetic Theft
+1 City of Brass
+1 Sunbaked Canyon
 2 Sunbaked Canyon
+2 Magnetic Theft
 2 Kor Duelist
 2 Shadowspear
 2 Open the Armory
-3 City of Brass
+2 City of Brass
 3 Mana Confluence
+3 Sunbaked Canyon
 3 Kor Duelist
 3 Magnetic Theft
 3 Open the Armory
-3 Sunbaked Canyon
-4 City of Brass
+3 City of Brass
 4 Mana Confluence
-4 Kor Duelist
 4 Sunbaked Canyon
+4 Kor Duelist
+4 City of Brass
 4 Magnetic Theft
 1 Verdant Catacombs
 1 Sram, Senior Edificer
@@ -139,11 +139,11 @@
 3 Eladamri's Call
 4 Eladamri's Call
 4 Noble Hierarch
-1 Seachrome Coast
 1 Invisible Stalker
 1 Waterlogged Grove
-2 Seachrome Coast
+1 Seachrome Coast
 2 Stubborn Denial
+2 Seachrome Coast
 2 Invisible Stalker
 3 Invisible Stalker
 4 Arcane Flight

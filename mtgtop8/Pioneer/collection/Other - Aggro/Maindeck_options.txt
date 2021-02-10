@@ -1,28 +1,28 @@
 4 Claim / Fame
-3 Blood Crypt
-4 Blood Crypt
-4 Overgrown Tomb
 2 Murderous Rider
 3 Murderous Rider
 1 Mana Confluence
 1 Cathartic Reunion
-1 Gather the Pack
 1 Lotleth Troll
+1 Gather the Pack
 2 Cathartic Reunion
 2 Mana Confluence
 2 Gather the Pack
 3 Cathartic Reunion
 3 Gather the Pack
+3 Blood Crypt
 3 Samut, Voice of Dissent
+4 Overgrown Tomb
 4 Murderous Rider
 4 Samut, Voice of Dissent
+4 Blood Crypt
 4 Satyr Wayfinder
 1 Mutavault
 2 Mutavault
-1 Brightclimb Pathway
 1 Godless Shrine
-2 Godless Shrine
+1 Brightclimb Pathway
 2 Brightclimb Pathway
+2 Godless Shrine
 3 Brightclimb Pathway
 3 Mutavault
 4 Brightclimb Pathway
@@ -35,11 +35,11 @@
 1 Open the Armory
 1 Kor Blademaster
 1 Mardu Woe-Reaper
-1 Caves of Koilos
+1 Bloodsoaked Champion
 1 Concealed Courtyard
 1 Shadowspear
-1 Bloodsoaked Champion
 1 Gods Willing
+1 Caves of Koilos
 2 Wishclaw Talisman
 2 Colossus Hammer
 2 Resolute Strike
@@ -48,9 +48,9 @@
 2 Open the Armory
 2 Kor Blademaster
 2 Mardu Woe-Reaper
-2 Concealed Courtyard
-2 Gods Willing
 2 Bloodsoaked Champion
+2 Gods Willing
+2 Concealed Courtyard
 2 Caves of Koilos
 3 Blood-Chin Rager
 3 Colossus Hammer
@@ -59,18 +59,18 @@
 3 Open the Armory
 3 Kor Blademaster
 3 Mardu Woe-Reaper
-3 Caves of Koilos
 3 Concealed Courtyard
-3 Godless Shrine
 3 Bloodsoaked Champion
+3 Godless Shrine
+3 Caves of Koilos
 4 Resolute Strike
 4 Open the Armory
 4 Colossus Hammer
 4 Sigarda's Aid
 4 Kor Blademaster
 4 Mardu Woe-Reaper
-4 Godless Shrine
 4 Caves of Koilos
+4 Godless Shrine
 4 Concealed Courtyard
 1 Thoughtseize
 1 Urborg, Tomb of Yawgmoth
@@ -80,17 +80,17 @@
 3 Thoughtseize
 4 Thoughtseize
 1 Thieves' Guild Enforcer
-1 Drown in the Loch
 1 Soaring Thought-Thief
+1 Drown in the Loch
 1 Eliminate
+1 Watery Grave
 1 Cling to Dust
 1 Mystical Dispute
-1 Clearwater Pathway
 1 Island
-1 Watery Grave
+1 Clearwater Pathway
 2 Thieves' Guild Enforcer
-2 Drown in the Loch
 2 Soaring Thought-Thief
+2 Drown in the Loch
 2 Watery Grave
 2 Clearwater Pathway
 3 Drown in the Loch
@@ -105,24 +105,24 @@
 4 Watery Grave
 1 Castle Locthwain
 2 Swamp
-3 Swamp
 3 Fatal Push
+3 Swamp
 4 Fatal Push
 1 Anticognition
 1 Nighthawk Scavenger
 1 Fabled Passage
-1 Drowned Catacomb
 1 Brazen Borrower
+1 Drowned Catacomb
 2 Eliminate
 2 Fabled Passage
 2 Nighthawk Scavenger
 2 Mystical Dispute
-2 Drowned Catacomb
-2 Brazen Borrower
 2 Island
+2 Brazen Borrower
+2 Drowned Catacomb
 3 Brazen Borrower
-3 Island
 3 Drowned Catacomb
+3 Island
 4 Drowned Catacomb
 4 Brazen Borrower
 1 Into the Story
@@ -150,6 +150,9 @@
 3 Wishclaw Talisman
 3 Mardu Shadowspear
 4 Mardu Shadowspear
+1 Vampire of the Dire Moon
+2 Vampire of the Dire Moon
+4 Nullhide Ferox
 1 Botanical Sanctum
 1 Breeding Pool
 1 Merfolk Windrobber
@@ -166,89 +169,42 @@
 3 Of One Mind
 3 Into the Story
 3 Merfolk Windrobber
-3 Deathrite Shaman
 3 Agadeem's Awakening
+3 Deathrite Shaman
 4 Into the Story
-4 Deathrite Shaman
 4 Botanical Sanctum
-1 Zulaport Cutthroat
-1 Llanowar Wastes
-1 Gilded Goose
-1 Bolas's Citadel
-1 Catacomb Sifter
-1 Llanowar Elves
-1 Elvish Mystic
-1 Woe Strider
-1 Collected Company
-1 Blisterpod
-1 Priest of Forgotten Gods
-1 Mayhem Devil
-2 Llanowar Wastes
-2 Gilded Goose
-2 Bolas's Citadel
-2 Collected Company
-2 Priest of Forgotten Gods
-2 Llanowar Elves
-2 Mayhem Devil
-2 Blisterpod
-2 Elvish Mystic
-2 Woe Strider
-2 Zulaport Cutthroat
-2 Catacomb Sifter
-3 Woe Strider
-3 Llanowar Wastes
-3 Gilded Goose
-3 Blisterpod
-3 Mayhem Devil
-3 Catacomb Sifter
-3 Zulaport Cutthroat
-3 Bolas's Citadel
-3 Collected Company
-3 Priest of Forgotten Gods
-4 Woe Strider
-4 Gilded Goose
-4 Priest of Forgotten Gods
-4 Catacomb Sifter
-4 Zulaport Cutthroat
-4 Blisterpod
-4 Bolas's Citadel
-4 Mayhem Devil
-4 Collected Company
-4 Stomping Ground
-1 Vampire of the Dire Moon
-2 Vampire of the Dire Moon
-4 Nullhide Ferox
+4 Deathrite Shaman
 1 Gladecover Scout
 1 Season of Growth
 1 Branchloft Pathway
 1 Temple Garden
 1 Fortified Village
 1 Sunpetal Grove
-1 Unflinching Courage
-1 Bassara Tower Archer
-1 Cartouche of Solidarity
-1 Helm of the Gods
-1 Adanto Vanguard
-1 Gryff's Boon
 1 Ethereal Armor
+1 Cartouche of Solidarity
 1 All That Glitters
+1 Bassara Tower Archer
+1 Adanto Vanguard
+1 Helm of the Gods
+1 Unflinching Courage
 1 Sentinel's Eyes
+1 Gryff's Boon
 2 Branchloft Pathway
 2 Season of Growth
 2 Gladecover Scout
 2 Temple Garden
 2 Sunpetal Grove
-2 Plains
-2 Gryff's Boon
-2 Sentinel's Eyes
 2 Cartouche of Solidarity
+2 Plains
+2 All That Glitters
 2 Forest
 2 Adanto Vanguard
 2 Ethereal Armor
-2 Bassara Tower Archer
-2 All That Glitters
-2 Helm of the Gods
 2 Unflinching Courage
+2 Gryff's Boon
+2 Bassara Tower Archer
+2 Sentinel's Eyes
+2 Helm of the Gods
 3 Gladecover Scout
 3 Branchloft Pathway
 3 Temple Garden
@@ -256,25 +212,25 @@
 3 Sunpetal Grove
 3 Unflinching Courage
 3 Gryff's Boon
-3 Cartouche of Solidarity
-3 Sentinel's Eyes
 3 Forest
+3 All That Glitters
 3 Ethereal Armor
 3 Bassara Tower Archer
-3 All That Glitters
+3 Cartouche of Solidarity
+3 Sentinel's Eyes
 4 Gladecover Scout
 4 Branchloft Pathway
 4 Temple Garden
 4 Sunpetal Grove
 4 Adanto Vanguard
 4 Sentinel's Eyes
+4 Bassara Tower Archer
 4 Unflinching Courage
 4 Cartouche of Solidarity
-4 Forest
-4 Bassara Tower Archer
-4 Ethereal Armor
 4 All That Glitters
 4 Gryff's Boon
+4 Ethereal Armor
+4 Forest
 5 Forest
 1 Blood Baron of Vizkopa
 1 Champion of Dusk
@@ -282,24 +238,24 @@
 1 Dusk Legion Zealot
 1 Gifted Aetherborn
 1 Bloodchief's Thirst
-1 Knight of the Ebon Legion
 1 Isolated Chapel
 1 Kalitas, Traitor of Ghet
+1 Knight of the Ebon Legion
 2 Blood Baron of Vizkopa
 2 Sorin, Imperious Bloodlord
 2 Champion of Dusk
 2 Dusk Legion Zealot
 2 Gifted Aetherborn
+2 Kalitas, Traitor of Ghet
 2 Isolated Chapel
 2 Knight of the Ebon Legion
-2 Kalitas, Traitor of Ghet
 2 Castle Locthwain
 3 Gifted Aetherborn
 3 Dusk Legion Zealot
 3 Champion of Dusk
 3 Sorin, Imperious Bloodlord
-3 Castle Locthwain
 3 Knight of the Ebon Legion
+3 Castle Locthwain
 4 Sorin, Imperious Bloodlord
 4 Gifted Aetherborn
 4 Champion of Dusk

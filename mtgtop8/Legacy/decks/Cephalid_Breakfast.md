@@ -36,8 +36,8 @@
 |                    1|[Daru Spiritualist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45139)|                    3|[True-Name Nemesis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446104)|
 |                    1|[Shaman en-Kor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5220)     |                     |                                                                                            |
 |                    1|[Starlit Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=40542)  |                     |                                                                                            |
+|                    2|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)    |                     |                                                                                            |
 |                    2|[Starlit Sanctum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=40542)  |                     |                                                                                            |
 |                    2|[Daru Spiritualist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45139)|                     |                                                                                            |
-|                    2|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)    |                     |                                                                                            |
 |                    3|[Daru Spiritualist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45139)|                     |                                                                                            |
 
