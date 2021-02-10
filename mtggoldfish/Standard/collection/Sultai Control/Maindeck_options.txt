@@ -1,27 +1,27 @@
 3 Cultivate
-4 Fabled Passage
+3 Elspeth's Nightmare
 4 Emergent Ultimatum
+1 Kiora Bests the Sea God
 1 Jwari Disruption
 2 Jwari Disruption
-3 Elspeth's Nightmare
-1 Kiora Bests the Sea God
 4 Forest
 1 Tangled Florahedron
 2 Tangled Florahedron
 2 Sea Gate Restoration
 4 Cultivate
-3 Shadows' Verdict
 1 Shark Typhoon
 2 Shark Typhoon
-1 Wolfwillow Haven
-2 Wolfwillow Haven
+4 Fabled Passage
+3 Shadows' Verdict
 1 Mazemind Tome
 2 Mazemind Tome
-3 Island
 1 Bala Ged Recovery
+3 Eliminate
 1 Esika's Chariot
 2 Esika's Chariot
-3 Eliminate
+1 Wolfwillow Haven
+2 Wolfwillow Haven
+3 Island
 3 Wolfwillow Haven
 1 Koma, Cosmos Serpent
 4 Wolfwillow Haven
@@ -29,6 +29,8 @@
 2 Koma, Cosmos Serpent
 3 Jwari Disruption
 1 Behold the Multiverse
+1 Elder Gargaroth
+2 Elder Gargaroth
 4 Jwari Disruption
 1 The World Tree
 3 Extinction Event
@@ -39,8 +41,6 @@
 2 Yorion, Sky Nomad
 3 Valki, God of Lies
 1 Polukranos, Unchained
-1 Elder Gargaroth
-2 Elder Gargaroth
 2 Behold the Multiverse
 1 Negate
 2 Negate
@@ -68,31 +68,31 @@
 4 Sea Gate Restoration
 1 Saw It Coming
 2 Saw It Coming
+1 Toski, Bearer of Secrets
+2 Toski, Bearer of Secrets
 2 Soul Shatter
 4 Shark Typhoon
 2 Ugin, the Spirit Dragon
 1 Ashiok, Nightmare Muse
 2 Bloodchief's Thirst
 3 Esika's Chariot
-1 Blightstep Pathway
 1 Riverglide Pathway
+1 Blightstep Pathway
 1 Cragcrown Pathway
 2 Polukranos, Unchained
 4 Valki, God of Lies
 1 Cling to Dust
 3 Negate
 4 Negate
+1 Esika, God of the Tree
 1 Essence Scatter
 2 Essence Scatter
 1 Temple of Mystery
-3 Mazemind Tome
 3 Saw It Coming
-4 Mazemind Tome
+3 Mazemind Tome
 4 Saw It Coming
+4 Mazemind Tome
 5 Swamp
-1 Esika, God of the Tree
-1 Toski, Bearer of Secrets
-2 Toski, Bearer of Secrets
 1 Beanstalk Giant
 3 Ketria Triome
 1 Hagra Mauling
@@ -108,20 +108,22 @@
 2 Beanstalk Giant
 2 Ashiok, Nightmare Muse
 1 Crippling Fear
+1 Snow-Covered Island
 1 Snow-Covered Swamp
 1 Snow-Covered Forest
 1 Blood on the Snow
-1 Snow-Covered Island
-2 Snow-Covered Forest
-2 Snow-Covered Swamp
 2 Snow-Covered Island
-3 Snow-Covered Swamp
+2 Snow-Covered Swamp
+2 Snow-Covered Forest
 3 Snow-Covered Forest
+3 Snow-Covered Swamp
 1 Migration Path
 3 Bloodchief's Thirst
 1 Atris, Oracle of Half-Truths
 3 Koma, Cosmos Serpent
 2 Bala Ged Recovery
+1 Tergrid, God of Fright
+2 Tergrid, God of Fright
 2 Cling to Dust
 2 Esika, God of the Tree
 3 Alrund's Epiphany
@@ -132,48 +134,48 @@
 1 Temple of Malady
 2 Temple of Malady
 3 Temple of Malady
-2 Temple of Mystery
-3 Temple of Mystery
-4 Eliminate
 1 Kogla, the Titan Ape
 2 Migration Path
 3 Tangled Florahedron
 3 Migration Path
 4 Tangled Florahedron
 4 Migration Path
+2 Temple of Mystery
+3 Temple of Mystery
+4 Eliminate
 1 Fae of Wishes
 1 Midnight Clock
 1 Boon of the Wish-Giver
 1 Omen of the Hunt
 2 Fae of Wishes
 2 Omen of the Hunt
+3 Snow-Covered Island
 3 Fae of Wishes
 3 Omen of the Hunt
-3 Snow-Covered Island
-4 Snow-Covered Swamp
 4 Snow-Covered Island
+4 Snow-Covered Swamp
 4 Omen of the Hunt
-1 Hengegate Pathway
-1 Mythos of Nethroi
 1 Brightclimb Pathway
+1 Mythos of Nethroi
 1 Drown in the Loch
+1 Hengegate Pathway
 1 Plains
+2 Brightclimb Pathway
+2 Mythos of Nethroi
+2 Drown in the Loch
 2 Hengegate Pathway
 2 Indatha Triome
-2 Mythos of Nethroi
-2 Brightclimb Pathway
-2 Drown in the Loch
 2 Atris, Oracle of Half-Truths
-3 Hengegate Pathway
-3 Mythos of Nethroi
 3 Brightclimb Pathway
+3 Mythos of Nethroi
 3 Atris, Oracle of Half-Truths
 3 Drown in the Loch
+3 Hengegate Pathway
+4 Brightclimb Pathway
+4 Mythos of Nethroi
+4 Atris, Oracle of Half-Truths
 4 Hengegate Pathway
 4 Bloodchief's Thirst
-4 Mythos of Nethroi
-4 Brightclimb Pathway
-4 Atris, Oracle of Half-Truths
 4 Drown in the Loch
 1 Crawling Barrens
 2 Crawling Barrens

@@ -56,7 +56,9 @@
 1 Nykthos, Shrine to Nyx
 1 Skyclave Apparition
 1 Oust
+1 Temple of Triumph
 1 Plains
+1 Solemnity
 1 Wheel of Sun and Moon
 1 Marsh Flats
 1 Deafening Clarion
@@ -65,15 +67,14 @@
 1 Overwhelming Splendor
 1 Treasure Map
 1 Form of the Dragon
-1 Solemnity
 1 Silence
-1 Temple of Triumph
 1 Mistveil Plains
 1 Enduring Ideal
 1 Lotus Bloom
 1 Phyrexian Unlife
 2 Skyclave Apparition
 2 Silence
+2 Temple of Triumph
 2 Nykthos, Shrine to Nyx
 2 Oust
 2 Sacred Foundry
@@ -81,7 +82,6 @@
 2 Nine Lives
 2 Enduring Ideal
 2 Plains
-2 Temple of Triumph
 2 Phyrexian Unlife
 2 Form of the Dragon
 2 Treasure Map
@@ -213,9 +213,9 @@
 2 Commandeer
 2 Far / Away
 2 Warrant / Warden
-3 Supreme Verdict
 3 Brazen Borrower
 3 Polluted Delta
+3 Supreme Verdict
 4 Brazen Borrower
 4 Force of Negation
 4 Polluted Delta
@@ -317,39 +317,39 @@
 4 Mass Hysteria
 4 Transmogrify
 4 Remand
+1 Aether Hub
+1 Brilliant Ultimatum
 1 Omniscience
 1 Pillar of the Paruns
-1 Brilliant Ultimatum
-1 Aether Hub
 1 Tendo Ice Bridge
 1 Kozilek, Butcher of Truth
 1 Ulamog, the Infinite Gyre
 1 Emrakul, the Promised End
 1 Gemstone Mine
 1 City of Brass
-2 Tibalt's Trickery
-2 Brilliant Ultimatum
-2 Omniscience
-2 Ulamog, the Infinite Gyre
-2 Aether Hub
 2 Kozilek, Butcher of Truth
 2 Pillar of the Paruns
+2 Aether Hub
+2 Omniscience
+2 Brilliant Ultimatum
+2 Ulamog, the Infinite Gyre
+2 Tibalt's Trickery
 2 Tendo Ice Bridge
 2 Emrakul, the Promised End
 2 Gemstone Mine
 2 City of Brass
-3 Brilliant Ultimatum
 3 Omniscience
-3 Ulamog, the Infinite Gyre
 3 Aether Hub
+3 Brilliant Ultimatum
 3 Kozilek, Butcher of Truth
+3 Ulamog, the Infinite Gyre
 3 Pillar of the Paruns
 3 Emrakul, the Promised End
 3 Gemstone Mine
 3 City of Brass
-4 Ulamog, the Infinite Gyre
 4 Aether Hub
 4 Brilliant Ultimatum
+4 Ulamog, the Infinite Gyre
 4 Omniscience
 4 Pillar of the Paruns
 4 Gemstone Mine

@@ -101,7 +101,7 @@
 |                    4|[Curious Obsession](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439692)   |                     |                                                                                                     |
 |                    4|[Nebelgast Herald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414366)    |                     |                                                                                                     |
 |                    4|[Port Town](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410046)           |                     |                                                                                                     |
+|                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|                     |                                                                                                     |
 |                    9|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                     |                                                                                                     |
 |                   10|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                     |                                                                                                     |
-|                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)|                     |                                                                                                     |
 

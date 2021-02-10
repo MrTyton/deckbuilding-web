@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)        |                    1|[Emrakul, the Aeons Torn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397905)|
-|                    1|[Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)|                    2|[Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853)     |
+|                    1|[Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)|                    1|[Emrakul, the Aeons Torn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397905)|
+|                    1|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)        |                    2|[Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853)     |
 |                    2|[Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)|                    1|[Earwig Squad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370530)           |
 |                    4|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)    |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)           |
 |                    1|[Goblin Warchief](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=157934)    |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)           |

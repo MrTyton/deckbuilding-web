@@ -3,7 +3,6 @@
 2 Shock
 3 Spikefield Hazard
 4 Spikefield Hazard
-16 Mountain
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
 1 Valakut Awakening
@@ -47,34 +46,35 @@
 3 Vessel of Volatility
 4 Ugin, the Spirit Dragon
 4 Anger of the Gods
+1 Eidolon of the Great Revel
+2 Eidolon of the Great Revel
 4 Mazemind Tome
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep
 3 Abbot of Keral Keep
 4 Abbot of Keral Keep
+1 Rampaging Ferocidon
+2 Rampaging Ferocidon
+16 Mountain
+1 Shatterskull Smashing
+3 Eidolon of the Great Revel
+1 Chandra, Awakened Inferno
 1 Collective Defiance
 2 Collective Defiance
 3 Collective Defiance
-1 Shatterskull Smashing
-1 Rampaging Ferocidon
-2 Rampaging Ferocidon
-1 Eidolon of the Great Revel
-2 Eidolon of the Great Revel
-1 Chandra, Awakened Inferno
-3 Irencrag Feat
-3 Eidolon of the Great Revel
 3 Shock
+3 Irencrag Feat
+4 Eidolon of the Great Revel
 2 Shatterskull Smashing
 1 Battlefield Forge
 2 Battlefield Forge
 3 Battlefield Forge
-4 Collective Defiance
-4 Eidolon of the Great Revel
 2 Golos, Tireless Pilgrim
 1 Castle Embereth
 1 Kari Zev, Skyship Raider
 2 Kari Zev, Skyship Raider
 3 Kari Zev, Skyship Raider
+4 Collective Defiance
 1 Radiant Fountain
 1 Goblin Chainwhirler
 1 Torbran, Thane of Red Fell
@@ -92,34 +92,23 @@
 3 Goblin Chainwhirler
 4 Burning-Tree Emissary
 4 Vessel of Volatility
+1 Skewer the Critics
+2 Skewer the Critics
+4 Shock
 3 Golos, Tireless Pilgrim
 1 Roiling Vortex
 2 Scavenger Grounds
 1 Emrakul, the Promised End
-1 Abrade
 1 Sanctum of Ugin
+1 Abrade
 1 Ugin, the Ineffable
 1 Shrine of the Forsaken Gods
 1 Ulamog, the Ceaseless Hunger
 1 Solemn Simulacrum
 2 Solemn Simulacrum
-3 Shatterskull Smashing
-1 Skewer the Critics
-2 Skewer the Critics
 2 Roiling Vortex
-4 Shock
-1 Reality Smasher
-2 Reality Smasher
-2 Blast Zone
-2 Chandra, Awakened Inferno
-3 Reality Smasher
-3 Blast Zone
-3 Scavenger Grounds
-3 Chandra, Awakened Inferno
-4 Reality Smasher
-4 Blast Zone
-4 Scavenger Grounds
-4 Chandra, Awakened Inferno
+3 Shatterskull Smashing
+3 Skewer the Critics
 1 Mutavault
 1 Rekindling Phoenix
 1 Incendiary Flow
@@ -135,3 +124,15 @@
 3 Castle Embereth
 3 Anax, Hardened in the Forge
 4 Anax, Hardened in the Forge
+1 Reality Smasher
+2 Reality Smasher
+2 Blast Zone
+2 Chandra, Awakened Inferno
+3 Reality Smasher
+3 Blast Zone
+3 Scavenger Grounds
+3 Chandra, Awakened Inferno
+4 Reality Smasher
+4 Blast Zone
+4 Scavenger Grounds
+4 Chandra, Awakened Inferno
