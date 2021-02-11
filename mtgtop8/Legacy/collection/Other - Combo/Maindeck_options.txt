@@ -11,25 +11,25 @@
 1 Daze
 2 Daze
 3 Daze
+1 Ruin Crab
 1 Glimpse the Unthinkable
 1 Visions of Beyond
 1 Surgical Extraction
 1 Archive Trap
 1 Hedron Crab
-1 Ruin Crab
+2 Ruin Crab
 2 Surgical Extraction
 2 Visions of Beyond
 2 Hedron Crab
-2 Ruin Crab
 2 Glimpse the Unthinkable
 2 Archive Trap
+3 Ruin Crab
 3 Hedron Crab
 3 Glimpse the Unthinkable
-3 Ruin Crab
 3 Visions of Beyond
 3 Archive Trap
-4 Polluted Delta
 4 Ruin Crab
+4 Polluted Delta
 4 Archive Trap
 4 Hedron Crab
 1 Island
@@ -124,7 +124,6 @@
 4 Mana Confluence
 1 Griselbrand
 3 Tropical Island
-1 Birds of Paradise
 1 Uro, Titan of Nature's Wrath
 1 Bayou
 1 Abrupt Decay
@@ -132,6 +131,7 @@
 1 Kira, Great Glass-Spinner
 1 Mesmeric Fiend
 1 Baleful Strix
+1 Birds of Paradise
 1 Plague Engineer
 1 Divining Witch
 1 Fauna Shaman
@@ -161,8 +161,8 @@
 1 Thieves' Guild Enforcer
 1 Brain Freeze
 2 Drown in the Loch
-2 Thieves' Guild Enforcer
 2 Bitterblossom
+2 Thieves' Guild Enforcer
 2 Brain Freeze
 3 Underground Sea
 3 Thieves' Guild Enforcer
@@ -173,7 +173,6 @@
 2 Summoner's Pact
 3 Summoner's Pact
 4 Summoner's Pact
-1 Xantid Swarm
 1 Children of Korlis
 1 Laboratory Maniac
 1 Neoform
@@ -184,10 +183,11 @@
 1 Nourishing Shoal
 1 Chancellor of the Tangle
 1 Once Upon a Time
+1 Xantid Swarm
 2 Waterlogged Grove
-2 Xantid Swarm
 2 Allosaurus Rider
 2 Chancellor of the Tangle
+2 Xantid Swarm
 2 Neoform
 2 Once Upon a Time
 2 Allosaurus Shepherd

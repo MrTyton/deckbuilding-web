@@ -106,15 +106,15 @@
 3 Extinction Event
 1 In Search of Greatness
 1 Doomskar
-1 Setessan Champion
 1 Tergrid, God of Fright
-2 Tergrid, God of Fright
+1 Setessan Champion
 2 Garruk, Cursed Huntsman
+2 Tergrid, God of Fright
 2 Doomskar
 2 Setessan Champion
 3 Eliminate
-3 Tergrid, God of Fright
 3 Setessan Champion
+3 Tergrid, God of Fright
 3 Eerie Ultimatum
 4 Tergrid, God of Fright
 1 Firja's Retribution
@@ -135,8 +135,8 @@
 1 Chevill, Bane of Monsters
 1 Skull Prophet
 1 Mire Triton
-2 Yasharn, Implacable Earth
 2 Lotus Cobra
+2 Yasharn, Implacable Earth
 2 Acolyte of Affliction
 2 Mire Triton
 5 Swamp
@@ -179,12 +179,12 @@
 1 Riverglide Pathway
 1 Thirst for Meaning
 1 Fae of Wishes
-1 Dismal Backwater
+1 Sanctum of Calm Waters
 1 Bloodfell Caves
+1 Dismal Backwater
 1 Thornwood Falls
 1 Sanctum of Shattered Heights
 1 Sanctum of All
-1 Sanctum of Calm Waters
 1 Sanctum of Stone Fangs
 1 Clearwater Pathway
 1 Sanctum of Tranquil Light
@@ -203,9 +203,9 @@
 2 Sanctum of Stone Fangs
 2 Sanctum of Calm Waters
 2 Clearwater Pathway
-3 Fae of Wishes
 3 Bloodchief's Thirst
 3 Sanctum of Stone Fangs
+3 Fae of Wishes
 3 Sanctum of Calm Waters
 3 Sanctum of Tranquil Light
 3 Sanctum of Fruitful Harvest
@@ -282,13 +282,13 @@
 15 Island
 16 Island
 1 Silundi Vision
-1 Hypnotic Sprite
 1 Lofty Denial
 1 Jwari Disruption
 1 Sublime Epiphany
 1 Field of Ruin
 1 Neutralize
 1 Kiora Bests the Sea God
+1 Hypnotic Sprite
 1 Rain of Revelation
 1 Gadwick, the Wizened
 1 Essence Scatter
@@ -296,22 +296,22 @@
 1 Castle Vantress
 1 Shark Typhoon
 1 Brazen Borrower
-2 Hypnotic Sprite
 2 Gadwick, the Wizened
 2 Neutralize
 2 Rain of Revelation
-2 Essence Scatter
+2 Hypnotic Sprite
 2 Rewind
+2 Essence Scatter
 2 Shark Typhoon
 2 Brazen Borrower
 2 Castle Vantress
-3 Rewind
 3 Neutralize
+3 Rewind
 3 Shark Typhoon
 3 Castle Vantress
 3 Brazen Borrower
-4 Rewind
 4 Neutralize
+4 Rewind
 4 Shark Typhoon
 4 Castle Vantress
 4 Brazen Borrower
@@ -329,17 +329,18 @@
 6 Mountain
 7 Mountain
 1 Ruin Crab
+1 Teferi's Tutelage
 1 Merfolk Secretkeeper
 1 Evolving Wilds
-1 Teferi's Tutelage
 1 Didn't Say Please
 1 Into the Story
+1 Relic Golem
 1 Negate
 1 Stern Dismissal
-1 Relic Golem
 1 Anticognition
 2 Didn't Say Please
 2 Ruin Crab
+2 Teferi's Tutelage
 2 Merfolk Secretkeeper
 2 Evolving Wilds
 2 Into the Story
@@ -347,21 +348,20 @@
 2 Negate
 2 Anticognition
 2 Stern Dismissal
-2 Teferi's Tutelage
 3 Didn't Say Please
-3 Evolving Wilds
 3 Merfolk Secretkeeper
-3 Stern Dismissal
-3 Ruin Crab
-3 Relic Golem
+3 Evolving Wilds
 3 Teferi's Tutelage
+3 Stern Dismissal
+3 Relic Golem
+3 Ruin Crab
 3 Anticognition
 3 Into the Story
+4 Evolving Wilds
+4 Teferi's Tutelage
 4 Didn't Say Please
 4 Merfolk Secretkeeper
-4 Teferi's Tutelage
-4 Ruin Crab
-4 Evolving Wilds
 4 Relic Golem
+4 Ruin Crab
 17 Island
 18 Island

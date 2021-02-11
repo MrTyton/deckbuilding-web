@@ -1,117 +1,17 @@
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
-4 Snow-Covered Mountain
-5 Snow-Covered Mountain
-6 Snow-Covered Mountain
-7 Snow-Covered Mountain
-8 Snow-Covered Mountain
-9 Snow-Covered Mountain
-10 Snow-Covered Mountain
-11 Snow-Covered Mountain
-3 Anger of the Gods
-13 Mountain
-1 Rift Bolt
-1 Lava Spike
-1 Lightning Bolt
-1 Monastery Swiftspear
-1 Skewer the Critics
-1 Shard Volley
-1 Goblin Guide
-2 Goblin Guide
-2 Lava Spike
-2 Monastery Swiftspear
-2 Lightning Bolt
-2 Skewer the Critics
-2 Rift Bolt
-3 Goblin Guide
-3 Lava Spike
-3 Lightning Bolt
-3 Skewer the Critics
-3 Monastery Swiftspear
-3 Rift Bolt
-4 Rift Bolt
-4 Goblin Guide
-4 Lightning Bolt
-4 Lava Spike
-4 Monastery Swiftspear
-4 Skewer the Critics
-14 Mountain
-15 Mountain
-16 Mountain
-17 Mountain
-1 Skullcrack
-2 Skullcrack
-1 Goblin Rabblemaster
-2 Goblin Rabblemaster
-3 Goblin Rabblemaster
-4 Goblin Rabblemaster
-1 Wayward Guide-Beast
-2 Wayward Guide-Beast
-3 Wayward Guide-Beast
-4 Wayward Guide-Beast
-1 Zhalfirin Void
-2 Zhalfirin Void
-1 Searing Blaze
-2 Searing Blaze
-2 Shard Volley
-1 Eidolon of the Great Revel
-2 Eidolon of the Great Revel
-3 Skullcrack
-3 Eidolon of the Great Revel
-4 Skullcrack
-4 Eidolon of the Great Revel
-1 Abrade
-3 Searing Blaze
-18 Mountain
-3 Shard Volley
 4 Shard Volley
 1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
 4 Light Up the Stage
-2 Abrade
-12 Snow-Covered Mountain
-13 Snow-Covered Mountain
-14 Snow-Covered Mountain
 1 Grim Lavamancer
-3 Abrade
-4 Karn, the Great Creator
-4 Ramunap Ruins
-1 Mazemind Tome
-1 Chandra, Heart of Fire
-2 Mazemind Tome
-4 Seasoned Pyromancer
 4 Searing Blaze
-1 Kozilek's Return
 2 Grim Lavamancer
-1 Sweltering Suns
-2 Sweltering Suns
-3 Sweltering Suns
-1 Blast Zone
-1 Chandra, Awakened Inferno
-1 Chandra, Acolyte of Flame
-1 Chandra's Regulator
-2 Chandra, Heart of Fire
-2 Chandra, Acolyte of Flame
-2 Chandra's Regulator
-4 Ensnaring Bridge
-1 Emrakul, the Aeons Torn
-1 Lukka, Coppercoat Outcast
-1 Planebound Accomplice
-2 Emrakul, the Aeons Torn
-2 Lukka, Coppercoat Outcast
-2 Planebound Accomplice
-3 Lukka, Coppercoat Outcast
-3 Planebound Accomplice
-4 Lukka, Coppercoat Outcast
-4 Planebound Accomplice
 1 Sunbaked Canyon
 1 Blackcleave Cliffs
+1 Blood Crypt
 1 Arid Mesa
 1 Bloodstained Mire
 1 Scalding Tarn
-1 Blood Crypt
 1 Bump in the Night
 2 Blood Crypt
 2 Scalding Tarn
@@ -121,8 +21,8 @@
 2 Blackcleave Cliffs
 3 Sunbaked Canyon
 3 Scalding Tarn
-3 Blackcleave Cliffs
 3 Bump in the Night
+3 Blackcleave Cliffs
 3 Blood Crypt
 4 Sunbaked Canyon
 4 Bump in the Night
@@ -130,16 +30,9 @@
 2 Forked Bolt
 3 Forked Bolt
 4 Forked Bolt
-1 Grove of the Burnwillows
-2 Grove of the Burnwillows
-3 Mazemind Tome
-3 Grove of the Burnwillows
-3 Zhalfirin Void
-4 Grove of the Burnwillows
-4 Zhalfirin Void
 1 Seal of Fire
-1 Soul-Scar Mage
 1 Chandra's Incinerator
+1 Soul-Scar Mage
 2 Seal of Fire
 2 Chandra's Incinerator
 2 Soul-Scar Mage

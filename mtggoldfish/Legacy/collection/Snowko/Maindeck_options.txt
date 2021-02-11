@@ -38,8 +38,8 @@
 3 Flooded Strand
 4 Prismatic Vista
 3 Force of Negation
-1 Ramunap Excavator
 1 Bojuka Bog
+1 Ramunap Excavator
 1 Scavenging Ooze
 4 Verdant Catacombs
 1 Savannah
@@ -78,17 +78,17 @@
 3 Noble Hierarch
 4 Noble Hierarch
 1 Counterbalance
-2 Pyroblast
 2 Counterbalance
+2 Pyroblast
 2 Hullbreacher
-1 Preordain
 1 Stifle
+1 Preordain
+1 Scalding Tarn
 1 Dreadhorde Arcanist
 1 Lightning Bolt
-1 Scalding Tarn
 2 Lightning Bolt
-2 Volcanic Island
 2 Scalding Tarn
+2 Volcanic Island
 3 Lightning Bolt
 3 Scalding Tarn
 4 Lightning Bolt
@@ -96,11 +96,6 @@
 1 Jolrael, Mwonvuli Recluse
 2 Snow-Covered Swamp
 3 Sylvan Library
-1 Knight of the Reliquary
-1 Utopia Sprawl
-2 Utopia Sprawl
-3 Utopia Sprawl
-4 Utopia Sprawl
 1 Narset, Parter of Veils
 1 Bloodbraid Elf
 1 Lavinia, Azorius Renegade
@@ -111,8 +106,13 @@
 2 Karakas
 2 Path to Exile
 3 Thoughtseize
-4 Leovold, Emissary of Trest
 4 Thoughtseize
+4 Leovold, Emissary of Trest
+1 Utopia Sprawl
+1 Knight of the Reliquary
+2 Utopia Sprawl
+3 Utopia Sprawl
+4 Utopia Sprawl
 1 Leyline of the Void
 1 Breeding Pool
 1 Watery Grave
@@ -123,12 +123,12 @@
 1 Back to Basics
 1 Kaya, Orzhov Usurper
 2 Ancestral Vision
-1 Drown in the Loch
-1 Jace, the Mind Sculptor
-1 Hymn to Tourach
 1 Snapcaster Mage
-2 Snapcaster Mage
+1 Jace, the Mind Sculptor
+1 Drown in the Loch
+1 Hymn to Tourach
 2 Hymn to Tourach
+2 Snapcaster Mage
 1 Kolaghan's Command
 2 Kolaghan's Command
 2 Stifle
