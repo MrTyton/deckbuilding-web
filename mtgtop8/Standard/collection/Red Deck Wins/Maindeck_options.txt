@@ -3,8 +3,14 @@
 1 Phoenix of Ash
 1 Shock
 2 Shock
-3 Shatterskull Smashing
+19 Snow-Covered Mountain
+1 Dragonkin Berserker
+2 Dragonkin Berserker
+3 Dragonkin Berserker
 3 Torbran, Thane of Red Fell
+3 Goldspan Dragon
+3 Shatterskull Smashing
+3 Shock
 1 Mountain
 2 Mountain
 3 Mountain
@@ -20,37 +26,27 @@
 13 Mountain
 14 Mountain
 15 Mountain
-1 Dragonkin Berserker
-2 Dragonkin Berserker
-3 Dragonkin Berserker
-3 Goldspan Dragon
-2 Phoenix of Ash
-3 Shock
-16 Mountain
 1 Opportunistic Dragon
 2 Opportunistic Dragon
 3 Opportunistic Dragon
 4 Opportunistic Dragon
 4 Dragonkin Berserker
-19 Snow-Covered Mountain
+3 Faceless Haven
 1 Fearless Pup
 2 Fearless Pup
 1 Spikefield Hazard
-1 The Akroan War
-1 Akoum Hellhound
-2 Akoum Hellhound
-3 Akoum Hellhound
 4 Shock
 1 Magda, Brazen Outlaw
+2 Phoenix of Ash
 3 Phoenix of Ash
 4 Torbran, Thane of Red Fell
-17 Mountain
+16 Mountain
 1 Demon Bolt
 2 Demon Bolt
 2 Spikefield Hazard
 1 Heraldic Banner
-1 Birgi, God of Storytelling
 1 Dwarven Mine
+1 Birgi, God of Storytelling
 1 Infuriate
 1 Weaponize the Monsters
 1 Tuskeri Firewalker
@@ -62,37 +58,36 @@
 2 Tuskeri Firewalker
 3 Heraldic Banner
 3 Dwarven Mine
-3 Demon Bolt
 3 Tuskeri Firewalker
 3 Fearless Pup
 3 Weaponize the Monsters
+3 Demon Bolt
 3 Goblin Arsonist
-4 Demon Bolt
 4 Heraldic Banner
 4 Fearless Pup
+4 Demon Bolt
 4 Goblin Arsonist
-3 Faceless Haven
 4 Faceless Haven
+1 The Akroan War
 2 The Akroan War
-4 Akoum Hellhound
 2 Magda, Brazen Outlaw
 3 Magda, Brazen Outlaw
-4 Goldspan Dragon
 4 Phoenix of Ash
+4 Goldspan Dragon
+1 Akoum Hellhound
 1 Ox of Agonas
+2 Akoum Hellhound
+3 Akoum Hellhound
 1 Relic Robber
 2 Relic Robber
 1 Arni Brokenbrow
 1 Chandra, Heart of Fire
 1 Kargan Intimidator
 2 Kargan Intimidator
-1 Fabled Passage
+17 Mountain
 1 Roil Eruption
+1 Fabled Passage
 2 Roil Eruption
-1 Kazuul's Fury
-1 Valakut Exploration
-1 Terror of the Peaks
-3 Spikefield Hazard
 1 Slaying Fire
 2 Slaying Fire
 3 Slaying Fire
@@ -102,15 +97,20 @@
 2 Dwarven Reinforcements
 3 Dwarven Reinforcements
 4 Shatterskull Smashing
+1 Soul Sear
+2 Soul Sear
+3 Relic Robber
+4 Magda, Brazen Outlaw
 1 Wayward Guide-Beast
 2 Wayward Guide-Beast
 3 Wayward Guide-Beast
 3 The Akroan War
 4 The Akroan War
-1 Soul Sear
-2 Soul Sear
-3 Relic Robber
-4 Magda, Brazen Outlaw
+1 Kazuul's Fury
+1 Valakut Exploration
+1 Terror of the Peaks
+3 Spikefield Hazard
+4 Akoum Hellhound
 20 Snow-Covered Mountain
 2 Chandra, Heart of Fire
 3 Kargan Intimidator

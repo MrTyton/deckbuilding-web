@@ -1,5 +1,12 @@
+3 Fatal Push
+4 Fatal Push
+3 Shark Typhoon
+1 Sinister Sabotage
+1 Censor
+2 Sinister Sabotage
 2 Censor
 3 Sinister Sabotage
+1 Nissa, Who Shakes the World
 1 Zagoth Triome
 1 Abrupt Decay
 1 Breeding Pool
@@ -7,20 +14,13 @@
 1 Forest
 2 Zagoth Triome
 2 Breeding Pool
-2 Uro, Titan of Nature's Wrath
-3 Uro, Titan of Nature's Wrath
-1 Collective Brutality
-1 Yahenni's Expertise
-1 Kalitas, Traitor of Ghet
-3 Bloodchief's Thirst
-3 Clearwater Pathway
-4 Bloodchief's Thirst
-1 Nissa, Who Shakes the World
 2 Negate
+2 Uro, Titan of Nature's Wrath
 2 Abrupt Decay
 2 Nissa, Who Shakes the World
 3 Breeding Pool
 3 Zagoth Triome
+3 Uro, Titan of Nature's Wrath
 4 Zagoth Triome
 1 Castle Vantress
 3 Censor
@@ -31,8 +31,6 @@
 2 Chemister's Insight
 1 Castle Locthwain
 4 Shark Typhoon
-2 Forest
-4 Uro, Titan of Nature's Wrath
 4 Sinister Sabotage
 1 Commit/Memory
 1 Jwari Disruption
@@ -45,13 +43,15 @@
 4 Censor
 4 Breeding Pool
 3 Narset, Parter of Veils
+2 Forest
+4 Uro, Titan of Nature's Wrath
 1 Eliminate
 4 Drowned Catacomb
 1 Extinction Event
+1 Ashiok, Nightmare Muse
 1 Growth Spiral
 1 Woodland Cemetery
 2 Growth Spiral
-1 Ashiok, Nightmare Muse
 2 Castle Vantress
 2 Extinction Event
 2 Woodland Cemetery
@@ -77,25 +77,3 @@
 3 Fetid Pools
 4 Dig Through Time
 4 Watery Grave
-1 Emrakul, the Promised End
-1 Blooming Marsh
-1 Satyr Wayfinder
-1 Discovery/Dispersal
-1 Liliana, the Last Hope
-1 Hydroid Krasis
-1 Traverse the Ulvenwald
-1 Murderous Rider
-1 Soul-Guide Lantern
-2 Satyr Wayfinder
-2 Emrakul, the Promised End
-2 Blooming Marsh
-2 Traverse the Ulvenwald
-2 Discovery/Dispersal
-3 Growth Spiral
-3 Satyr Wayfinder
-3 Blooming Marsh
-3 Traverse the Ulvenwald
-4 Growth Spiral
-4 Satyr Wayfinder
-4 Traverse the Ulvenwald
-4 Blooming Marsh

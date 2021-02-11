@@ -1,25 +1,25 @@
-2 Relic of Progenitus
-1 Oust
-1 Dispel
-2 Dovin's Veto
 2 Ashiok, Dream Render
-1 Ceremonious Rejection
 2 Oust
+2 Dovin's Veto
+1 Relic of Progenitus
+2 Relic of Progenitus
+1 Ceremonious Rejection
+1 Dispel
 1 Anger of the Gods
-1 Abrade
 2 Flusterstorm
 1 Nexus of Fate
 2 Anger of the Gods
-1 Cleansing Wildfire
-2 Cleansing Wildfire
-1 Wrath of God
-3 Cleansing Wildfire
+2 Ceremonious Rejection
+1 Abrade
 1 Rest in Peace
 2 Rest in Peace
+1 Wrath of God
+1 Cleansing Wildfire
+2 Cleansing Wildfire
+3 Cleansing Wildfire
 1 Spell Queller
 2 Spell Queller
 3 Spell Queller
-2 Ceremonious Rejection
 1 Lightning Helix
 1 Monastery Mentor
 2 Monastery Mentor
@@ -38,16 +38,14 @@
 3 Relic of Progenitus
 1 Dragon's Claw
 1 Settle the Wreckage
-1 Madcap Experiment
+2 Engineered Explosives
 1 Platinum Emperion
+1 Madcap Experiment
 2 Madcap Experiment
 2 Platinum Emperion
 3 Madcap Experiment
 4 Madcap Experiment
-1 Entrancing Melody
-2 Engineered Explosives
 2 Dispel
-1 Nihil Spellbomb
 1 Sword of Fire and Ice
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
@@ -58,45 +56,47 @@
 2 Vendilion Clique
 2 Flame Slash
 2 Wurmcoil Engine
-3 Vendilion Clique
 3 Flame Slash
 3 Flusterstorm
 3 Wurmcoil Engine
+3 Vendilion Clique
 1 Shadow of Doubt
 1 Luminarch Ascension
 3 Rest in Peace
 4 Cleansing Wildfire
 1 Ral, Izzet Viceroy
-1 Negate
-1 Burst Lightning
-1 Crumble to Dust
-2 Abrade
+1 Kor Firewalker
+2 Kor Firewalker
 1 Boil
 2 Boil
+1 Spell Pierce
+1 Entrancing Melody
+2 Abrade
 2 Dragon's Claw
 3 Tale's End
 1 Supreme Verdict
+1 Burst Lightning
+1 Crumble to Dust
+1 Nihil Spellbomb
 2 Nihil Spellbomb
-1 Damnation
-1 Thoughtseize
 2 Surgical Extraction
+1 Grafdigger's Cage
+1 Negate
 1 Glimpse of Freedom
 1 Shenanigans
 1 Archmage's Charm
 1 Stony Silence
 1 Wheel of Sun and Moon
 1 Hallowed Moonlight
-1 Teferi's Puzzle Box
-1 Eliminate
-1 Field of Ruin
 1 Yidaro, Wandering Monster
 2 Yidaro, Wandering Monster
+1 Damnation
+1 Thoughtseize
 1 Spell Snare
-2 Thoughtseize
 2 Damnation
+2 Thoughtseize
 1 Geist of Saint Traft
 2 Geist of Saint Traft
-2 Negate
 1 Disdainful Stroke
 2 Entrancing Melody
 1 Kaya's Guile
@@ -110,17 +110,17 @@
 1 Gideon of the Trials
 2 Chandra, Awakened Inferno
 2 Gideon of the Trials
-1 Spell Pierce
-2 Spell Pierce
-3 Boil
-1 Cling to Dust
-3 Nihil Spellbomb
-3 Ashiok, Dream Render
 1 Ashiok's Erasure
 2 Ashiok's Erasure
 3 Ashiok's Erasure
-1 Force of Negation
-3 Monastery Mentor
 1 Shark Typhoon
 2 Shark Typhoon
 3 Dragon's Claw
+2 Spell Pierce
+3 Boil
+3 Ashiok, Dream Render
+1 Force of Negation
+3 Monastery Mentor
+3 Engineered Explosives
+1 Cling to Dust
+3 Nihil Spellbomb

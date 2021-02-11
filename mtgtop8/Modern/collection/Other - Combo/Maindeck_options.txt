@@ -5,12 +5,12 @@
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
+1 Bala Ged Recovery
 1 Valakut Awakening
 1 Recross the Paths
 1 Manamorphose
 1 Reforge the Soul
 1 Desperate Ritual
-1 Bala Ged Recovery
 1 Pyretic Ritual
 1 Irencrag Feat
 1 Spikefield Hazard
@@ -57,6 +57,7 @@
 1 Skyclave Apparition
 1 Oust
 1 Plains
+1 Temple of Triumph
 1 Wheel of Sun and Moon
 1 Marsh Flats
 1 Deafening Clarion
@@ -67,21 +68,20 @@
 1 Form of the Dragon
 1 Solemnity
 1 Silence
-1 Temple of Triumph
 1 Mistveil Plains
 1 Enduring Ideal
 1 Lotus Bloom
 1 Phyrexian Unlife
+2 Silence
 2 Skyclave Apparition
 2 Nykthos, Shrine to Nyx
 2 Oust
+2 Temple of Triumph
 2 Sacred Foundry
 2 Marsh Flats
 2 Nine Lives
 2 Enduring Ideal
 2 Plains
-2 Silence
-2 Temple of Triumph
 2 Phyrexian Unlife
 2 Form of the Dragon
 2 Treasure Map
@@ -181,16 +181,44 @@
 1 Talisman of Hierarchy
 1 Talisman of Curiosity
 2 Thoughtseize
-2 Deafening Clarion
-3 Temple of Triumph
 1 Lovestruck Beast
 2 Lovestruck Beast
 2 Swamp
 3 Lovestruck Beast
+2 Deafening Clarion
+3 Temple of Triumph
+1 Murderous Rider
+1 Snow-Covered Swamp
+1 Prismatic Vista
+2 Murderous Rider
+2 Prismatic Vista
+4 Magus of the Moon
 1 Emrakul, the Aeons Torn
 2 Emrakul, the Aeons Torn
 1 Mana Confluence
 2 Mana Confluence
+1 Polluted Delta
+2 Polluted Delta
+1 Savai Triome
+1 Supreme Verdict
+1 Zagoth Triome
+1 Reflecting Pool
+1 Commandeer
+1 Warrant / Warden
+1 Bonecrusher Giant
+1 Brazen Borrower
+1 Far / Away
+2 Supreme Verdict
+2 Commandeer
+2 Far / Away
+2 Brazen Borrower
+2 Warrant / Warden
+3 Brazen Borrower
+3 Polluted Delta
+3 Supreme Verdict
+4 Brazen Borrower
+4 Force of Negation
+4 Polluted Delta
 1 Mountain
 2 Mountain
 1 Tibalt's Trickery
@@ -220,50 +248,22 @@
 1 Grove of the Burnwillows
 1 Radiant Fountain
 1 Bojuka Bog
-2 Grove of the Burnwillows
 2 Field of the Dead
 2 Valakut, the Molten Pinnacle
+2 Grove of the Burnwillows
 2 Gruul Turf
 2 Castle Garenbrig
 2 Tolaria West
 2 Snow-Covered Forest
 2 Simic Growth Chamber
-3 Grove of the Burnwillows
 3 Tolaria West
 3 Gruul Turf
+3 Grove of the Burnwillows
 3 Forest
 3 Simic Growth Chamber
 3 Castle Garenbrig
-4 Grove of the Burnwillows
 4 Gruul Turf
-1 Murderous Rider
-1 Snow-Covered Swamp
-1 Prismatic Vista
-2 Murderous Rider
-2 Prismatic Vista
-4 Magus of the Moon
-1 Polluted Delta
-2 Polluted Delta
-1 Savai Triome
-1 Supreme Verdict
-1 Zagoth Triome
-1 Reflecting Pool
-1 Commandeer
-1 Warrant / Warden
-1 Bonecrusher Giant
-1 Brazen Borrower
-1 Far / Away
-2 Supreme Verdict
-2 Commandeer
-2 Far / Away
-2 Brazen Borrower
-2 Warrant / Warden
-3 Brazen Borrower
-3 Supreme Verdict
-3 Polluted Delta
-4 Brazen Borrower
-4 Force of Negation
-4 Polluted Delta
+4 Grove of the Burnwillows
 1 Mystic Sanctuary
 1 Uro, Titan of Nature's Wrath
 1 Cryptic Command
@@ -284,20 +284,20 @@
 4 Misty Rainforest
 4 Teferi, Time Raveler
 1 Opt
-1 Dwarven Mine
 1 Mass Hysteria
 1 Izzet Charm
-1 Delay
 1 Transmogrify
 1 Lightning Bolt
 1 Polymorph
 1 Remand
+1 Dwarven Mine
+1 Delay
 1 Bloodstained Mire
 2 Opt
-2 Dwarven Mine
 2 Delay
 2 Izzet Charm
 2 Bloodstained Mire
+2 Dwarven Mine
 2 Mass Hysteria
 2 Remand
 2 Transmogrify
@@ -305,11 +305,11 @@
 2 Polymorph
 3 Arid Mesa
 3 Opt
-3 Dwarven Mine
 3 Remand
 3 Lightning Bolt
 3 Polymorph
 3 Transmogrify
+3 Dwarven Mine
 3 Mass Hysteria
 4 Arid Mesa
 4 Lightning Bolt
@@ -356,47 +356,6 @@
 4 City of Brass
 1 Underworld Breach
 2 Snow-Covered Island
-1 Snow-Covered Mountain
-1 Engineered Explosives
-1 Thassa's Oracle
-1 Minamo, School at Water's Edge
-1 Sai, Master Thopterist
-1 Metallic Rebuke
-1 Grinding Station
-1 Chromatic Star
-1 Lurrus of the Dream-Den
-1 Fiery Islet
-1 Emry, Lurker of the Loch
-1 Mishra's Bauble
-1 Mox Amber
-2 Lurrus of the Dream-Den
-2 Underworld Breach
-2 Snow-Covered Plains
-2 Engineered Explosives
-2 Metallic Rebuke
-2 Emry, Lurker of the Loch
-2 Grinding Station
-2 Mishra's Bauble
-2 Chromatic Star
-2 Mox Amber
-3 Underworld Breach
-3 Lurrus of the Dream-Den
-3 Metallic Rebuke
-3 Mox Amber
-3 Engineered Explosives
-3 Chromatic Star
-3 Grinding Station
-3 Emry, Lurker of the Loch
-3 Mishra's Bauble
-4 Metallic Rebuke
-4 Underworld Breach
-4 Mox Amber
-4 Chromatic Star
-4 Grinding Station
-4 Mishra's Bauble
-4 Emry, Lurker of the Loch
-3 Skyclave Apparition
-7 Plains
 1 Lotus Field
 1 Peer Through Depths
 1 Wishclaw Talisman
@@ -446,3 +405,44 @@
 4 Ideas Unbound
 4 Psychic Puppetry
 4 Dream's Grip
+3 Skyclave Apparition
+7 Plains
+1 Snow-Covered Mountain
+1 Engineered Explosives
+1 Thassa's Oracle
+1 Sai, Master Thopterist
+1 Minamo, School at Water's Edge
+1 Metallic Rebuke
+1 Grinding Station
+1 Chromatic Star
+1 Lurrus of the Dream-Den
+1 Fiery Islet
+1 Emry, Lurker of the Loch
+1 Mishra's Bauble
+1 Mox Amber
+2 Lurrus of the Dream-Den
+2 Snow-Covered Plains
+2 Engineered Explosives
+2 Metallic Rebuke
+2 Emry, Lurker of the Loch
+2 Grinding Station
+2 Mishra's Bauble
+2 Underworld Breach
+2 Chromatic Star
+2 Mox Amber
+3 Lurrus of the Dream-Den
+3 Metallic Rebuke
+3 Mox Amber
+3 Engineered Explosives
+3 Chromatic Star
+3 Grinding Station
+3 Emry, Lurker of the Loch
+3 Mishra's Bauble
+3 Underworld Breach
+4 Metallic Rebuke
+4 Mox Amber
+4 Chromatic Star
+4 Grinding Station
+4 Mishra's Bauble
+4 Emry, Lurker of the Loch
+4 Underworld Breach
