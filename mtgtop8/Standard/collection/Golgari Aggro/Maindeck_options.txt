@@ -3,6 +3,7 @@
 1 Behold the Multiverse
 1 Sarulf, Realm Eater
 1 Frantic Inventory
+1 Feed the Serpent
 1 Port of Karfell
 1 Thrashing Brontodon
 1 Feed the Swarm
@@ -11,27 +12,26 @@
 1 Ashiok, Nightmare Muse
 1 Sarulf's Packmate
 1 Chainweb Aracnir
-1 Feed the Serpent
 2 Behold the Multiverse
 2 Frantic Inventory
 2 Port of Karfell
+2 Feed the Serpent
 2 Thrashing Brontodon
 2 Poison the Cup
 2 Feed the Swarm
 2 Elspeth's Nightmare
 2 Chainweb Aracnir
 2 Sarulf's Packmate
-2 Feed the Serpent
 3 Chainweb Aracnir
 3 Snow-Covered Island
 3 Behold the Multiverse
 3 Frantic Inventory
 4 Frantic Inventory
-1 Thassa, Deep-Dwelling
-4 Acolyte of Affliction
 1 Brokkos, Apex of Forever
 2 Cling to Dust
 4 Ice Tunnel
+1 Thassa, Deep-Dwelling
+4 Acolyte of Affliction
 1 Temple of Malady
 1 Bloodchief's Thirst
 1 Fabled Passage
@@ -45,8 +45,8 @@
 2 Kazandu Mammoth
 2 Swamp
 2 The Great Henge
-3 Forest
 3 Temple of Malady
+3 Forest
 4 Temple of Malady
 4 Forest
 1 Darkbore Pathway
@@ -56,20 +56,20 @@
 1 Elder Gargaroth
 1 Primal Might
 1 Foulmire Knight
-1 Rankle, Master of Pranks
 1 Ram Through
+1 Rankle, Master of Pranks
 1 Edgewall Innkeeper
 1 Lovestruck Beast
 1 Murderous Rider
 2 Darkbore Pathway
+2 Chevill, Bane of Monsters
 2 Primal Might
 2 Jolrael, Mwonvuli Recluse
 2 Foulmire Knight
-2 Rankle, Master of Pranks
 2 Elder Gargaroth
-2 Chevill, Bane of Monsters
 2 Lovestruck Beast
 2 Murderous Rider
+2 Rankle, Master of Pranks
 2 Edgewall Innkeeper
 3 Darkbore Pathway
 3 Foulmire Knight
@@ -87,11 +87,11 @@
 5 Swamp
 6 Swamp
 7 Swamp
-1 Harald, King of Skemfar
 1 Grasp of Darkness
 1 Realmwalker
 1 Wolfwillow Haven
 1 Skemfar Avenger
+1 Harald, King of Skemfar
 1 Return Upon the Tide
 1 Boreal Outrider
 1 Thornmantle Striker
@@ -99,16 +99,16 @@
 1 Greater Sandwurm
 1 Joraga Visionary
 2 Wolfwillow Haven
-2 Harald, King of Skemfar
 2 Grasp of Darkness
+2 Harald, King of Skemfar
 2 Boreal Outrider
 2 Joraga Visionary
 3 Wolfwillow Haven
-3 Harald, King of Skemfar
 3 Grasp of Darkness
+3 Harald, King of Skemfar
 3 Boreal Outrider
-4 Harald, King of Skemfar
 4 Sculptor of Winter
+4 Harald, King of Skemfar
 7 Snow-Covered Forest
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
@@ -122,12 +122,12 @@
 1 Castle Garenbrig
 1 Feasting Troll King
 1 Wicked Wolf
-2 Ilysian Caryatid
+2 Polukranos, Unchained
 2 Gilded Goose
 2 Castle Garenbrig
-2 Polukranos, Unchained
 2 Bloodchief's Thirst
 2 Agadeem's Awakening
+2 Ilysian Caryatid
 2 Witch's Oven
 2 Feasting Troll King
 2 Wicked Wolf
@@ -135,23 +135,23 @@
 2 Fabled Passage
 3 Gilded Goose
 3 Castle Garenbrig
-3 Agadeem's Awakening
 3 The Great Henge
+3 Agadeem's Awakening
 3 Feasting Troll King
 3 Wicked Wolf
 3 Trail of Crumbs
 3 Fabled Passage
 3 Polukranos, Unchained
 3 Bloodchief's Thirst
+4 Feasting Troll King
 4 Trail of Crumbs
 4 Bloodchief's Thirst
 4 Gilded Goose
 4 Castle Garenbrig
 4 Agadeem's Awakening
 4 Fabled Passage
-4 Wicked Wolf
 5 Forest
 6 Forest
 7 Forest
 8 Forest
-4 Feasting Troll King
+4 Wicked Wolf

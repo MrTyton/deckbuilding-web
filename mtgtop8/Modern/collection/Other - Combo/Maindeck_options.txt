@@ -208,10 +208,10 @@
 1 Bonecrusher Giant
 1 Brazen Borrower
 1 Far / Away
+2 Brazen Borrower
 2 Supreme Verdict
 2 Commandeer
 2 Far / Away
-2 Brazen Borrower
 2 Warrant / Warden
 3 Brazen Borrower
 3 Polluted Delta
@@ -284,20 +284,20 @@
 4 Misty Rainforest
 4 Teferi, Time Raveler
 1 Opt
+1 Dwarven Mine
 1 Mass Hysteria
 1 Izzet Charm
 1 Transmogrify
 1 Lightning Bolt
 1 Polymorph
 1 Remand
-1 Dwarven Mine
 1 Delay
 1 Bloodstained Mire
 2 Opt
+2 Dwarven Mine
 2 Delay
 2 Izzet Charm
 2 Bloodstained Mire
-2 Dwarven Mine
 2 Mass Hysteria
 2 Remand
 2 Transmogrify
@@ -305,11 +305,11 @@
 2 Polymorph
 3 Arid Mesa
 3 Opt
+3 Dwarven Mine
 3 Remand
 3 Lightning Bolt
 3 Polymorph
 3 Transmogrify
-3 Dwarven Mine
 3 Mass Hysteria
 4 Arid Mesa
 4 Lightning Bolt
@@ -356,10 +356,10 @@
 4 City of Brass
 1 Underworld Breach
 2 Snow-Covered Island
+1 Silundi Vision
 1 Lotus Field
 1 Peer Through Depths
 1 Wishclaw Talisman
-1 Silundi Vision
 1 Darkslick Shores
 1 Serum Visions
 1 Ideas Unbound
@@ -431,8 +431,8 @@
 2 Chromatic Star
 2 Mox Amber
 3 Lurrus of the Dream-Den
-3 Metallic Rebuke
 3 Mox Amber
+3 Metallic Rebuke
 3 Engineered Explosives
 3 Chromatic Star
 3 Grinding Station

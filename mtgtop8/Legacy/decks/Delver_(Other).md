@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|Hullbreacher                                                                                   |                    1|Hullbreacher                                                                                      |
-|                    2|Hullbreacher                                                                                   |                    2|Hullbreacher                                                                                      |
+|                    1|[Hullbreacher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=502308)        |                    1|[Hullbreacher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=502308)           |
+|                    2|[Hullbreacher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=502308)        |                    2|[Hullbreacher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=502308)           |
 |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |                    1|[Winter Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=643)                |
 |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706) |                    1|[Bubble Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491675)           |
 |                    2|[Spell Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=446100)         |                    1|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)                |

@@ -15,32 +15,23 @@
 2 Maul of the Skyclaves
 2 Weaselback Redcap
 3 Maul of the Skyclaves
-1 Brightclimb Pathway
-1 Swamp
 1 Blacklance Paragon
 1 Savai Triome
-2 Brightclimb Pathway
+1 Brightclimb Pathway
+1 Swamp
 2 Blacklance Paragon
 2 Savai Triome
+2 Brightclimb Pathway
 3 Brightclimb Pathway
-3 Blacklance Paragon
 3 Savai Triome
+3 Blacklance Paragon
 4 Brightclimb Pathway
 4 Savai Triome
 4 Blacklance Paragon
-1 Kabira Takedown
-1 Stormfist Crusader
-1 General Kudro of Drannith
-2 Kabira Takedown
-2 Stormfist Crusader
-2 General Kudro of Drannith
-3 Stormfist Crusader
-3 General Kudro of Drannith
-4 Stormfist Crusader
 1 Temple of Triumph
+1 Luminous Broodmoth
 1 Luminarch Aspirant
 1 Basri's Lieutenant
-1 Luminous Broodmoth
 2 Temple of Triumph
 2 Basri's Lieutenant
 2 Luminarch Aspirant
@@ -50,6 +41,15 @@
 2 Fabled Passage
 3 Fabled Passage
 4 Fabled Passage
+1 Kabira Takedown
+1 General Kudro of Drannith
+1 Stormfist Crusader
+2 Kabira Takedown
+2 General Kudro of Drannith
+2 Stormfist Crusader
+3 General Kudro of Drannith
+3 Stormfist Crusader
+4 Stormfist Crusader
 1 Rimrock Knight
 2 Rimrock Knight
 3 Embereth Shieldbreaker
@@ -57,8 +57,8 @@
 3 Weaselback Redcap
 4 Maul of the Skyclaves
 4 Mountain
-4 Rimrock Knight
 4 Embereth Shieldbreaker
+4 Rimrock Knight
 4 Weaselback Redcap
 5 Mountain
 6 Mountain
@@ -74,6 +74,6 @@
 3 Foulmire Knight
 3 Shepherd of the Flock
 3 Swamp
-4 Swamp
 4 Foulmire Knight
+4 Swamp
 4 Shepherd of the Flock

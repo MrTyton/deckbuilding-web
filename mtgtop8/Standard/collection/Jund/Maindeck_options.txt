@@ -37,13 +37,13 @@
 2 Forest
 3 Forest
 1 Bala Ged Recovery
+1 Radha, Heart of Keld
 1 Tangled Florahedron
 1 Wolfwillow Haven
 1 Terror of the Peaks
-1 Radha, Heart of Keld
 1 Rugged Highlands
-1 Jungle Hollow
 1 Lovestruck Beast
+1 Jungle Hollow
 1 Ram Through
 1 Polukranos, Unchained
 1 Ilysian Caryatid
@@ -63,8 +63,8 @@
 2 Rugged Highlands
 2 Terror of the Peaks
 2 Lovestruck Beast
-2 Ram Through
 2 Ilysian Caryatid
+2 Ram Through
 2 Rampart Smasher
 2 Thorn Mammoth
 2 Cultivate
@@ -87,7 +87,11 @@
 1 Woodland Chasm
 2 Woodland Chasm
 3 Temple of Malice
-3 Immersturm Predator
+1 Murderous Rider
+1 Liliana, Waker of the Dead
+2 Liliana, Waker of the Dead
+2 Eliminate
+3 Liliana, Waker of the Dead
 1 Ketria Triome
 1 Indatha Triome
 1 Dream Devourer
@@ -96,8 +100,8 @@
 1 Goldspan Dragon
 1 Vorinclex, Monstrous Raider
 1 Scavenging Ooze
-2 Vorinclex, Monstrous Raider
 2 Dream Devourer
+2 Vorinclex, Monstrous Raider
 2 Elder Gargaroth
 2 Ugin, the Spirit Dragon
 2 Goldspan Dragon
@@ -113,8 +117,4 @@
 2 Egon, God of Death
 3 Egon, God of Death
 4 The Akroan War
-1 Murderous Rider
-1 Liliana, Waker of the Dead
-2 Liliana, Waker of the Dead
-2 Eliminate
-3 Liliana, Waker of the Dead
+3 Immersturm Predator

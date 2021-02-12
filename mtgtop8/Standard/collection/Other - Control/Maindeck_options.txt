@@ -109,8 +109,8 @@
 1 Tergrid, God of Fright
 1 Setessan Champion
 2 Tergrid, God of Fright
-2 Doomskar
 2 Garruk, Cursed Huntsman
+2 Doomskar
 2 Setessan Champion
 3 Eliminate
 3 Setessan Champion
@@ -166,30 +166,59 @@
 4 Solemn Simulacrum
 1 Banishing Light
 2 Ondu Inversion
+1 Zagoth Triome
+1 Cragcrown Pathway
+2 Cragcrown Pathway
+1 Temple of Abandon
+1 Blightstep Pathway
+1 Vorinclex, Monstrous Raider
+1 Cultivate
+1 Dream Devourer
+1 Snow-Covered Mountain
+1 Snow-Covered Forest
+1 Liliana, Waker of the Dead
+1 Snow-Covered Swamp
+2 Cultivate
+2 Blightstep Pathway
+2 Liliana, Waker of the Dead
+2 Vorinclex, Monstrous Raider
+2 Dream Devourer
+2 Snow-Covered Mountain
+2 Snow-Covered Swamp
+2 Snow-Covered Forest
+3 Cultivate
+3 Vorinclex, Monstrous Raider
+3 Blightstep Pathway
+3 Dream Devourer
+3 Snow-Covered Swamp
+3 Snow-Covered Forest
+4 Cultivate
+4 Blightstep Pathway
+4 Dream Devourer
+4 Valki, God of Lies
+4 Vorinclex, Monstrous Raider
+4 Lukka, Coppercoat Outcast
 1 Soul Sear
 2 Soul Sear
 3 Soul Sear
 4 Soul Sear
-1 Zagoth Triome
-1 Cragcrown Pathway
-2 Cragcrown Pathway
 1 Island
 1 Savai Triome
 1 Tranquil Cove
+1 Thornwood Falls
+1 Jungle Hollow
 1 Riverglide Pathway
 1 Thirst for Meaning
 1 Fae of Wishes
-1 Dismal Backwater
+1 Sanctum of Calm Waters
 1 Bloodfell Caves
-1 Thornwood Falls
+1 Dismal Backwater
 1 Sanctum of Shattered Heights
 1 Sanctum of All
-1 Sanctum of Calm Waters
 1 Sanctum of Stone Fangs
 1 Clearwater Pathway
 1 Sanctum of Tranquil Light
 1 Wind-Scarred Crag
-1 Jungle Hollow
 1 Sanctum of Fruitful Harvest
 2 Fae of Wishes
 2 Tranquil Cove
@@ -213,35 +242,6 @@
 3 Sanctum of All
 4 Extinction Event
 4 Sanctum of Shattered Heights
-1 Dream Devourer
-1 Temple of Abandon
-1 Blightstep Pathway
-1 Cultivate
-1 Vorinclex, Monstrous Raider
-1 Snow-Covered Mountain
-1 Snow-Covered Forest
-1 Liliana, Waker of the Dead
-1 Snow-Covered Swamp
-2 Dream Devourer
-2 Liliana, Waker of the Dead
-2 Blightstep Pathway
-2 Vorinclex, Monstrous Raider
-2 Snow-Covered Mountain
-2 Cultivate
-2 Snow-Covered Swamp
-2 Snow-Covered Forest
-3 Vorinclex, Monstrous Raider
-3 Dream Devourer
-3 Blightstep Pathway
-3 Snow-Covered Swamp
-3 Snow-Covered Forest
-3 Cultivate
-4 Vorinclex, Monstrous Raider
-4 Dream Devourer
-4 Blightstep Pathway
-4 Valki, God of Lies
-4 Lukka, Coppercoat Outcast
-4 Cultivate
 1 Hagra Mauling
 1 Elder Gargaroth
 1 Agonizing Remorse
@@ -287,8 +287,8 @@
 1 Sublime Epiphany
 1 Field of Ruin
 1 Neutralize
-1 Rain of Revelation
 1 Kiora Bests the Sea God
+1 Rain of Revelation
 1 Gadwick, the Wizened
 1 Essence Scatter
 1 Rewind
@@ -338,10 +338,10 @@
 1 Negate
 1 Stern Dismissal
 1 Relic Golem
+2 Teferi's Tutelage
 2 Didn't Say Please
 2 Anticognition
 2 Ruin Crab
-2 Teferi's Tutelage
 2 Merfolk Secretkeeper
 2 Evolving Wilds
 2 Into the Story

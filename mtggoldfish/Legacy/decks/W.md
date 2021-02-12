@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|---------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    3|[Ancient Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205275)       |                    4|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)     |
-|                    3|[Ranger of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174823)     |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
+|                    3|[Ancient Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=205275)       |                    1|[Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|
+|                    3|[Ranger of Eos](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174823)     |                    4|[Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179547)     |
 |                    1|Starnheim Unleashed                                                                          |                     |                                                                                             |
 |                    2|Starnheim Unleashed                                                                          |                     |                                                                                             |
 |                    3|Starnheim Unleashed                                                                          |                     |                                                                                             |
