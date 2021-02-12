@@ -30,10 +30,10 @@
 3 Tidebinder Mage
 1 Grafdigger's Cage
 1 Collector Ouphe
-2 Collector Ouphe
 2 Grafdigger's Cage
-3 Grafdigger's Cage
+2 Collector Ouphe
 3 Collector Ouphe
+3 Grafdigger's Cage
 4 Grafdigger's Cage
 1 Spell Snare
 2 Spell Snare
@@ -69,12 +69,6 @@
 2 Repeal
 3 Repeal
 4 Repeal
-1 Thieving Skydiver
-1 Miscast
-2 Thieving Skydiver
-2 Miscast
-3 Miscast
-4 Miscast
 2 Disrupting Shoal
 3 Disrupting Shoal
 4 Disrupting Shoal
@@ -82,6 +76,12 @@
 2 Threads of Disloyalty
 3 Threads of Disloyalty
 4 Threads of Disloyalty
+1 Thieving Skydiver
+1 Miscast
+2 Thieving Skydiver
+2 Miscast
+3 Miscast
+4 Miscast
 1 Ceremonious Rejection
 1 Archmage's Charm
 2 Ceremonious Rejection

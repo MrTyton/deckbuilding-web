@@ -1,12 +1,12 @@
 1 Indatha Triome
+1 Forest
 1 Brightclimb Pathway
 1 Swamp
 1 Branchloft Pathway
-1 Forest
 1 Elspeth's Nightmare
+2 Forest
 2 Indatha Triome
 2 Elspeth's Nightmare
-2 Forest
 2 Swamp
 3 Indatha Triome
 4 Indatha Triome
@@ -19,8 +19,8 @@
 1 Mythos of Nethroi
 1 Temple of Malady
 2 Mythos of Nethroi
-3 Swamp
 3 Forest
+3 Swamp
 1 Temple of Silence
 1 Eliminate
 3 Elspeth Conquers Death
@@ -105,8 +105,8 @@
 2 Extinction Event
 3 Extinction Event
 1 In Search of Greatness
-1 Doomskar
 1 Tergrid, God of Fright
+1 Doomskar
 1 Setessan Champion
 2 Tergrid, God of Fright
 2 Garruk, Cursed Huntsman
@@ -120,8 +120,8 @@
 1 Firja's Retribution
 1 Kaya the Inexorable
 1 Burning-Rune Demon
-1 Charming Prince
 1 Esika's Chariot
+1 Charming Prince
 1 Tangled Florahedron
 2 Temple of Silence
 2 Firja's Retribution
@@ -130,17 +130,6 @@
 3 Temple of Silence
 3 Tangled Florahedron
 4 Tangled Florahedron
-1 Lotus Cobra
-1 Wolfwillow Haven
-1 Chevill, Bane of Monsters
-1 Skull Prophet
-1 Mire Triton
-2 Lotus Cobra
-2 Yasharn, Implacable Earth
-2 Acolyte of Affliction
-2 Mire Triton
-5 Swamp
-6 Swamp
 1 Trail of Crumbs
 1 Wicked Wolf
 1 Gilded Goose
@@ -152,13 +141,24 @@
 3 Gilded Goose
 3 Trail of Crumbs
 3 Emeria's Call
-4 Trail of Crumbs
 4 Emeria's Call
+4 Trail of Crumbs
 4 Elspeth's Nightmare
 4 Wicked Wolf
 4 Gilded Goose
 5 Forest
 6 Forest
+1 Lotus Cobra
+1 Wolfwillow Haven
+1 Chevill, Bane of Monsters
+1 Skull Prophet
+1 Mire Triton
+2 Lotus Cobra
+2 Yasharn, Implacable Earth
+2 Acolyte of Affliction
+2 Mire Triton
+5 Swamp
+6 Swamp
 2 Ugin, the Spirit Dragon
 3 Ugin, the Spirit Dragon
 3 Solemn Simulacrum
@@ -179,24 +179,24 @@
 1 Liliana, Waker of the Dead
 1 Snow-Covered Swamp
 2 Cultivate
-2 Blightstep Pathway
 2 Liliana, Waker of the Dead
+2 Blightstep Pathway
 2 Vorinclex, Monstrous Raider
-2 Dream Devourer
 2 Snow-Covered Mountain
+2 Dream Devourer
 2 Snow-Covered Swamp
 2 Snow-Covered Forest
 3 Cultivate
 3 Vorinclex, Monstrous Raider
 3 Blightstep Pathway
-3 Dream Devourer
 3 Snow-Covered Swamp
 3 Snow-Covered Forest
+3 Dream Devourer
 4 Cultivate
-4 Blightstep Pathway
 4 Dream Devourer
-4 Valki, God of Lies
 4 Vorinclex, Monstrous Raider
+4 Blightstep Pathway
+4 Valki, God of Lies
 4 Lukka, Coppercoat Outcast
 1 Soul Sear
 2 Soul Sear
@@ -205,14 +205,14 @@
 1 Island
 1 Savai Triome
 1 Tranquil Cove
-1 Thornwood Falls
-1 Jungle Hollow
 1 Riverglide Pathway
 1 Thirst for Meaning
 1 Fae of Wishes
 1 Sanctum of Calm Waters
 1 Bloodfell Caves
+1 Jungle Hollow
 1 Dismal Backwater
+1 Thornwood Falls
 1 Sanctum of Shattered Heights
 1 Sanctum of All
 1 Sanctum of Stone Fangs
@@ -282,38 +282,38 @@
 15 Island
 16 Island
 1 Silundi Vision
+1 Hypnotic Sprite
 1 Lofty Denial
+1 Rewind
 1 Jwari Disruption
 1 Sublime Epiphany
 1 Field of Ruin
 1 Neutralize
-1 Kiora Bests the Sea God
 1 Rain of Revelation
+1 Kiora Bests the Sea God
 1 Gadwick, the Wizened
 1 Essence Scatter
-1 Rewind
-1 Hypnotic Sprite
 1 Castle Vantress
 1 Shark Typhoon
 1 Brazen Borrower
 2 Gadwick, the Wizened
+2 Hypnotic Sprite
+2 Rewind
 2 Neutralize
 2 Rain of Revelation
-2 Rewind
 2 Essence Scatter
 2 Shark Typhoon
 2 Brazen Borrower
 2 Castle Vantress
-2 Hypnotic Sprite
-3 Neutralize
-3 Castle Vantress
 3 Rewind
+3 Castle Vantress
+3 Neutralize
 3 Shark Typhoon
 3 Brazen Borrower
-4 Neutralize
 4 Castle Vantress
-4 Shark Typhoon
 4 Rewind
+4 Neutralize
+4 Shark Typhoon
 4 Brazen Borrower
 1 Storm's Wrath
 1 Bonecrusher Giant
@@ -322,36 +322,36 @@
 2 Scorching Dragonfire
 2 Ox of Agonas
 2 Bonecrusher Giant
-3 Crawling Barrens
 3 Temple of Triumph
+3 Crawling Barrens
 3 Storm's Wrath
 3 Bonecrusher Giant
 6 Mountain
 7 Mountain
+1 Evolving Wilds
 1 Anticognition
 1 Ruin Crab
 1 Merfolk Secretkeeper
-1 Evolving Wilds
 1 Teferi's Tutelage
 1 Didn't Say Please
 1 Into the Story
 1 Negate
 1 Stern Dismissal
 1 Relic Golem
-2 Teferi's Tutelage
 2 Didn't Say Please
-2 Anticognition
-2 Ruin Crab
-2 Merfolk Secretkeeper
 2 Evolving Wilds
+2 Ruin Crab
+2 Anticognition
+2 Merfolk Secretkeeper
+2 Teferi's Tutelage
 2 Into the Story
 2 Relic Golem
 2 Negate
 2 Stern Dismissal
-3 Teferi's Tutelage
 3 Didn't Say Please
-3 Merfolk Secretkeeper
 3 Evolving Wilds
+3 Merfolk Secretkeeper
+3 Teferi's Tutelage
 3 Stern Dismissal
 3 Ruin Crab
 3 Relic Golem

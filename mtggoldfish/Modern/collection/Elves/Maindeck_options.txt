@@ -26,8 +26,8 @@
 2 Wildborn Preserver
 4 Snow-Covered Forest
 9 Forest
-1 Realmwalker
 1 Elvish Warmaster
+1 Realmwalker
 2 Elvish Warmaster
 2 Realmwalker
 3 Elvish Warmaster
@@ -117,11 +117,9 @@
 3 Elves of Deep Shadow
 4 Elves of Deep Shadow
 4 Gilt-Leaf Archdruid
-1 Castle Garenbrig
-2 Beast Whisperer
-2 Castle Garenbrig
-3 Beast Whisperer
-4 Beast Whisperer
+6 Snow-Covered Forest
+7 Snow-Covered Forest
+8 Snow-Covered Forest
 1 Arbor Elf
 2 Arbor Elf
 3 Arbor Elf
@@ -133,6 +131,8 @@
 16 Forest
 17 Forest
 18 Forest
-6 Snow-Covered Forest
-7 Snow-Covered Forest
-8 Snow-Covered Forest
+1 Castle Garenbrig
+2 Beast Whisperer
+2 Castle Garenbrig
+3 Beast Whisperer
+4 Beast Whisperer

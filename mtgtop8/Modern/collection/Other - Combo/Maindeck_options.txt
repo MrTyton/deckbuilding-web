@@ -1,6 +1,6 @@
+2 Pact of Negation
 3 Goblin Charbelcher
 4 Goblin Charbelcher
-2 Pact of Negation
 2 Shatterskull Smashing
 1 Blood Moon
 2 Blood Moon
@@ -37,15 +37,16 @@
 4 Spikefield Hazard
 4 Recross the Paths
 4 Irencrag Feat
-4 Manamorphose
 4 Pyretic Ritual
+4 Manamorphose
 4 Desperate Ritual
 4 Bala Ged Recovery
-1 Hagra Mauling
-2 Hagra Mauling
+1 Thoughtseize
 4 Blood Moon
 4 Pact of Negation
-1 Thoughtseize
+3 Pelakka Predation
+4 Pelakka Predation
+2 Thoughtseize
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 3 Leyline of Sanctity
@@ -57,16 +58,16 @@
 1 Skyclave Apparition
 1 Oust
 1 Plains
-1 Temple of Triumph
+1 Dovescape
 1 Wheel of Sun and Moon
 1 Marsh Flats
 1 Deafening Clarion
 1 Nine Lives
-1 Dovescape
 1 Overwhelming Splendor
 1 Treasure Map
 1 Form of the Dragon
 1 Solemnity
+1 Temple of Triumph
 1 Silence
 1 Mistveil Plains
 1 Enduring Ideal
@@ -76,12 +77,12 @@
 2 Skyclave Apparition
 2 Nykthos, Shrine to Nyx
 2 Oust
-2 Temple of Triumph
 2 Sacred Foundry
 2 Marsh Flats
 2 Nine Lives
 2 Enduring Ideal
 2 Plains
+2 Temple of Triumph
 2 Phyrexian Unlife
 2 Form of the Dragon
 2 Treasure Map
@@ -93,8 +94,8 @@
 3 Marsh Flats
 3 Silence
 3 Solemnity
-3 Enduring Ideal
 3 Lotus Bloom
+3 Enduring Ideal
 3 Nine Lives
 4 Plains
 4 Sacred Foundry
@@ -180,13 +181,12 @@
 2 Forest
 1 Talisman of Hierarchy
 1 Talisman of Curiosity
-2 Thoughtseize
+2 Deafening Clarion
+3 Temple of Triumph
 1 Lovestruck Beast
 2 Lovestruck Beast
 2 Swamp
 3 Lovestruck Beast
-2 Deafening Clarion
-3 Temple of Triumph
 1 Murderous Rider
 1 Snow-Covered Swamp
 1 Prismatic Vista
@@ -264,6 +264,8 @@
 3 Castle Garenbrig
 4 Gruul Turf
 4 Grove of the Burnwillows
+3 Thoughtseize
+4 Thoughtseize
 1 Mystic Sanctuary
 1 Uro, Titan of Nature's Wrath
 1 Cryptic Command
@@ -356,10 +358,10 @@
 4 City of Brass
 1 Underworld Breach
 2 Snow-Covered Island
-1 Silundi Vision
 1 Lotus Field
 1 Peer Through Depths
 1 Wishclaw Talisman
+1 Silundi Vision
 1 Darkslick Shores
 1 Serum Visions
 1 Ideas Unbound
@@ -410,8 +412,8 @@
 1 Snow-Covered Mountain
 1 Engineered Explosives
 1 Thassa's Oracle
-1 Sai, Master Thopterist
 1 Minamo, School at Water's Edge
+1 Sai, Master Thopterist
 1 Metallic Rebuke
 1 Grinding Station
 1 Chromatic Star
@@ -431,8 +433,8 @@
 2 Chromatic Star
 2 Mox Amber
 3 Lurrus of the Dream-Den
-3 Mox Amber
 3 Metallic Rebuke
+3 Mox Amber
 3 Engineered Explosives
 3 Chromatic Star
 3 Grinding Station
