@@ -1,12 +1,12 @@
 1 Geier Reach Sanitarium
-3 Teferi, Hero of Dominaria
 1 Commit/Memory
-4 Shark Typhoon
+3 Teferi, Hero of Dominaria
 1 Detention Sphere
 1 Syncopate
+4 Shark Typhoon
 3 Dig Through Time
-1 Blessed Alliance
 1 Search for Azcanta
+1 Blessed Alliance
 1 Jace, Architect of Thought
 2 Syncopate
 1 Sea Gate Restoration
@@ -17,7 +17,6 @@
 2 Temple of Enlightenment
 2 Last Breath
 1 Elixir of Immortality
-1 Emeria's Call
 3 Plains
 1 Ondu Inversion
 4 Irrigated Farmland
@@ -25,9 +24,9 @@
 4 Fabled Passage
 1 Forest
 1 Growth Spiral
-1 Sunpetal Grove
 1 Hinterland Harbor
 1 Temple Garden
+1 Sunpetal Grove
 1 Uro, Titan of Nature's Wrath
 1 Mystical Dispute
 1 Breeding Pool
@@ -50,10 +49,11 @@
 4 Breeding Pool
 4 Temple Garden
 4 Teferi, Time Raveler
-1 Neutralize
+1 Emeria's Call
 1 Skyclave Cleric
 2 Skyclave Cleric
 1 Sinister Sabotage
+1 Neutralize
 1 Cast Out
 1 Raugrin Triome
 3 Skyclave Cleric
@@ -62,8 +62,6 @@
 1 Dream Trawler
 1 Steam Vents
 1 Whirlwind Denial
-1 Horribly Awry
-3 Dovin's Veto
 2 Neutralize
 1 Temple of Epiphany
 1 Temple of Triumph
@@ -76,7 +74,9 @@
 1 Brazen Borrower
 3 Castle Ardenvale
 1 Void Shatter
+1 Horribly Awry
 2 Void Shatter
+3 Dovin's Veto
 3 Narset, Parter of Veils
 1 Jwari Disruption
 2 Jwari Disruption
@@ -85,7 +85,6 @@
 4 Jwari Disruption
 1 Seal Away
 2 Seal Away
-2 Horribly Awry
 1 Blast Zone
 3 Neutralize
 1 Tamiyo, Collector of Tales
@@ -97,8 +96,9 @@
 2 Search for Azcanta
 1 Hallowed Moonlight
 2 Hallowed Moonlight
-2 Sinister Sabotage
 2 Gideon of the Trials
+2 Sinister Sabotage
+2 Horribly Awry
 4 Castle Ardenvale
 1 Teferi, Master of Time
 1 Elspeth, Sun's Champion
@@ -107,24 +107,24 @@
 4 Narset, Parter of Veils
 4 Skyclave Cleric
 1 Temple of Deceit
-1 Spell Queller
+1 Eliminate
+1 Ashiok, Nightmare Muse
 1 Watery Grave
 1 Drowned Catacomb
 1 Fatal Push
-1 Ashiok, Nightmare Muse
 1 Declaration in Stone
-1 Eliminate
 1 Swamp
 1 Prairie Stream
+1 Spell Queller
 2 Temple of Deceit
-2 Ashiok, Nightmare Muse
-2 Spell Queller
 2 Watery Grave
+2 Ashiok, Nightmare Muse
 2 Declaration in Stone
 2 Eliminate
 2 Fatal Push
 2 Prairie Stream
 2 Elspeth Conquers Death
+2 Spell Queller
 3 Ashiok, Nightmare Muse
 3 Watery Grave
 4 Watery Grave
@@ -138,10 +138,10 @@
 2 Brazen Borrower
 3 Anticognition
 4 Plains
+1 Zenith Flare
 1 Hieroglyphic Illumination
 1 Sulfur Falls
 1 Sweltering Suns
-1 Zenith Flare
 2 Raugrin Triome
 2 Sulfur Falls
 2 Zenith Flare
@@ -157,19 +157,3 @@
 1 Tale's End
 3 Void Shatter
 4 Void Shatter
-1 Behold the Multiverse
-1 Saw It Coming
-1 Gates of Istfell
-1 Elspeth, Sun's Nemesis
-1 Doomskar
-1 Ravenform
-2 Behold the Multiverse
-2 Saw It Coming
-2 Doomskar
-3 Saw It Coming
-3 Behold the Multiverse
-3 Doomskar
-4 Saw It Coming
-4 Behold the Multiverse
-4 Doomskar
-4 Teferi, Hero of Dominaria

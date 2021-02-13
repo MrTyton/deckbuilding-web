@@ -6,7 +6,6 @@
 2 Blightstep Pathway
 3 Blightstep Pathway
 4 Blightstep Pathway
-3 Kroxa, Titan of Death's Hunger
 1 Immersturm Predator
 2 Immersturm Predator
 3 Darkbore Pathway
@@ -14,10 +13,11 @@
 4 Village Rites
 1 Kazuul's Fury
 4 Skyclave Shade
-3 Tymaret Calls the Dead
-2 Castle Locthwain
+3 Kroxa, Titan of Death's Hunger
 3 Valki, God of Lies
 4 Darkbore Pathway
+3 Tymaret Calls the Dead
+2 Castle Locthwain
 1 Shredded Sails
 2 Shredded Sails
 3 Heartless Act
@@ -37,10 +37,10 @@
 2 Forest
 3 Forest
 1 Radha, Heart of Keld
-1 Rugged Highlands
 1 Bala Ged Recovery
 1 Tangled Florahedron
 1 Wolfwillow Haven
+1 Rugged Highlands
 1 Terror of the Peaks
 1 Jungle Hollow
 1 Lovestruck Beast
@@ -59,22 +59,22 @@
 1 Kogla, the Titan Ape
 1 Ironscale Hydra
 2 Wolfwillow Haven
-2 Rugged Highlands
 2 Kogla, the Titan Ape
+2 Rugged Highlands
+2 Thorn Mammoth
 2 Terror of the Peaks
 2 Lovestruck Beast
-2 Ilysian Caryatid
 2 Ram Through
+2 Ilysian Caryatid
 2 Rampart Smasher
-2 Thorn Mammoth
 2 Cultivate
 2 Castle Garenbrig
 3 Rugged Highlands
-3 Wolfwillow Haven
 3 Ilysian Caryatid
+3 Wolfwillow Haven
 4 Rugged Highlands
-4 Forest
 4 Ilysian Caryatid
+4 Forest
 5 Mountain
 5 Forest
 6 Forest
@@ -86,12 +86,9 @@
 12 Forest
 1 Woodland Chasm
 2 Woodland Chasm
+3 Bloodchief's Thirst
+3 Immersturm Predator
 3 Temple of Malice
-1 Murderous Rider
-1 Liliana, Waker of the Dead
-2 Liliana, Waker of the Dead
-2 Eliminate
-3 Liliana, Waker of the Dead
 1 Ketria Triome
 1 Indatha Triome
 1 Dream Devourer
@@ -100,8 +97,8 @@
 1 Goldspan Dragon
 1 Vorinclex, Monstrous Raider
 1 Scavenging Ooze
-2 Dream Devourer
 2 Vorinclex, Monstrous Raider
+2 Dream Devourer
 2 Elder Gargaroth
 2 Ugin, the Spirit Dragon
 2 Goldspan Dragon
@@ -117,4 +114,8 @@
 2 Egon, God of Death
 3 Egon, God of Death
 4 The Akroan War
-3 Immersturm Predator
+1 Murderous Rider
+1 Liliana, Waker of the Dead
+2 Liliana, Waker of the Dead
+2 Eliminate
+3 Liliana, Waker of the Dead

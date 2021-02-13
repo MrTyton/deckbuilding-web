@@ -34,9 +34,9 @@
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|--------------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    1|[Gilded Goose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473122)           |                     |              |
+|                    1|[Kogla, the Titan Ape](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479682)   |                     |              |
 |                    1|[Yorion, Sky Nomad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479752)      |                     |              |
 |                    1|[Llanowar Visionary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485516)     |                     |              |
-|                    1|[Kogla, the Titan Ape](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479682)   |                     |              |
 |                    1|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|                     |              |
 |                    1|[Wicked Wolf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473143)            |                     |              |
 |                    1|[Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977)           |                     |              |

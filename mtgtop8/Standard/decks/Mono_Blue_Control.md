@@ -25,3 +25,19 @@
 |                                                                                         |3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)  |                  |
 |                                                                                         |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)            |                  |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
+|                    1|Cosmos Charger                                                                              |                    1|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)  |
+|                    1|[Rewind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45264)            |                    1|Ravenform                                                                                 |
+|                    2|[Rewind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45264)            |                    2|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)  |
+|                    3|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)  |                    2|Ravenform                                                                                 |
+|                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|                    1|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)|
+|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |                    3|Avalanche Caller                                                                          |
+|                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |                    4|[Bubble Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491675)   |
+|                    3|Graven Lore                                                                                 |                    2|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)|
+|                    4|Graven Lore                                                                                 |                     |                                                                                          |
+|                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |                     |                                                                                          |
+

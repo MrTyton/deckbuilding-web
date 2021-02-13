@@ -3,24 +3,21 @@
 3 The World Tree
 3 Purphoros, God of the Forge
 4 The World Tree
-4 Purphoros, God of the Forge
 4 Fabled Passage
 1 Klothys, God of Destiny
-2 Klothys, God of Destiny
 1 Hallowed Fountain
-1 Omnath, Locus of Creation
 1 Glacial Fortress
 1 Golos, Tireless Pilgrim
+1 Omnath, Locus of Creation
 1 Raugrin Triome
+2 Klothys, God of Destiny
 2 Golos, Tireless Pilgrim
 2 Omnath, Locus of Creation
 2 Raugrin Triome
 3 Raugrin Triome
 3 Omnath, Locus of Creation
 4 Omnath, Locus of Creation
-3 Klothys, God of Destiny
-1 Fire Prophecy
-2 Fire Prophecy
+4 Purphoros, God of the Forge
 1 Settle the Wreckage
 1 Arboreal Grazer
 1 Teferi, Time Raveler
@@ -31,11 +28,14 @@
 2 Arboreal Grazer
 2 Evolving Wilds
 3 Golos, Tireless Pilgrim
+3 Klothys, God of Destiny
 3 Arboreal Grazer
 3 Teferi, Time Raveler
 1 Sunpetal Grove
 4 Raugrin Triome
 1 Snow-Covered Island
+1 Fire Prophecy
+2 Fire Prophecy
 1 Valakut Awakening
 2 Valakut Awakening
 3 Valakut Awakening
@@ -45,15 +45,15 @@
 4 Arboreal Grazer
 2 Hinterland Harbor
 1 Snow-Covered Forest
+3 Mystical Dispute
 1 Sweltering Suns
 2 Sweltering Suns
 1 Anger of the Gods
-3 Mystical Dispute
+1 Chemister's Insight
 1 Cyclonic Rift
 1 Snow-Covered Mountain
 2 Snow-Covered Island
 2 Rootbound Crag
-1 Chemister's Insight
 1 Zagoth Triome
 1 Swamp
 1 Watery Grave
@@ -81,30 +81,30 @@
 3 Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
+3 Negate
 1 Search for Azcanta
 1 Neutralize
 1 Thassa's Intervention
-4 Censor
+1 Aether Gust
 1 Disallow
 3 Fire Prophecy
 4 Fire Prophecy
+4 Mystical Dispute
 1 Lumbering Falls
-3 Negate
 1 Blooming Marsh
 1 Clearwater Pathway
 2 Blooming Marsh
 2 Clearwater Pathway
 2 Overgrown Tomb
-4 Hinterland Harbor
 3 Settle the Wreckage
+4 Hinterland Harbor
 1 Botanical Sanctum
+4 Censor
 1 Supreme Verdict
-1 Keranos, God of Storms
-1 Aether Gust
 2 Aether Gust
 1 Fetid Pools
-1 Riverglide Pathway
 1 Behold the Multiverse
+1 Riverglide Pathway
 1 Ilharg, the Raze-Boar
 2 Riverglide Pathway
 1 Into the Roil
@@ -112,7 +112,6 @@
 4 Watery Grave
 1 Radiant Flames
 2 Radiant Flames
-4 Mystical Dispute
 1 Castle Locthwain
 2 Thassa's Intervention
 3 Island
@@ -123,8 +122,9 @@
 2 Dig Through Time
 2 Neutralize
 1 Cascading Cataracts
-1 Cosima, God of the Voyage
 1 Ugin, the Spirit Dragon
+1 Keranos, God of Storms
+1 Cosima, God of the Voyage
 1 Sylvan Scrying
 1 Bring to Light
 2 Snow-Covered Plains
@@ -143,9 +143,9 @@
 4 Glacial Fortress
 4 Omen of the Sea
 1 Mazemind Tome
-1 Tasigur, the Golden Fang
-1 Bala Ged Recovery
 1 Crawling Barrens
+1 Bala Ged Recovery
+1 Tasigur, the Golden Fang
 1 Pull from Tomorrow
 2 Pull from Tomorrow
 2 Anger of the Gods
@@ -153,6 +153,7 @@
 1 Tale's End
 3 Radiant Flames
 3 Sweltering Suns
+4 Negate
 4 Fatal Push
 1 Torrential Gearhulk
 1 Steam Augury
@@ -173,11 +174,6 @@
 3 Sylvan Caryatid
 4 Sylvan Caryatid
 4 Torrential Gearhulk
-1 Spikefield Hazard
-2 Spikefield Hazard
-2 Keranos, God of Storms
-3 Spikefield Hazard
-4 Spikefield Hazard
 1 Satyr Wayfinder
 1 Thoughtseize
 2 Satyr Wayfinder

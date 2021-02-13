@@ -1,11 +1,11 @@
-1 Temple of Malice
 1 Valki, God of Lies
 2 Blightstep Pathway
 2 Valki, God of Lies
-3 Emergent Ultimatum
-4 Emergent Ultimatum
 3 Blightstep Pathway
+3 Emergent Ultimatum
 3 Valki, God of Lies
+4 Emergent Ultimatum
+1 Temple of Malice
 2 Temple of Malice
 1 Forest
 4 Dream Trawler
@@ -14,30 +14,27 @@
 4 Temple of Malice
 4 Valki, God of Lies
 1 Raugrin Triome
+3 Ketria Triome
 1 Chromatic Orrery
 2 Chromatic Orrery
 3 Chromatic Orrery
 4 Chromatic Orrery
-3 Ketria Triome
-4 Temple of Epiphany
+2 Raugrin Triome
+4 Blightstep Pathway
 2 Mountain
 3 Mountain
 4 Mountain
 5 Mountain
 6 Mountain
-2 Raugrin Triome
-4 Blightstep Pathway
 7 Mountain
-1 Yidaro, Wandering Monster
 1 Nyxbloom Ancient
 4 Ketria Triome
 1 Turntimber Symbiosis
-2 Yidaro, Wandering Monster
-3 Yidaro, Wandering Monster
-4 Yidaro, Wandering Monster
+4 Temple of Epiphany
 8 Mountain
 9 Mountain
 10 Mountain
+1 Yidaro, Wandering Monster
 1 Crawling Barrens
 2 Crawling Barrens
 3 Raugrin Triome
@@ -46,20 +43,15 @@
 2 Barkchannel Pathway
 2 Island
 3 Barkchannel Pathway
-1 Rugged Highlands
-1 Swiftwater Cliffs
-2 Swiftwater Cliffs
-2 Rugged Highlands
-3 Rugged Highlands
-3 Swiftwater Cliffs
-4 Swiftwater Cliffs
-4 Rugged Highlands
 2 Turntimber Symbiosis
 1 Temple of Mystery
 1 Wishclaw Talisman
 2 Wishclaw Talisman
 3 Wishclaw Talisman
 4 Wishclaw Talisman
+2 Yidaro, Wandering Monster
+3 Yidaro, Wandering Monster
+4 Yidaro, Wandering Monster
 11 Mountain
 12 Mountain
 1 Gnottvold Slumbermound
@@ -129,6 +121,14 @@
 4 Gnottvold Slumbermound
 4 Highland Forest
 4 Volatile Fjord
+1 Rugged Highlands
+1 Swiftwater Cliffs
+2 Swiftwater Cliffs
+2 Rugged Highlands
+3 Rugged Highlands
+3 Swiftwater Cliffs
+4 Swiftwater Cliffs
+4 Rugged Highlands
 13 Mountain
 14 Mountain
 15 Mountain

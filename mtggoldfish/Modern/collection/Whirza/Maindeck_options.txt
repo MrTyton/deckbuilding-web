@@ -65,6 +65,7 @@
 1 Talisman of Progress
 1 Cascade Bluffs
 1 Crucible of Worlds
+1 Ghost Quarter
 1 Torpor Orb
 1 Tolaria West
 1 Tormod's Crypt
@@ -73,7 +74,6 @@
 1 Ipnu Rivulet
 1 Simian Spirit Guide
 1 Bottled Cloister
-1 Ghost Quarter
 2 Sorcerous Spyglass
 2 Ensnaring Bridge
 2 Welding Jar
@@ -91,9 +91,9 @@
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Fatal Push
-1 Teferi's Puzzle Box
 1 Cryptic Command
 1 Drown in the Loch
+1 Teferi's Puzzle Box
 1 Sacred Foundry
 1 Snow-Covered Plains
 1 Blast Zone
@@ -101,9 +101,6 @@
 1 Raugrin Triome
 1 Seachrome Coast
 2 Seachrome Coast
-1 Clearwater Pathway
-1 Ashiok, Dream Render
-2 Ashiok, Dream Render
 1 Cavern of Souls
 2 Cavern of Souls
 1 Prismatic Vista
@@ -111,6 +108,9 @@
 1 Sai, Master Thopterist
 2 Prismatic Vista
 2 Sai, Master Thopterist
+1 Clearwater Pathway
+1 Ashiok, Dream Render
+2 Ashiok, Dream Render
 1 Tectonic Edge
 3 Welding Jar
 1 Geier Reach Sanitarium
@@ -121,8 +121,8 @@
 3 Scalding Tarn
 3 Narset, Parter of Veils
 3 Force of Negation
-4 Scalding Tarn
 4 Fatal Push
+4 Scalding Tarn
 2 Hallowed Fountain
 3 Mystic Sanctuary
 3 Teferi, Time Raveler
