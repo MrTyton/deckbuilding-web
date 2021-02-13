@@ -14,14 +14,14 @@
 1 Detention Sphere
 2 Baffling End
 1 Elspeth, Sun's Nemesis
-1 Seal Away
-2 Seal Away
 1 Blessed Alliance
-3 Aether Gust
 1 Authority of the Consuls
 2 Authority of the Consuls
+1 Seal Away
+2 Seal Away
 3 Baffling End
 1 Supreme Verdict
+3 Aether Gust
 1 Yorion, Sky Nomad
 1 Dragonlord Dromoka
 1 Elspeth Conquers Death
@@ -33,13 +33,11 @@
 3 Leyline of Sanctity
 2 Ashiok, Dream Render
 1 Summary Dismissal
-3 Seal Away
-4 Seal Away
 1 Teferi, Time Raveler
+1 Zirda, the Dawnwaker
 1 Bruna, the Fading Light
 1 Gisela, the Broken Blade
 1 Reidane, God of the Worthy
-1 Zirda, the Dawnwaker
 2 Settle the Wreckage
 1 Void Shatter
 2 Void Shatter
@@ -47,8 +45,6 @@
 2 Grafdigger's Cage
 1 Isolate
 2 Isolate
-1 Tale's End
-2 Tale's End
 1 Commit/Memory
 1 Dragonlord Ojutai
 1 Unmoored Ego
@@ -72,5 +68,7 @@
 2 Summary Dismissal
 3 Summary Dismissal
 3 Detention Sphere
+3 Seal Away
+4 Seal Away
 4 Summary Dismissal
 4 Detention Sphere

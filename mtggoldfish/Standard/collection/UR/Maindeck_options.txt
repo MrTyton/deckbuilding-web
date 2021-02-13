@@ -34,9 +34,9 @@
 3 Castle Vantress
 3 Rewind
 3 Shark Typhoon
-4 Neutralize
 4 Shark Typhoon
 4 Rewind
+4 Neutralize
 4 Castle Vantress
 4 Brazen Borrower
 12 Island
@@ -131,11 +131,11 @@
 1 Embercleave
 1 Rimrock Knight
 1 Umara Mystic
+2 Embercleave
 2 Temple of Epiphany
 2 Raking Claws
 2 Infuriate
 2 Bonecrusher Giant
-2 Embercleave
 2 Crash Through
 2 Umara Mystic
 2 Rimrock Knight
@@ -150,8 +150,8 @@
 4 Bonecrusher Giant
 4 Umara Mystic
 1 Shock
-1 Ravenform
 1 Battle of Frost and Fire
+1 Ravenform
 1 Pursued Whale
 2 Ravenform
 3 Essence Scatter
@@ -186,8 +186,8 @@
 1 Glimpse the Cosmos
 1 Crystalline Giant
 2 Crush the Weak
-1 Basri Ket
 1 Narset of the Ancient Way
+1 Basri Ket
 1 Banishing Light
 1 Omen of the Sun
 1 Nahiri, Heir of the Ancients
@@ -231,9 +231,9 @@
 2 Myriad Construct
 3 Crash Through
 1 Dismal Backwater
-1 Ashiok, Nightmare Muse
 1 Bloodfell Caves
 1 Feed the Swarm
+1 Ashiok, Nightmare Muse
 2 Lofty Denial
 2 Dismal Backwater
 2 Feed the Swarm
@@ -245,22 +245,22 @@
 1 Rielle, the Everwise
 3 Cathartic Reunion
 4 Faerie Vandal
-1 Glacial Floodplain
 1 Faceless Haven
 1 Goldspan Dragon
-1 Harmonious Archon
 1 Icebreaker Kraken
 1 Forbidden Friendship
+1 Glacial Floodplain
 1 Alpine Meadow
+1 Harmonious Archon
 1 Lukka, Coppercoat Outcast
 1 Strategic Planning
 2 Fabled Passage
-2 Glacial Floodplain
 2 Faceless Haven
 2 Goldspan Dragon
 2 Strategic Planning
 2 Lukka, Coppercoat Outcast
 2 Forbidden Friendship
+2 Glacial Floodplain
 2 Alpine Meadow
 2 Icebreaker Kraken
 2 Harmonious Archon
@@ -287,6 +287,6 @@
 3 Squash
 4 Aegar, the Freezing Flame
 4 Squash
+4 Basalt Ravager
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
-4 Basalt Ravager

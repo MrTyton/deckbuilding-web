@@ -41,16 +41,15 @@
 4 Into the Story
 2 Field of Ruin
 1 Negate
-2 Mountain
 1 Extinction Event
 2 Extinction Event
+2 Mountain
 1 Crawling Barrens
 1 Snow-Covered Island
 1 Snow-Covered Mountain
 2 Snow-Covered Island
 3 Snow-Covered Island
 1 Ashiok, Nightmare Muse
-1 Cling to Dust
 1 Omen of the Dead
 1 Savai Triome
 1 Mazemind Tome
@@ -58,6 +57,7 @@
 1 Solemn Simulacrum
 1 Mythos of Nethroi
 1 Elspeth's Nightmare
+1 Cling to Dust
 1 Yorion, Sky Nomad
 1 Omen of the Sea
 2 Savai Triome
@@ -87,19 +87,19 @@
 1 Shatterskull Smashing
 2 Shatterskull Smashing
 2 Negate
+1 Volatile Fjord
 1 Demon Bolt
 1 Aegar, the Freezing Flame
-1 Shimmerdrift Vale
 1 The World Tree
-1 Sulfurous Mire
 1 Glimpse the Cosmos
-1 Volatile Fjord
 1 Feed the Serpent
 1 Kroxa, Titan of Death's Hunger
-1 Shatterskull Charger
 1 Thryx, the Sudden Storm
 1 Crystalline Giant
 1 Pharika's Libation
+1 Shatterskull Charger
+1 Shimmerdrift Vale
+1 Sulfurous Mire
 1 Memory Theft
 1 Ice Tunnel
 2 Demon Bolt
@@ -107,11 +107,11 @@
 2 Thryx, the Sudden Storm
 2 Glimpse the Cosmos
 2 Feed the Serpent
-2 Ashiok, Nightmare Muse
 2 Snow-Covered Mountain
+2 Ashiok, Nightmare Muse
 2 Kroxa, Titan of Death's Hunger
-2 Crystalline Giant
 2 Shatterskull Charger
+2 Crystalline Giant
 2 Memory Theft
 2 Pharika's Libation
 3 Kroxa, Titan of Death's Hunger
@@ -124,55 +124,3 @@
 3 Crystalline Giant
 4 Demon Bolt
 4 Pharika's Libation
-1 Scorching Dragonfire
-1 The Royal Scions
-1 Sprite Dragon
-1 Jace, Mirror Mage
-1 Improbable Alliance
-1 Rain of Revelation
-1 Dismal Backwater
-1 Bloodfell Caves
-1 Feed the Swarm
-1 Lofty Denial
-1 Frantic Inventory
-1 Swiftwater Cliffs
-1 Opt
-1 Fire Prophecy
-1 Blitz of the Thunder-Raptor
-1 Memory Leak
-2 Lofty Denial
-2 Scorching Dragonfire
-2 Sprite Dragon
-2 Bloodfell Caves
-2 Rain of Revelation
-2 Dismal Backwater
-2 Frantic Inventory
-2 Feed the Swarm
-2 Swiftwater Cliffs
-2 Blitz of the Thunder-Raptor
-2 Opt
-2 Improbable Alliance
-3 Improbable Alliance
-3 Lofty Denial
-3 Sprite Dragon
-3 Scorching Dragonfire
-3 Dismal Backwater
-3 Frantic Inventory
-3 Swiftwater Cliffs
-3 Opt
-3 Blitz of the Thunder-Raptor
-3 Mountain
-4 Improbable Alliance
-4 Lofty Denial
-4 Sprite Dragon
-4 Island
-4 Frantic Inventory
-4 Swiftwater Cliffs
-4 Opt
-4 Mountain
-5 Island
-6 Mountain
-6 Island
-7 Island
-8 Island
-5 Mountain

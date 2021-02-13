@@ -1,14 +1,14 @@
-1 All That Glitters
+2 Spirit Link
 2 All That Glitters
 4 Hyena Umbra
 4 Gryff's Boon
-1 Sentinel's Eyes
-3 Path to Exile
 1 Mana Tithe
 2 Mana Tithe
 3 Mana Tithe
 1 Branchloft Pathway
+1 Sentinel's Eyes
 1 Wooded Foothills
+3 Path to Exile
 1 Snow-Covered Plains
 1 Misty Rainforest
 1 Hallowed Fountain
@@ -68,13 +68,13 @@
 4 Inkmoth Nexus
 1 Snow-Covered Forest
 2 Sentinel's Eyes
-1 Ram Through
-1 Speaker of the Heavens
-2 Ram Through
 1 Irrigated Farmland
 2 Misty Rainforest
 2 Irrigated Farmland
 2 Forest
+1 Ram Through
+1 Speaker of the Heavens
+2 Ram Through
 1 Dromoka's Command
 2 Dromoka's Command
 2 Sixth Sense
@@ -88,10 +88,6 @@
 1 Suppression Field
 2 Suppression Field
 3 Suppression Field
-1 Verdant Catacombs
-1 Sram, Senior Edificer
-3 All That Glitters
-4 All That Glitters
 3 Force of Negation
 4 Force of Negation
 1 Leyline of Sanctity
@@ -99,14 +95,14 @@
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 4 Leyline of Sanctity
+1 Sunbaked Canyon
 1 Magnetic Theft
 1 Kor Duelist
 1 Silence
 1 Open the Armory
 1 City of Brass
-1 Sunbaked Canyon
-2 Sunbaked Canyon
 2 Magnetic Theft
+2 Sunbaked Canyon
 2 Kor Duelist
 2 Shadowspear
 2 Open the Armory
@@ -122,6 +118,10 @@
 4 City of Brass
 4 Sunbaked Canyon
 4 Magnetic Theft
+1 Verdant Catacombs
+1 Sram, Senior Edificer
+3 All That Glitters
+4 All That Glitters
 1 Arid Mesa
 1 Sword of Fire and Ice
 1 Batterskull
@@ -142,8 +142,8 @@
 1 Invisible Stalker
 1 Waterlogged Grove
 1 Seachrome Coast
-2 Stubborn Denial
 2 Seachrome Coast
+2 Stubborn Denial
 2 Invisible Stalker
 3 Invisible Stalker
 4 Arcane Flight

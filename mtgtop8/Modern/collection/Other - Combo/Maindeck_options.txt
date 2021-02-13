@@ -61,8 +61,8 @@
 1 Dovescape
 1 Wheel of Sun and Moon
 1 Marsh Flats
-1 Deafening Clarion
 1 Nine Lives
+1 Deafening Clarion
 1 Overwhelming Splendor
 1 Treasure Map
 1 Form of the Dragon
@@ -73,8 +73,8 @@
 1 Enduring Ideal
 1 Lotus Bloom
 1 Phyrexian Unlife
-2 Silence
 2 Skyclave Apparition
+2 Silence
 2 Nykthos, Shrine to Nyx
 2 Oust
 2 Sacred Foundry
@@ -227,12 +227,12 @@
 1 Tranquil Thicket
 1 Field of the Dead
 1 Khalni Garden
+1 Blast Zone
 1 Tolaria West
 1 Valakut, the Molten Pinnacle
 1 Sheltered Thicket
 1 Ghost Quarter
 1 Hanweir Battlements
-1 Blast Zone
 1 Castle Garenbrig
 1 Sunhome, Fortress of the Legion
 1 Crumbling Vestige
@@ -297,9 +297,9 @@
 1 Bloodstained Mire
 2 Opt
 2 Dwarven Mine
-2 Delay
 2 Izzet Charm
 2 Bloodstained Mire
+2 Delay
 2 Mass Hysteria
 2 Remand
 2 Transmogrify
@@ -319,9 +319,9 @@
 4 Mass Hysteria
 4 Transmogrify
 4 Remand
-1 Aether Hub
 1 Brilliant Ultimatum
 1 Omniscience
+1 Aether Hub
 1 Pillar of the Paruns
 1 Tendo Ice Bridge
 1 Kozilek, Butcher of Truth
@@ -329,29 +329,29 @@
 1 Emrakul, the Promised End
 1 Gemstone Mine
 1 City of Brass
-2 Kozilek, Butcher of Truth
+2 Brilliant Ultimatum
+2 Tibalt's Trickery
 2 Aether Hub
 2 Pillar of the Paruns
 2 Omniscience
-2 Brilliant Ultimatum
-2 Tibalt's Trickery
+2 Kozilek, Butcher of Truth
 2 Ulamog, the Infinite Gyre
 2 Tendo Ice Bridge
 2 Emrakul, the Promised End
 2 Gemstone Mine
 2 City of Brass
-3 Aether Hub
-3 Kozilek, Butcher of Truth
-3 Omniscience
 3 Brilliant Ultimatum
-3 Pillar of the Paruns
+3 Aether Hub
+3 Omniscience
 3 Ulamog, the Infinite Gyre
+3 Kozilek, Butcher of Truth
+3 Pillar of the Paruns
 3 Emrakul, the Promised End
 3 Gemstone Mine
 3 City of Brass
+4 Ulamog, the Infinite Gyre
 4 Aether Hub
 4 Brilliant Ultimatum
-4 Ulamog, the Infinite Gyre
 4 Omniscience
 4 Pillar of the Paruns
 4 Gemstone Mine
@@ -412,8 +412,8 @@
 1 Snow-Covered Mountain
 1 Engineered Explosives
 1 Thassa's Oracle
-1 Minamo, School at Water's Edge
 1 Sai, Master Thopterist
+1 Minamo, School at Water's Edge
 1 Metallic Rebuke
 1 Grinding Station
 1 Chromatic Star
@@ -433,8 +433,8 @@
 2 Chromatic Star
 2 Mox Amber
 3 Lurrus of the Dream-Den
-3 Metallic Rebuke
 3 Mox Amber
+3 Metallic Rebuke
 3 Engineered Explosives
 3 Chromatic Star
 3 Grinding Station

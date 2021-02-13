@@ -1,5 +1,3 @@
-1 Murderous Rider
-3 Nullhide Ferox
 2 Murderous Rider
 3 Murderous Rider
 1 Mana Confluence
@@ -12,11 +10,13 @@
 3 Cathartic Reunion
 3 Samut, Voice of Dissent
 3 Gather the Pack
+3 Nullhide Ferox
 3 Blood Crypt
+4 Samut, Voice of Dissent
 4 Overgrown Tomb
 4 Murderous Rider
-4 Samut, Voice of Dissent
 4 Blood Crypt
+4 Satyr Wayfinder
 1 Urborg, Tomb of Yawgmoth
 1 Fatal Push
 1 Thoughtseize
@@ -57,16 +57,16 @@
 4 Fatal Push
 1 Anticognition
 1 Nighthawk Scavenger
-1 Fabled Passage
 1 Brazen Borrower
 1 Drowned Catacomb
+1 Fabled Passage
 2 Eliminate
-2 Fabled Passage
 2 Nighthawk Scavenger
 2 Mystical Dispute
 2 Island
 2 Brazen Borrower
 2 Drowned Catacomb
+2 Fabled Passage
 3 Brazen Borrower
 3 Drowned Catacomb
 3 Island
@@ -175,65 +175,62 @@
 3 Wishclaw Talisman
 3 Mardu Shadowspear
 4 Mardu Shadowspear
-1 Vampire of the Dire Moon
-2 Vampire of the Dire Moon
-4 Nullhide Ferox
 1 Branchloft Pathway
 1 Gladecover Scout
 1 Season of Growth
 1 Temple Garden
+1 Gryff's Boon
+1 Sentinel's Eyes
+1 All That Glitters
+1 Cartouche of Solidarity
+1 Ethereal Armor
 1 Fortified Village
 1 Sunpetal Grove
-1 Ethereal Armor
-1 Cartouche of Solidarity
-1 All That Glitters
 1 Bassara Tower Archer
 1 Adanto Vanguard
 1 Helm of the Gods
 1 Unflinching Courage
-1 Gryff's Boon
-1 Sentinel's Eyes
 2 Branchloft Pathway
 2 Season of Growth
 2 Gladecover Scout
 2 Temple Garden
-2 Sunpetal Grove
-2 Cartouche of Solidarity
-2 Plains
+2 Sentinel's Eyes
+2 Gryff's Boon
 2 All That Glitters
+2 Ethereal Armor
+2 Cartouche of Solidarity
+2 Sunpetal Grove
+2 Plains
 2 Forest
 2 Adanto Vanguard
-2 Ethereal Armor
-2 Gryff's Boon
 2 Bassara Tower Archer
-2 Sentinel's Eyes
 2 Helm of the Gods
 2 Unflinching Courage
 3 Gladecover Scout
 3 Branchloft Pathway
 3 Temple Garden
+3 Sentinel's Eyes
+3 Cartouche of Solidarity
+3 All That Glitters
 3 Adanto Vanguard
+3 Ethereal Armor
+3 Gryff's Boon
 3 Sunpetal Grove
 3 Unflinching Courage
-3 Cartouche of Solidarity
-3 Gryff's Boon
 3 Forest
-3 All That Glitters
-3 Ethereal Armor
 3 Bassara Tower Archer
-3 Sentinel's Eyes
 4 Gladecover Scout
 4 Branchloft Pathway
 4 Temple Garden
 4 Sunpetal Grove
-4 Adanto Vanguard
+4 Cartouche of Solidarity
+4 Gryff's Boon
+4 All That Glitters
+4 Ethereal Armor
 4 Sentinel's Eyes
+4 Adanto Vanguard
 4 Bassara Tower Archer
 4 Unflinching Courage
-4 Cartouche of Solidarity
-4 All That Glitters
-4 Gryff's Boon
-4 Ethereal Armor
 4 Forest
 5 Forest
 1 Champion of Dusk

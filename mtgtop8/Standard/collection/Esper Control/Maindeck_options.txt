@@ -29,17 +29,17 @@
 3 Negate
 1 Glass Casket
 2 Glass Casket
-1 Indatha Triome
 1 Binding the Old Gods
-2 Indatha Triome
+1 Indatha Triome
 2 Binding the Old Gods
-3 Indatha Triome
+2 Indatha Triome
 3 Binding the Old Gods
-4 Indatha Triome
+3 Indatha Triome
 4 Binding the Old Gods
+4 Indatha Triome
 1 Forest
-1 Eerie Ultimatum
 1 Branchloft Pathway
+1 Eerie Ultimatum
 2 Forest
 2 Branchloft Pathway
 3 Branchloft Pathway
@@ -83,8 +83,8 @@
 2 The Birth of Meletis
 1 Blightstep Pathway
 1 Savai Triome
-2 Savai Triome
 2 Blightstep Pathway
+2 Savai Triome
 3 Savai Triome
 3 Blightstep Pathway
 4 Savai Triome
@@ -103,22 +103,22 @@
 4 Needleverge Pathway
 4 Yorion, Sky Nomad
 1 Omen of the Forge
+1 Withercrown
 1 Rampage of the Valkyries
 1 Mazemind Tome
 1 Starnheim Unleashed
 1 Castle Ardenvale
-1 Withercrown
 1 Shatterskull Smashing
 2 Omen of the Forge
 2 Mazemind Tome
+2 Withercrown
 2 Doomskar
 2 Shatterskull Smashing
-2 Withercrown
 3 The Birth of Meletis
 3 Mazemind Tome
+3 Withercrown
 3 Omen of the Forge
 3 Doomskar
-3 Withercrown
 3 Temple of Plenty
 3 Temple of Silence
 1 The Raven's Warning
@@ -130,27 +130,6 @@
 1 Skemfar Elderhall
 2 Hagra Mauling
 4 Forest
-1 Cultivate
-1 Esika's Chariot
-1 Path to the World Tree
-1 Burning-Rune Demon
-1 Acolyte of Affliction
-1 Bala Ged Recovery
-1 In Search of Greatness
-1 The World Tree
-1 Mythos of Nethroi
-1 Charming Prince
-1 Castle Locthwain
-2 Path to the World Tree
-2 The World Tree
-2 Castle Locthwain
-2 In Search of Greatness
-2 Burning-Rune Demon
-3 Path to the World Tree
-3 The World Tree
-3 In Search of Greatness
-4 The World Tree
-4 Path to the World Tree
 1 Riverglide Pathway
 2 Riverglide Pathway
 2 Raugrin Triome
@@ -160,8 +139,29 @@
 4 Riverglide Pathway
 1 Omen of the Hunt
 4 Llanowar Visionary
-1 Zagoth Triome
+1 Esika's Chariot
+1 Path to the World Tree
+1 Acolyte of Affliction
+1 Bala Ged Recovery
+1 In Search of Greatness
+1 The World Tree
+1 Cultivate
+1 Mythos of Nethroi
+1 Charming Prince
+1 Burning-Rune Demon
+1 Castle Locthwain
+2 Path to the World Tree
+2 The World Tree
+2 Castle Locthwain
+2 In Search of Greatness
+2 Burning-Rune Demon
+3 In Search of Greatness
+3 The World Tree
+3 Path to the World Tree
+4 The World Tree
+4 Path to the World Tree
 1 Barkchannel Pathway
+1 Zagoth Triome
 2 Barkchannel Pathway
 2 Zagoth Triome
 3 Zagoth Triome
@@ -169,8 +169,8 @@
 4 Zagoth Triome
 4 Barkchannel Pathway
 1 Tranquil Cove
-1 Scoured Barrens
 1 Dismal Backwater
+1 Scoured Barrens
 2 Tranquil Cove
 2 Dismal Backwater
 2 Scoured Barrens

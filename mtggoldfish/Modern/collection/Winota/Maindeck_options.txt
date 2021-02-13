@@ -1,10 +1,10 @@
+4 Thalia, Guardian of Thraben
+1 Maul of the Skyclaves
 1 Inspiring Vantage
 2 Inspiring Vantage
 3 Inspiring Vantage
 4 Inspiring Vantage
 4 Angrath's Marauders
-3 Ghost Quarter
-4 Ghost Quarter
 2 Pia and Kiran Nalaar
 1 Charming Prince
 1 Path to Exile
@@ -17,10 +17,10 @@
 4 Path to Exile
 6 Plains
 1 Temple Garden
-1 Stomping Ground
 1 Birds of Paradise
-1 Windswept Heath
 1 Wooded Foothills
+1 Stomping Ground
+1 Windswept Heath
 2 Birds of Paradise
 2 Wooded Foothills
 2 Stomping Ground
@@ -29,9 +29,9 @@
 3 Wooded Foothills
 3 Windswept Heath
 4 Birds of Paradise
+1 Copperline Gorge
 1 Eldritch Evolution
 1 Voice of Resurgence
-1 Copperline Gorge
 1 Strangleroot Geist
 2 Eldritch Evolution
 2 Voice of Resurgence
@@ -46,6 +46,7 @@
 2 Copperline Gorge
 3 Copperline Gorge
 4 Eldritch Evolution
+1 Phyrexian Revoker
 1 Lightning Bolt
 2 Lightning Bolt
 1 Magus of the Moon
@@ -55,22 +56,21 @@
 3 Stomping Ground
 3 Arbor Elf
 1 Cavern of Souls
-1 Phyrexian Revoker
 2 Phyrexian Revoker
-3 Lightning Bolt
 2 Smuggler's Copter
-1 Snow-Covered Forest
+3 Lightning Bolt
 1 Snow-Covered Mountain
+1 Snow-Covered Forest
 4 Arbor Elf
+1 Geist-Honored Monk
+2 Geist-Honored Monk
+3 Geist-Honored Monk
 1 Forest
 2 Forest
 4 Lightning Bolt
 1 Arid Mesa
-1 Geist-Honored Monk
-2 Geist-Honored Monk
-3 Geist-Honored Monk
-1 Razorverge Thicket
 4 Geist-Honored Monk
+1 Razorverge Thicket
 2 Cavern of Souls
 3 Temple Garden
 1 Llanowar Elves
@@ -81,6 +81,8 @@
 2 Mountain
 1 Snow-Covered Plains
 1 Resolute Blademaster
+1 Rugged Prairie
+2 Rugged Prairie
 1 Horizon Canopy
 1 Huntmaster of the Fells
 1 Goblin Rabblemaster
@@ -88,15 +90,17 @@
 2 Charming Prince
 2 Magus of the Moon
 3 Forest
+3 Smuggler's Copter
 1 Godo, Bandit Warlord
 2 Godo, Bandit Warlord
 3 Godo, Bandit Warlord
 4 Godo, Bandit Warlord
-1 Island
+1 Reflecting Pool
 1 Blade Splicer
 1 Alirios, Enraptured
 1 Noble Hierarch
-1 Reflecting Pool
+1 Flooded Strand
+1 Island
 1 Meddling Mage
 1 Ancient Ziggurat
 1 Kitesail Freebooter
@@ -106,11 +110,10 @@
 1 Champion of the Parish
 1 Avacyn's Pilgrim
 1 Unclaimed Territory
-1 Flooded Strand
 2 Alirios, Enraptured
+2 Reflecting Pool
 2 Blade Splicer
 2 Noble Hierarch
-2 Reflecting Pool
 2 Meddling Mage
 2 Ancient Ziggurat
 2 Avacyn's Pilgrim
@@ -122,18 +125,18 @@
 2 Kitesail Freebooter
 3 Charming Prince
 3 Blade Splicer
-3 Reflecting Pool
 3 Noble Hierarch
-3 Smuggler's Copter
 3 Meddling Mage
 3 Champion of the Parish
 3 Cavern of Souls
 3 Flooded Strand
-3 Ancient Ziggurat
 3 Mantis Rider
+3 Ancient Ziggurat
 3 Thalia's Lieutenant
 3 Kitesail Freebooter
+3 Reflecting Pool
 3 Unclaimed Territory
+4 Blade Splicer
 4 Noble Hierarch
 4 Smuggler's Copter
 4 Meddling Mage
@@ -144,36 +147,37 @@
 4 Ancient Ziggurat
 4 Thalia's Lieutenant
 4 Reflecting Pool
-4 Blade Splicer
 4 Flooded Strand
 4 Cavern of Souls
 1 Eternal Witness
 2 Snow-Covered Forest
-1 Rugged Prairie
-2 Rugged Prairie
-1 Avalanche Riders
+1 Reidane, God of the Worthy
+1 Drannith Magistrate
+2 Drannith Magistrate
+3 Drannith Magistrate
 1 Utopia Sprawl
+1 Avalanche Riders
 1 Pia Nalaar
-2 Huntmaster of the Fells
 2 Utopia Sprawl
+2 Huntmaster of the Fells
 2 Avalanche Riders
 2 Pia Nalaar
+3 Utopia Sprawl
 3 Magus of the Moon
 3 Huntmaster of the Fells
 3 Goblin Rabblemaster
-3 Utopia Sprawl
+4 Utopia Sprawl
 4 Magus of the Moon
 4 Goblin Rabblemaster
 4 Huntmaster of the Fells
-4 Utopia Sprawl
 4 Forest
 5 Forest
-1 Brushfire Elemental
-1 Rampaging Ferocidon
 1 Gilded Goose
+1 Rampaging Ferocidon
+1 Brushfire Elemental
 1 Banisher Priest
-2 Brushfire Elemental
 2 Gilded Goose
 2 Arid Mesa
+2 Brushfire Elemental
 3 Gilded Goose
 4 Voice of Resurgence

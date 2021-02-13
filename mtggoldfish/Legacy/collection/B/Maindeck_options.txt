@@ -37,8 +37,8 @@
 1 Batterskull
 1 Stoneforge Mystic
 1 Scrubland
-2 Scrubland
 2 Stoneforge Mystic
+2 Scrubland
 3 Stoneforge Mystic
 3 Scrubland
 4 Scrubland
@@ -126,8 +126,8 @@
 2 Verdant Catacombs
 3 Verdant Catacombs
 3 Fatal Push
-1 Treacherous Blessing
 1 Kaya's Guile
+1 Treacherous Blessing
 1 Kitesail Freebooter
 1 Grim Tutor
 1 Phyrexian Obliterator
@@ -139,13 +139,13 @@
 2 Field of the Dead
 1 Field of Ruin
 2 Field of Ruin
+1 Fetid Heath
+2 Fetid Heath
+2 Plains
 1 Silent Clearing
 1 Tidehollow Sculler
 2 Tidehollow Sculler
 2 Silent Clearing
-1 Fetid Heath
-2 Plains
-2 Fetid Heath
 1 Ifnir Deadlands
 2 Ifnir Deadlands
 3 Ensnaring Bridge
@@ -164,15 +164,15 @@
 2 Liliana's Triumph
 2 Ashiok, Dream Render
 2 Blast Zone
+3 Castle Locthwain
 3 Ashiok, Dream Render
 3 Liliana's Triumph
-3 Castle Locthwain
 4 Ashiok, Dream Render
 4 Plague Engineer
 1 Wooded Foothills
+1 Nurturing Peatland
 1 Collective Brutality
 1 Tarmogoyf
-1 Nurturing Peatland
 1 Assassin's Trophy
 1 Scavenging Ooze
 1 Abrupt Decay
@@ -187,20 +187,20 @@
 2 Assassin's Trophy
 2 Abrupt Decay
 2 Bayou
-3 Hexdrinker
 3 Assassin's Trophy
-3 Nurturing Peatland
 3 Tarmogoyf
-4 Hexdrinker
+3 Hexdrinker
+3 Nurturing Peatland
 4 Verdant Catacombs
 4 Tarmogoyf
+4 Hexdrinker
 1 Cabal Therapy
 1 Volrath's Stronghold
 1 Court of Ambition
 1 Dead of Winter
-1 Skyclave Shade
 1 Mox Diamond
 1 Frostwalk Bastion
+1 Skyclave Shade
 1 Astrolabe
 2 Cabal Therapy
 2 Dead of Winter
@@ -210,8 +210,8 @@
 2 Astrolabe
 3 Cabal Therapy
 3 Dead of Winter
-3 Skyclave Shade
 3 Mox Diamond
+3 Skyclave Shade
 3 Astrolabe
 4 Dead of Winter
 4 Sinkhole

@@ -43,11 +43,3 @@
 |                                                                                                 |1 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)  |                                                                                            |
 |                                                                                                 |2 [Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)            |                                                                                            |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
-|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
-|                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)|                    1|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)|
-|                    1|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)   |                     |                                                                                          |
-
