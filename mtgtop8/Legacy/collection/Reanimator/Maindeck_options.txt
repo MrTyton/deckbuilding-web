@@ -1,21 +1,15 @@
-2 Polluted Delta
-1 Tendrils of Agony
-3 Badlands
-1 Verdant Catacombs
-1 Iona, Shield of Emeria
-3 Polluted Delta
 2 Swamp
 1 Cabal Therapy
 2 Cabal Therapy
-2 Verdant Catacombs
+1 Bayou
+2 Polluted Delta
+3 Badlands
+1 Verdant Catacombs
 1 Sire of Insanity
-1 Collective Brutality
-1 Duress
-2 Duress
+1 Iona, Shield of Emeria
 1 Snow-Covered Swamp
+3 Polluted Delta
 2 Snow-Covered Swamp
-3 Verdant Catacombs
-1 Ashen Rider
 1 Dark Depths
 1 Urborg, Tomb of Yawgmoth
 1 Vampire Hexmage
@@ -27,6 +21,8 @@
 3 Thespian's Stage
 3 Vampire Hexmage
 3 Dark Depths
+1 Duress
+2 Duress
 3 Duress
 3 Snow-Covered Swamp
 3 Cabal Therapy
@@ -37,6 +33,7 @@
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
 3 Swamp
+1 Collective Brutality
 2 Collective Brutality
 3 Collective Brutality
 4 Collective Brutality
@@ -46,6 +43,7 @@
 2 Hymn to Tourach
 3 Hymn to Tourach
 4 Hymn to Tourach
+2 Verdant Catacombs
 1 Brainstorm
 1 Ponder
 1 Tropical Island
@@ -62,7 +60,6 @@
 4 Ponder
 4 Force of Will
 4 Brainstorm
-1 Pathrazer of Ulamog
 1 Blood Crypt
 1 Godless Shrine
 2 Blood Crypt
@@ -79,6 +76,7 @@
 2 Daze
 3 Careful Study
 3 Underground Sea
+3 Verdant Catacombs
 4 Verdant Catacombs
 4 Careful Study
 1 Veil of Summer
@@ -91,8 +89,8 @@
 2 Lion's Eye Diamond
 2 Shallow Grave
 3 Living Wish
-3 Lion's Eye Diamond
 3 Shallow Grave
+3 Lion's Eye Diamond
 4 Shallow Grave
 4 Living Wish
 4 Lion's Eye Diamond
@@ -133,6 +131,7 @@
 4 Arcum's Astrolabe
 1 Putrid Imp
 1 Smallpox
+1 Ashen Rider
 2 Putrid Imp
 2 Smallpox
 3 Smallpox

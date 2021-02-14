@@ -1,3 +1,4 @@
+2 Wooded Foothills
 3 Wooded Foothills
 1 Windswept Heath
 2 Windswept Heath
@@ -44,32 +45,33 @@
 1 Kolaghan's Command
 1 Mountain
 2 Abrupt Decay
-4 Brazen Borrower
-4 Omnath, Locus of Creation
 1 Polluted Delta
-4 Windswept Heath
+4 Omnath, Locus of Creation
 2 Polluted Delta
 1 Mystic Sanctuary
+4 Windswept Heath
 1 Scalding Tarn
+2 Scalding Tarn
 1 Swamp
 3 Niv-Mizzet Reborn
-2 Scalding Tarn
-2 Verdant Catacombs
 1 Commandeer
 3 Gemstone Caverns
-1 Mana Confluence
-1 Sisay, Weatherlight Captain
+2 Verdant Catacombs
 3 Polluted Delta
+1 Mana Confluence
 3 Scalding Tarn
-1 Bonecrusher Giant
+1 Sisay, Weatherlight Captain
 2 Commandeer
 2 Supreme Verdict
-1 Mystical Dispute
 4 Scalding Tarn
 1 Cryptic Command
+1 Bonecrusher Giant
+1 Mystical Dispute
 2 Mana Confluence
+2 Mystic Sanctuary
 1 Godless Shrine
 4 Polluted Delta
+2 Cryptic Command
 1 Savai Triome
 2 Sisay, Weatherlight Captain
 1 Kaya, Orzhov Usurper
@@ -80,23 +82,23 @@
 4 Bring to Light
 1 Snow-Covered Swamp
 4 Wooded Foothills
-1 Omen of the Forge
 1 Glasspool Mimic
 1 Omen of the Sea
 1 Lurrus of the Dream-Den
 1 Phantasmal Image
+1 Reflector Mage
 1 Meddling Mage
 1 Charming Prince
 1 Magus of the Moon
 1 Spellskite
+1 Omen of the Forge
 1 Skyclave Apparition
 1 Brain Maggot
 1 Scavenging Ooze
-1 Reflector Mage
 1 Enigmatic Incarnation
-2 Omen of the Forge
 2 Birds of Paradise
 2 Omen of the Sea
+2 Omen of the Forge
 2 Skyclave Apparition
 2 Enigmatic Incarnation
 3 Omen of the Sea
@@ -104,10 +106,8 @@
 4 Omen of the Sea
 4 Enigmatic Incarnation
 1 Reflecting Pool
-2 Mystic Sanctuary
 1 Nissa of Shadowed Boughs
 1 Snow-Covered Mountain
-2 Cryptic Command
 1 Renegade Rallier
 2 Renegade Rallier
 1 Valakut Awakening
@@ -122,6 +122,8 @@
 4 Spreading Seas
 1 Eternal Witness
 1 Lithoform Blight
+1 Dismember
+3 Commandeer
 2 Snow-Covered Forest
 1 Pillar of the Paruns
 4 Gemstone Caverns
@@ -165,19 +167,18 @@
 4 Brilliant Ultimatum
 1 Chandra, Awakened Inferno
 1 Kitchen Finks
+4 Uro, Titan of Nature's Wrath
 1 Ephemerate
-1 Dismember
 3 Birds of Paradise
 3 Mystical Dispute
-3 Commandeer
 1 Ulamog, the Ceaseless Hunger
 4 Mana Confluence
 1 Emrakul, the Promised End
 3 Pillar of the Paruns
-4 Uro, Titan of Nature's Wrath
+4 Commandeer
+4 Supreme Verdict
 1 Firespout
 1 Warrant/Warden
-4 Supreme Verdict
 1 Oath of Nissa
 2 Temple Garden
 3 Forest
@@ -186,7 +187,6 @@
 4 Omniscience
 4 Pillar of the Paruns
 2 Emrakul, the Promised End
-4 Commandeer
 1 Failure/Comply
 2 Failure/Comply
 1 Timely Reinforcements
@@ -221,6 +221,8 @@
 1 Lightning Bolt
 1 Voice of Resurgence
 1 Archon of Emeria
+3 Omen of the Forge
+4 Omen of the Forge
 1 Hour of Promise
 1 Nahiri, the Harbinger
 1 Blood Crypt
@@ -229,8 +231,6 @@
 3 Abrupt Decay
 4 Verdant Catacombs
 4 Kaya's Guile
-3 Omen of the Forge
-4 Omen of the Forge
 1 Dead/Gone
 1 Engineered Explosives
 2 Assassin's Trophy
@@ -250,17 +250,19 @@
 1 Tendo Ice Bridge
 2 Tendo Ice Bridge
 2 Liliana of the Veil
-1 Through the Breach
-2 Through the Breach
-3 Through the Breach
-4 Chancellor of the Annex
+2 Dismember
+3 Cryptic Command
 4 Tibalt's Trickery
-1 Detention Sphere
-4 Bonecrusher Giant
 1 Genesis Ultimatum
 2 Genesis Ultimatum
 3 Genesis Ultimatum
 4 Genesis Ultimatum
+1 Through the Breach
+2 Through the Breach
+3 Through the Breach
+4 Chancellor of the Annex
+1 Detention Sphere
+4 Bonecrusher Giant
 1 Spell Queller
 1 Marsh Flats
 1 Release to the Wind

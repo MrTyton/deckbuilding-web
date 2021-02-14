@@ -46,8 +46,8 @@
 1 Terminus
 2 Terminus
 3 Terminus
-1 Cleansing Wildfire
 1 Flagstones of Trokair
+1 Cleansing Wildfire
 2 Cleansing Wildfire
 2 Flagstones of Trokair
 3 Flagstones of Trokair
@@ -131,9 +131,9 @@
 4 Misty Rainforest
 1 Cascade Bluffs
 1 The Royal Scions
+2 Magmatic Sinkhole
 2 Cascade Bluffs
 2 The Royal Scions
-2 Magmatic Sinkhole
 3 Brazen Borrower
 4 Brazen Borrower
 1 Abrade
@@ -157,8 +157,8 @@
 4 Engineered Explosives
 1 Emrakul, the Aeons Torn
 1 Through the Breach
-2 Through the Breach
 2 Emrakul, the Aeons Torn
+2 Through the Breach
 3 Emrakul, the Aeons Torn
 3 Through the Breach
 3 Sulfur Falls
@@ -169,13 +169,13 @@
 1 Arid Mesa
 3 Celestial Colonnade
 1 Aether Gust
-1 Fiery Islet
 1 Ancestral Vision
+1 Fiery Islet
 2 Ancestral Vision
 1 Valakut Awakening
-1 Spirebluff Canal
 1 Blood Sun
 1 Lotus Field
+1 Spirebluff Canal
 1 Nexus of Fate
 2 Blood Sun
 2 Spirebluff Canal
@@ -186,8 +186,8 @@
 3 Valakut Awakening
 3 Lotus Field
 3 Spirebluff Canal
-4 Cryptic Command
 4 Blood Sun
+4 Cryptic Command
 4 Lotus Field
 4 Shark Typhoon
 4 Spirebluff Canal
@@ -214,27 +214,27 @@
 1 Condemn
 1 Wandering Fumarole
 1 Shadow of Doubt
-1 Narset, Parter of Veils
-1 Flame Slash
-2 Narset, Parter of Veils
-1 Serum Visions
-2 Serum Visions
 1 Bitterblossom
 2 Kaya, Orzhov Usurper
 2 Bitterblossom
+1 Flame Slash
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
 2 Chromatic Star
+1 Serum Visions
+2 Serum Visions
 1 Silundi Vision
 1 Rest in Peace
+2 Prismatic Vista
 2 Timely Reinforcements
 2 Rest in Peace
-2 Prismatic Vista
 2 Silundi Vision
 2 Mystic Gate
 2 Aether Gust
 1 Dispel
 3 Ancestral Vision
-1 Mutavault
 1 Commandeer
+1 Mutavault
 2 Mutavault
 3 Mutavault
 4 Mutavault
@@ -255,16 +255,16 @@
 4 Hallowed Fountain
 4 Teferi, Time Raveler
 4 Thraben Inspector
-1 Counterbalance
 1 Disrupting Shoal
-2 Counterbalance
+1 Counterbalance
 2 Disrupting Shoal
+2 Counterbalance
 3 Counterbalance
 4 Omen of the Sea
 4 Counterbalance
-1 Drown in the Loch
 1 Sunken Ruins
 1 Cling to Dust
+1 Drown in the Loch
 1 Esper Charm
 2 Cling to Dust
 2 Drown in the Loch

@@ -47,8 +47,8 @@
 2 Castle Ardenvale
 3 Castle Ardenvale
 1 Neutralize
-2 Midnight Clock
 2 Neutralize
+2 Midnight Clock
 3 Neutralize
 3 Omen of the Sun
 3 Midnight Clock
@@ -56,10 +56,10 @@
 1 Thirst for Meaning
 1 Mystic Subdual
 2 Thirst for Meaning
-3 Jwari Disruption
 3 Negate
-4 Jwari Disruption
+3 Jwari Disruption
 4 Negate
+4 Jwari Disruption
 4 Emeria's Call
 1 Teferi, Master of Time
 1 Confounding Conundrum
@@ -70,9 +70,9 @@
 2 Sublime Epiphany
 2 Mystical Dispute
 3 Dream Trawler
-3 Sublime Epiphany
 3 Confounding Conundrum
 3 Mystical Dispute
+3 Sublime Epiphany
 4 Shark Typhoon
 4 Mystical Dispute
 10 Plains
@@ -94,13 +94,13 @@
 1 Frantic Inventory
 1 Swift Response
 1 Kiora Bests the Sea God
-1 Disenchant
 1 Banishing Light
+1 Disenchant
 1 Jace, Mirror Mage
 1 Cancel
 1 Ruin Crab
-2 Rain of Revelation
 2 Cancel
+2 Rain of Revelation
 2 Frantic Inventory
 2 Banishing Light
 2 Kiora Bests the Sea God
@@ -112,14 +112,14 @@
 4 Tranquil Cove
 4 Frantic Inventory
 4 Banishing Light
-1 Alrund's Epiphany
 1 Cosima, God of the Voyage
+1 Alrund's Epiphany
 1 Snow-Covered Plains
 1 Starnheim Unleashed
 1 Snow-Covered Island
-2 Alrund's Epiphany
 2 Cosima, God of the Voyage
 2 Field of Ruin
+2 Alrund's Epiphany
 2 Snow-Covered Island
 2 Starnheim Unleashed
 2 Snow-Covered Plains
@@ -128,8 +128,8 @@
 3 Doomskar
 3 Snow-Covered Plains
 4 Saw It Coming
-4 Behold the Multiverse
 4 Snow-Covered Island
+4 Behold the Multiverse
 4 Snow-Covered Plains
 5 Snow-Covered Island
 6 Snow-Covered Island
