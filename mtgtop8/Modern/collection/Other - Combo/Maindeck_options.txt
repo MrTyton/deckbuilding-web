@@ -112,9 +112,8 @@
 1 Skyclave Apparition
 1 Oust
 1 Plains
-1 Dovescape
 1 Wheel of Sun and Moon
-1 Temple of Triumph
+1 Dovescape
 1 Marsh Flats
 1 Nine Lives
 1 Deafening Clarion
@@ -123,6 +122,7 @@
 1 Form of the Dragon
 1 Solemnity
 1 Silence
+1 Temple of Triumph
 1 Mistveil Plains
 1 Enduring Ideal
 1 Lotus Bloom
@@ -131,12 +131,12 @@
 2 Silence
 2 Nykthos, Shrine to Nyx
 2 Oust
-2 Temple of Triumph
 2 Sacred Foundry
 2 Marsh Flats
 2 Nine Lives
 2 Enduring Ideal
 2 Plains
+2 Temple of Triumph
 2 Phyrexian Unlife
 2 Form of the Dragon
 2 Treasure Map
@@ -218,14 +218,20 @@
 2 Bonecrusher Giant
 1 Nature's Claim
 2 Nature's Claim
-2 Deafening Clarion
-3 Temple of Triumph
 1 Lovestruck Beast
 2 Lovestruck Beast
 2 Swamp
 3 Lovestruck Beast
 3 Omnath, Locus of Creation
 3 Dismember
+2 Deafening Clarion
+3 Temple of Triumph
+1 Murderous Rider
+1 Snow-Covered Swamp
+1 Prismatic Vista
+2 Murderous Rider
+2 Prismatic Vista
+4 Magus of the Moon
 1 Mountain
 2 Mountain
 1 Tibalt's Trickery
@@ -255,28 +261,22 @@
 1 Grove of the Burnwillows
 1 Radiant Fountain
 1 Bojuka Bog
-2 Grove of the Burnwillows
 2 Field of the Dead
 2 Valakut, the Molten Pinnacle
+2 Grove of the Burnwillows
 2 Gruul Turf
 2 Castle Garenbrig
 2 Tolaria West
 2 Snow-Covered Forest
 2 Simic Growth Chamber
-3 Grove of the Burnwillows
 3 Tolaria West
 3 Gruul Turf
+3 Grove of the Burnwillows
 3 Forest
 3 Simic Growth Chamber
 3 Castle Garenbrig
-4 Grove of the Burnwillows
 4 Gruul Turf
-1 Murderous Rider
-1 Snow-Covered Swamp
-1 Prismatic Vista
-2 Murderous Rider
-2 Prismatic Vista
-4 Magus of the Moon
+4 Grove of the Burnwillows
 3 Thoughtseize
 4 Thoughtseize
 3 Pelakka Predation
@@ -370,20 +370,20 @@
 4 Psychic Puppetry
 4 Dream's Grip
 1 Opt
-1 Dwarven Mine
 1 Mass Hysteria
 1 Izzet Charm
 1 Transmogrify
 1 Lightning Bolt
 1 Polymorph
+1 Dwarven Mine
 1 Delay
 1 Bloodstained Mire
 1 Remand
 2 Opt
-2 Dwarven Mine
 2 Delay
 2 Izzet Charm
 2 Bloodstained Mire
+2 Dwarven Mine
 2 Remand
 2 Mass Hysteria
 2 Transmogrify
@@ -391,11 +391,11 @@
 2 Polymorph
 3 Arid Mesa
 3 Opt
-3 Dwarven Mine
 3 Remand
 3 Lightning Bolt
 3 Polymorph
 3 Transmogrify
+3 Dwarven Mine
 3 Mass Hysteria
 4 Arid Mesa
 4 Polymorph

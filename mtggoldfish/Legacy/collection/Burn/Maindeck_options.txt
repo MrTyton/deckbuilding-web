@@ -12,8 +12,8 @@
 3 Simian Spirit Guide
 4 Simian Spirit Guide
 3 Bomat Courier
-4 Bomat Courier
 4 Roiling Vortex
+4 Bomat Courier
 1 Sulfuric Vortex
 2 Sulfuric Vortex
 1 Light Up the Stage
@@ -58,20 +58,20 @@
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
-1 Grim Lavamancer
 1 Arid Mesa
+1 Grim Lavamancer
 2 Arid Mesa
 1 Magmatic Channeler
-1 Blood Moon
 1 Pyrostatic Pillar
+1 Blood Moon
 1 Flame Rift
-1 Pyrokinesis
-1 Street Wraith
 1 Goblin Cratermaker
+1 Street Wraith
 1 Sonic Burst
+1 Pyrokinesis
 2 Street Wraith
-2 Pyrokinesis
 2 Sonic Burst
+2 Pyrokinesis
 2 Goblin Cratermaker
 3 Goblin Cratermaker
 1 Scalding Tarn
@@ -83,23 +83,13 @@
 2 Sunbaked Canyon
 2 Barbarian Ring
 4 Light Up the Stage
-11 Snow-Covered Mountain
-12 Snow-Covered Mountain
-13 Snow-Covered Mountain
-14 Snow-Covered Mountain
-15 Snow-Covered Mountain
-16 Snow-Covered Mountain
-17 Snow-Covered Mountain
-18 Snow-Covered Mountain
-19 Snow-Covered Mountain
-20 Snow-Covered Mountain
-1 Swamp
 1 Smoldering Marsh
 1 Bump in the Night
 1 Dark Confidant
-1 Cling to Dust
 1 Faithless Looting
+1 Cling to Dust
 1 Thunderous Wrath
+1 Swamp
 1 Pyromancer Ascension
 1 Fruit of Tizerus
 1 Badlands
@@ -121,3 +111,13 @@
 4 Bump in the Night
 4 Pyromancer Ascension
 4 Inquisition of Kozilek
+11 Snow-Covered Mountain
+12 Snow-Covered Mountain
+13 Snow-Covered Mountain
+14 Snow-Covered Mountain
+15 Snow-Covered Mountain
+16 Snow-Covered Mountain
+17 Snow-Covered Mountain
+18 Snow-Covered Mountain
+19 Snow-Covered Mountain
+20 Snow-Covered Mountain

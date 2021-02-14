@@ -1,3 +1,4 @@
+1 Ponder
 1 Brainstorm
 2 Brainstorm
 3 Brainstorm
@@ -28,8 +29,8 @@
 3 Glimpse the Unthinkable
 3 Visions of Beyond
 3 Archive Trap
-4 Ruin Crab
 4 Polluted Delta
+4 Ruin Crab
 4 Archive Trap
 4 Hedron Crab
 1 Island
@@ -46,9 +47,25 @@
 3 Surgical Extraction
 3 Mission Briefing
 4 Glimpse the Unthinkable
+1 Gemstone Mine
+1 Ardent Plea
+1 Mana Confluence
+1 City of Brass
+2 City of Brass
+2 Ardent Plea
+2 Mana Confluence
+2 Gemstone Mine
+3 City of Brass
+3 Mana Confluence
+3 Gemstone Mine
+3 Ardent Plea
+4 City of Brass
+4 Gemstone Mine
+4 Ardent Plea
+4 Mana Confluence
+3 Mystical Dispute
 4 Misty Rainforest
 4 Ponder
-2 Tropical Island
 4 Prismatic Vista
 1 Thassa's Oracle
 1 Lotus Petal
@@ -86,6 +103,8 @@
 1 Waterlogged Grove
 1 Thoughtseize
 2 Thoughtseize
+1 Plateau
+1 Wooded Foothills
 1 Blood Moon
 2 Blood Moon
 1 Badlands
@@ -102,26 +121,7 @@
 2 Spell Pierce
 3 Veil of Summer
 3 Brazen Borrower
-3 Mystical Dispute
 4 Brazen Borrower
-1 Plateau
-1 Gemstone Mine
-1 Ardent Plea
-1 Wooded Foothills
-1 Mana Confluence
-1 City of Brass
-2 City of Brass
-2 Ardent Plea
-2 Mana Confluence
-2 Gemstone Mine
-3 City of Brass
-3 Mana Confluence
-3 Gemstone Mine
-3 Ardent Plea
-4 City of Brass
-4 Gemstone Mine
-4 Ardent Plea
-4 Mana Confluence
 1 Griselbrand
 3 Tropical Island
 1 Uro, Titan of Nature's Wrath
@@ -161,8 +161,8 @@
 1 Thieves' Guild Enforcer
 1 Brain Freeze
 2 Drown in the Loch
-2 Bitterblossom
 2 Thieves' Guild Enforcer
+2 Bitterblossom
 2 Brain Freeze
 3 Underground Sea
 3 Thieves' Guild Enforcer
@@ -276,6 +276,8 @@
 4 Splinter Twin
 4 Swords to Plowshares
 4 Arcum's Astrolabe
+1 Savannah
+4 Valki, God of Lies
 1 Chalice of the Void
 1 Intuition
 1 Impulse

@@ -30,8 +30,8 @@
 1 Overgrown Tomb
 2 Overgrown Tomb
 1 Wildborn Preserver
-2 Scavenging Ooze
 2 Wildborn Preserver
+2 Scavenging Ooze
 3 Realmwalker
 4 Realmwalker
 4 Snow-Covered Forest
@@ -55,8 +55,8 @@
 3 Imperious Perfect
 4 Elvish Champion
 4 Imperious Perfect
-1 Elvish Visionary
 1 Chord of Calling
+1 Elvish Visionary
 2 Elvish Visionary
 3 Elvish Visionary
 4 Elvish Visionary
@@ -85,8 +85,8 @@
 2 Verdant Catacombs
 1 Mutavault
 2 Craterhoof Behemoth
-1 Eternal Witness
 1 Okina, Temple to the Grandfathers
+1 Eternal Witness
 1 Reclamation Sage
 1 Horizon Canopy
 2 Nykthos, Shrine to Nyx
@@ -95,13 +95,13 @@
 1 Evolutionary Leap
 2 Essence Warden
 3 Overgrown Tomb
+2 Unclaimed Territory
+3 Unclaimed Territory
+4 Unclaimed Territory
 1 Llanowar Visionary
 2 Llanowar Visionary
 3 Llanowar Visionary
 4 Llanowar Visionary
-2 Unclaimed Territory
-3 Unclaimed Territory
-4 Unclaimed Territory
 1 Elvish Reclaimer
 1 Nissa of Shadowed Boughs
 2 Elvish Reclaimer
@@ -118,9 +118,13 @@
 3 Elves of Deep Shadow
 4 Elves of Deep Shadow
 4 Gilt-Leaf Archdruid
-6 Snow-Covered Forest
-7 Snow-Covered Forest
-8 Snow-Covered Forest
+1 Castle Garenbrig
+1 Beast Whisperer
+2 Beast Whisperer
+2 Castle Garenbrig
+2 Winding Way
+3 Beast Whisperer
+4 Beast Whisperer
 1 Arbor Elf
 2 Arbor Elf
 3 Arbor Elf
@@ -132,10 +136,6 @@
 16 Forest
 17 Forest
 18 Forest
-1 Castle Garenbrig
-1 Beast Whisperer
-2 Beast Whisperer
-2 Castle Garenbrig
-2 Winding Way
-3 Beast Whisperer
-4 Beast Whisperer
+6 Snow-Covered Forest
+7 Snow-Covered Forest
+8 Snow-Covered Forest

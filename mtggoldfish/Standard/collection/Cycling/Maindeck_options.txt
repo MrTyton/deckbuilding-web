@@ -1,62 +1,65 @@
-1 Hengegate Pathway
-2 Hengegate Pathway
-3 Hengegate Pathway
 4 Hengegate Pathway
-2 Plains
+4 Brightclimb Pathway
+1 Rielle, the Everwise
+2 Rielle, the Everwise
+2 Clearwater Pathway
+3 Clearwater Pathway
+3 Rielle, the Everwise
+4 Improbable Alliance
+4 Clearwater Pathway
+1 Shredded Sails
 3 Raugrin Triome
+2 Plains
 3 Plains
 1 Mountain
-4 Brightclimb Pathway
+2 Mountain
 1 Drannith Healer
 2 Drannith Healer
 3 Drannith Healer
-2 Mountain
-1 Improbable Alliance
-2 Improbable Alliance
-3 Improbable Alliance
-4 Plains
 4 Drannith Healer
-4 Frostveil Ambush
-4 Improbable Alliance
-4 Raugrin Triome
+4 Plains
 3 Mountain
 4 Mountain
-1 Shredded Sails
+1 Savai Triome
+4 Frostveil Ambush
+2 Shredded Sails
 5 Plains
+4 Raugrin Triome
 6 Plains
 7 Plains
 8 Plains
 5 Mountain
-6 Mountain
-1 Savai Triome
 1 Blightstep Pathway
 2 Blightstep Pathway
-2 Shredded Sails
+1 Mystical Dispute
+2 Mystical Dispute
 2 Savai Triome
 1 Shatterskull Smashing
+3 Shredded Sails
+6 Mountain
 1 Yidaro, Wandering Monster
 2 Yidaro, Wandering Monster
 3 Yidaro, Wandering Monster
 4 Yidaro, Wandering Monster
+1 Island
 1 Swamp
 2 Swamp
-1 Heartless Act
-1 Island
 1 Fabled Passage
+2 Fabled Passage
+3 Fabled Passage
+4 Fabled Passage
+1 Heartless Act
 1 Zagoth Triome
 2 Zagoth Triome
-2 Fabled Passage
 2 Island
 2 Heartless Act
-3 Fabled Passage
 3 Swamp
-4 Fabled Passage
 1 Darkbore Pathway
 1 Valki, God of Lies
 1 Binding the Old Gods
 1 Eliminate
-1 Cling to Dust
 1 Negate
+1 Cling to Dust
 1 Extinction Event
 1 Soul Shatter
 1 Mazemind Tome
@@ -80,25 +83,25 @@
 2 Jwari Disruption
 2 Eliminate
 2 Extinction Event
+2 Negate
 2 Barkchannel Pathway
 2 Darkbore Pathway
-2 Negate
 2 Shadows' Verdict
 2 Ketria Triome
 3 Disdainful Stroke
 3 Jwari Disruption
-3 Shark Typhoon
-3 Negate
+3 Zagoth Triome
+3 Ketria Triome
 3 Omen of the Sea
+3 Shark Typhoon
 3 Barkchannel Pathway
 3 Darkbore Pathway
 3 Valki, God of Lies
-3 Ketria Triome
+3 Negate
 3 Heartless Act
 3 Mazemind Tome
 3 Binding the Old Gods
 3 Eliminate
-3 Zagoth Triome
 4 Disdainful Stroke
 4 Negate
 4 Eliminate
@@ -113,28 +116,26 @@
 4 Mazemind Tome
 4 Binding the Old Gods
 4 Valki, God of Lies
-1 Neutralize
-2 Shatterskull Smashing
-2 Neutralize
-1 Selfless Savior
-2 Selfless Savior
 1 Teferi, Master of Time
 1 Irencrag Pyromancer
 2 Teferi, Master of Time
-3 Shredded Sails
-1 Essence Scatter
+1 Selfless Savior
+2 Selfless Savior
+2 Shatterskull Smashing
+4 Shredded Sails
 1 Didn't Say Please
 1 Of One Mind
 1 Lullmage's Domination
 1 Drown in the Loch
+1 Essence Scatter
 1 Into the Story
+1 Bloodchief's Thirst
 1 Agadeem's Awakening
 1 Temple of Deceit
 1 Thieves' Guild Enforcer
 1 Soaring Thought-Thief
 1 Merfolk Windrobber
 1 Ruin Crab
-1 Bloodchief's Thirst
 2 Of One Mind
 2 Lullmage's Domination
 2 Ruin Crab
@@ -144,16 +145,16 @@
 2 Thieves' Guild Enforcer
 2 Agadeem's Awakening
 2 Drown in the Loch
-2 Merfolk Windrobber
 2 Into the Story
+2 Merfolk Windrobber
 3 Thieves' Guild Enforcer
-3 Merfolk Windrobber
 3 Ruin Crab
 3 Island
 3 Of One Mind
 3 Lullmage's Domination
 3 Drown in the Loch
 3 Agadeem's Awakening
+3 Merfolk Windrobber
 3 Soaring Thought-Thief
 3 Temple of Deceit
 3 Into the Story
@@ -171,8 +172,8 @@
 4 Imposing Vantasaur
 7 Mountain
 8 Mountain
-1 Snow-Covered Plains
 1 Snow-Covered Mountain
+1 Snow-Covered Plains
 2 Snow-Covered Mountain
 2 Snow-Covered Plains
 3 Snow-Covered Mountain

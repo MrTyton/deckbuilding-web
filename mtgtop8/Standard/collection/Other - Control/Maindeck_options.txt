@@ -5,8 +5,8 @@
 1 Branchloft Pathway
 1 Elspeth's Nightmare
 2 Forest
-2 Indatha Triome
 2 Elspeth's Nightmare
+2 Indatha Triome
 2 Swamp
 3 Indatha Triome
 4 Indatha Triome
@@ -25,11 +25,11 @@
 1 Temple of Silence
 3 Elspeth Conquers Death
 1 Bloodchief's Thirst
-1 Doom Foretold
 1 Treacherous Blessing
-2 Eerie Ultimatum
+1 Doom Foretold
 2 Treacherous Blessing
 2 Doom Foretold
+2 Eerie Ultimatum
 3 Treacherous Blessing
 3 Doom Foretold
 4 Doom Foretold
@@ -97,8 +97,8 @@
 1 Crawling Barrens
 1 Valki, God of Lies
 2 Valki, God of Lies
-3 Valki, God of Lies
 3 Darkbore Pathway
+3 Valki, God of Lies
 4 Darkbore Pathway
 1 Ketria Triome
 3 Lukka, Coppercoat Outcast
@@ -109,23 +109,23 @@
 1 Doomskar
 1 Setessan Champion
 2 Garruk, Cursed Huntsman
-2 Tergrid, God of Fright
 2 Doomskar
+2 Tergrid, God of Fright
 2 Setessan Champion
 3 Setessan Champion
 3 Eliminate
 3 Tergrid, God of Fright
 3 Eerie Ultimatum
 4 Tergrid, God of Fright
-1 Firja's Retribution
-1 Kaya the Inexorable
 1 Burning-Rune Demon
 1 Esika's Chariot
 1 Charming Prince
+1 Firja's Retribution
 1 Tangled Florahedron
-2 Temple of Silence
+1 Kaya the Inexorable
 2 Firja's Retribution
 2 Tangled Florahedron
+2 Temple of Silence
 3 Yorion, Sky Nomad
 3 Temple of Silence
 3 Tangled Florahedron
@@ -141,9 +141,9 @@
 3 Gilded Goose
 3 Trail of Crumbs
 3 Emeria's Call
+4 Elspeth's Nightmare
 4 Emeria's Call
 4 Trail of Crumbs
-4 Elspeth's Nightmare
 4 Wicked Wolf
 4 Gilded Goose
 5 Forest
@@ -162,8 +162,8 @@
 2 Ugin, the Spirit Dragon
 3 Ugin, the Spirit Dragon
 3 Solemn Simulacrum
-4 Solemn Simulacrum
 4 Ugin, the Spirit Dragon
+4 Solemn Simulacrum
 1 Banishing Light
 2 Ondu Inversion
 1 Soul Sear
@@ -173,56 +173,27 @@
 1 Zagoth Triome
 1 Cragcrown Pathway
 2 Cragcrown Pathway
-1 Temple of Abandon
-1 Blightstep Pathway
-1 Dream Devourer
-1 Vorinclex, Monstrous Raider
-1 Cultivate
-1 Snow-Covered Mountain
-1 Snow-Covered Forest
-1 Liliana, Waker of the Dead
-1 Snow-Covered Swamp
-2 Blightstep Pathway
-2 Dream Devourer
-2 Vorinclex, Monstrous Raider
-2 Liliana, Waker of the Dead
-2 Cultivate
-2 Snow-Covered Mountain
-2 Snow-Covered Swamp
-2 Snow-Covered Forest
-3 Vorinclex, Monstrous Raider
-3 Blightstep Pathway
-3 Dream Devourer
-3 Cultivate
-3 Snow-Covered Swamp
-3 Snow-Covered Forest
-4 Blightstep Pathway
-4 Valki, God of Lies
-4 Dream Devourer
-4 Vorinclex, Monstrous Raider
-4 Lukka, Coppercoat Outcast
-4 Cultivate
 1 Island
-1 Savai Triome
+1 Riverglide Pathway
 1 Jungle Hollow
 1 Thornwood Falls
 1 Tranquil Cove
-1 Riverglide Pathway
 1 Thirst for Meaning
 1 Fae of Wishes
-1 Sanctum of Calm Waters
-1 Bloodfell Caves
 1 Dismal Backwater
+1 Bloodfell Caves
 1 Sanctum of Shattered Heights
 1 Sanctum of All
+1 Sanctum of Calm Waters
 1 Sanctum of Stone Fangs
+1 Savai Triome
 1 Clearwater Pathway
 1 Sanctum of Tranquil Light
 1 Wind-Scarred Crag
 1 Sanctum of Fruitful Harvest
+2 Fae of Wishes
 2 Tranquil Cove
 2 Thirst for Meaning
-2 Fae of Wishes
 2 Dismal Backwater
 2 Sanctum of Fruitful Harvest
 2 Sanctum of Tranquil Light
@@ -242,12 +213,12 @@
 3 Sanctum of All
 4 Extinction Event
 4 Sanctum of Shattered Heights
-1 Hagra Mauling
 1 Bonders' Enclave
 1 Elder Gargaroth
 1 Agonizing Remorse
 1 Cling to Dust
 1 Scavenging Ooze
+1 Hagra Mauling
 2 Bala Ged Recovery
 2 Elder Gargaroth
 2 Polukranos, Unchained
@@ -285,9 +256,9 @@
 1 Lofty Denial
 1 Jwari Disruption
 1 Sublime Epiphany
+1 Rewind
 1 Field of Ruin
 1 Neutralize
-1 Rewind
 1 Kiora Bests the Sea God
 1 Rain of Revelation
 1 Gadwick, the Wizened
@@ -297,29 +268,58 @@
 1 Shark Typhoon
 1 Brazen Borrower
 2 Neutralize
-2 Rewind
 2 Gadwick, the Wizened
+2 Rewind
 2 Rain of Revelation
 2 Essence Scatter
 2 Shark Typhoon
 2 Brazen Borrower
 2 Castle Vantress
 2 Hypnotic Sprite
+3 Castle Vantress
 3 Neutralize
 3 Rewind
 3 Shark Typhoon
-3 Castle Vantress
 3 Brazen Borrower
+4 Castle Vantress
 4 Neutralize
 4 Shark Typhoon
 4 Rewind
-4 Castle Vantress
 4 Brazen Borrower
+1 Dream Devourer
+1 Temple of Abandon
+1 Vorinclex, Monstrous Raider
+1 Blightstep Pathway
+1 Snow-Covered Mountain
+1 Snow-Covered Forest
+1 Cultivate
+1 Liliana, Waker of the Dead
+1 Snow-Covered Swamp
+2 Dream Devourer
+2 Liliana, Waker of the Dead
+2 Blightstep Pathway
+2 Vorinclex, Monstrous Raider
+2 Snow-Covered Mountain
+2 Cultivate
+2 Snow-Covered Swamp
+2 Snow-Covered Forest
+3 Vorinclex, Monstrous Raider
+3 Dream Devourer
+3 Snow-Covered Swamp
+3 Snow-Covered Forest
+3 Blightstep Pathway
+3 Cultivate
+4 Cultivate
+4 Dream Devourer
+4 Vorinclex, Monstrous Raider
+4 Lukka, Coppercoat Outcast
+4 Valki, God of Lies
+4 Blightstep Pathway
 1 Storm's Wrath
 1 Bonecrusher Giant
 1 Ox of Agonas
-2 Scorching Dragonfire
 2 Storm's Wrath
+2 Scorching Dragonfire
 2 Ox of Agonas
 2 Bonecrusher Giant
 3 Temple of Triumph
@@ -328,7 +328,6 @@
 3 Crawling Barrens
 6 Mountain
 7 Mountain
-1 Anticognition
 1 Evolving Wilds
 1 Ruin Crab
 1 Merfolk Secretkeeper
@@ -338,29 +337,30 @@
 1 Negate
 1 Stern Dismissal
 1 Relic Golem
-2 Didn't Say Please
-2 Anticognition
+1 Anticognition
 2 Evolving Wilds
+2 Didn't Say Please
 2 Ruin Crab
 2 Merfolk Secretkeeper
-2 Teferi's Tutelage
 2 Into the Story
 2 Relic Golem
 2 Negate
+2 Anticognition
 2 Stern Dismissal
+2 Teferi's Tutelage
+3 Didn't Say Please
 3 Evolving Wilds
 3 Merfolk Secretkeeper
-3 Teferi's Tutelage
 3 Stern Dismissal
 3 Ruin Crab
 3 Relic Golem
-3 Didn't Say Please
+3 Teferi's Tutelage
 3 Anticognition
 3 Into the Story
-4 Merfolk Secretkeeper
-4 Evolving Wilds
-4 Teferi's Tutelage
 4 Didn't Say Please
+4 Evolving Wilds
+4 Merfolk Secretkeeper
+4 Teferi's Tutelage
 4 Ruin Crab
 4 Relic Golem
 17 Island

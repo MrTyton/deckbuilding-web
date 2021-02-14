@@ -37,8 +37,8 @@
 |                    3|[Yorion, Sky Nomad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479752)     |                     |              |
 |                    3|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)   |                     |              |
 |                    3|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)         |                     |              |
-|                    4|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)         |                     |              |
 |                    4|[Lithoform Blight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491745)      |                     |              |
+|                    4|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)         |                     |              |
 |                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)        |                     |              |
 |                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                |                     |              |
 |                    4|[Elspeth's Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476342)   |                     |              |

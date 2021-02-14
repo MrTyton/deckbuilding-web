@@ -36,16 +36,16 @@
 1 Elder Gargaroth
 2 Forest
 3 Forest
-1 Rugged Highlands
 1 Bala Ged Recovery
 1 Tangled Florahedron
 1 Wolfwillow Haven
 1 Radha, Heart of Keld
+1 Rugged Highlands
 1 Terror of the Peaks
 1 Lovestruck Beast
 1 Ram Through
-1 Ilysian Caryatid
 1 Jungle Hollow
+1 Ilysian Caryatid
 1 Polukranos, Unchained
 1 Shadowspear
 1 Nissa of Shadowed Boughs
@@ -58,9 +58,9 @@
 1 Cultivate
 1 Kogla, the Titan Ape
 1 Ironscale Hydra
-2 Rugged Highlands
 2 Wolfwillow Haven
 2 Kogla, the Titan Ape
+2 Rugged Highlands
 2 Terror of the Peaks
 2 Lovestruck Beast
 2 Ram Through
@@ -86,11 +86,7 @@
 12 Forest
 1 Woodland Chasm
 2 Woodland Chasm
-1 Murderous Rider
-1 Liliana, Waker of the Dead
-2 Liliana, Waker of the Dead
-2 Eliminate
-3 Liliana, Waker of the Dead
+3 Temple of Malice
 3 Bloodchief's Thirst
 3 Immersturm Predator
 1 Ketria Triome
@@ -118,4 +114,8 @@
 2 Egon, God of Death
 3 Egon, God of Death
 4 The Akroan War
-3 Temple of Malice
+1 Murderous Rider
+1 Liliana, Waker of the Dead
+2 Liliana, Waker of the Dead
+2 Eliminate
+3 Liliana, Waker of the Dead
