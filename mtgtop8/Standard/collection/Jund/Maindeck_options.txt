@@ -36,10 +36,9 @@
 1 Ugin, the Spirit Dragon
 2 Forest
 3 Forest
-1 Rugged Highlands
 1 Bala Ged Recovery
 1 Wolfwillow Haven
-1 Radha, Heart of Keld
+1 Rugged Highlands
 1 Shadowspear
 1 Terror of the Peaks
 1 Cultivate
@@ -54,15 +53,16 @@
 1 Tangled Florahedron
 1 Castle Garenbrig
 1 Lovestruck Beast
+1 Radha, Heart of Keld
 1 Chainweb Aracnir
 1 Kogla, the Titan Ape
 1 Ironscale Hydra
 1 The Great Henge
-2 Rugged Highlands
 2 Castle Garenbrig
 2 Wolfwillow Haven
-2 Cultivate
+2 Rugged Highlands
 2 Terror of the Peaks
+2 Cultivate
 2 Ilysian Caryatid
 2 Ram Through
 2 Lovestruck Beast
@@ -70,11 +70,11 @@
 2 Kogla, the Titan Ape
 2 Thorn Mammoth
 3 Rugged Highlands
-3 Wolfwillow Haven
 3 Ilysian Caryatid
+3 Wolfwillow Haven
 4 Rugged Highlands
-4 Forest
 4 Ilysian Caryatid
+4 Forest
 5 Mountain
 5 Forest
 6 Forest
@@ -86,8 +86,8 @@
 12 Forest
 1 Woodland Chasm
 2 Woodland Chasm
-3 Bloodchief's Thirst
 3 Temple of Malice
+3 Bloodchief's Thirst
 3 Immersturm Predator
 1 Murderous Rider
 1 Liliana, Waker of the Dead
@@ -111,8 +111,8 @@
 2 Scavenging Ooze
 3 Goldspan Dragon
 3 Vorinclex, Monstrous Raider
-3 Dream Devourer
 3 Llanowar Visionary
+3 Dream Devourer
 4 Goldspan Dragon
 4 Binding the Old Gods
 1 Egon, God of Death

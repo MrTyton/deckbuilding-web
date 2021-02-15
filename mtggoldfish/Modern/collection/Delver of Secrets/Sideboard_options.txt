@@ -61,6 +61,10 @@
 1 Unearth
 1 Dispel
 2 Thoughtseize
+1 Tormod's Crypt
+1 Meddling Mage
+2 Tormod's Crypt
+2 Meddling Mage
 1 Flame Slash
 1 Echoing Truth
 2 Echoing Truth
@@ -73,10 +77,6 @@
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 2 Grim Lavamancer
-1 Meddling Mage
-1 Tormod's Crypt
-2 Meddling Mage
-2 Tormod's Crypt
 1 Geth's Verdict
 1 Psychic Barrier
 2 Psychic Barrier
@@ -86,10 +86,10 @@
 1 Anger of the Gods
 2 Anger of the Gods
 3 Abrade
+1 Plague Engineer
 1 Pillage
 1 Disdainful Stroke
 1 Dreadbore
-1 Plague Engineer
 2 Pillage
 2 Disdainful Stroke
 3 Ashiok, Dream Render
@@ -120,8 +120,8 @@
 2 Bitterblossom
 4 Kaya's Guile
 1 Wurmcoil Engine
-1 Ratchet Bomb
 1 Jace, the Mind Sculptor
+1 Ratchet Bomb
 1 Teferi, Mage of Zhalfir
 2 Ratchet Bomb
 3 Entrancing Melody

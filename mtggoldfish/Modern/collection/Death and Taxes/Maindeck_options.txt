@@ -20,33 +20,33 @@
 3 Restoration Angel
 4 Restoration Angel
 11 Plains
-1 Noble Hierarch
 1 Branchloft Pathway
 1 Temple Garden
 1 Razorverge Thicket
-1 Eternal Witness
 1 Scavenging Ooze
 1 Gavony Township
+1 Noble Hierarch
+1 Eternal Witness
 1 Oath of Nissa
 1 Stirring Wildwood
 1 Forest
-2 Noble Hierarch
 2 Temple Garden
 2 Branchloft Pathway
 2 Razorverge Thicket
 2 Scavenging Ooze
 2 Forest
+2 Noble Hierarch
 2 Oath of Nissa
 2 Eternal Witness
-3 Noble Hierarch
 3 Razorverge Thicket
 3 Branchloft Pathway
 3 Oath of Nissa
+3 Noble Hierarch
 3 Temple Garden
-4 Noble Hierarch
 4 Branchloft Pathway
 4 Razorverge Thicket
 4 Temple Garden
+4 Noble Hierarch
 4 Oath of Nissa
 12 Plains
 13 Plains
@@ -71,22 +71,22 @@
 1 Teferi, Time Raveler
 1 Cavern of Souls
 1 Lurrus of the Dream-Den
-1 Island
-1 Hallowed Fountain
 1 Watcher for Tomorrow
+1 Hallowed Fountain
+1 Island
 1 Adarkar Wastes
 1 Seachrome Coast
 2 Cavern of Souls
 2 Teferi, Time Raveler
-2 Adarkar Wastes
 2 Watcher for Tomorrow
+2 Adarkar Wastes
 2 Hallowed Fountain
 2 Seachrome Coast
+3 Watcher for Tomorrow
 3 Seachrome Coast
 3 Hallowed Fountain
-3 Watcher for Tomorrow
-4 Hallowed Fountain
 4 Watcher for Tomorrow
+4 Hallowed Fountain
 4 Seachrome Coast
 1 Charming Prince
 2 Charming Prince
@@ -95,8 +95,8 @@
 1 Mountain
 1 Magus of the Moon
 1 Inspiring Vantage
-2 Magus of the Moon
 2 Inspiring Vantage
+2 Magus of the Moon
 3 Magus of the Moon
 3 Inspiring Vantage
 4 Inspiring Vantage
@@ -118,8 +118,8 @@
 1 Ethersworn Canonist
 1 Skyclave Cleric
 2 Ethersworn Canonist
-2 Skyclave Cleric
 2 Blast Zone
+2 Skyclave Cleric
 3 Ethersworn Canonist
 4 Ethersworn Canonist
 15 Plains

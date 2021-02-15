@@ -52,9 +52,9 @@
 3 Veil of Summer
 1 Griselbrand
 3 Tropical Island
-1 Uro, Titan of Nature's Wrath
 1 Bayou
 1 Abrupt Decay
+1 Uro, Titan of Nature's Wrath
 1 Verdant Catacombs
 1 Brazen Borrower
 1 Aether Vial
@@ -68,9 +68,9 @@
 1 Fauna Shaman
 1 Scavenging Ooze
 1 Volrath's Shapeshifter
-2 Birds of Paradise
 2 Abrupt Decay
 2 Bayou
+2 Birds of Paradise
 2 Aether Vial
 2 Leovold, Emissary of Trest
 2 Mesmeric Fiend
@@ -80,13 +80,27 @@
 2 Baleful Strix
 3 Baleful Strix
 3 Birds of Paradise
+3 Verdant Catacombs
 3 Aether Vial
 3 Fauna Shaman
 3 Mesmeric Fiend
-3 Verdant Catacombs
 4 Birds of Paradise
 4 Aether Vial
 4 Mesmeric Fiend
+1 Drown in the Loch
+1 Bitterblossom
+1 Thieves' Guild Enforcer
+1 Brain Freeze
+2 Drown in the Loch
+2 Thieves' Guild Enforcer
+2 Bitterblossom
+2 Brain Freeze
+3 Underground Sea
+3 Prismatic Vista
+3 Thieves' Guild Enforcer
+4 Prismatic Vista
+4 Thieves' Guild Enforcer
+4 Visions of Beyond
 1 Pact of Negation
 1 Summoner's Pact
 1 Elvish Spirit Guide
@@ -205,26 +219,12 @@
 4 Chancellor of the Tangle
 4 Waterlogged Grove
 4 Allosaurus Shepherd
-1 Drown in the Loch
-1 Bitterblossom
-1 Thieves' Guild Enforcer
-1 Brain Freeze
-2 Drown in the Loch
-2 Bitterblossom
-2 Thieves' Guild Enforcer
-2 Brain Freeze
-3 Underground Sea
-3 Thieves' Guild Enforcer
-3 Prismatic Vista
-4 Thieves' Guild Enforcer
-4 Visions of Beyond
-4 Prismatic Vista
 1 Impulse
 1 Intuition
 1 Narset, Parter of Veils
 1 Chalice of the Void
-2 Impulse
 2 Chalice of the Void
+2 Impulse
 2 Tundra
 2 Narset, Parter of Veils
 3 Ancient Tomb

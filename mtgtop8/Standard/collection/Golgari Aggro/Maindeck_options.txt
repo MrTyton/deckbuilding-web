@@ -1,7 +1,7 @@
 2 Sculptor of Winter
 3 Sculptor of Winter
-1 Sarulf, Realm Eater
 1 Behold the Multiverse
+1 Sarulf, Realm Eater
 1 Poison the Cup
 1 Port of Karfell
 1 Frantic Inventory
@@ -12,7 +12,6 @@
 1 Ugin, the Spirit Dragon
 1 Chainweb Aracnir
 1 Feed the Serpent
-2 Behold the Multiverse
 2 Poison the Cup
 2 Frantic Inventory
 2 Feed the Swarm
@@ -22,9 +21,10 @@
 2 Port of Karfell
 2 Sarulf's Packmate
 2 Feed the Serpent
-3 Behold the Multiverse
+2 Behold the Multiverse
 3 Frantic Inventory
 3 Chainweb Aracnir
+3 Behold the Multiverse
 3 Snow-Covered Island
 4 Frantic Inventory
 1 Thassa, Deep-Dwelling
@@ -56,12 +56,12 @@
 1 Castle Garenbrig
 1 Feasting Troll King
 1 Wicked Wolf
-2 Polukranos, Unchained
 2 Trail of Crumbs
 2 Gilded Goose
-2 Castle Garenbrig
-2 Agadeem's Awakening
 2 Ilysian Caryatid
+2 Castle Garenbrig
+2 Polukranos, Unchained
+2 Agadeem's Awakening
 2 Bloodchief's Thirst
 2 Witch's Oven
 2 Feasting Troll King
@@ -90,8 +90,8 @@
 7 Forest
 8 Forest
 1 Wolfwillow Haven
-1 Skemfar Avenger
 1 Realmwalker
+1 Skemfar Avenger
 1 Harald, King of Skemfar
 1 Return Upon the Tide
 1 Boreal Outrider
@@ -119,10 +119,10 @@
 10 Snow-Covered Swamp
 1 Chevill, Bane of Monsters
 1 Jolrael, Mwonvuli Recluse
-1 Elder Gargaroth
 1 Primal Might
-1 Rankle, Master of Pranks
+1 Elder Gargaroth
 1 Ram Through
+1 Rankle, Master of Pranks
 1 Darkbore Pathway
 1 Castle Locthwain
 1 Edgewall Innkeeper
@@ -130,12 +130,12 @@
 1 Foulmire Knight
 1 Murderous Rider
 2 Jolrael, Mwonvuli Recluse
-2 Rankle, Master of Pranks
 2 Primal Might
 2 Elder Gargaroth
 2 Lovestruck Beast
 2 Murderous Rider
 2 Foulmire Knight
+2 Rankle, Master of Pranks
 2 Chevill, Bane of Monsters
 2 Edgewall Innkeeper
 2 Darkbore Pathway
@@ -151,7 +151,7 @@
 4 Edgewall Innkeeper
 4 Foulmire Knight
 4 Darkbore Pathway
-4 Swamp
 5 Swamp
 6 Swamp
 7 Swamp
+4 Swamp
