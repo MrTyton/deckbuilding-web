@@ -1,10 +1,9 @@
-2 The World Tree
 2 Purphoros, God of the Forge
 3 The World Tree
 3 Purphoros, God of the Forge
 4 The World Tree
-4 Purphoros, God of the Forge
 4 Fabled Passage
+4 Purphoros, God of the Forge
 1 Klothys, God of Destiny
 2 Klothys, God of Destiny
 1 Hallowed Fountain
@@ -35,7 +34,9 @@
 3 Teferi, Time Raveler
 1 Sunpetal Grove
 4 Raugrin Triome
+1 Sinister Sabotage
 1 Snow-Covered Island
+2 Hinterland Harbor
 1 Valakut Awakening
 2 Valakut Awakening
 3 Valakut Awakening
@@ -43,86 +44,88 @@
 4 Valakut Awakening
 4 Golos, Tireless Pilgrim
 4 Arboreal Grazer
-2 Hinterland Harbor
 1 Snow-Covered Forest
-3 Mystical Dispute
+2 Sinister Sabotage
 1 Snow-Covered Mountain
 2 Snow-Covered Island
-1 Chemister's Insight
 1 Zagoth Triome
+1 Chemister's Insight
+1 Shadows' Verdict
 1 Swamp
 1 Watery Grave
 1 Fatal Push
 2 Zagoth Triome
+2 Shadows' Verdict
+2 Watery Grave
 2 Fatal Push
 3 Sinister Sabotage
 3 Zagoth Triome
 4 Zagoth Triome
-1 Sweltering Suns
-2 Sweltering Suns
-1 Anger of the Gods
-1 Shadows' Verdict
-2 Shadows' Verdict
-2 Watery Grave
 4 Sinister Sabotage
 1 Abrupt Decay
 1 Overgrown Tomb
-1 Cyclonic Rift
-2 Sunpetal Grove
-1 Dig Through Time
-1 Snow-Covered Plains
-1 Plains
-2 Rootbound Crag
+1 Sweltering Suns
+1 Anger of the Gods
 3 Hinterland Harbor
+2 Sunpetal Grove
 1 Drowned Catacomb
 2 Drowned Catacomb
 3 Watery Grave
+1 Snow-Covered Plains
+1 Plains
+2 Sweltering Suns
+1 Cyclonic Rift
+2 Rootbound Crag
+1 Dig Through Time
+1 Neutralize
+1 Thassa's Intervention
 1 The Locust God
+4 Censor
 3 Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 1 Search for Azcanta
-1 Neutralize
-1 Thassa's Intervention
-4 Censor
+4 Hinterland Harbor
+1 Aether Gust
+1 Tale's End
+1 Radiant Flames
+2 Radiant Flames
+3 Radiant Flames
 1 Disallow
 3 Fire Prophecy
 4 Fire Prophecy
-1 Aether Gust
-1 Radiant Flames
-2 Radiant Flames
-1 Lumbering Falls
-1 Blooming Marsh
-1 Clearwater Pathway
-2 Blooming Marsh
-2 Clearwater Pathway
-2 Overgrown Tomb
-4 Hinterland Harbor
-3 Settle the Wreckage
-1 Botanical Sanctum
-1 Supreme Verdict
-1 Keranos, God of Storms
-2 Aether Gust
-1 Fetid Pools
-1 Riverglide Pathway
 1 Behold the Multiverse
-1 Ilharg, the Raze-Boar
-2 Riverglide Pathway
-1 Into the Roil
-1 Tale's End
-3 Radiant Flames
-3 Fatal Push
-4 Mystical Dispute
-4 Watery Grave
+1 Lumbering Falls
 1 Castle Locthwain
 2 Thassa's Intervention
 3 Thassa's Intervention
 3 Island
+3 Settle the Wreckage
+1 Botanical Sanctum
+1 Supreme Verdict
+1 Keranos, God of Storms
+1 Riverglide Pathway
+1 Ilharg, the Raze-Boar
+2 Riverglide Pathway
+1 Blooming Marsh
+1 Fetid Pools
+1 Clearwater Pathway
+2 Blooming Marsh
+2 Clearwater Pathway
+2 Anger of the Gods
+3 Fatal Push
+2 Overgrown Tomb
+1 Tasigur, the Golden Fang
+2 Chemister's Insight
+1 Heartless Act
+1 Opt
+2 Opt
+3 Opt
+4 Opt
+1 Into the Roil
+4 Watery Grave
 1 Bonecrusher Giant
 2 Stomping Ground
-3 Negate
-2 Chemister's Insight
-2 Dig Through Time
 2 Neutralize
 1 Cascading Cataracts
 1 Cosima, God of the Voyage
@@ -133,9 +136,9 @@
 2 Bring to Light
 2 Temple Garden
 3 Bring to Light
-4 Klothys, God of Destiny
 1 Omen of the Sea
 2 Supreme Verdict
+2 Aether Gust
 2 Omen of the Sea
 2 Glacial Fortress
 3 Supreme Verdict
@@ -144,28 +147,30 @@
 3 Stomping Ground
 4 Glacial Fortress
 4 Omen of the Sea
-1 Mazemind Tome
-1 Tasigur, the Golden Fang
-1 Bala Ged Recovery
-1 Crawling Barrens
+4 Klothys, God of Destiny
 1 Pull from Tomorrow
+2 Dig Through Time
 2 Pull from Tomorrow
-2 Anger of the Gods
 3 Anger of the Gods
+2 Behold the Multiverse
+3 Behold the Multiverse
 3 Sweltering Suns
+3 Negate
 4 Fatal Push
-1 Steam Augury
+1 Narset, Parter of Veils
+4 Thassa's Intervention
 1 Torrential Gearhulk
+1 Steam Augury
 1 Lightning Strike
 1 Sublime Epiphany
 1 Aetherize
 1 Sylvan Caryatid
 2 Sulfur Falls
 2 Sylvan Caryatid
+2 Torrential Gearhulk
 2 Sublime Epiphany
 2 Bonecrusher Giant
 2 Aetherize
-2 Torrential Gearhulk
 2 Lightning Strike
 2 Steam Augury
 3 Bonecrusher Giant
@@ -173,24 +178,9 @@
 3 Sylvan Caryatid
 4 Sylvan Caryatid
 4 Torrential Gearhulk
+4 Mystical Dispute
 1 Spikefield Hazard
 2 Spikefield Hazard
 2 Keranos, God of Storms
 3 Spikefield Hazard
 4 Spikefield Hazard
-1 Satyr Wayfinder
-1 Thoughtseize
-2 Satyr Wayfinder
-2 Abrupt Decay
-2 Thoughtseize
-3 Satyr Wayfinder
-3 Blooming Marsh
-4 Satyr Wayfinder
-4 Blooming Marsh
-1 Heartless Act
-1 Narset, Parter of Veils
-1 Opt
-2 Opt
-3 Opt
-4 Thassa's Intervention
-4 Opt

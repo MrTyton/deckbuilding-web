@@ -1,15 +1,15 @@
 1 Karakas
-1 Verdant Catacombs
 1 Bayou
+1 Verdant Catacombs
 2 Verdant Catacombs
 2 Bayou
 3 Verdant Catacombs
 4 Verdant Catacombs
+1 Swamp
+1 Forest
 1 Dark Confidant
 2 Dark Confidant
 3 Dark Confidant
-1 Swamp
-1 Forest
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
@@ -21,46 +21,48 @@
 4 Elvish Reclaimer
 1 Sylvan Safekeeper
 1 Mox Diamond
-2 Mox Diamond
 2 Wasteland
+2 Mox Diamond
 4 Once Upon a Time
 2 Sylvan Safekeeper
 3 Abrupt Decay
 3 Duress
+1 Ghost Quarter
 1 Sylvan Library
 2 Nurturing Peatland
-1 Ghost Quarter
 1 Snow-Covered Swamp
+3 Pithing Needle
+4 Pithing Needle
 4 Duress
 1 Ancient Tomb
 1 Infernal Tutor
 1 Opposition Agent
 1 Leyline of the Void
+1 Karn, the Great Creator
+1 Helm of Obedience
 1 Lake of the Dead
 1 Ill-Gotten Gains
 1 Lion's Eye Diamond
-1 Helm of Obedience
 1 Dark Ritual
 1 Echo of Eons
 1 Tendrils of Agony
-1 Karn, the Great Creator
 2 Ancient Tomb
 2 Snow-Covered Swamp
 2 Infernal Tutor
 2 Leyline of the Void
+2 Karn, the Great Creator
+2 Helm of Obedience
 2 Ill-Gotten Gains
 2 Dark Ritual
-2 Helm of Obedience
 2 Lion's Eye Diamond
-2 Karn, the Great Creator
-3 Snow-Covered Swamp
 3 Infernal Tutor
 3 Ancient Tomb
 3 Leyline of the Void
+3 Snow-Covered Swamp
 3 Dark Ritual
 3 Lion's Eye Diamond
-4 Snow-Covered Swamp
 4 Infernal Tutor
+4 Snow-Covered Swamp
 4 Lion's Eye Diamond
 4 Leyline of the Void
 4 Dark Ritual
@@ -74,8 +76,8 @@
 1 Uro, Titan of Nature's Wrath
 1 Life from the Loam
 1 Oko, Thief of Crowns
-1 Underground Sea
 1 Cabal Pit
+1 Underground Sea
 1 Ramunap Excavator
 1 Brainstorm
 1 Tropical Island
@@ -91,12 +93,11 @@
 3 Brainstorm
 4 Mox Diamond
 4 Brainstorm
-3 Pithing Needle
-4 Pithing Needle
 1 Snow-Covered Forest
 4 Dark Confidant
 1 Taiga
 1 Castle Locthwain
+1 Flusterstorm
 2 Sylvan Library
 4 Abrupt Decay
 1 Blooming Marsh

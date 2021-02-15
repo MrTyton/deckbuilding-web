@@ -58,7 +58,7 @@
 |                    4|[Yorion, Sky Nomad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479752)      |                     |              |
 |                    4|[Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977)           |                     |              |
 |                    4|[Temple of Plenty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378537)       |                     |              |
-|                    4|[Wicked Wolf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473143)            |                     |              |
 |                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                     |              |
 |                    8|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                 |                     |              |
+|                    4|[Wicked Wolf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473143)            |                     |              |
 

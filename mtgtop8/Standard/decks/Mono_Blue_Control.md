@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Mono%20Blue%20Control/Mono%20Blue%20Control.txt)
 #### [Export Arena List](../collection/Mono%20Blue%20Control/Mono%20Blue%20Control_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Alrund's%20Epiphany%0A4%09Ascendant%20Spirit%0A4%09Behold%20the%20Multiverse%0A4%09Brazen%20Borrower%0A2%09Essence%20Scatter%0A4%09Faceless%20Haven%0A4%09Frost%20Augur%0A2%09Graven%20Lore%0A2%09Into%20the%20Roil%0A4%09Saw%20It%20Coming%0A4%09Shark%20Typhoon%0A22%09Snow-Covered%20Island&deckside=2%09Avalanche%20Caller%0A3%09Bubble%20Snare%0A1%09Disdainful%20Stroke%0A2%09Glimpse%20of%20Freedom%0A2%09Graven%20Lore%0A3%09Mystical%20Dispute%0A2%09Negate)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Alrund's%20Epiphany%0A4%09Ascendant%20Spirit%0A4%09Behold%20the%20Multiverse%0A4%09Brazen%20Borrower%0A2%09Essence%20Scatter%0A4%09Faceless%20Haven%0A4%09Frost%20Augur%0A2%09Graven%20Lore%0A2%09Into%20the%20Roil%0A4%09Saw%20It%20Coming%0A4%09Shark%20Typhoon%0A22%09Snow-Covered%20Island&deckside=2%09Bubble%20Snare%0A1%09Disdainful%20Stroke%0A2%09Glimpse%20of%20Freedom%0A2%09Graven%20Lore%0A2%09Mystic%20Subdual%0A3%09Mystical%20Dispute%0A2%09Negate%0A1%09Thryx,%20the%20Sudden%20Storm)
 # Maindeck
 
 |                                        Creature (4)                                        |                                     Enchantment (4)                                      |                                        Instant (4)                                         |                                            Land (22)                                            |     Unknown (26)      |
@@ -18,29 +18,29 @@
 
 # Sideboard
 
-|                                     Enchantment (3)                                     |                                          Instant (8)                                          |   Unknown (4)    |
-|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------|
-|3 [Bubble Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491675)|1 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705) |2 Avalanche Caller|
-|                                                                                         |2 [Glimpse of Freedom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476301)|2 Graven Lore     |
-|                                                                                         |3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)  |                  |
-|                                                                                         |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)            |                  |
+|                                            Creature (1)                                            |                                      Enchantment (4)                                      |                                          Instant (8)                                          | Unknown (2) |
+|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------|
+|1 [Thryx, the Sudden Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476327)|2 [Bubble Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491675)  |1 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705) |2 Graven Lore|
+|                                                                                                    |2 [Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)|2 [Glimpse of Freedom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476301)|             |
+|                                                                                                    |                                                                                           |3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)  |             |
+|                                                                                                    |                                                                                           |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)            |             |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|[Rewind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45264)            |                    1|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)          |
-|                    1|Cosmos Charger                                                                              |                    1|Ravenform                                                                                         |
-|                    2|[Rewind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45264)            |                    2|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)          |
-|                    3|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)  |                    2|Ravenform                                                                                         |
-|                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|                    1|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)        |
-|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |                    2|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)        |
-|                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |                    3|Avalanche Caller                                                                                  |
-|                    3|Graven Lore                                                                                 |                    4|[Bubble Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491675)           |
-|                    4|Graven Lore                                                                                 |                    1|[Thryx, the Sudden Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476327)|
-|                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |                    1|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)         |
-|                     |                                                                                            |                    2|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)         |
-|                     |                                                                                            |                    3|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)         |
-|                     |                                                                                            |                    4|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)         |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                      |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------|
+|                    1|[Rewind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45264)            |                    3|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577) |
+|                    1|Cosmos Charger                                                                              |                    4|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577) |
+|                    2|[Rewind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45264)            |                    1|Avalanche Caller                                                                          |
+|                    3|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)  |                    2|Avalanche Caller                                                                          |
+|                    1|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |                    3|[Bubble Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491675)   |
+|                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|                    1|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)  |
+|                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |                    1|Ravenform                                                                                 |
+|                    3|Graven Lore                                                                                 |                    2|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)  |
+|                    4|Graven Lore                                                                                 |                    2|Ravenform                                                                                 |
+|                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |                    1|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)|
+|                     |                                                                                            |                    3|Avalanche Caller                                                                          |
+|                     |                                                                                            |                    4|[Bubble Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491675)   |
+|                     |                                                                                            |                    2|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)|
 

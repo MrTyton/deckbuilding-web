@@ -44,8 +44,8 @@
 3 Saw It Coming
 1 Mountain
 4 Ketria Triome
-1 Blightstep Pathway
 1 Riverglide Pathway
+1 Blightstep Pathway
 4 Llanowar Visionary
 2 Castle Vantress
 1 Temple of Mystery
@@ -85,22 +85,22 @@
 3 Forest
 4 Island
 1 Snow-Covered Island
-1 Snow-Covered Swamp
 1 Snow-Covered Forest
+1 Snow-Covered Swamp
 2 Snow-Covered Island
 2 Snow-Covered Swamp
 3 Snow-Covered Island
 3 Snow-Covered Swamp
 4 Snow-Covered Island
 4 Snow-Covered Swamp
-2 Blightstep Pathway
 1 Cultivate
-1 Castle Locthwain
 1 Elder Gargaroth
 1 Gadwick, the Wizened
+1 Castle Locthwain
 2 Cultivate
 2 Elder Gargaroth
 2 Gadwick, the Wizened
+2 Blightstep Pathway
 1 Bala Ged Recovery
 2 Snow-Covered Forest
 3 Crawling Barrens
@@ -108,22 +108,22 @@
 3 Temple of Mystery
 3 Cling to Dust
 5 Swamp
+1 Ice Tunnel
+1 Rimewood Falls
 1 Faceless Haven
 1 Graven Lore
-1 Jorn, God of Winter
-1 Woodland Chasm
-1 Rimewood Falls
-1 Ice Tunnel
 1 Blood on the Snow
 1 Spirit of the Aldergard
-2 Faceless Haven
-2 Graven Lore
-2 Jorn, God of Winter
-2 Woodland Chasm
-2 Rimewood Falls
+1 Woodland Chasm
+1 Jorn, God of Winter
 2 Ice Tunnel
+2 Faceless Haven
+2 Rimewood Falls
+2 Graven Lore
 2 Blood on the Snow
 2 Spirit of the Aldergard
+2 Woodland Chasm
+2 Jorn, God of Winter
 3 Graven Lore
 3 Jorn, God of Winter
 3 Rimewood Falls
@@ -134,8 +134,8 @@
 5 Snow-Covered Swamp
 6 Snow-Covered Island
 7 Snow-Covered Island
-1 Omen of the Hunt
 1 Agonizing Remorse
+1 Omen of the Hunt
 2 Omen of the Hunt
 3 Omen of the Hunt
 4 Omen of the Hunt

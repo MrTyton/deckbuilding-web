@@ -108,6 +108,7 @@
 1 Sacred Foundry
 1 Arid Mesa
 2 Arid Mesa
+1 Temple of Triumph
 1 Nykthos, Shrine to Nyx
 1 Skyclave Apparition
 1 Oust
@@ -122,23 +123,22 @@
 1 Form of the Dragon
 1 Solemnity
 1 Silence
-1 Temple of Triumph
 1 Mistveil Plains
 1 Enduring Ideal
 1 Lotus Bloom
 1 Phyrexian Unlife
-2 Skyclave Apparition
+2 Temple of Triumph
 2 Silence
+2 Skyclave Apparition
 2 Nykthos, Shrine to Nyx
 2 Oust
 2 Sacred Foundry
 2 Marsh Flats
-2 Nine Lives
 2 Enduring Ideal
 2 Plains
-2 Temple of Triumph
 2 Phyrexian Unlife
 2 Form of the Dragon
+2 Nine Lives
 2 Treasure Map
 2 Solemnity
 2 Lotus Bloom
@@ -195,8 +195,8 @@
 2 Mana Confluence
 1 Polluted Delta
 2 Polluted Delta
-1 Supreme Verdict
 1 Savai Triome
+1 Supreme Verdict
 1 Zagoth Triome
 1 Reflecting Pool
 1 Bonecrusher Giant
@@ -218,14 +218,14 @@
 2 Bonecrusher Giant
 1 Nature's Claim
 2 Nature's Claim
+2 Deafening Clarion
+3 Temple of Triumph
 1 Lovestruck Beast
 2 Lovestruck Beast
 2 Swamp
 3 Lovestruck Beast
 3 Omnath, Locus of Creation
 3 Dismember
-2 Deafening Clarion
-3 Temple of Triumph
 1 Murderous Rider
 1 Snow-Covered Swamp
 1 Prismatic Vista
@@ -292,11 +292,11 @@
 1 Gemstone Mine
 1 City of Brass
 2 Brilliant Ultimatum
-2 Tibalt's Trickery
 2 Aether Hub
+2 Tibalt's Trickery
 2 Pillar of the Paruns
-2 Omniscience
 2 Kozilek, Butcher of Truth
+2 Omniscience
 2 Ulamog, the Infinite Gyre
 2 Tendo Ice Bridge
 2 Emrakul, the Promised End
@@ -305,15 +305,15 @@
 3 Brilliant Ultimatum
 3 Aether Hub
 3 Omniscience
-3 Ulamog, the Infinite Gyre
 3 Kozilek, Butcher of Truth
+3 Ulamog, the Infinite Gyre
 3 Pillar of the Paruns
 3 Emrakul, the Promised End
 3 Gemstone Mine
 3 City of Brass
-4 Ulamog, the Infinite Gyre
 4 Aether Hub
 4 Brilliant Ultimatum
+4 Ulamog, the Infinite Gyre
 4 Omniscience
 4 Pillar of the Paruns
 4 Gemstone Mine
@@ -372,30 +372,30 @@
 1 Opt
 1 Mass Hysteria
 1 Izzet Charm
+1 Dwarven Mine
+1 Delay
 1 Transmogrify
 1 Lightning Bolt
 1 Polymorph
-1 Dwarven Mine
-1 Delay
 1 Bloodstained Mire
 1 Remand
 2 Opt
+2 Dwarven Mine
 2 Delay
 2 Izzet Charm
 2 Bloodstained Mire
-2 Dwarven Mine
 2 Remand
 2 Mass Hysteria
 2 Transmogrify
 2 Lightning Bolt
 2 Polymorph
 3 Arid Mesa
+3 Dwarven Mine
 3 Opt
 3 Remand
 3 Lightning Bolt
 3 Polymorph
 3 Transmogrify
-3 Dwarven Mine
 3 Mass Hysteria
 4 Arid Mesa
 4 Polymorph
@@ -417,8 +417,8 @@
 1 Snow-Covered Mountain
 1 Engineered Explosives
 1 Thassa's Oracle
-1 Sai, Master Thopterist
 1 Minamo, School at Water's Edge
+1 Sai, Master Thopterist
 1 Metallic Rebuke
 1 Grinding Station
 1 Chromatic Star
@@ -438,8 +438,8 @@
 2 Underworld Breach
 2 Chromatic Star
 3 Lurrus of the Dream-Den
-3 Mox Amber
 3 Metallic Rebuke
+3 Mox Amber
 3 Engineered Explosives
 3 Chromatic Star
 3 Grinding Station
