@@ -1,7 +1,8 @@
 1 Castle Vantress
 2 Wilderness Reclamation
-3 Fact or Fiction
 3 Snow-Covered Island
+3 Fact or Fiction
+1 Prismatic Vista
 1 Engineered Explosives
 1 Mox Amber
 1 Emry, Lurker of the Loch
@@ -14,14 +15,15 @@
 3 Emry, Lurker of the Loch
 4 Emry, Lurker of the Loch
 4 Mishra's Bauble
-1 Prismatic Vista
 1 Mana Leak
 1 Jace, the Mind Sculptor
 1 Time Warp
+1 Soul-Guide Lantern
+1 Urza, Lord High Artificer
+1 Waterlogged Grove
 1 Primeval Titan
 2 Primeval Titan
 3 Primeval Titan
-1 Waterlogged Grove
 2 Time Warp
 3 Time Warp
 3 Mystic Sanctuary
@@ -30,20 +32,6 @@
 4 Fact or Fiction
 2 Steam Vents
 1 Oboro, Palace in the Clouds
-3 Engineered Explosives
-1 Underworld Breach
-1 Grinding Station
-1 Chromatic Star
-2 Underworld Breach
-2 Grinding Station
-2 Chromatic Star
-3 Grinding Station
-3 Chromatic Star
-3 Underworld Breach
-4 Chromatic Star
-4 Underworld Breach
-1 Soul-Guide Lantern
-1 Urza, Lord High Artificer
 1 Opt
 1 Ice-Fang Coatl
 2 Opt
@@ -54,35 +42,47 @@
 4 Ice-Fang Coatl
 4 Mystic Sanctuary
 2 Mana Leak
+1 Galvanic Blast
+2 Galvanic Blast
+2 Urza, Lord High Artificer
+3 Engineered Explosives
 1 Cascade Bluffs
 1 Invasion of the Giants
 2 Invasion of the Giants
 3 Invasion of the Giants
-4 Primeval Titan
-1 Thassa's Oracle
-2 Wooded Foothills
-1 Shark Typhoon
-3 Mox Amber
-2 Urza, Lord High Artificer
-1 Galvanic Blast
-2 Galvanic Blast
-1 Flooded Strand
 1 Gilded Goose
 1 Metallic Rebuke
-1 Talisman of Curiosity
-1 Witching Well
 2 Gilded Goose
 2 Prismatic Vista
 2 Metallic Rebuke
-2 Talisman of Curiosity
 3 Gilded Goose
-3 Metallic Rebuke
 3 Galvanic Blast
 3 Urza, Lord High Artificer
 4 Gilded Goose
 4 Urza, Lord High Artificer
+1 Underworld Breach
+1 Thassa's Oracle
+1 Grinding Station
+1 Chromatic Star
+2 Underworld Breach
+2 Grinding Station
+2 Chromatic Star
+2 Wooded Foothills
+3 Grinding Station
+3 Chromatic Star
+3 Underworld Breach
+4 Chromatic Star
+4 Underworld Breach
+4 Primeval Titan
+1 Shark Typhoon
+1 Flooded Strand
+1 Talisman of Curiosity
+1 Witching Well
+2 Talisman of Curiosity
+3 Metallic Rebuke
 1 Reflecting Pool
 4 Invasion of the Giants
+3 Mox Amber
 2 Field of Ruin
 1 Karn, the Great Creator
 2 Karn, the Great Creator
@@ -91,9 +91,8 @@
 1 Valakut, the Molten Pinnacle
 2 Valakut, the Molten Pinnacle
 2 Jace, the Mind Sculptor
-2 Ketria Triome
 2 Flooded Strand
-1 Polluted Delta
+2 Ketria Triome
 1 Dryad of the Ilysian Grove
 2 Dryad of the Ilysian Grove
 3 Dryad of the Ilysian Grove
@@ -102,16 +101,21 @@
 1 Minamo, School at Water's Edge
 1 Ghost Quarter
 4 Grinding Station
+4 Snow-Covered Island
 1 Flame Slash
+2 Archmage's Charm
 3 Steam Vents
+1 Polluted Delta
 3 Island
 1 Explore
+1 Radiant Fountain
 1 Castle Garenbrig
 1 Vesuva
 1 Simic Growth Chamber
 1 Cavern of Souls
-1 Radiant Fountain
 1 Cosima, God of the Voyage
+1 Teferi, Master of Time
+1 Search for Azcanta
 1 Bonecrusher Giant
 1 Spell Pierce
 1 Huntmaster of the Fells
@@ -126,9 +130,9 @@
 2 Hour of Promise
 3 Field of the Dead
 4 Force of Negation
-1 Teferi, Master of Time
-1 Search for Azcanta
-4 Snow-Covered Island
+1 Tireless Tracker
+3 Prismatic Vista
+4 Prismatic Vista
 1 Utopia Sprawl
 1 Tamiyo, Collector of Tales
 2 Utopia Sprawl
@@ -159,42 +163,15 @@
 4 Steam Vents
 4 Cryptic Command
 4 Scapeshift
-1 Bloodstained Mire
-1 Jace, Wielder of Mysteries
-1 Snow-Covered Swamp
-1 Birgi, God of Storytelling
-1 Kroxa, Titan of Death's Hunger
-1 Unearth
-1 Blood Crypt
-1 Lurrus of the Dream-Den
-1 Spirebluff Canal
-1 Watery Grave
-1 Thought Scour
-2 Bloodstained Mire
-2 Birgi, God of Storytelling
-2 Unearth
-2 Blood Crypt
-2 Watery Grave
-2 Thought Scour
-2 Spirebluff Canal
-2 Lurrus of the Dream-Den
-3 Bloodstained Mire
-3 Birgi, God of Storytelling
-3 Unearth
-3 Thought Scour
-4 Birgi, God of Storytelling
-4 Thought Scour
-4 Mox Amber
 1 Birds of Paradise
 1 Commandeer
 1 Expansion/Explosion
 2 Birds of Paradise
 2 Shark Typhoon
-2 Archmage's Charm
 2 Polluted Delta
 3 Birds of Paradise
-3 Shark Typhoon
 3 Wilderness Reclamation
+3 Shark Typhoon
 3 Archmage's Charm
 4 Archmage's Charm
 1 Thieving Skydiver
@@ -218,25 +195,25 @@
 1 Azusa, Lost but Seeking
 1 Hanweir Battlements
 2 Summoner's Pact
-2 Castle Garenbrig
 2 Forest
 2 Explore
 2 Amulet of Vigor
+2 Castle Garenbrig
 2 Arboreal Grazer
 2 Simic Growth Chamber
 2 Tolaria West
 2 Cavern of Souls
 2 Gruul Turf
-3 Castle Garenbrig
 3 Summoner's Pact
-3 Gruul Turf
 3 Arboreal Grazer
 3 Simic Growth Chamber
 3 Amulet of Vigor
+3 Gruul Turf
 3 Explore
-4 Castle Garenbrig
+3 Castle Garenbrig
 4 Summoner's Pact
 4 Arboreal Grazer
 4 Simic Growth Chamber
 4 Amulet of Vigor
+4 Castle Garenbrig
 4 Explore

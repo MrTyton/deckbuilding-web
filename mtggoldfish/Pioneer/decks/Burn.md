@@ -32,7 +32,7 @@
 |                    2|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|                    2|[Light of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479540)      |
 |                    1|[Wayward Guide-Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491821)|                    1|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|
 |                    2|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)              |                    3|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
-|                    1|[Spikefield Hazard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491809)  |                    2|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|
-|                    2|[Spikefield Hazard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491809)  |                    3|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|
-|                    2|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)         |                     |                                                                                              |
+|                    2|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)         |                    2|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|
+|                    1|[Spikefield Hazard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491809)  |                    3|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|
+|                    2|[Spikefield Hazard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491809)  |                     |                                                                                              |
 

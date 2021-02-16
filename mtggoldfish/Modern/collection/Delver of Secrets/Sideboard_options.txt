@@ -3,11 +3,11 @@
 3 Collective Brutality
 1 Ashiok, Dream Render
 2 Ashiok, Dream Render
-1 Veil of Summer
 1 Firespout
 1 Shadowspear
 1 Natural State
 1 Ancient Grudge
+1 Veil of Summer
 2 Firespout
 2 Veil of Summer
 3 Veil of Summer
@@ -47,8 +47,8 @@
 1 Cleansing Wildfire
 2 Cleansing Wildfire
 3 Cleansing Wildfire
-1 Bitterblossom
 1 Kaya's Guile
+1 Bitterblossom
 2 Kaya's Guile
 3 Kaya's Guile
 1 Magma Spray
@@ -61,35 +61,38 @@
 1 Unearth
 1 Dispel
 2 Thoughtseize
-1 Tormod's Crypt
-1 Meddling Mage
-2 Tormod's Crypt
-2 Meddling Mage
+1 Magmatic Sinkhole
+1 Grim Lavamancer
+1 Narset, Parter of Veils
+2 Grim Lavamancer
+2 Narset, Parter of Veils
 1 Flame Slash
 1 Echoing Truth
 2 Echoing Truth
 2 Flame Slash
 2 Damping Sphere
+1 Meddling Mage
+1 Tormod's Crypt
+2 Meddling Mage
+2 Tormod's Crypt
 1 Infernal Reckoning
 2 Infernal Reckoning
-1 Magmatic Sinkhole
-1 Grim Lavamancer
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-2 Grim Lavamancer
 1 Geth's Verdict
 1 Psychic Barrier
 2 Psychic Barrier
 2 Geth's Verdict
 1 Fry
 2 Bedlam Reveler
+1 Nihil Spellbomb
+2 Nihil Spellbomb
+3 Nihil Spellbomb
 1 Anger of the Gods
 2 Anger of the Gods
 3 Abrade
+1 Plague Engineer
 1 Pillage
 1 Disdainful Stroke
 1 Dreadbore
-1 Plague Engineer
 2 Pillage
 2 Disdainful Stroke
 3 Ashiok, Dream Render
@@ -99,9 +102,6 @@
 2 Dragon's Claw
 3 Dragon's Claw
 3 Ceremonious Rejection
-1 Nihil Spellbomb
-2 Nihil Spellbomb
-3 Nihil Spellbomb
 1 Countersquall
 1 Snapcaster Mage
 2 Snapcaster Mage
@@ -119,10 +119,10 @@
 1 Dead of Winter
 2 Bitterblossom
 4 Kaya's Guile
+1 Jace, the Mind Sculptor
 1 Wurmcoil Engine
 1 Ratchet Bomb
-1 Jace, the Mind Sculptor
 1 Teferi, Mage of Zhalfir
 2 Ratchet Bomb
-3 Entrancing Melody
 4 Aether Gust
+3 Entrancing Melody

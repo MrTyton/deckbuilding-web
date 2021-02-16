@@ -25,3 +25,36 @@
 |3 [Ox of Agonas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476398)     |4 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)          |
 |2 [Storm Herald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476407)     |                                                                                             |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                     Sideboard Card                                     |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------|
+|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)            |                    1|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)|
+|                    1|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)    |                    1|[Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977) |
+|                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)          |                    1|[Fight as One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479532) |
+|                    1|[Pious Wayfarer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476283)    |                    2|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)|
+|                    1|[Starlit Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476318)    |                    2|[Fight as One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479532) |
+|                    1|Rune of Might                                                                                |                    2|[Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977) |
+|                    2|[All That Glitters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472964) |                    3|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)|
+|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)            |                    3|[Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977) |
+|                    2|[Starlit Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476318)    |                    3|[Fight as One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479532) |
+|                    2|[Pious Wayfarer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476283)    |                    4|[Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977) |
+|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)          |                    4|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)|
+|                    2|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)    |                    4|[Fight as One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479532) |
+|                    2|Rune of Might                                                                                |                     |                                                                                        |
+|                    3|[Transcendent Envoy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476291)|                     |                                                                                        |
+|                    3|[Starlit Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476318)    |                     |                                                                                        |
+|                    3|Rune of Might                                                                                |                     |                                                                                        |
+|                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)            |                     |                                                                                        |
+|                    3|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)    |                     |                                                                                        |
+|                    3|[Pious Wayfarer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476283)    |                     |                                                                                        |
+|                    3|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)          |                     |                                                                                        |
+|                    4|[Raugrin Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479771)    |                     |                                                                                        |
+|                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)          |                     |                                                                                        |
+|                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)            |                     |                                                                                        |
+|                    4|[Transcendent Envoy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476291)|                     |                                                                                        |
+|                    4|[Pious Wayfarer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476283)    |                     |                                                                                        |
+|                    4|[Starlit Mantle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476318)    |                     |                                                                                        |
+|                    5|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)            |                     |                                                                                        |
+

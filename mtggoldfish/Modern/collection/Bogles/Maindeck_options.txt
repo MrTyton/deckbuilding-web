@@ -15,14 +15,14 @@
 2 Flooded Strand
 1 Staggering Insight
 2 Staggering Insight
-1 Breeding Pool
 1 Island
 1 Curious Obsession
+1 Breeding Pool
 1 Arcane Flight
 2 Curious Obsession
 2 Arcane Flight
-3 Flooded Strand
 3 Curious Obsession
+3 Flooded Strand
 3 Arcane Flight
 4 Curious Obsession
 1 Keen Sense
@@ -40,27 +40,27 @@
 4 Path to Exile
 3 Plains
 1 Snow-Covered Plains
-1 Kor Outfitter
 1 Stoneforge Mystic
-1 Colossus Hammer
-1 Steelshaper's Gift
 1 Shadowspear
+1 Colossus Hammer
+1 Kor Outfitter
+1 Steelshaper's Gift
 1 Inkmoth Nexus
 1 Sigarda's Aid
-2 Kor Outfitter
 2 Stoneforge Mystic
 2 Steelshaper's Gift
 2 Inkmoth Nexus
+2 Kor Outfitter
 2 Sigarda's Aid
 2 Colossus Hammer
 3 Stoneforge Mystic
-3 Kor Outfitter
 3 Sigarda's Aid
 3 Colossus Hammer
+3 Kor Outfitter
 3 Steelshaper's Gift
 3 Inkmoth Nexus
-4 Kor Outfitter
 4 Stoneforge Mystic
+4 Kor Outfitter
 4 Sigarda's Aid
 4 Colossus Hammer
 4 Steelshaper's Gift
@@ -68,7 +68,6 @@
 1 Ram Through
 1 Speaker of the Heavens
 2 Ram Through
-2 Sentinel's Eyes
 2 Forest
 1 Dromoka's Command
 2 Dromoka's Command
@@ -78,6 +77,7 @@
 1 Wooded Bastion
 2 Cartouche of Solidarity
 2 Wooded Bastion
+2 Sentinel's Eyes
 1 Irrigated Farmland
 2 Irrigated Farmland
 2 Misty Rainforest
@@ -86,64 +86,64 @@
 1 Suppression Field
 2 Suppression Field
 3 Suppression Field
+3 Force of Negation
+4 Force of Negation
 1 Leyline of Sanctity
 2 Wooded Foothills
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 4 Leyline of Sanctity
-3 Force of Negation
-4 Force of Negation
 4 Mana Tithe
-1 Magnetic Theft
-1 Kor Duelist
-1 Silence
-1 Open the Armory
-1 City of Brass
 1 Sunbaked Canyon
-2 Magnetic Theft
-2 Snow-Covered Plains
-2 Kor Duelist
+1 Silence
+1 Kor Duelist
+1 Open the Armory
+1 Magnetic Theft
+1 City of Brass
+2 Sunbaked Canyon
 2 Shadowspear
 2 Open the Armory
 2 City of Brass
-2 Sunbaked Canyon
-3 Mana Confluence
-3 Kor Duelist
-3 Magnetic Theft
-3 Open the Armory
-3 City of Brass
+2 Snow-Covered Plains
+2 Magnetic Theft
+2 Kor Duelist
 3 Sunbaked Canyon
-4 Mana Confluence
-4 Kor Duelist
-4 City of Brass
+3 City of Brass
+3 Magnetic Theft
+3 Kor Duelist
+3 Open the Armory
+3 Mana Confluence
 4 Sunbaked Canyon
+4 City of Brass
+4 Kor Duelist
+4 Mana Confluence
 4 Magnetic Theft
 1 Verdant Catacombs
 1 Sram, Senior Edificer
 3 All That Glitters
 4 All That Glitters
-1 Sword of Fire and Ice
 1 Batterskull
-1 Sword of Feast and Famine
-1 Skyclave Apparition
-1 Lurrus of the Dream-Den
 1 Arid Mesa
+1 Sword of Feast and Famine
+1 Lurrus of the Dream-Den
+1 Skyclave Apparition
+1 Sword of Fire and Ice
 1 Noble Hierarch
 1 Marsh Flats
 1 Eladamri's Call
+2 Arid Mesa
 2 Marsh Flats
 2 Noble Hierarch
-2 Arid Mesa
 2 Eladamri's Call
 3 Noble Hierarch
 3 Eladamri's Call
 4 Eladamri's Call
 4 Noble Hierarch
-1 Seachrome Coast
 1 Waterlogged Grove
 1 Invisible Stalker
+1 Seachrome Coast
 2 Invisible Stalker
-2 Stubborn Denial
 2 Seachrome Coast
+2 Stubborn Denial
 3 Invisible Stalker
 4 Arcane Flight
