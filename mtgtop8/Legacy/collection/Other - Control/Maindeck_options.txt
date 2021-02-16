@@ -21,62 +21,9 @@
 3 Underground Sea
 3 Polluted Delta
 4 Polluted Delta
-1 Murderous Rider
-1 Snow-Covered Swamp
-1 Ancient Tomb
-1 Karn, the Great Creator
-1 Chrome Mox
-1 Leyline of the Void
-1 Opposition Agent
-1 Curse of Misfortunes
-1 Trinisphere
-1 Helm of Obedience
-1 City of Traitors
-1 Curse of Death's Hold
-1 Dark Ritual
-1 Cruel Reality
-1 Overwhelming Splendor
-1 Chalice of the Void
-2 Ancient Tomb
-2 Snow-Covered Swamp
-2 Karn, the Great Creator
-2 Leyline of the Void
-2 Opposition Agent
-2 Trinisphere
-2 Curse of Misfortunes
-2 Chrome Mox
-2 City of Traitors
-2 Dark Ritual
-2 Helm of Obedience
-2 Chalice of the Void
-3 Ancient Tomb
-3 Snow-Covered Swamp
-3 Karn, the Great Creator
-3 Leyline of the Void
-3 Opposition Agent
-3 Dark Ritual
-3 Chalice of the Void
-3 City of Traitors
-3 Curse of Misfortunes
-3 Chrome Mox
-4 Ancient Tomb
-4 Snow-Covered Swamp
-4 Karn, the Great Creator
-4 Chrome Mox
-4 Leyline of the Void
-4 Chalice of the Void
-4 Dark Ritual
-4 City of Traitors
-4 Curse of Misfortunes
-4 Opposition Agent
-5 Snow-Covered Swamp
-6 Snow-Covered Swamp
-7 Snow-Covered Swamp
-8 Snow-Covered Swamp
-9 Snow-Covered Swamp
-10 Snow-Covered Swamp
 2 Flooded Strand
 1 Fatal Push
+1 Murderous Rider
 1 Ethereal Forager
 1 Island
 1 Swamp
@@ -100,19 +47,20 @@
 2 Swords to Plowshares
 3 Arcum's Astrolabe
 3 Swords to Plowshares
+1 Snow-Covered Swamp
 1 Snapcaster Mage
 1 Jace, the Mind Sculptor
-1 Drown in the Loch
 1 Monastery Mentor
 1 Inquisition of Kozilek
+1 Drown in the Loch
 1 Hymn to Tourach
 1 Scrubland
 2 Snapcaster Mage
 2 Jace, the Mind Sculptor
-2 Drown in the Loch
 2 Tundra
 2 Monastery Mentor
 2 Hymn to Tourach
+2 Drown in the Loch
 2 Inquisition of Kozilek
 3 Teferi, Time Raveler
 3 Monastery Mentor
@@ -129,11 +77,6 @@
 1 Gurmag Angler
 2 Swamp
 3 Ethereal Forager
-1 Soul Shatter
-1 Sorcerous Spyglass
-2 Sorcerous Spyglass
-2 Soul Shatter
-3 Sorcerous Spyglass
 1 Savannah
 1 Stoneforge Mystic
 1 Batterskull
@@ -161,9 +104,60 @@
 3 Hullbreacher
 3 Brazen Borrower
 4 Brazen Borrower
-1 Pelakka Predation
-1 Feed the Swarm
-2 Pelakka Predation
-3 Pelakka Predation
-3 Trinisphere
-4 Pelakka Predation
+1 Ancient Tomb
+1 Karn, the Great Creator
+1 Chrome Mox
+1 Leyline of the Void
+1 Opposition Agent
+1 Soul Shatter
+1 Sorcerous Spyglass
+1 Curse of Misfortunes
+1 Trinisphere
+1 Helm of Obedience
+1 City of Traitors
+1 Curse of Death's Hold
+1 Dark Ritual
+1 Cruel Reality
+1 Overwhelming Splendor
+1 Chalice of the Void
+2 Snow-Covered Swamp
+2 Ancient Tomb
+2 Karn, the Great Creator
+2 Leyline of the Void
+2 Sorcerous Spyglass
+2 Soul Shatter
+2 Opposition Agent
+2 Trinisphere
+2 Curse of Misfortunes
+2 Chrome Mox
+2 City of Traitors
+2 Dark Ritual
+2 Helm of Obedience
+2 Chalice of the Void
+3 Snow-Covered Swamp
+3 Ancient Tomb
+3 Karn, the Great Creator
+3 Leyline of the Void
+3 Opposition Agent
+3 Dark Ritual
+3 Chalice of the Void
+3 City of Traitors
+3 Sorcerous Spyglass
+3 Curse of Misfortunes
+3 Chrome Mox
+4 Snow-Covered Swamp
+4 Ancient Tomb
+4 Karn, the Great Creator
+4 Chrome Mox
+4 Leyline of the Void
+4 Chalice of the Void
+4 Dark Ritual
+4 City of Traitors
+4 Curse of Misfortunes
+5 Snow-Covered Swamp
+6 Snow-Covered Swamp
+7 Snow-Covered Swamp
+8 Snow-Covered Swamp
+9 Snow-Covered Swamp
+10 Snow-Covered Swamp
+4 Opposition Agent

@@ -1,7 +1,7 @@
 2 Murderous Rider
 3 Murderous Rider
-1 Mana Confluence
 1 Cathartic Reunion
+1 Mana Confluence
 1 Gather the Pack
 1 Lotleth Troll
 2 Cathartic Reunion
@@ -140,20 +140,20 @@
 4 Dragon Hunter
 4 Cathartic Reunion
 1 Heartless Act
+1 Of One Mind
 1 Botanical Sanctum
 1 Breeding Pool
-1 Of One Mind
 1 Zagoth Triome
 1 Merfolk Windrobber
 1 Deathrite Shaman
-2 Botanical Sanctum
 2 Of One Mind
+2 Botanical Sanctum
 2 Zagoth Triome
 2 Agadeem's Awakening
 2 Merfolk Windrobber
 2 Deathrite Shaman
-3 Botanical Sanctum
 3 Of One Mind
+3 Botanical Sanctum
 3 Into the Story
 3 Merfolk Windrobber
 3 Deathrite Shaman
@@ -185,8 +185,8 @@
 1 All That Glitters
 1 Cartouche of Solidarity
 1 Ethereal Armor
-1 Fortified Village
 1 Sunpetal Grove
+1 Fortified Village
 1 Unflinching Courage
 1 Bassara Tower Archer
 1 Helm of the Gods
@@ -211,8 +211,8 @@
 3 Temple Garden
 3 Sentinel's Eyes
 3 Cartouche of Solidarity
-3 All That Glitters
 3 Adanto Vanguard
+3 All That Glitters
 3 Ethereal Armor
 3 Gryff's Boon
 3 Sunpetal Grove
@@ -265,11 +265,11 @@
 5 Swamp
 6 Swamp
 7 Swamp
-1 Gideon, Ally of Zendikar
 1 Skyclave Apparition
 1 Ajani, Adversary of Tyrants
 1 Archangel of Tithes
 1 Selfless Spirit
+1 Gideon, Ally of Zendikar
 1 Declaration in Stone
 1 Brimaz, King of Oreskos
 1 Gideon of the Trials
@@ -281,7 +281,6 @@
 1 Castle Ardenvale
 1 Banishing Light
 1 Gisela, the Broken Blade
-2 Gideon, Ally of Zendikar
 2 Skyclave Apparition
 2 Ajani, Adversary of Tyrants
 2 Archangel of Tithes
@@ -293,6 +292,7 @@
 2 Gisela, the Broken Blade
 2 Banishing Light
 2 Gideon of the Trials
+2 Gideon, Ally of Zendikar
 2 Kytheon, Hero of Akros
 2 Declaration in Stone
 2 Thraben Inspector

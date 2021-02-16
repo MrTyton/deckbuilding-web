@@ -37,7 +37,6 @@
 3 Lava Spike
 3 Lightning Bolt
 3 Monastery Swiftspear
-3 Skewer the Critics
 3 Eidolon of the Great Revel
 3 Wayward Guide-Beast
 3 Rift Bolt
@@ -47,8 +46,11 @@
 4 Lightning Bolt
 4 Lava Spike
 4 Monastery Swiftspear
+3 Skewer the Critics
 13 Mountain
 4 Wayward Guide-Beast
+1 Searing Blaze
+2 Searing Blaze
 1 Skullcrack
 2 Skullcrack
 3 Skullcrack
@@ -58,21 +60,9 @@
 15 Mountain
 16 Mountain
 17 Mountain
-1 Searing Blaze
-2 Searing Blaze
 1 Shard Volley
 2 Shard Volley
-2 Abrade
 1 Wooded Foothills
-3 Searing Blaze
-3 Shard Volley
-4 Shard Volley
-12 Snow-Covered Mountain
-13 Snow-Covered Mountain
-14 Snow-Covered Mountain
-1 Forked Bolt
-2 Forked Bolt
-3 Forked Bolt
 1 Copperline Gorge
 1 Blackcleave Cliffs
 1 Atarka's Command
@@ -93,6 +83,21 @@
 4 Copperline Gorge
 4 Bump in the Night
 4 Atarka's Command
+2 Abrade
+3 Searing Blaze
+3 Shard Volley
+4 Shard Volley
+12 Snow-Covered Mountain
+13 Snow-Covered Mountain
+14 Snow-Covered Mountain
+2 Wooded Foothills
+3 Wooded Foothills
+4 Wooded Foothills
+1 Scalding Tarn
+2 Scalding Tarn
+1 Forked Bolt
+2 Forked Bolt
+3 Forked Bolt
 3 Abrade
 4 Karn, the Great Creator
 4 Ramunap Ruins
@@ -101,10 +106,9 @@
 2 Mazemind Tome
 4 Seasoned Pyromancer
 1 Kozilek's Return
-1 Scalding Tarn
 1 Bloodstained Mire
-2 Scalding Tarn
 2 Bloodstained Mire
+3 Arid Mesa
 1 Sweltering Suns
 2 Sweltering Suns
 3 Sweltering Suns
@@ -116,10 +120,6 @@
 2 Chandra, Acolyte of Flame
 2 Chandra's Regulator
 4 Ensnaring Bridge
-2 Wooded Foothills
-3 Arid Mesa
-3 Wooded Foothills
-4 Wooded Foothills
 1 Emrakul, the Aeons Torn
 1 Lukka, Coppercoat Outcast
 1 Planebound Accomplice

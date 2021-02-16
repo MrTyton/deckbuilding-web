@@ -120,8 +120,8 @@
 1 Ketria Triome
 1 In Search of Greatness
 1 Tergrid, God of Fright
-2 Tergrid, God of Fright
 2 Doomskar
+2 Tergrid, God of Fright
 3 Setessan Champion
 3 Eliminate
 3 Tergrid, God of Fright
@@ -177,25 +177,21 @@
 6 Swamp
 3 Ugin, the Spirit Dragon
 3 Solemn Simulacrum
-4 Ugin, the Spirit Dragon
 4 Solemn Simulacrum
+4 Ugin, the Spirit Dragon
 2 Ondu Inversion
-1 Soul Sear
-2 Soul Sear
-3 Soul Sear
-4 Soul Sear
 1 Zagoth Triome
 1 Cragcrown Pathway
 2 Cragcrown Pathway
 1 Island
 1 Riverglide Pathway
-1 Tranquil Cove
 1 Jungle Hollow
+1 Tranquil Cove
 1 Thornwood Falls
+1 Bloodfell Caves
 1 Thirst for Meaning
 1 Fae of Wishes
 1 Dismal Backwater
-1 Bloodfell Caves
 1 Sanctum of Shattered Heights
 1 Sanctum of All
 1 Sanctum of Calm Waters
@@ -207,6 +203,7 @@
 1 Sanctum of Fruitful Harvest
 2 Tranquil Cove
 2 Thirst for Meaning
+2 Fae of Wishes
 2 Dismal Backwater
 2 Sanctum of Fruitful Harvest
 2 Sanctum of Tranquil Light
@@ -214,12 +211,11 @@
 2 Sanctum of All
 2 Sanctum of Shattered Heights
 2 Sanctum of Stone Fangs
-2 Fae of Wishes
 2 Sanctum of Calm Waters
 2 Clearwater Pathway
+3 Fae of Wishes
 3 Bloodchief's Thirst
 3 Sanctum of Stone Fangs
-3 Fae of Wishes
 3 Sanctum of Calm Waters
 3 Sanctum of Tranquil Light
 3 Sanctum of Fruitful Harvest
@@ -227,6 +223,10 @@
 3 Sanctum of All
 4 Extinction Event
 4 Sanctum of Shattered Heights
+1 Soul Sear
+2 Soul Sear
+3 Soul Sear
+4 Soul Sear
 1 Bonders' Enclave
 1 Elder Gargaroth
 1 Agonizing Remorse
@@ -243,17 +243,17 @@
 3 Agonizing Remorse
 3 Llanowar Visionary
 4 Llanowar Visionary
-1 Temple of Abandon
 1 Dream Devourer
+1 Temple of Abandon
 1 Vorinclex, Monstrous Raider
+1 Liliana, Waker of the Dead
 1 Blightstep Pathway
 1 Snow-Covered Mountain
 1 Snow-Covered Forest
-1 Liliana, Waker of the Dead
 1 Snow-Covered Swamp
 2 Dream Devourer
-2 Vorinclex, Monstrous Raider
 2 Blightstep Pathway
+2 Vorinclex, Monstrous Raider
 2 Liliana, Waker of the Dead
 2 Snow-Covered Swamp
 2 Snow-Covered Forest
@@ -263,11 +263,11 @@
 3 Snow-Covered Forest
 3 Vorinclex, Monstrous Raider
 3 Blightstep Pathway
-4 Cultivate
-4 Vorinclex, Monstrous Raider
 4 Dream Devourer
+4 Vorinclex, Monstrous Raider
 4 Lukka, Coppercoat Outcast
 4 Valki, God of Lies
+4 Cultivate
 4 Blightstep Pathway
 1 Storm's Wrath
 1 Bonecrusher Giant
@@ -286,11 +286,11 @@
 1 Jwari Disruption
 1 Lofty Denial
 1 Field of Ruin
+1 Rewind
 1 Neutralize
 1 Frantic Inventory
 1 Rain of Revelation
 1 Gadwick, the Wizened
-1 Rewind
 1 Kiora Bests the Sea God
 1 Mystic Sanctuary
 1 Sublime Epiphany
@@ -303,27 +303,27 @@
 2 Castle Vantress
 2 Neutralize
 2 Gadwick, the Wizened
+2 Rewind
 2 Frantic Inventory
 2 Rain of Revelation
-2 Rewind
 2 Essence Scatter
 2 Into the Roil
 2 Shark Typhoon
 2 Island
 2 Brazen Borrower
 2 Hypnotic Sprite
-3 Castle Vantress
 3 Neutralize
 3 Frantic Inventory
+3 Castle Vantress
 3 Rewind
 3 Shark Typhoon
 3 Island
 3 Brazen Borrower
-4 Castle Vantress
 4 Neutralize
 4 Frantic Inventory
 4 Shark Typhoon
 4 Rewind
+4 Castle Vantress
 4 Island
 4 Brazen Borrower
 5 Island

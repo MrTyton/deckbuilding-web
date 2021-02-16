@@ -1,8 +1,8 @@
-1 Mystical Dispute
 1 Force of Vigor
+1 Mystical Dispute
 1 Pact of Negation
-1 Ceremonious Rejection
 2 Force of Vigor
+1 Ceremonious Rejection
 2 Mystical Dispute
 1 Gemrazer
 2 Gemrazer
@@ -10,12 +10,14 @@
 2 Fatal Push
 4 Veil of Summer
 3 Fatal Push
+1 Choke
 1 Collective Brutality
 1 Assassin's Trophy
 2 Collective Brutality
 2 Assassin's Trophy
 3 Grafdigger's Cage
-1 Choke
+1 Spellskite
+1 Pithing Needle
 1 Surgical Extraction
 1 Tormod's Crypt
 1 Nihil Spellbomb
@@ -24,11 +26,13 @@
 2 Nature's Claim
 1 Viridian Corrupter
 1 Wild Defiance
+1 Weather the Storm
 1 Relic of Progenitus
 1 Shapers' Sanctuary
 2 Shapers' Sanctuary
-1 Spellskite
 2 Spell Pierce
+2 Pithing Needle
+2 Spellskite
 3 Nature's Claim
 4 Nature's Claim
 1 Apostle's Blessing
@@ -36,8 +40,8 @@
 1 Melira, Sylvok Outcast
 1 Become Immense
 2 Apostle's Blessing
-2 Melira, Sylvok Outcast
 2 Torpor Orb
+2 Melira, Sylvok Outcast
 1 Abrupt Decay
 2 Abrupt Decay
 2 Surgical Extraction
@@ -46,12 +50,10 @@
 2 Dispel
 2 Wild Defiance
 3 Force of Vigor
-1 Kitchen Finks
-1 Duress
-2 Kitchen Finks
-3 Kitchen Finks
-4 Fatal Push
-1 Weather the Storm
+1 Ashiok, Dream Render
+1 Plague Engineer
+3 Gemrazer
+4 Gemrazer
 1 Faerie Macabre
 1 Wrap in Vigor
 2 Weather the Storm
@@ -62,8 +64,8 @@
 3 Wrap in Vigor
 4 Faerie Macabre
 4 Weather the Storm
-1 Pithing Needle
-1 Ashiok, Dream Render
-1 Plague Engineer
-3 Gemrazer
-4 Gemrazer
+1 Kitchen Finks
+1 Duress
+2 Kitchen Finks
+3 Kitchen Finks
+4 Fatal Push
