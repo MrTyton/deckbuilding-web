@@ -5,8 +5,12 @@
 2 Maelstrom Pulse
 3 Anger of the Gods
 3 Maelstrom Pulse
-1 Dismember
+1 Lightning Bolt
+2 Lightning Bolt
+1 Defense Grid
+2 Defense Grid
 1 Mountain
+1 Dismember
 2 Nature's Claim
 1 Goblin Charbelcher
 2 Goblin Charbelcher
@@ -16,58 +20,44 @@
 1 Thoughtseize
 1 Natural State
 2 Thoughtseize
+1 Pithing Needle
 1 Mystical Dispute
 2 Mystical Dispute
 3 Mystical Dispute
 1 Supreme Verdict
 1 Firespout
+1 Celestial Purge
+2 Celestial Purge
 1 Brazen Borrower
 1 Timely Reinforcements
 2 Timely Reinforcements
-1 Celestial Purge
-2 Celestial Purge
 1 Kor Firewalker
 2 Firespout
 2 Kor Firewalker
 3 Celestial Purge
-1 Pithing Needle
-1 Lightning Bolt
-2 Lightning Bolt
-1 Defense Grid
-2 Defense Grid
 2 Pithing Needle
 2 Natural State
 3 Natural State
-1 Wheel of Sun and Moon
-1 Containment Priest
-1 Torpor Orb
-1 Sorcerous Spyglass
-1 Boil
-1 Grand Abolisher
-2 Containment Priest
-2 Torpor Orb
-2 Grand Abolisher
-2 Boil
-3 Grand Abolisher
-4 Grand Abolisher
+1 Empty the Warrens
 3 Thoughtseize
 3 Pact of Negation
+1 Veil of Summer
 3 Lightning Bolt
+1 Boil
 1 Thrun, the Last Troll
 1 Thassa's Oracle
 1 Memory's Journey
 1 Unmoored Ego
 1 Wear / Tear
-1 Threads of Disloyalty
+1 Ensnaring Bridge
+2 Ensnaring Bridge
 1 Gemstone Caverns
+1 Threads of Disloyalty
 2 Threads of Disloyalty
 1 Force of Negation
 1 Ashiok, Dream Render
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
-1 Deflecting Palm
-2 Sorcerous Spyglass
-2 Deflecting Palm
 1 Blood Moon
 1 Skyclave Apparition
 1 Monastery Mentor
@@ -77,16 +67,12 @@
 2 Tormod's Crypt
 2 Monastery Mentor
 3 Skyclave Apparition
-1 Word of Seizing
-3 Containment Priest
-3 Torpor Orb
 1 Slaughter Pact
 1 Pelakka Predation
 1 Talisman of Resilience
 2 Pelakka Predation
 2 Slaughter Pact
 3 Slaughter Pact
-1 Empty the Warrens
 1 Echoing Truth
 1 Dispel
 1 Hope of Ghirapur
@@ -101,15 +87,14 @@
 2 Fatal Push
 2 Aria of Flame
 3 Aria of Flame
-1 Sweltering Suns
 1 Surgical Extraction
+1 Sweltering Suns
 1 Vexing Shusher
 2 Surgical Extraction
 2 Vexing Shusher
 3 Vexing Shusher
 3 Defense Grid
 4 Defense Grid
-1 Veil of Summer
 1 Aether Gust
 1 Chalice of the Void
 2 Chalice of the Void
@@ -118,6 +103,17 @@
 3 Veil of Summer
 3 Aether Gust
 4 Veil of Summer
+1 Forest
+1 Chancellor of the Annex
+1 Island
+1 Chancellor of the Tangle
+1 Nephalia Academy
+2 Chancellor of the Annex
+2 Nephalia Academy
+3 Chancellor of the Annex
+3 Nephalia Academy
+4 Chancellor of the Annex
+4 Nephalia Academy
 1 Primeval Titan
 1 Dryad of the Ilysian Grove
 1 Summoner's Pact
@@ -133,16 +129,19 @@
 4 Primeval Titan
 4 Summoner's Pact
 4 Dryad of the Ilysian Grove
-1 Island
-1 Forest
-1 Chancellor of the Annex
-1 Chancellor of the Tangle
-1 Nephalia Academy
-2 Chancellor of the Annex
-2 Nephalia Academy
-3 Chancellor of the Annex
-3 Nephalia Academy
-4 Chancellor of the Annex
-4 Nephalia Academy
 1 Savage Summoning
 4 Natural State
+1 Deflecting Palm
+1 Wheel of Sun and Moon
+1 Containment Priest
+1 Torpor Orb
+1 Sorcerous Spyglass
+1 Grand Abolisher
+2 Containment Priest
+2 Sorcerous Spyglass
+2 Torpor Orb
+2 Deflecting Palm
+2 Grand Abolisher
+2 Boil
+3 Grand Abolisher
+4 Grand Abolisher

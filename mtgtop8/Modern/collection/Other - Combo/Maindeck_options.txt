@@ -1,3 +1,49 @@
+2 Goblin Charbelcher
+1 Blood Moon
+2 Blood Moon
+3 Blood Moon
+1 Valakut Awakening
+1 Bala Ged Recovery
+1 Irencrag Feat
+1 Recross the Paths
+1 Manamorphose
+1 Reforge the Soul
+1 Desperate Ritual
+1 Pyretic Ritual
+1 Spikefield Hazard
+2 Bala Ged Recovery
+2 Valakut Awakening
+2 Irencrag Feat
+2 Pyretic Ritual
+2 Spikefield Hazard
+2 Manamorphose
+2 Recross the Paths
+2 Shatterskull Smashing
+2 Desperate Ritual
+3 Spikefield Hazard
+3 Valakut Awakening
+3 Goblin Charbelcher
+3 Irencrag Feat
+3 Manamorphose
+3 Pact of Negation
+3 Desperate Ritual
+3 Recross the Paths
+3 Pyretic Ritual
+3 Shatterskull Smashing
+3 Bala Ged Recovery
+4 Valakut Awakening
+4 Goblin Charbelcher
+4 Spikefield Hazard
+4 Recross the Paths
+4 Pyretic Ritual
+4 Irencrag Feat
+4 Shatterskull Smashing
+4 Manamorphose
+4 Desperate Ritual
+4 Bala Ged Recovery
+4 Blood Moon
+1 Gemstone Caverns
+1 Violent Outburst
 2 Gemstone Caverns
 2 Violent Outburst
 3 Violent Outburst
@@ -27,140 +73,37 @@
 3 Force of Negation
 1 Breeding Pool
 1 Watery Grave
-1 Goblin Charbelcher
+1 Dismember
+2 Dismember
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 1 Brazen Borrower
 2 Brazen Borrower
-1 Dismember
-2 Dismember
 1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
 1 Snow-Covered Forest
 4 Valki, God of Lies
-2 Pact of Negation
-2 Goblin Charbelcher
-1 Blood Moon
-2 Blood Moon
-3 Blood Moon
-4 Blood Moon
-1 Bala Ged Recovery
-1 Valakut Awakening
-1 Irencrag Feat
-1 Recross the Paths
-1 Manamorphose
-1 Reforge the Soul
-1 Desperate Ritual
-1 Pyretic Ritual
-1 Spikefield Hazard
-2 Bala Ged Recovery
-2 Valakut Awakening
-2 Irencrag Feat
-2 Pyretic Ritual
-2 Spikefield Hazard
-2 Manamorphose
-2 Shatterskull Smashing
-2 Recross the Paths
-2 Desperate Ritual
-3 Spikefield Hazard
-3 Valakut Awakening
-3 Goblin Charbelcher
-3 Irencrag Feat
-3 Manamorphose
-3 Pact of Negation
-3 Desperate Ritual
-3 Recross the Paths
-3 Shatterskull Smashing
-3 Bala Ged Recovery
-3 Pyretic Ritual
-4 Valakut Awakening
-4 Goblin Charbelcher
-4 Shatterskull Smashing
-4 Spikefield Hazard
-4 Recross the Paths
-4 Irencrag Feat
-4 Manamorphose
-4 Pyretic Ritual
-4 Desperate Ritual
-4 Bala Ged Recovery
 1 Thoughtseize
 2 Thoughtseize
-1 Mystic Sanctuary
 1 Cryptic Command
+1 Mystic Sanctuary
 1 Temple Garden
 1 Misty Rainforest
 1 Omnath, Locus of Creation
 2 Misty Rainforest
 2 Mystic Sanctuary
-2 Omnath, Locus of Creation
 2 Cryptic Command
+2 Omnath, Locus of Creation
+3 Misty Rainforest
 3 Cryptic Command
 3 Uro, Titan of Nature's Wrath
-3 Misty Rainforest
-4 Uro, Titan of Nature's Wrath
 4 Misty Rainforest
-1 Leyline of Sanctity
-2 Leyline of Sanctity
-3 Leyline of Sanctity
-4 Leyline of Sanctity
-1 Sacred Foundry
-1 Arid Mesa
-2 Arid Mesa
-1 Nykthos, Shrine to Nyx
-1 Skyclave Apparition
-1 Plains
-1 Oust
-1 Solemnity
-1 Wheel of Sun and Moon
-1 Marsh Flats
-1 Overwhelming Splendor
-1 Silence
-1 Deafening Clarion
-1 Dovescape
-1 Treasure Map
-1 Form of the Dragon
-1 Nine Lives
-1 Temple of Triumph
-1 Mistveil Plains
-1 Enduring Ideal
-1 Lotus Bloom
-1 Phyrexian Unlife
-2 Skyclave Apparition
-2 Nykthos, Shrine to Nyx
-2 Oust
-2 Silence
-2 Marsh Flats
-2 Enduring Ideal
-2 Plains
-2 Temple of Triumph
-2 Sacred Foundry
-2 Phyrexian Unlife
-2 Form of the Dragon
-2 Nine Lives
-2 Treasure Map
-2 Solemnity
-2 Lotus Bloom
-3 Sacred Foundry
-3 Plains
-3 Oust
-3 Marsh Flats
-3 Solemnity
-3 Silence
-3 Enduring Ideal
-3 Lotus Bloom
-3 Nine Lives
-4 Plains
-4 Sacred Foundry
-4 Marsh Flats
-4 Silence
-4 Enduring Ideal
-5 Plains
-6 Plains
+4 Uro, Titan of Nature's Wrath
 3 Gemstone Caverns
-1 Wooded Foothills
 4 Gemstone Caverns
+1 Wooded Foothills
 1 Stomping Ground
 2 Wooded Foothills
 1 Forest
@@ -186,9 +129,9 @@
 3 Blackcleave Cliffs
 3 Demonic Dread
 3 Bloodbraid Elf
+4 Verdant Catacombs
 4 Demonic Dread
 4 Seasoned Pyromancer
-4 Verdant Catacombs
 4 Blackcleave Cliffs
 4 Bloodbraid Elf
 1 Mana Confluence
@@ -205,11 +148,14 @@
 4 Force of Negation
 4 Polluted Delta
 4 Teferi, Time Raveler
+1 Lightning Bolt
 3 Wooded Foothills
 4 Wooded Foothills
 2 Forest
-1 Emrakul, the Aeons Torn
-2 Emrakul, the Aeons Torn
+1 Leyline of Sanctity
+2 Leyline of Sanctity
+3 Leyline of Sanctity
+4 Leyline of Sanctity
 4 Pact of Negation
 1 Nature's Claim
 2 Nature's Claim
@@ -218,24 +164,24 @@
 1 Firespout
 2 Mystical Dispute
 2 Bonecrusher Giant
-2 Deafening Clarion
-3 Temple of Triumph
 3 Omnath, Locus of Creation
 3 Dismember
 1 Lovestruck Beast
 2 Swamp
 2 Lovestruck Beast
 3 Lovestruck Beast
-3 Thoughtseize
-4 Thoughtseize
 1 Snow-Covered Swamp
 1 Murderous Rider
 1 Prismatic Vista
 2 Murderous Rider
 2 Prismatic Vista
 4 Magus of the Moon
+3 Thoughtseize
+4 Thoughtseize
 3 Pelakka Predation
 4 Pelakka Predation
+1 Emrakul, the Aeons Torn
+2 Emrakul, the Aeons Torn
 1 Mountain
 2 Mountain
 1 Tibalt's Trickery
@@ -281,6 +227,8 @@
 3 Forest
 4 Grove of the Burnwillows
 4 Gruul Turf
+1 Arid Mesa
+1 Sacred Foundry
 1 Underworld Breach
 2 Snow-Covered Island
 1 Snow-Covered Mountain
@@ -296,7 +244,6 @@
 1 Fiery Islet
 1 Emry, Lurker of the Loch
 1 Mox Amber
-2 Lurrus of the Dream-Den
 2 Snow-Covered Plains
 2 Mishra's Bauble
 2 Engineered Explosives
@@ -306,6 +253,7 @@
 2 Mox Amber
 2 Underworld Breach
 2 Chromatic Star
+2 Lurrus of the Dream-Den
 3 Underworld Breach
 3 Lurrus of the Dream-Den
 3 Metallic Rebuke
@@ -313,8 +261,8 @@
 3 Mishra's Bauble
 3 Engineered Explosives
 3 Chromatic Star
-3 Grinding Station
 3 Emry, Lurker of the Loch
+3 Grinding Station
 4 Metallic Rebuke
 4 Underworld Breach
 4 Mox Amber
@@ -323,8 +271,8 @@
 4 Grinding Station
 4 Emry, Lurker of the Loch
 1 Lotus Field
-1 Wishclaw Talisman
 1 Peer Through Depths
+1 Wishclaw Talisman
 1 Silundi Vision
 1 Sleight of Hand
 1 Darkslick Shores
@@ -340,12 +288,12 @@
 1 Merchant Scroll
 2 Watery Grave
 2 Lotus Field
-2 Peer Through Depths
 2 Sleight of Hand
 2 Darkslick Shores
 2 Psychic Puppetry
 2 Merchant Scroll
 2 Reach Through Mists
+2 Peer Through Depths
 2 Serum Visions
 2 Ideas Unbound
 2 Wishclaw Talisman
@@ -371,23 +319,23 @@
 4 Ideas Unbound
 4 Psychic Puppetry
 4 Dream's Grip
+2 Arid Mesa
 1 Opt
 1 Izzet Charm
 1 Bloodstained Mire
 1 Transmogrify
-1 Lightning Bolt
 1 Polymorph
+1 Remand
 1 Dwarven Mine
 1 Delay
-1 Remand
 1 Mass Hysteria
 2 Opt
 2 Delay
 2 Izzet Charm
 2 Bloodstained Mire
 2 Dwarven Mine
-2 Remand
 2 Mass Hysteria
+2 Remand
 2 Transmogrify
 2 Lightning Bolt
 2 Polymorph
@@ -414,7 +362,57 @@
 2 Warrant / Warden
 3 Supreme Verdict
 4 Brazen Borrower
+1 Nykthos, Shrine to Nyx
+1 Oust
+1 Solemnity
+1 Wheel of Sun and Moon
+1 Marsh Flats
+1 Overwhelming Splendor
+1 Silence
+1 Deafening Clarion
+1 Dovescape
+1 Treasure Map
+1 Skyclave Apparition
+1 Form of the Dragon
+1 Nine Lives
+1 Plains
+1 Temple of Triumph
+1 Mistveil Plains
+1 Enduring Ideal
+1 Lotus Bloom
+1 Phyrexian Unlife
+2 Nykthos, Shrine to Nyx
+2 Oust
+2 Silence
+2 Marsh Flats
+2 Enduring Ideal
+2 Plains
+2 Temple of Triumph
+2 Sacred Foundry
+2 Phyrexian Unlife
+2 Form of the Dragon
+2 Skyclave Apparition
+2 Nine Lives
+2 Treasure Map
+2 Solemnity
+2 Lotus Bloom
+3 Sacred Foundry
+3 Plains
 3 Skyclave Apparition
+3 Oust
+3 Marsh Flats
+3 Solemnity
+3 Lotus Bloom
+3 Silence
+3 Enduring Ideal
+3 Nine Lives
+4 Plains
+4 Sacred Foundry
+4 Marsh Flats
+4 Silence
+4 Enduring Ideal
+5 Plains
+6 Plains
 7 Plains
 1 Pillar of the Paruns
 1 Kozilek, Butcher of Truth
@@ -439,8 +437,8 @@
 2 Kozilek, Butcher of Truth
 3 Pillar of the Paruns
 3 Gemstone Mine
-3 Omniscience
 3 City of Brass
+3 Omniscience
 3 Emrakul, the Promised End
 3 Ulamog, the Infinite Gyre
 3 Aether Hub

@@ -82,22 +82,22 @@
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 1 Charming Prince
+1 Wall of Omens
+1 Ephemerate
 1 Sword of Light and Shadow
 1 Treacherous Blessing
 1 Mind Raker
-1 Ephemerate
 1 Cavern of Souls
 1 Sun Titan
-1 Wall of Omens
 2 Charming Prince
-2 Wall of Omens
 2 Ephemerate
+2 Wall of Omens
 2 Mind Raker
 2 Treacherous Blessing
 3 Treacherous Blessing
-3 Wall of Omens
 3 Charming Prince
 3 Ephemerate
+3 Wall of Omens
 4 Treacherous Blessing
 4 Charming Prince
 4 Giver of Runes
@@ -115,10 +115,10 @@
 1 Ornithopter
 1 Sigarda's Aid
 1 Inkmoth Nexus
-1 Shadowspear
 1 Steelshaper's Gift
-1 Colossus Hammer
 1 Kor Outfitter
+1 Colossus Hammer
+1 Shadowspear
 1 Mishra's Bauble
 1 Puresteel Paladin
 1 Memnite
@@ -126,8 +126,8 @@
 2 Flooded Strand
 2 Springleaf Drum
 2 Colossus Hammer
-2 Sigarda's Aid
 2 Ornithopter
+2 Sigarda's Aid
 2 Inkmoth Nexus
 2 Steelshaper's Gift
 2 Memnite
@@ -153,7 +153,6 @@
 4 Mishra's Bauble
 1 Sorin, Solemn Visitor
 4 Bitterblossom
-1 Ranger-Captain of Eos
 1 Speaker of the Heavens
 1 Orzhov Charm
 1 Serra Ascendant
@@ -164,8 +163,9 @@
 1 Day of Judgment
 1 Emeria, the Sky Ruin
 1 Martyr of Sands
-2 Ranger-Captain of Eos
+1 Ranger-Captain of Eos
 2 Sorin, Vengeful Bloodlord
+2 Ranger-Captain of Eos
 2 Orzhov Charm
 2 Serra Ascendant
 2 Ranger of Eos
@@ -173,8 +173,8 @@
 2 Wrath of God
 2 Emeria, the Sky Ruin
 3 Ranger of Eos
-3 Ranger-Captain of Eos
 3 Martyr of Sands
+3 Ranger-Captain of Eos
 3 Orzhov Charm
 4 Ranger of Eos
 4 Orzhov Charm

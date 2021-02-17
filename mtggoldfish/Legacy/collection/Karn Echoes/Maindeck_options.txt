@@ -17,22 +17,22 @@
 1 Manifold Key
 1 Walking Ballista
 1 Voltaic Key
-1 Mystic Forge
 1 Basalt Monolith
+1 Mystic Forge
 1 Mesmeric Orb
 1 Grim Monolith
-2 Grim Monolith
 2 Basalt Monolith
-2 Mystic Forge
 2 Manifold Key
+2 Mystic Forge
 2 Voltaic Key
 2 Defense Grid
 2 Mesmeric Orb
-3 Grim Monolith
-3 Mystic Forge
+2 Grim Monolith
 3 Basalt Monolith
+3 Mystic Forge
 3 Voltaic Key
 3 Defense Grid
+3 Grim Monolith
 3 Mesmeric Orb
 4 Grim Monolith
 4 Voltaic Key
@@ -79,8 +79,8 @@
 3 Experimental Frenzy
 1 Mountain
 1 Goblin Engineer
-1 Ensnaring Bridge
 1 Spellskite
+1 Ensnaring Bridge
 1 Wurmcoil Engine
 1 Red Elemental Blast
 1 Goblin Welder

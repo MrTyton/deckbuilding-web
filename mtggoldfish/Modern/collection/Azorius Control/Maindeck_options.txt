@@ -76,8 +76,8 @@
 1 Castle Ardenvale
 6 Island
 1 Swamp
-1 Watery Grave
 1 Fatal Push
+1 Watery Grave
 2 Watery Grave
 2 Fatal Push
 3 Fatal Push
@@ -108,9 +108,9 @@
 3 Lotus Field
 3 Steam Vents
 3 Spirebluff Canal
+4 Cryptic Command
 4 Blood Sun
 4 Lotus Field
-4 Cryptic Command
 4 Spirebluff Canal
 4 Shark Typhoon
 4 Teferi, Hero of Dominaria
@@ -137,9 +137,9 @@
 1 Kaya, Orzhov Usurper
 1 Cling to Dust
 2 Cling to Dust
+1 Castle Vantress
 1 Teferi, Master of Time
 1 Entreat the Angels
-1 Castle Vantress
 1 Condemn
 1 Shadow of Doubt
 1 Disrupting Shoal
@@ -160,34 +160,34 @@
 2 Aether Gust
 1 Serum Visions
 2 Serum Visions
-1 Mutavault
-2 Mutavault
-3 Mutavault
-4 Mutavault
-1 Seachrome Coast
-1 Eiganjo Castle
-1 Lavinia, Azorius Renegade
-1 Blinkmoth Nexus
-1 Hengegate Pathway
-2 Hengegate Pathway
-2 Seachrome Coast
-2 Commandeer
-2 Lavinia, Azorius Renegade
-3 Hengegate Pathway
-3 Seachrome Coast
-3 Lavinia, Azorius Renegade
-4 Hengegate Pathway
-4 Seachrome Coast
-1 Bloodchief's Thirst
 1 Sunken Hollow
 1 Cosima, God of the Voyage
 1 Drowned Catacomb
 1 Behold the Multiverse
 1 Heartless Act
+1 Bloodchief's Thirst
 2 Cosima, God of the Voyage
 2 Behold the Multiverse
 3 Cosima, God of the Voyage
 4 Fatal Push
+1 Eiganjo Castle
+1 Hengegate Pathway
+1 Seachrome Coast
+1 Lavinia, Azorius Renegade
+1 Blinkmoth Nexus
+2 Seachrome Coast
+2 Hengegate Pathway
+2 Commandeer
+2 Lavinia, Azorius Renegade
+3 Seachrome Coast
+3 Hengegate Pathway
+3 Lavinia, Azorius Renegade
+4 Seachrome Coast
+4 Hengegate Pathway
+1 Mutavault
+2 Mutavault
+3 Mutavault
+4 Mutavault
 4 Misty Rainforest
 4 Valakut Awakening
 1 Sunken Ruins
@@ -204,10 +204,10 @@
 1 Thraben Inspector
 1 Windswept Heath
 1 Blast Zone
+2 Thraben Inspector
 2 Castle Ardenvale
 2 Blast Zone
 2 Windswept Heath
-2 Thraben Inspector
 3 Thraben Inspector
 4 Teferi, Time Raveler
 4 Hallowed Fountain

@@ -1,6 +1,6 @@
 4 Thalia, Guardian of Thraben
-1 Maul of the Skyclaves
 1 Inspiring Vantage
+1 Maul of the Skyclaves
 2 Inspiring Vantage
 3 Inspiring Vantage
 4 Inspiring Vantage
@@ -22,12 +22,12 @@
 1 Windswept Heath
 1 Wooded Foothills
 2 Birds of Paradise
+2 Windswept Heath
 2 Wooded Foothills
 2 Stomping Ground
-2 Windswept Heath
-3 Windswept Heath
 3 Birds of Paradise
 3 Wooded Foothills
+3 Windswept Heath
 4 Birds of Paradise
 1 Copperline Gorge
 1 Voice of Resurgence
@@ -96,12 +96,12 @@
 3 Godo, Bandit Warlord
 4 Godo, Bandit Warlord
 1 Unclaimed Territory
-1 Reflecting Pool
 1 Blade Splicer
-1 Island
+1 Reflecting Pool
 1 Meddling Mage
 1 Ancient Ziggurat
 1 Kitesail Freebooter
+1 Island
 1 Thalia's Lieutenant
 1 Mantis Rider
 1 Hallowed Fountain
@@ -124,11 +124,11 @@
 2 Champion of the Parish
 2 Kitesail Freebooter
 3 Charming Prince
-3 Cavern of Souls
 3 Blade Splicer
 3 Meddling Mage
 3 Unclaimed Territory
 3 Champion of the Parish
+3 Cavern of Souls
 3 Flooded Strand
 3 Mantis Rider
 3 Ancient Ziggurat
@@ -136,7 +136,6 @@
 3 Kitesail Freebooter
 3 Reflecting Pool
 3 Noble Hierarch
-4 Cavern of Souls
 4 Blade Splicer
 4 Unclaimed Territory
 4 Smuggler's Copter
@@ -149,6 +148,7 @@
 4 Reflecting Pool
 4 Noble Hierarch
 4 Flooded Strand
+4 Cavern of Souls
 1 Eternal Witness
 2 Snow-Covered Forest
 1 Reidane, God of the Worthy
@@ -176,8 +176,8 @@
 1 Brushfire Elemental
 1 Rampaging Ferocidon
 1 Banisher Priest
+2 Arid Mesa
 2 Brushfire Elemental
 2 Gilded Goose
-2 Arid Mesa
 3 Gilded Goose
 4 Voice of Resurgence

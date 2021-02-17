@@ -1,37 +1,33 @@
-1 Sorcerous Spyglass
-1 Ancient Tomb
-2 Chalice of the Void
-2 Ancient Tomb
-2 Sorcerous Spyglass
-2 Grim Monolith
-3 Chalice of the Void
-3 Ancient Tomb
-3 Grim Monolith
-4 Karn, the Great Creator
-4 Ancient Tomb
-1 Crop Rotation
-2 Crop Rotation
-3 Primeval Titan
-4 Pithing Needle
-1 Wastes
+1 Glacial Chasm
+1 Once Upon a Time
+2 Once Upon a Time
+3 Once Upon a Time
+4 Once Upon a Time
+4 Expedition Map
+1 Cavern of Souls
+1 Forest
+2 Forest
+3 Forest
+4 Forest
+5 Forest
+6 Forest
+7 Forest
 1 Thought-Knot Seer
 1 Eldrazi Temple
 2 Thought-Knot Seer
 3 Thought-Knot Seer
-1 City of Traitors
-1 Forsaken Monument
-1 Ugin, the Ineffable
-4 Chalice of the Void
-1 Dark Depths
-3 Crop Rotation
-4 Crop Rotation
-1 Misty Rainforest
 1 Trinisphere
+4 Chalice of the Void
+4 Green Sun's Zenith
 2 Ugin, the Spirit Dragon
-3 Vesuva
-1 Stonecoil Serpent
 1 Basalt Monolith
 1 Inventors' Fair
+1 Stonecoil Serpent
+3 Vesuva
+1 Crop Rotation
+2 Crop Rotation
+3 Primeval Titan
+4 Pithing Needle
 2 Ugin, the Ineffable
 2 Basalt Monolith
 2 Forsaken Monument
@@ -40,24 +36,32 @@
 2 Eldrazi Temple
 4 Thought-Knot Seer
 4 Grim Monolith
-1 Kozilek, Butcher of Truth
-1 Maze of Ith
+1 Dark Depths
+3 Crop Rotation
+4 Crop Rotation
+1 Misty Rainforest
 2 Trinisphere
-2 Ulamog, the Ceaseless Hunger
-3 Sorcerous Spyglass
 3 Eldrazi Temple
+1 All Is Dust
 1 Warping Wail
 2 Warping Wail
+1 Kozilek, Butcher of Truth
+1 Maze of Ith
 1 Manifold Key
+2 Ulamog, the Ceaseless Hunger
+3 Sorcerous Spyglass
 1 Mystic Forge
-1 Sphere of Resistance
-2 Sphere of Resistance
-1 All Is Dust
 2 City of Traitors
 2 Walking Ballista
 3 Stonecoil Serpent
-1 Reality Smasher
+1 Sphere of Resistance
+2 Sphere of Resistance
+1 Mazemind Tome
 2 All Is Dust
+1 Thran Dynamo
+4 Stonecoil Serpent
+1 Spatial Contortion
+1 Reality Smasher
 2 Reality Smasher
 2 Blast Zone
 3 Reality Smasher
@@ -67,10 +71,8 @@
 2 Ancient Stirrings
 3 Ancient Stirrings
 4 Ancient Stirrings
-1 Mazemind Tome
 3 Sphere of Resistance
 4 Sphere of Resistance
-1 Spatial Contortion
 1 Snow-Covered Forest
 1 Emrakul, the Promised End
 1 Mikokoro, Center of the Sea
@@ -81,13 +83,13 @@
 4 Snow-Covered Forest
 5 Snow-Covered Forest
 6 Snow-Covered Forest
+2 Manifold Key
 3 Golos, Tireless Pilgrim
-1 Thran Dynamo
-4 Stonecoil Serpent
+3 Walking Ballista
+3 Basalt Monolith
 2 Misty Rainforest
 1 Wurmcoil Engine
 2 Wastes
-2 Manifold Key
 2 Wurmcoil Engine
 2 Thran Dynamo
 1 Prismatic Vista
@@ -98,11 +100,14 @@
 2 Karakas
 3 Trinisphere
 3 Ugin, the Ineffable
+1 Grindstone
+3 Manifold Key
+1 Lightning Greaves
+3 City of Traitors
+4 City of Traitors
 1 Ensnaring Bridge
 1 Buried Ruin
 2 Urborg, Tomb of Yawgmoth
-3 Walking Ballista
-3 Basalt Monolith
 3 Forsaken Monument
 4 Basalt Monolith
 1 Ghost Quarter
