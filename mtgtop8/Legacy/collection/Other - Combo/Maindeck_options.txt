@@ -1,16 +1,14 @@
 4 Ponder
 1 Prismatic Vista
 1 Misty Rainforest
+2 Prismatic Vista
 2 Misty Rainforest
 3 Misty Rainforest
-1 Snow-Covered Island
-2 Prismatic Vista
-1 Thassa's Oracle
-2 Thassa's Oracle
 1 Lotus Petal
 2 Lotus Petal
 3 Lotus Petal
 4 Lotus Petal
+1 Thassa's Oracle
 1 Ancient Tomb
 1 Thought Lash
 1 Paradigm Shift
@@ -20,6 +18,7 @@
 2 Thought Lash
 2 Jace, Wielder of Mysteries
 2 Shelldock Isle
+2 Thassa's Oracle
 2 Paradigm Shift
 3 Thought Lash
 3 Paradigm Shift
@@ -27,11 +26,9 @@
 4 Thassa's Oracle
 4 Thought Lash
 4 Paradigm Shift
-1 Snow-Covered Forest
-1 Tropical Island
-2 Tropical Island
 1 Preordain
 2 Preordain
+1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 1 Teferi, Time Raveler
@@ -40,8 +37,10 @@
 3 Teferi, Time Raveler
 3 Flooded Strand
 4 Flooded Strand
-1 Snow-Covered Swamp
 1 Waterlogged Grove
+1 Snow-Covered Forest
+1 Tropical Island
+2 Tropical Island
 1 Thoughtseize
 2 Thoughtseize
 1 Spell Pierce
@@ -50,50 +49,14 @@
 2 Veil of Summer
 2 Spell Pierce
 3 Veil of Summer
-1 Griselbrand
-3 Tropical Island
-1 Bayou
-1 Abrupt Decay
-1 Uro, Titan of Nature's Wrath
-1 Verdant Catacombs
-1 Birds of Paradise
-1 Brazen Borrower
-1 Aether Vial
-1 Kira, Great Glass-Spinner
-1 Baleful Strix
-1 Mesmeric Fiend
-1 Plague Engineer
-1 Leovold, Emissary of Trest
-1 Divining Witch
-1 Fauna Shaman
-1 Scavenging Ooze
-1 Volrath's Shapeshifter
-2 Abrupt Decay
-2 Bayou
-2 Birds of Paradise
-2 Aether Vial
-2 Leovold, Emissary of Trest
-2 Mesmeric Fiend
-2 Verdant Catacombs
-2 Divining Witch
-2 Fauna Shaman
-2 Baleful Strix
-3 Baleful Strix
-3 Birds of Paradise
-3 Verdant Catacombs
-3 Aether Vial
-3 Fauna Shaman
-3 Mesmeric Fiend
-4 Birds of Paradise
-4 Aether Vial
-4 Mesmeric Fiend
 1 Drown in the Loch
 1 Bitterblossom
 1 Thieves' Guild Enforcer
 1 Brain Freeze
+1 Snow-Covered Swamp
 2 Drown in the Loch
-2 Bitterblossom
 2 Thieves' Guild Enforcer
+2 Bitterblossom
 2 Brain Freeze
 3 Underground Sea
 3 Prismatic Vista
@@ -174,9 +137,9 @@
 2 Splinter Twin
 2 Deceiver Exarch
 3 Deceiver Exarch
-3 Swords to Plowshares
 3 Splinter Twin
 3 Arcum's Astrolabe
+3 Swords to Plowshares
 4 Teferi, Time Raveler
 4 Splinter Twin
 4 Deceiver Exarch
@@ -185,6 +148,7 @@
 1 Allosaurus Shepherd
 1 Children of Korlis
 1 Laboratory Maniac
+1 Griselbrand
 1 Eldritch Evolution
 1 Neoform
 1 Chancellor of the Tangle
@@ -203,6 +167,7 @@
 2 Nourishing Shoal
 2 Once Upon a Time
 2 Eldritch Evolution
+3 Tropical Island
 3 Waterlogged Grove
 3 Xantid Swarm
 3 Allosaurus Shepherd

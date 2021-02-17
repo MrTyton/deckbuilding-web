@@ -1,76 +1,37 @@
-1 Chalice of the Void
-1 Gemstone Caverns
-1 Radiant Fountain
-1 Ruric Thar, the Unbowed
-1 Stomping Ground
-1 Gyruda, Doom of Depths
-1 Verdant Catacombs
-1 Sylvan Caryatid
-1 Blast Zone
-1 Farseek
-1 Mwonvuli Acid-Moss
-1 Inferno Titan
 1 Bojuka Bog
+2 Sakura-Tribe Elder
+2 Farseek
 2 Cavern of Souls
+2 Field of the Dead
 2 Overgrown Tomb
+2 Explore
 2 Gyruda, Doom of Depths
 2 Verdant Catacombs
 2 Chalice of the Void
 2 Gemstone Caverns
+2 Wurmcoil Engine
 2 Mwonvuli Acid-Moss
+2 Forest
 2 Stomping Ground
 2 Sire of Insanity
+2 Castle Garenbrig
 2 Sylvan Caryatid
-2 Farseek
+2 Primeval Titan
+3 Sakura-Tribe Elder
 3 Cavern of Souls
 3 Chalice of the Void
 3 Farseek
+3 Primeval Titan
+3 Castle Garenbrig
 3 Sylvan Caryatid
 3 Gemstone Caverns
 3 Mwonvuli Acid-Moss
+4 Sakura-Tribe Elder
 4 Cavern of Souls
 4 Gemstone Caverns
 4 Chalice of the Void
 4 Mwonvuli Acid-Moss
-2 Snow-Covered Forest
-1 Canopy Vista
-1 Scattered Groves
-1 Snow-Covered Plains
-1 Felidar Retreat
-1 Baneslayer Angel
-1 Arboreal Grazer
-1 Search for Tomorrow
-1 Solemn Simulacrum
-1 Wooded Foothills
-1 Plains
-1 Temple Garden
-1 Windswept Heath
-1 Selesnya Sanctuary
-2 Solemn Simulacrum
-2 Arboreal Grazer
-2 Search for Tomorrow
-2 Felidar Retreat
-2 Windswept Heath
-2 Wooded Foothills
-2 Temple Garden
-3 Field of the Dead
-3 Solemn Simulacrum
-3 Snow-Covered Forest
-3 Explore
-3 Search for Tomorrow
-3 Arboreal Grazer
-3 Wurmcoil Engine
-3 Forest
-3 Felidar Retreat
-3 Temple Garden
-3 Windswept Heath
-3 Wooded Foothills
-4 Solemn Simulacrum
-4 Wurmcoil Engine
-4 Search for Tomorrow
-4 Castle Garenbrig
-4 Explore
-4 Arboreal Grazer
+4 Primeval Titan
 1 Polluted Delta
 2 Polluted Delta
 3 Polluted Delta
@@ -85,23 +46,23 @@
 2 Archmage's Charm
 3 Archmage's Charm
 1 Soaring Thought-Thief
-1 Island
-1 Clearwater Pathway
 1 Ancestral Vision
+1 Clearwater Pathway
 1 Spell Snare
 1 Darkslick Shores
 1 Snapcaster Mage
 1 Drown in the Loch
 1 Watery Grave
 1 Thieves' Guild Enforcer
+1 Island
 1 Mana Leak
 1 Eliminate
 1 Cling to Dust
 1 Mishra's Bauble
 2 Soaring Thought-Thief
+2 Ancestral Vision
 2 Cling to Dust
 2 Island
-2 Ancestral Vision
 2 Watery Grave
 2 Drown in the Loch
 2 Darkslick Shores
@@ -112,9 +73,9 @@
 2 Mishra's Bauble
 3 Thieves' Guild Enforcer
 3 Soaring Thought-Thief
+3 Ancestral Vision
 3 Island
 3 Scalding Tarn
-3 Ancestral Vision
 3 Cling to Dust
 3 Darkslick Shores
 3 Snapcaster Mage
@@ -122,8 +83,8 @@
 3 Drown in the Loch
 3 Mishra's Bauble
 4 Thieves' Guild Enforcer
-4 Drown in the Loch
 4 Soaring Thought-Thief
+4 Drown in the Loch
 4 Fatal Push
 4 Island
 4 Ancestral Vision
@@ -134,6 +95,7 @@
 1 Misty Rainforest
 1 Shark Typhoon
 1 Fact or Fiction
+1 Snow-Covered Island
 1 Castle Vantress
 1 Nexus of Fate
 1 Uro, Titan of Nature's Wrath
@@ -141,10 +103,9 @@
 1 Growth Spiral
 1 Mystic Sanctuary
 1 Cryptic Command
-1 Breeding Pool
 1 Jace, the Mind Sculptor
 1 Ice-Fang Coatl
-1 Snow-Covered Island
+1 Breeding Pool
 1 Flooded Strand
 1 Wilderness Reclamation
 2 Breeding Pool
@@ -152,6 +113,7 @@
 2 Remand
 2 Misty Rainforest
 2 Ice-Fang Coatl
+2 Snow-Covered Forest
 2 Nexus of Fate
 2 Flooded Strand
 2 Uro, Titan of Nature's Wrath

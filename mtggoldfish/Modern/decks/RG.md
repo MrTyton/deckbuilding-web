@@ -25,3 +25,24 @@
 |                                                                                               |                                                                                                   |1 [Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)     |
 |                                                                                               |                                                                                                   |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)  |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                        |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|---------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)  |                    1|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
+|                    1|[Rootbound Crag](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420934)    |                    1|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)         |
+|                    1|[Sylvan Primordial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366282) |                    1|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)      |
+|                    1|[Goblin Ruinblaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=180411)|                    1|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)               |
+|                    1|[Yavimaya Dryad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220560)    |                    2|[Trinisphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=43545)         |
+|                    2|[Goblin Ruinblaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=180411)|                    2|[Kitchen Finks](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370458)      |
+|                    2|[Sylvan Primordial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366282) |                    2|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)               |
+|                    2|[Yavimaya Dryad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220560)    |                    2|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
+|                    3|[Yavimaya Dryad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220560)    |                    3|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
+|                    3|[Goblin Ruinblaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=180411)|                    1|[Hornet Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=238141)       |
+|                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)   |                     |                                                                                              |
+|                    4|[Yavimaya Dryad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220560)    |                     |                                                                                              |
+|                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                     |                                                                                              |
+|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                     |                                                                                              |
+|                    4|[Goblin Ruinblaster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=180411)|                     |                                                                                              |
+

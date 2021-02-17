@@ -1,42 +1,42 @@
-2 Path to Exile
-3 Shambling Vent
-1 Bloodchief's Thirst
 3 Dark Confidant
+1 Path to Exile
+2 Path to Exile
 1 Snow-Covered Plains
+3 Shambling Vent
 1 Snow-Covered Swamp
 2 Snow-Covered Plains
 2 Snow-Covered Swamp
 3 Snow-Covered Swamp
 2 Cling to Dust
-3 Silent Clearing
 3 Path to Exile
+3 Field of Ruin
 1 Nihil Spellbomb
 1 Brightclimb Pathway
 1 Bitterblossom
 2 Bitterblossom
-3 Field of Ruin
-1 Collective Brutality
+3 Silent Clearing
 2 Brightclimb Pathway
 4 Lingering Souls
 1 Kaya, Orzhov Usurper
+1 Collective Brutality
 1 Urborg, Tomb of Yawgmoth
 4 Dark Confidant
+3 Godless Shrine
 1 Mutavault
 1 Windswept Heath
-3 Godless Shrine
 3 Bitterblossom
 2 Kaya's Guile
 1 Maul of the Skyclaves
 1 Wasteland Strangler
 2 Wasteland Strangler
-1 Caves of Koilos
 1 Thought-Knot Seer
 1 Eldrazi Temple
-2 Caves of Koilos
+1 Caves of Koilos
 2 Thought-Knot Seer
+2 Caves of Koilos
 2 Eldrazi Temple
-3 Caves of Koilos
 3 Eldrazi Temple
+3 Caves of Koilos
 3 Thought-Knot Seer
 4 Eldrazi Temple
 1 Ghost Quarter
@@ -46,6 +46,7 @@
 2 Aether Vial
 3 Aether Vial
 4 Aether Vial
+4 Path to Exile
 1 Giver of Runes
 2 Giver of Runes
 3 Giver of Runes
@@ -54,38 +55,38 @@
 2 Leonin Arbiter
 2 Thalia, Guardian of Thraben
 2 Ghost Quarter
-3 Ghost Quarter
 3 Thalia, Guardian of Thraben
+3 Ghost Quarter
 3 Leonin Arbiter
 4 Leonin Arbiter
 4 Ghost Quarter
-4 Path to Exile
 1 Reality Smasher
 2 Reality Smasher
 4 Thought-Knot Seer
 2 Bloodchief's Thirst
+4 Field of Ruin
+3 Snow-Covered Plains
 4 Silent Clearing
 1 Tectonic Edge
 1 Eldrazi Displacer
 2 Tectonic Edge
 4 Thalia, Guardian of Thraben
-4 Field of Ruin
-3 Snow-Covered Plains
+4 Godless Shrine
 3 Plains
 4 Snow-Covered Swamp
 2 Castle Locthwain
 3 Brightclimb Pathway
 3 Flickerwisp
-4 Godless Shrine
 4 Caves of Koilos
 4 Snow-Covered Plains
 5 Snow-Covered Plains
+6 Snow-Covered Plains
 1 Charming Prince
+1 Sword of Light and Shadow
 1 Treacherous Blessing
 1 Mind Raker
 1 Ephemerate
 1 Cavern of Souls
-1 Sword of Light and Shadow
 1 Sun Titan
 1 Wall of Omens
 2 Charming Prince
@@ -99,7 +100,6 @@
 3 Ephemerate
 4 Treacherous Blessing
 4 Charming Prince
-6 Snow-Covered Plains
 4 Giver of Runes
 2 Nihil Spellbomb
 1 Feed the Swarm
@@ -115,10 +115,10 @@
 1 Ornithopter
 1 Sigarda's Aid
 1 Inkmoth Nexus
-1 Steelshaper's Gift
-1 Kor Outfitter
-1 Colossus Hammer
 1 Shadowspear
+1 Steelshaper's Gift
+1 Colossus Hammer
+1 Kor Outfitter
 1 Mishra's Bauble
 1 Puresteel Paladin
 1 Memnite
@@ -153,6 +153,36 @@
 4 Mishra's Bauble
 1 Sorin, Solemn Visitor
 4 Bitterblossom
+1 Ranger-Captain of Eos
+1 Speaker of the Heavens
+1 Orzhov Charm
+1 Serra Ascendant
+1 Sorin, Vengeful Bloodlord
+1 Ranger of Eos
+1 Kami of False Hope
+1 Wrath of God
+1 Day of Judgment
+1 Emeria, the Sky Ruin
+1 Martyr of Sands
+2 Ranger-Captain of Eos
+2 Sorin, Vengeful Bloodlord
+2 Orzhov Charm
+2 Serra Ascendant
+2 Ranger of Eos
+2 Martyr of Sands
+2 Wrath of God
+2 Emeria, the Sky Ruin
+3 Ranger of Eos
+3 Ranger-Captain of Eos
+3 Martyr of Sands
+3 Orzhov Charm
+4 Ranger of Eos
+4 Orzhov Charm
+4 Ranger-Captain of Eos
+4 Martyr of Sands
+7 Snow-Covered Plains
+8 Snow-Covered Plains
+9 Snow-Covered Plains
 1 Vault of the Archangel
 1 Fetid Heath
 1 Relic of Progenitus
@@ -163,7 +193,3 @@
 3 Mutavault
 4 Wasteland Strangler
 4 Relic of Progenitus
-1 Ashiok, Dream Render
-2 Collective Brutality
-2 Ashiok, Dream Render
-4 Thoughtseize

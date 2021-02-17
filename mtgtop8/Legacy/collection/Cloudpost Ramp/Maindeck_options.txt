@@ -1,4 +1,4 @@
-1 Grim Monolith
+1 Sorcerous Spyglass
 1 Ancient Tomb
 2 Chalice of the Void
 2 Ancient Tomb
@@ -18,8 +18,8 @@
 1 Eldrazi Temple
 2 Thought-Knot Seer
 3 Thought-Knot Seer
-1 Forsaken Monument
 1 City of Traitors
+1 Forsaken Monument
 1 Ugin, the Ineffable
 4 Chalice of the Void
 1 Dark Depths
@@ -33,8 +33,8 @@
 1 Basalt Monolith
 1 Inventors' Fair
 2 Ugin, the Ineffable
-2 Forsaken Monument
 2 Basalt Monolith
+2 Forsaken Monument
 1 Urborg, Tomb of Yawgmoth
 2 Stonecoil Serpent
 2 Eldrazi Temple
@@ -90,11 +90,11 @@
 2 Manifold Key
 2 Wurmcoil Engine
 2 Thran Dynamo
-1 Staff of Domination
-3 Ugin, the Spirit Dragon
 1 Prismatic Vista
 2 Prismatic Vista
 3 Warping Wail
+1 Staff of Domination
+3 Ugin, the Spirit Dragon
 2 Karakas
 3 Trinisphere
 3 Ugin, the Ineffable
@@ -102,14 +102,9 @@
 1 Buried Ruin
 2 Urborg, Tomb of Yawgmoth
 3 Walking Ballista
-3 Forsaken Monument
 3 Basalt Monolith
+3 Forsaken Monument
 4 Basalt Monolith
-1 Matter Reshaper
-2 Matter Reshaper
-3 Matter Reshaper
-4 Eldrazi Temple
-4 Matter Reshaper
 1 Ghost Quarter
 1 Living Wish
 1 Dryad Arbor
@@ -119,5 +114,10 @@
 3 Living Wish
 3 Elvish Rejuvenator
 4 Living Wish
-9 Forest
 8 Forest
+9 Forest
+1 Matter Reshaper
+2 Matter Reshaper
+3 Matter Reshaper
+4 Eldrazi Temple
+4 Matter Reshaper

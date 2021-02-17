@@ -25,38 +25,38 @@
 4 Prismatic Vista
 1 Polluted Delta
 2 Polluted Delta
-1 Daze
+1 Swamp
 1 Eliminate
-1 Fatal Push
 1 Cling to Dust
+1 Daze
 1 Ingenious Infiltrator
 1 Changeling Outcast
 1 Yuriko, the Tiger's Shadow
 1 Retrofitter Foundry
 1 Ornithopter
-1 Swamp
 1 Underground Sea
-2 Daze
+1 Fatal Push
+2 Swamp
 2 Changeling Outcast
 2 Ornithopter
 2 Yuriko, the Tiger's Shadow
 2 Retrofitter Foundry
-2 Swamp
 2 Ingenious Infiltrator
 2 Fatal Push
-3 Daze
-3 Polluted Delta
+2 Daze
+3 Swamp
 3 Fatal Push
 3 Yuriko, the Tiger's Shadow
+3 Polluted Delta
 3 Retrofitter Foundry
 3 Ornithopter
 3 Ingenious Infiltrator
 3 Changeling Outcast
-3 Swamp
-4 Polluted Delta
+3 Daze
 4 Changeling Outcast
 4 Ingenious Infiltrator
 4 Ornithopter
+4 Polluted Delta
 4 Retrofitter Foundry
 1 Cast Out
 1 Replenish
@@ -76,19 +76,19 @@
 1 Bloodstained Mire
 1 Baleful Strix
 1 Teferi, Hero of Dominaria
-1 Council's Judgment
 1 Day's Undoing
+1 Council's Judgment
 2 Day's Undoing
 3 Day's Undoing
 4 Lay Claim
 5 Island
-1 Snapcaster Mage
-1 Magmatic Sinkhole
 1 Mishra's Factory
-2 Snapcaster Mage
+1 Magmatic Sinkhole
+1 Snapcaster Mage
 2 Mishra's Factory
-2 Pyroblast
 2 Magmatic Sinkhole
+2 Pyroblast
+2 Snapcaster Mage
 2 Counterbalance
 1 Court of Cunning
 2 Court of Cunning
@@ -97,11 +97,11 @@
 2 Brazen Borrower
 1 Venser, Shaper Savant
 1 Vendilion Clique
+1 Terminus
+1 Unexpectedly Absent
+2 Terminus
 1 Back to Basics
 2 Back to Basics
-1 Unexpectedly Absent
-1 Terminus
-2 Terminus
 1 Path to Exile
 1 Misty Rainforest
 2 Misty Rainforest
@@ -114,9 +114,9 @@
 4 Teferi, Time Raveler
 2 Mystic Sanctuary
 6 Snow-Covered Island
-1 Chrome Mox
 1 Glasspool Mimic
 1 Sea Gate Restoration
+1 Chrome Mox
 1 Aether Vial
 1 Silvergill Adept
 1 Master of the Pearl Trident
@@ -134,11 +134,11 @@
 2 Silvergill Adept
 2 Cavern of Souls
 2 Lord of Atlantis
-3 Sea Gate Restoration
 3 Chrome Mox
 3 Glasspool Mimic
 3 Hullbreacher
 3 Silvergill Adept
+3 Sea Gate Restoration
 3 Cavern of Souls
 3 Lord of Atlantis
 3 Master of the Pearl Trident
@@ -147,8 +147,8 @@
 3 Mutavault
 4 Sea Gate Restoration
 4 Mutavault
-4 Glasspool Mimic
 4 Chrome Mox
+4 Glasspool Mimic
 4 Hullbreacher
 4 Aether Vial
 4 Lord of Atlantis
