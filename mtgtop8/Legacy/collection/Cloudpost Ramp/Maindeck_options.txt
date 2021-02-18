@@ -1,33 +1,21 @@
-1 Glacial Chasm
+1 Expedition Map
+2 Elvish Reclaimer
+2 Green Sun's Zenith
+2 Pithing Needle
+2 Expedition Map
+2 Primeval Titan
+3 Elvish Reclaimer
+3 Green Sun's Zenith
+3 Pithing Needle
+3 Expedition Map
+4 Elvish Reclaimer
 1 Once Upon a Time
+1 Glacial Chasm
 2 Once Upon a Time
 3 Once Upon a Time
 4 Once Upon a Time
 4 Expedition Map
 1 Cavern of Souls
-1 Forest
-2 Forest
-3 Forest
-4 Forest
-5 Forest
-6 Forest
-7 Forest
-1 Thought-Knot Seer
-1 Eldrazi Temple
-2 Thought-Knot Seer
-3 Thought-Knot Seer
-1 Trinisphere
-4 Chalice of the Void
-4 Green Sun's Zenith
-2 Ugin, the Spirit Dragon
-1 Basalt Monolith
-1 Inventors' Fair
-1 Stonecoil Serpent
-3 Vesuva
-1 Crop Rotation
-2 Crop Rotation
-3 Primeval Titan
-4 Pithing Needle
 2 Ugin, the Ineffable
 2 Basalt Monolith
 2 Forsaken Monument
@@ -36,17 +24,27 @@
 2 Eldrazi Temple
 4 Thought-Knot Seer
 4 Grim Monolith
+1 Forest
+2 Forest
+3 Forest
+4 Forest
+5 Forest
+6 Forest
+7 Forest
+4 Green Sun's Zenith
+2 Trinisphere
+3 Eldrazi Temple
+1 All Is Dust
+1 Crop Rotation
+2 Crop Rotation
+3 Primeval Titan
+4 Pithing Needle
+1 Warping Wail
+2 Warping Wail
 1 Dark Depths
 3 Crop Rotation
 4 Crop Rotation
 1 Misty Rainforest
-2 Trinisphere
-3 Eldrazi Temple
-1 All Is Dust
-1 Warping Wail
-2 Warping Wail
-1 Kozilek, Butcher of Truth
-1 Maze of Ith
 1 Manifold Key
 2 Ulamog, the Ceaseless Hunger
 3 Sorcerous Spyglass
@@ -54,6 +52,8 @@
 2 City of Traitors
 2 Walking Ballista
 3 Stonecoil Serpent
+1 Maze of Ith
+1 Kozilek, Butcher of Truth
 1 Sphere of Resistance
 2 Sphere of Resistance
 1 Mazemind Tome
@@ -65,8 +65,8 @@
 2 Reality Smasher
 2 Blast Zone
 3 Reality Smasher
-1 Waterlogged Grove
 1 Wooded Foothills
+1 Waterlogged Grove
 1 Ancient Stirrings
 2 Ancient Stirrings
 3 Ancient Stirrings
@@ -87,11 +87,11 @@
 3 Golos, Tireless Pilgrim
 3 Walking Ballista
 3 Basalt Monolith
-2 Misty Rainforest
 1 Wurmcoil Engine
 2 Wastes
 2 Wurmcoil Engine
 2 Thran Dynamo
+2 Misty Rainforest
 1 Prismatic Vista
 2 Prismatic Vista
 3 Warping Wail

@@ -55,10 +55,10 @@
 |                    4|[Wrenn and Six](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464166)               |                     |              |
 |                    4|[Omnath, Locus of Creation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491883)   |                     |              |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)            |                     |              |
+|                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)             |                     |              |
 |                    4|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)             |                     |              |
 |                    4|[Bring to Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401831)              |                     |              |
 |                    4|[Utopia Sprawl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442181)               |                     |              |
 |                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)        |                     |              |
-|                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)             |                     |              |
 |                    4|[Abundant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240017)             |                     |              |
 

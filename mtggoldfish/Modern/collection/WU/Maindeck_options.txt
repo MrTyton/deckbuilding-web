@@ -1,16 +1,16 @@
 2 Charming Prince
 1 Cavern of Souls
 2 Cavern of Souls
-1 Seachrome Coast
 1 Glasspool Mimic
+1 Seachrome Coast
 1 Hengegate Pathway
-2 Hengegate Pathway
-2 Seachrome Coast
 2 Glasspool Mimic
-3 Hengegate Pathway
-3 Seachrome Coast
+2 Seachrome Coast
+2 Hengegate Pathway
 3 Hallowed Fountain
+3 Seachrome Coast
 3 Glasspool Mimic
+3 Hengegate Pathway
 4 Glasspool Mimic
 4 Seachrome Coast
 4 Hallowed Fountain
@@ -21,42 +21,42 @@
 1 Leonin Arbiter
 2 Ghost Quarter
 2 Leonin Arbiter
-3 Leonin Arbiter
 3 Ghost Quarter
+3 Leonin Arbiter
 4 Ghost Quarter
 4 Leonin Arbiter
 1 Thraben Inspector
 2 Thraben Inspector
+1 Prismatic Vista
 1 Mystic Gate
 1 Force of Negation
-1 Prismatic Vista
-2 Force of Negation
 2 Prismatic Vista
+2 Force of Negation
 3 Force of Negation
-1 Castle Ardenvale
-1 Shark Typhoon
-1 Castle Vantress
-1 Jace, the Mind Sculptor
-1 On Thin Ice
-1 Snow-Covered Island
 1 Spreading Seas
-2 Castle Ardenvale
+1 Castle Ardenvale
+1 Snow-Covered Island
+1 Castle Vantress
+1 Shark Typhoon
+1 On Thin Ice
+1 Jace, the Mind Sculptor
 2 Spreading Seas
+2 Castle Ardenvale
 2 Shark Typhoon
 2 Snow-Covered Island
 2 On Thin Ice
-3 Prismatic Vista
-3 Snow-Covered Island
 3 Spreading Seas
 3 On Thin Ice
-4 Prismatic Vista
-4 Snow-Covered Island
-4 Force of Negation
-4 On Thin Ice
+3 Prismatic Vista
+3 Snow-Covered Island
 4 Spreading Seas
+4 Snow-Covered Island
+4 On Thin Ice
+4 Force of Negation
 4 Spell Queller
-1 Silent Clearing
+4 Prismatic Vista
 1 Archon of Emeria
+1 Silent Clearing
 3 Charming Prince
 4 Charming Prince
 5 Snow-Covered Plains
@@ -64,44 +64,44 @@
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
-1 Spellskite
 1 Horizon Canopy
-1 Mutavault
+1 Spellskite
+1 Ranger-Captain of Eos
 1 Reidane, God of the Worthy
+1 Mutavault
 1 Marsh Flats
 1 Halvar, God of Battle
+1 Eiganjo Castle
 1 Usher of the Fallen
 1 Giant Killer
 1 Sigrid, God-Favored
 1 Tithe Taker
-1 Eiganjo Castle
-1 Ranger-Captain of Eos
-2 Silent Clearing
-2 Reidane, God of the Worthy
-2 Giant Killer
-2 Sigrid, God-Favored
-2 Mutavault
-2 Usher of the Fallen
 2 Archon of Emeria
 2 Ranger-Captain of Eos
 2 Marsh Flats
+2 Mutavault
+2 Reidane, God of the Worthy
+2 Giant Killer
+2 Sigrid, God-Favored
+2 Usher of the Fallen
+2 Silent Clearing
 2 Halvar, God of Battle
 2 Tithe Taker
 2 Batterskull
-3 Silent Clearing
-3 Cavern of Souls
+3 Ranger-Captain of Eos
 3 Mutavault
 3 Usher of the Fallen
 3 Tithe Taker
 3 Marsh Flats
-3 Ranger-Captain of Eos
+3 Silent Clearing
+3 Cavern of Souls
 4 Marsh Flats
-4 Mutavault
-4 Cavern of Souls
 4 Silent Clearing
+4 Mutavault
 4 Usher of the Fallen
 4 Tithe Taker
 4 Ranger-Captain of Eos
+4 Cavern of Souls
 1 Sword of Light and Shadow
 1 Alrund, God of the Cosmos
 1 Watcher for Tomorrow
@@ -114,14 +114,14 @@
 8 Plains
 9 Plains
 10 Plains
-1 Sunbaked Canyon
-1 Tectonic Edge
 1 Blade Splicer
+1 Tectonic Edge
 1 Winds of Abandon
-2 Tectonic Edge
-2 Sunbaked Canyon
-2 Winds of Abandon
+1 Sunbaked Canyon
 2 Blade Splicer
+2 Tectonic Edge
+2 Winds of Abandon
+2 Sunbaked Canyon
 3 Tectonic Edge
 3 Blade Splicer
 3 Sunbaked Canyon
@@ -139,14 +139,14 @@
 3 Shark Typhoon
 1 Wall of Omens
 1 Relic of Progenitus
-1 Celestial Colonnade
-1 Aether Gust
 1 Emeria's Call
 1 Supreme Verdict
-2 Wall of Omens
-2 Supreme Verdict
-2 Island
+1 Celestial Colonnade
+1 Aether Gust
 2 Celestial Colonnade
+2 Wall of Omens
+2 Island
+2 Supreme Verdict
 2 Aether Gust
 3 Celestial Colonnade
 3 Thraben Inspector
