@@ -53,7 +53,7 @@
 |                    3|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)     |                     |                                                                                                       |
 |                    3|[Cerulean Wisps](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=158683)   |                     |                                                                                                       |
 |                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)   |                     |                                                                                                       |
-|                    4|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)   |                     |                                                                                                       |
 |                    4|[Manamorphose](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370568)     |                     |                                                                                                       |
+|                    4|[Sleight of Hand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=25557)   |                     |                                                                                                       |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)   |                     |                                                                                                       |
 

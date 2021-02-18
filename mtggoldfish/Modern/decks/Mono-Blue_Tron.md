@@ -103,6 +103,6 @@
 |                    1|[Commit/Memory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426913)               |                    4|[Spatial Contortion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407518)       |
 |                    1|[Spell Burst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109707)                 |                    2|[Wurmcoil Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389756)          |
 |                    2|[Commit/Memory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426913)               |                    2|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)          |
-|                     |                                                                                                       |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)         |
 |                     |                                                                                                       |                    2|[Sundering Titan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442222)          |
+|                     |                                                                                                       |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)         |
 

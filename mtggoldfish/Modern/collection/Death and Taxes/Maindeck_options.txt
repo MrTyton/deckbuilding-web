@@ -14,33 +14,33 @@
 3 Horizon Canopy
 4 Horizon Canopy
 1 Sunbaked Canyon
-1 Scavenging Ooze
+1 Forest
 1 Branchloft Pathway
-1 Noble Hierarch
 1 Razorverge Thicket
 1 Temple Garden
-1 Eternal Witness
 1 Oath of Nissa
+1 Eternal Witness
+1 Noble Hierarch
+1 Scavenging Ooze
 1 Stirring Wildwood
-1 Forest
-2 Scavenging Ooze
-2 Forest
-2 Branchloft Pathway
-2 Noble Hierarch
 2 Temple Garden
+2 Forest
 2 Oath of Nissa
+2 Branchloft Pathway
 2 Razorverge Thicket
+2 Noble Hierarch
+2 Scavenging Ooze
 2 Eternal Witness
-3 Branchloft Pathway
-3 Noble Hierarch
-3 Oath of Nissa
 3 Temple Garden
+3 Oath of Nissa
 3 Razorverge Thicket
+3 Noble Hierarch
+3 Branchloft Pathway
+4 Temple Garden
+4 Oath of Nissa
 4 Noble Hierarch
 4 Branchloft Pathway
 4 Razorverge Thicket
-4 Temple Garden
-4 Oath of Nissa
 1 Restoration Angel
 2 Restoration Angel
 1 Sword of Feast and Famine
@@ -55,34 +55,34 @@
 2 Aven Mindcensor
 1 Blast Zone
 3 Scavenging Ooze
+1 Tectonic Edge
 1 Flagstones of Trokair
 1 Sejiri Shelter
-1 Tectonic Edge
 1 Winds of Abandon
-2 Tectonic Edge
 2 Sejiri Shelter
+2 Tectonic Edge
 2 Winds of Abandon
 3 Tectonic Edge
 4 Tectonic Edge
-1 Teferi, Time Raveler
 1 Cavern of Souls
-1 Hallowed Fountain
-1 Lurrus of the Dream-Den
 1 Seachrome Coast
 1 Watcher for Tomorrow
 1 Island
+1 Lurrus of the Dream-Den
+1 Hallowed Fountain
+1 Teferi, Time Raveler
 1 Adarkar Wastes
 2 Cavern of Souls
-2 Teferi, Time Raveler
 2 Hallowed Fountain
-2 Seachrome Coast
 2 Watcher for Tomorrow
+2 Seachrome Coast
 2 Adarkar Wastes
-3 Seachrome Coast
-3 Watcher for Tomorrow
+2 Teferi, Time Raveler
 3 Hallowed Fountain
-4 Seachrome Coast
+3 Watcher for Tomorrow
+3 Seachrome Coast
 4 Watcher for Tomorrow
+4 Seachrome Coast
 4 Hallowed Fountain
 4 Archon of Emeria
 1 Inspiring Vantage
@@ -92,9 +92,9 @@
 2 Inspiring Vantage
 2 Magus of the Moon
 2 Sunbaked Canyon
-3 Sunbaked Canyon
 3 Inspiring Vantage
 3 Magus of the Moon
+3 Sunbaked Canyon
 4 Inspiring Vantage
 4 Sunbaked Canyon
 11 Snow-Covered Plains
@@ -106,25 +106,25 @@
 2 Remorseful Cleric
 3 Remorseful Cleric
 3 Teferi, Time Raveler
-1 Glasspool Mimic
 1 Charming Prince
+1 Glasspool Mimic
 1 Spell Queller
-2 Glasspool Mimic
 2 Charming Prince
 2 Spell Queller
-3 Glasspool Mimic
+2 Glasspool Mimic
 3 Adarkar Wastes
+3 Glasspool Mimic
 4 Glasspool Mimic
 1 Castle Ardenvale
 1 Skyclave Cleric
 1 Ethersworn Canonist
-2 Ethersworn Canonist
-2 Blast Zone
 2 Skyclave Cleric
+2 Blast Zone
+2 Ethersworn Canonist
 3 Ethersworn Canonist
 4 Ethersworn Canonist
 15 Plains
-16 Plains
+1 Reidane, God of the Worthy
 2 Reidane, God of the Worthy
 3 Reidane, God of the Worthy
-1 Reidane, God of the Worthy
+16 Plains

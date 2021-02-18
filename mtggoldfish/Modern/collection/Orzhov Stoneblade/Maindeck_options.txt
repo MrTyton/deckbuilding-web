@@ -50,16 +50,16 @@
 1 Giver of Runes
 2 Giver of Runes
 3 Giver of Runes
-1 Leonin Arbiter
 1 Thalia, Guardian of Thraben
-2 Leonin Arbiter
-2 Thalia, Guardian of Thraben
+1 Leonin Arbiter
 2 Ghost Quarter
+2 Thalia, Guardian of Thraben
+2 Leonin Arbiter
 3 Thalia, Guardian of Thraben
 3 Ghost Quarter
 3 Leonin Arbiter
-4 Leonin Arbiter
 4 Ghost Quarter
+4 Leonin Arbiter
 1 Reality Smasher
 2 Reality Smasher
 4 Thought-Knot Seer
@@ -67,8 +67,8 @@
 4 Field of Ruin
 3 Snow-Covered Plains
 4 Silent Clearing
-1 Tectonic Edge
 1 Eldrazi Displacer
+1 Tectonic Edge
 2 Tectonic Edge
 4 Thalia, Guardian of Thraben
 4 Godless Shrine
@@ -84,10 +84,10 @@
 1 Charming Prince
 1 Wall of Omens
 1 Ephemerate
-1 Sword of Light and Shadow
 1 Treacherous Blessing
 1 Mind Raker
 1 Cavern of Souls
+1 Sword of Light and Shadow
 1 Sun Titan
 2 Charming Prince
 2 Ephemerate
@@ -107,7 +107,6 @@
 1 Hero's Downfall
 1 Gideon of the Trials
 3 Kaya's Guile
-4 Flickerwisp
 4 Swamp
 4 Brightclimb Pathway
 1 Flooded Strand
@@ -115,10 +114,10 @@
 1 Ornithopter
 1 Sigarda's Aid
 1 Inkmoth Nexus
-1 Shadowspear
 1 Steelshaper's Gift
-1 Colossus Hammer
 1 Kor Outfitter
+1 Colossus Hammer
+1 Shadowspear
 1 Mishra's Bauble
 1 Puresteel Paladin
 1 Memnite
@@ -151,8 +150,19 @@
 4 Ornithopter
 4 Puresteel Paladin
 4 Mishra's Bauble
+4 Flickerwisp
 1 Sorin, Solemn Visitor
 4 Bitterblossom
+1 Vault of the Archangel
+1 Fetid Heath
+1 Relic of Progenitus
+2 Relic of Progenitus
+2 Mutavault
+3 Wasteland Strangler
+3 Relic of Progenitus
+3 Mutavault
+4 Wasteland Strangler
+4 Relic of Progenitus
 1 Speaker of the Heavens
 1 Orzhov Charm
 1 Serra Ascendant
@@ -180,16 +190,6 @@
 4 Orzhov Charm
 4 Ranger-Captain of Eos
 4 Martyr of Sands
-7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
-1 Vault of the Archangel
-1 Fetid Heath
-1 Relic of Progenitus
-2 Relic of Progenitus
-2 Mutavault
-3 Wasteland Strangler
-3 Relic of Progenitus
-3 Mutavault
-4 Wasteland Strangler
-4 Relic of Progenitus
+7 Snow-Covered Plains

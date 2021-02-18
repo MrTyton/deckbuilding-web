@@ -1,3 +1,5 @@
+3 Blood Crypt
+4 Overgrown Tomb
 2 Murderous Rider
 3 Murderous Rider
 1 Cathartic Reunion
@@ -9,16 +11,14 @@
 2 Gather the Pack
 3 Cathartic Reunion
 3 Gather the Pack
-3 Blood Crypt
-3 Nullhide Ferox
 3 Samut, Voice of Dissent
+3 Nullhide Ferox
 4 Murderous Rider
 4 Blood Crypt
-4 Overgrown Tomb
 4 Samut, Voice of Dissent
 4 Satyr Wayfinder
-1 Thoughtseize
 1 Urborg, Tomb of Yawgmoth
+1 Thoughtseize
 1 Fatal Push
 2 Fatal Push
 2 Thoughtseize
@@ -72,6 +72,7 @@
 3 Drowned Catacomb
 4 Drowned Catacomb
 4 Brazen Borrower
+1 Agadeem's Awakening
 1 Mutavault
 2 Mutavault
 1 Brightclimb Pathway
@@ -127,7 +128,6 @@
 4 Resolute Strike
 4 Mardu Woe-Reaper
 4 Kor Blademaster
-1 Agadeem's Awakening
 1 Glint-Sleeve Siphoner
 2 Glint-Sleeve Siphoner
 3 Nighthawk Scavenger
@@ -175,6 +175,50 @@
 3 Mardu Shadowspear
 3 Wishclaw Talisman
 4 Mardu Shadowspear
+1 Llanowar Wastes
+1 Judith, the Scourge Diva
+1 Collected Company
+1 Gilded Goose
+1 Bolas's Citadel
+1 Catacomb Sifter
+1 Llanowar Elves
+1 Elvish Mystic
+1 Cragcrown Pathway
+1 Woe Strider
+1 Zulaport Cutthroat
+1 Priest of Forgotten Gods
+1 Mayhem Devil
+2 Llanowar Wastes
+2 Collected Company
+2 Judith, the Scourge Diva
+2 Gilded Goose
+2 Bolas's Citadel
+2 Priest of Forgotten Gods
+2 Llanowar Elves
+2 Catacomb Sifter
+2 Mayhem Devil
+2 Elvish Mystic
+2 Cragcrown Pathway
+2 Woe Strider
+2 Zulaport Cutthroat
+3 Collected Company
+3 Gilded Goose
+3 Mayhem Devil
+3 Catacomb Sifter
+3 Cragcrown Pathway
+3 Woe Strider
+3 Zulaport Cutthroat
+3 Bolas's Citadel
+3 Priest of Forgotten Gods
+4 Collected Company
+4 Gilded Goose
+4 Priest of Forgotten Gods
+4 Woe Strider
+4 Zulaport Cutthroat
+4 Catacomb Sifter
+4 Bolas's Citadel
+4 Mayhem Devil
+4 Stomping Ground
 2 Plains
 1 Temple Garden
 1 Branchloft Pathway
@@ -272,6 +316,8 @@
 1 Gideon, Ally of Zendikar
 1 Declaration in Stone
 1 Brimaz, King of Oreskos
+1 Banishing Light
+1 Gisela, the Broken Blade
 1 Gideon of the Trials
 1 Thraben Inspector
 1 Kytheon, Hero of Akros
@@ -279,8 +325,6 @@
 1 Field of Ruin
 1 Glass Casket
 1 Castle Ardenvale
-1 Banishing Light
-1 Gisela, the Broken Blade
 2 Skyclave Apparition
 2 Ajani, Adversary of Tyrants
 2 Archangel of Tithes
