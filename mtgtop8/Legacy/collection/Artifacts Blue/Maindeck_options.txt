@@ -18,21 +18,21 @@
 1 Karakas
 1 Tundra
 1 Wasteland
+1 Polluted Delta
 1 Baleful Strix
 1 Underground Sea
-1 Polluted Delta
-2 Underground Sea
 2 Polluted Delta
+2 Underground Sea
 2 Baleful Strix
 3 Polluted Delta
 3 Baleful Strix
-4 Force of Will
 4 Polluted Delta
+4 Force of Will
 1 Swamp
 1 Mox Diamond
 1 Academy Ruins
-1 Dack Fayden
 1 Bloodstained Mire
+1 Dack Fayden
 1 Scalding Tarn
 1 Badlands
 1 Tezzeret, Agent of Bolas
@@ -40,8 +40,8 @@
 1 Daretti, Ingenious Iconoclast
 2 Mox Diamond
 2 Thopter Foundry
-2 Wasteland
 2 Bloodstained Mire
+2 Wasteland
 2 Dack Fayden
 2 Scalding Tarn
 2 Daretti, Ingenious Iconoclast
@@ -52,9 +52,9 @@
 1 Ravenform
 2 Ravenform
 1 Drown in the Loch
-1 Engineered Explosives
 1 Sorcerous Spyglass
 1 Vault of Whispers
+1 Engineered Explosives
 1 Jeweled Amulet
 1 Search for Azcanta
 2 Drown in the Loch
@@ -78,24 +78,23 @@
 1 Monastery Mentor
 2 Teferi, Time Raveler
 2 Tundra
-2 Monastery Mentor
 2 Karakas
+2 Monastery Mentor
 3 Tundra
 3 Monastery Mentor
 1 Oko, Thief of Crowns
-1 Snow-Covered Forest
 1 Tropical Island
+1 Snow-Covered Forest
 1 Uro, Titan of Nature's Wrath
 1 Misty Rainforest
 1 Snow-Covered Swamp
-2 Tropical Island
 2 Oko, Thief of Crowns
 2 Uro, Titan of Nature's Wrath
+2 Tropical Island
 2 Misty Rainforest
 4 Baleful Strix
 1 Blast Zone
 4 Narset, Parter of Veils
-1 Prismatic Vista
 1 Walking Ballista
 1 Basalt Monolith
 1 Mystic Forge
@@ -105,9 +104,10 @@
 1 The Antiquities War
 1 Voltaic Key
 1 Grim Monolith
-2 Prismatic Vista
+1 Prismatic Vista
 2 Voltaic Key
 2 Mesmeric Orb
+2 Prismatic Vista
 2 Manifold Key
 2 Grim Monolith
 2 Defense Grid

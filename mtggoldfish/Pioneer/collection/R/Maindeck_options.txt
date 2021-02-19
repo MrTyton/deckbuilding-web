@@ -1,4 +1,4 @@
-2 Spikefield Hazard
+15 Mountain
 1 Shock
 2 Shock
 3 Spikefield Hazard
@@ -16,29 +16,25 @@
 3 Eidolon of the Great Revel
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
-3 Shock
-1 Skewer the Critics
-2 Skewer the Critics
 4 Eidolon of the Great Revel
-3 Rampaging Ferocidon
-4 Rampaging Ferocidon
-17 Mountain
 1 Castle Embereth
 1 Kari Zev, Skyship Raider
 2 Kari Zev, Skyship Raider
 3 Kari Zev, Skyship Raider
+17 Mountain
 4 Collective Defiance
 1 Shatterskull Smashing
-3 Skewer the Critics
-4 Shock
 1 Goblin Chainwhirler
 1 Burning-Tree Emissary
 1 Torbran, Thane of Red Fell
 2 Goblin Chainwhirler
 2 Burning-Tree Emissary
-2 Torbran, Thane of Red Fell
 2 Castle Embereth
+2 Torbran, Thane of Red Fell
 3 Burning-Tree Emissary
+3 Rampaging Ferocidon
+4 Rampaging Ferocidon
+3 Shock
 1 Battlefield Forge
 1 Needleverge Pathway
 1 Inspiring Vantage
@@ -61,14 +57,16 @@
 3 Boros Charm
 4 Boros Charm
 4 Needleverge Pathway
-1 Zurgo Bellstriker
-2 Zurgo Bellstriker
-1 Roiling Vortex
+1 Skewer the Critics
+2 Skewer the Critics
+3 Skewer the Critics
+4 Shock
 2 Shatterskull Smashing
-2 Roiling Vortex
 1 Wayward Guide-Beast
+1 Zurgo Bellstriker
 1 Built to Smash
 2 Wayward Guide-Beast
+2 Zurgo Bellstriker
 3 Wayward Guide-Beast
 4 Skewer the Critics
 4 Wayward Guide-Beast
@@ -90,6 +88,7 @@
 4 Anax, Hardened in the Forge
 1 Mutavault
 1 Chandra, Torch of Defiance
+1 Roiling Vortex
 1 Rekindling Phoenix
 1 Incendiary Flow
 2 Mutavault

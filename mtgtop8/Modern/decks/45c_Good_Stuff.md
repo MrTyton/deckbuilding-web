@@ -49,8 +49,8 @@
 |                    3|[Utopia Sprawl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442181)        |                     |              |
 |                    3|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)  |                     |              |
 |                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)     |                     |              |
-|                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)      |                     |              |
 |                    3|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)      |                     |              |
+|                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)      |                     |              |
 |                    3|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)      |                     |              |
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)     |                     |              |
 |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148) |                     |              |

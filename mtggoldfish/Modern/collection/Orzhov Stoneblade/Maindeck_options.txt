@@ -50,16 +50,16 @@
 1 Giver of Runes
 2 Giver of Runes
 3 Giver of Runes
-1 Thalia, Guardian of Thraben
 1 Leonin Arbiter
-2 Ghost Quarter
-2 Thalia, Guardian of Thraben
+1 Thalia, Guardian of Thraben
 2 Leonin Arbiter
+2 Thalia, Guardian of Thraben
+2 Ghost Quarter
 3 Thalia, Guardian of Thraben
 3 Ghost Quarter
 3 Leonin Arbiter
-4 Ghost Quarter
 4 Leonin Arbiter
+4 Ghost Quarter
 1 Reality Smasher
 2 Reality Smasher
 4 Thought-Knot Seer
@@ -67,8 +67,8 @@
 4 Field of Ruin
 3 Snow-Covered Plains
 4 Silent Clearing
-1 Eldrazi Displacer
 1 Tectonic Edge
+1 Eldrazi Displacer
 2 Tectonic Edge
 4 Thalia, Guardian of Thraben
 4 Godless Shrine
@@ -81,25 +81,25 @@
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains
-1 Charming Prince
+1 Sword of Light and Shadow
 1 Wall of Omens
 1 Ephemerate
+1 Charming Prince
 1 Treacherous Blessing
 1 Mind Raker
 1 Cavern of Souls
-1 Sword of Light and Shadow
 1 Sun Titan
-2 Charming Prince
 2 Ephemerate
 2 Wall of Omens
+2 Charming Prince
 2 Mind Raker
 2 Treacherous Blessing
-3 Treacherous Blessing
 3 Charming Prince
+3 Treacherous Blessing
 3 Ephemerate
 3 Wall of Omens
-4 Treacherous Blessing
 4 Charming Prince
+4 Treacherous Blessing
 4 Giver of Runes
 2 Nihil Spellbomb
 1 Feed the Swarm
@@ -107,8 +107,8 @@
 1 Hero's Downfall
 1 Gideon of the Trials
 3 Kaya's Guile
-4 Swamp
 4 Brightclimb Pathway
+4 Swamp
 1 Flooded Strand
 1 Springleaf Drum
 1 Ornithopter
@@ -153,16 +153,6 @@
 4 Flickerwisp
 1 Sorin, Solemn Visitor
 4 Bitterblossom
-1 Vault of the Archangel
-1 Fetid Heath
-1 Relic of Progenitus
-2 Relic of Progenitus
-2 Mutavault
-3 Wasteland Strangler
-3 Relic of Progenitus
-3 Mutavault
-4 Wasteland Strangler
-4 Relic of Progenitus
 1 Speaker of the Heavens
 1 Orzhov Charm
 1 Serra Ascendant
@@ -190,6 +180,16 @@
 4 Orzhov Charm
 4 Ranger-Captain of Eos
 4 Martyr of Sands
+7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
-7 Snow-Covered Plains
+1 Vault of the Archangel
+1 Fetid Heath
+1 Relic of Progenitus
+2 Relic of Progenitus
+2 Mutavault
+3 Wasteland Strangler
+3 Relic of Progenitus
+3 Mutavault
+4 Wasteland Strangler
+4 Relic of Progenitus

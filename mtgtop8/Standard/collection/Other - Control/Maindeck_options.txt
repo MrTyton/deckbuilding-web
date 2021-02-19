@@ -188,6 +188,7 @@
 3 Snow-Covered Swamp
 3 Snow-Covered Forest
 1 Omen of the Hunt
+1 Shimmerdrift Vale
 1 Rampage of the Valkyries
 1 Evolving Wilds
 1 Snow-Covered Plains
@@ -201,21 +202,20 @@
 1 Sculptor of Winter
 1 Snowfield Sinkhole
 1 Great Hall of Starnheim
-1 Shimmerdrift Vale
 1 Elderfang Disciple
 1 Skull Raid
 2 Omen of the Hunt
+2 Shimmerdrift Vale
 2 Rampage of the Valkyries
 2 Sculptor of Winter
 2 Arctic Treeline
 2 Evolving Wilds
-2 Grasp of Darkness
 2 Feed the Serpent
+2 Grasp of Darkness
 2 Sarulf's Packmate
 2 Great Hall of Starnheim
 2 Elderfang Disciple
 2 Snowfield Sinkhole
-2 Shimmerdrift Vale
 2 Skull Raid
 2 Woodland Chasm
 3 Omen of the Hunt
@@ -258,10 +258,6 @@
 3 Elder Gargaroth
 3 Scavenging Ooze
 3 Agonizing Remorse
-1 Soul Sear
-2 Soul Sear
-3 Soul Sear
-4 Soul Sear
 1 Dream Devourer
 1 Vorinclex, Monstrous Raider
 1 Temple of Abandon
@@ -272,8 +268,8 @@
 1 Snow-Covered Mountain
 2 Dream Devourer
 2 Liliana, Waker of the Dead
-2 Blightstep Pathway
 2 Vorinclex, Monstrous Raider
+2 Blightstep Pathway
 2 Snow-Covered Mountain
 2 Cragcrown Pathway
 3 Dream Devourer
@@ -281,10 +277,14 @@
 3 Vorinclex, Monstrous Raider
 4 Cultivate
 4 Dream Devourer
-4 Lukka, Coppercoat Outcast
-4 Valki, God of Lies
 4 Vorinclex, Monstrous Raider
 4 Blightstep Pathway
+4 Lukka, Coppercoat Outcast
+4 Valki, God of Lies
+1 Soul Sear
+2 Soul Sear
+3 Soul Sear
+4 Soul Sear
 1 Storm's Wrath
 1 Bonecrusher Giant
 1 Ox of Agonas
@@ -301,9 +301,9 @@
 1 Silundi Vision
 1 Lofty Denial
 1 Field of Ruin
-1 Rewind
-1 Neutralize
 1 Rain of Revelation
+1 Neutralize
+1 Rewind
 1 Frantic Inventory
 1 Gadwick, the Wizened
 1 Brazen Borrower
@@ -318,26 +318,26 @@
 1 Shark Typhoon
 1 Island
 2 Castle Vantress
+2 Rain of Revelation
 2 Neutralize
 2 Gadwick, the Wizened
-2 Rewind
-2 Rain of Revelation
 2 Frantic Inventory
+2 Rewind
 2 Brazen Borrower
 2 Into the Roil
 2 Essence Scatter
 2 Shark Typhoon
 2 Island
 2 Hypnotic Sprite
+3 Castle Vantress
 3 Neutralize
 3 Frantic Inventory
-3 Castle Vantress
 3 Shark Typhoon
 3 Rewind
 3 Island
 3 Brazen Borrower
-4 Neutralize
 4 Castle Vantress
+4 Neutralize
 4 Frantic Inventory
 4 Shark Typhoon
 4 Rewind

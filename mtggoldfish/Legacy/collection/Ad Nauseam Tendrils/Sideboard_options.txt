@@ -1,11 +1,13 @@
 1 Carpet of Flowers
 1 Snow-Covered Forest
 1 Tormod's Crypt
-1 Forest
 2 Chain of Vapor
-1 Hurkyl's Recall
+1 Forest
 1 Surgical Extraction
+1 Hurkyl's Recall
 2 Tormod's Crypt
+2 Xantid Swarm
+2 Surgical Extraction
 1 Defense Grid
 1 Tendrils of Agony
 1 Reforge the Soul
@@ -17,19 +19,16 @@
 1 Shattering Spree
 3 Defense Grid
 1 Grapeshot
-1 Chain Lightning
 1 Chrome Mox
-2 Xantid Swarm
+1 Chain Lightning
 1 Sadistic Sacrament
-3 Fatal Push
 1 Extract
-2 Surgical Extraction
+3 Fatal Push
 1 Sentinel Tower
 1 Detection Tower
 4 Abrupt Decay
 1 Pernicious Deed
 1 Ad Nauseam
-1 Pyroclasm
 1 Opposition Agent
 1 Silent Gravestone
 1 Fragmentize
@@ -37,8 +36,11 @@
 1 Faithless Looting
 1 Flame Slash
 1 Peer into the Abyss
-1 Cabal Therapy
+1 Pyroclasm
+2 Massacre
+2 Empty the Warrens
 1 Wheel of Misfortune
+1 Cabal Therapy
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
 2 Carpet of Flowers
@@ -60,10 +62,3 @@
 1 Karakas
 3 Flusterstorm
 4 Flusterstorm
-1 Spell Pierce
-1 Swan Song
-2 Pyroclasm
-2 Swan Song
-3 Swan Song
-3 Pyroclasm
-4 Pyroclasm
