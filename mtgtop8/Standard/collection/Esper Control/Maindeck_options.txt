@@ -129,6 +129,8 @@
 4 Mountain
 5 Mountain
 7 Plains
+1 Erebos's Intervention
+3 Shark Typhoon
 1 Castle Ardenvale
 1 Mazemind Tome
 1 Starnheim Unleashed
@@ -139,10 +141,8 @@
 2 Mazemind Tome
 2 Withercrown
 3 Omen of the Forge
-3 Mazemind Tome
 3 Withercrown
-1 Erebos's Intervention
-3 Shark Typhoon
+3 Mazemind Tome
 3 Temple of Plenty
 1 Path to the World Tree
 1 Esika's Chariot
@@ -165,14 +165,6 @@
 3 In Search of Greatness
 4 The World Tree
 4 Path to the World Tree
-1 Zagoth Triome
-1 Barkchannel Pathway
-2 Barkchannel Pathway
-2 Zagoth Triome
-3 Barkchannel Pathway
-3 Zagoth Triome
-4 Barkchannel Pathway
-4 Zagoth Triome
 1 Crawling Barrens
 4 The Raven's Warning
 1 Yasharn, Implacable Earth
@@ -186,10 +178,18 @@
 1 Fae of Wishes
 2 Fae of Wishes
 2 Tergrid, God of Fright
-3 Glass Casket
 3 Fae of Wishes
+3 Glass Casket
 4 Doomskar
 4 The Birth of Meletis
+1 Zagoth Triome
+1 Barkchannel Pathway
+2 Barkchannel Pathway
+2 Zagoth Triome
+3 Barkchannel Pathway
+3 Zagoth Triome
+4 Barkchannel Pathway
+4 Zagoth Triome
 1 Riverglide Pathway
 1 Raugrin Triome
 2 Riverglide Pathway

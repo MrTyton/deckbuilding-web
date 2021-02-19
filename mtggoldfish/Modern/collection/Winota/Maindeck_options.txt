@@ -59,8 +59,8 @@
 2 Phyrexian Revoker
 2 Smuggler's Copter
 3 Lightning Bolt
-1 Snow-Covered Mountain
 1 Snow-Covered Forest
+1 Snow-Covered Mountain
 4 Arbor Elf
 1 Geist-Honored Monk
 2 Geist-Honored Monk
@@ -99,10 +99,10 @@
 1 Hallowed Fountain
 1 Blade Splicer
 1 Reflecting Pool
-1 Island
 1 Meddling Mage
 1 Ancient Ziggurat
 1 Kitesail Freebooter
+1 Island
 1 Thalia's Lieutenant
 1 Mantis Rider
 1 Noble Hierarch
@@ -137,7 +137,6 @@
 3 Kitesail Freebooter
 3 Noble Hierarch
 4 Reflecting Pool
-4 Blade Splicer
 4 Unclaimed Territory
 4 Smuggler's Copter
 4 Champion of the Parish
@@ -146,6 +145,7 @@
 4 Ancient Ziggurat
 4 Thalia's Lieutenant
 4 Meddling Mage
+4 Blade Splicer
 4 Noble Hierarch
 4 Flooded Strand
 4 Cavern of Souls
