@@ -60,8 +60,8 @@
 3 Barkchannel Pathway
 1 Gnottvold Slumbermound
 2 Gnottvold Slumbermound
-3 Crawling Barrens
 3 Gnottvold Slumbermound
+3 Crawling Barrens
 1 Swamp
 11 Mountain
 12 Mountain
@@ -73,36 +73,36 @@
 3 Clackbridge Troll
 3 Unknown Shores
 4 Clackbridge Troll
-2 Swamp
 1 Goldspan Dragon
 2 Goldspan Dragon
+2 Swamp
 3 Forest
+1 Snow-Covered Forest
+1 Fabled Passage
 1 Snow-Covered Plains
 1 Snow-Covered Island
-1 Faceless Haven
-1 Fabled Passage
-1 Snow-Covered Forest
 1 Snow-Covered Mountain
-2 Snow-Covered Plains
-2 Faceless Haven
-2 Snow-Covered Island
-2 Snow-Covered Mountain
-2 Fabled Passage
+1 Faceless Haven
 2 Snow-Covered Forest
+2 Snow-Covered Island
+2 Faceless Haven
+2 Snow-Covered Mountain
+2 Snow-Covered Plains
+2 Fabled Passage
+3 Snow-Covered Forest
 3 Snow-Covered Mountain
 3 Faceless Haven
 3 Fabled Passage
-3 Snow-Covered Forest
 3 Snow-Covered Island
-4 Snow-Covered Mountain
 4 Raugrin Triome
 4 Faceless Haven
 4 Fabled Passage
-1 Clearwater Pathway
+4 Snow-Covered Mountain
+1 Vorinclex, Monstrous Raider
 1 Alrund's Epiphany
 1 Sea Gate Restoration
 1 Cragplate Baloth
-1 Vorinclex, Monstrous Raider
+1 Clearwater Pathway
 2 Clearwater Pathway
 2 Alrund's Epiphany
 2 Cragplate Baloth
@@ -110,10 +110,10 @@
 3 Cragplate Baloth
 4 Cragplate Baloth
 1 Savai Triome
-1 Emeria's Call
-1 Needleverge Pathway
 1 Kogla, the Titan Ape
 1 Gyruda, Doom of Depths
+1 Emeria's Call
+1 Needleverge Pathway
 2 Savai Triome
 2 Gyruda, Doom of Depths
 2 Kogla, the Titan Ape
@@ -137,9 +137,9 @@
 2 Elder Gargaroth
 2 Titanoth Rex
 2 Quartzwood Crasher
-3 Spikefield Hazard
 3 Elder Gargaroth
 3 Quartzwood Crasher
+3 Spikefield Hazard
 4 Elder Gargaroth
 4 Quartzwood Crasher
 13 Mountain

@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                            |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|----------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    2|[Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136209)    |                    1|[Nightpack Ambusher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466939)  |
 |                    1|[Teferi, Hero of Dominaria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443095)|                    1|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)     |
+|                    2|[Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136209)    |                    1|[Nightpack Ambusher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466939)  |
 |                     |                                                                                                    |                    1|[Frilled Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457318)      |
 |                     |                                                                                                    |                    1|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)       |
 |                     |                                                                                                    |                    2|[Stony Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247425)       |

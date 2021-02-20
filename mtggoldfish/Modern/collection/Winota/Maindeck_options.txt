@@ -110,11 +110,11 @@
 1 Alirios, Enraptured
 1 Avacyn's Pilgrim
 1 Flooded Strand
-2 Reflecting Pool
 2 Meddling Mage
 2 Blade Splicer
 2 Unclaimed Territory
 2 Ancient Ziggurat
+2 Reflecting Pool
 2 Noble Hierarch
 2 Avacyn's Pilgrim
 2 Flooded Strand
@@ -124,7 +124,6 @@
 2 Champion of the Parish
 2 Kitesail Freebooter
 3 Charming Prince
-3 Reflecting Pool
 3 Meddling Mage
 3 Blade Splicer
 3 Unclaimed Territory
@@ -135,8 +134,8 @@
 3 Ancient Ziggurat
 3 Thalia's Lieutenant
 3 Kitesail Freebooter
+3 Reflecting Pool
 3 Noble Hierarch
-4 Reflecting Pool
 4 Blade Splicer
 4 Unclaimed Territory
 4 Smuggler's Copter
@@ -146,6 +145,7 @@
 4 Ancient Ziggurat
 4 Thalia's Lieutenant
 4 Meddling Mage
+4 Reflecting Pool
 4 Noble Hierarch
 4 Flooded Strand
 4 Cavern of Souls
@@ -155,15 +155,6 @@
 1 Drannith Magistrate
 2 Drannith Magistrate
 3 Drannith Magistrate
-1 Gilded Goose
-1 Brushfire Elemental
-1 Rampaging Ferocidon
-1 Banisher Priest
-2 Arid Mesa
-2 Brushfire Elemental
-2 Gilded Goose
-3 Gilded Goose
-4 Voice of Resurgence
 1 Avalanche Riders
 1 Utopia Sprawl
 1 Pia Nalaar
@@ -179,5 +170,14 @@
 4 Huntmaster of the Fells
 4 Utopia Sprawl
 4 Forest
-5 Forest
 4 Goblin Rabblemaster
+5 Forest
+1 Gilded Goose
+1 Brushfire Elemental
+1 Rampaging Ferocidon
+1 Banisher Priest
+2 Arid Mesa
+2 Brushfire Elemental
+2 Gilded Goose
+3 Gilded Goose
+4 Voice of Resurgence

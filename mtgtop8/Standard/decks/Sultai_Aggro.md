@@ -39,8 +39,8 @@
 |                    1|[Ilysian Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476425)     |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)         |
 |                    1|[Jungle Hollow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405273)        |                    4|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)        |
 |                    1|[Loathsome Chimera](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476428)    |                    2|[Cling to Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476338) |
-|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)               |                     |                                                                                         |
 |                    1|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)        |                     |                                                                                         |
+|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)               |                     |                                                                                         |
 |                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                |                     |                                                                                         |
 |                    1|[Elspeth's Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476342)  |                     |                                                                                         |
 |                    1|[Beanstalk Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473111)      |                     |                                                                                         |
@@ -71,7 +71,7 @@
 |                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)               |                     |                                                                                         |
 |                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                |                     |                                                                                         |
 |                    4|[Jungle Hollow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405273)        |                     |                                                                                         |
+|                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)               |                     |                                                                                         |
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)               |                     |                                                                                         |
 |                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)               |                     |                                                                                         |
-|                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)               |                     |                                                                                         |
 

@@ -72,6 +72,8 @@
 2 The Raven's Warning
 2 Castle Ardenvale
 3 Castle Ardenvale
+4 Crawling Barrens
+4 Disdainful Stroke
 1 Neutralize
 1 Tranquil Cove
 2 Neutralize
@@ -79,8 +81,6 @@
 3 Neutralize
 3 Omen of the Sun
 4 Neutralize
-4 Disdainful Stroke
-4 Crawling Barrens
 1 Thirst for Meaning
 1 Mystic Subdual
 2 Thirst for Meaning
@@ -108,19 +108,19 @@
 1 Skyclave Cleric
 1 Charming Prince
 2 Charming Prince
-1 Bubble Snare
-2 Bubble Snare
-3 Bubble Snare
 1 Sigrid, God-Favored
 1 Ondu Inversion
 2 Sigrid, God-Favored
 3 Sigrid, God-Favored
+1 Bubble Snare
+2 Bubble Snare
+3 Bubble Snare
 1 Ravenform
 2 Gates of Istfell
 2 Ravenform
 3 The Raven's Warning
-3 Gates of Istfell
 3 Alrund's Epiphany
+3 Gates of Istfell
 4 Midnight Clock
 4 The Raven's Warning
 1 Cosima, God of the Voyage
