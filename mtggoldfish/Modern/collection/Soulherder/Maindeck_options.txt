@@ -1,71 +1,75 @@
-3 Teferi, Time Raveler
-1 Wall of Blossoms
-1 Force of Negation
-2 Wall of Blossoms
-2 Force of Negation
-3 Snow-Covered Forest
-1 Coiling Oracle
-2 Coiling Oracle
 1 Birds of Paradise
-1 Charming Prince
-1 Prismatic Vista
-2 Prismatic Vista
+2 Watcher for Tomorrow
+3 Teferi, Time Raveler
+1 Force of Negation
+1 Thassa, Deep-Dwelling
+3 Watcher for Tomorrow
 2 Temple Garden
-2 Birds of Paradise
+1 Meddling Mage
+4 Eladamri's Call
+2 Force of Negation
 4 Flooded Strand
+2 Birds of Paradise
 1 Stomping Ground
 1 Wooded Foothills
-2 Hallowed Fountain
+1 Charming Prince
 1 Avalanche Riders
 3 Birds of Paradise
-1 Auriok Champion
+1 Prismatic Vista
+2 Prismatic Vista
 3 Coiling Oracle
-3 Soulherder
-3 Force of Negation
 2 Avalanche Riders
-1 Stonehorn Dignitary
-4 Eternal Witness
-1 Prairie Stream
-4 Misty Rainforest
+2 Hallowed Fountain
+1 Auriok Champion
+3 Soulherder
 1 Sacred Foundry
 1 Chord of Calling
-1 Kiki-Jiki, Mirror Breaker
 1 Restoration Angel
 2 Chord of Calling
-3 Prismatic Vista
-4 Coiling Oracle
+3 Force of Negation
 1 Snow-Covered Mountain
-1 Gaddock Teeg
-1 Canopy Vista
-4 Prismatic Vista
+1 Kiki-Jiki, Mirror Breaker
+3 Prismatic Vista
+4 Misty Rainforest
+4 Birds of Paradise
+3 Skyclave Apparition
+4 Coiling Oracle
+1 Glasspool Mimic
+1 Raugrin Triome
 2 Restoration Angel
 3 Chord of Calling
 4 Chord of Calling
-4 Birds of Paradise
-3 Skyclave Apparition
+4 Prismatic Vista
+1 Stonehorn Dignitary
+4 Eternal Witness
+1 Prairie Stream
+1 Steam Vents
 2 Wooded Foothills
-1 Glasspool Mimic
+1 Ketria Triome
 1 Acidic Slime
 3 Wooded Foothills
-1 Raugrin Triome
+1 Gaddock Teeg
 1 Time Warp
+1 Canopy Vista
 2 Breeding Pool
-1 Steam Vents
 1 Giver of Runes
-1 Ketria Triome
 4 Wooded Foothills
 4 Watcher for Tomorrow
+4 Skyclave Apparition
 1 Huntmaster of the Fells
 2 Stomping Ground
 1 Omnath, Locus of Creation
 3 Avalanche Riders
+1 Field of Ruin
+1 Batterskull
+1 Stoneforge Mystic
+2 Field of Ruin
+2 Stoneforge Mystic
+1 Magus of the Moon
 1 Wall of Omens
 4 Force of Negation
-4 Skyclave Apparition
-2 Venser, Shaper Savant
-1 Wrenn and Six
-1 Field of the Dead
-2 Wrenn and Six
+1 Sword of Feast and Famine
+3 Stoneforge Mystic
 1 Saheeli Rai
 1 Felidar Guardian
 2 Saheeli Rai
@@ -74,15 +78,14 @@
 3 Saheeli Rai
 4 Saheeli Rai
 4 Felidar Guardian
+1 Field of the Dead
+1 Wrenn and Six
+2 Wrenn and Six
 2 Time Warp
 2 Glasspool Mimic
 2 Wall of Omens
 3 Uro, Titan of Nature's Wrath
-1 Field of Ruin
-1 Batterskull
-1 Stoneforge Mystic
-2 Field of Ruin
-2 Stoneforge Mystic
+1 Knight of Autumn
 1 Primeval Titan
 1 Waterlogged Grove
 1 Oath of Nissa
@@ -93,10 +96,8 @@
 1 Lurrus of the Dream-Den
 1 Gilded Goose
 1 Arid Mesa
-1 Magus of the Moon
+2 Venser, Shaper Savant
 1 Seasoned Pyromancer
-1 Sword of Feast and Famine
-3 Stoneforge Mystic
 3 Snow-Covered Island
 1 Abundant Growth
 2 Abundant Growth
@@ -110,7 +111,6 @@
 1 Cryptic Command
 2 Cryptic Command
 3 Field of Ruin
-1 Knight of Autumn
 1 Agent of Treachery
 2 Gilded Goose
 2 Arid Mesa
@@ -120,13 +120,10 @@
 4 Path to Exile
 4 Restoration Angel
 4 Wall of Blossoms
-1 Eidolon of Rhetoric
-1 Scavenging Ooze
-4 Avalanche Riders
 1 Indatha Triome
-1 Garruk, Cursed Huntsman
 1 Verdant Catacombs
 1 Overgrown Tomb
+1 Garruk, Cursed Huntsman
 1 Godless Shrine
 1 Snow-Covered Swamp
 1 The Royal Scions
@@ -164,9 +161,12 @@
 3 Niv-Mizzet Reborn
 3 Abundant Growth
 3 Utopia Sprawl
+4 Bring to Light
 4 Pillar of the Paruns
 4 Utopia Sprawl
-4 Bring to Light
+1 Eidolon of Rhetoric
+1 Scavenging Ooze
+4 Avalanche Riders
 1 Aether Gust
 1 Blade Splicer
 1 Reveillark
@@ -184,8 +184,8 @@
 3 Wall of Omens
 4 Giver of Runes
 4 Wall of Omens
-1 Heliod, Sun-Crowned
 1 Sword of Fire and Ice
+1 Heliod, Sun-Crowned
 1 Walking Ballista
 2 Ranger-Captain of Eos
 3 Ranger-Captain of Eos
@@ -193,20 +193,20 @@
 3 Temple Garden
 4 Collected Company
 1 Scalding Tarn
+1 Plains
 1 Island
 1 Mystic Sanctuary
 1 Mountain
 1 Lightning Bolt
-1 Plains
 2 Scalding Tarn
 2 Charming Prince
-2 Steam Vents
 2 Plains
+2 Steam Vents
 2 Seasoned Pyromancer
 2 Island
 2 Lightning Bolt
+3 Island
 3 Charming Prince
 3 Scalding Tarn
-3 Island
-4 Scalding Tarn
 4 Stoneforge Mystic
+4 Scalding Tarn

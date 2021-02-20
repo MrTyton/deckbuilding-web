@@ -108,8 +108,8 @@
 1 Shatterskull Smashing
 2 Shatterskull Smashing
 1 Shepherd of the Flock
-1 Seasoned Hallowblade
 1 Usher of the Fallen
+1 Seasoned Hallowblade
 1 Giant Killer
 1 Bonecrusher Giant
 2 Shepherd of the Flock
@@ -122,8 +122,8 @@
 3 Giant Killer
 3 Mountain
 3 Bonecrusher Giant
-4 Seasoned Hallowblade
 4 Usher of the Fallen
+4 Seasoned Hallowblade
 4 Giant Killer
 4 Bonecrusher Giant
 4 Mountain
@@ -144,6 +144,15 @@
 3 Withercrown
 3 Mazemind Tome
 3 Temple of Plenty
+1 Crawling Barrens
+4 The Raven's Warning
+1 Yasharn, Implacable Earth
+1 Great Hall of Starnheim
+1 Skemfar Elderhall
+2 Hagra Mauling
+4 Forest
+1 Omen of the Hunt
+4 Llanowar Visionary
 1 Path to the World Tree
 1 Esika's Chariot
 1 The World Tree
@@ -160,20 +169,11 @@
 2 In Search of Greatness
 2 Burning-Rune Demon
 2 Castle Locthwain
-3 The World Tree
 3 Path to the World Tree
 3 In Search of Greatness
-4 The World Tree
+3 The World Tree
 4 Path to the World Tree
-1 Crawling Barrens
-4 The Raven's Warning
-1 Yasharn, Implacable Earth
-1 Great Hall of Starnheim
-1 Skemfar Elderhall
-2 Hagra Mauling
-4 Forest
-1 Omen of the Hunt
-4 Llanowar Visionary
+4 The World Tree
 1 Tergrid, God of Fright
 1 Fae of Wishes
 2 Fae of Wishes
@@ -207,27 +207,27 @@
 4 Temple of Silence
 4 Temple of Deceit
 1 Dream Trawler
-1 Temple of Triumph
 1 Goldspan Dragon
+1 Temple of Triumph
 1 Embercleave
 1 Robber of the Rich
-2 Temple of Triumph
 2 Embercleave
+2 Temple of Triumph
 2 Robber of the Rich
-3 Shepherd of the Flock
 3 Robber of the Rich
+3 Shepherd of the Flock
 4 Robber of the Rich
 4 Shepherd of the Flock
 6 Mountain
 7 Mountain
 8 Plains
-1 Maul of the Skyclaves
 1 Luminarch Aspirant
+1 Maul of the Skyclaves
 1 Selfless Savior
-2 Maul of the Skyclaves
 2 Luminarch Aspirant
+2 Maul of the Skyclaves
 2 Selfless Savior
-3 Luminarch Aspirant
 3 Maul of the Skyclaves
+3 Luminarch Aspirant
 4 Luminarch Aspirant
 4 Maul of the Skyclaves

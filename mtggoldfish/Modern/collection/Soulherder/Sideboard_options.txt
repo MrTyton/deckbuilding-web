@@ -1,27 +1,29 @@
-1 Aven Mindcensor
 1 Veil of Summer
-1 Yorion, Sky Nomad
-1 Elder Gargaroth
-2 Path to Exile
-3 Path to Exile
+1 Aven Mindcensor
+1 Ceremonious Rejection
 1 Thragtusk
+2 Path to Exile
+1 Remorseful Cleric
+2 Veil of Summer
+3 Path to Exile
+1 Auriok Champion
 4 Path to Exile
 1 Magus of the Moon
-1 Remorseful Cleric
-1 Force of Negation
 2 Ceremonious Rejection
+1 Force of Negation
 1 Vedalken Plotter
 3 Ceremonious Rejection
-2 Veil of Summer
-1 Auriok Champion
+1 Elder Gargaroth
 1 Stonehorn Dignitary
 1 Gaea's Blessing
+1 Glen Elendra Archmage
+1 Qasali Pridemage
 1 Mystical Dispute
-1 Deputy of Detention
 2 Meddling Mage
-1 Skyclave Cleric
+1 Deputy of Detention
 1 Siege Rhino
 1 Thassa's Oracle
+1 Skyclave Cleric
 1 Wall of Blossoms
 2 Wall of Blossoms
 1 Damping Sphere
@@ -35,9 +37,9 @@
 2 Wing Shards
 3 Damping Sphere
 1 Yixlid Jailer
-1 Glen Elendra Archmage
+3 Veil of Summer
+2 Auriok Champion
 1 Selfless Spirit
-1 Qasali Pridemage
 2 Collector Ouphe
 2 Celestial Purge
 1 Oust
@@ -49,7 +51,6 @@
 2 Rest in Peace
 2 Teferi, Time Raveler
 1 Surgical Extraction
-2 Auriok Champion
 2 Surgical Extraction
 3 Auriok Champion
 3 Ashiok, Dream Render
@@ -63,12 +64,6 @@
 1 Kitchen Finks
 1 Huntmaster of the Fells
 1 Teferi, Hero of Dominaria
-1 Coiling Oracle
-1 Isolate
-1 Tale's End
-1 Mana Leak
-1 Flashfreeze
-2 Coiling Oracle
 2 Mystical Dispute
 1 Spell Pierce
 2 Spell Pierce
@@ -76,15 +71,21 @@
 1 Dovin's Veto
 2 Knight of Autumn
 2 Disdainful Stroke
-1 Vendilion Clique
+1 Jace, the Mind Sculptor
 1 Sword of Fire and Ice
 1 Lightning Bolt
-1 Jace, the Mind Sculptor
+1 Vendilion Clique
 1 Angel of Invention
 1 Soulherder
 2 Force of Negation
 2 Vendilion Clique
 2 Jace, the Mind Sculptor
+1 Mana Leak
+1 Isolate
+1 Tale's End
+1 Flashfreeze
+1 Coiling Oracle
+2 Coiling Oracle
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
 1 Remand
@@ -92,17 +93,17 @@
 1 Spellskite
 2 Familiar's Ruse
 1 Walking Ballista
-1 Emrakul, the Aeons Torn
 1 Heliod, Sun-Crowned
+1 Emrakul, the Aeons Torn
 2 Heliod, Sun-Crowned
 2 Walking Ballista
 1 Worship
 1 Deafening Silence
 2 Deafening Silence
 3 Deafening Silence
+1 Flame Slash
 1 Arasta of the Endless Web
 1 Relic of Progenitus
-1 Flame Slash
 1 Venser, Shaper Savant
 2 Relic of Progenitus
 3 Relic of Progenitus
@@ -115,16 +116,15 @@
 2 Unmoored Ego
 3 Thoughtseize
 3 Fatal Push
-1 Time Warp
-1 Field of Ruin
-1 Timely Reinforcements
-1 Skyclave Apparition
-2 Time Warp
-3 Meddling Mage
 1 Sacred Foundry
 1 Mangara of Corondor
 2 Gaddock Teeg
 3 Magus of the Moon
 4 Magus of the Moon
 4 Auriok Champion
-3 Veil of Summer
+1 Time Warp
+1 Field of Ruin
+1 Timely Reinforcements
+1 Skyclave Apparition
+2 Time Warp
+3 Meddling Mage

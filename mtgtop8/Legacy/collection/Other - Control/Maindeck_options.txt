@@ -1,18 +1,14 @@
-1 Chain Lightning
 4 Dreadhorde Arcanist
 4 Scalding Tarn
-2 Hullbreacher
+1 Hullbreacher
 1 Spell Pierce
 2 Preordain
 3 Volcanic Island
 3 Oko, Thief of Crowns
 3 Tropical Island
 3 Daze
+2 Hullbreacher
 2 Sylvan Library
-1 Flooded Strand
-1 Underground Sea
-1 Polluted Delta
-2 Prismatic Vista
 1 Mystic Sanctuary
 1 Day's Undoing
 1 Tundra
@@ -22,8 +18,10 @@
 2 Teferi, Time Raveler
 1 Savannah
 1 Stoneforge Mystic
+1 Flooded Strand
 1 Snow-Covered Plains
 1 Batterskull
+1 Underground Sea
 1 Abrupt Decay
 1 Supreme Verdict
 1 Ensnaring Bridge
@@ -33,56 +31,29 @@
 1 Dead of Winter
 1 Urza, Lord High Artificer
 1 Sword of the Meek
+1 Polluted Delta
 1 Academy Ruins
 1 Swords to Plowshares
 2 Snow-Covered Plains
 2 Stoneforge Mystic
 2 Flooded Strand
+2 Prismatic Vista
 2 Abrupt Decay
+2 Thopter Foundry
 2 Swords to Plowshares
 2 Supreme Verdict
 2 Urza, Lord High Artificer
-2 Thopter Foundry
 3 Arcum's Astrolabe
 3 Prismatic Vista
 3 Snow-Covered Island
 3 Swords to Plowshares
 3 Urza, Lord High Artificer
 4 Arcum's Astrolabe
-1 Eliminate
-2 Eliminate
-1 Baleful Strix
-1 Fatal Push
-1 Cling to Dust
-1 Murderous Rider
-1 Brazen Borrower
-1 Ethereal Forager
-1 Island
-1 Thoughtseize
-1 Swamp
-1 Liliana's Triumph
-1 Gurmag Angler
-2 Baleful Strix
-2 Fatal Push
-2 Underground Sea
-2 Murderous Rider
-2 Ethereal Forager
-2 Polluted Delta
-2 Brazen Borrower
-2 Island
-2 Swamp
-3 Baleful Strix
-3 Underground Sea
-3 Polluted Delta
-3 Ethereal Forager
-3 Island
-4 Baleful Strix
-4 Polluted Delta
-4 Stifle
 1 Snow-Covered Swamp
 1 Ancient Tomb
 1 Karn, the Great Creator
 1 Chrome Mox
+1 Eliminate
 1 Soul Shatter
 1 Leyline of the Void
 1 Opposition Agent
@@ -98,11 +69,11 @@
 1 Chalice of the Void
 2 Ancient Tomb
 2 Karn, the Great Creator
-2 Snow-Covered Swamp
 2 Leyline of the Void
 2 Sorcerous Spyglass
 2 Soul Shatter
 2 Opposition Agent
+2 Eliminate
 2 Trinisphere
 2 Curse of Misfortunes
 2 Chrome Mox
@@ -110,9 +81,10 @@
 2 Dark Ritual
 2 Helm of Obedience
 2 Chalice of the Void
+2 Snow-Covered Swamp
+3 Snow-Covered Swamp
 3 Ancient Tomb
 3 Karn, the Great Creator
-3 Snow-Covered Swamp
 3 Leyline of the Void
 3 Opposition Agent
 3 Dark Ritual
@@ -130,10 +102,10 @@
 4 Dark Ritual
 4 City of Traitors
 4 Curse of Misfortunes
-4 Opposition Agent
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
+4 Opposition Agent

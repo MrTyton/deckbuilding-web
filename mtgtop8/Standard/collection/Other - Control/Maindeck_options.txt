@@ -125,9 +125,9 @@
 3 Eliminate
 3 Tergrid, God of Fright
 4 Tergrid, God of Fright
-1 Burning-Rune Demon
 1 Esika's Chariot
 1 Charming Prince
+1 Burning-Rune Demon
 1 Firja's Retribution
 1 Ketria Triome
 1 Tangled Florahedron
@@ -177,8 +177,8 @@
 6 Swamp
 3 Ugin, the Spirit Dragon
 3 Solemn Simulacrum
-4 Solemn Simulacrum
 4 Ugin, the Spirit Dragon
+4 Solemn Simulacrum
 3 Llanowar Visionary
 4 Llanowar Visionary
 1 Snow-Covered Forest
@@ -188,12 +188,12 @@
 3 Snow-Covered Swamp
 3 Snow-Covered Forest
 1 Omen of the Hunt
-1 Shimmerdrift Vale
 1 Rampage of the Valkyries
 1 Evolving Wilds
 1 Snow-Covered Plains
-1 Grasp of Darkness
+1 Shimmerdrift Vale
 1 Feed the Serpent
+1 Grasp of Darkness
 1 Arctic Treeline
 1 Sarulf's Packmate
 1 Shepherd of the Flock
@@ -205,38 +205,38 @@
 1 Elderfang Disciple
 1 Skull Raid
 2 Omen of the Hunt
-2 Shimmerdrift Vale
 2 Rampage of the Valkyries
 2 Sculptor of Winter
-2 Arctic Treeline
 2 Evolving Wilds
-2 Grasp of Darkness
+2 Shimmerdrift Vale
 2 Feed the Serpent
+2 Grasp of Darkness
 2 Sarulf's Packmate
 2 Great Hall of Starnheim
 2 Elderfang Disciple
+2 Arctic Treeline
 2 Snowfield Sinkhole
 2 Skull Raid
 2 Woodland Chasm
 3 Omen of the Hunt
+3 Skull Raid
 3 Sculptor of Winter
 3 Evolving Wilds
+3 Shimmerdrift Vale
 3 Sarulf's Packmate
 3 Woodland Chasm
-3 Skull Raid
-3 Shimmerdrift Vale
 3 Elderfang Disciple
 3 Rampage of the Valkyries
 4 Omen of the Hunt
+4 Skull Raid
 4 Evolving Wilds
+4 Shimmerdrift Vale
 4 Sculptor of Winter
 4 Sarulf's Packmate
 4 Elderfang Disciple
 4 Snow-Covered Swamp
 4 Snow-Covered Forest
-4 Skull Raid
 4 Woodland Chasm
-4 Shimmerdrift Vale
 4 Rampage of the Valkyries
 5 Snow-Covered Forest
 5 Snow-Covered Swamp
@@ -255,9 +255,13 @@
 2 Polukranos, Unchained
 2 Agonizing Remorse
 2 Scavenging Ooze
-3 Elder Gargaroth
 3 Scavenging Ooze
+3 Elder Gargaroth
 3 Agonizing Remorse
+1 Soul Sear
+2 Soul Sear
+3 Soul Sear
+4 Soul Sear
 1 Dream Devourer
 1 Temple of Abandon
 1 Liliana, Waker of the Dead
@@ -278,13 +282,9 @@
 4 Cultivate
 4 Dream Devourer
 4 Vorinclex, Monstrous Raider
-4 Blightstep Pathway
 4 Lukka, Coppercoat Outcast
 4 Valki, God of Lies
-1 Soul Sear
-2 Soul Sear
-3 Soul Sear
-4 Soul Sear
+4 Blightstep Pathway
 1 Storm's Wrath
 1 Bonecrusher Giant
 1 Ox of Agonas
@@ -301,9 +301,9 @@
 1 Silundi Vision
 1 Lofty Denial
 1 Field of Ruin
-1 Rain of Revelation
-1 Neutralize
 1 Rewind
+1 Neutralize
+1 Rain of Revelation
 1 Frantic Inventory
 1 Gadwick, the Wizened
 1 Brazen Borrower
@@ -318,10 +318,10 @@
 1 Shark Typhoon
 1 Island
 2 Castle Vantress
-2 Rain of Revelation
 2 Neutralize
 2 Gadwick, the Wizened
 2 Rewind
+2 Rain of Revelation
 2 Frantic Inventory
 2 Brazen Borrower
 2 Into the Roil
@@ -336,11 +336,11 @@
 3 Rewind
 3 Island
 3 Brazen Borrower
-4 Castle Vantress
 4 Neutralize
 4 Frantic Inventory
 4 Shark Typhoon
 4 Rewind
+4 Castle Vantress
 4 Island
 4 Brazen Borrower
 5 Island
