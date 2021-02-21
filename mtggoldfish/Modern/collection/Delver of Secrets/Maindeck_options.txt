@@ -95,19 +95,19 @@
 3 Uro, Titan of Nature's Wrath
 4 Remand
 1 Seachrome Coast
-1 Plains
-1 Stoneforge Mystic
-1 Batterskull
 1 Mantis Rider
+1 Batterskull
 1 Sword of Fire and Ice
+1 Stoneforge Mystic
+1 Plains
 2 Seachrome Coast
-2 Stoneforge Mystic
 2 Mantis Rider
+2 Stoneforge Mystic
 3 Mantis Rider
 3 Stoneforge Mystic
 4 Mantis Rider
-4 Stoneforge Mystic
 4 Sleight of Hand
+4 Stoneforge Mystic
 4 Watery Grave
 4 Spirebluff Canal
 4 Magmatic Channeler
@@ -174,18 +174,18 @@
 2 Agadeem's Awakening
 2 Marsh Flats
 4 Darkslick Shores
+1 Dreadhorde Arcanist
+2 Dreadhorde Arcanist
+2 Hallowed Fountain
+3 Dreadhorde Arcanist
+3 Hallowed Fountain
+4 Dreadhorde Arcanist
 3 Young Pyromancer
 4 Young Pyromancer
 1 Visions of Beyond
 2 Visions of Beyond
 3 Visions of Beyond
 4 Visions of Beyond
-1 Dreadhorde Arcanist
-2 Hallowed Fountain
-2 Dreadhorde Arcanist
-3 Hallowed Fountain
-3 Dreadhorde Arcanist
-4 Dreadhorde Arcanist
 1 Lava Dart
 1 Lava Spike
 1 Stormwing Entity
@@ -196,6 +196,7 @@
 1 Monastery Swiftspear
 1 Light Up the Stage
 1 Sunbaked Canyon
+2 Mountain
 2 Lava Spike
 2 Stormwing Entity
 2 Lava Dart
@@ -204,7 +205,6 @@
 2 Manamorphose
 2 Mutagenic Growth
 2 Monastery Swiftspear
-2 Mountain
 2 Light Up the Stage
 3 Stormwing Entity
 3 Manamorphose
@@ -239,17 +239,17 @@
 6 Snow-Covered Island
 1 Mutavault
 1 Cryptic Command
+1 Deliberate
 1 Silundi Vision
 1 Castle Vantress
 1 Oboro, Palace in the Clouds
-1 Deliberate
 1 Psionic Blast
 1 Spellstutter Sprite
+2 Deliberate
 2 Mutavault
 2 Cryptic Command
 2 Vendilion Clique
 2 Psionic Blast
-2 Deliberate
 2 Spellstutter Sprite
 3 Spellstutter Sprite
 3 Cryptic Command

@@ -124,8 +124,8 @@
 1 Seachrome Coast
 1 Blinkmoth Nexus
 1 Hengegate Pathway
-2 Hengegate Pathway
 2 Seachrome Coast
+2 Hengegate Pathway
 3 Hengegate Pathway
 3 Seachrome Coast
 4 Hengegate Pathway
@@ -134,8 +134,8 @@
 2 Spell Pierce
 3 Spell Pierce
 1 Glacial Floodplain
-1 Teferi, Master of Time
 1 Entreat the Angels
+1 Teferi, Master of Time
 1 Dismember
 1 Disrupting Shoal
 2 Disrupting Shoal
@@ -162,10 +162,7 @@
 2 Mutavault
 3 Mutavault
 4 Mutavault
-1 Behold the Multiverse
-2 Behold the Multiverse
-3 Behold the Multiverse
-4 Behold the Multiverse
+4 Valakut Awakening
 1 Tectonic Edge
 1 Rest in Peace
 1 Silundi Vision
@@ -177,7 +174,10 @@
 3 Tectonic Edge
 4 Tectonic Edge
 4 Misty Rainforest
-4 Valakut Awakening
+1 Behold the Multiverse
+2 Behold the Multiverse
+3 Behold the Multiverse
+4 Behold the Multiverse
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
@@ -186,11 +186,11 @@
 1 Watery Grave
 1 Godless Shrine
 1 Cling to Dust
+1 Sunken Ruins
 1 Kaya, Orzhov Usurper
 1 Drown in the Loch
 1 Fatal Push
 1 Esper Charm
-1 Sunken Ruins
 2 Cling to Dust
 2 Watery Grave
 2 Drown in the Loch
@@ -200,8 +200,8 @@
 3 Cling to Dust
 3 Fatal Push
 3 Esper Charm
-4 Drown in the Loch
 4 Esper Charm
+4 Drown in the Loch
 4 Cling to Dust
 1 Engineered Explosives
 2 Castle Ardenvale

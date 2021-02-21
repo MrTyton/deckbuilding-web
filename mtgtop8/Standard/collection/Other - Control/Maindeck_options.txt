@@ -118,13 +118,13 @@
 4 Darkbore Pathway
 1 Tergrid, God of Fright
 3 Lukka, Coppercoat Outcast
-1 Burning-Rune Demon
+1 Tangled Florahedron
 1 Esika's Chariot
 1 Charming Prince
 1 Firja's Retribution
 1 Ketria Triome
-1 Tangled Florahedron
 1 Kaya the Inexorable
+1 Burning-Rune Demon
 2 Tangled Florahedron
 2 Firja's Retribution
 3 Tangled Florahedron
@@ -147,19 +147,19 @@
 4 Temple of Silence
 4 Banishing Light
 4 Eerie Ultimatum
-1 Gilded Goose
 1 Wicked Wolf
+1 Gilded Goose
 1 Trail of Crumbs
+2 Wicked Wolf
 2 Gilded Goose
 2 Trail of Crumbs
-2 Wicked Wolf
 2 Temple of Plenty
 3 Gilded Goose
-3 Wicked Wolf
 3 Trail of Crumbs
+3 Wicked Wolf
 3 Emeria's Call
-4 Gilded Goose
 4 Wicked Wolf
+4 Gilded Goose
 4 Emeria's Call
 4 Trail of Crumbs
 5 Forest
@@ -187,10 +187,10 @@
 2 Snow-Covered Forest
 3 Snow-Covered Swamp
 3 Snow-Covered Forest
-1 Omen of the Hunt
-1 Shimmerdrift Vale
 1 Rampage of the Valkyries
+1 Omen of the Hunt
 1 Evolving Wilds
+1 Shimmerdrift Vale
 1 Snow-Covered Plains
 1 Feed the Serpent
 1 Grasp of Darkness
@@ -204,10 +204,11 @@
 1 Snowfield Sinkhole
 1 Elderfang Disciple
 1 Skull Raid
-2 Omen of the Hunt
 2 Rampage of the Valkyries
+2 Omen of the Hunt
 2 Sculptor of Winter
 2 Evolving Wilds
+2 Shimmerdrift Vale
 2 Feed the Serpent
 2 Grasp of Darkness
 2 Sarulf's Packmate
@@ -215,28 +216,27 @@
 2 Elderfang Disciple
 2 Arctic Treeline
 2 Snowfield Sinkhole
-2 Shimmerdrift Vale
 2 Skull Raid
 2 Woodland Chasm
-3 Evolving Wilds
-3 Omen of the Hunt
 3 Sculptor of Winter
+3 Evolving Wilds
+3 Shimmerdrift Vale
 3 Sarulf's Packmate
+3 Omen of the Hunt
 3 Woodland Chasm
 3 Skull Raid
-3 Shimmerdrift Vale
 3 Elderfang Disciple
 3 Rampage of the Valkyries
-4 Omen of the Hunt
 4 Evolving Wilds
+4 Shimmerdrift Vale
 4 Sculptor of Winter
 4 Sarulf's Packmate
 4 Elderfang Disciple
+4 Omen of the Hunt
 4 Snow-Covered Swamp
 4 Snow-Covered Forest
 4 Skull Raid
 4 Woodland Chasm
-4 Shimmerdrift Vale
 4 Rampage of the Valkyries
 5 Snow-Covered Forest
 5 Snow-Covered Swamp
@@ -255,36 +255,36 @@
 2 Polukranos, Unchained
 2 Agonizing Remorse
 2 Scavenging Ooze
-3 Scavenging Ooze
 3 Elder Gargaroth
+3 Scavenging Ooze
 3 Agonizing Remorse
-1 Dream Devourer
-1 Temple of Abandon
-1 Liliana, Waker of the Dead
-1 Blightstep Pathway
-1 Vorinclex, Monstrous Raider
-1 Zagoth Triome
-1 Cragcrown Pathway
-1 Snow-Covered Mountain
-2 Dream Devourer
-2 Vorinclex, Monstrous Raider
-2 Liliana, Waker of the Dead
-2 Blightstep Pathway
-2 Snow-Covered Mountain
-2 Cragcrown Pathway
-3 Dream Devourer
-3 Blightstep Pathway
-3 Vorinclex, Monstrous Raider
-4 Cultivate
-4 Dream Devourer
-4 Blightstep Pathway
-4 Lukka, Coppercoat Outcast
-4 Valki, God of Lies
-4 Vorinclex, Monstrous Raider
 1 Soul Sear
 2 Soul Sear
 3 Soul Sear
 4 Soul Sear
+1 Temple of Abandon
+1 Liliana, Waker of the Dead
+1 Blightstep Pathway
+1 Dream Devourer
+1 Vorinclex, Monstrous Raider
+1 Zagoth Triome
+1 Cragcrown Pathway
+1 Snow-Covered Mountain
+2 Vorinclex, Monstrous Raider
+2 Liliana, Waker of the Dead
+2 Blightstep Pathway
+2 Snow-Covered Mountain
+2 Dream Devourer
+2 Cragcrown Pathway
+3 Blightstep Pathway
+3 Dream Devourer
+3 Vorinclex, Monstrous Raider
+4 Lukka, Coppercoat Outcast
+4 Valki, God of Lies
+4 Cultivate
+4 Vorinclex, Monstrous Raider
+4 Dream Devourer
+4 Blightstep Pathway
 1 Storm's Wrath
 1 Bonecrusher Giant
 1 Ox of Agonas
@@ -298,51 +298,51 @@
 3 Temple of Triumph
 6 Mountain
 7 Mountain
-1 Silundi Vision
 1 Lofty Denial
 1 Field of Ruin
-1 Rewind
+1 Rain of Revelation
 1 Neutralize
 1 Mystic Sanctuary
-1 Rain of Revelation
+1 Rewind
+1 Silundi Vision
 1 Frantic Inventory
-1 Gadwick, the Wizened
-1 Brazen Borrower
+1 Shark Typhoon
 1 Kiora Bests the Sea God
-1 Sublime Epiphany
-1 Essence Scatter
 1 Into the Roil
 1 Hypnotic Sprite
 1 Jwari Disruption
+1 Essence Scatter
 1 Castle Vantress
-1 Shark Typhoon
 1 Island
+1 Sublime Epiphany
+1 Brazen Borrower
+1 Gadwick, the Wizened
 2 Castle Vantress
+2 Rain of Revelation
 2 Neutralize
 2 Rewind
-2 Gadwick, the Wizened
-2 Rain of Revelation
 2 Frantic Inventory
-2 Brazen Borrower
-2 Into the Roil
-2 Essence Scatter
 2 Shark Typhoon
+2 Essence Scatter
+2 Into the Roil
 2 Island
+2 Gadwick, the Wizened
+2 Brazen Borrower
 2 Hypnotic Sprite
-3 Castle Vantress
 3 Neutralize
+3 Castle Vantress
 3 Frantic Inventory
+3 Brazen Borrower
 3 Shark Typhoon
 3 Rewind
 3 Island
-3 Brazen Borrower
-4 Castle Vantress
 4 Neutralize
 4 Frantic Inventory
+4 Brazen Borrower
 4 Shark Typhoon
 4 Rewind
+4 Castle Vantress
 4 Island
-4 Brazen Borrower
 5 Island
 6 Island
 7 Island

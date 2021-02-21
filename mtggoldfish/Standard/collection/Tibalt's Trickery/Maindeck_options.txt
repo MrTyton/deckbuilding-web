@@ -8,25 +8,25 @@
 1 Ketria Triome
 2 Ketria Triome
 4 The World Tree
+2 Mountain
+4 Blightstep Pathway
+3 Mountain
+4 Temple of Epiphany
 1 Dream Trawler
 2 Dream Trawler
-4 Blightstep Pathway
-2 Mountain
-4 Temple of Epiphany
-3 Mountain
-4 Mountain
-3 Dream Trawler
 3 Temple of Malice
 4 Esika, God of the Tree
+4 Mountain
+3 Dream Trawler
+3 Ketria Triome
 5 Mountain
 6 Mountain
-3 Ketria Triome
-4 Dream Trawler
 1 Yidaro, Wandering Monster
 2 Yidaro, Wandering Monster
 3 Yidaro, Wandering Monster
 4 Yidaro, Wandering Monster
 1 Forest
+4 Dream Trawler
 4 Temple of Malice
 4 Valki, God of Lies
 1 Rugged Highlands
@@ -37,24 +37,21 @@
 2 Swiftwater Cliffs
 3 Swiftwater Cliffs
 4 Swiftwater Cliffs
-1 Raugrin Triome
 1 Barkchannel Pathway
-1 Turntimber Symbiosis
-7 Mountain
-2 Raugrin Triome
+1 Raugrin Triome
 1 Island
 2 Island
 2 Forest
+2 Raugrin Triome
+1 Turntimber Symbiosis
 2 Barkchannel Pathway
+7 Mountain
 1 Wishclaw Talisman
 2 Wishclaw Talisman
 3 Wishclaw Talisman
 4 Wishclaw Talisman
-8 Mountain
-9 Mountain
-10 Mountain
-4 Ketria Triome
 2 Turntimber Symbiosis
+4 Ketria Triome
 1 Crawling Barrens
 2 Crawling Barrens
 3 Barkchannel Pathway
@@ -62,9 +59,13 @@
 2 Gnottvold Slumbermound
 3 Gnottvold Slumbermound
 3 Crawling Barrens
+8 Mountain
+9 Mountain
+10 Mountain
 1 Swamp
-11 Mountain
-12 Mountain
+1 Temple of Mystery
+1 Titanoth Rex
+2 Titanoth Rex
 3 Raugrin Triome
 1 Clackbridge Troll
 1 Unknown Shores
@@ -77,6 +78,12 @@
 2 Goldspan Dragon
 2 Swamp
 3 Forest
+1 Pursued Whale
+2 Temple of Mystery
+2 Pursued Whale
+3 Temple of Mystery
+3 Titanoth Rex
+3 Island
 1 Snow-Covered Forest
 1 Fabled Passage
 1 Snow-Covered Plains
@@ -109,21 +116,7 @@
 3 Clearwater Pathway
 3 Cragplate Baloth
 4 Cragplate Baloth
-1 Savai Triome
-1 Kogla, the Titan Ape
-1 Gyruda, Doom of Depths
-1 Emeria's Call
-1 Needleverge Pathway
-2 Savai Triome
-2 Gyruda, Doom of Depths
-2 Kogla, the Titan Ape
-2 Needleverge Pathway
-3 Savai Triome
-3 Gyruda, Doom of Depths
-4 Savai Triome
-4 Gyruda, Doom of Depths
 1 Temple of Triumph
-1 Temple of Mystery
 2 Temple of Triumph
 3 Turntimber Symbiosis
 3 Temple of Triumph
@@ -131,17 +124,17 @@
 4 Temple of Triumph
 1 Spikefield Hazard
 1 Elder Gargaroth
-1 Titanoth Rex
 1 Quartzwood Crasher
 2 Spikefield Hazard
-2 Elder Gargaroth
-2 Titanoth Rex
 2 Quartzwood Crasher
-3 Elder Gargaroth
+2 Elder Gargaroth
 3 Quartzwood Crasher
+3 Elder Gargaroth
 3 Spikefield Hazard
 4 Elder Gargaroth
 4 Quartzwood Crasher
+11 Mountain
+12 Mountain
 13 Mountain
 14 Mountain
 15 Mountain

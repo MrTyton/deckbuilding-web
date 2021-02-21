@@ -2,23 +2,23 @@
 2 Cultivate
 3 Cultivate
 4 Cultivate
-1 Forest
-1 Annul
 1 Lotus Cobra
-2 Annul
 2 Lotus Cobra
-3 Annul
 3 Lotus Cobra
 4 Lotus Cobra
+1 Forest
+1 Annul
+2 Annul
+3 Annul
 1 Island
 2 Island
 4 Annul
 1 Disdainful Stroke
+1 Negate
 1 Llanowar Visionary
 2 Llanowar Visionary
 3 Llanowar Visionary
 4 Llanowar Visionary
-1 Negate
 3 The World Tree
 4 The World Tree
 1 Cragplate Baloth
@@ -31,6 +31,10 @@
 3 Dream Trawler
 4 Dream Trawler
 4 Cragplate Baloth
+2 Negate
+1 Mystical Dispute
+2 Mystical Dispute
+3 Mystical Dispute
 1 Scorching Dragonfire
 2 Scorching Dragonfire
 3 Scorching Dragonfire
@@ -39,11 +43,9 @@
 3 Thryx, the Sudden Storm
 4 Scorching Dragonfire
 4 Thryx, the Sudden Storm
-1 Mystical Dispute
-2 Mystical Dispute
-3 Mystical Dispute
 2 Disdainful Stroke
 3 Disdainful Stroke
+4 Mystical Dispute
 1 Duress
 2 Duress
 3 Duress
@@ -57,35 +59,24 @@
 2 Labyrinth of Skophos
 3 Yidaro, Wandering Monster
 3 Field of Ruin
-4 Mystical Dispute
-2 Negate
+3 Negate
+4 Negate
 1 Peer into the Abyss
 2 Peer into the Abyss
-1 Gilded Goose
-2 Gilded Goose
-3 Gilded Goose
 1 Spikefield Hazard
 1 Fire Prophecy
 1 Footfall Crater
 2 Fire Prophecy
 2 Footfall Crater
-3 Negate
-4 Negate
-1 Mazemind Tome
-1 Storm's Wrath
-1 Shock
-1 Kaheera, the Orphanguard
-2 Mazemind Tome
-2 Storm's Wrath
-2 Shock
-3 Mazemind Tome
-3 Storm's Wrath
-3 Shock
-4 Mazemind Tome
-4 Storm's Wrath
+1 Gilded Goose
+2 Gilded Goose
+3 Gilded Goose
+1 Demon Bolt
+2 Demon Bolt
+3 Demon Bolt
+1 Solemn Simulacrum
 1 Irencrag Feat
 1 Path to the World Tree
-1 Solemn Simulacrum
 2 Path to the World Tree
 2 Irencrag Feat
 2 Solemn Simulacrum
@@ -94,6 +85,18 @@
 3 Irencrag Feat
 4 Solemn Simulacrum
 4 Path to the World Tree
+1 Storm's Wrath
+1 Shock
+1 Mazemind Tome
+1 Kaheera, the Orphanguard
+2 Storm's Wrath
+2 Shock
+2 Mazemind Tome
+3 Storm's Wrath
+3 Shock
+3 Mazemind Tome
+4 Storm's Wrath
+4 Mazemind Tome
 1 Miscast
 2 Miscast
 3 Miscast

@@ -1,28 +1,31 @@
-2 Glass Casket
-2 Temple of Silence
-4 Heartless Act
-1 Negate
 2 Negate
 2 Island
+3 Plains
 4 Plains
-4 Elspeth Conquers Death
+1 Temple of Deceit
 1 Archon of Sun's Grace
 2 Archon of Sun's Grace
-1 Temple of Deceit
-1 Golden Egg
+4 Elspeth Conquers Death
 1 The Raven's Warning
 2 The Raven's Warning
 2 Temple of Deceit
-3 Temple of Deceit
 4 Extinction Event
 3 Island
 4 Island
+4 Heartless Act
+1 Glass Casket
+2 Glass Casket
 3 Negate
+3 Temple of Deceit
+1 Golden Egg
+2 Eliminate
+3 Archon of Sun's Grace
+3 Eliminate
 1 Skyclave Apparition
 2 Skyclave Apparition
 3 Skyclave Apparition
 4 Skyclave Apparition
-2 Eliminate
+4 Swamp
 3 Treacherous Blessing
 1 Binding the Old Gods
 1 Indatha Triome
@@ -32,9 +35,10 @@
 3 Binding the Old Gods
 4 Indatha Triome
 4 Binding the Old Gods
-3 Archon of Sun's Grace
+3 Temple of Silence
 2 Golden Egg
 3 Golden Egg
+4 Golden Egg
 1 Forest
 1 Eerie Ultimatum
 1 Branchloft Pathway
@@ -42,152 +46,124 @@
 2 Branchloft Pathway
 3 Branchloft Pathway
 1 Darkbore Pathway
-1 The Birth of Meletis
-2 The Birth of Meletis
-3 Eliminate
+2 Darkbore Pathway
 1 Firja's Retribution
 2 Firja's Retribution
-3 Temple of Silence
+1 Shadows' Verdict
+3 Omen of the Sun
+1 Shark Typhoon
+1 The Birth of Meletis
+2 Shark Typhoon
+2 The Birth of Meletis
+1 Temple of Plenty
 1 Temple of Malady
+2 Temple of Plenty
 4 Branchloft Pathway
-4 Swamp
-4 Golden Egg
-2 Darkbore Pathway
 1 Llanowar Visionary
+2 Eerie Ultimatum
 2 Llanowar Visionary
 3 Llanowar Visionary
+1 Temple of Enlightenment
 3 Firja's Retribution
-1 Banishing Light
-2 Banishing Light
+3 Darkbore Pathway
+4 Darkbore Pathway
+5 Plains
+6 Plains
 1 Showdown of the Skalds
 2 Showdown of the Skalds
 3 Showdown of the Skalds
 4 Showdown of the Skalds
-1 Temple of Plenty
-2 Temple of Plenty
-1 Hagra Mauling
-1 Lithoform Blight
-2 Temple of Malady
-2 Lithoform Blight
-3 Lithoform Blight
-4 Lithoform Blight
-3 Forest
-3 Omen of the Sun
-1 Shark Typhoon
-2 Shark Typhoon
-1 Temple of Enlightenment
-2 Eerie Ultimatum
-4 Archon of Sun's Grace
-1 Kaya the Inexorable
-1 Blightstep Pathway
-1 Savai Triome
-2 Savai Triome
-2 Blightstep Pathway
-3 Savai Triome
-3 Blightstep Pathway
-4 Savai Triome
-4 Blightstep Pathway
-1 Doomskar
-2 Doomskar
-3 The Birth of Meletis
-3 Doomskar
-5 Plains
-6 Plains
-1 Mountain
-1 Needleverge Pathway
-2 Mountain
-2 Needleverge Pathway
-3 Needleverge Pathway
-4 Needleverge Pathway
-1 Shatterskull Smashing
-2 Shatterskull Smashing
-1 Shepherd of the Flock
 1 Usher of the Fallen
 1 Seasoned Hallowblade
+1 Shepherd of the Flock
 1 Giant Killer
+1 Mountain
 1 Bonecrusher Giant
-2 Shepherd of the Flock
+1 Needleverge Pathway
 2 Usher of the Fallen
+2 Shepherd of the Flock
 2 Seasoned Hallowblade
 2 Giant Killer
 2 Bonecrusher Giant
+2 Needleverge Pathway
+2 Mountain
 3 Usher of the Fallen
 3 Seasoned Hallowblade
 3 Giant Killer
+3 Needleverge Pathway
 3 Mountain
 3 Bonecrusher Giant
 4 Usher of the Fallen
 4 Seasoned Hallowblade
 4 Bonecrusher Giant
 4 Mountain
+4 Needleverge Pathway
 5 Mountain
 7 Plains
-3 Darkbore Pathway
-4 Darkbore Pathway
 1 Gates of Istfell
+1 Banishing Light
 2 Gates of Istfell
+2 Banishing Light
 1 Goldspan Dragon
 1 Embercleave
 1 Robber of the Rich
+1 Shatterskull Smashing
+2 Shatterskull Smashing
 2 Embercleave
 2 Robber of the Rich
 3 Robber of the Rich
 3 Shepherd of the Flock
-4 Shepherd of the Flock
 4 Robber of the Rich
+4 Shepherd of the Flock
 6 Mountain
 7 Mountain
 8 Plains
 4 Giant Killer
 1 Erebos's Intervention
 3 Shark Typhoon
-1 Castle Ardenvale
-1 Mazemind Tome
-1 Starnheim Unleashed
-1 Rampage of the Valkyries
-1 Withercrown
-1 Omen of the Forge
-2 Omen of the Forge
-2 Mazemind Tome
-2 Withercrown
-3 Omen of the Forge
-3 Withercrown
-3 Mazemind Tome
+1 Hagra Mauling
+1 Lithoform Blight
+2 Temple of Malady
+2 Lithoform Blight
 3 Temple of Plenty
-1 Yasharn, Implacable Earth
-1 Great Hall of Starnheim
-1 Skemfar Elderhall
-2 Hagra Mauling
-4 Forest
+3 Lithoform Blight
+4 Archon of Sun's Grace
+4 Lithoform Blight
+1 Kaya the Inexorable
 1 Omen of the Hunt
+3 Forest
 4 Llanowar Visionary
 1 Path to the World Tree
+1 Bala Ged Recovery
 1 Burning-Rune Demon
 1 Esika's Chariot
-1 The World Tree
 1 In Search of Greatness
-1 Bala Ged Recovery
+1 The World Tree
 1 Mythos of Nethroi
 1 Acolyte of Affliction
 1 Cultivate
 1 Castle Locthwain
 1 Charming Prince
 2 Path to the World Tree
-2 Burning-Rune Demon
 2 In Search of Greatness
 2 The World Tree
+2 Burning-Rune Demon
 2 Castle Locthwain
-3 In Search of Greatness
 3 The World Tree
+3 In Search of Greatness
 3 Path to the World Tree
 4 The World Tree
 4 Path to the World Tree
 1 Tergrid, God of Fright
+1 Doomskar
 1 Fae of Wishes
 2 Fae of Wishes
+2 Doomskar
 2 Tergrid, God of Fright
+3 The Birth of Meletis
 3 Fae of Wishes
 3 Glass Casket
+3 Doomskar
 4 Doomskar
 4 The Birth of Meletis
 1 Zagoth Triome
@@ -198,14 +174,6 @@
 3 Zagoth Triome
 4 Barkchannel Pathway
 4 Zagoth Triome
-1 Riverglide Pathway
-1 Raugrin Triome
-2 Riverglide Pathway
-2 Raugrin Triome
-3 Raugrin Triome
-3 Riverglide Pathway
-4 Riverglide Pathway
-4 Raugrin Triome
 1 Archon of Emeria
 1 Soul Shatter
 1 Jwari Disruption
@@ -215,6 +183,22 @@
 3 The Raven's Warning
 4 Temple of Silence
 4 Temple of Deceit
+1 Blightstep Pathway
+1 Savai Triome
+1 Riverglide Pathway
+1 Raugrin Triome
+2 Blightstep Pathway
+2 Savai Triome
+2 Riverglide Pathway
+2 Raugrin Triome
+3 Savai Triome
+3 Blightstep Pathway
+3 Riverglide Pathway
+3 Raugrin Triome
+4 Raugrin Triome
+4 Savai Triome
+4 Riverglide Pathway
+4 Blightstep Pathway
 1 Temple of Triumph
 2 Temple of Triumph
 1 Faerie Guidemother

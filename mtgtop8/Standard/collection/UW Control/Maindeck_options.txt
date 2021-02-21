@@ -74,10 +74,10 @@
 3 Castle Ardenvale
 4 Crawling Barrens
 4 Disdainful Stroke
-1 Neutralize
 1 Tranquil Cove
-2 Neutralize
+1 Neutralize
 2 Tranquil Cove
+2 Neutralize
 3 Neutralize
 3 Omen of the Sun
 4 Neutralize
@@ -89,15 +89,15 @@
 1 Mystical Dispute
 1 Confounding Conundrum
 1 Teferi, Master of Time
-2 Sublime Epiphany
-2 Confounding Conundrum
 2 Teferi, Master of Time
-2 Mystical Dispute
 2 Thassa, Deep-Dwelling
-3 Sublime Epiphany
+2 Confounding Conundrum
+2 Sublime Epiphany
+2 Mystical Dispute
 3 Dream Trawler
 3 Mystical Dispute
 3 Confounding Conundrum
+3 Sublime Epiphany
 4 Mystical Dispute
 9 Island
 10 Plains
@@ -119,10 +119,10 @@
 2 Gates of Istfell
 2 Ravenform
 3 The Raven's Warning
-3 Gates of Istfell
 3 Alrund's Epiphany
-4 Midnight Clock
+3 Gates of Istfell
 4 The Raven's Warning
+4 Midnight Clock
 1 Cosima, God of the Voyage
 1 Ugin, the Spirit Dragon
 1 Snow-Covered Plains
