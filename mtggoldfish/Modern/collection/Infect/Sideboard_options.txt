@@ -30,6 +30,10 @@
 2 Collective Brutality
 1 Shapers' Sanctuary
 2 Shapers' Sanctuary
+1 Abrupt Decay
+2 Abrupt Decay
+2 Surgical Extraction
+2 Choke
 2 Spell Pierce
 1 Negate
 1 Reclaim
@@ -38,18 +42,14 @@
 3 Nature's Claim
 4 Nature's Claim
 1 Apostle's Blessing
-1 Melira, Sylvok Outcast
 1 Torpor Orb
+1 Melira, Sylvok Outcast
 1 Become Immense
 2 Apostle's Blessing
 2 Torpor Orb
 2 Melira, Sylvok Outcast
 2 Spellskite
 2 Pithing Needle
-1 Abrupt Decay
-2 Abrupt Decay
-2 Surgical Extraction
-2 Choke
 1 Dispel
 2 Dispel
 2 Wild Defiance
@@ -58,6 +58,11 @@
 1 Plague Engineer
 3 Gemrazer
 4 Gemrazer
+1 Duress
+1 Kitchen Finks
+2 Kitchen Finks
+3 Kitchen Finks
+4 Fatal Push
 1 Faerie Macabre
 1 Wrap in Vigor
 2 Weather the Storm
@@ -65,11 +70,6 @@
 2 Wrap in Vigor
 3 Weather the Storm
 3 Faerie Macabre
-3 Wrap in Vigor
 4 Faerie Macabre
 4 Weather the Storm
-1 Kitchen Finks
-1 Duress
-2 Kitchen Finks
-4 Fatal Push
-3 Kitchen Finks
+3 Wrap in Vigor

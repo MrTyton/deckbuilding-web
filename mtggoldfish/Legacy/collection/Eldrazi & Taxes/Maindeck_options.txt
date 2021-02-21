@@ -26,38 +26,38 @@
 1 Plateau
 1 Mountain
 1 Goblin Rabblemaster
-1 Simian Spirit Guide
 1 Winota, Joiner of Forces
 1 Legion Warboss
-1 Trinisphere
 1 Blood Sun
+1 Trinisphere
+1 Simian Spirit Guide
 1 Angrath's Marauders
 1 Seasoned Pyromancer
 2 Goblin Rabblemaster
-2 Simian Spirit Guide
+2 Trinisphere
 2 Seasoned Pyromancer
 2 Winota, Joiner of Forces
-2 City of Traitors
-2 Trinisphere
 2 Blood Sun
 2 Legion Warboss
+2 City of Traitors
 2 Plateau
 2 Angrath's Marauders
+2 Simian Spirit Guide
 3 Goblin Rabblemaster
-3 Simian Spirit Guide
-3 Seasoned Pyromancer
-3 Winota, Joiner of Forces
-3 Trinisphere
 3 City of Traitors
+3 Seasoned Pyromancer
+3 Trinisphere
+3 Simian Spirit Guide
+3 Winota, Joiner of Forces
 3 Legion Warboss
 3 Plateau
 3 Angrath's Marauders
 4 Angrath's Marauders
 4 Goblin Rabblemaster
-4 City of Traitors
 4 Simian Spirit Guide
 4 Winota, Joiner of Forces
 4 Legion Warboss
+4 City of Traitors
 4 Plateau
 3 Thalia, Heretic Cathar
 4 Snow-Covered Plains
@@ -131,15 +131,6 @@
 4 Wasteland Strangler
 4 Agonizing Remorse
 4 Marsh Flats
-1 Mirran Crusader
-2 Mirran Crusader
-5 Snow-Covered Plains
-6 Snow-Covered Plains
-7 Snow-Covered Plains
-8 Snow-Covered Plains
-9 Snow-Covered Plains
-8 Plains
-9 Plains
 1 Matter Reshaper
 1 Endless One
 1 Eldrazi Mimic
@@ -157,3 +148,12 @@
 4 Eldrazi Mimic
 4 Endless One
 4 Matter Reshaper
+8 Plains
+9 Plains
+1 Mirran Crusader
+2 Mirran Crusader
+5 Snow-Covered Plains
+7 Snow-Covered Plains
+8 Snow-Covered Plains
+9 Snow-Covered Plains
+6 Snow-Covered Plains

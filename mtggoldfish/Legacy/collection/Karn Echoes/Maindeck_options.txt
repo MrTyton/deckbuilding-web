@@ -6,10 +6,6 @@
 1 Minamo, School at Water's Edge
 5 Island
 3 Mishra's Bauble
-6 Island
-7 Island
-7 Snow-Covered Island
-4 Mishra's Bauble
 3 City of Traitors
 1 Defense Grid
 1 Manifold Key
@@ -36,21 +32,26 @@
 4 Voltaic Key
 4 Defense Grid
 4 City of Traitors
+6 Island
+7 Island
+7 Snow-Covered Island
+4 Mishra's Bauble
+1 Cavern of Souls
+2 Cavern of Souls
+1 Blast Zone
 3 Narset, Parter of Veils
 4 Narset, Parter of Veils
 1 Prismatic Vista
 2 Prismatic Vista
-1 Karakas
-1 The Antiquities War
-1 Blast Zone
-1 Cavern of Souls
-2 Cavern of Souls
-1 Tundra
 1 Scalding Tarn
 1 Volcanic Island
 2 Scalding Tarn
 2 Volcanic Island
 3 Volcanic Island
+1 The Antiquities War
+1 Experimental Frenzy
+2 Experimental Frenzy
+1 Karakas
 3 Scalding Tarn
 1 Force of Will
 2 Force of Will
@@ -61,31 +62,23 @@
 2 Grindstone
 3 Grindstone
 3 Painter's Servant
+1 Tundra
 1 Intuition
 1 Wasteland
 1 Thopter Foundry
 1 Plains
 1 Sword of the Meek
-1 Teferi, Time Raveler
-1 Monastery Mentor
-2 Tundra
-2 Teferi, Time Raveler
-2 Karakas
-2 Monastery Mentor
-3 Tundra
-3 Monastery Mentor
-1 Experimental Frenzy
-2 Experimental Frenzy
+3 Manifold Key
 3 Experimental Frenzy
 1 Mountain
 1 Goblin Engineer
 1 Spellskite
 1 Ensnaring Bridge
 1 Wurmcoil Engine
+1 Pyroblast
 1 Red Elemental Blast
 1 Goblin Welder
 1 Crystal Vein
-1 Pyroblast
 1 Great Furnace
 1 Snow-Covered Mountain
 2 Goblin Engineer
@@ -98,8 +91,8 @@
 4 Pyroblast
 1 Flooded Strand
 1 Tropical Island
-1 Veil of Summer
 1 Brainstorm
+1 Veil of Summer
 1 Ponder
 1 Misty Rainforest
 1 Polluted Delta

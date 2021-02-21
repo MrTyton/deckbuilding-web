@@ -70,10 +70,10 @@
 1 Ghost Quarter
 2 Simian Spirit Guide
 2 Tolaria West
+2 Sorcerous Spyglass
 2 Ensnaring Bridge
 2 Cascade Bluffs
 2 Welding Jar
-2 Sorcerous Spyglass
 3 Simian Spirit Guide
 3 Ensnaring Bridge
 3 Tolaria West
@@ -98,16 +98,16 @@
 1 Talisman of Creativity
 1 Blast Zone
 1 Teferi's Puzzle Box
+1 Cavern of Souls
+2 Cavern of Souls
+1 Clearwater Pathway
+1 Ashiok, Dream Render
+2 Ashiok, Dream Render
 1 Prismatic Vista
 1 Sai, Master Thopterist
 1 Fetid Pools
 2 Prismatic Vista
 2 Sai, Master Thopterist
-1 Clearwater Pathway
-1 Ashiok, Dream Render
-2 Ashiok, Dream Render
-1 Cavern of Souls
-2 Cavern of Souls
 1 Tectonic Edge
 3 Welding Jar
 1 Mountain
@@ -115,6 +115,14 @@
 3 Galvanic Blast
 2 Glimmervoid
 3 Sword of the Meek
+1 Geier Reach Sanitarium
+1 Echo of Eons
+1 Force of Negation
+2 Echo of Eons
+2 Force of Negation
+3 Narset, Parter of Veils
+3 Force of Negation
+4 Fatal Push
 1 Zagoth Triome
 1 Thoughtseize
 1 Remand
@@ -123,14 +131,6 @@
 3 Remand
 4 Misty Rainforest
 4 Engineered Explosives
-1 Echo of Eons
-1 Geier Reach Sanitarium
-1 Force of Negation
-2 Echo of Eons
-2 Force of Negation
-3 Narset, Parter of Veils
-3 Force of Negation
-4 Fatal Push
 2 Hallowed Fountain
 3 Mystic Sanctuary
 3 Chromatic Star

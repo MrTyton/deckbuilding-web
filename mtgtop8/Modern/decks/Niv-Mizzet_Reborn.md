@@ -43,11 +43,11 @@
 |--------------------:|-------------------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    3|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)             |                     |              |
 |                    3|[Uro, Titan of Nature's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476480)|                     |              |
-|                    3|[Wrenn and Six](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464166)               |                     |              |
 |                    3|[Niv-Mizzet Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461135)           |                     |              |
 |                    3|[Bring to Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401831)              |                     |              |
 |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)        |                     |              |
 |                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)             |                     |              |
+|                    3|[Wrenn and Six](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464166)               |                     |              |
 |                    3|[Utopia Sprawl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442181)               |                     |              |
 |                    3|[Kaya's Guile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464154)                |                     |              |
 |                    3|[Abundant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240017)             |                     |              |

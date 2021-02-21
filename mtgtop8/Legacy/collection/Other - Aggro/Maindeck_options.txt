@@ -1,6 +1,7 @@
 2 Polluted Delta
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
+1 Snow-Covered Swamp
 1 Sunbaked Canyon
 1 Arid Mesa
 1 Blood Crypt
@@ -16,7 +17,6 @@
 1 Faithless Looting
 1 Thunderkin Awakener
 1 Ball Lightning
-1 Snow-Covered Swamp
 2 Bloodstained Mire
 2 Cavern of Souls
 2 Blood Crypt
@@ -53,7 +53,6 @@
 1 Karakas
 1 Chrome Mox
 2 Chrome Mox
-1 Flooded Strand
 1 Tundra
 1 Force of Negation
 1 Ethereal Armor
@@ -64,6 +63,7 @@
 1 Staggering Insight
 1 Curious Obsession
 1 Curiosity
+1 Flooded Strand
 1 Brazen Borrower
 2 Snow-Covered Island
 2 Force of Negation
@@ -106,8 +106,8 @@
 1 Leyline of the Void
 1 Trinisphere
 1 Sorcerous Spyglass
-1 Chalice of the Void
 1 Helm of Obedience
+1 Chalice of the Void
 1 Pack Rat
 1 Eliminate
 1 Swamp
@@ -119,16 +119,16 @@
 2 Eliminate
 2 Opposition Agent
 2 Leyline of the Void
-2 Chalice of the Void
 2 Pack Rat
+2 Chalice of the Void
 2 Swamp
 2 Karn, the Great Creator
 2 Plague Engineer
 2 Archfiend of Ifnir
 2 Liliana of the Veil
-3 Eliminate
 3 Swamp
 3 Opposition Agent
+3 Eliminate
 3 Leyline of the Void
 3 Plague Engineer
 3 Pack Rat
@@ -188,14 +188,14 @@
 3 Aether Vial
 3 Goblin Engineer
 4 Snow-Covered Mountain
-4 Magmatic Channeler
 4 Aether Vial
 4 Imperial Recruiter
 4 Goblin Engineer
+4 Magmatic Channeler
 4 Tangle Wire
 4 Goblin Welder
 5 Snow-Covered Mountain
-6 Snow-Covered Mountain
 7 Snow-Covered Mountain
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
+6 Snow-Covered Mountain

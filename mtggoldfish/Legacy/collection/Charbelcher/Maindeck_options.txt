@@ -42,10 +42,10 @@
 2 Preordain
 2 Brainstorm
 2 Force of Will
+3 Ponder
 3 Sea Gate Restoration
 3 Force of Will
 3 Brainstorm
-3 Ponder
 4 Sea Gate Restoration
 4 Ponder
 4 Brainstorm
@@ -74,8 +74,8 @@
 2 Irencrag Feat
 1 Pyretic Ritual
 2 Pyretic Ritual
-1 Leyline of Anticipation
 1 Once Upon a Time
+1 Leyline of Anticipation
 2 Once Upon a Time
 2 Leyline of Anticipation
 3 Leyline of Anticipation
@@ -89,54 +89,54 @@
 2 Chancellor of the Annex
 3 Manamorphose
 4 Manamorphose
-1 Mountain
-1 Pithing Needle
-1 Solitary Confinement
+1 Mox Diamond
+1 Trinisphere
+1 Rest in Peace
+1 Plains
+1 Helm of Obedience
 1 Orim's Chant
+1 Solitary Confinement
+1 Pithing Needle
 1 Wrath of God
 1 Runed Halo
-1 Blood Moon
-1 Rest in Peace
 1 Aura of Silence
+1 Swords to Plowshares
 1 Banishing Light
-1 Helm of Obedience
-1 Ghostly Prison
+1 Blood Moon
 1 Scroll Rack
 1 Humility
 1 Elspeth, Knight-Errant
-1 Trinisphere
+1 Mountain
 1 Land Tax
 1 Zuran Orb
-1 Mox Diamond
 1 Enlightened Tutor
-1 Plains
+1 Ghostly Prison
 1 Undiscovered Paradise
-1 Swords to Plowshares
+2 Helm of Obedience
+2 Orim's Chant
+2 Plains
 2 Banishing Light
 2 Wrath of God
-2 Helm of Obedience
 2 Rest in Peace
+2 Swords to Plowshares
 2 Enlightened Tutor
 2 Undiscovered Paradise
-2 Plains
-2 Swords to Plowshares
 2 Scroll Rack
 2 Land Tax
-2 Orim's Chant
 3 Banishing Light
-3 Enlightened Tutor
 3 Orim's Chant
-3 Plains
 3 Swords to Plowshares
 3 Rest in Peace
+3 Enlightened Tutor
+3 Plains
 3 Land Tax
 3 Scroll Rack
 4 Orim's Chant
 4 Land Tax
 4 Plains
 4 Enlightened Tutor
-5 Plains
 6 Plains
+7 Plains
 8 Plains
 9 Plains
 10 Plains
@@ -146,4 +146,4 @@
 14 Plains
 15 Plains
 16 Plains
-7 Plains
+5 Plains

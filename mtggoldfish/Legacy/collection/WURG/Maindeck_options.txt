@@ -3,16 +3,16 @@
 1 Preordain
 2 Preordain
 2 Scalding Tarn
-1 Underground Sea
 1 Polluted Delta
+1 Underground Sea
 2 Polluted Delta
 3 Polluted Delta
 1 Karakas
 1 Pyroblast
 2 Wasteland
 3 Wasteland
-1 Archon of Emeria
 1 Lavinia, Azorius Renegade
+1 Archon of Emeria
 1 Noble Hierarch
 1 Windswept Heath
 2 Tundra
@@ -28,8 +28,8 @@
 4 Archon of Emeria
 4 Noble Hierarch
 1 Narset, Parter of Veils
-1 Snow-Covered Swamp
 1 Abrupt Decay
+1 Snow-Covered Swamp
 2 Abrupt Decay
 3 Abrupt Decay
 4 Wasteland
@@ -37,20 +37,20 @@
 1 Drown in the Loch
 1 Cling to Dust
 4 Polluted Delta
-1 Bayou
-1 Punishing Fire
+1 Life from the Loam
 1 Grove of the Burnwillows
+1 Punishing Fire
 1 Magmatic Channeler
 1 Dack Fayden
-1 Mystic Sanctuary
 1 Assassin's Trophy
+1 Mystic Sanctuary
 1 Taiga
-1 Entomb
 1 Echo of Eons
-1 Life from the Loam
-2 Grove of the Burnwillows
-2 Punishing Fire
+1 Bayou
+1 Entomb
 2 Dack Fayden
+2 Punishing Fire
+2 Grove of the Burnwillows
 2 Magmatic Channeler
 2 Assassin's Trophy
 3 Teferi, Time Raveler
@@ -60,11 +60,6 @@
 3 Preordain
 3 Counterbalance
 3 Snow-Covered Island
-1 Leovold, Emissary of Trest
-2 Snow-Covered Forest
-2 Volcanic Island
-2 Leovold, Emissary of Trest
-4 Abrupt Decay
 2 Spell Pierce
 3 Lightning Bolt
 4 Lightning Bolt
@@ -76,28 +71,32 @@
 3 Tundra
 3 Lavinia, Azorius Renegade
 4 Tarmogoyf
-1 Scavenging Ooze
-1 Daze
-1 Savannah
+1 Leovold, Emissary of Trest
+2 Snow-Covered Forest
+2 Volcanic Island
+2 Leovold, Emissary of Trest
+4 Abrupt Decay
 1 Forest
+1 Savannah
+1 Daze
+1 Scavenging Ooze
 2 Daze
 3 Daze
 4 Windswept Heath
 4 Daze
-1 Marsh Flats
 1 Swamp
+1 Marsh Flats
 1 Bitterblossom
 1 Spellstutter Sprite
-1 Plague Engineer
 1 Nighthawk Scavenger
 1 Brazen Borrower
 1 Thieves' Guild Enforcer
 1 Soaring Thought-Thief
 1 Quickling
 1 Cunning Nightbonder
+1 Plague Engineer
 2 Drown in the Loch
 2 Island
-2 Underground Sea
 2 Swamp
 2 Cling to Dust
 2 Spellstutter Sprite
@@ -106,6 +105,7 @@
 2 Bitterblossom
 2 Soaring Thought-Thief
 2 Marsh Flats
+2 Underground Sea
 2 Cunning Nightbonder
 3 Drown in the Loch
 3 Underground Sea

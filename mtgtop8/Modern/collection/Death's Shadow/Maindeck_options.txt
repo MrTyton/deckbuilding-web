@@ -1,14 +1,15 @@
-2 Swamp
-3 Marsh Flats
 1 Wooded Foothills
 2 Wooded Foothills
 1 Silent Clearing
-1 Seal of Fire
-4 Marsh Flats
 2 Silent Clearing
-1 Snow-Covered Swamp
+2 Sunbaked Canyon
 3 Inquisition of Kozilek
+2 Swamp
+4 Marsh Flats
+1 Snow-Covered Swamp
 2 Polluted Delta
+1 Seal of Fire
+3 Polluted Delta
 1 Stomping Ground
 1 Overgrown Tomb
 2 Kolaghan's Command
@@ -36,29 +37,59 @@
 2 Tarmogoyf
 3 Tarmogoyf
 4 Tarmogoyf
-3 Polluted Delta
-1 Surgical Extraction
-1 Agadeem's Awakening
-2 Snow-Covered Swamp
-2 Surgical Extraction
+1 Stubborn Denial
+1 Watery Grave
+1 Drown in the Loch
+1 Snapcaster Mage
+1 Island
+1 Scalding Tarn
+1 Steam Vents
+1 Thought Scour
+2 Stubborn Denial
+2 Thought Scour
+2 Scalding Tarn
+2 Watery Grave
+3 Stubborn Denial
+3 Thought Scour
+4 Stubborn Denial
+4 Polluted Delta
+4 Thought Scour
 1 Assassin's Trophy
 1 Forest
 2 Stomping Ground
 2 Nurturing Peatland
 3 Kroxa, Titan of Death's Hunger
-1 Unearth
+1 Gurmag Angler
+1 Street Wraith
+2 Gurmag Angler
+2 Snapcaster Mage
+2 Street Wraith
+3 Street Wraith
+3 Gurmag Angler
+4 Street Wraith
+4 Gurmag Angler
+2 Drown in the Loch
 1 Cling to Dust
+1 Unearth
 1 Lurrus of the Dream-Den
-1 Snow-Covered Mountain
+1 Egon, God of Death
 2 Assassin's Trophy
 1 Giver of Runes
 2 Giver of Runes
 2 Unearth
+1 Surgical Extraction
+1 Agadeem's Awakening
+2 Snow-Covered Swamp
+2 Surgical Extraction
 2 Overgrown Tomb
 1 Wrenn and Six
 2 Wrenn and Six
 2 Seal of Fire
-3 Night's Whisper
+1 Fiery Islet
+1 Magmatic Channeler
+1 Claim / Fame
+2 Magmatic Channeler
+3 Magmatic Channeler
 3 Arid Mesa
 3 Lingering Souls
 4 Lingering Souls
@@ -71,35 +102,10 @@
 2 Mountain
 3 Wooded Foothills
 3 Soul-Scar Mage
-3 Sunbaked Canyon
 3 Mountain
+3 Sunbaked Canyon
 4 Soul-Scar Mage
 4 Sunbaked Canyon
-1 Egon, God of Death
-1 Stubborn Denial
-1 Watery Grave
-1 Gurmag Angler
-1 Drown in the Loch
-1 Snapcaster Mage
-1 Island
-1 Street Wraith
-1 Thought Scour
-1 Steam Vents
-1 Scalding Tarn
-2 Stubborn Denial
-2 Gurmag Angler
-2 Snapcaster Mage
-2 Thought Scour
-2 Scalding Tarn
-2 Drown in the Loch
-2 Watery Grave
-2 Street Wraith
-3 Stubborn Denial
-3 Street Wraith
-3 Thought Scour
-3 Gurmag Angler
-4 Stubborn Denial
-4 Polluted Delta
-4 Street Wraith
-4 Thought Scour
-4 Gurmag Angler
+1 Opt
+3 Snapcaster Mage
+3 Scalding Tarn

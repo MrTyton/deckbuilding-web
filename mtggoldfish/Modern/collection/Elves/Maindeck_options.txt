@@ -2,9 +2,9 @@
 3 Elvish Warmaster
 4 Elvish Warmaster
 1 Overgrown Tomb
-4 Cavern of Souls
-4 Nurturing Peatland
 3 Realmwalker
+4 Realmwalker
+4 Cavern of Souls
 1 Turntimber Symbiosis
 2 Turntimber Symbiosis
 3 Turntimber Symbiosis
@@ -16,7 +16,7 @@
 2 Snow-Covered Forest
 3 Snow-Covered Forest
 3 Ezuri, Renegade Leader
-4 Realmwalker
+4 Nurturing Peatland
 1 Joraga Warcaller
 7 Forest
 1 Bramblewood Paragon
@@ -27,16 +27,17 @@
 3 Growth-Chamber Guardian
 3 Bramblewood Paragon
 4 Growth-Chamber Guardian
-1 Scavenging Ooze
-1 Westvale Abbey
 2 Overgrown Tomb
+1 Scavenging Ooze
 8 Forest
 1 Wildborn Preserver
-2 Scavenging Ooze
 2 Wildborn Preserver
-4 Snow-Covered Forest
+2 Scavenging Ooze
+1 Westvale Abbey
 1 Verdant Catacombs
 2 Verdant Catacombs
+4 Snow-Covered Forest
+3 Verdant Catacombs
 1 Windswept Heath
 2 Windswept Heath
 5 Snow-Covered Forest
@@ -47,13 +48,12 @@
 11 Forest
 3 Joraga Warcaller
 4 Bramblewood Paragon
-3 Verdant Catacombs
 1 Devoted Druid
 2 Devoted Druid
 3 Devoted Druid
 4 Devoted Druid
-1 Chord of Calling
 1 Elvish Visionary
+1 Chord of Calling
 2 Elvish Visionary
 3 Elvish Visionary
 4 Elvish Visionary
@@ -74,20 +74,20 @@
 2 Lead the Stampede
 3 Lead the Stampede
 1 Winding Way
-1 Elvish Champion
-2 Elvish Champion
 1 Nykthos, Shrine to Nyx
 2 Chord of Calling
 1 Mutavault
 1 Skemfar Avenger
 2 Skemfar Avenger
-2 Craterhoof Behemoth
-1 Okina, Temple to the Grandfathers
 1 Eternal Witness
 1 Reclamation Sage
+1 Okina, Temple to the Grandfathers
 1 Horizon Canopy
-2 Nykthos, Shrine to Nyx
+1 Elvish Champion
 2 Horizon Canopy
+2 Nykthos, Shrine to Nyx
+2 Elvish Champion
+2 Craterhoof Behemoth
 1 Essence Warden
 1 Evolutionary Leap
 2 Essence Warden
@@ -109,23 +109,17 @@
 1 Gilt-Leaf Archdruid
 2 Elves of Deep Shadow
 2 Gilt-Leaf Archdruid
-3 Gilt-Leaf Archdruid
 3 Elves of Deep Shadow
+3 Gilt-Leaf Archdruid
 4 Elves of Deep Shadow
 4 Gilt-Leaf Archdruid
 1 Castle Garenbrig
 1 Beast Whisperer
 2 Castle Garenbrig
-2 Beast Whisperer
 2 Winding Way
+2 Beast Whisperer
 3 Beast Whisperer
 4 Beast Whisperer
-1 Imperious Perfect
-2 Imperious Perfect
-3 Elvish Champion
-3 Imperious Perfect
-4 Elvish Champion
-4 Imperious Perfect
 12 Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest
