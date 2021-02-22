@@ -1,54 +1,49 @@
-2 Negate
-2 Island
 3 Plains
+3 Emeria's Call
+4 Emeria's Call
 4 Plains
+4 Heartless Act
 1 Temple of Deceit
 1 Archon of Sun's Grace
 2 Archon of Sun's Grace
 4 Elspeth Conquers Death
+1 Glass Casket
+2 Glass Casket
 1 The Raven's Warning
 2 The Raven's Warning
 2 Temple of Deceit
 4 Extinction Event
 3 Island
 4 Island
-4 Heartless Act
-1 Glass Casket
-2 Glass Casket
 3 Negate
 3 Temple of Deceit
 1 Golden Egg
 2 Eliminate
 3 Archon of Sun's Grace
 3 Eliminate
+4 Swamp
+3 Treacherous Blessing
 1 Skyclave Apparition
 2 Skyclave Apparition
 3 Skyclave Apparition
 4 Skyclave Apparition
-4 Swamp
-3 Treacherous Blessing
+3 Temple of Silence
+1 Forest
 1 Binding the Old Gods
+1 Eerie Ultimatum
 1 Indatha Triome
+1 Branchloft Pathway
 2 Binding the Old Gods
+2 Forest
 2 Indatha Triome
+2 Branchloft Pathway
 3 Indatha Triome
 3 Binding the Old Gods
+3 Branchloft Pathway
 4 Indatha Triome
 4 Binding the Old Gods
-3 Temple of Silence
-2 Golden Egg
-3 Golden Egg
-4 Golden Egg
-1 Forest
-1 Eerie Ultimatum
-1 Branchloft Pathway
-2 Forest
-2 Branchloft Pathway
-3 Branchloft Pathway
-1 Darkbore Pathway
-2 Darkbore Pathway
-1 Firja's Retribution
-2 Firja's Retribution
+1 Gates of Istfell
+2 Gates of Istfell
 1 Shadows' Verdict
 3 Omen of the Sun
 1 Shark Typhoon
@@ -59,14 +54,15 @@
 1 Temple of Malady
 2 Temple of Plenty
 4 Branchloft Pathway
+2 Golden Egg
+3 Golden Egg
+4 Golden Egg
+1 Darkbore Pathway
 1 Llanowar Visionary
 2 Eerie Ultimatum
+2 Darkbore Pathway
 2 Llanowar Visionary
 3 Llanowar Visionary
-1 Temple of Enlightenment
-3 Firja's Retribution
-3 Darkbore Pathway
-4 Darkbore Pathway
 5 Plains
 6 Plains
 1 Showdown of the Skalds
@@ -85,8 +81,8 @@
 2 Seasoned Hallowblade
 2 Giant Killer
 2 Bonecrusher Giant
-2 Needleverge Pathway
 2 Mountain
+2 Needleverge Pathway
 3 Usher of the Fallen
 3 Seasoned Hallowblade
 3 Giant Killer
@@ -100,10 +96,11 @@
 4 Needleverge Pathway
 5 Mountain
 7 Plains
-1 Gates of Istfell
+3 Glass Casket
 1 Banishing Light
-2 Gates of Istfell
 2 Banishing Light
+1 Firja's Retribution
+2 Firja's Retribution
 1 Goldspan Dragon
 1 Embercleave
 1 Robber of the Rich
@@ -149,9 +146,11 @@
 2 The World Tree
 2 Burning-Rune Demon
 2 Castle Locthwain
+3 Darkbore Pathway
 3 The World Tree
 3 In Search of Greatness
 3 Path to the World Tree
+4 Darkbore Pathway
 4 The World Tree
 4 Path to the World Tree
 1 Tergrid, God of Fright
@@ -160,20 +159,11 @@
 2 Fae of Wishes
 2 Doomskar
 2 Tergrid, God of Fright
+3 Doomskar
 3 The Birth of Meletis
 3 Fae of Wishes
-3 Glass Casket
-3 Doomskar
 4 Doomskar
 4 The Birth of Meletis
-1 Zagoth Triome
-1 Barkchannel Pathway
-2 Barkchannel Pathway
-2 Zagoth Triome
-3 Barkchannel Pathway
-3 Zagoth Triome
-4 Barkchannel Pathway
-4 Zagoth Triome
 1 Archon of Emeria
 1 Soul Shatter
 1 Jwari Disruption
@@ -186,15 +176,17 @@
 1 Blightstep Pathway
 1 Savai Triome
 1 Riverglide Pathway
+1 Temple of Enlightenment
 1 Raugrin Triome
 2 Blightstep Pathway
 2 Savai Triome
 2 Riverglide Pathway
 2 Raugrin Triome
 3 Savai Triome
+3 Firja's Retribution
 3 Blightstep Pathway
-3 Riverglide Pathway
 3 Raugrin Triome
+3 Riverglide Pathway
 4 Raugrin Triome
 4 Savai Triome
 4 Riverglide Pathway

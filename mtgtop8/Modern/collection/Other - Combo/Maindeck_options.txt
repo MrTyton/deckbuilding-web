@@ -2,7 +2,6 @@
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
-1 Spikefield Hazard
 1 Valakut Awakening
 1 Bala Ged Recovery
 1 Irencrag Feat
@@ -11,8 +10,9 @@
 1 Reforge the Soul
 1 Desperate Ritual
 1 Pyretic Ritual
-2 Valakut Awakening
+1 Spikefield Hazard
 2 Bala Ged Recovery
+2 Valakut Awakening
 2 Irencrag Feat
 2 Pyretic Ritual
 2 Spikefield Hazard
@@ -20,8 +20,8 @@
 2 Recross the Paths
 2 Shatterskull Smashing
 2 Desperate Ritual
-3 Valakut Awakening
 3 Spikefield Hazard
+3 Valakut Awakening
 3 Goblin Charbelcher
 3 Irencrag Feat
 3 Manamorphose
@@ -125,9 +125,9 @@
 2 Blackcleave Cliffs
 3 Magus of the Moon
 3 Verdant Catacombs
-3 Demonic Dread
 3 Seasoned Pyromancer
 3 Blackcleave Cliffs
+3 Demonic Dread
 3 Bloodbraid Elf
 4 Verdant Catacombs
 4 Seasoned Pyromancer
@@ -270,10 +270,10 @@
 4 Chromatic Star
 4 Grinding Station
 4 Emry, Lurker of the Loch
-1 Lotus Field
-1 Wishclaw Talisman
 1 Peer Through Depths
+1 Wishclaw Talisman
 1 Silundi Vision
+1 Lotus Field
 1 Sleight of Hand
 1 Serum Visions
 1 Ideas Unbound
@@ -287,8 +287,8 @@
 1 Dream's Grip
 1 Merchant Scroll
 2 Watery Grave
-2 Lotus Field
 2 Peer Through Depths
+2 Lotus Field
 2 Darkslick Shores
 2 Sleight of Hand
 2 Psychic Puppetry
@@ -324,28 +324,28 @@
 1 Transmogrify
 1 Izzet Charm
 1 Dwarven Mine
+1 Delay
 1 Bloodstained Mire
 1 Polymorph
 1 Remand
-1 Delay
 1 Mass Hysteria
-2 Dwarven Mine
 2 Opt
 2 Transmogrify
 2 Delay
 2 Izzet Charm
 2 Bloodstained Mire
+2 Dwarven Mine
 2 Mass Hysteria
 2 Remand
 2 Lightning Bolt
 2 Polymorph
 3 Arid Mesa
-3 Dwarven Mine
 3 Opt
 3 Transmogrify
 3 Remand
 3 Lightning Bolt
 3 Polymorph
+3 Dwarven Mine
 3 Mass Hysteria
 4 Remand
 4 Transmogrify
@@ -362,49 +362,49 @@
 2 Warrant / Warden
 3 Supreme Verdict
 4 Brazen Borrower
+1 Temple of Triumph
 1 Nykthos, Shrine to Nyx
 1 Oust
 1 Solemnity
+1 Dovescape
 1 Wheel of Sun and Moon
 1 Marsh Flats
-1 Overwhelming Splendor
 1 Silence
+1 Nine Lives
 1 Deafening Clarion
-1 Dovescape
+1 Overwhelming Splendor
 1 Treasure Map
 1 Skyclave Apparition
 1 Form of the Dragon
-1 Nine Lives
 1 Plains
-1 Temple of Triumph
 1 Mistveil Plains
 1 Enduring Ideal
 1 Lotus Bloom
 1 Phyrexian Unlife
+2 Temple of Triumph
 2 Nykthos, Shrine to Nyx
 2 Oust
 2 Silence
 2 Marsh Flats
+2 Nine Lives
 2 Enduring Ideal
 2 Plains
-2 Temple of Triumph
 2 Sacred Foundry
 2 Phyrexian Unlife
 2 Form of the Dragon
 2 Skyclave Apparition
-2 Nine Lives
 2 Treasure Map
 2 Solemnity
 2 Lotus Bloom
 3 Plains
 3 Skyclave Apparition
-3 Oust
 3 Sacred Foundry
 3 Marsh Flats
+3 Silence
 3 Solemnity
 3 Lotus Bloom
-3 Silence
 3 Enduring Ideal
+3 Oust
 3 Nine Lives
 4 Plains
 4 Sacred Foundry

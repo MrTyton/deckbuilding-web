@@ -21,17 +21,17 @@
 1 Birds of Paradise
 1 Windswept Heath
 1 Wooded Foothills
-2 Windswept Heath
 2 Birds of Paradise
+2 Windswept Heath
 2 Wooded Foothills
 2 Stomping Ground
 3 Birds of Paradise
-3 Wooded Foothills
 3 Windswept Heath
+3 Wooded Foothills
 4 Birds of Paradise
-1 Copperline Gorge
 1 Voice of Resurgence
 1 Eldritch Evolution
+1 Copperline Gorge
 1 Strangleroot Geist
 2 Temple Garden
 2 Voice of Resurgence
@@ -59,8 +59,8 @@
 2 Phyrexian Revoker
 2 Smuggler's Copter
 3 Lightning Bolt
-1 Snow-Covered Mountain
 1 Snow-Covered Forest
+1 Snow-Covered Mountain
 4 Arbor Elf
 1 Geist-Honored Monk
 2 Geist-Honored Monk
@@ -79,8 +79,8 @@
 4 Llanowar Elves
 1 Embercleave
 2 Mountain
-1 Snow-Covered Plains
 1 Resolute Blademaster
+1 Snow-Covered Plains
 1 Rugged Prairie
 2 Rugged Prairie
 1 Horizon Canopy
@@ -95,10 +95,10 @@
 2 Godo, Bandit Warlord
 3 Godo, Bandit Warlord
 4 Godo, Bandit Warlord
+1 Reflecting Pool
 1 Unclaimed Territory
 1 Meddling Mage
 1 Blade Splicer
-1 Reflecting Pool
 1 Alirios, Enraptured
 1 Ancient Ziggurat
 1 Kitesail Freebooter
@@ -110,12 +110,12 @@
 1 Champion of the Parish
 1 Avacyn's Pilgrim
 1 Flooded Strand
+2 Reflecting Pool
 2 Alirios, Enraptured
 2 Meddling Mage
 2 Blade Splicer
 2 Unclaimed Territory
 2 Ancient Ziggurat
-2 Reflecting Pool
 2 Noble Hierarch
 2 Avacyn's Pilgrim
 2 Flooded Strand
@@ -123,6 +123,7 @@
 2 Thalia's Lieutenant
 2 Champion of the Parish
 2 Kitesail Freebooter
+3 Reflecting Pool
 3 Meddling Mage
 3 Charming Prince
 3 Blade Splicer
@@ -134,8 +135,8 @@
 3 Ancient Ziggurat
 3 Thalia's Lieutenant
 3 Kitesail Freebooter
-3 Reflecting Pool
 3 Noble Hierarch
+4 Reflecting Pool
 4 Blade Splicer
 4 Unclaimed Territory
 4 Smuggler's Copter
@@ -145,7 +146,6 @@
 4 Ancient Ziggurat
 4 Thalia's Lieutenant
 4 Meddling Mage
-4 Reflecting Pool
 4 Noble Hierarch
 4 Flooded Strand
 4 Cavern of Souls
@@ -155,6 +155,15 @@
 1 Drannith Magistrate
 2 Drannith Magistrate
 3 Drannith Magistrate
+1 Brushfire Elemental
+1 Gilded Goose
+1 Rampaging Ferocidon
+1 Banisher Priest
+2 Arid Mesa
+2 Brushfire Elemental
+2 Gilded Goose
+3 Gilded Goose
+4 Voice of Resurgence
 1 Avalanche Riders
 1 Utopia Sprawl
 1 Pia Nalaar
@@ -170,14 +179,5 @@
 4 Huntmaster of the Fells
 4 Utopia Sprawl
 4 Forest
-4 Goblin Rabblemaster
 5 Forest
-1 Gilded Goose
-1 Brushfire Elemental
-1 Rampaging Ferocidon
-1 Banisher Priest
-2 Arid Mesa
-2 Brushfire Elemental
-2 Gilded Goose
-3 Gilded Goose
-4 Voice of Resurgence
+4 Goblin Rabblemaster

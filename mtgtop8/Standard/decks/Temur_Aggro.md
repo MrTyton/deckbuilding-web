@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Temur%20Aggro/Temur%20Aggro.txt)
 #### [Export Arena List](../collection/Temur%20Aggro/Temur%20Aggro_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Barkchannel%20Pathway%0A4%09Bonecrusher%20Giant%0A4%09Brazen%20Borrower%0A4%09Cragcrown%20Pathway%0A3%09Disdainful%20Stroke%0A4%09Edgewall%20Innkeeper%0A4%09Fabled%20Passage%0A2%09Forest%0A4%09Goldspan%20Dragon%0A1%09Island%0A4%09Kazandu%20Mammoth%0A4%09Ketria%20Triome%0A4%09Lovestruck%20Beast%0A1%09Mountain%0A2%09Mystical%20Dispute%0A2%09Negate%0A4%09Riverglide%20Pathway%0A2%09Shatterskull%20Smashing%0A3%09The%20Great%20Henge%0A2%09Toski,%20Bearer%20of%20Secrets&deckside=2%09Klothys,%20God%20of%20Destiny%0A3%09Ox%20of%20Agonas%0A3%09Scavenging%20Ooze%0A4%09Scorching%20Dragonfire%0A1%09The%20Akroan%20War%0A2%09Wilt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=2%09Barkchannel%20Pathway%0A4%09Bonecrusher%20Giant%0A4%09Brazen%20Borrower%0A4%09Cragcrown%20Pathway%0A3%09Disdainful%20Stroke%0A4%09Edgewall%20Innkeeper%0A4%09Fabled%20Passage%0A2%09Forest%0A4%09Goldspan%20Dragon%0A1%09Island%0A4%09Kazandu%20Mammoth%0A4%09Ketria%20Triome%0A4%09Lovestruck%20Beast%0A1%09Mountain%0A2%09Mystical%20Dispute%0A2%09Negate%0A4%09Riverglide%20Pathway%0A2%09Shatterskull%20Smashing%0A3%09The%20Great%20Henge%0A2%09Toski,%20Bearer%20of%20Secrets&deckside=2%09Broken%20Wings%0A2%09Elder%20Gargaroth%0A2%09Koma,%20Cosmos%20Serpent%0A3%09Mystical%20Dispute%0A1%09Obosh,%20the%20Preypiercer%0A3%09Ox%20of%20Agonas%0A2%09Soul%20Sear)
 # Maindeck
 
 |                                        Artifact (3)                                        |                                         Creature (20)                                         |                                         Instant (7)                                          |                                           Land (20)                                           |                                           Sorcery (2)                                            |       Unknown (8)        |
@@ -18,9 +18,27 @@
 
 # Sideboard
 
-|                                            Creature (8)                                            |                                      Enchantment (1)                                      |                                           Instant (6)                                           |
-|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|2 [Klothys, God of Destiny](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476471)|1 [The Akroan War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476375)|4 [Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)|
-|3 [Ox of Agonas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476398)           |                                                                                           |2 [Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)                |
-|3 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)        |                                                                                           |                                                                                                 |
+|                                           Creature (6)                                            |                                         Instant (7)                                         |     Unknown (2)      |
+|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------|
+|2 [Elder Gargaroth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485502)       |2 [Broken Wings](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491827)    |2 Koma, Cosmos Serpent|
+|1 [Obosh, the Preypiercer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479748)|3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                      |
+|3 [Ox of Agonas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476398)          |2 [Soul Sear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485483)       |                      |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
+|                    1|[Spikefield Hazard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491809)|                    1|[Klothys, God of Destiny](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476471)|
+|                    1|Saw It Coming                                                                               |                    1|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)                   |
+|                    1|Alrund's Epiphany                                                                           |                    1|[The Akroan War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476375)         |
+|                    1|[Miscast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485380)          |                    1|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)        |
+|                    2|[Spikefield Hazard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491809)|                    1|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)   |
+|                    2|Alrund's Epiphany                                                                           |                    2|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)        |
+|                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)         |                    2|[Klothys, God of Destiny](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476471)|
+|                    2|Saw It Coming                                                                               |                    2|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)                   |
+|                    3|Barkchannel Pathway                                                                         |                    3|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)   |
+|                    4|Barkchannel Pathway                                                                         |                    3|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)        |
+|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                    4|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)   |
+|                     |                                                                                            |                    2|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)   |
 

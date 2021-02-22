@@ -92,9 +92,9 @@
 1 Forest
 1 Barkchannel Pathway
 1 Branchloft Pathway
-2 Forest
 2 Barkchannel Pathway
 2 Branchloft Pathway
+2 Forest
 3 Barkchannel Pathway
 3 Branchloft Pathway
 1 Ondu Inversion
@@ -153,8 +153,8 @@
 3 Eliminate
 1 Indatha Triome
 2 Indatha Triome
-4 Barkchannel Pathway
 4 Branchloft Pathway
+4 Barkchannel Pathway
 1 Starnheim Unleashed
 1 Elspeth, Sun's Nemesis
 1 Deliberate
@@ -167,10 +167,10 @@
 4 Tranquil Cove
 1 Opt
 2 Opt
-1 Dismal Backwater
 1 Heartless Act
-2 Dismal Backwater
+1 Dismal Backwater
 2 Heartless Act
+2 Dismal Backwater
 3 Dismal Backwater
 4 Dismal Backwater
 1 Bala Ged Recovery
@@ -183,43 +183,43 @@
 3 Castle Vantress
 3 Graven Lore
 4 Faceless Haven
-1 Riverglide Pathway
-1 Valakut Awakening
-1 Fire Prophecy
-1 Scorching Dragonfire
-1 Lukka, Coppercoat Outcast
-1 Shatterskull Smashing
-1 Transmogrify
-1 Mountain
-2 Lukka, Coppercoat Outcast
-2 Fire Prophecy
-2 Shatterskull Smashing
-2 Transmogrify
-2 Riverglide Pathway
-3 Lukka, Coppercoat Outcast
-3 Fire Prophecy
-3 Transmogrify
-3 Riverglide Pathway
-4 Fire Prophecy
-4 Riverglide Pathway
-4 Transmogrify
 1 Swift Response
 2 Swift Response
 4 Evolving Wilds
 1 Elspeth's Nightmare
 1 Ice Tunnel
-2 Glacial Floodplain
 2 Realm-Cloaked Giant
 2 Ice Tunnel
+2 Glacial Floodplain
 3 Ice Tunnel
 3 Glacial Floodplain
 4 Glacial Floodplain
+1 Riverglide Pathway
+1 Scorching Dragonfire
+1 Transmogrify
+1 Valakut Awakening
+1 Mountain
+1 Shatterskull Smashing
+1 Lukka, Coppercoat Outcast
+1 Fire Prophecy
+2 Riverglide Pathway
+2 Fire Prophecy
+2 Lukka, Coppercoat Outcast
+2 Transmogrify
+2 Shatterskull Smashing
+3 Riverglide Pathway
+3 Transmogrify
+3 Fire Prophecy
+3 Lukka, Coppercoat Outcast
+4 Riverglide Pathway
+4 Transmogrify
+4 Fire Prophecy
 1 Vorinclex, Monstrous Raider
 1 Binding the Old Gods
-1 Bind the Monster
 1 Sentinel's Eyes
 1 Eerie Ultimatum
 1 Enigmatic Incarnation
+1 Bind the Monster
 1 In Search of Greatness
 1 Setessan Champion
 1 Zagoth Triome
@@ -269,20 +269,20 @@
 3 Feed the Serpent
 4 Swamp
 4 Scoured Barrens
-1 Wolfwillow Haven
 1 Vivien, Monsters' Advocate
+1 Wolfwillow Haven
 1 Garruk, Cursed Huntsman
 1 Darkbore Pathway
 1 Beanstalk Giant
 1 Yasharn, Implacable Earth
-2 Wolfwillow Haven
 2 Vivien, Monsters' Advocate
+2 Wolfwillow Haven
 2 Garruk, Cursed Huntsman
 2 Darkbore Pathway
 2 Yasharn, Implacable Earth
 2 Beanstalk Giant
-3 Wolfwillow Haven
 3 Darkbore Pathway
+3 Wolfwillow Haven
 3 Beanstalk Giant
 4 Beanstalk Giant
 4 Wolfwillow Haven
@@ -337,12 +337,12 @@
 1 Snow-Covered Forest
 1 Scavenging Ooze
 1 Tangled Florahedron
-1 Lovestruck Beast
 1 Gilded Goose
 1 Gemrazer
 1 Blizzard Brawl
 1 Castle Garenbrig
 1 Bonders' Enclave
+1 Lovestruck Beast
 1 Old-Growth Troll
 1 Wicked Wolf
 1 The Great Henge
@@ -354,7 +354,6 @@
 2 Vorinclex, Monstrous Raider
 2 Scavenging Ooze
 2 Tangled Florahedron
-2 Lovestruck Beast
 2 Gilded Goose
 2 Gemrazer
 2 Kazandu Mammoth
@@ -365,12 +364,13 @@
 2 Witch's Oven
 2 Wicked Wolf
 2 The Great Henge
+2 Lovestruck Beast
 2 Bonders' Enclave
 3 Snow-Covered Forest
 3 Tangled Florahedron
-3 Lovestruck Beast
 3 Gilded Goose
 3 Wicked Wolf
+3 Lovestruck Beast
 3 Trail of Crumbs
 3 Old-Growth Troll
 3 Castle Garenbrig
