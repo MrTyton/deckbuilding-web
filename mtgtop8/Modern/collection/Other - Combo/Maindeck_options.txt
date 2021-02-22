@@ -2,28 +2,28 @@
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
+1 Irencrag Feat
+1 Spikefield Hazard
 1 Valakut Awakening
 1 Bala Ged Recovery
-1 Irencrag Feat
 1 Recross the Paths
 1 Manamorphose
 1 Reforge the Soul
 1 Desperate Ritual
 1 Pyretic Ritual
-1 Spikefield Hazard
+2 Irencrag Feat
+2 Spikefield Hazard
 2 Bala Ged Recovery
 2 Valakut Awakening
-2 Irencrag Feat
 2 Pyretic Ritual
-2 Spikefield Hazard
 2 Manamorphose
 2 Recross the Paths
 2 Shatterskull Smashing
 2 Desperate Ritual
+3 Irencrag Feat
 3 Spikefield Hazard
 3 Valakut Awakening
 3 Goblin Charbelcher
-3 Irencrag Feat
 3 Manamorphose
 3 Pact of Negation
 3 Desperate Ritual
@@ -31,9 +31,9 @@
 3 Pyretic Ritual
 3 Shatterskull Smashing
 3 Bala Ged Recovery
+4 Spikefield Hazard
 4 Valakut Awakening
 4 Goblin Charbelcher
-4 Spikefield Hazard
 4 Recross the Paths
 4 Pyretic Ritual
 4 Irencrag Feat
@@ -126,8 +126,8 @@
 3 Magus of the Moon
 3 Verdant Catacombs
 3 Seasoned Pyromancer
-3 Blackcleave Cliffs
 3 Demonic Dread
+3 Blackcleave Cliffs
 3 Bloodbraid Elf
 4 Verdant Catacombs
 4 Seasoned Pyromancer
@@ -138,10 +138,10 @@
 2 Mana Confluence
 1 Polluted Delta
 2 Polluted Delta
-1 Savai Triome
 1 Supreme Verdict
 1 Zagoth Triome
 1 Reflecting Pool
+1 Savai Triome
 1 Bonecrusher Giant
 3 Polluted Delta
 3 Brazen Borrower
@@ -187,7 +187,6 @@
 1 Tibalt's Trickery
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
-1 Tranquil Thicket
 1 Field of the Dead
 1 Tolaria West
 1 Sheltered Thicket
@@ -195,10 +194,8 @@
 1 Valakut, the Molten Pinnacle
 1 Hanweir Battlements
 1 Bojuka Bog
-1 Radiant Fountain
-1 Blast Zone
+1 Tranquil Thicket
 1 Castle Garenbrig
-1 Cavern of Souls
 1 Sunhome, Fortress of the Legion
 1 Crumbling Vestige
 1 Slayers' Stronghold
@@ -207,10 +204,13 @@
 1 Windswept Heath
 1 Gruul Guildgate
 1 Vesuva
+1 Blast Zone
 1 Jund Panorama
 1 Simic Growth Chamber
 1 Gruul Turf
+1 Cavern of Souls
 1 Grove of the Burnwillows
+1 Radiant Fountain
 2 Grove of the Burnwillows
 2 Field of the Dead
 2 Valakut, the Molten Pinnacle
@@ -232,11 +232,11 @@
 1 Underworld Breach
 2 Snow-Covered Island
 1 Snow-Covered Mountain
-1 Mishra's Bauble
 1 Engineered Explosives
-1 Thassa's Oracle
+1 Mishra's Bauble
 1 Metallic Rebuke
 1 Sai, Master Thopterist
+1 Thassa's Oracle
 1 Minamo, School at Water's Edge
 1 Grinding Station
 1 Chromatic Star
@@ -272,8 +272,9 @@
 4 Emry, Lurker of the Loch
 1 Peer Through Depths
 1 Wishclaw Talisman
-1 Silundi Vision
 1 Lotus Field
+1 Silundi Vision
+1 Darkslick Shores
 1 Sleight of Hand
 1 Serum Visions
 1 Ideas Unbound
@@ -283,14 +284,13 @@
 1 Psychic Puppetry
 1 Grapeshot
 1 Past in Flames
-1 Darkslick Shores
 1 Dream's Grip
 1 Merchant Scroll
 2 Watery Grave
 2 Peer Through Depths
 2 Lotus Field
-2 Darkslick Shores
 2 Sleight of Hand
+2 Darkslick Shores
 2 Psychic Puppetry
 2 Merchant Scroll
 2 Reach Through Mists
@@ -301,8 +301,8 @@
 2 Past in Flames
 2 Twiddle
 3 Lotus Field
-3 Darkslick Shores
 3 Sleight of Hand
+3 Darkslick Shores
 3 Serum Visions
 3 Ideas Unbound
 3 Snow-Covered Island
@@ -321,37 +321,37 @@
 4 Dream's Grip
 2 Arid Mesa
 1 Opt
-1 Transmogrify
 1 Izzet Charm
 1 Dwarven Mine
 1 Delay
 1 Bloodstained Mire
+1 Transmogrify
 1 Polymorph
 1 Remand
 1 Mass Hysteria
 2 Opt
-2 Transmogrify
 2 Delay
 2 Izzet Charm
 2 Bloodstained Mire
 2 Dwarven Mine
 2 Mass Hysteria
 2 Remand
+2 Transmogrify
 2 Lightning Bolt
 2 Polymorph
-3 Arid Mesa
 3 Opt
-3 Transmogrify
+3 Arid Mesa
 3 Remand
 3 Lightning Bolt
 3 Polymorph
+3 Transmogrify
 3 Dwarven Mine
 3 Mass Hysteria
 4 Remand
-4 Transmogrify
 4 Arid Mesa
 4 Polymorph
 4 Mass Hysteria
+4 Transmogrify
 4 Lightning Bolt
 1 Commandeer
 1 Warrant / Warden
@@ -366,8 +366,8 @@
 1 Nykthos, Shrine to Nyx
 1 Oust
 1 Solemnity
-1 Dovescape
 1 Wheel of Sun and Moon
+1 Dovescape
 1 Marsh Flats
 1 Silence
 1 Nine Lives
@@ -414,40 +414,40 @@
 5 Plains
 6 Plains
 7 Plains
+1 Omniscience
+1 Aether Hub
 1 Pillar of the Paruns
 1 Emrakul, the Promised End
 1 Kozilek, Butcher of Truth
-1 Aether Hub
 1 Brilliant Ultimatum
 1 Tendo Ice Bridge
 1 Gemstone Mine
 1 Ulamog, the Infinite Gyre
-1 Omniscience
 1 City of Brass
 2 Pillar of the Paruns
+2 Aether Hub
+2 Kozilek, Butcher of Truth
+2 Ulamog, the Infinite Gyre
 2 Tibalt's Trickery
 2 Omniscience
 2 Gemstone Mine
 2 Emrakul, the Promised End
 2 City of Brass
-2 Aether Hub
 2 Tendo Ice Bridge
 2 Brilliant Ultimatum
-2 Ulamog, the Infinite Gyre
-2 Kozilek, Butcher of Truth
 3 Pillar of the Paruns
+3 Aether Hub
+3 Ulamog, the Infinite Gyre
 3 Gemstone Mine
 3 City of Brass
 3 Omniscience
 3 Emrakul, the Promised End
-3 Ulamog, the Infinite Gyre
-3 Aether Hub
 3 Kozilek, Butcher of Truth
 3 Brilliant Ultimatum
 4 Omniscience
 4 Pillar of the Paruns
-4 Gemstone Mine
 4 Ulamog, the Infinite Gyre
-4 City of Brass
 4 Aether Hub
+4 Gemstone Mine
+4 City of Brass
 4 Brilliant Ultimatum

@@ -1,21 +1,19 @@
-4 Drannith Healer
+2 Footfall Crater
 3 Footfall Crater
+4 Footfall Crater
+1 Blightstep Pathway
+1 Plains
 3 Brightclimb Pathway
 4 Boon of the Wish-Giver
-1 Blightstep Pathway
-4 Footfall Crater
-4 Improbable Alliance
-1 Plains
-4 Brightclimb Pathway
-1 Shredded Sails
 1 Mountain
 2 Plains
-4 Frostveil Ambush
+4 Improbable Alliance
 4 Raugrin Triome
+4 Frostveil Ambush
+4 Brightclimb Pathway
 1 Savai Triome
+1 Shredded Sails
 2 Clearwater Pathway
-1 Mystical Dispute
-2 Mystical Dispute
 1 Rielle, the Everwise
 2 Rielle, the Everwise
 3 Rielle, the Everwise
@@ -23,58 +21,8 @@
 2 Shredded Sails
 1 Selfless Savior
 2 Selfless Savior
-1 Showdown of the Skalds
-1 Shepherd of the Flock
-1 Skyclave Apparition
-1 Fabled Passage
-1 Bonecrusher Giant
-1 Seasoned Hallowblade
-2 Showdown of the Skalds
-2 Seasoned Hallowblade
-2 Bonecrusher Giant
-2 Skyclave Apparition
-2 Shepherd of the Flock
-2 Fabled Passage
-3 Showdown of the Skalds
-3 Skyclave Apparition
-3 Seasoned Hallowblade
-3 Bonecrusher Giant
-4 Showdown of the Skalds
-4 Bonecrusher Giant
-4 Seasoned Hallowblade
-1 Snow-Covered Mountain
-1 Snow-Covered Plains
-1 Usher of the Fallen
-1 Giant Killer
-1 Luminarch Aspirant
-2 Snow-Covered Mountain
-2 Snow-Covered Plains
-2 Luminarch Aspirant
-2 Giant Killer
-2 Usher of the Fallen
-3 Snow-Covered Mountain
-3 Giant Killer
-3 Snow-Covered Plains
-3 Fabled Passage
-3 Usher of the Fallen
-3 Luminarch Aspirant
-4 Usher of the Fallen
-4 Snow-Covered Mountain
-4 Snow-Covered Plains
-4 Fabled Passage
-4 Luminarch Aspirant
-5 Snow-Covered Plains
-6 Snow-Covered Plains
-7 Snow-Covered Plains
-8 Snow-Covered Plains
-9 Snow-Covered Plains
-10 Snow-Covered Plains
 1 Maul of the Skyclaves
 2 Maul of the Skyclaves
-3 Maul of the Skyclaves
-1 Embercleave
-3 Selfless Savior
-4 Selfless Savior
 2 Mountain
 3 Plains
 3 Mountain
@@ -90,20 +38,36 @@
 8 Mountain
 9 Plains
 9 Mountain
+1 Showdown of the Skalds
+1 Shepherd of the Flock
+1 Skyclave Apparition
+1 Fabled Passage
+1 Bonecrusher Giant
+1 Seasoned Hallowblade
+2 Showdown of the Skalds
+2 Bonecrusher Giant
+2 Seasoned Hallowblade
+2 Skyclave Apparition
+2 Shepherd of the Flock
+2 Fabled Passage
+3 Showdown of the Skalds
+3 Skyclave Apparition
+3 Seasoned Hallowblade
+3 Bonecrusher Giant
+4 Showdown of the Skalds
+4 Bonecrusher Giant
+4 Seasoned Hallowblade
 1 Temple of Triumph
 2 Temple of Triumph
 2 Blightstep Pathway
+1 Mystical Dispute
+2 Mystical Dispute
 1 Easy Prey
 2 Savai Triome
 2 Easy Prey
 3 Savai Triome
 3 Shredded Sails
 4 Savai Triome
-1 Fight as One
-1 Faceless Haven
-2 Fight as One
-2 Faceless Haven
-4 Skyclave Apparition
 4 Clearwater Pathway
 1 Shock
 1 Robber of the Rich
@@ -116,42 +80,73 @@
 3 Robber of the Rich
 3 Shock
 3 Fervent Champion
+3 Maul of the Skyclaves
 4 Shock
 4 Robber of the Rich
 4 Fervent Champion
+1 Embercleave
+3 Selfless Savior
+4 Selfless Savior
 1 Kabira Takedown
+1 Castle Embereth
 1 Resplendent Marshal
+1 Akoum Hellhound
 1 Rally the Ranks
 1 Igneous Cur
 1 Pack Leader
 1 Alpine Houndmaster
-1 Akoum Hellhound
-1 Castle Embereth
-1 Bolt Hound
 1 Alpine Watchdog
+1 Bolt Hound
+2 Akoum Hellhound
 2 Rally the Ranks
 2 Igneous Cur
 2 Alpine Watchdog
 2 Alpine Houndmaster
 2 Embercleave
-2 Akoum Hellhound
 2 Pack Leader
 2 Resplendent Marshal
 2 Bolt Hound
+3 Akoum Hellhound
 3 Embercleave
 3 Bolt Hound
 3 Igneous Cur
 3 Alpine Watchdog
 3 Alpine Houndmaster
-3 Akoum Hellhound
 3 Pack Leader
 4 Alpine Houndmaster
+4 Bolt Hound
 4 Pack Leader
 4 Akoum Hellhound
-4 Bolt Hound
 10 Plains
+1 Snow-Covered Mountain
+1 Snow-Covered Plains
+1 Usher of the Fallen
+1 Giant Killer
+1 Luminarch Aspirant
 1 Reidane, God of the Worthy
+2 Snow-Covered Mountain
 2 Reidane, God of the Worthy
+2 Giant Killer
+2 Luminarch Aspirant
+2 Snow-Covered Plains
+2 Usher of the Fallen
+3 Snow-Covered Mountain
+3 Giant Killer
 3 Shepherd of the Flock
+3 Snow-Covered Plains
+3 Fabled Passage
+3 Usher of the Fallen
+3 Luminarch Aspirant
+4 Usher of the Fallen
+4 Snow-Covered Mountain
+4 Fabled Passage
+4 Snow-Covered Plains
+4 Luminarch Aspirant
 5 Snow-Covered Mountain
+5 Snow-Covered Plains
+6 Snow-Covered Plains
+7 Snow-Covered Plains
+8 Snow-Covered Plains
+9 Snow-Covered Plains
+10 Snow-Covered Plains
 11 Snow-Covered Plains

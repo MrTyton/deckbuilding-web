@@ -10,10 +10,10 @@
 16 Mountain
 1 Eidolon of the Great Revel
 2 Eidolon of the Great Revel
+3 Eidolon of the Great Revel
 1 Collective Defiance
 2 Collective Defiance
 3 Collective Defiance
-3 Eidolon of the Great Revel
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
 4 Eidolon of the Great Revel
@@ -22,8 +22,6 @@
 2 Kari Zev, Skyship Raider
 3 Kari Zev, Skyship Raider
 17 Mountain
-4 Collective Defiance
-1 Shatterskull Smashing
 1 Goblin Chainwhirler
 1 Burning-Tree Emissary
 1 Torbran, Thane of Red Fell
@@ -50,6 +48,7 @@
 2 Legion Warboss
 3 Goblin Chainwhirler
 4 Burning-Tree Emissary
+4 Collective Defiance
 1 Boros Charm
 2 Boros Charm
 2 Needleverge Pathway
@@ -57,11 +56,15 @@
 3 Boros Charm
 4 Boros Charm
 4 Needleverge Pathway
+1 Shatterskull Smashing
 1 Skewer the Critics
 2 Skewer the Critics
 3 Skewer the Critics
 4 Shock
 2 Shatterskull Smashing
+1 Searing Blood
+2 Searing Blood
+3 Searing Blood
 1 Wayward Guide-Beast
 1 Zurgo Bellstriker
 1 Built to Smash
@@ -88,8 +91,8 @@
 4 Anax, Hardened in the Forge
 1 Mutavault
 1 Chandra, Torch of Defiance
-1 Roiling Vortex
 1 Rekindling Phoenix
+1 Roiling Vortex
 1 Incendiary Flow
 2 Mutavault
 2 Chandra, Torch of Defiance

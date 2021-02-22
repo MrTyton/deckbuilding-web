@@ -23,8 +23,8 @@
 2 Hallowed Fountain
 1 Auriok Champion
 3 Soulherder
-1 Chord of Calling
 1 Restoration Angel
+1 Chord of Calling
 2 Chord of Calling
 4 Misty Rainforest
 3 Force of Negation
@@ -87,12 +87,12 @@
 2 Wall of Omens
 3 Uro, Titan of Nature's Wrath
 1 Knight of Autumn
+1 Oath of Nissa
 1 Primeval Titan
 1 Waterlogged Grove
-1 Oath of Nissa
-2 Field of the Dead
-2 Primeval Titan
 2 Oath of Nissa
+2 Primeval Titan
+2 Field of the Dead
 3 Oath of Nissa
 1 Lurrus of the Dream-Den
 1 Gilded Goose
@@ -121,16 +121,17 @@
 3 Restoration Angel
 4 Snow-Covered Forest
 4 Restoration Angel
-1 Verdant Catacombs
-1 Overgrown Tomb
-1 Godless Shrine
-1 Snow-Covered Swamp
 1 Indatha Triome
+1 Verdant Catacombs
+1 Garruk, Cursed Huntsman
+1 Godless Shrine
+1 Overgrown Tomb
+1 Snow-Covered Swamp
 1 The Royal Scions
 1 Klothys, God of Destiny
-1 Garruk, Cursed Huntsman
 1 Golos, Tireless Pilgrim
 1 Kaya's Guile
+1 Lightning Helix
 1 Abrupt Decay
 1 Assassin's Trophy
 1 Niv-Mizzet Reborn
@@ -141,7 +142,6 @@
 1 Tolsimir, Friend to Wolves
 1 Pillar of the Paruns
 1 Dragonlord Silumgar
-1 Lightning Helix
 1 Bring to Light
 2 Verdant Catacombs
 2 Klothys, God of Destiny
@@ -198,8 +198,8 @@
 2 Seasoned Pyromancer
 2 Island
 2 Lightning Bolt
-3 Island
 3 Charming Prince
+3 Island
 3 Scalding Tarn
 4 Scalding Tarn
 1 Renegade Rallier
@@ -211,7 +211,7 @@
 1 Heliod, Sun-Crowned
 1 Walking Ballista
 2 Ranger-Captain of Eos
+3 Temple Garden
 3 Ranger-Captain of Eos
 3 Collected Company
-3 Temple Garden
 4 Collected Company

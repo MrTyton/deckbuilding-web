@@ -1,9 +1,9 @@
 1 Swamp
 1 Agadeem's Awakening
 1 Forest
-2 Temple of Malady
 2 Forest
 2 Swamp
+2 Temple of Malady
 3 Forest
 3 Temple of Malady
 4 Temple of Malady
@@ -23,11 +23,11 @@
 3 Murderous Rider
 3 Foulmire Knight
 3 Darkbore Pathway
+4 Darkbore Pathway
 4 Lovestruck Beast
 4 Edgewall Innkeeper
 4 Foulmire Knight
 4 Swamp
-4 Darkbore Pathway
 1 Sculptor of Winter
 2 Sculptor of Winter
 3 Sculptor of Winter
@@ -47,9 +47,9 @@
 1 Poison the Cup
 1 Behold the Multiverse
 1 Feed the Swarm
-1 Thrashing Brontodon
 1 Feed the Serpent
 1 Sarulf's Packmate
+1 Thrashing Brontodon
 1 Ugin, the Spirit Dragon
 1 Port of Karfell
 1 Chainweb Aracnir
@@ -73,9 +73,9 @@
 2 Agadeem's Awakening
 1 Blightstep Pathway
 1 Valki, God of Lies
-1 Scavenging Ooze
 1 Toski, Bearer of Secrets
 1 Vivien, Monsters' Advocate
+1 Scavenging Ooze
 1 Vorinclex, Monstrous Raider
 1 Heartless Act
 1 Zagoth Triome
@@ -107,8 +107,8 @@
 1 Feasting Troll King
 1 Wicked Wolf
 2 Gilded Goose
-2 Polukranos, Unchained
 2 Trail of Crumbs
+2 Polukranos, Unchained
 2 Ilysian Caryatid
 2 Castle Garenbrig
 2 Witch's Oven
@@ -138,22 +138,22 @@
 6 Forest
 7 Forest
 8 Forest
-1 Wolfwillow Haven
 1 Realmwalker
+1 Grasp of Darkness
+1 Wolfwillow Haven
 1 Skemfar Avenger
 1 Harald, King of Skemfar
 1 Return Upon the Tide
 1 Boreal Outrider
-1 Grasp of Darkness
 1 Harald Unites the Elves
 1 Thornmantle Striker
 1 Greater Sandwurm
 1 Joraga Visionary
+2 Grasp of Darkness
 2 Wolfwillow Haven
 2 Harald, King of Skemfar
 2 Boreal Outrider
 2 Joraga Visionary
-2 Grasp of Darkness
 3 Wolfwillow Haven
 3 Harald, King of Skemfar
 3 Grasp of Darkness
@@ -173,10 +173,10 @@
 1 Rankle, Master of Pranks
 1 Elder Gargaroth
 1 Castle Locthwain
+2 Chevill, Bane of Monsters
 2 Jolrael, Mwonvuli Recluse
 2 Primal Might
 2 Rankle, Master of Pranks
-2 Chevill, Bane of Monsters
 2 Elder Gargaroth
 3 Kazandu Mammoth
 3 Jolrael, Mwonvuli Recluse

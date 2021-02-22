@@ -6,9 +6,9 @@
 1 Swamp
 2 Thieves' Guild Enforcer
 2 Drown in the Loch
+3 Watery Grave
 3 Inquisition of Kozilek
 3 Thieves' Guild Enforcer
-3 Watery Grave
 3 Drown in the Loch
 4 Drown in the Loch
 4 Thieves' Guild Enforcer
@@ -47,8 +47,8 @@
 1 Hallowed Fountain
 4 Mana Leak
 1 Forest
-1 Hexdrinker
 1 Wooded Foothills
+1 Hexdrinker
 1 Breeding Pool
 1 Stubborn Denial
 1 Tarmogoyf
@@ -132,8 +132,8 @@
 2 Ascendant Spirit
 3 Ascendant Spirit
 4 Ascendant Spirit
-1 Unearth
 1 Ice Tunnel
+1 Unearth
 1 Tyrant's Scorn
 2 Deprive
 4 Fatal Push
@@ -177,8 +177,8 @@
 1 Dreadhorde Arcanist
 2 Dreadhorde Arcanist
 2 Hallowed Fountain
-3 Dreadhorde Arcanist
 3 Hallowed Fountain
+3 Dreadhorde Arcanist
 4 Dreadhorde Arcanist
 3 Young Pyromancer
 4 Young Pyromancer
@@ -186,42 +186,6 @@
 2 Visions of Beyond
 3 Visions of Beyond
 4 Visions of Beyond
-1 Lava Dart
-1 Lava Spike
-1 Sunbaked Canyon
-1 Stormwing Entity
-1 Assault Strobe
-1 Gut Shot
-1 Manamorphose
-1 Mutagenic Growth
-1 Monastery Swiftspear
-1 Light Up the Stage
-2 Lava Spike
-2 Stormwing Entity
-2 Lava Dart
-2 Gut Shot
-2 Assault Strobe
-2 Manamorphose
-2 Mutagenic Growth
-2 Monastery Swiftspear
-2 Mountain
-2 Light Up the Stage
-3 Stormwing Entity
-3 Manamorphose
-3 Light Up the Stage
-3 Lava Spike
-3 Monastery Swiftspear
-3 Fiery Islet
-3 Mountain
-3 Lava Dart
-4 Manamorphose
-4 Fiery Islet
-4 Light Up the Stage
-4 Stormwing Entity
-4 Monastery Swiftspear
-4 Lava Spike
-4 Lava Dart
-4 Mountain
 1 Wizard's Retort
 1 Wizard's Lightning
 1 Soul-Scar Mage
@@ -234,20 +198,56 @@
 4 Wizard's Lightning
 4 Wizard's Retort
 4 Soul-Scar Mage
+1 Monastery Swiftspear
+1 Sunbaked Canyon
+1 Mutagenic Growth
+1 Stormwing Entity
+1 Lava Dart
+1 Assault Strobe
+1 Gut Shot
+1 Lava Spike
+1 Manamorphose
+1 Light Up the Stage
+2 Monastery Swiftspear
+2 Mutagenic Growth
+2 Stormwing Entity
+2 Lava Dart
+2 Lava Spike
+2 Gut Shot
+2 Assault Strobe
+2 Manamorphose
+2 Mountain
+2 Light Up the Stage
+3 Monastery Swiftspear
+3 Fiery Islet
+3 Stormwing Entity
+3 Lava Dart
+3 Manamorphose
+3 Light Up the Stage
+3 Lava Spike
+3 Mountain
+4 Manamorphose
+4 Monastery Swiftspear
+4 Fiery Islet
+4 Lava Dart
+4 Stormwing Entity
+4 Lava Spike
+4 Mountain
+4 Light Up the Stage
 1 Volatile Fjord
 5 Snow-Covered Island
 6 Snow-Covered Island
-1 Mutavault
 1 Cryptic Command
-1 Deliberate
+1 Mutavault
 1 Silundi Vision
 1 Castle Vantress
+1 Deliberate
 1 Oboro, Palace in the Clouds
 1 Psionic Blast
 1 Spellstutter Sprite
-2 Deliberate
 2 Mutavault
 2 Cryptic Command
+2 Deliberate
 2 Vendilion Clique
 2 Psionic Blast
 2 Spellstutter Sprite

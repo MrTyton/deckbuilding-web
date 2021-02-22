@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|-------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    4|[Mutagenic Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397717)|                    2|[Viridian Corrupter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213772)   |
-|                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)       |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)     |
+|                    4|[Mutagenic Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397717)|                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)     |
+|                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)       |                    2|[Viridian Corrupter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213772)   |
 |                    1|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    1|[Distortion Strike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438618)    |
 |                    2|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)|                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)           |
 |                    3|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)          |                    1|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)     |
@@ -48,7 +48,7 @@
 |                     |                                                                                           |                    1|[Weather the Storm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464140)    |
 |                     |                                                                                           |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)       |
 |                     |                                                                                           |                    1|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)                 |
-|                     |                                                                                           |                    2|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)           |
 |                     |                                                                                           |                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)       |
+|                     |                                                                                           |                    2|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)           |
 |                     |                                                                                           |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)       |
 
