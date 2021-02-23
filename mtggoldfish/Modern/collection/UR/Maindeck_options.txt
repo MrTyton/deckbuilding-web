@@ -7,11 +7,38 @@
 1 Cascade Bluffs
 1 The Royal Scions
 1 Blast Zone
+2 Magmatic Sinkhole
 2 Cascade Bluffs
 2 The Royal Scions
-2 Magmatic Sinkhole
 3 Brazen Borrower
 4 Brazen Borrower
+1 Fiery Islet
+1 Soul-Scar Mage
+1 Lava Dart
+1 Manamorphose
+1 Monastery Swiftspear
+1 Light Up the Stage
+2 Lava Dart
+2 Manamorphose
+2 Soul-Scar Mage
+2 Monastery Swiftspear
+2 Light Up the Stage
+3 Manamorphose
+3 Light Up the Stage
+3 Monastery Swiftspear
+3 Soul-Scar Mage
+3 Lava Dart
+4 Light Up the Stage
+4 Manamorphose
+4 Monastery Swiftspear
+4 Lava Dart
+4 Soul-Scar Mage
+2 Mountain
+3 Mountain
+1 Crash Through
+2 Crash Through
+1 Lava Spike
+2 Lava Spike
 1 Omen of the Sea
 1 Emrakul, the Aeons Torn
 1 Through the Breach
@@ -24,89 +51,102 @@
 3 Emrakul, the Aeons Torn
 4 Through the Breach
 4 Emrakul, the Aeons Torn
-1 Fiery Islet
 1 Ancestral Vision
 1 Mana Leak
 2 Ancestral Vision
 8 Island
 1 Ral, Izzet Viceroy
 3 Steam Vents
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
+4 Mishra's Bauble
+1 Sunbaked Canyon
+2 Sunbaked Canyon
+3 Crash Through
+4 Crash Through
 1 Fire Prophecy
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
-1 Soul-Scar Mage
-1 Lava Spike
-1 Lava Dart
-1 Manamorphose
-1 Monastery Swiftspear
-1 Light Up the Stage
-2 Lava Dart
-2 Manamorphose
-2 Lava Spike
-2 Soul-Scar Mage
-2 Monastery Swiftspear
-2 Light Up the Stage
-3 Manamorphose
-3 Monastery Swiftspear
-3 Light Up the Stage
-3 Soul-Scar Mage
-3 Lava Dart
-4 Light Up the Stage
-4 Manamorphose
-4 Monastery Swiftspear
-4 Lava Dart
-4 Soul-Scar Mage
-1 Snow-Covered Mountain
-1 Gut Shot
-2 Mountain
-3 Mountain
-1 Crash Through
-2 Crash Through
 1 Bedlam Reveler
 2 Bedlam Reveler
+4 Mountain
+5 Mountain
+6 Mountain
+7 Mountain
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+13 Mountain
+14 Mountain
+1 Wild Slash
+2 Wild Slash
+3 Lava Spike
+3 Bedlam Reveler
+4 Lava Spike
+4 Bedlam Reveler
+2 Fiery Islet
+1 Snow-Covered Mountain
+1 Mutagenic Growth
+2 Mutagenic Growth
+3 Mutagenic Growth
+1 Gut Shot
+1 Arid Mesa
+1 Wooded Foothills
+2 Wooded Foothills
+3 Sunbaked Canyon
 1 Yidaro, Wandering Monster
 1 Wandering Fumarole
 1 Peek
 2 Peek
+1 Spell Pierce
+1 Dispel
+2 Spell Pierce
+3 Ancestral Vision
 1 Narset, Parter of Veils
 1 Vendilion Clique
 1 Flame Slash
 2 Narset, Parter of Veils
 3 Mystic Sanctuary
-1 Dispel
-1 Spell Pierce
-2 Spell Pierce
-3 Ancestral Vision
+1 Bloodstained Mire
+1 Sacred Foundry
+1 Inspiring Vantage
+1 Abbot of Keral Keep
+1 Myth Realized
+1 Boros Charm
+2 Bloodstained Mire
+2 Inspiring Vantage
+2 Sacred Foundry
+2 Abbot of Keral Keep
+2 Boros Charm
+2 Myth Realized
+3 Inspiring Vantage
+3 Myth Realized
+4 Inspiring Vantage
 1 Thing in the Ice
 2 Thing in the Ice
 3 Thing in the Ice
 4 Thing in the Ice
-1 Arid Mesa
-1 Spirebluff Canal
 1 Bomat Courier
-1 Wooded Foothills
+1 Spirebluff Canal
 1 Sprite Dragon
-1 Mishra's Bauble
 1 Stormwing Entity
-2 Wooded Foothills
 2 Arid Mesa
 2 Stormwing Entity
 2 Sprite Dragon
 2 Spirebluff Canal
-2 Mishra's Bauble
-2 Fiery Islet
 3 Arid Mesa
 3 Wooded Foothills
-3 Sprite Dragon
-3 Mishra's Bauble
 3 Spirebluff Canal
+3 Sprite Dragon
 3 Fiery Islet
 3 Stormwing Entity
 4 Sprite Dragon
 4 Stormwing Entity
 4 Spirebluff Canal
-4 Mishra's Bauble
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
@@ -115,24 +155,13 @@
 6 Snow-Covered Island
 7 Snow-Covered Island
 8 Snow-Covered Island
-1 Wild Slash
-1 Sunbaked Canyon
 1 Kiln Fiend
-2 Wild Slash
 2 Snow-Covered Mountain
-2 Sunbaked Canyon
 2 Kiln Fiend
 3 Snow-Covered Mountain
-3 Sunbaked Canyon
-3 Crash Through
 3 Kiln Fiend
-3 Lava Spike
-3 Bedlam Reveler
-4 Snow-Covered Mountain
 4 Sunbaked Canyon
-4 Crash Through
-4 Lava Spike
-4 Bedlam Reveler
+4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
@@ -147,28 +176,14 @@
 1 Forgotten Cave
 1 Arclight Phoenix
 1 Thrill of Possibility
-1 Mutagenic Growth
 2 Forgotten Cave
 2 Arclight Phoenix
 2 Gut Shot
 2 Thrill of Possibility
-2 Mutagenic Growth
 3 Gut Shot
 3 Thrill of Possibility
-3 Mutagenic Growth
 3 Arclight Phoenix
 4 Thrill of Possibility
-4 Mountain
 4 Arclight Phoenix
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain
 16 Mountain
 15 Mountain

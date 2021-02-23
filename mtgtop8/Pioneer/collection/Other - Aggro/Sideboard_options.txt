@@ -8,6 +8,7 @@
 2 Vampire of the Dire Moon
 3 Back to Nature
 1 Fatal Push
+2 Massacre Girl
 4 Thoughtseize
 1 Legion's End
 1 Lurrus of the Dream-Den
@@ -18,7 +19,6 @@
 1 Containment Priest
 2 Containment Priest
 2 Isolate
-2 Massacre Girl
 4 Apostle of Purifying Light
 2 Pithing Needle
 1 Mystical Dispute
@@ -37,12 +37,9 @@
 1 Cling to Dust
 1 Scavenging Ooze
 1 Soul-Guide Lantern
-1 Light of Hope
-2 Light of Hope
 1 Collective Brutality
 1 Heartless Act
 2 Fatal Push
-1 Rest in Peace
 1 Duress
 1 Necromentia
 2 Duress
@@ -50,8 +47,8 @@
 1 Noxious Grasp
 2 Noxious Grasp
 3 Fatal Push
-1 Settle the Wreckage
 1 Bloodchief's Thirst
+1 Settle the Wreckage
 1 Phyrexian Revoker
 1 Questing Beast
 1 Nullhide Ferox
@@ -64,42 +61,29 @@
 1 Midnight Reaper
 2 Scavenging Ooze
 2 Midnight Reaper
+1 Light of Hope
+2 Light of Hope
 2 Soul-Guide Lantern
 3 Soul-Guide Lantern
-2 Rest in Peace
+1 Rest in Peace
 1 Agonizing Remorse
 2 Bloodchief's Thirst
+2 Rest in Peace
 2 Agonizing Remorse
 3 Necromentia
-1 Stormbreath Dragon
-1 Mizzium Mortars
-1 Glorybringer
-1 Aethersphere Harvester
-1 Rending Volley
-2 Rending Volley
-2 Aethersphere Harvester
-3 Light of Hope
 1 Witch's Vengeance
 2 Witch's Vengeance
 3 Aether Gust
 3 Unmoored Ego
-1 Deafening Silence
-1 Elspeth Conquers Death
-1 Nyx-Fleece Ram
-1 Collective Effort
-1 Thalia, Heretic Cathar
-2 Deafening Silence
-2 Collective Effort
-2 Nyx-Fleece Ram
-2 Elspeth Conquers Death
-2 Thalia, Heretic Cathar
-3 Deafening Silence
-3 Nyx-Fleece Ram
-3 Rest in Peace
-1 Alpine Moon
-2 Alpine Moon
-3 Gruul Charm
-3 Carnage Tyrant
+1 Tireless Tracker
+1 Bonecrusher Giant
+1 Korvold, Fae-Cursed King
+2 Tireless Tracker
+2 Collective Brutality
+2 Bonecrusher Giant
+2 Korvold, Fae-Cursed King
+3 Collective Brutality
+3 Bonecrusher Giant
 1 Karametra's Blessing
 1 Silkwrap
 1 Leyline of Sanctity
@@ -119,12 +103,7 @@
 2 Negate
 3 Mystical Dispute
 4 Mystical Dispute
-1 Korvold, Fae-Cursed King
-1 Tireless Tracker
-1 Bonecrusher Giant
-2 Tireless Tracker
-2 Collective Brutality
-2 Bonecrusher Giant
-2 Korvold, Fae-Cursed King
-3 Collective Brutality
-3 Bonecrusher Giant
+1 Alpine Moon
+2 Alpine Moon
+3 Carnage Tyrant
+3 Gruul Charm
