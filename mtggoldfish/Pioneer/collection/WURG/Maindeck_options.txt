@@ -6,9 +6,9 @@
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
-1 Snow-Covered Forest
-1 Snow-Covered Island
 1 Snow-Covered Mountain
+1 Snow-Covered Island
+1 Snow-Covered Forest
 1 Deafening Clarion
 1 Castle Vantress
 3 Agent of Treachery
@@ -42,10 +42,6 @@
 1 Island
 1 Mountain
 1 Forest
-1 Mystic Reflection
-1 Supreme Verdict
-2 Supreme Verdict
-2 Mystic Reflection
 1 Elspeth, Sun's Champion
 4 Castle Vantress
 1 Sulfur Falls
@@ -57,3 +53,7 @@
 4 Plains
 4 Valakut Awakening
 4 Anger of the Gods
+1 Mystic Reflection
+2 Supreme Verdict
+2 Mystic Reflection
+1 Supreme Verdict

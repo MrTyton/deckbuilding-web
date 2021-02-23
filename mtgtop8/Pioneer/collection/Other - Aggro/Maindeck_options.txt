@@ -1,5 +1,5 @@
-3 Blood Crypt
 4 Overgrown Tomb
+3 Blood Crypt
 2 Murderous Rider
 3 Murderous Rider
 1 Cathartic Reunion
@@ -13,8 +13,8 @@
 3 Gather the Pack
 3 Samut, Voice of Dissent
 3 Nullhide Ferox
-4 Murderous Rider
 4 Blood Crypt
+4 Murderous Rider
 4 Samut, Voice of Dissent
 4 Satyr Wayfinder
 1 Mutavault
@@ -91,8 +91,8 @@
 2 Soaring Thought-Thief
 2 Clearwater Pathway
 2 Watery Grave
-3 Clearwater Pathway
 3 Thieves' Guild Enforcer
+3 Clearwater Pathway
 3 Drown in the Loch
 3 Soaring Thought-Thief
 3 Watery Grave
@@ -111,11 +111,11 @@
 1 Anticognition
 1 Nighthawk Scavenger
 1 Eliminate
-1 Mystical Dispute
 1 Drowned Catacomb
 1 Brazen Borrower
-2 Brazen Borrower
+1 Mystical Dispute
 2 Eliminate
+2 Brazen Borrower
 2 Nighthawk Scavenger
 2 Island
 2 Drowned Catacomb
@@ -139,6 +139,45 @@
 3 Dragon Hunter
 4 Dragon Hunter
 4 Cathartic Reunion
+1 Collected Company
+1 Bolas's Citadel
+1 Catacomb Sifter
+1 Llanowar Elves
+1 Elvish Mystic
+1 Gilded Goose
+1 Cragcrown Pathway
+1 Woe Strider
+1 Zulaport Cutthroat
+1 Priest of Forgotten Gods
+1 Mayhem Devil
+2 Collected Company
+2 Gilded Goose
+2 Bolas's Citadel
+2 Priest of Forgotten Gods
+2 Llanowar Elves
+2 Catacomb Sifter
+2 Mayhem Devil
+2 Elvish Mystic
+2 Cragcrown Pathway
+2 Woe Strider
+2 Zulaport Cutthroat
+3 Collected Company
+3 Mayhem Devil
+3 Catacomb Sifter
+3 Cragcrown Pathway
+3 Gilded Goose
+3 Woe Strider
+3 Zulaport Cutthroat
+3 Bolas's Citadel
+3 Priest of Forgotten Gods
+4 Collected Company
+4 Priest of Forgotten Gods
+4 Woe Strider
+4 Zulaport Cutthroat
+4 Catacomb Sifter
+4 Gilded Goose
+4 Bolas's Citadel
+4 Mayhem Devil
 1 Lurrus of the Dream-Den
 2 Lurrus of the Dream-Den
 1 Heartless Act
@@ -152,6 +191,17 @@
 3 Mardu Shadowspear
 3 Wishclaw Talisman
 4 Mardu Shadowspear
+1 Blightstep Pathway
+1 Darkbore Pathway
+2 Blightstep Pathway
+2 Darkbore Pathway
+3 Blightstep Pathway
+3 Llanowar Elves
+3 Elvish Mystic
+3 Darkbore Pathway
+4 Blightstep Pathway
+4 Darkbore Pathway
+4 Cragcrown Pathway
 1 Of One Mind
 1 Deathrite Shaman
 1 Zagoth Triome
@@ -160,8 +210,8 @@
 1 Botanical Sanctum
 2 Of One Mind
 2 Heartless Act
-2 Agadeem's Awakening
 2 Cling to Dust
+2 Agadeem's Awakening
 2 Zagoth Triome
 2 Merfolk Windrobber
 2 Botanical Sanctum
@@ -177,47 +227,8 @@
 4 Botanical Sanctum
 1 Llanowar Wastes
 1 Judith, the Scourge Diva
-1 Collected Company
-1 Gilded Goose
-1 Bolas's Citadel
-1 Catacomb Sifter
-1 Llanowar Elves
-1 Elvish Mystic
-1 Cragcrown Pathway
-1 Woe Strider
-1 Zulaport Cutthroat
-1 Priest of Forgotten Gods
-1 Mayhem Devil
 2 Llanowar Wastes
-2 Collected Company
-2 Gilded Goose
-2 Bolas's Citadel
-2 Priest of Forgotten Gods
 2 Judith, the Scourge Diva
-2 Llanowar Elves
-2 Catacomb Sifter
-2 Mayhem Devil
-2 Elvish Mystic
-2 Cragcrown Pathway
-2 Woe Strider
-2 Zulaport Cutthroat
-3 Collected Company
-3 Gilded Goose
-3 Mayhem Devil
-3 Catacomb Sifter
-3 Cragcrown Pathway
-3 Woe Strider
-3 Zulaport Cutthroat
-3 Bolas's Citadel
-3 Priest of Forgotten Gods
-4 Collected Company
-4 Gilded Goose
-4 Priest of Forgotten Gods
-4 Woe Strider
-4 Zulaport Cutthroat
-4 Catacomb Sifter
-4 Bolas's Citadel
-4 Mayhem Devil
 4 Stomping Ground
 1 Embercleave
 1 Toolcraft Exemplar
@@ -262,11 +273,11 @@
 3 Sram, Senior Edificer
 4 Toolcraft Exemplar
 4 Needleverge Pathway
+4 Magda, Brazen Outlaw
 4 Veteran Motorist
 4 Colossal Plow
 4 Sacred Foundry
 4 Inspiring Vantage
-4 Magda, Brazen Outlaw
 4 Giant Ox
 4 Battlefield Forge
 4 Consulate Dreadnought
@@ -304,9 +315,9 @@
 3 Gladecover Scout
 3 Branchloft Pathway
 3 Temple Garden
+3 Adanto Vanguard
 3 Sentinel's Eyes
 3 Cartouche of Solidarity
-3 Adanto Vanguard
 3 All That Glitters
 3 Ethereal Armor
 3 Gryff's Boon
@@ -332,16 +343,16 @@
 1 Sorin, Imperious Bloodlord
 1 Dusk Legion Zealot
 1 Gifted Aetherborn
-1 Bloodchief's Thirst
 1 Blood Baron of Vizkopa
+1 Bloodchief's Thirst
 1 Knight of the Ebon Legion
 1 Isolated Chapel
 1 Kalitas, Traitor of Ghet
 2 Blood Baron of Vizkopa
 2 Sorin, Imperious Bloodlord
 2 Champion of Dusk
-2 Dusk Legion Zealot
 2 Isolated Chapel
+2 Dusk Legion Zealot
 2 Gifted Aetherborn
 2 Knight of the Ebon Legion
 2 Kalitas, Traitor of Ghet
@@ -361,8 +372,8 @@
 6 Swamp
 7 Swamp
 1 Skyclave Apparition
-1 Gideon, Ally of Zendikar
 1 Ajani, Adversary of Tyrants
+1 Gideon, Ally of Zendikar
 1 Archangel of Tithes
 1 Selfless Spirit
 1 Declaration in Stone
@@ -377,8 +388,8 @@
 1 Field of Ruin
 1 Gisela, the Broken Blade
 2 Skyclave Apparition
-2 Gideon, Ally of Zendikar
 2 Ajani, Adversary of Tyrants
+2 Gideon, Ally of Zendikar
 2 Archangel of Tithes
 2 Castle Ardenvale
 2 Brimaz, King of Oreskos

@@ -155,8 +155,8 @@
 2 Omen of the Dead
 2 Runeforge Champion
 2 Rune of Sustenance
-3 Runeforge Champion
 3 In Search of Greatness
+3 Runeforge Champion
 4 Setessan Champion
 4 Runeforge Champion
 4 In Search of Greatness
@@ -203,11 +203,8 @@
 2 Snow-Covered Forest
 3 Snow-Covered Swamp
 3 Snow-Covered Forest
-1 Rampage of the Valkyries
-1 Omen of the Hunt
 1 Sculptor of Winter
 1 Evolving Wilds
-1 Shimmerdrift Vale
 1 Snow-Covered Plains
 1 Skull Raid
 1 Feed the Serpent
@@ -215,16 +212,16 @@
 1 Grasp of Darkness
 1 Arctic Treeline
 1 Sarulf's Packmate
+1 Rampage of the Valkyries
 1 Shepherd of the Flock
 1 Woodland Chasm
 1 Kogla, the Titan Ape
 1 Snowfield Sinkhole
+1 Shimmerdrift Vale
 1 Elderfang Disciple
-2 Rampage of the Valkyries
-2 Omen of the Hunt
+1 Omen of the Hunt
 2 Sculptor of Winter
 2 Evolving Wilds
-2 Shimmerdrift Vale
 2 Feed the Serpent
 2 Grasp of Darkness
 2 Sarulf's Packmate
@@ -232,27 +229,30 @@
 2 Elderfang Disciple
 2 Arctic Treeline
 2 Snowfield Sinkhole
+2 Rampage of the Valkyries
 2 Skull Raid
+2 Shimmerdrift Vale
+2 Omen of the Hunt
 2 Woodland Chasm
-3 Omen of the Hunt
 3 Sculptor of Winter
 3 Evolving Wilds
-3 Shimmerdrift Vale
 3 Sarulf's Packmate
+3 Omen of the Hunt
 3 Woodland Chasm
 3 Skull Raid
+3 Shimmerdrift Vale
 3 Elderfang Disciple
 3 Rampage of the Valkyries
-4 Omen of the Hunt
-4 Evolving Wilds
-4 Shimmerdrift Vale
 4 Sculptor of Winter
 4 Sarulf's Packmate
 4 Elderfang Disciple
+4 Omen of the Hunt
 4 Snow-Covered Swamp
 4 Snow-Covered Forest
 4 Skull Raid
+4 Evolving Wilds
 4 Woodland Chasm
+4 Shimmerdrift Vale
 4 Rampage of the Valkyries
 5 Snow-Covered Forest
 5 Snow-Covered Swamp
@@ -274,8 +274,8 @@
 3 Scavenging Ooze
 3 Elder Gargaroth
 3 Agonizing Remorse
-1 Dream Devourer
 1 Temple of Abandon
+1 Dream Devourer
 1 Liliana, Waker of the Dead
 1 Cragcrown Pathway
 1 Blightstep Pathway
@@ -292,9 +292,9 @@
 3 Blightstep Pathway
 3 Vorinclex, Monstrous Raider
 4 Cultivate
+4 Vorinclex, Monstrous Raider
 4 Dream Devourer
 4 Lukka, Coppercoat Outcast
-4 Vorinclex, Monstrous Raider
 4 Blightstep Pathway
 4 Valki, God of Lies
 1 Soul Sear
@@ -316,9 +316,9 @@
 7 Mountain
 1 Lofty Denial
 1 Field of Ruin
+1 Rewind
 1 Neutralize
 1 Mystic Sanctuary
-1 Rewind
 1 Silundi Vision
 1 Frantic Inventory
 1 Shark Typhoon
@@ -335,6 +335,7 @@
 1 Gadwick, the Wizened
 2 Castle Vantress
 2 Neutralize
+2 Rewind
 2 Frantic Inventory
 2 Shark Typhoon
 2 Essence Scatter
@@ -343,15 +344,14 @@
 2 Gadwick, the Wizened
 2 Brazen Borrower
 2 Rain of Revelation
-2 Rewind
 2 Hypnotic Sprite
-3 Castle Vantress
 3 Neutralize
 3 Frantic Inventory
 3 Brazen Borrower
 3 Shark Typhoon
 3 Rewind
 3 Island
+3 Castle Vantress
 4 Neutralize
 4 Frantic Inventory
 4 Brazen Borrower

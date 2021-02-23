@@ -40,7 +40,7 @@
 |                    3|Graven Lore                                                                                 |                    2|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)  |
 |                    4|Graven Lore                                                                                 |                    2|Ravenform                                                                                 |
 |                    2|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |                    1|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)|
-|                     |                                                                                            |                    2|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)|
 |                     |                                                                                            |                    3|Avalanche Caller                                                                          |
 |                     |                                                                                            |                    4|[Bubble Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491675)   |
+|                     |                                                                                            |                    2|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)|
 

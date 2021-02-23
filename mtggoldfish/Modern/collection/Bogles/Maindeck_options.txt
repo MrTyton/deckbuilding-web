@@ -16,14 +16,14 @@
 2 Staggering Insight
 1 Flooded Strand
 2 Flooded Strand
-1 Island
 1 Breeding Pool
 1 Curious Obsession
+1 Island
 1 Arcane Flight
 2 Curious Obsession
 2 Arcane Flight
-3 Curious Obsession
 3 Flooded Strand
+3 Curious Obsession
 3 Arcane Flight
 4 Curious Obsession
 1 Snow-Covered Forest
@@ -34,8 +34,8 @@
 1 Sixth Sense
 2 Hallowed Fountain
 3 Staggering Insight
-4 Staggering Insight
 4 Flooded Strand
+4 Staggering Insight
 1 Force of Negation
 2 Force of Negation
 4 Path to Exile
@@ -65,11 +65,11 @@
 4 Steelshaper's Gift
 4 Inkmoth Nexus
 4 Stoneforge Mystic
+2 Sentinel's Eyes
+2 Forest
 1 Ram Through
 1 Speaker of the Heavens
 2 Ram Through
-2 Sentinel's Eyes
-2 Forest
 1 Dromoka's Command
 2 Dromoka's Command
 2 Sixth Sense
@@ -82,23 +82,6 @@
 3 Branchloft Pathway
 3 Force of Negation
 4 Force of Negation
-1 Noble Hierarch
-1 Arid Mesa
-1 Lurrus of the Dream-Den
-1 Sword of Feast and Famine
-1 Batterskull
-1 Eladamri's Call
-1 Sword of Fire and Ice
-1 Skyclave Apparition
-1 Marsh Flats
-2 Noble Hierarch
-2 Arid Mesa
-2 Marsh Flats
-2 Eladamri's Call
-3 Noble Hierarch
-3 Eladamri's Call
-4 Noble Hierarch
-4 Eladamri's Call
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 2 Wooded Foothills
@@ -133,6 +116,23 @@
 1 Sram, Senior Edificer
 3 All That Glitters
 4 All That Glitters
+1 Arid Mesa
+1 Lurrus of the Dream-Den
+1 Sword of Feast and Famine
+1 Batterskull
+1 Eladamri's Call
+1 Sword of Fire and Ice
+1 Skyclave Apparition
+1 Noble Hierarch
+1 Marsh Flats
+2 Arid Mesa
+2 Marsh Flats
+2 Noble Hierarch
+2 Eladamri's Call
+3 Noble Hierarch
+3 Eladamri's Call
+4 Eladamri's Call
+4 Noble Hierarch
 1 Waterlogged Grove
 1 Invisible Stalker
 1 Seachrome Coast

@@ -3,9 +3,9 @@
 2 Blood Moon
 3 Blood Moon
 1 Irencrag Feat
-1 Spikefield Hazard
 1 Valakut Awakening
 1 Bala Ged Recovery
+1 Spikefield Hazard
 1 Recross the Paths
 1 Manamorphose
 1 Reforge the Soul
@@ -31,12 +31,12 @@
 3 Pyretic Ritual
 3 Shatterskull Smashing
 3 Bala Ged Recovery
+4 Irencrag Feat
 4 Spikefield Hazard
 4 Valakut Awakening
 4 Goblin Charbelcher
 4 Recross the Paths
 4 Pyretic Ritual
-4 Irencrag Feat
 4 Shatterskull Smashing
 4 Manamorphose
 4 Desperate Ritual
@@ -340,18 +340,18 @@
 2 Lightning Bolt
 2 Polymorph
 3 Opt
-3 Arid Mesa
 3 Remand
+3 Arid Mesa
 3 Lightning Bolt
 3 Polymorph
 3 Transmogrify
 3 Dwarven Mine
 3 Mass Hysteria
-4 Remand
 4 Arid Mesa
 4 Polymorph
 4 Mass Hysteria
 4 Transmogrify
+4 Remand
 4 Lightning Bolt
 1 Commandeer
 1 Warrant / Warden
@@ -362,49 +362,49 @@
 2 Warrant / Warden
 3 Supreme Verdict
 4 Brazen Borrower
-1 Temple of Triumph
 1 Nykthos, Shrine to Nyx
 1 Oust
 1 Solemnity
 1 Wheel of Sun and Moon
-1 Dovescape
 1 Marsh Flats
-1 Silence
-1 Nine Lives
-1 Deafening Clarion
 1 Overwhelming Splendor
+1 Silence
+1 Deafening Clarion
+1 Dovescape
 1 Treasure Map
 1 Skyclave Apparition
 1 Form of the Dragon
+1 Nine Lives
 1 Plains
+1 Temple of Triumph
 1 Mistveil Plains
 1 Enduring Ideal
 1 Lotus Bloom
 1 Phyrexian Unlife
-2 Temple of Triumph
 2 Nykthos, Shrine to Nyx
 2 Oust
 2 Silence
 2 Marsh Flats
-2 Nine Lives
 2 Enduring Ideal
 2 Plains
+2 Temple of Triumph
 2 Sacred Foundry
 2 Phyrexian Unlife
 2 Form of the Dragon
 2 Skyclave Apparition
+2 Nine Lives
 2 Treasure Map
 2 Solemnity
 2 Lotus Bloom
 3 Plains
 3 Skyclave Apparition
+3 Oust
 3 Sacred Foundry
 3 Marsh Flats
-3 Silence
 3 Solemnity
 3 Lotus Bloom
+3 Silence
 3 Enduring Ideal
-3 Oust
 3 Nine Lives
 4 Plains
 4 Sacred Foundry
@@ -414,40 +414,40 @@
 5 Plains
 6 Plains
 7 Plains
-1 Omniscience
-1 Aether Hub
 1 Pillar of the Paruns
 1 Emrakul, the Promised End
 1 Kozilek, Butcher of Truth
+1 Aether Hub
 1 Brilliant Ultimatum
 1 Tendo Ice Bridge
 1 Gemstone Mine
 1 Ulamog, the Infinite Gyre
+1 Omniscience
 1 City of Brass
 2 Pillar of the Paruns
-2 Aether Hub
-2 Kozilek, Butcher of Truth
-2 Ulamog, the Infinite Gyre
 2 Tibalt's Trickery
 2 Omniscience
 2 Gemstone Mine
 2 Emrakul, the Promised End
 2 City of Brass
+2 Aether Hub
 2 Tendo Ice Bridge
 2 Brilliant Ultimatum
+2 Ulamog, the Infinite Gyre
+2 Kozilek, Butcher of Truth
 3 Pillar of the Paruns
-3 Aether Hub
-3 Ulamog, the Infinite Gyre
 3 Gemstone Mine
 3 City of Brass
 3 Omniscience
 3 Emrakul, the Promised End
+3 Ulamog, the Infinite Gyre
+3 Aether Hub
 3 Kozilek, Butcher of Truth
 3 Brilliant Ultimatum
 4 Omniscience
 4 Pillar of the Paruns
-4 Ulamog, the Infinite Gyre
-4 Aether Hub
 4 Gemstone Mine
+4 Ulamog, the Infinite Gyre
 4 City of Brass
+4 Aether Hub
 4 Brilliant Ultimatum

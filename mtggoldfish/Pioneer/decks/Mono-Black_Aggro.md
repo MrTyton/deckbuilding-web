@@ -52,6 +52,7 @@
 |                     |                                                                                                 |                    1|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)     |
 |                     |                                                                                                 |                    1|[Liliana, the Last Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414388)  |
 |                     |                                                                                                 |                    2|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)           |
+|                     |                                                                                                 |                    4|[Self-Inflicted Wound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394686)    |
 |                     |                                                                                                 |                    4|[Agonizing Remorse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476334)       |
 |                     |                                                                                                 |                    4|[Aethersphere Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423809)  |
 

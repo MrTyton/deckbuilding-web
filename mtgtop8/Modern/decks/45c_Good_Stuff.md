@@ -55,8 +55,8 @@
 |                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)      |                     |              |
 |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148) |                     |              |
 |                    3|[Enigmatic Incarnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476466)|                     |              |
-|                    4|[Abundant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240017)      |                     |              |
 |                    4|[Spreading Seas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190405)       |                     |              |
+|                    4|[Abundant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240017)      |                     |              |
 |                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)      |                     |              |
 |                    4|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)      |                     |              |
 |                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)      |                     |              |

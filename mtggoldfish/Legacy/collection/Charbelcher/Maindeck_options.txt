@@ -1,21 +1,21 @@
-2 Burning Wish
-2 Rite of Flame
 2 Seething Song
+2 Empty the Warrens
+2 Burning Wish
 2 Tinder Wall
 2 Desperate Ritual
 2 Land Grant
+3 Rite of Flame
 3 Goblin Charbelcher
 3 Empty the Warrens
 3 Land Grant
 3 Seething Song
 3 Burning Wish
-3 Rite of Flame
 3 Tinder Wall
+4 Rite of Flame
 4 Goblin Charbelcher
 4 Tinder Wall
 4 Burning Wish
 4 Land Grant
-4 Rite of Flame
 2 Echo of Eons
 3 Echo of Eons
 3 Desperate Ritual
@@ -25,10 +25,17 @@
 4 Cabal Ritual
 3 Pact of Negation
 4 Pact of Negation
-2 Gamble
-3 Gamble
 1 Bridge from Below
 2 Cabal Therapy
+1 Turntimber Symbiosis
+2 Turntimber Symbiosis
+3 Turntimber Symbiosis
+4 Turntimber Symbiosis
+1 Summoner's Pact
+1 Wild Cantor
+2 Summoner's Pact
+3 Summoner's Pact
+4 Summoner's Pact
 1 Thoughtseize
 2 Thoughtseize
 1 Sea Gate Restoration
@@ -49,19 +56,12 @@
 4 Sea Gate Restoration
 4 Ponder
 4 Brainstorm
-1 Turntimber Symbiosis
-2 Turntimber Symbiosis
-3 Turntimber Symbiosis
-4 Turntimber Symbiosis
-1 Summoner's Pact
-1 Wild Cantor
-2 Summoner's Pact
-3 Summoner's Pact
-4 Summoner's Pact
+2 Gamble
+3 Gamble
 1 Pelakka Predation
 3 Preordain
-1 Manamorphose
 3 Cabal Therapy
+1 Manamorphose
 1 Shatterskull Smashing
 2 Shatterskull Smashing
 1 Dark Petition
@@ -72,8 +72,6 @@
 4 Force of Will
 1 Irencrag Feat
 2 Irencrag Feat
-1 Pyretic Ritual
-2 Pyretic Ritual
 1 Once Upon a Time
 1 Leyline of Anticipation
 2 Once Upon a Time
@@ -87,12 +85,13 @@
 2 Jwari Disruption
 1 Chancellor of the Annex
 2 Chancellor of the Annex
+1 Pyretic Ritual
+2 Pyretic Ritual
 3 Manamorphose
 4 Manamorphose
 1 Plains
 1 Mox Diamond
 1 Trinisphere
-1 Banishing Light
 1 Helm of Obedience
 1 Orim's Chant
 1 Wrath of God
@@ -100,6 +99,8 @@
 1 Pithing Needle
 1 Solitary Confinement
 1 Aura of Silence
+1 Banishing Light
+1 Ghostly Prison
 1 Blood Moon
 1 Scroll Rack
 1 Humility
@@ -109,18 +110,17 @@
 1 Land Tax
 1 Zuran Orb
 1 Enlightened Tutor
-1 Ghostly Prison
 1 Undiscovered Paradise
 1 Swords to Plowshares
 2 Plains
 2 Helm of Obedience
 2 Orim's Chant
 2 Wrath of God
-2 Banishing Light
 2 Swords to Plowshares
 2 Enlightened Tutor
 2 Rest in Peace
 2 Undiscovered Paradise
+2 Banishing Light
 2 Scroll Rack
 2 Land Tax
 3 Banishing Light
@@ -134,10 +134,10 @@
 4 Orim's Chant
 4 Plains
 4 Land Tax
+4 Enlightened Tutor
 5 Plains
 6 Plains
 7 Plains
-8 Plains
 9 Plains
 10 Plains
 11 Plains
@@ -146,4 +146,4 @@
 14 Plains
 15 Plains
 16 Plains
-4 Enlightened Tutor
+8 Plains
