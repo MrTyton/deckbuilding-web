@@ -7,14 +7,14 @@
 3 Forest
 3 Temple of Malady
 4 Temple of Malady
+1 Foulmire Knight
 1 Darkbore Pathway
 1 Edgewall Innkeeper
 1 Lovestruck Beast
-1 Foulmire Knight
 1 Murderous Rider
+2 Foulmire Knight
 2 Lovestruck Beast
 2 Murderous Rider
-2 Foulmire Knight
 2 Edgewall Innkeeper
 2 Darkbore Pathway
 3 Swamp
@@ -23,11 +23,11 @@
 3 Murderous Rider
 3 Foulmire Knight
 3 Darkbore Pathway
-4 Darkbore Pathway
 4 Lovestruck Beast
 4 Edgewall Innkeeper
 4 Foulmire Knight
 4 Swamp
+4 Darkbore Pathway
 1 Sculptor of Winter
 2 Sculptor of Winter
 3 Sculptor of Winter
@@ -44,9 +44,9 @@
 1 Sarulf, Realm Eater
 1 Ashiok, Nightmare Muse
 1 Frantic Inventory
-1 Poison the Cup
 1 Behold the Multiverse
 1 Feed the Serpent
+1 Poison the Cup
 1 Feed the Swarm
 1 Sarulf's Packmate
 1 Thrashing Brontodon
@@ -56,12 +56,12 @@
 2 Behold the Multiverse
 2 Frantic Inventory
 2 Poison the Cup
+2 Feed the Serpent
 2 Feed the Swarm
 2 Chainweb Aracnir
 2 Elspeth's Nightmare
 2 Port of Karfell
 2 Sarulf's Packmate
-2 Feed the Serpent
 2 Thrashing Brontodon
 3 Snow-Covered Island
 3 Behold the Multiverse
@@ -95,10 +95,10 @@
 3 Heartless Act
 3 Valki, God of Lies
 3 Cragcrown Pathway
+4 Blightstep Pathway
 4 Heartless Act
 4 Murderous Rider
 4 Cragcrown Pathway
-4 Blightstep Pathway
 1 Gilded Goose
 1 Witch's Oven
 1 Trail of Crumbs
@@ -166,18 +166,18 @@
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
+1 Chevill, Bane of Monsters
 1 Jolrael, Mwonvuli Recluse
 1 Primal Might
-1 Chevill, Bane of Monsters
 1 Elder Gargaroth
 1 Ram Through
 1 Rankle, Master of Pranks
 1 Castle Locthwain
 2 Jolrael, Mwonvuli Recluse
-2 Chevill, Bane of Monsters
 2 Elder Gargaroth
 2 Primal Might
 2 Rankle, Master of Pranks
+2 Chevill, Bane of Monsters
 3 Jolrael, Mwonvuli Recluse
 3 Kazandu Mammoth
 5 Swamp

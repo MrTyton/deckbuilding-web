@@ -116,7 +116,7 @@
 |                   21|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)       |                     |                                                                                                     |
 |                    1|[Ram Through](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479690)               |                     |                                                                                                     |
 |                    1|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)       |                     |                                                                                                     |
-|                    2|[Ram Through](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479690)               |                     |                                                                                                     |
 |                    2|[Thrashing Brontodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456570)       |                     |                                                                                                     |
+|                    2|[Ram Through](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479690)               |                     |                                                                                                     |
 |                    4|[Trail of Crumbs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473141)           |                     |                                                                                                     |
 

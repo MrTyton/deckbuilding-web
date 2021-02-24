@@ -86,11 +86,11 @@
 1 Clearwater Pathway
 1 Island
 1 Watery Grave
+2 Clearwater Pathway
 2 Thieves' Guild Enforcer
 2 Drown in the Loch
 2 Soaring Thought-Thief
 2 Watery Grave
-2 Clearwater Pathway
 3 Thieves' Guild Enforcer
 3 Clearwater Pathway
 3 Drown in the Loch
@@ -125,20 +125,7 @@
 3 Drowned Catacomb
 4 Drowned Catacomb
 4 Brazen Borrower
-1 Into the Story
-2 Into the Story
 1 Agadeem's Awakening
-1 Glint-Sleeve Siphoner
-2 Glint-Sleeve Siphoner
-3 Nighthawk Scavenger
-3 Glint-Sleeve Siphoner
-4 Glint-Sleeve Siphoner
-1 Plains
-1 Dragon Hunter
-2 Dragon Hunter
-3 Dragon Hunter
-4 Dragon Hunter
-4 Cathartic Reunion
 1 Collected Company
 1 Bolas's Citadel
 1 Catacomb Sifter
@@ -178,6 +165,30 @@
 4 Gilded Goose
 4 Bolas's Citadel
 4 Mayhem Devil
+1 Into the Story
+2 Into the Story
+1 Glint-Sleeve Siphoner
+2 Glint-Sleeve Siphoner
+3 Nighthawk Scavenger
+3 Glint-Sleeve Siphoner
+4 Glint-Sleeve Siphoner
+1 Blightstep Pathway
+1 Darkbore Pathway
+2 Blightstep Pathway
+2 Darkbore Pathway
+3 Blightstep Pathway
+3 Llanowar Elves
+3 Elvish Mystic
+3 Darkbore Pathway
+4 Blightstep Pathway
+4 Darkbore Pathway
+4 Cragcrown Pathway
+1 Plains
+1 Dragon Hunter
+2 Dragon Hunter
+3 Dragon Hunter
+4 Dragon Hunter
+4 Cathartic Reunion
 1 Heartless Act
 1 Liliana, the Last Hope
 2 Anticognition
@@ -191,17 +202,6 @@
 3 Mardu Shadowspear
 3 Wishclaw Talisman
 4 Mardu Shadowspear
-1 Blightstep Pathway
-1 Darkbore Pathway
-2 Blightstep Pathway
-2 Darkbore Pathway
-3 Blightstep Pathway
-3 Llanowar Elves
-3 Elvish Mystic
-3 Darkbore Pathway
-4 Blightstep Pathway
-4 Darkbore Pathway
-4 Cragcrown Pathway
 1 Of One Mind
 1 Deathrite Shaman
 1 Zagoth Triome
@@ -209,12 +209,12 @@
 1 Breeding Pool
 1 Botanical Sanctum
 2 Of One Mind
+2 Cling to Dust
 2 Agadeem's Awakening
 2 Heartless Act
 2 Zagoth Triome
 2 Merfolk Windrobber
 2 Botanical Sanctum
-2 Cling to Dust
 2 Deathrite Shaman
 3 Of One Mind
 3 Into the Story
@@ -225,15 +225,15 @@
 4 Into the Story
 4 Deathrite Shaman
 4 Botanical Sanctum
-1 Llanowar Wastes
 1 Judith, the Scourge Diva
-2 Llanowar Wastes
+1 Llanowar Wastes
 2 Judith, the Scourge Diva
+2 Llanowar Wastes
 4 Stomping Ground
 1 Temple Garden
 1 Gladecover Scout
-1 Branchloft Pathway
 1 Season of Growth
+1 Branchloft Pathway
 1 Gryff's Boon
 1 Sentinel's Eyes
 1 All That Glitters
@@ -245,10 +245,10 @@
 1 Helm of the Gods
 1 Fortified Village
 1 Adanto Vanguard
-2 Branchloft Pathway
 2 Season of Growth
 2 Temple Garden
 2 Gladecover Scout
+2 Branchloft Pathway
 2 Sentinel's Eyes
 2 Gryff's Boon
 2 All That Glitters
@@ -261,16 +261,16 @@
 2 Helm of the Gods
 2 Unflinching Courage
 2 Sunpetal Grove
-3 Sunpetal Grove
 3 Gladecover Scout
 3 Branchloft Pathway
 3 Temple Garden
-3 Adanto Vanguard
+3 Sunpetal Grove
 3 Sentinel's Eyes
 3 Cartouche of Solidarity
 3 All That Glitters
 3 Ethereal Armor
 3 Gryff's Boon
+3 Adanto Vanguard
 3 Unflinching Courage
 3 Forest
 3 Bassara Tower Archer
@@ -278,6 +278,7 @@
 4 Branchloft Pathway
 4 Temple Garden
 4 Cartouche of Solidarity
+4 Sunpetal Grove
 4 All That Glitters
 4 Gryff's Boon
 4 Ethereal Armor
@@ -285,15 +286,14 @@
 4 Adanto Vanguard
 4 Unflinching Courage
 4 Forest
-4 Sunpetal Grove
 4 Bassara Tower Archer
 5 Forest
 1 Champion of Dusk
 1 Sorin, Imperious Bloodlord
 1 Dusk Legion Zealot
 1 Gifted Aetherborn
-1 Blood Baron of Vizkopa
 1 Bloodchief's Thirst
+1 Blood Baron of Vizkopa
 1 Knight of the Ebon Legion
 1 Isolated Chapel
 1 Kalitas, Traitor of Ghet
@@ -301,8 +301,8 @@
 2 Sorin, Imperious Bloodlord
 2 Champion of Dusk
 2 Dusk Legion Zealot
-2 Isolated Chapel
 2 Gifted Aetherborn
+2 Isolated Chapel
 2 Knight of the Ebon Legion
 2 Kalitas, Traitor of Ghet
 2 Castle Locthwain

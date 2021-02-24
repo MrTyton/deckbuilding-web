@@ -11,10 +11,10 @@
 2 Path to Exile
 1 Battlefield Forge
 2 Battlefield Forge
-3 Battlefield Forge
 3 Path to Exile
-4 Battlefield Forge
+3 Battlefield Forge
 4 Path to Exile
+4 Battlefield Forge
 6 Plains
 1 Temple Garden
 1 Wooded Foothills
@@ -22,11 +22,11 @@
 1 Birds of Paradise
 1 Windswept Heath
 2 Windswept Heath
+2 Birds of Paradise
 2 Wooded Foothills
 2 Stomping Ground
-2 Birds of Paradise
-3 Birds of Paradise
 3 Windswept Heath
+3 Birds of Paradise
 3 Wooded Foothills
 4 Birds of Paradise
 1 Voice of Resurgence
@@ -95,39 +95,38 @@
 2 Godo, Bandit Warlord
 3 Godo, Bandit Warlord
 4 Godo, Bandit Warlord
-1 Noble Hierarch
-1 Hallowed Fountain
 1 Reflecting Pool
+1 Hallowed Fountain
 1 Unclaimed Territory
-1 Blade Splicer
 1 Meddling Mage
+1 Blade Splicer
+1 Alirios, Enraptured
 1 Ancient Ziggurat
 1 Kitesail Freebooter
 1 Island
 1 Thalia's Lieutenant
 1 Mantis Rider
+1 Noble Hierarch
 1 Champion of the Parish
-1 Alirios, Enraptured
 1 Avacyn's Pilgrim
 1 Flooded Strand
+2 Alirios, Enraptured
+2 Meddling Mage
 2 Unclaimed Territory
 2 Blade Splicer
-2 Noble Hierarch
-2 Meddling Mage
 2 Ancient Ziggurat
 2 Reflecting Pool
+2 Noble Hierarch
 2 Avacyn's Pilgrim
 2 Flooded Strand
 2 Mantis Rider
 2 Thalia's Lieutenant
-2 Alirios, Enraptured
 2 Champion of the Parish
 2 Kitesail Freebooter
+3 Meddling Mage
 3 Unclaimed Territory
 3 Charming Prince
 3 Blade Splicer
-3 Noble Hierarch
-3 Meddling Mage
 3 Champion of the Parish
 3 Cavern of Souls
 3 Flooded Strand
@@ -136,7 +135,8 @@
 3 Thalia's Lieutenant
 3 Kitesail Freebooter
 3 Reflecting Pool
-4 Noble Hierarch
+3 Noble Hierarch
+4 Flooded Strand
 4 Unclaimed Territory
 4 Blade Splicer
 4 Smuggler's Copter
@@ -147,7 +147,7 @@
 4 Thalia's Lieutenant
 4 Meddling Mage
 4 Reflecting Pool
-4 Flooded Strand
+4 Noble Hierarch
 4 Cavern of Souls
 1 Eternal Witness
 2 Snow-Covered Forest
@@ -159,21 +159,21 @@
 1 Utopia Sprawl
 1 Pia Nalaar
 2 Avalanche Riders
-2 Huntmaster of the Fells
 2 Utopia Sprawl
+2 Huntmaster of the Fells
 2 Pia Nalaar
+3 Utopia Sprawl
 3 Magus of the Moon
 3 Huntmaster of the Fells
 3 Goblin Rabblemaster
-3 Utopia Sprawl
 4 Magus of the Moon
 4 Huntmaster of the Fells
 4 Utopia Sprawl
 4 Forest
 4 Goblin Rabblemaster
 5 Forest
-1 Brushfire Elemental
 1 Gilded Goose
+1 Brushfire Elemental
 1 Rampaging Ferocidon
 1 Banisher Priest
 2 Brushfire Elemental

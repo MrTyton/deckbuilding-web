@@ -11,9 +11,9 @@
 2 Crawling Barrens
 1 Mazemind Tome
 1 Disdainful Stroke
+2 Mazemind Tome
 2 Disdainful Stroke
 2 Negate
-2 Mazemind Tome
 3 Mazemind Tome
 4 Heartless Act
 4 Mazemind Tome
@@ -42,26 +42,26 @@
 2 Snow-Covered Swamp
 2 Omen of the Sea
 2 Snow-Covered Island
-2 Field of Ruin
 2 Midnight Clock
-2 Graven Lore
+2 Field of Ruin
 2 Ice Tunnel
+2 Graven Lore
 3 Graven Lore
 3 Eliminate
 3 Omen of the Sea
-3 Snow-Covered Swamp
 3 Disdainful Stroke
+3 Ice Tunnel
 3 Negate
+3 Snow-Covered Swamp
 3 Field of Ruin
 3 Snow-Covered Island
-3 Ice Tunnel
 4 Graven Lore
 4 Snow-Covered Island
 4 Omen of the Sea
 4 Eliminate
+4 Ice Tunnel
 4 Negate
 4 Snow-Covered Swamp
-4 Ice Tunnel
 4 Field of Ruin
 5 Snow-Covered Island
 5 Snow-Covered Swamp
@@ -90,8 +90,8 @@
 1 Dismal Backwater
 2 Dismal Backwater
 3 Dismal Backwater
-4 Jwari Disruption
 4 Disdainful Stroke
+4 Jwari Disruption
 1 Call of the Death-Dweller
 2 Cling to Dust
 2 Riverglide Pathway
@@ -106,19 +106,19 @@
 2 Sea Gate Restoration
 3 Blightstep Pathway
 3 Sea Gate Restoration
-1 Rewind
-1 Brazen Borrower
-2 Brazen Borrower
-3 Soul Shatter
-4 Shadows' Verdict
 4 Of One Mind
+1 Raugrin Triome
 1 Silundi Vision
 1 Alrund's Epiphany
-1 Raugrin Triome
 2 Silundi Vision
 2 Castle Vantress
 2 Alrund's Epiphany
 3 Valki, God of Lies
+3 Extinction Event
 6 Island
 6 Swamp
-3 Extinction Event
+1 Rewind
+1 Brazen Borrower
+2 Brazen Borrower
+4 Shadows' Verdict
+3 Soul Shatter

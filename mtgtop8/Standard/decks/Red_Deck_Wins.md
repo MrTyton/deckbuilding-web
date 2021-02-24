@@ -63,7 +63,7 @@
 |                     |                                                                                                     |                    2|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)    |
 |                     |                                                                                                     |                    3|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)    |
 |                     |                                                                                                     |                    3|[Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|
-|                     |                                                                                                     |                    4|[Redcap Melee](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473097)          |
 |                     |                                                                                                     |                    4|[Phoenix of Ash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476399)        |
+|                     |                                                                                                     |                    4|[Redcap Melee](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473097)          |
 |                     |                                                                                                     |                    3|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)         |
 

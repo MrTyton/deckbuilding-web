@@ -1,17 +1,21 @@
-2 Bonecrusher Giant
-2 Jace, the Mind Sculptor
-1 Abrade
+4 Flooded Strand
 2 Polluted Delta
 1 Shark Typhoon
 2 Shark Typhoon
+2 Jace, the Mind Sculptor
+1 Abrade
 1 Cascade Bluffs
 1 The Royal Scions
 1 Blast Zone
-2 Magmatic Sinkhole
 2 Cascade Bluffs
 2 The Royal Scions
+2 Magmatic Sinkhole
 3 Brazen Borrower
 4 Brazen Borrower
+1 Mana Leak
+3 Steam Vents
+2 Misty Rainforest
+3 Misty Rainforest
 1 Fiery Islet
 1 Soul-Scar Mage
 1 Lava Dart
@@ -47,16 +51,14 @@
 2 Through the Breach
 3 Omen of the Sea
 3 Sulfur Falls
-3 Through the Breach
 3 Emrakul, the Aeons Torn
+3 Through the Breach
 4 Through the Breach
 4 Emrakul, the Aeons Torn
 1 Ancestral Vision
-1 Mana Leak
 2 Ancestral Vision
 8 Island
 1 Ral, Izzet Viceroy
-3 Steam Vents
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
@@ -66,8 +68,6 @@
 3 Crash Through
 4 Crash Through
 1 Fire Prophecy
-2 Misty Rainforest
-3 Misty Rainforest
 4 Misty Rainforest
 1 Bedlam Reveler
 2 Bedlam Reveler
@@ -90,6 +90,7 @@
 4 Bedlam Reveler
 2 Fiery Islet
 1 Snow-Covered Mountain
+3 Mystic Sanctuary
 1 Mutagenic Growth
 2 Mutagenic Growth
 3 Mutagenic Growth
@@ -97,20 +98,82 @@
 1 Arid Mesa
 1 Wooded Foothills
 2 Wooded Foothills
+1 Sprite Dragon
+2 Sprite Dragon
+3 Sprite Dragon
+4 Sprite Dragon
 3 Sunbaked Canyon
 1 Yidaro, Wandering Monster
 1 Wandering Fumarole
 1 Peek
 2 Peek
-1 Spell Pierce
-1 Dispel
-2 Spell Pierce
-3 Ancestral Vision
 1 Narset, Parter of Veils
 1 Vendilion Clique
 1 Flame Slash
 2 Narset, Parter of Veils
-3 Mystic Sanctuary
+1 Dispel
+1 Spell Pierce
+2 Spell Pierce
+3 Ancestral Vision
+1 Cosima, God of the Voyage
+1 Field of Ruin
+1 Behold the Multiverse
+1 Bloodchief's Thirst
+1 Drowned Catacomb
+1 Watery Grave
+1 Swamp
+1 Heartless Act
+1 Fatal Push
+1 Cling to Dust
+1 Sunken Hollow
+2 Cling to Dust
+2 Cosima, God of the Voyage
+2 Watery Grave
+2 Field of Ruin
+2 Behold the Multiverse
+2 Mana Leak
+2 Fatal Push
+3 Cosima, God of the Voyage
+3 Shark Typhoon
+3 Polluted Delta
+3 Fatal Push
+4 Polluted Delta
+4 Fatal Push
+1 Thing in the Ice
+2 Thing in the Ice
+3 Thing in the Ice
+4 Thing in the Ice
+1 Bomat Courier
+1 Spirebluff Canal
+1 Stormwing Entity
+2 Arid Mesa
+2 Stormwing Entity
+2 Spirebluff Canal
+3 Arid Mesa
+3 Wooded Foothills
+3 Stormwing Entity
+3 Spirebluff Canal
+3 Fiery Islet
+4 Spirebluff Canal
+4 Stormwing Entity
+1 Goldspan Dragon
+1 Glorybringer
+1 Silumgar's Scorn
+1 Mothdust Changeling
+1 Magda, Brazen Outlaw
+2 Goldspan Dragon
+2 Magda, Brazen Outlaw
+2 Silumgar's Scorn
+2 Mothdust Changeling
+3 Mothdust Changeling
+3 Magda, Brazen Outlaw
+3 Goldspan Dragon
+3 Silumgar's Scorn
+3 Blood Moon
+3 Bonecrusher Giant
+4 Silumgar's Scorn
+4 Mothdust Changeling
+4 Magda, Brazen Outlaw
 1 Bloodstained Mire
 1 Sacred Foundry
 1 Inspiring Vantage
@@ -118,35 +181,14 @@
 1 Myth Realized
 1 Boros Charm
 2 Bloodstained Mire
-2 Inspiring Vantage
 2 Sacred Foundry
 2 Abbot of Keral Keep
 2 Boros Charm
 2 Myth Realized
+2 Inspiring Vantage
 3 Inspiring Vantage
 3 Myth Realized
 4 Inspiring Vantage
-1 Thing in the Ice
-2 Thing in the Ice
-3 Thing in the Ice
-4 Thing in the Ice
-1 Bomat Courier
-1 Spirebluff Canal
-1 Sprite Dragon
-1 Stormwing Entity
-2 Arid Mesa
-2 Stormwing Entity
-2 Sprite Dragon
-2 Spirebluff Canal
-3 Arid Mesa
-3 Wooded Foothills
-3 Spirebluff Canal
-3 Sprite Dragon
-3 Fiery Islet
-3 Stormwing Entity
-4 Sprite Dragon
-4 Stormwing Entity
-4 Spirebluff Canal
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island

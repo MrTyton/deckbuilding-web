@@ -1,4 +1,4 @@
-4 Windcaller Aven
+2 Waker of Waves
 3 Street Wraith
 1 Desert Cerodon
 2 Desert Cerodon
@@ -14,11 +14,11 @@
 4 Street Wraith
 1 Snow-Covered Forest
 1 Seachrome Coast
-1 Breeding Pool
 1 Snow-Covered Plains
 1 Ardent Plea
 1 Hallowed Fountain
 1 Snow-Covered Island
+1 Breeding Pool
 1 Glassdust Hulk
 1 Botanical Sanctum
 1 Flooded Strand
@@ -26,8 +26,8 @@
 2 Glassdust Hulk
 2 Flooded Strand
 3 Ardent Plea
-3 Misty Rainforest
 3 Flooded Strand
+3 Misty Rainforest
 3 Glassdust Hulk
 4 Ardent Plea
 4 Misty Rainforest
@@ -35,11 +35,16 @@
 4 Glassdust Hulk
 1 Imposing Vantasaur
 3 Spirebluff Canal
+4 Spirebluff Canal
+1 Finale of Promise
+1 Riverglide Pathway
+1 Silundi Vision
 1 Copperline Gorge
 1 Beast Within
 1 Simian Spirit Guide
-1 Swamp
 1 Blooming Marsh
+1 Swamp
+1 Wooded Foothills
 1 Fulminator Mage
 1 Faerie Macabre
 1 Overgrown Tomb
@@ -50,16 +55,14 @@
 1 Demonic Dread
 1 Architects of Will
 1 Bloodstained Mire
-1 Wooded Foothills
 1 Blackcleave Cliffs
 1 Forest
-2 Wooded Foothills
 2 Blood Crypt
 2 Blackcleave Cliffs
 2 Copperline Gorge
 2 Swamp
 2 Simian Spirit Guide
-2 Fulminator Mage
+2 Wooded Foothills
 2 Beast Within
 2 Faerie Macabre
 2 Bloodstained Mire
@@ -69,9 +72,10 @@
 2 Monstrous Carabid
 2 Architects of Will
 2 Demonic Dread
+2 Fulminator Mage
 3 Bloodstained Mire
-3 Wooded Foothills
 3 Simian Spirit Guide
+3 Wooded Foothills
 3 Fulminator Mage
 3 Demonic Dread
 3 Monstrous Carabid
@@ -80,5 +84,3 @@
 4 Fulminator Mage
 4 Horror of the Broken Lands
 4 Monstrous Carabid
-1 Finale of Promise
-4 Spirebluff Canal
