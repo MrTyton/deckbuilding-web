@@ -78,24 +78,24 @@
 2 Starnheim Unleashed
 1 Gates of Istfell
 3 Castle Ardenvale
-4 Crawling Barrens
-4 Disdainful Stroke
-1 Fae of Wishes
-1 Baneslayer Angel
-2 Fae of Wishes
-2 Baneslayer Angel
-3 Fae of Wishes
-3 Baneslayer Angel
-3 Brazen Borrower
-4 Fae of Wishes
-4 Omen of the Sun
-4 Brazen Borrower
 1 Tranquil Cove
 1 Neutralize
 2 Tranquil Cove
 2 Neutralize
 3 Neutralize
 4 Neutralize
+4 Crawling Barrens
+4 Disdainful Stroke
+1 Fae of Wishes
+1 Baneslayer Angel
+2 Fae of Wishes
+2 Baneslayer Angel
+3 Baneslayer Angel
+3 Brazen Borrower
+3 Fae of Wishes
+4 Omen of the Sun
+4 Brazen Borrower
+4 Fae of Wishes
 1 Thirst for Meaning
 1 Mystic Subdual
 2 Thirst for Meaning
@@ -123,19 +123,13 @@
 1 Glasspool Mimic
 1 Charming Prince
 2 Charming Prince
+1 Bubble Snare
+2 Bubble Snare
+3 Bubble Snare
 1 Sigrid, God-Favored
 1 Ondu Inversion
 2 Sigrid, God-Favored
 3 Sigrid, God-Favored
-1 Bubble Snare
-2 Bubble Snare
-3 Bubble Snare
-1 Ravenform
-2 Gates of Istfell
-2 Ravenform
-3 Gates of Istfell
-3 Alrund's Epiphany
-4 Midnight Clock
 1 Ugin, the Spirit Dragon
 1 Cosima, God of the Voyage
 1 Snow-Covered Plains
@@ -146,6 +140,12 @@
 3 Snow-Covered Island
 3 Snow-Covered Plains
 4 Snow-Covered Island
+4 Snow-Covered Plains
 5 Snow-Covered Island
 6 Snow-Covered Island
-4 Snow-Covered Plains
+1 Ravenform
+2 Gates of Istfell
+2 Ravenform
+3 Gates of Istfell
+3 Alrund's Epiphany
+4 Midnight Clock

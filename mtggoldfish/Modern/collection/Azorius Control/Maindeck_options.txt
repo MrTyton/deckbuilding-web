@@ -67,8 +67,8 @@
 1 Counterbalance
 2 Counterbalance
 3 Counterbalance
-4 Omen of the Sea
 4 Counterbalance
+4 Omen of the Sea
 1 Condemn
 1 Narset, Parter of Veils
 1 Irrigated Farmland
@@ -78,39 +78,39 @@
 3 Spell Queller
 4 Spell Queller
 1 Seachrome Coast
-1 Hengegate Pathway
 1 Blinkmoth Nexus
+1 Hengegate Pathway
 2 Seachrome Coast
 2 Hengegate Pathway
-3 Hengegate Pathway
 3 Seachrome Coast
+3 Hengegate Pathway
 4 Seachrome Coast
 4 Hengegate Pathway
 1 Commandeer
 1 Raugrin Triome
 2 Castle Ardenvale
 4 Mana Leak
+1 Dismember
 1 Ghost Quarter
 1 Entreat the Angels
-1 Dismember
 2 Aether Gust
 1 Disrupting Shoal
 2 Disrupting Shoal
 1 Serum Visions
 2 Serum Visions
-1 Lavinia, Azorius Renegade
 1 Eiganjo Castle
+1 Lavinia, Azorius Renegade
 2 Lavinia, Azorius Renegade
 2 Commandeer
 3 Lavinia, Azorius Renegade
 1 Watery Grave
+1 Godless Shrine
+1 Swamp
 1 Kaya, Orzhov Usurper
-1 Bitterblossom
 1 Thoughtseize
 1 Fatal Push
+1 Bitterblossom
 1 Inquisition of Kozilek
-1 Swamp
-1 Godless Shrine
 2 Bitterblossom
 2 Watery Grave
 2 Kaya, Orzhov Usurper
@@ -126,8 +126,6 @@
 2 Mutavault
 3 Mutavault
 4 Mutavault
-3 Plains
-4 Prismatic Vista
 2 Logic Knot
 4 Misty Rainforest
 1 Behold the Multiverse
@@ -148,3 +146,5 @@
 4 Tectonic Edge
 4 Hallowed Fountain
 4 Thraben Inspector
+3 Plains
+4 Prismatic Vista

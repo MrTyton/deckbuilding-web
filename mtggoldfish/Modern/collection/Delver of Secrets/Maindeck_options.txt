@@ -156,8 +156,8 @@
 1 Vendilion Clique
 5 Island
 1 Creeping Tar Pit
-1 Gurmag Angler
 1 Terminate
+1 Gurmag Angler
 2 Gurmag Angler
 2 Terminate
 1 The Royal Scions
@@ -174,42 +174,6 @@
 2 Agadeem's Awakening
 2 Marsh Flats
 4 Darkslick Shores
-1 Lava Spike
-1 Sunbaked Canyon
-1 Gut Shot
-1 Mutagenic Growth
-1 Light Up the Stage
-1 Monastery Swiftspear
-1 Stormwing Entity
-1 Manamorphose
-1 Lava Dart
-1 Assault Strobe
-2 Lava Spike
-2 Mutagenic Growth
-2 Light Up the Stage
-2 Monastery Swiftspear
-2 Manamorphose
-2 Lava Dart
-2 Stormwing Entity
-2 Gut Shot
-2 Assault Strobe
-2 Mountain
-3 Mountain
-3 Lava Dart
-3 Monastery Swiftspear
-3 Lava Spike
-3 Light Up the Stage
-3 Manamorphose
-3 Fiery Islet
-3 Stormwing Entity
-4 Lava Dart
-4 Monastery Swiftspear
-4 Manamorphose
-4 Light Up the Stage
-4 Lava Spike
-4 Mountain
-4 Fiery Islet
-4 Stormwing Entity
 1 Dreadhorde Arcanist
 2 Dreadhorde Arcanist
 2 Hallowed Fountain
@@ -222,6 +186,42 @@
 2 Visions of Beyond
 3 Visions of Beyond
 4 Visions of Beyond
+1 Sunbaked Canyon
+1 Lava Spike
+1 Mutagenic Growth
+1 Gut Shot
+1 Light Up the Stage
+1 Monastery Swiftspear
+1 Manamorphose
+1 Lava Dart
+1 Assault Strobe
+1 Stormwing Entity
+2 Lava Spike
+2 Mutagenic Growth
+2 Light Up the Stage
+2 Monastery Swiftspear
+2 Gut Shot
+2 Manamorphose
+2 Lava Dart
+2 Stormwing Entity
+2 Assault Strobe
+2 Mountain
+3 Mountain
+3 Lava Spike
+3 Lava Dart
+3 Monastery Swiftspear
+3 Light Up the Stage
+3 Manamorphose
+3 Stormwing Entity
+3 Fiery Islet
+4 Lava Dart
+4 Monastery Swiftspear
+4 Lava Spike
+4 Manamorphose
+4 Light Up the Stage
+4 Mountain
+4 Fiery Islet
+4 Stormwing Entity
 1 Soul-Scar Mage
 1 Wizard's Retort
 1 Wizard's Lightning
@@ -237,19 +237,19 @@
 1 Volatile Fjord
 5 Snow-Covered Island
 6 Snow-Covered Island
-1 Mutavault
 1 Cryptic Command
-1 Deliberate
+1 Mutavault
 1 Silundi Vision
 1 Castle Vantress
 1 Oboro, Palace in the Clouds
+1 Deliberate
 1 Psionic Blast
 1 Spellstutter Sprite
-2 Deliberate
 2 Mutavault
 2 Cryptic Command
 2 Vendilion Clique
 2 Psionic Blast
+2 Deliberate
 2 Spellstutter Sprite
 3 Spellstutter Sprite
 3 Cryptic Command
