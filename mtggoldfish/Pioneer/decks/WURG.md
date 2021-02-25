@@ -90,7 +90,7 @@
 |                    2|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)      |                     |                                                                                                    |
 |                    3|[Valakut Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491818)      |                     |                                                                                                    |
 |                    3|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)      |                     |                                                                                                    |
-|                    4|[Valakut Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491818)      |                     |                                                                                                    |
 |                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                 |                     |                                                                                                    |
+|                    4|[Valakut Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491818)      |                     |                                                                                                    |
 |                    4|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)      |                     |                                                                                                    |
 

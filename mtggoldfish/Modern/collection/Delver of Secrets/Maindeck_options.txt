@@ -2,16 +2,16 @@
 1 Kolaghan's Command
 2 Kolaghan's Command
 1 Thieves' Guild Enforcer
-1 Thoughtseize
 1 Swamp
+1 Thoughtseize
 2 Thieves' Guild Enforcer
 2 Drown in the Loch
-3 Inquisition of Kozilek
+3 Drown in the Loch
 3 Thieves' Guild Enforcer
 3 Watery Grave
-3 Drown in the Loch
-4 Drown in the Loch
+3 Inquisition of Kozilek
 4 Thieves' Guild Enforcer
+4 Drown in the Loch
 4 Force of Negation
 1 Bloodstained Mire
 2 Bloodstained Mire
@@ -48,14 +48,14 @@
 4 Mana Leak
 1 Forest
 1 Wooded Foothills
-1 Hexdrinker
 1 Breeding Pool
+1 Hexdrinker
 1 Stubborn Denial
 1 Tarmogoyf
 2 Wooded Foothills
 2 Hexdrinker
-2 Stubborn Denial
 2 Breeding Pool
+2 Stubborn Denial
 2 Tarmogoyf
 3 Misty Rainforest
 3 Hexdrinker
@@ -82,22 +82,22 @@
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
-1 Lightning Helix
 1 Path to Exile
+1 Lightning Helix
 1 Sacred Foundry
-2 Lightning Helix
 2 Path to Exile
-3 Lightning Helix
+2 Lightning Helix
 3 Path to Exile
+3 Lightning Helix
 1 Uro, Titan of Nature's Wrath
 2 Forest
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
 4 Remand
 1 Seachrome Coast
-1 Sword of Fire and Ice
 1 Mantis Rider
 1 Batterskull
+1 Sword of Fire and Ice
 1 Stoneforge Mystic
 1 Plains
 2 Seachrome Coast
@@ -142,11 +142,11 @@
 2 Mystic Sanctuary
 4 Steam Vents
 3 Spell Pierce
-1 Bitterblossom
 1 Bloodchief's Thirst
+1 Bitterblossom
 2 Bitterblossom
-2 Thoughtseize
 2 Swamp
+2 Thoughtseize
 3 Bitterblossom
 3 Darkslick Shores
 4 Ancestral Vision
@@ -170,23 +170,22 @@
 2 Icehide Golem
 1 Agadeem's Awakening
 1 Marsh Flats
-2 Bloodchief's Thirst
 2 Agadeem's Awakening
+2 Bloodchief's Thirst
 2 Marsh Flats
 4 Darkslick Shores
+3 Young Pyromancer
+4 Young Pyromancer
 1 Dreadhorde Arcanist
 2 Hallowed Fountain
 2 Dreadhorde Arcanist
 3 Hallowed Fountain
 3 Dreadhorde Arcanist
 4 Dreadhorde Arcanist
-3 Young Pyromancer
-4 Young Pyromancer
 1 Visions of Beyond
 2 Visions of Beyond
 3 Visions of Beyond
 4 Visions of Beyond
-1 Sunbaked Canyon
 1 Lava Spike
 1 Gut Shot
 1 Light Up the Stage
@@ -195,7 +194,9 @@
 1 Lava Dart
 1 Mutagenic Growth
 1 Assault Strobe
+1 Sunbaked Canyon
 1 Stormwing Entity
+2 Mountain
 2 Lava Spike
 2 Light Up the Stage
 2 Monastery Swiftspear
@@ -205,7 +206,6 @@
 2 Mutagenic Growth
 2 Stormwing Entity
 2 Assault Strobe
-2 Mountain
 3 Mountain
 3 Lava Spike
 3 Lava Dart
@@ -237,18 +237,18 @@
 1 Volatile Fjord
 5 Snow-Covered Island
 6 Snow-Covered Island
-1 Cryptic Command
 1 Mutavault
-1 Castle Vantress
 1 Oboro, Palace in the Clouds
+1 Castle Vantress
+1 Cryptic Command
 1 Deliberate
 1 Psionic Blast
 1 Spellstutter Sprite
 1 Silundi Vision
 2 Mutavault
-2 Cryptic Command
 2 Vendilion Clique
 2 Psionic Blast
+2 Cryptic Command
 2 Deliberate
 2 Spellstutter Sprite
 3 Spellstutter Sprite

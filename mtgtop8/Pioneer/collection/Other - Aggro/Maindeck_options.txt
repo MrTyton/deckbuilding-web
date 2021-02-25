@@ -1,28 +1,6 @@
-2 Mayhem Devil
-2 Elvish Mystic
-2 Cragcrown Pathway
-2 Woe Strider
-2 Zulaport Cutthroat
-2 Catacomb Sifter
-3 Collected Company
-3 Mayhem Devil
-3 Catacomb Sifter
-3 Cragcrown Pathway
-3 Gilded Goose
-3 Woe Strider
-3 Zulaport Cutthroat
-3 Bolas's Citadel
-3 Priest of Forgotten Gods
-4 Collected Company
-4 Priest of Forgotten Gods
-4 Catacomb Sifter
-4 Woe Strider
-4 Zulaport Cutthroat
-4 Gilded Goose
-4 Bolas's Citadel
-4 Mayhem Devil
 1 Urborg, Tomb of Yawgmoth
 1 Agadeem's Awakening
+1 Swamp
 1 Thoughtseize
 1 Fatal Push
 2 Fatal Push
@@ -34,7 +12,6 @@
 1 Soaring Thought-Thief
 1 Cling to Dust
 1 Clearwater Pathway
-1 Island
 1 Watery Grave
 2 Clearwater Pathway
 2 Thieves' Guild Enforcer
@@ -42,17 +19,20 @@
 2 Soaring Thought-Thief
 2 Watery Grave
 3 Thieves' Guild Enforcer
-3 Clearwater Pathway
 3 Drown in the Loch
 3 Soaring Thought-Thief
+3 Clearwater Pathway
 3 Watery Grave
-4 Clearwater Pathway
 4 Drown in the Loch
 4 Thieves' Guild Enforcer
 4 Soaring Thought-Thief
+4 Clearwater Pathway
 4 Watery Grave
 3 Fatal Push
 4 Fatal Push
+1 Into the Story
+2 Into the Story
+1 Island
 1 Anticognition
 1 Nighthawk Scavenger
 1 Mystical Dispute
@@ -70,69 +50,78 @@
 3 Drowned Catacomb
 4 Drowned Catacomb
 4 Brazen Borrower
-1 Into the Story
-2 Into the Story
-1 Murderous Rider
-1 Magmatic Channeler
-3 Woodland Cemetery
-3 Grapple with the Past
+1 Eliminate
+2 Eliminate
 1 Castle Locthwain
 2 Swamp
 3 Swamp
-2 Murderous Rider
-3 Murderous Rider
-1 Cathartic Reunion
-1 Gather the Pack
-1 Lotleth Troll
-1 Mana Confluence
-2 Mana Confluence
-2 Cathartic Reunion
-2 Gather the Pack
-3 Cathartic Reunion
-3 Gather the Pack
-3 Samut, Voice of Dissent
-3 Nullhide Ferox
-4 Blood Crypt
-4 Murderous Rider
-4 Samut, Voice of Dissent
-1 Eliminate
-2 Eliminate
 1 Glint-Sleeve Siphoner
 2 Glint-Sleeve Siphoner
 3 Nighthawk Scavenger
 3 Glint-Sleeve Siphoner
 4 Glint-Sleeve Siphoner
-1 Satyr Wayfinder
-1 Claim / Fame
-1 Embodiment of Agonies
-2 Satyr Wayfinder
-2 Magmatic Channeler
-2 Claim / Fame
-2 Embodiment of Agonies
-3 Satyr Wayfinder
-3 Magmatic Channeler
-3 Claim / Fame
-4 Magmatic Channeler
-4 Claim / Fame
-4 Woodland Cemetery
+2 Blood Crypt
+2 Stomping Ground
+3 Stomping Ground
+3 Blood Crypt
+1 Forest
+1 Woodland Cemetery
+1 Traverse the Ulvenwald
+1 Nullhide Ferox
+1 Soulflayer
+1 Zetalpa, Primal Dawn
+1 Grisly Salvage
+1 Stitcher's Supplier
+1 Samut, Voice of Dissent
+1 Grapple with the Past
+1 Mountain
+2 Woodland Cemetery
+2 Grisly Salvage
+2 Traverse the Ulvenwald
+2 Nullhide Ferox
+2 Samut, Voice of Dissent
+2 Zetalpa, Primal Dawn
+2 Stitcher's Supplier
+2 Grapple with the Past
+2 Soulflayer
+3 Traverse the Ulvenwald
+3 Zetalpa, Primal Dawn
+3 Grisly Salvage
+3 Stitcher's Supplier
+3 Soulflayer
+4 Grisly Salvage
+4 Stitcher's Supplier
+4 Zetalpa, Primal Dawn
+4 Soulflayer
+1 Heartless Act
+2 Agadeem's Awakening
+1 Magmatic Channeler
+3 Woodland Cemetery
+1 Judith, the Scourge Diva
+1 Llanowar Wastes
+2 Judith, the Scourge Diva
+2 Llanowar Wastes
+4 Stomping Ground
 1 Mutavault
 2 Mutavault
+3 Mutavault
 1 Brightclimb Pathway
 1 Godless Shrine
 2 Godless Shrine
 2 Brightclimb Pathway
 3 Brightclimb Pathway
-3 Mutavault
 4 Brightclimb Pathway
 4 Mutavault
+1 Plains
 1 Open the Armory
-1 Gods Willing
 1 Shadowspear
+1 Gods Willing
 1 Kor Blademaster
 1 Caves of Koilos
 1 Concealed Courtyard
 1 Sigarda's Aid
 1 Resolute Strike
+1 Dragon Hunter
 1 Wishclaw Talisman
 1 Bloodsoaked Champion
 1 Colossus Hammer
@@ -149,6 +138,7 @@
 2 Blood-Chin Rager
 2 Mardu Woe-Reaper
 2 Caves of Koilos
+2 Dragon Hunter
 2 Wishclaw Talisman
 3 Open the Armory
 3 Mardu Woe-Reaper
@@ -160,6 +150,7 @@
 3 Colossus Hammer
 3 Godless Shrine
 3 Bloodsoaked Champion
+3 Dragon Hunter
 3 Blood-Chin Rager
 4 Godless Shrine
 4 Sigarda's Aid
@@ -168,73 +159,79 @@
 4 Concealed Courtyard
 4 Colossus Hammer
 4 Resolute Strike
+4 Dragon Hunter
 4 Mardu Woe-Reaper
 4 Kor Blademaster
-1 Heartless Act
-1 Blightstep Pathway
-1 Darkbore Pathway
-2 Blightstep Pathway
-2 Darkbore Pathway
-3 Blightstep Pathway
-3 Llanowar Elves
-3 Elvish Mystic
-3 Darkbore Pathway
-4 Blightstep Pathway
-4 Darkbore Pathway
-4 Cragcrown Pathway
-1 Plains
-1 Dragon Hunter
-2 Dragon Hunter
-3 Dragon Hunter
-4 Dragon Hunter
-4 Cathartic Reunion
-1 Judith, the Scourge Diva
-1 Llanowar Wastes
-2 Judith, the Scourge Diva
-2 Llanowar Wastes
-4 Stomping Ground
-4 Grapple with the Past
+1 Murderous Rider
+2 Murderous Rider
+3 Murderous Rider
+1 Mana Confluence
+1 Cathartic Reunion
+1 Gather the Pack
+1 Lotleth Troll
+2 Mana Confluence
+2 Cathartic Reunion
+2 Gather the Pack
+3 Cathartic Reunion
+3 Gather the Pack
+3 Samut, Voice of Dissent
+3 Nullhide Ferox
+4 Blood Crypt
+4 Murderous Rider
+4 Samut, Voice of Dissent
+3 Grapple with the Past
+1 Satyr Wayfinder
+1 Claim / Fame
+1 Embodiment of Agonies
+2 Satyr Wayfinder
+2 Magmatic Channeler
+2 Claim / Fame
+2 Embodiment of Agonies
+3 Satyr Wayfinder
+3 Magmatic Channeler
+3 Claim / Fame
+4 Magmatic Channeler
 4 Satyr Wayfinder
+4 Claim / Fame
+4 Woodland Cemetery
 2 Heartless Act
-2 Agadeem's Awakening
+1 Breeding Pool
+1 Merfolk Windrobber
+1 Deathrite Shaman
+1 Botanical Sanctum
+2 Merfolk Windrobber
+2 Botanical Sanctum
+2 Deathrite Shaman
+3 Into the Story
+3 Deathrite Shaman
+3 Botanical Sanctum
+4 Deathrite Shaman
+4 Botanical Sanctum
 1 Liliana, the Last Hope
 2 Anticognition
+1 Thassa's Intervention
+1 Jace, Vryn's Prodigy
+2 Jace, Vryn's Prodigy
 1 Zareth San, the Trickster
 1 Notion Thief
 2 Notion Thief
 1 Lurrus of the Dream-Den
 2 Lurrus of the Dream-Den
-1 Mardu Shadowspear
-2 Mardu Shadowspear
-3 Mardu Shadowspear
-3 Wishclaw Talisman
-4 Mardu Shadowspear
-1 Breeding Pool
 1 Of One Mind
-1 Deathrite Shaman
 1 Zagoth Triome
-1 Merfolk Windrobber
-1 Botanical Sanctum
 2 Of One Mind
-2 Cling to Dust
 2 Zagoth Triome
-2 Merfolk Windrobber
-2 Botanical Sanctum
-2 Deathrite Shaman
+2 Cling to Dust
 3 Of One Mind
-3 Into the Story
-3 Merfolk Windrobber
-3 Deathrite Shaman
 3 Agadeem's Awakening
-3 Botanical Sanctum
+3 Merfolk Windrobber
 4 Into the Story
-4 Deathrite Shaman
-4 Botanical Sanctum
-1 Temple Garden
+4 Grapple with the Past
+4 Cathartic Reunion
 1 Season of Growth
 1 Gladecover Scout
+1 Temple Garden
 1 Sunpetal Grove
-1 Fortified Village
 1 Gryff's Boon
 1 Sentinel's Eyes
 1 All That Glitters
@@ -244,10 +241,11 @@
 1 Unflinching Courage
 1 Bassara Tower Archer
 1 Helm of the Gods
+1 Fortified Village
 1 Adanto Vanguard
 2 Season of Growth
-2 Temple Garden
 2 Gladecover Scout
+2 Temple Garden
 2 Sentinel's Eyes
 2 Gryff's Boon
 2 All That Glitters
@@ -262,8 +260,8 @@
 2 Unflinching Courage
 2 Sunpetal Grove
 3 Gladecover Scout
-3 Temple Garden
 3 Sunpetal Grove
+3 Temple Garden
 3 Sentinel's Eyes
 3 Cartouche of Solidarity
 3 Branchloft Pathway
@@ -275,9 +273,9 @@
 3 Forest
 3 Bassara Tower Archer
 4 Gladecover Scout
-4 Temple Garden
 4 Cartouche of Solidarity
 4 Sunpetal Grove
+4 Temple Garden
 4 All That Glitters
 4 Branchloft Pathway
 4 Gryff's Boon

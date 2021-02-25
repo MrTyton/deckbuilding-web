@@ -3,10 +3,10 @@
 3 Collective Brutality
 1 Ashiok, Dream Render
 2 Ashiok, Dream Render
-1 Firespout
-1 Shadowspear
-1 Natural State
 1 Veil of Summer
+1 Firespout
+1 Natural State
+1 Shadowspear
 1 Ancient Grudge
 2 Firespout
 2 Veil of Summer
@@ -26,8 +26,8 @@
 1 Lurrus of the Dream-Den
 1 Spell Pierce
 1 Fatal Push
-1 Path to Exile
 1 Lightning Helix
+1 Path to Exile
 1 Geist of Saint Traft
 1 Rest in Peace
 1 Force of Negation
@@ -59,8 +59,8 @@
 1 Magma Spray
 1 Relic of Progenitus
 2 Relic of Progenitus
-1 Dovin's Veto
 1 Mana Leak
+1 Dovin's Veto
 1 Thoughtseize
 1 Cling to Dust
 1 Unearth
@@ -68,6 +68,8 @@
 2 Thoughtseize
 1 Fry
 2 Bedlam Reveler
+1 Soul-Guide Lantern
+2 Soul-Guide Lantern
 1 Flame Slash
 1 Echoing Truth
 2 Echoing Truth
@@ -84,31 +86,29 @@
 2 Grim Lavamancer
 1 Infernal Reckoning
 2 Infernal Reckoning
-1 Soul-Guide Lantern
-2 Soul-Guide Lantern
 1 Geth's Verdict
 1 Psychic Barrier
 2 Psychic Barrier
 2 Geth's Verdict
-1 Nihil Spellbomb
-2 Nihil Spellbomb
-3 Nihil Spellbomb
-1 Plague Engineer
+1 Dreadbore
 1 Pillage
 1 Disdainful Stroke
-1 Dreadbore
+1 Plague Engineer
 2 Disdainful Stroke
 2 Pillage
 3 Ashiok, Dream Render
 1 Anger of the Gods
 2 Anger of the Gods
 3 Abrade
-1 Dragon's Claw
 1 Flusterstorm
+1 Dragon's Claw
 2 Flusterstorm
 2 Dragon's Claw
 3 Dragon's Claw
 3 Ceremonious Rejection
+1 Nihil Spellbomb
+2 Nihil Spellbomb
+3 Nihil Spellbomb
 1 Roast
 1 Spell Snare
 2 Spell Snare
@@ -120,9 +120,9 @@
 2 Bitterblossom
 4 Kaya's Guile
 1 Teferi, Mage of Zhalfir
-1 Jace, the Mind Sculptor
 1 Wurmcoil Engine
 1 Ratchet Bomb
+1 Jace, the Mind Sculptor
 2 Ratchet Bomb
 4 Aether Gust
 3 Entrancing Melody

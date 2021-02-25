@@ -1,15 +1,38 @@
-1 Relic of Progenitus
-1 Ugin, the Ineffable
-1 Spatial Contortion
-2 Relic of Progenitus
 3 Oblivion Stone
+4 Wurmcoil Engine
+1 Relic of Progenitus
+2 Spatial Contortion
+1 Ugin, the Ineffable
+3 Ugin, the Spirit Dragon
+2 Relic of Progenitus
 1 All Is Dust
 1 Buried Ruin
-2 Spatial Contortion
 2 Ugin, the Ineffable
 1 Thought-Knot Seer
 2 Thought-Knot Seer
-3 Ugin, the Spirit Dragon
+1 Field of Ruin
+1 Repeal
+1 Remand
+1 Sundering Titan
+1 Island
+1 Mindslaver
+1 Thirst for Knowledge
+1 Condescend
+1 Academy Ruins
+2 Repeal
+2 Remand
+2 Island
+2 Condescend
+2 Thirst for Knowledge
+3 Remand
+3 Repeal
+3 Condescend
+3 Island
+3 Thirst for Knowledge
+4 Condescend
+4 Island
+4 Thirst for Knowledge
+5 Island
 1 Scavenger Grounds
 1 Kozilek, Butcher of Truth
 3 Relic of Progenitus
@@ -25,8 +48,8 @@
 1 Wastes
 1 Defense Grid
 1 Inventors' Fair
-1 Everflowing Chalice
 1 Astral Cornucopia
+1 Everflowing Chalice
 1 Surge Node
 1 Coretapper
 1 Ghost Quarter
@@ -48,37 +71,20 @@
 4 Mystic Forge
 4 Surge Node
 4 Everflowing Chalice
-1 Field of Ruin
 1 Dismember
 1 Emrakul, the Promised End
-1 Repeal
 1 Shark Typhoon
-1 Remand
 1 Cyclonic Rift
-1 Sundering Titan
-1 Island
-1 Thirst for Knowledge
 1 Chalice of the Void
-1 Mindslaver
-1 Condescend
-1 Academy Ruins
-2 Repeal
-2 Remand
-2 Island
 2 Field of Ruin
-2 Condescend
-2 Thirst for Knowledge
-3 Remand
-3 Repeal
-3 Condescend
-3 Island
-3 Thirst for Knowledge
 4 Remand
-4 Condescend
-4 Island
-4 Thirst for Knowledge
-5 Island
+6 Island
+1 Treasure Mage
+4 Repeal
 1 Explore
+1 Talisman of Dominance
+1 Tolaria West
+1 Oboro, Palace in the Clouds
 2 World Breaker
 1 Nurturing Peatland
 3 Thragtusk
@@ -98,7 +104,6 @@
 4 Spatial Contortion
 4 Relic of Progenitus
 1 Gemstone Caverns
-1 Treasure Mage
 1 Clearwater Pathway
 2 Shark Typhoon
 2 Clearwater Pathway
@@ -107,9 +112,20 @@
 3 Shark Typhoon
 3 Chalice of the Void
 4 Shark Typhoon
-4 Repeal
 4 Chalice of the Void
-1 Talisman of Dominance
-1 Tolaria West
-1 Oboro, Palace in the Clouds
-6 Island
+1 Nimble Obstructionist
+1 Talisman of Curiosity
+1 Omen of the Sea
+1 Trading Post
+1 Radiant Fountain
+2 Mindslaver
+2 Talisman of Curiosity
+2 Omen of the Sea
+2 Radiant Fountain
+2 Trading Post
+3 Radiant Fountain
+3 Talisman of Curiosity
+3 Trading Post
+7 Island
+8 Island
+4 Trading Post

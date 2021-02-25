@@ -1,3 +1,6 @@
+1 Temple of Triumph
+2 Temple of Triumph
+2 Shatterskull Smashing
 1 Elspeth's Nightmare
 2 Elspeth's Nightmare
 1 Indatha Triome
@@ -33,13 +36,13 @@
 3 Doom Foretold
 4 Doom Foretold
 2 Eerie Ultimatum
+4 Forest
 3 Brightclimb Pathway
 4 Brightclimb Pathway
 4 Branchloft Pathway
-4 Forest
+1 Ugin, the Spirit Dragon
 1 Heartless Act
 2 Heartless Act
-1 Ugin, the Spirit Dragon
 1 Eliminate
 1 Mythos of Nethroi
 2 Mythos of Nethroi
@@ -62,9 +65,7 @@
 1 Polukranos, Unchained
 1 Shredded Sails
 2 Shredded Sails
-1 Temple of Triumph
-2 Temple of Triumph
-2 Shatterskull Smashing
+5 Mountain
 1 Vivien, Monsters' Advocate
 1 Extinction Event
 1 Mazemind Tome
@@ -84,15 +85,19 @@
 1 Doomskar
 2 Garruk, Cursed Huntsman
 3 Eerie Ultimatum
-2 Temple of Silence
-3 Temple of Silence
+1 Castle Locthwain
+1 Bala Ged Recovery
 1 In Search of Greatness
 3 Setessan Champion
+1 Solemn Simulacrum
+2 Solemn Simulacrum
+2 Golden Egg
+3 Golden Egg
+2 Temple of Silence
+3 Temple of Silence
 3 Yorion, Sky Nomad
 1 Archon of Sun's Grace
 2 Archon of Sun's Grace
-2 Golden Egg
-3 Golden Egg
 3 Heartless Act
 2 Extinction Event
 3 Extinction Event
@@ -102,12 +107,12 @@
 2 Temple of Plenty
 3 Gilded Goose
 4 Gilded Goose
-1 Castle Locthwain
-1 Bala Ged Recovery
 1 Banishing Light
-1 Solemn Simulacrum
-2 Solemn Simulacrum
 2 Ugin, the Spirit Dragon
+1 Soul Sear
+2 Soul Sear
+3 Soul Sear
+4 Soul Sear
 2 Castle Locthwain
 2 Eliminate
 1 Yasharn, Implacable Earth
@@ -119,7 +124,6 @@
 4 Mazemind Tome
 1 Scorching Dragonfire
 3 Shatterskull Smashing
-5 Mountain
 1 Cultivate
 2 Cultivate
 3 Cultivate
@@ -163,8 +167,8 @@
 1 Shatter the Sky
 2 Shatter the Sky
 2 Banishing Light
-3 Banishing Light
 3 Temple of Malady
+3 Banishing Light
 4 Temple of Silence
 4 Banishing Light
 4 Eerie Ultimatum
@@ -193,8 +197,8 @@
 6 Swamp
 3 Ugin, the Spirit Dragon
 3 Solemn Simulacrum
-4 Solemn Simulacrum
 4 Ugin, the Spirit Dragon
+4 Solemn Simulacrum
 3 Llanowar Visionary
 4 Llanowar Visionary
 1 Snow-Covered Forest
@@ -204,12 +208,12 @@
 3 Snow-Covered Swamp
 3 Snow-Covered Forest
 1 Omen of the Hunt
+1 Evolving Wilds
 1 Sculptor of Winter
 1 Snow-Covered Plains
 1 Shimmerdrift Vale
-1 Grasp of Darkness
 1 Great Hall of Starnheim
-1 Evolving Wilds
+1 Grasp of Darkness
 1 Skull Raid
 1 Arctic Treeline
 1 Sarulf's Packmate
@@ -221,10 +225,10 @@
 1 Snowfield Sinkhole
 1 Elderfang Disciple
 2 Omen of the Hunt
+2 Evolving Wilds
 2 Sculptor of Winter
 2 Shimmerdrift Vale
 2 Grasp of Darkness
-2 Evolving Wilds
 2 Skull Raid
 2 Sarulf's Packmate
 2 Feed the Serpent
@@ -235,17 +239,17 @@
 2 Rampage of the Valkyries
 2 Woodland Chasm
 3 Omen of the Hunt
+3 Evolving Wilds
 3 Sculptor of Winter
 3 Shimmerdrift Vale
-3 Evolving Wilds
 3 Sarulf's Packmate
-3 Woodland Chasm
 3 Skull Raid
+3 Woodland Chasm
 3 Elderfang Disciple
 3 Rampage of the Valkyries
 4 Omen of the Hunt
-4 Sculptor of Winter
 4 Evolving Wilds
+4 Sculptor of Winter
 4 Sarulf's Packmate
 4 Elderfang Disciple
 4 Snow-Covered Swamp
@@ -259,6 +263,7 @@
 6 Snow-Covered Swamp
 6 Snow-Covered Forest
 7 Snow-Covered Swamp
+1 Sejiri Shelter
 2 Ondu Inversion
 1 Bonders' Enclave
 1 Hagra Mauling
@@ -274,40 +279,36 @@
 3 Scavenging Ooze
 3 Elder Gargaroth
 3 Agonizing Remorse
-1 Soul Sear
-2 Soul Sear
-3 Soul Sear
-4 Soul Sear
 1 Temple of Abandon
-1 Liliana, Waker of the Dead
-1 Cragcrown Pathway
-1 Blightstep Pathway
 1 Dream Devourer
+1 Cragcrown Pathway
+1 Liliana, Waker of the Dead
+1 Blightstep Pathway
 1 Vorinclex, Monstrous Raider
 1 Zagoth Triome
 1 Snow-Covered Mountain
-2 Liliana, Waker of the Dead
+2 Dream Devourer
 2 Vorinclex, Monstrous Raider
 2 Cragcrown Pathway
+2 Liliana, Waker of the Dead
 2 Blightstep Pathway
 2 Snow-Covered Mountain
-2 Dream Devourer
+3 Dream Devourer
 3 Blightstep Pathway
 3 Vorinclex, Monstrous Raider
-3 Dream Devourer
 4 Cultivate
+4 Dream Devourer
 4 Vorinclex, Monstrous Raider
 4 Lukka, Coppercoat Outcast
 4 Valki, God of Lies
 4 Blightstep Pathway
-4 Dream Devourer
-1 Bonecrusher Giant
 1 Storm's Wrath
+1 Bonecrusher Giant
 1 Ox of Agonas
+2 Storm's Wrath
 2 Scorching Dragonfire
 2 Bonecrusher Giant
 2 Ox of Agonas
-2 Storm's Wrath
 3 Crawling Barrens
 3 Storm's Wrath
 3 Bonecrusher Giant

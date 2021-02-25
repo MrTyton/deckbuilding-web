@@ -21,17 +21,17 @@
 2 Murderous Rider
 2 Edgewall Innkeeper
 2 Darkbore Pathway
+3 Foulmire Knight
 3 Lovestruck Beast
 3 Edgewall Innkeeper
 3 Murderous Rider
-3 Foulmire Knight
 3 Darkbore Pathway
 4 Darkbore Pathway
+4 Foulmire Knight
 4 Lovestruck Beast
 4 Edgewall Innkeeper
-4 Foulmire Knight
-1 Ram Through
 1 Elder Gargaroth
+1 Ram Through
 5 Swamp
 1 Fabled Passage
 1 Kazandu Mammoth
@@ -54,8 +54,8 @@
 1 Sarulf, Realm Eater
 1 Ashiok, Nightmare Muse
 1 Frantic Inventory
-1 Poison the Cup
 1 Behold the Multiverse
+1 Poison the Cup
 1 Feed the Swarm
 1 Thrashing Brontodon
 1 Ugin, the Spirit Dragon
@@ -77,27 +77,27 @@
 1 Thassa, Deep-Dwelling
 4 Acolyte of Affliction
 2 Agadeem's Awakening
+1 Toski, Bearer of Secrets
+1 Order of Midnight
 1 Blightstep Pathway
 1 Valki, God of Lies
-1 Toski, Bearer of Secrets
 1 Scavenging Ooze
 1 Vorinclex, Monstrous Raider
 1 Heartless Act
 1 Vivien, Monsters' Advocate
 1 Zagoth Triome
 1 Cragcrown Pathway
-1 Order of Midnight
 2 Toski, Bearer of Secrets
+2 Order of Midnight
 2 Blightstep Pathway
 2 Valki, God of Lies
 2 Vorinclex, Monstrous Raider
-2 Order of Midnight
 2 Cragcrown Pathway
 2 Heartless Act
 2 Vivien, Monsters' Advocate
 2 Scavenging Ooze
-3 Toski, Bearer of Secrets
 3 Blightstep Pathway
+3 Toski, Bearer of Secrets
 3 Heartless Act
 3 Valki, God of Lies
 3 Cragcrown Pathway
@@ -146,17 +146,17 @@
 4 Feasting Troll King
 1 Realmwalker
 1 Wolfwillow Haven
-1 Skemfar Avenger
 1 Grasp of Darkness
+1 Skemfar Avenger
 1 Return Upon the Tide
 1 Harald Unites the Elves
 1 Boreal Outrider
 1 Thornmantle Striker
 1 Joraga Visionary
 2 Wolfwillow Haven
+2 Grasp of Darkness
 2 Boreal Outrider
 2 Joraga Visionary
-2 Grasp of Darkness
 3 Wolfwillow Haven
 3 Harald, King of Skemfar
 3 Grasp of Darkness
@@ -172,21 +172,21 @@
 1 Fiend Artisan
 1 Oakhame Adversary
 1 Jungle Hollow
-1 Tajuru Blightblade
 1 Garruk's Uprising
 1 Battle Mammoth
 1 Wildwood Patrol
+1 Tajuru Blightblade
 1 Keeper of Fables
 1 Gnottvold Recluse
 2 Oakhame Adversary
 2 Jungle Hollow
-2 Tajuru Blightblade
 2 Keeper of Fables
 2 Ram Through
+2 Tajuru Blightblade
 2 Greater Sandwurm
 3 Oakhame Adversary
-3 Tajuru Blightblade
 3 Keeper of Fables
+3 Tajuru Blightblade
 3 Sarulf's Packmate
 4 Binding the Old Gods
 4 Tajuru Blightblade
@@ -203,10 +203,10 @@
 1 Rankle, Master of Pranks
 1 Castle Locthwain
 2 Jolrael, Mwonvuli Recluse
+2 Chevill, Bane of Monsters
 2 Elder Gargaroth
 2 Primal Might
 2 Rankle, Master of Pranks
-2 Chevill, Bane of Monsters
 3 Jolrael, Mwonvuli Recluse
 3 Kazandu Mammoth
 6 Swamp
