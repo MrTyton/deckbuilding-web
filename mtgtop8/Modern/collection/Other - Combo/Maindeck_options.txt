@@ -2,7 +2,7 @@
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
-1 Irencrag Feat
+1 Spikefield Hazard
 1 Valakut Awakening
 1 Bala Ged Recovery
 1 Recross the Paths
@@ -10,34 +10,34 @@
 1 Reforge the Soul
 1 Desperate Ritual
 1 Pyretic Ritual
-1 Spikefield Hazard
-2 Irencrag Feat
-2 Pyretic Ritual
-2 Bala Ged Recovery
+1 Irencrag Feat
+2 Shatterskull Smashing
 2 Spikefield Hazard
+2 Bala Ged Recovery
+2 Pyretic Ritual
+2 Irencrag Feat
 2 Manamorphose
 2 Recross the Paths
-2 Shatterskull Smashing
 2 Valakut Awakening
 2 Desperate Ritual
 3 Spikefield Hazard
-3 Irencrag Feat
+3 Shatterskull Smashing
 3 Goblin Charbelcher
 3 Manamorphose
 3 Pact of Negation
+3 Irencrag Feat
 3 Valakut Awakening
 3 Desperate Ritual
 3 Recross the Paths
 3 Pyretic Ritual
-3 Shatterskull Smashing
 3 Bala Ged Recovery
-4 Irencrag Feat
+4 Shatterskull Smashing
 4 Goblin Charbelcher
 4 Spikefield Hazard
 4 Recross the Paths
 4 Valakut Awakening
 4 Pyretic Ritual
-4 Shatterskull Smashing
+4 Irencrag Feat
 4 Manamorphose
 4 Desperate Ritual
 4 Bala Ged Recovery
@@ -176,10 +176,6 @@
 2 Murderous Rider
 2 Prismatic Vista
 4 Magus of the Moon
-3 Thoughtseize
-4 Thoughtseize
-3 Pelakka Predation
-4 Pelakka Predation
 1 Emrakul, the Aeons Torn
 2 Emrakul, the Aeons Torn
 1 Mountain
@@ -187,19 +183,19 @@
 1 Tibalt's Trickery
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
+1 Khalni Garden
+1 Hanweir Battlements
 1 Field of the Dead
 1 Tolaria West
 1 Ghost Quarter
 1 Sheltered Thicket
 1 Valakut, the Molten Pinnacle
-1 Hanweir Battlements
 1 Bojuka Bog
 1 Tranquil Thicket
 1 Castle Garenbrig
 1 Sunhome, Fortress of the Legion
 1 Crumbling Vestige
 1 Slayers' Stronghold
-1 Khalni Garden
 1 Boros Garrison
 1 Windswept Heath
 1 Gruul Guildgate
@@ -211,22 +207,26 @@
 1 Cavern of Souls
 1 Grove of the Burnwillows
 1 Radiant Fountain
-2 Field of the Dead
-2 Valakut, the Molten Pinnacle
 2 Grove of the Burnwillows
 2 Gruul Turf
+2 Field of the Dead
+2 Valakut, the Molten Pinnacle
 2 Castle Garenbrig
 2 Tolaria West
 2 Snow-Covered Forest
 2 Simic Growth Chamber
-3 Tolaria West
 3 Grove of the Burnwillows
 3 Gruul Turf
+3 Tolaria West
 3 Castle Garenbrig
 3 Simic Growth Chamber
 3 Forest
 4 Grove of the Burnwillows
 4 Gruul Turf
+3 Thoughtseize
+4 Thoughtseize
+3 Pelakka Predation
+4 Pelakka Predation
 1 Underworld Breach
 2 Snow-Covered Island
 1 Lotus Field
@@ -323,7 +323,7 @@
 2 Warrant / Warden
 3 Supreme Verdict
 4 Brazen Borrower
-1 Pillar of the Paruns
+1 Omniscience
 1 Emrakul, the Promised End
 1 Kozilek, Butcher of Truth
 1 Aether Hub
@@ -331,7 +331,7 @@
 1 Tendo Ice Bridge
 1 Gemstone Mine
 1 Ulamog, the Infinite Gyre
-1 Omniscience
+1 Pillar of the Paruns
 1 City of Brass
 2 Pillar of the Paruns
 2 Tibalt's Trickery
@@ -364,13 +364,13 @@
 1 Oust
 1 Solemnity
 1 Wheel of Sun and Moon
-1 Dovescape
 1 Marsh Flats
+1 Overwhelming Splendor
 1 Silence
 1 Nine Lives
 1 Deafening Clarion
 1 Temple of Triumph
-1 Overwhelming Splendor
+1 Dovescape
 1 Treasure Map
 1 Skyclave Apparition
 1 Form of the Dragon
@@ -435,8 +435,8 @@
 2 Underworld Breach
 2 Chromatic Star
 2 Lurrus of the Dream-Den
-3 Underworld Breach
 3 Lurrus of the Dream-Den
+3 Underworld Breach
 3 Metallic Rebuke
 3 Mox Amber
 3 Mishra's Bauble

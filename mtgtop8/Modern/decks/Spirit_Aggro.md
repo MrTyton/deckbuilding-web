@@ -32,8 +32,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)   |                    1|[Burrenton Forge-Tender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438580)|
-|                    1|[Phantasmal Image](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220099)    |                    2|[Burrenton Forge-Tender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438580)|
+|                    1|[Phantasmal Image](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220099)    |                    1|[Burrenton Forge-Tender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438580)|
+|                    1|[Remorseful Cleric](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447169)   |                    2|[Burrenton Forge-Tender](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438580)|
 |                    2|[Unsettled Mariner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464165)   |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)      |
 |                    2|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267) |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)      |
 |                    2|[Moorland Haunt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233239)      |                    1|[Mindbreak Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197532)        |

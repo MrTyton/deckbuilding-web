@@ -52,6 +52,6 @@
 |                     |                                                                                                  |                    4|[Apostle of Purifying Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466760)|
 |                     |                                                                                                  |                    4|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)        |
 |                     |                                                                                                  |                    1|[Karametra's Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476277)      |
-|                     |                                                                                                  |                    4|[Brain Maggot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380382)              |
 |                     |                                                                                                  |                    2|[Karametra's Blessing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476277)      |
+|                     |                                                                                                  |                    4|[Brain Maggot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380382)              |
 

@@ -128,11 +128,11 @@
 3 Valki, God of Lies
 1 Tergrid, God of Fright
 3 Lukka, Coppercoat Outcast
+1 Burning-Rune Demon
 1 Charming Prince
 1 Esika's Chariot
 1 Ketria Triome
 1 Firja's Retribution
-1 Burning-Rune Demon
 1 Tangled Florahedron
 1 Kaya the Inexorable
 2 Firja's Retribution
@@ -205,12 +205,12 @@
 3 Snow-Covered Forest
 1 Omen of the Hunt
 1 Sculptor of Winter
-1 Evolving Wilds
 1 Snow-Covered Plains
-1 Great Hall of Starnheim
-1 Grasp of Darkness
-1 Skull Raid
 1 Shimmerdrift Vale
+1 Grasp of Darkness
+1 Great Hall of Starnheim
+1 Evolving Wilds
+1 Skull Raid
 1 Arctic Treeline
 1 Sarulf's Packmate
 1 Feed the Serpent
@@ -222,9 +222,9 @@
 1 Elderfang Disciple
 2 Omen of the Hunt
 2 Sculptor of Winter
-2 Evolving Wilds
-2 Grasp of Darkness
 2 Shimmerdrift Vale
+2 Grasp of Darkness
+2 Evolving Wilds
 2 Skull Raid
 2 Sarulf's Packmate
 2 Feed the Serpent
@@ -236,8 +236,8 @@
 2 Woodland Chasm
 3 Omen of the Hunt
 3 Sculptor of Winter
-3 Evolving Wilds
 3 Shimmerdrift Vale
+3 Evolving Wilds
 3 Sarulf's Packmate
 3 Woodland Chasm
 3 Skull Raid
@@ -246,13 +246,13 @@
 4 Omen of the Hunt
 4 Sculptor of Winter
 4 Evolving Wilds
-4 Shimmerdrift Vale
 4 Sarulf's Packmate
 4 Elderfang Disciple
 4 Snow-Covered Swamp
 4 Snow-Covered Forest
 4 Skull Raid
 4 Woodland Chasm
+4 Shimmerdrift Vale
 4 Rampage of the Valkyries
 5 Snow-Covered Forest
 5 Snow-Covered Swamp
@@ -317,12 +317,12 @@
 1 Lofty Denial
 1 Field of Ruin
 1 Neutralize
-1 Mystic Sanctuary
 1 Rewind
 1 Silundi Vision
 1 Frantic Inventory
 1 Shark Typhoon
 1 Kiora Bests the Sea God
+1 Mystic Sanctuary
 1 Into the Roil
 1 Hypnotic Sprite
 1 Jwari Disruption
@@ -335,10 +335,10 @@
 1 Gadwick, the Wizened
 2 Castle Vantress
 2 Neutralize
+2 Rewind
 2 Frantic Inventory
 2 Shark Typhoon
 2 Essence Scatter
-2 Rewind
 2 Into the Roil
 2 Island
 2 Gadwick, the Wizened

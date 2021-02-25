@@ -1,29 +1,29 @@
-1 Karakas
 1 Verdant Catacombs
+1 Karakas
 1 Bayou
 2 Verdant Catacombs
 2 Bayou
 3 Verdant Catacombs
 4 Verdant Catacombs
+1 Forest
+1 Swamp
 1 Dark Confidant
 2 Dark Confidant
 3 Dark Confidant
-1 Forest
-1 Swamp
-2 Elvish Reclaimer
 1 Mox Diamond
 1 Abrupt Decay
 2 Abrupt Decay
 2 Mox Diamond
 1 Nurturing Peatland
+2 Elvish Reclaimer
 3 Elvish Reclaimer
 4 Elvish Reclaimer
 1 Sylvan Safekeeper
+2 Wasteland
+1 Sylvan Library
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
-2 Wasteland
-1 Sylvan Library
 3 Abrupt Decay
 1 Snow-Covered Swamp
 2 Sylvan Safekeeper
@@ -34,6 +34,7 @@
 4 Duress
 1 Tendrils of Agony
 1 Opposition Agent
+1 Leyline of the Void
 1 Helm of Obedience
 1 Lake of the Dead
 1 Ill-Gotten Gains
@@ -42,28 +43,27 @@
 1 Ancient Tomb
 1 Dark Ritual
 1 Echo of Eons
-1 Leyline of the Void
 1 Karn, the Great Creator
 2 Infernal Tutor
 2 Snow-Covered Swamp
+2 Leyline of the Void
 2 Helm of Obedience
 2 Ill-Gotten Gains
-2 Leyline of the Void
 2 Dark Ritual
 2 Karn, the Great Creator
 2 Ancient Tomb
 2 Lion's Eye Diamond
 3 Snow-Covered Swamp
 3 Infernal Tutor
+3 Leyline of the Void
 3 Ancient Tomb
 3 Dark Ritual
 3 Lion's Eye Diamond
-3 Leyline of the Void
 4 Infernal Tutor
 4 Snow-Covered Swamp
 4 Lion's Eye Diamond
-4 Dark Ritual
 4 Leyline of the Void
+4 Dark Ritual
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
@@ -77,6 +77,8 @@
 4 Dark Confidant
 4 Abrupt Decay
 4 Mox Diamond
+1 Underground Sea
+1 Uro, Titan of Nature's Wrath
 1 Cabal Pit
 1 Ramunap Excavator
 1 Life from the Loam
@@ -84,14 +86,12 @@
 1 Tropical Island
 1 Dryad Arbor
 1 Green Sun's Zenith
-1 Uro, Titan of Nature's Wrath
 1 Raven's Crime
 1 Oko, Thief of Crowns
 1 Misty Rainforest
-1 Underground Sea
-2 Tropical Island
 2 Brainstorm
 2 Green Sun's Zenith
+2 Tropical Island
 2 Life from the Loam
 2 Oko, Thief of Crowns
 3 Wasteland

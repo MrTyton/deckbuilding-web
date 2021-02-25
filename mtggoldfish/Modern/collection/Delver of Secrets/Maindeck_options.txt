@@ -6,9 +6,9 @@
 1 Swamp
 2 Thieves' Guild Enforcer
 2 Drown in the Loch
-3 Watery Grave
 3 Inquisition of Kozilek
 3 Thieves' Guild Enforcer
+3 Watery Grave
 3 Drown in the Loch
 4 Drown in the Loch
 4 Thieves' Guild Enforcer
@@ -58,8 +58,8 @@
 2 Breeding Pool
 2 Tarmogoyf
 3 Misty Rainforest
-3 Stubborn Denial
 3 Hexdrinker
+3 Stubborn Denial
 3 Tarmogoyf
 4 Stubborn Denial
 4 Misty Rainforest
@@ -156,8 +156,8 @@
 1 Vendilion Clique
 5 Island
 1 Creeping Tar Pit
-1 Terminate
 1 Gurmag Angler
+1 Terminate
 2 Gurmag Angler
 2 Terminate
 1 The Royal Scions
@@ -175,8 +175,8 @@
 2 Marsh Flats
 4 Darkslick Shores
 1 Dreadhorde Arcanist
-2 Dreadhorde Arcanist
 2 Hallowed Fountain
+2 Dreadhorde Arcanist
 3 Hallowed Fountain
 3 Dreadhorde Arcanist
 4 Dreadhorde Arcanist
@@ -188,21 +188,21 @@
 4 Visions of Beyond
 1 Sunbaked Canyon
 1 Lava Spike
-1 Mutagenic Growth
 1 Gut Shot
 1 Light Up the Stage
 1 Monastery Swiftspear
 1 Manamorphose
 1 Lava Dart
+1 Mutagenic Growth
 1 Assault Strobe
 1 Stormwing Entity
 2 Lava Spike
-2 Mutagenic Growth
 2 Light Up the Stage
 2 Monastery Swiftspear
 2 Gut Shot
 2 Manamorphose
 2 Lava Dart
+2 Mutagenic Growth
 2 Stormwing Entity
 2 Assault Strobe
 2 Mountain
@@ -215,9 +215,9 @@
 3 Stormwing Entity
 3 Fiery Islet
 4 Lava Dart
-4 Monastery Swiftspear
-4 Lava Spike
 4 Manamorphose
+4 Lava Spike
+4 Monastery Swiftspear
 4 Light Up the Stage
 4 Mountain
 4 Fiery Islet
@@ -239,12 +239,12 @@
 6 Snow-Covered Island
 1 Cryptic Command
 1 Mutavault
-1 Silundi Vision
 1 Castle Vantress
 1 Oboro, Palace in the Clouds
 1 Deliberate
 1 Psionic Blast
 1 Spellstutter Sprite
+1 Silundi Vision
 2 Mutavault
 2 Cryptic Command
 2 Vendilion Clique
