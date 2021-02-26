@@ -1,7 +1,6 @@
 7 Plains
 1 Toski, Bearer of Secrets
 2 Toski, Bearer of Secrets
-7 Forest
 1 Luminarch Aspirant
 1 Conclave Mentor
 2 Conclave Mentor
@@ -46,6 +45,7 @@
 4 Snakeskin Veil
 4 Vulpikeet
 4 Fearless Fledgling
+7 Forest
 1 Castle Ardenvale
 1 Maul of the Skyclaves
 1 Usher of the Fallen
@@ -64,32 +64,6 @@
 4 Toski, Bearer of Secrets
 8 Plains
 1 Gilded Goose
-2 Gilded Goose
-3 Gilded Goose
-4 Gilded Goose
-1 Llanowar Visionary
-1 Kogla, the Titan Ape
-1 Ugin, the Spirit Dragon
-1 Glass Casket
-1 Yorion, Sky Nomad
-1 Wicked Wolf
-1 Trail of Crumbs
-2 Llanowar Visionary
-2 Glass Casket
-2 Yorion, Sky Nomad
-2 Wicked Wolf
-2 Trail of Crumbs
-3 Llanowar Visionary
-3 Glass Casket
-3 Elspeth Conquers Death
-3 Trail of Crumbs
-3 Yorion, Sky Nomad
-3 Wicked Wolf
-4 Glass Casket
-4 Yorion, Sky Nomad
-4 Temple of Plenty
-4 Wicked Wolf
-8 Forest
 1 Snow-Covered Plains
 1 Jorn, God of Winter
 1 Blessing of Frost
@@ -102,6 +76,7 @@
 1 Oran-Rief Ooze
 2 Jorn, God of Winter
 2 Luminarch Aspirant
+2 Gilded Goose
 2 Snow-Covered Plains
 2 Swarm Shambler
 2 Faceless Haven
@@ -111,11 +86,13 @@
 2 Snow-Covered Forest
 2 Basri's Lieutenant
 3 Luminarch Aspirant
+3 Gilded Goose
 3 Snow-Covered Plains
 3 Oran-Rief Ooze
 3 Snow-Covered Forest
 3 Swarm Shambler
 4 Swarm Shambler
+4 Gilded Goose
 4 Luminarch Aspirant
 4 Snow-Covered Plains
 4 Snow-Covered Forest

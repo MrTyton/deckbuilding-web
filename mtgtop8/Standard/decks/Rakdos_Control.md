@@ -58,7 +58,7 @@
 |                    3|[Irencrag Feat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473089)          |                     |                                                                                                         |
 |                    4|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)          |                     |                                                                                                         |
 |                    4|[Crawling Barrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491917)       |                     |                                                                                                         |
-|                    4|[Solemn Simulacrum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389682)      |                     |                                                                                                         |
 |                    4|[Ugin, the Spirit Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391948)|                     |                                                                                                         |
+|                    4|[Solemn Simulacrum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389682)      |                     |                                                                                                         |
 |                    3|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)          |                     |                                                                                                         |
 

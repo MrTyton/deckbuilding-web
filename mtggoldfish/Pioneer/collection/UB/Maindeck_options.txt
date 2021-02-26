@@ -1,12 +1,7 @@
-1 Eliminate
+4 Fabled Passage
 2 Snow-Covered Swamp
 2 Snow-Covered Island
 3 Snow-Covered Island
-1 Rewind
-1 Vraska's Contempt
-1 Field of Ruin
-2 Field of Ruin
-2 Fetid Pools
 3 Thoughtseize
 1 Valki, God of Lies
 1 Jace, Vryn's Prodigy
@@ -19,30 +14,46 @@
 2 Blood Crypt
 2 Release to the Wind
 3 Blood Crypt
-3 Jace, Vryn's Prodigy
 3 Valki, God of Lies
+3 Jace, Vryn's Prodigy
 3 Release to the Wind
-4 Jace, Vryn's Prodigy
 4 Valki, God of Lies
 4 Thoughtseize
+4 Jace, Vryn's Prodigy
+1 Shadows' Verdict
+2 Shadows' Verdict
+1 Snow-Covered Mountain
+1 Choked Estuary
+1 Duress
+2 Duress
+2 Choked Estuary
+2 Hero's Downfall
+3 Choked Estuary
+4 Dig Through Time
+4 Choked Estuary
+1 Thassa's Intervention
+2 Castle Locthwain
+2 Swamp
 4 Release to the Wind
+1 Rewind
+2 Extinction Event
 1 Breeding Pool
 1 Hinterland Harbor
 1 Commit/Memory
-1 Zagoth Triome
+1 Uro, Titan of Nature's Wrath
 1 Chemister's Insight
-1 Jwari Disruption
 1 Forest
+1 Jwari Disruption
+1 Zagoth Triome
 1 Abrupt Decay
 1 Overgrown Tomb
 1 Nissa, Who Shakes the World
 1 Lumbering Falls
 1 Aether Gust
-1 Uro, Titan of Nature's Wrath
 2 Breeding Pool
-2 Zagoth Triome
 2 Chemister's Insight
 2 Jwari Disruption
+2 Zagoth Triome
 2 Abrupt Decay
 2 Uro, Titan of Nature's Wrath
 2 Overgrown Tomb
@@ -53,20 +64,13 @@
 3 Uro, Titan of Nature's Wrath
 4 Zagoth Triome
 4 Breeding Pool
+1 Bloodchief's Thirst
+2 Bloodchief's Thirst
 1 Radiant Fountain
-2 Swamp
 2 Thassa's Intervention
 2 Radiant Fountain
-1 Snow-Covered Mountain
-1 Choked Estuary
-1 Duress
-2 Duress
-2 Choked Estuary
-2 Hero's Downfall
-3 Choked Estuary
-4 Dig Through Time
-4 Choked Estuary
 5 Island
+3 Fetid Pools
 1 Port of Karfell
 1 Void Shatter
 1 Mutavault
@@ -75,7 +79,9 @@
 2 Mutavault
 4 Snow-Covered Island
 1 Ashiok, Nightmare Muse
-2 Extinction Event
+2 Clearwater Pathway
+1 Languish
+1 Soul-Guide Lantern
 1 Mystical Dispute
 2 Eliminate
 1 Drown in the Loch
@@ -83,9 +89,10 @@
 1 Cry of the Carnarium
 1 Sublime Epiphany
 2 Cry of the Carnarium
-1 Bloodchief's Thirst
-1 Languish
-2 Bloodchief's Thirst
+1 Saw It Coming
+1 Narset, Parter of Veils
+1 Geier Reach Sanitarium
+2 Narset, Parter of Veils
 1 Horribly Awry
 1 Cling to Dust
 2 Vraska's Contempt
@@ -93,7 +100,6 @@
 3 Radiant Fountain
 3 Thassa's Intervention
 3 Field of Ruin
-3 Fetid Pools
 3 Negate
 4 Fetid Pools
 1 Brazen Borrower
@@ -102,11 +108,10 @@
 1 Nicol Bolas, the Ravager
 1 Blightstep Pathway
 2 Kolaghan's Command
-2 Blightstep Pathway
 2 Nicol Bolas, the Ravager
 2 Steam Vents
+2 Blightstep Pathway
 2 Riverglide Pathway
-2 Clearwater Pathway
 3 Extinction Event
 3 Clearwater Pathway
 3 Blightstep Pathway

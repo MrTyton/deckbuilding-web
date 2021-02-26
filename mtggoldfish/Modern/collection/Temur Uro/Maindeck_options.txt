@@ -4,17 +4,17 @@
 3 Fact or Fiction
 1 Prismatic Vista
 1 Engineered Explosives
+1 Mishra's Bauble
 1 Emry, Lurker of the Loch
 1 Mox Amber
-1 Mishra's Bauble
-2 Engineered Explosives
-2 Emry, Lurker of the Loch
 2 Mishra's Bauble
+2 Emry, Lurker of the Loch
+2 Engineered Explosives
 2 Mox Amber
-3 Emry, Lurker of the Loch
 3 Mishra's Bauble
-4 Emry, Lurker of the Loch
+3 Emry, Lurker of the Loch
 4 Mishra's Bauble
+4 Emry, Lurker of the Loch
 1 Mana Leak
 1 Jace, the Mind Sculptor
 1 Time Warp
@@ -32,14 +32,14 @@
 4 Fact or Fiction
 2 Steam Vents
 1 Oboro, Palace in the Clouds
-1 Opt
 1 Ice-Fang Coatl
-2 Opt
+1 Opt
 2 Ice-Fang Coatl
-3 Opt
+2 Opt
 3 Ice-Fang Coatl
-4 Opt
+3 Opt
 4 Ice-Fang Coatl
+4 Opt
 4 Mystic Sanctuary
 2 Mana Leak
 1 Galvanic Blast
@@ -58,16 +58,16 @@
 3 Gilded Goose
 3 Galvanic Blast
 3 Urza, Lord High Artificer
-4 Gilded Goose
 4 Urza, Lord High Artificer
+4 Gilded Goose
 1 Underworld Breach
 1 Thassa's Oracle
 1 Grinding Station
 1 Chromatic Star
+2 Wooded Foothills
 2 Underworld Breach
 2 Grinding Station
 2 Chromatic Star
-2 Wooded Foothills
 3 Grinding Station
 3 Chromatic Star
 3 Underworld Breach
@@ -108,11 +108,11 @@
 1 Polluted Delta
 3 Island
 1 Explore
+1 Radiant Fountain
 1 Vesuva
 1 Simic Growth Chamber
 1 Castle Garenbrig
 1 Cavern of Souls
-1 Radiant Fountain
 1 Cosima, God of the Voyage
 1 Teferi, Master of Time
 1 Search for Azcanta
@@ -120,9 +120,9 @@
 1 Spell Pierce
 1 Huntmaster of the Fells
 1 Tectonic Edge
+2 Ghost Quarter
 2 Tectonic Edge
 2 Huntmaster of the Fells
-2 Ghost Quarter
 3 Snow-Covered Forest
 3 Wooded Foothills
 1 Life from the Loam
@@ -130,6 +130,17 @@
 2 Hour of Promise
 3 Field of the Dead
 4 Force of Negation
+1 Birds of Paradise
+1 Commandeer
+1 Expansion/Explosion
+2 Birds of Paradise
+2 Shark Typhoon
+2 Polluted Delta
+3 Archmage's Charm
+3 Birds of Paradise
+3 Wilderness Reclamation
+3 Shark Typhoon
+4 Archmage's Charm
 1 Tireless Tracker
 3 Prismatic Vista
 4 Prismatic Vista
@@ -151,10 +162,10 @@
 2 Repeal
 3 Flooded Strand
 3 Chalice of the Void
-4 Flooded Strand
 4 Chalice of the Void
-1 Spell Snare
+4 Flooded Strand
 1 Snapcaster Mage
+1 Spell Snare
 1 Scapeshift
 2 Scapeshift
 2 Stomping Ground
@@ -163,26 +174,15 @@
 4 Steam Vents
 4 Cryptic Command
 4 Scapeshift
-1 Birds of Paradise
-1 Commandeer
-1 Expansion/Explosion
-2 Birds of Paradise
-2 Shark Typhoon
-2 Polluted Delta
-3 Birds of Paradise
-3 Wilderness Reclamation
-3 Shark Typhoon
-3 Archmage's Charm
-4 Archmage's Charm
 1 Shenanigans
 1 Liquimetal Coating
 1 Thieving Skydiver
 1 Abrade
-2 Abrade
 2 Thieving Skydiver
 2 Liquimetal Coating
-3 Liquimetal Coating
+2 Abrade
 3 Abrade
+3 Liquimetal Coating
 3 Thieving Skydiver
 4 Thieving Skydiver
 1 Summoner's Pact
@@ -194,8 +194,8 @@
 1 Tolaria West
 1 Azusa, Lost but Seeking
 1 Hanweir Battlements
-2 Summoner's Pact
 2 Forest
+2 Summoner's Pact
 2 Explore
 2 Amulet of Vigor
 2 Castle Garenbrig

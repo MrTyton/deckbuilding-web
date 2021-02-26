@@ -1,19 +1,18 @@
-3 Flooded Strand
 4 Flooded Strand
-1 Shark Typhoon
-2 Shark Typhoon
+2 Polluted Delta
 3 Steam Vents
 1 The Royal Scions
 2 The Royal Scions
 2 Jace, the Mind Sculptor
 1 Abrade
+1 Shark Typhoon
+2 Shark Typhoon
 1 Cascade Bluffs
 1 Blast Zone
-2 Cascade Bluffs
 2 Magmatic Sinkhole
+2 Cascade Bluffs
 3 Brazen Borrower
 4 Brazen Borrower
-1 Mana Leak
 2 Misty Rainforest
 3 Misty Rainforest
 1 Omen of the Sea
@@ -23,13 +22,14 @@
 2 Emrakul, the Aeons Torn
 2 Through the Breach
 3 Omen of the Sea
-3 Emrakul, the Aeons Torn
 3 Sulfur Falls
 3 Through the Breach
+3 Emrakul, the Aeons Torn
 4 Through the Breach
 4 Emrakul, the Aeons Torn
 1 Fiery Islet
 1 Ancestral Vision
+1 Mana Leak
 2 Ancestral Vision
 8 Island
 1 Ral, Izzet Viceroy
@@ -55,10 +55,10 @@
 4 Manamorphose
 4 Lava Dart
 4 Soul-Scar Mage
-1 Sunbaked Canyon
 1 Crash Through
-2 Sunbaked Canyon
+1 Sunbaked Canyon
 2 Crash Through
+2 Sunbaked Canyon
 3 Crash Through
 4 Crash Through
 1 Lava Spike
@@ -89,7 +89,6 @@
 3 Mishra's Bauble
 4 Mishra's Bauble
 1 Snow-Covered Mountain
-3 Mystic Sanctuary
 1 Sprite Dragon
 2 Sprite Dragon
 3 Sprite Dragon
@@ -97,30 +96,29 @@
 1 Mutagenic Growth
 2 Mutagenic Growth
 3 Mutagenic Growth
-3 Polluted Delta
-4 Polluted Delta
 3 Sunbaked Canyon
 1 Yidaro, Wandering Monster
 1 Wandering Fumarole
 1 Peek
 2 Peek
-1 Narset, Parter of Veils
-1 Vendilion Clique
-1 Flame Slash
-2 Narset, Parter of Veils
 2 Fiery Islet
-1 Dispel
 1 Spell Pierce
+1 Dispel
 2 Spell Pierce
 3 Ancestral Vision
+1 Vendilion Clique
+1 Narset, Parter of Veils
+1 Flame Slash
+2 Narset, Parter of Veils
+3 Mystic Sanctuary
 1 Bloodstained Mire
-1 Arid Mesa
-1 Sacred Foundry
 1 Inspiring Vantage
 1 Abbot of Keral Keep
-1 Boros Charm
 1 Myth Realized
 1 Wooded Foothills
+1 Boros Charm
+1 Sacred Foundry
+1 Arid Mesa
 2 Bloodstained Mire
 2 Wooded Foothills
 2 Inspiring Vantage
@@ -139,40 +137,20 @@
 2 Piracy Charm
 2 Serum Visions
 3 Dreadhorde Arcanist
+3 Polluted Delta
 3 Piracy Charm
 3 Serum Visions
 4 Serum Visions
 4 Dreadhorde Arcanist
+4 Polluted Delta
 4 Steam Vents
-1 Field of Ruin
-1 Watery Grave
-1 Cosima, God of the Voyage
-1 Behold the Multiverse
-1 Swamp
-1 Bloodchief's Thirst
-1 Heartless Act
-1 Fatal Push
-1 Cling to Dust
-1 Drowned Catacomb
-1 Sunken Hollow
-2 Cling to Dust
-2 Field of Ruin
-2 Watery Grave
-2 Cosima, God of the Voyage
-2 Behold the Multiverse
-2 Mana Leak
-2 Fatal Push
-3 Shark Typhoon
-3 Cosima, God of the Voyage
-3 Fatal Push
-4 Fatal Push
 1 Thing in the Ice
 2 Thing in the Ice
 3 Thing in the Ice
 4 Thing in the Ice
+1 Glorybringer
 1 Magda, Brazen Outlaw
 1 Goldspan Dragon
-1 Glorybringer
 1 Silumgar's Scorn
 1 Mothdust Changeling
 2 Magda, Brazen Outlaw
@@ -201,8 +179,8 @@
 2 Kiln Fiend
 3 Snow-Covered Mountain
 3 Kiln Fiend
-4 Sunbaked Canyon
 4 Snow-Covered Mountain
+4 Sunbaked Canyon
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
@@ -227,5 +205,5 @@
 3 Arclight Phoenix
 4 Thrill of Possibility
 4 Arclight Phoenix
-16 Mountain
 15 Mountain
+16 Mountain

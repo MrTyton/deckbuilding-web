@@ -43,23 +43,23 @@
 1 Force of Negation
 2 Force of Negation
 4 Path to Exile
-1 Shadowspear
-1 Colossus Hammer
 1 Kor Outfitter
+1 Colossus Hammer
 1 Steelshaper's Gift
+1 Shadowspear
 1 Inkmoth Nexus
 1 Sigarda's Aid
 1 Stoneforge Mystic
+2 Kor Outfitter
 2 Steelshaper's Gift
 2 Inkmoth Nexus
-2 Kor Outfitter
 2 Sigarda's Aid
 2 Stoneforge Mystic
 2 Colossus Hammer
+3 Kor Outfitter
 3 Sigarda's Aid
 3 Stoneforge Mystic
 3 Colossus Hammer
-3 Kor Outfitter
 3 Steelshaper's Gift
 3 Inkmoth Nexus
 4 Kor Outfitter
@@ -84,28 +84,28 @@
 4 Force of Negation
 4 Leyline of Sanctity
 4 Mana Tithe
-1 Sunbaked Canyon
-1 Silence
-1 Kor Duelist
-1 Open the Armory
 1 Magnetic Theft
+1 Sunbaked Canyon
+1 Kor Duelist
+1 Silence
+1 Open the Armory
 1 City of Brass
-2 Snow-Covered Plains
+2 Magnetic Theft
 2 Sunbaked Canyon
+2 Kor Duelist
 2 Shadowspear
 2 Open the Armory
 2 City of Brass
-2 Magnetic Theft
-2 Kor Duelist
+2 Snow-Covered Plains
 3 City of Brass
 3 Sunbaked Canyon
-3 Magnetic Theft
 3 Kor Duelist
+3 Magnetic Theft
 3 Open the Armory
 3 Mana Confluence
 4 Sunbaked Canyon
-4 City of Brass
 4 Kor Duelist
+4 City of Brass
 4 Mana Confluence
 4 Magnetic Theft
 3 All That Glitters
@@ -113,9 +113,9 @@
 1 Arid Mesa
 1 Lurrus of the Dream-Den
 1 Sword of Feast and Famine
+1 Sword of Fire and Ice
 1 Batterskull
 1 Eladamri's Call
-1 Sword of Fire and Ice
 1 Skyclave Apparition
 1 Noble Hierarch
 1 Marsh Flats
@@ -127,12 +127,12 @@
 3 Eladamri's Call
 4 Eladamri's Call
 4 Noble Hierarch
+1 Stubborn Denial
 1 Waterlogged Grove
 1 Invisible Stalker
 1 Seachrome Coast
-1 Stubborn Denial
+2 Stubborn Denial
 2 Invisible Stalker
 2 Seachrome Coast
-2 Stubborn Denial
 3 Invisible Stalker
 4 Arcane Flight

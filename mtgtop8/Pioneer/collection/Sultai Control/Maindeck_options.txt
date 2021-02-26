@@ -1,15 +1,11 @@
+1 Castle Locthwain
+2 Thassa's Intervention
+3 Island
+4 Censor
 2 Chemister's Insight
 4 Fabled Passage
 1 Heartless Act
-3 Breeding Pool
-4 Watery Grave
-1 Pull from Tomorrow
-1 Mystical Dispute
 4 Uro, Titan of Nature's Wrath
-1 Opt
-2 Opt
-3 Opt
-1 Tasigur, the Golden Fang
 4 Wilderness Reclamation
 3 Thassa's Intervention
 2 Overgrown Tomb
@@ -22,6 +18,10 @@
 1 Blast Zone
 1 Thoughtseize
 2 Thoughtseize
+1 Opt
+2 Opt
+3 Opt
+1 Tasigur, the Golden Fang
 1 Search for Azcanta
 1 Fetid Pools
 2 Dig Through Time
@@ -35,7 +35,6 @@
 3 Negate
 3 Blooming Marsh
 4 Blooming Marsh
-4 Opt
 4 Satyr Wayfinder
 1 Narset, Parter of Veils
 1 Assassin's Trophy
@@ -55,6 +54,7 @@
 2 Blast Zone
 2 Fetid Pools
 3 Chemister's Insight
+4 Opt
 4 Thassa's Intervention
 1 Lovestruck Beast
 2 Narset, Parter of Veils
@@ -74,8 +74,8 @@
 1 Snow-Covered Island
 1 Snow-Covered Forest
 1 Murderous Rider
-1 Kalitas, Traitor of Ghet
 1 Hydroid Krasis
+1 Kalitas, Traitor of Ghet
 1 Sylvan Caryatid
 2 Snow-Covered Swamp
 2 Sylvan Caryatid
