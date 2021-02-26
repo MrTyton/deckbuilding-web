@@ -2,31 +2,26 @@
 4 Memory Leak
 4 Footfall Crater
 1 Plains
-4 Boon of the Wish-Giver
 1 Mountain
 2 Plains
 4 Raugrin Triome
+4 Boon of the Wish-Giver
 3 Brightclimb Pathway
 1 Blightstep Pathway
 4 Improbable Alliance
 4 Brightclimb Pathway
 1 Shredded Sails
 4 Frostveil Ambush
-2 Clearwater Pathway
 1 Mystical Dispute
-1 Rielle, the Everwise
-2 Rielle, the Everwise
-3 Rielle, the Everwise
-3 Clearwater Pathway
-2 Shredded Sails
 1 Savai Triome
+2 Shredded Sails
+2 Clearwater Pathway
 1 Temple of Triumph
 2 Temple of Triumph
-1 Selfless Savior
-2 Selfless Savior
 1 Showdown of the Skalds
 1 Shepherd of the Flock
 1 Skyclave Apparition
+1 Selfless Savior
 1 Bonecrusher Giant
 1 Seasoned Hallowblade
 2 Showdown of the Skalds
@@ -34,6 +29,7 @@
 2 Seasoned Hallowblade
 2 Skyclave Apparition
 2 Shepherd of the Flock
+2 Selfless Savior
 3 Showdown of the Skalds
 3 Skyclave Apparition
 3 Seasoned Hallowblade
@@ -45,6 +41,7 @@
 2 Maul of the Skyclaves
 2 Mountain
 3 Plains
+3 Maul of the Skyclaves
 3 Mountain
 4 Plains
 4 Mountain
@@ -52,33 +49,29 @@
 6 Plains
 7 Plains
 8 Plains
-1 Embercleave
-3 Selfless Savior
-4 Selfless Savior
-3 Maul of the Skyclaves
 1 Giant Killer
+1 Embercleave
 1 Luminarch Aspirant
 2 Luminarch Aspirant
 2 Giant Killer
 3 Giant Killer
+3 Selfless Savior
 3 Luminarch Aspirant
+4 Selfless Savior
 4 Luminarch Aspirant
 1 Fabled Passage
 2 Fabled Passage
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
-9 Plains
-9 Mountain
 2 Mystical Dispute
+1 Rielle, the Everwise
+2 Rielle, the Everwise
+3 Rielle, the Everwise
+3 Clearwater Pathway
 1 Easy Prey
 2 Savai Triome
 2 Easy Prey
 3 Savai Triome
 3 Shredded Sails
 4 Savai Triome
-4 Clearwater Pathway
 1 Goldspan Dragon
 1 Shatterskull Smashing
 2 Goldspan Dragon
@@ -86,11 +79,11 @@
 3 Temple of Triumph
 3 Shatterskull Smashing
 4 Shatterskull Smashing
-4 Skyclave Apparition
 4 Temple of Triumph
+4 Skyclave Apparition
 4 Maul of the Skyclaves
-1 Shock
 1 Robber of the Rich
+1 Shock
 1 Relic Robber
 1 Fervent Champion
 2 Robber of the Rich
@@ -103,37 +96,12 @@
 4 Shock
 4 Robber of the Rich
 4 Fervent Champion
-1 Kabira Takedown
-1 Castle Embereth
-1 Resplendent Marshal
-1 Akoum Hellhound
-1 Rally the Ranks
-1 Igneous Cur
-1 Pack Leader
-1 Alpine Houndmaster
-1 Bolt Hound
-1 Alpine Watchdog
-2 Akoum Hellhound
-2 Rally the Ranks
-2 Igneous Cur
-2 Alpine Watchdog
-2 Alpine Houndmaster
-2 Embercleave
-2 Pack Leader
-2 Resplendent Marshal
-2 Bolt Hound
-3 Akoum Hellhound
-3 Embercleave
-3 Bolt Hound
-3 Igneous Cur
-3 Alpine Watchdog
-3 Alpine Houndmaster
-3 Pack Leader
-4 Akoum Hellhound
-4 Alpine Houndmaster
-4 Pack Leader
-4 Bolt Hound
-10 Plains
+5 Mountain
+6 Mountain
+7 Mountain
+8 Mountain
+9 Plains
+9 Mountain
 1 Snow-Covered Mountain
 1 Snow-Covered Plains
 1 Usher of the Fallen

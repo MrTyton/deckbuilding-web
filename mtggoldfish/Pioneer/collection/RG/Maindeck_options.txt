@@ -41,10 +41,10 @@
 1 Snow-Covered Forest
 1 Snow-Covered Mountain
 1 Snow-Covered Island
+1 Unclaimed Territory
 1 Snow-Covered Swamp
 1 Collected Company
 1 Leeching Sliver
-1 Unclaimed Territory
 1 Diffusion Sliver
 1 Syphon Sliver
 1 Galerider Sliver
@@ -56,10 +56,10 @@
 1 Sliver Hivelord
 1 Predatory Sliver
 1 Venom Sliver
+2 Unclaimed Territory
 2 Syphon Sliver
 2 Collected Company
 2 Leeching Sliver
-2 Unclaimed Territory
 2 Diffusion Sliver
 2 Sliver Hive
 2 Predatory Sliver
@@ -130,10 +130,10 @@
 1 Branchloft Pathway
 1 Nissa, Voice of Zendikar
 1 Hangarback Walker
+1 Luminarch Aspirant
 1 Conclave Mentor
 1 Dromoka's Command
 1 Snakeskin Veil
-1 Luminarch Aspirant
 1 Hardened Scales
 1 Sunpetal Grove
 1 Plains
@@ -142,11 +142,11 @@
 1 The Ozolith
 2 Branchloft Pathway
 2 Temple Garden
+2 Luminarch Aspirant
 2 Hangarback Walker
 2 Conclave Mentor
 2 Snakeskin Veil
 2 Dromoka's Command
-2 Luminarch Aspirant
 2 Plains
 2 Vivien, Arkbow Ranger
 2 Rishkar, Peema Renegade
@@ -183,28 +183,6 @@
 4 Burning-Tree Emissary
 1 Kazandu Mammoth
 4 Goblin Rabblemaster
-1 Reckless Rage
-1 Commune with Dinosaurs
-1 Marauding Raptor
-1 Ghalta, Primal Hunger
-1 Ripjaw Raptor
-1 Regisaur Alpha
-2 Ghalta, Primal Hunger
-2 Marauding Raptor
-2 Reckless Rage
-2 Ripjaw Raptor
-2 Commune with Dinosaurs
-2 Regisaur Alpha
-3 Commune with Dinosaurs
-3 Regisaur Alpha
-3 Marauding Raptor
-3 Reckless Rage
-3 Ripjaw Raptor
-4 Commune with Dinosaurs
-4 Regisaur Alpha
-4 Marauding Raptor
-4 Ripjaw Raptor
-4 Reckless Rage
 1 Breeding Pool
 1 Island
 1 Fabled Passage
@@ -230,12 +208,12 @@
 2 Zagoth Triome
 2 Nissa, Who Shakes the World
 2 Growth Spiral
-2 Jace, Wielder of Mysteries
 2 Grim Tutor
 2 Enter the Infinite
+2 Cultivate
+2 Jace, Wielder of Mysteries
 2 Sea Gate Restoration
 2 Emergent Ultimatum
-2 Cultivate
 2 Sylvan Caryatid
 2 Swamp
 3 Binding the Old Gods
@@ -249,14 +227,36 @@
 3 Grim Tutor
 3 Cultivate
 4 Zagoth Triome
-4 Sea Gate Restoration
 4 Growth Spiral
 4 Sylvan Caryatid
 4 Nissa, Who Shakes the World
-4 Cultivate
 4 Emergent Ultimatum
 4 Overgrown Tomb
 4 Binding the Old Gods
+4 Cultivate
+4 Sea Gate Restoration
+1 Reckless Rage
+1 Commune with Dinosaurs
+1 Marauding Raptor
+1 Ghalta, Primal Hunger
+1 Ripjaw Raptor
+1 Regisaur Alpha
+2 Ghalta, Primal Hunger
+2 Regisaur Alpha
+2 Marauding Raptor
+2 Reckless Rage
+2 Ripjaw Raptor
+2 Commune with Dinosaurs
+3 Commune with Dinosaurs
+3 Regisaur Alpha
+3 Marauding Raptor
+3 Reckless Rage
+3 Ripjaw Raptor
+4 Commune with Dinosaurs
+4 Marauding Raptor
+4 Ripjaw Raptor
+4 Reckless Rage
+4 Regisaur Alpha
 1 Uro, Titan of Nature's Wrath
 1 Oblivion Sower
 1 Satyr Wayfinder
@@ -293,7 +293,7 @@
 4 Oblivion Sower
 4 Satyr Wayfinder
 4 Yavimaya Coast
-4 Arboreal Grazer
 4 Cavalier of Thorns
+4 Arboreal Grazer
 9 Forest
 4 Fabled Passage

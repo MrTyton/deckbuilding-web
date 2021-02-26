@@ -1,22 +1,24 @@
 4 Viashino Pyromancer
 3 Spikefield Hazard
 4 Spikefield Hazard
-1 Shock
-2 Shock
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep
 3 Abbot of Keral Keep
+1 Shock
+2 Shock
 4 Abbot of Keral Keep
 16 Mountain
-1 Rampaging Ferocidon
-2 Rampaging Ferocidon
 1 Eidolon of the Great Revel
 2 Eidolon of the Great Revel
+1 Collective Defiance
+2 Collective Defiance
+3 Collective Defiance
+1 Rampaging Ferocidon
+2 Rampaging Ferocidon
 1 Castle Embereth
 1 Kari Zev, Skyship Raider
 2 Kari Zev, Skyship Raider
-3 Rampaging Ferocidon
-4 Rampaging Ferocidon
+3 Eidolon of the Great Revel
 1 Goblin Chainwhirler
 1 Torbran, Thane of Red Fell
 2 Goblin Chainwhirler
@@ -24,22 +26,18 @@
 2 Castle Embereth
 17 Mountain
 3 Kari Zev, Skyship Raider
-3 Eidolon of the Great Revel
-1 Collective Defiance
-2 Collective Defiance
-3 Collective Defiance
 3 Goblin Chainwhirler
 1 Burning-Tree Emissary
 2 Burning-Tree Emissary
 3 Burning-Tree Emissary
+3 Rampaging Ferocidon
+4 Rampaging Ferocidon
 4 Eidolon of the Great Revel
 1 Legion Warboss
 2 Legion Warboss
 4 Burning-Tree Emissary
+4 Collective Defiance
 1 Shatterskull Smashing
-3 Shock
-1 Zurgo Bellstriker
-2 Zurgo Bellstriker
 1 Battlefield Forge
 1 Needleverge Pathway
 1 Inspiring Vantage
@@ -52,20 +50,20 @@
 4 Sacred Foundry
 4 Inspiring Vantage
 2 Shatterskull Smashing
-1 Skewer the Critics
-2 Skewer the Critics
-3 Skewer the Critics
+3 Shock
 1 Searing Blood
 2 Searing Blood
 3 Searing Blood
 1 Goblin Rabblemaster
+1 Zurgo Bellstriker
 2 Goblin Rabblemaster
+2 Zurgo Bellstriker
 3 Torbran, Thane of Red Fell
 4 Goblin Chainwhirler
 1 Showdown of the Skalds
 1 Crash Through
-2 Showdown of the Skalds
 2 Crash Through
+2 Showdown of the Skalds
 3 Showdown of the Skalds
 3 Crash Through
 3 Battlefield Forge
@@ -89,7 +87,6 @@
 2 Rekindling Phoenix
 3 Rekindling Phoenix
 4 Rekindling Phoenix
-4 Collective Defiance
 1 Boros Charm
 2 Boros Charm
 2 Needleverge Pathway

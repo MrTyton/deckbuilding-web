@@ -81,8 +81,8 @@
 2 Noble Hierarch
 3 Misty Rainforest
 3 Noble Hierarch
-4 Misty Rainforest
 4 Noble Hierarch
+4 Misty Rainforest
 1 Cling to Dust
 4 Baleful Strix
 5 Snow-Covered Island
@@ -99,11 +99,6 @@
 1 Sword of Feast and Famine
 2 Karakas
 2 Vendilion Clique
-1 Oko, Thief of Crowns
-2 Oko, Thief of Crowns
-2 Court of Grace
-2 Tropical Island
-3 Oko, Thief of Crowns
 1 Eliminate
 1 Thought Scour
 1 Sea Gate Stormcaller
@@ -114,8 +109,13 @@
 2 Sea Gate Stormcaller
 2 Cling to Dust
 3 Marsh Flats
-3 Sea Gate Stormcaller
 3 Cabal Therapy
+3 Sea Gate Stormcaller
+1 Oko, Thief of Crowns
+2 Oko, Thief of Crowns
+2 Court of Grace
+2 Tropical Island
+3 Oko, Thief of Crowns
 3 Plains
 1 Shark Typhoon
 1 Detention Sphere
@@ -124,9 +124,9 @@
 1 Counterbalance
 1 Deafening Silence
 1 Humility
+1 Enlightened Tutor
 1 Moat
 1 Porphyry Nodes
-1 Enlightened Tutor
 1 Energy Field
 1 Court of Cunning
 2 Court of Cunning
