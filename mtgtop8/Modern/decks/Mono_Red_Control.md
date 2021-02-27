@@ -28,10 +28,10 @@
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                     |             |                    1|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)|
+|                     |             |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
+|                     |             |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
 |                     |             |                    2|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)|
 |                     |             |                    3|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)|
 |                     |             |                    4|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)|
-|                     |             |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
-|                     |             |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
+|                     |             |                    1|[Legion Warboss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452859)|
 

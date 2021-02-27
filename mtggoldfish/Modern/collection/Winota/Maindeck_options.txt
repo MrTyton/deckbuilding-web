@@ -11,10 +11,10 @@
 2 Path to Exile
 1 Battlefield Forge
 2 Battlefield Forge
-3 Battlefield Forge
 3 Path to Exile
-4 Battlefield Forge
+3 Battlefield Forge
 4 Path to Exile
+4 Battlefield Forge
 6 Plains
 1 Temple Garden
 1 Wooded Foothills
@@ -97,11 +97,10 @@
 4 Godo, Bandit Warlord
 1 Noble Hierarch
 1 Hallowed Fountain
-1 Reflecting Pool
 1 Unclaimed Territory
-1 Blade Splicer
+1 Reflecting Pool
 1 Alirios, Enraptured
-1 Meddling Mage
+1 Blade Splicer
 1 Ancient Ziggurat
 1 Kitesail Freebooter
 1 Island
@@ -110,14 +109,15 @@
 1 Champion of the Parish
 1 Avacyn's Pilgrim
 1 Flooded Strand
+1 Meddling Mage
 2 Noble Hierarch
 2 Alirios, Enraptured
 2 Unclaimed Territory
 2 Blade Splicer
-2 Meddling Mage
 2 Ancient Ziggurat
 2 Reflecting Pool
 2 Avacyn's Pilgrim
+2 Meddling Mage
 2 Flooded Strand
 2 Mantis Rider
 2 Thalia's Lieutenant
@@ -163,8 +163,8 @@
 2 Utopia Sprawl
 2 Pia Nalaar
 3 Magus of the Moon
-3 Huntmaster of the Fells
 3 Goblin Rabblemaster
+3 Huntmaster of the Fells
 3 Utopia Sprawl
 4 Magus of the Moon
 4 Huntmaster of the Fells
@@ -172,12 +172,12 @@
 4 Forest
 4 Goblin Rabblemaster
 5 Forest
-1 Gilded Goose
 1 Brushfire Elemental
 1 Rampaging Ferocidon
 1 Banisher Priest
-2 Brushfire Elemental
+1 Gilded Goose
 2 Gilded Goose
+2 Brushfire Elemental
 2 Arid Mesa
 3 Gilded Goose
 4 Voice of Resurgence

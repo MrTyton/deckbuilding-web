@@ -39,9 +39,9 @@
 |                    4|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)  |                    3|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902) |
 |                    1|[Elvish Clancaller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447315)|                    3|[Collector Ouphe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464107)   |
 |                    2|[Elvish Clancaller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447315)|                    4|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902) |
-|                    3|[Elvish Clancaller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447315)|                    1|Skemfar Avenger                                                                              |
+|                    4|[Elvish Clancaller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447315)|                    1|Skemfar Avenger                                                                              |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    2|Skemfar Avenger                                                                              |
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    2|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
 |                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)    |
-|                    4|[Elvish Clancaller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447315)|                    3|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
+|                    3|[Elvish Clancaller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447315)|                    3|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
 

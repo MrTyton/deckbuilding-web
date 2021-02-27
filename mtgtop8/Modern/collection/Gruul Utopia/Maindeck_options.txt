@@ -5,9 +5,9 @@
 4 Blood Moon
 1 Prismatic Vista
 3 Glorybringer
+1 Inferno Titan
 1 Snow-Covered Mountain
 1 Elder Gargaroth
-1 Inferno Titan
 1 Snow-Covered Forest
 2 Tranquil Thicket
 2 Snow-Covered Mountain
@@ -25,8 +25,8 @@
 2 Lukka, Coppercoat Outcast
 3 Lukka, Coppercoat Outcast
 3 Magus of the Moon
-4 Magus of the Moon
 4 Lukka, Coppercoat Outcast
+4 Magus of the Moon
 1 Nahiri, the Harbinger
 1 Sacred Foundry
 1 Temple Garden
@@ -34,17 +34,13 @@
 2 Nahiri, the Harbinger
 3 Nahiri, the Harbinger
 4 Glorybringer
-1 Rootbound Crag
-1 Goblin Ruinblaster
-1 Yavimaya Dryad
-1 Sylvan Primordial
-2 Goblin Ruinblaster
-2 Sylvan Primordial
-2 Yavimaya Dryad
-3 Yavimaya Dryad
-3 Goblin Ruinblaster
-4 Goblin Ruinblaster
-4 Yavimaya Dryad
+1 Wood Elves
+2 Verdant Catacombs
+2 Wood Elves
+3 Verdant Catacombs
+3 Birds of Paradise
+4 Pillage
+4 Verdant Catacombs
 1 Huntmaster of the Fells
 3 Chandra, Torch of Defiance
 5 Snow-Covered Forest
@@ -56,10 +52,14 @@
 4 Stone Rain
 7 Forest
 8 Forest
-1 Wood Elves
-2 Verdant Catacombs
-2 Wood Elves
-3 Verdant Catacombs
-3 Birds of Paradise
-4 Pillage
-4 Verdant Catacombs
+1 Sylvan Primordial
+1 Yavimaya Dryad
+1 Goblin Ruinblaster
+1 Rootbound Crag
+2 Yavimaya Dryad
+2 Sylvan Primordial
+2 Goblin Ruinblaster
+3 Goblin Ruinblaster
+3 Yavimaya Dryad
+4 Yavimaya Dryad
+4 Goblin Ruinblaster

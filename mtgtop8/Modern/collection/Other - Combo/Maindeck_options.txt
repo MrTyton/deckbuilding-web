@@ -11,17 +11,17 @@
 1 Desperate Ritual
 1 Pyretic Ritual
 1 Irencrag Feat
-2 Spikefield Hazard
 2 Shatterskull Smashing
 2 Bala Ged Recovery
-2 Valakut Awakening
+2 Spikefield Hazard
 2 Pyretic Ritual
 2 Irencrag Feat
 2 Manamorphose
 2 Recross the Paths
+2 Valakut Awakening
 2 Desperate Ritual
-3 Spikefield Hazard
 3 Shatterskull Smashing
+3 Spikefield Hazard
 3 Goblin Charbelcher
 3 Manamorphose
 3 Pact of Negation
@@ -176,6 +176,10 @@
 2 Murderous Rider
 2 Prismatic Vista
 4 Magus of the Moon
+3 Thoughtseize
+4 Thoughtseize
+3 Pelakka Predation
+4 Pelakka Predation
 1 Emrakul, the Aeons Torn
 2 Emrakul, the Aeons Torn
 1 Mountain
@@ -216,20 +220,17 @@
 2 Snow-Covered Forest
 2 Simic Growth Chamber
 3 Grove of the Burnwillows
-3 Gruul Turf
 3 Tolaria West
+3 Gruul Turf
 3 Castle Garenbrig
 3 Simic Growth Chamber
 3 Forest
 4 Grove of the Burnwillows
 4 Gruul Turf
-3 Thoughtseize
-4 Thoughtseize
-3 Pelakka Predation
-4 Pelakka Predation
 1 Underworld Breach
 2 Snow-Covered Island
 1 Lotus Field
+1 Silundi Vision
 1 Peer Through Depths
 1 Wishclaw Talisman
 1 Sleight of Hand
@@ -242,15 +243,14 @@
 1 Psychic Puppetry
 1 Grapeshot
 1 Past in Flames
-1 Silundi Vision
 1 Dream's Grip
 1 Merchant Scroll
-2 Peer Through Depths
 2 Sleight of Hand
 2 Darkslick Shores
 2 Psychic Puppetry
 2 Merchant Scroll
 2 Reach Through Mists
+2 Peer Through Depths
 2 Watery Grave
 2 Lotus Field
 2 Serum Visions
@@ -366,15 +366,15 @@
 1 Marsh Flats
 1 Overwhelming Splendor
 1 Silence
-1 Nine Lives
 1 Deafening Clarion
-1 Temple of Triumph
 1 Wheel of Sun and Moon
 1 Dovescape
 1 Treasure Map
 1 Skyclave Apparition
 1 Form of the Dragon
+1 Nine Lives
 1 Plains
+1 Temple of Triumph
 1 Mistveil Plains
 1 Enduring Ideal
 1 Lotus Bloom
@@ -383,26 +383,26 @@
 2 Oust
 2 Silence
 2 Marsh Flats
-2 Temple of Triumph
-2 Nine Lives
 2 Enduring Ideal
 2 Plains
+2 Temple of Triumph
 2 Sacred Foundry
 2 Phyrexian Unlife
 2 Form of the Dragon
 2 Skyclave Apparition
+2 Nine Lives
 2 Treasure Map
 2 Solemnity
 2 Lotus Bloom
 3 Plains
 3 Skyclave Apparition
+3 Oust
 3 Sacred Foundry
 3 Marsh Flats
-3 Silence
 3 Solemnity
 3 Lotus Bloom
+3 Silence
 3 Enduring Ideal
-3 Oust
 3 Nine Lives
 4 Plains
 4 Sacred Foundry

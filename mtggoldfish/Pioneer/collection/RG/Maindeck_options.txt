@@ -1,7 +1,7 @@
 3 Kiora, Behemoth Beckoner
+8 Forest
 1 Rootbound Crag
 2 Rootbound Crag
-8 Forest
 6 Mountain
 1 Oath of Nissa
 1 Yasova Dragonclaw
@@ -126,6 +126,8 @@
 4 Realmwalker
 4 Calamity Bearer
 4 Wild Slash
+1 Plains
+2 Plains
 1 Temple Garden
 1 Branchloft Pathway
 1 Nissa, Voice of Zendikar
@@ -136,7 +138,6 @@
 1 Snakeskin Veil
 1 Hardened Scales
 1 Sunpetal Grove
-1 Plains
 1 Vivien, Arkbow Ranger
 1 Rishkar, Peema Renegade
 1 The Ozolith
@@ -147,10 +148,9 @@
 2 Conclave Mentor
 2 Snakeskin Veil
 2 Dromoka's Command
-2 Plains
 2 Vivien, Arkbow Ranger
-2 Rishkar, Peema Renegade
 2 The Ozolith
+2 Rishkar, Peema Renegade
 2 Nissa, Voice of Zendikar
 2 Hardened Scales
 2 Sunpetal Grove
@@ -177,8 +177,8 @@
 1 Burning-Tree Emissary
 2 Voltaic Brawler
 2 Burning-Tree Emissary
-3 Voltaic Brawler
 3 Burning-Tree Emissary
+3 Voltaic Brawler
 4 Voltaic Brawler
 4 Burning-Tree Emissary
 1 Kazandu Mammoth
@@ -230,10 +230,10 @@
 4 Growth Spiral
 4 Sylvan Caryatid
 4 Nissa, Who Shakes the World
+4 Cultivate
 4 Emergent Ultimatum
 4 Overgrown Tomb
 4 Binding the Old Gods
-4 Cultivate
 4 Sea Gate Restoration
 1 Reckless Rage
 1 Commune with Dinosaurs
@@ -242,11 +242,11 @@
 1 Ripjaw Raptor
 1 Regisaur Alpha
 2 Ghalta, Primal Hunger
-2 Regisaur Alpha
-2 Marauding Raptor
 2 Reckless Rage
+2 Marauding Raptor
 2 Ripjaw Raptor
 2 Commune with Dinosaurs
+2 Regisaur Alpha
 3 Commune with Dinosaurs
 3 Regisaur Alpha
 3 Marauding Raptor
@@ -257,14 +257,15 @@
 4 Ripjaw Raptor
 4 Reckless Rage
 4 Regisaur Alpha
+9 Forest
 1 Uro, Titan of Nature's Wrath
 1 Oblivion Sower
 1 Satyr Wayfinder
 1 Castle Garenbrig
 1 Ulamog, the Ceaseless Hunger
 1 World Breaker
-1 Drownyard Temple
 1 Arboreal Grazer
+1 Drownyard Temple
 1 Yavimaya Coast
 1 Cavalier of Thorns
 1 Shrine of the Forsaken Gods
@@ -275,17 +276,17 @@
 2 Castle Garenbrig
 2 Island
 2 Cavalier of Thorns
-2 Arboreal Grazer
 2 Ulamog, the Ceaseless Hunger
+2 Arboreal Grazer
 2 Drownyard Temple
 2 Yavimaya Coast
 3 Uro, Titan of Nature's Wrath
 3 Castle Garenbrig
 3 Oblivion Sower
 3 Satyr Wayfinder
+3 Arboreal Grazer
 3 Ulamog, the Ceaseless Hunger
 3 Drownyard Temple
-3 Arboreal Grazer
 3 Yavimaya Coast
 3 Cavalier of Thorns
 3 World Breaker
@@ -293,7 +294,47 @@
 4 Oblivion Sower
 4 Satyr Wayfinder
 4 Yavimaya Coast
-4 Cavalier of Thorns
 4 Arboreal Grazer
-9 Forest
+4 Cavalier of Thorns
 4 Fabled Passage
+1 Charming Prince
+1 Paradise Druid
+1 Worldspine Wurm
+1 Dragonlord Dromoka
+1 Temple of Plenty
+1 Dubious Challenge
+1 Fortified Village
+1 Trostani Discordant
+1 See the Unwritten
+1 Void Winnower
+1 Zetalpa, Primal Dawn
+2 Charming Prince
+2 Paradise Druid
+2 Fortified Village
+2 Void Winnower
+2 Trostani Discordant
+2 Worldspine Wurm
+2 Dubious Challenge
+2 Zetalpa, Primal Dawn
+2 Temple of Plenty
+2 See the Unwritten
+3 Charming Prince
+3 Paradise Druid
+3 Dubious Challenge
+3 Temple of Plenty
+3 See the Unwritten
+3 Plains
+3 Fortified Village
+3 Trostani Discordant
+3 Worldspine Wurm
+4 Plains
+4 Temple of Plenty
+4 Charming Prince
+4 Paradise Druid
+4 Trostani Discordant
+4 Fortified Village
+4 See the Unwritten
+4 Worldspine Wurm
+5 Plains
+10 Forest
+4 Dubious Challenge

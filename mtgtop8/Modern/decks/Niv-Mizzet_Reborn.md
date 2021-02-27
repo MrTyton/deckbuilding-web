@@ -43,8 +43,8 @@
 |--------------------:|-------------------------------------------------------------------------------------------------------|---------------------|--------------|
 |                    3|[Kaya's Guile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464154)                |                     |              |
 |                    3|[Utopia Sprawl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442181)               |                     |              |
-|                    3|[Wrenn and Six](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464166)               |                     |              |
 |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)        |                     |              |
+|                    3|[Wrenn and Six](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464166)               |                     |              |
 |                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)             |                     |              |
 |                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)            |                     |              |
 |                    3|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)             |                     |              |
@@ -56,8 +56,8 @@
 |                    4|[Lightning Helix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=249386)             |                     |              |
 |                    4|[Omnath, Locus of Creation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491883)   |                     |              |
 |                    4|[Wrenn and Six](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464166)               |                     |              |
-|                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)             |                     |              |
 |                    4|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148)        |                     |              |
+|                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)             |                     |              |
 |                    4|[Utopia Sprawl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442181)               |                     |              |
 |                    4|[Abundant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240017)             |                     |              |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)            |                     |              |

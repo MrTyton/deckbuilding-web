@@ -1,13 +1,14 @@
 1 Misty Rainforest
 2 Misty Rainforest
 4 Mutagenic Growth
-3 Forest
-1 Dismember
-1 Verdant Catacombs
 1 Snakeskin Veil
 2 Snakeskin Veil
-4 Waterlogged Grove
 3 Groundswell
+3 Forest
+3 Spell Pierce
+1 Dismember
+1 Verdant Catacombs
+4 Waterlogged Grove
 1 Urborg, Tomb of Yawgmoth
 1 Overgrown Tomb
 1 Inquisition of Kozilek
@@ -27,7 +28,6 @@
 3 Nurturing Peatland
 4 Phyrexian Crusader
 4 Plague Stinger
-3 Spell Pierce
 3 Snakeskin Veil
 1 Rancor
 2 Rancor
@@ -36,13 +36,7 @@
 2 Verdant Catacombs
 3 Verdant Catacombs
 4 Verdant Catacombs
-1 Botanical Sanctum
-2 Botanical Sanctum
-3 Botanical Sanctum
-4 Botanical Sanctum
 3 Breeding Pool
-1 Apostle's Blessing
-2 Apostle's Blessing
 1 Sylvan Scrying
 2 Dismember
 1 Snow-Covered Forest
@@ -51,27 +45,29 @@
 1 Abrupt Decay
 2 Abrupt Decay
 3 Abrupt Decay
-1 Viridian Corrupter
-2 Viridian Corrupter
-3 Apostle's Blessing
-3 Viridian Corrupter
-1 Yavimaya Coast
-2 Yavimaya Coast
-3 Yavimaya Coast
 1 Birds of Paradise
 1 Blooming Marsh
 2 Become Immense
 4 Nurturing Peatland
 1 Opt
 2 Opt
-3 Opt
 3 Wooded Foothills
+3 Opt
 4 Opt
+1 Botanical Sanctum
+1 Yavimaya Coast
+2 Botanical Sanctum
+2 Yavimaya Coast
+3 Botanical Sanctum
+3 Yavimaya Coast
+4 Botanical Sanctum
 3 Distortion Strike
 4 Distortion Strike
 1 Serum Visions
+1 Apostle's Blessing
 1 Island
 2 Serum Visions
+2 Apostle's Blessing
 3 Misty Rainforest
 4 Groundswell
 4 Misty Rainforest

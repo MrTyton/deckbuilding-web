@@ -42,7 +42,7 @@
 |                    3|[Vampire Hexmage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389735)         |                    2|[Silent Gravestone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439846)|
 |                    1|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)    |                    1|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)        |
 |                    1|[Crop Rotation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417430)           |                    1|[Serenity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15360)          |
-|                    2|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)             |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
-|                    4|[Living Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442168)             |                    1|[Cryptbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414381)     |
+|                    2|[Marsh Flats](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405101)             |                    1|[Cryptbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414381)     |
+|                    4|[Living Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442168)             |                    2|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)|
 |                    4|[Urborg, Tomb of Yawgmoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383425)|                     |                                                                                            |
 

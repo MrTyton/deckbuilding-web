@@ -1,7 +1,7 @@
 # UR Storm
 
 #### [Export MTGO List](../collection/UR%20Storm/UR%20Storm.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Baral,%20Chief%20of%20Compliance%0A4%09Desperate%20Ritual%0A1%09Empty%20the%20Warrens%0A1%09Fiery%20Islet%0A4%09Gifts%20Ungiven%0A3%09Goblin%20Electromancer%0A2%09Grapeshot%0A3%09Island%0A4%09Manamorphose%0A1%09Mountain%0A4%09Opt%0A2%09Past%20in%20Flames%0A4%09Pyretic%20Ritual%0A3%09Remand%0A1%09Repeal%0A3%09Riverglide%20Pathway%0A4%09Serum%20Visions%0A2%09Shivan%20Reef%0A2%09Silundi%20Vision%0A4%09Spirebluff%20Canal%0A4%09Steam%20Vents&deckside=1%09Abrade%0A1%09Aria%20of%20Flame%0A1%09Dismember%0A1%09Dispel%0A1%09Echoing%20Truth%0A1%09Empty%20the%20Warrens%0A1%09Flame%20Slash%0A3%09Lightning%20Bolt%0A3%09Mystical%20Dispute%0A2%09Pieces%20of%20the%20Puzzle)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Baral,%20Chief%20of%20Compliance%0A4%09Desperate%20Ritual%0A1%09Empty%20the%20Warrens%0A1%09Fiery%20Islet%0A4%09Gifts%20Ungiven%0A3%09Goblin%20Electromancer%0A2%09Grapeshot%0A3%09Island%0A4%09Manamorphose%0A1%09Mountain%0A4%09Opt%0A2%09Past%20in%20Flames%0A4%09Pyretic%20Ritual%0A3%09Remand%0A1%09Repeal%0A3%09Riverglide%20Pathway%0A4%09Serum%20Visions%0A2%09Shivan%20Reef%0A2%09Silundi%20Vision%0A4%09Spirebluff%20Canal%0A4%09Steam%20Vents&deckside=1%09Abrade%0A1%09Dismember%0A1%09Dispel%0A1%09Echoing%20Truth%0A2%09Empty%20the%20Warrens%0A1%09Flame%20Slash%0A3%09Lightning%20Bolt%0A3%09Mystical%20Dispute%0A2%09Pieces%20of%20the%20Puzzle)
 # Maindeck
 
 |                                             Creature (7)                                              |                                        Instant (26)                                        |                                           Land (18)                                           |                                         Sorcery (9)                                          |
@@ -18,25 +18,22 @@
 
 # Sideboard
 
-|                                     Enchantment (1)                                      |                                        Instant (10)                                         |                                           Sorcery (4)                                           |
-|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|1 [Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)|1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)          |1 [Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)   |
-|                                                                                          |1 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)       |1 [Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)         |
-|                                                                                          |1 [Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)          |2 [Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|
-|                                                                                          |1 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)   |                                                                                                 |
-|                                                                                          |3 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)     |                                                                                                 |
-|                                                                                          |3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                                 |
+|                                        Instant (10)                                         |                                           Sorcery (5)                                           |
+|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)          |2 [Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)   |
+|1 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)       |1 [Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)         |
+|1 [Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)          |2 [Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|
+|1 [Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)   |                                                                                                 |
+|3 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)     |                                                                                                 |
+|3 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|                                                                                                 |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
-|--------------------:|------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    1|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    2|[Empty the Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426587)   |
-|                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)  |                    1|[Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)         |
-|                    2|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)          |                    1|[Boil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14630)                 |
-|                    4|[Shivan Reef](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129731)          |                    2|[Boil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14630)                 |
-|                    4|[Riverglide Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491920)   |                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)              |
-|                    3|[Shivan Reef](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129731)          |                    2|[Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)       |
-|                     |                                                                                                |                    3|[Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                     |             |                    1|[Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)       |
+|                     |             |                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)              |
+|                     |             |                    2|[Aria of Flame](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464067)       |
+|                     |             |                    3|[Pieces of the Puzzle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409821)|
 
