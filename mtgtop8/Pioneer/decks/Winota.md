@@ -21,12 +21,13 @@
 
 # Sideboard
 
-|                                           Creature (10)                                            |                                      Instant (3)                                       |  Unknown (2)  |
-|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------|
-|4 [Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)      |3 [Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)|2 Masked Vandal|
-|2 [Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)      |                                                                                        |               |
-|1 [Klothys, God of Destiny](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476471)|                                                                                        |               |
-|1 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)       |                                                                                        |               |
-|1 [Lantern Scout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401938)          |                                                                                        |               |
-|1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)        |                                                                                        |               |
+|                                           Creature (12)                                            |                                      Instant (3)                                       |
+|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|4 [Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)      |3 [Magma Spray](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426843)|
+|2 [Hangarback Walker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420600)      |                                                                                        |
+|1 [Klothys, God of Destiny](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476471)|                                                                                        |
+|1 [Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)       |                                                                                        |
+|1 [Lantern Scout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401938)          |                                                                                        |
+|2 [Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800)          |                                                                                        |
+|1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)        |                                                                                        |
 

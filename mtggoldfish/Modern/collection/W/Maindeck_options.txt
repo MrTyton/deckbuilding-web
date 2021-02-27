@@ -2,8 +2,8 @@
 1 Windswept Heath
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
-1 Stoneforge Mystic
 1 Batterskull
+1 Stoneforge Mystic
 1 Sword of Fire and Ice
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -21,10 +21,10 @@
 4 Path to Exile
 4 Field of Ruin
 1 Maul of the Skyclaves
-1 Leonin Arbiter
 1 Ghost Quarter
-2 Leonin Arbiter
+1 Leonin Arbiter
 2 Restoration Angel
+2 Leonin Arbiter
 2 Ghost Quarter
 3 Leonin Arbiter
 3 Ghost Quarter
@@ -48,25 +48,25 @@
 7 Snow-Covered Plains
 1 Charming Prince
 2 Charming Prince
+1 Hengegate Pathway
+1 Seachrome Coast
+1 Teferi, Time Raveler
 1 Island
 1 Hallowed Fountain
-1 Hengegate Pathway
-1 Teferi, Time Raveler
-1 Seachrome Coast
 1 Spell Queller
 1 Glasspool Mimic
 2 Glasspool Mimic
-2 Teferi, Time Raveler
 2 Hengegate Pathway
 2 Seachrome Coast
+2 Teferi, Time Raveler
 2 Hallowed Fountain
 2 Spell Queller
-3 Glasspool Mimic
 3 Hallowed Fountain
-3 Seachrome Coast
 3 Hengegate Pathway
-3 Teferi, Time Raveler
+3 Seachrome Coast
+3 Glasspool Mimic
 3 Spell Queller
+3 Teferi, Time Raveler
 4 Glasspool Mimic
 4 Seachrome Coast
 4 Hallowed Fountain
@@ -90,8 +90,8 @@
 1 Spellskite
 2 Thraben Inspector
 1 Watcher for Tomorrow
-1 Sword of Light and Shadow
 1 Alrund, God of the Cosmos
+1 Sword of Light and Shadow
 2 Watcher for Tomorrow
 2 Alrund, God of the Cosmos
 3 Watcher for Tomorrow
@@ -101,40 +101,40 @@
 1 Ethersworn Canonist
 1 Skyclave Cleric
 1 Blast Zone
-2 Blast Zone
 2 Skyclave Cleric
 2 Ethersworn Canonist
+2 Blast Zone
 3 Ethersworn Canonist
 3 Archon of Emeria
 4 Archon of Emeria
 4 Ethersworn Canonist
-1 Flooded Strand
 1 Giant Killer
 1 Reidane, God of the Worthy
-1 Sigrid, God-Favored
-1 Usher of the Fallen
 1 Halvar, God of Battle
+1 Usher of the Fallen
+1 Sigrid, God-Favored
+1 Flooded Strand
 1 Tithe Taker
-2 Flooded Strand
 2 Reidane, God of the Worthy
-2 Giant Killer
 2 Mutavault
-2 Sigrid, God-Favored
 2 Usher of the Fallen
+2 Sigrid, God-Favored
 2 Halvar, God of Battle
 2 Tithe Taker
+2 Flooded Strand
+2 Giant Killer
 2 Batterskull
 3 Silent Clearing
-3 Flooded Strand
 3 Mutavault
 3 Usher of the Fallen
 3 Marsh Flats
+3 Flooded Strand
 3 Tithe Taker
 4 Marsh Flats
-4 Flooded Strand
 4 Silent Clearing
 4 Mutavault
 4 Usher of the Fallen
+4 Flooded Strand
 4 Tithe Taker
 1 Blade Splicer
 1 Tectonic Edge
@@ -170,5 +170,5 @@
 3 Chalice of the Void
 1 Magus of the Moon
 2 Magus of the Moon
-3 Magus of the Moon
 4 Magus of the Moon
+3 Magus of the Moon

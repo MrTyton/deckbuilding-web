@@ -1,9 +1,9 @@
 1 Scalding Tarn
 2 Scalding Tarn
-4 Wooded Foothills
-3 Bloodstained Mire
 3 Copperline Gorge
+4 Wooded Foothills
 3 Arid Mesa
+3 Bloodstained Mire
 1 Dakmor Salvage
 4 Bloodstained Mire
 3 Scalding Tarn
@@ -17,9 +17,9 @@
 1 Forest
 1 Watery Grave
 1 Breeding Pool
-1 Merfolk Secretkeeper
-1 Misty Rainforest
 1 Vengevine
+1 Misty Rainforest
+1 Merfolk Secretkeeper
 1 Overgrown Tomb
 1 Island
 1 Hedron Crab
@@ -27,13 +27,13 @@
 1 Stitcher's Supplier
 1 Verdant Catacombs
 1 Polluted Delta
+2 Polluted Delta
 2 Overgrown Tomb
 2 Vengevine
 2 Merfolk Secretkeeper
 2 Stitcher's Supplier
 2 Gravecrawler
 2 Hedron Crab
-2 Polluted Delta
 2 Misty Rainforest
 3 Polluted Delta
 3 Vengevine
@@ -70,16 +70,16 @@
 2 Rotting Rats
 2 Drown in Filth
 3 Satyr Wayfinder
-3 Darkslick Shores
 3 Unearth
+3 Darkslick Shores
 3 Misty Rainforest
 3 Drown in Filth
 3 Rotting Rats
-4 Darkslick Shores
 4 Satyr Wayfinder
-4 Merfolk Secretkeeper
+4 Darkslick Shores
 4 Rotting Rats
 4 Misty Rainforest
+4 Merfolk Secretkeeper
 1 Glimpse the Unthinkable
 1 Uro, Titan of Nature's Wrath
 1 Carrion Feeder
@@ -87,8 +87,8 @@
 2 Uro, Titan of Nature's Wrath
 2 Verdant Catacombs
 2 Glimpse the Unthinkable
-3 Overgrown Tomb
 3 Watery Grave
+3 Overgrown Tomb
 3 Glimpse the Unthinkable
 3 Verdant Catacombs
 4 Verdant Catacombs

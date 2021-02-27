@@ -84,14 +84,14 @@
 8 Snow-Covered Plains
 4 Godless Shrine
 2 Nihil Spellbomb
+1 Wastes
+2 Eldrazi Displacer
+3 Eldrazi Displacer
 1 Feed the Swarm
 1 Liliana, the Last Hope
 1 Hero's Downfall
 1 Gideon of the Trials
 3 Kaya's Guile
-1 Wastes
-2 Eldrazi Displacer
-3 Eldrazi Displacer
 1 Gideon, Ally of Zendikar
 2 Gideon, Ally of Zendikar
 4 Plains
@@ -102,10 +102,10 @@
 1 Ornithopter
 1 Sigarda's Aid
 1 Inkmoth Nexus
-1 Steelshaper's Gift
-1 Kor Outfitter
-1 Colossus Hammer
 1 Shadowspear
+1 Steelshaper's Gift
+1 Colossus Hammer
+1 Kor Outfitter
 1 Puresteel Paladin
 1 Memnite
 1 Mishra's Bauble
@@ -113,13 +113,14 @@
 2 Flooded Strand
 2 Springleaf Drum
 2 Colossus Hammer
-2 Sigarda's Aid
 2 Ornithopter
+2 Sigarda's Aid
 2 Inkmoth Nexus
 2 Steelshaper's Gift
 2 Puresteel Paladin
 2 Memnite
 2 Mishra's Bauble
+3 Springleaf Drum
 3 Inkmoth Nexus
 3 Steelshaper's Gift
 3 Colossus Hammer
@@ -129,7 +130,6 @@
 3 Puresteel Paladin
 3 Memnite
 3 Mishra's Bauble
-3 Springleaf Drum
 4 Inkmoth Nexus
 4 Steelshaper's Gift
 4 Colossus Hammer
@@ -141,7 +141,6 @@
 1 Sorin, Solemn Visitor
 4 Bitterblossom
 4 Swamp
-1 Ranger-Captain of Eos
 1 Speaker of the Heavens
 1 Orzhov Charm
 1 Serra Ascendant
@@ -152,8 +151,9 @@
 1 Day of Judgment
 1 Emeria, the Sky Ruin
 1 Martyr of Sands
-2 Ranger-Captain of Eos
+1 Ranger-Captain of Eos
 2 Sorin, Vengeful Bloodlord
+2 Ranger-Captain of Eos
 2 Serra Ascendant
 2 Orzhov Charm
 2 Ranger of Eos
@@ -161,8 +161,8 @@
 2 Emeria, the Sky Ruin
 2 Wrath of God
 3 Ranger of Eos
-3 Ranger-Captain of Eos
 3 Martyr of Sands
+3 Ranger-Captain of Eos
 3 Orzhov Charm
 4 Ranger of Eos
 4 Orzhov Charm

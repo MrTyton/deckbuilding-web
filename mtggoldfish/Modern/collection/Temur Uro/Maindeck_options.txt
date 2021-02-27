@@ -4,9 +4,9 @@
 3 Fact or Fiction
 1 Prismatic Vista
 1 Engineered Explosives
-1 Mishra's Bauble
 1 Emry, Lurker of the Loch
 1 Mox Amber
+1 Mishra's Bauble
 2 Mishra's Bauble
 2 Emry, Lurker of the Loch
 2 Engineered Explosives
@@ -32,12 +32,12 @@
 4 Fact or Fiction
 2 Steam Vents
 1 Oboro, Palace in the Clouds
-1 Ice-Fang Coatl
 1 Opt
-2 Ice-Fang Coatl
+1 Ice-Fang Coatl
 2 Opt
-3 Ice-Fang Coatl
+2 Ice-Fang Coatl
 3 Opt
+3 Ice-Fang Coatl
 4 Ice-Fang Coatl
 4 Opt
 4 Mystic Sanctuary
@@ -53,8 +53,8 @@
 1 Gilded Goose
 1 Metallic Rebuke
 2 Prismatic Vista
-2 Gilded Goose
 2 Metallic Rebuke
+2 Gilded Goose
 3 Gilded Goose
 3 Galvanic Blast
 3 Urza, Lord High Artificer
@@ -64,10 +64,10 @@
 1 Thassa's Oracle
 1 Grinding Station
 1 Chromatic Star
-2 Wooded Foothills
 2 Underworld Breach
 2 Grinding Station
 2 Chromatic Star
+2 Wooded Foothills
 3 Grinding Station
 3 Chromatic Star
 3 Underworld Breach
@@ -109,10 +109,10 @@
 3 Island
 1 Explore
 1 Vesuva
-1 Radiant Fountain
 1 Simic Growth Chamber
 1 Castle Garenbrig
 1 Cavern of Souls
+1 Radiant Fountain
 1 Cosima, God of the Voyage
 1 Teferi, Master of Time
 1 Search for Azcanta
@@ -123,24 +123,12 @@
 2 Ghost Quarter
 2 Tectonic Edge
 2 Huntmaster of the Fells
-3 Snow-Covered Forest
 3 Wooded Foothills
+3 Snow-Covered Forest
 1 Life from the Loam
 1 Hour of Promise
 2 Hour of Promise
 3 Field of the Dead
-4 Force of Negation
-1 Birds of Paradise
-1 Commandeer
-1 Expansion/Explosion
-2 Birds of Paradise
-2 Shark Typhoon
-2 Polluted Delta
-3 Archmage's Charm
-3 Birds of Paradise
-3 Wilderness Reclamation
-3 Shark Typhoon
-4 Archmage's Charm
 1 Utopia Sprawl
 1 Tamiyo, Collector of Tales
 2 Utopia Sprawl
@@ -149,6 +137,7 @@
 3 Utopia Sprawl
 3 Mana Leak
 4 Utopia Sprawl
+4 Force of Negation
 1 Tireless Tracker
 3 Prismatic Vista
 4 Prismatic Vista
@@ -162,11 +151,11 @@
 2 Repeal
 3 Flooded Strand
 3 Chalice of the Void
-4 Chalice of the Void
 4 Flooded Strand
-1 Snapcaster Mage
+4 Chalice of the Void
 1 Spell Snare
 1 Scapeshift
+1 Snapcaster Mage
 2 Scapeshift
 2 Stomping Ground
 3 Ketria Triome
@@ -174,15 +163,26 @@
 4 Steam Vents
 4 Cryptic Command
 4 Scapeshift
+1 Commandeer
+1 Birds of Paradise
+1 Expansion/Explosion
+2 Shark Typhoon
+2 Birds of Paradise
+2 Polluted Delta
+3 Birds of Paradise
+3 Wilderness Reclamation
+3 Shark Typhoon
+3 Archmage's Charm
+4 Archmage's Charm
 1 Shenanigans
 1 Liquimetal Coating
 1 Thieving Skydiver
 1 Abrade
+2 Abrade
 2 Thieving Skydiver
 2 Liquimetal Coating
-2 Abrade
-3 Abrade
 3 Liquimetal Coating
+3 Abrade
 3 Thieving Skydiver
 4 Thieving Skydiver
 1 Summoner's Pact
