@@ -2,13 +2,13 @@
 2 Elder Gargaroth
 3 Elder Gargaroth
 1 Masked Vandal
-1 Heroic Intervention
 1 Abrupt Decay
 1 Leyline of the Void
+1 Heroic Intervention
 1 Rhythm of the Wild
 2 Masked Vandal
-2 Heroic Intervention
 2 Abrupt Decay
+2 Heroic Intervention
 2 Leyline of the Void
 2 Rhythm of the Wild
 3 Heroic Intervention
@@ -41,8 +41,8 @@
 3 Anger of the Gods
 3 Soul-Guide Lantern
 1 Vivien Reid
-1 Shifting Ceratops
 1 Natural State
+1 Shifting Ceratops
 2 Shifting Ceratops
 2 Natural State
 1 Pithing Needle
@@ -56,7 +56,11 @@
 1 Hornet Nest
 2 Glorybringer
 2 Legion Warboss
-3 Reclamation Sage
+1 Chandra, Awakened Inferno
+1 Mizzium Mortars
+2 Vivien Reid
+2 Mizzium Mortars
+3 Chandra, Torch of Defiance
 1 Archon of Emeria
 1 Rest in Peace
 1 Isolate
@@ -70,24 +74,20 @@
 2 Reidane, God of the Worthy
 3 Isolate
 3 Reidane, God of the Worthy
+3 Reclamation Sage
 1 Dire Fleet Daredevil
 2 Dire Fleet Daredevil
 3 Cindervines
 3 Dire Fleet Daredevil
 1 The Great Henge
 3 Destructive Revelry
-1 Chandra, Awakened Inferno
-1 Mizzium Mortars
-2 Vivien Reid
-2 Mizzium Mortars
-3 Chandra, Torch of Defiance
 4 Soul-Guide Lantern
 1 Back to Nature
 1 Cleansing Wildfire
 2 Back to Nature
 2 Cleansing Wildfire
-3 Back to Nature
 3 Cleansing Wildfire
+3 Back to Nature
 4 Cleansing Wildfire
 1 Gideon's Intervention
 1 Seal Away
@@ -104,8 +104,8 @@
 1 Umori, the Collector
 1 Voracious Hydra
 2 Thought-Knot Seer
-2 Voracious Hydra
 2 Hydroid Krasis
+2 Voracious Hydra
 3 Voracious Hydra
 3 Thought-Knot Seer
 4 Thought-Knot Seer

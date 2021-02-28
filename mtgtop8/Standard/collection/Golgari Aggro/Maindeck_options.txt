@@ -4,30 +4,30 @@
 3 Forest
 3 Swamp
 4 Swamp
-1 Foulmire Knight
 1 Darkbore Pathway
 1 Edgewall Innkeeper
 1 Temple of Malady
 1 Lovestruck Beast
 1 Agadeem's Awakening
+1 Foulmire Knight
 1 Murderous Rider
-2 Foulmire Knight
 2 Lovestruck Beast
 2 Murderous Rider
+2 Foulmire Knight
 2 Temple of Malady
 2 Edgewall Innkeeper
 2 Darkbore Pathway
-3 Temple of Malady
 3 Lovestruck Beast
 3 Edgewall Innkeeper
 3 Murderous Rider
 3 Foulmire Knight
 3 Darkbore Pathway
-4 Temple of Malady
+3 Temple of Malady
 4 Darkbore Pathway
 4 Lovestruck Beast
 4 Edgewall Innkeeper
 4 Foulmire Knight
+4 Temple of Malady
 1 Sculptor of Winter
 2 Sculptor of Winter
 3 Sculptor of Winter
@@ -50,8 +50,8 @@
 1 Ashiok, Nightmare Muse
 1 Frantic Inventory
 1 Behold the Multiverse
-1 Poison the Cup
 1 Feed the Swarm
+1 Poison the Cup
 1 Thrashing Brontodon
 1 Ugin, the Spirit Dragon
 1 Port of Karfell
@@ -102,8 +102,8 @@
 4 Cragcrown Pathway
 1 Realmwalker
 1 Wolfwillow Haven
-1 Skemfar Avenger
 1 Grasp of Darkness
+1 Skemfar Avenger
 1 Return Upon the Tide
 1 Harald Unites the Elves
 1 Boreal Outrider
@@ -114,8 +114,8 @@
 2 Boreal Outrider
 2 Joraga Visionary
 3 Wolfwillow Haven
-3 Grasp of Darkness
 3 Harald, King of Skemfar
+3 Grasp of Darkness
 3 Boreal Outrider
 4 Sculptor of Winter
 4 Harald, King of Skemfar

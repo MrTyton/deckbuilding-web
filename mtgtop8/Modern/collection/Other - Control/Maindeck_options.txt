@@ -1,32 +1,5 @@
-1 Primeval Titan
-1 Cavern of Souls
-1 Verdant Catacombs
-1 Ghost Quarter
-1 Snow-Covered Forest
-1 Inferno Titan
-1 Mwonvuli Acid-Moss
-1 Explore
-1 Sire of Insanity
-1 Field of the Dead
-1 Overgrown Tomb
-1 Radiant Fountain
-1 Snow-Covered Swamp
-1 Gemstone Caverns
-1 Ruric Thar, the Unbowed
-1 Sylvan Caryatid
-1 Wurmcoil Engine
-1 Castle Garenbrig
-1 Gyruda, Doom of Depths
-1 Chalice of the Void
-1 Stomping Ground
-1 Blast Zone
-1 Farseek
-1 Forest
-1 Sakura-Tribe Elder
 1 Bojuka Bog
 2 Cavern of Souls
-2 Farseek
-2 Gyruda, Doom of Depths
 2 Explore
 2 Field of the Dead
 2 Verdant Catacombs
@@ -35,19 +8,21 @@
 2 Mwonvuli Acid-Moss
 2 Forest
 2 Stomping Ground
+2 Gyruda, Doom of Depths
 2 Overgrown Tomb
 2 Sire of Insanity
 2 Castle Garenbrig
 2 Sylvan Caryatid
+2 Farseek
 2 Chalice of the Void
 2 Sakura-Tribe Elder
 2 Primeval Titan
-3 Cavern of Souls
-3 Farseek
+3 Castle Garenbrig
 3 Sakura-Tribe Elder
+3 Farseek
+3 Cavern of Souls
 3 Chalice of the Void
 3 Primeval Titan
-3 Castle Garenbrig
 3 Sylvan Caryatid
 3 Gemstone Caverns
 3 Mwonvuli Acid-Moss
@@ -61,6 +36,9 @@
 2 Polluted Delta
 3 Polluted Delta
 4 Polluted Delta
+1 Fatal Push
+2 Fatal Push
+1 Eliminate
 1 Soaring Thought-Thief
 1 Ancestral Vision
 1 Watery Grave
@@ -70,7 +48,6 @@
 1 Thieves' Guild Enforcer
 1 Island
 1 Mana Leak
-1 Eliminate
 1 Cling to Dust
 1 Spell Snare
 1 Field of Ruin
@@ -82,10 +59,10 @@
 2 Ancestral Vision
 2 Drown in the Loch
 2 Archmage's Charm
-2 Cling to Dust
 2 Scalding Tarn
 2 Island
 2 Thieves' Guild Enforcer
+2 Cling to Dust
 2 Spell Snare
 2 Mana Leak
 2 Snapcaster Mage
@@ -96,12 +73,12 @@
 3 Thieves' Guild Enforcer
 3 Darkslick Shores
 3 Soaring Thought-Thief
-3 Cling to Dust
 3 Fatal Push
 3 Archmage's Charm
 3 Ancestral Vision
 3 Island
 3 Scalding Tarn
+3 Cling to Dust
 3 Drown in the Loch
 3 Mishra's Bauble
 3 Snapcaster Mage
@@ -114,6 +91,29 @@
 4 Darkslick Shores
 4 Mishra's Bauble
 4 Snapcaster Mage
+1 Nurturing Peatland
+1 Magmatic Channeler
+1 Marsh Flats
+1 Kroxa, Titan of Death's Hunger
+2 Mountain
+2 Magmatic Channeler
+2 Marsh Flats
+2 Kroxa, Titan of Death's Hunger
+3 Blood Crypt
+3 Marsh Flats
+3 Blackcleave Cliffs
+3 Magmatic Channeler
+3 Thoughtseize
+3 Seasoned Pyromancer
+3 Kroxa, Titan of Death's Hunger
+4 Blackcleave Cliffs
+4 Kroxa, Titan of Death's Hunger
+4 Liliana of the Veil
+4 Magmatic Channeler
+4 Thoughtseize
+4 Seasoned Pyromancer
+4 Marsh Flats
+4 Blood Crypt
 1 Smoldering Marsh
 1 Liliana, Waker of the Dead
 1 Graven Cairns

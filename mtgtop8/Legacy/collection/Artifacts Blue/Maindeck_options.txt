@@ -15,14 +15,14 @@
 1 Force of Will
 2 Force of Will
 3 Force of Will
-1 Karakas
 1 Tundra
+1 Karakas
 1 Wasteland
+1 Underground Sea
 1 Polluted Delta
 1 Baleful Strix
-1 Underground Sea
-2 Polluted Delta
 2 Underground Sea
+2 Polluted Delta
 2 Baleful Strix
 3 Polluted Delta
 3 Baleful Strix
@@ -35,6 +35,7 @@
 1 Swamp
 1 Mox Diamond
 1 Scalding Tarn
+1 Volcanic Island
 1 Bloodstained Mire
 1 Engineered Explosives
 1 Sorcerous Spyglass
@@ -45,7 +46,6 @@
 1 Dack Fayden
 1 Badlands
 1 Tezzeret, Agent of Bolas
-1 Volcanic Island
 1 Daretti, Ingenious Iconoclast
 1 Academy Ruins
 2 Mox Diamond
@@ -92,10 +92,10 @@
 1 Voltaic Key
 1 Grim Monolith
 1 Prismatic Vista
+2 Prismatic Vista
 2 Voltaic Key
 2 Mesmeric Orb
 2 Mystic Forge
-2 Prismatic Vista
 2 Manifold Key
 2 Grim Monolith
 2 Defense Grid

@@ -1,65 +1,69 @@
 2 Green Sun's Zenith
 1 Carpet of Flowers
 1 Mirri's Guile
-3 Setessan Champion
 3 Elephant Grass
 1 Forest
 2 Forest
 3 Forest
 4 Forest
 5 Forest
+3 Setessan Champion
+6 Forest
+1 Abundant Growth
+2 Abundant Growth
 4 Setessan Champion
 3 Cavern of Souls
 2 Mirri's Guile
-6 Forest
-1 Wooded Foothills
-1 Abundant Growth
-2 Abundant Growth
-1 Exploration
-1 Plains
 1 Bayou
+1 Wooded Foothills
+1 Exploration
+3 Abundant Growth
+1 Verdant Catacombs
+1 Plains
+1 Tropical Island
 2 Savannah
 1 Misty Rainforest
-1 Verdant Catacombs
-3 Abundant Growth
+4 Abundant Growth
 6 Snow-Covered Forest
 4 Elephant Grass
-4 On Thin Ice
-3 Sterling Grove
-1 Tropical Island
-4 Abundant Growth
-2 Wooded Foothills
-7 Snow-Covered Forest
 1 Estrid's Invocation
 2 Estrid's Invocation
-1 Emrakul, the Aeons Torn
-2 Carpet of Flowers
+4 On Thin Ice
+3 Sterling Grove
 1 Doomwake Giant
-1 Cast Out
 7 Forest
-1 Hall of Heliod's Generosity
+2 Wooded Foothills
+7 Snow-Covered Forest
 1 Ground Seal
 2 Ground Seal
-1 Snow-Covered Island
+1 Emrakul, the Aeons Torn
+2 Carpet of Flowers
 2 Verdant Catacombs
-2 Misty Rainforest
 1 Abrupt Decay
 2 Abrupt Decay
+8 Forest
+1 Cast Out
+1 Hall of Heliod's Generosity
+1 Swamp
+3 Verdant Catacombs
+1 Snow-Covered Island
+2 Misty Rainforest
 1 Omen of the Sea
 1 Shark Typhoon
 2 Omen of the Sea
 2 Shark Typhoon
 3 Estrid's Invocation
-1 City of Solitude
-2 Cast Out
 4 Serra's Sanctum
-8 Forest
+1 City of Solitude
+1 Binding the Old Gods
+2 Binding the Old Gods
+3 Abrupt Decay
+4 Verdant Catacombs
+2 Cast Out
 1 Living Wish
 2 Living Wish
 3 Living Wish
 4 Living Wish
-1 Swamp
-3 Verdant Catacombs
 3 Misty Rainforest
 1 Force of Will
 2 Snow-Covered Island
@@ -76,14 +80,14 @@
 2 Snow-Covered Plains
 3 Solitary Confinement
 4 Rest in Peace
-1 Words of Wind
 1 Energy Field
+1 Words of Wind
 1 Spreading Seas
 1 Force of Negation
+2 Energy Field
 2 Force of Negation
 2 Words of Wind
 2 Spreading Seas
-2 Energy Field
 3 Omen of the Sea
 3 Spreading Seas
 3 Shark Typhoon
@@ -125,10 +129,6 @@
 1 Fertile Ground
 2 Replenish
 2 Fertile Ground
-1 Binding the Old Gods
-2 Binding the Old Gods
-3 Abrupt Decay
-4 Verdant Catacombs
 1 Island
 1 Karn, the Great Creator
 1 Leyline of the Void
@@ -141,27 +141,27 @@
 1 Crop Rotation
 1 Dark Depths
 1 Maze of Ith
-1 Field of the Dead
 1 Taiga
-1 Valakut Exploration
-1 The Tabernacle at Pendrell Vale
 1 Life from the Loam
+1 Field of the Dead
+1 The Tabernacle at Pendrell Vale
+1 Valakut Exploration
 1 Bojuka Bog
 1 Wasteland
 1 Rishadan Port
 1 Thespian's Stage
 1 Mox Diamond
-2 Thespian's Stage
 2 Crop Rotation
-2 Valakut Exploration
-2 Maze of Ith
 2 Life from the Loam
 2 Exploration
-2 Taiga
+2 Thespian's Stage
 2 Rishadan Port
 2 Mox Diamond
 2 Wasteland
 2 Dark Depths
+2 Taiga
+2 Valakut Exploration
+2 Maze of Ith
 3 Crop Rotation
 3 Exploration
 3 Life from the Loam

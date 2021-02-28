@@ -3,8 +3,8 @@
 1 Rootbound Crag
 2 Rootbound Crag
 6 Mountain
-1 Yasova Dragonclaw
 1 Oath of Nissa
+1 Yasova Dragonclaw
 1 Scavenging Ooze
 1 Domri, Anarch of Bolas
 2 Domri, Anarch of Bolas
@@ -36,12 +36,12 @@
 1 Realmwalker
 2 Realmwalker
 3 Realmwalker
+1 Snow-Covered Forest
 1 Snow-Covered Mountain
 1 Snow-Covered Island
-1 Collected Company
-1 Overgrown Tomb
-1 Snow-Covered Forest
 1 Snow-Covered Swamp
+1 Overgrown Tomb
+1 Collected Company
 1 Leeching Sliver
 1 Diffusion Sliver
 1 Unclaimed Territory
@@ -55,10 +55,10 @@
 1 Sliver Hivelord
 1 Predatory Sliver
 1 Venom Sliver
-2 Collected Company
 2 Overgrown Tomb
 2 Syphon Sliver
 2 Unclaimed Territory
+2 Collected Company
 2 Leeching Sliver
 2 Diffusion Sliver
 2 Sliver Hive
@@ -79,9 +79,9 @@
 3 Galerider Sliver
 3 Diffusion Sliver
 4 Predatory Sliver
-4 Collected Company
 4 Unclaimed Territory
 4 Leeching Sliver
+4 Collected Company
 4 Diffusion Sliver
 4 Manaweft Sliver
 4 Sliver Hive
@@ -128,9 +128,9 @@
 4 Wild Slash
 1 Plains
 2 Plains
-1 Nissa, Voice of Zendikar
 1 Temple Garden
 1 Branchloft Pathway
+1 Nissa, Voice of Zendikar
 1 Hangarback Walker
 1 Luminarch Aspirant
 1 Conclave Mentor
@@ -141,34 +141,34 @@
 1 Vivien, Arkbow Ranger
 1 Rishkar, Peema Renegade
 1 The Ozolith
-2 Nissa, Voice of Zendikar
 2 Branchloft Pathway
 2 Temple Garden
 2 Luminarch Aspirant
 2 Hangarback Walker
 2 Conclave Mentor
-2 Dromoka's Command
 2 Snakeskin Veil
+2 Dromoka's Command
 2 Vivien, Arkbow Ranger
 2 Rishkar, Peema Renegade
 2 The Ozolith
+2 Nissa, Voice of Zendikar
 2 Hardened Scales
 2 Sunpetal Grove
 3 Sunpetal Grove
-3 Nissa, Voice of Zendikar
 3 Branchloft Pathway
 3 Temple Garden
 3 Luminarch Aspirant
 3 Conclave Mentor
+3 Nissa, Voice of Zendikar
 3 Hardened Scales
 3 Vivien, Arkbow Ranger
 3 Hangarback Walker
 3 Rishkar, Peema Renegade
-4 Nissa, Voice of Zendikar
 4 Branchloft Pathway
 4 Temple Garden
 4 Luminarch Aspirant
 4 Conclave Mentor
+4 Nissa, Voice of Zendikar
 4 Hardened Scales
 4 Sunpetal Grove
 4 Hangarback Walker
@@ -183,10 +183,10 @@
 4 Burning-Tree Emissary
 1 Kazandu Mammoth
 4 Goblin Rabblemaster
-1 Ghalta, Primal Hunger
 1 Reckless Rage
 1 Commune with Dinosaurs
 1 Marauding Raptor
+1 Ghalta, Primal Hunger
 1 Ripjaw Raptor
 1 Regisaur Alpha
 2 Ghalta, Primal Hunger
@@ -208,26 +208,26 @@
 9 Forest
 1 Breeding Pool
 1 Uro, Titan of Nature's Wrath
+1 Oblivion Sower
 1 Satyr Wayfinder
+1 Castle Garenbrig
+1 Ulamog, the Ceaseless Hunger
 1 World Breaker
 1 Arboreal Grazer
 1 Drownyard Temple
-1 Oblivion Sower
-1 Castle Garenbrig
 1 Yavimaya Coast
 1 Cavalier of Thorns
 1 Shrine of the Forsaken Gods
 1 Island
 1 Fabled Passage
-1 Ulamog, the Ceaseless Hunger
 2 Uro, Titan of Nature's Wrath
 2 Breeding Pool
 2 World Breaker
 2 Oblivion Sower
 2 Satyr Wayfinder
+2 Castle Garenbrig
 2 Island
 2 Cavalier of Thorns
-2 Castle Garenbrig
 2 Arboreal Grazer
 2 Ulamog, the Ceaseless Hunger
 2 Drownyard Temple
@@ -235,16 +235,16 @@
 2 Yavimaya Coast
 3 Uro, Titan of Nature's Wrath
 3 Breeding Pool
+3 Castle Garenbrig
 3 Oblivion Sower
 3 Satyr Wayfinder
-3 Arboreal Grazer
 3 Ulamog, the Ceaseless Hunger
 3 Drownyard Temple
 3 Fabled Passage
+3 Arboreal Grazer
 3 Yavimaya Coast
 3 Cavalier of Thorns
 3 World Breaker
-3 Castle Garenbrig
 4 Breeding Pool
 4 Uro, Titan of Nature's Wrath
 4 Oblivion Sower
@@ -255,7 +255,6 @@
 4 Fabled Passage
 1 Charming Prince
 1 Paradise Druid
-1 Void Winnower
 1 Worldspine Wurm
 1 Dragonlord Dromoka
 1 Temple of Plenty
@@ -263,6 +262,7 @@
 1 Fortified Village
 1 Trostani Discordant
 1 See the Unwritten
+1 Void Winnower
 1 Zetalpa, Primal Dawn
 2 Charming Prince
 2 Paradise Druid
@@ -283,14 +283,14 @@
 3 Fortified Village
 3 Trostani Discordant
 3 Worldspine Wurm
-4 Temple of Plenty
 4 Plains
 4 Charming Prince
+4 Temple of Plenty
 4 Paradise Druid
 4 Trostani Discordant
 4 Fortified Village
 4 See the Unwritten
 4 Worldspine Wurm
-4 Dubious Challenge
 5 Plains
 10 Forest
+4 Dubious Challenge

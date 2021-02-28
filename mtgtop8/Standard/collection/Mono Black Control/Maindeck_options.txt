@@ -23,8 +23,8 @@
 10 Snow-Covered Swamp
 11 Snow-Covered Swamp
 1 Pelakka Predation
-1 Tergrid, God of Fright
 1 Soul Shatter
+1 Tergrid, God of Fright
 2 Pelakka Predation
 3 Pelakka Predation
 4 Pelakka Predation
@@ -34,25 +34,12 @@
 2 Erebos's Intervention
 2 Labyrinth of Skophos
 4 Elspeth's Nightmare
-1 Elderfang Disciple
-1 Acquisitions Expert
-1 Shadows' Verdict
-2 Elderfang Disciple
-2 Acquisitions Expert
-2 Tergrid, God of Fright
-2 Shadows' Verdict
-3 Tergrid, God of Fright
-3 Acquisitions Expert
-3 Elderfang Disciple
-4 Heartless Act
-4 Elderfang Disciple
-4 Acquisitions Expert
 1 Lithoform Engine
 1 Stonecoil Serpent
 1 Bonders' Enclave
+1 Skull Raid
 1 Pharika's Libation
 1 Eat to Extinction
-1 Skull Raid
 1 Cosmos Elixir
 1 Forsaken Monument
 1 Rankle, Master of Pranks
@@ -72,7 +59,19 @@
 3 Pharika's Libation
 4 Pharika's Libation
 4 Bonders' Enclave
-1 Hooded Blightfang
+1 Elderfang Disciple
+1 Acquisitions Expert
+1 Shadows' Verdict
+2 Elderfang Disciple
+2 Acquisitions Expert
+2 Tergrid, God of Fright
+2 Shadows' Verdict
+3 Tergrid, God of Fright
+3 Acquisitions Expert
+3 Elderfang Disciple
+4 Heartless Act
+4 Elderfang Disciple
+4 Acquisitions Expert
 1 Grim Tutor
 1 Thieves' Guild Enforcer
 1 Witch's Cottage
@@ -82,10 +81,11 @@
 1 Witch's Vengeance
 1 Peer into the Abyss
 1 Epic Downfall
+1 Underworld Dreams
 1 Foreboding Fruit
 1 Vito, Thorn of the Dusk Rose
+1 Hooded Blightfang
 1 Ayara, First of Locthwain
-1 Underworld Dreams
 1 Nighthawk Scavenger
 1 Blood Beckoning
 1 Call of the Death-Dweller
