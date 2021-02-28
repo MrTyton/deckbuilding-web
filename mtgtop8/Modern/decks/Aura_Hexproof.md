@@ -47,7 +47,7 @@
 |                     |                                                                                             |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)    |
 |                     |                                                                                             |                    3|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)              |
 |                     |                                                                                             |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)    |
-|                     |                                                                                             |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)    |
 |                     |                                                                                             |                    4|[Wilt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479696)              |
+|                     |                                                                                             |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)    |
 |                     |                                                                                             |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)     |
 

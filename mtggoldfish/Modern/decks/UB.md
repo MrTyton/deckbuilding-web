@@ -54,8 +54,8 @@
 |                    3|[Shark Typhoon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479587)        |                     |                                                                                              |
 |                    3|Cosima, God of the Voyage                                                                       |                     |                                                                                              |
 |                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                  |                     |                                                                                              |
-|                    3|[Mystic Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473209)     |                     |                                                                                              |
 |                    3|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676)      |                     |                                                                                              |
+|                    3|[Mystic Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473209)     |                     |                                                                                              |
 |                    5|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)               |                     |                                                                                              |
 |                    6|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)               |                     |                                                                                              |
 

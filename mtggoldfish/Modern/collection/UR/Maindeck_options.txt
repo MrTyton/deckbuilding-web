@@ -9,8 +9,8 @@
 2 Shark Typhoon
 1 Cascade Bluffs
 1 Blast Zone
-2 Cascade Bluffs
 2 Magmatic Sinkhole
+2 Cascade Bluffs
 3 Brazen Borrower
 4 Brazen Borrower
 2 Misty Rainforest
@@ -36,10 +36,10 @@
 4 Manamorphose
 4 Lava Dart
 4 Soul-Scar Mage
-1 Crash Through
 1 Sunbaked Canyon
-2 Crash Through
+1 Crash Through
 2 Sunbaked Canyon
+2 Crash Through
 3 Crash Through
 4 Crash Through
 2 Mountain
@@ -52,6 +52,7 @@
 1 Mutagenic Growth
 2 Mutagenic Growth
 3 Mutagenic Growth
+1 Arid Mesa
 1 Sacred Foundry
 1 Abbot of Keral Keep
 1 Inspiring Vantage
@@ -59,7 +60,6 @@
 1 Myth Realized
 1 Wooded Foothills
 1 Boros Charm
-1 Arid Mesa
 2 Bloodstained Mire
 2 Wooded Foothills
 2 Inspiring Vantage
@@ -129,10 +129,6 @@
 1 Spell Pierce
 2 Spell Pierce
 3 Ancestral Vision
-1 Thing in the Ice
-2 Thing in the Ice
-3 Thing in the Ice
-4 Thing in the Ice
 1 Dreadhorde Arcanist
 1 Serum Visions
 1 Piracy Charm
@@ -146,8 +142,12 @@
 3 Piracy Charm
 4 Serum Visions
 4 Polluted Delta
-4 Steam Vents
 4 Dreadhorde Arcanist
+4 Steam Vents
+1 Thing in the Ice
+2 Thing in the Ice
+3 Thing in the Ice
+4 Thing in the Ice
 1 Magda, Brazen Outlaw
 1 Goldspan Dragon
 1 Glorybringer
@@ -179,8 +179,8 @@
 2 Kiln Fiend
 3 Snow-Covered Mountain
 3 Kiln Fiend
-4 Snow-Covered Mountain
 4 Sunbaked Canyon
+4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain

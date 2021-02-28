@@ -5,44 +5,44 @@
 3 True-Name Nemesis
 1 Daze
 2 Daze
+1 Polluted Delta
 1 Arid Mesa
-4 Dreadhorde Arcanist
 2 Hullbreacher
+4 Dreadhorde Arcanist
 4 Island
 1 Misty Rainforest
 1 Wasteland
 2 Wasteland
 3 Scalding Tarn
-1 Skyclave Apparition
-2 Skyclave Apparition
-1 Polluted Delta
-1 Unearth
-1 Monastery Mentor
 1 Baleful Strix
-1 Scrubland
-1 Marsh Flats
 1 Underground Sea
 2 Baleful Strix
-2 Monastery Mentor
-2 Unearth
 2 Underground Sea
-2 Marsh Flats
 2 Polluted Delta
 3 Baleful Strix
-1 Mountain
+1 Skyclave Apparition
+2 Skyclave Apparition
 1 Swamp
 1 Hymn to Tourach
-1 Of One Mind
-1 Inquisition of Kozilek
-1 Vindicate
-1 Fatal Push
 2 Hymn to Tourach
+3 Polluted Delta
+4 Polluted Delta
+1 Marsh Flats
+1 Monastery Mentor
+1 Unearth
+1 Scrubland
+2 Monastery Mentor
+2 Unearth
+2 Marsh Flats
+1 Mountain
+1 Of One Mind
+1 Vindicate
+1 Inquisition of Kozilek
+1 Fatal Push
 2 Of One Mind
 2 Scrubland
 2 Inquisition of Kozilek
-3 Polluted Delta
 3 Of One Mind
-4 Polluted Delta
 2 Misty Rainforest
 3 Wasteland
 2 Spell Pierce
@@ -82,31 +82,38 @@
 3 Snow-Covered Island
 4 Snow-Covered Island
 1 Venser, Shaper Savant
+1 Jace, Vryn's Prodigy
+1 Cling to Dust
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
 2 Tropical Island
 3 Oko, Thief of Crowns
+1 Thoughtseize
+1 Liliana's Triumph
+1 Kaya, Orzhov Usurper
+1 Liliana, the Last Hope
+2 Swamp
+2 Thoughtseize
 1 Counterspell
 1 Mystic Sanctuary
 1 Court of Grace
 2 Court of Grace
-1 Eliminate
+3 Plains
 1 Thought Scour
 1 Sea Gate Stormcaller
-1 Cling to Dust
+1 Eliminate
 1 Cabal Therapy
 1 Cavern of Souls
 1 Snow-Covered Swamp
-2 Eliminate
 2 Cabal Therapy
 2 Sea Gate Stormcaller
+2 Eliminate
 2 Cling to Dust
 3 Marsh Flats
-3 Sea Gate Stormcaller
 3 Cabal Therapy
-3 Plains
-1 Life from the Loam
+3 Sea Gate Stormcaller
 1 Sylvan Library
+1 Life from the Loam
 1 Uro, Titan of Nature's Wrath
 2 Forest
 2 Uro, Titan of Nature's Wrath
@@ -118,18 +125,17 @@
 1 Archon of Emeria
 1 Windswept Heath
 1 Scavenging Ooze
+2 Windswept Heath
 2 Tarmogoyf
 2 Lavinia, Azorius Renegade
 2 Archon of Emeria
-2 Windswept Heath
-3 Windswept Heath
 3 Tropical Island
+3 Windswept Heath
 3 Tarmogoyf
 3 Archon of Emeria
-4 Archon of Emeria
 4 Windswept Heath
+4 Archon of Emeria
 4 Daze
-1 Jace, Vryn's Prodigy
 1 Sword of Feast and Famine
 2 Karakas
 2 Vendilion Clique
