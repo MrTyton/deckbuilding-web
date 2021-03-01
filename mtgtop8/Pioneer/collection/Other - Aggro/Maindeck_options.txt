@@ -7,8 +7,8 @@
 2 Thoughtseize
 3 Thoughtseize
 4 Thoughtseize
-1 Thieves' Guild Enforcer
 1 Soaring Thought-Thief
+1 Thieves' Guild Enforcer
 1 Drown in the Loch
 1 Cling to Dust
 1 Clearwater Pathway
@@ -18,14 +18,14 @@
 2 Soaring Thought-Thief
 2 Drown in the Loch
 2 Watery Grave
-3 Thieves' Guild Enforcer
-3 Drown in the Loch
 3 Soaring Thought-Thief
+3 Drown in the Loch
+3 Thieves' Guild Enforcer
 3 Clearwater Pathway
 3 Watery Grave
-4 Drown in the Loch
-4 Thieves' Guild Enforcer
 4 Soaring Thought-Thief
+4 Thieves' Guild Enforcer
+4 Drown in the Loch
 4 Clearwater Pathway
 4 Watery Grave
 3 Fatal Push
@@ -57,8 +57,8 @@
 3 Swamp
 1 Glint-Sleeve Siphoner
 2 Glint-Sleeve Siphoner
-3 Nighthawk Scavenger
 3 Glint-Sleeve Siphoner
+3 Nighthawk Scavenger
 4 Glint-Sleeve Siphoner
 2 Blood Crypt
 2 Stomping Ground
@@ -114,6 +114,7 @@
 4 Mutavault
 1 Plains
 1 Open the Armory
+1 Mardu Woe-Reaper
 1 Shadowspear
 1 Gods Willing
 1 Kor Blademaster
@@ -126,8 +127,8 @@
 1 Bloodsoaked Champion
 1 Colossus Hammer
 1 Blood-Chin Rager
-1 Mardu Woe-Reaper
 2 Open the Armory
+2 Mardu Woe-Reaper
 2 Gods Willing
 2 Concealed Courtyard
 2 Sigarda's Aid
@@ -136,7 +137,6 @@
 2 Bloodsoaked Champion
 2 Kor Blademaster
 2 Blood-Chin Rager
-2 Mardu Woe-Reaper
 2 Caves of Koilos
 2 Dragon Hunter
 2 Wishclaw Talisman
@@ -152,6 +152,7 @@
 3 Bloodsoaked Champion
 3 Dragon Hunter
 3 Blood-Chin Rager
+4 Mardu Woe-Reaper
 4 Godless Shrine
 4 Sigarda's Aid
 4 Caves of Koilos
@@ -160,7 +161,6 @@
 4 Colossus Hammer
 4 Resolute Strike
 4 Dragon Hunter
-4 Mardu Woe-Reaper
 4 Kor Blademaster
 1 Murderous Rider
 2 Murderous Rider
@@ -235,9 +235,9 @@
 1 Sunpetal Grove
 1 Gryff's Boon
 1 Sentinel's Eyes
-1 Fortified Village
 1 All That Glitters
 1 Cartouche of Solidarity
+1 Fortified Village
 1 Ethereal Armor
 1 Unflinching Courage
 1 Bassara Tower Archer

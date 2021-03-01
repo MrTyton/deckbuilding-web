@@ -4,30 +4,30 @@
 3 Forest
 3 Swamp
 4 Swamp
-1 Foulmire Knight
 1 Darkbore Pathway
 1 Edgewall Innkeeper
 1 Temple of Malady
 1 Lovestruck Beast
 1 Agadeem's Awakening
+1 Foulmire Knight
 1 Murderous Rider
-2 Foulmire Knight
 2 Lovestruck Beast
 2 Murderous Rider
+2 Foulmire Knight
 2 Temple of Malady
 2 Edgewall Innkeeper
 2 Darkbore Pathway
+3 Temple of Malady
 3 Lovestruck Beast
 3 Edgewall Innkeeper
 3 Murderous Rider
 3 Foulmire Knight
 3 Darkbore Pathway
-3 Temple of Malady
 4 Darkbore Pathway
+4 Temple of Malady
 4 Lovestruck Beast
 4 Edgewall Innkeeper
 4 Foulmire Knight
-4 Temple of Malady
 1 Sculptor of Winter
 2 Sculptor of Winter
 3 Sculptor of Winter
@@ -48,22 +48,22 @@
 4 Ice Tunnel
 1 Sarulf, Realm Eater
 1 Ashiok, Nightmare Muse
-1 Frantic Inventory
 1 Behold the Multiverse
+1 Frantic Inventory
 1 Feed the Swarm
 1 Poison the Cup
-1 Chainweb Aracnir
 1 Thrashing Brontodon
 1 Ugin, the Spirit Dragon
 1 Port of Karfell
+1 Chainweb Aracnir
 2 Behold the Multiverse
 2 Frantic Inventory
 2 Poison the Cup
+2 Thrashing Brontodon
 2 Feed the Swarm
 2 Chainweb Aracnir
 2 Elspeth's Nightmare
 2 Port of Karfell
-2 Thrashing Brontodon
 3 Snow-Covered Island
 3 Behold the Multiverse
 3 Frantic Inventory
@@ -81,6 +81,7 @@
 1 Zagoth Triome
 1 Cragcrown Pathway
 1 Order of Midnight
+2 Scavenging Ooze
 2 Vivien, Monsters' Advocate
 2 Blightstep Pathway
 2 Valki, God of Lies
@@ -90,7 +91,6 @@
 2 Cragcrown Pathway
 2 Agadeem's Awakening
 2 Heartless Act
-2 Scavenging Ooze
 3 Blightstep Pathway
 3 Heartless Act
 3 Valki, God of Lies
@@ -125,9 +125,9 @@
 8 Snow-Covered Forest
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
+1 Garruk's Uprising
 1 Jungle Hollow
 1 Battle Mammoth
-1 Garruk's Uprising
 1 Wildwood Patrol
 1 Tajuru Blightblade
 1 Oakhame Adversary
@@ -157,21 +157,21 @@
 12 Forest
 13 Forest
 14 Forest
+1 Kazandu Mammoth
 1 Jolrael, Mwonvuli Recluse
 1 Primal Might
-1 Kazandu Mammoth
-1 Chevill, Bane of Monsters
 1 Fabled Passage
 1 Rankle, Master of Pranks
 1 Bloodchief's Thirst
 1 Castle Locthwain
-2 Jolrael, Mwonvuli Recluse
+1 Chevill, Bane of Monsters
 2 The Great Henge
 2 Kazandu Mammoth
+2 Jolrael, Mwonvuli Recluse
 2 Elder Gargaroth
-2 Chevill, Bane of Monsters
 2 Primal Might
 2 Rankle, Master of Pranks
+2 Chevill, Bane of Monsters
 3 Kazandu Mammoth
 3 Jolrael, Mwonvuli Recluse
 6 Swamp

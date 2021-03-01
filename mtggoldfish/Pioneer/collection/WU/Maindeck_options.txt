@@ -1,24 +1,24 @@
-1 Detention Sphere
+1 Geier Reach Sanitarium
 1 Commit/Memory
 4 Shark Typhoon
 1 Elspeth Conquers Death
 3 Teferi, Hero of Dominaria
 1 Syncopate
-1 Search for Azcanta
 1 Blessed Alliance
 1 Jace, Architect of Thought
+1 Search for Azcanta
 2 Syncopate
 3 Dig Through Time
 1 Sea Gate Restoration
+4 Supreme Verdict
 4 Censor
-3 Plains
 1 Temple of Enlightenment
 1 Last Breath
 2 Temple of Enlightenment
 2 Last Breath
-4 Supreme Verdict
 4 Teferi, Time Raveler
 1 Elixir of Immortality
+3 Plains
 1 Ondu Inversion
 4 Irrigated Farmland
 3 Fabled Passage
@@ -41,8 +41,8 @@
 2 Uro, Titan of Nature's Wrath
 2 Temple Garden
 3 Uro, Titan of Nature's Wrath
-3 Breeding Pool
 3 Growth Spiral
+3 Breeding Pool
 3 Omen of the Sea
 3 Temple Garden
 3 Hinterland Harbor
@@ -50,18 +50,17 @@
 4 Breeding Pool
 4 Temple Garden
 1 Emeria's Call
+1 Sinister Sabotage
 1 Skyclave Cleric
 2 Skyclave Cleric
-1 Sinister Sabotage
-1 Raugrin Triome
-3 Skyclave Cleric
-1 Neutralize
 1 Cast Out
+1 Raugrin Triome
+1 Neutralize
 4 Omen of the Sea
 2 Sphinx's Revelation
 1 Steam Vents
 1 Dream Trawler
-1 Whirlwind Denial
+3 Skyclave Cleric
 2 Neutralize
 1 Temple of Triumph
 1 Temple of Epiphany
@@ -69,31 +68,29 @@
 1 Aurelia's Fury
 2 Blessed Alliance
 1 Gideon of the Trials
+2 Sinister Sabotage
+2 Castle Vantress
+6 Island
 1 Soul-Guide Lantern
+1 Whirlwind Denial
+3 Castle Ardenvale
 1 Horribly Awry
 1 Void Shatter
 2 Void Shatter
 3 Dovin's Veto
-3 Castle Ardenvale
-3 Narset, Parter of Veils
-1 Jwari Disruption
-2 Whirlwind Denial
-2 Jwari Disruption
-3 Jwari Disruption
-4 Jwari Disruption
 1 Seal Away
-2 Seal Away
 1 Blast Zone
 3 Neutralize
 1 Omen of the Sun
 1 Tamiyo, Collector of Tales
-1 Day's Undoing
 2 Ondu Inversion
+2 Soul-Guide Lantern
 2 Search for Azcanta
 1 Hallowed Moonlight
 2 Hallowed Moonlight
-2 Sinister Sabotage
 2 Gideon of the Trials
+1 Day's Undoing
+3 Narset, Parter of Veils
 1 Anticognition
 1 Sphinx of the Final Word
 1 Brazen Borrower
@@ -101,10 +98,16 @@
 1 Fumigate
 2 Brazen Borrower
 2 Anticognition
+2 Seal Away
 2 Detention Sphere
 3 Anticognition
 4 Plains
+1 Jwari Disruption
+2 Jwari Disruption
+2 Whirlwind Denial
 2 Horribly Awry
+3 Jwari Disruption
+4 Jwari Disruption
 4 Castle Ardenvale
 1 Temple of Deceit
 1 Drowned Catacomb
@@ -116,12 +119,12 @@
 1 Swamp
 1 Prairie Stream
 1 Spell Queller
-2 Eliminate
 2 Temple of Deceit
 2 Elspeth Conquers Death
 2 Watery Grave
 2 Ashiok, Nightmare Muse
 2 Declaration in Stone
+2 Eliminate
 2 Fatal Push
 2 Prairie Stream
 2 Spell Queller
@@ -129,21 +132,15 @@
 3 Watery Grave
 4 Watery Grave
 4 Neutralize
-1 Teferi, Master of Time
-1 Elspeth, Sun's Champion
-1 Emergency Powers
-2 Emergency Powers
-4 Narset, Parter of Veils
-4 Skyclave Cleric
 1 Hieroglyphic Illumination
+1 Zenith Flare
 1 Sweltering Suns
 1 Sulfur Falls
-1 Zenith Flare
 2 Steam Vents
 2 Sulfur Falls
-2 Raugrin Triome
 2 Zenith Flare
 2 Hieroglyphic Illumination
+2 Raugrin Triome
 3 Steam Vents
 3 Sulfur Falls
 3 Hieroglyphic Illumination
@@ -154,6 +151,7 @@
 1 Tale's End
 3 Void Shatter
 4 Void Shatter
-2 Soul-Guide Lantern
-2 Castle Vantress
-6 Island
+2 Cast Out
+8 Island
+9 Island
+7 Island

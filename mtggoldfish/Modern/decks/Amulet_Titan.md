@@ -93,6 +93,6 @@
 |                    1|[Hanweir Battlements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414511)         |                     |                                                                                                        |
 |                    2|[Golgari Rot Farm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376353)            |                     |                                                                                                        |
 |                    2|[Crumbling Vestige](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407680)           |                     |                                                                                                        |
-|                    3|[Golgari Rot Farm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376353)            |                     |                                                                                                        |
 |                    3|[Gruul Turf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420917)                  |                     |                                                                                                        |
+|                    3|[Golgari Rot Farm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376353)            |                     |                                                                                                        |
 

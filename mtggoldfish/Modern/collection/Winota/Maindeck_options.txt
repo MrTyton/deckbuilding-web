@@ -1,6 +1,6 @@
 4 Thalia, Guardian of Thraben
-1 Maul of the Skyclaves
 1 Inspiring Vantage
+1 Maul of the Skyclaves
 2 Inspiring Vantage
 3 Inspiring Vantage
 4 Inspiring Vantage
@@ -17,12 +17,12 @@
 4 Battlefield Forge
 6 Plains
 1 Temple Garden
-1 Wooded Foothills
-1 Windswept Heath
 1 Stomping Ground
+1 Wooded Foothills
 1 Birds of Paradise
-2 Wooded Foothills
+1 Windswept Heath
 2 Windswept Heath
+2 Wooded Foothills
 2 Stomping Ground
 2 Birds of Paradise
 3 Birds of Paradise
@@ -79,8 +79,8 @@
 4 Llanowar Elves
 1 Embercleave
 2 Mountain
-1 Snow-Covered Plains
 1 Resolute Blademaster
+1 Snow-Covered Plains
 1 Rugged Prairie
 2 Rugged Prairie
 1 Horizon Canopy
@@ -96,6 +96,7 @@
 3 Godo, Bandit Warlord
 4 Godo, Bandit Warlord
 1 Noble Hierarch
+1 Reflecting Pool
 1 Unclaimed Territory
 1 Blade Splicer
 1 Alirios, Enraptured
@@ -103,7 +104,6 @@
 1 Kitesail Freebooter
 1 Island
 1 Thalia's Lieutenant
-1 Reflecting Pool
 1 Mantis Rider
 1 Hallowed Fountain
 1 Champion of the Parish
@@ -172,12 +172,12 @@
 4 Utopia Sprawl
 4 Forest
 5 Forest
-1 Brushfire Elemental
 1 Rampaging Ferocidon
+1 Brushfire Elemental
 1 Banisher Priest
 1 Gilded Goose
-2 Arid Mesa
 2 Gilded Goose
+2 Arid Mesa
 2 Brushfire Elemental
 3 Gilded Goose
 4 Voice of Resurgence

@@ -28,8 +28,8 @@
 2 Temple Garden
 2 Cosima, God of the Voyage
 1 Mystic Sanctuary
-2 Archmage's Charm
 2 Mystic Sanctuary
+2 Archmage's Charm
 4 Windswept Heath
 1 Utopia Sprawl
 2 Utopia Sprawl
@@ -48,9 +48,9 @@
 2 Collected Company
 3 Birds of Paradise
 3 Collected Company
-1 Deprive
 1 Oust
 1 Flooded Grove
+1 Deprive
 2 Oust
 3 Archmage's Charm
 2 Prismatic Vista
@@ -84,37 +84,22 @@
 1 Ghost Quarter
 1 Behold the Multiverse
 2 Behold the Multiverse
-1 Vendilion Clique
 1 Castle Ardenvale
+1 Vendilion Clique
 1 Maul of the Skyclaves
 1 Geist of Saint Traft
 1 Supreme Verdict
+3 Jace, the Mind Sculptor
 1 Celestial Colonnade
 2 Celestial Colonnade
 3 Remand
-3 Jace, the Mind Sculptor
 1 Giver of Runes
 2 Giver of Runes
 2 Niambi, Esteemed Speaker
 3 Giver of Runes
-1 Cavern of Souls
-1 Growth Spiral
-1 Blast Zone
-1 Castle Garenbrig
-2 Growth Spiral
-3 Growth Spiral
-3 Snow-Covered Plains
-4 Growth Spiral
-1 Shark Typhoon
-1 Arctic Treeline
-1 Polluted Delta
-2 Shark Typhoon
-3 Field of Ruin
-5 Snow-Covered Island
-6 Snow-Covered Island
 1 Voice of Resurgence
-1 Wooded Foothills
 1 Forest
+1 Wooded Foothills
 1 Felidar Retreat
 1 Eternal Witness
 1 Knight of the Reliquary
@@ -123,8 +108,8 @@
 1 Retreat to Coralhelm
 1 Azusa, Lost but Seeking
 2 Voice of Resurgence
-2 Wooded Foothills
 2 Forest
+2 Wooded Foothills
 2 Knight of the Reliquary
 2 Tireless Tracker
 2 Ghost Quarter
@@ -139,3 +124,18 @@
 4 Knight of the Reliquary
 4 Forest
 4 Ghost Quarter
+1 Cavern of Souls
+1 Blast Zone
+1 Growth Spiral
+1 Castle Garenbrig
+2 Growth Spiral
+3 Snow-Covered Plains
+3 Growth Spiral
+4 Growth Spiral
+1 Shark Typhoon
+1 Arctic Treeline
+1 Polluted Delta
+2 Shark Typhoon
+3 Field of Ruin
+5 Snow-Covered Island
+6 Snow-Covered Island
