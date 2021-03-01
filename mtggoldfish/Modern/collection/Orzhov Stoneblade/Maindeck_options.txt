@@ -10,20 +10,16 @@
 2 Cling to Dust
 3 Silent Clearing
 3 Path to Exile
+1 Brightclimb Pathway
+2 Brightclimb Pathway
 1 Nihil Spellbomb
 1 Bitterblossom
 2 Bitterblossom
-1 Brightclimb Pathway
-2 Brightclimb Pathway
-3 Field of Ruin
-2 Kaya's Guile
-1 Collective Brutality
 4 Lingering Souls
 3 Godless Shrine
+1 Collective Brutality
+3 Field of Ruin
 3 Bitterblossom
-1 Kaya, Orzhov Usurper
-1 Urborg, Tomb of Yawgmoth
-4 Dark Confidant
 1 Maul of the Skyclaves
 1 Ghost Quarter
 1 Giver of Runes
@@ -36,8 +32,8 @@
 2 Leonin Arbiter
 2 Flickerwisp
 2 Aether Vial
-2 Ghost Quarter
 2 Thalia, Guardian of Thraben
+2 Ghost Quarter
 3 Ghost Quarter
 3 Thalia, Guardian of Thraben
 3 Leonin Arbiter
@@ -58,6 +54,8 @@
 3 Thought-Knot Seer
 4 Thought-Knot Seer
 4 Eldrazi Temple
+2 Kaya's Guile
+1 Kaya, Orzhov Usurper
 1 Mutavault
 4 Path to Exile
 1 Eldrazi Displacer
@@ -65,47 +63,49 @@
 2 Reality Smasher
 1 Windswept Heath
 3 Plains
+1 Urborg, Tomb of Yawgmoth
+4 Dark Confidant
 2 Bloodchief's Thirst
 4 Field of Ruin
+3 Brightclimb Pathway
 3 Snow-Covered Plains
 4 Silent Clearing
 1 Tectonic Edge
 2 Tectonic Edge
 4 Thalia, Guardian of Thraben
+4 Godless Shrine
 4 Giver of Runes
-4 Snow-Covered Swamp
+4 Brightclimb Pathway
 2 Castle Locthwain
-3 Brightclimb Pathway
+4 Snow-Covered Swamp
 3 Flickerwisp
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
-4 Godless Shrine
 2 Nihil Spellbomb
-1 Wastes
-2 Eldrazi Displacer
-3 Eldrazi Displacer
 1 Feed the Swarm
 1 Liliana, the Last Hope
 1 Hero's Downfall
 1 Gideon of the Trials
 3 Kaya's Guile
+1 Wastes
+2 Eldrazi Displacer
+3 Eldrazi Displacer
 1 Gideon, Ally of Zendikar
 2 Gideon, Ally of Zendikar
 4 Plains
 4 Flickerwisp
-4 Brightclimb Pathway
 1 Flooded Strand
 1 Springleaf Drum
 1 Ornithopter
 1 Sigarda's Aid
 1 Inkmoth Nexus
-1 Steelshaper's Gift
-1 Kor Outfitter
-1 Colossus Hammer
 1 Shadowspear
+1 Steelshaper's Gift
+1 Colossus Hammer
+1 Kor Outfitter
 1 Puresteel Paladin
 1 Memnite
 1 Mishra's Bauble
@@ -120,6 +120,7 @@
 2 Puresteel Paladin
 2 Memnite
 2 Mishra's Bauble
+3 Springleaf Drum
 3 Inkmoth Nexus
 3 Steelshaper's Gift
 3 Colossus Hammer
@@ -129,10 +130,9 @@
 3 Puresteel Paladin
 3 Memnite
 3 Mishra's Bauble
-3 Springleaf Drum
 4 Inkmoth Nexus
-4 Steelshaper's Gift
 4 Colossus Hammer
+4 Steelshaper's Gift
 4 Sigarda's Aid
 4 Flooded Strand
 4 Ornithopter
@@ -141,6 +141,7 @@
 1 Sorin, Solemn Visitor
 4 Bitterblossom
 4 Swamp
+1 Ranger-Captain of Eos
 1 Speaker of the Heavens
 1 Orzhov Charm
 1 Serra Ascendant
@@ -151,9 +152,8 @@
 1 Day of Judgment
 1 Emeria, the Sky Ruin
 1 Martyr of Sands
-1 Ranger-Captain of Eos
-2 Sorin, Vengeful Bloodlord
 2 Ranger-Captain of Eos
+2 Sorin, Vengeful Bloodlord
 2 Serra Ascendant
 2 Orzhov Charm
 2 Ranger of Eos
@@ -161,8 +161,8 @@
 2 Emeria, the Sky Ruin
 2 Wrath of God
 3 Ranger of Eos
-3 Martyr of Sands
 3 Ranger-Captain of Eos
+3 Martyr of Sands
 3 Orzhov Charm
 4 Ranger of Eos
 4 Orzhov Charm

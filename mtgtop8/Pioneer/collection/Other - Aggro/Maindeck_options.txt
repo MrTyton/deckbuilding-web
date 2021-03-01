@@ -15,8 +15,8 @@
 1 Watery Grave
 2 Clearwater Pathway
 2 Thieves' Guild Enforcer
-2 Drown in the Loch
 2 Soaring Thought-Thief
+2 Drown in the Loch
 2 Watery Grave
 3 Thieves' Guild Enforcer
 3 Drown in the Loch
@@ -67,8 +67,8 @@
 1 Forest
 1 Woodland Cemetery
 1 Traverse the Ulvenwald
-1 Zetalpa, Primal Dawn
 1 Nullhide Ferox
+1 Zetalpa, Primal Dawn
 1 Soulflayer
 1 Grisly Salvage
 1 Stitcher's Supplier
@@ -184,15 +184,15 @@
 1 Claim / Fame
 1 Embodiment of Agonies
 2 Satyr Wayfinder
-2 Magmatic Channeler
 2 Claim / Fame
 2 Embodiment of Agonies
+2 Magmatic Channeler
 3 Satyr Wayfinder
-3 Magmatic Channeler
 3 Claim / Fame
-4 Magmatic Channeler
+3 Magmatic Channeler
 4 Satyr Wayfinder
 4 Claim / Fame
+4 Magmatic Channeler
 4 Woodland Cemetery
 2 Heartless Act
 1 Breeding Pool
@@ -230,19 +230,20 @@
 4 Cathartic Reunion
 1 Season of Growth
 1 Gladecover Scout
+1 Branchloft Pathway
 1 Temple Garden
 1 Sunpetal Grove
-1 Fortified Village
 1 Gryff's Boon
 1 Sentinel's Eyes
+1 Fortified Village
 1 All That Glitters
 1 Cartouche of Solidarity
-1 Branchloft Pathway
 1 Ethereal Armor
 1 Unflinching Courage
 1 Bassara Tower Archer
 1 Helm of the Gods
 1 Adanto Vanguard
+2 Branchloft Pathway
 2 Season of Growth
 2 Gladecover Scout
 2 Temple Garden
@@ -251,7 +252,6 @@
 2 All That Glitters
 2 Ethereal Armor
 2 Cartouche of Solidarity
-2 Branchloft Pathway
 2 Plains
 2 Forest
 2 Adanto Vanguard
@@ -260,11 +260,11 @@
 2 Unflinching Courage
 2 Sunpetal Grove
 3 Gladecover Scout
+3 Branchloft Pathway
 3 Sunpetal Grove
 3 Temple Garden
 3 Sentinel's Eyes
 3 Cartouche of Solidarity
-3 Branchloft Pathway
 3 All That Glitters
 3 Ethereal Armor
 3 Gryff's Boon
@@ -274,16 +274,16 @@
 3 Bassara Tower Archer
 4 Temple Garden
 4 Gladecover Scout
-4 Cartouche of Solidarity
-4 Sunpetal Grove
-4 All That Glitters
 4 Branchloft Pathway
+4 Cartouche of Solidarity
+4 All That Glitters
 4 Gryff's Boon
 4 Ethereal Armor
 4 Sentinel's Eyes
 4 Adanto Vanguard
 4 Unflinching Courage
 4 Forest
+4 Sunpetal Grove
 4 Bassara Tower Archer
 5 Forest
 1 Champion of Dusk

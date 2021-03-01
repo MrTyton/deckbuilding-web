@@ -7,10 +7,10 @@
 1 Abrade
 1 Shark Typhoon
 2 Shark Typhoon
-1 Cascade Bluffs
 1 Blast Zone
-2 Magmatic Sinkhole
+1 Cascade Bluffs
 2 Cascade Bluffs
+2 Magmatic Sinkhole
 3 Brazen Borrower
 4 Brazen Borrower
 2 Misty Rainforest
@@ -36,10 +36,10 @@
 4 Manamorphose
 4 Lava Dart
 4 Soul-Scar Mage
-1 Sunbaked Canyon
 1 Crash Through
-2 Sunbaked Canyon
+1 Sunbaked Canyon
 2 Crash Through
+2 Sunbaked Canyon
 3 Crash Through
 4 Crash Through
 2 Mountain
@@ -52,14 +52,14 @@
 1 Mutagenic Growth
 2 Mutagenic Growth
 3 Mutagenic Growth
-1 Arid Mesa
-1 Sacred Foundry
 1 Inspiring Vantage
+1 Sacred Foundry
 1 Abbot of Keral Keep
 1 Bloodstained Mire
 1 Myth Realized
 1 Wooded Foothills
 1 Boros Charm
+1 Arid Mesa
 2 Bloodstained Mire
 2 Wooded Foothills
 2 Inspiring Vantage
@@ -120,13 +120,13 @@
 1 Peek
 2 Peek
 2 Fiery Islet
-1 Narset, Parter of Veils
 1 Vendilion Clique
+1 Narset, Parter of Veils
 1 Flame Slash
 2 Narset, Parter of Veils
 3 Mystic Sanctuary
-1 Dispel
 1 Spell Pierce
+1 Dispel
 2 Spell Pierce
 3 Ancestral Vision
 1 Dreadhorde Arcanist
@@ -157,8 +157,8 @@
 2 Goldspan Dragon
 2 Silumgar's Scorn
 2 Mothdust Changeling
-3 Magda, Brazen Outlaw
 3 Mothdust Changeling
+3 Magda, Brazen Outlaw
 3 Goldspan Dragon
 3 Silumgar's Scorn
 3 Blood Moon
@@ -179,8 +179,8 @@
 2 Kiln Fiend
 3 Snow-Covered Mountain
 3 Kiln Fiend
-4 Sunbaked Canyon
 4 Snow-Covered Mountain
+4 Sunbaked Canyon
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
@@ -193,17 +193,17 @@
 14 Snow-Covered Mountain
 15 Snow-Covered Mountain
 1 Forgotten Cave
+1 Arclight Phoenix
 1 Thrill of Possibility
 1 Gut Shot
-1 Arclight Phoenix
 2 Forgotten Cave
-2 Thrill of Possibility
 2 Arclight Phoenix
+2 Thrill of Possibility
 2 Gut Shot
 3 Gut Shot
-3 Thrill of Possibility
 3 Arclight Phoenix
-4 Thrill of Possibility
+3 Thrill of Possibility
 4 Arclight Phoenix
-15 Mountain
+4 Thrill of Possibility
 16 Mountain
+15 Mountain

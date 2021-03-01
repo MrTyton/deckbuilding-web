@@ -1,9 +1,9 @@
 3 Verdant Catacombs
 1 Barrin, Tolarian Archmage
 4 Baleful Strix
+1 Island
 1 Swamp
 1 Forest
-1 Island
 2 Island
 4 Verdant Catacombs
 1 Parasitic Strix
@@ -21,8 +21,8 @@
 3 Polluted Delta
 1 Teferi, Time Raveler
 1 Arcum's Astrolabe
-1 Niambi, Esteemed Speaker
 1 Snow-Covered Plains
+1 Niambi, Esteemed Speaker
 2 Oko, Thief of Crowns
 2 Arcum's Astrolabe
 3 Arcum's Astrolabe
@@ -54,8 +54,8 @@
 5 Snow-Covered Island
 3 Oko, Thief of Crowns
 1 Swords to Plowshares
-2 Swords to Plowshares
 2 Teferi, Time Raveler
+2 Swords to Plowshares
 3 Swords to Plowshares
 1 Fatal Push
 2 Fatal Push
@@ -90,8 +90,6 @@
 2 In Search of Greatness
 2 Duress
 2 Birthing Pod
-1 Skyclave Apparition
-4 Swords to Plowshares
 1 Abundant Growth
 2 Abundant Growth
 3 Abundant Growth
@@ -105,11 +103,13 @@
 3 Windswept Heath
 4 Birds of Paradise
 4 Windswept Heath
+1 Skyclave Apparition
+4 Swords to Plowshares
 1 Pernicious Deed
 2 Leovold, Emissary of Trest
+1 Veil of Summer
 1 Jolrael, Mwonvuli Recluse
 1 Scavenging Ooze
-1 Veil of Summer
 2 Veil of Summer
 3 Gilded Goose
 4 Uro, Titan of Nature's Wrath
@@ -129,8 +129,8 @@
 2 Botanical Sanctum
 2 Watery Grave
 3 Fatal Push
-3 Marsh Flats
 3 Watcher for Tomorrow
+3 Marsh Flats
 3 Botanical Sanctum
 3 Darkslick Shores
 3 Living Wish
@@ -139,8 +139,8 @@
 4 Botanical Sanctum
 4 Darkslick Shores
 4 Fatal Push
-1 Thoughtseize
 1 Overwhelming Splendor
+1 Thoughtseize
 1 Evolutionary Leap
 1 Sandwurm Convergence
 1 Phyrexian Tower

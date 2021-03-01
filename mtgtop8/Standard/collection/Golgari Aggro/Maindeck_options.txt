@@ -4,16 +4,16 @@
 3 Forest
 3 Swamp
 4 Swamp
+1 Foulmire Knight
 1 Darkbore Pathway
 1 Edgewall Innkeeper
 1 Temple of Malady
 1 Lovestruck Beast
 1 Agadeem's Awakening
-1 Foulmire Knight
 1 Murderous Rider
+2 Foulmire Knight
 2 Lovestruck Beast
 2 Murderous Rider
-2 Foulmire Knight
 2 Temple of Malady
 2 Edgewall Innkeeper
 2 Darkbore Pathway
@@ -31,9 +31,9 @@
 1 Sculptor of Winter
 2 Sculptor of Winter
 3 Sculptor of Winter
+1 The Great Henge
 1 Elder Gargaroth
 1 Ram Through
-1 The Great Henge
 4 Forest
 5 Swamp
 1 Feed the Serpent
@@ -52,10 +52,10 @@
 1 Behold the Multiverse
 1 Feed the Swarm
 1 Poison the Cup
+1 Chainweb Aracnir
 1 Thrashing Brontodon
 1 Ugin, the Spirit Dragon
 1 Port of Karfell
-1 Chainweb Aracnir
 2 Behold the Multiverse
 2 Frantic Inventory
 2 Poison the Cup
@@ -71,9 +71,9 @@
 4 Frantic Inventory
 1 Thassa, Deep-Dwelling
 4 Acolyte of Affliction
-1 Toski, Bearer of Secrets
 1 Blightstep Pathway
 1 Valki, God of Lies
+1 Toski, Bearer of Secrets
 1 Scavenging Ooze
 1 Vorinclex, Monstrous Raider
 1 Heartless Act
@@ -82,9 +82,9 @@
 1 Cragcrown Pathway
 1 Order of Midnight
 2 Vivien, Monsters' Advocate
-2 Toski, Bearer of Secrets
 2 Blightstep Pathway
 2 Valki, God of Lies
+2 Toski, Bearer of Secrets
 2 Vorinclex, Monstrous Raider
 2 Order of Midnight
 2 Cragcrown Pathway
@@ -92,9 +92,9 @@
 2 Heartless Act
 2 Scavenging Ooze
 3 Blightstep Pathway
-3 Toski, Bearer of Secrets
 3 Heartless Act
 3 Valki, God of Lies
+3 Toski, Bearer of Secrets
 3 Cragcrown Pathway
 4 Heartless Act
 4 Blightstep Pathway
@@ -121,21 +121,21 @@
 4 Harald, King of Skemfar
 7 Snow-Covered Forest
 7 Snow-Covered Swamp
-8 Snow-Covered Forest
 8 Snow-Covered Swamp
+8 Snow-Covered Forest
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
-1 Fiend Artisan
-1 Oakhame Adversary
 1 Jungle Hollow
 1 Battle Mammoth
 1 Garruk's Uprising
 1 Wildwood Patrol
 1 Tajuru Blightblade
+1 Oakhame Adversary
 1 Keeper of Fables
 1 Gnottvold Recluse
-2 Oakhame Adversary
+1 Fiend Artisan
 2 Jungle Hollow
+2 Oakhame Adversary
 2 Keeper of Fables
 2 Ram Through
 2 Tajuru Blightblade
@@ -159,20 +159,20 @@
 14 Forest
 1 Jolrael, Mwonvuli Recluse
 1 Primal Might
+1 Kazandu Mammoth
+1 Chevill, Bane of Monsters
 1 Fabled Passage
 1 Rankle, Master of Pranks
-1 Kazandu Mammoth
 1 Bloodchief's Thirst
 1 Castle Locthwain
-1 Chevill, Bane of Monsters
 2 Jolrael, Mwonvuli Recluse
+2 The Great Henge
+2 Kazandu Mammoth
 2 Elder Gargaroth
+2 Chevill, Bane of Monsters
 2 Primal Might
 2 Rankle, Master of Pranks
-2 Kazandu Mammoth
-2 Chevill, Bane of Monsters
-2 The Great Henge
-3 Jolrael, Mwonvuli Recluse
 3 Kazandu Mammoth
+3 Jolrael, Mwonvuli Recluse
 6 Swamp
 7 Swamp

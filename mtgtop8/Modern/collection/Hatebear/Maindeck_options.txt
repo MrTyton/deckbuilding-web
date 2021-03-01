@@ -21,6 +21,7 @@
 1 Scavenging Ooze
 1 Noble Hierarch
 1 Temple Garden
+2 Eternal Witness
 2 Branchloft Pathway
 2 Temple Garden
 2 Razorverge Thicket
@@ -28,7 +29,6 @@
 2 Forest
 2 Scavenging Ooze
 2 Noble Hierarch
-2 Eternal Witness
 3 Branchloft Pathway
 3 Temple Garden
 3 Razorverge Thicket
@@ -36,8 +36,8 @@
 3 Horizon Canopy
 3 Noble Hierarch
 4 Temple Garden
-4 Branchloft Pathway
 4 Razorverge Thicket
+4 Branchloft Pathway
 4 Oath of Nissa
 4 Horizon Canopy
 4 Noble Hierarch
@@ -45,8 +45,8 @@
 1 Gavony Township
 2 Stirring Wildwood
 1 Charming Prince
-1 Seachrome Coast
 1 Glasspool Mimic
+1 Seachrome Coast
 1 Hengegate Pathway
 1 Alrund, God of the Cosmos
 1 Sword of Light and Shadow
@@ -66,9 +66,9 @@
 2 Hallowed Fountain
 2 Cavern of Souls
 2 Spell Queller
-3 Glasspool Mimic
 3 Seachrome Coast
 3 Hengegate Pathway
+3 Glasspool Mimic
 3 Alrund, God of the Cosmos
 3 Watcher for Tomorrow
 3 Charming Prince
