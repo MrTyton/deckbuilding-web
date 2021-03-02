@@ -1,7 +1,7 @@
 # U
 
 #### [Export MTGO List](../collection/U/U.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Cloudfin%20Raptor%0A4%09Curious%20Obsession%0A3%09Essence%20Capture%0A20%09Island%0A2%09Master%20of%20Waves%0A3%09Mystical%20Dispute%0A1%09Narset,%20Parter%20of%20Veils%0A4%09Opt%0A4%09Sea-Dasher%20Octopus%0A4%09Siren%20Stormtamer%0A4%09Spectral%20Sailor%0A2%09Spell%20Pierce%0A4%09Tempest%20Djinn%0A4%09Unsubstantiate&deckside=3%09Aether%20Gust%0A3%09Annul%0A2%09Ashiok,%20Dream%20Render%0A2%09Dive%20Down%0A3%09Entrancing%20Melody%0A2%09Negate)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Cloudfin%20Raptor%0A4%09Curious%20Obsession%0A3%09Essence%20Capture%0A20%09Island%0A2%09Master%20of%20Waves%0A3%09Mystical%20Dispute%0A1%09Narset,%20Parter%20of%20Veils%0A4%09Opt%0A4%09Sea-Dasher%20Octopus%0A4%09Siren%20Stormtamer%0A4%09Spectral%20Sailor%0A2%09Spell%20Pierce%0A4%09Tempest%20Djinn%0A4%09Unsubstantiate&deckside=3%09Aether%20Gust%0A3%09Annul%0A2%09Ashiok,%20Dream%20Render%0A1%09Dive%20Down%0A3%09Entrancing%20Melody%0A3%09Negate)
 # Maindeck
 
 |                                         Creature (19)                                         |                                       Enchantment (4)                                        |                                        Instant (16)                                         |                                     Land (20)                                      |                                          Planeswalker (1)                                          |
@@ -20,14 +20,14 @@
 |----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 |3 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)|2 [Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|3 [Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)|
 |3 [Annul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45976)       |                                                                                                 |                                                                                              |
-|2 [Dive Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435205)  |                                                                                                 |                                                                                              |
-|2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)     |                                                                                                 |                                                                                              |
+|1 [Dive Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435205)  |                                                                                                 |                                                                                              |
+|3 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)     |                                                                                                 |                                                                                              |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                 Sideboard Card                                  |
-|--------------------:|------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------|
-|                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)   |                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)|
-|                    2|[Cloudfin Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460767)|                     |                                                                                 |
+|*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                   Sideboard Card                                   |
+|--------------------:|------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------|
+|                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)   |                    2|[Dive Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435205)|
+|                    2|[Cloudfin Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460767)|                     |                                                                                    |
 

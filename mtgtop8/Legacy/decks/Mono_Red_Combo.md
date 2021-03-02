@@ -30,8 +30,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    4|[Sneak Attack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413690)           |                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866) |
-|                    4|[Karn, the Great Creator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460928)|                    1|[Volcanic Fallout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220512)|
+|                    4|[Karn, the Great Creator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460928)|                    1|[Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866) |
+|                    4|[Sneak Attack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413690)           |                    1|[Volcanic Fallout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220512)|
 |                    9|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)               |                    1|[Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)      |
 |                   10|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)               |                    2|[Volcanic Fallout](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220512)|
 

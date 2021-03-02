@@ -43,8 +43,8 @@
 2 Deceiver Exarch
 3 Deceiver Exarch
 4 Deceiver Exarch
-1 Tropical Island
 1 Snow-Covered Forest
+1 Tropical Island
 1 Waterlogged Grove
 2 Tropical Island
 1 Thoughtseize
@@ -138,12 +138,12 @@
 1 Arcum's Astrolabe
 1 Force of Negation
 1 Snow-Covered Mountain
-2 Swords to Plowshares
-2 Mystic Sanctuary
 2 Snapcaster Mage
+2 Mystic Sanctuary
 2 Snow-Covered Mountain
 2 Pestermite
 2 Arcum's Astrolabe
+2 Swords to Plowshares
 3 Swords to Plowshares
 3 Splinter Twin
 3 Arcum's Astrolabe
@@ -190,9 +190,21 @@
 4 Chancellor of the Tangle
 4 Waterlogged Grove
 4 Allosaurus Shepherd
+1 Intuition
+1 Impulse
+2 Impulse
+2 Tundra
+2 Narset, Parter of Veils
+3 Impulse
+3 Tundra
+3 Shelldock Isle
+4 Impulse
+5 Island
+6 Island
+7 Island
+1 Jace, the Mind Sculptor
 1 Dack Fayden
 1 Mountain
-1 Jace, the Mind Sculptor
 1 Fiery Islet
 1 Vendilion Clique
 1 Chandra, Torch of Defiance
@@ -201,8 +213,8 @@
 1 Ash Barrens
 1 Hullbreacher
 1 Izzet Charm
-2 Chandra, Torch of Defiance
 2 Jace, the Mind Sculptor
+2 Chandra, Torch of Defiance
 2 Blood Moon
 2 Day's Undoing
 2 Hullbreacher
@@ -217,15 +229,3 @@
 4 Day's Undoing
 4 Ancient Tomb
 4 Izzet Charm
-1 Intuition
-1 Impulse
-2 Impulse
-2 Narset, Parter of Veils
-2 Tundra
-3 Impulse
-3 Tundra
-3 Shelldock Isle
-4 Impulse
-5 Island
-7 Island
-6 Island

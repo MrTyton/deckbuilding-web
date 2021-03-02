@@ -19,8 +19,8 @@
 2 Drown in the Loch
 2 Watery Grave
 3 Soaring Thought-Thief
-3 Drown in the Loch
 3 Thieves' Guild Enforcer
+3 Drown in the Loch
 3 Clearwater Pathway
 3 Watery Grave
 4 Soaring Thought-Thief
@@ -61,40 +61,11 @@
 3 Nighthawk Scavenger
 4 Glint-Sleeve Siphoner
 1 Heartless Act
-2 Blood Crypt
 2 Agadeem's Awakening
-3 Blood Crypt
+2 Blood Crypt
 2 Stomping Ground
 3 Stomping Ground
-1 Forest
-1 Woodland Cemetery
-1 Traverse the Ulvenwald
-1 Nullhide Ferox
-1 Zetalpa, Primal Dawn
-1 Soulflayer
-1 Grisly Salvage
-1 Stitcher's Supplier
-1 Samut, Voice of Dissent
-1 Grapple with the Past
-1 Mountain
-2 Woodland Cemetery
-2 Grisly Salvage
-2 Traverse the Ulvenwald
-2 Zetalpa, Primal Dawn
-2 Nullhide Ferox
-2 Samut, Voice of Dissent
-2 Stitcher's Supplier
-2 Grapple with the Past
-2 Soulflayer
-3 Traverse the Ulvenwald
-3 Zetalpa, Primal Dawn
-3 Grisly Salvage
-3 Stitcher's Supplier
-3 Soulflayer
-4 Stitcher's Supplier
-4 Grisly Salvage
-4 Zetalpa, Primal Dawn
-4 Soulflayer
+3 Blood Crypt
 1 Judith, the Scourge Diva
 1 Llanowar Wastes
 2 Judith, the Scourge Diva
@@ -125,8 +96,8 @@
 1 Bloodsoaked Champion
 1 Colossus Hammer
 1 Blood-Chin Rager
-2 Mardu Woe-Reaper
 2 Open the Armory
+2 Mardu Woe-Reaper
 2 Gods Willing
 2 Concealed Courtyard
 2 Sigarda's Aid
@@ -160,23 +131,6 @@
 4 Resolute Strike
 4 Dragon Hunter
 4 Kor Blademaster
-1 Murderous Rider
-2 Murderous Rider
-3 Murderous Rider
-1 Mana Confluence
-1 Gather the Pack
-1 Lotleth Troll
-1 Cathartic Reunion
-2 Mana Confluence
-2 Cathartic Reunion
-2 Gather the Pack
-3 Cathartic Reunion
-3 Gather the Pack
-3 Samut, Voice of Dissent
-3 Nullhide Ferox
-4 Blood Crypt
-4 Murderous Rider
-4 Samut, Voice of Dissent
 2 Heartless Act
 1 Breeding Pool
 1 Merfolk Windrobber
@@ -190,8 +144,40 @@
 3 Botanical Sanctum
 4 Deathrite Shaman
 4 Botanical Sanctum
+1 Forest
 1 Magmatic Channeler
+1 Woodland Cemetery
+1 Traverse the Ulvenwald
+1 Zetalpa, Primal Dawn
+1 Soulflayer
+1 Grisly Salvage
+1 Stitcher's Supplier
+1 Samut, Voice of Dissent
+1 Grapple with the Past
+1 Mountain
+1 Nullhide Ferox
+2 Woodland Cemetery
+2 Grisly Salvage
+2 Traverse the Ulvenwald
+2 Zetalpa, Primal Dawn
+2 Nullhide Ferox
+2 Samut, Voice of Dissent
+2 Stitcher's Supplier
+2 Grapple with the Past
+2 Soulflayer
+3 Traverse the Ulvenwald
+3 Zetalpa, Primal Dawn
+3 Grisly Salvage
+3 Stitcher's Supplier
+3 Soulflayer
 3 Woodland Cemetery
+4 Stitcher's Supplier
+4 Grisly Salvage
+4 Zetalpa, Primal Dawn
+4 Soulflayer
+1 Murderous Rider
+2 Murderous Rider
+3 Murderous Rider
 1 Liliana, the Last Hope
 2 Anticognition
 1 Thassa's Intervention
@@ -200,6 +186,12 @@
 1 Zareth San, the Trickster
 1 Notion Thief
 2 Notion Thief
+1 Witch's Oven
+1 Cauldron Familiar
+2 Witch's Oven
+2 Cauldron Familiar
+3 Witch's Oven
+3 Cauldron Familiar
 1 Of One Mind
 1 Zagoth Triome
 2 Of One Mind
@@ -225,8 +217,20 @@
 4 Claim / Fame
 4 Magmatic Channeler
 4 Woodland Cemetery
-3 Grapple with the Past
-4 Cathartic Reunion
+1 Mana Confluence
+1 Gather the Pack
+1 Lotleth Troll
+1 Cathartic Reunion
+2 Mana Confluence
+2 Cathartic Reunion
+2 Gather the Pack
+3 Cathartic Reunion
+3 Gather the Pack
+3 Samut, Voice of Dissent
+3 Nullhide Ferox
+4 Murderous Rider
+4 Blood Crypt
+4 Samut, Voice of Dissent
 2 Forest
 3 Forest
 4 Forest
@@ -289,10 +293,10 @@
 1 Champion of Dusk
 1 Sorin, Imperious Bloodlord
 1 Dusk Legion Zealot
-1 Blood Baron of Vizkopa
 1 Bloodchief's Thirst
 1 Knight of the Ebon Legion
 1 Isolated Chapel
+1 Blood Baron of Vizkopa
 1 Kalitas, Traitor of Ghet
 2 Blood Baron of Vizkopa
 2 Sorin, Imperious Bloodlord
@@ -320,9 +324,9 @@
 1 Questing Beast
 1 Nykthos, Shrine to Nyx
 1 Nissa, Who Shakes the World
-1 Barkchannel Pathway
 1 Garruk's Uprising
 1 Voracious Hydra
+1 Barkchannel Pathway
 1 Vivien, Arkbow Ranger
 1 Steel Leaf Champion
 1 Hinterland Harbor
@@ -334,11 +338,11 @@
 1 Rhonas the Indomitable
 2 Questing Beast
 2 Rhonas the Indomitable
-2 Barkchannel Pathway
 2 Vivien, Arkbow Ranger
 2 Voracious Hydra
-2 Steel Leaf Champion
+2 Barkchannel Pathway
 2 Breeding Pool
+2 Steel Leaf Champion
 2 Hinterland Harbor
 2 Hydroid Krasis
 2 Castle Garenbrig

@@ -6,8 +6,8 @@
 1 Rootbound Crag
 2 Rootbound Crag
 1 Gilded Goose
-1 Oath of Nissa
 1 Yasova Dragonclaw
+1 Oath of Nissa
 1 Goldspan Dragon
 2 Goldspan Dragon
 3 Goldspan Dragon
@@ -19,13 +19,13 @@
 2 Chandra, Torch of Defiance
 2 Scavenging Ooze
 1 Garruk's Harbinger
+1 Possibility Storm
 1 Enter the Infinite
 1 Shared Summons
 1 Borborygmos Enraged
 1 Stonecoil Serpent
 1 Captain Lannery Storm
 1 Goblin Rabblemaster
-1 Possibility Storm
 2 Possibility Storm
 2 Goblin Rabblemaster
 3 Possibility Storm
@@ -36,44 +36,44 @@
 1 Realmwalker
 2 Realmwalker
 3 Realmwalker
-1 Snow-Covered Swamp
 1 Snow-Covered Forest
-1 Snow-Covered Mountain
+1 Snow-Covered Swamp
 1 Snow-Covered Island
-1 Unclaimed Territory
+1 Snow-Covered Mountain
 1 Overgrown Tomb
+1 Unclaimed Territory
 1 Diffusion Sliver
 1 Leeching Sliver
-1 Collected Company
 1 Syphon Sliver
 1 Galerider Sliver
 1 Belligerent Sliver
 1 Sliver Hivelord
 1 Predatory Sliver
 1 Sliver Hive
+1 Collected Company
 1 Striking Sliver
 1 Blur Sliver
 1 Venom Sliver
 1 Manaweft Sliver
-2 Unclaimed Territory
 2 Overgrown Tomb
 2 Syphon Sliver
+2 Unclaimed Territory
 2 Diffusion Sliver
 2 Leeching Sliver
-2 Collected Company
 2 Sliver Hive
 2 Venom Sliver
 2 Predatory Sliver
 2 Blur Sliver
 2 Striking Sliver
 2 Galerider Sliver
+2 Collected Company
 2 Manaweft Sliver
 2 Belligerent Sliver
-3 Leeching Sliver
 3 Unclaimed Territory
-3 Collected Company
+3 Leeching Sliver
 3 Striking Sliver
 3 Sliver Hive
+3 Collected Company
 3 Manaweft Sliver
 3 Galerider Sliver
 3 Predatory Sliver
@@ -122,18 +122,18 @@
 1 Crystalline Giant
 1 Fire Giant's Fury
 1 Calamity Bearer
+2 Quakebringer
 2 Mutavault
 2 Crystalline Giant
 2 Tectonic Giant
 2 Fire Giant's Fury
-2 Quakebringer
 2 Calamity Bearer
-3 Calamity Bearer
-3 Tectonic Giant
-3 Wild Slash
 3 Quakebringer
-4 Realmwalker
+3 Tectonic Giant
+3 Calamity Bearer
+3 Wild Slash
 4 Calamity Bearer
+4 Realmwalker
 4 Wild Slash
 1 Kazandu Mammoth
 4 Goblin Rabblemaster
@@ -143,10 +143,10 @@
 1 Marauding Raptor
 1 Reckless Rage
 1 Regisaur Alpha
+2 Ghalta, Primal Hunger
 2 Ripjaw Raptor
 2 Regisaur Alpha
 2 Reckless Rage
-2 Ghalta, Primal Hunger
 2 Marauding Raptor
 2 Commune with Dinosaurs
 3 Regisaur Alpha
@@ -160,11 +160,58 @@
 4 Ripjaw Raptor
 4 Marauding Raptor
 9 Forest
+1 Breeding Pool
+1 Uro, Titan of Nature's Wrath
+1 Satyr Wayfinder
+1 World Breaker
+1 Shrine of the Forsaken Gods
+1 Arboreal Grazer
+1 Ulamog, the Ceaseless Hunger
+1 Drownyard Temple
+1 Fabled Passage
+1 Oblivion Sower
+1 Castle Garenbrig
+1 Yavimaya Coast
+1 Island
+1 Cavalier of Thorns
+2 Ulamog, the Ceaseless Hunger
+2 Breeding Pool
+2 Uro, Titan of Nature's Wrath
+2 World Breaker
+2 Oblivion Sower
+2 Satyr Wayfinder
+2 Arboreal Grazer
+2 Castle Garenbrig
+2 Island
+2 Drownyard Temple
+2 Cavalier of Thorns
+2 Fabled Passage
+2 Yavimaya Coast
+3 Uro, Titan of Nature's Wrath
+3 Breeding Pool
+3 Satyr Wayfinder
+3 Cavalier of Thorns
+3 Arboreal Grazer
+3 Ulamog, the Ceaseless Hunger
+3 World Breaker
+3 Fabled Passage
+3 Oblivion Sower
+3 Castle Garenbrig
+3 Drownyard Temple
+3 Yavimaya Coast
+4 Breeding Pool
+4 Uro, Titan of Nature's Wrath
+4 Satyr Wayfinder
+4 Arboreal Grazer
+4 Cavalier of Thorns
+4 Yavimaya Coast
+4 Fabled Passage
+4 Oblivion Sower
 1 Charming Prince
 1 Paradise Druid
+1 Void Winnower
 1 Worldspine Wurm
 1 Dragonlord Dromoka
-1 Void Winnower
 1 Fortified Village
 1 See the Unwritten
 1 Trostani Discordant
@@ -203,50 +250,3 @@
 4 Worldspine Wurm
 5 Plains
 10 Forest
-1 Breeding Pool
-1 Uro, Titan of Nature's Wrath
-1 Oblivion Sower
-1 Satyr Wayfinder
-1 Yavimaya Coast
-1 Castle Garenbrig
-1 Ulamog, the Ceaseless Hunger
-1 World Breaker
-1 Shrine of the Forsaken Gods
-1 Arboreal Grazer
-1 Drownyard Temple
-1 Fabled Passage
-1 Island
-1 Cavalier of Thorns
-2 Ulamog, the Ceaseless Hunger
-2 Breeding Pool
-2 Uro, Titan of Nature's Wrath
-2 World Breaker
-2 Oblivion Sower
-2 Satyr Wayfinder
-2 Castle Garenbrig
-2 Yavimaya Coast
-2 Arboreal Grazer
-2 Island
-2 Drownyard Temple
-2 Cavalier of Thorns
-2 Fabled Passage
-3 Uro, Titan of Nature's Wrath
-3 Breeding Pool
-3 Castle Garenbrig
-3 Satyr Wayfinder
-3 Cavalier of Thorns
-3 Arboreal Grazer
-3 Ulamog, the Ceaseless Hunger
-3 World Breaker
-3 Fabled Passage
-3 Oblivion Sower
-3 Drownyard Temple
-3 Yavimaya Coast
-4 Breeding Pool
-4 Uro, Titan of Nature's Wrath
-4 Satyr Wayfinder
-4 Arboreal Grazer
-4 Cavalier of Thorns
-4 Yavimaya Coast
-4 Fabled Passage
-4 Oblivion Sower

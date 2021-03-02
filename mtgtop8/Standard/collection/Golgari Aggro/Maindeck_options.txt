@@ -32,32 +32,30 @@
 2 Sculptor of Winter
 3 Sculptor of Winter
 1 The Great Henge
-1 Elder Gargaroth
 1 Ram Through
+1 Elder Gargaroth
 4 Forest
 5 Swamp
 1 Feed the Serpent
 1 Sarulf's Packmate
-2 Sarulf's Packmate
 2 Feed the Serpent
-1 Greater Sandwurm
+2 Sarulf's Packmate
 1 Harald, King of Skemfar
+1 Greater Sandwurm
 2 Harald, King of Skemfar
 1 Brokkos, Apex of Forever
 2 Cling to Dust
 4 Ice Tunnel
-1 Thassa, Deep-Dwelling
-4 Acolyte of Affliction
-1 Sarulf, Realm Eater
 1 Ashiok, Nightmare Muse
+1 Sarulf, Realm Eater
 1 Behold the Multiverse
 1 Frantic Inventory
 1 Feed the Swarm
 1 Poison the Cup
 1 Thrashing Brontodon
+1 Chainweb Aracnir
 1 Ugin, the Spirit Dragon
 1 Port of Karfell
-1 Chainweb Aracnir
 2 Behold the Multiverse
 2 Frantic Inventory
 2 Poison the Cup
@@ -71,81 +69,83 @@
 3 Frantic Inventory
 3 Chainweb Aracnir
 4 Frantic Inventory
+1 Thassa, Deep-Dwelling
+4 Acolyte of Affliction
 1 Blightstep Pathway
 1 Valki, God of Lies
-1 Toski, Bearer of Secrets
 1 Scavenging Ooze
+1 Toski, Bearer of Secrets
 1 Vorinclex, Monstrous Raider
 1 Heartless Act
 1 Vivien, Monsters' Advocate
 1 Zagoth Triome
 1 Cragcrown Pathway
 1 Order of Midnight
-2 Scavenging Ooze
 2 Vivien, Monsters' Advocate
 2 Blightstep Pathway
 2 Valki, God of Lies
 2 Toski, Bearer of Secrets
+2 Scavenging Ooze
 2 Vorinclex, Monstrous Raider
 2 Order of Midnight
 2 Cragcrown Pathway
 2 Agadeem's Awakening
 2 Heartless Act
 3 Blightstep Pathway
+3 Toski, Bearer of Secrets
 3 Heartless Act
 3 Valki, God of Lies
-3 Toski, Bearer of Secrets
 3 Cragcrown Pathway
-4 Blightstep Pathway
 4 Heartless Act
+4 Blightstep Pathway
 4 Murderous Rider
 4 Cragcrown Pathway
 1 Realmwalker
-1 Thornmantle Striker
-1 Joraga Visionary
+1 Grasp of Darkness
 1 Wolfwillow Haven
 1 Skemfar Avenger
-1 Grasp of Darkness
 1 Return Upon the Tide
 1 Harald Unites the Elves
 1 Boreal Outrider
-2 Joraga Visionary
-2 Wolfwillow Haven
+1 Thornmantle Striker
+1 Joraga Visionary
 2 Grasp of Darkness
+2 Wolfwillow Haven
 2 Boreal Outrider
-3 Grasp of Darkness
+2 Joraga Visionary
 3 Wolfwillow Haven
 3 Harald, King of Skemfar
+3 Grasp of Darkness
 3 Boreal Outrider
 4 Sculptor of Winter
 4 Harald, King of Skemfar
 7 Snow-Covered Forest
 7 Snow-Covered Swamp
-8 Snow-Covered Swamp
 8 Snow-Covered Forest
+8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
 1 Garruk's Uprising
 1 Jungle Hollow
-1 Tajuru Blightblade
-1 Fiend Artisan
-1 Gnottvold Recluse
-1 Keeper of Fables
-1 Wildwood Patrol
 1 Battle Mammoth
+1 Wildwood Patrol
+1 Tajuru Blightblade
 1 Oakhame Adversary
+1 Keeper of Fables
+1 Gnottvold Recluse
+1 Fiend Artisan
 2 Jungle Hollow
-2 Greater Sandwurm
-2 Keeper of Fables
-2 Tajuru Blightblade
 2 Oakhame Adversary
+2 Keeper of Fables
 2 Ram Through
+2 Tajuru Blightblade
+2 Greater Sandwurm
 3 Oakhame Adversary
-3 Tajuru Blightblade
 3 Keeper of Fables
+3 Tajuru Blightblade
 3 Sarulf's Packmate
-4 Binding the Old Gods
 4 Tajuru Blightblade
+4 Binding the Old Gods
 4 Keeper of Fables
 5 Forest
 6 Forest
@@ -160,18 +160,18 @@
 1 Kazandu Mammoth
 1 Jolrael, Mwonvuli Recluse
 1 Primal Might
+1 Chevill, Bane of Monsters
 1 Fabled Passage
 1 Rankle, Master of Pranks
 1 Bloodchief's Thirst
 1 Castle Locthwain
-1 Chevill, Bane of Monsters
 2 The Great Henge
 2 Kazandu Mammoth
-2 Jolrael, Mwonvuli Recluse
 2 Elder Gargaroth
+2 Jolrael, Mwonvuli Recluse
+2 Chevill, Bane of Monsters
 2 Primal Might
 2 Rankle, Master of Pranks
-2 Chevill, Bane of Monsters
 3 Kazandu Mammoth
 3 Jolrael, Mwonvuli Recluse
 6 Swamp

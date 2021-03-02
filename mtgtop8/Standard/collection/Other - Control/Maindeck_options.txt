@@ -107,8 +107,8 @@
 1 Solemn Simulacrum
 2 Solemn Simulacrum
 1 Gilded Goose
-2 Gilded Goose
 2 Temple of Plenty
+2 Gilded Goose
 3 Gilded Goose
 4 Gilded Goose
 1 Banishing Light
@@ -134,17 +134,6 @@
 3 Valki, God of Lies
 1 Tergrid, God of Fright
 3 Lukka, Coppercoat Outcast
-1 Burning-Rune Demon
-1 Charming Prince
-1 Esika's Chariot
-1 Ketria Triome
-1 Firja's Retribution
-1 Tangled Florahedron
-1 Kaya the Inexorable
-2 Firja's Retribution
-2 Tangled Florahedron
-3 Tangled Florahedron
-4 Tangled Florahedron
 1 Lithoform Blight
 2 Lithoform Blight
 3 Archon of Sun's Grace
@@ -155,8 +144,8 @@
 4 Heartless Act
 4 Lithoform Blight
 4 Extinction Event
-2 Doomskar
 2 Tergrid, God of Fright
+2 Doomskar
 3 Tergrid, God of Fright
 4 Tergrid, God of Fright
 1 Calix, Destiny's Hand
@@ -175,6 +164,17 @@
 4 Setessan Champion
 4 Runeforge Champion
 4 In Search of Greatness
+1 Charming Prince
+1 Esika's Chariot
+1 Burning-Rune Demon
+1 Ketria Triome
+1 Firja's Retribution
+1 Tangled Florahedron
+1 Kaya the Inexorable
+2 Firja's Retribution
+2 Tangled Florahedron
+3 Tangled Florahedron
+4 Tangled Florahedron
 1 Shatter the Sky
 2 Shatter the Sky
 2 Banishing Light
@@ -183,13 +183,13 @@
 4 Temple of Silence
 4 Banishing Light
 4 Eerie Ultimatum
-1 Wicked Wolf
 1 Trail of Crumbs
-2 Wicked Wolf
+1 Wicked Wolf
 2 Trail of Crumbs
-3 Wicked Wolf
+2 Wicked Wolf
 3 Trail of Crumbs
 3 Emeria's Call
+3 Wicked Wolf
 4 Wicked Wolf
 4 Emeria's Call
 4 Trail of Crumbs
@@ -197,8 +197,8 @@
 6 Forest
 1 Lotus Cobra
 1 Chevill, Bane of Monsters
-1 Wolfwillow Haven
 1 Skull Prophet
+1 Wolfwillow Haven
 1 Mire Triton
 2 Lotus Cobra
 2 Yasharn, Implacable Earth
@@ -217,13 +217,13 @@
 2 Snow-Covered Forest
 3 Snow-Covered Swamp
 3 Snow-Covered Forest
+1 Omen of the Hunt
 1 Evolving Wilds
 1 Sculptor of Winter
-1 Omen of the Hunt
 1 Snow-Covered Plains
 1 Shimmerdrift Vale
-1 Grasp of Darkness
 1 Great Hall of Starnheim
+1 Grasp of Darkness
 1 Skull Raid
 1 Arctic Treeline
 1 Sarulf's Packmate
@@ -234,9 +234,9 @@
 1 Kogla, the Titan Ape
 1 Snowfield Sinkhole
 1 Elderfang Disciple
+2 Omen of the Hunt
 2 Evolving Wilds
 2 Sculptor of Winter
-2 Omen of the Hunt
 2 Shimmerdrift Vale
 2 Grasp of Darkness
 2 Skull Raid
@@ -248,23 +248,23 @@
 2 Arctic Treeline
 2 Snowfield Sinkhole
 2 Woodland Chasm
+3 Omen of the Hunt
 3 Evolving Wilds
 3 Sculptor of Winter
-3 Omen of the Hunt
 3 Shimmerdrift Vale
-3 Skull Raid
 3 Sarulf's Packmate
+3 Skull Raid
 3 Woodland Chasm
 3 Elderfang Disciple
 3 Rampage of the Valkyries
+4 Omen of the Hunt
 4 Evolving Wilds
 4 Sculptor of Winter
-4 Skull Raid
-4 Omen of the Hunt
 4 Sarulf's Packmate
 4 Elderfang Disciple
 4 Snow-Covered Swamp
 4 Snow-Covered Forest
+4 Skull Raid
 4 Woodland Chasm
 4 Shimmerdrift Vale
 4 Rampage of the Valkyries
@@ -283,35 +283,35 @@
 1 Scavenging Ooze
 2 Bala Ged Recovery
 2 Elder Gargaroth
-2 Polukranos, Unchained
 2 Agonizing Remorse
+2 Polukranos, Unchained
 2 Scavenging Ooze
 3 Scavenging Ooze
 3 Elder Gargaroth
 3 Agonizing Remorse
 1 Temple of Abandon
+1 Dream Devourer
 1 Liliana, Waker of the Dead
 1 Cragcrown Pathway
 1 Blightstep Pathway
-1 Dream Devourer
 1 Vorinclex, Monstrous Raider
 1 Zagoth Triome
 1 Snow-Covered Mountain
+2 Liliana, Waker of the Dead
+2 Dream Devourer
 2 Vorinclex, Monstrous Raider
 2 Cragcrown Pathway
 2 Blightstep Pathway
-2 Liliana, Waker of the Dead
 2 Snow-Covered Mountain
-2 Dream Devourer
-3 Blightstep Pathway
 3 Vorinclex, Monstrous Raider
 3 Dream Devourer
+3 Blightstep Pathway
 4 Vorinclex, Monstrous Raider
+4 Cultivate
 4 Lukka, Coppercoat Outcast
+4 Dream Devourer
 4 Valki, God of Lies
 4 Blightstep Pathway
-4 Cultivate
-4 Dream Devourer
 1 Storm's Wrath
 1 Bonecrusher Giant
 1 Ox of Agonas

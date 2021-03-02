@@ -123,16 +123,16 @@
 1 True-Name Nemesis
 2 True-Name Nemesis
 1 Noble Hierarch
-1 Green Sun's Zenith
-1 Dryad Arbor
 1 Ice-Fang Coatl
 1 Opposition Agent
+1 Dryad Arbor
 1 Collected Company
+1 Green Sun's Zenith
 2 Noble Hierarch
-2 Green Sun's Zenith
 2 Snow-Covered Forest
 2 Ice-Fang Coatl
 2 Opposition Agent
+2 Green Sun's Zenith
 2 Collected Company
 3 Noble Hierarch
 3 Green Sun's Zenith
@@ -141,9 +141,9 @@
 3 Opposition Agent
 3 Collected Company
 4 Opposition Agent
-4 Noble Hierarch
 4 Ice-Fang Coatl
 4 Green Sun's Zenith
+4 Noble Hierarch
 4 Hullbreacher
 4 Collected Company
 1 Spell Snare
@@ -157,22 +157,22 @@
 2 Spell Pierce
 1 Pyroblast
 2 Cling to Dust
-1 Punishing Fire
 1 Grove of the Burnwillows
-2 Punishing Fire
+1 Punishing Fire
 2 Grove of the Burnwillows
+2 Punishing Fire
 3 Grove of the Burnwillows
 3 Assassin's Trophy
 1 Steam Vents
 2 Steam Vents
 3 Lightning Bolt
 1 Shark Typhoon
-1 Mystic Sanctuary
 1 Creeping Tar Pit
-1 Unearth
-1 Cephalid Coliseum
+1 Mystic Sanctuary
 1 Tyrant's Scorn
 1 Overgrown Tomb
+1 Cephalid Coliseum
+1 Unearth
 1 Flusterstorm
 1 Edric, Spymaster of Trest
 2 Intuition
@@ -186,33 +186,33 @@
 1 Jolrael, Mwonvuli Recluse
 2 Jolrael, Mwonvuli Recluse
 1 Zagoth Triome
-1 Cavern of Souls
 1 Primeval Titan
+1 Cavern of Souls
 2 Primeval Titan
 2 Field of the Dead
 1 Diabolic Edict
 2 Diabolic Edict
-1 Dreadbore
-3 Punishing Fire
 1 Dack Fayden
 2 Dack Fayden
 3 Dack Fayden
-1 Pithing Needle
-3 Oko, Thief of Crowns
-3 Plague Engineer
-3 Kolaghan's Command
 1 Dreadhorde Arcanist
 2 Dreadhorde Arcanist
 3 Dreadhorde Arcanist
 3 Preordain
+3 Kolaghan's Command
+1 Dreadbore
+3 Punishing Fire
+1 Pithing Needle
+3 Plague Engineer
+3 Oko, Thief of Crowns
+4 Flooded Strand
 1 Waterlogged Grove
 4 Uro, Titan of Nature's Wrath
+3 Inquisition of Kozilek
+4 Inquisition of Kozilek
+4 Snapcaster Mage
 1 Sprite Dragon
 2 Sprite Dragon
 3 Sprite Dragon
 4 Sprite Dragon
 4 Lightning Bolt
-3 Inquisition of Kozilek
-4 Inquisition of Kozilek
-4 Snapcaster Mage
-4 Flooded Strand

@@ -31,3 +31,24 @@
 |2 [Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800)          |                                                                                        |
 |1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)        |                                                                                        |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    1|[Pia Nalaar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417697)         |                    1|[Showdown of the Skalds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503845)|
+|                    1|[Esika's Chariot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503783)    |                    1|[Tajic, Legion's Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452954)  |
+|                    1|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)  |                    1|[Archon of Emeria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495594)      |
+|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)             |                    1|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)  |
+|                    1|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)|                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)         |
+|                    2|[Esika's Chariot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503783)    |                    2|[Archon of Emeria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495594)      |
+|                    2|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)  |                    2|[Showdown of the Skalds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503845)|
+|                    2|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)|                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)         |
+|                    3|[Thopter Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451081)   |                    2|[Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)  |
+|                    3|[Esika's Chariot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503783)    |                    2|[Knight of Autumn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452933)      |
+|                    3|[Branchloft Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491909) |                    3|[Showdown of the Skalds](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503845)|
+|                    3|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)  |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)         |
+|                    4|[Thopter Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451081)   |                     |                                                                                                 |
+|                    4|[Branchloft Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491909) |                     |                                                                                                 |
+|                    4|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)  |                     |                                                                                                 |
+

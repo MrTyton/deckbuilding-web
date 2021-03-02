@@ -42,7 +42,7 @@
 |                    1|[Thraben Inspector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409784)  |                     |                                                                                            |
 |                    1|[Spirebluff Canal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417822)   |                     |                                                                                            |
 |                    2|[Thraben Inspector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409784)  |                     |                                                                                            |
-|                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |                     |                                                                                            |
 |                    1|[Riverglide Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491920) |                     |                                                                                            |
+|                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |                     |                                                                                            |
 |                    1|[Heart of Kiran](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423820)     |                     |                                                                                            |
 

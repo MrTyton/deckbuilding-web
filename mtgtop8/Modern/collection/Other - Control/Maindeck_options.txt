@@ -1,4 +1,33 @@
+3 Snapcaster Mage
+4 Drown in the Loch
+4 Island
+4 Fatal Push
+1 Primeval Titan
+1 Cavern of Souls
+1 Sire of Insanity
+1 Snow-Covered Forest
+1 Ghost Quarter
+1 Inferno Titan
+1 Mwonvuli Acid-Moss
+1 Explore
+1 Radiant Fountain
+1 Field of the Dead
+1 Verdant Catacombs
+1 Overgrown Tomb
+1 Snow-Covered Swamp
+1 Gemstone Caverns
+1 Sylvan Caryatid
+1 Ruric Thar, the Unbowed
+1 Wurmcoil Engine
+1 Castle Garenbrig
+1 Gyruda, Doom of Depths
+1 Blast Zone
+1 Chalice of the Void
 1 Bojuka Bog
+1 Farseek
+1 Forest
+1 Stomping Ground
+1 Sakura-Tribe Elder
 2 Cavern of Souls
 2 Explore
 2 Field of the Dead
@@ -15,8 +44,8 @@
 2 Sylvan Caryatid
 2 Farseek
 2 Chalice of the Void
-2 Sakura-Tribe Elder
 2 Primeval Titan
+2 Sakura-Tribe Elder
 3 Castle Garenbrig
 3 Cavern of Souls
 3 Sakura-Tribe Elder
@@ -32,61 +61,32 @@
 4 Chalice of the Void
 4 Mwonvuli Acid-Moss
 4 Primeval Titan
-1 Polluted Delta
-2 Polluted Delta
-3 Polluted Delta
-4 Polluted Delta
-1 Fatal Push
-2 Fatal Push
 1 Soaring Thought-Thief
 1 Ancestral Vision
-1 Watery Grave
-1 Archmage's Charm
-1 Drown in the Loch
 1 Scalding Tarn
 1 Eliminate
 1 Thieves' Guild Enforcer
-1 Cling to Dust
-1 Island
 1 Mana Leak
-1 Spell Snare
-1 Field of Ruin
 1 Darkslick Shores
 1 Mishra's Bauble
-1 Snapcaster Mage
 1 Clearwater Pathway
 2 Soaring Thought-Thief
 2 Ancestral Vision
-2 Archmage's Charm
-2 Drown in the Loch
 2 Scalding Tarn
-2 Island
 2 Thieves' Guild Enforcer
-2 Cling to Dust
-2 Spell Snare
 2 Mana Leak
-2 Snapcaster Mage
+2 Spell Snare
 2 Darkslick Shores
-2 Field of Ruin
-2 Watery Grave
 2 Mishra's Bauble
 3 Thieves' Guild Enforcer
 3 Soaring Thought-Thief
-3 Fatal Push
-3 Archmage's Charm
 3 Ancestral Vision
-3 Island
 3 Scalding Tarn
 3 Cling to Dust
-3 Drown in the Loch
 3 Darkslick Shores
 3 Mishra's Bauble
-3 Snapcaster Mage
 4 Thieves' Guild Enforcer
 4 Soaring Thought-Thief
-4 Drown in the Loch
-4 Island
-4 Fatal Push
 4 Ancestral Vision
 4 Darkslick Shores
 4 Mishra's Bauble
@@ -114,13 +114,43 @@
 4 Seasoned Pyromancer
 4 Marsh Flats
 4 Blood Crypt
+1 Thought Scour
+1 Bloodchief's Thirst
+1 Castle Vantress
+1 Cryptic Command
+1 Into the Story
+1 River of Tears
+1 Jace, the Mind Sculptor
+1 Flooded Strand
+1 Shark Typhoon
+1 Sunken Ruins
+1 Force of Negation
+1 Misty Rainforest
+2 Thought Scour
+2 Misty Rainforest
+2 River of Tears
+2 Castle Vantress
+2 Cryptic Command
+2 Bloodchief's Thirst
+2 Shark Typhoon
+2 Into the Story
+2 Force of Negation
+3 Thought Scour
+3 Shark Typhoon
+3 Cryptic Command
+3 River of Tears
+4 Thought Scour
+4 Archmage's Charm
+4 Shark Typhoon
+5 Island
+6 Island
 1 Smoldering Marsh
 1 Liliana, Waker of the Dead
+1 Graven Cairns
 1 Rakdos Charm
 1 Collective Brutality
 1 Chandra, Acolyte of Flame
 1 Mazemind Tome
-1 Graven Cairns
 1 Ensnaring Bridge
 1 Dragonskull Summit
 2 Mazemind Tome

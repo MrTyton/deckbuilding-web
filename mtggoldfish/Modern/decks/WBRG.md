@@ -1,7 +1,7 @@
 # WBRG
 
 #### [Export MTGO List](../collection/WBRG/WBRG.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Ashiok,%20Dream%20Render%0A3%09Birds%20of%20Paradise%0A2%09Blood%20Crypt%0A4%09Bloodstained%20Mire%0A2%09Blooming%20Marsh%0A2%09Bomat%20Courier%0A1%09Cavern%20of%20Souls%0A1%09Collective%20Brutality%0A1%09Cragplate%20Baloth%0A1%09Drogskol%20Reaver%0A1%09Forest%0A4%09Gather%20the%20Pack%0A1%09Ghor-Clan%20Rampager%0A4%09Grisly%20Salvage%0A1%09Klothys,%20God%20of%20Destiny%0A4%09Lotleth%20Troll%0A2%09Overgrown%20Tomb%0A1%09Questing%20Beast%0A3%09Samut,%20Voice%20of%20Dissent%0A4%09Soulflayer%0A2%09Swamp%0A3%09Sylvan%20Caryatid%0A4%09Traverse%20the%20Ulvenwald%0A4%09Verdant%20Catacombs%0A1%09Wooded%20Foothills%0A3%09Zetalpa,%20Primal%20Dawn&deckside=2%09Abrupt%20Decay%0A1%09Ancient%20Grudge%0A2%09Ashiok,%20Dream%20Render%0A2%09Collective%20Brutality%0A3%09Damping%20Sphere%0A1%09Lightning%20Axe%0A4%09Thoughtseize)
+#### [Print on decklist.org](http://decklist.org/?deckmain=1%09Ashiok,%20Dream%20Render%0A3%09Birds%20of%20Paradise%0A2%09Blood%20Crypt%0A4%09Bloodstained%20Mire%0A2%09Blooming%20Marsh%0A2%09Bomat%20Courier%0A1%09Cavern%20of%20Souls%0A1%09Collective%20Brutality%0A1%09Cragplate%20Baloth%0A1%09Drogskol%20Reaver%0A1%09Forest%0A4%09Gather%20the%20Pack%0A1%09Ghor-Clan%20Rampager%0A4%09Grisly%20Salvage%0A1%09Klothys,%20God%20of%20Destiny%0A4%09Lotleth%20Troll%0A2%09Overgrown%20Tomb%0A1%09Questing%20Beast%0A3%09Samut,%20Voice%20of%20Dissent%0A4%09Soulflayer%0A2%09Swamp%0A3%09Sylvan%20Caryatid%0A4%09Traverse%20the%20Ulvenwald%0A4%09Verdant%20Catacombs%0A1%09Wooded%20Foothills%0A3%09Zetalpa,%20Primal%20Dawn&deckside=3%09Abrupt%20Decay%0A1%09Ancient%20Grudge%0A2%09Ashiok,%20Dream%20Render%0A1%09Collective%20Brutality%0A3%09Damping%20Sphere%0A1%09Lightning%20Axe%0A4%09Thoughtseize)
 # Maindeck
 
 |                                           Creature (27)                                            |                                        Instant (4)                                        |                                          Land (19)                                           |                                        Planeswalker (1)                                         |                                            Sorcery (9)                                            |
@@ -22,16 +22,16 @@
 
 # Sideboard
 
-|                                       Artifact (3)                                        |                                        Instant (4)                                        |                                        Planeswalker (2)                                         |                                           Sorcery (6)                                           |
+|                                       Artifact (3)                                        |                                        Instant (5)                                        |                                        Planeswalker (2)                                         |                                           Sorcery (5)                                           |
 |-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|3 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|2 [Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)  |2 [Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|2 [Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
+|3 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|3 [Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)  |2 [Ashiok, Dream Render](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461155)|1 [Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
 |                                                                                           |1 [Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)|                                                                                                 |4 [Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
 |                                                                                           |1 [Lightning Axe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409925) |                                                                                                 |                                                                                                 |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                    Sideboard Card                                     |
-|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------|
-|                     |             |                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)|
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
+|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------------|
+|                     |             |                    2|[Collective Brutality](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414380)|
 
