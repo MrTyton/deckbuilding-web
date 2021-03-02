@@ -20,6 +20,7 @@
 2 Recross the Paths
 2 Valakut Awakening
 2 Desperate Ritual
+3 Spikefield Hazard
 3 Goblin Charbelcher
 3 Manamorphose
 3 Pact of Negation
@@ -29,7 +30,6 @@
 3 Recross the Paths
 3 Pyretic Ritual
 3 Bala Ged Recovery
-3 Spikefield Hazard
 4 Shatterskull Smashing
 4 Goblin Charbelcher
 4 Spikefield Hazard
@@ -174,8 +174,8 @@
 3 Lovestruck Beast
 3 Dismember
 3 Omnath, Locus of Creation
-1 Prismatic Vista
 1 Murderous Rider
+1 Prismatic Vista
 1 Snow-Covered Swamp
 2 Murderous Rider
 2 Prismatic Vista
@@ -215,17 +215,17 @@
 1 Cavern of Souls
 1 Grove of the Burnwillows
 1 Radiant Fountain
-2 Grove of the Burnwillows
 2 Gruul Turf
 2 Snow-Covered Forest
 2 Field of the Dead
 2 Valakut, the Molten Pinnacle
+2 Grove of the Burnwillows
 2 Castle Garenbrig
 2 Tolaria West
 2 Simic Growth Chamber
-3 Grove of the Burnwillows
 3 Tolaria West
 3 Gruul Turf
+3 Grove of the Burnwillows
 3 Castle Garenbrig
 3 Simic Growth Chamber
 3 Forest
@@ -254,12 +254,12 @@
 2 Polymorph
 2 Opt
 3 Arid Mesa
-3 Remand
+3 Opt
 3 Lightning Bolt
+3 Remand
 3 Polymorph
 3 Transmogrify
 3 Dwarven Mine
-3 Opt
 3 Mass Hysteria
 4 Lightning Bolt
 4 Remand
@@ -269,9 +269,9 @@
 4 Transmogrify
 1 Underworld Breach
 2 Snow-Covered Island
+1 Wishclaw Talisman
 1 Lotus Field
 1 Peer Through Depths
-1 Wishclaw Talisman
 1 Sleight of Hand
 1 Darkslick Shores
 1 Serum Visions
@@ -299,13 +299,13 @@
 2 Dream's Grip
 2 Past in Flames
 2 Twiddle
+3 Wishclaw Talisman
 3 Darkslick Shores
 3 Sleight of Hand
 3 Serum Visions
 3 Ideas Unbound
 3 Snow-Covered Island
 3 Lotus Field
-3 Wishclaw Talisman
 3 Twiddle
 3 Psychic Puppetry
 3 Peer Through Depths
@@ -364,48 +364,48 @@
 4 City of Brass
 4 Aether Hub
 4 Brilliant Ultimatum
+1 Temple of Triumph
 1 Nykthos, Shrine to Nyx
 1 Oust
 1 Solemnity
 1 Marsh Flats
 1 Overwhelming Splendor
 1 Silence
+1 Nine Lives
 1 Deafening Clarion
 1 Wheel of Sun and Moon
 1 Dovescape
 1 Treasure Map
 1 Form of the Dragon
-1 Nine Lives
 1 Plains
-1 Temple of Triumph
 1 Mistveil Plains
 1 Enduring Ideal
 1 Skyclave Apparition
 1 Lotus Bloom
 1 Phyrexian Unlife
 2 Nykthos, Shrine to Nyx
+2 Temple of Triumph
 2 Oust
 2 Marsh Flats
 2 Silence
+2 Nine Lives
 2 Enduring Ideal
 2 Plains
-2 Temple of Triumph
 2 Sacred Foundry
 2 Phyrexian Unlife
 2 Form of the Dragon
 2 Skyclave Apparition
-2 Nine Lives
 2 Treasure Map
 2 Solemnity
 2 Lotus Bloom
 3 Plains
 3 Skyclave Apparition
-3 Oust
 3 Sacred Foundry
 3 Marsh Flats
-3 Solemnity
-3 Lotus Bloom
 3 Silence
+3 Solemnity
+3 Oust
+3 Lotus Bloom
 3 Enduring Ideal
 3 Nine Lives
 4 Plains
@@ -428,6 +428,7 @@
 1 Fiery Islet
 1 Emry, Lurker of the Loch
 1 Mox Amber
+2 Underworld Breach
 2 Snow-Covered Plains
 2 Mishra's Bauble
 2 Engineered Explosives
@@ -435,11 +436,10 @@
 2 Emry, Lurker of the Loch
 2 Grinding Station
 2 Mox Amber
-2 Underworld Breach
 2 Chromatic Star
 2 Lurrus of the Dream-Den
-3 Lurrus of the Dream-Den
 3 Underworld Breach
+3 Lurrus of the Dream-Den
 3 Metallic Rebuke
 3 Mox Amber
 3 Mishra's Bauble

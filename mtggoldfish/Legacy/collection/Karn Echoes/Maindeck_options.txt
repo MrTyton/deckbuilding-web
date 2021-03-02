@@ -9,11 +9,11 @@
 3 City of Traitors
 1 Defense Grid
 1 Manifold Key
-1 Walking Ballista
 1 Voltaic Key
 1 Basalt Monolith
 1 Mystic Forge
 1 Mesmeric Orb
+1 Walking Ballista
 1 Grim Monolith
 2 Manifold Key
 2 Voltaic Key
@@ -66,8 +66,8 @@
 2 Grindstone
 3 Grindstone
 3 Painter's Servant
-1 Wasteland
 1 Plains
+1 Wasteland
 1 Day's Undoing
 2 Day's Undoing
 3 Manifold Key
@@ -75,7 +75,6 @@
 2 Tundra
 3 Tundra
 4 Tundra
-1 Snow-Covered Mountain
 1 Goblin Engineer
 1 Great Furnace
 1 Goblin Welder
@@ -86,6 +85,7 @@
 1 Red Elemental Blast
 1 Crystal Vein
 1 Mountain
+1 Snow-Covered Mountain
 2 Goblin Engineer
 2 Goblin Welder
 2 Pyroblast

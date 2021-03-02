@@ -1,50 +1,49 @@
 1 Pithing Needle
 2 Tundra
-1 Island
-1 Plains
-2 Island
-1 Jace, the Mind Sculptor
+1 Polluted Delta
 1 Snapcaster Mage
 2 Snapcaster Mage
-1 Polluted Delta
+1 Jace, the Mind Sculptor
+2 Polluted Delta
 1 Terminus
 3 Snapcaster Mage
-2 Polluted Delta
-1 Hullbreacher
-1 Narset, Parter of Veils
-3 Scalding Tarn
 1 Baleful Strix
 1 Underground Sea
 2 Baleful Strix
 3 Polluted Delta
 4 Polluted Delta
+1 Island
+1 Plains
+2 Island
+1 Narset, Parter of Veils
+3 Scalding Tarn
+2 Underground Sea
+3 Baleful Strix
+1 Scrubland
+1 Vindicate
 1 Ancient Tomb
 1 Day's Undoing
+1 Hullbreacher
 2 Hullbreacher
-2 Ancient Tomb
 2 Day's Undoing
+2 Ancient Tomb
 2 Volcanic Island
 3 Ancient Tomb
 4 Ancient Tomb
 4 Scalding Tarn
-3 Island
 2 Terminus
 3 Terminus
-2 Underground Sea
-3 Baleful Strix
 1 Swamp
-1 Scrubland
-1 Vindicate
-2 Jace, the Mind Sculptor
 1 Unearth
-1 Of One Mind
 1 Fatal Push
+2 Unearth
+2 Jace, the Mind Sculptor
+1 Of One Mind
 1 Inquisition of Kozilek
 1 Hymn to Tourach
 1 Marsh Flats
 2 Hymn to Tourach
 2 Marsh Flats
-2 Unearth
 2 Scrubland
 2 Of One Mind
 2 Inquisition of Kozilek
@@ -53,13 +52,10 @@
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 3 Hullbreacher
-1 Misty Rainforest
-2 Misty Rainforest
 1 Council's Judgment
 2 Snow-Covered Plains
-2 Plains
-4 Island
 1 Back to Basics
+3 Island
 1 Predict
 1 Red Elemental Blast
 1 Counterspell
@@ -70,14 +66,18 @@
 4 Snow-Covered Island
 5 Snow-Covered Island
 6 Snow-Covered Island
+1 Misty Rainforest
+2 Misty Rainforest
 1 Mystic Sanctuary
 1 Entreat the Angels
 2 Mystic Sanctuary
 4 Terminus
 1 Snow-Covered Swamp
+1 Thoughtseize
+2 Plains
+4 Island
 1 Omen of the Sea
 1 Aminatou, the Fateshifter
-1 Thoughtseize
 1 Karakas
 1 Court of Grace
 2 Omen of the Sea
@@ -92,6 +92,23 @@
 4 Force of Negation
 4 Baleful Strix
 4 Omen of the Sea
+1 Intuition
+1 Accumulated Knowledge
+1 Cabal Therapy
+1 Lingering Souls
+1 Baral, Chief of Compliance
+1 Creeping Tar Pit
+2 Intuition
+2 Thoughtseize
+2 Lingering Souls
+2 Accumulated Knowledge
+2 Cabal Therapy
+2 Fatal Push
+2 Baral, Chief of Compliance
+3 Tundra
+3 Underground Sea
+3 Accumulated Knowledge
+4 Accumulated Knowledge
 1 Pyroblast
 1 Spell Pierce
 1 Stifle
@@ -105,8 +122,6 @@
 2 Swamp
 2 Vindicate
 3 Teferi, Time Raveler
-3 Misty Rainforest
-4 Misty Rainforest
 1 Spell Snare
 1 Search for Azcanta
 1 Archmage's Charm

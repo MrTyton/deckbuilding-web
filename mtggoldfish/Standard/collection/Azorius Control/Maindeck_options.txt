@@ -10,26 +10,13 @@
 2 Gadwick, the Wizened
 1 Cosima, God of the Voyage
 3 Gadwick, the Wizened
-1 Voracious Greatshark
-2 Voracious Greatshark
-1 Icebreaker Kraken
-1 Rewind
-1 Neutralize
-2 Cosima, God of the Voyage
-3 Essence Scatter
-1 Avalanche Caller
-2 Avalanche Caller
-1 Castle Vantress
 1 Fabled Passage
-2 Fabled Passage
-2 Disdainful Stroke
-1 Castle Ardenvale
 1 Plains
 1 Island
 1 Gates of Istfell
 1 Temple of Enlightenment
 1 Hengegate Pathway
-1 Niko Aris
+2 Fabled Passage
 2 Island
 2 Plains
 2 Temple of Enlightenment
@@ -40,100 +27,59 @@
 4 Plains
 5 Island
 6 Island
-3 Jwari Disruption
+1 Voracious Greatshark
+2 Voracious Greatshark
+1 Icebreaker Kraken
+1 Rewind
+1 Neutralize
+2 Cosima, God of the Voyage
+3 Essence Scatter
+1 Ravenform
+2 Ravenform
+1 Doomskar
+1 Glass Casket
+2 Doomskar
+2 Glass Casket
+2 Gates of Istfell
 3 Fabled Passage
+3 Doomskar
+3 Temple of Enlightenment
+3 Hengegate Pathway
 4 Fabled Passage
+4 Temple of Enlightenment
+4 Doomskar
+4 Hengegate Pathway
+1 Castle Vantress
+1 Castle Ardenvale
+1 Niko Aris
+2 Disdainful Stroke
+1 Dream Trawler
+5 Plains
+7 Island
+3 Jwari Disruption
 2 Neutralize
 3 Disdainful Stroke
 3 Negate
 3 Neutralize
 4 Disdainful Stroke
 4 Neutralize
+1 Avalanche Caller
+2 Avalanche Caller
 2 Castle Vantress
 3 Into the Roil
-1 Ravenform
-2 Ravenform
 3 Ravenform
 1 Vantress Gargoyle
-2 Vantress Gargoyle
 2 Rewind
+2 Vantress Gargoyle
 3 Vantress Gargoyle
 4 Vantress Gargoyle
-1 Doomskar
 1 Field of Ruin
 1 Omen of the Sea
-1 Glass Casket
-2 Doomskar
 2 Omen of the Sea
-2 Glass Casket
-2 Gates of Istfell
-3 Doomskar
 3 Omen of the Sea
-3 Temple of Enlightenment
-3 Hengegate Pathway
-4 Temple of Enlightenment
-4 Doomskar
 4 Omen of the Sea
-4 Hengegate Pathway
-1 Barkchannel Pathway
-1 Temple of Mystery
-1 Snow-Covered Forest
-1 Garruk, Unleashed
-1 Tangled Florahedron
-1 Llanowar Visionary
-1 Garruk's Harbinger
-1 Koma, Cosmos Serpent
-1 Esika's Chariot
-1 Questing Beast
-2 Barkchannel Pathway
-2 Temple of Mystery
-2 Snow-Covered Forest
-2 Llanowar Visionary
-2 Garruk, Unleashed
-2 Koma, Cosmos Serpent
-2 Tangled Florahedron
-2 Esika's Chariot
-3 Temple of Mystery
-3 Snow-Covered Forest
-3 Barkchannel Pathway
-3 Llanowar Visionary
-3 Koma, Cosmos Serpent
-4 Snow-Covered Forest
-4 Jwari Disruption
-4 Llanowar Visionary
-4 Temple of Mystery
-4 Barkchannel Pathway
-5 Snow-Covered Forest
-6 Snow-Covered Forest
-1 Extinction Event
-1 Murderous Rider
-1 Eliminate
-1 Snow-Covered Swamp
-1 Heartless Act
-1 Elspeth's Nightmare
-1 Narfi, Betrayer King
-1 Ice Tunnel
-1 Bloodchief's Thirst
-2 Elspeth's Nightmare
-2 Heartless Act
-2 Extinction Event
-2 Eliminate
-2 Bloodchief's Thirst
-2 Murderous Rider
-2 Ice Tunnel
-2 Snow-Covered Swamp
-3 Snow-Covered Swamp
-3 Eliminate
-3 Extinction Event
-3 Ice Tunnel
-4 Snow-Covered Swamp
-4 Ice Tunnel
-4 Extinction Event
-5 Snow-Covered Swamp
-6 Snow-Covered Swamp
 1 Sea Gate Restoration
 1 Ondu Inversion
-1 Dream Trawler
 1 Sigrid, God-Favored
 1 Shatter the Sky
 1 Emeria's Call
@@ -145,8 +91,46 @@
 3 Shatter the Sky
 3 Sigrid, God-Favored
 4 Shatter the Sky
-5 Plains
-7 Island
+1 The Raven's Warning
+1 Midnight Clock
+2 The Raven's Warning
+2 Midnight Clock
+2 Dream Trawler
+3 Midnight Clock
+3 Gates of Istfell
+3 The Raven's Warning
+4 The Raven's Warning
+4 Midnight Clock
+1 Barkchannel Pathway
+1 Temple of Mystery
+1 Snow-Covered Forest
+1 Tangled Florahedron
+1 Esika's Chariot
+1 Llanowar Visionary
+1 Garruk, Unleashed
+1 Questing Beast
+1 Garruk's Harbinger
+1 Koma, Cosmos Serpent
+2 Barkchannel Pathway
+2 Temple of Mystery
+2 Snow-Covered Forest
+2 Esika's Chariot
+2 Llanowar Visionary
+2 Koma, Cosmos Serpent
+2 Garruk, Unleashed
+2 Tangled Florahedron
+3 Temple of Mystery
+3 Snow-Covered Forest
+3 Barkchannel Pathway
+3 Llanowar Visionary
+3 Koma, Cosmos Serpent
+4 Jwari Disruption
+4 Llanowar Visionary
+4 Temple of Mystery
+4 Snow-Covered Forest
+4 Barkchannel Pathway
+5 Snow-Covered Forest
+6 Snow-Covered Forest
 1 Ugin, the Spirit Dragon
 1 Kiora Bests the Sea God
 2 Icebreaker Kraken

@@ -47,8 +47,8 @@
 2 Fatal Push
 3 Polluted Delta
 3 Fatal Push
-4 Fatal Push
 4 Polluted Delta
+4 Fatal Push
 3 Island
 1 Wooded Foothills
 2 Wooded Foothills
@@ -57,27 +57,27 @@
 4 Snapcaster Mage
 1 Savai Triome
 1 Windswept Heath
-1 Dryad of the Ilysian Grove
 1 Flagstones of Trokair
 1 Sacred Foundry
 1 Elvish Reclaimer
+1 Dryad of the Ilysian Grove
 1 Bojuka Bog
 1 Treasure Hunt
 2 Temple Garden
-2 Dryad of the Ilysian Grove
 2 Flagstones of Trokair
 2 Elvish Reclaimer
+2 Dryad of the Ilysian Grove
 2 Windswept Heath
 2 Treasure Hunt
-3 Dryad of the Ilysian Grove
 3 Windswept Heath
 3 Flagstones of Trokair
 3 Elvish Reclaimer
+3 Dryad of the Ilysian Grove
 3 Valakut, the Molten Pinnacle
 3 Treasure Hunt
-4 Dryad of the Ilysian Grove
 4 Elvish Reclaimer
 4 Flagstones of Trokair
+4 Dryad of the Ilysian Grove
 4 Valakut, the Molten Pinnacle
 3 Snow-Covered Island
 1 Hunting Wilds
@@ -89,12 +89,18 @@
 2 Archmage's Charm
 2 Flame Slash
 3 Teferi, Time Raveler
+1 Opt
+2 Opt
+2 Izzet Charm
+3 Opt
+4 Opt
+4 Uro, Titan of Nature's Wrath
 4 Wrenn and Six
 1 Overgrown Tomb
 1 Snow-Covered Swamp
+1 Zagoth Triome
 1 Maelstrom Pulse
 1 Castle Vantress
-1 Zagoth Triome
 1 Anger of the Gods
 1 Worldly Counsel
 1 Sultai Charm
@@ -108,9 +114,3 @@
 3 Sakura-Tribe Elder
 4 Sakura-Tribe Elder
 4 Search for Tomorrow
-1 Opt
-2 Opt
-2 Izzet Charm
-3 Opt
-4 Opt
-4 Uro, Titan of Nature's Wrath

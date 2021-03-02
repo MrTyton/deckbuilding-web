@@ -1,4 +1,96 @@
-2 Polluted Delta
+1 Aether Vial
+2 Aether Vial
+3 Aether Vial
+4 Aether Vial
+1 Cavern of Souls
+1 Mutavault
+1 Waterlogged Grove
+1 Swords to Plowshares
+1 Teferi, Time Raveler
+1 Spirit of the Labyrinth
+1 Skyclave Apparition
+1 Island
+1 Moorland Haunt
+1 Rattlechains
+1 Spell Queller
+1 Selfless Spirit
+1 Mausoleum Wanderer
+1 Seachrome Coast
+1 Supreme Phantom
+1 Plains
+1 Drogskol Captain
+2 Swords to Plowshares
+2 Spirit of the Labyrinth
+2 Plains
+2 Rattlechains
+2 Supreme Phantom
+2 Mausoleum Wanderer
+2 Island
+2 Skyclave Apparition
+2 Mutavault
+2 Seachrome Coast
+2 Selfless Spirit
+2 Spell Queller
+2 Drogskol Captain
+3 Spirit of the Labyrinth
+3 Swords to Plowshares
+3 Seachrome Coast
+3 Spell Queller
+3 Drogskol Captain
+3 Supreme Phantom
+3 Skyclave Apparition
+3 Mausoleum Wanderer
+3 Rattlechains
+4 Skyclave Apparition
+4 Spirit of the Labyrinth
+4 Mausoleum Wanderer
+4 Supreme Phantom
+4 Drogskol Captain
+4 Seachrome Coast
+1 Dreadhorde Arcanist
+1 Chain Lightning
+1 Lightning Bolt
+2 Lightning Bolt
+2 Dreadhorde Arcanist
+3 Lightning Bolt
+4 Lightning Bolt
+1 Wasteland
+1 Of One Mind
+1 Volcanic Island
+1 Oko, Thief of Crowns
+1 Tropical Island
+1 Misty Rainforest
+1 Taiga
+1 Young Pyromancer
+1 Ponder
+1 Narset, Parter of Veils
+1 Noble Hierarch
+1 Krark, the Thumbless
+2 Of One Mind
+2 Oko, Thief of Crowns
+2 Misty Rainforest
+2 Tropical Island
+2 Young Pyromancer
+2 Wasteland
+2 Volcanic Island
+2 Narset, Parter of Veils
+2 Noble Hierarch
+2 Ponder
+2 Krark, the Thumbless
+3 Of One Mind
+3 Scalding Tarn
+3 Oko, Thief of Crowns
+3 Misty Rainforest
+3 Volcanic Island
+3 Young Pyromancer
+3 Wasteland
+3 Krark, the Thumbless
+3 Ponder
+3 Noble Hierarch
+4 Misty Rainforest
+4 Scalding Tarn
+4 Ponder
+4 Noble Hierarch
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 1 Snow-Covered Swamp
@@ -7,16 +99,15 @@
 1 Fatal Push
 1 Inquisition of Kozilek
 1 Lightning Skelemental
+1 Thunderkin Awakener
 1 Unearth
-1 Thoughtseize
 1 Bloodstained Mire
-1 Cavern of Souls
 1 Sunbaked Canyon
 1 Spark Trooper
 1 Blackcleave Cliffs
 1 Faithless Looting
-1 Thunderkin Awakener
 1 Ball Lightning
+1 Thoughtseize
 2 Unearth
 2 Bloodstained Mire
 2 Blood Crypt
@@ -41,58 +132,15 @@
 3 Blackcleave Cliffs
 3 Thunderkin Awakener
 3 Chain Lightning
-4 Blackcleave Cliffs
 4 Unearth
 4 Faithless Looting
 4 Thunderkin Awakener
 4 Lightning Skelemental
 4 Inquisition of Kozilek
+4 Blackcleave Cliffs
 4 Thoughtseize
 4 Ball Lightning
 4 Cavern of Souls
-1 Karakas
-1 Chrome Mox
-2 Chrome Mox
-1 Tundra
-1 Brazen Borrower
-1 Force of Negation
-1 Ethereal Armor
-1 Invisible Stalker
-1 Snow-Covered Plains
-1 Kor Spiritdancer
-1 Preordain
-1 Staggering Insight
-1 Curious Obsession
-1 Curiosity
-1 Flooded Strand
-2 Force of Negation
-2 Snow-Covered Island
-2 Brazen Borrower
-2 Tundra
-2 Flooded Strand
-2 Preordain
-2 Curious Obsession
-2 Staggering Insight
-2 Ethereal Armor
-2 Invisible Stalker
-2 Kor Spiritdancer
-2 Curiosity
-3 Snow-Covered Island
-3 Flooded Strand
-3 Preordain
-3 Tundra
-3 Invisible Stalker
-3 Staggering Insight
-3 Ethereal Armor
-3 Kor Spiritdancer
-3 Curious Obsession
-4 Flooded Strand
-4 Staggering Insight
-4 Curious Obsession
-4 Kor Spiritdancer
-4 Ethereal Armor
-4 Preordain
-4 Invisible Stalker
 1 Ancient Tomb
 1 City of Traitors
 2 Ancient Tomb
@@ -159,25 +207,23 @@
 1 Phyrexian Revoker
 1 Magmatic Channeler
 1 Goblin Welder
-1 Imperial Recruiter
-1 Tangle Wire
-1 Aether Vial
 1 Ichor Wellspring
 1 Goblin Engineer
+1 Tangle Wire
 1 Hex Parasite
 1 Great Furnace
+1 Imperial Recruiter
 1 Lodestone Golem
 1 Winter Orb
 1 Dire Fleet Daredevil
 2 Seasoned Pyromancer
-2 Phyrexian Revoker
 2 Goblin Engineer
 2 Magmatic Channeler
+2 Goblin Welder
 2 Tangle Wire
 2 Lodestone Golem
-2 Goblin Welder
+2 Phyrexian Revoker
 2 Great Furnace
-2 Aether Vial
 2 Imperial Recruiter
 3 Snow-Covered Mountain
 3 Lodestone Golem
@@ -185,10 +231,8 @@
 3 Tangle Wire
 3 Goblin Welder
 3 Imperial Recruiter
-3 Aether Vial
 3 Goblin Engineer
 4 Snow-Covered Mountain
-4 Aether Vial
 4 Imperial Recruiter
 4 Goblin Engineer
 4 Magmatic Channeler

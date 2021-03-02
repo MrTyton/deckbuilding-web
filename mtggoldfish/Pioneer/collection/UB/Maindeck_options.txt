@@ -1,74 +1,80 @@
-2 Clearwater Pathway
 3 Thoughtseize
+4 Dig Through Time
+1 Release to the Wind
 1 Valki, God of Lies
 1 Jace, Vryn's Prodigy
-1 Release to the Wind
-2 Jace, Vryn's Prodigy
-2 Valki, God of Lies
 2 Release to the Wind
+2 Valki, God of Lies
+2 Jace, Vryn's Prodigy
 3 Jace, Vryn's Prodigy
 3 Valki, God of Lies
-3 Release to the Wind
 4 Thoughtseize
 4 Valki, God of Lies
-1 Snow-Covered Swamp
-1 Snow-Covered Island
-1 Rewind
 3 Clearwater Pathway
 4 Clearwater Pathway
-2 Snow-Covered Swamp
-2 Snow-Covered Island
-3 Snow-Covered Island
 2 Hero's Downfall
-1 Shadows' Verdict
-2 Shadows' Verdict
-4 Sinister Sabotage
-4 Jace, Vryn's Prodigy
-3 Fetid Pools
-5 Island
-1 Thassa's Intervention
-2 Castle Locthwain
+1 Castle Locthwain
 2 Extinction Event
-1 Drown in the Loch
+3 Release to the Wind
+4 Jace, Vryn's Prodigy
+1 Snow-Covered Swamp
+1 Snow-Covered Island
+4 Sinister Sabotage
+1 Rewind
+1 Bloodchief's Thirst
 1 Riverglide Pathway
 1 Blightstep Pathway
 2 Blightstep Pathway
 2 Riverglide Pathway
-1 Bloodchief's Thirst
+2 Snow-Covered Swamp
+2 Snow-Covered Island
+3 Snow-Covered Island
+1 Shadows' Verdict
+2 Shadows' Verdict
 1 Kolaghan's Command
+5 Island
+1 Heartless Act
 1 Blood Crypt
 1 Steam Vents
 2 Blood Crypt
 3 Blood Crypt
-3 Field of Ruin
+1 Thassa's Intervention
+2 Castle Locthwain
 3 Swamp
+1 Drown in the Loch
 2 Bloodchief's Thirst
-1 Snow-Covered Mountain
 1 Choked Estuary
+4 Release to the Wind
+1 Ashiok, Nightmare Muse
+1 Snow-Covered Mountain
 1 Duress
 2 Duress
 2 Choked Estuary
 3 Choked Estuary
 4 Choked Estuary
-2 Drown in the Loch
-4 Release to the Wind
-1 Heartless Act
-4 Snow-Covered Island
-1 Ashiok, Nightmare Muse
 1 Soul-Guide Lantern
+2 Drown in the Loch
+3 Field of Ruin
+4 Fetid Pools
+4 Snow-Covered Island
+1 Aether Gust
+1 Saw It Coming
+1 Narset, Parter of Veils
+1 Geier Reach Sanitarium
+2 Narset, Parter of Veils
+3 Negate
 1 Breeding Pool
 1 Hinterland Harbor
 1 Commit/Memory
 1 Uro, Titan of Nature's Wrath
+1 Forest
 1 Zagoth Triome
 1 Chemister's Insight
-1 Forest
 1 Jwari Disruption
 1 Abrupt Decay
 1 Overgrown Tomb
 1 Nissa, Who Shakes the World
 1 Lumbering Falls
-1 Aether Gust
 2 Breeding Pool
 2 Zagoth Triome
 2 Chemister's Insight
@@ -83,42 +89,6 @@
 3 Uro, Titan of Nature's Wrath
 4 Zagoth Triome
 4 Breeding Pool
-3 Negate
-4 Fetid Pools
-1 Radiant Fountain
-2 Thassa's Intervention
-2 Radiant Fountain
-2 Heartless Act
-1 Port of Karfell
-1 Cling to Dust
-1 Void Shatter
-1 Mutavault
-2 Rewind
-2 Void Shatter
-2 Mutavault
-1 Languish
-1 Horribly Awry
-2 Castle Vantress
-2 Vraska's Contempt
-1 Mystical Dispute
-2 Eliminate
-1 Search for Azcanta
-1 Cry of the Carnarium
-1 Sublime Epiphany
-2 Cry of the Carnarium
-1 Jace, Wielder of Mysteries
-1 Omen of the Sea
-2 Omen of the Sea
-2 Jace, Wielder of Mysteries
-1 Saw It Coming
-1 Narset, Parter of Veils
-1 Geier Reach Sanitarium
-2 Narset, Parter of Veils
-3 Radiant Fountain
-3 Thassa's Intervention
-1 Blast Zone
-3 Snow-Covered Swamp
-5 Snow-Covered Island
 1 Brazen Borrower
 1 Nicol Bolas, the Ravager
 2 Kolaghan's Command
@@ -129,3 +99,38 @@
 3 Riverglide Pathway
 4 Riverglide Pathway
 4 Blightstep Pathway
+1 Languish
+1 Radiant Fountain
+2 Thassa's Intervention
+2 Radiant Fountain
+2 Heartless Act
+1 Port of Karfell
+1 Cling to Dust
+1 Mutavault
+1 Void Shatter
+2 Rewind
+2 Void Shatter
+2 Mutavault
+1 Mystical Dispute
+2 Eliminate
+1 Horribly Awry
+2 Castle Vantress
+2 Vraska's Contempt
+1 Search for Azcanta
+1 Cry of the Carnarium
+1 Sublime Epiphany
+2 Cry of the Carnarium
+1 Jace, Wielder of Mysteries
+1 Omen of the Sea
+2 Jace, Wielder of Mysteries
+2 Omen of the Sea
+1 Mountain
+2 Aether Gust
+1 Neutralize
+3 Behold the Multiverse
+4 Behold the Multiverse
+1 Blast Zone
+3 Snow-Covered Swamp
+5 Snow-Covered Island
+3 Radiant Fountain
+3 Thassa's Intervention

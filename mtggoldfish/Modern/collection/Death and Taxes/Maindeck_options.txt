@@ -1,6 +1,6 @@
-8 Snow-Covered Plains
-9 Snow-Covered Plains
-10 Snow-Covered Plains
+3 Silent Clearing
+4 Silent Clearing
+3 Plains
 1 Horizon Canopy
 4 Plains
 5 Plains
@@ -10,9 +10,9 @@
 9 Plains
 10 Plains
 2 Horizon Canopy
+1 Sunbaked Canyon
 3 Horizon Canopy
 4 Horizon Canopy
-1 Sunbaked Canyon
 4 Flickerwisp
 1 Branchloft Pathway
 1 Oath of Nissa
@@ -36,47 +36,37 @@
 3 Noble Hierarch
 3 Temple Garden
 3 Razorverge Thicket
+4 Branchloft Pathway
 4 Noble Hierarch
 4 Razorverge Thicket
 4 Temple Garden
-4 Branchloft Pathway
 4 Oath of Nissa
-1 Gavony Township
+1 Restoration Angel
 2 Stirring Wildwood
-3 Scavenging Ooze
+1 Gavony Township
 1 Reidane, God of the Worthy
 2 Reidane, God of the Worthy
-1 Restoration Angel
 2 Restoration Angel
+11 Plains
 1 Inspiring Vantage
 2 Inspiring Vantage
 2 Sunbaked Canyon
 3 Inspiring Vantage
 3 Sunbaked Canyon
 4 Sunbaked Canyon
+3 Scavenging Ooze
 1 Mountain
-1 Magus of the Moon
 1 Sacred Foundry
+1 Magus of the Moon
 2 Magus of the Moon
 3 Magus of the Moon
 4 Inspiring Vantage
+1 Castle Ardenvale
+1 Sword of Light and Shadow
 1 Blast Zone
-3 Reidane, God of the Worthy
-1 Akiri, Fearless Voyager
-1 Snow-Covered Mountain
-1 Needleverge Pathway
-1 Cleansing Wildfire
-2 Cleansing Wildfire
-2 Needleverge Pathway
-3 Cleansing Wildfire
-3 Needleverge Pathway
-4 Needleverge Pathway
-4 Cleansing Wildfire
 1 Spellskite
 2 Spellskite
-11 Plains
-4 Archon of Emeria
-11 Snow-Covered Plains
+3 Reidane, God of the Worthy
 1 Glasspool Mimic
 1 Hallowed Fountain
 1 Flooded Strand
@@ -85,8 +75,8 @@
 1 Spell Queller
 1 Adarkar Wastes
 2 Moorland Haunt
-2 Hallowed Fountain
 2 Flooded Strand
+2 Hallowed Fountain
 2 Adarkar Wastes
 2 Seachrome Coast
 2 Spell Queller
@@ -94,3 +84,15 @@
 3 Spell Queller
 4 Seachrome Coast
 4 Spell Queller
+4 Archon of Emeria
+11 Snow-Covered Plains
+1 Needleverge Pathway
+1 Akiri, Fearless Voyager
+1 Snow-Covered Mountain
+1 Cleansing Wildfire
+2 Needleverge Pathway
+2 Cleansing Wildfire
+3 Cleansing Wildfire
+3 Needleverge Pathway
+4 Cleansing Wildfire
+4 Needleverge Pathway

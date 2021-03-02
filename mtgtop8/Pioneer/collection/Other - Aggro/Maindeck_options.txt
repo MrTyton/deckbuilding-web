@@ -33,16 +33,16 @@
 1 Into the Story
 2 Into the Story
 1 Island
-1 Anticognition
 1 Nighthawk Scavenger
+1 Anticognition
 1 Mystical Dispute
 1 Fabled Passage
 1 Drowned Catacomb
 1 Brazen Borrower
 2 Brazen Borrower
 2 Nighthawk Scavenger
-2 Drowned Catacomb
 2 Mystical Dispute
+2 Drowned Catacomb
 2 Island
 2 Fabled Passage
 3 Brazen Borrower
@@ -60,10 +60,12 @@
 3 Glint-Sleeve Siphoner
 3 Nighthawk Scavenger
 4 Glint-Sleeve Siphoner
+1 Heartless Act
 2 Blood Crypt
+2 Agadeem's Awakening
+3 Blood Crypt
 2 Stomping Ground
 3 Stomping Ground
-3 Blood Crypt
 1 Forest
 1 Woodland Cemetery
 1 Traverse the Ulvenwald
@@ -89,14 +91,10 @@
 3 Grisly Salvage
 3 Stitcher's Supplier
 3 Soulflayer
-4 Grisly Salvage
 4 Stitcher's Supplier
+4 Grisly Salvage
 4 Zetalpa, Primal Dawn
 4 Soulflayer
-1 Heartless Act
-2 Agadeem's Awakening
-1 Magmatic Channeler
-3 Woodland Cemetery
 1 Judith, the Scourge Diva
 1 Llanowar Wastes
 2 Judith, the Scourge Diva
@@ -127,30 +125,30 @@
 1 Bloodsoaked Champion
 1 Colossus Hammer
 1 Blood-Chin Rager
-2 Open the Armory
 2 Mardu Woe-Reaper
+2 Open the Armory
 2 Gods Willing
 2 Concealed Courtyard
 2 Sigarda's Aid
 2 Resolute Strike
 2 Colossus Hammer
 2 Bloodsoaked Champion
+2 Dragon Hunter
 2 Kor Blademaster
 2 Blood-Chin Rager
 2 Caves of Koilos
-2 Dragon Hunter
 2 Wishclaw Talisman
 3 Open the Armory
 3 Mardu Woe-Reaper
 3 Kor Blademaster
 3 Caves of Koilos
+3 Dragon Hunter
 3 Concealed Courtyard
 3 Sigarda's Aid
 3 Resolute Strike
 3 Colossus Hammer
 3 Godless Shrine
 3 Bloodsoaked Champion
-3 Dragon Hunter
 3 Blood-Chin Rager
 4 Mardu Woe-Reaper
 4 Godless Shrine
@@ -179,21 +177,6 @@
 4 Blood Crypt
 4 Murderous Rider
 4 Samut, Voice of Dissent
-3 Grapple with the Past
-1 Satyr Wayfinder
-1 Claim / Fame
-1 Embodiment of Agonies
-2 Satyr Wayfinder
-2 Claim / Fame
-2 Embodiment of Agonies
-2 Magmatic Channeler
-3 Satyr Wayfinder
-3 Claim / Fame
-3 Magmatic Channeler
-4 Satyr Wayfinder
-4 Claim / Fame
-4 Magmatic Channeler
-4 Woodland Cemetery
 2 Heartless Act
 1 Breeding Pool
 1 Merfolk Windrobber
@@ -207,6 +190,8 @@
 3 Botanical Sanctum
 4 Deathrite Shaman
 4 Botanical Sanctum
+1 Magmatic Channeler
+3 Woodland Cemetery
 1 Liliana, the Last Hope
 2 Anticognition
 1 Thassa's Intervention
@@ -215,8 +200,6 @@
 1 Zareth San, the Trickster
 1 Notion Thief
 2 Notion Thief
-1 Lurrus of the Dream-Den
-2 Lurrus of the Dream-Den
 1 Of One Mind
 1 Zagoth Triome
 2 Of One Mind
@@ -226,8 +209,28 @@
 3 Agadeem's Awakening
 3 Merfolk Windrobber
 4 Into the Story
-4 Grapple with the Past
+1 Satyr Wayfinder
+1 Claim / Fame
+1 Embodiment of Agonies
+1 Lurrus of the Dream-Den
+2 Satyr Wayfinder
+2 Claim / Fame
+2 Embodiment of Agonies
+2 Magmatic Channeler
+2 Lurrus of the Dream-Den
+3 Satyr Wayfinder
+3 Claim / Fame
+3 Magmatic Channeler
+4 Satyr Wayfinder
+4 Claim / Fame
+4 Magmatic Channeler
+4 Woodland Cemetery
+3 Grapple with the Past
 4 Cathartic Reunion
+2 Forest
+3 Forest
+4 Forest
+5 Forest
 1 Season of Growth
 1 Gladecover Scout
 1 Branchloft Pathway
@@ -235,9 +238,9 @@
 1 Sunpetal Grove
 1 Gryff's Boon
 1 Sentinel's Eyes
+1 Fortified Village
 1 All That Glitters
 1 Cartouche of Solidarity
-1 Fortified Village
 1 Ethereal Armor
 1 Unflinching Courage
 1 Bassara Tower Archer
@@ -253,7 +256,6 @@
 2 Ethereal Armor
 2 Cartouche of Solidarity
 2 Plains
-2 Forest
 2 Adanto Vanguard
 2 Bassara Tower Archer
 2 Helm of the Gods
@@ -266,11 +268,10 @@
 3 Sentinel's Eyes
 3 Cartouche of Solidarity
 3 All That Glitters
+3 Adanto Vanguard
 3 Ethereal Armor
 3 Gryff's Boon
-3 Adanto Vanguard
 3 Unflinching Courage
-3 Forest
 3 Bassara Tower Archer
 4 Temple Garden
 4 Gladecover Scout
@@ -282,16 +283,14 @@
 4 Sentinel's Eyes
 4 Adanto Vanguard
 4 Unflinching Courage
-4 Forest
 4 Sunpetal Grove
 4 Bassara Tower Archer
-5 Forest
+1 Gifted Aetherborn
 1 Champion of Dusk
 1 Sorin, Imperious Bloodlord
-1 Gifted Aetherborn
 1 Dusk Legion Zealot
-1 Bloodchief's Thirst
 1 Blood Baron of Vizkopa
+1 Bloodchief's Thirst
 1 Knight of the Ebon Legion
 1 Isolated Chapel
 1 Kalitas, Traitor of Ghet
@@ -318,3 +317,51 @@
 5 Swamp
 6 Swamp
 7 Swamp
+1 Questing Beast
+1 Nykthos, Shrine to Nyx
+1 Nissa, Who Shakes the World
+1 Barkchannel Pathway
+1 Garruk's Uprising
+1 Voracious Hydra
+1 Vivien, Arkbow Ranger
+1 Steel Leaf Champion
+1 Hinterland Harbor
+1 Vorinclex, Monstrous Raider
+1 Hydroid Krasis
+1 Castle Garenbrig
+1 Lovestruck Beast
+1 The Great Henge
+1 Rhonas the Indomitable
+2 Questing Beast
+2 Rhonas the Indomitable
+2 Barkchannel Pathway
+2 Vivien, Arkbow Ranger
+2 Voracious Hydra
+2 Steel Leaf Champion
+2 Breeding Pool
+2 Hinterland Harbor
+2 Hydroid Krasis
+2 Castle Garenbrig
+2 Nykthos, Shrine to Nyx
+2 Nissa, Who Shakes the World
+2 Lovestruck Beast
+2 Vorinclex, Monstrous Raider
+3 Questing Beast
+3 Steel Leaf Champion
+3 Vivien, Arkbow Ranger
+3 Breeding Pool
+3 Hinterland Harbor
+3 Nissa, Who Shakes the World
+3 Lovestruck Beast
+3 Voracious Hydra
+3 Hydroid Krasis
+4 Steel Leaf Champion
+4 Hinterland Harbor
+4 Breeding Pool
+4 Lovestruck Beast
+4 Hydroid Krasis
+4 Llanowar Elves
+6 Forest
+7 Forest
+9 Forest
+8 Forest

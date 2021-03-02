@@ -1,35 +1,33 @@
-3 Mana Leak
-2 Birds of Paradise
-1 Prismatic Vista
+1 Birds of Paradise
+2 Waterlogged Grove
 2 Snow-Covered Plains
-2 Breeding Pool
-2 Jace, the Mind Sculptor
+1 Glacial Floodplain
 4 Mana Leak
 1 On Thin Ice
 2 On Thin Ice
-1 Glacial Floodplain
+2 Birds of Paradise
+2 Breeding Pool
+2 Jace, the Mind Sculptor
 1 Cryptic Command
 2 Cryptic Command
-4 Snow-Covered Island
-3 Windswept Heath
-1 Cosima, God of the Voyage
 1 Toski, Bearer of Secrets
 2 Toski, Bearer of Secrets
 3 On Thin Ice
 3 Toski, Bearer of Secrets
 4 On Thin Ice
-1 Teferi, Hero of Dominaria
-1 Skyclave Apparition
-2 Skyclave Apparition
-1 Spell Snare
-1 Archmage's Charm
-1 Field of Ruin
+3 Windswept Heath
+1 Cosima, God of the Voyage
 1 Brazen Borrower
 2 Temple Garden
+1 Skyclave Apparition
+2 Skyclave Apparition
+4 Snow-Covered Island
+1 Spell Snare
+1 Teferi, Hero of Dominaria
 2 Cosima, God of the Voyage
-1 Mystic Sanctuary
-2 Mystic Sanctuary
-2 Archmage's Charm
+3 Cryptic Command
+1 Archmage's Charm
+1 Field of Ruin
 4 Windswept Heath
 1 Utopia Sprawl
 2 Utopia Sprawl
@@ -48,12 +46,8 @@
 2 Collected Company
 3 Birds of Paradise
 3 Collected Company
-1 Oust
-1 Flooded Grove
-1 Deprive
-2 Oust
-3 Archmage's Charm
 2 Prismatic Vista
+1 Rimewood Falls
 1 Razorverge Thicket
 1 Glasspool Mimic
 1 Deputy of Detention
@@ -62,20 +56,28 @@
 2 Deputy of Detention
 3 Razorverge Thicket
 3 Archon of Emeria
-1 Snapcaster Mage
 2 Hallowed Fountain
-2 Field of Ruin
-3 Cryptic Command
-1 Scalding Tarn
+1 Mystic Sanctuary
+2 Mystic Sanctuary
+2 Archmage's Charm
+1 Celestial Colonnade
+2 Celestial Colonnade
+3 Remand
 1 Meddling Mage
 2 Meddling Mage
 3 Meddling Mage
+1 Scalding Tarn
+1 Oust
+1 Flooded Grove
+1 Deprive
+2 Oust
+3 Archmage's Charm
 4 Archon of Emeria
-1 Rimewood Falls
 1 Prairie Stream
 1 Niambi, Esteemed Speaker
-2 Snapcaster Mage
+1 Snapcaster Mage
 1 Opt
+2 Field of Ruin
 2 Opt
 3 Opt
 4 Opt
@@ -90,9 +92,6 @@
 1 Geist of Saint Traft
 1 Supreme Verdict
 3 Jace, the Mind Sculptor
-1 Celestial Colonnade
-2 Celestial Colonnade
-3 Remand
 1 Giver of Runes
 2 Giver of Runes
 2 Niambi, Esteemed Speaker
@@ -102,19 +101,19 @@
 1 Wooded Foothills
 1 Felidar Retreat
 1 Eternal Witness
-1 Knight of the Reliquary
-1 Courser of Kruphix
 1 Ramunap Excavator
+1 Courser of Kruphix
 1 Retreat to Coralhelm
+1 Knight of the Reliquary
 1 Azusa, Lost but Seeking
 2 Voice of Resurgence
 2 Forest
 2 Wooded Foothills
-2 Knight of the Reliquary
 2 Tireless Tracker
-2 Ghost Quarter
 2 Plains
+2 Ghost Quarter
 2 Courser of Kruphix
+2 Knight of the Reliquary
 3 Wooded Foothills
 3 Forest
 3 Tireless Tracker
@@ -135,6 +134,7 @@
 1 Shark Typhoon
 1 Arctic Treeline
 1 Polluted Delta
+2 Snapcaster Mage
 2 Shark Typhoon
 3 Field of Ruin
 5 Snow-Covered Island

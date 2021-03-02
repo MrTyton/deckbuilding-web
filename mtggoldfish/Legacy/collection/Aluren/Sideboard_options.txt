@@ -1,5 +1,6 @@
-1 Carpet of Flowers
+1 Scavenging Ooze
 2 Carpet of Flowers
+3 Surgical Extraction
 1 Deafening Silence
 1 Yorion, Sky Nomad
 1 Swords to Plowshares
@@ -8,14 +9,12 @@
 2 Swords to Plowshares
 3 Swords to Plowshares
 2 Force of Negation
-3 Surgical Extraction
+1 Reclamation Sage
 1 Force of Vigor
 1 Relic of Progenitus
 2 Relic of Progenitus
-1 Knight of Autumn
 1 Pyroblast
 1 Red Elemental Blast
-1 Reclamation Sage
 1 Nihil Spellbomb
 1 Pithing Needle
 1 Leovold, Emissary of Trest
@@ -23,8 +22,9 @@
 1 Blue Elemental Blast
 2 Nihil Spellbomb
 2 Meddling Mage
-1 Ashiok, Dream Render
 2 Pyroblast
+1 Ashiok, Dream Render
+1 Knight of Autumn
 1 Hydroblast
 1 Flusterstorm
 1 Hullbreacher
@@ -34,11 +34,10 @@
 1 Mindbreak Trap
 2 Mindbreak Trap
 1 Bojuka Bog
-1 Lavinia, Azorius Renegade
 1 Soul-Guide Lantern
 1 Orim's Chant
+1 Lavinia, Azorius Renegade
 1 Null Rod
-2 Hullbreacher
 2 Pithing Needle
 1 Karakas
 1 Fatal Push
@@ -46,16 +45,17 @@
 1 Crop Rotation
 2 Fatal Push
 2 Leovold, Emissary of Trest
+2 Hullbreacher
 2 Deafening Silence
-1 Tormod's Crypt
-2 Flusterstorm
-2 Hydroblast
-2 Ashiok, Dream Render
 1 Extirpate
 2 Extirpate
 1 Faerie Macabre
-2 Faerie Macabre
 2 Assassin's Trophy
+2 Faerie Macabre
+2 Ashiok, Dream Render
+1 Tormod's Crypt
+2 Hydroblast
+2 Flusterstorm
 1 Skyclave Apparition
 1 Oko, Thief of Crowns
 2 Abrupt Decay
@@ -66,8 +66,8 @@
 1 Cavern Harpy
 1 Plague Mare
 1 Ghost Quarter
-2 Blue Elemental Blast
 2 Reclamation Sage
+2 Blue Elemental Blast
 2 Swan Song
 1 Tyrant's Scorn
 3 Plague Engineer
