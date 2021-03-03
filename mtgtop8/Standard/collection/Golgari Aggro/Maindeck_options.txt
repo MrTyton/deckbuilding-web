@@ -4,30 +4,30 @@
 3 Forest
 3 Swamp
 4 Swamp
+1 Foulmire Knight
 1 Darkbore Pathway
 1 Edgewall Innkeeper
 1 Temple of Malady
 1 Lovestruck Beast
 1 Agadeem's Awakening
-1 Foulmire Knight
 1 Murderous Rider
+2 Foulmire Knight
 2 Lovestruck Beast
 2 Murderous Rider
-2 Foulmire Knight
 2 Temple of Malady
 2 Edgewall Innkeeper
 2 Darkbore Pathway
+3 Foulmire Knight
 3 Temple of Malady
 3 Lovestruck Beast
 3 Edgewall Innkeeper
 3 Murderous Rider
-3 Foulmire Knight
 3 Darkbore Pathway
+4 Foulmire Knight
 4 Temple of Malady
 4 Darkbore Pathway
 4 Lovestruck Beast
 4 Edgewall Innkeeper
-4 Foulmire Knight
 1 Sculptor of Winter
 2 Sculptor of Winter
 3 Sculptor of Winter
@@ -71,6 +71,7 @@
 4 Frantic Inventory
 1 Thassa, Deep-Dwelling
 4 Acolyte of Affliction
+1 Order of Midnight
 1 Blightstep Pathway
 1 Valki, God of Lies
 1 Scavenging Ooze
@@ -80,14 +81,13 @@
 1 Vivien, Monsters' Advocate
 1 Zagoth Triome
 1 Cragcrown Pathway
-1 Order of Midnight
+2 Order of Midnight
 2 Vivien, Monsters' Advocate
 2 Blightstep Pathway
 2 Valki, God of Lies
 2 Toski, Bearer of Secrets
 2 Scavenging Ooze
 2 Vorinclex, Monstrous Raider
-2 Order of Midnight
 2 Cragcrown Pathway
 2 Agadeem's Awakening
 2 Heartless Act
@@ -96,21 +96,21 @@
 3 Heartless Act
 3 Valki, God of Lies
 3 Cragcrown Pathway
-4 Heartless Act
 4 Blightstep Pathway
+4 Heartless Act
 4 Murderous Rider
 4 Cragcrown Pathway
 1 Realmwalker
-1 Grasp of Darkness
 1 Wolfwillow Haven
+1 Grasp of Darkness
 1 Skemfar Avenger
 1 Return Upon the Tide
 1 Harald Unites the Elves
 1 Boreal Outrider
 1 Thornmantle Striker
 1 Joraga Visionary
-2 Grasp of Darkness
 2 Wolfwillow Haven
+2 Grasp of Darkness
 2 Boreal Outrider
 2 Joraga Visionary
 3 Wolfwillow Haven
@@ -144,8 +144,8 @@
 3 Keeper of Fables
 3 Tajuru Blightblade
 3 Sarulf's Packmate
-4 Tajuru Blightblade
 4 Binding the Old Gods
+4 Tajuru Blightblade
 4 Keeper of Fables
 5 Forest
 6 Forest

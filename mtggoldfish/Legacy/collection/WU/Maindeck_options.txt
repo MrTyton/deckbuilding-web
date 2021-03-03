@@ -1,24 +1,93 @@
+1 Hullbreacher
+4 Island
+3 True-Name Nemesis
+3 Snow-Covered Island
+1 Vendilion Clique
+2 Force of Negation
+4 Daze
+2 Polluted Delta
+1 Back to Basics
+3 Tundra
+2 Spell Pierce
+5 Island
+2 Brazen Borrower
+1 Council's Judgment
+2 Hullbreacher
+1 Counterspell
+1 Supreme Verdict
+1 Wasteland
+2 Wasteland
+3 Wasteland
+2 Preordain
+1 Sword of Fire and Ice
+2 Council's Judgment
+4 Snow-Covered Island
+1 Spell Snare
+1 Volcanic Island
+1 Venser, Shaper Savant
+2 Snow-Covered Plains
+3 Scalding Tarn
+1 Staggering Insight
+1 Curious Obsession
+1 Invisible Stalker
+1 Ethereal Armor
+1 Kor Spiritdancer
+2 Staggering Insight
+2 Curious Obsession
+2 Invisible Stalker
+2 Ethereal Armor
+2 Kor Spiritdancer
+3 Curious Obsession
+3 Staggering Insight
+3 Invisible Stalker
+4 Curious Obsession
+4 Staggering Insight
+4 Invisible Stalker
+1 Narset, Parter of Veils
+2 Misty Rainforest
+5 Snow-Covered Island
+6 Island
+1 Paradigm Shift
+1 Thought Lash
 1 Shelldock Isle
+1 Jace, Wielder of Mysteries
 1 Ancient Tomb
 1 Thassa's Oracle
 1 Lotus Petal
 2 Thassa's Oracle
 2 Paradigm Shift
-2 Jace, Wielder of Mysteries
 2 Thought Lash
 2 Shelldock Isle
+2 Jace, Wielder of Mysteries
 2 Ancient Tomb
 2 Lotus Petal
 3 Paradigm Shift
 3 Thought Lash
 3 Thassa's Oracle
 3 Lotus Petal
+4 Thassa's Oracle
 4 Paradigm Shift
 4 Thought Lash
-4 Thassa's Oracle
 4 Lotus Petal
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
+4 Wasteland
+1 Underground Sea
+3 Polluted Delta
+1 Mystic Sanctuary
+1 Tropical Island
+1 Uro, Titan of Nature's Wrath
+1 Sylvan Library
+1 Noble Hierarch
+1 Savannah
+1 Life from the Loam
+1 Forest
+2 Uro, Titan of Nature's Wrath
+2 Forest
+2 Noble Hierarch
+3 Misty Rainforest
+3 Uro, Titan of Nature's Wrath
+3 Noble Hierarch
+4 Misty Rainforest
+4 Noble Hierarch
 1 Chrome Mox
 1 Curiosity
 2 Chrome Mox
@@ -29,17 +98,19 @@
 4 Preordain
 4 Kor Spiritdancer
 4 Ethereal Armor
-2 Island
-3 Island
-1 Wasteland
-2 Wasteland
-3 Swords to Plowshares
-3 Wasteland
-4 Wasteland
+1 Dovin's Veto
+3 Snow-Covered Plains
+4 Prismatic Vista
+6 Snow-Covered Island
+1 Ethereal Forager
+1 Delver of Secrets
+2 Ethereal Forager
+2 Delver of Secrets
+3 Delver of Secrets
+4 Delver of Secrets
 3 Teferi, Time Raveler
 1 Intuition
 1 Impulse
-1 Narset, Parter of Veils
 1 Chalice of the Void
 2 Narset, Parter of Veils
 2 Impulse
@@ -50,73 +121,69 @@
 3 Chalice of the Void
 4 Impulse
 4 Chalice of the Void
-4 Island
-5 Island
-6 Island
 7 Island
-1 Umezawa's Jitte
-1 True-Name Nemesis
-2 True-Name Nemesis
-1 Misty Rainforest
-1 Ethereal Forager
-1 Delver of Secrets
-1 Spell Pierce
-2 Ethereal Forager
-2 Delver of Secrets
-3 Delver of Secrets
-4 Delver of Secrets
-4 Swords to Plowshares
+1 Jace, Vryn's Prodigy
 1 Stifle
 2 Stifle
 3 Stifle
 4 Stifle
-1 Prismatic Vista
-2 Prismatic Vista
-3 Prismatic Vista
-1 Plains
-1 Lavinia, Azorius Renegade
-1 Hullbreacher
-2 Lavinia, Azorius Renegade
-3 Ethereal Forager
-1 Vindicate
-1 Jace, the Mind Sculptor
+1 Baleful Strix
+2 Baleful Strix
+3 Baleful Strix
 1 Scrubland
 1 Marsh Flats
-1 Sinkhole
 1 Drown in the Loch
-1 Underground Sea
-1 Snapcaster Mage
-2 Vindicate
-2 Marsh Flats
-2 Scrubland
-2 Sinkhole
 2 Underground Sea
-2 Snapcaster Mage
-2 Jace, the Mind Sculptor
-3 Sinkhole
-3 Snapcaster Mage
-3 Marsh Flats
-3 Polluted Delta
-3 Underground Sea
-3 Vindicate
-4 Sinkhole
-4 Vindicate
 4 Polluted Delta
-1 Batterskull
+1 Swamp
+1 Kaya, Orzhov Usurper
+1 Liliana, the Last Hope
+1 Cling to Dust
+1 Hymn to Tourach
+1 Liliana's Triumph
+1 Thoughtseize
+2 Thoughtseize
+2 Swamp
+2 Hymn to Tourach
+1 Snow-Covered Mountain
+1 Arid Mesa
+1 Sevinne's Reclamation
+1 Windswept Heath
+1 Sword of Feast and Famine
+2 Karakas
+2 Vendilion Clique
 1 Monastery Mentor
-1 Stoneforge Mystic
-2 Spell Pierce
 2 Monastery Mentor
-2 Stoneforge Mystic
-3 Scalding Tarn
-3 Stoneforge Mystic
-4 Stoneforge Mystic
+3 Plains
+1 Lavinia, Azorius Renegade
+2 Lavinia, Azorius Renegade
+3 Ethereal Forager
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
 3 Arcum's Astrolabe
-4 Snow-Covered Island
-5 Snow-Covered Island
-6 Snow-Covered Island
+1 Skyclave Apparition
+2 Skyclave Apparition
+3 Skyclave Apparition
+1 Unearth
+1 Inquisition of Kozilek
+1 Snow-Covered Swamp
+2 Drown in the Loch
+2 Unearth
+2 Inquisition of Kozilek
+3 Drown in the Loch
+3 Inquisition of Kozilek
+1 Vindicate
+1 Sinkhole
+2 Vindicate
+2 Marsh Flats
+2 Sinkhole
+2 Scrubland
+3 Sinkhole
+3 Underground Sea
+3 Vindicate
+3 Marsh Flats
+4 Sinkhole
+4 Vindicate
 1 Waterlogged Grove
 1 Laboratory Maniac
 2 Laboratory Maniac

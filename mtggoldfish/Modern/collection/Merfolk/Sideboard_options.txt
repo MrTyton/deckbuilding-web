@@ -1,28 +1,27 @@
 4 Pithing Needle
 2 Spreading Seas
-1 Deprive
-2 Deprive
 1 Lurrus of the Dream-Den
 2 Force of Negation
 3 Force of Negation
 4 Force of Negation
-4 Chalice of the Void
 1 Echoing Truth
+1 Deprive
+2 Deprive
+4 Chalice of the Void
 2 Echoing Truth
 1 Brazen Borrower
 2 Brazen Borrower
-1 Aether Gust
-2 Aether Gust
-3 Deprive
-3 Aether Gust
-4 Deprive
 1 Nihil Spellbomb
 2 Nihil Spellbomb
+1 Aether Gust
+2 Aether Gust
 3 Nihil Spellbomb
 4 Nihil Spellbomb
 4 Dismember
+3 Deprive
 1 Harbinger of the Tides
 2 Harbinger of the Tides
+3 Aether Gust
 1 Tidebinder Mage
 2 Tidebinder Mage
 1 Collector Ouphe
@@ -39,17 +38,25 @@
 1 Phyrexian Revoker
 1 Skyclave Apparition
 1 Auriok Champion
-2 Skyclave Apparition
 2 Auriok Champion
+2 Skyclave Apparition
 3 Skyclave Apparition
 1 Disrupting Shoal
+4 Deprive
+3 Spreading Seas
+4 Spreading Seas
 1 Veil of Summer
 2 Veil of Summer
 3 Veil of Summer
 1 Dispel
+1 Spell Pierce
+1 Mystic Reflection
+2 Spell Pierce
+2 Phyrexian Revoker
+1 Soul-Guide Lantern
+2 Soul-Guide Lantern
 1 Damping Sphere
 2 Damping Sphere
-2 Phyrexian Revoker
 3 Harbinger of the Tides
 1 Mana Leak
 2 Mana Leak
@@ -61,11 +68,6 @@
 2 Wizard's Retort
 2 Shapers' Sanctuary
 3 Wizard's Retort
-1 Spell Pierce
-1 Mystic Reflection
-2 Spell Pierce
-3 Spreading Seas
-4 Spreading Seas
 1 Repeal
 2 Repeal
 3 Repeal

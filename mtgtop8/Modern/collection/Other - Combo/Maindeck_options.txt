@@ -4,7 +4,6 @@
 2 Blood Moon
 3 Blood Moon
 1 Bala Ged Recovery
-1 Irencrag Feat
 1 Spikefield Hazard
 1 Valakut Awakening
 1 Recross the Paths
@@ -12,31 +11,32 @@
 1 Reforge the Soul
 1 Desperate Ritual
 1 Pyretic Ritual
-2 Irencrag Feat
+1 Irencrag Feat
 2 Bala Ged Recovery
-2 Valakut Awakening
 2 Spikefield Hazard
 2 Pyretic Ritual
+2 Irencrag Feat
 2 Manamorphose
 2 Recross the Paths
+2 Valakut Awakening
 2 Desperate Ritual
-3 Irencrag Feat
+3 Spikefield Hazard
 3 Goblin Charbelcher
 3 Manamorphose
 3 Pact of Negation
+3 Irencrag Feat
 3 Valakut Awakening
 3 Desperate Ritual
 3 Recross the Paths
 3 Pyretic Ritual
 3 Bala Ged Recovery
-3 Spikefield Hazard
-4 Irencrag Feat
 4 Shatterskull Smashing
 4 Goblin Charbelcher
 4 Spikefield Hazard
 4 Recross the Paths
 4 Valakut Awakening
 4 Pyretic Ritual
+4 Irencrag Feat
 4 Manamorphose
 4 Desperate Ritual
 4 Bala Ged Recovery
@@ -116,12 +116,12 @@
 1 Blackcleave Cliffs
 1 Bloodbraid Elf
 1 Seasoned Pyromancer
+2 Magus of the Moon
 2 Blood Crypt
 2 Verdant Catacombs
 2 Demonic Dread
 2 Seasoned Pyromancer
 2 Bloodbraid Elf
-2 Magus of the Moon
 2 Blackcleave Cliffs
 3 Magus of the Moon
 3 Verdant Catacombs
@@ -130,17 +130,17 @@
 3 Blackcleave Cliffs
 3 Bloodbraid Elf
 4 Verdant Catacombs
-4 Seasoned Pyromancer
 4 Demonic Dread
+4 Seasoned Pyromancer
 4 Blackcleave Cliffs
 4 Bloodbraid Elf
 1 Mana Confluence
 2 Mana Confluence
 1 Polluted Delta
 2 Polluted Delta
+1 Reflecting Pool
 1 Supreme Verdict
 1 Zagoth Triome
-1 Reflecting Pool
 1 Savai Triome
 1 Bonecrusher Giant
 3 Polluted Delta
@@ -192,10 +192,8 @@
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
 1 Khalni Garden
-1 Tranquil Thicket
 1 Field of the Dead
 1 Sheltered Thicket
-1 Hanweir Battlements
 1 Ghost Quarter
 1 Valakut, the Molten Pinnacle
 1 Tolaria West
@@ -204,6 +202,7 @@
 1 Castle Garenbrig
 1 Radiant Fountain
 1 Cavern of Souls
+1 Tranquil Thicket
 1 Sunhome, Fortress of the Legion
 1 Crumbling Vestige
 1 Slayers' Stronghold
@@ -211,67 +210,67 @@
 1 Windswept Heath
 1 Gruul Guildgate
 1 Vesuva
+1 Hanweir Battlements
 1 Jund Panorama
 1 Simic Growth Chamber
 1 Gruul Turf
 1 Grove of the Burnwillows
-2 Grove of the Burnwillows
 2 Gruul Turf
 2 Snow-Covered Forest
 2 Field of the Dead
 2 Valakut, the Molten Pinnacle
+2 Grove of the Burnwillows
 2 Castle Garenbrig
 2 Tolaria West
 2 Simic Growth Chamber
-3 Grove of the Burnwillows
 3 Tolaria West
-3 Gruul Turf
+3 Grove of the Burnwillows
 3 Castle Garenbrig
 3 Simic Growth Chamber
 3 Forest
+3 Gruul Turf
 4 Grove of the Burnwillows
 4 Gruul Turf
 1 Arid Mesa
 1 Sacred Foundry
 2 Arid Mesa
-1 Izzet Charm
+1 Polymorph
 1 Dwarven Mine
+1 Transmogrify
+1 Izzet Charm
 1 Bloodstained Mire
 1 Delay
-1 Transmogrify
 1 Opt
-1 Polymorph
 1 Remand
 1 Mass Hysteria
+2 Polymorph
+2 Dwarven Mine
+2 Transmogrify
 2 Izzet Charm
 2 Bloodstained Mire
 2 Delay
-2 Dwarven Mine
 2 Mass Hysteria
 2 Remand
-2 Transmogrify
 2 Lightning Bolt
-2 Polymorph
 2 Opt
+3 Transmogrify
+3 Dwarven Mine
+3 Polymorph
 3 Arid Mesa
 3 Opt
 3 Lightning Bolt
 3 Remand
-3 Polymorph
-3 Transmogrify
-3 Dwarven Mine
 3 Mass Hysteria
+4 Polymorph
 4 Lightning Bolt
 4 Remand
 4 Arid Mesa
-4 Polymorph
 4 Mass Hysteria
 4 Transmogrify
 1 Underworld Breach
 2 Snow-Covered Island
 1 Wishclaw Talisman
 1 Lotus Field
-1 Peer Through Depths
 1 Silundi Vision
 1 Darkslick Shores
 1 Sleight of Hand
@@ -285,6 +284,8 @@
 1 Past in Flames
 1 Dream's Grip
 1 Merchant Scroll
+1 Peer Through Depths
+2 Wishclaw Talisman
 2 Watery Grave
 2 Darkslick Shores
 2 Sleight of Hand
@@ -295,7 +296,6 @@
 2 Serum Visions
 2 Ideas Unbound
 2 Lotus Field
-2 Wishclaw Talisman
 2 Dream's Grip
 2 Past in Flames
 2 Twiddle
@@ -327,48 +327,49 @@
 2 Warrant / Warden
 3 Supreme Verdict
 4 Brazen Borrower
-1 Ulamog, the Infinite Gyre
-1 Aether Hub
-1 Omniscience
 1 Pillar of the Paruns
+1 Omniscience
+1 Ulamog, the Infinite Gyre
 1 Kozilek, Butcher of Truth
 1 Emrakul, the Promised End
+1 Aether Hub
 1 Brilliant Ultimatum
 1 Tendo Ice Bridge
 1 Gemstone Mine
 1 City of Brass
 2 Pillar of the Paruns
-2 Aether Hub
-2 Kozilek, Butcher of Truth
-2 Ulamog, the Infinite Gyre
 2 Tibalt's Trickery
 2 Omniscience
 2 Gemstone Mine
 2 Emrakul, the Promised End
 2 City of Brass
+2 Aether Hub
 2 Tendo Ice Bridge
 2 Brilliant Ultimatum
+2 Ulamog, the Infinite Gyre
+2 Kozilek, Butcher of Truth
 3 Omniscience
 3 Pillar of the Paruns
-3 Aether Hub
-3 Ulamog, the Infinite Gyre
 3 Gemstone Mine
 3 City of Brass
 3 Emrakul, the Promised End
+3 Ulamog, the Infinite Gyre
+3 Aether Hub
 3 Kozilek, Butcher of Truth
 3 Brilliant Ultimatum
 4 Omniscience
 4 Pillar of the Paruns
 4 Gemstone Mine
 4 Ulamog, the Infinite Gyre
-4 Aether Hub
 4 City of Brass
+4 Aether Hub
 4 Brilliant Ultimatum
 1 Nykthos, Shrine to Nyx
 1 Oust
 1 Solemnity
 1 Marsh Flats
 1 Overwhelming Splendor
+1 Silence
 1 Nine Lives
 1 Deafening Clarion
 1 Temple of Triumph
@@ -377,7 +378,6 @@
 1 Treasure Map
 1 Form of the Dragon
 1 Plains
-1 Silence
 1 Mistveil Plains
 1 Enduring Ideal
 1 Skyclave Apparition
@@ -385,9 +385,9 @@
 1 Phyrexian Unlife
 2 Nykthos, Shrine to Nyx
 2 Oust
-2 Silence
 2 Marsh Flats
 2 Temple of Triumph
+2 Silence
 2 Nine Lives
 2 Enduring Ideal
 2 Plains
@@ -399,18 +399,18 @@
 2 Solemnity
 2 Lotus Bloom
 3 Plains
-3 Oust
 3 Skyclave Apparition
 3 Sacred Foundry
 3 Marsh Flats
 3 Silence
 3 Solemnity
+3 Oust
 3 Lotus Bloom
 3 Enduring Ideal
 3 Nine Lives
 4 Plains
-4 Marsh Flats
 4 Sacred Foundry
+4 Marsh Flats
 4 Silence
 4 Enduring Ideal
 5 Plains

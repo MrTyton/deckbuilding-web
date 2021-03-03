@@ -5,30 +5,7 @@
 3 Foundry Street Denizen
 4 Goblin Grenade
 4 Foundry Street Denizen
-1 Sacred Foundry
 2 Devastating Summons
-1 Fiery Islet
-2 Fiery Islet
-1 Sunbaked Canyon
-1 Grim Lavamancer
-1 Light Up the Stage
-1 Inspiring Vantage
-1 Arid Mesa
-2 Sunbaked Canyon
-2 Sacred Foundry
-2 Light Up the Stage
-2 Grim Lavamancer
-2 Inspiring Vantage
-2 Arid Mesa
-3 Sunbaked Canyon
-3 Inspiring Vantage
-3 Light Up the Stage
-3 Arid Mesa
-4 Sunbaked Canyon
-4 Arid Mesa
-4 Inspiring Vantage
-1 Mogg Fanatic
-1 Forest
 6 Mountain
 7 Mountain
 8 Mountain
@@ -37,19 +14,45 @@
 11 Mountain
 12 Mountain
 13 Mountain
+1 Sacred Foundry
+1 Mogg Fanatic
+1 Grim Lavamancer
+1 Light Up the Stage
+2 Light Up the Stage
+2 Grim Lavamancer
+3 Light Up the Stage
+1 Fiery Islet
+2 Fiery Islet
+1 Sunbaked Canyon
+1 Arid Mesa
+1 Inspiring Vantage
+2 Arid Mesa
+2 Sacred Foundry
+2 Inspiring Vantage
+2 Sunbaked Canyon
+3 Arid Mesa
+3 Inspiring Vantage
+3 Sunbaked Canyon
+4 Inspiring Vantage
+4 Sunbaked Canyon
+4 Arid Mesa
+1 Forest
+14 Mountain
 1 Hexdrinker
 2 Hexdrinker
+2 Mogg Fanatic
 1 Scale Up
 2 Scale Up
-2 Mogg Fanatic
+1 Wayward Guide-Beast
+2 Wayward Guide-Beast
 1 Simian Spirit Guide
-1 Verdant Catacombs
 1 Windswept Heath
 1 Temple Garden
 1 Dryad Arbor
 1 Wild Nacatl
 1 Hidden Herbalists
 1 Pelt Collector
+1 Verdant Catacombs
 1 Copperline Gorge
 1 Kird Ape
 1 Ghor-Clan Rampager
@@ -67,10 +70,11 @@
 4 Wild Nacatl
 4 Pelt Collector
 4 Kird Ape
-14 Mountain
+1 Ramunap Ruins
+2 Ramunap Ruins
+3 Ramunap Ruins
+4 Ramunap Ruins
 15 Mountain
-1 Wayward Guide-Beast
-2 Wayward Guide-Beast
 2 Windswept Heath
 2 Ghor-Clan Rampager
 1 Snow-Covered Forest
@@ -78,6 +82,13 @@
 3 Verdant Catacombs
 4 Verdant Catacombs
 4 Hidden Herbalists
+1 Roiling Vortex
+1 Fanatical Firebrand
+2 Roiling Vortex
+2 Fanatical Firebrand
+3 Fanatical Firebrand
+3 Devastating Summons
+4 Fanatical Firebrand
 1 Goblin Instigator
 1 Stoke the Flames
 1 Mogg War Marshal
@@ -92,17 +103,6 @@
 4 Goblin Instigator
 4 Fiery Islet
 4 Stoke the Flames
-1 Ramunap Ruins
-1 Roiling Vortex
-1 Fanatical Firebrand
-2 Roiling Vortex
-2 Fanatical Firebrand
-2 Ramunap Ruins
-3 Fanatical Firebrand
-3 Devastating Summons
-3 Ramunap Ruins
-4 Fanatical Firebrand
-4 Ramunap Ruins
 1 Panic Spellbomb
 1 Kuldotha Rebirth
 1 Ornithopter

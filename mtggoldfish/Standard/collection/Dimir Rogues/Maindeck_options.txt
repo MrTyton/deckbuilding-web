@@ -5,57 +5,59 @@
 2 Eliminate
 3 Lullmage's Domination
 2 Didn't Say Please
-6 Island
 1 Castle Locthwain
-1 Castle Vantress
+6 Island
 3 Zagoth Triome
 4 Heartless Act
-1 Extinction Event
-1 Snow-Covered Swamp
 1 Snow-Covered Island
-2 Snow-Covered Island
+1 Snow-Covered Swamp
 2 Snow-Covered Swamp
-3 Snow-Covered Island
+2 Snow-Covered Island
 3 Snow-Covered Swamp
+3 Snow-Covered Island
 4 Snow-Covered Island
 5 Snow-Covered Island
+1 Castle Vantress
 1 Lurrus of the Dream-Den
+1 Extinction Event
 1 Negate
+1 Behold the Multiverse
+2 Behold the Multiverse
+3 Behold the Multiverse
+4 Behold the Multiverse
 3 Bloodchief's Thirst
 4 Zagoth Triome
 1 Valki, God of Lies
 1 Riverglide Pathway
 1 Blightstep Pathway
 1 Saw It Coming
-1 Behold the Multiverse
 2 Saw It Coming
-2 Behold the Multiverse
-3 Behold the Multiverse
 3 Saw It Coming
 4 Saw It Coming
-4 Behold the Multiverse
 1 Mystical Dispute
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
 2 Valki, God of Lies
 2 Riverglide Pathway
 1 Dead Weight
+7 Island
 1 Nighthawk Scavenger
 2 Nighthawk Scavenger
-7 Island
-1 Ashiok, Nightmare Muse
-1 Ashiok's Erasure
 1 Teferi's Tutelage
-1 Midnight Clock
-2 Negate
-2 Extinction Event
-2 Ashiok's Erasure
-2 Castle Vantress
-2 Midnight Clock
-2 Ashiok, Nightmare Muse
 2 Teferi's Tutelage
 3 Teferi's Tutelage
 4 Teferi's Tutelage
+1 Ashiok, Nightmare Muse
+1 Midnight Clock
+1 Ashiok's Erasure
+2 Ashiok, Nightmare Muse
+2 Negate
+2 Extinction Event
+2 Midnight Clock
+2 Ashiok's Erasure
+2 Castle Vantress
+1 Crippling Fear
+1 Disdainful Stroke
 2 Lurrus of the Dream-Den
 2 Blightstep Pathway
 2 Castle Locthwain
@@ -65,7 +67,6 @@
 3 Riverglide Pathway
 4 Valki, God of Lies
 4 Bloodchief's Thirst
-1 Disdainful Stroke
 2 Dead Weight
 1 Brazen Borrower
 1 Zareth San, the Trickster
@@ -73,16 +74,27 @@
 2 Zareth San, the Trickster
 3 Nighthawk Scavenger
 4 Nighthawk Scavenger
-1 Cling to Dust
-1 Crippling Fear
+3 Didn't Say Please
+4 Didn't Say Please
+1 Anticognition
 4 Of One Mind
 1 Lofty Denial
 2 Lofty Denial
+1 Merfolk Secretkeeper
 1 Evolving Wilds
+1 Dismal Backwater
+2 Dismal Backwater
 2 Evolving Wilds
+2 Merfolk Secretkeeper
+3 Dismal Backwater
 3 Evolving Wilds
+3 Merfolk Secretkeeper
+4 Dismal Backwater
 4 Evolving Wilds
-1 Anticognition
+6 Swamp
+7 Swamp
+8 Island
+1 Cling to Dust
 2 Mystical Dispute
 1 Mire's Grasp
 1 Call of the Death-Dweller
@@ -90,15 +102,6 @@
 2 Mire's Grasp
 1 Varragoth, Bloodsky Sire
 2 Varragoth, Bloodsky Sire
-1 Jwari Disruption
-1 Miscast
-1 Maddening Cacophony
-1 Whirlwind Denial
-2 Jwari Disruption
-2 Miscast
-2 Maddening Cacophony
-2 Whirlwind Denial
-3 Jwari Disruption
 1 Sea Gate Restoration
 1 Faceless Haven
 1 Graven Lore
@@ -109,8 +112,16 @@
 3 Faceless Haven
 3 Ice Tunnel
 4 Ice Tunnel
-3 Didn't Say Please
-4 Didn't Say Please
+1 Grasp of Darkness
+1 Raise the Draugr
+1 Zulaport Duelist
+1 Expedition Skulker
+2 Grasp of Darkness
+2 Raise the Draugr
+2 Expedition Skulker
+2 Zulaport Duelist
+3 Zulaport Duelist
+4 Zulaport Duelist
 1 Rankle, Master of Pranks
 1 Slitherwisp
 1 Blacklance Paragon
@@ -119,23 +130,14 @@
 3 Lofty Denial
 3 Brazen Borrower
 4 Lofty Denial
-1 Grasp of Darkness
-1 Merfolk Secretkeeper
-1 Raise the Draugr
-1 Zulaport Duelist
-1 Expedition Skulker
-1 Dismal Backwater
-2 Grasp of Darkness
-2 Raise the Draugr
-2 Expedition Skulker
-2 Dismal Backwater
-2 Merfolk Secretkeeper
-2 Zulaport Duelist
-3 Dismal Backwater
-3 Zulaport Duelist
-3 Merfolk Secretkeeper
-4 Dismal Backwater
-4 Zulaport Duelist
-6 Swamp
-7 Swamp
-8 Island
+1 Peer into the Abyss
+1 Shadows' Verdict
+1 Vanquish the Weak
+1 Feed the Swarm
+2 Vanquish the Weak
+2 Anticognition
+2 Feed the Swarm
+3 Vanquish the Weak
+4 Merfolk Secretkeeper
+8 Swamp
+9 Island

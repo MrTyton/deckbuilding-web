@@ -122,8 +122,8 @@
 2 Vivien, Monsters' Advocate
 2 Mazemind Tome
 3 Mazemind Tome
-4 Mazemind Tome
 4 Elspeth Conquers Death
+4 Mazemind Tome
 1 Scorching Dragonfire
 3 Shatterskull Smashing
 1 Cultivate
@@ -141,11 +141,11 @@
 3 Glass Casket
 4 Eliminate
 4 Archon of Sun's Grace
-4 Heartless Act
 4 Lithoform Blight
+4 Heartless Act
 4 Extinction Event
-2 Tergrid, God of Fright
 2 Doomskar
+2 Tergrid, God of Fright
 3 Tergrid, God of Fright
 4 Tergrid, God of Fright
 1 Calix, Destiny's Hand
@@ -191,14 +191,14 @@
 3 Emeria's Call
 3 Wicked Wolf
 4 Wicked Wolf
-4 Emeria's Call
 4 Trail of Crumbs
+4 Emeria's Call
 5 Forest
 6 Forest
 1 Lotus Cobra
 1 Chevill, Bane of Monsters
-1 Skull Prophet
 1 Wolfwillow Haven
+1 Skull Prophet
 1 Mire Triton
 2 Lotus Cobra
 2 Yasharn, Implacable Earth
@@ -207,8 +207,8 @@
 6 Swamp
 3 Ugin, the Spirit Dragon
 3 Solemn Simulacrum
-4 Solemn Simulacrum
 4 Ugin, the Spirit Dragon
+4 Solemn Simulacrum
 3 Llanowar Visionary
 4 Llanowar Visionary
 1 Snow-Covered Forest
@@ -222,8 +222,9 @@
 1 Sculptor of Winter
 1 Snow-Covered Plains
 1 Shimmerdrift Vale
-1 Great Hall of Starnheim
 1 Grasp of Darkness
+1 Great Hall of Starnheim
+1 Snowfield Sinkhole
 1 Skull Raid
 1 Arctic Treeline
 1 Sarulf's Packmate
@@ -232,13 +233,13 @@
 1 Shepherd of the Flock
 1 Woodland Chasm
 1 Kogla, the Titan Ape
-1 Snowfield Sinkhole
 1 Elderfang Disciple
 2 Omen of the Hunt
 2 Evolving Wilds
 2 Sculptor of Winter
 2 Shimmerdrift Vale
 2 Grasp of Darkness
+2 Snowfield Sinkhole
 2 Skull Raid
 2 Feed the Serpent
 2 Sarulf's Packmate
@@ -246,7 +247,6 @@
 2 Elderfang Disciple
 2 Rampage of the Valkyries
 2 Arctic Treeline
-2 Snowfield Sinkhole
 2 Woodland Chasm
 3 Omen of the Hunt
 3 Evolving Wilds
@@ -297,21 +297,21 @@
 1 Vorinclex, Monstrous Raider
 1 Zagoth Triome
 1 Snow-Covered Mountain
-2 Liliana, Waker of the Dead
 2 Dream Devourer
 2 Vorinclex, Monstrous Raider
 2 Cragcrown Pathway
 2 Blightstep Pathway
+2 Liliana, Waker of the Dead
 2 Snow-Covered Mountain
 3 Vorinclex, Monstrous Raider
 3 Dream Devourer
 3 Blightstep Pathway
 4 Vorinclex, Monstrous Raider
-4 Cultivate
 4 Lukka, Coppercoat Outcast
 4 Dream Devourer
 4 Valki, God of Lies
 4 Blightstep Pathway
+4 Cultivate
 1 Storm's Wrath
 1 Bonecrusher Giant
 1 Ox of Agonas
@@ -330,11 +330,11 @@
 1 Neutralize
 1 Rewind
 1 Silundi Vision
-1 Mystic Sanctuary
 1 Frantic Inventory
 1 Shark Typhoon
 1 Kiora Bests the Sea God
 1 Into the Roil
+1 Mystic Sanctuary
 1 Hypnotic Sprite
 1 Jwari Disruption
 1 Essence Scatter
@@ -346,7 +346,6 @@
 1 Gadwick, the Wizened
 2 Castle Vantress
 2 Neutralize
-2 Rewind
 2 Frantic Inventory
 2 Shark Typhoon
 2 Essence Scatter
@@ -355,6 +354,7 @@
 2 Gadwick, the Wizened
 2 Brazen Borrower
 2 Rain of Revelation
+2 Rewind
 2 Hypnotic Sprite
 3 Neutralize
 3 Frantic Inventory

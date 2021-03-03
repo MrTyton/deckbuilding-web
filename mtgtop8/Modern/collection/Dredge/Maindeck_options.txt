@@ -15,9 +15,9 @@
 1 Forest
 1 Watery Grave
 1 Breeding Pool
+1 Merfolk Secretkeeper
 1 Vengevine
 1 Misty Rainforest
-1 Merfolk Secretkeeper
 1 Overgrown Tomb
 1 Island
 1 Hedron Crab
@@ -33,14 +33,14 @@
 2 Gravecrawler
 2 Hedron Crab
 2 Misty Rainforest
-3 Polluted Delta
 3 Vengevine
+3 Polluted Delta
 3 Merfolk Secretkeeper
 3 Hedron Crab
 3 Stitcher's Supplier
 3 Gravecrawler
-4 Polluted Delta
 4 Vengevine
+4 Polluted Delta
 4 Gravecrawler
 4 Hedron Crab
 4 Stitcher's Supplier
@@ -52,6 +52,29 @@
 3 Golgari Thug
 4 Silversmote Ghoul
 4 Arid Mesa
+1 Satyr Wayfinder
+1 Unearth
+1 Drown in Filth
+1 Rotting Rats
+1 Darkslick Shores
+1 Driven / Despair
+2 Satyr Wayfinder
+2 Unearth
+2 Driven / Despair
+2 Darkslick Shores
+2 Rotting Rats
+2 Drown in Filth
+3 Satyr Wayfinder
+3 Darkslick Shores
+3 Unearth
+3 Misty Rainforest
+3 Drown in Filth
+3 Rotting Rats
+4 Satyr Wayfinder
+4 Darkslick Shores
+4 Merfolk Secretkeeper
+4 Rotting Rats
+4 Misty Rainforest
 1 Blast Zone
 4 Bloodstained Mire
 1 Glimpse the Unthinkable
@@ -67,26 +90,3 @@
 3 Verdant Catacombs
 4 Verdant Catacombs
 4 Glimpse the Unthinkable
-1 Satyr Wayfinder
-1 Unearth
-1 Drown in Filth
-1 Rotting Rats
-1 Darkslick Shores
-1 Driven / Despair
-2 Satyr Wayfinder
-2 Unearth
-2 Driven / Despair
-2 Darkslick Shores
-2 Rotting Rats
-2 Drown in Filth
-3 Satyr Wayfinder
-3 Unearth
-3 Darkslick Shores
-3 Misty Rainforest
-3 Drown in Filth
-3 Rotting Rats
-4 Satyr Wayfinder
-4 Darkslick Shores
-4 Rotting Rats
-4 Misty Rainforest
-4 Merfolk Secretkeeper
