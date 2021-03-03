@@ -77,9 +77,6 @@
 1 Gates of Istfell
 3 Field of Ruin
 3 Niko Aris
-4 Disdainful Stroke
-4 Jwari Disruption
-4 Crawling Barrens
 1 Fae of Wishes
 1 Baneslayer Angel
 2 Fae of Wishes
@@ -94,6 +91,9 @@
 2 Neutralize
 3 Neutralize
 4 Neutralize
+4 Jwari Disruption
+4 Disdainful Stroke
+4 Crawling Barrens
 3 Castle Ardenvale
 3 Solemn Simulacrum
 4 Solemn Simulacrum
@@ -127,12 +127,6 @@
 1 Bubble Snare
 2 Bubble Snare
 3 Bubble Snare
-1 Ravenform
-2 Gates of Istfell
-2 Ravenform
-3 Gates of Istfell
-3 Alrund's Epiphany
-4 Midnight Clock
 1 Cosima, God of the Voyage
 1 Ugin, the Spirit Dragon
 1 Snow-Covered Plains
@@ -143,6 +137,12 @@
 3 Snow-Covered Island
 3 Snow-Covered Plains
 4 Snow-Covered Island
+4 Snow-Covered Plains
 5 Snow-Covered Island
 6 Snow-Covered Island
-4 Snow-Covered Plains
+1 Ravenform
+2 Gates of Istfell
+2 Ravenform
+3 Alrund's Epiphany
+3 Gates of Istfell
+4 Midnight Clock

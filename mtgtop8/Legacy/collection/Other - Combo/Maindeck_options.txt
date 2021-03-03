@@ -1,3 +1,9 @@
+1 Swamp
+5 Island
+1 Misty Rainforest
+2 Prismatic Vista
+2 Misty Rainforest
+3 Misty Rainforest
 1 Ancient Tomb
 2 Ancient Tomb
 1 Lotus Petal
@@ -55,21 +61,20 @@
 2 Veil of Summer
 2 Spell Pierce
 3 Veil of Summer
-1 Mission Briefing
+1 Castle Vantress
+1 Maddening Cacophony
+2 Maddening Cacophony
+3 Maddening Cacophony
 1 Bruvac the Grandiloquent
-2 Mission Briefing
-3 Surgical Extraction
 3 Mission Briefing
 4 Glimpse the Unthinkable
 1 Thieves' Guild Enforcer
-1 Drown in the Loch
 1 Bitterblossom
-1 Brain Freeze
+1 Drown in the Loch
 1 Snow-Covered Swamp
 2 Thieves' Guild Enforcer
 2 Drown in the Loch
 2 Bitterblossom
-2 Brain Freeze
 3 Underground Sea
 3 Prismatic Vista
 3 Thieves' Guild Enforcer
@@ -115,8 +120,8 @@
 3 Agadeem's Awakening
 3 Cabal Ritual
 3 Narcomoeba
-3 Undercity Informer
 3 Pact of Negation
+3 Undercity Informer
 3 Dark Ritual
 3 Simian Spirit Guide
 4 Chrome Mox
@@ -151,8 +156,8 @@
 4 Swords to Plowshares
 4 Splinter Twin
 4 Arcum's Astrolabe
-1 Allosaurus Shepherd
 1 Once Upon a Time
+1 Allosaurus Shepherd
 1 Children of Korlis
 1 Laboratory Maniac
 1 Griselbrand
@@ -160,17 +165,17 @@
 1 Neoform
 1 Chancellor of the Tangle
 1 Nourishing Shoal
-1 Xantid Swarm
 1 Allosaurus Rider
 1 Autochthon Wurm
+1 Xantid Swarm
 2 Waterlogged Grove
-2 Allosaurus Shepherd
 2 Once Upon a Time
+2 Allosaurus Shepherd
 2 Allosaurus Rider
 2 Autochthon Wurm
-2 Neoform
 2 Chancellor of the Tangle
 2 Xantid Swarm
+2 Neoform
 2 Nourishing Shoal
 2 Eldritch Evolution
 3 Tropical Island
@@ -199,7 +204,6 @@
 3 Tundra
 3 Shelldock Isle
 4 Impulse
-5 Island
 6 Island
 7 Island
 1 Jace, the Mind Sculptor
@@ -226,6 +230,6 @@
 3 Blood Moon
 3 Izzet Charm
 4 Hullbreacher
-4 Day's Undoing
 4 Ancient Tomb
+4 Day's Undoing
 4 Izzet Charm

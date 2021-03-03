@@ -15,27 +15,27 @@
 3 Horizon Canopy
 4 Horizon Canopy
 1 Branchloft Pathway
+1 Forest
+1 Razorverge Thicket
+1 Temple Garden
+1 Oath of Nissa
 1 Eternal Witness
 1 Noble Hierarch
-1 Razorverge Thicket
-1 Forest
-1 Oath of Nissa
-1 Temple Garden
 1 Stirring Wildwood
-2 Noble Hierarch
 2 Temple Garden
-2 Razorverge Thicket
 2 Forest
+2 Razorverge Thicket
 2 Oath of Nissa
 2 Branchloft Pathway
+2 Noble Hierarch
 2 Eternal Witness
-3 Noble Hierarch
 3 Razorverge Thicket
+3 Temple Garden
 3 Oath of Nissa
 3 Branchloft Pathway
-3 Temple Garden
-4 Noble Hierarch
+3 Noble Hierarch
 4 Oath of Nissa
+4 Noble Hierarch
 4 Razorverge Thicket
 4 Temple Garden
 4 Branchloft Pathway
@@ -59,9 +59,9 @@
 1 Shalai, Voice of Plenty
 2 Shalai, Voice of Plenty
 3 Scavenging Ooze
-1 Sacred Foundry
 1 Mountain
 1 Magus of the Moon
+1 Sacred Foundry
 2 Magus of the Moon
 3 Magus of the Moon
 4 Inspiring Vantage
@@ -70,38 +70,38 @@
 1 Spellskite
 2 Spellskite
 3 Reidane, God of the Worthy
-1 Tectonic Edge
 1 Flagstones of Trokair
+1 Tectonic Edge
 2 Flagstones of Trokair
 2 Tectonic Edge
 3 Flagstones of Trokair
 3 Tectonic Edge
 4 Tectonic Edge
-1 Snow-Covered Mountain
-1 Akiri, Fearless Voyager
-1 Needleverge Pathway
-1 Cleansing Wildfire
-2 Needleverge Pathway
-2 Cleansing Wildfire
-3 Needleverge Pathway
-3 Cleansing Wildfire
-4 Needleverge Pathway
-4 Cleansing Wildfire
-4 Archon of Emeria
-11 Snow-Covered Plains
-1 Hallowed Fountain
 1 Seachrome Coast
 1 Spell Queller
 1 Moorland Haunt
+1 Hallowed Fountain
 1 Flooded Strand
 1 Adarkar Wastes
 2 Moorland Haunt
-2 Seachrome Coast
 2 Spell Queller
-2 Hallowed Fountain
+2 Flooded Strand
+2 Seachrome Coast
 2 Adarkar Wastes
+2 Hallowed Fountain
 3 Spell Queller
 3 Seachrome Coast
 4 Seachrome Coast
 4 Spell Queller
-2 Flooded Strand
+4 Archon of Emeria
+11 Snow-Covered Plains
+1 Snow-Covered Mountain
+1 Akiri, Fearless Voyager
+1 Cleansing Wildfire
+1 Needleverge Pathway
+2 Cleansing Wildfire
+2 Needleverge Pathway
+3 Cleansing Wildfire
+3 Needleverge Pathway
+4 Cleansing Wildfire
+4 Needleverge Pathway

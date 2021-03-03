@@ -3,6 +3,7 @@
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
+1 Irencrag Feat
 1 Bala Ged Recovery
 1 Spikefield Hazard
 1 Valakut Awakening
@@ -11,32 +12,31 @@
 1 Reforge the Soul
 1 Desperate Ritual
 1 Pyretic Ritual
-1 Irencrag Feat
-2 Bala Ged Recovery
-2 Spikefield Hazard
-2 Pyretic Ritual
 2 Irencrag Feat
+2 Spikefield Hazard
+2 Bala Ged Recovery
+2 Pyretic Ritual
 2 Manamorphose
 2 Recross the Paths
 2 Valakut Awakening
 2 Desperate Ritual
+3 Irencrag Feat
 3 Spikefield Hazard
 3 Goblin Charbelcher
 3 Manamorphose
 3 Pact of Negation
-3 Irencrag Feat
 3 Valakut Awakening
 3 Desperate Ritual
 3 Recross the Paths
 3 Pyretic Ritual
 3 Bala Ged Recovery
+4 Irencrag Feat
 4 Shatterskull Smashing
 4 Goblin Charbelcher
 4 Spikefield Hazard
 4 Recross the Paths
 4 Valakut Awakening
 4 Pyretic Ritual
-4 Irencrag Feat
 4 Manamorphose
 4 Desperate Ritual
 4 Bala Ged Recovery
@@ -138,9 +138,9 @@
 2 Mana Confluence
 1 Polluted Delta
 2 Polluted Delta
-1 Reflecting Pool
 1 Supreme Verdict
 1 Zagoth Triome
+1 Reflecting Pool
 1 Savai Triome
 1 Bonecrusher Giant
 3 Polluted Delta
@@ -191,16 +191,16 @@
 1 Tibalt's Trickery
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
-1 Khalni Garden
 1 Field of the Dead
 1 Sheltered Thicket
 1 Ghost Quarter
 1 Valakut, the Molten Pinnacle
+1 Khalni Garden
 1 Tolaria West
-1 Bojuka Bog
 1 Blast Zone
 1 Castle Garenbrig
 1 Radiant Fountain
+1 Bojuka Bog
 1 Cavern of Souls
 1 Tranquil Thicket
 1 Sunhome, Fortress of the Legion
@@ -215,11 +215,11 @@
 1 Simic Growth Chamber
 1 Gruul Turf
 1 Grove of the Burnwillows
-2 Gruul Turf
 2 Snow-Covered Forest
 2 Field of the Dead
 2 Valakut, the Molten Pinnacle
 2 Grove of the Burnwillows
+2 Gruul Turf
 2 Castle Garenbrig
 2 Tolaria West
 2 Simic Growth Chamber
@@ -234,44 +234,43 @@
 1 Arid Mesa
 1 Sacred Foundry
 2 Arid Mesa
-1 Polymorph
 1 Dwarven Mine
-1 Transmogrify
 1 Izzet Charm
 1 Bloodstained Mire
 1 Delay
+1 Transmogrify
 1 Opt
+1 Polymorph
 1 Remand
 1 Mass Hysteria
-2 Polymorph
-2 Dwarven Mine
-2 Transmogrify
 2 Izzet Charm
 2 Bloodstained Mire
 2 Delay
+2 Dwarven Mine
 2 Mass Hysteria
 2 Remand
+2 Transmogrify
 2 Lightning Bolt
+2 Polymorph
 2 Opt
-3 Transmogrify
-3 Dwarven Mine
-3 Polymorph
 3 Arid Mesa
 3 Opt
 3 Lightning Bolt
 3 Remand
+3 Polymorph
+3 Transmogrify
+3 Dwarven Mine
 3 Mass Hysteria
-4 Polymorph
 4 Lightning Bolt
 4 Remand
 4 Arid Mesa
+4 Polymorph
 4 Mass Hysteria
 4 Transmogrify
 1 Underworld Breach
 2 Snow-Covered Island
 1 Wishclaw Talisman
 1 Lotus Field
-1 Silundi Vision
 1 Darkslick Shores
 1 Sleight of Hand
 1 Serum Visions
@@ -282,10 +281,10 @@
 1 Psychic Puppetry
 1 Grapeshot
 1 Past in Flames
+1 Silundi Vision
 1 Dream's Grip
 1 Merchant Scroll
 1 Peer Through Depths
-2 Wishclaw Talisman
 2 Watery Grave
 2 Darkslick Shores
 2 Sleight of Hand
@@ -296,6 +295,7 @@
 2 Serum Visions
 2 Ideas Unbound
 2 Lotus Field
+2 Wishclaw Talisman
 2 Dream's Grip
 2 Past in Flames
 2 Twiddle
@@ -370,14 +370,14 @@
 1 Marsh Flats
 1 Overwhelming Splendor
 1 Silence
-1 Nine Lives
 1 Deafening Clarion
-1 Temple of Triumph
 1 Wheel of Sun and Moon
 1 Dovescape
 1 Treasure Map
 1 Form of the Dragon
+1 Nine Lives
 1 Plains
+1 Temple of Triumph
 1 Mistveil Plains
 1 Enduring Ideal
 1 Skyclave Apparition
@@ -386,26 +386,26 @@
 2 Nykthos, Shrine to Nyx
 2 Oust
 2 Marsh Flats
-2 Temple of Triumph
 2 Silence
-2 Nine Lives
 2 Enduring Ideal
 2 Plains
+2 Temple of Triumph
 2 Sacred Foundry
 2 Phyrexian Unlife
 2 Form of the Dragon
 2 Skyclave Apparition
+2 Nine Lives
 2 Treasure Map
 2 Solemnity
 2 Lotus Bloom
 3 Plains
 3 Skyclave Apparition
+3 Oust
 3 Sacred Foundry
 3 Marsh Flats
-3 Silence
 3 Solemnity
-3 Oust
 3 Lotus Bloom
+3 Silence
 3 Enduring Ideal
 3 Nine Lives
 4 Plains
@@ -419,8 +419,8 @@
 1 Snow-Covered Mountain
 1 Engineered Explosives
 1 Metallic Rebuke
-1 Sai, Master Thopterist
 1 Mishra's Bauble
+1 Sai, Master Thopterist
 1 Minamo, School at Water's Edge
 1 Grinding Station
 1 Chromatic Star

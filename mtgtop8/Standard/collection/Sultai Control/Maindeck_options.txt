@@ -1,14 +1,13 @@
 4 Fabled Passage
-1 Vorinclex, Monstrous Raider
 3 Shadows' Verdict
-3 Island
+1 Vorinclex, Monstrous Raider
 1 Behold the Multiverse
 2 Behold the Multiverse
-3 Sea Gate Restoration
+3 Island
 1 Mystical Dispute
 2 Mystical Dispute
-1 Tangled Florahedron
 1 Temple of Malady
+1 Tangled Florahedron
 1 Esika's Chariot
 1 Duress
 2 Temple of Malady
@@ -16,19 +15,20 @@
 2 Tangled Florahedron
 3 Esika's Chariot
 3 Temple of Malady
+3 Sea Gate Restoration
 4 Temple of Malady
-2 Extinction Event
-1 Jwari Disruption
-2 Jwari Disruption
-1 Eliminate
-3 Swamp
 3 Alrund's Epiphany
 1 Mazemind Tome
+1 Jwari Disruption
 2 Mazemind Tome
-1 Elder Gargaroth
+2 Jwari Disruption
+1 Eliminate
+2 Extinction Event
 1 Negate
-2 Ketria Triome
+3 Swamp
+1 Elder Gargaroth
 3 Mazemind Tome
+2 Ketria Triome
 3 Jwari Disruption
 4 Mazemind Tome
 2 Eliminate
@@ -36,38 +36,24 @@
 1 Shark Typhoon
 1 Elspeth's Nightmare
 2 Elspeth's Nightmare
-4 Forest
-4 Swamp
-2 Valki, God of Lies
-3 Eliminate
-4 Eliminate
-1 Disdainful Stroke
 2 Negate
+1 Disdainful Stroke
+3 Eliminate
+4 Swamp
+4 Forest
+2 Valki, God of Lies
+4 Eliminate
+2 Disdainful Stroke
 1 Soul Shatter
-3 Extinction Event
 2 Elder Gargaroth
 1 Castle Locthwain
-2 Disdainful Stroke
 1 Erebos's Intervention
 2 Shark Typhoon
 1 Indatha Triome
 3 Elspeth's Nightmare
-1 Fae of Wishes
-1 Brazen Borrower
-1 Edgewall Innkeeper
-1 Lovestruck Beast
-2 Fae of Wishes
-2 Lovestruck Beast
-2 Brazen Borrower
-2 Edgewall Innkeeper
-3 Fae of Wishes
-3 Edgewall Innkeeper
-3 Lovestruck Beast
-3 Brazen Borrower
-4 Fae of Wishes
-4 Lovestruck Beast
-4 Edgewall Innkeeper
-1 Polukranos, Unchained
+3 Extinction Event
+1 Migration Path
+1 Bala Ged Recovery
 1 Blightstep Pathway
 1 Lochmere Serpent
 1 Bloodchief's Thirst
@@ -82,6 +68,7 @@
 1 Castle Vantress
 1 Path to the World Tree
 1 Omen of the Dead
+1 Polukranos, Unchained
 1 Scavenging Ooze
 1 Nighthawk Scavenger
 1 Enigmatic Incarnation
@@ -98,20 +85,22 @@
 3 Llanowar Visionary
 3 Path to the World Tree
 3 Enigmatic Incarnation
-4 Enigmatic Incarnation
 4 Path to the World Tree
+4 Enigmatic Incarnation
 4 Elspeth's Nightmare
-1 Into the Roil
-2 Into the Roil
-4 Sea Gate Restoration
+1 Fae of Wishes
 1 Burning-Rune Demon
-1 Temple of Mystery
-1 The Great Henge
-1 Beanstalk Giant
-1 Vivien, Monsters' Advocate
-2 Temple of Mystery
-2 Beanstalk Giant
-3 Temple of Mystery
-3 Beanstalk Giant
-4 Temple of Mystery
-4 Beanstalk Giant
+1 Brazen Borrower
+1 Edgewall Innkeeper
+1 Lovestruck Beast
+2 Fae of Wishes
+2 Lovestruck Beast
+2 Brazen Borrower
+2 Edgewall Innkeeper
+3 Fae of Wishes
+3 Edgewall Innkeeper
+3 Lovestruck Beast
+3 Brazen Borrower
+4 Fae of Wishes
+4 Lovestruck Beast
+4 Edgewall Innkeeper

@@ -25,3 +25,22 @@
 |2 [Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|                                                                                     |                                                                                           |
 |1 [Torpor Orb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=233069)         |                                                                                     |                                                                                           |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Snakeskin Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503810)      |                    1|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)         |
+|                    1|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)     |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
+|                    2|[Snakeskin Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503810)      |                    2|[Spellskite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397743)         |
+|                    2|[Cavern of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278058)     |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
+|                    2|[Steel Overseer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=222714)      |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
+|                    3|[Scrapyard Recombiner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464176)|                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
+|                    3|[Animation Module](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417767)    |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
+|                    3|[Snakeskin Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503810)      |                    4|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
+|                    4|[Snakeskin Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503810)      |                    4|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)     |
+|                    9|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)              |                    3|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
+|                   10|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)              |                     |                                                                                              |
+|                   11|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)              |                     |                                                                                              |
+|                    4|[Llanowar Reborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220496)     |                     |                                                                                              |
+

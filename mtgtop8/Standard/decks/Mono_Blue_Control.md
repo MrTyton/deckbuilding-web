@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Cosmos Charger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503659)   |                    3|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)  |
-|                    1|[Rewind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45264)            |                    4|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)  |
+|                    1|[Rewind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45264)            |                    3|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)  |
+|                    1|[Cosmos Charger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503659)   |                    4|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)  |
 |                    2|[Rewind](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45264)            |                    1|[Avalanche Caller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503652)|
 |                    3|[Essence Scatter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426754)  |                    2|[Avalanche Caller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503652)|
 |                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|                    3|[Bubble Snare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491675)    |

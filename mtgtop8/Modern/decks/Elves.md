@@ -44,6 +44,6 @@
 |                    3|[Elvish Clancaller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447315)|                    1|[Skemfar Avenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503718)   |
 |                    4|[Elvish Clancaller](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447315)|                    2|[Skemfar Avenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503718)   |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    2|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
-|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)    |
-|                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    3|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
+|                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    3|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)    |
+|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    3|[Shapers' Sanctuary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435362)|
 

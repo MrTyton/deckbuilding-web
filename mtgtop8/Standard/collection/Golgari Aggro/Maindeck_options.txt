@@ -17,23 +17,23 @@
 2 Temple of Malady
 2 Edgewall Innkeeper
 2 Darkbore Pathway
-3 Foulmire Knight
 3 Temple of Malady
 3 Lovestruck Beast
 3 Edgewall Innkeeper
 3 Murderous Rider
+3 Foulmire Knight
 3 Darkbore Pathway
-4 Foulmire Knight
 4 Temple of Malady
 4 Darkbore Pathway
 4 Lovestruck Beast
 4 Edgewall Innkeeper
+4 Foulmire Knight
 1 Sculptor of Winter
 2 Sculptor of Winter
 3 Sculptor of Winter
 1 The Great Henge
-1 Ram Through
 1 Elder Gargaroth
+1 Ram Through
 4 Forest
 5 Swamp
 1 Feed the Serpent
@@ -46,14 +46,14 @@
 1 Brokkos, Apex of Forever
 2 Cling to Dust
 4 Ice Tunnel
-1 Ashiok, Nightmare Muse
 1 Sarulf, Realm Eater
+1 Ashiok, Nightmare Muse
 1 Behold the Multiverse
+1 Chainweb Aracnir
 1 Frantic Inventory
 1 Feed the Swarm
 1 Poison the Cup
 1 Thrashing Brontodon
-1 Chainweb Aracnir
 1 Ugin, the Spirit Dragon
 1 Port of Karfell
 2 Behold the Multiverse
@@ -65,39 +65,39 @@
 2 Elspeth's Nightmare
 2 Port of Karfell
 3 Snow-Covered Island
-3 Behold the Multiverse
 3 Frantic Inventory
+3 Behold the Multiverse
 3 Chainweb Aracnir
 4 Frantic Inventory
 1 Thassa, Deep-Dwelling
 4 Acolyte of Affliction
-1 Order of Midnight
+1 Scavenging Ooze
 1 Blightstep Pathway
 1 Valki, God of Lies
-1 Scavenging Ooze
 1 Toski, Bearer of Secrets
 1 Vorinclex, Monstrous Raider
 1 Heartless Act
 1 Vivien, Monsters' Advocate
 1 Zagoth Triome
 1 Cragcrown Pathway
-2 Order of Midnight
+1 Order of Midnight
 2 Vivien, Monsters' Advocate
+2 Scavenging Ooze
 2 Blightstep Pathway
 2 Valki, God of Lies
 2 Toski, Bearer of Secrets
-2 Scavenging Ooze
 2 Vorinclex, Monstrous Raider
+2 Order of Midnight
 2 Cragcrown Pathway
 2 Agadeem's Awakening
 2 Heartless Act
-3 Blightstep Pathway
 3 Toski, Bearer of Secrets
+3 Blightstep Pathway
 3 Heartless Act
 3 Valki, God of Lies
 3 Cragcrown Pathway
-4 Blightstep Pathway
 4 Heartless Act
+4 Blightstep Pathway
 4 Murderous Rider
 4 Cragcrown Pathway
 1 Realmwalker
@@ -160,18 +160,18 @@
 1 Kazandu Mammoth
 1 Jolrael, Mwonvuli Recluse
 1 Primal Might
-1 Chevill, Bane of Monsters
 1 Fabled Passage
 1 Rankle, Master of Pranks
 1 Bloodchief's Thirst
 1 Castle Locthwain
+1 Chevill, Bane of Monsters
 2 The Great Henge
 2 Kazandu Mammoth
-2 Elder Gargaroth
 2 Jolrael, Mwonvuli Recluse
-2 Chevill, Bane of Monsters
 2 Primal Might
 2 Rankle, Master of Pranks
+2 Chevill, Bane of Monsters
+2 Elder Gargaroth
 3 Kazandu Mammoth
 3 Jolrael, Mwonvuli Recluse
 6 Swamp
