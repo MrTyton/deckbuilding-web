@@ -52,6 +52,6 @@
 |                     |                                                                                             |                    3|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)           |
 |                     |                                                                                             |                    1|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)                      |
 |                     |                                                                                             |                    1|[Ichorclaw Myr](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194256)               |
-|                     |                                                                                             |                    2|[Ichorclaw Myr](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194256)               |
 |                     |                                                                                             |                    2|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)                      |
+|                     |                                                                                             |                    2|[Ichorclaw Myr](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=194256)               |
 

@@ -83,8 +83,8 @@
 8 Island
 1 Cascade Bluffs
 1 Blast Zone
-2 Magmatic Sinkhole
 2 Cascade Bluffs
+2 Magmatic Sinkhole
 3 Brazen Borrower
 4 Brazen Borrower
 13 Mountain
@@ -99,14 +99,14 @@
 4 Sprite Dragon
 3 Wooded Foothills
 1 Emrakul, the Aeons Torn
-1 Omen of the Sea
 1 Through the Breach
-2 Omen of the Sea
+1 Omen of the Sea
 2 Emrakul, the Aeons Torn
 2 Through the Breach
-3 Omen of the Sea
+2 Omen of the Sea
 3 Through the Breach
 3 Sulfur Falls
+3 Omen of the Sea
 3 Emrakul, the Aeons Torn
 4 Through the Breach
 4 Emrakul, the Aeons Torn
@@ -217,8 +217,8 @@
 1 Tarfire
 1 Brushfire Elemental
 1 Forest
-1 Seal of Fire
 1 Copperline Gorge
+1 Seal of Fire
 1 Akoum Hellhound
 1 Tarmogoyf
 1 Wrenn and Six
@@ -228,8 +228,8 @@
 2 Akoum Hellhound
 2 Tarmogoyf
 2 Wrenn and Six
-3 Copperline Gorge
 3 Wrenn and Six
+3 Copperline Gorge
 3 Brushfire Elemental
 3 Tarmogoyf
 3 Akoum Hellhound

@@ -1,7 +1,7 @@
 1 Spreading Seas
 2 Spreading Seas
-3 Spreading Seas
 3 Skyclave Apparition
+3 Spreading Seas
 4 Spreading Seas
 1 Uro, Titan of Nature's Wrath
 1 Mountain
@@ -29,25 +29,24 @@
 1 Lightning Helix
 1 Omnath, Locus of Creation
 1 Bring to Light
-2 Lightning Helix
+2 Wrenn and Six
 2 Omnath, Locus of Creation
 2 Bring to Light
-2 Wrenn and Six
+2 Lightning Helix
 3 Bring to Light
 1 Dreadbore
 1 Niv-Mizzet Reborn
 1 Assassin's Trophy
 1 Godless Shrine
 2 Niv-Mizzet Reborn
-3 Omnath, Locus of Creation
 3 Wrenn and Six
+3 Omnath, Locus of Creation
 1 Verdant Catacombs
 1 Valki, God of Lies
 1 Supreme Verdict
 2 Temple Garden
 1 Fiery Islet
 1 Unsettled Mariner
-1 Mutavault
 1 Unclaimed Territory
 1 Aether Vial
 1 Cavern of Souls
@@ -57,6 +56,7 @@
 1 Silent Clearing
 1 Sinew Sliver
 1 Predatory Sliver
+1 Mutavault
 1 Galerider Sliver
 1 Sliver Hive
 1 Sidewinder Sliver
@@ -68,8 +68,8 @@
 2 Cavern of Souls
 2 Fiery Islet
 2 Unclaimed Territory
-2 Mutavault
 2 Leeching Sliver
+2 Mutavault
 2 Cloudshredder Sliver
 2 Silent Clearing
 2 Frenetic Sliver
@@ -85,7 +85,6 @@
 3 Aether Vial
 3 Cavern of Souls
 3 Unclaimed Territory
-3 Mutavault
 3 Cloudshredder Sliver
 3 Striking Sliver
 3 Sliver Hive
@@ -94,6 +93,7 @@
 3 Leeching Sliver
 3 Sinew Sliver
 3 Predatory Sliver
+3 Mutavault
 4 Cavern of Souls
 4 Unsettled Mariner
 4 Aether Vial
@@ -162,6 +162,7 @@
 3 Vengevine
 3 Sword of the Meek
 3 Creeping Chill
+4 Emeria's Call
 4 Turntimber Symbiosis
 4 Sea Gate Restoration
 4 Balustrade Spy
@@ -170,7 +171,6 @@
 4 Pentad Prism
 4 Creeping Chill
 4 Vengevine
-4 Emeria's Call
 3 Forest
 2 Seal of Fire
 1 Swamp
@@ -194,8 +194,8 @@
 2 Lithoform Blight
 2 Uro, Titan of Nature's Wrath
 3 Lithoform Blight
-4 Birds of Paradise
 4 Lithoform Blight
+4 Birds of Paradise
 1 Path to the World Tree
 2 Path to the World Tree
 3 Pillar of the Paruns
@@ -204,19 +204,19 @@
 1 Voice of Resurgence
 1 Zagoth Triome
 2 Abrupt Decay
-1 Oath of Nissa
-1 Saheeli Rai
 1 Felidar Guardian
-2 Oath of Nissa
-2 Saheeli Rai
+1 Saheeli Rai
+1 Oath of Nissa
 2 Felidar Guardian
-3 Oath of Nissa
-3 Felidar Guardian
+2 Saheeli Rai
+2 Oath of Nissa
 3 Saheeli Rai
+3 Felidar Guardian
+3 Oath of Nissa
 1 Thoughtseize
 2 Thoughtseize
-1 Pelakka Predation
 1 Goblin Charbelcher
+1 Pelakka Predation
 2 Pelakka Predation
 3 Hagra Mauling
 4 Hagra Mauling
@@ -232,25 +232,25 @@
 1 Reidane, God of the Worthy
 1 Heliod, Sun-Crowned
 1 Spike Feeder
-1 Scalding Tarn
-4 Growth Spiral
 1 On Thin Ice
 1 Seasoned Pyromancer
 4 Skyclave Apparition
+4 Pillar of the Paruns
+4 Assassin's Trophy
 1 Rimewood Falls
 1 Golos, Tireless Pilgrim
 1 Highland Forest
+1 Kaya, Orzhov Usurper
 1 Huntmaster of the Fells
 1 Ice-Fang Coatl
-1 Kaya, Orzhov Usurper
 2 Ice-Fang Coatl
 3 Verdant Catacombs
-4 Oath of Nissa
 4 Felidar Guardian
-4 Pillar of the Paruns
-4 Assassin's Trophy
+4 Oath of Nissa
 3 Omen of the Forge
 4 Omen of the Forge
+1 Scalding Tarn
+4 Growth Spiral
 1 Memory's Journey
 1 Thassa's Oracle
 1 Bloodbraid Elf

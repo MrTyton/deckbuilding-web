@@ -19,8 +19,8 @@
 3 Mazemind Tome
 4 Mazemind Tome
 1 Disdainful Stroke
-2 Soul Shatter
 1 Cling to Dust
+2 Soul Shatter
 1 Castle Vantress
 3 Shark Typhoon
 1 Omen of the Sea
@@ -30,30 +30,30 @@
 1 Negate
 2 Negate
 3 Shadows' Verdict
-2 Disdainful Stroke
 1 Snow-Covered Island
 1 Ice Tunnel
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 2 Snow-Covered Island
-3 Eliminate
-3 Negate
 3 Snow-Covered Swamp
 3 Snow-Covered Island
 4 Snow-Covered Island
-4 Negate
 4 Snow-Covered Swamp
 5 Snow-Covered Island
 5 Snow-Covered Swamp
 6 Snow-Covered Island
 1 Behold the Multiverse
 2 Behold the Multiverse
-1 Midnight Clock
-1 Field of Ruin
+2 Disdainful Stroke
+3 Eliminate
+3 Negate
+4 Negate
 1 Graven Lore
-2 Midnight Clock
+1 Field of Ruin
+1 Midnight Clock
 2 Graven Lore
 2 Field of Ruin
+2 Midnight Clock
 3 Field of Ruin
 3 Disdainful Stroke
 3 Graven Lore
@@ -70,11 +70,10 @@
 3 Crawling Barrens
 3 Soul Shatter
 5 Swamp
-4 Shark Typhoon
-3 Lullmage's Domination
-3 Agadeem's Awakening
-1 Mystical Dispute
 2 Didn't Say Please
+4 Shark Typhoon
+1 Valki, God of Lies
+1 Mystical Dispute
 4 Merfolk Windrobber
 2 Erebos's Intervention
 6 Island
@@ -83,10 +82,11 @@
 1 Dismal Backwater
 2 Dismal Backwater
 3 Dismal Backwater
-1 Valki, God of Lies
 3 Saw It Coming
-1 Brazen Borrower
 1 Ashiok, Nightmare Muse
+1 Brazen Borrower
+3 Lullmage's Domination
+3 Agadeem's Awakening
 2 Ashiok, Nightmare Muse
 2 Castle Vantress
 2 Extinction Event
@@ -95,12 +95,19 @@
 1 Mountain
 2 Valki, God of Lies
 1 Ugin, the Spirit Dragon
-1 Murderous Rider
 1 Lochmere Serpent
+2 Cling to Dust
+6 Snow-Covered Swamp
+7 Snow-Covered Island
+7 Snow-Covered Swamp
+2 Essence Scatter
+3 Behold the Multiverse
+4 Behold the Multiverse
+1 Murderous Rider
 1 Hagra Mauling
 2 Ugin, the Spirit Dragon
-2 Hagra Mauling
 2 Murderous Rider
+2 Hagra Mauling
 2 Lochmere Serpent
 3 Hagra Mauling
 3 Bloodchief's Thirst
@@ -117,26 +124,22 @@
 2 Blood on the Snow
 2 Solemn Simulacrum
 2 Burning-Rune Demon
+3 Solemn Simulacrum
 3 Atris, Oracle of Half-Truths
 3 Blood on the Snow
 3 Erebos's Intervention
-3 Solemn Simulacrum
-4 Solemn Simulacrum
 4 Atris, Oracle of Half-Truths
+4 Solemn Simulacrum
 4 Blood on the Snow
 4 Erebos's Intervention
-6 Snow-Covered Swamp
-7 Snow-Covered Island
-7 Snow-Covered Swamp
 8 Snow-Covered Island
 8 Snow-Covered Swamp
 9 Snow-Covered Island
 9 Snow-Covered Swamp
 10 Snow-Covered Island
 10 Snow-Covered Swamp
-1 Call of the Death-Dweller
 1 Temple of Malice
-2 Cling to Dust
+1 Call of the Death-Dweller
 1 Crippling Fear
 1 Blightstep Pathway
 1 Riverglide Pathway
@@ -149,10 +152,31 @@
 1 Silundi Vision
 1 Alrund's Epiphany
 2 Silundi Vision
-2 Essence Scatter
 2 Alrund's Epiphany
 3 Valki, God of Lies
-3 Behold the Multiverse
 4 Saw It Coming
-4 Behold the Multiverse
+1 Volatile Fjord
+1 Sulfurous Mire
+1 Frantic Inventory
+1 Feed the Swarm
+1 Feed the Serpent
+1 Grasp of Darkness
+1 Narfi, Betrayer King
+2 Frantic Inventory
+2 Sulfurous Mire
+2 Feed the Serpent
+2 Feed the Swarm
+2 Grasp of Darkness
+2 Narfi, Betrayer King
+2 Volatile Fjord
+3 Sulfurous Mire
+3 Didn't Say Please
+3 Frantic Inventory
+3 Feed the Serpent
+3 Grasp of Darkness
+3 Volatile Fjord
+4 Sulfurous Mire
+4 Volatile Fjord
+4 Didn't Say Please
+4 Frantic Inventory
 7 Island

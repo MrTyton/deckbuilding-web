@@ -4,16 +4,16 @@
 3 Forest
 3 Swamp
 4 Swamp
+1 Foulmire Knight
 1 Darkbore Pathway
 1 Edgewall Innkeeper
 1 Temple of Malady
 1 Lovestruck Beast
 1 Agadeem's Awakening
-1 Foulmire Knight
 1 Murderous Rider
+2 Foulmire Knight
 2 Lovestruck Beast
 2 Murderous Rider
-2 Foulmire Knight
 2 Temple of Malady
 2 Edgewall Innkeeper
 2 Darkbore Pathway
@@ -48,25 +48,25 @@
 4 Ice Tunnel
 1 Sarulf, Realm Eater
 1 Ashiok, Nightmare Muse
-1 Behold the Multiverse
 1 Chainweb Aracnir
+1 Behold the Multiverse
 1 Frantic Inventory
-1 Feed the Swarm
 1 Poison the Cup
 1 Thrashing Brontodon
+1 Feed the Swarm
 1 Ugin, the Spirit Dragon
 1 Port of Karfell
 2 Behold the Multiverse
-2 Frantic Inventory
 2 Poison the Cup
+2 Frantic Inventory
 2 Thrashing Brontodon
 2 Feed the Swarm
 2 Chainweb Aracnir
 2 Elspeth's Nightmare
 2 Port of Karfell
 3 Snow-Covered Island
-3 Frantic Inventory
 3 Behold the Multiverse
+3 Frantic Inventory
 3 Chainweb Aracnir
 4 Frantic Inventory
 1 Thassa, Deep-Dwelling
@@ -75,17 +75,17 @@
 1 Blightstep Pathway
 1 Valki, God of Lies
 1 Toski, Bearer of Secrets
+1 Vivien, Monsters' Advocate
 1 Vorinclex, Monstrous Raider
 1 Heartless Act
-1 Vivien, Monsters' Advocate
 1 Zagoth Triome
 1 Cragcrown Pathway
 1 Order of Midnight
-2 Vivien, Monsters' Advocate
-2 Blightstep Pathway
-2 Scavenging Ooze
-2 Valki, God of Lies
 2 Toski, Bearer of Secrets
+2 Scavenging Ooze
+2 Blightstep Pathway
+2 Valki, God of Lies
+2 Vivien, Monsters' Advocate
 2 Vorinclex, Monstrous Raider
 2 Order of Midnight
 2 Cragcrown Pathway
@@ -100,8 +100,8 @@
 4 Blightstep Pathway
 4 Murderous Rider
 4 Cragcrown Pathway
-1 Wolfwillow Haven
 1 Realmwalker
+1 Wolfwillow Haven
 1 Grasp of Darkness
 1 Skemfar Avenger
 1 Return Upon the Tide
@@ -114,8 +114,8 @@
 2 Boreal Outrider
 2 Joraga Visionary
 3 Wolfwillow Haven
-3 Harald, King of Skemfar
 3 Grasp of Darkness
+3 Harald, King of Skemfar
 3 Boreal Outrider
 4 Sculptor of Winter
 4 Harald, King of Skemfar
@@ -125,15 +125,15 @@
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
-1 Garruk's Uprising
+1 Fiend Artisan
 1 Jungle Hollow
 1 Battle Mammoth
 1 Wildwood Patrol
 1 Tajuru Blightblade
 1 Oakhame Adversary
 1 Keeper of Fables
+1 Garruk's Uprising
 1 Gnottvold Recluse
-1 Fiend Artisan
 2 Jungle Hollow
 2 Oakhame Adversary
 2 Keeper of Fables
@@ -165,13 +165,13 @@
 1 Bloodchief's Thirst
 1 Castle Locthwain
 1 Chevill, Bane of Monsters
-2 The Great Henge
 2 Kazandu Mammoth
+2 The Great Henge
+2 Elder Gargaroth
 2 Jolrael, Mwonvuli Recluse
 2 Primal Might
 2 Rankle, Master of Pranks
 2 Chevill, Bane of Monsters
-2 Elder Gargaroth
 3 Kazandu Mammoth
 3 Jolrael, Mwonvuli Recluse
 6 Swamp

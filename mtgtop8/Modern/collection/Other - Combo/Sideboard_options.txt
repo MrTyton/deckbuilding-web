@@ -1,49 +1,46 @@
-1 Maelstrom Pulse
 1 Magmatic Sinkhole
+1 Maelstrom Pulse
 2 Maelstrom Pulse
 3 Maelstrom Pulse
 3 Anger of the Gods
-1 Lightning Bolt
-2 Lightning Bolt
-1 Defense Grid
-2 Defense Grid
 1 Pact of Negation
 2 Pact of Negation
 1 Thoughtseize
 1 Natural State
 2 Natural State
 2 Thoughtseize
-1 Pithing Needle
 1 Mystical Dispute
 2 Mystical Dispute
 3 Mystical Dispute
 1 Supreme Verdict
 1 Firespout
-1 Celestial Purge
-2 Celestial Purge
 1 Brazen Borrower
 1 Timely Reinforcements
 2 Timely Reinforcements
+1 Celestial Purge
+2 Celestial Purge
 1 Kor Firewalker
 2 Kor Firewalker
 2 Firespout
 3 Celestial Purge
 2 Nature's Claim
-2 Pithing Needle
-3 Natural State
 1 Savage Summoning
-3 Pact of Negation
+1 Goblin Charbelcher
+3 Nature's Claim
 1 Slaughter Pact
 2 Slaughter Pact
 3 Slaughter Pact
-1 Goblin Charbelcher
-3 Nature's Claim
-3 Thoughtseize
 1 Dismember
-1 Mountain
+3 Natural State
+3 Thoughtseize
+3 Pact of Negation
+1 Lightning Bolt
+2 Lightning Bolt
 1 Empty the Warrens
+1 Defense Grid
+2 Defense Grid
 1 Veil of Summer
-3 Lightning Bolt
+1 Pithing Needle
 1 Boil
 1 Thassa's Oracle
 1 Memory's Journey
@@ -52,8 +49,8 @@
 1 Unmoored Ego
 1 Ensnaring Bridge
 2 Ensnaring Bridge
-1 Gemstone Caverns
 1 Threads of Disloyalty
+1 Gemstone Caverns
 2 Threads of Disloyalty
 2 Savage Summoning
 1 Pelakka Predation
@@ -63,18 +60,18 @@
 1 Ashiok, Dream Render
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
+1 Dispel
 1 Thing in the Ice
 1 Aria of Flame
 1 Echoing Truth
-1 Dispel
 1 Hope of Ghirapur
 1 Flusterstorm
 1 Fatal Push
 1 Pongify
 2 Thing in the Ice
 2 Aria of Flame
-2 Hope of Ghirapur
 2 Flusterstorm
+2 Hope of Ghirapur
 2 Fatal Push
 3 Aria of Flame
 1 Blood Moon
@@ -85,6 +82,7 @@
 2 Monastery Mentor
 2 Skyclave Apparition
 2 Tormod's Crypt
+3 Lightning Bolt
 3 Skyclave Apparition
 1 Sweltering Suns
 1 Vexing Shusher
@@ -92,11 +90,20 @@
 2 Vexing Shusher
 2 Surgical Extraction
 3 Vexing Shusher
+1 Mountain
 2 Goblin Charbelcher
 3 Goblin Charbelcher
 4 Goblin Charbelcher
-3 Defense Grid
-4 Defense Grid
+1 Rest in Peace
+1 Cloudform
+1 Chained to the Rocks
+2 Rest in Peace
+2 Dispel
+2 Chained to the Rocks
+3 Rest in Peace
+3 Dispel
+3 Chained to the Rocks
+4 Rest in Peace
 1 Chalice of the Void
 1 Aether Gust
 2 Chalice of the Void
@@ -105,6 +112,7 @@
 3 Aether Gust
 3 Veil of Summer
 4 Veil of Summer
+2 Pithing Needle
 4 Natural State
 1 Primeval Titan
 1 Sakura-Tribe Scout
@@ -138,11 +146,11 @@
 1 Torpor Orb
 1 Sorcerous Spyglass
 1 Deflecting Palm
+2 Containment Priest
 2 Deflecting Palm
 2 Torpor Orb
+2 Sorcerous Spyglass
 2 Grand Abolisher
 2 Boil
-2 Containment Priest
-2 Sorcerous Spyglass
 3 Grand Abolisher
 4 Grand Abolisher

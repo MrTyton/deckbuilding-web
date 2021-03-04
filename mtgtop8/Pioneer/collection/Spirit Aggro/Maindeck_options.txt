@@ -1,15 +1,17 @@
 3 Hengegate Pathway
 4 Hengegate Pathway
+1 Nebelgast Herald
+2 Nebelgast Herald
 3 Selfless Spirit
 1 Mana Confluence
 2 Mana Confluence
-1 Nebelgast Herald
-2 Nebelgast Herald
 4 Selfless Spirit
 3 Nebelgast Herald
 9 Island
 1 Port Town
 2 Port Town
+3 Port Town
+10 Island
 1 Brazen Borrower
 2 Brazen Borrower
 1 Snow-Covered Island
@@ -22,10 +24,7 @@
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
-3 Port Town
-10 Island
-1 Spell Pierce
-2 Spell Pierce
+11 Island
 1 Mutavault
 2 Mutavault
 3 Mana Confluence
@@ -47,6 +46,7 @@
 4 Botanical Sanctum
 1 Ascendant Spirit
 1 Miscast
+1 Spell Pierce
 1 Curious Obsession
 1 Faceless Haven
 1 Glasspool Mimic
@@ -54,11 +54,11 @@
 2 Ascendant Spirit
 2 Miscast
 2 Faceless Haven
+2 Spell Pierce
 2 Curious Obsession
 3 Ascendant Spirit
 3 Curious Obsession
 4 Ascendant Spirit
-4 Curious Obsession
 8 Snow-Covered Island
 9 Snow-Covered Island
 10 Snow-Covered Island
@@ -72,4 +72,4 @@
 18 Snow-Covered Island
 19 Snow-Covered Island
 20 Snow-Covered Island
-11 Island
+4 Curious Obsession
