@@ -1,30 +1,27 @@
-1 Hullbreacher
-4 Island
-3 True-Name Nemesis
+1 Misty Rainforest
 3 Snow-Covered Island
-1 Vendilion Clique
 2 Force of Negation
-4 Daze
-2 Polluted Delta
+1 Daze
+2 Daze
+3 Daze
 1 Back to Basics
-3 Tundra
 2 Spell Pierce
 5 Island
-2 Brazen Borrower
 1 Council's Judgment
 2 Hullbreacher
 1 Counterspell
 1 Supreme Verdict
-1 Wasteland
-2 Wasteland
-3 Wasteland
-2 Preordain
+4 Daze
+3 Tundra
 1 Sword of Fire and Ice
+2 Preordain
+2 Polluted Delta
 2 Council's Judgment
 4 Snow-Covered Island
 1 Spell Snare
 1 Volcanic Island
 1 Venser, Shaper Savant
+2 Brazen Borrower
 2 Snow-Covered Plains
 3 Scalding Tarn
 1 Staggering Insight
@@ -44,8 +41,11 @@
 4 Staggering Insight
 4 Invisible Stalker
 1 Narset, Parter of Veils
-2 Misty Rainforest
 5 Snow-Covered Island
+2 Misty Rainforest
+1 Wasteland
+2 Wasteland
+3 Wasteland
 6 Island
 1 Paradigm Shift
 1 Thought Lash
@@ -69,9 +69,6 @@
 4 Thought Lash
 4 Thassa's Oracle
 4 Lotus Petal
-4 Wasteland
-1 Underground Sea
-3 Polluted Delta
 1 Mystic Sanctuary
 1 Tropical Island
 1 Uro, Titan of Nature's Wrath
@@ -102,12 +99,6 @@
 3 Snow-Covered Plains
 4 Prismatic Vista
 6 Snow-Covered Island
-1 Ethereal Forager
-1 Delver of Secrets
-2 Ethereal Forager
-2 Delver of Secrets
-3 Delver of Secrets
-4 Delver of Secrets
 3 Teferi, Time Raveler
 1 Intuition
 1 Impulse
@@ -123,18 +114,11 @@
 4 Chalice of the Void
 7 Island
 1 Jace, Vryn's Prodigy
-1 Stifle
-2 Stifle
-3 Stifle
-4 Stifle
 1 Baleful Strix
+1 Underground Sea
 2 Baleful Strix
 3 Baleful Strix
-1 Scrubland
-1 Marsh Flats
-1 Drown in the Loch
-2 Underground Sea
-4 Polluted Delta
+3 Polluted Delta
 1 Swamp
 1 Kaya, Orzhov Usurper
 1 Liliana, the Last Hope
@@ -145,6 +129,8 @@
 2 Thoughtseize
 2 Swamp
 2 Hymn to Tourach
+2 Underground Sea
+4 Polluted Delta
 1 Snow-Covered Mountain
 1 Arid Mesa
 1 Sevinne's Reclamation
@@ -152,12 +138,7 @@
 1 Sword of Feast and Famine
 2 Karakas
 2 Vendilion Clique
-1 Monastery Mentor
-2 Monastery Mentor
 3 Plains
-1 Lavinia, Azorius Renegade
-2 Lavinia, Azorius Renegade
-3 Ethereal Forager
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
 3 Arcum's Astrolabe
@@ -165,25 +146,25 @@
 2 Skyclave Apparition
 3 Skyclave Apparition
 1 Unearth
+1 Scrubland
+1 Marsh Flats
 1 Inquisition of Kozilek
+1 Drown in the Loch
 1 Snow-Covered Swamp
 2 Drown in the Loch
 2 Unearth
 2 Inquisition of Kozilek
 3 Drown in the Loch
 3 Inquisition of Kozilek
-1 Vindicate
-1 Sinkhole
-2 Vindicate
-2 Marsh Flats
-2 Sinkhole
-2 Scrubland
-3 Sinkhole
-3 Underground Sea
-3 Vindicate
-3 Marsh Flats
-4 Sinkhole
-4 Vindicate
+1 Ethereal Forager
+1 Delver of Secrets
+1 Monastery Mentor
+2 Ethereal Forager
+2 Delver of Secrets
+2 Monastery Mentor
+3 Delver of Secrets
+4 Delver of Secrets
+4 Wasteland
 1 Waterlogged Grove
 1 Laboratory Maniac
 2 Laboratory Maniac

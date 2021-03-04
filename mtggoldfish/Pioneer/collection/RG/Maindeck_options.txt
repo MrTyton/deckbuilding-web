@@ -113,18 +113,18 @@
 1 Calamity Bearer
 1 Fire Giant's Fury
 1 Tectonic Giant
-2 Quakebringer
 2 Mutavault
 2 Crystalline Giant
 2 Calamity Bearer
 2 Fire Giant's Fury
 2 Tectonic Giant
-3 Tectonic Giant
+2 Quakebringer
 3 Calamity Bearer
-3 Quakebringer
+3 Tectonic Giant
 3 Wild Slash
-4 Calamity Bearer
+3 Quakebringer
 4 Realmwalker
+4 Calamity Bearer
 4 Wild Slash
 1 Plains
 2 Plains
@@ -135,17 +135,16 @@
 1 Conclave Mentor
 1 Dromoka's Command
 1 Snakeskin Veil
-1 Luminarch Aspirant
 1 Hardened Scales
 1 Sunpetal Grove
 1 Vivien, Arkbow Ranger
+1 Luminarch Aspirant
 1 Rishkar, Peema Renegade
 1 The Ozolith
 2 Nissa, Voice of Zendikar
 2 Branchloft Pathway
 2 Temple Garden
 2 Hangarback Walker
-2 Luminarch Aspirant
 2 Conclave Mentor
 2 Snakeskin Veil
 2 Dromoka's Command
@@ -153,6 +152,7 @@
 2 Rishkar, Peema Renegade
 2 The Ozolith
 2 Hardened Scales
+2 Luminarch Aspirant
 2 Sunpetal Grove
 3 Sunpetal Grove
 3 Nissa, Voice of Zendikar

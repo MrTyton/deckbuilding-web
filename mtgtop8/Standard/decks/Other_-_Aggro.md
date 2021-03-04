@@ -34,6 +34,7 @@
 |                    3|Blightstep Pathway                                                                                |                     |              |
 |                    4|[Branchloft Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491909)     |                     |              |
 |                    4|[Indatha Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479768)         |                     |              |
+|                    4|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)    |                     |              |
 |                    4|[Runeforge Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503632)     |                     |              |
 |                    4|[Setessan Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476449)      |                     |              |
 |                    4|Darkbore Pathway                                                                                  |                     |              |
@@ -47,5 +48,4 @@
 |                    4|[Alseid of Life's Bounty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476252)|                     |              |
 |                    4|[Hateful Eidolon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476352)        |                     |              |
 |                    4|[Rune of Might](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503807)          |                     |              |
-|                    4|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)    |                     |              |
 
