@@ -1,8 +1,8 @@
 1 Forest
 2 Forest
 2 Swamp
-3 Forest
 3 Swamp
+3 Forest
 4 Swamp
 1 Foulmire Knight
 1 Darkbore Pathway
@@ -18,16 +18,16 @@
 2 Edgewall Innkeeper
 2 Darkbore Pathway
 3 Temple of Malady
-3 Foulmire Knight
 3 Lovestruck Beast
 3 Edgewall Innkeeper
 3 Murderous Rider
+3 Foulmire Knight
 3 Darkbore Pathway
 4 Temple of Malady
-4 Foulmire Knight
 4 Darkbore Pathway
 4 Lovestruck Beast
 4 Edgewall Innkeeper
+4 Foulmire Knight
 1 Sculptor of Winter
 2 Sculptor of Winter
 3 Sculptor of Winter
@@ -71,7 +71,6 @@
 4 Frantic Inventory
 1 Thassa, Deep-Dwelling
 4 Acolyte of Affliction
-1 Order of Midnight
 1 Scavenging Ooze
 1 Blightstep Pathway
 1 Valki, God of Lies
@@ -81,13 +80,14 @@
 1 Heartless Act
 1 Zagoth Triome
 1 Cragcrown Pathway
+1 Order of Midnight
 2 Toski, Bearer of Secrets
-2 Order of Midnight
 2 Scavenging Ooze
 2 Blightstep Pathway
 2 Valki, God of Lies
 2 Vivien, Monsters' Advocate
 2 Vorinclex, Monstrous Raider
+2 Order of Midnight
 2 Cragcrown Pathway
 2 Agadeem's Awakening
 2 Heartless Act
@@ -125,6 +125,7 @@
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
+1 Fiend Artisan
 1 Jungle Hollow
 1 Battle Mammoth
 1 Wildwood Patrol
@@ -133,7 +134,6 @@
 1 Keeper of Fables
 1 Garruk's Uprising
 1 Gnottvold Recluse
-1 Fiend Artisan
 2 Jungle Hollow
 2 Oakhame Adversary
 2 Keeper of Fables
@@ -165,8 +165,8 @@
 1 Bloodchief's Thirst
 1 Castle Locthwain
 1 Chevill, Bane of Monsters
-2 Kazandu Mammoth
 2 The Great Henge
+2 Kazandu Mammoth
 2 Elder Gargaroth
 2 Jolrael, Mwonvuli Recluse
 2 Primal Might

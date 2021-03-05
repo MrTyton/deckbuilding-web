@@ -3,14 +3,14 @@
 3 Aether Vial
 4 Aether Vial
 1 Cavern of Souls
-1 Mutavault
 1 Waterlogged Grove
 1 Teferi, Time Raveler
 1 Swords to Plowshares
-1 Spirit of the Labyrinth
 1 Skyclave Apparition
+1 Spirit of the Labyrinth
 1 Island
 1 Moorland Haunt
+1 Mutavault
 1 Rattlechains
 1 Spell Queller
 1 Selfless Spirit
@@ -20,13 +20,13 @@
 1 Plains
 1 Drogskol Captain
 2 Swords to Plowshares
+2 Skyclave Apparition
 2 Spirit of the Labyrinth
 2 Plains
 2 Rattlechains
 2 Supreme Phantom
 2 Mausoleum Wanderer
 2 Island
-2 Skyclave Apparition
 2 Mutavault
 2 Seachrome Coast
 2 Selfless Spirit
@@ -34,11 +34,11 @@
 2 Drogskol Captain
 3 Spirit of the Labyrinth
 3 Swords to Plowshares
+3 Skyclave Apparition
 3 Seachrome Coast
 3 Spell Queller
 3 Drogskol Captain
 3 Supreme Phantom
-3 Skyclave Apparition
 3 Mausoleum Wanderer
 3 Rattlechains
 4 Skyclave Apparition
@@ -88,8 +88,8 @@
 3 Ponder
 3 Noble Hierarch
 4 Misty Rainforest
-4 Scalding Tarn
 4 Ponder
+4 Scalding Tarn
 4 Noble Hierarch
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
@@ -198,7 +198,6 @@
 8 Swamp
 9 Swamp
 1 Seasoned Pyromancer
-1 Magmatic Channeler
 1 Solemn Simulacrum
 1 Winter Orb
 1 Magus of the Moon
@@ -207,6 +206,7 @@
 1 Ensnaring Bridge
 1 Goblin Cratermaker
 1 Phyrexian Revoker
+1 Magmatic Channeler
 1 Goblin Welder
 1 Ichor Wellspring
 1 Goblin Engineer
@@ -217,8 +217,8 @@
 1 Lodestone Golem
 1 Dire Fleet Daredevil
 2 Seasoned Pyromancer
-2 Magmatic Channeler
 2 Goblin Engineer
+2 Magmatic Channeler
 2 Goblin Welder
 2 Tangle Wire
 2 Lodestone Golem
@@ -226,20 +226,20 @@
 2 Great Furnace
 2 Imperial Recruiter
 3 Snow-Covered Mountain
-3 Magmatic Channeler
 3 Lodestone Golem
+3 Magmatic Channeler
 3 Tangle Wire
 3 Goblin Welder
 3 Imperial Recruiter
 3 Goblin Engineer
 4 Snow-Covered Mountain
-4 Magmatic Channeler
 4 Imperial Recruiter
 4 Goblin Engineer
+4 Magmatic Channeler
 4 Tangle Wire
 4 Goblin Welder
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
+7 Snow-Covered Mountain
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
-7 Snow-Covered Mountain

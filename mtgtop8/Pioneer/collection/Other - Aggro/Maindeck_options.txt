@@ -1,6 +1,12 @@
+1 Swamp
+1 Witch's Oven
+1 Cauldron Familiar
+2 Witch's Oven
+2 Cauldron Familiar
+3 Witch's Oven
+3 Cauldron Familiar
 1 Urborg, Tomb of Yawgmoth
 1 Agadeem's Awakening
-1 Swamp
 1 Fatal Push
 2 Fatal Push
 1 Thoughtseize
@@ -39,9 +45,9 @@
 1 Anticognition
 1 Nighthawk Scavenger
 1 Brazen Borrower
-1 Mystical Dispute
 1 Fabled Passage
 1 Drowned Catacomb
+1 Mystical Dispute
 2 Nighthawk Scavenger
 2 Brazen Borrower
 2 Mystical Dispute
@@ -73,64 +79,6 @@
 4 Stomping Ground
 1 Mutavault
 2 Mutavault
-3 Mutavault
-1 Brightclimb Pathway
-1 Godless Shrine
-2 Godless Shrine
-2 Brightclimb Pathway
-3 Brightclimb Pathway
-4 Brightclimb Pathway
-1 Plains
-1 Caves of Koilos
-1 Concealed Courtyard
-1 Bloodsoaked Champion
-2 Concealed Courtyard
-2 Bloodsoaked Champion
-2 Caves of Koilos
-3 Caves of Koilos
-3 Concealed Courtyard
-3 Godless Shrine
-3 Bloodsoaked Champion
-4 Godless Shrine
-4 Caves of Koilos
-4 Mutavault
-1 Open the Armory
-1 Mardu Woe-Reaper
-1 Shadowspear
-1 Gods Willing
-1 Kor Blademaster
-1 Sigarda's Aid
-1 Resolute Strike
-1 Dragon Hunter
-1 Wishclaw Talisman
-1 Colossus Hammer
-1 Blood-Chin Rager
-2 Open the Armory
-2 Mardu Woe-Reaper
-2 Gods Willing
-2 Sigarda's Aid
-2 Resolute Strike
-2 Colossus Hammer
-2 Dragon Hunter
-2 Kor Blademaster
-2 Blood-Chin Rager
-2 Wishclaw Talisman
-3 Open the Armory
-3 Mardu Woe-Reaper
-3 Kor Blademaster
-3 Sigarda's Aid
-3 Resolute Strike
-3 Colossus Hammer
-3 Dragon Hunter
-3 Blood-Chin Rager
-4 Mardu Woe-Reaper
-4 Sigarda's Aid
-4 Open the Armory
-4 Concealed Courtyard
-4 Colossus Hammer
-4 Resolute Strike
-4 Dragon Hunter
-4 Kor Blademaster
 2 Heartless Act
 1 Breeding Pool
 1 Botanical Sanctum
@@ -175,20 +123,15 @@
 4 Zetalpa, Primal Dawn
 4 Grisly Salvage
 4 Stitcher's Supplier
+3 Mutavault
 1 Murderous Rider
 2 Murderous Rider
 3 Murderous Rider
 1 Liliana, the Last Hope
 2 Anticognition
-1 Jace, Vryn's Prodigy
 1 Thassa's Intervention
+1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
-1 Witch's Oven
-1 Cauldron Familiar
-2 Witch's Oven
-2 Cauldron Familiar
-3 Witch's Oven
-3 Cauldron Familiar
 1 Of One Mind
 1 Zagoth Triome
 2 Of One Mind
@@ -203,10 +146,10 @@
 1 Embodiment of Agonies
 1 Lurrus of the Dream-Den
 2 Satyr Wayfinder
+2 Lurrus of the Dream-Den
 2 Magmatic Channeler
 2 Claim / Fame
 2 Embodiment of Agonies
-2 Lurrus of the Dream-Den
 3 Satyr Wayfinder
 3 Magmatic Channeler
 3 Claim / Fame
@@ -228,91 +171,110 @@
 4 Murderous Rider
 4 Blood Crypt
 4 Samut, Voice of Dissent
-2 Plains
 2 Forest
 3 Forest
 4 Forest
 5 Forest
-1 Gladecover Scout
-1 Season of Growth
+1 Plains
+2 Plains
+1 Bassara Tower Archer
+1 Unflinching Courage
+1 Branchloft Pathway
 1 Temple Garden
 1 Sunpetal Grove
+1 Season of Growth
 1 Fortified Village
+1 Gladecover Scout
 1 Gryff's Boon
 1 Sentinel's Eyes
 1 All That Glitters
 1 Cartouche of Solidarity
-1 Branchloft Pathway
 1 Ethereal Armor
-1 Unflinching Courage
-1 Bassara Tower Archer
-1 Helm of the Gods
 1 Adanto Vanguard
-2 Season of Growth
-2 Gladecover Scout
+1 Helm of the Gods
+2 Unflinching Courage
+2 Adanto Vanguard
+2 Branchloft Pathway
 2 Temple Garden
+2 Sunpetal Grove
+2 Gladecover Scout
+2 Season of Growth
 2 Sentinel's Eyes
 2 Gryff's Boon
 2 All That Glitters
 2 Ethereal Armor
 2 Cartouche of Solidarity
-2 Branchloft Pathway
-2 Adanto Vanguard
 2 Bassara Tower Archer
 2 Helm of the Gods
-2 Unflinching Courage
-2 Sunpetal Grove
-3 Gladecover Scout
-3 Sunpetal Grove
+3 Unflinching Courage
+3 Branchloft Pathway
 3 Temple Garden
+3 Sunpetal Grove
 3 Sentinel's Eyes
 3 Cartouche of Solidarity
-3 Branchloft Pathway
+3 Gladecover Scout
 3 All That Glitters
 3 Adanto Vanguard
 3 Ethereal Armor
 3 Gryff's Boon
-3 Unflinching Courage
 3 Bassara Tower Archer
-4 Temple Garden
-4 Gladecover Scout
+4 Unflinching Courage
 4 Cartouche of Solidarity
-4 Sunpetal Grove
 4 Branchloft Pathway
+4 Sunpetal Grove
+4 Gladecover Scout
+4 Temple Garden
 4 All That Glitters
 4 Gryff's Boon
 4 Ethereal Armor
 4 Sentinel's Eyes
 4 Adanto Vanguard
-4 Unflinching Courage
 4 Bassara Tower Archer
+1 Brightclimb Pathway
+1 Godless Shrine
+2 Godless Shrine
+2 Brightclimb Pathway
+3 Brightclimb Pathway
+4 Brightclimb Pathway
 1 Knight of the White Orchid
 1 Rally the Ranks
 1 Kitesail Freebooter
+1 Caves of Koilos
+1 Concealed Courtyard
 1 Thraben Inspector
 1 Thalia's Lieutenant
 1 Kytheon, Hero of Akros
 1 Giant Killer
+1 Bloodsoaked Champion
 1 Luminarch Aspirant
 1 Dauntless Bodyguard
 2 Knight of the White Orchid
 2 Kitesail Freebooter
+2 Concealed Courtyard
 2 Thalia's Lieutenant
 2 Rally the Ranks
+2 Bloodsoaked Champion
+2 Caves of Koilos
 2 Thraben Inspector
 2 Luminarch Aspirant
 2 Dauntless Bodyguard
 2 Giant Killer
+3 Caves of Koilos
 3 Thraben Inspector
 3 Giant Killer
 3 Kitesail Freebooter
 3 Luminarch Aspirant
+3 Concealed Courtyard
 3 Dauntless Bodyguard
 3 Plains
+3 Godless Shrine
 3 Thalia's Lieutenant
+3 Bloodsoaked Champion
 3 Rally the Ranks
+4 Godless Shrine
 4 Rally the Ranks
 4 Dauntless Bodyguard
+4 Caves of Koilos
 4 Plains
 4 Thalia's Lieutenant
 4 Thraben Inspector
@@ -325,9 +287,9 @@
 1 Dusk Legion Zealot
 1 Kalitas, Traitor of Ghet
 1 Bloodchief's Thirst
+1 Blood Baron of Vizkopa
 1 Knight of the Ebon Legion
 1 Isolated Chapel
-1 Blood Baron of Vizkopa
 2 Blood Baron of Vizkopa
 2 Sorin, Imperious Bloodlord
 2 Champion of Dusk
@@ -348,13 +310,14 @@
 4 Champion of Dusk
 4 Knight of the Ebon Legion
 4 Swamp
+4 Mutavault
 5 Swamp
 6 Swamp
 7 Swamp
 1 Questing Beast
-1 Nykthos, Shrine to Nyx
 1 Hydroid Krasis
 1 Nissa, Who Shakes the World
+1 Nykthos, Shrine to Nyx
 1 Barkchannel Pathway
 1 Garruk's Uprising
 1 Voracious Hydra
@@ -366,9 +329,9 @@
 1 The Great Henge
 1 Rhonas the Indomitable
 1 Hinterland Harbor
-2 Questing Beast
 2 Nissa, Who Shakes the World
 2 Hydroid Krasis
+2 Questing Beast
 2 Rhonas the Indomitable
 2 Barkchannel Pathway
 2 Vivien, Arkbow Ranger
@@ -380,13 +343,13 @@
 2 Breeding Pool
 2 Lovestruck Beast
 2 Vorinclex, Monstrous Raider
+3 Nissa, Who Shakes the World
 3 Steel Leaf Champion
 3 Questing Beast
-3 Nissa, Who Shakes the World
 3 Vivien, Arkbow Ranger
 3 Lovestruck Beast
-3 Breeding Pool
 3 Hinterland Harbor
+3 Breeding Pool
 3 Voracious Hydra
 3 Hydroid Krasis
 4 Steel Leaf Champion
