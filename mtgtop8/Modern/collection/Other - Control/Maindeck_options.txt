@@ -35,6 +35,7 @@
 1 Primeval Titan
 1 Sire of Insanity
 1 Cavern of Souls
+1 Castle Garenbrig
 1 Bojuka Bog
 1 Snow-Covered Forest
 1 Ghost Quarter
@@ -50,7 +51,6 @@
 1 Sylvan Caryatid
 1 Ruric Thar, the Unbowed
 1 Wurmcoil Engine
-1 Castle Garenbrig
 1 Gyruda, Doom of Depths
 1 Blast Zone
 1 Chalice of the Void
@@ -76,8 +76,8 @@
 2 Chalice of the Void
 2 Primeval Titan
 2 Sakura-Tribe Elder
-3 Castle Garenbrig
 3 Cavern of Souls
+3 Castle Garenbrig
 3 Farseek
 3 Chalice of the Void
 3 Primeval Titan
@@ -91,57 +91,6 @@
 4 Sakura-Tribe Elder
 4 Mwonvuli Acid-Moss
 4 Primeval Titan
-1 Thought Scour
-1 Sunken Ruins
-1 Bloodchief's Thirst
-1 Castle Vantress
-1 Cryptic Command
-1 Jace, the Mind Sculptor
-1 Into the Story
-1 River of Tears
-1 Flooded Strand
-1 Shark Typhoon
-1 Force of Negation
-1 Misty Rainforest
-2 Thought Scour
-2 Castle Vantress
-2 Shark Typhoon
-2 River of Tears
-2 Cryptic Command
-2 Bloodchief's Thirst
-2 Into the Story
-2 Force of Negation
-2 Misty Rainforest
-3 Thought Scour
-3 Shark Typhoon
-3 Cryptic Command
-3 River of Tears
-4 Thought Scour
-4 Shark Typhoon
-4 Archmage's Charm
-5 Island
-6 Island
-1 Smoldering Marsh
-1 Graven Cairns
-1 Liliana, Waker of the Dead
-1 Collective Brutality
-1 Rakdos Charm
-1 Chandra, Acolyte of Flame
-1 Mazemind Tome
-1 Ensnaring Bridge
-1 Dragonskull Summit
-2 Mazemind Tome
-2 Ensnaring Bridge
-2 Collective Brutality
-2 Chandra, Torch of Defiance
-3 Mazemind Tome
-3 Chandra, Torch of Defiance
-3 Ensnaring Bridge
-3 Dreadbore
-4 Mazemind Tome
-4 Ensnaring Bridge
-5 Swamp
-6 Swamp
 1 Nurturing Peatland
 1 Marsh Flats
 1 Magmatic Channeler
@@ -165,3 +114,54 @@
 4 Marsh Flats
 4 Blackcleave Cliffs
 4 Blood Crypt
+1 Thought Scour
+1 Sunken Ruins
+1 Bloodchief's Thirst
+1 Into the Story
+1 Cryptic Command
+1 Castle Vantress
+1 Jace, the Mind Sculptor
+1 River of Tears
+1 Flooded Strand
+1 Shark Typhoon
+1 Force of Negation
+1 Misty Rainforest
+2 Thought Scour
+2 Castle Vantress
+2 Shark Typhoon
+2 River of Tears
+2 Into the Story
+2 Cryptic Command
+2 Bloodchief's Thirst
+2 Force of Negation
+2 Misty Rainforest
+3 Thought Scour
+3 Shark Typhoon
+3 Cryptic Command
+3 River of Tears
+4 Thought Scour
+4 Shark Typhoon
+4 Archmage's Charm
+5 Island
+6 Island
+1 Smoldering Marsh
+1 Graven Cairns
+1 Collective Brutality
+1 Rakdos Charm
+1 Chandra, Acolyte of Flame
+1 Liliana, Waker of the Dead
+1 Mazemind Tome
+1 Ensnaring Bridge
+1 Dragonskull Summit
+2 Mazemind Tome
+2 Ensnaring Bridge
+2 Collective Brutality
+2 Chandra, Torch of Defiance
+3 Mazemind Tome
+3 Chandra, Torch of Defiance
+3 Ensnaring Bridge
+3 Dreadbore
+4 Ensnaring Bridge
+4 Mazemind Tome
+5 Swamp
+6 Swamp

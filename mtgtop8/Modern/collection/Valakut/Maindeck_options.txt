@@ -1,3 +1,14 @@
+3 Windswept Heath
+1 Castle Garenbrig
+1 Plains
+1 Elvish Reclaimer
+1 Flagstones of Trokair
+1 Temple Garden
+1 Ghost Quarter
+1 Radiant Fountain
+1 Skyclave Apparition
+1 Snow-Covered Plains
+1 Cavern of Souls
 1 Vesuva
 1 Selesnya Sanctuary
 1 Eladamri's Call
@@ -11,37 +22,13 @@
 2 Eladamri's Call
 3 Elvish Reclaimer
 3 Flagstones of Trokair
-3 Eladamri's Call
 3 Path to Exile
-4 Elvish Reclaimer
+3 Eladamri's Call
 4 Flagstones of Trokair
-4 Eladamri's Call
+4 Elvish Reclaimer
 4 Path to Exile
-1 Mountain
-2 Mountain
-1 Explore
-1 Yasharn, Implacable Earth
-1 Turntimber Symbiosis
-1 Courser of Kruphix
-1 Springbloom Druid
-2 Snow-Covered Plains
-2 Plains
-2 Temple Garden
-2 Selesnya Sanctuary
-3 Castle Garenbrig
-1 Field of the Dead
-2 Field of the Dead
-1 Verdant Catacombs
-1 Snow-Covered Mountain
-2 Windswept Heath
-3 Windswept Heath
-3 Mountain
-4 Mountain
-2 Explore
-3 Explore
+4 Eladamri's Call
 1 Anger of the Gods
-1 Tangled Florahedron
-2 Courser of Kruphix
 1 Misty Rainforest
 2 Verdant Catacombs
 3 Verdant Catacombs
@@ -50,6 +37,17 @@
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
+1 Yasharn, Implacable Earth
+1 Courser of Kruphix
+1 Turntimber Symbiosis
+1 Springbloom Druid
+2 Snow-Covered Plains
+2 Plains
+2 Temple Garden
+2 Selesnya Sanctuary
+3 Castle Garenbrig
+1 Field of the Dead
+2 Field of the Dead
 4 Windswept Heath
 5 Mountain
 3 Lightning Bolt
@@ -68,6 +66,8 @@
 1 Felidar Retreat
 2 Felidar Retreat
 2 Khalni Heart Expedition
+1 Tangled Florahedron
+2 Courser of Kruphix
 1 Relic of Progenitus
 1 Sweltering Suns
 2 Relic of Progenitus
@@ -99,7 +99,7 @@
 2 Ketria Triome
 2 Raugrin Triome
 3 Scalding Tarn
-3 Bring to Light
 3 Omnath, Locus of Creation
+3 Bring to Light
 4 Bring to Light
 4 Scalding Tarn

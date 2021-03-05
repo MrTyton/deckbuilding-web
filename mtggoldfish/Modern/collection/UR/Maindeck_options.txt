@@ -2,47 +2,46 @@
 4 Monastery Swiftspear
 4 Lava Dart
 4 Soul-Scar Mage
-2 Mountain
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
 4 Manamorphose
+2 Mountain
 3 Mountain
-1 Mishra's Bauble
-2 Mishra's Bauble
-3 Mishra's Bauble
-4 Mishra's Bauble
 1 Crash Through
 2 Crash Through
 3 Crash Through
 4 Crash Through
-1 Sunbaked Canyon
-2 Sunbaked Canyon
 1 Blood Moon
 2 Blood Moon
 1 Polluted Delta
-1 Wooded Foothills
-2 Wooded Foothills
+1 Sunbaked Canyon
+2 Sunbaked Canyon
 1 Misty Rainforest
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
+4 Mishra's Bauble
 1 Jace, the Mind Sculptor
-1 Fiery Islet
-1 Deprive
 3 Cryptic Command
 2 Sulfur Falls
+1 Deprive
 3 Flooded Strand
 4 Flooded Strand
-1 Arid Mesa
 3 Sunbaked Canyon
-1 Bloodstained Mire
-2 Bloodstained Mire
+1 Arid Mesa
+1 Wooded Foothills
+2 Wooded Foothills
 1 Mutagenic Growth
 2 Mutagenic Growth
 3 Mutagenic Growth
+1 Bloodstained Mire
 1 Sacred Foundry
 1 Inspiring Vantage
 1 Abbot of Keral Keep
 1 Myth Realized
 1 Boros Charm
+2 Bloodstained Mire
 2 Sacred Foundry
 2 Inspiring Vantage
 2 Boros Charm
@@ -55,14 +54,7 @@
 3 Steam Vents
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-1 Lava Spike
-2 Lava Spike
-2 Jace, the Mind Sculptor
-1 Shark Typhoon
-2 Shark Typhoon
-2 Polluted Delta
-1 The Royal Scions
-2 The Royal Scions
+1 Fiery Islet
 4 Mountain
 5 Mountain
 6 Mountain
@@ -72,85 +64,102 @@
 10 Mountain
 11 Mountain
 12 Mountain
-2 Fiery Islet
+1 Lava Spike
 1 Bedlam Reveler
 2 Bedlam Reveler
+2 Lava Spike
+2 Jace, the Mind Sculptor
+1 Shark Typhoon
+2 Shark Typhoon
+2 Polluted Delta
+13 Mountain
+14 Mountain
 3 Lava Spike
+3 Bedlam Reveler
 4 Lava Spike
+1 The Royal Scions
+2 The Royal Scions
 1 Mana Leak
 1 Abrade
 1 Ral, Izzet Viceroy
+2 Fiery Islet
 8 Island
 1 Cascade Bluffs
 1 Blast Zone
-2 Cascade Bluffs
 2 Magmatic Sinkhole
+2 Cascade Bluffs
 3 Brazen Borrower
 4 Brazen Borrower
-13 Mountain
-14 Mountain
-3 Bedlam Reveler
+1 Wild Slash
+2 Wild Slash
+1 Kiln Fiend
+2 Kiln Fiend
 2 Misty Rainforest
 3 Misty Rainforest
-1 Gut Shot
-1 Sprite Dragon
-2 Sprite Dragon
-3 Sprite Dragon
-4 Sprite Dragon
-3 Wooded Foothills
 1 Emrakul, the Aeons Torn
-1 Through the Breach
 1 Omen of the Sea
+1 Through the Breach
+2 Omen of the Sea
 2 Emrakul, the Aeons Torn
 2 Through the Breach
-2 Omen of the Sea
-3 Through the Breach
-3 Sulfur Falls
 3 Omen of the Sea
+3 Sulfur Falls
+3 Through the Breach
 3 Emrakul, the Aeons Torn
 4 Through the Breach
 4 Emrakul, the Aeons Torn
 1 Ancestral Vision
 2 Ancestral Vision
+1 Burst Lightning
+2 Burst Lightning
+3 Fiery Islet
 1 Fire Prophecy
 4 Misty Rainforest
-3 Fiery Islet
-1 Wild Slash
-2 Wild Slash
 4 Bedlam Reveler
+3 Kiln Fiend
+1 Gut Shot
 2 Gut Shot
 15 Mountain
 16 Mountain
 1 Snow-Covered Mountain
-1 Kiln Fiend
-2 Kiln Fiend
-1 Dreadhorde Arcanist
-2 Dreadhorde Arcanist
-2 Arid Mesa
-3 Arid Mesa
-1 Stomping Ground
-2 Stomping Ground
-4 Wooded Foothills
+1 Sprite Dragon
+2 Sprite Dragon
+3 Sprite Dragon
+4 Sprite Dragon
 1 Yidaro, Wandering Monster
 1 Wandering Fumarole
 1 Peek
 2 Peek
-1 Vendilion Clique
-1 Narset, Parter of Veils
-1 Flame Slash
-2 Narset, Parter of Veils
-3 Mystic Sanctuary
 1 Dispel
 1 Spell Pierce
 2 Spell Pierce
 3 Ancestral Vision
+1 Vendilion Clique
+1 Flame Slash
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
+3 Mystic Sanctuary
 1 Blistercoil Weird
-1 Burst Lightning
 1 Runaway Steam-Kin
 2 Blistercoil Weird
-2 Burst Lightning
 2 Runaway Steam-Kin
 3 Burst Lightning
+4 Fiery Islet
+1 Dreadhorde Arcanist
+1 Serum Visions
+1 Piracy Charm
+2 Serum Visions
+2 Dreadhorde Arcanist
+2 Deprive
+2 Piracy Charm
+3 Serum Visions
+3 Polluted Delta
+3 Dreadhorde Arcanist
+3 Piracy Charm
+4 Serum Visions
+4 Polluted Delta
+4 Steam Vents
+4 Dreadhorde Arcanist
 1 Forgotten Cave
 1 Arclight Phoenix
 1 Thrill of Possibility
@@ -170,40 +179,18 @@
 3 Ground Rift
 4 Nivmagus Elemental
 4 Ground Rift
-1 Serum Visions
-1 Piracy Charm
-2 Serum Visions
-2 Deprive
-2 Piracy Charm
-3 Serum Visions
-3 Polluted Delta
-3 Dreadhorde Arcanist
-3 Piracy Charm
-4 Serum Visions
-4 Polluted Delta
-4 Dreadhorde Arcanist
-4 Steam Vents
 1 Thing in the Ice
 2 Thing in the Ice
 3 Thing in the Ice
 4 Thing in the Ice
-1 Bomat Courier
-1 Spirebluff Canal
-1 Stormwing Entity
-2 Stormwing Entity
-2 Spirebluff Canal
-3 Stormwing Entity
-3 Spirebluff Canal
-4 Stormwing Entity
-4 Spirebluff Canal
 1 Goldspan Dragon
+1 Magda, Brazen Outlaw
 1 Glorybringer
 1 Silumgar's Scorn
-1 Magda, Brazen Outlaw
 1 Mothdust Changeling
 2 Goldspan Dragon
-2 Silumgar's Scorn
 2 Magda, Brazen Outlaw
+2 Silumgar's Scorn
 2 Mothdust Changeling
 3 Goldspan Dragon
 3 Mothdust Changeling
@@ -214,28 +201,6 @@
 4 Magda, Brazen Outlaw
 4 Mothdust Changeling
 4 Silumgar's Scorn
-1 Tarfire
-1 Brushfire Elemental
-1 Forest
-1 Copperline Gorge
-1 Seal of Fire
-1 Akoum Hellhound
-1 Tarmogoyf
-1 Wrenn and Six
-2 Brushfire Elemental
-2 Seal of Fire
-2 Copperline Gorge
-2 Akoum Hellhound
-2 Tarmogoyf
-2 Wrenn and Six
-3 Wrenn and Six
-3 Copperline Gorge
-3 Brushfire Elemental
-3 Tarmogoyf
-3 Akoum Hellhound
-4 Copperline Gorge
-4 Tarmogoyf
-4 Akoum Hellhound
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
@@ -250,7 +215,6 @@
 9 Island
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
-3 Kiln Fiend
 4 Sunbaked Canyon
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
@@ -264,18 +228,31 @@
 13 Snow-Covered Mountain
 14 Snow-Covered Mountain
 15 Snow-Covered Mountain
-1 Become Immense
-1 Scale Up
-1 Wayward Guide-Beast
-1 Goblin Guide
-2 Goblin Guide
-2 Become Immense
-2 Wayward Guide-Beast
-3 Bloodstained Mire
-3 Become Immense
-3 Goblin Guide
-3 Wayward Guide-Beast
-4 Bloodstained Mire
-4 Become Immense
-4 Wayward Guide-Beast
-4 Goblin Guide
+1 Tarfire
+1 Stomping Ground
+1 Brushfire Elemental
+1 Forest
+1 Copperline Gorge
+1 Seal of Fire
+1 Akoum Hellhound
+1 Tarmogoyf
+1 Wrenn and Six
+2 Arid Mesa
+2 Brushfire Elemental
+2 Seal of Fire
+2 Stomping Ground
+2 Copperline Gorge
+2 Tarmogoyf
+2 Akoum Hellhound
+2 Wrenn and Six
+3 Copperline Gorge
+3 Arid Mesa
+3 Wooded Foothills
+3 Wrenn and Six
+3 Brushfire Elemental
+3 Tarmogoyf
+3 Akoum Hellhound
+4 Copperline Gorge
+4 Wooded Foothills
+4 Tarmogoyf
+4 Akoum Hellhound

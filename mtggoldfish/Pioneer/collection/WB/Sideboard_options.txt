@@ -4,20 +4,6 @@
 1 Declaration in Stone
 1 Legion's End
 2 Legion's End
-1 Noxious Grasp
-2 Noxious Grasp
-1 Elspeth Conquers Death
-2 Elspeth Conquers Death
-1 Deafening Silence
-1 Thalia, Heretic Cathar
-1 Collective Effort
-1 Nyx-Fleece Ram
-2 Deafening Silence
-2 Thalia, Heretic Cathar
-2 Nyx-Fleece Ram
-2 Collective Effort
-3 Deafening Silence
-3 Nyx-Fleece Ram
 1 Sin Collector
 1 Arashin Cleric
 1 Xathrid Necromancer
@@ -25,17 +11,18 @@
 2 Arashin Cleric
 2 Xathrid Necromancer
 3 Arashin Cleric
-1 Selfless Spirit
-1 Archangel of Tithes
-1 Bishop of Wings
-1 Anguished Unmaking
-1 Disenchant
-2 Archangel of Tithes
-2 Anguished Unmaking
-3 Noxious Grasp
-3 Elspeth Conquers Death
-3 Archangel of Tithes
-3 Anguished Unmaking
+1 Deafening Silence
+1 Elspeth Conquers Death
+1 Thalia, Heretic Cathar
+1 Collective Effort
+1 Nyx-Fleece Ram
+2 Deafening Silence
+2 Elspeth Conquers Death
+2 Thalia, Heretic Cathar
+2 Nyx-Fleece Ram
+2 Collective Effort
+3 Deafening Silence
+3 Nyx-Fleece Ram
 1 Devout Decree
 1 Damping Sphere
 1 Tormod's Crypt
@@ -50,7 +37,9 @@
 3 Damping Sphere
 3 Devout Decree
 4 Devout Decree
+1 Noxious Grasp
 1 Baffling End
+2 Noxious Grasp
 2 Baffling End
 3 Baffling End
 4 Baffling End

@@ -7,9 +7,9 @@
 1 Jwari Disruption
 1 Shark Typhoon
 1 Crawling Barrens
+2 Jwari Disruption
 2 Shark Typhoon
 2 Crawling Barrens
-2 Jwari Disruption
 1 Mazemind Tome
 1 Soul Shatter
 1 Erebos's Intervention
@@ -35,8 +35,8 @@
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 2 Snow-Covered Island
-3 Snow-Covered Swamp
 3 Snow-Covered Island
+3 Snow-Covered Swamp
 4 Snow-Covered Island
 4 Snow-Covered Swamp
 5 Snow-Covered Island
@@ -48,8 +48,8 @@
 3 Eliminate
 3 Negate
 4 Negate
-1 Graven Lore
 1 Field of Ruin
+1 Graven Lore
 1 Midnight Clock
 2 Graven Lore
 2 Field of Ruin
@@ -117,20 +117,20 @@
 4 Bloodchief's Thirst
 1 Thassa, Deep-Dwelling
 1 Atris, Oracle of Half-Truths
-1 Blood on the Snow
 1 Burning-Rune Demon
+1 Blood on the Snow
 1 Solemn Simulacrum
 2 Atris, Oracle of Half-Truths
 2 Blood on the Snow
 2 Solemn Simulacrum
 2 Burning-Rune Demon
-3 Solemn Simulacrum
 3 Atris, Oracle of Half-Truths
 3 Blood on the Snow
+3 Solemn Simulacrum
 3 Erebos's Intervention
 4 Atris, Oracle of Half-Truths
-4 Solemn Simulacrum
 4 Blood on the Snow
+4 Solemn Simulacrum
 4 Erebos's Intervention
 8 Snow-Covered Island
 8 Snow-Covered Swamp
@@ -138,8 +138,8 @@
 9 Snow-Covered Swamp
 10 Snow-Covered Island
 10 Snow-Covered Swamp
-1 Temple of Malice
 1 Call of the Death-Dweller
+1 Temple of Malice
 1 Crippling Fear
 1 Blightstep Pathway
 1 Riverglide Pathway
@@ -156,27 +156,27 @@
 3 Valki, God of Lies
 4 Saw It Coming
 1 Volatile Fjord
-1 Sulfurous Mire
 1 Frantic Inventory
 1 Feed the Swarm
+1 Sulfurous Mire
 1 Feed the Serpent
-1 Grasp of Darkness
 1 Narfi, Betrayer King
+1 Grasp of Darkness
+2 Volatile Fjord
 2 Frantic Inventory
 2 Sulfurous Mire
 2 Feed the Serpent
 2 Feed the Swarm
-2 Grasp of Darkness
 2 Narfi, Betrayer King
-2 Volatile Fjord
-3 Sulfurous Mire
+2 Grasp of Darkness
 3 Didn't Say Please
+3 Volatile Fjord
 3 Frantic Inventory
 3 Feed the Serpent
+3 Sulfurous Mire
 3 Grasp of Darkness
-3 Volatile Fjord
-4 Sulfurous Mire
 4 Volatile Fjord
 4 Didn't Say Please
 4 Frantic Inventory
+4 Sulfurous Mire
 7 Island

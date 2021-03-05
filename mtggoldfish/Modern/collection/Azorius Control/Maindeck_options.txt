@@ -1,5 +1,5 @@
-1 Snow-Covered Plains
 1 Snow-Covered Island
+1 Snow-Covered Plains
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
@@ -7,66 +7,63 @@
 1 Castle Ardenvale
 2 Snow-Covered Plains
 1 Logic Knot
-4 Snapcaster Mage
-1 Sword of Feast and Famine
-1 Batterskull
 1 Stoneforge Mystic
+1 Batterskull
+1 Sword of Feast and Famine
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+4 Snapcaster Mage
 1 Prismatic Vista
 2 Prismatic Vista
+1 Misty Rainforest
 2 Spell Snare
 1 Sword of Fire and Ice
 1 Spell Queller
 2 Spell Queller
 3 Prismatic Vista
-1 Misty Rainforest
 2 Teferi, Hero of Dominaria
 1 Glacial Floodplain
 1 Irrigated Farmland
 1 Narset, Parter of Veils
-1 Prairie Stream
-1 Remand
-2 Remand
+1 Scalding Tarn
 1 Terminus
 2 Terminus
 3 Jace, the Mind Sculptor
 1 Ghost Quarter
 2 Narset, Parter of Veils
-1 Scalding Tarn
 3 Polluted Delta
-3 Hallowed Fountain
+1 Prairie Stream
+1 Mystic Gate
+3 Archmage's Charm
+1 Remand
+2 Remand
 3 Terminus
 4 Terminus
 1 Hengegate Pathway
-3 Shark Typhoon
 2 Scalding Tarn
+3 Shark Typhoon
 3 Supreme Verdict
 1 Behold the Multiverse
-1 Raugrin Triome
 4 Prismatic Vista
-1 Engineered Explosives
-1 Condemn
 3 Celestial Colonnade
-1 Mystic Sanctuary
-2 Mystic Sanctuary
-3 Mystic Sanctuary
-3 Archmage's Charm
-1 Mystic Gate
+1 Condemn
+3 Hallowed Fountain
 4 Force of Negation
 1 Ancestral Vision
-1 Negate
-1 Mutavault
 1 Detention Sphere
 1 Fact or Fiction
+1 Mutavault
+1 Negate
 2 Ancestral Vision
 3 Ancestral Vision
 4 Celestial Colonnade
 1 Dovin's Veto
 1 Blast Zone
 1 Winds of Abandon
+1 Raugrin Triome
 2 Misty Rainforest
+1 Engineered Explosives
 1 Peek
 2 Castle Ardenvale
 3 Plains
@@ -76,9 +73,9 @@
 3 Narset, Parter of Veils
 1 Oboro, Palace in the Clouds
 1 Emeria's Call
-1 Minamo, School at Water's Edge
 1 Skyclave Apparition
 1 Niambi, Esteemed Speaker
+1 Minamo, School at Water's Edge
 1 Eiganjo Castle
 2 Skyclave Apparition
 2 Mystic Gate
@@ -88,10 +85,6 @@
 2 Behold the Multiverse
 3 Behold the Multiverse
 4 Behold the Multiverse
-1 Serum Visions
-2 Serum Visions
-3 Remand
-4 Remand
 4 Supreme Verdict
 1 Seachrome Coast
 1 Sea Gate Restoration
@@ -103,6 +96,7 @@
 3 Hengegate Pathway
 4 Seachrome Coast
 4 Hengegate Pathway
+4 Archmage's Charm
 1 On Thin Ice
 2 On Thin Ice
 3 On Thin Ice
@@ -111,11 +105,14 @@
 6 Snow-Covered Island
 1 Counterbalance
 1 Entreat the Angels
+1 Mystic Sanctuary
 1 Omen of the Sea
+2 Mystic Sanctuary
 2 Counterbalance
 2 Omen of the Sea
 3 Counterbalance
 3 Omen of the Sea
+3 Mystic Sanctuary
 4 Polluted Delta
 4 Omen of the Sea
 4 Counterbalance

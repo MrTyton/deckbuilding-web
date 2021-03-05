@@ -2,84 +2,73 @@
 2 Thalia, Guardian of Thraben
 1 Idyllic Grange
 1 Windswept Heath
+1 Sword of Fire and Ice
 1 Stoneforge Mystic
 1 Batterskull
-1 Sword of Fire and Ice
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-3 Thalia, Guardian of Thraben
 1 Field of Ruin
 2 Field of Ruin
-4 Thalia, Guardian of Thraben
+3 Thalia, Guardian of Thraben
 1 Flickerwisp
 2 Flickerwisp
 3 Flickerwisp
 3 Field of Ruin
+4 Thalia, Guardian of Thraben
 4 Path to Exile
 4 Field of Ruin
 1 Restoration Angel
 1 Maul of the Skyclaves
-1 Ghost Quarter
 1 Leonin Arbiter
+1 Ghost Quarter
 2 Leonin Arbiter
 2 Ghost Quarter
 3 Leonin Arbiter
 3 Ghost Quarter
-4 Leonin Arbiter
 4 Ghost Quarter
+4 Leonin Arbiter
 4 Flickerwisp
 2 Restoration Angel
 3 Restoration Angel
 4 Restoration Angel
 10 Plains
-1 Silent Clearing
-1 Charming Prince
 11 Plains
 12 Plains
 13 Plains
 14 Plains
 15 Plains
 16 Plains
+1 Silent Clearing
 1 Horizon Canopy
 1 Inspiring Vantage
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
-1 Eiganjo Castle
-2 Silent Clearing
-1 Sword of Feast and Famine
-1 Marsh Flats
-2 Marsh Flats
-1 Snow-Covered Plains
-2 Snow-Covered Plains
-3 Snow-Covered Plains
-4 Snow-Covered Plains
-5 Snow-Covered Plains
-6 Snow-Covered Plains
-7 Snow-Covered Plains
-2 Charming Prince
+1 Charming Prince
+1 Hallowed Fountain
 1 Hengegate Pathway
 1 Seachrome Coast
 1 Teferi, Time Raveler
 1 Island
-1 Hallowed Fountain
 1 Spell Queller
 1 Glasspool Mimic
 2 Glasspool Mimic
-2 Hengegate Pathway
 2 Seachrome Coast
 2 Teferi, Time Raveler
 2 Hallowed Fountain
+2 Hengegate Pathway
 2 Spell Queller
 3 Glasspool Mimic
-3 Hallowed Fountain
+3 Teferi, Time Raveler
 3 Hengegate Pathway
+3 Hallowed Fountain
 3 Seachrome Coast
 3 Spell Queller
-3 Teferi, Time Raveler
 4 Glasspool Mimic
 4 Seachrome Coast
 4 Hallowed Fountain
+1 Eiganjo Castle
+2 Silent Clearing
 1 Castle Ardenvale
 1 Skyclave Cleric
 2 Skyclave Cleric
@@ -91,76 +80,56 @@
 2 Winds of Abandon
 3 Tectonic Edge
 4 Tectonic Edge
-3 Charming Prince
-4 Charming Prince
-1 Mutavault
-8 Snow-Covered Plains
-9 Snow-Covered Plains
+1 Sword of Feast and Famine
+2 Charming Prince
+1 Snow-Covered Plains
+2 Snow-Covered Plains
+3 Snow-Covered Plains
+4 Snow-Covered Plains
+5 Snow-Covered Plains
+6 Snow-Covered Plains
+7 Snow-Covered Plains
+1 Marsh Flats
+2 Marsh Flats
 1 Ranger of Eos
 1 Spellskite
 1 Thraben Inspector
 2 Thraben Inspector
-1 Watcher for Tomorrow
-1 Sword of Light and Shadow
-1 Alrund, God of the Cosmos
-2 Watcher for Tomorrow
-2 Alrund, God of the Cosmos
-3 Watcher for Tomorrow
-3 Alrund, God of the Cosmos
-4 Hengegate Pathway
 1 Ethersworn Canonist
 1 Blast Zone
 2 Ethersworn Canonist
 2 Blast Zone
 3 Ethersworn Canonist
 4 Ethersworn Canonist
-1 Reidane, God of the Worthy
-1 Halvar, God of Battle
-1 Usher of the Fallen
-1 Sigrid, God-Favored
-1 Giant Killer
-1 Flooded Strand
-1 Tithe Taker
-2 Mutavault
-2 Reidane, God of the Worthy
-2 Usher of the Fallen
-2 Giant Killer
-2 Halvar, God of Battle
-2 Sigrid, God-Favored
-2 Tithe Taker
-2 Flooded Strand
-2 Batterskull
-3 Mutavault
-3 Usher of the Fallen
-3 Flooded Strand
-3 Tithe Taker
-3 Silent Clearing
-3 Marsh Flats
-4 Mutavault
-4 Usher of the Fallen
-4 Flooded Strand
-4 Tithe Taker
-4 Marsh Flats
-4 Silent Clearing
+1 Watcher for Tomorrow
+1 Sword of Light and Shadow
+1 Alrund, God of the Cosmos
+2 Watcher for Tomorrow
+2 Alrund, God of the Cosmos
+3 Watcher for Tomorrow
+3 Charming Prince
+3 Alrund, God of the Cosmos
+4 Hengegate Pathway
+4 Charming Prince
+1 Seal of Fire
 1 Lurrus of the Dream-Den
 1 Needleverge Pathway
 1 Rugged Prairie
-1 Seal of Fire
 2 Lurrus of the Dream-Den
-2 Inspiring Vantage
-2 Sacred Foundry
-2 Needleverge Pathway
-2 Rugged Prairie
 2 Seal of Fire
+2 Needleverge Pathway
+2 Sacred Foundry
+2 Rugged Prairie
+2 Inspiring Vantage
+3 Lurrus of the Dream-Den
 3 Seal of Fire
 3 Sacred Foundry
-3 Lurrus of the Dream-Den
-3 Inspiring Vantage
 3 Needleverge Pathway
+3 Inspiring Vantage
 3 Seasoned Pyromancer
-4 Inspiring Vantage
 4 Needleverge Pathway
 4 Seasoned Pyromancer
+4 Inspiring Vantage
 4 Seal of Fire
 1 Linvala, Keeper of Silence
 2 Castle Ardenvale
@@ -171,6 +140,8 @@
 2 Blade Splicer
 3 Blade Splicer
 4 Blade Splicer
+8 Snow-Covered Plains
+9 Snow-Covered Plains
 10 Snow-Covered Plains
 11 Snow-Covered Plains
 12 Snow-Covered Plains
@@ -180,6 +151,7 @@
 16 Snow-Covered Plains
 1 Militia Bugler
 1 Phyrexian Revoker
+1 Mutavault
 2 Militia Bugler
 2 Phyrexian Revoker
 3 Militia Bugler
