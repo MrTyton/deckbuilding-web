@@ -1,21 +1,21 @@
+1 True-Name Nemesis
+2 Snow-Covered Island
+4 Preordain
 1 Dreadhorde Arcanist
 2 Dreadhorde Arcanist
 3 Dreadhorde Arcanist
-1 True-Name Nemesis
-2 Snow-Covered Island
 4 Dreadhorde Arcanist
-4 Preordain
-2 Flooded Strand
 3 Young Pyromancer
+2 Flooded Strand
 1 Pyroblast
+1 Ethereal Forager
 1 Bloodstained Mire
 1 Spell Pierce
-1 Ethereal Forager
+2 Ethereal Forager
+4 Chain Lightning
 2 True-Name Nemesis
 1 Fiery Islet
 2 Brazen Borrower
-2 Ethereal Forager
-4 Chain Lightning
 4 Volcanic Island
 4 Young Pyromancer
 1 Stifle
@@ -30,6 +30,8 @@
 1 Arid Mesa
 1 Fireblast
 1 Fire/Ice
+3 Ethereal Forager
+4 Ethereal Forager
 2 Spell Pierce
 3 Flooded Strand
 1 Pteramander
@@ -39,8 +41,8 @@
 1 Dead/Gone
 2 Wooded Foothills
 2 Bloodstained Mire
-1 Gut Shot
 1 Surgical Extraction
+1 Gut Shot
 1 Bedlam Reveler
 2 Gut Shot
 2 Surgical Extraction
@@ -56,14 +58,18 @@
 3 Kari Zev, Skyship Raider
 3 Nivmagus Elemental
 3 Flusterstorm
-1 The Royal Scions
-2 The Royal Scions
-4 Flooded Strand
 3 Pteramander
 4 Pteramander
 1 Counterbalance
 2 Counterbalance
 4 Stifle
+3 Force of Negation
+4 Force of Negation
+1 The Royal Scions
+2 The Royal Scions
+4 Flooded Strand
+3 Misty Rainforest
+4 Misty Rainforest
 1 Arclight Phoenix
 1 Faithless Looting
 1 Thought Scour
@@ -78,10 +84,6 @@
 4 Arclight Phoenix
 4 Faithless Looting
 4 Thought Scour
-3 Force of Negation
-4 Force of Negation
-3 Ethereal Forager
-4 Ethereal Forager
 1 Magmatic Channeler
 2 Magmatic Channeler
 2 Mountain

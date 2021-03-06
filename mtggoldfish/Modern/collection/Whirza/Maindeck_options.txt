@@ -1,41 +1,40 @@
 2 Scalding Tarn
-3 Witching Well
-1 Galvanic Blast
 3 Darkslick Shores
+3 Witching Well
 5 Snow-Covered Island
+1 Galvanic Blast
 1 Talisman of Dominance
 1 Spellskite
-3 Goblin Engineer
-2 Galvanic Blast
-4 Goblin Engineer
-1 Mystic Sanctuary
 1 Island
+3 Goblin Engineer
 2 Island
 3 Island
+1 Swamp
 1 Pentad Prism
 4 Island
-1 Flooded Strand
-1 Swamp
-2 Flooded Strand
-4 Witching Well
+2 Galvanic Blast
+1 Mystic Sanctuary
+4 Goblin Engineer
 2 Mox Amber
-3 Flooded Strand
-2 Watery Grave
+1 Flooded Strand
+2 Flooded Strand
 1 Spirebluff Canal
+4 Witching Well
 2 Pentad Prism
-4 Flooded Strand
+3 Flooded Strand
 3 Mox Amber
 4 Mox Amber
 2 Mystic Sanctuary
+2 Watery Grave
 1 Damping Sphere
 1 Snow-Covered Mountain
 5 Island
 1 Lurrus of the Dream-Den
 1 Tezzeret, Agent of Bolas
-2 Steam Vents
-6 Island
-2 Nihil Spellbomb
 1 Soul-Guide Lantern
+4 Flooded Strand
+2 Nihil Spellbomb
+6 Island
 1 Ichor Wellspring
 1 Sorcerous Spyglass
 1 Chalice of the Void
@@ -48,18 +47,20 @@
 1 Hallowed Fountain
 1 Fatal Push
 2 Fatal Push
+2 Glimmervoid
+3 Sword of the Meek
+2 Steam Vents
 2 Misty Rainforest
 3 Misty Rainforest
 1 Welding Jar
-4 Whir of Invention
-2 Glimmervoid
-3 Sword of the Meek
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
 3 Bloodchief's Thirst
 1 Dreadbore
 2 Swamp
 3 Pentad Prism
+2 Ensnaring Bridge
+4 Whir of Invention
 2 Talisman of Dominance
 1 Ghost Quarter
 1 Witchbane Orb
@@ -73,7 +74,6 @@
 1 Cascade Bluffs
 1 Bottled Cloister
 2 Sorcerous Spyglass
-2 Ensnaring Bridge
 2 Simian Spirit Guide
 2 Cascade Bluffs
 2 Welding Jar
@@ -91,6 +91,8 @@
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Fatal Push
+1 Thoughtseize
+2 Thoughtseize
 1 Snow-Covered Plains
 1 Sacred Foundry
 1 Raugrin Triome
@@ -100,8 +102,6 @@
 1 Blast Zone
 1 Talisman of Creativity
 1 Teferi's Puzzle Box
-1 Cavern of Souls
-2 Cavern of Souls
 1 Prismatic Vista
 1 Sai, Master Thopterist
 1 Fetid Pools
@@ -124,15 +124,36 @@
 3 Force of Negation
 4 Fatal Push
 2 Hallowed Fountain
-3 Mystic Sanctuary
 3 Chromatic Star
 3 Teferi, Time Raveler
+3 Mystic Sanctuary
 4 Teferi, Time Raveler
-1 Remand
 1 Zagoth Triome
-1 Thoughtseize
+1 Remand
 2 Remand
-2 Thoughtseize
 3 Remand
 4 Engineered Explosives
 4 Misty Rainforest
+1 Inquisition of Kozilek
+1 Lantern of Insight
+1 Codex Shredder
+1 Pyxis of Pandemonium
+1 Breeding Pool
+1 Ancient Stirrings
+2 Inquisition of Kozilek
+2 Codex Shredder
+2 Lantern of Insight
+2 Ancient Stirrings
+2 Pithing Needle
+3 Inquisition of Kozilek
+3 Glimmervoid
+3 Ancient Stirrings
+3 Lantern of Insight
+3 Codex Shredder
+4 Darkslick Shores
+4 Ancient Stirrings
+4 Inquisition of Kozilek
+4 Glimmervoid
+4 Codex Shredder
+4 Lantern of Insight
+4 Spire of Industry

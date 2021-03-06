@@ -49,10 +49,10 @@
 3 Verdant Catacombs
 3 Misty Rainforest
 1 Snow-Covered Island
-1 Shark Typhoon
 1 Omen of the Sea
-2 Shark Typhoon
+1 Shark Typhoon
 2 Omen of the Sea
+2 Shark Typhoon
 3 Estrid's Invocation
 1 Seal of Primordium
 4 Serra's Sanctum
@@ -88,28 +88,28 @@
 2 Words of Wind
 2 Spreading Seas
 2 Energy Field
-3 Spreading Seas
 3 Omen of the Sea
+3 Spreading Seas
 3 Shark Typhoon
 3 Energy Field
-4 Spreading Seas
 4 Omen of the Sea
+4 Spreading Seas
 4 Shark Typhoon
 4 Misty Rainforest
 8 Snow-Covered Forest
 9 Snow-Covered Forest
 10 Snow-Covered Forest
 11 Snow-Covered Forest
+1 Snow-Covered Swamp
 1 Arcum's Astrolabe
 1 Detention Sphere
-1 Snow-Covered Swamp
 1 The Royal Scions
 1 Trail of Crumbs
-1 Snow-Covered Mountain
-1 Supreme Verdict
-1 Omen of the Sun
-1 Brazen Borrower
 1 Bitterblossom
+1 Omen of the Sun
+1 Snow-Covered Mountain
+1 Brazen Borrower
+1 Supreme Verdict
 1 Arcane Laboratory
 1 Omen of the Forge
 1 Happily Ever After
@@ -138,9 +138,6 @@
 3 Leyline of the Void
 4 Karn, the Great Creator
 4 Leyline of the Void
-1 Ancient Tomb
-3 Green Sun's Zenith
-9 Forest
 1 Crop Rotation
 1 Dark Depths
 1 Maze of Ith
@@ -148,9 +145,9 @@
 1 Taiga
 1 Valakut Exploration
 1 The Tabernacle at Pendrell Vale
-1 Wasteland
 1 Life from the Loam
 1 Bojuka Bog
+1 Wasteland
 1 Rishadan Port
 1 Thespian's Stage
 1 Mox Diamond
@@ -175,7 +172,10 @@
 3 Rishadan Port
 3 Mox Diamond
 4 Valakut Exploration
-4 Exploration
 4 Wasteland
+4 Exploration
 4 Mox Diamond
 4 Thespian's Stage
+1 Ancient Tomb
+3 Green Sun's Zenith
+9 Forest

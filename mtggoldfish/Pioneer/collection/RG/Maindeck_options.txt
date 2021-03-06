@@ -36,11 +36,11 @@
 1 Realmwalker
 2 Realmwalker
 3 Realmwalker
-1 Snow-Covered Forest
-1 Snow-Covered Island
-1 Snow-Covered Swamp
 1 Snow-Covered Mountain
 1 Overgrown Tomb
+1 Snow-Covered Swamp
+1 Snow-Covered Island
+1 Snow-Covered Forest
 1 Unclaimed Territory
 1 Diffusion Sliver
 1 Leeching Sliver
@@ -94,12 +94,12 @@
 1 Wild Slash
 2 Wild Slash
 7 Mountain
-1 Woodland Cemetery
 1 Hinterland Harbor
+1 Woodland Cemetery
 1 Steam Vents
+1 Blooming Marsh
 1 Botanical Sanctum
 1 Spirebluff Canal
-1 Blooming Marsh
 2 Botanical Sanctum
 1 Legion Warboss
 2 Captain Lannery Storm
@@ -134,19 +134,18 @@
 1 Branchloft Pathway
 1 Hangarback Walker
 1 Conclave Mentor
-1 Luminarch Aspirant
 1 Dromoka's Command
 1 Snakeskin Veil
 1 Hardened Scales
 1 Sunpetal Grove
 1 Vivien, Arkbow Ranger
+1 Luminarch Aspirant
 1 Rishkar, Peema Renegade
 1 The Ozolith
 1 Nissa, Voice of Zendikar
 2 Branchloft Pathway
 2 Temple Garden
 2 Hangarback Walker
-2 Luminarch Aspirant
 2 Conclave Mentor
 2 Snakeskin Veil
 2 Dromoka's Command
@@ -155,11 +154,12 @@
 2 The Ozolith
 2 Nissa, Voice of Zendikar
 2 Hardened Scales
+2 Luminarch Aspirant
 2 Sunpetal Grove
 3 Sunpetal Grove
 3 Nissa, Voice of Zendikar
-3 Temple Garden
 3 Branchloft Pathway
+3 Temple Garden
 3 Luminarch Aspirant
 3 Conclave Mentor
 3 Hardened Scales
@@ -167,8 +167,8 @@
 3 Hangarback Walker
 3 Rishkar, Peema Renegade
 4 Nissa, Voice of Zendikar
-4 Temple Garden
 4 Branchloft Pathway
+4 Temple Garden
 4 Luminarch Aspirant
 4 Conclave Mentor
 4 Hardened Scales
@@ -284,8 +284,8 @@
 3 Trostani Discordant
 3 Worldspine Wurm
 4 Plains
-4 Charming Prince
 4 Temple of Plenty
+4 Charming Prince
 4 Paradise Druid
 4 Trostani Discordant
 4 Fortified Village

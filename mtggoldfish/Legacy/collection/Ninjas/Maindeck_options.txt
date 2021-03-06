@@ -8,9 +8,9 @@
 1 Eliminate
 1 Murderous Cut
 1 Abrupt Decay
-1 Oko, Thief of Crowns
 1 Tropical Island
 1 Bayou
+1 Oko, Thief of Crowns
 2 Abrupt Decay
 2 Oko, Thief of Crowns
 2 Misty Rainforest
@@ -24,13 +24,13 @@
 1 Narset, Parter of Veils
 2 Flooded Strand
 3 Swamp
-1 Tundra
-1 Scrubland
 1 Marsh Flats
 1 Teferi, Time Raveler
+1 Scrubland
+1 Tundra
 1 Swords to Plowshares
-2 Swords to Plowshares
 2 Tundra
+2 Swords to Plowshares
 3 Flooded Strand
 3 Swords to Plowshares
 4 Flooded Strand
@@ -55,8 +55,6 @@
 1 Snuff Out
 1 Tombstalker
 2 Sylvan Library
-1 Plague Engineer
-2 Plague Engineer
 1 Snow-Covered Forest
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
@@ -66,5 +64,7 @@
 1 Ninja of the Deep Hours
 2 Mothdust Changeling
 3 Mothdust Changeling
-4 Mothdust Changeling
 4 Daze
+4 Mothdust Changeling
+1 Plague Engineer
+2 Plague Engineer

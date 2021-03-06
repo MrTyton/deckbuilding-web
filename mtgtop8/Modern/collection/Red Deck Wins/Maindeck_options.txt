@@ -23,8 +23,8 @@
 3 Lava Dart
 4 Soul-Scar Mage
 4 Lava Dart
-4 Light Up the Stage
 4 Mountain
+4 Light Up the Stage
 5 Mountain
 6 Mountain
 7 Mountain
@@ -56,44 +56,25 @@
 2 Mishra's Bauble
 3 Bedlam Reveler
 3 Mishra's Bauble
-4 Mishra's Bauble
 4 Bedlam Reveler
+4 Mishra's Bauble
 1 Deflecting Palm
 1 Vexing Devil
-2 Vexing Devil
 2 Deflecting Palm
+2 Vexing Devil
 3 Deflecting Palm
 3 Vexing Devil
 4 Vexing Devil
-1 Atarka's Command
-1 Blackcleave Cliffs
-1 Stomping Ground
-1 Blood Crypt
-1 Copperline Gorge
-1 Bump in the Night
-1 Wayward Guide-Beast
-2 Bump in the Night
-2 Atarka's Command
-2 Copperline Gorge
-2 Blackcleave Cliffs
-2 Wayward Guide-Beast
-3 Bump in the Night
-3 Atarka's Command
-3 Copperline Gorge
-3 Blackcleave Cliffs
-3 Wayward Guide-Beast
-4 Bump in the Night
-4 Atarka's Command
-4 Copperline Gorge
-4 Blackcleave Cliffs
-4 Wooded Foothills
-4 Wayward Guide-Beast
-1 Seasoned Pyromancer
+1 Kiln Fiend
+2 Kiln Fiend
+3 Kiln Fiend
+4 Kiln Fiend
 1 Blistercoil Weird
+1 Seasoned Pyromancer
 1 Bomat Courier
 1 Blast Zone
-1 Flame Slash
 1 Firebolt
+1 Flame Slash
 2 Flame Slash
 2 Bomat Courier
 2 Seasoned Pyromancer
@@ -106,11 +87,30 @@
 3 Flame Slash
 3 Firebolt
 4 Bonecrusher Giant
-4 Bomat Courier
 4 Seasoned Pyromancer
+4 Bomat Courier
 4 Firebolt
 16 Mountain
-1 Kiln Fiend
-2 Kiln Fiend
-3 Kiln Fiend
-4 Kiln Fiend
+1 Blackcleave Cliffs
+1 Copperline Gorge
+1 Stomping Ground
+1 Blood Crypt
+1 Atarka's Command
+1 Bump in the Night
+1 Wayward Guide-Beast
+2 Blackcleave Cliffs
+2 Copperline Gorge
+2 Atarka's Command
+2 Bump in the Night
+2 Wayward Guide-Beast
+3 Blackcleave Cliffs
+3 Copperline Gorge
+3 Bump in the Night
+3 Atarka's Command
+3 Wayward Guide-Beast
+4 Blackcleave Cliffs
+4 Wooded Foothills
+4 Copperline Gorge
+4 Wayward Guide-Beast
+4 Bump in the Night
+4 Atarka's Command

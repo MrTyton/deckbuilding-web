@@ -76,9 +76,9 @@
 1 Spell Pierce
 1 Cursecatcher
 2 Hallowed Fountain
+2 Polluted Delta
 2 Spell Pierce
 2 Cursecatcher
-2 Polluted Delta
 1 Bind the Monster
 2 Bind the Monster
 3 Bind the Monster
@@ -116,11 +116,11 @@
 1 Thassa's Oracle
 1 Paradise Mantle
 1 Puresight Merrow
-2 Thassa's Oracle
 2 Paradise Mantle
+2 Thassa's Oracle
 2 Puresight Merrow
-3 Thassa's Oracle
 3 Paradise Mantle
+3 Thassa's Oracle
 3 Smuggler's Copter
 3 Puresight Merrow
 4 Thassa's Oracle
@@ -128,6 +128,18 @@
 4 Puresight Merrow
 4 Smuggler's Copter
 4 Paradise Mantle
+1 Phantasmal Image
+2 Phantasmal Image
+3 Phantasmal Image
+9 Snow-Covered Island
+10 Snow-Covered Island
+11 Snow-Covered Island
+12 Snow-Covered Island
+1 Fiery Islet
+1 Boomerang
+1 Mistcaller
+2 Boomerang
+13 Island
 1 Castle Vantress
 1 Faerie Conclave
 1 Relic of Progenitus
@@ -138,15 +150,3 @@
 3 Faerie Conclave
 4 Relic of Progenitus
 4 Faerie Conclave
-1 Fiery Islet
-1 Boomerang
-1 Mistcaller
-2 Boomerang
-13 Island
-1 Phantasmal Image
-2 Phantasmal Image
-3 Phantasmal Image
-9 Snow-Covered Island
-10 Snow-Covered Island
-11 Snow-Covered Island
-12 Snow-Covered Island

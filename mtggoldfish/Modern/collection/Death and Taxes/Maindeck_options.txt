@@ -15,10 +15,10 @@
 3 Horizon Canopy
 4 Horizon Canopy
 1 Eternal Witness
+1 Noble Hierarch
 1 Temple Garden
 1 Branchloft Pathway
 1 Oath of Nissa
-1 Noble Hierarch
 1 Razorverge Thicket
 1 Stirring Wildwood
 1 Forest
@@ -30,8 +30,8 @@
 2 Noble Hierarch
 2 Razorverge Thicket
 3 Noble Hierarch
-3 Branchloft Pathway
 3 Oath of Nissa
+3 Branchloft Pathway
 3 Temple Garden
 3 Razorverge Thicket
 4 Razorverge Thicket
@@ -69,9 +69,24 @@
 1 Sword of Light and Shadow
 1 Spellskite
 2 Spellskite
-3 Reidane, God of the Worthy
-1 Tectonic Edge
+1 Seachrome Coast
+1 Moorland Haunt
+1 Hallowed Fountain
+1 Flooded Strand
+1 Spell Queller
+1 Adarkar Wastes
+2 Moorland Haunt
+2 Hallowed Fountain
+2 Seachrome Coast
+2 Adarkar Wastes
+2 Spell Queller
+2 Flooded Strand
+3 Seachrome Coast
+3 Spell Queller
+4 Spell Queller
+4 Seachrome Coast
 1 Flagstones of Trokair
+1 Tectonic Edge
 2 Flagstones of Trokair
 2 Tectonic Edge
 3 Flagstones of Trokair
@@ -89,19 +104,4 @@
 4 Cleansing Wildfire
 4 Archon of Emeria
 11 Snow-Covered Plains
-1 Seachrome Coast
-1 Spell Queller
-1 Moorland Haunt
-1 Hallowed Fountain
-1 Flooded Strand
-1 Adarkar Wastes
-2 Moorland Haunt
-2 Seachrome Coast
-2 Spell Queller
-2 Adarkar Wastes
-2 Hallowed Fountain
-3 Spell Queller
-3 Seachrome Coast
-4 Seachrome Coast
-4 Spell Queller
-2 Flooded Strand
+3 Reidane, God of the Worthy
