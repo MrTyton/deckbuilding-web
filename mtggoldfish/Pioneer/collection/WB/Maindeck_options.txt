@@ -17,9 +17,15 @@
 13 Plains
 14 Plains
 15 Plains
+1 Selfless Spirit
+1 Skyclave Apparition
+2 Skyclave Apparition
+2 Selfless Spirit
+3 Skyclave Apparition
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 2 Caves of Koilos
+1 Swamp
 1 Reflector Mage
 1 Aether Hub
 1 Blooming Marsh
@@ -28,7 +34,6 @@
 1 Glint-Sleeve Siphoner
 1 Llanowar Wastes
 1 General Kudro of Drannith
-1 Swamp
 1 Mana Confluence
 1 Rogue Refiner
 2 Collected Company
@@ -37,9 +42,9 @@
 2 Yavimaya Coast
 2 Glint-Sleeve Siphoner
 2 Reflector Mage
+2 General Kudro of Drannith
 2 Mana Confluence
 2 Rogue Refiner
-2 General Kudro of Drannith
 3 Collected Company
 3 Unclaimed Territory
 3 General Kudro of Drannith
@@ -57,10 +62,8 @@
 4 Rogue Refiner
 1 Banishing Light
 1 Gideon, Ally of Zendikar
-1 Selfless Spirit
 1 Field of Ruin
 1 Gideon of the Trials
-1 Skyclave Apparition
 1 Brimaz, King of Oreskos
 1 Castle Ardenvale
 1 Fabled Passage
@@ -68,23 +71,20 @@
 1 Ajani, Adversary of Tyrants
 1 Archangel of Tithes
 1 Glass Casket
+2 Castle Ardenvale
 2 Banishing Light
 2 Field of Ruin
 2 Gideon, Ally of Zendikar
 2 Gideon of the Trials
-2 Selfless Spirit
 2 Glass Casket
+2 Fabled Passage
 2 Archangel of Tithes
 2 Gisela, the Broken Blade
 2 Ajani, Adversary of Tyrants
-2 Skyclave Apparition
-2 Castle Ardenvale
-2 Fabled Passage
 2 Brimaz, King of Oreskos
 3 Castle Ardenvale
 3 Declaration in Stone
 3 Gideon of the Trials
-3 Skyclave Apparition
 3 Glass Casket
 3 Fabled Passage
 4 Declaration in Stone
@@ -92,6 +92,37 @@
 2 Knight of the White Orchid
 3 Town Gossipmonger
 4 Town Gossipmonger
+1 Firja's Retribution
+1 Shambling Vent
+1 Isolated Chapel
+1 Righteous Valkyrie
+1 Lyra Dawnbringer
+1 Resplendent Angel
+1 Thoughtseize
+1 Bishop of Wings
+1 Archangel Avacyn
+2 Firja's Retribution
+2 Shambling Vent
+2 Isolated Chapel
+2 Righteous Valkyrie
+2 Resplendent Angel
+2 Thoughtseize
+2 Swamp
+2 Bishop of Wings
+2 Lyra Dawnbringer
+3 Firja's Retribution
+3 Isolated Chapel
+3 Righteous Valkyrie
+3 Selfless Spirit
+3 Thoughtseize
+3 Swamp
+3 Bishop of Wings
+4 Firja's Retribution
+4 Righteous Valkyrie
+4 Skyclave Apparition
+4 Fatal Push
+4 Thoughtseize
+4 Isolated Chapel
 1 Soldier of the Pantheon
 1 Mardu Woe-Reaper
 1 Boros Elite
@@ -101,9 +132,9 @@
 2 Soldier of the Pantheon
 2 Mardu Woe-Reaper
 2 Venerated Loxodon
-2 Brave the Elements
 2 Benalish Marshal
 2 Boros Elite
+2 Brave the Elements
 3 Mardu Woe-Reaper
 3 Brave the Elements
 3 Boros Elite

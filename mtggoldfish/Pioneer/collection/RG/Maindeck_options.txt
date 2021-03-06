@@ -42,8 +42,8 @@
 1 Snow-Covered Island
 1 Snow-Covered Forest
 1 Unclaimed Territory
-1 Diffusion Sliver
 1 Leeching Sliver
+1 Diffusion Sliver
 1 Syphon Sliver
 1 Galerider Sliver
 1 Sliver Hive
@@ -58,8 +58,8 @@
 2 Overgrown Tomb
 2 Syphon Sliver
 2 Unclaimed Territory
-2 Diffusion Sliver
 2 Leeching Sliver
+2 Diffusion Sliver
 2 Sliver Hive
 2 Predatory Sliver
 2 Collected Company
@@ -115,18 +115,18 @@
 1 Calamity Bearer
 1 Fire Giant's Fury
 1 Tectonic Giant
-2 Quakebringer
 2 Mutavault
 2 Crystalline Giant
 2 Calamity Bearer
 2 Fire Giant's Fury
 2 Tectonic Giant
-3 Quakebringer
-3 Tectonic Giant
+2 Quakebringer
 3 Calamity Bearer
+3 Tectonic Giant
 3 Wild Slash
-4 Calamity Bearer
+3 Quakebringer
 4 Realmwalker
+4 Calamity Bearer
 4 Wild Slash
 1 Plains
 2 Plains
@@ -284,8 +284,8 @@
 3 Trostani Discordant
 3 Worldspine Wurm
 4 Plains
-4 Temple of Plenty
 4 Charming Prince
+4 Temple of Plenty
 4 Paradise Druid
 4 Trostani Discordant
 4 Fortified Village

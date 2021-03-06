@@ -72,6 +72,6 @@
 |                    2|[Sinkhole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=682)                 |                     |                                                                                                 |
 |                    3|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)     |                     |                                                                                                 |
 |                    3|[Sinkhole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=682)                 |                     |                                                                                                 |
-|                   10|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)    |                     |                                                                                                 |
 |                    4|[Sinkhole](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=682)                 |                     |                                                                                                 |
+|                   10|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)    |                     |                                                                                                 |
 

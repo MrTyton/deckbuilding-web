@@ -1,45 +1,57 @@
 1 Forest
 2 Forest
 2 Swamp
-3 Swamp
 3 Forest
+3 Swamp
 4 Swamp
+4 Forest
+5 Swamp
 1 Darkbore Pathway
+1 Foulmire Knight
+2 Darkbore Pathway
+2 Foulmire Knight
+3 Foulmire Knight
+3 Darkbore Pathway
+4 Foulmire Knight
+4 Darkbore Pathway
+1 Murderous Rider
 1 Edgewall Innkeeper
 1 Temple of Malady
 1 Lovestruck Beast
 1 Agadeem's Awakening
-1 Foulmire Knight
-1 Murderous Rider
-2 Lovestruck Beast
 2 Murderous Rider
-2 Foulmire Knight
+2 Lovestruck Beast
 2 Temple of Malady
 2 Edgewall Innkeeper
-2 Darkbore Pathway
 3 Temple of Malady
+3 Murderous Rider
 3 Lovestruck Beast
 3 Edgewall Innkeeper
-3 Murderous Rider
-3 Foulmire Knight
-3 Darkbore Pathway
 4 Temple of Malady
 4 Lovestruck Beast
 4 Edgewall Innkeeper
-4 Foulmire Knight
-4 Darkbore Pathway
+1 Bloodchief's Thirst
+1 Castle Locthwain
+6 Swamp
+1 Heartless Act
+1 Vorinclex, Monstrous Raider
+2 Heartless Act
+2 Vorinclex, Monstrous Raider
+1 Elder Gargaroth
+1 Ram Through
+1 The Great Henge
 1 Sculptor of Winter
 2 Sculptor of Winter
 3 Sculptor of Winter
-1 The Great Henge
-1 Elder Gargaroth
-1 Ram Through
-4 Forest
-5 Swamp
 1 Feed the Serpent
 1 Sarulf's Packmate
 2 Feed the Serpent
 2 Sarulf's Packmate
+1 Jungle Hollow
+2 Jungle Hollow
+4 Binding the Old Gods
+5 Forest
+6 Forest
 1 Harald, King of Skemfar
 1 Greater Sandwurm
 2 Harald, King of Skemfar
@@ -54,16 +66,16 @@
 1 Poison the Cup
 1 Thrashing Brontodon
 1 Feed the Swarm
-1 Ugin, the Spirit Dragon
 1 Port of Karfell
+1 Ugin, the Spirit Dragon
 2 Behold the Multiverse
 2 Frantic Inventory
 2 Poison the Cup
-2 Thrashing Brontodon
-2 Feed the Swarm
 2 Chainweb Aracnir
+2 Feed the Swarm
 2 Elspeth's Nightmare
 2 Port of Karfell
+2 Thrashing Brontodon
 3 Snow-Covered Island
 3 Behold the Multiverse
 3 Frantic Inventory
@@ -71,53 +83,70 @@
 4 Frantic Inventory
 1 Thassa, Deep-Dwelling
 4 Acolyte of Affliction
+1 Call of the Death-Dweller
+1 Egon, God of Death
+1 Hooded Blightfang
+1 Moss Viper
+1 Fynn, the Fangbearer
+1 The Binding of the Titans
+2 Castle Locthwain
+2 Call of the Death-Dweller
+2 Egon, God of Death
+2 Bloodchief's Thirst
+2 Moss Viper
+2 Hooded Blightfang
+2 Fynn, the Fangbearer
+2 The Binding of the Titans
+3 Fynn, the Fangbearer
+3 Jungle Hollow
+3 The Binding of the Titans
+3 Moss Viper
+3 Hooded Blightfang
+4 Fynn, the Fangbearer
+4 The Binding of the Titans
+4 Hooded Blightfang
+4 Moss Viper
+4 Jungle Hollow
+1 Vivien, Monsters' Advocate
 1 Scavenging Ooze
+1 Toski, Bearer of Secrets
 1 Blightstep Pathway
 1 Valki, God of Lies
-1 Toski, Bearer of Secrets
-1 Vivien, Monsters' Advocate
-1 Vorinclex, Monstrous Raider
-1 Heartless Act
 1 Zagoth Triome
 1 Cragcrown Pathway
 1 Order of Midnight
-2 Toski, Bearer of Secrets
-2 Scavenging Ooze
 2 Blightstep Pathway
 2 Valki, God of Lies
+2 Toski, Bearer of Secrets
 2 Vivien, Monsters' Advocate
-2 Vorinclex, Monstrous Raider
+2 Scavenging Ooze
 2 Order of Midnight
 2 Cragcrown Pathway
 2 Agadeem's Awakening
-2 Heartless Act
 3 Toski, Bearer of Secrets
-3 Blightstep Pathway
 3 Heartless Act
+3 Blightstep Pathway
 3 Valki, God of Lies
 3 Cragcrown Pathway
 4 Heartless Act
 4 Murderous Rider
 4 Cragcrown Pathway
 4 Blightstep Pathway
-1 Kazandu Mammoth
+1 Rankle, Master of Pranks
 1 Jolrael, Mwonvuli Recluse
 1 Primal Might
 1 Fabled Passage
-1 Rankle, Master of Pranks
-1 Bloodchief's Thirst
-1 Castle Locthwain
+1 Kazandu Mammoth
 1 Chevill, Bane of Monsters
 2 The Great Henge
 2 Kazandu Mammoth
-2 Elder Gargaroth
 2 Jolrael, Mwonvuli Recluse
-2 Primal Might
 2 Rankle, Master of Pranks
+2 Elder Gargaroth
+2 Primal Might
 2 Chevill, Bane of Monsters
 3 Kazandu Mammoth
 3 Jolrael, Mwonvuli Recluse
-6 Swamp
 7 Swamp
 1 Realmwalker
 1 Wolfwillow Haven
@@ -144,16 +173,14 @@
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
-1 Jungle Hollow
+1 Oakhame Adversary
 1 Battle Mammoth
+1 Garruk's Uprising
 1 Wildwood Patrol
 1 Tajuru Blightblade
-1 Oakhame Adversary
 1 Keeper of Fables
-1 Garruk's Uprising
-1 Gnottvold Recluse
 1 Fiend Artisan
-2 Jungle Hollow
+1 Gnottvold Recluse
 2 Oakhame Adversary
 2 Keeper of Fables
 2 Ram Through
@@ -163,11 +190,8 @@
 3 Keeper of Fables
 3 Tajuru Blightblade
 3 Sarulf's Packmate
-4 Binding the Old Gods
 4 Tajuru Blightblade
 4 Keeper of Fables
-5 Forest
-6 Forest
 7 Forest
 8 Forest
 9 Forest

@@ -19,8 +19,8 @@
 1 Blinkmoth Nexus
 2 Cranial Plating
 6 Snow-Covered Plains
-1 Sunbaked Canyon
 1 Sacred Foundry
+1 Sunbaked Canyon
 2 Sunbaked Canyon
 3 Sunbaked Canyon
 4 Sunbaked Canyon
@@ -31,10 +31,10 @@
 10 Snow-Covered Plains
 3 Flooded Strand
 2 Arid Mesa
-1 Goblin Engineer
 1 Wishclaw Talisman
-2 Goblin Engineer
+1 Goblin Engineer
 2 Sacred Foundry
+2 Goblin Engineer
 3 Goblin Engineer
 4 Goblin Engineer
 7 Plains
@@ -49,6 +49,10 @@
 1 Sram, Senior Edificer
 2 Reckless Crew
 2 Sram, Senior Edificer
+3 Arid Mesa
+4 Arid Mesa
+3 Windswept Heath
+4 Windswept Heath
 1 Signal Pest
 1 Bomat Courier
 2 Signal Pest
@@ -57,8 +61,4 @@
 3 Bomat Courier
 4 Signal Pest
 4 Bomat Courier
-3 Windswept Heath
-4 Windswept Heath
-3 Arid Mesa
-4 Arid Mesa
 11 Plains

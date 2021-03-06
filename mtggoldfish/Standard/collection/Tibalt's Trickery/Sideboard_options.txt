@@ -63,17 +63,13 @@
 2 Duress
 3 Duress
 4 Duress
-1 Blood on the Snow
 1 Valki, God of Lies
+1 Blood on the Snow
 2 Blood on the Snow
 3 Blood on the Snow
 3 Negate
 4 Negate
 1 Confounding Conundrum
-1 Peer into the Abyss
-2 Disdainful Stroke
-2 Peer into the Abyss
-3 Disdainful Stroke
 1 Footfall Crater
 1 Spikefield Hazard
 1 Scorching Dragonfire
@@ -82,6 +78,10 @@
 2 Fire Prophecy
 2 Scorching Dragonfire
 3 Scorching Dragonfire
+1 Peer into the Abyss
+2 Disdainful Stroke
+2 Peer into the Abyss
+3 Disdainful Stroke
 1 Terror of the Peaks
 2 Terror of the Peaks
 3 Terror of the Peaks
@@ -121,11 +121,11 @@
 5 Forest
 1 Yidaro, Wandering Monster
 1 Crawling Barrens
-1 Field of Ruin
 1 Labyrinth of Skophos
+1 Field of Ruin
 2 Yidaro, Wandering Monster
-2 Field of Ruin
 2 Kiora Bests the Sea God
+2 Field of Ruin
 2 Labyrinth of Skophos
 3 Yidaro, Wandering Monster
 3 Labyrinth of Skophos

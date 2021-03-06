@@ -49,26 +49,26 @@
 3 Blood Moon
 1 Bala Ged Recovery
 1 Spikefield Hazard
+1 Irencrag Feat
 1 Valakut Awakening
-1 Manamorphose
 1 Reforge the Soul
+1 Manamorphose
 1 Recross the Paths
 1 Desperate Ritual
 1 Pyretic Ritual
-1 Irencrag Feat
 2 Spikefield Hazard
-2 Bala Ged Recovery
 2 Valakut Awakening
-2 Pyretic Ritual
+2 Bala Ged Recovery
 2 Irencrag Feat
+2 Pyretic Ritual
 2 Manamorphose
 2 Recross the Paths
 2 Desperate Ritual
+3 Irencrag Feat
 3 Spikefield Hazard
 3 Goblin Charbelcher
 3 Manamorphose
 3 Pact of Negation
-3 Irencrag Feat
 3 Valakut Awakening
 3 Desperate Ritual
 3 Recross the Paths
@@ -110,16 +110,16 @@
 1 Swamp
 1 Verdant Catacombs
 1 Demonic Dread
-1 Blood Crypt
 1 Overgrown Tomb
 1 Magus of the Moon
 1 Blackcleave Cliffs
 1 Bloodbraid Elf
 1 Seasoned Pyromancer
+1 Blood Crypt
 2 Magus of the Moon
-2 Blood Crypt
 2 Verdant Catacombs
 2 Demonic Dread
+2 Blood Crypt
 2 Seasoned Pyromancer
 2 Bloodbraid Elf
 2 Blackcleave Cliffs
@@ -140,9 +140,9 @@
 1 Polluted Delta
 2 Polluted Delta
 4 Teferi, Time Raveler
-1 Reflecting Pool
 1 Supreme Verdict
 1 Zagoth Triome
+1 Reflecting Pool
 1 Savai Triome
 1 Bonecrusher Giant
 3 Polluted Delta
@@ -161,9 +161,9 @@
 1 Transmogrify
 1 Dwarven Mine
 1 Izzet Charm
-1 Bloodstained Mire
 1 Remand
 1 Polymorph
+1 Bloodstained Mire
 2 Transmogrify
 2 Izzet Charm
 2 Dwarven Mine
@@ -196,17 +196,11 @@
 2 Bonecrusher Giant
 2 Mystical Dispute
 1 Lovestruck Beast
-2 Swamp
 2 Lovestruck Beast
+2 Swamp
 3 Lovestruck Beast
 3 Dismember
 3 Omnath, Locus of Creation
-1 Murderous Rider
-1 Prismatic Vista
-1 Snow-Covered Swamp
-2 Murderous Rider
-2 Prismatic Vista
-4 Magus of the Moon
 1 Fire Prophecy
 1 Spell Snare
 1 Repeal
@@ -220,6 +214,12 @@
 2 Cloudform
 3 Steam Vents
 4 Dwarven Mine
+1 Murderous Rider
+1 Prismatic Vista
+1 Snow-Covered Swamp
+2 Murderous Rider
+2 Prismatic Vista
+4 Magus of the Moon
 3 Thoughtseize
 4 Thoughtseize
 3 Pelakka Predation
@@ -270,8 +270,8 @@
 1 Delay
 1 Opt
 1 Mass Hysteria
-2 Bloodstained Mire
 2 Delay
+2 Bloodstained Mire
 2 Mass Hysteria
 2 Opt
 3 Opt
@@ -281,11 +281,10 @@
 4 Mass Hysteria
 1 Underworld Breach
 2 Snow-Covered Island
+1 Wishclaw Talisman
 1 Lotus Field
 1 Silundi Vision
 1 Darkslick Shores
-1 Sleight of Hand
-1 Wishclaw Talisman
 1 Serum Visions
 1 Ideas Unbound
 1 Reach Through Mists
@@ -294,13 +293,13 @@
 1 Psychic Puppetry
 1 Grapeshot
 1 Past in Flames
+1 Sleight of Hand
 1 Dream's Grip
 1 Merchant Scroll
 1 Peer Through Depths
 2 Wishclaw Talisman
 2 Watery Grave
 2 Darkslick Shores
-2 Sleight of Hand
 2 Psychic Puppetry
 2 Merchant Scroll
 2 Reach Through Mists
@@ -308,17 +307,18 @@
 2 Lotus Field
 2 Serum Visions
 2 Ideas Unbound
+2 Sleight of Hand
 2 Dream's Grip
 2 Past in Flames
 2 Twiddle
 3 Wishclaw Talisman
 3 Darkslick Shores
-3 Sleight of Hand
 3 Serum Visions
 3 Ideas Unbound
 3 Snow-Covered Island
 3 Lotus Field
 3 Twiddle
+3 Sleight of Hand
 3 Psychic Puppetry
 3 Peer Through Depths
 3 Dream's Grip
@@ -381,15 +381,15 @@
 1 Overwhelming Splendor
 1 Solemnity
 1 Marsh Flats
-1 Temple of Triumph
+1 Silence
 1 Deafening Clarion
+1 Temple of Triumph
 1 Wheel of Sun and Moon
 1 Dovescape
 1 Treasure Map
 1 Form of the Dragon
 1 Nine Lives
 1 Plains
-1 Silence
 1 Mistveil Plains
 1 Enduring Ideal
 1 Skyclave Apparition
@@ -398,9 +398,9 @@
 2 Plains
 2 Nykthos, Shrine to Nyx
 2 Oust
-2 Silence
 2 Marsh Flats
 2 Temple of Triumph
+2 Silence
 2 Enduring Ideal
 2 Sacred Foundry
 2 Solemnity
@@ -430,39 +430,39 @@
 7 Plains
 1 Snow-Covered Mountain
 1 Engineered Explosives
-1 Metallic Rebuke
-1 Mishra's Bauble
-1 Sai, Master Thopterist
 1 Minamo, School at Water's Edge
+1 Metallic Rebuke
+1 Sai, Master Thopterist
 1 Chromatic Star
 1 Lurrus of the Dream-Den
 1 Fiery Islet
 1 Emry, Lurker of the Loch
 1 Grinding Station
+1 Mishra's Bauble
 1 Mox Amber
 2 Snow-Covered Plains
-2 Mishra's Bauble
 2 Engineered Explosives
 2 Metallic Rebuke
 2 Emry, Lurker of the Loch
 2 Grinding Station
 2 Mox Amber
+2 Mishra's Bauble
 2 Underworld Breach
 2 Chromatic Star
 2 Lurrus of the Dream-Den
 3 Underworld Breach
-3 Lurrus of the Dream-Den
 3 Metallic Rebuke
 3 Mox Amber
-3 Mishra's Bauble
+3 Lurrus of the Dream-Den
 3 Chromatic Star
 3 Engineered Explosives
 3 Emry, Lurker of the Loch
 3 Grinding Station
-4 Mox Amber
+3 Mishra's Bauble
 4 Metallic Rebuke
-4 Mishra's Bauble
+4 Mox Amber
 4 Chromatic Star
 4 Emry, Lurker of the Loch
 4 Grinding Station
+4 Mishra's Bauble
 4 Underworld Breach

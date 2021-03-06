@@ -33,10 +33,10 @@
 |                    3|[Savai Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479773)           |                     |              |
 |                    3|Blightstep Pathway                                                                                |                     |              |
 |                    4|[Branchloft Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491909)     |                     |              |
-|                    4|[Indatha Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479768)         |                     |              |
-|                    4|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)    |                     |              |
 |                    4|[Runeforge Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503632)     |                     |              |
 |                    4|[Setessan Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476449)      |                     |              |
+|                    4|[Indatha Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479768)         |                     |              |
+|                    4|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)    |                     |              |
 |                    4|[Storm Herald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476407)           |                     |              |
 |                    4|Darkbore Pathway                                                                                  |                     |              |
 |                    4|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)    |                     |              |

@@ -21,8 +21,8 @@
 3 Mishra's Bauble
 4 Mishra's Bauble
 3 Sunbaked Canyon
-1 Wooded Foothills
 1 Arid Mesa
+1 Wooded Foothills
 2 Wooded Foothills
 1 Mutagenic Growth
 2 Mutagenic Growth
@@ -34,8 +34,8 @@
 1 Myth Realized
 1 Boros Charm
 2 Bloodstained Mire
-2 Inspiring Vantage
 2 Sacred Foundry
+2 Inspiring Vantage
 2 Boros Charm
 2 Myth Realized
 2 Abbot of Keral Keep
@@ -64,8 +64,8 @@
 12 Mountain
 1 Lava Spike
 1 Bedlam Reveler
-2 Lava Spike
 2 Bedlam Reveler
+2 Lava Spike
 2 Jace, the Mind Sculptor
 1 Shark Typhoon
 2 Shark Typhoon
@@ -86,8 +86,8 @@
 2 The Royal Scions
 1 Cascade Bluffs
 1 Blast Zone
-2 Magmatic Sinkhole
 2 Cascade Bluffs
+2 Magmatic Sinkhole
 3 Brazen Borrower
 4 Brazen Borrower
 1 Wild Slash
@@ -99,9 +99,9 @@
 2 Kiln Fiend
 2 Misty Rainforest
 3 Misty Rainforest
+1 Omen of the Sea
 1 Emrakul, the Aeons Torn
 1 Through the Breach
-1 Omen of the Sea
 2 Omen of the Sea
 2 Emrakul, the Aeons Torn
 2 Through the Breach
@@ -137,34 +137,19 @@
 2 Behold the Multiverse
 1 Peek
 2 Peek
-1 Spell Pierce
 1 Dispel
+1 Spell Pierce
 2 Spell Pierce
 3 Ancestral Vision
-1 Flame Slash
-1 Narset, Parter of Veils
 1 Vendilion Clique
+1 Narset, Parter of Veils
+1 Flame Slash
 2 Narset, Parter of Veils
 3 Mystic Sanctuary
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Burst Lightning
 4 Fiery Islet
-1 Serum Visions
-1 Dreadhorde Arcanist
-1 Piracy Charm
-2 Serum Visions
-2 Dreadhorde Arcanist
-2 Deprive
-2 Piracy Charm
-3 Serum Visions
-3 Polluted Delta
-3 Dreadhorde Arcanist
-3 Piracy Charm
-4 Serum Visions
-4 Polluted Delta
-4 Steam Vents
-4 Dreadhorde Arcanist
 1 Forgotten Cave
 1 Arclight Phoenix
 1 Thrill of Possibility
@@ -183,37 +168,52 @@
 3 Ground Rift
 4 Nivmagus Elemental
 4 Ground Rift
+1 Serum Visions
+1 Dreadhorde Arcanist
+1 Piracy Charm
+2 Serum Visions
+2 Dreadhorde Arcanist
+2 Deprive
+2 Piracy Charm
+3 Serum Visions
+3 Polluted Delta
+3 Dreadhorde Arcanist
+3 Piracy Charm
+4 Serum Visions
+4 Polluted Delta
+4 Dreadhorde Arcanist
+4 Steam Vents
 1 Thing in the Ice
 2 Thing in the Ice
 3 Thing in the Ice
 4 Thing in the Ice
 1 Tarfire
-1 Seal of Fire
 1 Brushfire Elemental
-1 Forest
 1 Copperline Gorge
+1 Seal of Fire
 1 Akoum Hellhound
 1 Tarmogoyf
 1 Wrenn and Six
+1 Forest
 1 Stomping Ground
+2 Arid Mesa
 2 Brushfire Elemental
 2 Seal of Fire
-2 Stomping Ground
 2 Copperline Gorge
 2 Akoum Hellhound
+2 Stomping Ground
 2 Wrenn and Six
 2 Tarmogoyf
-2 Arid Mesa
-3 Copperline Gorge
 3 Akoum Hellhound
 3 Arid Mesa
-3 Brushfire Elemental
 3 Wooded Foothills
 3 Wrenn and Six
+3 Copperline Gorge
+3 Brushfire Elemental
 3 Tarmogoyf
 4 Akoum Hellhound
-4 Copperline Gorge
 4 Wooded Foothills
+4 Copperline Gorge
 4 Tarmogoyf
 1 Magda, Brazen Outlaw
 1 Glorybringer
@@ -243,8 +243,8 @@
 8 Snow-Covered Island
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
-4 Snow-Covered Mountain
 4 Sunbaked Canyon
+4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
