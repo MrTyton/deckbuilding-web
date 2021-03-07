@@ -58,27 +58,27 @@
 1 Pyretic Ritual
 2 Spikefield Hazard
 2 Valakut Awakening
-2 Bala Ged Recovery
 2 Irencrag Feat
 2 Pyretic Ritual
+2 Bala Ged Recovery
 2 Manamorphose
 2 Recross the Paths
 2 Desperate Ritual
+3 Valakut Awakening
 3 Irencrag Feat
 3 Spikefield Hazard
 3 Goblin Charbelcher
 3 Manamorphose
 3 Pact of Negation
-3 Valakut Awakening
 3 Desperate Ritual
 3 Recross the Paths
 3 Pyretic Ritual
 3 Bala Ged Recovery
 4 Shatterskull Smashing
+4 Valakut Awakening
 4 Goblin Charbelcher
 4 Spikefield Hazard
 4 Recross the Paths
-4 Valakut Awakening
 4 Manamorphose
 4 Pyretic Ritual
 4 Irencrag Feat
@@ -158,24 +158,24 @@
 1 Mountain
 2 Mountain
 2 Arid Mesa
-1 Transmogrify
 1 Dwarven Mine
+1 Transmogrify
 1 Izzet Charm
 1 Remand
 1 Polymorph
 1 Bloodstained Mire
 2 Transmogrify
 2 Izzet Charm
-2 Dwarven Mine
 2 Remand
+2 Dwarven Mine
 2 Lightning Bolt
 2 Polymorph
-3 Transmogrify
 3 Arid Mesa
+3 Transmogrify
 3 Lightning Bolt
 3 Remand
-3 Dwarven Mine
 3 Polymorph
+3 Dwarven Mine
 4 Remand
 4 Arid Mesa
 4 Polymorph
@@ -201,19 +201,6 @@
 3 Lovestruck Beast
 3 Dismember
 3 Omnath, Locus of Creation
-1 Fire Prophecy
-1 Spell Snare
-1 Repeal
-1 Mana Leak
-1 Anger of the Gods
-1 Cloudform
-2 Raugrin Triome
-2 Spell Snare
-2 Anger of the Gods
-2 Steam Vents
-2 Cloudform
-3 Steam Vents
-4 Dwarven Mine
 1 Murderous Rider
 1 Prismatic Vista
 1 Snow-Covered Swamp
@@ -267,6 +254,19 @@
 3 Gruul Turf
 4 Grove of the Burnwillows
 4 Gruul Turf
+1 Spell Snare
+1 Fire Prophecy
+1 Repeal
+1 Mana Leak
+1 Anger of the Gods
+1 Cloudform
+2 Raugrin Triome
+2 Spell Snare
+2 Anger of the Gods
+2 Steam Vents
+2 Cloudform
+3 Steam Vents
+4 Dwarven Mine
 1 Delay
 1 Opt
 1 Mass Hysteria
@@ -298,8 +298,8 @@
 1 Merchant Scroll
 1 Peer Through Depths
 2 Wishclaw Talisman
-2 Watery Grave
 2 Darkslick Shores
+2 Watery Grave
 2 Psychic Puppetry
 2 Merchant Scroll
 2 Reach Through Mists
@@ -378,18 +378,18 @@
 4 Brilliant Ultimatum
 1 Nykthos, Shrine to Nyx
 1 Oust
-1 Overwhelming Splendor
 1 Solemnity
 1 Marsh Flats
-1 Silence
+1 Overwhelming Splendor
 1 Deafening Clarion
-1 Temple of Triumph
 1 Wheel of Sun and Moon
 1 Dovescape
 1 Treasure Map
 1 Form of the Dragon
 1 Nine Lives
 1 Plains
+1 Temple of Triumph
+1 Silence
 1 Mistveil Plains
 1 Enduring Ideal
 1 Skyclave Apparition
@@ -398,10 +398,10 @@
 2 Plains
 2 Nykthos, Shrine to Nyx
 2 Oust
-2 Marsh Flats
-2 Temple of Triumph
 2 Silence
+2 Marsh Flats
 2 Enduring Ideal
+2 Temple of Triumph
 2 Sacred Foundry
 2 Solemnity
 2 Phyrexian Unlife
@@ -412,13 +412,13 @@
 2 Lotus Bloom
 3 Plains
 3 Skyclave Apparition
+3 Oust
 3 Sacred Foundry
 3 Marsh Flats
 3 Solemnity
 3 Silence
 3 Enduring Ideal
 3 Lotus Bloom
-3 Oust
 3 Nine Lives
 4 Plains
 4 Sacred Foundry
@@ -451,9 +451,9 @@
 2 Chromatic Star
 2 Lurrus of the Dream-Den
 3 Underworld Breach
+3 Lurrus of the Dream-Den
 3 Metallic Rebuke
 3 Mox Amber
-3 Lurrus of the Dream-Den
 3 Chromatic Star
 3 Engineered Explosives
 3 Emry, Lurker of the Loch

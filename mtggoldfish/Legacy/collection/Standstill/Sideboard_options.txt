@@ -45,9 +45,9 @@
 1 Abrade
 3 Surgical Extraction
 1 Liliana, the Last Hope
-1 Ashiok, Dream Render
 1 Mountain
 1 Soul-Guide Lantern
+1 Ashiok, Dream Render
 1 Force of Negation
 2 Stony Silence
 2 Engineered Explosives
@@ -55,9 +55,6 @@
 1 Porphyry Nodes
 2 Myth Realized
 2 Dovin's Veto
-1 Magmatic Sinkhole
-2 Monastery Mentor
-3 Monastery Mentor
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
@@ -67,6 +64,9 @@
 3 Lightning Bolt
 2 Disenchant
 3 Red Elemental Blast
+1 Magmatic Sinkhole
+2 Monastery Mentor
+3 Monastery Mentor
 1 Miscast
 1 Skyclave Apparition
 1 Moat
@@ -77,8 +77,8 @@
 3 Skyclave Apparition
 4 Skyclave Apparition
 1 Grim Lavamancer
-1 Relic of Progenitus
 1 Price of Progress
+1 Relic of Progenitus
 2 Relic of Progenitus
 2 Price of Progress
 2 Grim Lavamancer

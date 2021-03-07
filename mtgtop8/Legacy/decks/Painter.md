@@ -25,3 +25,25 @@
 |1 [Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824) |                                                                                              |                                                                                       |1 [Hydroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3915)         |
 |2 [Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)  |                                                                                              |                                                                                       |1 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                            Sideboard Card                                             |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------------|
+|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)           |                    1|[Uro, Titan of Nature's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476480)|
+|                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)         |                    1|[Shenanigans](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464095)                 |
+|                    1|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)  |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)           |
+|                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)              |
+|                    1|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)        |                    1|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)              |
+|                    1|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676)  |                    1|[Snapback](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=108897)                    |
+|                    2|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)        |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)         |
+|                    2|[Tropical Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=884)     |                    2|[Uro, Titan of Nature's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476480)|
+|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)           |
+|                    2|[Snapcaster Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=227676)  |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)         |
+|                    3|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)        |                     |                                                                                                       |
+|                    3|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)|                     |                                                                                                       |
+|                    3|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)      |                     |                                                                                                       |
+|                    4|[Preordain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405347)        |                     |                                                                                                       |
+|                    4|[Pyroblast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4083)          |                     |                                                                                                       |
+|                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)           |                     |                                                                                                       |
+

@@ -1,17 +1,17 @@
+3 Preordain
 3 Young Pyromancer
-1 True-Name Nemesis
 4 Sprite Dragon
 2 Misty Rainforest
 4 Preordain
+2 Flooded Strand
 1 Island
 1 Mountain
 2 Island
 1 Wooded Foothills
-2 Flooded Strand
-4 Chain Lightning
 2 Brazen Borrower
-2 True-Name Nemesis
 1 Fiery Islet
+4 Chain Lightning
+2 True-Name Nemesis
 1 Pyroblast
 1 Stifle
 2 Stifle
@@ -24,13 +24,14 @@
 2 Tropical Island
 2 Oko, Thief of Crowns
 3 Stifle
+1 Vapor Snag
 3 Snow-Covered Island
+1 Magmatic Channeler
+2 Magmatic Channeler
 1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Monastery Swiftspear
 4 Monastery Swiftspear
-1 Magmatic Channeler
-2 Magmatic Channeler
 3 Polluted Delta
 2 Ethereal Forager
 1 Flusterstorm
@@ -40,7 +41,6 @@
 2 Krark, the Thumbless
 3 Krark, the Thumbless
 1 Spell Snare
-1 Vapor Snag
 1 Fire / Ice
 1 Fireblast
 2 Wooded Foothills
@@ -53,8 +53,8 @@
 2 Flusterstorm
 2 Forked Bolt
 2 Nivmagus Elemental
-2 Kari Zev, Skyship Raider
 2 Chart a Course
+2 Kari Zev, Skyship Raider
 3 Kari Zev, Skyship Raider
 3 Flusterstorm
 3 Nivmagus Elemental
@@ -67,6 +67,9 @@
 4 Magmatic Channeler
 2 Bloodstained Mire
 4 Young Pyromancer
+1 Hullbreacher
+3 Flooded Strand
+4 Flooded Strand
 1 Faithless Looting
 1 Arclight Phoenix
 1 Lava Dart

@@ -1,23 +1,23 @@
 1 All Is Dust
-2 Walking Ballista
 2 Relic of Progenitus
 3 Oblivion Stone
+2 Walking Ballista
 1 Spatial Contortion
-1 Ugin, the Ineffable
-2 Ugin, the Ineffable
 2 Spatial Contortion
 1 Kozilek, Butcher of Truth
+1 Ugin, the Ineffable
+2 Ugin, the Ineffable
 1 Thought-Knot Seer
 2 Thought-Knot Seer
 1 Cascading Cataracts
 1 Golos, Tireless Pilgrim
 2 Golos, Tireless Pilgrim
-1 Buried Ruin
+1 Emrakul, the Promised End
 3 Ugin, the Spirit Dragon
+1 Sundering Titan
 1 Repeal
 1 Remand
 1 Mindslaver
-1 Sundering Titan
 1 Island
 1 Thirst for Knowledge
 1 Condescend
@@ -37,12 +37,14 @@
 4 Thirst for Knowledge
 5 Island
 1 Scavenger Grounds
+1 Buried Ruin
 1 Nurturing Peatland
 3 Thragtusk
 1 World Breaker
 3 Golos, Tireless Pilgrim
-1 Emrakul, the Promised End
 1 Dismember
+1 Mazemind Tome
+2 Mazemind Tome
 1 Shark Typhoon
 1 Cyclonic Rift
 1 Field of Ruin
@@ -53,8 +55,6 @@
 1 Treasure Mage
 4 Repeal
 1 Ghost Quarter
-1 Mazemind Tome
-2 Mazemind Tome
 1 Explore
 1 Talisman of Dominance
 1 Tolaria West
@@ -72,52 +72,20 @@
 3 Chalice of the Void
 4 Shark Typhoon
 4 Chalice of the Void
+5 Forest
 1 Nimble Obstructionist
 1 Radiant Fountain
 1 Talisman of Curiosity
 1 Omen of the Sea
 1 Trading Post
 2 Mindslaver
+2 Radiant Fountain
 2 Omen of the Sea
 2 Talisman of Curiosity
-2 Radiant Fountain
 2 Trading Post
 3 Radiant Fountain
 3 Talisman of Curiosity
 3 Trading Post
-4 Trading Post
 7 Island
 8 Island
-1 Mystic Forge
-1 Defense Grid
-1 Wastes
-1 Welding Jar
-1 Inventors' Fair
-1 Everflowing Chalice
-1 Astral Cornucopia
-1 Surge Node
-1 Coretapper
-1 Ensnaring Bridge
-1 Sea Gate Wreckage
-2 Blast Zone
-2 Mystic Forge
-2 Everflowing Chalice
-2 Ensnaring Bridge
-2 Surge Node
-2 Astral Cornucopia
-2 Coretapper
-3 Mazemind Tome
-3 Ensnaring Bridge
-3 Ugin, the Ineffable
-3 Mystic Forge
-3 Surge Node
-3 Astral Cornucopia
-3 Everflowing Chalice
-3 Coretapper
-4 Mazemind Tome
-4 Ugin, the Ineffable
-4 Astral Cornucopia
-4 Coretapper
-4 Mystic Forge
-4 Surge Node
-4 Everflowing Chalice
+4 Trading Post

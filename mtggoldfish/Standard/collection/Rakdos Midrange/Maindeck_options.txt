@@ -1,44 +1,44 @@
-1 Valki, God of Lies
-2 Valki, God of Lies
+1 Rankle, Master of Pranks
+1 Kazuul's Fury
 2 Rankle, Master of Pranks
 4 Tymaret Calls the Dead
+1 Ox of Agonas
 1 Egon, God of Death
 3 Temple of Malice
-1 Ox of Agonas
-1 Skyclave Shade
-2 Kazuul's Fury
-3 Immersturm Predator
 1 Bloodchief's Thirst
+3 Immersturm Predator
 2 Bloodchief's Thirst
 4 Temple of Malice
 5 Mountain
+1 Skyclave Shade
 3 Castle Locthwain
 7 Swamp
+2 Kazuul's Fury
 2 Egon, God of Death
 2 Skyclave Shade
 1 Hagra Mauling
-6 Mountain
 3 Shatterskull Smashing
+6 Mountain
 1 Liliana, Waker of the Dead
 1 Goldspan Dragon
+3 Valki, God of Lies
 1 Savai Triome
 2 Savai Triome
-3 Valki, God of Lies
 3 Heartless Act
 3 Savai Triome
-2 Hagra Mauling
 2 Ox of Agonas
+2 Hagra Mauling
 4 Shatterskull Smashing
 3 Rankle, Master of Pranks
 3 Egon, God of Death
 2 Goldspan Dragon
+4 Immersturm Predator
+4 Savai Triome
 4 Egon, God of Death
 1 Robber of the Rich
 4 The Akroan War
-3 Skyclave Shade
 1 Immersturm Skullcairn
 1 Shredded Sails
-4 Savai Triome
 4 Valki, God of Lies
 2 Liliana, Waker of the Dead
 1 Agonizing Remorse
@@ -56,49 +56,42 @@
 4 Colossal Plow
 1 Duress
 1 Brightclimb Pathway
-1 Temple of Silence
-1 Showdown of the Skalds
 1 Giant Killer
 1 Temple of Triumph
+1 Showdown of the Skalds
+1 Temple of Silence
 1 Plains
 1 Needleverge Pathway
 2 Brightclimb Pathway
-2 Showdown of the Skalds
 2 Needleverge Pathway
 2 Giant Killer
+2 Showdown of the Skalds
 3 Brightclimb Pathway
-3 Showdown of the Skalds
 3 Giant Killer
+3 Showdown of the Skalds
 3 Needleverge Pathway
 4 Giant Killer
 4 Brightclimb Pathway
 4 Needleverge Pathway
-4 Immersturm Predator
-1 Darkbore Pathway
-1 Korvold, Fae-Cursed King
-1 Cragcrown Pathway
-1 Forest
-2 Darkbore Pathway
-2 Cragcrown Pathway
-2 Korvold, Fae-Cursed King
-3 Darkbore Pathway
-3 Cragcrown Pathway
-4 Darkbore Pathway
 1 Elspeth's Nightmare
+3 Skyclave Shade
 3 Agonizing Remorse
-3 Korvold, Fae-Cursed King
 4 Agonizing Remorse
+1 Pelakka Predation
 2 Tergrid, God of Fright
 1 Elderfang Disciple
 1 Acquisitions Expert
-2 Acquisitions Expert
 2 Elderfang Disciple
+2 Acquisitions Expert
 3 Elderfang Disciple
 4 Elderfang Disciple
 1 Fireblade Charger
 2 Fireblade Charger
 3 Fireblade Charger
 4 Fireblade Charger
+1 Clearwater Pathway
+1 Riverglide Pathway
+2 Riverglide Pathway
 1 Serrated Scorpion
 2 Serrated Scorpion
 1 Snow-Covered Mountain
@@ -110,7 +103,6 @@
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
 1 Inscription of Ruin
-1 Pelakka Predation
 1 Opportunistic Dragon
 1 Feed the Swarm
 1 Evolving Wilds
@@ -121,14 +113,14 @@
 3 Acquisitions Expert
 1 Frost Bite
 1 Magmatic Channeler
-2 Duress
 2 Frost Bite
 2 Magmatic Channeler
+2 Duress
 2 Inscription of Ruin
-3 Duress
 3 Inscription of Ruin
 3 Magmatic Channeler
 3 Frost Bite
+3 Duress
 4 Snow-Covered Mountain
 1 Kaya's Onslaught
 1 Terror of the Peaks
@@ -137,15 +129,25 @@
 2 Elspeth's Nightmare
 1 Embereth Shieldbreaker
 2 Embereth Shieldbreaker
-1 Clearwater Pathway
-1 Riverglide Pathway
 2 Clearwater Pathway
-2 Riverglide Pathway
 3 Clearwater Pathway
 3 Riverglide Pathway
 4 Clearwater Pathway
 4 Riverglide Pathway
+1 Miscast
+1 Island
+2 Miscast
 7 Mountain
+1 Agadeem's Awakening
+1 Darkbore Pathway
+1 Korvold, Fae-Cursed King
+1 Cragcrown Pathway
+1 Forest
+2 Cragcrown Pathway
+2 Darkbore Pathway
+2 Korvold, Fae-Cursed King
+3 Darkbore Pathway
+3 Cragcrown Pathway
 9 Swamp
 3 Serrated Scorpion
 4 Serrated Scorpion
@@ -153,16 +155,14 @@
 1 Banishing Light
 1 Weaponize the Monsters
 1 Shackles of Treachery
-1 Disdainful Stroke
-1 Island
 1 Mogis's Favor
 2 Immersturm Skullcairn
+1 Embercleave
+2 Embercleave
 1 Skull Raid
 1 Murderous Rider
 2 Murderous Rider
 2 Skull Raid
-1 Embercleave
-2 Embercleave
 2 Kaya's Onslaught
 1 Thassa, Deep-Dwelling
 1 Temple of Deceit
@@ -174,23 +174,30 @@
 1 Spikefield Hazard
 2 Spikefield Hazard
 3 Spikefield Hazard
+3 Korvold, Fae-Cursed King
+1 Bastion of Remembrance
+1 Valakut Exploration
+2 Bastion of Remembrance
+2 Island
+3 Miscast
+3 Island
 1 Erebos's Intervention
 2 Erebos's Intervention
 3 Erebos's Intervention
-4 Rankle, Master of Pranks
+1 Stormfist Crusader
 1 Soul Shatter
 1 Nullpriest of Oblivion
-1 Stormfist Crusader
-1 Agadeem's Awakening
 2 Soul Shatter
 2 Stormfist Crusader
 3 Stormfist Crusader
 4 Stormfist Crusader
+4 Rankle, Master of Pranks
 1 Ketria Triome
 1 Binding the Old Gods
 1 Zagoth Triome
 1 Indatha Triome
 2 Binding the Old Gods
+4 Darkbore Pathway
 4 Skyclave Shade
 4 Cragcrown Pathway
 1 The Bloodsky Massacre
@@ -209,7 +216,7 @@
 3 Sulfurous Mire
 4 Sulfurous Mire
 1 Eat to Extinction
-1 Witch's Cauldron
 1 Castle Embereth
+1 Witch's Cauldron
 4 Bloodchief's Thirst
 8 Mountain

@@ -28,9 +28,9 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)   |
+|                    1|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)|
 |                    1|[Stomping Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405110)    |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)   |
-|                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)|
+|                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)             |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)   |
 |                    2|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)           |                     |                                                                                           |
 |                    2|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |                     |                                                                                           |
 |                    3|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)        |                     |                                                                                           |
