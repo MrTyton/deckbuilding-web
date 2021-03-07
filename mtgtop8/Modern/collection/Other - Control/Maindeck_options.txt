@@ -33,13 +33,13 @@
 4 Darkslick Shores
 4 Mishra's Bauble
 1 Primeval Titan
+1 Ghost Quarter
 1 Sire of Insanity
 1 Cavern of Souls
 1 Mwonvuli Acid-Moss
 1 Castle Garenbrig
 1 Bojuka Bog
 1 Snow-Covered Forest
-1 Ghost Quarter
 1 Inferno Titan
 1 Verdant Catacombs
 1 Explore
@@ -59,8 +59,8 @@
 1 Stomping Ground
 1 Sakura-Tribe Elder
 2 Cavern of Souls
-2 Verdant Catacombs
 2 Castle Garenbrig
+2 Verdant Catacombs
 2 Explore
 2 Field of the Dead
 2 Gemstone Caverns
@@ -115,24 +115,24 @@
 4 Blackcleave Cliffs
 4 Blood Crypt
 1 Thought Scour
+1 Sunken Ruins
 1 Bloodchief's Thirst
-1 Into the Story
 1 Castle Vantress
 1 Cryptic Command
 1 Jace, the Mind Sculptor
+1 Into the Story
 1 River of Tears
 1 Flooded Strand
 1 Shark Typhoon
-1 Sunken Ruins
 1 Force of Negation
 1 Misty Rainforest
 2 Thought Scour
-2 River of Tears
 2 Castle Vantress
 2 Shark Typhoon
-2 Into the Story
+2 River of Tears
 2 Cryptic Command
 2 Bloodchief's Thirst
+2 Into the Story
 2 Force of Negation
 2 Misty Rainforest
 3 Thought Scour
@@ -146,10 +146,10 @@
 6 Island
 1 Smoldering Marsh
 1 Graven Cairns
-1 Liliana, Waker of the Dead
 1 Rakdos Charm
 1 Collective Brutality
 1 Chandra, Acolyte of Flame
+1 Liliana, Waker of the Dead
 1 Mazemind Tome
 1 Ensnaring Bridge
 1 Dragonskull Summit
@@ -157,8 +157,8 @@
 2 Ensnaring Bridge
 2 Collective Brutality
 2 Chandra, Torch of Defiance
-3 Ensnaring Bridge
 3 Mazemind Tome
+3 Ensnaring Bridge
 3 Chandra, Torch of Defiance
 3 Dreadbore
 4 Ensnaring Bridge

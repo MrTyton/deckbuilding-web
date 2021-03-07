@@ -14,17 +14,17 @@
 1 Seachrome Coast
 1 Snow-Covered Plains
 1 Snow-Covered Forest
+1 Botanical Sanctum
 1 Hallowed Fountain
 1 Ardent Plea
 1 Glassdust Hulk
 1 Snow-Covered Island
 1 Breeding Pool
-1 Botanical Sanctum
 2 Ardent Plea
 2 Glassdust Hulk
 3 Ardent Plea
-3 Misty Rainforest
 3 Flooded Strand
+3 Misty Rainforest
 3 Glassdust Hulk
 4 Ardent Plea
 4 Misty Rainforest
@@ -72,9 +72,9 @@
 2 Logic Knot
 2 Lightning Bolt
 3 Serum Visions
+3 Lightning Bolt
 3 Archmage's Charm
 3 Kolaghan's Command
-3 Lightning Bolt
 3 Snapcaster Mage
 3 Cryptic Command
 4 Cryptic Command
@@ -90,10 +90,10 @@
 4 Lightning Bolt
 1 Vendilion Clique
 1 Sacred Foundry
-1 Copperline Gorge
-1 Simian Spirit Guide
 1 Wooded Foothills
+1 Simian Spirit Guide
 1 Blooming Marsh
+1 Bloodstained Mire
 1 Fulminator Mage
 1 Faerie Macabre
 1 Overgrown Tomb
@@ -103,30 +103,30 @@
 1 Monstrous Carabid
 1 Beast Within
 1 Architects of Will
-1 Bloodstained Mire
 1 Blackcleave Cliffs
+1 Copperline Gorge
 1 Forest
-2 Blackcleave Cliffs
-2 Copperline Gorge
-2 Simian Spirit Guide
 2 Wooded Foothills
+2 Simian Spirit Guide
+2 Bloodstained Mire
 2 Beast Within
 2 Faerie Macabre
 2 Fulminator Mage
-2 Bloodstained Mire
+2 Copperline Gorge
 2 Blooming Marsh
 2 Deadshot Minotaur
 2 Monstrous Carabid
 2 Architects of Will
+2 Blackcleave Cliffs
 2 Demonic Dread
 2 Horror of the Broken Lands
 2 Blood Crypt
-3 Wooded Foothills
 3 Simian Spirit Guide
+3 Bloodstained Mire
+3 Wooded Foothills
 3 Fulminator Mage
 3 Demonic Dread
 3 Monstrous Carabid
-3 Bloodstained Mire
 3 Horror of the Broken Lands
 4 Simian Spirit Guide
 4 Fulminator Mage

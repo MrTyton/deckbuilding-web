@@ -41,8 +41,8 @@
 |                    4|Darkbore Pathway                                                                                  |                     |              |
 |                    4|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)    |                     |              |
 |                    4|[Savai Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479773)           |                     |              |
-|                    4|[All That Glitters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472964)      |                     |              |
 |                    4|[Transcendent Envoy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476291)     |                     |              |
+|                    4|[All That Glitters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472964)      |                     |              |
 |                    4|[Alseid of Life's Bounty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476252)|                     |              |
 |                    4|Blightstep Pathway                                                                                |                     |              |
 |                    4|[Tymaret Calls the Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476369) |                     |              |

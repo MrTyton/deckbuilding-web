@@ -1,11 +1,14 @@
-3 Heartless Act
-2 Lullmage's Domination
 1 Castle Locthwain
-2 Didn't Say Please
-3 Agadeem's Awakening
-4 Merfolk Windrobber
-1 Mystical Dispute
+2 Eliminate
+2 Lullmage's Domination
 3 Zagoth Triome
+2 Didn't Say Please
+6 Island
+4 Merfolk Windrobber
+3 Agadeem's Awakening
+1 Mystical Dispute
+1 Dead Weight
+2 Dead Weight
 4 Heartless Act
 1 Disdainful Stroke
 1 Soul Shatter
@@ -15,9 +18,9 @@
 1 Mazemind Tome
 1 Shadows' Verdict
 1 Saw It Coming
-2 Shadows' Verdict
 2 Mazemind Tome
 2 Saw It Coming
+2 Shadows' Verdict
 3 Mazemind Tome
 4 Mazemind Tome
 1 Snow-Covered Island
@@ -30,6 +33,7 @@
 4 Snow-Covered Swamp
 4 Snow-Covered Island
 5 Snow-Covered Island
+5 Swamp
 2 Disdainful Stroke
 1 Shark Typhoon
 1 Crawling Barrens
@@ -37,54 +41,37 @@
 2 Shark Typhoon
 2 Crawling Barrens
 2 Jwari Disruption
+3 Jwari Disruption
+2 Erebos's Intervention
 1 Omen of the Sea
 2 Omen of the Sea
 3 Omen of the Sea
 4 Omen of the Sea
 2 Negate
 3 Shadows' Verdict
+4 Shadows' Verdict
 1 Cling to Dust
+1 Ashiok, Nightmare Muse
 2 Ice Tunnel
 5 Snow-Covered Swamp
 6 Snow-Covered Island
-1 Dead Weight
-2 Dead Weight
+3 Lullmage's Domination
 1 Castle Vantress
+3 Crawling Barrens
+3 Soul Shatter
 3 Shark Typhoon
 3 Eliminate
-3 Ice Tunnel
 3 Negate
-4 Ice Tunnel
+3 Ice Tunnel
 4 Negate
-6 Island
-3 Jwari Disruption
-5 Swamp
-4 Shadows' Verdict
-2 Erebos's Intervention
-1 Behold the Multiverse
-2 Behold the Multiverse
-1 Graven Lore
-1 Midnight Clock
-1 Field of Ruin
-2 Graven Lore
-2 Midnight Clock
-2 Field of Ruin
-3 Graven Lore
-3 Field of Ruin
-3 Disdainful Stroke
-4 Graven Lore
-4 Eliminate
-4 Field of Ruin
-1 Ashiok, Nightmare Muse
-3 Crawling Barrens
-1 Extinction Event
-3 Soul Shatter
-3 Lullmage's Domination
+4 Ice Tunnel
 1 Brazen Borrower
 1 Crippling Fear
 2 Ashiok, Nightmare Muse
 3 Saw It Coming
 1 Blood on the Snow
+1 Behold the Multiverse
+2 Behold the Multiverse
 1 Ugin, the Spirit Dragon
 1 Lochmere Serpent
 6 Snow-Covered Swamp
@@ -92,41 +79,51 @@
 7 Snow-Covered Swamp
 1 Valki, God of Lies
 2 Cling to Dust
-1 Sea Gate Restoration
-1 Faceless Haven
-4 Shark Typhoon
+1 Graven Lore
+1 Field of Ruin
+1 Midnight Clock
+2 Midnight Clock
+2 Graven Lore
+2 Field of Ruin
+3 Graven Lore
+3 Field of Ruin
+3 Disdainful Stroke
+4 Eliminate
+4 Field of Ruin
+4 Graven Lore
+1 Extinction Event
 1 Murderous Rider
 1 Hagra Mauling
 2 Ugin, the Spirit Dragon
 2 Murderous Rider
-2 Castle Vantress
-2 Hagra Mauling
 2 Lochmere Serpent
+2 Castle Vantress
 2 Extinction Event
-3 Hagra Mauling
+2 Hagra Mauling
 3 Extinction Event
+3 Hagra Mauling
 3 Bloodchief's Thirst
 3 Lochmere Serpent
+4 Extinction Event
 4 Jwari Disruption
 4 Bloodchief's Thirst
-4 Extinction Event
 6 Swamp
 1 Thassa, Deep-Dwelling
 1 Atris, Oracle of Half-Truths
-1 Solemn Simulacrum
 1 Burning-Rune Demon
+1 Solemn Simulacrum
 2 Atris, Oracle of Half-Truths
 2 Blood on the Snow
 2 Solemn Simulacrum
 2 Burning-Rune Demon
-3 Solemn Simulacrum
 3 Atris, Oracle of Half-Truths
-3 Blood on the Snow
 3 Erebos's Intervention
+3 Solemn Simulacrum
+3 Blood on the Snow
 4 Atris, Oracle of Half-Truths
-4 Solemn Simulacrum
 4 Blood on the Snow
 4 Erebos's Intervention
+4 Solemn Simulacrum
 8 Snow-Covered Island
 8 Snow-Covered Swamp
 9 Snow-Covered Island
@@ -138,8 +135,8 @@
 1 Mountain
 2 Valki, God of Lies
 1 Evolving Wilds
-1 Into the Roil
 1 Avalanche Caller
+1 Into the Roil
 1 Rewind
 2 Brazen Borrower
 1 Volatile Fjord
@@ -149,13 +146,13 @@
 1 Feed the Swarm
 1 Grasp of Darkness
 1 Narfi, Betrayer King
-2 Volatile Fjord
+2 Essence Scatter
 2 Sulfurous Mire
 2 Frantic Inventory
 2 Feed the Serpent
-2 Essence Scatter
 2 Feed the Swarm
 2 Narfi, Betrayer King
+2 Volatile Fjord
 2 Grasp of Darkness
 3 Didn't Say Please
 3 Sulfurous Mire

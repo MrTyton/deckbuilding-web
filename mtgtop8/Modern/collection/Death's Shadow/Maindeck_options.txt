@@ -1,20 +1,20 @@
-4 Bomat Courier
-2 Swamp
+2 Night's Whisper
+2 Verdant Catacombs
+3 Verdant Catacombs
+4 Verdant Catacombs
+2 Polluted Delta
 1 Tarmogoyf
 1 Overgrown Tomb
 1 Nurturing Peatland
 2 Tarmogoyf
 3 Tarmogoyf
 4 Tarmogoyf
-1 Night's Whisper
-2 Night's Whisper
 1 Wooded Foothills
 1 Stomping Ground
 1 Seal of Fire
-2 Polluted Delta
-4 Fatal Push
-2 Overgrown Tomb
 2 Wooded Foothills
+2 Overgrown Tomb
+4 Fatal Push
 1 Scalding Tarn
 1 Thought Scour
 1 Watery Grave
@@ -33,7 +33,6 @@
 2 Stubborn Denial
 3 Stubborn Denial
 4 Stubborn Denial
-2 Kolaghan's Command
 1 Gurmag Angler
 1 Street Wraith
 2 Gurmag Angler
@@ -44,6 +43,18 @@
 3 Gurmag Angler
 4 Street Wraith
 1 Snow-Covered Swamp
+2 Kolaghan's Command
+1 Opt
+3 Snapcaster Mage
+4 Gurmag Angler
+1 Assassin's Trophy
+2 Stomping Ground
+1 Fiery Islet
+1 Snow-Covered Mountain
+1 Dreadhorde Arcanist
+1 Unearth
+2 Dreadhorde Arcanist
+2 Unearth
 1 Plains
 1 Godless Shrine
 1 Sacred Foundry
@@ -51,32 +62,11 @@
 3 Silent Clearing
 4 Silent Clearing
 2 Kroxa, Titan of Death's Hunger
-1 Unearth
-2 Unearth
-1 Opt
-3 Snapcaster Mage
-4 Gurmag Angler
-1 Assassin's Trophy
-2 Stomping Ground
-1 Tidehollow Sculler
-1 Nihil Spellbomb
-1 Lingering Souls
-1 Arid Mesa
-2 Nihil Spellbomb
-2 Tidehollow Sculler
-2 Lingering Souls
-2 Arid Mesa
-3 Tidehollow Sculler
-4 Inquisition of Kozilek
-4 Tidehollow Sculler
-3 Kroxa, Titan of Death's Hunger
-1 Fiery Islet
-1 Snow-Covered Mountain
-1 Dreadhorde Arcanist
-2 Dreadhorde Arcanist
 1 Tasigur, the Golden Fang
 1 Snow-Covered Forest
 1 Forest
+1 Sunbaked Canyon
+2 Sunbaked Canyon
 1 Wrenn and Six
 2 Seal of Fire
 2 Wrenn and Six
@@ -86,9 +76,6 @@
 2 Magmatic Channeler
 2 Drown in the Loch
 3 Magmatic Channeler
-3 Arid Mesa
-3 Lingering Souls
-4 Lingering Souls
 1 Sprite Dragon
 1 Serum Visions
 2 Sprite Dragon
@@ -97,11 +84,12 @@
 2 Serum Visions
 3 Sprite Dragon
 3 Dreadhorde Arcanist
+3 Kroxa, Titan of Death's Hunger
 3 Serum Visions
 4 Dreadhorde Arcanist
 4 Serum Visions
-1 Hex Parasite
 1 Batterskull
+1 Hex Parasite
 1 Sword of Feast and Famine
 1 Stoneforge Mystic
 1 Ranger-Captain of Eos
@@ -111,3 +99,17 @@
 3 Ranger-Captain of Eos
 4 Stoneforge Mystic
 4 Ranger-Captain of Eos
+1 Tidehollow Sculler
+1 Nihil Spellbomb
+1 Lingering Souls
+1 Arid Mesa
+2 Nihil Spellbomb
+2 Tidehollow Sculler
+2 Lingering Souls
+2 Arid Mesa
+3 Arid Mesa
+3 Lingering Souls
+3 Tidehollow Sculler
+4 Inquisition of Kozilek
+4 Lingering Souls
+4 Tidehollow Sculler

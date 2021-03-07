@@ -48,24 +48,24 @@
 2 Blood Moon
 3 Blood Moon
 1 Bala Ged Recovery
-1 Spikefield Hazard
 1 Irencrag Feat
+1 Spikefield Hazard
 1 Valakut Awakening
 1 Reforge the Soul
 1 Manamorphose
 1 Recross the Paths
 1 Desperate Ritual
 1 Pyretic Ritual
-2 Spikefield Hazard
 2 Valakut Awakening
 2 Irencrag Feat
+2 Spikefield Hazard
 2 Pyretic Ritual
 2 Bala Ged Recovery
 2 Manamorphose
 2 Recross the Paths
 2 Desperate Ritual
-3 Valakut Awakening
 3 Irencrag Feat
+3 Valakut Awakening
 3 Spikefield Hazard
 3 Goblin Charbelcher
 3 Manamorphose
@@ -76,8 +76,8 @@
 3 Bala Ged Recovery
 4 Shatterskull Smashing
 4 Valakut Awakening
-4 Goblin Charbelcher
 4 Spikefield Hazard
+4 Goblin Charbelcher
 4 Recross the Paths
 4 Manamorphose
 4 Pyretic Ritual
@@ -140,9 +140,9 @@
 1 Polluted Delta
 2 Polluted Delta
 4 Teferi, Time Raveler
+1 Reflecting Pool
 1 Supreme Verdict
 1 Zagoth Triome
-1 Reflecting Pool
 1 Savai Triome
 1 Bonecrusher Giant
 3 Polluted Delta
@@ -159,23 +159,23 @@
 2 Mountain
 2 Arid Mesa
 1 Dwarven Mine
-1 Transmogrify
 1 Izzet Charm
+1 Transmogrify
 1 Remand
 1 Polymorph
 1 Bloodstained Mire
-2 Transmogrify
-2 Izzet Charm
-2 Remand
 2 Dwarven Mine
+2 Izzet Charm
+2 Transmogrify
+2 Remand
 2 Lightning Bolt
 2 Polymorph
-3 Arid Mesa
 3 Transmogrify
+3 Arid Mesa
+3 Dwarven Mine
 3 Lightning Bolt
 3 Remand
 3 Polymorph
-3 Dwarven Mine
 4 Remand
 4 Arid Mesa
 4 Polymorph
@@ -201,6 +201,19 @@
 3 Lovestruck Beast
 3 Dismember
 3 Omnath, Locus of Creation
+1 Fire Prophecy
+1 Spell Snare
+1 Repeal
+1 Mana Leak
+1 Anger of the Gods
+1 Cloudform
+2 Raugrin Triome
+2 Spell Snare
+2 Anger of the Gods
+2 Steam Vents
+2 Cloudform
+3 Steam Vents
+4 Dwarven Mine
 1 Murderous Rider
 1 Prismatic Vista
 1 Snow-Covered Swamp
@@ -217,10 +230,11 @@
 1 Khalni Garden
 1 Vesuva
 1 Field of the Dead
-1 Hanweir Battlements
 1 Sheltered Thicket
 1 Ghost Quarter
 1 Valakut, the Molten Pinnacle
+1 Hanweir Battlements
+1 Grove of the Burnwillows
 1 Tolaria West
 1 Blast Zone
 1 Radiant Fountain
@@ -236,7 +250,6 @@
 1 Gruul Guildgate
 1 Jund Panorama
 1 Simic Growth Chamber
-1 Grove of the Burnwillows
 1 Gruul Turf
 2 Snow-Covered Forest
 2 Field of the Dead
@@ -248,25 +261,52 @@
 2 Simic Growth Chamber
 3 Tolaria West
 3 Grove of the Burnwillows
+3 Gruul Turf
 3 Castle Garenbrig
 3 Simic Growth Chamber
 3 Forest
-3 Gruul Turf
 4 Grove of the Burnwillows
 4 Gruul Turf
-1 Spell Snare
-1 Fire Prophecy
-1 Repeal
-1 Mana Leak
-1 Anger of the Gods
-1 Cloudform
-2 Raugrin Triome
-2 Spell Snare
-2 Anger of the Gods
-2 Steam Vents
-2 Cloudform
-3 Steam Vents
-4 Dwarven Mine
+1 Underworld Breach
+2 Snow-Covered Island
+1 Snow-Covered Mountain
+1 Grinding Station
+1 Engineered Explosives
+1 Minamo, School at Water's Edge
+1 Metallic Rebuke
+1 Sai, Master Thopterist
+1 Chromatic Star
+1 Lurrus of the Dream-Den
+1 Fiery Islet
+1 Emry, Lurker of the Loch
+1 Mishra's Bauble
+1 Mox Amber
+2 Grinding Station
+2 Underworld Breach
+2 Snow-Covered Plains
+2 Engineered Explosives
+2 Metallic Rebuke
+2 Emry, Lurker of the Loch
+2 Mox Amber
+2 Mishra's Bauble
+2 Chromatic Star
+2 Lurrus of the Dream-Den
+3 Underworld Breach
+3 Grinding Station
+3 Mox Amber
+3 Metallic Rebuke
+3 Chromatic Star
+3 Engineered Explosives
+3 Lurrus of the Dream-Den
+3 Emry, Lurker of the Loch
+3 Mishra's Bauble
+4 Underworld Breach
+4 Grinding Station
+4 Mox Amber
+4 Metallic Rebuke
+4 Chromatic Star
+4 Emry, Lurker of the Loch
+4 Mishra's Bauble
 1 Delay
 1 Opt
 1 Mass Hysteria
@@ -279,8 +319,6 @@
 4 Transmogrify
 4 Lightning Bolt
 4 Mass Hysteria
-1 Underworld Breach
-2 Snow-Covered Island
 1 Wishclaw Talisman
 1 Lotus Field
 1 Silundi Vision
@@ -339,6 +377,58 @@
 2 Warrant / Warden
 3 Supreme Verdict
 4 Brazen Borrower
+1 Nykthos, Shrine to Nyx
+1 Oust
+1 Overwhelming Splendor
+1 Solemnity
+1 Marsh Flats
+1 Deafening Clarion
+1 Temple of Triumph
+1 Wheel of Sun and Moon
+1 Dovescape
+1 Treasure Map
+1 Form of the Dragon
+1 Nine Lives
+1 Plains
+1 Silence
+1 Mistveil Plains
+1 Enduring Ideal
+1 Skyclave Apparition
+1 Lotus Bloom
+1 Phyrexian Unlife
+2 Plains
+2 Nykthos, Shrine to Nyx
+2 Oust
+2 Marsh Flats
+2 Temple of Triumph
+2 Enduring Ideal
+2 Silence
+2 Sacred Foundry
+2 Solemnity
+2 Phyrexian Unlife
+2 Form of the Dragon
+2 Skyclave Apparition
+2 Nine Lives
+2 Treasure Map
+2 Lotus Bloom
+3 Plains
+3 Skyclave Apparition
+3 Sacred Foundry
+3 Marsh Flats
+3 Solemnity
+3 Silence
+3 Enduring Ideal
+3 Lotus Bloom
+3 Oust
+3 Nine Lives
+4 Plains
+4 Marsh Flats
+4 Sacred Foundry
+4 Silence
+4 Enduring Ideal
+5 Plains
+6 Plains
+7 Plains
 1 Pillar of the Paruns
 1 Tendo Ice Bridge
 1 Omniscience
@@ -376,93 +466,3 @@
 4 City of Brass
 4 Aether Hub
 4 Brilliant Ultimatum
-1 Nykthos, Shrine to Nyx
-1 Oust
-1 Solemnity
-1 Marsh Flats
-1 Overwhelming Splendor
-1 Deafening Clarion
-1 Wheel of Sun and Moon
-1 Dovescape
-1 Treasure Map
-1 Form of the Dragon
-1 Nine Lives
-1 Plains
-1 Temple of Triumph
-1 Silence
-1 Mistveil Plains
-1 Enduring Ideal
-1 Skyclave Apparition
-1 Lotus Bloom
-1 Phyrexian Unlife
-2 Plains
-2 Nykthos, Shrine to Nyx
-2 Oust
-2 Silence
-2 Marsh Flats
-2 Enduring Ideal
-2 Temple of Triumph
-2 Sacred Foundry
-2 Solemnity
-2 Phyrexian Unlife
-2 Form of the Dragon
-2 Skyclave Apparition
-2 Nine Lives
-2 Treasure Map
-2 Lotus Bloom
-3 Plains
-3 Skyclave Apparition
-3 Oust
-3 Sacred Foundry
-3 Marsh Flats
-3 Solemnity
-3 Silence
-3 Enduring Ideal
-3 Lotus Bloom
-3 Nine Lives
-4 Plains
-4 Sacred Foundry
-4 Marsh Flats
-4 Silence
-4 Enduring Ideal
-5 Plains
-6 Plains
-7 Plains
-1 Snow-Covered Mountain
-1 Engineered Explosives
-1 Minamo, School at Water's Edge
-1 Metallic Rebuke
-1 Sai, Master Thopterist
-1 Chromatic Star
-1 Lurrus of the Dream-Den
-1 Fiery Islet
-1 Emry, Lurker of the Loch
-1 Grinding Station
-1 Mishra's Bauble
-1 Mox Amber
-2 Snow-Covered Plains
-2 Engineered Explosives
-2 Metallic Rebuke
-2 Emry, Lurker of the Loch
-2 Grinding Station
-2 Mox Amber
-2 Mishra's Bauble
-2 Underworld Breach
-2 Chromatic Star
-2 Lurrus of the Dream-Den
-3 Underworld Breach
-3 Lurrus of the Dream-Den
-3 Metallic Rebuke
-3 Mox Amber
-3 Chromatic Star
-3 Engineered Explosives
-3 Emry, Lurker of the Loch
-3 Grinding Station
-3 Mishra's Bauble
-4 Metallic Rebuke
-4 Mox Amber
-4 Chromatic Star
-4 Emry, Lurker of the Loch
-4 Grinding Station
-4 Mishra's Bauble
-4 Underworld Breach
