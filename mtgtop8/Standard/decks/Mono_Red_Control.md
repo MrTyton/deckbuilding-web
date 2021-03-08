@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Mono%20Red%20Control/Mono%20Red%20Control.txt)
 #### [Export Arena List](../collection/Mono%20Red%20Control/Mono%20Red%20Control_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bonecrusher%20Giant%0A2%09Chandra,%20Heart%20of%20Fire%0A4%09Crawling%20Barrens%0A4%09Fire%20Prophecy%0A3%09Irencrag%20Feat%0A4%09Mazemind%20Tome%0A11%09Mountain%0A4%09Radiant%20Fountain%0A4%09Shatterskull%20Smashing%0A4%09Solemn%20Simulacrum%0A4%09Spikefield%20Hazard%0A4%09Storm's%20Wrath%0A4%09Ugin,%20the%20Spirit%20Dragon%0A4%09Yidaro,%20Wandering%20Monster&deckside=2%09Embereth%20Shieldbreaker%0A2%09Ox%20of%20Agonas%0A4%09Phoenix%20of%20Ash%0A2%09Sorcerous%20Spyglass%0A2%09Soul%20Sear%0A3%09Soul-Guide%20Lantern)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Bonecrusher%20Giant%0A2%09Chandra,%20Heart%20of%20Fire%0A4%09Crawling%20Barrens%0A4%09Fire%20Prophecy%0A3%09Irencrag%20Feat%0A4%09Mazemind%20Tome%0A11%09Mountain%0A4%09Radiant%20Fountain%0A4%09Shatterskull%20Smashing%0A4%09Solemn%20Simulacrum%0A4%09Spikefield%20Hazard%0A4%09Storm's%20Wrath%0A4%09Ugin,%20the%20Spirit%20Dragon%0A4%09Yidaro,%20Wandering%20Monster&deckside=2%09Cinderclasm%0A2%09Embereth%20Shieldbreaker%0A2%09Ox%20of%20Agonas%0A2%09Phoenix%20of%20Ash%0A2%09Sorcerous%20Spyglass%0A2%09Soul%20Sear%0A3%09Soul-Guide%20Lantern)
 # Maindeck
 
 |                                       Artifact (4)                                       |                                            Creature (12)                                             |                                         Instant (8)                                          |                                          Land (19)                                          |                                          Planeswalker (6)                                          |                                           Sorcery (11)                                           |
@@ -14,17 +14,17 @@
 
 # Sideboard
 
-|                                         Artifact (5)                                          |                                           Creature (8)                                            |                                     Instant (2)                                      |
-|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-|2 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|2 [Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|2 [Soul Sear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485483)|
-|3 [Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|2 [Ox of Agonas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476398)          |                                                                                      |
-|                                                                                               |4 [Phoenix of Ash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476399)        |                                                                                      |
+|                                         Artifact (5)                                          |                                           Creature (6)                                            |                                      Instant (4)                                       |
+|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+|2 [Sorcerous Spyglass](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435407)|2 [Embereth Shieldbreaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473084)|2 [Cinderclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491776)|
+|3 [Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|2 [Ox of Agonas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476398)          |2 [Soul Sear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485483)  |
+|                                                                                               |2 [Phoenix of Ash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476399)        |                                                                                        |
 
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                    Sideboard Card                                    |
-|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------|
-|                     |             |                    2|[Cinderclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491776)|
-|                     |             |                    1|[Cinderclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491776)|
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
+|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------|
+|                     |             |                    4|[Phoenix of Ash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476399)|
+|                     |             |                    3|[Phoenix of Ash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476399)|
 

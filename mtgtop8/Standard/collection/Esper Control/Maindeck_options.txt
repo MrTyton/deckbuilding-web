@@ -59,24 +59,24 @@
 6 Plains
 1 Seasoned Hallowblade
 1 Shepherd of the Flock
-1 Giant Killer
 1 Showdown of the Skalds
 1 Usher of the Fallen
+1 Giant Killer
 1 Mountain
 1 Bonecrusher Giant
 1 Needleverge Pathway
+2 Shepherd of the Flock
 2 Seasoned Hallowblade
-2 Usher of the Fallen
 2 Showdown of the Skalds
+2 Usher of the Fallen
 2 Giant Killer
 2 Bonecrusher Giant
 2 Mountain
-2 Shepherd of the Flock
 2 Needleverge Pathway
-3 Giant Killer
 3 Usher of the Fallen
 3 Showdown of the Skalds
 3 Seasoned Hallowblade
+3 Giant Killer
 3 Needleverge Pathway
 3 Mountain
 3 Bonecrusher Giant
@@ -128,6 +128,17 @@
 3 Forest
 4 Golden Egg
 4 Llanowar Visionary
+1 Tergrid, God of Fright
+1 Fae of Wishes
+1 Doomskar
+2 Tergrid, God of Fright
+2 Fae of Wishes
+2 Doomskar
+3 Doomskar
+3 The Birth of Meletis
+3 Fae of Wishes
+4 Doomskar
+4 The Birth of Meletis
 1 Path to the World Tree
 1 Esika's Chariot
 1 Firja's Retribution
@@ -142,28 +153,17 @@
 1 Charming Prince
 2 Path to the World Tree
 2 Firja's Retribution
-2 Burning-Rune Demon
 2 In Search of Greatness
 2 The World Tree
+2 Burning-Rune Demon
 2 Castle Locthwain
-3 Path to the World Tree
-3 The World Tree
 3 In Search of Greatness
+3 The World Tree
+3 Path to the World Tree
 3 Darkbore Pathway
 4 The World Tree
-4 Path to the World Tree
 4 Darkbore Pathway
-1 Tergrid, God of Fright
-1 Fae of Wishes
-1 Doomskar
-2 Tergrid, God of Fright
-2 Fae of Wishes
-2 Doomskar
-3 Doomskar
-3 The Birth of Meletis
-3 Fae of Wishes
-4 Doomskar
-4 The Birth of Meletis
+4 Path to the World Tree
 1 Zagoth Triome
 1 Barkchannel Pathway
 2 Zagoth Triome
@@ -184,19 +184,19 @@
 1 Maul of the Skyclaves
 1 Luminarch Aspirant
 1 Selfless Savior
-2 Maul of the Skyclaves
 2 Luminarch Aspirant
+2 Maul of the Skyclaves
 2 Selfless Savior
 3 Maul of the Skyclaves
 3 Luminarch Aspirant
-4 Maul of the Skyclaves
 4 Luminarch Aspirant
-1 Rimrock Knight
+4 Maul of the Skyclaves
 1 Faerie Guidemother
+1 Rimrock Knight
 2 Goldspan Dragon
+3 Shatterskull Smashing
 3 Goldspan Dragon
 4 Shatterskull Smashing
-4 Goldspan Dragon
 9 Plains
 10 Plains
-3 Shatterskull Smashing
+4 Goldspan Dragon

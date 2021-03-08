@@ -59,8 +59,8 @@
 |                     |                                                                                              |                    1|[Sphinx of the Final Word](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407573) |
 |                     |                                                                                              |                    2|[Sphinx of the Final Word](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407573) |
 |                     |                                                                                              |                    4|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)           |
-|                     |                                                                                              |                    2|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)            |
 |                     |                                                                                              |                    2|[Grand Abolisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389538)          |
+|                     |                                                                                              |                    2|[Echoing Truth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405212)            |
 |                     |                                                                                              |                    2|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)         |
 |                     |                                                                                              |                    3|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)         |
 

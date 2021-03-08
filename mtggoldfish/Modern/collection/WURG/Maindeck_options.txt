@@ -1,45 +1,5 @@
-1 Temple Garden
-1 Snow-Covered Plains
-1 Snow-Covered Forest
-2 Snow-Covered Island
-1 Sword of Fire and Ice
-1 Batterskull
-1 Sword of Feast and Famine
-1 On Thin Ice
-1 Noble Hierarch
-1 Windswept Heath
-1 Spell Queller
-1 Stoneforge Mystic
-2 On Thin Ice
-2 Windswept Heath
-2 Noble Hierarch
-2 Spell Queller
-2 Stoneforge Mystic
-2 Snow-Covered Forest
-3 Windswept Heath
-3 Stoneforge Mystic
-3 Spell Queller
-3 Snow-Covered Forest
-3 Noble Hierarch
-4 Mana Leak
-4 Spell Queller
-4 Noble Hierarch
-4 Stoneforge Mystic
-1 Horizon Canopy
-1 Tireless Tracker
-1 Wooded Foothills
-1 Stomping Ground
-2 Tireless Tracker
-2 Wooded Foothills
-3 Omnath, Locus of Creation
-4 Windswept Heath
-2 Island
-1 Mountain
-2 Lonely Sandbar
-3 Tireless Tracker
 1 Thought Scour
 1 Godless Shrine
-1 Polluted Delta
 1 Drown in the Loch
 1 Watery Grave
 1 Kaya's Guile
@@ -47,10 +7,11 @@
 1 Drowned Catacomb
 1 Glacial Fortress
 1 Esper Charm
-2 Hallowed Fountain
+1 Polluted Delta
 2 Thought Scour
-2 Celestial Colonnade
+2 Hallowed Fountain
 2 Kaya's Guile
+2 Celestial Colonnade
 2 Drown in the Loch
 2 Drowned Catacomb
 2 Esper Charm
@@ -58,19 +19,20 @@
 2 Polluted Delta
 3 Polluted Delta
 3 Island
-3 Drown in the Loch
 3 Thought Scour
+3 Drown in the Loch
 3 Drowned Catacomb
 3 Esper Charm
 4 Drowned Catacomb
-4 Snapcaster Mage
 4 Thought Scour
 4 Polluted Delta
 4 Esper Charm
+4 Snapcaster Mage
+2 Lonely Sandbar
+3 Misty Rainforest
+4 Misty Rainforest
 1 Arid Mesa
-1 Cosima, God of the Voyage
-3 Snow-Covered Island
-1 Birds of Paradise
+1 Temple Garden
 1 Aether Gust
 1 Remand
 2 Remand
@@ -79,24 +41,17 @@
 1 Opt
 2 Opt
 3 Opt
-1 Prismatic Vista
-1 Utopia Sprawl
-1 Uro, Titan of Nature's Wrath
-1 Waterlogged Grove
-2 Cosima, God of the Voyage
-2 Prismatic Vista
-2 Utopia Sprawl
-2 Uro, Titan of Nature's Wrath
-3 Utopia Sprawl
-3 Cosima, God of the Voyage
-3 Uro, Titan of Nature's Wrath
-4 Cosima, God of the Voyage
 1 Nahiri, the Harbinger
+1 Snow-Covered Plains
+1 Snow-Covered Forest
 1 Snow-Covered Mountain
-1 Shark Typhoon
+1 Cosima, God of the Voyage
 1 Emrakul, the Aeons Torn
+1 Shark Typhoon
 2 Nahiri, the Harbinger
+2 Snow-Covered Island
 3 Lightning Helix
+3 Snow-Covered Island
 3 Nahiri, the Harbinger
 3 Lightning Bolt
 4 Lightning Bolt

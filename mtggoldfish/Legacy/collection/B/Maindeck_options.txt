@@ -34,42 +34,42 @@
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
-1 Chalice of the Void
-1 Ancient Tomb
 1 Helm of Obedience
 1 Cruel Reality
 1 Pelakka Predation
 1 Overwhelming Splendor
+1 Trinisphere
 1 Curse of Misfortunes
 1 Curse of Death's Hold
-1 Trinisphere
+1 Ancient Tomb
 1 Leyline of the Void
 1 Curse of Fool's Wisdom
 1 City of Traitors
-2 Ancient Tomb
-2 Chalice of the Void
+1 Chalice of the Void
 2 Helm of Obedience
 2 Curse of Misfortunes
 2 Pelakka Predation
 2 Trinisphere
 2 City of Traitors
 2 Leyline of the Void
+2 Ancient Tomb
+2 Chalice of the Void
 3 City of Traitors
-3 Chalice of the Void
-3 Ancient Tomb
 3 Pelakka Predation
 3 Trinisphere
 3 Curse of Misfortunes
+3 Ancient Tomb
+3 Chalice of the Void
 3 Leyline of the Void
-4 City of Traitors
 4 Chrome Mox
-4 Chalice of the Void
+4 City of Traitors
 4 Trinisphere
 4 Leyline of the Void
 4 Pelakka Predation
 4 Curse of Misfortunes
 4 Ancient Tomb
 4 Karn, the Great Creator
+4 Chalice of the Void
 3 Castle Locthwain
 4 Mishra's Factory
 1 Smallpox
@@ -96,8 +96,8 @@
 10 Swamp
 11 Swamp
 1 Liliana's Triumph
-1 Sinkhole
 1 Cabal Pit
+1 Sinkhole
 2 Sinkhole
 3 Sinkhole
 1 Innocent Blood
@@ -113,8 +113,8 @@
 3 Bloodstained Mire
 1 Toxic Deluge
 1 The Tabernacle at Pendrell Vale
-1 Ensnaring Bridge
 1 Bojuka Bog
+1 Ensnaring Bridge
 2 Ensnaring Bridge
 2 Innocent Blood
 3 Innocent Blood
@@ -134,19 +134,19 @@
 12 Swamp
 13 Swamp
 1 Kaya's Guile
-1 Kitesail Freebooter
-1 Grim Tutor
 1 Phyrexian Obliterator
 1 Varragoth, Bloodsky Sire
+1 Kitesail Freebooter
+1 Grim Tutor
 1 Mastermind's Acquisition
 2 Crucible of Worlds
-1 Tidehollow Sculler
 1 Silent Clearing
+1 Tidehollow Sculler
 2 Silent Clearing
 2 Tidehollow Sculler
 1 Fetid Heath
-2 Plains
 2 Fetid Heath
+2 Plains
 1 Agonizing Remorse
 2 Agonizing Remorse
 3 Agonizing Remorse
@@ -155,11 +155,11 @@
 1 Wooded Foothills
 1 Forest
 1 Assassin's Trophy
+1 Abrupt Decay
 1 Tarmogoyf
 1 Nurturing Peatland
-1 Abrupt Decay
-1 Bayou
 1 Scavenging Ooze
+1 Bayou
 1 Hexdrinker
 2 Bayou
 2 Nurturing Peatland
@@ -187,9 +187,9 @@
 1 Cabal Therapy
 1 Volrath's Stronghold
 1 Dead of Winter
-1 Skyclave Shade
 1 Mox Diamond
 1 Frostwalk Bastion
+1 Skyclave Shade
 1 Court of Ambition
 1 Astrolabe
 2 Cabal Therapy

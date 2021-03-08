@@ -1,28 +1,27 @@
+1 Spreading Seas
 2 Spreading Seas
 3 Skyclave Apparition
 3 Spreading Seas
 4 Spreading Seas
-1 Snow-Covered Forest
-1 Mountain
-1 Snow-Covered Island
 1 Snow-Covered Plains
-1 Uro, Titan of Nature's Wrath
+1 Snow-Covered Island
+1 Mountain
 1 Forest
 1 Ketria Triome
+1 Uro, Titan of Nature's Wrath
 2 Snow-Covered Forest
 2 Lurrus of the Dream-Den
 1 Raugrin Triome
 1 Plains
 1 Island
 2 Forest
-3 Birds of Paradise
-1 Sacred Foundry
 1 Steam Vents
+3 Birds of Paradise
 1 Indatha Triome
 1 Wrenn and Six
-1 Lightning Helix
 1 Godless Shrine
 1 Niv-Mizzet Reborn
+1 Lightning Helix
 1 Kaya's Guile
 1 Assassin's Trophy
 1 Bring to Light
@@ -33,38 +32,50 @@
 2 Omnath, Locus of Creation
 2 Lightning Helix
 3 Omnath, Locus of Creation
-3 Bring to Light
 3 Wrenn and Six
-4 Wooded Foothills
+3 Bring to Light
 1 Dreadbore
 2 Kaya's Guile
 1 Supreme Verdict
 3 Lightning Helix
 4 Bring to Light
 1 Snow-Covered Mountain
+1 Valki, God of Lies
+3 Niv-Mizzet Reborn
+1 Unmoored Ego
+1 Pillar of the Paruns
+2 Pillar of the Paruns
+4 Lightning Helix
+3 Kaya's Guile
+1 Kolaghan's Command
+4 Wrenn and Six
+1 Sacred Foundry
+2 Assassin's Trophy
+4 Wooded Foothills
+4 Omnath, Locus of Creation
+4 Kaya's Guile
 1 Unsettled Mariner
 1 Mutavault
-1 Fiery Islet
 1 Unclaimed Territory
 1 Aether Vial
-1 Cavern of Souls
 1 Realmwalker
 1 Galerider Sliver
 1 Sinew Sliver
 1 Cloudshredder Sliver
 1 Sliver Hive
+1 Fiery Islet
 1 Dregscape Sliver
 1 Silent Clearing
+1 Cavern of Souls
 1 Sidewinder Sliver
 1 Predatory Sliver
 1 Frenetic Sliver
 1 Leeching Sliver
 1 Striking Sliver
-2 Unsettled Mariner
-2 Unclaimed Territory
-2 Fiery Islet
-2 Aether Vial
 2 Cavern of Souls
+2 Unsettled Mariner
+2 Aether Vial
+2 Unclaimed Territory
 2 Mutavault
 2 Sliver Hive
 2 Dregscape Sliver
@@ -74,14 +85,14 @@
 2 Sidewinder Sliver
 2 Realmwalker
 2 Galerider Sliver
+2 Fiery Islet
 2 Leeching Sliver
 2 Silent Clearing
 2 Cloudshredder Sliver
 2 Striking Sliver
 3 Unsettled Mariner
-3 Unclaimed Territory
 3 Aether Vial
-3 Cavern of Souls
+3 Unclaimed Territory
 3 Mutavault
 3 Leeching Sliver
 3 Cloudshredder Sliver
@@ -89,52 +100,44 @@
 3 Sliver Hive
 3 Predatory Sliver
 3 Frenetic Sliver
+3 Cavern of Souls
 3 Galerider Sliver
 3 Sinew Sliver
 4 Cavern of Souls
 4 Unsettled Mariner
+4 Aether Vial
 4 Unclaimed Territory
 4 Cloudshredder Sliver
-4 Aether Vial
 4 Predatory Sliver
 4 Sinew Sliver
 4 Sliver Hive
 4 Leeching Sliver
 4 Galerider Sliver
-1 Valki, God of Lies
-3 Niv-Mizzet Reborn
-1 Unmoored Ego
-1 Pillar of the Paruns
-2 Pillar of the Paruns
-2 Assassin's Trophy
-4 Lightning Helix
-3 Kaya's Guile
-1 Swamp
-4 Wrenn and Six
-1 Kolaghan's Command
-1 Kitchen Finks
-3 Assassin's Trophy
-4 Omnath, Locus of Creation
-4 Kaya's Guile
-1 Lithoform Blight
-1 Eternal Witness
 1 Verdant Catacombs
-1 Knight of Autumn
 1 Abrupt Decay
 3 Pillar of the Paruns
-2 Temple Garden
+1 Swamp
+3 Assassin's Trophy
+1 Kitchen Finks
 1 Snow-Covered Swamp
-1 Ephemerate
+1 Lithoform Blight
+1 Eternal Witness
 2 Verdant Catacombs
+1 Knight of Autumn
+2 Temple Garden
+1 Ephemerate
+4 Teferi, Time Raveler
 1 Eidolon of Rhetoric
 1 Goblin Cratermaker
 1 Growth Spiral
 4 Pillar of the Paruns
+1 Nahiri, the Harbinger
 1 Nissa of Shadowed Boughs
 1 Turntimber Symbiosis
 1 Shatterskull Smashing
 1 Sea Gate Restoration
 1 Hagra Mauling
+1 Emeria's Call
 1 Agadeem's Awakening
 1 Phantasmagorian
 1 Undercity Informer
@@ -146,14 +149,13 @@
 1 Pentad Prism
 1 Creeping Chill
 1 Salvage Titan
-1 Emeria's Call
 2 Turntimber Symbiosis
 2 Sea Gate Restoration
 2 Agadeem's Awakening
+2 Emeria's Call
 2 Sword of the Meek
 2 Undercity Informer
 2 Balustrade Spy
-2 Emeria's Call
 2 Narcomoeba
 2 Creeping Chill
 2 Pentad Prism
@@ -170,21 +172,22 @@
 3 Sword of the Meek
 3 Emeria's Call
 3 Creeping Chill
-4 Emeria's Call
 4 Turntimber Symbiosis
 4 Sea Gate Restoration
 4 Balustrade Spy
 4 Agadeem's Awakening
 4 Undercity Informer
+4 Emeria's Call
 4 Vengevine
 4 Pentad Prism
 4 Creeping Chill
+2 Abrupt Decay
 4 Assassin's Trophy
+2 Nahiri, the Harbinger
 3 Forest
 2 Seal of Fire
 1 Trial of Ambition
 3 Snow-Covered Forest
-4 Teferi, Time Raveler
 1 Sphere of the Suns
 3 Talisman of Resilience
 4 Talisman of Resilience
@@ -193,11 +196,8 @@
 3 Shatterskull Smashing
 2 Growth Spiral
 3 Growth Spiral
-1 Nahiri, the Harbinger
 2 Sphere of the Suns
 1 Calix, Destiny's Hand
-2 Abrupt Decay
-2 Nahiri, the Harbinger
 1 On Thin Ice
 1 Seasoned Pyromancer
 4 Skyclave Apparition
@@ -212,8 +212,8 @@
 2 Path to the World Tree
 2 Valki, God of Lies
 1 Voice of Resurgence
-1 Goblin Charbelcher
 1 Pelakka Predation
+1 Goblin Charbelcher
 2 Pelakka Predation
 3 Hagra Mauling
 4 Hagra Mauling
@@ -227,19 +227,20 @@
 1 Cosima, God of the Voyage
 1 Archon of Emeria
 1 Maelstrom Pulse
-1 Omen of the Dead
 1 Reidane, God of the Worthy
 1 Heliod, Sun-Crowned
+1 Omen of the Dead
 1 Spike Feeder
+3 Abrupt Decay
+1 Oath of Nissa
 1 Felidar Guardian
 1 Saheeli Rai
-1 Oath of Nissa
 1 Rimewood Falls
 1 Golos, Tireless Pilgrim
-1 Highland Forest
 1 Huntmaster of the Fells
 1 Ice-Fang Coatl
 1 Kaya, Orzhov Usurper
+1 Highland Forest
 2 Oath of Nissa
 2 Felidar Guardian
 2 Saheeli Rai
@@ -271,12 +272,12 @@
 3 Talisman of Hierarchy
 4 Leyline of Sanctity
 1 Marsh Flats
-1 Fatal Push
-1 Vraska, Golgari Queen
-1 Blood Crypt
 1 Watery Grave
-2 Marsh Flats
+1 Vraska, Golgari Queen
+1 Fatal Push
+1 Blood Crypt
 2 Fatal Push
+2 Marsh Flats
 3 Thoughtseize
 3 Fatal Push
 3 Marsh Flats

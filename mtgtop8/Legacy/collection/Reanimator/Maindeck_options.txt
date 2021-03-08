@@ -28,19 +28,19 @@
 2 Underground Sea
 1 Jace, the Mind Sculptor
 1 Drown in the Loch
-1 Snow-Covered Swamp
 1 Snow-Covered Forest
+1 Snow-Covered Swamp
+1 Snow-Covered Island
 1 Ice-Fang Coatl
+1 Uro, Titan of Nature's Wrath
 1 Worldgorger Dragon
 1 Dance of the Dead
-1 Uro, Titan of Nature's Wrath
-1 Snow-Covered Island
 1 Misty Rainforest
 1 Abrupt Decay
 2 Drown in the Loch
+2 Ice-Fang Coatl
 2 Snow-Covered Island
 2 Abrupt Decay
-2 Ice-Fang Coatl
 2 Misty Rainforest
 3 Misty Rainforest
 3 Ice-Fang Coatl
@@ -84,9 +84,9 @@
 3 Underground Sea
 4 Verdant Catacombs
 4 Careful Study
+1 Prismatic Vista
 1 Ishkanah, Grafwidow
 1 Arcum's Astrolabe
-1 Prismatic Vista
 2 Prismatic Vista
 2 Uro, Titan of Nature's Wrath
 2 Arcum's Astrolabe
@@ -111,7 +111,6 @@
 4 Grave Titan
 4 Collective Brutality
 5 Swamp
-6 Swamp
 7 Swamp
 8 Swamp
 9 Swamp
@@ -125,3 +124,4 @@
 17 Swamp
 18 Swamp
 19 Swamp
+6 Swamp
