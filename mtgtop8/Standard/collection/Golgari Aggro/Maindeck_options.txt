@@ -81,9 +81,9 @@
 1 Ugin, the Spirit Dragon
 2 Behold the Multiverse
 2 Chainweb Aracnir
-2 Thrashing Brontodon
 2 Frantic Inventory
 2 Poison the Cup
+2 Thrashing Brontodon
 2 Feed the Swarm
 2 Elspeth's Nightmare
 2 Port of Karfell
@@ -104,6 +104,27 @@
 4 Indatha Triome
 4 Fabled Passage
 4 Toski, Bearer of Secrets
+1 Valki, God of Lies
+1 Vivien, Monsters' Advocate
+1 Blightstep Pathway
+1 Scavenging Ooze
+1 Zagoth Triome
+1 Cragcrown Pathway
+1 Order of Midnight
+2 Scavenging Ooze
+2 Valki, God of Lies
+2 Blightstep Pathway
+2 Vivien, Monsters' Advocate
+2 Order of Midnight
+2 Cragcrown Pathway
+2 Agadeem's Awakening
+3 Heartless Act
+3 Valki, God of Lies
+3 Blightstep Pathway
+3 Cragcrown Pathway
+4 Blightstep Pathway
+4 Heartless Act
+4 Cragcrown Pathway
 1 Call of the Death-Dweller
 1 Egon, God of Death
 1 Hooded Blightfang
@@ -127,27 +148,6 @@
 4 Moss Viper
 4 Jungle Hollow
 4 Hooded Blightfang
-1 Valki, God of Lies
-1 Vivien, Monsters' Advocate
-1 Blightstep Pathway
-1 Scavenging Ooze
-1 Zagoth Triome
-1 Cragcrown Pathway
-1 Order of Midnight
-2 Scavenging Ooze
-2 Valki, God of Lies
-2 Blightstep Pathway
-2 Vivien, Monsters' Advocate
-2 Order of Midnight
-2 Cragcrown Pathway
-2 Agadeem's Awakening
-3 Heartless Act
-3 Valki, God of Lies
-3 Blightstep Pathway
-3 Cragcrown Pathway
-4 Heartless Act
-4 Cragcrown Pathway
-4 Blightstep Pathway
 1 Rankle, Master of Pranks
 1 Jolrael, Mwonvuli Recluse
 1 Chevill, Bane of Monsters
@@ -158,8 +158,8 @@
 2 Primal Might
 3 Jolrael, Mwonvuli Recluse
 7 Swamp
-1 Realmwalker
 1 Wolfwillow Haven
+1 Realmwalker
 1 Grasp of Darkness
 1 Skemfar Avenger
 1 Return Upon the Tide
@@ -171,8 +171,8 @@
 2 Grasp of Darkness
 2 Boreal Outrider
 2 Joraga Visionary
-3 Grasp of Darkness
 3 Wolfwillow Haven
+3 Grasp of Darkness
 3 Harald, King of Skemfar
 3 Boreal Outrider
 4 Sculptor of Winter

@@ -23,8 +23,8 @@
 1 Abrupt Decay
 1 Blue Elemental Blast
 2 Nihil Spellbomb
-1 Pyroblast
 1 Red Elemental Blast
+1 Pyroblast
 2 Pyroblast
 1 Hydroblast
 1 Hullbreacher
@@ -41,20 +41,16 @@
 1 Soul-Guide Lantern
 1 Null Rod
 2 Assassin's Trophy
+2 Pithing Needle
 1 Karakas
 1 Fatal Push
 1 Mystical Dispute
 1 Crop Rotation
 2 Fatal Push
 2 Leovold, Emissary of Trest
-2 Pithing Needle
 1 Extirpate
 2 Extirpate
 2 Deafening Silence
-1 Tormod's Crypt
-2 Flusterstorm
-2 Hydroblast
-2 Meddling Mage
 2 Hullbreacher
 1 Parasitic Strix
 1 Ghost Quarter
@@ -66,6 +62,10 @@
 2 Blue Elemental Blast
 2 Reclamation Sage
 2 Swan Song
+1 Tormod's Crypt
+2 Hydroblast
+2 Flusterstorm
+2 Meddling Mage
 1 Oko, Thief of Crowns
 1 Skyclave Apparition
 2 Abrupt Decay

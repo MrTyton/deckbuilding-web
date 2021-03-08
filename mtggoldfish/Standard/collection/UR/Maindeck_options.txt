@@ -86,10 +86,10 @@
 1 Ketria Triome
 1 Barkchannel Pathway
 2 Cragcrown Pathway
-2 Ketria Triome
 2 Barkchannel Pathway
-3 Ketria Triome
+2 Ketria Triome
 3 Barkchannel Pathway
+3 Ketria Triome
 4 Ketria Triome
 1 Showdown of the Skalds
 2 Showdown of the Skalds
@@ -219,9 +219,9 @@
 3 Scorching Dragonfire
 1 Cling to Dust
 1 Robber of the Rich
+1 Shadows' Verdict
 1 Heartless Act
 1 Blightstep Pathway
-1 Shadows' Verdict
 2 Robber of the Rich
 2 Extinction Event
 2 Shadows' Verdict
@@ -241,20 +241,16 @@
 1 Thassa's Intervention
 2 Sea Gate Restoration
 2 Thassa's Intervention
-1 Castle Vantress
 1 Narset of the Ancient Way
 1 Elspeth Conquers Death
+1 Castle Vantress
 2 Narset of the Ancient Way
 2 Elspeth Conquers Death
 3 Narset of the Ancient Way
-1 Cyclone Summoner
-2 Cyclone Summoner
-3 Jwari Disruption
-4 Jwari Disruption
-1 Wolfwillow Haven
 1 Esika's Chariot
-1 Migration Path
+1 Wolfwillow Haven
 1 Lotus Cobra
+1 Migration Path
 2 Koma, Cosmos Serpent
 2 Wolfwillow Haven
 2 Migration Path
@@ -262,6 +258,10 @@
 2 Genesis Ultimatum
 3 Wolfwillow Haven
 4 Wolfwillow Haven
+1 Cyclone Summoner
+2 Cyclone Summoner
+3 Jwari Disruption
+4 Jwari Disruption
 1 Cultivate
 1 Dragonkin Berserker
 1 Gadrak, the Crown-Scourge
@@ -271,13 +271,13 @@
 2 Dragonkin Berserker
 2 Gadrak, the Crown-Scourge
 2 Brushfire Elemental
-3 Cultivate
 3 Forest
+3 Cultivate
 3 Brushfire Elemental
 3 Dragonkin Berserker
-4 Negate
 4 Forest
 4 Cultivate
+4 Negate
 4 Brushfire Elemental
 4 Dragonkin Berserker
 1 Lukka, Coppercoat Outcast
@@ -326,9 +326,9 @@
 4 Chandra's Incinerator
 1 Doomskar
 2 Doomskar
-3 Doomskar
 3 Inspired Ultimatum
 3 Valakut Awakening
+3 Doomskar
 3 Hengegate Pathway
 4 Hengegate Pathway
 1 Riddleform
@@ -360,26 +360,26 @@
 4 Rimrock Knight
 4 Embercleave
 8 Snow-Covered Island
-1 Blizzard Brawl
-1 Snow-Covered Forest
 1 Kogla, the Titan Ape
-1 Brash Taunter
-1 Questing Beast
+1 Snow-Covered Forest
 1 Nylea, Keen-Eyed
+1 Blizzard Brawl
+1 Questing Beast
+1 Brash Taunter
 1 Highland Forest
-2 Snow-Covered Forest
-2 Blizzard Brawl
-2 Brash Taunter
-2 Questing Beast
-2 Nylea, Keen-Eyed
-2 Highland Forest
 2 Kogla, the Titan Ape
+2 Snow-Covered Forest
+2 Nylea, Keen-Eyed
+2 Blizzard Brawl
+2 Questing Beast
+2 Brash Taunter
+2 Highland Forest
 3 Snow-Covered Forest
+3 Toski, Bearer of Secrets
+3 Questing Beast
 3 Blizzard Brawl
 3 Soul Sear
 3 Kogla, the Titan Ape
-3 Toski, Bearer of Secrets
-3 Questing Beast
 3 Brash Taunter
 3 Highland Forest
 4 Snow-Covered Forest

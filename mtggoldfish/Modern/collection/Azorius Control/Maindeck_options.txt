@@ -1,6 +1,6 @@
 1 Logic Knot
-1 Snow-Covered Island
 1 Snow-Covered Plains
+1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 1 Castle Ardenvale
@@ -62,9 +62,9 @@
 2 Hengegate Pathway
 3 Hengegate Pathway
 4 Hengegate Pathway
-1 Negate
 1 Fact or Fiction
 1 Mutavault
+1 Negate
 1 Detention Sphere
 2 Ancestral Vision
 3 Ancestral Vision
@@ -75,11 +75,10 @@
 1 Winds of Abandon
 1 Raugrin Triome
 2 Misty Rainforest
-1 Search for Azcanta
 1 Geier Reach Sanitarium
 1 Castle Vantress
+1 Search for Azcanta
 3 Narset, Parter of Veils
-3 Shark Typhoon
 1 Engineered Explosives
 1 Peek
 3 Plains
@@ -88,7 +87,7 @@
 2 Wall of Omens
 2 Omen of the Sea
 3 Omen of the Sea
-4 Polluted Delta
+3 Shark Typhoon
 1 Seachrome Coast
 1 Sea Gate Restoration
 1 Blinkmoth Nexus
@@ -101,8 +100,9 @@
 2 Behold the Multiverse
 3 Behold the Multiverse
 4 Behold the Multiverse
-4 Archmage's Charm
 4 Supreme Verdict
+4 Polluted Delta
+4 Archmage's Charm
 6 Snow-Covered Island
 1 On Thin Ice
 2 On Thin Ice

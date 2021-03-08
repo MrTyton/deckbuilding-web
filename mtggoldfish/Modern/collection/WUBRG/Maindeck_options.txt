@@ -4,8 +4,8 @@
 4 Spreading Seas
 1 Snow-Covered Forest
 1 Mountain
-1 Snow-Covered Plains
 1 Snow-Covered Island
+1 Snow-Covered Plains
 1 Uro, Titan of Nature's Wrath
 1 Forest
 1 Ketria Triome
@@ -33,8 +33,8 @@
 2 Omnath, Locus of Creation
 2 Lightning Helix
 3 Omnath, Locus of Creation
-3 Wrenn and Six
 3 Bring to Light
+3 Wrenn and Six
 4 Wooded Foothills
 1 Dreadbore
 2 Kaya's Guile
@@ -44,6 +44,7 @@
 1 Snow-Covered Mountain
 1 Unsettled Mariner
 1 Mutavault
+1 Fiery Islet
 1 Unclaimed Territory
 1 Aether Vial
 1 Cavern of Souls
@@ -52,7 +53,6 @@
 1 Sinew Sliver
 1 Cloudshredder Sliver
 1 Sliver Hive
-1 Fiery Islet
 1 Dregscape Sliver
 1 Silent Clearing
 1 Sidewinder Sliver
@@ -62,6 +62,7 @@
 1 Striking Sliver
 2 Unsettled Mariner
 2 Unclaimed Territory
+2 Fiery Islet
 2 Aether Vial
 2 Cavern of Souls
 2 Mutavault
@@ -73,7 +74,6 @@
 2 Sidewinder Sliver
 2 Realmwalker
 2 Galerider Sliver
-2 Fiery Islet
 2 Leeching Sliver
 2 Silent Clearing
 2 Cloudshredder Sliver
@@ -132,14 +132,13 @@
 4 Pillar of the Paruns
 1 Nissa of Shadowed Boughs
 1 Turntimber Symbiosis
-1 Hagra Mauling
 1 Shatterskull Smashing
 1 Sea Gate Restoration
+1 Hagra Mauling
 1 Agadeem's Awakening
 1 Phantasmagorian
 1 Undercity Informer
 1 Balustrade Spy
-1 Emeria's Call
 1 Sword of the Meek
 1 Narcomoeba
 1 Vengevine
@@ -147,6 +146,7 @@
 1 Pentad Prism
 1 Creeping Chill
 1 Salvage Titan
+1 Emeria's Call
 2 Turntimber Symbiosis
 2 Sea Gate Restoration
 2 Agadeem's Awakening
@@ -160,7 +160,6 @@
 2 Shatterskull Smashing
 2 Vengevine
 2 Talisman of Resilience
-3 Emeria's Call
 3 Sea Gate Restoration
 3 Turntimber Symbiosis
 3 Undercity Informer
@@ -169,9 +168,10 @@
 3 Pentad Prism
 3 Vengevine
 3 Sword of the Meek
+3 Emeria's Call
 3 Creeping Chill
-4 Turntimber Symbiosis
 4 Emeria's Call
+4 Turntimber Symbiosis
 4 Sea Gate Restoration
 4 Balustrade Spy
 4 Agadeem's Awakening
@@ -234,8 +234,8 @@
 1 Felidar Guardian
 1 Saheeli Rai
 1 Oath of Nissa
-1 Golos, Tireless Pilgrim
 1 Rimewood Falls
+1 Golos, Tireless Pilgrim
 1 Highland Forest
 1 Huntmaster of the Fells
 1 Ice-Fang Coatl
@@ -265,18 +265,18 @@
 2 Thought Erasure
 2 Goblin Charbelcher
 3 Sphere of the Suns
-1 Talisman of Curiosity
 1 Talisman of Hierarchy
+1 Talisman of Curiosity
 2 Talisman of Hierarchy
 3 Talisman of Hierarchy
 4 Leyline of Sanctity
 1 Marsh Flats
-1 Watery Grave
-1 Vraska, Golgari Queen
 1 Fatal Push
+1 Vraska, Golgari Queen
 1 Blood Crypt
-2 Fatal Push
+1 Watery Grave
 2 Marsh Flats
+2 Fatal Push
 3 Thoughtseize
 3 Fatal Push
 3 Marsh Flats
