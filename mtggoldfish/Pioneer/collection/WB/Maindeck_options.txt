@@ -3,16 +3,11 @@
 2 Town Gossipmonger
 1 Kytheon, Hero of Akros
 2 Declaration in Stone
+2 Kytheon, Hero of Akros
 3 Plains
 4 Plains
 5 Plains
 6 Plains
-2 Kytheon, Hero of Akros
-1 Selfless Spirit
-1 Skyclave Apparition
-2 Selfless Spirit
-2 Skyclave Apparition
-3 Skyclave Apparition
 7 Plains
 8 Plains
 9 Plains
@@ -22,54 +17,14 @@
 13 Plains
 14 Plains
 15 Plains
+1 Selfless Spirit
+1 Skyclave Apparition
+2 Selfless Spirit
+2 Skyclave Apparition
+3 Skyclave Apparition
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 2 Caves of Koilos
-1 Knight of the White Orchid
-2 Knight of the White Orchid
-3 Town Gossipmonger
-4 Town Gossipmonger
-1 Castle Ardenvale
-2 Castle Ardenvale
-4 Skyclave Apparition
-1 Shefet Dunes
-1 Archon of Emeria
-1 Militia Bugler
-1 Branchloft Pathway
-1 Toski, Bearer of Secrets
-1 Esika's Chariot
-1 Voice of Resurgence
-1 Dromoka's Command
-1 Sunpetal Grove
-1 Temple Garden
-1 Halvar, God of Battle
-1 Forest
-2 Halvar, God of Battle
-2 Dromoka's Command
-2 Branchloft Pathway
-2 Toski, Bearer of Secrets
-2 Militia Bugler
-2 Voice of Resurgence
-2 Archon of Emeria
-2 Forest
-2 Sunpetal Grove
-2 Esika's Chariot
-2 Temple Garden
-3 Sunpetal Grove
-3 Temple Garden
-3 Militia Bugler
-3 Halvar, God of Battle
-3 Branchloft Pathway
-3 Voice of Resurgence
-3 Archon of Emeria
-3 Esika's Chariot
-3 Forest
-3 Dromoka's Command
-3 Toski, Bearer of Secrets
-4 Temple Garden
-4 Sunpetal Grove
-4 Branchloft Pathway
-4 Voice of Resurgence
 1 Swamp
 1 Aether Hub
 1 Llanowar Wastes
@@ -78,18 +33,18 @@
 1 Reflector Mage
 1 General Kudro of Drannith
 1 Blooming Marsh
+1 Mana Confluence
 1 Collected Company
 1 Rogue Refiner
-1 Mana Confluence
 2 Blooming Marsh
 2 Collected Company
 2 Aether Hub
 2 Yavimaya Coast
 2 Glint-Sleeve Siphoner
+2 General Kudro of Drannith
 2 Mana Confluence
 2 Rogue Refiner
 2 Reflector Mage
-2 General Kudro of Drannith
 3 Unclaimed Territory
 3 Blooming Marsh
 3 Collected Company
@@ -109,12 +64,14 @@
 1 Field of Ruin
 1 Gideon of the Trials
 1 Gideon, Ally of Zendikar
-1 Fabled Passage
 1 Brimaz, King of Oreskos
+1 Castle Ardenvale
+1 Fabled Passage
 1 Gisela, the Broken Blade
 1 Ajani, Adversary of Tyrants
 1 Archangel of Tithes
 1 Glass Casket
+2 Castle Ardenvale
 2 Banishing Light
 2 Field of Ruin
 2 Gideon, Ally of Zendikar
@@ -128,9 +85,13 @@
 3 Castle Ardenvale
 3 Declaration in Stone
 3 Gideon of the Trials
-3 Fabled Passage
 3 Glass Casket
+3 Fabled Passage
 4 Declaration in Stone
+1 Knight of the White Orchid
+2 Knight of the White Orchid
+3 Town Gossipmonger
+4 Town Gossipmonger
 1 Apostle of Purifying Light
 2 Apostle of Purifying Light
 3 Apostle of Purifying Light
@@ -138,30 +99,31 @@
 1 Firja's Retribution
 1 Shambling Vent
 1 Righteous Valkyrie
+1 Isolated Chapel
 1 Resplendent Angel
 1 Thoughtseize
-1 Isolated Chapel
 1 Bishop of Wings
 1 Archangel Avacyn
 1 Lyra Dawnbringer
 2 Firja's Retribution
 2 Shambling Vent
+2 Swamp
 2 Righteous Valkyrie
+2 Lyra Dawnbringer
 2 Resplendent Angel
 2 Thoughtseize
 2 Isolated Chapel
-2 Swamp
 2 Bishop of Wings
-2 Lyra Dawnbringer
 3 Isolated Chapel
 3 Firja's Retribution
+3 Swamp
 3 Righteous Valkyrie
 3 Selfless Spirit
 3 Thoughtseize
-3 Swamp
 3 Bishop of Wings
 4 Firja's Retribution
 4 Righteous Valkyrie
+4 Skyclave Apparition
 4 Fatal Push
 4 Thoughtseize
 4 Isolated Chapel

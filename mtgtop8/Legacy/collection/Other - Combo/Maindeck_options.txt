@@ -1,20 +1,40 @@
-4 Lotus Petal
-1 Thassa's Oracle
-1 Thought Lash
-1 Paradigm Shift
-1 Jace, Wielder of Mysteries
-1 Shelldock Isle
-2 Thought Lash
-2 Jace, Wielder of Mysteries
-2 Shelldock Isle
-2 Thassa's Oracle
-2 Paradigm Shift
-3 Thought Lash
-3 Paradigm Shift
-3 Thassa's Oracle
-4 Thassa's Oracle
-4 Thought Lash
-4 Paradigm Shift
+1 Surgical Extraction
+1 Ruin Crab
+2 Surgical Extraction
+2 Visions of Beyond
+2 Ruin Crab
+2 Archive Trap
+2 Hedron Crab
+2 Glimpse the Unthinkable
+3 Hedron Crab
+3 Glimpse the Unthinkable
+3 Ruin Crab
+3 Archive Trap
+3 Visions of Beyond
+4 Hedron Crab
+4 Ruin Crab
+4 Archive Trap
+4 Polluted Delta
+1 Swamp
+1 Waterlogged Grove
+1 Misty Rainforest
+2 Prismatic Vista
+2 Misty Rainforest
+3 Misty Rainforest
+5 Island
+1 Preordain
+2 Preordain
+1 Snow-Covered Forest
+1 Tropical Island
+2 Tropical Island
+1 Thoughtseize
+2 Thoughtseize
+1 Spell Pierce
+1 Veil of Summer
+1 Skeletal Scrying
+2 Veil of Summer
+2 Spell Pierce
+3 Veil of Summer
 1 Mission Briefing
 2 Mission Briefing
 3 Surgical Extraction
@@ -33,23 +53,14 @@
 4 Impulse
 6 Island
 7 Island
-1 Waterlogged Grove
-1 Prismatic Vista
-1 Swamp
 1 Brain Freeze
 2 Brain Freeze
-1 Misty Rainforest
-2 Prismatic Vista
-2 Misty Rainforest
-3 Misty Rainforest
 1 Teferi, Time Raveler
 1 Tundra
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
 3 Flooded Strand
 4 Flooded Strand
-1 Preordain
-2 Preordain
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
@@ -61,19 +72,8 @@
 4 Deceiver Exarch
 1 Laboratory Maniac
 2 Waterlogged Grove
-1 Snow-Covered Forest
-1 Tropical Island
-2 Tropical Island
-1 Thoughtseize
-2 Thoughtseize
 2 Tundra
 3 Tundra
-1 Spell Pierce
-1 Veil of Summer
-1 Skeletal Scrying
-2 Veil of Summer
-2 Spell Pierce
-3 Veil of Summer
 1 Castle Vantress
 1 Maddening Cacophony
 2 Maddening Cacophony
@@ -122,12 +122,12 @@
 2 Balustrade Spy
 2 Cabal Ritual
 2 Undercity Informer
-2 Narcomoeba
 2 Turntimber Symbiosis
 2 Dark Ritual
 2 Agadeem's Awakening
 2 Simian Spirit Guide
 2 Pact of Negation
+2 Narcomoeba
 3 Balustrade Spy
 3 Turntimber Symbiosis
 3 Agadeem's Awakening
@@ -177,9 +177,9 @@
 1 Neoform
 1 Chancellor of the Tangle
 1 Nourishing Shoal
+1 Xantid Swarm
 1 Allosaurus Rider
 1 Autochthon Wurm
-1 Xantid Swarm
 2 Once Upon a Time
 2 Allosaurus Shepherd
 2 Allosaurus Rider
@@ -209,11 +209,11 @@
 1 Jace, the Mind Sculptor
 1 Dack Fayden
 1 Mountain
+1 Vendilion Clique
 1 Fiery Islet
 1 Chandra, Torch of Defiance
 1 Blood Moon
 1 Day's Undoing
-1 Vendilion Clique
 1 Ash Barrens
 1 Hullbreacher
 1 Izzet Charm

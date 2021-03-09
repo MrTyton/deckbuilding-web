@@ -1,7 +1,8 @@
-1 Miscast
-2 Miscast
-1 Thryx, the Sudden Storm
+3 Mystical Dispute
+4 Lotus Cobra
+4 Mystical Dispute
 1 Shark Typhoon
+1 Thryx, the Sudden Storm
 2 Shark Typhoon
 3 Shark Typhoon
 4 Shark Typhoon
@@ -9,19 +10,19 @@
 2 Island
 1 Annul
 2 Annul
-4 Lotus Cobra
 1 Migration Path
 1 Mountain
 1 Plains
+3 Miscast
 1 Goldspan Dragon
 2 Goldspan Dragon
-1 Disdainful Stroke
 1 Toski, Bearer of Secrets
 1 The World Tree
 2 Toski, Bearer of Secrets
 3 Toski, Bearer of Secrets
 4 Toski, Bearer of Secrets
 1 Llanowar Visionary
+1 Disdainful Stroke
 2 Llanowar Visionary
 3 Llanowar Visionary
 4 Llanowar Visionary
@@ -36,9 +37,9 @@
 1 Dream Trawler
 1 Esika, God of the Tree
 1 Ondu Inversion
-2 Esika, God of the Tree
 2 Crush the Weak
 2 Stonecoil Serpent
+2 Esika, God of the Tree
 3 Esika, God of the Tree
 3 Stonecoil Serpent
 4 Stonecoil Serpent
@@ -50,12 +51,8 @@
 2 Ilysian Caryatid
 3 Ilysian Caryatid
 4 Ilysian Caryatid
-3 Miscast
+4 Miscast
 2 The World Tree
-1 Duress
-2 Duress
-3 Duress
-4 Duress
 1 Forest
 1 Beanstalk Giant
 2 Beanstalk Giant
@@ -65,37 +62,27 @@
 2 Blood on the Snow
 3 Blood on the Snow
 1 Confounding Conundrum
+1 Scorching Dragonfire
+1 Spikefield Hazard
+1 Fire Prophecy
+1 Footfall Crater
+2 Scorching Dragonfire
+2 Fire Prophecy
+2 Footfall Crater
+3 Scorching Dragonfire
 1 Terror of the Peaks
 2 Terror of the Peaks
 3 Terror of the Peaks
-1 Fire Prophecy
-1 Spikefield Hazard
-1 Scorching Dragonfire
-1 Footfall Crater
-2 Fire Prophecy
-2 Scorching Dragonfire
-2 Footfall Crater
-3 Scorching Dragonfire
 2 Demon Bolt
 3 Demon Bolt
-1 Peer into the Abyss
-2 Peer into the Abyss
-2 Disdainful Stroke
-3 Disdainful Stroke
-1 Wolfwillow Haven
-2 Wolfwillow Haven
-2 Forest
-3 Wolfwillow Haven
-3 Forest
-4 Beanstalk Giant
-4 Wolfwillow Haven
+3 Annul
 1 Shadows' Verdict
 1 Icebreaker Kraken
 1 Dryad of the Ilysian Grove
 1 Koma, Cosmos Serpent
 2 Valki, God of Lies
-2 Shadows' Verdict
 2 Koma, Cosmos Serpent
+2 Shadows' Verdict
 3 Shadows' Verdict
 3 Koma, Cosmos Serpent
 4 Blood on the Snow
@@ -104,25 +91,34 @@
 2 Skyclave Relic
 3 Skyclave Relic
 4 Skyclave Relic
-1 Cragplate Baloth
-1 Storm's Wrath
-1 Mazemind Tome
-1 Kaheera, the Orphanguard
-1 Shock
-2 Mazemind Tome
-2 Cragplate Baloth
-2 Shock
-2 Storm's Wrath
-3 Cragplate Baloth
-3 Mazemind Tome
-3 Storm's Wrath
-3 Shock
-4 Mazemind Tome
-4 Storm's Wrath
+1 Duress
+2 Duress
+3 Duress
+4 Duress
+1 Wolfwillow Haven
+2 Forest
+2 Wolfwillow Haven
+3 Forest
+3 Wolfwillow Haven
+4 Beanstalk Giant
+4 Wolfwillow Haven
 3 The World Tree
 4 The World Tree
-3 Annul
-4 Miscast
+1 Cragplate Baloth
+1 Storm's Wrath
+1 Kaheera, the Orphanguard
+1 Mazemind Tome
+1 Shock
+2 Mazemind Tome
+2 Shock
+2 Cragplate Baloth
+2 Storm's Wrath
+3 Storm's Wrath
+3 Mazemind Tome
+3 Shock
+3 Cragplate Baloth
+4 Storm's Wrath
+4 Mazemind Tome
 1 Valkyrie Harbinger
 2 Valkyrie Harbinger
 3 Valkyrie Harbinger

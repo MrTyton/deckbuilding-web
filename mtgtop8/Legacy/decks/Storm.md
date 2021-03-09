@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Taiga](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=883)                 |                    1|[Peer into the Abyss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485440)|
-|                    1|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)        |                    1|[Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)          |
+|                    1|[Taiga](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=883)                 |                    1|[Grapeshot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426588)          |
+|                    1|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)        |                    1|[Peer into the Abyss](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485440)|
 |                    1|[Mox Opal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397719)           |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |
 |                    1|[Echo of Eons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463995)       |                    3|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)    |
 |                    1|[Burning Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416909)       |                    3|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)       |

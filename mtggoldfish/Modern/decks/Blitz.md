@@ -68,6 +68,6 @@
 |                    1|[Crash Through](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430777)        |                     |                                                                                              |
 |                    1|[Rift Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426589)            |                     |                                                                                              |
 |                    2|[Crash Through](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430777)        |                     |                                                                                              |
-|                    2|[Rift Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426589)            |                     |                                                                                              |
 |                    3|[Crash Through](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430777)        |                     |                                                                                              |
+|                    2|[Rift Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426589)            |                     |                                                                                              |
 

@@ -1,7 +1,6 @@
+9 Snow-Covered Plains
 3 Silent Clearing
 4 Silent Clearing
-10 Snow-Covered Plains
-4 Plains
 5 Plains
 6 Plains
 7 Plains
@@ -10,6 +9,7 @@
 9 Plains
 10 Plains
 1 Horizon Canopy
+10 Snow-Covered Plains
 1 Sunbaked Canyon
 11 Plains
 1 Castle Ardenvale
@@ -26,30 +26,30 @@
 2 Horizon Canopy
 2 Restoration Angel
 3 Horizon Canopy
-1 Razorverge Thicket
 1 Branchloft Pathway
-1 Oath of Nissa
 1 Temple Garden
 1 Noble Hierarch
+1 Razorverge Thicket
 1 Eternal Witness
+1 Oath of Nissa
 1 Stirring Wildwood
 1 Forest
-2 Razorverge Thicket
-2 Temple Garden
 2 Noble Hierarch
-2 Oath of Nissa
 2 Branchloft Pathway
 2 Forest
+2 Temple Garden
+2 Oath of Nissa
 2 Stirring Wildwood
+2 Razorverge Thicket
 2 Eternal Witness
-3 Razorverge Thicket
-3 Oath of Nissa
-3 Temple Garden
 3 Branchloft Pathway
 3 Noble Hierarch
-4 Temple Garden
+3 Temple Garden
+3 Oath of Nissa
+3 Razorverge Thicket
 4 Horizon Canopy
 4 Razorverge Thicket
+4 Temple Garden
 4 Branchloft Pathway
 4 Oath of Nissa
 1 Linvala, Keeper of Silence
@@ -82,25 +82,26 @@
 3 Inspiring Vantage
 3 Needleverge Pathway
 4 Needleverge Pathway
+1 Glasspool Mimic
 1 Mirran Crusader
 2 Charming Prince
 2 Mirran Crusader
 3 Shalai, Voice of Plenty
 1 Sacred Foundry
-1 Seasoned Pyromancer
 1 Lurrus of the Dream-Den
 1 Seal of Fire
 1 Mountain
 1 Rugged Prairie
+1 Seasoned Pyromancer
 2 Sacred Foundry
 2 Lurrus of the Dream-Den
-2 Seasoned Pyromancer
-2 Rugged Prairie
 2 Seal of Fire
+2 Rugged Prairie
+2 Seasoned Pyromancer
+3 Seasoned Pyromancer
 3 Lurrus of the Dream-Den
 3 Seal of Fire
 3 Sacred Foundry
-3 Seasoned Pyromancer
 4 Inspiring Vantage
 4 Seasoned Pyromancer
 4 Seal of Fire
@@ -121,14 +122,29 @@
 1 Sword of Light and Shadow
 1 Reidane, God of the Worthy
 1 Spellskite
-2 Spellskite
 2 Reidane, God of the Worthy
+2 Spellskite
+2 Flagstones of Trokair
+3 Flagstones of Trokair
 1 Snow-Covered Mountain
 1 Cleansing Wildfire
 1 Akiri, Fearless Voyager
 2 Cleansing Wildfire
 3 Cleansing Wildfire
 4 Cleansing Wildfire
-1 Glasspool Mimic
-2 Flagstones of Trokair
-3 Flagstones of Trokair
+1 Hallowed Fountain
+1 Flooded Strand
+1 Moorland Haunt
+1 Spell Queller
+1 Adarkar Wastes
+1 Seachrome Coast
+2 Moorland Haunt
+2 Hallowed Fountain
+2 Flooded Strand
+2 Adarkar Wastes
+2 Seachrome Coast
+2 Spell Queller
+3 Spell Queller
+3 Seachrome Coast
+4 Spell Queller
+4 Seachrome Coast
