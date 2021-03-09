@@ -18,14 +18,14 @@
 2 Eliminate
 3 Lullmage's Domination
 3 Saw It Coming
-1 Snow-Covered Island
 1 Snow-Covered Swamp
+1 Snow-Covered Island
 2 Snow-Covered Swamp
 2 Snow-Covered Island
 3 Snow-Covered Swamp
 3 Snow-Covered Island
-4 Snow-Covered Swamp
 4 Snow-Covered Island
+4 Snow-Covered Swamp
 5 Snow-Covered Island
 1 Alrund's Epiphany
 2 Alrund's Epiphany
@@ -36,15 +36,15 @@
 1 Castle Vantress
 1 Graven Lore
 1 Shadows' Verdict
-1 Midnight Clock
 1 Extinction Event
+1 Midnight Clock
 2 Shark Typhoon
-2 Midnight Clock
+2 Crawling Barrens
 2 Behold the Multiverse
 2 Graven Lore
-2 Crawling Barrens
 2 Shadows' Verdict
 2 Extinction Event
+2 Midnight Clock
 2 Negate
 3 Shark Typhoon
 3 Behold the Multiverse
@@ -53,18 +53,17 @@
 5 Snow-Covered Swamp
 6 Snow-Covered Island
 1 Erebos's Intervention
-1 Jwari Disruption
-1 Mire's Grasp
-2 Jwari Disruption
-1 Into the Roil
-1 Ice Tunnel
-1 Blood on the Snow
 1 Evolving Wilds
+1 Ice Tunnel
 1 Avalanche Caller
 1 Disdainful Stroke
+1 Into the Roil
+1 Blood on the Snow
 2 Disdainful Stroke
 2 Soul Shatter
-2 Mystical Dispute
+1 Mire's Grasp
+1 Jwari Disruption
+2 Jwari Disruption
 1 Brazen Borrower
 2 Brazen Borrower
 3 Crawling Barrens
@@ -72,14 +71,15 @@
 2 Ugin, the Spirit Dragon
 2 Elspeth's Nightmare
 4 Behold the Multiverse
+4 Zagoth Triome
 2 Crippling Fear
 3 Crippling Fear
-4 Crippling Fear
 4 Of One Mind
+4 Crippling Fear
 1 Omen of the Sea
 1 Rewind
 1 Hengegate Pathway
 2 Hengegate Pathway
 2 Rewind
 5 Swamp
-4 Zagoth Triome
+2 Mystical Dispute

@@ -156,11 +156,11 @@
 1 Vendilion Clique
 5 Island
 1 Creeping Tar Pit
+1 Dark Confidant
+1 The Royal Scions
+2 Dark Confidant
 1 Blood Moon
 2 Blood Moon
-1 The Royal Scions
-1 Dark Confidant
-2 Dark Confidant
 1 Terminate
 1 Gurmag Angler
 2 Terminate
@@ -169,8 +169,8 @@
 2 Unearth
 2 Icehide Golem
 1 Dreadhorde Arcanist
-2 Hallowed Fountain
 2 Dreadhorde Arcanist
+2 Hallowed Fountain
 3 Dreadhorde Arcanist
 3 Hallowed Fountain
 4 Dreadhorde Arcanist
@@ -198,6 +198,7 @@
 4 Wizard's Lightning
 4 Wizard's Retort
 4 Soul-Scar Mage
+1 Stormwing Entity
 1 Lava Dart
 1 Assault Strobe
 1 Gut Shot
@@ -207,7 +208,6 @@
 1 Monastery Swiftspear
 1 Light Up the Stage
 1 Sunbaked Canyon
-1 Stormwing Entity
 2 Stormwing Entity
 2 Lava Dart
 2 Lava Spike
@@ -218,16 +218,16 @@
 2 Monastery Swiftspear
 2 Mountain
 2 Light Up the Stage
-3 Fiery Islet
 3 Manamorphose
+3 Fiery Islet
 3 Light Up the Stage
 3 Lava Spike
 3 Stormwing Entity
 3 Monastery Swiftspear
 3 Mountain
 3 Lava Dart
-4 Fiery Islet
 4 Manamorphose
+4 Fiery Islet
 4 Stormwing Entity
 4 Monastery Swiftspear
 4 Lava Spike
@@ -238,8 +238,8 @@
 5 Snow-Covered Island
 6 Snow-Covered Island
 1 Oboro, Palace in the Clouds
-1 Castle Vantress
 1 Mutavault
+1 Castle Vantress
 1 Cryptic Command
 1 Deliberate
 1 Psionic Blast

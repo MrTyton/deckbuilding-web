@@ -1,7 +1,7 @@
 1 Miscast
 2 Miscast
-1 Shark Typhoon
 1 Thryx, the Sudden Storm
+1 Shark Typhoon
 2 Shark Typhoon
 3 Shark Typhoon
 4 Shark Typhoon
@@ -31,21 +31,21 @@
 3 Island
 1 Demon Bolt
 1 Garruk, Cursed Huntsman
+1 Crush the Weak
 1 Stonecoil Serpent
 1 Dream Trawler
 1 Esika, God of the Tree
 1 Ondu Inversion
-1 Crush the Weak
 2 Esika, God of the Tree
-2 Stonecoil Serpent
 2 Crush the Weak
+2 Stonecoil Serpent
 3 Esika, God of the Tree
 3 Stonecoil Serpent
 4 Stonecoil Serpent
+1 Snow-Covered Swamp
 1 Snow-Covered Island
 1 Snow-Covered Plains
 1 Ilysian Caryatid
-1 Snow-Covered Swamp
 2 Snow-Covered Island
 2 Ilysian Caryatid
 3 Ilysian Caryatid
@@ -65,10 +65,9 @@
 2 Blood on the Snow
 3 Blood on the Snow
 1 Confounding Conundrum
-1 Peer into the Abyss
-2 Disdainful Stroke
-2 Peer into the Abyss
-3 Disdainful Stroke
+1 Terror of the Peaks
+2 Terror of the Peaks
+3 Terror of the Peaks
 1 Fire Prophecy
 1 Spikefield Hazard
 1 Scorching Dragonfire
@@ -77,18 +76,26 @@
 2 Scorching Dragonfire
 2 Footfall Crater
 3 Scorching Dragonfire
-1 Terror of the Peaks
-2 Terror of the Peaks
-3 Terror of the Peaks
 2 Demon Bolt
 3 Demon Bolt
+1 Peer into the Abyss
+2 Peer into the Abyss
+2 Disdainful Stroke
+3 Disdainful Stroke
+1 Wolfwillow Haven
+2 Wolfwillow Haven
+2 Forest
+3 Wolfwillow Haven
+3 Forest
+4 Beanstalk Giant
+4 Wolfwillow Haven
+1 Shadows' Verdict
 1 Icebreaker Kraken
 1 Dryad of the Ilysian Grove
-1 Shadows' Verdict
 1 Koma, Cosmos Serpent
 2 Valki, God of Lies
-2 Koma, Cosmos Serpent
 2 Shadows' Verdict
+2 Koma, Cosmos Serpent
 3 Shadows' Verdict
 3 Koma, Cosmos Serpent
 4 Blood on the Snow
@@ -97,30 +104,23 @@
 2 Skyclave Relic
 3 Skyclave Relic
 4 Skyclave Relic
-1 Wolfwillow Haven
-2 Forest
-2 Wolfwillow Haven
-3 Forest
-3 Wolfwillow Haven
-4 Beanstalk Giant
-4 Wolfwillow Haven
-3 The World Tree
-4 The World Tree
 1 Cragplate Baloth
-1 Mazemind Tome
 1 Storm's Wrath
+1 Mazemind Tome
 1 Kaheera, the Orphanguard
 1 Shock
-2 Cragplate Baloth
 2 Mazemind Tome
+2 Cragplate Baloth
 2 Shock
 2 Storm's Wrath
 3 Cragplate Baloth
-3 Storm's Wrath
 3 Mazemind Tome
+3 Storm's Wrath
 3 Shock
-4 Storm's Wrath
 4 Mazemind Tome
+4 Storm's Wrath
+3 The World Tree
+4 The World Tree
 3 Annul
 4 Miscast
 1 Valkyrie Harbinger

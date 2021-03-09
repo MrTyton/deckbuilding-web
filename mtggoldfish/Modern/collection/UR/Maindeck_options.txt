@@ -1,12 +1,5 @@
-2 Monastery Swiftspear
-3 Soul-Scar Mage
-3 Lava Dart
-3 Light Up the Stage
-3 Monastery Swiftspear
-4 Soul-Scar Mage
 4 Light Up the Stage
 4 Lava Dart
-4 Monastery Swiftspear
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
@@ -15,25 +8,28 @@
 3 Mountain
 1 Crash Through
 2 Crash Through
+1 Brazen Borrower
+2 Brazen Borrower
+1 Jace, the Mind Sculptor
+3 Flooded Strand
+4 Flooded Strand
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
 3 Crash Through
 4 Crash Through
-1 Polluted Delta
+3 Cryptic Command
+2 Jace, the Mind Sculptor
 1 Blood Moon
 2 Blood Moon
-1 Misty Rainforest
-3 Force of Negation
 1 Sunbaked Canyon
 2 Sunbaked Canyon
+1 Misty Rainforest
+1 Polluted Delta
 2 Sulfur Falls
-1 Shark Typhoon
-2 Shark Typhoon
-1 Mana Leak
-1 Arid Mesa
 1 Wooded Foothills
+1 Arid Mesa
 2 Wooded Foothills
 3 Sunbaked Canyon
 1 Mutagenic Growth
@@ -45,9 +41,9 @@
 1 Abbot of Keral Keep
 1 Boros Charm
 1 Myth Realized
-2 Sacred Foundry
 2 Bloodstained Mire
 2 Boros Charm
+2 Sacred Foundry
 2 Myth Realized
 2 Inspiring Vantage
 2 Abbot of Keral Keep
@@ -56,9 +52,8 @@
 4 Inspiring Vantage
 3 Steam Vents
 1 Fiery Islet
-2 Polluted Delta
-1 Bonecrusher Giant
-2 Bonecrusher Giant
+1 Mana Leak
+3 Force of Negation
 1 Lava Spike
 2 Lava Spike
 4 Mountain
@@ -70,15 +65,20 @@
 10 Mountain
 11 Mountain
 12 Mountain
+1 Bonecrusher Giant
+2 Bonecrusher Giant
 1 Bedlam Reveler
 2 Bedlam Reveler
 1 Deprive
+1 Shark Typhoon
+2 Shark Typhoon
 2 Fiery Islet
 13 Mountain
 14 Mountain
 3 Lava Spike
 3 Bedlam Reveler
 4 Lava Spike
+2 Polluted Delta
 1 Abrade
 1 Ral, Izzet Viceroy
 8 Island
@@ -88,42 +88,35 @@
 1 The Royal Scions
 2 The Royal Scions
 2 Mana Leak
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
 4 Misty Rainforest
-1 Snow-Covered Mountain
 1 Cascade Bluffs
 1 Blast Zone
 2 Magmatic Sinkhole
 2 Cascade Bluffs
 3 Brazen Borrower
 4 Brazen Borrower
-5 Snow-Covered Island
+1 Snow-Covered Mountain
+1 Snow-Covered Island
+2 Snow-Covered Island
+3 Snow-Covered Island
+4 Snow-Covered Island
+1 Wild Slash
+2 Wild Slash
 1 Hallowed Fountain
-1 Field of Ruin
-2 Field of Ruin
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-1 Path to Exile
-2 Path to Exile
-2 Hallowed Fountain
-1 Engineered Explosives
-1 Plains
 1 Minamo, School at Water's Edge
+1 Pithing Needle
 1 Urza, Lord High Artificer
 1 Metallic Rebuke
 1 Sword of the Meek
 1 Chromatic Star
 1 Mox Amber
-1 Pithing Needle
 1 Emry, Lurker of the Loch
 1 Thopter Foundry
+1 Engineered Explosives
 2 Mox Amber
-2 Engineered Explosives
 2 Urza, Lord High Artificer
 2 Emry, Lurker of the Loch
+2 Engineered Explosives
 2 Thopter Foundry
 2 Metallic Rebuke
 3 Urza, Lord High Artificer
@@ -133,31 +126,28 @@
 3 Thopter Foundry
 4 Emry, Lurker of the Loch
 4 Urza, Lord High Artificer
-1 Wild Slash
-2 Wild Slash
 3 Fiery Islet
 2 Gut Shot
 15 Mountain
 1 Kiln Fiend
 2 Kiln Fiend
-3 Mystic Sanctuary
 1 Omen of the Sea
 2 Omen of the Sea
 3 Omen of the Sea
-3 Teferi, Time Raveler
-1 Raugrin Triome
-1 Snow-Covered Plains
-2 Snow-Covered Plains
-1 Glimmervoid
-1 Aether Spellbomb
+5 Snow-Covered Island
 1 Sprite Dragon
 2 Sprite Dragon
 3 Sprite Dragon
 4 Sprite Dragon
 3 Polluted Delta
 4 Polluted Delta
-3 Mox Amber
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+1 Glimmervoid
+1 Aether Spellbomb
 1 Lurrus of the Dream-Den
+3 Mox Amber
+1 Plains
 1 Wrenn and Six
 1 Stomping Ground
 2 Wrenn and Six
@@ -171,30 +161,35 @@
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
 4 Through the Breach
+1 Breeding Pool
 1 Snow-Covered Forest
 1 Ice-Fang Coatl
 1 Firespout
-1 Breeding Pool
+1 Field of Ruin
 1 Search for Azcanta
 1 Lonely Sandbar
 1 Ketria Triome
 2 Snow-Covered Forest
 2 Breeding Pool
 2 Ice-Fang Coatl
+2 Field of Ruin
 3 Mana Leak
 3 Ice-Fang Coatl
 4 Wrenn and Six
 4 Ice-Fang Coatl
-1 Goblin Engineer
-1 Pyrite Spellbomb
+1 Snow-Covered Plains
 1 Soul-Guide Lantern
+1 Pyrite Spellbomb
 1 Spire of Industry
+1 Goblin Engineer
 1 Academy Ruins
+1 Raugrin Triome
 1 Witching Well
 2 Glimmervoid
-2 Goblin Engineer
+2 Snow-Covered Plains
 2 Spire of Industry
 2 Sword of the Meek
+2 Goblin Engineer
 3 Goblin Engineer
 4 Goblin Engineer
 9 Island
@@ -206,31 +201,27 @@
 1 Blistercoil Weird
 2 Blistercoil Weird
 3 Gut Shot
+4 Bedlam Reveler
+3 Kiln Fiend
 2 Chromatic Star
+3 Teferi, Time Raveler
 1 Seachrome Coast
 1 Stoneforge Mystic
 1 Batterskull
-2 Seachrome Coast
 2 Stoneforge Mystic
+2 Seachrome Coast
 3 Stoneforge Mystic
 4 Engineered Explosives
-4 Thopter Foundry
 4 Stoneforge Mystic
-2 Plains
-4 Bedlam Reveler
-3 Kiln Fiend
-1 Serum Visions
-2 Serum Visions
+4 Thopter Foundry
 16 Mountain
-1 Prairie Stream
-1 Hengegate Pathway
-3 Path to Exile
-1 Terminus
-2 Terminus
-3 Jace, the Mind Sculptor
+3 Mystic Sanctuary
+1 Path to Exile
+2 Hallowed Fountain
+2 Path to Exile
 2 Arid Mesa
-3 Arid Mesa
 3 Wooded Foothills
+3 Arid Mesa
 1 Yidaro, Wandering Monster
 1 Wandering Fumarole
 1 Behold the Multiverse
@@ -241,28 +232,25 @@
 2 Narset, Parter of Veils
 1 Peek
 2 Peek
-1 Spell Pierce
 1 Dispel
+1 Spell Pierce
 2 Spell Pierce
 3 Ancestral Vision
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
 3 Burst Lightning
 1 Watery Grave
-1 Swamp
 1 Tezzeret, Agent of Bolas
 1 Nihil Spellbomb
+1 Swamp
 1 Darkslick Shores
 3 Seachrome Coast
 4 Mox Amber
 4 Seachrome Coast
-1 Teferi, Hero of Dominaria
-1 Supreme Verdict
-3 Hallowed Fountain
-3 Field of Ruin
-4 Field of Ruin
+1 Serum Visions
 1 Dreadhorde Arcanist
 1 Piracy Charm
+2 Serum Visions
 2 Dreadhorde Arcanist
 2 Deprive
 2 Piracy Charm
@@ -273,6 +261,8 @@
 4 Serum Visions
 4 Dreadhorde Arcanist
 1 Eiganjo Castle
+1 Hengegate Pathway
+2 Plains
 2 Hengegate Pathway
 2 Lurrus of the Dream-Den
 3 Hengegate Pathway
@@ -288,21 +278,21 @@
 4 Stormwing Entity
 4 Fiery Islet
 1 Tarfire
+1 Seal of Fire
 1 Brushfire Elemental
 1 Akoum Hellhound
-1 Forest
 1 Copperline Gorge
-1 Seal of Fire
 1 Tarmogoyf
+1 Forest
 2 Brushfire Elemental
 2 Seal of Fire
 2 Akoum Hellhound
-2 Copperline Gorge
 2 Stomping Ground
+2 Copperline Gorge
 2 Tarmogoyf
 3 Copperline Gorge
-3 Brushfire Elemental
 3 Akoum Hellhound
+3 Brushfire Elemental
 3 Tarmogoyf
 4 Copperline Gorge
 4 Akoum Hellhound
@@ -333,35 +323,31 @@
 2 Thing in the Ice
 3 Thing in the Ice
 4 Thing in the Ice
-1 Logic Knot
-1 Glacial Fortress
-1 Prismatic Vista
-1 On Thin Ice
-2 Glacial Fortress
-2 Prismatic Vista
-2 On Thin Ice
-3 Prismatic Vista
-3 On Thin Ice
-3 Glacial Fortress
-4 Glacial Fortress
-4 Prismatic Vista
-1 Entreat the Angels
-1 Counterbalance
-2 Counterbalance
-3 Counterbalance
-3 Terminus
-4 Terminus
-4 Force of Negation
-4 Omen of the Sea
-4 Mystic Sanctuary
-4 Counterbalance
+1 Goldspan Dragon
+1 Magda, Brazen Outlaw
+1 Glorybringer
+1 Silumgar's Scorn
+1 Mothdust Changeling
+2 Goldspan Dragon
+2 Magda, Brazen Outlaw
+2 Silumgar's Scorn
+2 Mothdust Changeling
+3 Goldspan Dragon
+3 Mothdust Changeling
+3 Bonecrusher Giant
+3 Magda, Brazen Outlaw
+3 Silumgar's Scorn
+3 Blood Moon
+4 Mothdust Changeling
+4 Magda, Brazen Outlaw
+4 Silumgar's Scorn
 6 Snow-Covered Island
 7 Snow-Covered Island
 8 Snow-Covered Island
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
-4 Sunbaked Canyon
 4 Snow-Covered Mountain
+4 Sunbaked Canyon
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
@@ -373,21 +359,17 @@
 13 Snow-Covered Mountain
 14 Snow-Covered Mountain
 15 Snow-Covered Mountain
-1 Goldspan Dragon
-1 Magda, Brazen Outlaw
-1 Glorybringer
-1 Silumgar's Scorn
-1 Mothdust Changeling
-2 Goldspan Dragon
-2 Magda, Brazen Outlaw
-2 Silumgar's Scorn
-2 Mothdust Changeling
-3 Goldspan Dragon
-3 Bonecrusher Giant
-3 Magda, Brazen Outlaw
-3 Mothdust Changeling
-3 Silumgar's Scorn
-3 Blood Moon
-4 Mothdust Changeling
-4 Magda, Brazen Outlaw
-4 Silumgar's Scorn
+1 Terminus
+1 Prairie Stream
+1 Entreat the Angels
+1 Counterbalance
+2 Terminus
+2 Counterbalance
+3 Counterbalance
+3 Jace, the Mind Sculptor
+3 Terminus
+4 Terminus
+4 Force of Negation
+4 Omen of the Sea
+4 Mystic Sanctuary
+4 Counterbalance

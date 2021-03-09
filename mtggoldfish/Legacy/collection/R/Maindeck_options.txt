@@ -1,13 +1,15 @@
+1 Hanweir Garrison
+2 Hanweir Garrison
 1 Blood Sun
 2 Blood Sun
 3 Blood Sun
 1 Bonecrusher Giant
 4 Blood Sun
-1 Punishing Fire
 1 Grove of the Burnwillows
-1 Reality Smasher
+1 Punishing Fire
 1 Thought-Knot Seer
 1 Eldrazi Temple
+1 Reality Smasher
 2 Punishing Fire
 2 Grove of the Burnwillows
 2 Reality Smasher
@@ -19,30 +21,22 @@
 3 Reality Smasher
 3 Thought-Knot Seer
 4 Grove of the Burnwillows
-4 Punishing Fire
 4 Thought-Knot Seer
 4 Reality Smasher
+4 Punishing Fire
 4 Trinisphere
-9 Mountain
 1 Eldrazi Obligator
-1 Hanweir Garrison
-2 Hanweir Garrison
+9 Mountain
 1 Fiery Confluence
 2 Fiery Confluence
-1 Birgi, God of Storytelling
 3 Hanweir Garrison
+1 Birgi, God of Storytelling
 2 Birgi, God of Storytelling
-1 Endbringer
-1 Hazoret the Fervent
-10 Mountain
-1 Red Elemental Blast
 1 Goblin Engineer
 1 Pyroblast
 1 Goblin Welder
 1 Painter's Servant
 1 Lion's Eye Diamond
-1 Ensnaring Bridge
-1 Great Furnace
 1 Grindstone
 1 Karn, the Great Creator
 1 Lotus Petal
@@ -56,10 +50,12 @@
 3 Goblin Welder
 3 Grindstone
 3 Painter's Servant
-2 Red Elemental Blast
-2 Lotus Petal
+1 Great Furnace
+1 Red Elemental Blast
+1 Ensnaring Bridge
 3 Karn, the Great Creator
 3 Pyroblast
+2 Lotus Petal
 3 Lotus Petal
 4 Pyroblast
 4 Lotus Petal
@@ -80,16 +76,40 @@
 4 Imperial Recruiter
 4 Painter's Servant
 1 Bloodstained Mire
+2 Red Elemental Blast
 2 Bloodstained Mire
 3 Bloodstained Mire
+1 Endbringer
+1 Hazoret the Fervent
 2 Bonecrusher Giant
 1 Akoum Warrior
 1 Chandra, Awakened Inferno
+10 Mountain
 1 Court of Ire
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
-1 Ichor Wellspring
 1 Mox Opal
+3 Snow-Covered Mountain
+1 Prismatic Vista
+1 Ponder
+1 Brainstorm
+1 Seat of the Synod
+1 Volcanic Island
+1 Emry, Lurker of the Loch
+1 Scalding Tarn
+1 Snow-Covered Island
+2 Prismatic Vista
+2 Brainstorm
+2 Ponder
+2 Snow-Covered Island
+2 Emry, Lurker of the Loch
+2 Scalding Tarn
+3 Brainstorm
+3 Scalding Tarn
+3 Snow-Covered Island
+4 Brainstorm
+4 Scalding Tarn
+1 Ichor Wellspring
 2 Mox Opal
 1 Arid Mesa
 1 Phyrexian Revoker
@@ -100,43 +120,34 @@
 2 Eldrazi Obligator
 2 Akoum Warrior
 4 Magus of the Moon
-1 Emberwilde Captain
-2 Court of Ire
-3 Snow-Covered Mountain
-4 Snow-Covered Mountain
-3 Red Elemental Blast
-4 Red Elemental Blast
-4 Eldrazi Temple
-1 Prismatic Vista
-1 Ponder
-1 Brainstorm
-1 Volcanic Island
+1 Mishra's Bauble
 1 Vendilion Clique
 1 Lightning Bolt
-1 Emry, Lurker of the Loch
 1 Urza's Bauble
-1 Scalding Tarn
 1 Jace, the Mind Sculptor
-1 Snow-Covered Island
 1 Bolas's Citadel
-1 Seat of the Synod
-1 Mishra's Bauble
-2 Prismatic Vista
-2 Brainstorm
-2 Ponder
-2 Lightning Bolt
 2 Seat of the Synod
-2 Snow-Covered Island
-2 Emry, Lurker of the Loch
-2 Scalding Tarn
-3 Brainstorm
+2 Lightning Bolt
 3 Ponder
 3 Emry, Lurker of the Loch
-3 Scalding Tarn
-3 Snow-Covered Island
-4 Brainstorm
 4 Ponder
-4 Scalding Tarn
+1 Emberwilde Captain
+2 Court of Ire
+4 Snow-Covered Mountain
+4 Eldrazi Temple
+1 Spell Pierce
+1 Force of Will
+1 Intuition
+1 Wurmcoil Engine
+2 Force of Will
+2 Intuition
+2 Lion's Eye Diamond
+3 Prismatic Vista
+3 Force of Will
+3 Intuition
+3 Lion's Eye Diamond
+4 Force of Will
+4 Intuition
 1 Nihil Spellbomb
 1 Chandra, Torch of Defiance
 1 Daretti, Ingenious Iconoclast

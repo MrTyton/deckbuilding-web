@@ -3,8 +3,8 @@
 1 Witch's Oven
 2 Witch's Oven
 2 Cauldron Familiar
-3 Witch's Oven
 3 Cauldron Familiar
+3 Witch's Oven
 1 Urborg, Tomb of Yawgmoth
 1 Agadeem's Awakening
 1 Fatal Push
@@ -15,24 +15,24 @@
 4 Thoughtseize
 1 Clearwater Pathway
 1 Cling to Dust
-1 Soaring Thought-Thief
-1 Thieves' Guild Enforcer
 1 Drown in the Loch
+1 Thieves' Guild Enforcer
+1 Soaring Thought-Thief
 1 Watery Grave
 2 Clearwater Pathway
-2 Thieves' Guild Enforcer
 2 Soaring Thought-Thief
+2 Thieves' Guild Enforcer
 2 Drown in the Loch
 2 Watery Grave
 3 Clearwater Pathway
-3 Soaring Thought-Thief
-3 Thieves' Guild Enforcer
 3 Drown in the Loch
+3 Thieves' Guild Enforcer
+3 Soaring Thought-Thief
 3 Watery Grave
 4 Clearwater Pathway
+4 Drown in the Loch
 4 Soaring Thought-Thief
 4 Thieves' Guild Enforcer
-4 Drown in the Loch
 4 Watery Grave
 2 Blood Crypt
 2 Stomping Ground
@@ -47,8 +47,8 @@
 4 Fatal Push
 1 Heartless Act
 1 Into the Story
-2 Into the Story
 2 Agadeem's Awakening
+2 Into the Story
 1 Island
 1 Glint-Sleeve Siphoner
 2 Glint-Sleeve Siphoner
@@ -79,13 +79,13 @@
 2 Mutavault
 1 Breeding Pool
 1 Botanical Sanctum
-1 Merfolk Windrobber
 1 Deathrite Shaman
+1 Merfolk Windrobber
+2 Deathrite Shaman
 2 Merfolk Windrobber
 2 Botanical Sanctum
-2 Deathrite Shaman
-3 Into the Story
 3 Deathrite Shaman
+3 Into the Story
 3 Botanical Sanctum
 4 Deathrite Shaman
 4 Botanical Sanctum
@@ -124,18 +124,18 @@
 4 Thraben Inspector
 1 Temple Garden
 2 Temple Garden
+1 Elite Guardmage
 1 Mana Confluence
 1 Charming Prince
+1 Hostage Taker
 1 Pyre of Heroes
 1 Acquisitions Expert
-1 Elite Guardmage
 1 Drannith Magistrate
 1 General Kudro of Drannith
 1 Reflector Mage
 1 Basri's Lieutenant
 1 Kaervek, the Spiteful
 1 Xathrid Necromancer
-1 Hostage Taker
 1 Archfiend's Vessel
 1 Unclaimed Territory
 1 Renegade Rallier
@@ -219,13 +219,13 @@
 2 Branchloft Pathway
 3 Branchloft Pathway
 3 Temple Garden
-4 Branchloft Pathway
 4 Temple Garden
+4 Branchloft Pathway
 4 Llanowar Elves
 1 Esika's Chariot
-1 Shefet Dunes
 1 Starnheim Unleashed
 1 Voice of Resurgence
+1 Shefet Dunes
 1 Gideon, Ally of Zendikar
 1 Declaration in Stone
 1 Call of the Conclave
@@ -260,8 +260,8 @@
 5 Forest
 1 Bassara Tower Archer
 1 Unflinching Courage
-1 Gladecover Scout
 1 Season of Growth
+1 Gladecover Scout
 1 Adanto Vanguard
 1 Helm of the Gods
 1 Cartouche of Solidarity
@@ -292,9 +292,9 @@
 3 Sentinel's Eyes
 3 Bassara Tower Archer
 4 Unflinching Courage
+4 Adanto Vanguard
 4 Sunpetal Grove
 4 Gladecover Scout
-4 Adanto Vanguard
 4 Sentinel's Eyes
 4 Cartouche of Solidarity
 4 Bassara Tower Archer

@@ -41,6 +41,7 @@
 2 Lovestruck Beast
 1 Rugged Highlands
 1 Bala Ged Recovery
+1 Radha, Heart of Keld
 1 Wolfwillow Haven
 1 Jungle Hollow
 1 Thorn Mammoth
@@ -54,7 +55,6 @@
 1 Tangled Florahedron
 1 Castle Garenbrig
 1 Ram Through
-1 Radha, Heart of Keld
 1 Chainweb Aracnir
 1 Kogla, the Titan Ape
 1 The Great Henge
@@ -62,8 +62,8 @@
 1 Ironscale Hydra
 2 Rugged Highlands
 2 Terror of the Peaks
-2 Ilysian Caryatid
 2 Wolfwillow Haven
+2 Ilysian Caryatid
 2 Cultivate
 2 Rampart Smasher
 2 Thorn Mammoth
@@ -71,8 +71,8 @@
 2 Kogla, the Titan Ape
 2 Castle Garenbrig
 3 Rugged Highlands
-3 Ilysian Caryatid
 3 Wolfwillow Haven
+3 Ilysian Caryatid
 4 Rugged Highlands
 4 Forest
 4 Ilysian Caryatid
@@ -87,18 +87,14 @@
 12 Forest
 1 Elspeth's Nightmare
 3 Bloodchief's Thirst
-1 Egon, God of Death
-2 Egon, God of Death
-3 Egon, God of Death
-4 The Akroan War
 1 Dream Devourer
 1 Eliminate
 1 Vorinclex, Monstrous Raider
 1 Llanowar Visionary
 1 Questing Beast
 1 Scavenging Ooze
-2 Dream Devourer
 2 Vorinclex, Monstrous Raider
+2 Dream Devourer
 2 Llanowar Visionary
 2 Ugin, the Spirit Dragon
 2 Scavenging Ooze
@@ -107,6 +103,10 @@
 3 Vorinclex, Monstrous Raider
 4 Binding the Old Gods
 4 Goldspan Dragon
+1 Egon, God of Death
+2 Egon, God of Death
+3 Egon, God of Death
+4 The Akroan War
 1 Edgewall Innkeeper
 1 Foulmire Knight
 1 Toski, Bearer of Secrets
@@ -127,8 +127,8 @@
 4 Lovestruck Beast
 1 Zagoth Triome
 4 Kroxa, Titan of Death's Hunger
-3 Savai Triome
 3 Rankle, Master of Pranks
+3 Savai Triome
 4 Savai Triome
 5 Swamp
 6 Swamp

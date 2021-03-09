@@ -27,7 +27,6 @@
 1 Lumbering Falls
 1 Brazen Borrower
 1 Sylvan Caryatid
-2 Snow-Covered Swamp
 2 Snow-Covered Island
 2 Snow-Covered Forest
 2 Hydroid Krasis
@@ -35,17 +34,18 @@
 2 Kalitas, Traitor of Ghet
 2 Murderous Rider
 2 Sylvan Caryatid
+2 Snow-Covered Swamp
 3 Overgrown Tomb
 3 Lumbering Falls
-4 Nissa, Who Shakes the World
 4 Clearwater Pathway
+4 Nissa, Who Shakes the World
 4 Overgrown Tomb
 4 Thing in the Ice
 2 Castle Locthwain
 4 Drowned Catacomb
 1 Uro, Titan of Nature's Wrath
-1 Abrupt Decay
 1 Forest
+1 Abrupt Decay
 2 Uro, Titan of Nature's Wrath
 2 Forest
 3 Uro, Titan of Nature's Wrath
@@ -66,35 +66,35 @@
 1 Woodland Cemetery
 1 Castle Vantress
 3 Censor
-3 Swamp
-1 Search for Azcanta
 1 Languish
 2 Hinterland Harbor
 1 Chemister's Insight
 2 Castle Vantress
 2 Chemister's Insight
 2 Woodland Cemetery
+1 Search for Azcanta
+3 Swamp
 4 Narset, Parter of Veils
-1 Mutavault
-2 Mutavault
+1 Torrential Gearhulk
+1 Hieroglyphic Illumination
 1 Rewind
 1 Field of Ruin
-1 Hieroglyphic Illumination
-1 Torrential Gearhulk
+1 Mutavault
 1 Hero's Downfall
 1 Vraska's Contempt
 2 Vraska's Contempt
+2 Mutavault
+2 Torrential Gearhulk
 2 Rewind
 2 Hieroglyphic Illumination
-2 Torrential Gearhulk
-3 Fetid Pools
 3 Hieroglyphic Illumination
+3 Fetid Pools
 4 Dig Through Time
-4 Sinister Sabotage
 4 Watery Grave
+4 Sinister Sabotage
+1 Liliana, the Last Hope
 1 Satyr Wayfinder
 1 Discovery/Dispersal
-1 Liliana, the Last Hope
 1 Emrakul, the Promised End
 1 Soul-Guide Lantern
 1 Traverse the Ulvenwald
@@ -109,50 +109,3 @@
 4 Traverse the Ulvenwald
 4 Satyr Wayfinder
 4 Blooming Marsh
-1 Brightclimb Pathway
-1 Firja's Retribution
-1 Shambling Vent
-1 Skyclave Apparition
-1 Selfless Spirit
-1 Godless Shrine
-1 Righteous Valkyrie
-1 Resplendent Angel
-1 Bishop of Wings
-1 Isolated Chapel
-1 Luminarch Aspirant
-1 Archangel Avacyn
-1 Lyra Dawnbringer
-1 Plains
-2 Brightclimb Pathway
-2 Skyclave Apparition
-2 Firja's Retribution
-2 Shambling Vent
-2 Righteous Valkyrie
-2 Resplendent Angel
-2 Plains
-2 Isolated Chapel
-2 Selfless Spirit
-2 Luminarch Aspirant
-2 Bishop of Wings
-2 Godless Shrine
-2 Lyra Dawnbringer
-3 Isolated Chapel
-3 Brightclimb Pathway
-3 Firja's Retribution
-3 Righteous Valkyrie
-3 Skyclave Apparition
-3 Luminarch Aspirant
-3 Godless Shrine
-3 Selfless Spirit
-3 Plains
-3 Bishop of Wings
-4 Plains
-4 Brightclimb Pathway
-4 Firja's Retribution
-4 Righteous Valkyrie
-4 Luminarch Aspirant
-4 Skyclave Apparition
-4 Isolated Chapel
-4 Godless Shrine
-5 Plains
-6 Plains

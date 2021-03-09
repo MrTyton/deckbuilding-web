@@ -55,10 +55,10 @@
 1 Sculptor of Winter
 2 Sculptor of Winter
 3 Sculptor of Winter
-1 Sarulf's Packmate
 1 Feed the Serpent
-2 Sarulf's Packmate
+1 Sarulf's Packmate
 2 Feed the Serpent
+2 Sarulf's Packmate
 1 Jungle Hollow
 2 Jungle Hollow
 5 Forest
@@ -104,28 +104,28 @@
 4 Indatha Triome
 4 Toski, Bearer of Secrets
 4 Fabled Passage
-1 The Binding of the Titans
 1 Call of the Death-Dweller
+1 The Binding of the Titans
+1 Hooded Blightfang
 1 Egon, God of Death
 1 Fynn, the Fangbearer
-1 Hooded Blightfang
 1 Moss Viper
-2 The Binding of the Titans
 2 Castle Locthwain
 2 Call of the Death-Dweller
+2 The Binding of the Titans
+2 Hooded Blightfang
 2 Egon, God of Death
 2 Moss Viper
-2 Hooded Blightfang
 2 Fynn, the Fangbearer
-3 The Binding of the Titans
 3 Jungle Hollow
+3 The Binding of the Titans
+3 Hooded Blightfang
 3 Fynn, the Fangbearer
 3 Moss Viper
-3 Hooded Blightfang
-4 The Binding of the Titans
-4 Jungle Hollow
 4 Fynn, the Fangbearer
+4 The Binding of the Titans
 4 Moss Viper
+4 Jungle Hollow
 4 Hooded Blightfang
 1 Valki, God of Lies
 1 Scavenging Ooze
@@ -137,10 +137,10 @@
 2 Valki, God of Lies
 2 Blightstep Pathway
 2 Scavenging Ooze
+2 Vivien, Monsters' Advocate
 2 Order of Midnight
 2 Cragcrown Pathway
 2 Agadeem's Awakening
-2 Vivien, Monsters' Advocate
 3 Heartless Act
 3 Valki, God of Lies
 3 Blightstep Pathway
@@ -154,25 +154,25 @@
 1 Primal Might
 2 Jolrael, Mwonvuli Recluse
 2 Primal Might
-2 Chevill, Bane of Monsters
 2 Rankle, Master of Pranks
+2 Chevill, Bane of Monsters
 3 Jolrael, Mwonvuli Recluse
 7 Swamp
-1 Wolfwillow Haven
 1 Realmwalker
-1 Skemfar Avenger
 1 Grasp of Darkness
+1 Skemfar Avenger
+1 Wolfwillow Haven
 1 Return Upon the Tide
 1 Harald Unites the Elves
 1 Boreal Outrider
 1 Thornmantle Striker
 1 Joraga Visionary
-2 Wolfwillow Haven
 2 Grasp of Darkness
 2 Boreal Outrider
+2 Wolfwillow Haven
 2 Joraga Visionary
-3 Wolfwillow Haven
 3 Harald, King of Skemfar
+3 Wolfwillow Haven
 3 Grasp of Darkness
 3 Boreal Outrider
 4 Sculptor of Winter
@@ -185,8 +185,8 @@
 10 Snow-Covered Swamp
 1 Fiend Artisan
 1 Garruk's Uprising
-1 Oakhame Adversary
 1 Battle Mammoth
+1 Oakhame Adversary
 1 Wildwood Patrol
 1 Tajuru Blightblade
 1 Keeper of Fables
@@ -196,10 +196,10 @@
 2 Ram Through
 2 Tajuru Blightblade
 2 Greater Sandwurm
-3 Sarulf's Packmate
 3 Oakhame Adversary
 3 Keeper of Fables
 3 Tajuru Blightblade
+3 Sarulf's Packmate
 4 Tajuru Blightblade
 4 Keeper of Fables
 7 Forest

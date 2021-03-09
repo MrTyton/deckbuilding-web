@@ -28,6 +28,6 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                   Sideboard Card                                   |
 |--------------------:|------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------|
-|                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)   |                    2|[Dive Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435205)|
-|                    2|[Cloudfin Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460767)|                     |                                                                                    |
+|                    2|[Cloudfin Raptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460767)|                    2|[Dive Down](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435205)|
+|                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)   |                     |                                                                                    |
 
