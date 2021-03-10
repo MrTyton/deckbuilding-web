@@ -23,15 +23,14 @@
 2 Ardent Plea
 2 Glassdust Hulk
 3 Ardent Plea
-3 Misty Rainforest
 3 Flooded Strand
+3 Misty Rainforest
 3 Glassdust Hulk
 4 Ardent Plea
 4 Misty Rainforest
 4 Flooded Strand
 4 Glassdust Hulk
 2 Cryptic Command
-1 Imposing Vantasaur
 1 Swamp
 1 Archmage's Charm
 1 Polluted Delta
@@ -40,8 +39,8 @@
 1 Fatal Push
 1 Inquisition of Kozilek
 1 Mishra's Bauble
-2 Archmage's Charm
 2 Watery Grave
+2 Archmage's Charm
 2 Polluted Delta
 2 Fatal Push
 2 Mishra's Bauble
@@ -52,11 +51,11 @@
 4 Polluted Delta
 1 Blood Crypt
 2 Swamp
-1 Logic Knot
 1 Valki, God of Lies
-1 Drown in the Loch
-1 Dreadbore
 1 Creeping Tar Pit
+1 Drown in the Loch
+1 Logic Knot
+1 Dreadbore
 1 Serum Visions
 1 Cascade Bluffs
 1 Lightning Bolt
@@ -72,16 +71,17 @@
 2 Serum Visions
 2 Lightning Bolt
 3 Archmage's Charm
-3 Kolaghan's Command
 3 Lightning Bolt
+3 Kolaghan's Command
 3 Snapcaster Mage
 3 Serum Visions
 3 Cryptic Command
-4 Snapcaster Mage
 4 Cryptic Command
-2 Brazen Borrower
+4 Snapcaster Mage
 3 Fatal Push
 3 Inquisition of Kozilek
+1 Imposing Vantasaur
+2 Brazen Borrower
 3 Waker of Waves
 1 Clearwater Pathway
 1 Sunken Ruins
@@ -90,8 +90,10 @@
 4 Serum Visions
 1 Vendilion Clique
 1 Sacred Foundry
-1 Finale of Promise
-4 Spirebluff Canal
+1 Copperline Gorge
+1 Blackcleave Cliffs
+1 Blooming Marsh
+1 Wooded Foothills
 1 Beast Within
 1 Fulminator Mage
 1 Faerie Macabre
@@ -103,25 +105,21 @@
 1 Architects of Will
 1 Simian Spirit Guide
 1 Bloodstained Mire
-1 Blooming Marsh
-1 Wooded Foothills
-1 Blackcleave Cliffs
-1 Copperline Gorge
 1 Forest
 2 Blood Crypt
-2 Beast Within
-2 Fulminator Mage
-2 Faerie Macabre
 2 Copperline Gorge
-2 Bloodstained Mire
-2 Blooming Marsh
-2 Deadshot Minotaur
+2 Blackcleave Cliffs
 2 Wooded Foothills
+2 Blooming Marsh
+2 Beast Within
+2 Faerie Macabre
+2 Bloodstained Mire
+2 Deadshot Minotaur
 2 Monstrous Carabid
 2 Architects of Will
-2 Blackcleave Cliffs
 2 Demonic Dread
 2 Horror of the Broken Lands
+2 Fulminator Mage
 2 Simian Spirit Guide
 3 Bloodstained Mire
 3 Wooded Foothills
@@ -138,13 +136,13 @@
 1 Unearth
 1 Behold the Multiverse
 1 Thoughtseize
-1 Pack Rat
 1 Mana Leak
+1 Pack Rat
 1 River of Tears
 1 Cling to Dust
 2 Cling to Dust
-2 Deprive
 2 Mystic Sanctuary
+2 Deprive
 2 Behold the Multiverse
 2 Thoughtseize
 2 Mana Leak
@@ -158,3 +156,5 @@
 4 Thoughtseize
 4 Jace, Vryn's Prodigy
 4 Mishra's Bauble
+1 Finale of Promise
+4 Spirebluff Canal

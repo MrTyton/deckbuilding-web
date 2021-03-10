@@ -1,26 +1,25 @@
-2 Wilt
-1 Wurmcoil Engine
-2 Spatial Contortion
-3 Nature's Claim
-1 Thragtusk
-1 Crucible of Worlds
 1 Tormod's Crypt
 1 Oblivion Stone
+1 Crucible of Worlds
+2 Spatial Contortion
+1 Sorcerous Spyglass
+1 Dismember
 1 Witchbane Orb
+1 Weather the Storm
+2 Weather the Storm
 1 Relic of Progenitus
+3 Nature's Claim
 1 Kozilek, Butcher of Truth
 1 Torpor Orb
 1 Jegantha, the Wellspring
+1 Thragtusk
 1 Warping Wail
 2 Warping Wail
+3 Veil of Summer
 1 Thought-Knot Seer
 2 Thought-Knot Seer
-3 Veil of Summer
-1 Weather the Storm
-2 Weather the Storm
 1 All Is Dust
 2 Dismember
-1 Mistcutter Hydra
 1 Emrakul, the Promised End
 1 Skysovereign, Consul Flagship
 2 Thragtusk
@@ -28,6 +27,7 @@
 1 World Breaker
 1 Platinum Angel
 1 Ghost Quarter
+1 Chalice of the Void
 1 Spreading Seas
 2 Spreading Seas
 2 Relic of Progenitus
@@ -35,6 +35,7 @@
 3 Spatial Contortion
 1 Elixir of Immortality
 1 Life from the Loam
+1 Mistcutter Hydra
 1 Barrier Breach
 2 Grafdigger's Cage
 1 Wastes
@@ -46,11 +47,6 @@
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 3 Leyline of Sanctity
-1 Chalice of the Void
-1 Oblivion Sower
-1 Aether Gust
-2 Aether Gust
-3 Aether Gust
 1 Tale's End
 1 Engineered Explosives
 2 Tale's End
@@ -62,7 +58,11 @@
 2 Tormod's Crypt
 3 Spreading Seas
 3 Tormod's Crypt
+3 Negate
 4 Negate
 4 Spreading Seas
 4 Spatial Contortion
-3 Negate
+1 Oblivion Sower
+1 Aether Gust
+3 Aether Gust
+2 Aether Gust

@@ -1,26 +1,27 @@
+4 Blinkmoth Nexus
 1 Vines of Vastwood
-1 Metallic Mimic
 2 Metallic Mimic
 9 Forest
 1 Darksteel Citadel
 2 Darksteel Citadel
+3 Animation Module
+3 Scrapyard Recombiner
 1 Llanowar Wastes
 2 Llanowar Wastes
 3 Llanowar Wastes
 4 Llanowar Wastes
-3 Animation Module
 1 Nurturing Peatland
 1 Blooming Marsh
 2 Blooming Marsh
 3 Blooming Marsh
 4 Blooming Marsh
-3 Scrapyard Recombiner
 4 Ancient Stirrings
-1 Lightning Bolt
 1 Brushland
 2 Brushland
 3 Brushland
 4 Brushland
+1 Razorverge Thicket
+1 Lightning Bolt
 1 Grove of the Burnwillows
 1 Cragcrown Pathway
 2 Grove of the Burnwillows
@@ -29,7 +30,6 @@
 4 Grove of the Burnwillows
 2 Lightning Bolt
 1 Temple Garden
-1 Razorverge Thicket
 1 Horizon Canopy
 2 Temple Garden
 2 Razorverge Thicket
@@ -38,8 +38,10 @@
 3 Welding Jar
 1 Urborg, Tomb of Yawgmoth
 2 Nurturing Peatland
+1 Cavern of Souls
 3 Cragcrown Pathway
 4 Cragcrown Pathway
+1 Branchloft Pathway
 1 Kazuul's Fury
 3 Lightning Bolt
 1 Overgrown Tomb
@@ -49,8 +51,6 @@
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 10 Forest
-1 Cavern of Souls
-1 Branchloft Pathway
 1 Springleaf Drum
 2 Springleaf Drum
 1 Snakeskin Veil
@@ -60,23 +60,24 @@
 1 Kessig Wolf Run
 1 Inscription of Abundance
 11 Forest
+2 Cavern of Souls
 2 Snakeskin Veil
+1 Plains
+2 Branchloft Pathway
+3 Branchloft Pathway
 1 Mountain
+1 Sorcerous Spyglass
 2 Inscription of Abundance
 3 Snow-Covered Forest
-3 Phyrexia's Core
 1 Luminarch Aspirant
-1 Spire of Industry
 1 Showdown of the Skalds
-1 Plains
+1 Spire of Industry
 2 Luminarch Aspirant
-2 Branchloft Pathway
-2 Spire of Industry
 2 Showdown of the Skalds
-3 Branchloft Pathway
-3 Spire of Industry
+2 Spire of Industry
 3 Showdown of the Skalds
-2 Cavern of Souls
+3 Spire of Industry
+3 Phyrexia's Core
 3 Snakeskin Veil
 4 Snakeskin Veil
 1 Darkbore Pathway
@@ -84,33 +85,37 @@
 3 Darkbore Pathway
 4 Darkbore Pathway
 1 Botanical Sanctum
-1 Island
-1 Emry, Lurker of the Loch
 1 Barkchannel Pathway
+1 Emry, Lurker of the Loch
+1 Island
 1 Spellskite
-1 Sorcerous Spyglass
 1 Yavimaya Coast
-2 Island
+2 Barkchannel Pathway
 2 Botanical Sanctum
 2 Emry, Lurker of the Loch
-2 Barkchannel Pathway
+2 Island
 2 Spellskite
-3 Emry, Lurker of the Loch
 3 Barkchannel Pathway
+3 Emry, Lurker of the Loch
 3 Springleaf Drum
 4 Barkchannel Pathway
 4 Emry, Lurker of the Loch
 2 Vines of Vastwood
 3 Darksteel Citadel
 4 Darksteel Citadel
+1 Path to Exile
+2 Path to Exile
+2 Plains
+3 Path to Exile
+4 Branchloft Pathway
 1 Stonecoil Serpent
 1 Copperline Gorge
 1 Galvanic Blast
 1 Wooded Foothills
 1 Stomping Ground
+2 Wooded Foothills
 2 Stonecoil Serpent
 2 Copperline Gorge
-2 Wooded Foothills
 3 Stonecoil Serpent
 3 Copperline Gorge
 4 Stonecoil Serpent

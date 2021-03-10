@@ -1,24 +1,24 @@
-2 Chrome Mox
-2 Polluted Delta
 1 Preordain
 1 Force of Negation
-1 Staggering Insight
 1 Ethereal Armor
 1 Invisible Stalker
 1 Snow-Covered Plains
-1 Kor Spiritdancer
+1 Staggering Insight
 1 Curious Obsession
+1 Kor Spiritdancer
+1 Chrome Mox
 1 Curiosity
 2 Snow-Covered Island
 2 Brazen Borrower
+2 Chrome Mox
 2 Preordain
-2 Staggering Insight
-2 Force of Negation
 2 Curious Obsession
+2 Staggering Insight
 2 Invisible Stalker
 2 Kor Spiritdancer
 2 Curiosity
 2 Ethereal Armor
+2 Force of Negation
 3 Snow-Covered Island
 3 Tundra
 3 Invisible Stalker
@@ -53,11 +53,11 @@
 1 Mutavault
 2 Spirit of the Labyrinth
 2 Mutavault
-2 Seachrome Coast
 2 Selfless Spirit
+2 Seachrome Coast
 3 Spirit of the Labyrinth
-3 Seachrome Coast
 3 Drogskol Captain
+3 Seachrome Coast
 4 Skyclave Apparition
 4 Spirit of the Labyrinth
 4 Drogskol Captain
@@ -73,8 +73,8 @@
 1 Volcanic Island
 1 Young Pyromancer
 1 Oko, Thief of Crowns
-1 Tropical Island
 1 Misty Rainforest
+1 Tropical Island
 1 Taiga
 1 Ponder
 1 Narset, Parter of Veils
@@ -86,8 +86,8 @@
 2 Misty Rainforest
 2 Tropical Island
 2 Narset, Parter of Veils
-2 Young Pyromancer
 2 Noble Hierarch
+2 Young Pyromancer
 2 Ponder
 2 Krark, the Thumbless
 3 Of One Mind
@@ -106,6 +106,60 @@
 4 Noble Hierarch
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
+1 Magmatic Channeler
+1 Solemn Simulacrum
+1 Seasoned Pyromancer
+1 Winter Orb
+1 Magus of the Moon
+1 Sundering Titan
+1 Spellskite
+1 Ensnaring Bridge
+1 Great Furnace
+1 Goblin Cratermaker
+1 Phyrexian Revoker
+1 Lodestone Golem
+1 Hex Parasite
+1 Goblin Welder
+1 Ichor Wellspring
+1 Goblin Engineer
+1 Ancient Tomb
+1 Tangle Wire
+1 Dire Fleet Daredevil
+1 City of Traitors
+1 Imperial Recruiter
+2 Magmatic Channeler
+2 Seasoned Pyromancer
+2 Phyrexian Revoker
+2 Goblin Welder
+2 Tangle Wire
+2 Lodestone Golem
+2 Ancient Tomb
+2 Great Furnace
+2 Goblin Engineer
+2 City of Traitors
+2 Imperial Recruiter
+3 Magmatic Channeler
+3 Snow-Covered Mountain
+3 Lodestone Golem
+3 Ancient Tomb
+3 City of Traitors
+3 Tangle Wire
+3 Goblin Welder
+3 Imperial Recruiter
+3 Goblin Engineer
+4 Snow-Covered Mountain
+4 Magmatic Channeler
+4 Imperial Recruiter
+4 City of Traitors
+4 Goblin Engineer
+4 Ancient Tomb
+4 Tangle Wire
+4 Goblin Welder
+5 Snow-Covered Mountain
+6 Snow-Covered Mountain
+7 Snow-Covered Mountain
+8 Snow-Covered Mountain
+9 Snow-Covered Mountain
 1 Arid Mesa
 1 Snow-Covered Swamp
 1 Blood Crypt
@@ -115,10 +169,10 @@
 1 Thunderkin Awakener
 1 Unearth
 1 Bloodstained Mire
-1 Sunbaked Canyon
 1 Spark Trooper
-1 Blackcleave Cliffs
 1 Faithless Looting
+1 Blackcleave Cliffs
+1 Sunbaked Canyon
 1 Ball Lightning
 1 Thoughtseize
 2 Unearth
@@ -134,9 +188,9 @@
 2 Fatal Push
 2 Lightning Skelemental
 3 Thoughtseize
-3 Ball Lightning
 3 Cavern of Souls
 3 Thunderkin Awakener
+3 Ball Lightning
 3 Faithless Looting
 3 Unearth
 3 Blood Crypt
@@ -153,105 +207,3 @@
 4 Thoughtseize
 4 Ball Lightning
 4 Cavern of Souls
-1 Ancient Tomb
-1 City of Traitors
-2 Ancient Tomb
-2 City of Traitors
-3 Ancient Tomb
-3 City of Traitors
-4 City of Traitors
-4 Ancient Tomb
-1 Opposition Agent
-1 Leyline of the Void
-1 Sorcerous Spyglass
-1 Helm of Obedience
-1 Eliminate
-1 Pack Rat
-1 Urborg, Tomb of Yawgmoth
-1 Swamp
-1 Trinisphere
-1 Archfiend of Ifnir
-1 Karn, the Great Creator
-1 Liliana of the Veil
-1 Chalice of the Void
-1 Plague Engineer
-2 Eliminate
-2 Opposition Agent
-2 Leyline of the Void
-2 Pack Rat
-2 Swamp
-2 Karn, the Great Creator
-2 Trinisphere
-2 Chalice of the Void
-2 Plague Engineer
-2 Archfiend of Ifnir
-2 Liliana of the Veil
-3 Swamp
-3 Eliminate
-3 Chrome Mox
-3 Leyline of the Void
-3 Plague Engineer
-3 Chalice of the Void
-3 Karn, the Great Creator
-3 Pack Rat
-3 Opposition Agent
-4 Eliminate
-4 Plague Engineer
-4 Karn, the Great Creator
-4 Leyline of the Void
-4 Swamp
-4 Chalice of the Void
-4 Opposition Agent
-4 Chrome Mox
-4 Pack Rat
-5 Swamp
-6 Swamp
-7 Swamp
-8 Swamp
-9 Swamp
-1 Solemn Simulacrum
-1 Seasoned Pyromancer
-1 Magmatic Channeler
-1 Winter Orb
-1 Magus of the Moon
-1 Sundering Titan
-1 Spellskite
-1 Ensnaring Bridge
-1 Great Furnace
-1 Goblin Cratermaker
-1 Phyrexian Revoker
-1 Goblin Welder
-1 Dire Fleet Daredevil
-1 Ichor Wellspring
-1 Goblin Engineer
-1 Tangle Wire
-1 Imperial Recruiter
-1 Hex Parasite
-1 Lodestone Golem
-2 Seasoned Pyromancer
-2 Magmatic Channeler
-2 Goblin Engineer
-2 Goblin Welder
-2 Tangle Wire
-2 Lodestone Golem
-2 Phyrexian Revoker
-2 Great Furnace
-2 Imperial Recruiter
-3 Snow-Covered Mountain
-3 Magmatic Channeler
-3 Lodestone Golem
-3 Goblin Welder
-3 Tangle Wire
-3 Imperial Recruiter
-3 Goblin Engineer
-4 Snow-Covered Mountain
-4 Imperial Recruiter
-4 Goblin Engineer
-4 Magmatic Channeler
-4 Tangle Wire
-4 Goblin Welder
-5 Snow-Covered Mountain
-6 Snow-Covered Mountain
-7 Snow-Covered Mountain
-8 Snow-Covered Mountain
-9 Snow-Covered Mountain

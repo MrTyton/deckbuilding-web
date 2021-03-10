@@ -55,20 +55,20 @@
 1 Temple of Deceit
 2 Temple of Deceit
 3 Shark Typhoon
-1 Snow-Covered Island
 1 Snow-Covered Swamp
-2 Snow-Covered Island
+1 Snow-Covered Island
 2 Snow-Covered Swamp
+2 Snow-Covered Island
 3 Snow-Covered Swamp
-1 Hagra Mauling
 1 Bloodchief's Thirst
+1 Hagra Mauling
 2 Bloodchief's Thirst
 4 Island
 5 Swamp
 6 Swamp
 1 Ugin, the Spirit Dragon
-1 Saw It Coming
 1 Field of Ruin
+1 Saw It Coming
 2 Field of Ruin
 2 Saw It Coming
 1 Blightstep Pathway
@@ -86,8 +86,8 @@
 3 Valki, God of Lies
 1 Castle Vantress
 1 Ashiok, Nightmare Muse
-2 Ugin, the Spirit Dragon
 2 Erebos's Intervention
+2 Ugin, the Spirit Dragon
 3 Saw It Coming
 4 Saw It Coming
 5 Island
@@ -102,41 +102,28 @@
 3 Crawling Barrens
 4 Shark Typhoon
 4 Extinction Event
-1 Castle Locthwain
-1 Burning-Rune Demon
-1 Wilt
 1 Silundi Vision
+1 Wilt
+1 Burning-Rune Demon
+1 Castle Locthwain
+1 Koma, Cosmos Serpent
+1 Mountain
+1 Polukranos, Unchained
+2 Koma, Cosmos Serpent
 1 Indatha Triome
 2 Indatha Triome
-1 Polukranos, Unchained
-1 Mountain
-1 Koma, Cosmos Serpent
-2 Koma, Cosmos Serpent
 2 Elder Gargaroth
+1 Liliana, Waker of the Dead
 1 Blood on the Snow
 1 Tergrid's Shadow
-1 Liliana, Waker of the Dead
 2 Tergrid's Shadow
 3 Temple of Mystery
 3 Mystical Dispute
 4 Ketria Triome
-1 Graven Lore
-2 Graven Lore
-3 Graven Lore
-3 Temple of Deceit
-4 Snow-Covered Island
-4 Graven Lore
-4 Disdainful Stroke
-4 Temple of Deceit
-5 Snow-Covered Island
-5 Snow-Covered Swamp
-6 Snow-Covered Island
-6 Snow-Covered Swamp
-7 Snow-Covered Island
 1 Essence Scatter
 1 Drown in the Loch
-2 Essence Scatter
 2 Ashiok, Nightmare Muse
+2 Essence Scatter
 3 Field of Ruin
 3 Ashiok, Nightmare Muse
 4 Field of Ruin
@@ -154,3 +141,16 @@
 6 Forest
 7 Forest
 8 Forest
+1 Graven Lore
+2 Graven Lore
+3 Graven Lore
+3 Temple of Deceit
+4 Graven Lore
+4 Disdainful Stroke
+4 Snow-Covered Island
+4 Temple of Deceit
+5 Snow-Covered Swamp
+5 Snow-Covered Island
+6 Snow-Covered Island
+7 Snow-Covered Island
+6 Snow-Covered Swamp

@@ -7,13 +7,13 @@
 1 Snow-Covered Island
 1 Ice Tunnel
 1 Rimewood Falls
-1 Garruk, Cursed Huntsman
 1 Narfi, Betrayer King
+1 Garruk, Cursed Huntsman
 1 Acolyte of Affliction
-2 Rimewood Falls
 2 Snow-Covered Island
-2 Ice Tunnel
+2 Rimewood Falls
 2 Narfi, Betrayer King
+2 Ice Tunnel
 2 Acolyte of Affliction
 1 Mire Triton
 2 Mire Triton
@@ -28,18 +28,18 @@
 2 Kazandu Mammoth
 3 Kazandu Mammoth
 1 Blood on the Snow
-1 Priest of the Haunted Edge
 1 Dead Weight
 1 Cling to Dust
+1 Priest of the Haunted Edge
 1 Excavation Mole
 2 Dead Weight
 2 Priest of the Haunted Edge
 2 Excavation Mole
 3 Ice Tunnel
-3 Excavation Mole
-3 Rimewood Falls
-3 Acolyte of Affliction
 3 Narfi, Betrayer King
+3 Rimewood Falls
+3 Excavation Mole
+3 Acolyte of Affliction
 4 Excavation Mole
 1 Elspeth's Nightmare
 4 Binding the Old Gods
@@ -77,8 +77,8 @@
 10 Forest
 1 Jungle Hollow
 2 Jungle Hollow
-1 Feed the Serpent
 1 Sarulf's Packmate
+1 Feed the Serpent
 2 Sarulf's Packmate
 2 Feed the Serpent
 1 Harald, King of Skemfar
@@ -90,9 +90,15 @@
 1 Brokkos, Apex of Forever
 2 Cling to Dust
 4 Ice Tunnel
+1 Indatha Triome
+2 Indatha Triome
+3 Indatha Triome
+4 Fabled Passage
+4 Indatha Triome
+4 Toski, Bearer of Secrets
 1 Sarulf, Realm Eater
-1 Ashiok, Nightmare Muse
 1 Behold the Multiverse
+1 Ashiok, Nightmare Muse
 1 Frantic Inventory
 1 Poison the Cup
 1 Feed the Swarm
@@ -113,12 +119,12 @@
 3 Frantic Inventory
 3 Chainweb Aracnir
 4 Frantic Inventory
-1 Bonders' Enclave
 1 Ashaya, Soul of the Wild
+1 Bonders' Enclave
 1 Castle Garenbrig
+1 Garruk, Unleashed
 1 Snakeskin Veil
 1 Stonecoil Serpent
-1 Garruk, Unleashed
 1 Swarm Shambler
 1 Tangled Florahedron
 1 Skyclave Shade
@@ -141,12 +147,6 @@
 2 Faceless Haven
 3 Faceless Haven
 4 Faceless Haven
-1 Indatha Triome
-2 Indatha Triome
-3 Indatha Triome
-4 Indatha Triome
-4 Toski, Bearer of Secrets
-4 Fabled Passage
 1 Thassa, Deep-Dwelling
 4 Acolyte of Affliction
 1 Valki, God of Lies
@@ -157,37 +157,37 @@
 1 Zagoth Triome
 2 Valki, God of Lies
 2 Blightstep Pathway
-2 Vivien, Monsters' Advocate
 2 Order of Midnight
 2 Cragcrown Pathway
 2 Agadeem's Awakening
+2 Vivien, Monsters' Advocate
 3 Valki, God of Lies
 3 Blightstep Pathway
 3 Cragcrown Pathway
-4 Blightstep Pathway
 4 Heartless Act
+4 Blightstep Pathway
 4 Cragcrown Pathway
-1 Hooded Blightfang
+1 The Binding of the Titans
 1 Call of the Death-Dweller
 1 Egon, God of Death
 1 Fynn, the Fangbearer
 1 Moss Viper
-1 The Binding of the Titans
-2 Hooded Blightfang
+1 Hooded Blightfang
+2 The Binding of the Titans
 2 Call of the Death-Dweller
 2 Egon, God of Death
 2 Moss Viper
+2 Hooded Blightfang
 2 Fynn, the Fangbearer
-2 The Binding of the Titans
-3 Hooded Blightfang
-3 Fynn, the Fangbearer
-3 Jungle Hollow
 3 The Binding of the Titans
+3 Jungle Hollow
+3 Fynn, the Fangbearer
 3 Moss Viper
-4 Fynn, the Fangbearer
+3 Hooded Blightfang
 4 The Binding of the Titans
-4 Moss Viper
 4 Jungle Hollow
+4 Fynn, the Fangbearer
+4 Moss Viper
 4 Hooded Blightfang
 1 Jolrael, Mwonvuli Recluse
 1 Chevill, Bane of Monsters
@@ -223,23 +223,23 @@
 1 Garruk's Uprising
 1 Battle Mammoth
 1 Oakhame Adversary
+1 Fiend Artisan
 1 Wildwood Patrol
 1 Tajuru Blightblade
 1 Keeper of Fables
-1 Fiend Artisan
 1 Gnottvold Recluse
+2 Ram Through
 2 Oakhame Adversary
 2 Keeper of Fables
 2 Tajuru Blightblade
-2 Ram Through
 2 Greater Sandwurm
+3 Sarulf's Packmate
 3 Oakhame Adversary
 3 Keeper of Fables
 3 Tajuru Blightblade
-3 Sarulf's Packmate
 4 Tajuru Blightblade
-4 Keeper of Fables
+11 Forest
 12 Forest
 13 Forest
 14 Forest
-11 Forest
+4 Keeper of Fables

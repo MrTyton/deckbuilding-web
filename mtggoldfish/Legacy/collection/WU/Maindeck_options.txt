@@ -1,36 +1,35 @@
-2 Daze
-3 Daze
-1 Snow-Covered Plains
-1 Snow-Covered Island
-2 Snow-Covered Island
-1 Back to Basics
+1 Vendilion Clique
+3 Snow-Covered Island
+3 True-Name Nemesis
+1 Supreme Verdict
 2 Hullbreacher
 1 Sword of Fire and Ice
-3 Snow-Covered Island
-2 Polluted Delta
-3 Tundra
-4 Daze
-1 Supreme Verdict
-2 Spell Pierce
-1 Wasteland
-2 Wasteland
-3 Wasteland
-1 Council's Judgment
-5 Island
-1 Counterspell
-1 Spell Snare
+1 Misty Rainforest
 1 Volcanic Island
+1 Counterspell
+2 Polluted Delta
+2 Spell Pierce
+2 Snow-Covered Plains
+4 Snow-Covered Island
+3 Tundra
+1 Daze
+2 Daze
+3 Daze
+4 Daze
 1 Venser, Shaper Savant
+5 Island
+1 Council's Judgment
+1 Spell Snare
 3 Scalding Tarn
-2 Brazen Borrower
 2 Preordain
+2 Brazen Borrower
 2 Karakas
 1 Cavern of Souls
 1 Stonecoil Serpent
 1 Azorius Signet
 1 Lion's Eye Diamond
-1 Spatial Contortion
 1 Auriok Salvagers
+1 Spatial Contortion
 1 Walking Ballista
 1 Mox Opal
 1 Ancient Tomb
@@ -44,13 +43,13 @@
 2 Cavern of Souls
 2 Ancient Den
 2 Stonecoil Serpent
-2 Urza, Lord High Artificer
 2 Seat of the Synod
+2 Urza, Lord High Artificer
 2 Azorius Signet
 2 Auriok Salvagers
 2 Spatial Contortion
-2 City of Traitors
 2 Mox Opal
+2 City of Traitors
 2 Ancient Tomb
 2 Lion's Eye Diamond
 2 Ranger of Eos
@@ -74,27 +73,17 @@
 4 Ancient Tomb
 4 Auriok Salvagers
 4 Cavern of Souls
-2 Council's Judgment
-2 Misty Rainforest
-1 Tropical Island
-1 Uro, Titan of Nature's Wrath
-2 Uro, Titan of Nature's Wrath
+5 Snow-Covered Island
+1 Underground Sea
+1 Baleful Strix
+2 Baleful Strix
+3 Baleful Strix
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 3 Urza, Lord High Artificer
 4 Seat of the Synod
 4 Karn, the Great Creator
-2 Snow-Covered Plains
-4 Snow-Covered Island
-1 Delver of Secrets
-2 Delver of Secrets
-3 Delver of Secrets
-4 Wasteland
-4 Delver of Secrets
-1 Savannah
-3 Misty Rainforest
-4 Misty Rainforest
 1 Staggering Insight
 1 Curious Obsession
 1 Invisible Stalker
@@ -103,23 +92,23 @@
 2 Staggering Insight
 2 Curious Obsession
 2 Invisible Stalker
-2 Ethereal Armor
 2 Kor Spiritdancer
+2 Ethereal Armor
 3 Staggering Insight
 3 Curious Obsession
 3 Invisible Stalker
 4 Staggering Insight
 4 Curious Obsession
 4 Invisible Stalker
-1 Noble Hierarch
-2 Noble Hierarch
-3 Uro, Titan of Nature's Wrath
-3 Noble Hierarch
-4 Noble Hierarch
-1 Underground Sea
-1 Baleful Strix
-2 Baleful Strix
-3 Baleful Strix
+1 Wasteland
+1 Delver of Secrets
+2 Wasteland
+2 Delver of Secrets
+3 Wasteland
+3 Delver of Secrets
+4 Wasteland
+4 Delver of Secrets
+4 Prismatic Vista
 3 Polluted Delta
 1 Kaya, Orzhov Usurper
 1 Hymn to Tourach
@@ -136,10 +125,6 @@
 1 Mystic Sanctuary
 1 Endbringer
 2 Endbringer
-1 Sylvan Library
-1 Life from the Loam
-1 Forest
-2 Forest
 1 Chrome Mox
 1 Curiosity
 2 Chrome Mox
@@ -150,38 +135,45 @@
 4 Preordain
 4 Kor Spiritdancer
 4 Ethereal Armor
-1 Dovin's Veto
+1 Snow-Covered Mountain
+6 Snow-Covered Island
 1 Jace, Vryn's Prodigy
-3 Snow-Covered Plains
+1 Dovin's Veto
 1 Narset, Parter of Veils
-4 Prismatic Vista
-5 Snow-Covered Island
+3 Snow-Covered Plains
+2 Council's Judgment
+2 Misty Rainforest
 1 Ethereal Forager
 2 Ethereal Forager
 4 Stonecoil Serpent
-2 Tropical Island
-1 Skyclave Apparition
-1 Windswept Heath
-1 Stifle
+1 Marsh Flats
+1 Snow-Covered Swamp
 1 Mountain
 1 Sword of Feast and Famine
 2 Vendilion Clique
 1 Monastery Mentor
 2 Monastery Mentor
-3 Plains
+1 Skyclave Apparition
 2 Skyclave Apparition
 3 Skyclave Apparition
-1 Marsh Flats
-1 Unearth
+3 Plains
 1 Inquisition of Kozilek
 1 Drown in the Loch
+1 Unearth
 1 Scrubland
-1 Snow-Covered Swamp
 2 Drown in the Loch
-2 Inquisition of Kozilek
 2 Unearth
+2 Inquisition of Kozilek
 3 Drown in the Loch
 3 Inquisition of Kozilek
+1 Tropical Island
+1 Uro, Titan of Nature's Wrath
+1 Savannah
+2 Tropical Island
+2 Uro, Titan of Nature's Wrath
+3 Misty Rainforest
+4 Misty Rainforest
+1 Stifle
 1 Lavinia, Azorius Renegade
 2 Stifle
 2 Lavinia, Azorius Renegade
@@ -198,20 +190,30 @@
 4 Walking Ballista
 1 Crystal Vein
 4 Urza, Lord High Artificer
-1 Snow-Covered Mountain
-6 Snow-Covered Island
 1 Arid Mesa
 1 Sevinne's Reclamation
+1 Windswept Heath
 6 Island
-1 Weathered Wayfarer
-1 Aether Vial
-2 Windswept Heath
-2 Aether Vial
-2 Weathered Wayfarer
-3 Windswept Heath
-3 Weathered Wayfarer
-3 Tropical Island
-3 Aether Vial
-4 Tundra
-4 Aether Vial
-4 Weathered Wayfarer
+1 Detention Sphere
+1 Counterbalance
+1 Helm of Obedience
+1 Court of Grace
+1 Court of Cunning
+1 Energy Field
+1 Humility
+1 Rest in Peace
+1 Moat
+1 Porphyry Nodes
+1 Deafening Silence
+1 Shark Typhoon
+1 Enlightened Tutor
+2 Marsh Flats
+2 Shark Typhoon
+2 Rest in Peace
+2 Back to Basics
+2 Court of Cunning
+2 Enlightened Tutor
+3 Rest in Peace
+3 Enlightened Tutor
+4 Baleful Strix
+4 Enlightened Tutor

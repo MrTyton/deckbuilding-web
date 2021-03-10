@@ -1,19 +1,19 @@
 1 Plains
 1 Devoted Druid
-2 Giver of Runes
 2 Razorverge Thicket
 2 Devoted Druid
 2 Temple Garden
 2 Duskwatch Recruiter
+2 Giver of Runes
 2 Vizier of Remedies
 3 Razorverge Thicket
 3 Giver of Runes
 3 Vizier of Remedies
 3 Devoted Druid
-4 Giver of Runes
 4 Razorverge Thicket
 4 Devoted Druid
 4 Vizier of Remedies
+4 Giver of Runes
 1 Nurturing Peatland
 1 Verdant Catacombs
 1 Blood Crypt
@@ -55,8 +55,8 @@
 2 Khalni Garden
 2 Gilded Goose
 3 Geralf's Messenger
-4 Yawgmoth, Thran Physician
 4 Geralf's Messenger
+4 Yawgmoth, Thran Physician
 4 Blooming Marsh
 1 Gavony Township
 1 Branchloft Pathway
@@ -66,17 +66,17 @@
 1 Brushland
 1 Stoneforge Mystic
 1 Batterskull
+1 Collected Company
 1 Skyclave Apparition
 1 Snow-Covered Plains
 1 Snow-Covered Forest
 1 Lurrus of the Dream-Den
-1 Collected Company
 1 Eternal Witness
 2 Branchloft Pathway
 2 Brushland
 2 Stoneforge Mystic
-2 Skyclave Apparition
 2 Collected Company
+2 Skyclave Apparition
 2 Eternal Witness
 3 Duskwatch Recruiter
 3 Branchloft Pathway
@@ -88,7 +88,7 @@
 4 Skyclave Apparition
 4 Branchloft Pathway
 4 Duskwatch Recruiter
-4 Stoneforge Mystic
 4 Brushland
+4 Stoneforge Mystic
 4 Collected Company
 4 Temple Garden

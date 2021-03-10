@@ -1,11 +1,11 @@
 4 Forest
-3 Cavern of Souls
 4 Nurturing Peatland
+3 Cavern of Souls
+1 Verdant Catacombs
+1 Windswept Heath
 1 Elvish Clancaller
 2 Elvish Clancaller
 3 Elvish Clancaller
-1 Verdant Catacombs
-1 Windswept Heath
 4 Elvish Clancaller
 1 Turntimber Symbiosis
 2 Turntimber Symbiosis
@@ -25,12 +25,18 @@
 3 Bramblewood Paragon
 4 Growth-Chamber Guardian
 2 Overgrown Tomb
-8 Forest
 2 Verdant Catacombs
+8 Forest
 4 Cavern of Souls
 2 Windswept Heath
 3 Ezuri, Renegade Leader
 3 Verdant Catacombs
+1 Wooded Foothills
+2 Wooded Foothills
+1 Elvish Visionary
+2 Elvish Visionary
+3 Elvish Visionary
+4 Elvish Visionary
 1 Inscription of Abundance
 2 Inscription of Abundance
 9 Forest
@@ -39,46 +45,39 @@
 1 Unclaimed Territory
 3 Joraga Warcaller
 4 Bramblewood Paragon
-1 Wooded Foothills
-2 Wooded Foothills
 3 Windswept Heath
 4 Windswept Heath
+1 Essence Warden
 1 Winding Way
-1 Scavenging Ooze
-1 Snow-Covered Forest
-2 Snow-Covered Forest
-3 Snow-Covered Forest
-1 Elvish Visionary
 1 Chord of Calling
-2 Elvish Visionary
-3 Elvish Visionary
-4 Elvish Visionary
 1 Misty Rainforest
 1 Darkbore Pathway
 2 Unclaimed Territory
 3 Unclaimed Territory
 4 Unclaimed Territory
-1 Wildborn Preserver
-2 Wildborn Preserver
-2 Scavenging Ooze
 1 Elves of Deep Shadow
 1 Lead the Stampede
 2 Lead the Stampede
-1 Westvale Abbey
-1 Essence Warden
+1 Scavenging Ooze
 1 Tajuru Paragon
 2 Tajuru Paragon
 3 Tajuru Paragon
 4 Verdant Catacombs
+1 Snow-Covered Forest
+2 Snow-Covered Forest
+3 Snow-Covered Forest
 4 Snow-Covered Forest
 1 Nykthos, Shrine to Nyx
 2 Chord of Calling
+1 Wildborn Preserver
+2 Wildborn Preserver
+2 Scavenging Ooze
 2 Elves of Deep Shadow
 2 Craterhoof Behemoth
 1 Skemfar Avenger
 2 Skemfar Avenger
-1 Spellskite
 1 Stomping Ground
+1 Spellskite
 1 Reclamation Sage
 2 Nykthos, Shrine to Nyx
 3 Chord of Calling
@@ -94,6 +93,12 @@
 3 Elvish Reclaimer
 4 Tajuru Paragon
 4 Elvish Reclaimer
+5 Snow-Covered Forest
+6 Snow-Covered Forest
+7 Snow-Covered Forest
+8 Snow-Covered Forest
+12 Forest
+1 Westvale Abbey
 1 Castle Garenbrig
 1 Beast Whisperer
 2 Beast Whisperer
@@ -101,8 +106,3 @@
 2 Winding Way
 3 Beast Whisperer
 4 Beast Whisperer
-12 Forest
-5 Snow-Covered Forest
-6 Snow-Covered Forest
-7 Snow-Covered Forest
-8 Snow-Covered Forest

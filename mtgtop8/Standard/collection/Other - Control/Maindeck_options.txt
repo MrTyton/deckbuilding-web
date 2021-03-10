@@ -15,11 +15,11 @@
 1 Darkbore Pathway
 3 Elspeth's Nightmare
 1 Temple of Malady
-3 Elspeth Conquers Death
 1 Doom Foretold
 3 Brightclimb Pathway
 4 Brightclimb Pathway
 4 Branchloft Pathway
+3 Elspeth Conquers Death
 1 Temple of Plenty
 2 Darkbore Pathway
 2 Doom Foretold
@@ -52,8 +52,8 @@
 1 Eliminate
 1 Runeforge Champion
 1 Rune of Sustenance
-1 Rune of Mortality
 1 Rune of Might
+1 Rune of Mortality
 2 Runeforge Champion
 2 Rune of Sustenance
 2 Rune of Might
@@ -69,13 +69,10 @@
 1 Burning-Rune Demon
 4 Swamp
 2 Eerie Ultimatum
-1 Ugin, the Spirit Dragon
-1 Temple of Triumph
-2 Temple of Triumph
-2 Shatterskull Smashing
 1 Extinction Event
 1 Mythos of Nethroi
 2 Mythos of Nethroi
+1 Ugin, the Spirit Dragon
 1 Castle Embereth
 2 Castle Embereth
 2 Raugrin Triome
@@ -94,6 +91,9 @@
 1 Ondu Inversion
 1 Llanowar Visionary
 2 Llanowar Visionary
+1 Temple of Triumph
+2 Temple of Triumph
+2 Shatterskull Smashing
 1 Yasharn, Implacable Earth
 2 Eliminate
 1 Polukranos, Unchained
@@ -101,13 +101,6 @@
 3 Mythos of Nethroi
 1 Agadeem's Awakening
 1 Vivien, Monsters' Advocate
-1 Mazemind Tome
-1 Skyclave Apparition
-2 Skyclave Apparition
-3 Skyclave Apparition
-4 Skyclave Apparition
-5 Mountain
-1 Crawling Barrens
 5 Swamp
 1 Acolyte of Affliction
 2 Acquisitions Expert
@@ -118,35 +111,33 @@
 1 Doomskar
 2 Garruk, Cursed Huntsman
 3 Eerie Ultimatum
+1 Castle Locthwain
 2 Golden Egg
 3 Golden Egg
-3 Temple of Silence
-1 Castle Locthwain
 1 Bala Ged Recovery
-1 Solemn Simulacrum
-2 Solemn Simulacrum
-2 Ugin, the Spirit Dragon
+3 Temple of Silence
+1 Mazemind Tome
+1 Skyclave Apparition
+2 Skyclave Apparition
+3 Skyclave Apparition
+4 Skyclave Apparition
 1 Soul Sear
 2 Soul Sear
 3 Soul Sear
 4 Soul Sear
+5 Mountain
 2 Castle Locthwain
+1 Crawling Barrens
 2 Vivien, Monsters' Advocate
-2 Crawling Barrens
-2 Mazemind Tome
-3 Mazemind Tome
-4 Elspeth Conquers Death
-4 Mazemind Tome
-1 Shredded Sails
-1 Scorching Dragonfire
-2 Shredded Sails
-3 Shatterskull Smashing
-1 Cultivate
-2 Cultivate
-3 Cultivate
+1 Solemn Simulacrum
+2 Solemn Simulacrum
 1 Valki, God of Lies
 2 Valki, God of Lies
 3 Valki, God of Lies
+1 Cultivate
+2 Cultivate
+2 Ugin, the Spirit Dragon
+3 Cultivate
 1 Tergrid, God of Fright
 1 Calix, Destiny's Hand
 1 Lithoform Blight
@@ -173,6 +164,7 @@
 2 Tangled Florahedron
 3 Tangled Florahedron
 4 Tangled Florahedron
+2 Crawling Barrens
 1 Shatter the Sky
 1 Banishing Light
 2 Banishing Light
@@ -186,11 +178,15 @@
 1 Trail of Crumbs
 2 Wicked Wolf
 2 Trail of Crumbs
+2 Mazemind Tome
+3 Mazemind Tome
 3 Wicked Wolf
 3 Trail of Crumbs
 3 Emeria's Call
+4 Elspeth Conquers Death
 4 Trail of Crumbs
 4 Wicked Wolf
+4 Mazemind Tome
 4 Emeria's Call
 5 Forest
 6 Forest
@@ -204,10 +200,6 @@
 2 Yasharn, Implacable Earth
 2 Lotus Cobra
 6 Swamp
-3 Ugin, the Spirit Dragon
-3 Solemn Simulacrum
-4 Solemn Simulacrum
-4 Ugin, the Spirit Dragon
 3 Llanowar Visionary
 4 Llanowar Visionary
 1 Snow-Covered Forest
@@ -218,9 +210,9 @@
 3 Snow-Covered Forest
 1 Snow-Covered Plains
 1 Elderfang Disciple
+1 Sculptor of Winter
 1 Snowfield Sinkhole
 1 Evolving Wilds
-1 Sculptor of Winter
 1 Shimmerdrift Vale
 1 Great Hall of Starnheim
 1 Grasp of Darkness
@@ -233,9 +225,9 @@
 1 Omen of the Hunt
 1 Woodland Chasm
 1 Kogla, the Titan Ape
-2 Snowfield Sinkhole
-2 Elderfang Disciple
 2 Evolving Wilds
+2 Elderfang Disciple
+2 Snowfield Sinkhole
 2 Sculptor of Winter
 2 Shimmerdrift Vale
 2 Grasp of Darkness
@@ -257,9 +249,9 @@
 3 Woodland Chasm
 3 Rampage of the Valkyries
 4 Elderfang Disciple
+4 Sarulf's Packmate
 4 Evolving Wilds
 4 Sculptor of Winter
-4 Sarulf's Packmate
 4 Omen of the Hunt
 4 Snow-Covered Swamp
 4 Snow-Covered Forest
@@ -273,12 +265,16 @@
 6 Snow-Covered Forest
 7 Snow-Covered Swamp
 1 Sejiri Shelter
+1 Shredded Sails
+1 Scorching Dragonfire
+2 Shredded Sails
 2 Ondu Inversion
+3 Shatterskull Smashing
 1 Bonders' Enclave
 1 Hagra Mauling
 1 Elder Gargaroth
-1 Cling to Dust
 1 Agonizing Remorse
+1 Cling to Dust
 1 Scavenging Ooze
 2 Bala Ged Recovery
 2 Elder Gargaroth
@@ -292,8 +288,8 @@
 1 Vorinclex, Monstrous Raider
 1 Zagoth Triome
 1 Cragcrown Pathway
-1 Blightstep Pathway
 1 Liliana, Waker of the Dead
+1 Blightstep Pathway
 1 Dream Devourer
 1 Snow-Covered Mountain
 2 Liliana, Waker of the Dead
@@ -305,34 +301,24 @@
 3 Vorinclex, Monstrous Raider
 3 Blightstep Pathway
 3 Lukka, Coppercoat Outcast
+3 Ugin, the Spirit Dragon
+3 Solemn Simulacrum
 3 Dream Devourer
+4 Ugin, the Spirit Dragon
+4 Solemn Simulacrum
 4 Valki, God of Lies
-4 Vorinclex, Monstrous Raider
 4 Blightstep Pathway
+4 Vorinclex, Monstrous Raider
 4 Lukka, Coppercoat Outcast
 4 Cultivate
 4 Dream Devourer
-1 Storm's Wrath
-1 Ox of Agonas
-1 Bonecrusher Giant
-2 Storm's Wrath
-2 Ox of Agonas
-2 Scorching Dragonfire
-2 Bonecrusher Giant
-3 Crawling Barrens
-3 Storm's Wrath
-3 Bonecrusher Giant
-3 Temple of Triumph
-6 Mountain
-7 Mountain
 1 Field of Ruin
 1 Jwari Disruption
-1 Lofty Denial
-1 Gadwick, the Wizened
+1 Rain of Revelation
 1 Neutralize
 1 Silundi Vision
 1 Rewind
-1 Mystic Sanctuary
+1 Gadwick, the Wizened
 1 Frantic Inventory
 1 Brazen Borrower
 1 Island
@@ -340,11 +326,13 @@
 1 Sublime Epiphany
 1 Essence Scatter
 1 Into the Roil
+1 Mystic Sanctuary
 1 Hypnotic Sprite
 1 Castle Vantress
 1 Shark Typhoon
-1 Rain of Revelation
+1 Lofty Denial
 2 Castle Vantress
+2 Rain of Revelation
 2 Neutralize
 2 Rewind
 2 Gadwick, the Wizened
@@ -354,15 +342,14 @@
 2 Essence Scatter
 2 Shark Typhoon
 2 Island
-2 Rain of Revelation
 2 Hypnotic Sprite
 3 Brazen Borrower
 3 Neutralize
-3 Frantic Inventory
-3 Shark Typhoon
 3 Rewind
-3 Island
+3 Frantic Inventory
 3 Castle Vantress
+3 Shark Typhoon
+3 Island
 4 Brazen Borrower
 4 Neutralize
 4 Frantic Inventory

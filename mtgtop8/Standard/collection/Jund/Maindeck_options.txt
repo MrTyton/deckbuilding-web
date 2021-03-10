@@ -9,14 +9,14 @@
 1 Necromentia
 1 Mire Triton
 2 Mire Triton
-3 Mire Triton
 3 Temple of Malice
+3 Mire Triton
 4 Mire Triton
 1 Binding the Old Gods
 2 Binding the Old Gods
 1 Savai Triome
-2 Savai Triome
 2 Rankle, Master of Pranks
+2 Savai Triome
 1 Ketria Triome
 1 Indatha Triome
 1 Shatterskull Smashing
@@ -39,11 +39,11 @@
 1 Ugin, the Spirit Dragon
 1 Lovestruck Beast
 2 Lovestruck Beast
-1 Rugged Highlands
 1 Bala Ged Recovery
-1 Ilysian Caryatid
 1 Wolfwillow Haven
 1 Jungle Hollow
+1 Rugged Highlands
+1 Ilysian Caryatid
 1 Terror of the Peaks
 1 Cultivate
 1 Polukranos, Unchained
@@ -61,9 +61,9 @@
 1 Rampart Smasher
 1 Ironscale Hydra
 2 Rugged Highlands
-2 Ilysian Caryatid
 2 Terror of the Peaks
 2 Wolfwillow Haven
+2 Ilysian Caryatid
 2 Cultivate
 2 Rampart Smasher
 2 Thorn Mammoth
@@ -74,8 +74,8 @@
 3 Ilysian Caryatid
 3 Wolfwillow Haven
 4 Rugged Highlands
-4 Ilysian Caryatid
 4 Forest
+4 Ilysian Caryatid
 5 Mountain
 5 Forest
 6 Forest
@@ -90,6 +90,10 @@
 1 Woodland Chasm
 2 Woodland Chasm
 3 Tymaret Calls the Dead
+1 Egon, God of Death
+2 Egon, God of Death
+3 Egon, God of Death
+4 The Akroan War
 1 Dream Devourer
 1 Eliminate
 1 Vorinclex, Monstrous Raider
@@ -106,10 +110,6 @@
 3 Vorinclex, Monstrous Raider
 4 Goldspan Dragon
 4 Binding the Old Gods
-1 Egon, God of Death
-2 Egon, God of Death
-3 Egon, God of Death
-4 The Akroan War
 1 Zagoth Triome
 4 Kroxa, Titan of Death's Hunger
 3 Savai Triome
@@ -127,8 +127,8 @@
 2 Ketria Triome
 3 Indatha Triome
 3 Heartless Act
-3 Shatterskull Smashing
 3 Lovestruck Beast
+3 Shatterskull Smashing
 3 Toski, Bearer of Secrets
 3 Edgewall Innkeeper
 3 Foulmire Knight
