@@ -62,17 +62,17 @@
 2 Lion's Eye Diamond
 2 Infernal Tutor
 2 Ancient Tomb
-3 Snow-Covered Swamp
 3 Leyline of the Void
 3 Ancient Tomb
 3 Infernal Tutor
+3 Snow-Covered Swamp
 3 Lion's Eye Diamond
 3 Duress
 4 Duress
-4 Snow-Covered Swamp
 4 Lion's Eye Diamond
 4 Leyline of the Void
 4 Infernal Tutor
+4 Snow-Covered Swamp
 4 Dark Ritual
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
@@ -102,38 +102,6 @@
 1 Badlands
 1 Wooded Foothills
 3 Inquisition of Kozilek
-1 Liliana's Triumph
-1 Hymn to Tourach
-1 Smallpox
-1 Castle Locthwain
-1 Blast Zone
-1 Liliana of the Veil
-1 Crucible of Worlds
-1 Innocent Blood
-1 Court of Ambition
-2 Blast Zone
-2 Hymn to Tourach
-2 Smallpox
-2 Crucible of Worlds
-2 Swamp
-2 Innocent Blood
-2 Court of Ambition
-2 Liliana of the Veil
-3 Hymn to Tourach
-3 Swamp
-3 Smallpox
-3 Crucible of Worlds
-3 Innocent Blood
-3 Liliana of the Veil
-4 Hymn to Tourach
-4 Swamp
-4 Smallpox
-4 Wasteland
-4 Liliana of the Veil
-5 Swamp
-6 Swamp
-7 Swamp
-8 Swamp
 1 Cabal Therapy
 1 Satyr Wayfinder
 1 Stitcher's Supplier
@@ -141,15 +109,47 @@
 1 Khalni Garden
 1 Hogaak, Arisen Necropolis
 2 Khalni Garden
+2 Cabal Therapy
 2 Stitcher's Supplier
 2 Satyr Wayfinder
 2 Hogaak, Arisen Necropolis
-2 Cabal Therapy
+3 Cabal Therapy
 3 Stitcher's Supplier
 3 Satyr Wayfinder
 3 Hogaak, Arisen Necropolis
 3 Khalni Garden
-3 Cabal Therapy
 4 Stitcher's Supplier
 4 Satyr Wayfinder
 4 Cabal Therapy
+1 Castle Locthwain
+1 Smallpox
+1 Innocent Blood
+1 Court of Ambition
+1 Blast Zone
+1 Crucible of Worlds
+1 Liliana's Triumph
+1 Hymn to Tourach
+1 Liliana of the Veil
+2 Blast Zone
+2 Smallpox
+2 Innocent Blood
+2 Crucible of Worlds
+2 Swamp
+2 Court of Ambition
+2 Hymn to Tourach
+2 Liliana of the Veil
+3 Smallpox
+3 Innocent Blood
+3 Swamp
+3 Crucible of Worlds
+3 Liliana of the Veil
+3 Hymn to Tourach
+4 Liliana of the Veil
+4 Smallpox
+4 Wasteland
+4 Swamp
+4 Hymn to Tourach
+6 Swamp
+7 Swamp
+8 Swamp
+5 Swamp

@@ -27,10 +27,10 @@
 1 Inquisition of Kozilek
 1 Hymn to Tourach
 1 Marsh Flats
-2 Of One Mind
 2 Hymn to Tourach
 2 Marsh Flats
 2 Scrubland
+2 Of One Mind
 2 Inquisition of Kozilek
 3 Of One Mind
 1 Narset, Parter of Veils
@@ -72,19 +72,19 @@
 2 Predict
 1 Back to Basics
 2 Plains
-1 Omen of the Sea
 1 Aminatou, the Fateshifter
 1 Karakas
 1 Court of Grace
+1 Omen of the Sea
 2 Omen of the Sea
 2 Aminatou, the Fateshifter
 2 Council's Judgment
 2 Court of Grace
 3 Omen of the Sea
 3 Aminatou, the Fateshifter
-4 Omen of the Sea
 4 Aminatou, the Fateshifter
 4 Baleful Strix
+4 Omen of the Sea
 1 Intuition
 1 Accumulated Knowledge
 1 Cabal Therapy
@@ -105,29 +105,20 @@
 1 Spell Pierce
 1 Stifle
 2 Stifle
-1 Drown in the Loch
 1 Cling to Dust
+1 Drown in the Loch
 1 Liliana, the Last Hope
 1 Meddling Mage
+2 Swamp
 2 Cling to Dust
 2 Liliana, the Last Hope
-2 Swamp
 2 Vindicate
 3 Teferi, Time Raveler
+1 Shark Typhoon
 1 Portent
 1 Flusterstorm
-1 Shark Typhoon
 2 Portent
 3 Narset, Parter of Veils
-1 Red Elemental Blast
-1 Counterspell
-1 Gideon, Ally of Zendikar
-1 Supreme Verdict
-2 Back to Basics
-3 Jace, the Mind Sculptor
-4 Snow-Covered Island
-5 Snow-Covered Island
-6 Snow-Covered Island
 1 Search for Azcanta
 1 Dovin's Veto
 1 Mishra's Bauble
@@ -138,3 +129,12 @@
 3 Mishra's Bauble
 4 Predict
 4 Mishra's Bauble
+1 Red Elemental Blast
+1 Counterspell
+1 Gideon, Ally of Zendikar
+1 Supreme Verdict
+2 Back to Basics
+3 Jace, the Mind Sculptor
+4 Snow-Covered Island
+5 Snow-Covered Island
+6 Snow-Covered Island

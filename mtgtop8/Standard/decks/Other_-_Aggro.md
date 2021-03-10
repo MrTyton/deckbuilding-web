@@ -38,8 +38,8 @@
 |                    4|[Indatha Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479768)         |                     |              |
 |                    4|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)    |                     |              |
 |                    4|[Storm Herald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476407)           |                     |              |
-|                    4|[Rune of Might](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503807)          |                     |              |
 |                    4|[Transcendent Envoy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476291)     |                     |              |
+|                    4|[Rune of Might](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503807)          |                     |              |
 |                    4|Darkbore Pathway                                                                                  |                     |              |
 |                    4|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)    |                     |              |
 |                    4|[Savai Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479773)           |                     |              |

@@ -1,22 +1,24 @@
-1 Temple Garden
 4 Misty Rainforest
-2 Island
+1 Temple Garden
+1 Mountain
+1 Sword of Feast and Famine
+1 Stoneforge Mystic
+1 Batterskull
+2 Stoneforge Mystic
+3 Stoneforge Mystic
+4 Stoneforge Mystic
 1 Snow-Covered Forest
 1 Snow-Covered Plains
 1 Noble Hierarch
-1 Sword of Feast and Famine
-1 Stoneforge Mystic
 1 Tireless Tracker
 1 On Thin Ice
-1 Batterskull
 1 Sword of Fire and Ice
 1 Windswept Heath
-1 Spell Queller
 1 Wooded Foothills
-1 Horizon Canopy
+1 Spell Queller
 1 Stomping Ground
+1 Horizon Canopy
 2 Snow-Covered Forest
-2 Stoneforge Mystic
 2 On Thin Ice
 2 Tireless Tracker
 2 Windswept Heath
@@ -25,53 +27,56 @@
 2 Spell Queller
 3 Omnath, Locus of Creation
 3 Noble Hierarch
-3 Stoneforge Mystic
 3 Spell Queller
 3 Windswept Heath
-4 Stoneforge Mystic
 4 Noble Hierarch
 4 Mana Leak
 4 Windswept Heath
 2 Snow-Covered Island
-1 Aether Gust
-3 Snow-Covered Forest
-4 Spell Queller
-3 Tireless Tracker
-1 Timely Reinforcements
-1 Remand
-2 Remand
-2 Lonely Sandbar
+1 Opt
+2 Opt
 1 Swamp
 1 Godless Shrine
-1 Drown in the Loch
 1 Watery Grave
 1 Kaya's Guile
 1 Glacial Fortress
 1 Esper Charm
-1 Thought Scour
 1 Drowned Catacomb
 1 Polluted Delta
 2 Hallowed Fountain
 2 Kaya's Guile
-2 Drown in the Loch
 2 Celestial Colonnade
-2 Thought Scour
 2 Drowned Catacomb
 2 Esper Charm
 2 Glacial Fortress
 2 Polluted Delta
-3 Drown in the Loch
 3 Polluted Delta
 3 Island
-3 Thought Scour
 3 Drowned Catacomb
 3 Esper Charm
 4 Drowned Catacomb
 4 Snapcaster Mage
 4 Polluted Delta
 4 Esper Charm
+1 Remand
+1 Aether Gust
+3 Snow-Covered Forest
+4 Spell Queller
+3 Opt
+3 Tireless Tracker
+1 Drown in the Loch
+1 Timely Reinforcements
+2 Remand
+2 Lonely Sandbar
+4 Opt
+1 Thought Scour
+2 Drown in the Loch
+2 Thought Scour
+3 Drown in the Loch
+3 Thought Scour
 4 Thought Scour
 1 Arid Mesa
+1 Eliminate
 1 Birds of Paradise
 1 Fatal Push
 2 Fatal Push
@@ -79,9 +84,6 @@
 2 Skyclave Apparition
 2 Snow-Covered Plains
 3 Wooded Foothills
-1 Opt
-2 Opt
-3 Opt
 1 Nahiri, the Harbinger
 1 Cosima, God of the Voyage
 1 Emrakul, the Aeons Torn

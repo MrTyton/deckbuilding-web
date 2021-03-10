@@ -1,13 +1,14 @@
 2 Bayou
 2 Abrupt Decay
 1 Tireless Tracker
-1 Taiga
-1 Klothys, God of Destiny
 3 Abrupt Decay
 1 Once Upon a Time
 2 Once Upon a Time
+1 Taiga
+1 Klothys, God of Destiny
 3 Stoneforge Mystic
 1 Batterskull
+3 Once Upon a Time
 2 Sylvan Library
 1 Plateau
 1 Wooded Foothills
@@ -16,21 +17,17 @@
 1 Punishing Fire
 2 Punishing Fire
 2 Grove of the Burnwillows
-3 Once Upon a Time
 3 Punishing Fire
 3 Grove of the Burnwillows
-3 Wooded Foothills
 1 Kaya, Orzhov Usurper
+3 Wooded Foothills
 3 Savannah
 1 Sanctum Prelate
 2 Kaya, Orzhov Usurper
 2 Plains
-2 Taiga
 1 Scryb Ranger
+2 Taiga
 4 Verdant Catacombs
-3 Birds of Paradise
-4 Birds of Paradise
-1 Qasali Pridemage
 1 Sylvan Safekeeper
 4 Noble Hierarch
 1 Tundra
@@ -41,18 +38,15 @@
 4 Misty Rainforest
 1 Vraska, Golgari Queen
 1 Tarmogoyf
-1 Terravore
 1 Nurturing Peatland
+1 Terravore
+1 Qasali Pridemage
 1 Shadowspear
 1 Dark Depths
 1 Thespian's Stage
 3 Forest
-1 Mother of Runes
-1 Lightning Bolt
-2 Mother of Runes
-3 Mother of Runes
-1 Waterlogged Grove
 1 Snow-Covered Island
+1 Waterlogged Grove
 1 Hullbreacher
 1 Snow-Covered Forest
 1 Snow-Covered Plains
@@ -63,10 +57,6 @@
 3 Hullbreacher
 3 Ice-Fang Coatl
 4 Hullbreacher
-1 Dark Confidant
-1 Godless Shrine
-2 Dark Confidant
-4 Stoneforge Mystic
 1 Thrun, the Last Troll
 1 Cavern of Souls
 2 Sylvan Safekeeper
@@ -74,6 +64,12 @@
 3 Skyclave Apparition
 4 Once Upon a Time
 4 Skyclave Apparition
+3 Birds of Paradise
+4 Birds of Paradise
+1 Dark Confidant
+1 Godless Shrine
+2 Dark Confidant
+4 Stoneforge Mystic
 1 Flooded Strand
 1 Omnath, Locus of Creation
 1 Oko, Thief of Crowns

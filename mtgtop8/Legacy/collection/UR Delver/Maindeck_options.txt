@@ -1,34 +1,33 @@
-1 True-Name Nemesis
 2 Misty Rainforest
-1 Island
-1 Mountain
-2 Island
+1 True-Name Nemesis
 3 Preordain
 4 Sprite Dragon
 2 Flooded Strand
+1 Island
+1 Mountain
+2 Island
 4 Preordain
 1 Wooded Foothills
 1 Stifle
 2 Stifle
 1 Spell Pierce
 2 Brazen Borrower
-1 Fiery Islet
 1 Ethereal Forager
+1 Fiery Islet
 1 Pyroblast
-4 Chain Lightning
-1 Bloodstained Mire
-2 True-Name Nemesis
 3 Stifle
-4 Volcanic Island
 1 Forked Bolt
 2 Ethereal Forager
+4 Volcanic Island
 1 Tropical Island
 1 Oko, Thief of Crowns
 2 Tropical Island
 2 Oko, Thief of Crowns
-4 Young Pyromancer
 1 Vapor Snag
 3 Snow-Covered Island
+4 Chain Lightning
+1 Bloodstained Mire
+2 True-Name Nemesis
 1 Spell Snare
 1 Flusterstorm
 1 Krark, the Thumbless
@@ -37,14 +36,8 @@
 3 Krark, the Thumbless
 3 Polluted Delta
 2 Wooded Foothills
-2 Bloodstained Mire
 1 Magmatic Channeler
 2 Magmatic Channeler
-1 The Royal Scions
-1 Arid Mesa
-1 Bedlam Reveler
-1 Pteramander
-2 Pteramander
 1 Grim Lavamancer
 2 Spell Pierce
 3 Brazen Borrower
@@ -71,6 +64,12 @@
 3 Island
 4 Stifle
 4 Prismatic Vista
+1 Arid Mesa
+1 Bedlam Reveler
+1 The Royal Scions
+1 Pteramander
+2 Pteramander
+4 Young Pyromancer
 1 Hullbreacher
 3 Flooded Strand
 4 Flooded Strand

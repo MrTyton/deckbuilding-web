@@ -38,26 +38,26 @@
 1 Retrofitter Foundry
 1 Underground Sea
 1 Swamp
-2 Polluted Delta
 2 Changeling Outcast
 2 Ornithopter
 2 Yuriko, the Tiger's Shadow
+2 Polluted Delta
 2 Retrofitter Foundry
 2 Swamp
 2 Ingenious Infiltrator
 2 Fatal Push
+3 Swamp
 3 Polluted Delta
-3 Fatal Push
 3 Retrofitter Foundry
 3 Ornithopter
 3 Ingenious Infiltrator
-3 Swamp
+3 Fatal Push
 3 Changeling Outcast
 3 Yuriko, the Tiger's Shadow
-4 Polluted Delta
 4 Changeling Outcast
 4 Ingenious Infiltrator
 4 Ornithopter
+4 Polluted Delta
 4 Retrofitter Foundry
 2 Spell Snare
 1 Day's Undoing
@@ -67,8 +67,8 @@
 2 Brazen Borrower
 1 Mishra's Factory
 2 Mishra's Factory
-1 Baleful Strix
 1 Bloodstained Mire
+1 Baleful Strix
 1 Teferi, Hero of Dominaria
 1 Predict
 2 Council's Judgment
@@ -83,8 +83,8 @@
 1 Snapcaster Mage
 2 Snapcaster Mage
 1 Misty Rainforest
-1 Silundi Vision
 1 Unexpectedly Absent
+1 Silundi Vision
 1 Venser, Shaper Savant
 1 Magmatic Sinkhole
 1 Vendilion Clique
@@ -106,19 +106,19 @@
 1 Replenish
 1 Path to Exile
 1 Cast Out
-2 Misty Rainforest
 2 Replenish
 2 Lay Claim
 2 Cast Out
+2 Misty Rainforest
 3 Cast Out
 3 Lay Claim
 3 Replenish
 4 Replenish
 4 Cast Out
 1 Impulse
+1 Lightning Bolt
 1 Fiery Islet
 1 Bonecrusher Giant
-1 Lightning Bolt
 1 Faerie Conclave
 1 Burst Lightning
 2 Impulse
@@ -141,10 +141,10 @@
 4 Volcanic Island
 4 Snapcaster Mage
 4 Lightning Bolt
-1 Chrome Mox
 1 Glasspool Mimic
-1 Sea Gate Restoration
 1 True-Name Nemesis
+1 Sea Gate Restoration
+1 Chrome Mox
 1 Aether Vial
 1 Silvergill Adept
 1 Master of the Pearl Trident
@@ -152,9 +152,9 @@
 1 Cavern of Souls
 1 Lord of Atlantis
 2 Glasspool Mimic
-2 Chrome Mox
 2 True-Name Nemesis
 2 Sea Gate Restoration
+2 Chrome Mox
 2 Mutavault
 2 Aether Vial
 2 Master of the Pearl Trident
@@ -162,24 +162,24 @@
 2 Silvergill Adept
 2 Cavern of Souls
 3 Sea Gate Restoration
-3 Chrome Mox
 3 Glasspool Mimic
-3 Hullbreacher
+3 Chrome Mox
 3 Cavern of Souls
 3 Lord of Atlantis
+3 Hullbreacher
 3 Master of the Pearl Trident
 3 Silvergill Adept
 3 Aether Vial
 3 True-Name Nemesis
 3 Mutavault
 4 Sea Gate Restoration
-4 Chrome Mox
 4 Mutavault
 4 Glasspool Mimic
 4 Hullbreacher
 4 Aether Vial
 4 Lord of Atlantis
 4 True-Name Nemesis
+4 Chrome Mox
 4 Silvergill Adept
 4 Master of the Pearl Trident
 4 Cavern of Souls
