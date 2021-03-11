@@ -88,9 +88,9 @@
 3 Mountain
 3 Wolfwillow Haven
 3 Omen of the Sea
-4 Wolfwillow Haven
 4 Mountain
 4 Omen of the Sea
+4 Wolfwillow Haven
 5 Island
 5 Mountain
 5 Forest
@@ -100,10 +100,6 @@
 2 Temple of Mystery
 1 Neutralize
 2 Neutralize
-1 Old-Growth Troll
-2 Old-Growth Troll
-3 Old-Growth Troll
-4 Terror of the Peaks
 1 Cosima, God of the Voyage
 2 Cosima, God of the Voyage
 3 Shatterskull Smashing
@@ -112,5 +108,9 @@
 2 Koma, Cosmos Serpent
 3 Storm's Wrath
 4 Storm's Wrath
-5 Snow-Covered Mountain
 4 Snow-Covered Mountain
+5 Snow-Covered Mountain
+1 Old-Growth Troll
+2 Old-Growth Troll
+3 Old-Growth Troll
+4 Terror of the Peaks

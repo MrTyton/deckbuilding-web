@@ -1,26 +1,19 @@
 1 Sylvan Library
-1 Spell Pierce
-1 Dismember
-2 Chain Lightning
-1 Hooting Mandrills
+2 Preordain
 1 Hexdrinker
 2 Hexdrinker
 4 Tarmogoyf
 4 Tropical Island
+1 Spell Pierce
+2 Chain Lightning
+1 Hooting Mandrills
+2 Brazen Borrower
 2 Hooting Mandrills
 2 Spell Pierce
-2 Brazen Borrower
 3 Preordain
 4 Preordain
-1 Dreadhorde Arcanist
-1 Oko, Thief of Crowns
-2 Dreadhorde Arcanist
-2 Oko, Thief of Crowns
-3 Dreadhorde Arcanist
-4 Dreadhorde Arcanist
-1 Snow-Covered Island
 1 Island
-1 Mountain
+1 Snow-Covered Island
 1 Monastery Swiftspear
 1 Bedlam Reveler
 1 Sprite Dragon
@@ -31,18 +24,25 @@
 3 Sprite Dragon
 4 Monastery Swiftspear
 4 Sprite Dragon
+1 Mountain
 2 Sylvan Library
+1 Dreadhorde Arcanist
+1 Oko, Thief of Crowns
+2 Dreadhorde Arcanist
+2 Oko, Thief of Crowns
+3 Dreadhorde Arcanist
+4 Dreadhorde Arcanist
 3 Misty Rainforest
 3 Uro, Titan of Nature's Wrath
 1 Young Pyromancer
 2 Young Pyromancer
-3 Flooded Strand
 4 Stifle
 3 Hooting Mandrills
 1 Klothys, God of Destiny
 3 Young Pyromancer
 1 Snow-Covered Mountain
-3 Oko, Thief of Crowns
+3 Flooded Strand
+1 Waterlogged Grove
 2 Wooded Foothills
 3 Polluted Delta
 1 Spell Snare
@@ -51,32 +51,29 @@
 3 Nimble Mongoose
 4 Nimble Mongoose
 2 Forked Bolt
-1 Waterlogged Grove
+3 Oko, Thief of Crowns
 4 Flooded Strand
+1 Life from the Loam
 1 Ethereal Forager
 1 Fiery Islet
-1 Taiga
 1 Blue Elemental Blast
+1 Taiga
 2 Ethereal Forager
+2 Life from the Loam
+1 Forest
+3 Hexdrinker
+1 Elvish Reclaimer
+1 Karakas
+2 Elvish Reclaimer
+3 Elvish Reclaimer
 1 Pyroblast
 2 Dismember
 3 Spell Pierce
-1 Elvish Reclaimer
-1 Karakas
-1 Life from the Loam
-2 Elvish Reclaimer
-3 Elvish Reclaimer
-1 Magmatic Channeler
-2 Magmatic Channeler
-3 Magmatic Channeler
-1 Forest
-3 Hexdrinker
-4 Misty Rainforest
 1 Of One Mind
 1 Nivmagus Elemental
 1 Flusterstorm
-2 Snow-Covered Island
 2 Of One Mind
+2 Snow-Covered Island
 2 Nivmagus Elemental
 2 Flusterstorm
 3 Of One Mind
@@ -92,5 +89,9 @@
 2 Dead/Gone
 2 Mishra's Bauble
 3 Mishra's Bauble
-4 Mishra's Bauble
 3 Sylvan Library
+4 Mishra's Bauble
+4 Misty Rainforest
+1 Magmatic Channeler
+2 Magmatic Channeler
+3 Magmatic Channeler

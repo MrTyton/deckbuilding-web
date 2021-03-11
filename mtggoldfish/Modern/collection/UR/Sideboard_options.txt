@@ -23,7 +23,6 @@
 1 Kozilek's Return
 2 Kozilek's Return
 4 Aether Gust
-2 Flame Slash
 1 Surgical Extraction
 1 Platinum Emperion
 1 Madcap Experiment
@@ -34,6 +33,7 @@
 3 Cleansing Wildfire
 3 Tormod's Crypt
 3 Kor Firewalker
+2 Flame Slash
 2 Surgical Extraction
 1 Aria of Flame
 2 Aria of Flame
@@ -65,8 +65,8 @@
 2 Spell Pierce
 1 Wear/Tear
 1 Karn, Scion of Urza
-1 Ethersworn Canonist
 1 Galvanic Blast
+1 Ethersworn Canonist
 1 Supreme Verdict
 1 Skyclave Apparition
 1 Sorcerous Spyglass
@@ -84,13 +84,12 @@
 1 Alpine Moon
 2 Alpine Moon
 1 Pithing Needle
-1 Pyroclasm
-1 Smash to Smithereens
 1 Kozilek, Butcher of Truth
 1 Dispel
-1 Glimpse of Freedom
 1 Negate
+1 Glimpse of Freedom
 1 Bedlam Reveler
+1 Smash to Smithereens
 1 Shattering Spree
 1 Magus of the Moon
 1 Shark Typhoon
@@ -108,27 +107,31 @@
 2 Mutagenic Growth
 2 Threads of Disloyalty
 1 Teferi, Time Raveler
-1 Chalice of the Void
 1 Monastery Mentor
+1 Chalice of the Void
 1 Meddling Mage
 1 Dovin's Veto
 2 Chalice of the Void
 2 Meddling Mage
 2 Force of Negation
 3 Spell Pierce
-1 Elder Gargaroth
-2 Elder Gargaroth
-3 Engineered Explosives
-3 Ceremonious Rejection
 1 Saheeli, Sublime Artificer
 2 Saheeli, Sublime Artificer
 2 Shenanigans
 2 Dismember
 3 Saheeli, Sublime Artificer
+1 Elder Gargaroth
+2 Elder Gargaroth
+3 Engineered Explosives
+3 Ceremonious Rejection
 1 Destructive Revelry
 2 Destructive Revelry
 3 Alpine Moon
 3 Destructive Revelry
+1 Fiery Cannonade
+1 Lightning Axe
+2 Fiery Cannonade
+3 Shrine of Burning Rage
 1 Nihil Spellbomb
 1 Fatal Push
 1 Auriok Champion
@@ -136,31 +139,17 @@
 2 Fatal Push
 2 Auriok Champion
 3 Mystical Dispute
-3 Fatal Push
 3 Auriok Champion
-1 Fiery Cannonade
-1 Lightning Axe
-2 Fiery Cannonade
-3 Shrine of Burning Rage
-1 Pyrite Spellbomb
-1 Phoenix of Ash
-1 Claim the Firstborn
-1 Ruination Rioter
-1 Boom/Bust
-2 Phoenix of Ash
-2 Pyrite Spellbomb
-2 Pyroclasm
-2 Claim the Firstborn
-2 Smash to Smithereens
-3 Pyroclasm
+3 Fatal Push
 2 Wear/Tear
 4 Kor Firewalker
+1 Pyroclasm
 4 Cleansing Wildfire
 4 Dragon's Claw
-4 Path to Exile
 4 Abrade
-1 Molten Rain
+4 Path to Exile
 1 Ravenous Trap
+1 Molten Rain
 2 Molten Rain
 2 Ravenous Trap
 3 Ravenous Trap

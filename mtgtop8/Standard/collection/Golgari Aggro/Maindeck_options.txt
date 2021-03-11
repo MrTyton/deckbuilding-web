@@ -12,8 +12,8 @@
 1 Acolyte of Affliction
 2 Ice Tunnel
 2 Narfi, Betrayer King
-2 Rimewood Falls
 2 Snow-Covered Island
+2 Rimewood Falls
 2 Acolyte of Affliction
 1 Mire Triton
 2 Mire Triton
@@ -32,8 +32,8 @@
 1 Cling to Dust
 1 Priest of the Haunted Edge
 1 Excavation Mole
-2 Dead Weight
 2 Priest of the Haunted Edge
+2 Dead Weight
 2 Excavation Mole
 3 Ice Tunnel
 3 Narfi, Betrayer King
@@ -66,8 +66,8 @@
 1 Questing Beast
 1 Gemrazer
 2 Gemrazer
-3 Gemrazer
 3 The Great Henge
+3 Gemrazer
 1 Ram Through
 1 Scavenging Ooze
 2 Scavenging Ooze
@@ -87,80 +87,52 @@
 1 Sculptor of Winter
 2 Sculptor of Winter
 3 Sculptor of Winter
-1 Sarulf, Realm Eater
-1 Ashiok, Nightmare Muse
-1 Frantic Inventory
-1 Poison the Cup
-1 Port of Karfell
-1 Thrashing Brontodon
-1 Feed the Swarm
-1 Behold the Multiverse
-1 Ugin, the Spirit Dragon
-1 Chainweb Aracnir
-2 Frantic Inventory
-2 Port of Karfell
-2 Feed the Swarm
-2 Chainweb Aracnir
-2 Poison the Cup
-2 Thrashing Brontodon
-2 Behold the Multiverse
-2 Elspeth's Nightmare
-3 Snow-Covered Island
-3 Behold the Multiverse
-3 Frantic Inventory
-3 Chainweb Aracnir
-4 Frantic Inventory
 1 Brokkos, Apex of Forever
 2 Cling to Dust
 4 Ice Tunnel
-1 Indatha Triome
-2 Indatha Triome
-3 Indatha Triome
-4 Fabled Passage
-4 Indatha Triome
-4 Toski, Bearer of Secrets
-1 Egon, God of Death
-1 Call of the Death-Dweller
-1 The Binding of the Titans
-1 Moss Viper
-1 Hooded Blightfang
-1 Fynn, the Fangbearer
-2 Egon, God of Death
-2 Call of the Death-Dweller
-2 Fynn, the Fangbearer
-2 Hooded Blightfang
-2 Moss Viper
-2 The Binding of the Titans
-3 Moss Viper
-3 The Binding of the Titans
-3 Jungle Hollow
-3 Fynn, the Fangbearer
-3 Hooded Blightfang
-4 Jungle Hollow
-4 Moss Viper
-4 Hooded Blightfang
-4 The Binding of the Titans
-4 Fynn, the Fangbearer
-1 Swarm Shambler
-1 Castle Garenbrig
-1 Ashaya, Soul of the Wild
+1 Sarulf, Realm Eater
+1 Ashiok, Nightmare Muse
+1 Frantic Inventory
+1 Port of Karfell
+1 Poison the Cup
+1 Feed the Swarm
+1 Behold the Multiverse
+1 Thrashing Brontodon
+1 Ugin, the Spirit Dragon
+1 Chainweb Aracnir
+2 Port of Karfell
+2 Thrashing Brontodon
+2 Frantic Inventory
+2 Feed the Swarm
+2 Chainweb Aracnir
+2 Poison the Cup
+2 Behold the Multiverse
+2 Elspeth's Nightmare
+3 Behold the Multiverse
+3 Snow-Covered Island
+3 Frantic Inventory
+3 Chainweb Aracnir
+4 Frantic Inventory
 1 Bonders' Enclave
-1 Snakeskin Veil
+1 Ashaya, Soul of the Wild
+1 Castle Garenbrig
 1 Garruk, Unleashed
+1 Snakeskin Veil
 1 Stonecoil Serpent
-1 Tangled Florahedron
 1 Skyclave Shade
-2 Swarm Shambler
+1 Swarm Shambler
+1 Tangled Florahedron
+2 Tangled Florahedron
+2 Snakeskin Veil
 2 Castle Garenbrig
 2 Stonecoil Serpent
-2 Snakeskin Veil
 2 Skyclave Shade
-2 Tangled Florahedron
-3 Castle Garenbrig
+2 Swarm Shambler
 3 Scavenging Ooze
+3 Castle Garenbrig
 3 Stonecoil Serpent
-4 Gemrazer
 4 Stonecoil Serpent
+4 Gemrazer
 1 Eliminate
 1 Massacre Wurm
 1 Faceless Haven
@@ -171,11 +143,17 @@
 4 Faceless Haven
 1 Thassa, Deep-Dwelling
 4 Acolyte of Affliction
+1 Indatha Triome
+2 Indatha Triome
+3 Indatha Triome
+4 Indatha Triome
+4 Fabled Passage
+4 Toski, Bearer of Secrets
 1 Valki, God of Lies
 1 Blightstep Pathway
+1 Order of Midnight
 1 Cragcrown Pathway
 1 Vivien, Monsters' Advocate
-1 Order of Midnight
 1 Zagoth Triome
 2 Valki, God of Lies
 2 Blightstep Pathway
@@ -183,34 +161,56 @@
 2 Order of Midnight
 2 Cragcrown Pathway
 2 Agadeem's Awakening
-3 Blightstep Pathway
 3 Valki, God of Lies
+3 Blightstep Pathway
 3 Cragcrown Pathway
 4 Blightstep Pathway
 4 Heartless Act
 4 Cragcrown Pathway
+1 Hooded Blightfang
+1 Call of the Death-Dweller
+1 Egon, God of Death
+1 Fynn, the Fangbearer
+1 Moss Viper
+1 The Binding of the Titans
+2 Hooded Blightfang
+2 Call of the Death-Dweller
+2 Egon, God of Death
+2 Moss Viper
+2 Fynn, the Fangbearer
+2 The Binding of the Titans
+3 Hooded Blightfang
+3 Fynn, the Fangbearer
+3 Jungle Hollow
+3 The Binding of the Titans
+3 Moss Viper
+4 Fynn, the Fangbearer
+4 The Binding of the Titans
+4 Moss Viper
+4 Jungle Hollow
+4 Hooded Blightfang
 1 Jolrael, Mwonvuli Recluse
 1 Chevill, Bane of Monsters
 2 Jolrael, Mwonvuli Recluse
 2 Chevill, Bane of Monsters
 3 Jolrael, Mwonvuli Recluse
 7 Swamp
-1 Wolfwillow Haven
 1 Realmwalker
 1 Return Upon the Tide
 1 Grasp of Darkness
 1 Skemfar Avenger
 1 Boreal Outrider
 1 Thornmantle Striker
+1 Wolfwillow Haven
 1 Harald Unites the Elves
 1 Joraga Visionary
-2 Wolfwillow Haven
 2 Grasp of Darkness
 2 Boreal Outrider
+2 Wolfwillow Haven
 2 Joraga Visionary
-3 Wolfwillow Haven
-3 Harald, King of Skemfar
 3 Grasp of Darkness
+3 Harald, King of Skemfar
+3 Wolfwillow Haven
 3 Boreal Outrider
 4 Sculptor of Winter
 4 Harald, King of Skemfar
@@ -220,16 +220,16 @@
 8 Snow-Covered Forest
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
+1 Fiend Artisan
 1 Garruk's Uprising
 1 Oakhame Adversary
 1 Battle Mammoth
 1 Wildwood Patrol
 1 Tajuru Blightblade
 1 Keeper of Fables
-1 Fiend Artisan
 1 Gnottvold Recluse
-2 Oakhame Adversary
 2 Ram Through
+2 Oakhame Adversary
 2 Keeper of Fables
 2 Tajuru Blightblade
 2 Greater Sandwurm

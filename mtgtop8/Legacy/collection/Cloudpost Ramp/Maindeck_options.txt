@@ -1,35 +1,37 @@
-1 Green Sun's Zenith
-2 Primeval Titan
-2 Elvish Reclaimer
-2 Pithing Needle
-2 Green Sun's Zenith
-2 Expedition Map
-3 Elvish Reclaimer
-3 Primeval Titan
-3 Pithing Needle
-3 Green Sun's Zenith
-3 Expedition Map
-4 Elvish Reclaimer
-4 Green Sun's Zenith
-1 Crop Rotation
-1 Dark Depths
-1 Forest
-2 Crop Rotation
-2 Forest
-3 Crop Rotation
-3 Forest
-4 Forest
-4 Crop Rotation
-5 Forest
-6 Forest
-7 Forest
-1 Once Upon a Time
-1 Glacial Chasm
-2 Once Upon a Time
-3 Once Upon a Time
-4 Once Upon a Time
-4 Expedition Map
-4 Pithing Needle
+1 Blast Zone
+1 Cascading Cataracts
+1 Ancient Tomb
+1 Sorcerous Spyglass
+1 Grim Monolith
+1 Ugin, the Spirit Dragon
+1 Karn, the Great Creator
+2 Sorcerous Spyglass
+2 Ancient Tomb
+2 Grim Monolith
+2 Karn, the Great Creator
+3 Ancient Tomb
+3 Grim Monolith
+3 Karn, the Great Creator
+4 Karn, the Great Creator
+4 Ancient Tomb
+1 Ugin, the Ineffable
+1 Forsaken Monument
+1 City of Traitors
+1 Trinisphere
+1 Chalice of the Void
+2 Chalice of the Void
+3 Chalice of the Void
+1 Thought-Knot Seer
+1 Eldrazi Temple
+2 Thought-Knot Seer
+3 Thought-Knot Seer
+2 Golos, Tireless Pilgrim
+4 Chalice of the Void
+1 Basalt Monolith
+1 Inventors' Fair
+1 Wastes
+1 Stonecoil Serpent
+3 Vesuva
 2 Ugin, the Spirit Dragon
 2 Eldrazi Temple
 4 Thought-Knot Seer
@@ -39,11 +41,10 @@
 2 Ugin, the Ineffable
 2 Stonecoil Serpent
 4 Grim Monolith
-1 Misty Rainforest
-1 Maze of Ith
+1 Kozilek, Butcher of Truth
 3 Sorcerous Spyglass
-2 Walking Ballista
 2 City of Traitors
+2 Walking Ballista
 1 Urborg, Tomb of Yawgmoth
 3 Stonecoil Serpent
 4 Stonecoil Serpent
@@ -51,10 +52,9 @@
 1 All Is Dust
 1 Warping Wail
 2 Warping Wail
-1 Kozilek, Butcher of Truth
 1 Manifold Key
-1 Mazemind Tome
 1 Mystic Forge
+1 Mazemind Tome
 1 Thran Dynamo
 2 All Is Dust
 3 Walking Ballista
@@ -64,9 +64,9 @@
 1 Sphere of Resistance
 2 Sphere of Resistance
 1 Reality Smasher
+2 Blast Zone
 2 Ulamog, the Ceaseless Hunger
 2 Reality Smasher
-2 Blast Zone
 3 Reality Smasher
 2 Karakas
 3 Trinisphere
@@ -83,11 +83,18 @@
 3 Forsaken Monument
 3 Golos, Tireless Pilgrim
 4 Basalt Monolith
-1 Matter Reshaper
-2 Matter Reshaper
-3 Matter Reshaper
-4 Matter Reshaper
-4 Eldrazi Temple
+1 Snow-Covered Forest
+1 Prismatic Vista
+1 Mikokoro, Center of the Sea
+2 Snow-Covered Forest
+2 Spatial Contortion
+2 Prismatic Vista
+2 Cavern of Souls
+3 Snow-Covered Forest
+3 Warping Wail
+4 Snow-Covered Forest
+5 Snow-Covered Forest
+6 Snow-Covered Forest
 1 Ghost Quarter
 1 Living Wish
 1 Elvish Rejuvenator
@@ -99,15 +106,8 @@
 4 Living Wish
 8 Forest
 9 Forest
-1 Prismatic Vista
-1 Snow-Covered Forest
-1 Mikokoro, Center of the Sea
-2 Snow-Covered Forest
-2 Prismatic Vista
-2 Cavern of Souls
-2 Spatial Contortion
-3 Snow-Covered Forest
-3 Warping Wail
-4 Snow-Covered Forest
-5 Snow-Covered Forest
-6 Snow-Covered Forest
+1 Matter Reshaper
+2 Matter Reshaper
+3 Matter Reshaper
+4 Matter Reshaper
+4 Eldrazi Temple
