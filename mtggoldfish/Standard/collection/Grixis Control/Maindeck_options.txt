@@ -1,24 +1,22 @@
 2 Shatterskull Smashing
 1 Extinction Event
 1 Mazemind Tome
-1 Erebos's Intervention
 1 Fabled Passage
 2 Fabled Passage
-3 Island
+1 Erebos's Intervention
 3 Fabled Passage
+3 Island
 2 Eliminate
+1 Crawling Barrens
 2 Extinction Event
 2 Mazemind Tome
 3 Mazemind Tome
-1 Crawling Barrens
+1 Essence Scatter
 1 Disdainful Stroke
 4 Island
-1 Essence Scatter
-4 Fabled Passage
-2 Swamp
 2 Essence Scatter
 3 Mountain
-1 Temple of Malice
+4 Fabled Passage
 1 Blacklance Paragon
 1 Spikefield Hazard
 2 Spikefield Hazard
@@ -26,6 +24,8 @@
 3 Essence Scatter
 3 Blacklance Paragon
 4 Blacklance Paragon
+2 Swamp
+1 Temple of Malice
 1 Field of Ruin
 4 Valki, God of Lies
 2 Disdainful Stroke
@@ -38,8 +38,8 @@
 2 Fae of Wishes
 3 Fae of Wishes
 4 Fae of Wishes
-1 Fire Prophecy
 1 Soul Shatter
+1 Fire Prophecy
 1 Irencrag Feat
 2 Temple of Malice
 2 Crawling Barrens
@@ -52,11 +52,11 @@
 4 Temple of Malice
 3 Swamp
 5 Island
-2 Fire Prophecy
+1 Shadows' Verdict
 1 Swiftwater Cliffs
 2 Swiftwater Cliffs
-1 Lochmere Serpent
 1 Voracious Greatshark
+1 Lochmere Serpent
 1 Volatile Fjord
 2 Volatile Fjord
 1 Thassa's Intervention
@@ -64,6 +64,7 @@
 2 Poison the Cup
 3 Shatterskull Smashing
 3 Negate
+2 Fire Prophecy
 3 Fire Prophecy
 4 Fire Prophecy
 1 Castle Vantress
@@ -72,41 +73,6 @@
 4 Mazemind Tome
 3 Eliminate
 4 Eliminate
-1 Jwari Disruption
-1 Phoenix of Ash
-1 Kazuul's Fury
-1 Snow-Covered Mountain
-1 Snow-Covered Island
-1 Valakut Awakening
-1 Graven Lore
-1 Unleash Fury
-1 Lukka, Coppercoat Outcast
-1 Lutri, the Spellchaser
-1 Raking Claws
-1 Heraldic Banner
-2 Phoenix of Ash
-2 Kazuul's Fury
-2 Jwari Disruption
-2 Snow-Covered Mountain
-2 Graven Lore
-2 Snow-Covered Island
-2 Valakut Awakening
-2 Unleash Fury
-2 Raking Claws
-3 Snow-Covered Mountain
-3 Snow-Covered Island
-3 Raking Claws
-3 Unleash Fury
-4 Snow-Covered Mountain
-4 Snow-Covered Island
-4 Unleash Fury
-4 Raking Claws
-5 Snow-Covered Mountain
-5 Snow-Covered Island
-6 Snow-Covered Island
-6 Snow-Covered Mountain
-7 Snow-Covered Mountain
-7 Snow-Covered Island
 1 Malakir Rebirth
 2 Erebos's Intervention
 4 Mountain

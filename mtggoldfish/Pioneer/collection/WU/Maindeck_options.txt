@@ -1,30 +1,31 @@
+1 Elspeth Conquers Death
 3 Irrigated Farmland
-1 Sphinx's Revelation
 1 Geier Reach Sanitarium
-4 Shark Typhoon
 1 Commit/Memory
-3 Dig Through Time
-1 Search for Azcanta
 1 Syncopate
-3 Plains
-4 Teferi, Time Raveler
+1 Search for Azcanta
 1 Jace, Architect of Thought
 1 Blessed Alliance
-3 Fabled Passage
-4 Supreme Verdict
-4 Fabled Passage
-4 Censor
-1 Sea Gate Restoration
+4 Shark Typhoon
+3 Dig Through Time
+3 Plains
 2 Syncopate
+4 Teferi, Time Raveler
+3 Fabled Passage
+4 Fabled Passage
+1 Sea Gate Restoration
+4 Supreme Verdict
 1 Omen of the Sea
 2 Omen of the Sea
 3 Omen of the Sea
 4 Irrigated Farmland
-1 Ondu Inversion
 1 Temple of Enlightenment
 1 Last Breath
 2 Temple of Enlightenment
 2 Last Breath
+1 Elixir of Immortality
+4 Censor
+1 Ondu Inversion
 2 Settle the Wreckage
 1 Sunpetal Grove
 1 Breeding Pool
@@ -72,7 +73,6 @@
 3 Drowned Catacomb
 4 Godless Shrine
 1 Emeria's Call
-1 Elixir of Immortality
 1 Hengegate Pathway
 2 Hengegate Pathway
 3 Hengegate Pathway
@@ -85,8 +85,8 @@
 1 Selfless Savior
 1 Springleaf Drum
 1 Ensoul Artifact
-1 Alseid of Life's Bounty
 1 Darksteel Citadel
+1 Alseid of Life's Bounty
 1 All That Glitters
 2 Darksteel Citadel
 2 Ethereal Armor
@@ -103,8 +103,8 @@
 3 Ornithopter
 3 Curious Obsession
 3 Ethereal Armor
-3 Spire of Industry
 3 Gingerbrute
+3 Spire of Industry
 3 Ensoul Artifact
 3 All That Glitters
 3 Alseid of Life's Bounty
@@ -114,9 +114,9 @@
 4 Alseid of Life's Bounty
 4 All That Glitters
 4 Gingerbrute
+4 Spire of Industry
 4 Springleaf Drum
 4 Ensoul Artifact
-4 Spire of Industry
 3 Narset, Parter of Veils
 3 Oath of Kaya
 4 Fatal Push
@@ -145,9 +145,6 @@
 1 Neutralize
 1 Skyclave Cleric
 2 Skyclave Cleric
-1 Behold the Multiverse
-1 Blast Zone
-1 Void Shatter
 1 Isolated Chapel
 1 Skyclave Apparition
 2 Skyclave Apparition
@@ -173,22 +170,24 @@
 2 Staggering Insight
 3 Staggering Insight
 4 Staggering Insight
-1 Ashiok, Nightmare Muse
 6 Island
+1 Ashiok, Nightmare Muse
 1 Whirlwind Denial
 3 Castle Ardenvale
 1 Seal Away
-2 Void Shatter
 2 Search for Azcanta
 2 Detention Sphere
 3 Skyclave Cleric
 1 Saw It Coming
+1 Behold the Multiverse
 2 Behold the Multiverse
+1 Blast Zone
 2 Neutralize
+1 Void Shatter
 1 Extinction Event
-1 Clearwater Pathway
 1 Thought Erasure
 1 Charming Prince
+1 Clearwater Pathway
 1 The Raven's Warning
 2 Clearwater Pathway
 2 Isolated Chapel
@@ -215,8 +214,8 @@
 2 Disinformation Campaign
 2 Doom Foretold
 2 Starfield of Nyx
-3 Doom Foretold
 3 Yorion, Sky Nomad
+3 Doom Foretold
 4 Doom Foretold
 1 Day's Undoing
 1 Gideon of the Trials
@@ -225,23 +224,17 @@
 2 Hallowed Moonlight
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
-1 Rewind
-1 Torrential Gearhulk
-1 Quicken
-2 Rewind
-2 Quicken
-2 Torrential Gearhulk
 1 Stubborn Denial
 2 Stubborn Denial
 3 Stubborn Denial
-1 Brazen Borrower
 1 Sphinx of the Final Word
 1 Anticognition
 1 Fumigate
+1 Brazen Borrower
 1 Pearl Lake Ancient
 2 Brazen Borrower
-2 Anticognition
 2 Seal Away
+2 Anticognition
 3 Anticognition
 1 Approach of the Second Sun
 1 Supreme Will
@@ -252,9 +245,9 @@
 1 Ipnu Rivulet
 2 Mission Briefing
 2 Saw It Coming
+2 Silundi Vision
 2 Ipnu Rivulet
 2 Teferi, Master of Time
-2 Silundi Vision
 2 Approach of the Second Sun
 2 Mystic Sanctuary
 3 Approach of the Second Sun
@@ -264,6 +257,7 @@
 4 Speaker of the Heavens
 1 Jwari Disruption
 1 Horribly Awry
+2 Void Shatter
 2 Jwari Disruption
 2 Whirlwind Denial
 2 Horribly Awry
@@ -271,9 +265,9 @@
 4 Jwari Disruption
 4 Castle Ardenvale
 1 Temple of Deceit
+1 Eliminate
 1 Spell Queller
 1 Declaration in Stone
-1 Eliminate
 1 Prairie Stream
 2 Temple of Deceit
 2 Eliminate

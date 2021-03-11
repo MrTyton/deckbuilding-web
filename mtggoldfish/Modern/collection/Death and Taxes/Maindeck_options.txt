@@ -33,23 +33,23 @@
 3 Horizon Canopy
 1 Branchloft Pathway
 1 Temple Garden
-1 Oath of Nissa
+1 Forest
 1 Noble Hierarch
 1 Razorverge Thicket
 1 Eternal Witness
+1 Oath of Nissa
 1 Stirring Wildwood
-1 Forest
 2 Noble Hierarch
-2 Oath of Nissa
 2 Branchloft Pathway
 2 Forest
 2 Temple Garden
+2 Oath of Nissa
 2 Stirring Wildwood
 2 Razorverge Thicket
 2 Eternal Witness
-3 Oath of Nissa
 3 Branchloft Pathway
 3 Noble Hierarch
+3 Oath of Nissa
 3 Temple Garden
 3 Razorverge Thicket
 4 Branchloft Pathway
@@ -82,24 +82,24 @@
 3 Needleverge Pathway
 4 Needleverge Pathway
 1 Glasspool Mimic
-1 Mirran Crusader
-2 Mirran Crusader
 1 Scavenging Ooze
 2 Scavenging Ooze
+1 Mirran Crusader
+2 Mirran Crusader
 3 Shalai, Voice of Plenty
 2 Batterskull
 3 Winds of Abandon
-1 Seasoned Pyromancer
-1 Mountain
-1 Seal of Fire
 1 Sacred Foundry
+1 Seal of Fire
 1 Lurrus of the Dream-Den
+1 Mountain
 1 Rugged Prairie
-2 Sacred Foundry
+1 Seasoned Pyromancer
 2 Lurrus of the Dream-Den
-2 Seasoned Pyromancer
-2 Rugged Prairie
+2 Sacred Foundry
 2 Seal of Fire
+2 Rugged Prairie
+2 Seasoned Pyromancer
 3 Lurrus of the Dream-Den
 3 Seal of Fire
 3 Sacred Foundry
@@ -124,8 +124,8 @@
 1 Sword of Light and Shadow
 1 Reidane, God of the Worthy
 1 Spellskite
-2 Spellskite
 2 Reidane, God of the Worthy
+2 Spellskite
 2 Flagstones of Trokair
 3 Flagstones of Trokair
 1 Snow-Covered Mountain

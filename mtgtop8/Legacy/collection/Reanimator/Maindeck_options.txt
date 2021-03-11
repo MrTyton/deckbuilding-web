@@ -1,13 +1,15 @@
+3 Polluted Delta
+1 Sire of Insanity
+2 Swamp
+1 Iona, Shield of Emeria
 3 Marsh Flats
 4 Marsh Flats
 1 Tendrils of Agony
 1 Children of Korlis
-3 Badlands
-1 Sire of Insanity
-2 Swamp
-1 Iona, Shield of Emeria
+1 Ashen Rider
 2 Verdant Catacombs
 3 Verdant Catacombs
+1 Collective Brutality
 1 Tropical Island
 1 Brainstorm
 1 Ponder
@@ -58,6 +60,10 @@
 2 Abundant Growth
 3 Abundant Growth
 4 Abundant Growth
+1 Duress
+1 Pathrazer of Ulamog
+2 Duress
+2 Scrubland
 1 Mountain
 2 Chrome Mox
 2 Drown in the Loch
@@ -65,7 +71,6 @@
 1 Cabal Therapy
 2 Cabal Therapy
 3 Swamp
-1 Collective Brutality
 1 Intuition
 1 Force of Negation
 1 Toxic Deluge
@@ -85,11 +90,6 @@
 1 Blood Crypt
 1 Godless Shrine
 2 Blood Crypt
-1 Duress
-1 Pathrazer of Ulamog
-1 Ashen Rider
-2 Duress
-2 Scrubland
 1 Jace, the Mind Sculptor
 1 Opposition Agent
 1 Flooded Strand
@@ -108,8 +108,8 @@
 1 Careful Study
 1 Elesh Norn, Grand Cenobite
 1 Tidespout Tyrant
-2 Careful Study
 2 Underground Sea
+2 Careful Study
 2 Daze
 3 Careful Study
 3 Underground Sea
@@ -131,6 +131,7 @@
 4 Swamp
 4 Grave Titan
 4 Collective Brutality
+5 Swamp
 6 Swamp
 7 Swamp
 8 Swamp
@@ -145,4 +146,3 @@
 17 Swamp
 18 Swamp
 19 Swamp
-5 Swamp

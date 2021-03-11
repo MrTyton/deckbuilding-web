@@ -45,13 +45,13 @@
 2 Archon of Emeria
 1 Rimewood Falls
 1 Glasspool Mimic
+1 Plains
 1 Collected Company
 1 Gavony Township
 1 Deputy of Detention
 1 Island
 1 Razorverge Thicket
 1 Horizon Canopy
-1 Plains
 2 Collected Company
 2 Deputy of Detention
 2 Horizon Canopy
@@ -69,26 +69,26 @@
 2 Meddling Mage
 3 Meddling Mage
 1 Deprive
-1 Scalding Tarn
 1 Oust
+1 Scalding Tarn
 1 Flooded Grove
 2 Oust
 3 Archmage's Charm
 4 Archon of Emeria
 1 Niambi, Esteemed Speaker
 1 Opt
-2 Opt
 2 Field of Ruin
+2 Opt
 3 Opt
 4 Opt
 1 Abundant Growth
-1 Omen of the Sea
 1 Esika's Chariot
+1 Omen of the Sea
 2 Abundant Growth
 2 Omen of the Sea
 3 Abundant Growth
-3 Omen of the Sea
 3 Prismatic Vista
+3 Omen of the Sea
 4 Birds of Paradise
 4 Prismatic Vista
 4 Omen of the Sea
@@ -105,21 +105,21 @@
 1 Maul of the Skyclaves
 1 Geist of Saint Traft
 4 Collected Company
-1 Blast Zone
-1 Growth Spiral
-1 Ghost Quarter
-1 Castle Garenbrig
-1 Cavern of Souls
-2 Growth Spiral
-3 Snow-Covered Plains
-3 Growth Spiral
-4 Growth Spiral
 1 Snapcaster Mage
 1 Shark Typhoon
 1 Arctic Treeline
 1 Polluted Delta
 2 Snapcaster Mage
 2 Shark Typhoon
+3 Field of Ruin
 5 Snow-Covered Island
 6 Snow-Covered Island
-3 Field of Ruin
+1 Growth Spiral
+1 Blast Zone
+1 Ghost Quarter
+1 Castle Garenbrig
+1 Cavern of Souls
+2 Growth Spiral
+3 Growth Spiral
+4 Growth Spiral
+3 Snow-Covered Plains

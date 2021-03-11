@@ -2,37 +2,8 @@
 4 Drown in the Loch
 4 Island
 4 Fatal Push
-1 Soaring Thought-Thief
-1 Scalding Tarn
-1 Ancestral Vision
-1 Eliminate
-1 Mishra's Bauble
-1 Mana Leak
-1 Darkslick Shores
-1 Thieves' Guild Enforcer
-1 Clearwater Pathway
-2 Soaring Thought-Thief
-2 Scalding Tarn
-2 Ancestral Vision
-2 Mishra's Bauble
-2 Spell Snare
-2 Mana Leak
-2 Thieves' Guild Enforcer
-2 Darkslick Shores
-3 Soaring Thought-Thief
-3 Cling to Dust
-3 Ancestral Vision
-3 Scalding Tarn
-3 Darkslick Shores
-3 Mishra's Bauble
-3 Thieves' Guild Enforcer
-4 Soaring Thought-Thief
-4 Ancestral Vision
-4 Darkslick Shores
-4 Snapcaster Mage
-4 Mishra's Bauble
-4 Thieves' Guild Enforcer
 1 Sire of Insanity
+1 Primeval Titan
 1 Blast Zone
 1 Overgrown Tomb
 1 Castle Garenbrig
@@ -52,12 +23,12 @@
 1 Snow-Covered Forest
 1 Gyruda, Doom of Depths
 1 Cavern of Souls
-1 Primeval Titan
 1 Radiant Fountain
 1 Farseek
 1 Mwonvuli Acid-Moss
 1 Forest
 1 Sakura-Tribe Elder
+2 Primeval Titan
 2 Overgrown Tomb
 2 Verdant Catacombs
 2 Chalice of the Void
@@ -73,7 +44,6 @@
 2 Castle Garenbrig
 2 Sylvan Caryatid
 2 Farseek
-2 Primeval Titan
 2 Sakura-Tribe Elder
 2 Cavern of Souls
 3 Chalice of the Void
@@ -91,41 +61,71 @@
 4 Sakura-Tribe Elder
 4 Mwonvuli Acid-Moss
 4 Primeval Titan
+1 Scalding Tarn
+1 Eliminate
+1 Ancestral Vision
+1 Mishra's Bauble
+1 Thieves' Guild Enforcer
+1 Mana Leak
+1 Darkslick Shores
+1 Soaring Thought-Thief
+1 Clearwater Pathway
+2 Scalding Tarn
+2 Ancestral Vision
+2 Mishra's Bauble
+2 Spell Snare
+2 Thieves' Guild Enforcer
+2 Mana Leak
+2 Soaring Thought-Thief
+2 Darkslick Shores
+3 Cling to Dust
+3 Scalding Tarn
+3 Darkslick Shores
+3 Ancestral Vision
+3 Mishra's Bauble
+3 Thieves' Guild Enforcer
+3 Soaring Thought-Thief
+4 Snapcaster Mage
+4 Mishra's Bauble
+4 Thieves' Guild Enforcer
+4 Darkslick Shores
+4 Ancestral Vision
+4 Soaring Thought-Thief
+1 Kroxa, Titan of Death's Hunger
 1 Magmatic Channeler
 1 Marsh Flats
-1 Kroxa, Titan of Death's Hunger
 1 Nurturing Peatland
 2 Mountain
 2 Magmatic Channeler
 2 Marsh Flats
 2 Kroxa, Titan of Death's Hunger
-3 Marsh Flats
+3 Magmatic Channeler
+3 Kroxa, Titan of Death's Hunger
 3 Seasoned Pyromancer
 3 Blackcleave Cliffs
-3 Magmatic Channeler
+3 Marsh Flats
 3 Thoughtseize
 3 Blood Crypt
-3 Kroxa, Titan of Death's Hunger
-4 Marsh Flats
-4 Liliana of the Veil
 4 Blood Crypt
-4 Kroxa, Titan of Death's Hunger
+4 Magmatic Channeler
 4 Seasoned Pyromancer
 4 Blackcleave Cliffs
-4 Magmatic Channeler
+4 Kroxa, Titan of Death's Hunger
+4 Marsh Flats
 4 Thoughtseize
+4 Liliana of the Veil
 1 Mazemind Tome
 1 Smoldering Marsh
-1 Graven Cairns
 1 Collective Brutality
+1 Graven Cairns
 1 Liliana, Waker of the Dead
 1 Rakdos Charm
 1 Chandra, Acolyte of Flame
 1 Ensnaring Bridge
 1 Dragonskull Summit
 2 Mazemind Tome
-2 Chandra, Torch of Defiance
 2 Collective Brutality
+2 Chandra, Torch of Defiance
 2 Ensnaring Bridge
 3 Chandra, Torch of Defiance
 3 Mazemind Tome
@@ -136,17 +136,17 @@
 5 Swamp
 6 Swamp
 1 Cryptic Command
+1 Sunken Ruins
 1 Into the Story
 1 Misty Rainforest
 1 Thought Scour
 1 Bloodchief's Thirst
-1 Castle Vantress
 1 Force of Negation
+1 Castle Vantress
 1 River of Tears
 1 Jace, the Mind Sculptor
 1 Flooded Strand
 1 Shark Typhoon
-1 Sunken Ruins
 2 Cryptic Command
 2 Misty Rainforest
 2 Castle Vantress
@@ -157,11 +157,11 @@
 2 River of Tears
 2 Into the Story
 3 Shark Typhoon
-3 River of Tears
 3 Thought Scour
 3 Cryptic Command
+3 River of Tears
 4 Shark Typhoon
-4 Archmage's Charm
 4 Thought Scour
+4 Archmage's Charm
 5 Island
 6 Island

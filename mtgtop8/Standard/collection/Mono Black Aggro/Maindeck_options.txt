@@ -10,26 +10,6 @@
 1 Crawling Barrens
 2 Crawling Barrens
 1 Ayara, First of Locthwain
-1 Egon, God of Death
-1 Demonic Embrace
-1 Aphemia, the Cacophony
-2 Hateful Eidolon
-2 Egon, God of Death
-2 Demonic Embrace
-2 Mogis's Favor
-2 Aphemia, the Cacophony
-3 Hateful Eidolon
-3 Egon, God of Death
-3 Mire's Grasp
-3 Mogis's Favor
-3 Aphemia, the Cacophony
-3 Demonic Embrace
-4 Egon, God of Death
-4 Hateful Eidolon
-4 Mogis's Favor
-4 Mire's Grasp
-4 Mire Triton
-4 Aphemia, the Cacophony
 1 Ghastly Gloomhunter
 1 Withercrown
 1 Malefic Scythe
@@ -39,16 +19,36 @@
 2 Demonic Gifts
 2 Withercrown
 4 Village Rites
+1 Demonic Embrace
+1 Egon, God of Death
+1 Aphemia, the Cacophony
+2 Demonic Embrace
+2 Egon, God of Death
+2 Mogis's Favor
+2 Aphemia, the Cacophony
+2 Hateful Eidolon
+3 Egon, God of Death
+3 Aphemia, the Cacophony
+3 Mire's Grasp
+3 Mogis's Favor
+3 Hateful Eidolon
+3 Demonic Embrace
+4 Egon, God of Death
+4 Mire Triton
+4 Mire's Grasp
+4 Mogis's Favor
+4 Aphemia, the Cacophony
+4 Hateful Eidolon
 1 Massacre Wurm
-1 Erebos, Bleak-Hearted
 1 Nighthawk Scavenger
 1 Kaervek, the Spiteful
 1 Syr Konrad, the Grim
-2 Ayara, First of Locthwain
-2 Fiend Artisan
+1 Erebos, Bleak-Hearted
 2 Kaervek, the Spiteful
 2 Erebos, Bleak-Hearted
+2 Fiend Artisan
 2 Nighthawk Scavenger
+2 Ayara, First of Locthwain
 3 Castle Locthwain
 3 Bloodchief's Thirst
 3 Nighthawk Scavenger
@@ -65,8 +65,8 @@
 1 Revenge of Ravens
 1 Smitten Swordmaster
 1 Sanctum of Stone Fangs
-2 Blacklance Paragon
 2 Cosmos Elixir
+2 Blacklance Paragon
 2 Foulmire Knight
 2 Eat to Extinction
 2 Clackbridge Troll
@@ -77,11 +77,11 @@
 3 Blacklance Paragon
 3 Crawling Barrens
 3 Foulmire Knight
-3 Vito, Thorn of the Dusk Rose
 3 Eat to Extinction
 3 Extinction Event
 3 Smitten Swordmaster
 3 Sanctum of Stone Fangs
+3 Vito, Thorn of the Dusk Rose
 3 Revenge of Ravens
 4 Blacklance Paragon
 4 Murderous Rider
@@ -93,28 +93,28 @@
 4 Revenge of Ravens
 1 Acquisitions Expert
 1 Snow-Covered Swamp
-1 Bastion of Remembrance
 1 Elderfang Disciple
 1 Lampad of Death's Vigil
+1 Bastion of Remembrance
 1 Duskwielder
 1 Woe Strider
 2 Acquisitions Expert
-2 Bastion of Remembrance
 2 Snow-Covered Swamp
 2 Elderfang Disciple
 2 Feed the Swarm
+2 Bastion of Remembrance
 2 Duskwielder
 2 Lampad of Death's Vigil
 3 Elderfang Disciple
-3 Bastion of Remembrance
 3 Snow-Covered Swamp
 3 Acquisitions Expert
 3 Feed the Swarm
 3 Lampad of Death's Vigil
+3 Bastion of Remembrance
 4 Snow-Covered Swamp
-4 Bastion of Remembrance
 4 Lampad of Death's Vigil
 4 Feed the Swarm
+4 Bastion of Remembrance
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
@@ -132,26 +132,26 @@
 19 Snow-Covered Swamp
 20 Snow-Covered Swamp
 21 Snow-Covered Swamp
-1 Grimdancer
-1 Tymaret, Chosen from Death
 1 Heraldic Banner
 1 Kitesail Freebooter
+1 Grimdancer
+1 Tymaret, Chosen from Death
 1 Drag to the Underworld
 1 Whisper Squad
-2 Grimdancer
-2 Tymaret, Chosen from Death
-2 Heraldic Banner
 2 Kitesail Freebooter
 2 Drag to the Underworld
+2 Tymaret, Chosen from Death
+2 Heraldic Banner
 2 Whisper Squad
+2 Grimdancer
+3 Kitesail Freebooter
+3 Tymaret, Chosen from Death
+3 Whisper Squad
 3 Grimdancer
 3 Gray Merchant of Asphodel
-3 Tymaret, Chosen from Death
-3 Kitesail Freebooter
-3 Whisper Squad
 3 Heraldic Banner
-4 Grimdancer
-4 Gray Merchant of Asphodel
 4 Whisper Squad
 4 Heraldic Banner
+4 Grimdancer
+4 Gray Merchant of Asphodel
 21 Swamp
