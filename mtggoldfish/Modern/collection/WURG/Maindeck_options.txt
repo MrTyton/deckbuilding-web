@@ -23,9 +23,9 @@
 3 Windswept Heath
 3 Stoneforge Mystic
 3 Spell Queller
-4 Mana Leak
 4 Stoneforge Mystic
 4 Noble Hierarch
+4 Mana Leak
 3 Snow-Covered Forest
 4 Spell Queller
 3 Tireless Tracker
@@ -38,8 +38,8 @@
 2 On Thin Ice
 3 Snow-Covered Island
 4 Snapcaster Mage
-1 Watery Grave
 1 Polluted Delta
+1 Watery Grave
 2 Polluted Delta
 3 Polluted Delta
 4 Polluted Delta
@@ -53,9 +53,9 @@
 1 Opt
 2 Opt
 3 Opt
+1 Swamp
 1 Godless Shrine
 1 Kaya's Guile
-1 Swamp
 1 Esper Charm
 2 Kaya's Guile
 2 Esper Charm
@@ -104,13 +104,13 @@
 1 Tasigur, the Golden Fang
 1 Cling to Dust
 1 River of Tears
+2 Spell Snare
 2 Watery Grave
 2 Cling to Dust
-2 Spell Snare
 3 Jace, the Mind Sculptor
 3 Fatal Push
-4 Fatal Push
 4 Snow-Covered Island
+4 Fatal Push
 4 Drown in the Loch
 1 Eliminate
 1 Logic Knot
@@ -125,8 +125,8 @@
 1 Cosima, God of the Voyage
 1 Emrakul, the Aeons Torn
 2 Nahiri, the Harbinger
-3 Lightning Helix
 3 Nahiri, the Harbinger
+3 Lightning Helix
 1 Sunken Ruins
 1 Damnation
 1 Castle Vantress

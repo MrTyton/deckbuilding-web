@@ -1,8 +1,5 @@
-5 Island
 2 Castle Vantress
-1 Cast Out
-2 Dovin's Veto
-3 Castle Ardenvale
+1 Settle the Wreckage
 4 Irrigated Farmland
 1 Omen of the Sun
 1 Jace, Architect of Thought
@@ -19,12 +16,14 @@
 2 Isolate
 2 Elspeth Conquers Death
 2 Omen of the Sea
+2 Dovin's Veto
 3 Field of Ruin
 3 Omen of the Sun
 3 Isolate
 3 Elspeth Conquers Death
-3 Omen of the Sea
 3 Blessed Alliance
+3 Omen of the Sea
+3 Castle Ardenvale
 3 Syncopate
 3 Narset, Parter of Veils
 4 Supreme Verdict
@@ -32,8 +31,8 @@
 4 Omen of the Sun
 4 Omen of the Sea
 6 Island
-1 Void Shatter
 1 Mystical Dispute
+1 Cast Out
 1 Seal Away
 2 Mystical Dispute
 4 Censor
@@ -46,11 +45,12 @@
 1 Silundi Vision
 1 Saw It Coming
 1 Search for Azcanta
+1 Void Shatter
 1 Hengegate Pathway
 1 Ipnu Rivulet
+1 Mystic Sanctuary
 1 Teferi, Master of Time
 1 Mission Briefing
-1 Mystic Sanctuary
 1 Supreme Will
 1 Approach of the Second Sun
 1 Behold the Multiverse
@@ -58,33 +58,16 @@
 2 Search for Azcanta
 2 Settle the Wreckage
 2 Hengegate Pathway
-2 Mystic Sanctuary
 2 Teferi, Master of Time
-2 Silundi Vision
 2 Ipnu Rivulet
+2 Silundi Vision
+2 Mystic Sanctuary
 2 Mission Briefing
 2 Approach of the Second Sun
 2 Behold the Multiverse
 3 Hengegate Pathway
 3 Approach of the Second Sun
 4 Hengegate Pathway
-1 Neutralize
-1 Whirlwind Denial
-1 Horribly Awry
-1 Jwari Disruption
-1 Skyclave Cleric
-1 Blast Zone
-2 Neutralize
-2 Void Shatter
-2 Horribly Awry
-2 Whirlwind Denial
-2 Jwari Disruption
-2 Skyclave Cleric
-3 Skyclave Cleric
-3 Jwari Disruption
-3 Dovin's Veto
-4 Castle Ardenvale
-4 Jwari Disruption
 1 Growth Spiral
 1 Breeding Pool
 1 Sinister Sabotage
@@ -120,8 +103,8 @@
 3 Growth Spiral
 3 Breeding Pool
 3 Zagoth Triome
-3 Sinister Sabotage
 3 Wilderness Reclamation
+3 Sinister Sabotage
 3 Uro, Titan of Nature's Wrath
 3 Watery Grave
 4 Zagoth Triome

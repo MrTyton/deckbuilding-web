@@ -49,8 +49,8 @@
 |                     |                                                                                                  |                    1|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682) |
 |                     |                                                                                                  |                    1|[Cabal Therapy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413625)       |
 |                     |                                                                                                  |                    2|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682) |
-|                     |                                                                                                  |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682) |
 |                     |                                                                                                  |                    3|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)        |
+|                     |                                                                                                  |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682) |
 |                     |                                                                                                  |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682) |
 |                     |                                                                                                  |                    4|[Xantid Swarm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413735)        |
 

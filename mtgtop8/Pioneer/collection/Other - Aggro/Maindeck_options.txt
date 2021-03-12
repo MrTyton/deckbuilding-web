@@ -1,65 +1,9 @@
 3 Nighthawk Scavenger
 4 Glint-Sleeve Siphoner
-1 Mutavault
-2 Mutavault
-3 Mutavault
-1 Brightclimb Pathway
-1 Godless Shrine
-2 Godless Shrine
-2 Brightclimb Pathway
-3 Brightclimb Pathway
-4 Brightclimb Pathway
-1 Caves of Koilos
-2 Caves of Koilos
-3 Caves of Koilos
-4 Caves of Koilos
-1 Concealed Courtyard
-1 Bloodsoaked Champion
-2 Concealed Courtyard
-2 Bloodsoaked Champion
-3 Concealed Courtyard
-3 Godless Shrine
-3 Bloodsoaked Champion
-4 Godless Shrine
-4 Mutavault
-1 Kor Blademaster
-1 Mardu Woe-Reaper
-1 Shadowspear
-1 Wishclaw Talisman
-1 Gods Willing
-1 Open the Armory
-1 Sigarda's Aid
-1 Resolute Strike
-1 Colossus Hammer
-1 Blood-Chin Rager
-2 Mardu Woe-Reaper
-2 Gods Willing
-2 Sigarda's Aid
-2 Resolute Strike
-2 Colossus Hammer
-2 Kor Blademaster
-2 Blood-Chin Rager
-2 Open the Armory
-2 Wishclaw Talisman
-3 Mardu Woe-Reaper
-3 Kor Blademaster
-3 Open the Armory
-3 Sigarda's Aid
-3 Resolute Strike
-3 Colossus Hammer
-3 Blood-Chin Rager
-4 Mardu Woe-Reaper
-4 Sigarda's Aid
-4 Open the Armory
-4 Concealed Courtyard
-4 Colossus Hammer
-4 Resolute Strike
-4 Kor Blademaster
-1 Heartless Act
 1 Blooming Marsh
 2 Blooming Marsh
-1 Overgrown Tomb
 1 Forest
+1 Overgrown Tomb
 1 Blood Crypt
 1 Zetalpa, Primal Dawn
 1 Soulflayer
@@ -83,25 +27,81 @@
 2 Stitcher's Supplier
 2 Grapple with the Past
 3 Overgrown Tomb
-3 Blooming Marsh
 3 Grisly Salvage
 3 Zetalpa, Primal Dawn
 3 Soulflayer
 3 Traverse the Ulvenwald
 3 Stitcher's Supplier
-4 Blooming Marsh
+3 Blooming Marsh
 4 Soulflayer
 4 Zetalpa, Primal Dawn
 4 Grisly Salvage
 4 Stitcher's Supplier
-1 Plains
+4 Blooming Marsh
+1 Heartless Act
 2 Agadeem's Awakening
 1 Magmatic Channeler
 3 Woodland Cemetery
+1 Mutavault
+2 Mutavault
+3 Mutavault
+1 Brightclimb Pathway
+1 Godless Shrine
+2 Godless Shrine
+2 Brightclimb Pathway
+3 Brightclimb Pathway
+4 Brightclimb Pathway
+1 Plains
+1 Caves of Koilos
+2 Caves of Koilos
+3 Caves of Koilos
+4 Caves of Koilos
+1 Concealed Courtyard
+1 Bloodsoaked Champion
+2 Concealed Courtyard
+2 Bloodsoaked Champion
+3 Concealed Courtyard
+3 Godless Shrine
+3 Bloodsoaked Champion
+4 Godless Shrine
+4 Mutavault
+1 Kor Blademaster
+1 Mardu Woe-Reaper
+1 Shadowspear
+1 Wishclaw Talisman
+1 Gods Willing
+1 Open the Armory
+1 Sigarda's Aid
+1 Resolute Strike
 1 Dragon Hunter
+1 Colossus Hammer
+1 Blood-Chin Rager
+2 Mardu Woe-Reaper
+2 Gods Willing
+2 Sigarda's Aid
+2 Resolute Strike
+2 Colossus Hammer
 2 Dragon Hunter
+2 Kor Blademaster
+2 Blood-Chin Rager
+2 Open the Armory
+2 Wishclaw Talisman
+3 Mardu Woe-Reaper
+3 Kor Blademaster
+3 Open the Armory
+3 Sigarda's Aid
+3 Resolute Strike
+3 Colossus Hammer
 3 Dragon Hunter
+3 Blood-Chin Rager
+4 Mardu Woe-Reaper
+4 Sigarda's Aid
+4 Open the Armory
+4 Concealed Courtyard
+4 Colossus Hammer
+4 Resolute Strike
 4 Dragon Hunter
+4 Kor Blademaster
 1 Murderous Rider
 2 Murderous Rider
 3 Murderous Rider
@@ -191,10 +191,10 @@
 1 Judith, the Scourge Diva
 1 Charming Prince
 1 Hostage Taker
+1 Pyre of Heroes
 1 Drannith Magistrate
 1 General Kudro of Drannith
 1 Reflector Mage
-1 Pyre of Heroes
 1 Basri's Lieutenant
 1 Kaervek, the Spiteful
 1 Xathrid Necromancer
@@ -222,11 +222,6 @@
 4 Unclaimed Territory
 4 Mana Confluence
 4 Archfiend's Vessel
-1 Mardu Shadowspear
-2 Mardu Shadowspear
-3 Mardu Shadowspear
-3 Wishclaw Talisman
-4 Mardu Shadowspear
 4 Grapple with the Past
 4 Cathartic Reunion
 2 Plains
@@ -267,9 +262,9 @@
 2 Conclave Tribunal
 2 Battle for Bretagard
 2 Call of the Conclave
+2 Shefet Dunes
 2 Declaration in Stone
 2 Wayfaring Temple
-2 Shefet Dunes
 3 Esika's Chariot
 3 Starnheim Unleashed
 3 Voice of Resurgence

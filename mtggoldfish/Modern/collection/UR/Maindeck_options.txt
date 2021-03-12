@@ -1,16 +1,16 @@
-1 Monastery Swiftspear
+1 Soul-Scar Mage
+2 Monastery Swiftspear
 2 Lava Dart
 2 Light Up the Stage
-2 Monastery Swiftspear
 2 Soul-Scar Mage
-3 Light Up the Stage
-3 Lava Dart
 3 Monastery Swiftspear
+3 Lava Dart
+3 Light Up the Stage
 3 Soul-Scar Mage
+4 Monastery Swiftspear
 4 Light Up the Stage
 4 Lava Dart
 4 Soul-Scar Mage
-4 Monastery Swiftspear
 1 Manamorphose
 2 Manamorphose
 3 Manamorphose
@@ -24,16 +24,16 @@
 1 Mana Leak
 1 Sunbaked Canyon
 2 Sunbaked Canyon
-1 Mishra's Bauble
-2 Mishra's Bauble
-3 Mishra's Bauble
-4 Mishra's Bauble
-1 Polluted Delta
 1 Misty Rainforest
+1 Polluted Delta
 1 Shark Typhoon
 2 Shark Typhoon
 1 Bonecrusher Giant
 2 Bonecrusher Giant
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
+4 Mishra's Bauble
 1 Fiery Islet
 4 Mountain
 5 Mountain
@@ -82,9 +82,9 @@
 4 Lava Spike
 3 Force of Negation
 2 Mana Leak
-2 Polluted Delta
 1 Cascade Bluffs
 2 Cascade Bluffs
+2 Polluted Delta
 2 Misty Rainforest
 3 Misty Rainforest
 1 Kiln Fiend
@@ -97,13 +97,9 @@
 2 Magmatic Sinkhole
 3 Brazen Borrower
 4 Brazen Borrower
-1 Snow-Covered Mountain
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
 1 Burst Lightning
 2 Burst Lightning
+1 Snow-Covered Mountain
 1 Wild Slash
 2 Wild Slash
 4 Bedlam Reveler
@@ -111,31 +107,11 @@
 1 Gut Shot
 2 Gut Shot
 15 Mountain
-1 Minamo, School at Water's Edge
-1 Hallowed Fountain
-1 Urza, Lord High Artificer
-1 Metallic Rebuke
-1 Sword of the Meek
-1 Chromatic Star
-1 Mox Amber
-1 Pithing Needle
-1 Emry, Lurker of the Loch
-1 Thopter Foundry
-1 Engineered Explosives
-2 Mox Amber
-2 Urza, Lord High Artificer
-2 Emry, Lurker of the Loch
-2 Engineered Explosives
-2 Thopter Foundry
-2 Metallic Rebuke
-3 Urza, Lord High Artificer
-3 Engineered Explosives
-3 Metallic Rebuke
-3 Emry, Lurker of the Loch
-3 Thopter Foundry
-4 Emry, Lurker of the Loch
-4 Urza, Lord High Artificer
 3 Sulfur Falls
+1 Snow-Covered Island
+2 Snow-Covered Island
+3 Snow-Covered Island
+4 Snow-Covered Island
 5 Snow-Covered Island
 1 Serum Visions
 2 Serum Visions
@@ -143,10 +119,6 @@
 1 Wrenn and Six
 2 Wrenn and Six
 3 Wrenn and Six
-1 Glimmervoid
-1 Aether Spellbomb
-1 Lurrus of the Dream-Den
-3 Mox Amber
 1 Behold the Multiverse
 2 Behold the Multiverse
 1 Snow-Covered Forest
@@ -176,23 +148,6 @@
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
 4 Through the Breach
-1 Goblin Engineer
-1 Pyrite Spellbomb
-1 Soul-Guide Lantern
-1 Spire of Industry
-1 Teferi, Time Raveler
-1 Academy Ruins
-1 Snow-Covered Plains
-1 Raugrin Triome
-1 Witching Well
-2 Glimmervoid
-2 Goblin Engineer
-2 Snow-Covered Plains
-2 Spire of Industry
-2 Teferi, Time Raveler
-2 Sword of the Meek
-3 Goblin Engineer
-4 Goblin Engineer
 1 Ancestral Vision
 2 Ancestral Vision
 1 Fire Prophecy
@@ -203,10 +158,11 @@
 3 Gut Shot
 1 Wandering Fumarole
 1 Kiki-Jiki, Mirror Breaker
+1 Minamo, School at Water's Edge
 1 Valakut Awakening
 1 Deceiver Exarch
-1 Flusterstorm
 1 Riverglide Pathway
+1 Flusterstorm
 2 Deceiver Exarch
 2 Kiki-Jiki, Mirror Breaker
 3 Deceiver Exarch
@@ -215,19 +171,6 @@
 4 Serum Visions
 1 Flame Slash
 16 Mountain
-2 Chromatic Star
-1 Stoneforge Mystic
-1 Plains
-1 Batterskull
-1 Seachrome Coast
-2 Stoneforge Mystic
-2 Seachrome Coast
-3 Stoneforge Mystic
-4 Engineered Explosives
-4 Thopter Foundry
-4 Stoneforge Mystic
-3 Polluted Delta
-4 Polluted Delta
 3 Bonecrusher Giant
 1 Sprite Dragon
 2 Sprite Dragon
@@ -242,31 +185,12 @@
 1 Spell Pierce
 2 Spell Pierce
 3 Ancestral Vision
-1 Narset, Parter of Veils
 1 Vendilion Clique
+1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Mystic Sanctuary
-3 Teferi, Time Raveler
-1 Watery Grave
-1 Tezzeret, Agent of Bolas
-1 Nihil Spellbomb
-1 Swamp
-1 Darkslick Shores
-3 Seachrome Coast
-4 Mox Amber
-4 Seachrome Coast
 4 Deceiver Exarch
 4 Fiery Islet
-1 Hengegate Pathway
-1 Eiganjo Castle
-1 Path to Exile
-2 Hallowed Fountain
-2 Path to Exile
-2 Hengegate Pathway
-2 Lurrus of the Dream-Den
-2 Plains
-3 Hengegate Pathway
-4 Hengegate Pathway
 1 Finale of Promise
 3 Blistercoil Weird
 4 Blistercoil Weird
@@ -326,8 +250,8 @@
 2 Riverglide Pathway
 3 Riverglide Pathway
 3 Reflecting Pool
-3 Spirebluff Canal
 3 Cascade Bluffs
+3 Spirebluff Canal
 4 Riverglide Pathway
 4 Spirebluff Canal
 4 Cascade Bluffs
@@ -337,9 +261,11 @@
 2 Deprive
 2 Piracy Charm
 3 Dreadhorde Arcanist
+3 Polluted Delta
 3 Piracy Charm
 4 Dreadhorde Arcanist
 4 Steam Vents
+4 Polluted Delta
 6 Snow-Covered Island
 7 Snow-Covered Island
 8 Snow-Covered Island
@@ -361,16 +287,16 @@
 1 Goldspan Dragon
 1 Glorybringer
 1 Silumgar's Scorn
-1 Magda, Brazen Outlaw
 1 Mothdust Changeling
+1 Magda, Brazen Outlaw
 2 Goldspan Dragon
 2 Magda, Brazen Outlaw
 2 Silumgar's Scorn
 2 Mothdust Changeling
 3 Goldspan Dragon
 3 Blood Moon
-3 Magda, Brazen Outlaw
 3 Mothdust Changeling
+3 Magda, Brazen Outlaw
 3 Silumgar's Scorn
 4 Mothdust Changeling
 4 Magda, Brazen Outlaw

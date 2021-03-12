@@ -76,14 +76,6 @@
 2 Disdainful Stroke
 1 Spell Pierce
 2 Spell Pierce
-1 Sword of Fire and Ice
-1 Jace, the Mind Sculptor
-1 Vendilion Clique
-1 Angel of Invention
-1 Soulherder
-2 Force of Negation
-2 Vendilion Clique
-2 Jace, the Mind Sculptor
 1 Wall of Blossoms
 2 Wall of Blossoms
 1 Ice-Fang Coatl
@@ -92,6 +84,14 @@
 1 Spellskite
 1 Remand
 2 Familiar's Ruse
+1 Sword of Fire and Ice
+1 Jace, the Mind Sculptor
+1 Vendilion Clique
+1 Angel of Invention
+1 Soulherder
+2 Force of Negation
+2 Vendilion Clique
+2 Jace, the Mind Sculptor
 1 Emrakul, the Aeons Torn
 1 Walking Ballista
 1 Heliod, Sun-Crowned
@@ -112,6 +112,11 @@
 1 Skyclave Apparition
 2 Time Warp
 3 Meddling Mage
+1 Blood Moon
+1 Loaming Shaman
+2 Lightning Bolt
+2 Blood Moon
+3 Lightning Bolt
 1 Fatal Push
 1 Thoughtseize
 1 Unmoored Ego
@@ -121,11 +126,6 @@
 2 Unmoored Ego
 3 Fatal Push
 3 Thoughtseize
-1 Blood Moon
-1 Loaming Shaman
-2 Lightning Bolt
-2 Blood Moon
-3 Lightning Bolt
 2 Kor Firewalker
 3 Kor Firewalker
 4 Kor Firewalker
