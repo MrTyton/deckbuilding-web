@@ -34,10 +34,10 @@
 |*n*<sup>th</sup> copy|                                   Maindeck Card                                   |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|-----------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
 |                    1|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)  |                    1|[Thing in the Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409836)|
-|                    1|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)  |                    2|[Thing in the Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409836)|
-|                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)|                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)       |
-|                    1|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380255)  |                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)       |
-|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)  |                     |                                                                                           |
+|                    1|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380255)  |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)       |
+|                    1|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)  |                    3|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)       |
+|                    1|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)|                    2|[Thing in the Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409836)|
 |                    2|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380255)  |                     |                                                                                           |
 |                    3|[Remand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=380255)  |                     |                                                                                           |
+|                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)  |                     |                                                                                           |
 

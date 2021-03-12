@@ -1,15 +1,15 @@
+2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
-4 Flickerwisp
 3 Silent Clearing
 4 Silent Clearing
 8 Snow-Covered Plains
 9 Snow-Covered Plains
-10 Snow-Covered Plains
 1 Horizon Canopy
+10 Snow-Covered Plains
 1 Sunbaked Canyon
 11 Plains
 1 Castle Ardenvale
@@ -28,7 +28,6 @@
 4 Archon of Emeria
 16 Plains
 3 Restoration Angel
-1 Linvala, Keeper of Silence
 2 Horizon Canopy
 3 Horizon Canopy
 1 Branchloft Pathway
@@ -57,6 +56,8 @@
 4 Temple Garden
 4 Horizon Canopy
 4 Oath of Nissa
+1 Linvala, Keeper of Silence
+4 Noble Hierarch
 1 Charming Prince
 2 Castle Ardenvale
 17 Plains
@@ -64,12 +65,13 @@
 4 Restoration Angel
 3 Sunbaked Canyon
 4 Sunbaked Canyon
+1 Scavenging Ooze
+2 Scavenging Ooze
 1 Thraben Inspector
 2 Thraben Inspector
 18 Plains
 1 Shalai, Voice of Plenty
 2 Shalai, Voice of Plenty
-4 Noble Hierarch
 2 Charming Prince
 2 Linvala, Keeper of Silence
 3 Linvala, Keeper of Silence
@@ -81,9 +83,6 @@
 3 Inspiring Vantage
 3 Needleverge Pathway
 4 Needleverge Pathway
-1 Glasspool Mimic
-1 Scavenging Ooze
-2 Scavenging Ooze
 1 Mirran Crusader
 2 Mirran Crusader
 3 Shalai, Voice of Plenty
@@ -126,27 +125,12 @@
 1 Spellskite
 2 Reidane, God of the Worthy
 2 Spellskite
-2 Flagstones of Trokair
-3 Flagstones of Trokair
 1 Snow-Covered Mountain
 1 Cleansing Wildfire
 1 Akiri, Fearless Voyager
 2 Cleansing Wildfire
 3 Cleansing Wildfire
 4 Cleansing Wildfire
-1 Hallowed Fountain
-1 Flooded Strand
-1 Moorland Haunt
-1 Spell Queller
-1 Adarkar Wastes
-1 Seachrome Coast
-2 Flooded Strand
-2 Hallowed Fountain
-2 Adarkar Wastes
-2 Moorland Haunt
-2 Seachrome Coast
-2 Spell Queller
-3 Spell Queller
-3 Seachrome Coast
-4 Spell Queller
-4 Seachrome Coast
+1 Glasspool Mimic
+2 Flagstones of Trokair
+3 Flagstones of Trokair

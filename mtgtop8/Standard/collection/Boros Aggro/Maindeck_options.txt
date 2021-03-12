@@ -1,15 +1,16 @@
-1 Rielle, the Everwise
-1 Savai Triome
-4 Improbable Alliance
-3 Footfall Crater
+1 Frostveil Ambush
 2 Frostveil Ambush
+1 Footfall Crater
+2 Footfall Crater
+3 Footfall Crater
+1 Plains
+1 Shredded Sails
+3 Frostveil Ambush
 1 Brightclimb Pathway
 2 Brightclimb Pathway
 4 Footfall Crater
+1 Teferi, Master of Time
 1 Blightstep Pathway
-1 Shredded Sails
-1 Plains
-3 Frostveil Ambush
 1 Memory Leak
 2 Memory Leak
 3 Memory Leak
@@ -18,7 +19,6 @@
 1 Clearwater Pathway
 2 Shredded Sails
 2 Plains
-1 Teferi, Master of Time
 2 Teferi, Master of Time
 4 Memory Leak
 1 Reidane, God of the Worthy
@@ -57,13 +57,13 @@
 3 Fervent Champion
 3 Rimrock Knight
 3 Bonecrusher Giant
-4 Rimrock Knight
 4 Snow-Covered Plains
 4 Seasoned Hallowblade
 4 Showdown of the Skalds
 4 Snow-Covered Mountain
 4 Luminarch Aspirant
 4 Usher of the Fallen
+4 Rimrock Knight
 4 Bonecrusher Giant
 4 Embercleave
 4 Fervent Champion
@@ -74,7 +74,6 @@
 7 Snow-Covered Mountain
 7 Snow-Covered Plains
 1 Ketria Triome
-2 Blightstep Pathway
 2 Mountain
 1 Arni Brokenbrow
 2 Castle Embereth

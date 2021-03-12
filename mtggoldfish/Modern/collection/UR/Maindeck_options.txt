@@ -1,39 +1,35 @@
+1 Lava Dart
 1 Soul-Scar Mage
+1 Manamorphose
 2 Monastery Swiftspear
 2 Lava Dart
 2 Light Up the Stage
 2 Soul-Scar Mage
+2 Manamorphose
 3 Monastery Swiftspear
 3 Lava Dart
 3 Light Up the Stage
+3 Manamorphose
 3 Soul-Scar Mage
 4 Monastery Swiftspear
 4 Light Up the Stage
 4 Lava Dart
-4 Soul-Scar Mage
-1 Manamorphose
-2 Manamorphose
-3 Manamorphose
 4 Manamorphose
+4 Soul-Scar Mage
 2 Mountain
 3 Mountain
 1 Crash Through
 2 Crash Through
+1 Misty Rainforest
 3 Crash Through
 4 Crash Through
-1 Mana Leak
-1 Sunbaked Canyon
-2 Sunbaked Canyon
-1 Misty Rainforest
-1 Polluted Delta
 1 Shark Typhoon
 2 Shark Typhoon
+1 Polluted Delta
+1 Sunbaked Canyon
+2 Sunbaked Canyon
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-1 Mishra's Bauble
-2 Mishra's Bauble
-3 Mishra's Bauble
-4 Mishra's Bauble
 1 Fiery Islet
 4 Mountain
 5 Mountain
@@ -46,13 +42,16 @@
 12 Mountain
 1 Bedlam Reveler
 2 Bedlam Reveler
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
+4 Mishra's Bauble
 3 Sunbaked Canyon
 1 Mutagenic Growth
 2 Mutagenic Growth
 3 Mutagenic Growth
-1 Arid Mesa
 1 Wooded Foothills
-2 Wooded Foothills
+1 Arid Mesa
 1 Sacred Foundry
 1 Abbot of Keral Keep
 1 Inspiring Vantage
@@ -63,6 +62,7 @@
 2 Abbot of Keral Keep
 2 Inspiring Vantage
 2 Bloodstained Mire
+2 Wooded Foothills
 2 Boros Charm
 2 Myth Realized
 3 Inspiring Vantage
@@ -75,70 +75,70 @@
 2 Lava Spike
 1 Ral, Izzet Viceroy
 8 Island
+2 Mana Leak
 1 Deprive
 2 Fiery Islet
 1 Abrade
 3 Lava Spike
 4 Lava Spike
 3 Force of Negation
-2 Mana Leak
+2 Misty Rainforest
+3 Misty Rainforest
 1 Cascade Bluffs
 2 Cascade Bluffs
 2 Polluted Delta
-2 Misty Rainforest
-3 Misty Rainforest
-1 Kiln Fiend
-2 Kiln Fiend
+4 Misty Rainforest
 1 The Royal Scions
 2 The Royal Scions
+1 Kiln Fiend
+2 Kiln Fiend
+1 Snow-Covered Mountain
 9 Island
-4 Misty Rainforest
 1 Blast Zone
 2 Magmatic Sinkhole
 3 Brazen Borrower
 4 Brazen Borrower
 1 Burst Lightning
 2 Burst Lightning
-1 Snow-Covered Mountain
+1 Snow-Covered Island
+2 Snow-Covered Island
+3 Snow-Covered Island
 1 Wild Slash
 2 Wild Slash
 4 Bedlam Reveler
 3 Kiln Fiend
+4 Snow-Covered Island
+5 Snow-Covered Island
+1 Snow-Covered Forest
+1 Stomping Ground
+1 Ice-Fang Coatl
+1 Breeding Pool
+1 Wrenn and Six
+1 Lonely Sandbar
+1 Ketria Triome
+2 Snow-Covered Forest
+2 Ice-Fang Coatl
+2 Wrenn and Six
+3 Ice-Fang Coatl
+3 Wrenn and Six
+3 Mana Leak
+4 Ice-Fang Coatl
 1 Gut Shot
 2 Gut Shot
 15 Mountain
 3 Sulfur Falls
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
-5 Snow-Covered Island
 1 Serum Visions
 2 Serum Visions
-1 Stomping Ground
-1 Wrenn and Six
-2 Wrenn and Six
-3 Wrenn and Six
 1 Behold the Multiverse
 2 Behold the Multiverse
-1 Snow-Covered Forest
-1 Ice-Fang Coatl
-1 Search for Azcanta
 1 Firespout
-1 Breeding Pool
-1 Lonely Sandbar
-1 Ketria Triome
 1 Field of Ruin
-2 Snow-Covered Forest
-2 Ice-Fang Coatl
+1 Search for Azcanta
 2 Breeding Pool
 2 Field of Ruin
-3 Ice-Fang Coatl
-3 Mana Leak
-4 Ice-Fang Coatl
 4 Wrenn and Six
-1 Emrakul, the Aeons Torn
 1 Omen of the Sea
+1 Emrakul, the Aeons Torn
 1 Through the Breach
 2 Omen of the Sea
 2 Emrakul, the Aeons Torn
@@ -172,6 +172,7 @@
 1 Flame Slash
 16 Mountain
 3 Bonecrusher Giant
+1 Reflecting Pool
 1 Sprite Dragon
 2 Sprite Dragon
 3 Sprite Dragon
@@ -191,33 +192,22 @@
 3 Mystic Sanctuary
 4 Deceiver Exarch
 4 Fiery Islet
+1 Growth Spiral
+1 Logic Knot
+1 Prismatic Vista
+1 Frost Bite
+1 Cosima, God of the Voyage
+1 Castle Vantress
+1 Volatile Fjord
+2 Growth Spiral
+2 Cosima, God of the Voyage
+3 Growth Spiral
+3 Cosima, God of the Voyage
+4 Growth Spiral
+4 Cosima, God of the Voyage
 1 Finale of Promise
 3 Blistercoil Weird
 4 Blistercoil Weird
-1 Tarfire
-1 Brushfire Elemental
-1 Akoum Hellhound
-1 Forest
-1 Copperline Gorge
-1 Seal of Fire
-1 Tarmogoyf
-2 Brushfire Elemental
-2 Arid Mesa
-2 Seal of Fire
-2 Akoum Hellhound
-2 Stomping Ground
-2 Copperline Gorge
-2 Tarmogoyf
-3 Arid Mesa
-3 Wooded Foothills
-3 Akoum Hellhound
-3 Brushfire Elemental
-3 Tarmogoyf
-3 Copperline Gorge
-4 Akoum Hellhound
-4 Wooded Foothills
-4 Tarmogoyf
-4 Copperline Gorge
 1 Nivmagus Elemental
 1 Ground Rift
 2 Nivmagus Elemental
@@ -241,7 +231,6 @@
 3 Thrill of Possibility
 4 Arclight Phoenix
 4 Thrill of Possibility
-1 Reflecting Pool
 1 Crackling Drake
 1 Spirebluff Canal
 2 Reflecting Pool
@@ -250,8 +239,8 @@
 2 Riverglide Pathway
 3 Riverglide Pathway
 3 Reflecting Pool
-3 Cascade Bluffs
 3 Spirebluff Canal
+3 Cascade Bluffs
 4 Riverglide Pathway
 4 Spirebluff Canal
 4 Cascade Bluffs
@@ -264,8 +253,8 @@
 3 Polluted Delta
 3 Piracy Charm
 4 Dreadhorde Arcanist
-4 Steam Vents
 4 Polluted Delta
+4 Steam Vents
 6 Snow-Covered Island
 7 Snow-Covered Island
 8 Snow-Covered Island
@@ -285,19 +274,19 @@
 14 Snow-Covered Mountain
 15 Snow-Covered Mountain
 1 Goldspan Dragon
+1 Magda, Brazen Outlaw
 1 Glorybringer
 1 Silumgar's Scorn
 1 Mothdust Changeling
-1 Magda, Brazen Outlaw
 2 Goldspan Dragon
 2 Magda, Brazen Outlaw
 2 Silumgar's Scorn
 2 Mothdust Changeling
 3 Goldspan Dragon
-3 Blood Moon
 3 Mothdust Changeling
 3 Magda, Brazen Outlaw
 3 Silumgar's Scorn
+3 Blood Moon
 4 Mothdust Changeling
 4 Magda, Brazen Outlaw
 4 Silumgar's Scorn
