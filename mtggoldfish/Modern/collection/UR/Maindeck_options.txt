@@ -1,21 +1,21 @@
 1 Lava Dart
 1 Soul-Scar Mage
-1 Manamorphose
-2 Monastery Swiftspear
+1 Monastery Swiftspear
 2 Lava Dart
 2 Light Up the Stage
+2 Monastery Swiftspear
 2 Soul-Scar Mage
 2 Manamorphose
-3 Monastery Swiftspear
+3 Manamorphose
 3 Lava Dart
 3 Light Up the Stage
-3 Manamorphose
+3 Monastery Swiftspear
 3 Soul-Scar Mage
-4 Monastery Swiftspear
+4 Manamorphose
 4 Light Up the Stage
 4 Lava Dart
-4 Manamorphose
 4 Soul-Scar Mage
+4 Monastery Swiftspear
 2 Mountain
 3 Mountain
 1 Crash Through
@@ -52,9 +52,9 @@
 3 Mutagenic Growth
 1 Wooded Foothills
 1 Arid Mesa
-1 Sacred Foundry
 1 Abbot of Keral Keep
 1 Inspiring Vantage
+1 Sacred Foundry
 1 Bloodstained Mire
 1 Boros Charm
 1 Myth Realized
@@ -161,8 +161,8 @@
 1 Minamo, School at Water's Edge
 1 Valakut Awakening
 1 Deceiver Exarch
-1 Riverglide Pathway
 1 Flusterstorm
+1 Riverglide Pathway
 2 Deceiver Exarch
 2 Kiki-Jiki, Mirror Breaker
 3 Deceiver Exarch
@@ -182,8 +182,8 @@
 2 Peek
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
-1 Dispel
 1 Spell Pierce
+1 Dispel
 2 Spell Pierce
 3 Ancestral Vision
 1 Vendilion Clique

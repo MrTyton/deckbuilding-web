@@ -69,8 +69,8 @@
 |                    3|[Steppe Lynx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=171012)            |                     |                                                                                                 |
 |                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)        |                     |                                                                                                 |
 |                    4|[Arid Mesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405092)              |                     |                                                                                                 |
-|                    4|[Wild Nacatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174989)            |                     |                                                                                                 |
 |                    4|[Brushfire Elemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491872)    |                     |                                                                                                 |
+|                    4|[Wild Nacatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174989)            |                     |                                                                                                 |
 |                    4|[Renegade Rallier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423800)       |                     |                                                                                                 |
 |                    4|[Steppe Lynx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=171012)            |                     |                                                                                                 |
 

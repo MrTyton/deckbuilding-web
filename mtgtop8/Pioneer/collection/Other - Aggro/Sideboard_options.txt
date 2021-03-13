@@ -1,6 +1,5 @@
 2 Thoughtseize
 3 Thoughtseize
-4 Thoughtseize
 1 Isolate
 2 Isolate
 1 Containment Priest
@@ -9,29 +8,10 @@
 2 Apostle of Purifying Light
 3 Apostle of Purifying Light
 4 Apostle of Purifying Light
-1 Back to Nature
-2 Back to Nature
-1 Assassin's Trophy
-1 Ritual of Soot
-1 Pithing Needle
-1 Savage Summoning
-2 Savage Summoning
-2 Assassin's Trophy
-2 Pithing Needle
-2 Ritual of Soot
+4 Thoughtseize
 2 Liliana, the Last Hope
 2 Kalitas, Traitor of Ghet
 2 Unmoored Ego
-1 Damping Sphere
-2 Damping Sphere
-1 Murderous Rider
-1 Massacre Girl
-1 Carnage Tyrant
-1 Vampire of the Dire Moon
-1 Ashiok, Dream Render
-2 Murderous Rider
-2 Carnage Tyrant
-2 Ashiok, Dream Render
 1 Duress
 2 Duress
 1 Bloodchief's Thirst
@@ -43,15 +23,25 @@
 1 Heartless Act
 1 Soul-Guide Lantern
 3 Aether Gust
-1 Questing Beast
-1 Collective Brutality
 1 Liliana's Triumph
 1 Dead Weight
 1 Rest in Peace
 2 Rest in Peace
+1 Back to Nature
+2 Back to Nature
+1 Damping Sphere
+2 Damping Sphere
+1 Murderous Rider
+1 Massacre Girl
 1 Nullhide Ferox
 1 Gruul Charm
+1 Carnage Tyrant
+1 Vampire of the Dire Moon
+1 Ashiok, Dream Render
+2 Murderous Rider
 2 Gruul Charm
+2 Carnage Tyrant
+2 Ashiok, Dream Render
 1 Eliminate
 2 Eliminate
 3 Duress
@@ -71,6 +61,15 @@
 1 Nighthawk Scavenger
 2 Heartless Act
 2 Nighthawk Scavenger
+1 Collective Brutality
+1 Assassin's Trophy
+1 Ritual of Soot
+1 Pithing Needle
+1 Savage Summoning
+2 Savage Summoning
+2 Assassin's Trophy
+2 Ritual of Soot
+2 Pithing Needle
 1 Witch's Vengeance
 2 Witch's Vengeance
 3 Unmoored Ego
@@ -86,9 +85,6 @@
 2 Noxious Grasp
 2 Selfless Spirit
 3 Isolate
-2 Massacre Girl
-2 Vampire of the Dire Moon
-3 Back to Nature
 1 Settle the Wreckage
 1 Leyline of Sanctity
 2 Leyline of Sanctity
@@ -122,8 +118,8 @@
 1 Doomskar
 1 Gideon, Ally of Zendikar
 1 Weathered Runestone
-1 Rootborn Defenses
 1 Sundering Growth
+1 Rootborn Defenses
 2 Sundering Growth
 2 Gideon, Ally of Zendikar
 3 Sundering Growth
