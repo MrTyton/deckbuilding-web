@@ -104,8 +104,6 @@
 2 Neutralize
 3 Neutralize
 4 Neutralize
-4 Disdainful Stroke
-4 Crawling Barrens
 1 Runed Halo
 1 Reidane, God of the Worthy
 2 Runed Halo
@@ -117,10 +115,12 @@
 1 Fae of Wishes
 2 Baneslayer Angel
 2 Fae of Wishes
-3 Baneslayer Angel
 3 Fae of Wishes
+3 Baneslayer Angel
 4 Fae of Wishes
 4 Omen of the Sun
+4 Crawling Barrens
+4 Disdainful Stroke
 3 Castle Ardenvale
 3 Solemn Simulacrum
 4 Solemn Simulacrum
@@ -133,13 +133,13 @@
 1 Teferi, Master of Time
 1 Confounding Conundrum
 1 Mystical Dispute
-2 Teferi, Master of Time
 2 Confounding Conundrum
 2 Thassa, Deep-Dwelling
+2 Teferi, Master of Time
 2 Sublime Epiphany
 2 Mystical Dispute
-3 Mystical Dispute
 3 Confounding Conundrum
+3 Mystical Dispute
 3 Sublime Epiphany
 4 Mystical Dispute
 10 Plains
@@ -149,24 +149,24 @@
 1 Glasspool Mimic
 1 Charming Prince
 2 Charming Prince
+1 Bubble Snare
+2 Bubble Snare
+3 Bubble Snare
 1 Sigrid, God-Favored
 1 Ondu Inversion
 2 Sigrid, God-Favored
 3 Sigrid, God-Favored
-1 Bubble Snare
-2 Bubble Snare
-3 Bubble Snare
 1 Depart the Realm
 2 Faceless Haven
 2 Depart the Realm
-3 Depart the Realm
 3 Cosima, God of the Voyage
-4 Alrund's Epiphany
+3 Depart the Realm
 4 Dream Trawler
+4 Alrund's Epiphany
 4 Cosima, God of the Voyage
+1 Giant Killer
+4 Field of Ruin
 1 Ravenform
 2 Ravenform
 3 Gates of Istfell
 4 Midnight Clock
-1 Giant Killer
-4 Field of Ruin

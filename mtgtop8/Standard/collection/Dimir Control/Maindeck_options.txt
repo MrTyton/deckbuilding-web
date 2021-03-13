@@ -1,21 +1,21 @@
-1 Mystical Dispute
-4 Swamp
 1 Dead Weight
-1 Negate
-1 Cling to Dust
+3 Zagoth Triome
+1 Mystical Dispute
 3 Agadeem's Awakening
-4 Merfolk Windrobber
+1 Negate
 1 Essence Scatter
+1 Cling to Dust
+4 Merfolk Windrobber
+1 Crippling Fear
+3 Of One Mind
 5 Swamp
 2 Dead Weight
 2 Negate
-1 Crippling Fear
-3 Of One Mind
 1 Extinction Event
 1 Erebos's Intervention
 1 Saw It Coming
 2 Saw It Coming
-2 Eliminate
+2 Bloodchief's Thirst
 1 Soul Shatter
 1 Ugin, the Spirit Dragon
 1 Shark Typhoon
@@ -25,6 +25,7 @@
 2 Behold the Multiverse
 2 Extinction Event
 3 Shark Typhoon
+2 Eliminate
 1 Snow-Covered Swamp
 1 Snow-Covered Island
 2 Snow-Covered Swamp
@@ -40,7 +41,6 @@
 1 Castle Vantress
 3 Behold the Multiverse
 1 Midnight Clock
-2 Bloodchief's Thirst
 1 Shadows' Verdict
 2 Shadows' Verdict
 3 Saw It Coming
@@ -49,8 +49,8 @@
 2 Crippling Fear
 1 Graven Lore
 2 Crawling Barrens
-2 Graven Lore
 2 Midnight Clock
+2 Graven Lore
 4 Saw It Coming
 4 Shark Typhoon
 1 Disdainful Stroke
@@ -63,8 +63,8 @@
 1 Omen of the Sea
 3 Extinction Event
 2 Ashiok, Nightmare Muse
-1 Ice Tunnel
 1 Burning-Rune Demon
+1 Ice Tunnel
 2 Ice Tunnel
 3 Ice Tunnel
 3 Negate
@@ -83,26 +83,26 @@
 1 Pharika's Libation
 1 Blood on the Snow
 2 Omen of the Sea
-2 Burning-Rune Demon
+2 Blood on the Snow
 2 Atris, Oracle of Half-Truths
+2 Burning-Rune Demon
 2 Solemn Simulacrum
 2 Mazemind Tome
-2 Blood on the Snow
 2 Pharika's Libation
-3 Blood on the Snow
 3 Atris, Oracle of Half-Truths
 3 Omen of the Sea
 3 Eliminate
 3 Mazemind Tome
 3 Solemn Simulacrum
+3 Blood on the Snow
 3 Erebos's Intervention
 3 Shadows' Verdict
-4 Solemn Simulacrum
-4 Blood on the Snow
 4 Shadows' Verdict
 4 Atris, Oracle of Half-Truths
 4 Omen of the Sea
 4 Mazemind Tome
+4 Solemn Simulacrum
+4 Blood on the Snow
 4 Negate
 9 Snow-Covered Island
 10 Snow-Covered Island
@@ -119,8 +119,10 @@
 2 Brazen Borrower
 2 Alrund's Epiphany
 3 Crawling Barrens
-1 Valki, God of Lies
+2 Ugin, the Spirit Dragon
+4 Behold the Multiverse
 1 Tergrid, God of Fright
+1 Valki, God of Lies
 1 Thassa's Intervention
 1 Lochmere Serpent
 1 Blightstep Pathway
@@ -133,11 +135,8 @@
 2 Disdainful Stroke
 3 Blightstep Pathway
 4 Blightstep Pathway
-4 Zagoth Triome
-2 Ugin, the Spirit Dragon
-4 Behold the Multiverse
-1 Silundi Vision
 1 Dismal Backwater
+1 Silundi Vision
 1 Sea Gate Restoration
 1 Murderous Rider
 1 Neutralize
@@ -147,8 +146,8 @@
 2 Essence Scatter
 2 Neutralize
 2 Silundi Vision
-3 Neutralize
 3 Jwari Disruption
+3 Neutralize
 3 Dismal Backwater
 3 Essence Scatter
 4 Neutralize
@@ -160,22 +159,22 @@
 4 Heartless Act
 1 Dream Trawler
 1 Thirst for Meaning
-1 Port of Karfell
+1 Narfi, Betrayer King
 1 Koma, Cosmos Serpent
-1 Feed the Serpent
 1 Grasp of Darkness
+1 Feed the Serpent
 1 Pestilent Haze
 1 Feed the Swarm
 1 Massacre Wurm
-1 Narfi, Betrayer King
 1 Obsessive Stitcher
 1 Rise Again
 1 Waker of Waves
+1 Port of Karfell
 2 Thirst for Meaning
 2 Narfi, Betrayer King
-2 Pestilent Haze
 2 Grasp of Darkness
 2 Feed the Serpent
+2 Pestilent Haze
 2 Waker of Waves
 2 Feed the Swarm
 2 Obsessive Stitcher
@@ -185,6 +184,7 @@
 3 Waker of Waves
 3 Rise Again
 3 Obsessive Stitcher
+4 Thirst for Meaning
 11 Snow-Covered Swamp
 12 Snow-Covered Swamp
-4 Thirst for Meaning
+4 Zagoth Triome

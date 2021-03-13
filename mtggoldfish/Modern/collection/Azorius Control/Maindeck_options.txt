@@ -9,6 +9,7 @@
 5 Snow-Covered Island
 1 Castle Ardenvale
 1 Mystic Gate
+1 Scalding Tarn
 1 Misty Rainforest
 1 Sword of Feast and Famine
 1 Batterskull
@@ -16,15 +17,14 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-1 Scalding Tarn
+2 Scalding Tarn
+4 Snapcaster Mage
 1 Spell Queller
 2 Spell Queller
 1 Hengegate Pathway
 1 Ghost Quarter
 1 Irrigated Farmland
 1 Narset, Parter of Veils
-2 Scalding Tarn
-4 Snapcaster Mage
 2 Spell Snare
 2 Mystic Gate
 1 Sword of Fire and Ice
@@ -32,13 +32,14 @@
 2 Skyclave Apparition
 3 Archmage's Charm
 3 Celestial Colonnade
+1 Raugrin Triome
 1 Terminus
 2 Terminus
 3 Jace, the Mind Sculptor
 2 Narset, Parter of Veils
 1 Oboro, Palace in the Clouds
-1 Minamo, School at Water's Edge
 1 Emeria's Call
+1 Minamo, School at Water's Edge
 1 Niambi, Esteemed Speaker
 1 Eiganjo Castle
 2 Niambi, Esteemed Speaker
@@ -49,26 +50,31 @@
 3 Polluted Delta
 1 Winds of Abandon
 4 Archmage's Charm
+1 Behold the Multiverse
 1 Prismatic Vista
 2 Prismatic Vista
 3 Prismatic Vista
 1 Ancestral Vision
 1 Detention Sphere
 3 Terminus
-1 Negate
+1 Steam Vents
+1 Lightning Bolt
+2 Lightning Bolt
+3 Lightning Bolt
 1 Fact or Fiction
 1 Condemn
+1 Negate
 1 Mutavault
 2 Ancestral Vision
 3 Ancestral Vision
 4 Terminus
 4 Celestial Colonnade
-1 Raugrin Triome
 1 Prairie Stream
 1 Glacial Floodplain
-1 Behold the Multiverse
 1 Dovin's Veto
 1 Blast Zone
+2 Steam Vents
+2 Behold the Multiverse
 1 Wall of Omens
 1 Omen of the Sea
 2 Omen of the Sea
@@ -77,6 +83,16 @@
 3 Misty Rainforest
 3 Shark Typhoon
 4 Polluted Delta
+1 Mountain
+1 Sacred Foundry
+1 Lightning Helix
+1 Sulfur Falls
+1 Search for Azcanta
+2 Lightning Helix
+2 Search for Azcanta
+3 Scalding Tarn
+4 Scalding Tarn
+4 Lightning Bolt
 3 Supreme Verdict
 4 Supreme Verdict
 2 Castle Ardenvale

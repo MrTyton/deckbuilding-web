@@ -16,24 +16,24 @@
 3 Miscast
 1 Goldspan Dragon
 2 Goldspan Dragon
-1 Toski, Bearer of Secrets
-1 The World Tree
-2 Toski, Bearer of Secrets
-3 Toski, Bearer of Secrets
-4 Toski, Bearer of Secrets
 1 Disdainful Stroke
 1 Llanowar Visionary
+1 Toski, Bearer of Secrets
+1 The World Tree
 2 Llanowar Visionary
+2 Toski, Bearer of Secrets
+3 Toski, Bearer of Secrets
 3 Llanowar Visionary
 4 Llanowar Visionary
-3 Goldspan Dragon
-4 Goldspan Dragon
+4 Toski, Bearer of Secrets
 1 Swamp
 3 Island
+3 Goldspan Dragon
+4 Goldspan Dragon
 1 Demon Bolt
 1 Garruk, Cursed Huntsman
-1 Stonecoil Serpent
 1 Dream Trawler
+1 Stonecoil Serpent
 1 Esika, God of the Tree
 1 Ondu Inversion
 1 Crush the Weak
@@ -52,7 +52,6 @@
 3 Ilysian Caryatid
 4 Ilysian Caryatid
 4 Miscast
-2 The World Tree
 1 Forest
 1 Beanstalk Giant
 2 Beanstalk Giant
@@ -86,30 +85,25 @@
 3 Shadows' Verdict
 3 Koma, Cosmos Serpent
 4 Blood on the Snow
-1 Skyclave Relic
-1 Kiora Bests the Sea God
-2 Skyclave Relic
-3 Skyclave Relic
-4 Skyclave Relic
-1 Mazemind Tome
+1 Duress
+2 Duress
+3 Duress
+4 Duress
 1 Cragplate Baloth
+2 Cragplate Baloth
+3 Cragplate Baloth
+1 Mazemind Tome
 1 Storm's Wrath
 1 Kaheera, the Orphanguard
 1 Shock
 2 Mazemind Tome
 2 Shock
-2 Cragplate Baloth
 2 Storm's Wrath
 3 Mazemind Tome
 3 Storm's Wrath
 3 Shock
-3 Cragplate Baloth
 4 Mazemind Tome
 4 Storm's Wrath
-1 Duress
-2 Duress
-3 Duress
-4 Duress
 1 Wolfwillow Haven
 2 Forest
 2 Wolfwillow Haven
@@ -117,9 +111,17 @@
 3 Wolfwillow Haven
 4 Beanstalk Giant
 4 Wolfwillow Haven
+2 The World Tree
 3 The World Tree
 4 The World Tree
 1 Valkyrie Harbinger
 2 Valkyrie Harbinger
 3 Valkyrie Harbinger
 4 Valkyrie Harbinger
+1 Massacre Wurm
+1 Easy Prey
+2 Easy Prey
+2 Massacre Wurm
+3 Massacre Wurm
+4 Cragplate Baloth
+4 Massacre Wurm

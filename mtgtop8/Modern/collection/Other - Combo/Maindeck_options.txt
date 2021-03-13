@@ -53,17 +53,17 @@
 2 Blood Moon
 3 Blood Moon
 1 Bala Ged Recovery
+1 Irencrag Feat
 1 Spikefield Hazard
 1 Valakut Awakening
-1 Irencrag Feat
 1 Reforge the Soul
 1 Recross the Paths
 1 Manamorphose
 1 Desperate Ritual
 1 Pyretic Ritual
+2 Irencrag Feat
 2 Spikefield Hazard
 2 Valakut Awakening
-2 Irencrag Feat
 2 Pyretic Ritual
 2 Bala Ged Recovery
 2 Manamorphose
@@ -80,8 +80,8 @@
 3 Pyretic Ritual
 3 Bala Ged Recovery
 4 Shatterskull Smashing
-4 Valakut Awakening
 4 Spikefield Hazard
+4 Valakut Awakening
 4 Goblin Charbelcher
 4 Recross the Paths
 4 Manamorphose
@@ -167,11 +167,11 @@
 1 Timely Reinforcements
 2 Bonecrusher Giant
 2 Mystical Dispute
-3 Sphere of the Suns
 1 Lovestruck Beast
 2 Lovestruck Beast
 2 Swamp
 3 Lovestruck Beast
+3 Sphere of the Suns
 3 Dismember
 3 Omnath, Locus of Creation
 1 Murderous Rider
@@ -234,19 +234,18 @@
 1 Arid Mesa
 1 Sacred Foundry
 2 Arid Mesa
-1 Transmogrify
 1 Fire Prophecy
 1 Dwarven Mine
 1 Repeal
-1 Spell Snare
 1 Izzet Charm
+1 Spell Snare
+1 Transmogrify
 1 Remand
 1 Polymorph
 1 Mana Leak
 1 Bloodstained Mire
 1 Anger of the Gods
 1 Cloudform
-2 Transmogrify
 2 Raugrin Triome
 2 Izzet Charm
 2 Spell Snare
@@ -255,11 +254,12 @@
 2 Anger of the Gods
 2 Steam Vents
 2 Cloudform
+2 Transmogrify
 2 Lightning Bolt
 2 Polymorph
-3 Transmogrify
 3 Arid Mesa
 3 Remand
+3 Transmogrify
 3 Lightning Bolt
 3 Polymorph
 3 Dwarven Mine
@@ -272,7 +272,6 @@
 2 Snow-Covered Island
 1 Lotus Field
 1 Wishclaw Talisman
-1 Silundi Vision
 1 Serum Visions
 1 Ideas Unbound
 1 Reach Through Mists
@@ -283,6 +282,7 @@
 1 Past in Flames
 1 Sleight of Hand
 1 Darkslick Shores
+1 Silundi Vision
 1 Dream's Grip
 1 Merchant Scroll
 1 Peer Through Depths
@@ -384,6 +384,7 @@
 1 Skyclave Apparition
 1 Lotus Bloom
 1 Phyrexian Unlife
+2 Temple of Triumph
 2 Nykthos, Shrine to Nyx
 2 Sacred Foundry
 2 Oust
@@ -391,7 +392,6 @@
 2 Nine Lives
 2 Enduring Ideal
 2 Plains
-2 Temple of Triumph
 2 Marsh Flats
 2 Solemnity
 2 Phyrexian Unlife
@@ -399,7 +399,6 @@
 2 Skyclave Apparition
 2 Treasure Map
 2 Lotus Bloom
-3 Oust
 3 Plains
 3 Skyclave Apparition
 3 Sacred Foundry
@@ -408,6 +407,7 @@
 3 Enduring Ideal
 3 Lotus Bloom
 3 Marsh Flats
+3 Oust
 3 Nine Lives
 4 Plains
 4 Sacred Foundry

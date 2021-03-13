@@ -184,9 +184,9 @@
 3 Trail of Crumbs
 3 Emeria's Call
 4 Elspeth Conquers Death
-4 Wicked Wolf
-4 Mazemind Tome
 4 Trail of Crumbs
+4 Mazemind Tome
+4 Wicked Wolf
 4 Emeria's Call
 5 Forest
 6 Forest
@@ -209,15 +209,15 @@
 3 Snow-Covered Swamp
 3 Snow-Covered Forest
 1 Snow-Covered Plains
-1 Elderfang Disciple
 1 Evolving Wilds
-1 Sculptor of Winter
+1 Elderfang Disciple
 1 Snowfield Sinkhole
+1 Sculptor of Winter
 1 Shimmerdrift Vale
 1 Grasp of Darkness
-1 Great Hall of Starnheim
 1 Arctic Treeline
 1 Skull Raid
+1 Great Hall of Starnheim
 1 Feed the Serpent
 1 Sarulf's Packmate
 1 Rampage of the Valkyries
@@ -225,9 +225,9 @@
 1 Omen of the Hunt
 1 Woodland Chasm
 1 Kogla, the Titan Ape
-2 Elderfang Disciple
-2 Snowfield Sinkhole
 2 Evolving Wilds
+2 Snowfield Sinkhole
+2 Elderfang Disciple
 2 Sculptor of Winter
 2 Shimmerdrift Vale
 2 Grasp of Darkness
@@ -240,17 +240,17 @@
 2 Rampage of the Valkyries
 2 Woodland Chasm
 3 Elderfang Disciple
-3 Sculptor of Winter
 3 Evolving Wilds
+3 Sculptor of Winter
 3 Shimmerdrift Vale
-3 Skull Raid
 3 Sarulf's Packmate
+3 Skull Raid
 3 Omen of the Hunt
 3 Woodland Chasm
 3 Rampage of the Valkyries
 4 Elderfang Disciple
-4 Sculptor of Winter
 4 Evolving Wilds
+4 Sculptor of Winter
 4 Sarulf's Packmate
 4 Omen of the Hunt
 4 Snow-Covered Swamp
@@ -284,40 +284,41 @@
 3 Agonizing Remorse
 2 Ondu Inversion
 3 Shatterskull Smashing
-1 Dream Devourer
 1 Vorinclex, Monstrous Raider
 1 Temple of Abandon
 1 Zagoth Triome
 1 Cragcrown Pathway
 1 Liliana, Waker of the Dead
 1 Blightstep Pathway
+1 Dream Devourer
 1 Snow-Covered Mountain
-2 Dream Devourer
-2 Liliana, Waker of the Dead
 2 Cragcrown Pathway
 2 Blightstep Pathway
 2 Vorinclex, Monstrous Raider
 2 Snow-Covered Mountain
+2 Liliana, Waker of the Dead
+2 Dream Devourer
 3 Vorinclex, Monstrous Raider
-3 Dream Devourer
 3 Blightstep Pathway
 3 Lukka, Coppercoat Outcast
 3 Ugin, the Spirit Dragon
 3 Solemn Simulacrum
-4 Ugin, the Spirit Dragon
-4 Cultivate
-4 Dream Devourer
+3 Dream Devourer
 4 Solemn Simulacrum
 4 Valki, God of Lies
 4 Vorinclex, Monstrous Raider
 4 Blightstep Pathway
+4 Ugin, the Spirit Dragon
 4 Lukka, Coppercoat Outcast
+4 Cultivate
+4 Dream Devourer
 1 Jwari Disruption
+1 Mystic Sanctuary
 1 Neutralize
 1 Rewind
 1 Gadwick, the Wizened
-1 Rain of Revelation
 1 Silundi Vision
+1 Rain of Revelation
 1 Frantic Inventory
 1 Brazen Borrower
 1 Kiora Bests the Sea God
@@ -325,7 +326,6 @@
 1 Sublime Epiphany
 1 Essence Scatter
 1 Into the Roil
-1 Mystic Sanctuary
 1 Hypnotic Sprite
 1 Castle Vantress
 1 Shark Typhoon
@@ -363,9 +363,9 @@
 8 Island
 9 Island
 10 Island
+11 Island
 12 Island
 13 Island
 14 Island
 15 Island
 16 Island
-11 Island

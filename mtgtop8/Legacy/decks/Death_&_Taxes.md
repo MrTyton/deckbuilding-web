@@ -72,7 +72,7 @@
 |                   20|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                   |                     |                                                                                                        |
 |                    1|[Thalia, Heretic Cathar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414338)   |                     |                                                                                                        |
 |                    1|[Mirran Crusader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213802)          |                     |                                                                                                        |
-|                    2|[Palace Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416775)            |                     |                                                                                                        |
 |                    1|[Luminarch Aspirant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491647)       |                     |                                                                                                        |
 |                    2|[Luminarch Aspirant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491647)       |                     |                                                                                                        |
+|                    2|[Palace Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416775)            |                     |                                                                                                        |
 

@@ -1,21 +1,21 @@
-1 Lava Dart
 1 Soul-Scar Mage
-1 Monastery Swiftspear
-2 Lava Dart
-2 Light Up the Stage
+1 Light Up the Stage
+1 Lava Dart
 2 Monastery Swiftspear
+2 Lava Dart
 2 Soul-Scar Mage
+2 Light Up the Stage
 2 Manamorphose
 3 Manamorphose
+3 Monastery Swiftspear
 3 Lava Dart
 3 Light Up the Stage
-3 Monastery Swiftspear
 3 Soul-Scar Mage
 4 Manamorphose
-4 Light Up the Stage
-4 Lava Dart
-4 Soul-Scar Mage
 4 Monastery Swiftspear
+4 Soul-Scar Mage
+4 Lava Dart
+4 Light Up the Stage
 2 Mountain
 3 Mountain
 1 Crash Through
@@ -51,20 +51,20 @@
 2 Mutagenic Growth
 3 Mutagenic Growth
 1 Wooded Foothills
-1 Arid Mesa
-1 Abbot of Keral Keep
 1 Inspiring Vantage
 1 Sacred Foundry
+1 Arid Mesa
+1 Abbot of Keral Keep
 1 Bloodstained Mire
 1 Boros Charm
 1 Myth Realized
-2 Sacred Foundry
-2 Abbot of Keral Keep
-2 Inspiring Vantage
-2 Bloodstained Mire
 2 Wooded Foothills
+2 Inspiring Vantage
+2 Sacred Foundry
+2 Bloodstained Mire
 2 Boros Charm
 2 Myth Realized
+2 Abbot of Keral Keep
 3 Inspiring Vantage
 3 Myth Realized
 4 Inspiring Vantage
@@ -109,19 +109,19 @@
 3 Kiln Fiend
 4 Snow-Covered Island
 5 Snow-Covered Island
-1 Snow-Covered Forest
 1 Stomping Ground
-1 Ice-Fang Coatl
+1 Snow-Covered Forest
 1 Breeding Pool
+1 Ice-Fang Coatl
 1 Wrenn and Six
 1 Lonely Sandbar
 1 Ketria Triome
 2 Snow-Covered Forest
 2 Ice-Fang Coatl
 2 Wrenn and Six
-3 Ice-Fang Coatl
 3 Wrenn and Six
 3 Mana Leak
+3 Ice-Fang Coatl
 4 Ice-Fang Coatl
 1 Gut Shot
 2 Gut Shot
@@ -159,10 +159,10 @@
 1 Wandering Fumarole
 1 Kiki-Jiki, Mirror Breaker
 1 Minamo, School at Water's Edge
-1 Valakut Awakening
 1 Deceiver Exarch
-1 Flusterstorm
 1 Riverglide Pathway
+1 Valakut Awakening
+1 Flusterstorm
 2 Deceiver Exarch
 2 Kiki-Jiki, Mirror Breaker
 3 Deceiver Exarch
@@ -186,18 +186,17 @@
 1 Dispel
 2 Spell Pierce
 3 Ancestral Vision
-1 Vendilion Clique
 1 Narset, Parter of Veils
+1 Vendilion Clique
 2 Narset, Parter of Veils
 3 Mystic Sanctuary
 4 Deceiver Exarch
-4 Fiery Islet
 1 Growth Spiral
-1 Logic Knot
 1 Prismatic Vista
-1 Frost Bite
+1 Logic Knot
 1 Cosima, God of the Voyage
 1 Castle Vantress
+1 Frost Bite
 1 Volatile Fjord
 2 Growth Spiral
 2 Cosima, God of the Voyage
@@ -205,6 +204,7 @@
 3 Cosima, God of the Voyage
 4 Growth Spiral
 4 Cosima, God of the Voyage
+4 Fiery Islet
 1 Finale of Promise
 3 Blistercoil Weird
 4 Blistercoil Weird
@@ -224,8 +224,8 @@
 1 Forgotten Cave
 1 Arclight Phoenix
 1 Thrill of Possibility
-2 Arclight Phoenix
 2 Forgotten Cave
+2 Arclight Phoenix
 2 Thrill of Possibility
 3 Arclight Phoenix
 3 Thrill of Possibility
@@ -253,15 +253,15 @@
 3 Polluted Delta
 3 Piracy Charm
 4 Dreadhorde Arcanist
-4 Polluted Delta
 4 Steam Vents
+4 Polluted Delta
 6 Snow-Covered Island
 7 Snow-Covered Island
 8 Snow-Covered Island
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
-4 Sunbaked Canyon
 4 Snow-Covered Mountain
+4 Sunbaked Canyon
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
@@ -283,10 +283,10 @@
 2 Silumgar's Scorn
 2 Mothdust Changeling
 3 Goldspan Dragon
+3 Blood Moon
 3 Mothdust Changeling
 3 Magda, Brazen Outlaw
 3 Silumgar's Scorn
-3 Blood Moon
 4 Mothdust Changeling
 4 Magda, Brazen Outlaw
 4 Silumgar's Scorn
