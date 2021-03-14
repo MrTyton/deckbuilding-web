@@ -1,19 +1,19 @@
+2 Island
 1 Temple Garden
 4 Misty Rainforest
-2 Island
 1 Snow-Covered Forest
 1 Snow-Covered Plains
 1 Windswept Heath
 1 Noble Hierarch
-1 Tireless Tracker
 1 Wooded Foothills
+1 Tireless Tracker
 1 On Thin Ice
 1 Batterskull
 1 Sword of Fire and Ice
-1 Spell Queller
 1 Sword of Feast and Famine
 1 Horizon Canopy
 1 Stoneforge Mystic
+1 Spell Queller
 1 Stomping Ground
 2 Windswept Heath
 2 Snow-Covered Forest
@@ -23,8 +23,8 @@
 2 Noble Hierarch
 2 Spell Queller
 2 Stoneforge Mystic
-3 Noble Hierarch
 3 Omnath, Locus of Creation
+3 Noble Hierarch
 3 Windswept Heath
 3 Spell Queller
 3 Stoneforge Mystic
@@ -41,37 +41,42 @@
 1 Remand
 2 Remand
 2 Lonely Sandbar
+1 Glacial Fortress
+2 Hallowed Fountain
+2 Celestial Colonnade
+2 Glacial Fortress
+3 Island
+4 Snapcaster Mage
 1 Drown in the Loch
-1 Swamp
-1 Polluted Delta
+1 Thought Scour
 1 Watery Grave
 1 Godless Shrine
 1 Kaya's Guile
-1 Glacial Fortress
+1 Swamp
 1 Esper Charm
-1 Thought Scour
 1 Drowned Catacomb
+1 Polluted Delta
 2 Drown in the Loch
-2 Polluted Delta
-2 Hallowed Fountain
-2 Kaya's Guile
-2 Celestial Colonnade
 2 Thought Scour
+2 Kaya's Guile
 2 Drowned Catacomb
 2 Esper Charm
-2 Glacial Fortress
+2 Polluted Delta
 3 Polluted Delta
 3 Drown in the Loch
-3 Island
 3 Thought Scour
 3 Drowned Catacomb
 3 Esper Charm
-4 Snapcaster Mage
 4 Polluted Delta
+4 Thought Scour
 4 Drowned Catacomb
 4 Esper Charm
-4 Thought Scour
+1 Opt
+2 Opt
+3 Opt
 1 Arid Mesa
+3 Lightning Bolt
+4 Lightning Bolt
 1 Birds of Paradise
 1 Fatal Push
 2 Fatal Push
@@ -79,17 +84,19 @@
 2 Snow-Covered Plains
 2 Skyclave Apparition
 3 Wooded Foothills
-1 Opt
-2 Opt
-3 Opt
 1 Nahiri, the Harbinger
+1 Snow-Covered Mountain
 1 Cosima, God of the Voyage
 1 Emrakul, the Aeons Torn
 1 Shark Typhoon
-1 Snow-Covered Mountain
 2 Nahiri, the Harbinger
+3 Lightning Helix
 3 Snow-Covered Island
 3 Nahiri, the Harbinger
-3 Lightning Bolt
-3 Lightning Helix
-4 Lightning Bolt
+1 Logic Knot
+1 Archmage's Charm
+1 Sulfur Falls
+1 Search for Azcanta
+2 Supreme Verdict
+2 Search for Azcanta
+4 Opt

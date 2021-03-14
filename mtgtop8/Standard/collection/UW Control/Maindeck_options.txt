@@ -1,52 +1,54 @@
-4 Saw It Coming
-1 Essence Scatter
-1 Omen of the Sun
-2 Omen of the Sun
-3 Shark Typhoon
-1 Sea Gate Restoration
 1 Skyclave Apparition
 2 Skyclave Apparition
 3 Skyclave Apparition
-4 Behold the Multiverse
+1 Sea Gate Restoration
+3 Mazemind Tome
 1 Raugrin Triome
 4 Glass Casket
-1 Brazen Borrower
-2 Brazen Borrower
-3 Mazemind Tome
-2 Emeria's Call
-2 Field of Ruin
-1 Shatter the Sky
 4 The Birth of Meletis
-2 Essence Scatter
+1 Fabled Passage
+2 Fabled Passage
+2 Emeria's Call
+3 Behold the Multiverse
 1 Jwari Disruption
 2 Jwari Disruption
-4 Shark Typhoon
+1 Essence Scatter
 1 Niko Aris
 2 Raugrin Triome
 3 Raugrin Triome
 4 Raugrin Triome
-3 Fabled Passage
-2 Yorion, Sky Nomad
-2 Shatter the Sky
-4 Elspeth Conquers Death
+3 Shark Typhoon
 4 Skyclave Apparition
-8 Island
+4 Behold the Multiverse
+1 Brazen Borrower
+2 Brazen Borrower
 2 Niko Aris
 3 Archon of Sun's Grace
+1 Shatter the Sky
 1 Crawling Barrens
+2 Field of Ruin
+2 Essence Scatter
+4 Shark Typhoon
+2 Yorion, Sky Nomad
+3 Fabled Passage
+2 Shatter the Sky
+4 Elspeth Conquers Death
+4 Archon of Sun's Grace
+8 Island
+2 Sea Gate Restoration
+1 Midnight Clock
 1 Alrund's Epiphany
 4 Fabled Passage
+3 Jwari Disruption
+4 Mazemind Tome
 2 Castle Vantress
-2 Castle Ardenvale
 1 Disdainful Stroke
+2 Castle Ardenvale
 1 Banishing Light
 2 Banishing Light
-4 Archon of Sun's Grace
 3 Shatter the Sky
 7 Plains
 2 Alrund's Epiphany
-2 Sea Gate Restoration
-1 Midnight Clock
 1 The Raven's Warning
 2 The Raven's Warning
 1 Snow-Covered Island
@@ -57,11 +59,10 @@
 3 Snow-Covered Plains
 4 Snow-Covered Island
 5 Snow-Covered Island
+4 Jwari Disruption
 2 Dream Trawler
 1 Gates of Istfell
-3 Jwari Disruption
 3 Negate
-4 Mazemind Tome
 2 Disdainful Stroke
 8 Plains
 3 The Raven's Warning
@@ -71,7 +72,10 @@
 2 Crawling Barrens
 3 Disdainful Stroke
 3 Crawling Barrens
-4 Jwari Disruption
+1 Banish into Fable
+2 Banish into Fable
+3 Banish into Fable
+4 Banish into Fable
 3 Brazen Borrower
 4 Brazen Borrower
 3 Emeria's Call
@@ -86,9 +90,9 @@
 10 Island
 1 Solemn Simulacrum
 2 Solemn Simulacrum
+4 Snow-Covered Plains
 2 Midnight Clock
 3 Midnight Clock
-4 Snow-Covered Plains
 1 Starnheim Unleashed
 2 Starnheim Unleashed
 4 The Raven's Warning
@@ -111,32 +115,28 @@
 3 Banishing Light
 3 Reidane, God of the Worthy
 4 Banishing Light
+4 Disdainful Stroke
+4 Crawling Barrens
+3 Castle Ardenvale
+3 Solemn Simulacrum
+4 Solemn Simulacrum
 1 Baneslayer Angel
 1 Fae of Wishes
 2 Baneslayer Angel
 2 Fae of Wishes
 3 Fae of Wishes
 3 Baneslayer Angel
-4 Fae of Wishes
 4 Omen of the Sun
-4 Crawling Barrens
-4 Disdainful Stroke
-3 Castle Ardenvale
-3 Solemn Simulacrum
-4 Solemn Simulacrum
-1 Banish into Fable
-2 Banish into Fable
-3 Banish into Fable
-4 Banish into Fable
+4 Fae of Wishes
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 1 Teferi, Master of Time
 1 Confounding Conundrum
 1 Mystical Dispute
 2 Confounding Conundrum
+2 Sublime Epiphany
 2 Thassa, Deep-Dwelling
 2 Teferi, Master of Time
-2 Sublime Epiphany
 2 Mystical Dispute
 3 Confounding Conundrum
 3 Mystical Dispute
@@ -161,9 +161,9 @@
 2 Depart the Realm
 3 Cosima, God of the Voyage
 3 Depart the Realm
-4 Dream Trawler
 4 Alrund's Epiphany
 4 Cosima, God of the Voyage
+4 Dream Trawler
 1 Giant Killer
 4 Field of Ruin
 1 Ravenform

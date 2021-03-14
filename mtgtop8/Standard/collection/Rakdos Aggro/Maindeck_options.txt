@@ -5,17 +5,16 @@
 1 Tymaret Calls the Dead
 2 Tymaret Calls the Dead
 4 Mire Triton
-1 Goldspan Dragon
 2 Skyclave Shade
-3 Shatterskull Smashing
+3 Rankle, Master of Pranks
 3 Bloodchief's Thirst
 1 Inscription of Ruin
+2 Goldspan Dragon
+3 Skyclave Shade
 3 Tymaret Calls the Dead
 1 Egon, God of Death
 4 Kroxa, Titan of Death's Hunger
-4 The Akroan War
-4 Shatterskull Smashing
-1 Embereth Shieldbreaker
+3 Shatterskull Smashing
 1 Acquisitions Expert
 1 Elderfang Disciple
 2 Acquisitions Expert
@@ -26,14 +25,13 @@
 4 Elderfang Disciple
 1 Magmatic Channeler
 1 Mire's Grasp
+1 Embereth Shieldbreaker
 1 Hagra Mauling
-2 Inscription of Ruin
 2 Magmatic Channeler
 2 Hagra Mauling
+2 Inscription of Ruin
 3 Inscription of Ruin
 2 Immersturm Predator
-2 Goldspan Dragon
-3 Skyclave Shade
 3 Valki, God of Lies
 2 Egon, God of Death
 1 Riverglide Pathway
@@ -47,26 +45,47 @@
 2 Mire's Grasp
 3 Temple of Malice
 4 Temple of Malice
-1 Ox of Agonas
-3 Heartless Act
+4 Shatterskull Smashing
+4 The Akroan War
+1 Tergrid, God of Fright
 1 Savai Triome
 2 Savai Triome
-1 Tergrid, God of Fright
+3 Savai Triome
+4 Savai Triome
 1 Agadeem's Awakening
 1 Soul Shatter
 2 Tergrid, God of Fright
 2 Soul Shatter
 1 Immersturm Skullcairn
+1 Ox of Agonas
 4 Tymaret Calls the Dead
 1 Nullpriest of Oblivion
 1 Stormfist Crusader
 2 Stormfist Crusader
 3 Stormfist Crusader
 4 Stormfist Crusader
+3 Heartless Act
+1 Unleash Fury
+1 Needleverge Pathway
+1 Brightclimb Pathway
+1 Showdown of the Skalds
+1 Sejiri Shelter
+2 Unleash Fury
+2 Sejiri Shelter
+2 Brightclimb Pathway
+2 Kazuul's Fury
+2 Needleverge Pathway
+2 Showdown of the Skalds
+3 Kazuul's Fury
+3 Unleash Fury
+3 Sejiri Shelter
+3 Brightclimb Pathway
+3 Showdown of the Skalds
+3 Needleverge Pathway
+3 Goldspan Dragon
+4 Brightclimb Pathway
 7 Swamp
 8 Swamp
-3 Savai Triome
-4 Savai Triome
 1 Snow-Covered Mountain
 1 Snow-Covered Swamp
 2 Snow-Covered Mountain
@@ -87,30 +106,11 @@
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
 1 Liliana, Waker of the Dead
+1 Seasoned Hallowblade
+1 Reidane, God of the Worthy
 1 Eliminate
 2 Eliminate
-2 Embereth Shieldbreaker
-2 Ox of Agonas
 4 Inscription of Ruin
-1 Unleash Fury
-1 Brightclimb Pathway
-1 Needleverge Pathway
-1 Showdown of the Skalds
-1 Sejiri Shelter
-2 Unleash Fury
-2 Sejiri Shelter
-2 Brightclimb Pathway
-2 Kazuul's Fury
-2 Needleverge Pathway
-2 Showdown of the Skalds
-3 Kazuul's Fury
-3 Unleash Fury
-3 Sejiri Shelter
-3 Needleverge Pathway
-3 Brightclimb Pathway
-3 Showdown of the Skalds
-3 Goldspan Dragon
-4 Brightclimb Pathway
 4 Skyclave Shade
 4 Rankle, Master of Pranks
 1 Bastion of Remembrance
@@ -124,32 +124,32 @@
 3 Goblin Arsonist
 3 Serrated Scorpion
 4 Bastion of Remembrance
-4 Serrated Scorpion
 4 Goblin Arsonist
 4 Immersturm Predator
+4 Serrated Scorpion
 1 Kardur's Vicious Return
 1 Narfi, Betrayer King
 1 Sulfurous Mire
 1 Skull Raid
 1 Frost Bite
 1 Shimmerdrift Vale
-1 Reaper of Night
 1 Feed the Swarm
 1 Feed the Serpent
 1 Elspeth's Nightmare
+1 Reaper of Night
 2 Narfi, Betrayer King
 2 Kardur's Vicious Return
 2 Immersturm Skullcairn
 2 Sulfurous Mire
-2 Skull Raid
 2 Shimmerdrift Vale
+2 Skull Raid
 2 Frost Bite
 2 Feed the Swarm
 2 Reaper of Night
 2 Elspeth's Nightmare
 2 Feed the Serpent
-3 Skull Raid
 3 Shimmerdrift Vale
+3 Skull Raid
 3 Sulfurous Mire
 3 Frost Bite
 3 Elspeth's Nightmare
@@ -181,8 +181,8 @@
 2 Liliana, Waker of the Dead
 3 Pharika's Libation
 3 Dream Devourer
-3 Blood on the Snow
 3 Egon, God of Death
+3 Blood on the Snow
 3 Tergrid, God of Fright
 3 Soul Shatter
 3 Agadeem's Awakening

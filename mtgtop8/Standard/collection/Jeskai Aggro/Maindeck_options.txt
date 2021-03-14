@@ -2,6 +2,7 @@
 1 Fabled Passage
 1 Mountain
 2 Island
+1 Pollywog Symbiote
 1 Temple of Epiphany
 1 See the Truth
 1 Open the Omenpaths
@@ -9,39 +10,38 @@
 1 Temple of Enlightenment
 1 Cloudpiercer
 1 Opt
-1 Pollywog Symbiote
 1 Doomskar Titan
 1 Dreamtail Heron
 1 Cubwarden
 1 Lore Drakkis
 1 Vadrok, Apex of Thunder
+2 Pollywog Symbiote
 2 Temple of Epiphany
 2 Sea-Dasher Octopus
 2 Temple of Enlightenment
 2 Cloudpiercer
 2 Cubwarden
-2 Pollywog Symbiote
 2 Dreamtail Heron
 2 See the Truth
 2 Opt
 2 Open the Omenpaths
 2 Vadrok, Apex of Thunder
-3 Temple of Epiphany
+3 Pollywog Symbiote
 3 Temple of Enlightenment
+3 Temple of Epiphany
 3 Vadrok, Apex of Thunder
 3 Open the Omenpaths
 3 Cubwarden
-3 Pollywog Symbiote
 3 Dreamtail Heron
 3 See the Truth
 3 Opt
 3 Sea-Dasher Octopus
+4 Pollywog Symbiote
 4 See the Truth
 4 Open the Omenpaths
 4 Cubwarden
 4 Opt
 4 Vadrok, Apex of Thunder
-4 Pollywog Symbiote
 4 Dreamtail Heron
 4 Sea-Dasher Octopus
 1 Pious Wayfarer
@@ -60,8 +60,8 @@
 3 Plains
 3 Fabled Passage
 3 Pious Wayfarer
-4 Mountain
 4 Raugrin Triome
+4 Mountain
 4 Plains
 4 Transcendent Envoy
 4 Pious Wayfarer

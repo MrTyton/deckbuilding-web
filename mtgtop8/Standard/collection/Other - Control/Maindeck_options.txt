@@ -1,4 +1,4 @@
-2 Indatha Triome
+2 Forest
 2 Swamp
 3 Indatha Triome
 4 Indatha Triome
@@ -156,8 +156,8 @@
 4 Tergrid, God of Fright
 1 Ketria Triome
 1 Charming Prince
-1 Firja's Retribution
 1 Esika's Chariot
+1 Firja's Retribution
 1 Tangled Florahedron
 1 Kaya the Inexorable
 2 Firja's Retribution
@@ -165,8 +165,8 @@
 3 Tangled Florahedron
 4 Tangled Florahedron
 2 Crawling Barrens
-1 Banishing Light
 1 Shatter the Sky
+1 Banishing Light
 2 Banishing Light
 2 Shatter the Sky
 3 Temple of Malady
@@ -174,6 +174,16 @@
 4 Banishing Light
 4 Temple of Silence
 4 Eerie Ultimatum
+1 Mire Triton
+1 Lotus Cobra
+1 Chevill, Bane of Monsters
+1 Wolfwillow Haven
+1 Skull Prophet
+2 Lotus Cobra
+2 Mire Triton
+2 Acolyte of Affliction
+2 Yasharn, Implacable Earth
+6 Swamp
 1 Wicked Wolf
 1 Trail of Crumbs
 2 Wicked Wolf
@@ -184,22 +194,12 @@
 3 Trail of Crumbs
 3 Emeria's Call
 4 Elspeth Conquers Death
-4 Trail of Crumbs
 4 Mazemind Tome
+4 Trail of Crumbs
 4 Wicked Wolf
 4 Emeria's Call
 5 Forest
 6 Forest
-1 Mire Triton
-1 Lotus Cobra
-1 Chevill, Bane of Monsters
-1 Wolfwillow Haven
-1 Skull Prophet
-2 Mire Triton
-2 Acolyte of Affliction
-2 Lotus Cobra
-2 Yasharn, Implacable Earth
-6 Swamp
 3 Llanowar Visionary
 4 Llanowar Visionary
 1 Snow-Covered Forest
@@ -208,28 +208,27 @@
 2 Snow-Covered Forest
 3 Snow-Covered Swamp
 3 Snow-Covered Forest
+1 Shepherd of the Flock
 1 Snow-Covered Plains
-1 Evolving Wilds
 1 Elderfang Disciple
 1 Snowfield Sinkhole
 1 Sculptor of Winter
-1 Shimmerdrift Vale
-1 Grasp of Darkness
-1 Arctic Treeline
-1 Skull Raid
+1 Evolving Wilds
 1 Great Hall of Starnheim
+1 Grasp of Darkness
+1 Skull Raid
+1 Arctic Treeline
 1 Feed the Serpent
 1 Sarulf's Packmate
 1 Rampage of the Valkyries
-1 Shepherd of the Flock
 1 Omen of the Hunt
 1 Woodland Chasm
 1 Kogla, the Titan Ape
-2 Evolving Wilds
+1 Shimmerdrift Vale
 2 Snowfield Sinkhole
 2 Elderfang Disciple
 2 Sculptor of Winter
-2 Shimmerdrift Vale
+2 Evolving Wilds
 2 Grasp of Darkness
 2 Skull Raid
 2 Arctic Treeline
@@ -238,19 +237,20 @@
 2 Great Hall of Starnheim
 2 Omen of the Hunt
 2 Rampage of the Valkyries
+2 Shimmerdrift Vale
 2 Woodland Chasm
 3 Elderfang Disciple
-3 Evolving Wilds
 3 Sculptor of Winter
-3 Shimmerdrift Vale
+3 Evolving Wilds
 3 Sarulf's Packmate
 3 Skull Raid
 3 Omen of the Hunt
 3 Woodland Chasm
+3 Shimmerdrift Vale
 3 Rampage of the Valkyries
 4 Elderfang Disciple
-4 Evolving Wilds
 4 Sculptor of Winter
+4 Evolving Wilds
 4 Sarulf's Packmate
 4 Omen of the Hunt
 4 Snow-Covered Swamp
@@ -265,12 +265,12 @@
 6 Snow-Covered Forest
 7 Snow-Covered Swamp
 1 Sejiri Shelter
-1 Shredded Sails
 1 Scorching Dragonfire
+1 Shredded Sails
 2 Shredded Sails
 1 Bonders' Enclave
-1 Hagra Mauling
 1 Elder Gargaroth
+1 Hagra Mauling
 1 Agonizing Remorse
 1 Cling to Dust
 1 Scavenging Ooze
@@ -284,19 +284,19 @@
 3 Agonizing Remorse
 2 Ondu Inversion
 3 Shatterskull Smashing
-1 Vorinclex, Monstrous Raider
 1 Temple of Abandon
 1 Zagoth Triome
 1 Cragcrown Pathway
 1 Liliana, Waker of the Dead
 1 Blightstep Pathway
+1 Vorinclex, Monstrous Raider
 1 Dream Devourer
 1 Snow-Covered Mountain
+2 Liliana, Waker of the Dead
 2 Cragcrown Pathway
 2 Blightstep Pathway
 2 Vorinclex, Monstrous Raider
 2 Snow-Covered Mountain
-2 Liliana, Waker of the Dead
 2 Dream Devourer
 3 Vorinclex, Monstrous Raider
 3 Blightstep Pathway
@@ -306,11 +306,11 @@
 3 Dream Devourer
 4 Solemn Simulacrum
 4 Valki, God of Lies
-4 Vorinclex, Monstrous Raider
 4 Blightstep Pathway
-4 Ugin, the Spirit Dragon
 4 Lukka, Coppercoat Outcast
+4 Vorinclex, Monstrous Raider
 4 Cultivate
+4 Ugin, the Spirit Dragon
 4 Dream Devourer
 1 Jwari Disruption
 1 Mystic Sanctuary
@@ -318,38 +318,38 @@
 1 Rewind
 1 Gadwick, the Wizened
 1 Silundi Vision
-1 Rain of Revelation
 1 Frantic Inventory
+1 Hypnotic Sprite
 1 Brazen Borrower
 1 Kiora Bests the Sea God
 1 Island
 1 Sublime Epiphany
 1 Essence Scatter
 1 Into the Roil
-1 Hypnotic Sprite
 1 Castle Vantress
 1 Shark Typhoon
 1 Field of Ruin
+1 Rain of Revelation
 1 Lofty Denial
 2 Castle Vantress
 2 Neutralize
-2 Rewind
 2 Gadwick, the Wizened
-2 Rain of Revelation
 2 Frantic Inventory
+2 Hypnotic Sprite
 2 Brazen Borrower
 2 Into the Roil
 2 Essence Scatter
 2 Shark Typhoon
 2 Island
-2 Hypnotic Sprite
+2 Rain of Revelation
+2 Rewind
 3 Brazen Borrower
 3 Neutralize
 3 Frantic Inventory
-3 Castle Vantress
 3 Shark Typhoon
 3 Rewind
 3 Island
+3 Castle Vantress
 4 Brazen Borrower
 4 Neutralize
 4 Frantic Inventory
@@ -363,9 +363,9 @@
 8 Island
 9 Island
 10 Island
-11 Island
 12 Island
 13 Island
 14 Island
 15 Island
 16 Island
+11 Island
