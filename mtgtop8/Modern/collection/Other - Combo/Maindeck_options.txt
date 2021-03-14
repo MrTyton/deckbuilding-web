@@ -246,6 +246,7 @@
 1 Bloodstained Mire
 1 Anger of the Gods
 1 Cloudform
+2 Transmogrify
 2 Raugrin Triome
 2 Izzet Charm
 2 Spell Snare
@@ -254,12 +255,11 @@
 2 Anger of the Gods
 2 Steam Vents
 2 Cloudform
-2 Transmogrify
 2 Lightning Bolt
 2 Polymorph
+3 Transmogrify
 3 Arid Mesa
 3 Remand
-3 Transmogrify
 3 Lightning Bolt
 3 Polymorph
 3 Dwarven Mine
@@ -300,12 +300,12 @@
 2 Dream's Grip
 2 Past in Flames
 2 Twiddle
+3 Wishclaw Talisman
 3 Darkslick Shores
 3 Serum Visions
 3 Ideas Unbound
 3 Snow-Covered Island
 3 Lotus Field
-3 Wishclaw Talisman
 3 Twiddle
 3 Sleight of Hand
 3 Psychic Puppetry
@@ -366,7 +366,6 @@
 4 Aether Hub
 4 Brilliant Ultimatum
 1 Nykthos, Shrine to Nyx
-1 Overwhelming Splendor
 1 Oust
 1 Solemnity
 1 Marsh Flats
@@ -375,6 +374,7 @@
 1 Deafening Clarion
 1 Wheel of Sun and Moon
 1 Dovescape
+1 Overwhelming Splendor
 1 Treasure Map
 1 Form of the Dragon
 1 Plains
@@ -439,7 +439,6 @@
 2 Chromatic Star
 2 Lurrus of the Dream-Den
 2 Metallic Rebuke
-3 Underworld Breach
 3 Lurrus of the Dream-Den
 3 Metallic Rebuke
 3 Mox Amber
@@ -448,6 +447,7 @@
 3 Emry, Lurker of the Loch
 3 Grinding Station
 3 Mishra's Bauble
+3 Underworld Breach
 4 Metallic Rebuke
 4 Mox Amber
 4 Chromatic Star

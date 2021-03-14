@@ -1,4 +1,4 @@
-1 Soul-Scar Mage
+1 Manamorphose
 1 Light Up the Stage
 1 Lava Dart
 2 Monastery Swiftspear
@@ -6,13 +6,13 @@
 2 Soul-Scar Mage
 2 Light Up the Stage
 2 Manamorphose
-3 Manamorphose
 3 Monastery Swiftspear
+3 Manamorphose
 3 Lava Dart
 3 Light Up the Stage
 3 Soul-Scar Mage
-4 Manamorphose
 4 Monastery Swiftspear
+4 Manamorphose
 4 Soul-Scar Mage
 4 Lava Dart
 4 Light Up the Stage
@@ -59,8 +59,8 @@
 1 Boros Charm
 1 Myth Realized
 2 Wooded Foothills
-2 Inspiring Vantage
 2 Sacred Foundry
+2 Inspiring Vantage
 2 Bloodstained Mire
 2 Boros Charm
 2 Myth Realized
@@ -182,20 +182,20 @@
 2 Peek
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
-1 Spell Pierce
 1 Dispel
+1 Spell Pierce
 2 Spell Pierce
 3 Ancestral Vision
-1 Narset, Parter of Veils
 1 Vendilion Clique
+1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Mystic Sanctuary
 4 Deceiver Exarch
 1 Growth Spiral
 1 Prismatic Vista
 1 Logic Knot
-1 Cosima, God of the Voyage
 1 Castle Vantress
+1 Cosima, God of the Voyage
 1 Frost Bite
 1 Volatile Fjord
 2 Growth Spiral
@@ -239,8 +239,8 @@
 2 Riverglide Pathway
 3 Riverglide Pathway
 3 Reflecting Pool
-3 Spirebluff Canal
 3 Cascade Bluffs
+3 Spirebluff Canal
 4 Riverglide Pathway
 4 Spirebluff Canal
 4 Cascade Bluffs

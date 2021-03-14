@@ -1,15 +1,15 @@
 1 Stomping Ground
-1 Utopia Sprawl
 1 Overgrown Tomb
 1 Wooded Foothills
 1 Teferi, Time Raveler
+1 Utopia Sprawl
 1 Temple Garden
 1 Breeding Pool
 1 Misty Rainforest
 2 Misty Rainforest
 2 Teferi, Time Raveler
-2 Utopia Sprawl
 2 Wooded Foothills
+2 Utopia Sprawl
 3 Utopia Sprawl
 4 Utopia Sprawl
 1 Windswept Heath
@@ -31,24 +31,24 @@
 2 Birds of Paradise
 1 Charming Prince
 1 Glasspool Mimic
-1 Omen of the Sea
 1 Magus of the Moon
 1 Scavenging Ooze
 1 Phantasmal Image
-1 Meddling Mage
 1 Omen of the Forge
 1 Skyclave Apparition
 1 Enigmatic Incarnation
 1 Lurrus of the Dream-Den
 1 Brain Maggot
 1 Spellskite
+1 Meddling Mage
 1 Reflector Mage
-2 Omen of the Sea
+1 Omen of the Sea
 2 Omen of the Forge
 2 Skyclave Apparition
+2 Omen of the Sea
 2 Enigmatic Incarnation
-3 Omen of the Sea
 3 Enigmatic Incarnation
+3 Omen of the Sea
 4 Omen of the Sea
 4 Enigmatic Incarnation
 4 Windswept Heath
@@ -63,8 +63,8 @@
 3 Spreading Seas
 3 Skyclave Apparition
 4 Spreading Seas
-1 Snow-Covered Island
 1 Snow-Covered Plains
+1 Snow-Covered Island
 1 Ketria Triome
 1 Forest
 1 Mountain
@@ -77,16 +77,16 @@
 3 Birds of Paradise
 1 Indatha Triome
 1 Snow-Covered Mountain
+1 Omnath, Locus of Creation
 1 Bring to Light
 1 Wrenn and Six
 1 Kaya's Guile
 1 Lightning Helix
-1 Omnath, Locus of Creation
 1 Supreme Verdict
-2 Lightning Helix
-2 Bring to Light
-2 Omnath, Locus of Creation
 2 Wrenn and Six
+2 Lightning Helix
+2 Omnath, Locus of Creation
+2 Bring to Light
 3 Bring to Light
 1 Godless Shrine
 1 Niv-Mizzet Reborn
@@ -205,8 +205,8 @@
 1 Seasoned Pyromancer
 1 On Thin Ice
 4 Skyclave Apparition
-2 Lithoform Blight
 2 Uro, Titan of Nature's Wrath
+2 Lithoform Blight
 3 Lithoform Blight
 4 Birds of Paradise
 4 Lithoform Blight
@@ -216,15 +216,15 @@
 3 Growth Spiral
 1 Voice of Resurgence
 1 Zagoth Triome
-1 Oath of Nissa
-1 Saheeli Rai
 1 Felidar Guardian
-2 Oath of Nissa
-2 Saheeli Rai
+1 Saheeli Rai
+1 Oath of Nissa
 2 Felidar Guardian
-3 Oath of Nissa
-3 Felidar Guardian
+2 Saheeli Rai
+2 Oath of Nissa
 3 Saheeli Rai
+3 Felidar Guardian
+3 Oath of Nissa
 3 Sphere of the Suns
 2 Pelakka Predation
 2 Thoughtseize
@@ -233,16 +233,14 @@
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 3 Leyline of Sanctity
-1 Archon of Emeria
 1 Cosima, God of the Voyage
+1 Archon of Emeria
 1 Maelstrom Pulse
 1 Reidane, God of the Worthy
 1 Heliod, Sun-Crowned
 1 Spike Feeder
 1 Omen of the Dead
 3 Abrupt Decay
-1 Scalding Tarn
-4 Growth Spiral
 1 Rimewood Falls
 1 Kaya, Orzhov Usurper
 1 Golos, Tireless Pilgrim
@@ -251,10 +249,12 @@
 1 Highland Forest
 2 Ice-Fang Coatl
 3 Verdant Catacombs
-4 Felidar Guardian
 4 Oath of Nissa
+4 Felidar Guardian
 3 Omen of the Forge
 4 Omen of the Forge
+1 Scalding Tarn
+4 Growth Spiral
 1 Thassa's Oracle
 1 Memory's Journey
 1 Bloodbraid Elf
@@ -266,8 +266,8 @@
 1 Lightning Bolt
 1 Flooded Strand
 1 Path to Exile
-2 Lightning Bolt
 2 Breeding Pool
+2 Lightning Bolt
 2 Path to Exile
 2 Flooded Strand
 2 Stomping Ground
