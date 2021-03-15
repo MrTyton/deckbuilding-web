@@ -37,7 +37,7 @@
 |                    1|[Searing Blood](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378483)      |                    1|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|
 |                    3|[Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129732)              |                    1|[Rending Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394663)     |
 |                    1|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)      |                    1|[Wear/Tear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=368950)          |
-|                    1|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|                    3|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
-|                     |                                                                                              |                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)     |
+|                    1|[Collective Defiance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414420)|                    1|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)     |
 |                     |                                                                                              |                    2|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)     |
+|                     |                                                                                              |                    3|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
 

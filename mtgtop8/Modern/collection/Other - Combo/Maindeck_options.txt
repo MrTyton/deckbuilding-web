@@ -234,12 +234,12 @@
 1 Arid Mesa
 1 Sacred Foundry
 2 Arid Mesa
+1 Transmogrify
 1 Fire Prophecy
 1 Dwarven Mine
 1 Repeal
 1 Spell Snare
 1 Izzet Charm
-1 Transmogrify
 1 Remand
 1 Polymorph
 1 Mana Leak
@@ -301,7 +301,6 @@
 2 Past in Flames
 2 Twiddle
 3 Wishclaw Talisman
-3 Darkslick Shores
 3 Serum Visions
 3 Ideas Unbound
 3 Snow-Covered Island
@@ -309,6 +308,7 @@
 3 Twiddle
 3 Sleight of Hand
 3 Psychic Puppetry
+3 Darkslick Shores
 3 Peer Through Depths
 3 Dream's Grip
 3 Reach Through Mists
@@ -365,8 +365,8 @@
 4 City of Brass
 4 Aether Hub
 4 Brilliant Ultimatum
-1 Nykthos, Shrine to Nyx
 1 Temple of Triumph
+1 Nykthos, Shrine to Nyx
 1 Oust
 1 Solemnity
 1 Marsh Flats
@@ -384,8 +384,8 @@
 1 Skyclave Apparition
 1 Lotus Bloom
 1 Phyrexian Unlife
-2 Nykthos, Shrine to Nyx
 2 Temple of Triumph
+2 Nykthos, Shrine to Nyx
 2 Sacred Foundry
 2 Silence
 2 Nine Lives
@@ -400,6 +400,7 @@
 2 Treasure Map
 2 Lotus Bloom
 3 Plains
+3 Oust
 3 Skyclave Apparition
 3 Sacred Foundry
 3 Solemnity
@@ -407,7 +408,6 @@
 3 Enduring Ideal
 3 Lotus Bloom
 3 Marsh Flats
-3 Oust
 3 Nine Lives
 4 Plains
 4 Sacred Foundry
@@ -440,8 +440,8 @@
 2 Lurrus of the Dream-Den
 2 Metallic Rebuke
 3 Underworld Breach
-3 Lurrus of the Dream-Den
 3 Metallic Rebuke
+3 Lurrus of the Dream-Den
 3 Mox Amber
 3 Chromatic Star
 3 Engineered Explosives

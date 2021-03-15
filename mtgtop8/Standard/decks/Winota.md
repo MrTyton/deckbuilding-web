@@ -145,6 +145,6 @@
 |                    3|[Claim the Firstborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473080)        |                     |                                                                                                       |
 |                    3|[Hobblefiend](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485475)                |                     |                                                                                                       |
 |                    4|[Claim the Firstborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473080)        |                     |                                                                                                       |
-|                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                       |
 |                   11|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                   |                     |                                                                                                       |
+|                    7|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                     |                     |                                                                                                       |
 

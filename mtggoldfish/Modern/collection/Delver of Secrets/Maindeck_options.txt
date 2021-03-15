@@ -113,20 +113,20 @@
 1 Mountain
 4 Remand
 2 Spell Snare
-1 Stoneforge Mystic
 1 Batterskull
 1 Sword of Fire and Ice
 1 Mantis Rider
 1 Seachrome Coast
+1 Stoneforge Mystic
 1 Plains
-2 Stoneforge Mystic
 2 Seachrome Coast
+2 Stoneforge Mystic
 2 Mantis Rider
 3 Stoneforge Mystic
 3 Mantis Rider
 4 Sleight of Hand
-4 Stoneforge Mystic
 4 Mantis Rider
+4 Stoneforge Mystic
 1 Nimble Obstructionist
 2 Nimble Obstructionist
 2 Ascendant Spirit
@@ -168,12 +168,6 @@
 1 Icehide Golem
 2 Unearth
 2 Icehide Golem
-1 Agadeem's Awakening
-1 Marsh Flats
-2 Agadeem's Awakening
-2 Bloodchief's Thirst
-2 Marsh Flats
-4 Darkslick Shores
 3 Young Pyromancer
 4 Young Pyromancer
 1 Visions of Beyond
@@ -186,13 +180,19 @@
 3 Dreadhorde Arcanist
 3 Hallowed Fountain
 4 Dreadhorde Arcanist
+1 Agadeem's Awakening
+1 Marsh Flats
+2 Agadeem's Awakening
+2 Bloodchief's Thirst
+2 Marsh Flats
+4 Darkslick Shores
 1 Sunbaked Canyon
 1 Stormwing Entity
 1 Lava Spike
 1 Monastery Swiftspear
-1 Lava Dart
-1 Gut Shot
 1 Light Up the Stage
+1 Gut Shot
+1 Lava Dart
 1 Manamorphose
 1 Mutagenic Growth
 1 Assault Strobe
@@ -201,15 +201,15 @@
 2 Lava Spike
 2 Manamorphose
 2 Monastery Swiftspear
-2 Lava Dart
 2 Light Up the Stage
+2 Lava Dart
 2 Gut Shot
 2 Mutagenic Growth
 2 Assault Strobe
 3 Lava Spike
 3 Monastery Swiftspear
-3 Lava Dart
 3 Light Up the Stage
+3 Lava Dart
 3 Manamorphose
 3 Fiery Islet
 3 Mountain

@@ -7,28 +7,24 @@
 3 Turntimber Symbiosis
 3 Kiora, Behemoth Beckoner
 1 Mana Confluence
-1 Rootbound Crag
-2 Rootbound Crag
 1 Gilded Goose
 1 Yasova Dragonclaw
 1 Oath of Nissa
 1 Scavenging Ooze
-1 Domri, Anarch of Bolas
-2 Domri, Anarch of Bolas
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
 2 Scavenging Ooze
+1 Rootbound Crag
+2 Rootbound Crag
 1 Overgrown Tomb
 1 Leeching Sliver
 1 Diffusion Sliver
 1 Syphon Sliver
 1 Galerider Sliver
-1 Unclaimed Territory
 1 Sliver Hive
+1 Unclaimed Territory
 1 Predatory Sliver
 1 Collected Company
-1 Striking Sliver
 1 Blur Sliver
+1 Striking Sliver
 1 Venom Sliver
 1 Manaweft Sliver
 2 Overgrown Tomb
@@ -63,21 +59,6 @@
 1 Realmwalker
 2 Realmwalker
 3 Realmwalker
-1 Garruk's Harbinger
-1 Goblin Rabblemaster
-1 Possibility Storm
-1 Enter the Infinite
-1 Shared Summons
-1 Borborygmos Enraged
-1 Stonecoil Serpent
-1 Captain Lannery Storm
-2 Goblin Rabblemaster
-2 Possibility Storm
-3 Goblin Rabblemaster
-3 Possibility Storm
-3 Rootbound Crag
-4 Rootbound Crag
-4 Possibility Storm
 1 Snow-Covered Island
 1 Snow-Covered Forest
 1 Snow-Covered Swamp
@@ -87,7 +68,6 @@
 2 Belligerent Sliver
 4 Striking Sliver
 4 Diffusion Sliver
-1 Questing Beast
 1 Blooming Marsh
 1 Botanical Sanctum
 2 Botanical Sanctum
@@ -97,6 +77,8 @@
 1 Wild Slash
 2 Wild Slash
 7 Mountain
+1 Domri, Anarch of Bolas
+2 Domri, Anarch of Bolas
 1 Breeding Pool
 1 Island
 2 Breeding Pool
@@ -105,8 +87,7 @@
 1 Hinterland Harbor
 1 Woodland Cemetery
 1 Spirebluff Canal
-1 Legion Warboss
-2 Captain Lannery Storm
+1 Garruk's Harbinger
 1 Thoughtseize
 1 Sentinel Sliver
 2 Blooming Marsh
@@ -117,31 +98,13 @@
 3 Blooming Marsh
 3 Blur Sliver
 3 Syphon Sliver
+1 Questing Beast
+1 Chandra, Torch of Defiance
 1 Game Trail
 2 Questing Beast
+2 Chandra, Torch of Defiance
 2 Game Trail
 3 Game Trail
-1 Kazandu Mammoth
-4 Goblin Rabblemaster
-1 Mutavault
-1 Tectonic Giant
-1 Crystalline Giant
-1 Fire Giant's Fury
-1 Calamity Bearer
-1 Quakebringer
-2 Mutavault
-2 Quakebringer
-2 Crystalline Giant
-2 Tectonic Giant
-2 Calamity Bearer
-2 Fire Giant's Fury
-3 Quakebringer
-3 Tectonic Giant
-3 Wild Slash
-3 Calamity Bearer
-4 Realmwalker
-4 Calamity Bearer
-4 Wild Slash
 1 Garruk's Uprising
 1 Voltaic Brawler
 1 Burning-Tree Emissary
@@ -155,12 +118,12 @@
 1 Branchloft Pathway
 1 Hangarback Walker
 1 Conclave Mentor
-1 Luminarch Aspirant
 1 Snakeskin Veil
 1 Dromoka's Command
 1 Hardened Scales
 1 Rishkar, Peema Renegade
 1 Sunpetal Grove
+1 Luminarch Aspirant
 1 Plains
 1 The Ozolith
 1 Nissa, Voice of Zendikar
@@ -169,13 +132,13 @@
 2 Branchloft Pathway
 2 Temple Garden
 2 Hangarback Walker
-2 Luminarch Aspirant
 2 Snakeskin Veil
 2 Conclave Mentor
 2 Rishkar, Peema Renegade
 2 The Ozolith
 2 Dromoka's Command
 2 Hardened Scales
+2 Luminarch Aspirant
 2 Sunpetal Grove
 2 Vivien, Arkbow Ranger
 2 Plains
@@ -192,11 +155,30 @@
 4 Branchloft Pathway
 4 Temple Garden
 4 Nissa, Voice of Zendikar
-4 Luminarch Aspirant
 4 Sunpetal Grove
+4 Luminarch Aspirant
 4 Conclave Mentor
 4 Hangarback Walker
 4 Hardened Scales
+1 Mutavault
+1 Crystalline Giant
+1 Fire Giant's Fury
+1 Tectonic Giant
+1 Calamity Bearer
+1 Quakebringer
+2 Mutavault
+2 Quakebringer
+2 Crystalline Giant
+2 Fire Giant's Fury
+2 Calamity Bearer
+2 Tectonic Giant
+3 Quakebringer
+3 Tectonic Giant
+3 Wild Slash
+3 Calamity Bearer
+4 Realmwalker
+4 Calamity Bearer
+4 Wild Slash
 1 Ghalta, Primal Hunger
 1 Regisaur Alpha
 1 Ripjaw Raptor
@@ -227,10 +209,10 @@
 1 Drownyard Temple
 1 Fabled Passage
 1 Castle Garenbrig
-1 Arboreal Grazer
 1 Oblivion Sower
 1 Yavimaya Coast
 1 Cavalier of Thorns
+1 Arboreal Grazer
 2 Ulamog, the Ceaseless Hunger
 2 Uro, Titan of Nature's Wrath
 2 World Breaker
@@ -246,8 +228,8 @@
 3 Uro, Titan of Nature's Wrath
 3 Satyr Wayfinder
 3 Yavimaya Coast
-3 Cavalier of Thorns
 3 Arboreal Grazer
+3 Cavalier of Thorns
 3 Ulamog, the Ceaseless Hunger
 3 World Breaker
 3 Castle Garenbrig

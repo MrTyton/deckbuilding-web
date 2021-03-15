@@ -1,44 +1,42 @@
-2 Forest
-2 Swamp
-3 Indatha Triome
-4 Indatha Triome
-1 Yorion, Sky Nomad
-2 Branchloft Pathway
-2 Brightclimb Pathway
-3 Forest
-2 Yorion, Sky Nomad
-3 Branchloft Pathway
-1 Binding the Old Gods
-2 Binding the Old Gods
-3 Binding the Old Gods
-4 Binding the Old Gods
-1 Darkbore Pathway
-3 Elspeth's Nightmare
-1 Temple of Malady
-1 Doom Foretold
-3 Brightclimb Pathway
-4 Brightclimb Pathway
-4 Branchloft Pathway
-3 Elspeth Conquers Death
-1 Temple of Plenty
-2 Darkbore Pathway
-2 Doom Foretold
-3 Doom Foretold
-4 Doom Foretold
-4 Forest
-1 Raugrin Triome
-1 Outlaws' Merriment
-3 Darkbore Pathway
-4 Darkbore Pathway
-2 Temple of Malady
-3 Yorion, Sky Nomad
-1 Archon of Sun's Grace
-2 Archon of Sun's Grace
-1 Omen of the Dead
-1 Setessan Champion
-2 Setessan Champion
-1 Temple of Silence
-3 Swamp
+1 Emeria's Call
+1 Glass Casket
+5 Plains
+2 Emeria's Call
+3 Omen of the Sun
+4 Omen of the Sun
+2 The Birth of Meletis
+2 Glass Casket
+1 Lukka, Coppercoat Outcast
+2 Lukka, Coppercoat Outcast
+1 Forbidden Friendship
+1 Shatterskull Smashing
+1 Fire Prophecy
+1 Elspeth, Sun's Nemesis
+1 Transmogrify
+1 Needleverge Pathway
+1 Harmonious Archon
+1 Mountain
+1 Castle Ardenvale
+2 Castle Ardenvale
+2 Transmogrify
+2 Fire Prophecy
+2 Elspeth, Sun's Nemesis
+2 Mountain
+2 Forbidden Friendship
+2 Needleverge Pathway
+2 Harmonious Archon
+3 Transmogrify
+3 Mountain
+3 Fire Prophecy
+3 Needleverge Pathway
+3 The Birth of Meletis
+3 Harmonious Archon
+4 The Birth of Meletis
+4 Transmogrify
+4 Mountain
+4 Fire Prophecy
+4 Needleverge Pathway
+4 Harmonious Archon
 1 Heartless Act
 2 Heartless Act
 1 In Search of Greatness
@@ -64,19 +62,15 @@
 4 Runeforge Champion
 4 Setessan Champion
 4 In Search of Greatness
-1 The Akroan War
-2 The Akroan War
 1 Burning-Rune Demon
+1 Raugrin Triome
+1 Outlaws' Merriment
 4 Swamp
 2 Eerie Ultimatum
 1 Extinction Event
 1 Mythos of Nethroi
 2 Mythos of Nethroi
 1 Ugin, the Spirit Dragon
-1 Castle Embereth
-2 Castle Embereth
-2 Raugrin Triome
-3 Raugrin Triome
 1 Acquisitions Expert
 3 Heartless Act
 2 Temple of Silence
@@ -88,17 +82,19 @@
 3 Treacherous Blessing
 1 Golden Egg
 1 Garruk, Cursed Huntsman
-1 Ondu Inversion
 1 Llanowar Visionary
 2 Llanowar Visionary
-1 Temple of Triumph
-2 Temple of Triumph
-2 Shatterskull Smashing
+1 Ondu Inversion
+1 The Akroan War
+2 Raugrin Triome
+2 The Akroan War
+3 Raugrin Triome
 1 Yasharn, Implacable Earth
 2 Eliminate
 1 Polukranos, Unchained
 1 Bloodchief's Thirst
 3 Mythos of Nethroi
+2 Shatterskull Smashing
 1 Agadeem's Awakening
 1 Vivien, Monsters' Advocate
 5 Swamp
@@ -122,10 +118,14 @@
 3 Skyclave Apparition
 4 Skyclave Apparition
 1 Soul Sear
+1 Temple of Triumph
 2 Soul Sear
+2 Temple of Triumph
 3 Soul Sear
 4 Soul Sear
 5 Mountain
+1 Castle Embereth
+2 Castle Embereth
 2 Castle Locthwain
 1 Crawling Barrens
 2 Vivien, Monsters' Advocate
@@ -216,8 +216,8 @@
 1 Evolving Wilds
 1 Great Hall of Starnheim
 1 Grasp of Darkness
-1 Skull Raid
 1 Arctic Treeline
+1 Skull Raid
 1 Feed the Serpent
 1 Sarulf's Packmate
 1 Rampage of the Valkyries
@@ -225,8 +225,8 @@
 1 Woodland Chasm
 1 Kogla, the Titan Ape
 1 Shimmerdrift Vale
-2 Snowfield Sinkhole
 2 Elderfang Disciple
+2 Snowfield Sinkhole
 2 Sculptor of Winter
 2 Evolving Wilds
 2 Grasp of Darkness
@@ -313,10 +313,10 @@
 4 Ugin, the Spirit Dragon
 4 Dream Devourer
 1 Jwari Disruption
-1 Mystic Sanctuary
 1 Neutralize
 1 Rewind
 1 Gadwick, the Wizened
+1 Mystic Sanctuary
 1 Silundi Vision
 1 Frantic Inventory
 1 Hypnotic Sprite

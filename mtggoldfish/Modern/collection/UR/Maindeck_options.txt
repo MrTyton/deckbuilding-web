@@ -1,23 +1,23 @@
 2 Shark Typhoon
 1 Manamorphose
+1 Lava Dart
 1 Light Up the Stage
 1 Soul-Scar Mage
-1 Lava Dart
 1 Monastery Swiftspear
-2 Light Up the Stage
 2 Lava Dart
+2 Light Up the Stage
 2 Monastery Swiftspear
 2 Soul-Scar Mage
 2 Manamorphose
 3 Manamorphose
-3 Light Up the Stage
 3 Lava Dart
+3 Light Up the Stage
 3 Monastery Swiftspear
 3 Soul-Scar Mage
 4 Manamorphose
 4 Light Up the Stage
-4 Soul-Scar Mage
 4 Lava Dart
+4 Soul-Scar Mage
 4 Monastery Swiftspear
 2 Mountain
 3 Mountain
@@ -36,10 +36,10 @@
 2 Mutagenic Growth
 3 Mutagenic Growth
 1 Wooded Foothills
-1 Inspiring Vantage
+1 Arid Mesa
 1 Sacred Foundry
 1 Abbot of Keral Keep
-1 Arid Mesa
+1 Inspiring Vantage
 1 Bloodstained Mire
 1 Boros Charm
 1 Myth Realized
@@ -111,17 +111,17 @@
 5 Snow-Covered Island
 1 Stomping Ground
 1 Snow-Covered Forest
-1 Breeding Pool
 1 Ice-Fang Coatl
+1 Breeding Pool
 1 Wrenn and Six
 1 Lonely Sandbar
 1 Ketria Triome
 2 Snow-Covered Forest
 2 Ice-Fang Coatl
 2 Wrenn and Six
+3 Ice-Fang Coatl
 3 Wrenn and Six
 3 Mana Leak
-3 Ice-Fang Coatl
 4 Ice-Fang Coatl
 1 Behold the Multiverse
 2 Behold the Multiverse
@@ -131,8 +131,8 @@
 2 Breeding Pool
 2 Field of Ruin
 4 Wrenn and Six
-1 Omen of the Sea
 1 Emrakul, the Aeons Torn
+1 Omen of the Sea
 1 Through the Breach
 2 Omen of the Sea
 2 Emrakul, the Aeons Torn
@@ -169,24 +169,24 @@
 2 Peek
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
+1 Narset, Parter of Veils
+1 Vendilion Clique
+2 Narset, Parter of Veils
+3 Mystic Sanctuary
 1 Dispel
 1 Spell Pierce
 2 Spell Pierce
 3 Ancestral Vision
-1 Vendilion Clique
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-3 Mystic Sanctuary
 4 Fiery Islet
 1 Finale of Promise
 3 Blistercoil Weird
 4 Blistercoil Weird
 1 Growth Spiral
 1 Prismatic Vista
+1 Frost Bite
 1 Cosima, God of the Voyage
 1 Logic Knot
 1 Castle Vantress
-1 Frost Bite
 1 Volatile Fjord
 2 Growth Spiral
 2 Cosima, God of the Voyage
@@ -224,8 +224,8 @@
 4 Cascade Bluffs
 1 Dreadhorde Arcanist
 1 Piracy Charm
-2 Dreadhorde Arcanist
 2 Deprive
+2 Dreadhorde Arcanist
 2 Piracy Charm
 3 Dreadhorde Arcanist
 3 Polluted Delta
@@ -256,8 +256,8 @@
 1 Forgotten Cave
 1 Arclight Phoenix
 1 Thrill of Possibility
-2 Forgotten Cave
 2 Arclight Phoenix
+2 Forgotten Cave
 2 Thrill of Possibility
 3 Arclight Phoenix
 3 Thrill of Possibility

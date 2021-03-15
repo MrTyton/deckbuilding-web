@@ -108,7 +108,7 @@
 |                    1|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891)             |                     |                                                                                                      |
 |                    2|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891)             |                     |                                                                                                      |
 |                    3|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891)             |                     |                                                                                                      |
-|                    4|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891)             |                     |                                                                                                      |
 |                    4|[Hashep Oasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430866)               |                     |                                                                                                      |
+|                    4|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891)             |                     |                                                                                                      |
 |                    4|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)           |                     |                                                                                                      |
 
