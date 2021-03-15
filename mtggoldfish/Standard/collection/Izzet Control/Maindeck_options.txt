@@ -36,8 +36,8 @@
 1 Fire Prophecy
 2 Fire Prophecy
 3 Temple of Epiphany
-1 Castle Vantress
 1 Castle Embereth
+1 Castle Vantress
 1 Teferi, Master of Time
 1 Island
 2 Mountain
@@ -46,8 +46,8 @@
 3 Island
 4 Island
 4 Mountain
-5 Mountain
 5 Island
+5 Mountain
 6 Island
 7 Island
 1 Sublime Epiphany
@@ -79,44 +79,14 @@
 2 Storm's Wrath
 2 Double Vision
 3 Double Vision
-1 The Royal Scions
-1 Rielle, the Everwise
-1 Improbable Alliance
-1 Raugrin Triome
-2 Rielle, the Everwise
-2 Teferi, Master of Time
-2 Raugrin Triome
-2 The Royal Scions
-2 Improbable Alliance
-3 Improbable Alliance
-3 The Royal Scions
-3 Raugrin Triome
-3 Teferi, Master of Time
-4 Improbable Alliance
-4 Raugrin Triome
 1 Thryx, the Sudden Storm
 1 Crush the Weak
 2 Crush the Weak
 2 Thryx, the Sudden Storm
 3 Crush the Weak
-4 Shatterskull Smashing
 4 Negate
+4 Shatterskull Smashing
 4 Essence Scatter
-1 Thassa's Intervention
-1 Spikefield Hazard
-1 Surtland Frostpyre
-1 Voracious Greatshark
-2 Thassa's Intervention
-2 Voracious Greatshark
-3 Disdainful Stroke
-4 Temple of Epiphany
-6 Mountain
-8 Island
-1 Mazemind Tome
-1 Phoenix of Ash
-2 Phoenix of Ash
-9 Snow-Covered Island
-10 Snow-Covered Island
 1 Avalanche Caller
 1 Squash
 1 Aegar, the Freezing Flame
@@ -128,3 +98,33 @@
 4 Faceless Haven
 4 Aegar, the Freezing Flame
 4 Glimpse the Cosmos
+1 The Royal Scions
+1 Raugrin Triome
+1 Rielle, the Everwise
+1 Improbable Alliance
+2 Teferi, Master of Time
+2 Raugrin Triome
+2 The Royal Scions
+2 Rielle, the Everwise
+2 Improbable Alliance
+3 The Royal Scions
+3 Raugrin Triome
+3 Teferi, Master of Time
+3 Improbable Alliance
+4 Raugrin Triome
+4 Improbable Alliance
+1 Mazemind Tome
+1 Phoenix of Ash
+2 Phoenix of Ash
+9 Snow-Covered Island
+10 Snow-Covered Island
+1 Thassa's Intervention
+1 Spikefield Hazard
+1 Surtland Frostpyre
+1 Voracious Greatshark
+2 Thassa's Intervention
+2 Voracious Greatshark
+3 Disdainful Stroke
+4 Temple of Epiphany
+8 Island
+6 Mountain

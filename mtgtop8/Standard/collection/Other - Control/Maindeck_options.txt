@@ -10,33 +10,33 @@
 2 Lukka, Coppercoat Outcast
 1 Forbidden Friendship
 1 Shatterskull Smashing
-1 Fire Prophecy
-1 Elspeth, Sun's Nemesis
 1 Transmogrify
+1 Elspeth, Sun's Nemesis
+1 Fire Prophecy
 1 Needleverge Pathway
 1 Harmonious Archon
 1 Mountain
 1 Castle Ardenvale
 2 Castle Ardenvale
 2 Transmogrify
-2 Fire Prophecy
 2 Elspeth, Sun's Nemesis
+2 Fire Prophecy
 2 Mountain
 2 Forbidden Friendship
 2 Needleverge Pathway
 2 Harmonious Archon
 3 Transmogrify
 3 Mountain
-3 Fire Prophecy
 3 Needleverge Pathway
 3 The Birth of Meletis
 3 Harmonious Archon
+3 Fire Prophecy
 4 The Birth of Meletis
 4 Transmogrify
 4 Mountain
-4 Fire Prophecy
 4 Needleverge Pathway
 4 Harmonious Archon
+4 Fire Prophecy
 1 Heartless Act
 2 Heartless Act
 1 In Search of Greatness
@@ -48,42 +48,45 @@
 4 Gilded Goose
 1 Eerie Ultimatum
 1 Eliminate
-1 Runeforge Champion
-1 Rune of Sustenance
 1 Rune of Might
+1 Rune of Sustenance
+1 Runeforge Champion
 1 Rune of Mortality
+2 In Search of Greatness
+2 Rune of Might
+2 Omen of the Dead
 2 Runeforge Champion
 2 Rune of Sustenance
-2 Rune of Might
-2 In Search of Greatness
-2 Omen of the Dead
-3 Runeforge Champion
 3 In Search of Greatness
-4 Runeforge Champion
+3 Runeforge Champion
 4 Setessan Champion
+4 Runeforge Champion
 4 In Search of Greatness
 1 Burning-Rune Demon
 1 Raugrin Triome
 1 Outlaws' Merriment
 4 Swamp
 2 Eerie Ultimatum
+1 Agadeem's Awakening
 1 Extinction Event
 1 Mythos of Nethroi
 2 Mythos of Nethroi
+1 Llanowar Visionary
+2 Llanowar Visionary
+1 Polukranos, Unchained
+1 Bloodchief's Thirst
 1 Ugin, the Spirit Dragon
 1 Acquisitions Expert
-3 Heartless Act
-2 Temple of Silence
-2 Extinction Event
-3 Extinction Event
-4 Elspeth's Nightmare
 1 Treacherous Blessing
 2 Treacherous Blessing
 3 Treacherous Blessing
+3 Heartless Act
+2 Temple of Silence
 1 Golden Egg
 1 Garruk, Cursed Huntsman
-1 Llanowar Visionary
-2 Llanowar Visionary
+2 Extinction Event
+3 Extinction Event
+4 Elspeth's Nightmare
 1 Ondu Inversion
 1 The Akroan War
 2 Raugrin Triome
@@ -91,27 +94,28 @@
 3 Raugrin Triome
 1 Yasharn, Implacable Earth
 2 Eliminate
-1 Polukranos, Unchained
-1 Bloodchief's Thirst
 3 Mythos of Nethroi
 2 Shatterskull Smashing
-1 Agadeem's Awakening
+2 Bloodchief's Thirst
+1 Castle Locthwain
 1 Vivien, Monsters' Advocate
+2 Castle Locthwain
+3 Eliminate
 5 Swamp
+4 Mythos of Nethroi
 1 Acolyte of Affliction
 2 Acquisitions Expert
 4 Treacherous Blessing
-3 Eliminate
-2 Bloodchief's Thirst
-4 Mythos of Nethroi
 1 Doomskar
 2 Garruk, Cursed Huntsman
 3 Eerie Ultimatum
-1 Castle Locthwain
+1 Bala Ged Recovery
 2 Golden Egg
 3 Golden Egg
-1 Bala Ged Recovery
 3 Temple of Silence
+1 Valki, God of Lies
+2 Valki, God of Lies
+3 Valki, God of Lies
 1 Mazemind Tome
 1 Skyclave Apparition
 2 Skyclave Apparition
@@ -126,14 +130,19 @@
 5 Mountain
 1 Castle Embereth
 2 Castle Embereth
-2 Castle Locthwain
+1 Ketria Triome
+1 Kaya the Inexorable
+1 Chevill, Bane of Monsters
 1 Crawling Barrens
 2 Vivien, Monsters' Advocate
+3 Llanowar Visionary
+1 Hagra Mauling
+1 Agonizing Remorse
+2 Agonizing Remorse
+2 Polukranos, Unchained
+3 Agonizing Remorse
 1 Solemn Simulacrum
 2 Solemn Simulacrum
-1 Valki, God of Lies
-2 Valki, God of Lies
-3 Valki, God of Lies
 1 Cultivate
 2 Cultivate
 2 Ugin, the Spirit Dragon
@@ -154,12 +163,10 @@
 2 Doomskar
 3 Tergrid, God of Fright
 4 Tergrid, God of Fright
-1 Ketria Triome
 1 Charming Prince
 1 Esika's Chariot
 1 Firja's Retribution
 1 Tangled Florahedron
-1 Kaya the Inexorable
 2 Firja's Retribution
 2 Tangled Florahedron
 3 Tangled Florahedron
@@ -176,7 +183,6 @@
 4 Eerie Ultimatum
 1 Mire Triton
 1 Lotus Cobra
-1 Chevill, Bane of Monsters
 1 Wolfwillow Haven
 1 Skull Prophet
 2 Lotus Cobra
@@ -200,7 +206,8 @@
 4 Emeria's Call
 5 Forest
 6 Forest
-3 Llanowar Visionary
+1 Vorinclex, Monstrous Raider
+2 Vorinclex, Monstrous Raider
 4 Llanowar Visionary
 1 Snow-Covered Forest
 1 Snow-Covered Swamp
@@ -208,16 +215,16 @@
 2 Snow-Covered Forest
 3 Snow-Covered Swamp
 3 Snow-Covered Forest
-1 Shepherd of the Flock
 1 Snow-Covered Plains
+1 Shepherd of the Flock
 1 Elderfang Disciple
 1 Snowfield Sinkhole
 1 Sculptor of Winter
 1 Evolving Wilds
 1 Great Hall of Starnheim
+1 Skull Raid
 1 Grasp of Darkness
 1 Arctic Treeline
-1 Skull Raid
 1 Feed the Serpent
 1 Sarulf's Packmate
 1 Rampage of the Valkyries
@@ -270,18 +277,23 @@
 2 Shredded Sails
 1 Bonders' Enclave
 1 Elder Gargaroth
-1 Hagra Mauling
-1 Agonizing Remorse
 1 Cling to Dust
 1 Scavenging Ooze
 2 Bala Ged Recovery
 2 Elder Gargaroth
-2 Agonizing Remorse
-2 Polukranos, Unchained
 2 Scavenging Ooze
 3 Scavenging Ooze
 3 Elder Gargaroth
-3 Agonizing Remorse
+1 Easy Prey
+1 The World Tree
+1 Murderous Rider
+2 Kaya the Inexorable
+2 Chevill, Bane of Monsters
+2 Easy Prey
+2 The World Tree
+2 Murderous Rider
+3 Chevill, Bane of Monsters
+3 Murderous Rider
 2 Ondu Inversion
 3 Shatterskull Smashing
 1 Temple of Abandon
@@ -289,13 +301,11 @@
 1 Cragcrown Pathway
 1 Liliana, Waker of the Dead
 1 Blightstep Pathway
-1 Vorinclex, Monstrous Raider
 1 Dream Devourer
 1 Snow-Covered Mountain
 2 Liliana, Waker of the Dead
 2 Cragcrown Pathway
 2 Blightstep Pathway
-2 Vorinclex, Monstrous Raider
 2 Snow-Covered Mountain
 2 Dream Devourer
 3 Vorinclex, Monstrous Raider
@@ -314,10 +324,10 @@
 4 Dream Devourer
 1 Jwari Disruption
 1 Neutralize
+1 Silundi Vision
 1 Rewind
 1 Gadwick, the Wizened
 1 Mystic Sanctuary
-1 Silundi Vision
 1 Frantic Inventory
 1 Hypnotic Sprite
 1 Brazen Borrower
@@ -363,9 +373,9 @@
 8 Island
 9 Island
 10 Island
+11 Island
 12 Island
 13 Island
 14 Island
 15 Island
 16 Island
-11 Island

@@ -1,6 +1,6 @@
-4 Fatal Push
-3 Shark Typhoon
 1 Jace, Vryn's Prodigy
+3 Fatal Push
+4 Fatal Push
 1 Zagoth Triome
 2 Zagoth Triome
 1 Extinction Event
@@ -43,21 +43,19 @@
 4 Nissa, Who Shakes the World
 4 Overgrown Tomb
 2 Negate
-4 Thing in the Ice
 2 Castle Locthwain
-4 Drowned Catacomb
 1 Languish
-1 Sinister Sabotage
-1 Censor
-2 Sinister Sabotage
-2 Censor
-3 Sinister Sabotage
 1 Uro, Titan of Nature's Wrath
 1 Abrupt Decay
 2 Uro, Titan of Nature's Wrath
 2 Forest
 3 Uro, Titan of Nature's Wrath
 4 Uro, Titan of Nature's Wrath
+1 Sinister Sabotage
+1 Censor
+2 Sinister Sabotage
+2 Censor
+3 Sinister Sabotage
 1 Liliana, the Last Hope
 1 Urborg, Tomb of Yawgmoth
 1 Valki, God of Lies
@@ -72,12 +70,14 @@
 3 Bring to Light
 3 Valki, God of Lies
 4 Bring to Light
+4 Thing in the Ice
 3 Narset, Parter of Veils
 2 Abrupt Decay
 3 Breeding Pool
 1 Blooming Marsh
 1 Hinterland Harbor
 1 Eliminate
+4 Drowned Catacomb
 1 Woodland Cemetery
 1 Castle Vantress
 3 Censor
@@ -86,12 +86,10 @@
 2 Castle Vantress
 2 Chemister's Insight
 2 Woodland Cemetery
-1 Search for Azcanta
-3 Swamp
 4 Narset, Parter of Veils
-1 Field of Ruin
-1 Hieroglyphic Illumination
 1 Rewind
+1 Hieroglyphic Illumination
+1 Field of Ruin
 1 Mutavault
 1 Torrential Gearhulk
 1 Hero's Downfall

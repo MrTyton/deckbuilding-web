@@ -1,9 +1,9 @@
 1 Aspect of Lamprey
 2 Glass Casket
-1 Necromentia
-2 Necromentia
 1 Agonizing Remorse
 1 Chainweb Aracnir
+1 Necromentia
+2 Necromentia
 1 The Akroan War
 1 Heliod's Intervention
 2 Heliod's Intervention
@@ -21,22 +21,26 @@
 2 Disenchant
 2 Fight as One
 3 Disenchant
-1 Ugin, the Spirit Dragon
-2 Agonizing Remorse
 2 Chainweb Aracnir
+2 Agonizing Remorse
+1 Ugin, the Spirit Dragon
 3 Agonizing Remorse
-2 Polukranos, Unchained
 1 Scavenging Ooze
-2 Ugin, the Spirit Dragon
-1 Eliminate
-1 Heartless Act
 1 Duress
 2 Duress
+1 Extinction Event
+2 Polukranos, Unchained
+1 Eliminate
+1 Heartless Act
+2 Ugin, the Spirit Dragon
 4 Agonizing Remorse
 1 Field of Ruin
-1 Extinction Event
-3 Chainweb Aracnir
 1 Shatter the Sky
+1 Baneslayer Angel
+2 Baneslayer Angel
+3 Chainweb Aracnir
+2 Extinction Event
+2 Scavenging Ooze
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
 1 Skyclave Apparition
@@ -50,27 +54,24 @@
 1 Cragplate Baloth
 2 Cragplate Baloth
 1 Kaervek, the Spiteful
-1 Baneslayer Angel
 2 Shatter the Sky
 2 Kaervek, the Spiteful
-2 Baneslayer Angel
 1 Rally for the Throne
 2 Rally for the Throne
 1 Eerie Ultimatum
 1 Shadows' Verdict
 1 Wilt
-2 Extinction Event
 2 Wilt
-3 Mazemind Tome
 1 Blood on the Snow
 1 Crush the Weak
 1 Klothys, God of Destiny
 1 Frost Bite
-2 Blood on the Snow
 2 Crush the Weak
+2 Blood on the Snow
 2 Klothys, God of Destiny
 2 Frost Bite
 3 Blood on the Snow
+3 Mazemind Tome
 1 Chandra, Heart of Fire
 1 Scorching Dragonfire
 2 Chandra, Heart of Fire
@@ -100,8 +101,12 @@
 3 Treacherous Blessing
 3 Doom Foretold
 4 Treacherous Blessing
+1 Pestilent Haze
+1 Reidane, God of the Worthy
+2 Reidane, God of the Worthy
+3 Reidane, God of the Worthy
+4 Reidane, God of the Worthy
 1 Eat to Extinction
-2 Scavenging Ooze
 2 Eat to Extinction
 3 Scavenging Ooze
 3 Eat to Extinction
@@ -110,8 +115,8 @@
 4 Scavenging Ooze
 1 Feed the Serpent
 1 Grasp of Darkness
-1 Nexus Wardens
 1 Masked Vandal
+1 Nexus Wardens
 1 Feed the Swarm
 1 Mogis's Favor
 2 Nexus Wardens
