@@ -48,10 +48,10 @@
 4 Gilded Goose
 1 Eerie Ultimatum
 1 Eliminate
+1 Rune of Mortality
 1 Rune of Might
 1 Rune of Sustenance
 1 Runeforge Champion
-1 Rune of Mortality
 2 In Search of Greatness
 2 Rune of Might
 2 Omen of the Dead
@@ -185,10 +185,10 @@
 1 Lotus Cobra
 1 Wolfwillow Haven
 1 Skull Prophet
-2 Lotus Cobra
 2 Mire Triton
 2 Acolyte of Affliction
 2 Yasharn, Implacable Earth
+2 Lotus Cobra
 6 Swamp
 1 Wicked Wolf
 1 Trail of Crumbs
@@ -221,9 +221,10 @@
 1 Snowfield Sinkhole
 1 Sculptor of Winter
 1 Evolving Wilds
-1 Great Hall of Starnheim
-1 Skull Raid
+1 Shimmerdrift Vale
 1 Grasp of Darkness
+1 Skull Raid
+1 Great Hall of Starnheim
 1 Arctic Treeline
 1 Feed the Serpent
 1 Sarulf's Packmate
@@ -231,11 +232,11 @@
 1 Omen of the Hunt
 1 Woodland Chasm
 1 Kogla, the Titan Ape
-1 Shimmerdrift Vale
 2 Elderfang Disciple
 2 Snowfield Sinkhole
 2 Sculptor of Winter
 2 Evolving Wilds
+2 Shimmerdrift Vale
 2 Grasp of Darkness
 2 Skull Raid
 2 Arctic Treeline
@@ -244,25 +245,24 @@
 2 Great Hall of Starnheim
 2 Omen of the Hunt
 2 Rampage of the Valkyries
-2 Shimmerdrift Vale
 2 Woodland Chasm
 3 Elderfang Disciple
 3 Sculptor of Winter
-3 Evolving Wilds
+3 Shimmerdrift Vale
 3 Sarulf's Packmate
 3 Skull Raid
 3 Omen of the Hunt
 3 Woodland Chasm
-3 Shimmerdrift Vale
+3 Evolving Wilds
 3 Rampage of the Valkyries
 4 Elderfang Disciple
 4 Sculptor of Winter
-4 Evolving Wilds
 4 Sarulf's Packmate
 4 Omen of the Hunt
 4 Snow-Covered Swamp
 4 Snow-Covered Forest
 4 Skull Raid
+4 Evolving Wilds
 4 Woodland Chasm
 4 Shimmerdrift Vale
 4 Rampage of the Valkyries
@@ -299,29 +299,29 @@
 1 Temple of Abandon
 1 Zagoth Triome
 1 Cragcrown Pathway
-1 Liliana, Waker of the Dead
-1 Blightstep Pathway
 1 Dream Devourer
+1 Blightstep Pathway
+1 Liliana, Waker of the Dead
 1 Snow-Covered Mountain
 2 Liliana, Waker of the Dead
 2 Cragcrown Pathway
 2 Blightstep Pathway
-2 Snow-Covered Mountain
 2 Dream Devourer
+2 Snow-Covered Mountain
 3 Vorinclex, Monstrous Raider
 3 Blightstep Pathway
+3 Dream Devourer
 3 Lukka, Coppercoat Outcast
 3 Ugin, the Spirit Dragon
 3 Solemn Simulacrum
-3 Dream Devourer
+4 Cultivate
 4 Solemn Simulacrum
 4 Valki, God of Lies
+4 Dream Devourer
 4 Blightstep Pathway
 4 Lukka, Coppercoat Outcast
 4 Vorinclex, Monstrous Raider
-4 Cultivate
 4 Ugin, the Spirit Dragon
-4 Dream Devourer
 1 Jwari Disruption
 1 Neutralize
 1 Silundi Vision
@@ -329,43 +329,43 @@
 1 Gadwick, the Wizened
 1 Mystic Sanctuary
 1 Frantic Inventory
-1 Hypnotic Sprite
+1 Rain of Revelation
 1 Brazen Borrower
 1 Kiora Bests the Sea God
 1 Island
 1 Sublime Epiphany
 1 Essence Scatter
 1 Into the Roil
+1 Hypnotic Sprite
 1 Castle Vantress
 1 Shark Typhoon
 1 Field of Ruin
-1 Rain of Revelation
 1 Lofty Denial
 2 Castle Vantress
 2 Neutralize
 2 Gadwick, the Wizened
 2 Frantic Inventory
-2 Hypnotic Sprite
+2 Rain of Revelation
 2 Brazen Borrower
 2 Into the Roil
 2 Essence Scatter
 2 Shark Typhoon
 2 Island
-2 Rain of Revelation
 2 Rewind
+2 Hypnotic Sprite
 3 Brazen Borrower
 3 Neutralize
+3 Castle Vantress
 3 Frantic Inventory
 3 Shark Typhoon
 3 Rewind
 3 Island
-3 Castle Vantress
 4 Brazen Borrower
 4 Neutralize
+4 Castle Vantress
 4 Frantic Inventory
 4 Shark Typhoon
 4 Rewind
-4 Castle Vantress
 4 Island
 5 Island
 6 Island

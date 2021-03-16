@@ -27,9 +27,9 @@
 1 Mire's Grasp
 1 Embereth Shieldbreaker
 1 Hagra Mauling
+2 Inscription of Ruin
 2 Magmatic Channeler
 2 Hagra Mauling
-2 Inscription of Ruin
 3 Inscription of Ruin
 2 Immersturm Predator
 3 Valki, God of Lies
@@ -54,16 +54,16 @@
 4 Savai Triome
 1 Agadeem's Awakening
 1 Soul Shatter
-2 Tergrid, God of Fright
 2 Soul Shatter
+2 Tergrid, God of Fright
 1 Immersturm Skullcairn
-1 Ox of Agonas
-4 Tymaret Calls the Dead
-1 Nullpriest of Oblivion
 1 Stormfist Crusader
+1 Nullpriest of Oblivion
 2 Stormfist Crusader
 3 Stormfist Crusader
 4 Stormfist Crusader
+1 Ox of Agonas
+4 Tymaret Calls the Dead
 3 Heartless Act
 1 Unleash Fury
 1 Needleverge Pathway
@@ -111,64 +111,6 @@
 1 Eliminate
 2 Eliminate
 4 Inscription of Ruin
-4 Skyclave Shade
-4 Rankle, Master of Pranks
-1 Bastion of Remembrance
-1 Goblin Arsonist
-1 Serrated Scorpion
-2 Bastion of Remembrance
-2 Goblin Arsonist
-2 Serrated Scorpion
-3 Immersturm Predator
-3 Bastion of Remembrance
-3 Goblin Arsonist
-3 Serrated Scorpion
-4 Bastion of Remembrance
-4 Goblin Arsonist
-4 Immersturm Predator
-4 Serrated Scorpion
-1 Kardur's Vicious Return
-1 Narfi, Betrayer King
-1 Sulfurous Mire
-1 Skull Raid
-1 Frost Bite
-1 Shimmerdrift Vale
-1 Feed the Swarm
-1 Feed the Serpent
-1 Elspeth's Nightmare
-1 Reaper of Night
-2 Narfi, Betrayer King
-2 Kardur's Vicious Return
-2 Immersturm Skullcairn
-2 Sulfurous Mire
-2 Shimmerdrift Vale
-2 Skull Raid
-2 Frost Bite
-2 Feed the Swarm
-2 Reaper of Night
-2 Elspeth's Nightmare
-2 Feed the Serpent
-3 Shimmerdrift Vale
-3 Skull Raid
-3 Sulfurous Mire
-3 Frost Bite
-3 Elspeth's Nightmare
-3 Kardur's Vicious Return
-4 Shimmerdrift Vale
-4 Skull Raid
-4 Sulfurous Mire
-4 Kardur's Vicious Return
-6 Snow-Covered Mountain
-1 Castle Embereth
-1 Eat to Extinction
-1 Fireblade Charger
-1 Witch's Cauldron
-2 Fireblade Charger
-3 Fireblade Charger
-4 Fireblade Charger
-4 Bloodchief's Thirst
-7 Mountain
-8 Mountain
 1 Dream Devourer
 1 Pharika's Libation
 1 Blood on the Snow
@@ -179,16 +121,74 @@
 2 Dream Devourer
 2 Blood on the Snow
 2 Liliana, Waker of the Dead
-3 Pharika's Libation
 3 Dream Devourer
+3 Pharika's Libation
 3 Egon, God of Death
 3 Blood on the Snow
 3 Tergrid, God of Fright
 3 Soul Shatter
 3 Agadeem's Awakening
-4 Dream Devourer
+4 Soul Shatter
 4 Valki, God of Lies
 4 Pharika's Libation
-4 Castle Locthwain
 4 Agadeem's Awakening
-4 Soul Shatter
+4 Castle Locthwain
+4 Dream Devourer
+4 Skyclave Shade
+4 Rankle, Master of Pranks
+1 Bastion of Remembrance
+1 Goblin Arsonist
+1 Serrated Scorpion
+2 Bastion of Remembrance
+2 Goblin Arsonist
+2 Serrated Scorpion
+3 Immersturm Predator
+3 Goblin Arsonist
+3 Bastion of Remembrance
+3 Serrated Scorpion
+4 Bastion of Remembrance
+4 Goblin Arsonist
+4 Immersturm Predator
+4 Serrated Scorpion
+1 Castle Embereth
+1 Eat to Extinction
+1 Fireblade Charger
+1 Witch's Cauldron
+2 Fireblade Charger
+3 Fireblade Charger
+4 Fireblade Charger
+4 Bloodchief's Thirst
+7 Mountain
+8 Mountain
+1 Narfi, Betrayer King
+1 Sulfurous Mire
+1 Kardur's Vicious Return
+1 Skull Raid
+1 Frost Bite
+1 Shimmerdrift Vale
+1 Feed the Swarm
+1 Feed the Serpent
+1 Elspeth's Nightmare
+1 Reaper of Night
+2 Narfi, Betrayer King
+2 Immersturm Skullcairn
+2 Sulfurous Mire
+2 Kardur's Vicious Return
+2 Skull Raid
+2 Shimmerdrift Vale
+2 Frost Bite
+2 Feed the Swarm
+2 Reaper of Night
+2 Elspeth's Nightmare
+2 Feed the Serpent
+3 Skull Raid
+3 Shimmerdrift Vale
+3 Frost Bite
+3 Elspeth's Nightmare
+3 Sulfurous Mire
+3 Kardur's Vicious Return
+4 Shimmerdrift Vale
+4 Skull Raid
+4 Kardur's Vicious Return
+6 Snow-Covered Mountain
+4 Sulfurous Mire

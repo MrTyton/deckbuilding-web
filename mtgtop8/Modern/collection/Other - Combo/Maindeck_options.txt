@@ -62,14 +62,15 @@
 1 Desperate Ritual
 1 Pyretic Ritual
 1 Irencrag Feat
+2 Bala Ged Recovery
 2 Spikefield Hazard
 2 Valakut Awakening
 2 Pyretic Ritual
-2 Bala Ged Recovery
 2 Irencrag Feat
 2 Manamorphose
 2 Recross the Paths
 2 Desperate Ritual
+3 Bala Ged Recovery
 3 Spikefield Hazard
 3 Goblin Charbelcher
 3 Manamorphose
@@ -79,7 +80,6 @@
 3 Desperate Ritual
 3 Recross the Paths
 3 Pyretic Ritual
-3 Bala Ged Recovery
 4 Spikefield Hazard
 4 Goblin Charbelcher
 4 Recross the Paths
@@ -169,8 +169,8 @@
 2 Mystical Dispute
 3 Sphere of the Suns
 1 Lovestruck Beast
-2 Lovestruck Beast
 2 Swamp
+2 Lovestruck Beast
 3 Lovestruck Beast
 3 Dismember
 3 Omnath, Locus of Creation
@@ -290,8 +290,8 @@
 1 Gemstone Mine
 1 City of Brass
 2 Pillar of the Paruns
-2 Tibalt's Trickery
 2 Aether Hub
+2 Tibalt's Trickery
 2 Omniscience
 2 Gemstone Mine
 2 Emrakul, the Promised End
@@ -316,14 +316,14 @@
 4 City of Brass
 4 Aether Hub
 4 Brilliant Ultimatum
-1 Nykthos, Shrine to Nyx
 1 Temple of Triumph
+1 Nykthos, Shrine to Nyx
 1 Oust
 1 Solemnity
 1 Marsh Flats
 1 Silence
-1 Nine Lives
 1 Deafening Clarion
+1 Nine Lives
 1 Wheel of Sun and Moon
 1 Dovescape
 1 Overwhelming Splendor
@@ -335,8 +335,8 @@
 1 Skyclave Apparition
 1 Lotus Bloom
 1 Phyrexian Unlife
-2 Nykthos, Shrine to Nyx
 2 Temple of Triumph
+2 Nykthos, Shrine to Nyx
 2 Sacred Foundry
 2 Silence
 2 Nine Lives

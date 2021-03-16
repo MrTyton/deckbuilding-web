@@ -38,10 +38,10 @@
 |                    4|[Storm Herald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476407)           |                     |              |
 |                    4|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)    |                     |              |
 |                    4|Darkbore Pathway                                                                                  |                     |              |
-|                    4|[All That Glitters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472964)      |                     |              |
-|                    4|[Alseid of Life's Bounty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476252)|                     |              |
 |                    4|[Transcendent Envoy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476291)     |                     |              |
+|                    4|[All That Glitters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472964)      |                     |              |
 |                    4|[Hateful Eidolon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476352)        |                     |              |
+|                    4|[Alseid of Life's Bounty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476252)|                     |              |
 |                    4|Blightstep Pathway                                                                                |                     |              |
 |                    4|[Tymaret Calls the Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476369) |                     |              |
 |                    4|[Rune of Might](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503807)          |                     |              |
