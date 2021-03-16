@@ -1,4 +1,4 @@
-1 Feed the Swarm
+1 Village Rites
 2 Village Rites
 3 Village Rites
 4 Call of the Death-Dweller
@@ -10,29 +10,20 @@
 1 Crawling Barrens
 2 Crawling Barrens
 1 Ayara, First of Locthwain
-1 Ghastly Gloomhunter
-1 Withercrown
-1 Malefic Scythe
-1 Nullpriest of Oblivion
-1 Demonic Gifts
-2 Ghastly Gloomhunter
-2 Demonic Gifts
-2 Withercrown
-4 Village Rites
 1 Demonic Embrace
 1 Aphemia, the Cacophony
 1 Egon, God of Death
 2 Demonic Embrace
 2 Aphemia, the Cacophony
+2 Egon, God of Death
 2 Hateful Eidolon
 2 Mogis's Favor
-2 Egon, God of Death
 3 Demonic Embrace
 3 Mogis's Favor
 3 Mire's Grasp
 3 Aphemia, the Cacophony
-3 Hateful Eidolon
 3 Egon, God of Death
+3 Hateful Eidolon
 4 Mogis's Favor
 4 Mire's Grasp
 4 Aphemia, the Cacophony
@@ -40,9 +31,9 @@
 4 Egon, God of Death
 4 Mire Triton
 1 Nighthawk Scavenger
-1 Kaervek, the Spiteful
 1 Massacre Wurm
 1 Syr Konrad, the Grim
+1 Kaervek, the Spiteful
 1 Erebos, Bleak-Hearted
 2 Fiend Artisan
 2 Kaervek, the Spiteful
@@ -56,16 +47,24 @@
 4 Agadeem's Awakening
 4 Fiend Artisan
 4 Castle Locthwain
+1 Ghastly Gloomhunter
+1 Withercrown
+1 Malefic Scythe
+1 Nullpriest of Oblivion
+1 Demonic Gifts
+2 Ghastly Gloomhunter
+2 Demonic Gifts
+2 Withercrown
+4 Village Rites
 1 Vito, Thorn of the Dusk Rose
 1 Foulmire Knight
-1 Blacklance Paragon
 1 Cosmos Elixir
 1 Eat to Extinction
 1 Clackbridge Troll
 1 Revenge of Ravens
 1 Smitten Swordmaster
+1 Blacklance Paragon
 1 Sanctum of Stone Fangs
-2 Blacklance Paragon
 2 Foulmire Knight
 2 Cosmos Elixir
 2 Eat to Extinction
@@ -74,14 +73,15 @@
 2 Smitten Swordmaster
 2 Revenge of Ravens
 2 Sanctum of Stone Fangs
-3 Crawling Barrens
+2 Blacklance Paragon
 3 Foulmire Knight
-3 Blacklance Paragon
+3 Vito, Thorn of the Dusk Rose
 3 Eat to Extinction
 3 Extinction Event
 3 Smitten Swordmaster
 3 Sanctum of Stone Fangs
-3 Vito, Thorn of the Dusk Rose
+3 Blacklance Paragon
+3 Crawling Barrens
 3 Revenge of Ravens
 4 Murderous Rider
 4 Crawling Barrens
@@ -92,12 +92,12 @@
 4 Smitten Swordmaster
 4 Revenge of Ravens
 1 Acquisitions Expert
-1 Woe Strider
 1 Bastion of Remembrance
 1 Snow-Covered Swamp
 1 Elderfang Disciple
 1 Lampad of Death's Vigil
 1 Duskwielder
+1 Woe Strider
 2 Acquisitions Expert
 2 Bastion of Remembrance
 2 Snow-Covered Swamp

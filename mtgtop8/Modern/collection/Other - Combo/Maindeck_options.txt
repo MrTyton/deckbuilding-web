@@ -236,18 +236,19 @@
 1 Arid Mesa
 1 Sacred Foundry
 2 Arid Mesa
+1 Transmogrify
 1 Fire Prophecy
 1 Dwarven Mine
 1 Repeal
 1 Izzet Charm
 1 Spell Snare
-1 Transmogrify
 1 Polymorph
 1 Remand
 1 Mana Leak
 1 Bloodstained Mire
 1 Anger of the Gods
 1 Cloudform
+2 Transmogrify
 2 Raugrin Triome
 2 Izzet Charm
 2 Spell Snare
@@ -256,12 +257,11 @@
 2 Anger of the Gods
 2 Steam Vents
 2 Cloudform
-2 Transmogrify
 2 Lightning Bolt
 2 Polymorph
+3 Transmogrify
 3 Arid Mesa
 3 Remand
-3 Transmogrify
 3 Lightning Bolt
 3 Polymorph
 3 Dwarven Mine
@@ -369,11 +369,11 @@
 6 Plains
 7 Plains
 1 Snow-Covered Mountain
-1 Underworld Breach
 1 Minamo, School at Water's Edge
 1 Engineered Explosives
 1 Sai, Master Thopterist
 1 Metallic Rebuke
+1 Underworld Breach
 1 Chromatic Star
 1 Mox Amber
 1 Lurrus of the Dream-Den
@@ -381,18 +381,17 @@
 1 Emry, Lurker of the Loch
 1 Grinding Station
 1 Mishra's Bauble
-2 Underworld Breach
 2 Engineered Explosives
 2 Emry, Lurker of the Loch
 2 Grinding Station
 2 Snow-Covered Plains
 2 Mox Amber
 2 Mishra's Bauble
+2 Underworld Breach
 2 Chromatic Star
 2 Lurrus of the Dream-Den
 2 Metallic Rebuke
 2 Snow-Covered Island
-3 Underworld Breach
 3 Lurrus of the Dream-Den
 3 Metallic Rebuke
 3 Mox Amber
@@ -401,6 +400,7 @@
 3 Emry, Lurker of the Loch
 3 Grinding Station
 3 Mishra's Bauble
+3 Underworld Breach
 4 Metallic Rebuke
 4 Mox Amber
 4 Chromatic Star
