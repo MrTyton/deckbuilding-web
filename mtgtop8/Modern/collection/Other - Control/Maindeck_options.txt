@@ -29,6 +29,7 @@
 1 Forest
 1 Sakura-Tribe Elder
 2 Primeval Titan
+2 Overgrown Tomb
 2 Verdant Catacombs
 2 Castle Garenbrig
 2 Chalice of the Void
@@ -40,7 +41,6 @@
 2 Forest
 2 Stomping Ground
 2 Gyruda, Doom of Depths
-2 Overgrown Tomb
 2 Sire of Insanity
 2 Sylvan Caryatid
 2 Farseek
@@ -101,10 +101,10 @@
 2 Mana Leak
 2 Soaring Thought-Thief
 2 Darkslick Shores
+3 Cling to Dust
 3 Scalding Tarn
 3 Darkslick Shores
 3 Ancestral Vision
-3 Cling to Dust
 3 Mishra's Bauble
 3 Thieves' Guild Enforcer
 3 Soaring Thought-Thief
@@ -114,27 +114,6 @@
 4 Darkslick Shores
 4 Ancestral Vision
 4 Soaring Thought-Thief
-1 Mazemind Tome
-1 Smoldering Marsh
-1 Graven Cairns
-1 Collective Brutality
-1 Liliana, Waker of the Dead
-1 Rakdos Charm
-1 Chandra, Acolyte of Flame
-1 Ensnaring Bridge
-1 Dragonskull Summit
-2 Mazemind Tome
-2 Collective Brutality
-2 Chandra, Torch of Defiance
-2 Ensnaring Bridge
-3 Chandra, Torch of Defiance
-3 Mazemind Tome
-3 Ensnaring Bridge
-3 Dreadbore
-4 Mazemind Tome
-4 Ensnaring Bridge
-5 Swamp
-6 Swamp
 1 Cryptic Command
 1 Flooded Strand
 1 Sunken Ruins
@@ -165,3 +144,24 @@
 4 Archmage's Charm
 5 Island
 6 Island
+1 Mazemind Tome
+1 Smoldering Marsh
+1 Graven Cairns
+1 Collective Brutality
+1 Rakdos Charm
+1 Chandra, Acolyte of Flame
+1 Liliana, Waker of the Dead
+1 Ensnaring Bridge
+1 Dragonskull Summit
+2 Mazemind Tome
+2 Collective Brutality
+2 Chandra, Torch of Defiance
+2 Ensnaring Bridge
+3 Chandra, Torch of Defiance
+3 Mazemind Tome
+3 Ensnaring Bridge
+3 Dreadbore
+4 Mazemind Tome
+4 Ensnaring Bridge
+5 Swamp
+6 Swamp

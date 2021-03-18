@@ -33,8 +33,8 @@
 |                    1|[Resplendent Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447170)     |                    1|[Archangel of Tithes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398571)|
 |                    2|[Thalia, Heretic Cathar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414338)|                    2|[Heliod, Sun-Crowned](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476269)|
 |                    2|[Resplendent Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447170)     |                    4|[Nyx-Fleece Ram](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442015)     |
-|                    3|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)       |                    3|[Collective Effort](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414307)  |
-|                    3|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)         |                     |                                                                                              |
+|                    3|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)         |                    3|[Collective Effort](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414307)  |
 |                    3|[Kytheon, Hero of Akros](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398428)|                     |                                                                                              |
+|                    3|[Selfless Spirit](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414332)       |                     |                                                                                              |
 |                    3|[Resplendent Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447170)     |                     |                                                                                              |
 

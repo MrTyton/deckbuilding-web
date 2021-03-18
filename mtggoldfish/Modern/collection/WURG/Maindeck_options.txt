@@ -3,8 +3,6 @@
 1 Snow-Covered Forest
 1 Snow-Covered Plains
 1 Windswept Heath
-1 Stoneforge Mystic
-1 Sword of Feast and Famine
 1 Horizon Canopy
 1 Tireless Tracker
 1 On Thin Ice
@@ -13,24 +11,26 @@
 1 Noble Hierarch
 1 Spell Queller
 1 Wooded Foothills
+1 Sword of Feast and Famine
+1 Stoneforge Mystic
 1 Stomping Ground
 2 Windswept Heath
 2 Snow-Covered Forest
-2 Stoneforge Mystic
 2 On Thin Ice
 2 Wooded Foothills
 2 Noble Hierarch
 2 Tireless Tracker
 2 Spell Queller
+2 Stoneforge Mystic
 3 Omnath, Locus of Creation
 3 Noble Hierarch
 3 Windswept Heath
-3 Stoneforge Mystic
 3 Spell Queller
+3 Stoneforge Mystic
 4 Windswept Heath
-4 Stoneforge Mystic
 4 Noble Hierarch
 4 Mana Leak
+4 Stoneforge Mystic
 2 Snow-Covered Island
 2 Island
 1 Aether Gust
@@ -42,40 +42,35 @@
 2 Remand
 2 Lonely Sandbar
 1 Arid Mesa
-1 Shark Typhoon
-3 Lightning Bolt
-1 Birds of Paradise
 1 Opt
 2 Opt
 3 Opt
+3 Lightning Bolt
+4 Lightning Bolt
+1 Birds of Paradise
 1 Nahiri, the Harbinger
 1 Snow-Covered Mountain
 1 Cosima, God of the Voyage
+1 Shark Typhoon
 1 Emrakul, the Aeons Torn
 2 Nahiri, the Harbinger
 3 Lightning Helix
 3 Nahiri, the Harbinger
 3 Snow-Covered Island
-4 Lightning Bolt
-1 Behold the Multiverse
-1 Vendilion Clique
+1 Logic Knot
+1 Sulfur Falls
+1 Search for Azcanta
 1 Archmage's Charm
 1 Glacial Fortress
-1 Polluted Delta
 2 Hallowed Fountain
-2 Behold the Multiverse
-2 Shark Typhoon
-2 Plains
-2 Steam Vents
-2 Archmage's Charm
+2 Supreme Verdict
+2 Search for Azcanta
+2 Celestial Colonnade
 2 Glacial Fortress
-2 Polluted Delta
 3 Island
-3 Field of Ruin
-4 Island
-5 Island
-6 Island
+4 Snapcaster Mage
+4 Opt
 1 Skyclave Apparition
-2 Skyclave Apparition
 2 Snow-Covered Plains
+2 Skyclave Apparition
 3 Wooded Foothills

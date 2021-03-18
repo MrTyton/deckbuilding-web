@@ -1,8 +1,3 @@
-4 Stoneforge Mystic
-1 Caves of Koilos
-2 Caves of Koilos
-3 Caves of Koilos
-4 Caves of Koilos
 3 Silent Clearing
 1 Wasteland Strangler
 1 Concealed Courtyard
@@ -14,24 +9,30 @@
 3 Concealed Courtyard
 3 Tidehollow Sculler
 4 Concealed Courtyard
+1 Sword of Fire and Ice
+1 Snow-Covered Plains
+1 Maul of the Skyclaves
 4 Plains
-3 Snow-Covered Plains
-4 Snow-Covered Plains
-5 Snow-Covered Plains
-6 Snow-Covered Plains
+2 Snow-Covered Plains
+4 Stoneforge Mystic
 3 Shefet Dunes
-2 Field of Ruin
-7 Snow-Covered Plains
-8 Snow-Covered Plains
-4 Shefet Dunes
-1 Archon of Emeria
+1 Swamp
 1 Charming Prince
 2 Charming Prince
+3 Snow-Covered Plains
+4 Snow-Covered Plains
+2 Field of Ruin
+4 Shefet Dunes
+1 Archon of Emeria
+5 Snow-Covered Plains
+6 Snow-Covered Plains
 5 Plains
-1 Swamp
+7 Snow-Covered Plains
+8 Snow-Covered Plains
 2 Archon of Emeria
 3 Field of Ruin
 3 Charming Prince
+4 Tidehollow Sculler
 4 Field of Ruin
 9 Snow-Covered Plains
 10 Snow-Covered Plains
@@ -44,16 +45,14 @@
 13 Snow-Covered Plains
 14 Snow-Covered Plains
 15 Snow-Covered Plains
-4 Tidehollow Sculler
 6 Plains
 7 Plains
 8 Plains
 9 Plains
+1 Reality Smasher
 4 Charming Prince
 1 Sword of Feast and Famine
 1 Eiganjo Castle
-1 Wastes
-1 Reality Smasher
 1 Sunbaked Canyon
 2 Sunbaked Canyon
 1 Brightclimb Pathway
@@ -62,6 +61,7 @@
 4 Brightclimb Pathway
 4 Wasteland Strangler
 4 Silent Clearing
+1 Wastes
 2 Reality Smasher
 3 Sunbaked Canyon
 1 Horizon Canopy
@@ -81,12 +81,12 @@
 2 Mutavault
 2 Blade Splicer
 3 Mutavault
+1 Dismember
 1 Thalia, Heretic Cathar
 1 Simian Spirit Guide
 1 Chalice of the Void
 1 Gemstone Caverns
 1 Battlefield Forge
-1 Dismember
 1 Cavern of Souls
 2 Simian Spirit Guide
 2 Chalice of the Void
@@ -111,11 +111,15 @@
 1 Lurrus of the Dream-Den
 1 Sejiri Shelter
 2 Sejiri Shelter
+1 Dark Confidant
+1 Kaya, Orzhov Usurper
+2 Dark Confidant
+3 Dark Confidant
 3 Archon of Emeria
 2 Horizon Canopy
 3 Blade Splicer
-1 Winds of Abandon
 1 Containment Priest
+1 Winds of Abandon
 2 Containment Priest
 2 Winds of Abandon
 3 Containment Priest

@@ -100,7 +100,7 @@
 |                    3|[Elvish Reclaimer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466923)       |                    3|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)         |
 |                    3|[Flagstones of Trokair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=116733)  |                     |                                                                                                        |
 |                    3|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)        |                     |                                                                                                        |
-|                    4|[Elvish Reclaimer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466923)       |                     |                                                                                                        |
 |                    4|[Flagstones of Trokair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=116733)  |                     |                                                                                                        |
+|                    4|[Elvish Reclaimer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466923)       |                     |                                                                                                        |
 |                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)        |                     |                                                                                                        |
 
