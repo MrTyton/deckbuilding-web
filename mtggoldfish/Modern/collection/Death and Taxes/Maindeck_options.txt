@@ -13,6 +13,7 @@
 1 Sunbaked Canyon
 11 Plains
 1 Castle Ardenvale
+1 Restoration Angel
 12 Plains
 13 Plains
 14 Plains
@@ -21,14 +22,13 @@
 2 Tectonic Edge
 3 Tectonic Edge
 4 Tectonic Edge
-1 Restoration Angel
+2 Restoration Angel
 1 Winds of Abandon
 2 Winds of Abandon
 4 Archon of Emeria
 16 Plains
-2 Restoration Angel
-1 Linvala, Keeper of Silence
 3 Restoration Angel
+1 Linvala, Keeper of Silence
 2 Horizon Canopy
 3 Horizon Canopy
 1 Branchloft Pathway
@@ -61,6 +61,7 @@
 2 Castle Ardenvale
 17 Plains
 2 Sunbaked Canyon
+4 Restoration Angel
 3 Sunbaked Canyon
 4 Sunbaked Canyon
 1 Thraben Inspector
@@ -72,8 +73,14 @@
 2 Charming Prince
 2 Linvala, Keeper of Silence
 3 Linvala, Keeper of Silence
-4 Restoration Angel
 1 Flagstones of Trokair
+1 Inspiring Vantage
+1 Needleverge Pathway
+2 Inspiring Vantage
+2 Needleverge Pathway
+3 Inspiring Vantage
+3 Needleverge Pathway
+4 Needleverge Pathway
 1 Glasspool Mimic
 1 Scavenging Ooze
 2 Scavenging Ooze
@@ -82,6 +89,24 @@
 3 Shalai, Voice of Plenty
 2 Batterskull
 3 Winds of Abandon
+1 Sacred Foundry
+1 Lurrus of the Dream-Den
+1 Mountain
+1 Rugged Prairie
+1 Seal of Fire
+1 Seasoned Pyromancer
+2 Lurrus of the Dream-Den
+2 Sacred Foundry
+2 Rugged Prairie
+2 Seasoned Pyromancer
+2 Seal of Fire
+3 Lurrus of the Dream-Den
+3 Seal of Fire
+3 Sacred Foundry
+3 Seasoned Pyromancer
+4 Seasoned Pyromancer
+4 Inspiring Vantage
+4 Seal of Fire
 1 Mutavault
 1 Phyrexian Revoker
 1 Militia Bugler
@@ -95,35 +120,26 @@
 2 Skyclave Cleric
 4 Linvala, Keeper of Silence
 1 Loyal Sentry
-1 Sword of Light and Shadow
 1 Blast Zone
+1 Sword of Light and Shadow
 1 Reidane, God of the Worthy
 1 Spellskite
 2 Spellskite
 2 Reidane, God of the Worthy
 2 Flagstones of Trokair
 3 Flagstones of Trokair
-1 Eldrazi Displacer
-1 Thought-Knot Seer
-1 Shefet Dunes
-1 Eldrazi Temple
-2 Eldrazi Displacer
-2 Thought-Knot Seer
-2 Shefet Dunes
-2 Eldrazi Temple
-3 Eldrazi Displacer
-3 Shefet Dunes
-3 Thought-Knot Seer
-3 Eldrazi Temple
-4 Eldrazi Displacer
-4 Shefet Dunes
-4 Eldrazi Temple
+1 Snow-Covered Mountain
+1 Akiri, Fearless Voyager
+1 Cleansing Wildfire
+2 Cleansing Wildfire
+3 Cleansing Wildfire
+4 Cleansing Wildfire
 1 Hallowed Fountain
 1 Flooded Strand
 1 Moorland Haunt
+1 Spell Queller
 1 Adarkar Wastes
 1 Seachrome Coast
-1 Spell Queller
 2 Flooded Strand
 2 Hallowed Fountain
 2 Adarkar Wastes
@@ -134,16 +150,3 @@
 3 Seachrome Coast
 4 Spell Queller
 4 Seachrome Coast
-1 Snow-Covered Mountain
-1 Cleansing Wildfire
-1 Akiri, Fearless Voyager
-1 Needleverge Pathway
-1 Inspiring Vantage
-2 Cleansing Wildfire
-2 Inspiring Vantage
-2 Needleverge Pathway
-3 Cleansing Wildfire
-3 Inspiring Vantage
-3 Needleverge Pathway
-4 Cleansing Wildfire
-4 Needleverge Pathway

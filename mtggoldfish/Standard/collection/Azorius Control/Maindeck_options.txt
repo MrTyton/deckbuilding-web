@@ -3,8 +3,8 @@
 2 Emeria's Call
 2 Banish into Fable
 3 Banish into Fable
-4 Banish into Fable
 1 Midnight Clock
+4 Banish into Fable
 1 Plains
 1 Island
 2 Island
@@ -25,121 +25,120 @@
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 4 Snow-Covered Island
-5 Snow-Covered Island
 5 Snow-Covered Plains
+5 Snow-Covered Island
 6 Snow-Covered Island
-6 Snow-Covered Plains
 1 Faceless Haven
-1 Crawling Barrens
+6 Snow-Covered Plains
 1 Castle Ardenvale
+1 Crawling Barrens
 1 Shark Typhoon
 1 Negate
+2 Shark Typhoon
+1 Fabled Passage
+7 Plains
 1 Behold the Multiverse
 2 Behold the Multiverse
 3 Behold the Multiverse
 2 Dream Trawler
-2 Shark Typhoon
-7 Island
-7 Plains
-3 Shark Typhoon
-1 Tranquil Cove
-2 Tranquil Cove
-2 Field of Ruin
-1 Fabled Passage
 2 Fabled Passage
 3 Fabled Passage
-1 Disdainful Stroke
-1 Elspeth, Sun's Nemesis
-1 Ugin, the Spirit Dragon
+1 Yorion, Sky Nomad
+7 Island
+3 Shark Typhoon
 4 Fabled Passage
 1 Brazen Borrower
 2 Brazen Borrower
+4 Elspeth Conquers Death
+3 Omen of the Sun
+4 Shark Typhoon
+3 Niko Aris
+1 Gates of Istfell
+2 Field of Ruin
+1 Alrund's Epiphany
+2 Alrund's Epiphany
+3 Brazen Borrower
+4 Brazen Borrower
 1 Shatter the Sky
+1 Tranquil Cove
+2 Tranquil Cove
+8 Plains
+1 Disdainful Stroke
+1 Elspeth, Sun's Nemesis
+1 Ugin, the Spirit Dragon
 1 Thassa's Intervention
 3 Sea Gate Restoration
 3 Field of Ruin
 4 Field of Ruin
-8 Plains
-1 Gates of Istfell
-1 Alrund's Epiphany
-2 Alrund's Epiphany
-4 Elspeth Conquers Death
-3 Omen of the Sun
-4 Shark Typhoon
-3 Brazen Borrower
-1 Essence Scatter
-3 Niko Aris
-2 Shatter the Sky
-2 Negate
-7 Snow-Covered Island
-7 Snow-Covered Plains
-4 Brazen Borrower
-4 Behold the Multiverse
 3 Alrund's Epiphany
 4 Niko Aris
-2 Ugin, the Spirit Dragon
-4 Omen of the Sun
-1 Mountain
-1 Needleverge Pathway
-1 Riverglide Pathway
-2 Mountain
-2 Needleverge Pathway
-8 Snow-Covered Island
-1 Neutralize
-1 Banishing Light
-1 Graven Lore
-2 Graven Lore
-2 Banishing Light
-2 Neutralize
-3 Neutralize
-3 Banishing Light
-3 Shatter the Sky
-3 Tranquil Cove
-4 Banishing Light
-8 Snow-Covered Plains
-2 Essence Scatter
 1 Cosima, God of the Voyage
-1 Yorion, Sky Nomad
 2 Yorion, Sky Nomad
-1 Mystical Dispute
-2 Mystical Dispute
-4 Alrund's Epiphany
+8 Island
+9 Plains
 1 Clearwater Pathway
-1 Temple of Deceit
 1 Brightclimb Pathway
 1 Swamp
 1 Elspeth's Nightmare
-1 Eliminate
-1 Ashiok, Nightmare Muse
-1 Extinction Event
 1 Heartless Act
-1 Drown in the Loch
 2 Clearwater Pathway
-2 Temple of Deceit
-2 Swamp
 2 Brightclimb Pathway
+2 Swamp
 2 Elspeth's Nightmare
-2 Extinction Event
-2 Drown in the Loch
 2 Heartless Act
-2 Ashiok, Nightmare Muse
 3 Clearwater Pathway
 3 Brightclimb Pathway
-3 Temple of Deceit
 3 Heartless Act
 4 Heartless Act
 4 Clearwater Pathway
+4 Omen of the Sun
+2 Castle Ardenvale
+2 Negate
+1 Mountain
+1 Riverglide Pathway
+1 Needleverge Pathway
+2 Mountain
+2 Needleverge Pathway
+1 The Raven's Warning
+3 Dream Trawler
+1 Mystical Dispute
+2 Mystical Dispute
+2 Shatter the Sky
+1 Temple of Deceit
+1 Eliminate
+1 Ashiok, Nightmare Muse
+1 Extinction Event
+1 Drown in the Loch
+2 Temple of Deceit
+2 Extinction Event
+2 Drown in the Loch
+2 Ashiok, Nightmare Muse
+3 Temple of Deceit
+4 Behold the Multiverse
+1 Golden Egg
+1 Doom Foretold
+1 Dance of the Manse
+2 Golden Egg
+2 Doom Foretold
+2 Dance of the Manse
+3 Swamp
+3 Elspeth's Nightmare
+3 Doom Foretold
+3 Golden Egg
+4 Brightclimb Pathway
+4 Elspeth's Nightmare
+4 Doom Foretold
+4 Golden Egg
 1 Ketria Triome
 1 Barkchannel Pathway
+1 Esika's Chariot
 1 Forest
 1 Spikefield Hazard
 1 Fire Prophecy
-1 The Raven's Warning
-1 Transmogrify
 1 Cragcrown Pathway
 1 Branchloft Pathway
 1 Lukka, Coppercoat Outcast
-1 Esika's Chariot
+1 Transmogrify
 2 Ketria Triome
 2 Fire Prophecy
 2 The Raven's Warning
@@ -149,34 +148,48 @@
 3 Ketria Triome
 3 Needleverge Pathway
 3 Fire Prophecy
+3 Lukka, Coppercoat Outcast
 3 Transmogrify
 3 The Raven's Warning
-3 Lukka, Coppercoat Outcast
-3 Dream Trawler
 4 Ketria Triome
 4 Transmogrify
 4 Lukka, Coppercoat Outcast
-1 Solemn Simulacrum
-2 Solemn Simulacrum
-3 Solemn Simulacrum
-4 Solemn Simulacrum
 1 Mythos of Vadrok
+1 Essence Scatter
 1 Soul-Guide Lantern
 1 Temple of Epiphany
 1 Omen of the Forge
 1 Inspired Ultimatum
 1 Narset of the Ancient Way
-2 Narset of the Ancient Way
 2 Omen of the Forge
+2 Narset of the Ancient Way
+2 Ugin, the Spirit Dragon
 2 Riverglide Pathway
 3 Omen of the Forge
 3 Riverglide Pathway
 3 Narset of the Ancient Way
 4 Omen of the Forge
 4 Riverglide Pathway
-8 Island
-9 Plains
-2 Castle Ardenvale
+4 Alrund's Epiphany
+1 Barrin, Tolarian Archmage
+1 Charming Prince
+1 Starnheim Unleashed
+1 Depart the Realm
+1 Niambi, Esteemed Speaker
+2 Cosima, God of the Voyage
+2 Charming Prince
+2 Barrin, Tolarian Archmage
+2 Niambi, Esteemed Speaker
+3 Cosima, God of the Voyage
+3 Charming Prince
+3 Yorion, Sky Nomad
+4 Charming Prince
+9 Island
+10 Plains
+10 Island
+11 Plains
+11 Island
+12 Plains
 2 Castle Vantress
 3 Castle Ardenvale
 3 Castle Vantress
@@ -184,20 +197,9 @@
 4 Castle Ardenvale
 4 Negate
 4 Castle Vantress
+7 Snow-Covered Island
+7 Snow-Covered Plains
+8 Snow-Covered Island
 9 Snow-Covered Island
 10 Snow-Covered Island
 11 Snow-Covered Island
-1 Ondu Inversion
-1 Kiora Bests the Sea God
-1 Cosmos Elixir
-1 Jace, Mirror Mage
-2 Kiora Bests the Sea God
-2 Cosmos Elixir
-2 Jace, Mirror Mage
-2 Midnight Clock
-3 Jace, Mirror Mage
-3 Midnight Clock
-3 Essence Scatter
-3 Cosmos Elixir
-4 Cosmos Elixir
-4 Essence Scatter

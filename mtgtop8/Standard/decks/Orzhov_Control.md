@@ -44,9 +44,9 @@
 |                    4|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                |                     |              |
 |                    4|[Lithoform Blight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491745)      |                     |              |
 |                    4|[Elspeth's Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476342)   |                     |              |
-|                    4|[Savai Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479773)          |                     |              |
 |                    4|[Fabled Passage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473206)        |                     |              |
 |                    4|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)         |                     |              |
+|                    4|[Savai Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479773)          |                     |              |
 |                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                 |                     |              |
 |                    5|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                 |                     |              |
 |                    5|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                |                     |              |

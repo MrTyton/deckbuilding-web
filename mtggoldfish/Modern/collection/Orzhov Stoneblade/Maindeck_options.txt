@@ -20,17 +20,17 @@
 4 Lingering Souls
 2 Kaya's Guile
 1 Maul of the Skyclaves
-1 Eldrazi Temple
 1 Thought-Knot Seer
 1 Caves of Koilos
-2 Eldrazi Temple
+1 Eldrazi Temple
 2 Thought-Knot Seer
 2 Caves of Koilos
+2 Eldrazi Temple
 3 Eldrazi Temple
-3 Thought-Knot Seer
 3 Caves of Koilos
-4 Eldrazi Temple
+3 Thought-Knot Seer
 4 Thought-Knot Seer
+4 Eldrazi Temple
 1 Ghost Quarter
 1 Giver of Runes
 2 Giver of Runes
@@ -107,8 +107,8 @@
 1 Vault of the Archangel
 4 Caves of Koilos
 1 Mishra's Bauble
-1 Liliana, the Last Hope
 1 Feed the Swarm
+1 Liliana, the Last Hope
 1 Gideon of the Trials
 1 Hero's Downfall
 2 Nihil Spellbomb
@@ -125,8 +125,8 @@
 3 Prismatic Vista
 3 Reality Smasher
 4 Flickerwisp
-1 Flooded Strand
 1 Springleaf Drum
+1 Flooded Strand
 1 Sigarda's Aid
 1 Inkmoth Nexus
 1 Steelshaper's Gift
@@ -136,9 +136,9 @@
 1 Puresteel Paladin
 1 Memnite
 1 Ornithopter
+2 Mishra's Bauble
 2 Springleaf Drum
 2 Flooded Strand
-2 Mishra's Bauble
 2 Colossus Hammer
 2 Sigarda's Aid
 2 Inkmoth Nexus
@@ -157,9 +157,9 @@
 3 Puresteel Paladin
 3 Memnite
 3 Ornithopter
+4 Flooded Strand
 4 Mishra's Bauble
 4 Inkmoth Nexus
-4 Flooded Strand
 4 Colossus Hammer
 4 Steelshaper's Gift
 4 Sigarda's Aid
@@ -170,6 +170,15 @@
 4 Plains
 1 Sorin, Solemn Visitor
 4 Bitterblossom
+1 Fetid Heath
+1 Relic of Progenitus
+2 Relic of Progenitus
+2 Mutavault
+3 Relic of Progenitus
+3 Wasteland Strangler
+3 Mutavault
+4 Relic of Progenitus
+4 Wasteland Strangler
 4 Swamp
 1 Serra Ascendant
 1 Ranger of Eos
@@ -181,12 +190,3 @@
 2 Wrath of God
 3 Ranger of Eos
 4 Ranger of Eos
-1 Fetid Heath
-1 Relic of Progenitus
-2 Mutavault
-2 Relic of Progenitus
-3 Wasteland Strangler
-3 Relic of Progenitus
-3 Mutavault
-4 Wasteland Strangler
-4 Relic of Progenitus

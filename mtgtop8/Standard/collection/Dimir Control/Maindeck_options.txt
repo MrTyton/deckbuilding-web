@@ -37,8 +37,8 @@
 5 Snow-Covered Island
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
-1 Shadows' Verdict
 1 Soul Shatter
+1 Shadows' Verdict
 2 Shadows' Verdict
 2 Negate
 3 Saw It Coming
@@ -49,15 +49,15 @@
 3 Behold the Multiverse
 1 Ugin, the Spirit Dragon
 1 Shark Typhoon
-1 Graven Lore
 1 Castle Vantress
 1 Midnight Clock
+1 Graven Lore
 2 Ugin, the Spirit Dragon
 2 Crawling Barrens
 2 Shark Typhoon
-2 Graven Lore
 2 Castle Vantress
 2 Midnight Clock
+2 Graven Lore
 3 Shark Typhoon
 4 Behold the Multiverse
 4 Shark Typhoon
@@ -67,8 +67,8 @@
 1 Fae of Wishes
 3 Negate
 2 Erebos's Intervention
-1 Blood on the Snow
 1 Ice Tunnel
+1 Blood on the Snow
 1 Ashiok, Nightmare Muse
 2 Ice Tunnel
 3 Ice Tunnel
@@ -79,33 +79,33 @@
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
 1 Thassa, Deep-Dwelling
-1 Mazemind Tome
 1 Omen of the Sea
-1 Burning-Rune Demon
-1 Solemn Simulacrum
 1 Atris, Oracle of Half-Truths
+1 Mazemind Tome
+1 Solemn Simulacrum
+1 Burning-Rune Demon
 1 Pharika's Libation
-2 Omen of the Sea
 2 Ashiok, Nightmare Muse
-2 Burning-Rune Demon
-2 Blood on the Snow
+2 Omen of the Sea
 2 Atris, Oracle of Half-Truths
 2 Solemn Simulacrum
 2 Mazemind Tome
+2 Burning-Rune Demon
+2 Blood on the Snow
 2 Pharika's Libation
 3 Atris, Oracle of Half-Truths
-3 Blood on the Snow
 3 Omen of the Sea
 3 Eliminate
-3 Solemn Simulacrum
 3 Mazemind Tome
-3 Shadows' Verdict
+3 Blood on the Snow
+3 Solemn Simulacrum
 3 Erebos's Intervention
+3 Shadows' Verdict
 4 Shadows' Verdict
 4 Atris, Oracle of Half-Truths
-4 Blood on the Snow
-4 Solemn Simulacrum
 4 Omen of the Sea
+4 Solemn Simulacrum
+4 Blood on the Snow
 4 Mazemind Tome
 4 Negate
 9 Snow-Covered Island
@@ -116,12 +116,12 @@
 2 Lofty Denial
 2 Vantress Gargoyle
 3 Dismal Backwater
-3 Bloodchief's Thirst
 3 Lofty Denial
+3 Bloodchief's Thirst
 3 Vantress Gargoyle
-4 Dismal Backwater
-4 Lofty Denial
 4 Vantress Gargoyle
+4 Lofty Denial
+4 Dismal Backwater
 8 Island
 9 Island
 1 Lurrus of the Dream-Den
@@ -136,6 +136,7 @@
 2 Evolving Wilds
 6 Swamp
 7 Swamp
+1 Gray Merchant of Asphodel
 1 Mire Triton
 1 Skull Raid
 1 Feed the Swarm
@@ -144,15 +145,14 @@
 1 Jarl of the Forsaken
 1 Priest of the Haunted Edge
 1 Narfi, Betrayer King
-1 Gray Merchant of Asphodel
 1 Grim Physician
-2 Essence Scatter
 2 Mire Triton
+2 Gray Merchant of Asphodel
 2 Feed the Swarm
+2 Essence Scatter
 2 Jarl of the Forsaken
 2 Draugr Thought-Thief
 2 Narfi, Betrayer King
-2 Gray Merchant of Asphodel
 2 Priest of the Haunted Edge
 3 Mire Triton
 3 Draugr Thought-Thief

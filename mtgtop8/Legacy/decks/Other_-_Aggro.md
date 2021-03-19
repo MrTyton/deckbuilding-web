@@ -151,7 +151,7 @@
 |                    4|[Goblin Welder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389537)          |                     |                                                                                                   |
 |                    5|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)  |                     |                                                                                                   |
 |                    6|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)  |                     |                                                                                                   |
-|                    7|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)  |                     |                                                                                                   |
-|                    9|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)  |                     |                                                                                                   |
 |                    8|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)  |                     |                                                                                                   |
+|                    9|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)  |                     |                                                                                                   |
+|                    7|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)  |                     |                                                                                                   |
 

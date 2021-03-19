@@ -45,7 +45,7 @@
 |                    4|[Graven Lore](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503669)         |                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)      |
 |                    1|[Gadwick, the Wizened](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473010)|                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)                 |
 |                    2|[Gadwick, the Wizened](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473010)|                    1|[Gadwick, the Wizened](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473010)   |
-|                    3|[Cosmos Charger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503659)      |                    1|[Brinebarrow Intruder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503656)   |
-|                    2|[Cosmos Charger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503659)      |                    2|[Brinebarrow Intruder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503656)   |
+|                    2|[Cosmos Charger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503659)      |                    1|[Brinebarrow Intruder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503656)   |
+|                    3|[Cosmos Charger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503659)      |                    2|[Brinebarrow Intruder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503656)   |
 |                     |                                                                                               |                    3|[Brinebarrow Intruder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503656)   |
 

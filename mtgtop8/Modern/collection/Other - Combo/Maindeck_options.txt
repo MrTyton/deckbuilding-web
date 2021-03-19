@@ -168,12 +168,12 @@
 2 Bonecrusher Giant
 2 Mystical Dispute
 3 Sphere of the Suns
+3 Omnath, Locus of Creation
+3 Dismember
 1 Lovestruck Beast
 2 Swamp
 2 Lovestruck Beast
 3 Lovestruck Beast
-3 Dismember
-3 Omnath, Locus of Creation
 3 Hagra Mauling
 4 Hagra Mauling
 1 Murderous Rider
@@ -195,14 +195,14 @@
 4 Emrakul, the Aeons Torn
 1 Khalni Garden
 1 Cavern of Souls
-1 Bojuka Bog
-1 Vesuva
 1 Field of the Dead
 1 Hanweir Battlements
-1 Sheltered Thicket
 1 Radiant Fountain
+1 Sheltered Thicket
 1 Valakut, the Molten Pinnacle
 1 Ghost Quarter
+1 Bojuka Bog
+1 Vesuva
 1 Tranquil Thicket
 1 Castle Garenbrig
 1 Sunhome, Fortress of the Legion
@@ -283,8 +283,8 @@
 1 Tendo Ice Bridge
 1 Omniscience
 1 Kozilek, Butcher of Truth
-1 Ulamog, the Infinite Gyre
 1 Emrakul, the Promised End
+1 Ulamog, the Infinite Gyre
 1 Aether Hub
 1 Brilliant Ultimatum
 1 Gemstone Mine
@@ -311,9 +311,9 @@
 3 Brilliant Ultimatum
 4 Omniscience
 4 Pillar of the Paruns
+4 City of Brass
 4 Gemstone Mine
 4 Ulamog, the Infinite Gyre
-4 City of Brass
 4 Aether Hub
 4 Brilliant Ultimatum
 1 Temple of Triumph
@@ -322,13 +322,13 @@
 1 Solemnity
 1 Marsh Flats
 1 Silence
-1 Nine Lives
 1 Deafening Clarion
 1 Wheel of Sun and Moon
 1 Dovescape
 1 Overwhelming Splendor
 1 Treasure Map
 1 Form of the Dragon
+1 Nine Lives
 1 Plains
 1 Mistveil Plains
 1 Enduring Ideal
@@ -339,7 +339,6 @@
 2 Nykthos, Shrine to Nyx
 2 Sacred Foundry
 2 Silence
-2 Nine Lives
 2 Oust
 2 Enduring Ideal
 2 Plains
@@ -348,6 +347,7 @@
 2 Solemnity
 2 Phyrexian Unlife
 2 Form of the Dragon
+2 Nine Lives
 2 Treasure Map
 2 Lotus Bloom
 3 Plains
