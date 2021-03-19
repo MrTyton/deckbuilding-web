@@ -15,17 +15,17 @@
 1 Woodland Chasm
 1 Jungle Hollow
 1 Temple of Silence
-2 Temple of Plenty
 2 Woodland Chasm
+2 Temple of Plenty
 2 Jungle Hollow
 3 Temple of Plenty
-1 Vorinclex, Monstrous Raider
+1 Easy Prey
 1 Agadeem's Awakening
 1 Chevill, Bane of Monsters
 1 The World Tree
 1 Elspeth's Nightmare
-1 Easy Prey
 1 Agonizing Remorse
+1 Vorinclex, Monstrous Raider
 1 Hagra Mauling
 2 Vorinclex, Monstrous Raider
 2 The World Tree
@@ -38,9 +38,6 @@
 2 Castle Locthwain
 3 Agonizing Remorse
 3 Chevill, Bane of Monsters
-3 Fabled Passage
-3 Swamp
-4 Forest
 1 Tangled Florahedron
 1 Arctic Treeline
 1 Emeria's Call
@@ -52,8 +49,8 @@
 1 Needleverge Pathway
 2 Tangled Florahedron
 2 Emeria's Call
-2 Firja's Retribution
 2 Blightstep Pathway
+2 Firja's Retribution
 2 Skyclave Apparition
 2 Yorion, Sky Nomad
 2 Needleverge Pathway
@@ -63,8 +60,11 @@
 3 Skyclave Apparition
 3 Emeria's Call
 3 Heartless Act
-4 Skyclave Apparition
-4 Llanowar Visionary
-4 Firja's Retribution
 4 Yorion, Sky Nomad
 4 Valki, God of Lies
+4 Skyclave Apparition
+4 Firja's Retribution
+4 Llanowar Visionary
+3 Fabled Passage
+4 Forest
+3 Swamp

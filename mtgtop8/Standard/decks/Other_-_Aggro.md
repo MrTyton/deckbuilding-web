@@ -37,11 +37,11 @@
 |                    4|[Runeforge Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503632)     |                     |              |
 |                    4|[Setessan Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476449)      |                     |              |
 |                    4|[Storm Herald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476407)           |                     |              |
+|                    4|[Hateful Eidolon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476352)        |                     |              |
 |                    4|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911)    |                     |              |
 |                    4|[Transcendent Envoy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476291)     |                     |              |
 |                    4|[All That Glitters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472964)      |                     |              |
 |                    4|[Alseid of Life's Bounty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476252)|                     |              |
-|                    4|[Hateful Eidolon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476352)        |                     |              |
 |                    4|Blightstep Pathway                                                                                |                     |              |
 |                    4|[Rune of Might](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503807)          |                     |              |
 |                    4|Darkbore Pathway                                                                                  |                     |              |

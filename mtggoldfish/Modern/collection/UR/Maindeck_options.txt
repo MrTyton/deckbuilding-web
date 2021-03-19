@@ -178,9 +178,13 @@
 1 Dispel
 2 Spell Pierce
 3 Ancestral Vision
+4 Fiery Islet
+1 Finale of Promise
+3 Blistercoil Weird
+4 Blistercoil Weird
+1 Volatile Fjord
 1 Growth Spiral
 1 Logic Knot
-1 Volatile Fjord
 1 Frost Bite
 1 Castle Vantress
 1 Prismatic Vista
@@ -191,10 +195,6 @@
 3 Cosima, God of the Voyage
 4 Growth Spiral
 4 Cosima, God of the Voyage
-4 Fiery Islet
-1 Finale of Promise
-3 Blistercoil Weird
-4 Blistercoil Weird
 1 Nivmagus Elemental
 1 Ground Rift
 2 Nivmagus Elemental
@@ -208,9 +208,9 @@
 3 Thing in the Ice
 4 Thing in the Ice
 4 Burst Lightning
-1 Thrill of Possibility
 1 Forgotten Cave
 1 Arclight Phoenix
+1 Thrill of Possibility
 2 Thrill of Possibility
 2 Arclight Phoenix
 2 Forgotten Cave
@@ -226,17 +226,17 @@
 1 Riverglide Pathway
 1 Valakut Awakening
 1 Spirebluff Canal
-2 Reflecting Pool
 2 Deceiver Exarch
+2 Reflecting Pool
 2 Spirebluff Canal
 2 Kiki-Jiki, Mirror Breaker
 2 Riverglide Pathway
 2 Valakut Awakening
 3 Riverglide Pathway
-3 Reflecting Pool
 3 Spirebluff Canal
 3 Deceiver Exarch
 3 Cascade Bluffs
+3 Reflecting Pool
 3 Kiki-Jiki, Mirror Breaker
 4 Riverglide Pathway
 4 Spirebluff Canal
@@ -286,6 +286,6 @@
 3 Mothdust Changeling
 3 Silumgar's Scorn
 3 Blood Moon
-4 Mothdust Changeling
 4 Magda, Brazen Outlaw
+4 Mothdust Changeling
 4 Silumgar's Scorn

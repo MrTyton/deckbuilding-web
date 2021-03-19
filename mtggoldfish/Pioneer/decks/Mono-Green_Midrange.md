@@ -1,7 +1,7 @@
 # Mono-Green Midrange
 
 #### [Export MTGO List](../collection/Mono-Green%20Midrange/Mono-Green%20Midrange.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Burning-Tree%20Emissary%0A4%09Castle%20Garenbrig%0A4%09Elvish%20Mystic%0A14%09Forest%0A4%09Jadelight%20Ranger%0A4%09Llanowar%20Elves%0A1%09Nissa,%20Voice%20of%20Zendikar%0A4%09Nissa,%20Who%20Shakes%20the%20World%0A4%09Nykthos,%20Shrine%20to%20Nyx%0A4%09Oath%20of%20Nissa%0A2%09Scavenging%20Ooze%0A4%09Vivien,%20Arkbow%20Ranger%0A4%09Voracious%20Hydra%0A3%09Vorinclex,%20Monstrous%20Raider&deckside=3%09Grafdigger's%20Cage%0A1%09Kogla,%20the%20Titan%20Ape%0A1%09Mistcutter%20Hydra%0A1%09Oblivion%20Sower%0A1%09Questing%20Beast%0A2%09Reclamation%20Sage%0A1%09Scavenging%20Ooze%0A1%09Setessan%20Petitioner%0A2%09Shifting%20Ceratops%0A1%09Sylvan%20Primordial%0A1%09Ulamog,%20the%20Ceaseless%20Hunger)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Burning-Tree%20Emissary%0A4%09Castle%20Garenbrig%0A4%09Elvish%20Mystic%0A14%09Forest%0A4%09Jadelight%20Ranger%0A4%09Llanowar%20Elves%0A1%09Nissa,%20Voice%20of%20Zendikar%0A4%09Nissa,%20Who%20Shakes%20the%20World%0A4%09Nykthos,%20Shrine%20to%20Nyx%0A4%09Oath%20of%20Nissa%0A2%09Scavenging%20Ooze%0A4%09Vivien,%20Arkbow%20Ranger%0A4%09Voracious%20Hydra%0A3%09Vorinclex,%20Monstrous%20Raider&deckside=3%09Grafdigger's%20Cage%0A1%09Mistcutter%20Hydra%0A1%09Oblivion%20Sower%0A1%09Questing%20Beast%0A2%09Reclamation%20Sage%0A1%09Scavenging%20Ooze%0A1%09Setessan%20Petitioner%0A2%09Shifting%20Ceratops%0A1%09Soul-Guide%20Lantern%0A1%09Sylvan%20Primordial%0A1%09Ulamog,%20the%20Ceaseless%20Hunger)
 # Maindeck
 
 |                                             Creature (25)                                              |                                     Enchantment (4)                                      |                                             Land (22)                                             |                                            Planeswalker (9)                                            |
@@ -17,25 +17,24 @@
 
 # Sideboard
 
-|                                         Artifact (3)                                         |                                              Creature (12)                                              |
-|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-|3 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|1 [Kogla, the Titan Ape](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479682)        |
-|                                                                                              |1 [Mistcutter Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373727)            |
-|                                                                                              |1 [Oblivion Sower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401972)              |
-|                                                                                              |1 [Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)              |
-|                                                                                              |2 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)            |
-|                                                                                              |1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)             |
-|                                                                                              |1 [Setessan Petitioner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476450)         |
-|                                                                                              |2 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)           |
-|                                                                                              |1 [Sylvan Primordial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366282)           |
-|                                                                                              |1 [Ulamog, the Ceaseless Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402079)|
+|                                         Artifact (4)                                          |                                              Creature (11)                                              |
+|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+|3 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452) |1 [Mistcutter Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373727)            |
+|1 [Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|1 [Oblivion Sower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401972)              |
+|                                                                                               |1 [Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)              |
+|                                                                                               |2 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)            |
+|                                                                                               |1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)             |
+|                                                                                               |1 [Setessan Petitioner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476450)         |
+|                                                                                               |2 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)           |
+|                                                                                               |1 [Sylvan Primordial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366282)           |
+|                                                                                               |1 [Ulamog, the Ceaseless Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402079)|
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                             |*n*<sup>th</sup> copy|                                             Sideboard Card                                             |
 |--------------------:|------------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------------|
-|                    2|[Nissa, Voice of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417424)   |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)           |
+|                    2|[Nissa, Voice of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417424)   |                    1|[Kogla, the Titan Ape](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479682)         |
 |                    3|[Nissa, Voice of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417424)   |                    1|[Decimator of the Provinces](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414291)   |
 |                    1|[Genesis Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438729)              |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)               |
 |                   15|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                     |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)               |
@@ -94,8 +93,8 @@
 |                    6|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)        |                    1|[Heroic Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423776)          |
 |                    7|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)        |                    1|[Windstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201780)                    |
 |                    8|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)        |                    1|[Lifecrafter's Bestiary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423829)       |
-|                    9|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)        |                    2|[Heroic Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423776)          |
-|                   10|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)        |                    2|[Shadowspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476487)                  |
+|                    9|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)        |                    2|[Shadowspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476487)                  |
+|                   10|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)        |                    2|[Heroic Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423776)          |
 |                   11|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)        |                    2|[Windstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201780)                    |
 |                   12|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)        |                    2|[Lifecrafter's Bestiary](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423829)       |
 |                   13|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)        |                    1|[Cosmos Elixir](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503853)                |
@@ -108,8 +107,8 @@
 |                   17|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)        |                    3|[Garruk's Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485508)           |
 |                   18|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)        |                    4|[Garruk's Harbinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485508)           |
 |                    1|[Vivien, Monsters' Advocate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479695) |                    1|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)             |
-|                    1|[Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)                |                    2|[Elder Gargaroth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485502)              |
-|                    2|[Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)                |                    2|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)             |
+|                    1|[Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)                |                    2|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)             |
+|                    2|[Vivien Reid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447344)                |                    2|[Elder Gargaroth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485502)              |
 |                    1|[Boon Satyr](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451087)                 |                    3|[Lovestruck Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473127)             |
 |                    2|[Boon Satyr](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451087)                 |                    4|[Back to Nature](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=208284)               |
 |                    3|[Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)            |                    1|[Primal Might](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485520)                 |

@@ -13,10 +13,10 @@
 5 Mountain
 1 Essence Scatter
 1 Castle Embereth
-1 Surtland Frostpyre
 1 Swiftwater Cliffs
-2 Essence Scatter
+1 Surtland Frostpyre
 2 Swiftwater Cliffs
+2 Essence Scatter
 2 Negate
 1 Faceless Haven
 1 Disdainful Stroke
@@ -28,26 +28,26 @@
 3 Opt
 4 Opt
 1 Jwari Disruption
-1 Stormwing Entity
 1 Spikefield Hazard
 1 Crash Through
 1 Sprite Dragon
 1 Riddleform
-2 Stormwing Entity
+1 Stormwing Entity
 2 Spikefield Hazard
 2 Jwari Disruption
+2 Shock
 2 Crash Through
 2 Sprite Dragon
 2 Riddleform
-2 Shock
+2 Stormwing Entity
 3 Jwari Disruption
 3 Spikefield Hazard
 3 Crash Through
 3 Sprite Dragon
 3 Shatterskull Smashing
-3 Stormwing Entity
 3 Riddleform
 3 Brazen Borrower
+3 Stormwing Entity
 3 Shock
 4 Jwari Disruption
 4 Crash Through
@@ -63,29 +63,29 @@
 2 Crystalline Giant
 3 Quakebringer
 3 Tectonic Giant
+3 Battle of Frost and Fire
 3 Crystalline Giant
 3 Scorching Dragonfire
-3 Battle of Frost and Fire
 4 Calamity Bearer
 4 Tectonic Giant
-4 Crystalline Giant
 4 Invasion of the Giants
+4 Crystalline Giant
 5 Island
 6 Mountain
 6 Island
 7 Island
 7 Mountain
+1 Irencrag Pyromancer
 1 Of One Mind
+1 Windrider Wizard
 1 Volatile Fjord
 1 The Royal Scions
-1 Irencrag Pyromancer
 1 Behold the Multiverse
+1 Basalt Ravager
 1 Heartfire Immolator
 1 Expedition Diviner
-1 Windrider Wizard
 1 Tazeem Roilmage
 1 Master of Winds
-1 Basalt Ravager
 2 Volatile Fjord
 2 Of One Mind
 2 Demon Bolt
@@ -101,8 +101,8 @@
 3 Windrider Wizard
 3 Basalt Ravager
 3 Heartfire Immolator
-4 Demon Bolt
 4 Volatile Fjord
+4 Demon Bolt
 4 Windrider Wizard
 4 Aegar, the Freezing Flame
 4 Heartfire Immolator

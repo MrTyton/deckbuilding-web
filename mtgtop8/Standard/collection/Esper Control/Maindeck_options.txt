@@ -51,29 +51,29 @@
 1 Seasoned Hallowblade
 1 Shepherd of the Flock
 1 Giant Killer
-1 Usher of the Fallen
 1 Showdown of the Skalds
+1 Usher of the Fallen
 1 Mountain
 1 Bonecrusher Giant
 1 Needleverge Pathway
 2 Seasoned Hallowblade
 2 Shepherd of the Flock
 2 Giant Killer
+2 Showdown of the Skalds
+2 Usher of the Fallen
 2 Bonecrusher Giant
 2 Mountain
-2 Showdown of the Skalds
 2 Needleverge Pathway
-2 Usher of the Fallen
-3 Seasoned Hallowblade
-3 Needleverge Pathway
-3 Showdown of the Skalds
-3 Mountain
 3 Giant Killer
+3 Seasoned Hallowblade
+3 Showdown of the Skalds
+3 Needleverge Pathway
+3 Mountain
 3 Usher of the Fallen
 3 Bonecrusher Giant
 4 Seasoned Hallowblade
-4 Bonecrusher Giant
 4 Showdown of the Skalds
+4 Bonecrusher Giant
 4 Usher of the Fallen
 4 Mountain
 4 Needleverge Pathway
@@ -103,6 +103,17 @@
 4 Giant Killer
 1 Erebos's Intervention
 3 Shark Typhoon
+1 Tergrid, God of Fright
+1 Doomskar
+1 Fae of Wishes
+2 Tergrid, God of Fright
+2 Doomskar
+2 Fae of Wishes
+3 The Birth of Meletis
+3 Doomskar
+3 Fae of Wishes
+4 Doomskar
+4 The Birth of Meletis
 1 Hagra Mauling
 1 Temple of Malady
 1 Temple of Plenty
@@ -113,8 +124,8 @@
 3 Lithoform Blight
 3 Temple of Plenty
 4 Archon of Sun's Grace
-4 Lithoform Blight
 4 Branchloft Pathway
+4 Lithoform Blight
 1 Barkchannel Pathway
 1 Zagoth Triome
 2 Barkchannel Pathway
@@ -122,25 +133,14 @@
 2 Golden Egg
 3 Zagoth Triome
 4 Zagoth Triome
-1 Tergrid, God of Fright
-1 Doomskar
-1 Fae of Wishes
-2 Tergrid, God of Fright
-2 Doomskar
-2 Fae of Wishes
-3 Doomskar
-3 The Birth of Meletis
-3 Fae of Wishes
-4 The Birth of Meletis
-4 Doomskar
 1 In Search of Greatness
 1 Path to the World Tree
 1 Bala Ged Recovery
 1 Esika's Chariot
 1 Charming Prince
 1 The World Tree
-1 Darkbore Pathway
 1 Burning-Rune Demon
+1 Darkbore Pathway
 1 Firja's Retribution
 1 Llanowar Visionary
 1 Mythos of Nethroi
@@ -157,13 +157,13 @@
 2 Llanowar Visionary
 2 Castle Locthwain
 3 In Search of Greatness
+3 Path to the World Tree
 3 The World Tree
 3 Darkbore Pathway
-3 Path to the World Tree
 3 Llanowar Visionary
+4 Path to the World Tree
 4 The World Tree
 4 Darkbore Pathway
-4 Path to the World Tree
 1 Archon of Emeria
 1 Jwari Disruption
 1 Soul Shatter
@@ -185,12 +185,12 @@
 9 Plains
 10 Plains
 1 Maul of the Skyclaves
-1 Selfless Savior
 1 Luminarch Aspirant
-2 Maul of the Skyclaves
-2 Selfless Savior
+1 Selfless Savior
 2 Luminarch Aspirant
-3 Maul of the Skyclaves
+2 Maul of the Skyclaves
 3 Luminarch Aspirant
-4 Maul of the Skyclaves
+3 Maul of the Skyclaves
 4 Luminarch Aspirant
+4 Maul of the Skyclaves
+2 Selfless Savior

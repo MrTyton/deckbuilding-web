@@ -55,7 +55,7 @@
 |                     |                                                                                                    |                    2|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)            |
 |                     |                                                                                                    |                    3|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)            |
 |                     |                                                                                                    |                    3|[Firestorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4547)                   |
-|                     |                                                                                                    |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)       |
 |                     |                                                                                                    |                    4|[Chain of Vapor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420701)            |
+|                     |                                                                                                    |                    4|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)       |
 |                     |                                                                                                    |                    4|[Wispmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=145974)                  |
 

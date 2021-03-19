@@ -28,10 +28,10 @@
 3 The Birth of Meletis
 3 Harmonious Archon
 3 Fire Prophecy
-4 The Birth of Meletis
 4 Transmogrify
 4 Mountain
 4 Needleverge Pathway
+4 The Birth of Meletis
 4 Harmonious Archon
 4 Fire Prophecy
 2 Temple of Malady
@@ -50,8 +50,8 @@
 1 Rune of Mortality
 2 In Search of Greatness
 2 Rune of Might
-2 Runeforge Champion
 2 Omen of the Dead
+2 Runeforge Champion
 2 Rune of Sustenance
 3 In Search of Greatness
 3 Runeforge Champion
@@ -180,8 +180,8 @@
 1 Skull Prophet
 2 Mire Triton
 2 Acolyte of Affliction
-2 Yasharn, Implacable Earth
 2 Lotus Cobra
+2 Yasharn, Implacable Earth
 6 Swamp
 1 Wicked Wolf
 1 Trail of Crumbs
@@ -193,10 +193,10 @@
 3 Wicked Wolf
 3 Trail of Crumbs
 3 Emeria's Call
-4 Elspeth Conquers Death
 4 Mazemind Tome
-4 Wicked Wolf
+4 Elspeth Conquers Death
 4 Trail of Crumbs
+4 Wicked Wolf
 4 Emeria's Call
 5 Forest
 6 Forest
@@ -209,8 +209,8 @@
 2 Snow-Covered Forest
 3 Snow-Covered Swamp
 3 Snow-Covered Forest
-1 Snow-Covered Plains
 1 Shepherd of the Flock
+1 Snow-Covered Plains
 1 Grasp of Darkness
 1 Sculptor of Winter
 1 Evolving Wilds
@@ -227,8 +227,8 @@
 1 Snowfield Sinkhole
 1 Elderfang Disciple
 2 Grasp of Darkness
-2 Evolving Wilds
 2 Sculptor of Winter
+2 Evolving Wilds
 2 Shimmerdrift Vale
 2 Skull Raid
 2 Feed the Serpent
@@ -240,8 +240,8 @@
 2 Arctic Treeline
 2 Snowfield Sinkhole
 2 Woodland Chasm
-3 Sculptor of Winter
 3 Evolving Wilds
+3 Sculptor of Winter
 3 Shimmerdrift Vale
 3 Sarulf's Packmate
 3 Skull Raid
@@ -273,8 +273,8 @@
 2 Ondu Inversion
 3 Shatterskull Smashing
 1 Hagra Mauling
-1 Easy Prey
 1 The World Tree
+1 Easy Prey
 1 Agonizing Remorse
 1 Murderous Rider
 2 Kaya the Inexorable
@@ -294,10 +294,10 @@
 1 Dream Devourer
 1 Zagoth Triome
 1 Snow-Covered Mountain
+2 Liliana, Waker of the Dead
 2 Cragcrown Pathway
 2 Blightstep Pathway
 2 Dream Devourer
-2 Liliana, Waker of the Dead
 2 Snow-Covered Mountain
 3 Vorinclex, Monstrous Raider
 3 Blightstep Pathway
@@ -307,14 +307,16 @@
 3 Solemn Simulacrum
 4 Ugin, the Spirit Dragon
 4 Solemn Simulacrum
+4 Dream Devourer
 4 Blightstep Pathway
 4 Valki, God of Lies
-4 Dream Devourer
 4 Lukka, Coppercoat Outcast
 4 Vorinclex, Monstrous Raider
 4 Cultivate
 1 Jwari Disruption
+1 Neutralize
 1 Rewind
+1 Into the Roil
 1 Silundi Vision
 1 Mystic Sanctuary
 1 Gadwick, the Wizened
@@ -323,8 +325,6 @@
 1 Kiora Bests the Sea God
 1 Island
 1 Sublime Epiphany
-1 Into the Roil
-1 Neutralize
 1 Essence Scatter
 1 Hypnotic Sprite
 1 Castle Vantress
@@ -346,17 +346,17 @@
 2 Hypnotic Sprite
 3 Brazen Borrower
 3 Neutralize
-3 Castle Vantress
 3 Frantic Inventory
 3 Shark Typhoon
 3 Rewind
 3 Island
+3 Castle Vantress
 4 Brazen Borrower
-4 Castle Vantress
 4 Neutralize
 4 Frantic Inventory
 4 Shark Typhoon
 4 Rewind
+4 Castle Vantress
 4 Island
 5 Island
 6 Island
