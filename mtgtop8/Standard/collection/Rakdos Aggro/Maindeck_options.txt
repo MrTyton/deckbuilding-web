@@ -6,17 +6,17 @@
 1 Inscription of Ruin
 3 Bloodchief's Thirst
 4 Kroxa, Titan of Death's Hunger
-1 Acquisitions Expert
 1 Elderfang Disciple
-2 Acquisitions Expert
+1 Acquisitions Expert
 2 Elderfang Disciple
-3 Elderfang Disciple
+2 Acquisitions Expert
 3 Acquisitions Expert
+3 Elderfang Disciple
 4 Acquisitions Expert
 4 Elderfang Disciple
 1 Magmatic Channeler
-1 Mire's Grasp
 1 Embereth Shieldbreaker
+1 Mire's Grasp
 1 Hagra Mauling
 2 Inscription of Ruin
 2 Magmatic Channeler
@@ -25,10 +25,10 @@
 2 Immersturm Predator
 1 Goldspan Dragon
 1 Skyclave Shade
-1 Clearwater Pathway
 1 Riverglide Pathway
-2 Clearwater Pathway
+1 Clearwater Pathway
 2 Riverglide Pathway
+2 Clearwater Pathway
 3 Riverglide Pathway
 3 Clearwater Pathway
 4 Riverglide Pathway
@@ -61,8 +61,8 @@
 1 Savai Triome
 1 Showdown of the Skalds
 1 Sejiri Shelter
-2 Needleverge Pathway
 2 Sejiri Shelter
+2 Needleverge Pathway
 2 Savai Triome
 2 Brightclimb Pathway
 2 Unleash Fury
@@ -76,11 +76,11 @@
 3 Kazuul's Fury
 3 Showdown of the Skalds
 3 Goldspan Dragon
-4 Savai Triome
 4 Brightclimb Pathway
+4 Savai Triome
 3 Temple of Malice
-4 Shatterskull Smashing
 4 Temple of Malice
+4 Shatterskull Smashing
 4 The Akroan War
 7 Swamp
 8 Swamp
@@ -111,28 +111,28 @@
 2 Eliminate
 3 Heartless Act
 4 Tymaret Calls the Dead
-1 Dream Devourer
 1 Pharika's Libation
 1 Blood on the Snow
+1 Dream Devourer
 1 Field of Ruin
 2 Field of Ruin
 2 Pharika's Libation
 2 Agadeem's Awakening
-2 Dream Devourer
 2 Blood on the Snow
+2 Dream Devourer
 2 Liliana, Waker of the Dead
 3 Pharika's Libation
-3 Dream Devourer
 3 Blood on the Snow
 3 Agadeem's Awakening
+3 Dream Devourer
 3 Egon, God of Death
 3 Tergrid, God of Fright
 3 Soul Shatter
 4 Soul Shatter
 4 Agadeem's Awakening
-4 Valki, God of Lies
 4 Pharika's Libation
 4 Castle Locthwain
+4 Valki, God of Lies
 4 Dream Devourer
 4 Skyclave Shade
 1 Bastion of Remembrance
@@ -162,6 +162,7 @@
 2 Narfi, Betrayer King
 2 Immersturm Skullcairn
 2 Sulfurous Mire
+2 Feed the Serpent
 2 Skull Raid
 2 Kardur's Vicious Return
 2 Shimmerdrift Vale
@@ -169,7 +170,6 @@
 2 Feed the Swarm
 2 Reaper of Night
 2 Elspeth's Nightmare
-2 Feed the Serpent
 3 Sulfurous Mire
 3 Skull Raid
 3 Shimmerdrift Vale

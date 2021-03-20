@@ -20,11 +20,3 @@
 |3 [Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|2 [Ox of Agonas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476398)          |                                                                                      |
 |                                                                                               |4 [Phoenix of Ash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476399)        |                                                                                      |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                    Sideboard Card                                    |
-|---------------------|-------------|--------------------:|--------------------------------------------------------------------------------------|
-|                     |             |                    2|[Cinderclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491776)|
-|                     |             |                    1|[Cinderclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491776)|
-

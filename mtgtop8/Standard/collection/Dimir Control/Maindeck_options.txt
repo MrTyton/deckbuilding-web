@@ -30,12 +30,12 @@
 1 Snow-Covered Swamp
 2 Snow-Covered Island
 2 Snow-Covered Swamp
-3 Snow-Covered Island
 3 Snow-Covered Swamp
+3 Snow-Covered Island
 4 Snow-Covered Island
 4 Snow-Covered Swamp
-5 Snow-Covered Swamp
 5 Snow-Covered Island
+5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 6 Snow-Covered Island
 1 Shadows' Verdict
@@ -72,9 +72,9 @@
 3 Bloodchief's Thirst
 1 Elspeth's Nightmare
 2 Elspeth's Nightmare
+1 Ashiok, Nightmare Muse
 1 Ice Tunnel
 1 Blood on the Snow
-1 Ashiok, Nightmare Muse
 2 Ice Tunnel
 3 Ice Tunnel
 4 Ice Tunnel
@@ -85,13 +85,13 @@
 10 Snow-Covered Swamp
 1 Sea Gate Restoration
 1 Field of Ruin
+2 Field of Ruin
 2 Sea Gate Restoration
 2 Soul Shatter
-2 Field of Ruin
+3 Field of Ruin
 3 Disdainful Stroke
 3 Soul Shatter
 3 Jwari Disruption
-3 Field of Ruin
 4 Eliminate
 4 Disdainful Stroke
 4 Soul Shatter
@@ -160,8 +160,8 @@
 1 Gray Merchant of Asphodel
 1 Mire Triton
 1 Skull Raid
-1 Murderous Rider
 1 Feed the Swarm
+1 Murderous Rider
 1 Draugr Thought-Thief
 1 Jarl of the Forsaken
 1 Priest of the Haunted Edge

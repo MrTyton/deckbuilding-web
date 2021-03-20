@@ -50,6 +50,6 @@
 |                    2|[Sulfur Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443135)                |                    1|[Into the Roil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389560)          |
 |                    2|[Sinister Sabotage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452804)           |                    1|[Aetherspouts](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383178)           |
 |                    1|[Radiant Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402002)              |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)     |
-|                    3|[Radiant Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402002)              |                    2|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)      |
-|                    2|[Radiant Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402002)              |                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)      |
+|                    3|[Radiant Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402002)              |                    1|[Anger of the Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438682)      |
+|                    2|[Radiant Flames](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402002)              |                    2|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)      |
 
