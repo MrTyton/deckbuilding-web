@@ -5,7 +5,6 @@
 1 Primeval Titan
 1 Blast Zone
 1 Overgrown Tomb
-1 Verdant Catacombs
 1 Bojuka Bog
 1 Castle Garenbrig
 1 Field of the Dead
@@ -23,6 +22,7 @@
 1 Snow-Covered Forest
 1 Gyruda, Doom of Depths
 1 Cavern of Souls
+1 Verdant Catacombs
 1 Radiant Fountain
 1 Farseek
 1 Mwonvuli Acid-Moss
@@ -88,32 +88,32 @@
 1 Eliminate
 1 Ancestral Vision
 1 Mishra's Bauble
-1 Soaring Thought-Thief
 1 Thieves' Guild Enforcer
 1 Mana Leak
 1 Darkslick Shores
+1 Soaring Thought-Thief
 1 Clearwater Pathway
 2 Scalding Tarn
 2 Ancestral Vision
 2 Mishra's Bauble
 2 Spell Snare
-2 Soaring Thought-Thief
 2 Thieves' Guild Enforcer
 2 Mana Leak
+2 Soaring Thought-Thief
 2 Darkslick Shores
-3 Cling to Dust
 3 Scalding Tarn
 3 Darkslick Shores
 3 Ancestral Vision
+3 Cling to Dust
 3 Mishra's Bauble
 3 Thieves' Guild Enforcer
 3 Soaring Thought-Thief
 4 Snapcaster Mage
 4 Mishra's Bauble
 4 Thieves' Guild Enforcer
-4 Soaring Thought-Thief
 4 Darkslick Shores
 4 Ancestral Vision
+4 Soaring Thought-Thief
 1 Cryptic Command
 1 Flooded Strand
 1 Sunken Ruins
@@ -129,12 +129,12 @@
 2 Cryptic Command
 2 Misty Rainforest
 2 Castle Vantress
-2 Into the Story
 2 Thought Scour
 2 Force of Negation
 2 Bloodchief's Thirst
 2 Shark Typhoon
 2 River of Tears
+2 Into the Story
 3 Shark Typhoon
 3 Thought Scour
 3 Cryptic Command
@@ -149,8 +149,8 @@
 1 Graven Cairns
 1 Collective Brutality
 1 Liliana, Waker of the Dead
-1 Chandra, Acolyte of Flame
 1 Rakdos Charm
+1 Chandra, Acolyte of Flame
 1 Ensnaring Bridge
 1 Dragonskull Summit
 2 Mazemind Tome

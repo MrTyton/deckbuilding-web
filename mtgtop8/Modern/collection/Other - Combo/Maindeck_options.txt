@@ -17,9 +17,9 @@
 2 Ardent Plea
 3 Ardent Plea
 4 Ardent Plea
-1 Force of Negation
 1 Steam Vents
 1 Teferi, Time Raveler
+1 Force of Negation
 1 Raugrin Triome
 2 Force of Negation
 2 Teferi, Time Raveler
@@ -48,7 +48,6 @@
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
-1 Irencrag Feat
 1 Bala Ged Recovery
 1 Spikefield Hazard
 1 Valakut Awakening
@@ -57,31 +56,32 @@
 1 Recross the Paths
 1 Desperate Ritual
 1 Pyretic Ritual
-2 Irencrag Feat
+1 Irencrag Feat
 2 Spikefield Hazard
 2 Valakut Awakening
 2 Pyretic Ritual
 2 Bala Ged Recovery
+2 Irencrag Feat
 2 Manamorphose
 2 Recross the Paths
 2 Desperate Ritual
-3 Irencrag Feat
 3 Spikefield Hazard
 3 Goblin Charbelcher
 3 Manamorphose
 3 Pact of Negation
+3 Irencrag Feat
 3 Valakut Awakening
 3 Desperate Ritual
 3 Recross the Paths
 3 Pyretic Ritual
 3 Bala Ged Recovery
-4 Irencrag Feat
 4 Spikefield Hazard
 4 Goblin Charbelcher
 4 Manamorphose
 4 Recross the Paths
 4 Valakut Awakening
 4 Pyretic Ritual
+4 Irencrag Feat
 4 Desperate Ritual
 4 Bala Ged Recovery
 1 Snow-Covered Forest
@@ -98,8 +98,8 @@
 2 Misty Rainforest
 2 Cryptic Command
 2 Omnath, Locus of Creation
-3 Misty Rainforest
 3 Cryptic Command
+3 Misty Rainforest
 3 Uro, Titan of Nature's Wrath
 4 Misty Rainforest
 4 Uro, Titan of Nature's Wrath
@@ -341,13 +341,13 @@
 1 Solemnity
 1 Marsh Flats
 1 Silence
-1 Nine Lives
 1 Deafening Clarion
 1 Wheel of Sun and Moon
 1 Dovescape
 1 Overwhelming Splendor
 1 Treasure Map
 1 Form of the Dragon
+1 Nine Lives
 1 Plains
 1 Mistveil Plains
 1 Enduring Ideal
@@ -358,7 +358,6 @@
 2 Nykthos, Shrine to Nyx
 2 Sacred Foundry
 2 Silence
-2 Nine Lives
 2 Oust
 2 Enduring Ideal
 2 Plains
@@ -366,13 +365,14 @@
 2 Solemnity
 2 Phyrexian Unlife
 2 Form of the Dragon
+2 Nine Lives
 2 Treasure Map
 2 Lotus Bloom
 2 Skyclave Apparition
+3 Oust
 3 Skyclave Apparition
 3 Sacred Foundry
 3 Solemnity
-3 Oust
 3 Enduring Ideal
 3 Silence
 3 Plains

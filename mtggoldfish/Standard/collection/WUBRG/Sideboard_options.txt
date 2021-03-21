@@ -1,11 +1,11 @@
 2 Island
 4 Lotus Cobra
-1 Snow-Covered Island
 1 Ilysian Caryatid
+1 Snow-Covered Island
 1 Snow-Covered Plains
 1 Snow-Covered Swamp
-2 Snow-Covered Island
 2 Ilysian Caryatid
+2 Snow-Covered Island
 3 Ilysian Caryatid
 4 Ilysian Caryatid
 1 Miscast
@@ -27,10 +27,10 @@
 1 Garruk, Cursed Huntsman
 1 Dream Trawler
 1 Goldspan Dragon
+1 Ondu Inversion
 1 Crush the Weak
 1 Stonecoil Serpent
 1 Esika, God of the Tree
-1 Ondu Inversion
 2 Goldspan Dragon
 2 Crush the Weak
 2 Stonecoil Serpent
@@ -44,8 +44,8 @@
 2 Beanstalk Giant
 3 Beanstalk Giant
 2 Forest
-1 Valki, God of Lies
 1 Blood on the Snow
+1 Valki, God of Lies
 2 Blood on the Snow
 3 Blood on the Snow
 1 Confounding Conundrum
@@ -57,11 +57,15 @@
 2 Footfall Crater
 2 Scorching Dragonfire
 3 Scorching Dragonfire
+2 Demon Bolt
+3 Demon Bolt
 1 Terror of the Peaks
 2 Terror of the Peaks
 3 Terror of the Peaks
-2 Demon Bolt
-3 Demon Bolt
+1 Duress
+2 Duress
+3 Duress
+4 Duress
 1 Shadows' Verdict
 1 Icebreaker Kraken
 1 Dryad of the Ilysian Grove
@@ -72,10 +76,6 @@
 3 Shadows' Verdict
 3 Koma, Cosmos Serpent
 4 Blood on the Snow
-1 Duress
-2 Duress
-3 Duress
-4 Duress
 1 Wolfwillow Haven
 2 Wolfwillow Haven
 3 Forest

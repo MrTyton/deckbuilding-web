@@ -7,8 +7,8 @@
 1 Necromentia
 1 Mire Triton
 2 Mire Triton
-3 Mire Triton
 3 Temple of Malice
+3 Mire Triton
 4 Mire Triton
 1 Binding the Old Gods
 2 Binding the Old Gods
@@ -51,6 +51,7 @@
 1 Temple of Malady
 1 Jungle Hollow
 1 Wolfwillow Haven
+1 Terror of the Peaks
 1 Rugged Highlands
 1 Bala Ged Recovery
 1 Lukka, Coppercoat Outcast
@@ -59,7 +60,6 @@
 1 Thorn Mammoth
 1 Shadowspear
 1 Nissa of Shadowed Boughs
-1 Terror of the Peaks
 1 Ironscale Hydra
 1 Tangled Florahedron
 1 Castle Garenbrig
@@ -69,14 +69,14 @@
 1 Kogla, the Titan Ape
 1 Rampart Smasher
 2 Wolfwillow Haven
-2 Thorn Mammoth
+2 Terror of the Peaks
 2 Castle Garenbrig
 2 Kogla, the Titan Ape
 2 Rugged Highlands
 2 Ilysian Caryatid
 2 Cultivate
-2 Terror of the Peaks
 2 Rampart Smasher
+2 Thorn Mammoth
 2 Ram Through
 3 Wolfwillow Haven
 3 Ilysian Caryatid
@@ -110,9 +110,9 @@
 3 Heartless Act
 4 Foulmire Knight
 1 Dream Devourer
+1 Eliminate
 1 Vorinclex, Monstrous Raider
 1 Llanowar Visionary
-1 Eliminate
 2 Dream Devourer
 2 Llanowar Visionary
 2 Vorinclex, Monstrous Raider
