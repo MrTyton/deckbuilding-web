@@ -51,21 +51,22 @@
 1 Bala Ged Recovery
 1 Spikefield Hazard
 1 Valakut Awakening
+1 Irencrag Feat
 1 Reforge the Soul
 1 Manamorphose
 1 Recross the Paths
 1 Desperate Ritual
 1 Pyretic Ritual
-1 Irencrag Feat
-2 Spikefield Hazard
-2 Valakut Awakening
-2 Pyretic Ritual
 2 Bala Ged Recovery
+2 Valakut Awakening
+2 Spikefield Hazard
 2 Irencrag Feat
+2 Pyretic Ritual
 2 Manamorphose
 2 Recross the Paths
 2 Desperate Ritual
 3 Spikefield Hazard
+3 Bala Ged Recovery
 3 Goblin Charbelcher
 3 Manamorphose
 3 Pact of Negation
@@ -74,16 +75,15 @@
 3 Desperate Ritual
 3 Recross the Paths
 3 Pyretic Ritual
-3 Bala Ged Recovery
 4 Spikefield Hazard
 4 Goblin Charbelcher
+4 Bala Ged Recovery
 4 Manamorphose
 4 Recross the Paths
 4 Valakut Awakening
 4 Pyretic Ritual
 4 Irencrag Feat
 4 Desperate Ritual
-4 Bala Ged Recovery
 1 Snow-Covered Forest
 1 Scalding Tarn
 2 Scalding Tarn
@@ -340,8 +340,8 @@
 1 Oust
 1 Solemnity
 1 Marsh Flats
-1 Silence
 1 Deafening Clarion
+1 Silence
 1 Wheel of Sun and Moon
 1 Dovescape
 1 Overwhelming Splendor
@@ -369,10 +369,10 @@
 2 Treasure Map
 2 Lotus Bloom
 2 Skyclave Apparition
-3 Oust
 3 Skyclave Apparition
 3 Sacred Foundry
 3 Solemnity
+3 Oust
 3 Enduring Ideal
 3 Silence
 3 Plains

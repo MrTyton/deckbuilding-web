@@ -15,10 +15,10 @@
 1 Garruk, Cursed Huntsman
 1 Narfi, Betrayer King
 1 Acolyte of Affliction
+2 Rimewood Falls
 2 Snow-Covered Island
 2 Ice Tunnel
 2 Narfi, Betrayer King
-2 Rimewood Falls
 2 Acolyte of Affliction
 1 Mire Triton
 2 Mire Triton
@@ -33,10 +33,10 @@
 1 Harald, King of Skemfar
 2 Harald, King of Skemfar
 1 Realmwalker
-1 Return Upon the Tide
-1 Skemfar Avenger
 1 Grasp of Darkness
+1 Skemfar Avenger
 1 Wolfwillow Haven
+1 Return Upon the Tide
 1 Boreal Outrider
 1 Thornmantle Striker
 1 Harald Unites the Elves
@@ -67,8 +67,8 @@
 2 Priest of the Haunted Edge
 2 Excavation Mole
 3 Ice Tunnel
-3 Rimewood Falls
 3 Narfi, Betrayer King
+3 Rimewood Falls
 3 Excavation Mole
 3 Acolyte of Affliction
 4 Excavation Mole
@@ -131,9 +131,9 @@
 1 Wildborn Preserver
 1 Evolving Wilds
 1 Extinction Event
+1 Ranger's Guile
 1 Fully Grown
 1 Withercrown
-1 Ranger's Guile
 1 Elvish Warmaster
 2 Fully Grown
 3 Fully Grown
@@ -150,14 +150,14 @@
 1 Port of Karfell
 1 Sarulf, Realm Eater
 1 Frantic Inventory
-1 Poison the Cup
 1 Chainweb Aracnir
+1 Poison the Cup
 1 Ashiok, Nightmare Muse
 1 Thrashing Brontodon
 1 Ugin, the Spirit Dragon
-2 Thrashing Brontodon
 2 Behold the Multiverse
 2 Port of Karfell
+2 Thrashing Brontodon
 2 Frantic Inventory
 2 Poison the Cup
 2 Chainweb Aracnir
@@ -167,6 +167,26 @@
 3 Frantic Inventory
 3 Chainweb Aracnir
 4 Frantic Inventory
+1 Tangled Florahedron
+1 Swarm Shambler
+1 Bonders' Enclave
+1 Stonecoil Serpent
+1 Garruk, Unleashed
+1 Castle Garenbrig
+1 Ashaya, Soul of the Wild
+1 Snakeskin Veil
+1 Skyclave Shade
+2 Swarm Shambler
+2 Tangled Florahedron
+2 Stonecoil Serpent
+2 Castle Garenbrig
+2 Snakeskin Veil
+2 Skyclave Shade
+3 Stonecoil Serpent
+3 Castle Garenbrig
+3 Scavenging Ooze
+4 Stonecoil Serpent
+4 Gemrazer
 1 Massacre Wurm
 1 Eliminate
 1 Faceless Haven
@@ -181,75 +201,55 @@
 4 Indatha Triome
 4 Toski, Bearer of Secrets
 4 Fabled Passage
-1 Tangled Florahedron
-1 Stonecoil Serpent
-1 Bonders' Enclave
-1 Ashaya, Soul of the Wild
-1 Garruk, Unleashed
-1 Castle Garenbrig
-1 Snakeskin Veil
-1 Swarm Shambler
-1 Skyclave Shade
-2 Tangled Florahedron
-2 Stonecoil Serpent
-2 Castle Garenbrig
-2 Snakeskin Veil
-2 Skyclave Shade
-2 Swarm Shambler
-3 Castle Garenbrig
-3 Scavenging Ooze
-3 Stonecoil Serpent
-4 Gemrazer
-4 Stonecoil Serpent
 1 Thassa, Deep-Dwelling
 4 Acolyte of Affliction
 4 Harald, King of Skemfar
-1 Call of the Death-Dweller
-1 Egon, God of Death
-1 Moss Viper
-1 Hooded Blightfang
-1 The Binding of the Titans
-2 Hooded Blightfang
-2 Call of the Death-Dweller
-2 Egon, God of Death
-2 Moss Viper
-2 The Binding of the Titans
-3 Hooded Blightfang
-3 The Binding of the Titans
-3 Moss Viper
-4 The Binding of the Titans
-4 Moss Viper
-4 Hooded Blightfang
 1 Valki, God of Lies
+1 Order of Midnight
 1 Blightstep Pathway
 1 Vivien, Monsters' Advocate
-1 Order of Midnight
 1 Cragcrown Pathway
 1 Zagoth Triome
 2 Agadeem's Awakening
 2 Valki, God of Lies
+2 Order of Midnight
 2 Blightstep Pathway
 2 Vivien, Monsters' Advocate
-2 Order of Midnight
 2 Cragcrown Pathway
 3 Valki, God of Lies
 3 Blightstep Pathway
 3 Cragcrown Pathway
 4 Heartless Act
-4 Cragcrown Pathway
 4 Blightstep Pathway
+4 Cragcrown Pathway
+1 Call of the Death-Dweller
+1 Egon, God of Death
+1 Moss Viper
+1 Hooded Blightfang
+1 The Binding of the Titans
+2 Call of the Death-Dweller
+2 Egon, God of Death
+2 Moss Viper
+2 Hooded Blightfang
+2 The Binding of the Titans
+3 The Binding of the Titans
+3 Moss Viper
+3 Hooded Blightfang
+4 The Binding of the Titans
+4 Moss Viper
+4 Hooded Blightfang
 9 Snow-Covered Forest
-1 Fiend Artisan
 1 Garruk's Uprising
-1 Battle Mammoth
+1 Fiend Artisan
 1 Wildwood Patrol
+1 Battle Mammoth
 1 Keeper of Fables
 1 Gnottvold Recluse
 2 Ram Through
 2 Keeper of Fables
 2 Greater Sandwurm
-3 Sarulf's Packmate
 3 Keeper of Fables
+3 Sarulf's Packmate
 11 Forest
 12 Forest
 13 Forest

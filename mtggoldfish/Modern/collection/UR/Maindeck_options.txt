@@ -1,4 +1,5 @@
 2 Shark Typhoon
+1 Polluted Delta
 1 Monastery Swiftspear
 1 Manamorphose
 1 Lava Dart
@@ -28,10 +29,6 @@
 1 Sunbaked Canyon
 2 Sunbaked Canyon
 3 Sunbaked Canyon
-1 Mishra's Bauble
-2 Mishra's Bauble
-3 Mishra's Bauble
-4 Mishra's Bauble
 1 Mutagenic Growth
 2 Mutagenic Growth
 3 Mutagenic Growth
@@ -41,6 +38,7 @@
 1 Bloodstained Mire
 1 Abbot of Keral Keep
 1 Inspiring Vantage
+1 Mishra's Bauble
 1 Boros Charm
 1 Myth Realized
 2 Sacred Foundry
@@ -50,14 +48,25 @@
 2 Myth Realized
 2 Inspiring Vantage
 2 Abbot of Keral Keep
+2 Mishra's Bauble
 3 Inspiring Vantage
 3 Myth Realized
+3 Mishra's Bauble
+4 Mishra's Bauble
 4 Inspiring Vantage
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-1 Polluted Delta
-1 Fiery Islet
 1 Ral, Izzet Viceroy
+8 Island
+2 Mana Leak
+1 Deprive
+1 Abrade
+1 Fiery Islet
+3 Force of Negation
+2 Misty Rainforest
+3 Misty Rainforest
+1 Cascade Bluffs
+2 Cascade Bluffs
 1 Bedlam Reveler
 2 Bedlam Reveler
 4 Mountain
@@ -72,24 +81,15 @@
 3 Bedlam Reveler
 1 Lava Spike
 2 Lava Spike
-8 Island
-2 Mana Leak
-1 Deprive
-1 Abrade
+2 Polluted Delta
+4 Misty Rainforest
+1 The Royal Scions
+2 The Royal Scions
 2 Fiery Islet
 13 Mountain
 14 Mountain
 3 Lava Spike
 4 Lava Spike
-3 Force of Negation
-2 Misty Rainforest
-3 Misty Rainforest
-2 Polluted Delta
-4 Misty Rainforest
-1 The Royal Scions
-2 The Royal Scions
-1 Cascade Bluffs
-2 Cascade Bluffs
 1 Snow-Covered Mountain
 9 Island
 1 Blast Zone
@@ -101,28 +101,28 @@
 3 Snow-Covered Island
 1 Burst Lightning
 2 Burst Lightning
-1 Wild Slash
-2 Wild Slash
-4 Bedlam Reveler
 1 Kiln Fiend
 2 Kiln Fiend
 3 Kiln Fiend
 4 Snow-Covered Island
 5 Snow-Covered Island
-1 Lonely Sandbar
 1 Snow-Covered Forest
 1 Stomping Ground
 1 Ice-Fang Coatl
 1 Breeding Pool
 1 Wrenn and Six
+1 Lonely Sandbar
 1 Ketria Triome
 2 Snow-Covered Forest
 2 Ice-Fang Coatl
 2 Wrenn and Six
-3 Ice-Fang Coatl
 3 Wrenn and Six
 3 Mana Leak
+3 Ice-Fang Coatl
 4 Ice-Fang Coatl
+3 Sulfur Falls
+1 Serum Visions
+2 Serum Visions
 1 Behold the Multiverse
 2 Behold the Multiverse
 1 Firespout
@@ -139,7 +139,6 @@
 2 Through the Breach
 3 Omen of the Sea
 3 Through the Breach
-3 Sulfur Falls
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
 4 Through the Breach
@@ -154,29 +153,47 @@
 2 Gut Shot
 3 Gut Shot
 15 Mountain
-3 Bonecrusher Giant
 1 Wandering Fumarole
+1 Kiki-Jiki, Mirror Breaker
+1 Minamo, School at Water's Edge
+1 Deceiver Exarch
+1 Riverglide Pathway
+1 Flusterstorm
+1 Valakut Awakening
+2 Deceiver Exarch
+2 Kiki-Jiki, Mirror Breaker
+3 Deceiver Exarch
+3 Kiki-Jiki, Mirror Breaker
+3 Serum Visions
+4 Serum Visions
+1 Wild Slash
+2 Wild Slash
+4 Bedlam Reveler
 1 Flame Slash
+3 Bonecrusher Giant
+1 Reflecting Pool
 1 Sprite Dragon
 2 Sprite Dragon
 3 Sprite Dragon
 4 Sprite Dragon
-1 Reflecting Pool
-1 Serum Visions
-2 Serum Visions
 1 Yidaro, Wandering Monster
 1 Peek
 2 Peek
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
-1 Spell Pierce
-1 Dispel
-2 Spell Pierce
-3 Ancestral Vision
 1 Narset, Parter of Veils
 1 Vendilion Clique
 2 Narset, Parter of Veils
 3 Mystic Sanctuary
+1 Spell Pierce
+1 Dispel
+2 Spell Pierce
+3 Ancestral Vision
+4 Deceiver Exarch
+4 Fiery Islet
+1 Finale of Promise
+3 Blistercoil Weird
+4 Blistercoil Weird
 1 Growth Spiral
 1 Logic Knot
 1 Volatile Fjord
@@ -190,35 +207,21 @@
 3 Cosima, God of the Voyage
 4 Growth Spiral
 4 Cosima, God of the Voyage
-4 Fiery Islet
-1 Finale of Promise
-3 Blistercoil Weird
-4 Blistercoil Weird
 1 Thing in the Ice
 2 Thing in the Ice
 3 Thing in the Ice
 4 Thing in the Ice
 4 Burst Lightning
-1 Kiki-Jiki, Mirror Breaker
-1 Minamo, School at Water's Edge
-1 Deceiver Exarch
-1 Riverglide Pathway
-1 Flusterstorm
 1 Crackling Drake
-1 Valakut Awakening
 1 Spirebluff Canal
 2 Reflecting Pool
-2 Deceiver Exarch
-2 Kiki-Jiki, Mirror Breaker
 2 Spirebluff Canal
 2 Riverglide Pathway
 2 Valakut Awakening
 3 Riverglide Pathway
 3 Reflecting Pool
 3 Spirebluff Canal
-3 Deceiver Exarch
 3 Cascade Bluffs
-3 Kiki-Jiki, Mirror Breaker
 4 Riverglide Pathway
 4 Spirebluff Canal
 4 Cascade Bluffs
@@ -227,13 +230,11 @@
 2 Dreadhorde Arcanist
 2 Deprive
 2 Piracy Charm
-3 Serum Visions
 3 Dreadhorde Arcanist
 3 Polluted Delta
 3 Piracy Charm
 4 Dreadhorde Arcanist
 4 Polluted Delta
-4 Serum Visions
 4 Steam Vents
 6 Snow-Covered Island
 7 Snow-Covered Island
@@ -253,14 +254,14 @@
 13 Snow-Covered Mountain
 14 Snow-Covered Mountain
 15 Snow-Covered Mountain
-1 Thrill of Possibility
 1 Forgotten Cave
 1 Arclight Phoenix
-2 Thrill of Possibility
+1 Thrill of Possibility
 2 Arclight Phoenix
 2 Forgotten Cave
-3 Thrill of Possibility
+2 Thrill of Possibility
 3 Arclight Phoenix
+3 Thrill of Possibility
 4 Arclight Phoenix
 4 Thrill of Possibility
 16 Mountain
@@ -274,8 +275,8 @@
 2 Silumgar's Scorn
 2 Mothdust Changeling
 3 Goldspan Dragon
-3 Mothdust Changeling
 3 Magda, Brazen Outlaw
+3 Mothdust Changeling
 3 Silumgar's Scorn
 3 Blood Moon
 4 Mothdust Changeling

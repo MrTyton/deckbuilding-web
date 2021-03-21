@@ -19,9 +19,9 @@
 1 Embereth Shieldbreaker
 1 Mire's Grasp
 1 Hagra Mauling
-2 Inscription of Ruin
 2 Magmatic Channeler
 2 Hagra Mauling
+2 Inscription of Ruin
 3 Inscription of Ruin
 4 Kroxa, Titan of Death's Hunger
 1 Goldspan Dragon
@@ -46,13 +46,13 @@
 4 Inscription of Ruin
 1 Immersturm Skullcairn
 1 Tergrid, God of Fright
-1 Stormfist Crusader
 1 Nullpriest of Oblivion
 1 Agadeem's Awakening
 1 Soul Shatter
-2 Stormfist Crusader
+1 Stormfist Crusader
 2 Tergrid, God of Fright
 2 Soul Shatter
+2 Stormfist Crusader
 3 Stormfist Crusader
 4 Stormfist Crusader
 1 Robber of the Rich
@@ -61,24 +61,24 @@
 4 Robber of the Rich
 2 Kazuul's Fury
 3 Kazuul's Fury
-1 Unleash Fury
 1 Needleverge Pathway
 1 Brightclimb Pathway
+1 Unleash Fury
 1 Savai Triome
 1 Showdown of the Skalds
 1 Sejiri Shelter
-2 Unleash Fury
-2 Needleverge Pathway
 2 Sejiri Shelter
+2 Needleverge Pathway
 2 Savai Triome
 2 Brightclimb Pathway
+2 Unleash Fury
 2 Showdown of the Skalds
-3 Unleash Fury
-3 Needleverge Pathway
 3 Sejiri Shelter
+3 Needleverge Pathway
 3 Savai Triome
 3 Brightclimb Pathway
 3 Showdown of the Skalds
+3 Unleash Fury
 3 Goldspan Dragon
 4 Brightclimb Pathway
 4 Savai Triome
@@ -125,15 +125,20 @@
 1 Goblin Arsonist
 2 Bastion of Remembrance
 2 Goblin Arsonist
-3 Goblin Arsonist
 3 Bastion of Remembrance
+3 Goblin Arsonist
 3 Serrated Scorpion
 4 Bastion of Remembrance
 4 Goblin Arsonist
 4 Immersturm Predator
 4 Serrated Scorpion
+1 Castle Embereth
+1 Eat to Extinction
+1 Witch's Cauldron
+4 Bloodchief's Thirst
+7 Mountain
+8 Mountain
 1 Narfi, Betrayer King
-1 Kardur's Vicious Return
 1 Skull Raid
 1 Frost Bite
 1 Shimmerdrift Vale
@@ -141,30 +146,25 @@
 1 Liliana, Waker of the Dead
 1 Feed the Serpent
 1 Elspeth's Nightmare
+1 Kardur's Vicious Return
 1 Reaper of Night
 2 Narfi, Betrayer King
-2 Immersturm Skullcairn
 2 Feed the Serpent
 2 Skull Raid
-2 Kardur's Vicious Return
 2 Shimmerdrift Vale
+2 Immersturm Skullcairn
 2 Frost Bite
 2 Feed the Swarm
+2 Kardur's Vicious Return
 2 Reaper of Night
 2 Elspeth's Nightmare
-3 Skull Raid
 3 Shimmerdrift Vale
+3 Skull Raid
 3 Frost Bite
 3 Elspeth's Nightmare
 3 Kardur's Vicious Return
 4 Shimmerdrift Vale
 4 Skull Raid
-4 Sulfurous Mire
 4 Kardur's Vicious Return
 6 Snow-Covered Mountain
-1 Castle Embereth
-1 Eat to Extinction
-1 Witch's Cauldron
-7 Mountain
-8 Mountain
-4 Bloodchief's Thirst
+4 Sulfurous Mire

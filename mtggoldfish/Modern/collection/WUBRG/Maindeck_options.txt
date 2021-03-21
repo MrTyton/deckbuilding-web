@@ -32,9 +32,9 @@
 1 Charming Prince
 1 Glasspool Mimic
 1 Enigmatic Incarnation
-1 Omen of the Forge
 1 Magus of the Moon
 1 Scavenging Ooze
+1 Omen of the Forge
 1 Omen of the Sea
 1 Skyclave Apparition
 1 Reflector Mage
@@ -80,8 +80,8 @@
 1 Kaya's Guile
 1 Lightning Helix
 2 Wrenn and Six
-2 Lightning Helix
 2 Omnath, Locus of Creation
+2 Lightning Helix
 2 Bring to Light
 3 Bring to Light
 1 Godless Shrine
@@ -135,13 +135,13 @@
 1 Turntimber Symbiosis
 1 Sea Gate Restoration
 1 Shatterskull Smashing
+1 Hagra Mauling
 1 Agadeem's Awakening
 1 Pentad Prism
 1 Sword of the Meek
 1 Emeria's Call
 1 Balustrade Spy
 1 Phantasmagorian
-1 Hagra Mauling
 1 Narcomoeba
 1 Vengevine
 1 Talisman of Resilience
@@ -161,7 +161,6 @@
 2 Vengevine
 2 Sword of the Meek
 2 Talisman of Resilience
-3 Emeria's Call
 3 Turntimber Symbiosis
 3 Sea Gate Restoration
 3 Balustrade Spy
@@ -169,6 +168,7 @@
 3 Pentad Prism
 3 Vengevine
 3 Sword of the Meek
+3 Emeria's Call
 3 Agadeem's Awakening
 3 Creeping Chill
 4 Turntimber Symbiosis
@@ -266,9 +266,9 @@
 1 Thought Erasure
 1 Urza's Ruinous Blast
 2 Thought Erasure
+1 Path to Exile
 1 Lightning Bolt
 1 Flooded Strand
-1 Path to Exile
 2 Breeding Pool
 2 Lightning Bolt
 2 Path to Exile

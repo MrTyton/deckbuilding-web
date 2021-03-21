@@ -1,25 +1,26 @@
-4 Sprite Dragon
-1 True-Name Nemesis
-2 Misty Rainforest
-2 Flooded Strand
 1 Spell Pierce
 1 Island
 1 Mountain
 2 Island
+3 Chain Lightning
 1 Stifle
 2 Stifle
-3 Preordain
-1 Wooded Foothills
+2 Misty Rainforest
+2 Flooded Strand
 2 Brazen Borrower
+4 Sprite Dragon
 1 Forked Bolt
-4 Preordain
+1 Wooded Foothills
 1 Ethereal Forager
+3 Preordain
+3 Stifle
+2 Ethereal Forager
 1 Fiery Islet
 1 Pyroblast
-3 Stifle
+4 Preordain
+2 True-Name Nemesis
 4 Chain Lightning
 1 Bedlam Reveler
-2 Ethereal Forager
 4 Volcanic Island
 1 Tropical Island
 1 Oko, Thief of Crowns
@@ -32,7 +33,6 @@
 4 Young Pyromancer
 1 Vapor Snag
 1 Bloodstained Mire
-2 True-Name Nemesis
 1 Monastery Swiftspear
 2 Monastery Swiftspear
 3 Monastery Swiftspear
@@ -81,6 +81,8 @@
 3 Island
 4 Prismatic Vista
 4 Stifle
+3 Misty Rainforest
+4 Misty Rainforest
 1 Hullbreacher
 3 Flooded Strand
 4 Flooded Strand

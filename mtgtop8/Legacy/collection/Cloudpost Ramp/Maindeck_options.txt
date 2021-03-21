@@ -3,8 +3,8 @@
 1 Blast Zone
 1 Sorcerous Spyglass
 1 Ancient Tomb
-2 Ancient Tomb
 2 Sorcerous Spyglass
+2 Ancient Tomb
 3 Ancient Tomb
 4 Ancient Tomb
 1 Thought-Knot Seer
@@ -42,8 +42,8 @@
 1 Stonecoil Serpent
 1 Urborg, Tomb of Yawgmoth
 1 Mystic Forge
-2 Stonecoil Serpent
 2 Trinisphere
+2 Stonecoil Serpent
 2 Ugin, the Ineffable
 2 Forsaken Monument
 2 Basalt Monolith
@@ -64,16 +64,16 @@
 1 Krosan Grip
 2 Krosan Grip
 3 Golos, Tireless Pilgrim
-4 Sorcerous Spyglass
-4 Elvish Rejuvenator
 4 Golos, Tireless Pilgrim
+4 Elvish Rejuvenator
 4 Primeval Titan
+4 Sorcerous Spyglass
 1 Sphere of Resistance
 2 Sphere of Resistance
 1 Reality Smasher
 2 Blast Zone
-2 Reality Smasher
 2 Ulamog, the Ceaseless Hunger
+2 Reality Smasher
 3 Reality Smasher
 1 Thran Dynamo
 1 Grindstone
@@ -84,10 +84,10 @@
 2 Walking Ballista
 3 Walking Ballista
 3 City of Traitors
-3 Stonecoil Serpent
 3 Basalt Monolith
-4 City of Traitors
+3 Stonecoil Serpent
 4 Stonecoil Serpent
+4 City of Traitors
 1 Prismatic Vista
 1 Mikokoro, Center of the Sea
 2 Spatial Contortion
@@ -102,6 +102,6 @@
 1 Living Wish
 2 Living Wish
 3 Living Wish
-4 Living Wish
-9 Forest
 8 Forest
+9 Forest
+4 Living Wish

@@ -1,29 +1,31 @@
-1 Mystical Dispute
+4 Merfolk Windrobber
 2 Bloodchief's Thirst
+1 Disdainful Stroke
+1 Mystical Dispute
 3 Of One Mind
 3 Agadeem's Awakening
 4 Temple of Deceit
-4 Swamp
-1 Disdainful Stroke
 5 Swamp
 2 Eliminate
+4 Heartless Act
 1 Essence Scatter
 1 Crippling Fear
 1 Erebos's Intervention
+4 Zagoth Triome
 1 Suffocating Fumes
-1 Dead Weight
 1 Negate
+1 Dead Weight
 7 Island
-4 Heartless Act
+2 Disdainful Stroke
 1 Jwari Disruption
 2 Jwari Disruption
 1 Saw It Coming
 2 Saw It Coming
-1 Dismal Backwater
 1 Extinction Event
 2 Extinction Event
 1 Crawling Barrens
 1 Cling to Dust
+3 Eliminate
 1 Castle Vantress
 1 Snow-Covered Island
 1 Snow-Covered Swamp
@@ -31,40 +33,38 @@
 2 Snow-Covered Swamp
 3 Snow-Covered Swamp
 3 Snow-Covered Island
-4 Snow-Covered Island
 4 Snow-Covered Swamp
-5 Snow-Covered Swamp
+4 Snow-Covered Island
 5 Snow-Covered Island
+5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 6 Snow-Covered Island
-1 Shadows' Verdict
 1 Soul Shatter
+1 Shadows' Verdict
 2 Shadows' Verdict
 2 Negate
-3 Negate
 3 Saw It Coming
+3 Negate
+1 Dismal Backwater
 2 Lullmage's Domination
 2 Suffocating Fumes
-4 Zagoth Triome
-2 Dead Weight
 1 Behold the Multiverse
 2 Behold the Multiverse
 3 Behold the Multiverse
-2 Disdainful Stroke
+2 Dead Weight
 7 Snow-Covered Island
 1 Shark Typhoon
 1 Graven Lore
 1 Midnight Clock
 2 Crawling Barrens
-2 Shark Typhoon
 2 Graven Lore
 2 Midnight Clock
+2 Shark Typhoon
 2 Castle Vantress
 3 Shark Typhoon
 4 Behold the Multiverse
 1 Mazemind Tome
 2 Mazemind Tome
-3 Eliminate
 3 Mazemind Tome
 3 Shadows' Verdict
 4 Mazemind Tome
@@ -72,8 +72,8 @@
 3 Bloodchief's Thirst
 1 Elspeth's Nightmare
 2 Elspeth's Nightmare
-1 Blood on the Snow
 1 Ice Tunnel
+1 Blood on the Snow
 1 Ashiok, Nightmare Muse
 2 Ice Tunnel
 3 Ice Tunnel
@@ -86,10 +86,10 @@
 1 Sea Gate Restoration
 1 Field of Ruin
 2 Field of Ruin
-2 Sea Gate Restoration
 2 Soul Shatter
-3 Soul Shatter
+2 Sea Gate Restoration
 3 Jwari Disruption
+3 Soul Shatter
 3 Field of Ruin
 3 Disdainful Stroke
 4 Soul Shatter
@@ -97,38 +97,38 @@
 4 Disdainful Stroke
 1 Thassa, Deep-Dwelling
 1 Omen of the Sea
+1 Atris, Oracle of Half-Truths
 1 Solemn Simulacrum
 1 Burning-Rune Demon
-1 Atris, Oracle of Half-Truths
 1 Pharika's Libation
-2 Omen of the Sea
 2 Ashiok, Nightmare Muse
-2 Solemn Simulacrum
+2 Omen of the Sea
 2 Atris, Oracle of Half-Truths
+2 Solemn Simulacrum
 2 Blood on the Snow
 2 Pharika's Libation
 2 Burning-Rune Demon
-3 Omen of the Sea
 3 Solemn Simulacrum
-3 Blood on the Snow
-3 Erebos's Intervention
 3 Atris, Oracle of Half-Truths
+3 Omen of the Sea
+3 Erebos's Intervention
+3 Blood on the Snow
 4 Shadows' Verdict
+4 Atris, Oracle of Half-Truths
 4 Omen of the Sea
 4 Solemn Simulacrum
 4 Blood on the Snow
 4 Negate
-4 Atris, Oracle of Half-Truths
 9 Snow-Covered Island
 10 Snow-Covered Island
 1 Vantress Gargoyle
 1 Lofty Denial
 2 Vantress Gargoyle
-2 Dismal Backwater
 2 Lofty Denial
+2 Dismal Backwater
 3 Vantress Gargoyle
-3 Dismal Backwater
 3 Lofty Denial
+3 Dismal Backwater
 4 Vantress Gargoyle
 4 Dismal Backwater
 4 Lofty Denial
@@ -144,8 +144,8 @@
 1 Zulaport Duelist
 1 Malakir Rebirth
 1 Brinebarrow Intruder
-2 Malakir Rebirth
 2 Zulaport Duelist
+2 Malakir Rebirth
 2 Brinebarrow Intruder
 3 Zulaport Duelist
 3 Brinebarrow Intruder
@@ -153,26 +153,26 @@
 4 Agadeem's Awakening
 1 Gray Merchant of Asphodel
 1 Mire Triton
+1 Narfi, Betrayer King
 1 Skull Raid
-1 Priest of the Haunted Edge
-1 Murderous Rider
 1 Feed the Swarm
+1 Murderous Rider
 1 Draugr Thought-Thief
 1 Jarl of the Forsaken
-1 Narfi, Betrayer King
+1 Priest of the Haunted Edge
 1 Grim Physician
 2 Mire Triton
 2 Gray Merchant of Asphodel
+2 Narfi, Betrayer King
 2 Feed the Swarm
-2 Priest of the Haunted Edge
 2 Essence Scatter
 2 Jarl of the Forsaken
 2 Draugr Thought-Thief
-2 Narfi, Betrayer King
-3 Narfi, Betrayer King
-3 Priest of the Haunted Edge
+2 Priest of the Haunted Edge
 3 Mire Triton
 3 Draugr Thought-Thief
-4 Priest of the Haunted Edge
+3 Priest of the Haunted Edge
+3 Narfi, Betrayer King
 4 Draugr Thought-Thief
+4 Priest of the Haunted Edge
 11 Snow-Covered Swamp

@@ -35,11 +35,11 @@
 1 Scalding Tarn
 1 Polluted Delta
 1 Island
+1 Deceiver Exarch
 1 Splinter Twin
 1 Volcanic Island
 1 Hullbreacher
 1 Day's Undoing
-1 Deceiver Exarch
 1 Ash Barrens
 1 Dack Fayden
 1 Izzet Charm
@@ -49,9 +49,9 @@
 1 Force of Will
 2 Island
 2 Scalding Tarn
+2 Deceiver Exarch
 2 Splinter Twin
 2 Day's Undoing
-2 Deceiver Exarch
 2 Izzet Charm
 2 Hullbreacher
 2 Force of Will
@@ -59,11 +59,11 @@
 2 Volcanic Island
 3 Island
 3 Hullbreacher
+3 Deceiver Exarch
 3 Izzet Charm
 3 Scalding Tarn
-3 Deceiver Exarch
-3 Day's Undoing
 3 Volcanic Island
+3 Day's Undoing
 3 Force of Will
 4 Scalding Tarn
 4 Izzet Charm
@@ -79,14 +79,11 @@
 2 Sorcerous Spyglass
 1 Misty Rainforest
 1 Flooded Strand
+2 Polluted Delta
+3 Polluted Delta
 1 Pyroblast
 2 Pyroblast
 3 Seasoned Pyromancer
-2 Polluted Delta
-3 Polluted Delta
-1 Court of Ire
-2 Court of Ire
-3 Court of Ire
 1 Lotus Petal
 1 Through the Breach
 1 Karn, Scion of Urza
@@ -118,5 +115,8 @@
 7 Snow-Covered Mountain
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
-11 Snow-Covered Mountain
 10 Snow-Covered Mountain
+11 Snow-Covered Mountain
+1 Court of Ire
+2 Court of Ire
+3 Court of Ire

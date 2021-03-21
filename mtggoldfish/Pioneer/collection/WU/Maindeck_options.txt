@@ -57,15 +57,15 @@
 4 Hengegate Pathway
 1 Ornithopter
 1 Curious Obsession
-1 Gingerbrute
 1 Selfless Savior
+1 Gingerbrute
 1 Alseid of Life's Bounty
 1 Ethereal Armor
-1 Ensoul Artifact
 1 All That Glitters
+1 Ensoul Artifact
 1 Darksteel Citadel
-1 Spire of Industry
 1 Springleaf Drum
+1 Spire of Industry
 2 Darksteel Citadel
 2 Ornithopter
 2 Curious Obsession
@@ -73,15 +73,15 @@
 2 Gingerbrute
 2 Alseid of Life's Bounty
 2 Spire of Industry
-2 Springleaf Drum
 2 Ethereal Armor
 2 All That Glitters
+2 Springleaf Drum
 2 Ensoul Artifact
 3 Ornithopter
 3 Curious Obsession
 3 Gingerbrute
-3 Spire of Industry
 3 Ensoul Artifact
+3 Spire of Industry
 3 Alseid of Life's Bounty
 3 Ethereal Armor
 3 All That Glitters
@@ -90,11 +90,11 @@
 4 Curious Obsession
 4 Alseid of Life's Bounty
 4 All That Glitters
-4 Gingerbrute
 4 Spire of Industry
+4 Gingerbrute
 4 Springleaf Drum
-4 Ethereal Armor
 4 Ensoul Artifact
+4 Ethereal Armor
 1 Raugrin Triome
 2 Sphinx's Revelation
 4 Plains
@@ -112,9 +112,9 @@
 1 Dream Trawler
 1 Temple of Epiphany
 1 Temple of Triumph
-1 Steam Vents
-1 Dragonlord Ojutai
 1 Aurelia's Fury
+1 Dragonlord Ojutai
+1 Steam Vents
 2 Blessed Alliance
 1 Mire's Grasp
 1 Brightclimb Pathway
@@ -144,8 +144,8 @@
 2 Behold the Multiverse
 2 Neutralize
 1 Swamp
-1 Watery Grave
 1 Fatal Push
+1 Watery Grave
 1 Drowned Catacomb
 2 Elspeth Conquers Death
 2 Fatal Push
@@ -156,12 +156,12 @@
 1 Isolated Chapel
 1 Oath of Kaya
 1 Trial of Ambition
+1 Tergrid, God of Fright
 1 Elspeth's Nightmare
-1 Lithoform Blight
 1 Confounding Conundrum
+1 Lithoform Blight
 1 Disinformation Campaign
 1 Skyclave Apparition
-1 Tergrid, God of Fright
 1 Doom Foretold
 1 Yorion, Sky Nomad
 1 Dance of the Manse
@@ -172,9 +172,9 @@
 2 Lithoform Blight
 2 Confounding Conundrum
 2 Disinformation Campaign
-2 Elspeth's Nightmare
 2 Skyclave Apparition
 2 Yorion, Sky Nomad
+2 Elspeth's Nightmare
 2 Doom Foretold
 2 Thoughtseize
 2 Drowned Catacomb
@@ -183,10 +183,10 @@
 3 Skyclave Apparition
 3 Doom Foretold
 3 Drowned Catacomb
+3 Yorion, Sky Nomad
 3 Thoughtseize
 3 Trial of Ambition
 3 Fatal Push
-3 Yorion, Sky Nomad
 4 Godless Shrine
 4 Drowned Catacomb
 4 Doom Foretold
@@ -208,8 +208,8 @@
 1 Anticognition
 1 Sphinx of the Final Word
 1 Pearl Lake Ancient
-1 Fumigate
 1 Brazen Borrower
+1 Fumigate
 2 Brazen Borrower
 2 Anticognition
 2 Seal Away
@@ -243,8 +243,8 @@
 2 Ashiok, Nightmare Muse
 2 Declaration in Stone
 2 Prairie Stream
-3 Neutralize
 3 Ashiok, Nightmare Muse
+3 Neutralize
 4 Neutralize
 1 Speaker of the Heavens
 2 Speaker of the Heavens
