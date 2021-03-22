@@ -1,11 +1,11 @@
 2 Pyroblast
 1 Hydroblast
 2 Grafdigger's Cage
-1 Force of Negation
-1 Pithing Needle
 1 Blood Moon
 2 Blood Moon
 1 Hymn to Tourach
+1 Force of Negation
+1 Pithing Needle
 2 Liliana, the Last Hope
 1 Karakas
 1 Carpet of Flowers
@@ -14,23 +14,23 @@
 2 Veil of Summer
 2 Hymn to Tourach
 1 Ratchet Bomb
+2 Liliana's Triumph
 3 Plague Engineer
 3 Pyroblast
-2 Liliana's Triumph
-1 Leovold, Emissary of Trest
-1 Thoughtseize
-1 Crop Rotation
 1 Engineered Explosives
-1 Winter Orb
-1 Bojuka Bog
+1 Thoughtseize
+1 Leovold, Emissary of Trest
 2 Flusterstorm
-1 Collector Ouphe
-1 Toxic Deluge
-1 Mystical Dispute
+1 Crop Rotation
 2 Thoughtseize
+1 Bojuka Bog
+1 Toxic Deluge
+1 Collector Ouphe
+1 Winter Orb
+1 Mystical Dispute
+2 Fatal Push
 1 Blue Elemental Blast
 2 Winter Orb
-2 Fatal Push
 2 Crop Rotation
 1 Assassin's Trophy
 1 Abrade
@@ -38,6 +38,7 @@
 1 Sylvan Library
 2 Nihil Spellbomb
 1 Hullbreacher
+1 Opposition Agent
 2 Ratchet Bomb
 1 Red Elemental Blast
 1 Abrupt Decay
@@ -47,7 +48,7 @@
 1 Submerge
 1 Tyrant's Scorn
 1 Narset, Parter of Veils
-1 Opposition Agent
+1 Extract
 1 Stubborn Denial
 1 Bitterblossom
 2 Stubborn Denial
@@ -69,18 +70,17 @@
 1 Mindbreak Trap
 1 Reclamation Sage
 1 Maelstrom Pulse
-1 Extract
 1 Scavenging Ooze
+1 Notion Thief
 1 Pernicious Deed
 1 Klothys, God of Destiny
-1 Notion Thief
 1 Back to Basics
 1 Contentious Plan
 1 Tarmogoyf
 2 Tarmogoyf
 2 Leovold, Emissary of Trest
-2 Mystical Dispute
 2 Blue Elemental Blast
+2 Mystical Dispute
 1 Massacre
 2 Hydroblast
 1 Ensnaring Bridge
@@ -101,18 +101,29 @@
 1 Goblin Cratermaker
 2 Hullbreacher
 2 Goblin Cratermaker
-1 Murderous Rider
+1 Thieving Skydiver
+2 Opposition Agent
 1 Feed the Swarm
+1 Murderous Rider
 1 Marsh Casualties
 2 Engineered Explosives
 1 Maze of Ith
 1 The Tabernacle at Pendrell Vale
 1 Snuff Out
 2 Force of Vigor
+1 Cleansing Wildfire
+2 Cleansing Wildfire
+3 Cleansing Wildfire
 1 True-Name Nemesis
 2 True-Name Nemesis
 3 True-Name Nemesis
 4 True-Name Nemesis
-1 Cleansing Wildfire
-2 Cleansing Wildfire
-3 Cleansing Wildfire
+1 Reanimate
+1 Yixlid Jailer
+1 Force of Will
+2 Reanimate
+2 Yixlid Jailer
+2 Force of Will
+3 Fatal Push
+3 Force of Will
+4 Force of Will

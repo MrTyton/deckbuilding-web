@@ -11,51 +11,51 @@
 1 Swamp
 3 Misty Rainforest
 1 Tropical Island
+3 Underground Sea
 1 Abrupt Decay
 1 Bayou
-3 Underground Sea
+4 Baleful Strix
 3 Hymn to Tourach
 2 Abrupt Decay
 1 Uro, Titan of Nature's Wrath
-4 Baleful Strix
 1 Volcanic Island
 1 Snapcaster Mage
-2 Uro, Titan of Nature's Wrath
 2 Snapcaster Mage
 2 Jace, the Mind Sculptor
 2 Bloodstained Mire
 1 Lightning Bolt
 2 Volcanic Island
 1 Badlands
-3 Snapcaster Mage
+2 Uro, Titan of Nature's Wrath
 2 Island
+3 Snapcaster Mage
 2 Lightning Bolt
 1 Kolaghan's Command
 2 Kolaghan's Command
+2 Brazen Borrower
 1 Sylvan Library
+1 Cling to Dust
+1 Drown in the Loch
 1 Stifle
 2 Stifle
-2 Brazen Borrower
-1 Drown in the Loch
+2 Swamp
+1 Liliana, the Last Hope
+3 Scalding Tarn
+1 Narset, Parter of Veils
 1 Assassin's Trophy
 2 Tropical Island
-1 Cling to Dust
-1 Narset, Parter of Veils
-1 Liliana, the Last Hope
-2 Swamp
-3 Scalding Tarn
+2 Badlands
 4 Misty Rainforest
 1 Leovold, Emissary of Trest
 3 Abrupt Decay
 1 Snow-Covered Forest
-1 Snow-Covered Swamp
-1 Ethereal Forager
-3 Verdant Catacombs
 1 Snow-Covered Island
-2 Badlands
+1 Snow-Covered Swamp
+3 Verdant Catacombs
+1 Ethereal Forager
+1 Liliana's Triumph
 1 Plague Engineer
 3 Uro, Titan of Nature's Wrath
-1 Liliana's Triumph
 1 Forest
 1 Tarmogoyf
 1 Reanimate
@@ -73,50 +73,52 @@
 3 Shardless Agent
 4 Shardless Agent
 4 Verdant Catacombs
+3 Bloodstained Mire
+3 Flooded Strand
 1 Valki, God of Lies
 2 Bayou
+2 Drown in the Loch
 3 Fatal Push
 4 Underground Sea
+2 Snow-Covered Island
 2 Leovold, Emissary of Trest
-3 Flooded Strand
 4 Hymn to Tourach
 2 Valki, God of Lies
 3 Valki, God of Lies
-2 Snow-Covered Island
 4 Tarmogoyf
 1 Liliana of the Veil
 2 Liliana of the Veil
-3 Bloodstained Mire
+1 Marsh Flats
+1 Inquisition of Kozilek
 1 Toxic Deluge
-2 Drown in the Loch
 1 Ancestral Vision
 2 Ancestral Vision
 1 Dismember
 1 Angrath's Rampage
-1 Marsh Flats
 1 Mountain
-1 Inquisition of Kozilek
+2 Inquisition of Kozilek
+1 Hullbreacher
 4 Scalding Tarn
 1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
+2 Marsh Flats
 2 Preordain
 1 Karakas
 2 Dismember
-2 Marsh Flats
 2 Reanimate
 4 Watery Grave
+1 Prismatic Vista
 1 Field of the Dead
 1 Life from the Loam
 2 Sylvan Library
-2 Inquisition of Kozilek
 4 Bloodstained Mire
-1 Hullbreacher
 2 Plague Engineer
 2 Narset, Parter of Veils
 4 Abrupt Decay
-1 Prismatic Vista
 2 Assassin's Trophy
 2 Snow-Covered Forest
+2 Hullbreacher
+3 Kolaghan's Command
 1 Intuition
 1 Breeding Pool
 3 Volcanic Island
@@ -133,15 +135,14 @@
 1 Green Sun's Zenith
 1 Noble Hierarch
 1 Scavenging Ooze
-2 Green Sun's Zenith
 2 Noble Hierarch
+2 Green Sun's Zenith
 3 Noble Hierarch
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
+3 Snow-Covered Island
 3 Ancestral Vision
-2 Hullbreacher
-3 Kolaghan's Command
 3 Inquisition of Kozilek
 4 Snapcaster Mage
 4 Inquisition of Kozilek
@@ -167,21 +168,28 @@
 3 Preordain
 4 Abundant Growth
 4 Preordain
+1 Shark Typhoon
+1 Creeping Tar Pit
 2 Breeding Pool
 1 Diabolic Edict
 2 Diabolic Edict
-3 Gurmag Angler
-1 Shark Typhoon
-1 Creeping Tar Pit
 1 Mystic Sanctuary
 4 Uro, Titan of Nature's Wrath
 1 Jolrael, Mwonvuli Recluse
 2 Jolrael, Mwonvuli Recluse
-3 Snow-Covered Island
+3 Gurmag Angler
 1 Spell Pierce
 3 Tropical Island
 3 Lightning Bolt
 4 Lightning Bolt
+2 Prismatic Vista
+3 Prismatic Vista
+1 Bitterblossom
+1 Thieves' Guild Enforcer
+2 Bitterblossom
+2 Thieves' Guild Enforcer
+3 Thieves' Guild Enforcer
+4 Thieves' Guild Enforcer
 1 Overgrown Tomb
 1 Tasigur, the Golden Fang
 1 Spell Snare
@@ -191,7 +199,6 @@
 2 Jace, Vryn's Prodigy
 1 Disrupt
 2 Disrupt
-2 Spell Pierce
 1 Gilded Goose
 1 Bloodchief's Thirst
 1 Carpet of Flowers
@@ -201,6 +208,7 @@
 1 Cavern of Souls
 2 Field of the Dead
 2 Primeval Titan
+2 Spell Pierce
 2 Intuition
 1 Progenitus
 1 Birds of Paradise
@@ -210,24 +218,62 @@
 2 Snow-Covered Swamp
 2 Liliana's Triumph
 3 Liliana of the Veil
+1 Dead of Winter
+1 Court of Cunning
+2 Court of Cunning
+3 Court of Cunning
+3 Island
 1 Scrubland
 1 Tundra
 1 Swords to Plowshares
 1 Teferi, Time Raveler
 2 Swords to Plowshares
 3 Swords to Plowshares
-1 Dead of Winter
-1 Court of Cunning
-2 Court of Cunning
-2 Prismatic Vista
-3 Court of Cunning
-3 Island
-3 Prismatic Vista
 3 Bayou
 4 Flooded Strand
-1 Steam Vents
 1 Sprite Dragon
+1 Steam Vents
 2 Sprite Dragon
 2 Steam Vents
 3 Sprite Dragon
 4 Sprite Dragon
+1 Cunning Nightbonder
+1 Spellstutter Sprite
+1 Nighthawk Scavenger
+1 Notion Thief
+1 Soaring Thought-Thief
+1 Quickling
+2 Cunning Nightbonder
+2 Nighthawk Scavenger
+2 Spellstutter Sprite
+2 Soaring Thought-Thief
+3 Bitterblossom
+3 Drown in the Loch
+3 Nighthawk Scavenger
+3 Spellstutter Sprite
+3 Soaring Thought-Thief
+4 Soaring Thought-Thief
+1 Brain Freeze
+1 Glimpse the Unthinkable
+1 Ruin Crab
+1 Hedron Crab
+1 Visions of Beyond
+1 Archive Trap
+1 Surgical Extraction
+2 Brain Freeze
+2 Ruin Crab
+2 Visions of Beyond
+2 Surgical Extraction
+2 Archive Trap
+2 Hedron Crab
+2 Glimpse the Unthinkable
+3 Hedron Crab
+3 Ruin Crab
+3 Glimpse the Unthinkable
+3 Visions of Beyond
+3 Archive Trap
+4 Prismatic Vista
+4 Hedron Crab
+4 Ruin Crab
+4 Visions of Beyond
+4 Archive Trap

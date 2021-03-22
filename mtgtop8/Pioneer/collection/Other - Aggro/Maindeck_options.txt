@@ -37,20 +37,20 @@
 3 Agadeem's Awakening
 4 Into the Story
 1 Plains
-1 Caves of Koilos
 1 Thraben Inspector
+1 Caves of Koilos
 1 Thalia's Lieutenant
 1 Giant Killer
 1 Luminarch Aspirant
+2 Thraben Inspector
 2 Thalia's Lieutenant
 2 Caves of Koilos
-2 Thraben Inspector
-3 Caves of Koilos
 3 Thraben Inspector
+3 Caves of Koilos
 3 Thalia's Lieutenant
+4 Thraben Inspector
 4 Caves of Koilos
 4 Thalia's Lieutenant
-4 Thraben Inspector
 1 Temple Garden
 2 Temple Garden
 1 Overgrown Tomb
@@ -116,9 +116,9 @@
 3 Elvish Mystic
 4 Llanowar Elves
 1 Starnheim Unleashed
-1 Voice of Resurgence
 1 Gideon, Ally of Zendikar
 1 Declaration in Stone
+1 Voice of Resurgence
 1 Esika's Chariot
 1 Call of the Conclave
 1 Wayfaring Temple
@@ -127,13 +127,13 @@
 1 Conclave Tribunal
 2 Starnheim Unleashed
 2 Voice of Resurgence
+2 Declaration in Stone
 2 Shefet Dunes
 2 Fortified Village
 2 Conclave Tribunal
 2 Battle for Bretagard
 2 Call of the Conclave
 2 Esika's Chariot
-2 Declaration in Stone
 2 Wayfaring Temple
 3 Esika's Chariot
 3 Starnheim Unleashed
@@ -151,10 +151,10 @@
 4 Call of the Conclave
 4 Conclave Tribunal
 5 Forest
-1 Unflinching Courage
 1 Bassara Tower Archer
-1 Gladecover Scout
+1 Unflinching Courage
 1 Season of Growth
+1 Gladecover Scout
 1 Adanto Vanguard
 1 Helm of the Gods
 1 Cartouche of Solidarity
@@ -162,8 +162,8 @@
 1 Ethereal Armor
 1 All That Glitters
 1 Sentinel's Eyes
-2 Adanto Vanguard
 2 Unflinching Courage
+2 Adanto Vanguard
 2 Sunpetal Grove
 2 Gladecover Scout
 2 Season of Growth
@@ -184,8 +184,8 @@
 3 Sentinel's Eyes
 3 Ethereal Armor
 3 Bassara Tower Archer
-4 Unflinching Courage
 4 Sunpetal Grove
+4 Unflinching Courage
 4 Gladecover Scout
 4 Adanto Vanguard
 4 Sentinel's Eyes
@@ -200,11 +200,11 @@
 2 Brightclimb Pathway
 3 Brightclimb Pathway
 4 Brightclimb Pathway
+1 Kytheon, Hero of Akros
 1 Knight of the White Orchid
 1 Rally the Ranks
 1 Kitesail Freebooter
 1 Concealed Courtyard
-1 Kytheon, Hero of Akros
 1 Bloodsoaked Champion
 1 Dauntless Bodyguard
 2 Knight of the White Orchid
@@ -289,11 +289,11 @@
 1 Sorin, Imperious Bloodlord
 1 Dusk Legion Zealot
 1 Murderous Rider
-1 Kalitas, Traitor of Ghet
 1 Bloodchief's Thirst
 1 Blood Baron of Vizkopa
 1 Knight of the Ebon Legion
 1 Isolated Chapel
+1 Kalitas, Traitor of Ghet
 2 Blood Baron of Vizkopa
 2 Sorin, Imperious Bloodlord
 2 Champion of Dusk
@@ -350,19 +350,19 @@
 2 Lovestruck Beast
 2 Vorinclex, Monstrous Raider
 3 Nissa, Who Shakes the World
-3 Breeding Pool
+3 Hinterland Harbor
 3 Steel Leaf Champion
+3 Breeding Pool
 3 Vivien, Arkbow Ranger
 3 Lovestruck Beast
-3 Hinterland Harbor
 3 Voracious Hydra
 3 Hydroid Krasis
 3 Questing Beast
+4 Hinterland Harbor
 4 Steel Leaf Champion
 4 Breeding Pool
 4 Lovestruck Beast
 4 Hydroid Krasis
-4 Hinterland Harbor
 6 Forest
 7 Forest
 9 Forest

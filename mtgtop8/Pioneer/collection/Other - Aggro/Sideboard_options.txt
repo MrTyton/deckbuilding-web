@@ -9,6 +9,19 @@
 2 Eliminate
 2 Liliana, the Last Hope
 2 Kalitas, Traitor of Ghet
+3 Duress
+1 Izzet Staticaster
+1 Sin Collector
+1 Barrin, Tolarian Archmage
+1 Xathrid Necromancer
+1 Drannith Magistrate
+1 Anafenza, the Foremost
+1 Lavinia, Azorius Renegade
+1 Deafening Silence
+1 Kambal, Consul of Allocation
+1 Masked Vandal
+2 Drannith Magistrate
+2 Deafening Silence
 1 Damping Sphere
 2 Damping Sphere
 1 Back to Nature
@@ -24,19 +37,6 @@
 2 Ashiok, Dream Render
 2 Carnage Tyrant
 2 Back to Nature
-3 Duress
-1 Izzet Staticaster
-1 Sin Collector
-1 Barrin, Tolarian Archmage
-1 Xathrid Necromancer
-1 Drannith Magistrate
-1 Anafenza, the Foremost
-1 Lavinia, Azorius Renegade
-1 Kambal, Consul of Allocation
-1 Deafening Silence
-1 Masked Vandal
-2 Drannith Magistrate
-2 Deafening Silence
 3 Aether Gust
 1 Witch's Vengeance
 1 Grafdigger's Cage
@@ -51,15 +51,15 @@
 2 Agonizing Remorse
 2 Necromentia
 3 Necromentia
-1 Tomik, Distinguished Advokist
-1 Noxious Grasp
-1 Isolate
 1 Selfless Spirit
+1 Tomik, Distinguished Advokist
+1 Isolate
 1 Dire Tactics
+1 Noxious Grasp
 2 Tomik, Distinguished Advokist
 2 Isolate
-2 Noxious Grasp
 2 Selfless Spirit
+2 Noxious Grasp
 3 Isolate
 1 Settle the Wreckage
 1 Leyline of Sanctity
@@ -86,8 +86,8 @@
 1 Shifting Ceratops
 1 Disdainful Stroke
 1 Scavenging Ooze
-2 Heroic Intervention
 2 Shifting Ceratops
+2 Heroic Intervention
 2 Disdainful Stroke
 2 Scavenging Ooze
 3 Shifting Ceratops
@@ -97,7 +97,7 @@
 1 Weathered Runestone
 1 Sundering Growth
 1 Rootborn Defenses
-2 Sundering Growth
 2 Gideon, Ally of Zendikar
+2 Sundering Growth
 3 Sundering Growth
 4 Sundering Growth

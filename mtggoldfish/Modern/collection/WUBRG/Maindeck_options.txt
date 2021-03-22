@@ -3,8 +3,8 @@
 1 Teferi, Time Raveler
 1 Temple Garden
 2 Teferi, Time Raveler
-1 Utopia Sprawl
 1 Overgrown Tomb
+1 Utopia Sprawl
 1 Misty Rainforest
 1 Wooded Foothills
 2 Misty Rainforest
@@ -55,8 +55,8 @@
 1 Snow-Covered Forest
 1 Renegade Rallier
 2 Renegade Rallier
-1 Snow-Covered Plains
 1 Snow-Covered Island
+1 Snow-Covered Plains
 1 Ketria Triome
 1 Hallowed Fountain
 1 Seal of Fire
@@ -80,8 +80,8 @@
 1 Kaya's Guile
 1 Lightning Helix
 2 Wrenn and Six
-2 Omnath, Locus of Creation
 2 Lightning Helix
+2 Omnath, Locus of Creation
 2 Bring to Light
 3 Bring to Light
 1 Godless Shrine
@@ -136,11 +136,11 @@
 1 Sea Gate Restoration
 1 Shatterskull Smashing
 1 Hagra Mauling
-1 Agadeem's Awakening
 1 Pentad Prism
 1 Sword of the Meek
 1 Emeria's Call
 1 Balustrade Spy
+1 Agadeem's Awakening
 1 Phantasmagorian
 1 Narcomoeba
 1 Vengevine
@@ -242,6 +242,8 @@
 1 Omen of the Dead
 1 Spike Feeder
 3 Abrupt Decay
+3 Omen of the Forge
+4 Omen of the Forge
 1 Rimewood Falls
 1 Golos, Tireless Pilgrim
 1 Huntmaster of the Fells
@@ -249,10 +251,8 @@
 1 Kaya, Orzhov Usurper
 1 Highland Forest
 2 Ice-Fang Coatl
-4 Oath of Nissa
 4 Felidar Guardian
-3 Omen of the Forge
-4 Omen of the Forge
+4 Oath of Nissa
 1 Scalding Tarn
 4 Growth Spiral
 1 Thassa's Oracle
@@ -266,9 +266,9 @@
 1 Thought Erasure
 1 Urza's Ruinous Blast
 2 Thought Erasure
-1 Path to Exile
 1 Lightning Bolt
 1 Flooded Strand
+1 Path to Exile
 2 Breeding Pool
 2 Lightning Bolt
 2 Path to Exile
@@ -276,16 +276,11 @@
 2 Flooded Strand
 3 Lightning Bolt
 3 Flooded Strand
-1 Talisman of Hierarchy
-1 Talisman of Curiosity
-2 Talisman of Hierarchy
-3 Talisman of Hierarchy
-4 Leyline of Sanctity
 1 Marsh Flats
+1 Watery Grave
 1 Fatal Push
 1 Vraska, Golgari Queen
 1 Blood Crypt
-1 Watery Grave
 2 Marsh Flats
 2 Fatal Push
 3 Marsh Flats
@@ -295,3 +290,8 @@
 4 Marsh Flats
 4 Verdant Catacombs
 4 Fatal Push
+1 Talisman of Hierarchy
+1 Talisman of Curiosity
+2 Talisman of Hierarchy
+4 Leyline of Sanctity
+3 Talisman of Hierarchy

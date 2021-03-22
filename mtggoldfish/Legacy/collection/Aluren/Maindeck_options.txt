@@ -2,8 +2,8 @@
 1 Snow-Covered Swamp
 1 Snow-Covered Forest
 1 Snow-Covered Island
-2 Snow-Covered Island
 2 Snow-Covered Forest
+2 Snow-Covered Island
 4 Ponder
 1 Prismatic Vista
 2 Prismatic Vista
@@ -35,13 +35,13 @@
 2 Tropical Island
 1 Green Sun's Zenith
 2 Green Sun's Zenith
-1 Dryad Arbor
 1 Abundant Growth
+1 Dryad Arbor
 2 Abundant Growth
-3 Green Sun's Zenith
 3 Abundant Growth
-4 Green Sun's Zenith
+3 Green Sun's Zenith
 4 Abundant Growth
+4 Green Sun's Zenith
 1 Arcum's Astrolabe
 1 Snow-Covered Plains
 1 Niambi, Esteemed Speaker
@@ -89,8 +89,8 @@
 2 In Search of Greatness
 2 Duress
 2 Birthing Pod
-1 Vendilion Clique
 1 Skyclave Apparition
+1 Vendilion Clique
 1 Windswept Heath
 2 Windswept Heath
 2 Force of Negation
@@ -108,7 +108,6 @@
 2 Dream Stalker
 3 Imperial Recruiter
 4 Imperial Recruiter
-4 Uro, Titan of Nature's Wrath
 1 Stifle
 2 Stifle
 3 Stifle
@@ -122,31 +121,32 @@
 1 Living Wish
 2 Marsh Flats
 2 Watcher for Tomorrow
-2 Preordain
 2 Living Wish
+2 Preordain
 2 Overgrown Tomb
 2 Botanical Sanctum
 2 Darkslick Shores
 2 Watery Grave
 3 Marsh Flats
-3 Fatal Push
 3 Darkslick Shores
 3 Watcher for Tomorrow
 3 Botanical Sanctum
+3 Fatal Push
 3 Living Wish
 4 Marsh Flats
 4 Fatal Push
 4 Darkslick Shores
 4 Botanical Sanctum
 4 Watcher for Tomorrow
-1 Sandwurm Convergence
-1 Overwhelming Splendor
 1 Thoughtseize
+1 Overwhelming Splendor
 1 Evolutionary Leap
 1 Phyrexian Tower
+1 Sandwurm Convergence
 2 Thoughtseize
 2 Academy Rector
 2 Evolutionary Leap
 3 Academy Rector
-4 Academy Rector
 4 Veteran Explorer
+4 Academy Rector
+4 Uro, Titan of Nature's Wrath

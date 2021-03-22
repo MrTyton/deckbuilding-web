@@ -35,8 +35,8 @@
 |                    4|[Tymaret Calls the Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476369) |                     |              |
 |                    4|[Runeforge Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503632)     |                     |              |
 |                    4|[Setessan Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476449)      |                     |              |
-|                    4|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)    |                     |              |
 |                    4|[Storm Herald](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476407)           |                     |              |
+|                    4|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)    |                     |              |
 |                    4|Blightstep Pathway                                                                                |                     |              |
 |                    4|[Transcendent Envoy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476291)     |                     |              |
 |                    4|[All That Glitters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472964)      |                     |              |

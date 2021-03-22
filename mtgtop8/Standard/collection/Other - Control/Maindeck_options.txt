@@ -16,14 +16,64 @@
 4 Runeforge Champion
 4 In Search of Greatness
 4 Gilded Goose
-1 The Birth of Meletis
 1 Temple of Silence
-1 Emeria's Call
 1 Burning-Rune Demon
+1 The Birth of Meletis
+1 Eliminate
+1 Eerie Ultimatum
+2 Eerie Ultimatum
+3 Swamp
+1 Agadeem's Awakening
+1 Emeria's Call
+1 Heartless Act
+2 Heartless Act
+1 Ugin, the Spirit Dragon
+1 Acquisitions Expert
+1 Treacherous Blessing
+2 Treacherous Blessing
+3 Treacherous Blessing
 1 Glass Casket
+2 Temple of Silence
+1 Llanowar Visionary
+2 Llanowar Visionary
+4 Swamp
+1 Garruk, Cursed Huntsman
+1 Polukranos, Unchained
+1 Bloodchief's Thirst
+2 Bloodchief's Thirst
 5 Plains
+1 Acolyte of Affliction
+2 Acquisitions Expert
+4 Treacherous Blessing
+1 Mythos of Nethroi
+2 Mythos of Nethroi
+3 Mythos of Nethroi
+4 Mythos of Nethroi
+1 Ondu Inversion
+1 Yasharn, Implacable Earth
+5 Swamp
+1 Golden Egg
+3 Heartless Act
+2 Eliminate
+3 Eliminate
+1 Valki, God of Lies
+2 Valki, God of Lies
+3 Valki, God of Lies
+1 Castle Locthwain
+3 Temple of Silence
+1 Doomskar
+2 Garruk, Cursed Huntsman
+3 Eerie Ultimatum
+1 Extinction Event
+2 Extinction Event
+3 Extinction Event
+4 Elspeth's Nightmare
 3 Omen of the Sun
 4 Omen of the Sun
+1 Ketria Triome
+1 Kaya the Inexorable
+1 Chevill, Bane of Monsters
+2 Castle Locthwain
 2 Glass Casket
 2 The Birth of Meletis
 2 Emeria's Call
@@ -46,6 +96,7 @@
 2 Elspeth, Sun's Nemesis
 2 Forbidden Friendship
 2 Needleverge Pathway
+2 Shatterskull Smashing
 2 Harmonious Archon
 3 The Birth of Meletis
 3 Mountain
@@ -59,69 +110,6 @@
 4 Fire Prophecy
 4 Needleverge Pathway
 4 Harmonious Archon
-1 Eliminate
-3 Swamp
-1 Eerie Ultimatum
-2 Eerie Ultimatum
-1 Agadeem's Awakening
-1 Heartless Act
-2 Heartless Act
-1 Ugin, the Spirit Dragon
-1 Acquisitions Expert
-2 Temple of Silence
-1 Treacherous Blessing
-2 Treacherous Blessing
-3 Treacherous Blessing
-4 Swamp
-1 Llanowar Visionary
-2 Llanowar Visionary
-1 Garruk, Cursed Huntsman
-1 Ondu Inversion
-1 Raugrin Triome
-2 Shatterskull Smashing
-1 Polukranos, Unchained
-1 Bloodchief's Thirst
-2 Bloodchief's Thirst
-1 Acolyte of Affliction
-2 Acquisitions Expert
-4 Treacherous Blessing
-1 Yasharn, Implacable Earth
-5 Swamp
-1 Mythos of Nethroi
-2 Mythos of Nethroi
-3 Mythos of Nethroi
-4 Mythos of Nethroi
-3 Heartless Act
-1 Golden Egg
-2 Eliminate
-3 Eliminate
-1 Valki, God of Lies
-2 Valki, God of Lies
-3 Valki, God of Lies
-3 Temple of Silence
-1 Extinction Event
-2 Extinction Event
-3 Extinction Event
-4 Elspeth's Nightmare
-1 Castle Locthwain
-1 Doomskar
-2 Garruk, Cursed Huntsman
-3 Eerie Ultimatum
-1 Temple of Triumph
-1 Soul Sear
-2 Soul Sear
-2 Temple of Triumph
-3 Soul Sear
-4 Soul Sear
-5 Mountain
-1 The Akroan War
-2 The Akroan War
-2 Raugrin Triome
-3 Raugrin Triome
-1 Ketria Triome
-1 Kaya the Inexorable
-1 Chevill, Bane of Monsters
-2 Castle Locthwain
 1 Solemn Simulacrum
 2 Solemn Simulacrum
 1 Tergrid, God of Fright
@@ -247,11 +235,13 @@
 6 Snow-Covered Forest
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
-1 Sejiri Shelter
-1 Castle Embereth
-2 Castle Embereth
+1 The Akroan War
+1 Raugrin Triome
+2 The Akroan War
+2 Raugrin Triome
 2 Ondu Inversion
 3 Shatterskull Smashing
+3 Raugrin Triome
 1 Easy Prey
 1 The World Tree
 1 Murderous Rider
@@ -267,6 +257,14 @@
 3 Chevill, Bane of Monsters
 3 Murderous Rider
 3 Agonizing Remorse
+1 Temple of Triumph
+1 Soul Sear
+1 Sejiri Shelter
+2 Soul Sear
+2 Temple of Triumph
+3 Soul Sear
+4 Soul Sear
+5 Mountain
 1 Temple of Abandon
 1 Zagoth Triome
 1 Dream Devourer
