@@ -1,4 +1,4 @@
-1 Dragon's Claw
+1 Flame Slash
 2 Dragon's Claw
 2 Flusterstorm
 1 Soul-Guide Lantern
@@ -17,6 +17,12 @@
 1 Ral, Izzet Viceroy
 2 Mystical Dispute
 4 Aether Gust
+3 Dragon's Claw
+2 Soul-Guide Lantern
+1 Shrine of Burning Rage
+2 Shrine of Burning Rage
+1 Kozilek's Return
+2 Kozilek's Return
 3 Cleansing Wildfire
 1 Platinum Emperion
 1 Madcap Experiment
@@ -24,11 +30,6 @@
 2 Platinum Emperion
 3 Madcap Experiment
 4 Madcap Experiment
-2 Soul-Guide Lantern
-1 Shrine of Burning Rage
-2 Shrine of Burning Rage
-1 Kozilek's Return
-2 Kozilek's Return
 3 Tormod's Crypt
 3 Kor Firewalker
 2 Flame Slash
@@ -36,12 +37,12 @@
 2 Aria of Flame
 3 Relic of Progenitus
 3 Soul-Guide Lantern
-3 Dragon's Claw
 1 Ashiok, Dream Render
+3 Blood Moon
 1 Veil of Summer
 2 Veil of Summer
-1 Collector Ouphe
 1 Damping Sphere
+1 Collector Ouphe
 1 Weather the Storm
 2 Damping Sphere
 2 Weather the Storm
@@ -58,10 +59,10 @@
 1 Entrancing Melody
 2 Ashiok, Dream Render
 1 Surgical Extraction
+1 Boil
 1 Burst Lightning
 1 Crumble to Dust
-1 Boil
-3 Blood Moon
+1 Dismember
 2 Ceremonious Rejection
 2 Engineered Explosives
 1 Force of Negation
@@ -69,7 +70,6 @@
 1 Glimpse of Freedom
 1 Negate
 1 Magus of the Moon
-1 Dismember
 1 Shark Typhoon
 2 Shark Typhoon
 1 Yidaro, Wandering Monster
@@ -81,8 +81,8 @@
 1 Bonecrusher Giant
 1 Bedlam Reveler
 1 Alpine Moon
-1 Shattering Spree
 1 Smash to Smithereens
+1 Shattering Spree
 2 Bonecrusher Giant
 2 Alpine Moon
 1 Mutagenic Growth
@@ -93,6 +93,12 @@
 1 Spell Pierce
 2 Spell Pierce
 2 Force of Negation
+1 Saheeli, Sublime Artificer
+1 Shenanigans
+2 Saheeli, Sublime Artificer
+2 Shenanigans
+2 Dismember
+3 Saheeli, Sublime Artificer
 1 Elder Gargaroth
 2 Elder Gargaroth
 3 Engineered Explosives

@@ -126,10 +126,10 @@
 2 Seasoned Pyromancer
 2 Bloodbraid Elf
 2 Blackcleave Cliffs
-3 Blackcleave Cliffs
 3 Magus of the Moon
 3 Demonic Dread
 3 Verdant Catacombs
+3 Blackcleave Cliffs
 3 Bloodbraid Elf
 3 Seasoned Pyromancer
 4 Seasoned Pyromancer
@@ -169,8 +169,8 @@
 2 Mystical Dispute
 3 Sphere of the Suns
 1 Lovestruck Beast
-2 Swamp
 2 Lovestruck Beast
+2 Swamp
 3 Lovestruck Beast
 3 Dismember
 3 Omnath, Locus of Creation
@@ -196,13 +196,13 @@
 1 Tolaria West
 2 Tolaria West
 3 Tolaria West
-1 Khalni Garden
-1 Cavern of Souls
 1 Field of the Dead
+1 Cavern of Souls
 1 Hanweir Battlements
 1 Radiant Fountain
 1 Sheltered Thicket
 1 Ghost Quarter
+1 Grove of the Burnwillows
 1 Valakut, the Molten Pinnacle
 1 Vesuva
 1 Bojuka Bog
@@ -210,6 +210,7 @@
 1 Sunhome, Fortress of the Legion
 1 Crumbling Vestige
 1 Slayers' Stronghold
+1 Khalni Garden
 1 Boros Garrison
 1 Windswept Heath
 1 Gruul Guildgate
@@ -217,13 +218,12 @@
 1 Jund Panorama
 1 Simic Growth Chamber
 1 Castle Garenbrig
-1 Grove of the Burnwillows
 1 Gruul Turf
-2 Grove of the Burnwillows
 2 Gruul Turf
 2 Castle Garenbrig
 2 Field of the Dead
 2 Valakut, the Molten Pinnacle
+2 Grove of the Burnwillows
 2 Snow-Covered Forest
 2 Simic Growth Chamber
 3 Grove of the Burnwillows
@@ -238,9 +238,9 @@
 2 Arid Mesa
 1 Fire Prophecy
 1 Dwarven Mine
-1 Repeal
 1 Izzet Charm
 1 Spell Snare
+1 Repeal
 1 Transmogrify
 1 Remand
 1 Polymorph
@@ -259,8 +259,8 @@
 2 Transmogrify
 2 Lightning Bolt
 2 Polymorph
-3 Arid Mesa
 3 Remand
+3 Arid Mesa
 3 Transmogrify
 3 Lightning Bolt
 3 Polymorph
@@ -335,58 +335,6 @@
 2 Warrant / Warden
 3 Supreme Verdict
 4 Brazen Borrower
-1 Temple of Triumph
-1 Nykthos, Shrine to Nyx
-1 Oust
-1 Solemnity
-1 Marsh Flats
-1 Deafening Clarion
-1 Silence
-1 Wheel of Sun and Moon
-1 Dovescape
-1 Overwhelming Splendor
-1 Treasure Map
-1 Form of the Dragon
-1 Nine Lives
-1 Plains
-1 Mistveil Plains
-1 Enduring Ideal
-1 Skyclave Apparition
-1 Lotus Bloom
-1 Phyrexian Unlife
-2 Temple of Triumph
-2 Nykthos, Shrine to Nyx
-2 Sacred Foundry
-2 Silence
-2 Oust
-2 Enduring Ideal
-2 Plains
-2 Marsh Flats
-2 Solemnity
-2 Phyrexian Unlife
-2 Form of the Dragon
-2 Nine Lives
-2 Treasure Map
-2 Lotus Bloom
-2 Skyclave Apparition
-3 Skyclave Apparition
-3 Sacred Foundry
-3 Solemnity
-3 Oust
-3 Enduring Ideal
-3 Silence
-3 Plains
-3 Lotus Bloom
-3 Marsh Flats
-3 Nine Lives
-4 Plains
-4 Sacred Foundry
-4 Silence
-4 Enduring Ideal
-4 Marsh Flats
-5 Plains
-6 Plains
-7 Plains
 1 Pillar of the Paruns
 1 Tendo Ice Bridge
 1 Omniscience
@@ -424,3 +372,55 @@
 4 Ulamog, the Infinite Gyre
 4 Aether Hub
 4 Brilliant Ultimatum
+1 Temple of Triumph
+1 Nykthos, Shrine to Nyx
+1 Oust
+1 Solemnity
+1 Marsh Flats
+1 Deafening Clarion
+1 Silence
+1 Wheel of Sun and Moon
+1 Dovescape
+1 Overwhelming Splendor
+1 Treasure Map
+1 Form of the Dragon
+1 Nine Lives
+1 Plains
+1 Mistveil Plains
+1 Enduring Ideal
+1 Skyclave Apparition
+1 Lotus Bloom
+1 Phyrexian Unlife
+2 Temple of Triumph
+2 Nykthos, Shrine to Nyx
+2 Sacred Foundry
+2 Silence
+2 Oust
+2 Enduring Ideal
+2 Plains
+2 Marsh Flats
+2 Solemnity
+2 Phyrexian Unlife
+2 Form of the Dragon
+2 Nine Lives
+2 Treasure Map
+2 Lotus Bloom
+2 Skyclave Apparition
+3 Skyclave Apparition
+3 Sacred Foundry
+3 Silence
+3 Solemnity
+3 Oust
+3 Enduring Ideal
+3 Plains
+3 Lotus Bloom
+3 Marsh Flats
+3 Nine Lives
+4 Plains
+4 Sacred Foundry
+4 Silence
+4 Enduring Ideal
+4 Marsh Flats
+5 Plains
+6 Plains
+7 Plains
