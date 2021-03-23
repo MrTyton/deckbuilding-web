@@ -1,52 +1,51 @@
 4 Force of Will
-1 Snow-Covered Swamp
-1 Snow-Covered Forest
-1 Snow-Covered Island
-2 Snow-Covered Island
-2 Snow-Covered Forest
-4 Ponder
 1 Prismatic Vista
 2 Prismatic Vista
+1 Snow-Covered Swamp
+1 Snow-Covered Forest
 1 Ice-Fang Coatl
+1 Snow-Covered Island
 2 Ice-Fang Coatl
+2 Snow-Covered Forest
+2 Snow-Covered Island
+4 Ponder
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
-2 Cavern Harpy
 1 Leovold, Emissary of Trest
 3 Uro, Titan of Nature's Wrath
+2 Cavern Harpy
 3 Snow-Covered Island
-3 Polluted Delta
 1 Ukkima, Stalking Shadow
 1 Oko, Thief of Crowns
-4 Abrupt Decay
+3 Polluted Delta
 3 Snow-Covered Forest
-1 Shardless Agent
+4 Abrupt Decay
 3 Prismatic Vista
+1 Teferi, Time Raveler
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
-1 Teferi, Time Raveler
-2 Shardless Agent
+1 Shardless Agent
 1 Karakas
 3 Cavern Harpy
+2 Shardless Agent
 1 Swords to Plowshares
 2 Swords to Plowshares
-2 Tropical Island
 1 Green Sun's Zenith
 2 Green Sun's Zenith
-1 Dryad Arbor
 1 Abundant Growth
+1 Dryad Arbor
 2 Abundant Growth
-3 Green Sun's Zenith
 3 Abundant Growth
-4 Green Sun's Zenith
+3 Green Sun's Zenith
 4 Abundant Growth
+4 Green Sun's Zenith
 1 Arcum's Astrolabe
 1 Snow-Covered Plains
 1 Niambi, Esteemed Speaker
 2 Oko, Thief of Crowns
-4 Polluted Delta
+2 Tropical Island
 1 Gilded Goose
 2 Gilded Goose
 3 Shardless Agent
@@ -58,10 +57,10 @@
 1 Valki, God of Lies
 2 Valki, God of Lies
 3 Valki, God of Lies
+4 Polluted Delta
 1 Volcanic Island
 1 Taiga
 1 Sylvan Library
-2 Underground Sea
 3 Oko, Thief of Crowns
 1 Cauldron Familiar
 3 Veteran Explorer
@@ -74,11 +73,8 @@
 1 Spellseeker
 1 Sea Gate Stormcaller
 4 Prismatic Vista
+2 Underground Sea
 1 Preordain
-1 Coiling Oracle
-2 Coiling Oracle
-3 Coiling Oracle
-4 Coiling Oracle
 1 In Search of Greatness
 1 Assassin's Trophy
 1 Duress
@@ -89,8 +85,8 @@
 2 In Search of Greatness
 2 Duress
 2 Birthing Pod
-1 Vendilion Clique
 1 Skyclave Apparition
+1 Vendilion Clique
 1 Windswept Heath
 2 Windswept Heath
 2 Force of Negation
@@ -108,12 +104,12 @@
 2 Dream Stalker
 3 Imperial Recruiter
 4 Imperial Recruiter
-4 Uro, Titan of Nature's Wrath
 1 Stifle
 2 Stifle
 3 Stifle
 4 Stifle
 1 Marsh Flats
+1 Coiling Oracle
 1 Overgrown Tomb
 1 Botanical Sanctum
 1 Watcher for Tomorrow
@@ -121,22 +117,25 @@
 1 Darkslick Shores
 1 Living Wish
 2 Marsh Flats
-2 Overgrown Tomb
+2 Coiling Oracle
 2 Watcher for Tomorrow
-2 Preordain
+2 Overgrown Tomb
 2 Living Wish
+2 Preordain
 2 Botanical Sanctum
 2 Darkslick Shores
 2 Watery Grave
 3 Marsh Flats
-3 Darkslick Shores
+3 Coiling Oracle
 3 Watcher for Tomorrow
 3 Botanical Sanctum
 3 Fatal Push
 3 Living Wish
+3 Darkslick Shores
 4 Marsh Flats
 4 Fatal Push
 4 Darkslick Shores
+4 Coiling Oracle
 4 Botanical Sanctum
 4 Watcher for Tomorrow
 1 Sandwurm Convergence
@@ -150,3 +149,4 @@
 3 Academy Rector
 4 Academy Rector
 4 Veteran Explorer
+4 Uro, Titan of Nature's Wrath

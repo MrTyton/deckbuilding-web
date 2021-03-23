@@ -9,13 +9,13 @@
 3 Stomping Ground
 1 Forest
 1 Swamp
+1 Polluted Delta
 1 Satyr Wayfinder
 1 Watery Grave
 1 Breeding Pool
 1 Unearth
 1 Misty Rainforest
 1 Vengevine
-1 Darkslick Shores
 1 Overgrown Tomb
 1 Merfolk Secretkeeper
 1 Drown in Filth
@@ -23,17 +23,17 @@
 1 Gravecrawler
 1 Hedron Crab
 1 Stitcher's Supplier
+1 Darkslick Shores
 1 Verdant Catacombs
 1 Driven / Despair
-1 Polluted Delta
 2 Overgrown Tomb
 2 Polluted Delta
 2 Satyr Wayfinder
 2 Vengevine
 2 Unearth
-2 Darkslick Shores
 2 Driven / Despair
 2 Merfolk Secretkeeper
+2 Darkslick Shores
 2 Rotting Rats
 2 Stitcher's Supplier
 2 Gravecrawler
@@ -44,9 +44,9 @@
 3 Satyr Wayfinder
 3 Polluted Delta
 3 Unearth
-3 Darkslick Shores
 3 Hedron Crab
 3 Merfolk Secretkeeper
+3 Darkslick Shores
 3 Misty Rainforest
 3 Rotting Rats
 3 Stitcher's Supplier
@@ -66,15 +66,15 @@
 3 Golgari Thug
 1 Darkblast
 3 Scalding Tarn
-1 Silversmote Ghoul
-2 Silversmote Ghoul
-3 Silversmote Ghoul
-4 Silversmote Ghoul
 1 Skaab Ruinator
 1 Glasspool Mimic
 2 Skaab Ruinator
 2 Glasspool Mimic
 4 Unearth
+1 Silversmote Ghoul
+2 Silversmote Ghoul
+3 Silversmote Ghoul
+4 Silversmote Ghoul
 1 Island
 3 Drown in Filth
 4 Rotting Rats

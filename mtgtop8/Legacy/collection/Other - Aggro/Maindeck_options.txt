@@ -17,7 +17,6 @@
 4 Seachrome Coast
 1 Snow-Covered Island
 1 Scalding Tarn
-1 Staggering Insight
 1 Ethereal Armor
 1 Brainstorm
 1 Snow-Covered Plains
@@ -29,14 +28,15 @@
 1 Curiosity
 1 Invisible Stalker
 1 Force of Negation
+1 Staggering Insight
 2 Brazen Borrower
 2 Chrome Mox
 2 Snow-Covered Island
 2 Preordain
 2 Scalding Tarn
-2 Staggering Insight
 2 Polluted Delta
 2 Curious Obsession
+2 Staggering Insight
 2 Invisible Stalker
 2 Brainstorm
 2 Kor Spiritdancer
@@ -46,25 +46,25 @@
 2 Force of Negation
 3 Daze
 3 Snow-Covered Island
-3 Staggering Insight
 3 Preordain
 3 Invisible Stalker
 3 Kor Spiritdancer
 3 Tundra
+3 Staggering Insight
 3 Ethereal Armor
 3 Brainstorm
 3 Curious Obsession
-4 Staggering Insight
 4 Preordain
 4 Daze
 4 Invisible Stalker
+4 Staggering Insight
 4 Curious Obsession
 4 Kor Spiritdancer
 4 Ethereal Armor
 4 Brainstorm
 1 Snow-Covered Mountain
-1 Solemn Simulacrum
 1 Seasoned Pyromancer
+1 Solemn Simulacrum
 1 Phyrexian Revoker
 1 Spellskite
 1 Magus of the Moon
@@ -115,6 +115,6 @@
 4 Goblin Welder
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
-7 Snow-Covered Mountain
-9 Snow-Covered Mountain
 8 Snow-Covered Mountain
+9 Snow-Covered Mountain
+7 Snow-Covered Mountain

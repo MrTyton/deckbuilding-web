@@ -184,7 +184,6 @@
 1 Dance of the Manse
 1 Starfield of Nyx
 1 Thoughtseize
-2 Elspeth's Nightmare
 2 Oath of Kaya
 2 Trial of Ambition
 2 Lithoform Blight
@@ -192,6 +191,7 @@
 2 Disinformation Campaign
 2 Skyclave Apparition
 2 Yorion, Sky Nomad
+2 Elspeth's Nightmare
 2 Doom Foretold
 2 Thoughtseize
 2 Drowned Catacomb
@@ -217,14 +217,14 @@
 1 Stubborn Denial
 2 Stubborn Denial
 3 Stubborn Denial
-1 Anticognition
 1 Sphinx of the Final Word
 1 Pearl Lake Ancient
+1 Anticognition
 1 Fumigate
 1 Brazen Borrower
 2 Brazen Borrower
-2 Anticognition
 2 Seal Away
+2 Anticognition
 3 Anticognition
 1 Speaker of the Heavens
 2 Speaker of the Heavens
@@ -233,17 +233,17 @@
 1 Temple of Deceit
 1 Eliminate
 1 Ashiok, Nightmare Muse
+1 Prairie Stream
 1 Spell Queller
 1 Declaration in Stone
-1 Prairie Stream
 2 Temple of Deceit
 2 Eliminate
 2 Ashiok, Nightmare Muse
 2 Spell Queller
 2 Declaration in Stone
 2 Prairie Stream
-3 Ashiok, Nightmare Muse
 3 Neutralize
+3 Ashiok, Nightmare Muse
 4 Neutralize
 1 Jwari Disruption
 2 Jwari Disruption
@@ -255,10 +255,6 @@
 1 Tale's End
 3 Void Shatter
 4 Void Shatter
-2 Cast Out
-7 Island
-8 Island
-9 Island
 1 Essence Scatter
 1 Saw It Coming
 1 Alrund's Epiphany
@@ -269,3 +265,7 @@
 2 Behold the Multiverse
 3 Midnight Clock
 4 Teferi, Hero of Dominaria
+2 Cast Out
+7 Island
+8 Island
+9 Island

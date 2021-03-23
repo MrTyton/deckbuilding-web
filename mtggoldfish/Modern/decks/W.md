@@ -53,8 +53,8 @@
 |                    1|[Godless Shrine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405099)       |                     |                                                                                                |
 |                    1|[Maul of the Skyclaves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491651)|                     |                                                                                                |
 |                    1|[Mistveil Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=142014)      |                     |                                                                                                |
-|                    2|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)           |                     |                                                                                                |
 |                   10|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)  |                     |                                                                                                |
 |                   11|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)  |                     |                                                                                                |
 |                   12|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)  |                     |                                                                                                |
+|                    2|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)           |                     |                                                                                                |
 

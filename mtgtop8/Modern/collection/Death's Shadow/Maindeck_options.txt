@@ -1,21 +1,21 @@
-2 Overgrown Tomb
 1 Stomping Ground
-2 Wooded Foothills
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
-1 Marsh Flats
+1 Polluted Delta
 3 Inquisition of Kozilek
+2 Overgrown Tomb
+1 Marsh Flats
 1 Night's Whisper
-2 Polluted Delta
 1 Silent Clearing
 2 Marsh Flats
 3 Marsh Flats
 2 Night's Whisper
+2 Nurturing Peatland
 2 Silent Clearing
 4 Marsh Flats
-2 Nurturing Peatland
+2 Polluted Delta
 1 Hexdrinker
 1 Grim Lavamancer
 2 Hexdrinker
@@ -26,8 +26,8 @@
 3 Polluted Delta
 1 Stubborn Denial
 2 Stubborn Denial
-3 Scalding Tarn
 3 Stubborn Denial
+3 Scalding Tarn
 4 Stubborn Denial
 1 Snow-Covered Mountain
 1 Unearth
@@ -73,9 +73,23 @@
 1 Surgical Extraction
 2 Surgical Extraction
 3 Swamp
-1 Opt
-3 Snapcaster Mage
-4 Gurmag Angler
+1 Plains
+1 Ranger-Captain of Eos
+1 Hex Parasite
+1 Batterskull
+1 Sword of Feast and Famine
+1 Godless Shrine
+1 Sacred Foundry
+1 Stoneforge Mystic
+2 Godless Shrine
+2 Ranger-Captain of Eos
+2 Stoneforge Mystic
+3 Ranger-Captain of Eos
+3 Silent Clearing
+3 Stoneforge Mystic
+4 Silent Clearing
+4 Stoneforge Mystic
+4 Ranger-Captain of Eos
 1 Serum Visions
 1 Sprite Dragon
 2 Serum Visions
@@ -89,20 +103,6 @@
 3 Dreadhorde Arcanist
 4 Serum Visions
 4 Dreadhorde Arcanist
-1 Plains
-1 Batterskull
-1 Hex Parasite
-1 Sword of Feast and Famine
-1 Godless Shrine
-1 Sacred Foundry
-1 Stoneforge Mystic
-1 Ranger-Captain of Eos
-2 Godless Shrine
-2 Ranger-Captain of Eos
-2 Stoneforge Mystic
-3 Silent Clearing
-3 Stoneforge Mystic
-3 Ranger-Captain of Eos
-4 Silent Clearing
-4 Stoneforge Mystic
-4 Ranger-Captain of Eos
+1 Opt
+4 Gurmag Angler
+3 Snapcaster Mage
