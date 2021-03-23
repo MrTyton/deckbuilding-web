@@ -51,7 +51,7 @@
 |                    4|[Pelakka Predation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491757)     |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)        |
 |                    4|[Silversmote Ghoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485445)     |                    2|[Undercity Informer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366271)    |
 |                    4|[Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366464)        |                    2|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)       |
-|                    1|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)         |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)        |
-|                    1|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)       |                    3|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)       |
+|                    1|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)         |                    3|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)       |
+|                    1|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)       |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)        |
 |                    2|[Emeria's Call](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491633)         |                    4|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)        |
 

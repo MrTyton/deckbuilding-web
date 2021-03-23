@@ -25,13 +25,6 @@
 2 Labyrinth of Skophos
 2 Erebos's Intervention
 4 Elspeth's Nightmare
-1 Clackbridge Troll
-1 Massacre Wurm
-1 Agonizing Remorse
-2 Massacre Wurm
-2 Agonizing Remorse
-3 Agonizing Remorse
-4 Agonizing Remorse
 1 Acquisitions Expert
 1 Shadows' Verdict
 1 Elderfang Disciple
@@ -45,8 +38,16 @@
 4 Heartless Act
 4 Elderfang Disciple
 4 Acquisitions Expert
+1 Clackbridge Troll
+1 Massacre Wurm
+1 Agonizing Remorse
+2 Massacre Wurm
+2 Agonizing Remorse
+3 Agonizing Remorse
+4 Agonizing Remorse
 1 Grim Tutor
 1 Thieves' Guild Enforcer
+1 Blood Beckoning
 1 Hooded Blightfang
 1 Witch's Cottage
 1 Nighthawk Scavenger
@@ -60,7 +61,6 @@
 1 Drag to the Underworld
 1 Peer into the Abyss
 1 Underworld Dreams
-1 Blood Beckoning
 1 Call of the Death-Dweller
 2 Thieves' Guild Enforcer
 2 Nighthawk Scavenger
@@ -100,8 +100,8 @@
 3 Faceless Haven
 3 Blood on the Snow
 3 Draugr Necromancer
-4 Fabled Passage
 4 Blood on the Snow
+4 Fabled Passage
 4 Valki, God of Lies
 4 Faceless Haven
 4 Draugr Necromancer
@@ -116,18 +116,18 @@
 1 Eat to Extinction
 1 Pharika's Libation
 1 Lithoform Engine
+2 Stonecoil Serpent
 2 Rankle, Master of Pranks
-2 Bonders' Enclave
 2 Forsaken Monument
+2 Bonders' Enclave
 2 Skull Raid
 2 Cosmos Elixir
 2 Eat to Extinction
-2 Stonecoil Serpent
 2 Agadeem's Awakening
 2 Pharika's Libation
 3 Stonecoil Serpent
-3 Forsaken Monument
 3 Pharika's Libation
+3 Forsaken Monument
 3 Bonders' Enclave
 4 Bonders' Enclave
 4 Pharika's Libation

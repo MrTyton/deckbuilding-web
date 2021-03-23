@@ -52,20 +52,20 @@
 5 Plains
 6 Plains
 1 Seasoned Hallowblade
-1 Shepherd of the Flock
 1 Giant Killer
 1 Showdown of the Skalds
 1 Usher of the Fallen
 1 Mountain
 1 Bonecrusher Giant
 1 Needleverge Pathway
+1 Shepherd of the Flock
 2 Seasoned Hallowblade
-2 Shepherd of the Flock
 2 Giant Killer
 2 Showdown of the Skalds
 2 Usher of the Fallen
 2 Bonecrusher Giant
 2 Mountain
+2 Shepherd of the Flock
 2 Needleverge Pathway
 3 Giant Killer
 3 Seasoned Hallowblade
@@ -92,8 +92,8 @@
 2 Shatterskull Smashing
 2 Embercleave
 2 Robber of the Rich
-3 Robber of the Rich
 3 Shepherd of the Flock
+3 Robber of the Rich
 4 Robber of the Rich
 4 Shepherd of the Flock
 6 Mountain
@@ -102,26 +102,15 @@
 4 Giant Killer
 1 Erebos's Intervention
 3 Shark Typhoon
-1 Tergrid, God of Fright
-1 Doomskar
-1 Fae of Wishes
-2 Tergrid, God of Fright
-2 Doomskar
-2 Fae of Wishes
-3 Doomskar
-3 The Birth of Meletis
-3 Fae of Wishes
-4 Doomskar
-4 The Birth of Meletis
 1 Hagra Mauling
 1 Eerie Ultimatum
 1 Lithoform Blight
 1 Temple of Malady
 1 Temple of Plenty
+2 Temple of Plenty
 2 Forest
 2 Lithoform Blight
 2 Temple of Malady
-2 Temple of Plenty
 2 Branchloft Pathway
 3 Branchloft Pathway
 3 Lithoform Blight
@@ -148,6 +137,17 @@
 2 Zagoth Triome
 3 Zagoth Triome
 4 Zagoth Triome
+1 Tergrid, God of Fright
+1 Fae of Wishes
+1 Doomskar
+2 Tergrid, God of Fright
+2 Fae of Wishes
+2 Doomskar
+3 Fae of Wishes
+3 The Birth of Meletis
+3 Doomskar
+4 The Birth of Meletis
+4 Doomskar
 1 Archon of Emeria
 1 Soul Shatter
 2 Archon of Emeria
@@ -161,8 +161,8 @@
 2 Goldspan Dragon
 3 Shatterskull Smashing
 3 Goldspan Dragon
-4 Shatterskull Smashing
 4 Goldspan Dragon
+4 Shatterskull Smashing
 9 Plains
 10 Plains
 1 Maul of the Skyclaves

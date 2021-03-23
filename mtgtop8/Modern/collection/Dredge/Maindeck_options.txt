@@ -11,10 +11,9 @@
 1 Swamp
 1 Polluted Delta
 1 Satyr Wayfinder
-1 Watery Grave
-1 Breeding Pool
-1 Unearth
 1 Misty Rainforest
+1 Unearth
+1 Watery Grave
 1 Vengevine
 1 Overgrown Tomb
 1 Merfolk Secretkeeper
@@ -24,12 +23,13 @@
 1 Hedron Crab
 1 Stitcher's Supplier
 1 Darkslick Shores
+1 Breeding Pool
 1 Verdant Catacombs
 1 Driven / Despair
 2 Overgrown Tomb
-2 Polluted Delta
 2 Satyr Wayfinder
 2 Vengevine
+2 Polluted Delta
 2 Unearth
 2 Driven / Despair
 2 Merfolk Secretkeeper
@@ -52,8 +52,8 @@
 3 Stitcher's Supplier
 3 Gravecrawler
 4 Vengevine
-4 Polluted Delta
 4 Satyr Wayfinder
+4 Polluted Delta
 4 Darkslick Shores
 4 Misty Rainforest
 4 Hedron Crab

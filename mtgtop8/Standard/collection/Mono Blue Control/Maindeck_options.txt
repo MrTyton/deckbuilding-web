@@ -1,20 +1,22 @@
 3 Essence Scatter
 1 Cosmos Charger
 1 Negate
+1 Disdainful Stroke
+1 Opt
+2 Opt
+3 Opt
 1 Labyrinth of Skophos
 1 Sea Gate Restoration
+1 Tyrite Sanctum
 1 Sublime Epiphany
 1 Forsaken Monument
 1 Radiant Fountain
-1 Tyrite Sanctum
 1 Midnight Clock
-1 Opt
 1 Discontinuity
 1 Cosmos Elixir
 1 Kiora Bests the Sea God
 1 Palladium Myr
 1 Shimmer Dragon
-1 Crawling Barrens
 1 Ugin, the Spirit Dragon
 1 The Magic Mirror
 1 Skyclave Relic
@@ -24,30 +26,28 @@
 1 Unknown Shores
 1 Solemn Simulacrum
 1 Omen of the Sea
+1 Crawling Barrens
 2 Forsaken Monument
 2 Tyrite Sanctum
 2 Midnight Clock
-2 Discontinuity
 2 Radiant Fountain
-2 Kiora Bests the Sea God
 2 Sublime Epiphany
-2 Opt
 2 Omen of the Sea
 2 Solemn Simulacrum
+2 Kiora Bests the Sea God
+2 Crawling Barrens
 2 Ugin, the Spirit Dragon
 2 Shimmer Dragon
 2 Skyclave Relic
+2 Discontinuity
 2 Mazemind Tome
 2 Palladium Myr
-2 Crawling Barrens
 2 Unknown Shores
 2 Labyrinth of Skophos
 2 Throne of Makindi
-3 Sublime Epiphany
 3 Forsaken Monument
 3 Midnight Clock
 3 Radiant Fountain
-3 Opt
 3 Labyrinth of Skophos
 3 Throne of Makindi
 3 Omen of the Sea
@@ -61,9 +61,10 @@
 3 Ugin, the Spirit Dragon
 3 Discontinuity
 3 Mazemind Tome
-4 Midnight Clock
-4 Opt
+3 Sublime Epiphany
 4 Essence Scatter
+4 Opt
+4 Midnight Clock
 4 Crawling Barrens
 4 Skyclave Relic
 4 Solemn Simulacrum
@@ -74,13 +75,21 @@
 2 Rewind
 1 Unsubstantiate
 1 Mystic Subdual
-2 Mystic Subdual
 2 Unsubstantiate
+2 Mystic Subdual
 1 Gadwick, the Wizened
 2 Cosmos Charger
 2 Gadwick, the Wizened
 3 Cosmos Charger
-1 Disdainful Stroke
+1 Cosima, God of the Voyage
+1 Icebreaker Kraken
+1 Neutralize
+2 Cosima, God of the Voyage
+2 Icebreaker Kraken
+2 Disdainful Stroke
+3 Icebreaker Kraken
+3 Cosima, God of the Voyage
+4 Cosima, God of the Voyage
 1 Mystical Dispute
 2 Negate
 3 Graven Lore

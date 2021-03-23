@@ -1,12 +1,10 @@
+5 Mountain
+6 Mountain
+2 Immersturm Predator
+1 Tymaret Calls the Dead
 2 Tymaret Calls the Dead
 3 Mire Triton
 4 Mire Triton
-3 Castle Locthwain
-1 Skyclave Shade
-1 Inscription of Ruin
-4 Mountain
-5 Mountain
-6 Mountain
 1 Magmatic Channeler
 2 Magmatic Channeler
 3 Bloodchief's Thirst
@@ -21,8 +19,8 @@
 1 Embereth Shieldbreaker
 1 Mire's Grasp
 1 Hagra Mauling
-2 Hagra Mauling
 2 Inscription of Ruin
+2 Hagra Mauling
 3 Inscription of Ruin
 4 Kroxa, Titan of Death's Hunger
 3 Rankle, Master of Pranks
@@ -30,36 +28,38 @@
 1 Clearwater Pathway
 2 Riverglide Pathway
 2 Clearwater Pathway
-3 Riverglide Pathway
 3 Clearwater Pathway
-4 Riverglide Pathway
+3 Riverglide Pathway
 4 Clearwater Pathway
+4 Riverglide Pathway
 2 Mire's Grasp
+3 Castle Locthwain
 3 Tymaret Calls the Dead
-2 Skyclave Shade
-2 Goldspan Dragon
-3 Shatterskull Smashing
-3 Skyclave Shade
-3 Temple of Malice
-4 Temple of Malice
-4 Shatterskull Smashing
-4 The Akroan War
+1 Skyclave Shade
 1 Egon, God of Death
 2 Egon, God of Death
-4 Inscription of Ruin
+2 Skyclave Shade
 1 Immersturm Skullcairn
 1 Tergrid, God of Fright
+1 Stormfist Crusader
 1 Nullpriest of Oblivion
 1 Agadeem's Awakening
 1 Soul Shatter
-1 Stormfist Crusader
-2 Tergrid, God of Fright
-2 Soul Shatter
 2 Stormfist Crusader
+2 Soul Shatter
+2 Tergrid, God of Fright
 3 Stormfist Crusader
 4 Stormfist Crusader
+2 Goldspan Dragon
+3 Shatterskull Smashing
+3 Skyclave Shade
+4 Inscription of Ruin
 3 Valki, God of Lies
+3 Temple of Malice
 3 Heartless Act
+4 Temple of Malice
+4 Shatterskull Smashing
+4 The Akroan War
 2 Kazuul's Fury
 3 Kazuul's Fury
 1 Needleverge Pathway
@@ -71,8 +71,8 @@
 2 Needleverge Pathway
 2 Unleash Fury
 2 Sejiri Shelter
-2 Brightclimb Pathway
 2 Savai Triome
+2 Brightclimb Pathway
 2 Showdown of the Skalds
 3 Sejiri Shelter
 3 Needleverge Pathway
@@ -111,16 +111,14 @@
 1 Reidane, God of the Worthy
 1 Seasoned Hallowblade
 1 Ox of Agonas
-1 Eliminate
-2 Eliminate
 4 Tymaret Calls the Dead
 4 Heartless Act
-1 Bastion of Remembrance
 1 Goblin Arsonist
-2 Bastion of Remembrance
+1 Bastion of Remembrance
 2 Goblin Arsonist
-3 Bastion of Remembrance
+2 Bastion of Remembrance
 3 Goblin Arsonist
+3 Bastion of Remembrance
 3 Serrated Scorpion
 4 Bastion of Remembrance
 4 Goblin Arsonist
@@ -138,28 +136,28 @@
 1 Shimmerdrift Vale
 1 Feed the Swarm
 1 Feed the Serpent
-1 Reaper of Night
 1 Elspeth's Nightmare
 1 Liliana, Waker of the Dead
+1 Reaper of Night
 2 Narfi, Betrayer King
 2 Immersturm Skullcairn
-2 Kardur's Vicious Return
-2 Feed the Serpent
-2 Reaper of Night
-2 Skull Raid
 2 Shimmerdrift Vale
+2 Kardur's Vicious Return
+2 Skull Raid
+2 Feed the Serpent
 2 Frost Bite
 2 Feed the Swarm
+2 Reaper of Night
 2 Elspeth's Nightmare
-3 Kardur's Vicious Return
 3 Shimmerdrift Vale
 3 Skull Raid
 3 Frost Bite
 3 Elspeth's Nightmare
-4 Skull Raid
-4 Shimmerdrift Vale
-4 Kardur's Vicious Return
+3 Kardur's Vicious Return
 4 Sulfurous Mire
+4 Shimmerdrift Vale
+4 Skull Raid
+4 Kardur's Vicious Return
 6 Snow-Covered Mountain
 7 Swamp
 8 Swamp

@@ -4,12 +4,13 @@
 
 # Standard
 
-|                                A                                 |                                    B                                     |                                    C                                     |                                 D                                  |                           E                            |
-|------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------|
-|[4c Cycling](./mtggoldfish/Standard/decks/4c_Cycling.md)          |[Boros Aggro](./mtggoldfish/Standard/decks/Boros_Aggro.md)                |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)            |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[Temur Ramp](./mtggoldfish/Standard/decks/Temur_Ramp.md)|
-|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)              |[Jeskai Cycling](./mtggoldfish/Standard/decks/Jeskai_Cycling.md)          |[Naya Adventures](./mtggoldfish/Standard/decks/Naya_Adventures.md)  |[UB](./mtggoldfish/Standard/decks/UB.md)                |
-|[BG](./mtggoldfish/Standard/decks/BG.md)                          |[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Green Midrange](./mtggoldfish/Standard/decks/Mono-Green_Midrange.md)|[Rakdos Midrange](./mtggoldfish/Standard/decks/Rakdos_Midrange.md)  |[UR](./mtggoldfish/Standard/decks/UR.md)                |
-|[BR](./mtggoldfish/Standard/decks/BR.md)                          |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)          |[Sultai Control](./mtggoldfish/Standard/decks/Sultai_Control.md)    |                                                        |
+|                                A                                 |                                    B                                     |                                    C                                     |                                D                                 |                      E                       |
+|------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------|
+|[4c Cycling](./mtggoldfish/Standard/decks/4c_Cycling.md)          |[Boros Aggro](./mtggoldfish/Standard/decks/Boros_Aggro.md)                |[Jeskai Cycling](./mtggoldfish/Standard/decks/Jeskai_Cycling.md)          |[Naya Adventures](./mtggoldfish/Standard/decks/Naya_Adventures.md)|[WUBRG](./mtggoldfish/Standard/decks/WUBRG.md)|
+|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)              |[Mono-Green Food](./mtggoldfish/Standard/decks/Mono-Green_Food.md)        |[Rakdos Midrange](./mtggoldfish/Standard/decks/Rakdos_Midrange.md)|[WUG](./mtggoldfish/Standard/decks/WUG.md)    |
+|[BG](./mtggoldfish/Standard/decks/BG.md)                          |[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Green Midrange](./mtggoldfish/Standard/decks/Mono-Green_Midrange.md)|[Sultai Control](./mtggoldfish/Standard/decks/Sultai_Control.md)  |                                              |
+|[BR](./mtggoldfish/Standard/decks/BR.md)                          |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)          |[Temur Ramp](./mtggoldfish/Standard/decks/Temur_Ramp.md)          |                                              |
+|[B](./mtggoldfish/Standard/decks/B.md)                            |[Izzet Control](./mtggoldfish/Standard/decks/Izzet_Control.md)            |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)      |[UB](./mtggoldfish/Standard/decks/UB.md)                          |                                              |
 
 
 # Pioneer
@@ -18,9 +19,9 @@
 |-------------------------------------------------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------|-------------------------------------------|
 |[5c Control](./mtggoldfish/Pioneer/decks/5c_Control.md)      |[Four-Color Omnath](./mtggoldfish/Pioneer/decks/Four-Color_Omnath.md)    |[Naya Winota](./mtggoldfish/Pioneer/decks/Naya_Winota.md)            |[UBG](./mtggoldfish/Pioneer/decks/UBG.md)          |[WB](./mtggoldfish/Pioneer/decks/WB.md)    |
 |[BR](./mtggoldfish/Pioneer/decks/BR.md)                      |[Jund](./mtggoldfish/Pioneer/decks/Jund.md)                              |[Niv to Light](./mtggoldfish/Pioneer/decks/Niv_to_Light.md)          |[UBRG](./mtggoldfish/Pioneer/decks/UBRG.md)        |[WG](./mtggoldfish/Pioneer/decks/WG.md)    |
-|[Boros Aggro](./mtggoldfish/Pioneer/decks/Boros_Aggro.md)    |[Lotus Combo](./mtggoldfish/Pioneer/decks/Lotus_Combo.md)                |[Orzhov Auras](./mtggoldfish/Pioneer/decks/Orzhov_Auras.md)          |[UB](./mtggoldfish/Pioneer/decks/UB.md)            |[WURG](./mtggoldfish/Pioneer/decks/WURG.md)|
-|[Burn](./mtggoldfish/Pioneer/decks/Burn.md)                  |[Mono-Black Aggro](./mtggoldfish/Pioneer/decks/Mono-Black_Aggro.md)      |[RG](./mtggoldfish/Pioneer/decks/RG.md)                              |[UR](./mtggoldfish/Pioneer/decks/UR.md)            |[WU](./mtggoldfish/Pioneer/decks/WU.md)    |
-|[Dimir Control](./mtggoldfish/Pioneer/decks/Dimir_Control.md)|[Mono-Green Midrange](./mtggoldfish/Pioneer/decks/Mono-Green_Midrange.md)|[Rakdos Pyromancer](./mtggoldfish/Pioneer/decks/Rakdos_Pyromancer.md)|[Vampires](./mtggoldfish/Pioneer/decks/Vampires.md)|                                           |
+|[Boros Aggro](./mtggoldfish/Pioneer/decks/Boros_Aggro.md)    |[Lotus Combo](./mtggoldfish/Pioneer/decks/Lotus_Combo.md)                |[Orzhov Auras](./mtggoldfish/Pioneer/decks/Orzhov_Auras.md)          |[UB](./mtggoldfish/Pioneer/decks/UB.md)            |[WR](./mtggoldfish/Pioneer/decks/WR.md)    |
+|[Burn](./mtggoldfish/Pioneer/decks/Burn.md)                  |[Mono-Black Aggro](./mtggoldfish/Pioneer/decks/Mono-Black_Aggro.md)      |[RG](./mtggoldfish/Pioneer/decks/RG.md)                              |[UR](./mtggoldfish/Pioneer/decks/UR.md)            |[WURG](./mtggoldfish/Pioneer/decks/WURG.md)|
+|[Dimir Control](./mtggoldfish/Pioneer/decks/Dimir_Control.md)|[Mono-Green Midrange](./mtggoldfish/Pioneer/decks/Mono-Green_Midrange.md)|[Rakdos Pyromancer](./mtggoldfish/Pioneer/decks/Rakdos_Pyromancer.md)|[Vampires](./mtggoldfish/Pioneer/decks/Vampires.md)|[WU](./mtggoldfish/Pioneer/decks/WU.md)    |
 |[Esper Control](./mtggoldfish/Pioneer/decks/Esper_Control.md)|[Mono-Red Aggro](./mtggoldfish/Pioneer/decks/Mono-Red_Aggro.md)          |[Spirits](./mtggoldfish/Pioneer/decks/Spirits.md)                    |[WBR](./mtggoldfish/Pioneer/decks/WBR.md)          |                                           |
 
 
@@ -59,4 +60,4 @@
 
 
 
-#### Last Updated at 12:49AM on March 23, 2021
+#### Last Updated at 12:53PM on March 23, 2021
