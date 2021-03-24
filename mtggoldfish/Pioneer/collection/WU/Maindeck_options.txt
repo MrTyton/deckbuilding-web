@@ -1,7 +1,7 @@
-3 Teferi, Hero of Dominaria
-1 Elspeth Conquers Death
 1 Geier Reach Sanitarium
 1 Commit/Memory
+3 Teferi, Hero of Dominaria
+1 Elspeth Conquers Death
 4 Shark Typhoon
 1 Syncopate
 1 Search for Azcanta
@@ -9,7 +9,6 @@
 1 Jace, Architect of Thought
 2 Syncopate
 1 Sea Gate Restoration
-4 Supreme Verdict
 3 Plains
 3 Dig Through Time
 1 Temple of Enlightenment
@@ -17,6 +16,7 @@
 2 Temple of Enlightenment
 2 Last Breath
 4 Teferi, Time Raveler
+4 Supreme Verdict
 1 Elixir of Immortality
 4 Censor
 4 Irrigated Farmland
@@ -50,13 +50,13 @@
 4 Growth Spiral
 4 Temple Garden
 1 Emeria's Call
-1 Sinister Sabotage
 1 Hengegate Pathway
 2 Hengegate Pathway
 3 Hengegate Pathway
 4 Hengegate Pathway
 1 Ornithopter
 1 Curious Obsession
+1 Spire of Industry
 1 Selfless Savior
 1 Gingerbrute
 1 Alseid of Life's Bounty
@@ -65,23 +65,22 @@
 1 Ensoul Artifact
 1 Darksteel Citadel
 1 Springleaf Drum
-1 Spire of Industry
+2 Darksteel Citadel
 2 Ornithopter
 2 Curious Obsession
 2 Selfless Savior
+2 Spire of Industry
 2 Gingerbrute
 2 Alseid of Life's Bounty
-2 Darksteel Citadel
 2 Ethereal Armor
 2 All That Glitters
-2 Spire of Industry
 2 Springleaf Drum
 2 Ensoul Artifact
 3 Ornithopter
 3 Curious Obsession
+3 Spire of Industry
 3 Gingerbrute
 3 Ensoul Artifact
-3 Spire of Industry
 3 Alseid of Life's Bounty
 3 Ethereal Armor
 3 All That Glitters
@@ -91,19 +90,18 @@
 4 Alseid of Life's Bounty
 4 All That Glitters
 4 Gingerbrute
-4 Spire of Industry
 4 Springleaf Drum
 4 Ensoul Artifact
 4 Ethereal Armor
-1 Skyclave Cleric
-2 Skyclave Cleric
+4 Spire of Industry
 4 Omen of the Sea
+1 Sinister Sabotage
 1 Raugrin Triome
 2 Sphinx's Revelation
 4 Plains
-1 Cast Out
-2 Castle Vantress
 3 Selfless Savior
+1 Skyclave Cleric
+2 Skyclave Cleric
 1 Void Shatter
 1 Neutralize
 1 Godless Shrine
@@ -131,14 +129,14 @@
 3 Staggering Insight
 4 Staggering Insight
 1 Soul-Guide Lantern
-6 Island
-3 Castle Ardenvale
 1 Whirlwind Denial
+1 Cast Out
+3 Castle Ardenvale
 1 Horribly Awry
 2 Void Shatter
 3 Dovin's Veto
-1 Seal Away
 2 Search for Azcanta
+2 Castle Vantress
 3 Skyclave Cleric
 2 Detention Sphere
 1 Saw It Coming
@@ -163,11 +161,11 @@
 1 Trial of Ambition
 1 Tergrid, God of Fright
 1 Lithoform Blight
-1 Disinformation Campaign
-1 Skyclave Apparition
 1 Elspeth's Nightmare
+1 Skyclave Apparition
 1 Doom Foretold
 1 Yorion, Sky Nomad
+1 Disinformation Campaign
 1 Dance of the Manse
 1 Confounding Conundrum
 1 Starfield of Nyx
@@ -176,12 +174,12 @@
 2 Trial of Ambition
 2 Confounding Conundrum
 2 Lithoform Blight
-2 Disinformation Campaign
 2 Skyclave Apparition
-2 Yorion, Sky Nomad
 2 Elspeth's Nightmare
+2 Yorion, Sky Nomad
 2 Doom Foretold
 2 Thoughtseize
+2 Disinformation Campaign
 2 Drowned Catacomb
 2 Starfield of Nyx
 3 Godless Shrine
@@ -199,7 +197,6 @@
 2 Ondu Inversion
 1 Hallowed Moonlight
 2 Hallowed Moonlight
-2 Soul-Guide Lantern
 1 Stubborn Denial
 2 Stubborn Denial
 3 Stubborn Denial
@@ -221,8 +218,9 @@
 1 Sphinx of the Final Word
 1 Anticognition
 1 Pearl Lake Ancient
-1 Brazen Borrower
+1 Seal Away
 1 Fumigate
+1 Brazen Borrower
 2 Brazen Borrower
 2 Seal Away
 2 Anticognition
@@ -258,15 +256,12 @@
 1 Tale's End
 3 Void Shatter
 4 Void Shatter
-1 Midnight Clock
+2 Soul-Guide Lantern
+6 Island
 1 Essence Scatter
+1 Midnight Clock
 1 Alrund's Epiphany
 2 Alrund's Epiphany
 2 Midnight Clock
 3 Midnight Clock
 4 Teferi, Hero of Dominaria
-2 Cast Out
-2 Sinister Sabotage
-7 Island
-8 Island
-9 Island

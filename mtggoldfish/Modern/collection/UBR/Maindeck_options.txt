@@ -4,16 +4,16 @@
 2 Desert Cerodon
 3 Desert Cerodon
 4 Desert Cerodon
-1 Flooded Strand
-2 Flooded Strand
-1 Hallowed Fountain
-3 Flooded Strand
-4 Flooded Strand
 4 Street Wraith
+1 Hallowed Fountain
 1 Ardent Plea
 2 Ardent Plea
 3 Ardent Plea
 4 Ardent Plea
+1 Flooded Strand
+2 Flooded Strand
+3 Flooded Strand
+4 Flooded Strand
 1 Seachrome Coast
 1 Violent Outburst
 2 Violent Outburst
@@ -22,8 +22,8 @@
 1 Snow-Covered Plains
 1 Snow-Covered Forest
 1 Glassdust Hulk
-1 Breeding Pool
 1 Snow-Covered Island
+1 Breeding Pool
 1 Botanical Sanctum
 2 Glassdust Hulk
 3 Glassdust Hulk
@@ -31,16 +31,17 @@
 4 Misty Rainforest
 4 Glassdust Hulk
 2 Cryptic Command
+3 Waker of Waves
+1 Polluted Delta
+2 Polluted Delta
+3 Polluted Delta
+4 Polluted Delta
 1 Swamp
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
 3 Cryptic Command
 1 Watery Grave
-1 Polluted Delta
-2 Polluted Delta
-3 Polluted Delta
-4 Polluted Delta
 1 Archmage's Charm
 1 Jace, Vryn's Prodigy
 1 Fatal Push
@@ -48,179 +49,195 @@
 2 Watery Grave
 2 Fatal Push
 2 Jace, Vryn's Prodigy
-2 Archmage's Charm
 2 Inquisition of Kozilek
+2 Archmage's Charm
 1 Blood Crypt
 2 Swamp
-1 Logic Knot
 1 Valki, God of Lies
-1 Creeping Tar Pit
-1 Cascade Bluffs
+1 Logic Knot
 1 Dreadbore
-1 Serum Visions
+1 Creeping Tar Pit
 1 Drown in the Loch
-1 Lightning Bolt
+1 Serum Visions
 1 Kolaghan's Command
+1 Cascade Bluffs
+1 Lightning Bolt
 1 Snapcaster Mage
 2 Valki, God of Lies
-2 Creeping Tar Pit
-2 Serum Visions
 2 Kolaghan's Command
 2 Dreadbore
 2 Drown in the Loch
 2 Snapcaster Mage
 2 Logic Knot
+2 Creeping Tar Pit
+2 Serum Visions
 2 Lightning Bolt
-3 Serum Visions
-3 Kolaghan's Command
 3 Archmage's Charm
+3 Kolaghan's Command
 3 Lightning Bolt
 3 Snapcaster Mage
+3 Serum Visions
 4 Cryptic Command
 4 Snapcaster Mage
+2 Brazen Borrower
+1 Imposing Vantasaur
 3 Fatal Push
 3 Inquisition of Kozilek
-1 Imposing Vantasaur
-2 Brazen Borrower
-3 Waker of Waves
-1 Clearwater Pathway
 1 Sunken Ruins
-3 Spirebluff Canal
+1 Clearwater Pathway
+4 Island
+4 Waker of Waves
 1 Plains
+1 Vendilion Clique
+3 Spirebluff Canal
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+3 Teferi, Time Raveler
+5 Island
+6 Island
+2 Seachrome Coast
 4 Mishra's Bauble
+2 Hallowed Fountain
 1 Stoneforge Mystic
 1 Batterskull
+1 Mox Amber
+1 Emry, Lurker of the Loch
 1 Minamo, School at Water's Edge
 1 Engineered Explosives
 1 Lurrus of the Dream-Den
 1 Urza, Lord High Artificer
-1 Pithing Needle
 1 Thopter Foundry
-1 Emry, Lurker of the Loch
-1 Mox Amber
-1 Metallic Rebuke
 1 Sword of the Meek
+1 Metallic Rebuke
+1 Pithing Needle
 1 Chromatic Star
-2 Mox Amber
-2 Seachrome Coast
 2 Stoneforge Mystic
-2 Engineered Explosives
+2 Mox Amber
+2 Emry, Lurker of the Loch
 2 Urza, Lord High Artificer
 2 Thopter Foundry
-2 Emry, Lurker of the Loch
+2 Engineered Explosives
 2 Metallic Rebuke
-3 Mox Amber
 3 Stoneforge Mystic
-3 Urza, Lord High Artificer
-3 Engineered Explosives
-3 Thopter Foundry
+3 Mox Amber
 3 Emry, Lurker of the Loch
+3 Engineered Explosives
+3 Urza, Lord High Artificer
+3 Thopter Foundry
 3 Metallic Rebuke
 4 Stoneforge Mystic
-4 Engineered Explosives
-4 Urza, Lord High Artificer
 4 Emry, Lurker of the Loch
+4 Urza, Lord High Artificer
+4 Engineered Explosives
 4 Thopter Foundry
-4 Island
-4 Serum Visions
+3 Seachrome Coast
+4 Seachrome Coast
+1 Faerie Macabre
+2 Faerie Macabre
 4 Lightning Bolt
-1 Vendilion Clique
+4 Serum Visions
 1 Sacred Foundry
-1 Tezzeret, Agent of Bolas
 1 Nihil Spellbomb
 1 Darkslick Shores
+1 Tezzeret, Agent of Bolas
 2 Chromatic Star
-3 Seachrome Coast
 4 Mox Amber
-4 Seachrome Coast
 1 Hengegate Pathway
 1 Eiganjo Castle
-1 Aether Spellbomb
 1 Glimmervoid
 1 Path to Exile
+1 Aether Spellbomb
 2 Hengegate Pathway
-2 Hallowed Fountain
 2 Plains
 2 Lurrus of the Dream-Den
 2 Path to Exile
 3 Hengegate Pathway
 4 Hengegate Pathway
+1 Prismatic Vista
+2 Prismatic Vista
+3 Brazen Borrower
+3 Prismatic Vista
+3 Hallowed Fountain
+4 Prismatic Vista
+1 Behold the Multiverse
+1 Unearth
+1 Cling to Dust
+1 Mana Leak
+1 Thoughtseize
+1 Pack Rat
+1 River of Tears
+1 Deprive
+2 Cling to Dust
+2 Mystic Sanctuary
+2 Behold the Multiverse
+2 Deprive
+2 Mana Leak
+2 Thoughtseize
+2 River of Tears
+3 Watery Grave
+3 Behold the Multiverse
+3 Thoughtseize
+3 Jace, Vryn's Prodigy
+3 River of Tears
+4 Fatal Push
+4 Thoughtseize
+4 Jace, Vryn's Prodigy
 1 Wooded Foothills
-1 Simian Spirit Guide
-1 Faerie Macabre
+1 Blackcleave Cliffs
+1 Bloodstained Mire
 1 Fulminator Mage
 1 Beast Within
 1 Overgrown Tomb
 1 Horror of the Broken Lands
 1 Monstrous Carabid
 1 Architects of Will
-1 Bloodstained Mire
+1 Simian Spirit Guide
 1 Blooming Marsh
-1 Blackcleave Cliffs
-1 Copperline Gorge
-1 Demonic Dread
-1 Deadshot Minotaur
 1 Forest
+1 Demonic Dread
+1 Copperline Gorge
+1 Deadshot Minotaur
 2 Blood Crypt
 2 Wooded Foothills
-2 Simian Spirit Guide
+2 Blackcleave Cliffs
 2 Fulminator Mage
 2 Beast Within
-2 Faerie Macabre
 2 Copperline Gorge
 2 Bloodstained Mire
 2 Blooming Marsh
 2 Deadshot Minotaur
-2 Demonic Dread
 2 Monstrous Carabid
 2 Architects of Will
-2 Blackcleave Cliffs
 2 Horror of the Broken Lands
+2 Demonic Dread
+2 Simian Spirit Guide
 3 Bloodstained Mire
-3 Simian Spirit Guide
 3 Wooded Foothills
 3 Fulminator Mage
 3 Demonic Dread
+3 Simian Spirit Guide
 3 Monstrous Carabid
 3 Horror of the Broken Lands
-4 Simian Spirit Guide
 4 Fulminator Mage
 4 Monstrous Carabid
 4 Horror of the Broken Lands
-1 Finale of Promise
-4 Spirebluff Canal
-1 Unearth
-1 Behold the Multiverse
-1 Deprive
-1 Mana Leak
-1 Thoughtseize
-1 Pack Rat
-1 Cling to Dust
-1 River of Tears
-2 Cling to Dust
-2 Mystic Sanctuary
-2 Deprive
-2 Behold the Multiverse
-2 Mana Leak
-2 Thoughtseize
-2 River of Tears
-3 Watery Grave
-3 Behold the Multiverse
-3 Jace, Vryn's Prodigy
-3 Thoughtseize
-3 River of Tears
-4 Fatal Push
-4 Jace, Vryn's Prodigy
-4 Thoughtseize
-1 Teferi, Time Raveler
+4 Simian Spirit Guide
+1 Generous Gift
+1 Failure/Comply
+1 Adarkar Wastes
+2 Imposing Vantasaur
+2 Adarkar Wastes
+2 Generous Gift
+2 Failure/Comply
+3 Imposing Vantasaur
+3 Adarkar Wastes
+4 Imposing Vantasaur
+4 Adarkar Wastes
 1 Glacial Fortress
 2 Glacial Fortress
-2 Teferi, Time Raveler
 3 Glacial Fortress
-3 Teferi, Time Raveler
 4 Glacial Fortress
-5 Island
-6 Island
 7 Island
 8 Island
-4 Waker of Waves
+1 Finale of Promise
+4 Spirebluff Canal

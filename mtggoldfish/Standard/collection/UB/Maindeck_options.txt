@@ -127,8 +127,8 @@
 1 Neutralize
 3 Hengegate Pathway
 4 Skyclave Apparition
-4 Hengegate Pathway
 4 Temple of Enlightenment
+4 Hengegate Pathway
 1 Castle Ardenvale
 1 Glass Casket
 2 Glass Casket
@@ -146,8 +146,8 @@
 3 Glass Casket
 4 Jwari Disruption
 4 Raugrin Triome
-4 Glass Casket
 4 Doomskar
+4 Glass Casket
 1 Temple of Malady
 1 Massacre Wurm
 1 Esika's Chariot
@@ -217,14 +217,14 @@
 2 Castle Locthwain
 2 Elder Gargaroth
 2 Vorinclex, Monstrous Raider
-1 Mountain
 1 Solemn Simulacrum
 1 Valki, God of Lies
 1 Ketria Triome
+1 Mountain
 2 Valki, God of Lies
 2 Solemn Simulacrum
-3 Bloodchief's Thirst
 3 Solemn Simulacrum
+3 Bloodchief's Thirst
 3 Shadows' Verdict
 1 Emeria's Call
 1 Ondu Inversion
@@ -233,7 +233,6 @@
 1 Sigrid, God-Favored
 2 Sigrid, God-Favored
 3 Sigrid, God-Favored
-3 Massacre Wurm
 1 Opt
 1 Icebreaker Kraken
 2 Opt
@@ -241,18 +240,19 @@
 3 Opt
 3 Icebreaker Kraken
 3 Into the Roil
+3 Massacre Wurm
 4 Mazemind Tome
 1 Sculptor of Winter
-1 Blizzard Brawl
 1 Woodland Chasm
+1 Blizzard Brawl
 1 Ice Tunnel
 1 Spirit of the Aldergard
 1 Avalanche Caller
 1 Jorn, God of Winter
 1 Rimewood Falls
 2 Sculptor of Winter
-2 Blizzard Brawl
 2 Woodland Chasm
+2 Blizzard Brawl
 2 Ice Tunnel
 2 Avalanche Caller
 2 Spirit of the Aldergard
@@ -299,8 +299,8 @@
 2 Beanstalk Giant
 3 Gadwick, the Wizened
 3 Negate
-3 Beanstalk Giant
 3 Forest
+3 Beanstalk Giant
 4 Forest
 4 Gadwick, the Wizened
 5 Forest
@@ -310,8 +310,8 @@
 2 Temple of Silence
 2 Jace, Mirror Mage
 3 Temple of Silence
-3 Lochmere Serpent
 3 Ashiok, Nightmare Muse
+3 Lochmere Serpent
 4 Starnheim Unleashed
 6 Plains
 1 Skyclave Shade
@@ -328,11 +328,11 @@
 1 Omen of the Sea
 1 Archon of Sun's Grace
 2 Tranquil Cove
-2 Archon of Sun's Grace
 2 Banishing Light
+2 Archon of Sun's Grace
 2 Omen of the Sea
-3 Shatter the Sky
 3 Banishing Light
+3 Shatter the Sky
 3 Omen of the Sea
 3 Tranquil Cove
 4 Banishing Light

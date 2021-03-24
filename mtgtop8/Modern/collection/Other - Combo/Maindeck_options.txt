@@ -51,17 +51,17 @@
 1 Bala Ged Recovery
 1 Spikefield Hazard
 1 Valakut Awakening
-1 Irencrag Feat
 1 Reforge the Soul
 1 Manamorphose
 1 Recross the Paths
 1 Desperate Ritual
 1 Pyretic Ritual
-2 Spikefield Hazard
-2 Irencrag Feat
+1 Irencrag Feat
 2 Valakut Awakening
+2 Spikefield Hazard
 2 Pyretic Ritual
 2 Bala Ged Recovery
+2 Irencrag Feat
 2 Manamorphose
 2 Recross the Paths
 2 Desperate Ritual
@@ -277,10 +277,10 @@
 2 Grove of the Burnwillows
 2 Snow-Covered Forest
 2 Simic Growth Chamber
+3 Gruul Turf
 3 Grove of the Burnwillows
 3 Castle Garenbrig
 3 Simic Growth Chamber
-3 Gruul Turf
 4 Grove of the Burnwillows
 4 Gruul Turf
 1 Nature's Claim
@@ -291,40 +291,40 @@
 4 Leyline of Sanctity
 1 Fire Prophecy
 1 Dwarven Mine
+1 Polymorph
+1 Transmogrify
 1 Izzet Charm
 1 Spell Snare
 1 Repeal
-1 Transmogrify
 1 Arid Mesa
 1 Remand
-1 Polymorph
 1 Mana Leak
 1 Bloodstained Mire
 1 Sacred Foundry
 1 Anger of the Gods
 1 Cloudform
+2 Cloudform
+2 Polymorph
+2 Dwarven Mine
+2 Transmogrify
 2 Arid Mesa
 2 Raugrin Triome
 2 Izzet Charm
 2 Spell Snare
 2 Remand
-2 Dwarven Mine
 2 Anger of the Gods
 2 Steam Vents
-2 Cloudform
-2 Transmogrify
 2 Lightning Bolt
-2 Polymorph
+3 Transmogrify
+3 Dwarven Mine
+3 Polymorph
 3 Remand
 3 Arid Mesa
-3 Transmogrify
 3 Lightning Bolt
-3 Polymorph
-3 Dwarven Mine
 3 Steam Vents
-4 Arid Mesa
-4 Polymorph
 4 Dwarven Mine
+4 Polymorph
+4 Arid Mesa
 4 Remand
 1 Commandeer
 1 Warrant / Warden
@@ -339,8 +339,8 @@
 1 Tendo Ice Bridge
 1 Omniscience
 1 Kozilek, Butcher of Truth
-1 Emrakul, the Promised End
 1 Ulamog, the Infinite Gyre
+1 Emrakul, the Promised End
 1 Aether Hub
 1 Brilliant Ultimatum
 1 Gemstone Mine
@@ -404,12 +404,12 @@
 3 Karn, the Great Creator
 3 Noble Hierarch
 3 Stomping Ground
+4 Chandra, Torch of Defiance
 4 Oath of Nissa
 4 Utopia Sprawl
 4 Windswept Heath
 4 Lukka, Coppercoat Outcast
 4 Birds of Paradise
-4 Chandra, Torch of Defiance
 4 Noble Hierarch
 4 Arbor Elf
 4 Forest
