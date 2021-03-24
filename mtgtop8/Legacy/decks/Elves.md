@@ -62,6 +62,6 @@
 |                    1|[Taiga](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=883)                     |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)          |
 |                    1|[Fyndhorn Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2568)           |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)          |
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)       |                    3|[Choke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45431)                   |
-|                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)       |                    4|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)           |
-|                    3|[Crop Rotation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417430)          |                    3|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)      |
+|                    3|[Crop Rotation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417430)          |                    4|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)           |
+|                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)       |                    3|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)      |
 

@@ -1,5 +1,5 @@
-1 Mountain
 4 Esika, God of the Tree
+1 Mountain
 4 Temple of Epiphany
 3 Dream Trawler
 1 Nyxbloom Ancient
@@ -7,16 +7,16 @@
 4 Kiora Bests the Sea God
 2 Blightstep Pathway
 1 Chromatic Orrery
-1 Forest
 2 Valki, God of Lies
-1 Turntimber Symbiosis
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
+1 Forest
+1 Raugrin Triome
+1 Turntimber Symbiosis
 2 Mountain
 3 Mountain
 4 Mountain
-1 Raugrin Triome
 1 Kogla, the Titan Ape
 1 Emeria's Call
 1 Valakut Awakening
@@ -34,14 +34,13 @@
 1 Island
 6 Mountain
 7 Mountain
-1 Goldspan Dragon
-2 Goldspan Dragon
 2 Temple of Mystery
 3 Temple of Mystery
 3 Ketria Triome
+1 Goldspan Dragon
+2 Goldspan Dragon
 1 Swamp
 2 Swamp
-2 Forest
 1 Snow-Covered Forest
 1 Snow-Covered Island
 2 Snow-Covered Forest
@@ -54,20 +53,16 @@
 4 Ketria Triome
 1 Temple of Malady
 1 Temple of Deceit
-1 Elder Gargaroth
-2 Elder Gargaroth
 1 Savai Triome
 8 Mountain
 9 Mountain
 10 Mountain
 3 Valki, God of Lies
 1 Zagoth Triome
+2 Forest
 2 Island
 3 Forest
 3 Swamp
-2 Turntimber Symbiosis
-3 Goldspan Dragon
-4 Goldspan Dragon
 1 Garruk, Cursed Huntsman
 1 Titanoth Rex
 1 Pursued Whale
@@ -78,6 +73,8 @@
 2 Garruk, Cursed Huntsman
 3 Snow-Covered Forest
 3 Snow-Covered Island
+1 Elder Gargaroth
+2 Elder Gargaroth
 4 Blightstep Pathway
 4 Temple of Mystery
 2 Temple of Triumph
@@ -90,24 +87,6 @@
 3 Raugrin Triome
 3 Fabled Passage
 4 Fabled Passage
-1 Crawling Barrens
-1 Beanstalk Giant
-1 Rugged Highlands
-1 Bonecrusher Giant
-1 The Great Henge
-1 Lovestruck Beast
-2 Crawling Barrens
-2 Lovestruck Beast
-2 Rugged Highlands
-2 Bonecrusher Giant
-2 Beanstalk Giant
-2 The Great Henge
-3 Lovestruck Beast
-3 Bonecrusher Giant
-3 Beanstalk Giant
-4 Lovestruck Beast
-4 Beanstalk Giant
-4 Bonecrusher Giant
 3 Needleverge Pathway
 3 Nyxbloom Ancient
 4 Needleverge Pathway
@@ -116,8 +95,8 @@
 2 Savai Triome
 2 Wishclaw Talisman
 3 Temple of Malice
-3 Savai Triome
 3 Wishclaw Talisman
+3 Savai Triome
 4 Swamp
 4 Temple of Malice
 4 Savai Triome
@@ -126,15 +105,18 @@
 6 Swamp
 1 Migration Path
 1 Duress
+2 Turntimber Symbiosis
+2 Zagoth Triome
 2 Migration Path
 2 Duress
-2 Zagoth Triome
 3 Zagoth Triome
+3 Goldspan Dragon
 3 Island
 3 Migration Path
 3 Duress
 4 Valki, God of Lies
 4 Migration Path
+4 Goldspan Dragon
 4 Duress
 4 Forest
 5 Forest

@@ -72,6 +72,6 @@
 |                    1|[Grand Abolisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389538)              |                     |                                                                                                        |
 |                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)               |                     |                                                                                                        |
 |                    2|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)               |                     |                                                                                                        |
-|                    2|[Palace Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416775)                |                     |                                                                                                        |
 |                    6|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)          |                     |                                                                                                        |
+|                    2|[Palace Jailer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416775)                |                     |                                                                                                        |
 

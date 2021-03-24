@@ -4,25 +4,26 @@
 1 Commit/Memory
 4 Shark Typhoon
 1 Syncopate
+1 Search for Azcanta
 1 Blessed Alliance
 1 Jace, Architect of Thought
-1 Search for Azcanta
-4 Supreme Verdict
 2 Syncopate
-3 Dig Through Time
 1 Sea Gate Restoration
+4 Supreme Verdict
+3 Plains
+3 Dig Through Time
 1 Temple of Enlightenment
 1 Last Breath
 2 Temple of Enlightenment
 2 Last Breath
-3 Plains
 4 Teferi, Time Raveler
 1 Elixir of Immortality
 4 Censor
+4 Irrigated Farmland
 3 Fabled Passage
 4 Fabled Passage
 1 Ondu Inversion
-4 Irrigated Farmland
+2 Settle the Wreckage
 1 Omen of the Sea
 2 Omen of the Sea
 3 Omen of the Sea
@@ -39,7 +40,6 @@
 2 Temple Garden
 2 Uro, Titan of Nature's Wrath
 2 Growth Spiral
-2 Settle the Wreckage
 2 Mystical Dispute
 3 Uro, Titan of Nature's Wrath
 3 Breeding Pool
@@ -51,15 +51,11 @@
 4 Temple Garden
 1 Emeria's Call
 1 Sinister Sabotage
-1 Skyclave Cleric
-2 Skyclave Cleric
-1 Cast Out
 1 Hengegate Pathway
 2 Hengegate Pathway
 3 Hengegate Pathway
 4 Hengegate Pathway
 1 Ornithopter
-1 Spire of Industry
 1 Curious Obsession
 1 Selfless Savior
 1 Gingerbrute
@@ -69,22 +65,23 @@
 1 Ensoul Artifact
 1 Darksteel Citadel
 1 Springleaf Drum
+1 Spire of Industry
 2 Ornithopter
 2 Curious Obsession
 2 Selfless Savior
-2 Spire of Industry
 2 Gingerbrute
 2 Alseid of Life's Bounty
 2 Darksteel Citadel
-2 Springleaf Drum
 2 Ethereal Armor
 2 All That Glitters
+2 Spire of Industry
+2 Springleaf Drum
 2 Ensoul Artifact
 3 Ornithopter
 3 Curious Obsession
-3 Spire of Industry
 3 Gingerbrute
 3 Ensoul Artifact
+3 Spire of Industry
 3 Alseid of Life's Bounty
 3 Ethereal Armor
 3 All That Glitters
@@ -94,24 +91,28 @@
 4 Alseid of Life's Bounty
 4 All That Glitters
 4 Gingerbrute
+4 Spire of Industry
 4 Springleaf Drum
 4 Ensoul Artifact
 4 Ethereal Armor
-4 Spire of Industry
+1 Skyclave Cleric
+2 Skyclave Cleric
 4 Omen of the Sea
 1 Raugrin Triome
 2 Sphinx's Revelation
 4 Plains
-3 Skyclave Cleric
+1 Cast Out
+2 Castle Vantress
 3 Selfless Savior
+1 Void Shatter
 1 Neutralize
 1 Godless Shrine
 2 Godless Shrine
 1 Dream Trawler
 1 Temple of Triumph
-1 Steam Vents
 1 Temple of Epiphany
 1 Dragonlord Ojutai
+1 Steam Vents
 1 Aurelia's Fury
 2 Blessed Alliance
 1 Mire's Grasp
@@ -121,32 +122,33 @@
 2 Brightclimb Pathway
 2 Hateful Eidolon
 3 Mire's Grasp
-3 Hateful Eidolon
 3 Brightclimb Pathway
+3 Hateful Eidolon
 4 Hateful Eidolon
 4 Brightclimb Pathway
-1 Gideon of the Trials
 1 Staggering Insight
 2 Staggering Insight
 3 Staggering Insight
 4 Staggering Insight
-2 Sinister Sabotage
-2 Castle Vantress
-6 Island
 1 Soul-Guide Lantern
-1 Whirlwind Denial
+6 Island
 3 Castle Ardenvale
-1 Void Shatter
+1 Whirlwind Denial
 1 Horribly Awry
 2 Void Shatter
 3 Dovin's Veto
 1 Seal Away
+2 Search for Azcanta
+3 Skyclave Cleric
 2 Detention Sphere
+1 Saw It Coming
+1 Behold the Multiverse
+2 Behold the Multiverse
 1 Blast Zone
 2 Neutralize
 1 Swamp
-1 Watery Grave
 1 Fatal Push
+1 Watery Grave
 1 Drowned Catacomb
 2 Elspeth Conquers Death
 2 Fatal Push
@@ -162,8 +164,8 @@
 1 Tergrid, God of Fright
 1 Lithoform Blight
 1 Disinformation Campaign
-1 Elspeth's Nightmare
 1 Skyclave Apparition
+1 Elspeth's Nightmare
 1 Doom Foretold
 1 Yorion, Sky Nomad
 1 Dance of the Manse
@@ -193,19 +195,33 @@
 4 Godless Shrine
 4 Drowned Catacomb
 4 Doom Foretold
-2 Gideon of the Trials
+1 Gideon of the Trials
 2 Ondu Inversion
-2 Search for Azcanta
 1 Hallowed Moonlight
 2 Hallowed Moonlight
 2 Soul-Guide Lantern
 1 Stubborn Denial
 2 Stubborn Denial
 3 Stubborn Denial
+1 Approach of the Second Sun
+1 Supreme Will
+1 Teferi, Master of Time
+1 Ipnu Rivulet
+1 Silundi Vision
+1 Mystic Sanctuary
+1 Mission Briefing
+2 Mission Briefing
+2 Teferi, Master of Time
+2 Silundi Vision
+2 Mystic Sanctuary
+2 Ipnu Rivulet
+2 Saw It Coming
+2 Approach of the Second Sun
+3 Approach of the Second Sun
 1 Sphinx of the Final Word
 1 Anticognition
-1 Brazen Borrower
 1 Pearl Lake Ancient
+1 Brazen Borrower
 1 Fumigate
 2 Brazen Borrower
 2 Seal Away
@@ -213,10 +229,6 @@
 3 Anticognition
 1 Day's Undoing
 3 Narset, Parter of Veils
-1 Speaker of the Heavens
-2 Speaker of the Heavens
-3 Speaker of the Heavens
-4 Speaker of the Heavens
 1 Temple of Deceit
 1 Prairie Stream
 1 Ashiok, Nightmare Muse
@@ -232,10 +244,14 @@
 3 Neutralize
 3 Ashiok, Nightmare Muse
 4 Neutralize
+1 Speaker of the Heavens
+2 Speaker of the Heavens
+3 Speaker of the Heavens
+4 Speaker of the Heavens
 1 Jwari Disruption
 2 Jwari Disruption
-2 Horribly Awry
 2 Whirlwind Denial
+2 Horribly Awry
 3 Jwari Disruption
 4 Jwari Disruption
 4 Castle Ardenvale
@@ -244,15 +260,13 @@
 4 Void Shatter
 1 Midnight Clock
 1 Essence Scatter
-1 Saw It Coming
 1 Alrund's Epiphany
-1 Behold the Multiverse
 2 Alrund's Epiphany
 2 Midnight Clock
-2 Behold the Multiverse
 3 Midnight Clock
 4 Teferi, Hero of Dominaria
 2 Cast Out
+2 Sinister Sabotage
 7 Island
 8 Island
 9 Island

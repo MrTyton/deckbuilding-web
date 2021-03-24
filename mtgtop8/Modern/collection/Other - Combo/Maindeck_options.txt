@@ -19,8 +19,8 @@
 4 Ardent Plea
 1 Steam Vents
 1 Teferi, Time Raveler
-1 Force of Negation
 1 Raugrin Triome
+1 Force of Negation
 2 Force of Negation
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
@@ -49,38 +49,38 @@
 2 Blood Moon
 3 Blood Moon
 1 Bala Ged Recovery
-1 Irencrag Feat
 1 Spikefield Hazard
 1 Valakut Awakening
+1 Irencrag Feat
 1 Reforge the Soul
 1 Manamorphose
 1 Recross the Paths
 1 Desperate Ritual
 1 Pyretic Ritual
-2 Irencrag Feat
-2 Bala Ged Recovery
-2 Valakut Awakening
 2 Spikefield Hazard
+2 Irencrag Feat
+2 Valakut Awakening
 2 Pyretic Ritual
+2 Bala Ged Recovery
 2 Manamorphose
 2 Recross the Paths
 2 Desperate Ritual
 3 Spikefield Hazard
-3 Irencrag Feat
 3 Goblin Charbelcher
 3 Manamorphose
 3 Pact of Negation
-3 Recross the Paths
+3 Irencrag Feat
 3 Valakut Awakening
 3 Desperate Ritual
-3 Pyretic Ritual
+3 Recross the Paths
 3 Bala Ged Recovery
+3 Pyretic Ritual
 4 Spikefield Hazard
-4 Irencrag Feat
 4 Goblin Charbelcher
 4 Manamorphose
 4 Recross the Paths
 4 Valakut Awakening
+4 Irencrag Feat
 4 Pyretic Ritual
 4 Desperate Ritual
 4 Bala Ged Recovery
@@ -89,9 +89,9 @@
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
+1 Temple Garden
 1 Mystic Sanctuary
 1 Cryptic Command
-1 Temple Garden
 1 Misty Rainforest
 1 Omnath, Locus of Creation
 2 Mystic Sanctuary
@@ -105,19 +105,19 @@
 4 Uro, Titan of Nature's Wrath
 3 Gemstone Caverns
 4 Blood Moon
-4 Gemstone Caverns
 1 Wooded Foothills
+4 Gemstone Caverns
 2 Wooded Foothills
 1 Forest
+1 Stomping Ground
 1 Swamp
 1 Verdant Catacombs
 1 Demonic Dread
 1 Overgrown Tomb
-1 Magus of the Moon
 1 Blackcleave Cliffs
 1 Bloodbraid Elf
 1 Seasoned Pyromancer
-1 Stomping Ground
+1 Magus of the Moon
 1 Blood Crypt
 2 Magus of the Moon
 2 Verdant Catacombs
@@ -150,11 +150,13 @@
 3 Polluted Delta
 3 Brazen Borrower
 4 Polluted Delta
-1 Lightning Bolt
 3 Wooded Foothills
 4 Wooded Foothills
-4 Teferi, Time Raveler
 2 Forest
+1 Lightning Bolt
+4 Teferi, Time Raveler
+1 Emrakul, the Aeons Torn
+2 Emrakul, the Aeons Torn
 1 Thassa's Oracle
 1 Mystical Dispute
 1 Firespout
@@ -166,8 +168,8 @@
 2 Lovestruck Beast
 2 Swamp
 3 Lovestruck Beast
-3 Dismember
 3 Omnath, Locus of Creation
+3 Dismember
 3 Hagra Mauling
 4 Hagra Mauling
 1 Murderous Rider
@@ -180,19 +182,76 @@
 4 Pelakka Predation
 3 Thoughtseize
 4 Thoughtseize
-1 Emrakul, the Aeons Torn
-2 Emrakul, the Aeons Torn
+1 Tolaria West
+2 Tolaria West
+3 Tolaria West
+1 Lonely Sandbar
+1 Lotus Field
+1 Serum Visions
+1 Ideas Unbound
+1 Reach Through Mists
+1 Halimar Depths
+1 Twiddle
+1 Shimmer of Possibility
+1 Psychic Puppetry
+1 Grapeshot
+1 Past in Flames
+1 Echoing Truth
+1 Spirebluff Canal
+1 Island
+1 Sleight of Hand
+1 Dream's Grip
+1 Merchant Scroll
+1 Peer Through Depths
+1 Vizier of Tumbling Sands
+2 Sleight of Hand
+2 Island
+2 Lonely Sandbar
+2 Psychic Puppetry
+2 Reach Through Mists
+2 Peer Through Depths
+2 Lotus Field
+2 Spirebluff Canal
+2 Vizier of Tumbling Sands
+2 Serum Visions
+2 Ideas Unbound
+2 Snow-Covered Island
+2 Grapeshot
+2 Twiddle
+2 Past in Flames
+2 Dream's Grip
+3 Sleight of Hand
+3 Serum Visions
+3 Ideas Unbound
+3 Lotus Field
+3 Lonely Sandbar
+3 Psychic Puppetry
+3 Past in Flames
+3 Spirebluff Canal
+3 Peer Through Depths
+3 Dream's Grip
+3 Reach Through Mists
+4 Sleight of Hand
+4 Lotus Field
+4 Lonely Sandbar
+4 Reach Through Mists
+4 Peer Through Depths
+4 Dream's Grip
+4 Serum Visions
+4 Ideas Unbound
+4 Psychic Puppetry
+4 Spirebluff Canal
 1 Mountain
 2 Mountain
 1 Tibalt's Trickery
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
-1 Tolaria West
-2 Tolaria West
-3 Tolaria West
+1 Windswept Heath
+3 Forest
+1 Tranquil Thicket
+1 Hanweir Battlements
 1 Field of the Dead
 1 Cavern of Souls
-1 Hanweir Battlements
 1 Radiant Fountain
 1 Sheltered Thicket
 1 Ghost Quarter
@@ -200,19 +259,17 @@
 1 Grove of the Burnwillows
 1 Vesuva
 1 Bojuka Bog
-1 Tranquil Thicket
 1 Sunhome, Fortress of the Legion
-1 Crumbling Vestige
 1 Slayers' Stronghold
 1 Khalni Garden
-1 Windswept Heath
+1 Boros Garrison
 1 Gruul Guildgate
 1 Blast Zone
 1 Jund Panorama
 1 Simic Growth Chamber
+1 Crumbling Vestige
 1 Castle Garenbrig
 1 Gruul Turf
-1 Boros Garrison
 2 Gruul Turf
 2 Castle Garenbrig
 2 Field of the Dead
@@ -223,7 +280,6 @@
 3 Grove of the Burnwillows
 3 Castle Garenbrig
 3 Simic Growth Chamber
-3 Forest
 3 Gruul Turf
 4 Grove of the Burnwillows
 4 Gruul Turf
@@ -233,24 +289,24 @@
 2 Leyline of Sanctity
 3 Leyline of Sanctity
 4 Leyline of Sanctity
-1 Arid Mesa
 1 Fire Prophecy
 1 Dwarven Mine
 1 Izzet Charm
 1 Spell Snare
 1 Repeal
 1 Transmogrify
+1 Arid Mesa
+1 Remand
 1 Polymorph
 1 Mana Leak
 1 Bloodstained Mire
-1 Remand
 1 Sacred Foundry
 1 Anger of the Gods
 1 Cloudform
+2 Arid Mesa
 2 Raugrin Triome
 2 Izzet Charm
 2 Spell Snare
-2 Arid Mesa
 2 Remand
 2 Dwarven Mine
 2 Anger of the Gods
@@ -270,62 +326,6 @@
 4 Polymorph
 4 Dwarven Mine
 4 Remand
-1 Lonely Sandbar
-1 Lotus Field
-1 Serum Visions
-1 Ideas Unbound
-1 Reach Through Mists
-1 Halimar Depths
-1 Island
-1 Echoing Truth
-1 Twiddle
-1 Shimmer of Possibility
-1 Psychic Puppetry
-1 Grapeshot
-1 Past in Flames
-1 Spirebluff Canal
-1 Sleight of Hand
-1 Dream's Grip
-1 Merchant Scroll
-1 Peer Through Depths
-1 Vizier of Tumbling Sands
-2 Sleight of Hand
-2 Island
-2 Lonely Sandbar
-2 Psychic Puppetry
-2 Spirebluff Canal
-2 Dream's Grip
-2 Reach Through Mists
-2 Peer Through Depths
-2 Lotus Field
-2 Vizier of Tumbling Sands
-2 Serum Visions
-2 Ideas Unbound
-2 Snow-Covered Island
-2 Grapeshot
-2 Past in Flames
-2 Twiddle
-3 Sleight of Hand
-3 Serum Visions
-3 Ideas Unbound
-3 Lonely Sandbar
-3 Psychic Puppetry
-3 Past in Flames
-3 Spirebluff Canal
-3 Peer Through Depths
-3 Lotus Field
-3 Dream's Grip
-3 Reach Through Mists
-4 Sleight of Hand
-4 Lotus Field
-4 Lonely Sandbar
-4 Reach Through Mists
-4 Peer Through Depths
-4 Serum Visions
-4 Ideas Unbound
-4 Psychic Puppetry
-4 Spirebluff Canal
-4 Dream's Grip
 1 Commandeer
 1 Warrant / Warden
 1 Far / Away
@@ -342,15 +342,15 @@
 1 Emrakul, the Promised End
 1 Ulamog, the Infinite Gyre
 1 Aether Hub
-1 Gemstone Mine
 1 Brilliant Ultimatum
+1 Gemstone Mine
 1 City of Brass
 2 Pillar of the Paruns
 2 Tibalt's Trickery
+2 Omniscience
 2 Gemstone Mine
 2 Emrakul, the Promised End
 2 City of Brass
-2 Omniscience
 2 Aether Hub
 2 Tendo Ice Bridge
 2 Brilliant Ultimatum
@@ -372,3 +372,48 @@
 4 Ulamog, the Infinite Gyre
 4 Aether Hub
 4 Brilliant Ultimatum
+1 Nahiri, the Harbinger
+1 Oath of Nissa
+1 Lukka, Coppercoat Outcast
+1 Chandra, Torch of Defiance
+1 Arbor Elf
+1 Birds of Paradise
+1 Noble Hierarch
+1 Utopia Sprawl
+1 Karn, the Great Creator
+2 Oath of Nissa
+2 Nahiri, the Harbinger
+2 Lukka, Coppercoat Outcast
+2 Noble Hierarch
+2 Stomping Ground
+2 Chandra, Torch of Defiance
+2 Utopia Sprawl
+2 Birds of Paradise
+2 Karn, the Great Creator
+2 Arbor Elf
+2 Windswept Heath
+2 Temple Garden
+3 Oath of Nissa
+3 Chandra, Torch of Defiance
+3 Utopia Sprawl
+3 Windswept Heath
+3 Nahiri, the Harbinger
+3 Lukka, Coppercoat Outcast
+3 Birds of Paradise
+3 Arbor Elf
+3 Karn, the Great Creator
+3 Noble Hierarch
+3 Stomping Ground
+4 Oath of Nissa
+4 Utopia Sprawl
+4 Windswept Heath
+4 Lukka, Coppercoat Outcast
+4 Birds of Paradise
+4 Chandra, Torch of Defiance
+4 Noble Hierarch
+4 Arbor Elf
+4 Forest
+4 Karn, the Great Creator
+4 Stomping Ground
+5 Forest
+6 Forest

@@ -1,6 +1,7 @@
+1 Smuggler's Copter
 1 Oboro, Palace in the Clouds
 1 Stonecoil Serpent
-1 Smuggler's Copter
+1 Judge's Familiar
 1 Lodestone Golem
 1 Chief Engineer
 1 Blinkmoth Nexus
@@ -10,13 +11,12 @@
 1 Mausoleum Wanderer
 1 Waterlogged Grove
 1 Throne of the God-Pharaoh
-1 Judge's Familiar
 1 Clearwater Pathway
 1 Grand Architect
 1 Etherium Sculptor
+2 Smuggler's Copter
 2 Clearwater Pathway
 2 Stonecoil Serpent
-2 Smuggler's Copter
 2 Lodestone Golem
 2 Faerie Seer
 2 Etherium Sculptor
@@ -42,13 +42,13 @@
 4 Clearwater Pathway
 4 Walking Ballista
 4 Stonecoil Serpent
+4 Smuggler's Copter
 4 Island
 4 Chief Engineer
 4 Mausoleum Wanderer
 4 Blinkmoth Nexus
 4 Faerie Seer
 4 Lodestone Golem
-4 Smuggler's Copter
 4 Grand Architect
 5 Island
 6 Island
@@ -57,13 +57,12 @@
 9 Island
 10 Island
 1 Nurturing Peatland
+1 Birds of Paradise
 1 Verdant Catacombs
 1 Overgrown Tomb
-1 Concealed Courtyard
-1 Birds of Paradise
+1 Voice of Resurgence
 1 Tidehollow Sculler
 1 Kitchen Finks
-1 Voice of Resurgence
 1 Skyclave Apparition
 1 Athreos, God of Passage
 1 Silent Clearing
@@ -71,6 +70,7 @@
 1 Godless Shrine
 1 Geralf's Messenger
 1 Anafenza, Kin-Tree Spirit
+1 Concealed Courtyard
 1 Blooming Marsh
 1 Windswept Heath
 1 Collected Company
@@ -79,40 +79,40 @@
 1 Viscera Seer
 1 Forest
 2 Windswept Heath
-2 Verdant Catacombs
-2 Concealed Courtyard
 2 Birds of Paradise
-2 Godless Shrine
+2 Verdant Catacombs
+2 Voice of Resurgence
 2 Kitchen Finks
 2 Tidehollow Sculler
-2 Skyclave Apparition
-2 Voice of Resurgence
 2 Anafenza, Kin-Tree Spirit
 2 Geralf's Messenger
 2 Blooming Marsh
 2 Overgrown Tomb
+2 Concealed Courtyard
+2 Skyclave Apparition
 2 Viscera Seer
 2 Collected Company
 2 Fatal Push
+2 Godless Shrine
 3 Birds of Paradise
 3 Verdant Catacombs
-3 Fatal Push
+3 Tidehollow Sculler
 3 Voice of Resurgence
-3 Skyclave Apparition
 3 Kitchen Finks
 3 Concealed Courtyard
 3 Collected Company
 3 Anafenza, Kin-Tree Spirit
+3 Skyclave Apparition
 3 Viscera Seer
-3 Tidehollow Sculler
+3 Fatal Push
 3 Geralf's Messenger
 3 Windswept Heath
 4 Voice of Resurgence
 4 Birds of Paradise
+4 Tidehollow Sculler
 4 Collected Company
 4 Verdant Catacombs
 4 Windswept Heath
 4 Kitchen Finks
 4 Geralf's Messenger
-4 Tidehollow Sculler
 4 Viscera Seer

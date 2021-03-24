@@ -34,6 +34,23 @@
 2 Tangled Florahedron
 3 Tangled Florahedron
 4 Tangled Florahedron
+1 Colossal Plow
+1 Giant Ox
+1 Yasharn, Implacable Earth
+1 Relic Golem
+2 Colossal Plow
+2 Giant Ox
+2 Yasharn, Implacable Earth
+2 Relic Golem
+2 Emeria's Call
+3 Emeria's Call
+3 Colossal Plow
+3 Giant Ox
+3 Relic Golem
+4 Emeria's Call
+4 Colossal Plow
+4 The Great Henge
+4 Relic Golem
 1 Luminarch Aspirant
 1 Conclave Mentor
 2 Conclave Mentor
@@ -47,54 +64,37 @@
 3 Snakeskin Veil
 4 Snakeskin Veil
 1 Jungle Hollow
-1 Fearless Fledgling
-1 Migratory Greathorn
 1 Essence Symbiote
+1 Migratory Greathorn
 1 Polukranos, Unchained
 1 Iridescent Hornbeetle
 1 Vulpikeet
 1 Necropanther
 1 Scoured Barrens
+1 Fearless Fledgling
 2 Jungle Hollow
-2 Fearless Fledgling
-2 Migratory Greathorn
 2 Essence Symbiote
+2 Migratory Greathorn
+2 Fearless Fledgling
 2 Scoured Barrens
 2 Iridescent Hornbeetle
 2 Vulpikeet
 2 Necropanther
-3 Fearless Fledgling
 3 Jungle Hollow
 3 Evolving Wilds
 3 Migratory Greathorn
 3 Essence Symbiote
 3 Necropanther
+3 Fearless Fledgling
 3 Scoured Barrens
 3 Vulpikeet
 3 Iridescent Hornbeetle
-4 Fearless Fledgling
 4 Evolving Wilds
-4 Migratory Greathorn
 4 Essence Symbiote
+4 Migratory Greathorn
 4 Vulpikeet
 4 Necropanther
-1 Colossal Plow
-1 Giant Ox
-1 Yasharn, Implacable Earth
-1 Relic Golem
-2 Colossal Plow
-2 Giant Ox
-2 Relic Golem
-2 Emeria's Call
-2 Yasharn, Implacable Earth
-3 Emeria's Call
-3 Colossal Plow
-3 Giant Ox
-3 Relic Golem
-4 Emeria's Call
-4 Colossal Plow
-4 The Great Henge
-4 Relic Golem
+4 Fearless Fledgling
 1 Heliod, Sun-Crowned
 1 Righteous Valkyrie
 1 Chainweb Aracnir
@@ -128,20 +128,20 @@
 4 Blossoming Sands
 9 Plains
 1 Gilded Goose
-1 Blessing of Frost
 1 Jorn, God of Winter
 1 Basri's Lieutenant
 1 Basri Ket
 1 Swarm Shambler
 1 Snow-Covered Plains
 1 Snow-Covered Forest
+1 Blessing of Frost
 1 Faceless Haven
 1 Wildwood Scourge
 1 Oran-Rief Ooze
 2 Luminarch Aspirant
 2 Gilded Goose
-2 Swarm Shambler
 2 Jorn, God of Winter
+2 Swarm Shambler
 2 Faceless Haven
 2 Oran-Rief Ooze
 2 Snow-Covered Plains
@@ -156,8 +156,8 @@
 3 Snow-Covered Plains
 3 Snow-Covered Forest
 3 Swarm Shambler
-4 Gilded Goose
 4 Swarm Shambler
+4 Gilded Goose
 4 Luminarch Aspirant
 4 Oran-Rief Ooze
 4 Snow-Covered Forest

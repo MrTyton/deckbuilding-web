@@ -1,8 +1,8 @@
-2 Shark Typhoon
+3 Steam Vents
 1 Monastery Swiftspear
 1 Manamorphose
-1 Light Up the Stage
 1 Lava Dart
+1 Light Up the Stage
 1 Soul-Scar Mage
 2 Monastery Swiftspear
 2 Manamorphose
@@ -25,8 +25,6 @@
 2 Crash Through
 3 Crash Through
 4 Crash Through
-1 Bonecrusher Giant
-2 Bonecrusher Giant
 1 Sunbaked Canyon
 2 Sunbaked Canyon
 3 Sunbaked Canyon
@@ -55,12 +53,15 @@
 3 Inspiring Vantage
 3 Myth Realized
 4 Inspiring Vantage
+1 Bonecrusher Giant
+2 Bonecrusher Giant
 1 Polluted Delta
-2 Mana Leak
 1 Ral, Izzet Viceroy
+3 Force of Negation
 8 Island
-1 Fiery Islet
+2 Mana Leak
 1 Deprive
+1 Fiery Islet
 4 Mountain
 5 Mountain
 6 Mountain
@@ -73,7 +74,6 @@
 1 Bedlam Reveler
 2 Bedlam Reveler
 1 Abrade
-3 Force of Negation
 13 Mountain
 14 Mountain
 3 Bedlam Reveler
@@ -81,32 +81,31 @@
 2 Lava Spike
 2 Misty Rainforest
 3 Misty Rainforest
-1 The Royal Scions
-1 Cascade Bluffs
-2 Cascade Bluffs
 2 Polluted Delta
 2 Fiery Islet
-4 Misty Rainforest
-2 The Royal Scions
 3 Lava Spike
 4 Lava Spike
 1 Kiln Fiend
 2 Kiln Fiend
+4 Misty Rainforest
+1 The Royal Scions
+2 The Royal Scions
 1 Snow-Covered Mountain
+1 Cascade Bluffs
+2 Cascade Bluffs
+1 Snow-Covered Island
+2 Snow-Covered Island
+3 Snow-Covered Island
 9 Island
 1 Blast Zone
 2 Magmatic Sinkhole
 3 Brazen Borrower
 4 Brazen Borrower
-1 Burst Lightning
-2 Burst Lightning
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
-3 Kiln Fiend
-3 Mana Leak
 4 Snow-Covered Island
 5 Snow-Covered Island
+1 Burst Lightning
+2 Burst Lightning
+3 Kiln Fiend
 1 Snow-Covered Forest
 1 Stomping Ground
 1 Ice-Fang Coatl
@@ -117,27 +116,27 @@
 2 Snow-Covered Forest
 2 Ice-Fang Coatl
 2 Wrenn and Six
-3 Wrenn and Six
 3 Ice-Fang Coatl
+3 Wrenn and Six
+3 Mana Leak
 4 Ice-Fang Coatl
 1 Gut Shot
 2 Gut Shot
 15 Mountain
-1 Through the Breach
-2 Through the Breach
-3 Bonecrusher Giant
+1 Field of Ruin
+2 Field of Ruin
 1 Behold the Multiverse
 2 Behold the Multiverse
 1 Firespout
-1 Field of Ruin
 1 Search for Azcanta
 2 Breeding Pool
-2 Field of Ruin
 4 Wrenn and Six
 1 Omen of the Sea
 1 Emrakul, the Aeons Torn
+1 Through the Breach
 2 Omen of the Sea
 2 Emrakul, the Aeons Torn
+2 Through the Breach
 3 Omen of the Sea
 3 Through the Breach
 3 Sulfur Falls
@@ -147,93 +146,55 @@
 1 Ancestral Vision
 2 Ancestral Vision
 1 Fire Prophecy
-3 Burst Lightning
 3 Fiery Islet
+3 Burst Lightning
 1 Blistercoil Weird
 2 Blistercoil Weird
-1 Reflecting Pool
 3 Gut Shot
 1 Wild Slash
 2 Wild Slash
 4 Bedlam Reveler
 16 Mountain
+3 Bonecrusher Giant
 1 Wandering Fumarole
 1 Flame Slash
-1 Riverglide Pathway
-1 Spirebluff Canal
-2 Reflecting Pool
-2 Spirebluff Canal
-2 Riverglide Pathway
-3 Reflecting Pool
-3 Spirebluff Canal
-3 Cascade Bluffs
-3 Riverglide Pathway
-4 Riverglide Pathway
-4 Spirebluff Canal
-4 Cascade Bluffs
-1 Serum Visions
-2 Serum Visions
 1 Sprite Dragon
 2 Sprite Dragon
 3 Sprite Dragon
 4 Sprite Dragon
+1 Logic Knot
+1 Prismatic Vista
+1 Reflecting Pool
+1 Serum Visions
+2 Serum Visions
 1 Yidaro, Wandering Monster
 1 Peek
 2 Peek
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
+1 Narset, Parter of Veils
+1 Vendilion Clique
+2 Narset, Parter of Veils
+3 Mystic Sanctuary
 1 Spell Pierce
 1 Dispel
 2 Spell Pierce
 3 Ancestral Vision
-1 Vendilion Clique
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-3 Mystic Sanctuary
-1 Kiki-Jiki, Mirror Breaker
-1 Minamo, School at Water's Edge
-1 Deceiver Exarch
-1 Flusterstorm
-1 Crackling Drake
-1 Valakut Awakening
-2 Deceiver Exarch
-2 Kiki-Jiki, Mirror Breaker
-2 Valakut Awakening
-3 Deceiver Exarch
-3 Kiki-Jiki, Mirror Breaker
 1 Growth Spiral
-1 Logic Knot
 1 Frost Bite
-1 Castle Vantress
 1 Volatile Fjord
-1 Prismatic Vista
 1 Cosima, God of the Voyage
+1 Castle Vantress
 2 Growth Spiral
 2 Cosima, God of the Voyage
 3 Growth Spiral
 3 Cosima, God of the Voyage
-4 Growth Spiral
 4 Cosima, God of the Voyage
+4 Growth Spiral
 4 Fiery Islet
 1 Finale of Promise
 3 Blistercoil Weird
 4 Blistercoil Weird
-1 Temple of Epiphany
-1 Inferno Titan
-1 Faerie Conclave
-1 Stubborn Denial
-1 Thryx, the Sudden Storm
-1 Glasspool Mimic
-1 Invasion of the Giants
-2 Inferno Titan
-2 Faerie Conclave
-2 Stubborn Denial
-2 Invasion of the Giants
-3 Inferno Titan
-3 Invasion of the Giants
-4 Reflecting Pool
-4 Inferno Titan
-4 Invasion of the Giants
 1 Nivmagus Elemental
 1 Ground Rift
 2 Nivmagus Elemental
@@ -257,6 +218,52 @@
 3 Thrill of Possibility
 4 Arclight Phoenix
 4 Thrill of Possibility
+1 Terminus
+1 Glacial Fortress
+1 Hengegate Pathway
+1 Hallowed Fountain
+1 On Thin Ice
+1 Teferi, Time Raveler
+1 Path to Exile
+1 Snow-Covered Plains
+2 Terminus
+2 Path to Exile
+2 Prismatic Vista
+2 Hallowed Fountain
+2 Teferi, Time Raveler
+2 Glacial Fortress
+2 On Thin Ice
+2 Snow-Covered Plains
+3 Jace, the Mind Sculptor
+3 Prismatic Vista
+3 Glacial Fortress
+3 Path to Exile
+3 On Thin Ice
+4 Glacial Fortress
+4 Prismatic Vista
+1 Deceiver Exarch
+1 Minamo, School at Water's Edge
+1 Flusterstorm
+1 Crackling Drake
+1 Riverglide Pathway
+1 Valakut Awakening
+1 Spirebluff Canal
+1 Kiki-Jiki, Mirror Breaker
+2 Reflecting Pool
+2 Deceiver Exarch
+2 Spirebluff Canal
+2 Kiki-Jiki, Mirror Breaker
+2 Riverglide Pathway
+2 Valakut Awakening
+3 Reflecting Pool
+3 Spirebluff Canal
+3 Deceiver Exarch
+3 Cascade Bluffs
+3 Riverglide Pathway
+3 Kiki-Jiki, Mirror Breaker
+4 Riverglide Pathway
+4 Spirebluff Canal
+4 Cascade Bluffs
 1 Dreadhorde Arcanist
 1 Piracy Charm
 2 Dreadhorde Arcanist

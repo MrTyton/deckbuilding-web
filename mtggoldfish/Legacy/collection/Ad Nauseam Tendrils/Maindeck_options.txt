@@ -1,9 +1,9 @@
 1 Swamp
 1 Island
 2 Snow-Covered Island
+2 Island
 1 Empty the Warrens
 1 Verdant Catacombs
-2 Island
 1 Dark Petition
 4 Duress
 2 Past in Flames
@@ -58,12 +58,6 @@
 3 Simian Spirit Guide
 4 Jeska's Will
 4 Light Up the Stage
-1 Grim Tutor
-1 Bloodstained Mire
-1 Abrupt Decay
-1 Badlands
-1 Pieces of the Puzzle
-2 Abrupt Decay
 1 Flusterstorm
 1 Scalding Tarn
 2 Scalding Tarn
@@ -71,7 +65,13 @@
 1 Reforge the Soul
 2 Reforge the Soul
 1 Helm of Awakening
+1 Grim Tutor
+1 Bloodstained Mire
+1 Abrupt Decay
+1 Badlands
+1 Pieces of the Puzzle
 2 Bloodstained Mire
+2 Abrupt Decay
 2 Helm of Awakening
 1 Chrome Mox
 2 Veil of Summer
