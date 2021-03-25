@@ -72,7 +72,7 @@
 |                    4|[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255)       |                     |                                                                                                    |
 |                    4|[Jeska's Will](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=497707)           |                     |                                                                                                    |
 |                    4|[Seething Song](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=83377)           |                     |                                                                                                    |
-|                    4|[Karn, the Great Creator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460928)|                     |                                                                                                    |
 |                    4|[Sneak Attack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413690)           |                     |                                                                                                    |
+|                    4|[Karn, the Great Creator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460928)|                     |                                                                                                    |
 |                   10|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)               |                     |                                                                                                    |
 

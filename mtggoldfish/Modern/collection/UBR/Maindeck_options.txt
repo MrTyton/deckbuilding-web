@@ -26,8 +26,8 @@
 1 Breeding Pool
 1 Botanical Sanctum
 2 Glassdust Hulk
-3 Glassdust Hulk
 3 Misty Rainforest
+3 Glassdust Hulk
 4 Misty Rainforest
 4 Glassdust Hulk
 2 Cryptic Command
@@ -36,21 +36,21 @@
 2 Polluted Delta
 3 Polluted Delta
 4 Polluted Delta
-1 Swamp
-1 Mishra's Bauble
-2 Mishra's Bauble
-3 Mishra's Bauble
 3 Cryptic Command
-1 Watery Grave
+1 Swamp
 1 Archmage's Charm
 1 Jace, Vryn's Prodigy
+1 Watery Grave
 1 Fatal Push
 1 Inquisition of Kozilek
+1 Mishra's Bauble
 2 Watery Grave
 2 Fatal Push
 2 Jace, Vryn's Prodigy
-2 Inquisition of Kozilek
 2 Archmage's Charm
+2 Mishra's Bauble
+2 Inquisition of Kozilek
+3 Mishra's Bauble
 1 Blood Crypt
 2 Swamp
 1 Valki, God of Lies
@@ -87,85 +87,47 @@
 1 Clearwater Pathway
 4 Island
 4 Waker of Waves
-1 Plains
 1 Vendilion Clique
 3 Spirebluff Canal
 1 Teferi, Time Raveler
+1 Plains
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
 5 Island
 6 Island
-2 Seachrome Coast
-4 Mishra's Bauble
-2 Hallowed Fountain
-1 Stoneforge Mystic
-1 Batterskull
-1 Mox Amber
-1 Emry, Lurker of the Loch
-1 Minamo, School at Water's Edge
-1 Engineered Explosives
-1 Lurrus of the Dream-Den
-1 Urza, Lord High Artificer
-1 Thopter Foundry
-1 Sword of the Meek
-1 Metallic Rebuke
-1 Pithing Needle
-1 Chromatic Star
-2 Stoneforge Mystic
-2 Mox Amber
-2 Emry, Lurker of the Loch
-2 Urza, Lord High Artificer
-2 Thopter Foundry
-2 Engineered Explosives
-2 Metallic Rebuke
-3 Stoneforge Mystic
-3 Mox Amber
-3 Emry, Lurker of the Loch
-3 Engineered Explosives
-3 Urza, Lord High Artificer
-3 Thopter Foundry
-3 Metallic Rebuke
-4 Stoneforge Mystic
-4 Emry, Lurker of the Loch
-4 Urza, Lord High Artificer
-4 Engineered Explosives
-4 Thopter Foundry
-3 Seachrome Coast
-4 Seachrome Coast
 1 Faerie Macabre
 2 Faerie Macabre
 4 Lightning Bolt
 4 Serum Visions
 1 Sacred Foundry
-1 Nihil Spellbomb
-1 Darkslick Shores
-1 Tezzeret, Agent of Bolas
-2 Chromatic Star
-4 Mox Amber
-1 Hengegate Pathway
-1 Eiganjo Castle
-1 Glimmervoid
-1 Path to Exile
-1 Aether Spellbomb
-2 Hengegate Pathway
-2 Plains
-2 Lurrus of the Dream-Den
-2 Path to Exile
-3 Hengegate Pathway
-4 Hengegate Pathway
 1 Prismatic Vista
+2 Hallowed Fountain
 2 Prismatic Vista
 3 Brazen Borrower
 3 Prismatic Vista
 3 Hallowed Fountain
 4 Prismatic Vista
+1 Generous Gift
+1 Failure/Comply
+1 Adarkar Wastes
+2 Imposing Vantasaur
+2 Adarkar Wastes
+2 Generous Gift
+2 Failure/Comply
+2 Seachrome Coast
+3 Seachrome Coast
+3 Imposing Vantasaur
+3 Adarkar Wastes
+4 Seachrome Coast
+4 Imposing Vantasaur
+4 Adarkar Wastes
 1 Behold the Multiverse
 1 Unearth
-1 Cling to Dust
 1 Mana Leak
 1 Thoughtseize
 1 Pack Rat
 1 River of Tears
+1 Cling to Dust
 1 Deprive
 2 Cling to Dust
 2 Mystic Sanctuary
@@ -182,21 +144,22 @@
 4 Fatal Push
 4 Thoughtseize
 4 Jace, Vryn's Prodigy
+4 Mishra's Bauble
 1 Wooded Foothills
 1 Blackcleave Cliffs
 1 Bloodstained Mire
 1 Fulminator Mage
 1 Beast Within
 1 Overgrown Tomb
+1 Demonic Dread
 1 Horror of the Broken Lands
 1 Monstrous Carabid
 1 Architects of Will
 1 Simian Spirit Guide
 1 Blooming Marsh
-1 Forest
-1 Demonic Dread
 1 Copperline Gorge
 1 Deadshot Minotaur
+1 Forest
 2 Blood Crypt
 2 Wooded Foothills
 2 Blackcleave Cliffs
@@ -208,31 +171,20 @@
 2 Deadshot Minotaur
 2 Monstrous Carabid
 2 Architects of Will
-2 Horror of the Broken Lands
 2 Demonic Dread
+2 Horror of the Broken Lands
 2 Simian Spirit Guide
 3 Bloodstained Mire
 3 Wooded Foothills
 3 Fulminator Mage
 3 Demonic Dread
-3 Simian Spirit Guide
 3 Monstrous Carabid
+3 Simian Spirit Guide
 3 Horror of the Broken Lands
 4 Fulminator Mage
-4 Monstrous Carabid
 4 Horror of the Broken Lands
+4 Monstrous Carabid
 4 Simian Spirit Guide
-1 Generous Gift
-1 Failure/Comply
-1 Adarkar Wastes
-2 Imposing Vantasaur
-2 Adarkar Wastes
-2 Generous Gift
-2 Failure/Comply
-3 Imposing Vantasaur
-3 Adarkar Wastes
-4 Imposing Vantasaur
-4 Adarkar Wastes
 1 Glacial Fortress
 2 Glacial Fortress
 3 Glacial Fortress

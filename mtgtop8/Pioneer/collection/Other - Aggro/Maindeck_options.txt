@@ -157,8 +157,8 @@
 2 Forest
 3 Forest
 4 Forest
-1 Sunpetal Grove
 1 Branchloft Pathway
+1 Sunpetal Grove
 1 Fortified Village
 2 Branchloft Pathway
 3 Temple Garden
@@ -179,9 +179,9 @@
 1 Sentinel's Eyes
 2 Adanto Vanguard
 2 Unflinching Courage
-2 Sunpetal Grove
 2 Gladecover Scout
 2 Season of Growth
+2 Sunpetal Grove
 2 All That Glitters
 2 Gryff's Boon
 2 Sentinel's Eyes
@@ -246,14 +246,13 @@
 4 Luminarch Aspirant
 4 Bloodsoaked Champion
 4 Giant Killer
-1 Blood Crypt
 1 Magmatic Channeler
 1 Claim / Fame
-1 Zetalpa, Primal Dawn
-1 Soulflayer
 1 Woodland Cemetery
+1 Soulflayer
 1 Grisly Salvage
 1 Nullhide Ferox
+1 Zetalpa, Primal Dawn
 1 Embodiment of Agonies
 1 Traverse the Ulvenwald
 1 Lurrus of the Dream-Den
@@ -261,25 +260,25 @@
 1 Samut, Voice of Dissent
 1 Grapple with the Past
 1 Stomping Ground
+1 Blood Crypt
 1 Satyr Wayfinder
-2 Overgrown Tomb
 2 Blood Crypt
 2 Woodland Cemetery
 2 Magmatic Channeler
 2 Claim / Fame
-2 Zetalpa, Primal Dawn
 2 Soulflayer
 2 Nullhide Ferox
+2 Zetalpa, Primal Dawn
 2 Grisly Salvage
 2 Lurrus of the Dream-Den
 2 Traverse the Ulvenwald
 2 Satyr Wayfinder
 2 Samut, Voice of Dissent
 2 Embodiment of Agonies
+2 Overgrown Tomb
 2 Stitcher's Supplier
 2 Grapple with the Past
 2 Stomping Ground
-3 Overgrown Tomb
 3 Woodland Cemetery
 3 Magmatic Channeler
 3 Grisly Salvage
@@ -287,6 +286,7 @@
 3 Soulflayer
 3 Traverse the Ulvenwald
 3 Claim / Fame
+3 Overgrown Tomb
 3 Stitcher's Supplier
 3 Satyr Wayfinder
 3 Blooming Marsh
@@ -308,6 +308,7 @@
 3 Elvish Mystic
 4 Llanowar Elves
 1 Starnheim Unleashed
+1 Shefet Dunes
 1 Gideon, Ally of Zendikar
 1 Declaration in Stone
 1 Voice of Resurgence
@@ -315,12 +316,11 @@
 1 Esika's Chariot
 1 Wayfaring Temple
 1 Battle for Bretagard
-1 Shefet Dunes
 1 Conclave Tribunal
 2 Starnheim Unleashed
+2 Fortified Village
 2 Voice of Resurgence
 2 Declaration in Stone
-2 Fortified Village
 2 Conclave Tribunal
 2 Battle for Bretagard
 2 Esika's Chariot
@@ -334,34 +334,34 @@
 3 Battle for Bretagard
 3 Wayfaring Temple
 3 Esika's Chariot
+4 Starnheim Unleashed
 4 Voice of Resurgence
 4 Wayfaring Temple
 4 Conclave Tribunal
 4 Elvish Mystic
 4 Battle for Bretagard
 4 Call of the Conclave
-4 Starnheim Unleashed
 4 Esika's Chariot
 1 Gifted Aetherborn
 1 Champion of Dusk
 1 Sorin, Imperious Bloodlord
 1 Dusk Legion Zealot
-1 Murderous Rider
 1 Bloodchief's Thirst
 1 Blood Baron of Vizkopa
 1 Knight of the Ebon Legion
 1 Isolated Chapel
 1 Kalitas, Traitor of Ghet
+1 Murderous Rider
 2 Blood Baron of Vizkopa
 2 Sorin, Imperious Bloodlord
 2 Champion of Dusk
 2 Dusk Legion Zealot
 2 Gifted Aetherborn
-2 Kalitas, Traitor of Ghet
-2 Murderous Rider
 2 Castle Locthwain
 2 Isolated Chapel
 2 Knight of the Ebon Legion
+2 Murderous Rider
+2 Kalitas, Traitor of Ghet
 3 Gifted Aetherborn
 3 Dusk Legion Zealot
 3 Champion of Dusk
@@ -378,40 +378,40 @@
 5 Swamp
 6 Swamp
 7 Swamp
-1 Nissa, Who Shakes the World
-1 Hydroid Krasis
+1 Hinterland Harbor
 1 Nykthos, Shrine to Nyx
 1 Garruk's Uprising
 1 Voracious Hydra
 1 Vivien, Arkbow Ranger
 1 Steel Leaf Champion
 1 Vorinclex, Monstrous Raider
-1 Barkchannel Pathway
+1 Nissa, Who Shakes the World
 1 Castle Garenbrig
 1 Lovestruck Beast
 1 The Great Henge
+1 Hydroid Krasis
 1 Questing Beast
+1 Barkchannel Pathway
 1 Rhonas the Indomitable
-1 Hinterland Harbor
-2 Nissa, Who Shakes the World
-2 Hydroid Krasis
+2 Hinterland Harbor
 2 Rhonas the Indomitable
 2 Voracious Hydra
 2 Vivien, Arkbow Ranger
 2 Steel Leaf Champion
-2 Nykthos, Shrine to Nyx
-2 Barkchannel Pathway
-2 Hinterland Harbor
 2 Castle Garenbrig
 2 Questing Beast
+2 Hydroid Krasis
+2 Barkchannel Pathway
+2 Nykthos, Shrine to Nyx
 2 Breeding Pool
+2 Nissa, Who Shakes the World
 2 Lovestruck Beast
 2 Vorinclex, Monstrous Raider
-3 Nissa, Who Shakes the World
 3 Steel Leaf Champion
 3 Hinterland Harbor
 3 Breeding Pool
 3 Vivien, Arkbow Ranger
+3 Nissa, Who Shakes the World
 3 Lovestruck Beast
 3 Voracious Hydra
 3 Hydroid Krasis

@@ -48,6 +48,7 @@
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
+1 Irencrag Feat
 1 Bala Ged Recovery
 1 Spikefield Hazard
 1 Valakut Awakening
@@ -56,31 +57,30 @@
 1 Recross the Paths
 1 Desperate Ritual
 1 Pyretic Ritual
-1 Irencrag Feat
+2 Irencrag Feat
+2 Bala Ged Recovery
 2 Valakut Awakening
 2 Spikefield Hazard
 2 Pyretic Ritual
-2 Bala Ged Recovery
-2 Irencrag Feat
 2 Manamorphose
 2 Recross the Paths
 2 Desperate Ritual
+3 Irencrag Feat
 3 Spikefield Hazard
 3 Goblin Charbelcher
 3 Manamorphose
 3 Pact of Negation
-3 Irencrag Feat
 3 Valakut Awakening
 3 Desperate Ritual
 3 Recross the Paths
 3 Bala Ged Recovery
 3 Pyretic Ritual
+4 Irencrag Feat
 4 Spikefield Hazard
 4 Goblin Charbelcher
 4 Manamorphose
 4 Recross the Paths
 4 Valakut Awakening
-4 Irencrag Feat
 4 Pyretic Ritual
 4 Desperate Ritual
 4 Bala Ged Recovery
@@ -141,11 +141,11 @@
 2 Mana Confluence
 4 Force of Negation
 1 Reflecting Pool
-1 Supreme Verdict
-1 Polluted Delta
 1 Zagoth Triome
 1 Savai Triome
+1 Supreme Verdict
 1 Bonecrusher Giant
+1 Polluted Delta
 2 Polluted Delta
 3 Polluted Delta
 3 Brazen Borrower
@@ -158,18 +158,18 @@
 1 Emrakul, the Aeons Torn
 2 Emrakul, the Aeons Torn
 1 Thassa's Oracle
-1 Mystical Dispute
 1 Firespout
+1 Mystical Dispute
 1 Timely Reinforcements
 2 Bonecrusher Giant
 2 Mystical Dispute
 3 Sphere of the Suns
+3 Omnath, Locus of Creation
+3 Dismember
 1 Lovestruck Beast
 2 Lovestruck Beast
 2 Swamp
 3 Lovestruck Beast
-3 Omnath, Locus of Creation
-3 Dismember
 3 Hagra Mauling
 4 Hagra Mauling
 1 Murderous Rider
@@ -187,6 +187,7 @@
 3 Tolaria West
 1 Lonely Sandbar
 1 Lotus Field
+1 Echoing Truth
 1 Serum Visions
 1 Ideas Unbound
 1 Reach Through Mists
@@ -196,7 +197,6 @@
 1 Psychic Puppetry
 1 Grapeshot
 1 Past in Flames
-1 Echoing Truth
 1 Spirebluff Canal
 1 Island
 1 Sleight of Hand
@@ -204,9 +204,8 @@
 1 Merchant Scroll
 1 Peer Through Depths
 1 Vizier of Tumbling Sands
-2 Sleight of Hand
-2 Island
 2 Lonely Sandbar
+2 Island
 2 Psychic Puppetry
 2 Reach Through Mists
 2 Peer Through Depths
@@ -219,6 +218,7 @@
 2 Grapeshot
 2 Twiddle
 2 Past in Flames
+2 Sleight of Hand
 2 Dream's Grip
 3 Sleight of Hand
 3 Serum Visions
@@ -250,14 +250,14 @@
 3 Forest
 1 Tranquil Thicket
 1 Hanweir Battlements
-1 Field of the Dead
 1 Cavern of Souls
 1 Radiant Fountain
 1 Sheltered Thicket
+1 Grove of the Burnwillows
+1 Field of the Dead
+1 Vesuva
 1 Ghost Quarter
 1 Valakut, the Molten Pinnacle
-1 Grove of the Burnwillows
-1 Vesuva
 1 Bojuka Bog
 1 Sunhome, Fortress of the Legion
 1 Slayers' Stronghold
@@ -272,9 +272,9 @@
 1 Gruul Turf
 2 Gruul Turf
 2 Castle Garenbrig
+2 Grove of the Burnwillows
 2 Field of the Dead
 2 Valakut, the Molten Pinnacle
-2 Grove of the Burnwillows
 2 Snow-Covered Forest
 2 Simic Growth Chamber
 3 Gruul Turf
@@ -292,10 +292,10 @@
 1 Fire Prophecy
 1 Dwarven Mine
 1 Polymorph
-1 Transmogrify
 1 Izzet Charm
 1 Spell Snare
 1 Repeal
+1 Transmogrify
 1 Arid Mesa
 1 Remand
 1 Mana Leak
@@ -306,18 +306,18 @@
 2 Cloudform
 2 Polymorph
 2 Dwarven Mine
-2 Transmogrify
 2 Arid Mesa
 2 Raugrin Triome
+2 Transmogrify
 2 Izzet Charm
 2 Spell Snare
 2 Remand
 2 Anger of the Gods
 2 Steam Vents
 2 Lightning Bolt
-3 Transmogrify
 3 Dwarven Mine
 3 Polymorph
+3 Transmogrify
 3 Remand
 3 Arid Mesa
 3 Lightning Bolt
@@ -329,18 +329,18 @@
 1 Commandeer
 1 Warrant / Warden
 1 Far / Away
-2 Supreme Verdict
 2 Commandeer
 2 Far / Away
+2 Supreme Verdict
 2 Warrant / Warden
 3 Supreme Verdict
 4 Brazen Borrower
 1 Pillar of the Paruns
 1 Tendo Ice Bridge
 1 Omniscience
-1 Kozilek, Butcher of Truth
-1 Ulamog, the Infinite Gyre
 1 Emrakul, the Promised End
+1 Ulamog, the Infinite Gyre
+1 Kozilek, Butcher of Truth
 1 Aether Hub
 1 Brilliant Ultimatum
 1 Gemstone Mine
@@ -367,8 +367,8 @@
 3 Brilliant Ultimatum
 4 Omniscience
 4 Pillar of the Paruns
-4 City of Brass
 4 Gemstone Mine
+4 City of Brass
 4 Ulamog, the Infinite Gyre
 4 Aether Hub
 4 Brilliant Ultimatum

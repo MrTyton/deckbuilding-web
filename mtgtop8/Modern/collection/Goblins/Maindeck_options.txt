@@ -1,7 +1,3 @@
-2 Goblin Chieftain
-4 Mogg War Marshal
-4 Mountain
-1 Dragon Fodder
 1 Goblin Wardriver
 1 Goblin Grenade
 2 Goblin Grenade
@@ -10,6 +6,7 @@
 3 Goblin Chieftain
 3 Goblin Bushwhacker
 3 Goblin Wardriver
+4 Mountain
 4 Goblin Chieftain
 4 Goblin Wardriver
 4 Goblin Bushwhacker
@@ -26,16 +23,6 @@
 15 Mountain
 16 Mountain
 17 Mountain
-1 Arid Mesa
-1 Wooded Foothills
-1 Unearth
-1 Fatal Push
-1 Dark Confidant
-1 Prismatic Vista
-2 Agadeem's Awakening
-2 Unearth
-2 Dark Confidant
-2 Fatal Push
 1 Pyre of Heroes
 1 Polluted Delta
 2 Pyre of Heroes
@@ -70,7 +57,11 @@
 1 Tarfire
 1 Krenko, Mob Boss
 2 Swamp
+3 Skirk Prospector
 4 Skirk Prospector
+1 Agadeem's Awakening
+1 Arid Mesa
+4 Cavern of Souls
 1 Ornithopter
 1 Memnite
 1 Goblin Instigator

@@ -1,7 +1,7 @@
+1 Rune of Might
 1 Rune of Sustenance
 1 Gilded Goose
 1 Runeforge Champion
-1 Rune of Mortality
 2 Temple of Plenty
 2 In Search of Greatness
 2 Rune of Might
@@ -13,8 +13,8 @@
 3 Gilded Goose
 3 Runeforge Champion
 4 Setessan Champion
-4 Runeforge Champion
 4 In Search of Greatness
+4 Runeforge Champion
 4 Gilded Goose
 1 Burning-Rune Demon
 1 Agadeem's Awakening
@@ -69,16 +69,16 @@
 2 Emeria's Call
 1 Lukka, Coppercoat Outcast
 2 Lukka, Coppercoat Outcast
+1 Castle Ardenvale
 1 Fire Prophecy
 1 Mountain
-1 Elspeth, Sun's Nemesis
 1 Transmogrify
-1 Outlaws' Merriment
+1 Elspeth, Sun's Nemesis
 1 Forbidden Friendship
 1 Needleverge Pathway
 1 Harmonious Archon
+1 Outlaws' Merriment
 1 Shatterskull Smashing
-1 Castle Ardenvale
 2 Castle Ardenvale
 2 Mountain
 2 Transmogrify
@@ -88,18 +88,18 @@
 2 Needleverge Pathway
 2 Shatterskull Smashing
 2 Harmonious Archon
-3 The Birth of Meletis
 3 Mountain
 3 Fire Prophecy
 3 Transmogrify
 3 Needleverge Pathway
+3 The Birth of Meletis
 3 Harmonious Archon
+4 Transmogrify
 4 Mountain
 4 Fire Prophecy
 4 Needleverge Pathway
 4 The Birth of Meletis
 4 Harmonious Archon
-4 Transmogrify
 1 Solemn Simulacrum
 2 Solemn Simulacrum
 1 Cultivate
@@ -109,9 +109,9 @@
 1 Tergrid, God of Fright
 1 Bala Ged Recovery
 1 Calix, Destiny's Hand
-1 Esika's Chariot
 1 Acolyte of Affliction
 1 Firja's Retribution
+1 Esika's Chariot
 1 Charming Prince
 1 Tangled Florahedron
 2 Tangled Florahedron
@@ -121,25 +121,25 @@
 4 Treacherous Blessing
 4 Tangled Florahedron
 1 Mythos of Nethroi
+2 Golden Egg
 2 Tergrid, God of Fright
 2 Mythos of Nethroi
-2 Golden Egg
 2 Doomskar
 3 Tergrid, God of Fright
 3 Golden Egg
 3 Mythos of Nethroi
-4 Mythos of Nethroi
 4 Tergrid, God of Fright
+4 Mythos of Nethroi
 1 Mazemind Tome
+1 Shatter the Sky
 1 Banishing Light
 1 Skyclave Apparition
 1 Vivien, Monsters' Advocate
 1 Crawling Barrens
-1 Shatter the Sky
 2 Banishing Light
+2 Shatter the Sky
 2 Skyclave Apparition
 2 Crawling Barrens
-2 Shatter the Sky
 3 Temple of Malady
 3 Banishing Light
 3 Skyclave Apparition
@@ -151,13 +151,13 @@
 1 Lithoform Blight
 2 Lithoform Blight
 3 Archon of Sun's Grace
-3 Lithoform Blight
 3 Glass Casket
+3 Lithoform Blight
 4 Archon of Sun's Grace
-4 Heartless Act
 4 Lithoform Blight
 4 Eliminate
 4 Extinction Event
+4 Heartless Act
 5 Swamp
 3 Llanowar Visionary
 1 Snow-Covered Forest
@@ -166,13 +166,14 @@
 2 Snow-Covered Swamp
 3 Snow-Covered Forest
 3 Snow-Covered Swamp
+1 Snowfield Sinkhole
 1 Woodland Chasm
 1 Sculptor of Winter
 1 Evolving Wilds
 1 Arctic Treeline
-1 Great Hall of Starnheim
-1 Skull Raid
 1 Snow-Covered Plains
+1 Skull Raid
+1 Great Hall of Starnheim
 1 Elderfang Disciple
 1 Sarulf's Packmate
 1 Feed the Serpent
@@ -180,22 +181,21 @@
 1 Rampage of the Valkyries
 1 Shepherd of the Flock
 1 Kogla, the Titan Ape
-1 Snowfield Sinkhole
 1 Grasp of Darkness
 1 Omen of the Hunt
+2 Snowfield Sinkhole
 2 Woodland Chasm
 2 Sculptor of Winter
+2 Great Hall of Starnheim
 2 Evolving Wilds
 2 Skull Raid
 2 Arctic Treeline
 2 Elderfang Disciple
 2 Sarulf's Packmate
-2 Great Hall of Starnheim
 2 Omen of the Hunt
 2 Feed the Serpent
 2 Rampage of the Valkyries
 2 Shimmerdrift Vale
-2 Snowfield Sinkhole
 2 Grasp of Darkness
 3 Sculptor of Winter
 3 Skull Raid
@@ -227,23 +227,23 @@
 2 Vorinclex, Monstrous Raider
 1 The Akroan War
 1 Raugrin Triome
-2 Ondu Inversion
 2 The Akroan War
 2 Raugrin Triome
+2 Ondu Inversion
 3 Shatterskull Smashing
 3 Raugrin Triome
 1 Chevill, Bane of Monsters
+1 Hagra Mauling
 1 Easy Prey
 1 The World Tree
 1 Murderous Rider
 1 Agonizing Remorse
-1 Hagra Mauling
 2 Kaya the Inexorable
 2 Chevill, Bane of Monsters
 2 Easy Prey
 2 The World Tree
-2 Murderous Rider
 2 Polukranos, Unchained
+2 Murderous Rider
 2 Agonizing Remorse
 3 Chevill, Bane of Monsters
 3 Murderous Rider
@@ -263,10 +263,10 @@
 1 Cragcrown Pathway
 1 Snow-Covered Mountain
 1 Blightstep Pathway
-2 Liliana, Waker of the Dead
 2 Dream Devourer
 2 Snow-Covered Mountain
 2 Blightstep Pathway
+2 Liliana, Waker of the Dead
 2 Cragcrown Pathway
 3 Lukka, Coppercoat Outcast
 3 Ugin, the Spirit Dragon
