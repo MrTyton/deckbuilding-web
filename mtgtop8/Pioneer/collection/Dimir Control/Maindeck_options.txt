@@ -39,11 +39,11 @@
 2 Void Shatter
 2 Heartless Act
 3 Negate
+1 Tasigur, the Golden Fang
+1 Essence Scatter
 1 Liliana, the Last Hope
 1 Silundi Vision
 1 Syncopate
-1 Essence Scatter
-1 Tasigur, the Golden Fang
 1 Languish
 1 Kalitas, Traitor of Ghet
 2 Syncopate
@@ -54,9 +54,9 @@
 1 Didn't Say Please
 1 Soaring Thought-Thief
 1 Merfolk Windrobber
-1 Urborg, Tomb of Yawgmoth
 1 Thieves' Guild Enforcer
 1 Into the Story
+1 Urborg, Tomb of Yawgmoth
 1 Lullmage's Domination
 1 Of One Mind
 2 Ruin Crab
@@ -87,18 +87,17 @@
 3 Narset, Parter of Veils
 3 Torrential Gearhulk
 4 Narset, Parter of Veils
-1 Bloodchief's Thirst
 1 Choked Estuary
 1 Snow-Covered Mountain
 1 Kolaghan's Command
-1 Duress
 1 Soul-Guide Lantern
+1 Duress
 1 Blood Crypt
 1 Valki, God of Lies
 1 Release to the Wind
 1 Jace, Vryn's Prodigy
 1 Steam Vents
-2 Blood Crypt
+1 Bloodchief's Thirst
 2 Bloodchief's Thirst
 2 Choked Estuary
 2 Duress
@@ -106,10 +105,11 @@
 2 Release to the Wind
 2 Jace, Vryn's Prodigy
 2 Hero's Downfall
-3 Blood Crypt
+2 Blood Crypt
 3 Choked Estuary
 3 Jace, Vryn's Prodigy
 3 Valki, God of Lies
+3 Blood Crypt
 3 Release to the Wind
 4 Choked Estuary
 4 Jace, Vryn's Prodigy

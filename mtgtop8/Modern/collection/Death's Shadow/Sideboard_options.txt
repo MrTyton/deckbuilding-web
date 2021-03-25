@@ -1,19 +1,19 @@
-1 Nihil Spellbomb
-2 Nihil Spellbomb
-1 Angrath's Rampage
-2 Angrath's Rampage
-1 Cleansing Wildfire
-2 Cleansing Wildfire
-1 Abrade
+1 Collective Brutality
+1 Alpine Moon
+1 Deglamer
+1 Pithing Needle
+2 Collective Brutality
+2 Deglamer
+2 Alpine Moon
+3 Kozilek's Return
+3 Deglamer
 1 Veil of Summer
-1 Engineered Explosives
-1 Fatal Push
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 3 Soul-Guide Lantern
+3 Cleansing Wildfire
 2 Veil of Summer
 3 Nihil Spellbomb
-3 Cleansing Wildfire
 1 Assassin's Trophy
 2 Assassin's Trophy
 1 Temur Battle Rage
@@ -23,15 +23,17 @@
 1 Aether Gust
 1 Unravel the Aether
 2 Unravel the Aether
-1 Terminate
 1 Pillage
 1 Molten Rain
+1 Terminate
 2 Molten Rain
 2 Engineered Explosives
+1 Surgical Extraction
+2 Surgical Extraction
 3 Veil of Summer
-1 Bloodchief's Thirst
 1 Slaughter Pact
 1 Inquisition of Kozilek
+1 Bloodchief's Thirst
 1 Spell Pierce
 2 Spell Pierce
 1 Feed the Swarm
@@ -41,9 +43,7 @@
 2 Abrupt Decay
 2 Ancient Grudge
 2 Anger of the Gods
-1 Surgical Extraction
 1 Damping Sphere
-2 Surgical Extraction
 2 Damping Sphere
 1 Stubborn Denial
 1 Disdainful Stroke
@@ -61,13 +61,4 @@
 2 Plague Engineer
 3 Plague Engineer
 4 Plague Engineer
-1 Duress
-1 Blightning
-1 Kaya's Guile
-1 Path to Exile
-2 Bloodchief's Thirst
-2 Abrade
-2 Blightning
-2 Terminate
-2 Kaya's Guile
-2 Path to Exile
+2 Fatal Push

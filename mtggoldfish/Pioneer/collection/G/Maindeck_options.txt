@@ -1,94 +1,66 @@
-1 Cinder Glade
-1 Gruul Spellbreaker
-1 Stomping Ground
-2 Klothys, God of Destiny
-2 Game Trail
-2 Rootbound Crag
-2 Reckless Bushwhacker
-2 Bonecrusher Giant
-2 Gruul Spellbreaker
-2 Stomping Ground
-2 Mountain
-2 Cragcrown Pathway
-2 Atarka's Command
-2 Cinder Glade
-3 Game Trail
-3 Scavenging Ooze
-3 Reckless Bushwhacker
-3 Cragcrown Pathway
-3 Gruul Spellbreaker
-3 Stomping Ground
-3 Bonecrusher Giant
-3 Atarka's Command
-3 Mountain
-4 Bonecrusher Giant
-4 Reckless Bushwhacker
-4 Stomping Ground
-1 Kazandu Mammoth
-1 Llanowar Wastes
-1 Primal Might
-1 Kraul Harpooner
-1 Scrapheap Scrounger
-1 Vivien, Arkbow Ranger
-2 Old-Growth Troll
-2 Kazandu Mammoth
-2 Llanowar Wastes
-2 Scrapheap Scrounger
-2 Kraul Harpooner
-2 Vivien, Arkbow Ranger
-3 Old-Growth Troll
-3 Kazandu Mammoth
-3 Llanowar Wastes
-3 Vivien, Arkbow Ranger
-3 Scrapheap Scrounger
-4 Old-Growth Troll
-4 Kazandu Mammoth
-4 Llanowar Wastes
-4 Scrapheap Scrounger
-9 Forest
-10 Forest
-1 Charming Prince
-1 Worldspine Wurm
-1 Void Winnower
-1 Dragonlord Dromoka
-1 Trostani Discordant
-1 Fortified Village
-1 Zetalpa, Primal Dawn
-1 See the Unwritten
-1 Temple of Plenty
-1 Plains
-1 Dubious Challenge
-1 Paradise Druid
-2 Charming Prince
-2 Void Winnower
-2 Plains
-2 Paradise Druid
-2 Temple of Plenty
-2 Zetalpa, Primal Dawn
-2 Fortified Village
-2 Worldspine Wurm
-2 See the Unwritten
-2 Trostani Discordant
-2 Dubious Challenge
-3 Charming Prince
-3 Temple of Plenty
-3 Trostani Discordant
-3 See the Unwritten
-3 Dubious Challenge
-3 Plains
-3 Paradise Druid
-3 Worldspine Wurm
-3 Fortified Village
-4 Plains
-4 Charming Prince
-4 Temple of Plenty
-4 Worldspine Wurm
-4 Trostani Discordant
-4 See the Unwritten
-4 Fortified Village
-4 Dubious Challenge
-4 Paradise Druid
-5 Plains
+1 Overgrown Tomb
+1 Blooming Marsh
+2 Overgrown Tomb
+2 Blooming Marsh
+3 Overgrown Tomb
+3 Blooming Marsh
+1 Breeding Pool
+1 Sentinel Sliver
+1 Botanical Sanctum
+1 Leeching Sliver
+1 Diffusion Sliver
+1 Syphon Sliver
+1 Galerider Sliver
+1 Island
+1 Manaweft Sliver
+1 Thoughtseize
+1 Unclaimed Territory
+1 Sliver Hive
+1 Predatory Sliver
+1 Blur Sliver
+1 Striking Sliver
+1 Venom Sliver
+2 Breeding Pool
+2 Botanical Sanctum
+2 Syphon Sliver
+2 Leeching Sliver
+2 Diffusion Sliver
+2 Thoughtseize
+2 Striking Sliver
+2 Sliver Hive
+2 Venom Sliver
+2 Unclaimed Territory
+2 Manaweft Sliver
+2 Predatory Sliver
+2 Blur Sliver
+2 Galerider Sliver
+2 Sentinel Sliver
+3 Breeding Pool
+3 Botanical Sanctum
+3 Leeching Sliver
+3 Blur Sliver
+3 Striking Sliver
+3 Syphon Sliver
+3 Sliver Hive
+3 Manaweft Sliver
+3 Galerider Sliver
+3 Unclaimed Territory
+3 Predatory Sliver
+3 Diffusion Sliver
+4 Predatory Sliver
+4 Leeching Sliver
+4 Unclaimed Territory
+4 Sliver Hive
+4 Galerider Sliver
+4 Manaweft Sliver
+1 Steel Leaf Champion
+1 Nykthos, Shrine to Nyx
+2 Steel Leaf Champion
+2 Nykthos, Shrine to Nyx
+3 Steel Leaf Champion
+4 Steel Leaf Champion
+4 Elvish Mystic
+4 Llanowar Elves
 1 Snow-Covered Forest
 1 Darkbore Pathway
 1 Harald, King of Skemfar
@@ -109,38 +81,52 @@
 2 Dwynen's Elite
 3 Snow-Covered Forest
 3 Elvish Clancaller
-3 Elvish Warmaster
 3 Dwynen's Elite
 3 Darkbore Pathway
 3 Shaman of the Pack
+3 Elvish Warmaster
 4 Snow-Covered Forest
+4 Overgrown Tomb
+4 Blooming Marsh
 4 Elvish Clancaller
+4 Darkbore Pathway
 4 Elvish Warmaster
 4 Shaman of the Pack
-4 Darkbore Pathway
 4 Dwynen's Elite
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest
 8 Snow-Covered Forest
+1 Hashep Oasis
 1 Yorvo, Lord of Garenbrig
-1 Surrak, the Hunt Caller
 1 Ghalta, Primal Hunger
 1 Aspect of Hydra
+1 Lovestruck Beast
+1 Surrak, the Hunt Caller
+1 The Great Henge
+2 Hashep Oasis
 2 Rhonas the Indomitable
 2 Yorvo, Lord of Garenbrig
+2 Lovestruck Beast
 2 Ghalta, Primal Hunger
 2 The Great Henge
-2 Aspect of Hydra
 2 Surrak, the Hunt Caller
+2 Aspect of Hydra
 3 Hashep Oasis
 3 The Great Henge
+3 Lovestruck Beast
+3 Ghalta, Primal Hunger
+3 Surrak, the Hunt Caller
 3 Nykthos, Shrine to Nyx
 3 Aspect of Hydra
-3 Surrak, the Hunt Caller
-3 Ghalta, Primal Hunger
+4 Lovestruck Beast
 4 Aspect of Hydra
 4 Hashep Oasis
+6 Forest
+7 Forest
+8 Forest
+9 Forest
+10 Forest
 11 Forest
 12 Forest
 13 Forest

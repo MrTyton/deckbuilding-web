@@ -1,8 +1,8 @@
 1 Seal of Fire
 1 Spreading Seas
 2 Spreading Seas
-3 Skyclave Apparition
 3 Spreading Seas
+3 Skyclave Apparition
 4 Spreading Seas
 2 Snow-Covered Forest
 1 Raugrin Triome
@@ -18,6 +18,7 @@
 1 Plains
 1 Island
 1 Omnath, Locus of Creation
+1 Dreadbore
 1 Bring to Light
 1 Godless Shrine
 1 Wrenn and Six
@@ -25,7 +26,6 @@
 1 Niv-Mizzet Reborn
 1 Assassin's Trophy
 1 Lightning Helix
-1 Dreadbore
 1 Supreme Verdict
 2 Wrenn and Six
 2 Lightning Helix
@@ -182,10 +182,8 @@
 1 Reidane, God of the Worthy
 1 Spike Feeder
 1 Heliod, Sun-Crowned
-3 Omen of the Forge
-4 Omen of the Forge
-1 Highland Forest
 1 Rimewood Falls
+1 Highland Forest
 1 Golos, Tireless Pilgrim
 1 Huntmaster of the Fells
 1 Kaya, Orzhov Usurper
@@ -196,6 +194,8 @@
 3 Verdant Catacombs
 4 Felidar Guardian
 4 Oath of Nissa
+3 Omen of the Forge
+4 Omen of the Forge
 1 Scalding Tarn
 4 Growth Spiral
 1 Savai Triome

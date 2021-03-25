@@ -1,3 +1,11 @@
+1 Snow-Covered Mountain
+1 Flame Slash
+2 Snow-Covered Mountain
+2 Flame Slash
+3 Flame Slash
+3 Snow-Covered Mountain
+4 Flame Slash
+4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
@@ -6,30 +14,91 @@
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
 12 Snow-Covered Mountain
+13 Mountain
+14 Mountain
+15 Mountain
+16 Mountain
+1 Soul-Scar Mage
+1 Mishra's Bauble
+2 Mishra's Bauble
+2 Soul-Scar Mage
+3 Mishra's Bauble
+3 Soul-Scar Mage
+4 Mishra's Bauble
+4 Soul-Scar Mage
+1 Wooded Foothills
+1 Stomping Ground
+2 Wooded Foothills
+2 Stomping Ground
+3 Wooded Foothills
+4 Wooded Foothills
+1 Abrade
+2 Abrade
+3 Abrade
+4 Abrade
 1 Forgotten Cave
 1 Pyrite Spellbomb
-1 Lava Dart
 2 Forgotten Cave
 2 Pyrite Spellbomb
-2 Lava Dart
 3 Forgotten Cave
 3 Pyrite Spellbomb
-3 Lava Dart
 4 Forgotten Cave
-4 Lava Dart
 4 Pyrite Spellbomb
+1 Forest
+1 Wrenn and Six
+1 Tarfire
+1 Akoum Hellhound
+1 Brushfire Elemental
+1 Tarmogoyf
+1 Copperline Gorge
+1 Sunbaked Canyon
+1 Arid Mesa
+1 Seal of Fire
+2 Wrenn and Six
+2 Sunbaked Canyon
+2 Akoum Hellhound
+2 Brushfire Elemental
+2 Copperline Gorge
+2 Arid Mesa
+2 Tarmogoyf
+2 Seal of Fire
+3 Arid Mesa
+3 Wrenn and Six
+3 Akoum Hellhound
+3 Copperline Gorge
+3 Brushfire Elemental
+3 Tarmogoyf
+4 Copperline Gorge
+4 Akoum Hellhound
+4 Tarmogoyf
+1 Crash Through
+1 Nivmagus Elemental
+1 Ground Rift
+1 Kiln Fiend
+1 Gut Shot
+1 Manamorphose
+2 Manamorphose
+2 Crash Through
+2 Nivmagus Elemental
+2 Gut Shot
+2 Ground Rift
+2 Kiln Fiend
+3 Manamorphose
+3 Nivmagus Elemental
+3 Ground Rift
+3 Crash Through
+4 Manamorphose
+4 Nivmagus Elemental
+4 Ground Rift
+4 Crash Through
 1 Goblin Cratermaker
 1 Spikefield Hazard
-1 Light Up the Stage
 2 Spikefield Hazard
-2 Light Up the Stage
 2 Goblin Cratermaker
 3 Goblin Cratermaker
 3 Spikefield Hazard
-3 Light Up the Stage
 4 Spikefield Hazard
 4 Goblin Cratermaker
-4 Light Up the Stage
 1 Figure of Destiny
 2 Figure of Destiny
 3 Figure of Destiny
@@ -38,11 +107,31 @@
 14 Snow-Covered Mountain
 15 Snow-Covered Mountain
 16 Snow-Covered Mountain
-1 Abrade
-2 Abrade
-3 Abrade
-4 Abrade
-13 Mountain
-14 Mountain
-15 Mountain
-16 Mountain
+1 Dreadhorde Arcanist
+1 Scalding Tarn
+1 Wayward Guide-Beast
+1 Bloodstained Mire
+1 Become Immense
+1 Fiery Islet
+1 Lava Spike
+1 Scale Up
+1 Goblin Guide
+2 Dreadhorde Arcanist
+2 Fiery Islet
+2 Scalding Tarn
+2 Wayward Guide-Beast
+2 Bloodstained Mire
+2 Become Immense
+2 Lava Spike
+2 Goblin Guide
+3 Bloodstained Mire
+3 Scalding Tarn
+3 Wayward Guide-Beast
+3 Lava Spike
+3 Become Immense
+3 Goblin Guide
+4 Bloodstained Mire
+4 Wayward Guide-Beast
+4 Become Immense
+4 Lava Spike
+4 Goblin Guide
