@@ -3,8 +3,6 @@
 1 Forest
 2 Watery Grave
 4 Shark Typhoon
-1 Negate
-2 Negate
 1 Castle Vantress
 1 Wilderness Reclamation
 1 Shadows' Verdict
@@ -14,56 +12,64 @@
 2 Wilderness Reclamation
 2 Shadows' Verdict
 2 Uro, Titan of Nature's Wrath
+2 Forest
 2 Censor
 2 Island
+3 Wilderness Reclamation
 3 Uro, Titan of Nature's Wrath
+1 Negate
+2 Negate
+2 Castle Locthwain
 3 Watery Grave
+1 Blooming Marsh
 1 Chemister's Insight
 1 Sinister Sabotage
-2 Sinister Sabotage
-3 Sinister Sabotage
-4 Sinister Sabotage
-2 Forest
-3 Wilderness Reclamation
-1 Hinterland Harbor
-1 Drowned Catacomb
-2 Hinterland Harbor
-2 Drowned Catacomb
-1 Thassa's Intervention
-4 Fabled Passage
-2 Castle Locthwain
-1 Blooming Marsh
 1 Search for Azcanta
 1 Dig Through Time
 1 Blast Zone
 2 Castle Vantress
+2 Sinister Sabotage
+3 Sinister Sabotage
 4 Uro, Titan of Nature's Wrath
+4 Sinister Sabotage
+1 Hinterland Harbor
 1 Mystical Dispute
-2 Thassa's Intervention
-3 Thassa's Intervention
-3 Hinterland Harbor
-3 Island
-3 Censor
-4 Censor
-4 Hinterland Harbor
-1 Opt
-2 Opt
-3 Opt
-4 Opt
+1 Drowned Catacomb
+2 Hinterland Harbor
+2 Drowned Catacomb
+1 Thassa's Intervention
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
+4 Fabled Passage
 1 Fetid Pools
 1 Botanical Sanctum
 2 Blast Zone
 2 Blooming Marsh
+3 Breeding Pool
+4 Watery Grave
+1 Tasigur, the Golden Fang
+1 Pull from Tomorrow
+2 Thassa's Intervention
+2 Mystical Dispute
+3 Bloodchief's Thirst
+3 Thassa's Intervention
+3 Hinterland Harbor
+3 Mystical Dispute
+3 Island
+3 Censor
+4 Bloodchief's Thirst
+4 Hinterland Harbor
+4 Mystical Dispute
+4 Censor
 1 Liliana, the Last Hope
 1 Cling to Dust
 1 Languish
+1 Blightstep Pathway
 1 Darkbore Pathway
 1 Valki, God of Lies
 1 Urborg, Tomb of Yawgmoth
+1 Opt
 1 Bring to Light
-1 Blightstep Pathway
 2 Liliana, the Last Hope
 2 Cling to Dust
 2 Bring to Light
@@ -71,17 +77,9 @@
 2 Blightstep Pathway
 2 Swamp
 2 Darkbore Pathway
+2 Opt
 3 Bring to Light
 3 Valki, God of Lies
+3 Opt
 4 Bring to Light
-3 Breeding Pool
-4 Watery Grave
-1 Tasigur, the Golden Fang
-1 Pull from Tomorrow
-2 Mystical Dispute
-3 Bloodchief's Thirst
-3 Mystical Dispute
-4 Bloodchief's Thirst
-4 Mystical Dispute
-1 Narset, Parter of Veils
-4 Thassa's Intervention
+4 Opt

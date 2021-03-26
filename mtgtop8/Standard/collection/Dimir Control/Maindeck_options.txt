@@ -1,10 +1,11 @@
-6 Island
 4 Merfolk Windrobber
-1 Disdainful Stroke
-2 Eliminate
 5 Swamp
-1 Essence Scatter
 3 Of One Mind
+6 Island
+2 Eliminate
+1 Disdainful Stroke
+1 Essence Scatter
+2 Lullmage's Domination
 3 Agadeem's Awakening
 4 Heartless Act
 1 Erebos's Intervention
@@ -23,14 +24,14 @@
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 4 Snow-Covered Island
-5 Snow-Covered Island
 5 Snow-Covered Swamp
+5 Snow-Covered Island
 6 Snow-Covered Swamp
 6 Snow-Covered Island
 2 Negate
 3 Negate
-1 Shadows' Verdict
 1 Soul Shatter
+1 Shadows' Verdict
 2 Shadows' Verdict
 1 Behold the Multiverse
 2 Behold the Multiverse
@@ -46,17 +47,15 @@
 1 Castle Vantress
 3 Eliminate
 3 Erebos's Intervention
-2 Lullmage's Domination
-1 Castle Locthwain
-1 Dead Weight
+1 Mystical Dispute
 2 Disdainful Stroke
 1 Ice Tunnel
 2 Ice Tunnel
 3 Ice Tunnel
 4 Ice Tunnel
 7 Snow-Covered Swamp
-1 Midnight Clock
 1 Graven Lore
+1 Midnight Clock
 2 Midnight Clock
 2 Graven Lore
 1 Cling to Dust
@@ -73,85 +72,87 @@
 3 Shadows' Verdict
 3 Mazemind Tome
 4 Mazemind Tome
+1 Dead Weight
 7 Island
 1 Elspeth's Nightmare
 2 Elspeth's Nightmare
 1 Blood on the Snow
 1 Ashiok, Nightmare Muse
-8 Snow-Covered Island
 8 Snow-Covered Swamp
+8 Snow-Covered Island
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
 1 Thassa, Deep-Dwelling
-1 Atris, Oracle of Half-Truths
-1 Solemn Simulacrum
 1 Burning-Rune Demon
+1 Solemn Simulacrum
 1 Pharika's Libation
+1 Atris, Oracle of Half-Truths
 2 Blood on the Snow
-2 Ashiok, Nightmare Muse
-2 Atris, Oracle of Half-Truths
 2 Solemn Simulacrum
-2 Burning-Rune Demon
+2 Ashiok, Nightmare Muse
 2 Pharika's Libation
+2 Burning-Rune Demon
+2 Atris, Oracle of Half-Truths
 3 Blood on the Snow
-3 Atris, Oracle of Half-Truths
 3 Solemn Simulacrum
+3 Atris, Oracle of Half-Truths
+4 Shadows' Verdict
 4 Solemn Simulacrum
 4 Blood on the Snow
-4 Shadows' Verdict
-4 Atris, Oracle of Half-Truths
 4 Negate
+4 Atris, Oracle of Half-Truths
 9 Snow-Covered Island
 10 Snow-Covered Island
+3 Bloodchief's Thirst
 1 Crippling Fear
 1 Dismal Backwater
 3 Jwari Disruption
 2 Castle Vantress
 1 Brazen Borrower
-1 Mystical Dispute
+1 Call of the Death-Dweller
+1 Castle Locthwain
 1 Suffocating Fumes
 4 Zagoth Triome
 2 Dead Weight
 1 Murderous Rider
-3 Bloodchief's Thirst
+1 Sea Gate Restoration
+1 Field of Ruin
+2 Sea Gate Restoration
+2 Soul Shatter
+2 Field of Ruin
+3 Disdainful Stroke
+3 Soul Shatter
+3 Field of Ruin
+4 Eliminate
+4 Soul Shatter
+4 Disdainful Stroke
 2 Murderous Rider
 3 Extinction Event
-3 Elspeth's Nightmare
 3 Graven Lore
+3 Elspeth's Nightmare
 4 Elspeth's Nightmare
 4 Extinction Event
 4 Jwari Disruption
 4 Graven Lore
-1 Sea Gate Restoration
-1 Field of Ruin
-2 Soul Shatter
-2 Sea Gate Restoration
-2 Field of Ruin
-3 Soul Shatter
-3 Disdainful Stroke
-3 Field of Ruin
-4 Eliminate
-4 Disdainful Stroke
-4 Soul Shatter
-1 Vantress Gargoyle
 1 Lofty Denial
+1 Vantress Gargoyle
 2 Lofty Denial
 2 Vantress Gargoyle
 2 Dismal Backwater
-3 Lofty Denial
 3 Vantress Gargoyle
+3 Lofty Denial
 3 Dismal Backwater
+4 Vantress Gargoyle
 4 Lofty Denial
 4 Dismal Backwater
-4 Vantress Gargoyle
 8 Island
 9 Island
-1 Call of the Death-Dweller
 1 Lurrus of the Dream-Den
 2 Ugin, the Spirit Dragon
 2 Suffocating Fumes
 1 Fae of Wishes
 2 Crippling Fear
+2 Mystical Dispute
 1 Malakir Rebirth
 1 Brinebarrow Intruder
 1 Zulaport Duelist
@@ -162,33 +163,33 @@
 3 Brinebarrow Intruder
 4 Bloodchief's Thirst
 4 Agadeem's Awakening
+1 Ashiok's Erasure
+1 Rewind
+2 Brazen Borrower
+3 Brazen Borrower
+4 Erebos's Intervention
+4 Brazen Borrower
 1 Mire Triton
+1 Feed the Swarm
 1 Skull Raid
 1 Priest of the Haunted Edge
-1 Feed the Swarm
 1 Draugr Thought-Thief
 1 Jarl of the Forsaken
 1 Narfi, Betrayer King
 1 Gray Merchant of Asphodel
 1 Grim Physician
 2 Mire Triton
-2 Feed the Swarm
 2 Essence Scatter
+2 Feed the Swarm
 2 Priest of the Haunted Edge
 2 Gray Merchant of Asphodel
 2 Jarl of the Forsaken
 2 Draugr Thought-Thief
 2 Narfi, Betrayer King
-3 Mire Triton
-3 Draugr Thought-Thief
-3 Priest of the Haunted Edge
 3 Narfi, Betrayer King
-4 Draugr Thought-Thief
+3 Mire Triton
+3 Priest of the Haunted Edge
+3 Draugr Thought-Thief
 4 Priest of the Haunted Edge
+4 Draugr Thought-Thief
 11 Snow-Covered Swamp
-1 Rewind
-1 Ashiok's Erasure
-2 Brazen Borrower
-3 Brazen Borrower
-4 Erebos's Intervention
-4 Brazen Borrower

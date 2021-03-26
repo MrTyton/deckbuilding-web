@@ -75,6 +75,6 @@
 |                    3|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)             |                     |                                                                                             |
 |                    3|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413634)               |                     |                                                                                             |
 |                    4|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)             |                     |                                                                                             |
-|                    4|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413634)               |                     |                                                                                             |
 |                    4|[Polluted Delta](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405104)                |                     |                                                                                             |
+|                    4|[Hymn to Tourach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413634)               |                     |                                                                                             |
 

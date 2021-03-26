@@ -4,8 +4,8 @@
 1 Chrome Mox
 2 Chrome Mox
 3 Chrome Mox
-1 Batterskull
 1 Stoneforge Mystic
+1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 1 Windswept Heath
@@ -24,26 +24,24 @@
 1 Simian Spirit Guide
 1 Blood Sun
 1 Seasoned Pyromancer
-1 Trinisphere
 1 Legion Warboss
-1 Winota, Joiner of Forces
 1 Mountain
+1 Winota, Joiner of Forces
 1 Battlefield Forge
+1 Trinisphere
 1 Plateau
 1 Goblin Rabblemaster
 1 Angrath's Marauders
 2 Simian Spirit Guide
 2 Blood Sun
 2 Seasoned Pyromancer
-2 City of Traitors
-2 Trinisphere
 2 Plateau
 2 Winota, Joiner of Forces
 2 Legion Warboss
+2 Trinisphere
 2 Goblin Rabblemaster
+2 City of Traitors
 2 Angrath's Marauders
-3 Trinisphere
-3 City of Traitors
 3 Seasoned Pyromancer
 3 Simian Spirit Guide
 3 Winota, Joiner of Forces
@@ -51,11 +49,13 @@
 3 Plateau
 3 Angrath's Marauders
 3 Goblin Rabblemaster
+3 City of Traitors
+3 Trinisphere
 4 Legion Warboss
-4 City of Traitors
 4 Plateau
-4 Winota, Joiner of Forces
 4 Simian Spirit Guide
+4 Winota, Joiner of Forces
+4 City of Traitors
 4 Goblin Rabblemaster
 4 Angrath's Marauders
 3 Thalia, Heretic Cathar
@@ -79,20 +79,20 @@
 2 Umezawa's Jitte
 2 Brushland
 3 Brushland
-1 Urborg, Tomb of Yawgmoth
 1 Caves of Koilos
 1 Plague Engineer
+1 Urborg, Tomb of Yawgmoth
 2 Caves of Koilos
 2 Plague Engineer
 3 Caves of Koilos
 4 Caves of Koilos
 7 Plains
-1 Phyrexian Revoker
 1 Ghost Quarter
+1 Phyrexian Revoker
 1 Aven Mindcensor
 1 Vryn Wingmare
-2 Phyrexian Revoker
 2 Aven Mindcensor
+2 Phyrexian Revoker
 2 Ghost Quarter
 2 Vryn Wingmare
 3 Sanctum Prelate
@@ -105,16 +105,16 @@
 1 Eye of Ugin
 2 Eye of Ugin
 1 Council's Judgment
+1 Sword of Feast and Famine
 1 Oblivion Ring
 1 Magus of the Moon
 1 Sunbaked Canyon
 1 Embercleave
 1 Godo, Bandit Warlord
 1 Talisman of Conviction
-1 Sword of Feast and Famine
 1 Emeria's Call
-2 Horizon Canopy
 2 Silent Clearing
+2 Horizon Canopy
 1 Skyclave Apparition
 2 Skyclave Apparition
 1 Archon of Emeria
@@ -125,14 +125,14 @@
 1 Swamp
 1 Agonizing Remorse
 2 Wasteland Strangler
-2 Agonizing Remorse
 2 Marsh Flats
+2 Agonizing Remorse
 3 Agonizing Remorse
 3 Wasteland Strangler
 3 Marsh Flats
+4 Marsh Flats
 4 Wasteland Strangler
 4 Agonizing Remorse
-4 Marsh Flats
 1 Matter Reshaper
 1 Endless One
 1 Eldrazi Mimic

@@ -57,9 +57,9 @@
 1 Ornithopter
 1 Darksteel Citadel
 1 Curious Obsession
-1 Spire of Industry
 1 Selfless Savior
 1 Gingerbrute
+1 Spire of Industry
 1 Alseid of Life's Bounty
 1 Ethereal Armor
 1 All That Glitters
@@ -69,8 +69,8 @@
 2 Ornithopter
 2 Curious Obsession
 2 Selfless Savior
-2 Spire of Industry
 2 Gingerbrute
+2 Spire of Industry
 2 Alseid of Life's Bounty
 2 Ensoul Artifact
 2 Ethereal Armor
@@ -119,11 +119,11 @@
 2 Mire's Grasp
 2 Brightclimb Pathway
 2 Hateful Eidolon
-3 Mire's Grasp
-3 Brightclimb Pathway
 3 Hateful Eidolon
-4 Hateful Eidolon
+3 Brightclimb Pathway
+3 Mire's Grasp
 4 Brightclimb Pathway
+4 Hateful Eidolon
 3 Narset, Parter of Veils
 4 Omen of the Sea
 1 Staggering Insight
@@ -203,6 +203,16 @@
 1 Stubborn Denial
 2 Stubborn Denial
 3 Stubborn Denial
+1 Sphinx of the Final Word
+1 Anticognition
+1 Pearl Lake Ancient
+1 Brazen Borrower
+1 Seal Away
+1 Fumigate
+2 Brazen Borrower
+2 Anticognition
+2 Seal Away
+3 Anticognition
 1 Approach of the Second Sun
 1 Supreme Will
 1 Teferi, Master of Time
@@ -218,16 +228,6 @@
 2 Saw It Coming
 2 Approach of the Second Sun
 3 Approach of the Second Sun
-1 Sphinx of the Final Word
-1 Pearl Lake Ancient
-1 Brazen Borrower
-1 Seal Away
-1 Fumigate
-1 Anticognition
-2 Brazen Borrower
-2 Seal Away
-2 Anticognition
-3 Anticognition
 1 Temple of Deceit
 1 Spell Queller
 1 Prairie Stream
@@ -250,8 +250,8 @@
 1 Horribly Awry
 1 Jwari Disruption
 2 Jwari Disruption
-2 Horribly Awry
 2 Whirlwind Denial
+2 Horribly Awry
 3 Jwari Disruption
 3 Dovin's Veto
 4 Jwari Disruption

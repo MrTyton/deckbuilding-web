@@ -57,6 +57,6 @@
 |                    2|[Kazandu Mammoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491835)      |                     |                                                                                                 |
 |                    3|[Inspiring Vantage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417819)    |                     |                                                                                                 |
 |                    3|[Kazandu Mammoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491835)      |                     |                                                                                                 |
-|                    4|[Inspiring Vantage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417819)    |                     |                                                                                                 |
 |                    4|[Kazandu Mammoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491835)      |                     |                                                                                                 |
+|                    4|[Inspiring Vantage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417819)    |                     |                                                                                                 |
 

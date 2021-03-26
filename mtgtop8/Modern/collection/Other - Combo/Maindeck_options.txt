@@ -48,8 +48,8 @@
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
-1 Irencrag Feat
 1 Bala Ged Recovery
+1 Irencrag Feat
 1 Spikefield Hazard
 1 Valakut Awakening
 1 Reforge the Soul
@@ -58,8 +58,8 @@
 1 Desperate Ritual
 1 Pyretic Ritual
 2 Irencrag Feat
-2 Bala Ged Recovery
 2 Valakut Awakening
+2 Bala Ged Recovery
 2 Spikefield Hazard
 2 Pyretic Ritual
 2 Manamorphose
@@ -75,12 +75,12 @@
 3 Recross the Paths
 3 Bala Ged Recovery
 3 Pyretic Ritual
-4 Irencrag Feat
 4 Spikefield Hazard
 4 Goblin Charbelcher
 4 Manamorphose
 4 Recross the Paths
 4 Valakut Awakening
+4 Irencrag Feat
 4 Pyretic Ritual
 4 Desperate Ritual
 4 Bala Ged Recovery
@@ -132,8 +132,8 @@
 3 Blackcleave Cliffs
 3 Bloodbraid Elf
 3 Seasoned Pyromancer
-4 Seasoned Pyromancer
 4 Demonic Dread
+4 Seasoned Pyromancer
 4 Verdant Catacombs
 4 Bloodbraid Elf
 4 Blackcleave Cliffs
@@ -164,12 +164,12 @@
 2 Bonecrusher Giant
 2 Mystical Dispute
 3 Sphere of the Suns
-3 Omnath, Locus of Creation
-3 Dismember
 1 Lovestruck Beast
 2 Lovestruck Beast
 2 Swamp
 3 Lovestruck Beast
+3 Omnath, Locus of Creation
+3 Dismember
 3 Hagra Mauling
 4 Hagra Mauling
 1 Murderous Rider
@@ -187,7 +187,6 @@
 3 Tolaria West
 1 Lonely Sandbar
 1 Lotus Field
-1 Echoing Truth
 1 Serum Visions
 1 Ideas Unbound
 1 Reach Through Mists
@@ -197,6 +196,7 @@
 1 Psychic Puppetry
 1 Grapeshot
 1 Past in Flames
+1 Echoing Truth
 1 Spirebluff Canal
 1 Island
 1 Sleight of Hand
@@ -248,15 +248,15 @@
 4 Emrakul, the Aeons Torn
 1 Windswept Heath
 3 Forest
-1 Tranquil Thicket
 1 Hanweir Battlements
-1 Cavern of Souls
+1 Tranquil Thicket
 1 Radiant Fountain
+1 Cavern of Souls
 1 Sheltered Thicket
 1 Grove of the Burnwillows
 1 Field of the Dead
-1 Vesuva
 1 Ghost Quarter
+1 Vesuva
 1 Valakut, the Molten Pinnacle
 1 Bojuka Bog
 1 Sunhome, Fortress of the Legion
@@ -291,40 +291,40 @@
 4 Leyline of Sanctity
 1 Fire Prophecy
 1 Dwarven Mine
-1 Polymorph
 1 Izzet Charm
 1 Spell Snare
 1 Repeal
 1 Transmogrify
 1 Arid Mesa
 1 Remand
+1 Polymorph
 1 Mana Leak
 1 Bloodstained Mire
 1 Sacred Foundry
 1 Anger of the Gods
 1 Cloudform
-2 Cloudform
-2 Polymorph
-2 Dwarven Mine
 2 Arid Mesa
 2 Raugrin Triome
-2 Transmogrify
 2 Izzet Charm
 2 Spell Snare
 2 Remand
+2 Dwarven Mine
 2 Anger of the Gods
 2 Steam Vents
+2 Cloudform
+2 Transmogrify
 2 Lightning Bolt
-3 Dwarven Mine
-3 Polymorph
-3 Transmogrify
+2 Polymorph
 3 Remand
 3 Arid Mesa
+3 Transmogrify
 3 Lightning Bolt
+3 Polymorph
+3 Dwarven Mine
 3 Steam Vents
-4 Dwarven Mine
-4 Polymorph
 4 Arid Mesa
+4 Polymorph
+4 Dwarven Mine
 4 Remand
 1 Commandeer
 1 Warrant / Warden
@@ -365,10 +365,10 @@
 3 Kozilek, Butcher of Truth
 3 Aether Hub
 3 Brilliant Ultimatum
+4 City of Brass
 4 Omniscience
 4 Pillar of the Paruns
 4 Gemstone Mine
-4 City of Brass
 4 Ulamog, the Infinite Gyre
 4 Aether Hub
 4 Brilliant Ultimatum
