@@ -1,7 +1,7 @@
 # Mono-Green Midrange
 
 #### [Export MTGO List](../collection/Mono-Green%20Midrange/Mono-Green%20Midrange.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Burning-Tree%20Emissary%0A4%09Castle%20Garenbrig%0A4%09Elvish%20Mystic%0A15%09Forest%0A4%09Jadelight%20Ranger%0A4%09Llanowar%20Elves%0A4%09Nissa,%20Who%20Shakes%20the%20World%0A4%09Nykthos,%20Shrine%20to%20Nyx%0A4%09Oath%20of%20Nissa%0A2%09Scavenging%20Ooze%0A4%09Vivien,%20Arkbow%20Ranger%0A4%09Voracious%20Hydra%0A3%09Vorinclex,%20Monstrous%20Raider&deckside=2%09Damping%20Sphere%0A3%09Grafdigger's%20Cage%0A1%09Mistcutter%20Hydra%0A1%09Questing%20Beast%0A2%09Reclamation%20Sage%0A1%09Scavenging%20Ooze%0A1%09Setessan%20Petitioner%0A2%09Shifting%20Ceratops%0A1%09Sylvan%20Primordial%0A1%09Ulamog,%20the%20Ceaseless%20Hunger)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Burning-Tree%20Emissary%0A4%09Castle%20Garenbrig%0A4%09Elvish%20Mystic%0A15%09Forest%0A4%09Jadelight%20Ranger%0A4%09Llanowar%20Elves%0A4%09Nissa,%20Who%20Shakes%20the%20World%0A4%09Nykthos,%20Shrine%20to%20Nyx%0A4%09Oath%20of%20Nissa%0A2%09Scavenging%20Ooze%0A4%09Vivien,%20Arkbow%20Ranger%0A4%09Voracious%20Hydra%0A3%09Vorinclex,%20Monstrous%20Raider&deckside=2%09Damping%20Sphere%0A3%09Grafdigger's%20Cage%0A1%09Mistcutter%20Hydra%0A1%09Oblivion%20Sower%0A1%09Questing%20Beast%0A2%09Reclamation%20Sage%0A1%09Scavenging%20Ooze%0A1%09Setessan%20Petitioner%0A2%09Shifting%20Ceratops%0A1%09Ulamog,%20the%20Ceaseless%20Hunger)
 # Maindeck
 
 |                                             Creature (25)                                              |                                     Enchantment (4)                                      |                                             Land (23)                                             |                                            Planeswalker (8)                                            |
@@ -20,12 +20,12 @@
 |                                         Artifact (5)                                         |                                              Creature (10)                                              |
 |----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
 |2 [Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)   |1 [Mistcutter Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373727)            |
-|3 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|1 [Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)              |
+|3 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|1 [Oblivion Sower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401972)              |
+|                                                                                              |1 [Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)              |
 |                                                                                              |2 [Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)            |
 |                                                                                              |1 [Scavenging Ooze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420783)             |
 |                                                                                              |1 [Setessan Petitioner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476450)         |
 |                                                                                              |2 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)           |
-|                                                                                              |1 [Sylvan Primordial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366282)           |
 |                                                                                              |1 [Ulamog, the Ceaseless Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402079)|
 
 
@@ -33,7 +33,7 @@
 
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                             |*n*<sup>th</sup> copy|                                             Sideboard Card                                             |
 |--------------------:|------------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------------|
-|                    1|[Nissa, Voice of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417424)   |                    1|[Oblivion Sower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401972)               |
+|                    1|[Nissa, Voice of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417424)   |                    1|[Sylvan Primordial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366282)            |
 |                    2|[Nissa, Voice of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417424)   |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)           |
 |                    3|[Nissa, Voice of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417424)   |                    1|[Kogla, the Titan Ape](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479682)         |
 |                    1|[Genesis Hydra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438729)              |                    1|[Decimator of the Provinces](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414291)   |
