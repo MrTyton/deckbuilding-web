@@ -1,11 +1,11 @@
-4 Sinister Sabotage
-1 Thoughtseize
-2 Thoughtseize
+1 Vraska's Contempt
 2 Shadows' Verdict
 4 Fabled Passage
 2 Extinction Event
-1 Rewind
+1 Thoughtseize
+2 Thoughtseize
 4 Fetid Pools
+1 Rewind
 2 Clearwater Pathway
 1 Narset, Parter of Veils
 1 Geier Reach Sanitarium
@@ -13,42 +13,42 @@
 1 Teferi, Hero of Dominaria
 1 Supreme Verdict
 1 Plains
-1 Glacial Fortress
 1 Hallowed Fountain
+1 Glacial Fortress
 1 Absorb
-2 Teferi, Hero of Dominaria
 2 Hallowed Fountain
+2 Teferi, Hero of Dominaria
 2 Supreme Verdict
 2 Absorb
 3 Hallowed Fountain
 3 Absorb
 4 Absorb
-3 Thoughtseize
 2 Glacial Fortress
 4 Hallowed Fountain
 3 Supreme Verdict
 1 Castle Ardenvale
+3 Thoughtseize
 3 Teferi, Hero of Dominaria
+1 Dovin's Veto
 1 Thassa's Intervention
 1 Godless Shrine
 2 Godless Shrine
 3 Field of Ruin
-1 Dovin's Veto
 2 Castle Locthwain
+3 Glacial Fortress
 4 Dig Through Time
 4 Thoughtseize
 2 Heartless Act
-3 Glacial Fortress
-1 Mutavault
+1 Irrigated Farmland
+2 Castle Ardenvale
+2 Plains
 3 Narset, Parter of Veils
+1 Search for Azcanta
 2 Hero's Downfall
 3 Godless Shrine
-1 Irrigated Farmland
 1 Elspeth Conquers Death
 1 Omen of the Sea
 2 Dovin's Veto
-2 Castle Ardenvale
-2 Plains
 2 Omen of the Sea
 3 Omen of the Sea
 4 Omen of the Sea
@@ -58,27 +58,25 @@
 1 Port of Karfell
 1 Void Shatter
 2 Rewind
-2 Mutavault
 2 Void Shatter
+1 Mutavault
+4 Narset, Parter of Veils
+1 Saw It Coming
+2 Thassa's Intervention
+3 Behold the Multiverse
+1 Jace, Vryn's Prodigy
+1 Dream Trawler
+2 Jace, Vryn's Prodigy
+3 Radiant Fountain
+2 Mutavault
+2 Eliminate
 1 Snow-Covered Island
 1 Snow-Covered Swamp
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
-1 Search for Azcanta
-4 Narset, Parter of Veils
-1 Saw It Coming
-2 Thassa's Intervention
-3 Behold the Multiverse
-3 Radiant Fountain
-1 Jace, Vryn's Prodigy
-1 Dream Trawler
-2 Jace, Vryn's Prodigy
-2 Eliminate
-2 Snow-Covered Swamp
 1 Drown in the Loch
 3 Clearwater Pathway
-1 Cling to Dust
 1 Bloodchief's Thirst
 1 Trial of Ambition
 1 Niko Aris
@@ -92,20 +90,22 @@
 3 Dovin's Veto
 4 Godless Shrine
 4 Oath of Kaya
-2 Castle Vantress
 1 Syncopate
 2 Syncopate
+2 Irrigated Farmland
+4 Supreme Verdict
+4 Glacial Fortress
 1 Elspeth, Sun's Champion
 1 Isolate
 1 Blessed Alliance
 1 Omen of the Sun
 1 Sphinx's Revelation
 1 Settle the Wreckage
+2 Castle Vantress
 2 Isolate
 2 Omen of the Sun
 2 Blessed Alliance
 2 Elspeth Conquers Death
-2 Irrigated Farmland
 2 Sphinx's Revelation
 3 Omen of the Sun
 3 Castle Ardenvale
@@ -115,11 +115,13 @@
 3 Irrigated Farmland
 3 Syncopate
 4 Omen of the Sun
-4 Supreme Verdict
-4 Glacial Fortress
 4 Syncopate
 4 Irrigated Farmland
 6 Island
+1 Azorius Charm
+1 Hengegate Pathway
+2 Azorius Charm
+2 Hengegate Pathway
 1 Commit/Memory
 1 Moment of Craving
 2 Dream Trawler
@@ -128,15 +130,14 @@
 1 Neutralize
 4 Behold the Multiverse
 4 Clearwater Pathway
+2 Snow-Covered Swamp
+1 Blast Zone
 1 Soul Shatter
+1 Cling to Dust
 3 Swamp
 1 Silundi Vision
 1 Kalitas, Traitor of Ghet
 1 Teferi, Master of Time
-1 Azorius Charm
-1 Hengegate Pathway
-2 Azorius Charm
-2 Hengegate Pathway
 1 Jace, Architect of Thought
 3 Blessed Alliance
 1 Emeria's Call
@@ -157,13 +158,15 @@
 1 Languish
 2 Drown in the Loch
 2 Languish
-1 Horribly Awry
-2 Vraska's Contempt
+3 Thassa's Intervention
 1 Jwari Disruption
 2 Soul Shatter
 2 Commit/Memory
 3 Torrential Gearhulk
-3 Thassa's Intervention
+1 Detention Sphere
+1 Quicken
+2 Quicken
+3 Azorius Charm
 1 Thing in the Ice
 1 Day's Undoing
 1 Collective Brutality
@@ -176,6 +179,5 @@
 3 Thing in the Ice
 3 Bloodchief's Thirst
 4 Thing in the Ice
-1 Blast Zone
 3 Snow-Covered Swamp
 5 Snow-Covered Island

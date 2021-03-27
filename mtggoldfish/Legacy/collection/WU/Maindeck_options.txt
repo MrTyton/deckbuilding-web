@@ -1,48 +1,54 @@
-1 Snow-Covered Plains
-1 Supreme Verdict
 1 Volcanic Island
+3 Snow-Covered Island
+1 Snow-Covered Plains
+2 Force of Negation
+1 Supreme Verdict
+2 Spell Pierce
 1 Counterspell
 1 Vendilion Clique
-2 Force of Negation
-2 Spell Pierce
 1 Preordain
-1 Misty Rainforest
 1 Sword of Fire and Ice
 2 Hullbreacher
-2 Snow-Covered Plains
-4 Snow-Covered Island
-1 Spell Snare
-2 Polluted Delta
 1 Wasteland
 2 Wasteland
 3 Wasteland
-3 Scalding Tarn
 1 Daze
 2 Daze
-3 Daze
-3 Polluted Delta
-5 Island
-1 Venser, Shaper Savant
-5 Snow-Covered Island
 2 Misty Rainforest
-2 Council's Judgment
+2 Snow-Covered Plains
+4 Snow-Covered Island
+2 Polluted Delta
 1 Tropical Island
-4 Polluted Delta
-1 Baleful Strix
-1 Underground Sea
-2 Baleful Strix
-3 Tundra
+1 Spell Snare
+3 Daze
+3 Scalding Tarn
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
-1 Savannah
-3 Misty Rainforest
-4 Misty Rainforest
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
+3 Uro, Titan of Nature's Wrath
+3 Misty Rainforest
+3 Polluted Delta
+1 Savannah
+5 Island
+1 Venser, Shaper Savant
+2 Tropical Island
+5 Snow-Covered Island
+2 Council's Judgment
+1 Sylvan Library
+3 Tundra
+4 Misty Rainforest
+4 Polluted Delta
+1 Baleful Strix
+1 Underground Sea
+2 Baleful Strix
 1 Snow-Covered Mountain
 6 Snow-Covered Island
+1 Life from the Loam
+1 Forest
+1 Dovin's Veto
 1 Delver of Secrets
 2 Delver of Secrets
 3 Delver of Secrets
@@ -58,8 +64,6 @@
 1 Narset, Parter of Veils
 3 Baleful Strix
 4 Daze
-3 Uro, Titan of Nature's Wrath
-2 Tropical Island
 1 Windswept Heath
 1 Skyclave Apparition
 1 Kaya, Orzhov Usurper
@@ -67,19 +71,17 @@
 1 Liliana's Triumph
 2 Underground Sea
 1 Mystic Sanctuary
-1 Sylvan Library
-1 Life from the Loam
-1 Forest
 2 Forest
-1 Dovin's Veto
 1 Jace, Vryn's Prodigy
 3 Snow-Covered Plains
 4 Prismatic Vista
 1 Arid Mesa
 2 Preordain
 1 Scrubland
+2 Sylvan Library
 2 Skyclave Apparition
 3 Skyclave Apparition
+1 Stifle
 3 Tropical Island
 1 Mountain
 1 Diabolic Edict
@@ -94,8 +96,8 @@
 3 Plains
 1 Drown in the Loch
 1 Marsh Flats
-1 Unearth
 1 Inquisition of Kozilek
+1 Unearth
 1 Snow-Covered Swamp
 2 Drown in the Loch
 2 Unearth
@@ -106,16 +108,30 @@
 1 Fire/Ice
 2 Arid Mesa
 4 Scalding Tarn
+1 Punishing Fire
+1 Plateau
+1 Grove of the Burnwillows
+1 Ketria Triome
+1 Raugrin Triome
+1 Omnath, Locus of Creation
+2 Punishing Fire
+2 Grove of the Burnwillows
+2 Stifle
+3 Grove of the Burnwillows
+3 Punishing Fire
+3 Stifle
+3 Force of Negation
+4 Stifle
 1 Once Upon a Time
-1 Mausoleum Wanderer
 1 Rattlechains
-1 Spell Queller
+1 Mausoleum Wanderer
 1 Supreme Phantom
+1 Spell Queller
 1 Edric, Spymaster of Trest
 2 Once Upon a Time
-2 Mausoleum Wanderer
 2 Rattlechains
 2 Supreme Phantom
+2 Mausoleum Wanderer
 2 Spell Queller
 2 Edric, Spymaster of Trest
 3 Once Upon a Time
@@ -130,7 +146,6 @@
 4 Rattlechains
 1 Sevinne's Reclamation
 6 Island
-1 Stifle
 1 Weathered Wayfarer
 1 Aether Vial
 2 Windswept Heath
@@ -140,5 +155,5 @@
 3 Weathered Wayfarer
 3 Aether Vial
 4 Tundra
-4 Aether Vial
 4 Weathered Wayfarer
+4 Aether Vial

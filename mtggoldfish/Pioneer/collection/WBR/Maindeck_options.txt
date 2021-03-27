@@ -26,12 +26,12 @@
 1 Temple Garden
 1 Tasigur, the Golden Fang
 1 Cling to Dust
-1 Archon of Emeria
 1 Siege Rhino
+1 Archon of Emeria
 1 Sunpetal Grove
 2 Cling to Dust
-2 Courser of Kruphix
 2 Siege Rhino
+2 Courser of Kruphix
 2 Nissa, Who Shakes the World
 2 Tasigur, the Golden Fang
 2 Temple Garden
@@ -52,8 +52,8 @@
 2 Hissing Quagmire
 2 Snow-Covered Swamp
 2 Snow-Covered Forest
-2 Sylvan Advocate
 2 Sarulf, Realm Eater
+2 Sylvan Advocate
 2 Collective Brutality
 2 Darkbore Pathway
 3 Abrupt Decay
@@ -66,9 +66,9 @@
 4 Darkbore Pathway
 4 Sylvan Advocate
 1 Urborg, Tomb of Yawgmoth
+1 Grim Flayer
 1 Woodland Cemetery
 1 Toski, Bearer of Secrets
-1 Grim Flayer
 2 Grim Flayer
 2 Woodland Cemetery
 2 Vraska, Golgari Queen
@@ -110,12 +110,57 @@
 4 Kroxa, Titan of Death's Hunger
 4 Showdown of the Skalds
 4 Blood Crypt
-4 Thraben Inspector
 4 Savai Triome
+4 Thraben Inspector
 4 Concealed Courtyard
 4 Inspiring Vantage
-1 Mutavault
+1 Agonizing Remorse
+1 Crawling Barrens
+1 Elderfang Disciple
+1 Shrieking Affliction
+1 Yarok's Fenlurker
+1 Inscription of Ruin
+1 Davriel, Rogue Shadowmage
+2 Inscription of Ruin
+2 Agonizing Remorse
+2 Elderfang Disciple
+2 Shrieking Affliction
+2 Crawling Barrens
+2 Bloodchief's Thirst
+2 Davriel, Rogue Shadowmage
+2 Yarok's Fenlurker
+3 Inscription of Ruin
+3 Bloodchief's Thirst
+3 Elderfang Disciple
+3 Agonizing Remorse
+3 Crawling Barrens
+3 Davriel, Rogue Shadowmage
+3 Shrieking Affliction
+3 Liliana, Waker of the Dead
+3 Yarok's Fenlurker
+4 Swamp
+4 Inscription of Ruin
+4 Agonizing Remorse
+4 Yarok's Fenlurker
+4 Crawling Barrens
+4 Shrieking Affliction
+4 Liliana, Waker of the Dead
+4 Davriel, Rogue Shadowmage
+5 Swamp
+6 Swamp
+7 Swamp
+8 Swamp
+9 Swamp
+10 Swamp
+11 Swamp
+12 Swamp
+13 Swamp
+14 Swamp
+15 Swamp
+16 Swamp
+17 Swamp
 1 Righteous Valkyrie
+1 Mutavault
 1 Selfless Spirit
 1 Lyra Dawnbringer
 1 Firja's Retribution
@@ -124,8 +169,8 @@
 1 Archangel Avacyn
 1 Brightclimb Pathway
 1 Resplendent Angel
-2 Mutavault
 2 Righteous Valkyrie
+2 Mutavault
 2 Selfless Spirit
 2 Firja's Retribution
 2 Resplendent Angel
@@ -152,48 +197,3 @@
 4 Isolated Chapel
 5 Plains
 6 Plains
-1 Agonizing Remorse
-1 Crawling Barrens
-1 Shrieking Affliction
-1 Elderfang Disciple
-1 Yarok's Fenlurker
-1 Inscription of Ruin
-1 Davriel, Rogue Shadowmage
-2 Inscription of Ruin
-2 Agonizing Remorse
-2 Shrieking Affliction
-2 Elderfang Disciple
-2 Crawling Barrens
-2 Bloodchief's Thirst
-2 Davriel, Rogue Shadowmage
-2 Yarok's Fenlurker
-3 Inscription of Ruin
-3 Bloodchief's Thirst
-3 Shrieking Affliction
-3 Elderfang Disciple
-3 Agonizing Remorse
-3 Crawling Barrens
-3 Davriel, Rogue Shadowmage
-3 Liliana, Waker of the Dead
-3 Yarok's Fenlurker
-4 Swamp
-4 Inscription of Ruin
-4 Shrieking Affliction
-4 Agonizing Remorse
-4 Yarok's Fenlurker
-4 Crawling Barrens
-4 Liliana, Waker of the Dead
-4 Davriel, Rogue Shadowmage
-5 Swamp
-6 Swamp
-7 Swamp
-8 Swamp
-9 Swamp
-10 Swamp
-11 Swamp
-12 Swamp
-14 Swamp
-15 Swamp
-16 Swamp
-17 Swamp
-13 Swamp
