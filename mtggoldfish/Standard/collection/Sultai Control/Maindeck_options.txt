@@ -68,15 +68,15 @@
 2 Erebos's Intervention
 1 Lochmere Serpent
 3 Extinction Event
+1 Snow-Covered Island
 1 Graven Lore
 1 Snow-Covered Swamp
-1 Snow-Covered Island
-1 Field of Ruin
 1 Cling to Dust
-2 Graven Lore
+1 Field of Ruin
 2 Snow-Covered Island
-2 Snow-Covered Swamp
 2 Field of Ruin
+2 Graven Lore
+2 Snow-Covered Swamp
 3 Snow-Covered Island
 3 Snow-Covered Swamp
 4 Snow-Covered Island
@@ -94,10 +94,10 @@
 4 The World Tree
 1 Temple of Mystery
 1 Garruk, Cursed Huntsman
-2 Lochmere Serpent
 2 Temple of Mystery
 2 Ashiok, Nightmare Muse
 2 Rewind
+2 Lochmere Serpent
 3 Saw It Coming
 4 Saw It Coming
 1 Into the Roil
@@ -122,12 +122,12 @@
 2 Riverglide Pathway
 2 Mountain
 2 Cragcrown Pathway
-2 Migration Path
 2 Lotus Cobra
+2 Migration Path
 2 Genesis Ultimatum
 3 Ketria Triome
-3 Migration Path
 3 Lotus Cobra
+3 Migration Path
 3 Genesis Ultimatum
 4 Ketria Triome
 4 Migration Path
@@ -142,33 +142,8 @@
 3 Chevill, Bane of Monsters
 3 Elspeth's Nightmare
 4 Chevill, Bane of Monsters
-1 Miscast
-1 Golden Egg
-1 Esika, God of the Tree
-1 Path to the World Tree
-2 Miscast
-2 Path to the World Tree
-2 Golden Egg
-2 Esika, God of the Tree
-3 Path to the World Tree
-4 Path to the World Tree
-5 Forest
-1 Snow-Covered Mountain
-1 Volatile Fjord
-1 Brazen Borrower
-1 Castle Locthwain
-2 Ugin, the Spirit Dragon
-2 Brazen Borrower
-2 Volatile Fjord
-4 Extinction Event
-6 Snow-Covered Swamp
-7 Snow-Covered Island
-7 Snow-Covered Swamp
-8 Snow-Covered Island
-8 Snow-Covered Swamp
-9 Snow-Covered Island
-1 Ice Tunnel
 1 Fae of Wishes
+1 Ice Tunnel
 1 Midnight Clock
 1 Crippling Fear
 2 Temple of Deceit
@@ -178,3 +153,28 @@
 4 Field of Ruin
 4 Eliminate
 4 Temple of Deceit
+1 Golden Egg
+1 Miscast
+1 Esika, God of the Tree
+1 Path to the World Tree
+2 Path to the World Tree
+2 Golden Egg
+2 Miscast
+2 Esika, God of the Tree
+3 Path to the World Tree
+4 Path to the World Tree
+5 Forest
+1 Snow-Covered Mountain
+1 Brazen Borrower
+1 Volatile Fjord
+1 Castle Locthwain
+2 Brazen Borrower
+2 Ugin, the Spirit Dragon
+2 Volatile Fjord
+4 Extinction Event
+6 Snow-Covered Swamp
+7 Snow-Covered Swamp
+8 Snow-Covered Island
+8 Snow-Covered Swamp
+9 Snow-Covered Island
+7 Snow-Covered Island

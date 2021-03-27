@@ -23,14 +23,14 @@
 1 Force of Negation
 2 Force of Negation
 2 Teferi, Time Raveler
-3 Teferi, Time Raveler
 3 Force of Negation
+3 Teferi, Time Raveler
 1 Breeding Pool
 1 Snow-Covered Island
+1 Snow-Covered Plains
 1 Hallowed Fountain
 1 Ketria Triome
 1 Flooded Strand
-1 Snow-Covered Plains
 1 Watery Grave
 2 Flooded Strand
 3 Flooded Strand
@@ -98,9 +98,9 @@
 2 Misty Rainforest
 2 Cryptic Command
 2 Omnath, Locus of Creation
-3 Misty Rainforest
 3 Uro, Titan of Nature's Wrath
 3 Cryptic Command
+3 Misty Rainforest
 4 Misty Rainforest
 4 Uro, Titan of Nature's Wrath
 3 Gemstone Caverns
@@ -110,13 +110,13 @@
 2 Wooded Foothills
 1 Forest
 1 Stomping Ground
+1 Seasoned Pyromancer
 1 Demonic Dread
 1 Verdant Catacombs
 1 Overgrown Tomb
 1 Blackcleave Cliffs
 1 Swamp
 1 Bloodbraid Elf
-1 Seasoned Pyromancer
 1 Magus of the Moon
 1 Blood Crypt
 2 Magus of the Moon
@@ -186,6 +186,7 @@
 2 Tolaria West
 3 Tolaria West
 1 Lotus Field
+1 Island
 1 Lonely Sandbar
 1 Serum Visions
 1 Ideas Unbound
@@ -198,7 +199,6 @@
 1 Past in Flames
 1 Echoing Truth
 1 Spirebluff Canal
-1 Island
 1 Sleight of Hand
 1 Dream's Grip
 1 Merchant Scroll
@@ -272,8 +272,8 @@
 1 Gruul Turf
 2 Gruul Turf
 2 Castle Garenbrig
-2 Grove of the Burnwillows
 2 Snow-Covered Forest
+2 Grove of the Burnwillows
 2 Field of the Dead
 2 Valakut, the Molten Pinnacle
 2 Simic Growth Chamber
@@ -338,9 +338,9 @@
 1 Pillar of the Paruns
 1 Tendo Ice Bridge
 1 Omniscience
+1 Kozilek, Butcher of Truth
 1 Emrakul, the Promised End
 1 Ulamog, the Infinite Gyre
-1 Kozilek, Butcher of Truth
 1 Aether Hub
 1 Brilliant Ultimatum
 1 Gemstone Mine
@@ -372,6 +372,7 @@
 4 Ulamog, the Infinite Gyre
 4 Aether Hub
 4 Brilliant Ultimatum
+1 Karn, the Great Creator
 1 Nahiri, the Harbinger
 1 Oath of Nissa
 1 Lukka, Coppercoat Outcast
@@ -380,40 +381,39 @@
 1 Birds of Paradise
 1 Noble Hierarch
 1 Utopia Sprawl
-1 Karn, the Great Creator
 2 Oath of Nissa
 2 Nahiri, the Harbinger
+2 Karn, the Great Creator
 2 Lukka, Coppercoat Outcast
 2 Noble Hierarch
 2 Stomping Ground
 2 Chandra, Torch of Defiance
 2 Utopia Sprawl
 2 Birds of Paradise
-2 Karn, the Great Creator
 2 Arbor Elf
 2 Windswept Heath
 2 Temple Garden
 3 Oath of Nissa
 3 Chandra, Torch of Defiance
-3 Utopia Sprawl
-3 Windswept Heath
 3 Nahiri, the Harbinger
+3 Karn, the Great Creator
 3 Lukka, Coppercoat Outcast
 3 Birds of Paradise
 3 Arbor Elf
-3 Karn, the Great Creator
+3 Windswept Heath
 3 Noble Hierarch
 3 Stomping Ground
+3 Utopia Sprawl
 4 Oath of Nissa
 4 Utopia Sprawl
 4 Windswept Heath
+4 Karn, the Great Creator
 4 Lukka, Coppercoat Outcast
 4 Birds of Paradise
 4 Chandra, Torch of Defiance
 4 Noble Hierarch
 4 Arbor Elf
 4 Forest
-4 Karn, the Great Creator
 4 Stomping Ground
 5 Forest
 6 Forest

@@ -50,10 +50,10 @@
 1 Castle Vantress
 3 Mountain
 3 Island
-4 Mountain
 4 Island
-5 Mountain
+4 Mountain
 5 Island
+5 Mountain
 6 Island
 7 Island
 1 Starnheim Unleashed
@@ -132,13 +132,11 @@
 1 Scorching Dragonfire
 2 Scorching Dragonfire
 3 Scorching Dragonfire
-2 Cinderclasm
-3 Gadwick, the Wizened
 1 Thryx, the Sudden Storm
 1 Soul Sear
 1 Spikefield Hazard
-2 Thryx, the Sudden Storm
 2 Spikefield Hazard
+2 Thryx, the Sudden Storm
 2 Soul Sear
 3 Soul Sear
 1 Graven Lore
@@ -147,6 +145,8 @@
 2 Graven Lore
 2 Storm's Wrath
 3 Double Vision
+2 Cinderclasm
+3 Gadwick, the Wizened
 1 Niko Aris
 1 Skyclave Apparition
 1 Valakut Awakening
@@ -161,18 +161,18 @@
 2 Ascendant Spirit
 3 Ascendant Spirit
 4 Ascendant Spirit
-1 Lithoform Engine
 1 Discontinuity
 1 Lutri, the Spellchaser
+1 Lithoform Engine
 1 Nadir Kraken
-2 Embercleave
-2 Lithoform Engine
 2 Lutri, the Spellchaser
+2 Embercleave
 2 Nadir Kraken
+2 Lithoform Engine
 2 Discontinuity
 3 Embercleave
-3 Lithoform Engine
 3 Nadir Kraken
+3 Lithoform Engine
 4 Sprite Dragon
 8 Island
 1 Phoenix of Ash
