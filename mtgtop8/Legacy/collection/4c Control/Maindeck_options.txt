@@ -1,17 +1,17 @@
-1 Jace, the Mind Sculptor
-3 Ice-Fang Coatl
-1 Assassin's Trophy
-2 Hullbreacher
-3 Snow-Covered Island
 1 Bayou
-1 Scalding Tarn
+2 Snow-Covered Forest
+3 Ice-Fang Coatl
 2 Tropical Island
 1 Verdant Catacombs
-1 Dead of Winter
+1 Assassin's Trophy
+1 Scalding Tarn
+2 Hullbreacher
+3 Snow-Covered Island
+1 Savannah
+1 Wasteland
 2 Prismatic Vista
 1 Lightning Bolt
 2 Lightning Bolt
-4 Uro, Titan of Nature's Wrath
 1 Snapcaster Mage
 1 Dreadhorde Arcanist
 1 Tarmogoyf
@@ -20,23 +20,22 @@
 2 Tarmogoyf
 3 Dreadhorde Arcanist
 4 Dreadhorde Arcanist
-1 Savannah
-1 Wasteland
-1 Mystic Sanctuary
 3 Sylvan Library
-1 Scrubland
 1 Forest
+1 Dead of Winter
+1 Leovold, Emissary of Trest
+1 Mystic Sanctuary
+1 Scrubland
 1 Life from the Loam
 1 Field of the Dead
 1 Island
 1 Shark Typhoon
 2 Snapcaster Mage
-1 Leovold, Emissary of Trest
+4 Uro, Titan of Nature's Wrath
 1 Terminus
 1 Counterspell
 2 Terminus
 2 Jace, the Mind Sculptor
-4 Snow-Covered Island
 1 Zagoth Triome
 1 Windswept Heath
 1 Intuition
@@ -72,36 +71,37 @@
 4 Grove of the Burnwillows
 4 Assassin's Trophy
 4 Dack Fayden
+3 Force of Negation
+1 Green Sun's Zenith
+1 Scavenging Ooze
+1 Dryad Arbor
+1 Knight of the Reliquary
+2 Green Sun's Zenith
+2 Verdant Catacombs
+2 Wasteland
+3 Verdant Catacombs
+3 Wasteland
+3 Green Sun's Zenith
+4 Wasteland
 1 Sevinne's Reclamation
 1 Indatha Triome
 1 Plague Engineer
 2 Plague Engineer
 3 Plague Engineer
 2 Counterspell
-3 Force of Negation
-4 Ice-Fang Coatl
-1 Teferi, Hero of Dominaria
+4 Snow-Covered Island
 3 Prismatic Vista
-1 Green Sun's Zenith
-1 Scavenging Ooze
-1 Dryad Arbor
+1 Teferi, Hero of Dominaria
 1 Ramunap Excavator
-1 Knight of the Reliquary
 1 Utopia Sprawl
 1 Bojuka Bog
-2 Green Sun's Zenith
-2 Verdant Catacombs
 2 Utopia Sprawl
-2 Wasteland
-3 Verdant Catacombs
-3 Wasteland
-3 Green Sun's Zenith
 3 Utopia Sprawl
 4 Abrupt Decay
 4 Prismatic Vista
+4 Ice-Fang Coatl
 4 Utopia Sprawl
 4 Oko, Thief of Crowns
-4 Wasteland
 4 Green Sun's Zenith
 1 Ensnaring Bridge
 1 Supreme Verdict
@@ -124,10 +124,6 @@
 1 Archmage's Charm
 1 Carpet of Flowers
 1 Swamp
-1 Watery Grave
-1 Breeding Pool
-1 Hallowed Fountain
-1 Temple Garden
 2 Leovold, Emissary of Trest
 1 Hymn to Tourach
 1 Thoughtseize
@@ -135,6 +131,12 @@
 2 Hymn to Tourach
 1 Narset, Parter of Veils
 2 Dead of Winter
+1 Spell Pierce
+1 Blast Zone
+1 Birds of Paradise
+2 Spell Pierce
+2 Underground Sea
+2 Knight of the Reliquary
 1 Raugrin Triome
 1 Omnath, Locus of Creation
 1 Plains

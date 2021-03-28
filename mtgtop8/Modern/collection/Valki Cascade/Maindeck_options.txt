@@ -51,6 +51,7 @@
 3 Bloodbraid Elf
 4 Verdant Catacombs
 1 Cragcrown Pathway
+1 Snow-Covered Swamp
 1 Huntmaster of the Fells
 1 Questing Beast
 1 Copperline Gorge
@@ -64,7 +65,6 @@
 1 Chandra, Torch of Defiance
 1 Prismatic Vista
 1 Snow-Covered Mountain
-1 Snow-Covered Swamp
 2 Snow-Covered Mountain
 2 Prismatic Vista
 2 Snow-Covered Swamp
@@ -84,8 +84,9 @@
 2 Steam Vents
 2 Firespout
 3 Failure / Comply
-1 Blast Zone
+4 Supreme Verdict
 1 Swamp
+1 Blast Zone
 2 Forest
 2 Demonic Dread
 2 Maelstrom Pulse
@@ -99,10 +100,9 @@
 3 Seasoned Pyromancer
 3 Blackcleave Cliffs
 3 Wooded Foothills
-4 Seasoned Pyromancer
 4 Blackcleave Cliffs
+4 Seasoned Pyromancer
 4 Magus of the Moon
 4 Demonic Dread
 4 Gemstone Caverns
 4 Wooded Foothills
-4 Supreme Verdict

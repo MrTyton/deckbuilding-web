@@ -71,12 +71,12 @@
 4 Snow-Covered Island
 5 Snow-Covered Island
 2 Dream Trawler
-3 Solemn Simulacrum
 3 Emeria's Call
+3 Solemn Simulacrum
 4 Solemn Simulacrum
 1 Gates of Istfell
-9 Island
 9 Plains
+9 Island
 2 Disdainful Stroke
 4 Shatter the Sky
 3 The Raven's Warning
@@ -93,8 +93,8 @@
 3 Disdainful Stroke
 3 Brazen Borrower
 4 Brazen Borrower
-3 Field of Ruin
 3 Niko Aris
+3 Field of Ruin
 4 Snow-Covered Plains
 1 Starnheim Unleashed
 2 Starnheim Unleashed
@@ -105,8 +105,8 @@
 2 Cosima, God of the Voyage
 3 Alrund's Epiphany
 3 Castle Ardenvale
-4 Disdainful Stroke
 4 Crawling Barrens
+4 Disdainful Stroke
 1 Baneslayer Angel
 1 Fae of Wishes
 2 Baneslayer Angel
@@ -122,10 +122,10 @@
 1 Reidane, God of the Worthy
 1 Runed Halo
 2 Tranquil Cove
-2 Runed Halo
 2 Reidane, God of the Worthy
-3 Banishing Light
+2 Runed Halo
 3 Reidane, God of the Worthy
+3 Banishing Light
 4 Banishing Light
 10 Island
 1 Skyclave Cleric
@@ -140,6 +140,15 @@
 1 Bubble Snare
 2 Bubble Snare
 3 Bubble Snare
+1 Depart the Realm
+2 Depart the Realm
+2 Faceless Haven
+3 Cosima, God of the Voyage
+3 Dream Trawler
+3 Depart the Realm
+4 Alrund's Epiphany
+4 Cosima, God of the Voyage
+4 Dream Trawler
 1 Giant Killer
 4 Field of Ruin
 1 Ravenform
@@ -148,12 +157,3 @@
 3 Midnight Clock
 3 Gates of Istfell
 4 Midnight Clock
-1 Depart the Realm
-2 Depart the Realm
-2 Faceless Haven
-3 Cosima, God of the Voyage
-3 Dream Trawler
-3 Depart the Realm
-4 Cosima, God of the Voyage
-4 Dream Trawler
-4 Alrund's Epiphany

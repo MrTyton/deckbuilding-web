@@ -28,8 +28,8 @@
 1 Reidane, God of the Worthy
 2 Reidane, God of the Worthy
 1 Goldspan Dragon
-4 Shepherd of the Flock
 4 Giant Killer
+4 Shepherd of the Flock
 1 Fervent Champion
 2 Fervent Champion
 3 Fervent Champion
@@ -114,28 +114,28 @@
 4 Venerable Knight
 4 Worthy Knight
 4 Tournament Grounds
+1 Runeforge Champion
+1 Rune of Sustenance
 1 Raugrin Triome
 1 Sejiri Shelter
-1 Runeforge Champion
 1 Defiant Strike
-1 Rune of Sustenance
 1 Birgi, God of Storytelling
 1 Rune of Flight
 1 Kazuul's Fury
 1 Rune of Speed
+2 Rune of Sustenance
+2 Runeforge Champion
 2 Sejiri Shelter
 2 Raugrin Triome
 2 Birgi, God of Storytelling
-2 Rune of Sustenance
 2 Defiant Strike
-2 Runeforge Champion
 2 Rune of Speed
+3 Runeforge Champion
 3 Goldspan Dragon
 3 Raugrin Triome
+3 Fight as One
 3 Rune of Sustenance
 3 Rune of Speed
-3 Fight as One
-3 Runeforge Champion
 3 Defiant Strike
 4 Runeforge Champion
 4 Rune of Speed
@@ -149,9 +149,9 @@
 1 Shadowspear
 1 Akiri, Fearless Voyager
 1 Relic Axe
+2 Halvar, God of Battle
 2 Fireblade Charger
 2 Kor Blademaster
-2 Halvar, God of Battle
 2 Swift Response
 2 Shadowspear
 2 Akiri, Fearless Voyager
@@ -199,17 +199,18 @@
 1 Agadeem's Awakening
 1 Savai Triome
 1 Brightclimb Pathway
+1 Alseid of Life's Bounty
 1 Skyclave Cleric
-1 Heartless Act
 1 Speaker of the Heavens
+1 Heartless Act
 1 Righteous Valkyrie
 1 Swamp
 1 Archfiend's Vessel
 1 Cleric of Life's Bond
-1 Alseid of Life's Bounty
 2 Skyclave Cleric
 2 Brightclimb Pathway
 2 Savai Triome
+2 Alseid of Life's Bounty
 2 Speaker of the Heavens
 2 Agadeem's Awakening
 2 Heartless Act
@@ -217,17 +218,16 @@
 2 Archfiend's Vessel
 2 Cleric of Life's Bond
 2 Swamp
-2 Alseid of Life's Bounty
 3 Heartless Act
-3 Brightclimb Pathway
 3 Savai Triome
+3 Brightclimb Pathway
 3 Skyclave Cleric
 3 Speaker of the Heavens
 3 Cleric of Life's Bond
 3 Righteous Valkyrie
 3 Archfiend's Vessel
-4 Brightclimb Pathway
 4 Savai Triome
+4 Brightclimb Pathway
 4 Cleric of Life's Bond
 4 Archfiend's Vessel
 4 Righteous Valkyrie

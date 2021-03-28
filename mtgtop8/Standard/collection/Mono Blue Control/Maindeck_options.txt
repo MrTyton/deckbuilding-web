@@ -5,29 +5,28 @@
 1 Opt
 2 Opt
 3 Opt
-1 Solemn Simulacrum
 1 Labyrinth of Skophos
 1 Tyrite Sanctum
 1 Sea Gate Restoration
 1 Crawling Barrens
 1 Sublime Epiphany
 1 Forsaken Monument
-1 Mazemind Tome
 1 Radiant Fountain
 1 Midnight Clock
 1 Cosmos Elixir
 1 Discontinuity
 1 Field of Ruin
-1 Ugin, the Spirit Dragon
 1 Kiora Bests the Sea God
 1 Palladium Myr
 1 Shimmer Dragon
+1 Ugin, the Spirit Dragon
 1 The Magic Mirror
 1 Skyclave Relic
+1 Mazemind Tome
 1 Throne of Makindi
 1 Unknown Shores
+1 Solemn Simulacrum
 1 Omen of the Sea
-2 Solemn Simulacrum
 2 Forsaken Monument
 2 Crawling Barrens
 2 Tyrite Sanctum
@@ -35,9 +34,10 @@
 2 Radiant Fountain
 2 Discontinuity
 2 Sublime Epiphany
-2 Ugin, the Spirit Dragon
 2 Omen of the Sea
+2 Solemn Simulacrum
 2 Kiora Bests the Sea God
+2 Ugin, the Spirit Dragon
 2 Shimmer Dragon
 2 Skyclave Relic
 2 Mazemind Tome
@@ -45,27 +45,27 @@
 2 Unknown Shores
 2 Labyrinth of Skophos
 2 Throne of Makindi
-3 Mazemind Tome
-3 Solemn Simulacrum
 3 Crawling Barrens
 3 Tyrite Sanctum
-3 Ugin, the Spirit Dragon
 3 Forsaken Monument
 3 Midnight Clock
 3 Radiant Fountain
+3 Ugin, the Spirit Dragon
 3 Labyrinth of Skophos
 3 Throne of Makindi
 3 Omen of the Sea
 3 Palladium Myr
 3 Unknown Shores
 3 Shimmer Dragon
+3 Solemn Simulacrum
 3 Skyclave Relic
 3 Discontinuity
+3 Mazemind Tome
 3 Sublime Epiphany
-4 Solemn Simulacrum
 4 Opt
 4 Midnight Clock
 4 Crawling Barrens
+4 Solemn Simulacrum
 4 Essence Scatter
 4 Skyclave Relic
 4 Palladium Myr
@@ -91,6 +91,6 @@
 3 Cosima, God of the Voyage
 4 Cosima, God of the Voyage
 1 Mystical Dispute
+2 Negate
 3 Graven Lore
 4 Graven Lore
-2 Negate
