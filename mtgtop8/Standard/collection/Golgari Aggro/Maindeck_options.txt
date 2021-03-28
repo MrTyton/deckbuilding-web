@@ -10,16 +10,16 @@
 4 Temple of Malady
 5 Swamp
 1 Ice Tunnel
-1 Acolyte of Affliction
 1 Garruk, Cursed Huntsman
 1 Narfi, Betrayer King
 1 Rimewood Falls
 1 Snow-Covered Island
+1 Acolyte of Affliction
 2 Ice Tunnel
-2 Acolyte of Affliction
 2 Narfi, Betrayer King
 2 Rimewood Falls
 2 Snow-Covered Island
+2 Acolyte of Affliction
 1 Mire Triton
 2 Mire Triton
 3 Mire Triton
@@ -33,20 +33,20 @@
 1 Harald, King of Skemfar
 2 Harald, King of Skemfar
 1 Realmwalker
-1 Skemfar Avenger
-1 Grasp of Darkness
-1 Wolfwillow Haven
-1 Return Upon the Tide
-1 Boreal Outrider
 1 Thornmantle Striker
+1 Grasp of Darkness
+1 Boreal Outrider
 1 Harald Unites the Elves
+1 Return Upon the Tide
+1 Skemfar Avenger
+1 Wolfwillow Haven
 2 Grasp of Darkness
 2 Boreal Outrider
 2 Wolfwillow Haven
 3 Harald, King of Skemfar
-3 Wolfwillow Haven
 3 Grasp of Darkness
 3 Boreal Outrider
+3 Wolfwillow Haven
 4 Sculptor of Winter
 7 Snow-Covered Swamp
 7 Snow-Covered Forest
@@ -111,11 +111,11 @@
 2 Fynn, the Fangbearer
 3 Fynn, the Fangbearer
 3 Jungle Hollow
-4 Jungle Hollow
 4 Fynn, the Fangbearer
+4 Jungle Hollow
 1 Tajuru Blightblade
-2 Tajuru Blightblade
 2 Oakhame Adversary
+2 Tajuru Blightblade
 3 Tajuru Blightblade
 3 Oakhame Adversary
 4 Tajuru Blightblade
@@ -146,10 +146,27 @@
 1 Brokkos, Apex of Forever
 2 Cling to Dust
 4 Ice Tunnel
+4 Harald, King of Skemfar
+1 Moss Viper
+1 Hooded Blightfang
+1 Call of the Death-Dweller
+1 The Binding of the Titans
+1 Egon, God of Death
+2 Moss Viper
+2 Hooded Blightfang
+2 The Binding of the Titans
+2 Egon, God of Death
+2 Call of the Death-Dweller
+3 Moss Viper
+3 Hooded Blightfang
+3 The Binding of the Titans
+4 Hooded Blightfang
+4 Moss Viper
+4 The Binding of the Titans
 1 Sarulf, Realm Eater
 1 Port of Karfell
-1 Thrashing Brontodon
 1 Frantic Inventory
+1 Thrashing Brontodon
 1 Chainweb Aracnir
 1 Poison the Cup
 1 Ashiok, Nightmare Muse
@@ -167,28 +184,12 @@
 3 Frantic Inventory
 3 Chainweb Aracnir
 4 Frantic Inventory
-1 Call of the Death-Dweller
-1 Moss Viper
-1 Egon, God of Death
-1 The Binding of the Titans
-1 Hooded Blightfang
-2 Hooded Blightfang
-2 Moss Viper
-2 Egon, God of Death
-2 The Binding of the Titans
-2 Call of the Death-Dweller
-3 Hooded Blightfang
-3 Moss Viper
-3 The Binding of the Titans
-4 The Binding of the Titans
-4 Hooded Blightfang
-4 Moss Viper
 1 Bonders' Enclave
 1 Stonecoil Serpent
-1 Ashaya, Soul of the Wild
 1 Castle Garenbrig
-1 Snakeskin Veil
+1 Ashaya, Soul of the Wild
 1 Garruk, Unleashed
+1 Snakeskin Veil
 1 Swarm Shambler
 1 Tangled Florahedron
 1 Skyclave Shade
@@ -213,7 +214,6 @@
 4 Faceless Haven
 1 Thassa, Deep-Dwelling
 4 Acolyte of Affliction
-4 Harald, King of Skemfar
 1 Indatha Triome
 2 Indatha Triome
 3 Indatha Triome
@@ -245,8 +245,8 @@
 1 Wildwood Patrol
 1 Keeper of Fables
 1 Gnottvold Recluse
-2 Keeper of Fables
 2 Ram Through
+2 Keeper of Fables
 2 Greater Sandwurm
 3 Sarulf's Packmate
 3 Keeper of Fables

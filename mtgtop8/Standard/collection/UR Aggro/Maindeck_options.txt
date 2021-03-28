@@ -33,21 +33,21 @@
 1 Sprite Dragon
 1 Riddleform
 1 Spikefield Hazard
+2 Spikefield Hazard
 2 Stormwing Entity
 2 Jwari Disruption
 2 Sprite Dragon
 2 Crash Through
 2 Shock
-2 Spikefield Hazard
 2 Riddleform
 3 Jwari Disruption
+3 Spikefield Hazard
 3 Crash Through
 3 Sprite Dragon
 3 Shatterskull Smashing
 3 Stormwing Entity
 3 Shock
 3 Brazen Borrower
-3 Spikefield Hazard
 3 Riddleform
 4 Jwari Disruption
 4 Crash Through
@@ -61,13 +61,13 @@
 2 Crystalline Giant
 2 Quakebringer
 2 Scorching Dragonfire
-3 Battle of Frost and Fire
 3 Scorching Dragonfire
 3 Crystalline Giant
 3 Tectonic Giant
 3 Quakebringer
-4 Invasion of the Giants
+3 Battle of Frost and Fire
 4 Crystalline Giant
+4 Invasion of the Giants
 4 Calamity Bearer
 4 Tectonic Giant
 5 Island
@@ -86,8 +86,8 @@
 1 Master of Winds
 1 Basalt Ravager
 1 Irencrag Pyromancer
-2 Of One Mind
 2 Volatile Fjord
+2 Of One Mind
 2 Demon Bolt
 2 Basalt Ravager
 2 Heartfire Immolator
@@ -95,11 +95,11 @@
 2 Windrider Wizard
 2 Behold the Multiverse
 3 Of One Mind
-3 Demon Bolt
-3 Frost Bite
+3 Volatile Fjord
 3 Windrider Wizard
 3 Basalt Ravager
-3 Volatile Fjord
+3 Frost Bite
+3 Demon Bolt
 3 Heartfire Immolator
 4 Volatile Fjord
 4 Windrider Wizard

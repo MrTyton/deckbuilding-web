@@ -1,48 +1,50 @@
+2 Elephant Grass
+2 Green Sun's Zenith
 1 Mirri's Guile
-3 Serra's Sanctum
-1 Carpet of Flowers
 3 Elephant Grass
 1 Forest
 2 Forest
 3 Forest
 4 Forest
 5 Forest
+3 Setessan Champion
 6 Forest
 1 Abundant Growth
 2 Abundant Growth
-3 Setessan Champion
 1 Bayou
-3 Abundant Growth
-1 Exploration
 4 Setessan Champion
 3 Cavern of Souls
-2 Mirri's Guile
+3 Abundant Growth
 1 Wooded Foothills
 4 Abundant Growth
-1 Misty Rainforest
-1 Verdant Catacombs
-1 Plains
+1 Exploration
+2 Mirri's Guile
 1 Doomwake Giant
 1 Tropical Island
-2 Savannah
+1 Misty Rainforest
+1 Verdant Catacombs
 7 Forest
-4 Elephant Grass
-6 Snow-Covered Forest
 1 Estrid's Invocation
 2 Estrid's Invocation
 1 Ground Seal
 2 Ground Seal
+1 Plains
+8 Forest
+4 Elephant Grass
+2 Savannah
+2 Wooded Foothills
+6 Snow-Covered Forest
 3 Sterling Grove
 4 On Thin Ice
-8 Forest
-2 Wooded Foothills
+1 Abrupt Decay
+2 Abrupt Decay
 7 Snow-Covered Forest
 1 Emrakul, the Aeons Torn
 2 Carpet of Flowers
 2 Verdant Catacombs
 2 Misty Rainforest
-1 Abrupt Decay
-2 Abrupt Decay
+1 Binding the Old Gods
+3 Abrupt Decay
 1 Cast Out
 1 Hall of Heliod's Generosity
 1 Swamp
@@ -57,9 +59,7 @@
 1 Seal of Primordium
 4 Serra's Sanctum
 1 City of Solitude
-1 Binding the Old Gods
 2 Binding the Old Gods
-3 Abrupt Decay
 4 Verdant Catacombs
 2 Cast Out
 1 Living Wish
@@ -77,6 +77,7 @@
 1 Engineered Plague
 1 Moat
 2 Trial of Ambition
+1 Taiga
 2 Snow-Covered Plains
 3 Solitary Confinement
 4 Rest in Peace
@@ -86,11 +87,11 @@
 1 Force of Negation
 2 Force of Negation
 2 Words of Wind
-2 Spreading Seas
 2 Energy Field
+2 Spreading Seas
 3 Energy Field
-3 Omen of the Sea
 3 Shark Typhoon
+3 Omen of the Sea
 3 Spreading Seas
 4 Spreading Seas
 4 Omen of the Sea
@@ -104,15 +105,15 @@
 1 Arcum's Astrolabe
 1 Detention Sphere
 1 The Royal Scions
-1 Snow-Covered Mountain
 1 Bitterblossom
 1 Brazen Borrower
 1 Trail of Crumbs
+1 Supreme Verdict
 1 Arcane Laboratory
 1 Omen of the Forge
 1 Happily Ever After
 1 Omen of the Sun
-1 Supreme Verdict
+1 Snow-Covered Mountain
 2 Arcum's Astrolabe
 2 Trail of Crumbs
 3 Arcum's Astrolabe
@@ -129,6 +130,10 @@
 1 Fertile Ground
 2 Replenish
 2 Fertile Ground
+1 In Search of Greatness
+1 Oath of Nissa
+1 Riptide Chimera
+3 Wooded Foothills
 1 Karn, the Great Creator
 1 Leyline of the Void
 1 Island
@@ -145,10 +150,9 @@
 1 Maze of Ith
 1 Crop Rotation
 1 Valakut Exploration
-1 Taiga
+1 Field of the Dead
 1 Wasteland
 1 Life from the Loam
-1 Field of the Dead
 1 The Tabernacle at Pendrell Vale
 1 Rishadan Port
 1 Bojuka Bog
@@ -156,6 +160,7 @@
 1 Mox Diamond
 2 Crop Rotation
 2 Valakut Exploration
+2 Life from the Loam
 2 Taiga
 2 Wasteland
 2 Thespian's Stage
@@ -163,15 +168,14 @@
 2 Mox Diamond
 2 Dark Depths
 2 Exploration
-2 Life from the Loam
 2 Maze of Ith
 3 Crop Rotation
+3 Life from the Loam
 3 Wasteland
 3 Thespian's Stage
 3 Mirri's Guile
 3 Rishadan Port
 3 Valakut Exploration
-3 Life from the Loam
 3 Exploration
 3 Mox Diamond
 4 Valakut Exploration

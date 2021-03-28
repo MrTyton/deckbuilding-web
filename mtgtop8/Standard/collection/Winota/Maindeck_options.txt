@@ -1,7 +1,5 @@
-3 Kargan Intimidator
-4 Kargan Intimidator
-2 Shatterskull Smashing
-3 Fabled Passage
+2 Fabled Passage
+1 Forest
 2 Forest
 3 Branchloft Pathway
 4 Branchloft Pathway
@@ -11,6 +9,7 @@
 2 Giant Killer
 3 Giant Killer
 4 Giant Killer
+2 Shatterskull Smashing
 3 Seasoned Hallowblade
 1 Hengegate Pathway
 1 Riverglide Pathway
@@ -33,24 +32,12 @@
 3 Luminarch Aspirant
 4 Archon of Emeria
 4 Luminarch Aspirant
-4 Fabled Passage
-1 Anax, Hardened in the Forge
-2 Anax, Hardened in the Forge
-3 Anax, Hardened in the Forge
-3 Kenrith, the Returned King
-3 Stonecoil Serpent
-4 Basri's Lieutenant
-4 Stonecoil Serpent
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
+3 Fabled Passage
 1 Jaspera Sentinel
 2 Jaspera Sentinel
 3 Jaspera Sentinel
 4 Jaspera Sentinel
+4 Fabled Passage
 1 Maul of the Skyclaves
 1 Elder Gargaroth
 1 Ox of Agonas
@@ -61,16 +48,16 @@
 2 Glass Casket
 3 Robber of the Rich
 1 Tajuru Paragon
+1 Bronzehide Lion
 1 Archpriest of Iona
+1 Wildwood Tracker
 1 Lotus Cobra
 1 Radha, Heart of Keld
-1 Wildwood Tracker
-1 Bronzehide Lion
 2 Embercleave
 2 Tajuru Paragon
 2 Archpriest of Iona
-2 Lotus Cobra
 2 Wildwood Tracker
+2 Lotus Cobra
 2 Radha, Heart of Keld
 3 Tajuru Paragon
 3 Archpriest of Iona
@@ -100,25 +87,53 @@
 4 Toski, Bearer of Secrets
 4 Lovestruck Beast
 4 Edgewall Innkeeper
+1 Castle Embereth
+1 Arni Brokenbrow
+1 Claim the Firstborn
+1 Victory's Envoy
+1 Fearless Liberator
+1 Hobblefiend
+1 Anax, Hardened in the Forge
+2 Arni Brokenbrow
+2 Fearless Liberator
+2 Claim the Firstborn
+2 Hobblefiend
+2 Anax, Hardened in the Forge
+3 Claim the Firstborn
+3 Hobblefiend
+3 Anax, Hardened in the Forge
+3 Kenrith, the Returned King
+3 Stonecoil Serpent
+4 Basri's Lieutenant
+4 Claim the Firstborn
+4 Stonecoil Serpent
+5 Mountain
+6 Mountain
+7 Plains
+7 Mountain
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
 1 Temple of Triumph
 1 Wind-Scarred Crag
 1 Kabira Takedown
 1 Akiri, Fearless Voyager
-1 Kor Blademaster
 1 Shadowspear
+1 Kor Blademaster
 1 Fireblade Charger
 1 Sejiri Shelter
 1 Kargan Warleader
 1 Legion Angel
 2 Temple of Triumph
 2 Kabira Takedown
-2 Kor Blademaster
+2 Wind-Scarred Crag
 2 Akiri, Fearless Voyager
+2 Kor Blademaster
 2 Fireblade Charger
 2 Legion Angel
 2 Kargan Warleader
 2 Maul of the Skyclaves
-2 Wind-Scarred Crag
 3 Spikefield Hazard
 3 Temple of Triumph
 3 Kor Blademaster
@@ -132,27 +147,3 @@
 4 Spikefield Hazard
 4 Seasoned Hallowblade
 4 Kargan Warleader
-1 Castle Embereth
-1 Arni Brokenbrow
-1 Claim the Firstborn
-1 Victory's Envoy
-1 Fearless Liberator
-1 Hobblefiend
-2 Arni Brokenbrow
-2 Fearless Liberator
-2 Claim the Firstborn
-2 Hobblefiend
-3 Claim the Firstborn
-3 Hobblefiend
-4 Claim the Firstborn
-7 Plains
-11 Mountain
-1 Gallia of the Endless Dance
-1 Bolt Hound
-1 Dwarven Mine
-1 Gingerbrute
-2 Bolt Hound
-2 Gingerbrute
-2 Gallia of the Endless Dance
-3 Gingerbrute
-4 Gingerbrute

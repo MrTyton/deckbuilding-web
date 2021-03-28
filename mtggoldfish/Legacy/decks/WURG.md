@@ -36,9 +36,19 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
-|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
-|                     |             |                    2|[Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129801)         |
-|                     |             |                    2|[Crop Rotation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417430)     |
+|*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
+|--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
+|                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)       |                    2|[Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129801)          |
+|                    1|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)           |                    2|[Crop Rotation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417430)      |
+|                    1|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)            |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
+|                    1|[Tamiyo, Collector of Tales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461147)|                    1|[Ipnu Rivulet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430869)       |
+|                    2|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)           |                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)     |
+|                    2|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)            |                    1|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2240)       |
+|                    2|[Tamiyo, Collector of Tales](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461147)|                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    2|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)                 |                    2|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2240)       |
+|                    3|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)            |                    2|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)    |
+|                    3|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)             |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)|
+|                    4|[Ice-Fang Coatl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464152)            |                    3|[Carpet of Flowers](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5858)    |
+|                    4|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)             |                     |                                                                                              |
+|                    3|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)                 |                     |                                                                                              |
 

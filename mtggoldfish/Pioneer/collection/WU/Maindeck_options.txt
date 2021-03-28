@@ -1,28 +1,28 @@
-3 Teferi, Hero of Dominaria
-1 Geier Reach Sanitarium
 1 Commit/Memory
+3 Irrigated Farmland
 4 Shark Typhoon
+1 Geier Reach Sanitarium
 1 Syncopate
+3 Plains
 1 Elspeth Conquers Death
 1 Search for Azcanta
-3 Plains
+4 Censor
 1 Blessed Alliance
 1 Jace, Architect of Thought
 2 Syncopate
-4 Censor
 3 Dig Through Time
 1 Sea Gate Restoration
+3 Fabled Passage
+4 Fabled Passage
 1 Temple of Enlightenment
 1 Last Breath
 2 Temple of Enlightenment
 2 Last Breath
 4 Teferi, Time Raveler
 1 Elixir of Immortality
-3 Fabled Passage
-4 Fabled Passage
-4 Supreme Verdict
-4 Irrigated Farmland
 1 Emeria's Call
+4 Irrigated Farmland
+4 Supreme Verdict
 1 Ondu Inversion
 2 Settle the Wreckage
 1 Omen of the Sea
@@ -50,41 +50,42 @@
 4 Growth Spiral
 4 Temple Garden
 4 Breeding Pool
+1 Cast Out
 1 Hengegate Pathway
 2 Hengegate Pathway
 3 Hengegate Pathway
 4 Hengegate Pathway
-1 Ornithopter
 1 Darksteel Citadel
+1 Ornithopter
 1 Curious Obsession
-1 Gingerbrute
 1 Selfless Savior
 1 Spire of Industry
 1 Alseid of Life's Bounty
+1 Gingerbrute
 1 Ethereal Armor
 1 All That Glitters
 1 Ensoul Artifact
 1 Springleaf Drum
+2 Darksteel Citadel
 2 Ornithopter
 2 Curious Obsession
 2 Selfless Savior
-2 Gingerbrute
 2 Spire of Industry
 2 Alseid of Life's Bounty
-2 Darksteel Citadel
+2 Gingerbrute
+2 Springleaf Drum
 2 Ethereal Armor
 2 All That Glitters
-2 Springleaf Drum
 2 Ensoul Artifact
 3 Ornithopter
 3 Curious Obsession
-3 Gingerbrute
 3 Spire of Industry
-3 Ensoul Artifact
+3 Gingerbrute
 3 Alseid of Life's Bounty
 3 Ethereal Armor
 3 All That Glitters
 3 Springleaf Drum
+3 Ensoul Artifact
 4 Ornithopter
 4 Curious Obsession
 4 Alseid of Life's Bounty
@@ -95,22 +96,19 @@
 4 Ethereal Armor
 4 Spire of Industry
 1 Sinister Sabotage
+3 Narset, Parter of Veils
 1 Raugrin Triome
-1 Cast Out
 2 Sphinx's Revelation
 4 Plains
 3 Selfless Savior
-1 Skyclave Cleric
-2 Skyclave Cleric
-1 Void Shatter
 1 Neutralize
 1 Godless Shrine
 2 Godless Shrine
 1 Dream Trawler
 1 Temple of Triumph
+1 Steam Vents
 1 Temple of Epiphany
 1 Dragonlord Ojutai
-1 Steam Vents
 1 Aurelia's Fury
 2 Blessed Alliance
 1 Mire's Grasp
@@ -124,30 +122,28 @@
 3 Mire's Grasp
 4 Brightclimb Pathway
 4 Hateful Eidolon
-3 Narset, Parter of Veils
 4 Omen of the Sea
 1 Staggering Insight
 2 Staggering Insight
 3 Staggering Insight
 4 Staggering Insight
-1 Soul-Guide Lantern
 1 Whirlwind Denial
-3 Castle Ardenvale
-1 Horribly Awry
-2 Void Shatter
-3 Dovin's Veto
 2 Search for Azcanta
-3 Skyclave Cleric
-2 Detention Sphere
+3 Castle Ardenvale
 2 Castle Vantress
+2 Detention Sphere
 1 Saw It Coming
 1 Behold the Multiverse
 2 Behold the Multiverse
+1 Skyclave Cleric
+2 Skyclave Cleric
+3 Skyclave Cleric
+1 Void Shatter
 1 Blast Zone
 2 Neutralize
 1 Swamp
-1 Fatal Push
 1 Watery Grave
+1 Fatal Push
 1 Drowned Catacomb
 2 Elspeth Conquers Death
 2 Fatal Push
@@ -176,8 +172,8 @@
 2 Skyclave Apparition
 2 Yorion, Sky Nomad
 2 Elspeth's Nightmare
-2 Doom Foretold
 2 Thoughtseize
+2 Doom Foretold
 2 Disinformation Campaign
 2 Drowned Catacomb
 2 Starfield of Nyx
@@ -201,10 +197,10 @@
 2 Stubborn Denial
 3 Stubborn Denial
 1 Brazen Borrower
-1 Sphinx of the Final Word
 1 Anticognition
-1 Pearl Lake Ancient
+1 Sphinx of the Final Word
 1 Seal Away
+1 Pearl Lake Ancient
 1 Fumigate
 2 Brazen Borrower
 2 Anticognition
@@ -217,11 +213,11 @@
 1 Silundi Vision
 1 Mystic Sanctuary
 1 Mission Briefing
+2 Teferi, Master of Time
 2 Mission Briefing
 2 Silundi Vision
 2 Mystic Sanctuary
 2 Ipnu Rivulet
-2 Teferi, Master of Time
 2 Saw It Coming
 2 Approach of the Second Sun
 3 Approach of the Second Sun
@@ -230,30 +226,31 @@
 3 Speaker of the Heavens
 4 Speaker of the Heavens
 1 Temple of Deceit
+1 Ashiok, Nightmare Muse
 1 Spell Queller
 1 Prairie Stream
-1 Ashiok, Nightmare Muse
-1 Declaration in Stone
 1 Eliminate
+1 Declaration in Stone
 2 Temple of Deceit
 2 Eliminate
 2 Ashiok, Nightmare Muse
 2 Spell Queller
 2 Declaration in Stone
 2 Prairie Stream
-3 Ashiok, Nightmare Muse
 3 Neutralize
+3 Ashiok, Nightmare Muse
 4 Neutralize
+1 Horribly Awry
 1 Jwari Disruption
 2 Jwari Disruption
-2 Horribly Awry
+2 Void Shatter
 2 Whirlwind Denial
+2 Horribly Awry
 3 Jwari Disruption
+3 Dovin's Veto
 4 Jwari Disruption
 4 Castle Ardenvale
-1 Tale's End
-3 Void Shatter
-4 Void Shatter
+1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 6 Island
 1 Essence Scatter

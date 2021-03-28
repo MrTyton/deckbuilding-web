@@ -1,13 +1,21 @@
+1 True-Name Nemesis
+2 Flooded Strand
+2 Brazen Borrower
+2 True-Name Nemesis
+3 Stifle
 4 Stifle
-1 Thoughtseize
-2 Thoughtseize
-2 Tarmogoyf
+1 Spell Pierce
+1 Creeping Tar Pit
+3 Dark Confidant
+4 Abrupt Decay
+4 Dark Confidant
+4 Uro, Titan of Nature's Wrath
 1 Stormwing Entity
 2 Stormwing Entity
 3 True-Name Nemesis
-1 Flooded Strand
-2 Flooded Strand
-1 Spell Pierce
+1 Hymn to Tourach
+1 Leovold, Emissary of Trest
+3 Underground Sea
 1 Scalding Tarn
 2 Scalding Tarn
 2 Snow-Covered Island
@@ -15,19 +23,6 @@
 3 Snow-Covered Island
 4 Snow-Covered Island
 5 Snow-Covered Island
-1 Creeping Tar Pit
-3 Dark Confidant
-4 Abrupt Decay
-4 Dark Confidant
-4 Uro, Titan of Nature's Wrath
-1 Spell Snare
-1 Umezawa's Jitte
-1 Dismember
-1 Vapor Snag
-3 Brazen Borrower
-1 Hymn to Tourach
-1 Leovold, Emissary of Trest
-3 Underground Sea
 1 Gut Shot
 2 Gut Shot
 1 Ravenform
@@ -41,8 +36,8 @@
 1 Island
 1 Karakas
 2 Island
-2 Ravenform
 2 Karakas
+2 Ravenform
 2 Ethereal Forager
 3 Island
 3 Preordain
@@ -51,13 +46,24 @@
 4 Island
 4 Flooded Strand
 5 Island
+1 Spell Snare
+1 Umezawa's Jitte
+1 Dismember
+1 Vapor Snag
+3 Brazen Borrower
 1 Surgical Extraction
 2 Surgical Extraction
 2 Vapor Snag
-1 Prismatic Vista
-2 Spell Snare
+1 Hexdrinker
+2 Hymn to Tourach
+2 Hexdrinker
+3 Thoughtseize
+3 Tarmogoyf
+3 Hymn to Tourach
+4 Tarmogoyf
 1 Torpor Orb
 1 Scroll of Fate
+1 Prismatic Vista
 1 Phyrexian Dreadnought
 1 Vision Charm
 1 Divert
@@ -70,10 +76,3 @@
 3 Phyrexian Dreadnought
 4 Phyrexian Dreadnought
 6 Snow-Covered Island
-1 Hexdrinker
-2 Hymn to Tourach
-2 Hexdrinker
-3 Thoughtseize
-3 Tarmogoyf
-3 Hymn to Tourach
-4 Tarmogoyf

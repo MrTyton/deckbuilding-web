@@ -1,10 +1,10 @@
 2 Glasspool Mimic
 4 Merfolk Trickster
+12 Island
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
-12 Island
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island
@@ -16,18 +16,16 @@
 3 Hullbreacher
 9 Snow-Covered Island
 10 Snow-Covered Island
+11 Snow-Covered Island
 1 Phantasmal Image
 2 Phantasmal Image
-11 Snow-Covered Island
-3 Phantasmal Image
 1 Riptide Laboratory
 12 Snow-Covered Island
 4 Mutavault
 1 Umezawa's Jitte
 1 Harbinger of the Tides
 2 Harbinger of the Tides
-1 Cursecatcher
-2 Cursecatcher
+3 Phantasmal Image
 1 Chrome Mox
 2 Chrome Mox
 3 Glasspool Mimic
@@ -35,6 +33,8 @@
 4 Glasspool Mimic
 4 Chrome Mox
 1 Fiery Islet
+1 Cursecatcher
+2 Cursecatcher
 2 Force of Negation
 1 Thieving Skydiver
 2 Thieving Skydiver
@@ -42,43 +42,43 @@
 4 Thieving Skydiver
 1 Brazen Borrower
 1 Thassa, God of the Sea
-3 Cursecatcher
-1 Daze
-2 Daze
-3 Daze
-4 Daze
-1 Wasteland
-2 Wasteland
-3 Wasteland
 1 Mox Diamond
 1 Oboro, Palace in the Clouds
 1 Mystic Reflection
 1 Shelldock Isle
-1 Tolaria West
 1 Maze of Ith
+1 Tolaria West
 2 Brazen Borrower
 2 Karakas
 1 Barrin, Tolarian Archmage
+1 Wasteland
 2 Barrin, Tolarian Archmage
+2 Wasteland
 3 Barrin, Tolarian Archmage
+3 Wasteland
 1 Underground Sea
-1 Sylvan Library
-1 Oko, Thief of Crowns
-1 Lotus Petal
 1 Tropical Island
+1 Flooded Strand
+1 Oko, Thief of Crowns
+1 Sylvan Library
+1 Lotus Petal
 1 Scalding Tarn
 1 Misty Rainforest
-1 Flooded Strand
 1 Polluted Delta
 2 Oko, Thief of Crowns
 2 Scalding Tarn
 2 Tropical Island
 2 Flooded Strand
 3 Tropical Island
-1 Geier Reach Sanitarium
+3 Cursecatcher
 1 Day's Undoing
+1 Geier Reach Sanitarium
 2 Day's Undoing
 4 Hullbreacher
+1 Daze
+2 Daze
+3 Daze
+4 Daze
 1 Smuggler's Copter
 1 Relic of Progenitus
 1 Merrow Reejerey
@@ -88,11 +88,10 @@
 2 Cosi's Trickster
 2 Merrow Reejerey
 3 Smuggler's Copter
-3 Relic of Progenitus
 3 Merrow Reejerey
+3 Relic of Progenitus
 3 Cosi's Trickster
-4 Cosi's Trickster
 4 Merrow Reejerey
-4 Phantasmal Image
-4 Wasteland
-4 Cursecatcher
+4 Cosi's Trickster
+13 Island
+14 Island

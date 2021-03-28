@@ -11,9 +11,9 @@
 1 Mystic Gate
 1 Misty Rainforest
 3 Archmage's Charm
-1 Sword of Feast and Famine
-1 Batterskull
 1 Stoneforge Mystic
+1 Batterskull
+1 Sword of Feast and Famine
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
@@ -22,17 +22,17 @@
 2 Misty Rainforest
 3 Celestial Colonnade
 2 Mystic Gate
-1 Skyclave Apparition
 1 Spell Queller
-2 Skyclave Apparition
+1 Skyclave Apparition
 2 Spell Queller
+2 Skyclave Apparition
 1 Terminus
 2 Terminus
 1 Oboro, Palace in the Clouds
-1 Minamo, School at Water's Edge
 1 Emeria's Call
-1 Niambi, Esteemed Speaker
+1 Minamo, School at Water's Edge
 1 Sword of Fire and Ice
+1 Niambi, Esteemed Speaker
 1 Eiganjo Castle
 2 Niambi, Esteemed Speaker
 3 Skyclave Apparition
@@ -43,8 +43,8 @@
 4 Snapcaster Mage
 1 Detention Sphere
 3 Jace, the Mind Sculptor
-1 Narset, Parter of Veils
 1 Irrigated Farmland
+1 Narset, Parter of Veils
 1 Prairie Stream
 6 Snow-Covered Island
 2 Scalding Tarn
@@ -76,6 +76,10 @@
 2 Wall of Omens
 3 Omen of the Sea
 3 Shark Typhoon
+2 Castle Ardenvale
+2 Hengegate Pathway
+3 Hengegate Pathway
+4 Hengegate Pathway
 4 Polluted Delta
 1 Pithing Needle
 1 Castle Vantress
@@ -85,10 +89,6 @@
 3 Hallowed Fountain
 3 Delay
 4 Delay
-2 Castle Ardenvale
-2 Hengegate Pathway
-3 Hengegate Pathway
-4 Hengegate Pathway
 8 Island
 1 On Thin Ice
 1 Remand

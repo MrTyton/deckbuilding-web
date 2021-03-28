@@ -1,7 +1,7 @@
+1 Rune of Might
 1 Rune of Sustenance
 1 Gilded Goose
 1 Runeforge Champion
-1 Rune of Mortality
 2 Temple of Plenty
 2 In Search of Greatness
 2 Rune of Might
@@ -13,8 +13,8 @@
 3 Gilded Goose
 3 Runeforge Champion
 4 Setessan Champion
-4 Runeforge Champion
 4 In Search of Greatness
+4 Runeforge Champion
 4 Gilded Goose
 1 Burning-Rune Demon
 1 Agadeem's Awakening
@@ -106,8 +106,8 @@
 2 Ugin, the Spirit Dragon
 2 Cultivate
 3 Cultivate
-1 Tergrid, God of Fright
 1 Bala Ged Recovery
+1 Tergrid, God of Fright
 1 Calix, Destiny's Hand
 1 Acolyte of Affliction
 1 Firja's Retribution
@@ -118,18 +118,18 @@
 2 Firja's Retribution
 2 Acquisitions Expert
 3 Tangled Florahedron
-4 Treacherous Blessing
 4 Tangled Florahedron
+4 Treacherous Blessing
 1 Mythos of Nethroi
 2 Golden Egg
-2 Tergrid, God of Fright
 2 Mythos of Nethroi
+2 Tergrid, God of Fright
 2 Doomskar
-3 Tergrid, God of Fright
 3 Golden Egg
+3 Tergrid, God of Fright
 3 Mythos of Nethroi
-4 Mythos of Nethroi
 4 Tergrid, God of Fright
+4 Mythos of Nethroi
 1 Mazemind Tome
 1 Banishing Light
 1 Skyclave Apparition
@@ -166,57 +166,57 @@
 2 Snow-Covered Swamp
 3 Snow-Covered Forest
 3 Snow-Covered Swamp
+1 Omen of the Hunt
+1 Rampage of the Valkyries
+1 Snowfield Sinkhole
 1 Woodland Chasm
 1 Sculptor of Winter
 1 Evolving Wilds
+1 Shimmerdrift Vale
 1 Arctic Treeline
-1 Skull Raid
 1 Snow-Covered Plains
+1 Skull Raid
 1 Great Hall of Starnheim
 1 Elderfang Disciple
 1 Sarulf's Packmate
 1 Feed the Serpent
-1 Shimmerdrift Vale
-1 Rampage of the Valkyries
 1 Shepherd of the Flock
 1 Kogla, the Titan Ape
-1 Snowfield Sinkhole
 1 Grasp of Darkness
-1 Omen of the Hunt
+2 Omen of the Hunt
+2 Great Hall of Starnheim
+2 Rampage of the Valkyries
+2 Snowfield Sinkhole
+2 Shimmerdrift Vale
 2 Woodland Chasm
 2 Sculptor of Winter
 2 Evolving Wilds
 2 Skull Raid
-2 Arctic Treeline
 2 Elderfang Disciple
+2 Arctic Treeline
 2 Sarulf's Packmate
-2 Great Hall of Starnheim
-2 Omen of the Hunt
 2 Feed the Serpent
-2 Rampage of the Valkyries
-2 Shimmerdrift Vale
-2 Snowfield Sinkhole
 2 Grasp of Darkness
-3 Sculptor of Winter
-3 Elderfang Disciple
-3 Sarulf's Packmate
-3 Omen of the Hunt
-3 Woodland Chasm
+3 Rampage of the Valkyries
 3 Shimmerdrift Vale
+3 Sculptor of Winter
+3 Omen of the Hunt
 3 Skull Raid
 3 Evolving Wilds
-3 Rampage of the Valkyries
+3 Elderfang Disciple
+3 Sarulf's Packmate
+3 Woodland Chasm
+4 Shimmerdrift Vale
 4 Sculptor of Winter
 4 Snow-Covered Forest
+4 Skull Raid
+4 Evolving Wilds
 4 Llanowar Visionary
 4 Snow-Covered Swamp
 4 Sarulf's Packmate
 4 Omen of the Hunt
 4 Elderfang Disciple
-4 Skull Raid
-4 Evolving Wilds
 4 Woodland Chasm
-4 Shimmerdrift Vale
 4 Rampage of the Valkyries
 5 Snow-Covered Swamp
 5 Snow-Covered Forest
@@ -225,19 +225,12 @@
 7 Snow-Covered Swamp
 1 Vorinclex, Monstrous Raider
 2 Vorinclex, Monstrous Raider
-1 The Akroan War
-1 Raugrin Triome
-2 The Akroan War
-2 Raugrin Triome
-2 Ondu Inversion
-3 Shatterskull Smashing
-3 Raugrin Triome
 1 Chevill, Bane of Monsters
 1 Hagra Mauling
 1 Easy Prey
+1 Agonizing Remorse
 1 The World Tree
 1 Murderous Rider
-1 Agonizing Remorse
 2 Kaya the Inexorable
 2 Chevill, Bane of Monsters
 2 The World Tree
@@ -248,6 +241,13 @@
 3 Chevill, Bane of Monsters
 3 Murderous Rider
 3 Agonizing Remorse
+1 The Akroan War
+1 Raugrin Triome
+2 Ondu Inversion
+2 The Akroan War
+2 Raugrin Triome
+3 Shatterskull Smashing
+3 Raugrin Triome
 1 Temple of Triumph
 1 Soul Sear
 1 Sejiri Shelter
@@ -256,29 +256,29 @@
 3 Soul Sear
 4 Soul Sear
 5 Mountain
-1 Dream Devourer
 1 Zagoth Triome
 1 Liliana, Waker of the Dead
+1 Dream Devourer
 1 Temple of Abandon
 1 Cragcrown Pathway
 1 Snow-Covered Mountain
 1 Blightstep Pathway
-2 Dream Devourer
 2 Liliana, Waker of the Dead
 2 Snow-Covered Mountain
 2 Blightstep Pathway
+2 Dream Devourer
 2 Cragcrown Pathway
 3 Lukka, Coppercoat Outcast
-3 Dream Devourer
 3 Vorinclex, Monstrous Raider
 3 Ugin, the Spirit Dragon
 3 Solemn Simulacrum
+3 Dream Devourer
 3 Blightstep Pathway
 4 Lukka, Coppercoat Outcast
-4 Dream Devourer
 4 Ugin, the Spirit Dragon
 4 Solemn Simulacrum
 4 Cultivate
 4 Vorinclex, Monstrous Raider
+4 Dream Devourer
 4 Blightstep Pathway
 4 Valki, God of Lies

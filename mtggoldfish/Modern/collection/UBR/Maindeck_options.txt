@@ -24,8 +24,8 @@
 1 Botanical Sanctum
 2 Glassdust Hulk
 1 Seachrome Coast
-1 Snow-Covered Forest
 1 Snow-Covered Plains
+1 Snow-Covered Forest
 3 Misty Rainforest
 3 Glassdust Hulk
 4 Misty Rainforest
@@ -55,27 +55,27 @@
 1 Blood Crypt
 2 Swamp
 1 Valki, God of Lies
-1 Kolaghan's Command
+1 Creeping Tar Pit
 1 Dreadbore
 1 Logic Knot
-1 Creeping Tar Pit
 1 Drown in the Loch
 1 Serum Visions
+1 Kolaghan's Command
 1 Cascade Bluffs
 1 Lightning Bolt
 1 Snapcaster Mage
+2 Creeping Tar Pit
 2 Valki, God of Lies
 2 Kolaghan's Command
 2 Dreadbore
 2 Drown in the Loch
 2 Snapcaster Mage
 2 Logic Knot
-2 Creeping Tar Pit
 2 Serum Visions
 2 Lightning Bolt
 3 Archmage's Charm
-3 Lightning Bolt
 3 Kolaghan's Command
+3 Lightning Bolt
 3 Snapcaster Mage
 3 Serum Visions
 4 Cryptic Command
@@ -114,31 +114,45 @@
 4 Lightning Bolt
 4 Serum Visions
 1 Finale of Promise
+1 Adarkar Wastes
+1 Generous Gift
+1 Failure/Comply
+2 Adarkar Wastes
+2 Imposing Vantasaur
+2 Generous Gift
+2 Failure/Comply
+2 Seachrome Coast
+3 Seachrome Coast
+3 Adarkar Wastes
+3 Imposing Vantasaur
+4 Seachrome Coast
+4 Adarkar Wastes
+4 Imposing Vantasaur
 1 Mana Confluence
 1 Inspiring Vantage
 2 Botanical Sanctum
 4 Brazen Borrower
 1 Prismatic Vista
-2 Prismatic Vista
 2 Hallowed Fountain
+2 Prismatic Vista
 3 Prismatic Vista
 3 Hallowed Fountain
 4 Prismatic Vista
 1 Behold the Multiverse
+1 Deprive
 1 Unearth
 1 Pack Rat
 1 Mana Leak
 1 Thoughtseize
 1 River of Tears
 1 Cling to Dust
-1 Deprive
 2 Cling to Dust
 2 Mystic Sanctuary
+2 Deprive
 2 Behold the Multiverse
 2 Mana Leak
 2 Thoughtseize
 2 River of Tears
-2 Deprive
 3 Watery Grave
 3 Behold the Multiverse
 3 Thoughtseize
@@ -148,25 +162,11 @@
 4 Thoughtseize
 4 Jace, Vryn's Prodigy
 4 Mishra's Bauble
-1 Generous Gift
-1 Failure/Comply
-1 Adarkar Wastes
-2 Imposing Vantasaur
-2 Adarkar Wastes
-2 Generous Gift
-2 Failure/Comply
-2 Seachrome Coast
-3 Seachrome Coast
-3 Imposing Vantasaur
-3 Adarkar Wastes
-4 Seachrome Coast
-4 Imposing Vantasaur
-4 Adarkar Wastes
 1 Wooded Foothills
-1 Overgrown Tomb
 1 Bloodstained Mire
 1 Fulminator Mage
 1 Beast Within
+1 Overgrown Tomb
 1 Blackcleave Cliffs
 1 Deadshot Minotaur
 1 Horror of the Broken Lands

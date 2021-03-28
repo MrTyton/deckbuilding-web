@@ -22,10 +22,10 @@
 3 Abrupt Decay
 4 Arcum's Astrolabe
 5 Snow-Covered Island
-3 Polluted Delta
-1 Bayou
 1 Teferi, Time Raveler
+3 Polluted Delta
 1 Volcanic Island
+1 Bayou
 3 Snapcaster Mage
 3 Walking Ballista
 4 Polluted Delta
@@ -34,12 +34,6 @@
 3 Oko, Thief of Crowns
 4 Swords to Plowshares
 1 Relic of Progenitus
-1 Horizon Canopy
-2 Tropical Island
-1 Baleful Strix
-2 Baleful Strix
-2 Trinket Mage
-4 Uro, Titan of Nature's Wrath
 1 Taiga
 1 Scalding Tarn
 1 Lightning Bolt
@@ -49,11 +43,11 @@
 3 Scalding Tarn
 1 Birds of Paradise
 2 Birds of Paradise
-1 Cling to Dust
-6 Snow-Covered Island
 1 Hydroid Krasis
-1 Sylvan Library
-3 Baleful Strix
+2 Tropical Island
+1 Baleful Strix
+2 Baleful Strix
+1 Horizon Canopy
 1 Snow-Covered Mountain
 1 Waterlogged Grove
 1 Imperial Recruiter
@@ -62,6 +56,13 @@
 3 Birds of Paradise
 3 Imperial Recruiter
 4 Scalding Tarn
+2 Trinket Mage
+4 Uro, Titan of Nature's Wrath
+1 Cling to Dust
+6 Snow-Covered Island
+1 Sylvan Library
+3 Baleful Strix
+1 Scavenging Ooze
 1 Spellseeker
 1 Hullbreacher
 2 Hullbreacher
@@ -95,7 +96,6 @@
 4 Snow-Covered Forest
 4 Chalice of the Void
 4 Manipulate Fate
-1 Scavenging Ooze
 1 Assassin's Trophy
 1 Verdant Catacombs
 2 Verdant Catacombs
@@ -113,10 +113,10 @@
 1 Wooded Foothills
 1 Veil of Summer
 1 Purphoros, God of the Forge
-2 Wooded Foothills
 2 Taiga
+2 Wooded Foothills
 2 Purphoros, God of the Forge
 4 Misthollow Griffin
-1 Tidespout Tyrant
 1 Leovold, Emissary of Trest
+1 Tidespout Tyrant
 4 Noble Hierarch

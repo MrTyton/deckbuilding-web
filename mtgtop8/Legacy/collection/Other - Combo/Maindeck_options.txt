@@ -17,8 +17,8 @@
 4 Archive Trap
 1 Swamp
 1 Misty Rainforest
-2 Prismatic Vista
 2 Misty Rainforest
+2 Prismatic Vista
 3 Misty Rainforest
 1 Waterlogged Grove
 5 Island
@@ -76,6 +76,28 @@
 1 Maddening Cacophony
 2 Maddening Cacophony
 3 Maddening Cacophony
+1 Snow-Covered Mountain
+1 Lightning Bolt
+1 Snow-Covered Plains
+1 Swords to Plowshares
+1 Pestermite
+1 Mystic Sanctuary
+1 Arcum's Astrolabe
+1 Force of Negation
+1 Snapcaster Mage
+2 Snapcaster Mage
+2 Mystic Sanctuary
+2 Snow-Covered Mountain
+2 Swords to Plowshares
+2 Pestermite
+2 Arcum's Astrolabe
+3 Arcum's Astrolabe
+3 Swords to Plowshares
+3 Splinter Twin
+4 Arcum's Astrolabe
+4 Teferi, Time Raveler
+4 Swords to Plowshares
+4 Splinter Twin
 1 Thieves' Guild Enforcer
 1 Bitterblossom
 1 Drown in the Loch
@@ -92,28 +114,6 @@
 1 Bruvac the Grandiloquent
 3 Mission Briefing
 4 Glimpse the Unthinkable
-1 Snow-Covered Mountain
-1 Lightning Bolt
-1 Snow-Covered Plains
-1 Swords to Plowshares
-1 Pestermite
-1 Mystic Sanctuary
-1 Arcum's Astrolabe
-1 Force of Negation
-1 Snapcaster Mage
-2 Snapcaster Mage
-2 Mystic Sanctuary
-2 Snow-Covered Mountain
-2 Swords to Plowshares
-2 Pestermite
-2 Arcum's Astrolabe
-3 Swords to Plowshares
-3 Splinter Twin
-3 Arcum's Astrolabe
-4 Teferi, Time Raveler
-4 Swords to Plowshares
-4 Splinter Twin
-4 Arcum's Astrolabe
 1 Day's Undoing
 1 Mountain
 1 Dack Fayden
@@ -136,8 +136,8 @@
 2 Jace, the Mind Sculptor
 3 Day's Undoing
 3 Hullbreacher
-3 Chrome Mox
 3 Blood Moon
+3 Chrome Mox
 3 Volcanic Island
 3 Izzet Charm
 4 Ancient Tomb
