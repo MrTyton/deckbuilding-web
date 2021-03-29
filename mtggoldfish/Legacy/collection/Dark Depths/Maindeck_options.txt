@@ -3,10 +3,9 @@
 4 Verdant Catacombs
 1 Bayou
 2 Bayou
-3 Not of This World
-1 Karakas
 2 Elvish Reclaimer
 3 Elvish Reclaimer
+1 Karakas
 1 Nurturing Peatland
 1 Dark Confidant
 1 Abrupt Decay
@@ -16,30 +15,29 @@
 4 Elvish Reclaimer
 1 Mox Diamond
 2 Mox Diamond
+3 Not of This World
 1 Sylvan Safekeeper
 1 Snow-Covered Swamp
 1 Snow-Covered Forest
+1 Once Upon a Time
+2 Once Upon a Time
+3 Once Upon a Time
+4 Once Upon a Time
+2 Nurturing Peatland
 2 Wasteland
-1 Swamp
-1 Ghost Quarter
 4 Dark Confidant
 1 Sylvan Library
 2 Sylvan Library
 3 Abrupt Decay
-1 Once Upon a Time
-2 Once Upon a Time
-3 Once Upon a Time
-1 Forest
-4 Abrupt Decay
-2 Nurturing Peatland
-4 Once Upon a Time
 2 Sylvan Safekeeper
-3 Mox Diamond
+1 Swamp
+4 Abrupt Decay
+1 Ghost Quarter
 3 Bayou
+1 Forest
+3 Mox Diamond
 1 Flusterstorm
 4 Mox Diamond
-3 Pithing Needle
-4 Pithing Needle
 1 Dark Ritual
 2 Dark Ritual
 3 Dark Ritual
@@ -56,10 +54,10 @@
 1 Karn, the Great Creator
 2 Snow-Covered Swamp
 2 Ancient Tomb
+2 Helm of Obedience
 2 Leyline of the Void
 2 Karn, the Great Creator
 2 Ill-Gotten Gains
-2 Helm of Obedience
 2 Lion's Eye Diamond
 2 Infernal Tutor
 3 Snow-Covered Swamp
@@ -69,20 +67,22 @@
 3 Infernal Tutor
 3 Duress
 4 Snow-Covered Swamp
-4 Duress
 4 Leyline of the Void
 4 Lion's Eye Diamond
+4 Duress
 4 Infernal Tutor
 4 Dark Ritual
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
+3 Pithing Needle
 1 Taiga
 1 Badlands
 1 Wooded Foothills
 1 Misty Rainforest
 3 Inquisition of Kozilek
+4 Pithing Needle
 1 Stitcher's Supplier
 1 Satyr Wayfinder
 1 Life from the Loam
@@ -117,25 +117,25 @@
 3 Brainstorm
 4 Stifle
 4 Brainstorm
-1 Blast Zone
-1 Castle Locthwain
-1 Smallpox
-1 Liliana's Triumph
 1 Hymn to Tourach
+1 Liliana's Triumph
+1 Castle Locthwain
 1 Crucible of Worlds
+1 Smallpox
 1 Liliana of the Veil
+1 Blast Zone
 1 Innocent Blood
 1 Court of Ambition
-2 Liliana of the Veil
 2 Hymn to Tourach
+2 Liliana of the Veil
 2 Swamp
 2 Smallpox
 2 Innocent Blood
 2 Blast Zone
 2 Crucible of Worlds
 2 Court of Ambition
-3 Liliana of the Veil
 3 Hymn to Tourach
+3 Liliana of the Veil
 3 Swamp
 3 Smallpox
 3 Wasteland
@@ -143,8 +143,8 @@
 3 Innocent Blood
 4 Hymn to Tourach
 4 Smallpox
-4 Wasteland
 4 Swamp
+4 Wasteland
 4 Liliana of the Veil
 5 Swamp
 6 Swamp

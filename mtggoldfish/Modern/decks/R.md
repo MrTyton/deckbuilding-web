@@ -1,7 +1,7 @@
 # R
 
 #### [Export MTGO List](../collection/R/R.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Abbot%20of%20Keral%20Keep%0A4%09Blood%20Moon%0A4%09Bonecrusher%20Giant%0A4%09Firebolt%0A4%09Flame%20Slash%0A4%09Heartfire%20Immolator%0A4%09Lightning%20Bolt%0A4%09Monastery%20Swiftspear%0A12%09Mountain%0A4%09Seasoned%20Pyromancer%0A4%09Shatterskull%20Smashing%0A4%09Snow-Covered%20Mountain%0A4%09Valakut%20Awakening&deckside=1%09Abrade%0A3%09Dragon's%20Claw%0A3%09Pithing%20Needle%0A4%09Ratchet%20Bomb%0A4%09Relic%20of%20Progenitus)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Abbot%20of%20Keral%20Keep%0A4%09Blood%20Moon%0A4%09Bonecrusher%20Giant%0A4%09Firebolt%0A4%09Flame%20Slash%0A4%09Heartfire%20Immolator%0A4%09Lightning%20Bolt%0A4%09Monastery%20Swiftspear%0A12%09Mountain%0A4%09Seasoned%20Pyromancer%0A4%09Shatterskull%20Smashing%0A4%09Snow-Covered%20Mountain%0A4%09Valakut%20Awakening&deckside=3%09Dragon's%20Claw%0A4%09Pithing%20Needle%0A4%09Ratchet%20Bomb%0A4%09Relic%20of%20Progenitus)
 # Maindeck
 
 |                                          Creature (20)                                          |                                   Enchantment (4)                                    |                                         Instant (8)                                          |                                            Land (16)                                             |                                           Sorcery (12)                                           |
@@ -15,30 +15,30 @@
 
 # Sideboard
 
-|                                         Artifact (14)                                          |                                    Instant (1)                                    |
-|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-|3 [Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)      |1 [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)|
-|3 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)     |                                                                                   |
-|4 [Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)       |                                                                                   |
-|4 [Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|                                                                                   |
+|                                         Artifact (15)                                          |
+|------------------------------------------------------------------------------------------------|
+|3 [Dragon's Claw](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129527)      |
+|4 [Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)     |
+|4 [Ratchet Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370623)       |
+|4 [Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)|
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    5|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)        |
-|                    6|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)        |
-|                    7|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    4|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)        |
-|                    8|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    4|[Pithing Needle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129526)|
-|                    9|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    1|[Brittle Effigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438496)|
-|                   10|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    2|[Brittle Effigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438496)|
-|                   11|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    3|[Brittle Effigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438496)|
-|                   12|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    4|[Brittle Effigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438496)|
-|                    1|[Forgotten Cave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376344)       |                    1|[Pillage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14755)        |
-|                    1|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796)     |                    2|[Pillage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14755)        |
-|                    1|[Lava Dart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29766)             |                    3|[Pillage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14755)        |
-|                    2|[Forgotten Cave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376344)       |                    4|[Pillage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14755)        |
+|                    5|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)        |
+|                    6|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)        |
+|                    7|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    3|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)        |
+|                    8|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    4|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)        |
+|                    9|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    1|[Pillage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14755)        |
+|                   10|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    2|[Pillage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14755)        |
+|                   11|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    3|[Pillage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14755)        |
+|                   12|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    4|[Pillage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14755)        |
+|                    1|[Forgotten Cave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376344)       |                    1|[Brittle Effigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438496)|
+|                    1|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796)     |                    2|[Brittle Effigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438496)|
+|                    1|[Lava Dart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29766)             |                    3|[Brittle Effigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438496)|
+|                    2|[Forgotten Cave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376344)       |                    4|[Brittle Effigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438496)|
 |                    2|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796)     |                     |                                                                                         |
 |                    2|[Lava Dart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29766)             |                     |                                                                                         |
 |                    3|[Forgotten Cave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376344)       |                     |                                                                                         |
@@ -51,8 +51,8 @@
 |                    1|[Spikefield Hazard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491809)    |                     |                                                                                         |
 |                    1|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)   |                     |                                                                                         |
 |                    2|[Spikefield Hazard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491809)    |                     |                                                                                         |
-|                    2|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)   |                     |                                                                                         |
 |                    2|[Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853)   |                     |                                                                                         |
+|                    2|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)   |                     |                                                                                         |
 |                    3|[Goblin Cratermaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452853)   |                     |                                                                                         |
 |                    3|[Spikefield Hazard](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491809)    |                     |                                                                                         |
 |                    3|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)   |                     |                                                                                         |

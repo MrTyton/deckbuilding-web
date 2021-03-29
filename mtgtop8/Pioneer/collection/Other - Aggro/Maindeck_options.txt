@@ -1,9 +1,3 @@
-1 Thraben Inspector
-1 Caves of Koilos
-1 Thalia's Lieutenant
-1 Giant Killer
-1 Luminarch Aspirant
-2 Thraben Inspector
 2 Thalia's Lieutenant
 2 Caves of Koilos
 3 Thraben Inspector
@@ -12,17 +6,22 @@
 4 Thalia's Lieutenant
 2 Plains
 1 Rally the Ranks
+1 Brightclimb Pathway
 1 Kitesail Freebooter
 1 Concealed Courtyard
 1 Bloodsoaked Champion
 1 Dauntless Bodyguard
+1 Godless Shrine
 2 Kitesail Freebooter
 2 Concealed Courtyard
+2 Godless Shrine
 2 Rally the Ranks
 2 Bloodsoaked Champion
+2 Brightclimb Pathway
 2 Luminarch Aspirant
 2 Dauntless Bodyguard
 2 Giant Killer
+3 Brightclimb Pathway
 3 Giant Killer
 3 Kitesail Freebooter
 3 Luminarch Aspirant
@@ -31,6 +30,7 @@
 3 Godless Shrine
 3 Bloodsoaked Champion
 3 Rally the Ranks
+4 Brightclimb Pathway
 4 Godless Shrine
 4 Rally the Ranks
 4 Dauntless Bodyguard
@@ -44,7 +44,6 @@
 2 Heartless Act
 3 Caves of Koilos
 4 Caves of Koilos
-4 Mutavault
 1 Unclaimed Territory
 2 Unclaimed Territory
 3 Plains
@@ -61,8 +60,8 @@
 2 Eliminate
 1 Of One Mind
 1 Zagoth Triome
-2 Cling to Dust
 2 Of One Mind
+2 Cling to Dust
 2 Zagoth Triome
 3 Merfolk Windrobber
 3 Of One Mind
@@ -125,20 +124,12 @@
 4 Claim / Fame
 4 Stitcher's Supplier
 4 Blooming Marsh
-1 Soldier of the Pantheon
-1 Codespell Cleric
-1 Dire Tactics
-2 Soldier of the Pantheon
-2 Codespell Cleric
-3 Soldier of the Pantheon
-4 Kitesail Freebooter
-4 Concealed Courtyard
 1 Temple Garden
 2 Temple Garden
 1 Charming Prince
+1 Hostage Taker
 1 Llanowar Wastes
 1 Elite Guardmage
-1 Hostage Taker
 1 Judith, the Scourge Diva
 1 Mana Confluence
 1 Renegade Rallier
@@ -186,8 +177,8 @@
 2 Fabled Passage
 3 Drowned Catacomb
 3 Nighthawk Scavenger
-3 Island
 3 Brazen Borrower
+3 Island
 4 Drowned Catacomb
 4 Glint-Sleeve Siphoner
 4 Brazen Borrower
@@ -210,11 +201,11 @@
 2 Favored Hoplite
 2 Needleverge Pathway
 2 Gods Willing
+2 Gird for Battle
 2 Monastery Swiftspear
 2 Boros Charm
 2 Sacred Foundry
 2 Battlefield Forge
-2 Gird for Battle
 2 Soul-Scar Mage
 2 Reckless Rage
 2 Dreadhorde Arcanist
@@ -236,8 +227,8 @@
 3 Gird for Battle
 3 Dreadhorde Arcanist
 4 Tenth District Legionnaire
-4 Favored Hoplite
 4 Needleverge Pathway
+4 Favored Hoplite
 4 Soul-Scar Mage
 4 Reckless Rage
 4 Defiant Strike
@@ -263,8 +254,8 @@
 5 Forest
 1 Unflinching Courage
 1 Bassara Tower Archer
-1 Gladecover Scout
 1 Season of Growth
+1 Gladecover Scout
 1 Adanto Vanguard
 1 Helm of the Gods
 1 Cartouche of Solidarity
@@ -346,47 +337,18 @@
 4 Call of the Conclave
 4 Starnheim Unleashed
 4 Esika's Chariot
-1 Gifted Aetherborn
-1 Champion of Dusk
-1 Sorin, Imperious Bloodlord
-1 Dusk Legion Zealot
-1 Bloodchief's Thirst
-1 Isolated Chapel
-1 Blood Baron of Vizkopa
-1 Castle Locthwain
-1 Knight of the Ebon Legion
-1 Kalitas, Traitor of Ghet
-1 Murderous Rider
-2 Blood Baron of Vizkopa
-2 Sorin, Imperious Bloodlord
-2 Champion of Dusk
-2 Dusk Legion Zealot
-2 Gifted Aetherborn
-2 Castle Locthwain
-2 Swamp
-2 Isolated Chapel
-2 Knight of the Ebon Legion
-2 Murderous Rider
-2 Kalitas, Traitor of Ghet
-3 Gifted Aetherborn
-3 Dusk Legion Zealot
-3 Champion of Dusk
-3 Sorin, Imperious Bloodlord
-3 Castle Locthwain
-3 Swamp
-3 Knight of the Ebon Legion
-3 Murderous Rider
-4 Sorin, Imperious Bloodlord
-4 Gifted Aetherborn
-4 Champion of Dusk
-4 Knight of the Ebon Legion
-4 Swamp
-5 Swamp
-6 Swamp
-7 Swamp
+1 Soldier of the Pantheon
+1 Codespell Cleric
+1 Dire Tactics
+2 Soldier of the Pantheon
+2 Codespell Cleric
+3 Soldier of the Pantheon
+4 Kitesail Freebooter
+4 Concealed Courtyard
+4 Mutavault
 1 Questing Beast
-1 Hinterland Harbor
 1 Nykthos, Shrine to Nyx
+1 Hinterland Harbor
 1 Voracious Hydra
 1 Vivien, Arkbow Ranger
 1 Garruk's Uprising

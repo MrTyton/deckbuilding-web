@@ -25,8 +25,8 @@
 4 Simian Spirit Guide
 3 Bomat Courier
 4 Bomat Courier
-1 Bonecrusher Giant
 1 Goblin Chainwhirler
+1 Bonecrusher Giant
 2 Bonecrusher Giant
 2 Goblin Chainwhirler
 3 Bonecrusher Giant
@@ -71,25 +71,18 @@
 3 Scourge of the Skyclaves
 3 Street Wraith
 3 Blood Crypt
-4 Arid Mesa
 4 Street Wraith
+4 Arid Mesa
 4 Scourge of the Skyclaves
-1 Barbarian Ring
-1 Fiery Islet
-1 Sunbaked Canyon
-2 Barbarian Ring
-2 Sunbaked Canyon
-2 Fiery Islet
-4 Light Up the Stage
+1 Inquisition of Kozilek
 1 Cling to Dust
 1 Fruit of Tizerus
 1 Faithless Looting
-1 Dark Confidant
-1 Inquisition of Kozilek
+1 Pyromancer Ascension
 1 Smoldering Marsh
 1 Grim Lavamancer
+1 Dark Confidant
 1 Swamp
-1 Pyromancer Ascension
 1 Thunderous Wrath
 1 Sword-Point Diplomacy
 2 Swamp
@@ -99,12 +92,19 @@
 2 Pyromancer Ascension
 2 Smoldering Marsh
 2 Sword-Point Diplomacy
+3 Swamp
 3 Inquisition of Kozilek
 3 Pyromancer Ascension
-3 Swamp
 3 Fruit of Tizerus
-4 Inquisition of Kozilek
 4 Pyromancer Ascension
+4 Inquisition of Kozilek
+1 Barbarian Ring
+1 Fiery Islet
+1 Sunbaked Canyon
+2 Barbarian Ring
+2 Sunbaked Canyon
+2 Fiery Islet
+4 Light Up the Stage
 1 Akoum Hellhound
 1 Prismatic Vista
 1 Vexing Devil
@@ -114,6 +114,6 @@
 3 Akoum Hellhound
 3 Prismatic Vista
 3 Vexing Devil
+4 Akoum Hellhound
 4 Vexing Devil
 4 Prismatic Vista
-4 Akoum Hellhound

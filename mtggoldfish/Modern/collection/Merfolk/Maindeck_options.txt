@@ -74,8 +74,8 @@
 8 Island
 1 Spell Pierce
 1 Cursecatcher
-2 Hallowed Fountain
 2 Spell Pierce
+2 Hallowed Fountain
 2 Cursecatcher
 1 Bind the Monster
 2 Bind the Monster
@@ -92,12 +92,6 @@
 1 Disrupting Shoal
 2 Disrupting Shoal
 3 Disrupting Shoal
-1 Tidebinder Mage
-2 Tidebinder Mage
-3 Flooded Strand
-3 Tidebinder Mage
-4 Flooded Strand
-4 Tidebinder Mage
 1 Sygg, River Guide
 4 Harbinger of the Tides
 1 Mishra's Bauble
@@ -119,13 +113,22 @@
 4 Puresight Merrow
 4 Smuggler's Copter
 4 Paradise Mantle
-1 Phantasmal Image
-2 Phantasmal Image
-3 Phantasmal Image
-9 Snow-Covered Island
-10 Snow-Covered Island
-11 Snow-Covered Island
-12 Snow-Covered Island
+1 Relic of Progenitus
+1 Faerie Conclave
+1 Castle Vantress
+2 Relic of Progenitus
+2 Castle Vantress
+2 Faerie Conclave
+3 Relic of Progenitus
+3 Faerie Conclave
+4 Relic of Progenitus
+4 Faerie Conclave
+1 Tidebinder Mage
+2 Tidebinder Mage
+3 Tidebinder Mage
+3 Flooded Strand
+4 Tidebinder Mage
+4 Flooded Strand
 1 Mystic Reflection
 1 Master of Waves
 2 Master of Waves
@@ -135,13 +138,10 @@
 4 Master of Waves
 11 Island
 12 Island
-1 Relic of Progenitus
-1 Castle Vantress
-1 Faerie Conclave
-2 Castle Vantress
-2 Relic of Progenitus
-2 Faerie Conclave
-3 Relic of Progenitus
-3 Faerie Conclave
-4 Relic of Progenitus
-4 Faerie Conclave
+1 Phantasmal Image
+2 Phantasmal Image
+3 Phantasmal Image
+9 Snow-Covered Island
+10 Snow-Covered Island
+11 Snow-Covered Island
+12 Snow-Covered Island

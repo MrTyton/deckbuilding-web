@@ -4,11 +4,8 @@
 3 Spreading Seas
 3 Skyclave Apparition
 4 Spreading Seas
-2 Snow-Covered Forest
-1 Raugrin Triome
 1 Forest
 1 Ketria Triome
-1 Sacred Foundry
 1 Snow-Covered Mountain
 1 Mountain
 1 Steam Vents
@@ -17,8 +14,8 @@
 1 Bring to Light
 1 Godless Shrine
 1 Wrenn and Six
-1 Kaya's Guile
 1 Niv-Mizzet Reborn
+1 Kaya's Guile
 1 Assassin's Trophy
 1 Lightning Helix
 1 Supreme Verdict
@@ -41,34 +38,37 @@
 1 Dreadbore
 1 Plains
 1 Island
-2 Lurrus of the Dream-Den
-1 Deputy of Detention
 4 Omnath, Locus of Creation
 1 Kolaghan's Command
 1 Verdant Catacombs
-2 Forest
 1 Pillar of the Paruns
 2 Pillar of the Paruns
-4 Wrenn and Six
 4 Kaya's Guile
-3 Birds of Paradise
+1 Sacred Foundry
+2 Snow-Covered Forest
+1 Raugrin Triome
 2 Verdant Catacombs
 3 Pillar of the Paruns
-4 Wooded Foothills
+4 Wrenn and Six
+2 Lurrus of the Dream-Den
+1 Deputy of Detention
+2 Forest
 2 Assassin's Trophy
+3 Birds of Paradise
 3 Assassin's Trophy
 4 Teferi, Time Raveler
-1 Uro, Titan of Nature's Wrath
-1 Knight of Autumn
-1 Snow-Covered Swamp
+4 Wooded Foothills
 1 Nahiri, the Harbinger
 2 Nahiri, the Harbinger
 1 Swamp
+1 Uro, Titan of Nature's Wrath
+1 Knight of Autumn
+1 Snow-Covered Swamp
 4 Assassin's Trophy
 1 Abrupt Decay
 3 Snow-Covered Forest
-1 Seasoned Pyromancer
 1 On Thin Ice
+1 Seasoned Pyromancer
 4 Skyclave Apparition
 2 Seal of Fire
 1 Kitchen Finks
@@ -82,14 +82,14 @@
 1 Eidolon of Rhetoric
 4 Birds of Paradise
 1 Turntimber Symbiosis
-1 Hagra Mauling
 1 Sea Gate Restoration
+1 Hagra Mauling
 1 Shatterskull Smashing
-1 Pentad Prism
-1 Sword of the Meek
-1 Emeria's Call
-1 Balustrade Spy
 1 Agadeem's Awakening
+1 Pentad Prism
+1 Emeria's Call
+1 Sword of the Meek
+1 Balustrade Spy
 1 Phantasmagorian
 1 Salvage Titan
 1 Talisman of Resilience
@@ -99,21 +99,21 @@
 1 Narcomoeba
 2 Turntimber Symbiosis
 2 Sea Gate Restoration
+2 Shatterskull Smashing
 2 Agadeem's Awakening
 2 Pentad Prism
 2 Emeria's Call
 2 Balustrade Spy
 2 Talisman of Resilience
 2 Creeping Chill
-2 Shatterskull Smashing
 2 Vengevine
 2 Sword of the Meek
 2 Undercity Informer
 2 Narcomoeba
+3 Emeria's Call
 3 Turntimber Symbiosis
 3 Sea Gate Restoration
 3 Balustrade Spy
-3 Emeria's Call
 3 Pentad Prism
 3 Agadeem's Awakening
 3 Vengevine
@@ -143,12 +143,12 @@
 2 Sphere of the Suns
 1 Nissa of Shadowed Boughs
 2 Thoughtseize
-1 Pelakka Predation
 1 Goblin Charbelcher
+1 Pelakka Predation
 1 Pact of Negation
 4 Shatterskull Smashing
-1 Calix, Destiny's Hand
 1 Fulminator Mage
+1 Calix, Destiny's Hand
 3 Abrupt Decay
 2 Uro, Titan of Nature's Wrath
 2 Lithoform Blight
@@ -178,18 +178,19 @@
 1 Leyline of Sanctity
 2 Leyline of Sanctity
 3 Leyline of Sanctity
-1 Shadows' Verdict
 1 Fatal Push
 1 Deafening Clarion
+1 Shadows' Verdict
 2 Fatal Push
+3 Nahiri, the Harbinger
 3 Thoughtseize
 3 Fatal Push
-3 Nahiri, the Harbinger
-4 Thoughtseize
 4 Fatal Push
+4 Thoughtseize
 1 Cosima, God of the Voyage
 1 Archon of Emeria
 1 Maelstrom Pulse
+1 Oath of Kaya
 1 Reidane, God of the Worthy
 1 Spike Feeder
 1 Heliod, Sun-Crowned
@@ -200,11 +201,13 @@
 1 Coiling Oracle
 1 Flooded Strand
 1 Bloodstained Mire
-2 Marsh Flats
 2 Coiling Oracle
+2 Marsh Flats
 2 Bloodstained Mire
 3 Coiling Oracle
 4 Coiling Oracle
+3 Omen of the Forge
+4 Omen of the Forge
 1 Highland Forest
 1 Golos, Tireless Pilgrim
 1 Rimewood Falls
@@ -214,10 +217,8 @@
 2 Ice-Fang Coatl
 3 Felidar Guardian
 3 Oath of Nissa
-4 Oath of Nissa
 4 Felidar Guardian
-3 Omen of the Forge
-4 Omen of the Forge
+4 Oath of Nissa
 1 Scalding Tarn
 4 Growth Spiral
 1 Thassa's Oracle

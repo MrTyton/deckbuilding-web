@@ -1,7 +1,7 @@
 # Slivers
 
 #### [Export MTGO List](../collection/Slivers/Slivers.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A4%09Cavern%20of%20Souls%0A4%09Cloudshredder%20Sliver%0A2%09Dregscape%20Sliver%0A2%09Fiery%20Islet%0A3%09Frenetic%20Sliver%0A4%09Galerider%20Sliver%0A4%09Leeching%20Sliver%0A3%09Mutavault%0A1%09Plains%0A4%09Predatory%20Sliver%0A2%09Realmwalker%0A2%09Sidewinder%20Sliver%0A2%09Silent%20Clearing%0A4%09Sinew%20Sliver%0A4%09Sliver%20Hive%0A3%09Striking%20Sliver%0A4%09Unclaimed%20Territory%0A4%09Unsettled%20Mariner&deckside=4%09Chalice%20of%20the%20Void%0A3%09Dismember%0A3%09Harmonic%20Sliver%0A4%09Leyline%20of%20the%20Void%0A1%09Masked%20Vandal)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A4%09Cavern%20of%20Souls%0A4%09Cloudshredder%20Sliver%0A2%09Dregscape%20Sliver%0A2%09Fiery%20Islet%0A3%09Frenetic%20Sliver%0A4%09Galerider%20Sliver%0A4%09Leeching%20Sliver%0A3%09Mutavault%0A1%09Plains%0A4%09Predatory%20Sliver%0A2%09Realmwalker%0A2%09Sidewinder%20Sliver%0A2%09Silent%20Clearing%0A4%09Sinew%20Sliver%0A4%09Sliver%20Hive%0A3%09Striking%20Sliver%0A4%09Unclaimed%20Territory%0A4%09Unsettled%20Mariner&deckside=4%09Chalice%20of%20the%20Void%0A1%09Damping%20Matrix%0A3%09Dismember%0A3%09Harmonic%20Sliver%0A4%09Leyline%20of%20the%20Void)
 # Maindeck
 
 |                                     Artifact (4)                                      |                                          Creature (36)                                          |                                           Land (20)                                            |
@@ -21,23 +21,23 @@
 
 # Sideboard
 
-|                                          Artifact (4)                                          |                                        Creature (4)                                        |                                        Enchantment (4)                                         |                                     Instant (3)                                      |
+|                                          Artifact (5)                                          |                                        Creature (3)                                        |                                        Enchantment (4)                                         |                                     Instant (3)                                      |
 |------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 |4 [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442211)|3 [Harmonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109706)|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|3 [Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)|
-|                                                                                                |1 [Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800)  |                                                                                                |                                                                                      |
+|1 [Damping Matrix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426043)     |                                                                                            |                                                                                                |                                                                                      |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    2|[Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800) |
-|                    1|[Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)   |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
+|                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    1|[Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800) |
+|                    1|[Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)   |                    2|[Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800) |
 |                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
-|                    2|[Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)   |                    1|[Damping Matrix](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426043)|
+|                    2|[Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)   |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
 |                    4|[Striking Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370589)    |                     |                                                                                         |
-|                    1|[Frenzy Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126187)      |                     |                                                                                         |
 |                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)     |                     |                                                                                         |
+|                    1|[Frenzy Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126187)      |                     |                                                                                         |
 |                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                     |                                                                                         |
 |                    1|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)  |                     |                                                                                         |
 |                    2|[Frenzy Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126187)      |                     |                                                                                         |

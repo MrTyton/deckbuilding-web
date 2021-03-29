@@ -58,10 +58,10 @@
 1 Desperate Ritual
 1 Pyretic Ritual
 2 Valakut Awakening
-2 Bala Ged Recovery
 2 Spikefield Hazard
 2 Irencrag Feat
 2 Pyretic Ritual
+2 Bala Ged Recovery
 2 Manamorphose
 2 Recross the Paths
 2 Desperate Ritual
@@ -111,8 +111,8 @@
 1 Forest
 1 Stomping Ground
 1 Seasoned Pyromancer
-1 Demonic Dread
 1 Verdant Catacombs
+1 Demonic Dread
 1 Overgrown Tomb
 1 Blackcleave Cliffs
 1 Swamp
@@ -140,12 +140,12 @@
 1 Mana Confluence
 2 Mana Confluence
 4 Force of Negation
-1 Reflecting Pool
 1 Zagoth Triome
 1 Savai Triome
 1 Supreme Verdict
 1 Bonecrusher Giant
 1 Polluted Delta
+1 Reflecting Pool
 2 Polluted Delta
 3 Polluted Delta
 3 Brazen Borrower
@@ -221,12 +221,12 @@
 2 Sleight of Hand
 2 Dream's Grip
 3 Sleight of Hand
+3 Past in Flames
 3 Serum Visions
 3 Ideas Unbound
 3 Lotus Field
 3 Lonely Sandbar
 3 Psychic Puppetry
-3 Past in Flames
 3 Spirebluff Canal
 3 Peer Through Depths
 3 Dream's Grip
@@ -291,8 +291,8 @@
 4 Leyline of Sanctity
 1 Fire Prophecy
 1 Dwarven Mine
-1 Izzet Charm
 1 Repeal
+1 Izzet Charm
 1 Transmogrify
 1 Arid Mesa
 1 Remand
@@ -305,8 +305,8 @@
 1 Cloudform
 2 Arid Mesa
 2 Raugrin Triome
-2 Izzet Charm
 2 Spell Snare
+2 Izzet Charm
 2 Remand
 2 Dwarven Mine
 2 Anger of the Gods
@@ -338,9 +338,9 @@
 1 Pillar of the Paruns
 1 Tendo Ice Bridge
 1 Omniscience
+1 Ulamog, the Infinite Gyre
 1 Kozilek, Butcher of Truth
 1 Emrakul, the Promised End
-1 Ulamog, the Infinite Gyre
 1 Aether Hub
 1 Brilliant Ultimatum
 1 Gemstone Mine

@@ -26,7 +26,6 @@
 1 Prodigious Growth
 1 Izzet Charm
 1 Storm Herald
-2 Unearth
 2 Scalding Tarn
 2 Storm Herald
 2 Bloodstained Mire
@@ -36,6 +35,7 @@
 2 Steam Vents
 2 Eldrazi Conscription
 2 Izzet Charm
+2 Unearth
 2 Collective Brutality
 3 Unearth
 3 Izzet Charm
@@ -46,10 +46,10 @@
 3 Eldrazi Conscription
 3 Bloodstained Mire
 3 Scalding Tarn
-4 Unearth
 4 Jace, Vryn's Prodigy
 4 Izzet Charm
 4 Collective Brutality
+4 Unearth
 4 Prodigious Growth
 4 Bloodstained Mire
 4 Eldrazi Conscription
@@ -82,11 +82,11 @@
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
 4 Inquisition of Kozilek
-1 Snow-Covered Island
 1 Snow-Covered Swamp
+1 Snow-Covered Island
+1 Breeding Pool
 1 Assassin's Trophy
 1 Overgrown Tomb
-1 Breeding Pool
 1 Jace's Phantasm
 2 Snow-Covered Island
 2 Snow-Covered Swamp
@@ -99,9 +99,9 @@
 4 Snow-Covered Island
 4 Jace's Phantasm
 1 Mission Briefing
+1 Cryptic Command
 1 Force of Negation
 1 Thought Scour
-1 Cryptic Command
 1 Ratchet Bomb
 1 Ipnu Rivulet
 1 Fraying Sanity
