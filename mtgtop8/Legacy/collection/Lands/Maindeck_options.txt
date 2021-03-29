@@ -1,11 +1,12 @@
-3 Elvish Reclaimer
-3 Sylvan Library
 1 Bayou
 2 Bayou
-4 Grove of the Burnwillows
-1 Glacial Chasm
 1 Abrupt Decay
 2 Abrupt Decay
+3 Elvish Reclaimer
+3 Sylvan Library
+1 Gamble
+4 Grove of the Burnwillows
+1 Glacial Chasm
 4 Elvish Reclaimer
 1 Green Sun's Zenith
 1 Dryad Arbor
@@ -15,7 +16,6 @@
 2 Windswept Heath
 3 Abrupt Decay
 4 Abrupt Decay
-1 Gamble
 1 Sheltered Thicket
 4 Valakut Exploration
 1 Savannah
@@ -40,6 +40,7 @@
 4 Chalice of the Void
 1 Primeval Titan
 2 Primeval Titan
+2 Blast Zone
 2 Gamble
 1 Grasping Dunes
 1 Tranquil Thicket
@@ -84,7 +85,6 @@
 3 Lightning Bolt
 1 Horizon Canopy
 1 Klothys, God of Destiny
-2 Blast Zone
 1 Council's Judgment
 1 Hall of Heliod's Generosity
 2 Council's Judgment
@@ -95,9 +95,9 @@
 3 Karn, the Great Creator
 3 Wooded Foothills
 4 Karn, the Great Creator
-1 Arasta of the Endless Web
 1 Meren of Clan Nel Toth
 1 Trinisphere
+1 Arasta of the Endless Web
 1 Polukranos, Unchained
 1 Volrath's Stronghold
 1 Assassin's Trophy

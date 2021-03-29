@@ -16,8 +16,8 @@
 1 Snow-Covered Island
 1 Narfi, Betrayer King
 2 Ice Tunnel
-2 Snow-Covered Island
 2 Rimewood Falls
+2 Snow-Covered Island
 2 Acolyte of Affliction
 2 Narfi, Betrayer King
 1 Mire Triton
@@ -114,8 +114,8 @@
 4 Fynn, the Fangbearer
 4 Jungle Hollow
 1 Tajuru Blightblade
-2 Oakhame Adversary
 2 Tajuru Blightblade
+2 Oakhame Adversary
 3 Tajuru Blightblade
 3 Oakhame Adversary
 4 Tajuru Blightblade
@@ -148,18 +148,18 @@
 4 Ice Tunnel
 1 Sarulf, Realm Eater
 1 Port of Karfell
-1 Thrashing Brontodon
 1 Frantic Inventory
 1 Poison the Cup
+1 Thrashing Brontodon
 1 Behold the Multiverse
 1 Ashiok, Nightmare Muse
 1 Ugin, the Spirit Dragon
 1 Chainweb Aracnir
-2 Thrashing Brontodon
 2 Frantic Inventory
 2 Poison the Cup
 2 Behold the Multiverse
 2 Chainweb Aracnir
+2 Thrashing Brontodon
 2 Elspeth's Nightmare
 2 Port of Karfell
 3 Frantic Inventory
@@ -168,9 +168,9 @@
 3 Chainweb Aracnir
 4 Frantic Inventory
 1 Tangled Florahedron
+1 Ashaya, Soul of the Wild
 1 Garruk, Unleashed
 1 Stonecoil Serpent
-1 Ashaya, Soul of the Wild
 1 Bonders' Enclave
 1 Castle Garenbrig
 1 Snakeskin Veil
@@ -204,6 +204,22 @@
 4 Toski, Bearer of Secrets
 4 Fabled Passage
 4 Indatha Triome
+1 The Binding of the Titans
+1 Call of the Death-Dweller
+1 Egon, God of Death
+1 Moss Viper
+1 Hooded Blightfang
+2 The Binding of the Titans
+2 Egon, God of Death
+2 Moss Viper
+2 Hooded Blightfang
+2 Call of the Death-Dweller
+3 The Binding of the Titans
+3 Moss Viper
+3 Hooded Blightfang
+4 The Binding of the Titans
+4 Moss Viper
+4 Hooded Blightfang
 1 Valki, God of Lies
 1 Blightstep Pathway
 1 Order of Midnight
@@ -220,24 +236,8 @@
 3 Blightstep Pathway
 3 Cragcrown Pathway
 4 Heartless Act
-4 Blightstep Pathway
 4 Cragcrown Pathway
-1 The Binding of the Titans
-1 Call of the Death-Dweller
-1 Egon, God of Death
-1 Moss Viper
-1 Hooded Blightfang
-2 The Binding of the Titans
-2 Call of the Death-Dweller
-2 Egon, God of Death
-2 Moss Viper
-2 Hooded Blightfang
-3 The Binding of the Titans
-3 Moss Viper
-3 Hooded Blightfang
-4 The Binding of the Titans
-4 Moss Viper
-4 Hooded Blightfang
+4 Blightstep Pathway
 9 Snow-Covered Forest
 1 Garruk's Uprising
 1 Battle Mammoth

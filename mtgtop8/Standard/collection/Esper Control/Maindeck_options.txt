@@ -50,44 +50,44 @@
 6 Plains
 4 Skyclave Apparition
 1 Goldspan Dragon
-1 Seasoned Hallowblade
+1 Mountain
+1 Embercleave
+1 Bonecrusher Giant
+1 Robber of the Rich
 1 Giant Killer
 1 Usher of the Fallen
+1 Seasoned Hallowblade
 1 Showdown of the Skalds
-1 Mountain
-1 Bonecrusher Giant
-1 Embercleave
 1 Needleverge Pathway
-1 Robber of the Rich
 1 Shatterskull Smashing
 1 Shepherd of the Flock
-2 Seasoned Hallowblade
-2 Shatterskull Smashing
+2 Mountain
+2 Bonecrusher Giant
 2 Embercleave
 2 Robber of the Rich
-2 Showdown of the Skalds
-2 Usher of the Fallen
 2 Giant Killer
-2 Bonecrusher Giant
-2 Mountain
+2 Usher of the Fallen
+2 Shatterskull Smashing
+2 Seasoned Hallowblade
 2 Shepherd of the Flock
 2 Needleverge Pathway
+2 Showdown of the Skalds
 3 Shepherd of the Flock
-3 Giant Killer
-3 Seasoned Hallowblade
-3 Robber of the Rich
-3 Showdown of the Skalds
-3 Needleverge Pathway
 3 Mountain
-3 Usher of the Fallen
 3 Bonecrusher Giant
+3 Robber of the Rich
+3 Needleverge Pathway
+3 Showdown of the Skalds
+3 Giant Killer
+3 Usher of the Fallen
+3 Seasoned Hallowblade
 4 Robber of the Rich
 4 Shepherd of the Flock
+4 Bonecrusher Giant
+4 Mountain
 4 Seasoned Hallowblade
 4 Showdown of the Skalds
-4 Bonecrusher Giant
 4 Usher of the Fallen
-4 Mountain
 4 Needleverge Pathway
 5 Mountain
 6 Mountain
@@ -121,18 +121,18 @@
 3 Doomskar
 4 The Birth of Meletis
 4 Doomskar
-1 Archon of Emeria
 1 Soul Shatter
-2 Archon of Emeria
+1 Archon of Emeria
 2 Soul Shatter
+2 Archon of Emeria
 4 Temple of Silence
 4 Temple of Deceit
-1 Forest
 1 Binding the Old Gods
 1 Zagoth Triome
 1 Branchloft Pathway
 1 Barkchannel Pathway
 1 Indatha Triome
+1 Forest
 2 Binding the Old Gods
 2 Indatha Triome
 2 Barkchannel Pathway
@@ -142,9 +142,7 @@
 3 Zagoth Triome
 4 Indatha Triome
 4 Binding the Old Gods
-1 Temple of Triumph
-2 Temple of Triumph
-4 Giant Killer
+4 Zagoth Triome
 1 Faerie Guidemother
 1 Rimrock Knight
 2 Goldspan Dragon
@@ -154,4 +152,6 @@
 4 Shatterskull Smashing
 9 Plains
 10 Plains
-4 Zagoth Triome
+1 Temple of Triumph
+2 Temple of Triumph
+4 Giant Killer

@@ -67,67 +67,11 @@
 3 Of One Mind
 3 Agadeem's Awakening
 4 Into the Story
-1 Overgrown Tomb
-1 Forest
-1 Mountain
-1 Magmatic Channeler
-1 Woodland Cemetery
-1 Satyr Wayfinder
-1 Traverse the Ulvenwald
-1 Claim / Fame
-1 Soulflayer
-1 Grisly Salvage
-1 Nullhide Ferox
-1 Zetalpa, Primal Dawn
-1 Embodiment of Agonies
-1 Lurrus of the Dream-Den
-1 Stitcher's Supplier
-1 Samut, Voice of Dissent
-1 Grapple with the Past
-1 Stomping Ground
-1 Blood Crypt
-2 Blood Crypt
-2 Woodland Cemetery
-2 Magmatic Channeler
-2 Satyr Wayfinder
-2 Traverse the Ulvenwald
-2 Claim / Fame
-2 Soulflayer
-2 Nullhide Ferox
-2 Zetalpa, Primal Dawn
-2 Grisly Salvage
-2 Lurrus of the Dream-Den
-2 Samut, Voice of Dissent
-2 Embodiment of Agonies
-2 Overgrown Tomb
-2 Stitcher's Supplier
-2 Grapple with the Past
-2 Stomping Ground
-3 Woodland Cemetery
-3 Magmatic Channeler
-3 Traverse the Ulvenwald
-3 Satyr Wayfinder
-3 Grisly Salvage
-3 Zetalpa, Primal Dawn
-3 Soulflayer
-3 Claim / Fame
-3 Overgrown Tomb
-3 Stitcher's Supplier
-3 Blooming Marsh
-3 Stomping Ground
-4 Woodland Cemetery
-4 Magmatic Channeler
-4 Soulflayer
-4 Satyr Wayfinder
-4 Zetalpa, Primal Dawn
-4 Grisly Salvage
-4 Claim / Fame
-4 Stitcher's Supplier
-4 Blooming Marsh
 1 Temple Garden
 2 Temple Garden
-1 Charming Prince
+1 Overgrown Tomb
 1 Hostage Taker
+1 Charming Prince
 1 Llanowar Wastes
 1 Elite Guardmage
 1 Judith, the Scourge Diva
@@ -182,6 +126,7 @@
 4 Drowned Catacomb
 4 Glint-Sleeve Siphoner
 4 Brazen Borrower
+1 Mountain
 1 Favored Hoplite
 1 Gods Willing
 1 Reckless Rage
@@ -240,6 +185,7 @@
 4 Boros Charm
 4 Battlefield Forge
 4 Gird for Battle
+1 Forest
 2 Forest
 3 Forest
 4 Forest
@@ -295,6 +241,60 @@
 4 Ethereal Armor
 4 All That Glitters
 4 Gryff's Boon
+1 Magmatic Channeler
+1 Woodland Cemetery
+1 Claim / Fame
+1 Zetalpa, Primal Dawn
+1 Soulflayer
+1 Grisly Salvage
+1 Nullhide Ferox
+1 Embodiment of Agonies
+1 Traverse the Ulvenwald
+1 Lurrus of the Dream-Den
+1 Stitcher's Supplier
+1 Samut, Voice of Dissent
+1 Grapple with the Past
+1 Stomping Ground
+1 Blood Crypt
+1 Satyr Wayfinder
+2 Blood Crypt
+2 Woodland Cemetery
+2 Magmatic Channeler
+2 Claim / Fame
+2 Zetalpa, Primal Dawn
+2 Soulflayer
+2 Nullhide Ferox
+2 Grisly Salvage
+2 Lurrus of the Dream-Den
+2 Traverse the Ulvenwald
+2 Satyr Wayfinder
+2 Samut, Voice of Dissent
+2 Embodiment of Agonies
+2 Overgrown Tomb
+2 Stitcher's Supplier
+2 Grapple with the Past
+2 Stomping Ground
+3 Woodland Cemetery
+3 Magmatic Channeler
+3 Grisly Salvage
+3 Zetalpa, Primal Dawn
+3 Soulflayer
+3 Traverse the Ulvenwald
+3 Claim / Fame
+3 Overgrown Tomb
+3 Stitcher's Supplier
+3 Satyr Wayfinder
+3 Blooming Marsh
+3 Stomping Ground
+4 Woodland Cemetery
+4 Magmatic Channeler
+4 Soulflayer
+4 Zetalpa, Primal Dawn
+4 Grisly Salvage
+4 Claim / Fame
+4 Stitcher's Supplier
+4 Blooming Marsh
+4 Satyr Wayfinder
 1 Llanowar Elves
 1 Elvish Mystic
 2 Llanowar Elves
@@ -302,38 +302,38 @@
 3 Llanowar Elves
 3 Elvish Mystic
 4 Llanowar Elves
+1 Battle for Bretagard
 1 Starnheim Unleashed
+1 Shefet Dunes
 1 Gideon, Ally of Zendikar
 1 Declaration in Stone
 1 Voice of Resurgence
 1 Call of the Conclave
 1 Esika's Chariot
 1 Wayfaring Temple
-1 Battle for Bretagard
-1 Shefet Dunes
 1 Conclave Tribunal
+2 Battle for Bretagard
 2 Starnheim Unleashed
 2 Voice of Resurgence
 2 Declaration in Stone
 2 Fortified Village
 2 Conclave Tribunal
-2 Battle for Bretagard
 2 Esika's Chariot
 2 Call of the Conclave
 2 Wayfaring Temple
 2 Shefet Dunes
+3 Battle for Bretagard
 3 Starnheim Unleashed
 3 Voice of Resurgence
 3 Call of the Conclave
 3 Conclave Tribunal
-3 Battle for Bretagard
 3 Wayfaring Temple
 3 Esika's Chariot
+4 Battle for Bretagard
 4 Voice of Resurgence
 4 Wayfaring Temple
 4 Conclave Tribunal
 4 Elvish Mystic
-4 Battle for Bretagard
 4 Call of the Conclave
 4 Starnheim Unleashed
 4 Esika's Chariot

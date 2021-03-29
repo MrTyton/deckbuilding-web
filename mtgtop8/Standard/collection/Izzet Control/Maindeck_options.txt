@@ -19,8 +19,8 @@
 4 Frantic Inventory
 4 Sprite Dragon
 1 Jwari Disruption
-1 Scorching Dragonfire
 1 Improbable Alliance
+1 Scorching Dragonfire
 2 Improbable Alliance
 3 Improbable Alliance
 4 Improbable Alliance
@@ -81,16 +81,16 @@
 1 Inspired Ultimatum
 1 Elspeth Conquers Death
 1 Dream Trawler
+1 Doomskar
 1 Needleverge Pathway
 1 Hengegate Pathway
-1 Doomskar
 1 Plains
 2 Dream Trawler
 2 Raugrin Triome
 2 Elspeth Conquers Death
 2 Hengegate Pathway
-2 Plains
 2 Doomskar
+2 Plains
 2 Needleverge Pathway
 3 Elspeth Conquers Death
 3 Dream Trawler
@@ -98,21 +98,21 @@
 3 Soul Sear
 3 Hengegate Pathway
 3 Jwari Disruption
-3 Needleverge Pathway
 3 Doomskar
+3 Needleverge Pathway
 4 Fire Prophecy
 4 Elspeth Conquers Death
 4 Hengegate Pathway
-4 Raugrin Triome
 4 Doomskar
+4 Raugrin Triome
 4 Needleverge Pathway
 1 Terror of the Peaks
 1 Reflections of Littjara
 1 Castle Embereth
 1 Sublime Epiphany
 1 Invasion of the Giants
-2 Sublime Epiphany
 2 Reflections of Littjara
+2 Sublime Epiphany
 2 Terror of the Peaks
 2 Invasion of the Giants
 3 Essence Scatter
@@ -132,8 +132,9 @@
 1 Cancel
 2 Cancel
 3 Ravenform
-1 Faerie Vandal
+4 Faceless Haven
 1 Swiftwater Cliffs
+1 Faerie Vandal
 1 Windrider Wizard
 1 Stormwing Entity
 1 Demon Bolt
@@ -146,7 +147,6 @@
 3 Faerie Vandal
 3 Swiftwater Cliffs
 4 Swiftwater Cliffs
-4 Faceless Haven
 1 Neutralize
 1 Seize the Spoils
 1 Crawling Barrens
@@ -157,8 +157,8 @@
 4 Seize the Spoils
 1 Sulfurous Mire
 1 Ashiok, Nightmare Muse
-1 Ice Tunnel
 1 Feed the Swarm
+1 Ice Tunnel
 1 Cling to Dust
 2 Sulfurous Mire
 2 Ice Tunnel
