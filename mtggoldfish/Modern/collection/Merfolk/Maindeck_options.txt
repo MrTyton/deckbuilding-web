@@ -1,23 +1,25 @@
-1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
-3 Waterlogged Grove
-1 Glasspool Mimic
-2 Glasspool Mimic
-4 Mutavault
+1 Smuggler's Copter
+1 Breeding Pool
 4 Force of Negation
-4 Cavern of Souls
 1 Benthic Biomancer
 2 Benthic Biomancer
 3 Benthic Biomancer
 4 Benthic Biomancer
+6 Island
+4 Cavern of Souls
+1 Glasspool Mimic
+2 Glasspool Mimic
+3 Waterlogged Grove
 2 Smuggler's Copter
 5 Snow-Covered Island
 6 Snow-Covered Island
 7 Snow-Covered Island
-6 Island
-3 Glasspool Mimic
+1 Chalice of the Void
+2 Chalice of the Void
+3 Chalice of the Void
 1 Unsettled Mariner
 2 Unsettled Mariner
 3 Unsettled Mariner
@@ -25,31 +27,26 @@
 2 Wanderwine Hub
 3 Wanderwine Hub
 4 Wanderwine Hub
-1 Chalice of the Void
-2 Chalice of the Void
-3 Chalice of the Void
-2 Breeding Pool
-4 Waterlogged Grove
 4 Spreading Seas
 1 Seachrome Coast
 2 Seachrome Coast
 3 Seachrome Coast
 4 Unsettled Mariner
+3 Glasspool Mimic
 3 Merrow Reejerey
 7 Island
-4 Merrow Reejerey
 1 Deprive
 2 Deprive
+2 Breeding Pool
+4 Waterlogged Grove
+4 Merrow Reejerey
+3 Deprive
+4 Deprive
 4 Dismember
-1 Brazen Borrower
-2 Brazen Borrower
-4 Glasspool Mimic
 4 Seachrome Coast
 1 Mana Leak
 2 Mana Leak
 3 Mana Leak
-3 Deprive
-4 Deprive
 1 Darkslick Shores
 2 Darkslick Shores
 3 Darkslick Shores
@@ -64,6 +61,10 @@
 3 Repeal
 4 Creeping Tar Pit
 4 Repeal
+8 Island
+4 Glasspool Mimic
+1 Brazen Borrower
+2 Brazen Borrower
 1 Clearwater Pathway
 2 Clearwater Pathway
 3 Clearwater Pathway
@@ -71,10 +72,13 @@
 2 Flooded Strand
 2 Polluted Delta
 1 Hallowed Fountain
-8 Island
+3 Harbinger of the Tides
 1 Spell Pierce
-1 Cursecatcher
 2 Spell Pierce
+1 Oboro, Palace in the Clouds
+9 Island
+10 Island
+1 Cursecatcher
 2 Hallowed Fountain
 2 Cursecatcher
 1 Bind the Monster
@@ -83,15 +87,22 @@
 4 Bind the Monster
 1 Echoing Truth
 2 Echoing Truth
-3 Harbinger of the Tides
-1 Oboro, Palace in the Clouds
+1 Master of Waves
+2 Master of Waves
+3 Master of Waves
+4 Master of Waves
+11 Island
+12 Island
+1 Phantasmal Image
+2 Phantasmal Image
 8 Snow-Covered Island
-9 Island
-10 Island
 1 Hieroglyphic Illumination
 1 Disrupting Shoal
 2 Disrupting Shoal
 3 Disrupting Shoal
+1 Mystic Reflection
+2 Mystic Reflection
+3 Mystic Reflection
 1 Sygg, River Guide
 4 Harbinger of the Tides
 1 Mishra's Bauble
@@ -111,8 +122,8 @@
 4 Thassa's Oracle
 4 Chalice of the Void
 4 Puresight Merrow
-4 Smuggler's Copter
 4 Paradise Mantle
+4 Smuggler's Copter
 1 Relic of Progenitus
 1 Faerie Conclave
 1 Castle Vantress
@@ -123,23 +134,14 @@
 3 Faerie Conclave
 4 Relic of Progenitus
 4 Faerie Conclave
+3 Spell Pierce
+4 Spell Pierce
 1 Tidebinder Mage
 2 Tidebinder Mage
 3 Tidebinder Mage
 3 Flooded Strand
 4 Tidebinder Mage
 4 Flooded Strand
-1 Mystic Reflection
-1 Master of Waves
-2 Master of Waves
-2 Mystic Reflection
-3 Master of Waves
-3 Mystic Reflection
-4 Master of Waves
-11 Island
-12 Island
-1 Phantasmal Image
-2 Phantasmal Image
 3 Phantasmal Image
 9 Snow-Covered Island
 10 Snow-Covered Island

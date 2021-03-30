@@ -4,11 +4,6 @@
 2 Chrome Mox
 2 Verdant Catacombs
 3 Verdant Catacombs
-1 Mountain
-1 Iona, Shield of Emeria
-1 Duress
-2 Duress
-1 Collective Brutality
 4 Polluted Delta
 1 Tropical Island
 1 Brainstorm
@@ -23,7 +18,6 @@
 3 Ponder
 4 Force of Will
 4 Brainstorm
-4 Ponder
 1 Hullbreacher
 1 Drown in the Loch
 1 Snow-Covered Island
@@ -42,9 +36,6 @@
 2 Misty Rainforest
 3 Misty Rainforest
 4 Misty Rainforest
-1 Cabal Therapy
-2 Cabal Therapy
-2 Swamp
 1 Snapcaster Mage
 1 Dack Fayden
 1 Grove of the Burnwillows
@@ -62,26 +53,22 @@
 2 Abundant Growth
 3 Abundant Growth
 4 Abundant Growth
-1 Pathrazer of Ulamog
+1 Mountain
+4 Ponder
+1 Iona, Shield of Emeria
+1 Duress
+2 Duress
 1 Sphinx of the Steel Wind
+1 Pathrazer of Ulamog
+1 Collective Brutality
+1 Notion Thief
 2 Drown in the Loch
 3 Snow-Covered Island
+1 Cabal Therapy
+2 Cabal Therapy
+2 Swamp
 1 Tendrils of Agony
 1 Children of Korlis
-1 Hymn to Tourach
-1 Lake of the Dead
-2 Lake of the Dead
-2 Hymn to Tourach
-3 Swamp
-4 Swamp
-5 Swamp
-6 Swamp
-7 Swamp
-8 Swamp
-9 Swamp
-10 Swamp
-11 Swamp
-12 Swamp
 1 Intuition
 1 Toxic Deluge
 1 Force of Negation
@@ -96,14 +83,7 @@
 3 Assassin's Trophy
 3 Uro, Titan of Nature's Wrath
 1 Archon of Valor's Reach
-1 Notion Thief
 2 Scrubland
-1 Putrid Imp
-2 Putrid Imp
-3 Duress
-3 Putrid Imp
-3 Cabal Therapy
-4 Cabal Therapy
 1 Flooded Strand
 1 Jace, the Mind Sculptor
 1 Abrupt Decay
@@ -147,21 +127,23 @@
 4 Lion's Eye Diamond
 4 Gamble
 4 Unburial Rites
-1 Massacre Wurm
-1 Grave Titan
-2 Collective Brutality
-2 Grave Titan
-3 Collective Brutality
-3 Grave Titan
-3 Lake of the Dead
-3 Hymn to Tourach
-4 Hymn to Tourach
-4 Grave Titan
-13 Swamp
-14 Swamp
-15 Swamp
-16 Swamp
-17 Swamp
-18 Swamp
-19 Swamp
-4 Collective Brutality
+1 Putrid Imp
+1 Hymn to Tourach
+1 Lake of the Dead
+2 Putrid Imp
+2 Lake of the Dead
+2 Hymn to Tourach
+3 Duress
+3 Putrid Imp
+3 Swamp
+3 Cabal Therapy
+4 Cabal Therapy
+4 Swamp
+5 Swamp
+6 Swamp
+7 Swamp
+8 Swamp
+9 Swamp
+10 Swamp
+11 Swamp
+12 Swamp

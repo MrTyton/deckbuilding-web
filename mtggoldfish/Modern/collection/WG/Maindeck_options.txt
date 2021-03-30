@@ -4,16 +4,18 @@
 3 Birds of Paradise
 3 Wooded Foothills
 4 Birds of Paradise
-1 Eternal Witness
 1 Snow-Covered Plains
+1 Snow-Covered Forest
+2 Snow-Covered Forest
+3 Snow-Covered Forest
+1 Eternal Witness
 1 Arid Mesa
 1 Utopia Sprawl
 1 Snow-Covered Mountain
+1 Breeding Pool
 1 Kiki-Jiki, Mirror Breaker
-1 Snow-Covered Forest
 1 Omnath, Locus of Creation
 1 Raugrin Triome
-1 Breeding Pool
 1 Seasoned Pyromancer
 1 Batterskull
 1 Eidolon of Rhetoric
@@ -31,7 +33,6 @@
 1 Restoration Angel
 1 Wall of Blossoms
 2 Utopia Sprawl
-2 Snow-Covered Forest
 2 Seasoned Pyromancer
 2 Chord of Calling
 2 Wall of Blossoms
@@ -46,7 +47,6 @@
 3 Stoneforge Mystic
 3 Restoration Angel
 3 Seasoned Pyromancer
-3 Snow-Covered Forest
 4 Misty Rainforest
 4 Utopia Sprawl
 4 Wooded Foothills
@@ -57,26 +57,28 @@
 4 Stoneforge Mystic
 4 Dryad of the Ilysian Grove
 4 Temple Garden
-1 Blast Zone
-1 Bojuka Bog
-1 Radiant Fountain
-2 Horizon Canopy
-3 Courser of Kruphix
-3 Ghost Quarter
-3 Horizon Canopy
-1 Eldritch Evolution
-1 Razorverge Thicket
-2 Snow-Covered Plains
-2 Lightning Bolt
-2 Eldritch Evolution
-2 Flooded Strand
 1 Lightning Helix
 1 Sunbaked Canyon
 2 Arid Mesa
 2 Omnath, Locus of Creation
 2 Gilded Goose
-2 Fire-Lit Thicket
 2 Lightning Helix
 3 Gilded Goose
+2 Snow-Covered Plains
+1 Blast Zone
+1 Bojuka Bog
+1 Radiant Fountain
+2 Horizon Canopy
+3 Ghost Quarter
+3 Courser of Kruphix
+3 Horizon Canopy
+1 Grove of the Burnwillows
+2 Fire-Lit Thicket
+1 Eldritch Evolution
+1 Razorverge Thicket
+2 Lightning Bolt
+2 Eldritch Evolution
+2 Flooded Strand
 1 Vesuva
+4 Snow-Covered Forest
 1 Arboreal Grazer
