@@ -30,12 +30,12 @@
 1 Ice-Fang Coatl
 1 Uro, Titan of Nature's Wrath
 1 Snow-Covered Forest
+1 Snow-Covered Swamp
 1 Echo of Eons
 1 Necromancy
 1 Worldgorger Dragon
 1 Dance of the Dead
 1 Misty Rainforest
-1 Snow-Covered Swamp
 2 Hullbreacher
 2 Ice-Fang Coatl
 2 Snow-Covered Island
@@ -50,9 +50,9 @@
 1 Grove of the Burnwillows
 1 Punishing Fire
 1 Karakas
-1 Cling to Dust
-1 Crop Rotation
 1 Fatal Push
+1 Crop Rotation
+1 Cling to Dust
 1 Abundant Growth
 1 Volcanic Island
 1 Assassin's Trophy
@@ -104,15 +104,15 @@
 3 Putrid Imp
 3 Cabal Therapy
 4 Cabal Therapy
-1 Thieves' Guild Enforcer
 1 Flooded Strand
 1 Jace, the Mind Sculptor
 1 Abrupt Decay
 1 Opposition Agent
+1 Thieves' Guild Enforcer
 2 Flooded Strand
-2 Thieves' Guild Enforcer
-2 Abrupt Decay
 2 Snow-Covered Swamp
+2 Abrupt Decay
+2 Thieves' Guild Enforcer
 2 Opposition Agent
 3 Ice-Fang Coatl
 3 Hullbreacher
@@ -157,7 +157,6 @@
 3 Hymn to Tourach
 4 Hymn to Tourach
 4 Grave Titan
-4 Collective Brutality
 13 Swamp
 14 Swamp
 15 Swamp
@@ -165,3 +164,4 @@
 17 Swamp
 18 Swamp
 19 Swamp
+4 Collective Brutality

@@ -1,24 +1,22 @@
-1 Hanweir Garrison
-2 Hanweir Garrison
+1 Anje's Ravager
+2 Anje's Ravager
 3 Hanweir Garrison
-4 Trinisphere
 1 Blood Sun
 2 Blood Sun
 3 Blood Sun
 4 Blood Sun
-1 Grove of the Burnwillows
 1 Punishing Fire
-2 Grove of the Burnwillows
+1 Grove of the Burnwillows
+1 Thought-Knot Seer
 2 Punishing Fire
-3 Punishing Fire
+2 Grove of the Burnwillows
+2 Thought-Knot Seer
 3 Grove of the Burnwillows
+3 Punishing Fire
+3 Thought-Knot Seer
 4 Punishing Fire
 4 Grove of the Burnwillows
-1 Thought-Knot Seer
-2 Thought-Knot Seer
-3 Thought-Knot Seer
 4 Thought-Knot Seer
-1 Bonecrusher Giant
 1 Reality Smasher
 1 Eldrazi Temple
 2 Reality Smasher
@@ -26,12 +24,15 @@
 3 Eldrazi Temple
 3 Reality Smasher
 4 Reality Smasher
+4 Trinisphere
 9 Mountain
+1 Bonecrusher Giant
 1 Eldrazi Obligator
 1 Fiery Confluence
 2 Fiery Confluence
-1 Ensnaring Bridge
+1 Birgi, God of Storytelling
 1 Karn, the Great Creator
+1 Ensnaring Bridge
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 1 Great Furnace
@@ -59,14 +60,14 @@
 2 Imperial Recruiter
 3 Imperial Recruiter
 4 Painter's Servant
-1 Plateau
-2 Plateau
 1 Lion's Eye Diamond
+1 Plateau
 1 Wooded Foothills
 1 Smuggler's Copter
 1 Enlightened Tutor
 1 Ethersworn Canonist
 1 Goblin Cratermaker
+2 Plateau
 2 Wooded Foothills
 2 Smuggler's Copter
 2 Enlightened Tutor
@@ -75,20 +76,19 @@
 1 Bloodstained Mire
 2 Bloodstained Mire
 4 Lotus Petal
-1 Birgi, God of Storytelling
 3 Bloodstained Mire
 2 Red Elemental Blast
 2 Birgi, God of Storytelling
 1 Endbringer
-1 Hazoret the Fervent
 1 Chandra, Awakened Inferno
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
+1 Court of Ire
+1 Hazoret the Fervent
 1 Chandra, Torch of Defiance
 1 Seasoned Pyromancer
 2 Bonecrusher Giant
-1 Court of Ire
 3 Wooded Foothills
 1 Soul-Guide Lantern
 1 Akoum Warrior
@@ -106,44 +106,12 @@
 2 Arid Mesa
 3 Arid Mesa
 1 Lightning Bolt
-1 Thorn of Amethyst
 1 Emberwilde Captain
 2 Court of Ire
 2 Chandra, Torch of Defiance
 2 Eldrazi Obligator
 2 Akoum Warrior
 4 Magus of the Moon
-1 Mazemind Tome
-1 Karakas
-1 Batterskull
-1 Cast Out
-1 Replenish
-1 Rugged Prairie
-1 Humility
-1 Ground Seal
-1 Decree of Justice
-1 Savannah
-1 Serra's Sanctum
-1 Bind
-2 Batterskull
-2 Cast Out
-2 Replenish
-2 Humility
-2 Rugged Prairie
-2 Ground Seal
-2 Savannah
-2 Decree of Justice
-2 Serra's Sanctum
-2 Bind
-3 Savannah
-3 Humility
-3 Cast Out
-3 Plateau
-3 Bind
-3 Decree of Justice
-4 Humility
-4 Bind
-4 Decree of Justice
 1 Once Upon a Time
 1 Taiga
 1 Magmatic Channeler
@@ -157,25 +125,25 @@
 2 Scalding Tarn
 2 Chromatic Star
 3 Magmatic Channeler
+3 Once Upon a Time
 3 Wasteland
 3 Chromatic Star
 3 Scalding Tarn
-3 Once Upon a Time
 4 Grindstone
 4 Once Upon a Time
 4 Chromatic Star
 1 Ichor Wellspring
+1 Mox Opal
 1 Nihil Spellbomb
 1 Spine of Ish Sah
 1 Pyrite Spellbomb
-1 Mox Opal
+1 Swamp
 1 Badlands
 1 Daretti, Scrap Savant
 1 Daretti, Ingenious Iconoclast
-1 Swamp
 2 Mox Opal
-3 Mox Opal
 3 Great Furnace
+3 Mox Opal
 4 Goblin Engineer
 4 Bloodstained Mire
 4 Eldrazi Temple
