@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                      Maindeck Card                                       |*n*<sup>th</sup> copy|                                          Sideboard Card                                          |
 |--------------------:|------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------------|
-|                    1|Darkbore Pathway                                                                          |                    1|[Unravel the Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378515)     |
-|                    1|[Unearth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442102)        |                    1|[Night's Whisper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51178)         |
+|                    1|Darkbore Pathway                                                                          |                    1|[Night's Whisper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=51178)         |
+|                    1|[Unearth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442102)        |                    1|[Unravel the Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378515)     |
 |                    1|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)  |                    1|[Maelstrom Pulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=180613)        |
 |                    1|[Treetop Village](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=106455)|                    1|[Engineered Explosives](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=50139)   |
 |                    1|[Maelstrom Pulse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=180613)|                    1|[Rain of Tears](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=135220)          |

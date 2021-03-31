@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
 |--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    1|[Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800) |
-|                    1|[Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)   |                    2|[Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800) |
+|                    1|[Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)   |                    1|[Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800) |
+|                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                    2|[Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800) |
 |                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
 |                    2|[Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)   |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
 |                    4|[Striking Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370589)    |                     |                                                                                         |

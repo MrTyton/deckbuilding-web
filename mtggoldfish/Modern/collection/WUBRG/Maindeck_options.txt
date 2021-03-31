@@ -1,8 +1,8 @@
 1 Seal of Fire
 1 Spreading Seas
 2 Spreading Seas
-3 Skyclave Apparition
 3 Spreading Seas
+3 Skyclave Apparition
 4 Spreading Seas
 1 Forest
 1 Ketria Triome
@@ -11,11 +11,11 @@
 1 Steam Vents
 1 Indatha Triome
 1 Supreme Verdict
-1 Niv-Mizzet Reborn
 1 Godless Shrine
+1 Niv-Mizzet Reborn
+1 Kaya's Guile
 1 Wrenn and Six
 1 Assassin's Trophy
-1 Kaya's Guile
 1 Lightning Helix
 1 Omnath, Locus of Creation
 1 Bring to Light
@@ -95,8 +95,8 @@
 4 Windcaller Aven
 4 Street Wraith
 1 Force of Negation
-2 Flooded Strand
 2 Force of Negation
+2 Flooded Strand
 3 Force of Negation
 3 Flooded Strand
 4 Force of Negation
@@ -145,14 +145,14 @@
 1 Growth Spiral
 1 Nissa of Shadowed Boughs
 1 Waker of Waves
+2 Island
 2 As Foretold
 2 Waker of Waves
-2 Island
 3 Island
 3 Waker of Waves
 3 As Foretold
-4 Island
 4 As Foretold
+4 Island
 4 Waker of Waves
 1 Deafening Clarion
 5 Island
@@ -174,17 +174,17 @@
 1 Savai Triome
 4 Niv-Mizzet Reborn
 1 Zagoth Triome
-1 Oath of Nissa
 1 Saheeli Rai
+1 Oath of Nissa
 1 Felidar Guardian
 2 Oath of Nissa
 2 Saheeli Rai
 3 Saheeli Rai
 1 Klothys, God of Destiny
-1 Cryptic Command
 1 Glacial Fortress
-2 Cryptic Command
+1 Cryptic Command
 2 Glacial Fortress
+2 Cryptic Command
 3 Glacial Fortress
 3 Cryptic Command
 4 Glacial Fortress
@@ -196,14 +196,14 @@
 4 Glassdust Hulk
 1 Polluted Delta
 1 Imposing Vantasaur
-1 Fatal Push
 1 Thoughtseize
+1 Fatal Push
 1 Shadows' Verdict
-2 Fatal Push
 2 Thoughtseize
-3 Fatal Push
-3 Thoughtseize
+2 Fatal Push
 3 Nahiri, the Harbinger
+3 Thoughtseize
+3 Fatal Push
 4 Fatal Push
 4 Thoughtseize
 1 Cosima, God of the Voyage
@@ -232,8 +232,8 @@
 1 Tolsimir, Friend to Wolves
 1 Bloodstained Mire
 1 Coiling Oracle
-2 Marsh Flats
 2 Coiling Oracle
+2 Marsh Flats
 2 Bloodstained Mire
 3 Coiling Oracle
 4 Coiling Oracle
@@ -252,15 +252,15 @@
 1 Sunken Ruins
 1 Adarkar Wastes
 2 Seachrome Coast
+2 Polluted Delta
 2 Faerie Macabre
 2 Adarkar Wastes
 2 Generous Gift
 2 Imposing Vantasaur
 2 Failure/Comply
-2 Polluted Delta
+3 Polluted Delta
 3 Seachrome Coast
 3 Adarkar Wastes
-3 Polluted Delta
 3 Imposing Vantasaur
 4 Seachrome Coast
 4 Polluted Delta

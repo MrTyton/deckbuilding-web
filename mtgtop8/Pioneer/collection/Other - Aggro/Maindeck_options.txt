@@ -1,56 +1,60 @@
-2 Thalia's Lieutenant
-2 Caves of Koilos
-3 Thraben Inspector
-3 Thalia's Lieutenant
-4 Thraben Inspector
-4 Thalia's Lieutenant
-2 Plains
-1 Rally the Ranks
-1 Brightclimb Pathway
-1 Kitesail Freebooter
-1 Concealed Courtyard
-1 Bloodsoaked Champion
-1 Dauntless Bodyguard
-1 Godless Shrine
-2 Kitesail Freebooter
-2 Concealed Courtyard
-2 Godless Shrine
-2 Rally the Ranks
-2 Bloodsoaked Champion
-2 Brightclimb Pathway
-2 Luminarch Aspirant
-2 Dauntless Bodyguard
-2 Giant Killer
-3 Brightclimb Pathway
-3 Giant Killer
-3 Kitesail Freebooter
-3 Luminarch Aspirant
-3 Concealed Courtyard
-3 Dauntless Bodyguard
-3 Godless Shrine
-3 Bloodsoaked Champion
-3 Rally the Ranks
-4 Brightclimb Pathway
-4 Godless Shrine
-4 Rally the Ranks
-4 Dauntless Bodyguard
-4 Luminarch Aspirant
-4 Bloodsoaked Champion
-4 Giant Killer
+1 Watery Grave
+1 Drown in the Loch
+1 Urborg, Tomb of Yawgmoth
+1 Into the Story
+1 Cling to Dust
+1 Thieves' Guild Enforcer
+1 Soaring Thought-Thief
+1 Thoughtseize
+1 Clearwater Pathway
+1 Heartless Act
+2 Watery Grave
+2 Drown in the Loch
+2 Agadeem's Awakening
+2 Into the Story
+2 Soaring Thought-Thief
+2 Thieves' Guild Enforcer
+2 Thoughtseize
+2 Clearwater Pathway
+3 Watery Grave
+3 Drown in the Loch
+3 Thieves' Guild Enforcer
+3 Soaring Thought-Thief
+3 Thoughtseize
+3 Clearwater Pathway
+4 Soaring Thought-Thief
+4 Watery Grave
+4 Drown in the Loch
+4 Thieves' Guild Enforcer
+4 Thoughtseize
+4 Clearwater Pathway
+4 Kitesail Freebooter
+4 Concealed Courtyard
+1 Swamp
+3 Mutavault
+1 Blooming Marsh
+2 Blooming Marsh
+1 Breeding Pool
+1 Botanical Sanctum
+1 Merfolk Windrobber
+1 Deathrite Shaman
+2 Deathrite Shaman
+2 Merfolk Windrobber
+2 Botanical Sanctum
+3 Deathrite Shaman
+3 Into the Story
+3 Botanical Sanctum
+4 Deathrite Shaman
+4 Botanical Sanctum
 1 Glint-Sleeve Siphoner
 2 Glint-Sleeve Siphoner
 3 Glint-Sleeve Siphoner
 1 Island
 2 Heartless Act
-3 Caves of Koilos
-4 Caves of Koilos
 1 Unclaimed Territory
 2 Unclaimed Territory
-3 Plains
-4 Plains
-1 Kytheon, Hero of Akros
-1 Knight of the White Orchid
-2 Knight of the White Orchid
+1 Declaration in Stone
+2 Declaration in Stone
 1 Thassa's Intervention
 1 Darkbore Pathway
 1 Jace, Vryn's Prodigy
@@ -70,7 +74,6 @@
 1 Temple Garden
 2 Temple Garden
 1 Overgrown Tomb
-1 Charming Prince
 1 Llanowar Wastes
 1 Judith, the Scourge Diva
 1 Mana Confluence
@@ -79,39 +82,40 @@
 1 Pyre of Heroes
 1 Reflector Mage
 1 Drannith Magistrate
-1 Archfiend's Vessel
 1 Kaervek, the Spiteful
+1 Archfiend's Vessel
+1 Charming Prince
 1 Basri's Lieutenant
 1 Elite Guardmage
 1 General Kudro of Drannith
 1 Xathrid Necromancer
 1 Acquisitions Expert
 2 Llanowar Wastes
-2 Charming Prince
 2 Mana Confluence
 2 Pyre of Heroes
 2 Archfiend's Vessel
+2 Charming Prince
 2 Acquisitions Expert
 2 Reflector Mage
 2 Renegade Rallier
-3 Acquisitions Expert
 3 Llanowar Wastes
-3 Charming Prince
 3 Pyre of Heroes
 3 Archfiend's Vessel
+3 Charming Prince
 3 Mana Confluence
 3 Reflector Mage
 3 Renegade Rallier
+3 Acquisitions Expert
 3 Unclaimed Territory
 4 Pyre of Heroes
 4 Archfiend's Vessel
 4 Unclaimed Territory
 4 Mana Confluence
-1 Anticognition
 1 Drowned Catacomb
 1 Nighthawk Scavenger
 1 Mystical Dispute
 1 Fabled Passage
+1 Anticognition
 1 Brazen Borrower
 2 Island
 2 Drowned Catacomb
@@ -128,8 +132,8 @@
 4 Brazen Borrower
 1 Mountain
 1 Favored Hoplite
-1 Gods Willing
 1 Reckless Rage
+1 Gods Willing
 1 Needleverge Pathway
 1 Soul-Scar Mage
 1 Inspiring Vantage
@@ -145,21 +149,22 @@
 2 Tenth District Legionnaire
 2 Favored Hoplite
 2 Needleverge Pathway
+2 Reckless Rage
 2 Gods Willing
 2 Gird for Battle
 2 Monastery Swiftspear
 2 Boros Charm
 2 Sacred Foundry
-2 Battlefield Forge
 2 Soul-Scar Mage
-2 Reckless Rage
 2 Dreadhorde Arcanist
 2 Inspiring Vantage
 2 Titan's Strength
+2 Battlefield Forge
 2 Defiant Strike
 3 Tenth District Legionnaire
 3 Favored Hoplite
 3 Needleverge Pathway
+3 Reckless Rage
 3 Gods Willing
 3 Inspiring Vantage
 3 Defiant Strike
@@ -167,15 +172,14 @@
 3 Battlefield Forge
 3 Soul-Scar Mage
 3 Boros Charm
-3 Reckless Rage
 3 Sacred Foundry
 3 Gird for Battle
 3 Dreadhorde Arcanist
 4 Tenth District Legionnaire
 4 Needleverge Pathway
 4 Favored Hoplite
-4 Soul-Scar Mage
 4 Reckless Rage
+4 Soul-Scar Mage
 4 Defiant Strike
 4 Gods Willing
 4 Sacred Foundry
@@ -193,10 +197,10 @@
 1 Sunpetal Grove
 1 Fortified Village
 2 Branchloft Pathway
-3 Temple Garden
 3 Branchloft Pathway
-4 Temple Garden
+3 Temple Garden
 4 Branchloft Pathway
+4 Temple Garden
 5 Forest
 1 Unflinching Courage
 1 Bassara Tower Archer
@@ -244,10 +248,10 @@
 1 Magmatic Channeler
 1 Woodland Cemetery
 1 Claim / Fame
-1 Zetalpa, Primal Dawn
 1 Soulflayer
 1 Grisly Salvage
 1 Nullhide Ferox
+1 Zetalpa, Primal Dawn
 1 Embodiment of Agonies
 1 Traverse the Ulvenwald
 1 Lurrus of the Dream-Den
@@ -260,10 +264,10 @@
 2 Blood Crypt
 2 Woodland Cemetery
 2 Claim / Fame
-2 Zetalpa, Primal Dawn
+2 Grisly Salvage
 2 Soulflayer
 2 Nullhide Ferox
-2 Grisly Salvage
+2 Zetalpa, Primal Dawn
 2 Lurrus of the Dream-Den
 2 Traverse the Ulvenwald
 2 Satyr Wayfinder
@@ -302,40 +306,38 @@
 3 Llanowar Elves
 3 Elvish Mystic
 4 Llanowar Elves
-1 Battle for Bretagard
 1 Starnheim Unleashed
 1 Gideon, Ally of Zendikar
-1 Declaration in Stone
-1 Voice of Resurgence
-1 Call of the Conclave
-1 Esika's Chariot
 1 Wayfaring Temple
 1 Shefet Dunes
+1 Call of the Conclave
 1 Conclave Tribunal
-2 Battle for Bretagard
+1 Voice of Resurgence
+1 Battle for Bretagard
+1 Esika's Chariot
 2 Starnheim Unleashed
-2 Voice of Resurgence
-2 Declaration in Stone
-2 Fortified Village
 2 Conclave Tribunal
-2 Esika's Chariot
-2 Call of the Conclave
-2 Wayfaring Temple
 2 Shefet Dunes
-3 Battle for Bretagard
+2 Wayfaring Temple
+2 Call of the Conclave
+2 Voice of Resurgence
+2 Fortified Village
+2 Battle for Bretagard
+2 Esika's Chariot
 3 Starnheim Unleashed
-3 Voice of Resurgence
 3 Call of the Conclave
 3 Conclave Tribunal
 3 Wayfaring Temple
+3 Voice of Resurgence
+3 Battle for Bretagard
 3 Esika's Chariot
-4 Battle for Bretagard
-4 Starnheim Unleashed
-4 Voice of Resurgence
-4 Wayfaring Temple
-4 Conclave Tribunal
-4 Elvish Mystic
 4 Call of the Conclave
+4 Conclave Tribunal
+4 Wayfaring Temple
+4 Voice of Resurgence
+4 Starnheim Unleashed
+4 Battle for Bretagard
+4 Elvish Mystic
 4 Esika's Chariot
 1 Soldier of the Pantheon
 1 Codespell Cleric
@@ -343,8 +345,6 @@
 2 Soldier of the Pantheon
 2 Codespell Cleric
 3 Soldier of the Pantheon
-4 Kitesail Freebooter
-4 Concealed Courtyard
 4 Mutavault
 1 Questing Beast
 1 Nykthos, Shrine to Nyx
@@ -362,8 +362,8 @@
 1 Barkchannel Pathway
 1 Rhonas the Indomitable
 2 Questing Beast
-2 Hinterland Harbor
 2 Rhonas the Indomitable
+2 Hinterland Harbor
 2 Voracious Hydra
 2 Vivien, Arkbow Ranger
 2 Steel Leaf Champion

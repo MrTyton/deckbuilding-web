@@ -264,13 +264,14 @@
 1 Pyretic Ritual
 2 Irencrag Feat
 2 Valakut Awakening
-2 Spikefield Hazard
 2 Bala Ged Recovery
+2 Spikefield Hazard
 2 Pyretic Ritual
 2 Manamorphose
 2 Recross the Paths
 2 Desperate Ritual
 3 Irencrag Feat
+3 Valakut Awakening
 3 Spikefield Hazard
 3 Pact of Negation
 3 Goblin Charbelcher
@@ -279,13 +280,12 @@
 3 Recross the Paths
 3 Bala Ged Recovery
 3 Pyretic Ritual
-3 Valakut Awakening
 4 Irencrag Feat
+4 Valakut Awakening
 4 Spikefield Hazard
 4 Goblin Charbelcher
 4 Manamorphose
 4 Recross the Paths
-4 Valakut Awakening
 4 Pyretic Ritual
 4 Desperate Ritual
 4 Bala Ged Recovery
@@ -367,7 +367,6 @@
 3 Noble Hierarch
 3 Stomping Ground
 3 Utopia Sprawl
-4 Chandra, Torch of Defiance
 4 Oath of Nissa
 4 Utopia Sprawl
 4 Windswept Heath
@@ -375,6 +374,7 @@
 4 Lukka, Coppercoat Outcast
 4 Birds of Paradise
 4 Noble Hierarch
+4 Chandra, Torch of Defiance
 4 Arbor Elf
 4 Forest
 4 Stomping Ground

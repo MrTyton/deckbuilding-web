@@ -1,22 +1,22 @@
-1 Monastery Swiftspear
-1 Manamorphose
-1 Light Up the Stage
 1 Lava Dart
-2 Soul-Scar Mage
-2 Light Up the Stage
-2 Monastery Swiftspear
-2 Lava Dart
+1 Light Up the Stage
+1 Soul-Scar Mage
+1 Monastery Swiftspear
 2 Manamorphose
-3 Soul-Scar Mage
-3 Lava Dart
-3 Monastery Swiftspear
-3 Light Up the Stage
+2 Lava Dart
+2 Light Up the Stage
+2 Soul-Scar Mage
+2 Monastery Swiftspear
 3 Manamorphose
-4 Soul-Scar Mage
-4 Light Up the Stage
-4 Lava Dart
-4 Monastery Swiftspear
+3 Lava Dart
+3 Soul-Scar Mage
+3 Light Up the Stage
+3 Monastery Swiftspear
 4 Manamorphose
+4 Soul-Scar Mage
+4 Lava Dart
+4 Light Up the Stage
+4 Monastery Swiftspear
 1 Abrade
 3 Mountain
 1 Crash Through
@@ -160,18 +160,18 @@
 2 Omen of the Sea
 3 Omen of the Sea
 1 Ice-Fang Coatl
-1 Ketria Triome
 1 Snow-Covered Forest
+1 Ketria Triome
+1 Firespout
 1 Field of Ruin
 1 Breeding Pool
 1 Search for Azcanta
-1 Firespout
 1 Wrenn and Six
 1 Lonely Sandbar
 2 Ice-Fang Coatl
-2 Breeding Pool
 2 Snow-Covered Forest
 2 Field of Ruin
+2 Breeding Pool
 2 Wrenn and Six
 3 Ice-Fang Coatl
 3 Wrenn and Six
@@ -225,23 +225,12 @@
 2 Peek
 1 Runaway Steam-Kin
 2 Runaway Steam-Kin
-1 Dispel
-2 Spell Pierce
-3 Ancestral Vision
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Mystic Sanctuary
-1 Dreadhorde Arcanist
-1 Piracy Charm
-2 Dreadhorde Arcanist
-2 Deprive
-2 Piracy Charm
-3 Polluted Delta
-3 Dreadhorde Arcanist
-3 Piracy Charm
-4 Polluted Delta
-4 Dreadhorde Arcanist
-4 Steam Vents
+1 Dispel
+2 Spell Pierce
+3 Ancestral Vision
 4 Deceiver Exarch
 1 Copperline Gorge
 1 Hooting Mandrills
@@ -252,11 +241,6 @@
 3 Seal of Fire
 4 Seal of Fire
 4 Copperline Gorge
-2 Temple of Epiphany
-3 Valakut Awakening
-3 Temple of Epiphany
-4 Valakut Awakening
-4 Temple of Epiphany
 1 Wild Nacatl
 2 Wild Nacatl
 3 Arid Mesa
@@ -266,15 +250,20 @@
 1 Finale of Promise
 3 Blistercoil Weird
 4 Blistercoil Weird
-1 Stubborn Denial
+2 Temple of Epiphany
+3 Temple of Epiphany
+3 Valakut Awakening
+4 Temple of Epiphany
+4 Valakut Awakening
 1 Inferno Titan
+1 Stubborn Denial
 1 Faerie Conclave
 1 Thryx, the Sudden Storm
 1 Glasspool Mimic
 1 Invasion of the Giants
-2 Stubborn Denial
 2 Inferno Titan
 2 Faerie Conclave
+2 Stubborn Denial
 2 Invasion of the Giants
 3 Inferno Titan
 3 Invasion of the Giants
@@ -291,15 +280,26 @@
 1 Thrill of Possibility
 1 Arclight Phoenix
 1 Forgotten Cave
-2 Forgotten Cave
 2 Thrill of Possibility
 2 Arclight Phoenix
+2 Forgotten Cave
 3 Thrill of Possibility
 3 Arclight Phoenix
 4 Arclight Phoenix
 4 Thrill of Possibility
-1 Magda, Brazen Outlaw
+1 Dreadhorde Arcanist
+1 Piracy Charm
+2 Deprive
+2 Dreadhorde Arcanist
+2 Piracy Charm
+3 Polluted Delta
+3 Dreadhorde Arcanist
+3 Piracy Charm
+4 Polluted Delta
+4 Dreadhorde Arcanist
+4 Steam Vents
 1 Glorybringer
+1 Magda, Brazen Outlaw
 1 Silumgar's Scorn
 1 Mothdust Changeling
 2 Magda, Brazen Outlaw
