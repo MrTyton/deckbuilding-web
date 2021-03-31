@@ -9,17 +9,17 @@
 3 Temple of Malady
 4 Temple of Malady
 5 Swamp
-1 Garruk, Cursed Huntsman
-1 Ice Tunnel
-1 Narfi, Betrayer King
 1 Acolyte of Affliction
+1 Ice Tunnel
+1 Garruk, Cursed Huntsman
 1 Rimewood Falls
 1 Snow-Covered Island
-2 Narfi, Betrayer King
-2 Acolyte of Affliction
+1 Narfi, Betrayer King
 2 Ice Tunnel
 2 Snow-Covered Island
 2 Rimewood Falls
+2 Acolyte of Affliction
+2 Narfi, Betrayer King
 1 Mire Triton
 2 Mire Triton
 3 Mire Triton
@@ -33,19 +33,19 @@
 1 Harald, King of Skemfar
 2 Harald, King of Skemfar
 1 Realmwalker
+1 Wolfwillow Haven
 1 Skemfar Avenger
 1 Grasp of Darkness
-1 Wolfwillow Haven
 1 Return Upon the Tide
 1 Boreal Outrider
 1 Thornmantle Striker
 1 Harald Unites the Elves
+2 Wolfwillow Haven
 2 Grasp of Darkness
 2 Boreal Outrider
-2 Wolfwillow Haven
-3 Grasp of Darkness
-3 Harald, King of Skemfar
 3 Wolfwillow Haven
+3 Harald, King of Skemfar
+3 Grasp of Darkness
 3 Boreal Outrider
 4 Sculptor of Winter
 7 Snow-Covered Swamp
@@ -59,9 +59,9 @@
 2 Kazandu Mammoth
 3 Kazandu Mammoth
 1 Blood on the Snow
+1 Dead Weight
 1 Cling to Dust
 1 Priest of the Haunted Edge
-1 Dead Weight
 1 Excavation Mole
 2 Priest of the Haunted Edge
 2 Dead Weight
@@ -105,8 +105,8 @@
 1 Gemrazer
 1 Questing Beast
 2 Gemrazer
-3 Gemrazer
 3 The Great Henge
+3 Gemrazer
 1 Fynn, the Fangbearer
 2 Fynn, the Fangbearer
 3 Fynn, the Fangbearer
@@ -128,12 +128,12 @@
 10 Forest
 1 Scavenging Ooze
 2 Scavenging Ooze
+1 Wildborn Preserver
 1 Evolving Wilds
 1 Ranger's Guile
-1 Wildborn Preserver
-1 Withercrown
 1 Extinction Event
 1 Fully Grown
+1 Withercrown
 1 Elvish Warmaster
 2 Fully Grown
 3 Fully Grown
@@ -146,8 +146,14 @@
 1 Brokkos, Apex of Forever
 2 Cling to Dust
 4 Ice Tunnel
-1 Port of Karfell
+1 Indatha Triome
+2 Indatha Triome
+3 Indatha Triome
+4 Fabled Passage
+4 Indatha Triome
+4 Toski, Bearer of Secrets
 1 Sarulf, Realm Eater
+1 Port of Karfell
 1 Frantic Inventory
 1 Ashiok, Nightmare Muse
 1 Poison the Cup
@@ -155,21 +161,21 @@
 1 Behold the Multiverse
 1 Ugin, the Spirit Dragon
 1 Chainweb Aracnir
-2 Port of Karfell
 2 Frantic Inventory
 2 Poison the Cup
 2 Behold the Multiverse
-2 Chainweb Aracnir
 2 Thrashing Brontodon
+2 Chainweb Aracnir
 2 Elspeth's Nightmare
+2 Port of Karfell
 3 Snow-Covered Island
 3 Frantic Inventory
 3 Behold the Multiverse
 3 Chainweb Aracnir
 4 Frantic Inventory
 1 Massacre Wurm
-1 Eliminate
 1 Faceless Haven
+1 Eliminate
 2 Questing Beast
 2 Eliminate
 2 Faceless Haven
@@ -177,11 +183,11 @@
 4 Faceless Haven
 1 Stonecoil Serpent
 1 Ashaya, Soul of the Wild
-1 Garruk, Unleashed
 1 Tangled Florahedron
 1 Bonders' Enclave
 1 Castle Garenbrig
 1 Snakeskin Veil
+1 Garruk, Unleashed
 1 Swarm Shambler
 1 Skyclave Shade
 2 Snakeskin Veil
@@ -198,29 +204,23 @@
 1 Thassa, Deep-Dwelling
 4 Acolyte of Affliction
 4 Harald, King of Skemfar
-1 Indatha Triome
-2 Indatha Triome
-3 Indatha Triome
-4 Fabled Passage
-4 Toski, Bearer of Secrets
-4 Indatha Triome
-1 Valki, God of Lies
 1 Blightstep Pathway
+1 Valki, God of Lies
 1 Order of Midnight
 1 Cragcrown Pathway
 1 Vivien, Monsters' Advocate
 1 Zagoth Triome
-2 Valki, God of Lies
 2 Vivien, Monsters' Advocate
 2 Blightstep Pathway
+2 Valki, God of Lies
 2 Order of Midnight
 2 Cragcrown Pathway
 2 Agadeem's Awakening
-3 Valki, God of Lies
 3 Blightstep Pathway
+3 Valki, God of Lies
 3 Cragcrown Pathway
-4 Heartless Act
 4 Blightstep Pathway
+4 Heartless Act
 4 Cragcrown Pathway
 1 The Binding of the Titans
 1 Call of the Death-Dweller
@@ -239,9 +239,9 @@
 4 Moss Viper
 4 Hooded Blightfang
 9 Snow-Covered Forest
-1 Battle Mammoth
 1 Fiend Artisan
 1 Garruk's Uprising
+1 Battle Mammoth
 1 Wildwood Patrol
 1 Keeper of Fables
 1 Gnottvold Recluse

@@ -1,16 +1,16 @@
+10 Snow-Covered Plains
+4 Plains
 5 Plains
 6 Plains
 7 Plains
+4 Flickerwisp
 8 Plains
 9 Plains
 10 Plains
-8 Snow-Covered Plains
-9 Snow-Covered Plains
-10 Snow-Covered Plains
 3 Silent Clearing
 4 Silent Clearing
-1 Horizon Canopy
 1 Castle Ardenvale
+1 Horizon Canopy
 1 Tectonic Edge
 2 Tectonic Edge
 3 Tectonic Edge
@@ -19,17 +19,17 @@
 1 Winds of Abandon
 2 Winds of Abandon
 4 Archon of Emeria
-11 Plains
 1 Restoration Angel
+11 Plains
+2 Restoration Angel
 12 Plains
 13 Plains
 14 Plains
 15 Plains
 1 Linvala, Keeper of Silence
 1 Charming Prince
-2 Restoration Angel
-2 Castle Ardenvale
 3 Restoration Angel
+2 Castle Ardenvale
 16 Plains
 2 Linvala, Keeper of Silence
 2 Charming Prince
@@ -40,17 +40,17 @@
 1 Temple Garden
 1 Branchloft Pathway
 1 Forest
-1 Eternal Witness
 1 Oath of Nissa
+1 Eternal Witness
 1 Stirring Wildwood
 2 Noble Hierarch
 2 Razorverge Thicket
 2 Temple Garden
-2 Eternal Witness
 2 Branchloft Pathway
 2 Oath of Nissa
 2 Forest
 2 Stirring Wildwood
+2 Eternal Witness
 3 Noble Hierarch
 3 Razorverge Thicket
 3 Branchloft Pathway
@@ -64,6 +64,8 @@
 1 Skyclave Cleric
 2 Skyclave Cleric
 4 Horizon Canopy
+4 Restoration Angel
+2 Sunbaked Canyon
 1 Thraben Inspector
 2 Thraben Inspector
 17 Plains
@@ -78,10 +80,8 @@
 1 Shalai, Voice of Plenty
 2 Shalai, Voice of Plenty
 3 Winds of Abandon
-4 Restoration Angel
 1 Sword of Light and Shadow
 1 Flagstones of Trokair
-2 Sunbaked Canyon
 3 Sunbaked Canyon
 4 Sunbaked Canyon
 1 Sword of Feast and Famine
@@ -94,6 +94,31 @@
 2 Brushland
 3 Brushland
 4 Brushland
+1 Sacred Foundry
+1 Rugged Prairie
+1 Lurrus of the Dream-Den
+1 Mountain
+1 Needleverge Pathway
+1 Inspiring Vantage
+1 Seal of Fire
+1 Seasoned Pyromancer
+2 Seal of Fire
+2 Sacred Foundry
+2 Seasoned Pyromancer
+2 Inspiring Vantage
+2 Lurrus of the Dream-Den
+2 Needleverge Pathway
+2 Rugged Prairie
+3 Needleverge Pathway
+3 Inspiring Vantage
+3 Seal of Fire
+3 Sacred Foundry
+3 Seasoned Pyromancer
+3 Lurrus of the Dream-Den
+4 Seasoned Pyromancer
+4 Inspiring Vantage
+4 Seal of Fire
+4 Needleverge Pathway
 1 Loyal Sentry
 1 Blast Zone
 3 Charming Prince

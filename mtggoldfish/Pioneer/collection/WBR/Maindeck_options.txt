@@ -1,17 +1,16 @@
-1 Castle Locthwain
 1 Elder Gargaroth
+1 Castle Locthwain
 1 Blood Crypt
 1 Valki, God of Lies
-2 Blood Crypt
 2 Valki, God of Lies
+2 Blood Crypt
 3 Blood Crypt
-3 Swamp
 1 Blightstep Pathway
 1 Klothys, God of Destiny
 2 Grisly Salvage
 3 Bonecrusher Giant
+3 Swamp
 1 Bloodchief's Thirst
-2 Castle Locthwain
 1 Grim Flayer
 1 Assassin's Trophy
 1 Woodland Cemetery
@@ -22,6 +21,7 @@
 2 Tireless Tracker
 2 Vraska, Golgari Queen
 2 Assassin's Trophy
+2 Castle Locthwain
 3 Castle Locthwain
 3 Forest
 3 Grim Flayer
@@ -67,53 +67,6 @@
 4 Blood Crypt
 4 Inspiring Vantage
 4 Concealed Courtyard
-1 Crawling Barrens
-1 Agonizing Remorse
-1 Liliana, Waker of the Dead
-1 Elderfang Disciple
-1 Shrieking Affliction
-1 Yarok's Fenlurker
-1 Inscription of Ruin
-1 Davriel, Rogue Shadowmage
-2 Inscription of Ruin
-2 Crawling Barrens
-2 Bloodchief's Thirst
-2 Liliana, Waker of the Dead
-2 Agonizing Remorse
-2 Shrieking Affliction
-2 Elderfang Disciple
-2 Davriel, Rogue Shadowmage
-2 Yarok's Fenlurker
-3 Inscription of Ruin
-3 Bloodchief's Thirst
-3 Elderfang Disciple
-3 Liliana, Waker of the Dead
-3 Agonizing Remorse
-3 Davriel, Rogue Shadowmage
-3 Crawling Barrens
-3 Shrieking Affliction
-3 Yarok's Fenlurker
-4 Swamp
-4 Inscription of Ruin
-4 Agonizing Remorse
-4 Yarok's Fenlurker
-4 Crawling Barrens
-4 Shrieking Affliction
-4 Davriel, Rogue Shadowmage
-4 Liliana, Waker of the Dead
-5 Swamp
-6 Swamp
-7 Swamp
-8 Swamp
-9 Swamp
-10 Swamp
-11 Swamp
-12 Swamp
-13 Swamp
-14 Swamp
-15 Swamp
-16 Swamp
-17 Swamp
 1 Mutavault
 1 Righteous Valkyrie
 1 Selfless Spirit
@@ -131,24 +84,24 @@
 2 Shambling Vent
 2 Selfless Spirit
 2 Firja's Retribution
-2 Brightclimb Pathway
 2 Resplendent Angel
 2 Plains
 2 Isolated Chapel
-2 Bishop of Wings
+2 Brightclimb Pathway
 2 Luminarch Aspirant
+2 Bishop of Wings
 2 Lyra Dawnbringer
 3 Righteous Valkyrie
 3 Firja's Retribution
 3 Luminarch Aspirant
-3 Bishop of Wings
 3 Plains
 3 Brightclimb Pathway
 3 Selfless Spirit
 3 Isolated Chapel
-4 Godless Shrine
-4 Righteous Valkyrie
+3 Bishop of Wings
 4 Firja's Retribution
+4 Righteous Valkyrie
+4 Godless Shrine
 4 Luminarch Aspirant
 4 Brightclimb Pathway
 4 Plains

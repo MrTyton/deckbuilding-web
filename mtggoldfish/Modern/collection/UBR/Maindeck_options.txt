@@ -5,16 +5,16 @@
 3 Desert Cerodon
 4 Desert Cerodon
 2 Cryptic Command
-1 Polluted Delta
-2 Polluted Delta
-3 Polluted Delta
-4 Polluted Delta
 1 Mishra's Bauble
+1 Polluted Delta
 1 Watery Grave
 1 Fatal Push
 2 Mishra's Bauble
+2 Polluted Delta
 2 Fatal Push
 3 Mishra's Bauble
+3 Polluted Delta
+4 Polluted Delta
 3 Fatal Push
 1 Snapcaster Mage
 2 Snapcaster Mage
@@ -44,56 +44,56 @@
 2 Inquisition of Kozilek
 4 Misty Rainforest
 1 Jace, Vryn's Prodigy
-1 Sunken Ruins
 2 Jace, Vryn's Prodigy
 1 Logic Knot
 1 Serum Visions
 2 Serum Visions
 2 Swamp
-1 Valki, God of Lies
 1 Creeping Tar Pit
+1 Valki, God of Lies
 2 Logic Knot
 2 Creeping Tar Pit
-2 Dreadbore
 2 Valki, God of Lies
+2 Dreadbore
 3 Lightning Bolt
 3 Serum Visions
 4 Cryptic Command
 3 Inquisition of Kozilek
+1 Sunken Ruins
 4 Mishra's Bauble
-4 Street Wraith
-1 Ardent Plea
-1 Hallowed Fountain
-1 Seachrome Coast
-2 Ardent Plea
-3 Ardent Plea
-4 Ardent Plea
 1 Flooded Strand
 2 Flooded Strand
 1 Violent Outburst
 2 Violent Outburst
 3 Violent Outburst
 4 Violent Outburst
+4 Street Wraith
 1 Botanical Sanctum
 1 Glassdust Hulk
+1 Ardent Plea
 1 Snow-Covered Plains
+1 Hallowed Fountain
+1 Seachrome Coast
 2 Glassdust Hulk
+2 Ardent Plea
+3 Ardent Plea
 3 Flooded Strand
 3 Glassdust Hulk
+4 Ardent Plea
 4 Glassdust Hulk
 4 Flooded Strand
 2 Brazen Borrower
 3 Spirebluff Canal
-3 Waker of Waves
-1 Imposing Vantasaur
 1 Mana Leak
 2 Mana Leak
+3 Waker of Waves
+1 Imposing Vantasaur
 1 Unearth
 1 Spell Snare
 1 Cling to Dust
 1 Ice-Fang Coatl
-1 Abrupt Decay
 1 Assassin's Trophy
+1 Abrupt Decay
 1 Snow-Covered Swamp
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
@@ -120,8 +120,8 @@
 1 Clearwater Pathway
 1 Castle Vantress
 1 Engineered Explosives
-1 Drowned Catacomb
 1 Kroxa, Titan of Death's Hunger
+1 Drowned Catacomb
 2 Drowned Catacomb
 3 Drowned Catacomb
 1 Silundi Vision
@@ -144,13 +144,11 @@
 3 Verdant Catacombs
 2 Cling to Dust
 1 Blooming Marsh
-1 Faerie Macabre
-2 Faerie Macabre
 4 Lightning Bolt
 4 Serum Visions
 1 Sacred Foundry
-1 Vendilion Clique
 1 Flooded Grove
+1 Vendilion Clique
 1 Finale of Promise
 1 Sunken Hollow
 1 Hinterland Harbor
@@ -158,8 +156,8 @@
 2 Prismatic Vista
 3 Prismatic Vista
 1 Nurturing Peatland
-1 Nissa, Steward of Elements
 1 Village Rites
+1 Nissa, Steward of Elements
 1 Noble Hierarch
 2 Village Rites
 2 Noble Hierarch
@@ -187,30 +185,15 @@
 3 Watery Grave
 4 Thoughtseize
 4 Jace, Vryn's Prodigy
-1 Generous Gift
-1 Failure/Comply
-1 Adarkar Wastes
-2 Imposing Vantasaur
-2 Adarkar Wastes
-2 Generous Gift
-2 Failure/Comply
-2 Seachrome Coast
-3 Seachrome Coast
-3 Imposing Vantasaur
-3 Adarkar Wastes
-4 Seachrome Coast
-4 Waker of Waves
-4 Island
-4 Imposing Vantasaur
-4 Adarkar Wastes
 1 Architects of Will
 1 Fulminator Mage
 1 Forest
+1 Faerie Macabre
 1 Beast Within
-1 Blackcleave Cliffs
 1 Copperline Gorge
 1 Horror of the Broken Lands
 1 Monstrous Carabid
+1 Blackcleave Cliffs
 1 Simian Spirit Guide
 1 Bloodstained Mire
 1 Wooded Foothills
@@ -218,6 +201,7 @@
 1 Deadshot Minotaur
 2 Wooded Foothills
 2 Architects of Will
+2 Faerie Macabre
 2 Beast Within
 2 Fulminator Mage
 2 Copperline Gorge
@@ -230,12 +214,12 @@
 2 Simian Spirit Guide
 2 Blood Crypt
 2 Deadshot Minotaur
-3 Bloodstained Mire
 3 Wooded Foothills
 3 Fulminator Mage
 3 Demonic Dread
 3 Simian Spirit Guide
 3 Monstrous Carabid
+3 Bloodstained Mire
 3 Horror of the Broken Lands
 4 Fulminator Mage
 4 Horror of the Broken Lands

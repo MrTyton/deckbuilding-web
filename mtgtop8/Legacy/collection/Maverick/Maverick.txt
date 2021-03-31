@@ -1,5 +1,4 @@
-1 Bayou
-2 Birds of Paradise
+1 Birds of Paradise
 1 Dryad Arbor
 2 Forest
 1 Gaddock Teeg
@@ -11,6 +10,7 @@
 1 Klothys, God of Destiny
 1 Knight of Autumn
 4 Knight of the Reliquary
+1 Mother of Runes
 3 Noble Hierarch
 1 Plains
 1 Plateau
@@ -18,13 +18,14 @@
 1 Ramunap Excavator
 2 Savannah
 1 Scavenging Ooze
-1 Scrubland
 2 Skyclave Apparition
 2 Stoneforge Mystic
+1 Sword of Fire and Ice
 4 Swords to Plowshares
 2 Sylvan Library
 1 Taiga
 4 Thalia, Guardian of Thraben
+1 Tireless Tracker
 1 Umezawa's Jitte
 2 Verdant Catacombs
 4 Wasteland
@@ -33,7 +34,8 @@
 Sideboard
 2 Choke
 1 Collector Ouphe
-3 Deafening Silence
+2 Deafening Silence
+1 Ethersworn Canonist
 4 Leyline of the Void
 2 Pyroblast
 1 Sanctum Prelate

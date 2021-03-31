@@ -1,22 +1,22 @@
-4 Shark Typhoon
 3 Irrigated Farmland
-4 Censor
+4 Shark Typhoon
 3 Plains
 1 Commit/Memory
+4 Censor
 1 Geier Reach Sanitarium
-1 Search for Azcanta
 1 Elspeth Conquers Death
 1 Syncopate
+1 Search for Azcanta
 3 Fabled Passage
 4 Fabled Passage
-3 Dig Through Time
 1 Jace, Architect of Thought
 1 Blessed Alliance
 2 Syncopate
 1 Sea Gate Restoration
-4 Supreme Verdict
+3 Dig Through Time
 4 Irrigated Farmland
 1 Cast Out
+4 Supreme Verdict
 1 Temple of Enlightenment
 1 Last Breath
 2 Temple of Enlightenment
@@ -40,20 +40,19 @@
 2 Temple Garden
 2 Breeding Pool
 2 Uro, Titan of Nature's Wrath
-2 Mystical Dispute
 2 Growth Spiral
-3 Growth Spiral
+2 Mystical Dispute
 3 Uro, Titan of Nature's Wrath
+3 Growth Spiral
 3 Breeding Pool
 3 Temple Garden
 3 Hinterland Harbor
 4 Growth Spiral
-4 Breeding Pool
 4 Temple Garden
+4 Breeding Pool
 1 Emeria's Call
 3 Narset, Parter of Veils
 1 Hengegate Pathway
-1 Behold the Multiverse
 2 Hengegate Pathway
 3 Hengegate Pathway
 4 Hengegate Pathway
@@ -61,67 +60,66 @@
 1 Curious Obsession
 1 Spire of Industry
 1 Alseid of Life's Bounty
-1 Springleaf Drum
-1 Ensoul Artifact
-1 Darksteel Citadel
-1 Selfless Savior
-1 Gingerbrute
 1 Ethereal Armor
 1 All That Glitters
-2 Darksteel Citadel
+1 Selfless Savior
+1 Ensoul Artifact
+1 Gingerbrute
+1 Darksteel Citadel
+1 Springleaf Drum
 2 Ornithopter
 2 Curious Obsession
 2 Spire of Industry
 2 Alseid of Life's Bounty
-2 All That Glitters
 2 Ensoul Artifact
+2 Springleaf Drum
 2 Ethereal Armor
+2 All That Glitters
+2 Darksteel Citadel
 2 Gingerbrute
 2 Selfless Savior
-2 Springleaf Drum
 3 Ornithopter
 3 All That Glitters
 3 Spire of Industry
 3 Curious Obsession
-3 Alseid of Life's Bounty
-3 Springleaf Drum
-3 Gingerbrute
 3 Ensoul Artifact
+3 Gingerbrute
+3 Springleaf Drum
+3 Alseid of Life's Bounty
 3 Ethereal Armor
 4 Ornithopter
 4 Alseid of Life's Bounty
 4 All That Glitters
 4 Curious Obsession
-4 Springleaf Drum
 4 Gingerbrute
+4 Springleaf Drum
 4 Ensoul Artifact
 4 Ethereal Armor
 4 Spire of Industry
 3 Castle Ardenvale
 1 Saw It Coming
+1 Behold the Multiverse
 2 Behold the Multiverse
-1 Void Shatter
 4 Omen of the Sea
 1 Sinister Sabotage
 1 Raugrin Triome
-2 Castle Vantress
 4 Teferi, Hero of Dominaria
+2 Castle Vantress
 2 Sphinx's Revelation
 4 Plains
-2 Void Shatter
-1 Skyclave Cleric
-2 Skyclave Cleric
 2 Saw It Coming
 3 Selfless Savior
+1 Skyclave Cleric
+2 Skyclave Cleric
+1 Void Shatter
 1 Neutralize
-1 Blast Zone
 1 Godless Shrine
 2 Godless Shrine
 1 Dream Trawler
 1 Temple of Triumph
-1 Steam Vents
 1 Temple of Epiphany
 1 Dragonlord Ojutai
+1 Steam Vents
 1 Aurelia's Fury
 2 Blessed Alliance
 1 Mire's Grasp
@@ -135,7 +133,6 @@
 3 Mire's Grasp
 4 Brightclimb Pathway
 4 Hateful Eidolon
-1 Soul-Guide Lantern
 1 Doomskar
 1 Grafdigger's Cage
 2 Cast Out
@@ -145,17 +142,20 @@
 2 Staggering Insight
 3 Staggering Insight
 4 Staggering Insight
+1 Soul-Guide Lantern
 1 Whirlwind Denial
 1 Horribly Awry
+2 Void Shatter
 3 Dovin's Veto
 2 Search for Azcanta
 2 Detention Sphere
 3 Skyclave Cleric
+1 Blast Zone
 2 Neutralize
-1 Swamp
-1 Drowned Catacomb
 1 Fatal Push
 1 Watery Grave
+1 Drowned Catacomb
+1 Swamp
 2 Elspeth Conquers Death
 2 Fatal Push
 2 Watery Grave
@@ -166,18 +166,18 @@
 1 Urborg, Tomb of Yawgmoth
 1 Isolated Chapel
 1 Confounding Conundrum
-1 Tergrid, God of Fright
 1 Lithoform Blight
+1 Tergrid, God of Fright
 1 Elspeth's Nightmare
 1 Skyclave Apparition
 1 Trial of Ambition
 1 Oath of Kaya
-1 Thoughtseize
+1 Doom Foretold
+1 Yorion, Sky Nomad
 1 Disinformation Campaign
 1 Dance of the Manse
 1 Starfield of Nyx
-1 Doom Foretold
-1 Yorion, Sky Nomad
+1 Thoughtseize
 2 Elspeth's Nightmare
 2 Yorion, Sky Nomad
 2 Confounding Conundrum
@@ -186,18 +186,18 @@
 2 Trial of Ambition
 2 Oath of Kaya
 2 Doom Foretold
-2 Drowned Catacomb
 2 Thoughtseize
 2 Disinformation Campaign
+2 Drowned Catacomb
 2 Starfield of Nyx
-3 Yorion, Sky Nomad
 3 Godless Shrine
+3 Yorion, Sky Nomad
 3 Skyclave Apparition
-3 Doom Foretold
 3 Drowned Catacomb
-3 Fatal Push
 3 Thoughtseize
 3 Trial of Ambition
+3 Fatal Push
+3 Doom Foretold
 4 Godless Shrine
 4 Drowned Catacomb
 4 Doom Foretold
@@ -206,12 +206,6 @@
 2 Ondu Inversion
 1 Hallowed Moonlight
 2 Hallowed Moonlight
-1 Rewind
-1 Torrential Gearhulk
-1 Quicken
-2 Rewind
-2 Quicken
-2 Torrential Gearhulk
 3 Behold the Multiverse
 1 Stubborn Denial
 2 Stubborn Denial
@@ -222,29 +216,29 @@
 2 Alrund's Epiphany
 2 Midnight Clock
 3 Midnight Clock
+1 Mystic Sanctuary
 1 Approach of the Second Sun
 1 Supreme Will
+1 Teferi, Master of Time
 1 Ipnu Rivulet
 1 Silundi Vision
-1 Mystic Sanctuary
-1 Teferi, Master of Time
 1 Mission Briefing
 2 Mission Briefing
 2 Teferi, Master of Time
 2 Mystic Sanctuary
 2 Ipnu Rivulet
-2 Approach of the Second Sun
 2 Silundi Vision
+2 Approach of the Second Sun
 3 Approach of the Second Sun
 1 Brazen Borrower
 1 Sphinx of the Final Word
-1 Anticognition
-1 Fumigate
 1 Pearl Lake Ancient
 1 Seal Away
-2 Brazen Borrower
+1 Fumigate
+1 Anticognition
 2 Seal Away
 2 Anticognition
+2 Brazen Borrower
 3 Anticognition
 2 Doomskar
 2 Grafdigger's Cage
@@ -262,8 +256,8 @@
 1 Prairie Stream
 1 Declaration in Stone
 1 Eliminate
-2 Temple of Deceit
 2 Eliminate
+2 Temple of Deceit
 2 Spell Queller
 2 Ashiok, Nightmare Muse
 2 Declaration in Stone

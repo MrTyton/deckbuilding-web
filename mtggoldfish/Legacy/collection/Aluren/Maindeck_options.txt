@@ -36,8 +36,8 @@
 2 Abundant Growth
 1 Force of Negation
 2 Shardless Agent
-1 Green Sun's Zenith
 1 Dryad Arbor
+1 Green Sun's Zenith
 2 Green Sun's Zenith
 3 Green Sun's Zenith
 3 Abundant Growth
@@ -65,8 +65,8 @@
 2 Gilded Goose
 3 Veteran Explorer
 1 Soulherder
-1 Skyclave Apparition
 1 Windswept Heath
+1 Skyclave Apparition
 1 Vendilion Clique
 2 Windswept Heath
 4 Arcum's Astrolabe
@@ -91,14 +91,14 @@
 2 Force of Negation
 4 Swords to Plowshares
 1 Birds of Paradise
+1 Sevinne's Reclamation
 1 Fall from Favor
 1 Oath of Nissa
-1 Sevinne's Reclamation
 1 Intuition
 2 Birds of Paradise
 2 Oath of Nissa
-3 Birds of Paradise
 3 Windswept Heath
+3 Birds of Paradise
 3 Teferi, Time Raveler
 4 Birds of Paradise
 1 Village Rites
@@ -116,17 +116,6 @@
 3 Imperial Recruiter
 4 Imperial Recruiter
 4 Uro, Titan of Nature's Wrath
-1 Sandwurm Convergence
-1 Thoughtseize
-1 Evolutionary Leap
-1 Phyrexian Tower
-1 Overwhelming Splendor
-2 Thoughtseize
-2 Academy Rector
-2 Evolutionary Leap
-3 Academy Rector
-4 Academy Rector
-4 Veteran Explorer
 1 Living Wish
 1 Marsh Flats
 1 Botanical Sanctum
@@ -138,22 +127,33 @@
 2 Living Wish
 2 Preordain
 2 Marsh Flats
-2 Watcher for Tomorrow
 2 Overgrown Tomb
+2 Watcher for Tomorrow
 2 Coiling Oracle
 2 Botanical Sanctum
 2 Darkslick Shores
 2 Watery Grave
 3 Living Wish
 3 Marsh Flats
-3 Darkslick Shores
-3 Watcher for Tomorrow
-3 Botanical Sanctum
 3 Fatal Push
+3 Darkslick Shores
 3 Coiling Oracle
+3 Botanical Sanctum
+3 Watcher for Tomorrow
 4 Marsh Flats
 4 Fatal Push
 4 Darkslick Shores
+4 Coiling Oracle
 4 Botanical Sanctum
 4 Watcher for Tomorrow
-4 Coiling Oracle
+1 Sandwurm Convergence
+1 Thoughtseize
+1 Evolutionary Leap
+1 Phyrexian Tower
+1 Overwhelming Splendor
+2 Thoughtseize
+2 Academy Rector
+2 Evolutionary Leap
+3 Academy Rector
+4 Academy Rector
+4 Veteran Explorer
