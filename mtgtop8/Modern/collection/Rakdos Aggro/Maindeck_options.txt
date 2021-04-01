@@ -6,19 +6,19 @@
 2 Dark Confidant
 1 Village Rites
 2 Village Rites
-3 Village Rites
 3 Unearth
+3 Village Rites
 4 Unearth
+1 Archfiend's Vessel
 1 Young Pyromancer
 1 Dreadhorde Arcanist
-1 Archfiend's Vessel
+2 Archfiend's Vessel
 2 Dreadhorde Arcanist
 2 Young Pyromancer
-2 Archfiend's Vessel
 3 Young Pyromancer
 3 Dark Confidant
-3 Dreadhorde Arcanist
 3 Archfiend's Vessel
+3 Dreadhorde Arcanist
 1 Marsh Flats
 2 Marsh Flats
 3 Marsh Flats
@@ -31,6 +31,11 @@
 2 Lazav, the Multifarious
 3 Polluted Delta
 4 Polluted Delta
+1 Sacred Foundry
+1 Godless Shrine
+4 Archfiend's Vessel
+4 Young Pyromancer
+4 Dreadhorde Arcanist
 1 Blood Moon
 1 Prismatic Vista
 1 Seasoned Pyromancer
@@ -53,11 +58,6 @@
 4 Seasoned Pyromancer
 4 Magmatic Channeler
 4 Inquisition of Kozilek
-1 Sacred Foundry
-1 Godless Shrine
-4 Young Pyromancer
-4 Dreadhorde Arcanist
-4 Archfiend's Vessel
 1 Insolent Neonate
 1 Lightning Skelemental
 1 Egon, God of Death
@@ -66,10 +66,10 @@
 1 Underworld Breach
 1 Spitebellows
 1 Thunderkin Awakener
-2 Egon, God of Death
 2 Insolent Neonate
 2 Lightning Skelemental
 2 Stitcher's Supplier
+2 Egon, God of Death
 2 Spitebellows
 2 Thunderkin Awakener
 2 Claim / Fame
@@ -79,9 +79,9 @@
 3 Spitebellows
 3 Thunderkin Awakener
 4 Blood Crypt
-4 Village Rites
 4 Insolent Neonate
 4 Stitcher's Supplier
 4 Lightning Skelemental
 4 Swamp
 4 Thunderkin Awakener
+4 Village Rites

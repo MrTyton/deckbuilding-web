@@ -80,8 +80,8 @@
 |                   17|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)             |                     |                                                                                              |
 |                    1|[Heartfire Immolator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485473)  |                     |                                                                                              |
 |                    2|[Heartfire Immolator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485473)  |                     |                                                                                              |
-|                    3|[Heartfire Immolator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485473)  |                     |                                                                                              |
 |                    3|[Castle Embereth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473201)      |                     |                                                                                              |
-|                    4|[Heartfire Immolator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485473)  |                     |                                                                                              |
+|                    3|[Heartfire Immolator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485473)  |                     |                                                                                              |
 |                    4|[Castle Embereth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473201)      |                     |                                                                                              |
+|                    4|[Heartfire Immolator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485473)  |                     |                                                                                              |
 

@@ -24,10 +24,10 @@
 1 Razorverge Thicket
 4 Ancient Stirrings
 1 Temple Garden
-1 Cragcrown Pathway
 1 Grove of the Burnwillows
-2 Cragcrown Pathway
+1 Cragcrown Pathway
 2 Grove of the Burnwillows
+2 Cragcrown Pathway
 3 Grove of the Burnwillows
 4 Grove of the Burnwillows
 1 Horizon Canopy
@@ -66,8 +66,8 @@
 2 Snakeskin Veil
 2 Branchloft Pathway
 3 Branchloft Pathway
-1 Showdown of the Skalds
 1 Luminarch Aspirant
+1 Showdown of the Skalds
 2 Luminarch Aspirant
 2 Showdown of the Skalds
 3 Showdown of the Skalds
@@ -85,22 +85,6 @@
 2 Path to Exile
 3 Path to Exile
 4 Branchloft Pathway
-1 Botanical Sanctum
-1 Emry, Lurker of the Loch
-1 Barkchannel Pathway
-1 Yavimaya Coast
-1 Spellskite
-1 Island
-2 Botanical Sanctum
-2 Emry, Lurker of the Loch
-2 Barkchannel Pathway
-2 Spellskite
-2 Island
-3 Emry, Lurker of the Loch
-3 Barkchannel Pathway
-3 Springleaf Drum
-4 Emry, Lurker of the Loch
-4 Barkchannel Pathway
 3 Snakeskin Veil
 4 Snakeskin Veil
 1 Darkbore Pathway
@@ -120,6 +104,22 @@
 2 Vines of Vastwood
 3 Darksteel Citadel
 4 Darksteel Citadel
+1 Botanical Sanctum
+1 Emry, Lurker of the Loch
+1 Yavimaya Coast
+1 Spellskite
+1 Island
+1 Barkchannel Pathway
+2 Botanical Sanctum
+2 Emry, Lurker of the Loch
+2 Spellskite
+2 Island
+2 Barkchannel Pathway
+3 Emry, Lurker of the Loch
+3 Springleaf Drum
+3 Barkchannel Pathway
+4 Emry, Lurker of the Loch
+4 Barkchannel Pathway
 1 Copperline Gorge
 1 Stonecoil Serpent
 1 Galvanic Blast

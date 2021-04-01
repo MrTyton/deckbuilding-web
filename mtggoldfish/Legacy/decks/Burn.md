@@ -1,7 +1,7 @@
 # Burn
 
 #### [Export MTGO List](../collection/Burn/Burn.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Chain%20Lightning%0A4%09Eidolon%20of%20the%20Great%20Revel%0A3%09Exquisite%20Firecraft%0A4%09Fireblast%0A4%09Goblin%20Guide%0A4%09Lava%20Spike%0A4%09Lightning%20Bolt%0A4%09Monastery%20Swiftspear%0A19%09Mountain%0A3%09Price%20of%20Progress%0A4%09Rift%20Bolt%0A2%09Roiling%20Vortex%0A1%09Skewer%20the%20Critics&deckside=1%09Blood%20Moon%0A3%09Ensnaring%20Bridge%0A4%09Grafdigger's%20Cage%0A2%09Ingot%20Chewer%0A1%09Price%20of%20Progress%0A1%09Roiling%20Vortex%0A3%09Smash%20to%20Smithereens)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Chain%20Lightning%0A4%09Eidolon%20of%20the%20Great%20Revel%0A3%09Exquisite%20Firecraft%0A4%09Fireblast%0A4%09Goblin%20Guide%0A4%09Lava%20Spike%0A4%09Lightning%20Bolt%0A4%09Monastery%20Swiftspear%0A19%09Mountain%0A3%09Price%20of%20Progress%0A4%09Rift%20Bolt%0A2%09Roiling%20Vortex%0A1%09Skewer%20the%20Critics&deckside=2%09Blood%20Moon%0A3%09Ensnaring%20Bridge%0A4%09Grafdigger's%20Cage%0A1%09Ingot%20Chewer%0A1%09Price%20of%20Progress%0A1%09Roiling%20Vortex%0A3%09Smash%20to%20Smithereens)
 # Maindeck
 
 |                                             Creature (12)                                             |                                      Enchantment (2)                                      |                                         Instant (11)                                         |                                      Land (19)                                       |                                          Sorcery (16)                                          |
@@ -15,9 +15,9 @@
 
 # Sideboard
 
-|                                         Artifact (7)                                         |                                      Creature (2)                                       |                                      Enchantment (2)                                      |                                           Instant (4)                                           |
+|                                         Artifact (7)                                         |                                      Creature (1)                                       |                                      Enchantment (3)                                      |                                           Instant (4)                                           |
 |----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|3 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)  |2 [Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389558)|1 [Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)     |1 [Price of Progress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413683)   |
+|3 [Ensnaring Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=15866)  |1 [Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389558)|2 [Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)     |1 [Price of Progress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413683)   |
 |4 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|                                                                                         |1 [Roiling Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491797)|3 [Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
 
 
@@ -25,7 +25,7 @@
 
 |*n*<sup>th</sup> copy|                                           Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                         |
 |--------------------:|---------------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------------|
-|                    4|[Price of Progress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413683)       |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)           |
+|                    4|[Price of Progress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413683)       |                    2|[Ingot Chewer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389558)        |
 |                    2|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)      |                    1|[Sulfuric Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382379)     |
 |                    3|[Roiling Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491797)          |                    1|[Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44290)    |
 |                    3|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)      |                    2|[Pyrostatic Pillar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=44290)    |
@@ -141,7 +141,7 @@
 |                    3|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)         |                     |                                                                                               |
 |                    3|[Vexing Devil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278257)            |                     |                                                                                               |
 |                    3|[Akoum Hellhound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491772)         |                     |                                                                                               |
-|                    4|[Akoum Hellhound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491772)         |                     |                                                                                               |
 |                    4|[Vexing Devil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278257)            |                     |                                                                                               |
 |                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)         |                     |                                                                                               |
+|                    4|[Akoum Hellhound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491772)         |                     |                                                                                               |
 

@@ -43,6 +43,6 @@
 |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)      |                    1|[Nihil Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442215)     |
 |                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)     |                    2|[Painful Truths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401981)      |
 |                    4|[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382377)            |                     |                                                                                               |
-|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)     |                     |                                                                                               |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)  |                     |                                                                                               |
+|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)     |                     |                                                                                               |
 

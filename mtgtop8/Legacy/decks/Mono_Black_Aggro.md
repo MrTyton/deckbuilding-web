@@ -43,6 +43,6 @@
 |                    3|[Chrome Mox](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413761)         |                     |                                                                                              |
 |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |                     |                                                                                              |
 |                    4|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256) |                     |                                                                                              |
-|                    5|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256) |                     |                                                                                              |
 |                    4|[Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413790)          |                     |                                                                                              |
+|                    5|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256) |                     |                                                                                              |
 

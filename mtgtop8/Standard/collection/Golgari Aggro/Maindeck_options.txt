@@ -12,14 +12,14 @@
 1 Acolyte of Affliction
 1 Ice Tunnel
 1 Garruk, Cursed Huntsman
-1 Narfi, Betrayer King
 1 Rimewood Falls
 1 Snow-Covered Island
+1 Narfi, Betrayer King
 2 Rimewood Falls
 2 Ice Tunnel
-2 Narfi, Betrayer King
 2 Snow-Covered Island
 2 Acolyte of Affliction
+2 Narfi, Betrayer King
 1 Mire Triton
 2 Mire Triton
 3 Mire Triton
@@ -58,19 +58,19 @@
 1 Kazandu Mammoth
 2 Kazandu Mammoth
 3 Kazandu Mammoth
+1 Priest of the Haunted Edge
 1 Blood on the Snow
 1 Dead Weight
 1 Cling to Dust
-1 Priest of the Haunted Edge
 1 Excavation Mole
 2 Priest of the Haunted Edge
 2 Dead Weight
 2 Excavation Mole
-3 Rimewood Falls
 3 Ice Tunnel
-3 Narfi, Betrayer King
+3 Rimewood Falls
 3 Excavation Mole
 3 Acolyte of Affliction
+3 Narfi, Betrayer King
 4 Excavation Mole
 1 Elspeth's Nightmare
 1 Oakhame Adversary
@@ -109,20 +109,20 @@
 3 Gemrazer
 1 Fynn, the Fangbearer
 2 Fynn, the Fangbearer
-3 Jungle Hollow
 3 Fynn, the Fangbearer
-4 Jungle Hollow
+3 Jungle Hollow
 4 Fynn, the Fangbearer
+4 Jungle Hollow
 1 Tajuru Blightblade
-2 Tajuru Blightblade
 2 Oakhame Adversary
-3 Oakhame Adversary
+2 Tajuru Blightblade
 3 Tajuru Blightblade
+3 Oakhame Adversary
 4 Tajuru Blightblade
 1 Feed the Swarm
 2 Feed the Swarm
-1 Sarulf's Packmate
 1 Feed the Serpent
+1 Sarulf's Packmate
 2 Sarulf's Packmate
 2 Feed the Serpent
 10 Forest
@@ -131,9 +131,9 @@
 1 Wildborn Preserver
 1 Evolving Wilds
 1 Ranger's Guile
+1 Withercrown
 1 Extinction Event
 1 Fully Grown
-1 Withercrown
 1 Elvish Warmaster
 2 Fully Grown
 3 Fully Grown
@@ -146,19 +146,19 @@
 1 Brokkos, Apex of Forever
 2 Cling to Dust
 4 Ice Tunnel
+1 Thrashing Brontodon
 1 Sarulf, Realm Eater
 1 Port of Karfell
 1 Frantic Inventory
 1 Ashiok, Nightmare Muse
 1 Poison the Cup
-1 Thrashing Brontodon
 1 Ugin, the Spirit Dragon
 1 Behold the Multiverse
 1 Chainweb Aracnir
+2 Thrashing Brontodon
 2 Frantic Inventory
 2 Behold the Multiverse
 2 Poison the Cup
-2 Thrashing Brontodon
 2 Elspeth's Nightmare
 2 Port of Karfell
 2 Chainweb Aracnir
@@ -167,18 +167,18 @@
 3 Frantic Inventory
 3 Chainweb Aracnir
 4 Frantic Inventory
+1 Eliminate
 1 Massacre Wurm
 1 Faceless Haven
-1 Eliminate
 2 Questing Beast
 2 Eliminate
 2 Faceless Haven
 3 Faceless Haven
 4 Faceless Haven
-1 Ashaya, Soul of the Wild
 1 Stonecoil Serpent
 1 Tangled Florahedron
 1 Bonders' Enclave
+1 Ashaya, Soul of the Wild
 1 Castle Garenbrig
 1 Snakeskin Veil
 1 Garruk, Unleashed
@@ -204,27 +204,9 @@
 4 Fabled Passage
 4 Toski, Bearer of Secrets
 4 Indatha Triome
-1 Blightstep Pathway
-1 Valki, God of Lies
-1 Vivien, Monsters' Advocate
-1 Order of Midnight
-1 Cragcrown Pathway
-1 Zagoth Triome
-2 Vivien, Monsters' Advocate
-2 Blightstep Pathway
-2 Valki, God of Lies
-2 Order of Midnight
-2 Cragcrown Pathway
-2 Agadeem's Awakening
-3 Blightstep Pathway
-3 Valki, God of Lies
-3 Cragcrown Pathway
-4 Blightstep Pathway
-4 Heartless Act
-4 Cragcrown Pathway
 1 The Binding of the Titans
-1 Call of the Death-Dweller
 1 Egon, God of Death
+1 Call of the Death-Dweller
 1 Moss Viper
 1 Hooded Blightfang
 2 The Binding of the Titans
@@ -235,13 +217,31 @@
 3 The Binding of the Titans
 3 Moss Viper
 3 Hooded Blightfang
-4 Moss Viper
 4 The Binding of the Titans
+4 Moss Viper
 4 Hooded Blightfang
+1 Blightstep Pathway
+1 Valki, God of Lies
+1 Vivien, Monsters' Advocate
+1 Cragcrown Pathway
+1 Order of Midnight
+1 Zagoth Triome
+2 Vivien, Monsters' Advocate
+2 Blightstep Pathway
+2 Valki, God of Lies
+2 Order of Midnight
+2 Cragcrown Pathway
+2 Agadeem's Awakening
+3 Blightstep Pathway
+3 Valki, God of Lies
+3 Cragcrown Pathway
+4 Heartless Act
+4 Cragcrown Pathway
+4 Blightstep Pathway
 9 Snow-Covered Forest
-1 Fiend Artisan
-1 Garruk's Uprising
 1 Battle Mammoth
+1 Garruk's Uprising
+1 Fiend Artisan
 1 Wildwood Patrol
 1 Keeper of Fables
 1 Gnottvold Recluse

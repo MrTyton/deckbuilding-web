@@ -24,8 +24,8 @@
 14 Mountain
 1 Lava Dart
 1 Soul-Scar Mage
-2 Soul-Scar Mage
 2 Lava Dart
+2 Soul-Scar Mage
 3 Soul-Scar Mage
 3 Lava Dart
 4 Soul-Scar Mage
@@ -38,18 +38,18 @@
 4 Wooded Foothills
 1 Bonecrusher Giant
 2 Fiery Islet
-1 Manamorphose
-1 Wild Slash
 1 Crash Through
+1 Wild Slash
 1 Bedlam Reveler
+1 Manamorphose
 2 Crash Through
 2 Bedlam Reveler
-2 Manamorphose
 2 Wild Slash
+2 Manamorphose
 3 Crash Through
 3 Manamorphose
-4 Manamorphose
 4 Crash Through
+4 Manamorphose
 15 Mountain
 1 Flame Slash
 1 Seasoned Pyromancer
@@ -78,6 +78,10 @@
 2 Forgotten Cave
 3 Blood Moon
 3 Castle Embereth
+1 Kiln Fiend
+2 Kiln Fiend
+3 Kiln Fiend
+4 Kiln Fiend
 3 Sacred Foundry
 4 Sacred Foundry
 1 Mishra's Bauble
@@ -88,14 +92,10 @@
 4 Mishra's Bauble
 3 Arid Mesa
 4 Arid Mesa
-1 Kiln Fiend
-2 Kiln Fiend
-3 Kiln Fiend
-4 Kiln Fiend
 1 Blistercoil Weird
 2 Blast Zone
-3 Flame Slash
 3 Bomat Courier
+3 Flame Slash
 4 Bomat Courier
 16 Mountain
 1 Wayward Guide-Beast

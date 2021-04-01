@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                            Sideboard Card                                             |
 |---------------------|-------------|--------------------:|-------------------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Necromentia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485439)                 |
 |                     |             |                    1|[Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)   |
+|                     |             |                    1|[Necromentia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485439)                 |
 |                     |             |                    1|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)                 |
 |                     |             |                    1|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)            |
 |                     |             |                    1|[Elder Gargaroth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485502)             |
