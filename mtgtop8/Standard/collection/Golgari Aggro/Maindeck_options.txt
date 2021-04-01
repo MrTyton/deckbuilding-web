@@ -12,14 +12,14 @@
 1 Acolyte of Affliction
 1 Ice Tunnel
 1 Garruk, Cursed Huntsman
+1 Narfi, Betrayer King
 1 Rimewood Falls
 1 Snow-Covered Island
-1 Narfi, Betrayer King
-2 Ice Tunnel
-2 Snow-Covered Island
 2 Rimewood Falls
-2 Acolyte of Affliction
+2 Ice Tunnel
 2 Narfi, Betrayer King
+2 Snow-Covered Island
+2 Acolyte of Affliction
 1 Mire Triton
 2 Mire Triton
 3 Mire Triton
@@ -68,9 +68,9 @@
 2 Excavation Mole
 3 Rimewood Falls
 3 Ice Tunnel
+3 Narfi, Betrayer King
 3 Excavation Mole
 3 Acolyte of Affliction
-3 Narfi, Betrayer King
 4 Excavation Mole
 1 Elspeth's Nightmare
 1 Oakhame Adversary
@@ -109,15 +109,15 @@
 3 Gemrazer
 1 Fynn, the Fangbearer
 2 Fynn, the Fangbearer
-3 Fynn, the Fangbearer
 3 Jungle Hollow
-4 Fynn, the Fangbearer
+3 Fynn, the Fangbearer
 4 Jungle Hollow
+4 Fynn, the Fangbearer
 1 Tajuru Blightblade
-2 Oakhame Adversary
 2 Tajuru Blightblade
-3 Tajuru Blightblade
+2 Oakhame Adversary
 3 Oakhame Adversary
+3 Tajuru Blightblade
 4 Tajuru Blightblade
 1 Feed the Swarm
 2 Feed the Swarm
@@ -146,28 +146,22 @@
 1 Brokkos, Apex of Forever
 2 Cling to Dust
 4 Ice Tunnel
-1 Indatha Triome
-2 Indatha Triome
-3 Indatha Triome
-4 Fabled Passage
-4 Indatha Triome
-4 Toski, Bearer of Secrets
 1 Sarulf, Realm Eater
 1 Port of Karfell
 1 Frantic Inventory
 1 Ashiok, Nightmare Muse
 1 Poison the Cup
 1 Thrashing Brontodon
-1 Behold the Multiverse
 1 Ugin, the Spirit Dragon
+1 Behold the Multiverse
 1 Chainweb Aracnir
 2 Frantic Inventory
 2 Behold the Multiverse
 2 Poison the Cup
 2 Thrashing Brontodon
-2 Chainweb Aracnir
 2 Elspeth's Nightmare
 2 Port of Karfell
+2 Chainweb Aracnir
 3 Behold the Multiverse
 3 Snow-Covered Island
 3 Frantic Inventory
@@ -181,8 +175,8 @@
 2 Faceless Haven
 3 Faceless Haven
 4 Faceless Haven
-1 Stonecoil Serpent
 1 Ashaya, Soul of the Wild
+1 Stonecoil Serpent
 1 Tangled Florahedron
 1 Bonders' Enclave
 1 Castle Garenbrig
@@ -204,11 +198,17 @@
 1 Thassa, Deep-Dwelling
 4 Acolyte of Affliction
 4 Harald, King of Skemfar
+1 Indatha Triome
+2 Indatha Triome
+3 Indatha Triome
+4 Fabled Passage
+4 Toski, Bearer of Secrets
+4 Indatha Triome
 1 Blightstep Pathway
 1 Valki, God of Lies
+1 Vivien, Monsters' Advocate
 1 Order of Midnight
 1 Cragcrown Pathway
-1 Vivien, Monsters' Advocate
 1 Zagoth Triome
 2 Vivien, Monsters' Advocate
 2 Blightstep Pathway
@@ -235,8 +235,8 @@
 3 The Binding of the Titans
 3 Moss Viper
 3 Hooded Blightfang
-4 The Binding of the Titans
 4 Moss Viper
+4 The Binding of the Titans
 4 Hooded Blightfang
 9 Snow-Covered Forest
 1 Fiend Artisan

@@ -29,8 +29,8 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)    |                    1|[Witch's Vengeance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473073)  |
-|                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)     |                    1|[Barrier Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479665)     |
+|                    1|[Snow-Covered Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121192)    |                    1|[Barrier Breach](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479665)     |
+|                    1|[Snow-Covered Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121256)     |                    1|[Witch's Vengeance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473073)  |
 |                    1|[Blood on the Snow](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503687)      |                    1|[Sarulf, Realm Eater](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503844)|
 |                    1|[Woodland Chasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503894)         |                    1|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)|
 |                    1|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)          |                    1|[Elspeth's Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476342)|

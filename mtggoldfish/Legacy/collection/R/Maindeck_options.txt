@@ -1,19 +1,20 @@
 1 Anje's Ravager
 2 Anje's Ravager
 3 Hanweir Garrison
+4 Trinisphere
 1 Blood Sun
 2 Blood Sun
 3 Blood Sun
-4 Blood Sun
-1 Grove of the Burnwillows
 1 Punishing Fire
+1 Grove of the Burnwillows
 1 Thought-Knot Seer
-2 Grove of the Burnwillows
 2 Punishing Fire
+2 Grove of the Burnwillows
 2 Thought-Knot Seer
-3 Punishing Fire
 3 Grove of the Burnwillows
+3 Punishing Fire
 3 Thought-Knot Seer
+4 Blood Sun
 4 Punishing Fire
 4 Grove of the Burnwillows
 4 Thought-Knot Seer
@@ -24,24 +25,23 @@
 3 Eldrazi Temple
 3 Reality Smasher
 4 Reality Smasher
-4 Trinisphere
 9 Mountain
 1 Bonecrusher Giant
 1 Eldrazi Obligator
 1 Fiery Confluence
 2 Fiery Confluence
 1 Birgi, God of Storytelling
-1 Ensnaring Bridge
 1 Karn, the Great Creator
+1 Ensnaring Bridge
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 1 Great Furnace
 1 Pyroblast
+1 Grindstone
 1 Painter's Servant
 1 Red Elemental Blast
 1 Goblin Welder
 1 Goblin Engineer
-1 Grindstone
 1 Lotus Petal
 2 Pyroblast
 2 Goblin Engineer
@@ -80,19 +80,18 @@
 2 Red Elemental Blast
 2 Birgi, God of Storytelling
 1 Endbringer
-1 Chandra, Awakened Inferno
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 1 Court of Ire
-1 Hazoret the Fervent
+1 Chandra, Awakened Inferno
 1 Chandra, Torch of Defiance
 1 Seasoned Pyromancer
+1 Hazoret the Fervent
 2 Bonecrusher Giant
 3 Wooded Foothills
 1 Soul-Guide Lantern
 1 Akoum Warrior
-10 Mountain
 2 Seasoned Pyromancer
 2 Ensnaring Bridge
 3 Seasoned Pyromancer
@@ -113,11 +112,11 @@
 2 Akoum Warrior
 4 Magus of the Moon
 1 Once Upon a Time
+1 Taiga
 1 Magmatic Channeler
 1 Chromatic Star
 1 Sundering Titan
 1 Wasteland
-1 Taiga
 1 Scalding Tarn
 2 Once Upon a Time
 2 Magmatic Channeler
@@ -129,9 +128,10 @@
 3 Chromatic Star
 3 Wasteland
 3 Scalding Tarn
+4 Grindstone
 4 Chromatic Star
 4 Once Upon a Time
-4 Grindstone
+4 Eldrazi Temple
 1 Ichor Wellspring
 1 Mox Opal
 1 Nihil Spellbomb
@@ -146,12 +146,7 @@
 3 Mox Opal
 4 Goblin Engineer
 4 Bloodstained Mire
-4 Eldrazi Temple
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
-2 Chandra, Awakened Inferno
-3 Chandra, Awakened Inferno
-4 Chandra, Awakened Inferno
-11 Mountain
-12 Mountain
+10 Mountain

@@ -13,10 +13,10 @@
 4 Bonecrusher Giant
 1 Stonecoil Serpent
 2 Stonecoil Serpent
-1 Kargan Intimidator
 1 Spikefield Hazard
-2 Kargan Intimidator
+1 Kargan Intimidator
 2 Spikefield Hazard
+2 Kargan Intimidator
 4 Mountain
 1 Phoenix of Ash
 1 Robber of the Rich
@@ -47,42 +47,10 @@
 2 Banishing Light
 2 Glass Casket
 3 Robber of the Rich
-1 Temple of Triumph
-1 Wind-Scarred Crag
-1 Kabira Takedown
-1 Kargan Warleader
-1 Akiri, Fearless Voyager
-1 Kor Blademaster
-1 Fireblade Charger
-1 Sejiri Shelter
-1 Shadowspear
-1 Legion Angel
-2 Temple of Triumph
-2 Kabira Takedown
-2 Wind-Scarred Crag
-2 Kargan Warleader
-2 Kor Blademaster
-2 Akiri, Fearless Voyager
-2 Fireblade Charger
-2 Legion Angel
-2 Maul of the Skyclaves
-3 Spikefield Hazard
-3 Temple of Triumph
-3 Kargan Warleader
-3 Kor Blademaster
-3 Fireblade Charger
-3 Maul of the Skyclaves
-4 Maul of the Skyclaves
-4 Temple of Triumph
-4 Kor Blademaster
-4 Kargan Warleader
-4 Spikefield Hazard
-4 Fireblade Charger
-4 Seasoned Hallowblade
-1 Gilded Goose
 1 Clarion Spirit
 1 Edgewall Innkeeper
 1 Toski, Bearer of Secrets
+1 Gilded Goose
 1 Lovestruck Beast
 1 Veteran Adventurer
 2 Gilded Goose
@@ -104,8 +72,8 @@
 1 Wildwood Tracker
 1 Bronzehide Lion
 2 Embercleave
-2 Tajuru Paragon
 2 Archpriest of Iona
+2 Tajuru Paragon
 2 Lotus Cobra
 2 Wildwood Tracker
 2 Radha, Heart of Keld
@@ -117,8 +85,40 @@
 3 Lotus Cobra
 4 Forest
 4 Archpriest of Iona
-4 Lotus Cobra
 4 Tajuru Paragon
+4 Lotus Cobra
+1 Temple of Triumph
+1 Wind-Scarred Crag
+1 Kabira Takedown
+1 Akiri, Fearless Voyager
+1 Kor Blademaster
+1 Fireblade Charger
+1 Sejiri Shelter
+1 Shadowspear
+1 Kargan Warleader
+1 Legion Angel
+2 Temple of Triumph
+2 Kabira Takedown
+2 Wind-Scarred Crag
+2 Kor Blademaster
+2 Akiri, Fearless Voyager
+2 Fireblade Charger
+2 Legion Angel
+2 Kargan Warleader
+2 Maul of the Skyclaves
+3 Spikefield Hazard
+3 Temple of Triumph
+3 Kor Blademaster
+3 Fireblade Charger
+3 Kargan Warleader
+3 Maul of the Skyclaves
+4 Maul of the Skyclaves
+4 Temple of Triumph
+4 Kor Blademaster
+4 Fireblade Charger
+4 Spikefield Hazard
+4 Seasoned Hallowblade
+4 Kargan Warleader
 1 Castle Embereth
 1 Arni Brokenbrow
 1 Claim the Firstborn
@@ -138,6 +138,7 @@
 3 Stonecoil Serpent
 4 Claim the Firstborn
 4 Basri's Lieutenant
+4 Stonecoil Serpent
 5 Mountain
 6 Mountain
 7 Plains
@@ -146,4 +147,3 @@
 9 Mountain
 10 Mountain
 11 Mountain
-4 Stonecoil Serpent

@@ -1,8 +1,8 @@
 1 Watery Grave
 1 Drown in the Loch
 1 Urborg, Tomb of Yawgmoth
-1 Into the Story
 1 Cling to Dust
+1 Into the Story
 1 Thieves' Guild Enforcer
 1 Soaring Thought-Thief
 1 Thoughtseize
@@ -74,6 +74,7 @@
 1 Temple Garden
 2 Temple Garden
 1 Overgrown Tomb
+1 Charming Prince
 1 Llanowar Wastes
 1 Judith, the Scourge Diva
 1 Mana Confluence
@@ -84,20 +85,19 @@
 1 Drannith Magistrate
 1 Kaervek, the Spiteful
 1 Archfiend's Vessel
-1 Charming Prince
 1 Basri's Lieutenant
 1 Elite Guardmage
 1 General Kudro of Drannith
 1 Xathrid Necromancer
 1 Acquisitions Expert
 2 Llanowar Wastes
+2 Renegade Rallier
 2 Mana Confluence
 2 Pyre of Heroes
 2 Archfiend's Vessel
 2 Charming Prince
 2 Acquisitions Expert
 2 Reflector Mage
-2 Renegade Rallier
 3 Llanowar Wastes
 3 Pyre of Heroes
 3 Archfiend's Vessel
@@ -112,10 +112,10 @@
 4 Unclaimed Territory
 4 Mana Confluence
 1 Drowned Catacomb
+1 Anticognition
 1 Nighthawk Scavenger
 1 Mystical Dispute
 1 Fabled Passage
-1 Anticognition
 1 Brazen Borrower
 2 Island
 2 Drowned Catacomb
@@ -132,8 +132,8 @@
 4 Brazen Borrower
 1 Mountain
 1 Favored Hoplite
-1 Reckless Rage
 1 Gods Willing
+1 Reckless Rage
 1 Needleverge Pathway
 1 Soul-Scar Mage
 1 Inspiring Vantage
@@ -149,13 +149,13 @@
 2 Tenth District Legionnaire
 2 Favored Hoplite
 2 Needleverge Pathway
-2 Reckless Rage
 2 Gods Willing
 2 Gird for Battle
 2 Monastery Swiftspear
 2 Boros Charm
 2 Sacred Foundry
 2 Soul-Scar Mage
+2 Reckless Rage
 2 Dreadhorde Arcanist
 2 Inspiring Vantage
 2 Titan's Strength
@@ -164,7 +164,6 @@
 3 Tenth District Legionnaire
 3 Favored Hoplite
 3 Needleverge Pathway
-3 Reckless Rage
 3 Gods Willing
 3 Inspiring Vantage
 3 Defiant Strike
@@ -172,14 +171,15 @@
 3 Battlefield Forge
 3 Soul-Scar Mage
 3 Boros Charm
+3 Reckless Rage
 3 Sacred Foundry
 3 Gird for Battle
 3 Dreadhorde Arcanist
 4 Tenth District Legionnaire
 4 Needleverge Pathway
 4 Favored Hoplite
-4 Reckless Rage
 4 Soul-Scar Mage
+4 Reckless Rage
 4 Defiant Strike
 4 Gods Willing
 4 Sacred Foundry
@@ -197,10 +197,10 @@
 1 Sunpetal Grove
 1 Fortified Village
 2 Branchloft Pathway
-3 Branchloft Pathway
 3 Temple Garden
-4 Branchloft Pathway
+3 Branchloft Pathway
 4 Temple Garden
+4 Branchloft Pathway
 5 Forest
 1 Unflinching Courage
 1 Bassara Tower Archer
@@ -308,36 +308,36 @@
 4 Llanowar Elves
 1 Starnheim Unleashed
 1 Gideon, Ally of Zendikar
-1 Wayfaring Temple
-1 Shefet Dunes
-1 Call of the Conclave
-1 Conclave Tribunal
 1 Voice of Resurgence
-1 Battle for Bretagard
+1 Call of the Conclave
 1 Esika's Chariot
+1 Wayfaring Temple
+1 Battle for Bretagard
+1 Shefet Dunes
+1 Conclave Tribunal
 2 Starnheim Unleashed
-2 Conclave Tribunal
-2 Shefet Dunes
-2 Wayfaring Temple
-2 Call of the Conclave
 2 Voice of Resurgence
 2 Fortified Village
 2 Battle for Bretagard
+2 Conclave Tribunal
 2 Esika's Chariot
+2 Call of the Conclave
+2 Wayfaring Temple
+2 Shefet Dunes
 3 Starnheim Unleashed
+3 Voice of Resurgence
 3 Call of the Conclave
 3 Conclave Tribunal
-3 Wayfaring Temple
-3 Voice of Resurgence
 3 Battle for Bretagard
+3 Wayfaring Temple
 3 Esika's Chariot
-4 Call of the Conclave
-4 Conclave Tribunal
-4 Wayfaring Temple
 4 Voice of Resurgence
-4 Starnheim Unleashed
-4 Battle for Bretagard
+4 Wayfaring Temple
+4 Conclave Tribunal
 4 Elvish Mystic
+4 Battle for Bretagard
+4 Call of the Conclave
+4 Starnheim Unleashed
 4 Esika's Chariot
 1 Soldier of the Pantheon
 1 Codespell Cleric

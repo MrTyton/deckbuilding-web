@@ -1,45 +1,45 @@
-1 Eliminate
-4 Sinister Sabotage
-2 Extinction Event
+1 Extinction Event
 4 Fabled Passage
+4 Fetid Pools
+1 Vraska's Contempt
 1 Search for Azcanta
 1 Rewind
 2 Rewind
-4 Fetid Pools
+4 Dig Through Time
+2 Extinction Event
 1 Thoughtseize
 2 Thoughtseize
 1 Void Shatter
 2 Void Shatter
-4 Dig Through Time
-1 Port of Karfell
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-2 Clearwater Pathway
 2 Heartless Act
+1 Port of Karfell
+2 Hero's Downfall
 1 Hieroglyphic Illumination
 1 Mutavault
 2 Mutavault
-2 Hero's Downfall
-1 Geier Reach Sanitarium
-1 Jace, Unraveler of Secrets
 3 Behold the Multiverse
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
+2 Clearwater Pathway
+1 Jace, Unraveler of Secrets
 1 Radiant Fountain
 2 Radiant Fountain
-1 Saw It Coming
+1 Geier Reach Sanitarium
 1 Bloodchief's Thirst
+1 Saw It Coming
 1 Cling to Dust
 1 Neutralize
-3 Narset, Parter of Veils
 3 Radiant Fountain
+3 Narset, Parter of Veils
 3 Clearwater Pathway
 1 Teferi, Hero of Dominaria
 1 Supreme Verdict
 1 Glacial Fortress
-1 Hallowed Fountain
 1 Castle Ardenvale
+1 Hallowed Fountain
 1 Absorb
-2 Teferi, Hero of Dominaria
 2 Supreme Verdict
+2 Teferi, Hero of Dominaria
 2 Hallowed Fountain
 2 Glacial Fortress
 2 Absorb
@@ -47,57 +47,10 @@
 3 Absorb
 4 Hallowed Fountain
 4 Absorb
-1 Dovin's Veto
-1 Irrigated Farmland
-1 Omen of the Sun
-1 Omen of the Sea
-2 Dovin's Veto
-2 Omen of the Sun
-2 Omen of the Sea
-2 Irrigated Farmland
-3 Omen of the Sea
-4 Omen of the Sea
-1 Plains
-3 Supreme Verdict
-3 Teferi, Hero of Dominaria
-1 Elspeth, Sun's Champion
-1 Syncopate
-1 Elspeth Conquers Death
-1 Isolate
-1 Blessed Alliance
-1 Settle the Wreckage
-1 Sphinx's Revelation
-2 Castle Vantress
-2 Castle Ardenvale
-2 Isolate
-2 Blessed Alliance
-2 Plains
-2 Syncopate
-2 Elspeth Conquers Death
-2 Sphinx's Revelation
-3 Elspeth Conquers Death
-3 Omen of the Sun
-3 Field of Ruin
-3 Castle Ardenvale
-3 Glacial Fortress
-3 Isolate
-3 Irrigated Farmland
-3 Plains
-3 Syncopate
-4 Omen of the Sun
-4 Supreme Verdict
-4 Glacial Fortress
-4 Syncopate
-4 Irrigated Farmland
-6 Island
-1 Jace, Architect of Thought
-1 Hengegate Pathway
-2 Hengegate Pathway
-1 Commit/Memory
 1 Chemister's Insight
 1 Thassa's Intervention
-2 Thassa's Intervention
 2 Castle Locthwain
+2 Thassa's Intervention
 4 Behold the Multiverse
 1 Godless Shrine
 1 Isolated Chapel
@@ -106,12 +59,23 @@
 3 Godless Shrine
 3 Thoughtseize
 4 Thoughtseize
-2 Eliminate
+1 Dovin's Veto
+1 Irrigated Farmland
+1 Omen of the Sun
+1 Hengegate Pathway
+1 Omen of the Sea
+2 Dovin's Veto
+2 Omen of the Sun
+2 Omen of the Sea
+2 Irrigated Farmland
+2 Hengegate Pathway
+3 Omen of the Sea
+4 Omen of the Sea
 4 Narset, Parter of Veils
-1 Teferi, Master of Time
-1 Azorius Charm
-2 Azorius Charm
-3 Blessed Alliance
+2 Eliminate
+1 Plains
+3 Supreme Verdict
+3 Teferi, Hero of Dominaria
 1 Detention Sphere
 1 Oath of Kaya
 1 Trial of Ambition
@@ -129,6 +93,39 @@
 3 Trial of Ambition
 3 Oath of Kaya
 4 Godless Shrine
+1 Elspeth, Sun's Champion
+1 Teferi, Master of Time
+1 Syncopate
+1 Elspeth Conquers Death
+1 Isolate
+1 Blessed Alliance
+1 Settle the Wreckage
+1 Sphinx's Revelation
+1 Azorius Charm
+2 Castle Vantress
+2 Castle Ardenvale
+2 Isolate
+2 Blessed Alliance
+2 Plains
+2 Azorius Charm
+2 Elspeth Conquers Death
+2 Syncopate
+2 Sphinx's Revelation
+3 Elspeth Conquers Death
+3 Omen of the Sun
+3 Field of Ruin
+3 Castle Ardenvale
+3 Glacial Fortress
+3 Isolate
+3 Irrigated Farmland
+3 Plains
+3 Syncopate
+4 Omen of the Sun
+4 Supreme Verdict
+4 Glacial Fortress
+4 Syncopate
+4 Irrigated Farmland
+6 Island
 1 Sublime Epiphany
 1 Ugin, the Spirit Dragon
 1 Solemn Simulacrum
@@ -138,20 +135,22 @@
 1 Moment of Craving
 2 Jace, Vryn's Prodigy
 2 Dream Trawler
+1 Jace, Architect of Thought
 2 Jace, Architect of Thought
-1 Jwari Disruption
-1 Snow-Covered Island
-1 Soul Shatter
-1 Snow-Covered Swamp
-2 Commit/Memory
-2 Snow-Covered Island
-2 Soul Shatter
-3 Snow-Covered Island
-3 Torrential Gearhulk
-4 Snow-Covered Island
 1 Day's Undoing
 1 Crawling Barrens
 2 Day's Undoing
 2 Geier Reach Sanitarium
 2 Crawling Barrens
 3 Swamp
+1 Jwari Disruption
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Soul Shatter
+1 Commit/Memory
+2 Commit/Memory
+2 Snow-Covered Island
+2 Soul Shatter
+3 Snow-Covered Island
+4 Snow-Covered Island
+3 Torrential Gearhulk
