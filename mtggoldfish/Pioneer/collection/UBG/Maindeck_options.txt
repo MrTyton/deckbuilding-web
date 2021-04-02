@@ -1,19 +1,18 @@
-3 Bloodchief's Thirst
-4 Bloodchief's Thirst
+1 Jace, Vryn's Prodigy
+4 Fatal Push
 3 Shark Typhoon
 1 Languish
-1 Extinction Event
 1 Zagoth Triome
 1 Forest
 2 Zagoth Triome
 3 Zagoth Triome
 4 Zagoth Triome
+1 Extinction Event
 2 Negate
-1 Valki, God of Lies
 1 Breeding Pool
 2 Forest
-4 Clearwater Pathway
 1 Darkbore Pathway
+1 Valki, God of Lies
 2 Darkbore Pathway
 1 Nissa, Who Shakes the World
 1 Overgrown Tomb
@@ -21,6 +20,7 @@
 1 Abrupt Decay
 1 Growth Spiral
 2 Growth Spiral
+4 Clearwater Pathway
 1 Shadows' Verdict
 3 Growth Spiral
 1 Omen of the Sea
@@ -65,22 +65,15 @@
 1 Castle Locthwain
 2 Censor
 1 Castle Vantress
-1 Torrential Gearhulk
-4 Watery Grave
 1 Trial of Ambition
 2 Trial of Ambition
 1 Urborg, Tomb of Yawgmoth
 2 Liliana, the Last Hope
-1 Blightstep Pathway
-2 Valki, God of Lies
-2 Blightstep Pathway
-3 Valki, God of Lies
-1 Murderous Rider
-1 Drown in the Loch
-2 Drown in the Loch
 1 Field of Ruin
+1 Torrential Gearhulk
 1 Mutavault
 2 Torrential Gearhulk
+4 Watery Grave
 3 Censor
 1 Sinister Sabotage
 2 Sinister Sabotage
@@ -90,10 +83,15 @@
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
 4 Uro, Titan of Nature's Wrath
+1 Murderous Rider
+1 Blightstep Pathway
 1 Bring to Light
-2 Murderous Rider
+2 Valki, God of Lies
 2 Bring to Light
+2 Murderous Rider
+2 Blightstep Pathway
 3 Bring to Light
+3 Valki, God of Lies
 4 Bring to Light
 4 Growth Spiral
 4 Thing in the Ice
@@ -102,14 +100,12 @@
 2 Nissa, Who Shakes the World
 3 Breeding Pool
 1 Syncopate
+1 Drown in the Loch
 2 Syncopate
 2 Field of Ruin
+2 Drown in the Loch
 1 Eliminate
 4 Drowned Catacomb
-2 Jace, Vryn's Prodigy
-3 Jace, Vryn's Prodigy
-1 Hero's Downfall
-4 Dig Through Time
 1 Hinterland Harbor
 1 Woodland Cemetery
 2 Courser of Kruphix
@@ -131,17 +127,10 @@
 2 Castle Locthwain
 3 Nissa, Who Shakes the World
 1 Ashiok, Nightmare Muse
+2 Jace, Vryn's Prodigy
 3 Drown in the Loch
+3 Jace, Vryn's Prodigy
 3 Swamp
-1 Release to the Wind
-1 Jace, Architect of Thought
-1 Riverglide Pathway
-2 Hero's Downfall
-2 Release to the Wind
-2 Kalitas, Traitor of Ghet
-2 Riverglide Pathway
-3 Release to the Wind
-4 Valki, God of Lies
 1 Hydroid Krasis
 1 Blooming Marsh
 1 Discovery/Dispersal
@@ -161,6 +150,7 @@
 4 Satyr Wayfinder
 4 Traverse the Ulvenwald
 1 Rewind
+1 Hero's Downfall
 1 Hieroglyphic Illumination
 1 Vraska's Contempt
 2 Rewind
@@ -169,5 +159,6 @@
 2 Vraska's Contempt
 3 Hieroglyphic Illumination
 3 Fetid Pools
+4 Dig Through Time
 4 Sinister Sabotage
 4 Narset, Parter of Veils

@@ -29,17 +29,17 @@
 
 |*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                            Sideboard Card                                             |
 |---------------------|-------------|--------------------:|-------------------------------------------------------------------------------------------------------|
-|                     |             |                    1|[Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)   |
 |                     |             |                    1|[Necromentia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485439)                 |
 |                     |             |                    1|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)                 |
 |                     |             |                    1|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)            |
 |                     |             |                    1|[Elder Gargaroth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485502)             |
+|                     |             |                    1|[Chandra, Awakened Inferno](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466881)   |
 |                     |             |                    1|[Ulamog, the Ceaseless Hunger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=402079)|
 |                     |             |                    1|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)           |
 |                     |             |                    1|[Assassin's Trophy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452902)           |
 |                     |             |                    2|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)           |
 |                     |             |                    2|[Alpine Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447264)                 |
 |                     |             |                    2|[Necromentia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485439)                 |
-|                     |             |                    3|[Necromentia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485439)                 |
 |                     |             |                    3|[Liliana's Triumph](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461025)           |
+|                     |             |                    3|[Necromentia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485439)                 |
 

@@ -1,6 +1,3 @@
-3 Soul-Scar Mage
-3 Lava Dart
-3 Monastery Swiftspear
 3 Manamorphose
 4 Soul-Scar Mage
 4 Lava Dart
@@ -11,13 +8,15 @@
 4 Light Up the Stage
 4 Manamorphose
 3 Mountain
+3 Flooded Strand
+4 Flooded Strand
 1 Crash Through
 2 Crash Through
 3 Crash Through
 4 Crash Through
 3 Steam Vents
 1 Jace, the Mind Sculptor
-2 Mana Leak
+2 Sulfur Falls
 1 Cascade Bluffs
 2 Cascade Bluffs
 1 Brazen Borrower
@@ -25,14 +24,12 @@
 2 Blood Moon
 1 Abrade
 2 Brazen Borrower
+2 Mana Leak
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 1 Sunbaked Canyon
-1 Polluted Delta
 1 Ral, Izzet Viceroy
 2 Jace, the Mind Sculptor
-1 Shark Typhoon
-2 Shark Typhoon
 1 Fiery Islet
 2 Sunbaked Canyon
 1 Mishra's Bauble
@@ -42,9 +39,12 @@
 1 Misty Rainforest
 1 Wooded Foothills
 3 Sunbaked Canyon
+1 Polluted Delta
 1 Arid Mesa
 1 Sacred Foundry
 2 Wooded Foothills
+1 Shark Typhoon
+2 Shark Typhoon
 2 Sacred Foundry
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep
@@ -105,7 +105,6 @@
 1 Kiln Fiend
 2 Kiln Fiend
 8 Island
-2 Polluted Delta
 1 Deprive
 2 Fiery Islet
 3 Lava Spike
@@ -123,11 +122,10 @@
 4 Through the Breach
 1 Burst Lightning
 2 Burst Lightning
+2 Polluted Delta
 2 Misty Rainforest
 3 Misty Rainforest
 2 The Royal Scions
-1 Behold the Multiverse
-2 Behold the Multiverse
 3 Bonecrusher Giant
 9 Island
 3 Burst Lightning
@@ -150,7 +148,6 @@
 15 Mountain
 1 Wild Slash
 2 Wild Slash
-1 Field of Ruin
 1 Seal of Fire
 2 Seal of Fire
 1 Snow-Covered Island
@@ -160,34 +157,11 @@
 5 Snow-Covered Island
 3 Wooded Foothills
 3 Mana Leak
-1 Blood Crypt
-3 Polluted Delta
-4 Polluted Delta
+1 Behold the Multiverse
+2 Behold the Multiverse
 1 Omen of the Sea
 2 Omen of the Sea
 3 Omen of the Sea
-1 Kolaghan's Command
-1 Drown in the Loch
-1 Creeping Tar Pit
-1 Watery Grave
-1 Cling to Dust
-1 Thought Scour
-1 Swamp
-1 Drowned Catacomb
-1 Tasigur, the Golden Fang
-1 Fatal Push
-2 Kolaghan's Command
-2 Drown in the Loch
-2 Watery Grave
-2 Creeping Tar Pit
-2 Thought Scour
-2 Tasigur, the Golden Fang
-2 Fatal Push
-3 Kolaghan's Command
-3 Thought Scour
-3 Drown in the Loch
-3 Shark Typhoon
-4 Thought Scour
 1 Ice-Fang Coatl
 1 Ketria Triome
 1 Snow-Covered Forest
@@ -196,6 +170,7 @@
 1 Search for Azcanta
 1 Wrenn and Six
 1 Lonely Sandbar
+1 Field of Ruin
 2 Ice-Fang Coatl
 2 Breeding Pool
 2 Snow-Covered Forest
@@ -219,19 +194,19 @@
 4 Thing in the Ice
 1 Spell Pierce
 3 Gut Shot
-3 Serum Visions
-4 Serum Visions
 1 Tarmogoyf
-2 Tarmogoyf
 2 Arid Mesa
 2 Stomping Ground
-3 Tarmogoyf
+2 Tarmogoyf
 3 Stomping Ground
-4 Tarmogoyf
+3 Tarmogoyf
 4 Wooded Foothills
+4 Tarmogoyf
+3 Serum Visions
+4 Serum Visions
+4 Sunbaked Canyon
 1 Temur Battle Rage
 2 Temur Battle Rage
-4 Sunbaked Canyon
 16 Mountain
 1 Goldspan Dragon
 2 Goldspan Dragon
@@ -258,41 +233,25 @@
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Mystic Sanctuary
-2 Temple of Epiphany
-3 Temple of Epiphany
-3 Valakut Awakening
-4 Valakut Awakening
-4 Temple of Epiphany
-1 Dreadhorde Arcanist
-1 Piracy Charm
-2 Dreadhorde Arcanist
-2 Deprive
-2 Piracy Charm
-3 Dreadhorde Arcanist
-3 Piracy Charm
-4 Dreadhorde Arcanist
-4 Steam Vents
 4 Deceiver Exarch
 1 Copperline Gorge
 1 Hooting Mandrills
 2 Copperline Gorge
 2 Hooting Mandrills
+3 Copperline Gorge
 3 Hooting Mandrills
 3 Seal of Fire
-3 Copperline Gorge
 4 Seal of Fire
 4 Copperline Gorge
 1 Wild Nacatl
 2 Wild Nacatl
+3 Arid Mesa
 3 Sacred Foundry
 3 Wild Nacatl
-3 Arid Mesa
 4 Wild Nacatl
 1 Finale of Promise
 3 Blistercoil Weird
 4 Blistercoil Weird
-3 Abbot of Keral Keep
-4 Abbot of Keral Keep
 1 Glasspool Mimic
 1 Stubborn Denial
 1 Inferno Titan
@@ -307,6 +266,11 @@
 3 Invasion of the Giants
 4 Inferno Titan
 4 Invasion of the Giants
+2 Temple of Epiphany
+3 Valakut Awakening
+3 Temple of Epiphany
+4 Valakut Awakening
+4 Temple of Epiphany
 1 Nivmagus Elemental
 1 Ground Rift
 2 Nivmagus Elemental
@@ -315,16 +279,6 @@
 3 Ground Rift
 4 Nivmagus Elemental
 4 Ground Rift
-1 Scourge of the Skyclaves
-2 Scourge of the Skyclaves
-2 Blood Crypt
-3 Blood Crypt
-3 Bloodstained Mire
-3 Scourge of the Skyclaves
-4 Bloodstained Mire
-4 Blood Crypt
-4 Kiln Fiend
-4 Scourge of the Skyclaves
 1 Forgotten Cave
 1 Arclight Phoenix
 1 Thrill of Possibility
@@ -335,19 +289,43 @@
 3 Thrill of Possibility
 4 Arclight Phoenix
 4 Thrill of Possibility
-1 Magda, Brazen Outlaw
+1 Dreadhorde Arcanist
+1 Piracy Charm
+2 Dreadhorde Arcanist
+2 Deprive
+2 Piracy Charm
+3 Dreadhorde Arcanist
+3 Piracy Charm
+3 Polluted Delta
+4 Dreadhorde Arcanist
+4 Steam Vents
+4 Polluted Delta
 1 Glorybringer
 1 Silumgar's Scorn
 1 Mothdust Changeling
-2 Magda, Brazen Outlaw
+1 Magda, Brazen Outlaw
 2 Silumgar's Scorn
 2 Mothdust Changeling
-3 Magda, Brazen Outlaw
+2 Magda, Brazen Outlaw
 3 Mothdust Changeling
+3 Magda, Brazen Outlaw
 3 Silumgar's Scorn
-4 Magda, Brazen Outlaw
 4 Mothdust Changeling
+4 Magda, Brazen Outlaw
 4 Silumgar's Scorn
+1 Blood Crypt
+1 Scourge of the Skyclaves
+2 Scourge of the Skyclaves
+2 Blood Crypt
+3 Blood Crypt
+3 Bloodstained Mire
+3 Scourge of the Skyclaves
+4 Blood Crypt
+4 Kiln Fiend
+4 Scourge of the Skyclaves
+4 Bloodstained Mire
+4 Goldspan Dragon
+4 Bonecrusher Giant
 6 Snow-Covered Island
 7 Snow-Covered Island
 8 Snow-Covered Island
@@ -365,5 +343,5 @@
 13 Snow-Covered Mountain
 14 Snow-Covered Mountain
 15 Snow-Covered Mountain
-4 Goldspan Dragon
-4 Bonecrusher Giant
+3 Abbot of Keral Keep
+4 Abbot of Keral Keep

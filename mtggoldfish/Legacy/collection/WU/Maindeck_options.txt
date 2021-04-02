@@ -1,23 +1,19 @@
-1 Snow-Covered Island
 1 Supreme Verdict
+1 Counterspell
 2 Snow-Covered Island
+2 Polluted Delta
 1 Vendilion Clique
+1 Misty Rainforest
 3 Snow-Covered Island
 1 Snow-Covered Plains
-2 Polluted Delta
-2 Spell Pierce
-1 Preordain
-1 Misty Rainforest
 1 Sword of Fire and Ice
 2 Hullbreacher
+1 Preordain
+2 Spell Pierce
 3 Polluted Delta
-2 Snow-Covered Plains
-4 Snow-Covered Island
 1 Baleful Strix
 1 Underground Sea
 2 Baleful Strix
-1 Spell Snare
-3 Scalding Tarn
 1 Wasteland
 2 Wasteland
 3 Wasteland
@@ -27,14 +23,17 @@
 1 Swamp
 3 Baleful Strix
 5 Island
-5 Snow-Covered Island
-1 Narset, Parter of Veils
+2 Snow-Covered Plains
+4 Snow-Covered Island
+1 Spell Snare
+3 Scalding Tarn
 4 Polluted Delta
 1 Scrubland
 1 Hymn to Tourach
 2 Hymn to Tourach
 1 Venser, Shaper Savant
-1 Snow-Covered Mountain
+5 Snow-Covered Island
+1 Narset, Parter of Veils
 1 Delver of Secrets
 2 Delver of Secrets
 3 Delver of Secrets
@@ -45,13 +44,12 @@
 2 Underground Sea
 1 Unearth
 2 Unearth
-1 Monastery Mentor
-2 Monastery Mentor
 2 Council's Judgment
 1 Tropical Island
 1 Savannah
 3 Misty Rainforest
 4 Misty Rainforest
+1 Snow-Covered Mountain
 6 Snow-Covered Island
 1 Liliana, the Last Hope
 1 Thoughtseize
@@ -59,16 +57,13 @@
 1 Kaya, Orzhov Usurper
 1 Mystic Sanctuary
 4 Daze
-4 Prismatic Vista
-3 Snow-Covered Plains
 3 Tundra
-3 Monastery Mentor
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
-1 Mountain
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
-1 Arid Mesa
+1 Monastery Mentor
+2 Monastery Mentor
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
@@ -80,19 +75,22 @@
 1 Forest
 2 Forest
 3 Uro, Titan of Nature's Wrath
+1 Mountain
 1 Dovin's Veto
 6 Island
-1 Jace, Vryn's Prodigy
+1 Drown in the Loch
+2 Drown in the Loch
 1 Of One Mind
 1 Fatal Push
 1 Vindicate
 2 Of One Mind
-1 Drown in the Loch
-2 Drown in the Loch
+3 Monastery Mentor
+1 Jace, Vryn's Prodigy
+3 Snow-Covered Plains
+4 Prismatic Vista
 1 Marsh Flats
 2 Preordain
-3 Teferi, Time Raveler
-4 Scalding Tarn
+1 Arid Mesa
 2 Tropical Island
 1 Windswept Heath
 1 Skyclave Apparition
@@ -100,12 +98,6 @@
 3 Skyclave Apparition
 1 Sevinne's Reclamation
 1 Diabolic Edict
-1 Unexpectedly Absent
-1 Magmatic Sinkhole
-2 Narset, Parter of Veils
-1 Fire/Ice
-1 Engineered Explosives
-2 Arid Mesa
 1 Ethereal Forager
 2 Ethereal Forager
 2 Brazen Borrower
@@ -115,24 +107,14 @@
 2 Karakas
 2 Vendilion Clique
 3 Plains
+3 Teferi, Time Raveler
 1 Snow-Covered Swamp
 3 Drown in the Loch
 3 Inquisition of Kozilek
-1 Lightning Bolt
-1 Raugrin Triome
-1 Divert
-1 Splinter Twin
-1 Pestermite
-1 Red Elemental Blast
-1 Deceiver Exarch
-2 Lightning Bolt
-2 Volcanic Island
-2 Splinter Twin
-2 Deceiver Exarch
-3 Volcanic Island
-3 Deceiver Exarch
-3 Splinter Twin
-4 Deceiver Exarch
+1 Fire/Ice
+1 Engineered Explosives
+2 Arid Mesa
+4 Scalding Tarn
 1 Once Upon a Time
 1 Rattlechains
 1 Spell Queller
@@ -147,11 +129,11 @@
 2 Edric, Spymaster of Trest
 3 Once Upon a Time
 3 Tropical Island
+3 Mausoleum Wanderer
 3 Spell Queller
 3 Edric, Spymaster of Trest
 3 Supreme Phantom
 3 Rattlechains
-3 Mausoleum Wanderer
 4 Once Upon a Time
 4 Mausoleum Wanderer
 4 Supreme Phantom

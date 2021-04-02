@@ -1,17 +1,19 @@
+2 Pillar of the Paruns
+4 Lightning Helix
 1 Snow-Covered Forest
 1 Mountain
 1 Island
+1 Plains
 1 Snow-Covered Island
 1 Snow-Covered Plains
 4 Windswept Heath
 1 Omen of the Sea
 2 Omen of the Sea
-1 Hallowed Fountain
 1 Glasspool Mimic
+1 Omen of the Forge
 1 Enigmatic Incarnation
 1 Phantasmal Image
 1 Charming Prince
-1 Omen of the Forge
 1 Scavenging Ooze
 1 Skyclave Apparition
 1 Lurrus of the Dream-Den
@@ -20,14 +22,14 @@
 1 Spellskite
 1 Meddling Mage
 1 Reflector Mage
-2 Enigmatic Incarnation
 2 Omen of the Forge
+2 Enigmatic Incarnation
 2 Skyclave Apparition
 3 Enigmatic Incarnation
 3 Omen of the Sea
 4 Enigmatic Incarnation
 4 Omen of the Sea
-1 Plains
+1 Hallowed Fountain
 1 Renegade Rallier
 2 Renegade Rallier
 1 Snow-Covered Mountain
@@ -37,30 +39,28 @@
 3 Spreading Seas
 3 Skyclave Apparition
 4 Spreading Seas
-1 Verdant Catacombs
 1 Dreadbore
-1 Pillar of the Paruns
-2 Pillar of the Paruns
+1 Verdant Catacombs
 4 Kaya's Guile
-4 Omnath, Locus of Creation
+4 Wrenn and Six
 1 Kolaghan's Command
 2 Verdant Catacombs
 3 Pillar of the Paruns
-4 Wrenn and Six
-1 Sacred Foundry
+4 Omnath, Locus of Creation
 2 Forest
-1 Raugrin Triome
+1 Sacred Foundry
 2 Snow-Covered Forest
 4 Teferi, Time Raveler
-2 Assassin's Trophy
 2 Lurrus of the Dream-Den
+1 Raugrin Triome
+4 Wooded Foothills
 1 Nahiri, the Harbinger
+2 Assassin's Trophy
 3 Assassin's Trophy
 1 Swamp
 1 Deputy of Detention
-4 Wooded Foothills
-3 Birds of Paradise
 2 Nahiri, the Harbinger
+3 Birds of Paradise
 1 Knight of Autumn
 4 Assassin's Trophy
 1 Uro, Titan of Nature's Wrath
@@ -71,7 +71,6 @@
 1 Seasoned Pyromancer
 4 Skyclave Apparition
 2 Seal of Fire
-1 Flooded Strand
 1 Curator of Mysteries
 1 Living End
 1 Ardent Plea
@@ -80,21 +79,22 @@
 1 Striped Riverwinder
 2 Ardent Plea
 2 Striped Riverwinder
+2 Living End
 2 Windcaller Aven
 2 Street Wraith
 2 Curator of Mysteries
-2 Living End
 3 Ardent Plea
-3 Street Wraith
-3 Striped Riverwinder
 3 Windcaller Aven
+3 Street Wraith
 3 Curator of Mysteries
 3 Living End
-4 Windcaller Aven
+3 Striped Riverwinder
 4 Striped Riverwinder
 4 Curator of Mysteries
+4 Windcaller Aven
 4 Street Wraith
 1 Force of Negation
+1 Flooded Strand
 2 Force of Negation
 2 Flooded Strand
 3 Force of Negation
@@ -114,38 +114,38 @@
 4 Desert Cerodon
 4 Violent Outburst
 1 Brazen Borrower
-1 Kitchen Finks
-1 Goblin Cratermaker
-1 Eternal Witness
-1 Lithoform Blight
+2 Abrupt Decay
 2 Brazen Borrower
 3 Brazen Borrower
-2 Abrupt Decay
 1 Scalding Tarn
 1 Glassdust Hulk
 2 Glassdust Hulk
 2 Botanical Sanctum
 4 Brazen Borrower
+1 Kitchen Finks
+1 Goblin Cratermaker
+1 Eternal Witness
+1 Lithoform Blight
+1 Mana Confluence
+2 Scalding Tarn
+3 Scalding Tarn
+4 Scalding Tarn
 4 Pillar of the Paruns
 1 Trial of Ambition
 2 Temple Garden
 1 Ephemerate
 1 Eidolon of Rhetoric
 1 Ice-Fang Coatl
-4 Birds of Paradise
-1 Mana Confluence
-2 Scalding Tarn
-3 Scalding Tarn
-4 Scalding Tarn
+1 Inspiring Vantage
+3 Abrupt Decay
 1 As Foretold
 4 Living End
 1 Fulminator Mage
-1 Inspiring Vantage
-3 Abrupt Decay
 3 Forest
+4 Birds of Paradise
 1 Growth Spiral
-4 Niv-Mizzet Reborn
 1 Nissa of Shadowed Boughs
+3 Verdant Catacombs
 1 Waker of Waves
 2 Island
 2 As Foretold
@@ -153,10 +153,11 @@
 3 Island
 3 Waker of Waves
 3 As Foretold
-4 Island
 4 As Foretold
+4 Island
 4 Waker of Waves
 1 Deafening Clarion
+4 Niv-Mizzet Reborn
 5 Island
 6 Island
 1 Calix, Destiny's Hand
@@ -171,16 +172,6 @@
 2 Path to the World Tree
 1 Voice of Resurgence
 1 Seachrome Coast
-3 Verdant Catacombs
-1 Savai Triome
-1 Zagoth Triome
-1 Felidar Guardian
-1 Saheeli Rai
-1 Oath of Nissa
-2 Saheeli Rai
-2 Oath of Nissa
-3 Saheeli Rai
-1 Klothys, God of Destiny
 1 Glacial Fortress
 1 Cryptic Command
 2 Glacial Fortress
@@ -194,10 +185,10 @@
 2 Architects of Will
 3 Glassdust Hulk
 4 Glassdust Hulk
-1 Polluted Delta
 1 Imposing Vantasaur
 1 Thoughtseize
 1 Fatal Push
+1 Savai Triome
 1 Shadows' Verdict
 2 Thoughtseize
 2 Fatal Push
@@ -206,32 +197,30 @@
 3 Fatal Push
 4 Fatal Push
 4 Thoughtseize
+1 Zagoth Triome
 1 Cosima, God of the Voyage
 1 Archon of Emeria
+1 Maelstrom Pulse
 1 Omen of the Dead
 1 Reidane, God of the Worthy
 1 Spike Feeder
 1 Heliod, Sun-Crowned
 1 Oath of Kaya
-1 Maelstrom Pulse
-1 Ashiok, Dream Render
 1 Binding the Old Gods
-1 Marsh Flats
-1 Tolsimir, Friend to Wolves
-1 Coiling Oracle
-1 Bloodstained Mire
-2 Coiling Oracle
-2 Bloodstained Mire
-2 Marsh Flats
-3 Coiling Oracle
-4 Coiling Oracle
+1 Ashiok, Dream Render
+1 Felidar Guardian
+1 Saheeli Rai
+1 Oath of Nissa
 1 Rimewood Falls
 1 Highland Forest
 1 Golos, Tireless Pilgrim
 1 Huntmaster of the Fells
 1 Kaya, Orzhov Usurper
 2 Felidar Guardian
+2 Saheeli Rai
+2 Oath of Nissa
 2 Ice-Fang Coatl
+3 Saheeli Rai
 3 Felidar Guardian
 3 Oath of Nissa
 4 Oath of Nissa
@@ -240,14 +229,20 @@
 4 Omen of the Forge
 4 Growth Spiral
 1 Vendilion Clique
-1 Valakut Awakening
-2 Valakut Awakening
 1 Bloodbraid Elf
+1 Klothys, God of Destiny
 1 Lavinia, Azorius Renegade
 1 Glittering Wish
 2 Lavinia, Azorius Renegade
+1 Valakut Awakening
+2 Valakut Awakening
+1 Anguished Unmaking
+1 Blood Crypt
+1 Loxodon Smiter
+2 Loxodon Smiter
 2 Hallowed Fountain
 3 Hallowed Fountain
+1 Polluted Delta
 1 Sunken Ruins
 1 Faerie Macabre
 1 Generous Gift
