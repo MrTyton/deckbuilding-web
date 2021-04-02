@@ -1,9 +1,8 @@
-1 Light Up the Stage
+1 Monastery Swiftspear
 1 Goblin Guide
 2 Lava Spike
 2 Goblin Guide
 2 Monastery Swiftspear
-2 Light Up the Stage
 2 Skewer the Critics
 3 Lava Spike
 3 Skewer the Critics
@@ -13,23 +12,25 @@
 4 Monastery Swiftspear
 4 Lava Spike
 4 Goblin Guide
+1 Wooded Foothills
+1 Light Up the Stage
+2 Light Up the Stage
+1 Wayward Guide-Beast
+2 Wayward Guide-Beast
+3 Wayward Guide-Beast
 1 Scourge of the Skyclaves
 1 Seal of Fire
 1 Bump in the Night
-2 Scourge of the Skyclaves
 2 Seal of Fire
 2 Wooded Foothills
+2 Scourge of the Skyclaves
 2 Bump in the Night
-3 Scourge of the Skyclaves
 3 Light Up the Stage
+3 Scourge of the Skyclaves
 3 Bump in the Night
 4 Light Up the Stage
 4 Scourge of the Skyclaves
 4 Bump in the Night
-1 Snow-Covered Mountain
-1 Wayward Guide-Beast
-2 Wayward Guide-Beast
-3 Wayward Guide-Beast
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Wooded Foothills
@@ -37,54 +38,20 @@
 4 Wooded Foothills
 4 Wayward Guide-Beast
 4 Soul-Scar Mage
+1 Snow-Covered Mountain
 4 Unearth
-1 Dark Confidant
-2 Dark Confidant
+1 Prismatic Vista
+2 Prismatic Vista
+3 Marsh Flats
+3 Kroxa, Titan of Death's Hunger
+4 Marsh Flats
+4 Fatal Push
 4 Liliana of the Veil
 1 Rix Maadi Reveler
 2 Rix Maadi Reveler
-4 Fatal Push
-1 Prismatic Vista
-2 Prismatic Vista
-1 Cling to Dust
 1 Bloodchief's Thirst
-1 Kolaghan's Command
-1 Dreadbore
-1 Blood Moon
-2 Blood Moon
-3 Marsh Flats
-3 Kroxa, Titan of Death's Hunger
-3 Blood Moon
-4 Marsh Flats
-4 Blood Moon
-2 Snow-Covered Mountain
-1 Agadeem's Awakening
-1 Snow-Covered Swamp
-2 Snow-Covered Swamp
-3 Prismatic Vista
-1 Sacred Foundry
-1 Sunbaked Canyon
-1 Bomat Courier
-1 Fruit of Tizerus
-2 Sunbaked Canyon
-2 Bomat Courier
-2 Fruit of Tizerus
-3 Sunbaked Canyon
-3 Bomat Courier
-4 Sunbaked Canyon
-4 Bomat Courier
-1 Godless Shrine
-1 Hazoret the Fervent
-1 Dreadhorde Arcanist
-2 Cling to Dust
-2 Dreadhorde Arcanist
-3 Dreadhorde Arcanist
-4 Swamp
-4 Dreadhorde Arcanist
-4 Thoughtseize
 1 Forked Bolt
 1 Skullcrack
-1 Mishra's Bauble
 1 Rift Bolt
 1 Eidolon of the Great Revel
 2 Forked Bolt
@@ -99,7 +66,6 @@
 4 Rift Bolt
 4 Forked Bolt
 4 Mountain
-4 Skullcrack
 5 Mountain
 6 Mountain
 7 Mountain
@@ -108,8 +74,52 @@
 10 Mountain
 11 Mountain
 12 Mountain
+13 Mountain
 14 Mountain
 15 Mountain
+1 Blood Moon
+1 Sunbaked Canyon
+2 Sunbaked Canyon
+3 Sunbaked Canyon
+4 Sunbaked Canyon
+1 Sacred Foundry
+1 Demigod of Revenge
+1 Exquisite Firecraft
+2 Demigod of Revenge
+1 Cling to Dust
+1 Snow-Covered Swamp
+1 Agadeem's Awakening
+2 Snow-Covered Swamp
+2 Snow-Covered Mountain
+1 Bomat Courier
+1 Fruit of Tizerus
+2 Bomat Courier
+2 Fruit of Tizerus
+3 Bomat Courier
+4 Bomat Courier
+1 Arid Mesa
+1 Godless Shrine
+1 Stoneforge Mystic
+1 Savai Triome
+1 Batterskull
+1 Sword of Feast and Famine
+1 Lingering Souls
+1 Plains
+1 Kaya's Guile
+2 Arid Mesa
+2 Stoneforge Mystic
+2 Lingering Souls
+2 Kaya's Guile
+3 Dark Confidant
+3 Stoneforge Mystic
+4 Stoneforge Mystic
+1 Kolaghan's Command
+1 Dreadbore
+2 Blood Moon
+3 Prismatic Vista
+3 Blood Moon
+4 Blood Moon
+1 Mishra's Bauble
 16 Mountain
 17 Mountain
-13 Mountain
+4 Skullcrack

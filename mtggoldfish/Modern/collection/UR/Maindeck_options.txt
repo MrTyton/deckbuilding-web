@@ -1,3 +1,18 @@
+2 Mana Leak
+1 Ral, Izzet Viceroy
+2 Jace, the Mind Sculptor
+2 Mountain
+1 Soul-Scar Mage
+1 Monastery Swiftspear
+1 Manamorphose
+1 Lava Dart
+2 Soul-Scar Mage
+2 Monastery Swiftspear
+2 Lava Dart
+2 Manamorphose
+3 Soul-Scar Mage
+3 Lava Dart
+3 Monastery Swiftspear
 3 Manamorphose
 4 Soul-Scar Mage
 4 Lava Dart
@@ -8,43 +23,23 @@
 4 Light Up the Stage
 4 Manamorphose
 3 Mountain
-3 Flooded Strand
-4 Flooded Strand
 1 Crash Through
 2 Crash Through
 3 Crash Through
 4 Crash Through
-3 Steam Vents
-1 Jace, the Mind Sculptor
-2 Sulfur Falls
-1 Cascade Bluffs
-2 Cascade Bluffs
-1 Brazen Borrower
-1 Blood Moon
-2 Blood Moon
-1 Abrade
-2 Brazen Borrower
-2 Mana Leak
-1 Bonecrusher Giant
-2 Bonecrusher Giant
 1 Sunbaked Canyon
-1 Ral, Izzet Viceroy
-2 Jace, the Mind Sculptor
-1 Fiery Islet
-2 Sunbaked Canyon
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
-1 Misty Rainforest
+2 Sunbaked Canyon
 1 Wooded Foothills
 3 Sunbaked Canyon
-1 Polluted Delta
+1 Misty Rainforest
 1 Arid Mesa
 1 Sacred Foundry
 2 Wooded Foothills
-1 Shark Typhoon
-2 Shark Typhoon
+1 Polluted Delta
 2 Sacred Foundry
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep
@@ -52,11 +47,11 @@
 1 Mutagenic Growth
 2 Mutagenic Growth
 3 Mutagenic Growth
-3 Force of Negation
 1 Inspiring Vantage
 2 Inspiring Vantage
 3 Inspiring Vantage
 4 Inspiring Vantage
+3 Force of Negation
 1 Riverglide Pathway
 1 Valakut Awakening
 1 Reflecting Pool
@@ -75,22 +70,15 @@
 2 Deceiver Exarch
 2 Kiki-Jiki, Mirror Breaker
 1 Flame Slash
+1 Shark Typhoon
+2 Shark Typhoon
 2 Valakut Awakening
 3 Spirebluff Canal
 4 Spirebluff Canal
+1 Bonecrusher Giant
+2 Bonecrusher Giant
 2 Bloodstained Mire
-4 Mountain
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-1 Lava Spike
-1 Bedlam Reveler
-2 Bedlam Reveler
+1 Fiery Islet
 1 Boros Charm
 1 Myth Realized
 2 Boros Charm
@@ -98,18 +86,8 @@
 3 Myth Realized
 1 Crackling Drake
 3 Deceiver Exarch
-13 Mountain
-14 Mountain
-3 Bedlam Reveler
-2 Lava Spike
-1 Kiln Fiend
-2 Kiln Fiend
 8 Island
 1 Deprive
-2 Fiery Islet
-3 Lava Spike
-4 Lava Spike
-3 Kiln Fiend
 1 Through the Breach
 2 Through the Breach
 1 The Royal Scions
@@ -120,16 +98,28 @@
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
 4 Through the Breach
-1 Burst Lightning
-2 Burst Lightning
 2 Polluted Delta
 2 Misty Rainforest
 3 Misty Rainforest
+4 Mountain
+1 Lava Spike
+2 Lava Spike
 2 The Royal Scions
-3 Bonecrusher Giant
+3 Lava Spike
+4 Lava Spike
+5 Mountain
+6 Mountain
+7 Mountain
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+1 Bedlam Reveler
+2 Bedlam Reveler
+1 Kiln Fiend
+2 Kiln Fiend
 9 Island
-3 Burst Lightning
-3 Fiery Islet
 3 Kiki-Jiki, Mirror Breaker
 4 Misty Rainforest
 1 Blast Zone
@@ -137,17 +127,17 @@
 3 Brazen Borrower
 4 Brazen Borrower
 1 Snow-Covered Mountain
-4 Bedlam Reveler
 1 Serum Visions
 2 Serum Visions
 1 Stomping Ground
 2 Reflecting Pool
 3 Reflecting Pool
-1 Gut Shot
-2 Gut Shot
-15 Mountain
+13 Mountain
+14 Mountain
+3 Bedlam Reveler
 1 Wild Slash
 2 Wild Slash
+3 Kiln Fiend
 1 Seal of Fire
 2 Seal of Fire
 1 Snow-Covered Island
@@ -156,6 +146,7 @@
 4 Snow-Covered Island
 5 Snow-Covered Island
 3 Wooded Foothills
+3 Bonecrusher Giant
 3 Mana Leak
 1 Behold the Multiverse
 2 Behold the Multiverse
@@ -180,40 +171,42 @@
 3 Wrenn and Six
 4 Ice-Fang Coatl
 4 Wrenn and Six
-4 Fiery Islet
-4 Burst Lightning
 1 Ancestral Vision
 2 Ancestral Vision
 1 Vendilion Clique
 1 Fire Prophecy
-1 Blistercoil Weird
-2 Blistercoil Weird
+1 Burst Lightning
+2 Burst Lightning
+2 Fiery Islet
+3 Fiery Islet
 1 Thing in the Ice
 2 Thing in the Ice
 3 Thing in the Ice
 4 Thing in the Ice
 1 Spell Pierce
-3 Gut Shot
 1 Tarmogoyf
 2 Arid Mesa
-2 Stomping Ground
 2 Tarmogoyf
+2 Stomping Ground
 3 Stomping Ground
 3 Tarmogoyf
 4 Wooded Foothills
 4 Tarmogoyf
 3 Serum Visions
 4 Serum Visions
-4 Sunbaked Canyon
 1 Temur Battle Rage
 2 Temur Battle Rage
-16 Mountain
+4 Sunbaked Canyon
 1 Goldspan Dragon
 2 Goldspan Dragon
 3 Goldspan Dragon
 3 Blood Moon
 1 Temple of Epiphany
 4 Reflecting Pool
+1 Gut Shot
+2 Gut Shot
+15 Mountain
+16 Mountain
 1 Sprite Dragon
 2 Sprite Dragon
 3 Sprite Dragon
@@ -225,33 +218,45 @@
 2 Flusterstorm
 1 Peek
 2 Peek
-1 Runaway Steam-Kin
-2 Runaway Steam-Kin
 1 Dispel
 2 Spell Pierce
 3 Ancestral Vision
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Mystic Sanctuary
+1 Blistercoil Weird
+1 Runaway Steam-Kin
+2 Blistercoil Weird
+2 Runaway Steam-Kin
+3 Burst Lightning
 4 Deceiver Exarch
+1 Wild Nacatl
+2 Wild Nacatl
+3 Sacred Foundry
+3 Wild Nacatl
+3 Arid Mesa
+4 Wild Nacatl
 1 Copperline Gorge
 1 Hooting Mandrills
 2 Copperline Gorge
 2 Hooting Mandrills
-3 Copperline Gorge
 3 Hooting Mandrills
 3 Seal of Fire
+3 Copperline Gorge
 4 Seal of Fire
 4 Copperline Gorge
-1 Wild Nacatl
-2 Wild Nacatl
-3 Arid Mesa
-3 Sacred Foundry
-3 Wild Nacatl
-4 Wild Nacatl
-1 Finale of Promise
-3 Blistercoil Weird
-4 Blistercoil Weird
+4 Fiery Islet
+1 Blood Crypt
+1 Scourge of the Skyclaves
+2 Scourge of the Skyclaves
+2 Blood Crypt
+3 Scourge of the Skyclaves
+3 Blood Crypt
+3 Bloodstained Mire
+4 Bloodstained Mire
+4 Scourge of the Skyclaves
+4 Blood Crypt
+4 Kiln Fiend
 1 Glasspool Mimic
 1 Stubborn Denial
 1 Inferno Titan
@@ -285,6 +290,7 @@
 2 Forgotten Cave
 2 Arclight Phoenix
 2 Thrill of Possibility
+3 Gut Shot
 3 Arclight Phoenix
 3 Thrill of Possibility
 4 Arclight Phoenix
@@ -313,17 +319,6 @@
 4 Mothdust Changeling
 4 Magda, Brazen Outlaw
 4 Silumgar's Scorn
-1 Blood Crypt
-1 Scourge of the Skyclaves
-2 Scourge of the Skyclaves
-2 Blood Crypt
-3 Blood Crypt
-3 Bloodstained Mire
-3 Scourge of the Skyclaves
-4 Blood Crypt
-4 Kiln Fiend
-4 Scourge of the Skyclaves
-4 Bloodstained Mire
 4 Goldspan Dragon
 4 Bonecrusher Giant
 6 Snow-Covered Island
@@ -332,6 +327,7 @@
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
+4 Bedlam Reveler
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain

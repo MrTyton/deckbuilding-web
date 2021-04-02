@@ -15,9 +15,9 @@
 1 Phantasmal Image
 1 Charming Prince
 1 Scavenging Ooze
+1 Magus of the Moon
 1 Skyclave Apparition
 1 Lurrus of the Dream-Den
-1 Magus of the Moon
 1 Brain Maggot
 1 Spellskite
 1 Meddling Mage
@@ -67,10 +67,6 @@
 1 Snow-Covered Swamp
 1 Abrupt Decay
 3 Snow-Covered Forest
-1 On Thin Ice
-1 Seasoned Pyromancer
-4 Skyclave Apparition
-2 Seal of Fire
 1 Curator of Mysteries
 1 Living End
 1 Ardent Plea
@@ -107,36 +103,40 @@
 1 Desert Cerodon
 1 Botanical Sanctum
 2 Spirebluff Canal
-2 Desert Cerodon
 2 Violent Outburst
+2 Desert Cerodon
 3 Desert Cerodon
 3 Violent Outburst
 4 Desert Cerodon
 4 Violent Outburst
 1 Brazen Borrower
-2 Abrupt Decay
+1 On Thin Ice
+1 Seasoned Pyromancer
+4 Skyclave Apparition
+2 Seal of Fire
 2 Brazen Borrower
 3 Brazen Borrower
 1 Scalding Tarn
 1 Glassdust Hulk
-2 Glassdust Hulk
 2 Botanical Sanctum
 4 Brazen Borrower
-1 Kitchen Finks
-1 Goblin Cratermaker
-1 Eternal Witness
-1 Lithoform Blight
 1 Mana Confluence
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
+2 Glassdust Hulk
+2 Abrupt Decay
+1 Kitchen Finks
+1 Goblin Cratermaker
+1 Eternal Witness
+1 Lithoform Blight
+1 Inspiring Vantage
 4 Pillar of the Paruns
 1 Trial of Ambition
 2 Temple Garden
 1 Ephemerate
 1 Eidolon of Rhetoric
 1 Ice-Fang Coatl
-1 Inspiring Vantage
 3 Abrupt Decay
 1 As Foretold
 4 Living End
@@ -195,8 +195,8 @@
 3 Nahiri, the Harbinger
 3 Thoughtseize
 3 Fatal Push
-4 Fatal Push
 4 Thoughtseize
+4 Fatal Push
 1 Zagoth Triome
 1 Cosima, God of the Voyage
 1 Archon of Emeria
@@ -228,6 +228,7 @@
 3 Omen of the Forge
 4 Omen of the Forge
 4 Growth Spiral
+1 Mystical Dispute
 1 Vendilion Clique
 1 Bloodbraid Elf
 1 Klothys, God of Destiny

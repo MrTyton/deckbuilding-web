@@ -1,25 +1,12 @@
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
-1 Smuggler's Copter
-1 Breeding Pool
-4 Force of Negation
-1 Benthic Biomancer
 2 Benthic Biomancer
 3 Benthic Biomancer
 4 Benthic Biomancer
+1 Breeding Pool
+4 Force of Negation
 6 Island
-4 Cavern of Souls
+1 Smuggler's Copter
 1 Glasspool Mimic
 2 Glasspool Mimic
-3 Waterlogged Grove
-2 Smuggler's Copter
-5 Snow-Covered Island
-6 Snow-Covered Island
-7 Snow-Covered Island
-1 Chalice of the Void
-2 Chalice of the Void
-3 Chalice of the Void
 1 Unsettled Mariner
 2 Unsettled Mariner
 3 Unsettled Mariner
@@ -27,26 +14,39 @@
 2 Wanderwine Hub
 3 Wanderwine Hub
 4 Wanderwine Hub
-4 Spreading Seas
+1 Snow-Covered Island
+2 Snow-Covered Island
+3 Snow-Covered Island
+4 Snow-Covered Island
+3 Waterlogged Grove
 1 Seachrome Coast
 2 Seachrome Coast
 3 Seachrome Coast
 4 Unsettled Mariner
+4 Cavern of Souls
+1 Chalice of the Void
+2 Chalice of the Void
+3 Chalice of the Void
+2 Smuggler's Copter
+4 Spreading Seas
 3 Glasspool Mimic
 3 Merrow Reejerey
+5 Snow-Covered Island
+6 Snow-Covered Island
+7 Snow-Covered Island
 7 Island
 1 Deprive
 2 Deprive
+4 Seachrome Coast
+1 Mana Leak
+2 Mana Leak
+3 Mana Leak
 2 Breeding Pool
 4 Waterlogged Grove
 4 Merrow Reejerey
 3 Deprive
 4 Deprive
 4 Dismember
-4 Seachrome Coast
-1 Mana Leak
-2 Mana Leak
-3 Mana Leak
 1 Darkslick Shores
 2 Darkslick Shores
 3 Darkslick Shores
@@ -87,6 +87,8 @@
 4 Bind the Monster
 1 Echoing Truth
 2 Echoing Truth
+1 Tidebinder Mage
+2 Tidebinder Mage
 1 Master of Waves
 2 Master of Waves
 3 Master of Waves
@@ -136,8 +138,6 @@
 4 Faerie Conclave
 3 Spell Pierce
 4 Spell Pierce
-1 Tidebinder Mage
-2 Tidebinder Mage
 3 Tidebinder Mage
 3 Flooded Strand
 4 Tidebinder Mage

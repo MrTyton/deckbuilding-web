@@ -46,8 +46,8 @@
 |                    3|[Darkslick Shores](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209400)         |                    2|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)    |
 |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)               |                     |                                                                                                  |
 |                    3|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)   |                     |                                                                                                  |
-|                    4|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)            |                     |                                                                                                  |
 |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)               |                     |                                                                                                  |
+|                    4|[Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397701)            |                     |                                                                                                  |
 |                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)   |                     |                                                                                                  |
 |                    4|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)                |                     |                                                                                                  |
 

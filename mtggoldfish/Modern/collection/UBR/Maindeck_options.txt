@@ -4,11 +4,13 @@
 2 Desert Cerodon
 3 Desert Cerodon
 4 Desert Cerodon
+2 Brazen Borrower
 2 Cryptic Command
+1 Snow-Covered Island
 1 Mishra's Bauble
-1 Polluted Delta
 1 Fatal Push
 1 Watery Grave
+1 Polluted Delta
 2 Mishra's Bauble
 2 Fatal Push
 2 Polluted Delta
@@ -20,13 +22,16 @@
 2 Snapcaster Mage
 1 Archmage's Charm
 2 Archmage's Charm
-2 Watery Grave
-3 Snapcaster Mage
+1 Snow-Covered Forest
+1 Breeding Pool
+3 Misty Rainforest
 1 Drown in the Loch
 2 Drown in the Loch
+2 Watery Grave
+3 Snapcaster Mage
 3 Archmage's Charm
-1 Swamp
 4 Snapcaster Mage
+1 Swamp
 3 Cryptic Command
 1 Blood Crypt
 1 Lightning Bolt
@@ -36,31 +41,27 @@
 2 Lightning Bolt
 2 Kolaghan's Command
 3 Kolaghan's Command
-1 Snow-Covered Forest
-1 Breeding Pool
-1 Snow-Covered Island
-3 Misty Rainforest
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
 4 Misty Rainforest
 1 Jace, Vryn's Prodigy
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
+4 Mishra's Bauble
 2 Jace, Vryn's Prodigy
 1 Logic Knot
 1 Serum Visions
 2 Serum Visions
 2 Swamp
+3 Inquisition of Kozilek
 1 Valki, God of Lies
 1 Creeping Tar Pit
+2 Logic Knot
 2 Creeping Tar Pit
 2 Valki, God of Lies
-2 Logic Knot
 2 Dreadbore
 3 Lightning Bolt
 3 Serum Visions
 4 Cryptic Command
-3 Inquisition of Kozilek
 1 Sunken Ruins
-4 Mishra's Bauble
 1 Flooded Strand
 2 Flooded Strand
 1 Violent Outburst
@@ -68,8 +69,8 @@
 3 Violent Outburst
 4 Violent Outburst
 4 Street Wraith
-1 Botanical Sanctum
 1 Glassdust Hulk
+1 Botanical Sanctum
 1 Ardent Plea
 1 Snow-Covered Plains
 1 Hallowed Fountain
@@ -82,62 +83,63 @@
 4 Ardent Plea
 4 Glassdust Hulk
 4 Flooded Strand
-2 Brazen Borrower
 3 Spirebluff Canal
-1 Mana Leak
-2 Mana Leak
-3 Waker of Waves
-1 Imposing Vantasaur
+4 Spirebluff Canal
 1 Unearth
-1 Spell Snare
+2 Snow-Covered Island
 1 Cling to Dust
 1 Snow-Covered Swamp
 1 Ice-Fang Coatl
-1 Abrupt Decay
 1 Assassin's Trophy
+1 Abrupt Decay
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
+1 Mana Leak
+2 Mana Leak
 1 Bloodchief's Thirst
-4 Spirebluff Canal
-2 Snow-Covered Island
 1 Tarmogoyf
-2 Abrupt Decay
 2 Tarmogoyf
 3 Tarmogoyf
-2 Unearth
-1 Nihil Spellbomb
+1 Spell Snare
 1 Into the Story
+3 Snow-Covered Island
 1 Zagoth Triome
 1 Thought Scour
 2 Thought Scour
 3 Thought Scour
 4 Thought Scour
-1 Verdant Catacombs
-4 Fatal Push
+2 Abrupt Decay
+2 Unearth
 3 Drown in the Loch
+3 Waker of Waves
+1 Imposing Vantasaur
+1 Silundi Vision
+1 Nihil Spellbomb
+1 Reflecting Pool
+1 Overgrown Tomb
+1 Ice Tunnel
+1 Verdant Catacombs
+4 Tarmogoyf
+4 Fatal Push
 1 Thoughtseize
 1 Clearwater Pathway
+1 Kroxa, Titan of Death's Hunger
 1 Castle Vantress
 1 Engineered Explosives
-1 Kroxa, Titan of Death's Hunger
 1 Drowned Catacomb
 2 Drowned Catacomb
 3 Drowned Catacomb
-1 Silundi Vision
-1 Overgrown Tomb
-1 Reflecting Pool
-3 Snow-Covered Island
-1 Ice Tunnel
-4 Tarmogoyf
+1 Prismatic Vista
+4 Snow-Covered Island
 2 Snow-Covered Swamp
 2 Thoughtseize
 1 Ancestral Vision
 1 Spell Pierce
 2 Spell Pierce
 3 Spell Pierce
-1 Prismatic Vista
-4 Snow-Covered Island
+2 Prismatic Vista
+3 Prismatic Vista
 1 Rimewood Falls
 2 Verdant Catacombs
 2 Snow-Covered Forest
@@ -146,6 +148,7 @@
 1 Blooming Marsh
 4 Lightning Bolt
 4 Serum Visions
+1 Snow-Covered Mountain
 1 Sacred Foundry
 1 Vendilion Clique
 1 Flooded Grove
@@ -153,8 +156,7 @@
 1 Sunken Hollow
 1 Hinterland Harbor
 2 Hinterland Harbor
-2 Prismatic Vista
-3 Prismatic Vista
+2 Into the Story
 1 Nurturing Peatland
 1 Nissa, Steward of Elements
 1 Noble Hierarch
@@ -178,9 +180,9 @@
 2 Deprive
 2 Mystic Sanctuary
 2 Behold the Multiverse
-3 Thoughtseize
 3 River of Tears
 3 Behold the Multiverse
+3 Thoughtseize
 3 Jace, Vryn's Prodigy
 3 Watery Grave
 4 Thoughtseize
@@ -206,20 +208,20 @@
 2 Copperline Gorge
 2 Bloodstained Mire
 2 Blooming Marsh
+2 Blackcleave Cliffs
 2 Wooded Foothills
 2 Monstrous Carabid
-2 Blackcleave Cliffs
 2 Demonic Dread
 2 Horror of the Broken Lands
 2 Simian Spirit Guide
 2 Blood Crypt
 2 Deadshot Minotaur
+3 Bloodstained Mire
 3 Wooded Foothills
 3 Fulminator Mage
 3 Demonic Dread
 3 Simian Spirit Guide
 3 Monstrous Carabid
-3 Bloodstained Mire
 3 Horror of the Broken Lands
 4 Fulminator Mage
 4 Horror of the Broken Lands
