@@ -47,9 +47,9 @@
 1 Needleverge Pathway
 1 Shatterskull Smashing
 1 Harmonious Archon
-2 Castle Ardenvale
 2 Fire Prophecy
 2 Transmogrify
+2 Castle Ardenvale
 2 Elspeth, Sun's Nemesis
 2 Shatterskull Smashing
 2 Forbidden Friendship
@@ -79,10 +79,10 @@
 3 Cultivate
 1 Eerie Ultimatum
 1 Mazemind Tome
+1 Garruk, Cursed Huntsman
 1 Shatter the Sky
 1 Skyclave Apparition
 1 Vivien, Monsters' Advocate
-1 Garruk, Cursed Huntsman
 1 Banishing Light
 1 Crawling Barrens
 1 Doomskar
@@ -101,8 +101,8 @@
 4 Skyclave Apparition
 4 Eerie Ultimatum
 4 Temple of Silence
-1 Yasharn, Implacable Earth
 1 Acquisitions Expert
+1 Yasharn, Implacable Earth
 1 Eliminate
 1 Lithoform Blight
 2 Lithoform Blight
@@ -127,7 +127,6 @@
 2 Snow-Covered Forest
 3 Snow-Covered Swamp
 3 Snow-Covered Forest
-1 Shepherd of the Flock
 1 Omen of the Hunt
 1 Kogla, the Titan Ape
 1 Tergrid, God of Fright
@@ -135,10 +134,10 @@
 1 Snowfield Sinkhole
 1 Woodland Chasm
 1 Evolving Wilds
+1 Bala Ged Recovery
 1 Snow-Covered Plains
 1 Great Hall of Starnheim
 1 Skull Raid
-1 Bala Ged Recovery
 1 Rampage of the Valkyries
 1 Elderfang Disciple
 1 Sarulf's Packmate
@@ -146,6 +145,7 @@
 1 Grasp of Darkness
 1 Shimmerdrift Vale
 1 Feed the Serpent
+1 Shepherd of the Flock
 2 Evolving Wilds
 2 Omen of the Hunt
 2 Sculptor of Winter
@@ -192,6 +192,28 @@
 2 Valki, God of Lies
 2 Vorinclex, Monstrous Raider
 3 Valki, God of Lies
+1 Bloodchief's Thirst
+1 Hagra Mauling
+1 Ketria Triome
+1 The World Tree
+1 Polukranos, Unchained
+1 Chevill, Bane of Monsters
+1 Agonizing Remorse
+1 Murderous Rider
+1 Easy Prey
+1 Kaya the Inexorable
+2 Bloodchief's Thirst
+2 The World Tree
+2 Polukranos, Unchained
+2 Chevill, Bane of Monsters
+2 Agonizing Remorse
+2 Murderous Rider
+2 Kaya the Inexorable
+2 Easy Prey
+2 Castle Locthwain
+3 Chevill, Bane of Monsters
+3 Agonizing Remorse
+3 Murderous Rider
 1 The Akroan War
 1 Raugrin Triome
 2 Ondu Inversion
@@ -199,28 +221,6 @@
 2 Raugrin Triome
 3 Raugrin Triome
 3 Shatterskull Smashing
-1 Bloodchief's Thirst
-1 Hagra Mauling
-1 Ketria Triome
-1 Polukranos, Unchained
-1 The World Tree
-1 Chevill, Bane of Monsters
-1 Murderous Rider
-1 Easy Prey
-1 Kaya the Inexorable
-1 Agonizing Remorse
-2 Bloodchief's Thirst
-2 The World Tree
-2 Polukranos, Unchained
-2 Chevill, Bane of Monsters
-2 Easy Prey
-2 Castle Locthwain
-2 Murderous Rider
-2 Agonizing Remorse
-2 Kaya the Inexorable
-3 Chevill, Bane of Monsters
-3 Murderous Rider
-3 Agonizing Remorse
 1 Zagoth Triome
 1 Solemn Simulacrum
 1 Liliana, Waker of the Dead
@@ -242,9 +242,9 @@
 3 Blightstep Pathway
 3 Dream Devourer
 4 Lukka, Coppercoat Outcast
+4 Cultivate
 4 Ugin, the Spirit Dragon
 4 Solemn Simulacrum
-4 Cultivate
 4 Vorinclex, Monstrous Raider
 4 Dream Devourer
 4 Blightstep Pathway

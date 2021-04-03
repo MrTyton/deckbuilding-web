@@ -70,8 +70,8 @@
 |                    1|[Hateful Eidolon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476352)           |                     |              |
 |                    1|[Mire Triton](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476356)               |                     |              |
 |                    2|[Lurrus of the Dream-Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479746)   |                     |              |
-|                    2|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)       |                     |              |
 |                    2|[Skyclave Shade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491763)            |                     |              |
+|                    2|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)       |                     |              |
 |                    2|[Elspeth's Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476342)       |                     |              |
 |                    2|[Tymaret Calls the Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476369)    |                     |              |
 |                    2|[Hagra Mauling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491741)             |                     |              |
@@ -92,8 +92,8 @@
 |                    3|[Elspeth's Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476342)       |                     |              |
 |                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                     |                     |              |
 |                    4|[Hateful Eidolon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476352)           |                     |              |
-|                    4|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)       |                     |              |
 |                    4|[Mire's Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476357)              |                     |              |
+|                    4|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)       |                     |              |
 |                    4|[Dead Weight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452817)               |                     |              |
 |                    5|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                     |                     |              |
 |                    6|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                     |                     |              |

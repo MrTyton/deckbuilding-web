@@ -4,13 +4,12 @@
 
 # Standard
 
-|                                A                                 |                                    B                                     |                                    C                                     |                           D                            |                   E                    |
-|------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------|
-|[4c Cycling](./mtggoldfish/Standard/decks/4c_Cycling.md)          |[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)              |[Mono-Green Midrange](./mtggoldfish/Standard/decks/Mono-Green_Midrange.md)|[Temur Ramp](./mtggoldfish/Standard/decks/Temur_Ramp.md)|[WU](./mtggoldfish/Standard/decks/WU.md)|
-|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)          |[UB](./mtggoldfish/Standard/decks/UB.md)                |                                        |
-|[BG](./mtggoldfish/Standard/decks/BG.md)                          |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)      |[WBG](./mtggoldfish/Standard/decks/WBG.md)              |                                        |
-|[BR](./mtggoldfish/Standard/decks/BR.md)                          |[Jeskai Cycling](./mtggoldfish/Standard/decks/Jeskai_Cycling.md)          |[Naya Adventures](./mtggoldfish/Standard/decks/Naya_Adventures.md)        |[WB](./mtggoldfish/Standard/decks/WB.md)                |                                        |
-|[B](./mtggoldfish/Standard/decks/B.md)                            |[Mono-Green Food](./mtggoldfish/Standard/decks/Mono-Green_Food.md)        |[Sultai Control](./mtggoldfish/Standard/decks/Sultai_Control.md)          |[WR](./mtggoldfish/Standard/decks/WR.md)                |                                        |
+|                                A                                 |                                    B                                     |                                    C                                     |                                 D                                  |                    E                     |
+|------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------|
+|[4c Cycling](./mtggoldfish/Standard/decks/4c_Cycling.md)          |[B](./mtggoldfish/Standard/decks/B.md)                                    |[Jeskai Cycling](./mtggoldfish/Standard/decks/Jeskai_Cycling.md)          |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[UB](./mtggoldfish/Standard/decks/UB.md)  |
+|[Azorius Control](./mtggoldfish/Standard/decks/Azorius_Control.md)|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)              |[Mono-Green Food](./mtggoldfish/Standard/decks/Mono-Green_Food.md)        |[Naya Adventures](./mtggoldfish/Standard/decks/Naya_Adventures.md)  |[WBG](./mtggoldfish/Standard/decks/WBG.md)|
+|[BG](./mtggoldfish/Standard/decks/BG.md)                          |[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Green Midrange](./mtggoldfish/Standard/decks/Mono-Green_Midrange.md)|[Sultai Control](./mtggoldfish/Standard/decks/Sultai_Control.md)    |[WB](./mtggoldfish/Standard/decks/WB.md)  |
+|[BR](./mtggoldfish/Standard/decks/BR.md)                          |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)          |[Temur Ramp](./mtggoldfish/Standard/decks/Temur_Ramp.md)            |[WU](./mtggoldfish/Standard/decks/WU.md)  |
 
 
 # Pioneer
@@ -60,4 +59,4 @@
 
 
 
-#### Last Updated at 12:54AM on April 03, 2021
+#### Last Updated at 12:59PM on April 03, 2021

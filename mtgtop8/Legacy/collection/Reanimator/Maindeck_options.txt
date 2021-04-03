@@ -19,12 +19,12 @@
 4 Force of Will
 4 Brainstorm
 1 Hullbreacher
+1 Snow-Covered Swamp
 1 Drown in the Loch
 1 Snow-Covered Island
 1 Ice-Fang Coatl
 1 Uro, Titan of Nature's Wrath
 1 Snow-Covered Forest
-1 Snow-Covered Swamp
 1 Echo of Eons
 1 Necromancy
 1 Worldgorger Dragon
@@ -38,12 +38,12 @@
 4 Misty Rainforest
 1 Snapcaster Mage
 1 Dack Fayden
+1 Cling to Dust
 1 Grove of the Burnwillows
 1 Punishing Fire
 1 Karakas
-1 Fatal Push
 1 Crop Rotation
-1 Cling to Dust
+1 Fatal Push
 1 Abundant Growth
 1 Volcanic Island
 1 Assassin's Trophy
@@ -74,8 +74,8 @@
 1 Force of Negation
 2 Tropical Island
 2 Snapcaster Mage
-2 Grove of the Burnwillows
 2 Punishing Fire
+2 Grove of the Burnwillows
 2 Intuition
 2 Uro, Titan of Nature's Wrath
 3 Dack Fayden
@@ -92,9 +92,9 @@
 1 Opposition Agent
 1 Thieves' Guild Enforcer
 2 Flooded Strand
-2 Snow-Covered Swamp
 2 Abrupt Decay
 2 Thieves' Guild Enforcer
+2 Snow-Covered Swamp
 2 Opposition Agent
 3 Ice-Fang Coatl
 3 Hullbreacher
@@ -131,15 +131,14 @@
 1 Hymn to Tourach
 1 Lake of the Dead
 2 Putrid Imp
-2 Lake of the Dead
 2 Hymn to Tourach
+2 Lake of the Dead
 3 Duress
 3 Putrid Imp
 3 Swamp
 3 Cabal Therapy
 4 Swamp
 4 Cabal Therapy
-5 Swamp
 6 Swamp
 7 Swamp
 8 Swamp
@@ -147,3 +146,4 @@
 10 Swamp
 11 Swamp
 12 Swamp
+5 Swamp

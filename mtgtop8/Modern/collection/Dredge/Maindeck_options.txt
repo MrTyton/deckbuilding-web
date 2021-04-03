@@ -11,12 +11,11 @@
 3 Stomping Ground
 1 Forest
 1 Swamp
-1 Polluted Delta
-1 Breeding Pool
-1 Misty Rainforest
-1 Satyr Wayfinder
 1 Watery Grave
 1 Unearth
+1 Satyr Wayfinder
+1 Breeding Pool
+1 Misty Rainforest
 1 Overgrown Tomb
 1 Merfolk Secretkeeper
 1 Drown in Filth
@@ -28,7 +27,7 @@
 1 Verdant Catacombs
 1 Vengevine
 1 Driven / Despair
-2 Polluted Delta
+1 Polluted Delta
 2 Satyr Wayfinder
 2 Unearth
 2 Misty Rainforest
@@ -42,6 +41,7 @@
 2 Gravecrawler
 2 Hedron Crab
 2 Drown in Filth
+2 Polluted Delta
 3 Polluted Delta
 3 Satyr Wayfinder
 3 Unearth
@@ -65,10 +65,10 @@
 1 Darkblast
 1 Sacred Foundry
 1 Blackcleave Cliffs
-1 Glasspool Mimic
 1 Skaab Ruinator
-2 Glasspool Mimic
+1 Glasspool Mimic
 2 Skaab Ruinator
+2 Glasspool Mimic
 4 Unearth
 1 Silversmote Ghoul
 2 Silversmote Ghoul
