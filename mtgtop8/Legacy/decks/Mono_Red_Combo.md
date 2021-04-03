@@ -83,7 +83,7 @@
 |                    3|[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255)       |                     |                                                                                                    |
 |                    3|[Defense Grid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45481)            |                     |                                                                                                    |
 |                    4|[Lion's Eye Diamond](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3255)       |                     |                                                                                                    |
-|                    4|[Sneak Attack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413690)           |                     |                                                                                                    |
 |                    4|[Karn, the Great Creator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460928)|                     |                                                                                                    |
+|                    4|[Sneak Attack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413690)           |                     |                                                                                                    |
 |                   10|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)               |                     |                                                                                                    |
 

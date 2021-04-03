@@ -38,10 +38,10 @@
 |                    1|[Mazemind Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485555)             |                     |              |
 |                    1|[Extinction Event](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479608)          |                     |              |
 |                    2|[Field of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435415)             |                     |              |
-|                    2|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)          |                     |              |
-|                    2|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)             |                     |              |
 |                    2|Tergrid, God of Fright                                                                               |                     |              |
+|                    2|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)             |                     |              |
 |                    2|[Faceless Haven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503874)            |                     |              |
+|                    2|[Castle Locthwain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473203)          |                     |              |
 |                    2|[Elderfang Disciple](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503702)        |                     |              |
 |                    2|[Shadows' Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491762)          |                     |              |
 |                    2|[Acquisitions Expert](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491722)       |                     |              |

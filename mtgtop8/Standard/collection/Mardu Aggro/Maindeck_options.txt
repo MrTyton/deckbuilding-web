@@ -10,20 +10,20 @@
 1 Drannith Magistrate
 2 Drannith Magistrate
 1 Temple of Silence
+1 Colossal Plow
 1 Tymaret Calls the Dead
 1 Egon, God of Death
 1 Kroxa, Titan of Death's Hunger
-1 Colossal Plow
+2 Colossal Plow
 2 Tymaret Calls the Dead
 2 Egon, God of Death
 2 Kroxa, Titan of Death's Hunger
-2 Colossal Plow
 3 Egon, God of Death
+3 Colossal Plow
 3 Tymaret Calls the Dead
 3 Kroxa, Titan of Death's Hunger
-3 Colossal Plow
-4 Kroxa, Titan of Death's Hunger
 4 Colossal Plow
+4 Kroxa, Titan of Death's Hunger
 4 Giant Killer
 4 Swamp
 1 Bloodchief's Thirst
@@ -41,6 +41,13 @@
 1 Arni Brokenbrow
 2 Arni Brokenbrow
 3 Elspeth's Nightmare
+1 Giant Ox
+1 Erebos's Intervention
+1 Heartless Act
+2 Giant Ox
+2 Heartless Act
+3 Giant Ox
+4 Giant Ox
 1 Temple of Malice
 2 Temple of Malice
 2 Temple of Silence
@@ -51,13 +58,6 @@
 2 Shatterskull Smashing
 3 Shatterskull Smashing
 4 Skyclave Shade
-1 Erebos's Intervention
-1 Heartless Act
-1 Giant Ox
-2 Heartless Act
-2 Giant Ox
-3 Giant Ox
-4 Giant Ox
 1 Snow-Covered Swamp
 1 Snow-Covered Mountain
 1 Robber of the Rich
@@ -79,8 +79,8 @@
 3 Valki, God of Lies
 3 Seasoned Hallowblade
 3 Luminarch Aspirant
-4 Skyclave Apparition
 4 Showdown of the Skalds
+4 Skyclave Apparition
 4 Seasoned Hallowblade
 4 Luminarch Aspirant
 4 Robber of the Rich

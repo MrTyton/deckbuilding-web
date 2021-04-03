@@ -1,15 +1,7 @@
-1 Chainweb Aracnir
-2 Chainweb Aracnir
-1 Duress
-2 Duress
-1 Scavenging Ooze
-2 Scavenging Ooze
-1 Baneslayer Angel
-2 Baneslayer Angel
 1 Soul-Guide Lantern
-2 Soul-Guide Lantern
 1 Ox of Agonas
 2 Ox of Agonas
+2 Soul-Guide Lantern
 3 Soul-Guide Lantern
 3 Ox of Agonas
 4 Ox of Agonas
@@ -17,27 +9,21 @@
 1 Burning-Rune Demon
 1 Kogla, the Titan Ape
 2 Polukranos, Unchained
+1 Chainweb Aracnir
+2 Chainweb Aracnir
 1 Agonizing Remorse
-2 Agonizing Remorse
 1 Bloodchief's Thirst
-1 Crush the Weak
 1 Blood on the Snow
+1 Crush the Weak
 1 Klothys, God of Destiny
 1 Frost Bite
+2 Agonizing Remorse
 2 Bloodchief's Thirst
 2 Blood on the Snow
 2 Klothys, God of Destiny
 2 Frost Bite
 2 Crush the Weak
 3 Blood on the Snow
-1 Outlaws' Merriment
-1 Elspeth, Sun's Nemesis
-1 Fight as One
-1 Disenchant
-2 Fight as One
-2 Disenchant
-3 Disenchant
-3 Fight as One
 1 Mazemind Tome
 1 The Akroan War
 1 Felidar Retreat
@@ -45,6 +31,16 @@
 2 Mazemind Tome
 2 Heliod's Intervention
 3 Heliod's Intervention
+1 Elspeth, Sun's Nemesis
+1 Outlaws' Merriment
+1 Fight as One
+1 Disenchant
+2 Disenchant
+2 Fight as One
+3 Disenchant
+3 Fight as One
+1 Duress
+2 Duress
 3 Duress
 4 Duress
 1 Llanowar Visionary
@@ -55,12 +51,8 @@
 3 Treacherous Blessing
 3 Doom Foretold
 4 Treacherous Blessing
-1 Shatter the Sky
-1 Kaervek, the Spiteful
-2 Shatter the Sky
-2 Kaervek, the Spiteful
-3 Agonizing Remorse
-4 Agonizing Remorse
+1 Scavenging Ooze
+2 Scavenging Ooze
 1 Eat to Extinction
 2 Eat to Extinction
 3 Eat to Extinction
@@ -70,9 +62,11 @@
 4 Scavenging Ooze
 4 Chainweb Aracnir
 1 Extinction Event
+1 Baneslayer Angel
 1 Pestilent Haze
 1 Reidane, God of the Worthy
 2 Extinction Event
+2 Baneslayer Angel
 2 Reidane, God of the Worthy
 3 Reidane, God of the Worthy
 4 Reidane, God of the Worthy

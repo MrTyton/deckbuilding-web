@@ -7,9 +7,9 @@
 3 Goblin Bushwhacker
 3 Goblin Wardriver
 4 Goblin Chieftain
+4 Mountain
 4 Goblin Wardriver
 4 Goblin Bushwhacker
-4 Mountain
 5 Mountain
 6 Mountain
 7 Mountain
@@ -24,10 +24,10 @@
 16 Mountain
 17 Mountain
 1 Goblin Warchief
+1 Fiery Islet
 1 Tarfire
 1 Krenko, Mob Boss
 1 Wooded Foothills
-1 Fiery Islet
 3 Skirk Prospector
 4 Boggart Harbinger
 1 Arid Mesa
@@ -36,16 +36,16 @@
 2 Pashalik Mons
 2 Swamp
 4 Blood Crypt
-1 Polluted Delta
 1 Pyre of Heroes
+1 Polluted Delta
 2 Pyre of Heroes
 2 Goblin Cratermaker
 3 Sling-Gang Lieutenant
 3 Pyre of Heroes
 4 Pyre of Heroes
 4 Blackcleave Cliffs
-1 Goblin Piledriver
 1 Forgotten Cave
+1 Goblin Piledriver
 1 Foundry Street Denizen
 1 Goblin Arsonist
 1 Goblin Cohort
@@ -80,8 +80,8 @@
 2 Kuldotha Rebirth
 2 Krenko's Command
 2 Goblin Instigator
-3 Memnite
 3 Ornithopter
+3 Memnite
 3 Goblin Instigator
 3 Kuldotha Rebirth
 3 Krenko's Command

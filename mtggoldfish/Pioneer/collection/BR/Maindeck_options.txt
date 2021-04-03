@@ -12,8 +12,8 @@
 5 Mountain
 3 Fabled Passage
 2 Urborg, Tomb of Yawgmoth
-1 Liliana, Waker of the Dead
 2 Liliana, the Last Hope
+1 Liliana, Waker of the Dead
 4 Fabled Passage
 1 Hagra Mauling
 1 Spikefield Hazard
@@ -21,40 +21,23 @@
 2 Spikefield Hazard
 3 Hagra Mauling
 4 Hagra Mauling
+1 Stubborn Denial
 1 Watery Grave
+2 Stubborn Denial
 2 Watery Grave
 3 Watery Grave
-1 Stubborn Denial
-2 Stubborn Denial
-1 Clearwater Pathway
-1 Extinction Event
-2 Clearwater Pathway
-3 Clearwater Pathway
-4 Clearwater Pathway
 1 Snow-Covered Swamp
-1 Valki, God of Lies
-1 Opt
-1 Riverglide Pathway
-1 Fetid Pools
-1 Dig Through Time
-1 Release to the Wind
-2 Valki, God of Lies
-2 Opt
-2 Riverglide Pathway
-2 Release to the Wind
-2 Dig Through Time
-3 Opt
-3 Valki, God of Lies
-3 Release to the Wind
-4 Opt
-4 Valki, God of Lies
-4 Watery Grave
-1 Snow-Covered Island
 1 Field of Ruin
 1 Overgrown Tomb
 2 Overgrown Tomb
 3 Overgrown Tomb
 4 Overgrown Tomb
+1 Snow-Covered Island
+1 Extinction Event
+1 Clearwater Pathway
+2 Clearwater Pathway
+3 Clearwater Pathway
+4 Clearwater Pathway
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 2 Snow-Covered Swamp
@@ -71,46 +54,44 @@
 1 Nissa, Who Shakes the World
 2 Nissa, Who Shakes the World
 3 Nissa, Who Shakes the World
+1 Valki, God of Lies
+1 Riverglide Pathway
 1 Steam Vents
 1 Nicol Bolas, the Ravager
+1 Fetid Pools
+1 Dig Through Time
+1 Opt
+1 Release to the Wind
+2 Valki, God of Lies
+2 Riverglide Pathway
+2 Release to the Wind
 2 Nicol Bolas, the Ravager
 2 Steam Vents
+2 Opt
+2 Dig Through Time
 3 Riverglide Pathway
+3 Valki, God of Lies
 3 Stubborn Denial
+3 Opt
+3 Release to the Wind
+4 Opt
 4 Riverglide Pathway
-2 Liliana, Waker of the Dead
+4 Valki, God of Lies
 1 Canyon Slough
 1 Goblin Dark-Dwellers
 1 Cathartic Reunion
 2 Goblin Dark-Dwellers
 2 Cathartic Reunion
 3 Dreadbore
-1 Drown in the Loch
-1 Jace, Architect of Thought
-1 Jace, Vryn's Prodigy
-1 Torrential Gearhulk
-1 Drowned Catacomb
-1 Hero's Downfall
-1 Island
-2 Hero's Downfall
-2 Jace, Vryn's Prodigy
-2 Island
-2 Drowned Catacomb
-2 Drown in the Loch
-2 Fetid Pools
-3 Dig Through Time
-3 Jace, Vryn's Prodigy
-3 Island
-4 Dig Through Time
 1 Sunpetal Grove
 1 Forest
 1 Temple Garden
 1 Emrakul, the Promised End
 1 Traverse the Ulvenwald
-1 Godless Shrine
 1 Tasigur, the Golden Fang
 1 Satyr Wayfinder
 1 Siege Rhino
+1 Godless Shrine
 1 Cling to Dust
 1 Archon of Emeria
 1 Courser of Kruphix
@@ -118,9 +99,9 @@
 1 Shambling Vent
 2 Temple Garden
 2 Traverse the Ulvenwald
+2 Siege Rhino
 2 Satyr Wayfinder
 2 Courser of Kruphix
-2 Siege Rhino
 2 Shambling Vent
 2 Cling to Dust
 2 Forest
@@ -135,16 +116,6 @@
 2 Nighthawk Scavenger
 3 Spikefield Hazard
 4 Spikefield Hazard
-1 Spirebluff Canal
-1 Ashiok, Nightmare Muse
-1 Discovery/Dispersal
-2 Spirebluff Canal
-2 Ashiok, Nightmare Muse
-2 Discovery/Dispersal
-3 Spirebluff Canal
-3 Discovery/Dispersal
-4 Spirebluff Canal
-4 Discovery/Dispersal
 1 Hissing Quagmire
 1 Questing Beast
 1 Abrupt Decay
@@ -154,13 +125,14 @@
 1 Spawn of Mayhem
 2 Hissing Quagmire
 2 Abrupt Decay
+2 Liliana, Waker of the Dead
 2 Sarulf, Realm Eater
 2 Sylvan Advocate
 2 Darkbore Pathway
 3 Abrupt Decay
 3 Snow-Covered Swamp
-3 Tireless Tracker
 3 Sarulf, Realm Eater
+3 Tireless Tracker
 3 Darkbore Pathway
 3 Sylvan Advocate
 4 Darkbore Pathway
@@ -203,44 +175,14 @@
 4 Growth Spiral
 4 Nissa, Who Shakes the World
 4 Zagoth Triome
-1 Elderfang Disciple
-1 Crawling Barrens
-1 Shrieking Affliction
-1 Yarok's Fenlurker
-1 Inscription of Ruin
-1 Davriel, Rogue Shadowmage
-2 Elderfang Disciple
-2 Crawling Barrens
-2 Shrieking Affliction
-2 Davriel, Rogue Shadowmage
-2 Inscription of Ruin
-2 Yarok's Fenlurker
-3 Inscription of Ruin
-3 Elderfang Disciple
-3 Bloodchief's Thirst
-3 Agonizing Remorse
-3 Crawling Barrens
-3 Davriel, Rogue Shadowmage
-3 Shrieking Affliction
-3 Liliana, Waker of the Dead
-3 Yarok's Fenlurker
-4 Inscription of Ruin
-4 Agonizing Remorse
-4 Yarok's Fenlurker
-4 Crawling Barrens
-4 Shrieking Affliction
-4 Davriel, Rogue Shadowmage
-4 Liliana, Waker of the Dead
-5 Swamp
-7 Swamp
-8 Swamp
-9 Swamp
-10 Swamp
-11 Swamp
-12 Swamp
-13 Swamp
-14 Swamp
-15 Swamp
-16 Swamp
-17 Swamp
-6 Swamp
+1 Spirebluff Canal
+1 Ashiok, Nightmare Muse
+1 Discovery/Dispersal
+2 Spirebluff Canal
+2 Ashiok, Nightmare Muse
+2 Discovery/Dispersal
+3 Spirebluff Canal
+3 Discovery/Dispersal
+4 Spirebluff Canal
+4 Watery Grave
+4 Discovery/Dispersal
