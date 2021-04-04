@@ -29,9 +29,9 @@
 1 Polluted Delta
 2 Daze
 3 Daze
-1 Eliminate
 1 Fatal Push
 1 Cling to Dust
+1 Eliminate
 1 Ingenious Infiltrator
 1 Changeling Outcast
 1 Ornithopter
@@ -47,12 +47,12 @@
 2 Swamp
 2 Ingenious Infiltrator
 2 Fatal Push
-3 Swamp
 3 Polluted Delta
 3 Retrofitter Foundry
 3 Ornithopter
 3 Ingenious Infiltrator
 3 Fatal Push
+3 Swamp
 3 Changeling Outcast
 3 Yuriko, the Tiger's Shadow
 4 Changeling Outcast
@@ -74,8 +74,8 @@
 1 Teferi, Hero of Dominaria
 1 Predict
 2 Council's Judgment
-3 Teferi, Time Raveler
 3 Day's Undoing
+3 Teferi, Time Raveler
 1 Court of Cunning
 2 Court of Cunning
 1 Wasteland
@@ -86,18 +86,18 @@
 1 Unexpectedly Absent
 1 Silundi Vision
 1 Venser, Shaper Savant
-1 Magmatic Sinkhole
 1 Vendilion Clique
-2 Magmatic Sinkhole
+1 Magmatic Sinkhole
 2 Pyroblast
+2 Magmatic Sinkhole
 1 Back to Basics
 2 Back to Basics
-3 Narset, Parter of Veils
-1 Helm of Obedience
 1 Rest in Peace
-2 Helm of Obedience
+1 Helm of Obedience
 2 Rest in Peace
+2 Helm of Obedience
 3 Rest in Peace
+3 Narset, Parter of Veils
 3 Plains
 1 Crucible of Worlds
 2 Wasteland
@@ -117,17 +117,17 @@
 4 Replenish
 4 Cast Out
 1 Impulse
-1 Lightning Bolt
-1 Fiery Islet
 1 Bonecrusher Giant
+1 Fiery Islet
 1 Faerie Conclave
+1 Lightning Bolt
 1 Burst Lightning
-2 Lightning Bolt
 2 Impulse
 2 Bonecrusher Giant
-2 Fiery Islet
 2 Faerie Conclave
+2 Lightning Bolt
 2 Burst Lightning
+2 Fiery Islet
 2 Volcanic Island
 3 Lightning Bolt
 3 Snapcaster Mage
@@ -137,42 +137,42 @@
 3 Faerie Conclave
 3 Volcanic Island
 4 Bonecrusher Giant
+4 Volcanic Island
+4 Mishra's Factory
 4 Faerie Conclave
 4 Lightning Bolt
-4 Volcanic Island
 4 Snapcaster Mage
-4 Mishra's Factory
-1 Glasspool Mimic
 1 Sea Gate Restoration
-1 Chrome Mox
+1 Glasspool Mimic
 1 True-Name Nemesis
 1 Aether Vial
 1 Silvergill Adept
 1 Master of the Pearl Trident
 1 Mutavault
 1 Cavern of Souls
+1 Chrome Mox
 1 Lord of Atlantis
 2 Glasspool Mimic
 2 Sea Gate Restoration
 2 True-Name Nemesis
-2 Chrome Mox
 2 Mutavault
 2 Aether Vial
 2 Master of the Pearl Trident
 2 Lord of Atlantis
 2 Silvergill Adept
+2 Chrome Mox
 2 Cavern of Souls
 3 Sea Gate Restoration
 3 Glasspool Mimic
-3 Chrome Mox
+3 Hullbreacher
 3 Cavern of Souls
 3 Lord of Atlantis
-3 Hullbreacher
 3 Master of the Pearl Trident
 3 True-Name Nemesis
 3 Silvergill Adept
 3 Aether Vial
 3 Mutavault
+3 Chrome Mox
 4 Sea Gate Restoration
 4 Mutavault
 4 Glasspool Mimic

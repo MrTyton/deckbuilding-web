@@ -46,6 +46,9 @@
 |                     |                                                                                                  |                    2|[Leyline of Lifeforce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107695)|
 |                     |                                                                                                  |                    1|[Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179496)          |
 |                     |                                                                                                  |                    3|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |
+|                     |                                                                                                  |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993) |
+|                     |                                                                                                  |                    2|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993) |
+|                     |                                                                                                  |                    3|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993) |
 |                     |                                                                                                  |                    3|[Leyline of Lifeforce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107695)|
 |                     |                                                                                                  |                    4|[Leyline of Lifeforce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107695)|
 

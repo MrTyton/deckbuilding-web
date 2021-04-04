@@ -70,8 +70,8 @@
 2 Snow-Covered Island
 2 Force of Will
 3 Force of Will
-4 Force of Will
 4 Estrid's Invocation
+4 Force of Will
 1 Trial of Ambition
 1 The Abyss
 1 Engineered Plague
@@ -101,21 +101,21 @@
 9 Snow-Covered Forest
 10 Snow-Covered Forest
 11 Snow-Covered Forest
-1 Snow-Covered Swamp
-1 Trail of Crumbs
 1 Arcum's Astrolabe
 1 Detention Sphere
 1 The Royal Scions
 1 Bitterblossom
 1 Supreme Verdict
 1 Brazen Borrower
+1 Trail of Crumbs
 1 Arcane Laboratory
 1 Omen of the Forge
 1 Happily Ever After
 1 Omen of the Sun
 1 Snow-Covered Mountain
-2 Trail of Crumbs
+1 Snow-Covered Swamp
 2 Arcum's Astrolabe
+2 Trail of Crumbs
 3 Arcum's Astrolabe
 1 Enlightened Tutor
 1 Abundance
@@ -134,8 +134,8 @@
 1 In Search of Greatness
 1 Riptide Chimera
 3 Wooded Foothills
-1 Karn, the Great Creator
 1 Island
+1 Karn, the Great Creator
 1 Leyline of the Void
 2 Karn, the Great Creator
 2 Leyline of the Void
@@ -146,17 +146,17 @@
 1 Ancient Tomb
 3 Green Sun's Zenith
 9 Forest
-1 Maze of Ith
+1 Thespian's Stage
 1 Dark Depths
+1 Maze of Ith
 1 Crop Rotation
 1 The Tabernacle at Pendrell Vale
 1 Field of the Dead
 1 Wasteland
-1 Life from the Loam
 1 Valakut Exploration
+1 Life from the Loam
 1 Bojuka Bog
 1 Rishadan Port
-1 Thespian's Stage
 1 Mox Diamond
 2 Thespian's Stage
 2 Crop Rotation
@@ -178,8 +178,8 @@
 3 Valakut Exploration
 3 Exploration
 3 Mox Diamond
-4 Wasteland
 4 Valakut Exploration
+4 Wasteland
 4 Mox Diamond
 4 Thespian's Stage
 4 Exploration

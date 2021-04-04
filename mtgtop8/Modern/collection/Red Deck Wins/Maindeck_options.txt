@@ -22,15 +22,15 @@
 12 Mountain
 13 Mountain
 14 Mountain
-1 Lava Dart
 1 Soul-Scar Mage
-2 Lava Dart
+1 Lava Dart
 2 Soul-Scar Mage
-3 Lava Dart
+2 Lava Dart
 3 Soul-Scar Mage
-4 Light Up the Stage
-4 Lava Dart
+3 Lava Dart
 4 Soul-Scar Mage
+4 Lava Dart
+4 Light Up the Stage
 3 Scalding Tarn
 4 Scalding Tarn
 3 Lightning Helix
@@ -39,26 +39,26 @@
 1 Bonecrusher Giant
 2 Fiery Islet
 1 Crash Through
-1 Manamorphose
 1 Wild Slash
 1 Bedlam Reveler
+1 Manamorphose
 2 Crash Through
+2 Wild Slash
 2 Manamorphose
 2 Bedlam Reveler
-2 Wild Slash
 3 Crash Through
 3 Manamorphose
 4 Crash Through
 4 Manamorphose
 15 Mountain
-1 Flame Slash
 1 Seasoned Pyromancer
 1 Blast Zone
+1 Flame Slash
 1 Bomat Courier
 1 Firebolt
-2 Flame Slash
 2 Bonecrusher Giant
 2 Seasoned Pyromancer
+2 Flame Slash
 2 Bomat Courier
 2 Firebolt
 3 Bonecrusher Giant
@@ -78,10 +78,6 @@
 2 Forgotten Cave
 3 Blood Moon
 3 Castle Embereth
-1 Kiln Fiend
-2 Kiln Fiend
-3 Kiln Fiend
-4 Kiln Fiend
 3 Sacred Foundry
 4 Sacred Foundry
 1 Mishra's Bauble
@@ -92,12 +88,7 @@
 4 Mishra's Bauble
 3 Arid Mesa
 4 Arid Mesa
-1 Blistercoil Weird
-2 Blast Zone
-3 Bomat Courier
-3 Flame Slash
-4 Bomat Courier
-16 Mountain
+1 Ramunap Ruins
 1 Wayward Guide-Beast
 1 Mogg Fanatic
 1 Foundry Street Denizen
@@ -107,7 +98,7 @@
 1 Legion Loyalist
 1 Burning-Tree Emissary
 1 Reckless Bushwhacker
-1 Ramunap Ruins
+2 Ramunap Ruins
 2 Wayward Guide-Beast
 2 Foundry Street Denizen
 2 Goblin Bushwhacker
@@ -117,18 +108,27 @@
 2 Devastating Summons
 2 Legion Loyalist
 2 Burning-Tree Emissary
-2 Ramunap Ruins
+3 Ramunap Ruins
 3 Foundry Street Denizen
 3 Goblin Grenade
 3 Goblin Bushwhacker
 3 Burning-Tree Emissary
 3 Reckless Bushwhacker
-3 Ramunap Ruins
 3 Legion Loyalist
+4 Ramunap Ruins
 4 Foundry Street Denizen
 4 Goblin Grenade
 4 Goblin Bushwhacker
 4 Burning-Tree Emissary
 4 Reckless Bushwhacker
 4 Legion Loyalist
-4 Ramunap Ruins
+1 Blistercoil Weird
+2 Blast Zone
+3 Bomat Courier
+3 Flame Slash
+4 Bomat Courier
+16 Mountain
+1 Kiln Fiend
+2 Kiln Fiend
+3 Kiln Fiend
+4 Kiln Fiend

@@ -3,11 +3,11 @@
 1 Dreadbore
 4 Omnath, Locus of Creation
 4 Wrenn and Six
-4 Misty Rainforest
 1 Mountain
+4 Misty Rainforest
 1 Kolaghan's Command
-1 Verdant Catacombs
 1 Island
+1 Verdant Catacombs
 3 Pillar of the Paruns
 1 Plains
 2 Verdant Catacombs
@@ -21,25 +21,25 @@
 2 Omen of the Sea
 1 Hallowed Fountain
 1 Glasspool Mimic
-1 Enigmatic Incarnation
 1 Phantasmal Image
-1 Omen of the Forge
 1 Charming Prince
+1 Omen of the Forge
 1 Scavenging Ooze
 1 Magus of the Moon
 1 Skyclave Apparition
+1 Reflector Mage
+1 Enigmatic Incarnation
 1 Lurrus of the Dream-Den
 1 Brain Maggot
 1 Spellskite
 1 Meddling Mage
-1 Reflector Mage
-2 Enigmatic Incarnation
 2 Omen of the Forge
 2 Skyclave Apparition
-3 Enigmatic Incarnation
+2 Enigmatic Incarnation
 3 Omen of the Sea
-4 Enigmatic Incarnation
+3 Enigmatic Incarnation
 4 Omen of the Sea
+4 Enigmatic Incarnation
 2 Forest
 1 Nahiri, the Harbinger
 1 Renegade Rallier
@@ -67,65 +67,67 @@
 1 Snow-Covered Swamp
 1 Uro, Titan of Nature's Wrath
 3 Snow-Covered Forest
-1 Flooded Strand
-1 Curator of Mysteries
 1 Living End
-1 Ardent Plea
-1 Street Wraith
+1 Curator of Mysteries
 1 Windcaller Aven
+1 Street Wraith
 1 Striped Riverwinder
-2 Ardent Plea
-2 Striped Riverwinder
-2 Windcaller Aven
 2 Street Wraith
 2 Curator of Mysteries
+2 Striped Riverwinder
+2 Windcaller Aven
 2 Living End
-3 Ardent Plea
+3 Living End
+3 Curator of Mysteries
 3 Street Wraith
 3 Striped Riverwinder
 3 Windcaller Aven
-3 Curator of Mysteries
-3 Living End
-4 Windcaller Aven
 4 Striped Riverwinder
 4 Curator of Mysteries
-4 Street Wraith
+4 Windcaller Aven
+1 Flooded Strand
 1 Force of Negation
 2 Force of Negation
-2 Flooded Strand
 3 Force of Negation
-3 Flooded Strand
 4 Force of Negation
+1 Ardent Plea
+2 Ardent Plea
+3 Ardent Plea
+4 Street Wraith
+2 Flooded Strand
+3 Flooded Strand
 4 Flooded Strand
-4 Ardent Plea
 1 Spirebluff Canal
-1 Violent Outburst
-1 Desert Cerodon
-1 Botanical Sanctum
 2 Spirebluff Canal
-2 Violent Outburst
-2 Desert Cerodon
-3 Desert Cerodon
-3 Violent Outburst
-4 Desert Cerodon
-4 Violent Outburst
 1 Brazen Borrower
+4 Ardent Plea
+1 Scalding Tarn
+2 Brazen Borrower
+1 Violent Outburst
+1 Botanical Sanctum
+1 Desert Cerodon
+2 Desert Cerodon
+2 Violent Outburst
+3 Violent Outburst
+3 Desert Cerodon
+4 Violent Outburst
+4 Desert Cerodon
+2 Scalding Tarn
+3 Scalding Tarn
 2 Abrupt Decay
+3 Brazen Borrower
 1 On Thin Ice
 1 Seasoned Pyromancer
 4 Skyclave Apparition
 2 Seal of Fire
-2 Brazen Borrower
-3 Brazen Borrower
-1 Scalding Tarn
-1 Glassdust Hulk
+4 Scalding Tarn
 2 Botanical Sanctum
 4 Brazen Borrower
+1 Glassdust Hulk
 1 Mana Confluence
-2 Scalding Tarn
-3 Scalding Tarn
-4 Scalding Tarn
 2 Glassdust Hulk
+1 As Foretold
+4 Living End
 1 Kitchen Finks
 1 Goblin Cratermaker
 1 Eternal Witness
@@ -133,6 +135,9 @@
 1 Inspiring Vantage
 4 Pillar of the Paruns
 1 Trial of Ambition
+2 As Foretold
+3 As Foretold
+4 As Foretold
 2 Temple Garden
 1 Ephemerate
 1 Eidolon of Rhetoric
@@ -140,23 +145,38 @@
 1 Ice-Fang Coatl
 4 Birds of Paradise
 3 Abrupt Decay
-1 As Foretold
-4 Living End
+2 Island
+3 Island
 1 Deafening Clarion
 1 Fulminator Mage
 3 Forest
 1 Growth Spiral
+1 Fiery Islet
+1 Remand
+1 Electrodominance
+1 Crashing Footfalls
+1 Silundi Vision
+2 Steam Vents
+2 Remand
+2 Electrodominance
+2 Fiery Islet
+2 Crashing Footfalls
+3 Spirebluff Canal
+3 Remand
+3 Crashing Footfalls
+3 Steam Vents
+3 Electrodominance
+4 Remand
+4 Electrodominance
+4 Spirebluff Canal
+4 Crashing Footfalls
 1 Nissa of Shadowed Boughs
 3 Verdant Catacombs
+1 Cryptic Command
 1 Waker of Waves
-2 Island
-2 As Foretold
 2 Waker of Waves
-3 Island
-3 As Foretold
 3 Waker of Waves
 4 Island
-4 As Foretold
 4 Waker of Waves
 5 Island
 6 Island
@@ -181,8 +201,12 @@
 2 Oath of Nissa
 3 Saheeli Rai
 1 Klothys, God of Destiny
+1 Spell Pierce
+1 Tolaria West
+1 Ancestral Vision
+2 Spell Pierce
+3 Spell Pierce
 1 Glacial Fortress
-1 Cryptic Command
 2 Glacial Fortress
 2 Cryptic Command
 3 Glacial Fortress
@@ -196,9 +220,9 @@
 4 Glassdust Hulk
 1 Polluted Delta
 1 Imposing Vantasaur
-1 Shadows' Verdict
 1 Thoughtseize
 1 Fatal Push
+1 Shadows' Verdict
 2 Thoughtseize
 2 Fatal Push
 3 Nahiri, the Harbinger
@@ -208,14 +232,14 @@
 4 Thoughtseize
 1 Cosima, God of the Voyage
 1 Archon of Emeria
-1 Maelstrom Pulse
 1 Oath of Kaya
-1 Binding the Old Gods
-1 Ashiok, Dream Render
-1 Omen of the Dead
 1 Spike Feeder
 1 Heliod, Sun-Crowned
 1 Reidane, God of the Worthy
+1 Omen of the Dead
+1 Ashiok, Dream Render
+1 Binding the Old Gods
+1 Maelstrom Pulse
 1 Marsh Flats
 1 Tolsimir, Friend to Wolves
 1 Coiling Oracle
@@ -241,35 +265,37 @@
 4 Growth Spiral
 1 Mystical Dispute
 1 Vendilion Clique
+1 Valakut Awakening
+2 Valakut Awakening
 1 Bloodbraid Elf
 1 Lavinia, Azorius Renegade
 1 Glittering Wish
 2 Lavinia, Azorius Renegade
-1 Valakut Awakening
-2 Valakut Awakening
 1 Anguished Unmaking
 1 Blood Crypt
 1 Loxodon Smiter
 2 Loxodon Smiter
+2 Snow-Covered Island
+3 Snow-Covered Island
 2 Hallowed Fountain
 3 Hallowed Fountain
 1 Sunken Ruins
 1 Faerie Macabre
+1 Adarkar Wastes
 1 Generous Gift
 1 Failure/Comply
-1 Adarkar Wastes
 2 Seachrome Coast
 2 Polluted Delta
 2 Faerie Macabre
-2 Adarkar Wastes
 2 Generous Gift
 2 Imposing Vantasaur
 2 Failure/Comply
+2 Adarkar Wastes
 3 Polluted Delta
 3 Seachrome Coast
 3 Adarkar Wastes
 3 Imposing Vantasaur
 4 Seachrome Coast
 4 Imposing Vantasaur
-4 Polluted Delta
 4 Adarkar Wastes
+4 Polluted Delta

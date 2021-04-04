@@ -1,74 +1,16 @@
-4 Opt
-4 Fabled Passage
+1 Castle Vantress
 1 Behold the Multiverse
-2 Hengegate Pathway
-3 Hengegate Pathway
-4 Hengegate Pathway
-1 Ornithopter
-1 Curious Obsession
-1 Spire of Industry
-1 Alseid of Life's Bounty
-1 Gingerbrute
-1 Ethereal Armor
-1 Ensoul Artifact
-1 All That Glitters
-1 Selfless Savior
-1 Darksteel Citadel
-1 Springleaf Drum
-2 Ornithopter
-2 Curious Obsession
-2 Spire of Industry
-2 Alseid of Life's Bounty
-2 Springleaf Drum
-2 Ethereal Armor
-2 All That Glitters
-2 Darksteel Citadel
-2 Gingerbrute
-2 Ensoul Artifact
-2 Selfless Savior
-3 Ornithopter
-3 All That Glitters
-3 Spire of Industry
-3 Curious Obsession
-3 Gingerbrute
-3 Ensoul Artifact
-3 Springleaf Drum
-3 Alseid of Life's Bounty
-3 Ethereal Armor
-4 Ornithopter
-4 Alseid of Life's Bounty
-4 All That Glitters
-4 Curious Obsession
-4 Gingerbrute
-4 Springleaf Drum
-4 Ensoul Artifact
-4 Ethereal Armor
-4 Spire of Industry
-1 Search for Azcanta
+1 Hengegate Pathway
 1 Doomskar
+2 Castle Vantress
 2 Behold the Multiverse
+3 Behold the Multiverse
+1 Search for Azcanta
+2 Hengegate Pathway
+4 Supreme Verdict
 2 Cast Out
 3 Cast Out
 3 Irrigated Farmland
-1 Staggering Insight
-2 Staggering Insight
-3 Staggering Insight
-4 Staggering Insight
-4 Plains
-1 Saw It Coming
-1 Grafdigger's Cage
-2 Saw It Coming
-3 Castle Ardenvale
-3 Saw It Coming
-4 Teferi, Hero of Dominaria
-2 Castle Vantress
-3 Behold the Multiverse
-3 Selfless Savior
-3 Dig Through Time
-4 Supreme Verdict
-4 Cast Out
-4 Irrigated Farmland
-1 Commit/Memory
 1 Rewind
 1 Void Shatter
 1 Torrential Gearhulk
@@ -78,9 +20,7 @@
 2 Void Shatter
 2 Quicken
 2 Torrential Gearhulk
-1 Stubborn Denial
-2 Stubborn Denial
-3 Stubborn Denial
+3 Dig Through Time
 1 Approach of the Second Sun
 1 Ondu Inversion
 1 Elspeth, Sun's Nemesis
@@ -91,24 +31,8 @@
 2 Dovin's Veto
 2 Approach of the Second Sun
 3 Approach of the Second Sun
+3 Hengegate Pathway
 4 Behold the Multiverse
-1 Speaker of the Heavens
-2 Speaker of the Heavens
-3 Speaker of the Heavens
-4 Speaker of the Heavens
-1 Mire's Grasp
-1 Godless Shrine
-1 Hateful Eidolon
-1 Brightclimb Pathway
-2 Mire's Grasp
-2 Godless Shrine
-2 Hateful Eidolon
-2 Brightclimb Pathway
-3 Hateful Eidolon
-3 Mire's Grasp
-3 Brightclimb Pathway
-4 Hateful Eidolon
-4 Brightclimb Pathway
 1 Hieroglyphic Illumination
 1 Neutralize
 1 Sulfur Falls
@@ -119,28 +43,31 @@
 1 Sacred Foundry
 1 Raugrin Triome
 1 Clifftop Retreat
-2 Nimble Obstructionist
-2 Sulfur Falls
 2 Hieroglyphic Illumination
+2 Sulfur Falls
 2 Neutralize
+2 Nimble Obstructionist
 2 Flourishing Fox
 2 Raugrin Triome
 2 Zenith Flare
 2 Clifftop Retreat
 3 Sulfur Falls
 3 Neutralize
-3 Zenith Flare
 3 Hieroglyphic Illumination
-3 Flourishing Fox
 3 Clifftop Retreat
+3 Zenith Flare
+3 Flourishing Fox
+4 Cast Out
 4 Sulfur Falls
-4 Neutralize
 4 Flourishing Fox
+4 Irrigated Farmland
 4 Zenith Flare
 4 Hieroglyphic Illumination
-2 Doomskar
-2 Grafdigger's Cage
-3 Doomskar
-4 Doomskar
-4 Saw It Coming
-5 Island
+4 Neutralize
+1 Saw It Coming
+1 Grafdigger's Cage
+1 Commit/Memory
+2 Saw It Coming
+3 Castle Ardenvale
+3 Saw It Coming
+4 Teferi, Hero of Dominaria

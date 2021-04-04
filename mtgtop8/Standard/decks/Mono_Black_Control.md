@@ -70,13 +70,13 @@
 |                    1|[Hateful Eidolon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476352)           |                     |              |
 |                    1|[Mire Triton](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476356)               |                     |              |
 |                    2|[Lurrus of the Dream-Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479746)   |                     |              |
+|                    2|[Hagra Mauling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491741)             |                     |              |
+|                    2|[Aphemia, the Cacophony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476335)    |                     |              |
 |                    2|[Skyclave Shade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491763)            |                     |              |
 |                    2|[Bloodchief's Thirst](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491729)       |                     |              |
 |                    2|[Elspeth's Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476342)       |                     |              |
 |                    2|[Tymaret Calls the Dead](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476369)    |                     |              |
-|                    2|[Hagra Mauling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491741)             |                     |              |
 |                    2|[Hateful Eidolon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476352)           |                     |              |
-|                    2|[Aphemia, the Cacophony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476335)    |                     |              |
 |                    2|[Dead Weight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452817)               |                     |              |
 |                    2|[Mire's Grasp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476357)              |                     |              |
 |                    2|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                     |                     |              |

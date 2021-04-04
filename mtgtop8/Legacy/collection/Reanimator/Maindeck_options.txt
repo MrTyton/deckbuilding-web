@@ -1,6 +1,5 @@
-2 Polluted Delta
-3 Polluted Delta
-2 Marsh Flats
+3 Badlands
+1 Chrome Mox
 2 Chrome Mox
 2 Verdant Catacombs
 3 Verdant Catacombs
@@ -54,6 +53,7 @@
 3 Abundant Growth
 4 Abundant Growth
 1 Mountain
+2 Marsh Flats
 4 Ponder
 1 Iona, Shield of Emeria
 1 Duress
@@ -67,8 +67,6 @@
 1 Cabal Therapy
 2 Cabal Therapy
 2 Swamp
-1 Tendrils of Agony
-1 Children of Korlis
 1 Intuition
 1 Toxic Deluge
 1 Force of Negation
@@ -84,8 +82,6 @@
 3 Uro, Titan of Nature's Wrath
 1 Archon of Valor's Reach
 2 Scrubland
-3 Marsh Flats
-4 Marsh Flats
 1 Flooded Strand
 1 Jace, the Mind Sculptor
 1 Abrupt Decay
@@ -129,16 +125,19 @@
 4 Unburial Rites
 1 Putrid Imp
 1 Hymn to Tourach
+1 Tendrils of Agony
+1 Children of Korlis
 1 Lake of the Dead
 2 Putrid Imp
 2 Hymn to Tourach
 2 Lake of the Dead
 3 Duress
-3 Putrid Imp
 3 Swamp
+3 Putrid Imp
 3 Cabal Therapy
 4 Swamp
 4 Cabal Therapy
+5 Swamp
 6 Swamp
 7 Swamp
 8 Swamp
@@ -146,4 +145,3 @@
 10 Swamp
 11 Swamp
 12 Swamp
-5 Swamp
