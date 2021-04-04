@@ -1,16 +1,17 @@
+2 Riverglide Pathway
+2 Luminarch Aspirant
+2 Reidane, God of the Worthy
+3 Hengegate Pathway
+3 Reidane, God of the Worthy
+3 Drannith Magistrate
+3 Archon of Emeria
+3 Brightclimb Pathway
+3 Luminarch Aspirant
+4 Archon of Emeria
 4 Luminarch Aspirant
-1 Mountain
-3 Plains
-1 Fabled Passage
-2 Mountain
-3 Mountain
-1 Bonecrusher Giant
-2 Bonecrusher Giant
 1 Embercleave
+2 Fabled Passage
 4 Plains
-1 Haktos the Unscarred
-3 Bonecrusher Giant
-4 Bonecrusher Giant
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 1 Spikefield Hazard
@@ -27,17 +28,29 @@
 3 Phoenix of Ash
 3 Skyclave Apparition
 4 Skyclave Apparition
-2 Fabled Passage
 5 Plains
 6 Plains
 3 Kargan Intimidator
 4 Kargan Intimidator
-1 Elder Gargaroth
 3 Fabled Passage
+1 Elder Gargaroth
 1 Jaspera Sentinel
 2 Jaspera Sentinel
 3 Jaspera Sentinel
 4 Jaspera Sentinel
+1 Edgewall Innkeeper
+1 Toski, Bearer of Secrets
+1 Lovestruck Beast
+2 Toski, Bearer of Secrets
+2 Edgewall Innkeeper
+2 Lovestruck Beast
+3 Toski, Bearer of Secrets
+3 Edgewall Innkeeper
+3 Lovestruck Beast
+4 Edgewall Innkeeper
+4 Lovestruck Beast
+3 Forest
+4 Forest
 4 Fabled Passage
 1 Maul of the Skyclaves
 1 Ox of Agonas
@@ -48,23 +61,12 @@
 2 Glass Casket
 3 Robber of the Rich
 1 Clarion Spirit
-1 Edgewall Innkeeper
 1 Gilded Goose
-1 Toski, Bearer of Secrets
-1 Lovestruck Beast
 1 Veteran Adventurer
 2 Clarion Spirit
-2 Toski, Bearer of Secrets
-2 Edgewall Innkeeper
 2 Gilded Goose
-2 Lovestruck Beast
-3 Toski, Bearer of Secrets
-3 Edgewall Innkeeper
-3 Lovestruck Beast
 3 Clarion Spirit
 4 Toski, Bearer of Secrets
-4 Edgewall Innkeeper
-4 Lovestruck Beast
 1 Tajuru Paragon
 1 Archpriest of Iona
 1 Lotus Cobra
@@ -81,24 +83,28 @@
 3 Archpriest of Iona
 3 Wildwood Tracker
 3 Radha, Heart of Keld
-3 Forest
 3 Lotus Cobra
-4 Forest
 4 Archpriest of Iona
 4 Lotus Cobra
 4 Tajuru Paragon
+1 Faerie Guidemother
+2 Faerie Guidemother
+3 Faerie Guidemother
+4 Faerie Guidemother
+5 Forest
+6 Forest
 1 Castle Embereth
 1 Arni Brokenbrow
+1 Anax, Hardened in the Forge
 1 Claim the Firstborn
 1 Victory's Envoy
 1 Fearless Liberator
 1 Hobblefiend
-1 Anax, Hardened in the Forge
 2 Arni Brokenbrow
+2 Anax, Hardened in the Forge
 2 Fearless Liberator
 2 Claim the Firstborn
 2 Hobblefiend
-2 Anax, Hardened in the Forge
 3 Claim the Firstborn
 3 Hobblefiend
 3 Anax, Hardened in the Forge
@@ -143,7 +149,7 @@
 4 Maul of the Skyclaves
 4 Temple of Triumph
 4 Kor Blademaster
-4 Fireblade Charger
 4 Spikefield Hazard
+4 Fireblade Charger
 4 Seasoned Hallowblade
 4 Kargan Warleader

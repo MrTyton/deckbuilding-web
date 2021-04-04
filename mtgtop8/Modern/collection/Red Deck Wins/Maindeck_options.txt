@@ -1,13 +1,9 @@
-4 Searing Blaze
+2 Arid Mesa
 3 Bloodstained Mire
+3 Wooded Foothills
 1 Scalding Tarn
 4 Bloodstained Mire
 2 Scalding Tarn
-3 Wooded Foothills
-1 Snow-Covered Mountain
-4 Skullcrack
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
 4 Mountain
 1 Light Up the Stage
 2 Light Up the Stage
@@ -17,11 +13,6 @@
 7 Mountain
 8 Mountain
 9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain
 1 Soul-Scar Mage
 1 Lava Dart
 2 Soul-Scar Mage
@@ -31,12 +22,22 @@
 4 Soul-Scar Mage
 4 Lava Dart
 4 Light Up the Stage
-3 Scalding Tarn
-4 Scalding Tarn
+10 Mountain
+11 Mountain
+12 Mountain
+13 Mountain
+14 Mountain
+4 Skullcrack
+1 Snow-Covered Mountain
+4 Wooded Foothills
+1 Grim Lavamancer
+1 Bonecrusher Giant
+1 Bomat Courier
+2 Bomat Courier
 3 Lightning Helix
 4 Lightning Helix
-4 Wooded Foothills
-1 Bonecrusher Giant
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
 2 Fiery Islet
 1 Crash Through
 1 Wild Slash
@@ -54,12 +55,10 @@
 1 Seasoned Pyromancer
 1 Blast Zone
 1 Flame Slash
-1 Bomat Courier
 1 Firebolt
 2 Bonecrusher Giant
 2 Seasoned Pyromancer
 2 Flame Slash
-2 Bomat Courier
 2 Firebolt
 3 Bonecrusher Giant
 3 Seasoned Pyromancer
@@ -67,7 +66,11 @@
 4 Bonecrusher Giant
 4 Seasoned Pyromancer
 4 Firebolt
-1 Grim Lavamancer
+3 Scalding Tarn
+4 Scalding Tarn
+3 Bomat Courier
+4 Bomat Courier
+2 Grim Lavamancer
 1 Shard Volley
 1 Castle Embereth
 1 Blood Moon
@@ -103,7 +106,6 @@
 2 Foundry Street Denizen
 2 Goblin Bushwhacker
 2 Goblin Grenade
-2 Grim Lavamancer
 2 Reckless Bushwhacker
 2 Devastating Summons
 2 Legion Loyalist
@@ -122,13 +124,26 @@
 4 Burning-Tree Emissary
 4 Reckless Bushwhacker
 4 Legion Loyalist
-1 Blistercoil Weird
-2 Blast Zone
-3 Bomat Courier
-3 Flame Slash
-4 Bomat Courier
-16 Mountain
 1 Kiln Fiend
 2 Kiln Fiend
 3 Kiln Fiend
 4 Kiln Fiend
+1 Blistercoil Weird
+2 Blast Zone
+3 Flame Slash
+16 Mountain
+1 Wizard's Lightning
+1 The Flame of Keld
+1 Gut Shot
+1 Ghitu Lavarunner
+2 Wizard's Lightning
+2 Gut Shot
+2 Ghitu Lavarunner
+2 The Flame of Keld
+3 Wizard's Lightning
+3 Gut Shot
+3 Ghitu Lavarunner
+3 The Flame of Keld
+4 Ghitu Lavarunner
+4 The Flame of Keld
+4 Gut Shot

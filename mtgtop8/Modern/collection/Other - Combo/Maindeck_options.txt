@@ -32,6 +32,7 @@
 3 Flooded Strand
 4 Ardent Plea
 4 Flooded Strand
+4 Shatterskull Smashing
 1 Lotus Field
 1 Island
 1 Lonely Sandbar
@@ -39,13 +40,13 @@
 1 Ideas Unbound
 1 Reach Through Mists
 1 Halimar Depths
-1 Echoing Truth
 1 Twiddle
 1 Shimmer of Possibility
 1 Psychic Puppetry
 1 Grapeshot
 1 Past in Flames
 1 Tolaria West
+1 Echoing Truth
 1 Spirebluff Canal
 1 Sleight of Hand
 1 Dream's Grip
@@ -66,19 +67,19 @@
 2 Ideas Unbound
 2 Snow-Covered Island
 2 Grapeshot
+2 Twiddle
 2 Sleight of Hand
 2 Past in Flames
-2 Twiddle
 3 Sleight of Hand
 3 Past in Flames
 3 Serum Visions
 3 Ideas Unbound
 3 Tolaria West
+3 Lotus Field
 3 Lonely Sandbar
 3 Psychic Puppetry
 3 Spirebluff Canal
 3 Peer Through Depths
-3 Lotus Field
 3 Dream's Grip
 3 Reach Through Mists
 4 Sleight of Hand
@@ -120,13 +121,12 @@
 2 Pelakka Predation
 4 Valki, God of Lies
 2 Goblin Charbelcher
-4 Shatterskull Smashing
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
 1 Lightning Bolt
-1 Irencrag Feat
 1 Bala Ged Recovery
+1 Irencrag Feat
 1 Spikefield Hazard
 1 Reforge the Soul
 1 Recross the Paths
@@ -144,56 +144,57 @@
 2 Pact of Negation
 2 Valakut Awakening
 2 Desperate Ritual
-3 Irencrag Feat
 3 Valakut Awakening
 3 Spikefield Hazard
+3 Irencrag Feat
 3 Goblin Charbelcher
 3 Manamorphose
 3 Desperate Ritual
 3 Recross the Paths
 3 Pyretic Ritual
 3 Bala Ged Recovery
-4 Irencrag Feat
 4 Valakut Awakening
 4 Spikefield Hazard
 4 Goblin Charbelcher
 4 Manamorphose
 4 Recross the Paths
 4 Pyretic Ritual
+4 Irencrag Feat
 4 Desperate Ritual
+1 Thassa's Oracle
 3 Gemstone Caverns
 1 Wooded Foothills
 2 Wooded Foothills
 1 Forest
 1 Stomping Ground
 1 Seasoned Pyromancer
+1 Blackcleave Cliffs
 1 Demonic Dread
 1 Overgrown Tomb
-1 Blackcleave Cliffs
 1 Swamp
 1 Bloodbraid Elf
 1 Magus of the Moon
 1 Blood Crypt
 1 Verdant Catacombs
 2 Magus of the Moon
+2 Blackcleave Cliffs
+2 Blood Crypt
 2 Verdant Catacombs
 2 Demonic Dread
-2 Blood Crypt
 2 Seasoned Pyromancer
 2 Bloodbraid Elf
-2 Blackcleave Cliffs
 3 Magus of the Moon
 3 Demonic Dread
-3 Verdant Catacombs
 3 Blackcleave Cliffs
+3 Verdant Catacombs
 3 Bloodbraid Elf
 3 Seasoned Pyromancer
 4 Gemstone Caverns
-4 Seasoned Pyromancer
 4 Demonic Dread
+4 Seasoned Pyromancer
+4 Blackcleave Cliffs
 4 Verdant Catacombs
 4 Bloodbraid Elf
-4 Blackcleave Cliffs
 4 Blood Moon
 4 Force of Negation
 1 Zagoth Triome
@@ -212,15 +213,14 @@
 4 Wooded Foothills
 4 Teferi, Time Raveler
 2 Forest
-1 Thassa's Oracle
 1 Timely Reinforcements
 1 Mystical Dispute
 1 Firespout
 2 Bonecrusher Giant
 2 Mystical Dispute
 1 Lovestruck Beast
-2 Lovestruck Beast
 2 Swamp
+2 Lovestruck Beast
 3 Lovestruck Beast
 3 Sphere of the Suns
 3 Dismember
@@ -239,47 +239,6 @@
 2 Talisman of Impulse
 3 Talisman of Impulse
 4 Talisman of Impulse
-1 Emrakul, the Aeons Torn
-2 Emrakul, the Aeons Torn
-1 Fire Prophecy
-1 Dwarven Mine
-1 Transmogrify
-1 Mountain
-1 Repeal
-1 Izzet Charm
-1 Anger of the Gods
-1 Arid Mesa
-1 Remand
-1 Polymorph
-1 Spell Snare
-1 Mana Leak
-1 Bloodstained Mire
-1 Sacred Foundry
-1 Cloudform
-2 Mountain
-2 Transmogrify
-2 Arid Mesa
-2 Izzet Charm
-2 Spell Snare
-2 Remand
-2 Dwarven Mine
-2 Anger of the Gods
-2 Steam Vents
-2 Cloudform
-2 Raugrin Triome
-2 Lightning Bolt
-2 Polymorph
-3 Steam Vents
-3 Arid Mesa
-3 Transmogrify
-3 Remand
-3 Lightning Bolt
-3 Polymorph
-3 Dwarven Mine
-4 Arid Mesa
-4 Remand
-4 Polymorph
-4 Dwarven Mine
 3 Hagra Mauling
 4 Hagra Mauling
 1 Nature's Claim
@@ -290,6 +249,58 @@
 4 Leyline of Sanctity
 3 Pact of Negation
 4 Bala Ged Recovery
+1 Unburial Rites
+1 Open the Omenpaths
+1 Talisman of Indulgence
+1 Chancellor of the Tangle
+2 Talisman of Indulgence
+2 Chancellor of the Tangle
+2 Open the Omenpaths
+3 Open the Omenpaths
+3 Talisman of Indulgence
+4 Talisman of Indulgence
+4 Open the Omenpaths
+1 Emrakul, the Aeons Torn
+2 Emrakul, the Aeons Torn
+1 Fire Prophecy
+1 Dwarven Mine
+1 Transmogrify
+1 Mountain
+1 Repeal
+1 Arid Mesa
+1 Remand
+1 Polymorph
+1 Izzet Charm
+1 Spell Snare
+1 Mana Leak
+1 Bloodstained Mire
+1 Sacred Foundry
+1 Anger of the Gods
+1 Cloudform
+2 Mountain
+2 Arid Mesa
+2 Transmogrify
+2 Spell Snare
+2 Remand
+2 Dwarven Mine
+2 Anger of the Gods
+2 Steam Vents
+2 Cloudform
+2 Raugrin Triome
+2 Izzet Charm
+2 Lightning Bolt
+2 Polymorph
+3 Steam Vents
+3 Transmogrify
+3 Remand
+3 Arid Mesa
+3 Lightning Bolt
+3 Polymorph
+3 Dwarven Mine
+4 Arid Mesa
+4 Remand
+4 Polymorph
+4 Dwarven Mine
 1 Commandeer
 1 Warrant / Warden
 1 Far / Away

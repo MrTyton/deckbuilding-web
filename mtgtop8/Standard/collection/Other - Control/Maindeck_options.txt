@@ -1,7 +1,7 @@
 2 In Search of Greatness
-2 Runeforge Champion
-2 Rune of Sustenance
 2 Rune of Might
+2 Rune of Sustenance
+2 Runeforge Champion
 2 Omen of the Dead
 2 Temple of Plenty
 2 Doom Foretold
@@ -125,8 +125,9 @@
 1 Snow-Covered Forest
 2 Snow-Covered Swamp
 2 Snow-Covered Forest
-3 Snow-Covered Swamp
 3 Snow-Covered Forest
+3 Snow-Covered Swamp
+1 Shepherd of the Flock
 1 Kogla, the Titan Ape
 1 Tergrid, God of Fright
 1 Sculptor of Winter
@@ -135,35 +136,34 @@
 1 Evolving Wilds
 1 Bala Ged Recovery
 1 Snow-Covered Plains
+1 Skull Raid
 1 Great Hall of Starnheim
 1 Elderfang Disciple
 1 Rampage of the Valkyries
 1 Arctic Treeline
-1 Skull Raid
 1 Sarulf's Packmate
 1 Grasp of Darkness
 1 Omen of the Hunt
 1 Shimmerdrift Vale
 1 Feed the Serpent
-1 Shepherd of the Flock
 2 Sculptor of Winter
 2 Snowfield Sinkhole
 2 Arctic Treeline
 2 Great Hall of Starnheim
 2 Woodland Chasm
+2 Evolving Wilds
 2 Rampage of the Valkyries
-2 Elderfang Disciple
 2 Skull Raid
+2 Elderfang Disciple
 2 Sarulf's Packmate
 2 Omen of the Hunt
-2 Evolving Wilds
 2 Grasp of Darkness
 2 Feed the Serpent
 2 Shimmerdrift Vale
 3 Sculptor of Winter
+3 Evolving Wilds
 3 Elderfang Disciple
 3 Sarulf's Packmate
-3 Evolving Wilds
 3 Shimmerdrift Vale
 3 Skull Raid
 3 Omen of the Hunt
@@ -171,20 +171,20 @@
 3 Rampage of the Valkyries
 4 Elderfang Disciple
 4 Sculptor of Winter
+4 Evolving Wilds
+4 Snow-Covered Forest
 4 Llanowar Visionary
 4 Snow-Covered Swamp
 4 Sarulf's Packmate
 4 Omen of the Hunt
-4 Snow-Covered Forest
 4 Shimmerdrift Vale
 4 Skull Raid
 4 Rampage of the Valkyries
-4 Evolving Wilds
 4 Woodland Chasm
-5 Snow-Covered Swamp
 5 Snow-Covered Forest
-6 Snow-Covered Swamp
+5 Snow-Covered Swamp
 6 Snow-Covered Forest
+6 Snow-Covered Swamp
 7 Snow-Covered Swamp
 1 Vorinclex, Monstrous Raider
 1 Valki, God of Lies
@@ -193,22 +193,22 @@
 2 Vorinclex, Monstrous Raider
 3 Valki, God of Lies
 1 Bloodchief's Thirst
-1 Hagra Mauling
 1 Ketria Triome
+1 Hagra Mauling
 1 The World Tree
-1 Polukranos, Unchained
 1 Chevill, Bane of Monsters
 1 Agonizing Remorse
 1 Easy Prey
 1 Murderous Rider
 1 Kaya the Inexorable
+1 Polukranos, Unchained
 2 Bloodchief's Thirst
 2 The World Tree
 2 Polukranos, Unchained
-2 Easy Prey
 2 Chevill, Bane of Monsters
-2 Agonizing Remorse
+2 Easy Prey
 2 Kaya the Inexorable
+2 Agonizing Remorse
 2 Murderous Rider
 2 Castle Locthwain
 3 Chevill, Bane of Monsters
@@ -216,15 +216,15 @@
 3 Murderous Rider
 1 The Akroan War
 1 Raugrin Triome
+2 Ondu Inversion
 2 The Akroan War
 2 Raugrin Triome
-2 Ondu Inversion
 3 Raugrin Triome
 3 Shatterskull Smashing
 1 Zagoth Triome
+1 Temple of Abandon
 1 Solemn Simulacrum
 1 Liliana, Waker of the Dead
-1 Temple of Abandon
 1 Dream Devourer
 1 Cragcrown Pathway
 1 Snow-Covered Mountain

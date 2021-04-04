@@ -33,10 +33,10 @@
 3 Grasp of Darkness
 3 Boreal Outrider
 4 Sculptor of Winter
-7 Snow-Covered Forest
 7 Snow-Covered Swamp
-8 Snow-Covered Forest
+7 Snow-Covered Forest
 8 Snow-Covered Swamp
+8 Snow-Covered Forest
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
 1 Kazandu Mammoth
@@ -72,8 +72,8 @@
 3 Fabled Passage
 4 Kazandu Mammoth
 1 Elspeth's Nightmare
-1 Questing Beast
 1 Gemrazer
+1 Questing Beast
 2 Gemrazer
 3 The Great Henge
 3 Gemrazer
@@ -114,9 +114,9 @@
 10 Forest
 1 Scavenging Ooze
 2 Scavenging Ooze
-1 Evolving Wilds
 1 Wildborn Preserver
 1 Ranger's Guile
+1 Evolving Wilds
 1 Extinction Event
 1 Fully Grown
 1 Withercrown
@@ -129,33 +129,47 @@
 2 Jolrael, Mwonvuli Recluse
 2 Chevill, Bane of Monsters
 3 Jolrael, Mwonvuli Recluse
-1 Thrashing Brontodon
-1 Port of Karfell
-1 Sarulf, Realm Eater
-1 Frantic Inventory
 1 Ashiok, Nightmare Muse
+1 Thrashing Brontodon
+1 Sarulf, Realm Eater
+1 Port of Karfell
+1 Frantic Inventory
 1 Poison the Cup
+1 Chainweb Aracnir
 1 Ugin, the Spirit Dragon
 1 Behold the Multiverse
-1 Chainweb Aracnir
 2 Frantic Inventory
 2 Behold the Multiverse
 2 Poison the Cup
+2 Chainweb Aracnir
 2 Elspeth's Nightmare
 2 Port of Karfell
-2 Chainweb Aracnir
 2 Thrashing Brontodon
-3 Snow-Covered Island
 3 Behold the Multiverse
+3 Snow-Covered Island
 3 Chainweb Aracnir
 3 Frantic Inventory
 4 Frantic Inventory
-1 Indatha Triome
-2 Indatha Triome
-3 Indatha Triome
-4 Fabled Passage
-4 Toski, Bearer of Secrets
-4 Indatha Triome
+1 Ashaya, Soul of the Wild
+1 Bonders' Enclave
+1 Tangled Florahedron
+1 Swarm Shambler
+1 Garruk, Unleashed
+1 Snakeskin Veil
+1 Stonecoil Serpent
+1 Castle Garenbrig
+1 Skyclave Shade
+2 Snakeskin Veil
+2 Castle Garenbrig
+2 Tangled Florahedron
+2 Swarm Shambler
+2 Skyclave Shade
+2 Stonecoil Serpent
+3 Castle Garenbrig
+3 Stonecoil Serpent
+3 Scavenging Ooze
+4 Stonecoil Serpent
+4 Gemrazer
 1 Eliminate
 1 Massacre Wurm
 1 Faceless Haven
@@ -164,26 +178,12 @@
 2 Faceless Haven
 3 Faceless Haven
 4 Faceless Haven
-1 Garruk, Unleashed
-1 Stonecoil Serpent
-1 Ashaya, Soul of the Wild
-1 Tangled Florahedron
-1 Bonders' Enclave
-1 Snakeskin Veil
-1 Castle Garenbrig
-1 Swarm Shambler
-1 Skyclave Shade
-2 Snakeskin Veil
-2 Castle Garenbrig
-2 Stonecoil Serpent
-2 Tangled Florahedron
-2 Skyclave Shade
-2 Swarm Shambler
-3 Castle Garenbrig
-3 Scavenging Ooze
-3 Stonecoil Serpent
-4 Gemrazer
-4 Stonecoil Serpent
+1 Indatha Triome
+2 Indatha Triome
+3 Indatha Triome
+4 Indatha Triome
+4 Toski, Bearer of Secrets
+4 Fabled Passage
 1 Blood on the Snow
 1 Priest of the Haunted Edge
 1 Dead Weight
@@ -208,17 +208,17 @@
 1 Vivien, Monsters' Advocate
 1 Order of Midnight
 1 Zagoth Triome
-2 Vivien, Monsters' Advocate
 2 Blightstep Pathway
 2 Valki, God of Lies
 2 Order of Midnight
 2 Cragcrown Pathway
 2 Agadeem's Awakening
+2 Vivien, Monsters' Advocate
 3 Blightstep Pathway
 3 Valki, God of Lies
 3 Cragcrown Pathway
-4 Heartless Act
 4 Blightstep Pathway
+4 Heartless Act
 4 Cragcrown Pathway
 1 Call of the Death-Dweller
 1 Egon, God of Death
@@ -237,14 +237,14 @@
 4 Moss Viper
 4 Hooded Blightfang
 9 Snow-Covered Forest
-1 Garruk's Uprising
 1 Battle Mammoth
+1 Garruk's Uprising
 1 Wildwood Patrol
 1 Keeper of Fables
 1 Fiend Artisan
 1 Gnottvold Recluse
-2 Keeper of Fables
 2 Ram Through
+2 Keeper of Fables
 2 Greater Sandwurm
 3 Sarulf's Packmate
 3 Keeper of Fables

@@ -38,8 +38,8 @@
 1 Blooming Marsh
 2 Blooming Marsh
 1 Breeding Pool
-1 Merfolk Windrobber
 1 Deathrite Shaman
+1 Merfolk Windrobber
 2 Deathrite Shaman
 2 Merfolk Windrobber
 3 Deathrite Shaman
@@ -169,13 +169,13 @@
 1 Llanowar Wastes
 1 Renegade Rallier
 1 Judith, the Scourge Diva
-1 Kaervek, the Spiteful
 1 Hostage Taker
 1 Pyre of Heroes
 1 Drannith Magistrate
 1 Archfiend's Vessel
 1 Basri's Lieutenant
 1 Elite Guardmage
+1 Kaervek, the Spiteful
 1 General Kudro of Drannith
 1 Xathrid Necromancer
 2 Acquisitions Expert
@@ -201,8 +201,8 @@
 1 Anticognition
 1 Brazen Borrower
 2 Drowned Catacomb
-2 Island
 2 Brazen Borrower
+2 Island
 2 Nighthawk Scavenger
 2 Mystical Dispute
 2 Fabled Passage
@@ -213,65 +213,6 @@
 4 Glint-Sleeve Siphoner
 4 Drowned Catacomb
 4 Brazen Borrower
-1 Mountain
-1 Favored Hoplite
-1 Needleverge Pathway
-1 Gods Willing
-1 Reckless Rage
-1 Soul-Scar Mage
-1 Inspiring Vantage
-1 Battlefield Forge
-1 Titan's Strength
-1 Tenth District Legionnaire
-1 Defiant Strike
-1 Boros Charm
-1 Sacred Foundry
-1 Monastery Swiftspear
-1 Dreadhorde Arcanist
-1 Gird for Battle
-2 Tenth District Legionnaire
-2 Favored Hoplite
-2 Needleverge Pathway
-2 Gods Willing
-2 Gird for Battle
-2 Monastery Swiftspear
-2 Boros Charm
-2 Sacred Foundry
-2 Soul-Scar Mage
-2 Reckless Rage
-2 Dreadhorde Arcanist
-2 Inspiring Vantage
-2 Titan's Strength
-2 Battlefield Forge
-2 Defiant Strike
-3 Tenth District Legionnaire
-3 Favored Hoplite
-3 Needleverge Pathway
-3 Gods Willing
-3 Inspiring Vantage
-3 Defiant Strike
-3 Gird for Battle
-3 Monastery Swiftspear
-3 Battlefield Forge
-3 Soul-Scar Mage
-3 Boros Charm
-3 Reckless Rage
-3 Sacred Foundry
-3 Dreadhorde Arcanist
-4 Tenth District Legionnaire
-4 Needleverge Pathway
-4 Favored Hoplite
-4 Soul-Scar Mage
-4 Reckless Rage
-4 Defiant Strike
-4 Gods Willing
-4 Sacred Foundry
-4 Inspiring Vantage
-4 Monastery Swiftspear
-4 Dreadhorde Arcanist
-4 Boros Charm
-4 Battlefield Forge
-4 Gird for Battle
 1 Starnheim Unleashed
 1 Gideon, Ally of Zendikar
 1 Esika's Chariot
@@ -300,6 +241,8 @@
 4 Battle for Bretagard
 4 Call of the Conclave
 4 Starnheim Unleashed
+1 Mountain
+1 Blood Crypt
 1 Magmatic Channeler
 1 Woodland Cemetery
 1 Claim / Fame
@@ -313,7 +256,6 @@
 1 Stitcher's Supplier
 1 Grapple with the Past
 1 Stomping Ground
-1 Blood Crypt
 1 Satyr Wayfinder
 1 Samut, Voice of Dissent
 2 Blood Crypt
@@ -354,6 +296,64 @@
 4 Stitcher's Supplier
 4 Blooming Marsh
 4 Satyr Wayfinder
+1 Needleverge Pathway
+1 Gods Willing
+1 Reckless Rage
+1 Soul-Scar Mage
+1 Inspiring Vantage
+1 Favored Hoplite
+1 Battlefield Forge
+1 Titan's Strength
+1 Tenth District Legionnaire
+1 Defiant Strike
+1 Boros Charm
+1 Sacred Foundry
+1 Monastery Swiftspear
+1 Dreadhorde Arcanist
+1 Gird for Battle
+2 Tenth District Legionnaire
+2 Needleverge Pathway
+2 Gods Willing
+2 Gird for Battle
+2 Monastery Swiftspear
+2 Boros Charm
+2 Sacred Foundry
+2 Soul-Scar Mage
+2 Reckless Rage
+2 Dreadhorde Arcanist
+2 Inspiring Vantage
+2 Titan's Strength
+2 Battlefield Forge
+2 Favored Hoplite
+2 Defiant Strike
+3 Tenth District Legionnaire
+3 Needleverge Pathway
+3 Gods Willing
+3 Inspiring Vantage
+3 Favored Hoplite
+3 Defiant Strike
+3 Gird for Battle
+3 Monastery Swiftspear
+3 Battlefield Forge
+3 Soul-Scar Mage
+3 Boros Charm
+3 Reckless Rage
+3 Sacred Foundry
+3 Dreadhorde Arcanist
+4 Tenth District Legionnaire
+4 Needleverge Pathway
+4 Soul-Scar Mage
+4 Reckless Rage
+4 Defiant Strike
+4 Gods Willing
+4 Sacred Foundry
+4 Inspiring Vantage
+4 Monastery Swiftspear
+4 Dreadhorde Arcanist
+4 Boros Charm
+4 Battlefield Forge
+4 Gird for Battle
+4 Favored Hoplite
 1 Soldier of the Pantheon
 1 Codespell Cleric
 1 Dire Tactics

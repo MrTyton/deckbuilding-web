@@ -1,14 +1,14 @@
-3 Rune of Might
-3 All That Glitters
+3 Rune of Speed
+3 Rune of Sustenance
 3 Brightclimb Pathway
 3 Darkbore Pathway
 3 Indatha Triome
 3 Savai Triome
-4 Tymaret Calls the Dead
 4 Setessan Champion
 4 Runeforge Champion
 4 Storm Herald
 4 All That Glitters
+4 Tymaret Calls the Dead
 4 Rune of Might
 4 Hateful Eidolon
 4 Blightstep Pathway
@@ -30,24 +30,23 @@
 4 Lovestruck Beast
 4 Bonecrusher Giant
 4 Cragcrown Pathway
+1 Elder Gargaroth
 1 Wicked Wolf
 1 Feasting Troll King
 1 Castle Garenbrig
 1 Witch's Oven
-1 Elder Gargaroth
 1 Fabled Passage
 1 Vorinclex, Monstrous Raider
 1 Shatterskull Smashing
 1 Mountain
 1 Ketria Triome
+1 The Great Henge
 1 Kogla, the Titan Ape
 1 Scavenging Ooze
 1 Gilded Goose
 1 Kazandu Mammoth
 1 Forest
-1 The Great Henge
 1 Trail of Crumbs
-2 The Great Henge
 2 Wicked Wolf
 2 Castle Garenbrig
 2 Feasting Troll King
@@ -58,19 +57,20 @@
 2 Gilded Goose
 2 Forest
 2 Kazandu Mammoth
+2 The Great Henge
 2 Trail of Crumbs
-3 Gilded Goose
 3 Wicked Wolf
 3 Trail of Crumbs
 3 Castle Garenbrig
+3 Gilded Goose
 3 Mountain
 3 Fabled Passage
 3 Forest
 3 Kazandu Mammoth
-4 Forest
-4 Gilded Goose
 4 Wicked Wolf
+4 Forest
 4 Castle Garenbrig
+4 Gilded Goose
 4 Mountain
 4 Fabled Passage
 4 Kazandu Mammoth
@@ -79,8 +79,8 @@
 7 Forest
 1 Snow-Covered Plains
 1 Snow-Covered Forest
-1 Shepherd of the Flock
 1 Snow-Covered Mountain
+1 Shepherd of the Flock
 1 Edgewall Innkeeper
 1 Giant Killer
 1 The Akroan War
@@ -92,8 +92,8 @@
 1 Sejiri Shelter
 2 Shepherd of the Flock
 2 Sejiri Shelter
-2 Snow-Covered Plains
 2 The Akroan War
+2 Snow-Covered Plains
 2 Snow-Covered Mountain
 2 Snow-Covered Forest
 2 Reidane, God of the Worthy
