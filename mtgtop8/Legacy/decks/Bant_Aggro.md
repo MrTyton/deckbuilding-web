@@ -52,6 +52,6 @@
 |                    3|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)          |                     |                                                                                               |
 |                    3|[Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136142)                |                     |                                                                                               |
 |                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)          |                     |                                                                                               |
-|                    4|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)                     |                     |                                                                                               |
 |                    4|[Archon of Emeria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495594)         |                     |                                                                                               |
+|                    4|[Daze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=189255)                     |                     |                                                                                               |
 

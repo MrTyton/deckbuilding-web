@@ -1,20 +1,20 @@
 2 In Search of Greatness
-2 Rune of Might
-2 Runeforge Champion
 2 Rune of Sustenance
+2 Runeforge Champion
+2 Rune of Might
 2 Omen of the Dead
 2 Temple of Plenty
 2 Doom Foretold
-3 Gilded Goose
-3 In Search of Greatness
-3 Runeforge Champion
 3 Setessan Champion
+3 Gilded Goose
+3 Runeforge Champion
+3 In Search of Greatness
 3 Doom Foretold
 4 Doom Foretold
+4 Setessan Champion
 4 Gilded Goose
 4 In Search of Greatness
 4 Runeforge Champion
-4 Setessan Champion
 4 Forest
 1 Agadeem's Awakening
 1 Emeria's Call
@@ -79,18 +79,18 @@
 3 Cultivate
 1 Mazemind Tome
 1 Garruk, Cursed Huntsman
-1 Shatter the Sky
-1 Skyclave Apparition
 1 Vivien, Monsters' Advocate
+1 Skyclave Apparition
+1 Shatter the Sky
 1 Banishing Light
 1 Eerie Ultimatum
 1 Crawling Barrens
 1 Doomskar
+2 Eerie Ultimatum
 2 Garruk, Cursed Huntsman
 2 Skyclave Apparition
 2 Shatter the Sky
 2 Banishing Light
-2 Eerie Ultimatum
 2 Crawling Barrens
 3 Temple of Malady
 3 Eerie Ultimatum
@@ -127,9 +127,8 @@
 2 Snow-Covered Swamp
 3 Snow-Covered Forest
 3 Snow-Covered Swamp
-1 Shepherd of the Flock
-1 Omen of the Hunt
 1 Kogla, the Titan Ape
+1 Omen of the Hunt
 1 Tergrid, God of Fright
 1 Sculptor of Winter
 1 Snowfield Sinkhole
@@ -139,13 +138,14 @@
 1 Bala Ged Recovery
 1 Snow-Covered Plains
 1 Great Hall of Starnheim
-1 Skull Raid
 1 Elderfang Disciple
-1 Arctic Treeline
 1 Sarulf's Packmate
+1 Arctic Treeline
 1 Grasp of Darkness
 1 Shimmerdrift Vale
 1 Feed the Serpent
+1 Shepherd of the Flock
+1 Skull Raid
 2 Omen of the Hunt
 2 Sculptor of Winter
 2 Evolving Wilds
@@ -155,8 +155,8 @@
 2 Rampage of the Valkyries
 2 Great Hall of Starnheim
 2 Elderfang Disciple
-2 Skull Raid
 2 Sarulf's Packmate
+2 Skull Raid
 2 Grasp of Darkness
 2 Feed the Serpent
 2 Shimmerdrift Vale
@@ -199,14 +199,14 @@
 2 Raugrin Triome
 3 Raugrin Triome
 3 Shatterskull Smashing
-1 Bloodchief's Thirst
 1 Ketria Triome
+1 Bloodchief's Thirst
 1 Hagra Mauling
 1 The World Tree
 1 Chevill, Bane of Monsters
 1 Agonizing Remorse
-1 Easy Prey
 1 Murderous Rider
+1 Easy Prey
 1 Kaya the Inexorable
 1 Polukranos, Unchained
 2 Bloodchief's Thirst
@@ -214,8 +214,8 @@
 2 Polukranos, Unchained
 2 Chevill, Bane of Monsters
 2 Easy Prey
-2 Kaya the Inexorable
 2 Agonizing Remorse
+2 Kaya the Inexorable
 2 Murderous Rider
 2 Castle Locthwain
 3 Chevill, Bane of Monsters
@@ -223,15 +223,15 @@
 3 Murderous Rider
 1 Zagoth Triome
 1 Temple of Abandon
+1 Dream Devourer
 1 Solemn Simulacrum
 1 Liliana, Waker of the Dead
-1 Dream Devourer
 1 Cragcrown Pathway
 1 Snow-Covered Mountain
 1 Blightstep Pathway
 2 Solemn Simulacrum
-2 Liliana, Waker of the Dead
 2 Dream Devourer
+2 Liliana, Waker of the Dead
 2 Blightstep Pathway
 2 Cragcrown Pathway
 2 Snow-Covered Mountain
@@ -239,14 +239,14 @@
 3 Vorinclex, Monstrous Raider
 3 Ugin, the Spirit Dragon
 3 Solemn Simulacrum
-3 Blightstep Pathway
 3 Dream Devourer
+3 Blightstep Pathway
 4 Lukka, Coppercoat Outcast
 4 Cultivate
 4 Ugin, the Spirit Dragon
 4 Solemn Simulacrum
-4 Vorinclex, Monstrous Raider
 4 Dream Devourer
+4 Vorinclex, Monstrous Raider
 4 Blightstep Pathway
 4 Valki, God of Lies
 1 Temple of Triumph

@@ -16,8 +16,8 @@
 2 Watery Grave
 2 Thoughtseize
 2 Clearwater Pathway
-3 Drown in the Loch
 3 Thieves' Guild Enforcer
+3 Drown in the Loch
 3 Watery Grave
 3 Soaring Thought-Thief
 3 Clearwater Pathway
@@ -165,12 +165,12 @@
 4 Reflector Mage
 4 Charming Prince
 1 Overgrown Tomb
-1 Acquisitions Expert
 1 Llanowar Wastes
+1 Acquisitions Expert
 1 Renegade Rallier
 1 Judith, the Scourge Diva
-1 Hostage Taker
 1 Pyre of Heroes
+1 Hostage Taker
 1 Drannith Magistrate
 1 Archfiend's Vessel
 1 Basri's Lieutenant
@@ -194,6 +194,61 @@
 4 Archfiend's Vessel
 4 Mana Confluence
 4 Unclaimed Territory
+1 Mountain
+1 Blood Crypt
+1 Magmatic Channeler
+1 Woodland Cemetery
+1 Traverse the Ulvenwald
+1 Satyr Wayfinder
+1 Claim / Fame
+1 Soulflayer
+1 Grisly Salvage
+1 Nullhide Ferox
+1 Zetalpa, Primal Dawn
+1 Embodiment of Agonies
+1 Lurrus of the Dream-Den
+1 Stitcher's Supplier
+1 Grapple with the Past
+1 Stomping Ground
+1 Samut, Voice of Dissent
+2 Blood Crypt
+2 Woodland Cemetery
+2 Magmatic Channeler
+2 Traverse the Ulvenwald
+2 Satyr Wayfinder
+2 Claim / Fame
+2 Grisly Salvage
+2 Soulflayer
+2 Nullhide Ferox
+2 Zetalpa, Primal Dawn
+2 Lurrus of the Dream-Den
+2 Samut, Voice of Dissent
+2 Embodiment of Agonies
+2 Overgrown Tomb
+2 Stitcher's Supplier
+2 Grapple with the Past
+2 Stomping Ground
+3 Woodland Cemetery
+3 Magmatic Channeler
+3 Satyr Wayfinder
+3 Traverse the Ulvenwald
+3 Grisly Salvage
+3 Zetalpa, Primal Dawn
+3 Soulflayer
+3 Overgrown Tomb
+3 Stitcher's Supplier
+3 Blooming Marsh
+3 Claim / Fame
+3 Stomping Ground
+4 Woodland Cemetery
+4 Magmatic Channeler
+4 Soulflayer
+4 Satyr Wayfinder
+4 Zetalpa, Primal Dawn
+4 Grisly Salvage
+4 Claim / Fame
+4 Stitcher's Supplier
+4 Blooming Marsh
 1 Brazen Borrower
 1 Nighthawk Scavenger
 1 Mystical Dispute
@@ -241,61 +296,6 @@
 4 Battle for Bretagard
 4 Call of the Conclave
 4 Starnheim Unleashed
-1 Mountain
-1 Blood Crypt
-1 Magmatic Channeler
-1 Woodland Cemetery
-1 Claim / Fame
-1 Soulflayer
-1 Grisly Salvage
-1 Nullhide Ferox
-1 Zetalpa, Primal Dawn
-1 Embodiment of Agonies
-1 Traverse the Ulvenwald
-1 Lurrus of the Dream-Den
-1 Stitcher's Supplier
-1 Grapple with the Past
-1 Stomping Ground
-1 Satyr Wayfinder
-1 Samut, Voice of Dissent
-2 Blood Crypt
-2 Woodland Cemetery
-2 Magmatic Channeler
-2 Claim / Fame
-2 Grisly Salvage
-2 Soulflayer
-2 Nullhide Ferox
-2 Zetalpa, Primal Dawn
-2 Lurrus of the Dream-Den
-2 Traverse the Ulvenwald
-2 Samut, Voice of Dissent
-2 Embodiment of Agonies
-2 Overgrown Tomb
-2 Stitcher's Supplier
-2 Satyr Wayfinder
-2 Grapple with the Past
-2 Stomping Ground
-3 Woodland Cemetery
-3 Magmatic Channeler
-3 Grisly Salvage
-3 Zetalpa, Primal Dawn
-3 Soulflayer
-3 Traverse the Ulvenwald
-3 Satyr Wayfinder
-3 Overgrown Tomb
-3 Stitcher's Supplier
-3 Blooming Marsh
-3 Claim / Fame
-3 Stomping Ground
-4 Woodland Cemetery
-4 Magmatic Channeler
-4 Soulflayer
-4 Zetalpa, Primal Dawn
-4 Grisly Salvage
-4 Claim / Fame
-4 Stitcher's Supplier
-4 Blooming Marsh
-4 Satyr Wayfinder
 1 Needleverge Pathway
 1 Gods Willing
 1 Reckless Rage
@@ -364,11 +364,11 @@
 1 Hinterland Harbor
 1 Questing Beast
 1 Nissa, Who Shakes the World
+1 Hydroid Krasis
 1 Nykthos, Shrine to Nyx
 1 Voracious Hydra
 1 Garruk's Uprising
 1 Vivien, Arkbow Ranger
-1 Hydroid Krasis
 1 Vorinclex, Monstrous Raider
 1 Castle Garenbrig
 1 The Great Henge

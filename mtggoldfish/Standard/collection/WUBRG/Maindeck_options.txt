@@ -19,8 +19,8 @@
 4 The World Tree
 1 Zagoth Triome
 6 Mountain
-1 Forest
 1 Island
+1 Forest
 2 Ketria Triome
 4 Blightstep Pathway
 2 Chromatic Orrery
@@ -55,8 +55,8 @@
 2 Snow-Covered Forest
 2 Snow-Covered Island
 2 Snow-Covered Mountain
-3 Snow-Covered Mountain
 3 Snow-Covered Island
+3 Snow-Covered Mountain
 1 Temple of Triumph
 2 Needleverge Pathway
 3 Needleverge Pathway
@@ -64,31 +64,31 @@
 4 Needleverge Pathway
 1 Indatha Triome
 2 Raugrin Triome
-3 Fabled Passage
 3 Raugrin Triome
+3 Fabled Passage
 4 Fabled Passage
 4 Temple of Mystery
 4 Dream Trawler
+1 Highland Forest
 1 Rugged Highlands
 1 Swiftwater Cliffs
-1 Highland Forest
+2 Yidaro, Wandering Monster
 2 Swiftwater Cliffs
 2 Highland Forest
 2 Rugged Highlands
-2 Yidaro, Wandering Monster
-3 Rugged Highlands
 3 Yidaro, Wandering Monster
+3 Rugged Highlands
 3 Swiftwater Cliffs
 4 Yidaro, Wandering Monster
 4 Swiftwater Cliffs
 4 Rugged Highlands
-1 Wishclaw Talisman
 1 Burning-Rune Demon
+1 Wishclaw Talisman
 2 Savai Triome
 2 Wishclaw Talisman
+3 Temple of Malice
 3 Savai Triome
 3 Wishclaw Talisman
-3 Temple of Malice
 4 Swamp
 4 Temple of Malice
 4 Savai Triome
@@ -96,24 +96,24 @@
 5 Swamp
 6 Swamp
 1 Goldspan Dragon
-1 Duress
-1 Migration Path
 1 Turntimber Symbiosis
-2 Zagoth Triome
-2 Goldspan Dragon
-2 Duress
-2 Forest
-2 Migration Path
+1 Migration Path
+1 Duress
 2 Turntimber Symbiosis
-3 Island
-3 Duress
-3 Zagoth Triome
-3 Forest
+2 Goldspan Dragon
+2 Zagoth Triome
+2 Migration Path
+2 Forest
+2 Duress
 3 Migration Path
+3 Forest
 3 Goldspan Dragon
-4 Duress
+3 Island
+3 Zagoth Triome
+3 Duress
+4 Valki, God of Lies
 4 Migration Path
 4 Goldspan Dragon
+4 Duress
 4 Forest
-4 Valki, God of Lies
 5 Forest

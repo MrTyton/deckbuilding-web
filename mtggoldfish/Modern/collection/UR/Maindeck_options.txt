@@ -26,26 +26,26 @@
 2 Jace, the Mind Sculptor
 3 Force of Negation
 2 Mountain
-1 Soul-Scar Mage
-1 Monastery Swiftspear
 1 Manamorphose
-1 Light Up the Stage
+1 Soul-Scar Mage
 1 Lava Dart
+1 Monastery Swiftspear
+1 Light Up the Stage
+2 Lava Dart
+2 Monastery Swiftspear
 2 Soul-Scar Mage
 2 Light Up the Stage
-2 Monastery Swiftspear
-2 Lava Dart
 2 Manamorphose
-3 Soul-Scar Mage
+3 Manamorphose
 3 Lava Dart
 3 Monastery Swiftspear
 3 Light Up the Stage
-3 Manamorphose
+3 Soul-Scar Mage
+4 Manamorphose
 4 Soul-Scar Mage
-4 Light Up the Stage
 4 Lava Dart
 4 Monastery Swiftspear
-4 Manamorphose
+4 Light Up the Stage
 3 Mountain
 1 Crash Through
 2 Crash Through
@@ -221,12 +221,12 @@
 2 Flusterstorm
 1 Peek
 2 Peek
-1 Dispel
-2 Spell Pierce
-3 Ancestral Vision
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Mystic Sanctuary
+1 Dispel
+2 Spell Pierce
+3 Ancestral Vision
 1 Blistercoil Weird
 1 Runaway Steam-Kin
 2 Blistercoil Weird
@@ -248,16 +248,15 @@
 3 Sacred Foundry
 3 Wild Nacatl
 4 Wild Nacatl
-4 Fiery Islet
 1 Glasspool Mimic
-1 Stubborn Denial
 1 Inferno Titan
+1 Stubborn Denial
 1 Faerie Conclave
 1 Thryx, the Sudden Storm
 1 Invasion of the Giants
-2 Stubborn Denial
 2 Inferno Titan
 2 Faerie Conclave
+2 Stubborn Denial
 2 Invasion of the Giants
 3 Inferno Titan
 3 Invasion of the Giants
@@ -271,8 +270,9 @@
 3 Ground Rift
 4 Nivmagus Elemental
 4 Ground Rift
-1 Forgotten Cave
+4 Fiery Islet
 1 Arclight Phoenix
+1 Forgotten Cave
 1 Thrill of Possibility
 2 Forgotten Cave
 2 Arclight Phoenix
@@ -293,15 +293,15 @@
 4 Dreadhorde Arcanist
 4 Steam Vents
 4 Polluted Delta
+1 Magda, Brazen Outlaw
 1 Glorybringer
 1 Silumgar's Scorn
 1 Mothdust Changeling
-1 Magda, Brazen Outlaw
+2 Magda, Brazen Outlaw
 2 Silumgar's Scorn
 2 Mothdust Changeling
-2 Magda, Brazen Outlaw
-3 Mothdust Changeling
 3 Magda, Brazen Outlaw
+3 Mothdust Changeling
 3 Silumgar's Scorn
 4 Mothdust Changeling
 4 Magda, Brazen Outlaw

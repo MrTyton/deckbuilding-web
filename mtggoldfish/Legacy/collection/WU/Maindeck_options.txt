@@ -1,14 +1,14 @@
 3 Daze
-2 Polluted Delta
-1 Council's Judgment
-3 True-Name Nemesis
-4 Daze
-2 Force of Negation
-3 Island
+2 Island
 1 Tropical Island
-2 Tropical Island
 1 Uro, Titan of Nature's Wrath
+2 Tropical Island
 2 Uro, Titan of Nature's Wrath
+4 Daze
+2 Polluted Delta
+2 Plains
+3 True-Name Nemesis
+3 Prismatic Vista
 2 Misty Rainforest
 3 Uro, Titan of Nature's Wrath
 1 Noble Hierarch
@@ -16,94 +16,100 @@
 3 Noble Hierarch
 4 Noble Hierarch
 3 Misty Rainforest
-1 Sword of Fire and Ice
 1 Supreme Verdict
-2 Scalding Tarn
-3 Prismatic Vista
-1 Brazen Borrower
+3 Island
+1 Sylvan Library
 2 Spell Pierce
+2 Scalding Tarn
+2 Snow-Covered Plains
+4 Snow-Covered Island
+1 Sword of Fire and Ice
+2 Sylvan Library
+1 Savannah
+1 Skyclave Apparition
+4 Misty Rainforest
 1 Counterspell
 1 Back to Basics
+2 Skyclave Apparition
 4 Island
-1 Sylvan Library
-1 Savannah
-4 Misty Rainforest
+3 Polluted Delta
+1 Windswept Heath
+1 Brazen Borrower
+1 Snow-Covered Forest
+3 Sylvan Library
+4 Uro, Titan of Nature's Wrath
+4 Polluted Delta
+1 Baleful Strix
+1 Underground Sea
+2 Baleful Strix
 1 Delver of Secrets
 2 Delver of Secrets
 3 Delver of Secrets
 4 Delver of Secrets
 4 Wasteland
-2 Snow-Covered Plains
-4 Snow-Covered Island
-1 Preordain
-2 Sylvan Library
-1 Skyclave Apparition
-1 Windswept Heath
-3 Polluted Delta
-2 Hullbreacher
-2 Skyclave Apparition
-4 Polluted Delta
-1 Baleful Strix
-1 Underground Sea
-2 Baleful Strix
-1 Snow-Covered Forest
-3 Sylvan Library
-4 Uro, Titan of Nature's Wrath
-1 Snow-Covered Mountain
-1 Vendilion Clique
 2 Windswept Heath
+1 Preordain
 1 Spell Snare
-1 Narset, Parter of Veils
-3 Scalding Tarn
+2 Hullbreacher
 1 Scrubland
 1 Liliana, the Last Hope
+1 Birds of Paradise
+1 Snow-Covered Mountain
+5 Snow-Covered Island
+1 Narset, Parter of Veils
+1 Arid Mesa
 1 Thoughtseize
 2 Thoughtseize
-3 Tropical Island
-1 Birds of Paradise
-5 Snow-Covered Island
-6 Snow-Covered Island
-1 Mountain
-1 Arid Mesa
-3 Tundra
 1 Swamp
 1 Hymn to Tourach
 2 Hymn to Tourach
+6 Snow-Covered Island
+1 Mountain
+1 Vendilion Clique
+3 Scalding Tarn
 3 Baleful Strix
-1 Venser, Shaper Savant
-5 Island
-1 Diabolic Edict
-2 Swamp
-1 Mystic Sanctuary
-1 Dovin's Veto
-1 Kaya, Orzhov Usurper
-4 Scalding Tarn
-1 Monastery Mentor
-2 Monastery Mentor
+3 Tropical Island
 2 Underground Sea
-3 Thoughtseize
 1 Drown in the Loch
+2 Swamp
+1 Diabolic Edict
+1 Kaya, Orzhov Usurper
+1 Dovin's Veto
+4 Scalding Tarn
+1 Palace Jailer
+3 Thoughtseize
+1 Cling to Dust
 1 Forest
+1 Clarion Spirit
+2 Clarion Spirit
+2 Drown in the Loch
+3 Tundra
+1 Monastery Mentor
+3 Force of Negation
 1 Stifle
 1 Liliana's Triumph
-1 Cling to Dust
 1 Snow-Covered Swamp
-1 Palace Jailer
+1 Venser, Shaper Savant
 1 Life from the Loam
 1 Engineered Explosives
 1 Fire/Ice
 2 Arid Mesa
 1 Unearth
-2 Drown in the Loch
 2 Unearth
+1 Mystic Sanctuary
 1 Lightning Bolt
 2 Volcanic Island
 2 Lightning Bolt
 2 Spell Snare
 2 Council's Judgment
-1 Ethereal Forager
-2 Ethereal Forager
-2 Preordain
+1 Badlands
+1 Bloodstained Mire
+1 Kolaghan's Command
+1 Sevinne's Reclamation
+1 Toxic Deluge
+1 Queen Marchesa
+2 Scrubland
+2 Cling to Dust
 1 Jace, Vryn's Prodigy
 3 Snow-Covered Plains
 1 Day's Undoing
@@ -123,49 +129,29 @@
 2 Abrupt Decay
 2 Brazen Borrower
 3 Underground Sea
-1 Punishing Fire
-1 Grove of the Burnwillows
 1 Plateau
+1 Grove of the Burnwillows
+1 Punishing Fire
 1 Omnath, Locus of Creation
 1 Ketria Triome
 1 Raugrin Triome
 2 Stifle
-2 Punishing Fire
 2 Grove of the Burnwillows
-3 Punishing Fire
+2 Punishing Fire
 3 Grove of the Burnwillows
+3 Punishing Fire
 3 Stifle
-3 Force of Negation
 4 Stifle
+2 Preordain
+3 Skyclave Apparition
+3 Preordain
+4 Skyclave Apparition
 1 Of One Mind
-1 Clarion Spirit
+2 Monastery Mentor
 2 Of One Mind
-2 Clarion Spirit
 3 Monastery Mentor
 4 Monastery Mentor
-1 Once Upon a Time
-1 Rattlechains
-1 Mausoleum Wanderer
-1 Supreme Phantom
-1 Spell Queller
-1 Edric, Spymaster of Trest
-2 Once Upon a Time
-2 Rattlechains
-2 Supreme Phantom
-2 Mausoleum Wanderer
-2 Spell Queller
-2 Edric, Spymaster of Trest
-3 Once Upon a Time
-3 Skyclave Apparition
-3 Mausoleum Wanderer
-3 Spell Queller
-3 Edric, Spymaster of Trest
-3 Supreme Phantom
-3 Rattlechains
-4 Once Upon a Time
-4 Mausoleum Wanderer
-4 Supreme Phantom
-4 Rattlechains
+5 Island
 6 Island
 1 Weathered Wayfarer
 1 Aether Vial
