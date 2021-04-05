@@ -1,55 +1,40 @@
 1 All That Glitters
-1 Birgi, God of Storytelling
 1 Runeforge Champion
 1 Rune of Sustenance
+1 Birgi, God of Storytelling
 1 Rune of Flight
 1 Transcendent Envoy
 1 Rune of Speed
+2 Runeforge Champion
+2 Rune of Sustenance
 2 Showdown of the Skalds
 2 Rune of Speed
 2 Plains
-2 Rune of Sustenance
 2 Transcendent Envoy
 2 Rune of Flight
-2 Runeforge Champion
+3 Runeforge Champion
 3 Showdown of the Skalds
 3 Rune of Speed
-3 Runeforge Champion
 3 Rune of Sustenance
-4 Showdown of the Skalds
 4 Runeforge Champion
-1 Purphoros, Bronze-Blooded
-1 Illuna, Apex of Wishes
-1 The Birth of Meletis
+4 Showdown of the Skalds
 1 The Raven's Warning
 1 Snow-Covered Island
+1 Search for Glory
 1 Snow-Covered Plains
 1 Snow-Covered Mountain
-1 Pouncing Shoreshark
-1 Search for Glory
+1 The Birth of Meletis
+1 Purphoros, Bronze-Blooded
+1 Illuna, Apex of Wishes
 1 Snapdax, Apex of the Hunt
-2 Search for Glory
-2 Illuna, Apex of Wishes
-2 The Birth of Meletis
+1 Pouncing Shoreshark
 2 The Raven's Warning
 2 Snow-Covered Plains
+2 Search for Glory
+2 The Birth of Meletis
+2 Illuna, Apex of Wishes
 3 Snow-Covered Plains
 3 The Birth of Meletis
-1 Temple of Epiphany
-1 Doomskar Titan
-1 Cloudpiercer
-1 Opt
-2 Cloudpiercer
-2 Temple of Epiphany
-2 Temple of Enlightenment
-2 Opt
-3 Temple of Epiphany
-3 Temple of Enlightenment
-3 Opt
-4 Dreamtail Heron
-4 Open the Omenpaths
-4 Cubwarden
-4 Opt
 1 Spikefield Hazard
 1 Scorching Dragonfire
 2 Valakut Awakening
@@ -63,6 +48,21 @@
 4 Seize the Spoils
 4 Lore Drakkis
 4 Unsubstantiate
+1 Temple of Epiphany
+1 Cloudpiercer
+1 Opt
+1 Doomskar Titan
+2 Temple of Epiphany
+2 Temple of Enlightenment
+2 Cloudpiercer
+2 Opt
+3 Temple of Epiphany
+3 Temple of Enlightenment
+3 Opt
+4 Open the Omenpaths
+4 Cubwarden
+4 Opt
+4 Dreamtail Heron
 1 Shepherd of the Flock
 1 Shatterskull Smashing
 1 Kazuul's Fury
@@ -80,9 +80,9 @@
 4 Rune of Sustenance
 4 Rune of Flight
 4 Rune of Speed
-1 Starlit Mantle
 1 Rune of Might
 1 Pious Wayfarer
+1 Starlit Mantle
 2 All That Glitters
 2 Starlit Mantle
 2 Pious Wayfarer
@@ -90,8 +90,8 @@
 2 Fabled Passage
 2 Rune of Might
 3 Mountain
-3 Starlit Mantle
 3 Transcendent Envoy
+3 Starlit Mantle
 3 Rune of Might
 3 Plains
 3 Fabled Passage

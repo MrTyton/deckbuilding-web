@@ -1,33 +1,33 @@
 1 Drown in the Loch
-1 Watery Grave
-1 Urborg, Tomb of Yawgmoth
 1 Into the Story
-1 Cling to Dust
 1 Thieves' Guild Enforcer
 1 Soaring Thought-Thief
-1 Thoughtseize
 1 Clearwater Pathway
+1 Cling to Dust
+1 Thoughtseize
+1 Urborg, Tomb of Yawgmoth
 1 Heartless Act
+1 Watery Grave
 2 Drown in the Loch
 2 Agadeem's Awakening
-2 Watery Grave
 2 Into the Story
 2 Soaring Thought-Thief
 2 Thieves' Guild Enforcer
+2 Watery Grave
 2 Thoughtseize
 2 Clearwater Pathway
-3 Watery Grave
 3 Drown in the Loch
 3 Thieves' Guild Enforcer
+3 Watery Grave
 3 Soaring Thought-Thief
-3 Thoughtseize
 3 Clearwater Pathway
+3 Thoughtseize
+4 Clearwater Pathway
 4 Soaring Thought-Thief
 4 Watery Grave
 4 Drown in the Loch
 4 Thieves' Guild Enforcer
 4 Thoughtseize
-4 Clearwater Pathway
 4 Kitesail Freebooter
 4 Concealed Courtyard
 1 Swamp
@@ -110,13 +110,13 @@
 2 Charming Prince
 3 Reflector Mage
 3 Charming Prince
-1 Darkbore Pathway
 1 Thassa's Intervention
 1 Jace, Vryn's Prodigy
 1 Eliminate
-2 Darkbore Pathway
+1 Darkbore Pathway
 2 Jace, Vryn's Prodigy
 2 Eliminate
+2 Darkbore Pathway
 1 Castle Ardenvale
 1 Knight of Autumn
 1 Temple of Plenty
@@ -194,18 +194,18 @@
 4 Archfiend's Vessel
 4 Mana Confluence
 4 Unclaimed Territory
+1 Brazen Borrower
 1 Nighthawk Scavenger
 1 Mystical Dispute
 1 Fabled Passage
 1 Drowned Catacomb
 1 Anticognition
-1 Brazen Borrower
 2 Drowned Catacomb
-2 Brazen Borrower
-2 Island
-2 Nighthawk Scavenger
-2 Mystical Dispute
 2 Fabled Passage
+2 Brazen Borrower
+2 Nighthawk Scavenger
+2 Island
+2 Mystical Dispute
 3 Drowned Catacomb
 3 Nighthawk Scavenger
 3 Brazen Borrower
@@ -363,25 +363,25 @@
 4 Mutavault
 1 Hinterland Harbor
 1 Questing Beast
+1 Nissa, Who Shakes the World
 1 Nykthos, Shrine to Nyx
 1 Voracious Hydra
-1 Vivien, Arkbow Ranger
 1 Garruk's Uprising
+1 Vivien, Arkbow Ranger
+1 Hydroid Krasis
 1 Vorinclex, Monstrous Raider
-1 Nissa, Who Shakes the World
 1 Castle Garenbrig
 1 The Great Henge
-1 Hydroid Krasis
 1 Barkchannel Pathway
 2 Hinterland Harbor
+2 Breeding Pool
 2 Questing Beast
 2 Voracious Hydra
 2 Vivien, Arkbow Ranger
-2 Castle Garenbrig
 2 Hydroid Krasis
+2 Castle Garenbrig
 2 Barkchannel Pathway
 2 Nykthos, Shrine to Nyx
-2 Breeding Pool
 2 Nissa, Who Shakes the World
 2 Vorinclex, Monstrous Raider
 3 Questing Beast

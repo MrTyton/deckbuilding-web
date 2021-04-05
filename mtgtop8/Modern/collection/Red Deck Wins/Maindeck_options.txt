@@ -19,8 +19,8 @@
 2 Lava Dart
 3 Soul-Scar Mage
 3 Lava Dart
-4 Soul-Scar Mage
 4 Lava Dart
+4 Soul-Scar Mage
 4 Light Up the Stage
 10 Mountain
 11 Mountain
@@ -39,16 +39,16 @@
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 2 Fiery Islet
-1 Crash Through
 1 Wild Slash
-1 Bedlam Reveler
+1 Crash Through
 1 Manamorphose
-2 Crash Through
+1 Bedlam Reveler
 2 Wild Slash
-2 Manamorphose
 2 Bedlam Reveler
-3 Crash Through
+2 Manamorphose
+2 Crash Through
 3 Manamorphose
+3 Crash Through
 4 Crash Through
 4 Manamorphose
 15 Mountain
@@ -83,16 +83,10 @@
 3 Castle Embereth
 3 Sacred Foundry
 4 Sacred Foundry
-1 Mishra's Bauble
-2 Mishra's Bauble
-3 Bedlam Reveler
-3 Mishra's Bauble
-4 Bedlam Reveler
-4 Mishra's Bauble
 3 Arid Mesa
 4 Arid Mesa
-1 Ramunap Ruins
 1 Wayward Guide-Beast
+1 Ramunap Ruins
 1 Mogg Fanatic
 1 Foundry Street Denizen
 1 Goblin Grenade
@@ -101,8 +95,8 @@
 1 Legion Loyalist
 1 Burning-Tree Emissary
 1 Reckless Bushwhacker
-2 Ramunap Ruins
 2 Wayward Guide-Beast
+2 Ramunap Ruins
 2 Foundry Street Denizen
 2 Goblin Bushwhacker
 2 Goblin Grenade
@@ -128,13 +122,19 @@
 2 Kiln Fiend
 3 Kiln Fiend
 4 Kiln Fiend
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Bedlam Reveler
+3 Mishra's Bauble
+4 Mishra's Bauble
+4 Bedlam Reveler
 1 Blistercoil Weird
 2 Blast Zone
 3 Flame Slash
 16 Mountain
 1 Wizard's Lightning
-1 The Flame of Keld
 1 Gut Shot
+1 The Flame of Keld
 1 Ghitu Lavarunner
 2 Wizard's Lightning
 2 Gut Shot

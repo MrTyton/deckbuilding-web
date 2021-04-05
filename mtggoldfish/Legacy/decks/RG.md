@@ -62,7 +62,7 @@
 |                    3|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)         |                     |                                                                                              |
 |                    3|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)             |                     |                                                                                              |
 |                    4|[Llanowar Wastes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129627)         |                     |                                                                                              |
-|                    4|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)         |                     |                                                                                              |
 |                    4|[Lotus Petal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420602)             |                     |                                                                                              |
 |                    4|[Eye of Ugin](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409569)             |                     |                                                                                              |
+|                    4|[Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)         |                     |                                                                                              |
 

@@ -26,26 +26,26 @@
 2 Jace, the Mind Sculptor
 3 Force of Negation
 2 Mountain
-1 Manamorphose
 1 Soul-Scar Mage
-1 Lava Dart
 1 Monastery Swiftspear
+1 Manamorphose
 1 Light Up the Stage
-2 Lava Dart
-2 Monastery Swiftspear
+1 Lava Dart
 2 Soul-Scar Mage
 2 Light Up the Stage
+2 Monastery Swiftspear
+2 Lava Dart
 2 Manamorphose
-3 Manamorphose
+3 Soul-Scar Mage
 3 Lava Dart
 3 Monastery Swiftspear
 3 Light Up the Stage
-3 Soul-Scar Mage
-4 Manamorphose
+3 Manamorphose
 4 Soul-Scar Mage
+4 Light Up the Stage
 4 Lava Dart
 4 Monastery Swiftspear
-4 Light Up the Stage
+4 Manamorphose
 3 Mountain
 1 Crash Through
 2 Crash Through
@@ -59,8 +59,8 @@
 3 Mishra's Bauble
 4 Mishra's Bauble
 2 Sunbaked Canyon
-1 Arid Mesa
 1 Wooded Foothills
+1 Arid Mesa
 1 Shark Typhoon
 2 Shark Typhoon
 1 Bonecrusher Giant
@@ -152,22 +152,22 @@
 2 Omen of the Sea
 3 Omen of the Sea
 2 Temple of Epiphany
-3 Temple of Epiphany
 3 Valakut Awakening
+3 Temple of Epiphany
 4 Valakut Awakening
 4 Temple of Epiphany
 1 Ice-Fang Coatl
-1 Ketria Triome
 1 Snow-Covered Forest
+1 Ketria Triome
 1 Firespout
 1 Breeding Pool
 1 Search for Azcanta
 1 Wrenn and Six
 1 Lonely Sandbar
 1 Field of Ruin
-2 Breeding Pool
 2 Ice-Fang Coatl
 2 Snow-Covered Forest
+2 Breeding Pool
 2 Field of Ruin
 2 Wrenn and Six
 3 Ice-Fang Coatl
@@ -188,14 +188,14 @@
 4 Thing in the Ice
 1 Spell Pierce
 1 Tarmogoyf
-2 Arid Mesa
 2 Tarmogoyf
 2 Stomping Ground
+2 Arid Mesa
 3 Tarmogoyf
 3 Stomping Ground
 3 Wooded Foothills
-4 Tarmogoyf
 4 Wooded Foothills
+4 Tarmogoyf
 3 Serum Visions
 4 Serum Visions
 1 Wild Slash
@@ -208,8 +208,8 @@
 16 Mountain
 1 Goldspan Dragon
 2 Goldspan Dragon
-3 Blood Moon
 3 Goldspan Dragon
+3 Blood Moon
 1 Sprite Dragon
 2 Sprite Dragon
 3 Sprite Dragon
@@ -221,12 +221,12 @@
 2 Flusterstorm
 1 Peek
 2 Peek
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-3 Mystic Sanctuary
 1 Dispel
 2 Spell Pierce
 3 Ancestral Vision
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
+3 Mystic Sanctuary
 1 Blistercoil Weird
 1 Runaway Steam-Kin
 2 Blistercoil Weird
@@ -235,8 +235,8 @@
 4 Deceiver Exarch
 1 Copperline Gorge
 1 Hooting Mandrills
-2 Copperline Gorge
 2 Hooting Mandrills
+2 Copperline Gorge
 3 Hooting Mandrills
 3 Seal of Fire
 3 Copperline Gorge
@@ -248,15 +248,16 @@
 3 Sacred Foundry
 3 Wild Nacatl
 4 Wild Nacatl
+4 Fiery Islet
 1 Glasspool Mimic
-1 Inferno Titan
 1 Stubborn Denial
+1 Inferno Titan
 1 Faerie Conclave
-1 Invasion of the Giants
 1 Thryx, the Sudden Storm
+1 Invasion of the Giants
+2 Stubborn Denial
 2 Inferno Titan
 2 Faerie Conclave
-2 Stubborn Denial
 2 Invasion of the Giants
 3 Inferno Titan
 3 Invasion of the Giants
@@ -270,7 +271,6 @@
 3 Ground Rift
 4 Nivmagus Elemental
 4 Ground Rift
-4 Fiery Islet
 1 Forgotten Cave
 1 Arclight Phoenix
 1 Thrill of Possibility
@@ -293,13 +293,13 @@
 4 Dreadhorde Arcanist
 4 Steam Vents
 4 Polluted Delta
-1 Magda, Brazen Outlaw
 1 Glorybringer
 1 Silumgar's Scorn
 1 Mothdust Changeling
-2 Magda, Brazen Outlaw
+1 Magda, Brazen Outlaw
 2 Silumgar's Scorn
 2 Mothdust Changeling
+2 Magda, Brazen Outlaw
 3 Mothdust Changeling
 3 Magda, Brazen Outlaw
 3 Silumgar's Scorn

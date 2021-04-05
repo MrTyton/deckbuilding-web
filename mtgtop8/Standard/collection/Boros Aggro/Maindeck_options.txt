@@ -77,6 +77,8 @@
 2 Glass Casket
 2 Kabira Takedown
 2 Clarion Spirit
+4 Shatterskull Smashing
+4 Temple of Triumph
 1 Arni Brokenbrow
 2 Arni Brokenbrow
 2 Castle Embereth
@@ -91,8 +93,6 @@
 2 Archpriest of Iona
 3 Archpriest of Iona
 4 Archpriest of Iona
-4 Shatterskull Smashing
-4 Temple of Triumph
 1 Sejiri Shelter
 1 Raugrin Triome
 1 Rune of Flight
@@ -122,14 +122,13 @@
 4 Defiant Strike
 4 Goldspan Dragon
 1 Rally the Ranks
-1 Bolt Hound
 1 Akoum Hellhound
 1 Resplendent Marshal
 1 Igneous Cur
 1 Pack Leader
 1 Alpine Houndmaster
 1 Alpine Watchdog
-2 Bolt Hound
+1 Bolt Hound
 2 Akoum Hellhound
 2 Rally the Ranks
 2 Igneous Cur
@@ -137,9 +136,10 @@
 2 Alpine Houndmaster
 2 Pack Leader
 2 Resplendent Marshal
-3 Bolt Hound
+2 Bolt Hound
 3 Akoum Hellhound
 3 Alpine Watchdog
+3 Bolt Hound
 3 Alpine Houndmaster
 3 Igneous Cur
 3 Pack Leader
@@ -172,8 +172,8 @@
 3 Heartless Act
 3 Brightclimb Pathway
 3 Savai Triome
-3 Archfiend's Vessel
 3 Skyclave Cleric
+3 Archfiend's Vessel
 3 Speaker of the Heavens
 3 Cleric of Life's Bond
 3 Righteous Valkyrie

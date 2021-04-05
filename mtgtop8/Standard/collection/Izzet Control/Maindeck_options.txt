@@ -107,13 +107,13 @@
 4 Doomskar
 4 Needleverge Pathway
 1 Sublime Epiphany
-1 Terror of the Peaks
 1 Reflections of Littjara
 1 Castle Embereth
 1 Invasion of the Giants
+1 Terror of the Peaks
 2 Sublime Epiphany
-2 Terror of the Peaks
 2 Invasion of the Giants
+2 Terror of the Peaks
 2 Reflections of Littjara
 3 Essence Scatter
 3 Reflections of Littjara
@@ -130,6 +130,20 @@
 1 Cancel
 2 Cancel
 3 Ravenform
+1 Swiftwater Cliffs
+1 Stormwing Entity
+1 Windrider Wizard
+1 Demon Bolt
+1 Faerie Vandal
+1 Goblin Wizardry
+1 Aegar, the Freezing Flame
+2 Swiftwater Cliffs
+2 Demon Bolt
+2 Faerie Vandal
+2 Aegar, the Freezing Flame
+3 Swiftwater Cliffs
+3 Faerie Vandal
+4 Swiftwater Cliffs
 4 Faceless Haven
 1 Neutralize
 1 Crawling Barrens
@@ -139,20 +153,6 @@
 3 Double Vision
 4 Seize the Spoils
 4 Temple of Epiphany
-1 Stormwing Entity
-1 Windrider Wizard
-1 Demon Bolt
-1 Faerie Vandal
-1 Swiftwater Cliffs
-1 Goblin Wizardry
-1 Aegar, the Freezing Flame
-2 Demon Bolt
-2 Faerie Vandal
-2 Swiftwater Cliffs
-2 Aegar, the Freezing Flame
-3 Faerie Vandal
-3 Swiftwater Cliffs
-4 Swiftwater Cliffs
 1 Ashiok, Nightmare Muse
 1 Sulfurous Mire
 1 Feed the Swarm
@@ -163,12 +163,12 @@
 2 Feed the Swarm
 3 Ice Tunnel
 4 Lofty Denial
+1 Shell Shield
 1 Shock
 1 Spikefield Hazard
-1 Shell Shield
+2 Shell Shield
 2 Shock
 2 Spikefield Hazard
-2 Shell Shield
 3 Shock
 4 Shock
 7 Island
