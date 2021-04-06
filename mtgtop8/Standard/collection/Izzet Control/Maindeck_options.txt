@@ -68,8 +68,8 @@
 5 Island
 6 Island
 1 Soul Sear
-2 Soul Sear
 2 Jwari Disruption
+2 Soul Sear
 1 Reconnaissance Mission
 1 The Royal Scions
 4 Opt
@@ -77,7 +77,6 @@
 2 Lofty Denial
 3 Lofty Denial
 1 Temple of Enlightenment
-1 Raugrin Triome
 1 Inspired Ultimatum
 1 Elspeth Conquers Death
 1 Dream Trawler
@@ -85,25 +84,26 @@
 1 Needleverge Pathway
 1 Hengegate Pathway
 1 Plains
+1 Raugrin Triome
 2 Dream Trawler
-2 Raugrin Triome
 2 Elspeth Conquers Death
 2 Hengegate Pathway
 2 Doomskar
 2 Plains
 2 Needleverge Pathway
+2 Raugrin Triome
 3 Elspeth Conquers Death
 3 Dream Trawler
 3 Raugrin Triome
-3 Soul Sear
 3 Hengegate Pathway
+3 Soul Sear
 3 Jwari Disruption
 3 Doomskar
 3 Needleverge Pathway
-4 Fire Prophecy
 4 Elspeth Conquers Death
 4 Raugrin Triome
 4 Hengegate Pathway
+4 Fire Prophecy
 4 Doomskar
 4 Needleverge Pathway
 1 Sublime Epiphany
@@ -126,8 +126,8 @@
 1 Gadwick, the Wizened
 1 Crush the Weak
 2 Reconnaissance Mission
-1 Cancel
 1 Teferi, Master of Time
+1 Cancel
 2 Cancel
 3 Ravenform
 1 Swiftwater Cliffs
@@ -137,8 +137,8 @@
 1 Faerie Vandal
 1 Goblin Wizardry
 1 Aegar, the Freezing Flame
-2 Swiftwater Cliffs
 2 Demon Bolt
+2 Swiftwater Cliffs
 2 Faerie Vandal
 2 Aegar, the Freezing Flame
 3 Swiftwater Cliffs
@@ -153,8 +153,8 @@
 3 Double Vision
 4 Seize the Spoils
 4 Temple of Epiphany
-1 Sulfurous Mire
 1 Ashiok, Nightmare Muse
+1 Sulfurous Mire
 1 Ice Tunnel
 1 Feed the Swarm
 1 Cling to Dust
@@ -163,12 +163,12 @@
 2 Feed the Swarm
 3 Ice Tunnel
 4 Lofty Denial
+1 Shell Shield
 1 Shock
 1 Spikefield Hazard
-1 Shell Shield
+2 Shell Shield
 2 Shock
 2 Spikefield Hazard
-2 Shell Shield
 3 Shock
 4 Shock
 7 Island

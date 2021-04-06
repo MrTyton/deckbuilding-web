@@ -1,6 +1,6 @@
+2 Simian Spirit Guide
 3 Simian Spirit Guide
 4 Simian Spirit Guide
-1 Goblin Charbelcher
 4 Shatterskull Smashing
 1 Snow-Covered Island
 1 Lotus Field
@@ -29,29 +29,29 @@
 2 Dream's Grip
 2 Reach Through Mists
 2 Peer Through Depths
+2 Vizier of Tumbling Sands
 2 Lotus Field
 2 Spirebluff Canal
-2 Vizier of Tumbling Sands
 2 Tolaria West
 2 Serum Visions
 2 Ideas Unbound
 2 Snow-Covered Island
 2 Grapeshot
-2 Twiddle
 2 Sleight of Hand
 2 Past in Flames
+2 Twiddle
 3 Sleight of Hand
 3 Past in Flames
 3 Serum Visions
 3 Ideas Unbound
+3 Spirebluff Canal
 3 Tolaria West
-3 Lotus Field
 3 Lonely Sandbar
 3 Psychic Puppetry
 3 Peer Through Depths
+3 Lotus Field
 3 Dream's Grip
 3 Reach Through Mists
-3 Spirebluff Canal
 4 Sleight of Hand
 4 Lotus Field
 4 Lonely Sandbar
@@ -64,15 +64,6 @@
 4 Dream's Grip
 1 Memory's Journey
 2 Pelakka Predation
-1 Gemstone Caverns
-1 Violent Outburst
-1 Valki, God of Lies
-2 Valki, God of Lies
-2 Gemstone Caverns
-2 Violent Outburst
-3 Valki, God of Lies
-3 Violent Outburst
-4 Violent Outburst
 1 Steam Vents
 1 Teferi, Time Raveler
 1 Raugrin Triome
@@ -83,32 +74,41 @@
 3 Teferi, Time Raveler
 1 Uro, Titan of Nature's Wrath
 1 Snow-Covered Plains
+1 Gemstone Caverns
 1 Hallowed Fountain
 1 Breeding Pool
+1 Violent Outburst
+1 Valki, God of Lies
 1 Ardent Plea
 1 Ketria Triome
 1 Flooded Strand
 1 Watery Grave
+2 Valki, God of Lies
 2 Uro, Titan of Nature's Wrath
+2 Gemstone Caverns
 2 Ardent Plea
 2 Flooded Strand
+2 Violent Outburst
+3 Valki, God of Lies
 3 Ardent Plea
 3 Flooded Strand
+3 Violent Outburst
 4 Ardent Plea
+4 Violent Outburst
 4 Flooded Strand
-1 Dismember
-1 Snow-Covered Forest
-2 Dismember
 1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
 4 Scalding Tarn
 1 Temple Garden
 1 Mystic Sanctuary
+1 Dismember
+1 Snow-Covered Forest
 1 Cryptic Command
 1 Misty Rainforest
 1 Omnath, Locus of Creation
 2 Mystic Sanctuary
+2 Dismember
 2 Misty Rainforest
 2 Omnath, Locus of Creation
 2 Cryptic Command
@@ -118,11 +118,10 @@
 4 Misty Rainforest
 4 Uro, Titan of Nature's Wrath
 2 Goblin Charbelcher
+1 Lightning Bolt
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
-1 Lightning Bolt
-1 Irencrag Feat
 1 Bala Ged Recovery
 1 Spikefield Hazard
 1 Reforge the Soul
@@ -132,37 +131,36 @@
 1 Valakut Awakening
 1 Desperate Ritual
 1 Pyretic Ritual
-2 Irencrag Feat
+1 Irencrag Feat
 2 Spikefield Hazard
 2 Bala Ged Recovery
 2 Pyretic Ritual
+2 Irencrag Feat
 2 Manamorphose
 2 Recross the Paths
 2 Pact of Negation
 2 Valakut Awakening
 2 Desperate Ritual
-3 Irencrag Feat
 3 Valakut Awakening
 3 Spikefield Hazard
 3 Goblin Charbelcher
 3 Manamorphose
+3 Irencrag Feat
 3 Desperate Ritual
 3 Recross the Paths
 3 Pyretic Ritual
 3 Bala Ged Recovery
-4 Irencrag Feat
 4 Valakut Awakening
 4 Spikefield Hazard
 4 Goblin Charbelcher
 4 Manamorphose
 4 Recross the Paths
 4 Pyretic Ritual
+4 Irencrag Feat
 4 Desperate Ritual
 1 Thassa's Oracle
 1 Brazen Borrower
 2 Brazen Borrower
-3 Gemstone Caverns
-4 Valki, God of Lies
 3 Sphere of the Suns
 3 Dismember
 3 Omnath, Locus of Creation
@@ -176,14 +174,6 @@
 2 Talisman of Impulse
 3 Talisman of Impulse
 4 Talisman of Impulse
-1 Nature's Claim
-1 Leyline of Sanctity
-2 Nature's Claim
-2 Leyline of Sanctity
-3 Leyline of Sanctity
-4 Leyline of Sanctity
-3 Pact of Negation
-4 Bala Ged Recovery
 1 Unburial Rites
 1 Open the Omenpaths
 1 Talisman of Indulgence
@@ -193,38 +183,46 @@
 2 Open the Omenpaths
 3 Open the Omenpaths
 3 Talisman of Indulgence
-4 Talisman of Indulgence
 4 Open the Omenpaths
+4 Talisman of Indulgence
+1 Nature's Claim
+1 Leyline of Sanctity
+2 Nature's Claim
+2 Leyline of Sanctity
+3 Leyline of Sanctity
+4 Leyline of Sanctity
+3 Pact of Negation
+4 Bala Ged Recovery
 4 Force of Negation
 4 Teferi, Time Raveler
-1 Wooded Foothills
-2 Wooded Foothills
 1 Emrakul, the Aeons Torn
+1 Wooded Foothills
 2 Emrakul, the Aeons Torn
+2 Wooded Foothills
 3 Wooded Foothills
 4 Wooded Foothills
+1 Transmogrify
 1 Fire Prophecy
 1 Dwarven Mine
-1 Transmogrify
 1 Mountain
 1 Repeal
 1 Arid Mesa
-1 Remand
 1 Polymorph
 1 Izzet Charm
 1 Spell Snare
 1 Mana Leak
 1 Bloodstained Mire
+1 Remand
 1 Sacred Foundry
 1 Anger of the Gods
 1 Cloudform
+2 Transmogrify
 2 Mountain
 2 Arid Mesa
-2 Transmogrify
 2 Spell Snare
-2 Remand
 2 Dwarven Mine
 2 Anger of the Gods
+2 Remand
 2 Steam Vents
 2 Cloudform
 2 Raugrin Triome
@@ -256,55 +254,22 @@
 2 Bonecrusher Giant
 2 Mystical Dispute
 2 Polluted Delta
+3 Gemstone Caverns
 3 Polluted Delta
 3 Brazen Borrower
+4 Valki, God of Lies
 4 Polluted Delta
 1 Forest
-1 Stomping Ground
-1 Seasoned Pyromancer
-1 Blackcleave Cliffs
-1 Demonic Dread
-1 Murderous Rider
-1 Overgrown Tomb
-1 Swamp
-1 Bloodbraid Elf
-1 Prismatic Vista
-1 Magus of the Moon
-1 Blood Crypt
-1 Verdant Catacombs
-1 Snow-Covered Swamp
-2 Magus of the Moon
-2 Blackcleave Cliffs
-2 Blood Crypt
-2 Murderous Rider
-2 Verdant Catacombs
-2 Demonic Dread
-2 Seasoned Pyromancer
-2 Bloodbraid Elf
-2 Prismatic Vista
-3 Magus of the Moon
-3 Demonic Dread
-3 Blackcleave Cliffs
-3 Verdant Catacombs
-3 Bloodbraid Elf
-3 Seasoned Pyromancer
-4 Gemstone Caverns
-4 Magus of the Moon
-4 Demonic Dread
-4 Seasoned Pyromancer
-4 Blackcleave Cliffs
-4 Verdant Catacombs
-4 Bloodbraid Elf
-4 Blood Moon
 1 Oath of Nissa
-1 Karn, the Great Creator
 1 Nahiri, the Harbinger
+1 Karn, the Great Creator
 1 Lukka, Coppercoat Outcast
 1 Chandra, Torch of Defiance
 1 Arbor Elf
 1 Birds of Paradise
 1 Noble Hierarch
 1 Windswept Heath
+1 Stomping Ground
 1 Utopia Sprawl
 2 Forest
 2 Oath of Nissa
@@ -312,13 +277,13 @@
 2 Karn, the Great Creator
 2 Lukka, Coppercoat Outcast
 2 Noble Hierarch
-2 Temple Garden
 2 Stomping Ground
 2 Chandra, Torch of Defiance
 2 Utopia Sprawl
 2 Birds of Paradise
 2 Arbor Elf
 2 Windswept Heath
+2 Temple Garden
 3 Chandra, Torch of Defiance
 3 Oath of Nissa
 3 Nahiri, the Harbinger
@@ -327,8 +292,8 @@
 3 Birds of Paradise
 3 Arbor Elf
 3 Windswept Heath
-3 Forest
 3 Noble Hierarch
+3 Forest
 3 Stomping Ground
 3 Utopia Sprawl
 4 Utopia Sprawl

@@ -35,10 +35,10 @@
 |                    3|[Bala Ged Recovery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491825)   |                     |              |
 |                    3|[Undercity Informer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366271)  |                     |              |
 |                    4|[Hagra Mauling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491741)       |                     |              |
-|                    4|[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624)     |                     |              |
 |                    4|[Tangled Florahedron](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491859) |                     |              |
 |                    4|[Silversmote Ghoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485445)   |                     |              |
 |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |                     |              |
+|                    4|[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624)     |                     |              |
 |                    4|[Paradise Druid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461098)      |                     |              |
 |                    4|[Sea Gate Restoration](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491706)|                     |              |
 |                    4|[Kazandu Mammoth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491835)     |                     |              |

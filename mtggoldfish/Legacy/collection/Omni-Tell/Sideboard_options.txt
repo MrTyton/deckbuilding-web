@@ -1,13 +1,13 @@
 1 Veil of Summer
 2 Carpet of Flowers
-1 Intuition
 1 Flusterstorm
-1 Release the Ants
-1 Firemind's Foresight
+1 Intuition
 1 Force of Negation
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
+1 Release the Ants
+1 Firemind's Foresight
 1 Return to Nature
 4 Leyline of the Void
 1 Meddling Mage
@@ -26,21 +26,19 @@
 2 Fry
 2 Pyroblast
 3 Pyroblast
+1 Monastery Mentor
+2 Monastery Mentor
+3 Monastery Mentor
 1 Disenchant
 1 Grafdigger's Cage
 1 Commit/Memory
 1 Snow-Covered Mountain
-1 Oko, Thief of Crowns
-1 Containment Priest
-1 Eladamri's Call
-2 Oko, Thief of Crowns
-2 Containment Priest
+1 Noxious Revival
 1 Relic of Progenitus
-1 Monastery Mentor
-2 Monastery Mentor
-3 Monastery Mentor
 1 Hurkyl's Recall
+3 Defense Grid
 1 Force of Vigor
+1 Mindbreak Trap
 1 Wilt
 1 Slaughter Pact
 1 Snapback
@@ -50,11 +48,8 @@
 1 Wipe Away
 1 Reality Shift
 1 Back to Basics
-1 Noxious Revival
 2 Grafdigger's Cage
 2 Boseiju, Who Shelters All
-1 Collector Ouphe
-2 Collector Ouphe
 2 Return to Nature
 1 Sylvan Library
 1 Jolrael, Mwonvuli Recluse
@@ -63,10 +58,16 @@
 2 Jolrael, Mwonvuli Recluse
 2 Soul-Guide Lantern
 2 Shifting Ceratops
+1 Oko, Thief of Crowns
+1 Containment Priest
+1 Collector Ouphe
+1 Eladamri's Call
+2 Oko, Thief of Crowns
+2 Collector Ouphe
+2 Containment Priest
 2 Dismember
 3 Fry
 2 Force of Negation
-3 Defense Grid
 4 Defense Grid
 2 Disenchant
 3 Disenchant

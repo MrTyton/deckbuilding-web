@@ -102,8 +102,8 @@
 3 Voice of Resurgence
 4 Branchloft Pathway
 4 Voice of Resurgence
-1 Mana Confluence
 1 Reflector Mage
+1 Mana Confluence
 1 Charming Prince
 2 Mana Confluence
 2 Reflector Mage
@@ -140,30 +140,6 @@
 3 Of One Mind
 3 Agadeem's Awakening
 4 Into the Story
-1 Glasspool Mimic
-1 Hallowed Fountain
-1 Oketra's Monument
-1 Hengegate Pathway
-1 Militia Bugler
-2 Hallowed Fountain
-2 Glasspool Mimic
-2 Oketra's Monument
-2 Selfless Spirit
-2 Militia Bugler
-2 Hengegate Pathway
-3 Selfless Spirit
-3 Hengegate Pathway
-3 Hallowed Fountain
-3 Oketra's Monument
-3 Militia Bugler
-4 Hengegate Pathway
-4 Selfless Spirit
-4 Skyclave Apparition
-4 Hallowed Fountain
-4 Militia Bugler
-4 Oketra's Monument
-4 Reflector Mage
-4 Charming Prince
 1 Overgrown Tomb
 1 Llanowar Wastes
 1 Acquisitions Expert
@@ -184,23 +160,47 @@
 2 Pyre of Heroes
 2 Archfiend's Vessel
 3 Acquisitions Expert
+3 Unclaimed Territory
 3 Llanowar Wastes
 3 Pyre of Heroes
 3 Archfiend's Vessel
 3 Mana Confluence
 3 Renegade Rallier
-3 Unclaimed Territory
 4 Pyre of Heroes
 4 Archfiend's Vessel
 4 Mana Confluence
 4 Unclaimed Territory
+1 Glasspool Mimic
+1 Hallowed Fountain
+1 Oketra's Monument
+1 Hengegate Pathway
+1 Militia Bugler
+2 Hallowed Fountain
+2 Glasspool Mimic
+2 Selfless Spirit
+2 Militia Bugler
+2 Hengegate Pathway
+2 Oketra's Monument
+3 Selfless Spirit
+3 Hengegate Pathway
+3 Hallowed Fountain
+3 Oketra's Monument
+3 Militia Bugler
+4 Hengegate Pathway
+4 Selfless Spirit
+4 Hallowed Fountain
+4 Skyclave Apparition
+4 Charming Prince
+4 Militia Bugler
+4 Oketra's Monument
+4 Reflector Mage
 1 Mountain
 1 Blood Crypt
 1 Magmatic Channeler
 1 Woodland Cemetery
 1 Traverse the Ulvenwald
-1 Satyr Wayfinder
 1 Claim / Fame
+1 Satyr Wayfinder
 1 Soulflayer
 1 Grisly Salvage
 1 Nullhide Ferox
@@ -230,8 +230,8 @@
 2 Stomping Ground
 3 Woodland Cemetery
 3 Magmatic Channeler
-3 Satyr Wayfinder
 3 Traverse the Ulvenwald
+3 Satyr Wayfinder
 3 Grisly Salvage
 3 Zetalpa, Primal Dawn
 3 Soulflayer
@@ -269,12 +269,12 @@
 4 Drowned Catacomb
 4 Brazen Borrower
 1 Starnheim Unleashed
+1 Shefet Dunes
 1 Gideon, Ally of Zendikar
 1 Esika's Chariot
 1 Call of the Conclave
 1 Battle for Bretagard
 1 Wayfaring Temple
-1 Shefet Dunes
 1 Conclave Tribunal
 2 Starnheim Unleashed
 2 Fortified Village
@@ -376,9 +376,9 @@
 2 Hinterland Harbor
 2 Breeding Pool
 2 Questing Beast
+2 Hydroid Krasis
 2 Voracious Hydra
 2 Vivien, Arkbow Ranger
-2 Hydroid Krasis
 2 Castle Garenbrig
 2 Barkchannel Pathway
 2 Nykthos, Shrine to Nyx
