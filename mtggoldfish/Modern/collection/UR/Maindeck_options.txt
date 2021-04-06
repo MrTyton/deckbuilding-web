@@ -160,6 +160,11 @@
 3 Bonecrusher Giant
 1 Behold the Multiverse
 2 Behold the Multiverse
+2 Temple of Epiphany
+3 Valakut Awakening
+3 Temple of Epiphany
+4 Valakut Awakening
+4 Temple of Epiphany
 1 Ice-Fang Coatl
 1 Snow-Covered Forest
 1 Ketria Triome
@@ -183,11 +188,6 @@
 3 Sleight of Hand
 4 Kiln Fiend
 4 Sleight of Hand
-2 Temple of Epiphany
-3 Valakut Awakening
-3 Temple of Epiphany
-4 Valakut Awakening
-4 Temple of Epiphany
 1 Ancestral Vision
 2 Ancestral Vision
 1 Vendilion Clique
@@ -274,17 +274,6 @@
 3 Copperline Gorge
 4 Seal of Fire
 4 Copperline Gorge
-1 Arclight Phoenix
-1 Thrill of Possibility
-1 Forgotten Cave
-2 Forgotten Cave
-2 Arclight Phoenix
-2 Thrill of Possibility
-3 Gut Shot
-3 Arclight Phoenix
-3 Thrill of Possibility
-4 Arclight Phoenix
-4 Thrill of Possibility
 1 Snow-Covered Plains
 1 Geist of Saint Traft
 1 Spell Queller
@@ -302,8 +291,8 @@
 1 Inferno Titan
 1 Stubborn Denial
 1 Faerie Conclave
-1 Thryx, the Sudden Storm
 1 Invasion of the Giants
+1 Thryx, the Sudden Storm
 2 Inferno Titan
 2 Faerie Conclave
 2 Stubborn Denial
@@ -321,6 +310,17 @@
 4 Nivmagus Elemental
 4 Ground Rift
 4 Fiery Islet
+1 Forgotten Cave
+1 Thrill of Possibility
+1 Arclight Phoenix
+2 Forgotten Cave
+2 Thrill of Possibility
+2 Arclight Phoenix
+3 Gut Shot
+3 Thrill of Possibility
+3 Arclight Phoenix
+4 Arclight Phoenix
+4 Thrill of Possibility
 1 Dreadhorde Arcanist
 1 Piracy Charm
 2 Dreadhorde Arcanist
@@ -336,11 +336,11 @@
 1 Glorybringer
 1 Silumgar's Scorn
 1 Mothdust Changeling
+2 Magda, Brazen Outlaw
 2 Silumgar's Scorn
 2 Mothdust Changeling
-2 Magda, Brazen Outlaw
-3 Mothdust Changeling
 3 Magda, Brazen Outlaw
+3 Mothdust Changeling
 3 Silumgar's Scorn
 4 Mothdust Changeling
 4 Magda, Brazen Outlaw

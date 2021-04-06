@@ -1,12 +1,14 @@
-4 Sinister Sabotage
 4 Fabled Passage
-1 Eliminate
 2 Heartless Act
+4 Sinister Sabotage
+1 Eliminate
+2 Hero's Downfall
 1 Clearwater Pathway
+1 Radiant Fountain
+2 Radiant Fountain
 1 Thoughtseize
 2 Thoughtseize
 1 Bloodchief's Thirst
-2 Hero's Downfall
 1 Snow-Covered Swamp
 1 Snow-Covered Island
 2 Snow-Covered Island
@@ -15,8 +17,6 @@
 1 Search for Azcanta
 1 Thassa's Intervention
 2 Extinction Event
-1 Radiant Fountain
-2 Radiant Fountain
 1 Rewind
 1 Vraska's Contempt
 1 Cling to Dust
@@ -66,11 +66,11 @@
 2 Omen of the Sea
 2 Binding the Old Gods
 2 Emergent Ultimatum
-2 Alrund's Epiphany
 2 Forest
 2 Overgrown Tomb
 2 Growth Spiral
 2 Wolfwillow Haven
+2 Alrund's Epiphany
 2 Cultivate
 2 Barkchannel Pathway
 2 Zagoth Triome
@@ -93,6 +93,7 @@
 4 Omen of the Sea
 4 Growth Spiral
 4 Darkbore Pathway
+1 Tyrant's Scorn
 1 Jace, Architect of Thought
 2 Jace, Architect of Thought
 2 Thassa's Intervention
@@ -100,23 +101,23 @@
 2 Hieroglyphic Illumination
 1 Essence Scatter
 1 Tasigur, the Golden Fang
-1 Silundi Vision
 1 Syncopate
+1 Silundi Vision
 1 Liliana, the Last Hope
 2 Syncopate
 2 Languish
 1 Void Shatter
 1 Horribly Awry
-2 Void Shatter
 2 Castle Vantress
+2 Void Shatter
 2 Vraska's Contempt
 3 Negate
 1 Agadeem's Awakening
 1 Didn't Say Please
+1 Merfolk Windrobber
 1 Ruin Crab
 1 Soaring Thought-Thief
 1 Thieves' Guild Enforcer
-1 Merfolk Windrobber
 1 Into the Story
 1 Lullmage's Domination
 1 Of One Mind
@@ -156,10 +157,10 @@
 1 Snow-Covered Mountain
 1 Soul-Guide Lantern
 1 Duress
-1 Kolaghan's Command
 1 Blood Crypt
 1 Release to the Wind
 1 Jace, Vryn's Prodigy
+1 Kolaghan's Command
 1 Steam Vents
 2 Bloodchief's Thirst
 2 Choked Estuary

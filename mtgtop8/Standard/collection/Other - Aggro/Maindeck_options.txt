@@ -4,6 +4,7 @@
 3 Darkbore Pathway
 3 Indatha Triome
 3 Savai Triome
+4 Tymaret Calls the Dead
 4 Runeforge Champion
 4 Setessan Champion
 4 Storm Herald
@@ -15,7 +16,6 @@
 4 Brightclimb Pathway
 4 Savai Triome
 4 Darkbore Pathway
-4 Tymaret Calls the Dead
 4 Indatha Triome
 4 Rune of Might
 1 Embercleave
@@ -78,8 +78,8 @@
 6 Forest
 7 Forest
 1 Snow-Covered Plains
-1 Snow-Covered Mountain
 1 Shepherd of the Flock
+1 Snow-Covered Mountain
 1 Snow-Covered Forest
 1 Edgewall Innkeeper
 1 Giant Killer
@@ -103,12 +103,12 @@
 2 Unleash Fury
 3 Shepherd of the Flock
 3 Snow-Covered Plains
-3 Goldspan Dragon
-3 Giant Killer
 3 Snow-Covered Mountain
+3 Giant Killer
+3 Goldspan Dragon
 3 Edgewall Innkeeper
 4 Giant Killer
 4 Shepherd of the Flock
+4 Snow-Covered Mountain
 4 Goldspan Dragon
 4 Edgewall Innkeeper
-4 Snow-Covered Mountain

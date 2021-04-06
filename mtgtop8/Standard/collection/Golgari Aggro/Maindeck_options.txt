@@ -17,21 +17,21 @@
 2 Sculptor of Winter
 3 Sculptor of Winter
 1 Realmwalker
-1 Grasp of Darkness
-1 Wolfwillow Haven
-1 Skemfar Avenger
-1 Masked Vandal
-1 Return Upon the Tide
-1 Boreal Outrider
 1 Thornmantle Striker
 1 Harald Unites the Elves
-2 Grasp of Darkness
-2 Wolfwillow Haven
+1 Boreal Outrider
+1 Wolfwillow Haven
+1 Return Upon the Tide
+1 Grasp of Darkness
+1 Skemfar Avenger
+1 Masked Vandal
 2 Boreal Outrider
-3 Wolfwillow Haven
+2 Wolfwillow Haven
+2 Grasp of Darkness
 3 Harald, King of Skemfar
-3 Grasp of Darkness
+3 Wolfwillow Haven
 3 Boreal Outrider
+3 Grasp of Darkness
 4 Sculptor of Winter
 7 Snow-Covered Forest
 7 Snow-Covered Swamp
@@ -87,8 +87,8 @@
 1 Tajuru Blightblade
 2 Oakhame Adversary
 2 Tajuru Blightblade
-3 Tajuru Blightblade
 3 Oakhame Adversary
+3 Tajuru Blightblade
 4 Tajuru Blightblade
 1 Mire Triton
 2 Mire Triton
@@ -100,25 +100,25 @@
 1 Feed the Serpent
 2 Sarulf's Packmate
 2 Feed the Serpent
-1 Ice Tunnel
+1 Snow-Covered Island
 1 Garruk, Cursed Huntsman
 1 Rimewood Falls
-1 Snow-Covered Island
 1 Narfi, Betrayer King
+1 Ice Tunnel
 1 Acolyte of Affliction
-2 Rimewood Falls
-2 Ice Tunnel
 2 Snow-Covered Island
-2 Acolyte of Affliction
+2 Rimewood Falls
 2 Narfi, Betrayer King
+2 Ice Tunnel
+2 Acolyte of Affliction
 10 Forest
 1 Scavenging Ooze
 2 Scavenging Ooze
-1 Ranger's Guile
 1 Evolving Wilds
-1 Wildborn Preserver
-1 Extinction Event
 1 Fully Grown
+1 Wildborn Preserver
+1 Ranger's Guile
+1 Extinction Event
 1 Withercrown
 1 Elvish Warmaster
 2 Fully Grown
@@ -129,22 +129,23 @@
 2 Jolrael, Mwonvuli Recluse
 2 Chevill, Bane of Monsters
 3 Jolrael, Mwonvuli Recluse
+4 Harald, King of Skemfar
 1 Ugin, the Spirit Dragon
 1 Thrashing Brontodon
+1 Sarulf, Realm Eater
 1 Frantic Inventory
 1 Port of Karfell
-1 Sarulf, Realm Eater
-1 Ashiok, Nightmare Muse
 1 Chainweb Aracnir
 1 Poison the Cup
 1 Behold the Multiverse
+1 Ashiok, Nightmare Muse
+2 Port of Karfell
 2 Thrashing Brontodon
 2 Frantic Inventory
-2 Behold the Multiverse
-2 Poison the Cup
 2 Chainweb Aracnir
+2 Poison the Cup
 2 Elspeth's Nightmare
-2 Port of Karfell
+2 Behold the Multiverse
 3 Snow-Covered Island
 3 Frantic Inventory
 3 Behold the Multiverse
@@ -157,17 +158,17 @@
 4 Toski, Bearer of Secrets
 4 Indatha Triome
 1 Massacre Wurm
-1 Eliminate
 1 Faceless Haven
+1 Eliminate
 2 Questing Beast
 2 Eliminate
 2 Faceless Haven
 3 Faceless Haven
 4 Faceless Haven
 1 Snakeskin Veil
-1 Ashaya, Soul of the Wild
 1 Bonders' Enclave
 1 Tangled Florahedron
+1 Ashaya, Soul of the Wild
 1 Garruk, Unleashed
 1 Stonecoil Serpent
 1 Castle Garenbrig
@@ -176,40 +177,39 @@
 2 Snakeskin Veil
 2 Castle Garenbrig
 2 Tangled Florahedron
-2 Skyclave Shade
 2 Stonecoil Serpent
+2 Skyclave Shade
 2 Swarm Shambler
 3 Castle Garenbrig
 3 Stonecoil Serpent
 3 Scavenging Ooze
 4 Stonecoil Serpent
 4 Gemrazer
-1 Blood on the Snow
+1 Brokkos, Apex of Forever
 1 Priest of the Haunted Edge
+1 Blood on the Snow
 1 Dead Weight
 1 Cling to Dust
-1 Brokkos, Apex of Forever
 1 Excavation Mole
 2 Priest of the Haunted Edge
 2 Cling to Dust
 2 Dead Weight
 2 Excavation Mole
-3 Ice Tunnel
 3 Rimewood Falls
-3 Excavation Mole
 3 Acolyte of Affliction
+3 Ice Tunnel
 3 Narfi, Betrayer King
+3 Excavation Mole
 4 Ice Tunnel
 4 Excavation Mole
-4 Harald, King of Skemfar
 1 Blightstep Pathway
 1 Cragcrown Pathway
 1 Vivien, Monsters' Advocate
 1 Order of Midnight
 1 Zagoth Triome
 1 Valki, God of Lies
-2 Blightstep Pathway
 2 Vivien, Monsters' Advocate
+2 Blightstep Pathway
 2 Order of Midnight
 2 Cragcrown Pathway
 2 Agadeem's Awakening
@@ -217,19 +217,19 @@
 3 Blightstep Pathway
 3 Valki, God of Lies
 3 Cragcrown Pathway
-4 Blightstep Pathway
 4 Heartless Act
+4 Blightstep Pathway
 4 Cragcrown Pathway
 1 Call of the Death-Dweller
+1 The Binding of the Titans
 1 Egon, God of Death
 1 Moss Viper
 1 Hooded Blightfang
-1 The Binding of the Titans
 2 Call of the Death-Dweller
+2 The Binding of the Titans
 2 Egon, God of Death
 2 Moss Viper
 2 Hooded Blightfang
-2 The Binding of the Titans
 3 The Binding of the Titans
 3 Moss Viper
 3 Hooded Blightfang
@@ -238,9 +238,9 @@
 4 Hooded Blightfang
 9 Snow-Covered Forest
 1 Fiend Artisan
-1 Battle Mammoth
 1 Garruk's Uprising
 1 Wildwood Patrol
+1 Battle Mammoth
 1 Keeper of Fables
 1 Gnottvold Recluse
 2 Ram Through

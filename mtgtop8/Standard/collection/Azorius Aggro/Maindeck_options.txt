@@ -33,13 +33,13 @@
 3 Snow-Covered Plains
 3 Selfless Savior
 3 Seasoned Hallowblade
+4 Snow-Covered Island
 4 Staggering Insight
 4 Seasoned Hallowblade
-4 Snow-Covered Island
 4 Selfless Savior
 4 Snow-Covered Plains
-5 Snow-Covered Plains
 5 Snow-Covered Island
+5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
@@ -77,10 +77,10 @@
 1 Archon of Sun's Grace
 1 Yorion, Sky Nomad
 2 Niko Aris
-2 Dream Trawler
 2 Barrin, Tolarian Archmage
 2 The Birth of Meletis
 2 Doomskar
+2 Dream Trawler
 2 Shark Typhoon
 2 Niambi, Esteemed Speaker
 2 Brazen Borrower
@@ -90,9 +90,9 @@
 3 Niko Aris
 3 Dream Trawler
 3 Archon of Sun's Grace
+3 Brazen Borrower
 3 Cosima, God of the Voyage
 3 The Birth of Meletis
-3 Brazen Borrower
 3 Elspeth Conquers Death
 3 Yorion, Sky Nomad
 4 Elspeth Conquers Death
@@ -126,23 +126,23 @@
 1 Daybreak Chimera
 2 Daybreak Chimera
 1 Speaker of the Heavens
-1 Mystic Reflection
+1 Linden, the Steadfast Queen
 1 Daxos, Blessed by the Sun
 1 Heliod, Sun-Crowned
-1 Linden, the Steadfast Queen
+1 Mystic Reflection
 1 Reverent Hoplite
 1 Altar of the Pantheon
 2 Temple of Enlightenment
-2 Mystic Reflection
+2 Linden, the Steadfast Queen
 2 Speaker of the Heavens
 2 Daxos, Blessed by the Sun
-2 Linden, the Steadfast Queen
+2 Mystic Reflection
 2 Reverent Hoplite
 2 Altar of the Pantheon
 3 Temple of Enlightenment
-3 Mystic Reflection
 3 Speaker of the Heavens
 3 Daxos, Blessed by the Sun
+3 Mystic Reflection
 3 Reverent Hoplite
 4 Temple of Enlightenment
 4 Alseid of Life's Bounty
@@ -154,6 +154,6 @@
 2 Usher of the Fallen
 2 Shadowspear
 3 Usher of the Fallen
-4 Maul of the Skyclaves
-7 Snow-Covered Island
 6 Snow-Covered Island
+7 Snow-Covered Island
+4 Maul of the Skyclaves
