@@ -1,3 +1,5 @@
+2 Jungle Hollow
+1 Swamp
 1 Forest
 2 Forest
 3 Forest
@@ -14,10 +16,10 @@
 2 Lovestruck Beast
 3 Lovestruck Beast
 4 Lovestruck Beast
-1 Murderous Rider
 1 Temple of Malady
 1 Toski, Bearer of Secrets
 1 Edgewall Innkeeper
+1 Murderous Rider
 2 Murderous Rider
 2 Temple of Malady
 2 Toski, Bearer of Secrets
@@ -35,12 +37,10 @@
 2 Foulmire Knight
 3 Foulmire Knight
 4 Foulmire Knight
-2 The Great Henge
 5 Forest
 6 Forest
+2 The Great Henge
 4 Binding the Old Gods
-1 Jungle Hollow
-2 Jungle Hollow
 5 Swamp
 1 Greater Sandwurm
 1 Vorinclex, Monstrous Raider
@@ -68,6 +68,7 @@
 2 Gemrazer
 3 The Great Henge
 3 Gemrazer
+1 Elvish Warmaster
 2 Castle Locthwain
 1 Fynn, the Fangbearer
 2 Fynn, the Fangbearer
@@ -89,16 +90,16 @@
 1 Feed the Swarm
 2 Feed the Swarm
 1 Acolyte of Affliction
+1 Narfi, Betrayer King
+1 Ice Tunnel
 1 Garruk, Cursed Huntsman
 1 Rimewood Falls
-1 Ice Tunnel
-1 Narfi, Betrayer King
 1 Snow-Covered Island
+2 Narfi, Betrayer King
 2 Acolyte of Affliction
+2 Ice Tunnel
 2 Snow-Covered Island
 2 Rimewood Falls
-2 Ice Tunnel
-2 Narfi, Betrayer King
 1 Sarulf's Packmate
 1 Feed the Serpent
 2 Sarulf's Packmate
@@ -113,7 +114,6 @@
 1 Wildborn Preserver
 1 Extinction Event
 1 Withercrown
-1 Elvish Warmaster
 2 Fully Grown
 3 Fully Grown
 4 Oakhame Adversary
@@ -122,41 +122,41 @@
 4 Harald, King of Skemfar
 1 Ugin, the Spirit Dragon
 1 Thrashing Brontodon
-1 Sarulf, Realm Eater
 1 Frantic Inventory
+1 Ashiok, Nightmare Muse
 1 Port of Karfell
+1 Sarulf, Realm Eater
 1 Chainweb Aracnir
 1 Poison the Cup
 1 Behold the Multiverse
-1 Ashiok, Nightmare Muse
 2 Thrashing Brontodon
+2 Behold the Multiverse
 2 Frantic Inventory
 2 Chainweb Aracnir
 2 Poison the Cup
 2 Elspeth's Nightmare
-2 Behold the Multiverse
 2 Port of Karfell
 3 Snow-Covered Island
 3 Frantic Inventory
 3 Behold the Multiverse
 3 Chainweb Aracnir
 4 Frantic Inventory
-1 Indatha Triome
-2 Indatha Triome
-3 Indatha Triome
-4 Fabled Passage
-4 Indatha Triome
-4 Toski, Bearer of Secrets
 1 Rankle, Master of Pranks
+1 Eliminate
 1 Massacre Wurm
 1 Faceless Haven
-1 Eliminate
 2 Questing Beast
 2 Rankle, Master of Pranks
 2 Eliminate
 2 Faceless Haven
 3 Faceless Haven
 4 Faceless Haven
+1 Indatha Triome
+2 Indatha Triome
+3 Indatha Triome
+4 Toski, Bearer of Secrets
+4 Indatha Triome
+4 Fabled Passage
 1 Snakeskin Veil
 1 Ashaya, Soul of the Wild
 1 Bonders' Enclave
@@ -170,8 +170,8 @@
 2 Snakeskin Veil
 2 Castle Garenbrig
 2 Tangled Florahedron
-2 Stonecoil Serpent
 2 Skyclave Shade
+2 Stonecoil Serpent
 2 Primal Might
 2 Swarm Shambler
 3 Castle Garenbrig
@@ -179,9 +179,9 @@
 3 Scavenging Ooze
 4 Stonecoil Serpent
 4 Gemrazer
-1 Priest of the Haunted Edge
 1 Blood on the Snow
 1 Brokkos, Apex of Forever
+1 Priest of the Haunted Edge
 1 Dead Weight
 1 Cling to Dust
 1 Excavation Mole
@@ -189,13 +189,24 @@
 2 Cling to Dust
 2 Dead Weight
 2 Excavation Mole
+3 Ice Tunnel
 3 Rimewood Falls
 3 Acolyte of Affliction
-3 Narfi, Betrayer King
-3 Ice Tunnel
 3 Excavation Mole
+3 Narfi, Betrayer King
 4 Ice Tunnel
 4 Excavation Mole
+1 Skemfar Elderhall
+1 Tyvar Kell
+1 Skemfar Shadowsage
+1 Jaspera Sentinel
+1 Deathknell Berserker
+2 Thornmantle Striker
+2 Return Upon the Tide
+2 Skemfar Shadowsage
+2 Jaspera Sentinel
+2 Deathknell Berserker
+4 Boreal Outrider
 1 Call of the Death-Dweller
 1 Egon, God of Death
 1 Moss Viper
@@ -213,12 +224,12 @@
 4 The Binding of the Titans
 4 Hooded Blightfang
 1 Blightstep Pathway
+1 Agadeem's Awakening
 1 Valki, God of Lies
 1 Order of Midnight
+1 Zagoth Triome
 1 Cragcrown Pathway
 1 Vivien, Monsters' Advocate
-1 Zagoth Triome
-1 Agadeem's Awakening
 2 Order of Midnight
 2 Vivien, Monsters' Advocate
 2 Blightstep Pathway

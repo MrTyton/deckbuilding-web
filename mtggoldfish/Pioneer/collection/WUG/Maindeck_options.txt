@@ -1,73 +1,15 @@
-1 Hallowed Fountain
-1 Mana Confluence
-2 Mana Confluence
-1 Charming Prince
-1 Reflector Mage
-2 Charming Prince
-2 Reflector Mage
-3 Charming Prince
-3 Reflector Mage
-4 Charming Prince
-2 Hallowed Fountain
-3 Hallowed Fountain
-4 Hallowed Fountain
-1 Botanical Sanctum
-2 Botanical Sanctum
-1 Oketra's Monument
-1 Hengegate Pathway
-1 Glasspool Mimic
-1 Collected Company
-2 Glasspool Mimic
-2 Collected Company
-2 Hengegate Pathway
-2 Oketra's Monument
-3 Selfless Spirit
-3 Botanical Sanctum
-3 Oketra's Monument
-3 Collected Company
-3 Hengegate Pathway
-4 Selfless Spirit
-4 Hengegate Pathway
-4 Militia Bugler
-4 Oketra's Monument
-4 Reflector Mage
-4 Collected Company
-1 Inspiring Vantage
-2 Inspiring Vantage
-1 Savai Triome
-1 Dire Fleet Daredevil
-1 Hostage Taker
-1 Acquisitions Expert
-1 Blooming Marsh
-1 Moritte of the Frost
-1 Unclaimed Territory
-1 Tithe Taker
-1 Pyre of Heroes
-1 Realmwalker
-1 Dire Tactics
-1 Pia and Kiran Nalaar
-1 Elite Guardmage
-1 Cloudblazer
-1 Whirler Rogue
-1 Alesha, Who Smiles at Death
-1 Concealed Courtyard
-1 Kenrith, the Returned King
-1 Renegade Rallier
-1 Winota, Joiner of Forces
 1 Blightstep Pathway
-1 Liliana, Heretical Healer
-1 Blood Crypt
-1 Indatha Triome
-1 Xathrid Necromancer
-1 Rogue Refiner
+1 Kenrith, the Returned King
+1 Whirler Rogue
+1 Renegade Rallier
 1 Raugrin Triome
 2 Savai Triome
 2 Blooming Marsh
 2 Unclaimed Territory
 2 Pyre of Heroes
 2 Dire Tactics
-2 Concealed Courtyard
 2 Xathrid Necromancer
+2 Concealed Courtyard
 2 Indatha Triome
 3 Dire Tactics
 3 Blooming Marsh
@@ -75,62 +17,120 @@
 3 Pyre of Heroes
 3 Concealed Courtyard
 4 Pyre of Heroes
-4 Concealed Courtyard
 4 Unclaimed Territory
+4 Concealed Courtyard
+2 Plains
+3 Plains
+1 Toolcraft Exemplar
 1 Mutavault
 1 Spire of Industry
-1 Toolcraft Exemplar
 2 Toolcraft Exemplar
 2 Mutavault
-3 Toolcraft Exemplar
 3 Mutavault
+3 Toolcraft Exemplar
 4 Toolcraft Exemplar
-1 Mountain
-2 Mountain
 1 Heart of Kiran
 1 Magda, Brazen Outlaw
 1 Giant Ox
 1 Colossal Plow
 1 Embercleave
 1 Fairgrounds Warden
-1 Lurrus of the Dream-Den
-1 Maul of the Skyclaves
-1 Needleverge Pathway
-1 Veteran Motorist
-1 Peacewalker Colossus
+1 Armed and Armored
 1 Battlefield Forge
 1 Depala, Pilot Exemplar
+1 Lurrus of the Dream-Den
+1 Maul of the Skyclaves
+1 Mountain
+1 Needleverge Pathway
+1 Veteran Motorist
 1 Sacred Foundry
-1 Armed and Armored
+1 Peacewalker Colossus
 1 Consulate Dreadnought
 2 Lurrus of the Dream-Den
 2 Magda, Brazen Outlaw
 2 Giant Ox
 2 Colossal Plow
 2 Heart of Kiran
-2 Depala, Pilot Exemplar
-2 Needleverge Pathway
+2 Veteran Motorist
 2 Sacred Foundry
 2 Battlefield Forge
+2 Depala, Pilot Exemplar
 2 Consulate Dreadnought
+2 Mountain
 2 Peacewalker Colossus
-2 Veteran Motorist
+2 Needleverge Pathway
 3 Giant Ox
 3 Magda, Brazen Outlaw
 3 Inspiring Vantage
 3 Peacewalker Colossus
 3 Veteran Motorist
-3 Battlefield Forge
-3 Depala, Pilot Exemplar
 3 Consulate Dreadnought
 3 Sacred Foundry
+3 Depala, Pilot Exemplar
+3 Battlefield Forge
 4 Giant Ox
 4 Magda, Brazen Outlaw
 4 Veteran Motorist
+4 Consulate Dreadnought
+4 Battlefield Forge
 4 Sacred Foundry
 4 Inspiring Vantage
-4 Battlefield Forge
-4 Consulate Dreadnought
+2 Hallowed Fountain
+3 Hallowed Fountain
+4 Hallowed Fountain
+1 Botanical Sanctum
+2 Botanical Sanctum
+1 Glasspool Mimic
+1 Oketra's Monument
+1 Hengegate Pathway
+1 Collected Company
+2 Glasspool Mimic
+2 Oketra's Monument
+2 Hengegate Pathway
+2 Collected Company
+3 Selfless Spirit
+3 Botanical Sanctum
+3 Collected Company
+3 Oketra's Monument
+3 Hengegate Pathway
+4 Selfless Spirit
+4 Reflector Mage
+4 Collected Company
+4 Hengegate Pathway
+4 Oketra's Monument
+4 Militia Bugler
+1 Castle Ardenvale
+1 Luminarch Aspirant
+2 Castle Ardenvale
+2 Luminarch Aspirant
+3 Luminarch Aspirant
+4 Plains
+4 Luminarch Aspirant
+5 Plains
+6 Plains
+1 Forest
+2 Forest
+1 Halvar, God of Battle
+1 Archon of Emeria
+1 Dromoka's Command
+1 Toski, Bearer of Secrets
+1 Esika's Chariot
+1 Sunpetal Grove
+1 Shefet Dunes
+2 Toski, Bearer of Secrets
+2 Halvar, God of Battle
+2 Dromoka's Command
+2 Archon of Emeria
+2 Sunpetal Grove
+2 Esika's Chariot
+3 Forest
+3 Sunpetal Grove
+3 Halvar, God of Battle
+3 Archon of Emeria
+3 Esika's Chariot
+3 Dromoka's Command
+3 Toski, Bearer of Secrets
+4 Sunpetal Grove
 1 Ornithopter
 1 Stonecoil Serpent
 2 Ornithopter
@@ -139,8 +139,6 @@
 3 Stonecoil Serpent
 4 Ornithopter
 4 Stonecoil Serpent
-1 Island
-2 Island
 1 Hinterland Harbor
 1 Yavimaya Coast
 1 Pithing Needle
@@ -148,105 +146,69 @@
 1 Solemn Simulacrum
 1 Nissa, Vital Force
 1 Shadowspear
-1 Assault Formation
-1 Temple of Mystery
-1 Growth Spiral
-1 Tomb of the Spirit Dragon
-1 Elder Deep-Fiend
-1 Void Grafter
-1 Vivien Reid
+1 Island
 1 Benthic Infiltrator
 1 Breeding Pool
 1 Tower Defense
+1 Vivien Reid
+1 Elder Deep-Fiend
 1 Tide Drifter
+1 Tomb of the Spirit Dragon
+1 Assault Formation
+1 Growth Spiral
+1 Void Grafter
+1 Temple of Mystery
 2 Hinterland Harbor
 2 Yavimaya Coast
 2 Breeding Pool
 2 Shadowspear
-2 Tower Defense
-2 Benthic Infiltrator
-2 Sea-Dasher Octopus
-2 Void Grafter
-2 Tide Drifter
-2 Temple of Mystery
-2 Assault Formation
 2 Growth Spiral
-2 Elder Deep-Fiend
+2 Assault Formation
+2 Void Grafter
+2 Tower Defense
 2 Tomb of the Spirit Dragon
+2 Tide Drifter
+2 Elder Deep-Fiend
+2 Island
+2 Sea-Dasher Octopus
+2 Temple of Mystery
+2 Benthic Infiltrator
 3 Breeding Pool
-3 Temple of Mystery
-3 Tide Drifter
 3 Assault Formation
 3 Growth Spiral
-3 Benthic Infiltrator
-3 Hinterland Harbor
 3 Void Grafter
+3 Benthic Infiltrator
+3 Tide Drifter
+3 Hinterland Harbor
+3 Temple of Mystery
 4 Growth Spiral
 4 Breeding Pool
 4 Benthic Infiltrator
 4 Tide Drifter
-4 Hinterland Harbor
 4 Assault Formation
-1 Darksteel Citadel
-2 Darksteel Citadel
-3 Darksteel Citadel
-4 Darksteel Citadel
-1 Hope of Ghirapur
-1 Gingerbrute
-1 Stubborn Denial
-1 Springleaf Drum
-1 Ensoul Artifact
-1 Ghostfire Blade
-1 Shrapnel Blast
-1 All That Glitters
-2 Hope of Ghirapur
-2 Stubborn Denial
-2 All That Glitters
-2 Spire of Industry
-2 Gingerbrute
-2 Ensoul Artifact
-2 Springleaf Drum
-2 Ghostfire Blade
-2 Shrapnel Blast
-3 Mana Confluence
-3 Spire of Industry
-3 Springleaf Drum
-3 Gingerbrute
-3 Ensoul Artifact
-3 Ghostfire Blade
-3 Shrapnel Blast
-3 All That Glitters
-4 Mana Confluence
-4 Gingerbrute
-4 Ghostfire Blade
-4 Shrapnel Blast
-4 Springleaf Drum
-4 Ensoul Artifact
-4 Spire of Industry
-4 All That Glitters
-4 Mutavault
+4 Hinterland Harbor
 1 Banishing Light
 1 Gideon, Ally of Zendikar
 1 Field of Ruin
 1 Glass Casket
 1 Declaration in Stone
-1 Gisela, the Broken Blade
-1 Ajani, Adversary of Tyrants
 1 Brimaz, King of Oreskos
 1 Kytheon, Hero of Akros
+1 Ajani, Adversary of Tyrants
+1 Gisela, the Broken Blade
 1 Archangel of Tithes
 1 Gideon Blackblade
 2 Banishing Light
 2 Gideon, Ally of Zendikar
 2 Field of Ruin
 2 Glass Casket
-2 Archangel of Tithes
 2 Brimaz, King of Oreskos
-2 Gisela, the Broken Blade
-2 Gideon Blackblade
 2 Kytheon, Hero of Akros
-2 Declaration in Stone
+2 Archangel of Tithes
+2 Gisela, the Broken Blade
 2 Ajani, Adversary of Tyrants
+2 Gideon Blackblade
+2 Declaration in Stone
 3 Castle Ardenvale
 3 Declaration in Stone
 3 Glass Casket
@@ -264,55 +226,41 @@
 16 Plains
 17 Plains
 18 Plains
-1 Sai, Master Thopterist
-1 Golden Egg
-1 Emry, Lurker of the Loch
-1 Prophetic Prism
-1 Kazuul's Fury
-1 Fling
-1 Aetherflux Reservoir
-1 Jhoira, Weatherlight Captain
-1 Astral Cornucopia
-1 Terrarion
-1 Spare Supplies
-1 Paradoxical Outcome
-1 Ravenous Intruder
-2 Sai, Master Thopterist
-2 Kazuul's Fury
-2 Golden Egg
-2 Prophetic Prism
-2 Emry, Lurker of the Loch
-2 Fling
-2 Aetherflux Reservoir
-2 Astral Cornucopia
-2 Terrarion
-2 Jhoira, Weatherlight Captain
-2 Paradoxical Outcome
-2 Spare Supplies
-2 Ravenous Intruder
-3 Island
-3 Prophetic Prism
-3 Emry, Lurker of the Loch
-3 Sai, Master Thopterist
-3 Terrarion
-3 Paradoxical Outcome
-3 Ravenous Intruder
-3 Mountain
-3 Aetherflux Reservoir
-4 Island
-4 Mountain
-4 Prophetic Prism
-4 Aetherflux Reservoir
-4 Ravenous Intruder
-4 Paradoxical Outcome
-4 Sai, Master Thopterist
-5 Island
-5 Mountain
-6 Island
-6 Mountain
-7 Island
-7 Mountain
-8 Island
-8 Mountain
-9 Island
-9 Mountain
+1 Hope of Ghirapur
+1 Gingerbrute
+1 Darksteel Citadel
+1 Stubborn Denial
+1 Springleaf Drum
+1 All That Glitters
+1 Shrapnel Blast
+1 Ensoul Artifact
+1 Ghostfire Blade
+2 Hope of Ghirapur
+2 Darksteel Citadel
+2 Stubborn Denial
+2 Springleaf Drum
+2 All That Glitters
+2 Shrapnel Blast
+2 Spire of Industry
+2 Ensoul Artifact
+2 Ghostfire Blade
+2 Gingerbrute
+3 Mana Confluence
+3 Darksteel Citadel
+3 Ghostfire Blade
+3 Gingerbrute
+3 Spire of Industry
+3 Ensoul Artifact
+3 All That Glitters
+3 Springleaf Drum
+3 Shrapnel Blast
+4 Mana Confluence
+4 Spire of Industry
+4 Darksteel Citadel
+4 Springleaf Drum
+4 All That Glitters
+4 Ensoul Artifact
+4 Gingerbrute
+4 Ghostfire Blade
+4 Shrapnel Blast
+4 Mutavault

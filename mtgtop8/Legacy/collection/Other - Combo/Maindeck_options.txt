@@ -1,9 +1,9 @@
-5 Island
-1 Prismatic Vista
 1 Misty Rainforest
 2 Misty Rainforest
 2 Prismatic Vista
 3 Misty Rainforest
+1 Swamp
+5 Island
 1 Ancient Tomb
 2 Ancient Tomb
 1 Waterlogged Grove
@@ -27,42 +27,72 @@
 4 Thought Lash
 4 Lotus Petal
 4 Paradigm Shift
+1 Snow-Covered Forest
+1 Tropical Island
+1 Thoughtseize
+2 Thoughtseize
+1 Snow-Covered Swamp
+1 Snow-Covered Island
+2 Snow-Covered Island
+3 Snow-Covered Island
 1 Chalice of the Void
 1 Narset, Parter of Veils
 2 Chalice of the Void
-3 Chalice of the Void
 3 Ancient Tomb
+3 Chalice of the Void
 4 Chalice of the Void
 1 Spell Pierce
-1 Snow-Covered Forest
-1 Tropical Island
 1 Veil of Summer
-1 Thoughtseize
 1 Preordain
 1 Skeletal Scrying
 2 Preordain
 2 Spell Pierce
 2 Veil of Summer
-2 Thoughtseize
 2 Tropical Island
 3 Veil of Summer
 1 Castle Vantress
 1 Maddening Cacophony
 2 Maddening Cacophony
 3 Maddening Cacophony
-1 Snow-Covered Swamp
+1 Jace, the Mind Sculptor
+1 Bayou
+1 Abrupt Decay
+1 Abundant Growth
+1 Snow-Covered Mountain
+1 Uro, Titan of Nature's Wrath
+1 Dead of Winter
+1 Stasis
+1 Ral Zarek
+1 Fatal Push
+1 Ice-Fang Coatl
+1 Verdant Catacombs
+1 Force of Negation
+1 Snapcaster Mage
+2 Abrupt Decay
+2 Abundant Growth
+2 Snow-Covered Forest
+2 Uro, Titan of Nature's Wrath
+2 Ral Zarek
+2 Snapcaster Mage
+2 Stasis
+2 Ice-Fang Coatl
+2 Fatal Push
+2 Force of Negation
+3 Ice-Fang Coatl
+3 Abundant Growth
+3 Abrupt Decay
+3 Uro, Titan of Nature's Wrath
+3 Ral Zarek
+3 Stasis
 1 Thieves' Guild Enforcer
 1 Bitterblossom
 1 Drown in the Loch
-1 Snow-Covered Island
 2 Drown in the Loch
 2 Thieves' Guild Enforcer
-2 Snow-Covered Island
 2 Bitterblossom
 3 Underground Sea
 3 Prismatic Vista
 3 Thieves' Guild Enforcer
-3 Snow-Covered Island
 4 Thieves' Guild Enforcer
 4 Prismatic Vista
 4 Visions of Beyond
@@ -76,10 +106,9 @@
 1 Chandra, Torch of Defiance
 1 Hullbreacher
 1 Blood Moon
-1 Splinter Twin
-1 Jace, the Mind Sculptor
 1 Ash Barrens
 1 Chrome Mox
+1 Splinter Twin
 1 Deceiver Exarch
 1 Fiery Islet
 1 Izzet Charm

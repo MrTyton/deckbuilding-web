@@ -1,13 +1,9 @@
-2 Arid Mesa
+4 Searing Blaze
 3 Bloodstained Mire
-3 Wooded Foothills
 1 Scalding Tarn
-4 Bloodstained Mire
 2 Scalding Tarn
-4 Skullcrack
-1 Snow-Covered Mountain
+3 Wooded Foothills
 4 Mountain
-4 Wooded Foothills
 1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
@@ -16,8 +12,8 @@
 7 Mountain
 8 Mountain
 9 Mountain
-1 Soul-Scar Mage
 1 Lava Dart
+1 Soul-Scar Mage
 2 Soul-Scar Mage
 2 Lava Dart
 3 Soul-Scar Mage
@@ -30,37 +26,53 @@
 12 Mountain
 13 Mountain
 14 Mountain
-1 Grim Lavamancer
-3 Lightning Helix
-4 Lightning Helix
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
+4 Bloodstained Mire
+4 Skullcrack
+1 Snow-Covered Mountain
 2 Fiery Islet
 1 Crash Through
-1 Wild Slash
 1 Manamorphose
 1 Bedlam Reveler
 2 Crash Through
 2 Manamorphose
 2 Bedlam Reveler
-2 Wild Slash
 3 Crash Through
 3 Manamorphose
 4 Crash Through
 4 Manamorphose
+4 Wooded Foothills
+1 Grim Lavamancer
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
+1 Wild Slash
+2 Wild Slash
+3 Bedlam Reveler
+15 Mountain
 3 Scalding Tarn
 4 Scalding Tarn
 1 Bonecrusher Giant
+1 Burst Lightning
 1 Bomat Courier
 2 Bomat Courier
 2 Grim Lavamancer
 1 Shard Volley
+1 Runaway Steam-Kin
+1 Risk Factor
+2 Burst Lightning
+2 Runaway Steam-Kin
+3 Burst Lightning
+3 Runaway Steam-Kin
+3 Lightning Helix
+4 Lightning Helix
+1 Kiln Fiend
+2 Kiln Fiend
+3 Kiln Fiend
+4 Kiln Fiend
 1 Castle Embereth
 1 Flame Slash
 1 Blood Moon
 1 Forgotten Cave
 1 Seasoned Pyromancer
-1 Burst Lightning
 1 Blast Zone
 1 Firebolt
 2 Castle Embereth
@@ -82,7 +94,6 @@
 4 Sacred Foundry
 1 Mishra's Bauble
 2 Mishra's Bauble
-3 Bedlam Reveler
 3 Mishra's Bauble
 4 Bedlam Reveler
 4 Mishra's Bauble
@@ -94,8 +105,8 @@
 1 Wizard's Lightning
 2 Gut Shot
 2 Wizard's Lightning
-2 Ghitu Lavarunner
 2 The Flame of Keld
+2 Ghitu Lavarunner
 3 Bomat Courier
 3 Gut Shot
 3 Ghitu Lavarunner
@@ -105,11 +116,6 @@
 4 Ghitu Lavarunner
 4 The Flame of Keld
 4 Gut Shot
-1 Kiln Fiend
-2 Kiln Fiend
-3 Kiln Fiend
-4 Kiln Fiend
-15 Mountain
 1 Mogg Fanatic
 1 Foundry Street Denizen
 1 Goblin Grenade
@@ -125,17 +131,17 @@
 2 Goblin Grenade
 2 Reckless Bushwhacker
 2 Devastating Summons
-2 Legion Loyalist
 2 Burning-Tree Emissary
+2 Legion Loyalist
 2 Wayward Guide-Beast
 2 Ramunap Ruins
 3 Foundry Street Denizen
 3 Goblin Grenade
 3 Goblin Bushwhacker
 3 Burning-Tree Emissary
-3 Reckless Bushwhacker
 3 Ramunap Ruins
 3 Legion Loyalist
+3 Reckless Bushwhacker
 4 Foundry Street Denizen
 4 Goblin Grenade
 4 Goblin Bushwhacker
