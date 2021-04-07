@@ -25,9 +25,9 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
-|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)  |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
-|                    2|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)  |                    2|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)   |
-|                    3|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)|                     |                                                                                         |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                    1|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)  |                    3|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
+|                    2|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)  |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |
+|                    3|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)|                    2|[Flame Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416914)       |
 

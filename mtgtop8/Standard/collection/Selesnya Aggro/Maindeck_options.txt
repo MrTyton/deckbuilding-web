@@ -62,11 +62,28 @@
 3 Chainweb Aracnir
 2 Vivien, Monsters' Advocate
 2 Castle Ardenvale
-1 Lurrus of the Dream-Den
 1 Reidane, God of the Worthy
+1 Lurrus of the Dream-Den
 2 Tangled Florahedron
 3 Tangled Florahedron
 4 Tangled Florahedron
+1 Colossal Plow
+1 Giant Ox
+1 Relic Golem
+1 Yasharn, Implacable Earth
+2 Colossal Plow
+2 Giant Ox
+2 Yasharn, Implacable Earth
+2 Relic Golem
+2 Emeria's Call
+3 Emeria's Call
+3 Colossal Plow
+3 Giant Ox
+3 Relic Golem
+4 Emeria's Call
+4 Colossal Plow
+4 The Great Henge
+4 Relic Golem
 1 Esika's Chariot
 4 Felidar Retreat
 1 Migratory Greathorn
@@ -81,23 +98,6 @@
 4 Migratory Greathorn
 4 Essence Symbiote
 4 Necropanther
-1 Colossal Plow
-1 Giant Ox
-1 Relic Golem
-1 Yasharn, Implacable Earth
-2 Colossal Plow
-2 Giant Ox
-2 Relic Golem
-2 Emeria's Call
-2 Yasharn, Implacable Earth
-3 Emeria's Call
-3 Colossal Plow
-3 Giant Ox
-3 Relic Golem
-4 Emeria's Call
-4 Colossal Plow
-4 The Great Henge
-4 Relic Golem
 1 Swamp
 1 Guardian Gladewalker
 1 Fertilid
@@ -137,34 +137,34 @@
 4 Expedition Healer
 4 Blossoming Sands
 9 Plains
-1 Jorn, God of Winter
 1 Gilded Goose
 1 Snow-Covered Forest
+1 Blessing of Frost
+1 Jorn, God of Winter
 1 Faceless Haven
 1 Basri's Lieutenant
-1 Blessing of Frost
 1 Basri Ket
 1 Swarm Shambler
 1 Snow-Covered Plains
 1 Wildwood Scourge
 1 Oran-Rief Ooze
-2 Luminarch Aspirant
 2 Gilded Goose
-2 Jorn, God of Winter
 2 Snow-Covered Forest
 2 Faceless Haven
-2 Blessing of Frost
 2 Swarm Shambler
+2 Jorn, God of Winter
+2 Luminarch Aspirant
 2 Oran-Rief Ooze
 2 Snow-Covered Plains
 2 Wildwood Scourge
+2 Blessing of Frost
 2 Basri's Lieutenant
-3 Luminarch Aspirant
 3 Snow-Covered Forest
 3 Gilded Goose
 3 Scavenging Ooze
 3 Oran-Rief Ooze
 3 Snow-Covered Plains
+3 Luminarch Aspirant
 3 Swarm Shambler
 4 Swarm Shambler
 4 Luminarch Aspirant

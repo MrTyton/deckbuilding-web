@@ -1,17 +1,23 @@
-2 Riverglide Pathway
-2 Luminarch Aspirant
-2 Reidane, God of the Worthy
-3 Hengegate Pathway
-3 Reidane, God of the Worthy
-3 Brightclimb Pathway
-3 Drannith Magistrate
-3 Archon of Emeria
-3 Luminarch Aspirant
-4 Archon of Emeria
 4 Luminarch Aspirant
-1 Embercleave
+1 Mountain
+1 Fabled Passage
+2 Mountain
+3 Plains
+1 Bonecrusher Giant
+2 Bonecrusher Giant
 2 Fabled Passage
+3 Mountain
+1 Haktos the Unscarred
+3 Bonecrusher Giant
+4 Bonecrusher Giant
+3 Fabled Passage
+1 Embercleave
 4 Plains
+1 Elder Gargaroth
+1 Jaspera Sentinel
+2 Jaspera Sentinel
+3 Jaspera Sentinel
+4 Jaspera Sentinel
 1 Stonecoil Serpent
 2 Stonecoil Serpent
 1 Spikefield Hazard
@@ -28,16 +34,6 @@
 3 Phoenix of Ash
 3 Skyclave Apparition
 4 Skyclave Apparition
-5 Plains
-6 Plains
-3 Kargan Intimidator
-4 Kargan Intimidator
-3 Fabled Passage
-1 Elder Gargaroth
-1 Jaspera Sentinel
-2 Jaspera Sentinel
-3 Jaspera Sentinel
-4 Jaspera Sentinel
 1 Edgewall Innkeeper
 1 Toski, Bearer of Secrets
 1 Lovestruck Beast
@@ -51,6 +47,10 @@
 4 Lovestruck Beast
 3 Forest
 4 Forest
+5 Plains
+6 Plains
+3 Kargan Intimidator
+4 Kargan Intimidator
 4 Fabled Passage
 1 Maul of the Skyclaves
 1 Ox of Agonas
@@ -67,26 +67,26 @@
 2 Gilded Goose
 3 Clarion Spirit
 4 Toski, Bearer of Secrets
-1 Tajuru Paragon
-1 Archpriest of Iona
 1 Wildwood Tracker
-1 Lotus Cobra
+1 Tajuru Paragon
 1 Radha, Heart of Keld
+1 Archpriest of Iona
+1 Lotus Cobra
 1 Bronzehide Lion
 2 Embercleave
-2 Tajuru Paragon
-2 Archpriest of Iona
 2 Wildwood Tracker
+2 Archpriest of Iona
+2 Tajuru Paragon
 2 Lotus Cobra
 2 Radha, Heart of Keld
+3 Wildwood Tracker
 3 Tajuru Paragon
 3 Archpriest of Iona
-3 Wildwood Tracker
 3 Radha, Heart of Keld
 3 Lotus Cobra
 4 Archpriest of Iona
-4 Lotus Cobra
 4 Tajuru Paragon
+4 Lotus Cobra
 1 Faerie Guidemother
 2 Faerie Guidemother
 3 Faerie Guidemother
@@ -121,8 +121,8 @@
 9 Mountain
 10 Mountain
 11 Mountain
-1 Temple of Triumph
 1 Wind-Scarred Crag
+1 Temple of Triumph
 1 Kabira Takedown
 1 Fireblade Charger
 1 Akiri, Fearless Voyager

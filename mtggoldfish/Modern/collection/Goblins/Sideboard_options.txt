@@ -1,13 +1,13 @@
 1 Terminate
-1 Fatal Push
-2 Fatal Push
 2 Terminate
 1 Thoughtseize
+1 Fatal Push
+2 Fatal Push
 2 Pithing Needle
 2 Thoughtseize
-4 Chalice of the Void
-3 Thoughtseize
 3 Blood Moon
+3 Thoughtseize
+4 Chalice of the Void
 1 Tarfire
 3 Terminate
 1 Damping Sphere
@@ -23,7 +23,6 @@
 1 Goblin Chainwhirler
 4 Terminate
 1 Plague Engineer
-1 Earwig Squad
 2 Warren Weirding
 4 Fatal Push
 1 Chandra, Torch of Defiance
@@ -34,9 +33,8 @@
 1 Feed the Swarm
 1 Necromentia
 1 Surgical Extraction
-1 Krenko, Mob Boss
-1 Goblin Ringleader
 1 Masked Vandal
+1 Goblin Ringleader
 2 Feed the Swarm
 1 Grafdigger's Cage
 1 Abrade
@@ -82,4 +80,5 @@
 2 Sling-Gang Lieutenant
 3 Tarfire
 4 Tarfire
+1 Earwig Squad
 4 Blood Moon

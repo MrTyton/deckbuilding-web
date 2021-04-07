@@ -27,36 +27,36 @@
 1 Daze
 2 Daze
 3 Daze
-1 Underground Sea
 1 Swamp
-1 Eliminate
+1 Underground Sea
 1 Fatal Push
 1 Cling to Dust
+1 Eliminate
 1 Changeling Outcast
 1 Ornithopter
 1 Yuriko, the Tiger's Shadow
 1 Ingenious Infiltrator
 1 Retrofitter Foundry
+2 Fatal Push
+2 Swamp
 2 Changeling Outcast
 2 Ornithopter
 2 Yuriko, the Tiger's Shadow
 2 Polluted Delta
 2 Retrofitter Foundry
-2 Swamp
 2 Ingenious Infiltrator
-2 Fatal Push
 3 Swamp
+3 Fatal Push
 3 Polluted Delta
 3 Retrofitter Foundry
 3 Ornithopter
 3 Ingenious Infiltrator
-3 Fatal Push
 3 Changeling Outcast
 3 Yuriko, the Tiger's Shadow
+4 Polluted Delta
 4 Changeling Outcast
 4 Ingenious Infiltrator
 4 Ornithopter
-4 Polluted Delta
 4 Retrofitter Foundry
 1 Terminus
 2 Terminus
@@ -75,8 +75,8 @@
 1 Teferi, Hero of Dominaria
 1 Predict
 2 Council's Judgment
-3 Day's Undoing
 3 Teferi, Time Raveler
+3 Day's Undoing
 1 Court of Cunning
 2 Court of Cunning
 1 Misty Rainforest
@@ -104,10 +104,10 @@
 1 Crucible of Worlds
 3 Supreme Verdict
 3 Court of Cunning
-1 Lay Claim
-1 Replenish
-1 Cast Out
 1 Path to Exile
+1 Lay Claim
+1 Cast Out
+1 Replenish
 2 Lay Claim
 2 Replenish
 2 Cast Out
@@ -116,37 +116,37 @@
 3 Replenish
 4 Replenish
 4 Cast Out
-1 Tranquil Thicket
-1 Verdant Catacombs
-1 Forest
-1 Savannah
-1 Life from the Loam
-1 Bayou
 1 Field of the Dead
+1 Tranquil Thicket
+1 Forest
+1 Life from the Loam
 1 Abrupt Decay
-1 Bojuka Bog
 1 Crop Rotation
+1 Bojuka Bog
 1 Lonely Sandbar
 1 Tropical Island
+1 Bayou
 1 Snow-Covered Forest
 1 Uro, Titan of Nature's Wrath
+1 Savannah
+1 Verdant Catacombs
 1 Mox Diamond
 2 Life from the Loam
 2 Field of the Dead
 2 Abrupt Decay
 2 Uro, Titan of Nature's Wrath
 2 Mox Diamond
+3 Abrupt Decay
 3 Mox Diamond
 3 Wasteland
-3 Abrupt Decay
 3 Uro, Titan of Nature's Wrath
 3 Life from the Loam
 3 Misty Rainforest
 4 Abrupt Decay
 4 Mox Diamond
-4 Wasteland
 4 Uro, Titan of Nature's Wrath
 4 Misty Rainforest
+4 Wasteland
 1 Impulse
 1 Bonecrusher Giant
 1 Fiery Islet
@@ -195,8 +195,8 @@
 2 Mutavault
 3 Sea Gate Restoration
 3 Glasspool Mimic
-3 Hullbreacher
 3 Chrome Mox
+3 Hullbreacher
 3 Cavern of Souls
 3 Lord of Atlantis
 3 Master of the Pearl Trident

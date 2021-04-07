@@ -22,9 +22,9 @@
 2 Lava Dart
 3 Soul-Scar Mage
 3 Lava Dart
-4 Soul-Scar Mage
-4 Lava Dart
 4 Light Up the Stage
+4 Lava Dart
+4 Soul-Scar Mage
 10 Mountain
 11 Mountain
 12 Mountain
@@ -38,12 +38,12 @@
 2 Fiery Islet
 1 Crash Through
 1 Wild Slash
-1 Bedlam Reveler
 1 Manamorphose
+1 Bedlam Reveler
 2 Crash Through
-2 Wild Slash
 2 Manamorphose
 2 Bedlam Reveler
+2 Wild Slash
 3 Crash Through
 3 Manamorphose
 4 Crash Through
@@ -56,19 +56,19 @@
 2 Grim Lavamancer
 1 Shard Volley
 1 Castle Embereth
+1 Flame Slash
 1 Blood Moon
 1 Forgotten Cave
 1 Seasoned Pyromancer
 1 Burst Lightning
 1 Blast Zone
-1 Flame Slash
 1 Firebolt
 2 Castle Embereth
+2 Flame Slash
 2 Blood Moon
 2 Forgotten Cave
 2 Bonecrusher Giant
 2 Seasoned Pyromancer
-2 Flame Slash
 2 Firebolt
 3 Bonecrusher Giant
 3 Blood Moon
@@ -88,19 +88,19 @@
 4 Mishra's Bauble
 3 Arid Mesa
 4 Arid Mesa
-1 Wizard's Lightning
-1 The Flame of Keld
 1 Gut Shot
+1 The Flame of Keld
 1 Ghitu Lavarunner
-2 Wizard's Lightning
+1 Wizard's Lightning
 2 Gut Shot
+2 Wizard's Lightning
 2 Ghitu Lavarunner
 2 The Flame of Keld
 3 Bomat Courier
-3 Wizard's Lightning
 3 Gut Shot
 3 Ghitu Lavarunner
 3 The Flame of Keld
+3 Wizard's Lightning
 4 Bomat Courier
 4 Ghitu Lavarunner
 4 The Flame of Keld

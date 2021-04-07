@@ -1,21 +1,21 @@
-1 Tectonic Edge
 2 Tectonic Edge
 3 Tectonic Edge
 4 Tectonic Edge
 1 Winds of Abandon
 2 Winds of Abandon
 4 Archon of Emeria
+1 Castle Ardenvale
 1 Restoration Angel
-11 Plains
 2 Restoration Angel
+11 Plains
 12 Plains
 13 Plains
 14 Plains
 15 Plains
-1 Snow-Covered Plains
-2 Snow-Covered Plains
 3 Silent Clearing
 4 Silent Clearing
+1 Snow-Covered Plains
+2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
@@ -25,19 +25,20 @@
 3 Restoration Angel
 8 Snow-Covered Plains
 9 Snow-Covered Plains
+1 Linvala, Keeper of Silence
 10 Snow-Covered Plains
 1 Sunbaked Canyon
-1 Horizon Canopy
 2 Castle Ardenvale
 2 Charming Prince
-1 Linvala, Keeper of Silence
+1 Horizon Canopy
+2 Linvala, Keeper of Silence
 4 Restoration Angel
 3 Winds of Abandon
-16 Plains
 1 Sword of Light and Shadow
-2 Linvala, Keeper of Silence
-2 Horizon Canopy
-3 Horizon Canopy
+16 Plains
+3 Linvala, Keeper of Silence
+1 Skyclave Cleric
+2 Skyclave Cleric
 1 Forest
 1 Oath of Nissa
 1 Razorverge Thicket
@@ -59,14 +60,13 @@
 3 Noble Hierarch
 3 Temple Garden
 3 Razorverge Thicket
-4 Temple Garden
 4 Razorverge Thicket
+4 Temple Garden
 4 Branchloft Pathway
 4 Oath of Nissa
-3 Linvala, Keeper of Silence
-1 Skyclave Cleric
-2 Skyclave Cleric
 2 Sunbaked Canyon
+2 Horizon Canopy
+3 Horizon Canopy
 4 Horizon Canopy
 3 Sunbaked Canyon
 1 Thraben Inspector
@@ -89,6 +89,8 @@
 1 Flagstones of Trokair
 4 Sunbaked Canyon
 1 Sword of Feast and Famine
+1 Sejiri Shelter
+2 Sejiri Shelter
 1 Mirran Crusader
 2 Mirran Crusader
 2 Batterskull

@@ -9,12 +9,12 @@
 3 Urborg, Tomb of Yawgmoth
 4 Urborg, Tomb of Yawgmoth
 1 Bitterblossom
-1 Wasteland
 1 Mishra's Factory
-2 Wasteland
+1 Wasteland
 2 Mishra's Factory
-3 Wasteland
+2 Wasteland
 3 Mishra's Factory
+3 Wasteland
 4 Hymn to Tourach
 1 Liliana's Triumph
 1 Thoughtseize
@@ -24,8 +24,8 @@
 2 Smallpox
 3 Smallpox
 4 Wasteland
-4 Smallpox
 4 Mishra's Factory
+4 Smallpox
 9 Swamp
 10 Swamp
 1 Inquisition of Kozilek
@@ -78,9 +78,9 @@
 1 Snow-Covered Swamp
 1 Cursed Scroll
 2 Snow-Covered Swamp
+2 Liliana, Waker of the Dead
 2 Cursed Scroll
 2 Nether Spirit
-2 Liliana, Waker of the Dead
 2 Cling to Dust
 3 Snow-Covered Swamp
 3 Cling to Dust
@@ -93,12 +93,12 @@
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
+1 Duress
 1 Marsh Flats
+1 Ensnaring Bridge
 1 Asylum Visitor
 1 Mutavault
-1 Duress
 1 Surgical Extraction
-1 Ensnaring Bridge
 1 Liquimetal Coating
 2 Marsh Flats
 2 Ensnaring Bridge
