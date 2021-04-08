@@ -70,8 +70,8 @@
 1 Ashiok, Nightmare Muse
 1 Cling to Dust
 3 Mazemind Tome
-4 Mazemind Tome
 4 Shark Typhoon
+4 Mazemind Tome
 3 Saw It Coming
 1 Fae of Wishes
 1 Midnight Clock
@@ -84,20 +84,8 @@
 2 Kiora Bests the Sea God
 3 Polukranos, Unchained
 3 Behold the Multiverse
-1 Jungle Hollow
-1 Evolving Wilds
-1 Thornwood Falls
-1 Dismal Backwater
-2 Jungle Hollow
-2 Evolving Wilds
-2 Thornwood Falls
-3 Evolving Wilds
-3 Jungle Hollow
-3 Thornwood Falls
-3 Temple of Mystery
-4 Jungle Hollow
-1 Snow-Covered Mountain
 1 Snow-Covered Swamp
+1 Snow-Covered Mountain
 1 Snow-Covered Island
 1 Snow-Covered Forest
 2 Snow-Covered Swamp
@@ -113,12 +101,24 @@
 4 Ketria Triome
 4 Negate
 4 Disdainful Stroke
+1 Evolving Wilds
+1 Thornwood Falls
+1 Jungle Hollow
+1 Dismal Backwater
+2 Evolving Wilds
+2 Jungle Hollow
+2 Thornwood Falls
+3 Temple of Mystery
+3 Evolving Wilds
+3 Jungle Hollow
+3 Thornwood Falls
+4 Jungle Hollow
 1 Crawling Barrens
 1 Lochmere Serpent
+2 Ashiok, Nightmare Muse
 2 Crawling Barrens
 2 Cling to Dust
 2 Lochmere Serpent
-2 Ashiok, Nightmare Muse
 2 Ugin, the Spirit Dragon
 2 Temple of Deceit
 3 Ashiok, Nightmare Muse
@@ -130,11 +130,11 @@
 5 Island
 6 Swamp
 6 Island
-7 Swamp
 7 Island
-8 Swamp
+7 Swamp
 8 Island
-9 Swamp
+8 Swamp
 9 Island
+9 Swamp
 2 Yorion, Sky Nomad
 1 Yorion, Sky Nomad

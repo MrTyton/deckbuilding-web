@@ -80,8 +80,8 @@
 1 Tajuru Blightblade
 2 Oakhame Adversary
 2 Tajuru Blightblade
-3 Oakhame Adversary
 3 Tajuru Blightblade
+3 Oakhame Adversary
 4 Tajuru Blightblade
 1 Mire Triton
 2 Mire Triton
@@ -89,17 +89,17 @@
 4 Mire Triton
 1 Feed the Swarm
 2 Feed the Swarm
-1 Acolyte of Affliction
-1 Narfi, Betrayer King
 1 Ice Tunnel
 1 Garruk, Cursed Huntsman
 1 Rimewood Falls
 1 Snow-Covered Island
-2 Narfi, Betrayer King
-2 Acolyte of Affliction
+1 Narfi, Betrayer King
+1 Acolyte of Affliction
+2 Rimewood Falls
 2 Ice Tunnel
 2 Snow-Covered Island
-2 Rimewood Falls
+2 Narfi, Betrayer King
+2 Acolyte of Affliction
 1 Sarulf's Packmate
 1 Feed the Serpent
 2 Sarulf's Packmate
@@ -109,17 +109,16 @@
 2 Scavenging Ooze
 1 Evolving Wilds
 1 Ranger's Guile
-1 Fully Grown
 1 Chevill, Bane of Monsters
 1 Wildborn Preserver
 1 Extinction Event
+1 Fully Grown
 1 Withercrown
 2 Fully Grown
 3 Fully Grown
 4 Oakhame Adversary
 7 Swamp
 8 Swamp
-4 Harald, King of Skemfar
 1 Ugin, the Spirit Dragon
 1 Thrashing Brontodon
 1 Frantic Inventory
@@ -130,8 +129,8 @@
 1 Poison the Cup
 1 Behold the Multiverse
 2 Thrashing Brontodon
-2 Behold the Multiverse
 2 Frantic Inventory
+2 Behold the Multiverse
 2 Chainweb Aracnir
 2 Poison the Cup
 2 Elspeth's Nightmare
@@ -142,11 +141,11 @@
 3 Chainweb Aracnir
 4 Frantic Inventory
 1 Rankle, Master of Pranks
-1 Eliminate
 1 Massacre Wurm
+1 Eliminate
 1 Faceless Haven
-2 Questing Beast
 2 Rankle, Master of Pranks
+2 Questing Beast
 2 Eliminate
 2 Faceless Haven
 3 Faceless Haven
@@ -154,8 +153,8 @@
 1 Indatha Triome
 2 Indatha Triome
 3 Indatha Triome
-4 Toski, Bearer of Secrets
 4 Indatha Triome
+4 Toski, Bearer of Secrets
 4 Fabled Passage
 1 Snakeskin Veil
 1 Ashaya, Soul of the Wild
@@ -180,10 +179,10 @@
 4 Stonecoil Serpent
 4 Gemrazer
 1 Blood on the Snow
-1 Brokkos, Apex of Forever
-1 Priest of the Haunted Edge
 1 Dead Weight
 1 Cling to Dust
+1 Priest of the Haunted Edge
+1 Brokkos, Apex of Forever
 1 Excavation Mole
 2 Priest of the Haunted Edge
 2 Cling to Dust
@@ -191,42 +190,43 @@
 2 Excavation Mole
 3 Ice Tunnel
 3 Rimewood Falls
-3 Acolyte of Affliction
 3 Excavation Mole
+3 Acolyte of Affliction
 3 Narfi, Betrayer King
 4 Ice Tunnel
 4 Excavation Mole
-1 Skemfar Elderhall
+4 Harald, King of Skemfar
 1 Tyvar Kell
-1 Skemfar Shadowsage
 1 Jaspera Sentinel
+1 Skemfar Elderhall
+1 Skemfar Shadowsage
 1 Deathknell Berserker
-2 Thornmantle Striker
-2 Return Upon the Tide
-2 Skemfar Shadowsage
 2 Jaspera Sentinel
 2 Deathknell Berserker
+2 Return Upon the Tide
+2 Thornmantle Striker
+2 Skemfar Shadowsage
 4 Boreal Outrider
 1 Call of the Death-Dweller
 1 Egon, God of Death
-1 Moss Viper
 1 Hooded Blightfang
+1 Moss Viper
 1 The Binding of the Titans
 2 Call of the Death-Dweller
 2 Egon, God of Death
 2 Moss Viper
 2 Hooded Blightfang
 2 The Binding of the Titans
-3 Moss Viper
 3 The Binding of the Titans
+3 Moss Viper
 3 Hooded Blightfang
-4 Moss Viper
 4 The Binding of the Titans
+4 Moss Viper
 4 Hooded Blightfang
+1 Order of Midnight
 1 Blightstep Pathway
 1 Agadeem's Awakening
 1 Valki, God of Lies
-1 Order of Midnight
 1 Zagoth Triome
 1 Cragcrown Pathway
 1 Vivien, Monsters' Advocate

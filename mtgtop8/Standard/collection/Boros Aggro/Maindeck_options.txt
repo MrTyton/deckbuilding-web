@@ -1,26 +1,22 @@
-3 Selfless Savior
 1 Embercleave
+3 Selfless Savior
 1 Plains
-2 Plains
 1 Mountain
+2 Plains
 2 Mountain
 3 Plains
+3 Mountain
 4 Plains
 5 Plains
-3 Mountain
+2 Embercleave
+4 Mountain
 6 Plains
 7 Plains
 8 Plains
-2 Embercleave
-1 Reidane, God of the Worthy
-2 Reidane, God of the Worthy
-1 Temple of Triumph
-1 Shatterskull Smashing
-2 Temple of Triumph
-2 Shatterskull Smashing
-4 Mountain
 3 Robber of the Rich
 4 Robber of the Rich
+1 Reidane, God of the Worthy
+2 Reidane, God of the Worthy
 5 Snow-Covered Mountain
 1 Fervent Champion
 2 Fervent Champion
@@ -31,17 +27,18 @@
 6 Mountain
 7 Mountain
 3 Shepherd of the Flock
+1 Temple of Triumph
+1 Shatterskull Smashing
+2 Temple of Triumph
+2 Shatterskull Smashing
 3 Embercleave
 3 Faceless Haven
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
+1 Castle Embereth
+1 Goldspan Dragon
 1 Emeria's Call
 2 Emeria's Call
-1 Castle Embereth
-9 Plains
-3 Shatterskull Smashing
-3 Temple of Triumph
-1 Goldspan Dragon
 4 Shepherd of the Flock
 4 Giant Killer
 3 Reidane, God of the Worthy
@@ -54,6 +51,8 @@
 1 Fight as One
 2 Fight as One
 2 Goldspan Dragon
+3 Shatterskull Smashing
+3 Temple of Triumph
 1 Riverglide Pathway
 1 Hengegate Pathway
 2 Riverglide Pathway
@@ -64,18 +63,8 @@
 4 Hengegate Pathway
 8 Mountain
 9 Mountain
-1 Kabira Takedown
-10 Plains
-1 Lurrus of the Dream-Den
-2 Lurrus of the Dream-Den
+9 Plains
 1 Luminous Broodmoth
-1 Glass Casket
-1 Clarion Spirit
-2 Glass Casket
-2 Kabira Takedown
-2 Clarion Spirit
-4 Shatterskull Smashing
-4 Temple of Triumph
 1 Arni Brokenbrow
 2 Arni Brokenbrow
 2 Castle Embereth
@@ -86,6 +75,8 @@
 2 Relic Robber
 3 Shock
 4 Shock
+4 Shatterskull Smashing
+4 Temple of Triumph
 1 Frost Bite
 2 Frost Bite
 3 Frost Bite
@@ -104,10 +95,10 @@
 1 Kazuul's Fury
 1 Rune of Speed
 2 Sejiri Shelter
-2 Raugrin Triome
 2 Birgi, God of Storytelling
-2 Rune of Sustenance
+2 Raugrin Triome
 2 Defiant Strike
+2 Rune of Sustenance
 2 Runeforge Champion
 2 Rune of Speed
 3 Goldspan Dragon
@@ -117,14 +108,17 @@
 3 Runeforge Champion
 3 Rune of Speed
 3 Defiant Strike
+4 Rune of Sustenance
 4 Runeforge Champion
 4 Rune of Speed
-4 Rune of Sustenance
 4 Defiant Strike
 4 Goldspan Dragon
-1 Rally the Ranks
+4 Reidane, God of the Worthy
+8 Snow-Covered Mountain
 1 Akoum Hellhound
+1 Kabira Takedown
 1 Resplendent Marshal
+1 Rally the Ranks
 1 Igneous Cur
 1 Pack Leader
 1 Alpine Houndmaster
@@ -139,57 +133,16 @@
 2 Resplendent Marshal
 2 Bolt Hound
 3 Akoum Hellhound
+3 Igneous Cur
 3 Alpine Watchdog
 3 Bolt Hound
 3 Alpine Houndmaster
-3 Igneous Cur
 3 Pack Leader
 4 Akoum Hellhound
 4 Alpine Houndmaster
 4 Bolt Hound
 4 Pack Leader
-1 Agadeem's Awakening
-1 Savai Triome
-1 Brightclimb Pathway
-1 Skyclave Cleric
-1 Archfiend's Vessel
-1 Speaker of the Heavens
-1 Heartless Act
-1 Righteous Valkyrie
-1 Swamp
-1 Cleric of Life's Bond
-1 Alseid of Life's Bounty
-1 Blightstep Pathway
-2 Skyclave Cleric
-2 Savai Triome
-2 Brightclimb Pathway
-2 Archfiend's Vessel
-2 Speaker of the Heavens
-2 Agadeem's Awakening
-2 Heartless Act
-2 Swamp
-2 Righteous Valkyrie
-2 Cleric of Life's Bond
-2 Blightstep Pathway
-2 Alseid of Life's Bounty
-3 Heartless Act
-3 Savai Triome
-3 Brightclimb Pathway
-3 Archfiend's Vessel
-3 Skyclave Cleric
-3 Speaker of the Heavens
-3 Cleric of Life's Bond
-3 Blightstep Pathway
-3 Righteous Valkyrie
-4 Brightclimb Pathway
-4 Savai Triome
-4 Speaker of the Heavens
-4 Archfiend's Vessel
-4 Cleric of Life's Bond
-4 Righteous Valkyrie
-4 Blightstep Pathway
-4 Reidane, God of the Worthy
-8 Snow-Covered Mountain
+10 Plains
 11 Snow-Covered Plains
 1 Halvar, God of Battle
 1 Swift Response
@@ -201,10 +154,10 @@
 2 Halvar, God of Battle
 2 Swift Response
 2 Shadowspear
+2 Kor Blademaster
 2 Akiri, Fearless Voyager
 2 Relic Axe
 2 Fireblade Charger
-2 Kor Blademaster
 3 Halvar, God of Battle
 3 Swift Response
 3 Relic Axe

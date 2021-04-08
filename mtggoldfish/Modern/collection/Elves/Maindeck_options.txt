@@ -1,51 +1,41 @@
 1 Pendelhaven
 4 Nurturing Peatland
-1 Verdant Catacombs
 1 Windswept Heath
+1 Verdant Catacombs
 3 Cavern of Souls
 1 Elvish Clancaller
 2 Elvish Clancaller
 3 Elvish Clancaller
 1 Wooded Foothills
-2 Verdant Catacombs
-4 Elvish Clancaller
 2 Windswept Heath
-5 Forest
-6 Forest
 1 Elvish Visionary
 2 Elvish Visionary
 3 Elvish Visionary
 4 Elvish Visionary
+2 Verdant Catacombs
+4 Elvish Clancaller
 2 Overgrown Tomb
+5 Forest
+6 Forest
 4 Cavern of Souls
 2 Wooded Foothills
-7 Forest
 3 Ezuri, Renegade Leader
 3 Verdant Catacombs
-1 Craterhoof Behemoth
+7 Forest
 3 Windswept Heath
 4 Windswept Heath
 1 Essence Warden
 1 Chord of Calling
+1 Craterhoof Behemoth
+1 Darkbore Pathway
+1 Unclaimed Territory
+1 Winding Way
+1 Nykthos, Shrine to Nyx
+2 Chord of Calling
 1 Turntimber Symbiosis
 2 Turntimber Symbiosis
 3 Turntimber Symbiosis
 4 Turntimber Symbiosis
-1 Darkbore Pathway
-1 Unclaimed Territory
-1 Joraga Warcaller
-1 Bramblewood Paragon
-1 Growth-Chamber Guardian
-2 Bramblewood Paragon
-2 Growth-Chamber Guardian
-2 Joraga Warcaller
-3 Growth-Chamber Guardian
-3 Bramblewood Paragon
-4 Growth-Chamber Guardian
-8 Forest
-1 Winding Way
-1 Nykthos, Shrine to Nyx
-2 Chord of Calling
 1 Imperious Perfect
 1 Misty Rainforest
 1 Stomping Ground
@@ -61,7 +51,17 @@
 3 Unclaimed Territory
 4 Unclaimed Territory
 1 Inscription of Abundance
+1 Joraga Warcaller
+1 Bramblewood Paragon
+1 Growth-Chamber Guardian
 2 Inscription of Abundance
+2 Bramblewood Paragon
+2 Growth-Chamber Guardian
+2 Joraga Warcaller
+3 Growth-Chamber Guardian
+3 Bramblewood Paragon
+4 Growth-Chamber Guardian
+8 Forest
 9 Forest
 10 Forest
 11 Forest
@@ -73,13 +73,11 @@
 2 Essence Warden
 3 Overgrown Tomb
 1 Tajuru Paragon
-2 Tajuru Paragon
 2 Craterhoof Behemoth
+2 Tajuru Paragon
 3 Tajuru Paragon
 1 Mutavault
 3 Lead the Stampede
-3 Joraga Warcaller
-4 Bramblewood Paragon
 12 Forest
 1 Westvale Abbey
 1 Castle Garenbrig
