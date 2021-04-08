@@ -1,19 +1,19 @@
-7 Island
+2 Brazen Borrower
 3 Glacial Fortress
 4 Glacial Fortress
+8 Island
+3 Plains
 1 Nebelgast Herald
 2 Nebelgast Herald
 1 Collected Company
 2 Collected Company
 3 Collected Company
 4 Collected Company
-8 Island
 1 Breeding Pool
 2 Breeding Pool
 1 Branchloft Pathway
 1 Botanical Sanctum
 2 Botanical Sanctum
-3 Plains
 1 Barkchannel Pathway
 2 Barkchannel Pathway
 1 Temple Garden
@@ -24,19 +24,12 @@
 3 Brazen Borrower
 3 Breeding Pool
 3 Botanical Sanctum
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
-5 Snow-Covered Island
-6 Snow-Covered Island
-7 Snow-Covered Island
 1 Glasspool Mimic
 2 Glasspool Mimic
 1 Miscast
 9 Island
-1 Snow-Covered Plains
-2 Snow-Covered Plains
+1 Port Town
+2 Port Town
 3 Glasspool Mimic
 1 Skyclave Apparition
 2 Skyclave Apparition
@@ -46,13 +39,19 @@
 3 Nebelgast Herald
 4 Botanical Sanctum
 1 Spell Pierce
+1 Snow-Covered Island
+2 Snow-Covered Island
 2 Miscast
+3 Snow-Covered Island
+4 Snow-Covered Island
+5 Snow-Covered Island
+6 Snow-Covered Island
+7 Snow-Covered Island
 8 Snow-Covered Island
+1 Snow-Covered Plains
+2 Snow-Covered Plains
 1 Mutavault
 2 Mutavault
-1 Port Town
-2 Port Town
-3 Snow-Covered Plains
 1 Unsubstantiate
 1 Unclaimed Territory
 2 Unclaimed Territory
@@ -61,6 +60,8 @@
 1 Bygone Bishop
 3 Temple Garden
 4 Temple Garden
+3 Port Town
+4 Port Town
 4 Brazen Borrower
 1 Llanowar Elves
 2 Llanowar Elves

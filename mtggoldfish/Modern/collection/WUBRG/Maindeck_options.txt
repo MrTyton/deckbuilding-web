@@ -5,25 +5,25 @@
 2 Pillar of the Paruns
 1 Kolaghan's Command
 1 Island
+4 Misty Rainforest
 1 Plains
 3 Pillar of the Paruns
 4 Omnath, Locus of Creation
-4 Misty Rainforest
 1 Dreadbore
 2 Verdant Catacombs
+1 Snow-Covered Forest
 1 Swamp
 2 Assassin's Trophy
 4 Teferi, Time Raveler
 1 Nahiri, the Harbinger
-1 Snow-Covered Forest
+1 Snow-Covered Island
+1 Snow-Covered Plains
 2 Nahiri, the Harbinger
 3 Assassin's Trophy
 2 Forest
-1 Snow-Covered Island
-1 Snow-Covered Plains
+1 Snow-Covered Mountain
 4 Assassin's Trophy
 4 Windswept Heath
-1 Snow-Covered Mountain
 1 Abrupt Decay
 1 Raugrin Triome
 1 Hallowed Fountain
@@ -65,6 +65,7 @@
 1 Deputy of Detention
 2 Lurrus of the Dream-Den
 1 Knight of Autumn
+1 Flooded Strand
 1 Living End
 1 Curator of Mysteries
 1 Windcaller Aven
@@ -83,7 +84,8 @@
 4 Striped Riverwinder
 4 Curator of Mysteries
 4 Windcaller Aven
-1 Flooded Strand
+2 Flooded Strand
+3 Flooded Strand
 1 Force of Negation
 2 Force of Negation
 3 Force of Negation
@@ -92,8 +94,6 @@
 3 Ardent Plea
 4 Street Wraith
 4 Force of Negation
-2 Flooded Strand
-3 Flooded Strand
 4 Flooded Strand
 1 Spirebluff Canal
 1 Brazen Borrower
@@ -133,11 +133,11 @@
 1 Deafening Clarion
 1 As Foretold
 4 Living End
+2 Valki, God of Lies
 1 Goblin Cratermaker
 1 Lithoform Blight
 1 Ephemerate
 4 Birds of Paradise
-2 Valki, God of Lies
 1 Trial of Ambition
 1 Fulminator Mage
 2 As Foretold
@@ -151,11 +151,18 @@
 3 Verdant Catacombs
 2 Island
 3 Island
-1 Sword of Feast and Famine
 1 Stoneforge Mystic
+1 Sword of Feast and Famine
 1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
+1 Zagoth Triome
+1 Felidar Guardian
+1 Saheeli Rai
+1 Oath of Nissa
+2 Saheeli Rai
+2 Oath of Nissa
+3 Saheeli Rai
 3 Forest
 1 Growth Spiral
 2 Steam Vents
@@ -169,17 +176,17 @@
 2 Electrodominance
 2 Fiery Islet
 2 Crashing Footfalls
-3 Spirebluff Canal
 3 Remand
 3 Crashing Footfalls
+3 Spirebluff Canal
 3 Electrodominance
-4 Remand
 4 Electrodominance
 4 Spirebluff Canal
+4 Remand
 4 Crashing Footfalls
 4 Stoneforge Mystic
-1 Nissa of Shadowed Boughs
 1 Savai Triome
+1 Nissa of Shadowed Boughs
 1 Cryptic Command
 1 Waker of Waves
 2 Waker of Waves
@@ -195,6 +202,9 @@
 3 Thoughtseize
 4 Fatal Push
 4 Thoughtseize
+2 Felidar Guardian
+3 Felidar Guardian
+3 Oath of Nissa
 1 Architects of Will
 2 Architects of Will
 5 Island
@@ -212,17 +222,10 @@
 1 Voice of Resurgence
 1 Seachrome Coast
 1 Glittering Wish
-1 Zagoth Triome
-1 Felidar Guardian
-1 Saheeli Rai
-1 Oath of Nissa
-2 Saheeli Rai
-2 Oath of Nissa
-3 Saheeli Rai
 1 Klothys, God of Destiny
 1 Ancestral Vision
-1 Tolaria West
 1 Spell Pierce
+1 Tolaria West
 2 Spell Pierce
 3 Spell Pierce
 1 Glacial Fortress
@@ -235,6 +238,10 @@
 8 Island
 3 Glassdust Hulk
 4 Glassdust Hulk
+1 Path to Exile
+1 Lightning Bolt
+2 Path to Exile
+2 Lightning Bolt
 2 Hallowed Fountain
 1 Polluted Delta
 1 Imposing Vantasaur
@@ -244,6 +251,7 @@
 4 Glittering Wish
 1 Cosima, God of the Voyage
 1 Archon of Emeria
+1 Maelstrom Pulse
 1 Oath of Kaya
 1 Spike Feeder
 1 Heliod, Sun-Crowned
@@ -251,28 +259,24 @@
 1 Omen of the Dead
 1 Ashiok, Dream Render
 1 Binding the Old Gods
-1 Maelstrom Pulse
 1 Unearth
 2 Ephemerate
 3 Ephemerate
-1 Marsh Flats
 1 Tolsimir, Friend to Wolves
+1 Marsh Flats
 1 Coiling Oracle
 1 Bloodstained Mire
+2 Marsh Flats
 2 Coiling Oracle
 2 Bloodstained Mire
-2 Marsh Flats
 3 Coiling Oracle
 4 Coiling Oracle
+1 Rimewood Falls
 1 Highland Forest
 1 Golos, Tireless Pilgrim
 1 Huntmaster of the Fells
 1 Kaya, Orzhov Usurper
-1 Rimewood Falls
-2 Felidar Guardian
 2 Ice-Fang Coatl
-3 Felidar Guardian
-3 Oath of Nissa
 4 Felidar Guardian
 4 Oath of Nissa
 3 Omen of the Forge
@@ -280,8 +284,11 @@
 4 Growth Spiral
 1 Vendilion Clique
 1 Mystical Dispute
+1 Urza's Ruinous Blast
 1 Valakut Awakening
 2 Valakut Awakening
+1 Commandeer
+2 Commandeer
 1 Bloodbraid Elf
 1 Lavinia, Azorius Renegade
 2 Lavinia, Azorius Renegade
@@ -293,13 +300,13 @@
 3 Hallowed Fountain
 2 Snow-Covered Island
 3 Snow-Covered Island
-1 Sunken Ruins
 1 Faerie Macabre
 1 Adarkar Wastes
 1 Generous Gift
+1 Sunken Ruins
 1 Failure/Comply
-2 Seachrome Coast
 2 Imposing Vantasaur
+2 Seachrome Coast
 2 Faerie Macabre
 2 Generous Gift
 2 Failure/Comply

@@ -1,33 +1,33 @@
 1 Agadeem's Awakening
 1 Drown in the Loch
-1 Soaring Thought-Thief
-1 Thieves' Guild Enforcer
 1 Into the Story
 1 Clearwater Pathway
 1 Cling to Dust
 1 Thoughtseize
 1 Urborg, Tomb of Yawgmoth
+1 Thieves' Guild Enforcer
+1 Soaring Thought-Thief
 1 Watery Grave
-2 Drown in the Loch
 2 Agadeem's Awakening
-2 Thieves' Guild Enforcer
-2 Soaring Thought-Thief
+2 Drown in the Loch
 2 Into the Story
 2 Watery Grave
 2 Thoughtseize
+2 Soaring Thought-Thief
+2 Thieves' Guild Enforcer
 2 Clearwater Pathway
-3 Soaring Thought-Thief
+3 Watery Grave
 3 Drown in the Loch
 3 Thieves' Guild Enforcer
-3 Watery Grave
 3 Clearwater Pathway
 3 Thoughtseize
+3 Soaring Thought-Thief
 4 Clearwater Pathway
-4 Soaring Thought-Thief
 4 Watery Grave
-4 Thieves' Guild Enforcer
-4 Drown in the Loch
+4 Soaring Thought-Thief
 4 Thoughtseize
+4 Drown in the Loch
+4 Thieves' Guild Enforcer
 4 Kitesail Freebooter
 4 Concealed Courtyard
 1 Swamp
@@ -151,6 +151,15 @@
 2 Eliminate
 2 Jace, Vryn's Prodigy
 2 Darkbore Pathway
+1 Zagoth Triome
+1 Of One Mind
+2 Of One Mind
+2 Cling to Dust
+2 Zagoth Triome
+3 Merfolk Windrobber
+3 Of One Mind
+3 Agadeem's Awakening
+4 Into the Story
 1 Knight of Autumn
 1 Temple of Plenty
 1 Archangel Avacyn
@@ -162,15 +171,36 @@
 3 Sunpetal Grove
 3 Knight of Autumn
 4 Sunpetal Grove
-1 Zagoth Triome
-1 Of One Mind
-2 Of One Mind
-2 Cling to Dust
-2 Zagoth Triome
-3 Merfolk Windrobber
-3 Of One Mind
-3 Agadeem's Awakening
-4 Into the Story
+1 Overgrown Tomb
+1 Renegade Rallier
+1 Acquisitions Expert
+1 Judith, the Scourge Diva
+1 Kaervek, the Spiteful
+1 Pyre of Heroes
+1 Llanowar Wastes
+1 Archfiend's Vessel
+1 Hostage Taker
+1 Basri's Lieutenant
+1 Drannith Magistrate
+1 Elite Guardmage
+1 General Kudro of Drannith
+1 Xathrid Necromancer
+2 Llanowar Wastes
+2 Renegade Rallier
+2 Acquisitions Expert
+2 Archfiend's Vessel
+2 Pyre of Heroes
+3 Acquisitions Expert
+3 Unclaimed Territory
+3 Archfiend's Vessel
+3 Llanowar Wastes
+3 Pyre of Heroes
+3 Renegade Rallier
+3 Mana Confluence
+4 Archfiend's Vessel
+4 Pyre of Heroes
+4 Mana Confluence
+4 Unclaimed Territory
 1 Glasspool Mimic
 1 Hallowed Fountain
 1 Hengegate Pathway
@@ -179,9 +209,9 @@
 2 Hallowed Fountain
 2 Glasspool Mimic
 2 Hengegate Pathway
-2 Oketra's Monument
 2 Selfless Spirit
 2 Militia Bugler
+2 Oketra's Monument
 3 Hengegate Pathway
 3 Hallowed Fountain
 3 Oketra's Monument
@@ -189,42 +219,12 @@
 3 Selfless Spirit
 4 Hengegate Pathway
 4 Selfless Spirit
-4 Skyclave Apparition
 4 Hallowed Fountain
+4 Skyclave Apparition
+4 Charming Prince
 4 Militia Bugler
 4 Oketra's Monument
 4 Reflector Mage
-4 Charming Prince
-1 Overgrown Tomb
-1 Judith, the Scourge Diva
-1 Renegade Rallier
-1 Llanowar Wastes
-1 Archfiend's Vessel
-1 Hostage Taker
-1 Drannith Magistrate
-1 Basri's Lieutenant
-1 Elite Guardmage
-1 Acquisitions Expert
-1 Pyre of Heroes
-1 Kaervek, the Spiteful
-1 General Kudro of Drannith
-1 Xathrid Necromancer
-2 Llanowar Wastes
-2 Acquisitions Expert
-2 Renegade Rallier
-2 Archfiend's Vessel
-2 Pyre of Heroes
-3 Acquisitions Expert
-3 Archfiend's Vessel
-3 Llanowar Wastes
-3 Pyre of Heroes
-3 Unclaimed Territory
-3 Mana Confluence
-3 Renegade Rallier
-4 Archfiend's Vessel
-4 Unclaimed Territory
-4 Pyre of Heroes
-4 Mana Confluence
 1 Gideon, Ally of Zendikar
 1 Starnheim Unleashed
 1 Shefet Dunes
@@ -257,8 +257,8 @@
 2 Lightning Strike
 3 Lightning Strike
 1 Bonders' Enclave
-1 Nimble Obstructionist
 1 Embercleave
+1 Nimble Obstructionist
 1 Klothys, God of Destiny
 1 Boon Satyr
 1 Shivan Reef
@@ -288,8 +288,8 @@
 3 Magmatic Channeler
 4 Magmatic Channeler
 1 Woodland Cemetery
-1 Traverse the Ulvenwald
 1 Satyr Wayfinder
+1 Traverse the Ulvenwald
 1 Claim / Fame
 1 Soulflayer
 1 Grisly Salvage
@@ -301,8 +301,8 @@
 1 Samut, Voice of Dissent
 1 Grapple with the Past
 2 Woodland Cemetery
-2 Traverse the Ulvenwald
 2 Satyr Wayfinder
+2 Traverse the Ulvenwald
 2 Claim / Fame
 2 Grisly Salvage
 2 Soulflayer
@@ -403,9 +403,9 @@
 3 Seraph of the Scales
 3 Crackling Doom
 3 History of Benalia
+4 Lightning Strike
 4 History of Benalia
 4 Crackling Doom
-4 Lightning Strike
 1 Gods Willing
 1 Reckless Rage
 1 Needleverge Pathway
@@ -421,13 +421,13 @@
 1 Monastery Swiftspear
 1 Dreadhorde Arcanist
 2 Tenth District Legionnaire
-2 Needleverge Pathway
 2 Gird for Battle
 2 Monastery Swiftspear
 2 Boros Charm
 2 Gods Willing
 2 Soul-Scar Mage
 2 Reckless Rage
+2 Needleverge Pathway
 2 Dreadhorde Arcanist
 2 Inspiring Vantage
 2 Titan's Strength
@@ -435,10 +435,10 @@
 2 Favored Hoplite
 2 Defiant Strike
 3 Tenth District Legionnaire
-3 Needleverge Pathway
 3 Inspiring Vantage
 3 Gird for Battle
 3 Battlefield Forge
+3 Needleverge Pathway
 3 Favored Hoplite
 3 Defiant Strike
 3 Monastery Swiftspear
@@ -448,8 +448,8 @@
 3 Dreadhorde Arcanist
 3 Soul-Scar Mage
 4 Tenth District Legionnaire
-4 Needleverge Pathway
 4 Battlefield Forge
+4 Needleverge Pathway
 4 Soul-Scar Mage
 4 Reckless Rage
 4 Defiant Strike

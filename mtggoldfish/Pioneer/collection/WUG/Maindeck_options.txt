@@ -1,50 +1,5 @@
-1 Whirler Rogue
-1 Renegade Rallier
-1 Rogue Refiner
-1 Raugrin Triome
-2 Savai Triome
-2 Blooming Marsh
-2 Unclaimed Territory
-2 Pyre of Heroes
-2 Dire Tactics
-2 Xathrid Necromancer
-2 Concealed Courtyard
-2 Inspiring Vantage
-2 Indatha Triome
-3 Blooming Marsh
-3 Unclaimed Territory
-3 Pyre of Heroes
-3 Concealed Courtyard
-3 Dire Tactics
-4 Pyre of Heroes
-4 Unclaimed Territory
-4 Concealed Courtyard
-2 Hallowed Fountain
-3 Hallowed Fountain
-4 Hallowed Fountain
-1 Botanical Sanctum
-1 Glasspool Mimic
-1 Oketra's Monument
-1 Hengegate Pathway
-1 Collected Company
-2 Glasspool Mimic
-2 Botanical Sanctum
-2 Oketra's Monument
-2 Hengegate Pathway
-2 Collected Company
-3 Selfless Spirit
-3 Botanical Sanctum
-3 Collected Company
-3 Oketra's Monument
-3 Hengegate Pathway
-4 Selfless Spirit
-4 Reflector Mage
-4 Collected Company
-4 Hengegate Pathway
-4 Oketra's Monument
-4 Militia Bugler
-1 Castle Ardenvale
 1 Luminarch Aspirant
+1 Castle Ardenvale
 2 Castle Ardenvale
 2 Plains
 2 Luminarch Aspirant
@@ -56,12 +11,12 @@
 6 Plains
 1 Halvar, God of Battle
 1 Archon of Emeria
-1 Dromoka's Command
 1 Toski, Bearer of Secrets
+1 Dromoka's Command
 1 Esika's Chariot
 1 Sunpetal Grove
-1 Forest
 1 Shefet Dunes
+1 Forest
 2 Toski, Bearer of Secrets
 2 Halvar, God of Battle
 2 Dromoka's Command
@@ -77,6 +32,60 @@
 3 Dromoka's Command
 3 Toski, Bearer of Secrets
 4 Sunpetal Grove
+1 Ornithopter
+1 Darksteel Citadel
+1 Gingerbrute
+1 Hope of Ghirapur
+1 Toolcraft Exemplar
+1 Stubborn Denial
+1 Stonecoil Serpent
+1 Springleaf Drum
+1 All That Glitters
+1 Mutavault
+1 Ensoul Artifact
+1 Spire of Industry
+1 Ghostfire Blade
+1 Shrapnel Blast
+2 Ornithopter
+2 Darksteel Citadel
+2 Toolcraft Exemplar
+2 Hope of Ghirapur
+2 Stubborn Denial
+2 Stonecoil Serpent
+2 Springleaf Drum
+2 Mutavault
+2 All That Glitters
+2 Shrapnel Blast
+2 Gingerbrute
+2 Spire of Industry
+2 Ensoul Artifact
+2 Ghostfire Blade
+3 Mana Confluence
+3 Ornithopter
+3 Toolcraft Exemplar
+3 Ghostfire Blade
+3 Gingerbrute
+3 Spire of Industry
+3 Shrapnel Blast
+3 Darksteel Citadel
+3 All That Glitters
+3 Stonecoil Serpent
+3 Springleaf Drum
+3 Ensoul Artifact
+3 Mutavault
+4 Mana Confluence
+4 Ornithopter
+4 Spire of Industry
+4 Toolcraft Exemplar
+4 Gingerbrute
+4 Ghostfire Blade
+4 Mutavault
+4 Springleaf Drum
+4 Ensoul Artifact
+4 Darksteel Citadel
+4 Stonecoil Serpent
+4 All That Glitters
+4 Shrapnel Blast
 1 Banishing Light
 1 Gideon, Ally of Zendikar
 1 Field of Ruin
@@ -93,17 +102,16 @@
 2 Field of Ruin
 2 Kytheon, Hero of Akros
 2 Glass Casket
-2 Brimaz, King of Oreskos
+2 Declaration in Stone
 2 Archangel of Tithes
 2 Gisela, the Broken Blade
 2 Gideon Blackblade
 2 Ajani, Adversary of Tyrants
-2 Declaration in Stone
+2 Brimaz, King of Oreskos
 3 Castle Ardenvale
 3 Declaration in Stone
 3 Glass Casket
 3 Gideon Blackblade
-4 Declaration in Stone
 7 Plains
 8 Plains
 9 Plains
@@ -116,57 +124,4 @@
 16 Plains
 17 Plains
 18 Plains
-1 Ornithopter
-1 Darksteel Citadel
-1 Hope of Ghirapur
-1 Gingerbrute
-1 Stubborn Denial
-1 Stonecoil Serpent
-1 Springleaf Drum
-1 Toolcraft Exemplar
-1 Ghostfire Blade
-1 All That Glitters
-1 Shrapnel Blast
-1 Mutavault
-1 Ensoul Artifact
-1 Spire of Industry
-2 Ornithopter
-2 Darksteel Citadel
-2 Hope of Ghirapur
-2 Stubborn Denial
-2 Stonecoil Serpent
-2 Springleaf Drum
-2 Mutavault
-2 Toolcraft Exemplar
-2 All That Glitters
-2 Shrapnel Blast
-2 Gingerbrute
-2 Spire of Industry
-2 Ensoul Artifact
-2 Ghostfire Blade
-3 Mana Confluence
-3 Ornithopter
-3 Ghostfire Blade
-3 Gingerbrute
-3 Spire of Industry
-3 Shrapnel Blast
-3 Darksteel Citadel
-3 All That Glitters
-3 Stonecoil Serpent
-3 Springleaf Drum
-3 Toolcraft Exemplar
-3 Ensoul Artifact
-3 Mutavault
-4 Mana Confluence
-4 Ornithopter
-4 Spire of Industry
-4 Gingerbrute
-4 Ghostfire Blade
-4 Mutavault
-4 Springleaf Drum
-4 Ensoul Artifact
-4 Darksteel Citadel
-4 Toolcraft Exemplar
-4 Stonecoil Serpent
-4 All That Glitters
-4 Shrapnel Blast
+4 Declaration in Stone

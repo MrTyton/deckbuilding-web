@@ -1,9 +1,9 @@
+1 Sacred Foundry
 1 Restoration Angel
 1 Kiki-Jiki, Mirror Breaker
 1 Eternal Witness
 1 Magus of the Moon
 1 Utopia Sprawl
-1 Sacred Foundry
 1 Wall of Blossoms
 2 Restoration Angel
 2 Eternal Witness
@@ -34,6 +34,9 @@
 2 Snow-Covered Island
 4 Spell Queller
 1 Seasoned Pyromancer
+2 Seasoned Pyromancer
+3 Seasoned Pyromancer
+4 Seasoned Pyromancer
 1 Chord of Calling
 1 Gilded Goose
 1 Eidolon of Rhetoric
@@ -42,17 +45,14 @@
 1 Verdant Catacombs
 2 Chord of Calling
 2 Gilded Goose
-2 Seasoned Pyromancer
 3 Chord of Calling
 3 Gilded Goose
-3 Seasoned Pyromancer
 4 Chord of Calling
-4 Seasoned Pyromancer
+1 Lightning Bolt
 1 Oust
 2 Oust
 3 Oust
 4 Oust
-1 Lightning Bolt
 1 Spell Snare
 1 Jace, the Mind Sculptor
 2 Batterskull
@@ -69,8 +69,8 @@
 1 Prismatic Vista
 1 Voice of Resurgence
 1 Eldritch Evolution
-1 Overgrown Tomb
 1 Valki, God of Lies
+1 Overgrown Tomb
 1 Primal Command
 1 Bring to Light
 2 Eldritch Evolution
@@ -84,6 +84,7 @@
 4 Teferi, Time Raveler
 4 Bring to Light
 4 Prismatic Vista
+2 Lightning Bolt
 2 Fire-Lit Thicket
 1 Auriok Champion
 3 Wall of Omens
@@ -98,10 +99,107 @@
 2 Field of Ruin
 2 Ice-Fang Coatl
 2 Scalding Tarn
-2 Lightning Bolt
 2 Flooded Strand
+3 Ice-Fang Coatl
 3 Snow-Covered Island
 3 Flooded Strand
-3 Ice-Fang Coatl
-4 Wrenn and Six
 4 Ice-Fang Coatl
+4 Wrenn and Six
+1 Mountain
+1 Plains
+2 Mountain
+3 Lightning Bolt
+4 Lightning Bolt
+1 Spirebluff Canal
+1 Saheeli Rai
+1 Felidar Guardian
+1 Lotus Field
+1 Temple of Epiphany
+1 Tale's End
+1 Cleansing Wildfire
+1 Island
+1 Flagstones of Trokair
+1 Showdown of the Skalds
+1 Blood Sun
+2 Spirebluff Canal
+2 Saheeli Rai
+2 Felidar Guardian
+2 Temple of Epiphany
+2 Tale's End
+2 Cleansing Wildfire
+2 Island
+2 Blood Sun
+2 Lotus Field
+2 Showdown of the Skalds
+2 Flagstones of Trokair
+2 Raugrin Triome
+3 Saheeli Rai
+3 Spirebluff Canal
+3 Felidar Guardian
+3 Temple of Epiphany
+3 Cleansing Wildfire
+3 Showdown of the Skalds
+3 Tale's End
+3 Lotus Field
+3 Flagstones of Trokair
+3 Blood Sun
+4 Saheeli Rai
+4 Spirebluff Canal
+4 Blood Sun
+4 Felidar Guardian
+4 Temple of Epiphany
+4 Cleansing Wildfire
+4 Lotus Field
+4 Showdown of the Skalds
+4 Flagstones of Trokair
+4 Tale's End
+1 Smuggler's Copter
+1 Embercleave
+1 Mutavault
+1 Dwarven Mine
+1 Magda, Brazen Outlaw
+1 Apostle's Blessing
+1 Galvanic Blast
+1 Depala, Pilot Exemplar
+1 Aether Vial
+1 Bloodstained Mire
+1 Universal Automaton
+1 Cavern of Souls
+1 Adaptive Automaton
+1 Eldrazi Monument
+1 Toolcraft Exemplar
+1 Veteran Motorist
+2 Bloodstained Mire
+2 Smuggler's Copter
+2 Sacred Foundry
+2 Magda, Brazen Outlaw
+2 Galvanic Blast
+2 Apostle's Blessing
+2 Toolcraft Exemplar
+2 Aether Vial
+2 Universal Automaton
+2 Depala, Pilot Exemplar
+2 Dwarven Mine
+2 Cavern of Souls
+2 Veteran Motorist
+3 Cavern of Souls
+3 Galvanic Blast
+3 Sacred Foundry
+3 Magda, Brazen Outlaw
+3 Smuggler's Copter
+3 Apostle's Blessing
+3 Toolcraft Exemplar
+3 Veteran Motorist
+3 Dwarven Mine
+3 Depala, Pilot Exemplar
+3 Aether Vial
+3 Arid Mesa
+3 Mountain
+4 Arid Mesa
+4 Smuggler's Copter
+4 Magda, Brazen Outlaw
+4 Veteran Motorist
+4 Aether Vial
+4 Sacred Foundry
+4 Galvanic Blast
+4 Toolcraft Exemplar

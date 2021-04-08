@@ -161,8 +161,8 @@
 4 Bloodstained Mire
 1 Scourge of the Skyclaves
 1 Blood Crypt
-2 Blood Crypt
 2 Scourge of the Skyclaves
+2 Blood Crypt
 3 Blood Crypt
 3 Scourge of the Skyclaves
 4 Scourge of the Skyclaves
@@ -191,16 +191,12 @@
 2 Castle Vantress
 1 Behold the Multiverse
 2 Behold the Multiverse
-1 Sleight of Hand
-2 Sleight of Hand
-3 Sleight of Hand
-4 Sleight of Hand
 1 Ice-Fang Coatl
 1 Snow-Covered Forest
 1 Firespout
-1 Lonely Sandbar
 1 Search for Azcanta
 1 Wrenn and Six
+1 Lonely Sandbar
 2 Ice-Fang Coatl
 2 Snow-Covered Forest
 2 Breeding Pool
@@ -209,6 +205,10 @@
 3 Wrenn and Six
 4 Ice-Fang Coatl
 4 Wrenn and Six
+1 Sleight of Hand
+2 Sleight of Hand
+3 Sleight of Hand
+4 Sleight of Hand
 3 Abbot of Keral Keep
 4 Abbot of Keral Keep
 4 Blood Crypt
@@ -266,16 +266,6 @@
 2 Runaway Steam-Kin
 3 Burst Lightning
 4 Deceiver Exarch
-1 Swamp
-1 Fatal Push
-2 Fatal Push
-4 Atarka's Command
-1 Wild Nacatl
-2 Wild Nacatl
-3 Sacred Foundry
-3 Arid Mesa
-3 Wild Nacatl
-4 Wild Nacatl
 1 Hooting Mandrills
 2 Hooting Mandrills
 3 Hooting Mandrills
@@ -283,6 +273,16 @@
 3 Copperline Gorge
 4 Seal of Fire
 4 Copperline Gorge
+1 Wild Nacatl
+2 Wild Nacatl
+3 Arid Mesa
+3 Wild Nacatl
+3 Sacred Foundry
+4 Wild Nacatl
+1 Swamp
+1 Fatal Push
+2 Fatal Push
+4 Atarka's Command
 1 Inferno Titan
 1 Stubborn Denial
 1 Faerie Conclave
@@ -362,7 +362,7 @@
 1 Izzet Charm
 1 Pestermite
 1 Grim Lavamancer
-2 Izzet Charm
 2 Vendilion Clique
+2 Izzet Charm
 3 Shark Typhoon
 4 Sulfur Falls
