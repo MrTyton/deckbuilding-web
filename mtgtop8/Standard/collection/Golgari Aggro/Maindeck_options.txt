@@ -72,10 +72,10 @@
 2 Castle Locthwain
 1 Fynn, the Fangbearer
 2 Fynn, the Fangbearer
-3 Jungle Hollow
 3 Fynn, the Fangbearer
-4 Jungle Hollow
+3 Jungle Hollow
 4 Fynn, the Fangbearer
+4 Jungle Hollow
 6 Swamp
 1 Tajuru Blightblade
 2 Oakhame Adversary
@@ -109,11 +109,11 @@
 2 Scavenging Ooze
 1 Evolving Wilds
 1 Ranger's Guile
+1 Withercrown
 1 Chevill, Bane of Monsters
 1 Wildborn Preserver
 1 Extinction Event
 1 Fully Grown
-1 Withercrown
 2 Fully Grown
 3 Fully Grown
 4 Oakhame Adversary
@@ -121,9 +121,9 @@
 8 Swamp
 1 Ugin, the Spirit Dragon
 1 Thrashing Brontodon
-1 Sarulf, Realm Eater
-1 Frantic Inventory
 1 Ashiok, Nightmare Muse
+1 Frantic Inventory
+1 Sarulf, Realm Eater
 1 Port of Karfell
 1 Chainweb Aracnir
 1 Poison the Cup
@@ -150,16 +150,16 @@
 1 Massacre Wurm
 1 Eliminate
 1 Faceless Haven
-2 Questing Beast
 2 Rankle, Master of Pranks
+2 Questing Beast
 2 Eliminate
 2 Faceless Haven
 3 Faceless Haven
 4 Faceless Haven
 1 Snakeskin Veil
 1 Stonecoil Serpent
-1 Bonders' Enclave
 1 Ashaya, Soul of the Wild
+1 Bonders' Enclave
 1 Tangled Florahedron
 1 Garruk, Unleashed
 1 Primal Might
@@ -178,10 +178,10 @@
 3 Stonecoil Serpent
 4 Stonecoil Serpent
 4 Gemrazer
+1 Priest of the Haunted Edge
 1 Blood on the Snow
 1 Dead Weight
 1 Cling to Dust
-1 Priest of the Haunted Edge
 1 Brokkos, Apex of Forever
 1 Excavation Mole
 2 Priest of the Haunted Edge
@@ -243,8 +243,8 @@
 4 Cragcrown Pathway
 4 Blightstep Pathway
 9 Snow-Covered Forest
-1 Fiend Artisan
 1 Battle Mammoth
+1 Fiend Artisan
 1 Garruk's Uprising
 1 Wildwood Patrol
 1 Ram Through

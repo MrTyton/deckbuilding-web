@@ -62,8 +62,8 @@
 3 Mountain
 4 The Birth of Meletis
 4 Fire Prophecy
-4 Soul Sear
 4 Transmogrify
+4 Soul Sear
 4 Harmonious Archon
 4 Mountain
 4 Needleverge Pathway
@@ -78,8 +78,8 @@
 4 Swamp
 1 Calix, Destiny's Hand
 1 Ugin, the Spirit Dragon
-1 Garruk, Cursed Huntsman
 1 Cultivate
+1 Garruk, Cursed Huntsman
 1 Vivien, Monsters' Advocate
 1 Skyclave Apparition
 1 Shatter the Sky
@@ -91,10 +91,10 @@
 1 Crawling Barrens
 2 Ugin, the Spirit Dragon
 2 Cultivate
+2 Garruk, Cursed Huntsman
 2 Skyclave Apparition
 2 Shatter the Sky
 2 Banishing Light
-2 Garruk, Cursed Huntsman
 2 Crawling Barrens
 2 Eerie Ultimatum
 3 Cultivate
@@ -130,7 +130,6 @@
 2 Llanowar Visionary
 3 Llanowar Visionary
 1 Kogla, the Titan Ape
-1 Tergrid, God of Fright
 1 Snowfield Sinkhole
 1 Evolving Wilds
 1 Bala Ged Recovery
@@ -141,6 +140,7 @@
 1 Snow-Covered Plains
 1 Sarulf's Packmate
 1 Arctic Treeline
+1 Tergrid, God of Fright
 1 Snow-Covered Forest
 1 Grasp of Darkness
 1 Sculptor of Winter
@@ -151,12 +151,12 @@
 1 Shepherd of the Flock
 1 Skull Raid
 2 Snowfield Sinkhole
-2 Evolving Wilds
 2 Arctic Treeline
+2 Evolving Wilds
 2 Shimmerdrift Vale
 2 Sarulf's Packmate
-2 Elderfang Disciple
 2 Snow-Covered Forest
+2 Elderfang Disciple
 2 Snow-Covered Swamp
 2 Skull Raid
 2 Woodland Chasm

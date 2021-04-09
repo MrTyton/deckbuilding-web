@@ -191,6 +191,10 @@
 2 Castle Vantress
 1 Behold the Multiverse
 2 Behold the Multiverse
+1 Sleight of Hand
+2 Sleight of Hand
+3 Sleight of Hand
+4 Sleight of Hand
 1 Ice-Fang Coatl
 1 Snow-Covered Forest
 1 Firespout
@@ -205,10 +209,6 @@
 3 Wrenn and Six
 4 Ice-Fang Coatl
 4 Wrenn and Six
-1 Sleight of Hand
-2 Sleight of Hand
-3 Sleight of Hand
-4 Sleight of Hand
 3 Abbot of Keral Keep
 4 Abbot of Keral Keep
 4 Blood Crypt
@@ -246,17 +246,17 @@
 2 Flusterstorm
 1 Peek
 2 Peek
-1 Dispel
-2 Spell Pierce
-3 Ancestral Vision
-1 Snakeskin Veil
 1 Brushfire Elemental
+1 Snakeskin Veil
 1 Forest
 1 Expedite
 2 Snakeskin Veil
 2 Brushfire Elemental
-3 Snakeskin Veil
 3 Brushfire Elemental
+3 Snakeskin Veil
+1 Dispel
+2 Spell Pierce
+3 Ancestral Vision
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Mystic Sanctuary
@@ -266,6 +266,16 @@
 2 Runaway Steam-Kin
 3 Burst Lightning
 4 Deceiver Exarch
+1 Swamp
+1 Fatal Push
+2 Fatal Push
+4 Atarka's Command
+1 Wild Nacatl
+2 Wild Nacatl
+3 Sacred Foundry
+3 Wild Nacatl
+3 Arid Mesa
+4 Wild Nacatl
 1 Hooting Mandrills
 2 Hooting Mandrills
 3 Hooting Mandrills
@@ -273,30 +283,20 @@
 3 Copperline Gorge
 4 Seal of Fire
 4 Copperline Gorge
-1 Wild Nacatl
-2 Wild Nacatl
-3 Sacred Foundry
-3 Wild Nacatl
-3 Arid Mesa
-4 Wild Nacatl
-1 Swamp
-1 Fatal Push
-2 Fatal Push
-4 Atarka's Command
-1 Invasion of the Giants
 1 Inferno Titan
+1 Thryx, the Sudden Storm
 1 Stubborn Denial
 1 Faerie Conclave
 1 Glasspool Mimic
-1 Thryx, the Sudden Storm
-2 Invasion of the Giants
+1 Invasion of the Giants
 2 Inferno Titan
 2 Faerie Conclave
 2 Stubborn Denial
-3 Invasion of the Giants
+2 Invasion of the Giants
 3 Inferno Titan
-4 Invasion of the Giants
+3 Invasion of the Giants
 4 Inferno Titan
+4 Invasion of the Giants
 1 Thrill of Possibility
 1 Forgotten Cave
 1 Arclight Phoenix
