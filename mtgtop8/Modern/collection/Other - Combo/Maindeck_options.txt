@@ -3,10 +3,10 @@
 4 Simian Spirit Guide
 4 Shatterskull Smashing
 1 Snow-Covered Island
+1 Lotus Field
 1 Island
 1 Ideas Unbound
 1 Lonely Sandbar
-1 Lotus Field
 1 Serum Visions
 1 Reach Through Mists
 1 Halimar Depths
@@ -24,13 +24,13 @@
 1 Peer Through Depths
 1 Vizier of Tumbling Sands
 2 Lonely Sandbar
-2 Lotus Field
 2 Psychic Puppetry
 2 Island
 2 Dream's Grip
 2 Reach Through Mists
 2 Peer Through Depths
 2 Vizier of Tumbling Sands
+2 Lotus Field
 2 Spirebluff Canal
 2 Tolaria West
 2 Serum Visions
@@ -42,7 +42,6 @@
 2 Twiddle
 3 Sleight of Hand
 3 Past in Flames
-3 Lotus Field
 3 Serum Visions
 3 Ideas Unbound
 3 Spirebluff Canal
@@ -50,10 +49,11 @@
 3 Lonely Sandbar
 3 Psychic Puppetry
 3 Peer Through Depths
+3 Lotus Field
 3 Dream's Grip
 3 Reach Through Mists
-4 Lotus Field
 4 Sleight of Hand
+4 Lotus Field
 4 Lonely Sandbar
 4 Reach Through Mists
 4 Peer Through Depths
@@ -172,6 +172,14 @@
 4 Talisman of Impulse
 3 Hagra Mauling
 4 Hagra Mauling
+1 Nature's Claim
+1 Leyline of Sanctity
+2 Nature's Claim
+2 Leyline of Sanctity
+3 Leyline of Sanctity
+4 Leyline of Sanctity
+3 Pact of Negation
+4 Bala Ged Recovery
 1 Unburial Rites
 1 Open the Omenpaths
 1 Talisman of Indulgence
@@ -181,16 +189,8 @@
 2 Open the Omenpaths
 3 Open the Omenpaths
 3 Talisman of Indulgence
-4 Open the Omenpaths
 4 Talisman of Indulgence
-1 Nature's Claim
-1 Leyline of Sanctity
-2 Nature's Claim
-2 Leyline of Sanctity
-3 Leyline of Sanctity
-4 Leyline of Sanctity
-3 Pact of Negation
-4 Bala Ged Recovery
+4 Open the Omenpaths
 4 Force of Negation
 4 Teferi, Time Raveler
 1 Emrakul, the Aeons Torn
@@ -199,12 +199,12 @@
 2 Wooded Foothills
 3 Wooded Foothills
 4 Wooded Foothills
-1 Transmogrify
 1 Fire Prophecy
 1 Dwarven Mine
 1 Mountain
 1 Spell Snare
 1 Repeal
+1 Transmogrify
 1 Arid Mesa
 1 Polymorph
 1 Izzet Charm
@@ -216,24 +216,24 @@
 1 Cloudform
 2 Arid Mesa
 2 Mountain
-2 Transmogrify
 2 Remand
-2 Dwarven Mine
 2 Spell Snare
+2 Dwarven Mine
 2 Anger of the Gods
 2 Steam Vents
 2 Cloudform
 2 Raugrin Triome
+2 Transmogrify
 2 Izzet Charm
 2 Lightning Bolt
 2 Polymorph
 3 Steam Vents
-3 Transmogrify
 3 Arid Mesa
 3 Remand
-3 Dwarven Mine
 3 Lightning Bolt
 3 Polymorph
+3 Transmogrify
+3 Dwarven Mine
 4 Arid Mesa
 4 Remand
 4 Polymorph

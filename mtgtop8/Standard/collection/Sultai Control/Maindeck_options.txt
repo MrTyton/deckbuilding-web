@@ -67,8 +67,8 @@
 1 Snow-Covered Swamp
 1 Snow-Covered Island
 2 Snow-Covered Swamp
-2 Snow-Covered Island
 2 Snow-Covered Forest
+2 Snow-Covered Island
 3 Snow-Covered Swamp
 1 Boon of the Wish-Giver
 1 Duress
@@ -90,12 +90,12 @@
 3 Valki, God of Lies
 3 Ketria Triome
 3 Disdainful Stroke
-4 Valki, God of Lies
 4 Mazemind Tome
 4 Shark Typhoon
 4 Ketria Triome
 4 Disdainful Stroke
 4 Negate
+4 Valki, God of Lies
 1 Highland Forest
 1 Tergrid, God of Fright
 1 Feed the Serpent
@@ -106,7 +106,6 @@
 1 Sculptor of Winter
 1 Sarulf's Packmate
 1 Rain of Revelation
-2 Highland Forest
 2 Woodland Chasm
 2 Narfi, Betrayer King
 2 Feed the Serpent
@@ -115,6 +114,7 @@
 2 Llanowar Visionary
 2 Sarulf's Packmate
 2 Rain of Revelation
+2 Highland Forest
 3 Rimewood Falls
 3 Woodland Chasm
 3 Sculptor of Winter

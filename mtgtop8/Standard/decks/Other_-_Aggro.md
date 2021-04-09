@@ -140,7 +140,7 @@
 |                    3|[Edgewall Innkeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473113)         |                     |                                                                                                 |
 |                    4|[Giant Killer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472976)               |                     |                                                                                                 |
 |                    4|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)      |                     |                                                                                                 |
-|                    4|[Shepherd of the Flock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472990)      |                     |                                                                                                 |
 |                    4|[Goldspan Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503751)            |                     |                                                                                                 |
+|                    4|[Shepherd of the Flock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472990)      |                     |                                                                                                 |
 |                    4|[Edgewall Innkeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473113)         |                     |                                                                                                 |
 

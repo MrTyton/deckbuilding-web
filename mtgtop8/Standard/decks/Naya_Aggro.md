@@ -82,7 +82,7 @@
 |                    3|[Toski, Bearer of Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503813)|                     |                                                                                                  |
 |                    1|[Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)          |                     |                                                                                                  |
 |                    2|[Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)          |                     |                                                                                                  |
-|                    3|[Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)          |                     |                                                                                                  |
 |                    4|[Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)          |                     |                                                                                                  |
 |                    4|[Shepherd of the Flock](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472990)   |                     |                                                                                                  |
+|                    3|[Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)          |                     |                                                                                                  |
 

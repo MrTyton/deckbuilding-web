@@ -1,39 +1,21 @@
 4 Luminarch Aspirant
 1 Mountain
 1 Fabled Passage
+2 Fabled Passage
 2 Mountain
 3 Plains
+1 Elder Gargaroth
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-2 Fabled Passage
-3 Mountain
+3 Fabled Passage
 1 Haktos the Unscarred
+3 Mountain
 3 Bonecrusher Giant
 4 Bonecrusher Giant
-3 Fabled Passage
-1 Embercleave
-4 Plains
-1 Elder Gargaroth
 1 Jaspera Sentinel
 2 Jaspera Sentinel
 3 Jaspera Sentinel
 4 Jaspera Sentinel
-1 Stonecoil Serpent
-2 Stonecoil Serpent
-1 Spikefield Hazard
-1 Kargan Intimidator
-2 Spikefield Hazard
-2 Kargan Intimidator
-4 Mountain
-1 Phoenix of Ash
-1 Skyclave Apparition
-1 Robber of the Rich
-2 Phoenix of Ash
-2 Robber of the Rich
-2 Skyclave Apparition
-3 Phoenix of Ash
-3 Skyclave Apparition
-4 Skyclave Apparition
 1 Edgewall Innkeeper
 1 Toski, Bearer of Secrets
 1 Lovestruck Beast
@@ -45,21 +27,19 @@
 3 Toski, Bearer of Secrets
 4 Edgewall Innkeeper
 4 Lovestruck Beast
+1 Embercleave
 3 Forest
 4 Forest
-5 Plains
-6 Plains
-3 Kargan Intimidator
-4 Kargan Intimidator
+4 Plains
 4 Fabled Passage
+1 Stonecoil Serpent
+2 Stonecoil Serpent
+1 Spikefield Hazard
+1 Kargan Intimidator
+2 Spikefield Hazard
+2 Kargan Intimidator
 1 Maul of the Skyclaves
 1 Ox of Agonas
-1 Castle Ardenvale
-1 Banishing Light
-1 Glass Casket
-2 Banishing Light
-2 Glass Casket
-3 Robber of the Rich
 1 Gilded Goose
 1 Clarion Spirit
 1 Veteran Adventurer
@@ -67,16 +47,31 @@
 2 Clarion Spirit
 3 Clarion Spirit
 4 Toski, Bearer of Secrets
+1 Castle Ardenvale
+1 Phoenix of Ash
+1 Robber of the Rich
+1 Skyclave Apparition
+1 Banishing Light
+1 Glass Casket
+2 Phoenix of Ash
+2 Robber of the Rich
+2 Banishing Light
+2 Glass Casket
+2 Skyclave Apparition
+3 Robber of the Rich
+3 Phoenix of Ash
+3 Skyclave Apparition
+4 Skyclave Apparition
 1 Tajuru Paragon
 1 Radha, Heart of Keld
-1 Archpriest of Iona
 1 Wildwood Tracker
+1 Archpriest of Iona
 1 Bronzehide Lion
 1 Lotus Cobra
 2 Embercleave
 2 Tajuru Paragon
-2 Archpriest of Iona
 2 Wildwood Tracker
+2 Archpriest of Iona
 2 Lotus Cobra
 2 Radha, Heart of Keld
 3 Tajuru Paragon
@@ -93,27 +88,30 @@
 4 Faerie Guidemother
 5 Forest
 6 Forest
+4 Mountain
 1 Castle Embereth
 1 Arni Brokenbrow
+1 Hobblefiend
 1 Anax, Hardened in the Forge
 1 Claim the Firstborn
 1 Victory's Envoy
 1 Fearless Liberator
-1 Hobblefiend
 2 Arni Brokenbrow
+2 Hobblefiend
 2 Anax, Hardened in the Forge
 2 Fearless Liberator
 2 Claim the Firstborn
-2 Hobblefiend
-3 Claim the Firstborn
 3 Hobblefiend
+3 Claim the Firstborn
 3 Anax, Hardened in the Forge
 3 Kenrith, the Returned King
 3 Stonecoil Serpent
 4 Basri's Lieutenant
 4 Claim the Firstborn
 4 Stonecoil Serpent
+5 Plains
 5 Mountain
+6 Plains
 6 Mountain
 7 Plains
 7 Mountain
@@ -121,18 +119,18 @@
 9 Mountain
 10 Mountain
 11 Mountain
+1 Sejiri Shelter
 1 Temple of Triumph
 1 Fireblade Charger
 1 Akiri, Fearless Voyager
 1 Kor Blademaster
 1 Kabira Takedown
-1 Sejiri Shelter
 1 Wind-Scarred Crag
 1 Shadowspear
 1 Kargan Warleader
 1 Legion Angel
-2 Temple of Triumph
 2 Wind-Scarred Crag
+2 Temple of Triumph
 2 Fireblade Charger
 2 Akiri, Fearless Voyager
 2 Kor Blademaster
@@ -146,6 +144,7 @@
 3 Kor Blademaster
 3 Kargan Warleader
 3 Maul of the Skyclaves
+3 Kargan Intimidator
 4 Maul of the Skyclaves
 4 Temple of Triumph
 4 Kor Blademaster
@@ -153,3 +152,4 @@
 4 Spikefield Hazard
 4 Seasoned Hallowblade
 4 Kargan Warleader
+4 Kargan Intimidator

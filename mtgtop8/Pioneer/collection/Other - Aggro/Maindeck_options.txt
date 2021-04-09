@@ -134,12 +134,12 @@
 3 Voice of Resurgence
 4 Branchloft Pathway
 4 Voice of Resurgence
-1 Reflector Mage
 1 Mana Confluence
+1 Reflector Mage
 1 Charming Prince
 2 Mana Confluence
-2 Charming Prince
 2 Reflector Mage
+2 Charming Prince
 3 Reflector Mage
 3 Charming Prince
 1 Castle Ardenvale
@@ -151,6 +151,17 @@
 2 Eliminate
 2 Jace, Vryn's Prodigy
 2 Darkbore Pathway
+1 Knight of Autumn
+1 Temple of Plenty
+1 Archangel Avacyn
+1 Dromoka's Command
+2 Sunpetal Grove
+2 Temple of Plenty
+2 Knight of Autumn
+2 Dromoka's Command
+3 Sunpetal Grove
+3 Knight of Autumn
+4 Sunpetal Grove
 1 Zagoth Triome
 1 Of One Mind
 2 Of One Mind
@@ -160,17 +171,30 @@
 3 Of One Mind
 3 Agadeem's Awakening
 4 Into the Story
-1 Knight of Autumn
-1 Temple of Plenty
-1 Archangel Avacyn
-1 Dromoka's Command
-2 Sunpetal Grove
-2 Temple of Plenty
-2 Dromoka's Command
-2 Knight of Autumn
-3 Sunpetal Grove
-3 Knight of Autumn
-4 Sunpetal Grove
+1 Glasspool Mimic
+1 Hallowed Fountain
+1 Hengegate Pathway
+1 Oketra's Monument
+1 Militia Bugler
+2 Hallowed Fountain
+2 Glasspool Mimic
+2 Hengegate Pathway
+2 Oketra's Monument
+2 Selfless Spirit
+2 Militia Bugler
+3 Hengegate Pathway
+3 Hallowed Fountain
+3 Oketra's Monument
+3 Militia Bugler
+3 Selfless Spirit
+4 Hengegate Pathway
+4 Selfless Spirit
+4 Skyclave Apparition
+4 Hallowed Fountain
+4 Reflector Mage
+4 Oketra's Monument
+4 Militia Bugler
+4 Charming Prince
 1 Overgrown Tomb
 1 Renegade Rallier
 1 Acquisitions Expert
@@ -201,37 +225,13 @@
 4 Pyre of Heroes
 4 Mana Confluence
 4 Unclaimed Territory
-1 Glasspool Mimic
-1 Hallowed Fountain
-1 Hengegate Pathway
-1 Oketra's Monument
-1 Militia Bugler
-2 Hallowed Fountain
-2 Glasspool Mimic
-2 Hengegate Pathway
-2 Selfless Spirit
-2 Militia Bugler
-2 Oketra's Monument
-3 Hengegate Pathway
-3 Hallowed Fountain
-3 Oketra's Monument
-3 Militia Bugler
-3 Selfless Spirit
-4 Hengegate Pathway
-4 Selfless Spirit
-4 Hallowed Fountain
-4 Skyclave Apparition
-4 Charming Prince
-4 Militia Bugler
-4 Oketra's Monument
-4 Reflector Mage
 1 Gideon, Ally of Zendikar
 1 Starnheim Unleashed
-1 Shefet Dunes
 1 Esika's Chariot
 1 Call of the Conclave
 1 Wayfaring Temple
 1 Battle for Bretagard
+1 Shefet Dunes
 1 Conclave Tribunal
 2 Starnheim Unleashed
 2 Fortified Village
@@ -266,8 +266,8 @@
 1 Cragcrown Pathway
 1 Reduce / Rubble
 1 Stubborn Denial
-2 Nimble Obstructionist
 2 Klothys, God of Destiny
+2 Nimble Obstructionist
 2 Boon Satyr
 2 Shivan Reef
 2 Reduce / Rubble
@@ -288,8 +288,8 @@
 3 Magmatic Channeler
 4 Magmatic Channeler
 1 Woodland Cemetery
-1 Satyr Wayfinder
 1 Traverse the Ulvenwald
+1 Satyr Wayfinder
 1 Claim / Fame
 1 Soulflayer
 1 Grisly Salvage
@@ -304,11 +304,11 @@
 2 Satyr Wayfinder
 2 Traverse the Ulvenwald
 2 Claim / Fame
+2 Lurrus of the Dream-Den
 2 Grisly Salvage
 2 Soulflayer
 2 Nullhide Ferox
 2 Zetalpa, Primal Dawn
-2 Lurrus of the Dream-Den
 2 Samut, Voice of Dissent
 2 Embodiment of Agonies
 2 Overgrown Tomb
@@ -421,13 +421,13 @@
 1 Monastery Swiftspear
 1 Dreadhorde Arcanist
 2 Tenth District Legionnaire
+2 Gods Willing
+2 Needleverge Pathway
 2 Gird for Battle
 2 Monastery Swiftspear
 2 Boros Charm
-2 Gods Willing
 2 Soul-Scar Mage
 2 Reckless Rage
-2 Needleverge Pathway
 2 Dreadhorde Arcanist
 2 Inspiring Vantage
 2 Titan's Strength
@@ -435,21 +435,21 @@
 2 Favored Hoplite
 2 Defiant Strike
 3 Tenth District Legionnaire
+3 Needleverge Pathway
+3 Gods Willing
 3 Inspiring Vantage
 3 Gird for Battle
 3 Battlefield Forge
-3 Needleverge Pathway
 3 Favored Hoplite
 3 Defiant Strike
 3 Monastery Swiftspear
 3 Boros Charm
-3 Gods Willing
 3 Reckless Rage
 3 Dreadhorde Arcanist
 3 Soul-Scar Mage
 4 Tenth District Legionnaire
-4 Battlefield Forge
 4 Needleverge Pathway
+4 Battlefield Forge
 4 Soul-Scar Mage
 4 Reckless Rage
 4 Defiant Strike
