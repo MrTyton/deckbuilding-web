@@ -32,10 +32,10 @@
 |                     |             |                    1|[Dromoka's Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394558)      |
 |                     |             |                    1|[Mythos of Nethroi](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479617)      |
 |                     |             |                    1|[Garruk, Cursed Huntsman](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473153)|
+|                     |             |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)          |
 |                     |             |                    1|[Lost Legacy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417661)            |
 |                     |             |                    1|[Languish](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420731)               |
 |                     |             |                    1|[Journey to Eternity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439818)    |
-|                     |             |                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)          |
 |                     |             |                    2|[Heroic Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423776)    |
 |                     |             |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)          |
 |                     |             |                    2|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)                  |

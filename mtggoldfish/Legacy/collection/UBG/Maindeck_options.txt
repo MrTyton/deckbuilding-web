@@ -3,83 +3,85 @@
 2 Stifle
 3 Misty Rainforest
 1 Tropical Island
-1 Brazen Borrower
 1 Uro, Titan of Nature's Wrath
-1 Jace, the Mind Sculptor
 1 Bayou
-2 Uro, Titan of Nature's Wrath
+1 Jace, the Mind Sculptor
+1 Brazen Borrower
 1 Drown in the Loch
+2 Uro, Titan of Nature's Wrath
 1 Baleful Strix
-1 Island
 2 Baleful Strix
+1 Island
 3 Baleful Strix
 1 Swamp
 2 Tropical Island
-1 Abrupt Decay
-3 Stifle
-3 Uro, Titan of Nature's Wrath
-1 Reanimate
 4 Misty Rainforest
-2 Scalding Tarn
-1 Hymn to Tourach
+3 Uro, Titan of Nature's Wrath
+1 Abrupt Decay
 1 Assassin's Trophy
 1 Snow-Covered Island
-2 Abrupt Decay
 1 Snow-Covered Forest
+1 Reanimate
+2 Scalding Tarn
 1 Leovold, Emissary of Trest
+3 Stifle
+1 Hymn to Tourach
+1 Snow-Covered Swamp
+2 Abrupt Decay
 2 Hymn to Tourach
 4 Stifle
-2 Bloodstained Mire
-1 Snow-Covered Swamp
-1 Snapcaster Mage
-2 Snapcaster Mage
 2 Snow-Covered Island
+2 Bloodstained Mire
 4 Baleful Strix
 2 Assassin's Trophy
+1 Snapcaster Mage
+2 Snapcaster Mage
 1 Volcanic Island
-1 Sylvan Library
 3 Flooded Strand
 3 Snapcaster Mage
 1 Ethereal Forager
 2 Volcanic Island
-1 Preordain
+1 Sylvan Library
 1 Plague Engineer
-1 Lightning Bolt
-1 Badlands
-2 Island
-2 Jace, the Mind Sculptor
-2 Drown in the Loch
-2 Brazen Borrower
-1 Forest
-3 Abrupt Decay
-3 Verdant Catacombs
-2 Snow-Covered Forest
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
-3 Underground Sea
+2 Snow-Covered Forest
+1 Preordain
+1 Lightning Bolt
+1 Badlands
 3 Assassin's Trophy
+2 Island
+2 Jace, the Mind Sculptor
+1 Forest
+2 Drown in the Loch
+2 Brazen Borrower
 2 Reanimate
 2 Ethereal Forager
+3 Abrupt Decay
+3 Verdant Catacombs
+3 Underground Sea
 1 Kolaghan's Command
+1 Court of Cunning
+2 Court of Cunning
+3 Fatal Push
 3 Hymn to Tourach
 1 Cling to Dust
-3 Fatal Push
+1 Liliana, the Last Hope
 2 Swamp
-1 Narset, Parter of Veils
 2 Lightning Bolt
 1 Dismember
 3 Ethereal Forager
-1 Court of Cunning
-2 Court of Cunning
+3 Snow-Covered Island
 3 Court of Cunning
+1 Mystic Sanctuary
+4 Assassin's Trophy
 2 Preordain
 2 Leovold, Emissary of Trest
-1 Scavenging Ooze
+1 Narset, Parter of Veils
 3 Bloodstained Mire
-1 Liliana, the Last Hope
 2 Kolaghan's Command
-4 Assassin's Trophy
+1 Karakas
 1 Dack Fayden
 1 Punishing Fire
 1 Grove of the Burnwillows
@@ -88,20 +90,17 @@
 2 Punishing Fire
 3 Dack Fayden
 3 Grove of the Burnwillows
-1 Karakas
-1 Life from the Loam
 1 Marsh Flats
 4 Watery Grave
-3 Snow-Covered Island
-1 Mystic Sanctuary
+1 Scavenging Ooze
+1 Green Sun's Zenith
+2 Green Sun's Zenith
 2 Plague Engineer
 1 Noble Hierarch
 2 Noble Hierarch
-1 Green Sun's Zenith
-2 Green Sun's Zenith
 4 Bloodstained Mire
+1 Life from the Loam
 4 Uro, Titan of Nature's Wrath
-2 Sylvan Library
 1 Toxic Deluge
 1 Hullbreacher
 1 Dryad Arbor
@@ -111,36 +110,26 @@
 4 Flooded Strand
 3 Gurmag Angler
 2 Snow-Covered Swamp
+1 Tireless Tracker
 3 Scalding Tarn
 1 Liliana's Triumph
-2 Badlands
+2 Sylvan Library
 2 Hullbreacher
 4 Ice-Fang Coatl
 3 Green Sun's Zenith
 4 Green Sun's Zenith
 1 Questing Beast
-1 Tireless Tracker
+2 Badlands
 1 Birds of Paradise
 2 Cling to Dust
 3 Punishing Fire
 4 Verdant Catacombs
-3 Tropical Island
-1 Inquisition of Kozilek
-1 Prismatic Vista
-3 Drown in the Loch
-3 Cling to Dust
-4 Dack Fayden
-4 Grove of the Burnwillows
 1 Ramunap Excavator
 1 Field of the Dead
 2 Life from the Loam
-1 Carpet of Flowers
-1 Nissa of Shadowed Boughs
-1 Angrath's Rampage
-2 Inquisition of Kozilek
-1 Tyrant's Scorn
-1 Mountain
-4 Scalding Tarn
+3 Tropical Island
+1 Inquisition of Kozilek
+1 Prismatic Vista
 1 Waterlogged Grove
 1 Breeding Pool
 1 Windswept Heath
@@ -149,7 +138,6 @@
 1 Elvish Reclaimer
 1 Primeval Titan
 1 Blast Zone
-1 Mox Diamond
 1 Cavern of Souls
 1 Wooded Foothills
 1 Once Upon a Time
@@ -160,7 +148,6 @@
 2 Primeval Titan
 2 Elvish Reclaimer
 2 Ancient Tomb
-2 Mox Diamond
 2 Valakut, the Molten Pinnacle
 2 Once Upon a Time
 2 Dryad of the Ilysian Grove
@@ -169,23 +156,33 @@
 3 Ancient Tomb
 3 Cavern of Souls
 3 Primeval Titan
-3 Mox Diamond
 3 Dryad of the Ilysian Grove
 4 Elvish Reclaimer
 4 Cavern of Souls
-4 Mox Diamond
 4 Once Upon a Time
 4 Ancient Tomb
 4 Dryad of the Ilysian Grove
+3 Drown in the Loch
+3 Cling to Dust
+4 Dack Fayden
+4 Grove of the Burnwillows
+1 Carpet of Flowers
+1 Nissa of Shadowed Boughs
+1 Angrath's Rampage
+2 Inquisition of Kozilek
+1 Tyrant's Scorn
+1 Mox Diamond
+2 Mox Diamond
+3 Mox Diamond
+4 Mox Diamond
+1 Arasta of the Endless Web
+1 Mountain
+4 Scalding Tarn
 1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
 4 Abrupt Decay
 1 Abundant Growth
 2 Abundant Growth
-1 Tarmogoyf
-2 Tarmogoyf
-1 Hexdrinker
-2 Narset, Parter of Veils
 3 Lightning Bolt
 4 Lightning Bolt
 1 True-Name Nemesis
@@ -214,7 +211,6 @@
 4 Emry, Lurker of the Loch
 4 Gilded Goose
 4 Mishra's Bauble
-1 Arasta of the Endless Web
 1 Painful Truths
 1 Pyroblast
 1 Stubborn Denial
@@ -232,7 +228,9 @@
 2 Breeding Pool
 2 Jolrael, Mwonvuli Recluse
 1 Progenitus
+1 Tarmogoyf
 1 Natural Order
+2 Tarmogoyf
 2 Natural Order
 1 Dead of Winter
 2 Prismatic Vista
@@ -255,27 +253,31 @@
 1 Meren of Clan Nel Toth
 3 Snow-Covered Forest
 3 Leovold, Emissary of Trest
-1 Sprite Dragon
+1 Exploration
+2 Exploration
+3 Exploration
 1 Steam Vents
+1 Sprite Dragon
 2 Sprite Dragon
 2 Steam Vents
 3 Sprite Dragon
 4 Sprite Dragon
 1 Diabolic Edict
+2 Narset, Parter of Veils
 2 Diabolic Edict
 3 Badlands
 3 Volcanic Island
 4 Underground Sea
-1 Sea Gate Stormcaller
 1 Cabal Therapy
+1 Sea Gate Stormcaller
 1 Opposition Agent
 1 Neoform
 1 Unearth
+2 Birds of Paradise
 2 Bayou
 2 Cabal Therapy
 2 Sea Gate Stormcaller
 2 Neoform
-2 Birds of Paradise
 2 Unearth
 3 Birds of Paradise
 3 Cabal Therapy
@@ -283,14 +285,10 @@
 3 Neoform
 4 Cabal Therapy
 4 Sea Gate Stormcaller
+1 Hexdrinker
 3 True-Name Nemesis
 4 Noble Hierarch
 4 Hymn to Tourach
-2 Hexdrinker
-3 Sylvan Library
-3 Tarmogoyf
-4 Tropical Island
-4 Tarmogoyf
 2 Forest
 3 Abundant Growth
 3 Preordain

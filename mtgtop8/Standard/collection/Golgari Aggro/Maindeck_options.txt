@@ -1,57 +1,53 @@
-2 Jungle Hollow
-1 Swamp
-1 Forest
-2 Forest
-3 Forest
-2 Swamp
-3 Swamp
-4 Swamp
-4 Forest
-1 Bloodchief's Thirst
-2 Bloodchief's Thirst
-1 The Great Henge
-1 Heartless Act
-2 Heartless Act
-1 Lovestruck Beast
-2 Lovestruck Beast
-3 Lovestruck Beast
-4 Lovestruck Beast
-1 Temple of Malady
-1 Toski, Bearer of Secrets
-1 Edgewall Innkeeper
-1 Murderous Rider
-2 Murderous Rider
-2 Temple of Malady
-2 Toski, Bearer of Secrets
-2 Edgewall Innkeeper
-3 Murderous Rider
-3 Edgewall Innkeeper
-4 Edgewall Innkeeper
-1 Darkbore Pathway
-2 Darkbore Pathway
-3 Darkbore Pathway
-4 Darkbore Pathway
-1 Elder Gargaroth
-1 Castle Locthwain
-1 Foulmire Knight
-2 Foulmire Knight
-3 Foulmire Knight
-4 Foulmire Knight
-5 Forest
-6 Forest
-2 The Great Henge
-4 Binding the Old Gods
+4 Snow-Covered Forest
+4 Snow-Covered Swamp
+4 Woodland Chasm
+5 Snow-Covered Forest
+5 Snow-Covered Swamp
+6 Snow-Covered Forest
+6 Snow-Covered Swamp
+1 Harald, King of Skemfar
+2 Harald, King of Skemfar
+1 Elderfang Disciple
+2 Elderfang Disciple
+3 Elderfang Disciple
+4 Elderfang Disciple
+1 Oakhame Adversary
+1 Grasp of Darkness
+1 Sculptor of Winter
+1 Return Upon the Tide
+1 Skemfar Avenger
+1 Boreal Outrider
+1 Thornmantle Striker
+1 Harald Unites the Elves
+2 Sculptor of Winter
+2 Grasp of Darkness
+2 Boreal Outrider
+3 Sculptor of Winter
+3 Harald, King of Skemfar
+3 Boreal Outrider
+3 Grasp of Darkness
+4 Sculptor of Winter
+7 Snow-Covered Forest
+7 Snow-Covered Swamp
+8 Snow-Covered Forest
+8 Snow-Covered Swamp
+9 Snow-Covered Swamp
 5 Swamp
-1 Greater Sandwurm
 1 Vorinclex, Monstrous Raider
 2 Vorinclex, Monstrous Raider
+2 Elder Gargaroth
+3 Elder Gargaroth
 7 Forest
 8 Forest
 9 Forest
-2 Elder Gargaroth
-3 Elder Gargaroth
+1 Joraga Visionary
+2 Joraga Visionary
+1 Elvish Warmaster
 3 Toski, Bearer of Secrets
 4 Murderous Rider
+3 Temple of Malady
+3 Heartless Act
+4 Temple of Malady
 1 Kazandu Mammoth
 1 Fabled Passage
 2 Kazandu Mammoth
@@ -59,16 +55,11 @@
 3 Kazandu Mammoth
 3 Fabled Passage
 4 Kazandu Mammoth
-3 Temple of Malady
-3 Heartless Act
-4 Temple of Malady
-1 Elspeth's Nightmare
 1 Questing Beast
 1 Gemrazer
 2 Gemrazer
 3 The Great Henge
 3 Gemrazer
-1 Elvish Warmaster
 2 Castle Locthwain
 1 Fynn, the Fangbearer
 2 Fynn, the Fangbearer
@@ -83,63 +74,23 @@
 3 Tajuru Blightblade
 3 Oakhame Adversary
 4 Tajuru Blightblade
-1 Mire Triton
-2 Mire Triton
-3 Mire Triton
-4 Mire Triton
-1 Feed the Swarm
-2 Feed the Swarm
-1 Ice Tunnel
-1 Garruk, Cursed Huntsman
-1 Snow-Covered Island
-1 Rimewood Falls
-1 Narfi, Betrayer King
-1 Acolyte of Affliction
-2 Rimewood Falls
-2 Ice Tunnel
-2 Snow-Covered Island
-2 Narfi, Betrayer King
-2 Acolyte of Affliction
-1 Sarulf's Packmate
-1 Feed the Serpent
-2 Sarulf's Packmate
-2 Feed the Serpent
-10 Forest
 1 Scavenging Ooze
 2 Scavenging Ooze
+10 Forest
 1 Evolving Wilds
 1 Ranger's Guile
-1 Withercrown
 1 Chevill, Bane of Monsters
 1 Wildborn Preserver
+1 Feed the Swarm
 1 Extinction Event
 1 Fully Grown
+1 Withercrown
+2 Feed the Swarm
 2 Fully Grown
 3 Fully Grown
 4 Oakhame Adversary
 7 Swamp
 8 Swamp
-1 Ugin, the Spirit Dragon
-1 Thrashing Brontodon
-1 Ashiok, Nightmare Muse
-1 Frantic Inventory
-1 Sarulf, Realm Eater
-1 Port of Karfell
-1 Chainweb Aracnir
-1 Poison the Cup
-1 Behold the Multiverse
-2 Thrashing Brontodon
-2 Frantic Inventory
-2 Behold the Multiverse
-2 Chainweb Aracnir
-2 Poison the Cup
-2 Elspeth's Nightmare
-2 Port of Karfell
-3 Snow-Covered Island
-3 Frantic Inventory
-3 Behold the Multiverse
-3 Chainweb Aracnir
-4 Frantic Inventory
 1 Indatha Triome
 2 Indatha Triome
 3 Indatha Triome
@@ -147,55 +98,15 @@
 4 Toski, Bearer of Secrets
 4 Indatha Triome
 1 Rankle, Master of Pranks
-1 Massacre Wurm
 1 Eliminate
+1 Massacre Wurm
 1 Faceless Haven
-2 Rankle, Master of Pranks
 2 Questing Beast
+2 Rankle, Master of Pranks
 2 Eliminate
 2 Faceless Haven
 3 Faceless Haven
 4 Faceless Haven
-1 Snakeskin Veil
-1 Stonecoil Serpent
-1 Ashaya, Soul of the Wild
-1 Bonders' Enclave
-1 Tangled Florahedron
-1 Garruk, Unleashed
-1 Primal Might
-1 Castle Garenbrig
-1 Swarm Shambler
-1 Skyclave Shade
-2 Snakeskin Veil
-2 Castle Garenbrig
-2 Stonecoil Serpent
-2 Tangled Florahedron
-2 Skyclave Shade
-2 Primal Might
-2 Swarm Shambler
-3 Castle Garenbrig
-3 Scavenging Ooze
-3 Stonecoil Serpent
-4 Stonecoil Serpent
-4 Gemrazer
-1 Priest of the Haunted Edge
-1 Blood on the Snow
-1 Dead Weight
-1 Cling to Dust
-1 Brokkos, Apex of Forever
-1 Excavation Mole
-2 Priest of the Haunted Edge
-2 Cling to Dust
-2 Dead Weight
-2 Excavation Mole
-3 Rimewood Falls
-3 Ice Tunnel
-3 Excavation Mole
-3 Acolyte of Affliction
-3 Narfi, Betrayer King
-4 Ice Tunnel
-4 Excavation Mole
-4 Harald, King of Skemfar
 1 Tyvar Kell
 1 Jaspera Sentinel
 1 Skemfar Elderhall
@@ -212,17 +123,44 @@
 1 Hooded Blightfang
 1 Moss Viper
 1 The Binding of the Titans
+1 Mire Triton
 2 Call of the Death-Dweller
 2 Egon, God of Death
 2 Moss Viper
 2 Hooded Blightfang
 2 The Binding of the Titans
+2 Mire Triton
+3 Mire Triton
 3 The Binding of the Titans
 3 Moss Viper
 3 Hooded Blightfang
 4 The Binding of the Titans
+4 Mire Triton
 4 Moss Viper
 4 Hooded Blightfang
+1 Snakeskin Veil
+1 Stonecoil Serpent
+1 Bonders' Enclave
+1 Ashaya, Soul of the Wild
+1 Tangled Florahedron
+1 Garruk, Unleashed
+1 Primal Might
+1 Castle Garenbrig
+1 Swarm Shambler
+1 Skyclave Shade
+1 Elspeth's Nightmare
+2 Snakeskin Veil
+2 Castle Garenbrig
+2 Stonecoil Serpent
+2 Tangled Florahedron
+2 Skyclave Shade
+2 Primal Might
+2 Swarm Shambler
+3 Castle Garenbrig
+3 Scavenging Ooze
+3 Stonecoil Serpent
+4 Stonecoil Serpent
+4 Gemrazer
 1 Order of Midnight
 1 Blightstep Pathway
 1 Agadeem's Awakening
@@ -242,16 +180,28 @@
 4 Heartless Act
 4 Cragcrown Pathway
 4 Blightstep Pathway
+1 Wolfwillow Haven
+1 Masked Vandal
+1 Realmwalker
+1 Polukranos, Unchained
+2 Wolfwillow Haven
+3 Wolfwillow Haven
 9 Snow-Covered Forest
-1 Battle Mammoth
+10 Snow-Covered Swamp
 1 Fiend Artisan
+1 Sarulf's Packmate
 1 Garruk's Uprising
 1 Wildwood Patrol
+1 Battle Mammoth
 1 Ram Through
 1 Keeper of Fables
+1 Greater Sandwurm
+1 Feed the Serpent
 1 Gnottvold Recluse
+2 Sarulf's Packmate
 2 Keeper of Fables
 2 Ram Through
+2 Feed the Serpent
 2 Greater Sandwurm
 3 Sarulf's Packmate
 3 Keeper of Fables

@@ -31,6 +31,7 @@
 1 Temple of Triumph
 1 Fire Prophecy
 1 Lukka, Coppercoat Outcast
+1 Outlaws' Merriment
 1 Transmogrify
 1 Soul Sear
 1 Elspeth, Sun's Nemesis
@@ -39,7 +40,6 @@
 1 Needleverge Pathway
 1 Shatterskull Smashing
 1 Harmonious Archon
-1 Outlaws' Merriment
 1 Sejiri Shelter
 2 Fire Prophecy
 2 Castle Ardenvale
@@ -60,9 +60,9 @@
 3 Needleverge Pathway
 3 Harmonious Archon
 3 Mountain
+4 Transmogrify
 4 The Birth of Meletis
 4 Fire Prophecy
-4 Transmogrify
 4 Soul Sear
 4 Harmonious Archon
 4 Mountain
@@ -78,25 +78,25 @@
 4 Swamp
 1 Calix, Destiny's Hand
 1 Ugin, the Spirit Dragon
-1 Cultivate
 1 Garruk, Cursed Huntsman
+1 Cultivate
 1 Vivien, Monsters' Advocate
 1 Skyclave Apparition
+1 Eerie Ultimatum
 1 Shatter the Sky
 1 Doomskar
 1 Mazemind Tome
 1 Ondu Inversion
 1 Banishing Light
-1 Eerie Ultimatum
 1 Crawling Barrens
 2 Ugin, the Spirit Dragon
 2 Cultivate
-2 Garruk, Cursed Huntsman
+2 Eerie Ultimatum
 2 Skyclave Apparition
 2 Shatter the Sky
 2 Banishing Light
+2 Garruk, Cursed Huntsman
 2 Crawling Barrens
-2 Eerie Ultimatum
 3 Cultivate
 3 Temple of Malady
 3 Banishing Light
@@ -131,64 +131,64 @@
 3 Llanowar Visionary
 1 Kogla, the Titan Ape
 1 Snowfield Sinkhole
-1 Evolving Wilds
-1 Bala Ged Recovery
-1 Great Hall of Starnheim
-1 Elderfang Disciple
-1 Snow-Covered Swamp
-1 Shimmerdrift Vale
-1 Snow-Covered Plains
-1 Sarulf's Packmate
-1 Arctic Treeline
-1 Tergrid, God of Fright
-1 Snow-Covered Forest
-1 Grasp of Darkness
 1 Sculptor of Winter
+1 Tergrid, God of Fright
+1 Bala Ged Recovery
+1 Evolving Wilds
 1 Omen of the Hunt
+1 Great Hall of Starnheim
+1 Shimmerdrift Vale
+1 Snow-Covered Swamp
+1 Elderfang Disciple
+1 Snow-Covered Plains
+1 Arctic Treeline
+1 Snow-Covered Forest
+1 Sarulf's Packmate
+1 Grasp of Darkness
 1 Feed the Serpent
 1 Woodland Chasm
 1 Rampage of the Valkyries
 1 Shepherd of the Flock
 1 Skull Raid
+2 Sculptor of Winter
 2 Snowfield Sinkhole
+2 Omen of the Hunt
 2 Arctic Treeline
 2 Evolving Wilds
 2 Shimmerdrift Vale
-2 Sarulf's Packmate
 2 Snow-Covered Forest
-2 Elderfang Disciple
+2 Sarulf's Packmate
 2 Snow-Covered Swamp
+2 Elderfang Disciple
 2 Skull Raid
 2 Woodland Chasm
 2 Rampage of the Valkyries
 2 Grasp of Darkness
 2 Feed the Serpent
-2 Sculptor of Winter
 2 Great Hall of Starnheim
-2 Omen of the Hunt
-3 Evolving Wilds
+3 Sculptor of Winter
 3 Shimmerdrift Vale
+3 Evolving Wilds
 3 Sarulf's Packmate
 3 Snow-Covered Forest
 3 Snow-Covered Swamp
 3 Elderfang Disciple
 3 Skull Raid
-3 Sculptor of Winter
 3 Omen of the Hunt
 3 Woodland Chasm
 3 Rampage of the Valkyries
+4 Sculptor of Winter
+4 Elderfang Disciple
+4 Woodland Chasm
 4 Shimmerdrift Vale
 4 Evolving Wilds
 4 Snow-Covered Forest
 4 Llanowar Visionary
 4 Snow-Covered Swamp
-4 Sculptor of Winter
 4 Sarulf's Packmate
-4 Elderfang Disciple
 4 Omen of the Hunt
 4 Skull Raid
 4 Rampage of the Valkyries
-4 Woodland Chasm
 5 Snow-Covered Forest
 5 Snow-Covered Swamp
 6 Snow-Covered Forest
@@ -210,15 +210,15 @@
 2 Valki, God of Lies
 2 Bloodchief's Thirst
 2 The World Tree
-2 Murderous Rider
 2 Polukranos, Unchained
 2 Chevill, Bane of Monsters
 2 Easy Prey
 2 Agonizing Remorse
 2 Kaya the Inexorable
+2 Murderous Rider
 2 Vorinclex, Monstrous Raider
 2 Castle Locthwain
-3 Murderous Rider
 3 Agonizing Remorse
 3 Chevill, Bane of Monsters
+3 Murderous Rider
 3 Valki, God of Lies

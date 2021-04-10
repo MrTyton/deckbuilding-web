@@ -27,36 +27,36 @@
 1 Daze
 2 Daze
 3 Daze
-1 Swamp
 1 Underground Sea
+1 Swamp
 1 Fatal Push
-1 Cling to Dust
 1 Eliminate
+1 Cling to Dust
 1 Changeling Outcast
 1 Ornithopter
 1 Yuriko, the Tiger's Shadow
 1 Ingenious Infiltrator
 1 Retrofitter Foundry
-2 Fatal Push
-2 Swamp
 2 Changeling Outcast
 2 Ornithopter
 2 Yuriko, the Tiger's Shadow
 2 Polluted Delta
 2 Retrofitter Foundry
+2 Swamp
 2 Ingenious Infiltrator
+2 Fatal Push
 3 Swamp
-3 Fatal Push
 3 Polluted Delta
 3 Retrofitter Foundry
 3 Ornithopter
 3 Ingenious Infiltrator
+3 Fatal Push
 3 Changeling Outcast
 3 Yuriko, the Tiger's Shadow
-4 Polluted Delta
 4 Changeling Outcast
 4 Ingenious Infiltrator
 4 Ornithopter
+4 Polluted Delta
 4 Retrofitter Foundry
 1 Terminus
 2 Terminus
@@ -116,10 +116,11 @@
 3 Replenish
 4 Replenish
 4 Cast Out
+1 Field of the Dead
 1 Tranquil Thicket
+1 Verdant Catacombs
 1 Forest
 1 Life from the Loam
-1 Field of the Dead
 1 Abrupt Decay
 1 Bojuka Bog
 1 Crop Rotation
@@ -129,24 +130,23 @@
 1 Snow-Covered Forest
 1 Uro, Titan of Nature's Wrath
 1 Savannah
-1 Verdant Catacombs
 1 Mox Diamond
 2 Life from the Loam
 2 Field of the Dead
-2 Abrupt Decay
 2 Uro, Titan of Nature's Wrath
+2 Abrupt Decay
 2 Mox Diamond
+3 Wasteland
 3 Mox Diamond
 3 Abrupt Decay
-3 Wasteland
 3 Uro, Titan of Nature's Wrath
 3 Life from the Loam
 3 Misty Rainforest
+4 Wasteland
 4 Abrupt Decay
 4 Mox Diamond
 4 Uro, Titan of Nature's Wrath
 4 Misty Rainforest
-4 Wasteland
 1 Impulse
 1 Bonecrusher Giant
 1 Fiery Islet
@@ -164,23 +164,23 @@
 3 Bonecrusher Giant
 3 Volcanic Island
 3 Burst Lightning
-3 Brazen Borrower
 3 Faerie Conclave
+3 Brazen Borrower
 3 Lightning Bolt
-4 Volcanic Island
 4 Bonecrusher Giant
 4 Mishra's Factory
+4 Volcanic Island
 4 Faerie Conclave
 4 Lightning Bolt
 4 Snapcaster Mage
 1 Sea Gate Restoration
 1 Glasspool Mimic
 1 True-Name Nemesis
-1 Chrome Mox
 1 Aether Vial
 1 Silvergill Adept
 1 Master of the Pearl Trident
 1 Cavern of Souls
+1 Chrome Mox
 1 Mutavault
 1 Lord of Atlantis
 2 Glasspool Mimic
@@ -195,7 +195,6 @@
 2 Mutavault
 3 Sea Gate Restoration
 3 Glasspool Mimic
-3 Chrome Mox
 3 Hullbreacher
 3 Cavern of Souls
 3 Lord of Atlantis
@@ -204,6 +203,7 @@
 3 Silvergill Adept
 3 Aether Vial
 3 Mutavault
+3 Chrome Mox
 4 Sea Gate Restoration
 4 Mutavault
 4 Glasspool Mimic

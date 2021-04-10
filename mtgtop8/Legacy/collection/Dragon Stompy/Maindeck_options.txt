@@ -46,9 +46,9 @@
 1 Thought-Knot Seer
 1 Seasoned Pyromancer
 1 Lotus Field
-2 Yidaro, Wandering Monster
 2 Thought-Knot Seer
 2 Seasoned Pyromancer
+2 Yidaro, Wandering Monster
 3 Yidaro, Wandering Monster
 3 Thought-Knot Seer
 3 Fiery Confluence
@@ -65,16 +65,16 @@
 3 Snow-Covered Mountain
 3 Chandra, Awakened Inferno
 3 Abrade
-1 Tectonic Giant
-1 Quakebringer
-1 Calamity Bearer
 1 Shatterskull Charger
 1 Crystalline Giant
-2 Tectonic Giant
+1 Tectonic Giant
+1 Calamity Bearer
+1 Quakebringer
 2 Shatterskull Charger
+2 Crystalline Giant
 2 Quakebringer
 2 Calamity Bearer
-2 Crystalline Giant
+2 Tectonic Giant
 3 Quakebringer
 3 Calamity Bearer
 3 Shatterskull Charger
@@ -83,8 +83,6 @@
 4 Bonecrusher Giant
 4 Hanweir Garrison
 4 Pia and Kiran Nalaar
-10 Mountain
-11 Mountain
 1 Sethron, Hurloon General
 1 Didgeridoo
 1 Boros Battleshaper
@@ -104,3 +102,5 @@
 4 Sethron, Hurloon General
 4 Didgeridoo
 4 Moraug, Fury of Akoum
+10 Mountain
+11 Mountain

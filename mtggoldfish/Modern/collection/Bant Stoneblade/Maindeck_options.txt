@@ -1,25 +1,23 @@
 3 On Thin Ice
 2 Toski, Bearer of Secrets
 3 Windswept Heath
-1 Brazen Borrower
 4 On Thin Ice
+1 Brazen Borrower
 3 Toski, Bearer of Secrets
 1 Waterlogged Grove
-1 Birds of Paradise
 4 Windswept Heath
+1 Birds of Paradise
+2 Jace, the Mind Sculptor
 2 Birds of Paradise
 3 Snow-Covered Forest
-2 Jace, the Mind Sculptor
+1 Castle Ardenvale
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
 1 Cosima, God of the Voyage
 2 Breeding Pool
-1 Castle Ardenvale
 1 Cryptic Command
 2 Cryptic Command
-2 Waterlogged Grove
-2 Remand
 2 Temple Garden
 3 Cryptic Command
 4 Snow-Covered Island
@@ -28,9 +26,13 @@
 2 Skyclave Apparition
 3 Skyclave Apparition
 4 Skyclave Apparition
+2 Waterlogged Grove
 2 Prismatic Vista
 1 Rimewood Falls
+2 Remand
 2 Hallowed Fountain
+1 Maul of the Skyclaves
+1 Geist of Saint Traft
 3 Birds of Paradise
 1 Horizon Canopy
 1 Archon of Emeria
@@ -41,8 +43,6 @@
 3 Utopia Sprawl
 4 Cosima, God of the Voyage
 1 Spell Snare
-1 Maul of the Skyclaves
-1 Geist of Saint Traft
 1 Plains
 1 Gavony Township
 1 Collected Company
@@ -60,6 +60,7 @@
 1 Archmage's Charm
 1 Prairie Stream
 2 Archmage's Charm
+2 Geist of Saint Traft
 1 Celestial Colonnade
 2 Celestial Colonnade
 3 Remand
@@ -92,7 +93,6 @@
 1 Mystic Sanctuary
 1 Supreme Verdict
 2 Mystic Sanctuary
-2 Geist of Saint Traft
 3 Jace, the Mind Sculptor
 1 Niambi, Esteemed Speaker
 1 Giver of Runes
@@ -102,12 +102,12 @@
 4 Collected Company
 1 Growth Spiral
 1 Blast Zone
-1 Ghost Quarter
 1 Cavern of Souls
 1 Castle Garenbrig
+1 Ghost Quarter
 2 Growth Spiral
-3 Snow-Covered Plains
 3 Growth Spiral
+3 Snow-Covered Plains
 4 Growth Spiral
 4 Force of Negation
 1 Snapcaster Mage

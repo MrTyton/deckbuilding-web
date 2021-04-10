@@ -83,8 +83,8 @@
 1 Indatha Triome
 1 Niko Aris
 2 Niko Aris
-2 Raugrin Triome
 2 Indatha Triome
+2 Raugrin Triome
 3 Raugrin Triome
 3 Indatha Triome
 4 Raugrin Triome
@@ -105,19 +105,19 @@
 2 Banishing Light
 1 Gates of Istfell
 2 Gates of Istfell
-1 Kiora Bests the Sea God
 1 Ashiok, Nightmare Muse
 1 Labyrinth of Skophos
+1 Kiora Bests the Sea God
 2 Savai Triome
-2 Kaya the Inexorable
 1 Agonizing Remorse
 2 Agonizing Remorse
+2 Kaya the Inexorable
 1 Ravenform
 1 Acquisitions Expert
 2 Ravenform
 2 Acquisitions Expert
-1 Sea Gate Restoration
 1 Whirlwind Denial
+1 Sea Gate Restoration
 2 Whirlwind Denial
 1 Ondu Inversion
 2 Ondu Inversion
@@ -125,28 +125,32 @@
 1 Burning-Rune Demon
 1 Mire's Grasp
 1 Confounding Conundrum
-2 Mystical Dispute
 2 Mire's Grasp
+2 Mystical Dispute
 2 Confounding Conundrum
 3 Shadows' Verdict
 1 Sleeper Dart
 2 Sleeper Dart
 3 Sleeper Dart
-1 Snow-Covered Mountain
-1 Snow-Covered Island
-1 Snow-Covered Swamp
 1 Snowfield Sinkhole
-1 Volatile Fjord
+1 Snow-Covered Island
 1 Snow-Covered Plains
-2 Snow-Covered Island
-2 Snow-Covered Swamp
+1 Volatile Fjord
+1 Snow-Covered Mountain
+1 Snow-Covered Swamp
 2 Snowfield Sinkhole
 2 Snow-Covered Plains
+2 Snow-Covered Island
 2 Cling to Dust
-3 Snow-Covered Island
+2 Snow-Covered Swamp
 3 Snow-Covered Plains
+3 Snow-Covered Island
 4 Snow-Covered Plains
 4 Temple of Deceit
+1 Dream Trawler
+2 Midnight Clock
+3 Lithoform Blight
+4 Lithoform Blight
 1 Behold the Multiverse
 1 Saw It Coming
 2 Behold the Multiverse
@@ -156,13 +160,9 @@
 4 Shark Typhoon
 4 Doomskar
 5 Island
-6 Island
 6 Plains
+6 Island
 7 Plains
-1 Dream Trawler
-2 Midnight Clock
-3 Lithoform Blight
 1 Kaervek, the Spiteful
-1 Soul Shatter
 3 Disdainful Stroke
-4 Lithoform Blight
+1 Soul Shatter
