@@ -27,14 +27,14 @@
 2 Glass Casket
 2 The Birth of Meletis
 5 Plains
-1 Castle Ardenvale
 1 Temple of Triumph
+1 Castle Ardenvale
 1 Fire Prophecy
 1 Lukka, Coppercoat Outcast
 1 Outlaws' Merriment
+1 Elspeth, Sun's Nemesis
 1 Transmogrify
 1 Soul Sear
-1 Elspeth, Sun's Nemesis
 1 Mountain
 1 Forbidden Friendship
 1 Needleverge Pathway
@@ -55,8 +55,8 @@
 2 Harmonious Archon
 3 The Birth of Meletis
 3 Fire Prophecy
-3 Transmogrify
 3 Soul Sear
+3 Transmogrify
 3 Needleverge Pathway
 3 Harmonious Archon
 3 Mountain
@@ -83,9 +83,9 @@
 1 Vivien, Monsters' Advocate
 1 Skyclave Apparition
 1 Eerie Ultimatum
-1 Shatter the Sky
 1 Doomskar
 1 Mazemind Tome
+1 Shatter the Sky
 1 Ondu Inversion
 1 Banishing Light
 1 Crawling Barrens
@@ -98,18 +98,18 @@
 2 Garruk, Cursed Huntsman
 2 Crawling Barrens
 3 Cultivate
-3 Temple of Malady
 3 Banishing Light
 3 Skyclave Apparition
 3 Eerie Ultimatum
 3 Temple of Silence
+3 Temple of Malady
 4 Banishing Light
 4 Skyclave Apparition
 4 Eerie Ultimatum
 4 Temple of Silence
 1 Heartless Act
-1 Yasharn, Implacable Earth
 1 Acquisitions Expert
+1 Yasharn, Implacable Earth
 1 Eliminate
 1 Lithoform Blight
 2 Heartless Act
@@ -130,7 +130,7 @@
 2 Llanowar Visionary
 3 Llanowar Visionary
 1 Kogla, the Titan Ape
-1 Snowfield Sinkhole
+1 Woodland Chasm
 1 Sculptor of Winter
 1 Tergrid, God of Fright
 1 Bala Ged Recovery
@@ -141,32 +141,33 @@
 1 Snow-Covered Swamp
 1 Elderfang Disciple
 1 Snow-Covered Plains
+1 Snowfield Sinkhole
 1 Arctic Treeline
+1 Shepherd of the Flock
 1 Snow-Covered Forest
 1 Sarulf's Packmate
 1 Grasp of Darkness
 1 Feed the Serpent
-1 Woodland Chasm
 1 Rampage of the Valkyries
-1 Shepherd of the Flock
 1 Skull Raid
 2 Sculptor of Winter
-2 Snowfield Sinkhole
+2 Woodland Chasm
 2 Omen of the Hunt
 2 Arctic Treeline
 2 Evolving Wilds
 2 Shimmerdrift Vale
 2 Snow-Covered Forest
+2 Snowfield Sinkhole
 2 Sarulf's Packmate
 2 Snow-Covered Swamp
 2 Elderfang Disciple
 2 Skull Raid
-2 Woodland Chasm
 2 Rampage of the Valkyries
 2 Grasp of Darkness
 2 Feed the Serpent
 2 Great Hall of Starnheim
 3 Sculptor of Winter
+3 Woodland Chasm
 3 Shimmerdrift Vale
 3 Evolving Wilds
 3 Sarulf's Packmate
@@ -175,7 +176,6 @@
 3 Elderfang Disciple
 3 Skull Raid
 3 Omen of the Hunt
-3 Woodland Chasm
 3 Rampage of the Valkyries
 4 Sculptor of Winter
 4 Elderfang Disciple
@@ -195,8 +195,8 @@
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
 1 Vorinclex, Monstrous Raider
-1 Ketria Triome
 1 Bloodchief's Thirst
+1 Ketria Triome
 1 Hagra Mauling
 1 The World Tree
 1 Murderous Rider
@@ -211,14 +211,14 @@
 2 Bloodchief's Thirst
 2 The World Tree
 2 Polukranos, Unchained
-2 Chevill, Bane of Monsters
 2 Easy Prey
+2 Chevill, Bane of Monsters
 2 Agonizing Remorse
 2 Kaya the Inexorable
 2 Murderous Rider
 2 Vorinclex, Monstrous Raider
 2 Castle Locthwain
-3 Agonizing Remorse
 3 Chevill, Bane of Monsters
+3 Agonizing Remorse
 3 Murderous Rider
 3 Valki, God of Lies

@@ -36,6 +36,7 @@
 |                    3|[Undercity Informer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366271)  |                     |              |
 |                    4|[Sylvan Caryatid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373624)     |                     |              |
 |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)        |                     |              |
+|                    4|[Pelakka Predation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491757)   |                     |              |
 |                    4|[Hagra Mauling](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491741)       |                     |              |
 |                    4|[Tangled Florahedron](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491859) |                     |              |
 |                    4|[Silversmote Ghoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485445)   |                     |              |
@@ -48,7 +49,6 @@
 |                    4|[Prized Amalgam](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410014)      |                     |              |
 |                    4|[Eldritch Evolution](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414456)  |                     |              |
 |                    4|[Balustrade Spy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366464)      |                     |              |
-|                    4|[Pelakka Predation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491757)   |                     |              |
 |                    4|[Creeping Chill](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452816)      |                     |              |
 |                    4|[Bala Ged Recovery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491825)   |                     |              |
 |                    4|[Neoform](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461133)             |                     |              |

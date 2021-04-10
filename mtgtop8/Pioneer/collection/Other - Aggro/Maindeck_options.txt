@@ -123,9 +123,9 @@
 3 Voice of Resurgence
 4 Branchloft Pathway
 4 Voice of Resurgence
-1 Charming Prince
 1 Reflector Mage
 1 Mana Confluence
+1 Charming Prince
 2 Mana Confluence
 2 Charming Prince
 2 Reflector Mage
@@ -134,45 +134,45 @@
 1 Castle Ardenvale
 1 Knight of Autumn
 1 Temple of Plenty
-1 Archangel Avacyn
 1 Dromoka's Command
+1 Archangel Avacyn
 2 Sunpetal Grove
 2 Temple of Plenty
-2 Dromoka's Command
 2 Knight of Autumn
+2 Dromoka's Command
 3 Sunpetal Grove
 3 Knight of Autumn
 4 Sunpetal Grove
 1 Renegade Rallier
-1 Acquisitions Expert
 1 Judith, the Scourge Diva
-1 Kaervek, the Spiteful
+1 Overgrown Tomb
 1 Pyre of Heroes
 1 Llanowar Wastes
-1 Archfiend's Vessel
 1 Hostage Taker
+1 Kaervek, the Spiteful
+1 Acquisitions Expert
 1 Basri's Lieutenant
 1 Drannith Magistrate
-1 Overgrown Tomb
 1 Elite Guardmage
+1 Archfiend's Vessel
 1 General Kudro of Drannith
 1 Xathrid Necromancer
 2 Llanowar Wastes
 2 Renegade Rallier
+2 Pyre of Heroes
 2 Acquisitions Expert
 2 Archfiend's Vessel
-2 Pyre of Heroes
-3 Acquisitions Expert
 3 Unclaimed Territory
-3 Archfiend's Vessel
 3 Llanowar Wastes
 3 Pyre of Heroes
 3 Renegade Rallier
+3 Acquisitions Expert
 3 Mana Confluence
-4 Archfiend's Vessel
+3 Archfiend's Vessel
 4 Unclaimed Territory
 4 Pyre of Heroes
 4 Mana Confluence
+4 Archfiend's Vessel
 1 Glasspool Mimic
 1 Hallowed Fountain
 1 Hengegate Pathway
@@ -252,10 +252,10 @@
 4 Shivan Reef
 4 Boon Satyr
 4 Cragcrown Pathway
-1 Thassa's Intervention
 1 Deathrite Shaman
 1 Jace, Vryn's Prodigy
 1 Eliminate
+1 Thassa's Intervention
 1 Merfolk Windrobber
 1 Darkbore Pathway
 1 Blooming Marsh
@@ -269,19 +269,19 @@
 3 Into the Story
 4 Deathrite Shaman
 4 Botanical Sanctum
+1 Drowned Catacomb
 1 Nighthawk Scavenger
 1 Anticognition
 1 Mystical Dispute
-1 Drowned Catacomb
 1 Fabled Passage
-2 Drowned Catacomb
 2 Fabled Passage
+2 Drowned Catacomb
 2 Nighthawk Scavenger
 2 Island
 2 Mystical Dispute
+3 Island
 3 Drowned Catacomb
 3 Nighthawk Scavenger
-3 Island
 4 Glint-Sleeve Siphoner
 4 Drowned Catacomb
 1 Mountain
@@ -318,11 +318,11 @@
 1 Dragonskull Summit
 1 Shambling Vent
 1 Utter End
+1 Savai Triome
 1 Valki, God of Lies
 1 Elspeth, Sun's Champion
 1 Isolated Chapel
 1 Sorin, Solemn Visitor
-1 Savai Triome
 1 Dreadbore
 1 Crackling Doom
 1 Seraph of the Scales
@@ -331,9 +331,9 @@
 1 History of Benalia
 2 Blood Crypt
 2 Shambling Vent
+2 Savai Triome
 2 Castle Ardenvale
 2 Magmatic Channeler
-2 Savai Triome
 2 Dragonskull Summit
 2 Gideon, Ally of Zendikar
 2 Isolated Chapel
@@ -420,8 +420,8 @@
 1 Castle Garenbrig
 1 Nykthos, Shrine to Nyx
 2 Questing Beast
-2 Barkchannel Pathway
 2 Voracious Hydra
+2 Barkchannel Pathway
 2 Castle Garenbrig
 2 Nykthos, Shrine to Nyx
 2 Vorinclex, Monstrous Raider

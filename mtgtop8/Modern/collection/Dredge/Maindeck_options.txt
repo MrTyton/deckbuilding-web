@@ -2,9 +2,6 @@
 4 Bloodghast
 3 Arid Mesa
 1 Dakmor Salvage
-3 Bloodstained Mire
-4 Wooded Foothills
-3 Scalding Tarn
 1 Forest
 1 Swamp
 1 Polluted Delta
@@ -28,16 +25,16 @@
 2 Satyr Wayfinder
 2 Unearth
 2 Hedron Crab
-2 Misty Rainforest
 2 Driven / Despair
 2 Overgrown Tomb
-2 Merfolk Secretkeeper
 2 Darkslick Shores
 2 Rotting Rats
 2 Vengevine
 2 Stitcher's Supplier
 2 Gravecrawler
+2 Merfolk Secretkeeper
 2 Drown in Filth
+2 Misty Rainforest
 3 Polluted Delta
 3 Satyr Wayfinder
 3 Unearth
@@ -62,6 +59,9 @@
 2 Glasspool Mimic
 2 Skaab Ruinator
 4 Unearth
+3 Bloodstained Mire
+4 Wooded Foothills
+3 Scalding Tarn
 1 Burning Inquiry
 2 Burning Inquiry
 1 City of Brass
@@ -70,8 +70,8 @@
 3 Conflagrate
 3 Stomping Ground
 1 Darkblast
-1 Sacred Foundry
 1 Blackcleave Cliffs
+1 Sacred Foundry
 1 Silversmote Ghoul
 2 Silversmote Ghoul
 3 Silversmote Ghoul

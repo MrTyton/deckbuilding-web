@@ -1,11 +1,11 @@
 1 Vendilion Clique
 1 Scalding Tarn
-2 Shark Typhoon
 2 Polluted Delta
+2 Shark Typhoon
 1 Misty Rainforest
 1 Mystic Gate
-1 Snow-Covered Plains
 1 Snow-Covered Island
+1 Snow-Covered Plains
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
@@ -16,32 +16,51 @@
 2 Misty Rainforest
 4 Archmage's Charm
 7 Island
-2 Scalding Tarn
 1 Castle Ardenvale
+2 Scalding Tarn
 6 Snow-Covered Island
 2 Oust
 2 Snow-Covered Plains
-1 Behold the Multiverse
+2 Spell Snare
+3 Polluted Delta
 1 Batterskull
 1 Stoneforge Mystic
 1 Sword of Feast and Famine
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+1 Behold the Multiverse
 1 Winds of Abandon
 3 Misty Rainforest
-2 Spell Snare
-3 Polluted Delta
 1 Search for Azcanta
+4 Polluted Delta
+1 Condemn
+1 Dovin's Veto
+1 Blast Zone
+4 Misty Rainforest
+4 Cryptic Command
+7 Snow-Covered Island
+1 Detention Sphere
+1 Terminus
+2 Terminus
+2 Castle Ardenvale
 2 Mystic Gate
 1 Skyclave Apparition
 1 Hengegate Pathway
 1 Spell Queller
 2 Skyclave Apparition
 2 Spell Queller
-1 Condemn
-1 Dovin's Veto
-1 Blast Zone
+8 Island
+1 Remand
+2 Remand
+1 Omen of the Sea
+2 Omen of the Sea
+1 Ghost Quarter
+1 Seachrome Coast
+1 Raugrin Triome
+1 Ancestral Vision
+1 Engineered Explosives
+3 Plains
 1 Oboro, Palace in the Clouds
 1 Minamo, School at Water's Edge
 1 Niambi, Esteemed Speaker
@@ -51,24 +70,10 @@
 2 Niambi, Esteemed Speaker
 3 Skyclave Apparition
 3 Spell Queller
-4 Cryptic Command
-4 Misty Rainforest
-7 Snow-Covered Island
-1 Detention Sphere
-1 Terminus
-2 Terminus
-1 Omen of the Sea
-2 Omen of the Sea
-8 Island
-4 Polluted Delta
-1 Ghost Quarter
-1 Seachrome Coast
-1 Raugrin Triome
-1 Ancestral Vision
 1 Wall of Omens
 2 Wall of Omens
-3 Terminus
 3 Jace, the Mind Sculptor
+3 Terminus
 3 Omen of the Sea
 3 Scalding Tarn
 4 Scalding Tarn
@@ -83,11 +88,9 @@
 4 Delay
 1 Brazen Borrower
 8 Snow-Covered Island
-1 Remand
 1 Blessed Alliance
 1 Vedalken Shackles
 1 Urza's Factory
-2 Remand
 2 Behold the Multiverse
 2 Vedalken Shackles
 2 Prairie Stream
@@ -96,7 +99,6 @@
 3 Teferi, Hero of Dominaria
 9 Island
 10 Island
-2 Castle Ardenvale
 2 Hengegate Pathway
 3 Hengegate Pathway
 4 Hengegate Pathway

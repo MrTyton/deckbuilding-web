@@ -23,6 +23,7 @@
 1 Merchant Scroll
 1 Peer Through Depths
 1 Vizier of Tumbling Sands
+2 Lonely Sandbar
 2 Psychic Puppetry
 2 Island
 2 Dream's Grip
@@ -37,7 +38,6 @@
 2 Snow-Covered Island
 2 Grapeshot
 2 Sleight of Hand
-2 Lonely Sandbar
 2 Past in Flames
 2 Twiddle
 3 Sleight of Hand
@@ -130,8 +130,8 @@
 3 Force of Negation
 4 Scalding Tarn
 1 Temple Garden
-1 Uro, Titan of Nature's Wrath
 1 Snow-Covered Plains
+1 Uro, Titan of Nature's Wrath
 1 Cryptic Command
 1 Mystic Sanctuary
 1 Dismember
@@ -203,6 +203,7 @@
 1 Mountain
 1 Spell Snare
 1 Repeal
+1 Anger of the Gods
 1 Arid Mesa
 1 Polymorph
 1 Izzet Charm
@@ -210,20 +211,19 @@
 1 Bloodstained Mire
 1 Remand
 1 Sacred Foundry
-1 Anger of the Gods
 1 Cloudform
 2 Arid Mesa
 2 Transmogrify
 2 Mountain
 2 Remand
+2 Lightning Bolt
+2 Anger of the Gods
 2 Spell Snare
 2 Dwarven Mine
-2 Anger of the Gods
 2 Steam Vents
 2 Cloudform
 2 Raugrin Triome
 2 Izzet Charm
-2 Lightning Bolt
 2 Polymorph
 3 Steam Vents
 3 Transmogrify
@@ -255,19 +255,19 @@
 2 Nahiri, the Harbinger
 2 Karn, the Great Creator
 2 Lukka, Coppercoat Outcast
+2 Chandra, Torch of Defiance
 2 Noble Hierarch
 2 Stomping Ground
-2 Chandra, Torch of Defiance
 2 Birds of Paradise
 2 Utopia Sprawl
 2 Arbor Elf
 2 Windswept Heath
 2 Temple Garden
-3 Chandra, Torch of Defiance
 3 Oath of Nissa
 3 Nahiri, the Harbinger
 3 Karn, the Great Creator
 3 Lukka, Coppercoat Outcast
+3 Chandra, Torch of Defiance
 3 Birds of Paradise
 3 Arbor Elf
 3 Windswept Heath

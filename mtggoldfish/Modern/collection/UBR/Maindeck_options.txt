@@ -11,6 +11,7 @@
 1 Serum Visions
 2 Serum Visions
 2 Jace, Vryn's Prodigy
+3 Lightning Bolt
 1 Creeping Tar Pit
 1 Valki, God of Lies
 2 Valki, God of Lies
@@ -18,7 +19,6 @@
 2 Creeping Tar Pit
 2 Dreadbore
 2 Logic Knot
-3 Lightning Bolt
 3 Serum Visions
 4 Cryptic Command
 1 Sunken Ruins
@@ -49,8 +49,8 @@
 4 Snow-Covered Island
 1 Ice Tunnel
 4 Fatal Push
-2 Verdant Catacombs
 2 Snow-Covered Forest
+2 Verdant Catacombs
 3 Verdant Catacombs
 2 Cling to Dust
 1 Village Rites
@@ -65,8 +65,8 @@
 1 Nihil Spellbomb
 1 Clearwater Pathway
 1 Castle Vantress
-1 Kroxa, Titan of Death's Hunger
 1 Engineered Explosives
+1 Kroxa, Titan of Death's Hunger
 2 Drowned Catacomb
 3 Drowned Catacomb
 2 Prismatic Vista
@@ -76,8 +76,35 @@
 2 Hinterland Harbor
 2 Into the Story
 1 Rimewood Falls
-1 Sulfur Falls
 4 Lightning Bolt
+1 Burning Inquiry
+1 Street Wraith
+1 Flameblade Adept
+1 Hollow One
+1 Ox of Agonas
+1 Bloodstained Mire
+1 Goblin Lore
+2 Bloodstained Mire
+2 Burning Inquiry
+2 Street Wraith
+2 Goblin Lore
+2 Mountain
+2 Hollow One
+2 Ox of Agonas
+2 Flameblade Adept
+3 Street Wraith
+3 Burning Inquiry
+3 Ox of Agonas
+3 Flameblade Adept
+3 Goblin Lore
+3 Hollow One
+3 Mountain
+4 Street Wraith
+4 Flameblade Adept
+4 Hollow One
+4 Burning Inquiry
+4 Goblin Lore
+1 Sulfur Falls
 4 Serum Visions
 1 Flooded Grove
 1 Darkslick Shores
@@ -85,6 +112,26 @@
 1 Woodland Chasm
 2 Darkslick Shores
 3 Darkslick Shores
+1 Bloodghast
+1 Izzet Charm
+1 Spirebluff Canal
+1 Magmatic Channeler
+1 Flamewake Phoenix
+2 Bloodghast
+2 Izzet Charm
+2 Spirebluff Canal
+2 Magmatic Channeler
+2 Flamewake Phoenix
+3 Magmatic Channeler
+3 Bloodghast
+3 Steam Vents
+3 Izzet Charm
+3 Spirebluff Canal
+3 Flamewake Phoenix
+4 Spirebluff Canal
+4 Bloodghast
+4 Magmatic Channeler
+4 Izzet Charm
 1 Scavenging Ooze
 2 Overgrown Tomb
 4 Verdant Catacombs
@@ -108,3 +155,27 @@
 3 River of Tears
 4 Thoughtseize
 4 Jace, Vryn's Prodigy
+1 Birgi, God of Storytelling
+1 Sunbaked Canyon
+1 Underworld Breach
+1 Lava Dart
+1 Arid Mesa
+1 Manamorphose
+2 Birgi, God of Storytelling
+2 Manamorphose
+2 Underworld Breach
+2 Sunbaked Canyon
+2 Lava Dart
+2 Arid Mesa
+3 Manamorphose
+3 Underworld Breach
+3 Birgi, God of Storytelling
+3 Sunbaked Canyon
+3 Arid Mesa
+4 Manamorphose
+4 Mountain
+4 Underworld Breach
+4 Sunbaked Canyon
+5 Mountain
+6 Mountain
+7 Mountain

@@ -1,5 +1,13 @@
-1 Shepherd of the Flock
-2 Shepherd of the Flock
+1 Robber of the Rich
+2 Robber of the Rich
+5 Snow-Covered Mountain
+2 Embercleave
+1 Fervent Champion
+2 Fervent Champion
+3 Fervent Champion
+4 Fervent Champion
+1 Reidane, God of the Worthy
+2 Reidane, God of the Worthy
 1 Plains
 1 Mountain
 2 Plains
@@ -8,14 +16,7 @@
 3 Mountain
 4 Plains
 5 Plains
-2 Embercleave
-1 Reidane, God of the Worthy
-2 Reidane, God of the Worthy
-5 Snow-Covered Mountain
-1 Fervent Champion
-2 Fervent Champion
-3 Fervent Champion
-4 Fervent Champion
+6 Snow-Covered Mountain
 4 Selfless Savior
 3 Embercleave
 4 Mountain
@@ -25,12 +26,13 @@
 3 Robber of the Rich
 4 Robber of the Rich
 3 Faceless Haven
-6 Snow-Covered Mountain
 7 Snow-Covered Mountain
-1 Castle Embereth
+1 Shatterskull Smashing
+2 Shatterskull Smashing
 5 Mountain
 6 Mountain
 7 Mountain
+1 Castle Embereth
 3 Reidane, God of the Worthy
 1 Rimrock Knight
 2 Rimrock Knight
@@ -39,19 +41,33 @@
 4 Embercleave
 3 Shepherd of the Flock
 1 Temple of Triumph
-1 Shatterskull Smashing
 2 Temple of Triumph
-2 Shatterskull Smashing
 1 Goldspan Dragon
+3 Shatterskull Smashing
 4 Maul of the Skyclaves
+1 Halvar, God of Battle
+1 Shadowspear
+1 Akiri, Fearless Voyager
+1 Fireblade Charger
+2 Halvar, God of Battle
+2 Shadowspear
+2 Akiri, Fearless Voyager
+2 Fireblade Charger
+3 Halvar, God of Battle
+3 Fireblade Charger
+4 Fireblade Charger
 8 Mountain
 9 Mountain
 9 Plains
 1 Luminous Broodmoth
 1 Fight as One
 2 Fight as One
+1 Lurrus of the Dream-Den
+1 Goldvein Pick
+2 Lurrus of the Dream-Den
+2 Goldvein Pick
+3 Shadowspear
 2 Goldspan Dragon
-3 Shatterskull Smashing
 3 Temple of Triumph
 4 Shatterskull Smashing
 4 Temple of Triumph
@@ -59,10 +75,10 @@
 2 Arni Brokenbrow
 2 Castle Embereth
 4 Faceless Haven
-1 Relic Robber
 1 Shock
-2 Relic Robber
+1 Relic Robber
 2 Shock
+2 Relic Robber
 3 Shock
 4 Shock
 1 Emeria's Call
@@ -73,47 +89,36 @@
 2 Frost Bite
 3 Frost Bite
 4 Frost Bite
-1 Riverglide Pathway
 1 Hengegate Pathway
+1 Riverglide Pathway
 1 Archpriest of Iona
-2 Riverglide Pathway
 2 Hengegate Pathway
+2 Riverglide Pathway
 2 Archpriest of Iona
-3 Riverglide Pathway
 3 Hengegate Pathway
+3 Riverglide Pathway
 3 Archpriest of Iona
-4 Riverglide Pathway
 4 Hengegate Pathway
+4 Riverglide Pathway
 4 Archpriest of Iona
-1 Halvar, God of Battle
 1 Swift Response
-1 Shadowspear
 1 Kor Blademaster
-1 Akiri, Fearless Voyager
-1 Fireblade Charger
 1 Relic Axe
-2 Halvar, God of Battle
 2 Swift Response
-2 Shadowspear
 2 Kor Blademaster
-2 Akiri, Fearless Voyager
 2 Relic Axe
-2 Fireblade Charger
-3 Halvar, God of Battle
 3 Swift Response
 3 Relic Axe
 3 Kor Blademaster
 3 Akiri, Fearless Voyager
-3 Fireblade Charger
 4 Swift Response
 4 Halvar, God of Battle
-4 Fireblade Charger
 4 Kor Blademaster
 4 Reidane, God of the Worthy
 8 Snow-Covered Mountain
 11 Snow-Covered Plains
-1 Akoum Hellhound
 1 Kabira Takedown
+1 Akoum Hellhound
 1 Resplendent Marshal
 1 Rally the Ranks
 1 Igneous Cur
