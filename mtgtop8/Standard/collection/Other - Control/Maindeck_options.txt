@@ -1,4 +1,4 @@
-2 In Search of Greatness
+2 Gilded Goose
 2 Rune of Might
 2 Runeforge Champion
 2 Rune of Sustenance
@@ -29,11 +29,11 @@
 5 Plains
 1 Temple of Triumph
 1 Castle Ardenvale
-1 Fire Prophecy
 1 Lukka, Coppercoat Outcast
 1 Outlaws' Merriment
-1 Elspeth, Sun's Nemesis
 1 Transmogrify
+1 Elspeth, Sun's Nemesis
+1 Fire Prophecy
 1 Soul Sear
 1 Mountain
 1 Forbidden Friendship
@@ -41,22 +41,22 @@
 1 Shatterskull Smashing
 1 Harmonious Archon
 1 Sejiri Shelter
-2 Fire Prophecy
 2 Castle Ardenvale
 2 Temple of Triumph
 2 Lukka, Coppercoat Outcast
 2 Transmogrify
-2 Soul Sear
 2 Elspeth, Sun's Nemesis
+2 Fire Prophecy
 2 Shatterskull Smashing
+2 Soul Sear
 2 Forbidden Friendship
 2 Mountain
 2 Needleverge Pathway
 2 Harmonious Archon
 3 The Birth of Meletis
-3 Fire Prophecy
-3 Soul Sear
 3 Transmogrify
+3 Soul Sear
+3 Fire Prophecy
 3 Needleverge Pathway
 3 Harmonious Archon
 3 Mountain
@@ -77,10 +77,10 @@
 4 Elspeth's Nightmare
 4 Swamp
 1 Calix, Destiny's Hand
+1 Vivien, Monsters' Advocate
 1 Ugin, the Spirit Dragon
 1 Garruk, Cursed Huntsman
 1 Cultivate
-1 Vivien, Monsters' Advocate
 1 Skyclave Apparition
 1 Eerie Ultimatum
 1 Doomskar
@@ -89,18 +89,18 @@
 1 Ondu Inversion
 1 Banishing Light
 1 Crawling Barrens
-2 Ugin, the Spirit Dragon
 2 Cultivate
-2 Eerie Ultimatum
+2 Ugin, the Spirit Dragon
+2 Garruk, Cursed Huntsman
 2 Skyclave Apparition
+2 Eerie Ultimatum
 2 Shatter the Sky
 2 Banishing Light
-2 Garruk, Cursed Huntsman
 2 Crawling Barrens
 3 Cultivate
 3 Banishing Light
-3 Skyclave Apparition
 3 Eerie Ultimatum
+3 Skyclave Apparition
 3 Temple of Silence
 3 Temple of Malady
 4 Banishing Light
@@ -130,34 +130,33 @@
 2 Llanowar Visionary
 3 Llanowar Visionary
 1 Kogla, the Titan Ape
+1 Tergrid, God of Fright
 1 Woodland Chasm
 1 Sculptor of Winter
-1 Tergrid, God of Fright
 1 Bala Ged Recovery
 1 Evolving Wilds
-1 Omen of the Hunt
 1 Great Hall of Starnheim
 1 Shimmerdrift Vale
 1 Snow-Covered Swamp
 1 Elderfang Disciple
-1 Snow-Covered Plains
 1 Snowfield Sinkhole
-1 Arctic Treeline
+1 Snow-Covered Plains
 1 Shepherd of the Flock
+1 Skull Raid
+1 Arctic Treeline
 1 Snow-Covered Forest
 1 Sarulf's Packmate
 1 Grasp of Darkness
+1 Omen of the Hunt
 1 Feed the Serpent
 1 Rampage of the Valkyries
-1 Skull Raid
 2 Sculptor of Winter
 2 Woodland Chasm
-2 Omen of the Hunt
 2 Arctic Treeline
 2 Evolving Wilds
 2 Shimmerdrift Vale
-2 Snow-Covered Forest
 2 Snowfield Sinkhole
+2 Snow-Covered Forest
 2 Sarulf's Packmate
 2 Snow-Covered Swamp
 2 Elderfang Disciple
@@ -166,10 +165,11 @@
 2 Grasp of Darkness
 2 Feed the Serpent
 2 Great Hall of Starnheim
+2 Omen of the Hunt
 3 Sculptor of Winter
 3 Woodland Chasm
-3 Shimmerdrift Vale
 3 Evolving Wilds
+3 Shimmerdrift Vale
 3 Sarulf's Packmate
 3 Snow-Covered Forest
 3 Snow-Covered Swamp
@@ -194,11 +194,11 @@
 6 Snow-Covered Forest
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
-1 Vorinclex, Monstrous Raider
 1 Bloodchief's Thirst
-1 Ketria Triome
 1 Hagra Mauling
 1 The World Tree
+1 Ketria Triome
+1 Vorinclex, Monstrous Raider
 1 Murderous Rider
 1 Chevill, Bane of Monsters
 1 Agonizing Remorse
@@ -211,8 +211,8 @@
 2 Bloodchief's Thirst
 2 The World Tree
 2 Polukranos, Unchained
-2 Easy Prey
 2 Chevill, Bane of Monsters
+2 Easy Prey
 2 Agonizing Remorse
 2 Kaya the Inexorable
 2 Murderous Rider

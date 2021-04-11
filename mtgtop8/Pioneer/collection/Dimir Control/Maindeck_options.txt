@@ -21,8 +21,8 @@
 1 Kalitas, Traitor of Ghet
 1 Silundi Vision
 1 Geier Reach Sanitarium
-1 Snow-Covered Island
 1 Snow-Covered Swamp
+1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 3 Thoughtseize
@@ -45,10 +45,10 @@
 1 Planewide Celebration
 1 Omen of the Sea
 1 Kiora Bests the Sea God
-1 Growth Spiral
 1 Elder Gargaroth
 1 Alrund's Epiphany
 1 Overgrown Tomb
+1 Growth Spiral
 1 Liliana, Dreadhorde General
 1 Binding the Old Gods
 1 Darkbore Pathway
@@ -69,11 +69,11 @@
 2 Wolfwillow Haven
 2 Courser of Kruphix
 2 Darkbore Pathway
-2 Growth Spiral
 2 Binding the Old Gods
 2 Emergent Ultimatum
 2 Forest
 2 Overgrown Tomb
+2 Growth Spiral
 2 Cultivate
 2 Barkchannel Pathway
 2 Zagoth Triome
@@ -82,17 +82,17 @@
 3 Omen of the Sea
 3 Darkbore Pathway
 3 Binding the Old Gods
-3 Growth Spiral
 3 Forest
 3 Shadows' Verdict
 3 Emergent Ultimatum
 3 Overgrown Tomb
+3 Growth Spiral
 3 Zagoth Triome
 4 Barkchannel Pathway
 4 Wolfwillow Haven
+4 Growth Spiral
 4 Omen of the Sea
 4 Darkbore Pathway
-4 Growth Spiral
 4 Emergent Ultimatum
 4 Binding the Old Gods
 4 Zagoth Triome
@@ -122,21 +122,13 @@
 1 Thing in the Ice
 1 Day's Undoing
 1 Ashiok, Nightmare Muse
-2 Cling to Dust
 2 Ashiok, Nightmare Muse
 2 Thing in the Ice
+2 Cling to Dust
 3 Thing in the Ice
 4 Thing in the Ice
 4 Clearwater Pathway
 4 Behold the Multiverse
-1 Lochmere Serpent
-1 Skywise Teachings
-1 Metallurgic Summonings
-2 Lochmere Serpent
-3 Swamp
-4 Swamp
-6 Island
-7 Island
 1 Blood Crypt
 1 Jace, Vryn's Prodigy
 1 Snow-Covered Mountain
@@ -151,10 +143,18 @@
 2 Jace, Vryn's Prodigy
 2 Release to the Wind
 2 Duress
-3 Valki, God of Lies
 3 Jace, Vryn's Prodigy
+3 Valki, God of Lies
 3 Blood Crypt
 3 Release to the Wind
-4 Valki, God of Lies
 4 Jace, Vryn's Prodigy
+4 Valki, God of Lies
 4 Choked Estuary
+1 Lochmere Serpent
+1 Skywise Teachings
+1 Metallurgic Summonings
+2 Lochmere Serpent
+3 Swamp
+4 Swamp
+6 Island
+7 Island

@@ -1,4 +1,16 @@
+1 Lava Dart
+1 Monastery Swiftspear
+2 Lava Dart
+2 Monastery Swiftspear
+2 Soul-Scar Mage
+2 Manamorphose
+3 Manamorphose
+3 Lava Dart
+3 Monastery Swiftspear
+3 Soul-Scar Mage
+4 Soul-Scar Mage
 4 Lava Dart
+4 Monastery Swiftspear
 4 Manamorphose
 1 Crash Through
 2 Crash Through
@@ -8,36 +20,17 @@
 3 Light Up the Stage
 3 Mountain
 4 Light Up the Stage
-1 Sunbaked Canyon
 4 Crash Through
+1 Sunbaked Canyon
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
-1 Wooded Foothills
 4 Mishra's Bauble
+1 Wooded Foothills
 2 Sunbaked Canyon
 2 Wooded Foothills
 3 Sunbaked Canyon
-1 Mutagenic Growth
-2 Mutagenic Growth
-3 Mutagenic Growth
-2 Mana Leak
-1 Spirebluff Canal
-2 Spirebluff Canal
-1 Valakut Awakening
-1 Riverglide Pathway
-1 Reflecting Pool
-2 Riverglide Pathway
-3 Cascade Bluffs
-3 Riverglide Pathway
-4 Riverglide Pathway
-4 Cascade Bluffs
-1 Sacred Foundry
-1 Bloodstained Mire
-7 Island
 1 Sulfur Falls
-1 Magmatic Sinkhole
-2 Valakut Awakening
 3 Spirebluff Canal
 4 Spirebluff Canal
 1 Kiki-Jiki, Mirror Breaker
@@ -45,86 +38,94 @@
 1 Deceiver Exarch
 2 Deceiver Exarch
 2 Kiki-Jiki, Mirror Breaker
-1 Ral, Izzet Viceroy
 1 Flame Slash
+1 Ral, Izzet Viceroy
+1 Sacred Foundry
+1 Mutagenic Growth
+2 Mutagenic Growth
+3 Mutagenic Growth
 3 Steam Vents
 1 Jace, the Mind Sculptor
+7 Island
 2 Flooded Strand
+1 Magmatic Sinkhole
 1 Minamo, School at Water's Edge
 1 Wandering Fumarole
-1 Arid Mesa
-2 Bloodstained Mire
+1 Bloodstained Mire
 2 Sacred Foundry
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep
+1 Arid Mesa
+2 Bloodstained Mire
 1 Inspiring Vantage
 2 Inspiring Vantage
 3 Inspiring Vantage
 4 Inspiring Vantage
 1 Crackling Drake
-1 Brazen Borrower
 3 Deceiver Exarch
 2 Sulfur Falls
 3 Flooded Strand
 4 Flooded Strand
-1 Mystic Sanctuary
-2 Mystic Sanctuary
 1 Blood Moon
 2 Blood Moon
 1 Fiery Islet
-2 Brazen Borrower
-1 Misty Rainforest
-1 Shark Typhoon
-2 Shark Typhoon
+1 Brazen Borrower
 1 Myth Realized
 1 Boros Charm
 2 Myth Realized
 2 Boros Charm
 3 Myth Realized
+1 Mystic Sanctuary
+2 Mystic Sanctuary
+3 Force of Negation
+1 Shark Typhoon
+2 Shark Typhoon
+2 Brazen Borrower
+1 Misty Rainforest
 1 Polluted Delta
 2 Jace, the Mind Sculptor
-3 Force of Negation
-1 Bonecrusher Giant
-2 Bonecrusher Giant
 2 Reflecting Pool
-3 Wooded Foothills
 1 Through the Breach
 2 Through the Breach
-1 Kiln Fiend
-2 Kiln Fiend
-1 Lava Spike
-2 Lava Spike
-1 Stomping Ground
-8 Island
 1 Emrakul, the Aeons Torn
 2 Emrakul, the Aeons Torn
 3 Through the Breach
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
 4 Through the Breach
-1 Deprive
-3 Lava Spike
-4 Lava Spike
-4 Mountain
-3 Kiln Fiend
 3 Reflecting Pool
-2 Misty Rainforest
-3 Misty Rainforest
-1 Temur Battle Rage
-2 Temur Battle Rage
-1 The Royal Scions
-2 Stomping Ground
-4 Misty Rainforest
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+1 Kiln Fiend
+2 Kiln Fiend
+1 Deprive
 1 Temple of Epiphany
 4 Reflecting Pool
+3 Wooded Foothills
+3 Kiln Fiend
+4 Mountain
+1 Lava Spike
+2 Lava Spike
+1 Stomping Ground
+2 Temple of Epiphany
+3 Valakut Awakening
+3 Temple of Epiphany
+4 Valakut Awakening
+4 Temple of Epiphany
+1 Temur Battle Rage
+2 Temur Battle Rage
+3 Lava Spike
+4 Lava Spike
+8 Island
 2 Polluted Delta
-1 Snow-Covered Mountain
 1 Seal of Fire
 2 Seal of Fire
 4 Sunbaked Canyon
-2 The Royal Scions
+1 Snow-Covered Mountain
+2 Misty Rainforest
+3 Misty Rainforest
 4 Kiln Fiend
-3 Bloodstained Mire
+2 Stomping Ground
 1 Sprite Dragon
 2 Sprite Dragon
 3 Sprite Dragon
@@ -141,45 +142,30 @@
 12 Mountain
 1 Bedlam Reveler
 2 Bedlam Reveler
-2 Temple of Epiphany
-3 Valakut Awakening
-3 Temple of Epiphany
-4 Valakut Awakening
-4 Temple of Epiphany
+1 The Royal Scions
 9 Island
 3 Kiki-Jiki, Mirror Breaker
-1 Blast Zone
-2 Magmatic Sinkhole
-3 Brazen Borrower
-4 Brazen Borrower
+4 Misty Rainforest
 1 Castle Vantress
 1 Vendilion Clique
 3 Sulfur Falls
 1 Serum Visions
 2 Serum Visions
-4 Bloodstained Mire
-1 Scourge of the Skyclaves
-1 Blood Crypt
-2 Blood Crypt
-2 Scourge of the Skyclaves
-3 Blood Crypt
-3 Scourge of the Skyclaves
-4 Scourge of the Skyclaves
-2 Wild Slash
+3 Bloodstained Mire
 3 Bedlam Reveler
+2 Wild Slash
+2 The Royal Scions
 13 Mountain
 14 Mountain
-2 Arid Mesa
-4 Wooded Foothills
 1 Ketria Triome
 1 Breeding Pool
+1 Field of Ruin
+2 Field of Ruin
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
 5 Snow-Covered Island
-1 Field of Ruin
-2 Field of Ruin
 3 Mana Leak
 3 Bonecrusher Giant
 2 Castle Vantress
@@ -187,8 +173,8 @@
 2 Behold the Multiverse
 1 Become Immense
 1 Sleight of Hand
-2 Become Immense
 2 Sleight of Hand
+2 Become Immense
 3 Sleight of Hand
 4 Sleight of Hand
 1 Snow-Covered Forest
@@ -207,10 +193,21 @@
 4 Wrenn and Six
 3 Abbot of Keral Keep
 4 Abbot of Keral Keep
+4 Bloodstained Mire
+1 Scourge of the Skyclaves
+1 Blood Crypt
+2 Scourge of the Skyclaves
+2 Blood Crypt
+3 Blood Crypt
+3 Scourge of the Skyclaves
 4 Blood Crypt
+4 Scourge of the Skyclaves
 1 Ancestral Vision
 2 Ancestral Vision
-1 Fire Prophecy
+1 Blast Zone
+2 Magmatic Sinkhole
+3 Brazen Borrower
+4 Brazen Borrower
 1 Burst Lightning
 2 Burst Lightning
 3 Fiery Islet
@@ -219,15 +216,13 @@
 1 Spell Pierce
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
-1 Dreadhorde Arcanist
-2 Dreadhorde Arcanist
-3 Dreadhorde Arcanist
-4 Dreadhorde Arcanist
 1 Tarmogoyf
 2 Tarmogoyf
+2 Arid Mesa
 3 Tarmogoyf
 3 Stomping Ground
 4 Tarmogoyf
+4 Wooded Foothills
 1 Goldspan Dragon
 2 Goldspan Dragon
 3 Goldspan Dragon
@@ -239,8 +234,6 @@
 1 Yidaro, Wandering Monster
 1 Redirect
 2 Flusterstorm
-1 Peek
-2 Peek
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 3 Mystic Sanctuary
@@ -253,13 +246,6 @@
 2 Runaway Steam-Kin
 3 Burst Lightning
 4 Deceiver Exarch
-1 Atarka's Command
-1 Swamp
-1 Fatal Push
-2 Atarka's Command
-2 Fatal Push
-3 Atarka's Command
-4 Atarka's Command
 1 Wild Nacatl
 2 Wild Nacatl
 3 Sacred Foundry
@@ -276,10 +262,10 @@
 4 Seal of Fire
 4 Copperline Gorge
 1 Inferno Titan
-1 Thryx, the Sudden Storm
 1 Stubborn Denial
 1 Faerie Conclave
 1 Glasspool Mimic
+1 Thryx, the Sudden Storm
 1 Invasion of the Giants
 2 Inferno Titan
 2 Faerie Conclave
@@ -309,11 +295,15 @@
 3 Arclight Phoenix
 4 Arclight Phoenix
 4 Thrill of Possibility
+1 Dreadhorde Arcanist
 1 Piracy Charm
 2 Deprive
+2 Dreadhorde Arcanist
 2 Piracy Charm
+3 Dreadhorde Arcanist
 3 Piracy Charm
 3 Polluted Delta
+4 Dreadhorde Arcanist
 4 Steam Vents
 4 Polluted Delta
 1 Magda, Brazen Outlaw
@@ -326,8 +316,8 @@
 3 Magda, Brazen Outlaw
 3 Mothdust Changeling
 3 Silumgar's Scorn
-4 Magda, Brazen Outlaw
 4 Mothdust Changeling
+4 Magda, Brazen Outlaw
 4 Silumgar's Scorn
 1 Thing in the Ice
 2 Thing in the Ice
@@ -336,12 +326,13 @@
 4 Thing in the Ice
 4 Bonecrusher Giant
 1 Izzet Charm
-1 Pestermite
 1 Grim Lavamancer
-2 Vendilion Clique
+1 Pestermite
 2 Izzet Charm
+2 Vendilion Clique
 3 Shark Typhoon
 4 Sulfur Falls
+1 Fire Prophecy
 6 Snow-Covered Island
 7 Snow-Covered Island
 8 Snow-Covered Island

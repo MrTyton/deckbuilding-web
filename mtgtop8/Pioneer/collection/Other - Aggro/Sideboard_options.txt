@@ -14,18 +14,6 @@
 1 Dead Weight
 2 Bloodchief's Thirst
 2 Negate
-1 Izzet Staticaster
-1 Barrin, Tolarian Archmage
-1 Deafening Silence
-1 Xathrid Necromancer
-1 Drannith Magistrate
-1 Sin Collector
-1 Kambal, Consul of Allocation
-1 Lavinia, Azorius Renegade
-1 Masked Vandal
-1 Anafenza, the Foremost
-2 Drannith Magistrate
-2 Deafening Silence
 1 Reidane, God of the Worthy
 2 Soul-Guide Lantern
 1 Declaration in Stone
@@ -40,6 +28,18 @@
 2 Charming Prince
 2 Return to Nature
 2 Shapers' Sanctuary
+1 Izzet Staticaster
+1 Deafening Silence
+1 Anafenza, the Foremost
+1 Barrin, Tolarian Archmage
+1 Xathrid Necromancer
+1 Drannith Magistrate
+1 Sin Collector
+1 Kambal, Consul of Allocation
+1 Masked Vandal
+1 Lavinia, Azorius Renegade
+2 Drannith Magistrate
+2 Deafening Silence
 1 Disdainful Stroke
 2 Disdainful Stroke
 1 Scorching Dragonfire
@@ -115,8 +115,8 @@
 1 Phyrexian Revoker
 1 Containment Priest
 1 Dusk / Dawn
-2 Reidane, God of the Worthy
 2 Containment Priest
+2 Reidane, God of the Worthy
 2 Spell Queller
 3 Spell Queller
 4 Spell Queller

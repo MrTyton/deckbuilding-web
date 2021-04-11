@@ -30,8 +30,8 @@
 4 Skullcrack
 4 Wooded Foothills
 1 Crash Through
-1 Bedlam Reveler
 1 Manamorphose
+1 Bedlam Reveler
 2 Crash Through
 2 Bedlam Reveler
 2 Manamorphose
@@ -62,8 +62,8 @@
 1 Seal of Fire
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
-1 Runaway Steam-Kin
 1 Risk Factor
+1 Runaway Steam-Kin
 2 Burst Lightning
 2 Runaway Steam-Kin
 3 Burst Lightning
@@ -96,15 +96,13 @@
 4 Bonecrusher Giant
 4 Seasoned Pyromancer
 4 Firebolt
-3 Sacred Foundry
-4 Sacred Foundry
-1 Gut Shot
 1 The Flame of Keld
 1 Ghitu Lavarunner
+1 Gut Shot
 1 Wizard's Lightning
-2 Gut Shot
 2 Wizard's Lightning
 2 The Flame of Keld
+2 Gut Shot
 2 Ghitu Lavarunner
 3 Bomat Courier
 3 Gut Shot
@@ -112,39 +110,41 @@
 3 The Flame of Keld
 3 Wizard's Lightning
 4 Bomat Courier
+4 Gut Shot
 4 Ghitu Lavarunner
 4 The Flame of Keld
-4 Gut Shot
+3 Sacred Foundry
+4 Sacred Foundry
 1 Mogg Fanatic
 1 Foundry Street Denizen
-1 Goblin Grenade
-1 Devastating Summons
-1 Goblin Bushwhacker
-1 Legion Loyalist
 1 Burning-Tree Emissary
-1 Wayward Guide-Beast
+1 Goblin Bushwhacker
+1 Goblin Grenade
 1 Reckless Bushwhacker
+1 Devastating Summons
+1 Legion Loyalist
+1 Wayward Guide-Beast
 1 Ramunap Ruins
 2 Foundry Street Denizen
+2 Burning-Tree Emissary
+2 Reckless Bushwhacker
 2 Goblin Bushwhacker
 2 Goblin Grenade
-2 Reckless Bushwhacker
 2 Devastating Summons
 2 Legion Loyalist
-2 Burning-Tree Emissary
 2 Wayward Guide-Beast
 2 Ramunap Ruins
 3 Foundry Street Denizen
 3 Goblin Grenade
-3 Goblin Bushwhacker
+3 Reckless Bushwhacker
 3 Burning-Tree Emissary
+3 Goblin Bushwhacker
 3 Ramunap Ruins
 3 Legion Loyalist
-3 Reckless Bushwhacker
 4 Foundry Street Denizen
 4 Goblin Grenade
-4 Goblin Bushwhacker
-4 Burning-Tree Emissary
 4 Reckless Bushwhacker
+4 Burning-Tree Emissary
+4 Goblin Bushwhacker
 4 Legion Loyalist
 4 Ramunap Ruins

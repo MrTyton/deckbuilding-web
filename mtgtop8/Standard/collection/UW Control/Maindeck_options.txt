@@ -71,10 +71,10 @@
 3 Yorion, Sky Nomad
 1 Snow-Covered Plains
 1 Snow-Covered Island
-2 Snow-Covered Island
 2 Snow-Covered Plains
-3 Snow-Covered Island
+2 Snow-Covered Island
 3 Snow-Covered Plains
+3 Snow-Covered Island
 4 Snow-Covered Island
 5 Snow-Covered Island
 1 Solemn Simulacrum
@@ -109,12 +109,12 @@
 1 Starnheim Unleashed
 1 Baneslayer Angel
 1 Fae of Wishes
-2 Starnheim Unleashed
 2 Baneslayer Angel
+2 Starnheim Unleashed
 2 Fae of Wishes
 3 Omen of the Sun
-3 Baneslayer Angel
 3 Fae of Wishes
+3 Baneslayer Angel
 4 Omen of the Sun
 4 Fae of Wishes
 4 Snow-Covered Plains
@@ -137,8 +137,6 @@
 1 Bubble Snare
 2 Bubble Snare
 3 Bubble Snare
-1 Giant Killer
-4 Field of Ruin
 1 Cosima, God of the Voyage
 1 Depart the Realm
 2 Cosima, God of the Voyage
@@ -147,8 +145,10 @@
 3 Cosima, God of the Voyage
 3 Depart the Realm
 4 Cosima, God of the Voyage
-4 Alrund's Epiphany
 4 Dream Trawler
+4 Alrund's Epiphany
+1 Giant Killer
+4 Field of Ruin
 1 Ravenform
 2 Ravenform
 3 Midnight Clock

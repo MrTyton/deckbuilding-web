@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Cycling%20Aggro/Cycling%20Aggro.txt)
 #### [Export Arena List](../collection/Cycling%20Aggro/Cycling%20Aggro_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Boon%20of%20the%20Wish-Giver%0A4%09Drannith%20Stinger%0A4%09Flourishing%20Fox%0A4%09Frostveil%20Ambush%0A4%09Go%20for%20Blood%0A4%09Hengegate%20Pathway%0A4%09Improbable%20Alliance%0A4%09Irencrag%20Pyromancer%0A1%09Island%0A1%09Mountain%0A4%09Needleverge%20Pathway%0A1%09Plains%0A4%09Raugrin%20Triome%0A4%09Riverglide%20Pathway%0A1%09Savai%20Triome%0A4%09Startling%20Development%0A4%09Valiant%20Rescuer%0A4%09Zenith%20Flare&deckside=3%09Disdainful%20Stroke%0A2%09Glass%20Casket%0A2%09Mystical%20Dispute%0A2%09Negate%0A4%09Redcap%20Melee%0A2%09Shredded%20Sails)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Boon%20of%20the%20Wish-Giver%0A4%09Drannith%20Stinger%0A4%09Flourishing%20Fox%0A4%09Frostveil%20Ambush%0A4%09Go%20for%20Blood%0A4%09Hengegate%20Pathway%0A4%09Improbable%20Alliance%0A4%09Irencrag%20Pyromancer%0A1%09Island%0A1%09Mountain%0A4%09Needleverge%20Pathway%0A1%09Plains%0A4%09Raugrin%20Triome%0A4%09Riverglide%20Pathway%0A1%09Savai%20Triome%0A4%09Startling%20Development%0A4%09Valiant%20Rescuer%0A4%09Zenith%20Flare&deckside=3%09Disdainful%20Stroke%0A2%09Glass%20Casket%0A2%09Mystical%20Dispute%0A2%09Negate%0A3%09Redcap%20Melee%0A2%09Shredded%20Sails%0A1%09Soul-Guide%20Lantern)
 # Maindeck
 
 |                                         Creature (16)                                          |                                        Enchantment (4)                                         |                                           Instant (12)                                           |                                           Land (16)                                            |                                            Sorcery (8)                                            |    Unknown (4)    |
@@ -18,40 +18,41 @@
 
 # Sideboard
 
-|                                      Artifact (2)                                       |                                         Instant (13)                                         |
-|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|2 [Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977)|3 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
-|                                                                                         |2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
-|                                                                                         |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |
-|                                                                                         |4 [Redcap Melee](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473097)     |
-|                                                                                         |2 [Shredded Sails](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479656)   |
+|                                         Artifact (3)                                          |                                         Instant (12)                                         |
+|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|2 [Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977)      |3 [Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)|
+|1 [Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|2 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020) |
+|                                                                                               |2 [Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)           |
+|                                                                                               |3 [Redcap Melee](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473097)     |
+|                                                                                               |2 [Shredded Sails](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479656)   |
 
 
 # Other Options
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                         Sideboard Card                                         |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
-|                    1|[Shredded Sails](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479656)      |                    1|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)   |
-|                    1|[Rielle, the Everwise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479723)|                    3|[Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977)         |
-|                    2|[Rielle, the Everwise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479723)|                    1|[Rielle, the Everwise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479723) |
-|                    1|[Neutralize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479579)          |                    2|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)   |
-|                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)   |                    2|[Rielle, the Everwise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479723) |
+|                    1|[Shredded Sails](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479656)      |                    4|[Redcap Melee](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473097)         |
+|                    1|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)   |                    1|[Rielle, the Everwise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479723) |
+|                    1|[Rielle, the Everwise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479723)|                    2|[Rielle, the Everwise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479723) |
+|                    2|[Rielle, the Everwise](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479723)|                    2|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)   |
+|                    1|[Neutralize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479579)          |                    3|[Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977)         |
 |                    2|[Shredded Sails](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479656)      |                    4|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)    |
-|                    2|[Neutralize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479579)          |                    1|[Improbable Alliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473155)  |
-|                    1|[Valakut Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491818)   |                    1|[Doomskar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503613)             |
+|                    2|[Neutralize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479579)          |                    1|[Irencrag Pyromancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473090)  |
+|                    2|[Disdainful Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420705)   |                    1|[Doomskar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503613)             |
 |                    1|[Ketria Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479770)       |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)       |
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                    1|[Banishing Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405135)      |
 |                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |                    2|[Banishing Light](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405135)      |
 |                    2|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)              |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)       |
 |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)    |                    2|[Doomskar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503613)             |
-|                     |                                                                                               |                    1|[Shatter the Sky](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476288)      |
-|                     |                                                                                               |                    2|[Shatter the Sky](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476288)      |
-|                     |                                                                                               |                    1|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)        |
-|                     |                                                                                               |                    1|[Heliod's Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476270)|
-|                     |                                                                                               |                    2|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)        |
+|                    3|[Shredded Sails](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479656)      |                    1|[Shatter the Sky](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476288)      |
+|                    1|[Footfall Crater](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479638)     |                    2|[Shatter the Sky](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476288)      |
+|                    2|[Footfall Crater](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479638)     |                    1|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)        |
+|                    4|[Footfall Crater](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479638)     |                    1|[Heliod's Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476270)|
+|                    3|[Footfall Crater](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479638)     |                    2|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)        |
 |                     |                                                                                               |                    3|[Negate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423707)               |
 |                     |                                                                                               |                    1|[Neutralize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479579)           |
 |                     |                                                                                               |                    2|[Neutralize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479579)           |
 |                     |                                                                                               |                    3|[Shredded Sails](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479656)       |
+|                     |                                                                                               |                    3|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)   |
 |                     |                                                                                               |                    4|[Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977)         |
 
