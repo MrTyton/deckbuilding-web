@@ -75,16 +75,16 @@
 1 Elvish Warmaster
 1 Fynn, the Fangbearer
 2 Fynn, the Fangbearer
-3 Jungle Hollow
 3 Fynn, the Fangbearer
-4 Jungle Hollow
+3 Jungle Hollow
 4 Fynn, the Fangbearer
+4 Jungle Hollow
 6 Swamp
 1 Tajuru Blightblade
 2 Oakhame Adversary
 2 Tajuru Blightblade
-3 Oakhame Adversary
 3 Tajuru Blightblade
+3 Oakhame Adversary
 4 Tajuru Blightblade
 10 Forest
 1 Evolving Wilds
@@ -128,9 +128,9 @@
 4 Boreal Outrider
 1 Egon, God of Death
 1 Call of the Death-Dweller
-1 The Binding of the Titans
 1 Hooded Blightfang
 1 Moss Viper
+1 The Binding of the Titans
 1 Mire Triton
 2 Egon, God of Death
 2 Call of the Death-Dweller
@@ -142,10 +142,10 @@
 3 The Binding of the Titans
 3 Moss Viper
 3 Hooded Blightfang
-4 Hooded Blightfang
-4 The Binding of the Titans
 4 Mire Triton
+4 The Binding of the Titans
 4 Moss Viper
+4 Hooded Blightfang
 1 Snakeskin Veil
 1 Tangled Florahedron
 1 Bonders' Enclave
@@ -191,7 +191,6 @@
 3 Wolfwillow Haven
 9 Snow-Covered Forest
 10 Snow-Covered Swamp
-1 Fiend Artisan
 1 Sarulf's Packmate
 1 Garruk's Uprising
 1 Wildwood Patrol
@@ -200,6 +199,7 @@
 1 Keeper of Fables
 1 Greater Sandwurm
 1 Feed the Serpent
+1 Fiend Artisan
 1 Gnottvold Recluse
 2 Sarulf's Packmate
 2 Keeper of Fables

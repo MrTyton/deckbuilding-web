@@ -1,8 +1,13 @@
+1 Kytheon, Hero of Akros
+1 Knight of the White Orchid
+2 Knight of the White Orchid
+1 Codespell Cleric
+2 Codespell Cleric
+4 Mutavault
+4 Fatal Push
+1 Glint-Sleeve Siphoner
 2 Glint-Sleeve Siphoner
 3 Glint-Sleeve Siphoner
-1 Mutavault
-2 Mutavault
-3 Mutavault
 1 Swamp
 1 Heartless Act
 1 Agadeem's Awakening
@@ -31,12 +36,10 @@
 3 Thoughtseize
 4 Clearwater Pathway
 4 Soaring Thought-Thief
-4 Watery Grave
 4 Thieves' Guild Enforcer
+4 Watery Grave
 4 Drown in the Loch
 4 Thoughtseize
-1 Unclaimed Territory
-2 Unclaimed Territory
 1 Declaration in Stone
 2 Declaration in Stone
 1 Temple Garden
@@ -70,8 +73,8 @@
 4 Elvish Mystic
 1 Steel Leaf Champion
 1 Rhonas the Indomitable
-2 Rhonas the Indomitable
 2 Steel Leaf Champion
+2 Rhonas the Indomitable
 3 Steel Leaf Champion
 4 Steel Leaf Champion
 5 Forest
@@ -131,6 +134,12 @@
 2 Reflector Mage
 3 Charming Prince
 3 Reflector Mage
+1 Soldier of the Pantheon
+1 Dire Tactics
+2 Soldier of the Pantheon
+3 Soldier of the Pantheon
+3 Codespell Cleric
+4 Codespell Cleric
 1 Castle Ardenvale
 1 Knight of Autumn
 1 Temple of Plenty
@@ -162,11 +171,11 @@
 2 Pyre of Heroes
 2 Acquisitions Expert
 2 Archfiend's Vessel
-3 Unclaimed Territory
 3 Llanowar Wastes
 3 Pyre of Heroes
 3 Renegade Rallier
 3 Acquisitions Expert
+3 Unclaimed Territory
 3 Mana Confluence
 3 Archfiend's Vessel
 4 Pyre of Heroes
@@ -184,11 +193,11 @@
 2 Militia Bugler
 2 Selfless Spirit
 2 Oketra's Monument
+3 Selfless Spirit
 3 Hengegate Pathway
 3 Hallowed Fountain
 3 Militia Bugler
 3 Oketra's Monument
-3 Selfless Spirit
 4 Hengegate Pathway
 4 Selfless Spirit
 4 Hallowed Fountain
@@ -348,71 +357,64 @@
 3 Seraph of the Scales
 3 Crackling Doom
 3 History of Benalia
-4 Lightning Strike
 4 Magmatic Channeler
 4 History of Benalia
 4 Crackling Doom
+4 Lightning Strike
+1 Inspiring Vantage
+1 Boros Charm
+1 Needleverge Pathway
 1 Gods Willing
+1 Battlefield Forge
 1 Reckless Rage
 1 Titan's Strength
-1 Needleverge Pathway
 1 Soul-Scar Mage
-1 Inspiring Vantage
 1 Favored Hoplite
 1 Tenth District Legionnaire
-1 Battlefield Forge
 1 Defiant Strike
 1 Gird for Battle
-1 Boros Charm
 1 Monastery Swiftspear
 1 Dreadhorde Arcanist
 2 Tenth District Legionnaire
+2 Needleverge Pathway
+2 Inspiring Vantage
+2 Battlefield Forge
+2 Boros Charm
 2 Gird for Battle
 2 Monastery Swiftspear
-2 Needleverge Pathway
-2 Boros Charm
 2 Gods Willing
-2 Battlefield Forge
 2 Soul-Scar Mage
 2 Reckless Rage
 2 Dreadhorde Arcanist
-2 Inspiring Vantage
 2 Titan's Strength
 2 Favored Hoplite
 2 Defiant Strike
 3 Tenth District Legionnaire
-3 Inspiring Vantage
-3 Favored Hoplite
-3 Defiant Strike
-3 Monastery Swiftspear
-3 Needleverge Pathway
 3 Battlefield Forge
 3 Boros Charm
+3 Inspiring Vantage
+3 Needleverge Pathway
+3 Favored Hoplite
+3 Defiant Strike
+3 Gird for Battle
+3 Monastery Swiftspear
 3 Gods Willing
 3 Reckless Rage
-3 Gird for Battle
 3 Dreadhorde Arcanist
 3 Soul-Scar Mage
 4 Tenth District Legionnaire
-4 Battlefield Forge
 4 Needleverge Pathway
+4 Inspiring Vantage
+4 Battlefield Forge
+4 Boros Charm
 4 Soul-Scar Mage
 4 Reckless Rage
 4 Defiant Strike
 4 Gods Willing
-4 Inspiring Vantage
 4 Monastery Swiftspear
 4 Dreadhorde Arcanist
-4 Boros Charm
 4 Gird for Battle
 4 Favored Hoplite
-1 Soldier of the Pantheon
-1 Codespell Cleric
-1 Dire Tactics
-2 Codespell Cleric
-2 Soldier of the Pantheon
-3 Soldier of the Pantheon
-4 Mutavault
 1 Questing Beast
 1 Barkchannel Pathway
 1 Voracious Hydra

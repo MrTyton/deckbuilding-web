@@ -1,16 +1,8 @@
-2 Elvish Spirit Guide
-1 Dismember
-2 Dismember
-4 Simian Spirit Guide
-1 Chrome Mox
-2 Chrome Mox
-1 Blood Sun
-1 Punishing Fire
 1 Grove of the Burnwillows
 1 Mountain
 1 Bonecrusher Giant
-1 Goblin Rabblemaster
 1 Fiery Confluence
+1 Goblin Rabblemaster
 2 Blood Sun
 2 Punishing Fire
 2 Grove of the Burnwillows
@@ -25,9 +17,21 @@
 4 Blood Sun
 4 Grove of the Burnwillows
 4 Punishing Fire
-4 City of Traitors
 4 Goblin Rabblemaster
 4 Mountain
+2 Karakas
+1 Shatterskull Smashing
+2 Shatterskull Smashing
+5 Mountain
+6 Mountain
+4 City of Traitors
+1 Wastes
+1 Elvish Spirit Guide
+2 Elvish Spirit Guide
+1 Mishra's Factory
+2 Mishra's Factory
+1 Dismember
+2 Dismember
 1 Blast Zone
 1 Once Upon a Time
 2 Once Upon a Time
@@ -45,11 +49,7 @@
 4 Walking Ballista
 2 Blast Zone
 1 Birgi, God of Storytelling
-1 Shatterskull Smashing
 2 Birgi, God of Storytelling
-2 Shatterskull Smashing
-5 Mountain
-6 Mountain
 1 Eldrazi Obligator
 1 Hazoret the Fervent
 1 Mox Diamond
@@ -62,6 +62,7 @@
 3 Savannah
 4 Mox Diamond
 4 Once Upon a Time
+2 Bonecrusher Giant
 1 Palace Jailer
 1 Thalia, Heretic Cathar
 2 Thalia, Heretic Cathar
@@ -110,21 +111,20 @@
 1 Abrade
 1 Emberwilde Captain
 2 Snow-Covered Mountain
-2 Bonecrusher Giant
 3 Snow-Covered Mountain
 3 Blast Zone
 1 Archon of Emeria
 2 Archon of Emeria
 3 Archon of Emeria
+1 Silent Clearing
 1 Ghost Quarter
 1 Skyclave Apparition
-1 Silent Clearing
 1 Leonin Arbiter
 1 Containment Priest
 1 Emeria's Call
 1 Plains
-2 Plains
 2 Silent Clearing
+2 Plains
 2 Containment Priest
 2 Skyclave Apparition
 2 Palace Jailer
@@ -152,3 +152,5 @@
 4 Plague Engineer
 4 Lotus Petal
 4 Caves of Koilos
+3 Shatterskull Smashing
+7 Mountain

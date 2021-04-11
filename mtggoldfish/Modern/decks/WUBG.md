@@ -28,10 +28,10 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                          |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
 |--------------------:|------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    1|[Goblin Charbelcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438497)   |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)   |
-|                    2|[Goblin Charbelcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438497)   |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)   |
-|                    2|[Golgari Signet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405248)       |                    1|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)|
+|                    3|[Shatterskull Smashing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491802)|                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)   |
+|                    1|[Goblin Charbelcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438497)   |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)   |
+|                    2|[Goblin Charbelcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438497)   |                    1|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)|
 |                    3|[Pelakka Predation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491757)    |                    2|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)|
 |                    4|[Pelakka Predation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491757)    |                    3|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)|
-|                    3|[Shatterskull Smashing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491802)|                    4|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)|
+|                    2|[Golgari Signet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405248)       |                    4|[Pact of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442057)|
 

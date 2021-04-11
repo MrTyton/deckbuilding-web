@@ -69,7 +69,6 @@
 3 Blood Moon
 1 Lightning Bolt
 1 Spikefield Hazard
-1 Irencrag Feat
 1 Reforge the Soul
 1 Bala Ged Recovery
 1 Recross the Paths
@@ -78,31 +77,32 @@
 1 Valakut Awakening
 1 Desperate Ritual
 1 Pyretic Ritual
+1 Irencrag Feat
 2 Spikefield Hazard
 2 Bala Ged Recovery
-2 Irencrag Feat
 2 Pyretic Ritual
+2 Irencrag Feat
 2 Valakut Awakening
 2 Manamorphose
 2 Recross the Paths
 2 Pact of Negation
 2 Desperate Ritual
 3 Valakut Awakening
-3 Bala Ged Recovery
 3 Spikefield Hazard
-3 Irencrag Feat
 3 Manamorphose
+3 Irencrag Feat
 3 Recross the Paths
 3 Desperate Ritual
 3 Pyretic Ritual
 3 Goblin Charbelcher
+3 Bala Ged Recovery
 4 Valakut Awakening
 4 Spikefield Hazard
-4 Irencrag Feat
 4 Goblin Charbelcher
 4 Manamorphose
 4 Recross the Paths
 4 Pyretic Ritual
+4 Irencrag Feat
 4 Desperate Ritual
 1 Thassa's Oracle
 2 Pelakka Predation
@@ -170,6 +170,14 @@
 4 Ardent Plea
 4 Violent Outburst
 4 Flooded Strand
+1 Nature's Claim
+1 Leyline of Sanctity
+2 Nature's Claim
+2 Leyline of Sanctity
+3 Leyline of Sanctity
+4 Leyline of Sanctity
+3 Pact of Negation
+4 Bala Ged Recovery
 1 Unburial Rites
 1 Open the Omenpaths
 1 Talisman of Indulgence
@@ -179,16 +187,8 @@
 2 Open the Omenpaths
 3 Open the Omenpaths
 3 Talisman of Indulgence
-4 Open the Omenpaths
 4 Talisman of Indulgence
-1 Nature's Claim
-1 Leyline of Sanctity
-2 Nature's Claim
-2 Leyline of Sanctity
-3 Leyline of Sanctity
-4 Leyline of Sanctity
-3 Pact of Negation
-4 Bala Ged Recovery
+4 Open the Omenpaths
 1 Remand
 2 Remand
 3 Remand
@@ -205,17 +205,16 @@
 1 Fire Prophecy
 1 Spell Snare
 1 Repeal
-1 Anger of the Gods
 1 Arid Mesa
 1 Polymorph
 1 Izzet Charm
 1 Mana Leak
 1 Bloodstained Mire
 1 Sacred Foundry
+1 Anger of the Gods
 1 Cloudform
-2 Mountain
 2 Transmogrify
-2 Lightning Bolt
+2 Mountain
 2 Anger of the Gods
 2 Spell Snare
 2 Dwarven Mine
@@ -224,6 +223,7 @@
 2 Raugrin Triome
 2 Arid Mesa
 2 Izzet Charm
+2 Lightning Bolt
 2 Polymorph
 3 Steam Vents
 3 Arid Mesa

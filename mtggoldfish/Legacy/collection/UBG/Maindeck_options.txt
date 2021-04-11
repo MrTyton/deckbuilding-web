@@ -1,20 +1,20 @@
+1 Tropical Island
 1 Bloodstained Mire
 1 Stifle
-1 Tropical Island
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 3 Misty Rainforest
+1 Bayou
 1 Jace, the Mind Sculptor
 1 Drown in the Loch
-1 Bayou
 1 Baleful Strix
+2 Tropical Island
 2 Baleful Strix
 2 Stifle
-2 Tropical Island
 3 Baleful Strix
 1 Abrupt Decay
-1 Island
 3 Uro, Titan of Nature's Wrath
+1 Island
 3 Stifle
 4 Misty Rainforest
 1 Assassin's Trophy
@@ -48,13 +48,13 @@
 3 Assassin's Trophy
 1 Badlands
 1 Lightning Bolt
+1 Forest
 2 Snow-Covered Forest
 3 Ice-Fang Coatl
 3 Verdant Catacombs
 1 Cling to Dust
 2 Island
 2 Jace, the Mind Sculptor
-1 Forest
 1 Scavenging Ooze
 1 Ethereal Forager
 1 Kolaghan's Command
@@ -64,16 +64,16 @@
 2 Lightning Bolt
 1 Court of Cunning
 2 Court of Cunning
+1 Life from the Loam
 1 Preordain
 3 Hymn to Tourach
+1 Karakas
 2 Leovold, Emissary of Trest
 2 Swamp
 2 Kolaghan's Command
-1 Life from the Loam
 3 Flooded Strand
 3 Snow-Covered Island
 1 Mystic Sanctuary
-1 Karakas
 3 Bloodstained Mire
 4 Assassin's Trophy
 3 Court of Cunning
@@ -86,8 +86,8 @@
 3 Fatal Push
 1 Toxic Deluge
 1 Dack Fayden
-1 Grove of the Burnwillows
 1 Punishing Fire
+1 Grove of the Burnwillows
 2 Dack Fayden
 2 Grove of the Burnwillows
 2 Punishing Fire
@@ -96,20 +96,20 @@
 1 Marsh Flats
 3 Ethereal Forager
 1 Dismember
-4 Bloodstained Mire
+3 Tropical Island
+1 Green Sun's Zenith
+2 Green Sun's Zenith
 1 Noble Hierarch
 2 Noble Hierarch
+4 Bloodstained Mire
 3 Scalding Tarn
 1 Liliana's Triumph
 3 Dack Fayden
 2 Hullbreacher
 4 Ice-Fang Coatl
-1 Green Sun's Zenith
 1 Dryad Arbor
-2 Green Sun's Zenith
 1 Tarmogoyf
 2 Tarmogoyf
-3 Tropical Island
 2 Marsh Flats
 3 Gurmag Angler
 2 Snow-Covered Swamp
@@ -119,32 +119,62 @@
 3 Green Sun's Zenith
 4 Green Sun's Zenith
 1 Birds of Paradise
-3 Punishing Fire
+1 Bojuka Bog
 3 Tarmogoyf
 4 Tarmogoyf
+3 Punishing Fire
 2 Cling to Dust
+1 Tireless Tracker
+1 Elvish Reclaimer
+2 Elvish Reclaimer
+3 Elvish Reclaimer
+4 Elvish Reclaimer
 2 Dismember
 4 Flooded Strand
 4 Watery Grave
 1 Inquisition of Kozilek
-1 Tireless Tracker
-4 Tropical Island
-1 Bojuka Bog
 4 Uro, Titan of Nature's Wrath
-3 Cling to Dust
+4 Tropical Island
 4 Verdant Catacombs
-1 Elvish Reclaimer
-1 Dark Depths
+3 Cling to Dust
+1 Ramunap Excavator
+1 Field of the Dead
+1 Waterlogged Grove
+2 Life from the Loam
 1 Thespian's Stage
-2 Elvish Reclaimer
-3 Elvish Reclaimer
-4 Elvish Reclaimer
+1 Dark Depths
 1 Nissa of Shadowed Boughs
 2 Inquisition of Kozilek
 1 Mountain
 4 Scalding Tarn
 1 Prismatic Vista
 1 Hexdrinker
+1 Breeding Pool
+1 Windswept Heath
+1 Valakut, the Molten Pinnacle
+1 Dryad of the Ilysian Grove
+1 Primeval Titan
+1 Blast Zone
+1 Cavern of Souls
+1 Wooded Foothills
+1 Once Upon a Time
+1 Oracle of Mul Daya
+1 Ancient Tomb
+2 Cavern of Souls
+2 Primeval Titan
+2 Ancient Tomb
+2 Valakut, the Molten Pinnacle
+2 Once Upon a Time
+2 Dryad of the Ilysian Grove
+3 Once Upon a Time
+3 Ancient Tomb
+3 Primeval Titan
+3 Dryad of the Ilysian Grove
+3 Cavern of Souls
+4 Cavern of Souls
+4 Once Upon a Time
+4 Ancient Tomb
+4 Dryad of the Ilysian Grove
 2 Narset, Parter of Veils
 3 Lightning Bolt
 3 Drown in the Loch
@@ -155,18 +185,22 @@
 1 Angrath's Rampage
 3 Kolaghan's Command
 1 Tyrant's Scorn
+1 Mox Diamond
+2 Mox Diamond
+3 Mox Diamond
+4 Mox Diamond
+1 Arasta of the Endless Web
 1 Dead of Winter
-1 Ramunap Excavator
 1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
 2 Hexdrinker
+1 Exploration
+2 Exploration
+3 Exploration
 4 Abrupt Decay
 1 Flusterstorm
-4 Lightning Bolt
-1 Field of the Dead
-1 Waterlogged Grove
-2 Life from the Loam
 3 Life from the Loam
+4 Lightning Bolt
 2 Birds of Paradise
 1 True-Name Nemesis
 2 True-Name Nemesis
@@ -178,10 +212,11 @@
 2 Day's Undoing
 1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
+2 Wooded Foothills
+2 Windswept Heath
 2 Toxic Deluge
 1 Tasigur, the Golden Fang
 1 Oko, Thief of Crowns
-1 Breeding Pool
 1 Jolrael, Mwonvuli Recluse
 2 Oko, Thief of Crowns
 2 Breeding Pool
@@ -198,16 +233,16 @@
 2 Prismatic Vista
 3 Island
 3 Prismatic Vista
+1 Spell Pierce
+1 Swords to Plowshares
+1 Teferi, Time Raveler
+1 Tundra
+1 Scrubland
+2 Swords to Plowshares
+3 Swords to Plowshares
 1 Meren of Clan Nel Toth
 3 Snow-Covered Forest
 3 Leovold, Emissary of Trest
-1 Teferi, Time Raveler
-1 Spell Pierce
-1 Tundra
-1 Scrubland
-1 Swords to Plowshares
-2 Swords to Plowshares
-3 Swords to Plowshares
 1 Steam Vents
 1 Sprite Dragon
 2 Sprite Dragon
@@ -222,12 +257,12 @@
 1 Sea Gate Stormcaller
 1 Opposition Agent
 1 Cabal Therapy
-1 Unearth
 1 Neoform
+1 Unearth
 2 Cabal Therapy
 2 Sea Gate Stormcaller
-2 Unearth
 2 Neoform
+2 Unearth
 3 Birds of Paradise
 3 Cabal Therapy
 3 Sea Gate Stormcaller
@@ -242,22 +277,6 @@
 2 Flusterstorm
 4 Cling to Dust
 4 Hymn to Tourach
-1 Dark Confidant
-2 Dark Confidant
-3 Hexdrinker
-3 Dark Confidant
-4 Hexdrinker
-4 Dark Confidant
-1 Thought Scour
-1 Zagoth Triome
-1 Lonely Sandbar
-1 Exploration
-1 Tranquil Thicket
-2 Thought Scour
-2 Field of the Dead
-2 Exploration
-3 Exploration
-4 Exploration
 1 Abundant Growth
 2 Abundant Growth
 2 Forest
@@ -265,3 +284,16 @@
 3 Preordain
 4 Abundant Growth
 4 Preordain
+1 Dark Confidant
+2 Dark Confidant
+3 Hexdrinker
+3 Dark Confidant
+4 Hexdrinker
+4 Dark Confidant
+1 Zagoth Triome
+1 Thought Scour
+1 Lonely Sandbar
+1 Tranquil Thicket
+2 Thought Scour
+2 Field of the Dead
+4 Exploration
