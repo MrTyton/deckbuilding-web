@@ -31,8 +31,8 @@
 1 Siege Rhino
 1 Warleader's Helix
 1 Obzedat, Ghost Council
-1 Knight of Autumn
 1 Dream Trawler
+1 Knight of Autumn
 1 Heartless Act
 1 Godless Shrine
 1 Savai Triome
@@ -46,10 +46,10 @@
 1 Snow-Covered Mountain
 1 Blood Crypt
 1 Eliminate
-1 Snow-Covered Island
-1 Snow-Covered Swamp
-1 Jace, Vryn's Prodigy
 1 Choked Estuary
+1 Snow-Covered Island
+1 Jace, Vryn's Prodigy
+1 Snow-Covered Swamp
 1 Bloodchief's Thirst
 1 Languish
 1 Hero's Downfall
@@ -59,21 +59,21 @@
 1 Release to the Wind
 1 Clearwater Pathway
 2 Hero's Downfall
-2 Snow-Covered Island
 2 Bloodchief's Thirst
-2 Snow-Covered Swamp
 2 Blood Crypt
-2 Jace, Vryn's Prodigy
+2 Snow-Covered Island
 2 Choked Estuary
+2 Snow-Covered Swamp
+2 Jace, Vryn's Prodigy
 2 Dig Through Time
 2 Release to the Wind
 2 Watery Grave
 2 Duress
 2 Opt
-3 Snow-Covered Island
 3 Dig Through Time
-3 Jace, Vryn's Prodigy
+3 Snow-Covered Island
 3 Choked Estuary
+3 Jace, Vryn's Prodigy
 3 Valki, God of Lies
 3 Thoughtseize
 3 Opt
@@ -117,6 +117,7 @@
 2 Glacial Fortress
 2 Raugrin Triome
 3 Bonecrusher Giant
+3 Thassa's Intervention
 3 Steam Vents
 3 Riverglide Pathway
 3 Silumgar's Scorn
@@ -129,13 +130,12 @@
 3 Glorybringer
 3 Goldspan Dragon
 3 Censor
-3 Thassa's Intervention
 4 Bonecrusher Giant
 4 Brazen Borrower
+4 Thassa's Intervention
 4 Steam Vents
 4 Silumgar's Scorn
 4 Deafening Clarion
-4 Thassa's Intervention
 4 Raugrin Triome
 4 Glorybringer
 4 Goldspan Dragon

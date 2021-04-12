@@ -52,8 +52,8 @@
 |                    2|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)      |                     |                                                                                               |
 |                    2|[Celestial Colonnade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457137)|                     |                                                                                               |
 |                    3|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989)   |                     |                                                                                               |
-|                    3|[Drowned Catacomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430633)   |                     |                                                                                               |
+|                    3|[Logic Knot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126151)         |                     |                                                                                               |
 |                    4|[Drowned Catacomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430633)   |                     |                                                                                               |
 |                    4|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989)   |                     |                                                                                               |
-|                    3|[Logic Knot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126151)         |                     |                                                                                               |
+|                    3|[Drowned Catacomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430633)   |                     |                                                                                               |
 

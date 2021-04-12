@@ -4,12 +4,12 @@
 3 Snow-Covered Island
 1 Barrin, Tolarian Archmage
 3 Snow-Covered Forest
-4 Baleful Strix
-3 Polluted Delta
 3 Prismatic Vista
 1 Teferi, Time Raveler
 1 Swords to Plowshares
 2 Swords to Plowshares
+3 Polluted Delta
+4 Baleful Strix
 1 Swamp
 1 Island
 1 Forest
@@ -33,6 +33,7 @@
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
+1 Intuition
 1 Skyclave Apparition
 1 Taiga
 3 Cavern Harpy
@@ -40,7 +41,6 @@
 2 Tropical Island
 4 Uro, Titan of Nature's Wrath
 1 Vendilion Clique
-1 Intuition
 1 Birds of Paradise
 2 Birds of Paradise
 3 Birds of Paradise
@@ -105,10 +105,10 @@
 1 Carpet of Flowers
 1 Hero of Precinct One
 2 Fatal Push
-3 Oko, Thief of Crowns
 1 Liliana's Triumph
 2 Plague Engineer
 3 Gilded Goose
+3 Oko, Thief of Crowns
 1 Voice of Resurgence
 2 Voice of Resurgence
 2 Tundra

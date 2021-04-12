@@ -14,14 +14,14 @@
 2 Giant Killer
 1 Mountain
 1 Plains
-2 Mountain
 2 Plains
-3 Mountain
+2 Mountain
 3 Plains
+3 Mountain
 4 Plains
 4 Mountain
-5 Plains
 5 Mountain
+5 Plains
 6 Plains
 7 Plains
 1 Shepherd of the Flock
@@ -54,8 +54,8 @@
 3 Shepherd of the Flock
 1 Goldspan Dragon
 2 Castle Embereth
-4 Giant Killer
 4 Shepherd of the Flock
+4 Giant Killer
 10 Snow-Covered Mountain
 3 Reidane, God of the Worthy
 4 Fabled Passage
@@ -68,10 +68,10 @@
 2 Shock
 8 Mountain
 9 Mountain
-1 Terror of the Peaks
-1 Thundering Rebuke
-1 Venerable Knight
 1 Glass Casket
+1 Thundering Rebuke
+1 Terror of the Peaks
+1 Venerable Knight
 2 Venerable Knight
 3 Venerable Knight
 4 Venerable Knight
@@ -82,6 +82,11 @@
 2 Shadowspear
 2 Underworld Rage-Hound
 3 Underworld Rage-Hound
+1 Relic Robber
+2 Relic Robber
+3 Shock
+4 Shock
+4 Frost Bite
 4 Reidane, God of the Worthy
 1 Elspeth Conquers Death
 1 Alpine Meadow
@@ -92,12 +97,7 @@
 3 Elspeth Conquers Death
 3 Goldspan Dragon
 3 Alpine Meadow
-4 Elspeth Conquers Death
 4 Goldspan Dragon
+4 Elspeth Conquers Death
 4 Alpine Meadow
-1 Relic Robber
-2 Relic Robber
-3 Shock
-4 Shock
-4 Frost Bite
 10 Snow-Covered Plains
