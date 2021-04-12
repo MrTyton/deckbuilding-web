@@ -35,12 +35,12 @@
 1 Deafening Silence
 1 Barrin, Tolarian Archmage
 1 Xathrid Necromancer
+1 Anafenza, the Foremost
 1 Drannith Magistrate
 1 Sin Collector
 1 Kambal, Consul of Allocation
-1 Masked Vandal
-1 Anafenza, the Foremost
 1 Lavinia, Azorius Renegade
+1 Masked Vandal
 2 Drannith Magistrate
 2 Deafening Silence
 1 Disdainful Stroke
@@ -90,13 +90,6 @@
 2 Selfless Spirit
 2 Noxious Grasp
 3 Isolate
-1 Thoughtseize
-2 Thoughtseize
-2 Fatal Push
-3 Thoughtseize
-3 Fatal Push
-4 Thoughtseize
-4 Fatal Push
 1 Light of Hope
 1 Deafening Clarion
 1 Wild Slash
@@ -109,6 +102,13 @@
 4 Deafening Clarion
 4 Wild Slash
 4 Light of Hope
+1 Thoughtseize
+2 Thoughtseize
+2 Fatal Push
+3 Thoughtseize
+3 Fatal Push
+4 Thoughtseize
+4 Fatal Push
 2 Dire Tactics
 3 Rest in Peace
 4 Duress
@@ -124,8 +124,8 @@
 4 Aether Gust
 1 Archon of Emeria
 1 Spell Queller
-1 Containment Priest
 1 Phyrexian Revoker
+1 Containment Priest
 1 Dusk / Dawn
 2 Reidane, God of the Worthy
 2 Containment Priest

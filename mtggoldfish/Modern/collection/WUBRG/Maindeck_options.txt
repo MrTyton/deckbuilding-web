@@ -1,29 +1,29 @@
 1 Unmoored Ego
 4 Kaya's Guile
 1 Kolaghan's Command
-1 Mountain
 1 Pillar of the Paruns
 2 Pillar of the Paruns
-1 Island
-3 Pillar of the Paruns
-1 Plains
-4 Omnath, Locus of Creation
-2 Verdant Catacombs
 4 Teferi, Time Raveler
+3 Pillar of the Paruns
+1 Mountain
+2 Verdant Catacombs
 1 Nahiri, the Harbinger
+1 Island
+4 Omnath, Locus of Creation
+1 Plains
 2 Nahiri, the Harbinger
-1 Swamp
 2 Assassin's Trophy
-4 Misty Rainforest
 1 Snow-Covered Forest
-3 Assassin's Trophy
-2 Forest
+1 Swamp
 1 Snow-Covered Island
 1 Snow-Covered Plains
+3 Assassin's Trophy
+4 Misty Rainforest
 4 Assassin's Trophy
-1 Dreadbore
-4 Windswept Heath
+2 Forest
 1 Snow-Covered Mountain
+4 Windswept Heath
+1 Dreadbore
 1 Raugrin Triome
 1 Hallowed Fountain
 1 Omen of the Sea
@@ -59,11 +59,11 @@
 3 Spreading Seas
 4 Spreading Seas
 1 Abrupt Decay
-3 Birds of Paradise
+1 Snow-Covered Swamp
 1 Deputy of Detention
 4 Wooded Foothills
 2 Lurrus of the Dream-Den
-1 Snow-Covered Swamp
+3 Birds of Paradise
 1 Flooded Strand
 1 Living End
 1 Curator of Mysteries
@@ -101,8 +101,8 @@
 1 Botanical Sanctum
 1 Violent Outburst
 1 Desert Cerodon
-2 Desert Cerodon
 2 Violent Outburst
+2 Desert Cerodon
 3 Violent Outburst
 3 Desert Cerodon
 4 Violent Outburst
@@ -133,8 +133,8 @@
 1 As Foretold
 4 Living End
 2 Abrupt Decay
-4 Pillar of the Paruns
 1 Fulminator Mage
+4 Niv-Mizzet Reborn
 1 Goblin Cratermaker
 1 Lithoform Blight
 4 Birds of Paradise
@@ -152,7 +152,6 @@
 1 Trial of Ambition
 2 Temple Garden
 1 Eidolon of Rhetoric
-4 Niv-Mizzet Reborn
 4 Stoneforge Mystic
 3 Abrupt Decay
 2 Steam Vents
@@ -175,6 +174,7 @@
 4 Remand
 4 Crashing Footfalls
 1 Cryptic Command
+4 Pillar of the Paruns
 1 Sword of Fire and Ice
 1 Ice-Fang Coatl
 3 Forest
@@ -250,8 +250,6 @@
 4 Glittering Wish
 1 Cosima, God of the Voyage
 1 Archon of Emeria
-1 Growth Spiral
-1 Nissa of Shadowed Boughs
 1 Oath of Kaya
 1 Reidane, God of the Worthy
 1 Spike Feeder

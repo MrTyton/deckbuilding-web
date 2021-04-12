@@ -9,11 +9,11 @@
 1 Hullbreacher
 1 Chrome Mox
 1 Blood Moon
-1 Fiery Islet
 1 Ash Barrens
 1 Chandra, Torch of Defiance
 1 Splinter Twin
 1 Deceiver Exarch
+1 Fiery Islet
 1 Izzet Charm
 2 Hullbreacher
 2 Day's Undoing
@@ -29,8 +29,8 @@
 3 Blood Moon
 3 Deceiver Exarch
 3 Izzet Charm
-4 Ancient Tomb
 4 Hullbreacher
+4 Ancient Tomb
 4 Day's Undoing
 4 Deceiver Exarch
 4 Izzet Charm
@@ -62,11 +62,11 @@
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
+1 Misty Rainforest
 1 Prismatic Vista
 1 Snow-Covered Forest
 1 Tropical Island
 1 Thoughtseize
-1 Misty Rainforest
 2 Misty Rainforest
 2 Prismatic Vista
 2 Thoughtseize
@@ -75,12 +75,6 @@
 1 Cascade Bluffs
 2 Snow-Covered Mountain
 2 Fiery Islet
-1 Maddening Cacophony
-1 Castle Vantress
-1 Brain Freeze
-2 Maddening Cacophony
-2 Brain Freeze
-3 Maddening Cacophony
 1 Veil of Summer
 1 Preordain
 1 Spell Pierce
@@ -90,6 +84,12 @@
 2 Spell Pierce
 2 Veil of Summer
 3 Veil of Summer
+1 Castle Vantress
+1 Maddening Cacophony
+1 Brain Freeze
+2 Maddening Cacophony
+2 Brain Freeze
+3 Maddening Cacophony
 1 Mountain
 2 Mountain
 2 Chandra, Torch of Defiance
@@ -98,8 +98,8 @@
 1 Abundant Growth
 1 Uro, Titan of Nature's Wrath
 1 Snow-Covered Swamp
-1 Abrupt Decay
 1 Dead of Winter
+1 Abrupt Decay
 1 Stasis
 1 Ral Zarek
 1 Fatal Push
@@ -107,11 +107,11 @@
 1 Verdant Catacombs
 1 Force of Negation
 1 Snapcaster Mage
-2 Snapcaster Mage
 2 Abrupt Decay
+2 Snapcaster Mage
 2 Abundant Growth
-2 Uro, Titan of Nature's Wrath
 2 Snow-Covered Forest
+2 Uro, Titan of Nature's Wrath
 2 Ral Zarek
 2 Stasis
 2 Ice-Fang Coatl
@@ -119,8 +119,8 @@
 2 Force of Negation
 3 Ice-Fang Coatl
 3 Abundant Growth
-3 Uro, Titan of Nature's Wrath
 3 Abrupt Decay
+3 Uro, Titan of Nature's Wrath
 3 Ral Zarek
 3 Stasis
 1 Bruvac the Grandiloquent

@@ -1,4 +1,4 @@
-3 Aegar, the Freezing Flame
+3 Snow-Covered Mountain
 3 Snow-Covered Island
 4 Snow-Covered Island
 4 Snow-Covered Mountain
@@ -19,8 +19,8 @@
 1 Castle Vantress
 1 Discontinuity
 1 Embercleave
-1 Into the Roil
 1 Lutri, the Spellchaser
+1 Into the Roil
 1 Lithoform Engine
 1 Castle Embereth
 2 The Royal Scions
@@ -34,32 +34,6 @@
 3 Embercleave
 3 Negate
 4 Opt
-1 Jwari Disruption
-1 Spikefield Hazard
-1 Stormwing Entity
-1 Crash Through
-1 Shock
-1 Riddleform
-2 Jwari Disruption
-2 Stormwing Entity
-2 Crash Through
-2 Shock
-2 Spikefield Hazard
-2 Riddleform
-3 Spikefield Hazard
-3 Jwari Disruption
-3 Crash Through
-3 Shatterskull Smashing
-3 Shock
-3 Stormwing Entity
-3 Riddleform
-4 Jwari Disruption
-4 Crash Through
-4 Shock
-4 Spikefield Hazard
-4 Riddleform
-4 Stormwing Entity
-4 Brazen Borrower
 1 Field of Ruin
 1 Crush the Weak
 1 Disdainful Stroke
@@ -67,8 +41,8 @@
 2 Crush the Weak
 2 Disdainful Stroke
 3 Temple of Epiphany
-4 Goldspan Dragon
 4 Squash
+4 Goldspan Dragon
 1 Irencrag Pyromancer
 1 Teferi, Master of Time
 1 Rielle, the Everwise
@@ -102,14 +76,40 @@
 3 Teferi, Master of Time
 3 Startling Development
 3 Improbable Alliance
-4 Neutralize
 4 Raugrin Triome
 4 Startling Development
 4 Go for Blood
 4 Faerie Vandal
+4 Neutralize
 4 Improbable Alliance
 4 Boon of the Wish-Giver
 4 Irencrag Pyromancer
+1 Jwari Disruption
+1 Spikefield Hazard
+1 Stormwing Entity
+1 Crash Through
+1 Shock
+1 Riddleform
+2 Jwari Disruption
+2 Stormwing Entity
+2 Crash Through
+2 Shock
+2 Spikefield Hazard
+2 Riddleform
+3 Spikefield Hazard
+3 Jwari Disruption
+3 Crash Through
+3 Shatterskull Smashing
+3 Shock
+3 Stormwing Entity
+3 Riddleform
+4 Jwari Disruption
+4 Crash Through
+4 Spikefield Hazard
+4 Riddleform
+4 Stormwing Entity
+4 Brazen Borrower
+4 Shock
 1 Quakebringer
 1 Battle of Frost and Fire
 1 Scorching Dragonfire
@@ -117,12 +117,12 @@
 2 Crystalline Giant
 2 Battle of Frost and Fire
 2 Scorching Dragonfire
-3 Quakebringer
 3 Tectonic Giant
 3 Calamity Bearer
+3 Quakebringer
 3 Crystalline Giant
-3 Scorching Dragonfire
 3 Battle of Frost and Fire
+3 Scorching Dragonfire
 4 Tectonic Giant
 4 Calamity Bearer
 4 Crystalline Giant
@@ -131,18 +131,18 @@
 1 Volatile Fjord
 1 Of One Mind
 1 Demon Bolt
+1 Basalt Ravager
 1 Heartfire Immolator
 1 Tazeem Roilmage
 1 Expedition Diviner
-1 Basalt Ravager
 1 Windrider Wizard
 1 Master of Winds
+2 Volatile Fjord
 2 Of One Mind
+2 Demon Bolt
 2 Basalt Ravager
 2 Expedition Diviner
-2 Demon Bolt
 2 Heartfire Immolator
-2 Volatile Fjord
 2 Windrider Wizard
 3 Of One Mind
 3 Basalt Ravager

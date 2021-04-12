@@ -1,4 +1,5 @@
 1 Unmoored Ego
+4 Fatal Push
 1 Kunoros, Hound of Athreos
 1 Yixlid Jailer
 1 Seal of Fire
@@ -9,7 +10,6 @@
 1 Fulminator Mage
 1 Auriok Champion
 3 Seal of Fire
-4 Fatal Push
 1 Eidolon of Rhetoric
 1 Ashiok, Dream Render
 1 Mystical Dispute
@@ -44,12 +44,11 @@
 3 Spell Pierce
 3 Faerie Macabre
 2 Anger of the Gods
-1 Gaea's Blessing
 1 Brazen Borrower
 2 Brazen Borrower
 1 Abrade
-1 Blood Moon
 1 Tormod's Crypt
+1 Blood Moon
 2 Blood Moon
 1 Magus of the Moon
 1 Timely Reinforcements
@@ -62,6 +61,7 @@
 3 Timely Reinforcements
 2 Magus of the Moon
 3 Anger of the Gods
+1 Gaea's Blessing
 1 Dovin's Veto
 1 Celestial Purge
 2 Celestial Purge
@@ -127,6 +127,8 @@
 2 Force of Negation
 2 Fulminator Mage
 3 Fulminator Mage
+1 Ravenous Trap
+3 Gemstone Caverns
 1 Nimble Obstructionist
 2 Nimble Obstructionist
 3 Nimble Obstructionist
@@ -134,8 +136,6 @@
 1 Thought Erasure
 2 Voice of Resurgence
 3 Voice of Resurgence
-1 Ravenous Trap
-3 Gemstone Caverns
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 4 Crashing Footfalls

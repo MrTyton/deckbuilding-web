@@ -1,3 +1,12 @@
+2 Deceiver Exarch
+2 Kiki-Jiki, Mirror Breaker
+3 Spirebluff Canal
+4 Spirebluff Canal
+1 Minamo, School at Water's Edge
+1 Wandering Fumarole
+2 Mountain
+1 Soul-Scar Mage
+1 Manamorphose
 1 Lava Dart
 1 Monastery Swiftspear
 2 Lava Dart
@@ -28,30 +37,19 @@
 4 Mishra's Bauble
 1 Wooded Foothills
 2 Sunbaked Canyon
-2 Wooded Foothills
-3 Sunbaked Canyon
-1 Sulfur Falls
-3 Spirebluff Canal
-4 Spirebluff Canal
-1 Kiki-Jiki, Mirror Breaker
-1 Deceiver Exarch
-1 Flusterstorm
-2 Deceiver Exarch
-2 Kiki-Jiki, Mirror Breaker
 1 Flame Slash
 1 Ral, Izzet Viceroy
+1 Crackling Drake
+2 Wooded Foothills
+3 Sunbaked Canyon
 1 Sacred Foundry
 1 Mutagenic Growth
 2 Mutagenic Growth
 3 Mutagenic Growth
-3 Steam Vents
+3 Deceiver Exarch
 1 Jace, the Mind Sculptor
-7 Island
-2 Flooded Strand
-1 Magmatic Sinkhole
-1 Minamo, School at Water's Edge
-1 Wandering Fumarole
 1 Bloodstained Mire
+1 Sulfur Falls
 2 Sacred Foundry
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep
@@ -61,13 +59,14 @@
 2 Inspiring Vantage
 3 Inspiring Vantage
 4 Inspiring Vantage
-1 Crackling Drake
-3 Deceiver Exarch
+3 Steam Vents
+2 Flooded Strand
+7 Island
+1 Magmatic Sinkhole
 2 Sulfur Falls
 3 Flooded Strand
 4 Flooded Strand
-1 Blood Moon
-2 Blood Moon
+2 Reflecting Pool
 1 Fiery Islet
 1 Brazen Borrower
 1 Myth Realized
@@ -75,18 +74,18 @@
 2 Myth Realized
 2 Boros Charm
 3 Myth Realized
-1 Mystic Sanctuary
-2 Mystic Sanctuary
 3 Force of Negation
 1 Shark Typhoon
 2 Shark Typhoon
+1 Blood Moon
+2 Blood Moon
 2 Brazen Borrower
-1 Misty Rainforest
-1 Polluted Delta
 2 Jace, the Mind Sculptor
-2 Reflecting Pool
+1 Misty Rainforest
 1 Through the Breach
 2 Through the Breach
+1 Mystic Sanctuary
+2 Mystic Sanctuary
 1 Emrakul, the Aeons Torn
 2 Emrakul, the Aeons Torn
 3 Through the Breach
@@ -94,11 +93,11 @@
 4 Emrakul, the Aeons Torn
 4 Through the Breach
 3 Reflecting Pool
+1 Polluted Delta
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 1 Kiln Fiend
 2 Kiln Fiend
-1 Deprive
 1 Temple of Epiphany
 4 Reflecting Pool
 3 Wooded Foothills
@@ -117,7 +116,7 @@
 3 Lava Spike
 4 Lava Spike
 8 Island
-2 Polluted Delta
+1 Deprive
 1 Seal of Fire
 2 Seal of Fire
 4 Sunbaked Canyon
@@ -147,10 +146,10 @@
 3 Kiki-Jiki, Mirror Breaker
 4 Misty Rainforest
 1 Castle Vantress
-1 Vendilion Clique
 3 Sulfur Falls
 1 Serum Visions
 2 Serum Visions
+2 Polluted Delta
 3 Bloodstained Mire
 3 Bedlam Reveler
 2 Wild Slash
@@ -168,7 +167,6 @@
 5 Snow-Covered Island
 3 Mana Leak
 3 Bonecrusher Giant
-2 Castle Vantress
 1 Behold the Multiverse
 2 Behold the Multiverse
 1 Become Immense
@@ -191,6 +189,7 @@
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
 4 Wrenn and Six
+2 Castle Vantress
 3 Abbot of Keral Keep
 4 Abbot of Keral Keep
 4 Bloodstained Mire
@@ -211,6 +210,7 @@
 1 Burst Lightning
 2 Burst Lightning
 3 Fiery Islet
+1 Vendilion Clique
 3 Serum Visions
 4 Serum Visions
 1 Spell Pierce
@@ -234,9 +234,6 @@
 1 Yidaro, Wandering Monster
 1 Redirect
 2 Flusterstorm
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
-3 Mystic Sanctuary
 1 Dispel
 2 Spell Pierce
 3 Ancestral Vision
@@ -261,20 +258,31 @@
 3 Copperline Gorge
 4 Seal of Fire
 4 Copperline Gorge
-1 Inferno Titan
+1 Invasion of the Giants
 1 Stubborn Denial
+1 Inferno Titan
 1 Faerie Conclave
 1 Glasspool Mimic
 1 Thryx, the Sudden Storm
-1 Invasion of the Giants
+2 Invasion of the Giants
 2 Inferno Titan
 2 Faerie Conclave
 2 Stubborn Denial
-2 Invasion of the Giants
-3 Inferno Titan
 3 Invasion of the Giants
-4 Inferno Titan
+3 Inferno Titan
 4 Invasion of the Giants
+4 Inferno Titan
+1 Thrill of Possibility
+1 Forgotten Cave
+1 Arclight Phoenix
+2 Forgotten Cave
+2 Thrill of Possibility
+2 Arclight Phoenix
+3 Gut Shot
+3 Thrill of Possibility
+3 Arclight Phoenix
+4 Thrill of Possibility
+4 Arclight Phoenix
 1 Nivmagus Elemental
 1 Ground Rift
 2 Nivmagus Elemental
@@ -284,21 +292,10 @@
 4 Nivmagus Elemental
 4 Ground Rift
 4 Fiery Islet
-1 Forgotten Cave
-1 Thrill of Possibility
-1 Arclight Phoenix
-2 Forgotten Cave
-2 Thrill of Possibility
-2 Arclight Phoenix
-3 Gut Shot
-3 Thrill of Possibility
-3 Arclight Phoenix
-4 Arclight Phoenix
-4 Thrill of Possibility
 1 Dreadhorde Arcanist
 1 Piracy Charm
-2 Dreadhorde Arcanist
 2 Deprive
+2 Dreadhorde Arcanist
 2 Piracy Charm
 3 Dreadhorde Arcanist
 3 Piracy Charm

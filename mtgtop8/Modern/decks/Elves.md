@@ -52,7 +52,7 @@
 |                    3|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)    |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |
 |                    3|[Steel Leaf Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443070)|                    2|[Heroic Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423776)|
 |                    4|[Steel Leaf Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443070)|                    2|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488) |
-|                     |                                                                                              |                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |
 |                     |                                                                                              |                    2|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |
+|                     |                                                                                              |                    2|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |
 |                     |                                                                                              |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)         |
 

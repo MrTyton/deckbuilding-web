@@ -85,14 +85,14 @@
 2 Snow-Covered Plains
 3 Solitary Confinement
 4 Rest in Peace
-1 Energy Field
 1 Words of Wind
+1 Energy Field
 1 Spreading Seas
 1 Force of Negation
-2 Energy Field
 2 Force of Negation
 2 Words of Wind
 2 Spreading Seas
+2 Energy Field
 3 Energy Field
 3 Shark Typhoon
 3 Omen of the Sea
@@ -105,6 +105,7 @@
 9 Snow-Covered Forest
 10 Snow-Covered Forest
 11 Snow-Covered Forest
+1 Trail of Crumbs
 1 Arcum's Astrolabe
 1 Detention Sphere
 1 Snow-Covered Mountain
@@ -112,14 +113,13 @@
 1 Bitterblossom
 1 Brazen Borrower
 1 The Royal Scions
-1 Trail of Crumbs
 1 Arcane Laboratory
 1 Omen of the Forge
 1 Happily Ever After
 1 Omen of the Sun
 1 Snow-Covered Swamp
-2 Arcum's Astrolabe
 2 Trail of Crumbs
+2 Arcum's Astrolabe
 3 Arcum's Astrolabe
 1 Oath of Nissa
 1 Enlightened Tutor
@@ -141,19 +141,19 @@
 1 Dark Depths
 1 Mox Diamond
 1 The Tabernacle at Pendrell Vale
+1 Wasteland
 1 Valakut Exploration
 1 Crop Rotation
 1 Bojuka Bog
 1 Field of the Dead
-1 Wasteland
 1 Rishadan Port
 1 Thespian's Stage
 1 Life from the Loam
 2 Thespian's Stage
 2 Mox Diamond
 2 Exploration
-2 Crop Rotation
 2 Wasteland
+2 Crop Rotation
 2 Dark Depths
 2 Taiga
 2 Life from the Loam
@@ -162,16 +162,16 @@
 2 Rishadan Port
 3 Crop Rotation
 3 Mox Diamond
-3 Exploration
 3 Life from the Loam
+3 Exploration
+3 Wasteland
 3 Thespian's Stage
 3 Mirri's Guile
-3 Wasteland
 3 Rishadan Port
 3 Valakut Exploration
-4 Valakut Exploration
 4 Mox Diamond
 4 Wasteland
+4 Valakut Exploration
 4 Exploration
 4 Thespian's Stage
 1 Ancient Tomb

@@ -17,8 +17,8 @@
 2 Mountain
 3 Plains
 3 Mountain
-4 Mountain
 4 Plains
+4 Mountain
 5 Plains
 6 Plains
 7 Plains
@@ -48,8 +48,8 @@
 1 Akiri, Fearless Voyager
 1 Fireblade Charger
 2 Halvar, God of Battle
-2 Shadowspear
 2 Akiri, Fearless Voyager
+2 Shadowspear
 2 Fireblade Charger
 3 Halvar, God of Battle
 3 Fireblade Charger
@@ -89,8 +89,22 @@
 3 Temple of Triumph
 4 Shatterskull Smashing
 4 Temple of Triumph
+1 Swift Response
+1 Relic Axe
+1 Kor Blademaster
+2 Swift Response
+2 Relic Axe
+2 Kor Blademaster
+3 Swift Response
+3 Relic Axe
+3 Kor Blademaster
+3 Akiri, Fearless Voyager
+4 Halvar, God of Battle
+4 Kor Blademaster
+4 Swift Response
 4 Reidane, God of the Worthy
 8 Snow-Covered Mountain
+11 Snow-Covered Plains
 1 Kabira Takedown
 1 Akoum Hellhound
 1 Resplendent Marshal
@@ -117,19 +131,5 @@
 4 Akoum Hellhound
 4 Alpine Houndmaster
 4 Bolt Hound
-4 Pack Leader
 10 Plains
-11 Snow-Covered Plains
-1 Swift Response
-1 Kor Blademaster
-1 Relic Axe
-2 Swift Response
-2 Kor Blademaster
-2 Relic Axe
-3 Swift Response
-3 Relic Axe
-3 Kor Blademaster
-3 Akiri, Fearless Voyager
-4 Swift Response
-4 Halvar, God of Battle
-4 Kor Blademaster
+4 Pack Leader

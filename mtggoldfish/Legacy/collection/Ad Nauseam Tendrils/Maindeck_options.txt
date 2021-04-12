@@ -1,14 +1,13 @@
-1 Swamp
 1 Snow-Covered Island
-2 Veil of Summer
-2 Island
+1 Swamp
 2 Snow-Covered Island
 1 Empty the Warrens
-1 Flusterstorm
-1 Dark Petition
+2 Island
 4 Duress
+1 Dark Petition
+2 Veil of Summer
+1 Flusterstorm
 1 Bloodstained Mire
-2 Bloodstained Mire
 2 Past in Flames
 1 Scalding Tarn
 2 Scalding Tarn
@@ -17,9 +16,9 @@
 1 Ruby Medallion
 1 Seething Song
 1 Mountain
-1 Ancient Tomb
 1 Rite of Flame
 1 Bonus Round
+1 Ancient Tomb
 1 Burning Wish
 2 Mountain
 2 Manamorphose
@@ -27,8 +26,8 @@
 2 Seething Song
 2 Bonus Round
 2 Rite of Flame
-2 Burning Wish
 2 Ancient Tomb
+2 Burning Wish
 3 Manamorphose
 3 Ruby Medallion
 3 Seething Song
@@ -47,6 +46,7 @@
 7 Mountain
 8 Mountain
 9 Mountain
+2 Bloodstained Mire
 1 Jeska's Will
 1 Birgi, God of Storytelling
 1 Light Up the Stage
@@ -61,18 +61,18 @@
 3 Ancient Tomb
 4 Jeska's Will
 4 Light Up the Stage
-1 Flooded Strand
-1 Abrupt Decay
-1 Badlands
 1 Hazoret's Undying Fury
 1 Sentinel Tower
 3 Past in Flames
 1 Reforge the Soul
 2 Reforge the Soul
+1 Abrupt Decay
 1 Pieces of the Puzzle
+1 Badlands
 1 Grim Tutor
 2 Abrupt Decay
 1 Fae of Wishes
+1 Flooded Strand
 1 Verdant Catacombs
 1 Chrome Mox
 1 Daze
@@ -80,19 +80,6 @@
 1 Simian Spirit Guide
 2 Simian Spirit Guide
 3 Simian Spirit Guide
-1 Entomb
-1 Griselbrand
-1 Shallow Grave
-1 Cabal Therapy
-1 Magus of the Mind
-2 Entomb
-2 Griselbrand
-2 Shallow Grave
-3 Entomb
-3 Shallow Grave
-3 Wishclaw Talisman
-4 Entomb
-4 Shallow Grave
 1 Surgical Extraction
 2 Surgical Extraction
 3 Surgical Extraction
@@ -100,14 +87,14 @@
 4 Surgical Extraction
 1 Act on Impulse
 1 Defense Grid
+1 Sandstone Needle
 1 Helm of Awakening
 1 Lightning Bolt
 1 Overmaster
 1 Grapeshot
-1 Sandstone Needle
 2 Act on Impulse
-2 Overmaster
 2 Sandstone Needle
+2 Overmaster
 2 Lightning Bolt
 3 Act on Impulse
 3 Lightning Bolt
