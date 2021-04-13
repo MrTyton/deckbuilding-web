@@ -6,7 +6,6 @@
 4 Omniscience
 1 Intuition
 3 Daze
-1 Spell Pierce
 1 Snow-Covered Island
 2 Snow-Covered Island
 1 Mystic Sanctuary
@@ -16,13 +15,14 @@
 1 Tropical Island
 2 Veil of Summer
 3 Veil of Summer
-1 Flusterstorm
-2 Flusterstorm
-2 Spell Pierce
 3 Polluted Delta
+1 Spell Pierce
 3 Snow-Covered Island
 1 Eureka
 2 Impulse
+1 Flusterstorm
+2 Flusterstorm
+2 Spell Pierce
 2 Tropical Island
 4 Cunning Wish
 1 Simian Spirit Guide
@@ -65,6 +65,14 @@
 1 Steam Vents
 2 Steam Vents
 3 Steam Vents
+1 Day's Undoing
+1 Hullbreacher
+2 Day's Undoing
+2 Hullbreacher
+3 Day's Undoing
+3 Hullbreacher
+4 Hullbreacher
+4 Day's Undoing
 1 Gemstone Caverns
 1 Tibalt's Trickery
 1 Violent Outburst
@@ -87,11 +95,11 @@
 2 Elvish Spirit Guide
 2 Gemstone Mine
 2 Shardless Agent
+2 Chancellor of the Annex
 2 Emrakul, the Promised End
 2 Saprazzan Skerry
 2 Sandstone Needle
 2 Tibalt's Trickery
-2 Chancellor of the Annex
 2 Mana Confluence
 3 City of Brass
 3 Mana Confluence

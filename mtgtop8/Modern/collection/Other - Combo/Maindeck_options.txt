@@ -15,8 +15,8 @@
 1 Pyretic Ritual
 1 Irencrag Feat
 2 Spikefield Hazard
-2 Bala Ged Recovery
 2 Pyretic Ritual
+2 Bala Ged Recovery
 2 Irencrag Feat
 2 Valakut Awakening
 2 Manamorphose
@@ -68,7 +68,6 @@
 1 Merchant Scroll
 1 Peer Through Depths
 1 Vizier of Tumbling Sands
-2 Lonely Sandbar
 2 Psychic Puppetry
 2 Island
 2 Dream's Grip
@@ -82,6 +81,7 @@
 2 Lotus Field
 2 Grapeshot
 2 Sleight of Hand
+2 Lonely Sandbar
 2 Past in Flames
 2 Twiddle
 3 Sleight of Hand
@@ -207,7 +207,6 @@
 1 Sacred Foundry
 1 Anger of the Gods
 1 Cloudform
-2 Arid Mesa
 2 Mountain
 2 Dwarven Mine
 2 Anger of the Gods
@@ -216,11 +215,12 @@
 2 Cloudform
 2 Raugrin Triome
 2 Transmogrify
+2 Arid Mesa
 2 Izzet Charm
 2 Lightning Bolt
 2 Polymorph
-3 Steam Vents
 3 Arid Mesa
+3 Steam Vents
 3 Dwarven Mine
 3 Transmogrify
 3 Lightning Bolt
@@ -345,10 +345,10 @@
 3 Karn, the Great Creator
 3 Lukka, Coppercoat Outcast
 3 Stomping Ground
+3 Birds of Paradise
 3 Forest
 3 Arbor Elf
 3 Chandra, Torch of Defiance
-3 Birds of Paradise
 3 Noble Hierarch
 3 Utopia Sprawl
 4 Chandra, Torch of Defiance

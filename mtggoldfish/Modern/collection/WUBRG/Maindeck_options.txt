@@ -28,7 +28,6 @@
 1 Hallowed Fountain
 1 Omen of the Sea
 2 Omen of the Sea
-1 Phantasmal Image
 1 Skyclave Apparition
 1 Charming Prince
 1 Meddling Mage
@@ -40,6 +39,7 @@
 1 Glasspool Mimic
 1 Omen of the Forge
 1 Brain Maggot
+1 Phantasmal Image
 1 Spellskite
 2 Skyclave Apparition
 2 Omen of the Forge
@@ -65,19 +65,19 @@
 2 Lurrus of the Dream-Den
 3 Birds of Paradise
 1 Flooded Strand
+1 Street Wraith
 1 Living End
 1 Curator of Mysteries
 1 Windcaller Aven
-1 Street Wraith
 1 Striped Riverwinder
 2 Street Wraith
 2 Curator of Mysteries
 2 Striped Riverwinder
 2 Windcaller Aven
 2 Living End
+3 Street Wraith
 3 Living End
 3 Curator of Mysteries
-3 Street Wraith
 3 Striped Riverwinder
 3 Windcaller Aven
 4 Striped Riverwinder
@@ -265,8 +265,6 @@
 1 Vendilion Clique
 1 Urza's Ruinous Blast
 2 Dreadbore
-1 Valakut Awakening
-2 Valakut Awakening
 1 Commandeer
 2 Commandeer
 2 Mystical Dispute
@@ -274,9 +272,23 @@
 1 Blood Crypt
 1 Loxodon Smiter
 2 Loxodon Smiter
+1 Valakut Awakening
+2 Valakut Awakening
+3 Hallowed Fountain
 2 Snow-Covered Island
 3 Snow-Covered Island
-3 Hallowed Fountain
+1 Watery Grave
+2 Breeding Pool
+3 Architects of Will
+4 Architects of Will
+1 Glacial Fortress
+2 Glacial Fortress
+2 Cryptic Command
+3 Glacial Fortress
+3 Cryptic Command
+4 Glacial Fortress
+7 Island
+8 Island
 1 Sunken Ruins
 1 Faerie Macabre
 1 Adarkar Wastes
@@ -288,23 +300,11 @@
 2 Generous Gift
 2 Failure/Comply
 2 Adarkar Wastes
-3 Seachrome Coast
 3 Polluted Delta
 3 Adarkar Wastes
 3 Imposing Vantasaur
-4 Seachrome Coast
+3 Seachrome Coast
 4 Imposing Vantasaur
 4 Adarkar Wastes
 4 Polluted Delta
-1 Glacial Fortress
-2 Glacial Fortress
-2 Cryptic Command
-3 Glacial Fortress
-3 Cryptic Command
-4 Glacial Fortress
-7 Island
-8 Island
-1 Watery Grave
-2 Breeding Pool
-3 Architects of Will
-4 Architects of Will
+4 Seachrome Coast
