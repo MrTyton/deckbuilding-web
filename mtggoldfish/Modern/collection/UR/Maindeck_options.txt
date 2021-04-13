@@ -2,24 +2,22 @@
 2 Kiki-Jiki, Mirror Breaker
 3 Spirebluff Canal
 4 Spirebluff Canal
-1 Minamo, School at Water's Edge
-1 Wandering Fumarole
 2 Mountain
 1 Soul-Scar Mage
-1 Manamorphose
-1 Lava Dart
 1 Monastery Swiftspear
-2 Lava Dart
 2 Monastery Swiftspear
 2 Soul-Scar Mage
-2 Manamorphose
-3 Manamorphose
-3 Lava Dart
 3 Monastery Swiftspear
 3 Soul-Scar Mage
 4 Soul-Scar Mage
-4 Lava Dart
 4 Monastery Swiftspear
+1 Manamorphose
+1 Lava Dart
+2 Lava Dart
+2 Manamorphose
+3 Manamorphose
+3 Lava Dart
+4 Lava Dart
 4 Manamorphose
 1 Crash Through
 2 Crash Through
@@ -29,32 +27,34 @@
 3 Light Up the Stage
 3 Mountain
 4 Light Up the Stage
-4 Crash Through
 1 Sunbaked Canyon
+1 Wooded Foothills
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
+4 Crash Through
+1 Minamo, School at Water's Edge
+1 Wandering Fumarole
 4 Mishra's Bauble
-1 Wooded Foothills
 2 Sunbaked Canyon
-1 Flame Slash
-1 Ral, Izzet Viceroy
-1 Crackling Drake
 2 Wooded Foothills
 3 Sunbaked Canyon
-1 Sacred Foundry
 1 Mutagenic Growth
 2 Mutagenic Growth
 3 Mutagenic Growth
-3 Deceiver Exarch
-1 Jace, the Mind Sculptor
+1 Flame Slash
+1 Ral, Izzet Viceroy
+1 Sacred Foundry
 1 Bloodstained Mire
+1 Crackling Drake
+3 Deceiver Exarch
+1 Arid Mesa
+2 Bloodstained Mire
+1 Jace, the Mind Sculptor
 1 Sulfur Falls
 2 Sacred Foundry
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep
-1 Arid Mesa
-2 Bloodstained Mire
 1 Inspiring Vantage
 2 Inspiring Vantage
 3 Inspiring Vantage
@@ -94,28 +94,29 @@
 4 Through the Breach
 3 Reflecting Pool
 1 Polluted Delta
-1 Bonecrusher Giant
-2 Bonecrusher Giant
+3 Wooded Foothills
 1 Kiln Fiend
 2 Kiln Fiend
-1 Temple of Epiphany
-4 Reflecting Pool
-3 Wooded Foothills
-3 Kiln Fiend
-4 Mountain
 1 Lava Spike
 2 Lava Spike
+1 Bonecrusher Giant
+2 Bonecrusher Giant
 1 Stomping Ground
-2 Temple of Epiphany
-3 Valakut Awakening
-3 Temple of Epiphany
-4 Valakut Awakening
-4 Temple of Epiphany
-1 Temur Battle Rage
-2 Temur Battle Rage
+1 Temple of Epiphany
+4 Reflecting Pool
 3 Lava Spike
 4 Lava Spike
+4 Mountain
+3 Kiln Fiend
+2 Temple of Epiphany
+3 Temple of Epiphany
+3 Valakut Awakening
+4 Temple of Epiphany
+4 Valakut Awakening
+1 Temur Battle Rage
+2 Temur Battle Rage
 8 Island
+2 Stomping Ground
 1 Deprive
 1 Seal of Fire
 2 Seal of Fire
@@ -124,7 +125,7 @@
 2 Misty Rainforest
 3 Misty Rainforest
 4 Kiln Fiend
-2 Stomping Ground
+3 Bloodstained Mire
 1 Sprite Dragon
 2 Sprite Dragon
 3 Sprite Dragon
@@ -149,13 +150,22 @@
 3 Sulfur Falls
 1 Serum Visions
 2 Serum Visions
+4 Bloodstained Mire
+1 Blood Crypt
+1 Scourge of the Skyclaves
+2 Scourge of the Skyclaves
+2 Blood Crypt
+3 Blood Crypt
+3 Scourge of the Skyclaves
+4 Scourge of the Skyclaves
 2 Polluted Delta
-3 Bloodstained Mire
-3 Bedlam Reveler
 2 Wild Slash
+3 Bedlam Reveler
 2 The Royal Scions
 13 Mountain
 14 Mountain
+2 Arid Mesa
+4 Wooded Foothills
 1 Ketria Triome
 1 Breeding Pool
 1 Field of Ruin
@@ -175,6 +185,8 @@
 2 Become Immense
 3 Sleight of Hand
 4 Sleight of Hand
+3 Abbot of Keral Keep
+4 Abbot of Keral Keep
 1 Snow-Covered Forest
 1 Firespout
 1 Search for Azcanta
@@ -187,20 +199,10 @@
 2 Wrenn and Six
 3 Wrenn and Six
 3 Ice-Fang Coatl
-4 Ice-Fang Coatl
 4 Wrenn and Six
+4 Ice-Fang Coatl
 2 Castle Vantress
-3 Abbot of Keral Keep
-4 Abbot of Keral Keep
-4 Bloodstained Mire
-1 Scourge of the Skyclaves
-1 Blood Crypt
-2 Scourge of the Skyclaves
-2 Blood Crypt
-3 Blood Crypt
-3 Scourge of the Skyclaves
 4 Blood Crypt
-4 Scourge of the Skyclaves
 1 Ancestral Vision
 2 Ancestral Vision
 1 Blast Zone
@@ -216,13 +218,15 @@
 1 Spell Pierce
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
+1 Dreadhorde Arcanist
+2 Dreadhorde Arcanist
+3 Dreadhorde Arcanist
+4 Dreadhorde Arcanist
 1 Tarmogoyf
 2 Tarmogoyf
-2 Arid Mesa
-3 Tarmogoyf
 3 Stomping Ground
+3 Tarmogoyf
 4 Tarmogoyf
-4 Wooded Foothills
 1 Goldspan Dragon
 2 Goldspan Dragon
 3 Goldspan Dragon
@@ -243,6 +247,13 @@
 2 Runaway Steam-Kin
 3 Burst Lightning
 4 Deceiver Exarch
+1 Atarka's Command
+1 Swamp
+1 Fatal Push
+2 Atarka's Command
+2 Fatal Push
+3 Atarka's Command
+4 Atarka's Command
 1 Wild Nacatl
 2 Wild Nacatl
 3 Sacred Foundry
@@ -258,31 +269,20 @@
 3 Copperline Gorge
 4 Seal of Fire
 4 Copperline Gorge
-1 Invasion of the Giants
 1 Stubborn Denial
 1 Inferno Titan
 1 Faerie Conclave
 1 Glasspool Mimic
 1 Thryx, the Sudden Storm
-2 Invasion of the Giants
+1 Invasion of the Giants
 2 Inferno Titan
 2 Faerie Conclave
 2 Stubborn Denial
-3 Invasion of the Giants
+2 Invasion of the Giants
 3 Inferno Titan
-4 Invasion of the Giants
+3 Invasion of the Giants
 4 Inferno Titan
-1 Thrill of Possibility
-1 Forgotten Cave
-1 Arclight Phoenix
-2 Forgotten Cave
-2 Thrill of Possibility
-2 Arclight Phoenix
-3 Gut Shot
-3 Thrill of Possibility
-3 Arclight Phoenix
-4 Thrill of Possibility
-4 Arclight Phoenix
+4 Invasion of the Giants
 1 Nivmagus Elemental
 1 Ground Rift
 2 Nivmagus Elemental
@@ -292,15 +292,22 @@
 4 Nivmagus Elemental
 4 Ground Rift
 4 Fiery Islet
-1 Dreadhorde Arcanist
+1 Forgotten Cave
+1 Thrill of Possibility
+1 Arclight Phoenix
+2 Forgotten Cave
+2 Thrill of Possibility
+2 Arclight Phoenix
+3 Gut Shot
+3 Thrill of Possibility
+3 Arclight Phoenix
+4 Arclight Phoenix
+4 Thrill of Possibility
 1 Piracy Charm
 2 Deprive
-2 Dreadhorde Arcanist
 2 Piracy Charm
-3 Dreadhorde Arcanist
 3 Piracy Charm
 3 Polluted Delta
-4 Dreadhorde Arcanist
 4 Steam Vents
 4 Polluted Delta
 1 Magda, Brazen Outlaw

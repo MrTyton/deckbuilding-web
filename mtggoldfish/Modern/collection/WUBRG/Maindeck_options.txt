@@ -28,7 +28,6 @@
 1 Hallowed Fountain
 1 Omen of the Sea
 2 Omen of the Sea
-1 Omen of the Forge
 1 Phantasmal Image
 1 Skyclave Apparition
 1 Charming Prince
@@ -39,10 +38,11 @@
 1 Enigmatic Incarnation
 1 Lurrus of the Dream-Den
 1 Glasspool Mimic
+1 Omen of the Forge
 1 Brain Maggot
 1 Spellskite
-2 Omen of the Forge
 2 Skyclave Apparition
+2 Omen of the Forge
 2 Enigmatic Incarnation
 3 Omen of the Sea
 3 Enigmatic Incarnation
@@ -85,6 +85,8 @@
 4 Windcaller Aven
 2 Flooded Strand
 3 Flooded Strand
+1 Spirebluff Canal
+1 Brazen Borrower
 1 Force of Negation
 2 Force of Negation
 3 Force of Negation
@@ -93,11 +95,9 @@
 2 Ardent Plea
 3 Ardent Plea
 4 Force of Negation
-1 Spirebluff Canal
-1 Brazen Borrower
+2 Spirebluff Canal
 4 Flooded Strand
 4 Ardent Plea
-2 Spirebluff Canal
 1 Botanical Sanctum
 1 Violent Outburst
 1 Desert Cerodon
@@ -111,15 +111,15 @@
 1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
-1 Knight of Autumn
 2 Botanical Sanctum
 3 Brazen Borrower
-4 Scalding Tarn
-4 Brazen Borrower
 1 Mana Confluence
 1 Glassdust Hulk
-1 Uro, Titan of Nature's Wrath
+4 Scalding Tarn
+1 Knight of Autumn
+4 Brazen Borrower
 2 Glassdust Hulk
+1 Uro, Titan of Nature's Wrath
 1 Deafening Clarion
 1 Inspiring Vantage
 1 Kitchen Finks
@@ -130,9 +130,9 @@
 4 Skyclave Apparition
 2 Seal of Fire
 1 Ephemerate
+2 Abrupt Decay
 1 As Foretold
 4 Living End
-2 Abrupt Decay
 1 Fulminator Mage
 4 Niv-Mizzet Reborn
 1 Goblin Cratermaker
@@ -143,17 +143,17 @@
 1 Sword of Feast and Famine
 2 Stoneforge Mystic
 3 Stoneforge Mystic
-2 As Foretold
-3 As Foretold
-4 As Foretold
 2 Valki, God of Lies
-2 Island
-3 Island
 1 Trial of Ambition
 2 Temple Garden
 1 Eidolon of Rhetoric
+2 As Foretold
+3 As Foretold
+4 As Foretold
 4 Stoneforge Mystic
 3 Abrupt Decay
+2 Island
+3 Island
 2 Steam Vents
 3 Steam Vents
 1 Remand
@@ -173,19 +173,15 @@
 4 Spirebluff Canal
 4 Remand
 4 Crashing Footfalls
-1 Cryptic Command
 4 Pillar of the Paruns
 1 Sword of Fire and Ice
 1 Ice-Fang Coatl
 3 Forest
 1 Zagoth Triome
 3 Verdant Catacombs
+1 Cryptic Command
 1 Savai Triome
-1 Waker of Waves
-2 Waker of Waves
-3 Waker of Waves
-4 Island
-4 Waker of Waves
+1 Seachrome Coast
 1 Thoughtseize
 1 Fatal Push
 1 Shadows' Verdict
@@ -207,8 +203,6 @@
 2 Saheeli Rai
 2 Oath of Nissa
 3 Saheeli Rai
-5 Island
-6 Island
 1 Calix, Destiny's Hand
 1 Unearth
 2 Ephemerate
@@ -220,16 +214,12 @@
 1 Path to the World Tree
 2 Path to the World Tree
 1 Voice of Resurgence
-1 Seachrome Coast
+1 Waker of Waves
+2 Waker of Waves
+3 Waker of Waves
+4 Island
+4 Waker of Waves
 1 Ancestral Vision
-1 Glacial Fortress
-2 Glacial Fortress
-2 Cryptic Command
-3 Glacial Fortress
-3 Cryptic Command
-4 Glacial Fortress
-7 Island
-8 Island
 1 Mystical Dispute
 3 Glassdust Hulk
 4 Glassdust Hulk
@@ -241,8 +231,11 @@
 3 Felidar Guardian
 3 Oath of Nissa
 2 Hallowed Fountain
+5 Island
+6 Island
 1 Polluted Delta
 1 Imposing Vantasaur
+2 Seachrome Coast
 3 Nahiri, the Harbinger
 1 Glittering Wish
 2 Glittering Wish
@@ -291,7 +284,6 @@
 1 Failure/Comply
 2 Polluted Delta
 2 Imposing Vantasaur
-2 Seachrome Coast
 2 Faerie Macabre
 2 Generous Gift
 2 Failure/Comply
@@ -304,6 +296,14 @@
 4 Imposing Vantasaur
 4 Adarkar Wastes
 4 Polluted Delta
+1 Glacial Fortress
+2 Glacial Fortress
+2 Cryptic Command
+3 Glacial Fortress
+3 Cryptic Command
+4 Glacial Fortress
+7 Island
+8 Island
 1 Watery Grave
 2 Breeding Pool
 3 Architects of Will

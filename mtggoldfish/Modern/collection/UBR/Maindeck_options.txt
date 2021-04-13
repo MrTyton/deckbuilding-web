@@ -1,13 +1,16 @@
-4 Ice-Fang Coatl
-1 Cling to Dust
-1 Force of Negation
-2 Force of Negation
-1 Tarmogoyf
-2 Tarmogoyf
-3 Tarmogoyf
-4 Misty Rainforest
-1 Cascade Bluffs
+1 Lightning Bolt
+1 Blood Crypt
+1 Dreadbore
+2 Steam Vents
+2 Kolaghan's Command
+2 Lightning Bolt
+3 Kolaghan's Command
+3 Scalding Tarn
+4 Scalding Tarn
 1 Logic Knot
+1 Sunken Ruins
+2 Abrupt Decay
+3 Drown in the Loch
 1 Serum Visions
 2 Serum Visions
 2 Jace, Vryn's Prodigy
@@ -21,9 +24,6 @@
 3 Lightning Bolt
 3 Serum Visions
 4 Cryptic Command
-1 Sunken Ruins
-2 Abrupt Decay
-3 Drown in the Loch
 2 Snow-Covered Island
 1 Verdant Catacombs
 4 Tarmogoyf
@@ -61,12 +61,12 @@
 2 Village Rites
 2 Noble Hierarch
 3 Noble Hierarch
-1 Drowned Catacomb
 1 Nihil Spellbomb
 1 Clearwater Pathway
 1 Castle Vantress
-1 Engineered Explosives
+1 Drowned Catacomb
 1 Kroxa, Titan of Death's Hunger
+1 Engineered Explosives
 2 Drowned Catacomb
 3 Drowned Catacomb
 2 Prismatic Vista
@@ -76,7 +76,6 @@
 1 Hinterland Harbor
 2 Hinterland Harbor
 1 Rimewood Falls
-1 Sulfur Falls
 4 Lightning Bolt
 4 Serum Visions
 1 Flooded Grove
@@ -88,19 +87,19 @@
 1 Scavenging Ooze
 2 Overgrown Tomb
 4 Verdant Catacombs
-1 Mystic Sanctuary
 1 Behold the Multiverse
 1 Flooded Strand
+1 Mystic Sanctuary
 1 Remand
 1 Deprive
 1 Pack Rat
 1 River of Tears
 2 Mystic Sanctuary
 2 River of Tears
+2 Remand
 2 Deprive
 2 Flooded Strand
 2 Behold the Multiverse
-2 Remand
 3 Watery Grave
 3 Thoughtseize
 3 Behold the Multiverse

@@ -30,9 +30,6 @@
 1 Geier Reach Sanitarium
 3 Thoughtseize
 1 Languish
-1 Planewide Celebration
-1 Omen of the Sea
-1 Kiora Bests the Sea God
 1 Elder Gargaroth
 1 Alrund's Epiphany
 1 Overgrown Tomb
@@ -45,6 +42,7 @@
 1 Darkbore Pathway
 1 Sea Gate Restoration
 1 Wolfwillow Haven
+1 Kiora Bests the Sea God
 1 Breeding Pool
 1 Cultivate
 1 Ketria Triome
@@ -53,37 +51,39 @@
 1 Courser of Kruphix
 1 Barkchannel Pathway
 1 Forest
-2 Alrund's Epiphany
-2 Omen of the Sea
-2 Wolfwillow Haven
-2 Courser of Kruphix
+1 Omen of the Sea
+1 Planewide Celebration
 2 Darkbore Pathway
+2 Courser of Kruphix
+2 Omen of the Sea
 2 Binding the Old Gods
 2 Emergent Ultimatum
 2 Forest
 2 Overgrown Tomb
 2 Growth Spiral
+2 Wolfwillow Haven
+2 Alrund's Epiphany
 2 Cultivate
 2 Barkchannel Pathway
 2 Zagoth Triome
+3 Growth Spiral
+3 Emergent Ultimatum
 3 Barkchannel Pathway
 3 Wolfwillow Haven
-3 Omen of the Sea
 3 Darkbore Pathway
+3 Omen of the Sea
 3 Binding the Old Gods
 3 Forest
 3 Shadows' Verdict
-3 Emergent Ultimatum
 3 Overgrown Tomb
-3 Growth Spiral
 3 Zagoth Triome
+4 Binding the Old Gods
+4 Emergent Ultimatum
 4 Barkchannel Pathway
 4 Wolfwillow Haven
 4 Growth Spiral
 4 Omen of the Sea
 4 Darkbore Pathway
-4 Emergent Ultimatum
-4 Binding the Old Gods
 4 Zagoth Triome
 1 Tyrant's Scorn
 1 Commit / Memory
@@ -94,10 +94,10 @@
 2 Hieroglyphic Illumination
 2 Rewind
 1 Essence Scatter
+1 Soul Shatter
 1 Drown in the Loch
 1 Tasigur, the Golden Fang
 1 Syncopate
-1 Soul Shatter
 1 Liliana, the Last Hope
 1 Mutavault
 2 Drown in the Loch
@@ -120,9 +120,9 @@
 2 Cling to Dust
 3 Narset, Parter of Veils
 3 Thing in the Ice
+4 Thing in the Ice
 4 Clearwater Pathway
 4 Narset, Parter of Veils
-4 Thing in the Ice
 4 Thoughtseize
 1 Lochmere Serpent
 1 Metallurgic Summonings
@@ -131,5 +131,5 @@
 2 Lochmere Serpent
 2 Choked Estuary
 3 Choked Estuary
-4 Swamp
 7 Island
+4 Swamp
