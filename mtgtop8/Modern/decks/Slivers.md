@@ -29,18 +29,13 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                        Maindeck Card                                         |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
-|--------------------:|----------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                    1|[Frenzy Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126187)      |                    1|[Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800) |
-|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)     |                    2|[Masked Vandal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503800) |
-|                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)              |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
-|                    1|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)  |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
-|                    2|[Frenzy Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126187)      |                     |                                                                                         |
-|                    3|[Frenzy Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126187)      |                     |                                                                                         |
-|                    4|[Frenzy Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126187)      |                     |                                                                                         |
-|                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)|                     |                                                                                         |
-|                    1|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)|                     |                                                                                         |
-|                    1|[Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)   |                     |                                                                                         |
-|                    2|[Darkheart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126012)   |                     |                                                                                         |
-|                    4|[Striking Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370589)    |                     |                                                                                         |
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-----------------------------------------------------------------------------------------|
+|                    1|[Frenzy Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126187)    |                    1|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
+|                    1|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)   |                    2|[Damping Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443101)|
+|                    1|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)            |                     |                                                                                         |
+|                    1|[Waterlogged Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464198)|                     |                                                                                         |
+|                    2|[Frenzy Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126187)    |                     |                                                                                         |
+|                    3|[Frenzy Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126187)    |                     |                                                                                         |
+|                    4|[Frenzy Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126187)    |                     |                                                                                         |
 

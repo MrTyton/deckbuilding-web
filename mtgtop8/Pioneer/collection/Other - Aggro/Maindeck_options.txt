@@ -11,34 +11,34 @@
 1 Swamp
 1 Heartless Act
 1 Drown in the Loch
-1 Into the Story
-1 Thieves' Guild Enforcer
 1 Soaring Thought-Thief
+1 Thieves' Guild Enforcer
 1 Agadeem's Awakening
 1 Cling to Dust
 1 Clearwater Pathway
 1 Thoughtseize
 1 Urborg, Tomb of Yawgmoth
 1 Watery Grave
+1 Into the Story
 2 Clearwater Pathway
 2 Drown in the Loch
-2 Soaring Thought-Thief
-2 Agadeem's Awakening
 2 Thieves' Guild Enforcer
+2 Agadeem's Awakening
 2 Watery Grave
+2 Soaring Thought-Thief
 2 Thoughtseize
 2 Into the Story
 3 Clearwater Pathway
-3 Thieves' Guild Enforcer
+3 Soaring Thought-Thief
 3 Drown in the Loch
 3 Watery Grave
-3 Soaring Thought-Thief
+3 Thieves' Guild Enforcer
 3 Thoughtseize
 4 Clearwater Pathway
-4 Soaring Thought-Thief
+4 Drown in the Loch
 4 Watery Grave
 4 Thieves' Guild Enforcer
-4 Drown in the Loch
+4 Soaring Thought-Thief
 4 Thoughtseize
 1 Declaration in Stone
 2 Declaration in Stone
@@ -129,8 +129,8 @@
 1 Reflector Mage
 1 Mana Confluence
 1 Charming Prince
-2 Reflector Mage
 2 Mana Confluence
+2 Reflector Mage
 2 Charming Prince
 3 Reflector Mage
 3 Charming Prince
@@ -160,9 +160,9 @@
 1 Pyre of Heroes
 1 Llanowar Wastes
 1 Hostage Taker
-1 Basri's Lieutenant
 1 Elite Guardmage
 1 Drannith Magistrate
+1 Basri's Lieutenant
 1 Archfiend's Vessel
 1 General Kudro of Drannith
 1 Xathrid Necromancer
@@ -184,14 +184,14 @@
 4 Archfiend's Vessel
 1 Glasspool Mimic
 1 Hallowed Fountain
-1 Hengegate Pathway
 1 Oketra's Monument
+1 Hengegate Pathway
 1 Militia Bugler
 2 Hallowed Fountain
 2 Hengegate Pathway
 2 Glasspool Mimic
-2 Militia Bugler
 2 Selfless Spirit
+2 Militia Bugler
 2 Oketra's Monument
 3 Hengegate Pathway
 3 Selfless Spirit
@@ -243,11 +243,11 @@
 1 Nimble Obstructionist
 1 Klothys, God of Destiny
 1 Boon Satyr
+1 Stubborn Denial
 1 Shivan Reef
 1 Scavenger Grounds
 1 Cragcrown Pathway
 1 Reduce / Rubble
-1 Stubborn Denial
 2 Klothys, God of Destiny
 2 Nimble Obstructionist
 2 Boon Satyr
@@ -265,13 +265,13 @@
 1 Deathrite Shaman
 1 Jace, Vryn's Prodigy
 1 Eliminate
-1 Thassa's Intervention
 1 Merfolk Windrobber
+1 Thassa's Intervention
 1 Darkbore Pathway
 2 Deathrite Shaman
 2 Jace, Vryn's Prodigy
-2 Eliminate
 2 Merfolk Windrobber
+2 Eliminate
 2 Blooming Marsh
 2 Darkbore Pathway
 3 Deathrite Shaman
@@ -344,7 +344,6 @@
 2 Magmatic Channeler
 2 Blood Crypt
 2 Isolated Chapel
-2 Dragonskull Summit
 2 Gideon, Ally of Zendikar
 2 History of Benalia
 2 Utter End
@@ -352,6 +351,7 @@
 2 Castle Locthwain
 2 Seraph of the Scales
 2 Sorin, Solemn Visitor
+2 Dragonskull Summit
 3 Savai Triome
 3 Magmatic Channeler
 3 Seraph of the Scales

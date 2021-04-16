@@ -1,7 +1,8 @@
 1 Behold the Multiverse
 1 Ilysian Caryatid
-1 Snow-Covered Plains
 1 Arctic Treeline
+1 Snow-Covered Plains
+1 Vastwood Surge
 1 Fierce Empath
 1 Cragplate Baloth
 1 Koma, Cosmos Serpent
@@ -12,7 +13,6 @@
 1 Glacial Floodplain
 1 Sarulf's Packmate
 1 Rimewood Falls
-1 Vastwood Surge
 1 Shepherd of the Flock
 1 Sculptor of Winter
 2 Fierce Empath
@@ -21,8 +21,8 @@
 2 Behold the Multiverse
 2 Ilysian Caryatid
 2 Snow-Covered Plains
-2 Llanowar Visionary
 2 Vastwood Surge
+2 Llanowar Visionary
 2 Sarulf's Packmate
 2 Rimewood Falls
 2 Glacial Floodplain
@@ -30,15 +30,15 @@
 2 Sculptor of Winter
 2 Snow-Covered Forest
 2 Shepherd of the Flock
+3 Shepherd of the Flock
 3 Fierce Empath
 3 Beanstalk Giant
 3 Snow-Covered Plains
+3 Vastwood Surge
 3 Ilysian Caryatid
-3 Shepherd of the Flock
 3 Rimewood Falls
 3 Sculptor of Winter
 3 Snow-Covered Forest
-3 Vastwood Surge
 3 Llanowar Visionary
 3 Sarulf's Packmate
 3 Arctic Treeline
@@ -55,12 +55,12 @@
 9 Snow-Covered Forest
 10 Snow-Covered Forest
 2 Island
-1 Kabira Takedown
-2 Kabira Takedown
 1 Disdainful Stroke
 2 Disdainful Stroke
 1 Banishing Light
 2 Banishing Light
+1 Kabira Takedown
+2 Kabira Takedown
 1 Alrund's Epiphany
 1 Temple of Mystery
 1 Temple of Enlightenment
@@ -83,7 +83,6 @@
 3 Chulane, Teller of Tales
 4 Of One Mind
 1 Starnheim Unleashed
-1 Daxos, Blessed by the Sun
 1 Sejiri Shelter
 1 Elspeth, Sun's Nemesis
 1 Indatha Triome
@@ -92,6 +91,7 @@
 1 Omen of the Sun
 1 Reverent Hoplite
 1 Linvala, Shield of Sea Gate
+1 Daxos, Blessed by the Sun
 1 Emeria's Call
 1 Youthful Valkyrie
 1 Skyclave Apparition
@@ -100,11 +100,11 @@
 1 Righteous Valkyrie
 1 Raugrin Triome
 2 Jwari Disruption
-2 Daxos, Blessed by the Sun
 2 Sejiri Shelter
 2 Mystic Reflection
 2 Reverent Hoplite
 2 Linvala, Shield of Sea Gate
+2 Daxos, Blessed by the Sun
 2 Castle Ardenvale
 2 Youthful Valkyrie
 2 Skyclave Apparition

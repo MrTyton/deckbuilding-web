@@ -1,15 +1,14 @@
 1 Island
 2 Island
 3 Island
-4 Island
 2 Scalding Tarn
 3 Scalding Tarn
-2 Volcanic Island
-4 Scalding Tarn
 1 Narset, Parter of Veils
 1 Ancient Tomb
 2 Ancient Tomb
 1 Hullbreacher
+2 Volcanic Island
+4 Scalding Tarn
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
@@ -41,44 +40,12 @@
 3 Deceiver Exarch
 3 Izzet Charm
 4 Hullbreacher
-4 Ancient Tomb
 4 Day's Undoing
+4 Ancient Tomb
 4 Deceiver Exarch
 4 Izzet Charm
-3 Polluted Delta
-1 Flooded Strand
-2 Flooded Strand
-2 Underground Sea
-1 Daze
-2 Daze
-3 Daze
-4 Daze
-1 Glimpse the Unthinkable
-1 Visions of Beyond
-1 Hedron Crab
-1 Archive Trap
-1 Surgical Extraction
-1 Mission Briefing
-1 Ruin Crab
-2 Surgical Extraction
-2 Ruin Crab
-2 Visions of Beyond
-2 Mission Briefing
-2 Archive Trap
-2 Hedron Crab
-2 Glimpse the Unthinkable
-3 Surgical Extraction
-3 Hedron Crab
-3 Glimpse the Unthinkable
-3 Ruin Crab
-3 Archive Trap
-3 Visions of Beyond
-4 Polluted Delta
-4 Hedron Crab
-4 Ruin Crab
-4 Archive Trap
-1 Swamp
-5 Island
+4 Island
+1 Mountain
 1 Waterlogged Grove
 1 Thassa's Oracle
 1 Lotus Petal
@@ -100,8 +67,16 @@
 4 Thought Lash
 4 Lotus Petal
 4 Paradigm Shift
-1 Mountain
 1 Preordain
+3 Polluted Delta
+2 Underground Sea
+1 Daze
+2 Daze
+3 Daze
+4 Daze
+5 Island
+1 Flooded Strand
+2 Flooded Strand
 1 Abrade
 1 Cascade Bluffs
 2 Snow-Covered Mountain
@@ -109,12 +84,7 @@
 2 Chandra, Torch of Defiance
 2 Mountain
 3 Volcanic Island
-1 Maddening Cacophony
-1 Castle Vantress
-1 Brain Freeze
-2 Maddening Cacophony
-2 Brain Freeze
-3 Maddening Cacophony
+1 Swamp
 1 Veil of Summer
 1 Spell Pierce
 1 Skeletal Scrying
@@ -131,8 +101,8 @@
 1 Supreme Verdict
 1 Stoneforge Mystic
 1 Batterskull
-1 Umezawa's Jitte
 1 Raugrin Triome
+1 Umezawa's Jitte
 1 Sevinne's Reclamation
 1 Council's Judgment
 1 Teferi, Time Raveler
@@ -148,9 +118,36 @@
 3 Flooded Strand
 4 Swords to Plowshares
 4 Flooded Strand
-1 Bruvac the Grandiloquent
-3 Mission Briefing
-4 Glimpse the Unthinkable
+1 Castle Vantress
+1 Maddening Cacophony
+1 Glimpse the Unthinkable
+1 Brain Freeze
+1 Visions of Beyond
+1 Hedron Crab
+1 Archive Trap
+1 Surgical Extraction
+1 Mission Briefing
+1 Ruin Crab
+2 Surgical Extraction
+2 Ruin Crab
+2 Visions of Beyond
+2 Maddening Cacophony
+2 Mission Briefing
+2 Archive Trap
+2 Hedron Crab
+2 Glimpse the Unthinkable
+2 Brain Freeze
+3 Surgical Extraction
+3 Maddening Cacophony
+3 Hedron Crab
+3 Glimpse the Unthinkable
+3 Ruin Crab
+3 Archive Trap
+3 Visions of Beyond
+4 Polluted Delta
+4 Hedron Crab
+4 Ruin Crab
+4 Archive Trap
 1 Intuition
 1 Impulse
 1 Laboratory Maniac

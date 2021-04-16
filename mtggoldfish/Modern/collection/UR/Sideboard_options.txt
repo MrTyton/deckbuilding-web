@@ -1,13 +1,14 @@
-2 Abrade
+1 Mystical Dispute
 2 Mystical Dispute
 1 Madcap Experiment
 1 Platinum Emperion
-2 Platinum Emperion
 2 Madcap Experiment
+2 Platinum Emperion
 3 Madcap Experiment
 4 Madcap Experiment
-1 Flame Slash
 1 Anger of the Gods
+1 Flame Slash
+2 Anger of the Gods
 1 Boil
 1 Lurrus of the Dream-Den
 1 Kor Firewalker
@@ -19,7 +20,6 @@
 2 Path to Exile
 3 Path to Exile
 2 Boil
-2 Anger of the Gods
 3 Kor Firewalker
 3 Relic of Progenitus
 1 Ashiok, Dream Render
@@ -33,9 +33,9 @@
 1 Blood Moon
 2 Blood Moon
 1 Surgical Extraction
-1 Dispel
 1 Ral, Izzet Viceroy
 1 Ceremonious Rejection
+1 Dispel
 2 Soul-Guide Lantern
 4 Abrade
 4 Kor Firewalker
@@ -53,13 +53,13 @@
 3 Dragon's Claw
 2 Flusterstorm
 1 Supreme Verdict
-1 Timely Reinforcements
 1 Celestial Purge
+1 Timely Reinforcements
 1 Rest in Peace
 2 Rest in Peace
-2 Supreme Verdict
 2 Timely Reinforcements
 2 Celestial Purge
+2 Supreme Verdict
 3 Rest in Peace
 3 Flusterstorm
 3 Timely Reinforcements
@@ -75,16 +75,16 @@
 3 Soul-Guide Lantern
 1 Negate
 3 Anger of the Gods
-1 Deicide
 1 Temur Battle Rage
 1 Kroxa, Titan of Death's Hunger
+1 Deicide
 1 Fatal Push
 1 Nihil Spellbomb
 1 Kolaghan's Command
 2 Kolaghan's Command
+2 Kroxa, Titan of Death's Hunger
 2 Deicide
 2 Nihil Spellbomb
-2 Kroxa, Titan of Death's Hunger
 2 Fatal Push
 3 Fatal Push
 4 Fatal Push
@@ -93,12 +93,15 @@
 2 Delay
 2 Tarmogoyf
 3 Tarmogoyf
+1 Jace, the Mind Sculptor
 4 Path to Exile
 1 Wear/Tear
-1 Jace, the Mind Sculptor
+2 Entrancing Melody
 1 Dismember
 1 Shattering Spree
 1 Force of Negation
+1 Emrakul, the Aeons Torn
+1 Battle of Frost and Fire
 1 Pyroclasm
 1 Disrupting Shoal
 1 Aetherspouts
@@ -112,18 +115,12 @@
 1 Claim the Firstborn
 2 Claim the Firstborn
 2 Wear/Tear
-1 Emrakul, the Aeons Torn
-1 Battle of Frost and Fire
-2 Entrancing Melody
+1 Disdainful Stroke
+1 Crumble to Dust
+2 Ashiok, Dream Render
 1 Damping Matrix
 2 Damping Matrix
 3 Nihil Spellbomb
-1 Vendilion Clique
-1 Sword of Fire and Ice
-2 Vendilion Clique
-2 Ceremonious Rejection
-2 Ashiok, Dream Render
-3 Ceremonious Rejection
 3 Veil of Summer
 1 Shenanigans
 1 Saheeli, Sublime Artificer

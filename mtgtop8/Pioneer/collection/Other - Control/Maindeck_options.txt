@@ -26,11 +26,11 @@
 1 Nahiri, the Harbinger
 1 Dreadbore
 1 Hostage Taker
-1 Lavinia of the Tenth
 1 Warleader's Helix
+1 Lavinia of the Tenth
+1 Obzedat, Ghost Council
 1 Siege Rhino
 1 Supreme Verdict
-1 Obzedat, Ghost Council
 1 Enter the God-Eternals
 1 Heartless Act
 1 Dream Trawler
@@ -60,9 +60,9 @@
 1 Release to the Wind
 2 Hero's Downfall
 2 Blood Crypt
-2 Snow-Covered Island
-2 Choked Estuary
 2 Snow-Covered Swamp
+2 Choked Estuary
+2 Snow-Covered Island
 2 Jace, Vryn's Prodigy
 2 Bloodchief's Thirst
 2 Duress
@@ -70,18 +70,18 @@
 2 Release to the Wind
 2 Watery Grave
 2 Opt
-3 Choked Estuary
-3 Snow-Covered Island
-3 Valki, God of Lies
 3 Jace, Vryn's Prodigy
+3 Valki, God of Lies
+3 Snow-Covered Island
+3 Choked Estuary
 3 Thoughtseize
 3 Opt
 3 Blood Crypt
 3 Dig Through Time
 3 Watery Grave
 3 Release to the Wind
-4 Valki, God of Lies
 4 Jace, Vryn's Prodigy
+4 Valki, God of Lies
 4 Thoughtseize
 4 Fatal Push
 4 Dig Through Time
@@ -102,7 +102,6 @@
 1 Silumgar's Scorn
 1 Sacred Foundry
 2 Bonecrusher Giant
-2 Thassa's Intervention
 2 Steam Vents
 2 Glacial Fortress
 2 Brazen Borrower
@@ -115,11 +114,11 @@
 2 Sulfur Falls
 2 Riverglide Pathway
 2 Silumgar's Scorn
+2 Thassa's Intervention
 2 Raugrin Triome
 3 Bonecrusher Giant
 3 Sulfur Falls
 3 Glacial Fortress
-3 Thassa's Intervention
 3 Brazen Borrower
 3 Deafening Clarion
 3 Raugrin Triome
@@ -130,10 +129,11 @@
 3 Goldspan Dragon
 3 Silumgar's Scorn
 3 Censor
+3 Thassa's Intervention
 4 Bonecrusher Giant
 4 Brazen Borrower
-4 Thassa's Intervention
 4 Deafening Clarion
+4 Thassa's Intervention
 4 Steam Vents
 4 Raugrin Triome
 4 Glorybringer
