@@ -1,62 +1,55 @@
-1 Tymaret Calls the Dead
-2 Tymaret Calls the Dead
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-3 Bonecrusher Giant
-4 Bonecrusher Giant
-1 Savai Triome
-2 Savai Triome
-1 Egon, God of Death
-1 Colossal Plow
-2 Colossal Plow
-2 Egon, God of Death
-3 Egon, God of Death
-3 Colossal Plow
-3 Tymaret Calls the Dead
-4 Colossal Plow
-1 Needleverge Pathway
-1 Brightclimb Pathway
-1 Giant Killer
-1 Showdown of the Skalds
-2 Brightclimb Pathway
-2 Giant Killer
-2 Showdown of the Skalds
-2 Needleverge Pathway
-3 Brightclimb Pathway
-3 Savai Triome
-3 Showdown of the Skalds
-3 Giant Killer
-3 Needleverge Pathway
-4 Egon, God of Death
-1 Drannith Magistrate
-1 Reidane, God of the Worthy
-2 Drannith Magistrate
-4 Brightclimb Pathway
-4 Giant Killer
-4 Needleverge Pathway
-1 Arni Brokenbrow
-2 Arni Brokenbrow
 1 Mire's Grasp
 2 Mire's Grasp
-1 Plains
-1 Erebos's Intervention
-3 Mountain
+3 Bloodchief's Thirst
 4 Swamp
+1 Island
 3 Temple of Malice
+3 Mountain
 3 Mire Triton
 4 Mire Triton
 3 Valki, God of Lies
+3 Heartless Act
+1 Immersturm Skullcairn
+3 Magmatic Channeler
+1 Shatterskull Smashing
+1 Frost Bite
+1 Bonecrusher Giant
+1 Snow-Covered Mountain
+2 Frost Bite
+2 Bonecrusher Giant
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
+3 Frost Bite
+3 Bonecrusher Giant
+4 Snow-Covered Mountain
+1 Duress
+1 Tymaret Calls the Dead
+2 Tymaret Calls the Dead
+2 Castle Locthwain
+1 Snow-Covered Swamp
+2 Snow-Covered Swamp
+1 Drown in the Loch
+2 Drown in the Loch
+1 Agonizing Remorse
+1 Liliana, Waker of the Dead
+1 Egon, God of Death
+2 Liliana, Waker of the Dead
+2 Agonizing Remorse
+2 Egon, God of Death
+3 Snow-Covered Swamp
+3 Agonizing Remorse
+3 Tymaret Calls the Dead
+4 Snow-Covered Swamp
+4 Agonizing Remorse
+4 Tymaret Calls the Dead
+5 Snow-Covered Swamp
+1 Shredded Sails
+2 Shredded Sails
 4 Mountain
 5 Swamp
 5 Mountain
 6 Swamp
 7 Swamp
-1 Island
-1 Drown in the Loch
-2 Drown in the Loch
-1 Elspeth's Nightmare
-2 Castle Locthwain
-6 Mountain
 1 Malakir Rebirth
 1 Extinction Event
 2 Extinction Event
@@ -67,16 +60,9 @@
 2 Goldspan Dragon
 3 Goldspan Dragon
 4 Mazemind Tome
-1 Shatterskull Smashing
-1 Snow-Covered Mountain
-1 Frost Bite
 2 Shatterskull Smashing
-2 Snow-Covered Mountain
-2 Frost Bite
 3 Shatterskull Smashing
-3 Frost Bite
-3 Snow-Covered Mountain
-4 Snow-Covered Mountain
+4 Bonecrusher Giant
 4 Frost Bite
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
@@ -85,18 +71,15 @@
 9 Snow-Covered Mountain
 10 Snow-Covered Mountain
 1 Soul Shatter
-1 Grasp of Darkness
-2 Grasp of Darkness
-3 Drannith Magistrate
-1 Shredded Sails
+1 Pharika's Libation
 1 Pelakka Predation
 2 Pelakka Predation
-2 Shredded Sails
-3 Bloodchief's Thirst
+1 Grasp of Darkness
+2 Grasp of Darkness
 1 Archfiend's Vessel
 1 Call of the Death-Dweller
-1 Dead Weight
 1 Mutual Destruction
+1 Dead Weight
 2 Archfiend's Vessel
 2 Malakir Rebirth
 2 Call of the Death-Dweller
@@ -104,73 +87,52 @@
 2 Mutual Destruction
 3 Archfiend's Vessel
 3 Malakir Rebirth
-3 Magmatic Channeler
 4 Archfiend's Vessel
-1 Cinderclasm
-1 Duress
-2 Kazuul's Fury
-2 Cinderclasm
-2 Erebos's Intervention
-2 Duress
-3 Duress
-3 Erebos's Intervention
-3 Kazuul's Fury
-4 Goldspan Dragon
-4 Valki, God of Lies
-4 Erebos's Intervention
-1 Temple of Silence
-1 Temple of Triumph
-1 Giant Ox
-2 Elspeth's Nightmare
-2 Giant Ox
-3 Giant Ox
-4 Savai Triome
-4 Giant Ox
-1 Snow-Covered Swamp
-1 Solemn Simulacrum
-1 Ox of Agonas
 1 Ugin, the Spirit Dragon
-1 Faceless Haven
 1 Irencrag Feat
-2 Snow-Covered Swamp
-2 Solemn Simulacrum
-2 Faceless Haven
-2 Ugin, the Spirit Dragon
+1 Ox of Agonas
+1 Faceless Haven
+1 Solemn Simulacrum
 2 Irencrag Feat
-3 Solemn Simulacrum
+2 Solemn Simulacrum
+2 Ugin, the Spirit Dragon
+2 Faceless Haven
 3 Ugin, the Spirit Dragon
 3 Faceless Haven
+3 Solemn Simulacrum
 3 Irencrag Feat
-4 Solemn Simulacrum
 4 Faceless Haven
 4 Ugin, the Spirit Dragon
-1 The Akroan War
-1 Immersturm Predator
-1 Skull Raid
-1 Erebos, Bleak-Hearted
-2 The Akroan War
-2 Skull Raid
-2 Erebos, Bleak-Hearted
-2 Immersturm Predator
-3 The Akroan War
-3 Immersturm Predator
-4 The Akroan War
-4 Tymaret Calls the Dead
+4 Solemn Simulacrum
+1 Erebos's Intervention
+1 Cinderclasm
+2 Kazuul's Fury
+2 Erebos's Intervention
+2 Duress
+2 Cinderclasm
+3 Erebos's Intervention
+3 Duress
+3 Kazuul's Fury
+4 Goldspan Dragon
+4 Erebos's Intervention
+4 Valki, God of Lies
+6 Mountain
+1 Savai Triome
 1 Claim the Firstborn
 1 Sulfurous Mire
-1 Immersturm Skullcairn
+2 Savai Triome
 2 Claim the Firstborn
 2 Sulfurous Mire
 8 Swamp
 1 Fire Prophecy
-1 Spikefield Hazard
 1 Fire Giant's Fury
 1 Castle Embereth
 1 Surtland Flinger
 1 Fiery Emancipation
-1 Tectonic Giant
 1 Shatterskull Charger
 1 Calamity Bearer
+1 Tectonic Giant
+1 Spikefield Hazard
 1 Quakebringer
 2 Fire Prophecy
 2 Surtland Flinger

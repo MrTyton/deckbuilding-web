@@ -1,0 +1,35 @@
+# WUR
+
+#### [Export MTGO List](../collection/WUR/WUR.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09All%20That%20Glitters%0A4%09Darksteel%20Citadel%0A4%09Ensoul%20Artifact%0A4%09Ghostfire%20Blade%0A4%09Gingerbrute%0A4%09Hallowed%20Fountain%0A2%09Hope%20of%20Ghirapur%0A4%09Mana%20Confluence%0A4%09Mutavault%0A4%09Ornithopter%0A4%09Shrapnel%20Blast%0A4%09Spire%20of%20Industry%0A4%09Springleaf%20Drum%0A4%09Stonecoil%20Serpent%0A2%09Stubborn%20Denial%0A4%09Toolcraft%20Exemplar&deckside=2%09Aether%20Gust%0A4%09Glass%20Casket%0A3%09Isolate%0A1%09Lurrus%20of%20the%20Dream-Den%0A1%09Mystical%20Dispute%0A2%09Soul-Guide%20Lantern%0A2%09Stubborn%20Denial)
+# Maindeck
+
+|                                        Artifact (8)                                        |                                         Creature (18)                                         |                                       Enchantment (8)                                        |                                        Instant (6)                                         |                                          Land (20)                                           |
+|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|4 [Ghostfire Blade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386545)|4 [Gingerbrute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473181)       |4 [All That Glitters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472964)|4 [Shrapnel Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442784) |4 [Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389479)|
+|4 [Springleaf Drum](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378534)|2 [Hope of Ghirapur](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423821)  |4 [Ensoul Artifact](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383232)  |2 [Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673)|4 [Hallowed Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97071) |
+|                                                                                            |4 [Ornithopter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129665)       |                                                                                              |                                                                                            |4 [Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)  |
+|                                                                                            |4 [Stonecoil Serpent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473197) |                                                                                              |                                                                                            |4 [Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)        |
+|                                                                                            |4 [Toolcraft Exemplar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417605)|                                                                                              |                                                                                            |4 [Spire of Industry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423851)|
+
+
+# Sideboard
+
+|                                         Artifact (6)                                          |                                            Creature (1)                                            |                                         Instant (8)                                         |
+|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+|4 [Glass Casket](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472977)      |1 [Lurrus of the Dream-Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479746)|2 [Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)     |
+|2 [Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|                                                                                                    |3 [Isolate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447153)         |
+|                                                                                               |                                                                                                    |1 [Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)|
+|                                                                                               |                                                                                                    |2 [Stubborn Denial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=386673) |
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
+|---------------------|-------------|--------------------:|---------------------------------------------------------------------------------------------|
+|                     |             |                    3|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
+|                     |             |                    3|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)       |
+|                     |             |                    4|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
+|                     |             |                    4|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)       |
+|                     |             |                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)  |
+
