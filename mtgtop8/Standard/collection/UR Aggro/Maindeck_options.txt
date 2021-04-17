@@ -2,10 +2,10 @@
 3 Snow-Covered Island
 4 Snow-Covered Island
 4 Snow-Covered Mountain
-5 Snow-Covered Mountain
 5 Snow-Covered Island
-6 Snow-Covered Island
+5 Snow-Covered Mountain
 6 Snow-Covered Mountain
+6 Snow-Covered Island
 1 Sprite Dragon
 2 Sprite Dragon
 3 Sprite Dragon
@@ -43,23 +43,23 @@
 3 Temple of Epiphany
 4 Squash
 4 Goldspan Dragon
-1 Jwari Disruption
 1 Spikefield Hazard
-1 Crash Through
 1 Stormwing Entity
+1 Crash Through
 1 Shock
 1 Riddleform
-2 Jwari Disruption
+1 Jwari Disruption
 2 Stormwing Entity
 2 Crash Through
 2 Shock
 2 Spikefield Hazard
+2 Jwari Disruption
 2 Riddleform
-3 Jwari Disruption
 3 Crash Through
 3 Shatterskull Smashing
 3 Shock
 3 Stormwing Entity
+3 Jwari Disruption
 3 Spikefield Hazard
 3 Riddleform
 4 Jwari Disruption
@@ -102,11 +102,11 @@
 3 Teferi, Master of Time
 3 Startling Development
 3 Improbable Alliance
-4 Neutralize
 4 Raugrin Triome
 4 Startling Development
 4 Go for Blood
 4 Faerie Vandal
+4 Neutralize
 4 Improbable Alliance
 4 Boon of the Wish-Giver
 4 Irencrag Pyromancer
@@ -137,18 +137,18 @@
 1 Expedition Diviner
 1 Windrider Wizard
 1 Master of Winds
-2 Volatile Fjord
 2 Of One Mind
 2 Demon Bolt
 2 Basalt Ravager
 2 Expedition Diviner
 2 Heartfire Immolator
+2 Volatile Fjord
 2 Windrider Wizard
-3 Volatile Fjord
 3 Of One Mind
 3 Basalt Ravager
 3 Windrider Wizard
 3 Frost Bite
+3 Volatile Fjord
 3 Demon Bolt
 3 Heartfire Immolator
 4 Volatile Fjord
@@ -156,9 +156,9 @@
 4 Aegar, the Freezing Flame
 4 Demon Bolt
 4 Heartfire Immolator
-7 Snow-Covered Island
 7 Snow-Covered Mountain
-8 Snow-Covered Island
+7 Snow-Covered Island
 8 Snow-Covered Mountain
+8 Snow-Covered Island
 9 Snow-Covered Island
 10 Snow-Covered Island

@@ -1,26 +1,28 @@
 1 Roiling Vortex
 2 Roiling Vortex
+3 Roiling Vortex
 1 Phoenix of Ash
 2 Phoenix of Ash
-3 Roiling Vortex
 1 Shredded Sails
 2 Shredded Sails
 1 Duress
 2 Duress
+1 Cinderclasm
 1 Soul Sear
 1 Redcap Melee
-1 Cinderclasm
-2 Redcap Melee
 3 Duress
+2 Redcap Melee
 1 Ox of Agonas
 1 Elspeth's Nightmare
 2 Elspeth's Nightmare
-1 Eliminate
 1 Skyclave Shade
+1 Eliminate
 2 Cinderclasm
 1 Frost Bite
-1 Heartless Act
 1 Necromentia
+1 Agonizing Remorse
+2 Agonizing Remorse
+1 Heartless Act
 1 Nighthawk Scavenger
 1 Kaervek, the Spiteful
 1 Mogis's Favor
@@ -28,34 +30,36 @@
 2 Kaervek, the Spiteful
 3 Nighthawk Scavenger
 2 Pharika's Libation
-1 Agonizing Remorse
-2 Agonizing Remorse
 1 Tibalt's Trickery
 1 Allure of the Unknown
 1 Birgi, God of Storytelling
-1 Embercleave
-3 Phoenix of Ash
+2 Skyclave Shade
 1 Robber of the Rich
 2 Robber of the Rich
-1 The Akroan War
+3 Phoenix of Ash
+1 Embercleave
 2 Embereth Shieldbreaker
 2 Necromentia
+3 Agonizing Remorse
+4 Agonizing Remorse
 2 Eliminate
-2 The Akroan War
-1 Scorching Dragonfire
+1 The Akroan War
 1 Negate
 2 Negate
 3 Robber of the Rich
+3 Skyclave Shade
+1 Scorching Dragonfire
 1 Erebos's Intervention
-2 Soul Sear
 1 Tormod's Crypt
 2 Tormod's Crypt
-2 Skyclave Shade
 1 Shatterskull Charger
-2 Ox of Agonas
 2 Erebos's Intervention
 3 Pharika's Libation
+2 Ox of Agonas
 2 Birgi, God of Storytelling
+2 Scorching Dragonfire
+1 Cling to Dust
+2 Cling to Dust
 1 Basalt Ravager
 2 Basalt Ravager
 1 Crush the Weak
@@ -63,16 +67,12 @@
 1 Unleash Fury
 2 Crush the Weak
 2 Unleash Fury
-2 Scorching Dragonfire
+2 The Akroan War
 4 Duress
-3 Shredded Sails
-3 Redcap Melee
-1 Brash Taunter
-3 Skyclave Shade
-4 Skyclave Shade
 1 Murderous Rider
-3 Agonizing Remorse
-4 Agonizing Remorse
+1 Brash Taunter
+4 Skyclave Shade
+2 Soul Sear
 1 Mystical Dispute
 2 Mystical Dispute
 1 Battle of Frost and Fire
@@ -99,8 +99,8 @@
 2 Murderous Rider
 1 Dead Weight
 2 Dead Weight
-1 Cling to Dust
-2 Cling to Dust
+1 Disenchant
+2 Disenchant
 1 Liliana, Waker of the Dead
 1 Treacherous Blessing
 1 Bloodchief's Thirst
@@ -117,32 +117,34 @@
 3 Elspeth's Nightmare
 2 Battle of Frost and Fire
 3 Negate
+1 Goldspan Dragon
+1 Arni Brokenbrow
+1 Cosmos Elixir
+1 Kroxa, Titan of Death's Hunger
+3 Shadows' Verdict
 1 Mire's Grasp
 1 Feed the Swarm
 2 Mire's Grasp
 2 Feed the Swarm
 3 Eliminate
 3 Mire's Grasp
-1 Goldspan Dragon
-1 Arni Brokenbrow
-1 Cosmos Elixir
-1 Kroxa, Titan of Death's Hunger
-3 Shadows' Verdict
+1 Doomskar
+1 Skyclave Apparition
 1 Reidane, God of the Worthy
 1 Glass Casket
-1 Skyclave Apparition
-1 Sejiri Shelter
 1 Giant Killer
+1 Sejiri Shelter
 1 Thundering Rebuke
-1 Doomskar
-2 Sejiri Shelter
 2 Doomskar
 2 Glass Casket
 2 Giant Killer
+2 Sejiri Shelter
 2 Thundering Rebuke
 3 Doomskar
 3 Glass Casket
 3 Giant Killer
+3 Shredded Sails
+3 Redcap Melee
 1 Rimrock Knight
 2 Rimrock Knight
 3 Rimrock Knight
@@ -162,17 +164,12 @@
 2 Blazing Volley
 3 Relic Robber
 4 Relic Robber
-3 Soul Sear
-3 The Akroan War
-4 The Akroan War
-4 Redcap Melee
-4 Soul Sear
 1 Poison the Cup
 2 Poison the Cup
 1 Tectonic Giant
 2 Tectonic Giant
-1 Confounding Conundrum
 1 Annul
+1 Confounding Conundrum
 2 Annul
 2 Confounding Conundrum
 3 Confounding Conundrum

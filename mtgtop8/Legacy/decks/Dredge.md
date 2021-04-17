@@ -43,7 +43,7 @@
 |                     |                                                                                      |                    1|[Ichorid](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413635)               |
 |                     |                                                                                      |                    1|[Iona, Shield of Emeria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397800)|
 |                     |                                                                                      |                    1|[Memory's Journey](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=254134)      |
-|                     |                                                                                      |                    3|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)        |
 |                     |                                                                                      |                    3|[Stern Dismissal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476319)       |
+|                     |                                                                                      |                    3|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)        |
 |                     |                                                                                      |                    3|Wear / Tear                                                                                      |
 

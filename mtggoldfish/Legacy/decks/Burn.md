@@ -136,6 +136,6 @@
 |                    3|[Akoum Hellhound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491772)         |                     |                                                                                              |
 |                    3|[Vexing Devil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278257)            |                     |                                                                                              |
 |                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)         |                     |                                                                                              |
-|                    4|[Vexing Devil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278257)            |                     |                                                                                              |
 |                    4|[Akoum Hellhound](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491772)         |                     |                                                                                              |
+|                    4|[Vexing Devil](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278257)            |                     |                                                                                              |
 

@@ -1,3 +1,4 @@
+1 Mire's Grasp
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 3 Bonecrusher Giant
@@ -9,86 +10,88 @@
 1 Shatterskull Smashing
 1 Frost Bite
 2 Frost Bite
-1 Mire's Grasp
 3 Frost Bite
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 1 Goldspan Dragon
 2 Goldspan Dragon
 3 Goldspan Dragon
-1 Faceless Haven
-2 Faceless Haven
 1 Mazemind Tome
 2 Mazemind Tome
 1 Solemn Simulacrum
 2 Solemn Simulacrum
-2 Shatterskull Smashing
 3 Mazemind Tome
+1 Faceless Haven
+2 Faceless Haven
+2 Shatterskull Smashing
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
-4 Goldspan Dragon
-7 Snow-Covered Mountain
 3 Solemn Simulacrum
 3 Snow-Covered Swamp
 4 Snow-Covered Swamp
-3 Faceless Haven
 1 Ugin, the Spirit Dragon
 2 Ugin, the Spirit Dragon
-5 Snow-Covered Swamp
+4 Goldspan Dragon
+7 Snow-Covered Mountain
+3 Faceless Haven
 4 Mazemind Tome
-2 Mire's Grasp
 3 Valki, God of Lies
-8 Snow-Covered Mountain
-4 Frost Bite
+5 Snow-Covered Swamp
 3 Bloodchief's Thirst
 3 Heartless Act
-9 Snow-Covered Mountain
+2 Mire's Grasp
+8 Snow-Covered Mountain
+4 Frost Bite
 4 Swamp
 6 Snow-Covered Swamp
-10 Snow-Covered Mountain
+9 Snow-Covered Mountain
 3 Shatterskull Smashing
+4 Solemn Simulacrum
 1 Spikefield Hazard
 3 Temple of Malice
+10 Snow-Covered Mountain
 2 Spikefield Hazard
-4 Solemn Simulacrum
 3 Mountain
 3 Ugin, the Spirit Dragon
-11 Snow-Covered Mountain
 1 Liliana, Waker of the Dead
 2 Liliana, Waker of the Dead
-1 Irencrag Feat
-2 Irencrag Feat
 3 Mire Triton
 1 Rankle, Master of Pranks
+1 Irencrag Feat
+2 Irencrag Feat
 1 Blood on the Snow
 2 Blood on the Snow
 7 Snow-Covered Swamp
-4 Faceless Haven
-12 Snow-Covered Mountain
-13 Snow-Covered Mountain
-14 Snow-Covered Mountain
-15 Snow-Covered Mountain
-16 Snow-Covered Mountain
+11 Snow-Covered Mountain
 3 Blood on the Snow
 1 Sulfurous Mire
 2 Sulfurous Mire
 4 Mire Triton
 2 Rankle, Master of Pranks
+1 Extinction Event
+2 Extinction Event
 2 Castle Locthwain
 1 Tymaret Calls the Dead
 2 Tymaret Calls the Dead
-17 Snow-Covered Mountain
-18 Snow-Covered Mountain
+4 Faceless Haven
 3 Sulfurous Mire
 4 Blood on the Snow
 4 Sulfurous Mire
+12 Snow-Covered Mountain
+13 Snow-Covered Mountain
+14 Snow-Covered Mountain
+15 Snow-Covered Mountain
+16 Snow-Covered Mountain
+4 Mountain
 1 Storm's Wrath
+3 Irencrag Feat
+17 Snow-Covered Mountain
+18 Snow-Covered Mountain
 19 Snow-Covered Mountain
 20 Snow-Covered Mountain
 1 Fire Prophecy
 2 Fire Prophecy
 3 Fire Prophecy
-4 Mountain
 1 Soul Sear
 1 Tectonic Giant
 2 Tectonic Giant
@@ -114,9 +117,6 @@
 3 Glimpse the Cosmos
 3 Squash
 4 Squash
-3 Irencrag Feat
-1 Extinction Event
-2 Extinction Event
 1 Egon, God of Death
 2 Egon, God of Death
 3 Magmatic Channeler
@@ -150,31 +150,35 @@
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 1 Ox of Agonas
+4 Valki, God of Lies
+4 Heartless Act
 21 Snow-Covered Mountain
 4 Fire Prophecy
 3 Quakebringer
 4 Agonizing Remorse
 4 Shatterskull Smashing
-3 Egon, God of Death
 6 Mountain
+3 Egon, God of Death
 1 Pelakka Predation
 1 Leyline Tyrant
-4 Valki, God of Lies
-4 Heartless Act
 3 Crystalline Giant
 7 Swamp
 1 Soul Shatter
-1 Phoenix of Ash
+1 Savai Triome
+2 Savai Triome
 2 Ox of Agonas
 2 Battle of Frost and Fire
 4 Invasion of the Giants
 4 Glimpse the Cosmos
-1 Shock
-2 Shock
 2 Storm's Wrath
 4 Irencrag Feat
 7 Mountain
 1 Fiery Emancipation
+1 Drown in the Loch
+2 Drown in the Loch
+1 Omen of the Forge
+2 Omen of the Forge
+22 Snow-Covered Mountain
 1 Scorching Dragonfire
 2 Scorching Dragonfire
 1 Brash Taunter
@@ -182,28 +186,19 @@
 3 Brash Taunter
 3 Spikefield Hazard
 4 Spikefield Hazard
-1 Slaying Fire
-2 Slaying Fire
-3 Slaying Fire
-1 Drown in the Loch
-2 Drown in the Loch
-1 Omen of the Forge
-2 Omen of the Forge
-22 Snow-Covered Mountain
 2 Pelakka Predation
-3 Shock
 3 Extinction Event
+1 Phoenix of Ash
 1 Crawling Barrens
 2 Crawling Barrens
-1 Savai Triome
-2 Savai Triome
 4 Temple of Malice
 8 Swamp
 1 Shatterskull Charger
 2 Shatterskull Charger
+1 Shock
+2 Shock
 2 Shredded Sails
 2 Duress
-3 Ox of Agonas
 2 Kazuul's Fury
 3 Kazuul's Fury
 1 Fire Giant's Fury
@@ -211,18 +206,19 @@
 3 Aegar, the Freezing Flame
 1 Cinderclasm
 2 Cinderclasm
-1 Crush the Weak
+3 Ox of Agonas
 1 Malakir Rebirth
-2 Phoenix of Ash
-1 Magda, Brazen Outlaw
-2 Magda, Brazen Outlaw
-3 Magda, Brazen Outlaw
+1 Crush the Weak
 2 Fiery Emancipation
 3 Storm's Wrath
 4 Storm's Wrath
+1 Slaying Fire
+2 Slaying Fire
+3 Slaying Fire
 3 Tectonic Giant
 4 Slaying Fire
 4 Tectonic Giant
+3 Shock
 8 Mountain
 9 Mountain
 10 Mountain
@@ -235,9 +231,6 @@
 17 Mountain
 18 Mountain
 19 Mountain
-1 Torbran, Thane of Red Fell
-2 Torbran, Thane of Red Fell
-3 Torbran, Thane of Red Fell
 1 Temple of Epiphany
 4 Quakebringer
 2 Soul Sear
@@ -251,6 +244,15 @@
 2 Call of the Death-Dweller
 3 Scorching Dragonfire
 4 Scorching Dragonfire
+1 Needleverge Pathway
+1 Plains
+1 Elspeth Conquers Death
+2 Needleverge Pathway
+2 Plains
+2 Elspeth Conquers Death
+3 Needleverge Pathway
+3 Plains
+4 Needleverge Pathway
 1 Priest of the Haunted Edge
 1 Lurrus of the Dream-Den
 1 Mind Drain
@@ -288,8 +290,11 @@
 1 Disdainful Stroke
 2 Disdainful Stroke
 3 Disdainful Stroke
+1 Magda, Brazen Outlaw
 1 Dwarven Mine
+2 Magda, Brazen Outlaw
 2 Leyline Tyrant
+3 Magda, Brazen Outlaw
 3 Leyline Tyrant
 1 Murderous Rider
 2 Murderous Rider
@@ -302,16 +307,6 @@
 3 Evolving Wilds
 4 Evolving Wilds
 4 Bloodchief's Thirst
-1 Robber of the Rich
-1 Rimrock Knight
-2 Robber of the Rich
-2 Rimrock Knight
-3 Phoenix of Ash
-3 Rimrock Knight
-3 Robber of the Rich
-4 Torbran, Thane of Red Fell
-4 Phoenix of Ash
-4 Robber of the Rich
 1 Archfiend's Vessel
 1 Mutual Destruction
 1 Dead Weight
@@ -349,6 +344,19 @@
 3 Yidaro, Wandering Monster
 3 Seize the Spoils
 4 Seize the Spoils
+1 Brightclimb Pathway
+1 Starnheim Unleashed
+1 Doomskar
+1 Ruinous Ultimatum
+2 Brightclimb Pathway
+2 Doomskar
+2 Ruinous Ultimatum
+3 Brightclimb Pathway
+3 Doomskar
+3 Savai Triome
+4 Brightclimb Pathway
+4 Doomskar
+4 Savai Triome
 1 Heraldic Banner
 1 Skyclave Relic
 2 Heraldic Banner
@@ -360,11 +368,15 @@
 3 Erebos's Intervention
 3 Duress
 4 Erebos's Intervention
+2 Phoenix of Ash
 4 Extinction Event
+1 Torbran, Thane of Red Fell
 1 Chandra's Incinerator
 1 Roil Eruption
 2 Chandra's Incinerator
+2 Torbran, Thane of Red Fell
 2 Roil Eruption
+3 Torbran, Thane of Red Fell
 3 Chandra's Incinerator
 3 Roil Eruption
 4 Shock
@@ -376,33 +388,24 @@
 3 Fire Giant's Fury
 4 Fire Giant's Fury
 4 Volatile Fjord
-1 Needleverge Pathway
 1 Temple of Triumph
-1 Plains
 1 Emeria's Call
-1 Skyclave Apparition
-1 The Birth of Meletis
 1 Banishing Light
 1 Reidane, God of the Worthy
-1 Elspeth Conquers Death
-2 Needleverge Pathway
-2 Banishing Light
+1 Skyclave Apparition
+1 The Birth of Meletis
 2 Temple of Triumph
-2 Reidane, God of the Worthy
-2 Plains
-2 Elspeth Conquers Death
+2 Banishing Light
 2 Skyclave Apparition
-2 The Birth of Meletis
+2 Reidane, God of the Worthy
 2 Emeria's Call
-3 Needleverge Pathway
+2 The Birth of Meletis
 3 Emeria's Call
-3 Banishing Light
 3 Temple of Triumph
-3 Plains
+3 Banishing Light
 3 The Birth of Meletis
-4 Needleverge Pathway
-4 Banishing Light
 4 Plains
+4 Banishing Light
 4 Temple of Triumph
 5 Plains
 6 Plains
@@ -417,8 +420,8 @@
 4 Fiery Emancipation
 20 Mountain
 21 Mountain
-1 Glasspool Mimic
 1 Surtland Frostpyre
+1 Glasspool Mimic
 1 Thryx, the Sudden Storm
 2 Temple of Epiphany
 2 Island
