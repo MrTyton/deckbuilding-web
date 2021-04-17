@@ -35,9 +35,9 @@
 3 Thieves' Guild Enforcer
 3 Thoughtseize
 4 Clearwater Pathway
-4 Drown in the Loch
-4 Watery Grave
 4 Thieves' Guild Enforcer
+4 Watery Grave
+4 Drown in the Loch
 4 Soaring Thought-Thief
 4 Thoughtseize
 1 Declaration in Stone
@@ -122,18 +122,18 @@
 3 Botanical Sanctum
 1 Branchloft Pathway
 2 Branchloft Pathway
-3 Branchloft Pathway
 3 Voice of Resurgence
-4 Branchloft Pathway
+3 Branchloft Pathway
 4 Voice of Resurgence
+4 Branchloft Pathway
 1 Reflector Mage
 1 Mana Confluence
 1 Charming Prince
-2 Charming Prince
 2 Mana Confluence
 2 Reflector Mage
-3 Charming Prince
+2 Charming Prince
 3 Reflector Mage
+3 Charming Prince
 1 Soldier of the Pantheon
 1 Dire Tactics
 2 Soldier of the Pantheon
@@ -152,60 +152,30 @@
 3 Sunpetal Grove
 3 Knight of Autumn
 4 Sunpetal Grove
-1 Acquisitions Expert
-1 Renegade Rallier
-1 Kaervek, the Spiteful
-1 Overgrown Tomb
-1 Judith, the Scourge Diva
-1 Pyre of Heroes
-1 Llanowar Wastes
-1 Hostage Taker
-1 Elite Guardmage
-1 Drannith Magistrate
-1 Basri's Lieutenant
-1 Archfiend's Vessel
-1 General Kudro of Drannith
-1 Xathrid Necromancer
-2 Acquisitions Expert
-2 Llanowar Wastes
-2 Renegade Rallier
-2 Pyre of Heroes
-2 Archfiend's Vessel
-3 Acquisitions Expert
-3 Mana Confluence
-3 Llanowar Wastes
-3 Pyre of Heroes
-3 Renegade Rallier
-3 Unclaimed Territory
-3 Archfiend's Vessel
-4 Mana Confluence
-4 Unclaimed Territory
-4 Pyre of Heroes
-4 Archfiend's Vessel
 1 Glasspool Mimic
 1 Hallowed Fountain
+1 Militia Bugler
 1 Oketra's Monument
 1 Hengegate Pathway
-1 Militia Bugler
 2 Hallowed Fountain
 2 Hengegate Pathway
-2 Glasspool Mimic
-2 Selfless Spirit
-2 Militia Bugler
 2 Oketra's Monument
+2 Glasspool Mimic
+2 Militia Bugler
+2 Selfless Spirit
 3 Hengegate Pathway
 3 Selfless Spirit
 3 Hallowed Fountain
-3 Militia Bugler
 3 Oketra's Monument
+3 Militia Bugler
 4 Hengegate Pathway
 4 Selfless Spirit
 4 Hallowed Fountain
 4 Skyclave Apparition
-4 Charming Prince
 4 Militia Bugler
 4 Oketra's Monument
 4 Reflector Mage
+4 Charming Prince
 1 Gideon, Ally of Zendikar
 1 Starnheim Unleashed
 1 Shefet Dunes
@@ -261,6 +231,36 @@
 4 Shivan Reef
 4 Boon Satyr
 4 Cragcrown Pathway
+1 Renegade Rallier
+1 Kaervek, the Spiteful
+1 Overgrown Tomb
+1 Judith, the Scourge Diva
+1 Llanowar Wastes
+1 Hostage Taker
+1 Elite Guardmage
+1 Drannith Magistrate
+1 Basri's Lieutenant
+1 Pyre of Heroes
+1 Archfiend's Vessel
+1 General Kudro of Drannith
+1 Xathrid Necromancer
+1 Acquisitions Expert
+2 Acquisitions Expert
+2 Llanowar Wastes
+2 Renegade Rallier
+2 Archfiend's Vessel
+2 Pyre of Heroes
+3 Acquisitions Expert
+3 Mana Confluence
+3 Llanowar Wastes
+3 Renegade Rallier
+3 Unclaimed Territory
+3 Archfiend's Vessel
+3 Pyre of Heroes
+4 Mana Confluence
+4 Archfiend's Vessel
+4 Unclaimed Territory
+4 Pyre of Heroes
 1 Blooming Marsh
 1 Deathrite Shaman
 1 Jace, Vryn's Prodigy

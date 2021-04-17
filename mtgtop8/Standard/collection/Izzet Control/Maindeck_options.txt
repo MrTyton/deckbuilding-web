@@ -39,10 +39,10 @@
 1 Fire Prophecy
 1 Castle Vantress
 1 Island
-2 Mountain
 2 Island
-3 Mountain
+2 Mountain
 3 Island
+3 Mountain
 4 Island
 1 Ravenform
 2 Ravenform
@@ -78,33 +78,33 @@
 3 Lofty Denial
 1 Temple of Enlightenment
 1 Inspired Ultimatum
+1 Plains
 1 Raugrin Triome
-1 Elspeth Conquers Death
 1 Doomskar
 1 Dream Trawler
 1 Needleverge Pathway
 1 Hengegate Pathway
-1 Plains
+1 Elspeth Conquers Death
 2 Dream Trawler
-2 Elspeth Conquers Death
-2 Hengegate Pathway
+2 Plains
 2 Raugrin Triome
 2 Doomskar
-2 Plains
+2 Hengegate Pathway
+2 Elspeth Conquers Death
 2 Needleverge Pathway
 3 Soul Sear
 3 Elspeth Conquers Death
 3 Dream Trawler
-3 Hengegate Pathway
 3 Raugrin Triome
 3 Jwari Disruption
 3 Doomskar
 3 Needleverge Pathway
+3 Hengegate Pathway
 4 Fire Prophecy
 4 Elspeth Conquers Death
-4 Hengegate Pathway
 4 Raugrin Triome
 4 Doomskar
+4 Hengegate Pathway
 4 Needleverge Pathway
 1 Castle Embereth
 1 Sublime Epiphany
@@ -115,11 +115,11 @@
 2 Terror of the Peaks
 2 Invasion of the Giants
 2 Reflections of Littjara
+3 Terror of the Peaks
+3 Negate
 3 Reflections of Littjara
 3 Invasion of the Giants
-3 Negate
 3 Essence Scatter
-3 Terror of the Peaks
 1 Glimpse the Cosmos
 2 Glimpse the Cosmos
 1 Kiora Bests the Sea God
@@ -145,19 +145,11 @@
 3 Faerie Vandal
 4 Swiftwater Cliffs
 4 Faceless Haven
-1 Crawling Barrens
-1 Neutralize
-1 Seize the Spoils
-2 Seize the Spoils
-3 Seize the Spoils
-3 Double Vision
-4 Seize the Spoils
-4 Temple of Epiphany
 1 Sulfurous Mire
 1 Ice Tunnel
-1 Feed the Swarm
 1 Cling to Dust
 1 Ashiok, Nightmare Muse
+1 Feed the Swarm
 2 Sulfurous Mire
 2 Ice Tunnel
 2 Feed the Swarm
@@ -172,3 +164,11 @@
 3 Shock
 4 Shock
 7 Island
+1 Crawling Barrens
+1 Neutralize
+1 Seize the Spoils
+2 Seize the Spoils
+3 Double Vision
+3 Seize the Spoils
+4 Seize the Spoils
+4 Temple of Epiphany

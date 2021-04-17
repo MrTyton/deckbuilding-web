@@ -5,8 +5,8 @@
 3 The Great Henge
 1 Vorinclex, Monstrous Raider
 2 Vorinclex, Monstrous Raider
-1 Vivien, Monsters' Advocate
 1 Order of Midnight
+1 Vivien, Monsters' Advocate
 2 Order of Midnight
 5 Forest
 6 Forest
@@ -22,11 +22,11 @@
 2 Snow-Covered Forest
 2 Snow-Covered Swamp
 3 Snow-Covered Forest
-3 Snow-Covered Swamp
 3 Woodland Chasm
+3 Snow-Covered Swamp
 4 Snow-Covered Forest
-4 Snow-Covered Swamp
 4 Woodland Chasm
+4 Snow-Covered Swamp
 5 Snow-Covered Forest
 5 Snow-Covered Swamp
 6 Snow-Covered Forest
@@ -43,9 +43,9 @@
 3 Elderfang Disciple
 4 Elderfang Disciple
 1 Oakhame Adversary
+1 Grasp of Darkness
 1 Sculptor of Winter
 1 Skemfar Avenger
-1 Grasp of Darkness
 1 Harald Unites the Elves
 1 Return Upon the Tide
 1 Boreal Outrider
@@ -95,12 +95,12 @@
 3 Oakhame Adversary
 4 Tajuru Blightblade
 10 Forest
-1 Ranger's Guile
 1 Evolving Wilds
 1 Extinction Event
+1 Withercrown
 1 Wildborn Preserver
 1 Feed the Swarm
-1 Withercrown
+1 Ranger's Guile
 1 Fully Grown
 2 Feed the Swarm
 2 Fully Grown
@@ -112,6 +112,28 @@
 1 Wilt
 2 Wilt
 4 Toski, Bearer of Secrets
+1 Castle Garenbrig
+1 Snakeskin Veil
+1 Primal Might
+1 Tangled Florahedron
+1 Bonders' Enclave
+1 Ashaya, Soul of the Wild
+1 Garruk, Unleashed
+1 Stonecoil Serpent
+1 Swarm Shambler
+1 Skyclave Shade
+1 Elspeth's Nightmare
+2 Snakeskin Veil
+2 Castle Garenbrig
+2 Primal Might
+2 Tangled Florahedron
+2 Stonecoil Serpent
+2 Skyclave Shade
+2 Swarm Shambler
+3 Stonecoil Serpent
+3 Castle Garenbrig
+4 Gemrazer
+4 Stonecoil Serpent
 1 Gilded Goose
 1 Trail of Crumbs
 1 Wicked Wolf
@@ -120,8 +142,8 @@
 2 Trail of Crumbs
 2 Chevill, Bane of Monsters
 2 Wicked Wolf
-2 Massacre Wurm
 2 Turntimber Symbiosis
+2 Massacre Wurm
 3 Gilded Goose
 3 Eliminate
 3 Wicked Wolf
@@ -150,8 +172,8 @@
 1 Cragcrown Pathway
 2 Blightstep Pathway
 2 Valki, God of Lies
-2 Vivien, Monsters' Advocate
 2 Cragcrown Pathway
+2 Vivien, Monsters' Advocate
 3 Blightstep Pathway
 3 Valki, God of Lies
 3 Cragcrown Pathway
@@ -159,47 +181,25 @@
 4 Blightstep Pathway
 4 Cragcrown Pathway
 1 Egon, God of Death
-1 Call of the Death-Dweller
 1 Hooded Blightfang
+1 Call of the Death-Dweller
 1 Moss Viper
 1 The Binding of the Titans
 1 Mire Triton
-2 Egon, God of Death
-2 Call of the Death-Dweller
-2 Moss Viper
 2 Hooded Blightfang
+2 Call of the Death-Dweller
+2 Egon, God of Death
+2 Moss Viper
 2 The Binding of the Titans
 2 Mire Triton
 3 Mire Triton
 3 The Binding of the Titans
 3 Moss Viper
 3 Hooded Blightfang
-4 The Binding of the Titans
 4 Mire Triton
+4 The Binding of the Titans
 4 Moss Viper
 4 Hooded Blightfang
-1 Castle Garenbrig
-1 Snakeskin Veil
-1 Ashaya, Soul of the Wild
-1 Tangled Florahedron
-1 Bonders' Enclave
-1 Garruk, Unleashed
-1 Stonecoil Serpent
-1 Swarm Shambler
-1 Primal Might
-1 Skyclave Shade
-1 Elspeth's Nightmare
-2 Snakeskin Veil
-2 Castle Garenbrig
-2 Tangled Florahedron
-2 Stonecoil Serpent
-2 Skyclave Shade
-2 Primal Might
-2 Swarm Shambler
-3 Stonecoil Serpent
-3 Castle Garenbrig
-4 Stonecoil Serpent
-4 Gemrazer
 1 Wolfwillow Haven
 1 Masked Vandal
 1 Realmwalker
@@ -207,21 +207,21 @@
 3 Wolfwillow Haven
 9 Snow-Covered Forest
 10 Snow-Covered Swamp
-1 Fiend Artisan
-1 Battle Mammoth
-1 Sarulf's Packmate
 1 Garruk's Uprising
+1 Sarulf's Packmate
+1 Fiend Artisan
 1 Wildwood Patrol
+1 Battle Mammoth
 1 Ram Through
 1 Keeper of Fables
 1 Feed the Serpent
 1 Greater Sandwurm
 1 Gnottvold Recluse
+2 Ram Through
 2 Sarulf's Packmate
 2 Keeper of Fables
 2 Greater Sandwurm
 2 Feed the Serpent
-2 Ram Through
 3 Sarulf's Packmate
 3 Keeper of Fables
 11 Forest

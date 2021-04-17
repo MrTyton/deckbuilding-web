@@ -27,8 +27,8 @@
 
 |*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                       Sideboard Card                                        |
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|---------------------------------------------------------------------------------------------|
-|                    1|[Mutagenic Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397717) |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |
-|                    1|[Forked Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401702)      |                    3|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
+|                    1|[Forked Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401702)      |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |
+|                    1|[Mutagenic Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397717) |                    3|[Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)|
 |                    1|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)  |                    1|[Kozilek's Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407608)  |
 |                    2|[Sunbaked Canyon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464196)  |                    2|[Kozilek's Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407608)  |
 |                    3|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077)|                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)    |

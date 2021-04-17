@@ -10,8 +10,8 @@
 9 Snow-Covered Plains
 3 Giant Killer
 1 Castle Embereth
-1 Plains
 1 Mountain
+1 Plains
 2 Plains
 2 Mountain
 3 Plains
@@ -35,13 +35,13 @@
 1 Shatterskull Smashing
 2 Shatterskull Smashing
 3 Shatterskull Smashing
-1 Halvar, God of Battle
 1 Shadowspear
 1 Akiri, Fearless Voyager
 1 Fireblade Charger
-2 Halvar, God of Battle
+1 Halvar, God of Battle
 2 Shadowspear
 2 Akiri, Fearless Voyager
+2 Halvar, God of Battle
 2 Fireblade Charger
 3 Halvar, God of Battle
 3 Fireblade Charger
@@ -67,6 +67,13 @@
 2 Arni Brokenbrow
 2 Castle Embereth
 4 Faceless Haven
+1 Goldspan Dragon
+1 Temple of Triumph
+2 Goldspan Dragon
+2 Temple of Triumph
+3 Temple of Triumph
+4 Shatterskull Smashing
+4 Temple of Triumph
 1 Relic Robber
 1 Shock
 2 Relic Robber
@@ -75,19 +82,25 @@
 3 Robber of the Rich
 4 Shock
 4 Robber of the Rich
-1 Goldspan Dragon
-1 Temple of Triumph
-2 Goldspan Dragon
-2 Temple of Triumph
-3 Temple of Triumph
-4 Shatterskull Smashing
-4 Temple of Triumph
+1 Swift Response
+1 Kor Blademaster
+1 Relic Axe
+2 Swift Response
+2 Kor Blademaster
+2 Relic Axe
+3 Relic Axe
+3 Kor Blademaster
+3 Akiri, Fearless Voyager
+3 Swift Response
+4 Swift Response
+4 Halvar, God of Battle
+4 Kor Blademaster
 4 Reidane, God of the Worthy
 8 Snow-Covered Mountain
 1 Akoum Hellhound
 1 Kabira Takedown
-1 Rally the Ranks
 1 Resplendent Marshal
+1 Rally the Ranks
 1 Igneous Cur
 1 Pack Leader
 1 Alpine Houndmaster
@@ -114,16 +127,3 @@
 10 Plains
 3 Shepherd of the Flock
 11 Snow-Covered Plains
-1 Swift Response
-1 Kor Blademaster
-1 Relic Axe
-2 Swift Response
-2 Kor Blademaster
-2 Relic Axe
-3 Relic Axe
-3 Kor Blademaster
-3 Akiri, Fearless Voyager
-3 Swift Response
-4 Swift Response
-4 Halvar, God of Battle
-4 Kor Blademaster

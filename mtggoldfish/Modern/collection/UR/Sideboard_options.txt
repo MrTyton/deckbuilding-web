@@ -1,68 +1,60 @@
-1 Mystical Dispute
+1 Anger of the Gods
 2 Mystical Dispute
 1 Madcap Experiment
 1 Platinum Emperion
-2 Madcap Experiment
 2 Platinum Emperion
+2 Madcap Experiment
 3 Madcap Experiment
 4 Madcap Experiment
-1 Anger of the Gods
 1 Flame Slash
+1 Flusterstorm
 2 Anger of the Gods
-1 Boil
 1 Lurrus of the Dream-Den
 1 Kor Firewalker
 2 Kor Firewalker
-1 Tormod's Crypt
-2 Tormod's Crypt
-3 Abrade
 1 Path to Exile
 2 Path to Exile
 3 Path to Exile
-2 Boil
+1 Tormod's Crypt
+2 Tormod's Crypt
+3 Abrade
 3 Kor Firewalker
-3 Relic of Progenitus
+1 Boil
+2 Boil
 1 Ashiok, Dream Render
+3 Relic of Progenitus
 3 Tormod's Crypt
 1 Pact of Negation
+1 Soul-Guide Lantern
+1 Surgical Extraction
 1 Kozilek's Return
 2 Kozilek's Return
-1 Soul-Guide Lantern
 1 Dragon's Claw
 2 Dragon's Claw
 1 Blood Moon
 2 Blood Moon
-1 Surgical Extraction
+2 Soul-Guide Lantern
+1 Shrine of Burning Rage
+2 Shrine of Burning Rage
+2 Surgical Extraction
+3 Soul-Guide Lantern
 1 Ral, Izzet Viceroy
 1 Ceremonious Rejection
 1 Dispel
-2 Soul-Guide Lantern
+4 Path to Exile
+1 Wear/Tear
 4 Abrade
 4 Kor Firewalker
 1 Chained to the Rocks
 2 Chained to the Rocks
-2 Surgical Extraction
 1 Alpine Moon
 2 Alpine Moon
-1 Shrine of Burning Rage
-2 Shrine of Burning Rage
 3 Blood Moon
+3 Dragon's Claw
 2 Dispel
+2 Wear/Tear
 1 Pyrite Spellbomb
 2 Pyrite Spellbomb
-3 Dragon's Claw
-2 Flusterstorm
-1 Supreme Verdict
-1 Celestial Purge
-1 Timely Reinforcements
-1 Rest in Peace
-2 Rest in Peace
-2 Timely Reinforcements
-2 Celestial Purge
-2 Supreme Verdict
-3 Rest in Peace
-3 Flusterstorm
-3 Timely Reinforcements
 1 Veil of Summer
 2 Veil of Summer
 1 Damping Sphere
@@ -72,7 +64,6 @@
 2 Weather the Storm
 2 Collector Ouphe
 3 Weather the Storm
-3 Soul-Guide Lantern
 1 Negate
 3 Anger of the Gods
 1 Temur Battle Rage
@@ -88,21 +79,21 @@
 2 Fatal Push
 3 Fatal Push
 4 Fatal Push
+1 Force of Negation
 1 Delay
 1 Tarmogoyf
 2 Delay
 2 Tarmogoyf
 3 Tarmogoyf
 1 Jace, the Mind Sculptor
-4 Path to Exile
-1 Wear/Tear
 2 Entrancing Melody
 1 Dismember
 1 Shattering Spree
-1 Force of Negation
-1 Pyroclasm
+3 Surgical Extraction
+2 Flusterstorm
 1 Emrakul, the Aeons Torn
 1 Battle of Frost and Fire
+1 Pyroclasm
 1 Disrupting Shoal
 1 Aetherspouts
 2 Temur Battle Rage
@@ -110,11 +101,13 @@
 1 Bonecrusher Giant
 1 Smash to Smithereens
 2 Bonecrusher Giant
+1 Spell Pierce
+2 Force of Negation
+2 Spell Pierce
 1 Atarka's Command
 2 Atarka's Command
 1 Claim the Firstborn
 2 Claim the Firstborn
-2 Wear/Tear
 1 Disdainful Stroke
 1 Crumble to Dust
 2 Ashiok, Dream Render
@@ -122,6 +115,22 @@
 2 Damping Matrix
 3 Nihil Spellbomb
 3 Veil of Summer
+1 Supreme Verdict
+1 Timely Reinforcements
+1 Celestial Purge
+1 Rest in Peace
+2 Rest in Peace
+2 Supreme Verdict
+2 Timely Reinforcements
+2 Celestial Purge
+3 Rest in Peace
+3 Flusterstorm
+3 Timely Reinforcements
+1 Postmortem Lunge
+1 Rip Apart
+2 Rip Apart
+2 Postmortem Lunge
+3 Rip Apart
 1 Shenanigans
 1 Saheeli, Sublime Artificer
 2 Saheeli, Sublime Artificer
@@ -135,7 +144,6 @@
 4 Aether Gust
 4 Dragon's Claw
 2 Shattering Spree
-3 Surgical Extraction
 4 Surgical Extraction
 1 Fiery Cannonade
 1 Lightning Axe

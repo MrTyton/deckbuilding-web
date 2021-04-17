@@ -1,57 +1,11 @@
-1 Elspeth Conquers Death
-2 Elspeth Conquers Death
-1 Skyclave Apparition
-1 Glass Casket
-2 Skyclave Apparition
-2 Glass Casket
-1 Luminarch Aspirant
-1 Maul of the Skyclaves
-2 Maul of the Skyclaves
-2 Luminarch Aspirant
-2 Hengegate Pathway
-3 Maul of the Skyclaves
-3 Luminarch Aspirant
-3 Hengegate Pathway
-4 Hengegate Pathway
-4 Luminarch Aspirant
-1 Giant Killer
-1 Seasoned Hallowblade
-1 Shadowspear
-1 Snow-Covered Plains
-1 Snow-Covered Island
-1 Selfless Savior
-1 Halvar, God of Battle
-2 Giant Killer
-2 Snow-Covered Plains
-2 Halvar, God of Battle
-2 Seasoned Hallowblade
-2 Selfless Savior
-2 Snow-Covered Island
-3 Halvar, God of Battle
-3 Snow-Covered Island
-3 Staggering Insight
-3 Snow-Covered Plains
-3 Selfless Savior
-3 Seasoned Hallowblade
-4 Snow-Covered Island
-4 Staggering Insight
-4 Seasoned Hallowblade
-4 Selfless Savior
-4 Snow-Covered Plains
-5 Snow-Covered Island
-5 Snow-Covered Plains
-6 Snow-Covered Plains
-7 Snow-Covered Plains
-8 Snow-Covered Plains
-9 Snow-Covered Plains
-10 Snow-Covered Plains
-11 Snow-Covered Plains
-1 Castle Ardenvale
-1 Fabled Passage
-2 Castle Ardenvale
-1 Alseid of Life's Bounty
-2 Alseid of Life's Bounty
-3 Alseid of Life's Bounty
+1 Plains
+2 Plains
+3 Plains
+4 Plains
+5 Plains
+6 Plains
+7 Plains
+8 Plains
 1 Cosima, God of the Voyage
 1 Charming Prince
 1 Temple of Enlightenment
@@ -59,9 +13,24 @@
 2 Charming Prince
 3 Charming Prince
 4 Charming Prince
+9 Plains
 10 Plains
 11 Plains
 12 Plains
+1 The Raven's Warning
+1 Tranquil Cove
+1 Brazen Borrower
+2 Tranquil Cove
+2 Island
+3 Island
+4 Island
+5 Island
+6 Island
+7 Island
+8 Island
+9 Island
+10 Island
+11 Island
 1 Barrin, Tolarian Archmage
 1 Niko Aris
 1 Niambi, Esteemed Speaker
@@ -122,9 +91,14 @@
 4 Fabled Passage
 12 Snow-Covered Plains
 13 Snow-Covered Plains
-1 Stalwart Valkyrie
-1 Daybreak Chimera
-2 Daybreak Chimera
+1 Usher of the Fallen
+1 Sentinel's Eyes
+2 Usher of the Fallen
+2 Shadowspear
+3 Usher of the Fallen
+4 Maul of the Skyclaves
+6 Snow-Covered Island
+7 Snow-Covered Island
 1 Speaker of the Heavens
 1 Daxos, Blessed by the Sun
 1 Heliod, Sun-Crowned
@@ -149,11 +123,36 @@
 4 Alseid of Life's Bounty
 13 Plains
 14 Plains
-1 Usher of the Fallen
-1 Sentinel's Eyes
-2 Usher of the Fallen
-2 Shadowspear
-3 Usher of the Fallen
-6 Snow-Covered Island
-7 Snow-Covered Island
-4 Maul of the Skyclaves
+1 Battlefield Raptor
+1 Hypnotic Sprite
+1 Daybreak Chimera
+1 Into the Roil
+1 Stern Dismissal
+1 Lofty Denial
+1 Jubilant Skybonder
+1 Watcher of the Spheres
+1 Ardenvale Tactician
+1 Tide Skimmer
+1 Skycat Sovereign
+1 Gust of Wind
+1 Vexing Gull
+2 Battlefield Raptor
+2 Daybreak Chimera
+2 Lofty Denial
+2 Stern Dismissal
+2 Into the Roil
+2 Watcher of the Spheres
+2 Tide Skimmer
+2 Jubilant Skybonder
+2 Gust of Wind
+2 Vexing Gull
+3 Tranquil Cove
+3 Battlefield Raptor
+3 Lofty Denial
+3 Jubilant Skybonder
+3 Watcher of the Spheres
+4 Tranquil Cove
+4 Battlefield Raptor
+4 Lofty Denial
+4 Jubilant Skybonder
+4 Watcher of the Spheres

@@ -58,6 +58,6 @@
 |                    3|[Binding the Old Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503822)    |                    3|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651)          |
 |                    4|[Zulaport Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442106)      |                    1|[Trail of Crumbs](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473141)           |
 |                     |                                                                                                   |                    3|[Claim the Firstborn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473080)       |
-|                     |                                                                                                   |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)       |
 |                     |                                                                                                   |                    3|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)       |
+|                     |                                                                                                   |                    4|[Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)       |
 
