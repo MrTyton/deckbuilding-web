@@ -72,6 +72,6 @@
 |                    2|[Altar of Dementia](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382212)           |                    2|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)|
 |                    3|[Darkslick Shores](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=209400)            |                    3|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)|
 |                    1|[Skaab Ruinator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=230780)              |                    4|[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416897)|
-|                    3|[Gurmag Angler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391850)               |                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)        |
-|                    4|[Gurmag Angler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391850)               |                    4|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)          |
+|                    3|[Gurmag Angler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391850)               |                    4|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)          |
+|                    4|[Gurmag Angler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391850)               |                    4|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)        |
 

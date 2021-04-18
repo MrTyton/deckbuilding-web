@@ -15,10 +15,10 @@
 2 Jace, Vryn's Prodigy
 1 Bloodstained Mire
 1 Scalding Tarn
-1 Blood Crypt
 1 Izzet Charm
 1 Unearth
 1 Battle Mastery
+1 Blood Crypt
 1 Mountain
 1 Prodigious Growth
 1 Steam Vents
@@ -28,23 +28,24 @@
 2 Bloodstained Mire
 2 Unearth
 2 Scalding Tarn
-2 Blood Crypt
-2 Steam Vents
 2 Izzet Charm
 2 Storm Herald
 2 Battle Mastery
+2 Blood Crypt
+2 Steam Vents
 2 Eldrazi Conscription
 2 Prodigious Growth
 2 Collective Brutality
-3 Bloodstained Mire
+3 Scalding Tarn
 3 Izzet Charm
 3 Unearth
+3 Bloodstained Mire
 3 Jace, Vryn's Prodigy
 3 Collective Brutality
 3 Prodigious Growth
 3 Storm Herald
 3 Eldrazi Conscription
-3 Scalding Tarn
+4 Scalding Tarn
 4 Unearth
 4 Bloodstained Mire
 4 Izzet Charm
@@ -52,7 +53,6 @@
 4 Collective Brutality
 4 Prodigious Growth
 4 Eldrazi Conscription
-4 Scalding Tarn
 4 Storm Herald
 2 Bloodchief's Thirst
 3 Flooded Strand
@@ -65,6 +65,11 @@
 2 Manic Scribe
 1 Clearwater Pathway
 1 Cling to Dust
+3 Swamp
+1 Ensnaring Bridge
+1 Mikokoro, Center of the Sea
+2 Fraying Sanity
+3 Bloodchief's Thirst
 3 Snapcaster Mage
 1 Sunken Hollow
 1 Search for Azcanta
@@ -76,18 +81,13 @@
 2 Scheming Symmetry
 3 Soul-Guide Lantern
 3 Scheming Symmetry
-3 Swamp
-1 Ensnaring Bridge
-1 Mikokoro, Center of the Sea
-2 Fraying Sanity
-3 Bloodchief's Thirst
 1 Waterlogged Grove
-1 Assassin's Trophy
-1 Harrow
 1 Breeding Pool
+1 Harrow
 1 Forest
-2 Assassin's Trophy
+1 Assassin's Trophy
 2 Breeding Pool
+2 Assassin's Trophy
 2 Harrow
 3 Misty Rainforest
 4 Misty Rainforest
@@ -97,8 +97,8 @@
 1 Ipnu Rivulet
 1 Ratchet Bomb
 1 Mission Briefing
-2 Force of Negation
 2 Thought Scour
+2 Force of Negation
 2 Ipnu Rivulet
 3 Prismatic Vista
 4 Prismatic Vista

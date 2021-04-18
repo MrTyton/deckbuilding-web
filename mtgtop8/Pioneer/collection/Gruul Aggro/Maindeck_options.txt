@@ -1,8 +1,3 @@
-1 Embercleave
-2 Embercleave
-1 Kazandu Mammoth
-1 Collected Company
-1 Burning-Tree Emissary
 2 Burning-Tree Emissary
 2 Collected Company
 3 Collected Company
@@ -15,30 +10,34 @@
 1 Shatterskull Smashing
 2 Shatterskull Smashing
 1 Ramunap Ruins
-1 Gallia of the Endless Dance
+1 Kazandu Mammoth
 1 Scavenging Ooze
 1 Ahn-Crop Crasher
 1 Pelt Collector
 1 Zhur-Taa Goblin
+1 Gallia of the Endless Dance
 2 Ramunap Ruins
-2 Gallia of the Endless Dance
 2 Pelt Collector
 2 Ahn-Crop Crasher
 2 Scavenging Ooze
+2 Gallia of the Endless Dance
 2 Zhur-Taa Goblin
 3 Pelt Collector
 3 Ahn-Crop Crasher
 4 Pelt Collector
 4 Ahn-Crop Crasher
 1 Nissa, Who Shakes the World
+1 Banefire
+1 Domri, Anarch of Bolas
+2 Domri, Anarch of Bolas
 9 Forest
 1 Blossoming Defense
-1 Voltaic Brawler
+1 Aether Hub
 1 Ghor-Clan Rampager
 1 Domri's Ambush
+1 Voltaic Brawler
 1 Longtusk Cub
 1 Attune with Aether
-1 Aether Hub
 1 Electrostatic Pummeler
 1 Harnessed Lightning
 1 Collision / Colossus
@@ -46,19 +45,19 @@
 1 Temur Battle Rage
 2 Temur Battle Rage
 2 Ghor-Clan Rampager
-2 Voltaic Brawler
+2 Aether Hub
 2 Domri's Ambush
 2 Longtusk Cub
 2 Harnessed Lightning
+2 Voltaic Brawler
 2 Collision / Colossus
 2 Electrostatic Pummeler
 2 Blossoming Defense
 2 Bristling Hydra
 2 Attune with Aether
-2 Aether Hub
-3 Voltaic Brawler
 3 Collision / Colossus
 3 Bristling Hydra
+3 Voltaic Brawler
 3 Longtusk Cub
 3 Ghor-Clan Rampager
 3 Attune with Aether
@@ -75,14 +74,13 @@
 4 Attune with Aether
 4 Aether Hub
 4 Harnessed Lightning
-2 Turntimber Symbiosis
+3 Elder Gargaroth
 2 Goldspan Dragon
 2 Crater's Claws
 4 Glorybringer
 1 Mana Confluence
 1 Rootbound Crag
 2 Rootbound Crag
-1 Radha, Heart of Keld
 1 Fling
 2 Fling
 1 Steel Leaf Champion
@@ -103,6 +101,7 @@
 3 Vivien, Arkbow Ranger
 3 Rootbound Crag
 1 Gilded Goose
+2 Turntimber Symbiosis
 4 Elder Gargaroth
 1 Atarka's Command
 1 Goblin Rabblemaster

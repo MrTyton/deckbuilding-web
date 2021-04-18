@@ -1,26 +1,25 @@
-1 Hymn to Tourach
 1 Castle Locthwain
+1 Hymn to Tourach
 2 Liliana of the Veil
 2 Hymn to Tourach
 2 Castle Locthwain
 3 Liliana of the Veil
 3 Hymn to Tourach
 1 Liliana, the Last Hope
-1 Bitterblossom
 3 Urborg, Tomb of Yawgmoth
 4 Urborg, Tomb of Yawgmoth
 1 Mishra's Factory
+1 Bitterblossom
 1 Wasteland
 2 Mishra's Factory
 2 Wasteland
 3 Wasteland
 3 Mishra's Factory
 4 Hymn to Tourach
-1 Thoughtseize
 1 Liliana's Triumph
+1 Thoughtseize
 2 Thoughtseize
 2 Bitterblossom
-1 Inquisition of Kozilek
 1 Smallpox
 2 Smallpox
 3 Smallpox
@@ -29,6 +28,7 @@
 4 Mishra's Factory
 9 Swamp
 10 Swamp
+1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
 1 Bloodchief's Thirst
@@ -76,62 +76,31 @@
 2 Sinkhole
 3 Bitterblossom
 3 Sinkhole
-1 Duress
-1 Marsh Flats
-1 Spell Pierce
-1 Tidehollow Sculler
-1 City of Brass
-1 Mana Confluence
-1 Polluted Delta
-1 Prismatic Vista
-1 Teferi, Master of Time
-1 Kaya, Orzhov Usurper
-1 Dovin's Veto
-1 Jace, Vryn's Prodigy
-1 Tundra
-1 Court of Grace
-1 Brainstorm
-1 Supreme Verdict
-1 Fatal Push
-1 Path to Exile
-1 Hullbreacher
-1 Island
-1 Teferi, Time Raveler
-1 Brazen Borrower
-1 Teferi, Hero of Dominaria
-1 Skyclave Apparition
-1 Council's Judgment
-1 Narset, Parter of Veils
-1 Jace, the Mind Sculptor
-1 Ashiok, Dream Render
-1 Valki, God of Lies
-1 Kaya's Guile
-1 Baleful Strix
-1 Ponder
-1 Karakas
-1 Sorin, Lord of Innistrad
-1 Scrubland
-1 Opposition Agent
-1 Plains
-1 Lingering Souls
-1 Flooded Strand
-1 Preordain
-1 Underground Sea
-1 Snapcaster Mage
-1 Swords to Plowshares
-2 Prismatic Vista
-2 Plains
-2 Island
-2 Polluted Delta
-2 Flooded Strand
-3 Prismatic Vista
-3 Island
-3 Plains
+1 Snow-Covered Swamp
+1 Cursed Scroll
+2 Snow-Covered Swamp
+2 Liliana, Waker of the Dead
+2 Cursed Scroll
+2 Nether Spirit
+2 Cling to Dust
+3 Snow-Covered Swamp
+3 Cling to Dust
+4 Snow-Covered Swamp
+4 Cling to Dust
+4 Castle Locthwain
+5 Snow-Covered Swamp
+6 Snow-Covered Swamp
+7 Snow-Covered Swamp
+8 Snow-Covered Swamp
+9 Snow-Covered Swamp
+10 Snow-Covered Swamp
 1 Ensnaring Bridge
 1 Liquimetal Coating
 1 Surgical Extraction
 1 Asylum Visitor
+1 Marsh Flats
 1 Mutavault
+1 Duress
 2 Ensnaring Bridge
 2 Blast Zone
 2 Surgical Extraction
@@ -140,23 +109,5 @@
 2 Marsh Flats
 2 Asylum Visitor
 3 Marsh Flats
-3 Mutavault
 4 Marsh Flats
-1 Snow-Covered Swamp
-1 Cursed Scroll
-2 Liliana, Waker of the Dead
-2 Snow-Covered Swamp
-2 Cursed Scroll
-2 Nether Spirit
-2 Cling to Dust
-3 Snow-Covered Swamp
-3 Cling to Dust
-4 Snow-Covered Swamp
-4 Cling to Dust
-5 Snow-Covered Swamp
-6 Snow-Covered Swamp
-7 Snow-Covered Swamp
-8 Snow-Covered Swamp
-9 Snow-Covered Swamp
-10 Snow-Covered Swamp
-4 Castle Locthwain
+3 Mutavault

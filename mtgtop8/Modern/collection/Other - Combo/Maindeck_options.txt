@@ -1,8 +1,8 @@
 3 Serum Visions
 4 Serum Visions
 1 Sleight of Hand
-1 Ideas Unbound
 1 Lotus Field
+1 Ideas Unbound
 1 Lonely Sandbar
 1 Echoing Truth
 1 Reach Through Mists
@@ -65,8 +65,8 @@
 2 Blood Moon
 3 Blood Moon
 1 Lightning Bolt
-1 Irencrag Feat
 1 Spikefield Hazard
+1 Irencrag Feat
 1 Ornithopter
 1 Bala Ged Recovery
 1 Recross the Paths
@@ -77,8 +77,8 @@
 1 Pyretic Ritual
 1 Infernal Plunge
 1 Talisman of Impulse
-2 Irencrag Feat
 2 Spikefield Hazard
+2 Irencrag Feat
 2 Bala Ged Recovery
 2 Pyretic Ritual
 2 Manamorphose
@@ -87,8 +87,8 @@
 2 Valakut Awakening
 2 Desperate Ritual
 3 Valakut Awakening
-3 Irencrag Feat
 3 Spikefield Hazard
+3 Irencrag Feat
 3 Manamorphose
 3 Talisman of Impulse
 3 Recross the Paths
@@ -96,13 +96,13 @@
 3 Pyretic Ritual
 3 Bala Ged Recovery
 4 Valakut Awakening
-4 Irencrag Feat
 4 Spikefield Hazard
 4 Goblin Charbelcher
 4 Manamorphose
 4 Recross the Paths
 4 Talisman of Impulse
 4 Pyretic Ritual
+4 Irencrag Feat
 4 Desperate Ritual
 1 Thoughtseize
 2 Thoughtseize
@@ -112,6 +112,8 @@
 2 Talisman of Dominance
 1 Unearth
 3 Sphere of the Suns
+3 Hagra Mauling
+4 Hagra Mauling
 1 Urborg, Tomb of Yawgmoth
 1 Gemstone Mine
 1 Reflecting Pool
@@ -171,8 +173,6 @@
 4 Mana Confluence
 4 Eladamri's Call
 4 Summoner's Pact
-3 Hagra Mauling
-4 Hagra Mauling
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 1 Phyrexian Unlife
@@ -230,12 +230,11 @@
 3 Wooded Foothills
 4 Wooded Foothills
 1 Dwarven Mine
-1 Transmogrify
 1 Mana Leak
 1 Repeal
 1 Mountain
-1 Fire Prophecy
 1 Force of Negation
+1 Transmogrify
 1 Steam Vents
 1 Arid Mesa
 1 Scalding Tarn
@@ -245,10 +244,10 @@
 1 Bloodstained Mire
 1 Sacred Foundry
 1 Anger of the Gods
+1 Fire Prophecy
 1 Raugrin Triome
 1 Cloudform
 2 Mountain
-2 Transmogrify
 2 Spell Snare
 2 Dwarven Mine
 2 Anger of the Gods
@@ -257,15 +256,16 @@
 2 Cloudform
 2 Raugrin Triome
 2 Force of Negation
+2 Transmogrify
 2 Arid Mesa
 2 Izzet Charm
 2 Lightning Bolt
 2 Polymorph
 3 Arid Mesa
-3 Transmogrify
 3 Steam Vents
 3 Teferi, Time Raveler
 3 Scalding Tarn
+3 Transmogrify
 3 Lightning Bolt
 3 Polymorph
 3 Dwarven Mine
@@ -298,7 +298,6 @@
 2 Birds of Paradise
 3 Oath of Nissa
 3 Chandra, Torch of Defiance
-3 Lukka, Coppercoat Outcast
 3 Utopia Sprawl
 3 Nahiri, the Harbinger
 3 Karn, the Great Creator
@@ -307,6 +306,7 @@
 3 Forest
 3 Arbor Elf
 3 Noble Hierarch
+3 Lukka, Coppercoat Outcast
 4 Chandra, Torch of Defiance
 4 Oath of Nissa
 4 Utopia Sprawl

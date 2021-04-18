@@ -5,8 +5,8 @@
 3 The Great Henge
 1 Vorinclex, Monstrous Raider
 2 Vorinclex, Monstrous Raider
-1 Order of Midnight
 1 Vivien, Monsters' Advocate
+1 Order of Midnight
 2 Order of Midnight
 5 Forest
 6 Forest
@@ -22,11 +22,11 @@
 2 Snow-Covered Forest
 2 Snow-Covered Swamp
 3 Snow-Covered Forest
-3 Woodland Chasm
 3 Snow-Covered Swamp
+3 Woodland Chasm
 4 Snow-Covered Forest
-4 Woodland Chasm
 4 Snow-Covered Swamp
+4 Woodland Chasm
 5 Snow-Covered Forest
 5 Snow-Covered Swamp
 6 Snow-Covered Forest
@@ -96,11 +96,11 @@
 4 Tajuru Blightblade
 10 Forest
 1 Evolving Wilds
-1 Withercrown
 1 Extinction Event
+1 Ranger's Guile
 1 Wildborn Preserver
 1 Feed the Swarm
-1 Ranger's Guile
+1 Withercrown
 1 Fully Grown
 2 Feed the Swarm
 2 Fully Grown
@@ -139,11 +139,11 @@
 1 Wicked Wolf
 1 Turntimber Symbiosis
 2 Gilded Goose
-2 Trail of Crumbs
-2 Chevill, Bane of Monsters
-2 Wicked Wolf
-2 Turntimber Symbiosis
 2 Massacre Wurm
+2 Trail of Crumbs
+2 Wicked Wolf
+2 Chevill, Bane of Monsters
+2 Turntimber Symbiosis
 3 Gilded Goose
 3 Wicked Wolf
 3 Eliminate
@@ -167,13 +167,13 @@
 2 Skemfar Shadowsage
 4 Boreal Outrider
 1 Blightstep Pathway
-1 Valki, God of Lies
 1 Zagoth Triome
 1 Cragcrown Pathway
+1 Valki, God of Lies
 2 Blightstep Pathway
-2 Valki, God of Lies
 2 Cragcrown Pathway
 2 Vivien, Monsters' Advocate
+2 Valki, God of Lies
 3 Blightstep Pathway
 3 Valki, God of Lies
 3 Cragcrown Pathway
@@ -181,15 +181,15 @@
 4 Blightstep Pathway
 4 Cragcrown Pathway
 1 Egon, God of Death
-1 Hooded Blightfang
 1 Call of the Death-Dweller
+1 Hooded Blightfang
 1 Moss Viper
 1 The Binding of the Titans
 1 Mire Triton
-2 Hooded Blightfang
-2 Call of the Death-Dweller
 2 Egon, God of Death
+2 Call of the Death-Dweller
 2 Moss Viper
+2 Hooded Blightfang
 2 The Binding of the Titans
 2 Mire Triton
 3 Mire Triton
@@ -208,13 +208,13 @@
 9 Snow-Covered Forest
 10 Snow-Covered Swamp
 1 Garruk's Uprising
-1 Sarulf's Packmate
 1 Fiend Artisan
+1 Sarulf's Packmate
+1 Feed the Serpent
 1 Wildwood Patrol
 1 Battle Mammoth
 1 Ram Through
 1 Keeper of Fables
-1 Feed the Serpent
 1 Greater Sandwurm
 1 Gnottvold Recluse
 2 Ram Through
