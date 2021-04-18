@@ -1,3 +1,5 @@
+4 Silent Clearing
+4 Archon of Emeria
 1 Tectonic Edge
 2 Tectonic Edge
 3 Tectonic Edge
@@ -6,28 +8,26 @@
 2 Winds of Abandon
 1 Restoration Angel
 2 Restoration Angel
-3 Silent Clearing
-4 Silent Clearing
-1 Castle Ardenvale
-11 Plains
-12 Plains
-13 Plains
-14 Plains
-15 Plains
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
+1 Castle Ardenvale
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
-3 Restoration Angel
-1 Charming Prince
-1 Linvala, Keeper of Silence
+11 Plains
+12 Plains
+13 Plains
+14 Plains
+15 Plains
 10 Snow-Covered Plains
+1 Charming Prince
 2 Charming Prince
+3 Restoration Angel
+1 Linvala, Keeper of Silence
 1 Sword of Light and Shadow
 3 Winds of Abandon
 2 Castle Ardenvale
@@ -47,8 +47,8 @@
 1 Razorverge Thicket
 1 Temple Garden
 1 Branchloft Pathway
-1 Forest
 1 Oath of Nissa
+1 Forest
 2 Noble Hierarch
 2 Razorverge Thicket
 2 Temple Garden
@@ -64,10 +64,6 @@
 4 Razorverge Thicket
 4 Temple Garden
 4 Oath of Nissa
-1 Thraben Inspector
-2 Thraben Inspector
-17 Plains
-18 Plains
 1 Skyclave Cleric
 2 Skyclave Cleric
 1 Brushland
@@ -100,6 +96,10 @@
 1 Gaddock Teeg
 2 Gaddock Teeg
 4 Noble Hierarch
+1 Thraben Inspector
+2 Thraben Inspector
+17 Plains
+18 Plains
 1 Auriok Champion
 1 On Thin Ice
 1 Wall of Omens
@@ -113,6 +113,7 @@
 17 Snow-Covered Plains
 18 Snow-Covered Plains
 19 Snow-Covered Plains
+1 Aven Mindcensor
 1 Blast Zone
 3 Charming Prince
 1 Flagstones of Trokair

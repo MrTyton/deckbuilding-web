@@ -7,58 +7,58 @@
 2 Tropical Island
 2 Stifle
 1 Abrupt Decay
-3 Stifle
 1 Drown in the Loch
 4 Misty Rainforest
 3 Uro, Titan of Nature's Wrath
-2 Abrupt Decay
 1 Jace, the Mind Sculptor
 1 Baleful Strix
-2 Baleful Strix
 1 Snow-Covered Island
-1 Bloodstained Mire
+3 Stifle
+2 Baleful Strix
+2 Abrupt Decay
 3 Baleful Strix
 1 Snow-Covered Forest
+1 Bloodstained Mire
 1 Assassin's Trophy
-1 Leovold, Emissary of Trest
 1 Snow-Covered Swamp
+1 Leovold, Emissary of Trest
 2 Snow-Covered Island
-1 Sylvan Library
 4 Baleful Strix
+1 Sylvan Library
 1 Island
 4 Stifle
 2 Assassin's Trophy
 2 Snow-Covered Forest
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
-1 Brazen Borrower
+3 Assassin's Trophy
 3 Abrupt Decay
-1 Karakas
 3 Ice-Fang Coatl
+1 Karakas
+2 Leovold, Emissary of Trest
 3 Verdant Catacombs
 1 Plague Engineer
-3 Assassin's Trophy
+1 Brazen Borrower
 1 Reanimate
-2 Leovold, Emissary of Trest
 1 Swamp
 1 Life from the Loam
 1 Scavenging Ooze
-3 Underground Sea
-2 Scalding Tarn
-1 Hymn to Tourach
-1 Snapcaster Mage
-2 Snapcaster Mage
-2 Bloodstained Mire
 1 Court of Cunning
 2 Court of Cunning
-2 Hymn to Tourach
-3 Flooded Strand
-1 Ethereal Forager
-1 Forest
+2 Scalding Tarn
 3 Snow-Covered Island
 1 Mystic Sanctuary
+3 Underground Sea
+2 Bloodstained Mire
+1 Snapcaster Mage
+2 Snapcaster Mage
+1 Hymn to Tourach
+1 Ethereal Forager
+1 Forest
 2 Sylvan Library
-3 Tropical Island
+3 Court of Cunning
+2 Hymn to Tourach
+3 Flooded Strand
 1 Preordain
 3 Fatal Push
 2 Drown in the Loch
@@ -67,20 +67,20 @@
 2 Volcanic Island
 1 Green Sun's Zenith
 2 Green Sun's Zenith
-3 Court of Cunning
-3 Snapcaster Mage
 1 Cling to Dust
-1 Liliana, the Last Hope
 2 Reanimate
-4 Assassin's Trophy
 2 Ethereal Forager
+3 Tropical Island
+4 Assassin's Trophy
 1 Hullbreacher
 1 Dryad Arbor
 3 Green Sun's Zenith
 4 Green Sun's Zenith
 1 Tireless Tracker
 4 Ice-Fang Coatl
+3 Snapcaster Mage
 2 Plague Engineer
+1 Liliana, the Last Hope
 1 Narset, Parter of Veils
 1 Marsh Flats
 3 Ethereal Forager
@@ -177,10 +177,6 @@
 4 Grove of the Burnwillows
 1 Arasta of the Endless Web
 2 Windswept Heath
-1 Swords to Plowshares
-2 Swords to Plowshares
-3 Swords to Plowshares
-1 Carpet of Flowers
 1 Mishra's Bauble
 1 Gilded Goose
 1 Engineered Explosives
@@ -196,8 +192,9 @@
 3 Emry, Lurker of the Loch
 3 Gilded Goose
 3 Mishra's Bauble
-4 Urza, Lord High Artificer
 4 Mishra's Bauble
+4 Urza, Lord High Artificer
+1 Dead of Winter
 1 Mox Diamond
 2 Mox Diamond
 3 Mox Diamond
@@ -222,13 +219,17 @@
 1 Flagstones of Trokair
 1 Snow-Covered Plains
 1 Skyclave Apparition
+1 Swords to Plowshares
 1 Plains
 1 Thalia, Guardian of Thraben
 2 Skyclave Apparition
 2 Thalia, Guardian of Thraben
+2 Swords to Plowshares
 3 Windswept Heath
+3 Swords to Plowshares
 4 Windswept Heath
 2 Field of the Dead
+1 Carpet of Flowers
 1 Prophetic Prism
 1 Abundant Growth
 2 Prophetic Prism
@@ -246,11 +247,6 @@
 4 Swords to Plowshares
 1 Hooting Mandrills
 1 Sylvan Safekeeper
-1 Dead of Winter
-1 Scrubland
-1 Teferi, Time Raveler
-1 Spell Pierce
-1 Tundra
 1 Prismatic Vista
 1 Angrath's Rampage
 2 Inquisition of Kozilek
@@ -262,16 +258,16 @@
 1 Jace, Vryn's Prodigy
 2 Jace, Vryn's Prodigy
 2 Wooded Foothills
-1 Liliana of the Veil
-1 Raven's Crime
-1 Heartless Act
-2 Raven's Crime
 2 Toxic Deluge
 1 Mountain
 1 Kroxa, Titan of Death's Hunger
 1 Painful Truths
 2 Kroxa, Titan of Death's Hunger
 2 Birds of Paradise
+1 Liliana of the Veil
+1 Raven's Crime
+1 Heartless Act
+2 Raven's Crime
 3 Marsh Flats
 3 Sylvan Library
 1 Temple Garden
@@ -307,8 +303,8 @@
 3 Dark Confidant
 4 Dark Confidant
 4 Hexdrinker
-1 Zagoth Triome
 1 Thought Scour
+1 Zagoth Triome
 1 Lonely Sandbar
 1 Tranquil Thicket
 2 Thought Scour

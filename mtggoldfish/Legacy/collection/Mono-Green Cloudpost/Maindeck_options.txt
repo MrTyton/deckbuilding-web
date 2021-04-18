@@ -1,42 +1,24 @@
+1 Glacial Chasm
+1 All Is Dust
+2 All Is Dust
+1 Thespian's Stage
+3 Primeval Titan
+1 Elvish Rejuvenator
+2 Cavern of Souls
+1 Elvish Reclaimer
+1 Pithing Needle
+1 Expedition Map
+1 Bojuka Bog
+2 Elvish Reclaimer
+2 Pithing Needle
+2 Expedition Map
 1 Green Sun's Zenith
 1 Ramunap Excavator
 2 Green Sun's Zenith
 3 Elvish Reclaimer
 3 Pithing Needle
 4 Elvish Reclaimer
-1 Kozilek, Butcher of Truth
-6 Forest
 2 Thespian's Stage
-2 Elvish Rejuvenator
-3 Sorcerous Spyglass
-3 Elvish Rejuvenator
-4 Primeval Titan
-4 Elvish Rejuvenator
-4 Sorcerous Spyglass
-4 Pithing Needle
-2 Ulamog, the Ceaseless Hunger
-1 Grim Monolith
-2 Grim Monolith
-3 Grim Monolith
-2 Walking Ballista
-1 City of Traitors
-3 Expedition Map
-4 Expedition Map
-1 Crop Rotation
-2 Crop Rotation
-1 Urborg, Tomb of Yawgmoth
-1 Eldrazi Temple
-2 Eldrazi Temple
-3 Eldrazi Temple
-4 Eldrazi Temple
-4 Grim Monolith
-1 Warping Wail
-2 Warping Wail
-1 Ugin, the Spirit Dragon
-1 All Is Dust
-2 All Is Dust
-1 Reclamation Sage
-1 Maze of Ith
 3 All Is Dust
 1 Reality Smasher
 2 Reality Smasher
@@ -47,41 +29,61 @@
 1 Matter Reshaper
 2 Matter Reshaper
 3 Matter Reshaper
-4 Matter Reshaper
 3 Reality Smasher
 3 Eye of Ugin
 4 Reality Smasher
-3 Crop Rotation
-4 Crop Rotation
-3 Green Sun's Zenith
-4 Green Sun's Zenith
+6 Forest
+3 Sorcerous Spyglass
+1 Ugin, the Spirit Dragon
+4 Pithing Needle
 1 Blast Zone
-3 Cavern of Souls
-1 Dark Depths
-7 Forest
+1 Warping Wail
+2 Warping Wail
+1 Kozilek, Butcher of Truth
+3 Expedition Map
+4 Expedition Map
+2 Elvish Rejuvenator
+3 Elvish Rejuvenator
+4 Primeval Titan
+4 Elvish Rejuvenator
+4 Sorcerous Spyglass
+4 Matter Reshaper
+1 Crop Rotation
+2 Crop Rotation
 1 Karn, the Great Creator
 1 Ugin, the Ineffable
 2 Karn, the Great Creator
 3 Karn, the Great Creator
-1 Misty Rainforest
-1 The World Tree
-1 Emrakul, the Promised End
+1 Reclamation Sage
+3 Endbringer
+4 Endbringer
+1 Maze of Ith
 2 Ugin, the Ineffable
 4 Karn, the Great Creator
 2 Ugin, the Spirit Dragon
-3 Endbringer
-4 Endbringer
+1 The World Tree
+3 Crop Rotation
+4 Crop Rotation
+1 Emrakul, the Promised End
+3 Green Sun's Zenith
+4 Green Sun's Zenith
+2 City of Traitors
+1 Trinisphere
+1 Manifold Key
+2 Trinisphere
+3 Cavern of Souls
+1 Dark Depths
+7 Forest
 1 Wooded Foothills
 1 Ancient Stirrings
 2 Ancient Stirrings
 3 Ancient Stirrings
 4 Ancient Stirrings
+1 Misty Rainforest
 1 Forsaken Monument
 2 Forsaken Monument
-1 Trinisphere
-1 Manifold Key
-2 Trinisphere
 2 Blast Zone
+1 Wastes
 1 Candelabra of Tawnos
 2 Candelabra of Tawnos
 1 Apex Devastator
@@ -93,10 +95,10 @@
 1 Sphere of Resistance
 1 Mystic Forge
 2 Basalt Monolith
-1 Wastes
-2 City of Traitors
+3 Ugin, the Spirit Dragon
 3 Walking Ballista
-4 Cavern of Souls
+1 Thran Dynamo
+2 Thran Dynamo
 1 Mikokoro, Center of the Sea
 1 Snow-Covered Forest
 2 Snow-Covered Forest
@@ -106,11 +108,10 @@
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 2 Mystic Forge
-3 Ugin, the Spirit Dragon
 1 Mazemind Tome
+2 Manifold Key
 4 Walking Ballista
-1 Thran Dynamo
-2 Thran Dynamo
+2 Karakas
 3 Candelabra of Tawnos
 1 Wasteland
 2 Wasteland
@@ -125,9 +126,7 @@
 1 Stonecoil Serpent
 1 Verdant Catacombs
 2 Stonecoil Serpent
-2 Manifold Key
 2 Mazemind Tome
-2 Karakas
 3 Mazemind Tome
 1 Endless One
 1 Eldrazi Mimic
@@ -137,5 +136,12 @@
 3 Eldrazi Mimic
 4 Endless One
 4 Eldrazi Mimic
+4 Cavern of Souls
+1 Wandering Archaic
+2 Wandering Archaic
+3 City of Traitors
+3 Wandering Archaic
+4 Wandering Archaic
+4 City of Traitors
 1 The Tabernacle at Pendrell Vale
 8 Forest

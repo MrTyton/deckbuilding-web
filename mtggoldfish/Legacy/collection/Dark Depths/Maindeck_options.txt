@@ -1,5 +1,4 @@
 1 Sylvan Safekeeper
-4 Once Upon a Time
 1 Lotus Petal
 2 Lotus Petal
 3 Lotus Petal
@@ -21,24 +20,25 @@
 2 Gemstone Mine
 3 Mana Confluence
 4 Mana Confluence
-3 Bayou
-1 Swamp
+4 Once Upon a Time
+1 Ghost Quarter
 3 Gemstone Mine
 4 Gemstone Mine
+3 Bayou
+1 Swamp
 2 Nurturing Peatland
-1 Ghost Quarter
 3 Abrupt Decay
 2 Wasteland
-1 Forest
 2 Sylvan Safekeeper
 4 Dark Confidant
 1 Sylvan Library
+1 Forest
 2 Sylvan Library
 3 Mox Diamond
 4 Abrupt Decay
+3 Pithing Needle
 3 Inquisition of Kozilek
 4 Mox Diamond
-3 Pithing Needle
 1 Dark Ritual
 2 Swamp
 2 Dark Ritual
@@ -53,25 +53,8 @@
 2 Hymn to Tourach
 3 Wasteland
 1 Blooming Marsh
-1 Life from the Loam
-1 Stitcher's Supplier
-1 Satyr Wayfinder
-1 Dryad Arbor
-1 Cabal Therapy
-1 Khalni Garden
-1 Hogaak, Arisen Necropolis
-2 Stitcher's Supplier
-2 Satyr Wayfinder
-2 Khalni Garden
-2 Hogaak, Arisen Necropolis
-2 Cabal Therapy
-3 Stitcher's Supplier
-3 Satyr Wayfinder
-3 Hogaak, Arisen Necropolis
-3 Khalni Garden
-3 Cabal Therapy
-4 Stitcher's Supplier
-4 Cabal Therapy
+2 City of Brass
+3 City of Brass
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 4 Dark Ritual
@@ -110,16 +93,12 @@
 4 Smallpox
 4 Wasteland
 1 Flusterstorm
+1 Life from the Loam
 1 Wooded Foothills
 1 Badlands
 1 Taiga
-2 City of Brass
-3 City of Brass
 1 Lake of the Dead
 3 Helm of Obedience
-1 Genesis
-2 Life from the Loam
-4 Satyr Wayfinder
 1 Blast Zone
 1 Liliana's Triumph
 1 Crucible of Worlds
@@ -147,6 +126,25 @@
 3 Stifle
 4 Stifle
 4 Brainstorm
+1 Stitcher's Supplier
+1 Dryad Arbor
+1 Satyr Wayfinder
+1 Cabal Therapy
+1 Khalni Garden
+1 Hogaak, Arisen Necropolis
+2 Stitcher's Supplier
+2 Satyr Wayfinder
+2 Khalni Garden
+2 Hogaak, Arisen Necropolis
+2 Cabal Therapy
+3 Stitcher's Supplier
+3 Satyr Wayfinder
+3 Hogaak, Arisen Necropolis
+3 Khalni Garden
+3 Cabal Therapy
+4 Stitcher's Supplier
+4 Cabal Therapy
+4 Hogaak, Arisen Necropolis
 1 Bloodchief's Thirst
 1 Liliana, the Last Hope
 1 The Tabernacle at Pendrell Vale
@@ -154,10 +152,9 @@
 1 Eliminate
 1 Nether Void
 1 Mishra's Factory
-2 Castle Locthwain
 2 Eliminate
 2 Liliana, the Last Hope
 2 Bloodchief's Thirst
 2 Mishra's Factory
+2 Castle Locthwain
 10 Swamp
-4 Hogaak, Arisen Necropolis

@@ -1,6 +1,6 @@
+1 Bayou
 1 Chrome Mox
 2 Swamp
-1 Bayou
 4 Polluted Delta
 1 Brainstorm
 1 Tropical Island
@@ -19,12 +19,12 @@
 1 Snow-Covered Swamp
 1 Karakas
 1 Uro, Titan of Nature's Wrath
+1 Cling to Dust
 1 Hullbreacher
 1 Fatal Push
 1 Crop Rotation
 1 Worldgorger Dragon
 1 Grove of the Burnwillows
-1 Cling to Dust
 1 Dack Fayden
 1 Ice-Fang Coatl
 1 Dance of the Dead
@@ -50,13 +50,14 @@
 3 Abundant Growth
 4 Abundant Growth
 4 Misty Rainforest
+2 Marsh Flats
 2 Verdant Catacombs
 3 Verdant Catacombs
 2 Chrome Mox
 1 Notion Thief
 1 Mountain
-2 Marsh Flats
 4 Ponder
+1 Tidespout Tyrant
 1 Collective Brutality
 1 Daze
 2 Daze
@@ -85,6 +86,9 @@
 1 Pathrazer of Ulamog
 1 Sphinx of the Steel Wind
 2 Scrubland
+1 Simian Spirit Guide
+3 Marsh Flats
+4 Marsh Flats
 1 Watery Grave
 1 Blood Crypt
 1 Godless Shrine
@@ -96,7 +100,6 @@
 3 Daze
 4 Daze
 1 Island
-1 Tidespout Tyrant
 1 Careful Study
 1 Elesh Norn, Grand Cenobite
 2 Underground Sea
@@ -133,7 +136,6 @@
 3 Cabal Therapy
 4 Cabal Therapy
 4 Swamp
-5 Swamp
 6 Swamp
 7 Swamp
 8 Swamp
@@ -141,3 +143,4 @@
 10 Swamp
 11 Swamp
 12 Swamp
+5 Swamp

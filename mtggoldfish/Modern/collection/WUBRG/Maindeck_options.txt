@@ -1,44 +1,45 @@
-1 Mountain
-1 Unmoored Ego
-1 Kolaghan's Command
 4 Kaya's Guile
-1 Island
+1 Unmoored Ego
+1 Mountain
+1 Kolaghan's Command
 4 Teferi, Time Raveler
-1 Plains
+1 Island
 1 Pillar of the Paruns
 2 Pillar of the Paruns
-2 Verdant Catacombs
+1 Plains
 3 Pillar of the Paruns
+2 Verdant Catacombs
 1 Nahiri, the Harbinger
-1 Swamp
 2 Nahiri, the Harbinger
 4 Omnath, Locus of Creation
 2 Assassin's Trophy
-4 Misty Rainforest
-1 Snow-Covered Forest
+1 Swamp
 3 Assassin's Trophy
+1 Snow-Covered Forest
 2 Forest
-4 Windswept Heath
+4 Misty Rainforest
 1 Snow-Covered Island
 1 Snow-Covered Plains
+4 Windswept Heath
+1 Abrupt Decay
 1 Snow-Covered Mountain
 1 Raugrin Triome
 1 Hallowed Fountain
 2 Snow-Covered Forest
 1 Omen of the Sea
 2 Omen of the Sea
+1 Phantasmal Image
 1 Skyclave Apparition
 1 Charming Prince
-1 Omen of the Forge
-1 Meddling Mage
-1 Scavenging Ooze
-1 Magus of the Moon
 1 Reflector Mage
+1 Meddling Mage
+1 Omen of the Forge
+1 Magus of the Moon
+1 Scavenging Ooze
 1 Enigmatic Incarnation
 1 Lurrus of the Dream-Den
 1 Glasspool Mimic
 1 Brain Maggot
-1 Phantasmal Image
 1 Spellskite
 2 Skyclave Apparition
 2 Omen of the Forge
@@ -49,19 +50,19 @@
 4 Enigmatic Incarnation
 1 Renegade Rallier
 2 Renegade Rallier
-1 Sacred Foundry
 1 Seal of Fire
 1 Spreading Seas
 2 Spreading Seas
 3 Skyclave Apparition
 3 Spreading Seas
 4 Spreading Seas
-1 Abrupt Decay
 4 Assassin's Trophy
+1 Sacred Foundry
 1 Deputy of Detention
 1 Dreadbore
 4 Wooded Foothills
 2 Lurrus of the Dream-Den
+1 Snow-Covered Swamp
 1 Living End
 1 Curator of Mysteries
 1 Windcaller Aven
@@ -109,7 +110,6 @@
 2 Scalding Tarn
 2 Brazen Borrower
 3 Scalding Tarn
-1 Snow-Covered Swamp
 2 Botanical Sanctum
 3 Brazen Borrower
 3 Birds of Paradise
@@ -145,11 +145,10 @@
 3 As Foretold
 4 As Foretold
 2 Valki, God of Lies
-2 Abrupt Decay
 2 Island
 3 Island
-4 Niv-Mizzet Reborn
 1 Sword of Fire and Ice
+4 Niv-Mizzet Reborn
 4 Birds of Paradise
 1 Trial of Ambition
 2 Temple Garden
@@ -173,6 +172,7 @@
 4 Spirebluff Canal
 4 Remand
 4 Crashing Footfalls
+2 Abrupt Decay
 1 Cryptic Command
 1 Ice-Fang Coatl
 1 Unearth
@@ -180,24 +180,15 @@
 3 Ephemerate
 3 Forest
 3 Verdant Catacombs
-1 Felidar Guardian
-1 Saheeli Rai
-1 Oath of Nissa
-2 Felidar Guardian
-2 Saheeli Rai
-2 Oath of Nissa
-3 Saheeli Rai
-3 Felidar Guardian
-3 Oath of Nissa
 1 Seachrome Coast
 1 Waker of Waves
 2 Waker of Waves
 3 Waker of Waves
 4 Island
 4 Waker of Waves
-1 Shadows' Verdict
 1 Thoughtseize
 1 Fatal Push
+1 Shadows' Verdict
 2 Thoughtseize
 2 Fatal Push
 3 Thoughtseize
@@ -205,17 +196,26 @@
 4 Fatal Push
 4 Pillar of the Paruns
 4 Thoughtseize
-1 Zagoth Triome
 1 Spell Pierce
 1 Tolaria West
 2 Spell Pierce
 3 Spell Pierce
 1 Architects of Will
 2 Architects of Will
+1 Zagoth Triome
 5 Island
 6 Island
+1 Felidar Guardian
+1 Saheeli Rai
+1 Oath of Nissa
 1 Path to Exile
+2 Felidar Guardian
+2 Saheeli Rai
+2 Oath of Nissa
 2 Path to Exile
+3 Saheeli Rai
+3 Felidar Guardian
+3 Oath of Nissa
 1 Calix, Destiny's Hand
 2 Uro, Titan of Nature's Wrath
 2 Lithoform Blight
@@ -226,7 +226,6 @@
 2 Path to the World Tree
 1 Voice of Resurgence
 3 Abrupt Decay
-4 Oath of Nissa
 1 Ancestral Vision
 1 Glacial Fortress
 2 Glacial Fortress
@@ -251,19 +250,14 @@
 4 Glittering Wish
 1 Cosima, God of the Voyage
 1 Archon of Emeria
-1 Binding the Old Gods
-1 Ashiok, Dream Render
 1 Oath of Kaya
+1 Vanishing Verse
 1 Reidane, God of the Worthy
-1 Spike Feeder
 1 Heliod, Sun-Crowned
+1 Spike Feeder
 1 Omen of the Dead
-1 Golos, Tireless Pilgrim
-1 Huntmaster of the Fells
-1 Klothys, God of Destiny
-1 Kaya, Orzhov Usurper
-2 Stomping Ground
-4 Felidar Guardian
+1 Ashiok, Dream Render
+1 Binding the Old Gods
 3 Omen of the Forge
 4 Omen of the Forge
 1 Vendilion Clique
@@ -278,30 +272,27 @@
 2 Valakut Awakening
 1 Commandeer
 2 Commandeer
-3 Hallowed Fountain
 2 Snow-Covered Island
 3 Snow-Covered Island
+3 Hallowed Fountain
 1 Lotus Cobra
+1 Inferno Titan
 1 Jace, the Mind Sculptor
 1 Sun Titan
-1 Inferno Titan
-2 Inferno Titan
 2 Lotus Cobra
+2 Inferno Titan
 2 Jace, the Mind Sculptor
-3 Lotus Cobra
 3 Jace, the Mind Sculptor
+3 Lotus Cobra
 3 Path to Exile
 4 Saheeli Rai
+4 Oath of Nissa
 4 Lotus Cobra
-1 Watery Grave
-2 Breeding Pool
-3 Architects of Will
-4 Architects of Will
 1 Polluted Delta
+1 Faerie Macabre
 1 Sunken Ruins
 1 Adarkar Wastes
 1 Generous Gift
-1 Faerie Macabre
 1 Failure/Comply
 2 Polluted Delta
 2 Imposing Vantasaur
@@ -309,11 +300,15 @@
 2 Generous Gift
 2 Failure/Comply
 2 Adarkar Wastes
+3 Seachrome Coast
 3 Polluted Delta
 3 Adarkar Wastes
 3 Imposing Vantasaur
-3 Seachrome Coast
+4 Seachrome Coast
 4 Imposing Vantasaur
 4 Adarkar Wastes
 4 Polluted Delta
-4 Seachrome Coast
+1 Watery Grave
+2 Breeding Pool
+3 Architects of Will
+4 Architects of Will
