@@ -1,47 +1,43 @@
-1 Scalding Tarn
 2 Mountain
+1 Monastery Swiftspear
 1 Soul-Scar Mage
 1 Manamorphose
 1 Lava Dart
-1 Monastery Swiftspear
 1 Light Up the Stage
-2 Lava Dart
 2 Monastery Swiftspear
+2 Lava Dart
 2 Soul-Scar Mage
 2 Light Up the Stage
 2 Manamorphose
+3 Monastery Swiftspear
 3 Manamorphose
 3 Lava Dart
-3 Monastery Swiftspear
 3 Soul-Scar Mage
+4 Monastery Swiftspear
 4 Manamorphose
 4 Soul-Scar Mage
 4 Lava Dart
-4 Monastery Swiftspear
 1 Crash Through
 2 Crash Through
 3 Light Up the Stage
 3 Crash Through
-1 Sacred Foundry
 1 Sunbaked Canyon
 2 Sunbaked Canyon
 3 Mountain
+3 Sunbaked Canyon
 4 Light Up the Stage
+1 Sacred Foundry
+2 Sacred Foundry
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
-3 Sunbaked Canyon
-4 Remand
-2 Sacred Foundry
-3 Deceiver Exarch
 1 Inspiring Vantage
 2 Inspiring Vantage
-1 Arid Mesa
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep
+1 Arid Mesa
 1 Wooded Foothills
-4 Crash Through
 1 Mutagenic Growth
 2 Mutagenic Growth
 1 Bloodstained Mire
@@ -49,62 +45,75 @@
 4 Inspiring Vantage
 2 Wooded Foothills
 3 Mutagenic Growth
+4 Crash Through
+1 Crackling Drake
+4 Remand
 1 Force of Negation
-2 Scalding Tarn
-3 Scalding Tarn
-2 Force of Negation
-2 Reflecting Pool
 2 Bloodstained Mire
-3 Steam Vents
-1 Jace, the Mind Sculptor
+2 Reflecting Pool
+3 Deceiver Exarch
 1 Boros Charm
 2 Boros Charm
+2 Force of Negation
+2 Scalding Tarn
+3 Scalding Tarn
+6 Island
+3 Steam Vents
+1 Jace, the Mind Sculptor
 1 Flooded Strand
-4 Scalding Tarn
-2 Flooded Strand
 1 Myth Realized
 2 Myth Realized
 3 Myth Realized
-1 Sulfur Falls
-6 Island
-3 Flooded Strand
-4 Flooded Strand
-2 Sulfur Falls
 1 Through the Breach
 2 Through the Breach
+1 Sulfur Falls
+2 Flooded Strand
+4 Scalding Tarn
 1 Emrakul, the Aeons Torn
 2 Emrakul, the Aeons Torn
+2 Sulfur Falls
+3 Flooded Strand
+4 Flooded Strand
+7 Island
+4 Sunbaked Canyon
 3 Emrakul, the Aeons Torn
 3 Through the Breach
 4 Emrakul, the Aeons Torn
 4 Through the Breach
 3 Reflecting Pool
-7 Island
 3 Force of Negation
+1 Magmatic Sinkhole
 1 Temple of Epiphany
 4 Reflecting Pool
+2 Jace, the Mind Sculptor
+1 Blood Moon
+2 Blood Moon
 2 Temple of Epiphany
 3 Valakut Awakening
 3 Temple of Epiphany
 4 Valakut Awakening
 4 Temple of Epiphany
-1 Magmatic Sinkhole
-4 Sunbaked Canyon
-2 Jace, the Mind Sculptor
+4 Mutagenic Growth
+1 Clever Lumimancer
+2 Clever Lumimancer
+3 Clever Lumimancer
+4 Clever Lumimancer
 1 Shark Typhoon
 2 Shark Typhoon
-1 Blood Moon
-2 Blood Moon
-1 Fiery Islet
+1 Misty Rainforest
 1 Brazen Borrower
+1 Fiery Islet
 4 Mountain
 1 Lava Spike
 2 Lava Spike
+1 Gut Shot
+8 Island
+9 Island
 3 Lava Spike
 4 Lava Spike
-1 Misty Rainforest
+3 Abbot of Keral Keep
 2 Brazen Borrower
-1 Gut Shot
+2 Gut Shot
 5 Mountain
 6 Mountain
 7 Mountain
@@ -116,26 +125,20 @@
 1 Bedlam Reveler
 2 Bedlam Reveler
 3 Boros Charm
-4 Mutagenic Growth
-8 Island
-9 Island
+1 Behold the Multiverse
+2 Behold the Multiverse
 3 Kiki-Jiki, Mirror Breaker
-3 Mana Leak
-3 Abbot of Keral Keep
 4 Abbot of Keral Keep
-1 Clever Lumimancer
-2 Clever Lumimancer
-3 Clever Lumimancer
-4 Clever Lumimancer
+3 Mana Leak
 1 Seal of Fire
 2 Seal of Fire
-1 Castle Vantress
+3 Wooded Foothills
 2 Arid Mesa
 3 Arid Mesa
 3 Sacred Foundry
+1 Castle Vantress
 1 Polluted Delta
 3 Sulfur Falls
-2 Gut Shot
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 13 Mountain
@@ -152,8 +155,6 @@
 4 Misty Rainforest
 1 Stomping Ground
 1 Snow-Covered Mountain
-1 Behold the Multiverse
-2 Behold the Multiverse
 1 Snow-Covered Forest
 1 Firespout
 1 Search for Azcanta
@@ -162,10 +163,10 @@
 1 Snow-Covered Island
 1 Ice-Fang Coatl
 2 Snow-Covered Island
+2 Wrenn and Six
 2 Snow-Covered Forest
 2 Ice-Fang Coatl
 2 Breeding Pool
-2 Wrenn and Six
 3 Snow-Covered Island
 3 Wrenn and Six
 3 Ice-Fang Coatl
@@ -174,30 +175,12 @@
 4 Ice-Fang Coatl
 5 Snow-Covered Island
 2 Castle Vantress
-1 Celestial Colonnade
-1 Hallowed Fountain
-1 Restoration Angel
-1 Teferi, Time Raveler
-1 Plains
-1 Wall of Omens
-1 Lightning Helix
-1 Raugrin Triome
-2 Wall of Omens
-2 Lightning Helix
-2 Raugrin Triome
-2 Teferi, Time Raveler
-2 Restoration Angel
-3 Wall of Omens
-3 Teferi, Time Raveler
-3 Restoration Angel
-4 Wall of Omens
-4 Restoration Angel
-4 Teferi, Time Raveler
+1 Prismari Command
 1 Serum Visions
 2 Serum Visions
 1 Vendilion Clique
-1 Deprive
 1 Mystic Sanctuary
+1 Deprive
 2 Mystic Sanctuary
 1 Burst Lightning
 2 Fiery Islet
@@ -205,7 +188,8 @@
 3 Fiery Islet
 1 Ground Rift
 2 Ground Rift
-3 Wooded Foothills
+4 Wooded Foothills
+3 Gut Shot
 1 Wild Slash
 2 Wild Slash
 3 Kiln Fiend
@@ -213,9 +197,11 @@
 16 Mountain
 1 Spell Pierce
 3 Bonecrusher Giant
-1 Spell Queller
 1 Redirect
 2 Flusterstorm
+1 Raugrin Triome
+2 Prismari Command
+2 Magmatic Sinkhole
 1 Emerge Unscathed
 2 Emerge Unscathed
 1 Ancestral Vision
@@ -229,6 +215,8 @@
 2 Blistercoil Weird
 2 Runaway Steam-Kin
 3 Burst Lightning
+3 Bloodstained Mire
+4 Bloodstained Mire
 3 Serum Visions
 4 Deceiver Exarch
 4 Serum Visions
@@ -241,14 +229,13 @@
 3 Stomping Ground
 3 Wild Nacatl
 3 Tarmogoyf
-4 Wooded Foothills
 4 Wild Nacatl
 4 Tarmogoyf
-1 Glasspool Mimic
-1 Stubborn Denial
 1 The Royal Scions
+1 Glasspool Mimic
 1 Faerie Conclave
 1 Inferno Titan
+1 Stubborn Denial
 1 Thryx, the Sudden Storm
 1 Invasion of the Giants
 2 Faerie Conclave
@@ -272,19 +259,16 @@
 2 Forgotten Cave
 2 Thrill of Possibility
 2 Arclight Phoenix
-3 Gut Shot
 3 Thrill of Possibility
 3 Arclight Phoenix
 4 Arclight Phoenix
 4 Thrill of Possibility
-3 Bloodstained Mire
-4 Bloodstained Mire
-1 Temur Battle Rage
-1 Thing in the Ice
 1 Goldspan Dragon
+1 Thing in the Ice
+1 Temur Battle Rage
 2 Goldspan Dragon
-2 Temur Battle Rage
 2 Thing in the Ice
+2 Temur Battle Rage
 3 Goldspan Dragon
 3 Thing in the Ice
 3 Blood Moon

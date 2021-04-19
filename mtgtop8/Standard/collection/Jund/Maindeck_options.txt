@@ -13,10 +13,10 @@
 2 Binding the Old Gods
 1 Castle Locthwain
 1 Ketria Triome
-1 Goldspan Dragon
 1 Shatterskull Smashing
 1 Lovestruck Beast
 1 Edgewall Innkeeper
+1 Goldspan Dragon
 2 Goldspan Dragon
 2 Shatterskull Smashing
 2 Lovestruck Beast
@@ -48,6 +48,9 @@
 1 Zagoth Triome
 1 Bloodchief's Thirst
 1 Elspeth's Nightmare
+1 Arni Brokenbrow
+1 Turntimber Symbiosis
+3 Questing Beast
 1 Masked Vandal
 1 Vivien, Monsters' Advocate
 1 Temple of Malady
@@ -55,26 +58,23 @@
 2 Polukranos, Unchained
 3 Polukranos, Unchained
 3 The Great Henge
-1 Turntimber Symbiosis
-1 Arni Brokenbrow
-3 Questing Beast
 1 Chevill, Bane of Monsters
 1 Magmatic Channeler
 1 Extinction Event
 1 Eliminate
 1 Klothys, God of Destiny
-2 Castle Locthwain
 2 Magmatic Channeler
-2 Bloodchief's Thirst
+2 Castle Locthwain
 2 Chevill, Bane of Monsters
-2 Klothys, God of Destiny
-2 Eliminate
 2 Extinction Event
+2 Eliminate
+2 Bloodchief's Thirst
+2 Klothys, God of Destiny
 3 Extinction Event
 3 Magmatic Channeler
 3 Bloodchief's Thirst
-3 Eliminate
 3 Chevill, Bane of Monsters
+3 Eliminate
 3 Klothys, God of Destiny
 3 Binding the Old Gods
 4 Magmatic Channeler
@@ -90,8 +90,8 @@
 2 Elder Gargaroth
 2 Toski, Bearer of Secrets
 2 Foulmire Knight
-3 Indatha Triome
 3 Heartless Act
+3 Indatha Triome
 3 Toski, Bearer of Secrets
 3 Foulmire Knight
 4 Foulmire Knight

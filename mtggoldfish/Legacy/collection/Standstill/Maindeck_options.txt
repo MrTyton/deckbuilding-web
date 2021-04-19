@@ -47,11 +47,11 @@
 2 Swamp
 2 Ingenious Infiltrator
 3 Polluted Delta
+3 Fatal Push
 3 Yuriko, the Tiger's Shadow
 3 Retrofitter Foundry
 3 Ornithopter
 3 Ingenious Infiltrator
-3 Fatal Push
 3 Swamp
 3 Changeling Outcast
 4 Polluted Delta
@@ -100,30 +100,30 @@
 1 Unexpectedly Absent
 1 Silundi Vision
 1 Vendilion Clique
-1 Magmatic Sinkhole
 1 Venser, Shaper Savant
+1 Magmatic Sinkhole
 2 Pyroblast
 2 Magmatic Sinkhole
 1 Back to Basics
 2 Back to Basics
+3 Narset, Parter of Veils
 1 Rest in Peace
 1 Helm of Obedience
 2 Rest in Peace
 2 Helm of Obedience
 3 Rest in Peace
-3 Narset, Parter of Veils
 1 Crucible of Worlds
 3 Supreme Verdict
 3 Court of Cunning
 1 Mox Diamond
-1 Tranquil Thicket
-1 Snow-Covered Forest
-1 Tropical Island
-1 Bojuka Bog
 1 Field of the Dead
+1 Tranquil Thicket
+1 Tropical Island
+1 Snow-Covered Forest
 1 Crop Rotation
-1 Abrupt Decay
+1 Bojuka Bog
 1 Lonely Sandbar
+1 Abrupt Decay
 1 Life from the Loam
 1 Bayou
 1 Uro, Titan of Nature's Wrath
@@ -135,17 +135,17 @@
 2 Abrupt Decay
 2 Life from the Loam
 2 Uro, Titan of Nature's Wrath
+3 Abrupt Decay
 3 Mox Diamond
 3 Wasteland
-3 Abrupt Decay
 3 Misty Rainforest
 3 Uro, Titan of Nature's Wrath
 3 Life from the Loam
 4 Uro, Titan of Nature's Wrath
 4 Abrupt Decay
 4 Wasteland
-4 Mox Diamond
 4 Misty Rainforest
+4 Mox Diamond
 1 Path to Exile
 4 Replenish
 4 Cast Out
@@ -171,12 +171,12 @@
 2 Cavern of Souls
 3 Sea Gate Restoration
 3 Glasspool Mimic
-3 Hullbreacher
+3 True-Name Nemesis
 3 Mutavault
+3 Hullbreacher
 3 Cavern of Souls
 3 Lord of Atlantis
 3 Master of the Pearl Trident
-3 True-Name Nemesis
 3 Silvergill Adept
 3 Aether Vial
 3 Chrome Mox
@@ -193,19 +193,19 @@
 4 Master of the Pearl Trident
 1 Burst Lightning
 1 Impulse
-1 Fiery Islet
-1 Bonecrusher Giant
-1 Faerie Conclave
 1 Lightning Bolt
+1 Fiery Islet
+1 Faerie Conclave
+1 Bonecrusher Giant
+2 Bonecrusher Giant
 2 Burst Lightning
 2 Impulse
-2 Bonecrusher Giant
 2 Faerie Conclave
 2 Fiery Islet
 2 Lightning Bolt
 2 Volcanic Island
-3 Bonecrusher Giant
 3 Snapcaster Mage
+3 Bonecrusher Giant
 3 Burst Lightning
 3 Faerie Conclave
 3 Brazen Borrower
@@ -213,7 +213,7 @@
 3 Volcanic Island
 4 Bonecrusher Giant
 4 Mishra's Factory
-4 Faerie Conclave
-4 Volcanic Island
 4 Lightning Bolt
+4 Volcanic Island
+4 Faerie Conclave
 4 Snapcaster Mage

@@ -1,43 +1,43 @@
-1 Not of This World
-1 Stifle
-2 Stifle
-2 Not of This World
-4 Sylvan Scrying
-1 Mana Confluence
-1 City of Brass
-1 Gemstone Mine
-2 Mana Confluence
-2 Gemstone Mine
-3 Mana Confluence
-3 Not of This World
-4 Mana Confluence
+3 Verdant Catacombs
+4 Verdant Catacombs
+1 Bayou
+1 Dark Confidant
+2 Dark Confidant
+3 Dark Confidant
+2 Elvish Reclaimer
+2 Bayou
+3 Elvish Reclaimer
+4 Elvish Reclaimer
+1 Nurturing Peatland
+1 Abrupt Decay
+2 Abrupt Decay
+3 Gemstone Mine
+4 Gemstone Mine
 1 Karakas
 1 Mox Diamond
 2 Mox Diamond
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
+4 Once Upon a Time
 1 Snow-Covered Forest
 1 Snow-Covered Swamp
-4 Once Upon a Time
-3 Gemstone Mine
-4 Gemstone Mine
 1 Sylvan Safekeeper
 3 Bayou
 2 Nurturing Peatland
 2 Wasteland
 2 Sylvan Safekeeper
 1 Swamp
-1 Ghost Quarter
 4 Dark Confidant
+1 Ghost Quarter
 3 Abrupt Decay
-1 Sylvan Library
 1 Forest
 3 Inquisition of Kozilek
-2 Sylvan Library
-3 Pithing Needle
+1 Sylvan Library
 3 Mox Diamond
+2 Sylvan Library
 4 Abrupt Decay
+3 Pithing Needle
 1 Dark Ritual
 2 Dark Ritual
 3 Dark Ritual
@@ -58,6 +58,7 @@
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 4 Dark Ritual
+1 Opposition Agent
 1 Lion's Eye Diamond
 1 Helm of Obedience
 1 Tendrils of Agony
@@ -65,7 +66,6 @@
 1 Leyline of the Void
 1 Ancient Tomb
 1 Infernal Tutor
-1 Opposition Agent
 2 Helm of Obedience
 2 Ill-Gotten Gains
 2 Leyline of the Void
@@ -96,9 +96,6 @@
 4 Wasteland
 1 Flusterstorm
 1 Life from the Loam
-1 Wooded Foothills
-1 Badlands
-1 Taiga
 1 Lake of the Dead
 3 Helm of Obedience
 4 Inquisition of Kozilek
@@ -115,11 +112,11 @@
 3 Duress
 3 Ancient Tomb
 4 Duress
-1 Watery Grave
 1 Overgrown Tomb
+1 Watery Grave
 1 Breeding Pool
-1 Polluted Delta
 1 Brainstorm
+1 Polluted Delta
 2 Polluted Delta
 2 Overgrown Tomb
 2 Brainstorm
@@ -128,9 +125,9 @@
 4 Stifle
 4 Brainstorm
 1 Bloodchief's Thirst
-1 Liliana, the Last Hope
 1 The Tabernacle at Pendrell Vale
 1 Eliminate
+1 Liliana, the Last Hope
 1 Nether Void
 1 Mishra's Factory
 2 Castle Locthwain
@@ -140,21 +137,21 @@
 2 Mishra's Factory
 10 Swamp
 1 Stitcher's Supplier
-1 Dryad Arbor
 1 Satyr Wayfinder
 1 Cabal Therapy
+1 Dryad Arbor
 1 Khalni Garden
 1 Hogaak, Arisen Necropolis
 2 Stitcher's Supplier
 2 Satyr Wayfinder
 2 Khalni Garden
-2 Hogaak, Arisen Necropolis
 2 Cabal Therapy
+2 Hogaak, Arisen Necropolis
 3 Stitcher's Supplier
 3 Satyr Wayfinder
+3 Cabal Therapy
 3 Hogaak, Arisen Necropolis
 3 Khalni Garden
-3 Cabal Therapy
 4 Stitcher's Supplier
 4 Cabal Therapy
 4 Hogaak, Arisen Necropolis

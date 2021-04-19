@@ -112,14 +112,14 @@
 1 Sublime Epiphany
 1 Invasion of the Giants
 2 Sublime Epiphany
-2 Terror of the Peaks
 2 Invasion of the Giants
+2 Terror of the Peaks
 2 Reflections of Littjara
-3 Terror of the Peaks
 3 Negate
 3 Reflections of Littjara
 3 Essence Scatter
 3 Invasion of the Giants
+3 Terror of the Peaks
 1 Glimpse the Cosmos
 2 Glimpse the Cosmos
 1 Kiora Bests the Sea God
@@ -130,26 +130,6 @@
 1 Cancel
 2 Cancel
 3 Ravenform
-1 Frostboil Snarl
-1 Galazeth Prismari
-1 Prismari Command
-1 Reject
-2 Frostboil Snarl
-2 Galazeth Prismari
-2 Reject
-3 Frostboil Snarl
-4 Frostboil Snarl
-4 Faceless Haven
-1 Sulfurous Mire
-1 Ice Tunnel
-1 Cling to Dust
-1 Ashiok, Nightmare Muse
-1 Feed the Swarm
-2 Sulfurous Mire
-2 Ice Tunnel
-2 Feed the Swarm
-3 Ice Tunnel
-4 Lofty Denial
 1 Stormwing Entity
 1 Windrider Wizard
 1 Demon Bolt
@@ -164,6 +144,25 @@
 3 Swiftwater Cliffs
 3 Faerie Vandal
 4 Swiftwater Cliffs
+4 Faceless Haven
+1 Sulfurous Mire
+1 Ice Tunnel
+1 Cling to Dust
+1 Ashiok, Nightmare Muse
+1 Feed the Swarm
+2 Sulfurous Mire
+2 Ice Tunnel
+2 Feed the Swarm
+3 Ice Tunnel
+4 Lofty Denial
+1 Crawling Barrens
+1 Neutralize
+1 Seize the Spoils
+2 Seize the Spoils
+3 Seize the Spoils
+3 Double Vision
+4 Seize the Spoils
+4 Temple of Epiphany
 1 Shock
 1 Spikefield Hazard
 1 Shell Shield
@@ -173,11 +172,12 @@
 3 Shock
 4 Shock
 7 Island
-1 Crawling Barrens
-1 Neutralize
-1 Seize the Spoils
-2 Seize the Spoils
-3 Double Vision
-3 Seize the Spoils
-4 Seize the Spoils
-4 Temple of Epiphany
+1 Prismari Command
+1 Reject
+1 Galazeth Prismari
+1 Frostboil Snarl
+2 Reject
+2 Frostboil Snarl
+2 Galazeth Prismari
+3 Frostboil Snarl
+4 Frostboil Snarl
