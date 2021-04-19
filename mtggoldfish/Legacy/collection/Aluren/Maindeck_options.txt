@@ -1,15 +1,6 @@
-1 Parasitic Strix
-4 Verdant Catacombs
-1 Arctic Merfolk
-3 Snow-Covered Island
+1 Ukkima, Stalking Shadow
 1 Barrin, Tolarian Archmage
-3 Snow-Covered Forest
-3 Prismatic Vista
-1 Teferi, Time Raveler
-1 Swords to Plowshares
-2 Swords to Plowshares
-3 Polluted Delta
-4 Baleful Strix
+4 Abrupt Decay
 1 Swamp
 1 Island
 1 Forest
@@ -19,24 +10,31 @@
 4 Cabal Therapy
 2 Island
 2 Forest
+1 Leovold, Emissary of Trest
+4 Baleful Strix
 1 Mirri's Guile
 1 Academy Rector
 1 Veteran Explorer
 2 Veteran Explorer
+3 Snow-Covered Forest
+3 Snow-Covered Island
+3 Polluted Delta
+1 Teferi, Time Raveler
+1 Swords to Plowshares
+2 Swords to Plowshares
+3 Prismatic Vista
 2 Teferi, Time Raveler
 1 Abundant Growth
 2 Abundant Growth
 1 Noble Hierarch
 1 Windswept Heath
 2 Windswept Heath
+1 Intuition
 3 Swords to Plowshares
 2 Noble Hierarch
 3 Noble Hierarch
 4 Noble Hierarch
-1 Intuition
 1 Skyclave Apparition
-1 Taiga
-3 Cavern Harpy
 1 Force of Negation
 2 Tropical Island
 4 Uro, Titan of Nature's Wrath
@@ -44,8 +42,10 @@
 1 Birds of Paradise
 2 Birds of Paradise
 3 Birds of Paradise
+1 Taiga
 3 Teferi, Time Raveler
 1 Snow-Covered Plains
+3 Cavern Harpy
 1 Oath of Nissa
 2 Oath of Nissa
 3 Windswept Heath
@@ -58,19 +58,17 @@
 3 Green Sun's Zenith
 1 Dryad Arbor
 3 Abundant Growth
-4 Green Sun's Zenith
 4 Abundant Growth
-1 Oko, Thief of Crowns
+4 Green Sun's Zenith
 1 Sylvan Library
 1 Gilded Goose
 2 Gilded Goose
 1 Plague Engineer
+1 Oko, Thief of Crowns
 1 Stifle
 2 Stifle
 3 Stifle
 4 Polluted Delta
-1 Shardless Agent
-2 Shardless Agent
 1 Sevinne's Reclamation
 1 Fall from Favor
 1 Soulherder
@@ -80,27 +78,22 @@
 1 Niambi, Esteemed Speaker
 2 Force of Negation
 4 Stifle
-1 Valki, God of Lies
-2 Valki, God of Lies
-3 Shardless Agent
-3 Valki, God of Lies
-4 Shardless Agent
-1 Fatal Push
-1 Cauldron Familiar
-2 Underground Sea
-2 Leovold, Emissary of Trest
+1 Brazen Borrower
+1 Flooded Strand
 1 Risen Reef
 2 Bayou
 2 Risen Reef
 3 Risen Reef
 4 Risen Reef
-1 Brazen Borrower
-1 Flooded Strand
-1 Volcanic Island
+2 Leovold, Emissary of Trest
+1 Fatal Push
+1 Cauldron Familiar
+1 Shardless Agent
+2 Shardless Agent
+2 Underground Sea
 2 Arcum's Astrolabe
 3 Arcum's Astrolabe
 4 Arcum's Astrolabe
-1 Preordain
 1 Hero of Precinct One
 1 Man-o'-War
 1 Carpet of Flowers
@@ -120,8 +113,15 @@
 3 Flooded Strand
 1 Imperial Recruiter
 1 Dream Stalker
+1 Volcanic Island
 2 Imperial Recruiter
 2 Dream Stalker
 3 Imperial Recruiter
 4 Imperial Recruiter
+1 Preordain
+1 Valki, God of Lies
+2 Valki, God of Lies
+3 Shardless Agent
+3 Valki, God of Lies
+4 Shardless Agent
 3 Veteran Explorer

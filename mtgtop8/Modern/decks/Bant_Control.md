@@ -46,8 +46,8 @@
 |                    2|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)                |                     |                                                                                               |
 |                    2|[Toski, Bearer of Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503813)|                     |                                                                                               |
 |                    3|[Toski, Bearer of Secrets](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503813)|                     |                                                                                               |
-|                    3|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)                |                     |                                                                                               |
 |                    3|[On Thin Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463969)             |                     |                                                                                               |
+|                    3|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)                |                     |                                                                                               |
 |                    4|[On Thin Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463969)             |                     |                                                                                               |
 |                    4|[Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45242)                |                     |                                                                                               |
 

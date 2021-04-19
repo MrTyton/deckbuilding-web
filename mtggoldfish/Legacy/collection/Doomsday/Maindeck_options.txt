@@ -1,11 +1,17 @@
 1 Verdant Catacombs
 2 Flooded Strand
 1 Volcanic Island
-3 Scalding Tarn
-1 Lim-Dul's Vault
 1 Badlands
+1 Lim-Dul's Vault
+3 Scalding Tarn
 4 Preordain
 1 Bloodstained Mire
+4 Scalding Tarn
+3 Duress
+2 Misty Rainforest
+3 Misty Rainforest
+1 Bayou
+1 Snow-Covered Island
 1 Cabal Therapy
 1 Children of Korlis
 1 Chrome Mox
@@ -22,44 +28,43 @@
 3 Shallow Grave
 4 Entomb
 4 Shallow Grave
-3 Duress
-2 Misty Rainforest
-3 Misty Rainforest
-4 Scalding Tarn
-1 Marsh Flats
-2 Marsh Flats
-3 Marsh Flats
-4 Marsh Flats
-1 Bayou
-1 Snow-Covered Island
 1 Tropical Island
-2 Lim-Dul's Vault
-1 Snow-Covered Swamp
-4 Misty Rainforest
-1 Baleful Strix
-1 Veil of Summer
-2 Veil of Summer
 1 Arclight Phoenix
 1 Lightning Bolt
 1 Buried Alive
 2 Lightning Bolt
 2 Arclight Phoenix
 2 Buried Alive
-3 Thoughtseize
 3 Buried Alive
 3 Lightning Bolt
+3 Thoughtseize
 3 Arclight Phoenix
 4 Buried Alive
 4 Arclight Phoenix
-1 Spell Pierce
-4 Thoughtseize
+1 Marsh Flats
+2 Marsh Flats
+3 Marsh Flats
+4 Marsh Flats
+2 Lim-Dul's Vault
 3 Flooded Strand
-2 Thassa's Oracle
-2 Snow-Covered Island
+1 Snow-Covered Swamp
+4 Thoughtseize
+1 Baleful Strix
+4 Misty Rainforest
 1 Young Pyromancer
 2 Young Pyromancer
-1 Predict
+1 Veil of Summer
+2 Veil of Summer
 2 Volcanic Island
+1 Spell Pierce
+2 Thassa's Oracle
+2 Snow-Covered Island
+1 Delver of Secrets
+2 Delver of Secrets
+3 Delver of Secrets
+3 Volcanic Island
+4 Lightning Bolt
+4 Delver of Secrets
 1 Dark Confidant
 2 Cabal Therapy
 2 Dark Confidant
@@ -67,6 +72,8 @@
 3 Cabal Therapy
 1 Abrupt Decay
 2 Abrupt Decay
+1 Brazen Borrower
+2 Brazen Borrower
 4 Flooded Strand
 4 Street Wraith
 4 Personal Tutor
@@ -92,20 +99,11 @@
 4 Bloodstained Mire
 4 Faithless Looting
 4 Manamorphose
-1 Delver of Secrets
-2 Delver of Secrets
-3 Delver of Secrets
-3 Volcanic Island
-4 Lightning Bolt
-4 Delver of Secrets
+1 Predict
 2 Baleful Strix
-3 Baleful Strix
-1 Kolaghan's Command
 1 Collective Brutality
 1 Cabal Ritual
 2 Island
-1 Brazen Borrower
-2 Brazen Borrower
 2 Swamp
 3 Verdant Catacombs
 1 Sprite Dragon
@@ -118,6 +116,7 @@
 1 Flusterstorm
 2 Uro, Titan of Nature's Wrath
 2 Tropical Island
+3 Baleful Strix
 3 Uro, Titan of Nature's Wrath
 3 Tropical Island
 4 Baleful Strix

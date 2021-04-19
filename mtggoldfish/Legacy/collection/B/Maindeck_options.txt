@@ -16,9 +16,6 @@
 3 Wasteland
 3 Mishra's Factory
 4 Hymn to Tourach
-1 Liliana's Triumph
-1 Thoughtseize
-2 Thoughtseize
 2 Bitterblossom
 1 Smallpox
 2 Smallpox
@@ -33,18 +30,24 @@
 3 Inquisition of Kozilek
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
+1 Thoughtseize
+1 Liliana's Triumph
+2 Thoughtseize
+11 Swamp
+4 Liliana of the Veil
+4 Inquisition of Kozilek
 3 Thoughtseize
 4 Thoughtseize
-3 Collective Brutality
 2 Liliana's Triumph
 3 Castle Locthwain
-11 Swamp
+3 Collective Brutality
+1 Tombstalker
+1 Plague Engineer
+2 Plague Engineer
 1 Rotting Regisaur
 2 Rotting Regisaur
 3 Rotting Regisaur
 1 Nether Spirit
-4 Liliana of the Veil
-4 Inquisition of Kozilek
 1 Innocent Blood
 1 Liliana, Waker of the Dead
 1 Cling to Dust
@@ -53,10 +56,8 @@
 3 Bloodchief's Thirst
 3 Liliana's Triumph
 1 Dark Confidant
-1 Plague Engineer
 1 Murderous Rider
 2 Dark Confidant
-2 Plague Engineer
 2 Murderous Rider
 3 Dark Confidant
 3 Murderous Rider
@@ -66,8 +67,11 @@
 13 Swamp
 1 Hagra Mauling
 2 Hagra Mauling
+1 Ashiok, Dream Render
+1 Extirpate
+2 Ashiok, Dream Render
+3 Plague Engineer
 1 Eliminate
-1 Tombstalker
 2 Eliminate
 3 Eliminate
 3 Defense Grid
@@ -76,23 +80,6 @@
 2 Sinkhole
 3 Bitterblossom
 3 Sinkhole
-1 Ensnaring Bridge
-1 Liquimetal Coating
-1 Surgical Extraction
-1 Asylum Visitor
-1 Marsh Flats
-1 Mutavault
-1 Duress
-2 Ensnaring Bridge
-2 Blast Zone
-2 Surgical Extraction
-2 Mutavault
-2 Duress
-2 Marsh Flats
-2 Asylum Visitor
-3 Marsh Flats
-3 Mutavault
-4 Marsh Flats
 1 Snow-Covered Swamp
 1 Cursed Scroll
 2 Liliana, Waker of the Dead
@@ -104,10 +91,27 @@
 3 Cling to Dust
 4 Snow-Covered Swamp
 4 Cling to Dust
+4 Castle Locthwain
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
-4 Castle Locthwain
+1 Ensnaring Bridge
+1 Liquimetal Coating
+1 Duress
+1 Surgical Extraction
+1 Asylum Visitor
+1 Marsh Flats
+1 Mutavault
+2 Ensnaring Bridge
+2 Blast Zone
+2 Duress
+2 Surgical Extraction
+2 Mutavault
+2 Marsh Flats
+2 Asylum Visitor
+3 Marsh Flats
+4 Marsh Flats
+3 Mutavault

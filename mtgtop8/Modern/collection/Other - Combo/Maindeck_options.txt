@@ -1,9 +1,9 @@
 3 Serum Visions
 4 Serum Visions
+1 Lonely Sandbar
 1 Sleight of Hand
 1 Ideas Unbound
 1 Lotus Field
-1 Lonely Sandbar
 1 Echoing Truth
 1 Reach Through Mists
 1 Twiddle
@@ -66,9 +66,9 @@
 3 Blood Moon
 1 Lightning Bolt
 1 Spikefield Hazard
-1 Bala Ged Recovery
 1 Irencrag Feat
 1 Ornithopter
+1 Bala Ged Recovery
 1 Recross the Paths
 1 Manamorphose
 1 Reforge the Soul
@@ -96,8 +96,8 @@
 3 Pyretic Ritual
 3 Bala Ged Recovery
 4 Valakut Awakening
-4 Spikefield Hazard
 4 Irencrag Feat
+4 Spikefield Hazard
 4 Goblin Charbelcher
 4 Manamorphose
 4 Recross the Paths
@@ -149,13 +149,13 @@
 1 Breeding Pool
 1 Mana Confluence
 1 Harmonic Sliver
+2 Search for Glory
 2 Eladamri's Call
 2 Mana Confluence
 2 Morophon, the Boundless
 2 Sorin, Imperious Bloodlord
 2 The First Sliver
 2 Summoner's Pact
-2 Search for Glory
 2 Shimmer of Possibility
 2 Sliver Legion
 2 Cloudshredder Sliver
@@ -173,6 +173,17 @@
 4 Summoner's Pact
 3 Hagra Mauling
 4 Hagra Mauling
+1 Unburial Rites
+1 Open the Omenpaths
+1 Talisman of Indulgence
+1 Chancellor of the Tangle
+2 Talisman of Indulgence
+2 Chancellor of the Tangle
+2 Open the Omenpaths
+3 Open the Omenpaths
+3 Talisman of Indulgence
+4 Open the Omenpaths
+4 Talisman of Indulgence
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 1 Phyrexian Unlife
@@ -212,17 +223,6 @@
 4 Talisman of Dominance
 4 Thassa's Oracle
 4 Inverter of Truth
-1 Unburial Rites
-1 Open the Omenpaths
-1 Talisman of Indulgence
-1 Chancellor of the Tangle
-2 Talisman of Indulgence
-2 Chancellor of the Tangle
-2 Open the Omenpaths
-3 Open the Omenpaths
-3 Talisman of Indulgence
-4 Talisman of Indulgence
-4 Open the Omenpaths
 1 Emrakul, the Aeons Torn
 1 Wooded Foothills
 2 Emrakul, the Aeons Torn
@@ -248,13 +248,13 @@
 1 Raugrin Triome
 1 Cloudform
 2 Mountain
+2 Raugrin Triome
 2 Spell Snare
 2 Dwarven Mine
 2 Anger of the Gods
 2 Steam Vents
 2 Scalding Tarn
 2 Cloudform
-2 Raugrin Triome
 2 Force of Negation
 2 Transmogrify
 2 Arid Mesa
@@ -276,18 +276,18 @@
 4 Force of Negation
 4 Polymorph
 4 Dwarven Mine
-1 Nahiri, the Harbinger
 1 Karn, the Great Creator
 1 Lukka, Coppercoat Outcast
+1 Nahiri, the Harbinger
 1 Arbor Elf
 1 Chandra, Torch of Defiance
 1 Forest
 1 Birds of Paradise
 1 Noble Hierarch
 1 Utopia Sprawl
-2 Nahiri, the Harbinger
 2 Lukka, Coppercoat Outcast
 2 Karn, the Great Creator
+2 Nahiri, the Harbinger
 2 Chandra, Torch of Defiance
 2 Stomping Ground
 2 Arbor Elf
@@ -297,21 +297,21 @@
 2 Utopia Sprawl
 2 Birds of Paradise
 3 Oath of Nissa
-3 Chandra, Torch of Defiance
 3 Utopia Sprawl
-3 Nahiri, the Harbinger
 3 Karn, the Great Creator
 3 Lukka, Coppercoat Outcast
+3 Nahiri, the Harbinger
+3 Chandra, Torch of Defiance
 3 Birds of Paradise
 3 Stomping Ground
 3 Forest
 3 Arbor Elf
 3 Noble Hierarch
 4 Chandra, Torch of Defiance
+4 Oath of Nissa
 4 Utopia Sprawl
 4 Karn, the Great Creator
 4 Lukka, Coppercoat Outcast
-4 Oath of Nissa
 4 Arbor Elf
 4 Birds of Paradise
 4 Stomping Ground

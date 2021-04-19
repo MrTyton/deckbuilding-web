@@ -65,7 +65,7 @@
 |                    4|Thrilling Discovery                                                                             |                    2|[Deafening Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472972)    |
 |                    4|[Golgari Thug](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=292953)         |                    2|[Bloodghast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438648)           |
 |                    2|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                    3|[Bloodghast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438648)           |
-|                    3|[Silversmote Ghoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485445)    |                    1|[Driven/Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430846)       |
-|                    3|[Burning Inquiry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191096)      |                    2|[Driven/Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430846)       |
+|                    3|[Burning Inquiry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191096)      |                    1|[Driven/Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430846)       |
+|                    3|[Silversmote Ghoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485445)    |                    2|[Driven/Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430846)       |
 |                    4|[Silversmote Ghoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485445)    |                    3|[Driven/Despair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430846)       |
 

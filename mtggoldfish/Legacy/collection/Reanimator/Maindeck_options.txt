@@ -1,32 +1,24 @@
 3 Badlands
+2 Marsh Flats
 1 Verdant Catacombs
 4 Thoughtseize
-2 Marsh Flats
 1 Bayou
 2 Chrome Mox
 3 Marsh Flats
 3 Swamp
 4 Marsh Flats
 4 Polluted Delta
-1 Cabal Therapy
 1 Ashen Rider
+1 Cabal Therapy
 1 Tidespout Tyrant
 2 Cabal Therapy
 1 Inkwell Leviathan
+1 Sphinx of the Steel Wind
+1 Mountain
 1 Daze
 2 Daze
 3 Daze
-1 Sphinx of the Steel Wind
-1 Mountain
 1 Grave Titan
-1 Collective Brutality
-2 Collective Brutality
-1 Blood Crypt
-1 Godless Shrine
-1 Watery Grave
-2 Watery Grave
-2 Blood Crypt
-4 Daze
 1 Brainstorm
 1 Island
 1 Ponder
@@ -37,10 +29,12 @@
 2 Brainstorm
 3 Brainstorm
 4 Brainstorm
+1 Collective Brutality
+2 Collective Brutality
 1 Careful Study
 1 Force of Will
-2 Force of Will
 2 Careful Study
+2 Force of Will
 3 Careful Study
 3 Force of Will
 3 Underground Sea
@@ -51,20 +45,26 @@
 2 Misty Rainforest
 1 Simian Spirit Guide
 1 Archon of Valor's Reach
+1 Blood Crypt
+1 Godless Shrine
+1 Watery Grave
+2 Watery Grave
+2 Blood Crypt
+4 Daze
 3 Cabal Therapy
 4 Cabal Therapy
 1 Jin-Gitaxias, Core Augur
 2 Flooded Strand
+1 Snow-Covered Swamp
+2 Snow-Covered Swamp
 1 Volcanic Island
 4 Ponder
 1 Elesh Norn, Grand Cenobite
-1 Snow-Covered Swamp
-2 Snow-Covered Swamp
 2 Verdant Catacombs
 2 Bayou
 1 Shallow Grave
-1 Wishclaw Talisman
 1 Tropical Island
+1 Wishclaw Talisman
 1 Cabal Ritual
 1 Veil of Summer
 1 Lion's Eye Diamond
@@ -83,6 +83,11 @@
 1 Mystic Sanctuary
 3 Collective Brutality
 4 Underground Sea
+1 Duress
+2 Duress
+3 Duress
+3 Snow-Covered Swamp
+4 Duress
 1 Iona, Shield of Emeria
 3 Flooded Strand
 4 Flooded Strand

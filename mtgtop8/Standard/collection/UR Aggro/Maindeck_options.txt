@@ -34,15 +34,6 @@
 3 Embercleave
 3 Negate
 4 Opt
-1 Field of Ruin
-1 Faceless Haven
-1 Crush the Weak
-1 Disdainful Stroke
-2 Crush the Weak
-2 Disdainful Stroke
-3 Temple of Epiphany
-4 Goldspan Dragon
-4 Squash
 1 Spikefield Hazard
 1 Stormwing Entity
 1 Crash Through
@@ -69,6 +60,15 @@
 4 Riddleform
 4 Stormwing Entity
 4 Brazen Borrower
+1 Field of Ruin
+1 Faceless Haven
+1 Crush the Weak
+1 Disdainful Stroke
+2 Crush the Weak
+2 Disdainful Stroke
+3 Temple of Epiphany
+4 Goldspan Dragon
+4 Squash
 1 Irencrag Pyromancer
 1 Teferi, Master of Time
 1 Valakut Awakening
@@ -117,9 +117,9 @@
 2 Crystalline Giant
 2 Battle of Frost and Fire
 2 Scorching Dragonfire
-3 Tectonic Giant
 3 Calamity Bearer
 3 Quakebringer
+3 Tectonic Giant
 3 Crystalline Giant
 3 Scorching Dragonfire
 3 Battle of Frost and Fire
@@ -130,11 +130,11 @@
 7 Mountain
 1 Of One Mind
 1 Demon Bolt
-1 Basalt Ravager
 1 Heartfire Immolator
 1 Tazeem Roilmage
 1 Volatile Fjord
 1 Expedition Diviner
+1 Basalt Ravager
 1 Windrider Wizard
 1 Master of Winds
 2 Of One Mind
@@ -144,16 +144,16 @@
 2 Heartfire Immolator
 2 Volatile Fjord
 2 Windrider Wizard
+3 Demon Bolt
 3 Of One Mind
 3 Basalt Ravager
 3 Windrider Wizard
 3 Frost Bite
 3 Volatile Fjord
-3 Demon Bolt
 3 Heartfire Immolator
 4 Volatile Fjord
-4 Aegar, the Freezing Flame
 4 Windrider Wizard
+4 Aegar, the Freezing Flame
 4 Demon Bolt
 4 Heartfire Immolator
 7 Snow-Covered Mountain
