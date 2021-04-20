@@ -1,13 +1,13 @@
 4 Island
 1 Prismatic Vista
 2 Prismatic Vista
-3 Maddening Cacophony
 1 Eliminate
 1 Into the Story
-4 Maddening Cacophony
+3 Maddening Cacophony
 1 Snapcaster Mage
 2 Snapcaster Mage
 1 Bloodchief's Thirst
+4 Maddening Cacophony
 1 Steam Vents
 1 Scalding Tarn
 1 Blood Crypt
@@ -22,8 +22,8 @@
 1 Storm Herald
 2 Jace, Vryn's Prodigy
 2 Unearth
-2 Scalding Tarn
 2 Blood Crypt
+2 Scalding Tarn
 2 Izzet Charm
 2 Storm Herald
 2 Bloodstained Mire
@@ -35,8 +35,8 @@
 3 Unearth
 3 Jace, Vryn's Prodigy
 3 Collective Brutality
-3 Storm Herald
 3 Eldrazi Conscription
+3 Storm Herald
 4 Unearth
 4 Bloodstained Mire
 4 Jace, Vryn's Prodigy
@@ -59,13 +59,12 @@
 1 Clearwater Pathway
 1 Cling to Dust
 1 Baleful Mastery
-1 Mystic Sanctuary
-3 Snapcaster Mage
-3 Swamp
 1 Ensnaring Bridge
 1 Mikokoro, Center of the Sea
 2 Fraying Sanity
 3 Bloodchief's Thirst
+3 Swamp
+3 Snapcaster Mage
 1 Verdant Catacombs
 1 Reflecting Pool
 1 Call of the Death-Dweller
@@ -88,15 +87,15 @@
 3 Misty Rainforest
 4 Misty Rainforest
 1 Force of Negation
-1 Thought Scour
 1 Cryptic Command
+1 Thought Scour
 1 Soul-Guide Lantern
 1 Ipnu Rivulet
 1 Ratchet Bomb
 1 Mission Briefing
 1 Manic Scribe
-2 Thought Scour
 2 Force of Negation
+2 Thought Scour
 2 Soul-Guide Lantern
 2 Manic Scribe
 2 Ipnu Rivulet

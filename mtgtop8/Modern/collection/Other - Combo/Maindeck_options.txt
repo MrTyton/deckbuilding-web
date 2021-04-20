@@ -178,8 +178,8 @@
 1 Phyrexian Unlife
 1 Angel's Grace
 1 Spoils of the Vault
-1 Talisman of Progress
 1 City of Brass
+1 Talisman of Progress
 1 Shelldock Isle
 1 Darkslick Shores
 1 Seachrome Coast
@@ -247,10 +247,10 @@
 1 Anger of the Gods
 1 Raugrin Triome
 1 Cloudform
-2 Dwarven Mine
 2 Mountain
 2 Raugrin Triome
 2 Spell Snare
+2 Dwarven Mine
 2 Anger of the Gods
 2 Steam Vents
 2 Scalding Tarn
@@ -261,15 +261,15 @@
 2 Izzet Charm
 2 Lightning Bolt
 2 Polymorph
-3 Dwarven Mine
 3 Arid Mesa
-3 Steam Vents
 3 Teferi, Time Raveler
 3 Scalding Tarn
 3 Transmogrify
 3 Lightning Bolt
 3 Polymorph
+3 Dwarven Mine
 3 Force of Negation
+3 Steam Vents
 4 Teferi, Time Raveler
 4 Arid Mesa
 4 Scalding Tarn
@@ -328,6 +328,6 @@
 4 Opt
 4 Island
 5 Island
+6 Island
 7 Island
 8 Island
-6 Island

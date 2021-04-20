@@ -168,7 +168,7 @@
 |                    3|Cosima, God of the Voyage                                                                         |                     |                                                                                                  |
 |                    3|[Alrund's Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503648)      |                     |                                                                                                  |
 |                    3|[Depart the Realm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503661)       |                     |                                                                                                  |
-|                    4|Cosima, God of the Voyage                                                                         |                     |                                                                                                  |
 |                    4|[Alrund's Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503648)      |                     |                                                                                                  |
+|                    4|Cosima, God of the Voyage                                                                         |                     |                                                                                                  |
 |                    4|[Dream Trawler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476465)          |                     |                                                                                                  |
 

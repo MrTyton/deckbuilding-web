@@ -1,81 +1,83 @@
-1 Alrund's Epiphany
-4 Snow-Covered Mountain
+1 Mystical Dispute
 1 Mountain
 2 Alrund's Epiphany
+4 Snow-Covered Mountain
 5 Snow-Covered Mountain
+4 Saw It Coming
+1 Cosmos Charger
+2 Cosmos Charger
+3 Cosmos Charger
 4 Volatile Fjord
 6 Snow-Covered Mountain
 8 Snow-Covered Island
 1 Sprite Dragon
 2 Sprite Dragon
 3 Sprite Dragon
-4 Saw It Coming
-1 Cosmos Charger
-2 Cosmos Charger
-3 Cosmos Charger
-1 Frantic Inventory
-2 Frantic Inventory
-3 Frantic Inventory
-4 Sprite Dragon
-4 Frantic Inventory
 1 Jwari Disruption
 4 Frost Bite
-1 Improbable Alliance
-1 Scorching Dragonfire
-2 Improbable Alliance
-3 Improbable Alliance
-4 Improbable Alliance
-9 Snow-Covered Island
-10 Snow-Covered Island
-1 Irencrag Pyromancer
-1 Blitz of the Thunder-Raptor
-2 Blitz of the Thunder-Raptor
-3 Blitz of the Thunder-Raptor
-2 Scorching Dragonfire
-3 Scorching Dragonfire
-7 Snow-Covered Mountain
-8 Snow-Covered Mountain
-1 Opt
-2 Opt
-3 Opt
-1 Fire Prophecy
-1 Castle Vantress
 1 Island
 2 Island
 2 Mountain
 3 Island
 3 Mountain
 4 Island
-1 Ravenform
-2 Ravenform
-4 Scorching Dragonfire
-9 Snow-Covered Mountain
-10 Snow-Covered Mountain
-1 Double Vision
-2 Double Vision
+1 Frantic Inventory
+2 Frantic Inventory
+3 Frantic Inventory
+4 Sprite Dragon
+4 Frantic Inventory
+1 Castle Vantress
+1 Fire Prophecy
+1 Opt
+2 Opt
+3 Opt
 3 Alrund's Epiphany
 4 Alrund's Epiphany
-2 Fire Prophecy
-3 Fire Prophecy
 1 Temple of Epiphany
 2 Temple of Epiphany
 3 Temple of Epiphany
-1 Jace, Mirror Mage
-1 Storm's Wrath
-2 Storm's Wrath
 4 Mountain
 5 Mountain
 5 Island
 6 Island
+1 Improbable Alliance
+1 Scorching Dragonfire
+2 Improbable Alliance
+3 Improbable Alliance
+4 Improbable Alliance
+1 Double Vision
+2 Double Vision
+2 Fire Prophecy
+3 Fire Prophecy
+1 Storm's Wrath
+2 Storm's Wrath
 1 Soul Sear
 2 Soul Sear
 2 Jwari Disruption
-1 Reconnaissance Mission
-1 The Royal Scions
+9 Snow-Covered Island
+10 Snow-Covered Island
+1 Galazeth Prismari
+1 Prismari Command
+1 Frostboil Snarl
+2 Galazeth Prismari
+2 Frostboil Snarl
+3 Frostboil Snarl
+4 Frostboil Snarl
 4 Opt
+1 Irencrag Pyromancer
+1 Jace, Mirror Mage
+1 Blitz of the Thunder-Raptor
+2 Blitz of the Thunder-Raptor
+3 Blitz of the Thunder-Raptor
+1 The Royal Scions
+2 Scorching Dragonfire
+3 Scorching Dragonfire
+7 Snow-Covered Mountain
+8 Snow-Covered Mountain
 1 Lofty Denial
 2 Lofty Denial
 3 Lofty Denial
+4 Temple of Epiphany
 1 Inspired Ultimatum
 1 Temple of Enlightenment
 1 Plains
@@ -107,10 +109,10 @@
 4 Hengegate Pathway
 4 Needleverge Pathway
 1 Castle Embereth
-1 Reflections of Littjara
-1 Sublime Epiphany
-1 Invasion of the Giants
 1 Terror of the Peaks
+1 Reflections of Littjara
+1 Invasion of the Giants
+1 Sublime Epiphany
 2 Sublime Epiphany
 2 Invasion of the Giants
 2 Terror of the Peaks
@@ -120,23 +122,18 @@
 3 Essence Scatter
 3 Invasion of the Giants
 3 Terror of the Peaks
+1 Reject
+2 Reject
 1 Glimpse the Cosmos
 2 Glimpse the Cosmos
-1 Kiora Bests the Sea God
-1 Gadwick, the Wizened
-1 Crush the Weak
-2 Reconnaissance Mission
-1 Teferi, Master of Time
-1 Cancel
-2 Cancel
-3 Ravenform
 1 Stormwing Entity
 1 Windrider Wizard
 1 Demon Bolt
 1 Faerie Vandal
 1 Swiftwater Cliffs
-1 Aegar, the Freezing Flame
+1 Reconnaissance Mission
 1 Goblin Wizardry
+1 Aegar, the Freezing Flame
 2 Swiftwater Cliffs
 2 Demon Bolt
 2 Faerie Vandal
@@ -144,6 +141,13 @@
 3 Swiftwater Cliffs
 3 Faerie Vandal
 4 Swiftwater Cliffs
+1 Crawling Barrens
+1 Neutralize
+1 Seize the Spoils
+2 Seize the Spoils
+3 Seize the Spoils
+3 Double Vision
+4 Seize the Spoils
 4 Faceless Haven
 1 Sulfurous Mire
 1 Ice Tunnel
@@ -155,14 +159,25 @@
 2 Feed the Swarm
 3 Ice Tunnel
 4 Lofty Denial
-1 Crawling Barrens
-1 Neutralize
-1 Seize the Spoils
-2 Seize the Spoils
-3 Seize the Spoils
-3 Double Vision
-4 Seize the Spoils
-4 Temple of Epiphany
+1 Draconic Intervention
+1 Creative Outburst
+1 Torrent Sculptor
+1 Magma Opus
+2 Prismari Command
+2 Creative Outburst
+2 Magma Opus
+2 Torrent Sculptor
+2 Draconic Intervention
+3 Prismari Command
+3 Galazeth Prismari
+3 Torrent Sculptor
+3 Draconic Intervention
+3 Magma Opus
+4 Draconic Intervention
+4 Prismari Command
+4 Magma Opus
+4 Torrent Sculptor
+6 Mountain
 1 Shock
 1 Spikefield Hazard
 1 Shell Shield
@@ -172,12 +187,12 @@
 3 Shock
 4 Shock
 7 Island
-1 Prismari Command
-1 Reject
-1 Galazeth Prismari
-1 Frostboil Snarl
-2 Reject
-2 Frostboil Snarl
-2 Galazeth Prismari
-3 Frostboil Snarl
-4 Frostboil Snarl
+1 Teferi, Master of Time
+1 Ravenform
+1 Cancel
+2 Ravenform
+2 Cancel
+3 Ravenform
+4 Scorching Dragonfire
+9 Snow-Covered Mountain
+10 Snow-Covered Mountain
