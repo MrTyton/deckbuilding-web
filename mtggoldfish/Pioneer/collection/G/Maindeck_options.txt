@@ -1,6 +1,6 @@
-1 The Great Henge
 2 The Great Henge
 3 Primal Might
+1 Heart of Kiran
 3 Garruk's Harbinger
 3 Hashep Oasis
 3 The Great Henge
@@ -20,8 +20,8 @@
 2 Nykthos, Shrine to Nyx
 3 Nykthos, Shrine to Nyx
 1 Overgrown Tomb
-1 Llanowar Wastes
 1 Blooming Marsh
+1 Llanowar Wastes
 1 Rotting Regisaur
 1 Lovestruck Beast
 2 Overgrown Tomb
@@ -30,15 +30,13 @@
 2 Rotting Regisaur
 2 Lovestruck Beast
 3 Blooming Marsh
-3 Llanowar Wastes
 3 Overgrown Tomb
+3 Llanowar Wastes
 3 Rotting Regisaur
 3 Lovestruck Beast
 4 Blooming Marsh
 4 Rotting Regisaur
 4 Overgrown Tomb
-4 Nykthos, Shrine to Nyx
-15 Forest
 1 Egon, God of Death
 1 Darkbore Pathway
 2 Egon, God of Death
@@ -46,16 +44,20 @@
 3 Darkbore Pathway
 4 Darkbore Pathway
 4 Llanowar Wastes
+4 Nykthos, Shrine to Nyx
+15 Forest
 4 Garruk's Harbinger
+1 Ammit Eternal
+2 Ammit Eternal
 3 Scavenging Ooze
 1 Stubborn Denial
+1 Augmenter Pugilist
+1 Vivien, Arkbow Ranger
 1 Garruk, Unleashed
 1 Surrak, the Hunt Caller
 2 Garruk, Unleashed
 2 Surrak, the Hunt Caller
 1 Demonic Embrace
-1 Ammit Eternal
-2 Ammit Eternal
 3 Ammit Eternal
 1 Boon Satyr
 2 Boon Satyr
@@ -76,8 +78,8 @@
 1 Ghor-Clan Rampager
 1 Reckless Bushwhacker
 1 Game Trail
-1 Stomping Ground
 1 Rootbound Crag
+1 Stomping Ground
 2 Cinder Glade
 2 Gruul Spellbreaker
 2 Reckless Bushwhacker

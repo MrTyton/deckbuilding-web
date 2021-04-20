@@ -42,8 +42,8 @@
 1 Valki, God of Lies
 2 Ketria Triome
 4 Barkchannel Pathway
-1 Hagra Mauling
 1 Crawling Barrens
+1 Hagra Mauling
 2 The Raven's Warning
 2 Valki, God of Lies
 2 Jwari Disruption
@@ -59,7 +59,6 @@
 1 Lotus Cobra
 1 Ugin, the Spirit Dragon
 1 Sea Gate Restoration
-1 The World Tree
 1 Vorinclex, Monstrous Raider
 1 Alrund's Epiphany
 1 Riverglide Pathway
@@ -67,19 +66,20 @@
 1 Cragcrown Pathway
 1 Mountain
 1 Emergent Ultimatum
+1 The World Tree
 2 Koma, Cosmos Serpent
 2 Forest
 2 Cultivate
 2 Lotus Cobra
-2 The World Tree
 2 Mountain
 2 Migration Path
 2 Emergent Ultimatum
 2 Cragcrown Pathway
 2 Riverglide Pathway
 2 Genesis Ultimatum
-3 Cultivate
+2 The World Tree
 3 Lotus Cobra
+3 Cultivate
 3 Shark Typhoon
 3 Emergent Ultimatum
 3 Migration Path
@@ -111,10 +111,10 @@
 1 Temple of Deceit
 2 Temple of Deceit
 4 Eliminate
-1 Vanishing Verse
 1 Callous Bloodmage
-2 Vanishing Verse
+1 Vanishing Verse
 2 Callous Bloodmage
+2 Vanishing Verse
 3 Vanishing Verse
 3 Callous Bloodmage
 4 Emeria's Call

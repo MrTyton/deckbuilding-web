@@ -6,7 +6,6 @@
 1 Jeska's Will
 1 Seething Song
 1 Ruby Medallion
-1 Act on Impulse
 1 Mountain
 1 Ancient Tomb
 2 Birgi, God of Storytelling
@@ -17,8 +16,8 @@
 2 Ruby Medallion
 2 Ancient Tomb
 3 Manamorphose
-3 Seething Song
 3 Birgi, God of Storytelling
+3 Seething Song
 3 Ancient Tomb
 3 Jeska's Will
 3 Ruby Medallion
@@ -26,17 +25,25 @@
 4 Jeska's Will
 4 Ruby Medallion
 4 Ancient Tomb
-1 Carpet of Flowers
+1 Act on Impulse
 3 Mountain
 4 Seething Song
 4 Mountain
 5 Mountain
 6 Mountain
+1 Carpet of Flowers
+3 Defense Grid
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
 2 Carpet of Flowers
-3 Defense Grid
+1 Fiery Islet
+1 Ignite the Future
+1 City of Traitors
+2 Ignite the Future
+2 City of Traitors
+3 Ignite the Future
+4 Birgi, God of Storytelling
 2 Act on Impulse
 1 Faithless Looting
 3 Polluted Delta
@@ -56,13 +63,6 @@
 3 Arclight Phoenix
 3 Buried Alive
 4 Arclight Phoenix
-1 Fiery Islet
-1 Ignite the Future
-1 City of Traitors
-2 Ignite the Future
-2 City of Traitors
-3 Ignite the Future
-4 Birgi, God of Storytelling
 1 Past in Flames
 1 Unburial Rites
 1 Shallow Grave
@@ -103,6 +103,7 @@
 3 Volcanic Island
 3 Scalding Tarn
 4 Scalding Tarn
+4 Ignite the Future
 1 Cabal Ritual
 1 Bayou
 4 Chrome Mox

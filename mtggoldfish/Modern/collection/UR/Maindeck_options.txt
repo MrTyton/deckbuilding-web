@@ -1,119 +1,122 @@
-2 Mountain
-1 Monastery Swiftspear
-1 Soul-Scar Mage
-1 Manamorphose
-1 Lava Dart
-1 Light Up the Stage
-2 Monastery Swiftspear
-2 Lava Dart
-2 Soul-Scar Mage
-2 Light Up the Stage
-2 Manamorphose
-3 Monastery Swiftspear
-3 Manamorphose
-3 Lava Dart
-3 Soul-Scar Mage
-4 Monastery Swiftspear
-4 Manamorphose
-4 Soul-Scar Mage
-4 Lava Dart
-1 Crash Through
-2 Crash Through
-3 Light Up the Stage
-3 Crash Through
-1 Sunbaked Canyon
-2 Sunbaked Canyon
-3 Mountain
-3 Sunbaked Canyon
-4 Light Up the Stage
-1 Sacred Foundry
-2 Sacred Foundry
-1 Mishra's Bauble
-2 Mishra's Bauble
-3 Mishra's Bauble
-4 Mishra's Bauble
-1 Inspiring Vantage
-2 Inspiring Vantage
-1 Abbot of Keral Keep
-2 Abbot of Keral Keep
-1 Arid Mesa
-1 Wooded Foothills
-1 Mutagenic Growth
-2 Mutagenic Growth
-1 Bloodstained Mire
-3 Inspiring Vantage
-4 Inspiring Vantage
-2 Wooded Foothills
-3 Mutagenic Growth
-4 Crash Through
-1 Crackling Drake
+2 Archmage's Charm
+1 Snapcaster Mage
+2 Snapcaster Mage
+3 Snapcaster Mage
+1 Cryptic Command
+2 Cryptic Command
+1 Island
+1 Remand
+2 Remand
+3 Remand
+4 Snapcaster Mage
+3 Archmage's Charm
+1 Spell Snare
+2 Island
+3 Island
+1 Steam Vents
+1 Cascade Bluffs
+2 Cascade Bluffs
+4 Island
+1 Valakut Awakening
+3 Cryptic Command
+1 Mana Leak
+4 Archmage's Charm
+1 Riverglide Pathway
+1 Spirebluff Canal
+2 Spirebluff Canal
+2 Riverglide Pathway
+3 Cascade Bluffs
+3 Riverglide Pathway
+4 Riverglide Pathway
+4 Cascade Bluffs
+2 Valakut Awakening
+1 Reflecting Pool
+5 Island
+2 Spell Snare
+2 Mana Leak
+1 Abrade
+2 Steam Vents
+1 Kiki-Jiki, Mirror Breaker
+2 Kiki-Jiki, Mirror Breaker
+1 Flusterstorm
+1 Ral, Izzet Viceroy
+3 Spirebluff Canal
+4 Spirebluff Canal
+1 Deceiver Exarch
+2 Deceiver Exarch
+1 Flame Slash
+1 Wandering Fumarole
+1 Minamo, School at Water's Edge
 4 Remand
-1 Force of Negation
-2 Bloodstained Mire
+1 Crackling Drake
 2 Reflecting Pool
 3 Deceiver Exarch
 1 Boros Charm
 2 Boros Charm
-2 Force of Negation
 2 Scalding Tarn
-3 Scalding Tarn
-6 Island
 3 Steam Vents
-1 Jace, the Mind Sculptor
+3 Scalding Tarn
+1 Force of Negation
 1 Flooded Strand
+2 Flooded Strand
+3 Flooded Strand
+4 Flooded Strand
+1 Jace, the Mind Sculptor
+4 Sunbaked Canyon
+2 Force of Negation
+6 Island
 1 Myth Realized
 2 Myth Realized
 3 Myth Realized
 1 Through the Breach
 2 Through the Breach
-1 Sulfur Falls
-2 Flooded Strand
 4 Scalding Tarn
 1 Emrakul, the Aeons Torn
 2 Emrakul, the Aeons Torn
-2 Sulfur Falls
-3 Flooded Strand
-4 Flooded Strand
-7 Island
-4 Sunbaked Canyon
 3 Emrakul, the Aeons Torn
 3 Through the Breach
 4 Emrakul, the Aeons Torn
 4 Through the Breach
+1 Sulfur Falls
+2 Sulfur Falls
 3 Reflecting Pool
-3 Force of Negation
-1 Magmatic Sinkhole
-1 Temple of Epiphany
-4 Reflecting Pool
-2 Jace, the Mind Sculptor
-1 Blood Moon
-2 Blood Moon
-2 Temple of Epiphany
-3 Valakut Awakening
-3 Temple of Epiphany
-4 Valakut Awakening
-4 Temple of Epiphany
 4 Mutagenic Growth
 1 Clever Lumimancer
 2 Clever Lumimancer
 3 Clever Lumimancer
 4 Clever Lumimancer
-1 Shark Typhoon
-2 Shark Typhoon
-1 Misty Rainforest
-1 Brazen Borrower
-1 Fiery Islet
+3 Force of Negation
+1 Temple of Epiphany
+4 Reflecting Pool
+7 Island
+2 Temple of Epiphany
+3 Valakut Awakening
+3 Temple of Epiphany
+4 Valakut Awakening
+4 Temple of Epiphany
+1 Gut Shot
+3 Wooded Foothills
+2 Jace, the Mind Sculptor
+1 Magmatic Sinkhole
+1 Blood Moon
+2 Blood Moon
+2 Arid Mesa
 4 Mountain
 1 Lava Spike
 2 Lava Spike
-1 Gut Shot
-8 Island
-9 Island
+2 Gut Shot
+3 Abbot of Keral Keep
 3 Lava Spike
 4 Lava Spike
-3 Abbot of Keral Keep
-2 Brazen Borrower
-2 Gut Shot
+8 Island
+9 Island
+1 Shark Typhoon
+2 Shark Typhoon
+1 Fiery Islet
+1 Kiln Fiend
+2 Kiln Fiend
+1 Seal of Fire
+2 Seal of Fire
 5 Mountain
 6 Mountain
 7 Mountain
@@ -124,120 +127,132 @@
 12 Mountain
 1 Bedlam Reveler
 2 Bedlam Reveler
+1 Wild Slash
+3 Kiln Fiend
 3 Boros Charm
 1 Behold the Multiverse
 2 Behold the Multiverse
-3 Kiki-Jiki, Mirror Breaker
 4 Abbot of Keral Keep
-3 Mana Leak
-1 Seal of Fire
-2 Seal of Fire
-3 Wooded Foothills
-2 Arid Mesa
+1 Raugrin Triome
+3 Kiki-Jiki, Mirror Breaker
 3 Arid Mesa
 3 Sacred Foundry
 1 Castle Vantress
-1 Polluted Delta
 3 Sulfur Falls
-1 Bonecrusher Giant
-2 Bonecrusher Giant
+3 Bloodstained Mire
+4 Wooded Foothills
+1 Snow-Covered Mountain
 13 Mountain
 14 Mountain
 3 Bedlam Reveler
-1 Kiln Fiend
-2 Kiln Fiend
-1 Breeding Pool
-1 Ketria Triome
-1 Field of Ruin
-2 Misty Rainforest
-2 Field of Ruin
-3 Misty Rainforest
-4 Misty Rainforest
+2 Wild Slash
+1 Temur Battle Rage
+2 Temur Battle Rage
+1 Misty Rainforest
+3 Mana Leak
+1 Brazen Borrower
+1 Hallowed Fountain
+1 Teferi, Time Raveler
+1 Lightning Helix
+2 Lightning Helix
+2 Teferi, Time Raveler
 1 Stomping Ground
-1 Snow-Covered Mountain
-1 Snow-Covered Forest
-1 Firespout
-1 Search for Azcanta
-1 Wrenn and Six
-1 Lonely Sandbar
-1 Snow-Covered Island
-1 Ice-Fang Coatl
-2 Snow-Covered Island
-2 Wrenn and Six
-2 Snow-Covered Forest
-2 Ice-Fang Coatl
-2 Breeding Pool
-3 Snow-Covered Island
-3 Wrenn and Six
-3 Ice-Fang Coatl
-4 Snow-Covered Island
-4 Wrenn and Six
-4 Ice-Fang Coatl
-5 Snow-Covered Island
-2 Castle Vantress
+1 Field of Ruin
+2 Field of Ruin
+1 Celestial Colonnade
+1 Restoration Angel
+1 Plains
+1 Wall of Omens
+2 Wall of Omens
+2 Raugrin Triome
+2 Restoration Angel
+3 Wall of Omens
+3 Teferi, Time Raveler
+3 Restoration Angel
+4 Wall of Omens
+4 Restoration Angel
+4 Teferi, Time Raveler
 1 Prismari Command
+4 Bloodstained Mire
+1 Scourge of the Skyclaves
+1 Blood Crypt
+2 Scourge of the Skyclaves
+2 Blood Crypt
+3 Blood Crypt
+3 Scourge of the Skyclaves
+4 Blood Crypt
+4 Scourge of the Skyclaves
+4 Kiln Fiend
+2 Castle Vantress
 1 Serum Visions
 2 Serum Visions
-1 Vendilion Clique
-1 Mystic Sanctuary
-1 Deprive
-2 Mystic Sanctuary
 1 Burst Lightning
 2 Fiery Islet
 2 Burst Lightning
 3 Fiery Islet
+1 Vendilion Clique
 1 Ground Rift
 2 Ground Rift
-4 Wooded Foothills
 3 Gut Shot
-1 Wild Slash
-2 Wild Slash
-3 Kiln Fiend
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
+1 Tarmogoyf
+2 Stomping Ground
+2 Tarmogoyf
+3 Stomping Ground
+3 Tarmogoyf
+4 Tarmogoyf
 15 Mountain
 16 Mountain
-1 Spell Pierce
+1 Spell Queller
+1 Breeding Pool
+1 Ketria Triome
+1 Polluted Delta
+1 Bonecrusher Giant
+2 Bonecrusher Giant
 3 Bonecrusher Giant
+2 Misty Rainforest
+3 Misty Rainforest
+4 Misty Rainforest
+2 Brazen Borrower
+1 Snow-Covered Island
+2 Snow-Covered Island
+3 Snow-Covered Island
 1 Redirect
 2 Flusterstorm
-1 Raugrin Triome
 2 Prismari Command
 2 Magmatic Sinkhole
 1 Emerge Unscathed
 2 Emerge Unscathed
-1 Ancestral Vision
-1 Dispel
-2 Spell Pierce
-2 Ancestral Vision
-2 Polluted Delta
-3 Ancestral Vision
 1 Blistercoil Weird
 1 Runaway Steam-Kin
 2 Blistercoil Weird
 2 Runaway Steam-Kin
 3 Burst Lightning
-3 Bloodstained Mire
-4 Bloodstained Mire
 3 Serum Visions
 4 Deceiver Exarch
 4 Serum Visions
 4 Sacred Foundry
 1 Wild Nacatl
-1 Tarmogoyf
-2 Stomping Ground
 2 Wild Nacatl
-2 Tarmogoyf
-3 Stomping Ground
 3 Wild Nacatl
-3 Tarmogoyf
 4 Wild Nacatl
-4 Tarmogoyf
+1 Hooting Mandrills
+1 Copperline Gorge
+2 Hooting Mandrills
+2 Copperline Gorge
+3 Seal of Fire
+3 Hooting Mandrills
+3 Copperline Gorge
+4 Copperline Gorge
+4 Seal of Fire
 1 The Royal Scions
 1 Glasspool Mimic
 1 Faerie Conclave
 1 Inferno Titan
 1 Stubborn Denial
-1 Thryx, the Sudden Storm
 1 Invasion of the Giants
+1 Thryx, the Sudden Storm
 2 Faerie Conclave
 2 Inferno Titan
 2 Stubborn Denial
@@ -263,20 +278,50 @@
 3 Arclight Phoenix
 4 Arclight Phoenix
 4 Thrill of Possibility
-1 Goldspan Dragon
+1 Snow-Covered Plains
+1 Sword of Feast and Famine
+1 Seachrome Coast
+1 Geist of Saint Traft
+1 Stoneforge Mystic
+1 Path to Exile
+1 Batterskull
+2 Hallowed Fountain
+2 Spell Queller
+2 Geist of Saint Traft
+2 Path to Exile
+2 Stoneforge Mystic
+2 Seachrome Coast
+3 Path to Exile
+3 Stoneforge Mystic
+4 Path to Exile
+4 Stoneforge Mystic
+1 Spell Pierce
 1 Thing in the Ice
-1 Temur Battle Rage
+1 Goldspan Dragon
 2 Goldspan Dragon
 2 Thing in the Ice
-2 Temur Battle Rage
 3 Goldspan Dragon
 3 Thing in the Ice
 3 Blood Moon
 4 Goldspan Dragon
 4 Thing in the Ice
 4 Bonecrusher Giant
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
+1 Snow-Covered Forest
+1 Firespout
+1 Search for Azcanta
+1 Wrenn and Six
+1 Lonely Sandbar
+1 Ice-Fang Coatl
+2 Ice-Fang Coatl
+2 Wrenn and Six
+2 Snow-Covered Forest
+2 Breeding Pool
+3 Ice-Fang Coatl
+3 Wrenn and Six
+4 Ice-Fang Coatl
+4 Snow-Covered Island
+4 Wrenn and Six
+5 Snow-Covered Island
 4 Snow-Covered Mountain
 4 Bedlam Reveler
 5 Snow-Covered Mountain

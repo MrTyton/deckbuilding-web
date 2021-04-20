@@ -33,8 +33,6 @@
 4 Glorybringer
 4 Wild Slash
 1 Branchloft Pathway
-1 Temple Garden
-1 Voice of Resurgence
 1 Breeding Pool
 1 Gilded Goose
 1 Archon of Emeria
@@ -42,11 +40,13 @@
 1 Hallowed Fountain
 1 Dromoka's Command
 1 Glasspool Mimic
+1 Voice of Resurgence
 1 Selfless Spirit
 1 Skyclave Apparition
 1 Sunpetal Grove
 1 Tireless Tracker
 1 Glacial Fortress
+1 Temple Garden
 1 Mana Confluence
 1 Hengegate Pathway
 1 Botanical Sanctum
@@ -54,16 +54,16 @@
 2 Branchloft Pathway
 2 Mana Confluence
 2 Temple Garden
-2 Voice of Resurgence
-2 Sunpetal Grove
 2 Reflector Mage
 2 Spell Queller
 2 Tireless Tracker
 2 Archon of Emeria
+2 Voice of Resurgence
 2 Gilded Goose
 2 Skyclave Apparition
 2 Hallowed Fountain
 2 Glacial Fortress
+2 Sunpetal Grove
 2 Breeding Pool
 2 Botanical Sanctum
 3 Temple Garden
@@ -100,24 +100,24 @@
 4 Ripjaw Raptor
 4 Marauding Raptor
 1 Llanowar Visionary
+1 Llanowar Wastes
 1 Elvish Clancaller
 1 Blooming Marsh
 1 Harald, King of Skemfar
 1 Skemfar Avenger
 1 Realmwalker
-1 Llanowar Wastes
-1 Elvish Warmaster
 1 Shaman of the Pack
-1 Deathrite Shaman
+1 Elvish Warmaster
 1 Overgrown Tomb
 1 Darkbore Pathway
+1 Deathrite Shaman
 1 Mutavault
 1 Elvish Visionary
 1 Chord of Calling
 1 Dwynen's Elite
+2 Llanowar Wastes
 2 Elvish Clancaller
 2 Harald, King of Skemfar
-2 Llanowar Wastes
 2 Elvish Warmaster
 2 Blooming Marsh
 2 Shaman of the Pack
@@ -127,10 +127,10 @@
 2 Elvish Visionary
 2 Dwynen's Elite
 2 Darkbore Pathway
+3 Llanowar Wastes
 3 Elvish Clancaller
 3 Overgrown Tomb
 3 Harald, King of Skemfar
-3 Llanowar Wastes
 3 Elvish Warmaster
 3 Mutavault
 3 Realmwalker

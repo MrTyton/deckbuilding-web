@@ -18,9 +18,9 @@
 1 Cosmos Charger
 1 Discontinuity
 1 Embercleave
-1 Lutri, the Spellchaser
-1 Into the Roil
 1 Lithoform Engine
+1 Into the Roil
+1 Lutri, the Spellchaser
 1 Castle Embereth
 1 Castle Vantress
 2 The Royal Scions
@@ -34,32 +34,6 @@
 3 Embercleave
 3 Negate
 4 Opt
-1 Spikefield Hazard
-1 Stormwing Entity
-1 Crash Through
-1 Shock
-1 Riddleform
-1 Jwari Disruption
-2 Stormwing Entity
-2 Crash Through
-2 Shock
-2 Spikefield Hazard
-2 Jwari Disruption
-2 Riddleform
-3 Crash Through
-3 Shatterskull Smashing
-3 Shock
-3 Stormwing Entity
-3 Jwari Disruption
-3 Spikefield Hazard
-3 Riddleform
-4 Jwari Disruption
-4 Crash Through
-4 Spikefield Hazard
-4 Shock
-4 Riddleform
-4 Stormwing Entity
-4 Brazen Borrower
 1 Field of Ruin
 1 Faceless Haven
 1 Crush the Weak
@@ -70,10 +44,10 @@
 4 Goldspan Dragon
 4 Squash
 1 Irencrag Pyromancer
+1 Teferi, Master of Time
 1 Valakut Awakening
 1 Fire Prophecy
 1 Neutralize
-1 Teferi, Master of Time
 1 Faerie Vandal
 1 Go for Blood
 1 Startling Development
@@ -110,6 +84,32 @@
 4 Improbable Alliance
 4 Boon of the Wish-Giver
 4 Irencrag Pyromancer
+1 Spikefield Hazard
+1 Stormwing Entity
+1 Crash Through
+1 Shock
+1 Riddleform
+1 Jwari Disruption
+2 Stormwing Entity
+2 Crash Through
+2 Shock
+2 Spikefield Hazard
+2 Jwari Disruption
+2 Riddleform
+3 Crash Through
+3 Shatterskull Smashing
+3 Stormwing Entity
+3 Jwari Disruption
+3 Spikefield Hazard
+3 Riddleform
+3 Shock
+4 Jwari Disruption
+4 Crash Through
+4 Spikefield Hazard
+4 Riddleform
+4 Stormwing Entity
+4 Brazen Borrower
+4 Shock
 1 Quakebringer
 1 Battle of Frost and Fire
 1 Scorching Dragonfire

@@ -1,23 +1,23 @@
-2 Oko, Thief of Crowns
-3 Verdant Catacombs
 1 Sylvan Library
 3 Dark Confidant
-3 Tarmogoyf
+1 Oko, Thief of Crowns
+2 Oko, Thief of Crowns
 1 Stifle
 2 Stifle
 4 Dark Confidant
 4 Abrupt Decay
+3 Tarmogoyf
 1 Hymn to Tourach
 4 Tarmogoyf
 4 Thoughtseize
 1 Gurmag Angler
 1 Drown in the Loch
-4 Underground Sea
 1 Creeping Tar Pit
 4 Uro, Titan of Nature's Wrath
 1 Spell Pierce
 1 Leovold, Emissary of Trest
 4 Verdant Catacombs
+4 Underground Sea
 1 Bitterblossom
 3 Oko, Thief of Crowns
 3 Stifle
@@ -35,10 +35,15 @@
 1 Life from the Loam
 1 Jace, the Mind Sculptor
 1 Snow-Covered Island
-1 Brazen Borrower
 1 Hexdrinker
 2 Hexdrinker
-2 Gurmag Angler
+1 Chain of Smog
+1 Witherbloom Apprentice
+1 Preordain
+2 Chain of Smog
+2 Witherbloom Apprentice
+3 Witherbloom Apprentice
+4 Witherbloom Apprentice
 1 Elvish Reclaimer
 2 Elvish Reclaimer
 1 Scourge of the Skyclaves
@@ -60,17 +65,13 @@
 2 Snuff Out
 3 Elvish Reclaimer
 4 Elvish Reclaimer
-1 Chain of Smog
-1 Witherbloom Apprentice
-1 Preordain
+1 Flusterstorm
 2 Preordain
-2 Chain of Smog
-2 Witherbloom Apprentice
-3 Witherbloom Apprentice
-4 Witherbloom Apprentice
+1 Brazen Borrower
 4 Tropical Island
 1 True-Name Nemesis
 2 True-Name Nemesis
+2 Gurmag Angler
 1 Flooded Strand
 1 Scalding Tarn
 2 Scalding Tarn
@@ -80,12 +81,14 @@
 4 Stifle
 1 Ethereal Forager
 1 Cling to Dust
-1 Flusterstorm
 1 Bojuka Bog
 1 Hullbreacher
 2 Hullbreacher
 2 Bitterblossom
 2 Spell Pierce
+1 Snapcaster Mage
+2 Flusterstorm
+2 Snapcaster Mage
 2 Sylvan Library
 1 Sedgemoor Witch
 1 Dismember
@@ -105,4 +108,3 @@
 3 Sea Gate Stormcaller
 4 Cabal Therapy
 4 Sea Gate Stormcaller
-4 Fatal Push
