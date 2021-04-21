@@ -71,8 +71,8 @@
 |                    4|Expressive Iteration                                                                         |                    1|[Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456224)    |
 |                    3|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)          |                    1|[Threads of Disloyalty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74652)|
 |                    3|[Wild Slash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=391959)        |                    1|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796)    |
-|                    4|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)          |                    2|[Threads of Disloyalty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74652)|
-|                    1|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077) |                    2|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)     |
+|                    4|[Gut Shot](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397673)          |                    2|[Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)     |
+|                    1|[Bonecrusher Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473077) |                    2|[Threads of Disloyalty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74652)|
 |                    4|[Light Up the Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457251)|                    3|[Threads of Disloyalty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74652)|
 |                     |                                                                                             |                    4|[Threads of Disloyalty](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74652)|
 
