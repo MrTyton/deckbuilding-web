@@ -123,6 +123,6 @@
 |                    2|[Pashalik Mons](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464087)           |                     |                                                                                                     |
 |                    1|[Lightning Crafter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152893)       |                     |                                                                                                     |
 |                    4|[Goblin Ringleader](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=27664)        |                     |                                                                                                     |
-|                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)             |                     |                                                                                                     |
 |                    2|[Karakas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413782)                 |                     |                                                                                                     |
+|                    1|[Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)             |                     |                                                                                                     |
 

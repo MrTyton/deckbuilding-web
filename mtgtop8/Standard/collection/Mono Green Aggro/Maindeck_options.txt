@@ -79,19 +79,19 @@
 3 In Search of Greatness
 4 Stonecoil Serpent
 1 Elvish Warmaster
-1 Llanowar Visionary
 1 Jaspera Sentinel
-1 Tyvar Kell
 1 Wildborn Preserver
+1 Tyvar Kell
 1 Turntimber Symbiosis
-1 Shadowspear
+1 Llanowar Visionary
 1 Cragplate Baloth
 1 Canopy Tactician
 1 Masked Vandal
+1 Shadowspear
 1 Skyway Sniper
-2 Llanowar Visionary
 2 Jaspera Sentinel
 2 Fierce Empath
+2 Llanowar Visionary
 2 Wildborn Preserver
 2 Masked Vandal
 2 Tyvar Kell
@@ -104,9 +104,9 @@
 4 Jaspera Sentinel
 4 Elvish Warmaster
 4 Wildborn Preserver
+1 Forest
 1 Thrashing Brontodon
 1 Crawling Barrens
-1 Forest
 2 Crawling Barrens
 2 Witch's Oven
 2 Forest
@@ -115,10 +115,10 @@
 3 Feasting Troll King
 3 Thrashing Brontodon
 3 Forest
+4 Feasting Troll King
 4 The Great Henge
 4 Thrashing Brontodon
 4 Crawling Barrens
-4 Forest
 5 Forest
 6 Forest
 7 Forest
@@ -130,4 +130,4 @@
 13 Forest
 14 Forest
 15 Forest
-4 Feasting Troll King
+4 Forest

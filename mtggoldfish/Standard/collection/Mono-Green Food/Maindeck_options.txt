@@ -1,9 +1,3 @@
-1 Crawling Barrens
-1 Forest
-2 Forest
-3 Forest
-4 Forest
-5 Forest
 6 Forest
 7 Forest
 8 Forest
@@ -13,13 +7,21 @@
 12 Forest
 13 Forest
 14 Forest
-2 Crawling Barrens
+1 Kogla, the Titan Ape
 15 Forest
+1 Primal Might
+4 Feasting Troll King
 3 Old-Growth Troll
-4 The Great Henge
+1 Faceless Haven
+2 Faceless Haven
+1 Crawling Barrens
+2 Crawling Barrens
 2 Kogla, the Titan Ape
+1 Elder Gargaroth
+16 Forest
+17 Forest
+4 The Great Henge
 3 Faceless Haven
-3 Crawling Barrens
 1 Questing Beast
 2 Questing Beast
 2 Primal Might
@@ -30,52 +32,66 @@
 2 Gemrazer
 1 Garruk's Harbinger
 2 Garruk's Harbinger
+3 Primal Might
 2 Vivien, Monsters' Advocate
 4 Old-Growth Troll
-3 Primal Might
 3 Garruk's Harbinger
 1 Toski, Bearer of Secrets
 2 Toski, Bearer of Secrets
 17 Snow-Covered Forest
-16 Forest
-17 Forest
-1 Elder Gargaroth
-1 Thrashing Brontodon
-1 Bonders' Enclave
-18 Snow-Covered Forest
-1 Scavenging Ooze
+3 Crawling Barrens
 1 Ilysian Caryatid
-2 Bonders' Enclave
+1 Thrashing Brontodon
 1 Ram Through
 2 Ram Through
 18 Forest
+1 Bonders' Enclave
+18 Snow-Covered Forest
+1 Scavenging Ooze
+2 Bonders' Enclave
 1 Yorvo, Lord of Garenbrig
 2 Yorvo, Lord of Garenbrig
 3 Yorvo, Lord of Garenbrig
+2 Elder Gargaroth
+2 Ilysian Caryatid
+3 Ilysian Caryatid
+19 Forest
 1 Garruk's Uprising
 1 Garruk, Unleashed
-4 Trail of Crumbs
-2 Thrashing Brontodon
-1 Turntimber Symbiosis
-2 Elder Gargaroth
-1 Cragplate Baloth
-2 Ilysian Caryatid
-2 Cragplate Baloth
-3 Ilysian Caryatid
-2 Garruk, Unleashed
-3 Ram Through
-19 Forest
 20 Forest
+3 Ram Through
+3 Elder Gargaroth
+4 Ilysian Caryatid
+2 Thrashing Brontodon
+4 Trail of Crumbs
 1 Ugin, the Spirit Dragon
+1 Cragplate Baloth
+2 Cragplate Baloth
+2 Garruk, Unleashed
+1 Turntimber Symbiosis
 3 Vorinclex, Monstrous Raider
+1 Cultivate
+2 Ugin, the Spirit Dragon
 1 Nessian Hornbeetle
 2 Nessian Hornbeetle
 3 Garruk, Unleashed
-3 Elder Gargaroth
 3 Nessian Hornbeetle
-4 Ilysian Caryatid
 1 Wolfwillow Haven
 2 Wolfwillow Haven
+1 Beanstalk Giant
+1 Llanowar Visionary
+1 Fierce Empath
+2 Llanowar Visionary
+2 Fierce Empath
+2 Cultivate
+2 Beanstalk Giant
+3 Ugin, the Spirit Dragon
+3 Fierce Empath
+3 Cultivate
+3 Llanowar Visionary
+3 Beanstalk Giant
+4 Cultivate
+4 Fierce Empath
 2 Scavenging Ooze
 2 In Search of Greatness
 4 Yorvo, Lord of Garenbrig
@@ -83,18 +99,17 @@
 2 Snakeskin Veil
 3 Snakeskin Veil
 1 Nylea, Keen-Eyed
+1 Blizzard Brawl
 1 Tyrite Sanctum
 1 Destiny Spinner
-1 Blizzard Brawl
 1 Nyx Lotus
 1 Renata, Called to the Hunt
 2 Blizzard Brawl
-2 Ugin, the Spirit Dragon
-2 Garruk's Uprising
 2 Destiny Spinner
-2 Nylea, Keen-Eyed
+2 Garruk's Uprising
 2 Renata, Called to the Hunt
 2 Tyrite Sanctum
+2 Nylea, Keen-Eyed
 2 Nyx Lotus
 3 Blizzard Brawl
 3 Toski, Bearer of Secrets
@@ -112,7 +127,6 @@
 2 Turntimber Symbiosis
 1 Shadowspear
 1 Nylea's Intervention
-1 Cultivate
 1 Nyxbloom Ancient
 1 Auspicious Starrix
 1 Ashaya, Soul of the Wild
@@ -120,9 +134,16 @@
 2 Nylea's Intervention
 2 Auspicious Starrix
 3 Auspicious Starrix
-3 Witch's Oven
 3 Wolfwillow Haven
 4 Primal Might
+1 Heroic Intervention
+2 Heroic Intervention
+4 Ugin, the Spirit Dragon
+1 Bala Ged Recovery
+2 Bala Ged Recovery
+3 Kogla, the Titan Ape
+4 Beanstalk Giant
+4 Llanowar Visionary
 3 Thrashing Brontodon
 4 Crawling Barrens
 4 Thrashing Brontodon

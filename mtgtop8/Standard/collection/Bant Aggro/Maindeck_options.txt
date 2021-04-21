@@ -1,5 +1,4 @@
 1 Beanstalk Giant
-1 Cragplate Baloth
 1 Behold the Multiverse
 1 Snow-Covered Island
 1 Arctic Treeline
@@ -7,6 +6,7 @@
 1 Fierce Empath
 1 Koma, Cosmos Serpent
 1 Dream Trawler
+1 Cragplate Baloth
 1 Realm-Cloaked Giant
 1 Snow-Covered Forest
 1 Glacial Floodplain
@@ -19,12 +19,12 @@
 2 Ilysian Caryatid
 2 Behold the Multiverse
 2 Fierce Empath
+2 Beanstalk Giant
 2 Glacial Floodplain
 2 Snow-Covered Plains
 2 Snow-Covered Island
 2 Vastwood Surge
 2 Sarulf's Packmate
-2 Beanstalk Giant
 2 Rimewood Falls
 2 Arctic Treeline
 2 Sculptor of Winter
@@ -32,9 +32,9 @@
 2 Shepherd of the Flock
 3 Llanowar Visionary
 3 Ilysian Caryatid
-3 Snow-Covered Plains
-3 Fierce Empath
 3 Beanstalk Giant
+3 Fierce Empath
+3 Snow-Covered Plains
 3 Shepherd of the Flock
 3 Rimewood Falls
 3 Sculptor of Winter
@@ -42,10 +42,10 @@
 3 Vastwood Surge
 3 Sarulf's Packmate
 3 Arctic Treeline
-4 Llanowar Visionary
 4 Ilysian Caryatid
-4 Sculptor of Winter
+4 Llanowar Visionary
 4 Fierce Empath
+4 Sculptor of Winter
 4 Snow-Covered Forest
 4 Arctic Treeline
 5 Snow-Covered Forest
@@ -99,6 +99,7 @@
 1 Reverent Hoplite
 1 Linvala, Shield of Sea Gate
 1 Raugrin Triome
+2 Omen of the Sun
 2 Daxos, Blessed by the Sun
 2 Sejiri Shelter
 2 Mystic Reflection
@@ -109,11 +110,10 @@
 2 Reverent Hoplite
 2 Speaker of the Heavens
 2 Emeria's Call
-2 Omen of the Sun
 2 Linvala, Shield of Sea Gate
 2 Youthful Valkyrie
-3 Mystic Reflection
 3 Omen of the Sun
+3 Mystic Reflection
 3 Righteous Valkyrie
 3 Youthful Valkyrie
 3 Speaker of the Heavens

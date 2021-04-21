@@ -4,9 +4,9 @@
 2 Gruul Spellbreaker
 2 Klothys, God of Destiny
 2 Cinder Glade
-3 Scavenging Ooze
 3 Game Trail
 3 Reckless Bushwhacker
+3 Scavenging Ooze
 3 Gruul Spellbreaker
 4 Reckless Bushwhacker
 7 Forest
@@ -24,10 +24,10 @@
 2 Wild Slash
 3 Gallia of the Endless Dance
 3 Wild Slash
-3 Domri, Anarch of Bolas
 3 Garruk's Harbinger
 3 Glorybringer
 3 Voltaic Brawler
+3 Domri, Anarch of Bolas
 4 Garruk's Harbinger
 4 Voltaic Brawler
 4 Glorybringer
@@ -43,10 +43,10 @@
 1 Voice of Resurgence
 1 Selfless Spirit
 1 Skyclave Apparition
-1 Sunpetal Grove
 1 Tireless Tracker
 1 Glacial Fortress
 1 Temple Garden
+1 Sunpetal Grove
 1 Mana Confluence
 1 Hengegate Pathway
 1 Botanical Sanctum
@@ -99,51 +99,6 @@
 4 Commune with Dinosaurs
 4 Ripjaw Raptor
 4 Marauding Raptor
-1 Llanowar Visionary
-1 Llanowar Wastes
-1 Elvish Clancaller
-1 Blooming Marsh
-1 Harald, King of Skemfar
-1 Skemfar Avenger
-1 Realmwalker
-1 Shaman of the Pack
-1 Elvish Warmaster
-1 Overgrown Tomb
-1 Darkbore Pathway
-1 Deathrite Shaman
-1 Mutavault
-1 Elvish Visionary
-1 Chord of Calling
-1 Dwynen's Elite
-2 Llanowar Wastes
-2 Elvish Clancaller
-2 Harald, King of Skemfar
-2 Elvish Warmaster
-2 Blooming Marsh
-2 Shaman of the Pack
-2 Realmwalker
-2 Overgrown Tomb
-2 Mutavault
-2 Elvish Visionary
-2 Dwynen's Elite
-2 Darkbore Pathway
-3 Llanowar Wastes
-3 Elvish Clancaller
-3 Overgrown Tomb
-3 Harald, King of Skemfar
-3 Elvish Warmaster
-3 Mutavault
-3 Realmwalker
-3 Darkbore Pathway
-3 Shaman of the Pack
-3 Blooming Marsh
-3 Elvish Visionary
-4 Elvish Clancaller
-4 Elvish Warmaster
-4 Overgrown Tomb
-4 Darkbore Pathway
-4 Shaman of the Pack
-4 Blooming Marsh
 1 Legion Warboss
 1 Goblin Rabblemaster
 2 Legion Warboss
@@ -160,30 +115,30 @@
 1 Worldspine Wurm
 1 Fortified Village
 1 Void Winnower
-1 Paradise Druid
 1 Temple of Plenty
 1 Zetalpa, Primal Dawn
 1 Trostani Discordant
 1 See the Unwritten
 1 Plains
 1 Dubious Challenge
+1 Paradise Druid
 2 Charming Prince
 2 Worldspine Wurm
 2 Fortified Village
 2 Plains
+2 Paradise Druid
 2 Temple of Plenty
 2 Zetalpa, Primal Dawn
-2 Paradise Druid
+2 Trostani Discordant
 2 Void Winnower
 2 See the Unwritten
-2 Trostani Discordant
 2 Dubious Challenge
 3 Temple of Plenty
 3 Charming Prince
 3 Worldspine Wurm
 3 Fortified Village
-3 Trostani Discordant
 3 See the Unwritten
+3 Trostani Discordant
 3 Dubious Challenge
 3 Plains
 3 Paradise Druid
@@ -196,6 +151,6 @@
 4 See the Unwritten
 4 Dubious Challenge
 4 Paradise Druid
-5 Plains
 9 Forest
 10 Forest
+5 Plains

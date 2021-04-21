@@ -97,9 +97,9 @@
 10 Forest
 1 Evolving Wilds
 1 Extinction Event
+1 Ranger's Guile
 1 Wildborn Preserver
 1 Feed the Swarm
-1 Ranger's Guile
 1 Withercrown
 1 Fully Grown
 2 Feed the Swarm
@@ -111,8 +111,8 @@
 1 Sarulf, Realm Eater
 1 Wilt
 2 Wilt
-4 Toski, Bearer of Secrets
 1 Tangled Florahedron
+1 Primal Might
 1 Stonecoil Serpent
 1 Bonders' Enclave
 1 Ashaya, Soul of the Wild
@@ -120,12 +120,11 @@
 1 Snakeskin Veil
 1 Castle Garenbrig
 1 Swarm Shambler
-1 Primal Might
 1 Skyclave Shade
 1 Elspeth's Nightmare
 2 Castle Garenbrig
-2 Primal Might
 2 Stonecoil Serpent
+2 Primal Might
 2 Tangled Florahedron
 2 Snakeskin Veil
 2 Skyclave Shade
@@ -134,14 +133,15 @@
 3 Castle Garenbrig
 4 Stonecoil Serpent
 4 Gemrazer
+4 Toski, Bearer of Secrets
 1 Gilded Goose
 1 Trail of Crumbs
 1 Wicked Wolf
 1 Turntimber Symbiosis
 2 Gilded Goose
 2 Trail of Crumbs
-2 Wicked Wolf
 2 Chevill, Bane of Monsters
+2 Wicked Wolf
 2 Turntimber Symbiosis
 2 Massacre Wurm
 3 Gilded Goose
@@ -166,6 +166,20 @@
 2 Thornmantle Striker
 2 Skemfar Shadowsage
 4 Boreal Outrider
+1 Blightstep Pathway
+1 Valki, God of Lies
+1 Zagoth Triome
+1 Cragcrown Pathway
+2 Blightstep Pathway
+2 Valki, God of Lies
+2 Cragcrown Pathway
+2 Vivien, Monsters' Advocate
+3 Blightstep Pathway
+3 Valki, God of Lies
+3 Cragcrown Pathway
+4 Heartless Act
+4 Blightstep Pathway
+4 Cragcrown Pathway
 1 Mire Triton
 1 Egon, God of Death
 1 Call of the Death-Dweller
@@ -186,20 +200,6 @@
 4 The Binding of the Titans
 4 Moss Viper
 4 Hooded Blightfang
-1 Blightstep Pathway
-1 Zagoth Triome
-1 Cragcrown Pathway
-1 Valki, God of Lies
-2 Blightstep Pathway
-2 Cragcrown Pathway
-2 Vivien, Monsters' Advocate
-2 Valki, God of Lies
-3 Blightstep Pathway
-3 Valki, God of Lies
-3 Cragcrown Pathway
-4 Heartless Act
-4 Cragcrown Pathway
-4 Blightstep Pathway
 1 Realmwalker
 1 Wolfwillow Haven
 1 Masked Vandal

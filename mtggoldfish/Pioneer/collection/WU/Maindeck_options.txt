@@ -1,23 +1,27 @@
 3 Fabled Passage
+4 Opt
 2 Castle Vantress
 1 Sphinx's Revelation
 4 Fabled Passage
-4 Opt
+2 Hengegate Pathway
 1 Commit/Memory
 1 Doomskar
 3 Behold the Multiverse
-1 Search for Azcanta
-2 Hengegate Pathway
-1 Grafdigger's Cage
 1 Saw It Coming
-2 Cast Out
 2 Saw It Coming
-3 Cast Out
 3 Castle Ardenvale
-3 Irrigated Farmland
 3 Saw It Coming
+1 Search for Azcanta
 4 Supreme Verdict
 3 Hengegate Pathway
+1 Grafdigger's Cage
+2 Cast Out
+3 Cast Out
+3 Irrigated Farmland
+1 Jwari Disruption
+2 Detention Sphere
+2 Dovin's Veto
+4 Hengegate Pathway
 3 Dig Through Time
 1 Geier Reach Sanitarium
 1 Mystical Dispute
@@ -30,17 +34,6 @@
 2 Void Shatter
 2 Quicken
 2 Torrential Gearhulk
-1 Jwari Disruption
-1 Elspeth, Sun's Nemesis
-1 Seal Away
-1 Approach of the Second Sun
-1 Ondu Inversion
-2 Elspeth, Sun's Nemesis
-2 Detention Sphere
-2 Dovin's Veto
-2 Approach of the Second Sun
-3 Approach of the Second Sun
-4 Behold the Multiverse
 1 Silundi Vision
 1 Settle the Wreckage
 1 Soul-Guide Lantern
@@ -51,7 +44,25 @@
 2 Sinister Sabotage
 2 Soul-Guide Lantern
 3 Sinister Sabotage
-4 Hengegate Pathway
+1 Elspeth, Sun's Nemesis
+1 Seal Away
+1 Approach of the Second Sun
+1 Ondu Inversion
+2 Elspeth, Sun's Nemesis
+2 Approach of the Second Sun
+3 Approach of the Second Sun
+4 Behold the Multiverse
+1 Skyclave Cleric
+2 Jwari Disruption
+2 Skyclave Cleric
+3 Field of Ruin
+3 Jwari Disruption
+3 Detention Sphere
+3 Dovin's Veto
+3 Skyclave Cleric
+4 Saw It Coming
+4 Jwari Disruption
+4 Skyclave Cleric
 1 Eliminate
 1 Godless Shrine
 1 Emeria's Call
@@ -60,10 +71,10 @@
 1 Shadows' Verdict
 1 Isolated Chapel
 1 Thoughtseize
-1 Fatal Push
 1 Swamp
 1 Watery Grave
 1 Drowned Catacomb
+1 Fatal Push
 2 Godless Shrine
 2 Fatal Push
 2 Thoughtseize

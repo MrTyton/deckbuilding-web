@@ -1,13 +1,11 @@
-1 Mountain
-1 Bonecrusher Giant
 1 Fiery Confluence
 1 Goblin Rabblemaster
-2 Punishing Fire
-2 Grove of the Burnwillows
 2 Chrome Mox
 2 Blood Sun
+2 Punishing Fire
 2 Goblin Rabblemaster
 2 Fiery Confluence
+2 Grove of the Burnwillows
 2 Mountain
 3 Punishing Fire
 3 Grove of the Burnwillows
@@ -19,20 +17,20 @@
 4 Grove of the Burnwillows
 4 Goblin Rabblemaster
 4 Mountain
-1 Dismember
-2 Dismember
+2 Endbringer
 1 Blast Zone
 1 Shatterskull Smashing
 2 Shatterskull Smashing
 5 Mountain
 6 Mountain
+4 City of Traitors
+4 Wasteland
 1 Wastes
-1 Mishra's Factory
-2 Mishra's Factory
 1 Elvish Spirit Guide
 2 Elvish Spirit Guide
-4 City of Traitors
 2 Karakas
+1 Dismember
+2 Dismember
 1 Ulamog, the Ceaseless Hunger
 1 Caves of Koilos
 1 Lotus Petal
@@ -52,6 +50,8 @@
 1 Hazoret the Fervent
 1 Eldrazi Obligator
 2 Bonecrusher Giant
+1 Mishra's Factory
+2 Mishra's Factory
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
@@ -90,11 +90,10 @@
 4 Thran Dynamo
 4 Golos, Tireless Pilgrim
 1 Chandra, Awakened Inferno
-1 Umezawa's Jitte
+1 Thorn of Amethyst
 1 Warping Wail
 1 Trinisphere
 1 Mutavault
-1 Thorn of Amethyst
 2 Trinisphere
 2 Warping Wail
 1 Snow-Covered Mountain
