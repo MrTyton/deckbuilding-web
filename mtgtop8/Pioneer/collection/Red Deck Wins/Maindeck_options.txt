@@ -4,24 +4,26 @@
 10 Mountain
 11 Mountain
 12 Mountain
-1 Bonecrusher Giant
 1 Ramunap Ruins
-2 Bonecrusher Giant
 2 Ramunap Ruins
 3 Ramunap Ruins
-4 Ramunap Ruins
-1 Wayward Guide-Beast
 13 Mountain
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+4 Ramunap Ruins
+14 Mountain
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
 3 Bonecrusher Giant
 4 Bonecrusher Giant
-14 Mountain
+1 Wayward Guide-Beast
 1 Spikefield Hazard
 2 Spikefield Hazard
 3 Spikefield Hazard
 4 Spikefield Hazard
+2 Shock
+15 Mountain
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -29,17 +31,30 @@
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
-2 Shock
 1 Shatterskull Smashing
 2 Shatterskull Smashing
 4 Bomat Courier
-1 Castle Embereth
-15 Mountain
-1 Needleverge Pathway
 3 Shock
+1 Castle Embereth
+16 Mountain
+1 Needleverge Pathway
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
 3 Chandra, Torch of Defiance
+1 Hazoret the Fervent
+1 Magmatic Channeler
+1 Crash Through
+1 Dreadhorde Arcanist
+1 Warlord's Fury
+2 Crash Through
+2 Magmatic Channeler
+2 Warlord's Fury
+2 Dreadhorde Arcanist
+3 Crash Through
+3 Warlord's Fury
+3 Dreadhorde Arcanist
+4 Shock
+4 Crash Through
 1 Skewer the Critics
 1 Mana Confluence
 1 Atarka's Command
@@ -66,38 +81,38 @@
 4 Collective Defiance
 1 Fanatical Firebrand
 1 Burning-Tree Emissary
-1 Reckless Bushwhacker
 1 Legion Warboss
 1 Goblin Arsonist
 1 Goblin Instigator
 1 Legion Loyalist
+1 Reckless Bushwhacker
 1 Foundry Street Denizen
-1 Goblin Chainwhirler
 1 Goblin Ringleader
 1 Krenko, Tin Street Kingpin
 1 Skirk Prospector
 1 Goblin Piledriver
 1 Goblin Trashmaster
+1 Goblin Chainwhirler
 2 Fanatical Firebrand
 2 Burning-Tree Emissary
-2 Reckless Bushwhacker
 2 Goblin Arsonist
 2 Legion Loyalist
 2 Goblin Instigator
+2 Reckless Bushwhacker
 2 Foundry Street Denizen
-2 Goblin Chainwhirler
 2 Goblin Ringleader
 2 Castle Embereth
 2 Goblin Trashmaster
 2 Goblin Piledriver
 2 Skirk Prospector
+2 Goblin Chainwhirler
 3 Goblin Piledriver
 3 Skirk Prospector
 3 Fanatical Firebrand
 3 Burning-Tree Emissary
-3 Reckless Bushwhacker
 3 Castle Embereth
 3 Legion Loyalist
+3 Reckless Bushwhacker
 3 Goblin Instigator
 3 Foundry Street Denizen
 4 Burning-Tree Emissary
@@ -105,4 +120,3 @@
 4 Reckless Bushwhacker
 4 Foundry Street Denizen
 4 Castle Embereth
-16 Mountain
