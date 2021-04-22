@@ -1,54 +1,28 @@
-2 Plains
-3 Snapcaster Mage
-3 Opt
-4 Opt
 1 Prairie Stream
 1 Polluted Delta
+2 Hallowed Fountain
 2 Polluted Delta
 4 Island
-1 Spell Pierce
-2 Spell Pierce
 1 Snow-Covered Plains
 1 Snow-Covered Island
 2 Snow-Covered Plains
 2 Snow-Covered Island
 3 Snow-Covered Island
-1 Dreadhorde Arcanist
-1 Seachrome Coast
-1 Serum Visions
-1 Steam Vents
-1 Maul of the Skyclaves
-1 Mountain
-1 Scalding Tarn
-1 Lightning Bolt
-1 Inspiring Vantage
-1 Raugrin Triome
-2 Serum Visions
-2 Dreadhorde Arcanist
-2 Lightning Bolt
-2 Steam Vents
-2 Scalding Tarn
-2 Seachrome Coast
-3 Serum Visions
-3 Dreadhorde Arcanist
-3 Lightning Bolt
-3 Scalding Tarn
-4 Serum Visions
-4 Lightning Bolt
-4 Scalding Tarn
 1 Staggering Insight
 1 Curious Obsession
-1 Brazen Borrower
 1 Vapor Snag
+1 Spell Pierce
 1 Geist of Saint Traft
 1 Unsettled Mariner
 1 Glacial Fortress
+1 Brazen Borrower
 1 Prismatic Vista
 1 Remand
 1 Ghost Quarter
 1 Judge's Familiar
 1 Steel of the Godhead
 2 Hengegate Pathway
+2 Spell Pierce
 2 Curious Obsession
 2 Vapor Snag
 2 Geist of Saint Traft
@@ -61,12 +35,15 @@
 3 Remand
 4 Remand
 1 Cryptic Command
-1 Castle Vantress
 1 Spell Snare
 1 Blast Zone
+1 Castle Vantress
 2 Cryptic Command
 2 Jace, the Mind Sculptor
 3 Cryptic Command
+3 Snapcaster Mage
 3 Polluted Delta
+3 Opt
 4 Spell Queller
+4 Opt
 5 Island

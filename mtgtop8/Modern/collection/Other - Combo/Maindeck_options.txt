@@ -3,9 +3,9 @@
 1 Lotus Field
 1 Sleight of Hand
 1 Ideas Unbound
-1 Lonely Sandbar
 1 Echoing Truth
 1 Reach Through Mists
+1 Lonely Sandbar
 1 Twiddle
 1 Psychic Puppetry
 1 Grapeshot
@@ -78,8 +78,8 @@
 1 Infernal Plunge
 1 Talisman of Impulse
 2 Spikefield Hazard
-2 Bala Ged Recovery
 2 Irencrag Feat
+2 Bala Ged Recovery
 2 Pyretic Ritual
 2 Manamorphose
 2 Recross the Paths
@@ -97,12 +97,12 @@
 3 Bala Ged Recovery
 4 Valakut Awakening
 4 Spikefield Hazard
+4 Irencrag Feat
 4 Manamorphose
 4 Recross the Paths
 4 Talisman of Impulse
 4 Goblin Charbelcher
 4 Pyretic Ritual
-4 Irencrag Feat
 4 Desperate Ritual
 1 Thoughtseize
 2 Thoughtseize
@@ -133,7 +133,6 @@
 3 Remand
 4 Remand
 1 Eladamri's Call
-1 Search for Glory
 1 Cavern of Souls
 1 Sliver Legion
 1 The First Sliver
@@ -144,18 +143,19 @@
 1 Gemstone Caverns
 1 Snow-Covered Forest
 1 Cloudshredder Sliver
+1 Search for Glory
 1 Summoner's Pact
 1 Dregscape Sliver
 1 Breeding Pool
 1 Mana Confluence
 1 Harmonic Sliver
 2 Eladamri's Call
-2 Search for Glory
 2 Mana Confluence
 2 Morophon, the Boundless
 2 Sorin, Imperious Bloodlord
 2 The First Sliver
 2 Summoner's Pact
+2 Search for Glory
 2 Shimmer of Possibility
 2 Sliver Legion
 2 Cloudshredder Sliver
@@ -178,8 +178,8 @@
 1 Phyrexian Unlife
 1 Angel's Grace
 1 Spoils of the Vault
-1 Talisman of Progress
 1 City of Brass
+1 Talisman of Progress
 1 Shelldock Isle
 1 Darkslick Shores
 1 Seachrome Coast
@@ -187,13 +187,13 @@
 1 Inverter of Truth
 1 Jace, Wielder of Mysteries
 2 Angel's Grace
-2 City of Brass
 2 Phyrexian Unlife
 2 Spoils of the Vault
 2 Darkslick Shores
 2 Shelldock Isle
-2 Seachrome Coast
+2 City of Brass
 2 Thassa's Oracle
+2 Seachrome Coast
 2 Inverter of Truth
 2 Jace, Wielder of Mysteries
 3 Angel's Grace
@@ -276,18 +276,18 @@
 4 Force of Negation
 4 Polymorph
 4 Dwarven Mine
-1 Lukka, Coppercoat Outcast
 1 Karn, the Great Creator
-1 Nahiri, the Harbinger
+1 Lukka, Coppercoat Outcast
 1 Arbor Elf
 1 Chandra, Torch of Defiance
 1 Forest
+1 Nahiri, the Harbinger
 1 Birds of Paradise
 1 Noble Hierarch
 1 Utopia Sprawl
-2 Lukka, Coppercoat Outcast
-2 Karn, the Great Creator
 2 Nahiri, the Harbinger
+2 Karn, the Great Creator
+2 Lukka, Coppercoat Outcast
 2 Chandra, Torch of Defiance
 2 Stomping Ground
 2 Arbor Elf
@@ -296,23 +296,23 @@
 2 Temple Garden
 2 Utopia Sprawl
 2 Birds of Paradise
-3 Lukka, Coppercoat Outcast
 3 Oath of Nissa
 3 Utopia Sprawl
 3 Karn, the Great Creator
 3 Nahiri, the Harbinger
+3 Lukka, Coppercoat Outcast
 3 Chandra, Torch of Defiance
 3 Birds of Paradise
 3 Stomping Ground
 3 Forest
 3 Arbor Elf
 3 Noble Hierarch
+4 Chandra, Torch of Defiance
 4 Oath of Nissa
-4 Lukka, Coppercoat Outcast
 4 Utopia Sprawl
 4 Karn, the Great Creator
+4 Lukka, Coppercoat Outcast
 4 Arbor Elf
-4 Chandra, Torch of Defiance
 4 Birds of Paradise
 4 Stomping Ground
 4 Forest

@@ -47,7 +47,7 @@
 |                    2|[Containment Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389470)           |                    2|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)     |
 |                    2|[Reflector Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407667)               |                    2|[Deputy of Detention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457309)|
 |                    3|[Kitesail Freebooter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435264)          |                    2|[Gaddock Teeg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=140188)       |
-|                    3|[Opposition Agent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=497661)             |                    2|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)|
-|                    3|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)               |                    3|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)     |
+|                    3|[Horizon Canopy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409571)               |                    2|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)|
+|                    3|[Opposition Agent](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=497661)             |                    3|[Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)     |
 |                    4|[Mother of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430236)              |                     |                                                                                              |
 

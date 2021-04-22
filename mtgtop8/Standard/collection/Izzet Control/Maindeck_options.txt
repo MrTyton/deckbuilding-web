@@ -24,8 +24,8 @@
 1 Frantic Inventory
 2 Frantic Inventory
 3 Frantic Inventory
-4 Sprite Dragon
 4 Frantic Inventory
+4 Sprite Dragon
 1 Castle Vantress
 1 Fire Prophecy
 1 Opt
@@ -56,11 +56,11 @@
 2 Jwari Disruption
 9 Snow-Covered Island
 10 Snow-Covered Island
+1 Frostboil Snarl
 1 Galazeth Prismari
 1 Prismari Command
-1 Frostboil Snarl
-2 Galazeth Prismari
 2 Frostboil Snarl
+2 Galazeth Prismari
 3 Frostboil Snarl
 4 Frostboil Snarl
 4 Opt
@@ -97,8 +97,8 @@
 3 Soul Sear
 3 Elspeth Conquers Death
 3 Dream Trawler
-3 Raugrin Triome
 3 Jwari Disruption
+3 Raugrin Triome
 3 Doomskar
 3 Needleverge Pathway
 3 Hengegate Pathway
@@ -108,35 +108,35 @@
 4 Doomskar
 4 Hengegate Pathway
 4 Needleverge Pathway
-1 Castle Embereth
 1 Sublime Epiphany
-1 Reflections of Littjara
 1 Invasion of the Giants
 1 Terror of the Peaks
+1 Reflections of Littjara
+1 Castle Embereth
 2 Sublime Epiphany
 2 Invasion of the Giants
 2 Terror of the Peaks
 2 Reflections of Littjara
+3 Terror of the Peaks
+3 Invasion of the Giants
 3 Negate
 3 Reflections of Littjara
 3 Essence Scatter
-3 Invasion of the Giants
-3 Terror of the Peaks
-1 Reject
-2 Reject
 1 Glimpse the Cosmos
 2 Glimpse the Cosmos
+1 Reject
+2 Reject
 1 Stormwing Entity
+1 Faerie Vandal
 1 Windrider Wizard
 1 Demon Bolt
-1 Faerie Vandal
+1 Aegar, the Freezing Flame
 1 Swiftwater Cliffs
 1 Reconnaissance Mission
 1 Goblin Wizardry
-1 Aegar, the Freezing Flame
 2 Swiftwater Cliffs
-2 Demon Bolt
 2 Faerie Vandal
+2 Demon Bolt
 2 Aegar, the Freezing Flame
 3 Swiftwater Cliffs
 3 Faerie Vandal
@@ -145,8 +145,8 @@
 1 Neutralize
 1 Seize the Spoils
 2 Seize the Spoils
-3 Seize the Spoils
 3 Double Vision
+3 Seize the Spoils
 4 Seize the Spoils
 4 Faceless Haven
 1 Sulfurous Mire
@@ -159,24 +159,24 @@
 2 Feed the Swarm
 3 Ice Tunnel
 4 Lofty Denial
-1 Draconic Intervention
 1 Creative Outburst
-1 Torrent Sculptor
 1 Magma Opus
-2 Prismari Command
-2 Creative Outburst
+1 Torrent Sculptor
+1 Draconic Intervention
 2 Magma Opus
+2 Creative Outburst
 2 Torrent Sculptor
+2 Prismari Command
 2 Draconic Intervention
-3 Prismari Command
-3 Galazeth Prismari
-3 Torrent Sculptor
-3 Draconic Intervention
 3 Magma Opus
-4 Draconic Intervention
+3 Prismari Command
+3 Torrent Sculptor
+3 Galazeth Prismari
+3 Draconic Intervention
 4 Prismari Command
 4 Magma Opus
 4 Torrent Sculptor
+4 Draconic Intervention
 6 Mountain
 1 Shock
 1 Spikefield Hazard

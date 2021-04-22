@@ -1,8 +1,8 @@
-2 Gavony Township
 4 Forest
+1 Pendelhaven
+2 Misty Rainforest
 2 Wooded Foothills
 4 Horizon Canopy
-2 Misty Rainforest
 4 Auriok Champion
 1 Eladamri's Call
 3 Misty Rainforest
@@ -16,6 +16,8 @@
 1 Spellskite
 3 Prismatic Vista
 3 Wooded Foothills
+1 Razorverge Thicket
+5 Forest
 1 Snow-Covered Forest
 1 Snow-Covered Plains
 2 Snow-Covered Forest
@@ -24,8 +26,6 @@
 3 Snow-Covered Forest
 4 Snow-Covered Forest
 5 Snow-Covered Forest
-1 Razorverge Thicket
-5 Forest
 1 Luminarch Aspirant
 1 Cavern of Souls
 1 Aether Vial
@@ -41,9 +41,9 @@
 3 Plains
 3 Walking Ballista
 3 Aether Vial
+4 Luminarch Aspirant
 4 Walking Ballista
 4 Noble Hierarch
-4 Luminarch Aspirant
 4 Plains
 5 Plains
 6 Plains

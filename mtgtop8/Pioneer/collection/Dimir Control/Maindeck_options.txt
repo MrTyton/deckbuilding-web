@@ -46,6 +46,7 @@
 1 Valki, God of Lies
 1 Omen of the Sea
 1 Nissa, Who Shakes the World
+1 Darkbore Pathway
 1 Forest
 1 Binding the Old Gods
 1 Zagoth Triome
@@ -54,7 +55,6 @@
 1 Alrund's Epiphany
 1 Overgrown Tomb
 1 Growth Spiral
-1 Darkbore Pathway
 1 Liliana, Dreadhorde General
 1 Sea Gate Restoration
 1 Wolfwillow Haven
@@ -67,6 +67,7 @@
 1 Emergent Ultimatum
 1 Barkchannel Pathway
 1 Planewide Celebration
+2 Barkchannel Pathway
 2 Alrund's Epiphany
 2 Omen of the Sea
 2 Zagoth Triome
@@ -78,7 +79,6 @@
 2 Emergent Ultimatum
 2 Wolfwillow Haven
 2 Cultivate
-2 Barkchannel Pathway
 2 Courser of Kruphix
 3 Barkchannel Pathway
 3 Wolfwillow Haven
@@ -91,8 +91,8 @@
 3 Emergent Ultimatum
 3 Overgrown Tomb
 3 Growth Spiral
-4 Binding the Old Gods
 4 Barkchannel Pathway
+4 Binding the Old Gods
 4 Wolfwillow Haven
 4 Omen of the Sea
 4 Darkbore Pathway
@@ -134,6 +134,6 @@
 1 Choked Estuary
 2 Lochmere Serpent
 2 Choked Estuary
-4 Swamp
-7 Island
 3 Choked Estuary
+7 Island
+4 Swamp
