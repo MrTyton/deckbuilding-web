@@ -1,3 +1,5 @@
+1 Archmage's Charm
+2 Archmage's Charm
 1 Remand
 2 Remand
 3 Remand
@@ -31,9 +33,7 @@
 1 Reflecting Pool
 5 Island
 2 Spell Snare
-2 Bloodstained Mire
 2 Mana Leak
-4 Crash Through
 1 Abrade
 1 Kiki-Jiki, Mirror Breaker
 2 Kiki-Jiki, Mirror Breaker
@@ -46,18 +46,23 @@
 2 Deceiver Exarch
 1 Ral, Izzet Viceroy
 1 Wandering Fumarole
+4 Sunbaked Canyon
 1 Crackling Drake
 1 Minamo, School at Water's Edge
-4 Remand
-2 Reflecting Pool
-3 Deceiver Exarch
 1 Boros Charm
 2 Boros Charm
-4 Sunbaked Canyon
+4 Remand
+2 Reflecting Pool
+4 Mutagenic Growth
+1 Clever Lumimancer
+2 Clever Lumimancer
+3 Clever Lumimancer
+4 Clever Lumimancer
+3 Deceiver Exarch
 2 Scalding Tarn
+3 Scalding Tarn
 1 Through the Breach
 2 Through the Breach
-3 Scalding Tarn
 3 Steam Vents
 6 Island
 1 Emrakul, the Aeons Torn
@@ -67,16 +72,12 @@
 2 Flooded Strand
 3 Flooded Strand
 4 Flooded Strand
+4 Scalding Tarn
 1 Myth Realized
 2 Myth Realized
 3 Myth Realized
-4 Mutagenic Growth
-1 Clever Lumimancer
-2 Clever Lumimancer
-3 Clever Lumimancer
-4 Clever Lumimancer
+3 Wooded Foothills
 1 Jace, the Mind Sculptor
-4 Scalding Tarn
 2 Force of Negation
 3 Through the Breach
 3 Emrakul, the Aeons Torn
@@ -85,36 +86,36 @@
 1 Sulfur Falls
 2 Sulfur Falls
 3 Reflecting Pool
+1 Gut Shot
 3 Force of Negation
 1 Temple of Epiphany
 4 Reflecting Pool
 7 Island
-3 Wooded Foothills
+4 Mountain
 2 Temple of Epiphany
 3 Valakut Awakening
 3 Temple of Epiphany
 4 Valakut Awakening
 4 Temple of Epiphany
-1 Gut Shot
+2 Gut Shot
 2 Arid Mesa
-1 Blood Moon
-2 Blood Moon
-4 Mountain
 1 Lava Spike
 2 Lava Spike
-2 Gut Shot
 3 Abbot of Keral Keep
+4 Wooded Foothills
 3 Lava Spike
 4 Lava Spike
+1 Blood Moon
+2 Blood Moon
 1 Fiery Islet
 8 Island
-1 Magmatic Sinkhole
 1 Seal of Fire
 2 Seal of Fire
+1 Magmatic Sinkhole
 1 Kiln Fiend
 2 Kiln Fiend
 2 Jace, the Mind Sculptor
-4 Wooded Foothills
+3 Bloodstained Mire
 5 Mountain
 6 Mountain
 7 Mountain
@@ -130,6 +131,8 @@
 1 Temur Battle Rage
 2 Temur Battle Rage
 3 Boros Charm
+1 Stomping Ground
+2 Stomping Ground
 4 Abbot of Keral Keep
 1 Prismari Command
 3 Kiki-Jiki, Mirror Breaker
@@ -137,20 +140,26 @@
 9 Island
 3 Arid Mesa
 3 Sacred Foundry
+3 Gut Shot
 1 Shark Typhoon
 2 Shark Typhoon
+4 Bloodstained Mire
+1 Scourge of the Skyclaves
+1 Blood Crypt
+2 Scourge of the Skyclaves
+2 Blood Crypt
+3 Blood Crypt
+3 Scourge of the Skyclaves
+4 Scourge of the Skyclaves
 1 Castle Vantress
 3 Sulfur Falls
-3 Bloodstained Mire
 3 Mana Leak
+2 Wild Slash
 13 Mountain
 14 Mountain
 3 Bedlam Reveler
-2 Wild Slash
 1 Misty Rainforest
 1 Polluted Delta
-1 Stomping Ground
-2 Stomping Ground
 1 Snow-Covered Mountain
 1 Lightning Helix
 1 Hallowed Fountain
@@ -158,8 +167,8 @@
 2 Lightning Helix
 2 Teferi, Time Raveler
 1 Wall of Omens
-1 Celestial Colonnade
 1 Restoration Angel
+1 Celestial Colonnade
 1 Plains
 2 Wall of Omens
 2 Raugrin Triome
@@ -172,14 +181,6 @@
 4 Restoration Angel
 1 Behold the Multiverse
 2 Behold the Multiverse
-4 Bloodstained Mire
-1 Scourge of the Skyclaves
-1 Blood Crypt
-2 Scourge of the Skyclaves
-2 Blood Crypt
-3 Blood Crypt
-3 Scourge of the Skyclaves
-4 Scourge of the Skyclaves
 4 Blood Crypt
 4 Kiln Fiend
 2 Castle Vantress
@@ -192,7 +193,6 @@
 1 Ground Rift
 2 Ground Rift
 1 Vendilion Clique
-3 Gut Shot
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 1 Tarmogoyf
@@ -200,18 +200,26 @@
 3 Stomping Ground
 3 Tarmogoyf
 4 Tarmogoyf
+1 Atarka's Command
+1 Dreadhorde Arcanist
+2 Atarka's Command
+2 Dreadhorde Arcanist
+3 Atarka's Command
+3 Dreadhorde Arcanist
+4 Dreadhorde Arcanist
 15 Mountain
 16 Mountain
+1 Copperline Gorge
+2 Copperline Gorge
 3 Blood Moon
 1 Brazen Borrower
 1 Spell Queller
-1 Copperline Gorge
-2 Copperline Gorge
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 3 Bonecrusher Giant
 1 Field of Ruin
 2 Field of Ruin
+1 Claim the Firstborn
 1 Redirect
 1 Breeding Pool
 1 Ketria Triome
@@ -220,36 +228,30 @@
 2 Magmatic Sinkhole
 1 Emerge Unscathed
 2 Emerge Unscathed
+1 Snakeskin Veil
+1 Brushfire Elemental
+1 Become Immense
+1 Forest
+1 Expedite
+2 Snakeskin Veil
+2 Brushfire Elemental
+2 Become Immense
+3 Snakeskin Veil
+3 Brushfire Elemental
 1 Blistercoil Weird
 1 Runaway Steam-Kin
 2 Blistercoil Weird
 2 Runaway Steam-Kin
 3 Burst Lightning
-3 Serum Visions
-4 Deceiver Exarch
-4 Serum Visions
+1 Swamp
+1 Fatal Push
+2 Fatal Push
+4 Atarka's Command
 4 Sacred Foundry
 1 Wild Nacatl
 2 Wild Nacatl
 3 Wild Nacatl
 4 Wild Nacatl
-1 Snakeskin Veil
-1 Atarka's Command
-1 Brushfire Elemental
-1 Dreadhorde Arcanist
-1 Become Immense
-1 Forest
-1 Expedite
-2 Atarka's Command
-2 Snakeskin Veil
-2 Brushfire Elemental
-2 Become Immense
-2 Dreadhorde Arcanist
-3 Atarka's Command
-3 Snakeskin Veil
-3 Dreadhorde Arcanist
-3 Brushfire Elemental
-4 Dreadhorde Arcanist
 1 Hooting Mandrills
 2 Hooting Mandrills
 3 Seal of Fire
@@ -257,9 +259,12 @@
 3 Copperline Gorge
 4 Copperline Gorge
 4 Seal of Fire
+3 Serum Visions
+4 Deceiver Exarch
+4 Serum Visions
 1 The Royal Scions
-1 Glasspool Mimic
 1 Stubborn Denial
+1 Glasspool Mimic
 1 Faerie Conclave
 1 Inferno Titan
 1 Invasion of the Giants
@@ -273,6 +278,26 @@
 3 Inferno Titan
 4 Inferno Titan
 4 Invasion of the Giants
+1 Snow-Covered Plains
+1 Sword of Feast and Famine
+1 Seachrome Coast
+1 Geist of Saint Traft
+1 Snow-Covered Island
+1 Stoneforge Mystic
+1 Path to Exile
+1 Batterskull
+2 Snow-Covered Island
+2 Hallowed Fountain
+2 Spell Queller
+2 Geist of Saint Traft
+2 Path to Exile
+2 Stoneforge Mystic
+2 Seachrome Coast
+3 Snow-Covered Island
+3 Path to Exile
+3 Stoneforge Mystic
+4 Path to Exile
+4 Stoneforge Mystic
 1 Nivmagus Elemental
 2 Nivmagus Elemental
 3 Nivmagus Elemental
@@ -300,26 +325,6 @@
 3 Arclight Phoenix
 4 Arclight Phoenix
 4 Thrill of Possibility
-1 Snow-Covered Plains
-1 Sword of Feast and Famine
-1 Seachrome Coast
-1 Geist of Saint Traft
-1 Snow-Covered Island
-1 Stoneforge Mystic
-1 Path to Exile
-1 Batterskull
-2 Snow-Covered Island
-2 Hallowed Fountain
-2 Spell Queller
-2 Geist of Saint Traft
-2 Path to Exile
-2 Stoneforge Mystic
-2 Seachrome Coast
-3 Snow-Covered Island
-3 Path to Exile
-3 Stoneforge Mystic
-4 Path to Exile
-4 Stoneforge Mystic
 2 Crackling Drake
 2 Polluted Delta
 3 Polluted Delta

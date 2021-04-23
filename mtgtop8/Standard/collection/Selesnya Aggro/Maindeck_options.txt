@@ -1,17 +1,39 @@
-4 Temple of Plenty
-1 Kazandu Mammoth
-2 The Great Henge
-2 Kazandu Mammoth
-3 The Great Henge
-3 Kazandu Mammoth
-4 Kazandu Mammoth
-1 Scavenging Ooze
-4 Shepherd of the Flock
-5 Plains
-6 Plains
+6 Forest
 7 Forest
-7 Plains
-8 Plains
+1 Vivien, Monsters' Advocate
+1 Lurrus of the Dream-Den
+1 Reidane, God of the Worthy
+2 Tangled Florahedron
+2 Vivien, Monsters' Advocate
+3 Tangled Florahedron
+4 Tangled Florahedron
+1 Castle Ardenvale
+1 Skyclave Apparition
+1 Esika's Chariot
+2 Skyclave Apparition
+3 Toski, Bearer of Secrets
+3 Skyclave Apparition
+4 Felidar Retreat
+4 Skyclave Apparition
+1 Colossal Plow
+1 Giant Ox
+1 Relic Golem
+1 Yasharn, Implacable Earth
+1 Scavenging Ooze
+2 Colossal Plow
+2 Giant Ox
+2 Yasharn, Implacable Earth
+2 Relic Golem
+2 Emeria's Call
+3 Emeria's Call
+3 Colossal Plow
+3 Giant Ox
+3 Relic Golem
+4 Colossal Plow
+4 Emeria's Call
+4 Shepherd of the Flock
+4 The Great Henge
+4 Relic Golem
 1 Evolving Wilds
 1 Snakeskin Veil
 1 Chainweb Aracnir
@@ -27,51 +49,15 @@
 3 Conclave Mentor
 4 Snakeskin Veil
 4 Conclave Mentor
-1 Vivien, Monsters' Advocate
-1 Lurrus of the Dream-Den
-1 Reidane, God of the Worthy
-2 Tangled Florahedron
-2 Vivien, Monsters' Advocate
-3 Tangled Florahedron
-4 Tangled Florahedron
-1 Esika's Chariot
-4 Felidar Retreat
-1 Maul of the Skyclaves
-1 Usher of the Fallen
-1 Seasoned Hallowblade
-2 Maul of the Skyclaves
-2 Usher of the Fallen
-2 Scavenging Ooze
-2 Seasoned Hallowblade
-3 Usher of the Fallen
-3 Seasoned Hallowblade
-4 Toski, Bearer of Secrets
-4 Seasoned Hallowblade
-4 Usher of the Fallen
-1 Colossal Plow
-1 Giant Ox
-1 Relic Golem
-1 Yasharn, Implacable Earth
-2 Colossal Plow
-2 Giant Ox
-2 Yasharn, Implacable Earth
-2 Relic Golem
-2 Emeria's Call
-3 Emeria's Call
-3 Colossal Plow
-3 Giant Ox
-3 Relic Golem
-4 Colossal Plow
-4 Emeria's Call
-4 The Great Henge
-4 Relic Golem
+5 Plains
+6 Plains
 1 Heliod, Sun-Crowned
 1 Righteous Valkyrie
 1 Blossoming Sands
 1 Struggle for Skemfar
 1 Feat of Resistance
-1 Story Seeker
 1 Swallow Whole
+1 Story Seeker
 1 Bretagard Stronghold
 1 Expedition Healer
 1 Attended Healer
@@ -93,6 +79,8 @@
 4 Attended Healer
 4 Expedition Healer
 4 Blossoming Sands
+7 Plains
+8 Plains
 9 Plains
 1 Scoured Barrens
 1 Jungle Hollow

@@ -1,9 +1,7 @@
-3 Snow-Covered Island
-4 Daze
 1 Tropical Island
-1 Noble Hierarch
-1 Sylvan Library
 1 Uro, Titan of Nature's Wrath
+1 Sylvan Library
+1 Noble Hierarch
 2 Misty Rainforest
 2 Tropical Island
 2 Uro, Titan of Nature's Wrath
@@ -11,79 +9,83 @@
 3 Island
 4 Island
 3 Prismatic Vista
-2 Scalding Tarn
+1 Council's Judgment
+1 Brazen Borrower
 3 Uro, Titan of Nature's Wrath
+4 Daze
 3 Noble Hierarch
 4 Noble Hierarch
-1 Polluted Delta
+2 Polluted Delta
+3 Snow-Covered Island
 1 Hullbreacher
-1 Council's Judgment
 3 True-Name Nemesis
 3 Misty Rainforest
 2 Sylvan Library
-2 Spell Pierce
 1 Snow-Covered Forest
-1 Preordain
-2 Polluted Delta
+2 Scalding Tarn
 4 Uro, Titan of Nature's Wrath
 4 Misty Rainforest
 1 Savannah
 1 Windswept Heath
 2 Windswept Heath
+2 Spell Pierce
+3 Sylvan Library
+1 Skyclave Apparition
 1 Sword of Fire and Ice
 1 Back to Basics
-4 Wasteland
-3 Sylvan Library
-1 Supreme Verdict
 1 Counterspell
 1 Narset, Parter of Veils
-1 Vendilion Clique
-1 Skyclave Apparition
+4 Wasteland
+1 Preordain
 2 Skyclave Apparition
+3 Polluted Delta
+1 Supreme Verdict
+1 Vendilion Clique
+1 Birds of Paradise
 1 Delver of Secrets
 2 Delver of Secrets
 3 Delver of Secrets
 4 Delver of Secrets
 2 Snow-Covered Plains
 4 Snow-Covered Island
-3 Scalding Tarn
-1 Birds of Paradise
-1 Spell Snare
-1 Mountain
 1 Sword of Feast and Famine
 5 Island
 1 Jace, Vryn's Prodigy
 2 Preordain
-3 Polluted Delta
-1 Venser, Shaper Savant
+3 Scalding Tarn
+4 Polluted Delta
+1 Baleful Strix
+1 Scrubland
+1 Underground Sea
+2 Baleful Strix
 2 Vendilion Clique
 3 Preordain
 4 Prismatic Vista
+1 Spell Snare
 1 Arid Mesa
 1 Snow-Covered Mountain
 1 Shark Typhoon
+1 Mountain
+1 Thoughtseize
+2 Thoughtseize
+1 Swamp
 3 Tropical Island
 4 Scalding Tarn
-4 Polluted Delta
+1 Venser, Shaper Savant
 2 Narset, Parter of Veils
 4 Preordain
 5 Snow-Covered Island
 6 Snow-Covered Island
 1 Dovin's Veto
 1 Mystic Sanctuary
-1 Scrubland
-1 Baleful Strix
-1 Thoughtseize
 1 Liliana, the Last Hope
-1 Underground Sea
 1 Diabolic Edict
-2 Baleful Strix
-2 Thoughtseize
-1 Monastery Mentor
-2 Monastery Mentor
+3 Thoughtseize
+3 Tundra
 1 Ethereal Forager
 2 Ethereal Forager
 1 Forest
+1 Kaya, Orzhov Usurper
 1 Lightning Bolt
 2 Volcanic Island
 2 Lightning Bolt
@@ -93,29 +95,38 @@
 4 Stifle
 1 Life from the Loam
 1 Sevinne's Reclamation
+1 Snow-Covered Swamp
+1 Palace Jailer
 1 Engineered Explosives
 1 Fire/Ice
 2 Arid Mesa
-2 Hullbreacher
 2 Council's Judgment
 2 Spell Snare
+1 Monastery Mentor
+2 Monastery Mentor
+1 Creeping Tar Pit
+1 Marsh Flats
+1 Cling to Dust
+1 Inquisition of Kozilek
+2 Underground Sea
 1 Hymn to Tourach
-1 Swamp
 2 Hymn to Tourach
 2 Swamp
-1 Scavenging Ooze
 1 Renegade Rallier
 1 Tarmogoyf
-1 Qasali Pridemage
 1 Green Sun's Zenith
+1 Scavenging Ooze
 1 Path to Exile
+1 Qasali Pridemage
 2 Tarmogoyf
 2 Renegade Rallier
-1 Snow-Covered Swamp
-1 Palace Jailer
-3 Thoughtseize
 3 Snow-Covered Plains
-3 Tundra
+1 Unearth
+1 Drown in the Loch
+2 Hullbreacher
+2 Unearth
+2 Drown in the Loch
+3 Baleful Strix
 1 Young Pyromancer
 1 Bonecrusher Giant
 2 Young Pyromancer
@@ -123,12 +134,6 @@
 2 Brazen Borrower
 2 Bonecrusher Giant
 3 Teferi, Time Raveler
-1 Of One Mind
-1 Clarion Spirit
-2 Of One Mind
-2 Clarion Spirit
-3 Monastery Mentor
-4 Monastery Mentor
 1 Torpor Orb
 1 Phyrexian Dreadnought
 2 Torpor Orb
@@ -136,15 +141,15 @@
 3 Phyrexian Dreadnought
 4 Phyrexian Dreadnought
 6 Island
-1 Verdant Catacombs
 1 Tireless Tracker
 1 Ice-Fang Coatl
+1 Verdant Catacombs
 1 Karn, the Great Creator
-2 Verdant Catacombs
 2 Snow-Covered Forest
 2 Karn, the Great Creator
 2 Back to Basics
 2 Ice-Fang Coatl
+2 Verdant Catacombs
 3 Windswept Heath
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
