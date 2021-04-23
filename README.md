@@ -4,11 +4,11 @@
 
 # Standard
 
-|                                 A                                  |                                    B                                     |                                 C                                  |                           D                            |
-|--------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------|
-|[BR](./mtggoldfish/Standard/decks/BR.md)                            |[Jeskai Cycling](./mtggoldfish/Standard/decks/Jeskai_Cycling.md)          |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[Temur Ramp](./mtggoldfish/Standard/decks/Temur_Ramp.md)|
-|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)        |[Mono-Green Midrange](./mtggoldfish/Standard/decks/Mono-Green_Midrange.md)|[Naya Adventures](./mtggoldfish/Standard/decks/Naya_Adventures.md)  |[UB](./mtggoldfish/Standard/decks/UB.md)                |
-|[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)|[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)          |[Sultai Control](./mtggoldfish/Standard/decks/Sultai_Control.md)    |[WRG](./mtggoldfish/Standard/decks/WRG.md)              |
+|                                    A                                     |                                    B                                     |                                 C                                  |                               D                                |
+|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------|
+|[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)              |[Jeskai Cycling](./mtggoldfish/Standard/decks/Jeskai_Cycling.md)          |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)    |[Sultai Control](./mtggoldfish/Standard/decks/Sultai_Control.md)|
+|[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Green Food](./mtggoldfish/Standard/decks/Mono-Green_Food.md)        |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)|[Temur Ramp](./mtggoldfish/Standard/decks/Temur_Ramp.md)        |
+|[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[Mono-Green Midrange](./mtggoldfish/Standard/decks/Mono-Green_Midrange.md)|[Naya Adventures](./mtggoldfish/Standard/decks/Naya_Adventures.md)  |[UB](./mtggoldfish/Standard/decks/UB.md)                        |
 
 
 # Pioneer
@@ -59,4 +59,4 @@
 
 
 
-#### Last Updated at 12:43AM on April 23, 2021
+#### Last Updated at 12:48PM on April 23, 2021

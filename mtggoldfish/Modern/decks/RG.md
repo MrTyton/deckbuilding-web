@@ -45,8 +45,8 @@
 |                    4|[Into the North](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121199)        |                     |                                                                                               |
 |                    5|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233) |                     |                                                                                               |
 |                    1|[Ketria Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479770)         |                     |                                                                                               |
-|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                |                     |                                                                                               |
 |                    3|[Wrenn and Six](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464166)         |                     |                                                                                               |
 |                    3|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)         |                     |                                                                                               |
 |                    4|[Fire Prophecy](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479636)         |                     |                                                                                               |
+|                    1|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                |                     |                                                                                               |
 

@@ -1,14 +1,14 @@
-2 Verdant Catacombs
-2 Stifle
+1 Scalding Tarn
 1 Tropical Island
-3 Stifle
+2 Stifle
 1 Uro, Titan of Nature's Wrath
-2 Uro, Titan of Nature's Wrath
 3 Misty Rainforest
+2 Uro, Titan of Nature's Wrath
+3 Stifle
 2 Tropical Island
-1 Bloodstained Mire
 1 Bayou
 1 Drown in the Loch
+1 Bloodstained Mire
 1 Abrupt Decay
 1 Jace, the Mind Sculptor
 4 Misty Rainforest
@@ -19,10 +19,10 @@
 2 Baleful Strix
 3 Baleful Strix
 1 Snow-Covered Forest
+1 Leovold, Emissary of Trest
 1 Snow-Covered Swamp
 1 Assassin's Trophy
 2 Snow-Covered Island
-1 Leovold, Emissary of Trest
 1 Sylvan Library
 4 Baleful Strix
 4 Stifle
@@ -30,24 +30,24 @@
 2 Ice-Fang Coatl
 2 Snow-Covered Forest
 2 Assassin's Trophy
+1 Island
+1 Plague Engineer
 3 Ice-Fang Coatl
 1 Brazen Borrower
 1 Reanimate
-1 Plague Engineer
-1 Island
 3 Abrupt Decay
 1 Scavenging Ooze
+3 Verdant Catacombs
+1 Swamp
 3 Assassin's Trophy
 1 Court of Cunning
 2 Court of Cunning
 2 Scalding Tarn
 3 Snow-Covered Island
 1 Mystic Sanctuary
-1 Hymn to Tourach
 3 Underground Sea
+1 Hymn to Tourach
 2 Leovold, Emissary of Trest
-3 Verdant Catacombs
-1 Swamp
 2 Bloodstained Mire
 1 Snapcaster Mage
 2 Snapcaster Mage
@@ -57,36 +57,38 @@
 1 Ethereal Forager
 3 Court of Cunning
 3 Fatal Push
+2 Drown in the Loch
 2 Sylvan Library
 1 Karakas
-2 Ethereal Forager
 2 Reanimate
+2 Ethereal Forager
 1 Liliana, the Last Hope
 1 Preordain
-2 Drown in the Loch
+2 Plague Engineer
+1 Noble Hierarch
+2 Noble Hierarch
+4 Ice-Fang Coatl
 1 Marsh Flats
 3 Ethereal Forager
 1 Dismember
 2 Brazen Borrower
-4 Ice-Fang Coatl
 2 Snow-Covered Swamp
 3 Hymn to Tourach
-2 Plague Engineer
+1 Forest
 1 Volcanic Island
 1 Badlands
 2 Volcanic Island
-1 Noble Hierarch
 1 Green Sun's Zenith
 1 Dryad Arbor
-2 Noble Hierarch
 2 Green Sun's Zenith
 3 Green Sun's Zenith
 4 Green Sun's Zenith
 1 Cling to Dust
-1 Hullbreacher
 3 Snapcaster Mage
+1 Hullbreacher
 1 Narset, Parter of Veils
 3 Tropical Island
+1 Birds of Paradise
 2 Marsh Flats
 3 Gurmag Angler
 4 Flooded Strand
@@ -99,13 +101,11 @@
 2 Tarmogoyf
 3 Tarmogoyf
 4 Tarmogoyf
-1 Forest
 2 Island
 2 Jace, the Mind Sculptor
 1 Lightning Bolt
 1 Kolaghan's Command
 2 Dismember
-1 Birds of Paradise
 1 Nissa of Shadowed Boughs
 4 Watery Grave
 1 Toxic Deluge
@@ -116,6 +116,7 @@
 2 Lightning Bolt
 2 Kolaghan's Command
 1 Bojuka Bog
+2 Bayou
 1 Grove of the Burnwillows
 1 Dack Fayden
 1 Punishing Fire
@@ -136,6 +137,10 @@
 1 Flusterstorm
 2 Narset, Parter of Veils
 2 Life from the Loam
+2 Birds of Paradise
+4 Verdant Catacombs
+1 True-Name Nemesis
+2 True-Name Nemesis
 3 Dack Fayden
 4 Uro, Titan of Nature's Wrath
 3 Punishing Fire
@@ -143,15 +148,29 @@
 3 Cling to Dust
 1 Carpet of Flowers
 1 Dead of Winter
-2 Bayou
 1 Tyrant's Scorn
+1 Unearth
+1 Neoform
+1 Sea Gate Stormcaller
+1 Opposition Agent
+1 Cabal Therapy
+2 Unearth
+2 Neoform
+2 Cabal Therapy
+2 Sea Gate Stormcaller
+3 Birds of Paradise
+3 Neoform
+3 Cabal Therapy
+3 Sea Gate Stormcaller
+4 Cabal Therapy
+4 Sea Gate Stormcaller
 1 Inquisition of Kozilek
 1 Ramunap Excavator
+1 Hexdrinker
 1 Breeding Pool
 1 Jolrael, Mwonvuli Recluse
 2 Jolrael, Mwonvuli Recluse
 2 Breeding Pool
-1 Hexdrinker
 2 Badlands
 3 Lightning Bolt
 1 Waterlogged Grove
@@ -161,6 +180,8 @@
 4 Dack Fayden
 1 Hooting Mandrills
 1 Prismatic Vista
+1 Spike Feeder
+1 Heliod, Sun-Crowned
 1 Tasigur, the Golden Fang
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
@@ -179,10 +200,12 @@
 1 Painful Truths
 1 Mountain
 2 Kroxa, Titan of Death's Hunger
-2 Birds of Paradise
 3 Marsh Flats
 2 Hexdrinker
 3 Sylvan Library
+1 Meren of Clan Nel Toth
+3 Snow-Covered Forest
+3 Leovold, Emissary of Trest
 1 Scrubland
 1 Teferi, Time Raveler
 1 Spell Pierce
@@ -190,9 +213,6 @@
 1 Swords to Plowshares
 2 Swords to Plowshares
 3 Swords to Plowshares
-1 Meren of Clan Nel Toth
-3 Snow-Covered Forest
-3 Leovold, Emissary of Trest
 1 Witherbloom Apprentice
 1 Chain of Smog
 2 Witherbloom Apprentice
@@ -200,13 +220,10 @@
 3 Witherbloom Apprentice
 4 Witherbloom Apprentice
 4 Hymn to Tourach
-4 Verdant Catacombs
 1 Fire/Ice
 2 Fire/Ice
 4 Underground Sea
 4 Lightning Bolt
-1 True-Name Nemesis
-2 True-Name Nemesis
 3 True-Name Nemesis
 4 Noble Hierarch
 1 Snow-Covered Mountain

@@ -98,10 +98,6 @@
 1 Life from the Loam
 1 Lake of the Dead
 3 Helm of Obedience
-1 Echo of Eons
-3 Duress
-3 Ancient Tomb
-4 Duress
 4 Inquisition of Kozilek
 1 Liliana's Triumph
 1 Crucible of Worlds
@@ -112,6 +108,10 @@
 3 Crucible of Worlds
 3 Innocent Blood
 4 Hymn to Tourach
+1 Echo of Eons
+3 Duress
+3 Ancient Tomb
+4 Duress
 1 Breeding Pool
 1 Overgrown Tomb
 1 Watery Grave
@@ -144,9 +144,9 @@
 4 Cabal Therapy
 4 Hogaak, Arisen Necropolis
 1 Bloodchief's Thirst
+1 Liliana, the Last Hope
 1 The Tabernacle at Pendrell Vale
 1 Eliminate
-1 Liliana, the Last Hope
 1 Nether Void
 1 Mishra's Factory
 2 Liliana, the Last Hope

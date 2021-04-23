@@ -15,15 +15,16 @@
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
+2 Shock
 3 Bonecrusher Giant
 4 Bonecrusher Giant
-1 Wayward Guide-Beast
 1 Spikefield Hazard
 2 Spikefield Hazard
 3 Spikefield Hazard
 4 Spikefield Hazard
-2 Shock
 15 Mountain
+1 Wayward Guide-Beast
+1 Needleverge Pathway
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -37,7 +38,6 @@
 3 Shock
 1 Castle Embereth
 16 Mountain
-1 Needleverge Pathway
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
 3 Chandra, Torch of Defiance
@@ -71,14 +71,6 @@
 3 Dreadhorde Arcanist
 4 Shock
 4 Crash Through
-1 Abbot of Keral Keep
-2 Abbot of Keral Keep
-3 Abbot of Keral Keep
-4 Abbot of Keral Keep
-1 Collective Defiance
-2 Collective Defiance
-3 Collective Defiance
-4 Collective Defiance
 1 Fanatical Firebrand
 1 Burning-Tree Emissary
 1 Legion Warboss
@@ -117,6 +109,14 @@
 3 Foundry Street Denizen
 4 Burning-Tree Emissary
 4 Legion Loyalist
+4 Castle Embereth
 4 Reckless Bushwhacker
 4 Foundry Street Denizen
-4 Castle Embereth
+1 Abbot of Keral Keep
+2 Abbot of Keral Keep
+3 Abbot of Keral Keep
+4 Abbot of Keral Keep
+1 Collective Defiance
+2 Collective Defiance
+3 Collective Defiance
+4 Collective Defiance
