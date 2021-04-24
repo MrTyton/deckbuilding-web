@@ -48,8 +48,8 @@
 |                    4|[Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)   |                     |                                                                                                     |
 |                    4|[Bomat Courier](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417772)        |                     |                                                                                                     |
 |                    9|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)             |                     |                                                                                                     |
-|                    1|Clever Lumimancer                                                                               |                     |                                                                                                     |
 |                    2|[Needleverge Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491918)  |                     |                                                                                                     |
 |                    2|Clever Lumimancer                                                                               |                     |                                                                                                     |
 |                    3|Clever Lumimancer                                                                               |                     |                                                                                                     |
+|                    1|Clever Lumimancer                                                                               |                     |                                                                                                     |
 

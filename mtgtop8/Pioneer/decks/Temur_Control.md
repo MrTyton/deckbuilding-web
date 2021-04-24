@@ -70,9 +70,9 @@
 |                    4|[Sinister Sabotage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452804)   |                     |                                                                                                  |
 |                    4|[Torrential Gearhulk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417640) |                     |                                                                                                  |
 |                    4|Prismari Command                                                                               |                     |                                                                                                  |
+|                    4|Magma Opus                                                                                     |                     |                                                                                                  |
 |                    4|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)         |                     |                                                                                                  |
 |                    4|[Ketria Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479770)       |                     |                                                                                                  |
-|                    4|Magma Opus                                                                                     |                     |                                                                                                  |
 |                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                 |                     |                                                                                                  |
 |                    4|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)       |                     |                                                                                                  |
 

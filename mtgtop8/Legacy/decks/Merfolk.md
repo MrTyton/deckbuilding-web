@@ -22,3 +22,22 @@
 |1 [Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|2 [Hullbreacher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=502308)          |4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|2 [Submerge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=21296) |
 |1 [Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)   |                                                                                                   |                                                                                                |                                                                                     |
 
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
+|                    1|[Riptide Laboratory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10704)|                    1|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)        |
+|                    2|[Riptide Laboratory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=10704)|                    1|[Repeal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405357)                |
+|                    4|[Merfolk Trickster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442944)|                    1|[Cursecatcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442042)          |
+|                     |                                                                                            |                    2|[Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=201822)        |
+|                     |                                                                                            |                    2|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)     |
+|                     |                                                                                            |                    2|[Harbinger of the Tides](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433017)|
+|                     |                                                                                            |                    2|[Cursecatcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442042)          |
+|                     |                                                                                            |                    2|[Repeal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405357)                |
+|                     |                                                                                            |                    3|[Cursecatcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442042)          |
+|                     |                                                                                            |                    3|[Harbinger of the Tides](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433017)|
+|                     |                                                                                            |                    3|[Repeal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405357)                |
+|                     |                                                                                            |                    4|[Repeal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405357)                |
+|                     |                                                                                            |                    4|[Harbinger of the Tides](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=433017)|
+

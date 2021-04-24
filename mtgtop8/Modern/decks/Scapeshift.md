@@ -39,7 +39,7 @@
 |--------------------:|--------------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------------------|
 |                    1|[Platinum Emperion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457134)|                    1|[Felidar Retreat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491638)      |
 |                    1|[Madcap Experiment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417695)|                    1|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)        |
-|                    2|[Ketria Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479770)    |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)        |
-|                     |                                                                                            |                    2|[Felidar Retreat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491638)      |
+|                    2|[Ketria Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479770)    |                    2|[Felidar Retreat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491638)      |
+|                     |                                                                                            |                    2|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)        |
 |                     |                                                                                            |                    2|[Timely Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220074)|
 

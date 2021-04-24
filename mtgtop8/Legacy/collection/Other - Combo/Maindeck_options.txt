@@ -1,28 +1,71 @@
-1 Island
-2 Island
-3 Island
+1 Ponder
+2 Brainstorm
+2 Ponder
+3 Brainstorm
+3 Ponder
+4 Ponder
+4 Brainstorm
+1 Abrade
+1 Cascade Bluffs
+2 Snow-Covered Mountain
+2 Fiery Islet
+1 Underground Sea
+1 Prismatic Vista
+1 Stasis
+1 Ral Zarek
+1 Force of Negation
+1 Snapcaster Mage
+2 Stasis
+2 Ral Zarek
+2 Force of Negation
+3 Ral Zarek
+3 Stasis
+1 Misty Rainforest
+1 Snow-Covered Forest
+1 Tropical Island
+1 Thoughtseize
+2 Misty Rainforest
+2 Prismatic Vista
+2 Thoughtseize
+3 Misty Rainforest
+1 Bayou
+1 Abundant Growth
+1 Uro, Titan of Nature's Wrath
+1 Snow-Covered Swamp
+1 Abrupt Decay
+1 Fatal Push
+1 Dead of Winter
+1 Ice-Fang Coatl
+1 Verdant Catacombs
+2 Snapcaster Mage
+2 Abrupt Decay
+2 Abundant Growth
+2 Snow-Covered Forest
+2 Uro, Titan of Nature's Wrath
+2 Ice-Fang Coatl
+2 Fatal Push
+3 Ice-Fang Coatl
+3 Abundant Growth
+3 Abrupt Decay
+3 Uro, Titan of Nature's Wrath
 4 Island
-2 Scalding Tarn
-3 Scalding Tarn
-2 Volcanic Island
-4 Scalding Tarn
+3 Polluted Delta
 1 Flooded Strand
 2 Flooded Strand
 2 Underground Sea
-3 Polluted Delta
 1 Daze
 2 Daze
 3 Daze
 4 Daze
 5 Island
 1 Castle Vantress
-1 Maddening Cacophony
 1 Glimpse the Unthinkable
 1 Brain Freeze
 1 Visions of Beyond
 1 Hedron Crab
 1 Archive Trap
 1 Surgical Extraction
+1 Maddening Cacophony
 1 Mission Briefing
 1 Ruin Crab
 2 Surgical Extraction
@@ -35,8 +78,8 @@
 2 Glimpse the Unthinkable
 2 Brain Freeze
 3 Surgical Extraction
-3 Hedron Crab
 3 Maddening Cacophony
+3 Hedron Crab
 3 Glimpse the Unthinkable
 3 Ruin Crab
 3 Archive Trap
@@ -45,45 +88,6 @@
 4 Hedron Crab
 4 Ruin Crab
 4 Archive Trap
-1 Narset, Parter of Veils
-1 Ancient Tomb
-2 Ancient Tomb
-1 Hullbreacher
-1 Chalice of the Void
-2 Chalice of the Void
-3 Chalice of the Void
-3 Ancient Tomb
-4 Chalice of the Void
-1 Chrome Mox
-1 Dack Fayden
-1 Fiery Islet
-1 Day's Undoing
-1 Blood Moon
-1 Chandra, Torch of Defiance
-1 Vendilion Clique
-1 Ash Barrens
-1 Splinter Twin
-1 Deceiver Exarch
-1 Izzet Charm
-2 Chrome Mox
-2 Hullbreacher
-2 Day's Undoing
-2 Blood Moon
-2 Splinter Twin
-2 Izzet Charm
-2 Jace, the Mind Sculptor
-2 Deceiver Exarch
-3 Hullbreacher
-3 Day's Undoing
-3 Blood Moon
-3 Izzet Charm
-3 Deceiver Exarch
-3 Chrome Mox
-4 Ancient Tomb
-4 Hullbreacher
-4 Day's Undoing
-4 Deceiver Exarch
-4 Izzet Charm
 1 Waterlogged Grove
 1 Thassa's Oracle
 1 Thought Lash
@@ -107,10 +111,6 @@
 4 Paradigm Shift
 1 Mountain
 1 Preordain
-1 Abrade
-1 Cascade Bluffs
-2 Snow-Covered Mountain
-2 Fiery Islet
 2 Chandra, Torch of Defiance
 2 Mountain
 3 Volcanic Island

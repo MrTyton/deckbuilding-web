@@ -77,6 +77,7 @@
 3 Stomping Ground
 4 Bonecrusher Giant
 4 Stomping Ground
+1 Swamp
 1 Branchloft Pathway
 2 Branchloft Pathway
 3 Branchloft Pathway
@@ -112,7 +113,6 @@
 3 Sunpetal Grove
 3 Knight of Autumn
 4 Sunpetal Grove
-1 Swamp
 1 Renegade Rallier
 1 Overgrown Tomb
 1 Judith, the Scourge Diva
@@ -120,8 +120,8 @@
 1 General Kudro of Drannith
 1 Pyre of Heroes
 1 Llanowar Wastes
-1 Hostage Taker
 1 Kaervek, the Spiteful
+1 Hostage Taker
 1 Elite Guardmage
 1 Basri's Lieutenant
 1 Archfiend's Vessel
@@ -136,9 +136,9 @@
 3 Acquisitions Expert
 3 Pyre of Heroes
 3 Llanowar Wastes
+3 Renegade Rallier
 3 Unclaimed Territory
 3 Archfiend's Vessel
-3 Renegade Rallier
 4 Mana Confluence
 4 Pyre of Heroes
 4 Archfiend's Vessel
@@ -214,10 +214,10 @@
 2 Call of the Conclave
 3 Starnheim Unleashed
 3 Call of the Conclave
+3 Esika's Chariot
 3 Wayfaring Temple
 3 Conclave Tribunal
 3 Battle for Bretagard
-3 Esika's Chariot
 4 Wayfaring Temple
 4 Conclave Tribunal
 4 Battle for Bretagard
@@ -227,8 +227,8 @@
 1 Mountain
 1 Glorybringer
 2 Glorybringer
-1 Rootbound Crag
 1 Ketria Triome
+1 Rootbound Crag
 1 Alrund's Epiphany
 1 Steam Vents
 1 Island
@@ -271,9 +271,9 @@
 1 Dreadbore
 1 Crackling Doom
 1 Seraph of the Scales
+1 History of Benalia
 1 Castle Locthwain
 1 Needle Spires
-1 History of Benalia
 1 Shambling Vent
 2 Savai Triome
 2 Isolated Chapel
@@ -342,8 +342,8 @@
 4 Soaring Thought-Thief
 4 Thoughtseize
 4 Deathrite Shaman
-4 Botanical Sanctum
 4 Drown in the Loch
+4 Botanical Sanctum
 4 Thieves' Guild Enforcer
 4 Watery Grave
 1 Dreadhorde Arcanist
@@ -383,28 +383,71 @@
 3 Reckless Rage
 3 Favored Hoplite
 3 Defiant Strike
-3 Monastery Swiftspear
-3 Gods Willing
 3 Gird for Battle
+3 Monastery Swiftspear
 3 Soul-Scar Mage
+3 Gods Willing
 4 Tenth District Legionnaire
 4 Needleverge Pathway
-4 Inspiring Vantage
 4 Battlefield Forge
 4 Boros Charm
+4 Inspiring Vantage
 4 Soul-Scar Mage
 4 Reckless Rage
 4 Defiant Strike
 4 Gods Willing
+4 Gird for Battle
 4 Monastery Swiftspear
 4 Dreadhorde Arcanist
-4 Gird for Battle
 4 Favored Hoplite
+1 Shalai, Voice of Plenty
+1 Sorin, Vengeful Bloodlord
+1 Speaker of the Heavens
+1 Righteous Valkyrie
+1 Mazemind Tome
+1 Vito, Thorn of the Dusk Rose
+1 Bishop of Wings
+1 Resplendent Angel
+1 Command the Dreadhorde
+1 Revival / Revenge
+1 Lyra Dawnbringer
+2 Sorin, Vengeful Bloodlord
+2 Shalai, Voice of Plenty
+2 Speaker of the Heavens
+2 Righteous Valkyrie
+2 Mazemind Tome
+2 Lyra Dawnbringer
+2 Resplendent Angel
+2 Revival / Revenge
+2 Vito, Thorn of the Dusk Rose
+2 Bishop of Wings
+3 Shalai, Voice of Plenty
+3 Speaker of the Heavens
+3 Righteous Valkyrie
+3 Mazemind Tome
+3 Sorin, Vengeful Bloodlord
+3 Bishop of Wings
+3 Resplendent Angel
+3 Revival / Revenge
+4 Speaker of the Heavens
+4 Righteous Valkyrie
+4 Mazemind Tome
+4 Sorin, Vengeful Bloodlord
+4 Resplendent Angel
+4 Revival / Revenge
+4 Bishop of Wings
+5 Plains
+6 Plains
+7 Plains
+8 Plains
+9 Plains
+10 Plains
+11 Plains
+1 Garruk's Uprising
 1 Questing Beast
 1 Barkchannel Pathway
 1 Voracious Hydra
 1 Nykthos, Shrine to Nyx
-1 Garruk's Uprising
 1 Castle Garenbrig
 2 Castle Garenbrig
 2 Vorinclex, Monstrous Raider
