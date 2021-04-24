@@ -1,45 +1,43 @@
 3 Plains
-1 Castle Locthwain
 1 Dark Confidant
 2 Dark Confidant
-1 Cling to Dust
-3 Dark Confidant
-3 Godless Shrine
 1 Brightclimb Pathway
 2 Brightclimb Pathway
+3 Dark Confidant
+3 Godless Shrine
+1 Castle Locthwain
 1 Collective Brutality
-1 Bitterblossom
+1 Cling to Dust
 1 Gideon, Ally of Zendikar
 2 Gideon, Ally of Zendikar
-2 Bitterblossom
-1 Snow-Covered Plains
-1 Snow-Covered Swamp
-2 Snow-Covered Plains
 4 Path to Exile
-1 Maul of the Skyclaves
 4 Field of Ruin
-1 Ghost Quarter
+1 Maul of the Skyclaves
 1 Flickerwisp
 1 Aether Vial
-1 Thalia, Guardian of Thraben
 2 Flickerwisp
 2 Aether Vial
-2 Thalia, Guardian of Thraben
-3 Thalia, Guardian of Thraben
 3 Aether Vial
 4 Aether Vial
+1 Wasteland Strangler
+2 Wasteland Strangler
 1 Giver of Runes
 2 Giver of Runes
 3 Giver of Runes
-1 Wasteland Strangler
-2 Wasteland Strangler
+1 Thalia, Guardian of Thraben
+2 Thalia, Guardian of Thraben
+3 Thalia, Guardian of Thraben
 1 Leonin Arbiter
+1 Ghost Quarter
 2 Leonin Arbiter
 2 Ghost Quarter
 3 Ghost Quarter
 3 Leonin Arbiter
 4 Leonin Arbiter
 4 Ghost Quarter
+1 Snow-Covered Plains
+4 Silent Clearing
+4 Thalia, Guardian of Thraben
 1 Caves of Koilos
 1 Thought-Knot Seer
 1 Eldrazi Temple
@@ -51,45 +49,58 @@
 3 Thought-Knot Seer
 4 Thought-Knot Seer
 4 Eldrazi Temple
-3 Shambling Vent
-4 Silent Clearing
+2 Snow-Covered Plains
+1 Snow-Covered Swamp
+4 Plains
 4 Godless Shrine
+1 Prismatic Vista
+2 Prismatic Vista
+3 Brightclimb Pathway
+3 Flickerwisp
 1 Reality Smasher
 2 Reality Smasher
 1 Eldrazi Displacer
-1 Bloodchief's Thirst
-4 Thalia, Guardian of Thraben
-2 Kaya's Guile
+1 Bitterblossom
+4 Giver of Runes
 1 Kaya, Orzhov Usurper
-1 Prismatic Vista
-2 Prismatic Vista
 1 Tectonic Edge
 2 Tectonic Edge
-3 Bitterblossom
-1 Nihil Spellbomb
-3 Brightclimb Pathway
-3 Snow-Covered Plains
-4 Lingering Souls
-4 Plains
-2 Cling to Dust
-2 Bloodchief's Thirst
-2 Snow-Covered Swamp
-3 Snow-Covered Swamp
 4 Brightclimb Pathway
-3 Flickerwisp
+2 Bitterblossom
+1 Nihil Spellbomb
+3 Snow-Covered Plains
+2 Kaya's Guile
+1 Elite Spellbinder
+2 Elite Spellbinder
+3 Elite Spellbinder
+3 Wasteland Strangler
+5 Plains
+6 Plains
+4 Lingering Souls
+3 Shambling Vent
+4 Flickerwisp
+3 Bitterblossom
+2 Cling to Dust
+4 Elite Spellbinder
+4 Wasteland Strangler
 4 Snow-Covered Plains
 5 Snow-Covered Plains
+1 Vanishing Verse
+2 Vanishing Verse
+4 Dark Confidant
 4 Swamp
-4 Giver of Runes
 3 Prismatic Vista
+1 Charming Prince
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 2 Castle Locthwain
+1 Bloodchief's Thirst
+2 Bloodchief's Thirst
+2 Snow-Covered Swamp
+3 Snow-Covered Swamp
 4 Snow-Covered Swamp
 1 Wastes
-4 Flickerwisp
-3 Kaya's Guile
 1 Speaker of the Heavens
 1 Orzhov Charm
 1 Sorin, Vengeful Bloodlord
@@ -108,42 +119,50 @@
 4 Ranger-Captain of Eos
 4 Martyr of Sands
 9 Snow-Covered Plains
-1 Vanishing Verse
 2 Kaya, Orzhov Usurper
-2 Vanishing Verse
 3 Gideon, Ally of Zendikar
-4 Dark Confidant
 4 Thoughtseize
+1 Ephemerate
+1 Wall of Omens
+2 Charming Prince
+2 Ephemerate
+2 Wall of Omens
+3 Charming Prince
+3 Ephemerate
+3 Wall of Omens
+4 Charming Prince
+4 Ephemerate
+1 Archon of Emeria
+2 Archon of Emeria
+7 Plains
 1 Mishra's Bauble
-1 Feed the Swarm
-1 Liliana, the Last Hope
-1 Gideon of the Trials
-1 Hero's Downfall
-2 Collective Brutality
 2 Nihil Spellbomb
+2 Collective Brutality
+1 Cavern of Souls
+2 Cavern of Souls
 2 Eldrazi Displacer
 3 Eldrazi Displacer
 1 Lurrus of the Dream-Den
 2 Speaker of the Heavens
+3 Kaya's Guile
 3 Speaker of the Heavens
+3 Vanishing Verse
 1 Shefet Dunes
 1 Vault of the Archangel
 1 Ifnir Deadlands
 2 Ifnir Deadlands
 3 Reality Smasher
 4 Caves of Koilos
-1 Wrath of God
 1 Serra Ascendant
 1 Ranger of Eos
 1 Kami of False Hope
+1 Wrath of God
 1 Day of Judgment
 2 Wrath of God
-2 Serra Ascendant
 2 Ranger of Eos
+2 Serra Ascendant
 3 Ranger of Eos
 4 Ranger of Eos
-1 Sorin, Solemn Visitor
-4 Bitterblossom
 1 Springleaf Drum
 1 Flooded Strand
 1 Colossus Hammer
@@ -168,29 +187,20 @@
 2 Windswept Heath
 2 Steelshaper's Gift
 3 Springleaf Drum
+3 Flooded Strand
 3 Mishra's Bauble
 3 Puresteel Paladin
-3 Flooded Strand
 3 Sigarda's Aid
 3 Memnite
 3 Ornithopter
 3 Colossus Hammer
 3 Steelshaper's Gift
 3 Inkmoth Nexus
+4 Flooded Strand
 4 Mishra's Bauble
 4 Puresteel Paladin
-4 Colossus Hammer
 4 Sigarda's Aid
 4 Ornithopter
 4 Steelshaper's Gift
 4 Inkmoth Nexus
-4 Flooded Strand
-1 Charming Prince
-1 Elite Spellbinder
-1 Cavern of Souls
-2 Elite Spellbinder
-2 Cavern of Souls
-3 Elite Spellbinder
-3 Wasteland Strangler
-5 Plains
-6 Plains
+4 Colossus Hammer

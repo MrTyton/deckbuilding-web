@@ -21,9 +21,9 @@
 2 Blizzard Brawl
 4 Old-Growth Troll
 3 Faceless Haven
-1 Tajuru Blightblade
 1 Fynn, the Fangbearer
 1 Bala Ged Recovery
+1 Tajuru Blightblade
 1 Rune of Might
 1 Ram Through
 1 Moss Viper
@@ -31,24 +31,24 @@
 1 Heroic Intervention
 1 Runed Crown
 1 Icehide Troll
-2 Tajuru Blightblade
 2 Bala Ged Recovery
 2 Fynn, the Fangbearer
+2 Tajuru Blightblade
 2 Rune of Might
 2 Ram Through
 2 Moss Viper
 2 Icehide Troll
 3 Blizzard Brawl
-3 Tajuru Blightblade
 3 Fynn, the Fangbearer
+3 Tajuru Blightblade
 3 Rune of Might
 3 Ram Through
 3 Moss Viper
 3 Icehide Troll
-4 Tajuru Blightblade
 4 Fynn, the Fangbearer
 4 Blizzard Brawl
 4 Rune of Might
+4 Tajuru Blightblade
 4 Moss Viper
 4 Icehide Troll
 4 Ram Through
@@ -75,14 +75,14 @@
 3 Nessian Hornbeetle
 4 Nessian Hornbeetle
 1 Elvish Warmaster
-1 Wildborn Preserver
 1 Jaspera Sentinel
 1 Tyvar Kell
 1 Turntimber Symbiosis
+1 Wildborn Preserver
 1 Llanowar Visionary
 1 Cragplate Baloth
-1 Canopy Tactician
 1 Masked Vandal
+1 Canopy Tactician
 1 Shadowspear
 1 Skyway Sniper
 2 Jaspera Sentinel
@@ -115,8 +115,8 @@
 4 Crawling Barrens
 4 Thrashing Brontodon
 4 Forest
-4 Feasting Troll King
 5 Forest
+6 Forest
 7 Forest
 8 Forest
 9 Forest
@@ -126,4 +126,4 @@
 13 Forest
 14 Forest
 15 Forest
-6 Forest
+4 Feasting Troll King

@@ -1,33 +1,28 @@
+1 Kolaghan's Command
 4 Kaya's Guile
 1 Unmoored Ego
-1 Kolaghan's Command
 1 Mountain
-4 Teferi, Time Raveler
-1 Pillar of the Paruns
-2 Pillar of the Paruns
-1 Island
-1 Nahiri, the Harbinger
-3 Pillar of the Paruns
-2 Verdant Catacombs
 1 Snow-Covered Forest
 1 Snow-Covered Island
+4 Teferi, Time Raveler
 1 Snow-Covered Plains
+1 Pillar of the Paruns
+2 Pillar of the Paruns
+1 Nahiri, the Harbinger
+4 Omnath, Locus of Creation
+2 Verdant Catacombs
+3 Pillar of the Paruns
+1 Island
+2 Assassin's Trophy
 4 Misty Rainforest
 1 Plains
-4 Omnath, Locus of Creation
-2 Assassin's Trophy
 4 Windswept Heath
-1 Abrupt Decay
 2 Nahiri, the Harbinger
-3 Assassin's Trophy
 2 Forest
-1 Swamp
 1 Snow-Covered Mountain
 2 Snow-Covered Forest
 1 Raugrin Triome
 1 Hallowed Fountain
-1 Omen of the Sea
-2 Omen of the Sea
 1 Phantasmal Image
 1 Skyclave Apparition
 1 Charming Prince
@@ -35,6 +30,7 @@
 1 Meddling Mage
 1 Scavenging Ooze
 1 Magus of the Moon
+1 Omen of the Sea
 1 Enigmatic Incarnation
 1 Lurrus of the Dream-Den
 1 Glasspool Mimic
@@ -43,6 +39,7 @@
 1 Spellskite
 2 Skyclave Apparition
 2 Omen of the Forge
+2 Omen of the Sea
 2 Enigmatic Incarnation
 3 Omen of the Sea
 3 Enigmatic Incarnation
@@ -56,11 +53,12 @@
 3 Skyclave Apparition
 3 Spreading Seas
 4 Spreading Seas
+3 Assassin's Trophy
 1 Sacred Foundry
+1 Abrupt Decay
+1 Swamp
 1 Deputy of Detention
 1 Snow-Covered Swamp
-4 Assassin's Trophy
-1 Dreadbore
 1 Living End
 1 Curator of Mysteries
 1 Windcaller Aven
@@ -108,25 +106,27 @@
 2 Scalding Tarn
 2 Brazen Borrower
 3 Scalding Tarn
+4 Assassin's Trophy
 2 Botanical Sanctum
 3 Brazen Borrower
-2 Lurrus of the Dream-Den
 1 Mana Confluence
-1 Glassdust Hulk
-4 Wooded Foothills
-4 Scalding Tarn
-4 Brazen Borrower
-2 Glassdust Hulk
+2 Lurrus of the Dream-Den
 3 Birds of Paradise
+4 Brazen Borrower
+1 Glassdust Hulk
+4 Scalding Tarn
+4 Wooded Foothills
+1 Dreadbore
+2 Glassdust Hulk
 1 Kitchen Finks
 3 Snow-Covered Forest
 1 Eternal Witness
-1 Knight of Autumn
 1 Inspiring Vantage
-1 Deafening Clarion
 1 Ephemerate
-1 Uro, Titan of Nature's Wrath
+1 Knight of Autumn
+1 Deafening Clarion
 1 Fulminator Mage
+1 Uro, Titan of Nature's Wrath
 1 On Thin Ice
 1 Seasoned Pyromancer
 4 Skyclave Apparition
@@ -136,6 +136,9 @@
 1 Sword of Feast and Famine
 2 Stoneforge Mystic
 3 Stoneforge Mystic
+1 Unearth
+2 Ephemerate
+3 Ephemerate
 1 As Foretold
 4 Living End
 1 Goblin Cratermaker
@@ -143,10 +146,8 @@
 4 Stoneforge Mystic
 2 Valki, God of Lies
 1 Sword of Fire and Ice
-1 Unearth
-2 Ephemerate
-3 Ephemerate
 1 Trial of Ambition
+1 Vanishing Verse
 2 Temple Garden
 1 Eidolon of Rhetoric
 2 As Foretold
@@ -173,13 +174,10 @@
 4 Spirebluff Canal
 4 Remand
 4 Crashing Footfalls
-2 Abrupt Decay
 1 Felidar Guardian
 1 Saheeli Rai
 1 Zagoth Triome
-1 Vanishing Verse
 1 Ice-Fang Coatl
-4 Niv-Mizzet Reborn
 3 Forest
 4 Birds of Paradise
 1 Oath of Nissa
@@ -190,22 +188,26 @@
 3 Felidar Guardian
 3 Oath of Nissa
 1 Cryptic Command
+2 Abrupt Decay
 1 Seachrome Coast
 1 Spell Pierce
 1 Tolaria West
 2 Spell Pierce
 3 Spell Pierce
+1 Mystical Dispute
 1 Architects of Will
 2 Architects of Will
 1 Path to Exile
 2 Path to Exile
 1 Calix, Destiny's Hand
+4 Niv-Mizzet Reborn
 2 Uro, Titan of Nature's Wrath
 2 Lithoform Blight
 3 Lithoform Blight
 4 Lithoform Blight
 1 Path to the World Tree
 2 Path to the World Tree
+1 Prismari Command
 1 Voice of Resurgence
 1 Kaya, Orzhov Usurper
 1 Waker of Waves
@@ -215,7 +217,6 @@
 4 Waker of Waves
 4 Oath of Nissa
 1 Ancestral Vision
-1 Mystical Dispute
 3 Glassdust Hulk
 4 Glassdust Hulk
 1 Lightning Bolt
@@ -246,12 +247,9 @@
 1 Spike Feeder
 1 Heliod, Sun-Crowned
 1 Omen of the Dead
-1 Prismari Command
+2 Vanishing Verse
 2 Prismari Command
 3 Prismari Command
-1 Ashiok, Dream Render
-1 Binding the Old Gods
-3 Abrupt Decay
 1 Klothys, God of Destiny
 1 Golos, Tireless Pilgrim
 1 Huntmaster of the Fells
@@ -265,6 +263,8 @@
 2 Valakut Awakening
 1 Savai Triome
 2 Dreadbore
+1 Gemstone Caverns
+2 Gemstone Caverns
 2 Mystical Dispute
 1 Commandeer
 2 Commandeer

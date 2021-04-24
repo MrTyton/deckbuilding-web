@@ -1,15 +1,15 @@
+2 Toski, Bearer of Secrets
+3 Elder Gargaroth
 1 Rankle, Master of Pranks
 2 Rankle, Master of Pranks
 3 Temple of Malady
 3 Heartless Act
 1 Woodland Chasm
-1 Jungle Hollow
-2 Jungle Hollow
-2 Woodland Chasm
 1 Snow-Covered Forest
 1 Snow-Covered Swamp
 2 Snow-Covered Forest
 2 Snow-Covered Swamp
+2 Woodland Chasm
 3 Snow-Covered Forest
 3 Snow-Covered Swamp
 3 Woodland Chasm
@@ -20,26 +20,27 @@
 5 Snow-Covered Swamp
 6 Snow-Covered Forest
 6 Snow-Covered Swamp
+1 Polukranos, Unchained
+1 Elderfang Disciple
 1 Llanowar Visionary
+2 Elderfang Disciple
 2 Llanowar Visionary
+3 Elderfang Disciple
 3 Llanowar Visionary
 4 Llanowar Visionary
-1 Harald, King of Skemfar
-2 Harald, King of Skemfar
-1 Elderfang Disciple
-2 Elderfang Disciple
-3 Elderfang Disciple
 4 Elderfang Disciple
-1 Oakhame Adversary
-1 Polukranos, Unchained
+1 Jungle Hollow
+2 Jungle Hollow
 1 Sculptor of Winter
 1 Skemfar Avenger
+1 Harald, King of Skemfar
 1 Grasp of Darkness
 1 Return Upon the Tide
 1 Harald Unites the Elves
 1 Boreal Outrider
 1 Thornmantle Striker
 2 Sculptor of Winter
+2 Harald, King of Skemfar
 2 Boreal Outrider
 2 Grasp of Darkness
 3 Sculptor of Winter
@@ -52,24 +53,19 @@
 8 Snow-Covered Forest
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
-1 Indatha Triome
-2 Indatha Triome
-3 Indatha Triome
-4 Indatha Triome
-5 Swamp
-7 Forest
-8 Forest
-9 Forest
 2 Eliminate
+5 Forest
+6 Forest
 2 Scavenging Ooze
 3 Scavenging Ooze
 1 Questing Beast
 1 Gemrazer
 2 Gemrazer
 3 Gemrazer
+2 Castle Locthwain
+1 Oakhame Adversary
 1 Joraga Visionary
 2 Joraga Visionary
-2 Castle Locthwain
 1 Elvish Warmaster
 1 Chevill, Bane of Monsters
 1 Fynn, the Fangbearer
@@ -78,26 +74,29 @@
 3 Jungle Hollow
 4 Fynn, the Fangbearer
 4 Jungle Hollow
+5 Swamp
 6 Swamp
-1 Tajuru Blightblade
-2 Oakhame Adversary
-2 Tajuru Blightblade
-3 Tajuru Blightblade
-3 Oakhame Adversary
-4 Tajuru Blightblade
+7 Forest
+8 Forest
+9 Forest
 1 Vorinclex, Monstrous Raider
 2 Vorinclex, Monstrous Raider
-10 Forest
 1 Evolving Wilds
 1 Extinction Event
 1 Ranger's Guile
 1 Wildborn Preserver
 1 Feed the Swarm
 1 Fully Grown
+1 Tajuru Blightblade
 1 Withercrown
+2 Oakhame Adversary
 2 Feed the Swarm
 2 Fully Grown
+2 Tajuru Blightblade
+3 Tajuru Blightblade
+3 Oakhame Adversary
 3 Fully Grown
+4 Tajuru Blightblade
 4 Oakhame Adversary
 7 Swamp
 8 Swamp
@@ -145,10 +144,10 @@
 2 Skemfar Shadowsage
 4 Boreal Outrider
 1 Mire Triton
-1 Egon, God of Death
 1 Call of the Death-Dweller
-1 Hooded Blightfang
+1 Egon, God of Death
 1 Moss Viper
+1 Hooded Blightfang
 1 The Binding of the Titans
 2 Mire Triton
 2 Call of the Death-Dweller
@@ -164,6 +163,13 @@
 4 Mire Triton
 4 Moss Viper
 4 Hooded Blightfang
+1 Realmwalker
+1 Masked Vandal
+1 Wolfwillow Haven
+2 Wolfwillow Haven
+3 Wolfwillow Haven
+9 Snow-Covered Forest
+10 Snow-Covered Swamp
 1 Tangled Florahedron
 1 Stonecoil Serpent
 1 Bonders' Enclave
@@ -178,40 +184,12 @@
 2 Stonecoil Serpent
 2 Tangled Florahedron
 2 Snakeskin Veil
-2 Skyclave Shade
 2 Castle Garenbrig
+2 Skyclave Shade
 2 Primal Might
 2 Swarm Shambler
 3 Stonecoil Serpent
 3 Castle Garenbrig
 4 Stonecoil Serpent
+10 Forest
 4 Gemrazer
-1 Realmwalker
-1 Masked Vandal
-1 Wolfwillow Haven
-2 Wolfwillow Haven
-3 Wolfwillow Haven
-9 Snow-Covered Forest
-10 Snow-Covered Swamp
-1 Sarulf's Packmate
-1 Garruk's Uprising
-1 Wildwood Patrol
-1 Battle Mammoth
-1 Ram Through
-1 Keeper of Fables
-1 Feed the Serpent
-1 Fiend Artisan
-1 Greater Sandwurm
-1 Gnottvold Recluse
-2 Sarulf's Packmate
-2 Keeper of Fables
-2 Ram Through
-2 Feed the Serpent
-2 Greater Sandwurm
-3 Sarulf's Packmate
-3 Keeper of Fables
-11 Forest
-12 Forest
-13 Forest
-14 Forest
-4 Keeper of Fables

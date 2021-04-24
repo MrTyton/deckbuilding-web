@@ -1,37 +1,22 @@
+1 Temple of Enlightenment
 1 Plains
+2 Cosima, God of the Voyage
+2 Charming Prince
 2 Plains
+3 Charming Prince
 3 Plains
+4 Charming Prince
 4 Plains
 5 Plains
 6 Plains
 7 Plains
 8 Plains
-1 Cosima, God of the Voyage
-1 Charming Prince
-1 Temple of Enlightenment
-2 Cosima, God of the Voyage
-2 Charming Prince
-3 Charming Prince
-4 Charming Prince
 9 Plains
 10 Plains
 11 Plains
 12 Plains
-1 The Raven's Warning
-1 Tranquil Cove
-1 Brazen Borrower
-2 Tranquil Cove
-2 Island
-3 Island
-4 Island
-5 Island
-6 Island
-7 Island
-8 Island
-9 Island
-10 Island
-11 Island
 1 Barrin, Tolarian Archmage
+1 The Raven's Warning
 1 Niambi, Esteemed Speaker
 1 The Birth of Meletis
 1 Midnight Clock
@@ -42,15 +27,19 @@
 1 Doomskar
 1 Yorion, Sky Nomad
 1 Depart the Realm
+1 Tranquil Cove
+1 Brazen Borrower
 1 Saw It Coming
 1 Dream Trawler
 1 Niko Aris
 2 Barrin, Tolarian Archmage
+2 Tranquil Cove
 2 The Birth of Meletis
 2 Shark Typhoon
 2 Dream Trawler
 2 Niambi, Esteemed Speaker
 2 Brazen Borrower
+2 Island
 2 Saw It Coming
 2 Yorion, Sky Nomad
 2 Doomskar
@@ -63,15 +52,26 @@
 3 Cosima, God of the Voyage
 3 Elspeth Conquers Death
 3 Brazen Borrower
+3 Island
 3 Yorion, Sky Nomad
 4 The Birth of Meletis
 4 Elspeth Conquers Death
 4 Brazen Borrower
+4 Island
+5 Island
+6 Island
+7 Island
+8 Island
+9 Island
+10 Island
+11 Island
 1 Kabira Takedown
+1 Sejiri Shelter
 1 Faceless Haven
 1 Drannith Magistrate
 1 Glacial Floodplain
 1 Ravenform
+1 Reidane, God of the Worthy
 1 Lurrus of the Dream-Den
 1 Lavabrink Venturer
 2 Drannith Magistrate
@@ -91,14 +91,6 @@
 4 Fabled Passage
 12 Snow-Covered Plains
 13 Snow-Covered Plains
-1 Usher of the Fallen
-1 Sentinel's Eyes
-2 Usher of the Fallen
-2 Shadowspear
-3 Usher of the Fallen
-4 Maul of the Skyclaves
-6 Snow-Covered Island
-7 Snow-Covered Island
 1 Speaker of the Heavens
 1 Daxos, Blessed by the Sun
 1 Heliod, Sun-Crowned
@@ -123,36 +115,11 @@
 4 Alseid of Life's Bounty
 13 Plains
 14 Plains
-1 Battlefield Raptor
-1 Daybreak Chimera
-1 Into the Roil
-1 Stern Dismissal
-1 Lofty Denial
-1 Jubilant Skybonder
-1 Watcher of the Spheres
-1 Ardenvale Tactician
-1 Hypnotic Sprite
-1 Tide Skimmer
-1 Skycat Sovereign
-1 Gust of Wind
-1 Vexing Gull
-2 Battlefield Raptor
-2 Daybreak Chimera
-2 Lofty Denial
-2 Into the Roil
-2 Stern Dismissal
-2 Watcher of the Spheres
-2 Tide Skimmer
-2 Jubilant Skybonder
-2 Gust of Wind
-2 Vexing Gull
-3 Battlefield Raptor
-3 Lofty Denial
-3 Tranquil Cove
-3 Jubilant Skybonder
-3 Watcher of the Spheres
-4 Battlefield Raptor
-4 Lofty Denial
-4 Jubilant Skybonder
-4 Tranquil Cove
-4 Watcher of the Spheres
+1 Usher of the Fallen
+1 Sentinel's Eyes
+2 Usher of the Fallen
+2 Shadowspear
+3 Usher of the Fallen
+6 Snow-Covered Island
+7 Snow-Covered Island
+4 Maul of the Skyclaves
