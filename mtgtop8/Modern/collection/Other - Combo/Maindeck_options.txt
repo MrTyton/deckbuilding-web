@@ -18,7 +18,6 @@
 1 Merchant Scroll
 1 Peer Through Depths
 2 Sleight of Hand
-2 Lonely Sandbar
 2 Psychic Puppetry
 2 Island
 2 Dream's Grip
@@ -27,6 +26,7 @@
 2 Lotus Field
 2 Tolaria West
 2 Ideas Unbound
+2 Lonely Sandbar
 2 Past in Flames
 2 Twiddle
 3 Sleight of Hand
@@ -71,33 +71,33 @@
 1 Valakut Awakening
 2 Valakut Awakening
 1 Lightning Bolt
-1 Spikefield Hazard
 1 Bala Ged Recovery
+1 Spikefield Hazard
+1 Irencrag Feat
 1 Recross the Paths
 1 Manamorphose
 1 Reforge the Soul
 1 Desperate Ritual
 1 Pyretic Ritual
 1 Infernal Plunge
-1 Irencrag Feat
 1 Ornithopter
 1 Talisman of Impulse
 2 Spikefield Hazard
 2 Bala Ged Recovery
-2 Pyretic Ritual
 2 Irencrag Feat
+2 Pyretic Ritual
 2 Manamorphose
 2 Recross the Paths
 2 Talisman of Impulse
 2 Desperate Ritual
 3 Valakut Awakening
 3 Spikefield Hazard
+3 Irencrag Feat
 3 Manamorphose
 3 Talisman of Impulse
 3 Recross the Paths
 3 Desperate Ritual
 3 Bala Ged Recovery
-3 Irencrag Feat
 3 Pyretic Ritual
 4 Valakut Awakening
 4 Spikefield Hazard
@@ -147,10 +147,10 @@
 2 Stomping Ground
 1 Ketria Triome
 1 Jace, the Mind Sculptor
+1 Velomachus Lorehold
 1 Time Warp
 1 Chalice of the Void
 1 Wrenn and Six
-1 Velomachus Lorehold
 1 Omen of the Sea
 1 Growth Spiral
 1 Fires of Invention
@@ -159,6 +159,7 @@
 1 Savor the Moment
 2 Sacred Foundry
 2 Jace, the Mind Sculptor
+2 Velomachus Lorehold
 2 Time Warp
 2 Chalice of the Void
 2 Bloodstained Mire
@@ -166,7 +167,6 @@
 2 Tamiyo, Collector of Tales
 2 Savor the Moment
 2 Omen of the Sea
-2 Velomachus Lorehold
 2 Growth Spiral
 2 Wrenn and Six
 3 Omen of the Sea
@@ -273,6 +273,17 @@
 4 Polymorph
 3 Hagra Mauling
 4 Hagra Mauling
+1 Unburial Rites
+1 Open the Omenpaths
+1 Talisman of Indulgence
+1 Chancellor of the Tangle
+2 Talisman of Indulgence
+2 Chancellor of the Tangle
+2 Open the Omenpaths
+3 Open the Omenpaths
+3 Talisman of Indulgence
+4 Open the Omenpaths
+4 Talisman of Indulgence
 1 Phyrexian Unlife
 1 Angel's Grace
 1 Spoils of the Vault
@@ -310,17 +321,6 @@
 4 Talisman of Dominance
 4 Thassa's Oracle
 4 Inverter of Truth
-1 Unburial Rites
-1 Open the Omenpaths
-1 Talisman of Indulgence
-1 Chancellor of the Tangle
-2 Talisman of Indulgence
-2 Chancellor of the Tangle
-2 Open the Omenpaths
-3 Open the Omenpaths
-3 Talisman of Indulgence
-4 Talisman of Indulgence
-4 Open the Omenpaths
 1 Karn, the Great Creator
 1 Arbor Elf
 1 Chandra, Torch of Defiance

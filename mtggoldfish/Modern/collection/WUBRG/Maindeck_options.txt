@@ -23,6 +23,7 @@
 2 Snow-Covered Forest
 1 Raugrin Triome
 1 Hallowed Fountain
+1 Omen of the Sea
 1 Phantasmal Image
 1 Skyclave Apparition
 1 Charming Prince
@@ -30,16 +31,15 @@
 1 Meddling Mage
 1 Scavenging Ooze
 1 Magus of the Moon
-1 Omen of the Sea
 1 Enigmatic Incarnation
 1 Lurrus of the Dream-Den
 1 Glasspool Mimic
 1 Omen of the Forge
 1 Brain Maggot
 1 Spellskite
+2 Omen of the Sea
 2 Skyclave Apparition
 2 Omen of the Forge
-2 Omen of the Sea
 2 Enigmatic Incarnation
 3 Omen of the Sea
 3 Enigmatic Incarnation
@@ -226,10 +226,10 @@
 6 Island
 1 Imposing Vantasaur
 2 Seachrome Coast
+1 Shadows' Verdict
 1 Thoughtseize
 1 Fatal Push
 1 Glittering Wish
-1 Shadows' Verdict
 2 Thoughtseize
 2 Fatal Push
 2 Glittering Wish
@@ -250,9 +250,9 @@
 2 Vanishing Verse
 2 Prismari Command
 3 Prismari Command
-1 Klothys, God of Destiny
 1 Golos, Tireless Pilgrim
 1 Huntmaster of the Fells
+1 Klothys, God of Destiny
 2 Stomping Ground
 4 Felidar Guardian
 3 Omen of the Forge
@@ -268,9 +268,9 @@
 2 Mystical Dispute
 1 Commandeer
 2 Commandeer
+3 Hallowed Fountain
 2 Snow-Covered Island
 3 Snow-Covered Island
-3 Hallowed Fountain
 1 Lotus Cobra
 1 Jace, the Mind Sculptor
 1 Sun Titan
@@ -300,9 +300,9 @@
 3 Adarkar Wastes
 3 Imposing Vantasaur
 4 Seachrome Coast
+4 Polluted Delta
 4 Imposing Vantasaur
 4 Adarkar Wastes
-4 Polluted Delta
 1 Glacial Fortress
 2 Glacial Fortress
 2 Cryptic Command

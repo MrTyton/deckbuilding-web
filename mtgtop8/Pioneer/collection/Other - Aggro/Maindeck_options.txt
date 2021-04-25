@@ -66,8 +66,8 @@
 1 Hydroid Krasis
 2 Hydroid Krasis
 2 Nissa, Who Shakes the World
-3 Hydroid Krasis
 3 Nissa, Who Shakes the World
+3 Hydroid Krasis
 4 Fatal Push
 1 Bonecrusher Giant
 1 Stomping Ground
@@ -87,8 +87,8 @@
 1 Reflector Mage
 1 Mana Confluence
 1 Charming Prince
-2 Reflector Mage
 2 Mana Confluence
+2 Reflector Mage
 2 Charming Prince
 3 Reflector Mage
 3 Charming Prince
@@ -143,44 +143,17 @@
 4 Pyre of Heroes
 4 Archfiend's Vessel
 4 Unclaimed Territory
-1 Botanical Sanctum
-2 Botanical Sanctum
-3 Botanical Sanctum
-1 Glasspool Mimic
-1 Hallowed Fountain
-1 Hengegate Pathway
-1 Militia Bugler
-1 Oketra's Monument
-2 Hallowed Fountain
-2 Hengegate Pathway
-2 Glasspool Mimic
-2 Militia Bugler
-2 Selfless Spirit
-2 Oketra's Monument
-3 Hengegate Pathway
-3 Selfless Spirit
-3 Hallowed Fountain
-3 Oketra's Monument
-3 Militia Bugler
-4 Hengegate Pathway
-4 Selfless Spirit
-4 Hallowed Fountain
-4 Charming Prince
-4 Skyclave Apparition
-4 Militia Bugler
-4 Oketra's Monument
-4 Reflector Mage
 1 Lightning Strike
 2 Lightning Strike
 3 Lightning Strike
 1 Bonders' Enclave
-1 Scavenger Grounds
 1 Nimble Obstructionist
 1 Embercleave
 1 Klothys, God of Destiny
 1 Stubborn Denial
 1 Boon Satyr
 1 Shivan Reef
+1 Scavenger Grounds
 1 Cragcrown Pathway
 1 Reduce / Rubble
 2 Shivan Reef
@@ -224,6 +197,33 @@
 4 Call of the Conclave
 4 Starnheim Unleashed
 4 Esika's Chariot
+1 Botanical Sanctum
+2 Botanical Sanctum
+3 Botanical Sanctum
+1 Glasspool Mimic
+1 Hengegate Pathway
+1 Militia Bugler
+1 Hallowed Fountain
+1 Oketra's Monument
+2 Hengegate Pathway
+2 Glasspool Mimic
+2 Militia Bugler
+2 Selfless Spirit
+2 Hallowed Fountain
+2 Oketra's Monument
+3 Hengegate Pathway
+3 Selfless Spirit
+3 Hallowed Fountain
+3 Oketra's Monument
+3 Militia Bugler
+4 Hengegate Pathway
+4 Selfless Spirit
+4 Skyclave Apparition
+4 Charming Prince
+4 Militia Bugler
+4 Oketra's Monument
+4 Reflector Mage
+4 Hallowed Fountain
 1 Mountain
 1 Glorybringer
 2 Glorybringer
@@ -242,14 +242,14 @@
 2 Edgewall Innkeeper
 2 The Great Henge
 2 Ketria Triome
-3 Alrund's Epiphany
 3 Rootbound Crag
 3 Brazen Borrower
+3 Alrund's Epiphany
 3 Ketria Triome
 3 Edgewall Innkeeper
 3 Steam Vents
-4 Nissa, Who Shakes the World
 4 Brazen Borrower
+4 Nissa, Who Shakes the World
 4 Rootbound Crag
 4 Ketria Triome
 4 Edgewall Innkeeper
@@ -277,12 +277,12 @@
 1 Shambling Vent
 2 Savai Triome
 2 Isolated Chapel
-2 Castle Ardenvale
 2 Blood Crypt
 2 Magmatic Channeler
 2 Gideon, Ally of Zendikar
 2 Heartless Act
 2 History of Benalia
+2 Castle Ardenvale
 2 Shambling Vent
 2 Utter End
 2 Crackling Doom
@@ -413,8 +413,8 @@
 1 Lyra Dawnbringer
 2 Sorin, Vengeful Bloodlord
 2 Shalai, Voice of Plenty
-2 Speaker of the Heavens
 2 Righteous Valkyrie
+2 Speaker of the Heavens
 2 Mazemind Tome
 2 Lyra Dawnbringer
 2 Resplendent Angel
@@ -422,8 +422,8 @@
 2 Vito, Thorn of the Dusk Rose
 2 Bishop of Wings
 3 Shalai, Voice of Plenty
-3 Speaker of the Heavens
 3 Righteous Valkyrie
+3 Speaker of the Heavens
 3 Mazemind Tome
 3 Sorin, Vengeful Bloodlord
 3 Bishop of Wings

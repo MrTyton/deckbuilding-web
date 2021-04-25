@@ -1,17 +1,16 @@
-5 Island
-2 Behold the Multiverse
-1 Field of Ruin
 2 Clearwater Pathway
+2 Behold the Multiverse
+5 Island
 1 Bloodchief's Thirst
+1 Field of Ruin
 1 Extinction Event
 1 Eliminate
-1 Thassa's Intervention
 1 Blast Zone
 1 Baleful Mastery
 1 Rewind
-2 Negate
+1 Thassa's Intervention
 3 Behold the Multiverse
-2 Field of Ruin
+2 Negate
 3 Clearwater Pathway
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
@@ -19,10 +18,11 @@
 2 Thoughtseize
 3 Swamp
 1 Silundi Vision
-1 Geier Reach Sanitarium
 1 Day's Undoing
+1 Geier Reach Sanitarium
 3 Thoughtseize
 4 Thoughtseize
+2 Field of Ruin
 1 Thing in the Ice
 2 Thing in the Ice
 2 Cling to Dust
@@ -31,6 +31,7 @@
 1 Hieroglyphic Illumination
 4 Clearwater Pathway
 2 Bloodchief's Thirst
+1 Sublime Epiphany
 1 Kalitas, Traitor of Ghet
 3 Narset, Parter of Veils
 2 Rewind
@@ -38,20 +39,22 @@
 2 Silundi Vision
 2 Hero's Downfall
 2 Hieroglyphic Illumination
-1 Sublime Epiphany
 1 Ugin, the Spirit Dragon
 1 Radiant Fountain
 2 Thassa's Intervention
 2 Castle Locthwain
-1 Breeding Pool
-1 Overgrown Tomb
 1 Abrupt Decay
 1 Zagoth Triome
 1 Forest
-2 Overgrown Tomb
 2 Zagoth Triome
 3 Zagoth Triome
 4 Zagoth Triome
+3 Torrential Gearhulk
+4 Torrential Gearhulk
+1 Breeding Pool
+1 Overgrown Tomb
+2 Overgrown Tomb
+2 Abrupt Decay
 2 Blast Zone
 2 Radiant Fountain
 1 Collective Brutality
@@ -61,22 +64,18 @@
 1 Blightstep Pathway
 2 Magma Opus
 3 Magma Opus
-3 Torrential Gearhulk
-4 Torrential Gearhulk
 1 Vraska's Contempt
 2 Baleful Mastery
 1 Eureka Moment
 1 Pull from Tomorrow
 2 Eureka Moment
 2 Breeding Pool
-2 Abrupt Decay
 3 Eureka Moment
 4 Narset, Parter of Veils
+1 Growth Spiral
 1 Flunk
 1 Commit/Memory
 2 Extinction Event
-1 Jace, Architect of Thought
-2 Jace, Architect of Thought
 1 Mutavault
 1 Port of Karfell
 1 Void Shatter
@@ -84,11 +83,11 @@
 2 Void Shatter
 1 Ashiok, Nightmare Muse
 2 Ashiok, Nightmare Muse
+3 Overgrown Tomb
+3 Hieroglyphic Illumination
 1 Neutralize
 3 Negate
 3 Baleful Mastery
-3 Overgrown Tomb
-3 Hieroglyphic Illumination
 1 Assassin's Trophy
 1 Garruk, Cursed Huntsman
 2 Assassin's Trophy
@@ -101,14 +100,13 @@
 1 Bring to Light
 1 Brazen Borrower
 1 Notion Thief
-1 Growth Spiral
 1 Sylvan Caryatid
 1 Drown in the Loch
 1 Hinterland Harbor
 1 Valki, God of Lies
 2 Bring to Light
-2 Brazen Borrower
 2 Day's Undoing
+2 Brazen Borrower
 2 Valki, God of Lies
 2 Sylvan Caryatid
 2 Drown in the Loch
@@ -116,3 +114,21 @@
 3 Sylvan Caryatid
 4 Bring to Light
 4 Sylvan Caryatid
+1 Saw It Coming
+1 Supreme Will
+1 Darkbore Pathway
+1 Lumbering Falls
+1 Sultai Charm
+1 Barkchannel Pathway
+2 Saw It Coming
+2 Supreme Will
+2 Sublime Epiphany
+2 Lumbering Falls
+2 Sultai Charm
+2 Growth Spiral
+2 Darkbore Pathway
+2 Barkchannel Pathway
+3 Barkchannel Pathway
+3 Growth Spiral
+4 Growth Spiral
+4 Barkchannel Pathway

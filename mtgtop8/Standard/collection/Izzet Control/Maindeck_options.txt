@@ -1,6 +1,5 @@
 2 Alrund's Epiphany
 4 Snow-Covered Mountain
-1 Mystical Dispute
 1 Mountain
 5 Snow-Covered Mountain
 4 Volatile Fjord
@@ -11,6 +10,7 @@
 3 Cosmos Charger
 6 Snow-Covered Mountain
 8 Snow-Covered Island
+1 Mystical Dispute
 1 Sprite Dragon
 2 Sprite Dragon
 3 Sprite Dragon
@@ -71,9 +71,9 @@
 9 Snow-Covered Island
 10 Snow-Covered Island
 4 Opt
+1 Blitz of the Thunder-Raptor
 1 Irencrag Pyromancer
 1 Jace, Mirror Mage
-1 Blitz of the Thunder-Raptor
 2 Blitz of the Thunder-Raptor
 3 Blitz of the Thunder-Raptor
 1 The Royal Scions
@@ -85,11 +85,11 @@
 2 Lofty Denial
 3 Lofty Denial
 1 Temple of Enlightenment
+1 Inspired Ultimatum
 1 Raugrin Triome
 1 Dream Trawler
 1 Doomskar
 1 Hengegate Pathway
-1 Inspired Ultimatum
 1 Elspeth Conquers Death
 1 Plains
 1 Needleverge Pathway
@@ -103,8 +103,8 @@
 3 Soul Sear
 3 Elspeth Conquers Death
 3 Dream Trawler
-3 Raugrin Triome
 3 Jwari Disruption
+3 Raugrin Triome
 3 Doomskar
 3 Needleverge Pathway
 3 Hengegate Pathway
@@ -114,11 +114,11 @@
 4 Doomskar
 4 Hengegate Pathway
 4 Needleverge Pathway
+1 Terror of the Peaks
 1 Sublime Epiphany
 1 Invasion of the Giants
 1 Reflections of Littjara
 1 Castle Embereth
-1 Terror of the Peaks
 2 Sublime Epiphany
 2 Invasion of the Giants
 2 Reflections of Littjara
@@ -128,10 +128,10 @@
 3 Reflections of Littjara
 3 Essence Scatter
 3 Terror of the Peaks
-1 Reject
-2 Reject
 1 Glimpse the Cosmos
 2 Glimpse the Cosmos
+1 Reject
+2 Reject
 1 Expressive Iteration
 2 Expressive Iteration
 2 Mystical Dispute
@@ -144,43 +144,43 @@
 3 Seize the Spoils
 3 Double Vision
 4 Seize the Spoils
-1 Ice Tunnel
-1 Cling to Dust
-1 Ashiok, Nightmare Muse
-1 Sulfurous Mire
-1 Feed the Swarm
-2 Ice Tunnel
-2 Feed the Swarm
-2 Sulfurous Mire
-3 Ice Tunnel
-4 Lofty Denial
-1 Reconnaissance Mission
 1 Stormwing Entity
 1 Faerie Vandal
 1 Aegar, the Freezing Flame
 1 Windrider Wizard
 1 Swiftwater Cliffs
 1 Demon Bolt
+1 Reconnaissance Mission
 1 Goblin Wizardry
+2 Swiftwater Cliffs
 2 Faerie Vandal
 2 Aegar, the Freezing Flame
 2 Demon Bolt
-2 Swiftwater Cliffs
 3 Faerie Vandal
 3 Swiftwater Cliffs
 4 Swiftwater Cliffs
-1 Creative Outburst
+1 Sulfurous Mire
+1 Ice Tunnel
+1 Cling to Dust
+1 Ashiok, Nightmare Muse
+1 Feed the Swarm
+2 Sulfurous Mire
+2 Ice Tunnel
+2 Feed the Swarm
+3 Ice Tunnel
+4 Lofty Denial
 1 Draconic Intervention
+1 Creative Outburst
 1 Torrent Sculptor
-2 Creative Outburst
 2 Draconic Intervention
+2 Creative Outburst
 2 Prismari Command
 2 Torrent Sculptor
 3 Prismari Command
 3 Torrent Sculptor
 3 Draconic Intervention
-4 Draconic Intervention
 4 Prismari Command
+4 Draconic Intervention
 4 Torrent Sculptor
 6 Mountain
 1 Shock
@@ -193,8 +193,8 @@
 4 Shock
 7 Island
 1 Teferi, Master of Time
-1 Ravenform
 1 Cancel
+1 Ravenform
 2 Ravenform
 2 Cancel
 3 Ravenform

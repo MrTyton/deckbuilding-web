@@ -81,8 +81,8 @@
 |                    4|[Prismatic Vista](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464193)     |                     |                                                                                                |
 |                    4|[Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464001)   |                     |                                                                                                |
 |                    4|[Phantasmal Image](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220099)    |                     |                                                                                                |
-|                    4|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)              |                     |                                                                                                |
+|                    1|[Glasspool Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491688)     |                     |                                                                                                |
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                     |                                                                                                |
 |                    3|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603) |                     |                                                                                                |
-|                    1|[Glasspool Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491688)     |                     |                                                                                                |
+|                    4|[Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=451051)              |                     |                                                                                                |
 

@@ -18,10 +18,10 @@
 3 Oko, Thief of Crowns
 4 Abrupt Decay
 1 Force of Negation
+1 Life from the Loam
 1 Field of the Dead
 1 Karakas
 1 Wasteland
-1 Life from the Loam
 2 Flooded Strand
 2 Fatal Push
 2 Wasteland
@@ -32,25 +32,25 @@
 3 Uro, Titan of Nature's Wrath
 2 Force of Negation
 1 Ishkanah, Grafwidow
-1 Baleful Strix
 1 Island
+1 Baleful Strix
 2 Baleful Strix
 3 Baleful Strix
 4 Baleful Strix
 1 Badlands
 1 Bloodstained Mire
 1 Kolaghan's Command
-1 Swamp
 1 Fae of Wishes
+1 Swamp
 1 Hullbreacher
 1 Dack Fayden
 1 Grove of the Burnwillows
 1 Echo of Eons
 1 Punishing Fire
+2 Dack Fayden
 2 Hullbreacher
 2 Island
 2 Kolaghan's Command
-2 Dack Fayden
 2 Grove of the Burnwillows
 2 Volcanic Island
 3 Scalding Tarn
@@ -78,8 +78,9 @@
 2 Tamiyo, Collector of Tales
 2 Field of the Dead
 2 Sylvan Library
-1 Treacherous Blessing
-2 Treacherous Blessing
+1 Kroxa, Titan of Death's Hunger
+2 Punishing Fire
+3 Grove of the Burnwillows
 1 Thassa's Oracle
 3 Tropical Island
 4 Snow-Covered Island
@@ -89,6 +90,5 @@
 2 Abundant Growth
 3 Abundant Growth
 4 Abundant Growth
-1 Kroxa, Titan of Death's Hunger
-2 Punishing Fire
-3 Grove of the Burnwillows
+1 Treacherous Blessing
+2 Treacherous Blessing
