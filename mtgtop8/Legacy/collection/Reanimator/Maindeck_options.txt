@@ -1,74 +1,15 @@
+1 Verdant Catacombs
 1 Bayou
-1 Chrome Mox
-2 Swamp
-2 Chrome Mox
 4 Polluted Delta
-1 Brainstorm
-1 Tropical Island
-1 Ponder
-1 Underground Sea
-1 Force of Will
-2 Ponder
-2 Brainstorm
-2 Force of Will
-3 Force of Will
-3 Brainstorm
-3 Ponder
-4 Force of Will
-4 Brainstorm
-1 Punishing Fire
-1 Grove of the Burnwillows
-1 Drown in the Loch
-1 Snow-Covered Swamp
-1 Uro, Titan of Nature's Wrath
-1 Karakas
-1 Hullbreacher
-1 Fatal Push
-1 Crop Rotation
-1 Snapcaster Mage
-1 Worldgorger Dragon
-1 Cling to Dust
-1 Dack Fayden
-1 Ice-Fang Coatl
-1 Dance of the Dead
-1 Snow-Covered Forest
-1 Necromancy
-1 Snow-Covered Island
-1 Abundant Growth
-1 Echo of Eons
-1 Misty Rainforest
-1 Volcanic Island
-1 Assassin's Trophy
-2 Snow-Covered Island
-2 Snow-Covered Forest
-2 Ice-Fang Coatl
-2 Hullbreacher
-2 Assassin's Trophy
-2 Dack Fayden
-2 Abundant Growth
-2 Misty Rainforest
-3 Misty Rainforest
-3 Abundant Growth
-4 Abundant Growth
-4 Misty Rainforest
-2 Marsh Flats
-2 Verdant Catacombs
-3 Verdant Catacombs
 1 Cabal Therapy
-2 Cabal Therapy
-1 Iona, Shield of Emeria
+1 Chrome Mox
 1 Children of Korlis
-1 Notion Thief
-1 Mountain
-4 Ponder
-1 Duress
-2 Duress
-1 Putrid Imp
-1 Tendrils of Agony
-2 Putrid Imp
-3 Putrid Imp
+2 Marsh Flats
+1 Iona, Shield of Emeria
+2 Cabal Therapy
+2 Chrome Mox
+1 Collective Brutality
 3 Swamp
-3 Cabal Therapy
 4 Swamp
 5 Swamp
 6 Swamp
@@ -76,30 +17,74 @@
 8 Swamp
 9 Swamp
 10 Swamp
+1 Snow-Covered Swamp
+1 Punishing Fire
+1 Grove of the Burnwillows
+1 Drown in the Loch
+1 Uro, Titan of Nature's Wrath
+1 Karakas
+1 Hullbreacher
+1 Fatal Push
+1 Crop Rotation
+1 Snapcaster Mage
+1 Brainstorm
+1 Worldgorger Dragon
+1 Cling to Dust
+1 Ponder
+1 Snow-Covered Forest
+1 Dack Fayden
+1 Ice-Fang Coatl
+1 Tropical Island
+1 Dance of the Dead
+1 Underground Sea
+1 Necromancy
+1 Snow-Covered Island
+1 Abundant Growth
+1 Echo of Eons
+1 Misty Rainforest
+1 Volcanic Island
+1 Assassin's Trophy
+1 Force of Will
+1 Notion Thief
+2 Snow-Covered Island
+2 Ice-Fang Coatl
+2 Snow-Covered Forest
+2 Hullbreacher
+2 Assassin's Trophy
+2 Ponder
+2 Dack Fayden
+2 Brainstorm
+2 Force of Will
+2 Abundant Growth
+2 Misty Rainforest
+3 Misty Rainforest
+3 Force of Will
+3 Brainstorm
+3 Ponder
+3 Abundant Growth
+4 Abundant Growth
+4 Misty Rainforest
+4 Force of Will
+4 Brainstorm
+1 Tidespout Tyrant
+2 Verdant Catacombs
+3 Verdant Catacombs
+1 Duress
+2 Duress
+1 Putrid Imp
+1 Tendrils of Agony
+2 Putrid Imp
+3 Putrid Imp
+3 Cabal Therapy
 11 Swamp
 12 Swamp
-1 Collective Brutality
-1 Tidespout Tyrant
-1 Daze
-2 Daze
-1 Intuition
-1 Toxic Deluge
-1 Force of Negation
-2 Grove of the Burnwillows
-2 Punishing Fire
-2 Drown in the Loch
-2 Intuition
-2 Snapcaster Mage
-2 Uro, Titan of Nature's Wrath
-2 Tropical Island
-3 Snow-Covered Island
-3 Grove of the Burnwillows
-3 Assassin's Trophy
-3 Dack Fayden
-3 Uro, Titan of Nature's Wrath
-1 Archon of Valor's Reach
+1 Elesh Norn, Grand Cenobite
+2 Collective Brutality
 1 Pathrazer of Ulamog
+1 Mountain
 1 Sphinx of the Steel Wind
+1 Vito, Thorn of the Dusk Rose
+2 Snow-Covered Swamp
 2 Scrubland
 1 Hymn to Tourach
 1 Lake of the Dead
@@ -112,25 +97,16 @@
 4 Marsh Flats
 1 Watery Grave
 1 Blood Crypt
+1 Daze
 1 Godless Shrine
 1 Inkwell Leviathan
 1 Grave Titan
 2 Blood Crypt
 2 Watery Grave
-2 Collective Brutality
+2 Daze
 3 Daze
 4 Daze
-1 Island
-1 Elesh Norn, Grand Cenobite
-1 Careful Study
-2 Underground Sea
-2 Careful Study
-3 Careful Study
-3 Underground Sea
 4 Verdant Catacombs
-4 Careful Study
-13 Swamp
-14 Swamp
 1 Shallow Grave
 1 Unburial Rites
 1 Lion's Eye Diamond
@@ -138,11 +114,31 @@
 1 Burning Wish
 1 Past in Flames
 2 Burning Wish
-2 Shallow Grave
 2 Lion's Eye Diamond
+2 Shallow Grave
 3 Burning Wish
 3 Lion's Eye Diamond
 3 Shallow Grave
 4 Burning Wish
 4 Shallow Grave
 4 Lion's Eye Diamond
+13 Swamp
+14 Swamp
+1 Ghost Quarter
+1 Vampire Hexmage
+1 Expedition Map
+1 Urborg, Tomb of Yawgmoth
+1 Dark Depths
+1 Thespian's Stage
+2 Urborg, Tomb of Yawgmoth
+2 Vampire Hexmage
+2 Dark Depths
+2 Expedition Map
+3 Urborg, Tomb of Yawgmoth
+3 Vampire Hexmage
+3 Dark Depths
+3 Expedition Map
+4 Expedition Map
+4 Dark Depths
+4 Urborg, Tomb of Yawgmoth
+4 Vampire Hexmage

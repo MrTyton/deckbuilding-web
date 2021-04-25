@@ -43,6 +43,6 @@
 |                    4|[Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)            |                    3|[Phoenix of Ash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476399)  |
 |                    1|[Goldspan Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503751)           |                    4|[Phoenix of Ash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476399)  |
 |                    1|[Heraldic Banner](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473184)           |                    4|[The Akroan War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476375)  |
-|                    2|Conspiracy Theorist                                                                                  |                     |                                                                                           |
 |                    2|[Shatterskull Smashing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491802)     |                     |                                                                                           |
+|                    2|Conspiracy Theorist                                                                                  |                     |                                                                                           |
 

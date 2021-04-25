@@ -80,7 +80,7 @@
 |                    4|[Merchant of the Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473093) |                     |                                                                                                |
 |                    4|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)      |                     |                                                                                                |
 |                    2|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)|                     |                                                                                                |
-|                    3|[Silversmote Ghoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485445)    |                     |                                                                                                |
 |                    3|[Burning Inquiry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=191096)      |                     |                                                                                                |
+|                    3|[Silversmote Ghoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485445)    |                     |                                                                                                |
 |                    4|[Silversmote Ghoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485445)    |                     |                                                                                                |
 

@@ -1,11 +1,14 @@
+1 Bloodstained Mire
+1 Dwarven Mine
+2 Bloodstained Mire
 1 Ketria Triome
 1 Verdant Catacombs
 2 Castle Garenbrig
 1 Sweltering Suns
-1 Bloodstained Mire
-1 Dwarven Mine
-2 Bloodstained Mire
 1 Anger of the Gods
+1 Sheltered Thicket
+1 Wrenn and Six
+2 Wrenn and Six
 1 Valki, God of Lies
 1 Plains
 1 Island
@@ -24,6 +27,24 @@
 4 Bring to Light
 2 Windswept Heath
 3 Windswept Heath
+1 Transmogrify
+1 Arid Mesa
+1 Indomitable Creativity
+1 Fire Prophecy
+2 Arid Mesa
+2 Fire Prophecy
+2 Transmogrify
+2 Dwarven Mine
+2 Indomitable Creativity
+3 Arid Mesa
+3 Dwarven Mine
+3 Indomitable Creativity
+3 Transmogrify
+3 Bloodstained Mire
+4 Bloodstained Mire
+4 Arid Mesa
+4 Transmogrify
+4 Dwarven Mine
 1 Prismatic Omen
 2 Prismatic Omen
 3 Forest
@@ -48,9 +69,6 @@
 1 Courser of Kruphix
 1 Mwonvuli Acid-Moss
 4 Cinder Glade
-1 Sheltered Thicket
-1 Wrenn and Six
-2 Wrenn and Six
 1 Migration Path
 2 Sweltering Suns
 2 Courser of Kruphix
@@ -63,35 +81,13 @@
 3 Misty Rainforest
 2 Verdant Catacombs
 3 Verdant Catacombs
-1 Scalding Tarn
-1 Blood Crypt
-2 Scalding Tarn
-3 Scalding Tarn
-3 Omnath, Locus of Creation
-4 Scalding Tarn
-1 Transmogrify
-1 Arid Mesa
-1 Indomitable Creativity
-1 Fire Prophecy
-2 Arid Mesa
-2 Fire Prophecy
-2 Transmogrify
-2 Dwarven Mine
-2 Indomitable Creativity
-3 Arid Mesa
-3 Dwarven Mine
-3 Indomitable Creativity
-3 Transmogrify
-3 Bloodstained Mire
-4 Bloodstained Mire
-4 Arid Mesa
-4 Transmogrify
-4 Dwarven Mine
 1 Bloodbraid Elf
 1 Hour of Promise
 2 Bloodbraid Elf
 3 Bloodbraid Elf
 4 Bloodbraid Elf
+3 Raugrin Triome
+4 Windswept Heath
 1 Snow-Covered Mountain
 1 Snow-Covered Forest
 1 Relic of Progenitus
@@ -102,5 +98,9 @@
 3 Summoner's Pact
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
-3 Raugrin Triome
-4 Windswept Heath
+1 Scalding Tarn
+1 Blood Crypt
+2 Scalding Tarn
+3 Scalding Tarn
+3 Omnath, Locus of Creation
+4 Scalding Tarn

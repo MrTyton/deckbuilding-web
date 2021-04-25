@@ -71,9 +71,9 @@
 1 Valakut Awakening
 2 Valakut Awakening
 1 Lightning Bolt
-1 Bala Ged Recovery
 1 Spikefield Hazard
 1 Irencrag Feat
+1 Bala Ged Recovery
 1 Recross the Paths
 1 Manamorphose
 1 Reforge the Soul
@@ -83,8 +83,8 @@
 1 Ornithopter
 1 Talisman of Impulse
 2 Spikefield Hazard
-2 Bala Ged Recovery
 2 Irencrag Feat
+2 Bala Ged Recovery
 2 Pyretic Ritual
 2 Manamorphose
 2 Recross the Paths
@@ -134,39 +134,39 @@
 2 Arid Mesa
 2 Polymorph
 3 Arid Mesa
-3 Teferi, Time Raveler
-3 Scalding Tarn
 3 Transmogrify
 3 Dwarven Mine
+3 Teferi, Time Raveler
+3 Scalding Tarn
 3 Steam Vents
-4 Arid Mesa
 4 Dwarven Mine
+4 Arid Mesa
 4 Teferi, Time Raveler
 4 Scalding Tarn
 1 Stomping Ground
 2 Stomping Ground
 1 Ketria Triome
 1 Jace, the Mind Sculptor
-1 Velomachus Lorehold
+1 Tamiyo, Collector of Tales
 1 Time Warp
 1 Chalice of the Void
 1 Wrenn and Six
+1 Velomachus Lorehold
 1 Omen of the Sea
 1 Growth Spiral
 1 Fires of Invention
-1 Tamiyo, Collector of Tales
 1 Snow-Covered Mountain
 1 Savor the Moment
 2 Sacred Foundry
 2 Jace, the Mind Sculptor
-2 Velomachus Lorehold
+2 Tamiyo, Collector of Tales
 2 Time Warp
 2 Chalice of the Void
 2 Bloodstained Mire
 2 Fires of Invention
-2 Tamiyo, Collector of Tales
 2 Savor the Moment
 2 Omen of the Sea
+2 Velomachus Lorehold
 2 Growth Spiral
 2 Wrenn and Six
 3 Omen of the Sea
@@ -179,9 +179,9 @@
 3 Savor the Moment
 3 Time Warp
 4 Bloodstained Mire
+4 Transmogrify
 4 Omen of the Sea
 4 Growth Spiral
-4 Transmogrify
 4 Chalice of the Void
 4 Time Warp
 4 Wrenn and Six
@@ -212,11 +212,11 @@
 1 Eladamri's Call
 1 Sliver Legion
 1 The First Sliver
+1 Cavern of Souls
 1 Morophon, the Boundless
 1 Sorin, Imperious Bloodlord
 1 Sliver Hivelord
 1 Murmuring Bosk
-1 Cavern of Souls
 1 Gemstone Caverns
 1 Snow-Covered Forest
 1 Cloudshredder Sliver
@@ -226,8 +226,8 @@
 1 Breeding Pool
 1 Mana Confluence
 1 Harmonic Sliver
-2 Eladamri's Call
 2 Mana Confluence
+2 Eladamri's Call
 2 Morophon, the Boundless
 2 Sorin, Imperious Bloodlord
 2 The First Sliver
@@ -236,9 +236,9 @@
 2 Shimmer of Possibility
 2 Sliver Legion
 2 Cloudshredder Sliver
+3 Mana Confluence
 3 Summoner's Pact
 3 Morophon, the Boundless
-3 Mana Confluence
 3 The First Sliver
 3 Sorin, Imperious Bloodlord
 3 Eladamri's Call
@@ -250,8 +250,8 @@
 4 Summoner's Pact
 1 Emrakul, the Aeons Torn
 2 Emrakul, the Aeons Torn
-1 Spell Snare
 1 Fire Prophecy
+1 Spell Snare
 1 Repeal
 1 Izzet Charm
 1 Mana Leak
@@ -321,6 +321,7 @@
 4 Talisman of Dominance
 4 Thassa's Oracle
 4 Inverter of Truth
+1 Lukka, Coppercoat Outcast
 1 Karn, the Great Creator
 1 Arbor Elf
 1 Chandra, Torch of Defiance
@@ -328,18 +329,18 @@
 1 Nahiri, the Harbinger
 1 Birds of Paradise
 1 Noble Hierarch
-1 Lukka, Coppercoat Outcast
 1 Utopia Sprawl
 2 Nahiri, the Harbinger
+2 Lukka, Coppercoat Outcast
 2 Karn, the Great Creator
 2 Chandra, Torch of Defiance
 2 Arbor Elf
 2 Forest
 2 Noble Hierarch
 2 Temple Garden
-2 Lukka, Coppercoat Outcast
 2 Utopia Sprawl
 2 Birds of Paradise
+3 Lukka, Coppercoat Outcast
 3 Utopia Sprawl
 3 Karn, the Great Creator
 3 Nahiri, the Harbinger
@@ -349,18 +350,17 @@
 3 Forest
 3 Arbor Elf
 3 Noble Hierarch
-3 Lukka, Coppercoat Outcast
 3 Oath of Nissa
 4 Chandra, Torch of Defiance
+4 Lukka, Coppercoat Outcast
 4 Utopia Sprawl
 4 Karn, the Great Creator
 4 Arbor Elf
-4 Oath of Nissa
 4 Birds of Paradise
+4 Oath of Nissa
 4 Stomping Ground
 4 Forest
 4 Noble Hierarch
-4 Lukka, Coppercoat Outcast
 5 Forest
 6 Forest
 1 Jwari Disruption
@@ -373,5 +373,5 @@
 4 Island
 5 Island
 6 Island
-8 Island
 7 Island
+8 Island
