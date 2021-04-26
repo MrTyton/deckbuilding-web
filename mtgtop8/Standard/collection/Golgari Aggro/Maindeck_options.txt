@@ -30,12 +30,12 @@
 2 Llanowar Visionary
 3 Elderfang Disciple
 3 Llanowar Visionary
-4 Llanowar Visionary
 4 Elderfang Disciple
+4 Llanowar Visionary
 1 Boreal Outrider
+1 Sculptor of Winter
 1 Skemfar Avenger
 1 Grasp of Darkness
-1 Sculptor of Winter
 1 Harald, King of Skemfar
 1 Harald Unites the Elves
 1 Thornmantle Striker
@@ -103,13 +103,11 @@
 7 Swamp
 8 Swamp
 1 Sarulf, Realm Eater
+1 Order of Midnight
 1 Wilt
 1 Vivien, Monsters' Advocate
-1 Order of Midnight
-2 Wilt
 2 Order of Midnight
-3 Toski, Bearer of Secrets
-4 Toski, Bearer of Secrets
+2 Wilt
 1 Gilded Goose
 1 Trail of Crumbs
 1 Wicked Wolf
@@ -117,16 +115,18 @@
 1 Turntimber Symbiosis
 2 Gilded Goose
 2 Trail of Crumbs
-2 Massacre Wurm
 2 Wicked Wolf
+2 Massacre Wurm
 2 Agadeem's Awakening
 2 Turntimber Symbiosis
 3 Gilded Goose
+3 Trail of Crumbs
 3 Wicked Wolf
 3 Eliminate
-3 Trail of Crumbs
 4 Gilded Goose
 4 Wicked Wolf
+3 Toski, Bearer of Secrets
+4 Toski, Bearer of Secrets
 1 Esika's Chariot
 1 Garruk, Cursed Huntsman
 1 Setessan Champion
@@ -145,21 +145,21 @@
 2 Mogis's Favor
 2 Aphemia, the Cacophony
 2 Dead Weight
-3 Castle Locthwain
 3 Malakir Rebirth
+3 Castle Locthwain
 3 Hateful Eidolon
 3 Mire's Grasp
 3 Setessan Champion
 3 Mogis's Favor
 3 Chevill, Bane of Monsters
 3 Dead Weight
-4 Chevill, Bane of Monsters
+4 Mogis's Favor
 4 Malakir Rebirth
+4 Chevill, Bane of Monsters
 4 Hateful Eidolon
 4 Setessan Champion
 4 Dead Weight
 4 Mire's Grasp
-4 Mogis's Favor
 1 Faceless Haven
 2 Questing Beast
 2 Faceless Haven
@@ -167,9 +167,9 @@
 4 Temple of Malady
 4 Faceless Haven
 1 Deathknell Berserker
+1 Skemfar Elderhall
 1 Jaspera Sentinel
 1 Tyvar Kell
-1 Skemfar Elderhall
 1 Skemfar Shadowsage
 2 Deathknell Berserker
 2 Jaspera Sentinel
@@ -184,20 +184,20 @@
 3 Wolfwillow Haven
 9 Snow-Covered Forest
 10 Snow-Covered Swamp
-1 Garruk, Unleashed
 1 Stonecoil Serpent
 1 Tangled Florahedron
 1 Ashaya, Soul of the Wild
+1 Garruk, Unleashed
 1 Bonders' Enclave
-1 Snakeskin Veil
 1 Primal Might
+1 Snakeskin Veil
 1 Castle Garenbrig
 1 Swarm Shambler
 1 Skyclave Shade
 2 Castle Garenbrig
 2 Stonecoil Serpent
-2 Primal Might
 2 Tangled Florahedron
+2 Primal Might
 2 Snakeskin Veil
 2 Skyclave Shade
 2 Swarm Shambler
@@ -207,22 +207,22 @@
 4 Gemrazer
 10 Forest
 1 Mire Triton
+1 The Binding of the Titans
 1 Call of the Death-Dweller
 1 Egon, God of Death
 1 Hooded Blightfang
 1 Moss Viper
-1 The Binding of the Titans
 2 Mire Triton
+2 The Binding of the Titans
 2 Call of the Death-Dweller
 2 Moss Viper
 2 Hooded Blightfang
-2 The Binding of the Titans
 2 Egon, God of Death
 3 Mire Triton
 3 The Binding of the Titans
 3 Moss Viper
 3 Hooded Blightfang
+4 The Binding of the Titans
 4 Mire Triton
 4 Moss Viper
 4 Hooded Blightfang
-4 The Binding of the Titans

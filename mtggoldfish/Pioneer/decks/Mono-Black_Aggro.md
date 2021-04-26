@@ -58,5 +58,5 @@
 |                    1|[Aethersphere Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423809)  |                     |                                                                                                     |
 |                    2|[Aethersphere Harvester](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423809)  |                     |                                                                                                     |
 |                   16|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                   |                     |                                                                                                     |
-|                    1|Sedgemoor Witch                                                                                    |                     |                                                                                                     |
+|                    1|[Sedgemoor Witch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513563)         |                     |                                                                                                     |
 

@@ -115,7 +115,7 @@
 |                    3|[Crop Rotation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417430)            |                     |                                                                                                        |
 |                    3|[Green Sun's Zenith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413711)       |                     |                                                                                                        |
 |                    4|[Crop Rotation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417430)            |                     |                                                                                                        |
+|                    4|[Green Sun's Zenith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413711)       |                     |                                                                                                        |
 |                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                   |                     |                                                                                                        |
 |                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                   |                     |                                                                                                        |
-|                    4|[Green Sun's Zenith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413711)       |                     |                                                                                                        |
 

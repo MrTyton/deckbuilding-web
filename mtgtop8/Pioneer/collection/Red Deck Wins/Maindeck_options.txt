@@ -45,8 +45,8 @@
 1 Skirk Prospector
 1 Goblin Piledriver
 1 Goblin Chainwhirler
-2 Goblin Instigator
 2 Legion Loyalist
+2 Goblin Instigator
 2 Reckless Bushwhacker
 2 Foundry Street Denizen
 2 Goblin Ringleader
@@ -54,8 +54,8 @@
 2 Skirk Prospector
 2 Castle Embereth
 3 Goblin Piledriver
-3 Skirk Prospector
 3 Castle Embereth
+3 Skirk Prospector
 3 Legion Loyalist
 3 Reckless Bushwhacker
 3 Goblin Instigator
@@ -68,20 +68,34 @@
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
 3 Chandra, Torch of Defiance
+1 Fanatical Firebrand
 1 Burning-Tree Emissary
 1 Legion Warboss
 1 Goblin Arsonist
 1 Krenko, Tin Street Kingpin
-1 Fanatical Firebrand
 1 Goblin Trashmaster
+2 Fanatical Firebrand
 2 Burning-Tree Emissary
 2 Goblin Arsonist
 2 Goblin Trashmaster
 2 Goblin Chainwhirler
-2 Fanatical Firebrand
-3 Burning-Tree Emissary
 3 Fanatical Firebrand
+3 Burning-Tree Emissary
 4 Burning-Tree Emissary
+1 Hazoret the Fervent
+1 Magmatic Channeler
+1 Crash Through
+1 Dreadhorde Arcanist
+1 Warlord's Fury
+2 Crash Through
+2 Magmatic Channeler
+2 Warlord's Fury
+2 Dreadhorde Arcanist
+3 Crash Through
+3 Warlord's Fury
+3 Dreadhorde Arcanist
+4 Crash Through
+4 Shock
 1 Skewer the Critics
 1 Atarka's Command
 1 Cragcrown Pathway
@@ -98,20 +112,6 @@
 4 Mana Confluence
 4 Stomping Ground
 4 Atarka's Command
-1 Hazoret the Fervent
-1 Magmatic Channeler
-1 Crash Through
-1 Dreadhorde Arcanist
-1 Warlord's Fury
-2 Crash Through
-2 Magmatic Channeler
-2 Warlord's Fury
-2 Dreadhorde Arcanist
-3 Crash Through
-3 Warlord's Fury
-3 Dreadhorde Arcanist
-4 Shock
-4 Crash Through
 1 Conspicuous Snoop
 1 Kazuul's Fury
 1 Goblin Warchief
@@ -124,9 +124,9 @@
 3 Goblin Warchief
 3 Goblin Ringleader
 4 Conspicuous Snoop
-4 Goblin Instigator
 4 Skirk Prospector
 4 Goblin Warchief
+4 Goblin Instigator
 4 Goblin Piledriver
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep

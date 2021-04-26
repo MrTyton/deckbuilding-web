@@ -43,8 +43,8 @@
 2 Temple of Epiphany
 3 Temple of Epiphany
 4 Mountain
-5 Mountain
 5 Island
+5 Mountain
 6 Island
 1 Frantic Inventory
 2 Frantic Inventory
@@ -66,8 +66,8 @@
 1 Storm's Wrath
 2 Storm's Wrath
 1 Soul Sear
-2 Soul Sear
 2 Jwari Disruption
+2 Soul Sear
 4 Temple of Epiphany
 9 Snow-Covered Island
 10 Snow-Covered Island
@@ -97,25 +97,25 @@
 2 Hengegate Pathway
 2 Elspeth Conquers Death
 2 Needleverge Pathway
-3 Soul Sear
+3 Jwari Disruption
 3 Elspeth Conquers Death
 3 Dream Trawler
-3 Jwari Disruption
 3 Raugrin Triome
+3 Soul Sear
 3 Doomskar
 3 Needleverge Pathway
 3 Hengegate Pathway
-4 Fire Prophecy
 4 Elspeth Conquers Death
 4 Raugrin Triome
+4 Fire Prophecy
 4 Doomskar
 4 Hengegate Pathway
 4 Needleverge Pathway
 1 Sublime Epiphany
 1 Invasion of the Giants
-1 Terror of the Peaks
 1 Castle Embereth
 1 Reflections of Littjara
+1 Terror of the Peaks
 2 Sublime Epiphany
 2 Invasion of the Giants
 2 Terror of the Peaks
@@ -137,15 +137,15 @@
 3 Double Vision
 3 Seize the Spoils
 4 Seize the Spoils
-1 Reconnaissance Mission
-1 Stormwing Entity
 1 Faerie Vandal
 1 Aegar, the Freezing Flame
 1 Windrider Wizard
 1 Swiftwater Cliffs
 1 Demon Bolt
 1 Lofty Denial
+1 Reconnaissance Mission
 1 Goblin Wizardry
+1 Stormwing Entity
 2 Faerie Vandal
 2 Aegar, the Freezing Flame
 2 Demon Bolt
@@ -155,37 +155,37 @@
 3 Lofty Denial
 3 Swiftwater Cliffs
 4 Swiftwater Cliffs
-1 Draconic Intervention
-1 Creative Outburst
 1 Torrent Sculptor
-2 Draconic Intervention
-2 Creative Outburst
+1 Creative Outburst
+1 Draconic Intervention
 2 Torrent Sculptor
-3 Prismari Command
+2 Creative Outburst
+2 Draconic Intervention
 3 Torrent Sculptor
+3 Prismari Command
 3 Draconic Intervention
-4 Prismari Command
-4 Draconic Intervention
 4 Torrent Sculptor
+4 Draconic Intervention
+4 Prismari Command
 6 Mountain
-1 Shock
 1 Spikefield Hazard
 1 Shell Shield
-2 Spikefield Hazard
+1 Shock
 2 Shock
+2 Spikefield Hazard
 2 Shell Shield
 3 Shock
 4 Shock
 4 Opt
 7 Island
-1 Blitz of the Thunder-Raptor
 1 Irencrag Pyromancer
 1 Teferi, Master of Time
 1 Jace, Mirror Mage
 1 Ravenform
+1 Blitz of the Thunder-Raptor
 1 Cancel
-2 Blitz of the Thunder-Raptor
 2 Ravenform
+2 Blitz of the Thunder-Raptor
 2 Cancel
 3 Ravenform
 3 Blitz of the Thunder-Raptor

@@ -78,6 +78,27 @@
 2 Embercleave
 1 Maul of the Skyclaves
 1 Ox of Agonas
+1 Alpine Watchdog
+1 Bolt Hound
+1 Alpine Houndmaster
+1 Pack Leader
+1 Igneous Cur
+1 Showdown of the Skalds
+2 Bolt Hound
+2 Pack Leader
+2 Alpine Houndmaster
+2 Alpine Watchdog
+2 Igneous Cur
+2 Showdown of the Skalds
+3 Pack Leader
+3 Alpine Houndmaster
+3 Alpine Watchdog
+3 Igneous Cur
+3 Bolt Hound
+3 Embercleave
+4 Embercleave
+4 Pack Leader
+4 Alpine Houndmaster
 1 Castle Embereth
 1 Reverent Hoplite
 1 Crawling Barrens
@@ -96,27 +117,6 @@
 4 Furycalm Snarl
 4 Shatterskull Smashing
 4 Usher of the Fallen
-1 Alpine Watchdog
-1 Igneous Cur
-1 Pack Leader
-1 Alpine Houndmaster
-1 Showdown of the Skalds
-1 Bolt Hound
-2 Igneous Cur
-2 Alpine Watchdog
-2 Alpine Houndmaster
-2 Pack Leader
-2 Showdown of the Skalds
-2 Bolt Hound
-3 Bolt Hound
-3 Embercleave
-3 Igneous Cur
-3 Alpine Watchdog
-3 Pack Leader
-3 Alpine Houndmaster
-4 Embercleave
-4 Alpine Houndmaster
-4 Pack Leader
 1 Fireblade Charger
 1 Akiri, Fearless Voyager
 1 Kabira Takedown
@@ -139,16 +139,16 @@
 2 Wind-Scarred Crag
 2 Kargan Warleader
 3 Maul of the Skyclaves
+3 Spikefield Hazard
 3 Fireblade Charger
 3 Temple of Triumph
 3 Kor Blademaster
-3 Spikefield Hazard
 3 Kargan Warleader
 3 Kargan Intimidator
 4 Fireblade Charger
+4 Spikefield Hazard
 4 Kor Blademaster
 4 Maul of the Skyclaves
-4 Spikefield Hazard
 4 Kargan Warleader
 4 Temple of Triumph
 4 Kargan Intimidator
@@ -184,9 +184,9 @@
 2 Faceless Haven
 2 Snow-Covered Mountain
 2 Snow-Covered Plains
+3 Kenrith, the Returned King
 3 Faceless Haven
 3 Snow-Covered Plains
-3 Kenrith, the Returned King
 4 Snow-Covered Plains
 5 Snow-Covered Plains
 6 Snow-Covered Plains

@@ -1,13 +1,13 @@
 4 Growth Spiral
 1 Savannah
+1 Sylvan Library
 2 Omnath, Locus of Creation
 2 Primeval Titan
+4 Wasteland
 1 Nexus of Fate
+2 Sylvan Library
 1 Exploration
 3 Life from the Loam
-4 Wasteland
-1 Sylvan Library
-2 Sylvan Library
 1 Engineered Explosives
 2 Engineered Explosives
 1 Mystic Sanctuary
@@ -35,6 +35,12 @@
 4 Gilded Goose
 4 Emry, Lurker of the Loch
 4 Mishra's Bauble
+1 Bayou
+1 Underground Sea
+1 Verdant Catacombs
+2 Verdant Catacombs
+2 Underground Sea
+3 Verdant Catacombs
 1 Windswept Heath
 1 Urza's Bauble
 1 Stoneforge Mystic
@@ -52,39 +58,40 @@
 3 Snow-Covered Forest
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+1 Abrupt Decay
+2 Tropical Island
+2 Abrupt Decay
+1 Fatal Push
+4 Verdant Catacombs
+1 Birds of Paradise
+1 Leovold, Emissary of Trest
 2 Exploration
 3 Exploration
 4 Exploration
 1 Plains
-1 Bayou
+2 Fatal Push
+3 Tropical Island
+1 Polluted Delta
+2 Polluted Delta
+3 Polluted Delta
+1 Dryad Arbor
+1 Green Sun's Zenith
+2 Green Sun's Zenith
+3 Green Sun's Zenith
 1 Baleful Strix
 1 Snow-Covered Swamp
 1 Tireless Tracker
-1 Abrupt Decay
 1 Seat of the Synod
-1 Fatal Push
-1 Underground Sea
-1 Verdant Catacombs
-1 Polluted Delta
-2 Tropical Island
 2 Baleful Strix
-2 Fatal Push
 2 Tireless Tracker
-2 Abrupt Decay
-2 Polluted Delta
-2 Verdant Catacombs
-2 Underground Sea
 3 Baleful Strix
-3 Verdant Catacombs
-3 Tropical Island
+3 Abrupt Decay
 3 Prophetic Prism
 3 Tireless Tracker
 3 Fatal Push
-3 Abrupt Decay
-3 Polluted Delta
 4 Baleful Strix
 4 Urza, Lord High Artificer
-4 Verdant Catacombs
+4 Polluted Delta
 1 Lightning Bolt
 1 Teferi, Hero of Dominaria
 1 Raugrin Triome
@@ -92,4 +99,49 @@
 3 Lightning Bolt
 1 Jace, the Mind Sculptor
 3 Force of Negation
-4 Polluted Delta
+1 Tarmogoyf
+1 Elvish Reclaimer
+1 Waterlogged Grove
+1 Sylvan Safekeeper
+1 Thoughtseize
+1 Assassin's Trophy
+1 Hullbreacher
+1 Day's Undoing
+2 Hullbreacher
+2 Day's Undoing
+2 Leovold, Emissary of Trest
+3 Underground Sea
+4 Green Sun's Zenith
+1 Swamp
+1 Noble Hierarch
+1 Unearth
+1 Neoform
+1 Sea Gate Stormcaller
+1 Drown in the Loch
+1 Cabal Therapy
+1 Opposition Agent
+1 True-Name Nemesis
+1 Spike Feeder
+1 Heliod, Sun-Crowned
+2 Noble Hierarch
+2 Drown in the Loch
+2 Unearth
+2 Bayou
+2 Neoform
+2 Birds of Paradise
+2 Cabal Therapy
+2 Sea Gate Stormcaller
+2 True-Name Nemesis
+3 Birds of Paradise
+3 Neoform
+3 Cabal Therapy
+3 Sea Gate Stormcaller
+4 Cabal Therapy
+4 Sea Gate Stormcaller
+1 Scavenging Ooze
+1 Spell Pierce
+1 Knight of the Reliquary
+1 Blast Zone
+2 Spell Pierce
+3 Sylvan Library
+2 Knight of the Reliquary
