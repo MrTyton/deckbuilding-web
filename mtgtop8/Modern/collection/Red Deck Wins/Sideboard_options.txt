@@ -13,9 +13,9 @@
 1 Soul-Guide Lantern
 1 Flame Slash
 1 Shattering Spree
-1 Pillage
 1 Rampaging Ferocidon
 1 Obosh, the Preypiercer
+1 Pillage
 1 Relic of Progenitus
 2 Shattering Spree
 2 Pillage
@@ -27,11 +27,6 @@
 1 Banefire
 1 Deafening Silence
 2 Molten Rain
-1 Lightning Helix
-1 Anger of the Gods
-2 Anger of the Gods
-2 Lightning Helix
-3 Anger of the Gods
 1 Dragon's Claw
 2 Dragon's Claw
 1 Blood Moon
@@ -42,13 +37,18 @@
 3 Tormod's Crypt
 3 Reality Hemorrhage
 3 Dragon's Claw
+1 Anger of the Gods
+1 Lightning Helix
+2 Anger of the Gods
+2 Lightning Helix
+3 Anger of the Gods
 3 Deflecting Palm
 1 Bonecrusher Giant
 1 Shrine of Burning Rage
 1 Leyline of the Void
 1 Abrade
-2 Bonecrusher Giant
 2 Shrine of Burning Rage
+2 Bonecrusher Giant
 2 Leyline of the Void
 2 Abrade
 3 Abrade
@@ -57,11 +57,19 @@
 3 Pillage
 3 Relic of Progenitus
 4 Relic of Progenitus
+1 Cleansing Wildfire
+2 Cleansing Wildfire
+3 Soul-Guide Lantern
+3 Cleansing Wildfire
+3 Searing Blood
+4 Soul-Guide Lantern
+4 Smash to Smithereens
+4 Searing Blood
 3 Roiling Vortex
 4 Path to Exile
 1 Progenitus
-1 Young Pyromancer
 1 Damping Sphere
+1 Young Pyromancer
 1 Grafdigger's Cage
 1 Torpor Orb
 2 Young Pyromancer
@@ -71,11 +79,3 @@
 3 Damping Sphere
 3 Progenitus
 4 Progenitus
-1 Cleansing Wildfire
-2 Cleansing Wildfire
-3 Soul-Guide Lantern
-3 Cleansing Wildfire
-3 Searing Blood
-4 Soul-Guide Lantern
-4 Searing Blood
-4 Smash to Smithereens

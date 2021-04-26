@@ -10,21 +10,21 @@
 2 Field of Ruin
 1 Cling to Dust
 2 Shark Typhoon
-1 Bloodchief's Thirst
-1 Damnation
 1 Into the Story
 1 Scalding Tarn
+1 Bloodchief's Thirst
+1 Damnation
 1 Thought Scour
-2 Castle Vantress
-2 Cling to Dust
 2 Scalding Tarn
-2 Thought Scour
+2 Castle Vantress
 2 Into the Story
+2 Cling to Dust
+2 Thought Scour
 3 Drown in the Loch
 3 Thought Scour
 3 Shark Typhoon
-4 Shark Typhoon
 4 Drown in the Loch
+4 Shark Typhoon
 4 Island
 4 Thought Scour
 5 Island
@@ -44,23 +44,27 @@
 1 Ancestral Vision
 1 Shadow of Doubt
 2 Shadow of Doubt
-3 Shadow of Doubt
 3 Field of Ruin
+3 Shadow of Doubt
 2 Spell Snare
-3 Watery Grave
-1 Snow-Covered Swamp
 1 Snow-Covered Plains
 1 Snow-Covered Island
+1 Snow-Covered Swamp
 2 Snow-Covered Island
 3 Snow-Covered Island
-1 Serum Visions
+1 Path to Exile
+2 Celestial Colonnade
+2 Logic Knot
+2 Path to Exile
+3 Logic Knot
 1 Prairie Stream
 1 Thoughtseize
-1 Bitterblossom
-1 Kaya, Orzhov Usurper
-1 Teferi, Time Raveler
-1 Inquisition of Kozilek
 1 Prismatic Vista
+1 Bitterblossom
+1 Teferi, Time Raveler
+1 Serum Visions
+1 Inquisition of Kozilek
+1 Kaya, Orzhov Usurper
 2 Serum Visions
 2 Plains
 2 Thoughtseize
@@ -70,8 +74,4 @@
 2 Inquisition of Kozilek
 3 Teferi, Time Raveler
 3 Bitterblossom
-1 Path to Exile
-2 Celestial Colonnade
-2 Logic Knot
-2 Path to Exile
-3 Logic Knot
+3 Watery Grave

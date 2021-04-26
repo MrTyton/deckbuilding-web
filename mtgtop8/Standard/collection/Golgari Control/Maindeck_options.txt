@@ -1,4 +1,9 @@
 2 Garruk, Cursed Huntsman
+1 Eliminate
+1 Elder Gargaroth
+2 Elder Gargaroth
+3 Elspeth's Nightmare
+3 Elder Gargaroth
 3 Garruk, Cursed Huntsman
 1 Tangled Florahedron
 1 Mythos of Nethroi
@@ -7,26 +12,21 @@
 1 Agonizing Remorse
 1 Scavenging Ooze
 1 Bloodchief's Thirst
-1 Eliminate
-1 Elder Gargaroth
 1 Indatha Triome
 1 Branchloft Pathway
+2 Sarulf, Realm Eater
 2 Brightclimb Pathway
 2 Agonizing Remorse
 2 Eliminate
 2 Scavenging Ooze
-2 Sarulf, Realm Eater
 2 Bloodchief's Thirst
 2 Mythos of Nethroi
 2 Tangled Florahedron
 2 Indatha Triome
 2 Branchloft Pathway
-2 Elder Gargaroth
 3 Indatha Triome
-3 Elder Gargaroth
 3 Agonizing Remorse
 3 Eliminate
-3 Elspeth's Nightmare
 3 Brightclimb Pathway
 3 Bloodchief's Thirst
 3 Mythos of Nethroi
@@ -34,9 +34,41 @@
 4 Indatha Triome
 4 Brightclimb Pathway
 4 Branchloft Pathway
-1 Snow-Covered Forest
 1 Woodland Chasm
 1 Mazemind Tome
+1 Cultivate
+2 Mazemind Tome
+2 Cultivate
+1 Bala Ged Recovery
+1 Wolfwillow Haven
+1 Crawling Barrens
+1 Heartless Act
+1 Mortality Spear
+1 Crippling Fear
+1 Ugin, the Spirit Dragon
+1 Cling to Dust
+1 Flunk
+1 Llanowar Visionary
+1 Polukranos, Unchained
+2 Wolfwillow Haven
+2 Polukranos, Unchained
+2 Llanowar Visionary
+2 Bala Ged Recovery
+2 Heartless Act
+2 Cling to Dust
+3 Wolfwillow Haven
+3 Llanowar Visionary
+3 Bala Ged Recovery
+3 Heartless Act
+4 Forest
+4 Wolfwillow Haven
+4 Swamp
+5 Forest
+5 Swamp
+6 Forest
+6 Swamp
+7 Forest
+1 Snow-Covered Forest
 1 Solemn Simulacrum
 1 Extinction Event
 1 Blood on the Snow
@@ -44,20 +76,17 @@
 1 Duress
 1 Woe Strider
 1 Faceless Haven
-1 Cultivate
 1 Snow-Covered Swamp
 2 Snow-Covered Forest
 2 Woodland Chasm
-2 Mazemind Tome
 2 Blood on the Snow
 2 Solemn Simulacrum
 2 Extinction Event
 2 Duress
-2 Cultivate
+2 Snow-Covered Swamp
 2 Faceless Haven
 2 Woe Strider
 2 Poison the Cup
-2 Snow-Covered Swamp
 3 Cultivate
 3 Snow-Covered Forest
 3 Woodland Chasm
@@ -74,8 +103,8 @@
 4 Woodland Chasm
 4 Faceless Haven
 4 Solemn Simulacrum
-4 Duress
 4 Blood on the Snow
+4 Duress
 4 Snow-Covered Swamp
 4 Woe Strider
 4 Garruk, Cursed Huntsman

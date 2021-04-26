@@ -4,11 +4,11 @@
 4 Serum Visions
 1 Lotus Field
 1 Sleight of Hand
-1 Ideas Unbound
 1 Echoing Truth
 1 Reach Through Mists
 1 Lonely Sandbar
 1 Twiddle
+1 Ideas Unbound
 1 Psychic Puppetry
 1 Grapeshot
 1 Past in Flames
@@ -71,9 +71,9 @@
 1 Valakut Awakening
 2 Valakut Awakening
 1 Lightning Bolt
-1 Bala Ged Recovery
 1 Irencrag Feat
 1 Spikefield Hazard
+1 Bala Ged Recovery
 1 Recross the Paths
 1 Manamorphose
 1 Reforge the Soul
@@ -159,8 +159,8 @@
 1 Snow-Covered Mountain
 1 Savor the Moment
 2 Sacred Foundry
-2 Tamiyo, Collector of Tales
 2 Jace, the Mind Sculptor
+2 Tamiyo, Collector of Tales
 2 Time Warp
 2 Chalice of the Void
 2 Bloodstained Mire
@@ -216,17 +216,17 @@
 3 Windswept Heath
 4 Windswept Heath
 1 Eladamri's Call
+1 Search for Glory
 1 Sliver Legion
 1 The First Sliver
-1 Morophon, the Boundless
 1 Cavern of Souls
+1 Morophon, the Boundless
 1 Sorin, Imperious Bloodlord
 1 Sliver Hivelord
 1 Murmuring Bosk
 1 Gemstone Caverns
 1 Snow-Covered Forest
 1 Cloudshredder Sliver
-1 Search for Glory
 1 Summoner's Pact
 1 Dregscape Sliver
 1 Breeding Pool
@@ -234,11 +234,11 @@
 1 Harmonic Sliver
 2 Mana Confluence
 2 Eladamri's Call
+2 Search for Glory
 2 Morophon, the Boundless
 2 Sorin, Imperious Bloodlord
 2 The First Sliver
 2 Summoner's Pact
-2 Search for Glory
 2 Shimmer of Possibility
 2 Sliver Legion
 2 Cloudshredder Sliver
@@ -326,8 +326,8 @@
 4 Talisman of Dominance
 4 Thassa's Oracle
 4 Inverter of Truth
-1 Lukka, Coppercoat Outcast
 1 Karn, the Great Creator
+1 Lukka, Coppercoat Outcast
 1 Arbor Elf
 1 Chandra, Torch of Defiance
 1 Forest
@@ -336,8 +336,8 @@
 1 Noble Hierarch
 1 Utopia Sprawl
 2 Nahiri, the Harbinger
-2 Lukka, Coppercoat Outcast
 2 Karn, the Great Creator
+2 Lukka, Coppercoat Outcast
 2 Chandra, Torch of Defiance
 2 Arbor Elf
 2 Forest
@@ -345,10 +345,10 @@
 2 Utopia Sprawl
 2 Birds of Paradise
 2 Temple Garden
-3 Lukka, Coppercoat Outcast
+3 Nahiri, the Harbinger
 3 Utopia Sprawl
 3 Karn, the Great Creator
-3 Nahiri, the Harbinger
+3 Lukka, Coppercoat Outcast
 3 Chandra, Torch of Defiance
 3 Birds of Paradise
 3 Stomping Ground
@@ -360,16 +360,16 @@
 4 Utopia Sprawl
 4 Karn, the Great Creator
 4 Arbor Elf
+4 Lukka, Coppercoat Outcast
 4 Birds of Paradise
 4 Oath of Nissa
 4 Stomping Ground
 4 Forest
 4 Noble Hierarch
-4 Lukka, Coppercoat Outcast
 5 Forest
 6 Forest
-1 Opt
 1 Jwari Disruption
+1 Opt
 2 Merchant Scroll
 2 Opt
 3 Island

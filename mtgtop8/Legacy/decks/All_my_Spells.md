@@ -40,4 +40,8 @@
 |                     |                                                                                                  |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)    |
 |                     |                                                                                                  |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)    |
 |                     |                                                                                                  |                    4|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)         |
+|                     |                                                                                                  |                    1|[Unmask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19829)                  |
+|                     |                                                                                                  |                    2|[Unmask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19829)                  |
+|                     |                                                                                                  |                    3|[Unmask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19829)                  |
+|                     |                                                                                                  |                    4|[Unmask](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19829)                  |
 

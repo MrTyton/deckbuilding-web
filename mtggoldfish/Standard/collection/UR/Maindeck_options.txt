@@ -6,36 +6,36 @@
 3 Frostboil Snarl
 4 Frostboil Snarl
 3 Prismari Command
-6 Snow-Covered Island
-4 Prismari Command
 1 Temple of Epiphany
 1 Island
 1 Mountain
-2 Temple of Epiphany
 2 Island
-3 Saw It Coming
+4 Prismari Command
+2 Temple of Epiphany
 2 Mountain
 3 Mountain
-3 Island
 4 Mountain
+3 Island
+3 Saw It Coming
 4 Island
 3 Temple of Epiphany
 4 Temple of Epiphany
 1 Torrent Sculptor
 2 Torrent Sculptor
 3 Torrent Sculptor
-1 Shatterskull Smashing
-1 Behold the Multiverse
+6 Snow-Covered Island
 5 Snow-Covered Mountain
-1 Shark Typhoon
+1 Behold the Multiverse
+1 Shatterskull Smashing
 4 Saw It Coming
 2 Shatterskull Smashing
 4 Torrent Sculptor
 1 Crawling Barrens
 1 Draconic Intervention
-7 Snow-Covered Island
-1 Castle Vantress
+1 Raugrin Triome
+2 Raugrin Triome
 1 Irencrag Feat
+1 Castle Vantress
 1 Ugin, the Spirit Dragon
 1 Test of Talents
 2 Irencrag Feat
@@ -43,20 +43,21 @@
 2 Test of Talents
 3 Irencrag Feat
 3 Ugin, the Spirit Dragon
-4 Ugin, the Spirit Dragon
 4 Irencrag Feat
-1 Negate
-1 Raugrin Triome
-2 Raugrin Triome
-5 Mountain
-5 Island
-6 Island
+4 Ugin, the Spirit Dragon
 2 Draconic Intervention
 3 Shatterskull Smashing
 3 Draconic Intervention
 4 Draconic Intervention
-2 Behold the Multiverse
+5 Mountain
+5 Island
+6 Island
+1 Shark Typhoon
+1 Negate
+3 Raugrin Triome
+4 Raugrin Triome
 6 Snow-Covered Mountain
+7 Snow-Covered Island
 7 Snow-Covered Mountain
 1 Shock
 1 Opt
@@ -67,9 +68,9 @@
 2 Stormwing Entity
 2 Lofty Denial
 3 Opt
+3 Shock
 3 Stormwing Entity
 3 Lofty Denial
-3 Shock
 4 Opt
 4 Stormwing Entity
 4 Lofty Denial
@@ -77,23 +78,18 @@
 1 Creative Outburst
 2 Creative Outburst
 6 Mountain
-3 Raugrin Triome
-4 Raugrin Triome
-2 Shark Typhoon
+2 Behold the Multiverse
 1 Sea Gate Restoration
+4 Galazeth Prismari
 1 Disdainful Stroke
 1 Jwari Disruption
 2 Crawling Barrens
 2 Fire Prophecy
-1 Graven Lore
-1 Essence Scatter
-2 Negate
-2 Disdainful Stroke
 4 Shatterskull Smashing
-1 Blightstep Pathway
-1 Clearwater Pathway
-1 Zagoth Triome
 1 Pelakka Predation
+1 Zagoth Triome
+1 Clearwater Pathway
+1 Blightstep Pathway
 1 Swamp
 1 Heartless Act
 1 Baleful Mastery
@@ -106,13 +102,42 @@
 2 Baleful Mastery
 2 Heartless Act
 2 Mazemind Tome
-3 Clearwater Pathway
 3 Mazemind Tome
+3 Clearwater Pathway
 3 Blightstep Pathway
 4 Clearwater Pathway
 4 Blightstep Pathway
-4 Galazeth Prismari
+1 Temple of Enlightenment
+1 Skyclave Apparition
+1 Golden Egg
+1 Elspeth Conquers Death
+1 Essence Scatter
+1 Elite Spellbinder
+1 Giant Killer
+1 Furycalm Snarl
+1 Inspired Ultimatum
+1 Plains
+1 Glass Casket
+2 Plains
+2 Golden Egg
+2 Elspeth Conquers Death
+2 Skyclave Apparition
+2 Elite Spellbinder
+2 Glass Casket
+2 Temple of Enlightenment
+2 Furycalm Snarl
+3 Golden Egg
+3 Plains
+3 Temple of Enlightenment
+3 Elite Spellbinder
+3 Furycalm Snarl
+4 Plains
+4 Elite Spellbinder
+4 Golden Egg
+5 Plains
+6 Plains
 1 Gadwick, the Wizened
+2 Shark Typhoon
 2 Gadwick, the Wizened
 3 Shark Typhoon
 3 Gadwick, the Wizened

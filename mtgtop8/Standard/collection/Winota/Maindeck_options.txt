@@ -1,15 +1,19 @@
+4 Archon of Emeria
 4 Luminarch Aspirant
-1 Mountain
 2 Mountain
-3 Plains
-3 Mountain
 1 Fabled Passage
 2 Fabled Passage
-3 Fabled Passage
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 3 Bonecrusher Giant
+3 Plains
+3 Fabled Passage
 4 Bonecrusher Giant
+1 Jaspera Sentinel
+2 Jaspera Sentinel
+3 Jaspera Sentinel
+4 Jaspera Sentinel
+3 Mountain
 1 Blade Historian
 2 Blade Historian
 4 Plains
@@ -35,75 +39,76 @@
 9 Plains
 4 Blade Historian
 5 Mountain
+1 Embercleave
+1 Lovestruck Beast
+2 Lovestruck Beast
+3 Lovestruck Beast
 1 Elite Spellbinder
 2 Elite Spellbinder
 3 Elite Spellbinder
 1 Elder Gargaroth
-1 Jaspera Sentinel
-2 Jaspera Sentinel
-3 Jaspera Sentinel
-4 Jaspera Sentinel
 4 Fabled Passage
 1 Haktos the Unscarred
-1 Lovestruck Beast
-1 Toski, Bearer of Secrets
 1 Edgewall Innkeeper
-2 Lovestruck Beast
-2 Toski, Bearer of Secrets
+1 Toski, Bearer of Secrets
 2 Edgewall Innkeeper
-3 Toski, Bearer of Secrets
+2 Toski, Bearer of Secrets
 3 Edgewall Innkeeper
-3 Lovestruck Beast
-4 Lovestruck Beast
+3 Toski, Bearer of Secrets
 4 Edgewall Innkeeper
+4 Lovestruck Beast
+1 Maul of the Skyclaves
+3 Forest
+4 Forest
+1 Lotus Cobra
+1 Tajuru Paragon
+1 Archpriest of Iona
+2 Lotus Cobra
+2 Tajuru Paragon
+2 Archpriest of Iona
+3 Tajuru Paragon
+3 Archpriest of Iona
+4 Archpriest of Iona
+4 Tajuru Paragon
 1 Temple of Triumph
 2 Temple of Triumph
-1 Clarion Spirit
-2 Clarion Spirit
-3 Clarion Spirit
 1 Faerie Guidemother
 2 Faerie Guidemother
 3 Faerie Guidemother
 4 Faerie Guidemother
+1 Clarion Spirit
+2 Clarion Spirit
+3 Clarion Spirit
 4 Elite Spellbinder
 10 Plains
-1 Embercleave
-3 Forest
-4 Forest
 1 Alseid of Life's Bounty
 2 Alseid of Life's Bounty
 3 Alseid of Life's Bounty
 6 Mountain
 7 Mountain
 2 Embercleave
-1 Maul of the Skyclaves
+1 Fireblade Charger
+2 Maul of the Skyclaves
+2 Fireblade Charger
+3 Fireblade Charger
 1 Ox of Agonas
-1 Alpine Watchdog
-1 Bolt Hound
-1 Alpine Houndmaster
-1 Pack Leader
-1 Igneous Cur
-1 Showdown of the Skalds
-2 Bolt Hound
-2 Pack Leader
-2 Alpine Houndmaster
-2 Alpine Watchdog
-2 Igneous Cur
-2 Showdown of the Skalds
-3 Pack Leader
-3 Alpine Houndmaster
-3 Alpine Watchdog
-3 Igneous Cur
-3 Bolt Hound
-3 Embercleave
-4 Embercleave
-4 Pack Leader
-4 Alpine Houndmaster
+1 Darkbore Pathway
+1 Tazri, Beacon of Unity
+2 Darkbore Pathway
+1 Radha, Heart of Keld
+1 Wildwood Tracker
+1 Bronzehide Lion
+2 Wildwood Tracker
+2 Radha, Heart of Keld
+3 Lotus Cobra
+3 Wildwood Tracker
+3 Radha, Heart of Keld
+4 Lotus Cobra
 1 Castle Embereth
 1 Reverent Hoplite
 1 Crawling Barrens
-1 Syr Konrad, the Grim
 1 Victory's Envoy
+1 Syr Konrad, the Grim
 2 Castle Embereth
 2 Crawling Barrens
 4 Alseid of Life's Bounty
@@ -117,22 +122,40 @@
 4 Furycalm Snarl
 4 Shatterskull Smashing
 4 Usher of the Fallen
-1 Fireblade Charger
+1 Alpine Watchdog
+1 Igneous Cur
+1 Pack Leader
+1 Alpine Houndmaster
+1 Showdown of the Skalds
+1 Bolt Hound
+2 Igneous Cur
+2 Alpine Watchdog
+2 Alpine Houndmaster
+2 Pack Leader
+2 Showdown of the Skalds
+2 Bolt Hound
+3 Alpine Watchdog
+3 Bolt Hound
+3 Embercleave
+3 Igneous Cur
+3 Pack Leader
+3 Alpine Houndmaster
+4 Embercleave
+4 Alpine Houndmaster
+4 Pack Leader
 1 Akiri, Fearless Voyager
 1 Kabira Takedown
 1 Kor Blademaster
 1 Sejiri Shelter
+1 Wind-Scarred Crag
 1 Spikefield Hazard
 1 Shadowspear
-1 Wind-Scarred Crag
 1 Kargan Intimidator
 1 Kargan Warleader
 1 Legion Angel
-2 Spikefield Hazard
-2 Maul of the Skyclaves
 2 Akiri, Fearless Voyager
-2 Fireblade Charger
 2 Kor Blademaster
+2 Spikefield Hazard
 2 Legion Angel
 2 Kargan Intimidator
 2 Kabira Takedown
@@ -140,7 +163,6 @@
 2 Kargan Warleader
 3 Maul of the Skyclaves
 3 Spikefield Hazard
-3 Fireblade Charger
 3 Temple of Triumph
 3 Kor Blademaster
 3 Kargan Warleader
@@ -153,25 +175,6 @@
 4 Temple of Triumph
 4 Kargan Intimidator
 4 Seasoned Hallowblade
-1 Lotus Cobra
-1 Tajuru Paragon
-1 Radha, Heart of Keld
-1 Wildwood Tracker
-1 Bronzehide Lion
-1 Archpriest of Iona
-2 Lotus Cobra
-2 Tajuru Paragon
-2 Archpriest of Iona
-2 Wildwood Tracker
-2 Radha, Heart of Keld
-3 Lotus Cobra
-3 Tajuru Paragon
-3 Wildwood Tracker
-3 Radha, Heart of Keld
-3 Archpriest of Iona
-4 Lotus Cobra
-4 Archpriest of Iona
-4 Tajuru Paragon
 5 Forest
 6 Forest
 1 Shaile, Dean of Radiance

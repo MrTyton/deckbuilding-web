@@ -3,9 +3,9 @@
 21 Snow-Covered Forest
 1 Old-Growth Troll
 2 Old-Growth Troll
-1 In Search of Greatness
 1 Yorvo, Lord of Garenbrig
 1 Nessian Hornbeetle
+1 In Search of Greatness
 2 Nessian Hornbeetle
 2 Vivien, Monsters' Advocate
 3 Old-Growth Troll
@@ -21,36 +21,36 @@
 2 Blizzard Brawl
 4 Old-Growth Troll
 3 Faceless Haven
-1 Icehide Troll
-1 Fynn, the Fangbearer
-1 Tajuru Blightblade
-1 Bala Ged Recovery
 1 Rune of Might
+1 Fynn, the Fangbearer
+1 Icehide Troll
+1 Bala Ged Recovery
+1 Tajuru Blightblade
+1 Toski, Bearer of Secrets
 1 Ram Through
 1 Moss Viper
-1 Toski, Bearer of Secrets
 1 Heroic Intervention
 1 Runed Crown
-2 Icehide Troll
+2 Rune of Might
 2 Bala Ged Recovery
 2 Fynn, the Fangbearer
+2 Icehide Troll
 2 Tajuru Blightblade
-2 Rune of Might
 2 Ram Through
 2 Moss Viper
-3 Fynn, the Fangbearer
-3 Icehide Troll
-3 Tajuru Blightblade
-3 Blizzard Brawl
 3 Rune of Might
+3 Fynn, the Fangbearer
+3 Blizzard Brawl
+3 Tajuru Blightblade
 3 Ram Through
 3 Moss Viper
-4 Fynn, the Fangbearer
+3 Icehide Troll
 4 Rune of Might
+4 Fynn, the Fangbearer
+4 Blizzard Brawl
 4 Tajuru Blightblade
 4 Moss Viper
 4 Icehide Troll
-4 Blizzard Brawl
 4 Ram Through
 1 Crawling Barrens
 1 Forest
@@ -73,16 +73,16 @@
 1 Wicked Wolf
 1 Trail of Crumbs
 1 Gilded Goose
-1 Witch's Oven
 1 Feasting Troll King
+1 Witch's Oven
 2 Feasting Troll King
 2 Wicked Wolf
 2 Trail of Crumbs
 2 Gilded Goose
 3 Wicked Wolf
 3 Gilded Goose
-4 Wicked Wolf
 4 Gilded Goose
+4 Wicked Wolf
 1 Fierce Empath
 1 Kogla, the Titan Ape
 2 In Search of Greatness
@@ -92,20 +92,22 @@
 3 Trail of Crumbs
 3 Nessian Hornbeetle
 4 Nessian Hornbeetle
+4 Stonecoil Serpent
+4 Swarm Shambler
 1 Elvish Warmaster
+1 Llanowar Visionary
 1 Tyvar Kell
 1 Jaspera Sentinel
 1 Turntimber Symbiosis
 1 Wildborn Preserver
-1 Llanowar Visionary
 1 Cragplate Baloth
+1 Shadowspear
 1 Masked Vandal
 1 Canopy Tactician
-1 Shadowspear
 1 Skyway Sniper
+2 Llanowar Visionary
 2 Jaspera Sentinel
 2 Fierce Empath
-2 Llanowar Visionary
 2 Wildborn Preserver
 2 Masked Vandal
 2 Tyvar Kell
@@ -115,11 +117,9 @@
 3 Elvish Warmaster
 3 Jaspera Sentinel
 4 Faceless Haven
-4 Wildborn Preserver
 4 Elvish Warmaster
 4 Jaspera Sentinel
-4 Stonecoil Serpent
-4 Swarm Shambler
+4 Wildborn Preserver
 1 Thrashing Brontodon
 2 Thrashing Brontodon
 2 Witch's Oven

@@ -25,16 +25,16 @@
 2 Call of the Death-Dweller
 3 Call of the Death-Dweller
 1 Village Rites
-3 Skyclave Shade
-1 Bloodsky Berserker
-2 Bloodsky Berserker
-3 Bloodsky Berserker
 2 Village Rites
 1 Serrated Scorpion
 2 Serrated Scorpion
 3 Serrated Scorpion
 4 Serrated Scorpion
+3 Skyclave Shade
+1 Bloodsky Berserker
+2 Bloodsky Berserker
 3 Faceless Haven
+3 Bloodsky Berserker
 4 Bloodsky Berserker
 3 Village Rites
 1 Malakir Rebirth
@@ -43,8 +43,8 @@
 1 Heartless Act
 2 Heartless Act
 1 Temple of Malady
-1 Binding the Old Gods
 1 Elspeth's Nightmare
+1 Binding the Old Gods
 1 Chevill, Bane of Monsters
 1 Esika's Chariot
 1 Fabled Passage
@@ -68,8 +68,8 @@
 3 Setessan Champion
 4 Fabled Passage
 4 Binding the Old Gods
-4 Chevill, Bane of Monsters
 4 Malakir Rebirth
+4 Chevill, Bane of Monsters
 4 Setessan Champion
 4 Darkbore Pathway
 1 Fiend Artisan
@@ -85,13 +85,13 @@
 1 Valki, God of Lies
 18 Snow-Covered Swamp
 19 Snow-Covered Swamp
+1 Sea Gate Restoration
 1 Vorinclex, Monstrous Raider
 1 Kiora Bests the Sea God
 1 Alrund's Epiphany
 1 Island
 1 Zagoth Triome
 1 Elder Gargaroth
-1 Sea Gate Restoration
 1 Nessian Wanderer
 1 Barkchannel Pathway
 1 Emergent Ultimatum
@@ -106,25 +106,15 @@
 3 Clearwater Pathway
 3 Emergent Ultimatum
 3 Barkchannel Pathway
-4 Zagoth Triome
 4 Clearwater Pathway
 4 Barkchannel Pathway
 4 Emergent Ultimatum
-1 Luminarch Aspirant
-1 Nullpriest of Oblivion
-2 Nullpriest of Oblivion
-2 Luminarch Aspirant
-3 Luminarch Aspirant
+4 Zagoth Triome
 1 Plains
 2 Plains
 3 Plains
 4 Plains
 5 Plains
-1 Emeria's Call
-1 Brightclimb Pathway
-2 Brightclimb Pathway
-3 Brightclimb Pathway
-4 Brightclimb Pathway
 1 Hunted Nightmare
 2 Hunted Nightmare
 1 Kitesail Freebooter
@@ -140,9 +130,11 @@
 4 Agadeem's Awakening
 4 Kitesail Freebooter
 1 Tymaret Calls the Dead
+1 Emeria's Call
 1 Archon of Sun's Grace
 1 Humiliate
 1 Vanishing Verse
+1 Brightclimb Pathway
 1 Dramatic Finale
 1 Shineshadow Snarl
 1 Alseid of Life's Bounty
@@ -152,24 +144,27 @@
 2 Alseid of Life's Bounty
 2 Humiliate
 2 Emeria's Call
+2 Brightclimb Pathway
 2 Shineshadow Snarl
 2 Dramatic Finale
 3 Emeria's Call
+3 Brightclimb Pathway
 3 Tymaret Calls the Dead
 3 Archon of Sun's Grace
-3 Shineshadow Snarl
 3 Dramatic Finale
+3 Shineshadow Snarl
 3 Vanishing Verse
 3 Alseid of Life's Bounty
 3 Humiliate
 4 Tymaret Calls the Dead
+4 Brightclimb Pathway
 4 Archon of Sun's Grace
 4 Shineshadow Snarl
 1 Priest of the Haunted Edge
 1 Crashing Drawbridge
 1 Whisper Squad
-2 Whisper Squad
 2 Priest of the Haunted Edge
+2 Whisper Squad
 3 Whisper Squad
 3 Priest of the Haunted Edge
 4 Priest of the Haunted Edge
@@ -186,50 +181,29 @@
 1 Eliminate
 1 Shadowspear
 1 Feed the Swarm
+1 Nullpriest of Oblivion
 1 Elderfang Disciple
+1 Luminarch Aspirant
 1 Unlikely Aid
 1 Demonic Gifts
 1 Scoured Barrens
 2 Eliminate
-2 Scoured Barrens
-2 Demonic Gifts
 2 Feed the Swarm
+2 Scoured Barrens
+2 Luminarch Aspirant
+2 Demonic Gifts
 2 Elderfang Disciple
 2 Unlikely Aid
-3 Elderfang Disciple
+2 Nullpriest of Oblivion
+3 Eliminate
 3 Feed the Swarm
 3 Scoured Barrens
 3 Demonic Gifts
-3 Eliminate
+3 Luminarch Aspirant
+3 Elderfang Disciple
 4 Eliminate
 4 Feed the Swarm
 4 Scoured Barrens
-1 Halvar, God of Battle
-1 Speaker of the Heavens
-1 Giant Killer
-1 Castle Ardenvale
-1 Sentinel's Eyes
-1 Snow-Covered Plains
-1 Legion Angel
-1 Snowfield Sinkhole
-2 Sentinel's Eyes
-2 Halvar, God of Battle
-2 Speaker of the Heavens
-2 Giant Killer
-2 Snowfield Sinkhole
-2 Snow-Covered Plains
-3 Speaker of the Heavens
-3 Giant Killer
-3 Nullpriest of Oblivion
-3 Snowfield Sinkhole
-3 Snow-Covered Plains
-4 Speaker of the Heavens
-4 Giant Killer
-4 Snowfield Sinkhole
-4 Snow-Covered Plains
-4 Demonic Embrace
-4 Luminarch Aspirant
-5 Snow-Covered Plains
 1 Duress
 1 Deathknell Berserker
 1 Duskwielder

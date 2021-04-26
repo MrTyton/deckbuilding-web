@@ -1,43 +1,45 @@
 1 Kolaghan's Command
 4 Kaya's Guile
 1 Unmoored Ego
+1 Mountain
 1 Snow-Covered Forest
 1 Snow-Covered Island
-1 Snow-Covered Plains
-4 Misty Rainforest
-1 Mountain
 4 Teferi, Time Raveler
-4 Windswept Heath
+1 Snow-Covered Plains
 1 Pillar of the Paruns
 2 Pillar of the Paruns
-1 Island
 1 Nahiri, the Harbinger
 4 Omnath, Locus of Creation
 2 Verdant Catacombs
 3 Pillar of the Paruns
+1 Island
 2 Assassin's Trophy
+4 Misty Rainforest
 1 Plains
+4 Windswept Heath
+2 Nahiri, the Harbinger
+2 Forest
 1 Snow-Covered Mountain
 2 Snow-Covered Forest
 1 Raugrin Triome
 1 Hallowed Fountain
-1 Phantasmal Image
-1 Skyclave Apparition
-1 Omen of the Forge
 1 Charming Prince
+1 Omen of the Sea
+1 Phantasmal Image
+1 Omen of the Forge
+1 Skyclave Apparition
 1 Reflector Mage
 1 Meddling Mage
-1 Scavenging Ooze
 1 Magus of the Moon
-1 Omen of the Sea
+1 Scavenging Ooze
 1 Enigmatic Incarnation
 1 Lurrus of the Dream-Den
 1 Glasspool Mimic
 1 Brain Maggot
 1 Spellskite
-2 Skyclave Apparition
-2 Omen of the Forge
 2 Omen of the Sea
+2 Omen of the Forge
+2 Skyclave Apparition
 2 Enigmatic Incarnation
 3 Omen of the Sea
 3 Enigmatic Incarnation
@@ -45,17 +47,15 @@
 4 Enigmatic Incarnation
 1 Renegade Rallier
 2 Renegade Rallier
-2 Forest
 1 Seal of Fire
 1 Spreading Seas
 2 Spreading Seas
 3 Skyclave Apparition
 3 Spreading Seas
 4 Spreading Seas
-1 Sacred Foundry
-2 Nahiri, the Harbinger
-1 Abrupt Decay
 3 Assassin's Trophy
+1 Sacred Foundry
+1 Abrupt Decay
 1 Swamp
 1 Deputy of Detention
 1 Snow-Covered Swamp
@@ -93,8 +93,6 @@
 2 Spirebluff Canal
 4 Flooded Strand
 4 Ardent Plea
-1 Scalding Tarn
-2 Scalding Tarn
 1 Botanical Sanctum
 1 Violent Outburst
 1 Desert Cerodon
@@ -104,18 +102,20 @@
 3 Desert Cerodon
 4 Violent Outburst
 4 Desert Cerodon
+1 Scalding Tarn
+2 Scalding Tarn
 2 Brazen Borrower
 3 Scalding Tarn
+4 Assassin's Trophy
 2 Botanical Sanctum
 3 Brazen Borrower
 1 Mana Confluence
-4 Wooded Foothills
 2 Lurrus of the Dream-Den
-4 Assassin's Trophy
 3 Birds of Paradise
 4 Brazen Borrower
 1 Glassdust Hulk
 4 Scalding Tarn
+4 Wooded Foothills
 1 Dreadbore
 2 Glassdust Hulk
 1 Kitchen Finks
@@ -124,15 +124,15 @@
 1 Inspiring Vantage
 1 Ephemerate
 1 Knight of Autumn
+1 Deafening Clarion
 1 Fulminator Mage
 1 Uro, Titan of Nature's Wrath
-1 Deafening Clarion
-1 On Thin Ice
 1 Seasoned Pyromancer
+1 On Thin Ice
 4 Skyclave Apparition
 2 Seal of Fire
-1 Batterskull
 1 Stoneforge Mystic
+1 Batterskull
 1 Sword of Feast and Famine
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -143,13 +143,12 @@
 4 Living End
 1 Goblin Cratermaker
 1 Lithoform Blight
-2 Valki, God of Lies
 4 Stoneforge Mystic
+2 Valki, God of Lies
 1 Sword of Fire and Ice
 1 Trial of Ambition
 1 Vanishing Verse
 2 Temple Garden
-1 Felidar Guardian
 1 Eidolon of Rhetoric
 2 As Foretold
 3 As Foretold
@@ -159,34 +158,35 @@
 2 Steam Vents
 3 Steam Vents
 1 Remand
-2 Remand
-3 Remand
-4 Remand
 1 Electrodominance
 1 Fiery Islet
 1 Crashing Footfalls
 1 Silundi Vision
+2 Remand
 2 Fiery Islet
 2 Electrodominance
 2 Crashing Footfalls
 3 Crashing Footfalls
 3 Spirebluff Canal
+3 Remand
 3 Electrodominance
 4 Electrodominance
 4 Spirebluff Canal
+4 Remand
 4 Crashing Footfalls
+1 Felidar Guardian
 1 Saheeli Rai
-1 Oath of Nissa
-2 Felidar Guardian
-2 Oath of Nissa
-3 Felidar Guardian
-3 Oath of Nissa
 1 Zagoth Triome
 1 Ice-Fang Coatl
 3 Forest
 4 Birds of Paradise
+1 Oath of Nissa
+2 Felidar Guardian
 2 Saheeli Rai
+2 Oath of Nissa
 3 Saheeli Rai
+3 Felidar Guardian
+3 Oath of Nissa
 1 Cryptic Command
 2 Abrupt Decay
 1 Seachrome Coast
@@ -197,7 +197,6 @@
 1 Mystical Dispute
 1 Architects of Will
 2 Architects of Will
-4 Oath of Nissa
 1 Path to Exile
 2 Path to Exile
 1 Calix, Destiny's Hand
@@ -216,7 +215,7 @@
 3 Waker of Waves
 4 Island
 4 Waker of Waves
-4 Felidar Guardian
+4 Oath of Nissa
 1 Ancestral Vision
 3 Glassdust Hulk
 4 Glassdust Hulk
@@ -225,7 +224,6 @@
 2 Hallowed Fountain
 5 Island
 6 Island
-1 Savai Triome
 1 Imposing Vantasaur
 2 Seachrome Coast
 1 Thoughtseize
@@ -236,12 +234,12 @@
 2 Fatal Push
 2 Glittering Wish
 3 Verdant Catacombs
+3 Fatal Push
 3 Thoughtseize
 3 Glittering Wish
-3 Fatal Push
-4 Fatal Push
 4 Pillar of the Paruns
 4 Thoughtseize
+4 Fatal Push
 4 Glittering Wish
 1 Cosima, God of the Voyage
 1 Archon of Emeria
@@ -250,21 +248,23 @@
 1 Heliod, Sun-Crowned
 1 Omen of the Dead
 2 Vanishing Verse
+2 Prismari Command
+3 Prismari Command
 1 Golos, Tireless Pilgrim
 1 Huntmaster of the Fells
 1 Klothys, God of Destiny
 2 Stomping Ground
-2 Prismari Command
-3 Prismari Command
+4 Felidar Guardian
 3 Omen of the Forge
 4 Omen of the Forge
 1 Vendilion Clique
 1 Urza's Ruinous Blast
 1 Valakut Awakening
 2 Valakut Awakening
-2 Dreadbore
 1 Gemstone Caverns
 2 Gemstone Caverns
+1 Savai Triome
+2 Dreadbore
 2 Mystical Dispute
 1 Commandeer
 2 Commandeer
@@ -283,19 +283,6 @@
 3 Path to Exile
 4 Lotus Cobra
 4 Saheeli Rai
-1 Kiki-Jiki, Mirror Breaker
-1 Arid Mesa
-1 Pestermite
-1 Sylvan Caryatid
-1 Blood Crypt
-1 Deceiver Exarch
-2 Kiki-Jiki, Mirror Breaker
-2 Deceiver Exarch
-2 Sylvan Caryatid
-3 Deceiver Exarch
-3 Kiki-Jiki, Mirror Breaker
-4 Kiki-Jiki, Mirror Breaker
-4 Deceiver Exarch
 1 Polluted Delta
 1 Faerie Macabre
 1 Sunken Ruins
@@ -313,9 +300,9 @@
 3 Adarkar Wastes
 3 Imposing Vantasaur
 4 Seachrome Coast
-4 Polluted Delta
 4 Imposing Vantasaur
 4 Adarkar Wastes
+4 Polluted Delta
 1 Glacial Fortress
 2 Glacial Fortress
 2 Cryptic Command
