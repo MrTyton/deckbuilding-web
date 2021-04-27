@@ -1,4 +1,3 @@
-1 Forest
 1 Mountain
 1 Plains
 1 Island
@@ -8,6 +7,7 @@
 4 The Raven's Warning
 1 Sunpetal Grove
 2 Sunpetal Grove
+1 Forest
 1 Breeding Pool
 2 Plains
 3 Plains
@@ -15,13 +15,13 @@
 3 Deafening Clarion
 1 Nahiri, the Harbinger
 1 Supreme Verdict
-1 Anger of the Gods
-2 Castle Vantress
 2 Supreme Verdict
 3 Supreme Verdict
-3 Agent of Treachery
+1 Anger of the Gods
+2 Castle Vantress
 4 Deafening Clarion
 1 Hinterland Harbor
+3 Agent of Treachery
 2 Anger of the Gods
 1 Temple Garden
 2 Hinterland Harbor
@@ -59,8 +59,8 @@
 4 Nylea's Presence
 4 Trial of Ambition
 1 Snow-Covered Island
-1 Snow-Covered Mountain
 1 Snow-Covered Plains
+1 Snow-Covered Mountain
 1 Snow-Covered Forest
 2 Snow-Covered Plains
 3 Snow-Covered Plains
@@ -76,8 +76,8 @@
 1 Klothys, God of Destiny
 1 Isolated Chapel
 1 Lurrus of the Dream-Den
-1 Indatha Triome
 1 Oath of Kaya
+1 Indatha Triome
 1 Stomping Ground
 2 Stomping Ground
 2 Indatha Triome

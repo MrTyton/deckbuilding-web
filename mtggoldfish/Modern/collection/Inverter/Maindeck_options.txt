@@ -1,22 +1,3 @@
-2 Serum Visions
-3 Serum Visions
-4 Shelldock Isle
-1 Talisman of Dominance
-1 Wishclaw Talisman
-2 Talisman of Dominance
-3 Talisman of Dominance
-1 Pentad Prism
-1 City of Brass
-1 Seachrome Coast
-1 Talisman of Progress
-1 Spoils of the Vault
-1 Angel's Grace
-1 Gemstone Mine
-1 Phyrexian Unlife
-2 Pentad Prism
-2 Seachrome Coast
-2 Spoils of the Vault
-2 Phyrexian Unlife
 2 Gemstone Mine
 2 City of Brass
 2 Angel's Grace
@@ -31,25 +12,44 @@
 4 Pentad Prism
 4 Phyrexian Unlife
 4 Angel's Grace
-3 Drowned Catacomb
 4 Serum Visions
+1 Clearwater Pathway
 3 Polluted Delta
 1 Sunken Ruins
-1 Murderous Cut
+1 Swamp
+1 River of Tears
+4 Polluted Delta
+3 Thoughtseize
+1 Omen of the Sea
+2 Omen of the Sea
+1 Drowned Catacomb
+2 Drowned Catacomb
+1 Eldrazi Temple
+2 Eldrazi Temple
+2 River of Tears
+3 Omen of the Sea
+4 Omen of the Sea
+4 Watery Grave
+1 Opt
+2 Opt
+3 Opt
+3 River of Tears
+4 Opt
+4 River of Tears
 2 Wishclaw Talisman
-1 Clearwater Pathway
+1 Murderous Cut
 1 Archmage's Charm
 2 Archmage's Charm
-4 Polluted Delta
+4 Inquisition of Kozilek
+3 Drowned Catacomb
 1 Cling to Dust
 1 Snow-Covered Island
 1 Snow-Covered Swamp
-1 Pact of Negation
 1 Flooded Strand
-4 Inquisition of Kozilek
-3 Eldrazi Temple
-3 Seachrome Coast
 2 Island
+1 Pact of Negation
+3 Seachrome Coast
+3 Eldrazi Temple
 3 Island
 4 Relic of Progenitus
 2 Flooded Strand
@@ -69,15 +69,15 @@
 1 Cavern of Souls
 1 Misty Rainforest
 4 Jace, Wielder of Mysteries
-1 Logic Knot
 1 Sunken Hollow
 1 Tasigur, the Golden Fang
 1 Force of Negation
+1 Logic Knot
 1 Cryptic Command
 1 Thought Scour
-2 Cryptic Command
 2 Scalding Tarn
 2 Snow-Covered Swamp
+2 Cryptic Command
 2 Misty Rainforest
 2 Force of Negation
 2 Snow-Covered Island
@@ -93,17 +93,16 @@
 4 Thought Scour
 5 Snow-Covered Island
 1 Dismember
-1 Snapcaster Mage
 1 Gideon of the Trials
 1 Hengegate Pathway
 2 Gideon of the Trials
-4 Drowned Catacomb
+4 Archmage's Charm
+2 Swamp
 2 Sunken Ruins
 1 Reflecting Pool
+1 Snapcaster Mage
 1 Temple of Enlightenment
 1 Temple of Deceit
-1 Shadow of Doubt
-1 Doom Whisperer
 2 Plains
 1 Port of Karfell
 1 Bloodchief's Thirst
@@ -114,8 +113,9 @@
 1 Leveler
 2 Eliminate
 2 Bloodchief's Thirst
-4 Archmage's Charm
+1 Shadow of Doubt
+1 Doom Whisperer
+4 Drowned Catacomb
 1 Clutch of the Undercity
-2 Swamp
 4 Thoughtseize
 2 Clearwater Pathway

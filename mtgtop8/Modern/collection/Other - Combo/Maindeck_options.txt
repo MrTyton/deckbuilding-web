@@ -50,14 +50,14 @@
 2 Talisman of Dominance
 1 Unearth
 2 Pelakka Predation
-1 Shimmer of Possibility
 1 Halimar Depths
+1 Shimmer of Possibility
 1 Snow-Covered Island
 1 Spirebluff Canal
 1 Vizier of Tumbling Sands
 2 Vizier of Tumbling Sands
-2 Spirebluff Canal
 2 Snow-Covered Island
+2 Spirebluff Canal
 2 Grapeshot
 3 Tolaria West
 3 Spirebluff Canal
@@ -67,8 +67,6 @@
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
-1 Valakut Awakening
-2 Valakut Awakening
 1 Lightning Bolt
 1 Irencrag Feat
 1 Bala Ged Recovery
@@ -76,8 +74,9 @@
 1 Recross the Paths
 1 Manamorphose
 1 Reforge the Soul
-1 Desperate Ritual
+1 Valakut Awakening
 1 Pyretic Ritual
+1 Desperate Ritual
 1 Infernal Plunge
 1 Ornithopter
 1 Talisman of Impulse
@@ -88,6 +87,7 @@
 2 Manamorphose
 2 Recross the Paths
 2 Talisman of Impulse
+2 Valakut Awakening
 2 Desperate Ritual
 3 Valakut Awakening
 3 Irencrag Feat
@@ -102,92 +102,14 @@
 4 Irencrag Feat
 4 Spikefield Hazard
 4 Manamorphose
-4 Pyretic Ritual
 4 Recross the Paths
 4 Talisman of Impulse
 4 Goblin Charbelcher
+4 Pyretic Ritual
 4 Desperate Ritual
-2 Hagra Mauling
 2 Sphere of the Suns
+2 Hagra Mauling
 1 Unburial Rites
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-1 Wooded Foothills
-2 Wooded Foothills
-3 Wooded Foothills
-4 Wooded Foothills
-1 Transmogrify
-1 Mountain
-1 Steam Vents
-1 Arid Mesa
-1 Scalding Tarn
-1 Polymorph
-1 Dwarven Mine
-1 Bloodstained Mire
-1 Sacred Foundry
-1 Raugrin Triome
-2 Dwarven Mine
-2 Transmogrify
-2 Steam Vents
-2 Scalding Tarn
-2 Arid Mesa
-2 Polymorph
-3 Arid Mesa
-3 Transmogrify
-3 Dwarven Mine
-3 Teferi, Time Raveler
-3 Scalding Tarn
-3 Steam Vents
-4 Dwarven Mine
-4 Arid Mesa
-4 Teferi, Time Raveler
-4 Scalding Tarn
-1 Stomping Ground
-2 Stomping Ground
-1 Ketria Triome
-1 Jace, the Mind Sculptor
-1 Tamiyo, Collector of Tales
-1 Time Warp
-1 Wrenn and Six
-1 Velomachus Lorehold
-1 Omen of the Sea
-1 Growth Spiral
-1 Fires of Invention
-1 Snow-Covered Mountain
-1 Savor the Moment
-1 Chalice of the Void
-2 Sacred Foundry
-2 Wrenn and Six
-2 Tamiyo, Collector of Tales
-2 Jace, the Mind Sculptor
-2 Chalice of the Void
-2 Time Warp
-2 Bloodstained Mire
-2 Fires of Invention
-2 Savor the Moment
-2 Omen of the Sea
-2 Velomachus Lorehold
-2 Growth Spiral
-3 Wrenn and Six
-3 Chalice of the Void
-3 Omen of the Sea
-3 Growth Spiral
-3 Bloodstained Mire
-3 Fires of Invention
-3 Tamiyo, Collector of Tales
-3 Savor the Moment
-3 Time Warp
-4 Bloodstained Mire
-4 Transmogrify
-4 Omen of the Sea
-4 Growth Spiral
-4 Chalice of the Void
-4 Time Warp
-4 Wrenn and Six
-4 Savor the Moment
-4 Fires of Invention
-4 Tamiyo, Collector of Tales
-4 Steam Vents
 1 Thoughtseize
 2 Thoughtseize
 3 Sphere of the Suns
@@ -196,87 +118,6 @@
 2 Inquisition of Kozilek
 2 Talisman of Hierarchy
 3 Inquisition of Kozilek
-1 Remand
-2 Remand
-3 Remand
-4 Remand
-1 Urborg, Tomb of Yawgmoth
-1 Gemstone Mine
-1 Reflecting Pool
-1 Snow-Covered Plains
-1 Snow-Covered Swamp
-2 Gemstone Mine
-3 Gemstone Mine
-4 Gemstone Mine
-1 Windswept Heath
-1 Temple Garden
-1 Oath of Nissa
-2 Oath of Nissa
-2 Windswept Heath
-3 Windswept Heath
-4 Windswept Heath
-1 Eladamri's Call
-1 Sliver Legion
-1 The First Sliver
-1 Cavern of Souls
-1 Morophon, the Boundless
-1 Sorin, Imperious Bloodlord
-1 Sliver Hivelord
-1 Murmuring Bosk
-1 Gemstone Caverns
-1 Snow-Covered Forest
-1 Cloudshredder Sliver
-1 Search for Glory
-1 Summoner's Pact
-1 Dregscape Sliver
-1 Breeding Pool
-1 Mana Confluence
-1 Harmonic Sliver
-2 Mana Confluence
-2 Eladamri's Call
-2 Morophon, the Boundless
-2 Sorin, Imperious Bloodlord
-2 The First Sliver
-2 Summoner's Pact
-2 Search for Glory
-2 Shimmer of Possibility
-2 Sliver Legion
-2 Cloudshredder Sliver
-3 Mana Confluence
-3 The First Sliver
-3 Morophon, the Boundless
-3 Sorin, Imperious Bloodlord
-3 Summoner's Pact
-3 Eladamri's Call
-4 Mana Confluence
-4 Sorin, Imperious Bloodlord
-4 The First Sliver
-4 Morophon, the Boundless
-4 Eladamri's Call
-4 Summoner's Pact
-1 Emrakul, the Aeons Torn
-2 Emrakul, the Aeons Torn
-1 Fire Prophecy
-1 Spell Snare
-1 Repeal
-1 Izzet Charm
-1 Mana Leak
-1 Anger of the Gods
-1 Cloudform
-1 Force of Negation
-2 Mountain
-2 Raugrin Triome
-2 Spell Snare
-2 Anger of the Gods
-2 Force of Negation
-2 Cloudform
-2 Izzet Charm
-2 Lightning Bolt
-3 Lightning Bolt
-3 Polymorph
-3 Force of Negation
-4 Force of Negation
-4 Polymorph
 3 Hagra Mauling
 4 Hagra Mauling
 1 Open the Omenpaths
@@ -289,30 +130,39 @@
 3 Talisman of Indulgence
 4 Open the Omenpaths
 4 Talisman of Indulgence
-1 Phyrexian Unlife
-1 Angel's Grace
-1 Spoils of the Vault
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
 1 City of Brass
-1 Shelldock Isle
 1 Talisman of Progress
+1 Shelldock Isle
 1 Seachrome Coast
 1 Darkslick Shores
 1 Wishclaw Talisman
+1 Urborg, Tomb of Yawgmoth
+1 Gemstone Mine
+1 Reflecting Pool
 1 Inverter of Truth
+1 Angel's Grace
+1 Snow-Covered Plains
+1 Spoils of the Vault
 1 Jace, Wielder of Mysteries
+1 Phyrexian Unlife
+1 Snow-Covered Swamp
 2 Angel's Grace
-2 Phyrexian Unlife
-2 Spoils of the Vault
+2 Gemstone Mine
 2 Darkslick Shores
 2 Shelldock Isle
 2 City of Brass
+2 Spoils of the Vault
+2 Inverter of Truth
 2 Thassa's Oracle
 2 Seachrome Coast
 2 Jace, Wielder of Mysteries
-2 Inverter of Truth
+2 Phyrexian Unlife
 3 Angel's Grace
 3 Phyrexian Unlife
 3 Spoils of the Vault
+3 Gemstone Mine
 3 City of Brass
 3 Talisman of Dominance
 3 Shelldock Isle
@@ -321,11 +171,69 @@
 4 Angel's Grace
 4 Phyrexian Unlife
 4 Spoils of the Vault
-4 Shelldock Isle
 4 City of Brass
 4 Talisman of Dominance
+4 Gemstone Mine
+4 Shelldock Isle
 4 Thassa's Oracle
 4 Inverter of Truth
+1 Emrakul, the Aeons Torn
+1 Wooded Foothills
+2 Emrakul, the Aeons Torn
+2 Wooded Foothills
+3 Wooded Foothills
+4 Wooded Foothills
+1 Fire Prophecy
+1 Transmogrify
+1 Spell Snare
+1 Repeal
+1 Mountain
+1 Steam Vents
+1 Arid Mesa
+1 Scalding Tarn
+1 Polymorph
+1 Izzet Charm
+1 Dwarven Mine
+1 Mana Leak
+1 Bloodstained Mire
+1 Remand
+1 Sacred Foundry
+1 Anger of the Gods
+1 Raugrin Triome
+1 Cloudform
+1 Force of Negation
+2 Mountain
+2 Dwarven Mine
+2 Transmogrify
+2 Raugrin Triome
+2 Remand
+2 Spell Snare
+2 Anger of the Gods
+2 Steam Vents
+2 Scalding Tarn
+2 Cloudform
+2 Force of Negation
+2 Arid Mesa
+2 Izzet Charm
+2 Lightning Bolt
+2 Polymorph
+3 Arid Mesa
+3 Transmogrify
+3 Dwarven Mine
+3 Teferi, Time Raveler
+3 Scalding Tarn
+3 Remand
+3 Lightning Bolt
+3 Polymorph
+3 Force of Negation
+3 Steam Vents
+4 Dwarven Mine
+4 Arid Mesa
+4 Teferi, Time Raveler
+4 Scalding Tarn
+4 Force of Negation
+4 Polymorph
+4 Remand
 1 Karn, the Great Creator
 1 Lukka, Coppercoat Outcast
 1 Arbor Elf
@@ -334,17 +242,25 @@
 1 Nahiri, the Harbinger
 1 Birds of Paradise
 1 Noble Hierarch
+1 Windswept Heath
+1 Temple Garden
+1 Stomping Ground
+1 Oath of Nissa
 1 Utopia Sprawl
 2 Nahiri, the Harbinger
 2 Karn, the Great Creator
 2 Lukka, Coppercoat Outcast
+2 Stomping Ground
 2 Arbor Elf
 2 Forest
 2 Chandra, Torch of Defiance
 2 Noble Hierarch
-2 Utopia Sprawl
+2 Oath of Nissa
 2 Birds of Paradise
+2 Utopia Sprawl
+2 Windswept Heath
 2 Temple Garden
+3 Windswept Heath
 3 Utopia Sprawl
 3 Karn, the Great Creator
 3 Nahiri, the Harbinger
@@ -354,10 +270,11 @@
 3 Stomping Ground
 3 Forest
 3 Arbor Elf
-3 Oath of Nissa
 3 Noble Hierarch
+3 Oath of Nissa
 4 Chandra, Torch of Defiance
 4 Utopia Sprawl
+4 Windswept Heath
 4 Karn, the Great Creator
 4 Arbor Elf
 4 Lukka, Coppercoat Outcast
