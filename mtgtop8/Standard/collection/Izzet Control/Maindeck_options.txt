@@ -27,10 +27,10 @@
 4 Expressive Iteration
 1 Jwari Disruption
 1 Island
-2 Island
 2 Mountain
-3 Island
+2 Island
 3 Mountain
+3 Island
 4 Island
 6 Snow-Covered Mountain
 8 Snow-Covered Island
@@ -81,35 +81,35 @@
 4 Improbable Alliance
 7 Snow-Covered Mountain
 8 Snow-Covered Mountain
-1 Temple of Enlightenment
 1 Raugrin Triome
 1 Dream Trawler
 1 Doomskar
+1 Temple of Enlightenment
 1 Hengegate Pathway
 1 Inspired Ultimatum
 1 Elspeth Conquers Death
 1 Plains
 1 Needleverge Pathway
-2 Dream Trawler
+2 Hengegate Pathway
 2 Raugrin Triome
 2 Doomskar
 2 Plains
-2 Hengegate Pathway
+2 Dream Trawler
 2 Elspeth Conquers Death
 2 Needleverge Pathway
 3 Jwari Disruption
 3 Elspeth Conquers Death
 3 Dream Trawler
 3 Raugrin Triome
+3 Hengegate Pathway
 3 Soul Sear
 3 Doomskar
 3 Needleverge Pathway
-3 Hengegate Pathway
 4 Elspeth Conquers Death
 4 Raugrin Triome
 4 Fire Prophecy
-4 Doomskar
 4 Hengegate Pathway
+4 Doomskar
 4 Needleverge Pathway
 1 Sublime Epiphany
 1 Invasion of the Giants
@@ -138,22 +138,22 @@
 3 Seize the Spoils
 4 Seize the Spoils
 1 Faerie Vandal
-1 Swiftwater Cliffs
 1 Aegar, the Freezing Flame
 1 Windrider Wizard
 1 Lofty Denial
 1 Demon Bolt
+1 Swiftwater Cliffs
 1 Reconnaissance Mission
 1 Goblin Wizardry
 1 Stormwing Entity
+2 Swiftwater Cliffs
 2 Faerie Vandal
 2 Aegar, the Freezing Flame
 2 Lofty Denial
 2 Demon Bolt
-2 Swiftwater Cliffs
+3 Swiftwater Cliffs
 3 Faerie Vandal
 3 Lofty Denial
-3 Swiftwater Cliffs
 4 Swiftwater Cliffs
 1 Torrent Sculptor
 1 Creative Outburst
@@ -162,11 +162,11 @@
 2 Creative Outburst
 2 Draconic Intervention
 3 Torrent Sculptor
-3 Prismari Command
 3 Draconic Intervention
+3 Prismari Command
+4 Prismari Command
 4 Torrent Sculptor
 4 Draconic Intervention
-4 Prismari Command
 6 Mountain
 1 Spikefield Hazard
 1 Shock

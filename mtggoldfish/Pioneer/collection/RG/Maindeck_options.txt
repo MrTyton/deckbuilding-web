@@ -1,5 +1,5 @@
-1 Kiora, Behemoth Beckoner
 2 Kiora, Behemoth Beckoner
+1 Scavenging Ooze
 2 Scavenging Ooze
 1 Burning-Tree Emissary
 2 Burning-Tree Emissary
@@ -19,7 +19,6 @@
 2 Rhonas the Indomitable
 1 Domri, Anarch of Bolas
 2 Domri, Anarch of Bolas
-1 Gilded Goose
 2 Turntimber Symbiosis
 1 Spikefield Hazard
 2 Spikefield Hazard
@@ -36,8 +35,8 @@
 1 Legion Warboss
 1 Goblin Rabblemaster
 2 Legion Warboss
-2 Embercleave
 2 Goblin Rabblemaster
+2 Embercleave
 3 Legion Warboss
 3 Goblin Rabblemaster
 4 Legion Warboss
@@ -52,54 +51,29 @@
 3 Reckless Bushwhacker
 3 Scavenging Ooze
 4 Reckless Bushwhacker
+8 Forest
+1 Kazandu Mammoth
+1 Gallia of the Endless Dance
+1 Voltaic Brawler
+1 Wild Slash
+1 Garruk's Harbinger
+2 Voltaic Brawler
+2 Gallia of the Endless Dance
+2 Garruk's Harbinger
+2 Wild Slash
+3 Voltaic Brawler
+3 Gallia of the Endless Dance
+3 Wild Slash
+3 Garruk's Harbinger
+3 Domri, Anarch of Bolas
+4 Garruk's Harbinger
+4 Voltaic Brawler
+4 Wild Slash
+1 Gilded Goose
 1 Jadelight Ranger
 2 Jadelight Ranger
 3 Jadelight Ranger
 4 Jadelight Ranger
-1 Breeding Pool
-1 Hallowed Fountain
-1 Spell Queller
-1 Archon of Emeria
-1 Dromoka's Command
-1 Glasspool Mimic
-1 Voice of Resurgence
-1 Selfless Spirit
-1 Skyclave Apparition
-1 Tireless Tracker
-1 Glacial Fortress
-1 Temple Garden
-1 Branchloft Pathway
-1 Mana Confluence
-1 Hengegate Pathway
-1 Sunpetal Grove
-1 Botanical Sanctum
-1 Reflector Mage
-2 Branchloft Pathway
-2 Temple Garden
-2 Mana Confluence
-2 Sunpetal Grove
-2 Breeding Pool
-2 Spell Queller
-2 Reflector Mage
-2 Archon of Emeria
-2 Tireless Tracker
-2 Voice of Resurgence
-2 Gilded Goose
-2 Skyclave Apparition
-2 Hallowed Fountain
-2 Glacial Fortress
-2 Botanical Sanctum
-3 Temple Garden
-3 Spell Queller
-3 Botanical Sanctum
-3 Sunpetal Grove
-3 Voice of Resurgence
-3 Skyclave Apparition
-4 Temple Garden
-4 Spell Queller
-4 Botanical Sanctum
-4 Skyclave Apparition
-4 Voice of Resurgence
 1 Ghalta, Primal Hunger
 1 Reckless Rage
 1 Ripjaw Raptor
@@ -112,30 +86,30 @@
 2 Marauding Raptor
 2 Commune with Dinosaurs
 2 Ripjaw Raptor
-3 Reckless Rage
 3 Regisaur Alpha
 3 Commune with Dinosaurs
+3 Reckless Rage
 3 Ripjaw Raptor
 3 Marauding Raptor
 4 Reckless Rage
-4 Regisaur Alpha
 4 Commune with Dinosaurs
 4 Ripjaw Raptor
+4 Regisaur Alpha
 4 Marauding Raptor
 1 Elvish Clancaller
 1 Blooming Marsh
 1 Harald, King of Skemfar
 1 Skemfar Avenger
 1 Llanowar Visionary
-1 Realmwalker
 1 Llanowar Wastes
+1 Realmwalker
 1 Shaman of the Pack
 1 Elvish Warmaster
 1 Overgrown Tomb
 1 Darkbore Pathway
 1 Deathrite Shaman
-1 Chord of Calling
 1 Elvish Visionary
+1 Chord of Calling
 1 Dwynen's Elite
 1 Mutavault
 2 Elvish Clancaller
@@ -145,9 +119,9 @@
 2 Elvish Warmaster
 2 Blooming Marsh
 2 Shaman of the Pack
-2 Realmwalker
 2 Overgrown Tomb
 2 Mutavault
+2 Realmwalker
 2 Dwynen's Elite
 2 Darkbore Pathway
 3 Elvish Clancaller
@@ -163,25 +137,55 @@
 3 Blooming Marsh
 4 Elvish Clancaller
 4 Elvish Warmaster
-4 Overgrown Tomb
-4 Darkbore Pathway
 4 Shaman of the Pack
+4 Darkbore Pathway
+4 Overgrown Tomb
 4 Blooming Marsh
-1 Kazandu Mammoth
-1 Gallia of the Endless Dance
-1 Voltaic Brawler
-1 Wild Slash
-1 Garruk's Harbinger
-2 Voltaic Brawler
-2 Gallia of the Endless Dance
-2 Garruk's Harbinger
-2 Wild Slash
-3 Gallia of the Endless Dance
-3 Wild Slash
-3 Garruk's Harbinger
-3 Voltaic Brawler
-3 Domri, Anarch of Bolas
-4 Garruk's Harbinger
-4 Voltaic Brawler
-4 Wild Slash
-8 Forest
+1 Cultivate
+1 Radiant Fountain
+1 Golos, Tireless Pilgrim
+1 World Breaker
+1 Cascading Cataracts
+1 Arboreal Grazer
+1 Nissa's Pilgrimage
+1 Ulamog, the Ceaseless Hunger
+1 Ugin, the Spirit Dragon
+1 Castle Garenbrig
+1 Shrine of the Forsaken Gods
+1 Sanctum of Ugin
+1 Cavalier of Thorns
+2 Cultivate
+2 Ugin, the Spirit Dragon
+2 Radiant Fountain
+2 Golos, Tireless Pilgrim
+2 Ulamog, the Ceaseless Hunger
+2 World Breaker
+2 Nissa's Pilgrimage
+2 Castle Garenbrig
+2 Cavalier of Thorns
+2 Arboreal Grazer
+2 Shrine of the Forsaken Gods
+3 Cultivate
+3 Ugin, the Spirit Dragon
+3 Radiant Fountain
+3 Shrine of the Forsaken Gods
+3 Arboreal Grazer
+3 Cavalier of Thorns
+3 World Breaker
+3 Nissa's Pilgrimage
+3 Golos, Tireless Pilgrim
+3 Castle Garenbrig
+4 Cultivate
+4 Golos, Tireless Pilgrim
+4 Ugin, the Spirit Dragon
+4 Radiant Fountain
+4 Arboreal Grazer
+4 Shrine of the Forsaken Gods
+4 Castle Garenbrig
+4 Nissa's Pilgrimage
+9 Forest
+10 Forest
+11 Forest
+12 Forest
+13 Forest
+14 Forest

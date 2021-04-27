@@ -30,8 +30,8 @@
 3 Daze
 1 Underground Sea
 1 Swamp
-1 Eliminate
 1 Cling to Dust
+1 Eliminate
 1 Fatal Push
 1 Changeling Outcast
 1 Ornithopter
@@ -39,10 +39,10 @@
 1 Ingenious Infiltrator
 1 Retrofitter Foundry
 2 Fatal Push
+2 Polluted Delta
 2 Changeling Outcast
 2 Ornithopter
 2 Yuriko, the Tiger's Shadow
-2 Polluted Delta
 2 Retrofitter Foundry
 2 Swamp
 2 Ingenious Infiltrator
@@ -70,8 +70,8 @@
 1 Wasteland
 3 Force of Negation
 4 Force of Negation
-1 Bloodstained Mire
 1 Baleful Strix
+1 Bloodstained Mire
 1 Detention Sphere
 1 Teferi, Hero of Dominaria
 1 Predict
@@ -80,8 +80,8 @@
 3 Plains
 1 Misty Rainforest
 1 Lay Claim
-1 Replenish
 1 Cast Out
+1 Replenish
 2 Lay Claim
 2 Replenish
 2 Cast Out
@@ -197,23 +197,23 @@
 1 Faerie Conclave
 1 Burst Lightning
 1 Bonecrusher Giant
-2 Bonecrusher Giant
 2 Burst Lightning
 2 Impulse
 2 Faerie Conclave
+2 Bonecrusher Giant
 2 Fiery Islet
 2 Lightning Bolt
 2 Volcanic Island
 3 Snapcaster Mage
 3 Bonecrusher Giant
-3 Faerie Conclave
 3 Burst Lightning
+3 Faerie Conclave
 3 Brazen Borrower
 3 Lightning Bolt
 3 Volcanic Island
 4 Bonecrusher Giant
 4 Mishra's Factory
-4 Lightning Bolt
 4 Volcanic Island
+4 Lightning Bolt
 4 Faerie Conclave
 4 Snapcaster Mage

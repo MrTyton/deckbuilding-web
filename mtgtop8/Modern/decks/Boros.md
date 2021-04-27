@@ -27,7 +27,7 @@
 
 |*n*<sup>th</sup> copy|                                    Maindeck Card                                     |*n*<sup>th</sup> copy|                                   Sideboard Card                                   |
 |--------------------:|--------------------------------------------------------------------------------------|--------------------:|------------------------------------------------------------------------------------|
-|                    3|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)|                    1|[Rip Apart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513717)|
+|                    3|[Boros Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442188)|                    2|[Rip Apart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513717)|
 |                     |                                                                                      |                    3|[Rip Apart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513717)|
-|                     |                                                                                      |                    2|[Rip Apart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513717)|
+|                     |                                                                                      |                    1|[Rip Apart](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513717)|
 

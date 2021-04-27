@@ -1,5 +1,4 @@
-4 Searing Blaze
-3 Bloodstained Mire
+3 Skullcrack
 1 Scalding Tarn
 3 Wooded Foothills
 4 Mountain
@@ -11,26 +10,25 @@
 7 Mountain
 8 Mountain
 9 Mountain
-1 Lava Dart
 1 Soul-Scar Mage
-2 Lava Dart
+1 Lava Dart
 2 Soul-Scar Mage
-3 Lava Dart
+2 Lava Dart
 3 Soul-Scar Mage
+3 Lava Dart
+4 Light Up the Stage
 4 Lava Dart
 4 Soul-Scar Mage
-4 Light Up the Stage
 10 Mountain
 11 Mountain
 12 Mountain
 13 Mountain
 14 Mountain
-4 Bloodstained Mire
-4 Skullcrack
-2 Scalding Tarn
+3 Bloodstained Mire
 4 Wooded Foothills
 1 Grim Lavamancer
 15 Mountain
+4 Bloodstained Mire
 1 Bonecrusher Giant
 1 Burst Lightning
 1 Bomat Courier
@@ -48,8 +46,8 @@
 2 Seasoned Pyromancer
 2 Firebolt
 2 Castle Embereth
-3 Blood Moon
 3 Castle Embereth
+3 Blood Moon
 3 Seasoned Pyromancer
 3 Firebolt
 3 Bonecrusher Giant
@@ -61,18 +59,19 @@
 3 Mishra's Bauble
 4 Mishra's Bauble
 3 Arid Mesa
-1 Crash Through
+4 Skullcrack
 1 Manamorphose
 1 Bedlam Reveler
+1 Crash Through
+2 Bedlam Reveler
 2 Manamorphose
 2 Crash Through
-2 Bedlam Reveler
 3 Manamorphose
 3 Crash Through
-4 Manamorphose
 4 Crash Through
+4 Manamorphose
+2 Scalding Tarn
 2 Grim Lavamancer
-1 Shard Volley
 1 Seal of Fire
 2 Forgotten Cave
 1 Runaway Steam-Kin
@@ -80,17 +79,20 @@
 2 Burst Lightning
 2 Fiery Islet
 2 Runaway Steam-Kin
-3 Burst Lightning
 3 Bedlam Reveler
+3 Burst Lightning
 3 Runaway Steam-Kin
 3 Lightning Helix
-4 Arid Mesa
-1 Wild Slash
 1 Kiln Fiend
-2 Wild Slash
+1 Wild Slash
 2 Kiln Fiend
+2 Wild Slash
 3 Kiln Fiend
 4 Kiln Fiend
+1 Snow-Covered Mountain
+3 Sacred Foundry
+4 Sacred Foundry
+4 Arid Mesa
 1 Gut Shot
 1 The Flame of Keld
 1 Ghitu Lavarunner
@@ -110,9 +112,6 @@
 4 Bomat Courier
 4 Ghitu Lavarunner
 4 The Flame of Keld
-1 Snow-Covered Mountain
-3 Sacred Foundry
-4 Sacred Foundry
 1 Mogg Fanatic
 1 Foundry Street Denizen
 1 Burning-Tree Emissary

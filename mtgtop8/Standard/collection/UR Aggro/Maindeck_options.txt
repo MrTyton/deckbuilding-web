@@ -1,9 +1,9 @@
 1 Irencrag Pyromancer
-1 Teferi, Master of Time
 1 Rielle, the Everwise
 1 Valakut Awakening
 1 Fire Prophecy
 1 Neutralize
+1 Teferi, Master of Time
 1 Faerie Vandal
 1 Improbable Alliance
 1 Go for Blood
@@ -13,13 +13,13 @@
 1 Raugrin Triome
 2 Rielle, the Everwise
 2 Neutralize
-2 Teferi, Master of Time
 2 Faerie Vandal
 2 Fire Prophecy
 2 Improbable Alliance
 2 Startling Development
 2 Go for Blood
 2 Boon of the Wish-Giver
+2 Teferi, Master of Time
 2 Raugrin Triome
 2 Irencrag Pyromancer
 3 Neutralize
@@ -41,37 +41,37 @@
 4 Boon of the Wish-Giver
 1 Shatterskull Smashing
 1 Invasion of the Giants
-1 Crystalline Giant
-1 Quakebringer
-1 Battle of Frost and Fire
 1 Calamity Bearer
+1 Battle of Frost and Fire
+1 Quakebringer
+1 Crystalline Giant
+1 Squash
 1 Glimpse the Cosmos
 1 Tectonic Giant
 1 Scorching Dragonfire
-1 Squash
 2 Tectonic Giant
 2 Shatterskull Smashing
 2 Invasion of the Giants
-2 Crystalline Giant
 2 Quakebringer
 2 Battle of Frost and Fire
 2 Calamity Bearer
+2 Crystalline Giant
 2 Squash
 2 Glimpse the Cosmos
 2 Scorching Dragonfire
 3 Scorching Dragonfire
-3 Crystalline Giant
 3 Invasion of the Giants
-3 Calamity Bearer
 3 Quakebringer
+3 Calamity Bearer
 3 Battle of Frost and Fire
+3 Crystalline Giant
 3 Glimpse the Cosmos
 3 Tectonic Giant
 3 Squash
 4 Invasion of the Giants
 4 Calamity Bearer
-4 Tectonic Giant
 4 Crystalline Giant
+4 Tectonic Giant
 4 Bonecrusher Giant
 4 Glimpse the Cosmos
 7 Mountain
@@ -99,7 +99,6 @@
 2 Aegar, the Freezing Flame
 2 Frost Bite
 2 Windrider Wizard
-3 Demon Bolt
 3 Of One Mind
 3 Snow-Covered Mountain
 3 Aegar, the Freezing Flame
@@ -107,6 +106,7 @@
 3 Windrider Wizard
 3 Frost Bite
 3 Volatile Fjord
+3 Demon Bolt
 3 Heartfire Immolator
 3 Snow-Covered Island
 4 Opt
