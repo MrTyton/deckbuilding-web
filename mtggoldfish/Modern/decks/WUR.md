@@ -46,7 +46,7 @@
 |                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)          |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)            |
 |                    2|[Snow-Covered Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121130)          |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)               |
 |                    2|[Aether Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220525)             |                    2|[Timely Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220074)|
+|                     |                                                                                                        |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)            |
 |                     |                                                                                                        |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)       |
 |                     |                                                                                                        |                    3|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)               |
-|                     |                                                                                                        |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)            |
 

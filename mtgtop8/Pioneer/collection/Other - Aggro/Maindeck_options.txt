@@ -1,12 +1,18 @@
-1 Kytheon, Hero of Akros
-1 Knight of the White Orchid
-2 Knight of the White Orchid
+4 Caves of Koilos
+3 Plains
+4 Plains
+1 Silverquill Silencer
+1 Mardu Woe-Reaper
+2 Silverquill Silencer
+2 Mardu Woe-Reaper
+3 Silverquill Silencer
+4 Silverquill Silencer
 1 Codespell Cleric
 2 Codespell Cleric
 4 Mutavault
-1 Soldier of the Pantheon
-2 Soldier of the Pantheon
-3 Soldier of the Pantheon
+1 Kytheon, Hero of Akros
+1 Knight of the White Orchid
+2 Knight of the White Orchid
 1 Declaration in Stone
 2 Declaration in Stone
 1 Temple Garden
@@ -52,12 +58,6 @@
 3 Charming Prince
 3 Reflector Mage
 1 Dire Tactics
-1 Silverquill Silencer
-1 Mardu Woe-Reaper
-2 Silverquill Silencer
-2 Mardu Woe-Reaper
-3 Silverquill Silencer
-4 Silverquill Silencer
 3 Codespell Cleric
 4 Codespell Cleric
 1 Glint-Sleeve Siphoner
@@ -69,7 +69,6 @@
 1 Overgrown Tomb
 1 Judith, the Scourge Diva
 1 Acquisitions Expert
-1 Kaervek, the Spiteful
 1 Llanowar Wastes
 1 Pyre of Heroes
 1 Hostage Taker
@@ -77,6 +76,7 @@
 1 Basri's Lieutenant
 1 General Kudro of Drannith
 1 Archfiend's Vessel
+1 Kaervek, the Spiteful
 1 Drannith Magistrate
 1 Xathrid Necromancer
 2 Renegade Rallier
@@ -176,12 +176,12 @@
 1 Mountain
 1 Glorybringer
 2 Glorybringer
-1 Ketria Triome
 1 The Great Henge
 1 Nissa, Who Shakes the World
 1 Rootbound Crag
 1 Alrund's Epiphany
 1 Vorinclex, Monstrous Raider
+1 Ketria Triome
 1 Steam Vents
 1 Island
 1 Hydroid Krasis
@@ -220,8 +220,8 @@
 1 Isolated Chapel
 1 Savai Triome
 1 Blood Crypt
-1 Dragonskull Summit
 1 Sorin, Solemn Visitor
+1 Dragonskull Summit
 1 Elspeth, Sun's Champion
 1 Valki, God of Lies
 1 Magmatic Channeler
@@ -306,6 +306,7 @@
 6 Forest
 7 Forest
 1 Sorin, Vengeful Bloodlord
+1 Mazemind Tome
 1 Shalai, Voice of Plenty
 1 Speaker of the Heavens
 1 Vito, Thorn of the Dusk Rose
@@ -314,7 +315,6 @@
 1 Command the Dreadhorde
 1 Revival / Revenge
 1 Righteous Valkyrie
-1 Mazemind Tome
 1 Lyra Dawnbringer
 2 Sorin, Vengeful Bloodlord
 2 Mazemind Tome
@@ -334,8 +334,8 @@
 3 Righteous Valkyrie
 3 Shalai, Voice of Plenty
 3 Revival / Revenge
-4 Speaker of the Heavens
 4 Mazemind Tome
+4 Speaker of the Heavens
 4 Sorin, Vengeful Bloodlord
 4 Resplendent Angel
 4 Revival / Revenge

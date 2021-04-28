@@ -64,8 +64,8 @@
 |                     |                                                                                               |                    3|[Uro, Titan of Nature's Wrath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476480)|
 |                     |                                                                                               |                    1|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)                   |
 |                     |                                                                                               |                    1|[Viridian Corrupter](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=213772)          |
-|                     |                                                                                               |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)                   |
 |                     |                                                                                               |                    2|[Blue Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694)           |
+|                     |                                                                                               |                    2|[Dismember](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382182)                   |
 |                     |                                                                                               |                    3|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)              |
 |                     |                                                                                               |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)              |
 

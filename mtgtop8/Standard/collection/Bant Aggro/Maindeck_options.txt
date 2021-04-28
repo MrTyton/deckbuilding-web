@@ -1,7 +1,7 @@
 1 Beanstalk Giant
+1 Behold the Multiverse
 1 Rimewood Falls
 1 Snow-Covered Plains
-1 Behold the Multiverse
 1 Arctic Treeline
 1 Cragplate Baloth
 1 Snow-Covered Forest
@@ -18,9 +18,9 @@
 2 Llanowar Visionary
 2 Fierce Empath
 2 Shepherd of the Flock
+2 Behold the Multiverse
 2 Beanstalk Giant
 2 Snow-Covered Plains
-2 Behold the Multiverse
 2 Glacial Floodplain
 2 Snow-Covered Island
 2 Rimewood Falls
@@ -55,14 +55,12 @@
 9 Snow-Covered Forest
 10 Snow-Covered Forest
 2 Island
-1 Disdainful Stroke
-2 Disdainful Stroke
 1 Kabira Takedown
 2 Kabira Takedown
+1 Disdainful Stroke
+2 Disdainful Stroke
 1 Banishing Light
 2 Banishing Light
-2 Faerie Guidemother
-3 Fae of Wishes
 1 Temple of Mystery
 1 Temple of Enlightenment
 1 Alrund's Epiphany
@@ -71,6 +69,8 @@
 2 Alrund's Epiphany
 2 Brazen Borrower
 3 Alrund's Epiphany
+2 Faerie Guidemother
+3 Fae of Wishes
 1 Lotus Cobra
 1 Of One Mind
 1 Chulane, Teller of Tales
@@ -88,9 +88,9 @@
 1 Mystic Reflection
 1 Omen of the Sun
 1 Starnheim Unleashed
-1 Daxos, Blessed by the Sun
-1 Emeria's Call
 1 Elspeth, Sun's Nemesis
+1 Emeria's Call
+1 Daxos, Blessed by the Sun
 1 Skyclave Apparition
 1 Speaker of the Heavens
 1 Castle Ardenvale
@@ -103,20 +103,20 @@
 2 Sejiri Shelter
 2 Mystic Reflection
 2 Castle Ardenvale
+2 Emeria's Call
 2 Daxos, Blessed by the Sun
 2 Skyclave Apparition
 2 Righteous Valkyrie
 2 Reverent Hoplite
 2 Speaker of the Heavens
-2 Emeria's Call
 2 Omen of the Sun
 2 Linvala, Shield of Sea Gate
 2 Youthful Valkyrie
-3 Mystic Reflection
 3 Omen of the Sun
 3 Righteous Valkyrie
 3 Youthful Valkyrie
 3 Speaker of the Heavens
+3 Mystic Reflection
 4 Omen of the Sun
 4 Mystic Reflection
 4 Speaker of the Heavens
