@@ -11,88 +11,46 @@
 2 Declaration in Stone
 1 Temple Garden
 2 Temple Garden
+1 Voice of Resurgence
+2 Voice of Resurgence
+3 Temple Garden
+4 Temple Garden
 1 Llanowar Elves
 2 Llanowar Elves
 3 Llanowar Elves
 1 Elvish Mystic
 2 Elvish Mystic
 3 Elvish Mystic
-4 Llanowar Elves
-1 Forest
-2 Forest
-3 Forest
-4 Forest
-1 Voice of Resurgence
-2 Voice of Resurgence
-3 Temple Garden
-4 Temple Garden
-1 Lovestruck Beast
-2 Lovestruck Beast
-3 Lovestruck Beast
 1 Collected Company
 2 Collected Company
 3 Collected Company
 4 Collected Company
+4 Llanowar Elves
 1 Sunpetal Grove
 1 Fortified Village
+1 Forest
+2 Forest
+3 Forest
 4 Elvish Mystic
-4 Lovestruck Beast
-1 Steel Leaf Champion
-1 Rhonas the Indomitable
-2 Rhonas the Indomitable
-2 Steel Leaf Champion
-3 Steel Leaf Champion
-4 Steel Leaf Champion
-5 Forest
-6 Forest
-7 Forest
+4 Forest
 1 Skyclave Apparition
 1 Selfless Spirit
 2 Skyclave Apparition
 3 Skyclave Apparition
-1 Scavenging Ooze
-2 Scavenging Ooze
-1 Hinterland Harbor
-1 Breeding Pool
-2 Hinterland Harbor
-2 Breeding Pool
-3 Breeding Pool
-4 Breeding Pool
-1 Vivien, Arkbow Ranger
-2 Vivien, Arkbow Ranger
-3 Vivien, Arkbow Ranger
-3 Hinterland Harbor
-4 Hinterland Harbor
-1 The Great Henge
-1 Nissa, Who Shakes the World
-1 Vorinclex, Monstrous Raider
-1 Hydroid Krasis
-2 Nissa, Who Shakes the World
-2 Hydroid Krasis
-3 Nissa, Who Shakes the World
-3 Hydroid Krasis
-1 Bonecrusher Giant
-1 Stomping Ground
-2 Bonecrusher Giant
-2 Stomping Ground
-3 Bonecrusher Giant
-3 Stomping Ground
-4 Bonecrusher Giant
-4 Stomping Ground
 1 Branchloft Pathway
 2 Branchloft Pathway
 3 Branchloft Pathway
 3 Voice of Resurgence
-4 Voice of Resurgence
 4 Branchloft Pathway
+4 Voice of Resurgence
+1 Mana Confluence
 1 Reflector Mage
 1 Charming Prince
-1 Mana Confluence
-2 Reflector Mage
 2 Mana Confluence
+2 Reflector Mage
 2 Charming Prince
-3 Reflector Mage
 3 Charming Prince
+3 Reflector Mage
 1 Dire Tactics
 1 Silverquill Silencer
 1 Mardu Woe-Reaper
@@ -102,18 +60,6 @@
 4 Silverquill Silencer
 3 Codespell Cleric
 4 Codespell Cleric
-1 Castle Ardenvale
-1 Knight of Autumn
-1 Archangel Avacyn
-1 Dromoka's Command
-1 Temple of Plenty
-2 Sunpetal Grove
-2 Dromoka's Command
-2 Knight of Autumn
-2 Temple of Plenty
-3 Sunpetal Grove
-3 Knight of Autumn
-4 Sunpetal Grove
 1 Glint-Sleeve Siphoner
 2 Glint-Sleeve Siphoner
 3 Glint-Sleeve Siphoner
@@ -149,9 +95,30 @@
 4 Pyre of Heroes
 4 Archfiend's Vessel
 4 Unclaimed Territory
+1 Lovestruck Beast
+2 Lovestruck Beast
+3 Lovestruck Beast
+1 Scavenging Ooze
+2 Scavenging Ooze
+4 Lovestruck Beast
+1 Hinterland Harbor
+1 Bonecrusher Giant
+1 Breeding Pool
+1 Stomping Ground
+2 Hinterland Harbor
+2 Breeding Pool
+2 Bonecrusher Giant
+2 Stomping Ground
+3 Bonecrusher Giant
+3 Breeding Pool
+3 Stomping Ground
+4 Bonecrusher Giant
+4 Breeding Pool
+4 Stomping Ground
 1 Lightning Strike
 2 Lightning Strike
 3 Lightning Strike
+1 Vivien, Arkbow Ranger
 1 Bonders' Enclave
 1 Nimble Obstructionist
 1 Embercleave
@@ -163,6 +130,7 @@
 1 Cragcrown Pathway
 1 Reduce / Rubble
 2 Shivan Reef
+2 Vivien, Arkbow Ranger
 2 Klothys, God of Destiny
 2 Nimble Obstructionist
 2 Boon Satyr
@@ -171,10 +139,13 @@
 3 Shivan Reef
 3 Boon Satyr
 3 Cragcrown Pathway
+3 Vivien, Arkbow Ranger
+3 Hinterland Harbor
 3 Reduce / Rubble
 4 Shivan Reef
 4 Boon Satyr
 4 Cragcrown Pathway
+4 Hinterland Harbor
 1 Glasspool Mimic
 1 Hengegate Pathway
 1 Militia Bugler
@@ -196,8 +167,8 @@
 3 Hengegate Pathway
 4 Hengegate Pathway
 4 Selfless Spirit
-4 Skyclave Apparition
 4 Charming Prince
+4 Skyclave Apparition
 4 Militia Bugler
 4 Oketra's Monument
 4 Reflector Mage
@@ -206,22 +177,30 @@
 1 Glorybringer
 2 Glorybringer
 1 Ketria Triome
+1 The Great Henge
+1 Nissa, Who Shakes the World
 1 Rootbound Crag
 1 Alrund's Epiphany
+1 Vorinclex, Monstrous Raider
 1 Steam Vents
 1 Island
+1 Hydroid Krasis
 1 Edgewall Innkeeper
 1 Brazen Borrower
 2 Brazen Borrower
+2 Nissa, Who Shakes the World
 2 The Great Henge
-2 Rootbound Crag
+2 Hydroid Krasis
 2 Alrund's Epiphany
+2 Rootbound Crag
 2 Mountain
 2 Steam Vents
 2 Edgewall Innkeeper
 2 Ketria Triome
-3 Brazen Borrower
+3 Nissa, Who Shakes the World
 3 Rootbound Crag
+3 Brazen Borrower
+3 Hydroid Krasis
 3 Alrund's Epiphany
 3 Ketria Triome
 3 Edgewall Innkeeper
@@ -232,6 +211,7 @@
 4 Ketria Triome
 4 Edgewall Innkeeper
 4 Steam Vents
+1 Castle Ardenvale
 1 Gideon, Ally of Zendikar
 1 Sacred Foundry
 2 Sacred Foundry
@@ -293,18 +273,81 @@
 2 Conclave Tribunal
 2 Esika's Chariot
 2 Call of the Conclave
+3 Starnheim Unleashed
 3 Call of the Conclave
 3 Esika's Chariot
 3 Wayfaring Temple
 3 Conclave Tribunal
 3 Battle for Bretagard
-3 Starnheim Unleashed
 4 Wayfaring Temple
 4 Conclave Tribunal
 4 Battle for Bretagard
 4 Call of the Conclave
 4 Esika's Chariot
 4 Starnheim Unleashed
+1 Knight of Autumn
+1 Rhonas the Indomitable
+1 Archangel Avacyn
+1 Dromoka's Command
+1 Steel Leaf Champion
+1 Temple of Plenty
+2 Sunpetal Grove
+2 Rhonas the Indomitable
+2 Dromoka's Command
+2 Knight of Autumn
+2 Steel Leaf Champion
+2 Temple of Plenty
+3 Sunpetal Grove
+3 Knight of Autumn
+3 Steel Leaf Champion
+4 Sunpetal Grove
+4 Steel Leaf Champion
+5 Forest
+6 Forest
+7 Forest
+1 Sorin, Vengeful Bloodlord
+1 Shalai, Voice of Plenty
+1 Speaker of the Heavens
+1 Vito, Thorn of the Dusk Rose
+1 Bishop of Wings
+1 Resplendent Angel
+1 Command the Dreadhorde
+1 Revival / Revenge
+1 Righteous Valkyrie
+1 Mazemind Tome
+1 Lyra Dawnbringer
+2 Sorin, Vengeful Bloodlord
+2 Mazemind Tome
+2 Speaker of the Heavens
+2 Lyra Dawnbringer
+2 Resplendent Angel
+2 Righteous Valkyrie
+2 Revival / Revenge
+2 Shalai, Voice of Plenty
+2 Vito, Thorn of the Dusk Rose
+2 Bishop of Wings
+3 Mazemind Tome
+3 Speaker of the Heavens
+3 Sorin, Vengeful Bloodlord
+3 Bishop of Wings
+3 Resplendent Angel
+3 Righteous Valkyrie
+3 Shalai, Voice of Plenty
+3 Revival / Revenge
+4 Speaker of the Heavens
+4 Mazemind Tome
+4 Sorin, Vengeful Bloodlord
+4 Resplendent Angel
+4 Revival / Revenge
+4 Bishop of Wings
+4 Righteous Valkyrie
+5 Plains
+6 Plains
+7 Plains
+8 Plains
+9 Plains
+10 Plains
+11 Plains
 1 Dreadhorde Arcanist
 1 Gods Willing
 1 Inspiring Vantage
@@ -359,63 +402,3 @@
 4 Dreadhorde Arcanist
 4 Gird for Battle
 4 Favored Hoplite
-1 Sorin, Vengeful Bloodlord
-1 Shalai, Voice of Plenty
-1 Speaker of the Heavens
-1 Vito, Thorn of the Dusk Rose
-1 Bishop of Wings
-1 Resplendent Angel
-1 Command the Dreadhorde
-1 Revival / Revenge
-1 Righteous Valkyrie
-1 Mazemind Tome
-1 Lyra Dawnbringer
-2 Sorin, Vengeful Bloodlord
-2 Mazemind Tome
-2 Speaker of the Heavens
-2 Lyra Dawnbringer
-2 Resplendent Angel
-2 Righteous Valkyrie
-2 Revival / Revenge
-2 Shalai, Voice of Plenty
-2 Vito, Thorn of the Dusk Rose
-2 Bishop of Wings
-3 Mazemind Tome
-3 Speaker of the Heavens
-3 Sorin, Vengeful Bloodlord
-3 Bishop of Wings
-3 Resplendent Angel
-3 Righteous Valkyrie
-3 Shalai, Voice of Plenty
-3 Revival / Revenge
-4 Speaker of the Heavens
-4 Mazemind Tome
-4 Sorin, Vengeful Bloodlord
-4 Resplendent Angel
-4 Revival / Revenge
-4 Bishop of Wings
-4 Righteous Valkyrie
-5 Plains
-6 Plains
-7 Plains
-8 Plains
-9 Plains
-10 Plains
-11 Plains
-1 Garruk's Uprising
-1 Questing Beast
-1 Barkchannel Pathway
-1 Voracious Hydra
-1 Nykthos, Shrine to Nyx
-1 Castle Garenbrig
-2 Castle Garenbrig
-2 Vorinclex, Monstrous Raider
-2 Barkchannel Pathway
-2 Questing Beast
-2 Voracious Hydra
-2 Nykthos, Shrine to Nyx
-3 Voracious Hydra
-3 Questing Beast
-4 Hydroid Krasis
-9 Forest
-8 Forest

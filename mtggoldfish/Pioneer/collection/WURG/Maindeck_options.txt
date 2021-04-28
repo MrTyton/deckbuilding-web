@@ -1,7 +1,7 @@
 2 Alrund's Epiphany
 2 Hengegate Pathway
-2 Oath of Nissa
 2 Chained to the Rocks
+2 Oath of Nissa
 3 Alrund's Epiphany
 3 Stomping Ground
 3 Chained to the Rocks
@@ -24,18 +24,18 @@
 2 Fires of Invention
 3 Fires of Invention
 4 Fires of Invention
-1 Temple Garden
-1 Escape to the Wilds
-2 Temple Garden
-2 Forest
 1 Sacred Foundry
 1 Karn's Temporal Sundering
 1 Kiora, Behemoth Beckoner
 1 Steam Vents
+1 Temple Garden
+1 Escape to the Wilds
 1 Urza's Ruinous Blast
 1 Clifftop Retreat
+2 Temple Garden
 2 Kiora, Behemoth Beckoner
 2 Karn's Temporal Sundering
+2 Forest
 2 Steam Vents
 2 Esika, God of the Tree
 2 Urza's Ruinous Blast
@@ -48,24 +48,22 @@
 4 Karn's Temporal Sundering
 4 Narset, Parter of Veils
 4 Hinterland Harbor
-1 Ugin, the Spirit Dragon
-1 Breeding Pool
-2 Ugin, the Spirit Dragon
-2 Breeding Pool
 1 Elvish Rejuvenator
 1 Hour of Promise
 1 Blast Zone
+1 Lumbering Falls
 1 Sanctum of Ugin
 1 Shrine of the Forsaken Gods
 1 Castle Garenbrig
+1 Ugin, the Spirit Dragon
 1 Ulamog, the Ceaseless Hunger
 1 Radiant Fountain
 1 Emrakul, the Promised End
-1 Lumbering Falls
 1 Unexpected Results
 1 Skyline Cascade
 1 Turntimber Symbiosis
 1 Barkchannel Pathway
+1 Breeding Pool
 1 Temple of Mystery
 2 Elvish Rejuvenator
 2 Emrakul, the Promised End
@@ -73,14 +71,16 @@
 2 Shrine of the Forsaken Gods
 2 Ulamog, the Ceaseless Hunger
 2 Radiant Fountain
+2 Ugin, the Spirit Dragon
+2 Breeding Pool
 2 Hour of Promise
 2 Unexpected Results
 2 Temple of Mystery
 2 Barkchannel Pathway
 3 Temple of Mystery
 3 Elvish Rejuvenator
-3 Ulamog, the Ceaseless Hunger
 3 Emrakul, the Promised End
+3 Ulamog, the Ceaseless Hunger
 3 Shrine of the Forsaken Gods
 3 Ugin, the Spirit Dragon
 3 Breeding Pool
@@ -98,29 +98,3 @@
 4 Unexpected Results
 4 Hour of Promise
 4 Barkchannel Pathway
-1 Evolving Wilds
-1 Lotus Cobra
-1 Felidar Retreat
-1 Genesis Ultimatum
-1 Courser of Kruphix
-1 Part the Waterveil
-1 Koma, Cosmos Serpent
-2 Evolving Wilds
-2 Lotus Cobra
-2 Koma, Cosmos Serpent
-2 Felidar Retreat
-2 Island
-2 Genesis Ultimatum
-2 Mountain
-2 Courser of Kruphix
-2 Escape to the Wilds
-3 Island
-3 Lotus Cobra
-3 Escape to the Wilds
-3 Forest
-3 Courser of Kruphix
-3 Genesis Ultimatum
-3 Felidar Retreat
-4 Lotus Cobra
-4 Forest
-4 Escape to the Wilds

@@ -1,12 +1,3 @@
-1 Rankle, Master of Pranks
-2 Kazuul's Fury
-2 Temple of Malice
-3 Temple of Malice
-1 Ketria Triome
-1 Valki, God of Lies
-2 Forest
-1 Goldspan Dragon
-1 Shatterskull Smashing
 1 Edgewall Innkeeper
 1 Lovestruck Beast
 2 Goldspan Dragon
@@ -17,6 +8,7 @@
 3 Lovestruck Beast
 4 Lovestruck Beast
 4 Edgewall Innkeeper
+1 Valki, God of Lies
 3 Forest
 1 Kazandu Mammoth
 1 Embercleave
@@ -27,12 +19,16 @@
 2 The Great Henge
 3 Kazandu Mammoth
 4 Kazandu Mammoth
+1 Castle Locthwain
+1 Ketria Triome
 1 Foulmire Knight
-1 Indatha Triome
-2 Valki, God of Lies
-1 Zagoth Triome
+1 Skyclave Shade
+1 Temple of Malice
+1 Rankle, Master of Pranks
+2 Kazuul's Fury
+2 Temple of Malice
+3 Temple of Malice
 1 Bloodchief's Thirst
-3 Immersturm Predator
 1 Questing Beast
 2 Questing Beast
 2 Embercleave
@@ -40,15 +36,16 @@
 2 Ketria Triome
 3 Goldspan Dragon
 3 Shatterskull Smashing
-2 Skyclave Shade
-3 Skyclave Shade
 1 Scavenging Ooze
 2 Scavenging Ooze
 4 Forest
 1 Savai Triome
 1 Temple of Malady
+1 Indatha Triome
+2 Valki, God of Lies
 3 Valki, God of Lies
 1 Chevill, Bane of Monsters
+1 Zagoth Triome
 1 Klothys, God of Destiny
 2 Bloodchief's Thirst
 2 Castle Locthwain
@@ -67,38 +64,39 @@
 2 Masked Vandal
 3 The Great Henge
 3 Polukranos, Unchained
-1 Eliminate
-1 Magmatic Channeler
-1 Extinction Event
-2 Eliminate
-2 Magmatic Channeler
-2 Extinction Event
-2 Klothys, God of Destiny
-3 Eliminate
-3 Extinction Event
-3 Magmatic Channeler
-3 Klothys, God of Destiny
-4 Extinction Event
-4 Magmatic Channeler
 2 Savai Triome
 3 Savai Triome
+3 Immersturm Predator
 4 Savai Triome
-4 Kroxa, Titan of Death's Hunger
-4 Skyclave Shade
+1 Magmatic Channeler
+1 Extinction Event
+1 Eliminate
+2 Magmatic Channeler
+2 Eliminate
+2 Extinction Event
+2 Skyclave Shade
+2 Klothys, God of Destiny
+3 Extinction Event
+3 Magmatic Channeler
+3 Eliminate
+3 Klothys, God of Destiny
+3 Skyclave Shade
+4 Extinction Event
+4 Magmatic Channeler
 1 Cultivate
-1 Blex, Vexing Pest
+1 Beledros Witherbloom
+1 Gnottvold Slumbermound
 1 Temple of Abandon
+1 Blex, Vexing Pest
 1 Esika's Chariot
 1 Garruk, Cursed Huntsman
-1 Gnottvold Slumbermound
-1 Beledros Witherbloom
 2 Cultivate
-2 Blex, Vexing Pest
-2 Temple of Abandon
 2 Garruk, Cursed Huntsman
+2 Gnottvold Slumbermound
+2 Temple of Abandon
+2 Blex, Vexing Pest
 2 Esika's Chariot
 2 Zagoth Triome
-2 Gnottvold Slumbermound
 3 Cultivate
 3 Esika's Chariot
 3 Garruk, Cursed Huntsman
@@ -112,8 +110,8 @@
 2 Toski, Bearer of Secrets
 2 Foulmire Knight
 2 Indatha Triome
-3 Heartless Act
+3 Indatha Triome
 3 Toski, Bearer of Secrets
 3 Foulmire Knight
-3 Indatha Triome
+3 Heartless Act
 4 Foulmire Knight

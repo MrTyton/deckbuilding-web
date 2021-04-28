@@ -33,14 +33,14 @@
 3 Giant Killer
 4 Giant Killer
 1 Hengegate Pathway
+1 Riverglide Pathway
 1 Archon of Emeria
 1 Brightclimb Pathway
-1 Riverglide Pathway
-1 Drannith Magistrate
 1 Klothys, God of Destiny
+1 Drannith Magistrate
+2 Riverglide Pathway
 2 Archon of Emeria
 2 Brightclimb Pathway
-2 Riverglide Pathway
 2 Drannith Magistrate
 2 Hengegate Pathway
 3 Archon of Emeria
@@ -82,12 +82,12 @@
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 1 Maul of the Skyclaves
-1 Edgewall Innkeeper
 1 Toski, Bearer of Secrets
-2 Edgewall Innkeeper
+1 Edgewall Innkeeper
 2 Toski, Bearer of Secrets
-3 Edgewall Innkeeper
+2 Edgewall Innkeeper
 3 Toski, Bearer of Secrets
+3 Edgewall Innkeeper
 4 Edgewall Innkeeper
 4 Lovestruck Beast
 1 Gilded Goose
@@ -145,27 +145,13 @@
 3 Radha, Heart of Keld
 3 Shatterskull Smashing
 4 Shatterskull Smashing
-1 Alpine Watchdog
-1 Alpine Houndmaster
-1 Bolt Hound
-1 Pack Leader
-1 Igneous Cur
-1 Showdown of the Skalds
-2 Alpine Watchdog
-2 Bolt Hound
-2 Pack Leader
-2 Alpine Houndmaster
-2 Igneous Cur
-2 Showdown of the Skalds
-3 Pack Leader
-3 Alpine Houndmaster
-3 Igneous Cur
-3 Alpine Watchdog
-3 Bolt Hound
-3 Embercleave
-4 Pack Leader
-4 Alpine Houndmaster
-4 Embercleave
+1 Pilgrim of the Ages
+1 Savai Triome
+2 Pilgrim of the Ages
+2 Savai Triome
+3 Haktos the Unscarred
+3 Pilgrim of the Ages
+4 Haktos the Unscarred
 1 Make Your Mark
 1 Guiding Voice
 2 Make Your Mark
@@ -183,27 +169,41 @@
 4 Gilded Goose
 1 Veteran Adventurer
 4 Toski, Bearer of Secrets
-1 Pilgrim of the Ages
-1 Savai Triome
-2 Pilgrim of the Ages
-2 Savai Triome
-3 Pilgrim of the Ages
-3 Haktos the Unscarred
-4 Haktos the Unscarred
+1 Alpine Watchdog
+1 Igneous Cur
+1 Pack Leader
+1 Showdown of the Skalds
+1 Alpine Houndmaster
+1 Bolt Hound
+2 Igneous Cur
+2 Alpine Houndmaster
+2 Alpine Watchdog
+2 Pack Leader
+2 Showdown of the Skalds
+2 Bolt Hound
+3 Bolt Hound
+3 Embercleave
+3 Alpine Watchdog
+3 Igneous Cur
+3 Alpine Houndmaster
+3 Pack Leader
+4 Embercleave
+4 Alpine Houndmaster
+4 Pack Leader
 1 Akiri, Fearless Voyager
 1 Kor Blademaster
 1 Sejiri Shelter
 1 Kabira Takedown
+1 Shadowspear
 1 Spikefield Hazard
 1 Wind-Scarred Crag
-1 Shadowspear
 1 Kargan Warleader
 1 Kargan Intimidator
 1 Legion Angel
+2 Spikefield Hazard
 2 Akiri, Fearless Voyager
 2 Wind-Scarred Crag
 2 Kor Blademaster
-2 Spikefield Hazard
 2 Kabira Takedown
 2 Legion Angel
 2 Kargan Intimidator
@@ -224,8 +224,8 @@
 6 Forest
 1 Battlefield Raptor
 1 Strict Proctor
-2 Strict Proctor
 2 Battlefield Raptor
+2 Strict Proctor
 3 Battlefield Raptor
 3 Strict Proctor
 4 Battlefield Raptor

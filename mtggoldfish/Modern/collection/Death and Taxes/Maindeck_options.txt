@@ -2,12 +2,12 @@
 1 Restoration Angel
 2 Restoration Angel
 4 Archon of Emeria
-1 Snow-Covered Plains
-2 Snow-Covered Plains
 1 Tectonic Edge
 2 Tectonic Edge
 3 Tectonic Edge
 4 Tectonic Edge
+1 Snow-Covered Plains
+2 Snow-Covered Plains
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
@@ -24,30 +24,32 @@
 13 Plains
 14 Plains
 15 Plains
+10 Snow-Covered Plains
 3 Restoration Angel
 1 Horizon Canopy
 1 Sword of Light and Shadow
 3 Winds of Abandon
-10 Snow-Covered Plains
 2 Charming Prince
-1 Razorverge Thicket
+1 Linvala, Keeper of Silence
+2 Linvala, Keeper of Silence
 1 Noble Hierarch
+1 Brushland
+1 Razorverge Thicket
 1 Temple Garden
 1 Branchloft Pathway
-1 Brushland
 1 Forest
 2 Noble Hierarch
 2 Brushland
-2 Temple Garden
 2 Razorverge Thicket
+2 Temple Garden
 2 Branchloft Pathway
 3 Noble Hierarch
+3 Razorverge Thicket
 3 Branchloft Pathway
 3 Temple Garden
-3 Razorverge Thicket
 4 Razorverge Thicket
-4 Temple Garden
 4 Branchloft Pathway
+4 Temple Garden
 2 Horizon Canopy
 4 Restoration Angel
 2 Castle Ardenvale
@@ -56,12 +58,10 @@
 2 Forest
 3 Oath of Nissa
 4 Oath of Nissa
-1 Sunbaked Canyon
-1 Linvala, Keeper of Silence
-2 Linvala, Keeper of Silence
 1 Elite Spellbinder
 2 Elite Spellbinder
 3 Elite Spellbinder
+1 Sunbaked Canyon
 1 Stirring Wildwood
 2 Stirring Wildwood
 4 Elite Spellbinder
@@ -81,14 +81,12 @@
 1 Sword of Feast and Famine
 1 Aven Mindcensor
 1 Scavenger Grounds
-2 Sunbaked Canyon
-3 Sunbaked Canyon
 1 Sejiri Shelter
 2 Sejiri Shelter
-1 Gaddock Teeg
-2 Gaddock Teeg
 1 Spellskite
 2 Spellskite
+1 Gaddock Teeg
+2 Gaddock Teeg
 2 Batterskull
 1 Eternal Witness
 2 Eternal Witness
@@ -96,16 +94,28 @@
 2 Phyrexian Revoker
 3 Phyrexian Revoker
 16 Plains
+1 On Thin Ice
+1 Auriok Champion
+1 Wall of Omens
+2 Auriok Champion
+2 On Thin Ice
+2 Wall of Omens
+3 Auriok Champion
+3 On Thin Ice
+3 Wall of Omens
+4 On Thin Ice
+17 Snow-Covered Plains
+18 Snow-Covered Plains
+19 Snow-Covered Plains
 1 Brimaz, King of Oreskos
 1 Shefet Dunes
 2 Shefet Dunes
-1 Loyal Sentry
-1 Flagstones of Trokair
-4 Sunbaked Canyon
 3 Charming Prince
 3 Horizon Canopy
 4 Horizon Canopy
 1 Inspiring Vantage
 2 Inspiring Vantage
+2 Sunbaked Canyon
 3 Inspiring Vantage
+3 Sunbaked Canyon
 4 Inspiring Vantage

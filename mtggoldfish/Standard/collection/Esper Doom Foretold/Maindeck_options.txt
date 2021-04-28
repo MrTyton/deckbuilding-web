@@ -52,8 +52,8 @@
 2 Mazemind Tome
 3 Jwari Disruption
 3 Mazemind Tome
-4 Mazemind Tome
 4 Jwari Disruption
+4 Mazemind Tome
 4 Archon of Sun's Grace
 3 Negate
 4 Skyclave Apparition
@@ -85,8 +85,8 @@
 1 Niko Aris
 1 Indatha Triome
 2 Indatha Triome
-2 Raugrin Triome
 2 Niko Aris
+2 Raugrin Triome
 3 Indatha Triome
 3 Raugrin Triome
 4 Indatha Triome
@@ -110,15 +110,15 @@
 1 Castle Vantress
 1 Elite Spellbinder
 1 Kiora Bests the Sea God
+1 Whirlwind Denial
+1 Sea Gate Restoration
+2 Whirlwind Denial
+2 Kaya the Inexorable
 2 Savai Triome
 1 Agonizing Remorse
 2 Agonizing Remorse
-2 Kaya the Inexorable
 1 Ravenform
 2 Ravenform
-1 Sea Gate Restoration
-1 Whirlwind Denial
-2 Whirlwind Denial
 1 Burning-Rune Demon
 1 Mire's Grasp
 1 Confounding Conundrum
@@ -131,19 +131,19 @@
 2 Shatter the Sky
 2 Ondu Inversion
 3 Banishing Light
-1 Snow-Covered Plains
-1 Snow-Covered Mountain
-1 Volatile Fjord
-1 Snow-Covered Island
-1 Snowfield Sinkhole
 1 Snow-Covered Swamp
-2 Snow-Covered Plains
-2 Cling to Dust
-2 Snow-Covered Island
-2 Snowfield Sinkhole
+1 Snow-Covered Mountain
+1 Snow-Covered Island
+1 Snow-Covered Plains
+1 Snowfield Sinkhole
+1 Volatile Fjord
 2 Snow-Covered Swamp
-3 Snow-Covered Island
+2 Snow-Covered Island
+2 Snow-Covered Plains
+2 Snowfield Sinkhole
+2 Cling to Dust
 3 Snow-Covered Plains
+3 Snow-Covered Island
 4 Temple of Deceit
 4 Snow-Covered Plains
 1 Sleeper Dart
@@ -170,22 +170,22 @@
 1 Soul Shatter
 1 Stern Dismissal
 2 Stern Dismissal
-1 Agadeem's Awakening
 1 Ashiok, Nightmare Muse
-1 Elderfang Disciple
+1 Agadeem's Awakening
 1 Solemn Simulacrum
-1 Tergrid, God of Fright
 1 Liliana, Waker of the Dead
+1 Elderfang Disciple
+1 Tergrid, God of Fright
 2 Ashiok, Nightmare Muse
-2 Elderfang Disciple
-2 Agadeem's Awakening
-2 Liliana, Waker of the Dead
-2 Solemn Simulacrum
 2 Tergrid, God of Fright
-3 Elderfang Disciple
-3 Solemn Simulacrum
-3 Agadeem's Awakening
-3 Tergrid, God of Fright
-3 Acquisitions Expert
+2 Solemn Simulacrum
+2 Liliana, Waker of the Dead
+2 Agadeem's Awakening
+2 Elderfang Disciple
 3 Ashiok, Nightmare Muse
+3 Solemn Simulacrum
+3 Tergrid, God of Fright
+3 Agadeem's Awakening
+3 Elderfang Disciple
+3 Acquisitions Expert
 4 Treacherous Blessing

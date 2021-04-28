@@ -1,5 +1,5 @@
 2 Sylvan Library
-1 Collector Ouphe
+1 Qasali Pridemage
 1 Scryb Ranger
 3 Birds of Paradise
 4 Birds of Paradise
@@ -7,20 +7,20 @@
 1 Abrupt Decay
 2 Abrupt Decay
 4 Verdant Catacombs
-1 Wooded Foothills
-1 Plateau
 1 Punishing Fire
 1 Grove of the Burnwillows
 2 Grove of the Burnwillows
-2 Wooded Foothills
 2 Punishing Fire
-1 Mother of Runes
-2 Mother of Runes
-3 Mother of Runes
+1 Wooded Foothills
+1 Plateau
+2 Wooded Foothills
 1 Skyclave Apparition
 2 Skyclave Apparition
 3 Grove of the Burnwillows
 3 Punishing Fire
+1 Mother of Runes
+2 Mother of Runes
+3 Mother of Runes
 1 Sanctum Prelate
 3 Wooded Foothills
 3 Abrupt Decay
@@ -28,10 +28,10 @@
 1 Once Upon a Time
 2 Once Upon a Time
 3 Once Upon a Time
+1 Elvish Reclaimer
 1 Terravore
 1 Maze of Ith
 1 Dark Depths
-1 Elvish Reclaimer
 1 Thespian's Stage
 1 Batterskull
 1 Titania, Protector of Argoth
@@ -43,9 +43,32 @@
 2 Plains
 1 Dark Confidant
 2 Dark Confidant
+1 Snow-Covered Plains
+1 Snow-Covered Forest
+1 Misty Rainforest
 1 Vraska, Golgari Queen
 1 Toski, Bearer of Secrets
-1 Renegade Rallier
+1 Field of the Dead
+1 Primeval Titan
+1 Valakut, the Molten Pinnacle
+1 Dryad of the Ilysian Grove
+1 The Tabernacle at Pendrell Vale
+1 Arasta of the Endless Web
+1 Bojuka Bog
+1 Flagstones of Trokair
+1 Cavern of Souls
+1 Ancient Tomb
+1 Courser of Kruphix
+2 Elvish Reclaimer
+2 Dryad of the Ilysian Grove
+2 Primeval Titan
+2 Valakut, the Molten Pinnacle
+2 Cavern of Souls
+3 Elvish Reclaimer
+3 Dryad of the Ilysian Grove
+3 Skyclave Apparition
+4 Elvish Reclaimer
+4 Dryad of the Ilysian Grove
 1 Shadowspear
 1 Lightning Bolt
 1 Nurturing Peatland
@@ -56,13 +79,10 @@
 4 Stoneforge Mystic
 1 Waterlogged Grove
 1 Hullbreacher
-1 Snow-Covered Island
-1 Snow-Covered Plains
-1 Snow-Covered Forest
 1 Tropical Island
 1 Ice-Fang Coatl
+1 Snow-Covered Island
 1 Tundra
-1 Misty Rainforest
 2 Hullbreacher
 2 Ice-Fang Coatl
 2 Snow-Covered Forest
@@ -99,6 +119,6 @@
 4 Dark Confidant
 4 False Cure
 4 Invigorate
-4 Kavu Predator
 4 Bayou
+4 Kavu Predator
 4 Skyshroud Cutter
