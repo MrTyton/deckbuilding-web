@@ -106,6 +106,6 @@
 |                    1|[Kari Zev, Skyship Raider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423754)|                     |                                                                                               |
 |                    2|[Chart a Course](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435200)          |                     |                                                                                               |
 |                    2|[Kari Zev, Skyship Raider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423754)|                     |                                                                                               |
-|                    3|[Kari Zev, Skyship Raider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423754)|                     |                                                                                               |
 |                    3|[Nivmagus Elemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=290526)      |                     |                                                                                               |
+|                    3|[Kari Zev, Skyship Raider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423754)|                     |                                                                                               |
 

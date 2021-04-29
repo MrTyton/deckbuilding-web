@@ -1,8 +1,8 @@
+1 Kor Firewalker
+2 Kor Firewalker
 1 Path to Exile
 2 Path to Exile
 3 Path to Exile
-1 Kor Firewalker
-2 Kor Firewalker
 3 Kor Firewalker
 4 Path to Exile
 1 Soul-Guide Lantern
@@ -47,20 +47,20 @@
 2 Flusterstorm
 2 Supreme Verdict
 3 Timely Reinforcements
-1 Shattering Spree
+4 Abrade
 1 Surgical Extraction
 2 Surgical Extraction
 3 Surgical Extraction
-2 Shattering Spree
-4 Abrade
-1 Chained to the Rocks
 1 Blood Moon
+1 Shattering Spree
 1 Dragon's Claw
 2 Dragon's Claw
+2 Blood Moon
+1 Chained to the Rocks
+2 Shattering Spree
 1 Deicide
 4 Kor Firewalker
 1 Ral, Izzet Viceroy
-2 Blood Moon
 1 Crackling Drake
 2 Deicide
 2 Chained to the Rocks
@@ -71,21 +71,19 @@
 3 Rest in Peace
 3 Flusterstorm
 1 Grafdigger's Cage
-2 Smash to Smithereens
 2 Grafdigger's Cage
+2 Smash to Smithereens
 3 Smash to Smithereens
 4 Smash to Smithereens
-1 Postmortem Lunge
-2 Postmortem Lunge
 1 Kroxa, Titan of Death's Hunger
 1 Temur Battle Rage
+1 Nihil Spellbomb
 1 Kolaghan's Command
 1 Fatal Push
-1 Nihil Spellbomb
 2 Kolaghan's Command
-2 Fatal Push
-2 Kroxa, Titan of Death's Hunger
 2 Nihil Spellbomb
+2 Kroxa, Titan of Death's Hunger
+2 Fatal Push
 3 Fatal Push
 4 Fatal Push
 1 Wear/Tear
@@ -94,13 +92,15 @@
 3 Anger of the Gods
 1 Alpine Moon
 2 Alpine Moon
+1 Dismember
+3 Dragon's Claw
 1 Magus of the Moon
 1 Vendilion Clique
 1 Young Pyromancer
-1 Dismember
 2 Temur Battle Rage
 1 Dispel
 2 Dispel
+2 Wear/Tear
 1 Grim Lavamancer
 1 Mystic Repeal
 1 Choke
@@ -108,13 +108,14 @@
 1 Jegantha, the Wellspring
 2 Mystic Repeal
 2 Flame Slash
-2 Ashiok, Dream Render
-2 Wear/Tear
 1 Revoke Existence
 2 Revoke Existence
 1 Bedlam Reveler
 1 Bonecrusher Giant
 2 Bonecrusher Giant
+2 Ashiok, Dream Render
+1 Postmortem Lunge
+2 Postmortem Lunge
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep
 1 Pillage
@@ -124,18 +125,22 @@
 1 Veil of Summer
 2 Veil of Summer
 3 Veil of Summer
+1 Shenanigans
+1 Saheeli, Sublime Artificer
+2 Shenanigans
+2 Saheeli, Sublime Artificer
+2 Dismember
+3 Blood Moon
+3 Saheeli, Sublime Artificer
 1 Deglamer
 2 Deglamer
 3 Alpine Moon
 3 Chained to the Rocks
-3 Shattering Spree
-3 Postmortem Lunge
-4 Aether Gust
+4 Surgical Extraction
 1 Frost Bite
 2 Crackling Drake
 2 Ceremonious Rejection
 3 Ceremonious Rejection
 4 Ceremonious Rejection
-3 Dragon's Claw
-4 Surgical Extraction
+4 Aether Gust
 4 Soul-Guide Lantern

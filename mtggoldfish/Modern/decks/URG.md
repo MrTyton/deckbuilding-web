@@ -81,6 +81,6 @@
 |                    2|[Shark Typhoon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479587)       |                     |                                                                                                  |
 |                    2|[Sulfur Falls](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443135)        |                     |                                                                                                  |
 |                    2|[Steam Vents](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405109)         |                     |                                                                                                  |
-|                    2|[Ketria Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479770)       |                     |                                                                                                  |
 |                    3|[Archmage's Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463989)    |                     |                                                                                                  |
+|                    2|[Ketria Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479770)       |                     |                                                                                                  |
 

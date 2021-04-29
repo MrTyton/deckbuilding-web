@@ -72,7 +72,6 @@
 1 Agonizing Remorse
 1 Indatha Triome
 1 Branchloft Pathway
-2 Sarulf, Realm Eater
 2 Brightclimb Pathway
 2 Tangled Florahedron
 2 Scavenging Ooze
@@ -80,6 +79,7 @@
 2 Eliminate
 2 Bloodchief's Thirst
 2 Mythos of Nethroi
+2 Sarulf, Realm Eater
 2 Indatha Triome
 2 Branchloft Pathway
 3 Brightclimb Pathway
@@ -116,36 +116,36 @@
 6 Forest
 6 Swamp
 7 Forest
-1 Hunt for Specimens
-1 Sculptor of Winter
 1 Witherbloom Campus
-1 Cram Session
+1 Hunt for Specimens
+1 Bookwurm
+1 Sculptor of Winter
 1 Skull Prophet
 1 Sarulf's Packmate
 1 Feed the Serpent
-1 Bookwurm
 1 Massacre Wurm
 1 Back for More
+1 Cram Session
+2 Witherbloom Campus
 2 Hunt for Specimens
 2 Sculptor of Winter
-2 Cram Session
-2 Witherbloom Campus
+2 Bookwurm
 2 Skull Prophet
 2 Sarulf's Packmate
+2 Cram Session
 2 Feed the Serpent
 2 Back for More
-2 Bookwurm
 3 Hunt for Specimens
 3 Sculptor of Winter
-3 Cram Session
-3 Sarulf's Packmate
-3 Witherbloom Campus
-3 Skull Prophet
 3 Bookwurm
+3 Witherbloom Campus
+3 Sarulf's Packmate
+3 Skull Prophet
+3 Cram Session
+4 Sarulf's Packmate
 4 Hunt for Specimens
 4 Sculptor of Winter
-4 Cram Session
-4 Sarulf's Packmate
 4 Witherbloom Campus
+4 Cram Session
 9 Snow-Covered Swamp
 9 Snow-Covered Forest

@@ -1,5 +1,5 @@
-1 Scrubland
 1 Bayou
+2 Snow-Covered Forest
 1 Abrupt Decay
 2 Abrupt Decay
 2 Verdant Catacombs
@@ -11,16 +11,17 @@
 2 Once Upon a Time
 3 Flagstones of Trokair
 1 Wooded Foothills
-1 Misty Rainforest
-1 Field of the Dead
-4 Dark Depths
-1 Noble Hierarch
-1 Ancient Tomb
 1 Gaddock Teeg
+1 Field of the Dead
+1 Misty Rainforest
+4 Dark Depths
+1 Scavenging Ooze
+1 Ancient Tomb
 1 Titania, Protector of Argoth
 1 Horizon Canopy
 1 Qasali Pridemage
 1 Choke
+1 Noble Hierarch
 1 Collector Ouphe
 1 Plague Engineer
 1 Dryad of the Ilysian Grove
@@ -29,7 +30,6 @@
 1 Vesuva
 1 Yasharn, Implacable Earth
 1 Valakut, the Molten Pinnacle
-1 Scavenging Ooze
 2 Plague Engineer
 2 Dryad of the Ilysian Grove
 3 Verdant Catacombs
@@ -41,6 +41,12 @@
 2 Giver of Runes
 3 Giver of Runes
 4 Sylvan Library
+1 Dark Confidant
+2 Dark Confidant
+2 Bayou
+3 Dark Confidant
+3 Abrupt Decay
+4 Dark Confidant
 1 Fierce Empath
 1 Llanowar Elves
 1 Temple Garden
@@ -59,23 +65,3 @@
 3 Llanowar Elves
 3 Elvish Rejuvenator
 4 Llanowar Elves
-1 Tropical Island
-1 Brainstorm
-1 Teferi, Time Raveler
-1 Allosaurus Shepherd
-1 Stifle
-1 Tundra
-2 Misty Rainforest
-2 Teferi, Time Raveler
-2 Brainstorm
-2 Noble Hierarch
-2 Stifle
-2 Tropical Island
-3 Teferi, Time Raveler
-3 Misty Rainforest
-3 Brainstorm
-3 Stifle
-3 Noble Hierarch
-4 Misty Rainforest
-4 Noble Hierarch
-4 Brainstorm

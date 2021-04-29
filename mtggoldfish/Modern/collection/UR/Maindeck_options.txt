@@ -1,3 +1,4 @@
+4 Crash Through
 1 Scalding Tarn
 1 Snapcaster Mage
 2 Snapcaster Mage
@@ -29,8 +30,8 @@
 3 Cascade Bluffs
 4 Cascade Bluffs
 4 Archmage's Charm
-1 Riverglide Pathway
 1 Spirebluff Canal
+1 Riverglide Pathway
 2 Valakut Awakening
 2 Spirebluff Canal
 2 Riverglide Pathway
@@ -41,11 +42,10 @@
 2 Mana Leak
 1 Flame Slash
 2 Spell Snare
-4 Crash Through
+4 Light Up the Stage
 1 Reflecting Pool
 2 Steam Vents
 1 Abrade
-4 Light Up the Stage
 2 Scalding Tarn
 1 Kiki-Jiki, Mirror Breaker
 2 Kiki-Jiki, Mirror Breaker
@@ -78,21 +78,21 @@
 2 Flooded Strand
 3 Boros Charm
 1 Prismari Command
-2 Arid Mesa
 3 Flooded Strand
 4 Flooded Strand
+4 Mountain
 7 Island
 2 Force of Negation
+2 Arid Mesa
 1 Temple of Epiphany
 2 Temple of Epiphany
-3 Reflecting Pool
 3 Temple of Epiphany
+3 Reflecting Pool
 3 Valakut Awakening
-4 Reflecting Pool
 4 Temple of Epiphany
+4 Reflecting Pool
 4 Valakut Awakening
 1 Sulfur Falls
-4 Mountain
 3 Wooded Foothills
 1 Raugrin Triome
 1 Jace, the Mind Sculptor
@@ -110,7 +110,6 @@
 1 Leonin Lightscribe
 2 Leonin Lightscribe
 1 Hallowed Fountain
-3 Kiln Fiend
 1 Teferi, Time Raveler
 1 Plains
 2 Teferi, Time Raveler
@@ -137,21 +136,26 @@
 2 Prismari Command
 3 Lava Spike
 4 Lava Spike
-3 Bloodstained Mire
+3 Kiln Fiend
 4 Abbot of Keral Keep
 2 Crackling Drake
 1 Lightning Helix
 1 Celestial Colonnade
 3 Arid Mesa
-3 Gut Shot
-4 Bloodstained Mire
+3 Bloodstained Mire
 1 Magmatic Sinkhole
-1 Snow-Covered Mountain
-1 Blood Crypt
-4 Kiln Fiend
-1 Wild Slash
 1 Fiery Islet
 2 Fiery Islet
+5 Mountain
+6 Mountain
+7 Mountain
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
+1 Snow-Covered Mountain
+1 Wild Slash
 1 Path to Exile
 2 Path to Exile
 3 Path to Exile
@@ -159,11 +163,14 @@
 4 Boros Charm
 1 Polluted Delta
 2 Polluted Delta
-3 Polluted Delta
 3 Blood Moon
+3 Polluted Delta
 4 Polluted Delta
 2 Lightning Helix
+3 Gut Shot
+4 Bloodstained Mire
 1 Scourge of the Skyclaves
+1 Blood Crypt
 1 Temur Battle Rage
 2 Scourge of the Skyclaves
 2 Blood Crypt
@@ -172,6 +179,7 @@
 3 Scourge of the Skyclaves
 4 Scourge of the Skyclaves
 4 Blood Crypt
+4 Kiln Fiend
 2 Castle Vantress
 2 Jace, the Mind Sculptor
 9 Island
@@ -191,18 +199,10 @@
 2 Bedlam Reveler
 3 Fiery Islet
 3 Bedlam Reveler
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-1 Emerge Unscathed
+13 Mountain
+14 Mountain
 1 Ground Rift
 2 Ground Rift
-2 Emerge Unscathed
 1 Tarmogoyf
 1 Stomping Ground
 2 Stomping Ground
@@ -217,21 +217,23 @@
 1 Teferi, Hero of Dominaria
 1 Field of Ruin
 2 Field of Ruin
+1 Spell Queller
 1 Ketria Triome
 1 Breeding Pool
-1 Spell Queller
 1 Claim the Firstborn
 1 Narset, Parter of Veils
 1 Nahiri, the Harbinger
 1 Spell Pierce
-2 Spell Pierce
 2 Narset, Parter of Veils
+2 Spell Pierce
 1 Mystic Gate
 1 Venser, Shaper Savant
 2 Hallowed Fountain
 2 Venser, Shaper Savant
 2 Behold the Multiverse
 2 Magmatic Sinkhole
+1 Emerge Unscathed
+2 Emerge Unscathed
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 2 Seasoned Pyromancer
@@ -246,6 +248,7 @@
 2 Wild Nacatl
 3 Wild Nacatl
 4 Wild Nacatl
+4 Sacred Foundry
 1 Hooting Mandrills
 1 Copperline Gorge
 2 Hooting Mandrills
@@ -255,46 +258,42 @@
 3 Seal of Fire
 4 Copperline Gorge
 4 Seal of Fire
-4 Sacred Foundry
-1 Assault Strobe
-1 Tainted Strike
-2 Assault Strobe
-2 Tainted Strike
-3 Assault Strobe
-3 Tainted Strike
-3 Ground Rift
-4 Gut Shot
-4 Ground Rift
+4 Fiery Islet
 1 Shark Typhoon
 1 Grim Lavamancer
 1 Pestermite
 1 Izzet Charm
 2 Izzet Charm
 2 Shark Typhoon
-2 Misty Rainforest
 2 Vendilion Clique
-3 Shark Typhoon
+2 Misty Rainforest
 3 Misty Rainforest
+3 Shark Typhoon
 4 Misty Rainforest
 4 Sulfur Falls
 1 Logic Knot
 1 Graven Lore
-1 Negate
 1 Frost Bite
+1 Negate
 1 Snow-Covered Island
 1 Magma Opus
 1 Torrential Gearhulk
 1 Volatile Fjord
-2 Snow-Covered Island
 2 Magma Opus
+2 Snow-Covered Island
 2 Torrential Gearhulk
-3 Snow-Covered Island
 3 Prismari Command
+3 Snow-Covered Island
 3 Torrential Gearhulk
 3 Magma Opus
 4 Snow-Covered Island
 5 Snow-Covered Island
 6 Snow-Covered Island
-4 Fiery Islet
-13 Mountain
-14 Mountain
+1 Nivmagus Elemental
+2 Nivmagus Elemental
+3 Nivmagus Elemental
+3 Ground Rift
+4 Nivmagus Elemental
+4 Ground Rift
+15 Mountain
+16 Mountain

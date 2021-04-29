@@ -1,3 +1,4 @@
+9 Swamp
 1 Hymn to Tourach
 1 Castle Locthwain
 1 Liliana of the Veil
@@ -24,7 +25,6 @@
 4 Smallpox
 4 Wasteland
 4 Mishra's Factory
-9 Swamp
 10 Swamp
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
@@ -37,32 +37,37 @@
 11 Swamp
 4 Inquisition of Kozilek
 4 Liliana of the Veil
-3 Thoughtseize
-4 Thoughtseize
-2 Liliana's Triumph
-3 Castle Locthwain
-1 Tombstalker
 1 Plague Engineer
 2 Plague Engineer
 1 Rotting Regisaur
 2 Rotting Regisaur
 3 Rotting Regisaur
+3 Thoughtseize
+4 Thoughtseize
+2 Liliana's Triumph
+3 Castle Locthwain
+1 Tombstalker
+1 Eliminate
+2 Eliminate
+3 Eliminate
+3 Plague Engineer
 1 Nether Spirit
 1 Innocent Blood
 1 Cling to Dust
 1 Liliana, Waker of the Dead
 2 Innocent Blood
 1 Blast Zone
-3 Liliana's Triumph
+4 Rotting Regisaur
 3 Bloodchief's Thirst
+3 Liliana's Triumph
+4 Trinisphere
 1 Dark Confidant
 1 Murderous Rider
 2 Dark Confidant
 2 Murderous Rider
-3 Murderous Rider
 3 Dark Confidant
+3 Murderous Rider
 4 Dark Confidant
-4 Rotting Regisaur
 12 Swamp
 13 Swamp
 1 Gemstone Caverns
@@ -71,23 +76,51 @@
 1 Ashiok, Dream Render
 1 Extirpate
 2 Ashiok, Dream Render
-3 Plague Engineer
-1 Eliminate
-2 Eliminate
-3 Eliminate
 3 Defense Grid
 1 Maze of Ith
 1 Sinkhole
 2 Sinkhole
 3 Bitterblossom
 3 Sinkhole
+1 Ensnaring Bridge
+1 Liquimetal Coating
+1 Duress
+1 Surgical Extraction
+1 Asylum Visitor
+1 Marsh Flats
+1 Mutavault
+2 Ensnaring Bridge
+2 Duress
+2 Surgical Extraction
+2 Mutavault
+2 Marsh Flats
+2 Blast Zone
+2 Asylum Visitor
+3 Marsh Flats
+3 Mutavault
+4 Marsh Flats
+1 Sword of Fire and Ice
+1 Umezawa's Jitte
+1 Juzam Djinn
+1 Desecration Demon
+1 Opposition Agent
+1 Archfiend of Ifnir
+2 Desecration Demon
+2 Opposition Agent
+2 Archfiend of Ifnir
+3 Opposition Agent
+3 Desecration Demon
+4 Eliminate
+4 Plague Engineer
+4 Desecration Demon
+4 Opposition Agent
 1 Snow-Covered Swamp
 1 Cursed Scroll
 2 Snow-Covered Swamp
-2 Liliana, Waker of the Dead
 2 Cursed Scroll
 2 Nether Spirit
 2 Cling to Dust
+2 Liliana, Waker of the Dead
 3 Snow-Covered Swamp
 3 Cling to Dust
 4 Snow-Covered Swamp
@@ -99,20 +132,43 @@
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 10 Snow-Covered Swamp
-1 Ensnaring Bridge
-1 Liquimetal Coating
-1 Surgical Extraction
-1 Duress
-1 Asylum Visitor
-1 Marsh Flats
-1 Mutavault
-2 Blast Zone
-2 Ensnaring Bridge
-2 Surgical Extraction
-2 Duress
-2 Mutavault
-2 Marsh Flats
-2 Asylum Visitor
-3 Marsh Flats
-4 Marsh Flats
-3 Mutavault
+1 Snow-Covered Mountain
+1 Mountain
+1 Blood Moon
+1 Magus of the Moon
+1 Shatterskull Charger
+1 Tectonic Giant
+1 Calamity Bearer
+1 Quakebringer
+1 Bonecrusher Giant
+1 Cavern of Souls
+1 Simian Spirit Guide
+2 Snow-Covered Mountain
+2 Mountain
+2 Tectonic Giant
+2 Shatterskull Charger
+2 Quakebringer
+2 Calamity Bearer
+2 Blood Moon
+2 Bonecrusher Giant
+2 Simian Spirit Guide
+2 Cavern of Souls
+3 Snow-Covered Mountain
+3 Bonecrusher Giant
+3 Shatterskull Charger
+3 Quakebringer
+3 Calamity Bearer
+3 Simian Spirit Guide
+3 Blood Moon
+3 Cavern of Souls
+3 Tectonic Giant
+3 Mountain
+4 Snow-Covered Mountain
+4 Bonecrusher Giant
+4 Calamity Bearer
+4 Simian Spirit Guide
+4 Tectonic Giant
+4 Blood Moon
+4 Mountain
+4 Shatterskull Charger
+4 Cavern of Souls

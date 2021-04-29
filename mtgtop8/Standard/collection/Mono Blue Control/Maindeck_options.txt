@@ -5,28 +5,26 @@
 1 Radiant Fountain
 1 Forsaken Monument
 1 Sublime Epiphany
-1 Labyrinth of Skophos
 1 Unknown Shores
 1 Sea Gate Restoration
-1 Skyclave Relic
 1 Midnight Clock
 1 Cosmos Elixir
-1 Kiora Bests the Sea God
 1 Tyrite Sanctum
+1 Kiora Bests the Sea God
 1 Palladium Myr
 1 Shimmer Dragon
 1 Ugin, the Spirit Dragon
 1 The Magic Mirror
+1 Skyclave Relic
 1 Discontinuity
 1 Mazemind Tome
 1 Throne of Makindi
+1 Labyrinth of Skophos
 1 Solemn Simulacrum
 1 Omen of the Sea
 2 Forsaken Monument
 2 Crawling Barrens
 2 Sublime Epiphany
-2 Tyrite Sanctum
-2 Labyrinth of Skophos
 2 Midnight Clock
 2 Radiant Fountain
 2 Omen of the Sea
@@ -36,18 +34,20 @@
 2 Skyclave Relic
 2 Discontinuity
 2 Mazemind Tome
+2 Tyrite Sanctum
 2 Palladium Myr
 2 Unknown Shores
+2 Labyrinth of Skophos
 2 Shimmer Dragon
 2 Throne of Makindi
 3 Crawling Barrens
 3 Omen of the Sea
-3 Tyrite Sanctum
 3 Radiant Fountain
-3 Forsaken Monument
 3 Midnight Clock
+3 Forsaken Monument
 3 Skyclave Relic
 3 Labyrinth of Skophos
+3 Tyrite Sanctum
 3 Throne of Makindi
 3 Discontinuity
 3 Palladium Myr
@@ -57,18 +57,18 @@
 3 Ugin, the Spirit Dragon
 3 Mazemind Tome
 3 Sublime Epiphany
+4 Essence Scatter
 4 Radiant Fountain
 4 Midnight Clock
 4 Crawling Barrens
 4 Skyclave Relic
 4 Solemn Simulacrum
-4 Essence Scatter
 4 Palladium Myr
 4 Unknown Shores
 1 Negate
 1 Neutralize
-1 Unsubstantiate
 1 Mystic Subdual
+1 Unsubstantiate
 2 Mystic Subdual
 2 Unsubstantiate
 1 Gadwick, the Wizened
@@ -114,12 +114,12 @@
 3 Stern Dismissal
 3 Island
 3 Neutralize
+3 Curate
+3 Reject
 3 Serpentine Curve
 3 Frostveil Ambush
 3 Boon of the Wish-Giver
-3 Reject
 3 Startling Development
-3 Curate
 4 Frostveil Ambush
 4 Island
 4 Neutralize
@@ -132,9 +132,9 @@
 8 Island
 9 Island
 10 Island
-11 Island
 12 Island
 13 Island
 14 Island
 15 Island
 16 Island
+11 Island
