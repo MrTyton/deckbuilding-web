@@ -40,20 +40,20 @@
 1 Flame Slash
 1 Firebolt
 1 Seasoned Pyromancer
-2 Castle Embereth
-2 Blood Moon
 2 Flame Slash
+2 Blood Moon
 2 Bonecrusher Giant
 2 Seasoned Pyromancer
 2 Firebolt
+2 Castle Embereth
 3 Castle Embereth
+3 Bonecrusher Giant
 3 Blood Moon
 3 Seasoned Pyromancer
 3 Firebolt
-3 Bonecrusher Giant
-4 Bonecrusher Giant
 4 Firebolt
 4 Seasoned Pyromancer
+4 Bonecrusher Giant
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
@@ -83,16 +83,16 @@
 3 Burst Lightning
 3 Runaway Steam-Kin
 3 Lightning Helix
-4 Arid Mesa
+1 Snow-Covered Mountain
+3 Sacred Foundry
+4 Sacred Foundry
 1 Kiln Fiend
 1 Wild Slash
 2 Kiln Fiend
 2 Wild Slash
 3 Kiln Fiend
 4 Kiln Fiend
-1 Snow-Covered Mountain
-3 Sacred Foundry
-4 Sacred Foundry
+4 Arid Mesa
 1 Gut Shot
 1 The Flame of Keld
 1 Ghitu Lavarunner
@@ -108,10 +108,10 @@
 3 The Flame of Keld
 3 Wizard's Lightning
 4 Scalding Tarn
-4 Gut Shot
 4 Bomat Courier
 4 Ghitu Lavarunner
 4 The Flame of Keld
+4 Gut Shot
 1 Mogg Fanatic
 1 Foundry Street Denizen
 1 Burning-Tree Emissary

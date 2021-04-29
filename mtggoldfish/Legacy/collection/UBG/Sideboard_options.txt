@@ -1,39 +1,39 @@
 2 Carpet of Flowers
-1 Hymn to Tourach
 1 Collector Ouphe
+1 Hymn to Tourach
 1 Ratchet Bomb
 2 Hymn to Tourach
 2 Liliana's Triumph
-1 Karakas
 1 Pithing Needle
+1 Karakas
 1 Thoughtseize
-1 Force of Negation
 1 Veil of Summer
-1 Back to Basics
-1 Relic of Progenitus
-2 Relic of Progenitus
 2 Veil of Summer
+1 Relic of Progenitus
+1 Back to Basics
+1 Force of Negation
+2 Relic of Progenitus
 1 Leovold, Emissary of Trest
+1 Assassin's Trophy
 1 Force of Vigor
 1 Crop Rotation
 3 Plague Engineer
 1 Nihil Spellbomb
-1 Assassin's Trophy
-2 Crop Rotation
-2 Fatal Push
-1 Dead of Winter
 1 Sylvan Library
+2 Crop Rotation
+1 Dead of Winter
+2 Fatal Push
 2 Thoughtseize
+1 Abrupt Decay
+2 Flusterstorm
 1 Blue Elemental Blast
 1 Hydroblast
 1 Mystical Dispute
 2 Grafdigger's Cage
-1 Abrupt Decay
 1 Scavenging Ooze
 1 Bojuka Bog
 1 Winter Orb
 2 Pithing Needle
-2 Flusterstorm
 2 Ratchet Bomb
 1 Toxic Deluge
 1 Pyroblast
@@ -85,14 +85,16 @@
 1 Opposition Agent
 1 Run Afoul
 3 Pyroblast
+1 Darkblast
+1 Massacre
 1 Uro, Titan of Nature's Wrath
 1 Drown in the Loch
 1 Court of Cunning
 1 Cabal Pit
+1 Lim-Dul's Vault
 1 The Tabernacle at Pendrell Vale
 1 Murderous Cut
 1 Wilt
-1 Darkblast
 1 Vivien, Monsters' Advocate
 1 Angrath's Rampage
 1 Painful Truths
@@ -102,8 +104,6 @@
 1 Chandra, Awakened Inferno
 1 Klothys, God of Destiny
 1 Ipnu Rivulet
-1 Lim-Dul's Vault
-1 Massacre
 1 Wasteland
 1 Goblin Cratermaker
 1 Abrade
@@ -119,6 +119,8 @@
 1 Ashiok, Dream Render
 2 Run Afoul
 2 Opposition Agent
+2 Narset, Parter of Veils
+2 Force of Negation
 1 Hurkyl's Recall
 3 Fatal Push
 1 Raven's Crime
@@ -128,5 +130,11 @@
 2 True-Name Nemesis
 3 True-Name Nemesis
 4 True-Name Nemesis
-2 Narset, Parter of Veils
-2 Force of Negation
+1 Memory's Journey
+1 Ancient Grudge
+1 Predict
+2 Abrupt Decay
+2 Massacre
+2 Ancient Grudge
+3 Abrupt Decay
+2 Predict

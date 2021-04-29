@@ -41,8 +41,8 @@
 2 Anger of the Gods
 3 Tormod's Crypt
 1 Force of Negation
-1 Rest in Peace
 1 Supreme Verdict
+1 Rest in Peace
 2 Rest in Peace
 2 Flusterstorm
 2 Supreme Verdict
@@ -68,22 +68,22 @@
 1 Prismari Command
 1 Pyrite Spellbomb
 2 Pyrite Spellbomb
-3 Rest in Peace
 3 Flusterstorm
+3 Rest in Peace
 1 Grafdigger's Cage
 2 Grafdigger's Cage
 2 Smash to Smithereens
 3 Smash to Smithereens
 4 Smash to Smithereens
 1 Kroxa, Titan of Death's Hunger
+1 Fatal Push
 1 Temur Battle Rage
 1 Nihil Spellbomb
 1 Kolaghan's Command
-1 Fatal Push
 2 Kolaghan's Command
 2 Nihil Spellbomb
-2 Kroxa, Titan of Death's Hunger
 2 Fatal Push
+2 Kroxa, Titan of Death's Hunger
 3 Fatal Push
 4 Fatal Push
 1 Wear/Tear
@@ -98,8 +98,7 @@
 1 Vendilion Clique
 1 Young Pyromancer
 2 Temur Battle Rage
-1 Dispel
-2 Dispel
+2 Ashiok, Dream Render
 2 Wear/Tear
 1 Grim Lavamancer
 1 Mystic Repeal
@@ -110,12 +109,13 @@
 2 Flame Slash
 1 Revoke Existence
 2 Revoke Existence
+1 Postmortem Lunge
+2 Postmortem Lunge
 1 Bedlam Reveler
 1 Bonecrusher Giant
 2 Bonecrusher Giant
-2 Ashiok, Dream Render
-1 Postmortem Lunge
-2 Postmortem Lunge
+1 Dispel
+2 Dispel
 1 Abbot of Keral Keep
 2 Abbot of Keral Keep
 1 Pillage

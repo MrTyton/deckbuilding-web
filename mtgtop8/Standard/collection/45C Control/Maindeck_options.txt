@@ -57,7 +57,6 @@
 1 Shark Typhoon
 2 Shark Typhoon
 1 Lotus Cobra
-1 Genesis Ultimatum
 1 Migration Path
 1 Ugin, the Spirit Dragon
 1 Kiora Bests the Sea God
@@ -66,6 +65,7 @@
 1 Vorinclex, Monstrous Raider
 1 Alrund's Epiphany
 1 Riverglide Pathway
+1 Genesis Ultimatum
 1 Cragcrown Pathway
 1 Mountain
 1 Emergent Ultimatum
@@ -89,11 +89,11 @@
 3 Mystical Dispute
 3 Genesis Ultimatum
 3 The World Tree
-4 Emergent Ultimatum
 4 Lotus Cobra
 4 Cultivate
 4 Mystical Dispute
 4 Ketria Triome
+4 Emergent Ultimatum
 4 Migration Path
 4 The World Tree
 4 Genesis Ultimatum
@@ -124,18 +124,17 @@
 3 Wolfwillow Haven
 3 Esika's Chariot
 4 Wolfwillow Haven
+1 Wind-Scarred Crag
+1 Swiftwater Cliffs
 1 Tranquil Cove
 1 Jungle Hollow
-1 Swiftwater Cliffs
-1 Wind-Scarred Crag
-1 Shimmerdrift Vale
 1 Sarulf's Packmate
 1 Snow-Covered Forest
 1 Thornwood Falls
-1 Blood on the Snow
 1 Dismal Backwater
 1 Llanowar Visionary
 1 Doomskar
+1 Blood on the Snow
 1 Ravenform
 1 Revitalize
 1 Snow-Covered Plains
@@ -143,6 +142,7 @@
 1 Bloodfell Caves
 1 Behold the Multiverse
 1 Crippling Fear
+1 Shimmerdrift Vale
 1 Snow-Covered Island
 1 Sanctum of All
 1 Sanctum of Fruitful Harvest
@@ -156,7 +156,6 @@
 1 Sanctum of Stone Fangs
 1 Snow-Covered Swamp
 2 Sarulf's Packmate
-2 Shimmerdrift Vale
 2 Snow-Covered Forest
 2 Llanowar Visionary
 2 Revitalize
@@ -166,6 +165,7 @@
 2 Sanctum of Fruitful Harvest
 2 Snow-Covered Plains
 2 Sanctum of Calm Waters
+2 Shimmerdrift Vale
 2 Sanctum of Tranquil Light
 2 Snow-Covered Mountain
 2 Sanctum of Stone Fangs
@@ -173,14 +173,14 @@
 2 Behold the Multiverse
 2 Scorching Dragonfire
 3 Sarulf's Packmate
-3 Shimmerdrift Vale
 3 Llanowar Visionary
 3 Scorching Dragonfire
+3 Ravenform
 3 Sanctum of Fruitful Harvest
 3 Sanctum of Calm Waters
 3 Sanctum of Stone Fangs
+3 Shimmerdrift Vale
 3 Sanctum of Shattered Heights
-3 Ravenform
-4 Shimmerdrift Vale
 4 Scorching Dragonfire
 4 Sanctum of Stone Fangs
+4 Shimmerdrift Vale

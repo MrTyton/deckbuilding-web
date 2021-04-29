@@ -1,5 +1,5 @@
+1 Kiora, Behemoth Beckoner
 2 Kiora, Behemoth Beckoner
-1 Scavenging Ooze
 2 Scavenging Ooze
 1 Burning-Tree Emissary
 2 Burning-Tree Emissary
@@ -16,6 +16,16 @@
 1 Game Trail
 2 Game Trail
 3 Game Trail
+1 Ghor-Clan Rampager
+1 Old-Growth Troll
+1 Reckless Bushwhacker
+1 Wildborn Preserver
+1 Cinder Glade
+2 Reckless Bushwhacker
+2 Cinder Glade
+3 Reckless Bushwhacker
+3 Scavenging Ooze
+4 Reckless Bushwhacker
 2 Rhonas the Indomitable
 1 Domri, Anarch of Bolas
 2 Domri, Anarch of Bolas
@@ -41,19 +51,9 @@
 3 Goblin Rabblemaster
 4 Legion Warboss
 4 Goblin Rabblemaster
-1 Ghor-Clan Rampager
-1 Old-Growth Troll
-1 Reckless Bushwhacker
-1 Wildborn Preserver
-1 Cinder Glade
-2 Reckless Bushwhacker
-2 Cinder Glade
-3 Reckless Bushwhacker
-3 Scavenging Ooze
-4 Reckless Bushwhacker
 8 Forest
-1 Kazandu Mammoth
 1 Gallia of the Endless Dance
+1 Kazandu Mammoth
 1 Voltaic Brawler
 1 Wild Slash
 1 Garruk's Harbinger
@@ -86,10 +86,10 @@
 2 Marauding Raptor
 2 Commune with Dinosaurs
 2 Ripjaw Raptor
-3 Regisaur Alpha
 3 Commune with Dinosaurs
 3 Reckless Rage
 3 Ripjaw Raptor
+3 Regisaur Alpha
 3 Marauding Raptor
 4 Reckless Rage
 4 Commune with Dinosaurs
@@ -108,10 +108,10 @@
 1 Overgrown Tomb
 1 Darkbore Pathway
 1 Deathrite Shaman
+1 Mutavault
 1 Elvish Visionary
 1 Chord of Calling
 1 Dwynen's Elite
-1 Mutavault
 2 Elvish Clancaller
 2 Elvish Visionary
 2 Harald, King of Skemfar
