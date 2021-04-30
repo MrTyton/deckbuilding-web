@@ -84,15 +84,15 @@
 2 Chevill, Bane of Monsters
 1 Elspeth's Nightmare
 1 Evolving Wilds
-1 Feed the Swarm
+1 Extinction Event
 1 Tajuru Blightblade
 1 Ranger's Guile
 1 Wildborn Preserver
-1 Extinction Event
+1 Feed the Swarm
 1 Withercrown
 1 Fully Grown
-2 Tajuru Blightblade
 2 Feed the Swarm
+2 Tajuru Blightblade
 2 Oakhame Adversary
 2 Fully Grown
 3 Oakhame Adversary
@@ -108,8 +108,8 @@
 1 Wilt
 2 Order of Midnight
 2 Wilt
-1 Gilded Goose
 1 Trail of Crumbs
+1 Gilded Goose
 1 Wicked Wolf
 1 Agadeem's Awakening
 1 Turntimber Symbiosis
@@ -119,10 +119,10 @@
 2 Massacre Wurm
 2 Agadeem's Awakening
 2 Turntimber Symbiosis
-3 Eliminate
 3 Gilded Goose
 3 Trail of Crumbs
 3 Wicked Wolf
+3 Eliminate
 4 Gilded Goose
 4 Wicked Wolf
 3 Toski, Bearer of Secrets
@@ -177,16 +177,9 @@
 2 Thornmantle Striker
 2 Skemfar Shadowsage
 4 Boreal Outrider
-1 Realmwalker
-1 Masked Vandal
-1 Wolfwillow Haven
-2 Wolfwillow Haven
-3 Wolfwillow Haven
-9 Snow-Covered Forest
-10 Snow-Covered Swamp
 1 Castle Garenbrig
-1 Stonecoil Serpent
 1 Bonders' Enclave
+1 Stonecoil Serpent
 1 Ashaya, Soul of the Wild
 1 Snakeskin Veil
 1 Tangled Florahedron
@@ -206,6 +199,13 @@
 4 Gemrazer
 4 Stonecoil Serpent
 10 Forest
+1 Realmwalker
+1 Masked Vandal
+1 Wolfwillow Haven
+2 Wolfwillow Haven
+3 Wolfwillow Haven
+9 Snow-Covered Forest
+10 Snow-Covered Swamp
 1 Egon, God of Death
 1 Call of the Death-Dweller
 1 Mire Triton
@@ -222,7 +222,7 @@
 3 The Binding of the Titans
 3 Mire Triton
 3 Moss Viper
-4 Mire Triton
 4 Hooded Blightfang
 4 The Binding of the Titans
+4 Mire Triton
 4 Moss Viper

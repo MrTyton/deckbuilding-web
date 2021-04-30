@@ -28,22 +28,22 @@
 4 Striped Riverwinder
 4 Curator of Mysteries
 4 Windcaller Aven
-1 Spirebluff Canal
 1 Brazen Borrower
 1 Force of Negation
 2 Force of Negation
 3 Force of Negation
 4 Street Wraith
-2 Spirebluff Canal
-4 Force of Negation
+1 Spirebluff Canal
 1 Ardent Plea
 2 Ardent Plea
 3 Ardent Plea
+4 Force of Negation
 1 Flooded Strand
 2 Flooded Strand
 3 Flooded Strand
 4 Flooded Strand
 4 Ardent Plea
+2 Spirebluff Canal
 1 Botanical Sanctum
 1 Violent Outburst
 1 Desert Cerodon
@@ -60,12 +60,12 @@
 2 Botanical Sanctum
 3 Brazen Borrower
 1 Mana Confluence
-4 Brazen Borrower
 1 Glassdust Hulk
 4 Scalding Tarn
-2 Lurrus of the Dream-Den
+4 Brazen Borrower
 1 Inspiring Vantage
 2 Glassdust Hulk
+2 Lurrus of the Dream-Den
 1 Mountain
 1 Snow-Covered Mountain
 3 Snow-Covered Forest
@@ -91,14 +91,14 @@
 1 Goblin Cratermaker
 1 Lithoform Blight
 1 Trial of Ambition
-1 Ketria Triome
-2 Temple Garden
-2 Forest
+2 Island
 2 As Foretold
 3 As Foretold
 4 As Foretold
+1 Ketria Triome
+2 Temple Garden
+2 Forest
 1 Eidolon of Rhetoric
-2 Island
 3 Island
 2 Steam Vents
 3 Steam Vents
@@ -132,6 +132,7 @@
 1 Mystical Dispute
 1 Architects of Will
 2 Architects of Will
+3 Glassdust Hulk
 1 Calix, Destiny's Hand
 1 Snow-Covered Swamp
 1 Indatha Triome
@@ -150,7 +151,6 @@
 4 Island
 4 Waker of Waves
 1 Ancestral Vision
-3 Glassdust Hulk
 4 Glassdust Hulk
 2 Hallowed Fountain
 5 Island
@@ -175,6 +175,9 @@
 3 Hallowed Fountain
 2 Snow-Covered Island
 3 Snow-Covered Island
+2 Inspiring Vantage
+3 Botanical Sanctum
+4 Botanical Sanctum
 1 Watery Grave
 2 Breeding Pool
 3 Architects of Will

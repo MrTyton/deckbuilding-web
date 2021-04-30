@@ -3,7 +3,6 @@
 3 Wooded Foothills
 3 Bloodstained Mire
 4 Mountain
-4 Wooded Foothills
 1 Light Up the Stage
 2 Light Up the Stage
 3 Light Up the Stage
@@ -14,8 +13,8 @@
 9 Mountain
 1 Soul-Scar Mage
 1 Lava Dart
-2 Soul-Scar Mage
 2 Lava Dart
+2 Soul-Scar Mage
 3 Soul-Scar Mage
 3 Lava Dart
 4 Light Up the Stage
@@ -26,30 +25,15 @@
 12 Mountain
 13 Mountain
 14 Mountain
-1 Grim Lavamancer
-4 Bloodstained Mire
-1 Mishra's Bauble
-2 Mishra's Bauble
-3 Mishra's Bauble
-4 Mishra's Bauble
-1 Burst Lightning
-1 Bomat Courier
-2 Bomat Courier
 1 Blast Zone
-1 Castle Embereth
-1 Forgotten Cave
 1 Blood Moon
 1 Bonecrusher Giant
-1 Flame Slash
 1 Firebolt
 1 Seasoned Pyromancer
 2 Blood Moon
-2 Flame Slash
 2 Bonecrusher Giant
 2 Seasoned Pyromancer
 2 Firebolt
-2 Castle Embereth
-3 Castle Embereth
 3 Blood Moon
 3 Seasoned Pyromancer
 3 Bonecrusher Giant
@@ -57,9 +41,25 @@
 4 Bonecrusher Giant
 4 Firebolt
 4 Seasoned Pyromancer
+4 Wooded Foothills
+15 Mountain
+1 Burst Lightning
+1 Bomat Courier
+2 Bomat Courier
+1 Grim Lavamancer
+1 Castle Embereth
+1 Forgotten Cave
+1 Flame Slash
+2 Flame Slash
+2 Castle Embereth
+3 Castle Embereth
+4 Bloodstained Mire
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
+4 Mishra's Bauble
 3 Arid Mesa
 4 Skullcrack
-15 Mountain
 2 Scalding Tarn
 2 Grim Lavamancer
 1 Seal of Fire
@@ -69,11 +69,11 @@
 3 Sacred Foundry
 4 Sacred Foundry
 4 Arid Mesa
-1 Runaway Steam-Kin
 1 Risk Factor
-1 Manamorphose
 1 Bedlam Reveler
+1 Manamorphose
 1 Crash Through
+1 Runaway Steam-Kin
 2 Fiery Islet
 2 Bedlam Reveler
 2 Burst Lightning
@@ -81,9 +81,9 @@
 2 Manamorphose
 2 Crash Through
 3 Bedlam Reveler
-3 Burst Lightning
 3 Manamorphose
 3 Runaway Steam-Kin
+3 Burst Lightning
 3 Crash Through
 4 Crash Through
 4 Manamorphose
@@ -106,6 +106,11 @@
 4 Ghitu Lavarunner
 4 The Flame of Keld
 4 Gut Shot
+2 Blast Zone
+4 Blood Moon
+16 Mountain
+17 Mountain
+18 Mountain
 1 Mogg Fanatic
 1 Foundry Street Denizen
 1 Burning-Tree Emissary
@@ -121,8 +126,8 @@
 2 Reckless Bushwhacker
 2 Goblin Bushwhacker
 2 Goblin Grenade
-2 Devastating Summons
 2 Legion Loyalist
+2 Devastating Summons
 2 Wayward Guide-Beast
 2 Ramunap Ruins
 3 Foundry Street Denizen

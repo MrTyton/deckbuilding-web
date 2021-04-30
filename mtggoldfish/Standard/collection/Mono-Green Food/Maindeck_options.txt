@@ -1,4 +1,5 @@
 3 Old-Growth Troll
+4 The Great Henge
 1 Crawling Barrens
 1 Forest
 2 Forest
@@ -14,7 +15,6 @@
 12 Forest
 13 Forest
 14 Forest
-4 The Great Henge
 2 Crawling Barrens
 15 Forest
 2 Kogla, the Titan Ape
@@ -41,22 +41,22 @@
 16 Forest
 17 Forest
 18 Snow-Covered Forest
+1 Garruk's Uprising
 1 Ram Through
 2 Ram Through
-1 Garruk's Uprising
 1 Ugin, the Spirit Dragon
-1 Ilysian Caryatid
 1 Turntimber Symbiosis
+1 Ilysian Caryatid
 18 Forest
 2 Elder Gargaroth
 1 Garruk, Unleashed
-2 Ilysian Caryatid
-3 Ilysian Caryatid
-19 Forest
-20 Forest
 1 Yorvo, Lord of Garenbrig
 2 Yorvo, Lord of Garenbrig
 3 Yorvo, Lord of Garenbrig
+2 Ilysian Caryatid
+3 Ilysian Caryatid
+3 Ram Through
+19 Forest
 4 Trail of Crumbs
 1 Thrashing Brontodon
 1 Bonders' Enclave
@@ -64,7 +64,7 @@
 1 Cragplate Baloth
 2 Cragplate Baloth
 2 Garruk, Unleashed
-3 Ram Through
+20 Forest
 3 Elder Gargaroth
 4 Ilysian Caryatid
 3 Witch's Oven
@@ -134,20 +134,22 @@
 4 Gemrazer
 4 Stonecoil Serpent
 4 Nessian Hornbeetle
-1 Heroic Intervention
-1 Llanowar Visionary
+1 Bala Ged Recovery
 1 Beanstalk Giant
+1 Llanowar Visionary
 1 Fierce Empath
 2 Cultivate
-2 Heroic Intervention
+2 Bala Ged Recovery
 2 Llanowar Visionary
 2 Fierce Empath
 2 Beanstalk Giant
 3 Ugin, the Spirit Dragon
 3 Fierce Empath
 3 Cultivate
+3 Kogla, the Titan Ape
 3 Llanowar Visionary
 3 Beanstalk Giant
-4 Ugin, the Spirit Dragon
 4 Fierce Empath
+4 Beanstalk Giant
+4 Llanowar Visionary
 4 Cultivate
