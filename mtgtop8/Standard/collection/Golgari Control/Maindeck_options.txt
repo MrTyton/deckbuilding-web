@@ -9,8 +9,8 @@
 1 Cultivate
 2 Mazemind Tome
 2 Cultivate
-1 Wolfwillow Haven
 1 Polukranos, Unchained
+1 Wolfwillow Haven
 2 Wolfwillow Haven
 3 Wolfwillow Haven
 4 Wolfwillow Haven
@@ -69,11 +69,12 @@
 1 Sarulf, Realm Eater
 1 Bloodchief's Thirst
 1 Scavenging Ooze
+1 Branchloft Pathway
 1 Agonizing Remorse
 1 Indatha Triome
-1 Branchloft Pathway
 2 Brightclimb Pathway
 2 Tangled Florahedron
+2 Branchloft Pathway
 2 Scavenging Ooze
 2 Agonizing Remorse
 2 Eliminate
@@ -81,17 +82,16 @@
 2 Bloodchief's Thirst
 2 Mythos of Nethroi
 2 Indatha Triome
-2 Branchloft Pathway
 3 Brightclimb Pathway
-3 Indatha Triome
 3 Agonizing Remorse
 3 Eliminate
+3 Branchloft Pathway
 3 Bloodchief's Thirst
 3 Mythos of Nethroi
-3 Branchloft Pathway
+3 Indatha Triome
 4 Brightclimb Pathway
-4 Indatha Triome
 4 Branchloft Pathway
+4 Indatha Triome
 1 Bala Ged Recovery
 1 Crawling Barrens
 1 Cling to Dust
@@ -101,8 +101,8 @@
 1 Llanowar Visionary
 1 Flunk
 1 Heartless Act
-2 Bala Ged Recovery
 2 Llanowar Visionary
+2 Bala Ged Recovery
 2 Polukranos, Unchained
 2 Cling to Dust
 2 Heartless Act
@@ -113,8 +113,8 @@
 4 Swamp
 5 Forest
 5 Swamp
-6 Forest
 6 Swamp
+6 Forest
 7 Forest
 1 Hunt for Specimens
 1 Sculptor of Winter

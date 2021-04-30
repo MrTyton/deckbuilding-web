@@ -70,7 +70,6 @@
 1 Lightning Bolt
 1 Irencrag Feat
 1 Bala Ged Recovery
-1 Spikefield Hazard
 1 Recross the Paths
 1 Manamorphose
 1 Reforge the Soul
@@ -80,10 +79,11 @@
 1 Infernal Plunge
 1 Ornithopter
 1 Talisman of Impulse
+1 Spikefield Hazard
 2 Irencrag Feat
-2 Spikefield Hazard
 2 Pyretic Ritual
 2 Bala Ged Recovery
+2 Spikefield Hazard
 2 Manamorphose
 2 Recross the Paths
 2 Talisman of Impulse
@@ -91,17 +91,17 @@
 2 Desperate Ritual
 3 Valakut Awakening
 3 Irencrag Feat
-3 Spikefield Hazard
 3 Manamorphose
 3 Talisman of Impulse
 3 Recross the Paths
 3 Desperate Ritual
 3 Pyretic Ritual
 3 Bala Ged Recovery
+3 Spikefield Hazard
 4 Valakut Awakening
 4 Irencrag Feat
-4 Spikefield Hazard
 4 Manamorphose
+4 Spikefield Hazard
 4 Recross the Paths
 4 Talisman of Impulse
 4 Goblin Charbelcher
@@ -183,6 +183,7 @@
 2 Wooded Foothills
 3 Wooded Foothills
 4 Wooded Foothills
+1 Polymorph
 1 Transmogrify
 1 Fire Prophecy
 1 Repeal
@@ -190,7 +191,6 @@
 1 Steam Vents
 1 Arid Mesa
 1 Scalding Tarn
-1 Polymorph
 1 Izzet Charm
 1 Spell Snare
 1 Dwarven Mine
@@ -204,8 +204,9 @@
 1 Force of Negation
 2 Arid Mesa
 2 Mountain
-2 Dwarven Mine
+2 Polymorph
 2 Transmogrify
+2 Dwarven Mine
 2 Raugrin Triome
 2 Spell Snare
 2 Anger of the Gods
@@ -216,10 +217,9 @@
 2 Force of Negation
 2 Izzet Charm
 2 Lightning Bolt
-2 Polymorph
 3 Arid Mesa
-3 Transmogrify
 3 Dwarven Mine
+3 Transmogrify
 3 Teferi, Time Raveler
 3 Scalding Tarn
 3 Lightning Bolt

@@ -32,15 +32,15 @@
 3 Collected Company
 4 Collected Company
 4 Llanowar Elves
-1 Sunpetal Grove
 1 Fortified Village
+1 Sunpetal Grove
 1 Forest
 2 Forest
 3 Forest
 4 Elvish Mystic
 4 Forest
-1 Skyclave Apparition
 1 Selfless Spirit
+1 Skyclave Apparition
 2 Skyclave Apparition
 3 Skyclave Apparition
 1 Branchloft Pathway
@@ -66,18 +66,18 @@
 4 Fatal Push
 1 Swamp
 1 Renegade Rallier
-1 Overgrown Tomb
 1 Judith, the Scourge Diva
 1 Acquisitions Expert
 1 Llanowar Wastes
 1 Pyre of Heroes
 1 Hostage Taker
 1 Elite Guardmage
-1 Basri's Lieutenant
+1 Overgrown Tomb
 1 General Kudro of Drannith
 1 Archfiend's Vessel
 1 Kaervek, the Spiteful
 1 Drannith Magistrate
+1 Basri's Lieutenant
 1 Xathrid Necromancer
 2 Renegade Rallier
 2 Acquisitions Expert
@@ -101,19 +101,19 @@
 1 Scavenging Ooze
 2 Scavenging Ooze
 4 Lovestruck Beast
-1 Hinterland Harbor
 1 Bonecrusher Giant
 1 Breeding Pool
 1 Stomping Ground
-2 Hinterland Harbor
+1 Hinterland Harbor
 2 Breeding Pool
 2 Bonecrusher Giant
+2 Hinterland Harbor
 2 Stomping Ground
-3 Breeding Pool
 3 Bonecrusher Giant
+3 Breeding Pool
 3 Stomping Ground
-4 Breeding Pool
 4 Bonecrusher Giant
+4 Breeding Pool
 4 Stomping Ground
 1 Lightning Strike
 2 Lightning Strike
@@ -129,8 +129,8 @@
 1 Scavenger Grounds
 1 Cragcrown Pathway
 1 Reduce / Rubble
-2 Vivien, Arkbow Ranger
 2 Shivan Reef
+2 Vivien, Arkbow Ranger
 2 Klothys, God of Destiny
 2 Nimble Obstructionist
 2 Boon Satyr
@@ -160,38 +160,72 @@
 2 Hallowed Fountain
 2 Oketra's Monument
 3 Selfless Spirit
+3 Hengegate Pathway
 3 Hallowed Fountain
 3 Oketra's Monument
 3 Militia Bugler
 3 Botanical Sanctum
-3 Hengegate Pathway
-4 Hengegate Pathway
 4 Selfless Spirit
 4 Charming Prince
+4 Hengegate Pathway
 4 Skyclave Apparition
 4 Militia Bugler
 4 Oketra's Monument
 4 Reflector Mage
 4 Hallowed Fountain
-1 Castle Ardenvale
-1 Gideon, Ally of Zendikar
 1 Mountain
 1 Glorybringer
 2 Glorybringer
+1 Ketria Triome
+1 The Great Henge
+1 Nissa, Who Shakes the World
+1 Rootbound Crag
+1 Alrund's Epiphany
+1 Vorinclex, Monstrous Raider
+1 Steam Vents
+1 Island
+1 Hydroid Krasis
+1 Edgewall Innkeeper
+1 Brazen Borrower
+2 Brazen Borrower
+2 Nissa, Who Shakes the World
+2 Ketria Triome
+2 The Great Henge
+2 Hydroid Krasis
+2 Alrund's Epiphany
+2 Rootbound Crag
+2 Mountain
+2 Steam Vents
+2 Edgewall Innkeeper
+3 Nissa, Who Shakes the World
+3 Rootbound Crag
+3 Brazen Borrower
+3 Hydroid Krasis
+3 Alrund's Epiphany
+3 Ketria Triome
+3 Edgewall Innkeeper
+3 Steam Vents
+4 Ketria Triome
+4 Nissa, Who Shakes the World
+4 Brazen Borrower
+4 Rootbound Crag
+4 Edgewall Innkeeper
+4 Steam Vents
+1 Castle Ardenvale
+1 Gideon, Ally of Zendikar
 1 Sacred Foundry
 2 Sacred Foundry
 3 Sacred Foundry
 4 Sacred Foundry
 1 Isolated Chapel
-1 Savai Triome
 1 Blood Crypt
+1 Elspeth, Sun's Champion
 1 Sorin, Solemn Visitor
 1 Dragonskull Summit
-1 Elspeth, Sun's Champion
 1 Shambling Vent
 1 Valki, God of Lies
-1 Utter End
 1 Magmatic Channeler
+1 Savai Triome
 1 Dreadbore
 1 Crackling Doom
 1 Seraph of the Scales
@@ -199,10 +233,11 @@
 1 Castle Locthwain
 1 Needle Spires
 1 Heartless Act
+1 Utter End
 2 Blood Crypt
-2 Savai Triome
 2 Isolated Chapel
 2 Shambling Vent
+2 Savai Triome
 2 Magmatic Channeler
 2 Gideon, Ally of Zendikar
 2 Heartless Act
@@ -223,41 +258,6 @@
 4 Magmatic Channeler
 4 History of Benalia
 4 Crackling Doom
-1 Ketria Triome
-1 The Great Henge
-1 Nissa, Who Shakes the World
-1 Rootbound Crag
-1 Alrund's Epiphany
-1 Vorinclex, Monstrous Raider
-1 Steam Vents
-1 Island
-1 Hydroid Krasis
-1 Edgewall Innkeeper
-1 Brazen Borrower
-2 Nissa, Who Shakes the World
-2 The Great Henge
-2 Hydroid Krasis
-2 Alrund's Epiphany
-2 Rootbound Crag
-2 Mountain
-2 Steam Vents
-2 Brazen Borrower
-2 Edgewall Innkeeper
-2 Ketria Triome
-3 Nissa, Who Shakes the World
-3 Rootbound Crag
-3 Hydroid Krasis
-3 Alrund's Epiphany
-3 Ketria Triome
-3 Edgewall Innkeeper
-3 Steam Vents
-3 Brazen Borrower
-4 Ketria Triome
-4 Nissa, Who Shakes the World
-4 Rootbound Crag
-4 Edgewall Innkeeper
-4 Steam Vents
-4 Brazen Borrower
 1 Shefet Dunes
 1 Esika's Chariot
 1 Call of the Conclave
@@ -273,30 +273,30 @@
 2 Conclave Tribunal
 2 Esika's Chariot
 2 Call of the Conclave
+3 Starnheim Unleashed
 3 Call of the Conclave
 3 Esika's Chariot
 3 Wayfaring Temple
 3 Conclave Tribunal
 3 Battle for Bretagard
-3 Starnheim Unleashed
 4 Wayfaring Temple
 4 Conclave Tribunal
 4 Battle for Bretagard
 4 Call of the Conclave
 4 Esika's Chariot
 4 Starnheim Unleashed
-1 Knight of Autumn
 1 Rhonas the Indomitable
 1 Archangel Avacyn
+1 Knight of Autumn
 1 Dromoka's Command
 1 Steel Leaf Champion
 1 Temple of Plenty
-2 Sunpetal Grove
 2 Rhonas the Indomitable
-2 Dromoka's Command
 2 Knight of Autumn
+2 Dromoka's Command
 2 Steel Leaf Champion
 2 Temple of Plenty
+2 Sunpetal Grove
 3 Steel Leaf Champion
 3 Sunpetal Grove
 3 Knight of Autumn
@@ -309,22 +309,22 @@
 1 Mazemind Tome
 1 Shalai, Voice of Plenty
 1 Speaker of the Heavens
-1 Lyra Dawnbringer
 1 Vito, Thorn of the Dusk Rose
 1 Bishop of Wings
 1 Resplendent Angel
 1 Command the Dreadhorde
 1 Revival / Revenge
 1 Righteous Valkyrie
+1 Lyra Dawnbringer
 2 Sorin, Vengeful Bloodlord
 2 Mazemind Tome
 2 Speaker of the Heavens
-2 Lyra Dawnbringer
 2 Resplendent Angel
 2 Righteous Valkyrie
 2 Revival / Revenge
 2 Shalai, Voice of Plenty
 2 Vito, Thorn of the Dusk Rose
+2 Lyra Dawnbringer
 2 Bishop of Wings
 3 Mazemind Tome
 3 Speaker of the Heavens
@@ -349,37 +349,35 @@
 10 Plains
 11 Plains
 1 Dreadhorde Arcanist
-1 Monastery Swiftspear
-1 Soul-Scar Mage
 1 Gods Willing
 1 Inspiring Vantage
 1 Boros Charm
 1 Battlefield Forge
-1 Reckless Rage
 1 Needleverge Pathway
+1 Reckless Rage
 1 Titan's Strength
+1 Soul-Scar Mage
 1 Favored Hoplite
 1 Tenth District Legionnaire
 1 Defiant Strike
 1 Gird for Battle
+1 Monastery Swiftspear
 2 Tenth District Legionnaire
 2 Dreadhorde Arcanist
-2 Monastery Swiftspear
-2 Soul-Scar Mage
 2 Needleverge Pathway
 2 Inspiring Vantage
 2 Battlefield Forge
 2 Boros Charm
 2 Reckless Rage
 2 Gird for Battle
+2 Monastery Swiftspear
 2 Gods Willing
+2 Soul-Scar Mage
 2 Titan's Strength
 2 Favored Hoplite
 2 Defiant Strike
 3 Tenth District Legionnaire
 3 Dreadhorde Arcanist
-3 Soul-Scar Mage
-3 Monastery Swiftspear
 3 Battlefield Forge
 3 Boros Charm
 3 Inspiring Vantage
@@ -387,18 +385,20 @@
 3 Reckless Rage
 3 Favored Hoplite
 3 Defiant Strike
+3 Monastery Swiftspear
+3 Soul-Scar Mage
 3 Gods Willing
 3 Gird for Battle
 4 Tenth District Legionnaire
 4 Needleverge Pathway
-4 Soul-Scar Mage
 4 Inspiring Vantage
-4 Monastery Swiftspear
 4 Battlefield Forge
 4 Boros Charm
+4 Soul-Scar Mage
 4 Reckless Rage
 4 Defiant Strike
 4 Gods Willing
+4 Monastery Swiftspear
 4 Dreadhorde Arcanist
 4 Gird for Battle
 4 Favored Hoplite

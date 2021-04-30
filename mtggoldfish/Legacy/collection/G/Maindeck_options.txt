@@ -1,15 +1,29 @@
+1 Craterhoof Behemoth
+1 Collector Ouphe
+1 Gaea's Cradle
+1 Green Sun's Zenith
+1 Natural Order
+1 Nettle Sentinel
+1 Allosaurus Shepherd
+1 Dryad Arbor
+1 Glimpse of Nature
+1 Elvish Visionary
+1 Birchlore Rangers
 2 Elvish Reclaimer
 2 Wooded Foothills
 2 Misty Rainforest
 2 Gaea's Cradle
 2 Elvish Visionary
 2 Green Sun's Zenith
+2 Forest
 2 Verdant Catacombs
 2 Natural Order
 2 Glimpse of Nature
 2 Dryad Arbor
+2 Bayou
 2 Wirewood Symbiote
 2 Heritage Druid
+2 Nettle Sentinel
 2 Allosaurus Shepherd
 3 Elvish Reclaimer
 3 Allosaurus Shepherd
@@ -20,51 +34,37 @@
 3 Wirewood Symbiote
 3 Elvish Visionary
 3 Natural Order
+3 Nettle Sentinel
 4 Elvish Reclaimer
 4 Elvish Visionary
 4 Heritage Druid
 4 Gaea's Cradle
 4 Wirewood Symbiote
 4 Green Sun's Zenith
-4 Allosaurus Shepherd
-1 City of Traitors
-2 City of Traitors
-3 Once Upon a Time
-1 Elvish Spirit Guide
-2 Elvish Spirit Guide
-1 Walking Ballista
-2 Walking Ballista
-1 Bayou
-2 Bayou
-1 Forest
-1 Savannah
-1 Collector Ouphe
-1 Nettle Sentinel
-2 Forest
-2 Nettle Sentinel
-3 Nettle Sentinel
 4 Nettle Sentinel
-4 Glimpse of Nature
+4 Allosaurus Shepherd
 1 Dismember
 2 Dismember
 4 Wasteland
 1 Endbringer
 1 Karakas
 4 Natural Order
-1 Windswept Heath
-2 Windswept Heath
 3 Elvish Spirit Guide
+3 Once Upon a Time
 1 Mishra's Factory
 2 Endbringer
-1 Scavenging Ooze
+4 Glimpse of Nature
 3 City of Traitors
 1 Wastes
 2 Mishra's Factory
+1 Scavenging Ooze
+1 Windswept Heath
+2 Windswept Heath
 3 Forest
 3 Misty Rainforest
 1 Umezawa's Jitte
-1 Simian Spirit Guide
 1 Urborg, Tomb of Yawgmoth
+1 Simian Spirit Guide
 2 Simian Spirit Guide
 3 Simian Spirit Guide
 2 Karakas
@@ -76,16 +76,7 @@
 4 Once Upon a Time
 3 Endbringer
 4 Endbringer
-1 Snow-Covered Forest
-1 Bojuka Bog
-1 Crop Rotation
-2 Crop Rotation
-2 Snow-Covered Forest
-3 Verdant Catacombs
 4 Eye of Ugin
-1 Taiga
-1 Klothys, God of Destiny
-2 Taiga
 2 Wastes
 1 Llanowar Wastes
 1 Lotus Petal
@@ -94,10 +85,10 @@
 3 Llanowar Wastes
 3 Lotus Petal
 4 Lotus Petal
-1 Ulamog, the Ceaseless Hunger
 1 Eldrazi Displacer
 1 Shefet Dunes
 1 Swords to Plowshares
+1 Ulamog, the Ceaseless Hunger
 1 Plains
 1 Karn, the Great Creator
 2 Plains

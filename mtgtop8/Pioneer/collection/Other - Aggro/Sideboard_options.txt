@@ -18,8 +18,8 @@
 1 Izzet Staticaster
 1 Sin Collector
 1 Xathrid Necromancer
-1 Drannith Magistrate
 1 Anafenza, the Foremost
+1 Drannith Magistrate
 1 Kambal, Consul of Allocation
 1 Masked Vandal
 1 Lavinia, Azorius Renegade
@@ -53,6 +53,21 @@
 2 Shadows' Verdict
 2 Slaughter Games
 2 Arguel's Blood Fast
+1 Mystical Dispute
+2 Mystical Dispute
+1 Scorching Dragonfire
+1 Redcap Melee
+1 Carnage Tyrant
+1 Aethersphere Harvester
+1 Aether Gust
+1 Disdainful Stroke
+2 Carnage Tyrant
+2 Disdainful Stroke
+2 Scorching Dragonfire
+2 Redcap Melee
+2 Aethersphere Harvester
+2 Aether Gust
+3 Mystical Dispute
 1 Stubborn Denial
 1 Reckless Rage
 1 Cindervines
@@ -70,40 +85,25 @@
 2 Noxious Grasp
 2 Selfless Spirit
 3 Isolate
-1 Mystical Dispute
-2 Mystical Dispute
-1 Scorching Dragonfire
-1 Redcap Melee
-1 Carnage Tyrant
-1 Aethersphere Harvester
-1 Aether Gust
-1 Disdainful Stroke
-2 Carnage Tyrant
-2 Scorching Dragonfire
-2 Redcap Melee
-2 Aethersphere Harvester
-2 Disdainful Stroke
-2 Aether Gust
-3 Mystical Dispute
 2 Fatal Push
 3 Fatal Push
 4 Fatal Push
-1 Wild Slash
-1 Light of Hope
-1 Deafening Clarion
-2 Deafening Clarion
-2 Wild Slash
-2 Light of Hope
-3 Deafening Clarion
-3 Wild Slash
-3 Light of Hope
-4 Deafening Clarion
-4 Light of Hope
-4 Wild Slash
 2 Dire Tactics
 3 Rest in Peace
 4 Duress
 4 Fourth Bridge Prowler
+1 Deafening Clarion
+1 Light of Hope
+1 Wild Slash
+2 Deafening Clarion
+2 Light of Hope
+2 Wild Slash
+3 Deafening Clarion
+3 Light of Hope
+3 Wild Slash
+4 Wild Slash
+4 Light of Hope
+4 Deafening Clarion
 1 Archon of Emeria
 1 Phyrexian Revoker
 1 Spell Queller
@@ -115,12 +115,12 @@
 3 Spell Queller
 4 Spell Queller
 1 Settle the Wreckage
+1 Seal Away
 1 Archangel Avacyn
 1 Command the Dreadhorde
-1 Seal Away
 1 Kaya's Wrath
-2 Settle the Wreckage
 2 Seal Away
+2 Settle the Wreckage
 2 Despark
 2 Kaya's Wrath
 2 Archangel Avacyn

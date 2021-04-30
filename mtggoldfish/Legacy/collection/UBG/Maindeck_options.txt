@@ -1,111 +1,111 @@
-1 Tropical Island
 2 Stifle
-1 Uro, Titan of Nature's Wrath
-3 Misty Rainforest
-2 Uro, Titan of Nature's Wrath
+1 Tropical Island
 1 Scalding Tarn
-1 Bayou
+1 Uro, Titan of Nature's Wrath
+2 Uro, Titan of Nature's Wrath
+3 Misty Rainforest
+3 Stifle
 2 Tropical Island
 1 Abrupt Decay
-3 Stifle
+1 Bayou
 2 Abrupt Decay
-1 Drown in the Loch
+1 Bloodstained Mire
 1 Snow-Covered Island
+1 Drown in the Loch
 3 Uro, Titan of Nature's Wrath
 1 Baleful Strix
-1 Bloodstained Mire
 4 Misty Rainforest
 2 Baleful Strix
 3 Baleful Strix
-1 Jace, the Mind Sculptor
 1 Leovold, Emissary of Trest
+1 Jace, the Mind Sculptor
 1 Snow-Covered Forest
 1 Snow-Covered Swamp
-1 Sylvan Library
 4 Baleful Strix
+1 Sylvan Library
 1 Assassin's Trophy
 2 Snow-Covered Island
 1 Brazen Borrower
 4 Stifle
+2 Leovold, Emissary of Trest
+3 Verdant Catacombs
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
-3 Verdant Catacombs
-1 Plague Engineer
-2 Leovold, Emissary of Trest
-3 Underground Sea
 3 Abrupt Decay
 1 Scavenging Ooze
-2 Assassin's Trophy
-3 Ice-Fang Coatl
+1 Plague Engineer
+3 Underground Sea
 2 Snow-Covered Forest
+2 Assassin's Trophy
+2 Sylvan Library
+3 Ice-Fang Coatl
+1 Reanimate
 1 Island
 1 Court of Cunning
 2 Court of Cunning
-2 Sylvan Library
-1 Reanimate
+2 Scalding Tarn
 3 Assassin's Trophy
 1 Life from the Loam
-1 Swamp
-2 Scalding Tarn
-3 Snow-Covered Island
-1 Mystic Sanctuary
-3 Fatal Push
 1 Hymn to Tourach
 1 Karakas
+1 Swamp
 2 Bloodstained Mire
 3 Tropical Island
 1 Ethereal Forager
 2 Hymn to Tourach
-3 Court of Cunning
+3 Snow-Covered Island
+1 Mystic Sanctuary
+3 Fatal Push
 1 Snapcaster Mage
 2 Snapcaster Mage
 2 Brazen Borrower
 3 Flooded Strand
-1 Noble Hierarch
-2 Noble Hierarch
+3 Court of Cunning
 2 Ethereal Forager
 2 Reanimate
+1 Noble Hierarch
+2 Noble Hierarch
 2 Plague Engineer
 1 Liliana, the Last Hope
-2 Snow-Covered Swamp
 3 Hymn to Tourach
 4 Ice-Fang Coatl
-2 Drown in the Loch
 1 Marsh Flats
 3 Ethereal Forager
 1 Dismember
 1 Tarmogoyf
-1 Forest
 1 Preordain
+2 Snow-Covered Swamp
+2 Drown in the Loch
 1 Dryad Arbor
 1 Green Sun's Zenith
 2 Green Sun's Zenith
 3 Green Sun's Zenith
 4 Green Sun's Zenith
 2 Tarmogoyf
+1 Forest
 2 Marsh Flats
 1 Cling to Dust
 1 Hullbreacher
 1 Narset, Parter of Veils
-1 Volcanic Island
 3 Gurmag Angler
 4 Flooded Strand
 4 Assassin's Trophy
 1 Badlands
+1 Volcanic Island
 2 Volcanic Island
-2 Bayou
 3 Noble Hierarch
 3 Tarmogoyf
 4 Tarmogoyf
 1 Elvish Reclaimer
 2 Hullbreacher
-1 Birds of Paradise
 1 Bojuka Bog
 2 Island
 2 Jace, the Mind Sculptor
 1 Kolaghan's Command
 2 Dismember
+2 Bayou
 4 Watery Grave
+1 Birds of Paradise
 1 Tireless Tracker
 1 Questing Beast
 2 Elvish Reclaimer
@@ -113,7 +113,6 @@
 4 Elvish Reclaimer
 4 Tropical Island
 1 Waterlogged Grove
-4 Verdant Catacombs
 3 Snapcaster Mage
 1 Liliana's Triumph
 3 Scalding Tarn
@@ -123,6 +122,7 @@
 1 Thespian's Stage
 1 Dark Depths
 1 Nissa of Shadowed Boughs
+4 Verdant Catacombs
 4 Uro, Titan of Nature's Wrath
 3 Bloodstained Mire
 4 Bloodstained Mire
@@ -133,17 +133,17 @@
 1 Flusterstorm
 2 Narset, Parter of Veils
 2 Life from the Loam
-1 Inquisition of Kozilek
 1 Dead of Winter
 2 Scavenging Ooze
 1 Tyrant's Scorn
-1 Grove of the Burnwillows
 1 Punishing Fire
+1 Grove of the Burnwillows
 1 Dack Fayden
+2 Grove of the Burnwillows
 2 Punishing Fire
 2 Dack Fayden
-2 Grove of the Burnwillows
 3 Grove of the Burnwillows
+1 Inquisition of Kozilek
 1 Breeding Pool
 1 Jolrael, Mwonvuli Recluse
 2 Jolrael, Mwonvuli Recluse
@@ -152,20 +152,11 @@
 2 Badlands
 3 Lightning Bolt
 3 Life from the Loam
-2 Birds of Paradise
-1 True-Name Nemesis
-2 True-Name Nemesis
-2 Inquisition of Kozilek
-1 Thought Scour
-2 Thought Scour
-1 Cabal Therapy
-2 Cabal Therapy
-3 Cabal Therapy
-4 Cabal Therapy
 1 Hooting Mandrills
 1 Prismatic Vista
 1 Far/Away
 1 Angrath's Rampage
+2 Inquisition of Kozilek
 1 Stubborn Denial
 2 Stubborn Denial
 1 Tasigur, the Golden Fang
@@ -176,18 +167,19 @@
 1 Sylvan Safekeeper
 1 Day's Undoing
 2 Day's Undoing
-1 Liliana of the Veil
+2 Birds of Paradise
 1 Heartless Act
+1 Liliana of the Veil
 1 Raven's Crime
 2 Raven's Crime
 1 Kroxa, Titan of Death's Hunger
 1 Painful Truths
 1 Mountain
 2 Kroxa, Titan of Death's Hunger
-3 Marsh Flats
-3 Dack Fayden
 2 Toxic Deluge
 3 Punishing Fire
+3 Marsh Flats
+3 Dack Fayden
 2 Hexdrinker
 3 Sylvan Library
 1 Meren of Clan Nel Toth
@@ -197,28 +189,19 @@
 4 Hymn to Tourach
 1 Exploration
 1 Zagoth Triome
+1 Thought Scour
 1 Lonely Sandbar
-1 Field of the Dead
 1 Tranquil Thicket
+1 Field of the Dead
 2 Field of the Dead
 2 Exploration
+2 Thought Scour
 3 Exploration
 4 Exploration
+1 True-Name Nemesis
+2 True-Name Nemesis
 3 True-Name Nemesis
 4 Noble Hierarch
-1 Unearth
-1 Neoform
-1 Heliod, Sun-Crowned
-1 Sea Gate Stormcaller
-1 Opposition Agent
-1 Spike Feeder
-2 Unearth
-2 Neoform
-2 Sea Gate Stormcaller
-3 Birds of Paradise
-3 Neoform
-3 Sea Gate Stormcaller
-4 Sea Gate Stormcaller
 1 Snow-Covered Mountain
 1 Feed the Swarm
 2 Liliana, the Last Hope
@@ -226,33 +209,6 @@
 2 Cling to Dust
 3 Cling to Dust
 4 Cling to Dust
-1 Careful Study
-1 Land Grant
-1 Entomb
-1 Arclight Phoenix
-1 Manamorphose
-1 Thing in the Ice
-1 Bloodghast
-2 Careful Study
-2 Entomb
-2 Land Grant
-2 Arclight Phoenix
-2 Manamorphose
-2 Thing in the Ice
-2 Bloodghast
-3 Careful Study
-3 Land Grant
-3 Entomb
-3 Thought Scour
-3 Arclight Phoenix
-3 Manamorphose
-3 Thing in the Ice
-4 Careful Study
-4 Entomb
-4 Land Grant
-4 Arclight Phoenix
-4 Thought Scour
-4 Manamorphose
 1 Witherbloom Apprentice
 1 Chain of Smog
 2 Chain of Smog

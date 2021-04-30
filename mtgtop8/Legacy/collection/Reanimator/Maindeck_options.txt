@@ -25,8 +25,8 @@
 3 Verdant Catacombs
 1 Duress
 2 Duress
-1 Putrid Imp
 1 Tendrils of Agony
+1 Putrid Imp
 2 Putrid Imp
 3 Putrid Imp
 3 Cabal Therapy
@@ -118,6 +118,12 @@
 2 Assassin's Trophy
 2 Dack Fayden
 2 Snow-Covered Forest
+1 Hymn to Tourach
+1 Lake of the Dead
+2 Hymn to Tourach
+2 Lake of the Dead
+3 Duress
+4 Cabal Therapy
 1 Watery Grave
 1 Blood Crypt
 1 Daze
@@ -145,6 +151,8 @@
 4 Burning Wish
 4 Shallow Grave
 4 Lion's Eye Diamond
+13 Swamp
+14 Swamp
 1 Ghost Quarter
 1 Vampire Hexmage
 1 Expedition Map
@@ -163,11 +171,3 @@
 4 Dark Depths
 4 Urborg, Tomb of Yawgmoth
 4 Vampire Hexmage
-13 Swamp
-14 Swamp
-1 Hymn to Tourach
-1 Lake of the Dead
-2 Hymn to Tourach
-2 Lake of the Dead
-3 Duress
-4 Cabal Therapy

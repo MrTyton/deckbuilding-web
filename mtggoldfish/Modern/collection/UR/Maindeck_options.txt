@@ -2,8 +2,8 @@
 1 Scalding Tarn
 1 Snapcaster Mage
 2 Snapcaster Mage
-1 Remand
 1 Island
+1 Remand
 2 Remand
 3 Remand
 1 Cryptic Command
@@ -30,19 +30,19 @@
 3 Cascade Bluffs
 4 Cascade Bluffs
 4 Archmage's Charm
-1 Spirebluff Canal
 1 Riverglide Pathway
+1 Spirebluff Canal
 2 Valakut Awakening
 2 Spirebluff Canal
 2 Riverglide Pathway
 3 Riverglide Pathway
 4 Riverglide Pathway
+4 Light Up the Stage
 5 Island
 4 Remand
 2 Mana Leak
 1 Flame Slash
 2 Spell Snare
-4 Light Up the Stage
 1 Reflecting Pool
 2 Steam Vents
 1 Abrade
@@ -58,8 +58,8 @@
 1 Deceiver Exarch
 2 Deceiver Exarch
 3 Scalding Tarn
-1 Emrakul, the Aeons Torn
 1 Through the Breach
+1 Emrakul, the Aeons Torn
 2 Emrakul, the Aeons Torn
 2 Through the Breach
 1 Crackling Drake
@@ -74,16 +74,15 @@
 4 Emrakul, the Aeons Torn
 4 Through the Breach
 3 Steam Vents
+2 Arid Mesa
 1 Flooded Strand
 2 Flooded Strand
 3 Boros Charm
 1 Prismari Command
 3 Flooded Strand
 4 Flooded Strand
-4 Mountain
 7 Island
 2 Force of Negation
-2 Arid Mesa
 1 Temple of Epiphany
 2 Temple of Epiphany
 3 Reflecting Pool
@@ -93,30 +92,37 @@
 4 Temple of Epiphany
 4 Valakut Awakening
 1 Sulfur Falls
+4 Mountain
 3 Wooded Foothills
 1 Raugrin Triome
 1 Jace, the Mind Sculptor
-1 Gut Shot
 3 Force of Negation
-3 Abbot of Keral Keep
-1 Kiln Fiend
-2 Kiln Fiend
-2 Gut Shot
+1 Leonin Lightscribe
+2 Leonin Lightscribe
 1 Lava Spike
 2 Lava Spike
+1 Gut Shot
+3 Abbot of Keral Keep
+3 Lava Spike
+4 Lava Spike
 1 Myth Realized
 2 Myth Realized
 3 Myth Realized
-1 Leonin Lightscribe
-2 Leonin Lightscribe
+1 Kiln Fiend
+2 Kiln Fiend
 1 Hallowed Fountain
+2 Gut Shot
 1 Teferi, Time Raveler
 1 Plains
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
+3 Arid Mesa
 1 Blood Moon
 2 Blood Moon
 8 Island
+4 Wooded Foothills
+1 Seal of Fire
+2 Seal of Fire
 1 Wall of Omens
 1 Restoration Angel
 2 Wall of Omens
@@ -129,32 +135,18 @@
 4 Teferi, Time Raveler
 2 Sulfur Falls
 1 Castle Vantress
-4 Wooded Foothills
-1 Seal of Fire
-2 Seal of Fire
 3 Mana Leak
 2 Prismari Command
-3 Lava Spike
-4 Lava Spike
+1 Snow-Covered Mountain
 3 Kiln Fiend
 4 Abbot of Keral Keep
 2 Crackling Drake
 1 Lightning Helix
 1 Celestial Colonnade
-3 Arid Mesa
 3 Bloodstained Mire
 1 Magmatic Sinkhole
 1 Fiery Islet
 2 Fiery Islet
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-1 Snow-Covered Mountain
 1 Wild Slash
 1 Path to Exile
 2 Path to Exile
@@ -180,6 +172,8 @@
 4 Scourge of the Skyclaves
 4 Blood Crypt
 4 Kiln Fiend
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
 2 Castle Vantress
 2 Jace, the Mind Sculptor
 9 Island
@@ -199,12 +193,16 @@
 2 Bedlam Reveler
 3 Fiery Islet
 3 Bedlam Reveler
-13 Mountain
-14 Mountain
-1 Ground Rift
-2 Ground Rift
-1 Tarmogoyf
+5 Mountain
+6 Mountain
+7 Mountain
+8 Mountain
+9 Mountain
+10 Mountain
+11 Mountain
+12 Mountain
 1 Stomping Ground
+1 Tarmogoyf
 2 Stomping Ground
 2 Tarmogoyf
 3 Tarmogoyf
@@ -221,8 +219,6 @@
 1 Ketria Triome
 1 Breeding Pool
 1 Claim the Firstborn
-1 Emerge Unscathed
-2 Emerge Unscathed
 1 Narset, Parter of Veils
 1 Nahiri, the Harbinger
 1 Spell Pierce
@@ -232,10 +228,12 @@
 1 Venser, Shaper Savant
 2 Hallowed Fountain
 2 Venser, Shaper Savant
+1 Emerge Unscathed
+1 Ground Rift
+2 Emerge Unscathed
+2 Ground Rift
 2 Behold the Multiverse
 2 Magmatic Sinkhole
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
 1 Blistercoil Weird
@@ -253,22 +251,24 @@
 1 Copperline Gorge
 2 Hooting Mandrills
 2 Copperline Gorge
-3 Copperline Gorge
 3 Hooting Mandrills
 3 Seal of Fire
+3 Copperline Gorge
 4 Copperline Gorge
 4 Seal of Fire
-4 Fiery Islet
+3 Leonin Lightscribe
+4 Arid Mesa
+4 Leonin Lightscribe
 1 Shark Typhoon
 1 Grim Lavamancer
 1 Pestermite
 1 Izzet Charm
 2 Izzet Charm
-2 Misty Rainforest
 2 Shark Typhoon
+2 Misty Rainforest
 2 Vendilion Clique
-3 Misty Rainforest
 3 Shark Typhoon
+3 Misty Rainforest
 4 Misty Rainforest
 4 Sulfur Falls
 1 Logic Knot
@@ -279,21 +279,16 @@
 1 Magma Opus
 1 Torrential Gearhulk
 1 Volatile Fjord
-2 Magma Opus
 2 Snow-Covered Island
+2 Magma Opus
 2 Torrential Gearhulk
-3 Prismari Command
 3 Snow-Covered Island
+3 Prismari Command
 3 Torrential Gearhulk
 3 Magma Opus
 4 Snow-Covered Island
 5 Snow-Covered Island
 6 Snow-Covered Island
-1 Nivmagus Elemental
-2 Nivmagus Elemental
-3 Nivmagus Elemental
-3 Ground Rift
-4 Nivmagus Elemental
-4 Ground Rift
-15 Mountain
-16 Mountain
+4 Fiery Islet
+13 Mountain
+14 Mountain

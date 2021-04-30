@@ -1,4 +1,4 @@
-2 Narset, Parter of Veils
+2 Snapcaster Mage
 1 Hullbreacher
 2 Hullbreacher
 3 Force of Negation
@@ -6,6 +6,8 @@
 2 Island
 3 Volcanic Island
 3 Ice-Fang Coatl
+1 Taiga
+1 Wooded Foothills
 3 Dack Fayden
 1 Life from the Loam
 1 Engineered Explosives
@@ -15,27 +17,31 @@
 2 Scavenging Ooze
 1 Magmatic Sinkhole
 1 Spell Pierce
-1 Taiga
 1 Dismember
-1 Wooded Foothills
+1 Tarmogoyf
 1 Mystic Sanctuary
 1 Young Pyromancer
 2 Young Pyromancer
+2 Wooded Foothills
 1 Stifle
 1 Bonecrusher Giant
 2 Stifle
-2 Bonecrusher Giant
 2 Dismember
+2 Bonecrusher Giant
 3 Stifle
 1 Spell Snare
 4 Grove of the Burnwillows
-2 Spell Pierce
+2 Tarmogoyf
 1 Fire/Ice
 4 Ice-Fang Coatl
 1 Shark Typhoon
-1 Tarmogoyf
+2 Spell Pierce
 3 Young Pyromancer
-2 Wooded Foothills
+2 Jace, the Mind Sculptor
+1 Jolrael, Mwonvuli Recluse
+2 Jolrael, Mwonvuli Recluse
+3 Wooded Foothills
+4 Wooded Foothills
 1 Flooded Strand
 1 Klothys, God of Destiny
 1 Academy Ruins
@@ -43,17 +49,26 @@
 3 Engineered Explosives
 2 Spell Snare
 4 Young Pyromancer
-2 Tarmogoyf
-3 Prismatic Vista
-4 Prismatic Vista
+1 Birds of Paradise
+1 Of One Mind
+1 Green Sun's Zenith
+1 Daze
+1 Dryad Arbor
+1 Noble Hierarch
+2 Of One Mind
+2 Green Sun's Zenith
+2 Daze
+3 Tropical Island
+3 Of One Mind
+3 Green Sun's Zenith
 1 Polluted Delta
 1 Counterspell
 1 Blood Moon
 1 Forked Bolt
 1 Squee, Goblin Nabob
 2 Polluted Delta
-2 Magmatic Sinkhole
 2 Counterspell
+2 Magmatic Sinkhole
 2 Blood Moon
 2 Mountain
 2 Flooded Strand
@@ -63,29 +78,14 @@
 3 Polluted Delta
 4 Island
 4 Polluted Delta
-1 Birds of Paradise
-1 Of One Mind
-1 Green Sun's Zenith
-1 Jolrael, Mwonvuli Recluse
-1 Daze
-1 Dryad Arbor
-1 Noble Hierarch
-2 Of One Mind
-2 Jolrael, Mwonvuli Recluse
-2 Green Sun's Zenith
-2 Daze
-3 Tropical Island
-3 Of One Mind
-3 Wooded Foothills
-3 Green Sun's Zenith
-4 Wooded Foothills
+3 Prismatic Vista
+4 Prismatic Vista
 1 Field of the Dead
 1 Breeding Pool
 1 Rimewood Falls
 1 Volatile Fjord
 1 Growth Spiral
 1 Steam Vents
-2 Jace, the Mind Sculptor
 2 Mystic Sanctuary
 2 Field of the Dead
 2 Growth Spiral
@@ -93,3 +93,14 @@
 3 Growth Spiral
 4 Growth Spiral
 4 Force of Negation
+1 Preordain
+1 Pyroblast
+2 Preordain
+2 Pyroblast
+3 Tarmogoyf
+3 Preordain
+3 Narset, Parter of Veils
+4 Uro, Titan of Nature's Wrath
+4 Tarmogoyf
+4 Preordain
+4 Narset, Parter of Veils

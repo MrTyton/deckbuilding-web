@@ -1,10 +1,10 @@
-4 Bonecrusher Giant
-8 Plains
-1 Haktos the Unscarred
-3 Elite Spellbinder
-2 Furycalm Snarl
-1 Alseid of Life's Bounty
-2 Alseid of Life's Bounty
+3 Branchloft Pathway
+3 Cragcrown Pathway
+4 Branchloft Pathway
+4 Cragcrown Pathway
+1 Seasoned Hallowblade
+2 Seasoned Hallowblade
+3 Fabled Passage
 1 Temple of Triumph
 2 Temple of Triumph
 4 Professor of Symbology
@@ -19,15 +19,10 @@
 4 Luminarch Aspirant
 5 Mountain
 9 Plains
+3 Usher of the Fallen
 1 Giant Killer
 2 Giant Killer
-1 Jaspera Sentinel
-2 Jaspera Sentinel
-3 Jaspera Sentinel
-4 Jaspera Sentinel
-3 Usher of the Fallen
 3 Seasoned Hallowblade
-4 Elite Spellbinder
 2 Shatterskull Smashing
 3 Reidane, God of the Worthy
 3 Giant Killer
@@ -48,13 +43,17 @@
 3 Drannith Magistrate
 3 Hengegate Pathway
 4 Archon of Emeria
+4 Elite Spellbinder
+3 Alseid of Life's Bounty
 1 Clarion Spirit
 2 Clarion Spirit
 3 Clarion Spirit
-3 Alseid of Life's Bounty
 4 Fabled Passage
+1 Jaspera Sentinel
+2 Jaspera Sentinel
+3 Jaspera Sentinel
+4 Jaspera Sentinel
 3 Furycalm Snarl
-1 Embercleave
 3 Kenrith, the Returned King
 2 Haktos the Unscarred
 6 Mountain
@@ -62,10 +61,6 @@
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
-3 Forest
-4 Forest
-1 Lotus Cobra
-2 Lotus Cobra
 4 Clarion Spirit
 1 Elder Gargaroth
 1 Faceless Haven
@@ -81,7 +76,7 @@
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
-1 Maul of the Skyclaves
+4 Usher of the Fallen
 1 Toski, Bearer of Secrets
 1 Edgewall Innkeeper
 2 Toski, Bearer of Secrets
@@ -90,25 +85,17 @@
 3 Edgewall Innkeeper
 4 Edgewall Innkeeper
 4 Lovestruck Beast
-1 Gilded Goose
-2 Gilded Goose
-5 Forest
 1 Faerie Guidemother
 2 Faerie Guidemother
 3 Faerie Guidemother
 4 Faerie Guidemother
-4 Usher of the Fallen
+3 Forest
+4 Forest
+5 Forest
+1 Gilded Goose
+2 Gilded Goose
 10 Plains
-3 Lotus Cobra
-4 Lotus Cobra
-1 Tajuru Paragon
-1 Archpriest of Iona
-2 Archpriest of Iona
-2 Tajuru Paragon
-3 Tajuru Paragon
-3 Archpriest of Iona
-4 Archpriest of Iona
-4 Tajuru Paragon
+1 Embercleave
 4 Furycalm Snarl
 4 Alseid of Life's Bounty
 1 Skyclave Cleric
@@ -118,12 +105,14 @@
 3 Skyclave Cleric
 3 Venerable Warsinger
 4 Skyclave Cleric
-2 Embercleave
+1 Lotus Cobra
+2 Lotus Cobra
+4 Seasoned Hallowblade
 1 Fireblade Charger
+1 Maul of the Skyclaves
 2 Fireblade Charger
 2 Maul of the Skyclaves
 3 Fireblade Charger
-4 Seasoned Hallowblade
 1 Ox of Agonas
 1 Castle Embereth
 1 Reverent Hoplite
@@ -132,19 +121,9 @@
 1 Syr Konrad, the Grim
 2 Castle Embereth
 2 Crawling Barrens
-1 Darkbore Pathway
-1 Tazri, Beacon of Unity
-2 Darkbore Pathway
 3 Snow-Covered Mountain
-1 Radha, Heart of Keld
-1 Wildwood Tracker
-1 Bronzehide Lion
-2 Wildwood Tracker
-2 Radha, Heart of Keld
-3 Wildwood Tracker
-3 Radha, Heart of Keld
-1 Pilgrim of the Ages
 1 Savai Triome
+1 Pilgrim of the Ages
 2 Pilgrim of the Ages
 2 Savai Triome
 3 Haktos the Unscarred
@@ -161,20 +140,34 @@
 4 Make Your Mark
 4 Basri's Lieutenant
 4 Guiding Voice
+1 Veteran Adventurer
+4 Toski, Bearer of Secrets
 1 Magda, Brazen Outlaw
 2 Magda, Brazen Outlaw
 3 Magda, Brazen Outlaw
+3 Lotus Cobra
 3 Gilded Goose
+4 Lotus Cobra
 4 Reidane, God of the Worthy
 4 Gilded Goose
-1 Veteran Adventurer
-4 Toski, Bearer of Secrets
+1 Darkbore Pathway
+1 Tajuru Paragon
+1 Tazri, Beacon of Unity
+1 Archpriest of Iona
+2 Archpriest of Iona
+2 Tajuru Paragon
+2 Darkbore Pathway
+3 Tajuru Paragon
+3 Archpriest of Iona
+4 Archpriest of Iona
+4 Tajuru Paragon
 1 Alpine Watchdog
 1 Igneous Cur
 1 Pack Leader
 1 Showdown of the Skalds
 1 Alpine Houndmaster
 1 Bolt Hound
+2 Embercleave
 2 Igneous Cur
 2 Alpine Houndmaster
 2 Alpine Watchdog
@@ -193,8 +186,8 @@
 1 Akiri, Fearless Voyager
 1 Kor Blademaster
 1 Shadowspear
-1 Sejiri Shelter
 1 Kabira Takedown
+1 Sejiri Shelter
 1 Spikefield Hazard
 1 Wind-Scarred Crag
 1 Kargan Warleader
