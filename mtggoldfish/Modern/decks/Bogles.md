@@ -83,8 +83,8 @@
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)         |                    1|[Heroic Intervention](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423776)|
 |                    4|[Staggering Insight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476479)     |                    1|[Sundering Vitae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397792)    |
 |                    4|[Curious Obsession](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439692)      |                    2|[Sundering Vitae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397792)    |
-|                    3|[All That Glitters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472964)      |                    3|[Sundering Vitae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397792)    |
-|                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                 |                    4|[Sundering Vitae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397792)    |
+|                    3|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                 |                    3|[Sundering Vitae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397792)    |
+|                    3|[All That Glitters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472964)      |                    4|[Sundering Vitae](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397792)    |
 |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)          |                     |                                                                                              |
 |                    4|[All That Glitters](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472964)      |                     |                                                                                              |
 

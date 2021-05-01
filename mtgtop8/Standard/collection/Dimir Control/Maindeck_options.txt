@@ -89,28 +89,28 @@
 2 Negate
 2 Midnight Clock
 3 Professor Onyx
-3 Baleful Mastery
 3 Midnight Clock
+3 Baleful Mastery
 7 Island
-3 Crawling Barrens
-3 Mystical Dispute
-4 Ugin, the Spirit Dragon
-4 Crawling Barrens
 1 Thassa's Intervention
 1 Pharika's Libation
 1 Eat to Extinction
 1 Opt
-2 Eat to Extinction
-2 Pharika's Libation
 2 Thassa's Intervention
+2 Pharika's Libation
+2 Eat to Extinction
 2 Opt
+3 Thassa's Intervention
 3 Cling to Dust
 3 Opt
-3 Thassa's Intervention
 4 Opt
+4 Field of Ruin
 4 Cling to Dust
 4 Thassa's Intervention
-4 Field of Ruin
+3 Crawling Barrens
+3 Mystical Dispute
+4 Ugin, the Spirit Dragon
+4 Crawling Barrens
 1 Blightstep Pathway
 1 Test of Talents
 1 Solemn Simulacrum
@@ -124,12 +124,14 @@
 2 Alrund's Epiphany
 7 Swamp
 1 Flunk
-1 Suffocating Fumes
 1 Reject
+1 Suffocating Fumes
 2 Flunk
 2 Reject
-3 Agadeem's Awakening
+1 Narfi, Betrayer King
+1 Feed the Serpent
 1 Dismal Backwater
+1 Pestilent Haze
 1 Ice Tunnel
 1 Frantic Inventory
 1 Snow-Covered Island
@@ -137,29 +139,27 @@
 1 Tergrid's Shadow
 1 Feed the Swarm
 1 Grasp of Darkness
-1 Narfi, Betrayer King
-1 Pestilent Haze
-1 Feed the Serpent
+2 Ice Tunnel
 2 Snow-Covered Swamp
+2 Narfi, Betrayer King
 2 Snow-Covered Island
 2 Dismal Backwater
+2 Pestilent Haze
 2 Frantic Inventory
 2 Feed the Serpent
 2 Feed the Swarm
-2 Narfi, Betrayer King
-2 Pestilent Haze
-2 Ice Tunnel
 3 Snow-Covered Island
-3 Didn't Say Please
+3 Ice Tunnel
 3 Behold the Multiverse
 3 Snow-Covered Swamp
 3 Frantic Inventory
+3 Didn't Say Please
 3 Feed the Serpent
-3 Ice Tunnel
+4 Behold the Multiverse
 4 Snow-Covered Island
-4 Ice Tunnel
-4 Didn't Say Please
 4 Frantic Inventory
+4 Didn't Say Please
+4 Ice Tunnel
 4 Snow-Covered Swamp
 5 Snow-Covered Island
 5 Snow-Covered Swamp
@@ -172,4 +172,4 @@
 9 Snow-Covered Island
 9 Snow-Covered Swamp
 10 Snow-Covered Island
-4 Behold the Multiverse
+3 Agadeem's Awakening

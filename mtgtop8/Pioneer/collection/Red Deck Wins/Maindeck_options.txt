@@ -1,45 +1,38 @@
-8 Mountain
+1 Zurgo Bellstriker
+1 Needleverge Pathway
 4 Lightning Strike
 9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-1 Ramunap Ruins
-2 Ramunap Ruins
-3 Ramunap Ruins
-13 Mountain
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-4 Ramunap Ruins
+10 Mountain
+11 Mountain
+12 Mountain
+13 Mountain
+1 Ramunap Ruins
+2 Ramunap Ruins
+3 Ramunap Ruins
 14 Mountain
-1 Needleverge Pathway
-1 Spikefield Hazard
-2 Spikefield Hazard
-3 Spikefield Hazard
-3 Bonecrusher Giant
-4 Spikefield Hazard
-4 Bonecrusher Giant
-2 Shock
-1 Shatterskull Smashing
-2 Shatterskull Smashing
-4 Bomat Courier
-1 Castle Embereth
 15 Mountain
 16 Mountain
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+3 Bonecrusher Giant
+4 Bonecrusher Giant
+4 Ramunap Ruins
+2 Shock
 1 Goblin Instigator
 1 Legion Loyalist
 1 Reckless Bushwhacker
 1 Foundry Street Denizen
 1 Goblin Ringleader
 1 Skirk Prospector
+1 Castle Embereth
 1 Goblin Piledriver
 1 Goblin Chainwhirler
 2 Goblin Instigator
-2 Legion Loyalist
 2 Reckless Bushwhacker
+2 Legion Loyalist
 2 Foundry Street Denizen
 2 Goblin Ringleader
 2 Goblin Piledriver
@@ -57,9 +50,7 @@
 4 Reckless Bushwhacker
 4 Foundry Street Denizen
 1 Wayward Guide-Beast
-1 Chandra, Torch of Defiance
-2 Chandra, Torch of Defiance
-3 Chandra, Torch of Defiance
+2 Needleverge Pathway
 1 Burning-Tree Emissary
 1 Legion Warboss
 1 Goblin Arsonist
@@ -83,12 +74,22 @@
 2 Magmatic Channeler
 2 Warlord's Fury
 2 Dreadhorde Arcanist
+3 Crash Through
 3 Shock
 3 Warlord's Fury
 3 Dreadhorde Arcanist
-3 Crash Through
 4 Shock
 4 Crash Through
+1 Shatterskull Smashing
+1 Spikefield Hazard
+1 Chandra, Torch of Defiance
+2 Spikefield Hazard
+2 Shatterskull Smashing
+2 Chandra, Torch of Defiance
+3 Spikefield Hazard
+3 Chandra, Torch of Defiance
+4 Bomat Courier
+4 Spikefield Hazard
 1 Conspicuous Snoop
 1 Kazuul's Fury
 1 Goblin Warchief
@@ -105,10 +106,6 @@
 4 Goblin Warchief
 4 Skirk Prospector
 4 Goblin Piledriver
-1 Abbot of Keral Keep
-2 Abbot of Keral Keep
-3 Abbot of Keral Keep
-4 Abbot of Keral Keep
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
@@ -116,7 +113,7 @@
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
-1 Collective Defiance
-2 Collective Defiance
-3 Collective Defiance
-4 Collective Defiance
+1 Risk Factor
+2 Risk Factor
+3 Risk Factor
+4 Risk Factor

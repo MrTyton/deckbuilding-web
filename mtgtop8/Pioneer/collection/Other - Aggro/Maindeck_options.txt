@@ -1,9 +1,9 @@
-1 Silverquill Silencer
-1 Mardu Woe-Reaper
-2 Silverquill Silencer
-2 Mardu Woe-Reaper
-3 Silverquill Silencer
-4 Silverquill Silencer
+1 Luminarch Aspirant
+2 Luminarch Aspirant
+3 Giant Killer
+3 Luminarch Aspirant
+4 Giant Killer
+4 Luminarch Aspirant
 1 Codespell Cleric
 2 Codespell Cleric
 4 Mutavault
@@ -44,8 +44,8 @@
 2 Branchloft Pathway
 3 Branchloft Pathway
 3 Voice of Resurgence
-4 Voice of Resurgence
 4 Branchloft Pathway
+4 Voice of Resurgence
 1 Reflector Mage
 1 Charming Prince
 1 Mana Confluence
@@ -65,8 +65,8 @@
 1 Judith, the Scourge Diva
 1 Acquisitions Expert
 1 Llanowar Wastes
-1 Pyre of Heroes
 1 Hostage Taker
+1 Pyre of Heroes
 1 Elite Guardmage
 1 Overgrown Tomb
 1 General Kudro of Drannith
@@ -174,13 +174,13 @@
 2 Glorybringer
 1 Ketria Triome
 1 The Great Henge
+1 Hydroid Krasis
 1 Nissa, Who Shakes the World
 1 Rootbound Crag
 1 Alrund's Epiphany
 1 Steam Vents
 1 Vorinclex, Monstrous Raider
 1 Island
-1 Hydroid Krasis
 1 Edgewall Innkeeper
 1 Brazen Borrower
 2 Brazen Borrower
@@ -217,7 +217,6 @@
 1 Blood Crypt
 1 Elspeth, Sun's Champion
 1 Sorin, Solemn Visitor
-1 Dragonskull Summit
 1 Shambling Vent
 1 Valki, God of Lies
 1 Magmatic Channeler
@@ -230,6 +229,7 @@
 1 Needle Spires
 1 Heartless Act
 1 Utter End
+1 Dragonskull Summit
 2 Blood Crypt
 2 Isolated Chapel
 2 Shambling Vent
@@ -305,13 +305,13 @@
 1 Mazemind Tome
 1 Shalai, Voice of Plenty
 1 Speaker of the Heavens
+1 Lyra Dawnbringer
 1 Vito, Thorn of the Dusk Rose
 1 Bishop of Wings
 1 Resplendent Angel
 1 Command the Dreadhorde
 1 Revival / Revenge
 1 Righteous Valkyrie
-1 Lyra Dawnbringer
 2 Sorin, Vengeful Bloodlord
 2 Speaker of the Heavens
 2 Mazemind Tome
@@ -349,8 +349,8 @@
 1 Inspiring Vantage
 1 Boros Charm
 1 Battlefield Forge
-1 Reckless Rage
 1 Needleverge Pathway
+1 Reckless Rage
 1 Titan's Strength
 1 Soul-Scar Mage
 1 Favored Hoplite
@@ -360,10 +360,10 @@
 1 Monastery Swiftspear
 2 Tenth District Legionnaire
 2 Dreadhorde Arcanist
-2 Needleverge Pathway
 2 Inspiring Vantage
 2 Battlefield Forge
 2 Boros Charm
+2 Needleverge Pathway
 2 Reckless Rage
 2 Gird for Battle
 2 Monastery Swiftspear
