@@ -1,8 +1,9 @@
 4 Behold the Multiverse
 2 Sea Gate Restoration
 1 Negate
-4 The Birth of Meletis
 2 Doomskar
+4 The Birth of Meletis
+3 Doomskar
 1 Gates of Istfell
 1 The Raven's Warning
 2 The Raven's Warning
@@ -11,61 +12,60 @@
 1 Mystical Dispute
 2 Mystical Dispute
 3 The Raven's Warning
-3 Doomskar
 3 Shatter the Sky
+1 Castle Ardenvale
+1 Omen of the Sun
+2 Omen of the Sun
 3 Dream Trawler
+1 Fabled Passage
 1 Ondu Inversion
 2 Gates of Istfell
 4 Shatter the Sky
 4 The Raven's Warning
-1 Castle Ardenvale
-1 Omen of the Sun
-2 Omen of the Sun
 1 Crawling Barrens
-1 Fabled Passage
+2 Negate
 4 Doomskar
 2 Castle Ardenvale
 1 Castle Vantress
 3 Mystical Dispute
-2 Negate
 3 Omen of the Sun
 2 Crawling Barrens
-5 Island
 1 Yorion, Sky Nomad
 2 Yorion, Sky Nomad
+2 Fabled Passage
+5 Island
 3 Elspeth Conquers Death
 4 Omen of the Sun
-2 Fabled Passage
-6 Island
-6 Plains
 4 Shark Typhoon
 3 Fabled Passage
+6 Island
+1 Mazemind Tome
+6 Plains
 1 Disdainful Stroke
-7 Island
 3 Yorion, Sky Nomad
 4 Fabled Passage
-1 Mazemind Tome
-1 Niko Aris
-7 Plains
+7 Island
 1 Archon of Sun's Grace
 2 Archon of Sun's Grace
+1 Niko Aris
 3 Field of Ruin
+3 Jwari Disruption
+2 Mazemind Tome
+7 Plains
 1 Brazen Borrower
 2 Brazen Borrower
 3 Brazen Borrower
 1 Banishing Light
-3 Jwari Disruption
-2 Mazemind Tome
-1 Mountain
-1 Narset of the Ancient Way
 1 Riverglide Pathway
+1 Narset of the Ancient Way
+1 Mountain
 1 Needleverge Pathway
-2 Needleverge Pathway
-2 Narset of the Ancient Way
 2 Riverglide Pathway
+2 Narset of the Ancient Way
 2 Mountain
-3 Riverglide Pathway
+2 Needleverge Pathway
 3 Needleverge Pathway
+3 Riverglide Pathway
 1 Alrund's Epiphany
 2 Castle Vantress
 1 Snow-Covered Plains
@@ -74,13 +74,14 @@
 2 Snow-Covered Plains
 3 Snow-Covered Plains
 3 Snow-Covered Island
-4 Snow-Covered Island
 4 Snow-Covered Plains
+4 Snow-Covered Island
 5 Snow-Covered Island
 5 Snow-Covered Plains
 6 Snow-Covered Island
-8 Plains
 4 Field of Ruin
+3 Mazemind Tome
+4 Mazemind Tome
 4 Riverglide Pathway
 4 Needleverge Pathway
 3 Emeria's Call
@@ -88,23 +89,18 @@
 1 Graven Lore
 2 Graven Lore
 6 Snow-Covered Plains
-8 Island
-9 Island
+8 Plains
 1 Fae of Wishes
-1 Neutralize
 1 Test of Talents
 1 Expel
 2 Expel
 4 Emeria's Call
-1 Baneslayer Angel
 1 Giant Killer
+1 Baneslayer Angel
 2 Baneslayer Angel
 2 Giant Killer
 3 Baneslayer Angel
 4 Brazen Borrower
-2 Banishing Light
-3 Mazemind Tome
-4 Mazemind Tome
 3 Castle Ardenvale
 1 Bonecrusher Giant
 2 Bonecrusher Giant
@@ -117,42 +113,57 @@
 2 Solemn Simulacrum
 2 Heliod's Punishment
 3 Solemn Simulacrum
+8 Island
+9 Island
 1 Crush the Weak
 2 Alrund's Epiphany
 2 Crush the Weak
 2 Niko Aris
 2 Disdainful Stroke
+3 Negate
 1 Goldspan Dragon
 3 Narset of the Ancient Way
+3 Archon of Sun's Grace
 4 Jwari Disruption
 1 Cosima, God of the Voyage
 1 Lukka, Coppercoat Outcast
-1 Thirst for Meaning
-2 Thirst for Meaning
-3 Thirst for Meaning
-1 Skyclave Cleric
-2 Neutralize
 1 Teferi, Master of Time
 1 Glimpse of Freedom
-1 Tranquil Cove
-2 Tranquil Cove
-3 Tranquil Cove
+1 Neutralize
+2 Neutralize
+2 Banishing Light
 2 Essence Scatter
-1 Runeforge Champion
-2 Rune of Sustenance
 1 Kiora Bests the Sea God
 1 Brash Taunter
 2 Brash Taunter
 3 Alrund's Epiphany
 3 Crawling Barrens
-2 Goldspan Dragon
-3 Goldspan Dragon
-4 Narset of the Ancient Way
-3 Negate
-4 Negate
+1 Runeforge Champion
+1 Thirst for Meaning
+2 Rune of Sustenance
+2 Thirst for Meaning
+3 Thirst for Meaning
+1 Soul Shatter
+1 Heartless Act
+1 Extinction Event
+1 Swamp
+1 Clearwater Pathway
+1 Temple of Deceit
+1 Brightclimb Pathway
+1 Kaya the Inexorable
+2 Soul Shatter
+2 Heartless Act
+2 Brightclimb Pathway
+2 Extinction Event
+2 Temple of Deceit
+2 Clearwater Pathway
+3 Clearwater Pathway
+3 Extinction Event
+3 Brightclimb Pathway
+4 Clearwater Pathway
+4 Brightclimb Pathway
 1 Banish into Fable
 2 Banish into Fable
-3 Archon of Sun's Grace
 3 Banish into Fable
 4 Banish into Fable
 1 Starnheim Unleashed
@@ -162,21 +173,9 @@
 2 Depart the Realm
 2 Niko Defies Destiny
 2 Iron Verdict
-3 Niko Aris
 3 Niko Defies Destiny
+3 Niko Aris
 4 Niko Defies Destiny
-1 Fire Prophecy
-1 Koma, Cosmos Serpent
-1 Shatterskull Smashing
-1 Transmogrify
-2 Fire Prophecy
-2 Transmogrify
-2 Koma, Cosmos Serpent
-2 Shatterskull Smashing
-3 Fire Prophecy
-3 Transmogrify
-4 Fire Prophecy
-4 Transmogrify
 3 Giant Killer
 4 Giant Killer
 1 Faceless Haven
@@ -185,27 +184,44 @@
 2 Glacial Floodplain
 3 Glacial Floodplain
 4 Glacial Floodplain
-1 Inspired Ultimatum
+4 Negate
 1 Temple of Epiphany
 1 Omen of the Forge
 1 Mystic Reflection
 1 Whirlwind of Thought
+1 Inspired Ultimatum
 1 Temple of Triumph
 2 Omen of the Forge
 2 Lukka, Coppercoat Outcast
 2 Mystic Reflection
 2 Temple of Epiphany
 2 Temple of Triumph
+3 Mountain
 3 Temple of Triumph
-3 Omen of the Forge
 3 Lukka, Coppercoat Outcast
 3 Temple of Epiphany
-3 Mountain
+3 Omen of the Forge
 4 Omen of the Forge
 4 Elspeth Conquers Death
+2 Goldspan Dragon
+3 Goldspan Dragon
+4 Narset of the Ancient Way
+1 Shatterskull Smashing
+1 Fire Prophecy
+1 Transmogrify
+1 Koma, Cosmos Serpent
+2 Shatterskull Smashing
+2 Fire Prophecy
+2 Transmogrify
+2 Koma, Cosmos Serpent
+3 Fire Prophecy
+3 Transmogrify
+4 Transmogrify
+4 Fire Prophecy
 1 Glasspool Mimic
 1 Professor of Symbology
 1 Golden Egg
+1 Skyclave Cleric
 2 Golden Egg
 2 Glasspool Mimic
 2 Professor of Symbology
@@ -215,15 +231,14 @@
 9 Plains
 2 Cosima, God of the Voyage
 3 Cosima, God of the Voyage
-1 Deny the Divine
-1 Memory Drain
-2 Skyclave Cleric
-4 Tranquil Cove
 2 Fae of Wishes
 3 Fae of Wishes
 4 Yorion, Sky Nomad
 4 Fae of Wishes
+1 Tranquil Cove
+2 Tranquil Cove
 3 Neutralize
+3 Tranquil Cove
 3 Banishing Light
 4 Banishing Light
 4 Neutralize

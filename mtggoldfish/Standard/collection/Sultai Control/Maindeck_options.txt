@@ -50,11 +50,11 @@
 1 Temple of Deceit
 1 Kaervek, the Spiteful
 1 Ashiok, Nightmare Muse
-2 Ashiok, Nightmare Muse
 2 Castle Vantress
+2 Ashiok, Nightmare Muse
 1 Lochmere Serpent
-1 Erebos's Intervention
 1 Drown in the Loch
+1 Erebos's Intervention
 3 Extinction Event
 1 Disdainful Stroke
 3 Saw It Coming
@@ -120,24 +120,24 @@
 1 Test of Talents
 2 Negate
 2 Castle Locthwain
-1 Essence Scatter
+1 Dismal Backwater
 1 Agonizing Remorse
 1 Rain of Revelation
+1 Essence Scatter
 1 Mountain
-1 Dismal Backwater
 1 Unknown Shores
-2 Test of Talents
-2 Essence Scatter
+2 Dismal Backwater
 2 Agonizing Remorse
 2 Rain of Revelation
+2 Essence Scatter
+2 Test of Talents
 2 Mountain
-2 Dismal Backwater
-3 Baleful Mastery
-3 Behold the Multiverse
-3 Negate
-3 Test of Talents
-3 Rain of Revelation
 3 Dismal Backwater
+3 Rain of Revelation
+3 Baleful Mastery
+3 Test of Talents
+3 Negate
+3 Behold the Multiverse
 4 Dismal Backwater
 1 Massacre Wurm
 1 Callous Bloodmage
@@ -147,8 +147,8 @@
 2 Kasmina, Enigma Sage
 3 Callous Bloodmage
 4 Callous Bloodmage
-1 Thryx, the Sudden Storm
 1 Bala Ged Recovery
+1 Thryx, the Sudden Storm
 1 Blacklance Paragon
 1 Multiple Choice
 1 Vineglimmer Snarl
@@ -156,15 +156,15 @@
 1 Flunk
 2 Flunk
 2 Temple of Mystery
-1 Indatha Triome
-1 Liliana, Waker of the Dead
 1 Beanstalk Giant
+1 Liliana, Waker of the Dead
 1 The World Tree
+1 Indatha Triome
 2 Beanstalk Giant
 2 Vorinclex, Monstrous Raider
 2 The World Tree
-1 Teferi, Master of Time
 1 Solemn Simulacrum
+1 Teferi, Master of Time
 1 Silundi Vision
 2 Solemn Simulacrum
 2 Silundi Vision
@@ -175,9 +175,9 @@
 2 Soul Shatter
 4 Saw It Coming
 2 Midnight Clock
+3 Drown in the Loch
 3 Midnight Clock
 3 Disdainful Stroke
-3 Drown in the Loch
 3 Professor Onyx
 4 Extinction Event
 2 Lochmere Serpent

@@ -1,5 +1,5 @@
-1 Kolaghan's Command
-1 Unmoored Ego
+2 Birds of Paradise
+4 Kaya's Guile
 1 Pillar of the Paruns
 2 Assassin's Trophy
 2 Pillar of the Paruns
@@ -8,9 +8,9 @@
 4 Omnath, Locus of Creation
 1 Forest
 3 Pillar of the Paruns
+2 Verdant Catacombs
 1 Island
 2 Nahiri, the Harbinger
-2 Verdant Catacombs
 1 Mountain
 1 Plains
 1 Swamp
@@ -19,8 +19,8 @@
 1 Abrupt Decay
 4 Assassin's Trophy
 1 Snow-Covered Plains
-1 Snow-Covered Mountain
 1 Snow-Covered Forest
+1 Snow-Covered Mountain
 1 Snow-Covered Island
 1 Snow-Covered Swamp
 4 Misty Rainforest
@@ -28,36 +28,40 @@
 1 Deafening Clarion
 2 Snow-Covered Forest
 4 Windswept Heath
-1 Raugrin Triome
 1 Vanishing Verse
-1 Sword of Feast and Famine
+1 Raugrin Triome
 1 Batterskull
+1 Sword of Feast and Famine
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
-4 Stoneforge Mystic
-1 Sword of Fire and Ice
-2 Valki, God of Lies
-1 Prismari Command
-2 Vanishing Verse
-1 Hallowed Fountain
 1 Saheeli Rai
 1 Felidar Guardian
+4 Stoneforge Mystic
+1 Prismari Command
+1 Hallowed Fountain
 1 Oath of Nissa
-1 Path to Exile
 2 Oath of Nissa
-2 Path to Exile
 2 Felidar Guardian
 2 Saheeli Rai
 3 Oath of Nissa
 3 Saheeli Rai
+2 Vanishing Verse
+1 Sword of Fire and Ice
+2 Valki, God of Lies
+3 Felidar Guardian
+1 Path to Exile
+2 Path to Exile
 1 Zagoth Triome
+4 Oath of Nissa
 1 Flooded Strand
 1 Lightning Bolt
-2 Lightning Bolt
 2 Flooded Strand
-3 Felidar Guardian
+2 Lightning Bolt
+1 Kaya, Orzhov Usurper
 2 Prismari Command
+2 Abrupt Decay
+4 Felidar Guardian
 3 Flooded Strand
 1 Fatal Push
 1 Thoughtseize
@@ -77,18 +81,17 @@
 4 Thoughtseize
 4 Fatal Push
 3 Path to Exile
-4 Oath of Nissa
 4 Saheeli Rai
-1 Kaya, Orzhov Usurper
+1 Huntmaster of the Fells
+1 Golos, Tireless Pilgrim
+1 Klothys, God of Destiny
+1 Sacred Foundry
+2 Stomping Ground
 3 Prismari Command
 4 Niv-Mizzet Reborn
 1 Kasmina, Enigma Sage
 1 Commandeer
 2 Commandeer
-1 Savai Triome
-2 Dreadbore
-2 Abrupt Decay
-4 Wooded Foothills
 1 Lotus Cobra
 1 Scalding Tarn
 1 Jace, the Mind Sculptor
@@ -113,4 +116,6 @@
 3 Remand
 4 Remand
 4 Path to Exile
-4 Felidar Guardian
+1 Savai Triome
+2 Dreadbore
+4 Wooded Foothills

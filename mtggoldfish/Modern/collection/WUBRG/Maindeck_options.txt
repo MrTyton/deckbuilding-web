@@ -8,7 +8,6 @@
 2 Snow-Covered Forest
 1 Raugrin Triome
 1 Deputy of Detention
-1 Island
 1 Steam Vents
 1 Curator of Mysteries
 1 Living End
@@ -28,22 +27,23 @@
 4 Striped Riverwinder
 4 Curator of Mysteries
 4 Windcaller Aven
+1 Island
 1 Brazen Borrower
 1 Force of Negation
 2 Force of Negation
 3 Force of Negation
-4 Street Wraith
 1 Spirebluff Canal
+4 Force of Negation
+4 Street Wraith
+2 Spirebluff Canal
 1 Ardent Plea
 2 Ardent Plea
 3 Ardent Plea
-4 Force of Negation
 1 Flooded Strand
 2 Flooded Strand
 3 Flooded Strand
 4 Flooded Strand
 4 Ardent Plea
-2 Spirebluff Canal
 1 Botanical Sanctum
 1 Violent Outburst
 1 Desert Cerodon
@@ -66,8 +66,8 @@
 1 Inspiring Vantage
 2 Glassdust Hulk
 2 Lurrus of the Dream-Den
-1 Mountain
 1 Snow-Covered Mountain
+1 Mountain
 3 Snow-Covered Forest
 4 Wooded Foothills
 1 Kitchen Finks
@@ -83,25 +83,20 @@
 4 Skyclave Apparition
 2 Seal of Fire
 1 Plains
+1 As Foretold
+4 Living End
 1 Unearth
 2 Ephemerate
 3 Ephemerate
-1 As Foretold
-4 Living End
 1 Goblin Cratermaker
 1 Lithoform Blight
-1 Trial of Ambition
-2 Island
 2 As Foretold
 3 As Foretold
 4 As Foretold
-1 Ketria Triome
-2 Temple Garden
-2 Forest
-1 Eidolon of Rhetoric
-3 Island
+2 Island
 2 Steam Vents
 3 Steam Vents
+3 Island
 1 Remand
 1 Electrodominance
 1 Crashing Footfalls
@@ -119,6 +114,11 @@
 4 Crashing Footfalls
 4 Spirebluff Canal
 4 Remand
+1 Trial of Ambition
+1 Ketria Triome
+2 Temple Garden
+2 Forest
+1 Eidolon of Rhetoric
 1 Seachrome Coast
 1 Ice-Fang Coatl
 3 Forest
@@ -151,6 +151,8 @@
 4 Island
 4 Waker of Waves
 1 Ancestral Vision
+2 Snow-Covered Island
+3 Snow-Covered Island
 4 Glassdust Hulk
 2 Hallowed Fountain
 5 Island
@@ -160,10 +162,10 @@
 1 Zagoth Triome
 1 Cosima, God of the Voyage
 1 Archon of Emeria
-1 Omen of the Dead
 1 Reidane, God of the Worthy
 1 Spike Feeder
 1 Heliod, Sun-Crowned
+1 Omen of the Dead
 3 Omen of the Forge
 4 Omen of the Forge
 1 Vendilion Clique
@@ -173,8 +175,6 @@
 2 Gemstone Caverns
 2 Mystical Dispute
 3 Hallowed Fountain
-2 Snow-Covered Island
-3 Snow-Covered Island
 2 Inspiring Vantage
 3 Botanical Sanctum
 4 Botanical Sanctum

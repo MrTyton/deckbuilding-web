@@ -75,8 +75,8 @@
 3 Bonecrusher Giant
 4 Bonecrusher Giant
 3 Tend the Pests
-1 Gilded Goose
 1 Korvold, Fae-Cursed King
+1 Gilded Goose
 2 Gilded Goose
 2 Korvold, Fae-Cursed King
 3 Gilded Goose
@@ -93,21 +93,48 @@
 1 Temple of Triumph
 1 Temple of Silence
 2 Temple of Triumph
-1 Eliminate
-2 Eliminate
 1 Kazuul's Fury
 1 Daemogoth Titan
 2 Kazuul's Fury
 2 Daemogoth Titan
-3 The Akroan War
-1 Toski, Bearer of Secrets
+1 Eliminate
+2 Eliminate
 1 Chainweb Aracnir
+1 Toski, Bearer of Secrets
 1 Skemfar Elderhall
-2 Toski, Bearer of Secrets
 2 Chainweb Aracnir
+2 Toski, Bearer of Secrets
 2 Skemfar Elderhall
 3 Chainweb Aracnir
+3 The Akroan War
 3 Deadly Brew
+1 Foulmire Knight
+1 Flunk
+1 Edgewall Innkeeper
+1 Zagoth Triome
+1 The Great Henge
+2 Foulmire Knight
+2 Edgewall Innkeeper
+2 Flunk
+2 Zagoth Triome
+2 The Great Henge
+3 Zagoth Triome
+3 Foulmire Knight
+3 Edgewall Innkeeper
+3 Flunk
+4 Zagoth Triome
+4 Foulmire Knight
+4 Edgewall Innkeeper
+1 Savai Triome
+1 Pelakka Predation
+1 Callous Bloodmage
+2 Savai Triome
+2 Pelakka Predation
+2 Callous Bloodmage
+3 Savai Triome
+3 Forbidden Friendship
+4 Savai Triome
+4 Forbidden Friendship
 3 Temple of Malady
 4 Temple of Malady
 1 Baleful Mastery
@@ -115,40 +142,13 @@
 3 Heartless Act
 4 Heartless Act
 4 Korvold, Fae-Cursed King
-1 Radiant Fountain
 1 Professor Onyx
 1 Jaspera Sentinel
+1 Radiant Fountain
 2 Professor Onyx
-2 Radiant Fountain
 2 Jaspera Sentinel
+2 Radiant Fountain
 4 Dina, Soul Steeper
-1 Pelakka Predation
-1 Savai Triome
-1 Callous Bloodmage
-2 Pelakka Predation
-2 Savai Triome
-2 Callous Bloodmage
-3 Forbidden Friendship
-3 Savai Triome
-4 Forbidden Friendship
-4 Savai Triome
-1 The Great Henge
-1 Foulmire Knight
-1 Flunk
-1 Zagoth Triome
-1 Edgewall Innkeeper
-2 Foulmire Knight
-2 The Great Henge
-2 Flunk
-2 Zagoth Triome
-2 Edgewall Innkeeper
-3 Zagoth Triome
-3 Foulmire Knight
-3 Edgewall Innkeeper
-3 Flunk
-4 Foulmire Knight
-4 Zagoth Triome
-4 Edgewall Innkeeper
 1 Scavenging Ooze
 1 Masked Vandal
 3 Immersturm Predator
@@ -166,9 +166,9 @@
 3 Agadeem's Awakening
 4 Mortality Spear
 8 Forest
-1 Jungle Hollow
 1 Feed the Swarm
 1 Witherbloom Campus
+1 Jungle Hollow
 1 Unwilling Ingredient
 2 Jungle Hollow
 2 Unwilling Ingredient
@@ -176,19 +176,19 @@
 2 Feed the Swarm
 3 Feed the Swarm
 3 Unwilling Ingredient
-4 Feed the Swarm
 4 Unwilling Ingredient
+4 Feed the Swarm
 12 Swamp
 13 Swamp
 1 Faceless Haven
 1 Snow-Covered Swamp
 2 Faceless Haven
 2 Snow-Covered Swamp
-3 Bloodchief's Thirst
 3 Faceless Haven
+3 Bloodchief's Thirst
 3 Snow-Covered Swamp
-4 Snow-Covered Swamp
 4 Faceless Haven
+4 Snow-Covered Swamp
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp

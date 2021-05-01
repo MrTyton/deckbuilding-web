@@ -1,6 +1,12 @@
+1 Dark Confidant
 2 Dark Confidant
+1 Cling to Dust
+1 Mishra's Bauble
+2 Mishra's Bauble
 4 Marsh Flats
-1 Bloodchief's Thirst
+3 Mishra's Bauble
+4 Mishra's Bauble
+4 Thoughtseize
 1 Savai Triome
 1 Batterskull
 1 Stoneforge Mystic
@@ -8,28 +14,23 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+4 Fatal Push
 2 Arid Mesa
 1 Castle Embereth
+4 Blood Crypt
+2 Cling to Dust
+2 Kolaghan's Command
 1 Prismatic Vista
 2 Prismatic Vista
-4 Fatal Push
-4 Blood Crypt
-1 Cling to Dust
-1 Sword of Feast and Famine
 1 Lingering Souls
+1 Sword of Feast and Famine
 1 Kaya's Guile
 1 Shambling Vent
 2 Lingering Souls
-2 Kolaghan's Command
-1 Mishra's Bauble
-2 Mishra's Bauble
 1 Dreadbore
-4 Thoughtseize
-3 Mishra's Bauble
-4 Mishra's Bauble
 1 Kaya, Orzhov Usurper
 3 Lingering Souls
-2 Cling to Dust
+1 Collective Brutality
 1 Seal of Fire
 1 Abbot of Keral Keep
 1 Soul-Scar Mage
@@ -44,17 +45,31 @@
 3 Soul-Scar Mage
 4 Monastery Swiftspear
 4 Soul-Scar Mage
+1 Blightstep Pathway
+2 Blightstep Pathway
 4 Lightning Skelemental
+1 Dreadhorde Arcanist
+2 Dreadhorde Arcanist
+3 Dreadhorde Arcanist
+4 Dreadhorde Arcanist
 3 Sunbaked Canyon
 4 Abbot of Keral Keep
 3 Mountain
-4 Unearth
 1 Path to Exile
+4 Unearth
 1 Wooded Foothills
-1 Collective Brutality
-1 Blightstep Pathway
-2 Blightstep Pathway
+1 Nihil Spellbomb
+1 Waste Not
+1 Burning Inquiry
+2 Burning Inquiry
+2 Waste Not
+3 Waste Not
+3 Burning Inquiry
+4 Burning Inquiry
+4 Waste Not
+1 Polluted Delta
 1 Pyrite Spellbomb
+1 Dream Salvage
 1 Vanishing Verse
 2 Vanishing Verse
 2 Path to Exile
@@ -73,34 +88,48 @@
 2 Needleverge Pathway
 3 Bonecrusher Giant
 4 Bonecrusher Giant
-1 Snow-Covered Swamp
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
 4 Blood Moon
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
-1 Polluted Delta
-1 Dreadhorde Arcanist
-2 Dreadhorde Arcanist
-3 Dreadhorde Arcanist
-4 Dreadhorde Arcanist
-2 Bloodchief's Thirst
-3 Kolaghan's Command
+1 Snow-Covered Swamp
 1 Drown in the Loch
-1 Darkslick Shores
 1 Island
 1 Watery Grave
 1 Snapcaster Mage
 2 Drown in the Loch
-2 Darkslick Shores
 2 Snapcaster Mage
 2 Polluted Delta
-2 Island
 3 Drown in the Loch
 3 Polluted Delta
-3 Darkslick Shores
 3 Snapcaster Mage
+2 Bloodchief's Thirst
+3 Kolaghan's Command
+1 Scourge of the Skyclaves
+2 Scourge of the Skyclaves
+3 Scourge of the Skyclaves
+4 Scourge of the Skyclaves
+1 Scalding Tarn
+1 Thieves' Guild Enforcer
+1 Soaring Thought-Thief
+2 Scalding Tarn
+2 Thieves' Guild Enforcer
+2 Soaring Thought-Thief
+2 Watery Grave
+3 Scalding Tarn
+3 Thieves' Guild Enforcer
+3 Soaring Thought-Thief
+4 Drown in the Loch
+4 Scalding Tarn
+4 Thieves' Guild Enforcer
+4 Polluted Delta
+4 Soaring Thought-Thief
+1 Darkslick Shores
+2 Darkslick Shores
+2 Island
+3 Darkslick Shores
 1 Angrath's Rampage
 2 Hagra Mauling
 1 Agadeem's Awakening
@@ -108,14 +137,14 @@
 3 Prismatic Vista
 1 Steam Vents
 1 Sunken Hollow
+1 Sea Gate Stormcaller
 1 Engineered Explosives
 1 Smoldering Marsh
 1 Opt
-1 Sea Gate Stormcaller
 2 Sea Gate Stormcaller
 2 Opt
-3 Opt
 3 Sea Gate Stormcaller
+3 Opt
 4 Opt
 1 Urborg, Tomb of Yawgmoth
 1 Collective Defiance
@@ -123,71 +152,53 @@
 1 Underworld Breach
 1 Raven's Crime
 1 Graven Cairns
-1 Waste Not
 1 Liliana's Caress
-1 Burning Inquiry
 2 Urborg, Tomb of Yawgmoth
 2 Underworld Breach
-2 Burning Inquiry
 2 Geier Reach Sanitarium
 2 Liliana's Caress
 2 Graven Cairns
 2 Raven's Crime
-2 Waste Not
 2 Collective Defiance
 3 Liliana's Caress
 3 Graven Cairns
-3 Waste Not
-3 Burning Inquiry
 3 Raven's Crime
-4 Burning Inquiry
-4 Waste Not
 4 Liliana's Caress
-1 Scourge of the Skyclaves
-2 Scourge of the Skyclaves
-3 Scourge of the Skyclaves
-4 Scourge of the Skyclaves
-1 Hazoret the Fervent
-4 Swamp
-1 Nihil Spellbomb
-1 Stomping Ground
 1 Overgrown Tomb
+1 Stomping Ground
+2 Wooded Foothills
 2 Dreadbore
 2 Nihil Spellbomb
-2 Wooded Foothills
 3 Dark Confidant
 3 Bloodchief's Thirst
 4 Dark Confidant
-4 Kroxa, Titan of Death's Hunger
 4 Kolaghan's Command
-1 Scalding Tarn
+4 Kroxa, Titan of Death's Hunger
+1 Hazoret the Fervent
+4 Swamp
+1 Dismember
+1 Death's Shadow
+1 Fiery Islet
+2 Fiery Islet
+2 Dismember
+2 Death's Shadow
+3 Watery Grave
+3 Death's Shadow
+4 Death's Shadow
+4 Watery Grave
+1 River of Tears
 1 Into the Story
 1 Silundi Vision
-1 Thieves' Guild Enforcer
 1 Mana Leak
 1 Archmage's Charm
-1 River of Tears
-1 Soaring Thought-Thief
 1 Spell Snare
 1 Sunken Ruins
 2 Into the Story
-2 Scalding Tarn
-2 Thieves' Guild Enforcer
-2 Soaring Thought-Thief
 2 River of Tears
 2 Archmage's Charm
-2 Watery Grave
-3 Scalding Tarn
-3 Thieves' Guild Enforcer
 3 Island
 3 Archmage's Charm
-3 Soaring Thought-Thief
-4 Drown in the Loch
-4 Scalding Tarn
-4 Thieves' Guild Enforcer
 4 Darkslick Shores
-4 Polluted Delta
-4 Soaring Thought-Thief
 4 Snapcaster Mage
 1 Unburial Rites
 1 Griselbrand
@@ -196,9 +207,9 @@
 1 Lightning Axe
 1 Obzedat, Ghost Council
 2 Godless Shrine
+2 Collective Brutality
 2 Goryo's Vengeance
 2 Griselbrand
-2 Collective Brutality
 2 Lightning Axe
 2 Obzedat, Ghost Council
 2 Merchant of the Vale

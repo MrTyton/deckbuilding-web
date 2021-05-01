@@ -3,12 +3,10 @@
 1 Winds of Abandon
 1 Behold the Multiverse
 1 Dovin's Veto
-3 Celestial Colonnade
 1 Vendilion Clique
 1 Prairie Stream
+3 Celestial Colonnade
 1 Castle Vantress
-4 Snapcaster Mage
-1 Scalding Tarn
 1 Snow-Covered Island
 1 Snow-Covered Plains
 2 Snow-Covered Island
@@ -16,10 +14,11 @@
 4 Snow-Covered Island
 5 Snow-Covered Island
 1 Misty Rainforest
-2 Polluted Delta
-1 Mystic Gate
+1 Scalding Tarn
+4 Snapcaster Mage
 6 Snow-Covered Island
 2 Misty Rainforest
+2 Polluted Delta
 2 Snow-Covered Plains
 1 Stoneforge Mystic
 1 Batterskull
@@ -27,32 +26,33 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
+1 Mystic Gate
 1 Castle Ardenvale
-7 Island
 3 Polluted Delta
-4 Archmage's Charm
 1 Sword of Fire and Ice
 2 Shark Typhoon
 2 Scalding Tarn
+3 Misty Rainforest
+4 Misty Rainforest
 2 Oust
 3 Teferi, Hero of Dominaria
 1 Search for Azcanta
+7 Island
 1 Remand
 4 Polluted Delta
+4 Archmage's Charm
 1 Condemn
-3 Misty Rainforest
 4 Cryptic Command
-4 Misty Rainforest
 7 Snow-Covered Island
 1 Brazen Borrower
-1 Terminus
-2 Terminus
-8 Island
+1 Spell Queller
+2 Spell Queller
+3 Spell Queller
 2 Remand
 2 Castle Vantress
 2 Behold the Multiverse
 1 Raugrin Triome
-1 Detention Sphere
+1 Teferi, Master of Time
 1 Jace, Vryn's Prodigy
 1 Delay
 1 Sphinx's Revelation
@@ -62,14 +62,11 @@
 2 Doomskar
 2 Timely Reinforcements
 2 Starnheim Unleashed
-3 Shark Typhoon
 1 Engineered Explosives
 2 Castle Ardenvale
 3 Plains
-1 Teferi, Master of Time
-1 Spell Queller
-2 Spell Queller
-3 Spell Queller
+3 Shark Typhoon
+3 Hallowed Fountain
 3 Scalding Tarn
 4 Scalding Tarn
 8 Snow-Covered Island
@@ -80,14 +77,17 @@
 2 Vedalken Shackles
 2 Prairie Stream
 3 Remand
+8 Island
 9 Island
 10 Island
 1 Elspeth, Sun's Nemesis
 1 Sea Gate Restoration
+1 Terminus
 1 Omen of the Sea
 2 Mystic Gate
 2 Logic Knot
 2 Omen of the Sea
+2 Terminus
 3 Mystic Gate
 3 Terminus
 4 Terminus

@@ -1,7 +1,5 @@
-4 Silent Clearing
 1 Restoration Angel
 2 Restoration Angel
-4 Archon of Emeria
 1 Tectonic Edge
 2 Tectonic Edge
 3 Tectonic Edge
@@ -11,6 +9,8 @@
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
+3 Silent Clearing
+4 Silent Clearing
 1 Winds of Abandon
 2 Winds of Abandon
 6 Snow-Covered Plains
@@ -24,33 +24,36 @@
 13 Plains
 14 Plains
 15 Plains
+1 Horizon Canopy
 10 Snow-Covered Plains
 3 Restoration Angel
-1 Horizon Canopy
+1 Noble Hierarch
+1 Brushland
+1 Razorverge Thicket
+1 Temple Garden
+1 Branchloft Pathway
+1 Forest
+2 Noble Hierarch
+2 Brushland
+2 Razorverge Thicket
+2 Temple Garden
+2 Branchloft Pathway
+3 Noble Hierarch
+3 Razorverge Thicket
+3 Branchloft Pathway
+3 Temple Garden
+4 Razorverge Thicket
+4 Branchloft Pathway
+4 Temple Garden
+2 Horizon Canopy
 1 Sword of Light and Shadow
 3 Winds of Abandon
 2 Charming Prince
 1 Linvala, Keeper of Silence
 2 Linvala, Keeper of Silence
-1 Razorverge Thicket
-1 Noble Hierarch
-1 Temple Garden
-1 Branchloft Pathway
-1 Brushland
-1 Forest
-2 Noble Hierarch
-2 Brushland
-2 Temple Garden
-2 Razorverge Thicket
-2 Branchloft Pathway
-3 Noble Hierarch
-3 Branchloft Pathway
-3 Temple Garden
-3 Razorverge Thicket
-4 Razorverge Thicket
-4 Temple Garden
-4 Branchloft Pathway
-2 Horizon Canopy
+1 Elite Spellbinder
+2 Elite Spellbinder
+3 Elite Spellbinder
 4 Restoration Angel
 2 Castle Ardenvale
 1 Oath of Nissa
@@ -58,15 +61,13 @@
 2 Forest
 3 Oath of Nissa
 4 Oath of Nissa
-1 Elite Spellbinder
-2 Elite Spellbinder
-3 Elite Spellbinder
-1 Sunbaked Canyon
-1 Stirring Wildwood
-2 Stirring Wildwood
 4 Elite Spellbinder
 3 Brushland
 4 Brushland
+1 Sunbaked Canyon
+1 Stirring Wildwood
+2 Stirring Wildwood
+4 Noble Hierarch
 1 Skyclave Cleric
 2 Skyclave Cleric
 3 Linvala, Keeper of Silence
@@ -77,19 +78,22 @@
 14 Snow-Covered Plains
 15 Snow-Covered Plains
 16 Snow-Covered Plains
-4 Noble Hierarch
 1 Sword of Feast and Famine
 1 Aven Mindcensor
 1 Scavenger Grounds
 1 Sejiri Shelter
 2 Sejiri Shelter
-1 Gaddock Teeg
-2 Gaddock Teeg
 1 Spellskite
 2 Spellskite
+1 Gaddock Teeg
+2 Gaddock Teeg
 2 Batterskull
 1 Eternal Witness
 2 Eternal Witness
+1 Hexdrinker
+2 Hexdrinker
+3 Hexdrinker
+4 Hexdrinker
 1 Phyrexian Revoker
 2 Phyrexian Revoker
 3 Phyrexian Revoker

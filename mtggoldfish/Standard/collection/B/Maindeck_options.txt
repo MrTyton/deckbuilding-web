@@ -53,21 +53,21 @@
 3 Setessan Champion
 4 Fabled Passage
 4 Setessan Champion
-1 Chevill, Bane of Monsters
-1 Garruk, Cursed Huntsman
 1 Esika's Chariot
-1 Elspeth's Nightmare
 1 Binding the Old Gods
-2 Chevill, Bane of Monsters
+1 Chevill, Bane of Monsters
+1 Elspeth's Nightmare
+1 Garruk, Cursed Huntsman
 2 Temple of Malady
-2 Darkbore Pathway
-2 Elspeth's Nightmare
-2 Binding the Old Gods
 2 Esika's Chariot
+2 Binding the Old Gods
+2 Elspeth's Nightmare
+2 Chevill, Bane of Monsters
+2 Darkbore Pathway
 3 Chevill, Bane of Monsters
+3 Castle Locthwain
 3 Darkbore Pathway
 3 Binding the Old Gods
-3 Castle Locthwain
 4 Chevill, Bane of Monsters
 4 Darkbore Pathway
 4 Binding the Old Gods
@@ -95,8 +95,8 @@
 2 Hagra Mauling
 2 Blightstep Pathway
 2 Valki, God of Lies
-3 Valki, God of Lies
 3 Blightstep Pathway
+3 Valki, God of Lies
 3 Kitesail Freebooter
 4 Kitesail Freebooter
 3 Temple of Malady
@@ -123,69 +123,68 @@
 2 Brightclimb Pathway
 3 Brightclimb Pathway
 4 Brightclimb Pathway
-1 Tymaret Calls the Dead
-1 Humiliate
-1 Plains
-1 Archon of Sun's Grace
-1 Vanishing Verse
-1 Shineshadow Snarl
-1 Dramatic Finale
-1 Alseid of Life's Bounty
-2 Emeria's Call
-2 Tymaret Calls the Dead
-2 Humiliate
-2 Plains
-2 Vanishing Verse
-2 Archon of Sun's Grace
-2 Alseid of Life's Bounty
-2 Shineshadow Snarl
-2 Dramatic Finale
-3 Emeria's Call
-3 Tymaret Calls the Dead
-3 Vanishing Verse
-3 Humiliate
-3 Plains
-3 Archon of Sun's Grace
-3 Shineshadow Snarl
-3 Dramatic Finale
-3 Alseid of Life's Bounty
-4 Tymaret Calls the Dead
-4 Plains
-4 Archon of Sun's Grace
-4 Shineshadow Snarl
-5 Plains
 1 Speaker of the Heavens
 1 Halvar, God of Battle
-1 Giant Killer
+1 Snow-Covered Plains
 1 Sentinel's Eyes
 1 Castle Ardenvale
-1 Snow-Covered Plains
+1 Giant Killer
 1 Luminarch Aspirant
 1 Nullpriest of Oblivion
 1 Legion Angel
 1 Snowfield Sinkhole
 2 Halvar, God of Battle
 2 Speaker of the Heavens
-2 Giant Killer
+2 Snow-Covered Plains
 2 Sentinel's Eyes
 2 Snowfield Sinkhole
-2 Snow-Covered Plains
+2 Giant Killer
 2 Nullpriest of Oblivion
 2 Luminarch Aspirant
 3 Speaker of the Heavens
-3 Snowfield Sinkhole
-3 Nullpriest of Oblivion
 3 Snow-Covered Plains
 3 Giant Killer
+3 Snowfield Sinkhole
+3 Nullpriest of Oblivion
 3 Luminarch Aspirant
-4 Giant Killer
+4 Luminarch Aspirant
 4 Speaker of the Heavens
+4 Snow-Covered Plains
+4 Giant Killer
 4 Snowfield Sinkhole
 4 Demonic Embrace
-4 Snow-Covered Plains
-4 Luminarch Aspirant
 5 Snow-Covered Plains
-1 Destiny Spinner
+1 Tymaret Calls the Dead
+1 Shineshadow Snarl
+1 Archon of Sun's Grace
+1 Plains
+1 Humiliate
+1 Vanishing Verse
+1 Dramatic Finale
+1 Alseid of Life's Bounty
+2 Emeria's Call
+2 Tymaret Calls the Dead
+2 Shineshadow Snarl
+2 Archon of Sun's Grace
+2 Vanishing Verse
+2 Alseid of Life's Bounty
+2 Plains
+2 Humiliate
+2 Dramatic Finale
+3 Emeria's Call
+3 Plains
+3 Tymaret Calls the Dead
+3 Archon of Sun's Grace
+3 Shineshadow Snarl
+3 Dramatic Finale
+3 Vanishing Verse
+3 Alseid of Life's Bounty
+3 Humiliate
+4 Plains
+4 Tymaret Calls the Dead
+4 Archon of Sun's Grace
+4 Shineshadow Snarl
+5 Plains
 1 Skull Prophet
 1 Nissa of Shadowed Boughs
 1 Hornbash Mentor
@@ -193,16 +192,17 @@
 1 Order of Midnight
 1 Setessan Training
 1 Aspect of Lamprey
+1 Destiny Spinner
 1 Arachnoform
-2 Destiny Spinner
 2 Warbriar Blessing
 2 Order of Midnight
 2 Nissa of Shadowed Boughs
 2 Skull Prophet
 2 Setessan Training
+2 Destiny Spinner
 3 Warbriar Blessing
-4 Warbriar Blessing
 4 Forest
+4 Warbriar Blessing
 5 Forest
 6 Forest
 7 Forest
