@@ -29,15 +29,15 @@
 3 Collected Company
 4 Collected Company
 4 Llanowar Elves
-1 Fortified Village
 1 Sunpetal Grove
+1 Fortified Village
 1 Forest
 2 Forest
 3 Forest
 4 Elvish Mystic
 4 Forest
-1 Selfless Spirit
 1 Skyclave Apparition
+1 Selfless Spirit
 2 Skyclave Apparition
 3 Skyclave Apparition
 1 Branchloft Pathway
@@ -62,13 +62,13 @@
 4 Codespell Cleric
 1 Swamp
 1 Renegade Rallier
+1 Overgrown Tomb
 1 Judith, the Scourge Diva
 1 Acquisitions Expert
 1 Llanowar Wastes
 1 Hostage Taker
 1 Pyre of Heroes
 1 Elite Guardmage
-1 Overgrown Tomb
 1 General Kudro of Drannith
 1 Archfiend's Vessel
 1 Kaervek, the Spiteful
@@ -97,13 +97,13 @@
 1 Scavenging Ooze
 2 Scavenging Ooze
 4 Lovestruck Beast
+1 Hinterland Harbor
 1 Bonecrusher Giant
 1 Breeding Pool
 1 Stomping Ground
-1 Hinterland Harbor
+2 Hinterland Harbor
 2 Breeding Pool
 2 Bonecrusher Giant
-2 Hinterland Harbor
 2 Stomping Ground
 3 Bonecrusher Giant
 3 Breeding Pool
@@ -127,21 +127,21 @@
 1 Reduce / Rubble
 2 Shivan Reef
 2 Vivien, Arkbow Ranger
-2 Klothys, God of Destiny
 2 Nimble Obstructionist
 2 Boon Satyr
 2 Reduce / Rubble
+2 Klothys, God of Destiny
 2 Cragcrown Pathway
 3 Shivan Reef
+3 Hinterland Harbor
 3 Boon Satyr
 3 Cragcrown Pathway
 3 Vivien, Arkbow Ranger
-3 Hinterland Harbor
 3 Reduce / Rubble
 4 Shivan Reef
+4 Hinterland Harbor
 4 Boon Satyr
 4 Cragcrown Pathway
-4 Hinterland Harbor
 1 Glasspool Mimic
 1 Hengegate Pathway
 1 Militia Bugler
@@ -149,21 +149,21 @@
 1 Oketra's Monument
 1 Botanical Sanctum
 2 Hengegate Pathway
-2 Glasspool Mimic
 2 Militia Bugler
+2 Glasspool Mimic
 2 Botanical Sanctum
 2 Selfless Spirit
 2 Hallowed Fountain
 2 Oketra's Monument
 3 Selfless Spirit
-3 Hengegate Pathway
 3 Hallowed Fountain
 3 Oketra's Monument
 3 Militia Bugler
 3 Botanical Sanctum
+3 Hengegate Pathway
+4 Hengegate Pathway
 4 Selfless Spirit
 4 Charming Prince
-4 Hengegate Pathway
 4 Skyclave Apparition
 4 Militia Bugler
 4 Oketra's Monument
@@ -177,22 +177,22 @@
 1 Hydroid Krasis
 1 Nissa, Who Shakes the World
 1 Rootbound Crag
-1 Alrund's Epiphany
 1 Steam Vents
 1 Vorinclex, Monstrous Raider
+1 Alrund's Epiphany
 1 Island
 1 Edgewall Innkeeper
 1 Brazen Borrower
 2 Brazen Borrower
 2 Nissa, Who Shakes the World
-2 Ketria Triome
 2 The Great Henge
 2 Hydroid Krasis
-2 Alrund's Epiphany
 2 Rootbound Crag
 2 Mountain
 2 Steam Vents
 2 Edgewall Innkeeper
+2 Alrund's Epiphany
+2 Ketria Triome
 3 Nissa, Who Shakes the World
 3 Rootbound Crag
 3 Brazen Borrower
@@ -214,13 +214,13 @@
 3 Sacred Foundry
 4 Sacred Foundry
 1 Isolated Chapel
+1 Savai Triome
 1 Blood Crypt
 1 Elspeth, Sun's Champion
 1 Sorin, Solemn Visitor
 1 Shambling Vent
 1 Valki, God of Lies
 1 Magmatic Channeler
-1 Savai Triome
 1 Dreadbore
 1 Crackling Doom
 1 Seraph of the Scales
@@ -231,9 +231,9 @@
 1 Utter End
 1 Dragonskull Summit
 2 Blood Crypt
+2 Savai Triome
 2 Isolated Chapel
 2 Shambling Vent
-2 Savai Triome
 2 Magmatic Channeler
 2 Gideon, Ally of Zendikar
 2 Heartless Act
@@ -281,18 +281,18 @@
 4 Call of the Conclave
 4 Esika's Chariot
 4 Starnheim Unleashed
+1 Knight of Autumn
 1 Rhonas the Indomitable
 1 Archangel Avacyn
-1 Knight of Autumn
 1 Dromoka's Command
 1 Steel Leaf Champion
 1 Temple of Plenty
+2 Sunpetal Grove
 2 Rhonas the Indomitable
-2 Knight of Autumn
 2 Dromoka's Command
+2 Knight of Autumn
 2 Steel Leaf Champion
 2 Temple of Plenty
-2 Sunpetal Grove
 3 Steel Leaf Champion
 3 Sunpetal Grove
 3 Knight of Autumn

@@ -28,8 +28,8 @@
 1 Llanowar Visionary
 2 Elderfang Disciple
 2 Llanowar Visionary
-3 Elderfang Disciple
 3 Llanowar Visionary
+3 Elderfang Disciple
 4 Llanowar Visionary
 4 Elderfang Disciple
 1 Boreal Outrider
@@ -110,8 +110,8 @@
 2 Wilt
 1 Trail of Crumbs
 1 Gilded Goose
-1 Wicked Wolf
 1 Agadeem's Awakening
+1 Wicked Wolf
 1 Turntimber Symbiosis
 2 Trail of Crumbs
 2 Gilded Goose
@@ -125,8 +125,6 @@
 3 Eliminate
 4 Gilded Goose
 4 Wicked Wolf
-3 Toski, Bearer of Secrets
-4 Toski, Bearer of Secrets
 1 Aphemia, the Cacophony
 1 Esika's Chariot
 1 Garruk, Cursed Huntsman
@@ -139,19 +137,19 @@
 2 Esika's Chariot
 2 Aphemia, the Cacophony
 2 Malakir Rebirth
+2 Elspeth's Nightmare
 2 Setessan Champion
 2 Hateful Eidolon
 2 Mire's Grasp
-2 Elspeth's Nightmare
 2 Mogis's Favor
 2 Dead Weight
 3 Malakir Rebirth
+3 Chevill, Bane of Monsters
 3 Castle Locthwain
 3 Mire's Grasp
 3 Hateful Eidolon
 3 Setessan Champion
 3 Mogis's Favor
-3 Chevill, Bane of Monsters
 3 Dead Weight
 4 Malakir Rebirth
 4 Chevill, Bane of Monsters
@@ -177,6 +175,30 @@
 2 Thornmantle Striker
 2 Skemfar Shadowsage
 4 Boreal Outrider
+3 Toski, Bearer of Secrets
+4 Toski, Bearer of Secrets
+1 Bonders' Enclave
+1 Castle Garenbrig
+1 Stonecoil Serpent
+1 Ashaya, Soul of the Wild
+1 Snakeskin Veil
+1 Garruk, Unleashed
+1 Skyclave Shade
+1 Primal Might
+1 Tangled Florahedron
+1 Swarm Shambler
+2 Castle Garenbrig
+2 Stonecoil Serpent
+2 Primal Might
+2 Snakeskin Veil
+2 Skyclave Shade
+2 Tangled Florahedron
+2 Swarm Shambler
+3 Stonecoil Serpent
+3 Castle Garenbrig
+4 Stonecoil Serpent
+4 Gemrazer
+10 Forest
 1 Realmwalker
 1 Masked Vandal
 1 Wolfwillow Haven
@@ -184,40 +206,18 @@
 3 Wolfwillow Haven
 9 Snow-Covered Forest
 10 Snow-Covered Swamp
-1 Bonders' Enclave
-1 Castle Garenbrig
-1 Stonecoil Serpent
-1 Ashaya, Soul of the Wild
-1 Snakeskin Veil
-1 Tangled Florahedron
-1 Garruk, Unleashed
-1 Skyclave Shade
-1 Primal Might
-1 Swarm Shambler
-2 Castle Garenbrig
-2 Stonecoil Serpent
-2 Primal Might
-2 Tangled Florahedron
-2 Snakeskin Veil
-2 Skyclave Shade
-2 Swarm Shambler
-3 Stonecoil Serpent
-3 Castle Garenbrig
-4 Stonecoil Serpent
-4 Gemrazer
-10 Forest
 1 Egon, God of Death
 1 Call of the Death-Dweller
 1 Hooded Blightfang
-1 Mire Triton
 1 Moss Viper
 1 The Binding of the Titans
+1 Mire Triton
 2 Egon, God of Death
 2 Hooded Blightfang
-2 Mire Triton
 2 Moss Viper
 2 The Binding of the Titans
 2 Call of the Death-Dweller
+2 Mire Triton
 3 Mire Triton
 3 The Binding of the Titans
 3 Moss Viper
