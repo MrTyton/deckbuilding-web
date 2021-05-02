@@ -74,6 +74,6 @@
 |                    1|[World Breaker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407636)            |                    1|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)          |
 |                    2|[Blast Zone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461171)               |                    2|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)          |
 |                    4|[Thragtusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614)                |                    3|[Thragtusk](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430614)                    |
-|                     |                                                                                                    |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)          |
 |                     |                                                                                                    |                    4|[Nature's Claim](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=382316)               |
+|                     |                                                                                                    |                    3|[Surgical Extraction](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397706)          |
 

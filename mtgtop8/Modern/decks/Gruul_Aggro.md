@@ -71,6 +71,6 @@
 |                    4|[Game Trail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410044)        |                     |                                                                                         |
 |                    4|[Rancor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442175)            |                     |                                                                                         |
 |                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)          |                     |                                                                                         |
-|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                     |                                                                                         |
 |                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                     |                                                                                         |
+|                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                     |                                                                                         |
 

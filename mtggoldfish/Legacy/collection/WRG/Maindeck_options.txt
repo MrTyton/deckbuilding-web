@@ -1,29 +1,29 @@
+2 Bayou
 1 Tireless Tracker
 1 Qasali Pridemage
-2 Sylvan Library
 1 Wooded Foothills
-1 Punishing Fire
-1 Grove of the Burnwillows
-2 Grove of the Burnwillows
-2 Punishing Fire
-1 Plateau
 2 Wooded Foothills
+1 Plateau
+1 Grove of the Burnwillows
+1 Punishing Fire
+2 Punishing Fire
+2 Grove of the Burnwillows
 1 Scryb Ranger
 3 Birds of Paradise
 4 Birds of Paradise
-3 Grove of the Burnwillows
 3 Punishing Fire
+3 Grove of the Burnwillows
+3 Wooded Foothills
 1 Skyclave Apparition
 2 Skyclave Apparition
 1 Abrupt Decay
 2 Abrupt Decay
 4 Verdant Catacombs
-3 Wooded Foothills
 1 Once Upon a Time
 2 Once Upon a Time
-1 Sanctum Prelate
 3 Once Upon a Time
 1 Elvish Reclaimer
+1 Sanctum Prelate
 1 Mother of Runes
 2 Mother of Runes
 3 Mother of Runes
@@ -35,35 +35,52 @@
 1 Dark Depths
 1 Thespian's Stage
 3 Stoneforge Mystic
+1 Snow-Covered Forest
+1 Misty Rainforest
 1 Titania, Protector of Argoth
+3 Sylvan Library
 3 Savannah
 1 Kaya, Orzhov Usurper
 1 Snow-Covered Plains
-1 Snow-Covered Forest
-1 Misty Rainforest
-1 Tarmogoyf
-3 Sylvan Library
-2 Plains
+1 Bojuka Bog
+2 Elvish Reclaimer
+3 Elvish Reclaimer
+1 Lightning Bolt
+2 Snow-Covered Forest
+1 Tropical Island
 1 Field of the Dead
 1 Primeval Titan
+2 Lightning Bolt
+3 Lightning Bolt
+4 Wooded Foothills
+4 Lightning Bolt
+1 Tarmogoyf
+2 Plains
+1 Elite Spellbinder
+1 Oath of Nissa
+1 Teferi, Time Raveler
+2 Hexdrinker
+2 Oath of Nissa
+2 Elite Spellbinder
+2 Teferi, Time Raveler
+3 Elite Spellbinder
+3 Hexdrinker
+3 Oath of Nissa
+4 Noble Hierarch
+1 Ancient Tomb
 1 Valakut, the Molten Pinnacle
 1 Dryad of the Ilysian Grove
-1 Bojuka Bog
 1 Flagstones of Trokair
-2 Elvish Reclaimer
 2 Dryad of the Ilysian Grove
-3 Elvish Reclaimer
 3 Dryad of the Ilysian Grove
 4 Elvish Reclaimer
-2 Snow-Covered Forest
 1 Dark Confidant
 2 Dark Confidant
+1 Cavern of Souls
 1 Vraska, Golgari Queen
 1 Toski, Bearer of Secrets
 1 The Tabernacle at Pendrell Vale
 1 Arasta of the Endless Web
-1 Cavern of Souls
-1 Ancient Tomb
 1 Courser of Kruphix
 2 Primeval Titan
 2 Valakut, the Molten Pinnacle
@@ -71,9 +88,14 @@
 3 Skyclave Apparition
 4 Dryad of the Ilysian Grove
 1 Shadowspear
-1 Lightning Bolt
 1 Nurturing Peatland
 2 Kaya, Orzhov Usurper
+1 Sevinne's Reclamation
+1 Uro, Titan of Nature's Wrath
+2 Sevinne's Reclamation
+2 Tropical Island
+2 Ancient Tomb
+3 Teferi, Time Raveler
 1 Vesuva
 1 Yasharn, Implacable Earth
 1 Temple Garden
@@ -83,11 +105,9 @@
 3 Flagstones of Trokair
 3 Forest
 1 Godless Shrine
-4 Noble Hierarch
 4 Stoneforge Mystic
 1 Waterlogged Grove
 1 Hullbreacher
-1 Tropical Island
 1 Ice-Fang Coatl
 1 Snow-Covered Island
 1 Tundra
@@ -99,13 +119,42 @@
 3 Misty Rainforest
 4 Hullbreacher
 4 Misty Rainforest
+1 Eternal Witness
+1 Sheltered Thicket
+1 Mountain
+1 Inferno Titan
+1 Veteran Explorer
+1 Phyrexian Tower
+1 Fierce Empath
+1 Snow-Covered Mountain
+1 Bayou Groff
+1 Sneak Attack
+1 Greater Gargadon
+1 Scalding Tarn
+1 Emrakul, the Aeons Torn
+1 Cinder Glade
+1 Reclamation Sage
+1 Rootbound Crag
+2 Snow-Covered Mountain
+2 Veteran Explorer
+2 Mountain
+2 Greater Gargadon
+2 Bayou Groff
+2 Sneak Attack
+3 Snow-Covered Forest
+3 Bayou Groff
+3 Sneak Attack
+3 Veteran Explorer
+4 Bayou Groff
+4 Veteran Explorer
+4 Sneak Attack
 1 Swamp
 1 Reverent Silence
 1 Thoughtseize
-1 Sylvan Safekeeper
 1 Inquisition of Kozilek
 1 Skyshroud Cutter
 1 Kavu Predator
+1 Sylvan Safekeeper
 1 False Cure
 1 Invigorate
 2 Swamp
@@ -118,14 +167,14 @@
 2 Invigorate
 3 Dark Confidant
 3 Bayou
-3 Kavu Predator
 3 Invigorate
 3 Skyshroud Cutter
 3 Thoughtseize
 3 False Cure
+3 Kavu Predator
 4 Dark Confidant
-4 Invigorate
 4 False Cure
 4 Bayou
 4 Kavu Predator
 4 Skyshroud Cutter
+4 Invigorate

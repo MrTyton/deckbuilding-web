@@ -7,15 +7,15 @@
 2 Galazeth Prismari
 1 Essence Scatter
 1 Mystical Dispute
-3 Shatterskull Smashing
-3 Galazeth Prismari
-4 Magma Opus
 1 Expressive Iteration
 2 Expressive Iteration
-2 Mystical Dispute
 3 Expressive Iteration
-4 Faceless Haven
 4 Expressive Iteration
+3 Galazeth Prismari
+4 Magma Opus
+3 Shatterskull Smashing
+2 Mystical Dispute
+4 Faceless Haven
 3 Shark Typhoon
 4 Shark Typhoon
 2 Essence Scatter
@@ -26,11 +26,11 @@
 2 Cosmos Charger
 3 Cosmos Charger
 6 Snow-Covered Mountain
-8 Snow-Covered Island
+2 Fire Prophecy
 1 Prismari Command
 1 Jwari Disruption
+8 Snow-Covered Island
 1 Castle Vantress
-2 Fire Prophecy
 1 Temple of Epiphany
 2 Temple of Epiphany
 3 Temple of Epiphany
@@ -57,19 +57,18 @@
 10 Snow-Covered Island
 1 Opt
 2 Opt
+1 Seize the Spoils
+2 Seize the Spoils
+3 Seize the Spoils
+4 Seize the Spoils
 1 Creative Outburst
-1 Sprite Dragon
-2 Sprite Dragon
-3 Sprite Dragon
-1 Frantic Inventory
-1 Swiftwater Cliffs
-1 The Royal Scions
-2 Swiftwater Cliffs
-2 Frantic Inventory
-3 Frantic Inventory
-4 Frantic Inventory
-7 Snow-Covered Mountain
-8 Snow-Covered Mountain
+3 Negate
+1 Experimental Overload
+1 Blitz of the Thunder-Raptor
+1 Cinderclasm
+2 Blitz of the Thunder-Raptor
+2 Experimental Overload
+3 Blitz of the Thunder-Raptor
 1 Raugrin Triome
 1 Soul Sear
 1 Needleverge Pathway
@@ -108,13 +107,15 @@
 1 Sublime Epiphany
 1 Castle Embereth
 1 Reflections of Littjara
+1 Sprite Dragon
 2 Sublime Epiphany
 2 Invasion of the Giants
+2 Sprite Dragon
 2 Terror of the Peaks
 2 Reflections of Littjara
 3 Invasion of the Giants
-3 Negate
 3 Reflections of Littjara
+3 Sprite Dragon
 3 Essence Scatter
 3 Terror of the Peaks
 3 Opt
@@ -123,56 +124,52 @@
 2 Glimpse the Cosmos
 1 Reject
 2 Reject
-1 Mystic Sanctuary
-1 Elemental Masterpiece
-1 Shipwreck Dowser
-1 Teferi, Master of Time
-1 Cinderclasm
-1 Experimental Overload
-1 Blitz of the Thunder-Raptor
-1 Practical Research
-2 Elemental Masterpiece
-2 Cinderclasm
-2 Blitz of the Thunder-Raptor
-2 Experimental Overload
-3 Blitz of the Thunder-Raptor
 1 Crawling Barrens
 1 Neutralize
 1 Storm's Wrath
-1 Seize the Spoils
 2 Storm's Wrath
-2 Seize the Spoils
 3 Double Vision
-3 Seize the Spoils
-4 Seize the Spoils
-1 Improbable Alliance
-1 Faerie Vandal
-1 Lofty Denial
-1 Aegar, the Freezing Flame
-1 Windrider Wizard
-1 Demon Bolt
-1 Scorching Dragonfire
-1 Reconnaissance Mission
-1 Goblin Wizardry
-1 Stormwing Entity
-2 Improbable Alliance
-2 Faerie Vandal
-2 Lofty Denial
-2 Aegar, the Freezing Flame
-2 Demon Bolt
-2 Scorching Dragonfire
-3 Improbable Alliance
-3 Scorching Dragonfire
-3 Faerie Vandal
-3 Lofty Denial
-3 Swiftwater Cliffs
-4 Improbable Alliance
-4 Swiftwater Cliffs
-4 Sprite Dragon
+1 Dual Strike
+1 Silundi Vision
+1 Kazuul's Fury
+1 Cathartic Reunion
+1 Spikefield Hazard
+2 Silundi Vision
+2 Dual Strike
+2 Kazuul's Fury
+2 Spikefield Hazard
+2 Cathartic Reunion
+3 Spikefield Hazard
+3 Dual Strike
+3 Kazuul's Fury
+3 Cathartic Reunion
+3 Experimental Overload
+4 Spikefield Hazard
+4 Kazuul's Fury
+4 Cathartic Reunion
+4 Experimental Overload
+4 Blitz of the Thunder-Raptor
+4 Dual Strike
+1 Mystic Sanctuary
+1 Teferi, Master of Time
+1 Frantic Inventory
+1 Shipwreck Dowser
+1 Swiftwater Cliffs
+1 Elemental Masterpiece
+1 The Royal Scions
+1 Practical Research
+2 Swiftwater Cliffs
+2 Frantic Inventory
+2 Cinderclasm
+2 Elemental Masterpiece
+3 Frantic Inventory
+4 Frantic Inventory
+7 Snow-Covered Mountain
+8 Snow-Covered Mountain
 1 Torrent Sculptor
 1 Draconic Intervention
-2 Torrent Sculptor
 2 Creative Outburst
+2 Torrent Sculptor
 2 Draconic Intervention
 3 Torrent Sculptor
 3 Draconic Intervention

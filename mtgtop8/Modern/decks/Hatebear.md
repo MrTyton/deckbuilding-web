@@ -1,7 +1,7 @@
 # Hatebear
 
 #### [Export MTGO List](../collection/Hatebear/Hatebear.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A3%09Archon%20of%20Emeria%0A1%09Batterskull%0A1%09Eiganjo%20Castle%0A4%09Field%20of%20Ruin%0A3%09Flickerwisp%0A4%09Ghost%20Quarter%0A4%09Giver%20of%20Runes%0A4%09Leonin%20Arbiter%0A1%09Maul%20of%20the%20Skyclaves%0A4%09Path%20to%20Exile%0A11%09Plains%0A3%09Silent%20Clearing%0A4%09Skyclave%20Apparition%0A4%09Stoneforge%20Mystic%0A1%09Sword%20of%20Fire%20and%20Ice%0A4%09Thalia,%20Guardian%20of%20Thraben&deckside=3%09Auriok%20Champion%0A2%09Aven%20Mindcensor%0A3%09Kor%20Firewalker%0A2%09Phyrexian%20Revoker%0A3%09Rest%20in%20Peace%0A2%09Winds%20of%20Abandon)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Aether%20Vial%0A3%09Archon%20of%20Emeria%0A1%09Batterskull%0A1%09Eiganjo%20Castle%0A4%09Field%20of%20Ruin%0A3%09Flickerwisp%0A4%09Ghost%20Quarter%0A4%09Giver%20of%20Runes%0A4%09Leonin%20Arbiter%0A1%09Maul%20of%20the%20Skyclaves%0A4%09Path%20to%20Exile%0A11%09Plains%0A3%09Silent%20Clearing%0A4%09Skyclave%20Apparition%0A4%09Stoneforge%20Mystic%0A1%09Sword%20of%20Fire%20and%20Ice%0A4%09Thalia,%20Guardian%20of%20Thraben&deckside=3%09Auriok%20Champion%0A3%09Aven%20Mindcensor%0A3%09Kor%20Firewalker%0A2%09Phyrexian%20Revoker%0A2%09Rest%20in%20Peace%0A2%09Winds%20of%20Abandon)
 # Maindeck
 
 |                                           Artifact (7)                                           |                                             Creature (26)                                              |                                       Instant (4)                                        |                                         Land (23)                                          |
@@ -17,10 +17,10 @@
 
 # Sideboard
 
-|                                        Creature (10)                                         |                                     Enchantment (3)                                      |                                         Sorcery (2)                                         |
+|                                        Creature (11)                                         |                                     Enchantment (2)                                      |                                         Sorcery (2)                                         |
 |----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-|3 [Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)   |3 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|2 [Winds of Abandon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463986)|
-|2 [Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)  |                                                                                          |                                                                                             |
+|3 [Auriok Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=72921)   |2 [Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)|2 [Winds of Abandon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463986)|
+|3 [Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)  |                                                                                          |                                                                                             |
 |3 [Kor Firewalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442010)   |                                                                                          |                                                                                             |
 |2 [Phyrexian Revoker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383343)|                                                                                          |                                                                                             |
 
@@ -29,7 +29,7 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                           |*n*<sup>th</sup> copy|                                           Sideboard Card                                           |
 |--------------------:|--------------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------------|
-|                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)    |                    3|[Aven Mindcensor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426707)          |
+|                    1|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)    |                    3|[Rest in Peace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442021)            |
 |                    2|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)    |                    1|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)      |
 |                    4|[Silent Clearing](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464195)        |                    2|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)      |
 |                    3|[Snow-Covered Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121267)    |                    3|[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174931)      |

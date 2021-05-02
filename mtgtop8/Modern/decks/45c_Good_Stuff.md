@@ -49,8 +49,8 @@
 |                    3|[Teferi, Time Raveler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=461148) |                     |              |
 |                    3|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)     |                     |              |
 |                    3|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)  |                     |              |
-|                    3|[Spreading Seas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190405)       |                     |              |
 |                    3|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)      |                     |              |
+|                    3|[Spreading Seas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190405)       |                     |              |
 |                    3|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)     |                     |              |
 |                    3|[Abundant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240017)      |                     |              |
 |                    3|[Enigmatic Incarnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476466)|                     |              |
@@ -59,8 +59,8 @@
 |                    4|[Skyclave Apparition](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=495603)  |                     |              |
 |                    4|[Utopia Sprawl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442181)        |                     |              |
 |                    4|[Windswept Heath](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405115)      |                     |              |
-|                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)     |                     |              |
 |                    4|[Spreading Seas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190405)       |                     |              |
+|                    4|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)     |                     |              |
 |                    4|[Abundant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=240017)      |                     |              |
 |                    4|[Misty Rainforest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405102)     |                     |              |
 |                    4|[Enigmatic Incarnation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476466)|                     |              |
