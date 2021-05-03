@@ -1,72 +1,55 @@
-1 Polukranos, Unchained
-1 Cultivate
-1 Mystical Dispute
-1 Elspeth's Nightmare
-1 Jwari Disruption
+2 Eliminate
 2 Extinction Event
+2 Temple of Malady
+1 Cultivate
+1 Polukranos, Unchained
+1 Mystical Dispute
+1 Jwari Disruption
 2 Cultivate
 3 Cultivate
-1 Professor Onyx
 1 Elder Gargaroth
 1 Vorinclex, Monstrous Raider
+4 Heartless Act
+1 Professor Onyx
 2 Jwari Disruption
 4 Cultivate
 1 Quandrix Cultivator
-4 Heartless Act
-2 Eliminate
-2 Mystical Dispute
-2 Quandrix Cultivator
-3 Shadows' Verdict
-3 Temple of Malady
 3 Swamp
-2 Elder Gargaroth
-1 Esika's Chariot
+2 Mystical Dispute
+3 Shadows' Verdict
 2 Elspeth's Nightmare
 1 Negate
+2 Quandrix Cultivator
+1 Esika's Chariot
+3 Temple of Malady
+2 Elder Gargaroth
 1 Yorion, Sky Nomad
 3 Eliminate
 1 Pelakka Predation
 4 Forest
-1 Shark Typhoon
-1 Eureka Moment
-2 Eureka Moment
 3 Alrund's Epiphany
 3 Mystical Dispute
+1 Shark Typhoon
 3 Quandrix Cultivator
 4 Quandrix Cultivator
 1 Mazemind Tome
+2 Mazemind Tome
 3 Elspeth's Nightmare
 4 Swamp
 3 Extinction Event
 4 Temple of Malady
-1 Test of Talents
+4 Island
+3 Jwari Disruption
 1 Temple of Mystery
 2 Polukranos, Unchained
 1 Koma, Cosmos Serpent
-4 Island
-2 Mazemind Tome
-4 Extinction Event
-1 Behold the Multiverse
-2 Behold the Multiverse
+2 Negate
 2 Shark Typhoon
 3 Shark Typhoon
-2 Esika's Chariot
-3 Jwari Disruption
-1 Baleful Mastery
-1 Saw It Coming
-3 Elder Gargaroth
-1 Solve the Equation
-1 Bloodchief's Thirst
-2 Koma, Cosmos Serpent
-2 Negate
-1 Essence Scatter
-1 Temple of Deceit
-2 Temple of Deceit
-1 Cling to Dust
-2 Cling to Dust
+4 Extinction Event
 1 Rain of Revelation
-1 Thirst for Meaning
 1 Curate
+1 Thirst for Meaning
 1 Titans' Nest
 1 Strategic Planning
 2 Rain of Revelation
@@ -82,6 +65,23 @@
 4 Titans' Nest
 4 Alrund's Epiphany
 4 Strategic Planning
+1 Eureka Moment
+2 Eureka Moment
+1 Behold the Multiverse
+2 Behold the Multiverse
+1 Baleful Mastery
+1 Saw It Coming
+3 Elder Gargaroth
+1 Solve the Equation
+1 Test of Talents
+1 Bloodchief's Thirst
+2 Koma, Cosmos Serpent
+1 Essence Scatter
+1 Temple of Deceit
+2 Temple of Deceit
+1 Cling to Dust
+2 Cling to Dust
+1 Lash of Malice
 1 Witherbloom Command
 1 Kaervek, the Spiteful
 1 Go Blank
@@ -90,11 +90,12 @@
 2 Temple of Mystery
 2 Yorion, Sky Nomad
 4 Jwari Disruption
-1 Blex, Vexing Pest
 1 Bala Ged Recovery
 1 Disdainful Stroke
 1 Flunk
 2 Saw It Coming
+1 Soul Shatter
+2 Ketria Triome
 2 Baleful Mastery
 3 Baleful Mastery
 1 Migration Path
@@ -108,6 +109,7 @@
 2 Tangled Florahedron
 3 Tangled Florahedron
 4 Tangled Florahedron
+2 Esika's Chariot
 4 Eliminate
 4 Elder Gargaroth
 1 Ugin, the Spirit Dragon
@@ -117,11 +119,11 @@
 1 Neutralize
 1 Atris, Oracle of Half-Truths
 2 Crawling Barrens
+2 Ashiok, Nightmare Muse
 2 Neutralize
 2 Essence Scatter
 2 Ugin, the Spirit Dragon
 2 Atris, Oracle of Half-Truths
-2 Ashiok, Nightmare Muse
 3 Temple of Deceit
 3 Ugin, the Spirit Dragon
 3 Mazemind Tome
@@ -130,11 +132,10 @@
 3 Atris, Oracle of Half-Truths
 4 Mazemind Tome
 4 Temple of Deceit
-5 Swamp
 5 Island
+5 Swamp
 6 Island
 1 Teferi, Master of Time
-1 Lash of Malice
 1 Snow-Covered Island
 1 Quandrix Campus
 1 Reject
@@ -150,31 +151,31 @@
 1 Pestilent Haze
 2 Snow-Covered Island
 2 Reject
-2 Quandrix Campus
-2 Mortality Spear
 2 Poison the Cup
 2 Witherbloom Campus
 2 Snow-Covered Swamp
-2 Narfi, Betrayer King
 2 Ice Tunnel
+2 Narfi, Betrayer King
 2 Snow-Covered Forest
+2 Mortality Spear
 2 Sarulf's Packmate
 2 Frantic Inventory
+2 Quandrix Campus
 2 Pestilent Haze
 3 Snow-Covered Island
 3 Eureka Moment
-3 Pestilent Haze
-3 Quandrix Campus
-3 Mortality Spear
 3 Behold the Multiverse
+3 Mortality Spear
 3 Poison the Cup
 3 Witherbloom Campus
 3 Ice Tunnel
-3 Snow-Covered Swamp
 3 Reject
+3 Snow-Covered Swamp
 3 Snow-Covered Forest
 3 Sarulf's Packmate
 3 Frantic Inventory
+3 Pestilent Haze
+3 Quandrix Campus
 4 Eureka Moment
 4 Mortality Spear
 4 Snow-Covered Swamp

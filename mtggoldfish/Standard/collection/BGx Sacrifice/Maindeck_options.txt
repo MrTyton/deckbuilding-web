@@ -1,23 +1,23 @@
 3 Swamp
-1 Sedgemoor Witch
 4 Swamp
-2 Sedgemoor Witch
-3 Sedgemoor Witch
+1 Sedgemoor Witch
 5 Swamp
+2 Sedgemoor Witch
+6 Swamp
 1 Forest
 2 Forest
 3 Forest
+3 Sedgemoor Witch
 4 Sedgemoor Witch
-6 Swamp
 7 Swamp
-1 Darkbore Pathway
-2 Darkbore Pathway
 4 Forest
 4 Hunt for Specimens
-3 Darkbore Pathway
+1 Darkbore Pathway
+2 Darkbore Pathway
 1 Witherbloom Apprentice
 2 Witherbloom Apprentice
 3 Witherbloom Apprentice
+3 Darkbore Pathway
 4 Darkbore Pathway
 5 Forest
 8 Swamp
@@ -27,97 +27,76 @@
 2 Lovestruck Beast
 3 Lovestruck Beast
 4 Witherbloom Apprentice
-3 Woe Strider
 1 Necroblossom Snarl
 2 Necroblossom Snarl
 4 Lovestruck Beast
-1 Castle Locthwain
 1 Valentin, Dean of the Vein
 7 Forest
-1 Temple of Malady
-2 Temple of Malady
+3 Woe Strider
 2 Valentin, Dean of the Vein
 3 Valentin, Dean of the Vein
-1 Agadeem's Awakening
+1 Castle Locthwain
 4 Valentin, Dean of the Vein
+1 Temple of Malady
+2 Temple of Malady
+3 Serrated Scorpion
 1 Dina, Soul Steeper
 2 Dina, Soul Steeper
-3 Serrated Scorpion
+4 Extus, Oriq Overlord
 1 Mortality Spear
 4 Serrated Scorpion
-4 Extus, Oriq Overlord
+1 Agadeem's Awakening
+1 Kazuul's Fury
+2 Castle Locthwain
+2 Mortality Spear
+1 Tend the Pests
+2 Tend the Pests
+1 Bloodchief's Thirst
+2 Bloodchief's Thirst
+1 Vito, Thorn of the Dusk Rose
+3 Kroxa, Titan of Death's Hunger
+1 Cragcrown Pathway
+1 Deadly Brew
+2 Deadly Brew
+2 Cragcrown Pathway
+3 Cragcrown Pathway
+4 Cragcrown Pathway
+3 Fabled Passage
+4 Fabled Passage
+3 Necroblossom Snarl
 1 Bonecrusher Giant
 2 Bonecrusher Giant
 3 Forbidden Friendship
 3 Bonecrusher Giant
 4 Bonecrusher Giant
-3 Fabled Passage
-4 Fabled Passage
-2 Castle Locthwain
-2 Mortality Spear
-1 Tend the Pests
-2 Tend the Pests
-1 Heartless Act
-1 Bloodchief's Thirst
-2 Bloodchief's Thirst
-4 Woe Strider
-1 Vito, Thorn of the Dusk Rose
-3 Kroxa, Titan of Death's Hunger
-3 Mountain
-1 Kazuul's Fury
-1 Cragcrown Pathway
-1 Deadly Brew
-2 Cragcrown Pathway
-2 Deadly Brew
-3 Cragcrown Pathway
-4 Cragcrown Pathway
-4 Forbidden Friendship
 1 The Akroan War
 2 The Akroan War
-3 Necroblossom Snarl
-2 Heartless Act
 10 Swamp
 11 Swamp
 2 Agadeem's Awakening
+1 Heartless Act
+4 Woe Strider
 2 Vito, Thorn of the Dusk Rose
 1 Lurrus of the Dream-Den
-1 Temple of Triumph
-1 Temple of Silence
-2 Temple of Triumph
 1 Eliminate
 2 Eliminate
+2 Heartless Act
 1 Daemogoth Titan
 2 Kazuul's Fury
 2 Daemogoth Titan
+1 Temple of Triumph
+1 Temple of Silence
+2 Temple of Triumph
 3 The Akroan War
-1 Toski, Bearer of Secrets
+3 Mountain
 1 Chainweb Aracnir
+1 Toski, Bearer of Secrets
 1 Skemfar Elderhall
-2 Toski, Bearer of Secrets
 2 Chainweb Aracnir
+2 Toski, Bearer of Secrets
 2 Skemfar Elderhall
 3 Chainweb Aracnir
 3 Deadly Brew
-1 Pelakka Predation
-1 Savai Triome
-1 Callous Bloodmage
-2 Pelakka Predation
-2 Savai Triome
-2 Callous Bloodmage
-3 Savai Triome
-4 Savai Triome
-1 Baleful Mastery
-1 Gilded Goose
-1 Korvold, Fae-Cursed King
-2 Baleful Mastery
-2 Gilded Goose
-2 Korvold, Fae-Cursed King
-3 Gilded Goose
-3 Heartless Act
-3 Korvold, Fae-Cursed King
-4 Heartless Act
-4 Gilded Goose
-4 Korvold, Fae-Cursed King
 1 Professor Onyx
 1 Radiant Fountain
 1 Jaspera Sentinel
@@ -126,15 +105,24 @@
 2 Jaspera Sentinel
 3 Dina, Soul Steeper
 4 Dina, Soul Steeper
-1 The Great Henge
-1 Flunk
+1 Pelakka Predation
+1 Savai Triome
+1 Callous Bloodmage
+2 Savai Triome
+2 Pelakka Predation
+2 Callous Bloodmage
+3 Savai Triome
+4 Savai Triome
+4 Forbidden Friendship
 1 Zagoth Triome
+1 Flunk
 1 Edgewall Innkeeper
 1 Foulmire Knight
-2 The Great Henge
-2 Flunk
+1 The Great Henge
 2 Zagoth Triome
+2 Flunk
 2 Edgewall Innkeeper
+2 The Great Henge
 2 Foulmire Knight
 3 Zagoth Triome
 3 Edgewall Innkeeper
@@ -143,19 +131,19 @@
 4 Zagoth Triome
 4 Edgewall Innkeeper
 4 Foulmire Knight
-1 Malakir Rebirth
-1 Call of the Death-Dweller
-1 Archfiend's Vessel
 1 Blex, Vexing Pest
+1 Archfiend's Vessel
+1 Malakir Rebirth
 1 Daemogoth Woe-Eater
+1 Call of the Death-Dweller
 2 Archfiend's Vessel
-2 Malakir Rebirth
 2 Blex, Vexing Pest
 2 Daemogoth Woe-Eater
-3 Agadeem's Awakening
-3 Archfiend's Vessel
+2 Malakir Rebirth
 3 Mortality Spear
+3 Agadeem's Awakening
 3 Daemogoth Woe-Eater
+3 Archfiend's Vessel
 4 Mortality Spear
 8 Forest
 1 Feed the Swarm
@@ -163,22 +151,22 @@
 1 Jungle Hollow
 1 Unwilling Ingredient
 2 Jungle Hollow
+2 Feed the Swarm
 2 Unwilling Ingredient
 2 Witherbloom Campus
-2 Feed the Swarm
 3 Feed the Swarm
 3 Unwilling Ingredient
 4 Unwilling Ingredient
 4 Feed the Swarm
 12 Swamp
 13 Swamp
-1 Snow-Covered Swamp
 1 Faceless Haven
-2 Snow-Covered Swamp
+1 Snow-Covered Swamp
 2 Faceless Haven
-3 Bloodchief's Thirst
-3 Snow-Covered Swamp
+2 Snow-Covered Swamp
 3 Faceless Haven
+3 Snow-Covered Swamp
+3 Bloodchief's Thirst
 4 Snow-Covered Swamp
 4 Faceless Haven
 5 Snow-Covered Swamp

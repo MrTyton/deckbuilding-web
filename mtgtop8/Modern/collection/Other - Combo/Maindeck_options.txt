@@ -4,19 +4,19 @@
 1 Peer Through Depths
 1 Merchant Scroll
 1 Dream's Grip
+1 Sleight of Hand
 1 Past in Flames
 1 Grapeshot
 1 Psychic Puppetry
 1 Twiddle
 1 Lonely Sandbar
-1 Sleight of Hand
 1 Reach Through Mists
 1 Ideas Unbound
-1 Lotus Field
 1 Tolaria West
+1 Lotus Field
 1 Echoing Truth
-2 Twiddle
 2 Past in Flames
+2 Twiddle
 2 Lotus Field
 2 Ideas Unbound
 2 Reach Through Mists
@@ -28,17 +28,17 @@
 2 Tolaria West
 2 Island
 3 Reach Through Mists
-3 Lotus Field
 3 Peer Through Depths
 3 Past in Flames
 3 Psychic Puppetry
 3 Dream's Grip
 3 Lonely Sandbar
+3 Lotus Field
 3 Ideas Unbound
 3 Sleight of Hand
+4 Dream's Grip
 4 Psychic Puppetry
 4 Lonely Sandbar
-4 Dream's Grip
 4 Ideas Unbound
 4 Peer Through Depths
 4 Reach Through Mists
@@ -70,9 +70,9 @@
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
-1 Spikefield Hazard
-1 Irencrag Feat
 1 Bala Ged Recovery
+1 Irencrag Feat
+1 Spikefield Hazard
 1 Manamorphose
 1 Reforge the Soul
 1 Recross the Paths
@@ -92,12 +92,12 @@
 3 Valakut Awakening
 3 Irencrag Feat
 3 Spikefield Hazard
+3 Bala Ged Recovery
 3 Manamorphose
 3 Talisman of Impulse
 3 Recross the Paths
 3 Desperate Ritual
 3 Pyretic Ritual
-3 Bala Ged Recovery
 4 Valakut Awakening
 4 Irencrag Feat
 4 Spikefield Hazard
@@ -124,63 +124,63 @@
 3 Sphere of the Suns
 3 Hagra Mauling
 4 Hagra Mauling
-1 Teferi, Time Raveler
-2 Teferi, Time Raveler
-1 City of Brass
-1 Talisman of Progress
-1 Shelldock Isle
-1 Seachrome Coast
-1 Darkslick Shores
-1 Wishclaw Talisman
-1 Urborg, Tomb of Yawgmoth
-1 Gemstone Mine
-1 Reflecting Pool
-1 Inverter of Truth
-1 Angel's Grace
-1 Snow-Covered Plains
-1 Spoils of the Vault
-1 Jace, Wielder of Mysteries
-1 Phyrexian Unlife
-1 Snow-Covered Swamp
-2 Gemstone Mine
-2 Angel's Grace
-2 City of Brass
-2 Darkslick Shores
-2 Shelldock Isle
-2 Spoils of the Vault
-2 Inverter of Truth
-2 Thassa's Oracle
-2 Seachrome Coast
-2 Jace, Wielder of Mysteries
-2 Phyrexian Unlife
-3 Angel's Grace
-3 Phyrexian Unlife
-3 Spoils of the Vault
-3 Gemstone Mine
-3 City of Brass
-3 Talisman of Dominance
-3 Shelldock Isle
-3 Inverter of Truth
-3 Thassa's Oracle
-4 Angel's Grace
-4 Phyrexian Unlife
-4 Spoils of the Vault
-4 City of Brass
-4 Talisman of Dominance
-4 Gemstone Mine
-4 Shelldock Isle
-4 Thassa's Oracle
-4 Inverter of Truth
-1 Talisman of Indulgence
 1 Open the Omenpaths
+1 Talisman of Indulgence
 1 Chancellor of the Tangle
 2 Talisman of Indulgence
 2 Chancellor of the Tangle
 2 Open the Omenpaths
 3 Open the Omenpaths
 3 Talisman of Indulgence
-4 Talisman of Indulgence
 4 Open the Omenpaths
+4 Talisman of Indulgence
+1 Teferi, Time Raveler
+2 Teferi, Time Raveler
+1 City of Brass
+1 Talisman of Progress
+1 Wishclaw Talisman
+1 Shelldock Isle
+1 Jace, Wielder of Mysteries
+1 Seachrome Coast
+1 Inverter of Truth
+1 Darkslick Shores
+1 Urborg, Tomb of Yawgmoth
+1 Gemstone Mine
+1 Reflecting Pool
+1 Angel's Grace
+1 Snow-Covered Plains
+1 Spoils of the Vault
+1 Phyrexian Unlife
+1 Snow-Covered Swamp
+2 Gemstone Mine
+2 City of Brass
+2 Darkslick Shores
+2 Jace, Wielder of Mysteries
+2 Shelldock Isle
+2 Inverter of Truth
+2 Spoils of the Vault
+2 Thassa's Oracle
+2 Seachrome Coast
+2 Phyrexian Unlife
+2 Angel's Grace
+3 Shelldock Isle
+3 City of Brass
+3 Talisman of Dominance
+3 Inverter of Truth
+3 Gemstone Mine
+3 Phyrexian Unlife
+3 Angel's Grace
+3 Spoils of the Vault
+3 Thassa's Oracle
+4 City of Brass
+4 Thassa's Oracle
+4 Shelldock Isle
+4 Inverter of Truth
+4 Phyrexian Unlife
+4 Talisman of Dominance
+4 Gemstone Mine
+4 Spoils of the Vault
+4 Angel's Grace
 1 Emrakul, the Aeons Torn
 1 Wooded Foothills
 2 Emrakul, the Aeons Torn
@@ -270,15 +270,15 @@
 3 Arbor Elf
 3 Birds of Paradise
 3 Oath of Nissa
-4 Chandra, Torch of Defiance
 4 Karn, the Great Creator
+4 Chandra, Torch of Defiance
 4 Wooded Foothills
 4 Windswept Heath
 4 Utopia Sprawl
 4 Noble Hierarch
 4 Arbor Elf
-4 Lukka, Coppercoat Outcast
 4 Oath of Nissa
+4 Lukka, Coppercoat Outcast
 4 Stomping Ground
 4 Forest
 4 Birds of Paradise

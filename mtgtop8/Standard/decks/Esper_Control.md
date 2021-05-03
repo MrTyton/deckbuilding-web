@@ -96,7 +96,7 @@
 |                    3|[Golden Egg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473182)             |                     |                                                                                                 |
 |                    3|[Shark Typhoon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479587)          |                     |                                                                                                 |
 |                    3|[Dance of the Manse](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473148)     |                     |                                                                                                 |
-|                    4|[Golden Egg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473182)             |                     |                                                                                                 |
 |                    4|[Archon of Sun's Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476254)  |                     |                                                                                                 |
+|                    4|[Golden Egg](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473182)             |                     |                                                                                                 |
 |                    5|[Plains](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856)                 |                     |                                                                                                 |
 

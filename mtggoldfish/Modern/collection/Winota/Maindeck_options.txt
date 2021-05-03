@@ -17,16 +17,16 @@
 2 Sunbaked Canyon
 3 Sacred Foundry
 3 Leonin Arbiter
+3 Needleverge Pathway
 3 Plains
 3 Giver of Runes
-3 Needleverge Pathway
 3 Sunbaked Canyon
 4 Leonin Arbiter
+4 Needleverge Pathway
 4 Sacred Foundry
 4 Plains
 4 Sunbaked Canyon
 4 Giver of Runes
-4 Needleverge Pathway
 5 Plains
 2 Pia and Kiran Nalaar
 2 Thalia, Guardian of Thraben
@@ -80,8 +80,8 @@
 4 Llanowar Elves
 1 Embercleave
 2 Mountain
-1 Resolute Blademaster
 1 Snow-Covered Plains
+1 Resolute Blademaster
 1 Rugged Prairie
 2 Rugged Prairie
 1 Horizon Canopy
@@ -97,40 +97,40 @@
 3 Godo, Bandit Warlord
 4 Godo, Bandit Warlord
 1 Reflecting Pool
-1 Blade Splicer
-1 Kitesail Freebooter
+1 Flooded Strand
 1 Island
-1 Meddling Mage
+1 Hallowed Fountain
+1 Blade Splicer
 1 Ancient Ziggurat
+1 Kitesail Freebooter
 1 Thalia's Lieutenant
 1 Mantis Rider
-1 Hallowed Fountain
 1 Noble Hierarch
 1 Champion of the Parish
 1 Alirios, Enraptured
 1 Avacyn's Pilgrim
 1 Unclaimed Territory
-1 Flooded Strand
+1 Meddling Mage
 2 Reflecting Pool
-2 Kitesail Freebooter
-2 Meddling Mage
+2 Flooded Strand
 2 Ancient Ziggurat
 2 Noble Hierarch
 2 Avacyn's Pilgrim
 2 Blade Splicer
+2 Meddling Mage
 2 Mantis Rider
 2 Thalia's Lieutenant
 2 Alirios, Enraptured
 2 Champion of the Parish
 2 Unclaimed Territory
-2 Flooded Strand
+2 Kitesail Freebooter
+3 Flooded Strand
 3 Reflecting Pool
 3 Charming Prince
 3 Blade Splicer
 3 Champion of the Parish
 3 Cavern of Souls
 3 Meddling Mage
-3 Flooded Strand
 3 Mantis Rider
 3 Ancient Ziggurat
 3 Kitesail Freebooter
@@ -177,8 +177,8 @@
 3 Magus of the Moon
 3 Huntmaster of the Fells
 3 Utopia Sprawl
-4 Goblin Rabblemaster
 4 Forest
+4 Goblin Rabblemaster
 4 Magus of the Moon
 4 Huntmaster of the Fells
 5 Forest

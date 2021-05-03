@@ -30,10 +30,10 @@
 3 Daze
 1 Underground Sea
 1 Swamp
-1 Eliminate
-1 Cling to Dust
 1 Fatal Push
+1 Eliminate
 1 Changeling Outcast
+1 Cling to Dust
 1 Ornithopter
 1 Yuriko, the Tiger's Shadow
 1 Ingenious Infiltrator
@@ -72,8 +72,8 @@
 4 Force of Negation
 1 Bloodstained Mire
 1 Baleful Strix
-1 Teferi, Hero of Dominaria
 1 Detention Sphere
+1 Teferi, Hero of Dominaria
 1 Predict
 2 Council's Judgment
 3 Day's Undoing
@@ -115,19 +115,19 @@
 1 Crucible of Worlds
 3 Supreme Verdict
 3 Court of Cunning
+1 Bayou
+1 Verdant Catacombs
+1 Mox Diamond
 1 Tranquil Thicket
 1 Tropical Island
 1 Snow-Covered Forest
 1 Uro, Titan of Nature's Wrath
-1 Abrupt Decay
-1 Lonely Sandbar
 1 Field of the Dead
+1 Lonely Sandbar
 1 Life from the Loam
-1 Mox Diamond
-1 Bayou
 1 Bojuka Bog
 1 Savannah
-1 Verdant Catacombs
+1 Abrupt Decay
 1 Crop Rotation
 1 Forest
 2 Mox Diamond
@@ -136,19 +136,18 @@
 2 Uro, Titan of Nature's Wrath
 2 Abrupt Decay
 3 Mox Diamond
-3 Wasteland
 3 Abrupt Decay
+3 Wasteland
 3 Uro, Titan of Nature's Wrath
 3 Life from the Loam
 3 Misty Rainforest
 4 Uro, Titan of Nature's Wrath
 4 Mox Diamond
 4 Abrupt Decay
-4 Wasteland
 4 Misty Rainforest
+4 Wasteland
 1 Sea Gate Restoration
 1 Glasspool Mimic
-1 Mutavault
 1 Cavern of Souls
 1 True-Name Nemesis
 1 Aether Vial
@@ -156,26 +155,27 @@
 1 Master of the Pearl Trident
 1 Chrome Mox
 1 Lord of Atlantis
+1 Mutavault
 2 Glasspool Mimic
+2 Cavern of Souls
 2 Sea Gate Restoration
 2 True-Name Nemesis
-2 Mutavault
 2 Aether Vial
 2 Master of the Pearl Trident
 2 Lord of Atlantis
 2 Silvergill Adept
 2 Chrome Mox
-2 Cavern of Souls
+2 Mutavault
+3 Cavern of Souls
 3 Sea Gate Restoration
 3 Glasspool Mimic
 3 True-Name Nemesis
 3 Hullbreacher
-3 Mutavault
-3 Cavern of Souls
 3 Lord of Atlantis
 3 Master of the Pearl Trident
 3 Silvergill Adept
 3 Aether Vial
+3 Mutavault
 3 Chrome Mox
 4 Sea Gate Restoration
 4 Mutavault
@@ -197,8 +197,8 @@
 2 Bonecrusher Giant
 2 Burst Lightning
 2 Impulse
-2 Lightning Bolt
 2 Fiery Islet
+2 Lightning Bolt
 2 Faerie Conclave
 2 Volcanic Island
 3 Snapcaster Mage
@@ -210,10 +210,10 @@
 3 Faerie Conclave
 4 Volcanic Island
 4 Bonecrusher Giant
-4 Mishra's Factory
 4 Lightning Bolt
 4 Faerie Conclave
 4 Snapcaster Mage
+4 Mishra's Factory
 1 Path to Exile
 4 Cast Out
 4 Replenish

@@ -60,13 +60,13 @@
 2 Lotus Cobra
 2 Shadrix Silverquill
 2 Cultivate
-2 Scute Swarm
 2 Migratory Greathorn
 2 Banishing Light
+2 Scute Swarm
 2 Murasa Rootgrazer
 3 Lotus Cobra
-3 Scute Swarm
 3 Migratory Greathorn
+3 Scute Swarm
 3 Shadrix Silverquill
 3 Yasharn, Implacable Earth
 3 Murasa Rootgrazer
@@ -84,8 +84,6 @@
 1 Bretagard Stronghold
 1 Expedition Healer
 1 Attended Healer
-2 Feat of Resistance
-2 Story Seeker
 2 Bretagard Stronghold
 2 Expedition Healer
 2 Swallow Whole
@@ -93,11 +91,13 @@
 2 Blossoming Sands
 2 Basri's Acolyte
 2 Attended Healer
-3 Story Seeker
+2 Feat of Resistance
+2 Story Seeker
 3 Basri's Acolyte
 3 Attended Healer
 3 Blossoming Sands
 3 Expedition Healer
+3 Story Seeker
 3 Struggle for Skemfar
 4 Attended Healer
 4 Expedition Healer
@@ -154,12 +154,12 @@
 2 Light of Hope
 2 Oran-Rief Ooze
 2 Wildwood Scourge
+3 Swarm Shambler
 3 Luminarch Aspirant
 3 Iridescent Hornbeetle
 3 Wildwood Scourge
 3 Invigorating Surge
 3 Basri's Solidarity
-3 Swarm Shambler
 4 Luminarch Aspirant
 4 Swarm Shambler
 4 Basri's Solidarity

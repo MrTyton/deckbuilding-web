@@ -11,9 +11,9 @@
 2 Rest in Peace
 1 Izzet Staticaster
 1 Sin Collector
-1 Xathrid Necromancer
 1 Drannith Magistrate
 1 Anafenza, the Foremost
+1 Xathrid Necromancer
 1 Kambal, Consul of Allocation
 1 Masked Vandal
 1 Lavinia, Azorius Renegade
@@ -32,6 +32,7 @@
 2 Isolate
 1 Reidane, God of the Worthy
 2 Soul-Guide Lantern
+1 Tithe Taker
 1 Declaration in Stone
 1 Charming Prince
 1 Shapers' Sanctuary
@@ -39,7 +40,6 @@
 1 Thalia, Heretic Cathar
 1 Glorious Protector
 1 Return to Nature
-1 Tithe Taker
 2 Declaration in Stone
 2 Charming Prince
 2 Shapers' Sanctuary
@@ -52,8 +52,8 @@
 1 Ashiok, Dream Render
 1 Arguel's Blood Fast
 2 Shadows' Verdict
-2 Arguel's Blood Fast
 2 Slaughter Games
+2 Arguel's Blood Fast
 1 Mystical Dispute
 2 Mystical Dispute
 1 Scorching Dragonfire
@@ -107,12 +107,9 @@
 2 Spell Queller
 3 Spell Queller
 4 Spell Queller
-2 Fatal Push
-3 Fatal Push
-4 Fatal Push
 1 Settle the Wreckage
-1 Seal Away
 1 Archangel Avacyn
+1 Seal Away
 1 Command the Dreadhorde
 1 Kaya's Wrath
 2 Seal Away
@@ -120,10 +117,13 @@
 2 Despark
 2 Kaya's Wrath
 2 Archangel Avacyn
-3 Despark
 3 Seal Away
-4 Despark
+3 Despark
 4 Seal Away
+4 Despark
+2 Fatal Push
+3 Fatal Push
+4 Fatal Push
 1 Gideon, Ally of Zendikar
 1 Leyline of Sanctity
 1 Back to Nature

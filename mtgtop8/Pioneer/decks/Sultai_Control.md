@@ -33,7 +33,6 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-----------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    3|[Shadows' Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491762)    |                     |              |
 |                    3|[Binding the Old Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503822)|                     |              |
 |                    3|[Hinterland Harbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443128)   |                     |              |
 |                    3|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)      |                     |              |
@@ -41,6 +40,7 @@
 |                    3|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)              |                     |              |
 |                    3|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)          |                     |              |
 |                    3|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)     |                     |              |
+|                    3|[Shadows' Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491762)    |                     |              |
 |                    3|[Growth Spiral](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457322)       |                     |              |
 |                    3|[Breeding Pool](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=97088)        |                     |              |
 |                    4|[Zagoth Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479779)       |                     |              |
