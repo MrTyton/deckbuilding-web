@@ -64,27 +64,27 @@
 1 Llanowar Visionary
 2 Elderfang Disciple
 2 Llanowar Visionary
-3 Llanowar Visionary
 3 Elderfang Disciple
+3 Llanowar Visionary
 4 Elderfang Disciple
 4 Llanowar Visionary
 1 Polukranos, Unchained
 1 Boreal Outrider
+1 Thornmantle Striker
+1 Harald, King of Skemfar
+1 Harald Unites the Elves
+1 Return Upon the Tide
 1 Sculptor of Winter
 1 Skemfar Avenger
 1 Grasp of Darkness
-1 Harald, King of Skemfar
-1 Harald Unites the Elves
-1 Thornmantle Striker
-1 Return Upon the Tide
 2 Boreal Outrider
 2 Sculptor of Winter
-2 Grasp of Darkness
 2 Harald, King of Skemfar
+2 Grasp of Darkness
 3 Sculptor of Winter
 3 Boreal Outrider
-3 Grasp of Darkness
 3 Harald, King of Skemfar
+3 Grasp of Darkness
 4 Sculptor of Winter
 7 Snow-Covered Forest
 7 Snow-Covered Swamp
@@ -128,11 +128,11 @@
 2 Oakhame Adversary
 2 Fully Grown
 2 Tajuru Blightblade
-3 Oakhame Adversary
 3 Tajuru Blightblade
+3 Oakhame Adversary
 3 Fully Grown
-4 Oakhame Adversary
 4 Tajuru Blightblade
+4 Oakhame Adversary
 7 Swamp
 8 Swamp
 1 Vivien, Monsters' Advocate
@@ -156,8 +156,19 @@
 3 Trail of Crumbs
 3 Wicked Wolf
 3 Eliminate
-4 Wicked Wolf
 4 Gilded Goose
+4 Wicked Wolf
+1 Skemfar Shadowsage
+1 Tyvar Kell
+1 Deathknell Berserker
+1 Skemfar Elderhall
+1 Jaspera Sentinel
+2 Deathknell Berserker
+2 Thornmantle Striker
+2 Return Upon the Tide
+2 Skemfar Shadowsage
+2 Jaspera Sentinel
+4 Boreal Outrider
 1 Faceless Haven
 2 Questing Beast
 2 Faceless Haven
@@ -168,17 +179,6 @@
 2 Necroblossom Snarl
 3 Necroblossom Snarl
 4 Necroblossom Snarl
-1 Skemfar Elderhall
-1 Jaspera Sentinel
-1 Tyvar Kell
-1 Skemfar Shadowsage
-1 Deathknell Berserker
-2 Jaspera Sentinel
-2 Deathknell Berserker
-2 Return Upon the Tide
-2 Thornmantle Striker
-2 Skemfar Shadowsage
-4 Boreal Outrider
 3 Toski, Bearer of Secrets
 4 Toski, Bearer of Secrets
 1 Realmwalker
@@ -192,8 +192,8 @@
 1 Castle Garenbrig
 1 Stonecoil Serpent
 1 Ashaya, Soul of the Wild
-1 Primal Might
 1 Garruk, Unleashed
+1 Primal Might
 1 Snakeskin Veil
 1 Skyclave Shade
 1 Tangled Florahedron

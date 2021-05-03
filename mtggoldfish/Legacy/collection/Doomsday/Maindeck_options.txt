@@ -7,41 +7,58 @@
 1 Verdant Catacombs
 3 Duress
 3 Flooded Strand
-1 Tropical Island
 1 Badlands
+1 Tropical Island
 1 Bayou
-1 Lim-Dul's Vault
 4 Street Wraith
 2 Thassa's Oracle
-1 Snow-Covered Island
 4 Scalding Tarn
+1 Snow-Covered Island
 1 Bloodstained Mire
-4 Personal Tutor
-1 Snow-Covered Swamp
-2 Snow-Covered Island
 3 Thoughtseize
-1 Cabal Therapy
 1 Lightning Bolt
 1 Young Pyromancer
 1 Arclight Phoenix
 1 Buried Alive
 2 Lightning Bolt
 2 Young Pyromancer
-2 Buried Alive
 2 Arclight Phoenix
+2 Buried Alive
 3 Buried Alive
 3 Lightning Bolt
 3 Arclight Phoenix
 4 Buried Alive
 4 Arclight Phoenix
+1 Lim-Dul's Vault
+4 Thoughtseize
+4 Personal Tutor
+1 Snow-Covered Swamp
+2 Snow-Covered Island
+2 Volcanic Island
+1 Cabal Therapy
+1 Veil of Summer
+2 Veil of Summer
+1 Spell Pierce
+1 Brazen Borrower
+1 Delver of Secrets
+2 Brazen Borrower
+2 Delver of Secrets
+3 Delver of Secrets
+3 Volcanic Island
+4 Lightning Bolt
+4 Delver of Secrets
+4 Misty Rainforest
 1 Marsh Flats
 2 Marsh Flats
 3 Marsh Flats
 4 Marsh Flats
-1 Veil of Summer
-2 Veil of Summer
-4 Thoughtseize
-1 Spell Pierce
+1 Dark Confidant
+2 Cabal Therapy
+2 Dark Confidant
+3 Dark Confidant
+3 Cabal Therapy
+1 Flusterstorm
+2 Flusterstorm
 1 Chrome Mox
 1 Children of Korlis
 1 Emrakul, the Aeons Torn
@@ -57,23 +74,6 @@
 3 Shallow Grave
 4 Entomb
 4 Shallow Grave
-4 Misty Rainforest
-2 Volcanic Island
-1 Dark Confidant
-2 Cabal Therapy
-2 Dark Confidant
-3 Dark Confidant
-3 Cabal Therapy
-1 Flusterstorm
-2 Flusterstorm
-1 Brazen Borrower
-1 Delver of Secrets
-2 Brazen Borrower
-2 Delver of Secrets
-3 Delver of Secrets
-3 Volcanic Island
-4 Lightning Bolt
-4 Delver of Secrets
 1 Baleful Strix
 2 Lim-Dul's Vault
 1 Cabal Ritual
@@ -113,10 +113,10 @@
 2 Wasteland
 3 Stifle
 3 Wasteland
-4 Flooded Strand
 1 Wooded Foothills
 2 Wooded Foothills
 4 Land Grant
+4 Flooded Strand
 1 Witherbloom Apprentice
 1 Chain of Smog
 1 Sylvan Library

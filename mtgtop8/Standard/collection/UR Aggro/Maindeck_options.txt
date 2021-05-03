@@ -11,6 +11,7 @@
 1 Go for Blood
 1 Shredded Sails
 1 Raugrin Triome
+2 Teferi, Master of Time
 2 Rielle, the Everwise
 2 Fire Prophecy
 2 Neutralize
@@ -19,7 +20,6 @@
 2 Faerie Vandal
 2 Improbable Alliance
 2 Go for Blood
-2 Teferi, Master of Time
 2 Raugrin Triome
 2 Irencrag Pyromancer
 3 Teferi, Master of Time
@@ -43,40 +43,40 @@
 1 Scorching Dragonfire
 1 Calamity Bearer
 1 Crystalline Giant
-1 Battle of Frost and Fire
-1 Quakebringer
 1 Invasion of the Giants
 1 Glimpse the Cosmos
+1 Battle of Frost and Fire
+1 Quakebringer
 1 Tectonic Giant
 1 Squash
 2 Scorching Dragonfire
+2 Glimpse the Cosmos
+2 Invasion of the Giants
 2 Calamity Bearer
 2 Battle of Frost and Fire
 2 Crystalline Giant
 2 Quakebringer
 2 Squash
-2 Glimpse the Cosmos
 2 Shatterskull Smashing
-2 Invasion of the Giants
 2 Tectonic Giant
-3 Crystalline Giant
-3 Calamity Bearer
-3 Quakebringer
-3 Battle of Frost and Fire
-3 Scorching Dragonfire
-3 Glimpse the Cosmos
 3 Tectonic Giant
-3 Squash
+3 Quakebringer
+3 Glimpse the Cosmos
+3 Calamity Bearer
+3 Battle of Frost and Fire
 3 Invasion of the Giants
+3 Crystalline Giant
+3 Scorching Dragonfire
+3 Squash
+4 Invasion of the Giants
 4 Calamity Bearer
 4 Tectonic Giant
 4 Crystalline Giant
 4 Bonecrusher Giant
-4 Invasion of the Giants
 4 Glimpse the Cosmos
 7 Mountain
-1 Heartfire Immolator
 1 Of One Mind
+1 Heartfire Immolator
 1 Demon Bolt
 1 Tazeem Roilmage
 1 Expedition Diviner
@@ -100,23 +100,23 @@
 2 Frost Bite
 2 Windrider Wizard
 3 Snow-Covered Island
-3 Volatile Fjord
 3 Heartfire Immolator
 3 Of One Mind
+3 Demon Bolt
 3 Snow-Covered Mountain
 3 Aegar, the Freezing Flame
 3 Basalt Ravager
 3 Windrider Wizard
 3 Frost Bite
-3 Demon Bolt
+3 Volatile Fjord
 4 Volatile Fjord
 4 Snow-Covered Mountain
 4 Snow-Covered Island
 4 Heartfire Immolator
+4 Demon Bolt
 4 Opt
 4 Windrider Wizard
 4 Aegar, the Freezing Flame
-4 Demon Bolt
 5 Snow-Covered Island
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain

@@ -1,4 +1,4 @@
-2 Into the Roil
+2 Gadwick, the Wizened
 3 Cosmos Charger
 3 Frost Augur
 4 Frost Augur
@@ -12,8 +12,6 @@
 1 Forsaken Monument
 1 Sublime Epiphany
 1 Unknown Shores
-1 Discontinuity
-1 Tyrite Sanctum
 1 Midnight Clock
 1 Radiant Fountain
 1 Cosmos Elixir
@@ -23,17 +21,18 @@
 1 Ugin, the Spirit Dragon
 1 The Magic Mirror
 1 Skyclave Relic
+1 Discontinuity
 1 Sea Gate Restoration
 1 Mazemind Tome
 1 Throne of Makindi
 1 Labyrinth of Skophos
 1 Solemn Simulacrum
 1 Omen of the Sea
+1 Tyrite Sanctum
 2 Forsaken Monument
 2 Crawling Barrens
 2 Omen of the Sea
 2 Sublime Epiphany
-2 Tyrite Sanctum
 2 Midnight Clock
 2 Radiant Fountain
 2 Solemn Simulacrum
@@ -42,18 +41,19 @@
 2 Skyclave Relic
 2 Discontinuity
 2 Mazemind Tome
+2 Tyrite Sanctum
 2 Palladium Myr
 2 Unknown Shores
 2 Labyrinth of Skophos
 2 Shimmer Dragon
 2 Throne of Makindi
 3 Crawling Barrens
-3 Tyrite Sanctum
 3 Midnight Clock
 3 Radiant Fountain
 3 Forsaken Monument
 3 Skyclave Relic
 3 Labyrinth of Skophos
+3 Tyrite Sanctum
 3 Throne of Makindi
 3 Omen of the Sea
 3 Discontinuity
@@ -114,8 +114,8 @@
 2 Serpentine Curve
 2 Frostveil Ambush
 3 Stern Dismissal
-3 Curate
 3 Island
+3 Curate
 3 Reject
 3 Neutralize
 3 Serpentine Curve

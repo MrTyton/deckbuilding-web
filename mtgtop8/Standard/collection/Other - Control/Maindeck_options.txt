@@ -1,57 +1,9 @@
-2 Yorion, Sky Nomad
-2 Doom Foretold
-2 Temple of Plenty
-2 Temple of Malady
-3 Yorion, Sky Nomad
-3 Gilded Goose
-3 Setessan Champion
-3 In Search of Greatness
-3 Runeforge Champion
-3 Elspeth's Nightmare
-3 Branchloft Pathway
-3 Doom Foretold
-3 Indatha Triome
-4 Setessan Champion
-4 Gilded Goose
-4 Runeforge Champion
-4 Doom Foretold
-4 In Search of Greatness
-4 Indatha Triome
-4 Branchloft Pathway
-1 Ketria Triome
-1 Bloodchief's Thirst
-1 Hagra Mauling
-1 Vorinclex, Monstrous Raider
-1 The World Tree
-1 Chevill, Bane of Monsters
-1 Murderous Rider
-1 Agonizing Remorse
-1 Llanowar Visionary
-1 Valki, God of Lies
-1 Kaya the Inexorable
-1 Easy Prey
-1 Polukranos, Unchained
-1 Agadeem's Awakening
-1 Castle Locthwain
-2 Valki, God of Lies
-2 Bloodchief's Thirst
-2 The World Tree
-2 Murderous Rider
-2 Kaya the Inexorable
-2 Chevill, Bane of Monsters
-2 Castle Locthwain
-2 Agonizing Remorse
-2 Llanowar Visionary
-2 Polukranos, Unchained
-2 Easy Prey
-2 Vorinclex, Monstrous Raider
-3 Murderous Rider
-3 Chevill, Bane of Monsters
-3 Agonizing Remorse
-3 Llanowar Visionary
-3 Valki, God of Lies
+1 Fabled Passage
 1 Mountain
 2 Mountain
+2 Fabled Passage
+3 Fabled Passage
+4 Fabled Passage
 1 Emeria's Call
 1 Temple of Triumph
 1 Transmogrify
@@ -59,14 +11,16 @@
 1 Shatterskull Smashing
 1 Castle Ardenvale
 1 Elspeth, Sun's Nemesis
+1 Omen of the Sun
 1 Soul Sear
 1 Fire Prophecy
+1 Needleverge Pathway
 1 Lukka, Coppercoat Outcast
 1 Harmonious Archon
-1 Sejiri Shelter
 1 Outlaws' Merriment
+1 Sejiri Shelter
 1 The Birth of Meletis
-1 Needleverge Pathway
+1 Glass Casket
 2 Emeria's Call
 2 Temple of Triumph
 2 Forbidden Friendship
@@ -77,8 +31,9 @@
 2 Elspeth, Sun's Nemesis
 2 Glass Casket
 2 Fire Prophecy
-2 Lukka, Coppercoat Outcast
+2 Omen of the Sun
 2 The Birth of Meletis
+2 Lukka, Coppercoat Outcast
 2 Needleverge Pathway
 2 Harmonious Archon
 3 Transmogrify
@@ -88,24 +43,26 @@
 3 Harmonious Archon
 3 Omen of the Sun
 3 The Birth of Meletis
+3 Plains
 3 Mountain
 4 Omen of the Sun
 4 Transmogrify
 4 Fire Prophecy
 4 Harmonious Archon
-4 The Birth of Meletis
-4 Soul Sear
 4 Mountain
+4 Plains
+4 Soul Sear
+4 The Birth of Meletis
 4 Needleverge Pathway
 5 Plains
 5 Mountain
 1 Scute Swarm
 1 Field of Ruin
+1 Dryad of the Ilysian Grove
 1 Gnottvold Slumbermound
 1 Evolving Wilds
 1 Barkchannel Pathway
 1 Alrund's Epiphany
-1 Dryad of the Ilysian Grove
 1 Field Trip
 1 Island
 1 Cragcrown Pathway
@@ -116,11 +73,11 @@
 2 Barkchannel Pathway
 2 Ketria Triome
 2 Field of Ruin
-2 Bonecrusher Giant
+2 Alrund's Epiphany
 2 Field Trip
 2 Cragcrown Pathway
 2 Island
-2 Alrund's Epiphany
+2 Bonecrusher Giant
 2 Azusa, Lost but Seeking
 2 Dryad of the Ilysian Grove
 2 Scute Swarm
@@ -131,20 +88,21 @@
 3 Barkchannel Pathway
 3 Gnottvold Slumbermound
 3 Scute Swarm
-3 Cragcrown Pathway
 3 Alrund's Epiphany
 3 Dryad of the Ilysian Grove
 3 Field Trip
+3 Cragcrown Pathway
 3 Bonecrusher Giant
 4 Barkchannel Pathway
 4 Evolving Wilds
 4 Bonecrusher Giant
 4 Field Trip
+4 Scute Swarm
 4 Dryad of the Ilysian Grove
 4 Azusa, Lost but Seeking
 4 Gnottvold Slumbermound
 4 Cragcrown Pathway
+4 Forest
 4 Alrund's Epiphany
-4 Scute Swarm
 5 Forest
 6 Forest

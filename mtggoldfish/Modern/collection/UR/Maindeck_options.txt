@@ -1,4 +1,5 @@
 1 Scalding Tarn
+4 Crash Through
 1 Snapcaster Mage
 2 Snapcaster Mage
 1 Island
@@ -22,11 +23,12 @@
 3 Cryptic Command
 1 Cascade Bluffs
 1 Spell Snare
-2 Cascade Bluffs
 1 Valakut Awakening
+2 Cascade Bluffs
 4 Island
-5 Island
 1 Mana Leak
+4 Remand
+5 Island
 2 Mana Leak
 3 Cascade Bluffs
 4 Cascade Bluffs
@@ -38,94 +40,92 @@
 3 Riverglide Pathway
 4 Riverglide Pathway
 4 Archmage's Charm
-4 Remand
-4 Crash Through
+4 Light Up the Stage
+2 Scalding Tarn
 1 Flame Slash
 2 Spell Snare
-1 Reflecting Pool
 2 Steam Vents
-4 Light Up the Stage
+1 Reflecting Pool
 1 Abrade
-2 Scalding Tarn
-1 Kiki-Jiki, Mirror Breaker
-2 Kiki-Jiki, Mirror Breaker
-3 Spirebluff Canal
-1 Flusterstorm
-1 Ral, Izzet Viceroy
-1 Wandering Fumarole
-4 Spirebluff Canal
-1 Deceiver Exarch
-2 Deceiver Exarch
 3 Scalding Tarn
-2 Reflecting Pool
+1 Kiki-Jiki, Mirror Breaker
 1 Through the Breach
 1 Emrakul, the Aeons Torn
 2 Emrakul, the Aeons Torn
 2 Through the Breach
-1 Crackling Drake
+2 Kiki-Jiki, Mirror Breaker
+3 Spirebluff Canal
+1 Flusterstorm
+1 Ral, Izzet Viceroy
+2 Reflecting Pool
+1 Wandering Fumarole
+4 Spirebluff Canal
 6 Island
-3 Sacred Foundry
-1 Minamo, School at Water's Edge
+1 Deceiver Exarch
+2 Deceiver Exarch
+1 Crackling Drake
 4 Scalding Tarn
-3 Deceiver Exarch
+3 Sacred Foundry
 1 Force of Negation
-3 Steam Vents
 3 Through the Breach
 3 Emrakul, the Aeons Torn
 4 Emrakul, the Aeons Torn
 4 Through the Breach
 1 Prismari Command
-7 Island
+3 Steam Vents
 1 Flooded Strand
 2 Flooded Strand
+7 Island
 3 Flooded Strand
+1 Minamo, School at Water's Edge
 2 Force of Negation
 2 Arid Mesa
+3 Deceiver Exarch
 3 Boros Charm
-4 Flooded Strand
 1 Sulfur Falls
+4 Flooded Strand
 1 Leonin Lightscribe
 2 Leonin Lightscribe
 3 Wooded Foothills
 1 Temple of Epiphany
 2 Temple of Epiphany
 3 Valakut Awakening
+1 Raugrin Triome
+1 Jace, the Mind Sculptor
 4 Mountain
+2 Prismari Command
 3 Reflecting Pool
 3 Temple of Epiphany
 4 Reflecting Pool
 4 Valakut Awakening
 4 Temple of Epiphany
-1 Raugrin Triome
-1 Jace, the Mind Sculptor
 1 Gut Shot
 3 Abbot of Keral Keep
 2 Sulfur Falls
 1 Lava Spike
 2 Lava Spike
-2 Prismari Command
 3 Force of Negation
 1 Myth Realized
 2 Myth Realized
 3 Myth Realized
+1 Hallowed Fountain
 1 Kiln Fiend
 2 Kiln Fiend
 2 Gut Shot
 8 Island
+1 Teferi, Time Raveler
+1 Plains
+2 Teferi, Time Raveler
+3 Teferi, Time Raveler
 1 Blood Moon
 2 Blood Moon
 3 Arid Mesa
-1 Hallowed Fountain
 1 Wall of Omens
-1 Teferi, Time Raveler
 1 Restoration Angel
-1 Plains
 2 Wall of Omens
-2 Teferi, Time Raveler
 2 Raugrin Triome
 2 Restoration Angel
 3 Wall of Omens
-3 Teferi, Time Raveler
 3 Restoration Angel
 4 Restoration Angel
 4 Wall of Omens
@@ -135,11 +135,14 @@
 2 Seal of Fire
 3 Lava Spike
 4 Lava Spike
+1 Castle Vantress
 3 Mana Leak
 1 Snow-Covered Mountain
 3 Kiln Fiend
 4 Abbot of Keral Keep
 2 Crackling Drake
+1 Lightning Helix
+1 Celestial Colonnade
 1 Polluted Delta
 2 Polluted Delta
 3 Polluted Delta
@@ -172,16 +175,16 @@
 2 Reach Through Mists
 2 Ideas Unbound
 2 Lotus Field
-2 Twiddle
 2 Past in Flames
+2 Twiddle
 3 Sleight of Hand
 3 Ideas Unbound
-3 Lotus Field
 3 Lonely Sandbar
 3 Dream's Grip
 3 Psychic Puppetry
 3 Past in Flames
 3 Peer Through Depths
+3 Lotus Field
 3 Reach Through Mists
 4 Sleight of Hand
 4 Lotus Field
@@ -197,7 +200,6 @@
 4 Snow-Covered Island
 5 Snow-Covered Island
 6 Snow-Covered Island
-1 Castle Vantress
 1 Magmatic Sinkhole
 3 Bloodstained Mire
 1 Wild Slash
@@ -210,8 +212,6 @@
 4 Polluted Delta
 7 Snow-Covered Island
 8 Snow-Covered Island
-1 Lightning Helix
-1 Celestial Colonnade
 2 Lightning Helix
 3 Gut Shot
 4 Bloodstained Mire
@@ -253,34 +253,41 @@
 1 Behold the Multiverse
 3 Prismari Command
 2 Wild Slash
+1 Teferi, Hero of Dominaria
+1 Fiery Islet
+2 Fiery Islet
 1 Field of Ruin
 2 Field of Ruin
 1 Spell Queller
 1 Ketria Triome
 1 Breeding Pool
 1 Claim the Firstborn
+1 Narset, Parter of Veils
+1 Nahiri, the Harbinger
+1 Spell Pierce
+2 Narset, Parter of Veils
+2 Spell Pierce
 1 Mystic Gate
 1 Venser, Shaper Savant
 2 Hallowed Fountain
 2 Venser, Shaper Savant
-1 Emerge Unscathed
-1 Ground Rift
-2 Emerge Unscathed
-2 Ground Rift
 2 Behold the Multiverse
 2 Magmatic Sinkhole
-1 Graven Lore
-1 Magma Opus
-1 Teferi, Hero of Dominaria
+1 Emerge Unscathed
+1 Ground Rift
+2 Ground Rift
+2 Emerge Unscathed
 1 Volatile Fjord
+1 Graven Lore
 1 Negate
 1 Frost Bite
+1 Magma Opus
 1 Torrential Gearhulk
 1 Logic Knot
 2 Magma Opus
 2 Torrential Gearhulk
-3 Torrential Gearhulk
 3 Magma Opus
+3 Torrential Gearhulk
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
 4 Cryptic Command
@@ -315,10 +322,8 @@
 4 Sulfur Falls
 1 Desolate Lighthouse
 4 Prismari Command
-1 Fiery Islet
 1 Bedlam Reveler
 1 Burst Lightning
-2 Fiery Islet
 2 Burst Lightning
 2 Bedlam Reveler
 3 Fiery Islet
