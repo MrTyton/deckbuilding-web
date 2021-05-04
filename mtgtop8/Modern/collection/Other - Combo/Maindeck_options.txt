@@ -4,7 +4,6 @@
 1 Peer Through Depths
 1 Merchant Scroll
 1 Dream's Grip
-1 Sleight of Hand
 1 Past in Flames
 1 Grapeshot
 1 Psychic Puppetry
@@ -12,16 +11,17 @@
 1 Lonely Sandbar
 1 Reach Through Mists
 1 Ideas Unbound
-1 Tolaria West
+1 Sleight of Hand
 1 Lotus Field
+1 Tolaria West
 1 Echoing Truth
 2 Past in Flames
 2 Twiddle
 2 Lotus Field
 2 Ideas Unbound
+2 Peer Through Depths
 2 Reach Through Mists
 2 Dream's Grip
-2 Peer Through Depths
 2 Psychic Puppetry
 2 Lonely Sandbar
 2 Sleight of Hand
@@ -36,9 +36,9 @@
 3 Lotus Field
 3 Ideas Unbound
 3 Sleight of Hand
-4 Dream's Grip
 4 Psychic Puppetry
 4 Lonely Sandbar
+4 Dream's Grip
 4 Ideas Unbound
 4 Peer Through Depths
 4 Reach Through Mists
@@ -70,9 +70,9 @@
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
-1 Bala Ged Recovery
 1 Irencrag Feat
 1 Spikefield Hazard
+1 Bala Ged Recovery
 1 Manamorphose
 1 Reforge the Soul
 1 Recross the Paths
@@ -138,49 +138,49 @@
 2 Teferi, Time Raveler
 1 City of Brass
 1 Talisman of Progress
-1 Wishclaw Talisman
 1 Shelldock Isle
-1 Jace, Wielder of Mysteries
 1 Seachrome Coast
-1 Inverter of Truth
 1 Darkslick Shores
+1 Wishclaw Talisman
 1 Urborg, Tomb of Yawgmoth
 1 Gemstone Mine
 1 Reflecting Pool
+1 Inverter of Truth
 1 Angel's Grace
 1 Snow-Covered Plains
 1 Spoils of the Vault
+1 Jace, Wielder of Mysteries
 1 Phyrexian Unlife
 1 Snow-Covered Swamp
 2 Gemstone Mine
+2 Angel's Grace
+2 Phyrexian Unlife
 2 City of Brass
 2 Darkslick Shores
-2 Jace, Wielder of Mysteries
 2 Shelldock Isle
-2 Inverter of Truth
 2 Spoils of the Vault
+2 Inverter of Truth
 2 Thassa's Oracle
 2 Seachrome Coast
-2 Phyrexian Unlife
-2 Angel's Grace
-3 Shelldock Isle
+2 Jace, Wielder of Mysteries
+3 Angel's Grace
+3 Phyrexian Unlife
+3 Spoils of the Vault
+3 Gemstone Mine
 3 City of Brass
 3 Talisman of Dominance
+3 Shelldock Isle
 3 Inverter of Truth
-3 Gemstone Mine
-3 Phyrexian Unlife
-3 Angel's Grace
-3 Spoils of the Vault
 3 Thassa's Oracle
-4 City of Brass
-4 Thassa's Oracle
-4 Shelldock Isle
-4 Inverter of Truth
+4 Angel's Grace
 4 Phyrexian Unlife
+4 Spoils of the Vault
+4 City of Brass
 4 Talisman of Dominance
 4 Gemstone Mine
-4 Spoils of the Vault
-4 Angel's Grace
+4 Shelldock Isle
+4 Thassa's Oracle
+4 Inverter of Truth
 1 Emrakul, the Aeons Torn
 1 Wooded Foothills
 2 Emrakul, the Aeons Torn
@@ -213,9 +213,9 @@
 2 Lightning Bolt
 3 Emrakul, the Aeons Torn
 3 Through the Breach
+3 Prismari Command
 3 Indomitable Creativity
 3 Dwarven Mine
-3 Prismari Command
 3 Teferi, Time Raveler
 3 Scalding Tarn
 3 Lightning Helix
@@ -258,13 +258,13 @@
 2 Windswept Heath
 2 Temple Garden
 3 Karn, the Great Creator
+3 Chandra, Torch of Defiance
 3 Nahiri, the Harbinger
 3 Windswept Heath
 3 Wooded Foothills
 3 Utopia Sprawl
 3 Noble Hierarch
 3 Lukka, Coppercoat Outcast
-3 Chandra, Torch of Defiance
 3 Stomping Ground
 3 Forest
 3 Arbor Elf

@@ -1,27 +1,22 @@
-3 Malakir Rebirth
-3 Castle Locthwain
-3 Chevill, Bane of Monsters
-3 Dead Weight
-4 Hateful Eidolon
-4 Setessan Champion
-4 Dead Weight
-4 Mire's Grasp
-4 Mogis's Favor
-4 Chevill, Bane of Monsters
-4 Malakir Rebirth
+1 Lovestruck Beast
+1 The Great Henge
+2 Lovestruck Beast
+2 The Great Henge
+3 Lovestruck Beast
+4 Lovestruck Beast
+1 Kazandu Mammoth
+2 Kazandu Mammoth
+3 Kazandu Mammoth
+4 Kazandu Mammoth
+4 Forest
 1 Bloodchief's Thirst
-1 Heartless Act
-2 Heartless Act
-1 Foulmire Knight
-2 Foulmire Knight
-3 Foulmire Knight
-4 Foulmire Knight
-2 Bloodchief's Thirst
 1 Toski, Bearer of Secrets
+1 Heartless Act
 1 Edgewall Innkeeper
 1 Murderous Rider
 2 Murderous Rider
 2 Edgewall Innkeeper
+2 Heartless Act
 3 Edgewall Innkeeper
 3 Murderous Rider
 4 Edgewall Innkeeper
@@ -30,7 +25,12 @@
 1 Eliminate
 1 Massacre Wurm
 1 Scavenging Ooze
+1 Foulmire Knight
+2 Foulmire Knight
+3 Foulmire Knight
+4 Foulmire Knight
 4 Murderous Rider
+2 Bloodchief's Thirst
 1 Indatha Triome
 2 Indatha Triome
 3 Indatha Triome
@@ -43,8 +43,8 @@
 3 Temple of Malady
 3 Heartless Act
 1 Woodland Chasm
-1 Snow-Covered Forest
 1 Snow-Covered Swamp
+1 Snow-Covered Forest
 2 Snow-Covered Forest
 2 Snow-Covered Swamp
 2 Woodland Chasm
@@ -58,8 +58,7 @@
 5 Snow-Covered Swamp
 6 Snow-Covered Forest
 6 Snow-Covered Swamp
-1 Jungle Hollow
-2 Jungle Hollow
+1 Polukranos, Unchained
 1 Elderfang Disciple
 1 Llanowar Visionary
 2 Elderfang Disciple
@@ -68,7 +67,6 @@
 3 Elderfang Disciple
 4 Llanowar Visionary
 4 Elderfang Disciple
-1 Polukranos, Unchained
 1 Sculptor of Winter
 1 Skemfar Avenger
 1 Grasp of Darkness
@@ -92,8 +90,6 @@
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 2 Eliminate
-5 Forest
-6 Forest
 2 Scavenging Ooze
 3 Scavenging Ooze
 1 Questing Beast
@@ -103,20 +99,16 @@
 1 Oakhame Adversary
 1 Joraga Visionary
 2 Joraga Visionary
+1 Jungle Hollow
 1 Elvish Warmaster
-1 Fynn, the Fangbearer
-2 Fynn, the Fangbearer
-3 Fynn, the Fangbearer
-3 Jungle Hollow
-4 Fynn, the Fangbearer
-4 Jungle Hollow
-6 Swamp
+2 Jungle Hollow
+5 Forest
+6 Forest
 7 Forest
 8 Forest
 9 Forest
-1 Vorinclex, Monstrous Raider
-2 Vorinclex, Monstrous Raider
 1 Evolving Wilds
+1 Fynn, the Fangbearer
 1 Ranger's Guile
 1 Wildborn Preserver
 1 Extinction Event
@@ -128,11 +120,17 @@
 2 Oakhame Adversary
 2 Fully Grown
 2 Tajuru Blightblade
+2 Fynn, the Fangbearer
 3 Oakhame Adversary
+3 Fynn, the Fangbearer
+3 Jungle Hollow
 3 Tajuru Blightblade
 3 Fully Grown
 4 Oakhame Adversary
 4 Tajuru Blightblade
+4 Fynn, the Fangbearer
+4 Jungle Hollow
+6 Swamp
 7 Swamp
 8 Swamp
 1 Sarulf, Realm Eater
@@ -179,54 +177,36 @@
 2 Thornmantle Striker
 2 Skemfar Shadowsage
 4 Boreal Outrider
-3 Toski, Bearer of Secrets
-4 Toski, Bearer of Secrets
 1 Bonders' Enclave
-1 Castle Garenbrig
 1 Stonecoil Serpent
 1 Ashaya, Soul of the Wild
 1 Primal Might
 1 Snakeskin Veil
+1 Vorinclex, Monstrous Raider
 1 Skyclave Shade
 1 Garruk, Unleashed
 1 Tangled Florahedron
+1 Castle Garenbrig
 1 Swarm Shambler
-2 Castle Garenbrig
 2 Stonecoil Serpent
 2 Snakeskin Veil
+2 Vorinclex, Monstrous Raider
 2 Skyclave Shade
 2 Tangled Florahedron
 2 Primal Might
 2 Swarm Shambler
-3 Stonecoil Serpent
+2 Castle Garenbrig
 3 Castle Garenbrig
+3 Stonecoil Serpent
 4 Stonecoil Serpent
 4 Gemrazer
 10 Forest
 1 Realmwalker
-1 Masked Vandal
 1 Wolfwillow Haven
+1 Masked Vandal
 2 Wolfwillow Haven
 3 Wolfwillow Haven
 9 Snow-Covered Forest
 10 Snow-Covered Swamp
-1 Egon, God of Death
-1 Call of the Death-Dweller
-1 Hooded Blightfang
-1 Moss Viper
-1 The Binding of the Titans
-1 Mire Triton
-2 Call of the Death-Dweller
-2 Moss Viper
-2 Hooded Blightfang
-2 The Binding of the Titans
-2 Mire Triton
-2 Egon, God of Death
-3 Mire Triton
-3 The Binding of the Titans
-3 Moss Viper
-3 Hooded Blightfang
-4 Mire Triton
-4 Moss Viper
-4 Hooded Blightfang
-4 The Binding of the Titans
+3 Toski, Bearer of Secrets
+4 Toski, Bearer of Secrets
