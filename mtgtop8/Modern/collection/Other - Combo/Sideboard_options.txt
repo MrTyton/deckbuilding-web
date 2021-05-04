@@ -6,8 +6,8 @@
 1 Wipe Away
 1 Abrade
 2 Empty the Warrens
-2 Aria of Flame
 2 Spell Pierce
+2 Aria of Flame
 3 Aria of Flame
 3 Empty the Warrens
 3 Spell Pierce
@@ -37,16 +37,16 @@
 2 Slaughter Pact
 2 Savage Summoning
 1 Dispel
+1 Stern Dismissal
 1 Thing in the Ice
 1 Thought Distortion
-1 Void Snare
-1 Chandra, Awakened Inferno
 1 Ignite Memories
-1 Stern Dismissal
+1 Chandra, Awakened Inferno
+1 Void Snare
 2 Thing in the Ice
 2 Stern Dismissal
-2 Thought Distortion
 2 Dispel
+2 Thought Distortion
 3 Thing in the Ice
 3 Stern Dismissal
 1 Dismember
@@ -62,10 +62,6 @@
 1 Abrupt Decay
 1 Assassin's Trophy
 4 Thoughtseize
-1 Fatal Push
-2 Fatal Push
-3 Fatal Push
-4 Nature's Claim
 1 Rest in Peace
 1 Aether Gust
 1 Anger of the Gods
@@ -81,8 +77,8 @@
 4 Cleansing Wildfire
 1 Skysovereign, Consul Flagship
 1 Liquimetal Coating
-1 Wurmcoil Engine
 1 Witchbane Orb
+1 Wurmcoil Engine
 1 Madcap Experiment
 1 Platinum Emperion
 1 Relic of Progenitus
@@ -90,3 +86,7 @@
 2 Madcap Experiment
 3 Madcap Experiment
 4 Veil of Summer
+1 Fatal Push
+2 Fatal Push
+3 Fatal Push
+4 Nature's Claim

@@ -38,9 +38,9 @@
 |                    1|[Rancor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442175)            |                    1|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)|
 |                    1|[Ahn-Crop Crasher](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426819)  |                    1|[Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129801)     |
 |                    1|[Domri Rade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366367)        |                    1|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
-|                    1|[Earthshaker Khenra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430779)|                    1|[Stone Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=822)       |
-|                    1|[Dryad Militant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456369)    |                    1|[Roast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394667)         |
-|                    1|[Experiment One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405219)    |                    1|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646) |
+|                    1|[Earthshaker Khenra](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430779)|                    1|[Natural State](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=407646) |
+|                    1|[Dryad Militant](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456369)    |                    1|[Stone Rain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=822)       |
+|                    1|[Experiment One](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405219)    |                    1|[Roast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394667)         |
 |                    1|[Game Trail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410044)        |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
 |                    1|[Boggart Ram-Gang](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=234723)  |                    2|[Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129801)     |
 |                    1|[Strangleroot Geist](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262671)|                    2|[Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=235600)|
@@ -71,6 +71,6 @@
 |                    4|[Game Trail](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=410044)        |                     |                                                                                         |
 |                    4|[Rancor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442175)            |                     |                                                                                         |
 |                    5|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)          |                     |                                                                                         |
-|                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                     |                                                                                         |
 |                    6|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                     |                                                                                         |
+|                    7|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)            |                     |                                                                                         |
 

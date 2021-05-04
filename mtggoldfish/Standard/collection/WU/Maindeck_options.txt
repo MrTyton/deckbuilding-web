@@ -70,12 +70,12 @@
 6 Snow-Covered Island
 8 Plains
 1 Riverglide Pathway
-1 Mountain
 1 Narset of the Ancient Way
+1 Mountain
 1 Needleverge Pathway
-2 Mountain
 2 Narset of the Ancient Way
 2 Riverglide Pathway
+2 Mountain
 2 Needleverge Pathway
 3 Riverglide Pathway
 3 Needleverge Pathway
@@ -176,11 +176,11 @@
 1 Cosima, God of the Voyage
 1 Runeforge Champion
 2 Rune of Sustenance
+3 Crawling Barrens
 1 Brash Taunter
 1 Kiora Bests the Sea God
 2 Brash Taunter
 3 Alrund's Epiphany
-3 Crawling Barrens
 1 Golden Egg
 1 Glasspool Mimic
 1 Professor of Symbology
@@ -190,8 +190,6 @@
 3 Golden Egg
 3 Glasspool Mimic
 4 Solemn Simulacrum
-3 Giant Killer
-4 Giant Killer
 4 Negate
 1 Banish into Fable
 2 Banish into Fable
@@ -209,10 +207,12 @@
 3 Transmogrify
 4 Fire Prophecy
 4 Transmogrify
-1 Faceless Haven
+3 Giant Killer
+4 Giant Killer
 1 Glacial Floodplain
-2 Faceless Haven
+1 Faceless Haven
 2 Neutralize
+2 Faceless Haven
 2 Glacial Floodplain
 2 Niko Aris
 3 Glacial Floodplain
@@ -257,12 +257,12 @@
 4 Yorion, Sky Nomad
 1 Speaker of the Heavens
 1 Ugin, the Spirit Dragon
-1 Righteous Valkyrie
 1 Luminarch Aspirant
+1 Righteous Valkyrie
 2 Speaker of the Heavens
 2 Ugin, the Spirit Dragon
-2 Righteous Valkyrie
 2 Luminarch Aspirant
+2 Righteous Valkyrie
 3 Speaker of the Heavens
 3 Righteous Valkyrie
 4 Speaker of the Heavens
