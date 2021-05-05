@@ -42,7 +42,7 @@
 |[BUG Control](./mtgtop8/Modern/decks/BUG_Control.md)            |[Goblins](./mtgtop8/Modern/decks/Goblins.md)                |[Living End](./mtgtop8/Modern/decks/Living_End.md)                |[Red Deck Wins](./mtgtop8/Modern/decks/Red_Deck_Wins.md)        |[UW Control](./mtgtop8/Modern/decks/UW_Control.md)    |
 |[Bant Aggro](./mtgtop8/Modern/decks/Bant_Aggro.md)              |[Grixis Control](./mtgtop8/Modern/decks/Grixis_Control.md)  |[Mardu Midrange](./mtgtop8/Modern/decks/Mardu_Midrange.md)        |[Scapeshift](./mtgtop8/Modern/decks/Scapeshift.md)              |[UWx Midrange](./mtgtop8/Modern/decks/UWx_Midrange.md)|
 |[Bant Control](./mtgtop8/Modern/decks/Bant_Control.md)          |[Gruul Aggro](./mtgtop8/Modern/decks/Gruul_Aggro.md)        |[Martyr Life](./mtgtop8/Modern/decks/Martyr_Life.md)              |[Selesnya Aggro](./mtgtop8/Modern/decks/Selesnya_Aggro.md)      |[UrzaTron](./mtgtop8/Modern/decks/UrzaTron.md)        |
-|[Boros](./mtgtop8/Modern/decks/Boros.md)                        |[Gruul Utopia](./mtgtop8/Modern/decks/Gruul_Utopia.md)      |[Merfolk](./mtgtop8/Modern/decks/Merfolk.md)                      |[Slivers](./mtgtop8/Modern/decks/Slivers.md)                    |[Urza](./mtgtop8/Modern/decks/Urza.md)                |
+|[Boros Aggro](./mtgtop8/Modern/decks/Boros_Aggro.md)            |[Gruul Utopia](./mtgtop8/Modern/decks/Gruul_Utopia.md)      |[Merfolk](./mtgtop8/Modern/decks/Merfolk.md)                      |[Slivers](./mtgtop8/Modern/decks/Slivers.md)                    |[Urza](./mtgtop8/Modern/decks/Urza.md)                |
 |[Breach](./mtgtop8/Modern/decks/Breach.md)                      |[Hardened Scales](./mtgtop8/Modern/decks/Hardened_Scales.md)|[Mono Black Control](./mtgtop8/Modern/decks/Mono_Black_Control.md)|[Spirit Aggro](./mtgtop8/Modern/decks/Spirit_Aggro.md)          |[Valakut](./mtgtop8/Modern/decks/Valakut.md)          |
 |[CopyCat](./mtgtop8/Modern/decks/CopyCat.md)                    |[Hatebear](./mtgtop8/Modern/decks/Hatebear.md)              |[Mono Red Control](./mtgtop8/Modern/decks/Mono_Red_Control.md)    |[Temur Aggro](./mtgtop8/Modern/decks/Temur_Aggro.md)            |[Walks](./mtgtop8/Modern/decks/Walks.md)              |
 |[Creatures Toolbox](./mtgtop8/Modern/decks/Creatures_Toolbox.md)|[Heliod Life](./mtgtop8/Modern/decks/Heliod_Life.md)        |[Niv-Mizzet Reborn](./mtgtop8/Modern/decks/Niv-Mizzet_Reborn.md)  |[Temur Control](./mtgtop8/Modern/decks/Temur_Control.md)        |[Zoo](./mtgtop8/Modern/decks/Zoo.md)                  |
@@ -69,4 +69,4 @@
 
 
 
-#### Last Updated at 12:47AM on May 05, 2021
+#### Last Updated at 12:47PM on May 05, 2021

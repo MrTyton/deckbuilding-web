@@ -6,14 +6,16 @@
 3 Fabled Passage
 3 Nissa, Who Shakes the World
 4 Abrupt Decay
-4 Thoughtseize
 4 Fatal Push
+4 Thoughtseize
 1 Scavenging Ooze
 1 Plaguecrafter
 5 Forest
-1 Field of Ruin
+1 Binding the Old Gods
 1 Golgari Findbroker
+1 Castle Locthwain
 1 Ashiok, Dream Render
+1 Field of Ruin
 1 Assassin's Trophy
 1 Kraul Harpooner
 1 Sarulf, Realm Eater
@@ -24,10 +26,8 @@
 1 The Eldest Reborn
 1 Merfolk Branchwalker
 1 Seekers' Squire
-1 Binding the Old Gods
 1 Find / Finality
 1 Jadelight Ranger
-1 Castle Locthwain
 2 Binding the Old Gods
 2 Assassin's Trophy
 2 Murderous Rider
@@ -114,15 +114,16 @@
 4 Blisterpod
 1 Hazoret the Fervent
 1 Rotting Regisaur
-1 Blightstep Pathway
+1 Stomping Ground
 1 Ghalta, Primal Hunger
 1 Arboreal Grazer
 1 Heart of Kiran
 1 Rhonas the Indomitable
 1 Cragcrown Pathway
 1 Lovestruck Beast
-1 Stomping Ground
+1 Blightstep Pathway
 2 Rotting Regisaur
+2 Stomping Ground
 2 Hazoret the Fervent
 2 Arboreal Grazer
 2 Ghalta, Primal Hunger
@@ -130,7 +131,6 @@
 2 Lovestruck Beast
 2 Rhonas the Indomitable
 2 Blightstep Pathway
-2 Stomping Ground
 2 Cragcrown Pathway
 3 Rotting Regisaur
 3 Stomping Ground

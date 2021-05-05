@@ -62,17 +62,17 @@
 1 Emrakul, the Aeons Torn
 1 Vesuva
 1 Ulamog, the Ceaseless Hunger
-1 Kozilek, Butcher of Truth
 1 Glimmerpost
 1 Cloudpost
-2 Vesuva
-2 Cloudpost
+1 Kozilek, Butcher of Truth
 2 Glimmerpost
+2 Cloudpost
+2 Vesuva
 3 Vesuva
 3 Glimmerpost
 3 Cloudpost
-4 Cloudpost
 4 Glimmerpost
+4 Cloudpost
 1 Snow-Covered Plains
 1 Snow-Covered Island
 1 Arcum's Astrolabe
@@ -125,24 +125,24 @@
 2 Tireless Tracker
 1 Manabond
 1 Breeding Pool
-2 Waterlogged Grove
 2 Ghost Quarter
+2 Waterlogged Grove
 3 Ghost Quarter
 3 Field of the Dead
 4 Uro, Titan of Nature's Wrath
 1 Relic of Progenitus
 1 Candelabra of Tawnos
+1 Expedition Map
 1 Pithing Needle
 1 Walking Ballista
 1 Show and Tell
 1 Island
-1 Expedition Map
 1 Glacial Chasm
 1 Trinket Mage
+2 Expedition Map
 2 Show and Tell
 2 Pithing Needle
 2 Trinket Mage
-2 Expedition Map
 2 Walking Ballista
 3 Show and Tell
 3 Pithing Needle
@@ -161,22 +161,22 @@
 3 Rishadan Port
 4 Rishadan Port
 1 Sorcerous Spyglass
-1 Golos, Tireless Pilgrim
-1 Cascading Cataracts
 1 Apex Devastator
 1 Elvish Rejuvenator
-2 Golos, Tireless Pilgrim
+1 Cascading Cataracts
+1 Golos, Tireless Pilgrim
 2 Sorcerous Spyglass
 2 Elvish Rejuvenator
-3 Golos, Tireless Pilgrim
+2 Golos, Tireless Pilgrim
 3 Forest
 3 Elvish Rejuvenator
+3 Golos, Tireless Pilgrim
 3 Sorcerous Spyglass
 4 Thought-Knot Seer
-4 Elvish Rejuvenator
 4 Forest
-4 Vesuva
 4 Golos, Tireless Pilgrim
+4 Vesuva
+4 Elvish Rejuvenator
 4 Sorcerous Spyglass
 5 Forest
 6 Forest

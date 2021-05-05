@@ -1,15 +1,15 @@
-1 Lovestruck Beast
 1 The Great Henge
-2 Lovestruck Beast
 2 The Great Henge
+1 Lovestruck Beast
+2 Lovestruck Beast
 3 Lovestruck Beast
 4 Lovestruck Beast
 1 Woodland Chasm
-1 Snow-Covered Forest
 1 Snow-Covered Swamp
+1 Snow-Covered Forest
 2 Snow-Covered Forest
-2 Woodland Chasm
 2 Snow-Covered Swamp
+2 Woodland Chasm
 3 Snow-Covered Forest
 3 Snow-Covered Swamp
 3 Woodland Chasm
@@ -50,66 +50,70 @@
 8 Snow-Covered Forest
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
-1 Massacre Wurm
+1 Bloodchief's Thirst
+4 Forest
 1 Eliminate
+1 Massacre Wurm
 1 Kazandu Mammoth
 1 Scavenging Ooze
 2 Kazandu Mammoth
 3 Kazandu Mammoth
 4 Kazandu Mammoth
 3 The Great Henge
-1 Bloodchief's Thirst
-1 Polukranos, Unchained
-1 Rankle, Master of Pranks
 1 Murderous Rider
+2 Murderous Rider
+3 Murderous Rider
+1 Polukranos, Unchained
+1 Questing Beast
+2 Bloodchief's Thirst
+1 Rankle, Master of Pranks
 1 Toski, Bearer of Secrets
 1 Heartless Act
 1 Edgewall Innkeeper
 2 Rankle, Master of Pranks
-2 Murderous Rider
 2 Edgewall Innkeeper
 2 Heartless Act
 3 Temple of Malady
 3 Edgewall Innkeeper
-3 Murderous Rider
 3 Heartless Act
 4 Edgewall Innkeeper
-4 Forest
 1 Elder Gargaroth
-2 Elder Gargaroth
 2 Eliminate
-1 Questing Beast
+2 Elder Gargaroth
+5 Forest
+6 Forest
 1 Gemrazer
 2 Gemrazer
 3 Gemrazer
-2 Scavenging Ooze
-3 Scavenging Ooze
 1 Oakhame Adversary
 1 Joraga Visionary
 2 Joraga Visionary
-2 Bloodchief's Thirst
+2 Scavenging Ooze
+3 Scavenging Ooze
 1 Jungle Hollow
 1 Elvish Warmaster
 2 Jungle Hollow
-5 Forest
-6 Forest
+2 Questing Beast
+1 Vivien, Monsters' Advocate
 7 Forest
 8 Forest
 9 Forest
 1 Evolving Wilds
-1 Feed the Swarm
+1 Extinction Event
+6 Swamp
+7 Swamp
 1 Fynn, the Fangbearer
 1 Ranger's Guile
 1 Wildborn Preserver
-1 Extinction Event
+1 Feed the Swarm
 1 Fully Grown
 1 Tajuru Blightblade
 1 Withercrown
 2 Feed the Swarm
 2 Oakhame Adversary
 2 Fully Grown
-2 Tajuru Blightblade
 2 Fynn, the Fangbearer
+2 Tajuru Blightblade
 3 Oakhame Adversary
 3 Fynn, the Fangbearer
 3 Jungle Hollow
@@ -119,14 +123,40 @@
 4 Tajuru Blightblade
 4 Fynn, the Fangbearer
 4 Jungle Hollow
-6 Swamp
-7 Swamp
 8 Swamp
+1 The World Tree
+1 Path to the World Tree
+1 Nighthawk Scavenger
+1 Scute Swarm
+1 Cosmos Elixir
+1 Vito, Thorn of the Dusk Rose
+1 Hooded Blightfang
+1 Kazandu Nectarpot
+2 Extinction Event
+2 Path to the World Tree
+2 The World Tree
+2 Nighthawk Scavenger
+2 Scute Swarm
+2 Evolving Wilds
+2 Vivien, Monsters' Advocate
+2 Cosmos Elixir
+2 Hooded Blightfang
+2 Vito, Thorn of the Dusk Rose
+2 Kazandu Nectarpot
+3 Extinction Event
+3 Path to the World Tree
+3 Nighthawk Scavenger
+3 Kazandu Nectarpot
+3 Evolving Wilds
+3 Vito, Thorn of the Dusk Rose
+3 Cosmos Elixir
+3 Bloodchief's Thirst
+4 Extinction Event
 1 Trail of Crumbs
 1 Gilded Goose
+1 Agadeem's Awakening
 1 Indatha Triome
 1 Wicked Wolf
-1 Agadeem's Awakening
 1 Turntimber Symbiosis
 2 Trail of Crumbs
 2 Gilded Goose
@@ -144,7 +174,6 @@
 4 Indatha Triome
 4 Wicked Wolf
 1 Faceless Haven
-2 Questing Beast
 2 Toski, Bearer of Secrets
 2 Faceless Haven
 3 Elder Gargaroth
@@ -156,7 +185,6 @@
 3 Necroblossom Snarl
 4 Necroblossom Snarl
 1 Sarulf, Realm Eater
-1 Vivien, Monsters' Advocate
 1 Foulmire Knight
 1 Wilt
 1 Order of Midnight
@@ -172,39 +200,39 @@
 1 Primal Might
 1 Snakeskin Veil
 1 Vorinclex, Monstrous Raider
+1 Skyclave Shade
 1 Garruk, Unleashed
 1 Tangled Florahedron
 1 Castle Garenbrig
 1 Swarm Shambler
-1 Skyclave Shade
 2 Stonecoil Serpent
 2 Snakeskin Veil
 2 Vorinclex, Monstrous Raider
 2 Skyclave Shade
+2 Castle Garenbrig
 2 Tangled Florahedron
 2 Primal Might
 2 Swarm Shambler
-2 Castle Garenbrig
 3 Castle Garenbrig
 3 Stonecoil Serpent
 4 Stonecoil Serpent
 4 Gemrazer
 10 Forest
 1 Realmwalker
-1 Wolfwillow Haven
 1 Masked Vandal
+1 Wolfwillow Haven
 2 Wolfwillow Haven
 3 Wolfwillow Haven
 9 Snow-Covered Forest
 10 Snow-Covered Swamp
 1 Skemfar Elderhall
+1 Deathknell Berserker
 1 Jaspera Sentinel
 1 Tyvar Kell
 1 Skemfar Shadowsage
-1 Deathknell Berserker
 2 Jaspera Sentinel
 2 Deathknell Berserker
-2 Return Upon the Tide
 2 Thornmantle Striker
+2 Return Upon the Tide
 2 Skemfar Shadowsage
 4 Boreal Outrider

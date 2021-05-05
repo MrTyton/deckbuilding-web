@@ -10,9 +10,9 @@
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon
+1 Bala Ged Recovery
 1 Irencrag Feat
 1 Spikefield Hazard
-1 Bala Ged Recovery
 1 Manamorphose
 1 Reforge the Soul
 1 Recross the Paths
@@ -33,8 +33,8 @@
 3 Irencrag Feat
 3 Spikefield Hazard
 3 Bala Ged Recovery
-3 Manamorphose
 3 Talisman of Impulse
+3 Manamorphose
 3 Recross the Paths
 3 Desperate Ritual
 3 Pyretic Ritual
@@ -47,68 +47,97 @@
 4 Goblin Charbelcher
 4 Pyretic Ritual
 4 Desperate Ritual
-2 Sphere of the Suns
 2 Hagra Mauling
+2 Sphere of the Suns
 1 Unburial Rites
 1 Serum Visions
 2 Serum Visions
 3 Serum Visions
 4 Serum Visions
 1 Island
+1 Peer Through Depths
+1 Merchant Scroll
+1 Dream's Grip
+1 Psychic Puppetry
+1 Twiddle
+1 Lonely Sandbar
+1 Reach Through Mists
+1 Ideas Unbound
 1 Lotus Field
-1 Sleight of Hand
 1 Tolaria West
 1 Echoing Truth
-1 Reach Through Mists
-1 Lonely Sandbar
-1 Twiddle
-1 Ideas Unbound
-1 Psychic Puppetry
 1 Grapeshot
 1 Past in Flames
-1 Dream's Grip
-1 Merchant Scroll
-1 Peer Through Depths
-2 Sleight of Hand
-2 Lonely Sandbar
-2 Tolaria West
-2 Psychic Puppetry
-2 Island
-2 Dream's Grip
-2 Reach Through Mists
-2 Peer Through Depths
+1 Sleight of Hand
+2 Twiddle
 2 Lotus Field
 2 Ideas Unbound
+2 Peer Through Depths
+2 Reach Through Mists
+2 Dream's Grip
+2 Psychic Puppetry
+2 Lonely Sandbar
+2 Tolaria West
+2 Island
+2 Sleight of Hand
 2 Past in Flames
-2 Twiddle
-3 Sleight of Hand
-3 Past in Flames
-3 Ideas Unbound
-3 Lonely Sandbar
-3 Psychic Puppetry
-3 Peer Through Depths
-3 Lotus Field
-3 Dream's Grip
 3 Reach Through Mists
-4 Sleight of Hand
-4 Lotus Field
+3 Peer Through Depths
+3 Psychic Puppetry
+3 Dream's Grip
+3 Lonely Sandbar
+3 Lotus Field
+3 Ideas Unbound
+3 Past in Flames
+3 Sleight of Hand
+4 Psychic Puppetry
 4 Lonely Sandbar
 4 Dream's Grip
-4 Reach Through Mists
-4 Peer Through Depths
 4 Ideas Unbound
-4 Psychic Puppetry
+4 Peer Through Depths
+4 Reach Through Mists
+4 Lotus Field
+4 Sleight of Hand
+1 Thoughtseize
+2 Thoughtseize
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
+3 Inquisition of Kozilek
+1 Urborg, Tomb of Yawgmoth
+1 Snow-Covered Swamp
+1 Into the North
+1 Vampire Hexmage
+1 Ghost Quarter
+1 Dark Depths
+1 Thespian's Stage
+1 Overgrown Tomb
+1 Snow-Covered Forest
+1 Abrupt Decay
+1 Verdant Catacombs
+2 Into the North
+2 Vampire Hexmage
+2 Dark Depths
+2 Verdant Catacombs
+2 Overgrown Tomb
+2 Thespian's Stage
+2 Urborg, Tomb of Yawgmoth
+2 Abrupt Decay
+3 Vampire Hexmage
+3 Thoughtseize
+3 Thespian's Stage
+3 Urborg, Tomb of Yawgmoth
+3 Dark Depths
+3 Verdant Catacombs
+4 Vampire Hexmage
+4 Dark Depths
+4 Thoughtseize
+4 Verdant Catacombs
 1 Opt
 2 Opt
 3 Opt
 4 Opt
-1 Inquisition of Kozilek
 1 Talisman of Hierarchy
-2 Inquisition of Kozilek
 2 Talisman of Hierarchy
-3 Inquisition of Kozilek
-1 Thoughtseize
-2 Thoughtseize
 3 Sphere of the Suns
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
@@ -117,8 +146,8 @@
 2 Emrakul, the Aeons Torn
 2 Wooded Foothills
 1 Indomitable Creativity
-1 Scalding Tarn
 1 Through the Breach
+1 Scalding Tarn
 1 Arid Mesa
 1 Lightning Helix
 1 Mountain
@@ -144,8 +173,8 @@
 2 Steam Vents
 3 Emrakul, the Aeons Torn
 3 Through the Breach
-3 Indomitable Creativity
 3 Prismari Command
+3 Indomitable Creativity
 3 Dwarven Mine
 3 Teferi, Time Raveler
 3 Scalding Tarn
@@ -156,16 +185,42 @@
 4 Through the Breach
 4 Emrakul, the Aeons Torn
 4 Indomitable Creativity
+4 Lightning Helix
 4 Remand
 4 Prismari Command
 4 Lightning Bolt
 4 Arid Mesa
-4 Lightning Helix
 4 Scalding Tarn
 3 Hagra Mauling
 4 Hagra Mauling
-1 Talisman of Indulgence
+1 Windswept Heath
+1 Dismember
+1 Chrome Mox
+1 Deathrite Shaman
+1 Dark Confidant
+1 Marsh Flats
+1 Sylvan Scrying
+1 Liliana of the Veil
+1 Fatal Push
+2 Chrome Mox
+2 Dark Confidant
+2 Fatal Push
+2 Marsh Flats
+2 Sylvan Scrying
+2 Deathrite Shaman
+2 Liliana of the Veil
+3 Overgrown Tomb
+3 Chrome Mox
+3 Deathrite Shaman
+3 Dark Confidant
+3 Liliana of the Veil
+3 Fatal Push
+3 Sylvan Scrying
+4 Chrome Mox
+4 Deathrite Shaman
+4 Dark Confidant
 1 Open the Omenpaths
+1 Talisman of Indulgence
 1 Chancellor of the Tangle
 2 Talisman of Indulgence
 2 Chancellor of the Tangle
@@ -179,9 +234,9 @@
 1 Snow-Covered Island
 1 Spirebluff Canal
 1 Vizier of Tumbling Sands
+2 Spirebluff Canal
 2 Vizier of Tumbling Sands
 2 Snow-Covered Island
-2 Spirebluff Canal
 2 Grapeshot
 3 Tolaria West
 3 Spirebluff Canal
@@ -192,7 +247,6 @@
 1 Seachrome Coast
 1 Darkslick Shores
 1 Wishclaw Talisman
-1 Urborg, Tomb of Yawgmoth
 1 Gemstone Mine
 1 Reflecting Pool
 1 Inverter of Truth
@@ -201,7 +255,6 @@
 1 Spoils of the Vault
 1 Jace, Wielder of Mysteries
 1 Phyrexian Unlife
-1 Snow-Covered Swamp
 2 Gemstone Mine
 2 Angel's Grace
 2 Phyrexian Unlife
@@ -228,39 +281,62 @@
 4 City of Brass
 4 Talisman of Dominance
 4 Gemstone Mine
+4 Inverter of Truth
 4 Shelldock Isle
 4 Thassa's Oracle
-4 Inverter of Truth
-1 Karn, the Great Creator
-1 Noble Hierarch
+1 Elvish Reclaimer
+1 Sensei's Divining Top
+1 Mental Misstep
+1 Bojuka Bog
+1 Once Upon a Time
+1 Nurturing Peatland
+1 Expedition Map
+2 Nurturing Peatland
+2 Elvish Reclaimer
+2 Sensei's Divining Top
+2 Mental Misstep
+2 Once Upon a Time
+2 Expedition Map
+3 Into the North
+3 Elvish Reclaimer
+3 Sensei's Divining Top
+3 Mental Misstep
+3 Once Upon a Time
+3 Abrupt Decay
+4 Elvish Reclaimer
+4 Mental Misstep
+4 Once Upon a Time
+4 Abrupt Decay
+4 Urborg, Tomb of Yawgmoth
+4 Thespian's Stage
+4 Sensei's Divining Top
 1 Lukka, Coppercoat Outcast
 1 Arbor Elf
 1 Chandra, Torch of Defiance
 1 Nahiri, the Harbinger
+1 Karn, the Great Creator
 1 Birds of Paradise
-1 Windswept Heath
+1 Noble Hierarch
 1 Temple Garden
 1 Forest
 1 Stomping Ground
-1 Oath of Nissa
 1 Utopia Sprawl
+1 Oath of Nissa
 2 Nahiri, the Harbinger
-2 Karn, the Great Creator
-2 Noble Hierarch
 2 Lukka, Coppercoat Outcast
 2 Arbor Elf
 2 Stomping Ground
 2 Forest
 2 Chandra, Torch of Defiance
-2 Oath of Nissa
-2 Birds of Paradise
-2 Utopia Sprawl
-2 Windswept Heath
+2 Karn, the Great Creator
+2 Noble Hierarch
 2 Temple Garden
-3 Karn, the Great Creator
+2 Oath of Nissa
+2 Utopia Sprawl
+2 Birds of Paradise
+2 Windswept Heath
 3 Chandra, Torch of Defiance
 3 Nahiri, the Harbinger
-3 Noble Hierarch
 3 Windswept Heath
 3 Wooded Foothills
 3 Utopia Sprawl
@@ -268,12 +344,12 @@
 3 Stomping Ground
 3 Forest
 3 Arbor Elf
+3 Karn, the Great Creator
 3 Birds of Paradise
+3 Noble Hierarch
 3 Oath of Nissa
-4 Karn, the Great Creator
 4 Chandra, Torch of Defiance
 4 Oath of Nissa
-4 Noble Hierarch
 4 Windswept Heath
 4 Wooded Foothills
 4 Utopia Sprawl
@@ -281,6 +357,8 @@
 4 Lukka, Coppercoat Outcast
 4 Stomping Ground
 4 Forest
+4 Karn, the Great Creator
+4 Noble Hierarch
 4 Birds of Paradise
 5 Forest
 6 Forest

@@ -69,8 +69,8 @@
 |                    4|[Mother of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430236)            |                     |                                                                                              |
 |                    4|[Flagstones of Trokair](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=116733)      |                     |                                                                                              |
 |                    1|[Qasali Pridemage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179556)           |                     |                                                                                              |
-|                    1|[Sword of Fire and Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46429)       |                     |                                                                                              |
 |                    1|[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=81979)             |                     |                                                                                              |
+|                    1|[Sword of Fire and Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=46429)       |                     |                                                                                              |
 |                    1|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)          |                     |                                                                                              |
 |                    2|[Stoneforge Mystic](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=198383)          |                     |                                                                                              |
 
