@@ -1,63 +1,3 @@
-1 Forest
-1 Windswept Heath
-2 Windswept Heath
-3 Windswept Heath
-1 Verdant Catacombs
-1 Birds of Paradise
-1 Skyclave Apparition
-1 Geralf's Messenger
-1 Overgrown Tomb
-1 Carrion Feeder
-1 Kitchen Finks
-1 Nurturing Peatland
-1 Tidehollow Sculler
-1 Athreos, God of Passage
-1 Silent Clearing
-1 Fatal Push
-1 Godless Shrine
-1 Anafenza, Kin-Tree Spirit
-1 Blooming Marsh
-1 Concealed Courtyard
-1 Collected Company
-1 Marsh Flats
-1 Voice of Resurgence
-1 Viscera Seer
-2 Verdant Catacombs
-2 Overgrown Tomb
-2 Skyclave Apparition
-2 Birds of Paradise
-2 Geralf's Messenger
-2 Kitchen Finks
-2 Concealed Courtyard
-2 Anafenza, Kin-Tree Spirit
-2 Blooming Marsh
-2 Tidehollow Sculler
-2 Viscera Seer
-2 Collected Company
-2 Fatal Push
-2 Voice of Resurgence
-2 Godless Shrine
-3 Skyclave Apparition
-3 Kitchen Finks
-3 Verdant Catacombs
-3 Voice of Resurgence
-3 Birds of Paradise
-3 Geralf's Messenger
-3 Concealed Courtyard
-3 Collected Company
-3 Anafenza, Kin-Tree Spirit
-3 Viscera Seer
-3 Fatal Push
-3 Tidehollow Sculler
-4 Verdant Catacombs
-4 Birds of Paradise
-4 Geralf's Messenger
-4 Voice of Resurgence
-4 Windswept Heath
-4 Kitchen Finks
-4 Collected Company
-4 Tidehollow Sculler
-4 Viscera Seer
 1 Cragcrown Pathway
 1 Mountain
 1 Stomping Ground
@@ -66,13 +6,14 @@
 1 Wooded Foothills
 1 Scavenging Ooze
 1 Elder Gargaroth
+1 Questing Beast
 1 Glorybringer
 1 Bloodbraid Elf
-1 Utopia Sprawl
 1 Bonecrusher Giant
+1 Utopia Sprawl
 1 Shatterskull Smashing
 1 Chandra, Torch of Defiance
-1 Questing Beast
+1 Lightning Bolt
 1 Arbor Elf
 1 Klothys, God of Destiny
 1 Seasoned Pyromancer
@@ -82,19 +23,21 @@
 2 Questing Beast
 2 Wooded Foothills
 2 Pillage
-2 Bonecrusher Giant
 2 Forest
+2 Stomping Ground
+2 Bonecrusher Giant
 2 Utopia Sprawl
 2 Arbor Elf
 2 Klothys, God of Destiny
 2 Bloodbraid Elf
 2 Blood Moon
-2 Stomping Ground
+2 Lightning Bolt
 2 Glorybringer
 2 Seasoned Pyromancer
 3 Cragcrown Pathway
 3 Wooded Foothills
 3 Arbor Elf
+3 Lightning Bolt
 3 Forest
 3 Stomping Ground
 3 Bloodbraid Elf
@@ -107,6 +50,7 @@
 4 Bloodbraid Elf
 4 Stomping Ground
 4 Utopia Sprawl
+4 Lightning Bolt
 4 Blood Moon
 4 Arbor Elf
 5 Forest

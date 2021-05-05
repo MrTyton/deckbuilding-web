@@ -35,8 +35,7 @@
 
 |                               A                                |                             B                              |                                C                                 |                               D                                |                          E                           |
 |----------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------|
-|[45c Good Stuff](./mtgtop8/Modern/decks/45c_Good_Stuff.md)      |[Dredge](./mtgtop8/Modern/decks/Dredge.md)                  |[Infect](./mtgtop8/Modern/decks/Infect.md)                        |[Other - Aggro](./mtgtop8/Modern/decks/Other_-_Aggro.md)        |[Twin Exarch](./mtgtop8/Modern/decks/Twin_Exarch.md)  |
-|[Allosaurus Combo](./mtgtop8/Modern/decks/Allosaurus_Combo.md)  |[Eldrazi Aggro](./mtgtop8/Modern/decks/Eldrazi_Aggro.md)    |[Jeskai Ascendancy](./mtgtop8/Modern/decks/Jeskai_Ascendancy.md)  |[Other - Combo](./mtgtop8/Modern/decks/Other_-_Combo.md)        |[UB Mill](./mtgtop8/Modern/decks/UB_Mill.md)          |
+|[45c Good Stuff](./mtgtop8/Modern/decks/45c_Good_Stuff.md)      |[Eldrazi Aggro](./mtgtop8/Modern/decks/Eldrazi_Aggro.md)    |[Jeskai Ascendancy](./mtgtop8/Modern/decks/Jeskai_Ascendancy.md)  |[Other - Combo](./mtgtop8/Modern/decks/Other_-_Combo.md)        |[UB Mill](./mtgtop8/Modern/decks/UB_Mill.md)          |
 |[Amulet Titan](./mtgtop8/Modern/decks/Amulet_Titan.md)          |[Elves](./mtgtop8/Modern/decks/Elves.md)                    |[Jeskai Control](./mtgtop8/Modern/decks/Jeskai_Control.md)        |[Other - Control](./mtgtop8/Modern/decks/Other_-_Control.md)    |[UR Aggro](./mtgtop8/Modern/decks/UR_Aggro.md)        |
 |[Arclight Phoenix](./mtgtop8/Modern/decks/Arclight_Phoenix.md)  |[Esper Control](./mtgtop8/Modern/decks/Esper_Control.md)    |[Jund](./mtgtop8/Modern/decks/Jund.md)                            |[Puresteel Paladin](./mtgtop8/Modern/decks/Puresteel_Paladin.md)|[UR Control](./mtgtop8/Modern/decks/UR_Control.md)    |
 |[Aura Hexproof](./mtgtop8/Modern/decks/Aura_Hexproof.md)        |[Faeries](./mtgtop8/Modern/decks/Faeries.md)                |[Junk](./mtgtop8/Modern/decks/Junk.md)                            |[Rakdos Aggro](./mtgtop8/Modern/decks/Rakdos_Aggro.md)          |[UR Storm](./mtgtop8/Modern/decks/UR_Storm.md)        |
@@ -48,6 +47,7 @@
 |[CopyCat](./mtgtop8/Modern/decks/CopyCat.md)                    |[Hatebear](./mtgtop8/Modern/decks/Hatebear.md)              |[Mono Red Control](./mtgtop8/Modern/decks/Mono_Red_Control.md)    |[Temur Aggro](./mtgtop8/Modern/decks/Temur_Aggro.md)            |[Walks](./mtgtop8/Modern/decks/Walks.md)              |
 |[Creatures Toolbox](./mtgtop8/Modern/decks/Creatures_Toolbox.md)|[Heliod Life](./mtgtop8/Modern/decks/Heliod_Life.md)        |[Niv-Mizzet Reborn](./mtgtop8/Modern/decks/Niv-Mizzet_Reborn.md)  |[Temur Control](./mtgtop8/Modern/decks/Temur_Control.md)        |[Zoo](./mtgtop8/Modern/decks/Zoo.md)                  |
 |[Death's Shadow](./mtgtop8/Modern/decks/Death's_Shadow.md)      |[Humans](./mtgtop8/Modern/decks/Humans.md)                  |[Orzhov Midrange](./mtgtop8/Modern/decks/Orzhov_Midrange.md)      |[The Rock](./mtgtop8/Modern/decks/The_Rock.md)                  |                                                      |
+|[Dredge](./mtgtop8/Modern/decks/Dredge.md)                      |[Infect](./mtgtop8/Modern/decks/Infect.md)                  |[Other - Aggro](./mtgtop8/Modern/decks/Other_-_Aggro.md)          |[Twin Exarch](./mtgtop8/Modern/decks/Twin_Exarch.md)            |                                                      |
 
 
 # Legacy
@@ -69,4 +69,4 @@
 
 
 
-#### Last Updated at 12:47PM on May 04, 2021
+#### Last Updated at 12:47AM on May 05, 2021

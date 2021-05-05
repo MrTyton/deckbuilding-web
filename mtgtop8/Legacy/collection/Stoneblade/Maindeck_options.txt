@@ -25,15 +25,15 @@
 1 Jace, Vryn's Prodigy
 1 Misty Rainforest
 2 Misty Rainforest
-1 Uro, Titan of Nature's Wrath
-1 Ice-Fang Coatl
 1 Snow-Covered Forest
+1 Ice-Fang Coatl
 1 Gilded Goose
 1 Tropical Island
+1 Uro, Titan of Nature's Wrath
 1 Savannah
-2 Uro, Titan of Nature's Wrath
 2 Ice-Fang Coatl
 2 Windswept Heath
+2 Uro, Titan of Nature's Wrath
 2 Gilded Goose
 3 Ice-Fang Coatl
 3 Gilded Goose
@@ -54,25 +54,25 @@
 1 Abundant Growth
 1 Mishra's Bauble
 2 Urza, Lord High Artificer
-2 Snow-Covered Forest
 2 Emry, Lurker of the Loch
+2 Engineered Explosives
 2 Urza's Bauble
 2 Abundant Growth
 2 Karakas
 2 Mishra's Bauble
-2 Engineered Explosives
+2 Snow-Covered Forest
 2 Prophetic Prism
 3 Uro, Titan of Nature's Wrath
+3 Misty Rainforest
 3 Snow-Covered Forest
-3 Teferi, Time Raveler
 3 Urza, Lord High Artificer
 3 Emry, Lurker of the Loch
-3 Misty Rainforest
+3 Teferi, Time Raveler
 3 Mishra's Bauble
 3 Abundant Growth
 4 Ice-Fang Coatl
-4 Emry, Lurker of the Loch
 4 Misty Rainforest
+4 Emry, Lurker of the Loch
 4 Mishra's Bauble
 1 Ashiok, Dream Render
 1 Spell Snare
@@ -95,11 +95,6 @@
 2 Ancient Tomb
 3 Hullbreacher
 3 Ancient Tomb
-1 Venser, Shaper Savant
-1 Shark Typhoon
-2 Vendilion Clique
-3 Preordain
-4 Prismatic Vista
 1 Inquisition of Kozilek
 1 Scrubland
 1 Thoughtseize
@@ -124,11 +119,16 @@
 3 Delver of Secrets
 4 Wasteland
 4 Delver of Secrets
-6 Island
-5 Snow-Covered Island
-6 Snow-Covered Island
 1 Lightning Bolt
 2 Volcanic Island
 2 Lightning Bolt
 3 Scalding Tarn
 4 Scalding Tarn
+6 Island
+5 Snow-Covered Island
+6 Snow-Covered Island
+1 Venser, Shaper Savant
+1 Shark Typhoon
+2 Vendilion Clique
+3 Preordain
+4 Prismatic Vista

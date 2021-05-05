@@ -4,25 +4,28 @@
 1 Ghost Quarter
 1 Relic of Progenitus
 2 Relic of Progenitus
-3 All Is Dust
 1 Ugin, the Ineffable
 1 Explore
-2 Ugin, the Ineffable
 2 Explore
-3 Ugin, the Ineffable
 3 Explore
+3 All Is Dust
+2 Ugin, the Ineffable
+3 Ugin, the Ineffable
 5 Forest
-1 Cascading Cataracts
-1 Golos, Tireless Pilgrim
-2 Golos, Tireless Pilgrim
 2 Walking Ballista
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
+1 Cascading Cataracts
+1 Golos, Tireless Pilgrim
+2 Golos, Tireless Pilgrim
 3 Golos, Tireless Pilgrim
 1 Dismember
 1 Thought-Knot Seer
 2 Thought-Knot Seer
+1 Wandering Archaic
+2 Wandering Archaic
+4 Explore
 1 Scavenger Grounds
 1 Platinum Angel
 1 Spatial Contortion
@@ -39,9 +42,6 @@
 1 Duplicant
 3 Ugin, the Spirit Dragon
 3 Ulamog, the Ceaseless Hunger
-1 Ratchet Bomb
-2 Ratchet Bomb
-4 Wurmcoil Engine
 1 Spell Burst
 1 River of Tears
 1 Eldrazi Temple
@@ -63,9 +63,9 @@
 2 Remand
 2 Field of Ruin
 2 Condescend
-2 Force of Negation
 2 Thirst for Knowledge
 2 Tolaria West
+2 Force of Negation
 3 Repeal
 3 Island
 3 Condescend
@@ -73,8 +73,8 @@
 3 Thirst for Knowledge
 4 Island
 4 Remand
-4 Thirst for Knowledge
 4 Condescend
+4 Thirst for Knowledge
 1 Chromatic Orrery
 1 Filigree Sages
 2 Chromatic Orrery

@@ -249,7 +249,7 @@
 |                    2|[Glacial Fortress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190562)            |                     |                                                                                                    |
 |                    3|[Glacial Fortress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190562)            |                     |                                                                                                    |
 |                    3|[Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438614)             |                     |                                                                                                    |
+|                    4|[Glacial Fortress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190562)            |                     |                                                                                                    |
 |                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |                                                                                                    |
 |                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                      |                     |                                                                                                    |
-|                    4|[Glacial Fortress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=190562)            |                     |                                                                                                    |
 

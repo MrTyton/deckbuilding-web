@@ -1,18 +1,3 @@
-3 Temple of Plenty
-4 Temple of Plenty
-1 Skyclave Apparition
-2 Skyclave Apparition
-4 Felidar Retreat
-2 Tangled Florahedron
-1 Yasharn, Implacable Earth
-2 Yasharn, Implacable Earth
-2 Emeria's Call
-3 Emeria's Call
-5 Plains
-6 Plains
-1 Evolving Wilds
-2 Evolving Wilds
-1 Luminarch Aspirant
 1 Conclave Mentor
 2 Conclave Mentor
 3 Conclave Mentor
@@ -38,19 +23,31 @@
 7 Plains
 8 Plains
 9 Plains
+1 Castle Ardenvale
+1 Esika's Chariot
+1 Temple of Plenty
+2 Temple of Plenty
+3 Toski, Bearer of Secrets
+3 Skyclave Apparition
+3 Shepherd of the Flock
+3 Temple of Plenty
+4 Skyclave Apparition
+4 Temple of Plenty
+1 Kazandu Mammoth
 1 Lurrus of the Dream-Den
 1 Reidane, God of the Worthy
 1 Vivien, Monsters' Advocate
+2 Kazandu Mammoth
 2 Vivien, Monsters' Advocate
+2 The Great Henge
+3 The Great Henge
 3 Tangled Florahedron
+3 Kazandu Mammoth
 4 Tangled Florahedron
-1 Castle Ardenvale
-1 Esika's Chariot
-3 Toski, Bearer of Secrets
-3 Skyclave Apparition
-4 Skyclave Apparition
+4 Kazandu Mammoth
 1 Lotus Cobra
 1 Shadrix Silverquill
+1 Yasharn, Implacable Earth
 1 Migratory Greathorn
 1 Scute Swarm
 1 Garruk, Unleashed
@@ -62,13 +59,16 @@
 2 Migratory Greathorn
 2 Scute Swarm
 2 Banishing Light
+2 Yasharn, Implacable Earth
+2 Emeria's Call
 2 Cultivate
 2 Murasa Rootgrazer
+3 Emeria's Call
 3 Lotus Cobra
 3 Scute Swarm
 3 Migratory Greathorn
-3 Shadrix Silverquill
 3 Yasharn, Implacable Earth
+3 Shadrix Silverquill
 3 Murasa Rootgrazer
 4 Lotus Cobra
 4 Scute Swarm
@@ -102,21 +102,6 @@
 4 Attended Healer
 4 Expedition Healer
 4 Blossoming Sands
-1 Colossal Plow
-1 Giant Ox
-1 Relic Golem
-1 Scavenging Ooze
-2 Colossal Plow
-2 Giant Ox
-2 Relic Golem
-3 Colossal Plow
-3 Giant Ox
-3 Relic Golem
-4 Colossal Plow
-4 Emeria's Call
-4 The Great Henge
-4 Shepherd of the Flock
-4 Relic Golem
 1 Scoured Barrens
 1 Polukranos, Unchained
 1 Jungle Hollow
