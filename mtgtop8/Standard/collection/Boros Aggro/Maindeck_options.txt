@@ -1,16 +1,6 @@
-3 Embercleave
-3 Faceless Haven
-7 Snow-Covered Mountain
-2 Elite Spellbinder
-3 Giant Killer
-8 Snow-Covered Plains
-9 Snow-Covered Plains
-1 Maul of the Skyclaves
-2 Maul of the Skyclaves
-3 Maul of the Skyclaves
+2 Embercleave
 1 Shatterskull Smashing
-2 Shatterskull Smashing
-3 Shatterskull Smashing
+4 Usher of the Fallen
 1 Plains
 1 Mountain
 2 Plains
@@ -22,7 +12,8 @@
 5 Mountain
 5 Plains
 6 Plains
-3 Reidane, God of the Worthy
+2 Shatterskull Smashing
+3 Shatterskull Smashing
 4 Selfless Savior
 7 Plains
 8 Plains
@@ -49,12 +40,11 @@
 4 Professor of Symbology
 4 Blade Historian
 4 Winota, Joiner of Forces
-1 Castle Embereth
-1 Rimrock Knight
-2 Rimrock Knight
-3 Rimrock Knight
-4 Embercleave
-4 Rimrock Knight
+1 Fervent Champion
+2 Fervent Champion
+3 Fervent Champion
+4 Fervent Champion
+6 Snow-Covered Mountain
 1 Halvar, God of Battle
 1 Shadowspear
 1 Akiri, Fearless Voyager
@@ -68,6 +58,7 @@
 4 Fireblade Charger
 1 Shepherd of the Flock
 2 Shepherd of the Flock
+3 Reidane, God of the Worthy
 1 Temple of Triumph
 2 Temple of Triumph
 3 Elite Spellbinder
@@ -77,16 +68,12 @@
 2 Lurrus of the Dream-Den
 2 Goldvein Pick
 3 Shadowspear
-1 Arni Brokenbrow
-2 Arni Brokenbrow
-2 Castle Embereth
-4 Faceless Haven
+1 Swift Response
 1 Kor Blademaster
 1 Relic Axe
-1 Swift Response
+2 Swift Response
 2 Kor Blademaster
 2 Relic Axe
-2 Swift Response
 3 Relic Axe
 3 Kor Blademaster
 3 Akiri, Fearless Voyager
@@ -95,10 +82,6 @@
 4 Halvar, God of Battle
 4 Maul of the Skyclaves
 4 Kor Blademaster
-1 Frost Bite
-2 Frost Bite
-3 Frost Bite
-4 Frost Bite
 1 Goldspan Dragon
 1 Mila, Crafty Companion
 1 Flamescroll Celebrant
@@ -111,14 +94,19 @@
 2 Elspeth, Sun's Nemesis
 2 Rip Apart
 2 Elspeth Conquers Death
-3 Flamescroll Celebrant
 3 Goldspan Dragon
+3 Flamescroll Celebrant
 3 Rip Apart
 4 Flamescroll Celebrant
 4 Rip Apart
 6 Mountain
-4 Reidane, God of the Worthy
-8 Snow-Covered Mountain
+1 Frost Bite
+2 Frost Bite
+3 Embercleave
+3 Faceless Haven
+3 Frost Bite
+4 Frost Bite
+7 Snow-Covered Mountain
 1 Drannith Magistrate
 1 Robber of the Rich
 1 Emeria's Call

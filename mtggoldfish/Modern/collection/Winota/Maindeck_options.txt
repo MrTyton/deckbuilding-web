@@ -1,78 +1,80 @@
-1 Aether Vial
-1 Thalia, Guardian of Thraben
 2 Aether Vial
 3 Aether Vial
 4 Aether Vial
 4 Skyclave Apparition
-1 Leonin Arbiter
-1 Giver of Runes
-1 Needleverge Pathway
 1 Ghost Quarter
+1 Leonin Arbiter
+1 Needleverge Pathway
+1 Giver of Runes
 1 Sunbaked Canyon
 2 Leonin Arbiter
 2 Needleverge Pathway
-2 Giver of Runes
 2 Ghost Quarter
 2 Sacred Foundry
+2 Giver of Runes
 2 Sunbaked Canyon
 3 Sacred Foundry
 3 Leonin Arbiter
 3 Needleverge Pathway
-3 Giver of Runes
 3 Plains
+3 Giver of Runes
 3 Sunbaked Canyon
 4 Leonin Arbiter
-4 Plains
 4 Needleverge Pathway
-4 Sacred Foundry
-4 Giver of Runes
+4 Plains
 4 Sunbaked Canyon
+4 Giver of Runes
 5 Plains
-2 Pia and Kiran Nalaar
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
-1 Sword of Fire and Ice
 1 Batterskull
+1 Sword of Fire and Ice
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
 3 Ghost Quarter
 4 Ghost Quarter
-4 Thalia, Guardian of Thraben
+4 Sacred Foundry
+2 Pia and Kiran Nalaar
 1 Maul of the Skyclaves
 1 Inspiring Vantage
+1 Path to Exile
+2 Path to Exile
+4 Arbor Elf
+1 Forest
+2 Forest
+3 Voice of Resurgence
+4 Wooded Foothills
+4 Lightning Bolt
+4 Thalia, Guardian of Thraben
+1 Battlefield Forge
+2 Battlefield Forge
 2 Inspiring Vantage
 3 Inspiring Vantage
 4 Inspiring Vantage
-1 Path to Exile
-2 Path to Exile
+1 Arid Mesa
 1 Charming Prince
-1 Battlefield Forge
-2 Battlefield Forge
 3 Path to Exile
 3 Battlefield Forge
 4 Path to Exile
 4 Battlefield Forge
-4 Arbor Elf
-1 Forest
-2 Forest
-4 Lightning Bolt
-1 Arid Mesa
 6 Plains
 1 Phyrexian Revoker
 1 Razorverge Thicket
+2 Phyrexian Revoker
 3 Stomping Ground
 1 Cavern of Souls
-2 Phyrexian Revoker
-1 Snow-Covered Mountain
-1 Snow-Covered Forest
 1 Geist-Honored Monk
 2 Geist-Honored Monk
 3 Geist-Honored Monk
+1 Snow-Covered Mountain
+1 Snow-Covered Forest
 4 Geist-Honored Monk
-2 Cavern of Souls
 2 Razorverge Thicket
+2 Cavern of Souls
+1 Rugged Prairie
+2 Rugged Prairie
 3 Temple Garden
 1 Llanowar Elves
 2 Llanowar Elves
@@ -82,8 +84,6 @@
 2 Mountain
 1 Snow-Covered Plains
 1 Resolute Blademaster
-1 Rugged Prairie
-2 Rugged Prairie
 1 Horizon Canopy
 1 Huntmaster of the Fells
 1 Goblin Rabblemaster
@@ -97,8 +97,8 @@
 3 Godo, Bandit Warlord
 4 Godo, Bandit Warlord
 1 Reflecting Pool
-1 Island
 1 Flooded Strand
+1 Island
 1 Hallowed Fountain
 1 Blade Splicer
 1 Ancient Ziggurat
@@ -139,8 +139,8 @@
 3 Noble Hierarch
 4 Flooded Strand
 4 Reflecting Pool
-4 Champion of the Parish
 4 Unclaimed Territory
+4 Champion of the Parish
 4 Smuggler's Copter
 4 Kitesail Freebooter
 4 Mantis Rider
@@ -150,6 +150,14 @@
 4 Blade Splicer
 4 Noble Hierarch
 4 Cavern of Souls
+1 Elite Spellbinder
+1 Field of Ruin
+2 Elite Spellbinder
+2 Field of Ruin
+3 Elite Spellbinder
+3 Rugged Prairie
+4 Elite Spellbinder
+7 Plains
 1 Blade Historian
 1 Eternal Witness
 2 Snow-Covered Forest
@@ -178,8 +186,8 @@
 3 Huntmaster of the Fells
 3 Utopia Sprawl
 4 Goblin Rabblemaster
-4 Forest
 4 Magus of the Moon
 4 Huntmaster of the Fells
-5 Forest
 4 Utopia Sprawl
+5 Forest
+4 Forest

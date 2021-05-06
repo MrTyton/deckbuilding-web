@@ -1,50 +1,49 @@
-4 Noble Hierarch
-1 Prismatic Vista
-4 Uro, Titan of Nature's Wrath
-4 Misty Rainforest
-1 Plains
-2 Plains
-1 Polluted Delta
-2 Snapcaster Mage
-2 Jace, the Mind Sculptor
-2 Force of Negation
-2 Prismatic Vista
 1 Savannah
 2 Sylvan Library
 1 Windswept Heath
-1 Spell Pierce
-1 Brazen Borrower
+1 Snapcaster Mage
 3 Sylvan Library
+1 True-Name Nemesis
+2 True-Name Nemesis
+1 Skyclave Apparition
+1 Plains
+2 Plains
+1 Prismatic Vista
+2 Force of Negation
+2 Prismatic Vista
+2 Snapcaster Mage
+2 Jace, the Mind Sculptor
+1 Polluted Delta
+2 Windswept Heath
 3 Island
 4 Island
-2 Polluted Delta
-1 Skyclave Apparition
-2 Windswept Heath
-2 Spell Pierce
-1 Scalding Tarn
-2 Snow-Covered Island
-1 Preordain
-3 Snapcaster Mage
-3 Prismatic Vista
+1 Spell Pierce
 1 Birds of Paradise
 2 Skyclave Apparition
+1 Scalding Tarn
+1 Brazen Borrower
+3 Snapcaster Mage
+2 Polluted Delta
+2 Spell Pierce
+3 Prismatic Vista
+2 Snow-Covered Island
+1 Preordain
 1 Volcanic Island
+1 Narset, Parter of Veils
+1 Hullbreacher
+1 Council's Judgment
+1 Vendilion Clique
+2 Preordain
 4 Wasteland
 3 Snow-Covered Island
-1 Narset, Parter of Veils
+5 Island
+1 Sword of Fire and Ice
 1 Delver of Secrets
 2 Delver of Secrets
 3 Delver of Secrets
 4 Delver of Secrets
-1 Hullbreacher
-1 Council's Judgment
-2 Preordain
-1 Vendilion Clique
-1 Sword of Fire and Ice
-5 Island
 1 Sword of Feast and Famine
 2 Scalding Tarn
-3 Polluted Delta
 2 Vendilion Clique
 3 Preordain
 4 Prismatic Vista
@@ -54,6 +53,7 @@
 3 Tropical Island
 1 Underground Sea
 2 Narset, Parter of Veils
+3 Polluted Delta
 1 Venser, Shaper Savant
 4 Preordain
 1 Mystic Sanctuary
@@ -67,15 +67,14 @@
 2 Snow-Covered Plains
 4 Snow-Covered Island
 1 Swamp
-4 Polluted Delta
 1 Baleful Strix
 1 Scrubland
 2 Baleful Strix
 3 Tundra
 2 Underground Sea
 1 Paradigm Shift
-1 Thought Lash
 1 Jace, Wielder of Mysteries
+1 Thought Lash
 1 Shelldock Isle
 1 Thassa's Oracle
 1 Ancient Tomb
@@ -119,6 +118,7 @@
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
+4 Polluted Delta
 1 Kaya, Orzhov Usurper
 1 Impulse
 2 Impulse
@@ -134,18 +134,18 @@
 1 Liliana, the Last Hope
 2 Council's Judgment
 2 Spell Snare
-1 Path to Exile
+1 Qasali Pridemage
+1 Scavenging Ooze
 1 Tarmogoyf
 1 Renegade Rallier
-1 Qasali Pridemage
 1 Green Sun's Zenith
-1 Scavenging Ooze
+1 Path to Exile
 2 Renegade Rallier
 2 Tarmogoyf
 1 Dovin's Veto
 3 Snow-Covered Plains
-1 Unearth
 1 Drown in the Loch
+1 Unearth
 2 Drown in the Loch
 2 Unearth
 3 Baleful Strix
@@ -173,15 +173,15 @@
 4 Impulse
 7 Island
 8 Island
+1 Verdant Catacombs
 1 Tireless Tracker
 1 Ice-Fang Coatl
-1 Verdant Catacombs
 1 Karn, the Great Creator
 2 Snow-Covered Forest
+2 Verdant Catacombs
 2 Karn, the Great Creator
 2 Back to Basics
 2 Ice-Fang Coatl
-2 Verdant Catacombs
 3 Windswept Heath
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl

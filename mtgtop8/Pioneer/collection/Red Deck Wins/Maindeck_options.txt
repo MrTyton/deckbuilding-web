@@ -25,7 +25,6 @@
 3 Risk Factor
 4 Risk Factor
 2 Shock
-1 Reckless Bushwhacker
 1 Goblin Instigator
 1 Legion Loyalist
 1 Foundry Street Denizen
@@ -33,6 +32,7 @@
 1 Skirk Prospector
 1 Castle Embereth
 1 Goblin Piledriver
+1 Reckless Bushwhacker
 1 Goblin Chainwhirler
 2 Reckless Bushwhacker
 2 Goblin Instigator
@@ -43,20 +43,20 @@
 2 Skirk Prospector
 2 Castle Embereth
 3 Goblin Piledriver
-3 Reckless Bushwhacker
 3 Skirk Prospector
 3 Castle Embereth
+3 Reckless Bushwhacker
 3 Legion Loyalist
 3 Goblin Instigator
 3 Foundry Street Denizen
 4 Castle Embereth
-4 Reckless Bushwhacker
 4 Legion Loyalist
+4 Reckless Bushwhacker
 4 Foundry Street Denizen
 1 Clever Lumimancer
 2 Needleverge Pathway
-1 Burning-Tree Emissary
 1 Legion Warboss
+1 Burning-Tree Emissary
 1 Goblin Arsonist
 1 Goblin Trashmaster
 1 Fanatical Firebrand
@@ -70,10 +70,10 @@
 3 Fanatical Firebrand
 4 Burning-Tree Emissary
 1 Shatterskull Smashing
-1 Spikefield Hazard
 1 Chandra, Torch of Defiance
-2 Spikefield Hazard
+1 Spikefield Hazard
 2 Shatterskull Smashing
+2 Spikefield Hazard
 2 Chandra, Torch of Defiance
 3 Spikefield Hazard
 3 Chandra, Torch of Defiance

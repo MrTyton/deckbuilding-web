@@ -120,6 +120,8 @@
 3 Snow-Covered Mountain
 3 Shatterskull Smashing
 4 Shatterskull Smashing
+1 Veteran Adventurer
+4 Toski, Bearer of Secrets
 1 Magda, Brazen Outlaw
 2 Magda, Brazen Outlaw
 3 Lotus Cobra
@@ -128,8 +130,6 @@
 4 Lotus Cobra
 4 Gilded Goose
 4 Reidane, God of the Worthy
-1 Veteran Adventurer
-4 Toski, Bearer of Secrets
 1 Pilgrim of the Ages
 1 Savai Triome
 2 Pilgrim of the Ages
@@ -169,15 +169,15 @@
 4 Embercleave
 4 Alpine Houndmaster
 4 Pack Leader
-1 Maul of the Skyclaves
 1 Fireblade Charger
+1 Maul of the Skyclaves
 1 Darkbore Pathway
 1 Tajuru Paragon
 1 Tazri, Beacon of Unity
 1 Archpriest of Iona
-2 Maul of the Skyclaves
 2 Fireblade Charger
 2 Archpriest of Iona
+2 Maul of the Skyclaves
 2 Tajuru Paragon
 2 Darkbore Pathway
 3 Fireblade Charger
@@ -190,8 +190,8 @@
 1 Strict Proctor
 2 Battlefield Raptor
 2 Strict Proctor
-3 Strict Proctor
 3 Battlefield Raptor
+3 Strict Proctor
 4 Strict Proctor
 4 Battlefield Raptor
 8 Mountain
