@@ -6,6 +6,8 @@
 11 Mountain
 12 Mountain
 13 Mountain
+14 Mountain
+15 Mountain
 1 Ramunap Ruins
 2 Ramunap Ruins
 1 Bonecrusher Giant
@@ -13,30 +15,28 @@
 3 Bonecrusher Giant
 3 Ramunap Ruins
 4 Ramunap Ruins
-14 Mountain
-15 Mountain
-1 Bomat Courier
-2 Bomat Courier
-3 Bomat Courier
-4 Bonecrusher Giant
 16 Mountain
 1 Risk Factor
 2 Risk Factor
 3 Risk Factor
+4 Bonecrusher Giant
 4 Risk Factor
+1 Bomat Courier
+2 Bomat Courier
+3 Bomat Courier
 2 Shock
 1 Goblin Instigator
 1 Legion Loyalist
+1 Reckless Bushwhacker
 1 Foundry Street Denizen
 1 Goblin Ringleader
 1 Skirk Prospector
 1 Castle Embereth
 1 Goblin Piledriver
-1 Reckless Bushwhacker
 1 Goblin Chainwhirler
-2 Reckless Bushwhacker
 2 Goblin Instigator
 2 Legion Loyalist
+2 Reckless Bushwhacker
 2 Foundry Street Denizen
 2 Goblin Ringleader
 2 Goblin Piledriver
@@ -45,9 +45,9 @@
 3 Goblin Piledriver
 3 Skirk Prospector
 3 Castle Embereth
-3 Reckless Bushwhacker
 3 Legion Loyalist
 3 Goblin Instigator
+3 Reckless Bushwhacker
 3 Foundry Street Denizen
 4 Castle Embereth
 4 Legion Loyalist
@@ -69,16 +69,6 @@
 3 Burning-Tree Emissary
 3 Fanatical Firebrand
 4 Burning-Tree Emissary
-1 Shatterskull Smashing
-1 Chandra, Torch of Defiance
-1 Spikefield Hazard
-2 Shatterskull Smashing
-2 Spikefield Hazard
-2 Chandra, Torch of Defiance
-3 Spikefield Hazard
-3 Chandra, Torch of Defiance
-4 Bomat Courier
-4 Spikefield Hazard
 3 Shock
 4 Shock
 1 Conspicuous Snoop

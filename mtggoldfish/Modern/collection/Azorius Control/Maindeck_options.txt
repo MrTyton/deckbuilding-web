@@ -20,9 +20,9 @@
 2 Misty Rainforest
 2 Polluted Delta
 2 Snow-Covered Plains
-1 Sword of Feast and Famine
-1 Batterskull
 1 Stoneforge Mystic
+1 Batterskull
+1 Sword of Feast and Famine
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
@@ -63,8 +63,8 @@
 1 Windswept Heath
 1 Doomskar
 2 Starnheim Unleashed
-2 Timely Reinforcements
 2 Doomskar
+2 Timely Reinforcements
 1 Engineered Explosives
 2 Castle Ardenvale
 3 Plains
@@ -72,18 +72,6 @@
 3 Hallowed Fountain
 3 Scalding Tarn
 4 Scalding Tarn
-1 Sea Gate Restoration
-1 Elspeth, Sun's Nemesis
-1 Terminus
-1 Omen of the Sea
-2 Mystic Gate
-2 Logic Knot
-2 Terminus
-2 Omen of the Sea
-3 Mystic Gate
-3 Terminus
-3 Omen of the Sea
-4 Terminus
 8 Snow-Covered Island
 1 Blessed Alliance
 1 Vedalken Shackles
@@ -95,3 +83,15 @@
 8 Island
 9 Island
 10 Island
+1 Sea Gate Restoration
+1 Elspeth, Sun's Nemesis
+1 Terminus
+1 Omen of the Sea
+2 Mystic Gate
+2 Logic Knot
+2 Terminus
+2 Omen of the Sea
+3 Mystic Gate
+3 Terminus
+4 Terminus
+3 Omen of the Sea
