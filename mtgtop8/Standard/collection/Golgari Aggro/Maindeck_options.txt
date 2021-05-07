@@ -1,4 +1,4 @@
-1 Llanowar Visionary
+1 Woodland Chasm
 2 Elderfang Disciple
 2 Llanowar Visionary
 3 Elderfang Disciple
@@ -16,23 +16,23 @@
 1 Return Upon the Tide
 1 Snow-Covered Swamp
 2 Boreal Outrider
-2 Woodland Chasm
 2 Grasp of Darkness
 2 Harald, King of Skemfar
+2 Woodland Chasm
 2 Snow-Covered Swamp
 2 Sculptor of Winter
 2 Snow-Covered Forest
 3 Grasp of Darkness
-3 Woodland Chasm
 3 Harald, King of Skemfar
 3 Sculptor of Winter
 3 Snow-Covered Swamp
 3 Snow-Covered Forest
 3 Boreal Outrider
-4 Woodland Chasm
+3 Woodland Chasm
 4 Sculptor of Winter
 4 Snow-Covered Forest
 4 Snow-Covered Swamp
+4 Woodland Chasm
 5 Snow-Covered Swamp
 5 Snow-Covered Forest
 6 Snow-Covered Swamp
@@ -81,23 +81,23 @@
 1 Fynn, the Fangbearer
 1 Wildborn Preserver
 1 Ranger's Guile
+1 Withercrown
 1 Fully Grown
 1 Tajuru Blightblade
-1 Withercrown
-2 Oakhame Adversary
-2 Fynn, the Fangbearer
 2 Feed the Swarm
+2 Oakhame Adversary
 2 Fully Grown
+2 Fynn, the Fangbearer
 2 Tajuru Blightblade
-3 Fynn, the Fangbearer
 3 Jungle Hollow
-3 Tajuru Blightblade
 3 Oakhame Adversary
+3 Fynn, the Fangbearer
+3 Tajuru Blightblade
 3 Fully Grown
 4 Jungle Hollow
+4 Oakhame Adversary
 4 Fynn, the Fangbearer
 4 Tajuru Blightblade
-4 Oakhame Adversary
 7 Forest
 8 Forest
 8 Swamp
@@ -105,21 +105,21 @@
 1 The World Tree
 1 Path to the World Tree
 1 Questing Beast
-1 Hooded Blightfang
 1 Vito, Thorn of the Dusk Rose
 1 Cosmos Elixir
+1 Hooded Blightfang
 1 Kazandu Nectarpot
 1 Scute Swarm
 1 Nighthawk Scavenger
 2 Path to the World Tree
-2 The World Tree
 2 Questing Beast
 2 Evolving Wilds
-2 Hooded Blightfang
+2 Vivien, Monsters' Advocate
 2 Extinction Event
 2 Cosmos Elixir
+2 Hooded Blightfang
 2 Vito, Thorn of the Dusk Rose
-2 Vivien, Monsters' Advocate
+2 The World Tree
 2 Kazandu Nectarpot
 2 Nighthawk Scavenger
 2 Scute Swarm
@@ -136,6 +136,40 @@
 2 Necroblossom Snarl
 3 Necroblossom Snarl
 4 Necroblossom Snarl
+1 Rankle, Master of Pranks
+1 Foulmire Knight
+1 Order of Midnight
+1 Wilt
+1 Toski, Bearer of Secrets
+1 Heartless Act
+1 Sarulf, Realm Eater
+1 Edgewall Innkeeper
+2 Rankle, Master of Pranks
+2 Foulmire Knight
+2 Order of Midnight
+2 Wilt
+2 Scavenging Ooze
+2 Edgewall Innkeeper
+2 Heartless Act
+3 Temple of Malady
+3 Foulmire Knight
+3 Scavenging Ooze
+3 Edgewall Innkeeper
+3 Heartless Act
+4 Foulmire Knight
+4 Edgewall Innkeeper
+4 Murderous Rider
+1 Skemfar Elderhall
+1 Deathknell Berserker
+1 Tyvar Kell
+1 Jaspera Sentinel
+1 Skemfar Shadowsage
+2 Deathknell Berserker
+2 Jaspera Sentinel
+2 Thornmantle Striker
+2 Return Upon the Tide
+2 Skemfar Shadowsage
+4 Boreal Outrider
 1 Trail of Crumbs
 1 Gilded Goose
 1 Indatha Triome
@@ -153,48 +187,14 @@
 2 Turntimber Symbiosis
 2 Indatha Triome
 3 The Great Henge
-3 Indatha Triome
 3 Gilded Goose
 3 Eliminate
 3 Wicked Wolf
 3 Trail of Crumbs
+3 Indatha Triome
 4 Gilded Goose
-4 Indatha Triome
 4 Wicked Wolf
-1 Skemfar Elderhall
-1 Tyvar Kell
-1 Deathknell Berserker
-1 Jaspera Sentinel
-1 Skemfar Shadowsage
-2 Jaspera Sentinel
-2 Deathknell Berserker
-2 Thornmantle Striker
-2 Return Upon the Tide
-2 Skemfar Shadowsage
-4 Boreal Outrider
-1 Order of Midnight
-1 Sarulf, Realm Eater
-1 Rankle, Master of Pranks
-1 Wilt
-1 Toski, Bearer of Secrets
-1 Heartless Act
-1 Edgewall Innkeeper
-1 Foulmire Knight
-2 Order of Midnight
-2 Rankle, Master of Pranks
-2 Wilt
-2 Scavenging Ooze
-2 Foulmire Knight
-2 Edgewall Innkeeper
-2 Heartless Act
-3 Temple of Malady
-3 Scavenging Ooze
-3 Edgewall Innkeeper
-3 Heartless Act
-3 Foulmire Knight
-4 Murderous Rider
-4 Edgewall Innkeeper
-4 Foulmire Knight
+4 Indatha Triome
 1 Realmwalker
 1 Wolfwillow Haven
 1 Masked Vandal

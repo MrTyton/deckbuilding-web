@@ -18,9 +18,9 @@
 1 Castle Ardenvale
 1 Transmogrify
 1 Forbidden Friendship
-1 Outlaws' Merriment
 1 Omen of the Sun
 1 Shatterskull Smashing
+1 Outlaws' Merriment
 1 Elspeth, Sun's Nemesis
 1 Soul Sear
 1 Fire Prophecy
@@ -30,14 +30,14 @@
 1 The Birth of Meletis
 1 Glass Casket
 2 Emeria's Call
-2 Temple of Triumph
 2 Castle Ardenvale
-2 Transmogrify
 2 Forbidden Friendship
+2 Transmogrify
 2 Elspeth, Sun's Nemesis
 2 Glass Casket
 2 Soul Sear
 2 Fire Prophecy
+2 Temple of Triumph
 2 Lukka, Coppercoat Outcast
 2 Shatterskull Smashing
 2 Omen of the Sun
@@ -96,8 +96,8 @@
 3 Gnottvold Slumbermound
 4 Barkchannel Pathway
 4 Dryad of the Ilysian Grove
-4 Evolving Wilds
 4 Field Trip
+4 Evolving Wilds
 4 Azusa, Lost but Seeking
 4 Gnottvold Slumbermound
 4 Scute Swarm
@@ -107,6 +107,7 @@
 5 Forest
 6 Forest
 1 Haktos the Unscarred
+1 Furycalm Snarl
 1 Winota, Joiner of Forces
 1 Usher of the Fallen
 1 Blade Historian
@@ -115,7 +116,6 @@
 1 Elite Spellbinder
 1 Selfless Savior
 1 Kenrith, the Returned King
-1 Furycalm Snarl
 1 Alseid of Life's Bounty
 2 Winota, Joiner of Forces
 2 Usher of the Fallen

@@ -97,8 +97,8 @@
 |                    3|[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)   |                     |                                                                                               |
 |                    3|[Twilight Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442237)     |                     |                                                                                               |
 |                    3|[Blooming Marsh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417816)    |                     |                                                                                               |
-|                    4|[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)   |                     |                                                                                               |
 |                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)             |                     |                                                                                               |
+|                    4|[Satyr Wayfinder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378508)   |                     |                                                                                               |
 |                    4|[Twilight Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442237)     |                     |                                                                                               |
 |                    4|[Blooming Marsh](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417816)    |                     |                                                                                               |
 

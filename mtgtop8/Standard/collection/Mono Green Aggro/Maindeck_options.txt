@@ -24,8 +24,8 @@
 4 Stonecoil Serpent
 1 Ram Through
 2 Ram Through
-3 Ram Through
 3 Blizzard Brawl
+3 Ram Through
 4 Blizzard Brawl
 1 Icehide Troll
 1 Bala Ged Recovery
@@ -47,12 +47,12 @@
 3 Fynn, the Fangbearer
 3 Moss Viper
 3 Icehide Troll
-4 Ram Through
 4 Rune of Might
 4 Tajuru Blightblade
 4 Fynn, the Fangbearer
 4 Moss Viper
 4 Icehide Troll
+4 Ram Through
 4 Swarm Shambler
 1 Crawling Barrens
 1 Forest
@@ -90,8 +90,8 @@
 4 Faceless Haven
 2 In Search of Greatness
 1 Elder Gargaroth
-2 Kogla, the Titan Ape
 2 Elder Gargaroth
+2 Kogla, the Titan Ape
 3 Trail of Crumbs
 1 Adventurous Impulse
 1 Dragonsguard Elite
@@ -99,19 +99,16 @@
 2 Dragonsguard Elite
 3 Adventurous Impulse
 4 Adventurous Impulse
-3 Scavenging Ooze
-4 Primal Might
-4 Scavenging Ooze
 1 Elvish Warmaster
 1 Jaspera Sentinel
 1 Tyvar Kell
 1 Shadowspear
 1 Turntimber Symbiosis
 1 Wildborn Preserver
-1 Llanowar Visionary
 1 Masked Vandal
 1 Canopy Tactician
 1 Cragplate Baloth
+1 Llanowar Visionary
 1 Fierce Empath
 1 Skyway Sniper
 2 Jaspera Sentinel
@@ -128,11 +125,14 @@
 4 Elvish Warmaster
 4 Jaspera Sentinel
 4 Wildborn Preserver
+3 Scavenging Ooze
+4 Scavenging Ooze
+4 Primal Might
 2 Thrashing Brontodon
 2 Witch's Oven
 3 Thrashing Brontodon
 3 Feasting Troll King
-4 The Great Henge
 4 Crawling Barrens
+4 The Great Henge
 4 Thrashing Brontodon
 4 Feasting Troll King

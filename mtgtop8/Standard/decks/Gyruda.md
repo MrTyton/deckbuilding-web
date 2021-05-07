@@ -45,7 +45,7 @@
 |                    3|[Brightclimb Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491911) |                     |                                                                                              |
 |                    3|[Binding the Old Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503822)|                     |                                                                                              |
 |                    3|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)       |                     |                                                                                              |
-|                    4|[Port of Karfell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503885)     |                     |                                                                                              |
 |                    4|[Heartless Act](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479611)       |                     |                                                                                              |
+|                    4|[Port of Karfell](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503885)     |                     |                                                                                              |
 |                    4|[Binding the Old Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503822)|                     |                                                                                              |
 
