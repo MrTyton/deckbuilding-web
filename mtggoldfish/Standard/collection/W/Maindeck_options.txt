@@ -117,9 +117,9 @@
 3 Sea Gate Stormcaller
 4 Opt
 1 Mila, Crafty Companion
-1 Light of Hope
 1 Murderous Rider
 1 Kaya the Inexorable
+1 Light of Hope
 1 Extus, Oriq Overlord
 1 Luminarch Aspirant
 2 Savai Triome
@@ -132,17 +132,17 @@
 3 Savai Triome
 3 Extus, Oriq Overlord
 4 Extus, Oriq Overlord
-4 Fabled Passage
 4 Savai Triome
+4 Fabled Passage
+1 Snakeskin Veil
 1 Dragonsguard Elite
 1 Edgewall Innkeeper
-1 Snakeskin Veil
 2 Snakeskin Veil
 2 Edgewall Innkeeper
-3 Edgewall Innkeeper
 3 Snakeskin Veil
-4 Edgewall Innkeeper
+3 Edgewall Innkeeper
 4 Snakeskin Veil
+4 Edgewall Innkeeper
 1 Bloodchief's Thirst
 1 Skyclave Apparition
 1 Frost Bite
@@ -170,10 +170,10 @@
 2 Star Pupil
 3 Star Pupil
 4 Star Pupil
-1 Glacial Floodplain
-1 Test of Talents
 1 Maul of the Skyclaves
 1 Tranquil Cove
+1 Test of Talents
+1 Glacial Floodplain
 1 Eager First-Year
 1 Archmage Emeritus
 2 Test of Talents
@@ -190,12 +190,12 @@
 2 Raugrin Triome
 2 Expressive Iteration
 2 Riverglide Pathway
-3 Expressive Iteration
 3 Raugrin Triome
 3 Hengegate Pathway
+3 Expressive Iteration
 3 Riverglide Pathway
-4 Raugrin Triome
 4 Expressive Iteration
+4 Raugrin Triome
 4 Hengegate Pathway
 4 Riverglide Pathway
 1 Kazuul's Fury
@@ -210,51 +210,51 @@
 4 Mountain
 1 Rimrock Knight
 4 Bonecrusher Giant
-1 Shepherd of the Flock
-1 Lovestruck Beast
-1 Forest
-1 Branchloft Pathway
 1 Primal Might
+1 Lovestruck Beast
 1 Temple of Plenty
-2 Shepherd of the Flock
-2 Primal Might
+1 Shepherd of the Flock
+1 Branchloft Pathway
+1 Forest
 2 Dragonsguard Elite
 2 Lovestruck Beast
 2 Forest
 2 Branchloft Pathway
+2 Shepherd of the Flock
+2 Primal Might
 2 Temple of Plenty
-3 Shepherd of the Flock
 3 Dragonsguard Elite
-3 Branchloft Pathway
 3 Lovestruck Beast
 3 Forest
+3 Shepherd of the Flock
+3 Branchloft Pathway
 3 Primal Might
-4 Branchloft Pathway
 4 Lovestruck Beast
 4 Forest
 4 Dragonsguard Elite
+4 Branchloft Pathway
 5 Forest
 6 Forest
 1 Evolving Wilds
-1 Ram Through
-1 Ranger's Guile
 1 Snow-Covered Forest
+1 Ranger's Guile
 1 Silverflame Squire
+1 Ram Through
 1 Return of the Wildspeaker
 1 Charge Through
 2 Evolving Wilds
-2 Ram Through
+2 Snow-Covered Forest
 2 Charge Through
 2 Silverflame Squire
-2 Snow-Covered Forest
+2 Ram Through
+3 Snow-Covered Forest
 3 Evolving Wilds
 3 Charge Through
-3 Snow-Covered Forest
 3 Silverflame Squire
+4 Snow-Covered Forest
 4 Evolving Wilds
 4 Charge Through
 4 Silverflame Squire
-4 Snow-Covered Forest
 5 Snow-Covered Forest
 6 Snow-Covered Forest
 7 Snow-Covered Forest

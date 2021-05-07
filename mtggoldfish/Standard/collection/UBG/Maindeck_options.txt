@@ -1,123 +1,80 @@
-7 Snow-Covered Swamp
 1 Cling to Dust
 2 Cling to Dust
-7 Snow-Covered Forest
-8 Snow-Covered Forest
+7 Snow-Covered Swamp
 1 Eureka Moment
 2 Eureka Moment
 3 Eureka Moment
-3 Narfi, Betrayer King
 1 Pestilent Haze
 2 Pestilent Haze
+1 Feed the Serpent
+2 Feed the Serpent
+3 Narfi, Betrayer King
 1 Dismal Backwater
-4 Ice Tunnel
 2 Dismal Backwater
 1 Didn't Say Please
 2 Didn't Say Please
-1 Feed the Serpent
-2 Feed the Serpent
+4 Ice Tunnel
 1 Professor Onyx
 1 Mortality Spear
 2 Mortality Spear
 3 Mortality Spear
 4 Mortality Spear
 1 Vivien, Monsters' Advocate
-8 Snow-Covered Swamp
-9 Snow-Covered Forest
-1 Sculptor of Winter
-2 Sculptor of Winter
-3 Sculptor of Winter
-4 Sculptor of Winter
-6 Snow-Covered Island
 1 Jungle Hollow
 2 Jungle Hollow
 3 Jungle Hollow
 4 Jungle Hollow
-3 Dismal Backwater
-4 Dismal Backwater
 3 Pestilent Haze
 1 Pop Quiz
 2 Pop Quiz
 3 Pop Quiz
 4 Pop Quiz
+3 Dismal Backwater
+4 Dismal Backwater
+7 Snow-Covered Forest
+8 Snow-Covered Forest
 3 Feed the Serpent
-1 Quandrix Campus
-3 Feed the Swarm
 1 Duress
 2 Duress
 3 Duress
-7 Snow-Covered Island
-1 Beanstalk Giant
-10 Snow-Covered Forest
 1 Cancel
 1 Test of Talents
 1 Thornwood Falls
 2 Test of Talents
 2 Cancel
 2 Thornwood Falls
+3 Feed the Swarm
 3 Cancel
 3 Thornwood Falls
 4 Feed the Swarm
+8 Snow-Covered Swamp
 1 Suffocating Fumes
 2 Suffocating Fumes
-1 Disdainful Stroke
-2 Disdainful Stroke
-1 Witherbloom Campus
-2 Witherbloom Campus
-1 Ilysian Caryatid
-2 Ilysian Caryatid
-3 Ilysian Caryatid
-4 Ilysian Caryatid
 3 Poison the Cup
+1 Witherbloom Campus
+1 Quandrix Campus
+2 Witherbloom Campus
 1 Negate
 4 Eureka Moment
-1 Fierce Empath
-1 Cragplate Baloth
-2 Fierce Empath
-2 Beanstalk Giant
-3 Fierce Empath
-1 Snow-Covered Plains
-1 Dream Trawler
-1 Realm-Cloaked Giant
-1 Glacial Floodplain
-1 Arctic Treeline
-1 Vastwood Surge
-2 Snow-Covered Plains
-2 Vastwood Surge
-2 Glacial Floodplain
-2 Arctic Treeline
-3 Arctic Treeline
-3 Beanstalk Giant
-4 Fierce Empath
-1 Spirit of the Aldergard
-2 Spirit of the Aldergard
-3 Spirit of the Aldergard
 1 Elspeth's Nightmare
+1 Sculptor of Winter
+2 Sculptor of Winter
+3 Sculptor of Winter
+6 Snow-Covered Island
+7 Snow-Covered Island
 3 Didn't Say Please
 4 Didn't Say Please
-4 Rimewood Falls
-8 Snow-Covered Island
-9 Snow-Covered Swamp
-1 Thassa, Deep-Dwelling
 2 Acolyte of Affliction
 1 Omen of the Sea
 2 Omen of the Sea
 3 Omen of the Sea
 4 Omen of the Sea
-1 Bookwurm
-1 Quandrix Cultivator
-2 Quandrix Cultivator
-2 Bookwurm
-3 Quandrix Cultivator
-11 Snow-Covered Forest
-1 Skull Raid
+9 Snow-Covered Forest
 4 Thornwood Falls
-1 Shepherd of the Flock
-2 Shepherd of the Flock
-3 Snow-Covered Plains
-3 Shepherd of the Flock
-3 Vastwood Surge
-4 Arctic Treeline
+1 Skull Raid
+1 Reject
+2 Reject
+3 Reject
 1 Lochmere Serpent
 1 Into the Story
 1 Drown in the Loch
@@ -125,28 +82,31 @@
 2 Into the Story
 2 Drown in the Loch
 3 Drown in the Loch
+8 Snow-Covered Island
 9 Snow-Covered Island
+9 Snow-Covered Swamp
 10 Snow-Covered Island
 1 Essence Scatter
-1 Reject
-2 Reject
-3 Reject
+4 Rimewood Falls
+4 Sculptor of Winter
 1 Elderfang Disciple
 2 Elderfang Disciple
 3 Elderfang Disciple
 4 Elderfang Disciple
-2 Quandrix Campus
-3 Quandrix Campus
+1 Disdainful Stroke
+2 Disdainful Stroke
 1 Elder Gargaroth
+1 Spirit of the Aldergard
+2 Spirit of the Aldergard
+3 Spirit of the Aldergard
 4 Spirit of the Aldergard
-1 Thwart the Grave
-1 Shipwreck Dowser
 1 Evolving Wilds
 2 Evolving Wilds
-1 Ecological Appreciation
-3 Bookwurm
-1 Golden Egg
 1 Bala Ged Recovery
+1 Golden Egg
+1 Thassa, Deep-Dwelling
+1 Thwart the Grave
+1 Shipwreck Dowser
 2 Golden Egg
 2 Skull Raid
 2 Shipwreck Dowser
@@ -157,6 +117,20 @@
 4 Skull Raid
 4 Evolving Wilds
 4 Feed the Serpent
+1 Ilysian Caryatid
+1 Quandrix Cultivator
+1 Ecological Appreciation
+1 Bookwurm
+1 Beanstalk Giant
+2 Ilysian Caryatid
+2 Quandrix Cultivator
+2 Bookwurm
+3 Ilysian Caryatid
+3 Quandrix Cultivator
+3 Bookwurm
+4 Ilysian Caryatid
+10 Snow-Covered Forest
+11 Snow-Covered Forest
 1 Village Rites
 1 Polukranos, Unchained
 2 Village Rites
@@ -167,16 +141,19 @@
 1 Draugr Necromancer
 2 Boreal Outrider
 2 Icehide Troll
+1 Thrashing Brontodon
+1 Dead Weight
+1 Priest of the Haunted Edge
+1 Sarulf, Realm Eater
+1 Chainweb Aracnir
+2 Thrashing Brontodon
+2 Elspeth's Nightmare
+2 Priest of the Haunted Edge
+2 Dead Weight
+2 Chainweb Aracnir
+2 Quandrix Campus
 3 Witherbloom Campus
-1 Snow-Covered Mountain
-1 Snakeskin Veil
-1 Glittering Frost
-1 Path to the World Tree
-1 Greater Sandwurm
-2 Snakeskin Veil
-2 Path to the World Tree
-2 Glittering Frost
-3 Glittering Frost
+3 Quandrix Campus
 2 Essence Scatter
 3 Essence Scatter
 4 Essence Scatter
@@ -192,20 +169,18 @@
 3 Divide by Zero
 3 Curate
 4 Curate
-2 Tergrid's Shadow
-4 Drown in the Loch
-1 Tend the Pests
-1 Dina, Soul Steeper
-1 Daemogoth Woe-Eater
-1 The Great Henge
-1 Forest
 1 Valentin, Dean of the Vein
+1 Tend the Pests
+1 Daemogoth Woe-Eater
+1 Dina, Soul Steeper
+1 Forest
 1 Swamp
 1 Back for More
+1 The Great Henge
 1 Loathsome Chimera
 2 Tend the Pests
-2 Dina, Soul Steeper
 2 Daemogoth Woe-Eater
+2 Dina, Soul Steeper
 2 Forest
 2 Loathsome Chimera
 2 Swamp
@@ -222,48 +197,15 @@
 4 Daemogoth Woe-Eater
 4 Loathsome Chimera
 4 Village Rites
-5 Forest
 5 Swamp
-6 Forest
+5 Forest
 6 Swamp
-7 Forest
+6 Forest
 7 Swamp
-8 Swamp
+7 Forest
 8 Forest
-9 Forest
+8 Swamp
 9 Swamp
-1 Heartless Act
-1 Murderous Rider
-1 Blood on the Snow
-1 Draugr Thought-Thief
-1 Priest of the Haunted Edge
-1 Gray Merchant of Asphodel
-1 Jarl of the Forsaken
-1 Mire Triton
-2 Elspeth's Nightmare
-2 Jarl of the Forsaken
-2 Draugr Thought-Thief
-2 Priest of the Haunted Edge
-2 Mire Triton
-2 Gray Merchant of Asphodel
-2 Heartless Act
-3 Heartless Act
-3 Mire Triton
-3 Draugr Thought-Thief
-3 Priest of the Haunted Edge
-4 Draugr Thought-Thief
-4 Priest of the Haunted Edge
-10 Snow-Covered Swamp
-11 Snow-Covered Swamp
-1 Radiant Fountain
-1 Vorinclex, Monstrous Raider
-1 Field Trip
-1 Wolfwillow Haven
-2 Field Trip
-2 Wolfwillow Haven
-3 Field Trip
-3 Wolfwillow Haven
-4 Field Trip
-4 Quandrix Cultivator
-4 Wolfwillow Haven
-12 Snow-Covered Forest
+9 Forest
+2 Tergrid's Shadow
+4 Drown in the Loch

@@ -168,8 +168,8 @@
 1 Botanical Sanctum
 1 Mana Confluence
 2 Mana Confluence
-2 Hengegate Pathway
 2 Reflector Mage
+2 Hengegate Pathway
 2 Glasspool Mimic
 2 Militia Bugler
 2 Botanical Sanctum
@@ -179,15 +179,15 @@
 2 Charming Prince
 3 Selfless Spirit
 3 Reflector Mage
-3 Charming Prince
 3 Hengegate Pathway
 3 Hallowed Fountain
 3 Oketra's Monument
+3 Charming Prince
 3 Militia Bugler
 3 Botanical Sanctum
+4 Charming Prince
 4 Selfless Spirit
 4 Hengegate Pathway
-4 Charming Prince
 4 Militia Bugler
 4 Oketra's Monument
 4 Reflector Mage
@@ -200,10 +200,10 @@
 4 Sacred Foundry
 1 Blood Crypt
 1 Isolated Chapel
-1 Magmatic Channeler
 1 Sorin, Solemn Visitor
 1 Shambling Vent
 1 Valki, God of Lies
+1 Magmatic Channeler
 1 Savai Triome
 1 Gideon, Ally of Zendikar
 1 History of Benalia
@@ -256,9 +256,9 @@
 4 Steel Leaf Champion
 7 Forest
 1 Sorin, Vengeful Bloodlord
-1 Mazemind Tome
-1 Shalai, Voice of Plenty
 1 Speaker of the Heavens
+1 Shalai, Voice of Plenty
+1 Mazemind Tome
 1 Lyra Dawnbringer
 1 Vito, Thorn of the Dusk Rose
 1 Bishop of Wings
@@ -266,9 +266,9 @@
 1 Command the Dreadhorde
 1 Revival / Revenge
 1 Righteous Valkyrie
+2 Speaker of the Heavens
 2 Sorin, Vengeful Bloodlord
 2 Mazemind Tome
-2 Speaker of the Heavens
 2 Resplendent Angel
 2 Righteous Valkyrie
 2 Revival / Revenge
@@ -276,8 +276,8 @@
 2 Vito, Thorn of the Dusk Rose
 2 Lyra Dawnbringer
 2 Bishop of Wings
-3 Mazemind Tome
 3 Speaker of the Heavens
+3 Mazemind Tome
 3 Sorin, Vengeful Bloodlord
 3 Bishop of Wings
 3 Resplendent Angel

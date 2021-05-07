@@ -46,8 +46,8 @@
 |                    3|[Whisper Squad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479625)             |                     |              |
 |                    3|[Village Rites](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485449)             |                     |              |
 |                    4|[Serrated Scorpion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479619)         |                     |              |
-|                    4|[Mire Triton](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476356)               |                     |              |
 |                    4|[Priest of the Haunted Edge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503713)|                     |              |
+|                    4|[Mire Triton](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476356)               |                     |              |
 |                    4|[Village Rites](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485449)             |                     |              |
 |                    4|[Whisper Squad](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479625)             |                     |              |
 

@@ -147,6 +147,6 @@
 |                    4|[Supreme Verdict](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438776)           |                     |                                                                                                       |
 |                    1|[Omen of the Forge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476396)         |                     |                                                                                                       |
 |                    2|[Omen of the Forge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476396)         |                     |                                                                                                       |
-|                    4|[Sunpetal Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420946)            |                     |                                                                                                       |
 |                    3|[Drowned Catacomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430633)          |                     |                                                                                                       |
+|                    4|[Sunpetal Grove](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=420946)            |                     |                                                                                                       |
 

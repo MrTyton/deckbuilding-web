@@ -31,11 +31,3 @@
 |                                                                                             |2 [Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)|                                                                                       |                                                                                                  |
 |                                                                                             |2 [Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)  |                                                                                       |                                                                                                  |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                     Maindeck Card                                     |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
-|--------------------:|---------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
-|                    3|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2240)|                    3|[Red Elemental Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=814)|
-|                    2|[Sylvan Library](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2240)|                     |                                                                                           |
-
