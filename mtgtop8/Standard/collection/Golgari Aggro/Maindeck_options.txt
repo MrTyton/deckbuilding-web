@@ -1,46 +1,46 @@
 1 Woodland Chasm
-2 Elderfang Disciple
 2 Llanowar Visionary
-3 Elderfang Disciple
+2 Elderfang Disciple
 3 Llanowar Visionary
-4 Elderfang Disciple
+3 Elderfang Disciple
 4 Llanowar Visionary
+4 Elderfang Disciple
 1 Boreal Outrider
 1 Skemfar Avenger
 1 Grasp of Darkness
+1 Snow-Covered Forest
 1 Sculptor of Winter
 1 Harald, King of Skemfar
-1 Snow-Covered Forest
 1 Harald Unites the Elves
 1 Thornmantle Striker
 1 Return Upon the Tide
 1 Snow-Covered Swamp
 2 Boreal Outrider
+2 Snow-Covered Forest
+2 Sculptor of Winter
 2 Grasp of Darkness
 2 Harald, King of Skemfar
 2 Woodland Chasm
 2 Snow-Covered Swamp
-2 Sculptor of Winter
-2 Snow-Covered Forest
+3 Snow-Covered Forest
+3 Sculptor of Winter
 3 Grasp of Darkness
 3 Harald, King of Skemfar
-3 Sculptor of Winter
 3 Snow-Covered Swamp
-3 Snow-Covered Forest
 3 Boreal Outrider
 3 Woodland Chasm
-4 Sculptor of Winter
 4 Snow-Covered Forest
+4 Sculptor of Winter
 4 Snow-Covered Swamp
 4 Woodland Chasm
-5 Snow-Covered Swamp
 5 Snow-Covered Forest
-6 Snow-Covered Swamp
+5 Snow-Covered Swamp
 6 Snow-Covered Forest
-7 Snow-Covered Swamp
+6 Snow-Covered Swamp
 7 Snow-Covered Forest
-8 Snow-Covered Swamp
+7 Snow-Covered Swamp
 8 Snow-Covered Forest
+8 Snow-Covered Swamp
 9 Snow-Covered Swamp
 1 Temple of Malady
 2 Temple of Malady
@@ -170,6 +170,13 @@
 2 Return Upon the Tide
 2 Skemfar Shadowsage
 4 Boreal Outrider
+1 Realmwalker
+1 Wolfwillow Haven
+1 Masked Vandal
+2 Wolfwillow Haven
+3 Wolfwillow Haven
+9 Snow-Covered Forest
+10 Snow-Covered Swamp
 1 Trail of Crumbs
 1 Gilded Goose
 1 Indatha Triome
@@ -195,10 +202,3 @@
 4 Gilded Goose
 4 Wicked Wolf
 4 Indatha Triome
-1 Realmwalker
-1 Wolfwillow Haven
-1 Masked Vandal
-2 Wolfwillow Haven
-3 Wolfwillow Haven
-10 Snow-Covered Swamp
-9 Snow-Covered Forest

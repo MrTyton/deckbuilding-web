@@ -1,6 +1,6 @@
+1 Talisman of Dominance
 1 Galvanic Blast
 3 Darkslick Shores
-1 Talisman of Dominance
 5 Snow-Covered Island
 2 Galvanic Blast
 2 Scalding Tarn
@@ -11,12 +11,7 @@
 3 Island
 4 Island
 2 Mox Amber
-1 Mystic Sanctuary
 2 Glimmervoid
-3 Witching Well
-1 Pentad Prism
-3 Mox Amber
-4 Mox Amber
 3 Glimmervoid
 4 Glimmervoid
 1 Thoughtseize
@@ -24,10 +19,10 @@
 2 Ensnaring Bridge
 4 Whir of Invention
 1 Inquisition of Kozilek
-1 Lantern of Insight
 1 Codex Shredder
-1 Pyxis of Pandemonium
 1 Ancient Stirrings
+1 Lantern of Insight
+1 Pyxis of Pandemonium
 2 Inquisition of Kozilek
 2 Pithing Needle
 2 Codex Shredder
@@ -39,11 +34,11 @@
 3 Codex Shredder
 4 Ancient Stirrings
 4 Darkslick Shores
-4 Lantern of Insight
 4 Codex Shredder
+4 Lantern of Insight
 1 Witchbane Orb
-1 Torpor Orb
 1 Grafdigger's Cage
+1 Torpor Orb
 3 Ensnaring Bridge
 1 Botanical Sanctum
 1 Assassin's Trophy
@@ -56,9 +51,13 @@
 2 Pyxis of Pandemonium
 3 Botanical Sanctum
 4 Botanical Sanctum
+1 Mystic Sanctuary
+3 Witching Well
+1 Pentad Prism
+3 Mox Amber
+4 Mox Amber
 1 Flooded Strand
 2 Flooded Strand
-1 Damping Sphere
 1 Soul-Guide Lantern
 3 Goblin Engineer
 4 Goblin Engineer
@@ -70,6 +69,7 @@
 5 Island
 1 Raugrin Triome
 2 Nihil Spellbomb
+1 Damping Sphere
 3 Sword of the Meek
 3 Scalding Tarn
 4 Scalding Tarn
@@ -78,8 +78,8 @@
 1 Misty Rainforest
 2 Misty Rainforest
 3 Misty Rainforest
-1 Chalice of the Void
 1 Sorcerous Spyglass
+1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
@@ -100,8 +100,8 @@
 2 Talisman of Dominance
 1 Dreadbore
 1 Snow-Covered Mountain
-1 Cryptic Command
 1 Drown in the Loch
+1 Cryptic Command
 1 Ashiok, Dream Render
 1 Clearwater Pathway
 2 Ashiok, Dream Render
@@ -143,9 +143,9 @@
 1 Tectonic Edge
 1 Tolaria West
 1 Ipnu Rivulet
+1 Crucible of Worlds
 1 Ghost Quarter
 1 Tormod's Crypt
-1 Crucible of Worlds
 1 Simian Spirit Guide
 1 Bottled Cloister
 2 Welding Jar

@@ -3,10 +3,10 @@
 4 Spreading Seas
 1 Snow-Covered Forest
 1 Snow-Covered Island
-1 Sacred Foundry
 1 Snow-Covered Plains
 2 Snow-Covered Forest
 1 Raugrin Triome
+1 Sacred Foundry
 1 Deputy of Detention
 1 Island
 1 Steam Vents
@@ -65,43 +65,45 @@
 4 Scalding Tarn
 1 Inspiring Vantage
 2 Glassdust Hulk
-2 Lurrus of the Dream-Den
 1 Snow-Covered Mountain
+2 Lurrus of the Dream-Den
+1 Eternal Witness
 3 Snow-Covered Forest
 1 Mountain
-4 Wooded Foothills
 1 Kitchen Finks
-1 Eternal Witness
+4 Wooded Foothills
 3 Birds of Paradise
 1 Ephemerate
 1 Knight of Autumn
 1 Fulminator Mage
 1 Forest
 1 Uro, Titan of Nature's Wrath
+1 Unearth
+2 Ephemerate
+3 Ephemerate
 1 Seasoned Pyromancer
 1 On Thin Ice
 4 Skyclave Apparition
 2 Seal of Fire
 1 Plains
-1 Unearth
-2 Ephemerate
-3 Ephemerate
+1 Trial of Ambition
 1 Goblin Cratermaker
 1 Lithoform Blight
 1 As Foretold
 4 Living End
-1 Trial of Ambition
+1 Ice-Fang Coatl
 1 Ketria Triome
 2 Temple Garden
 2 Forest
 1 Eidolon of Rhetoric
+1 Verdant Catacombs
+4 Teferi, Time Raveler
 2 Island
 2 As Foretold
 3 As Foretold
 4 As Foretold
 1 Seachrome Coast
 3 Island
-1 Ice-Fang Coatl
 3 Forest
 2 Steam Vents
 3 Steam Vents
@@ -122,17 +124,15 @@
 4 Electrodominance
 4 Crashing Footfalls
 4 Spirebluff Canal
-1 Verdant Catacombs
-4 Teferi, Time Raveler
+1 Snow-Covered Swamp
+2 Verdant Catacombs
 1 Mystical Dispute
 1 Architects of Will
 2 Architects of Will
 3 Glassdust Hulk
 1 Calix, Destiny's Hand
-1 Snow-Covered Swamp
 1 Indatha Triome
 2 Uro, Titan of Nature's Wrath
-2 Verdant Catacombs
 2 Lithoform Blight
 3 Lithoform Blight
 4 Lithoform Blight
@@ -164,6 +164,11 @@
 1 Spike Feeder
 1 Heliod, Sun-Crowned
 1 Omen of the Dead
+1 Gilded Goose
+2 Gilded Goose
+2 Trial of Ambition
+3 Verdant Catacombs
+3 Gilded Goose
 3 Omen of the Forge
 4 Omen of the Forge
 1 Vendilion Clique

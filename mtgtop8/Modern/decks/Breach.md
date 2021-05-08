@@ -44,7 +44,7 @@
 |                    2|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                       |                    2|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)               |
 |                    3|[Spirebluff Canal](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417822)             |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)            |
 |                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                          |                    2|[Timely Reinforcements](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220074)|
-|                     |                                                                                                        |                    3|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)               |
 |                     |                                                                                                        |                    3|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)       |
+|                     |                                                                                                        |                    3|[Dispel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=401858)               |
 |                     |                                                                                                        |                    2|[Aether Gust](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466796)          |
 

@@ -1,24 +1,24 @@
-2 Darksteel Citadel
 4 Llanowar Reborn
+2 Scrapyard Recombiner
 1 Snakeskin Veil
+3 Animation Module
 1 Blooming Marsh
 4 Ancient Stirrings
-3 Animation Module
 5 Forest
 6 Forest
 7 Forest
 8 Forest
 2 Blooming Marsh
+1 Nurturing Peatland
 1 Brushland
 2 Brushland
 3 Brushland
 4 Brushland
-3 Blinkmoth Nexus
-1 Nurturing Peatland
+1 Swamp
+3 Welding Jar
 3 Blooming Marsh
 4 Blooming Marsh
-3 Welding Jar
-1 Swamp
+3 Blinkmoth Nexus
 1 Razorverge Thicket
 1 Vines of Vastwood
 1 Horizon Canopy
@@ -28,18 +28,22 @@
 1 Urborg, Tomb of Yawgmoth
 4 Blinkmoth Nexus
 1 Temple Garden
-1 Lightning Bolt
+1 Overgrown Tomb
+2 Overgrown Tomb
 2 Temple Garden
 3 Steel Overseer
 1 Darkbore Pathway
 2 Darkbore Pathway
 3 Darkbore Pathway
 4 Darkbore Pathway
-2 Lightning Bolt
-1 Overgrown Tomb
-2 Overgrown Tomb
+1 Lightning Bolt
 1 Branchloft Pathway
 3 Scrapyard Recombiner
+2 Nurturing Peatland
+2 Lightning Bolt
+10 Forest
+1 Spellskite
+2 Snakeskin Veil
 1 Grove of the Burnwillows
 1 Cragcrown Pathway
 2 Cragcrown Pathway
@@ -47,25 +51,16 @@
 3 Grove of the Burnwillows
 4 Grove of the Burnwillows
 3 Lightning Bolt
-10 Forest
-2 Nurturing Peatland
-1 Snow-Covered Forest
-2 Snow-Covered Forest
-3 Cragcrown Pathway
-4 Cragcrown Pathway
-1 Spellskite
-1 Kazuul's Fury
-1 Springleaf Drum
-2 Springleaf Drum
-2 Snakeskin Veil
 1 Luminarch Aspirant
 2 Luminarch Aspirant
 1 Plains
 1 Mountain
-1 Snow-Covered Mountain
-2 Kazuul's Fury
 4 Welding Jar
 11 Forest
+1 Snow-Covered Forest
+2 Snow-Covered Forest
+3 Cragcrown Pathway
+4 Cragcrown Pathway
 1 Cavern of Souls
 2 Cavern of Souls
 1 Path to Exile
@@ -75,12 +70,31 @@
 1 Showdown of the Skalds
 2 Showdown of the Skalds
 3 Showdown of the Skalds
-1 Sorcerous Spyglass
+1 Kazuul's Fury
 1 Wooded Foothills
 1 Stomping Ground
 2 Wooded Foothills
+1 Utopia Sprawl
+1 Windswept Heath
+2 Windswept Heath
+2 Utopia Sprawl
+3 Windswept Heath
+3 Utopia Sprawl
+4 Windswept Heath
+4 Utopia Sprawl
+1 Winding Constrictor
+2 Winding Constrictor
+3 Winding Constrictor
+4 Winding Constrictor
+1 Fatal Push
+2 Fatal Push
+1 Springleaf Drum
+2 Springleaf Drum
+1 Sorcerous Spyglass
 1 Inscription of Abundance
 1 Kessig Wolf Run
+1 Snow-Covered Mountain
+2 Kazuul's Fury
 3 Snow-Covered Forest
 1 Spire of Industry
 2 Spire of Industry
@@ -88,40 +102,15 @@
 3 Metallic Mimic
 3 Snakeskin Veil
 4 Snakeskin Veil
+3 Wooded Foothills
+4 Wooded Foothills
 1 Castle Locthwain
-1 Fatal Push
 1 Thoughtseize
 2 Thoughtseize
 2 Swamp
-2 Fatal Push
 3 Thoughtseize
 3 Overgrown Tomb
 4 Thoughtseize
-2 Horizon Canopy
-4 Razorverge Thicket
-1 Stonecoil Serpent
-1 Galvanic Blast
-1 Copperline Gorge
-2 Stonecoil Serpent
-2 Copperline Gorge
-3 Stonecoil Serpent
-3 Copperline Gorge
-4 Stonecoil Serpent
-4 Copperline Gorge
-4 Lightning Bolt
-1 Utopia Sprawl
-1 Windswept Heath
-2 Windswept Heath
-2 Utopia Sprawl
-3 Wooded Foothills
-3 Windswept Heath
-3 Utopia Sprawl
-4 Windswept Heath
-4 Wooded Foothills
-4 Utopia Sprawl
-1 Dismember
-3 Darksteel Citadel
-4 Darksteel Citadel
 1 Botanical Sanctum
 1 Emry, Lurker of the Loch
 1 Island
@@ -137,14 +126,33 @@
 3 Springleaf Drum
 4 Emry, Lurker of the Loch
 4 Barkchannel Pathway
-1 Winding Constrictor
 1 Sparring Construct
-2 Winding Constrictor
 2 Sparring Construct
 3 Sparring Construct
-3 Winding Constrictor
 4 Sparring Construct
-4 Winding Constrictor
+2 Horizon Canopy
+4 Razorverge Thicket
+1 Stonecoil Serpent
+1 Galvanic Blast
+1 Copperline Gorge
+2 Stonecoil Serpent
+2 Copperline Gorge
+3 Stonecoil Serpent
+3 Copperline Gorge
+4 Stonecoil Serpent
+4 Copperline Gorge
+4 Lightning Bolt
+1 Dismember
+3 Darksteel Citadel
+4 Darksteel Citadel
+1 Prismatic Vista
+1 Verdant Catacombs
+2 Verdant Catacombs
+3 Fatal Push
+3 Verdant Catacombs
+4 Fatal Push
+4 Verdant Catacombs
+4 Animation Module
 2 Plains
 3 Path to Exile
 4 Branchloft Pathway

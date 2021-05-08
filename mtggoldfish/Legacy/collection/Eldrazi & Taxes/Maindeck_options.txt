@@ -82,8 +82,8 @@
 4 Palace Jailer
 2 Brushland
 3 Brushland
-1 Urborg, Tomb of Yawgmoth
 1 Caves of Koilos
+1 Urborg, Tomb of Yawgmoth
 1 Plague Engineer
 2 Caves of Koilos
 2 Plague Engineer
@@ -106,9 +106,9 @@
 1 Silent Clearing
 1 Eye of Ugin
 2 Eye of Ugin
+1 Council's Judgment
 1 Sword of Feast and Famine
 1 Oblivion Ring
-1 Council's Judgment
 1 Sunbaked Canyon
 1 Godo, Bandit Warlord
 1 Magus of the Moon
@@ -122,14 +122,10 @@
 1 Heliod, Sun-Crowned
 2 Path to Exile
 3 Containment Priest
-1 Elite Spellbinder
-2 Elite Spellbinder
-3 Elite Spellbinder
-4 Elite Spellbinder
 4 Seasoned Pyromancer
+1 Swamp
 1 Wasteland Strangler
 1 Agonizing Remorse
-1 Swamp
 2 Wasteland Strangler
 2 Agonizing Remorse
 2 Marsh Flats
@@ -139,6 +135,10 @@
 4 Wasteland Strangler
 4 Marsh Flats
 4 Agonizing Remorse
+1 Elite Spellbinder
+2 Elite Spellbinder
+3 Elite Spellbinder
+4 Elite Spellbinder
 1 Matter Reshaper
 1 Endless One
 1 Eldrazi Mimic

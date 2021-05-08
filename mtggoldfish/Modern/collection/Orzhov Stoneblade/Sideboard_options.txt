@@ -1,33 +1,36 @@
-1 Fulminator Mage
-2 Fulminator Mage
-1 Plague Engineer
-2 Plague Engineer
-4 Damping Sphere
-3 Rest in Peace
-1 Yorion, Sky Nomad
-1 Gideon, Ally of Zendikar
-1 Fatal Push
-2 Fatal Push
 1 Auriok Champion
 2 Auriok Champion
+1 Fatal Push
+2 Fatal Push
+2 Celestial Purge
+4 Damping Sphere
+2 Ashiok, Dream Render
+4 Kor Firewalker
+1 Gideon, Ally of Zendikar
 1 Dark Confidant
 2 Dark Confidant
-4 Kor Firewalker
-1 Nihil Spellbomb
+1 Plague Engineer
+2 Plague Engineer
+1 Fulminator Mage
+2 Fulminator Mage
 1 Leonin Relic-Warder
 2 Leonin Relic-Warder
-2 Nihil Spellbomb
+3 Auriok Champion
+1 Vanishing Verse
+2 Vanishing Verse
+1 Isolate
+2 Kaya, Orzhov Usurper
+2 Isolate
 2 Gideon, Ally of Zendikar
 1 Archon of Emeria
 2 Archon of Emeria
+4 Auriok Champion
 2 Collective Brutality
+1 Nihil Spellbomb
 3 Celestial Purge
-3 Auriok Champion
-3 Fulminator Mage
-1 Vanishing Verse
-2 Vanishing Verse
 1 Phyrexian Revoker
 2 Phyrexian Revoker
+2 Nihil Spellbomb
 1 Engineered Explosives
 1 Blessed Alliance
 2 Engineered Explosives
@@ -35,9 +38,6 @@
 3 Archon of Emeria
 3 Dark Confidant
 4 Dark Confidant
-1 Isolate
-2 Kaya, Orzhov Usurper
-2 Isolate
 1 Kaya's Guile
 1 Damnation
 1 Elspeth, Sun's Nemesis
@@ -46,7 +46,9 @@
 3 Collective Brutality
 1 Sword of Fire and Ice
 1 Path to Exile
-4 Auriok Champion
+3 Fulminator Mage
+1 Surgical Extraction
+2 Surgical Extraction
 3 Phyrexian Revoker
 1 Shadowspear
 1 Wrath of God
@@ -60,8 +62,6 @@
 2 Remorseful Cleric
 1 Anguished Unmaking
 2 Wrath of God
-1 Surgical Extraction
-2 Surgical Extraction
 1 Blightbeetle
 1 Sword of Body and Mind
 2 Blightbeetle
@@ -71,14 +71,18 @@
 2 Mana Tithe
 1 Ghost Quarter
 1 Revoke Existence
-1 Winds of Abandon
 1 Timely Reinforcements
+1 Winds of Abandon
 2 Ghost Quarter
 2 Revoke Existence
 3 Ghost Quarter
 1 Burrenton Forge-Tender
 2 Burrenton Forge-Tender
 3 Burrenton Forge-Tender
+1 Kozilek, Butcher of Truth
+2 Bitterblossom
+3 Bitterblossom
+3 Surgical Extraction
 1 Spirit of the Labyrinth
 1 Skyclave Apparition
 1 Sword of Feast and Famine
@@ -93,11 +97,6 @@
 3 Aven Mindcensor
 3 Relic of Progenitus
 3 Fatal Push
-1 Lurrus of the Dream-Den
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-4 Thoughtseize
 4 Rest in Peace
 1 Leyline of the Void
 2 Leyline of the Void
