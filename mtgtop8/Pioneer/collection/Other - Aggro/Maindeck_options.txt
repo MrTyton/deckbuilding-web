@@ -1,15 +1,12 @@
 1 Luminarch Aspirant
 2 Luminarch Aspirant
-1 Kytheon, Hero of Akros
 3 Luminarch Aspirant
-3 Giant Killer
 4 Luminarch Aspirant
-4 Giant Killer
-1 Codespell Cleric
-2 Codespell Cleric
+1 Kytheon, Hero of Akros
 4 Mutavault
+3 Giant Killer
+4 Giant Killer
 3 Plains
-4 Plains
 1 Collected Company
 2 Collected Company
 3 Collected Company
@@ -54,15 +51,6 @@
 4 Voice of Resurgence
 4 Branchloft Pathway
 4 Skyclave Apparition
-4 Caves of Koilos
-1 Selfless Spirit
-1 Dire Tactics
-1 Knight of the White Orchid
-1 Declaration in Stone
-2 Knight of the White Orchid
-2 Declaration in Stone
-3 Codespell Cleric
-4 Codespell Cleric
 1 The Great Henge
 2 The Great Henge
 1 Yasharn, Implacable Earth
@@ -76,6 +64,19 @@
 3 Archon of Emeria
 4 Elite Spellbinder
 4 Archon of Emeria
+1 Codespell Cleric
+2 Codespell Cleric
+4 Plains
+4 Caves of Koilos
+1 Selfless Spirit
+1 Dire Tactics
+1 Knight of the White Orchid
+1 Declaration in Stone
+2 Knight of the White Orchid
+2 Declaration in Stone
+3 Mardu Woe-Reaper
+3 Codespell Cleric
+4 Codespell Cleric
 4 Llanowar Elves
 1 Bonecrusher Giant
 1 Breeding Pool
@@ -94,14 +95,14 @@
 1 Lightning Strike
 2 Lightning Strike
 3 Lightning Strike
-1 Vivien, Arkbow Ranger
 1 Bonders' Enclave
+1 Vivien, Arkbow Ranger
+1 Scavenger Grounds
 1 Embercleave
 1 Nimble Obstructionist
 1 Stubborn Denial
 1 Klothys, God of Destiny
 1 Shivan Reef
-1 Scavenger Grounds
 1 Cragcrown Pathway
 1 Reduce / Rubble
 1 Boon Satyr
@@ -135,6 +136,7 @@
 1 Ketria Triome
 1 Island
 1 Edgewall Innkeeper
+2 Nissa, Who Shakes the World
 2 Ketria Triome
 2 Alrund's Epiphany
 2 Rootbound Crag
@@ -143,7 +145,6 @@
 2 Steam Vents
 2 Brazen Borrower
 2 Edgewall Innkeeper
-2 Nissa, Who Shakes the World
 3 Nissa, Who Shakes the World
 3 Rootbound Crag
 3 Alrund's Epiphany
@@ -207,10 +208,10 @@
 1 Savai Triome
 1 Gideon, Ally of Zendikar
 1 History of Benalia
+1 Elspeth, Sun's Champion
 1 Dreadbore
 1 Crackling Doom
 1 Seraph of the Scales
-1 Elspeth, Sun's Champion
 1 Castle Locthwain
 1 Needle Spires
 1 Heartless Act
@@ -246,11 +247,11 @@
 1 Archangel Avacyn
 1 Dromoka's Command
 1 Steel Leaf Champion
-2 Steel Leaf Champion
 2 Rhonas the Indomitable
 2 Temple of Plenty
 2 Knight of Autumn
 2 Dromoka's Command
+2 Steel Leaf Champion
 3 Steel Leaf Champion
 3 Knight of Autumn
 4 Steel Leaf Champion

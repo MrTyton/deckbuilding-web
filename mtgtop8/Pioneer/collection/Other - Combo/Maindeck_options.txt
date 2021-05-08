@@ -1,62 +1,104 @@
-1 Thassa's Oracle
-1 Woodland Cemetery
-1 Sunpetal Grove
-1 Grisly Salvage
-1 Jace, Vryn's Prodigy
-1 Stitcher's Supplier
-1 Temple Garden
-1 Hallowed Fountain
-1 Fiend Artisan
-1 Satyr Wayfinder
-1 Collected Company
-1 Isolated Chapel
-1 Overgrown Tomb
-1 Glacial Fortress
-1 Rally the Ancestors
-1 Return to the Ranks
-1 Watery Grave
-1 Drowned Catacomb
-1 Hinterland Harbor
-1 Godless Shrine
-1 Glowspore Shaman
-1 Wall of Lost Thoughts
-2 Grisly Salvage
-2 Jace, Vryn's Prodigy
-2 Stitcher's Supplier
-2 Fiend Artisan
-2 Hallowed Fountain
-2 Temple Garden
-2 Satyr Wayfinder
-2 Collected Company
-2 Return to the Ranks
-2 Breeding Pool
-2 Thassa's Oracle
-2 Overgrown Tomb
-2 Glowspore Shaman
-2 Watery Grave
-2 Wall of Lost Thoughts
-2 Rally the Ancestors
-2 Godless Shrine
-3 Thassa's Oracle
-3 Stitcher's Supplier
-3 Jace, Vryn's Prodigy
-3 Fiend Artisan
-3 Satyr Wayfinder
-3 Collected Company
-3 Glowspore Shaman
-3 Wall of Lost Thoughts
-3 Rally the Ancestors
-3 Grisly Salvage
-3 Return to the Ranks
-4 Stitcher's Supplier
-4 Satyr Wayfinder
-4 Jace, Vryn's Prodigy
-4 Fiend Artisan
-4 Collected Company
-4 Wall of Lost Thoughts
-4 Grisly Salvage
-4 Rally the Ancestors
-4 Glowspore Shaman
+1 Forest
+2 Forest
+1 Clearwater Pathway
+1 Blooming Marsh
+1 Silversmote Ghoul
+1 Haunted Dead
+1 Deathrite Shaman
+1 Creeping Chill
+1 Swamp
+1 Witherbloom Command
+1 Driven / Despair
+1 Darkbore Pathway
+1 Fabled Passage
+1 Narcomoeba
+1 Prized Amalgam
+1 Gather the Pack
+2 Blooming Marsh
+2 Witherbloom Command
+2 Clearwater Pathway
+2 Silversmote Ghoul
+2 Deathrite Shaman
+2 Creeping Chill
+2 Narcomoeba
+2 Gather the Pack
+2 Prized Amalgam
+2 Darkbore Pathway
+3 Deathrite Shaman
+3 Witherbloom Command
+3 Creeping Chill
+3 Clearwater Pathway
+3 Silversmote Ghoul
+3 Gather the Pack
+3 Prized Amalgam
+3 Narcomoeba
+3 Overgrown Tomb
+3 Darkbore Pathway
+4 Darkbore Pathway
+4 Deathrite Shaman
+4 Silversmote Ghoul
+4 Gather the Pack
+4 Prized Amalgam
+4 Narcomoeba
+4 Creeping Chill
+4 Overgrown Tomb
+1 Steam Vents
+1 Mountain
+1 Island
+1 Botanical Sanctum
+1 Golos, Tireless Pilgrim
+1 Ulamog, the Ceaseless Hunger
+1 Ugin, the Spirit Dragon
+1 Whirler Virtuoso
+1 Attune with Aether
+1 Harnessed Lightning
+1 Rogue Refiner
+1 Servant of the Conduit
+1 Aether Hub
+1 Woodweaver's Puzzleknot
+1 Aetherworks Marvel
+1 Shrine of the Forsaken Gods
+1 Stomping Ground
+1 Rootbound Crag
+2 Botanical Sanctum
+2 Stomping Ground
+2 Ugin, the Spirit Dragon
+2 Harnessed Lightning
+2 Golos, Tireless Pilgrim
+2 Whirler Virtuoso
+2 Ulamog, the Ceaseless Hunger
+2 Attune with Aether
+2 Woodweaver's Puzzleknot
+2 Rogue Refiner
+2 Shrine of the Forsaken Gods
+2 Servant of the Conduit
+2 Aetherworks Marvel
+2 Aether Hub
+3 Ugin, the Spirit Dragon
+3 Ulamog, the Ceaseless Hunger
+3 Botanical Sanctum
+3 Stomping Ground
+3 Harnessed Lightning
+3 Rogue Refiner
+3 Attune with Aether
+3 Woodweaver's Puzzleknot
+3 Shrine of the Forsaken Gods
+3 Aetherworks Marvel
+3 Aether Hub
+3 Golos, Tireless Pilgrim
+3 Whirler Virtuoso
+3 Servant of the Conduit
+4 Golos, Tireless Pilgrim
+4 Stomping Ground
+4 Whirler Virtuoso
+4 Botanical Sanctum
+4 Rogue Refiner
+4 Woodweaver's Puzzleknot
+4 Aetherworks Marvel
+4 Attune with Aether
+4 Aether Hub
+4 Harnessed Lightning
+4 Servant of the Conduit
 1 Prophetic Prism
 1 Expressive Iteration
 1 Mystic Sanctuary
@@ -66,28 +108,28 @@
 1 Metallic Rebuke
 1 Spirebluff Canal
 1 Commit / Memory
-1 Paradoxical Outcome
 1 Galazeth Prismari
 1 Renegade Map
 1 Briber's Purse
+1 Sai, Master Thopterist
 1 Inspiring Statuary
 1 Baral's Expertise
-1 Sai, Master Thopterist
 1 Mox Amber
+1 Paradoxical Outcome
 2 Prophetic Prism
 2 Mystic Sanctuary
 2 Mox Amber
 2 Metallic Rebuke
 2 Tormod's Crypt
 2 Expressive Iteration
+2 Sai, Master Thopterist
 2 Paradoxical Outcome
-2 Renegade Map
 2 Inspiring Statuary
 2 Spirebluff Canal
 2 Steam Vents
 2 Island
 2 Briber's Purse
-2 Sai, Master Thopterist
+2 Renegade Map
 3 Prophetic Prism
 3 Island
 3 Mox Amber
@@ -104,11 +146,11 @@
 4 Island
 4 Tormod's Crypt
 4 Prophetic Prism
-4 Renegade Map
 4 Inspiring Statuary
 4 Steam Vents
 4 Expressive Iteration
 4 Paradoxical Outcome
+4 Renegade Map
 4 Mystic Sanctuary
 5 Island
 6 Island

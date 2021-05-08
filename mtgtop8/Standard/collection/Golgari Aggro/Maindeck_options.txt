@@ -5,21 +5,21 @@
 3 Elderfang Disciple
 4 Llanowar Visionary
 4 Elderfang Disciple
-1 Boreal Outrider
 1 Skemfar Avenger
 1 Grasp of Darkness
-1 Snow-Covered Forest
 1 Sculptor of Winter
+1 Snow-Covered Forest
 1 Harald, King of Skemfar
 1 Harald Unites the Elves
+1 Boreal Outrider
 1 Thornmantle Striker
 1 Return Upon the Tide
 1 Snow-Covered Swamp
-2 Boreal Outrider
 2 Snow-Covered Forest
 2 Sculptor of Winter
 2 Grasp of Darkness
 2 Harald, King of Skemfar
+2 Boreal Outrider
 2 Woodland Chasm
 2 Snow-Covered Swamp
 3 Snow-Covered Forest
@@ -79,8 +79,8 @@
 7 Swamp
 1 Feed the Swarm
 1 Fynn, the Fangbearer
-1 Wildborn Preserver
 1 Ranger's Guile
+1 Wildborn Preserver
 1 Withercrown
 1 Fully Grown
 1 Tajuru Blightblade
@@ -89,15 +89,15 @@
 2 Fully Grown
 2 Fynn, the Fangbearer
 2 Tajuru Blightblade
-3 Jungle Hollow
 3 Oakhame Adversary
 3 Fynn, the Fangbearer
+3 Jungle Hollow
 3 Tajuru Blightblade
 3 Fully Grown
-4 Jungle Hollow
 4 Oakhame Adversary
 4 Fynn, the Fangbearer
 4 Tajuru Blightblade
+4 Jungle Hollow
 7 Forest
 8 Forest
 8 Swamp
@@ -112,20 +112,20 @@
 1 Scute Swarm
 1 Nighthawk Scavenger
 2 Path to the World Tree
+2 The World Tree
 2 Questing Beast
-2 Evolving Wilds
 2 Vivien, Monsters' Advocate
 2 Extinction Event
 2 Cosmos Elixir
 2 Hooded Blightfang
 2 Vito, Thorn of the Dusk Rose
-2 The World Tree
 2 Kazandu Nectarpot
+2 Evolving Wilds
 2 Nighthawk Scavenger
 2 Scute Swarm
 3 Extinction Event
-3 Evolving Wilds
 3 Kazandu Nectarpot
+3 Evolving Wilds
 3 Vito, Thorn of the Dusk Rose
 3 Cosmos Elixir
 3 Path to the World Tree
@@ -139,8 +139,8 @@
 1 Rankle, Master of Pranks
 1 Foulmire Knight
 1 Order of Midnight
-1 Wilt
 1 Toski, Bearer of Secrets
+1 Wilt
 1 Heartless Act
 1 Sarulf, Realm Eater
 1 Edgewall Innkeeper
@@ -152,10 +152,10 @@
 2 Edgewall Innkeeper
 2 Heartless Act
 3 Temple of Malady
+3 Heartless Act
 3 Foulmire Knight
 3 Scavenging Ooze
 3 Edgewall Innkeeper
-3 Heartless Act
 4 Foulmire Knight
 4 Edgewall Innkeeper
 4 Murderous Rider
@@ -186,9 +186,9 @@
 1 Agadeem's Awakening
 2 Trail of Crumbs
 2 Gilded Goose
-2 Elder Gargaroth
 2 Eliminate
 2 Massacre Wurm
+2 Elder Gargaroth
 2 Wicked Wolf
 2 Agadeem's Awakening
 2 Turntimber Symbiosis

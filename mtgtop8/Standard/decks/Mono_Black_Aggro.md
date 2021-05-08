@@ -44,12 +44,12 @@
 |                    2|[Faceless Haven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503874)         |                     |              |
 |                    2|[Mogis's Favor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476358)          |                     |              |
 |                    3|[Lurrus of the Dream-Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479746)|                     |              |
-|                    3|[Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)    |                     |              |
 |                    3|[Bloodsky Berserker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503688)     |                     |              |
 |                    3|[Demonic Embrace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=488255)        |                     |              |
 |                    3|[Faceless Haven](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503874)         |                     |              |
 |                    3|[Skyclave Shade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491763)         |                     |              |
 |                    3|[Mogis's Favor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476358)          |                     |              |
+|                    3|[Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)    |                     |              |
 |                    4|[Lurrus of the Dream-Den](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479746)|                     |              |
 |                    4|[Bloodsky Berserker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503688)     |                     |              |
 

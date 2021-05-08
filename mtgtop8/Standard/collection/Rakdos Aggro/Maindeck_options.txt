@@ -1,15 +1,8 @@
-4 Mountain
-1 Shredded Sails
-2 Shredded Sails
+1 Heartless Act
+2 Heartless Act
 3 Castle Locthwain
 3 Temple of Malice
-1 Valki, God of Lies
-5 Mountain
-1 Bastion of Remembrance
-1 Plumb the Forbidden
-2 Plumb the Forbidden
-2 Bastion of Remembrance
-1 Skyclave Shade
+4 Mountain
 4 Temple of Malice
 1 Extus, Oriq Overlord
 1 Brightclimb Pathway
@@ -18,79 +11,56 @@
 2 Extus, Oriq Overlord
 2 Serrated Scorpion
 2 Needleverge Pathway
-1 Forbidden Friendship
-1 Eyetwitch
+1 Plumb the Forbidden
+1 Bastion of Remembrance
 1 Hunt for Specimens
-2 Forbidden Friendship
-2 Eyetwitch
+1 Eyetwitch
+1 Forbidden Friendship
 2 Hunt for Specimens
+2 Eyetwitch
+2 Bastion of Remembrance
+2 Plumb the Forbidden
+2 Forbidden Friendship
 2 Brightclimb Pathway
-3 Extus, Oriq Overlord
-3 Brightclimb Pathway
+3 Bastion of Remembrance
 3 Eyetwitch
 3 Plumb the Forbidden
+3 Extus, Oriq Overlord
 3 Needleverge Pathway
+3 Brightclimb Pathway
 3 Hunt for Specimens
-3 Bastion of Remembrance
-4 Brightclimb Pathway
-4 Eyetwitch
-4 Plumb the Forbidden
 4 Bastion of Remembrance
+4 Plumb the Forbidden
+4 Eyetwitch
+4 Brightclimb Pathway
 4 Needleverge Pathway
-1 Goldspan Dragon
-2 Goldspan Dragon
-3 Shatterskull Smashing
-2 Skyclave Shade
+1 Valki, God of Lies
+5 Mountain
 1 Agadeem's Awakening
 7 Swamp
 1 Kazuul's Fury
-2 Valki, God of Lies
 1 Egon, God of Death
 2 Egon, God of Death
+2 Valki, God of Lies
 3 Heartless Act
 4 Heartless Act
+1 Skyclave Shade
 1 Robber of the Rich
 2 Robber of the Rich
 2 Agadeem's Awakening
 1 Castle Embereth
+1 Savai Triome
 1 Fire Prophecy
 1 Kaervek, the Spiteful
+2 Skyclave Shade
 2 Fire Prophecy
 3 Skyclave Shade
 3 Rankle, Master of Pranks
 3 Fire Prophecy
 1 Ox of Agonas
 2 Ox of Agonas
+3 Shatterskull Smashing
 4 Shatterskull Smashing
-1 Bloodchief's Thirst
-2 Bloodchief's Thirst
-1 Magmatic Channeler
-1 Inscription of Ruin
-1 Acquisitions Expert
-1 Elderfang Disciple
-1 Hagra Mauling
-1 Embereth Shieldbreaker
-1 Riverglide Pathway
-1 Eliminate
-1 Clearwater Pathway
-2 Magmatic Channeler
-2 Elderfang Disciple
-2 Hagra Mauling
-2 Riverglide Pathway
-2 Eliminate
-2 Acquisitions Expert
-2 Clearwater Pathway
-2 Inscription of Ruin
-3 Elderfang Disciple
-3 Acquisitions Expert
-3 Inscription of Ruin
-3 Riverglide Pathway
-3 Clearwater Pathway
-4 Elderfang Disciple
-4 Acquisitions Expert
-4 Inscription of Ruin
-4 Riverglide Pathway
-4 Clearwater Pathway
 1 Fiend Artisan
 1 Whisper Squad
 2 Fiend Artisan
@@ -105,7 +75,9 @@
 4 Immersturm Predator
 4 Whisper Squad
 4 Fiend Artisan
+1 Goldspan Dragon
 1 Order of Midnight
+2 Goldspan Dragon
 2 Order of Midnight
 3 Goldspan Dragon
 4 Goldspan Dragon
@@ -114,6 +86,7 @@
 1 Bloodsky Berserker
 1 Phoenix of Ash
 1 Sedgemoor Witch
+1 Bloodchief's Thirst
 1 Stormfist Crusader
 1 Hall Monitor
 1 Labyrinth Raptor
@@ -125,6 +98,7 @@
 2 Bloodsky Berserker
 2 Sedgemoor Witch
 2 Phoenix of Ash
+2 Bloodchief's Thirst
 2 Hall Monitor
 2 Snow-Covered Swamp
 2 Fervent Champion
@@ -134,9 +108,9 @@
 3 Bloodsky Berserker
 3 Sedgemoor Witch
 3 Snow-Covered Mountain
-3 Labyrinth Raptor
 3 Fervent Champion
 3 Snow-Covered Swamp
+3 Labyrinth Raptor
 3 Stormfist Crusader
 4 Bloodsky Berserker
 4 Sedgemoor Witch

@@ -10,35 +10,35 @@
 12 Forest
 13 Forest
 14 Forest
-1 Kogla, the Titan Ape
 2 Crawling Barrens
 15 Forest
+1 Kogla, the Titan Ape
+3 Old-Growth Troll
 1 Faceless Haven
 2 Faceless Haven
 4 The Great Henge
-3 Old-Growth Troll
-2 Kogla, the Titan Ape
 3 Crawling Barrens
 2 Primal Might
-3 Faceless Haven
-1 Elder Gargaroth
+2 Kogla, the Titan Ape
 2 Vivien, Monsters' Advocate
 3 Primal Might
-1 Questing Beast
-2 Questing Beast
 1 In Search of Greatness
 1 Gemrazer
 2 Gemrazer
 1 Garruk's Harbinger
 2 Garruk's Harbinger
 4 Old-Growth Troll
+1 Questing Beast
+2 Questing Beast
 16 Snow-Covered Forest
-16 Forest
-17 Forest
 3 Garruk's Harbinger
-3 Questing Beast
+1 Elder Gargaroth
 1 Toski, Bearer of Secrets
 2 Toski, Bearer of Secrets
+3 Questing Beast
+16 Forest
+17 Forest
+3 Faceless Haven
 17 Snow-Covered Forest
 1 Ram Through
 2 Ram Through
@@ -56,9 +56,8 @@
 1 Garruk, Unleashed
 20 Forest
 4 Ilysian Caryatid
-1 Turntimber Symbiosis
-4 Trail of Crumbs
 2 Thrashing Brontodon
+1 Turntimber Symbiosis
 1 Scavenging Ooze
 1 Cragplate Baloth
 2 Cragplate Baloth
@@ -75,7 +74,9 @@
 2 Nessian Hornbeetle
 3 Nessian Hornbeetle
 3 Garruk, Unleashed
+4 Trail of Crumbs
 4 Primal Might
+2 Turntimber Symbiosis
 2 In Search of Greatness
 1 Llanowar Visionary
 2 Cultivate
@@ -86,7 +87,6 @@
 1 Inscription of Abundance
 1 Blizzard Brawl
 2 Blizzard Brawl
-2 Turntimber Symbiosis
 1 Wolfwillow Haven
 2 Wolfwillow Haven
 1 Shadowspear
@@ -99,29 +99,34 @@
 2 Nylea's Intervention
 2 Auspicious Starrix
 3 Auspicious Starrix
+1 Battle Mammoth
+1 Gnarled Professor
+2 Battle Mammoth
+2 Gnarled Professor
+3 Gnarled Professor
 3 Vorinclex, Monstrous Raider
 1 Stonecoil Serpent
 1 Syr Faren, the Hengehammer
 2 Stonecoil Serpent
-2 Scavenging Ooze
 2 Syr Faren, the Hengehammer
+2 Scavenging Ooze
+3 Scavenging Ooze
 3 Stonecoil Serpent
 3 Gemrazer
-3 Scavenging Ooze
 3 Syr Faren, the Hengehammer
 4 Stonecoil Serpent
 4 Gemrazer
-1 Fierce Empath
 1 Bala Ged Recovery
 1 Beanstalk Giant
-2 Fierce Empath
-2 Beanstalk Giant
+1 Fierce Empath
 2 Ugin, the Spirit Dragon
 2 Bala Ged Recovery
-3 Fierce Empath
-3 Beanstalk Giant
+2 Fierce Empath
+2 Beanstalk Giant
 3 Ugin, the Spirit Dragon
+3 Fierce Empath
 3 Kogla, the Titan Ape
+3 Beanstalk Giant
 4 Cultivate
 4 Fierce Empath
 4 Beanstalk Giant
