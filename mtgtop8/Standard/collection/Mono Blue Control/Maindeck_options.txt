@@ -2,10 +2,11 @@
 1 Crawling Barrens
 1 Field of Ruin
 4 Opt
-1 Forsaken Monument
 1 Sublime Epiphany
+1 Forsaken Monument
 1 Kiora Bests the Sea God
 1 Radiant Fountain
+1 Discontinuity
 1 Midnight Clock
 1 Cosmos Elixir
 1 Palladium Myr
@@ -13,7 +14,6 @@
 1 Ugin, the Spirit Dragon
 1 The Magic Mirror
 1 Skyclave Relic
-1 Discontinuity
 1 Sea Gate Restoration
 1 Mazemind Tome
 1 Throne of Makindi
@@ -72,11 +72,11 @@
 2 Mystic Subdual
 2 Unsubstantiate
 1 Thassa's Intervention
-1 Gadwick, the Wizened
 1 Cosmos Charger
+1 Gadwick, the Wizened
 2 Into the Roil
-2 Thassa's Intervention
 2 Cosmos Charger
+2 Thassa's Intervention
 2 Gadwick, the Wizened
 3 Cosmos Charger
 1 Cosima, God of the Voyage
@@ -88,21 +88,22 @@
 3 Cosima, God of the Voyage
 3 Icebreaker Kraken
 4 Cosima, God of the Voyage
+1 Reject
 1 Fabled Passage
 1 Island
-1 Serpentine Curve
 1 Thassa's Oracle
 1 Test of Talents
 1 Frostveil Ambush
 1 Stern Dismissal
+1 Serpentine Curve
 1 Startling Development
 1 Boon of the Wish-Giver
 1 Curate
 1 Glimpse of Freedom
 1 Sleep of the Dead
-1 Reject
 2 Serpentine Curve
 2 Field of Ruin
+2 Reject
 2 Island
 2 Negate
 2 Test of Talents
@@ -112,8 +113,6 @@
 2 Boon of the Wish-Giver
 2 Neutralize
 2 Curate
-2 Reject
-3 Stern Dismissal
 3 Island
 3 Frostveil Ambush
 3 Neutralize
@@ -122,9 +121,10 @@
 3 Reject
 3 Startling Development
 3 Curate
+3 Stern Dismissal
+4 Island
 4 Frostveil Ambush
 4 Startling Development
-4 Island
 4 Neutralize
 4 Serpentine Curve
 4 Reject

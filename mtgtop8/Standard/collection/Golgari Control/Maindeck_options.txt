@@ -1,17 +1,17 @@
 6 Snow-Covered Swamp
-7 Snow-Covered Forest
 7 Snow-Covered Swamp
-8 Snow-Covered Forest
+7 Snow-Covered Forest
 8 Snow-Covered Swamp
+8 Snow-Covered Forest
+1 Solemn Simulacrum
 1 Blood on the Snow
 1 Poison the Cup
 1 Duress
-1 Solemn Simulacrum
 1 Woe Strider
 1 Faceless Haven
 2 Blood on the Snow
-2 Extinction Event
 2 Solemn Simulacrum
+2 Extinction Event
 2 Duress
 2 Faceless Haven
 2 Woe Strider
@@ -33,19 +33,19 @@
 4 Woe Strider
 4 Duress
 4 Garruk, Cursed Huntsman
-1 Tangled Florahedron
 1 Brightclimb Pathway
+1 Tangled Florahedron
 1 Bloodchief's Thirst
 1 Sarulf, Realm Eater
 1 Scavenging Ooze
+1 Agonizing Remorse
 1 Mythos of Nethroi
 1 Indatha Triome
 1 Branchloft Pathway
-1 Agonizing Remorse
 2 Brightclimb Pathway
 2 Tangled Florahedron
-2 Eliminate
 2 Scavenging Ooze
+2 Eliminate
 2 Bloodchief's Thirst
 2 Agonizing Remorse
 2 Sarulf, Realm Eater
@@ -93,22 +93,22 @@
 4 Chevill, Bane of Monsters
 4 Malakir Rebirth
 1 Bala Ged Recovery
-1 Crawling Barrens
 1 Mortality Spear
+1 Crawling Barrens
 1 Crippling Fear
-1 Cling to Dust
 1 Ugin, the Spirit Dragon
 1 Flunk
 1 Heartless Act
+1 Cling to Dust
 1 Llanowar Visionary
 2 Bala Ged Recovery
-2 Cling to Dust
 2 Llanowar Visionary
+2 Cling to Dust
 2 Polukranos, Unchained
 2 Heartless Act
 3 Llanowar Visionary
-3 Bala Ged Recovery
 3 Heartless Act
+3 Bala Ged Recovery
 4 Forest
 4 Swamp
 5 Forest
@@ -118,21 +118,21 @@
 7 Forest
 1 Hunt for Specimens
 1 Witherbloom Campus
-1 Skull Prophet
 1 Sculptor of Winter
-1 Feed the Serpent
 1 Sarulf's Packmate
+1 Feed the Serpent
 1 Bookwurm
 1 Massacre Wurm
 1 Back for More
+1 Skull Prophet
 1 Cram Session
 2 Hunt for Specimens
 2 Witherbloom Campus
-2 Skull Prophet
 2 Sculptor of Winter
 2 Sarulf's Packmate
 2 Feed the Serpent
 2 Cram Session
+2 Skull Prophet
 2 Back for More
 2 Bookwurm
 3 Hunt for Specimens
@@ -147,5 +147,5 @@
 4 Sarulf's Packmate
 4 Witherbloom Campus
 4 Cram Session
-9 Snow-Covered Swamp
 9 Snow-Covered Forest
+9 Snow-Covered Swamp

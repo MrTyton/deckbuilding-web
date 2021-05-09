@@ -82,10 +82,10 @@
 1 Bonecrusher Giant
 1 Breeding Pool
 1 Stomping Ground
-2 Breeding Pool
 2 Hinterland Harbor
 2 Bonecrusher Giant
 2 Stomping Ground
+2 Breeding Pool
 3 Bonecrusher Giant
 3 Breeding Pool
 3 Stomping Ground
@@ -97,20 +97,20 @@
 3 Lightning Strike
 1 Bonders' Enclave
 1 Vivien, Arkbow Ranger
-1 Scavenger Grounds
 1 Embercleave
 1 Nimble Obstructionist
 1 Stubborn Denial
+1 Boon Satyr
 1 Klothys, God of Destiny
 1 Shivan Reef
+1 Scavenger Grounds
 1 Cragcrown Pathway
 1 Reduce / Rubble
-1 Boon Satyr
 2 Shivan Reef
 2 Vivien, Arkbow Ranger
 2 Nimble Obstructionist
-2 Reduce / Rubble
 2 Boon Satyr
+2 Reduce / Rubble
 2 Klothys, God of Destiny
 2 Cragcrown Pathway
 3 Shivan Reef
@@ -123,56 +123,23 @@
 4 Shivan Reef
 4 Boon Satyr
 4 Cragcrown Pathway
+1 Castle Ardenvale
 1 Glorybringer
 1 Mountain
 2 Glorybringer
-1 Brazen Borrower
-1 Hydroid Krasis
-1 Nissa, Who Shakes the World
-1 Alrund's Epiphany
-1 Rootbound Crag
-1 Steam Vents
-1 Vorinclex, Monstrous Raider
-1 Ketria Triome
-1 Island
-1 Edgewall Innkeeper
-2 Nissa, Who Shakes the World
-2 Alrund's Epiphany
-2 Rootbound Crag
-2 Hydroid Krasis
-2 Mountain
-2 Steam Vents
-2 Brazen Borrower
-2 Edgewall Innkeeper
-2 Ketria Triome
-3 Nissa, Who Shakes the World
-3 Rootbound Crag
-3 Alrund's Epiphany
-3 Hydroid Krasis
-3 Brazen Borrower
-3 Ketria Triome
-3 Edgewall Innkeeper
-3 Steam Vents
-4 Ketria Triome
-4 Nissa, Who Shakes the World
-4 Brazen Borrower
-4 Rootbound Crag
-4 Edgewall Innkeeper
-4 Steam Vents
-1 Castle Ardenvale
 1 Swamp
 1 Isolated Chapel
 1 Savai Triome
 1 Sorin, Solemn Visitor
 1 Shambling Vent
+1 Elspeth, Sun's Champion
 1 Blood Crypt
 1 Valki, God of Lies
 1 Magmatic Channeler
-1 Utter End
 1 Gideon, Ally of Zendikar
+1 Utter End
 1 Sacred Foundry
 1 History of Benalia
-1 Elspeth, Sun's Champion
 1 Dreadbore
 1 Crackling Doom
 1 Seraph of the Scales
@@ -208,12 +175,12 @@
 4 Sacred Foundry
 4 Crackling Doom
 1 Reflector Mage
-1 Glasspool Mimic
 1 Charming Prince
 1 Hengegate Pathway
 1 Militia Bugler
 1 Hallowed Fountain
 1 Oketra's Monument
+1 Glasspool Mimic
 1 Botanical Sanctum
 1 Mana Confluence
 2 Mana Confluence
@@ -241,6 +208,39 @@
 4 Reflector Mage
 4 Hallowed Fountain
 4 Hengegate Pathway
+1 Alrund's Epiphany
+1 Hydroid Krasis
+1 Nissa, Who Shakes the World
+1 Rootbound Crag
+1 Steam Vents
+1 Vorinclex, Monstrous Raider
+1 Ketria Triome
+1 Island
+1 Edgewall Innkeeper
+1 Brazen Borrower
+2 Nissa, Who Shakes the World
+2 Alrund's Epiphany
+2 Rootbound Crag
+2 Hydroid Krasis
+2 Mountain
+2 Steam Vents
+2 Brazen Borrower
+2 Edgewall Innkeeper
+2 Ketria Triome
+3 Nissa, Who Shakes the World
+3 Alrund's Epiphany
+3 Rootbound Crag
+3 Hydroid Krasis
+3 Ketria Triome
+3 Edgewall Innkeeper
+3 Steam Vents
+3 Brazen Borrower
+4 Ketria Triome
+4 Nissa, Who Shakes the World
+4 Rootbound Crag
+4 Edgewall Innkeeper
+4 Steam Vents
+4 Brazen Borrower
 1 Knight of Autumn
 1 Rhonas the Indomitable
 1 Temple of Plenty
@@ -259,7 +259,6 @@
 1 Sorin, Vengeful Bloodlord
 1 Speaker of the Heavens
 1 Shalai, Voice of Plenty
-1 Mazemind Tome
 1 Lyra Dawnbringer
 1 Vito, Thorn of the Dusk Rose
 1 Bishop of Wings
@@ -267,11 +266,12 @@
 1 Command the Dreadhorde
 1 Revival / Revenge
 1 Righteous Valkyrie
+1 Mazemind Tome
 2 Speaker of the Heavens
 2 Sorin, Vengeful Bloodlord
-2 Mazemind Tome
 2 Resplendent Angel
 2 Righteous Valkyrie
+2 Mazemind Tome
 2 Revival / Revenge
 2 Shalai, Voice of Plenty
 2 Vito, Thorn of the Dusk Rose

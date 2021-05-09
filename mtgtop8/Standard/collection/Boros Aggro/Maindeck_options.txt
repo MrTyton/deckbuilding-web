@@ -34,16 +34,16 @@
 1 Kenrith, the Returned King
 1 Professor of Symbology
 1 Winota, Joiner of Forces
-2 Professor of Symbology
 2 Kenrith, the Returned King
+2 Professor of Symbology
 2 Winota, Joiner of Forces
 3 Professor of Symbology
 3 Blade Historian
 3 Winota, Joiner of Forces
-4 Shatterskull Smashing
 4 Professor of Symbology
 4 Blade Historian
 4 Winota, Joiner of Forces
+4 Shatterskull Smashing
 1 Halvar, God of Battle
 6 Snow-Covered Mountain
 1 Shadowspear
@@ -69,29 +69,29 @@
 2 Lurrus of the Dream-Den
 2 Goldvein Pick
 3 Shadowspear
-1 Goldspan Dragon
 1 Mila, Crafty Companion
 1 Flamescroll Celebrant
 1 Elspeth, Sun's Nemesis
+1 Goldspan Dragon
 1 Rip Apart
 1 Elspeth Conquers Death
-2 Goldspan Dragon
 2 Mila, Crafty Companion
 2 Flamescroll Celebrant
+2 Goldspan Dragon
 2 Elspeth, Sun's Nemesis
 2 Rip Apart
 2 Elspeth Conquers Death
-3 Goldspan Dragon
 3 Rip Apart
 3 Flamescroll Celebrant
+3 Goldspan Dragon
 4 Rip Apart
 4 Flamescroll Celebrant
+1 Swift Response
 1 Kor Blademaster
 1 Relic Axe
-1 Swift Response
+2 Swift Response
 2 Kor Blademaster
 2 Relic Axe
-2 Swift Response
 3 Relic Axe
 3 Kor Blademaster
 3 Akiri, Fearless Voyager
@@ -100,28 +100,21 @@
 4 Halvar, God of Battle
 4 Maul of the Skyclaves
 4 Kor Blademaster
-1 Frost Bite
-2 Frost Bite
-3 Embercleave
-3 Frost Bite
-3 Faceless Haven
-4 Frost Bite
-7 Snow-Covered Mountain
-1 Rune of Speed
-1 Rune of Sustenance
 1 Sparring Regimen
 1 Clarion Spirit
 1 Outlaws' Merriment
 1 Castle Ardenvale
+1 Rune of Sustenance
 1 Team Pennant
 1 Starnheim Unleashed
+1 Rune of Speed
 1 Doomskar
 1 Tormentor's Helm
 2 Starnheim Unleashed
-2 Rune of Sustenance
-2 Rune of Speed
 2 Clarion Spirit
+2 Rune of Speed
 2 Doomskar
+2 Rune of Sustenance
 2 Team Pennant
 2 Tormentor's Helm
 2 Outlaws' Merriment
@@ -138,6 +131,13 @@
 4 Outlaws' Merriment
 4 Rune of Sustenance
 7 Mountain
+1 Frost Bite
+2 Frost Bite
+3 Embercleave
+3 Frost Bite
+3 Faceless Haven
+4 Frost Bite
+7 Snow-Covered Mountain
 1 Drannith Magistrate
 1 Robber of the Rich
 1 Emeria's Call

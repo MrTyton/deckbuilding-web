@@ -1,5 +1,5 @@
 2 Polluted Delta
-1 Putrid Imp
+1 Carrion Feeder
 2 Putrid Imp
 3 Polluted Delta
 4 Polluted Delta
@@ -7,15 +7,13 @@
 2 Once Upon a Time
 1 Satyr Wayfinder
 2 Satyr Wayfinder
-4 Underground Sea
-2 Bloodstained Mire
 3 Once Upon a Time
 1 Lotus Petal
 1 Forest
 1 Basking Rootwalla
 1 Lotleth Troll
-1 Sylvan Safekeeper
 1 Cavern of Souls
+1 Sylvan Safekeeper
 2 Lotus Petal
 2 Lotleth Troll
 2 Basking Rootwalla
@@ -33,10 +31,15 @@
 4 Lotleth Troll
 4 Lotus Petal
 4 Cavern of Souls
+4 Underground Sea
+2 Bloodstained Mire
 3 Satyr Wayfinder
 2 Swamp
 2 Carrion Feeder
 1 Noose Constrictor
+1 Hollow One
+2 Hollow One
+3 Hollow One
 3 Carrion Feeder
 1 Badlands
 1 Anger
@@ -49,9 +52,6 @@
 1 Snow-Covered Swamp
 1 Brainstorm
 2 Brainstorm
-1 Hollow One
-2 Hollow One
-3 Hollow One
 1 Entomb
 2 Entomb
 3 Entomb

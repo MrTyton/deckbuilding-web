@@ -6,9 +6,9 @@
 4 Llanowar Visionary
 4 Elderfang Disciple
 1 Skemfar Avenger
-1 Grasp of Darkness
 1 Sculptor of Winter
 1 Snow-Covered Forest
+1 Grasp of Darkness
 1 Harald, King of Skemfar
 1 Harald Unites the Elves
 1 Boreal Outrider
@@ -55,15 +55,15 @@
 1 Bloodchief's Thirst
 1 The Great Henge
 2 The Great Henge
-1 Kazandu Mammoth
 1 Scavenging Ooze
 1 Massacre Wurm
 1 Eliminate
+1 Kazandu Mammoth
 1 Lovestruck Beast
-2 Kazandu Mammoth
 2 Lovestruck Beast
-3 Kazandu Mammoth
+2 Kazandu Mammoth
 3 Lovestruck Beast
+3 Kazandu Mammoth
 4 Lovestruck Beast
 4 Kazandu Mammoth
 1 Vivien, Monsters' Advocate
@@ -79,8 +79,8 @@
 7 Swamp
 1 Feed the Swarm
 1 Fynn, the Fangbearer
-1 Ranger's Guile
 1 Wildborn Preserver
+1 Ranger's Guile
 1 Withercrown
 1 Fully Grown
 1 Tajuru Blightblade
@@ -89,15 +89,15 @@
 2 Fully Grown
 2 Fynn, the Fangbearer
 2 Tajuru Blightblade
-3 Oakhame Adversary
 3 Fynn, the Fangbearer
 3 Jungle Hollow
 3 Tajuru Blightblade
+3 Oakhame Adversary
 3 Fully Grown
-4 Oakhame Adversary
 4 Fynn, the Fangbearer
 4 Tajuru Blightblade
 4 Jungle Hollow
+4 Oakhame Adversary
 7 Forest
 8 Forest
 8 Swamp
@@ -114,6 +114,7 @@
 2 Path to the World Tree
 2 Questing Beast
 2 Nighthawk Scavenger
+2 Evolving Wilds
 2 Vivien, Monsters' Advocate
 2 Extinction Event
 2 Cosmos Elixir
@@ -121,34 +122,29 @@
 2 Vito, Thorn of the Dusk Rose
 2 The World Tree
 2 Kazandu Nectarpot
-2 Evolving Wilds
 2 Scute Swarm
 3 Extinction Event
 3 Nighthawk Scavenger
-3 Kazandu Nectarpot
 3 Evolving Wilds
+3 Kazandu Nectarpot
 3 Vito, Thorn of the Dusk Rose
 3 Cosmos Elixir
 3 Path to the World Tree
 3 Bloodchief's Thirst
 4 Extinction Event
-1 Necroblossom Snarl
-2 Necroblossom Snarl
-3 Necroblossom Snarl
-4 Necroblossom Snarl
-1 Trail of Crumbs
 1 Gilded Goose
-1 Indatha Triome
+1 Trail of Crumbs
 1 Elder Gargaroth
+1 Indatha Triome
 1 Wicked Wolf
 1 Turntimber Symbiosis
 1 Agadeem's Awakening
+2 Gilded Goose
 2 Indatha Triome
 2 Trail of Crumbs
-2 Gilded Goose
+2 Elder Gargaroth
 2 Eliminate
 2 Massacre Wurm
-2 Elder Gargaroth
 2 Wicked Wolf
 2 Agadeem's Awakening
 2 Turntimber Symbiosis
@@ -161,6 +157,10 @@
 4 Gilded Goose
 4 Indatha Triome
 4 Wicked Wolf
+1 Necroblossom Snarl
+2 Necroblossom Snarl
+3 Necroblossom Snarl
+4 Necroblossom Snarl
 1 Deathknell Berserker
 1 Tyvar Kell
 1 Jaspera Sentinel
@@ -180,18 +180,18 @@
 9 Snow-Covered Forest
 10 Snow-Covered Swamp
 1 Rankle, Master of Pranks
-1 Order of Midnight
-1 Toski, Bearer of Secrets
 1 Wilt
 1 Heartless Act
+1 Toski, Bearer of Secrets
+1 Order of Midnight
 1 Sarulf, Realm Eater
 1 Edgewall Innkeeper
 1 Foulmire Knight
 2 Rankle, Master of Pranks
-2 Order of Midnight
 2 Wilt
 2 Scavenging Ooze
 2 Foulmire Knight
+2 Order of Midnight
 2 Edgewall Innkeeper
 2 Heartless Act
 3 Temple of Malady

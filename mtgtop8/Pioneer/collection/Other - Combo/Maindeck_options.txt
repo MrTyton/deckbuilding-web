@@ -3,8 +3,8 @@
 1 Blooming Marsh
 1 Silversmote Ghoul
 1 Haunted Dead
-1 Deathrite Shaman
 1 Creeping Chill
+1 Deathrite Shaman
 1 Clearwater Pathway
 1 Swamp
 1 Witherbloom Command
@@ -14,34 +14,34 @@
 1 Narcomoeba
 1 Prized Amalgam
 1 Gather the Pack
-2 Blooming Marsh
 2 Witherbloom Command
 2 Silversmote Ghoul
 2 Deathrite Shaman
 2 Clearwater Pathway
 2 Creeping Chill
+2 Blooming Marsh
 2 Narcomoeba
 2 Gather the Pack
 2 Prized Amalgam
 2 Darkbore Pathway
 3 Deathrite Shaman
-3 Clearwater Pathway
 3 Witherbloom Command
+3 Clearwater Pathway
 3 Creeping Chill
 3 Silversmote Ghoul
+3 Overgrown Tomb
 3 Gather the Pack
 3 Prized Amalgam
 3 Narcomoeba
-3 Overgrown Tomb
 3 Darkbore Pathway
 4 Darkbore Pathway
 4 Deathrite Shaman
 4 Silversmote Ghoul
+4 Overgrown Tomb
 4 Gather the Pack
 4 Prized Amalgam
 4 Narcomoeba
 4 Creeping Chill
-4 Overgrown Tomb
 1 Steam Vents
 1 Mountain
 1 Island
@@ -74,6 +74,7 @@
 2 Servant of the Conduit
 2 Aetherworks Marvel
 2 Aether Hub
+3 Golos, Tireless Pilgrim
 3 Ugin, the Spirit Dragon
 3 Ulamog, the Ceaseless Hunger
 3 Botanical Sanctum
@@ -85,7 +86,6 @@
 3 Shrine of the Forsaken Gods
 3 Aetherworks Marvel
 3 Aether Hub
-3 Golos, Tireless Pilgrim
 3 Whirler Virtuoso
 3 Servant of the Conduit
 4 Golos, Tireless Pilgrim
@@ -99,14 +99,14 @@
 4 Aether Hub
 4 Harnessed Lightning
 4 Servant of the Conduit
+1 Saheeli, Sublime Artificer
 1 Prophetic Prism
 1 Expressive Iteration
-1 Mystic Sanctuary
 1 Sai, Master Thopterist
-1 Tormod's Crypt
+1 Mystic Sanctuary
 1 Aetherflux Reservoir
 1 Commit / Memory
-1 Saheeli, Sublime Artificer
+1 Tormod's Crypt
 1 Metallic Rebuke
 1 Spirebluff Canal
 1 Galazeth Prismari
@@ -118,8 +118,8 @@
 1 Paradoxical Outcome
 2 Prophetic Prism
 2 Sai, Master Thopterist
-2 Mystic Sanctuary
 2 Mox Amber
+2 Mystic Sanctuary
 2 Metallic Rebuke
 2 Tormod's Crypt
 2 Expressive Iteration
@@ -143,16 +143,16 @@
 3 Spirebluff Canal
 3 Steam Vents
 3 Mystic Sanctuary
+4 Island
 4 Tormod's Crypt
 4 Prophetic Prism
 4 Inspiring Statuary
 4 Steam Vents
-4 Island
 4 Expressive Iteration
 4 Paradoxical Outcome
 4 Renegade Map
 4 Mystic Sanctuary
 5 Island
-6 Island
-8 Island
 7 Island
+8 Island
+6 Island

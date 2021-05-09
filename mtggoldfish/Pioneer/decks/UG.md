@@ -27,32 +27,9 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    3|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)       |                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)|
-|                    4|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)|                    1|[Run Afoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485524)        |
-|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                    1|[Sidisi's Faithful](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=394696)|
-|                    1|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)        |                     |                                                                                            |
-|                    1|[Entrancing Melody](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435207)     |                     |                                                                                            |
-|                    1|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)       |                     |                                                                                            |
-|                    1|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)      |                     |                                                                                            |
-|                    1|[Grafdigger's Cage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=278452)     |                     |                                                                                            |
-|                    1|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136218)              |                     |                                                                                            |
-|                    1|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                   |                     |                                                                                            |
-|                    1|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)             |                     |                                                                                            |
-|                    1|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)       |                     |                                                                                            |
-|                    2|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)       |                     |                                                                                            |
-|                    2|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)        |                     |                                                                                            |
-|                    2|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)      |                     |                                                                                            |
-|                    2|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)             |                     |                                                                                            |
-|                    2|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136218)              |                     |                                                                                            |
-|                    2|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                   |                     |                                                                                            |
-|                    3|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)       |                     |                                                                                            |
-|                    3|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)        |                     |                                                                                            |
-|                    3|[Unsummon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=136218)              |                     |                                                                                            |
-|                    3|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                   |                     |                                                                                            |
-|                    3|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)             |                     |                                                                                            |
-|                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                   |                     |                                                                                            |
-|                    4|[Mystic Subdual](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479577)        |                     |                                                                                            |
-|                    4|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)             |                     |                                                                                            |
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|Sideboard Card|
+|--------------------:|-------------------------------------------------------------------------------------------------|---------------------|--------------|
+|                    4|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)|                     |              |
+|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                     |              |
+|                    3|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)       |                     |              |
 

@@ -2,12 +2,12 @@
 2 Dwarven Mine
 3 Transmogrify
 3 Indomitable Creativity
-3 Dwarven Mine
 3 Arid Mesa
+3 Dwarven Mine
 3 Bloodstained Mire
-4 Bloodstained Mire
-4 Arid Mesa
 4 Dwarven Mine
+4 Arid Mesa
+4 Bloodstained Mire
 1 Misty Rainforest
 4 Dryad of the Ilysian Grove
 1 Sheltered Thicket
@@ -28,7 +28,6 @@
 1 Temple Garden
 1 Teferi, Time Raveler
 1 Plains
-1 Sacred Foundry
 1 Path to Exile
 1 Valki, God of Lies
 1 Island
@@ -36,6 +35,7 @@
 1 Omnath, Locus of Creation
 1 Breeding Pool
 1 Supreme Verdict
+1 Sacred Foundry
 1 Bring to Light
 1 Raugrin Triome
 2 Teferi, Time Raveler
@@ -56,8 +56,8 @@
 4 Karn, the Great Creator
 1 Elvish Reclaimer
 1 Flagstones of Trokair
-2 Flagstones of Trokair
 2 Elvish Reclaimer
+2 Flagstones of Trokair
 3 Elvish Reclaimer
 3 Flagstones of Trokair
 3 Teferi, Time Raveler
@@ -81,8 +81,8 @@
 1 Mwonvuli Acid-Moss
 2 Mwonvuli Acid-Moss
 3 Castle Garenbrig
-1 Snow-Covered Mountain
 1 Snow-Covered Forest
+1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Indomitable Creativity

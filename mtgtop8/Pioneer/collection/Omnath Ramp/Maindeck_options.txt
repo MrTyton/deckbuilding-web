@@ -5,6 +5,7 @@
 1 Hinterland Harbor
 1 Yasharn, Implacable Earth
 1 Esika, God of the Tree
+1 Omen of the Sea
 1 Karn's Temporal Sundering
 1 Kiora, Behemoth Beckoner
 1 Clifftop Retreat
@@ -14,34 +15,33 @@
 1 Narset, Parter of Veils
 1 Steam Vents
 1 Indatha Triome
-1 Omen of the Sea
 2 Yasharn, Implacable Earth
+2 Omen of the Sea
 2 Esika, God of the Tree
 2 Urza's Ruinous Blast
 2 Karn's Temporal Sundering
 2 Clifftop Retreat
 2 Kiora, Behemoth Beckoner
-2 Plains
 2 Hinterland Harbor
+2 Plains
 2 Fires of Invention
 2 Narset, Parter of Veils
 2 Steam Vents
 2 Hallowed Fountain
-2 Omen of the Sea
 3 Ketria Triome
+3 Narset, Parter of Veils
 3 Omen of the Sea
+3 Hinterland Harbor
 3 Urza's Ruinous Blast
 3 Karn's Temporal Sundering
 3 Yasharn, Implacable Earth
-3 Hinterland Harbor
 3 Fires of Invention
-3 Narset, Parter of Veils
 4 Omen of the Sea
 4 Hinterland Harbor
-4 Ketria Triome
 4 Karn's Temporal Sundering
 4 Narset, Parter of Veils
 4 Urza's Ruinous Blast
+4 Ketria Triome
 4 Fires of Invention
 1 Felidar Retreat
 2 Felidar Retreat
@@ -51,6 +51,7 @@
 4 Alrund's Epiphany
 5 Forest
 1 Sulfur Falls
+1 Utter End
 1 Jace, Vryn's Prodigy
 1 The Scarab God
 1 Thoughtseize
@@ -59,7 +60,6 @@
 1 Zagoth Triome
 1 Watery Grave
 1 Glacial Fortress
-1 Utter End
 1 Sunpetal Grove
 1 Mana Confluence
 1 Prismari Command
@@ -73,9 +73,9 @@
 2 Thoughtseize
 2 Dreadbore
 2 Fatal Push
+3 Zagoth Triome
 3 Jace, Vryn's Prodigy
 3 Thoughtseize
-3 Zagoth Triome
 3 Fatal Push
 4 Thoughtseize
 4 Bring to Light

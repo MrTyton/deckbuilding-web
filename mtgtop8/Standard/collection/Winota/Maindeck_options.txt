@@ -1,32 +1,21 @@
 4 Elite Spellbinder
-2 Basri's Lieutenant
-3 Kenrith, the Returned King
 4 Fabled Passage
+2 Basri's Lieutenant
 1 Reidane, God of the Worthy
+3 Kenrith, the Returned King
 3 Alseid of Life's Bounty
 10 Plains
+2 Reidane, God of the Worthy
+1 Haktos the Unscarred
 3 Basri's Lieutenant
+3 Furycalm Snarl
 1 Luminarch Aspirant
 2 Luminarch Aspirant
 3 Luminarch Aspirant
 4 Luminarch Aspirant
-1 Haktos the Unscarred
-2 Reidane, God of the Worthy
-1 Branchloft Pathway
-1 Cragcrown Pathway
-2 Branchloft Pathway
-2 Cragcrown Pathway
-3 Branchloft Pathway
-3 Cragcrown Pathway
-4 Branchloft Pathway
-4 Cragcrown Pathway
-1 Seasoned Hallowblade
-2 Seasoned Hallowblade
-3 Furycalm Snarl
-1 Shatterskull Smashing
 6 Mountain
-1 Forest
-2 Forest
+1 Branchloft Pathway
+2 Branchloft Pathway
 1 Faceless Haven
 1 Snow-Covered Plains
 1 Snow-Covered Mountain
@@ -40,47 +29,41 @@
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
-3 Reidane, God of the Worthy
+1 Seasoned Hallowblade
+2 Seasoned Hallowblade
+1 Cragcrown Pathway
+2 Cragcrown Pathway
+3 Branchloft Pathway
+3 Cragcrown Pathway
+4 Branchloft Pathway
+4 Cragcrown Pathway
+1 Forest
+2 Forest
 1 Jaspera Sentinel
 2 Jaspera Sentinel
 3 Jaspera Sentinel
 4 Jaspera Sentinel
+1 Shatterskull Smashing
 4 Furycalm Snarl
 4 Alseid of Life's Bounty
 1 Venerable Warsinger
 2 Venerable Warsinger
 3 Venerable Warsinger
 2 Haktos the Unscarred
+1 Skyclave Cleric
+2 Skyclave Cleric
+3 Skyclave Cleric
+4 Skyclave Cleric
 1 Clarion Spirit
 2 Clarion Spirit
 3 Clarion Spirit
 4 Clarion Spirit
 7 Mountain
-2 Shatterskull Smashing
-3 Seasoned Hallowblade
-1 Giant Killer
-2 Giant Killer
-1 Hengegate Pathway
 1 Brightclimb Pathway
 2 Brightclimb Pathway
-3 Brightclimb Pathway
+3 Reidane, God of the Worthy
 1 Lotus Cobra
 2 Lotus Cobra
-1 Klothys, God of Destiny
-1 Riverglide Pathway
-1 Archon of Emeria
-1 Drannith Magistrate
-1 Elder Gargaroth
-2 Drannith Magistrate
-2 Archon of Emeria
-2 Riverglide Pathway
-2 Hengegate Pathway
-3 Archon of Emeria
-3 Drannith Magistrate
-3 Giant Killer
-3 Hengegate Pathway
-4 Archon of Emeria
-4 Giant Killer
 9 Snow-Covered Plains
 10 Snow-Covered Plains
 11 Snow-Covered Plains
@@ -98,6 +81,8 @@
 3 Magda, Brazen Outlaw
 4 Lotus Cobra
 4 Gilded Goose
+1 Blightstep Pathway
+2 Blightstep Pathway
 3 Forest
 4 Forest
 5 Forest
@@ -105,16 +90,33 @@
 2 Faerie Guidemother
 3 Faerie Guidemother
 4 Faerie Guidemother
-1 Skyclave Cleric
-2 Skyclave Cleric
-3 Skyclave Cleric
-4 Skyclave Cleric
+2 Shatterskull Smashing
+3 Seasoned Hallowblade
+3 Brightclimb Pathway
 1 Darkbore Pathway
 2 Darkbore Pathway
+1 Giant Killer
+2 Giant Killer
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
+1 Hengegate Pathway
 1 Embercleave
+1 Klothys, God of Destiny
+1 Riverglide Pathway
+1 Archon of Emeria
+1 Drannith Magistrate
+1 Elder Gargaroth
+2 Drannith Magistrate
+2 Archon of Emeria
+2 Riverglide Pathway
+2 Hengegate Pathway
+3 Archon of Emeria
+3 Drannith Magistrate
+3 Giant Killer
+3 Hengegate Pathway
+4 Archon of Emeria
+4 Giant Killer
 1 Castle Embereth
 1 Reverent Hoplite
 1 Syr Konrad, the Grim
@@ -123,6 +125,12 @@
 3 Snow-Covered Mountain
 3 Shatterskull Smashing
 4 Shatterskull Smashing
+1 Proud Wildbonder
+1 Stonecoil Serpent
+2 Proud Wildbonder
+2 Stonecoil Serpent
+3 Stonecoil Serpent
+4 Stonecoil Serpent
 4 Reidane, God of the Worthy
 1 Make Your Mark
 1 Guiding Voice
@@ -135,8 +143,8 @@
 4 Make Your Mark
 1 Igneous Cur
 1 Pack Leader
-1 Showdown of the Skalds
 1 Alpine Houndmaster
+1 Showdown of the Skalds
 1 Alpine Watchdog
 1 Bolt Hound
 2 Embercleave
@@ -148,10 +156,10 @@
 2 Alpine Watchdog
 3 Embercleave
 3 Bolt Hound
-3 Alpine Watchdog
 3 Igneous Cur
 3 Alpine Houndmaster
 3 Pack Leader
+3 Alpine Watchdog
 4 Embercleave
 4 Alpine Houndmaster
 4 Pack Leader
@@ -171,15 +179,13 @@
 4 Archpriest of Iona
 1 Esika's Chariot
 1 Barkchannel Pathway
-1 Blightstep Pathway
-2 Blightstep Pathway
 2 Esika's Chariot
 3 Blightstep Pathway
 3 Darkbore Pathway
 4 Kenrith, the Returned King
 4 Darkbore Pathway
-1 Pilgrim of the Ages
 1 Savai Triome
+1 Pilgrim of the Ages
 2 Pilgrim of the Ages
 2 Savai Triome
 3 Haktos the Unscarred

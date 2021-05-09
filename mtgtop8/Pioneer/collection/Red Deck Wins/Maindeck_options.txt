@@ -1,6 +1,7 @@
-1 Zurgo Bellstriker
 4 Lightning Strike
+8 Mountain
 1 Needleverge Pathway
+1 Ramunap Ruins
 9 Mountain
 10 Mountain
 11 Mountain
@@ -8,7 +9,6 @@
 13 Mountain
 14 Mountain
 15 Mountain
-1 Ramunap Ruins
 2 Ramunap Ruins
 1 Bonecrusher Giant
 2 Bonecrusher Giant
@@ -21,14 +21,14 @@
 3 Risk Factor
 4 Bonecrusher Giant
 4 Risk Factor
+2 Shock
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
-2 Shock
 1 Goblin Instigator
 1 Legion Loyalist
-1 Reckless Bushwhacker
 1 Foundry Street Denizen
+1 Reckless Bushwhacker
 1 Goblin Ringleader
 1 Skirk Prospector
 1 Castle Embereth
@@ -46,8 +46,8 @@
 3 Skirk Prospector
 3 Castle Embereth
 3 Legion Loyalist
-3 Goblin Instigator
 3 Reckless Bushwhacker
+3 Goblin Instigator
 3 Foundry Street Denizen
 4 Castle Embereth
 4 Legion Loyalist
@@ -69,6 +69,9 @@
 3 Burning-Tree Emissary
 3 Fanatical Firebrand
 4 Burning-Tree Emissary
+1 Robber of the Rich
+1 Spikefield Hazard
+4 Bomat Courier
 3 Shock
 4 Shock
 1 Conspicuous Snoop

@@ -3,17 +3,17 @@
 1 Tormod's Crypt
 2 Tormod's Crypt
 3 Tormod's Crypt
+1 Revoke Existence
+2 Revoke Existence
+3 Revoke Existence
 1 Abrade
 2 Abrade
 1 Kozilek's Return
 2 Kozilek's Return
 3 Abrade
-1 Revoke Existence
-2 Revoke Existence
 1 Surgical Extraction
 2 Surgical Extraction
 3 Surgical Extraction
-3 Revoke Existence
 4 Rip Apart
 1 Shattering Spree
 2 Shattering Spree
@@ -23,14 +23,10 @@
 2 Smash to Smithereens
 3 Smash to Smithereens
 4 Smash to Smithereens
+1 Wear/Tear
 1 Dragon's Claw
 2 Dragon's Claw
 3 Dragon's Claw
-1 Blood Moon
-2 Blood Moon
-3 Blood Moon
-4 Tormod's Crypt
-1 Wear/Tear
 1 Young Pyromancer
 1 Deicide
 1 Chained to the Rocks
@@ -43,5 +39,9 @@
 2 Seasoned Pyromancer
 3 Grafdigger's Cage
 4 Surgical Extraction
+1 Blood Moon
+2 Blood Moon
+3 Blood Moon
+4 Tormod's Crypt
 4 Abrade
 4 Soul-Guide Lantern
