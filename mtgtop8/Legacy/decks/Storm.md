@@ -79,8 +79,8 @@
 |                    1|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)     |                     |                                                                                                 |
 |                    2|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)     |                     |                                                                                                 |
 |                    3|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)     |                     |                                                                                                 |
-|                    3|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)       |                     |                                                                                                 |
 |                    4|[Flooded Strand](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405098)     |                     |                                                                                                 |
 |                    4|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)       |                     |                                                                                                 |
 |                    4|[Duress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=14557)              |                     |                                                                                                 |
+|                    3|[Underground Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=886)       |                     |                                                                                                 |
 

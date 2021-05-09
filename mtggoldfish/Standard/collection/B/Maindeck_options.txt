@@ -13,33 +13,33 @@
 5 Swamp
 1 Aphemia, the Cacophony
 2 Castle Locthwain
-1 Darkbore Pathway
 1 Fabled Passage
-1 Setessan Champion
+1 Darkbore Pathway
 1 Forest
-2 Setessan Champion
-2 Forest
+1 Setessan Champion
 2 Fabled Passage
+2 Forest
+2 Setessan Champion
 3 Forest
 3 Setessan Champion
 4 Setessan Champion
 2 Aphemia, the Cacophony
 1 Esika's Chariot
-1 Garruk, Cursed Huntsman
 1 Binding the Old Gods
 1 Elspeth's Nightmare
+1 Garruk, Cursed Huntsman
 1 Chevill, Bane of Monsters
 2 Esika's Chariot
-2 Elspeth's Nightmare
+2 Darkbore Pathway
 2 Binding the Old Gods
 2 Chevill, Bane of Monsters
-2 Darkbore Pathway
+2 Elspeth's Nightmare
+3 Darkbore Pathway
 3 Chevill, Bane of Monsters
 3 Castle Locthwain
-3 Darkbore Pathway
 3 Binding the Old Gods
-4 Chevill, Bane of Monsters
 4 Darkbore Pathway
+4 Chevill, Bane of Monsters
 4 Binding the Old Gods
 4 Faceless Haven
 1 Lurrus of the Dream-Den
@@ -72,13 +72,13 @@
 3 Necroblossom Snarl
 4 Necroblossom Snarl
 1 Blightstep Pathway
-1 Kitesail Freebooter
 1 Valki, God of Lies
+1 Kitesail Freebooter
 1 Hagra Mauling
 2 Blightstep Pathway
-2 Valki, God of Lies
 2 Kitesail Freebooter
 2 Hagra Mauling
+2 Valki, God of Lies
 3 Blightstep Pathway
 3 Valki, God of Lies
 3 Kitesail Freebooter
@@ -100,9 +100,9 @@
 3 Drag to the Underworld
 4 Skyclave Shade
 4 Drag to the Underworld
-1 Emeria's Call
-1 Vanishing Verse
 1 Brightclimb Pathway
+1 Vanishing Verse
+1 Emeria's Call
 1 Archon of Sun's Grace
 1 Plains
 1 Humiliate
@@ -111,22 +111,22 @@
 1 Dramatic Finale
 1 Alseid of Life's Bounty
 2 Emeria's Call
+2 Brightclimb Pathway
 2 Vanishing Verse
 2 Alseid of Life's Bounty
 2 Humiliate
 2 Tymaret Calls the Dead
-2 Brightclimb Pathway
 2 Shineshadow Snarl
 2 Dramatic Finale
 2 Archon of Sun's Grace
 2 Plains
 3 Alseid of Life's Bounty
 3 Emeria's Call
+3 Vanishing Verse
 3 Aphemia, the Cacophony
 3 Dramatic Finale
 3 Archon of Sun's Grace
 3 Shineshadow Snarl
-3 Vanishing Verse
 3 Brightclimb Pathway
 3 Plains
 3 Humiliate
@@ -173,9 +173,9 @@
 18 Swamp
 19 Swamp
 20 Swamp
+1 Duress
 1 Deathknell Berserker
 1 Duskwielder
-1 Duress
 1 Withercrown
 2 Duress
 2 Deathknell Berserker

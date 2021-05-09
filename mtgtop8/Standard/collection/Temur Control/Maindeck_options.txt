@@ -26,13 +26,13 @@
 3 Mountain
 2 Koma, Cosmos Serpent
 3 Koma, Cosmos Serpent
+1 Quandrix Cultivator
 1 Frostboil Snarl
 1 Lotus Cobra
 1 Body of Research
 1 Snow-Covered Forest
 1 Snow-Covered Island
 1 Snow-Covered Mountain
-1 Quandrix Cultivator
 2 Quandrix Cultivator
 2 Lotus Cobra
 2 Frostboil Snarl
@@ -63,10 +63,10 @@
 4 Eureka Moment
 1 Velomachus Lorehold
 1 Raugrin Triome
+1 Semester's End
 1 Branchloft Pathway
 1 Kenrith, the Returned King
 1 Needleverge Pathway
-1 Semester's End
 1 The World Tree
 1 Plains
 2 Raugrin Triome
@@ -76,10 +76,10 @@
 2 Semester's End
 2 The World Tree
 2 Velomachus Lorehold
+3 Velomachus Lorehold
 3 The World Tree
 3 Branchloft Pathway
 3 Needleverge Pathway
-3 Velomachus Lorehold
 3 Plains
 4 The World Tree
 1 Bala Ged Recovery
@@ -101,12 +101,13 @@
 4 Shark Typhoon
 4 Jwari Disruption
 1 Dryad of the Ilysian Grove
+1 Inscription of Insight
 1 Scorching Dragonfire
 1 Valakut Exploration
 1 Vivien, Monsters' Advocate
 1 Gnottvold Slumbermound
-1 Chainweb Aracnir
 1 Keruga, the Macrosage
+1 Chainweb Aracnir
 1 Esika's Chariot
 1 Mythos of Illuna
 1 Elder Gargaroth
@@ -114,7 +115,6 @@
 1 Depart the Realm
 1 Radha, Heart of Keld
 1 Waking the Trolls
-1 Inscription of Insight
 1 Cosima, God of the Voyage
 2 Mythos of Illuna
 2 Scorching Dragonfire
@@ -187,8 +187,8 @@
 2 Teferi's Tutelage
 3 Bala Ged Recovery
 3 Experimental Overload
-3 Thrill of Possibility
 3 Opt
+3 Thrill of Possibility
 3 Improbable Alliance
 3 Thwart the Enemy
 3 Thirst for Meaning

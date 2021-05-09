@@ -1,15 +1,15 @@
-2 Wolfwillow Haven
+2 Alrund's Epiphany
 2 Barkchannel Pathway
 2 Clearwater Pathway
 3 Clearwater Pathway
 3 Darkbore Pathway
+3 Barkchannel Pathway
 3 Wolfwillow Haven
 3 Forest
-3 Barkchannel Pathway
 4 Darkbore Pathway
 4 Wolfwillow Haven
-4 Binding the Old Gods
 4 Barkchannel Pathway
+4 Binding the Old Gods
 4 Fatal Push
 1 Dig Through Time
 3 Omen of the Sea
@@ -25,7 +25,6 @@
 4 Yavimaya Coast
 1 Omniscience
 1 Blast Zone
-1 Shimmer of Possibility
 1 Arboreal Grazer
 1 Pore Over the Pages
 1 Lotus Field
@@ -34,19 +33,20 @@
 1 Hidden Strings
 1 Sylvan Scrying
 1 Temple of Mystery
+1 Shimmer of Possibility
 1 Vizier of Tumbling Sands
-2 Shimmer of Possibility
 2 Pore Over the Pages
 2 Arboreal Grazer
 2 Vizier of Tumbling Sands
 2 Hidden Strings
 2 Thespian's Stage
+2 Shimmer of Possibility
 2 Temple of Mystery
 2 Lotus Field
 2 Botanical Sanctum
 2 Sylvan Scrying
-3 Thespian's Stage
 3 Botanical Sanctum
+3 Thespian's Stage
 3 Sylvan Scrying
 3 Arboreal Grazer
 3 Lotus Field
@@ -54,8 +54,8 @@
 3 Hidden Strings
 3 Pore Over the Pages
 3 Vizier of Tumbling Sands
-4 Lotus Field
 4 Botanical Sanctum
+4 Lotus Field
 4 Arboreal Grazer
 4 Hidden Strings
 4 Shimmer of Possibility
@@ -89,11 +89,11 @@
 1 Sheltered Thicket
 4 Temple of Mystery
 4 Overgrown Tomb
-1 Hinterland Harbor
-1 Narset, Parter of Veils
 1 Drowned Catacomb
-1 Woodland Cemetery
+1 Narset, Parter of Veils
+1 Hinterland Harbor
 1 Nissa, Vastwood Seer
+1 Woodland Cemetery
 1 Murderous Rider
 2 Abrupt Decay
 2 Woodland Cemetery
@@ -122,43 +122,43 @@
 3 Bring to Light
 4 Bring to Light
 4 Bala Ged Recovery
+1 Plains
+1 Urborg, Tomb of Yawgmoth
 1 Blooming Marsh
+1 Tireless Tracker
+1 Assassin's Trophy
 1 Siege Rhino
-1 Tasigur, the Golden Fang
 1 Hissing Quagmire
-1 Obzedat, Ghost Council
 1 Vraska, Golgari Queen
 1 Voice of Resurgence
 1 Liliana, the Last Hope
-1 Tireless Tracker
-1 Urborg, Tomb of Yawgmoth
 1 Godless Shrine
+1 Obzedat, Ghost Council
 1 Temple Garden
 1 Sunpetal Grove
 1 Abzan Charm
-1 Plains
+1 Tasigur, the Golden Fang
 1 Castle Locthwain
-1 Assassin's Trophy
 2 Blooming Marsh
 2 Siege Rhino
 2 Tireless Tracker
-2 Obzedat, Ghost Council
-2 Liliana, the Last Hope
 2 Voice of Resurgence
+2 Liliana, the Last Hope
 2 Murderous Rider
 2 Temple Garden
+2 Obzedat, Ghost Council
 2 Godless Shrine
 3 Abrupt Decay
-3 Temple Garden
 3 Siege Rhino
+3 Temple Garden
 4 Siege Rhino
 1 Day's Undoing
 1 Drown in the Loch
+1 Brazen Borrower
 1 Silundi Vision
 1 Geier Reach Sanitarium
-1 Brazen Borrower
-1 Kalitas, Traitor of Ghet
 1 Hero's Downfall
+1 Kalitas, Traitor of Ghet
 1 Notion Thief
 2 Narset, Parter of Veils
 2 Day's Undoing
@@ -169,11 +169,11 @@
 4 Watery Grave
 1 Reality Smasher
 1 Llanowar Wastes
-1 Thought-Knot Seer
 1 Ifnir Deadlands
 1 Aether Hub
 1 Questing Beast
 1 Llanowar Elves
+1 Thought-Knot Seer
 1 Spatial Contortion
 1 Elvish Mystic
 2 Reality Smasher

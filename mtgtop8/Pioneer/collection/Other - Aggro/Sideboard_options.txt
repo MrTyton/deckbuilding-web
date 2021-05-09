@@ -1,14 +1,14 @@
 2 Arashin Cleric
 1 Rest in Peace
 1 Selfless Spirit
-1 Tireless Tracker
 1 Yasharn, Implacable Earth
+1 Tireless Tracker
 1 Dromoka's Command
 1 Knight of Autumn
 1 Baffling End
 2 Tireless Tracker
-2 Dromoka's Command
 2 Knight of Autumn
+2 Dromoka's Command
 2 Selfless Spirit
 2 Baffling End
 3 Tireless Tracker
@@ -23,11 +23,11 @@
 2 Duress
 1 Damping Sphere
 2 Damping Sphere
+3 Duress
+2 Rest in Peace
 1 Light of Hope
 2 Light of Hope
-3 Duress
 1 Soul-Guide Lantern
-2 Rest in Peace
 1 Despark
 1 Crippling Fear
 1 Tomik, Distinguished Advokist
@@ -35,7 +35,6 @@
 2 Crippling Fear
 2 Tomik, Distinguished Advokist
 2 Isolate
-2 Soul-Guide Lantern
 1 Reidane, God of the Worthy
 1 Tithe Taker
 1 Declaration in Stone
@@ -47,6 +46,7 @@
 1 Glorious Protector
 2 Declaration in Stone
 2 Charming Prince
+2 Soul-Guide Lantern
 2 Shapers' Sanctuary
 2 Return to Nature
 1 Kunoros, Hound of Athreos
@@ -70,34 +70,24 @@
 1 Aether Gust
 2 Disdainful Stroke
 2 Carnage Tyrant
+2 Aether Gust
 2 Scorching Dragonfire
 2 Redcap Melee
 2 Aethersphere Harvester
-2 Aether Gust
 3 Mystical Dispute
 1 Stubborn Denial
-1 Reckless Rage
 1 Cindervines
+1 Reckless Rage
 1 Anger of the Gods
 1 Shifting Ceratops
 1 Abrade
 2 Shifting Ceratops
-2 Reckless Rage
 2 Cindervines
 2 Stubborn Denial
 2 Abrade
 2 Anger of the Gods
+2 Reckless Rage
 3 Stubborn Denial
-1 Deafening Clarion
-1 Wild Slash
-2 Deafening Clarion
-2 Wild Slash
-3 Light of Hope
-3 Deafening Clarion
-3 Wild Slash
-4 Wild Slash
-4 Light of Hope
-4 Deafening Clarion
 3 Rest in Peace
 4 Fourth Bridge Prowler
 4 Duress
@@ -114,8 +104,8 @@
 1 Archangel Avacyn
 1 Seal Away
 1 Command the Dreadhorde
-1 Kaya's Wrath
 1 Settle the Wreckage
+1 Kaya's Wrath
 2 Seal Away
 2 Settle the Wreckage
 2 Despark

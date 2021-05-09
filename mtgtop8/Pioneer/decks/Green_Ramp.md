@@ -24,10 +24,3 @@
 |                                                                                           |1 [Jegantha, the Wellspring](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479742)|                                                                                            |                                                                                           |                |
 |                                                                                           |4 [Shifting Ceratops](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466948)       |                                                                                            |                                                                                           |                |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|Maindeck Card|*n*<sup>th</sup> copy|                                     Sideboard Card                                      |
-|---------------------|-------------|--------------------:|-----------------------------------------------------------------------------------------|
-|                     |             |                    2|[Tormod's Crypt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389723)|
-
