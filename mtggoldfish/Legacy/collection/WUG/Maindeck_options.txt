@@ -46,9 +46,9 @@
 2 Stoneforge Mystic
 2 Karakas
 3 Abundant Growth
-3 Snow-Covered Island
 3 Teferi, Time Raveler
 3 Snow-Covered Forest
+3 Snow-Covered Island
 3 Prismatic Vista
 3 Stoneforge Mystic
 4 Stoneforge Mystic
@@ -60,8 +60,8 @@
 1 Abrupt Decay
 1 Underground Sea
 1 Verdant Catacombs
-2 Tropical Island
 2 Abrupt Decay
+2 Tropical Island
 2 Verdant Catacombs
 2 Underground Sea
 3 Verdant Catacombs
@@ -82,15 +82,13 @@
 3 Tireless Tracker
 3 Fatal Push
 3 Polluted Delta
+4 Polluted Delta
 4 Baleful Strix
 4 Verdant Catacombs
 4 Urza, Lord High Artificer
-4 Polluted Delta
 1 Rimewood Falls
-1 Plains
-3 Force of Negation
-1 Green Sun's Zenith
 1 Dryad Arbor
+1 Green Sun's Zenith
 1 Birds of Paradise
 1 Leovold, Emissary of Trest
 1 Scavenging Ooze
@@ -99,6 +97,8 @@
 1 Blast Zone
 2 Spell Pierce
 2 Green Sun's Zenith
+2 Knight of the Reliquary
 3 Green Sun's Zenith
 3 Sylvan Library
-2 Knight of the Reliquary
+3 Force of Negation
+1 Plains

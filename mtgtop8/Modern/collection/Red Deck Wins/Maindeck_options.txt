@@ -1,6 +1,13 @@
 3 Skullcrack
 3 Wooded Foothills
 3 Arid Mesa
+3 Lightning Helix
+3 Sacred Foundry
+4 Skullcrack
+1 Lava Dart
+2 Lava Dart
+3 Lava Dart
+4 Lava Dart
 1 Scalding Tarn
 4 Mountain
 5 Mountain
@@ -14,12 +21,8 @@
 10 Mountain
 11 Mountain
 1 Soul-Scar Mage
-1 Lava Dart
-2 Lava Dart
 2 Soul-Scar Mage
 3 Soul-Scar Mage
-3 Lava Dart
-4 Lava Dart
 4 Soul-Scar Mage
 4 Light Up the Stage
 12 Mountain
@@ -29,9 +32,6 @@
 2 Mishra's Bauble
 3 Mishra's Bauble
 4 Mishra's Bauble
-3 Sacred Foundry
-4 Skullcrack
-3 Lightning Helix
 15 Mountain
 1 Snow-Covered Mountain
 1 Blood Moon
@@ -47,9 +47,9 @@
 3 Seasoned Pyromancer
 3 Bonecrusher Giant
 3 Firebolt
-4 Firebolt
-4 Seasoned Pyromancer
 4 Bonecrusher Giant
+4 Seasoned Pyromancer
+4 Firebolt
 4 Wooded Foothills
 1 Burst Lightning
 1 Bomat Courier
@@ -58,6 +58,8 @@
 1 Grim Lavamancer
 2 Grim Lavamancer
 1 Seal of Fire
+1 Shard Volley
+2 Shard Volley
 1 Castle Embereth
 1 Forgotten Cave
 1 Flame Slash
@@ -74,12 +76,12 @@
 1 Crash Through
 1 Runaway Steam-Kin
 1 Risk Factor
+2 Fiery Islet
 2 Bedlam Reveler
 2 Burst Lightning
 2 Manamorphose
 2 Crash Through
 2 Runaway Steam-Kin
-2 Fiery Islet
 3 Burst Lightning
 3 Bedlam Reveler
 3 Manamorphose
@@ -91,11 +93,9 @@
 2 Ramunap Ruins
 3 Ramunap Ruins
 4 Ramunap Ruins
-1 Mutavault
 1 Goblin Rabblemaster
 1 Chrome Mox
 1 Hazoret the Fervent
-1 Simian Spirit Guide
 1 Gemstone Caverns
 1 Magus of the Moon
 1 Pillage
@@ -105,26 +105,28 @@
 1 Koth of the Hammer
 1 Chandra, Torch of Defiance
 1 Legion Warboss
+1 Mutavault
+1 Simian Spirit Guide
 1 Chalice of the Void
 2 Chandra, Torch of Defiance
 2 Goblin Rabblemaster
 2 Chrome Mox
-2 Mutavault
-2 Simian Spirit Guide
 2 Gemstone Caverns
 2 Phyrexian Revoker
+2 Mutavault
+2 Simian Spirit Guide
 2 Magus of the Moon
 2 Chalice of the Void
 3 Chrome Mox
-3 Simian Spirit Guide
 3 Goblin Rabblemaster
 3 Gemstone Caverns
 3 Chalice of the Void
 3 Magus of the Moon
+3 Simian Spirit Guide
 4 Chalice of the Void
-4 Simian Spirit Guide
 4 Goblin Rabblemaster
 4 Chrome Mox
+4 Simian Spirit Guide
 1 Mogg Fanatic
 1 Wayward Guide-Beast
 1 Foundry Street Denizen
@@ -140,8 +142,8 @@
 2 Reckless Bushwhacker
 2 Goblin Bushwhacker
 2 Goblin Grenade
-2 Legion Loyalist
 2 Devastating Summons
+2 Legion Loyalist
 3 Foundry Street Denizen
 3 Goblin Grenade
 3 Reckless Bushwhacker
@@ -163,18 +165,18 @@
 1 Ghitu Lavarunner
 1 Wizard's Lightning
 2 Gut Shot
-2 Wizard's Lightning
 2 Scalding Tarn
+2 Wizard's Lightning
 2 The Flame of Keld
 2 Ghitu Lavarunner
+3 Scalding Tarn
 3 Gut Shot
 3 Bomat Courier
 3 Ghitu Lavarunner
 3 Wizard's Lightning
-3 Scalding Tarn
 3 The Flame of Keld
+4 Scalding Tarn
 4 Bomat Courier
 4 Ghitu Lavarunner
 4 The Flame of Keld
-4 Scalding Tarn
 4 Gut Shot

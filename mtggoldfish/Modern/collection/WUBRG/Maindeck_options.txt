@@ -1,5 +1,5 @@
-3 Skyclave Apparition
 3 Spreading Seas
+3 Skyclave Apparition
 4 Spreading Seas
 1 Snow-Covered Forest
 1 Snow-Covered Island
@@ -44,8 +44,8 @@
 1 Spirebluff Canal
 4 Ardent Plea
 2 Spirebluff Canal
-1 Botanical Sanctum
 1 Violent Outburst
+1 Botanical Sanctum
 1 Desert Cerodon
 2 Violent Outburst
 2 Desert Cerodon
@@ -107,14 +107,14 @@
 3 Forest
 2 Steam Vents
 3 Steam Vents
-1 Fiery Islet
-1 Remand
 1 Electrodominance
 1 Crashing Footfalls
 1 Silundi Vision
-2 Remand
+1 Remand
+1 Fiery Islet
 2 Fiery Islet
 2 Electrodominance
+2 Remand
 2 Crashing Footfalls
 3 Remand
 3 Spirebluff Canal
@@ -161,9 +161,9 @@
 1 Cosima, God of the Voyage
 1 Archon of Emeria
 1 Reidane, God of the Worthy
+1 Omen of the Dead
 1 Heliod, Sun-Crowned
 1 Spike Feeder
-1 Omen of the Dead
 1 Gilded Goose
 2 Gilded Goose
 2 Trial of Ambition
@@ -180,21 +180,21 @@
 2 Snow-Covered Island
 3 Snow-Covered Island
 3 Hallowed Fountain
+1 Polluted Delta
 1 Sunken Ruins
 1 Faerie Macabre
 1 Generous Gift
 1 Failure/Comply
-1 Polluted Delta
 1 Adarkar Wastes
+2 Polluted Delta
 2 Faerie Macabre
 2 Adarkar Wastes
 2 Generous Gift
 2 Imposing Vantasaur
 2 Failure/Comply
-2 Polluted Delta
+3 Seachrome Coast
 3 Polluted Delta
 3 Adarkar Wastes
-3 Seachrome Coast
 3 Imposing Vantasaur
 4 Seachrome Coast
 4 Imposing Vantasaur
@@ -212,6 +212,6 @@
 2 Glacial Fortress
 3 Glacial Fortress
 3 Cryptic Command
-4 Glacial Fortress
 7 Island
 8 Island
+4 Glacial Fortress

@@ -1,11 +1,11 @@
-1 Shineshadow Snarl
+1 Vanishing Verse
 2 Vanishing Verse
 2 Silverquill Silencer
 2 Humiliate
 2 Shineshadow Snarl
-3 Shineshadow Snarl
 3 Vanishing Verse
 3 Silverquill Silencer
+3 Shineshadow Snarl
 4 Swamp
 4 Shineshadow Snarl
 4 Silverquill Silencer
@@ -23,12 +23,12 @@
 3 Giant Killer
 4 Giant Killer
 1 Village Rites
-1 Malakir Rebirth
 1 Sedgemoor Witch
+1 Malakir Rebirth
 1 Elspeth, Sun's Nemesis
 1 Clarion Spirit
-1 Fabled Passage
 1 Shadrix Silverquill
+1 Fabled Passage
 1 Kabira Takedown
 2 Village Rites
 2 Sedgemoor Witch
@@ -44,22 +44,22 @@
 3 Village Rites
 4 Clarion Spirit
 4 Bloodchief's Thirst
-4 Village Rites
 4 Vanishing Verse
 4 Sedgemoor Witch
 4 Humiliate
+4 Village Rites
 1 Elite Spellbinder
-1 Usher of the Fallen
 1 Skyclave Apparition
 1 Luminous Broodmoth
-1 Baneslayer Angel
 1 Elspeth's Nightmare
-2 Usher of the Fallen
+1 Baneslayer Angel
+1 Usher of the Fallen
 2 Elite Spellbinder
-2 Skyclave Apparition
-2 Baneslayer Angel
-2 Elspeth's Nightmare
 2 Luminous Broodmoth
+2 Skyclave Apparition
+2 Elspeth's Nightmare
+2 Baneslayer Angel
+2 Usher of the Fallen
 3 Usher of the Fallen
 3 Elite Spellbinder
 3 Skyclave Apparition
@@ -69,18 +69,18 @@
 6 Swamp
 7 Plains
 8 Plains
+1 Faceless Haven
 1 Demonic Embrace
 1 Mire's Grasp
 1 Snowfield Sinkhole
-1 Emeria's Call
 1 Snow-Covered Swamp
+1 Emeria's Call
+1 Bloodsky Berserker
 1 Halvar, God of Battle
 1 Sentinel's Eyes
 1 Snow-Covered Plains
 1 Lurrus of the Dream-Den
-1 Faceless Haven
 1 Hateful Eidolon
-1 Bloodsky Berserker
 1 Nullpriest of Oblivion
 1 Legion Angel
 2 Snow-Covered Swamp
@@ -88,10 +88,10 @@
 2 Mire's Grasp
 2 Snow-Covered Plains
 2 Snowfield Sinkhole
+2 Bloodsky Berserker
 2 Halvar, God of Battle
 2 Sentinel's Eyes
 2 Lurrus of the Dream-Den
-2 Bloodsky Berserker
 2 Hateful Eidolon
 2 Nullpriest of Oblivion
 3 Snow-Covered Plains
@@ -107,6 +107,6 @@
 4 Snow-Covered Swamp
 4 Snowfield Sinkhole
 4 Demonic Embrace
-5 Snow-Covered Plains
 5 Snow-Covered Swamp
+5 Snow-Covered Plains
 4 Hateful Eidolon

@@ -39,9 +39,9 @@
 3 Dark Confidant
 4 Dark Confidant
 1 Kaya's Guile
+1 Damnation
 1 Elspeth, Sun's Nemesis
 1 Solemnity
-1 Damnation
 1 Disenchant
 3 Collective Brutality
 1 Sword of Fire and Ice
@@ -56,22 +56,22 @@
 2 Relic of Progenitus
 1 Pithing Needle
 1 Despark
-1 Mana Tithe
-1 Mirran Crusader
-2 Mirran Crusader
-2 Mana Tithe
 1 Elite Spellbinder
 1 Remorseful Cleric
 1 Ethersworn Canonist
 2 Remorseful Cleric
 1 Anguished Unmaking
 2 Wrath of God
+1 Mana Tithe
+1 Mirran Crusader
+2 Mirran Crusader
+2 Mana Tithe
 1 Blightbeetle
 1 Sword of Body and Mind
 2 Blightbeetle
 1 Ghost Quarter
-1 Revoke Existence
 1 Timely Reinforcements
+1 Revoke Existence
 1 Winds of Abandon
 2 Ghost Quarter
 2 Revoke Existence
@@ -79,25 +79,28 @@
 1 Burrenton Forge-Tender
 2 Burrenton Forge-Tender
 3 Burrenton Forge-Tender
+1 Kozilek, Butcher of Truth
+2 Bitterblossom
+3 Bitterblossom
+3 Surgical Extraction
 1 Spirit of the Labyrinth
 1 Skyclave Apparition
 1 Sword of Feast and Famine
 2 Spirit of the Labyrinth
 2 Skyclave Apparition
 3 Plague Engineer
+3 Ashiok, Dream Render
 1 Day of Judgment
 1 Aven Mindcensor
 1 Cleansing Nova
 2 Aven Mindcensor
-3 Relic of Progenitus
 3 Aven Mindcensor
-3 Ashiok, Dream Render
-1 Kozilek, Butcher of Truth
-2 Bitterblossom
-3 Bitterblossom
-3 Surgical Extraction
-3 Fatal Push
+3 Relic of Progenitus
 4 Rest in Peace
+1 Leyline of the Void
+2 Leyline of the Void
+3 Leyline of the Void
+4 Leyline of the Void
 1 Giant Killer
 1 Heliod's Intervention
 1 Deafening Silence
@@ -107,7 +110,4 @@
 2 Heliod's Intervention
 3 Deafening Silence
 4 Deafening Silence
-1 Leyline of the Void
-2 Leyline of the Void
-4 Leyline of the Void
-3 Leyline of the Void
+3 Fatal Push

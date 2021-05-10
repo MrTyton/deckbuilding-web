@@ -17,18 +17,18 @@
 2 Woe Strider
 2 Poison the Cup
 3 Cultivate
-3 Woodland Chasm
 3 Faceless Haven
+3 Woodland Chasm
 3 Blood on the Snow
 3 Solemn Simulacrum
 3 Mazemind Tome
 3 Woe Strider
 3 Duress
 4 Cultivate
+4 Blood on the Snow
 4 Woodland Chasm
 4 Solemn Simulacrum
 4 Mazemind Tome
-4 Blood on the Snow
 4 Faceless Haven
 4 Woe Strider
 4 Duress
@@ -44,45 +44,45 @@
 1 Branchloft Pathway
 2 Brightclimb Pathway
 2 Tangled Florahedron
+2 Mythos of Nethroi
 2 Scavenging Ooze
 2 Eliminate
 2 Bloodchief's Thirst
 2 Agonizing Remorse
 2 Sarulf, Realm Eater
-2 Mythos of Nethroi
 2 Indatha Triome
 2 Branchloft Pathway
 3 Eliminate
 3 Brightclimb Pathway
+3 Mythos of Nethroi
 3 Bloodchief's Thirst
 3 Branchloft Pathway
-3 Mythos of Nethroi
 3 Indatha Triome
 3 Agonizing Remorse
 4 Brightclimb Pathway
 4 Branchloft Pathway
 4 Indatha Triome
-1 Mogis's Favor
 1 Hateful Eidolon
 1 Mire's Grasp
 1 Aphemia, the Cacophony
 1 Dead Weight
 1 Setessan Champion
 1 Malakir Rebirth
-2 Mogis's Favor
+1 Mogis's Favor
 2 Hateful Eidolon
 2 Mire's Grasp
 2 Dead Weight
 2 Aphemia, the Cacophony
 2 Setessan Champion
+2 Mogis's Favor
 2 Malakir Rebirth
 2 Castle Locthwain
 3 Castle Locthwain
-3 Mogis's Favor
 3 Dead Weight
 3 Hateful Eidolon
 3 Mire's Grasp
 3 Malakir Rebirth
+3 Mogis's Favor
 3 Setessan Champion
 4 Hateful Eidolon
 4 Mire's Grasp
@@ -93,7 +93,6 @@
 4 Chevill, Bane of Monsters
 4 Malakir Rebirth
 1 Bala Ged Recovery
-1 Mortality Spear
 1 Crawling Barrens
 1 Crippling Fear
 1 Ugin, the Spirit Dragon
@@ -101,6 +100,7 @@
 1 Heartless Act
 1 Cling to Dust
 1 Llanowar Visionary
+1 Mortality Spear
 2 Bala Ged Recovery
 2 Llanowar Visionary
 2 Cling to Dust
@@ -117,22 +117,22 @@
 6 Forest
 7 Forest
 1 Hunt for Specimens
-1 Witherbloom Campus
 1 Sculptor of Winter
 1 Sarulf's Packmate
 1 Feed the Serpent
 1 Bookwurm
 1 Massacre Wurm
 1 Back for More
+1 Witherbloom Campus
 1 Skull Prophet
 1 Cram Session
 2 Hunt for Specimens
-2 Witherbloom Campus
 2 Sculptor of Winter
 2 Sarulf's Packmate
 2 Feed the Serpent
 2 Cram Session
 2 Skull Prophet
+2 Witherbloom Campus
 2 Back for More
 2 Bookwurm
 3 Hunt for Specimens

@@ -13,10 +13,10 @@
 2 Crawling Barrens
 15 Forest
 1 Kogla, the Titan Ape
+3 Old-Growth Troll
 1 Faceless Haven
 2 Faceless Haven
 4 The Great Henge
-3 Old-Growth Troll
 3 Crawling Barrens
 2 Primal Might
 2 Kogla, the Titan Ape
@@ -32,12 +32,12 @@
 2 Questing Beast
 16 Snow-Covered Forest
 3 Garruk's Harbinger
+1 Elder Gargaroth
 1 Toski, Bearer of Secrets
 2 Toski, Bearer of Secrets
 3 Questing Beast
 16 Forest
 17 Forest
-1 Elder Gargaroth
 3 Faceless Haven
 17 Snow-Covered Forest
 1 Ram Through
@@ -46,7 +46,6 @@
 1 Ilysian Caryatid
 18 Snow-Covered Forest
 18 Forest
-1 Turntimber Symbiosis
 1 Thrashing Brontodon
 1 Garruk's Uprising
 2 Elder Gargaroth
@@ -57,8 +56,8 @@
 1 Garruk, Unleashed
 20 Forest
 4 Ilysian Caryatid
-4 Trail of Crumbs
 2 Thrashing Brontodon
+1 Turntimber Symbiosis
 1 Scavenging Ooze
 1 Cragplate Baloth
 2 Cragplate Baloth
@@ -75,6 +74,7 @@
 2 Nessian Hornbeetle
 3 Nessian Hornbeetle
 3 Garruk, Unleashed
+4 Trail of Crumbs
 4 Primal Might
 2 Turntimber Symbiosis
 2 In Search of Greatness
@@ -84,11 +84,12 @@
 3 Cultivate
 3 Llanowar Visionary
 4 Llanowar Visionary
-1 Inscription of Abundance
 1 Blizzard Brawl
+1 Inscription of Abundance
 2 Blizzard Brawl
 1 Wolfwillow Haven
 2 Wolfwillow Haven
+3 Vorinclex, Monstrous Raider
 1 Shadowspear
 1 Nylea, Keen-Eyed
 1 Nyxbloom Ancient
@@ -104,27 +105,26 @@
 2 Battle Mammoth
 2 Gnarled Professor
 3 Gnarled Professor
-3 Vorinclex, Monstrous Raider
 1 Stonecoil Serpent
 1 Syr Faren, the Hengehammer
 2 Stonecoil Serpent
-2 Scavenging Ooze
 2 Syr Faren, the Hengehammer
+2 Scavenging Ooze
 3 Stonecoil Serpent
 3 Scavenging Ooze
 3 Syr Faren, the Hengehammer
 3 Gemrazer
 4 Stonecoil Serpent
 4 Gemrazer
-1 Bala Ged Recovery
 1 Beanstalk Giant
+1 Bala Ged Recovery
 1 Fierce Empath
-2 Ugin, the Spirit Dragon
-2 Bala Ged Recovery
-2 Fierce Empath
 2 Beanstalk Giant
-3 Ugin, the Spirit Dragon
+2 Bala Ged Recovery
+2 Ugin, the Spirit Dragon
+2 Fierce Empath
 3 Fierce Empath
+3 Ugin, the Spirit Dragon
 3 Kogla, the Titan Ape
 3 Beanstalk Giant
 4 Cultivate

@@ -86,22 +86,22 @@
 3 Skyclave Cleric
 4 Skyclave Cleric
 1 Phoenix of Ash
-1 Esika's Chariot
-1 Temple of Abandon
-1 Giant Killer
-1 Forest
 1 Cragcrown Pathway
-1 Temple of Plenty
+1 Forest
+1 Temple of Abandon
 1 Edgewall Innkeeper
+1 Esika's Chariot
+1 Giant Killer
+1 Temple of Plenty
 2 Cragcrown Pathway
 2 Forest
-2 Giant Killer
 2 Edgewall Innkeeper
-3 Cragcrown Pathway
-3 Branchloft Pathway
+2 Giant Killer
 3 Giant Killer
-4 Cragcrown Pathway
+3 Branchloft Pathway
+3 Cragcrown Pathway
 4 Branchloft Pathway
+4 Cragcrown Pathway
 1 Make Your Mark
 2 Phoenix of Ash
 1 Blightstep Pathway
@@ -117,6 +117,15 @@
 1 Victory's Envoy
 2 Crawling Barrens
 3 Crawling Barrens
+1 Lovestruck Beast
+1 Robber of the Rich
+1 Scavenging Ooze
+2 Lovestruck Beast
+2 Robber of the Rich
+2 Scavenging Ooze
+3 Edgewall Innkeeper
+3 Robber of the Rich
+4 Robber of the Rich
 1 Funeral Longboat
 1 Hall Monitor
 2 Funeral Longboat
@@ -126,15 +135,6 @@
 4 Funeral Longboat
 1 Lavabrink Venturer
 4 Temple of Triumph
-1 Scavenging Ooze
-1 Robber of the Rich
-1 Lovestruck Beast
-2 Robber of the Rich
-2 Scavenging Ooze
-2 Lovestruck Beast
-3 Robber of the Rich
-3 Edgewall Innkeeper
-4 Robber of the Rich
 1 Strict Proctor
 1 Battlefield Raptor
 2 Battlefield Raptor
@@ -145,10 +145,10 @@
 1 Magda, Brazen Outlaw
 1 Gallia of the Endless Dance
 1 Jaspera Sentinel
-2 Esika's Chariot
 2 Jaspera Sentinel
-2 Magda, Brazen Outlaw
 2 Gallia of the Endless Dance
+2 Magda, Brazen Outlaw
+2 Esika's Chariot
 3 Jaspera Sentinel
 4 Giant Killer
 4 Jaspera Sentinel

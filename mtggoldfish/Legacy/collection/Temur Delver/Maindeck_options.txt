@@ -1,10 +1,10 @@
-3 Stifle
-2 Brazen Borrower
 1 Bonecrusher Giant
+2 Preordain
+2 Brazen Borrower
+3 Stifle
+1 Wooded Foothills
 3 Misty Rainforest
 1 Expressive Iteration
-2 Preordain
-1 Wooded Foothills
 1 Young Pyromancer
 2 Young Pyromancer
 4 Misty Rainforest
@@ -21,7 +21,7 @@
 1 Mountain
 2 Expressive Iteration
 4 Young Pyromancer
-1 Chain Lightning
+2 Wooded Foothills
 3 Expressive Iteration
 3 Ethereal Forager
 2 Snow-Covered Island
@@ -29,9 +29,9 @@
 2 Sylvan Library
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
-2 Wooded Foothills
 2 Island
 4 Sprite Dragon
+1 Chain Lightning
 1 Snow-Covered Forest
 3 Preordain
 1 Snow-Covered Mountain
@@ -44,7 +44,7 @@
 3 Elvish Reclaimer
 3 Flooded Strand
 1 Klothys, God of Destiny
-2 Chain Lightning
+1 Spell Snare
 1 Forest
 4 Elvish Reclaimer
 1 Mishra's Bauble
@@ -53,8 +53,9 @@
 3 Mishra's Bauble
 4 Mishra's Bauble
 1 Abrade
+1 Pyroblast
 2 Hooting Mandrills
-1 Spell Snare
+2 Chain Lightning
 1 Life from the Loam
 1 Flame Slash
 1 Bedlam Reveler
@@ -66,7 +67,6 @@
 3 Hexdrinker
 4 Flooded Strand
 1 Snapcaster Mage
-1 Pyroblast
 3 Bonecrusher Giant
 3 Polluted Delta
 4 Polluted Delta

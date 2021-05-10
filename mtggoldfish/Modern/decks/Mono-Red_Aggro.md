@@ -66,7 +66,7 @@
 |                    3|[Valakut Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491818)        |                     |                                                                                               |
 |                    3|[Forgotten Cave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376344)           |                     |                                                                                               |
 |                    4|[Radiant Fountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438810)         |                     |                                                                                               |
-|                    4|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)      |                     |                                                                                               |
 |                    4|[Forgotten Cave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376344)           |                     |                                                                                               |
 |                    4|[Valakut Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491818)        |                     |                                                                                               |
+|                    4|[Relic of Progenitus](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174824)      |                     |                                                                                               |
 

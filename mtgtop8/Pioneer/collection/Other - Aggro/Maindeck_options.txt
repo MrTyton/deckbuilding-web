@@ -11,8 +11,8 @@
 2 Collected Company
 3 Collected Company
 4 Collected Company
-1 Skyclave Apparition
 1 Voice of Resurgence
+1 Skyclave Apparition
 1 Temple Garden
 2 Temple Garden
 2 Skyclave Apparition
@@ -35,8 +35,8 @@
 1 Fortified Village
 1 Sunpetal Grove
 1 Forest
-2 Forest
 2 Sunpetal Grove
+2 Forest
 3 Sunpetal Grove
 3 Forest
 4 Elvish Mystic
@@ -53,10 +53,10 @@
 4 Skyclave Apparition
 1 The Great Henge
 2 The Great Henge
+1 Yasharn, Implacable Earth
+1 Tireless Tracker
 1 Archon of Emeria
 1 Elite Spellbinder
-1 Tireless Tracker
-1 Yasharn, Implacable Earth
 2 Yasharn, Implacable Earth
 2 Elite Spellbinder
 2 Archon of Emeria
@@ -78,10 +78,10 @@
 3 Codespell Cleric
 4 Codespell Cleric
 4 Llanowar Elves
-1 Hinterland Harbor
 1 Bonecrusher Giant
 1 Breeding Pool
 1 Stomping Ground
+1 Hinterland Harbor
 2 Hinterland Harbor
 2 Bonecrusher Giant
 2 Stomping Ground
@@ -96,20 +96,20 @@
 2 Lightning Strike
 3 Lightning Strike
 1 Bonders' Enclave
-1 Vivien, Arkbow Ranger
 1 Embercleave
-1 Nimble Obstructionist
 1 Stubborn Denial
+1 Nimble Obstructionist
 1 Boon Satyr
 1 Klothys, God of Destiny
 1 Shivan Reef
 1 Scavenger Grounds
+1 Vivien, Arkbow Ranger
 1 Cragcrown Pathway
 1 Reduce / Rubble
 2 Shivan Reef
-2 Vivien, Arkbow Ranger
 2 Nimble Obstructionist
 2 Boon Satyr
+2 Vivien, Arkbow Ranger
 2 Reduce / Rubble
 2 Klothys, God of Destiny
 2 Cragcrown Pathway
@@ -129,17 +129,17 @@
 2 Glorybringer
 1 Swamp
 1 Isolated Chapel
-1 Savai Triome
 1 Sorin, Solemn Visitor
 1 Shambling Vent
 1 Elspeth, Sun's Champion
 1 Blood Crypt
 1 Valki, God of Lies
 1 Magmatic Channeler
-1 Gideon, Ally of Zendikar
 1 Utter End
-1 Sacred Foundry
+1 Savai Triome
+1 Gideon, Ally of Zendikar
 1 History of Benalia
+1 Sacred Foundry
 1 Dreadbore
 1 Crackling Doom
 1 Seraph of the Scales
@@ -147,11 +147,11 @@
 1 Needle Spires
 1 Heartless Act
 1 Dragonskull Summit
-2 Savai Triome
 2 Isolated Chapel
 2 Shambling Vent
 2 Blood Crypt
 2 Magmatic Channeler
+2 Savai Triome
 2 Gideon, Ally of Zendikar
 2 History of Benalia
 2 Sacred Foundry
@@ -219,6 +219,7 @@
 1 Edgewall Innkeeper
 1 Brazen Borrower
 2 Nissa, Who Shakes the World
+2 Ketria Triome
 2 Alrund's Epiphany
 2 Rootbound Crag
 2 Hydroid Krasis
@@ -226,7 +227,6 @@
 2 Steam Vents
 2 Brazen Borrower
 2 Edgewall Innkeeper
-2 Ketria Triome
 3 Nissa, Who Shakes the World
 3 Alrund's Epiphany
 3 Rootbound Crag
@@ -241,17 +241,17 @@
 4 Edgewall Innkeeper
 4 Steam Vents
 4 Brazen Borrower
-1 Knight of Autumn
 1 Rhonas the Indomitable
 1 Temple of Plenty
+1 Knight of Autumn
 1 Archangel Avacyn
-1 Dromoka's Command
 1 Steel Leaf Champion
+1 Dromoka's Command
 2 Rhonas the Indomitable
 2 Temple of Plenty
-2 Dromoka's Command
-2 Steel Leaf Champion
 2 Knight of Autumn
+2 Steel Leaf Champion
+2 Dromoka's Command
 3 Steel Leaf Champion
 3 Knight of Autumn
 4 Steel Leaf Champion

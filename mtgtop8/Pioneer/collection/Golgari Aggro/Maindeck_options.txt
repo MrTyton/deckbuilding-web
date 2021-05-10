@@ -7,10 +7,10 @@
 1 Elvish Clancaller
 1 Realmwalker
 1 Fiend Artisan
-1 Zagoth Triome
 1 Elvish Warmaster
 1 Harald Unites the Elves
 1 Shaman of the Pack
+1 Zagoth Triome
 1 Gnarlroot Trapper
 1 Marwyn, the Nurturer
 1 Nykthos, Shrine to Nyx
@@ -37,29 +37,29 @@
 4 Elvish Warmaster
 1 Vraska's Contempt
 1 Languish
+1 Heartless Act
 1 Hissing Quagmire
 1 Elder Gargaroth
 1 Massacre Wurm
+1 Courser of Kruphix
+1 Tireless Tracker
 1 Liliana, the Last Hope
 1 Kalitas, Traitor of Ghet
-1 Tireless Tracker
-1 Heartless Act
 1 Nissa, Who Shakes the World
 1 Urborg, Tomb of Yawgmoth
 1 Seasons Past
-1 Courser of Kruphix
 2 Hissing Quagmire
+2 Vraska, Golgari Queen
+2 Tireless Tracker
 2 Elder Gargaroth
 2 Kalitas, Traitor of Ghet
 2 Liliana, the Last Hope
-2 Tireless Tracker
 2 Languish
-2 Vraska, Golgari Queen
 2 Nissa, Who Shakes the World
 2 Vorinclex, Monstrous Raider
 3 Abrupt Decay
-3 Thoughtseize
 3 Tireless Tracker
+3 Thoughtseize
 3 Fabled Passage
 3 Nissa, Who Shakes the World
 4 Abrupt Decay
@@ -67,10 +67,12 @@
 4 Thoughtseize
 1 Plaguecrafter
 1 Vivien Reid
+1 Binding the Old Gods
 1 Golgari Findbroker
 1 Blast Zone
 1 Ashiok, Dream Render
 1 Assassin's Trophy
+1 Castle Locthwain
 1 Shadowspear
 1 Sarulf, Realm Eater
 1 Kraul Harpooner
@@ -80,9 +82,7 @@
 1 Seekers' Squire
 1 Field of Ruin
 1 Find / Finality
-1 Binding the Old Gods
 1 Jadelight Ranger
-1 Castle Locthwain
 2 Binding the Old Gods
 2 Assassin's Trophy
 2 Murderous Rider
@@ -123,23 +123,23 @@
 4 Bolas's Citadel
 4 Zulaport Cutthroat
 4 Blisterpod
+1 Stomping Ground
 1 Blightstep Pathway
 1 Ghalta, Primal Hunger
 1 Arboreal Grazer
 1 Heart of Kiran
 1 Cragcrown Pathway
 1 Hazoret the Fervent
-1 Stomping Ground
+2 Stomping Ground
 2 Hazoret the Fervent
-2 Arboreal Grazer
 2 Ghalta, Primal Hunger
+2 Arboreal Grazer
 2 Heart of Kiran
 2 Rhonas the Indomitable
 2 Blightstep Pathway
-2 Stomping Ground
 2 Cragcrown Pathway
-3 Stomping Ground
 3 Rhonas the Indomitable
+3 Stomping Ground
 3 Cragcrown Pathway
 3 Ghalta, Primal Hunger
 3 Hazoret the Fervent
@@ -150,8 +150,8 @@
 4 Rhonas the Indomitable
 1 The Great Henge
 1 Garruk's Uprising
-1 Golgari Charm
 1 Questing Beast
+1 Golgari Charm
 1 Charnel Troll
 1 Old-Growth Troll
 1 Yorvo, Lord of Garenbrig
