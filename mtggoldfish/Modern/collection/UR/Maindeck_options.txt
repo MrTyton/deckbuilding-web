@@ -1,57 +1,69 @@
-1 Force of Negation
-3 Through the Breach
-3 Emrakul, the Aeons Torn
-4 Emrakul, the Aeons Torn
-4 Through the Breach
-1 Ral, Izzet Viceroy
-1 Abrade
-7 Island
+2 Mana Leak
+3 Spirebluff Canal
 2 Force of Negation
-4 Spirebluff Canal
-3 Steam Vents
+7 Island
+1 Flame Slash
+2 Spell Snare
+4 Cascade Bluffs
+1 Sulfur Falls
 1 Flooded Strand
 2 Flooded Strand
-1 Sulfur Falls
-1 Flusterstorm
-1 Wandering Fumarole
+3 Prismari Command
 1 Raugrin Triome
+3 Steam Vents
 3 Flooded Strand
+1 Abrade
+1 Ral, Izzet Viceroy
+1 Temple of Epiphany
+3 Valakut Awakening
+1 Polluted Delta
+2 Polluted Delta
+4 Spirebluff Canal
 1 Reflecting Pool
 1 Kiki-Jiki, Mirror Breaker
-2 Kiki-Jiki, Mirror Breaker
-2 Reflecting Pool
-3 Prismari Command
-1 Deceiver Exarch
-2 Deceiver Exarch
-4 Flooded Strand
-1 Blood Moon
-2 Blood Moon
-1 Jace, the Mind Sculptor
-8 Island
-1 Crackling Drake
 1 Sacred Foundry
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
-1 Polluted Delta
-2 Polluted Delta
-1 Magmatic Sinkhole
-1 Temple of Epiphany
-3 Valakut Awakening
-1 Minamo, School at Water's Edge
-3 Deceiver Exarch
+4 Flooded Strand
+1 Blood Moon
+2 Blood Moon
+1 Serum Visions
+1 Jace, the Mind Sculptor
+2 Kiki-Jiki, Mirror Breaker
+1 Flusterstorm
+1 Wandering Fumarole
+2 Temple of Epiphany
+8 Island
+2 Reflecting Pool
+2 Serum Visions
+3 Serum Visions
+4 Serum Visions
 3 Polluted Delta
-2 Jace, the Mind Sculptor
-3 Mana Leak
+1 Deceiver Exarch
+2 Deceiver Exarch
 2 Sulfur Falls
+1 Snow-Covered Island
+2 Snow-Covered Island
+3 Snow-Covered Island
+4 Snow-Covered Island
+5 Snow-Covered Island
 1 Hallowed Fountain
+1 Magmatic Sinkhole
+4 Prismari Command
 2 Mountain
 1 Indomitable Creativity
 1 Dwarven Mine
 1 Arid Mesa
 2 Arid Mesa
-4 Prismari Command
-1 Serum Visions
+1 Castle Vantress
+1 Snow-Covered Mountain
+1 Torrential Gearhulk
+1 Misty Rainforest
+1 Breeding Pool
+2 Misty Rainforest
+3 Misty Rainforest
+4 Misty Rainforest
 3 Arid Mesa
 1 Wooded Foothills
 2 Dwarven Mine
@@ -61,32 +73,24 @@
 3 Indomitable Creativity
 4 Indomitable Creativity
 1 Plains
-2 Crackling Drake
-1 Snow-Covered Island
-2 Snow-Covered Island
-3 Snow-Covered Island
-4 Snow-Covered Island
-5 Snow-Covered Island
-2 Serum Visions
-3 Serum Visions
-4 Serum Visions
 6 Snow-Covered Island
-1 Jwari Disruption
 1 Lotus Field
 1 Tolaria West
 1 Lonely Sandbar
-1 Dream's Grip
+1 Past in Flames
 1 Twiddle
+1 Sleight of Hand
 1 Ideas Unbound
 1 Psychic Puppetry
 1 Reach Through Mists
 1 Merchant Scroll
-1 Sleight of Hand
+1 Jwari Disruption
 1 Grapeshot
-1 Past in Flames
 1 Echoing Truth
 1 Peer Through Depths
+1 Dream's Grip
 2 Sleight of Hand
+2 Tolaria West
 2 Lotus Field
 2 Dream's Grip
 2 Psychic Puppetry
@@ -94,7 +98,6 @@
 2 Merchant Scroll
 2 Ideas Unbound
 2 Lonely Sandbar
-2 Tolaria West
 2 Peer Through Depths
 2 Past in Flames
 2 Twiddle
@@ -115,26 +118,29 @@
 4 Ideas Unbound
 4 Reach Through Mists
 4 Peer Through Depths
-9 Island
-2 Temple of Epiphany
 7 Snow-Covered Island
 8 Snow-Covered Island
+1 Crackling Drake
+2 Crackling Drake
+2 Jace, the Mind Sculptor
+3 Deceiver Exarch
+1 Stomping Ground
+1 Seasoned Pyromancer
 4 Teferi, Time Raveler
-1 Lightning Helix
-1 Castle Vantress
-1 Snow-Covered Mountain
+3 Mana Leak
 1 Magma Opus
-1 Torrential Gearhulk
+1 Spell Pierce
+1 Lightning Helix
 1 Teferi, Hero of Dominaria
 2 Sacred Foundry
 4 Arid Mesa
-4 Dwarven Mine
 2 Raugrin Triome
+4 Dwarven Mine
+2 Seasoned Pyromancer
 1 Desolate Lighthouse
 1 Polymorph
 1 Farseek
 1 Timely Reinforcements
-1 Stomping Ground
 2 Stomping Ground
 2 Polymorph
 2 Farseek
@@ -149,36 +155,53 @@
 4 Timely Reinforcements
 3 Blood Moon
 4 Polluted Delta
-1 Ephemerate
-1 Seasoned Pyromancer
-1 Skyclave Apparition
+9 Island
+3 Force of Negation
+1 Tarmogoyf
+1 Flooded Grove
+1 Huntmaster of the Fells
+1 Eternal Witness
+1 Aether Vial
+1 Forest
+2 Tarmogoyf
+2 Eternal Witness
+2 Aether Vial
+2 Flooded Grove
+3 Tarmogoyf
+3 Flooded Grove
+3 Aether Vial
+4 Tarmogoyf
+4 Aether Vial
+1 Ketria Triome
 1 Wall of Omens
+1 Ephemerate
+1 Skyclave Apparition
 1 Restoration Angel
-2 Ephemerate
-2 Wall of Omens
 2 Plains
+2 Wall of Omens
+2 Ephemerate
 2 Skyclave Apparition
 2 Restoration Angel
-3 Ephemerate
-3 Wall of Omens
 3 Skyclave Apparition
+3 Wall of Omens
+3 Ephemerate
 3 Restoration Angel
-4 Skyclave Apparition
 4 Restoration Angel
 4 Wall of Omens
+4 Skyclave Apparition
+1 Minamo, School at Water's Edge
 1 Fiery Islet
 1 Nahiri, the Harbinger
-1 Spell Pierce
-1 Misty Rainforest
-1 Behold the Multiverse
+3 Reflecting Pool
+4 Cryptic Command
 1 Logic Knot
 2 Magma Opus
 2 Torrential Gearhulk
 3 Torrential Gearhulk
-3 Reflecting Pool
-4 Cryptic Command
 1 Bloodstained Mire
 2 Bloodstained Mire
+1 Snow-Covered Forest
+1 Anger of the Gods
 1 Fact or Fiction
 1 Galazeth Prismari
 1 Izzet Charm
@@ -193,44 +216,42 @@
 1 Venser, Shaper Savant
 2 Hallowed Fountain
 2 Venser, Shaper Savant
-2 Behold the Multiverse
-2 Magmatic Sinkhole
-2 Seasoned Pyromancer
-3 Seasoned Pyromancer
-1 Volatile Fjord
-1 Graven Lore
+1 Omen of the Sea
+2 Omen of the Sea
+2 Castle Vantress
+3 Omen of the Sea
+1 Behold the Multiverse
 1 Field of Ruin
-1 Frost Bite
+1 Graven Lore
+1 Volatile Fjord
 1 Negate
+1 Frost Bite
 2 Field of Ruin
 3 Magma Opus
-3 Force of Negation
-1 Fatal Push
-1 Terminate
-1 Blood Crypt
-2 Blood Crypt
-2 Terminate
-2 Fatal Push
-3 Bloodstained Mire
-3 Terminate
-3 Fatal Push
-4 Fatal Push
-4 Bloodstained Mire
+1 Vapor Snag
+2 Huntmaster of the Fells
+3 Eternal Witness
 2 Lightning Helix
 3 Lightning Helix
 4 Lightning Helix
 1 Oboro, Palace in the Clouds
 2 Minamo, School at Water's Edge
-3 Spell Snare
 3 Kiki-Jiki, Mirror Breaker
+3 Spell Snare
 4 Deceiver Exarch
-1 Ketria Triome
-1 Snow-Covered Forest
-1 Breeding Pool
-2 Misty Rainforest
-3 Misty Rainforest
-4 Misty Rainforest
+1 Terminate
+1 Blood Crypt
+1 Fatal Push
+2 Fatal Push
+2 Blood Crypt
+2 Terminate
+3 Bloodstained Mire
+3 Terminate
+3 Fatal Push
+4 Bloodstained Mire
+4 Fatal Push
 3 Temple of Epiphany
-4 Valakut Awakening
-4 Temple of Epiphany
 4 Reflecting Pool
+4 Temple of Epiphany
+4 Valakut Awakening
+3 Seasoned Pyromancer

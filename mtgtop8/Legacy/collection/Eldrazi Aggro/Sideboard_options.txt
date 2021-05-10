@@ -2,6 +2,7 @@
 2 Oblivion Ring
 1 Karakas
 1 Trinisphere
+1 Umezawa's Jitte
 3 Oblivion Ring
 1 Ensnaring Bridge
 1 Tormod's Crypt
@@ -15,7 +16,6 @@
 1 Faerie Macabre
 1 Dead / Gone
 1 Pyroblast
-1 Umezawa's Jitte
 1 Golos, Tireless Pilgrim
 1 Forsaken Monument
 1 Skysovereign, Consul Flagship
@@ -27,9 +27,9 @@
 2 Null Rod
 1 Spatial Contortion
 2 Spatial Contortion
-1 Magmatic Sinkhole
 1 Phyrexian Revoker
 1 Roiling Vortex
+1 Magmatic Sinkhole
 1 Sulfur Elemental
 1 Red Elemental Blast
 1 Tumble Magnet
@@ -48,6 +48,11 @@
 2 Dead / Gone
 2 Pyroblast
 3 Dead / Gone
+2 Ensnaring Bridge
+3 Ensnaring Bridge
+3 Trinisphere
+4 Ensnaring Bridge
+4 Sorcerous Spyglass
 1 Archon of Emeria
 1 Spirit of the Labyrinth
 1 Karn, Scion of Urza
@@ -56,8 +61,3 @@
 2 Swords to Plowshares
 3 Swords to Plowshares
 4 Swords to Plowshares
-2 Ensnaring Bridge
-3 Ensnaring Bridge
-3 Trinisphere
-4 Ensnaring Bridge
-4 Sorcerous Spyglass

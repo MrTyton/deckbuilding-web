@@ -1,5 +1,5 @@
-3 Spreading Seas
 3 Skyclave Apparition
+3 Spreading Seas
 4 Spreading Seas
 1 Snow-Covered Forest
 1 Snow-Covered Island
@@ -59,10 +59,10 @@
 3 Scalding Tarn
 2 Botanical Sanctum
 3 Brazen Borrower
-1 Mana Confluence
 1 Glassdust Hulk
 4 Brazen Borrower
 4 Scalding Tarn
+1 Mana Confluence
 1 Inspiring Vantage
 2 Glassdust Hulk
 1 Snow-Covered Mountain
@@ -81,8 +81,8 @@
 1 Unearth
 2 Ephemerate
 3 Ephemerate
-1 Seasoned Pyromancer
 1 On Thin Ice
+1 Seasoned Pyromancer
 4 Skyclave Apparition
 2 Seal of Fire
 1 Plains
@@ -91,6 +91,7 @@
 1 Lithoform Blight
 1 As Foretold
 4 Living End
+1 Seachrome Coast
 1 Ice-Fang Coatl
 1 Ketria Triome
 2 Temple Garden
@@ -102,9 +103,9 @@
 2 As Foretold
 3 As Foretold
 4 As Foretold
-1 Seachrome Coast
 3 Island
 3 Forest
+3 Spirebluff Canal
 2 Steam Vents
 3 Steam Vents
 1 Electrodominance
@@ -117,7 +118,6 @@
 2 Remand
 2 Crashing Footfalls
 3 Remand
-3 Spirebluff Canal
 3 Electrodominance
 3 Crashing Footfalls
 4 Remand
@@ -132,11 +132,11 @@
 3 Glassdust Hulk
 1 Calix, Destiny's Hand
 1 Indatha Triome
-2 Uro, Titan of Nature's Wrath
 2 Lithoform Blight
+2 Uro, Titan of Nature's Wrath
 3 Lithoform Blight
-4 Birds of Paradise
 4 Lithoform Blight
+4 Birds of Paradise
 1 Path to the World Tree
 2 Path to the World Tree
 1 Cryptic Command
@@ -158,12 +158,12 @@
 1 Imposing Vantasaur
 2 Seachrome Coast
 1 Zagoth Triome
-1 Cosima, God of the Voyage
-1 Archon of Emeria
 1 Reidane, God of the Worthy
 1 Omen of the Dead
-1 Heliod, Sun-Crowned
 1 Spike Feeder
+1 Heliod, Sun-Crowned
+1 Archon of Emeria
+1 Cosima, God of the Voyage
 1 Gilded Goose
 2 Gilded Goose
 2 Trial of Ambition
@@ -172,6 +172,7 @@
 3 Omen of the Forge
 4 Omen of the Forge
 1 Vendilion Clique
+1 Gemstone Mine
 1 Gemstone Caverns
 2 Gemstone Caverns
 1 Valakut Awakening
@@ -181,10 +182,10 @@
 3 Snow-Covered Island
 3 Hallowed Fountain
 1 Polluted Delta
-1 Sunken Ruins
 1 Faerie Macabre
 1 Generous Gift
 1 Failure/Comply
+1 Sunken Ruins
 1 Adarkar Wastes
 2 Polluted Delta
 2 Faerie Macabre

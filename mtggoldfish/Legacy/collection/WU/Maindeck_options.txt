@@ -1,73 +1,101 @@
-2 Teferi, Time Raveler
-3 Sylvan Library
-1 Island
-1 Jace, the Mind Sculptor
-2 Island
-1 Snapcaster Mage
-2 Force of Negation
 1 Polluted Delta
-1 Prismatic Vista
 1 True-Name Nemesis
 2 True-Name Nemesis
-2 Jace, the Mind Sculptor
+1 Snapcaster Mage
 1 Plains
+2 Island
+2 Jace, the Mind Sculptor
+1 Savannah
+2 Sylvan Library
+1 Windswept Heath
+1 Prismatic Vista
+1 Skyclave Apparition
+3 Sylvan Library
 2 Prismatic Vista
+2 Plains
+2 Snapcaster Mage
+1 Spell Pierce
+1 Scalding Tarn
+1 Brazen Borrower
+2 Snow-Covered Island
+1 Preordain
+2 Spell Pierce
 2 Skyclave Apparition
 2 Windswept Heath
-1 Spell Pierce
-2 Snapcaster Mage
-2 Plains
-1 Birds of Paradise
-2 Spell Pierce
-2 Snow-Covered Island
 3 Island
 4 Island
-1 Preordain
 3 Prismatic Vista
-1 Brazen Borrower
-1 Scalding Tarn
 3 Snapcaster Mage
 2 Polluted Delta
+1 Birds of Paradise
 2 Preordain
-3 Snow-Covered Island
-1 Narset, Parter of Veils
-4 Prismatic Vista
-1 Vendilion Clique
 1 Volcanic Island
 4 Wasteland
+3 Snow-Covered Island
+1 Narset, Parter of Veils
+1 Delver of Secrets
+2 Delver of Secrets
+3 Delver of Secrets
+4 Delver of Secrets
+1 Vendilion Clique
+4 Prismatic Vista
 5 Island
 1 Sword of Feast and Famine
 2 Vendilion Clique
 3 Preordain
 1 Hullbreacher
 1 Sword of Fire and Ice
-1 Delver of Secrets
-2 Delver of Secrets
-3 Delver of Secrets
-4 Delver of Secrets
 2 Scalding Tarn
 2 Narset, Parter of Veils
 1 Venser, Shaper Savant
 1 Jace, Vryn's Prodigy
+3 Tundra
 3 True-Name Nemesis
+2 Volcanic Island
 2 Snow-Covered Plains
 4 Snow-Covered Island
 1 Council's Judgment
 3 Tropical Island
 4 Preordain
-3 Tundra
 1 Mystic Sanctuary
 3 Scalding Tarn
 1 Monastery Mentor
 2 Monastery Mentor
 1 Ethereal Forager
 2 Ethereal Forager
-2 Volcanic Island
+1 Lightning Bolt
+2 Lightning Bolt
 1 Supreme Verdict
-1 Shark Typhoon
+1 Arid Mesa
 1 Spell Snare
+1 Shark Typhoon
 1 Back to Basics
+3 Polluted Delta
 1 Underground Sea
+1 Stifle
+1 Torpor Orb
+1 Phyrexian Dreadnought
+2 Stifle
+2 Torpor Orb
+2 Phyrexian Dreadnought
+3 Stifle
+3 Phyrexian Dreadnought
+4 Stifle
+4 Phyrexian Dreadnought
+3 Lightning Bolt
+3 Volcanic Island
+4 Lightning Bolt
+2 Hullbreacher
+3 Snow-Covered Plains
+1 Counterspell
+1 Baleful Strix
+1 Thoughtseize
+1 Scrubland
+2 Baleful Strix
+2 Thoughtseize
+3 Thoughtseize
+4 Polluted Delta
+1 Forest
 1 Swamp
 2 Underground Sea
 1 Paradigm Shift
@@ -92,48 +120,18 @@
 4 Paradigm Shift
 4 Thought Lash
 4 Lotus Petal
-3 Polluted Delta
-1 Stifle
-1 Torpor Orb
-1 Phyrexian Dreadnought
-2 Stifle
-2 Torpor Orb
-2 Phyrexian Dreadnought
-3 Stifle
-3 Phyrexian Dreadnought
-4 Stifle
-4 Phyrexian Dreadnought
-1 Forest
-1 Veil of Summer
-1 Waterlogged Grove
-2 Veil of Summer
-3 Veil of Summer
-2 Hullbreacher
-1 Arid Mesa
-3 Snow-Covered Plains
-1 Counterspell
-1 Lightning Bolt
-2 Lightning Bolt
-1 Scrubland
-1 Baleful Strix
-1 Thoughtseize
-2 Baleful Strix
-2 Thoughtseize
-3 Thoughtseize
-4 Polluted Delta
-1 Impulse
-2 Impulse
 1 Sevinne's Reclamation
 1 Creeping Tar Pit
 1 Marsh Flats
 1 Cling to Dust
-1 Kaya, Orzhov Usurper
 1 Inquisition of Kozilek
+1 Kaya, Orzhov Usurper
 1 Snow-Covered Swamp
 1 Diabolic Edict
 1 Palace Jailer
 1 Liliana, the Last Hope
 1 Dovin's Veto
+2 Brazen Borrower
 2 Karakas
 2 Venser, Shaper Savant
 1 Mountain
@@ -147,12 +145,13 @@
 1 Path to Exile
 2 Renegade Rallier
 2 Tarmogoyf
+3 Spell Pierce
+1 Veil of Summer
+1 Waterlogged Grove
+2 Veil of Summer
+3 Veil of Summer
 1 Snow-Covered Mountain
 4 Scalding Tarn
-3 Lightning Bolt
-3 Volcanic Island
-3 Spell Pierce
-4 Lightning Bolt
 1 Of One Mind
 1 Clarion Spirit
 2 Of One Mind
@@ -163,8 +162,8 @@
 1 Tireless Tracker
 1 Ice-Fang Coatl
 1 Karn, the Great Creator
-2 Verdant Catacombs
 2 Snow-Covered Forest
+2 Verdant Catacombs
 2 Karn, the Great Creator
 2 Back to Basics
 2 Ice-Fang Coatl
@@ -172,9 +171,11 @@
 3 Ice-Fang Coatl
 4 Ice-Fang Coatl
 1 Chalice of the Void
+1 Impulse
 1 Laboratory Maniac
 1 Muddle the Mixture
 2 Chalice of the Void
+2 Impulse
 3 Chalice of the Void
 3 Teferi, Time Raveler
 3 Shelldock Isle

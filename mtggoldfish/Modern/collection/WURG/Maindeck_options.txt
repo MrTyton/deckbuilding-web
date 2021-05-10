@@ -1,19 +1,19 @@
+1 Flooded Strand
+2 Path to Exile
+4 Misty Rainforest
+1 Verdant Catacombs
+1 Gilded Goose
+1 Sunbaked Canyon
+1 Snow-Covered Forest
+1 Scavenging Ooze
+1 Lightning Helix
+2 Snow-Covered Forest
+2 Gilded Goose
+2 Lightning Helix
 3 Snow-Covered Forest
-3 Stoneforge Mystic
-3 Skyclave Apparition
-3 Seasoned Pyromancer
-3 Windswept Heath
-3 Utopia Sprawl
-4 Chord of Calling
-4 Wall of Blossoms
-4 Birds of Paradise
-4 Stoneforge Mystic
-4 Skyclave Apparition
-4 Seasoned Pyromancer
-4 Utopia Sprawl
-4 Windswept Heath
-1 Wrenn and Six
+3 Gilded Goose
 4 Restoration Angel
+1 Wrenn and Six
 2 Omnath, Locus of Creation
 2 Eternal Witness
 1 Inspiring Vantage
@@ -21,15 +21,15 @@
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 1 Ketria Triome
-1 Time Warp
 1 Steam Vents
 1 Savor the Moment
+1 Time Warp
 2 Wrenn and Six
-2 Time Warp
 2 Savor the Moment
+2 Time Warp
 3 Wrenn and Six
-3 Time Warp
 3 Savor the Moment
+3 Time Warp
 4 Wrenn and Six
 4 Time Warp
 4 Savor the Moment
@@ -37,9 +37,9 @@
 1 Scalding Tarn
 1 Dwarven Mine
 2 Steam Vents
+2 Velomachus Lorehold
 2 Scalding Tarn
 2 Dwarven Mine
-2 Velomachus Lorehold
 3 Dwarven Mine
 3 Scalding Tarn
 4 Dwarven Mine
@@ -58,6 +58,7 @@
 1 Indomitable Creativity
 2 Indomitable Creativity
 3 Indomitable Creativity
+3 Arid Mesa
 1 Prismari Command
 1 Remand
 1 Snow-Covered Island
@@ -69,7 +70,7 @@
 4 Lightning Bolt
 4 Indomitable Creativity
 4 Remand
-3 Arid Mesa
+1 Mountain
 4 Arid Mesa
 1 Tamiyo, Collector of Tales
 1 Fires of Invention
@@ -81,7 +82,6 @@
 1 Omen of the Sea
 1 Valakut Awakening
 1 Transmogrify
-1 Mountain
 2 Omen of the Sea
 2 Valakut Awakening
 2 Sacred Foundry
@@ -108,29 +108,49 @@
 2 Farseek
 3 Farseek
 3 Explore
-4 Farseek
 4 Explore
+4 Farseek
 2 Fire-Lit Thicket
+1 Forest
 1 Shark Typhoon
 2 Shark Typhoon
 3 Shark Typhoon
 4 Shark Typhoon
+1 Nahiri, the Harbinger
+1 Emrakul, the Aeons Torn
+2 Nahiri, the Harbinger
+3 Nahiri, the Harbinger
+4 Nahiri, the Harbinger
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
-1 Emrakul, the Aeons Torn
-1 Nahiri, the Harbinger
-2 Nahiri, the Harbinger
-3 Nahiri, the Harbinger
-4 Nahiri, the Harbinger
+1 Ephemerate
+1 Wall of Omens
+1 Noble Hierarch
+1 Plains
+2 Plains
+2 Ephemerate
+2 Temple Garden
+2 Wall of Omens
+2 Forest
+2 Kiki-Jiki, Mirror Breaker
+3 Ephemerate
+3 Wall of Omens
+3 Forest
+3 Kiki-Jiki, Mirror Breaker
+3 Fire-Lit Thicket
+4 Ephemerate
+4 Wall of Omens
+4 Kiki-Jiki, Mirror Breaker
+4 Forest
+5 Forest
 4 Prismari Command
 1 Castle Vantress
 1 Sea Gate Restoration
 1 Island
 1 Tranquil Thicket
 1 Waterlogged Grove
-1 Forest
 2 Castle Vantress
 2 Tranquil Thicket
 2 Flooded Strand

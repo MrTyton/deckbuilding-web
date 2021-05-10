@@ -1,14 +1,14 @@
+2 Wolfwillow Haven
 2 Alrund's Epiphany
-2 Barkchannel Pathway
 2 Clearwater Pathway
 3 Clearwater Pathway
 3 Wolfwillow Haven
 3 Darkbore Pathway
 3 Barkchannel Pathway
 3 Forest
-4 Wolfwillow Haven
 4 Darkbore Pathway
 4 Barkchannel Pathway
+4 Wolfwillow Haven
 4 Binding the Old Gods
 4 Fatal Push
 1 Dig Through Time
@@ -18,7 +18,6 @@
 4 Fabled Passage
 2 Dig Through Time
 2 Courser of Kruphix
-2 Breeding Pool
 1 Yavimaya Coast
 2 Yavimaya Coast
 3 Yavimaya Coast
@@ -59,33 +58,34 @@
 4 Arboreal Grazer
 4 Vizier of Tumbling Sands
 4 Hidden Strings
-4 Shimmer of Possibility
 4 Thespian's Stage
 4 Sylvan Scrying
 4 Pore Over the Pages
+2 Breeding Pool
+4 Shimmer of Possibility
+3 Temple of Mystery
 1 Abrupt Decay
 1 Thoughtseize
 2 Thoughtseize
-1 Trial of Ambition
-2 Trial of Ambition
-3 Temple of Mystery
-1 Enter the Infinite
-1 Thassa's Oracle
-1 Dark Petition
-3 Dig Through Time
 1 Bala Ged Recovery
 2 Bala Ged Recovery
 3 Bala Ged Recovery
-1 Heartless Act
-2 Heartless Act
-4 Clearwater Pathway
+1 Trial of Ambition
+2 Trial of Ambition
 1 Baral, Chief of Compliance
 1 Mastermind's Acquisition
 1 Discontinuity
 1 Peer into the Abyss
 1 Fae of Wishes
-2 Discontinuity
 2 Fae of Wishes
+1 Enter the Infinite
+1 Thassa's Oracle
+1 Dark Petition
+3 Dig Through Time
+1 Heartless Act
+2 Heartless Act
+4 Clearwater Pathway
+2 Discontinuity
 1 Sheltered Thicket
 4 Temple of Mystery
 1 Drowned Catacomb
@@ -119,14 +119,16 @@
 3 Bring to Light
 4 Sylvan Caryatid
 4 Bring to Light
+3 Fae of Wishes
+4 Fae of Wishes
 4 Bala Ged Recovery
 1 Reality Smasher
 1 Llanowar Wastes
 1 Ifnir Deadlands
 1 Aether Hub
+1 Thought-Knot Seer
 1 Questing Beast
 1 Llanowar Elves
-1 Thought-Knot Seer
 1 Spatial Contortion
 1 Elvish Mystic
 2 Reality Smasher
@@ -134,18 +136,18 @@
 2 Ifnir Deadlands
 2 Questing Beast
 2 Aether Hub
+2 Thought-Knot Seer
 2 Elvish Mystic
 2 Spatial Contortion
-2 Thought-Knot Seer
 2 Llanowar Elves
 3 Reality Smasher
 3 Questing Beast
 3 Llanowar Wastes
 3 Spatial Contortion
 3 Aether Hub
+3 Thought-Knot Seer
 3 Llanowar Elves
 3 Elvish Mystic
-3 Thought-Knot Seer
 4 Reality Smasher
 4 Llanowar Wastes
 4 Questing Beast
@@ -153,18 +155,18 @@
 4 Elvish Mystic
 4 Llanowar Elves
 4 Aether Hub
+1 Geier Reach Sanitarium
+1 Drown in the Loch
 1 Brazen Borrower
 1 Silundi Vision
-1 Drown in the Loch
-1 Geier Reach Sanitarium
 1 Day's Undoing
 1 Hero's Downfall
 1 Kalitas, Traitor of Ghet
 1 Notion Thief
 2 Narset, Parter of Veils
-2 Brazen Borrower
 2 Drown in the Loch
 2 Day's Undoing
+2 Brazen Borrower
 3 Thoughtseize
 3 Narset, Parter of Veils
 4 Watery Grave

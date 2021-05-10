@@ -36,8 +36,8 @@
 1 Jace, the Mind Sculptor
 1 Force of Will
 2 Seat of the Synod
-2 Fiery Islet
 2 Emry, Lurker of the Loch
+2 Fiery Islet
 2 Force of Will
 3 Seat of the Synod
 3 Emry, Lurker of the Loch
@@ -59,12 +59,12 @@
 1 Wurmcoil Engine
 1 Mishra's Bauble
 1 Spellskite
+1 Witching Well
 1 Forest
 1 Tropical Island
 1 Uro, Titan of Nature's Wrath
 1 Veil of Summer
 1 Prismatic Vista
-1 Witching Well
 2 Prismatic Vista
 1 Chromatic Star
 1 Chandra, Heart of Fire
@@ -112,6 +112,7 @@
 1 Auriok Salvagers
 3 Red Elemental Blast
 3 Enlightened Tutor
+4 Bloodstained Mire
 1 Once Upon a Time
 1 Wasteland
 1 Magmatic Channeler
@@ -119,13 +120,12 @@
 2 Chromatic Star
 2 Wasteland
 2 Magmatic Channeler
-3 Magmatic Channeler
 3 Once Upon a Time
 3 Chromatic Star
 3 Wasteland
+3 Magmatic Channeler
 4 Once Upon a Time
 4 Chromatic Star
-4 Bloodstained Mire
 2 Seasoned Pyromancer
 4 Goblin Engineer
 11 Mountain

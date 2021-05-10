@@ -8,13 +8,13 @@
 3 Revoke Existence
 1 Abrade
 2 Abrade
-1 Kozilek's Return
-2 Kozilek's Return
 3 Abrade
+4 Rip Apart
 1 Surgical Extraction
 2 Surgical Extraction
 3 Surgical Extraction
-4 Rip Apart
+1 Kozilek's Return
+2 Kozilek's Return
 1 Shattering Spree
 2 Shattering Spree
 1 Grafdigger's Cage
@@ -23,6 +23,8 @@
 2 Smash to Smithereens
 3 Smash to Smithereens
 4 Smash to Smithereens
+4 Soul-Guide Lantern
+4 Abrade
 1 Wear/Tear
 1 Dragon's Claw
 2 Dragon's Claw
@@ -39,8 +41,6 @@
 2 Seasoned Pyromancer
 3 Grafdigger's Cage
 4 Surgical Extraction
-4 Soul-Guide Lantern
-4 Abrade
 1 Blood Moon
 2 Blood Moon
 3 Blood Moon

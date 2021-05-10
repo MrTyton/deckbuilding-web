@@ -1,6 +1,6 @@
 2 Field of the Dead
-4 Valakut Exploration
 1 Verdant Catacombs
+4 Valakut Exploration
 1 Horizon Canopy
 3 Elvish Reclaimer
 2 Windswept Heath
@@ -10,14 +10,16 @@
 1 Savannah
 3 Windswept Heath
 1 Temple Garden
-1 Flagstones of Trokair
 1 Swords to Plowshares
+1 Flagstones of Trokair
 2 Swords to Plowshares
 2 Flagstones of Trokair
 1 Waterlogged Grove
 1 Plains
 4 Windswept Heath
 1 Nurturing Peatland
+1 Lightning Bolt
+2 Lightning Bolt
 1 Plateau
 1 Manabond
 1 Enlightened Tutor
@@ -25,16 +27,14 @@
 1 Academy Ruins
 1 Engineered Explosives
 2 Engineered Explosives
-1 Lightning Bolt
-2 Lightning Bolt
 1 Sevinne's Reclamation
+1 Snow-Covered Forest
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 1 Primeval Titan
 1 Ketria Triome
 1 Growth Spiral
 1 Snow-Covered Island
-1 Snow-Covered Forest
 1 Cavern of Souls
 1 Riftstone Portal
 2 Misty Rainforest
@@ -49,18 +49,18 @@
 4 Growth Spiral
 4 Misty Rainforest
 4 Uro, Titan of Nature's Wrath
-1 Sylvan Safekeeper
 1 Titania, Protector of Argoth
+1 Sylvan Safekeeper
 1 Archon of Valor's Reach
+1 Birds of Paradise
 1 Scattered Groves
 1 Natural Order
+1 Knight of the Reliquary
 1 Knight of Autumn
 1 Dryad Arbor
 1 Orcish Lumberjack
-1 Birds of Paradise
 1 Scavenging Ooze
 1 Green Sun's Zenith
-1 Knight of the Reliquary
 1 Sejiri Steppe
 2 Savannah
 2 Titania, Protector of Argoth
@@ -78,8 +78,7 @@
 1 Savai Triome
 1 Snow-Covered Plains
 1 Bayou
+4 Rishadan Port
 1 Mulch
 2 Mulch
 3 Mulch
-4 Rishadan Port
-4 Dark Depths

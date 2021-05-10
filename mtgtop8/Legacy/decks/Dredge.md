@@ -40,8 +40,8 @@
 |                     |                                                                                        |                    1|[Elesh Norn, Grand Cenobite](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438584)|
 |                     |                                                                                        |                    1|[Firestorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4547)                   |
 |                     |                                                                                        |                    1|Wear / Tear                                                                                          |
-|                     |                                                                                        |                    2|[Firestorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4547)                   |
 |                     |                                                                                        |                    2|Wear / Tear                                                                                          |
+|                     |                                                                                        |                    2|[Firestorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4547)                   |
 |                     |                                                                                        |                    2|[Silent Gravestone](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439846)         |
 |                     |                                                                                        |                    3|[Firestorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4547)                   |
 
