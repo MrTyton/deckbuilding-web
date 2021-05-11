@@ -1,35 +1,35 @@
+1 Wall of Roots
+2 Chord of Calling
+3 Chord of Calling
+4 Chord of Calling
+1 Overgrown Tomb
 1 Blooming Marsh
-1 Gilded Goose
 1 Essence Warden
 1 Geralf's Messenger
 1 Nurturing Peatland
-1 Wall of Roots
 1 Cavalier of Night
 1 Urborg, Tomb of Yawgmoth
+1 Dryad Arbor
 1 Swamp
 1 Twilight Mire
 1 Khalni Garden
 1 Young Wolf
 1 Yawgmoth, Thran Physician
-1 Dryad Arbor
 2 Geralf's Messenger
 2 Overgrown Tomb
-2 Wall of Roots
-2 Chord of Calling
 2 Twilight Mire
 2 Blooming Marsh
+2 Wall of Roots
 2 Young Wolf
 2 Yawgmoth, Thran Physician
 3 Geralf's Messenger
 3 Wall of Roots
 3 Young Wolf
 3 Yawgmoth, Thran Physician
-3 Chord of Calling
 3 Twilight Mire
 3 Blooming Marsh
 4 Young Wolf
 4 Yawgmoth, Thran Physician
-4 Chord of Calling
 4 Twilight Mire
 4 Finale of Devastation
 3 Verdant Catacombs
@@ -37,20 +37,20 @@
 1 Ranger-Captain of Eos
 2 Plains
 1 Eternal Witness
+2 Gilded Goose
+1 Skyclave Apparition
 1 Pendelhaven
-1 Hapatra, Vizier of Poisons
 1 Zulaport Cutthroat
+1 Hapatra, Vizier of Poisons
 2 Nurturing Peatland
 4 Wall of Roots
-2 Gilded Goose
 1 Shalai, Voice of Plenty
 4 Horizon Canopy
 1 Spellskite
-1 Skyclave Apparition
-2 Ranger-Captain of Eos
 1 Misty Rainforest
-4 Geralf's Messenger
+2 Ranger-Captain of Eos
 3 Wooded Foothills
+4 Geralf's Messenger
 1 Mishra's Bauble
 2 Mishra's Bauble
 3 Mishra's Bauble
@@ -60,35 +60,80 @@
 3 Forest
 3 Noble Hierarch
 4 Noble Hierarch
-1 Prismatic Vista
-1 Kitchen Finks
 2 Skyclave Apparition
+1 Prismatic Vista
 1 Sacred Foundry
 1 Stomping Ground
 1 Magus of the Moon
+1 Raugrin Triome
+1 Utopia Sprawl
+1 Snow-Covered Mountain
+1 Snow-Covered Plains
+1 Teferi, Time Raveler
+1 Snow-Covered Forest
+1 Breeding Pool
+1 Scavenging Ooze
+2 Utopia Sprawl
+2 Misty Rainforest
+2 Teferi, Time Raveler
+2 Snow-Covered Forest
+3 Skyclave Apparition
+3 Snow-Covered Forest
+3 Utopia Sprawl
+3 Misty Rainforest
+3 Teferi, Time Raveler
+4 Utopia Sprawl
+1 Arid Mesa
+1 Seasoned Pyromancer
+1 Lightning Bolt
+2 Seasoned Pyromancer
+3 Seasoned Pyromancer
+4 Seasoned Pyromancer
+1 Kitchen Finks
+1 Grove of the Burnwillows
+1 Sunbaked Canyon
+1 Wall of Blossoms
+1 Inspiring Vantage
+1 Lightning Helix
+1 Eidolon of Rhetoric
+1 Omnath, Locus of Creation
+1 Restoration Angel
+1 Batterskull
+1 Sword of Fire and Ice
+1 Kiki-Jiki, Mirror Breaker
+1 Flooded Strand
+1 Stoneforge Mystic
+1 Path to Exile
+2 Wall of Blossoms
+2 Arid Mesa
+2 Lightning Helix
+2 Restoration Angel
+2 Sacred Foundry
+2 Path to Exile
+2 Stoneforge Mystic
+3 Restoration Angel
+3 Wall of Blossoms
+3 Stoneforge Mystic
+4 Wooded Foothills
+4 Restoration Angel
+4 Skyclave Apparition
+4 Wall of Blossoms
+4 Stoneforge Mystic
 1 Charming Prince
 1 Glasspool Mimic
 1 Ephemerate
 1 Renegade Rallier
-1 Raugrin Triome
-1 Utopia Sprawl
-1 Snow-Covered Mountain
 1 Meddling Mage
 1 Deputy of Detention
-1 Lurrus of the Dream-Den
 1 Fulminator Mage
+1 Lurrus of the Dream-Den
 1 Knight of Autumn
 1 Reflector Mage
-1 Snow-Covered Plains
-1 Teferi, Time Raveler
 1 Enigmatic Incarnation
-1 Breeding Pool
-1 Snow-Covered Forest
 1 Hallowed Fountain
 1 Unearth
 1 Spreading Seas
 1 Snow-Covered Island
-1 Scavenging Ooze
 1 Phantasmal Image
 1 Abundant Growth
 1 Seal of Fire
@@ -97,33 +142,23 @@
 1 Omen of the Forge
 2 Prismatic Vista
 2 Ephemerate
-2 Utopia Sprawl
 2 Omen of the Sea
-2 Teferi, Time Raveler
 2 Omen of the Forge
 2 Spreading Seas
 2 Renegade Rallier
 2 Abundant Growth
 2 Enigmatic Incarnation
-2 Misty Rainforest
-2 Snow-Covered Forest
-3 Skyclave Apparition
 3 Enigmatic Incarnation
 3 Abundant Growth
 3 Spreading Seas
-3 Snow-Covered Forest
 3 Ephemerate
 3 Prismatic Vista
-3 Utopia Sprawl
-3 Misty Rainforest
 3 Omen of the Sea
-3 Teferi, Time Raveler
 4 Enigmatic Incarnation
 4 Abundant Growth
 4 Spreading Seas
 4 Omen of the Sea
 4 Prismatic Vista
-4 Utopia Sprawl
 4 Misty Rainforest
 1 Pyre of Heroes
 1 Avacyn's Pilgrim
@@ -146,30 +181,24 @@
 1 Voice of Resurgence
 1 Blade Historian
 1 Copperline Gorge
-1 Arid Mesa
-1 Seasoned Pyromancer
 1 Arbor Elf
-1 Lightning Bolt
 1 Winota, Joiner of Forces
 1 Mountain
 1 Smuggler's Copter
 1 Angrath's Marauders
-2 Seasoned Pyromancer
 2 Voice of Resurgence
 2 Copperline Gorge
 2 Arbor Elf
 2 Stomping Ground
 2 Lightning Bolt
 2 Winota, Joiner of Forces
-2 Angrath's Marauders
 2 Smuggler's Copter
-3 Seasoned Pyromancer
+2 Angrath's Marauders
 3 Copperline Gorge
 3 Arbor Elf
 3 Lightning Bolt
 3 Angrath's Marauders
 3 Winota, Joiner of Forces
-4 Seasoned Pyromancer
 4 Arbor Elf
 4 Lightning Bolt
 4 Copperline Gorge
@@ -182,8 +211,8 @@
 1 Auriok Champion
 2 Collected Company
 2 Kitchen Finks
-2 Heliod, Sun-Crowned
 2 Spike Feeder
+2 Heliod, Sun-Crowned
 2 Auriok Champion
 3 Walking Ballista
 3 Collected Company

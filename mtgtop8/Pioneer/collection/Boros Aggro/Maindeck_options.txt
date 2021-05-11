@@ -24,12 +24,11 @@
 1 Mutavault
 2 Mutavault
 3 Mutavault
-1 Fairgrounds Warden
 1 Embercleave
 1 Consulate Dreadnought
 1 Veteran Motorist
-1 Toolcraft Exemplar
 1 Maul of the Skyclaves
+1 Toolcraft Exemplar
 1 Giant Ox
 1 Magda, Brazen Outlaw
 1 Colossal Plow
@@ -37,6 +36,7 @@
 1 Armed and Armored
 1 Depala, Pilot Exemplar
 1 Lurrus of the Dream-Den
+1 Fairgrounds Warden
 1 Thraben Inspector
 1 Peacewalker Colossus
 1 Heart of Kiran
@@ -62,8 +62,8 @@
 4 Magda, Brazen Outlaw
 4 Veteran Motorist
 4 Giant Ox
-1 Samut's Sprint
 1 Temple of Triumph
+1 Samut's Sprint
 1 Clifftop Retreat
 2 Clifftop Retreat
 2 Temple of Triumph
@@ -79,9 +79,9 @@
 5 Mountain
 5 Plains
 1 Seasoned Hallowblade
+1 Kargan Intimidator
 1 Kor Blademaster
 1 Fireblade Charger
-1 Kargan Intimidator
 1 Shadowspear
 1 Colossus Hammer
 1 Usher of the Fallen
@@ -89,18 +89,18 @@
 1 Open the Armory
 1 Resolute Strike
 2 Seasoned Hallowblade
+2 Kargan Intimidator
 2 Fireblade Charger
 2 Kor Blademaster
-2 Kargan Intimidator
 2 Colossus Hammer
 2 Sigarda's Aid
 2 Open the Armory
 2 Resolute Strike
 2 Usher of the Fallen
+3 Kargan Intimidator
 3 Seasoned Hallowblade
 3 Fireblade Charger
 3 Kor Blademaster
-3 Kargan Intimidator
 3 Sigarda's Aid
 3 Open the Armory
 3 Resolute Strike
@@ -109,9 +109,9 @@
 4 Mutavault
 4 Usher of the Fallen
 4 Fireblade Charger
+4 Kargan Intimidator
 4 Kor Blademaster
 4 Seasoned Hallowblade
-4 Kargan Intimidator
 4 Sigarda's Aid
 4 Colossus Hammer
 4 Open the Armory

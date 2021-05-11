@@ -1,21 +1,17 @@
 4 Elite Spellbinder
 4 Fabled Passage
+1 Haktos the Unscarred
 2 Basri's Lieutenant
-1 Reidane, God of the Worthy
 3 Kenrith, the Returned King
+3 Furycalm Snarl
+1 Reidane, God of the Worthy
 3 Alseid of Life's Bounty
 10 Plains
+4 Furycalm Snarl
 2 Reidane, God of the Worthy
-1 Haktos the Unscarred
-3 Basri's Lieutenant
-3 Furycalm Snarl
-1 Luminarch Aspirant
-2 Luminarch Aspirant
-3 Luminarch Aspirant
-4 Luminarch Aspirant
 6 Mountain
-1 Branchloft Pathway
-2 Branchloft Pathway
+1 Venerable Warsinger
+3 Basri's Lieutenant
 1 Faceless Haven
 1 Snow-Covered Plains
 1 Snow-Covered Mountain
@@ -29,27 +25,16 @@
 6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
-1 Seasoned Hallowblade
-2 Seasoned Hallowblade
-1 Cragcrown Pathway
-2 Cragcrown Pathway
-3 Branchloft Pathway
-3 Cragcrown Pathway
-4 Branchloft Pathway
-4 Cragcrown Pathway
-1 Forest
-2 Forest
-1 Jaspera Sentinel
-2 Jaspera Sentinel
-3 Jaspera Sentinel
-4 Jaspera Sentinel
 1 Shatterskull Smashing
-4 Furycalm Snarl
+1 Luminarch Aspirant
+2 Luminarch Aspirant
+3 Luminarch Aspirant
+4 Luminarch Aspirant
+1 Branchloft Pathway
+2 Branchloft Pathway
 4 Alseid of Life's Bounty
-1 Venerable Warsinger
 2 Venerable Warsinger
 3 Venerable Warsinger
-2 Haktos the Unscarred
 1 Skyclave Cleric
 2 Skyclave Cleric
 3 Skyclave Cleric
@@ -58,10 +43,22 @@
 2 Clarion Spirit
 3 Clarion Spirit
 4 Clarion Spirit
+2 Haktos the Unscarred
+1 Cragcrown Pathway
+1 Jaspera Sentinel
+2 Jaspera Sentinel
+2 Cragcrown Pathway
+3 Branchloft Pathway
+3 Cragcrown Pathway
+3 Jaspera Sentinel
+4 Branchloft Pathway
+4 Jaspera Sentinel
+4 Cragcrown Pathway
 7 Mountain
-1 Brightclimb Pathway
-2 Brightclimb Pathway
-3 Reidane, God of the Worthy
+1 Seasoned Hallowblade
+2 Seasoned Hallowblade
+1 Forest
+2 Forest
 1 Lotus Cobra
 2 Lotus Cobra
 9 Snow-Covered Plains
@@ -77,11 +74,14 @@
 2 Gilded Goose
 2 Magda, Brazen Outlaw
 3 Lotus Cobra
+3 Reidane, God of the Worthy
 3 Gilded Goose
 3 Magda, Brazen Outlaw
 4 Lotus Cobra
 4 Gilded Goose
+1 Brightclimb Pathway
 1 Blightstep Pathway
+2 Brightclimb Pathway
 2 Blightstep Pathway
 3 Forest
 4 Forest
@@ -90,39 +90,24 @@
 2 Faerie Guidemother
 3 Faerie Guidemother
 4 Faerie Guidemother
-2 Shatterskull Smashing
-3 Seasoned Hallowblade
-3 Brightclimb Pathway
 1 Darkbore Pathway
 2 Darkbore Pathway
-1 Giant Killer
-2 Giant Killer
 1 Lovestruck Beast
 2 Lovestruck Beast
 3 Lovestruck Beast
-1 Hengegate Pathway
 1 Embercleave
-1 Riverglide Pathway
-1 Klothys, God of Destiny
-1 Archon of Emeria
-1 Drannith Magistrate
-1 Elder Gargaroth
-2 Riverglide Pathway
-2 Drannith Magistrate
-2 Archon of Emeria
-2 Hengegate Pathway
-3 Archon of Emeria
-3 Drannith Magistrate
-3 Giant Killer
-3 Hengegate Pathway
-4 Archon of Emeria
-4 Giant Killer
+1 Emeria's Call
+1 Fight as One
+1 Hall Monitor
+2 Fight as One
+2 Hall Monitor
 1 Castle Embereth
 1 Reverent Hoplite
 1 Syr Konrad, the Grim
 2 Castle Embereth
 3 Crawling Barrens
 3 Snow-Covered Mountain
+2 Shatterskull Smashing
 3 Shatterskull Smashing
 4 Shatterskull Smashing
 1 Proud Wildbonder
@@ -132,8 +117,8 @@
 3 Stonecoil Serpent
 4 Stonecoil Serpent
 4 Reidane, God of the Worthy
-1 Guiding Voice
 1 Make Your Mark
+1 Guiding Voice
 2 Make Your Mark
 2 Guiding Voice
 3 Guiding Voice
@@ -141,18 +126,18 @@
 4 Basri's Lieutenant
 4 Guiding Voice
 4 Make Your Mark
+1 Bolt Hound
 1 Igneous Cur
 1 Pack Leader
 1 Alpine Houndmaster
 1 Showdown of the Skalds
 1 Alpine Watchdog
-1 Bolt Hound
 2 Embercleave
+2 Bolt Hound
 2 Igneous Cur
 2 Alpine Houndmaster
 2 Pack Leader
 2 Showdown of the Skalds
-2 Bolt Hound
 2 Alpine Watchdog
 3 Embercleave
 3 Bolt Hound
@@ -165,21 +150,23 @@
 4 Pack Leader
 1 Maul of the Skyclaves
 1 Fireblade Charger
-1 Tajuru Paragon
 1 Tazri, Beacon of Unity
 1 Archpriest of Iona
+1 Hengegate Pathway
+1 Tajuru Paragon
 2 Maul of the Skyclaves
 2 Fireblade Charger
 2 Archpriest of Iona
 2 Tajuru Paragon
 3 Fireblade Charger
-3 Tajuru Paragon
 3 Archpriest of Iona
+3 Tajuru Paragon
 4 Tajuru Paragon
 4 Archpriest of Iona
 1 Esika's Chariot
 1 Barkchannel Pathway
 2 Esika's Chariot
+3 Brightclimb Pathway
 3 Blightstep Pathway
 3 Darkbore Pathway
 4 Kenrith, the Returned King
@@ -188,13 +175,16 @@
 1 Pilgrim of the Ages
 2 Savai Triome
 2 Pilgrim of the Ages
+3 Seasoned Hallowblade
 3 Pilgrim of the Ages
 3 Haktos the Unscarred
 4 Haktos the Unscarred
 4 Seasoned Hallowblade
 1 Toski, Bearer of Secrets
+1 Giant Killer
 1 Edgewall Innkeeper
 2 Toski, Bearer of Secrets
+2 Giant Killer
 2 Edgewall Innkeeper
 3 Toski, Bearer of Secrets
 3 Edgewall Innkeeper

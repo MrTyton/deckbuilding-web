@@ -1,9 +1,10 @@
-3 Heartless Act
-1 Negate
 1 Cling to Dust
-4 Zagoth Triome
+3 Heartless Act
 4 Temple of Deceit
+4 Zagoth Triome
 4 Swamp
+1 Negate
+4 Heartless Act
 1 Jwari Disruption
 1 Shark Typhoon
 1 Omen of the Sea
@@ -23,40 +24,28 @@
 3 Shark Typhoon
 3 Omen of the Sea
 4 Omen of the Sea
-4 Heartless Act
 5 Swamp
-1 Lochmere Serpent
 1 Mazemind Tome
+1 Lochmere Serpent
 1 Erebos's Intervention
-2 Mazemind Tome
 2 Erebos's Intervention
+2 Mazemind Tome
 3 Eliminate
-1 Baleful Mastery
-1 Behold the Multiverse
-1 Midnight Clock
-2 Behold the Multiverse
-2 Saw It Coming
-2 Negate
-2 Midnight Clock
-3 Saw It Coming
-3 Extinction Event
-4 Shark Typhoon
-4 Extinction Event
-4 Saw It Coming
-7 Island
 3 Jwari Disruption
 3 Bloodchief's Thirst
 4 Jwari Disruption
 6 Swamp
+7 Island
+1 Baleful Mastery
 1 Essence Scatter
 1 Hagra Mauling
 1 Kaervek, the Spiteful
 1 Ashiok, Nightmare Muse
 1 Murderous Rider
 2 Hagra Mauling
-2 Lochmere Serpent
 2 Castle Locthwain
 2 Murderous Rider
+2 Lochmere Serpent
 2 Castle Vantress
 2 Ashiok, Nightmare Muse
 3 Mazemind Tome
@@ -65,6 +54,20 @@
 3 Lochmere Serpent
 4 Mazemind Tome
 4 Bloodchief's Thirst
+1 Behold the Multiverse
+1 Midnight Clock
+2 Behold the Multiverse
+2 Negate
+2 Saw It Coming
+2 Midnight Clock
+3 Saw It Coming
+3 Extinction Event
+4 Shark Typhoon
+4 Extinction Event
+4 Saw It Coming
+1 Lullmage's Domination
+2 Baleful Mastery
+2 Didn't Say Please
 1 Ugin, the Spirit Dragon
 2 Ugin, the Spirit Dragon
 2 Crawling Barrens
@@ -72,9 +75,6 @@
 3 Behold the Multiverse
 4 Behold the Multiverse
 4 Eliminate
-1 Lullmage's Domination
-2 Baleful Mastery
-2 Didn't Say Please
 1 Professor Onyx
 1 Sea Gate Restoration
 1 Field of Ruin
@@ -84,7 +84,25 @@
 3 Midnight Clock
 3 Shadows' Verdict
 3 Field of Ruin
+3 Professor Onyx
 7 Swamp
 1 Lurrus of the Dream-Den
+1 Suffocating Fumes
+2 Suffocating Fumes
 3 Of One Mind
-3 Professor Onyx
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Call of the Death-Dweller
+1 Teferi's Tutelage
+2 Snow-Covered Swamp
+2 Snow-Covered Island
+2 Call of the Death-Dweller
+2 Cling to Dust
+2 Teferi's Tutelage
+3 Snow-Covered Island
+3 Snow-Covered Swamp
+3 Teferi's Tutelage
+4 Snow-Covered Island
+4 Snow-Covered Swamp
+4 Teferi's Tutelage
+5 Snow-Covered Island

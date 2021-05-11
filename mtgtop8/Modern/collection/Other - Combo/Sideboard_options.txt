@@ -22,8 +22,8 @@
 2 Wall of Shards
 2 Path to Exile
 1 Vendetta
-2 Vendetta
 2 Natural State
+2 Vendetta
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
@@ -45,24 +45,24 @@
 2 Leyline of Lifeforce
 3 Leyline of Lifeforce
 1 Dispel
+1 Void Snare
 1 Thought Distortion
+1 Chandra, Awakened Inferno
 1 Stern Dismissal
 1 Ignite Memories
-1 Chandra, Awakened Inferno
 1 Thing in the Ice
-1 Void Snare
 2 Stern Dismissal
+2 Thought Distortion
 2 Thing in the Ice
 2 Dispel
-2 Thought Distortion
 3 Stern Dismissal
 3 Thing in the Ice
+1 Maelstrom Pulse
 1 Liliana of the Veil
 1 Damnation
 1 Life from the Loam
 1 Pithing Needle
 1 Tarmogoyf
-1 Maelstrom Pulse
 1 Geth's Verdict
 1 Surgical Extraction
 1 Collective Brutality
@@ -72,6 +72,10 @@
 2 Pithing Needle
 3 Tarmogoyf
 4 Thoughtseize
+1 Fatal Push
+2 Fatal Push
+3 Fatal Push
+4 Nature's Claim
 1 Selective Memory
 2 Selective Memory
 3 Selective Memory
@@ -111,7 +115,3 @@
 3 Force of Vigor
 3 Run Afoul
 4 Leyline of the Void
-1 Fatal Push
-2 Fatal Push
-3 Fatal Push
-4 Nature's Claim
