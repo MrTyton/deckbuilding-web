@@ -6,6 +6,7 @@
 1 Dread of Night
 1 Forest
 1 Tormod's Crypt
+1 Tendrils of Agony
 2 Tormod's Crypt
 2 Xantid Swarm
 2 Dread of Night
@@ -17,7 +18,6 @@
 4 Witherbloom Apprentice
 1 Dark Confidant
 2 Dark Confidant
-1 Tendrils of Agony
 1 Sentinel Tower
 1 Grapeshot
 1 Past in Flames
@@ -34,8 +34,8 @@
 1 Duress
 1 Faerie Macabre
 2 Faerie Macabre
-1 Shattering Spree
 1 Fiery Confluence
+1 Shattering Spree
 1 Hazoret's Undying Fury
 1 Sweltering Suns
 1 Pyroblast
@@ -47,5 +47,12 @@
 2 Pyroblast
 2 Fatal Push
 3 Dread of Night
+1 Reforge the Soul
+1 Defense Grid
+1 Rite of Flame
+1 Ravenous Trap
+2 Defense Grid
+2 Ravenous Trap
+3 Defense Grid
 3 Dark Confidant
 4 Dark Confidant

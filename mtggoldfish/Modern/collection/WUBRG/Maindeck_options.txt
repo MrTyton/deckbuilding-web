@@ -7,7 +7,6 @@
 2 Snow-Covered Forest
 1 Raugrin Triome
 1 Sacred Foundry
-1 Deputy of Detention
 1 Island
 1 Steam Vents
 1 Street Wraith
@@ -28,10 +27,10 @@
 4 Striped Riverwinder
 4 Curator of Mysteries
 4 Windcaller Aven
+1 Brazen Borrower
 1 Force of Negation
 2 Force of Negation
 3 Force of Negation
-1 Brazen Borrower
 1 Ardent Plea
 2 Ardent Plea
 3 Ardent Plea
@@ -41,9 +40,8 @@
 2 Flooded Strand
 3 Flooded Strand
 4 Flooded Strand
-1 Spirebluff Canal
 4 Ardent Plea
-2 Spirebluff Canal
+1 Spirebluff Canal
 1 Violent Outburst
 1 Botanical Sanctum
 1 Desert Cerodon
@@ -53,15 +51,17 @@
 3 Desert Cerodon
 4 Violent Outburst
 4 Desert Cerodon
+2 Spirebluff Canal
 2 Brazen Borrower
 1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
 2 Botanical Sanctum
 3 Brazen Borrower
+1 Deputy of Detention
 1 Glassdust Hulk
-4 Brazen Borrower
 4 Scalding Tarn
+4 Brazen Borrower
 1 Mana Confluence
 1 Inspiring Vantage
 2 Glassdust Hulk
@@ -87,11 +87,12 @@
 2 Seal of Fire
 1 Plains
 1 Trial of Ambition
+1 Seachrome Coast
 1 Goblin Cratermaker
 1 Lithoform Blight
-1 As Foretold
 4 Living End
-1 Seachrome Coast
+2 Island
+1 As Foretold
 1 Ice-Fang Coatl
 1 Ketria Triome
 2 Temple Garden
@@ -99,13 +100,13 @@
 1 Eidolon of Rhetoric
 1 Verdant Catacombs
 4 Teferi, Time Raveler
-2 Island
 2 As Foretold
 3 As Foretold
 4 As Foretold
+3 Spirebluff Canal
 3 Island
 3 Forest
-3 Spirebluff Canal
+3 Glassdust Hulk
 2 Steam Vents
 3 Steam Vents
 1 Electrodominance
@@ -129,7 +130,6 @@
 1 Mystical Dispute
 1 Architects of Will
 2 Architects of Will
-3 Glassdust Hulk
 1 Calix, Destiny's Hand
 1 Indatha Triome
 2 Lithoform Blight
@@ -146,24 +146,27 @@
 3 Waker of Waves
 4 Island
 4 Waker of Waves
+1 Gemstone Mine
 1 Spell Pierce
 1 Ancestral Vision
 1 Tolaria West
 2 Spell Pierce
 3 Spell Pierce
+1 Vendilion Clique
 4 Glassdust Hulk
+2 Inspiring Vantage
+3 Botanical Sanctum
 2 Hallowed Fountain
 5 Island
 6 Island
-1 Imposing Vantasaur
 2 Seachrome Coast
 1 Zagoth Triome
-1 Reidane, God of the Worthy
-1 Omen of the Dead
-1 Spike Feeder
-1 Heliod, Sun-Crowned
 1 Archon of Emeria
 1 Cosima, God of the Voyage
+1 Reidane, God of the Worthy
+1 Spike Feeder
+1 Heliod, Sun-Crowned
+1 Omen of the Dead
 1 Gilded Goose
 2 Gilded Goose
 2 Trial of Ambition
@@ -171,8 +174,6 @@
 3 Gilded Goose
 3 Omen of the Forge
 4 Omen of the Forge
-1 Vendilion Clique
-1 Gemstone Mine
 1 Gemstone Caverns
 2 Gemstone Caverns
 1 Valakut Awakening
@@ -182,8 +183,9 @@
 3 Snow-Covered Island
 3 Hallowed Fountain
 1 Polluted Delta
-1 Faerie Macabre
 1 Generous Gift
+1 Faerie Macabre
+1 Imposing Vantasaur
 1 Failure/Comply
 1 Sunken Ruins
 1 Adarkar Wastes
@@ -205,8 +207,6 @@
 2 Breeding Pool
 3 Architects of Will
 4 Architects of Will
-2 Inspiring Vantage
-3 Botanical Sanctum
 4 Botanical Sanctum
 1 Glacial Fortress
 2 Cryptic Command

@@ -1,35 +1,7 @@
-3 Essence Scatter
-1 Crawling Barrens
-1 Field of Ruin
-4 Opt
-1 Sublime Epiphany
-1 Forsaken Monument
-1 Radiant Fountain
-1 Skyclave Relic
-1 Tyrite Sanctum
-1 Palladium Myr
-1 Cosmos Elixir
-1 Midnight Clock
-1 Labyrinth of Skophos
-1 Kiora Bests the Sea God
-1 Shimmer Dragon
-1 Ugin, the Spirit Dragon
-1 The Magic Mirror
-1 Discontinuity
-1 Sea Gate Restoration
-1 Mazemind Tome
-1 Throne of Makindi
-1 Unknown Shores
-1 Solemn Simulacrum
-1 Omen of the Sea
-2 Crawling Barrens
-2 Omen of the Sea
-2 Sublime Epiphany
 2 Forsaken Monument
 2 Radiant Fountain
 2 Kiora Bests the Sea God
 2 Midnight Clock
-2 Labyrinth of Skophos
 2 Solemn Simulacrum
 2 Ugin, the Spirit Dragon
 2 Skyclave Relic
@@ -38,12 +10,13 @@
 2 Tyrite Sanctum
 2 Palladium Myr
 2 Unknown Shores
+2 Labyrinth of Skophos
 2 Shimmer Dragon
 2 Throne of Makindi
 3 Crawling Barrens
 3 Radiant Fountain
-3 Forsaken Monument
 3 Midnight Clock
+3 Forsaken Monument
 3 Skyclave Relic
 3 Labyrinth of Skophos
 3 Tyrite Sanctum
@@ -58,37 +31,61 @@
 3 Mazemind Tome
 3 Sublime Epiphany
 4 Radiant Fountain
-4 Crawling Barrens
 4 Midnight Clock
+4 Crawling Barrens
 4 Skyclave Relic
 4 Solemn Simulacrum
 4 Essence Scatter
 4 Palladium Myr
+4 Saw It Coming
 4 Unknown Shores
-1 Negate
+1 Frost Augur
+1 Into the Roil
+1 Behold the Multiverse
+2 Frost Augur
+2 Brazen Borrower
+2 Behold the Multiverse
+3 Ascendant Spirit
+3 Brazen Borrower
+3 Behold the Multiverse
+4 Behold the Multiverse
+4 Ascendant Spirit
+4 Brazen Borrower
+4 Faceless Haven
+16 Snow-Covered Island
+17 Snow-Covered Island
 1 Neutralize
-1 Mystic Subdual
-1 Unsubstantiate
-2 Mystic Subdual
-2 Unsubstantiate
-1 Gadwick, the Wizened
-1 Thassa's Intervention
-1 Cosmos Charger
-2 Into the Roil
-2 Thassa's Intervention
-2 Cosmos Charger
-2 Gadwick, the Wizened
-3 Cosmos Charger
 1 Cosima, God of the Voyage
 1 Icebreaker Kraken
 1 Disdainful Stroke
 2 Cosima, God of the Voyage
 2 Icebreaker Kraken
 2 Disdainful Stroke
-3 Cosima, God of the Voyage
+3 Frost Augur
 3 Icebreaker Kraken
+3 Cosima, God of the Voyage
+4 Frost Augur
 4 Cosima, God of the Voyage
+4 Shark Typhoon
+1 Negate
+1 Thassa's Intervention
+1 Gadwick, the Wizened
+1 Cosmos Charger
+2 Into the Roil
+2 Thassa's Intervention
+2 Alrund's Epiphany
+2 Cosmos Charger
+2 Gadwick, the Wizened
+3 Alrund's Epiphany
+3 Cosmos Charger
+4 Alrund's Epiphany
+18 Snow-Covered Island
+19 Snow-Covered Island
+20 Snow-Covered Island
+21 Snow-Covered Island
+22 Snow-Covered Island
 1 Reject
+1 Curate
 1 Fabled Passage
 1 Island
 1 Thassa's Oracle
@@ -98,11 +95,11 @@
 1 Serpentine Curve
 1 Startling Development
 1 Boon of the Wish-Giver
-1 Curate
 1 Glimpse of Freedom
 1 Sleep of the Dead
-2 Field of Ruin
 2 Reject
+2 Field of Ruin
+2 Curate
 2 Island
 2 Negate
 2 Test of Talents
@@ -111,17 +108,16 @@
 2 Startling Development
 2 Boon of the Wish-Giver
 2 Neutralize
-2 Curate
 2 Serpentine Curve
 3 Stern Dismissal
+3 Reject
+3 Curate
 3 Island
 3 Frostveil Ambush
 3 Neutralize
 3 Serpentine Curve
 3 Boon of the Wish-Giver
-3 Reject
 3 Startling Development
-3 Curate
 4 Island
 4 Frostveil Ambush
 4 Startling Development

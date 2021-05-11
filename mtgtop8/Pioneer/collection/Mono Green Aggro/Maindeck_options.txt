@@ -10,22 +10,22 @@
 1 Castle Garenbrig
 2 Vivien, Arkbow Ranger
 3 Vivien, Arkbow Ranger
+1 Voracious Hydra
 1 Nissa, Who Shakes the World
 1 Vorinclex, Monstrous Raider
-1 Voracious Hydra
 1 Oath of Nissa
 2 Oath of Nissa
 2 Vorinclex, Monstrous Raider
 2 Voracious Hydra
 2 Castle Garenbrig
-3 Voracious Hydra
 3 Oath of Nissa
+3 Voracious Hydra
 3 Vorinclex, Monstrous Raider
 3 Castle Garenbrig
+4 Voracious Hydra
 4 Oath of Nissa
 4 Vivien, Arkbow Ranger
 4 Castle Garenbrig
-4 Voracious Hydra
 13 Forest
 1 Yavimaya Coast
 1 Primal Might
@@ -64,10 +64,10 @@
 2 Carnage Tyrant
 2 Elder Gargaroth
 3 Scavenging Ooze
-1 In Search of Greatness
 1 Sylvan Caryatid
-2 Vivien Reid
+1 In Search of Greatness
 2 In Search of Greatness
+2 Vivien Reid
 2 Sylvan Caryatid
 3 In Search of Greatness
 1 The Great Henge
@@ -75,22 +75,66 @@
 3 Primal Might
 3 The Great Henge
 4 Primal Might
-1 Surrak, the Hunt Caller
+1 Mutavault
+1 Deathrite Shaman
+1 Darkbore Pathway
+1 Elvish Visionary
+1 Dwynen's Elite
+1 Shaman of the Pack
+1 Elvish Warmaster
+1 Harald, King of Skemfar
+1 Realmwalker
+1 Elvish Clancaller
+1 Skemfar Avenger
+1 Overgrown Tomb
+1 Llanowar Wastes
+1 Blooming Marsh
+1 Chord of Calling
+2 Mutavault
+2 Elvish Visionary
+2 Darkbore Pathway
+2 Harald, King of Skemfar
+2 Dwynen's Elite
+2 Shaman of the Pack
+2 Realmwalker
+2 Elvish Warmaster
+2 Elvish Clancaller
+2 Blooming Marsh
+2 Overgrown Tomb
+2 Llanowar Wastes
+3 Elvish Visionary
+3 Harald, King of Skemfar
+3 Darkbore Pathway
+3 Shaman of the Pack
+3 Elvish Warmaster
+3 Elvish Clancaller
+3 Realmwalker
+3 Llanowar Wastes
+3 Overgrown Tomb
+3 Blooming Marsh
+3 Mutavault
+4 Darkbore Pathway
+4 Elvish Warmaster
+4 Elvish Clancaller
+4 Shaman of the Pack
+4 Overgrown Tomb
+4 Blooming Marsh
 1 Ghalta, Primal Hunger
+1 Surrak, the Hunt Caller
 1 Questing Beast
 1 Ram Through
-2 Surrak, the Hunt Caller
 2 Heart of Kiran
 2 Ghalta, Primal Hunger
-2 Ram Through
+2 Surrak, the Hunt Caller
 2 Questing Beast
+2 Ram Through
 3 Nissa, Voice of Zendikar
 15 Forest
 1 Snow-Covered Forest
 1 Bayou Groff
 2 Yorvo, Lord of Garenbrig
-2 Snow-Covered Forest
 2 Bayou Groff
+2 Snow-Covered Forest
 3 Snow-Covered Forest
 4 Snow-Covered Forest
 5 Snow-Covered Forest
@@ -107,47 +151,3 @@
 16 Snow-Covered Forest
 17 Snow-Covered Forest
 18 Snow-Covered Forest
-1 Mutavault
-1 Darkbore Pathway
-1 Dwynen's Elite
-1 Deathrite Shaman
-1 Shaman of the Pack
-1 Elvish Warmaster
-1 Harald, King of Skemfar
-1 Realmwalker
-1 Elvish Clancaller
-1 Skemfar Avenger
-1 Overgrown Tomb
-1 Llanowar Wastes
-1 Elvish Visionary
-1 Blooming Marsh
-1 Chord of Calling
-2 Mutavault
-2 Darkbore Pathway
-2 Harald, King of Skemfar
-2 Dwynen's Elite
-2 Shaman of the Pack
-2 Realmwalker
-2 Elvish Warmaster
-2 Elvish Clancaller
-2 Blooming Marsh
-2 Overgrown Tomb
-2 Elvish Visionary
-2 Llanowar Wastes
-3 Harald, King of Skemfar
-3 Darkbore Pathway
-3 Shaman of the Pack
-3 Elvish Warmaster
-3 Elvish Clancaller
-3 Realmwalker
-3 Llanowar Wastes
-3 Overgrown Tomb
-3 Blooming Marsh
-3 Mutavault
-3 Elvish Visionary
-4 Darkbore Pathway
-4 Elvish Warmaster
-4 Elvish Clancaller
-4 Shaman of the Pack
-4 Overgrown Tomb
-4 Blooming Marsh

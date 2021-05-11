@@ -25,16 +25,16 @@
 2 Misty Rainforest
 1 Snow-Covered Forest
 1 Savannah
-1 Gilded Goose
 1 Ice-Fang Coatl
+1 Gilded Goose
 1 Tropical Island
 1 Uro, Titan of Nature's Wrath
-2 Gilded Goose
 2 Ice-Fang Coatl
 2 Windswept Heath
 2 Uro, Titan of Nature's Wrath
-3 Gilded Goose
+2 Gilded Goose
 3 Ice-Fang Coatl
+3 Gilded Goose
 4 Gilded Goose
 1 Wasteland
 2 Wasteland
@@ -68,8 +68,8 @@
 3 Teferi, Time Raveler
 3 Mishra's Bauble
 3 Abundant Growth
-4 Misty Rainforest
 4 Ice-Fang Coatl
+4 Misty Rainforest
 4 Emry, Lurker of the Loch
 4 Mishra's Bauble
 1 Ashiok, Dream Render
@@ -100,6 +100,11 @@
 2 Lightning Bolt
 3 Scalding Tarn
 4 Scalding Tarn
+1 Venser, Shaper Savant
+1 Shark Typhoon
+2 Vendilion Clique
+3 Preordain
+4 Prismatic Vista
 1 Inquisition of Kozilek
 1 Scrubland
 1 Thoughtseize
@@ -115,6 +120,7 @@
 3 Thoughtseize
 3 Baleful Strix
 4 Baleful Strix
+6 Island
 1 Monastery Mentor
 1 Ethereal Forager
 1 Delver of Secrets
@@ -124,9 +130,3 @@
 3 Delver of Secrets
 4 Wasteland
 4 Delver of Secrets
-6 Island
-1 Venser, Shaper Savant
-1 Shark Typhoon
-2 Vendilion Clique
-3 Preordain
-4 Prismatic Vista

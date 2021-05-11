@@ -1,30 +1,30 @@
 3 Personal Tutor
 4 Preordain
 2 Misty Rainforest
+1 Verdant Catacombs
+3 Misty Rainforest
 3 Scalding Tarn
 1 Volcanic Island
-3 Misty Rainforest
-1 Verdant Catacombs
 3 Duress
 4 Street Wraith
 3 Flooded Strand
-1 Badlands
+1 Bloodstained Mire
 1 Tropical Island
 1 Bayou
-1 Bloodstained Mire
 4 Personal Tutor
 2 Thassa's Oracle
-4 Scalding Tarn
+1 Badlands
 1 Snow-Covered Island
 3 Thoughtseize
+4 Scalding Tarn
 1 Lightning Bolt
-1 Arclight Phoenix
 1 Young Pyromancer
+1 Arclight Phoenix
 1 Buried Alive
+2 Young Pyromancer
 2 Lightning Bolt
 2 Buried Alive
 2 Arclight Phoenix
-2 Young Pyromancer
 3 Lightning Bolt
 3 Buried Alive
 3 Arclight Phoenix
@@ -57,14 +57,15 @@
 2 Dark Confidant
 3 Dark Confidant
 3 Cabal Therapy
+1 Night's Whisper
 1 Spell Pierce
 1 Flusterstorm
 2 Flusterstorm
-1 Chrome Mox
 1 Children of Korlis
+1 Chrome Mox
 1 Entomb
-1 Griselbrand
 1 Shallow Grave
+1 Griselbrand
 1 Emrakul, the Aeons Torn
 1 Goryo's Vengeance
 2 Entomb
@@ -78,24 +79,24 @@
 2 Lim-Dul's Vault
 1 Cabal Ritual
 4 Dark Confidant
-1 Land Grant
 1 Taiga
 1 Abrupt Decay
 1 Faithless Looting
 1 Manamorphose
 1 Mountain
+1 Land Grant
 2 Bayou
-2 Land Grant
 2 Abrupt Decay
 2 Faithless Looting
 2 Bloodstained Mire
 2 Taiga
 2 Manamorphose
+2 Land Grant
 2 Badlands
 3 Bloodstained Mire
-3 Land Grant
-3 Faithless Looting
 3 Young Pyromancer
+3 Faithless Looting
+3 Land Grant
 3 Manamorphose
 4 Bloodstained Mire
 4 Faithless Looting
@@ -105,7 +106,6 @@
 2 Verdant Catacombs
 1 Sylvan Library
 1 Sunken Ruins
-1 Night's Whisper
 2 Island
 2 Lion's Eye Diamond
 3 Verdant Catacombs
@@ -115,15 +115,11 @@
 2 Wasteland
 3 Stifle
 3 Wasteland
-1 Wooded Foothills
-2 Wooded Foothills
-4 Land Grant
 1 Uro, Titan of Nature's Wrath
 2 Tropical Island
 2 Uro, Titan of Nature's Wrath
 3 Baleful Strix
 4 Baleful Strix
-4 Flooded Strand
 1 Chain of Smog
 1 Witherbloom Apprentice
 1 Forest
@@ -135,3 +131,7 @@
 3 Veil of Summer
 4 Witherbloom Apprentice
 4 Chain of Smog
+4 Flooded Strand
+1 Wooded Foothills
+2 Wooded Foothills
+4 Land Grant

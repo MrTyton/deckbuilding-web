@@ -1,11 +1,11 @@
 2 Aether Vial
 3 Aether Vial
-4 Aether Vial
 4 Skyclave Apparition
+4 Aether Vial
 1 Sunbaked Canyon
 1 Leonin Arbiter
-1 Needleverge Pathway
 1 Ghost Quarter
+1 Needleverge Pathway
 1 Giver of Runes
 2 Leonin Arbiter
 2 Sunbaked Canyon
@@ -19,16 +19,16 @@
 3 Needleverge Pathway
 3 Plains
 3 Giver of Runes
+4 Plains
 4 Leonin Arbiter
 4 Sunbaked Canyon
 4 Needleverge Pathway
-4 Plains
 4 Giver of Runes
 5 Plains
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
-1 Sword of Fire and Ice
 1 Batterskull
+1 Sword of Fire and Ice
 1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
@@ -82,8 +82,8 @@
 4 Llanowar Elves
 1 Embercleave
 2 Mountain
-1 Snow-Covered Plains
 1 Resolute Blademaster
+1 Snow-Covered Plains
 1 Horizon Canopy
 1 Huntmaster of the Fells
 1 Goblin Rabblemaster
@@ -96,9 +96,9 @@
 2 Godo, Bandit Warlord
 3 Godo, Bandit Warlord
 4 Godo, Bandit Warlord
-1 Flooded Strand
 1 Reflecting Pool
 1 Hallowed Fountain
+1 Flooded Strand
 1 Ancient Ziggurat
 1 Kitesail Freebooter
 1 Island
@@ -111,8 +111,8 @@
 1 Avacyn's Pilgrim
 1 Unclaimed Territory
 1 Meddling Mage
-2 Flooded Strand
 2 Reflecting Pool
+2 Flooded Strand
 2 Ancient Ziggurat
 2 Noble Hierarch
 2 Avacyn's Pilgrim
@@ -124,9 +124,9 @@
 2 Champion of the Parish
 2 Unclaimed Territory
 2 Kitesail Freebooter
-3 Flooded Strand
 3 Charming Prince
 3 Reflecting Pool
+3 Flooded Strand
 3 Blade Splicer
 3 Champion of the Parish
 3 Cavern of Souls
@@ -138,8 +138,8 @@
 3 Unclaimed Territory
 3 Noble Hierarch
 4 Flooded Strand
-4 Smuggler's Copter
 4 Reflecting Pool
+4 Smuggler's Copter
 4 Unclaimed Territory
 4 Champion of the Parish
 4 Kitesail Freebooter
@@ -165,6 +165,23 @@
 1 Drannith Magistrate
 2 Drannith Magistrate
 3 Drannith Magistrate
+1 Avalanche Riders
+1 Utopia Sprawl
+1 Pia Nalaar
+2 Avalanche Riders
+2 Huntmaster of the Fells
+2 Utopia Sprawl
+2 Pia Nalaar
+3 Goblin Rabblemaster
+3 Magus of the Moon
+3 Huntmaster of the Fells
+3 Utopia Sprawl
+4 Goblin Rabblemaster
+4 Magus of the Moon
+4 Huntmaster of the Fells
+4 Utopia Sprawl
+4 Forest
+5 Forest
 1 Gilded Goose
 1 Brushfire Elemental
 1 Rampaging Ferocidon
@@ -174,20 +191,3 @@
 2 Brushfire Elemental
 3 Gilded Goose
 4 Voice of Resurgence
-1 Avalanche Riders
-1 Utopia Sprawl
-1 Pia Nalaar
-2 Huntmaster of the Fells
-2 Utopia Sprawl
-2 Avalanche Riders
-2 Pia Nalaar
-3 Goblin Rabblemaster
-3 Magus of the Moon
-3 Huntmaster of the Fells
-3 Utopia Sprawl
-4 Goblin Rabblemaster
-4 Forest
-4 Magus of the Moon
-4 Huntmaster of the Fells
-5 Forest
-4 Utopia Sprawl

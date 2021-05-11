@@ -25,8 +25,8 @@
 2 Supreme Verdict
 2 Shark Typhoon
 2 Absorb
-3 Island
 3 Dig Through Time
+3 Island
 3 Supreme Verdict
 3 Shark Typhoon
 3 Absorb
@@ -35,14 +35,14 @@
 3 Steam Vents
 4 Steam Vents
 1 Bomat Courier
-1 Shivan Reef
 1 Spirebluff Canal
+1 Shivan Reef
 1 Emry, Lurker of the Loch
 1 Lightning Strike
 1 Skilled Animator
 2 Bomat Courier
-2 Spirebluff Canal
 2 Shivan Reef
+2 Spirebluff Canal
 2 Lightning Strike
 2 Skilled Animator
 3 Bomat Courier
@@ -50,8 +50,8 @@
 3 Spirebluff Canal
 3 Skilled Animator
 3 Lightning Strike
-4 Spirebluff Canal
 4 Bomat Courier
+4 Spirebluff Canal
 4 Shivan Reef
 4 Skilled Animator
 1 Cast Out
@@ -65,8 +65,8 @@
 3 Raugrin Triome
 4 Raugrin Triome
 1 Jwari Disruption
-1 Hieroglyphic Illumination
 1 Rip Apart
+1 Hieroglyphic Illumination
 1 Rewind
 1 Torrential Gearhulk
 1 Magma Opus
@@ -78,15 +78,15 @@
 4 Glacial Fortress
 4 Censor
 4 Fabled Passage
-1 Field of Ruin
 1 Irrigated Farmland
-1 Detention Sphere
-1 Castle Ardenvale
 1 Dovin's Veto
 1 Seal Away
-2 Field of Ruin
+1 Castle Ardenvale
+1 Field of Ruin
+1 Detention Sphere
 2 Irrigated Farmland
 2 Seal Away
+2 Field of Ruin
 3 Plains
 3 Teferi, Hero of Dominaria
 3 Seal Away
@@ -106,13 +106,13 @@
 3 Bonecrusher Giant
 4 Bonecrusher Giant
 2 Hieroglyphic Illumination
+1 Into the Roil
+2 Into the Roil
+2 Detention Sphere
 1 Search for Azcanta
 1 Behold the Multiverse
 2 Behold the Multiverse
 2 Castle Ardenvale
-1 Into the Roil
-2 Into the Roil
-2 Detention Sphere
 1 Temple of Epiphany
 1 Anger of the Gods
 1 Temple of Triumph
@@ -147,13 +147,13 @@
 4 Sphinx of Foresight
 4 Cavalier of Flame
 4 Fires of Invention
-1 Thassa's Intervention
 1 Riverglide Pathway
 1 Silumgar's Scorn
 1 Glorybringer
 1 Goldspan Dragon
-2 Glorybringer
+1 Thassa's Intervention
 2 Thassa's Intervention
+2 Glorybringer
 2 Riverglide Pathway
 2 Silumgar's Scorn
 2 Goldspan Dragon
@@ -161,15 +161,15 @@
 3 Riverglide Pathway
 3 Glorybringer
 3 Goldspan Dragon
-3 Thassa's Intervention
 3 Silumgar's Scorn
+3 Thassa's Intervention
 3 Brazen Borrower
 3 Sacred Foundry
 4 Deafening Clarion
 4 Brazen Borrower
 4 Silumgar's Scorn
-4 Riverglide Pathway
 4 Thassa's Intervention
+4 Riverglide Pathway
 4 Glorybringer
 4 Goldspan Dragon
 4 Sacred Foundry
