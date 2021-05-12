@@ -110,6 +110,15 @@
 2 Shatterskull Smashing
 3 Shatterskull Smashing
 4 Shatterskull Smashing
+1 Make Your Mark
+1 Guiding Voice
+2 Make Your Mark
+2 Guiding Voice
+3 Make Your Mark
+3 Guiding Voice
+4 Basri's Lieutenant
+4 Make Your Mark
+4 Guiding Voice
 1 Proud Wildbonder
 1 Stonecoil Serpent
 2 Proud Wildbonder
@@ -117,30 +126,6 @@
 3 Stonecoil Serpent
 4 Stonecoil Serpent
 4 Reidane, God of the Worthy
-1 Maul of the Skyclaves
-1 Fireblade Charger
-1 Tazri, Beacon of Unity
-1 Archpriest of Iona
-1 Hengegate Pathway
-1 Tajuru Paragon
-2 Maul of the Skyclaves
-2 Fireblade Charger
-2 Archpriest of Iona
-2 Tajuru Paragon
-3 Fireblade Charger
-3 Archpriest of Iona
-3 Tajuru Paragon
-4 Archpriest of Iona
-4 Tajuru Paragon
-1 Make Your Mark
-1 Guiding Voice
-2 Make Your Mark
-2 Guiding Voice
-3 Guiding Voice
-3 Make Your Mark
-4 Basri's Lieutenant
-4 Guiding Voice
-4 Make Your Mark
 1 Bolt Hound
 1 Igneous Cur
 1 Pack Leader
@@ -163,6 +148,21 @@
 4 Embercleave
 4 Alpine Houndmaster
 4 Pack Leader
+1 Maul of the Skyclaves
+1 Fireblade Charger
+1 Tazri, Beacon of Unity
+1 Archpriest of Iona
+1 Hengegate Pathway
+1 Tajuru Paragon
+2 Maul of the Skyclaves
+2 Fireblade Charger
+2 Archpriest of Iona
+2 Tajuru Paragon
+3 Fireblade Charger
+3 Archpriest of Iona
+3 Tajuru Paragon
+4 Tajuru Paragon
+4 Archpriest of Iona
 1 Esika's Chariot
 1 Barkchannel Pathway
 2 Esika's Chariot
@@ -182,8 +182,8 @@
 4 Edgewall Innkeeper
 4 Lovestruck Beast
 6 Forest
-1 Battlefield Raptor
 1 Strict Proctor
+1 Battlefield Raptor
 2 Battlefield Raptor
 2 Strict Proctor
 3 Battlefield Raptor

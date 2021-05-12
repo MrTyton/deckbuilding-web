@@ -20,11 +20,11 @@
 1 Lightning Bolt
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
-1 Time Warp
 1 Steam Vents
 1 Savor the Moment
-2 Time Warp
+1 Time Warp
 2 Savor the Moment
+2 Time Warp
 3 Savor the Moment
 3 Time Warp
 4 Time Warp
@@ -59,8 +59,8 @@
 2 Jace, the Mind Sculptor
 3 Arid Mesa
 1 Prismari Command
-1 Snow-Covered Island
 1 Remand
+1 Snow-Covered Island
 2 Prismari Command
 2 Remand
 2 Lightning Bolt
@@ -117,22 +117,22 @@
 2 Shark Typhoon
 3 Shark Typhoon
 4 Shark Typhoon
-1 Chalice of the Void
-2 Chalice of the Void
-3 Chalice of the Void
-4 Chalice of the Void
 1 Emrakul, the Aeons Torn
 2 Nahiri, the Harbinger
 3 Nahiri, the Harbinger
 4 Nahiri, the Harbinger
+1 Chalice of the Void
+2 Chalice of the Void
+3 Chalice of the Void
+4 Chalice of the Void
 1 Ephemerate
 1 Wall of Omens
 1 Noble Hierarch
 1 Plains
 2 Plains
 2 Ephemerate
-2 Wall of Omens
 2 Temple Garden
+2 Wall of Omens
 2 Forest
 2 Kiki-Jiki, Mirror Breaker
 3 Ephemerate
@@ -140,9 +140,9 @@
 3 Forest
 3 Kiki-Jiki, Mirror Breaker
 3 Fire-Lit Thicket
+4 Ephemerate
 4 Wall of Omens
 4 Kiki-Jiki, Mirror Breaker
-4 Ephemerate
 4 Forest
 5 Forest
 1 Narset, Parter of Veils
@@ -151,13 +151,13 @@
 2 Raugrin Triome
 3 Velomachus Lorehold
 4 Prismari Command
-1 Waterlogged Grove
-1 Sea Gate Restoration
 1 Castle Vantress
+1 Sea Gate Restoration
 1 Island
 1 Tranquil Thicket
+1 Waterlogged Grove
 2 Castle Vantress
 2 Tranquil Thicket
 2 Flooded Strand
-4 Path to Exile
 3 Flooded Strand
+4 Path to Exile

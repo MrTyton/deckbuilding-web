@@ -2,22 +2,14 @@
 1 Flunk
 2 Flunk
 1 Embereth Shieldbreaker
+2 Castle Locthwain
 4 Swamp
 5 Swamp
 3 Valki, God of Lies
-2 Castle Locthwain
 3 Mountain
+3 Temple of Malice
 4 Mountain
 6 Swamp
-3 Temple of Malice
-1 Agonizing Remorse
-2 Agonizing Remorse
-3 Agonizing Remorse
-5 Mountain
-7 Swamp
-1 Savai Triome
-2 Savai Triome
-3 Mire Triton
 1 Shatterskull Smashing
 2 Shatterskull Smashing
 3 Bloodchief's Thirst
@@ -33,36 +25,42 @@
 1 Mystical Dispute
 1 Mazemind Tome
 1 Temple of Deceit
+1 Agonizing Remorse
 1 Spikefield Hazard
 1 Strategic Planning
 2 Strategic Planning
 2 Spikefield Hazard
 2 Sea Gate Stormcaller
 2 Mazemind Tome
+2 Agonizing Remorse
 2 Mystical Dispute
 3 Strategic Planning
 3 Magmatic Channeler
 3 Mystical Dispute
 3 Mazemind Tome
+3 Agonizing Remorse
 4 Magmatic Channeler
 4 Agonizing Remorse
-1 Nighthawk Scavenger
 1 Grimdancer
 1 Grasp of Darkness
 1 Varragoth, Bloodsky Sire
 1 Labyrinth Raptor
 1 Embercleave
+1 Savai Triome
 1 Murderous Rider
-2 Nighthawk Scavenger
+1 Nighthawk Scavenger
 2 Varragoth, Bloodsky Sire
 2 Murderous Rider
+2 Savai Triome
 2 Embercleave
 2 Labyrinth Raptor
+2 Nighthawk Scavenger
 2 Grimdancer
 2 Grasp of Darkness
 3 Castle Locthwain
 3 Murderous Rider
 3 Nighthawk Scavenger
+3 Mire Triton
 3 Grimdancer
 3 Labyrinth Raptor
 3 Savai Triome
@@ -85,63 +83,48 @@
 2 Immersturm Predator
 2 Egon, God of Death
 3 Egon, God of Death
-3 The Akroan War
 3 Colossal Plow
 3 Immersturm Predator
+3 The Akroan War
 3 Tymaret Calls the Dead
 4 The Akroan War
 4 Egon, God of Death
 4 Colossal Plow
 4 Tymaret Calls the Dead
 4 Bonecrusher Giant
+5 Mountain
 6 Mountain
-1 Archfiend's Vessel
-1 Skyclave Shade
-1 Call of the Death-Dweller
-1 Mire's Grasp
-1 Bloodfell Caves
-1 Fireblade Charger
-1 Agadeem's Awakening
-1 Shredded Sails
-2 Archfiend's Vessel
-2 Skyclave Shade
-2 Call of the Death-Dweller
-2 Mire's Grasp
-3 Archfiend's Vessel
-3 Skyclave Shade
-4 Mire Triton
-8 Swamp
-9 Swamp
-1 Snow-Covered Swamp
-1 Faceless Haven
-1 Kitesail Freebooter
+7 Swamp
 1 Clackbridge Troll
 1 Scourge of the Skyclaves
+1 Kitesail Freebooter
 1 Eat to Extinction
 1 Duress
 1 Tergrid, God of Fright
-2 Snow-Covered Swamp
-2 Kitesail Freebooter
+1 Faceless Haven
+1 Snow-Covered Swamp
 2 Clackbridge Troll
 2 Duress
 2 Eat to Extinction
 2 Scourge of the Skyclaves
 2 Tergrid, God of Fright
 2 Faceless Haven
-3 Snow-Covered Swamp
-3 Kitesail Freebooter
+2 Snow-Covered Swamp
+2 Kitesail Freebooter
 3 Faceless Haven
 3 Tergrid, God of Fright
+3 Snow-Covered Swamp
 3 Scourge of the Skyclaves
+3 Kitesail Freebooter
 3 Duress
-4 Valki, God of Lies
-4 Snow-Covered Swamp
-4 Kitesail Freebooter
 4 Heartless Act
 4 Tergrid, God of Fright
+4 Snow-Covered Swamp
 4 Faceless Haven
+4 Kitesail Freebooter
 4 Duress
 4 Scourge of the Skyclaves
+4 Valki, God of Lies
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp

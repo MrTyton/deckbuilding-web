@@ -1,16 +1,19 @@
-1 Shadowspear
-1 Legion Angel
+2 Lurrus of the Dream-Den
+3 Reidane, God of the Worthy
 1 Usher of the Fallen
 2 Usher of the Fallen
-3 Reidane, God of the Worthy
+1 Shadowspear
 2 Legion Angel
 1 Castle Ardenvale
 1 Drannith Magistrate
 2 Drannith Magistrate
 1 Blade Historian
 2 Blade Historian
+3 Lurrus of the Dream-Den
 1 Glass Casket
 2 Glass Casket
+2 Castle Ardenvale
+3 Blade Historian
 1 Plains
 2 Plains
 3 Plains
@@ -29,20 +32,6 @@
 16 Plains
 17 Plains
 18 Plains
-3 Lurrus of the Dream-Den
-1 Heliod, Sun-Crowned
-1 Daxos, Blessed by the Sun
-1 Speaker of the Heavens
-1 Linden, the Steadfast Queen
-2 Daxos, Blessed by the Sun
-2 Heliod, Sun-Crowned
-2 Linden, the Steadfast Queen
-2 Speaker of the Heavens
-3 Daxos, Blessed by the Sun
-3 Speaker of the Heavens
-4 Speaker of the Heavens
-3 Blade Historian
-2 Castle Ardenvale
 1 Garrison Cat
 1 Banishing Light
 1 Lavabrink Venturer
@@ -57,11 +46,12 @@
 4 Angelic Ascension
 1 Charming Prince
 2 Charming Prince
+3 Usher of the Fallen
 1 Show of Confidence
-1 Guiding Voice
 1 Faerie Guidemother
-1 Mavinda, Students' Advocate
+1 Guiding Voice
 1 Study Break
+1 Mavinda, Students' Advocate
 1 Hero of the Pride
 1 Sparring Regimen
 1 Make Your Mark
@@ -73,15 +63,15 @@
 1 Leonin Lightscribe
 1 Clarion Spirit
 2 Show of Confidence
-2 Guiding Voice
 2 Faerie Guidemother
-2 Feat of Resistance
+2 Guiding Voice
 2 Study Break
 2 Hero of the Pride
 2 Make Your Mark
 2 Defiant Strike
 2 Sejiri Shelter
 2 Clever Lumimancer
+2 Feat of Resistance
 2 Clarion Spirit
 3 Show of Confidence
 3 Guiding Voice
@@ -95,20 +85,24 @@
 4 Faerie Guidemother
 4 Clever Lumimancer
 4 Hero of the Pride
-1 Luminous Broodmoth
-1 Radiant Fountain
-2 Radiant Fountain
-3 Radiant Fountain
-3 Heliod, Sun-Crowned
-4 Daxos, Blessed by the Sun
-4 Radiant Fountain
 1 Professor of Symbology
 2 Professor of Symbology
 3 Professor of Symbology
 3 Glass Casket
 4 Professor of Symbology
 4 Glass Casket
-19 Plains
+1 Heliod, Sun-Crowned
+1 Daxos, Blessed by the Sun
+1 Speaker of the Heavens
+1 Linden, the Steadfast Queen
+2 Daxos, Blessed by the Sun
+2 Heliod, Sun-Crowned
+2 Speaker of the Heavens
+2 Linden, the Steadfast Queen
+3 Daxos, Blessed by the Sun
+3 Speaker of the Heavens
+4 Speaker of the Heavens
+20 Plains
 21 Plains
 22 Plains
-20 Plains
+19 Plains

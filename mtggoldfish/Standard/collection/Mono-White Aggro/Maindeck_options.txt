@@ -1,13 +1,13 @@
 2 Maul of the Skyclaves
-3 Reidane, God of the Worthy
 3 Maul of the Skyclaves
+3 Reidane, God of the Worthy
 4 Maul of the Skyclaves
 2 Lurrus of the Dream-Den
 1 Shadowspear
-1 Glass Casket
 1 Professor of Symbology
-2 Glass Casket
+1 Glass Casket
 2 Professor of Symbology
+2 Glass Casket
 3 Professor of Symbology
 3 Glass Casket
 4 Professor of Symbology
@@ -15,13 +15,16 @@
 21 Snow-Covered Plains
 1 Usher of the Fallen
 2 Usher of the Fallen
-22 Snow-Covered Plains
 1 Blade Historian
 2 Blade Historian
-3 Drannith Magistrate
+22 Snow-Covered Plains
+1 Castle Ardenvale
+2 Castle Ardenvale
+3 Usher of the Fallen
+3 Lurrus of the Dream-Den
+1 Sparring Regimen
 1 Baneslayer Angel
 1 Dramatic Finale
-1 Sparring Regimen
 23 Snow-Covered Plains
 24 Snow-Covered Plains
 25 Snow-Covered Plains
@@ -31,9 +34,4 @@
 29 Snow-Covered Plains
 1 Archon of Emeria
 2 Archon of Emeria
-1 Sentinel's Eyes
-2 Sentinel's Eyes
-1 Castle Ardenvale
-2 Castle Ardenvale
-3 Usher of the Fallen
-3 Lurrus of the Dream-Den
+3 Drannith Magistrate

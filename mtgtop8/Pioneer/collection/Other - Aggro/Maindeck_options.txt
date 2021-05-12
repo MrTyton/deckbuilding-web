@@ -2,10 +2,6 @@
 2 Luminarch Aspirant
 3 Luminarch Aspirant
 4 Luminarch Aspirant
-1 Kytheon, Hero of Akros
-4 Mutavault
-3 Giant Killer
-4 Giant Killer
 3 Plains
 1 Collected Company
 2 Collected Company
@@ -32,41 +28,52 @@
 2 Scavenging Ooze
 3 Elvish Mystic
 4 Lovestruck Beast
-1 Fortified Village
 1 Sunpetal Grove
 1 Forest
 2 Sunpetal Grove
 2 Forest
-3 Sunpetal Grove
 3 Forest
 4 Elvish Mystic
-4 Sunpetal Grove
 4 Forest
 5 Forest
-6 Forest
 1 Branchloft Pathway
 2 Branchloft Pathway
 3 Branchloft Pathway
 3 Voice of Resurgence
-4 Voice of Resurgence
 4 Branchloft Pathway
 4 Skyclave Apparition
+4 Plains
 1 The Great Henge
 2 The Great Henge
-1 Yasharn, Implacable Earth
-1 Tireless Tracker
 1 Archon of Emeria
 1 Elite Spellbinder
-2 Yasharn, Implacable Earth
 2 Elite Spellbinder
 2 Archon of Emeria
 3 Elite Spellbinder
 3 Archon of Emeria
 4 Elite Spellbinder
 4 Archon of Emeria
+1 Kytheon, Hero of Akros
+4 Mutavault
+3 Giant Killer
+4 Giant Killer
+4 Llanowar Elves
+1 Fortified Village
+3 Sunpetal Grove
+4 Sunpetal Grove
+6 Forest
+4 Voice of Resurgence
+1 Mana Confluence
+1 Yasharn, Implacable Earth
+1 Tireless Tracker
+2 Yasharn, Implacable Earth
+1 Kazandu Mammoth
+1 Emeria's Call
+2 Kazandu Mammoth
+3 Kazandu Mammoth
+4 Kazandu Mammoth
 1 Codespell Cleric
 2 Codespell Cleric
-4 Plains
 4 Caves of Koilos
 1 Selfless Spirit
 1 Dire Tactics
@@ -77,7 +84,6 @@
 3 Mardu Woe-Reaper
 3 Codespell Cleric
 4 Codespell Cleric
-4 Llanowar Elves
 1 Bonecrusher Giant
 1 Breeding Pool
 1 Stomping Ground
@@ -95,9 +101,9 @@
 1 Lightning Strike
 2 Lightning Strike
 3 Lightning Strike
-1 Bonders' Enclave
 1 Scavenger Grounds
 1 Embercleave
+1 Bonders' Enclave
 1 Nimble Obstructionist
 1 Stubborn Denial
 1 Klothys, God of Destiny
@@ -123,57 +129,6 @@
 4 Shivan Reef
 4 Boon Satyr
 4 Cragcrown Pathway
-1 Castle Ardenvale
-1 Glorybringer
-1 Mountain
-2 Glorybringer
-1 Swamp
-1 Isolated Chapel
-1 Sorin, Solemn Visitor
-1 Blood Crypt
-1 Shambling Vent
-1 Valki, God of Lies
-1 Magmatic Channeler
-1 Utter End
-1 Savai Triome
-1 History of Benalia
-1 Sacred Foundry
-1 Elspeth, Sun's Champion
-1 Gideon, Ally of Zendikar
-1 Dreadbore
-1 Crackling Doom
-1 Seraph of the Scales
-1 Castle Locthwain
-1 Needle Spires
-1 Heartless Act
-1 Dragonskull Summit
-2 Gideon, Ally of Zendikar
-2 Isolated Chapel
-2 Shambling Vent
-2 Blood Crypt
-2 Magmatic Channeler
-2 Savai Triome
-2 History of Benalia
-2 Sacred Foundry
-2 Heartless Act
-2 Castle Ardenvale
-2 Utter End
-2 Crackling Doom
-2 Castle Locthwain
-2 Seraph of the Scales
-2 Sorin, Solemn Visitor
-2 Dragonskull Summit
-3 Savai Triome
-3 Magmatic Channeler
-3 History of Benalia
-3 Sacred Foundry
-3 Seraph of the Scales
-3 Crackling Doom
-4 Lightning Strike
-4 Magmatic Channeler
-4 History of Benalia
-4 Sacred Foundry
-4 Crackling Doom
 1 Reflector Mage
 1 Charming Prince
 1 Hengegate Pathway
@@ -182,7 +137,6 @@
 1 Oketra's Monument
 1 Glasspool Mimic
 1 Botanical Sanctum
-1 Mana Confluence
 2 Mana Confluence
 2 Hengegate Pathway
 2 Reflector Mage
@@ -208,7 +162,9 @@
 4 Reflector Mage
 4 Hallowed Fountain
 4 Hengegate Pathway
-1 Ketria Triome
+1 Glorybringer
+1 Mountain
+2 Glorybringer
 1 Vorinclex, Monstrous Raider
 1 Alrund's Epiphany
 1 Hydroid Krasis
@@ -216,11 +172,12 @@
 1 Rootbound Crag
 1 Edgewall Innkeeper
 1 Steam Vents
+1 Ketria Triome
 1 Island
 1 Brazen Borrower
 2 Nissa, Who Shakes the World
-2 Ketria Triome
 2 Alrund's Epiphany
+2 Ketria Triome
 2 Rootbound Crag
 2 Hydroid Krasis
 2 Edgewall Innkeeper
@@ -241,6 +198,54 @@
 4 Rootbound Crag
 4 Steam Vents
 4 Brazen Borrower
+1 Castle Ardenvale
+1 Swamp
+1 Isolated Chapel
+1 Sorin, Solemn Visitor
+1 Blood Crypt
+1 Shambling Vent
+1 Valki, God of Lies
+1 Magmatic Channeler
+1 Utter End
+1 Savai Triome
+1 History of Benalia
+1 Sacred Foundry
+1 Elspeth, Sun's Champion
+1 Gideon, Ally of Zendikar
+1 Dreadbore
+1 Crackling Doom
+1 Seraph of the Scales
+1 Castle Locthwain
+1 Heartless Act
+1 Needle Spires
+1 Dragonskull Summit
+2 Gideon, Ally of Zendikar
+2 Isolated Chapel
+2 Shambling Vent
+2 Blood Crypt
+2 Magmatic Channeler
+2 Savai Triome
+2 History of Benalia
+2 Sacred Foundry
+2 Heartless Act
+2 Castle Ardenvale
+2 Utter End
+2 Crackling Doom
+2 Castle Locthwain
+2 Seraph of the Scales
+2 Sorin, Solemn Visitor
+2 Dragonskull Summit
+3 Savai Triome
+3 Magmatic Channeler
+3 History of Benalia
+3 Sacred Foundry
+3 Seraph of the Scales
+3 Crackling Doom
+4 Magmatic Channeler
+4 History of Benalia
+4 Sacred Foundry
+4 Crackling Doom
+4 Lightning Strike
 1 Rhonas the Indomitable
 1 Knight of Autumn
 1 Temple of Plenty
@@ -257,9 +262,9 @@
 4 Steel Leaf Champion
 7 Forest
 1 Sorin, Vengeful Bloodlord
-1 Speaker of the Heavens
 1 Mazemind Tome
 1 Shalai, Voice of Plenty
+1 Speaker of the Heavens
 1 Lyra Dawnbringer
 1 Vito, Thorn of the Dusk Rose
 1 Bishop of Wings
@@ -267,8 +272,8 @@
 1 Command the Dreadhorde
 1 Revival / Revenge
 1 Righteous Valkyrie
-2 Speaker of the Heavens
 2 Sorin, Vengeful Bloodlord
+2 Speaker of the Heavens
 2 Mazemind Tome
 2 Resplendent Angel
 2 Righteous Valkyrie
@@ -277,16 +282,16 @@
 2 Vito, Thorn of the Dusk Rose
 2 Lyra Dawnbringer
 2 Bishop of Wings
-3 Speaker of the Heavens
 3 Mazemind Tome
+3 Speaker of the Heavens
 3 Sorin, Vengeful Bloodlord
 3 Bishop of Wings
 3 Resplendent Angel
 3 Righteous Valkyrie
 3 Shalai, Voice of Plenty
 3 Revival / Revenge
-4 Speaker of the Heavens
 4 Mazemind Tome
+4 Speaker of the Heavens
 4 Sorin, Vengeful Bloodlord
 4 Resplendent Angel
 4 Revival / Revenge

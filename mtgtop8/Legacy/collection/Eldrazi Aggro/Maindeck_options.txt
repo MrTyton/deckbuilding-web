@@ -1,11 +1,40 @@
 1 Wastes
 1 Mishra's Factory
-2 Mishra's Factory
 3 City of Traitors
+2 Mishra's Factory
 1 Lotus Petal
 2 Lotus Petal
 3 Lotus Petal
 4 Lotus Petal
+1 Simian Spirit Guide
+2 Simian Spirit Guide
+3 Simian Spirit Guide
+4 Simian Spirit Guide
+1 Mountain
+1 Blood Sun
+1 Punishing Fire
+1 Grove of the Burnwillows
+1 Bonecrusher Giant
+1 Goblin Rabblemaster
+1 Fiery Confluence
+1 Chrome Mox
+2 Blood Sun
+2 Punishing Fire
+2 Grove of the Burnwillows
+2 Chrome Mox
+2 Goblin Rabblemaster
+2 Fiery Confluence
+2 Mountain
+3 Blood Sun
+3 Grove of the Burnwillows
+3 Punishing Fire
+3 Goblin Rabblemaster
+3 Mountain
+4 Blood Sun
+4 Punishing Fire
+4 Grove of the Burnwillows
+4 Goblin Rabblemaster
+4 Mountain
 2 Karakas
 1 Blast Zone
 1 Grim Monolith
@@ -35,36 +64,13 @@
 4 Plague Engineer
 4 Caves of Koilos
 4 Elvish Spirit Guide
-1 Simian Spirit Guide
-2 Simian Spirit Guide
-3 Simian Spirit Guide
-4 Simian Spirit Guide
-1 Mountain
-1 Blood Sun
-1 Punishing Fire
-1 Grove of the Burnwillows
-1 Bonecrusher Giant
-1 Goblin Rabblemaster
-1 Fiery Confluence
-1 Chrome Mox
-2 Blood Sun
-2 Punishing Fire
-2 Grove of the Burnwillows
+1 Shatterskull Smashing
+2 Shatterskull Smashing
+3 Shatterskull Smashing
+5 Mountain
+6 Mountain
 2 Bonecrusher Giant
-2 Chrome Mox
-2 Goblin Rabblemaster
-2 Fiery Confluence
-2 Mountain
-3 Blood Sun
-3 Grove of the Burnwillows
-3 Punishing Fire
-3 Goblin Rabblemaster
-3 Mountain
-4 Blood Sun
-4 Punishing Fire
-4 Grove of the Burnwillows
-4 Goblin Rabblemaster
-4 Mountain
+4 City of Traitors
 3 Vesuva
 2 Ulamog, the Ceaseless Hunger
 2 All Is Dust
@@ -84,18 +90,14 @@
 3 Ulamog, the Ceaseless Hunger
 4 Thran Dynamo
 4 Golos, Tireless Pilgrim
+1 Wandering Archaic
 1 Warping Wail
 1 Thorn of Amethyst
 1 Trinisphere
-1 Wandering Archaic
 1 Mutavault
 2 Trinisphere
 2 Warping Wail
 2 Blast Zone
-3 Mishra's Factory
-1 Llanowar Wastes
-2 Llanowar Wastes
-3 Llanowar Wastes
 1 Hazoret the Fervent
 1 Eldrazi Obligator
 1 Emberwilde Captain
@@ -103,7 +105,12 @@
 1 Abrade
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
-4 City of Traitors
+3 Mishra's Factory
+1 Chandra, Torch of Defiance
+3 Fiery Confluence
+1 Llanowar Wastes
+2 Llanowar Wastes
+3 Llanowar Wastes
 1 Kozilek, the Great Distortion
 3 Endbringer
 4 Endbringer
@@ -139,9 +146,4 @@
 4 Mox Diamond
 4 Eldrazi Displacer
 4 Thalia, Guardian of Thraben
-1 Shatterskull Smashing
-2 Shatterskull Smashing
-3 Shatterskull Smashing
-5 Mountain
-6 Mountain
 7 Mountain
