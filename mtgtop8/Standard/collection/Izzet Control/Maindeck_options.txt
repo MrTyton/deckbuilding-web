@@ -21,11 +21,11 @@
 1 Cinderclasm
 2 Fire Prophecy
 2 Shatterskull Smashing
-1 Draconic Intervention
 1 Island
+1 Draconic Intervention
 1 Mountain
-2 Draconic Intervention
 2 Island
+2 Draconic Intervention
 2 Mountain
 3 Prismari Command
 3 Mountain
@@ -73,21 +73,21 @@
 3 Experimental Overload
 4 Experimental Overload
 1 Graven Lore
-1 Test of Talents
-2 Test of Talents
-3 Shatterskull Smashing
-3 Shark Typhoon
 1 Solemn Simulacrum
 2 Crawling Barrens
 2 Solemn Simulacrum
 3 Jwari Disruption
 3 Solemn Simulacrum
+1 Test of Talents
+2 Test of Talents
+3 Shark Typhoon
+3 Shatterskull Smashing
 1 Pop Quiz
 1 Igneous Inspiration
-1 Heated Debate
 1 Improbable Alliance
 1 Evolving Wilds
 1 Rowan, Scholar of Sparks
+1 Heated Debate
 1 Rootha, Mercurial Artist
 2 Pop Quiz
 2 Igneous Inspiration
@@ -95,15 +95,15 @@
 2 Evolving Wilds
 2 Rootha, Mercurial Artist
 3 Pop Quiz
-3 Improbable Alliance
 3 Igneous Inspiration
+3 Improbable Alliance
 3 Evolving Wilds
 3 Rootha, Mercurial Artist
 3 Opt
 4 Opt
 4 Pop Quiz
-4 Improbable Alliance
 4 Igneous Inspiration
+4 Improbable Alliance
 4 Evolving Wilds
 1 Castle Vantress
 1 Raugrin Triome
@@ -142,11 +142,11 @@
 4 Blitz of the Thunder-Raptor
 1 Mystic Sanctuary
 1 Frantic Inventory
-1 Elemental Masterpiece
-1 Shipwreck Dowser
-1 Teferi, Master of Time
-1 Swiftwater Cliffs
 1 Practical Research
+1 Teferi, Master of Time
+1 Shipwreck Dowser
+1 Elemental Masterpiece
+1 Swiftwater Cliffs
 2 Frantic Inventory
 2 Elemental Masterpiece
 2 Swiftwater Cliffs
@@ -165,8 +165,8 @@
 4 Torrent Sculptor
 4 Creative Outburst
 4 Draconic Intervention
+4 Island
 5 Island
 6 Island
-7 Island
 8 Island
-4 Island
+7 Island

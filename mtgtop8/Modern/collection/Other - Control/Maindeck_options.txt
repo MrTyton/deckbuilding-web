@@ -1,10 +1,10 @@
 2 Sunken Ruins
 2 Creeping Tar Pit
 2 Tasigur, the Golden Fang
-2 Swamp
 2 Thoughtseize
 2 Eliminate
 2 Mana Leak
+2 Swamp
 2 Jace, the Mind Sculptor
 4 Field of Ruin
 1 Misty Rainforest
@@ -18,13 +18,13 @@
 4 Snow-Covered Island
 1 Explore
 1 Raugrin Triome
-1 Temple Garden
 1 Omnath, Locus of Creation
 1 Valki, God of Lies
 1 Dryad of the Ilysian Grove
 1 Scapeshift
 1 Breeding Pool
 1 Mountain
+1 Temple Garden
 1 Teferi, Time Raveler
 1 Windswept Heath
 1 Savai Triome
@@ -73,6 +73,7 @@
 4 Windswept Heath
 4 Wooded Foothills
 4 Lightning Bolt
+1 Ghost Quarter
 1 Karn, the Great Creator
 1 Elvish Rejuvenator
 1 Golos, Tireless Pilgrim
@@ -80,11 +81,10 @@
 1 Blast Zone
 1 Emrakul, the Aeons Torn
 1 Cavern of Souls
-1 Ghost Quarter
-1 Krosan Grip
 1 Once Upon a Time
-1 Chalice of the Void
+1 Krosan Grip
 1 Kozilek, Butcher of Truth
+1 Chalice of the Void
 1 Ulamog, the Ceaseless Hunger
 1 Cloudpost
 1 Glimmerpost
@@ -123,8 +123,8 @@
 3 Vesuva
 4 Ugin, the Spirit Dragon
 4 Karn, the Great Creator
-4 Elvish Rejuvenator
 4 Snow-Covered Forest
+4 Elvish Rejuvenator
 4 Vesuva
 4 Golos, Tireless Pilgrim
 4 Once Upon a Time

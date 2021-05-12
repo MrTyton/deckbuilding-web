@@ -1,9 +1,4 @@
-1 Bloodchief's Thirst
-1 Castle Locthwain
-1 Scavenging Ooze
-2 Scavenging Ooze
-4 Forest
-1 Temple of Malady
+3 Kroxa, Titan of Death's Hunger
 1 Zagoth Triome
 1 Klothys, God of Destiny
 1 Chevill, Bane of Monsters
@@ -13,19 +8,18 @@
 3 Bloodchief's Thirst
 3 Chevill, Bane of Monsters
 3 Binding the Old Gods
-1 Kroxa, Titan of Death's Hunger
-2 Kroxa, Titan of Death's Hunger
-3 Kroxa, Titan of Death's Hunger
 1 Savai Triome
-1 Murderous Rider
-3 Goldspan Dragon
-3 Embercleave
 1 Arni Brokenbrow
 1 Turntimber Symbiosis
+1 Foulmire Knight
+1 Questing Beast
+2 Embercleave
+2 Questing Beast
 2 Ketria Triome
 3 Questing Beast
 1 Masked Vandal
 1 Vivien, Monsters' Advocate
+2 Order of Midnight
 2 Polukranos, Unchained
 2 Masked Vandal
 3 The Great Henge
@@ -40,10 +34,10 @@
 2 Extinction Event
 2 Skyclave Shade
 2 Klothys, God of Destiny
-3 Klothys, God of Destiny
 3 Eliminate
 3 Magmatic Channeler
 3 Extinction Event
+3 Klothys, God of Destiny
 3 Skyclave Shade
 4 Extinction Event
 4 Magmatic Channeler
@@ -57,41 +51,43 @@
 1 Immersturm Predator
 2 Savai Triome
 2 Mire Triton
-2 The Akroan War
 2 Village Rites
+2 The Akroan War
 2 Claim the Firstborn
 2 Woe Strider
 2 Korvold, Fae-Cursed King
 2 Immersturm Predator
 3 Woe Strider
 3 Savai Triome
-3 Immersturm Predator
 3 Village Rites
+3 Immersturm Predator
 3 Mire Triton
 3 Claim the Firstborn
 3 Korvold, Fae-Cursed King
-4 Mire Triton
 4 Woe Strider
 4 Village Rites
+4 Mire Triton
 4 Claim the Firstborn
 4 Savai Triome
 1 Temple of Malice
-1 Gnottvold Slumbermound
 1 Temple of Abandon
+1 Esika's Chariot
 1 Blex, Vexing Pest
 1 Indatha Triome
-1 Esika's Chariot
+1 Gnottvold Slumbermound
 1 Cultivate
 1 Beledros Witherbloom
 1 Garruk, Cursed Huntsman
-2 Temple of Abandon
+1 Scavenging Ooze
 2 Valki, God of Lies
 2 Zagoth Triome
-2 Gnottvold Slumbermound
+2 Temple of Abandon
 2 Blex, Vexing Pest
 2 Garruk, Cursed Huntsman
+2 Gnottvold Slumbermound
 2 Cultivate
 2 Esika's Chariot
+2 Scavenging Ooze
 3 Esika's Chariot
 3 Valki, God of Lies
 3 Garruk, Cursed Huntsman
@@ -100,3 +96,4 @@
 4 Bloodchief's Thirst
 4 Binding the Old Gods
 4 Swamp
+4 Forest

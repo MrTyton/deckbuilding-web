@@ -33,26 +33,26 @@
 2 Polluted Delta
 3 Polluted Delta
 4 Polluted Delta
-1 Cling to Dust
-1 Fatal Push
 1 Eliminate
+1 Fatal Push
 1 Changeling Outcast
+1 Cling to Dust
 1 Ornithopter
 1 Yuriko, the Tiger's Shadow
 1 Ingenious Infiltrator
 1 Retrofitter Foundry
+2 Fatal Push
 2 Changeling Outcast
 2 Ornithopter
 2 Yuriko, the Tiger's Shadow
 2 Retrofitter Foundry
 2 Swamp
 2 Ingenious Infiltrator
-2 Fatal Push
+3 Fatal Push
 3 Yuriko, the Tiger's Shadow
 3 Retrofitter Foundry
 3 Ornithopter
 3 Ingenious Infiltrator
-3 Fatal Push
 3 Swamp
 3 Changeling Outcast
 4 Changeling Outcast
@@ -100,9 +100,6 @@
 1 Back to Basics
 2 Back to Basics
 3 Narset, Parter of Veils
-1 Crucible of Worlds
-3 Court of Cunning
-3 Supreme Verdict
 1 Vanishing Verse
 1 Estrid's Invocation
 1 Trial of Ambition
@@ -113,6 +110,9 @@
 2 Omen of the Sea
 2 Estrid's Invocation
 3 Omen of the Sea
+1 Crucible of Worlds
+3 Supreme Verdict
+3 Court of Cunning
 1 Rest in Peace
 1 Helm of Obedience
 2 Rest in Peace
@@ -120,29 +120,29 @@
 3 Rest in Peace
 1 Tranquil Thicket
 1 Savannah
-1 Verdant Catacombs
-1 Uro, Titan of Nature's Wrath
-1 Snow-Covered Forest
-1 Tropical Island
-1 Bayou
-1 Life from the Loam
-1 Bojuka Bog
-1 Abrupt Decay
 1 Crop Rotation
+1 Abrupt Decay
 1 Lonely Sandbar
 1 Forest
+1 Bojuka Bog
+1 Life from the Loam
 1 Mox Diamond
 1 Field of the Dead
+1 Tropical Island
+1 Bayou
+1 Snow-Covered Forest
+1 Verdant Catacombs
+1 Uro, Titan of Nature's Wrath
 2 Mox Diamond
-2 Abrupt Decay
 2 Field of the Dead
-2 Uro, Titan of Nature's Wrath
 2 Life from the Loam
+2 Uro, Titan of Nature's Wrath
+2 Abrupt Decay
 3 Wasteland
 3 Mox Diamond
-3 Uro, Titan of Nature's Wrath
 3 Life from the Loam
 3 Abrupt Decay
+3 Uro, Titan of Nature's Wrath
 3 Misty Rainforest
 4 Wasteland
 4 Abrupt Decay
@@ -195,19 +195,19 @@
 1 Impulse
 1 Burst Lightning
 1 Bonecrusher Giant
-1 Snapcaster Mage
-1 Lightning Bolt
 1 Faerie Conclave
+1 Lightning Bolt
+1 Snapcaster Mage
+2 Snapcaster Mage
 2 Fiery Islet
 2 Impulse
 2 Burst Lightning
 2 Bonecrusher Giant
-2 Volcanic Island
-2 Lightning Bolt
-2 Snapcaster Mage
 2 Faerie Conclave
-3 Snapcaster Mage
+2 Lightning Bolt
+2 Volcanic Island
 3 Bonecrusher Giant
+3 Snapcaster Mage
 3 Faerie Conclave
 3 Burst Lightning
 3 Brazen Borrower

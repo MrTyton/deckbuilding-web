@@ -1,6 +1,6 @@
 1 Skyclave Shade
-2 Skyclave Shade
 2 Eliminate
+2 Skyclave Shade
 3 Skyclave Shade
 2 Soul-Guide Lantern
 1 Idol of Endurance
@@ -9,13 +9,13 @@
 2 Fracture
 1 Shadowspear
 1 Expanded Anatomy
-1 Elite Spellbinder
-3 Drannith Magistrate
-3 Glass Casket
-2 Idol of Endurance
 1 Inkling Summoning
 1 Environmental Sciences
+2 Idol of Endurance
+1 Elite Spellbinder
+3 Drannith Magistrate
 2 Shadowspear
+3 Glass Casket
 4 Glass Casket
 1 Introduction to Prophecy
 1 Reduce to Memory
@@ -33,23 +33,20 @@
 1 Selfless Savior
 2 Expanded Anatomy
 1 Tormod's Crypt
-1 Archon of Absolution
-1 Legion Angel
-2 Legion Angel
 1 Heartless Act
+1 Archon of Absolution
 2 Reidane, God of the Worthy
 1 Mystical Dispute
 2 Mystical Dispute
-2 Tormod's Crypt
-1 Frost Bite
-1 The Akroan War
-2 The Akroan War
 1 Rip Apart
 1 Ox of Agonas
 1 Redcap Melee
 2 Redcap Melee
 2 Environmental Sciences
-2 Elite Spellbinder
+2 Tormod's Crypt
+1 Frost Bite
+1 The Akroan War
+2 The Akroan War
 1 Humiliate
 2 Humiliate
 3 Humiliate
@@ -63,6 +60,8 @@
 2 Inkling Summoning
 3 Light of Hope
 4 Humiliate
+1 Legion Angel
+2 Legion Angel
 3 Legion Angel
 1 Necrotic Fumes
 1 Mascot Exhibition
@@ -71,8 +70,8 @@
 1 Heliod, Sun-Crowned
 2 Sentinel's Eyes
 1 Satyr's Cunning
-1 Fire Prophecy
 1 Disdainful Stroke
+1 Fire Prophecy
 2 Fire Prophecy
 1 Flicker of Fate
 2 Flicker of Fate
@@ -89,14 +88,12 @@
 2 Ox of Agonas
 1 Bonecrusher Giant
 1 Skyclave Apparition
+2 Elite Spellbinder
 2 Bonecrusher Giant
 2 Skyclave Apparition
 1 Start from Scratch
 1 Scorching Dragonfire
 2 Scorching Dragonfire
-1 Swift Response
-2 Swift Response
-3 Mystical Dispute
 2 Archon of Absolution
 3 Archon of Absolution
 1 Maul of the Skyclaves
@@ -127,13 +124,16 @@
 2 Weathered Runestone
 3 Vanishing Verse
 3 Weathered Runestone
-1 Return to Nature
+1 Swift Response
+2 Swift Response
+3 Mystical Dispute
 1 Ranger's Guile
+1 Return to Nature
 1 Story Seeker
 1 Expel
 1 Blade Banish
-2 Return to Nature
 2 Ranger's Guile
+2 Return to Nature
 2 Expel
 2 Blade Banish
 2 Story Seeker
@@ -146,11 +146,6 @@
 2 Frost Bite
 3 Reidane, God of the Worthy
 4 Reidane, God of the Worthy
-1 Strict Proctor
-2 Strict Proctor
-3 Elite Spellbinder
-3 Strict Proctor
-4 Strict Proctor
 1 Outflank
 1 Divine Arrow
 2 Outflank

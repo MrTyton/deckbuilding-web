@@ -31,8 +31,8 @@
 1 Snow-Covered Island
 1 Snow-Covered Mountain
 2 Quandrix Cultivator
-2 Body of Research
 2 Lotus Cobra
+2 Body of Research
 2 Frostboil Snarl
 2 Snow-Covered Forest
 2 Snow-Covered Island
@@ -68,11 +68,11 @@
 1 Needleverge Pathway
 1 The World Tree
 1 Plains
+2 Semester's End
 2 Raugrin Triome
 2 Branchloft Pathway
 2 Needleverge Pathway
 2 Plains
-2 Semester's End
 2 The World Tree
 2 Velomachus Lorehold
 3 The World Tree
@@ -97,26 +97,27 @@
 2 Into the Roil
 2 Fire Prophecy
 3 Fire Prophecy
-3 Shark Typhoon
 3 Jwari Disruption
+3 Shark Typhoon
 4 Fire Prophecy
 4 Jwari Disruption
 4 Shark Typhoon
 1 Dryad of the Ilysian Grove
+1 Cosima, God of the Voyage
 1 Waking the Trolls
 1 Valakut Exploration
 1 Vivien, Monsters' Advocate
 1 Gnottvold Slumbermound
 1 Keruga, the Macrosage
+1 Depart the Realm
 1 Mythos of Illuna
 1 Chainweb Aracnir
 1 Esika's Chariot
 1 Elder Gargaroth
 1 Zimone, Quandrix Prodigy
-1 Depart the Realm
 1 Radha, Heart of Keld
 1 Inscription of Insight
-1 Cosima, God of the Voyage
+2 Cosima, God of the Voyage
 2 Mythos of Illuna
 2 Waking the Trolls
 2 Gnottvold Slumbermound
@@ -124,7 +125,6 @@
 2 Scorching Dragonfire
 2 Depart the Realm
 2 Chainweb Aracnir
-2 Cosima, God of the Voyage
 2 Zimone, Quandrix Prodigy
 2 Esika's Chariot
 2 Radha, Heart of Keld
@@ -196,8 +196,8 @@
 3 Thwart the Enemy
 4 Mountain
 4 Thrill of Possibility
-4 Teferi's Tutelage
 4 Improbable Alliance
+4 Teferi's Tutelage
 4 Thwart the Enemy
 4 Thirst for Meaning
 5 Mountain

@@ -1,13 +1,9 @@
-3 Skyclave Apparition
 3 Spreading Seas
+3 Skyclave Apparition
 4 Spreading Seas
 1 Snow-Covered Forest
 1 Snow-Covered Island
-1 Snow-Covered Plains
-2 Snow-Covered Forest
-1 Raugrin Triome
 1 Sacred Foundry
-1 Island
 1 Steam Vents
 1 Street Wraith
 1 Curator of Mysteries
@@ -16,9 +12,9 @@
 1 Striped Riverwinder
 2 Street Wraith
 2 Striped Riverwinder
+2 Curator of Mysteries
 2 Living End
 2 Windcaller Aven
-2 Curator of Mysteries
 3 Street Wraith
 3 Striped Riverwinder
 3 Windcaller Aven
@@ -27,23 +23,22 @@
 4 Striped Riverwinder
 4 Curator of Mysteries
 4 Windcaller Aven
-1 Brazen Borrower
 1 Force of Negation
 2 Force of Negation
 3 Force of Negation
-1 Ardent Plea
-2 Ardent Plea
-3 Ardent Plea
-4 Street Wraith
+1 Brazen Borrower
 4 Force of Negation
 1 Flooded Strand
+1 Ardent Plea
+2 Ardent Plea
 2 Flooded Strand
 3 Flooded Strand
+3 Ardent Plea
+4 Street Wraith
 4 Flooded Strand
 4 Ardent Plea
-1 Spirebluff Canal
-1 Violent Outburst
 1 Botanical Sanctum
+1 Violent Outburst
 1 Desert Cerodon
 2 Violent Outburst
 2 Desert Cerodon
@@ -51,17 +46,22 @@
 3 Desert Cerodon
 4 Violent Outburst
 4 Desert Cerodon
-2 Spirebluff Canal
+1 Spirebluff Canal
 2 Brazen Borrower
+2 Spirebluff Canal
+1 Island
+2 Botanical Sanctum
+3 Brazen Borrower
 1 Scalding Tarn
 2 Scalding Tarn
 3 Scalding Tarn
-2 Botanical Sanctum
-3 Brazen Borrower
-1 Deputy of Detention
+1 Snow-Covered Plains
 1 Glassdust Hulk
-4 Scalding Tarn
+1 Raugrin Triome
+2 Snow-Covered Forest
+1 Deputy of Detention
 4 Brazen Borrower
+4 Scalding Tarn
 1 Mana Confluence
 1 Inspiring Vantage
 2 Glassdust Hulk
@@ -69,55 +69,61 @@
 2 Lurrus of the Dream-Den
 1 Eternal Witness
 3 Snow-Covered Forest
-1 Mountain
-1 Kitchen Finks
 4 Wooded Foothills
+1 Kitchen Finks
+1 Knight of Autumn
 3 Birds of Paradise
 1 Ephemerate
-1 Knight of Autumn
+1 Mountain
 1 Fulminator Mage
 1 Forest
 1 Uro, Titan of Nature's Wrath
 1 Unearth
 2 Ephemerate
 3 Ephemerate
-1 On Thin Ice
 1 Seasoned Pyromancer
+1 On Thin Ice
 4 Skyclave Apparition
+1 Seachrome Coast
 2 Seal of Fire
 1 Plains
 1 Trial of Ambition
-1 Seachrome Coast
 1 Goblin Cratermaker
 1 Lithoform Blight
-4 Living End
-2 Island
-1 As Foretold
 1 Ice-Fang Coatl
 1 Ketria Triome
 2 Temple Garden
 2 Forest
+4 Living End
 1 Eidolon of Rhetoric
 1 Verdant Catacombs
 4 Teferi, Time Raveler
+3 Spirebluff Canal
+2 Island
+1 As Foretold
+3 Forest
+3 Glassdust Hulk
+1 Snow-Covered Swamp
+2 Verdant Catacombs
 2 As Foretold
 3 As Foretold
 4 As Foretold
-3 Spirebluff Canal
-3 Island
-3 Forest
-3 Glassdust Hulk
+1 Gemstone Mine
 2 Steam Vents
 3 Steam Vents
-1 Fiery Islet
-1 Remand
+3 Island
+1 Mystical Dispute
+1 Architects of Will
+2 Architects of Will
 1 Electrodominance
 1 Crashing Footfalls
 1 Silundi Vision
-2 Remand
-2 Fiery Islet
+1 Remand
+1 Fiery Islet
 2 Electrodominance
+2 Remand
 2 Crashing Footfalls
+2 Fiery Islet
 3 Remand
 3 Electrodominance
 3 Crashing Footfalls
@@ -125,48 +131,37 @@
 4 Electrodominance
 4 Crashing Footfalls
 4 Spirebluff Canal
-1 Snow-Covered Swamp
-2 Verdant Catacombs
-1 Mystical Dispute
-1 Architects of Will
-2 Architects of Will
 1 Calix, Destiny's Hand
 1 Indatha Triome
 2 Uro, Titan of Nature's Wrath
 2 Lithoform Blight
 3 Lithoform Blight
-4 Lithoform Blight
 4 Birds of Paradise
+4 Lithoform Blight
 1 Path to the World Tree
 2 Path to the World Tree
-1 Cryptic Command
 1 Voice of Resurgence
-1 Waker of Waves
-2 Waker of Waves
-3 Waker of Waves
-4 Island
-4 Waker of Waves
-1 Gemstone Mine
-1 Ancestral Vision
-1 Spell Pierce
-1 Tolaria West
-2 Spell Pierce
-3 Spell Pierce
+2 Seachrome Coast
 1 Vendilion Clique
 4 Glassdust Hulk
 2 Inspiring Vantage
 3 Botanical Sanctum
 2 Hallowed Fountain
+1 Waker of Waves
+2 Waker of Waves
+3 Waker of Waves
+4 Island
+4 Waker of Waves
 5 Island
 6 Island
-2 Seachrome Coast
+1 Cryptic Command
 1 Zagoth Triome
 1 Cosima, God of the Voyage
 1 Archon of Emeria
 1 Reidane, God of the Worthy
-1 Spike Feeder
-1 Heliod, Sun-Crowned
 1 Omen of the Dead
+1 Heliod, Sun-Crowned
+1 Spike Feeder
 1 Gilded Goose
 2 Gilded Goose
 2 Trial of Ambition
@@ -174,40 +169,24 @@
 3 Gilded Goose
 3 Omen of the Forge
 4 Omen of the Forge
-1 Gemstone Caverns
-2 Gemstone Caverns
 1 Valakut Awakening
 2 Valakut Awakening
+1 Gemstone Caverns
+2 Gemstone Caverns
 2 Mystical Dispute
 2 Snow-Covered Island
 3 Snow-Covered Island
 3 Hallowed Fountain
-1 Polluted Delta
-1 Generous Gift
-1 Sunken Ruins
-1 Faerie Macabre
-1 Imposing Vantasaur
-1 Failure/Comply
-1 Adarkar Wastes
-2 Polluted Delta
-2 Faerie Macabre
-2 Adarkar Wastes
-2 Generous Gift
-2 Imposing Vantasaur
-2 Failure/Comply
-3 Seachrome Coast
-3 Polluted Delta
-3 Adarkar Wastes
-3 Imposing Vantasaur
-4 Seachrome Coast
-4 Imposing Vantasaur
-4 Polluted Delta
-4 Adarkar Wastes
+1 Spell Pierce
+1 Ancestral Vision
+1 Tolaria West
+2 Spell Pierce
+3 Spell Pierce
+4 Botanical Sanctum
 1 Watery Grave
 2 Breeding Pool
 3 Architects of Will
 4 Architects of Will
-4 Botanical Sanctum
 1 Glacial Fortress
 2 Cryptic Command
 2 Glacial Fortress
