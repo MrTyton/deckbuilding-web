@@ -155,6 +155,6 @@
 |                    3|[Woodland Cemetery](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443136)        |                     |                                                                                                    |
 |                    3|[Hinterland Harbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443128)        |                     |                                                                                                    |
 |                    3|[The Raven's Warning](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503843)      |                     |                                                                                                    |
-|                    4|[Nicol Bolas, the Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447354) |                     |                                                                                                    |
 |                    4|[Binding the Old Gods](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503822)     |                     |                                                                                                    |
+|                    4|[Nicol Bolas, the Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447354) |                     |                                                                                                    |
 

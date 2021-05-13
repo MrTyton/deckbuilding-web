@@ -1,15 +1,10 @@
+3 Nykthos, Shrine to Nyx
+4 Nykthos, Shrine to Nyx
+8 Forest
 9 Forest
 10 Forest
 11 Forest
 12 Forest
-1 Burning-Tree Emissary
-2 Burning-Tree Emissary
-3 Burning-Tree Emissary
-4 Burning-Tree Emissary
-1 Vivien, Arkbow Ranger
-1 Castle Garenbrig
-2 Vivien, Arkbow Ranger
-3 Vivien, Arkbow Ranger
 1 Nissa, Who Shakes the World
 1 Vorinclex, Monstrous Raider
 1 Voracious Hydra
@@ -26,19 +21,24 @@
 4 Vivien, Arkbow Ranger
 4 Castle Garenbrig
 4 Voracious Hydra
-13 Forest
+1 Burning-Tree Emissary
+2 Burning-Tree Emissary
+3 Burning-Tree Emissary
+4 Burning-Tree Emissary
 1 Yavimaya Coast
+2 Hashep Oasis
 1 Primal Might
 2 Rhonas the Indomitable
 2 Primal Might
-3 Garruk's Harbinger
+13 Forest
 2 Nissa, Who Shakes the World
 1 Nissa, Voice of Zendikar
 2 Nissa, Voice of Zendikar
+3 Garruk's Harbinger
 1 Heart of Kiran
-14 Forest
-3 Nissa, Who Shakes the World
 1 Turntimber Symbiosis
+3 Nissa, Who Shakes the World
+4 Garruk's Harbinger
 1 Llanowar Visionary
 1 Elder Gargaroth
 2 Llanowar Visionary
@@ -49,7 +49,7 @@
 2 Jadelight Ranger
 3 Jadelight Ranger
 4 Jadelight Ranger
-4 Garruk's Harbinger
+14 Forest
 1 Decisive Denial
 2 Decisive Denial
 2 Yavimaya Coast
@@ -58,42 +58,77 @@
 4 Vorinclex, Monstrous Raider
 4 Nissa, Who Shakes the World
 2 Turntimber Symbiosis
-3 Hashep Oasis
-1 Stubborn Denial
+1 Snow-Covered Forest
+2 Snow-Covered Forest
+2 Yorvo, Lord of Garenbrig
+3 Snow-Covered Forest
+4 Snow-Covered Forest
+5 Snow-Covered Forest
+6 Snow-Covered Forest
+7 Snow-Covered Forest
+8 Snow-Covered Forest
+9 Snow-Covered Forest
+10 Snow-Covered Forest
+11 Snow-Covered Forest
+12 Snow-Covered Forest
+13 Snow-Covered Forest
+14 Snow-Covered Forest
+15 Snow-Covered Forest
+16 Snow-Covered Forest
+17 Snow-Covered Forest
+18 Snow-Covered Forest
+1 Ghalta, Primal Hunger
+1 Surrak, the Hunt Caller
+2 Ghalta, Primal Hunger
+2 Surrak, the Hunt Caller
 1 Carnage Tyrant
 2 Carnage Tyrant
 2 Elder Gargaroth
+1 Bayou Groff
+2 Bayou Groff
+1 Stubborn Denial
+3 Hashep Oasis
 3 Scavenging Ooze
-1 Sylvan Caryatid
 1 In Search of Greatness
+1 Sylvan Caryatid
 2 In Search of Greatness
 2 Vivien Reid
 2 Sylvan Caryatid
 3 In Search of Greatness
-1 The Great Henge
-2 The Great Henge
+1 Questing Beast
+1 Ram Through
+2 Heart of Kiran
+2 Questing Beast
+2 Ram Through
+3 Nissa, Voice of Zendikar
+15 Forest
 3 Primal Might
-3 The Great Henge
+3 Yorvo, Lord of Garenbrig
+3 Ghalta, Primal Hunger
+3 Surrak, the Hunt Caller
 4 Primal Might
+19 Snow-Covered Forest
+20 Snow-Covered Forest
+21 Snow-Covered Forest
 1 Mutavault
 1 Darkbore Pathway
 1 Deathrite Shaman
 1 Dwynen's Elite
 1 Shaman of the Pack
-1 Elvish Warmaster
 1 Harald, King of Skemfar
+1 Elvish Warmaster
 1 Realmwalker
 1 Elvish Clancaller
 1 Skemfar Avenger
 1 Overgrown Tomb
 1 Llanowar Wastes
-1 Elvish Visionary
 1 Blooming Marsh
 1 Chord of Calling
+1 Elvish Visionary
 2 Mutavault
 2 Darkbore Pathway
-2 Dwynen's Elite
 2 Harald, King of Skemfar
+2 Dwynen's Elite
 2 Shaman of the Pack
 2 Realmwalker
 2 Elvish Warmaster
@@ -119,35 +154,3 @@
 4 Shaman of the Pack
 4 Overgrown Tomb
 4 Blooming Marsh
-1 Ghalta, Primal Hunger
-1 Surrak, the Hunt Caller
-1 Questing Beast
-1 Ram Through
-2 Heart of Kiran
-2 Ghalta, Primal Hunger
-2 Surrak, the Hunt Caller
-2 Questing Beast
-2 Ram Through
-3 Nissa, Voice of Zendikar
-15 Forest
-1 Snow-Covered Forest
-1 Bayou Groff
-2 Snow-Covered Forest
-2 Yorvo, Lord of Garenbrig
-2 Bayou Groff
-3 Snow-Covered Forest
-4 Snow-Covered Forest
-5 Snow-Covered Forest
-6 Snow-Covered Forest
-7 Snow-Covered Forest
-8 Snow-Covered Forest
-9 Snow-Covered Forest
-10 Snow-Covered Forest
-11 Snow-Covered Forest
-12 Snow-Covered Forest
-13 Snow-Covered Forest
-14 Snow-Covered Forest
-15 Snow-Covered Forest
-16 Snow-Covered Forest
-17 Snow-Covered Forest
-18 Snow-Covered Forest

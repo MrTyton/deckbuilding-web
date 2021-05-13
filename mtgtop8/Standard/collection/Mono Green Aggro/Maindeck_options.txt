@@ -1,28 +1,31 @@
-3 Swarm Shambler
-3 Lovestruck Beast
-4 Lovestruck Beast
-1 Primal Might
-2 Primal Might
-1 Faceless Haven
-2 Faceless Haven
-3 Faceless Haven
-3 The Great Henge
-1 Scavenging Ooze
-2 Scavenging Ooze
-1 Kazandu Mammoth
-2 Kazandu Mammoth
-3 Kazandu Mammoth
-4 Kazandu Mammoth
+19 Snow-Covered Forest
+1 Blizzard Brawl
+1 Old-Growth Troll
+2 Old-Growth Troll
+20 Snow-Covered Forest
+21 Snow-Covered Forest
+2 Garruk, Unleashed
+1 Yorvo, Lord of Garenbrig
+1 Nessian Hornbeetle
+2 Nessian Hornbeetle
 3 Tangled Florahedron
+2 Vivien, Monsters' Advocate
+3 Old-Growth Troll
 3 Snakeskin Veil
 4 Snakeskin Veil
-2 Blizzard Brawl
+1 In Search of Greatness
+3 Vorinclex, Monstrous Raider
+22 Snow-Covered Forest
 3 Primal Might
 4 Old-Growth Troll
+2 Blizzard Brawl
 4 Stonecoil Serpent
 4 Primal Might
 4 Swarm Shambler
-4 Castle Garenbrig
+3 Blizzard Brawl
+1 Ram Through
+2 Ram Through
+3 Ram Through
 1 Forest
 2 Forest
 3 Forest
@@ -38,24 +41,21 @@
 13 Forest
 14 Forest
 15 Forest
-3 Blizzard Brawl
+4 Castle Garenbrig
 1 Thrashing Brontodon
-1 Ram Through
-2 Ram Through
-3 Ram Through
 4 Tangled Florahedron
 1 Crawling Barrens
 2 Crawling Barrens
 4 Blizzard Brawl
+4 Ram Through
 3 Scavenging Ooze
 4 Scavenging Ooze
 1 Toski, Bearer of Secrets
-4 Ram Through
 1 Bala Ged Recovery
 1 Tajuru Blightblade
 1 Fynn, the Fangbearer
-1 Heroic Intervention
 1 Moss Viper
+1 Heroic Intervention
 1 Runed Crown
 1 Icehide Troll
 1 Rune of Might
@@ -68,8 +68,8 @@
 3 Tajuru Blightblade
 3 Fynn, the Fangbearer
 3 Moss Viper
-3 Icehide Troll
 3 Rune of Might
+3 Icehide Troll
 4 Tajuru Blightblade
 4 Fynn, the Fangbearer
 4 Moss Viper
@@ -102,20 +102,80 @@
 2 Wildborn Preserver
 3 Wildborn Preserver
 4 Wildborn Preserver
+1 Llanowar Visionary
+1 Fierce Empath
+2 Llanowar Visionary
+2 Fierce Empath
+1 Quandrix Cultivator
+1 Sculptor of Winter
+1 Ravenform
+1 Thassa, Deep-Dwelling
+1 Sarulf's Packmate
+1 Ugin, the Spirit Dragon
+1 Koma, Cosmos Serpent
+1 Rimewood Falls
+1 Biomathematician
+1 Bookwurm
+1 Emergent Sequence
+1 Cram Session
+1 Ravenous Lindwurm
+1 Snow-Covered Island
+1 Quandrix Campus
+2 Quandrix Cultivator
+2 Sculptor of Winter
+2 Rimewood Falls
+2 Sarulf's Packmate
+2 Ravenform
+2 Quandrix Campus
+2 Biomathematician
+2 Cram Session
+2 Emergent Sequence
+2 Snow-Covered Island
+2 Bookwurm
+3 Sculptor of Winter
+3 Sarulf's Packmate
+3 Rimewood Falls
+3 Fierce Empath
+3 Llanowar Visionary
+3 Ravenform
+3 Quandrix Cultivator
+3 Cram Session
+3 Biomathematician
+3 Bookwurm
+3 Snow-Covered Island
+3 Emergent Sequence
+4 Sculptor of Winter
+4 Fierce Empath
+4 Llanowar Visionary
+4 Snow-Covered Island
+4 Rimewood Falls
+4 Sarulf's Packmate
+4 Ravenform
+4 Biomathematician
+4 Quandrix Cultivator
+4 Emergent Sequence
+5 Snow-Covered Island
+6 Snow-Covered Island
+7 Snow-Covered Island
+8 Snow-Covered Island
+9 Snow-Covered Island
+10 Snow-Covered Island
+11 Snow-Covered Island
+12 Snow-Covered Island
 2 In Search of Greatness
-1 Garruk's Harbinger
-1 Esika's Chariot
-2 Garruk's Harbinger
-3 Yorvo, Lord of Garenbrig
-3 Garruk's Harbinger
 1 Elder Gargaroth
 2 Elder Gargaroth
 2 Kogla, the Titan Ape
 3 Trail of Crumbs
+1 Garruk's Harbinger
+1 Esika's Chariot
+2 Garruk's Harbinger
+3 Garruk's Harbinger
+3 Yorvo, Lord of Garenbrig
 1 Adventurous Impulse
 1 Dragonsguard Elite
-2 Adventurous Impulse
 2 Dragonsguard Elite
+2 Adventurous Impulse
 3 Adventurous Impulse
 4 Adventurous Impulse
 1 Elvish Warmaster
@@ -125,17 +185,13 @@
 1 Turntimber Symbiosis
 1 Cragplate Baloth
 1 Masked Vandal
-1 Fierce Empath
 1 Canopy Tactician
-1 Llanowar Visionary
 1 Skyway Sniper
 2 Jaspera Sentinel
-2 Llanowar Visionary
-2 Fierce Empath
 2 Masked Vandal
-2 Tyvar Kell
 2 Elvish Warmaster
 2 Canopy Tactician
+2 Tyvar Kell
 3 Elvish Warmaster
 3 Jaspera Sentinel
 4 Elvish Warmaster
@@ -143,19 +199,19 @@
 1 Charge Through
 1 Big Play
 1 Invigorating Surge
+2 Invigorating Surge
 2 Charge Through
 2 Big Play
-2 Invigorating Surge
 2 Toski, Bearer of Secrets
-3 Charge Through
 3 Nessian Hornbeetle
 3 Wildwood Scourge
 3 Big Play
+3 Charge Through
 3 Invigorating Surge
 4 Nessian Hornbeetle
-4 Charge Through
 4 Invigorating Surge
 4 Big Play
+4 Charge Through
 4 Wildwood Scourge
 20 Forest
 2 Thrashing Brontodon

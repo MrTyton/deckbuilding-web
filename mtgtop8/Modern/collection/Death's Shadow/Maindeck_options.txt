@@ -1,30 +1,31 @@
 1 Assassin's Trophy
-1 Polluted Delta
 1 Godless Shrine
-1 Monastery Swiftspear
 1 Seal of Fire
-1 Kroxa, Titan of Death's Hunger
-2 Monastery Swiftspear
-3 Monastery Swiftspear
-4 Monastery Swiftspear
+1 Polluted Delta
 1 Grim Lavamancer
+1 Monastery Swiftspear
+3 Temur Battle Rage
 2 Polluted Delta
 3 Polluted Delta
 1 Watery Grave
+1 Kroxa, Titan of Death's Hunger
 4 Polluted Delta
 1 Stubborn Denial
 2 Stubborn Denial
 3 Stubborn Denial
-3 Blood Crypt
+2 Monastery Swiftspear
+3 Monastery Swiftspear
+4 Monastery Swiftspear
 2 Grim Lavamancer
+4 Inquisition of Kozilek
 1 Thought Scour
 1 Steam Vents
 2 Thought Scour
 2 Watery Grave
 3 Thought Scour
 4 Thought Scour
-3 Temur Battle Rage
 1 Unearth
+3 Blood Crypt
 2 Assassin's Trophy
 1 Breeding Pool
 1 Snapcaster Mage
@@ -34,10 +35,6 @@
 2 Snapcaster Mage
 2 Drown in the Loch
 3 Drown in the Loch
-4 Inquisition of Kozilek
-1 Marsh Flats
-2 Marsh Flats
-2 Swamp
 1 Wild Nacatl
 1 Sacred Foundry
 1 Mutagenic Growth
@@ -46,12 +43,10 @@
 3 Wild Nacatl
 3 Mutagenic Growth
 4 Wild Nacatl
-1 Kolaghan's Command
 1 Bomat Courier
 2 Bomat Courier
 3 Bomat Courier
 4 Bomat Courier
-4 Blood Crypt
 4 Stubborn Denial
 1 Scalding Tarn
 2 Scalding Tarn
@@ -67,6 +62,7 @@
 1 Abrupt Decay
 2 Grim Flayer
 2 Abrupt Decay
+2 Swamp
 3 Overgrown Tomb
 3 Grim Flayer
 3 Swamp
@@ -78,8 +74,11 @@
 1 Faith's Shield
 2 Become Immense
 1 Fiery Islet
+1 Kolaghan's Command
 1 Night's Whisper
 2 Fiery Islet
+1 Marsh Flats
+2 Marsh Flats
 1 Rancor
 1 Dark Confidant
 1 Traverse the Ulvenwald
@@ -90,8 +89,6 @@
 3 Tribal Flames
 4 Tribal Flames
 4 Wooded Foothills
-3 Marsh Flats
-4 Marsh Flats
 1 Delver of Secrets
 1 Tasigur, the Golden Fang
 1 Serum Visions
@@ -104,6 +101,7 @@
 3 Street Wraith
 3 Serum Visions
 4 Delver of Secrets
+4 Blood Crypt
 4 Watery Grave
 4 Street Wraith
 1 Preordain
@@ -122,8 +120,8 @@
 3 Treasure Cruise
 3 Ponder
 3 Gitaxian Probe
-4 Mental Misstep
 4 Gitaxian Probe
+4 Mental Misstep
 4 Treasure Cruise
 4 Ponder
 4 Scalding Tarn

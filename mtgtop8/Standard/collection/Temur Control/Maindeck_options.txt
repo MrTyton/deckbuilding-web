@@ -23,20 +23,20 @@
 4 Terror of the Peaks
 2 Koma, Cosmos Serpent
 3 Koma, Cosmos Serpent
-1 Quandrix Cultivator
 1 Frostboil Snarl
 1 Lotus Cobra
-1 Body of Research
+1 Quandrix Cultivator
 1 Snow-Covered Forest
 1 Snow-Covered Island
+1 Body of Research
 1 Snow-Covered Mountain
-2 Quandrix Cultivator
 2 Lotus Cobra
 2 Frostboil Snarl
-2 Body of Research
+2 Quandrix Cultivator
 2 Snow-Covered Forest
 2 Snow-Covered Island
 2 Snow-Covered Mountain
+2 Body of Research
 3 Lotus Cobra
 3 Snow-Covered Forest
 3 Snow-Covered Island
@@ -96,14 +96,13 @@
 2 Jwari Disruption
 2 Fire Prophecy
 2 Into the Roil
-3 Fire Prophecy
 3 Jwari Disruption
+3 Fire Prophecy
 3 Shark Typhoon
 4 Fire Prophecy
 4 Jwari Disruption
 4 Shark Typhoon
 1 Dryad of the Ilysian Grove
-1 Inscription of Insight
 1 Cosima, God of the Voyage
 1 Valakut Exploration
 1 Vivien, Monsters' Advocate
@@ -117,31 +116,32 @@
 1 Zimone, Quandrix Prodigy
 1 Radha, Heart of Keld
 1 Waking the Trolls
-2 Cosima, God of the Voyage
+1 Inscription of Insight
 2 Mythos of Illuna
+2 Cosima, God of the Voyage
 2 Gnottvold Slumbermound
 2 Dryad of the Ilysian Grove
-2 Chainweb Aracnir
 2 Scorching Dragonfire
+2 Chainweb Aracnir
 2 Depart the Realm
 2 Waking the Trolls
 2 Zimone, Quandrix Prodigy
 2 Esika's Chariot
 2 Radha, Heart of Keld
 3 Cosima, God of the Voyage
-3 Scorching Dragonfire
 3 Dryad of the Ilysian Grove
+3 Scorching Dragonfire
 3 Chainweb Aracnir
 3 Esika's Chariot
 3 Mythos of Illuna
 4 Esika's Chariot
-4 Scorching Dragonfire
 4 Dryad of the Ilysian Grove
+4 Scorching Dragonfire
 4 Chainweb Aracnir
 4 Mythos of Illuna
 1 Kiora Bests the Sea God
-1 Nyxbloom Ancient
 1 Temple of Epiphany
+1 Nyxbloom Ancient
 1 Tibalt's Trickery
 1 Esika, God of the Tree
 1 Stonecoil Serpent
@@ -165,6 +165,7 @@
 1 Experimental Overload
 1 Opt
 1 Thirst for Meaning
+1 Thrill of Possibility
 1 Swiftwater Cliffs
 1 Teferi's Tutelage
 1 Improbable Alliance
@@ -173,32 +174,31 @@
 1 Thornwood Falls
 1 Thwart the Enemy
 1 Storm's Wrath
-1 Thrill of Possibility
 1 Rugged Highlands
-2 Bala Ged Recovery
 2 Experimental Overload
-2 Thirst for Meaning
+2 Bala Ged Recovery
 2 Opt
+2 Thirst for Meaning
+2 Thrill of Possibility
 2 Swiftwater Cliffs
 2 Teferi's Tutelage
 2 Rugged Highlands
 2 Improbable Alliance
-2 Thrill of Possibility
 2 Thornwood Falls
 2 Thwart the Enemy
+3 Experimental Overload
 3 Bala Ged Recovery
 3 Thirst for Meaning
-3 Experimental Overload
 3 Thrill of Possibility
 3 Teferi's Tutelage
 3 Opt
 3 Improbable Alliance
 3 Thwart the Enemy
 4 Mountain
+4 Thrill of Possibility
 4 Teferi's Tutelage
 4 Improbable Alliance
 4 Thwart the Enemy
-4 Thrill of Possibility
 4 Thirst for Meaning
 5 Mountain
 6 Island

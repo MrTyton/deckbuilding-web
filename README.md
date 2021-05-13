@@ -6,8 +6,8 @@
 
 |                                    A                                     |                                    B                                     |                                  C                                   |                           D                            |                       E                        |
 |--------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------------------------------|------------------------------------------------|
-|[BGx Sacrifice](./mtggoldfish/Standard/decks/BGx_Sacrifice.md)            |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)      |[Temur Ramp](./mtggoldfish/Standard/decks/Temur_Ramp.md)|[W](./mtggoldfish/Standard/decks/W.md)          |
-|[BR](./mtggoldfish/Standard/decks/BR.md)                                  |[Gruul Midrange](./mtggoldfish/Standard/decks/Gruul_Midrange.md)          |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)  |[UB](./mtggoldfish/Standard/decks/UB.md)                |[Winota](./mtggoldfish/Standard/decks/Winota.md)|
+|[BGx Sacrifice](./mtggoldfish/Standard/decks/BGx_Sacrifice.md)            |[Gruul Adventures](./mtggoldfish/Standard/decks/Gruul_Adventures.md)      |[Mono-Red Aggro](./mtggoldfish/Standard/decks/Mono-Red_Aggro.md)      |[Temur Ramp](./mtggoldfish/Standard/decks/Temur_Ramp.md)|[Winota](./mtggoldfish/Standard/decks/Winota.md)|
+|[BR](./mtggoldfish/Standard/decks/BR.md)                                  |[Gruul Midrange](./mtggoldfish/Standard/decks/Gruul_Midrange.md)          |[Mono-White Aggro](./mtggoldfish/Standard/decks/Mono-White_Aggro.md)  |[UB](./mtggoldfish/Standard/decks/UB.md)                |                                                |
 |[B](./mtggoldfish/Standard/decks/B.md)                                    |[Jeskai Cycling](./mtggoldfish/Standard/decks/Jeskai_Cycling.md)          |[Naya Adventures](./mtggoldfish/Standard/decks/Naya_Adventures.md)    |[UR](./mtggoldfish/Standard/decks/UR.md)                |                                                |
 |[Dimir Rogues](./mtggoldfish/Standard/decks/Dimir_Rogues.md)              |[Mono-Green Food](./mtggoldfish/Standard/decks/Mono-Green_Food.md)        |[Prismari Midrange](./mtggoldfish/Standard/decks/Prismari_Midrange.md)|[WR](./mtggoldfish/Standard/decks/WR.md)                |                                                |
 |[Esper Doom Foretold](./mtggoldfish/Standard/decks/Esper_Doom_Foretold.md)|[Mono-Green Midrange](./mtggoldfish/Standard/decks/Mono-Green_Midrange.md)|[Sultai Control](./mtggoldfish/Standard/decks/Sultai_Control.md)      |[WUR](./mtggoldfish/Standard/decks/WUR.md)              |                                                |
@@ -39,8 +39,8 @@
 |[Blitz](./mtggoldfish/Modern/decks/Blitz.md)                    |[Five-Colors Elementals](./mtggoldfish/Modern/decks/Five-Colors_Elementals.md)      |[Inverter](./mtggoldfish/Modern/decks/Inverter.md)                      |[The Rock](./mtggoldfish/Modern/decks/The_Rock.md)                  |[Whirza](./mtggoldfish/Modern/decks/Whirza.md)|
 |[Bogles](./mtggoldfish/Modern/decks/Bogles.md)                  |[Four-Color Death's Shadow](./mtggoldfish/Modern/decks/Four-Color_Death's_Shadow.md)|[Jund Death's Shadow](./mtggoldfish/Modern/decks/Jund_Death's_Shadow.md)|[Tron](./mtggoldfish/Modern/decks/Tron.md)                          |[Winota](./mtggoldfish/Modern/decks/Winota.md)|
 |[Boros Aggro](./mtggoldfish/Modern/decks/Boros_Aggro.md)        |[Gifts Storm](./mtggoldfish/Modern/decks/Gifts_Storm.md)                            |[Jund](./mtggoldfish/Modern/decks/Jund.md)                              |[UBR](./mtggoldfish/Modern/decks/UBR.md)                            |                                              |
-|[Burn](./mtggoldfish/Modern/decks/Burn.md)                      |[Goblins](./mtggoldfish/Modern/decks/Goblins.md)                                    |[Mill](./mtggoldfish/Modern/decks/Mill.md)                              |[UR](./mtggoldfish/Modern/decks/UR.md)                              |                                              |
-|[Crab Vine](./mtggoldfish/Modern/decks/Crab_Vine.md)            |[Grixis Death's Shadow](./mtggoldfish/Modern/decks/Grixis_Death's_Shadow.md)        |[Mono-Blue Tron](./mtggoldfish/Modern/decks/Mono-Blue_Tron.md)          |[WBG](./mtggoldfish/Modern/decks/WBG.md)                            |                                              |
+|[Burn](./mtggoldfish/Modern/decks/Burn.md)                      |[Goblins](./mtggoldfish/Modern/decks/Goblins.md)                                    |[Mill](./mtggoldfish/Modern/decks/Mill.md)                              |[UB](./mtggoldfish/Modern/decks/UB.md)                              |                                              |
+|[Crab Vine](./mtggoldfish/Modern/decks/Crab_Vine.md)            |[Grixis Death's Shadow](./mtggoldfish/Modern/decks/Grixis_Death's_Shadow.md)        |[Mono-Blue Tron](./mtggoldfish/Modern/decks/Mono-Blue_Tron.md)          |[UR](./mtggoldfish/Modern/decks/UR.md)                              |                                              |
 
 
 # Legacy
@@ -62,4 +62,4 @@
 
 
 
-#### Last Updated at 12:46AM on May 13, 2021
+#### Last Updated at 12:47PM on May 13, 2021
