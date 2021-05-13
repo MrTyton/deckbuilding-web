@@ -1,5 +1,4 @@
 2 Forsaken Monument
-2 Labyrinth of Skophos
 2 Radiant Fountain
 2 Midnight Clock
 2 Solemn Simulacrum
@@ -11,12 +10,13 @@
 2 Tyrite Sanctum
 2 Palladium Myr
 2 Unknown Shores
+2 Labyrinth of Skophos
 2 Shimmer Dragon
 2 Throne of Makindi
 3 Crawling Barrens
-3 Forsaken Monument
 3 Radiant Fountain
 3 Midnight Clock
+3 Forsaken Monument
 3 Skyclave Relic
 3 Labyrinth of Skophos
 3 Tyrite Sanctum
@@ -84,20 +84,19 @@
 20 Snow-Covered Island
 21 Snow-Covered Island
 22 Snow-Covered Island
-1 Serpentine Curve
 1 Fabled Passage
 1 Island
 1 Thassa's Oracle
 1 Test of Talents
 1 Frostveil Ambush
 1 Stern Dismissal
+1 Serpentine Curve
 1 Startling Development
 1 Boon of the Wish-Giver
 1 Curate
 1 Glimpse of Freedom
 1 Reject
 1 Sleep of the Dead
-2 Serpentine Curve
 2 Field of Ruin
 2 Island
 2 Negate
@@ -108,12 +107,13 @@
 2 Curate
 2 Boon of the Wish-Giver
 2 Neutralize
+2 Serpentine Curve
 2 Reject
 3 Stern Dismissal
 3 Island
-3 Serpentine Curve
 3 Frostveil Ambush
 3 Neutralize
+3 Serpentine Curve
 3 Boon of the Wish-Giver
 3 Reject
 3 Startling Development

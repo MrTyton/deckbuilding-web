@@ -81,29 +81,6 @@
 2 Disdainful Stroke
 3 Shark Typhoon
 3 Shatterskull Smashing
-1 Pop Quiz
-1 Igneous Inspiration
-1 Improbable Alliance
-1 Heated Debate
-1 Evolving Wilds
-1 Rowan, Scholar of Sparks
-1 Rootha, Mercurial Artist
-2 Pop Quiz
-2 Igneous Inspiration
-2 Improbable Alliance
-2 Evolving Wilds
-2 Rootha, Mercurial Artist
-3 Pop Quiz
-3 Igneous Inspiration
-3 Improbable Alliance
-3 Evolving Wilds
-3 Rootha, Mercurial Artist
-3 Opt
-4 Opt
-4 Pop Quiz
-4 Igneous Inspiration
-4 Improbable Alliance
-4 Evolving Wilds
 1 Castle Vantress
 1 Raugrin Triome
 1 Temple of Epiphany
@@ -115,6 +92,29 @@
 3 Ox of Agonas
 4 Temple of Epiphany
 4 Ox of Agonas
+1 Igneous Inspiration
+1 Improbable Alliance
+1 Evolving Wilds
+1 Rowan, Scholar of Sparks
+1 Heated Debate
+1 Pop Quiz
+1 Rootha, Mercurial Artist
+2 Igneous Inspiration
+2 Improbable Alliance
+2 Evolving Wilds
+2 Pop Quiz
+2 Rootha, Mercurial Artist
+3 Igneous Inspiration
+3 Improbable Alliance
+3 Evolving Wilds
+3 Rootha, Mercurial Artist
+3 Opt
+3 Pop Quiz
+4 Opt
+4 Igneous Inspiration
+4 Improbable Alliance
+4 Evolving Wilds
+4 Pop Quiz
 1 Silundi Vision
 1 Dual Strike
 1 Spikefield Hazard
@@ -127,11 +127,11 @@
 2 Cathartic Reunion
 2 Seize the Spoils
 2 Kazuul's Fury
+3 Dual Strike
 3 Negate
 3 Kazuul's Fury
 3 Spikefield Hazard
 3 Cathartic Reunion
-3 Dual Strike
 3 Seize the Spoils
 4 Spikefield Hazard
 4 Kazuul's Fury
@@ -143,13 +143,13 @@
 1 Frantic Inventory
 1 Shipwreck Dowser
 1 Teferi, Master of Time
-1 Swiftwater Cliffs
 1 Elemental Masterpiece
+1 Swiftwater Cliffs
 1 Practical Research
 2 Frantic Inventory
 2 Swiftwater Cliffs
-2 Cinderclasm
 2 Elemental Masterpiece
+2 Cinderclasm
 3 Frantic Inventory
 4 Saw It Coming
 4 Frantic Inventory
@@ -157,13 +157,13 @@
 1 Torrent Sculptor
 2 Torrent Sculptor
 2 Creative Outburst
+3 Draconic Intervention
 3 Torrent Sculptor
 3 Creative Outburst
-3 Draconic Intervention
 3 Island
 4 Torrent Sculptor
-4 Creative Outburst
 4 Draconic Intervention
+4 Creative Outburst
 4 Island
 5 Island
 6 Island

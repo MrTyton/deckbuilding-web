@@ -5,15 +5,16 @@
 1 Carpet of Flowers
 2 Carpet of Flowers
 3 Carpet of Flowers
+1 Surgical Extraction
+2 Surgical Extraction
 1 Force of Vigor
 2 Force of Vigor
 3 Force of Vigor
 4 Force of Vigor
 4 Carpet of Flowers
-1 Surgical Extraction
-2 Surgical Extraction
 1 Faerie Macabre
 2 Faerie Macabre
+3 Mindbreak Trap
 1 Krosan Grip
 1 Collector Ouphe
 2 Krosan Grip
@@ -21,7 +22,6 @@
 2 Sorcerous Spyglass
 2 Ratchet Bomb
 3 Spatial Contortion
-3 Mindbreak Trap
 1 Crop Rotation
 1 Reclamation Sage
 2 Crop Rotation
@@ -29,6 +29,7 @@
 3 Warping Wail
 2 Walking Ballista
 3 Faerie Macabre
+4 Mindbreak Trap
 1 Wurmcoil Engine
 1 Bojuka Bog
 1 Thorn of Amethyst
@@ -37,7 +38,6 @@
 4 Thorn of Amethyst
 1 Veil of Summer
 2 Veil of Summer
-4 Mindbreak Trap
 1 Batterskull
 1 Oblivion Stone
 3 Sorcerous Spyglass
@@ -57,12 +57,6 @@
 1 Thought-Knot Seer
 2 Thought-Knot Seer
 3 Thought-Knot Seer
-1 Flusterstorm
-1 Boseiju, Who Shelters All
-1 Chalice of the Void
-2 Flusterstorm
-3 Flusterstorm
-4 Flusterstorm
 3 Trinisphere
 4 Sorcerous Spyglass
 1 Dismember

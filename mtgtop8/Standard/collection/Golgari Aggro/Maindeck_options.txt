@@ -16,8 +16,8 @@
 1 Return Upon the Tide
 1 Snow-Covered Swamp
 2 Snow-Covered Forest
-2 Grasp of Darkness
 2 Sculptor of Winter
+2 Grasp of Darkness
 2 Harald, King of Skemfar
 2 Boreal Outrider
 2 Woodland Chasm
@@ -81,9 +81,9 @@
 1 Fynn, the Fangbearer
 1 Wildborn Preserver
 1 Ranger's Guile
+1 Withercrown
 1 Fully Grown
 1 Tajuru Blightblade
-1 Withercrown
 2 Feed the Swarm
 2 Oakhame Adversary
 2 Fully Grown
@@ -112,7 +112,6 @@
 1 Kazandu Nectarpot
 1 Scute Swarm
 2 Path to the World Tree
-2 The World Tree
 2 Vivien, Monsters' Advocate
 2 Evolving Wilds
 2 Cosmos Elixir
@@ -121,6 +120,7 @@
 2 Extinction Event
 2 Hooded Blightfang
 2 Vito, Thorn of the Dusk Rose
+2 The World Tree
 2 Kazandu Nectarpot
 2 Scute Swarm
 3 Extinction Event
@@ -136,23 +136,23 @@
 1 Elder Gargaroth
 1 Trail of Crumbs
 1 Indatha Triome
+1 Wicked Wolf
 1 Turntimber Symbiosis
 1 Agadeem's Awakening
-1 Wicked Wolf
 2 Gilded Goose
-2 Wicked Wolf
 2 Trail of Crumbs
 2 Indatha Triome
 2 Elder Gargaroth
 2 Eliminate
 2 Massacre Wurm
+2 Wicked Wolf
 2 Agadeem's Awakening
 2 Turntimber Symbiosis
 3 The Great Henge
-3 Wicked Wolf
 3 Gilded Goose
 3 Indatha Triome
 3 Eliminate
+3 Wicked Wolf
 3 Trail of Crumbs
 4 Indatha Triome
 4 Gilded Goose
@@ -161,13 +161,13 @@
 2 Necroblossom Snarl
 3 Necroblossom Snarl
 4 Necroblossom Snarl
-1 Tyvar Kell
 1 Deathknell Berserker
+1 Tyvar Kell
 1 Jaspera Sentinel
 1 Skemfar Elderhall
 1 Skemfar Shadowsage
-2 Jaspera Sentinel
 2 Deathknell Berserker
+2 Jaspera Sentinel
 2 Thornmantle Striker
 2 Return Upon the Tide
 2 Skemfar Shadowsage
@@ -181,17 +181,17 @@
 10 Snow-Covered Swamp
 1 Rankle, Master of Pranks
 1 Foulmire Knight
+1 Order of Midnight
 1 Wilt
 1 Heartless Act
 1 Toski, Bearer of Secrets
-1 Order of Midnight
 1 Sarulf, Realm Eater
 1 Edgewall Innkeeper
 2 Scavenging Ooze
 2 Rankle, Master of Pranks
 2 Foulmire Knight
-2 Wilt
 2 Order of Midnight
+2 Wilt
 2 Edgewall Innkeeper
 2 Heartless Act
 3 Temple of Malady

@@ -47,9 +47,9 @@
 3 Seasoned Pyromancer
 3 Bonecrusher Giant
 3 Firebolt
-4 Bonecrusher Giant
 4 Firebolt
 4 Seasoned Pyromancer
+4 Bonecrusher Giant
 4 Wooded Foothills
 1 Burst Lightning
 1 Bomat Courier
@@ -58,25 +58,25 @@
 1 Seal of Fire
 1 Shard Volley
 2 Shard Volley
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
-3 Bloodstained Mire
 1 Forgotten Cave
 1 Flame Slash
 1 Castle Embereth
 2 Flame Slash
 2 Castle Embereth
 3 Castle Embereth
+2 Snow-Covered Mountain
+3 Snow-Covered Mountain
+3 Bloodstained Mire
 4 Sacred Foundry
 4 Arid Mesa
-1 Manamorphose
 1 Bedlam Reveler
+1 Manamorphose
 1 Crash Through
 1 Runaway Steam-Kin
 1 Risk Factor
 2 Burst Lightning
-2 Fiery Islet
 2 Bedlam Reveler
+2 Fiery Islet
 2 Manamorphose
 2 Crash Through
 2 Runaway Steam-Kin
@@ -87,6 +87,7 @@
 3 Crash Through
 4 Crash Through
 4 Manamorphose
+1 Mutavault
 1 Goblin Rabblemaster
 1 Chrome Mox
 1 Hazoret the Fervent
@@ -99,7 +100,6 @@
 1 Koth of the Hammer
 1 Chandra, Torch of Defiance
 1 Legion Warboss
-1 Mutavault
 1 Simian Spirit Guide
 1 Ramunap Ruins
 1 Chalice of the Void
@@ -108,8 +108,8 @@
 2 Gemstone Caverns
 2 Goblin Rabblemaster
 2 Chrome Mox
-2 Phyrexian Revoker
 2 Mutavault
+2 Phyrexian Revoker
 2 Magus of the Moon
 2 Chalice of the Void
 2 Ramunap Ruins
