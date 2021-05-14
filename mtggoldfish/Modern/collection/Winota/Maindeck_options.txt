@@ -1,35 +1,35 @@
 2 Aether Vial
 3 Aether Vial
-4 Aether Vial
 4 Skyclave Apparition
+4 Aether Vial
 1 Sunbaked Canyon
 1 Leonin Arbiter
 1 Needleverge Pathway
-1 Giver of Runes
 1 Ghost Quarter
+1 Giver of Runes
 2 Leonin Arbiter
 2 Sunbaked Canyon
-2 Sacred Foundry
 2 Needleverge Pathway
-2 Giver of Runes
+2 Sacred Foundry
 2 Ghost Quarter
+2 Giver of Runes
 3 Sacred Foundry
 3 Leonin Arbiter
 3 Sunbaked Canyon
-3 Giver of Runes
 3 Plains
+3 Giver of Runes
 3 Needleverge Pathway
+4 Plains
 4 Sunbaked Canyon
 4 Leonin Arbiter
 4 Giver of Runes
-4 Plains
 4 Needleverge Pathway
 5 Plains
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
 1 Sword of Fire and Ice
-1 Stoneforge Mystic
 1 Batterskull
+1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
@@ -68,8 +68,8 @@
 1 Geist-Honored Monk
 2 Geist-Honored Monk
 3 Geist-Honored Monk
-1 Snow-Covered Forest
 1 Snow-Covered Mountain
+1 Snow-Covered Forest
 4 Geist-Honored Monk
 2 Razorverge Thicket
 2 Cavern of Souls
@@ -96,11 +96,12 @@
 2 Godo, Bandit Warlord
 3 Godo, Bandit Warlord
 4 Godo, Bandit Warlord
+1 Flooded Strand
 1 Reflecting Pool
 1 Hallowed Fountain
-1 Island
 1 Ancient Ziggurat
 1 Kitesail Freebooter
+1 Island
 1 Thalia's Lieutenant
 1 Mantis Rider
 1 Noble Hierarch
@@ -109,10 +110,9 @@
 1 Alirios, Enraptured
 1 Avacyn's Pilgrim
 1 Unclaimed Territory
-1 Flooded Strand
 1 Meddling Mage
-2 Reflecting Pool
 2 Flooded Strand
+2 Reflecting Pool
 2 Ancient Ziggurat
 2 Noble Hierarch
 2 Avacyn's Pilgrim
@@ -124,9 +124,9 @@
 2 Champion of the Parish
 2 Unclaimed Territory
 2 Kitesail Freebooter
+3 Flooded Strand
 3 Charming Prince
 3 Reflecting Pool
-3 Flooded Strand
 3 Blade Splicer
 3 Champion of the Parish
 3 Cavern of Souls
@@ -165,13 +165,13 @@
 1 Drannith Magistrate
 2 Drannith Magistrate
 3 Drannith Magistrate
+1 Gilded Goose
 1 Brushfire Elemental
 1 Rampaging Ferocidon
 1 Banisher Priest
-1 Gilded Goose
+2 Gilded Goose
 2 Arid Mesa
 2 Brushfire Elemental
-2 Gilded Goose
 3 Gilded Goose
 4 Voice of Resurgence
 1 Avalanche Riders
@@ -181,13 +181,13 @@
 2 Utopia Sprawl
 2 Avalanche Riders
 2 Pia Nalaar
-3 Utopia Sprawl
 3 Goblin Rabblemaster
 3 Magus of the Moon
 3 Huntmaster of the Fells
-4 Forest
-4 Utopia Sprawl
+3 Utopia Sprawl
 4 Goblin Rabblemaster
+4 Forest
 4 Magus of the Moon
-5 Forest
 4 Huntmaster of the Fells
+5 Forest
+4 Utopia Sprawl

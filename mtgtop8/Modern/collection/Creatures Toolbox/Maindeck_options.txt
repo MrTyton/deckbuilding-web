@@ -1,20 +1,24 @@
+4 Windswept Heath
+1 Wooded Foothills
+2 Wooded Foothills
 1 Plains
 2 Temple Garden
 1 Eladamri's Call
 1 Horizon Canopy
 1 Giver of Runes
-1 Devoted Druid
-1 Vizier of Remedies
 1 Postmortem Lunge
 1 Walking Ballista
+1 Vizier of Remedies
 1 Finale of Devastation
+1 Devoted Druid
 2 Giver of Runes
 2 Eladamri's Call
-2 Devoted Druid
 2 Noble Hierarch
+2 Devoted Druid
 2 Finale of Devastation
 2 Vizier of Remedies
 3 Devoted Druid
+3 Temple Garden
 4 Devoted Druid
 1 Razorverge Thicket
 2 Razorverge Thicket
@@ -22,46 +26,35 @@
 2 Horizon Canopy
 3 Giver of Runes
 3 Razorverge Thicket
-3 Eladamri's Call
-3 Postmortem Lunge
 3 Finale of Devastation
+3 Eladamri's Call
 3 Horizon Canopy
 3 Vizier of Remedies
+3 Postmortem Lunge
 4 Giver of Runes
-4 Eladamri's Call
 4 Vizier of Remedies
-1 Gilded Goose
-3 Temple Garden
-1 Duskwatch Recruiter
-1 Hapatra, Vizier of Poisons
-2 Nurturing Peatland
-1 Spellskite
-4 Finale of Devastation
+4 Eladamri's Call
 1 Ranger-Captain of Eos
 2 Plains
 1 Eternal Witness
+1 Duskwatch Recruiter
 2 Gilded Goose
 1 Skyclave Apparition
 1 Pendelhaven
 1 Zulaport Cutthroat
 4 Wall of Roots
+1 Spellskite
 1 Shalai, Voice of Plenty
 4 Horizon Canopy
+4 Finale of Devastation
 1 Misty Rainforest
 2 Ranger-Captain of Eos
-3 Wooded Foothills
 4 Geralf's Messenger
 1 Blood Artist
 1 Phyrexian Revoker
 1 Aether Vial
 2 Aether Vial
-1 Mishra's Bauble
-2 Mishra's Bauble
-3 Mishra's Bauble
-4 Mishra's Bauble
-4 Postmortem Lunge
-2 Walking Ballista
-3 Forest
+3 Wooded Foothills
 3 Noble Hierarch
 4 Noble Hierarch
 2 Skyclave Apparition
@@ -93,7 +86,6 @@
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
 4 Seasoned Pyromancer
-1 Kitchen Finks
 1 Grove of the Burnwillows
 1 Sunbaked Canyon
 1 Wall of Blossoms
@@ -115,14 +107,15 @@
 2 Sacred Foundry
 2 Stoneforge Mystic
 2 Path to Exile
-3 Wall of Blossoms
 3 Restoration Angel
+3 Wall of Blossoms
 3 Stoneforge Mystic
-4 Wall of Blossoms
 4 Wooded Foothills
 4 Restoration Angel
 4 Skyclave Apparition
+4 Wall of Blossoms
 4 Stoneforge Mystic
+1 Kitchen Finks
 1 Charming Prince
 1 Glasspool Mimic
 1 Ephemerate
@@ -165,18 +158,21 @@
 4 Prismatic Vista
 4 Misty Rainforest
 1 In Search of Greatness
-1 Pyre of Heroes
-1 Avacyn's Pilgrim
-1 Llanowar Elves
-2 Pyre of Heroes
-2 Avacyn's Pilgrim
-3 Pyre of Heroes
 3 Gilded Goose
 4 Gilded Goose
-2 Duskwatch Recruiter
-4 Razorverge Thicket
 3 Aether Vial
 4 Aether Vial
+1 Mishra's Bauble
+1 Avacyn's Pilgrim
+1 Pyre of Heroes
+1 Llanowar Elves
+2 Mishra's Bauble
+2 Pyre of Heroes
+2 Avacyn's Pilgrim
+3 Mishra's Bauble
+3 Pyre of Heroes
+4 Mishra's Bauble
+4 Postmortem Lunge
 3 Ranger-Captain of Eos
 4 Ranger-Captain of Eos
 1 Voice of Resurgence
@@ -214,9 +210,11 @@
 2 Kitchen Finks
 2 Spike Feeder
 2 Heliod, Sun-Crowned
+2 Walking Ballista
 2 Auriok Champion
 3 Walking Ballista
 3 Collected Company
+3 Forest
 3 Auriok Champion
 4 Collected Company
 4 Forest

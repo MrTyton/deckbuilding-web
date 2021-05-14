@@ -1,18 +1,18 @@
-3 Chord of Calling
-3 Gilded Goose
-3 Wall of Blossoms
-3 Seasoned Pyromancer
-3 Windswept Heath
-3 Utopia Sprawl
-4 Skyclave Apparition
-4 Stoneforge Mystic
-4 Birds of Paradise
 4 Seasoned Pyromancer
-4 Wall of Blossoms
-4 Utopia Sprawl
 4 Windswept Heath
 4 Chord of Calling
-1 Wrenn and Six
+4 Misty Rainforest
+2 Lightning Helix
+1 Snow-Covered Plains
+1 Verdant Catacombs
+1 Gilded Goose
+1 Sunbaked Canyon
+1 Snow-Covered Forest
+1 Scavenging Ooze
+2 Snow-Covered Forest
+2 Gilded Goose
+3 Snow-Covered Forest
+3 Gilded Goose
 4 Restoration Angel
 2 Omnath, Locus of Creation
 2 Eternal Witness
@@ -21,62 +21,64 @@
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 1 Steam Vents
+1 Scalding Tarn
+1 Jace, the Mind Sculptor
+1 Ketria Triome
+2 Wrenn and Six
+3 Wrenn and Six
+2 Scalding Tarn
+3 Scalding Tarn
+4 Scalding Tarn
+2 Jace, the Mind Sculptor
+1 Mountain
+2 Lightning Bolt
 1 Time Warp
 2 Time Warp
 3 Time Warp
 4 Time Warp
-1 Ketria Triome
-2 Wrenn and Six
-3 Wrenn and Six
 4 Wrenn and Six
 1 Savor the Moment
 2 Savor the Moment
 3 Savor the Moment
 4 Savor the Moment
-1 Scalding Tarn
 2 Steam Vents
-2 Scalding Tarn
-3 Scalding Tarn
-4 Scalding Tarn
-1 Jace, the Mind Sculptor
 1 Velomachus Lorehold
 1 Dwarven Mine
-2 Dwarven Mine
 2 Velomachus Lorehold
+2 Dwarven Mine
 3 Dwarven Mine
 4 Dwarven Mine
 1 Growth Spiral
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
+3 Lightning Bolt
 3 Steam Vents
 1 Bloodstained Mire
 2 Stomping Ground
 2 Bloodstained Mire
-2 Jace, the Mind Sculptor
+1 Snow-Covered Island
+3 Teferi, Time Raveler
+1 Remand
 1 Indomitable Creativity
 2 Indomitable Creativity
 3 Indomitable Creativity
-1 Remand
 2 Remand
-2 Lightning Bolt
 3 Remand
-3 Lightning Bolt
 4 Remand
+3 Lightning Helix
+3 Arid Mesa
 1 Prismari Command
-1 Snow-Covered Island
 2 Prismari Command
 4 Lightning Bolt
 4 Indomitable Creativity
-3 Lightning Helix
-3 Arid Mesa
+3 Path to Exile
 4 Arid Mesa
 1 Tamiyo, Collector of Tales
 2 Tamiyo, Collector of Tales
 1 Transmogrify
 2 Sacred Foundry
 2 Transmogrify
-3 Teferi, Time Raveler
 4 Steam Vents
 4 Teferi, Time Raveler
 1 Fires of Invention
@@ -84,7 +86,11 @@
 3 Tamiyo, Collector of Tales
 3 Fires of Invention
 4 Fires of Invention
-1 Mountain
+1 Forest
+1 Plains
+1 Island
+2 Flooded Strand
+3 Flooded Strand
 1 Omen of the Sea
 1 Valakut Awakening
 2 Omen of the Sea
@@ -95,11 +101,37 @@
 4 Omen of the Sea
 4 Bloodstained Mire
 4 Tamiyo, Collector of Tales
+1 Cryptic Command
+1 Teferi, Hero of Dominaria
+1 Hallowed Fountain
+4 Flooded Strand
+1 Snapcaster Mage
+1 Force of Negation
+1 Supreme Verdict
+1 Mana Leak
+2 Snapcaster Mage
+2 Force of Negation
+2 Mana Leak
+2 Cryptic Command
+3 Force of Negation
+3 Cryptic Command
+1 Spell Snare
+3 Snapcaster Mage
 3 Prismari Command
+1 Field of Ruin
+1 Lonely Sandbar
+2 Field of Ruin
 1 Polymorph
 2 Polymorph
 4 Transmogrify
-3 Path to Exile
+2 Teferi, Hero of Dominaria
+1 Logic Knot
+2 Island
+1 Timely Reinforcements
+4 Path to Exile
+1 Shark Typhoon
+2 Shark Typhoon
+3 Shark Typhoon
 1 Grove of the Burnwillows
 2 Scavenging Ooze
 1 Explore
@@ -110,44 +142,70 @@
 3 Explore
 4 Explore
 4 Farseek
-1 Nahiri, the Harbinger
-1 Island
-1 Forest
-2 Flooded Strand
-3 Flooded Strand
+3 Island
+1 Castle Vantress
 2 Fire-Lit Thicket
-1 Shark Typhoon
-2 Shark Typhoon
-3 Shark Typhoon
+1 Nahiri, the Harbinger
+1 Aether Gust
+3 Omnath, Locus of Creation
+3 Mana Leak
+1 Prairie Stream
+1 Flagstones of Trokair
+1 Cleansing Wildfire
+1 Oust
+2 Flagstones of Trokair
+2 Oust
+2 Cleansing Wildfire
+3 Flagstones of Trokair
+3 Cleansing Wildfire
+4 Flagstones of Trokair
+4 Cleansing Wildfire
+1 Opt
+2 Opt
+1 Emrakul, the Aeons Torn
+2 Nahiri, the Harbinger
+3 Nahiri, the Harbinger
+4 Nahiri, the Harbinger
 4 Shark Typhoon
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
-1 Emrakul, the Aeons Torn
-2 Nahiri, the Harbinger
-3 Nahiri, the Harbinger
-4 Nahiri, the Harbinger
-1 Narset, Parter of Veils
-1 Izzet Charm
-2 Izzet Charm
-2 Raugrin Triome
-3 Velomachus Lorehold
-4 Prismari Command
-1 Castle Vantress
+1 Ephemerate
+1 Wall of Omens
+1 Noble Hierarch
+2 Plains
+2 Ephemerate
+2 Forest
+2 Temple Garden
+2 Wall of Omens
+2 Kiki-Jiki, Mirror Breaker
+3 Ephemerate
+3 Wall of Omens
+3 Forest
+3 Kiki-Jiki, Mirror Breaker
+3 Fire-Lit Thicket
+4 Ephemerate
+4 Forest
+4 Wall of Omens
+4 Kiki-Jiki, Mirror Breaker
+5 Forest
+1 Reflecting Pool
+1 Engineered Explosives
 1 Tranquil Thicket
 1 Sea Gate Restoration
 1 Waterlogged Grove
 2 Castle Vantress
 2 Tranquil Thicket
-4 Path to Exile
-1 Teferi, Hero of Dominaria
-1 Cryptic Command
-1 Hallowed Fountain
-1 Plains
-2 Island
+1 Narset, Parter of Veils
+1 Izzet Charm
+2 Izzet Charm
+2 Raugrin Triome
+3 Velomachus Lorehold
 2 Breeding Pool
-3 Island
-3 Omnath, Locus of Creation
 4 Omnath, Locus of Creation
-4 Flooded Strand
+4 Prismari Command
+2 Hallowed Fountain
+4 Island
+1 Celestial Colonnade
+3 Opt

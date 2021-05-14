@@ -1,17 +1,75 @@
+1 Mountain
+1 Bonecrusher Giant
+2 Bonecrusher Giant
+3 Bonecrusher Giant
+4 Bonecrusher Giant
+2 Mountain
+1 Lovestruck Beast
+1 Forest
+1 Stomping Ground
+2 Lovestruck Beast
+2 Forest
+3 Lovestruck Beast
+3 Forest
+4 Lovestruck Beast
+4 Forest
+1 Glorybringer
+2 Glorybringer
+1 Enter the Infinite
+1 Possibility Storm
+1 Domri, Anarch of Bolas
+1 Borborygmos Enraged
+1 Cragcrown Pathway
+1 Chandra, Torch of Defiance
+1 Gnarled Professor
+1 Llanowar Elves
+1 Elvish Mystic
+1 Rootbound Crag
+2 Stomping Ground
+2 Elvish Mystic
+2 Rootbound Crag
+2 Cragcrown Pathway
+2 Chandra, Torch of Defiance
+2 Possibility Storm
+2 Gnarled Professor
+2 Llanowar Elves
+3 Rootbound Crag
+3 Gnarled Professor
+3 Llanowar Elves
+3 Possibility Storm
+3 Cragcrown Pathway
+3 Stomping Ground
+3 Elvish Mystic
+3 Mountain
+4 Cragcrown Pathway
+4 Rootbound Crag
+4 Stomping Ground
+4 Elvish Mystic
+4 Possibility Storm
+4 Llanowar Elves
+4 Mountain
+5 Forest
+6 Forest
+1 Shared Summons
+1 Captain Lannery Storm
+1 Goblin Rabblemaster
+2 Domri, Anarch of Bolas
+2 Goblin Rabblemaster
+3 Goblin Rabblemaster
 1 Island
 1 Steam Vents
 2 Steam Vents
 3 Steam Vents
 4 Steam Vents
-1 Bomat Courier
 1 Shivan Reef
 1 Spirebluff Canal
+1 Bomat Courier
 1 Emry, Lurker of the Loch
 1 Lightning Strike
 1 Skilled Animator
-2 Bomat Courier
 2 Spirebluff Canal
 2 Shivan Reef
+2 Bomat Courier
 2 Skilled Animator
 2 Lightning Strike
 3 Shivan Reef
@@ -20,27 +78,63 @@
 3 Skilled Animator
 3 Lightning Strike
 4 Shivan Reef
-4 Bomat Courier
 4 Spirebluff Canal
+4 Bomat Courier
 4 Skilled Animator
+1 Enthusiastic Study
+1 Kiora, Behemoth Beckoner
+1 Garruk's Harbinger
+2 Kiora, Behemoth Beckoner
+2 Garruk's Harbinger
+3 Garruk's Harbinger
 1 Plains
 1 Brazen Borrower
-1 Mountain
-1 Bonecrusher Giant
 2 Brazen Borrower
-2 Bonecrusher Giant
-3 Bonecrusher Giant
-4 Bonecrusher Giant
+1 Fabled Passage
+2 Island
+2 Fabled Passage
+3 Fabled Passage
+4 Fabled Passage
+1 Riverglide Pathway
+1 Raugrin Triome
+2 Raugrin Triome
+3 Brazen Borrower
+1 Needleverge Pathway
+1 Beanstalk Giant
+1 Showdown of the Skalds
+1 Edgewall Innkeeper
+1 Fae of Wishes
+1 Breeding Pool
+1 Branchloft Pathway
+1 Escape to the Wilds
+1 Omnath, Locus of Creation
+1 Ketria Triome
+1 Lucky Clover
+1 Alrund's Epiphany
+2 Beanstalk Giant
+2 Edgewall Innkeeper
+2 Omnath, Locus of Creation
+2 Ketria Triome
+2 Escape to the Wilds
+2 Breeding Pool
+2 Lucky Clover
+2 Fae of Wishes
+3 Omnath, Locus of Creation
+3 Beanstalk Giant
+3 Island
+3 Fae of Wishes
+3 Edgewall Innkeeper
+3 Escape to the Wilds
+3 Lucky Clover
+4 Beanstalk Giant
+4 Omnath, Locus of Creation
+4 Edgewall Innkeeper
+4 Island
+4 Lucky Clover
 1 Deafening Clarion
 1 Sacred Foundry
 2 Deafening Clarion
 2 Sacred Foundry
-1 Fabled Passage
-2 Island
-2 Mountain
-2 Fabled Passage
-3 Fabled Passage
-4 Fabled Passage
 1 Lorehold Command
 1 Temple of Epiphany
 1 Anger of the Gods
@@ -62,34 +156,28 @@
 2 Prismari Command
 2 Cavalier of Flame
 2 Cavalier of Gales
-2 Sphinx of Foresight
 2 Temple of Triumph
+2 Sphinx of Foresight
 3 Castle Vantress
 3 Temple of Epiphany
 3 Anger of the Gods
-3 Cavalier of Gales
 3 Sphinx of Foresight
 3 Cavalier of Flame
+3 Cavalier of Gales
 3 Fires of Invention
 3 Prismari Command
 4 Temple of Epiphany
 4 Sphinx of Foresight
 4 Cavalier of Flame
 4 Fires of Invention
-1 Riverglide Pathway
-1 Raugrin Triome
-2 Raugrin Triome
-3 Brazen Borrower
 1 Censor
 1 Sulfur Falls
 1 Silumgar's Scorn
-1 Glorybringer
 1 Teferi, Hero of Dominaria
 1 Goldspan Dragon
 1 Glacial Fortress
 1 Thassa's Intervention
 2 Thassa's Intervention
-2 Glorybringer
 2 Censor
 2 Sulfur Falls
 2 Riverglide Pathway
@@ -105,8 +193,8 @@
 3 Glorybringer
 3 Goldspan Dragon
 3 Silumgar's Scorn
-3 Raugrin Triome
 3 Sacred Foundry
+3 Raugrin Triome
 3 Thassa's Intervention
 4 Deafening Clarion
 4 Glacial Fortress
@@ -119,44 +207,3 @@
 4 Censor
 4 Thassa's Intervention
 4 Sacred Foundry
-1 Needleverge Pathway
-1 Beanstalk Giant
-1 Lovestruck Beast
-1 Edgewall Innkeeper
-1 Fae of Wishes
-1 Branchloft Pathway
-1 Escape to the Wilds
-1 Omnath, Locus of Creation
-1 Breeding Pool
-1 Showdown of the Skalds
-1 Ketria Triome
-1 Lucky Clover
-1 Forest
-1 Stomping Ground
-1 Alrund's Epiphany
-2 Beanstalk Giant
-2 Fae of Wishes
-2 Lovestruck Beast
-2 Edgewall Innkeeper
-2 Forest
-2 Omnath, Locus of Creation
-2 Escape to the Wilds
-2 Breeding Pool
-2 Lucky Clover
-2 Ketria Triome
-3 Omnath, Locus of Creation
-3 Beanstalk Giant
-3 Island
-3 Fae of Wishes
-3 Edgewall Innkeeper
-3 Escape to the Wilds
-3 Forest
-3 Lucky Clover
-3 Lovestruck Beast
-4 Beanstalk Giant
-4 Omnath, Locus of Creation
-4 Lovestruck Beast
-4 Edgewall Innkeeper
-4 Island
-4 Lucky Clover
-4 Forest

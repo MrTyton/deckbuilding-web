@@ -18,9 +18,9 @@
 1 Thornmantle Striker
 1 Return Upon the Tide
 1 Snow-Covered Swamp
-2 Grasp of Darkness
 2 Snow-Covered Forest
 2 Sculptor of Winter
+2 Grasp of Darkness
 2 Harald, King of Skemfar
 2 Boreal Outrider
 2 Woodland Chasm
@@ -86,24 +86,24 @@
 1 Feed the Swarm
 1 Fynn, the Fangbearer
 1 Wildborn Preserver
-1 Ranger's Guile
 1 Withercrown
 1 Fully Grown
 1 Tajuru Blightblade
+1 Ranger's Guile
 2 Feed the Swarm
 2 Oakhame Adversary
 2 Fully Grown
 2 Fynn, the Fangbearer
 2 Tajuru Blightblade
-3 Oakhame Adversary
 3 Fynn, the Fangbearer
 3 Jungle Hollow
 3 Tajuru Blightblade
+3 Oakhame Adversary
 3 Fully Grown
-4 Oakhame Adversary
 4 Fynn, the Fangbearer
 4 Tajuru Blightblade
 4 Jungle Hollow
+4 Oakhame Adversary
 7 Forest
 8 Forest
 8 Swamp
@@ -111,28 +111,28 @@
 1 The World Tree
 1 Path to the World Tree
 1 Cosmos Elixir
+1 Vito, Thorn of the Dusk Rose
 1 Nighthawk Scavenger
 1 Hooded Blightfang
-1 Vito, Thorn of the Dusk Rose
 1 Kazandu Nectarpot
 1 Scute Swarm
 2 Path to the World Tree
-2 Vivien, Monsters' Advocate
+2 The World Tree
 2 Evolving Wilds
 2 Cosmos Elixir
 2 Nighthawk Scavenger
+2 Vito, Thorn of the Dusk Rose
+2 Vivien, Monsters' Advocate
 2 Questing Beast
 2 Extinction Event
-2 Vito, Thorn of the Dusk Rose
-2 The World Tree
 2 Kazandu Nectarpot
 2 Hooded Blightfang
 2 Scute Swarm
 3 Extinction Event
+3 Vito, Thorn of the Dusk Rose
 3 Nighthawk Scavenger
 3 Kazandu Nectarpot
 3 Evolving Wilds
-3 Vito, Thorn of the Dusk Rose
 3 Path to the World Tree
 3 Cosmos Elixir
 4 Extinction Event
@@ -140,28 +140,6 @@
 2 Necroblossom Snarl
 3 Necroblossom Snarl
 4 Necroblossom Snarl
-1 Gilded Goose
-1 Elder Gargaroth
-1 Trail of Crumbs
-1 Wicked Wolf
-1 Turntimber Symbiosis
-1 Agadeem's Awakening
-2 Gilded Goose
-2 Trail of Crumbs
-2 Elder Gargaroth
-2 Eliminate
-2 Massacre Wurm
-2 Wicked Wolf
-2 Agadeem's Awakening
-2 Turntimber Symbiosis
-3 The Great Henge
-3 Gilded Goose
-3 Eliminate
-3 Wicked Wolf
-3 Trail of Crumbs
-4 Indatha Triome
-4 Gilded Goose
-4 Wicked Wolf
 1 Vorinclex, Monstrous Raider
 1 Mazemind Tome
 1 Blex, Vexing Pest
@@ -205,13 +183,6 @@
 4 Edgewall Innkeeper
 4 Murderous Rider
 4 Foulmire Knight
-1 Realmwalker
-1 Wolfwillow Haven
-1 Masked Vandal
-2 Wolfwillow Haven
-3 Wolfwillow Haven
-9 Snow-Covered Forest
-10 Snow-Covered Swamp
 1 Deathknell Berserker
 1 Tyvar Kell
 1 Jaspera Sentinel
@@ -223,3 +194,32 @@
 2 Thornmantle Striker
 2 Skemfar Shadowsage
 4 Boreal Outrider
+1 Realmwalker
+1 Wolfwillow Haven
+1 Masked Vandal
+2 Wolfwillow Haven
+3 Wolfwillow Haven
+9 Snow-Covered Forest
+10 Snow-Covered Swamp
+1 Gilded Goose
+1 Elder Gargaroth
+1 Trail of Crumbs
+1 Turntimber Symbiosis
+1 Agadeem's Awakening
+1 Wicked Wolf
+2 Gilded Goose
+2 Wicked Wolf
+2 Trail of Crumbs
+2 Elder Gargaroth
+2 Eliminate
+2 Massacre Wurm
+2 Agadeem's Awakening
+2 Turntimber Symbiosis
+3 The Great Henge
+3 Wicked Wolf
+3 Gilded Goose
+3 Eliminate
+3 Trail of Crumbs
+4 Indatha Triome
+4 Gilded Goose
+4 Wicked Wolf

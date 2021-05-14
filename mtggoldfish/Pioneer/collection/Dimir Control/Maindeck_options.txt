@@ -1,4 +1,6 @@
 2 Behold the Multiverse
+2 Heartless Act
+1 Rewind
 1 Magma Opus
 2 Magma Opus
 3 Magma Opus
@@ -6,22 +8,14 @@
 1 Riverglide Pathway
 3 Torrential Gearhulk
 4 Dig Through Time
-1 Rewind
-2 Heartless Act
 1 Hero's Downfall
-3 Fetid Pools
-3 Clearwater Pathway
-4 Clearwater Pathway
-2 Thassa's Intervention
-1 Radiant Fountain
 2 Cling to Dust
 1 Thoughtseize
 2 Thoughtseize
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
-1 Field of Ruin
-2 Extinction Event
 3 Swamp
+2 Extinction Event
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
 3 Narset, Parter of Veils
@@ -34,14 +28,20 @@
 2 Thing in the Ice
 3 Thing in the Ice
 4 Thing in the Ice
+2 Thassa's Intervention
+1 Radiant Fountain
+3 Clearwater Pathway
+4 Clearwater Pathway
+3 Fetid Pools
+1 Field of Ruin
+1 Collective Brutality
 2 Castle Locthwain
 4 Magma Opus
-4 Torrential Gearhulk
 1 Hieroglyphic Illumination
-1 Collective Brutality
 3 Behold the Multiverse
 2 Hieroglyphic Illumination
 2 Radiant Fountain
+4 Torrential Gearhulk
 1 Port of Karfell
 1 Breeding Pool
 1 Overgrown Tomb
@@ -53,7 +53,6 @@
 4 Zagoth Triome
 2 Field of Ruin
 2 Rewind
-1 Vraska's Contempt
 1 Hagra Mauling
 1 Drown in the Loch
 1 Abrupt Decay
@@ -62,8 +61,6 @@
 2 Growth Spiral
 3 Growth Spiral
 4 Growth Spiral
-1 Eliminate
-4 Fetid Pools
 1 Sublime Epiphany
 2 Baleful Mastery
 1 Eureka Moment
@@ -72,6 +69,7 @@
 3 Eureka Moment
 3 Thoughtseize
 3 Overgrown Tomb
+1 Vraska's Contempt
 2 Negate
 1 Botanical Sanctum
 1 Mountain
@@ -98,6 +96,8 @@
 4 Overgrown Tomb
 2 Blast Zone
 1 Ugin, the Spirit Dragon
+1 Eliminate
+4 Fetid Pools
 1 Neutralize
 1 Void Shatter
 1 Teferi, Hero of Dominaria
@@ -122,7 +122,6 @@
 3 Azorius Charm
 4 Hallowed Fountain
 4 Supreme Verdict
-1 Flunk
 1 Ashiok, Nightmare Muse
 1 Test of Talents
 1 Omen of the Sea

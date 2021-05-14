@@ -115,8 +115,8 @@
 |                    3|[Aphemia, the Cacophony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476335) |                     |                                                                                                  |
 |                    3|[Protean Thaumaturge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476311)    |                     |                                                                                                  |
 |                    4|[Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439858)                  |                     |                                                                                                  |
+|                    4|[Temple of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373522)      |                     |                                                                                                  |
 |                    4|[Temple of Enlightenment](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=378535)|                     |                                                                                                  |
 |                    4|[Aphemia, the Cacophony](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476335) |                     |                                                                                                  |
 |                    4|[Protean Thaumaturge](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476311)    |                     |                                                                                                  |
-|                    4|[Temple of Silence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373522)      |                     |                                                                                                  |
 

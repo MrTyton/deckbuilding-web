@@ -25,18 +25,18 @@
 3 Koma, Cosmos Serpent
 1 Frostboil Snarl
 1 Lotus Cobra
+1 Body of Research
 1 Quandrix Cultivator
 1 Snow-Covered Forest
 1 Snow-Covered Island
-1 Body of Research
 1 Snow-Covered Mountain
 2 Lotus Cobra
 2 Frostboil Snarl
+2 Body of Research
 2 Quandrix Cultivator
 2 Snow-Covered Forest
 2 Snow-Covered Island
 2 Snow-Covered Mountain
-2 Body of Research
 3 Lotus Cobra
 3 Snow-Covered Forest
 3 Snow-Covered Island
@@ -69,11 +69,11 @@
 1 Branchloft Pathway
 1 Plains
 2 The World Tree
+2 Semester's End
 2 Raugrin Triome
 2 Needleverge Pathway
 2 Branchloft Pathway
 2 Plains
-2 Semester's End
 2 Velomachus Lorehold
 3 The World Tree
 3 Velomachus Lorehold
@@ -103,7 +103,9 @@
 4 Jwari Disruption
 4 Shark Typhoon
 1 Dryad of the Ilysian Grove
+1 Inscription of Insight
 1 Cosima, God of the Voyage
+1 Waking the Trolls
 1 Valakut Exploration
 1 Vivien, Monsters' Advocate
 1 Gnottvold Slumbermound
@@ -115,16 +117,14 @@
 1 Elder Gargaroth
 1 Zimone, Quandrix Prodigy
 1 Radha, Heart of Keld
-1 Waking the Trolls
-1 Inscription of Insight
-2 Mythos of Illuna
 2 Cosima, God of the Voyage
+2 Mythos of Illuna
+2 Waking the Trolls
 2 Gnottvold Slumbermound
 2 Dryad of the Ilysian Grove
 2 Scorching Dragonfire
 2 Chainweb Aracnir
 2 Depart the Realm
-2 Waking the Trolls
 2 Zimone, Quandrix Prodigy
 2 Esika's Chariot
 2 Radha, Heart of Keld
@@ -141,10 +141,10 @@
 4 Mythos of Illuna
 1 Kiora Bests the Sea God
 1 Temple of Epiphany
-1 Nyxbloom Ancient
 1 Tibalt's Trickery
 1 Esika, God of the Tree
 1 Stonecoil Serpent
+1 Nyxbloom Ancient
 2 Temple of Abandon
 2 Kiora Bests the Sea God
 2 Stonecoil Serpent
@@ -169,12 +169,12 @@
 1 Swiftwater Cliffs
 1 Teferi's Tutelage
 1 Improbable Alliance
-1 Once and Future
 1 Thassa's Oracle
 1 Thornwood Falls
 1 Thwart the Enemy
 1 Storm's Wrath
 1 Rugged Highlands
+1 Once and Future
 2 Experimental Overload
 2 Bala Ged Recovery
 2 Opt

@@ -12,12 +12,13 @@
 3 Snow-Covered Swamp
 4 Swamp
 3 Temple of Deceit
+2 Negate
 5 Island
 1 Mystical Dispute
 1 Blightstep Pathway
 2 Blightstep Pathway
 3 Blightstep Pathway
-2 Negate
+4 Behold the Multiverse
 4 Omen of the Sea
 1 Murderous Rider
 3 Eliminate
@@ -29,63 +30,62 @@
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
 1 Disdainful Stroke
-4 Behold the Multiverse
 1 Ice Tunnel
 1 Valki, God of Lies
 2 Valki, God of Lies
 2 Ice Tunnel
 3 Ice Tunnel
 4 Ice Tunnel
-1 Graven Lore
-2 Graven Lore
 1 Snow-Covered Mountain
 1 Volatile Fjord
 1 Frost Bite
-1 Fae of Wishes
-1 Kroxa, Titan of Death's Hunger
 2 Volatile Fjord
 2 Snow-Covered Mountain
-2 Kroxa, Titan of Death's Hunger
 2 Frost Bite
 3 Volatile Fjord
-3 Graven Lore
 3 Frost Bite
+1 Graven Lore
+2 Graven Lore
+1 Kroxa, Titan of Death's Hunger
+1 Fae of Wishes
+2 Kroxa, Titan of Death's Hunger
+3 Graven Lore
 4 Frost Bite
 1 Brazen Borrower
 1 Baleful Mastery
-2 Field of Ruin
 1 Drown in the Loch
 3 Binding the Old Gods
-4 Snow-Covered Swamp
-5 Snow-Covered Swamp
-6 Snow-Covered Swamp
+2 Field of Ruin
 4 Snow-Covered Island
 5 Snow-Covered Island
 6 Snow-Covered Island
+4 Snow-Covered Swamp
+5 Snow-Covered Swamp
+6 Snow-Covered Swamp
 1 Cling to Dust
 1 Crippling Fear
-2 Castle Vantress
+2 Brazen Borrower
 1 Koma, Cosmos Serpent
 2 Forest
-2 Brazen Borrower
+2 Castle Vantress
 2 Test of Talents
-1 Blood on the Snow
 7 Snow-Covered Island
+1 Blood on the Snow
 1 Lochmere Serpent
-1 Ugin, the Spirit Dragon
+1 Hagra Mauling
+2 Disdainful Stroke
 1 Riverglide Pathway
 2 Riverglide Pathway
 3 Riverglide Pathway
-4 Riverglide Pathway
 4 Blightstep Pathway
-1 Hagra Mauling
-2 Disdainful Stroke
+4 Riverglide Pathway
 2 Erebos's Intervention
 2 Polukranos, Unchained
 1 Faceless Haven
 2 Faceless Haven
 1 Soul Shatter
 4 Temple of Deceit
+1 Ugin, the Spirit Dragon
 1 Hengegate Pathway
 2 Hengegate Pathway
 3 Hengegate Pathway
@@ -100,20 +100,25 @@
 4 Brightclimb Pathway
 3 Ashiok, Nightmare Muse
 1 Elspeth's Nightmare
+8 Snow-Covered Island
 1 Agonizing Remorse
 2 Agonizing Remorse
 7 Snow-Covered Swamp
-8 Snow-Covered Island
-1 Zareth San, the Trickster
-2 Baleful Mastery
 3 Brazen Borrower
+2 Baleful Mastery
+1 Frantic Inventory
+2 Frantic Inventory
+3 Frantic Inventory
+4 Frantic Inventory
+1 Zareth San, the Trickster
+1 Mystic Sanctuary
+1 Ashiok's Erasure
 3 Forest
 2 Hagra Mauling
 2 Soul Shatter
 3 Soul Shatter
 4 Mazemind Tome
 1 Lash of Malice
-1 Ashiok's Erasure
 1 Voracious Greatshark
 1 Cunning Nightbonder
 2 Ashiok's Erasure
@@ -132,10 +137,8 @@
 2 Needleverge Pathway
 3 Raugrin Triome
 6 Swamp
-1 Frantic Inventory
-2 Frantic Inventory
-3 Frantic Inventory
-4 Frantic Inventory
+6 Island
+7 Island
 1 Sea Gate Restoration
 1 Temple of Epiphany
 1 Temple of Malice
@@ -147,59 +150,38 @@
 3 Temple of Epiphany
 3 Bonecrusher Giant
 4 Bonecrusher Giant
-1 Essence Scatter
 2 Blood on the Snow
 2 Crippling Fear
 3 Crippling Fear
-6 Island
-7 Island
 2 Elspeth's Nightmare
-1 Mystic Sanctuary
 4 Ashiok, Nightmare Muse
 3 Baleful Mastery
 4 Baleful Mastery
-1 Sublime Epiphany
+1 Teferi, Master of Time
+1 Alrund's Epiphany
+1 Fire Prophecy
+2 Fire Prophecy
+1 Essence Scatter
 1 Castle Ardenvale
 1 Doomskar
 1 Plains
 2 Doomskar
 2 Plains
-2 Ugin, the Spirit Dragon
-3 Field of Ruin
-1 Ascendant Spirit
-2 Essence Scatter
-2 Ascendant Spirit
-3 Ascendant Spirit
-4 Ascendant Spirit
-9 Snow-Covered Island
-10 Snow-Covered Island
-11 Snow-Covered Island
-12 Snow-Covered Island
-13 Snow-Covered Island
-14 Snow-Covered Island
-15 Snow-Covered Island
-16 Snow-Covered Island
-17 Snow-Covered Island
-18 Snow-Covered Island
-19 Snow-Covered Island
-20 Snow-Covered Island
-1 Teferi, Master of Time
-2 Mystical Dispute
-1 Alrund's Epiphany
-2 Alrund's Epiphany
-1 Nadir Kraken
-2 Nadir Kraken
-3 Nadir Kraken
-4 Nadir Kraken
+4 Brazen Borrower
+1 Sublime Epiphany
 8 Island
 9 Island
 10 Island
 11 Island
 12 Island
-1 Kiora Bests the Sea God
+2 Alrund's Epiphany
+3 Alrund's Epiphany
+9 Snow-Covered Island
+10 Snow-Covered Island
 1 Suffocating Fumes
 1 Kaervek, the Spiteful
 1 Pelakka Predation
+2 Ugin, the Spirit Dragon
 2 Cling to Dust
 2 Drown in the Loch
 1 Neutralize
@@ -209,27 +191,26 @@
 3 Agonizing Remorse
 3 Erebos's Intervention
 1 Witching Well
-1 Feed the Swarm
 1 Soul-Guide Lantern
+1 Feed the Swarm
 1 Ghostly Pilferer
 1 Atris, Oracle of Half-Truths
 1 Dream Strix
 1 Alrund, God of the Cosmos
 1 Foulmire Knight
-2 Witching Well
 2 Feed the Swarm
+2 Witching Well
 2 Foulmire Knight
 2 Mystic Sanctuary
 2 Dream Strix
 3 Midnight Clock
 3 Dream Strix
-1 Soul Sear
+2 Mystical Dispute
+3 Field of Ruin
 1 Shatterskull Smashing
-1 Fire Prophecy
-2 Fire Prophecy
-3 Valki, God of Lies
+1 Soul Sear
 3 Temple of Malice
-4 Brazen Borrower
+3 Valki, God of Lies
 4 Temple of Epiphany
 1 Temple of Enlightenment
 1 Didn't Say Please
@@ -259,24 +240,6 @@
 4 Barkchannel Pathway
 4 Darkbore Pathway
 4 Binding the Old Gods
-1 Stormwing Entity
-1 Opt
-1 Miscast
-1 Bubble Snare
-1 Solemn Simulacrum
-1 Into the Roil
-1 The Biblioplex
-1 Reject
-2 Stormwing Entity
-2 Opt
-2 Solemn Simulacrum
-2 Into the Roil
-2 Bubble Snare
-3 Opt
-3 Bubble Snare
-3 Into the Roil
-4 Opt
-4 Field of Ruin
 1 The Raven's Warning
 1 Niko Aris
 1 Elspeth, Sun's Nemesis
@@ -285,57 +248,94 @@
 1 Jace, Mirror Mage
 1 Elspeth Conquers Death
 1 Niko Defies Destiny
+1 Nadir Kraken
 1 Glass Casket
 2 Castle Ardenvale
 2 Glass Casket
+2 Nadir Kraken
 2 Teferi, Master of Time
 3 Plains
 3 Castle Ardenvale
+3 Nadir Kraken
 4 Plains
+4 Nadir Kraken
 5 Plains
+1 Opt
+1 Creative Outburst
+1 Practical Research
+1 The Royal Scions
+1 Swiftwater Cliffs
+1 Blitz of the Thunder-Raptor
+1 Experimental Overload
+1 Cinderclasm
+1 Shipwreck Dowser
+1 Elemental Masterpiece
+2 Opt
+2 Swiftwater Cliffs
+2 Cinderclasm
+2 Elemental Masterpiece
+2 Experimental Overload
+2 Blitz of the Thunder-Raptor
+3 Snow-Covered Mountain
+3 Blitz of the Thunder-Raptor
+4 Snow-Covered Mountain
+4 Volatile Fjord
+5 Snow-Covered Mountain
+6 Snow-Covered Mountain
+7 Snow-Covered Mountain
+8 Snow-Covered Mountain
 1 Dream Devourer
 2 Dream Devourer
 3 Dream Devourer
 3 Blood on the Snow
 8 Snow-Covered Swamp
 9 Snow-Covered Swamp
-1 Sea-Dasher Octopus
-1 Ravenform
-1 Capture Sphere
-1 Charix, the Raging Isle
-1 Anticognition
-1 Mystic Reflection
-2 Sea-Dasher Octopus
-2 Ravenform
-2 Anticognition
-2 Mystic Reflection
-2 Capture Sphere
-2 Charix, the Raging Isle
-3 Mystical Dispute
-3 Capture Sphere
-3 Mystic Reflection
-3 Anticognition
-4 Mystical Dispute
-4 Mystic Reflection
+1 Glasspool Mimic
+1 Strixhaven Stadium
+1 Medomai's Prophecy
+1 Mystic Subdual
+1 Rewind
+1 Crystalline Giant
+1 King Narfi's Betrayal
+1 Corridor Monitor
+2 Strixhaven Stadium
+2 Corridor Monitor
+2 Rewind
+2 King Narfi's Betrayal
+2 Mystic Subdual
+2 Medomai's Prophecy
+3 Strixhaven Stadium
+3 Mystic Subdual
+3 Corridor Monitor
+4 Strixhaven Stadium
+4 Corridor Monitor
 13 Island
 14 Island
 15 Island
 16 Island
-17 Island
-18 Island
-19 Island
-20 Island
-21 Island
-22 Island
 1 Icebreaker Kraken
+1 Ascendant Spirit
 1 Frost Augur
+2 Essence Scatter
 2 Frost Augur
+2 Ascendant Spirit
 2 Icebreaker Kraken
 3 Faceless Haven
-3 Alrund's Epiphany
 3 Frost Augur
+3 Ascendant Spirit
 4 Faceless Haven
+4 Ascendant Spirit
 4 Frost Augur
+11 Snow-Covered Island
+12 Snow-Covered Island
+13 Snow-Covered Island
+14 Snow-Covered Island
+15 Snow-Covered Island
+16 Snow-Covered Island
+17 Snow-Covered Island
+18 Snow-Covered Island
+19 Snow-Covered Island
+20 Snow-Covered Island
 21 Snow-Covered Island
 22 Snow-Covered Island
 23 Snow-Covered Island

@@ -4,20 +4,21 @@
 2 Fiery Confluence
 2 Sulfur Elemental
 3 Pyroblast
-1 Bonecrusher Giant
 3 Abrade
 1 Faerie Macabre
 2 Faerie Macabre
 3 Faerie Macabre
 4 Pyroblast
+4 Faerie Macabre
+1 Bonecrusher Giant
 1 Kozilek's Return
 1 Lion's Eye Diamond
+4 Abrade
 1 Grafdigger's Cage
 1 Thought-Knot Seer
 2 Thought-Knot Seer
 3 Thought-Knot Seer
 3 Sulfur Elemental
-4 Faerie Macabre
 1 Great Furnace
 1 Legion Warboss
 1 Magus of the Moon
@@ -25,13 +26,10 @@
 2 Magus of the Moon
 3 Magus of the Moon
 3 Legion Warboss
-4 Abrade
 4 Leyline of the Void
 1 Weathered Runestone
 1 Darksteel Citadel
 1 Ratchet Bomb
-4 Thought-Knot Seer
-2 Ensnaring Bridge
 1 Red Elemental Blast
 1 Izzet Staticaster
 1 Vendilion Clique
@@ -40,15 +38,14 @@
 1 Brazen Borrower
 1 Blood Moon
 2 Pyroclasm
-1 Null Rod
-2 Grafdigger's Cage
-3 Grafdigger's Cage
 1 Damping Sphere
 1 Blightsteel Colossus
 1 Defense Grid
 1 Volcanic Fallout
 2 Volcanic Fallout
 1 Sphere of Resistance
+4 Thought-Knot Seer
+2 Ensnaring Bridge
 1 Pia and Kiran Nalaar
 1 Pyrokinesis
 1 Dead/Gone
@@ -58,12 +55,15 @@
 2 Goblin Cratermaker
 1 Wurmcoil Engine
 2 Defense Grid
-1 Trinisphere
-2 Bonecrusher Giant
-3 Ensnaring Bridge
+2 Kozilek's Return
 3 Fiery Confluence
+1 Null Rod
+2 Grafdigger's Cage
+3 Grafdigger's Cage
 1 Umezawa's Jitte
 2 Walking Ballista
 2 Tormod's Crypt
 3 Tormod's Crypt
-2 Kozilek's Return
+1 Trinisphere
+3 Ensnaring Bridge
+2 Bonecrusher Giant
