@@ -113,8 +113,8 @@
 |                    4|[Zagoth Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479779)             |                     |                                                                                                 |
 |                    4|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)              |                     |                                                                                                 |
 |                    4|[Fatal Push](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423724)                |                     |                                                                                                 |
-|                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)          |                     |                                                                                                 |
 |                    1|[Nissa, Vastwood Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398438)      |                     |                                                                                                 |
+|                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997)          |                     |                                                                                                 |
 |                    4|[Alrund's Epiphany](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503648)         |                     |                                                                                                 |
 |                    5|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)                    |                     |                                                                                                 |
 

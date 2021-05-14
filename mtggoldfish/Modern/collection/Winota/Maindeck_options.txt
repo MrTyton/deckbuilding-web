@@ -7,18 +7,18 @@
 1 Needleverge Pathway
 1 Ghost Quarter
 1 Giver of Runes
-2 Leonin Arbiter
 2 Sunbaked Canyon
-2 Needleverge Pathway
+2 Leonin Arbiter
 2 Sacred Foundry
+2 Needleverge Pathway
 2 Ghost Quarter
 2 Giver of Runes
-3 Sacred Foundry
-3 Leonin Arbiter
 3 Sunbaked Canyon
+3 Leonin Arbiter
+3 Needleverge Pathway
+3 Sacred Foundry
 3 Plains
 3 Giver of Runes
-3 Needleverge Pathway
 4 Plains
 4 Sunbaked Canyon
 4 Leonin Arbiter
@@ -165,15 +165,6 @@
 1 Drannith Magistrate
 2 Drannith Magistrate
 3 Drannith Magistrate
-1 Gilded Goose
-1 Brushfire Elemental
-1 Rampaging Ferocidon
-1 Banisher Priest
-2 Gilded Goose
-2 Arid Mesa
-2 Brushfire Elemental
-3 Gilded Goose
-4 Voice of Resurgence
 1 Avalanche Riders
 1 Utopia Sprawl
 1 Pia Nalaar
@@ -189,5 +180,14 @@
 4 Forest
 4 Magus of the Moon
 4 Huntmaster of the Fells
-5 Forest
 4 Utopia Sprawl
+5 Forest
+1 Gilded Goose
+1 Brushfire Elemental
+1 Rampaging Ferocidon
+1 Banisher Priest
+2 Gilded Goose
+2 Arid Mesa
+2 Brushfire Elemental
+3 Gilded Goose
+4 Voice of Resurgence

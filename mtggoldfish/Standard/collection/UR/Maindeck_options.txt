@@ -146,10 +146,10 @@
 1 Crawling Barrens
 1 Field of Ruin
 1 Irencrag Feat
-2 Jwari Disruption
+2 Field of Ruin
 2 Ugin, the Spirit Dragon
 2 Irencrag Feat
-2 Field of Ruin
+2 Jwari Disruption
 3 Ugin, the Spirit Dragon
 4 Magma Opus
 1 Torrent Sculptor
@@ -182,11 +182,11 @@
 2 Midnight Clock
 2 Lorehold Command
 2 Divide by Zero
+3 Mazemind Tome
 3 Midnight Clock
 3 Lorehold Command
-3 Mazemind Tome
-4 Lorehold Command
 4 Mazemind Tome
+4 Lorehold Command
 1 Solemn Simulacrum
 2 Solemn Simulacrum
 2 Crawling Barrens
@@ -210,8 +210,8 @@
 3 Creative Outburst
 4 Creative Outburst
 1 Rowan, Scholar of Sparks
-1 Storm's Wrath
 1 Practical Research
+1 Storm's Wrath
 2 Storm's Wrath
 2 Practical Research
 1 Castle Vantress
@@ -221,13 +221,13 @@
 8 Snow-Covered Island
 4 Infuriate
 1 Rally for the Throne
+2 Castle Vantress
 1 Lofty Denial
 1 The Royal Scions
 2 Lofty Denial
 2 The Royal Scions
 1 Miscast
 2 Miscast
-2 Castle Vantress
 1 Snow-Covered Plains
 1 Search for Glory
 1 Birgi, God of Storytelling
@@ -243,16 +243,25 @@
 3 Unleash Fury
 3 Practical Research
 3 Divide by Zero
+1 Frantic Inventory
+1 Blazing Volley
+1 Claim the Firstborn
+1 Raking Claws
+2 Frantic Inventory
+2 Blazing Volley
+2 Raking Claws
+3 Frantic Inventory
+4 Frantic Inventory
 3 Shark Typhoon
 4 Shark Typhoon
+1 Sublime Epiphany
 1 Temple of Triumph
+1 Temple of Enlightenment
+1 Witching Well
 1 Glass Casket
 1 Emeria's Call
 1 Doomskar
 1 The Birth of Meletis
-1 Sublime Epiphany
-1 Temple of Enlightenment
-1 Witching Well
 2 Plains
 2 Glass Casket
 2 Doomskar
@@ -274,51 +283,46 @@
 4 Robber of the Rich
 4 Fervent Champion
 4 Of One Mind
-1 Blazing Volley
-1 Claim the Firstborn
-1 Raking Claws
-1 Frantic Inventory
-2 Blazing Volley
-2 Frantic Inventory
-2 Raking Claws
-3 Frantic Inventory
-4 Frantic Inventory
 1 Clever Lumimancer
 2 Clever Lumimancer
 2 Stern Dismissal
 3 Clever Lumimancer
 4 Clever Lumimancer
 1 Temple of Malice
-1 Agonizing Remorse
-1 Heartless Act
-1 Cling to Dust
-1 Duress
-1 Professor Onyx
 1 Valki, God of Lies
+1 Extinction Event
+1 Heartless Act
+1 Agonizing Remorse
+1 Professor Onyx
+1 Duress
+1 Cling to Dust
 1 Swamp
 1 Clearwater Pathway
-1 Extinction Event
 1 Temple of Deceit
 1 Blightstep Pathway
+2 Valki, God of Lies
 2 Agonizing Remorse
+2 Extinction Event
 2 Temple of Deceit
 2 Professor Onyx
-2 Extinction Event
 2 Blightstep Pathway
 2 Heartless Act
 2 Swamp
-2 Valki, God of Lies
 2 Clearwater Pathway
 3 Agonizing Remorse
+3 Extinction Event
 3 Clearwater Pathway
 3 Blightstep Pathway
 3 Heartless Act
-3 Extinction Event
 4 Extinction Event
 4 Clearwater Pathway
 4 Blightstep Pathway
-1 Rimrock Knight
+1 Uvilda, Dean of Perfection
+2 Uvilda, Dean of Perfection
+9 Snow-Covered Island
+10 Snow-Covered Island
 1 Mystic Sanctuary
+1 Rimrock Knight
 1 Escape Velocity
 1 Heartfire Immolator
 2 Rimrock Knight
@@ -328,7 +332,3 @@
 3 Heartfire Immolator
 4 Rimrock Knight
 4 Heartfire Immolator
-1 Uvilda, Dean of Perfection
-2 Uvilda, Dean of Perfection
-9 Snow-Covered Island
-10 Snow-Covered Island

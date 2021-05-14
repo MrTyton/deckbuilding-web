@@ -1,12 +1,12 @@
-8 Forest
-1 Darksteel Citadel
-2 Darksteel Citadel
+6 Forest
 3 Animation Module
 1 Llanowar Wastes
 2 Llanowar Wastes
 3 Llanowar Wastes
 4 Llanowar Wastes
 4 Ancient Stirrings
+7 Forest
+8 Forest
 1 Brushland
 2 Brushland
 3 Brushland
@@ -16,32 +16,37 @@
 9 Forest
 3 Blinkmoth Nexus
 1 Razorverge Thicket
+3 Welding Jar
 2 Blooming Marsh
-1 Nurturing Peatland
-1 Vines of Vastwood
 1 Horizon Canopy
 2 Razorverge Thicket
 3 Razorverge Thicket
-4 Blinkmoth Nexus
 1 Urborg, Tomb of Yawgmoth
-3 Welding Jar
+1 Temple Garden
 3 Blooming Marsh
 4 Blooming Marsh
-1 Temple Garden
+4 Blinkmoth Nexus
+3 Scrapyard Recombiner
+1 Nurturing Peatland
 2 Temple Garden
+1 Vines of Vastwood
 1 Darkbore Pathway
 2 Darkbore Pathway
 3 Darkbore Pathway
 4 Darkbore Pathway
 1 Lightning Bolt
 1 Branchloft Pathway
-3 Scrapyard Recombiner
 1 Overgrown Tomb
 2 Overgrown Tomb
 2 Lightning Bolt
 3 Steel Overseer
+4 Welding Jar
 10 Forest
+1 Cavern of Souls
+2 Cavern of Souls
 1 Spellskite
+1 Snow-Covered Forest
+2 Snow-Covered Forest
 2 Snakeskin Veil
 1 Grove of the Burnwillows
 1 Cragcrown Pathway
@@ -50,21 +55,16 @@
 3 Grove of the Burnwillows
 4 Grove of the Burnwillows
 3 Lightning Bolt
+2 Nurturing Peatland
 1 Luminarch Aspirant
 2 Luminarch Aspirant
-2 Nurturing Peatland
 1 Plains
 1 Mountain
-4 Welding Jar
 11 Forest
-1 Snow-Covered Forest
-2 Snow-Covered Forest
 3 Cragcrown Pathway
 4 Cragcrown Pathway
 1 Path to Exile
 2 Path to Exile
-1 Cavern of Souls
-2 Cavern of Souls
 2 Branchloft Pathway
 3 Branchloft Pathway
 1 Showdown of the Skalds
@@ -112,18 +112,20 @@
 1 Botanical Sanctum
 1 Emry, Lurker of the Loch
 1 Island
-1 Barkchannel Pathway
 1 Yavimaya Coast
+1 Barkchannel Pathway
 2 Botanical Sanctum
 2 Emry, Lurker of the Loch
-2 Barkchannel Pathway
 2 Spellskite
 2 Island
+2 Barkchannel Pathway
 3 Emry, Lurker of the Loch
 3 Barkchannel Pathway
 3 Springleaf Drum
 4 Emry, Lurker of the Loch
 4 Barkchannel Pathway
+2 Pendelhaven
+4 Scrapyard Recombiner
 1 Sparring Construct
 2 Sparring Construct
 3 Sparring Construct

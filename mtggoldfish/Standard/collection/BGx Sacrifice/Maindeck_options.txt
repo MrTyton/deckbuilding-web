@@ -54,10 +54,10 @@
 1 Callous Bloodmage
 2 Callous Bloodmage
 3 Callous Bloodmage
-1 Furycalm Snarl
 1 Elite Spellbinder
-1 Humiliate
 1 Pelakka Predation
+1 Furycalm Snarl
+1 Humiliate
 1 Shineshadow Snarl
 2 Elite Spellbinder
 2 Humiliate
@@ -76,25 +76,25 @@
 3 Garrison Cat
 4 Professor of Symbology
 4 Garrison Cat
-1 Edgewall Innkeeper
-1 Lovestruck Beast
+1 Forest
 1 Darkbore Pathway
 1 Cragcrown Pathway
-1 Forest
-2 Edgewall Innkeeper
-2 Lovestruck Beast
+1 Edgewall Innkeeper
+1 Lovestruck Beast
 2 Forest
-2 Cragcrown Pathway
 2 Darkbore Pathway
-3 Lovestruck Beast
-3 Edgewall Innkeeper
-3 Cragcrown Pathway
-3 Darkbore Pathway
+2 Lovestruck Beast
+2 Cragcrown Pathway
+2 Edgewall Innkeeper
 3 Bonecrusher Giant
-4 Lovestruck Beast
-4 Edgewall Innkeeper
-4 Darkbore Pathway
+3 Darkbore Pathway
+3 Lovestruck Beast
+3 Cragcrown Pathway
+3 Edgewall Innkeeper
 4 Bonecrusher Giant
+4 Darkbore Pathway
+4 Edgewall Innkeeper
+4 Lovestruck Beast
 4 Cragcrown Pathway
 1 Snow-Covered Mountain
 2 Snow-Covered Mountain
@@ -102,18 +102,18 @@
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
-1 Vito, Thorn of the Dusk Rose
 1 Bloodchief's Thirst
+1 Nighthawk Scavenger
+1 Vito, Thorn of the Dusk Rose
 1 Nullpriest of Oblivion
 1 Call of the Death-Dweller
-1 Nighthawk Scavenger
 1 Valentin, Dean of the Vein
 2 Bloodchief's Thirst
+2 Nighthawk Scavenger
 2 Valentin, Dean of the Vein
 2 Vito, Thorn of the Dusk Rose
 2 Call of the Death-Dweller
 2 Ayara, First of Locthwain
-2 Nighthawk Scavenger
 2 Nullpriest of Oblivion
 2 Castle Locthwain
 3 Nullpriest of Oblivion
@@ -134,10 +134,10 @@
 17 Swamp
 18 Swamp
 19 Swamp
+1 Grasp of Darkness
 1 Lampad of Death's Vigil
 1 Pestilent Cauldron
 1 Silverquill Pledgemage
-1 Grasp of Darkness
 1 Umbral Juke
 2 Silverquill Pledgemage
 2 Umbral Juke

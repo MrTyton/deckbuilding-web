@@ -2,12 +2,12 @@
 1 Prismatic Vista
 2 Prismatic Vista
 4 Island
-1 Into the Story
 3 Maddening Cacophony
+1 Into the Story
 2 Snapcaster Mage
+4 Maddening Cacophony
 1 Shelldock Isle
 3 Flooded Strand
-4 Maddening Cacophony
 1 Eliminate
 2 Shelldock Isle
 1 Bloodchief's Thirst
@@ -15,8 +15,8 @@
 2 Bloodstained Mire
 3 Bloodstained Mire
 4 Bloodstained Mire
-1 Jace, Vryn's Prodigy
 1 Scalding Tarn
+1 Jace, Vryn's Prodigy
 1 Izzet Charm
 1 Blood Crypt
 1 Unearth
@@ -26,8 +26,8 @@
 1 Collective Brutality
 1 Prodigious Growth
 1 Storm Herald
-2 Jace, Vryn's Prodigy
 2 Scalding Tarn
+2 Jace, Vryn's Prodigy
 2 Izzet Charm
 2 Blood Crypt
 2 Unearth
@@ -46,6 +46,7 @@
 4 Eldrazi Conscription
 4 Storm Herald
 4 Jace, Vryn's Prodigy
+3 Snapcaster Mage
 1 Mountain
 2 Battle Mastery
 2 Steam Vents
@@ -61,8 +62,8 @@
 1 Baleful Mastery
 1 Snow-Covered Swamp
 1 Snow-Covered Island
-2 Snow-Covered Island
 2 Snow-Covered Swamp
+2 Snow-Covered Island
 3 Snow-Covered Island
 1 Mikokoro, Center of the Sea
 1 Fraying Sanity
@@ -79,16 +80,15 @@
 1 Inquisition of Kozilek
 1 Stinkweed Imp
 2 Inquisition of Kozilek
-3 Snapcaster Mage
 3 Swamp
 1 Forest
 1 Breeding Pool
 1 Assassin's Trophy
 1 Waterlogged Grove
 1 Harrow
-2 Breeding Pool
 2 Assassin's Trophy
 2 Harrow
+2 Breeding Pool
 3 Misty Rainforest
 4 Misty Rainforest
 1 Search for Azcanta

@@ -5,8 +5,8 @@
 2 Jaspera Sentinel
 2 Chulane, Teller of Tales
 3 Forest
-3 Of One Mind
 3 Felidar Retreat
+3 Of One Mind
 3 Lotus Cobra
 3 Clarion Spirit
 3 Fabled Passage
@@ -31,8 +31,8 @@
 1 Reverent Hoplite
 1 Linvala, Shield of Sea Gate
 1 Raugrin Triome
-2 Daxos, Blessed by the Sun
 2 Castle Ardenvale
+2 Daxos, Blessed by the Sun
 2 Island
 2 Skyclave Apparition
 2 Reverent Hoplite
@@ -42,6 +42,7 @@
 3 Youthful Valkyrie
 4 Youthful Valkyrie
 1 Decisive Denial
+1 Kenrith, the Returned King
 1 Elite Spellbinder
 1 Quandrix Command
 1 Cosmos Elixir
@@ -49,7 +50,6 @@
 1 Luminarch Aspirant
 1 Ketria Triome
 1 Valkyrie Harbinger
-1 Kenrith, the Returned King
 2 Decisive Denial
 2 Elite Spellbinder
 2 Cosmos Elixir
@@ -62,6 +62,7 @@
 4 Luminarch Aspirant
 1 Llanowar Visionary
 1 Snow-Covered Island
+1 Snow-Covered Forest
 1 Snow-Covered Plains
 1 Behold the Multiverse
 1 Rimewood Falls
@@ -72,14 +73,13 @@
 1 Cragplate Baloth
 1 Disdainful Stroke
 1 Dream Trawler
-1 Beanstalk Giant
 1 Realm-Cloaked Giant
-1 Snow-Covered Forest
 1 Ilysian Caryatid
 1 Glacial Floodplain
 1 Sarulf's Packmate
 1 Vastwood Surge
 1 Sculptor of Winter
+1 Beanstalk Giant
 2 Shepherd of the Flock
 2 Llanowar Visionary
 2 Snow-Covered Plains

@@ -1,8 +1,4 @@
 1 Talisman of Dominance
-1 Galvanic Blast
-5 Snow-Covered Island
-2 Galvanic Blast
-1 Island
 3 Darkslick Shores
 2 Glimmervoid
 3 Glimmervoid
@@ -13,15 +9,14 @@
 4 Whir of Invention
 1 Inquisition of Kozilek
 1 Codex Shredder
-1 Ancient Stirrings
 1 Lantern of Insight
 1 Pyxis of Pandemonium
+1 Ancient Stirrings
 2 Inquisition of Kozilek
 2 Pithing Needle
 2 Codex Shredder
 2 Lantern of Insight
 2 Ancient Stirrings
-3 Inquisition of Kozilek
 3 Ancient Stirrings
 3 Lantern of Insight
 3 Codex Shredder
@@ -33,24 +28,29 @@
 1 Grafdigger's Cage
 1 Torpor Orb
 3 Ensnaring Bridge
-1 Botanical Sanctum
 1 Talisman of Curiosity
 1 Barkchannel Pathway
 1 Assassin's Trophy
-2 Botanical Sanctum
+1 Botanical Sanctum
 2 Barkchannel Pathway
 2 Assassin's Trophy
 2 Talisman of Curiosity
+2 Botanical Sanctum
 2 Pyxis of Pandemonium
 3 Botanical Sanctum
 4 Botanical Sanctum
+3 Inquisition of Kozilek
+1 Galvanic Blast
+1 Island
+2 Galvanic Blast
 2 Scalding Tarn
 1 Swamp
-1 Spellskite
 2 Island
 3 Island
 4 Island
+5 Snow-Covered Island
 2 Mox Amber
+1 Spellskite
 1 Mystic Sanctuary
 3 Witching Well
 1 Pentad Prism
@@ -104,10 +104,12 @@
 1 Cryptic Command
 1 Plargg, Dean of Chaos
 2 Plargg, Dean of Chaos
-1 Sacred Foundry
 1 Snow-Covered Plains
 1 Teferi, Time Raveler
+1 Sacred Foundry
 2 Teferi, Time Raveler
+1 Collective Brutality
+2 Collective Brutality
 1 Ashiok, Dream Render
 1 Clearwater Pathway
 2 Ashiok, Dream Render
@@ -155,7 +157,7 @@
 1 Geier Reach Sanitarium
 2 Force of Negation
 2 Echo of Eons
-3 Narset, Parter of Veils
 3 Fatal Push
+3 Narset, Parter of Veils
 3 Force of Negation
 4 Fatal Push
