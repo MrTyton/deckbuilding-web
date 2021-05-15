@@ -16,10 +16,10 @@
 1 Fiery Temper
 1 Force of Will
 1 Just the Wind
-2 Trail of Crumbs
 2 Island
 2 Drown in the Loch
 2 Thoughtseize
+2 Trail of Crumbs
 2 Omen of the Sea
 2 Shark Typhoon
 2 Force of Negation
@@ -48,40 +48,11 @@
 2 Wild Growth
 2 Windswept Heath
 3 Windswept Heath
-3 Wild Growth
 3 Destiny Spinner
+3 Wild Growth
 3 Enchantress's Presence
 4 Windswept Heath
 4 Enchantress's Presence
-1 Setessan Champion
-1 Exploration
-1 Oblivion Ring
-1 On Thin Ice
-1 Snow-Covered Forest
-1 Helm of Obedience
-1 Snow-Covered Plains
-1 Rest in Peace
-1 Sterling Grove
-1 Choke
-1 Solitary Confinement
-2 Setessan Champion
-2 Snow-Covered Forest
-2 Oblivion Ring
-2 Helm of Obedience
-2 On Thin Ice
-2 Rest in Peace
-2 Solitary Confinement
-2 Sterling Grove
-2 Snow-Covered Plains
-3 Snow-Covered Forest
-3 Rest in Peace
-3 On Thin Ice
-4 Snow-Covered Forest
-4 Wild Growth
-4 On Thin Ice
-4 Destiny Spinner
-5 Snow-Covered Forest
-6 Snow-Covered Forest
 1 Wooded Foothills
 1 In Search of Greatness
 1 Binding the Old Gods
@@ -100,3 +71,32 @@
 6 Forest
 7 Forest
 8 Forest
+1 Exploration
+1 Oblivion Ring
+1 On Thin Ice
+1 Snow-Covered Forest
+1 Helm of Obedience
+1 Snow-Covered Plains
+1 Rest in Peace
+1 Setessan Champion
+1 Sterling Grove
+1 Choke
+1 Solitary Confinement
+2 Snow-Covered Forest
+2 Oblivion Ring
+2 Helm of Obedience
+2 On Thin Ice
+2 Rest in Peace
+2 Solitary Confinement
+2 Sterling Grove
+2 Snow-Covered Plains
+2 Setessan Champion
+3 Snow-Covered Forest
+3 Rest in Peace
+3 On Thin Ice
+4 Wild Growth
+4 Snow-Covered Forest
+4 On Thin Ice
+4 Destiny Spinner
+5 Snow-Covered Forest
+6 Snow-Covered Forest

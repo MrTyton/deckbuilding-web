@@ -1,6 +1,7 @@
-2 Behold the Multiverse
 2 Heartless Act
 1 Rewind
+2 Behold the Multiverse
+1 Hero's Downfall
 1 Magma Opus
 2 Magma Opus
 3 Magma Opus
@@ -8,20 +9,19 @@
 1 Riverglide Pathway
 3 Torrential Gearhulk
 4 Dig Through Time
-1 Hero's Downfall
+1 Narset, Parter of Veils
+2 Narset, Parter of Veils
 2 Cling to Dust
 1 Thoughtseize
 2 Thoughtseize
-1 Narset, Parter of Veils
-2 Narset, Parter of Veils
+3 Narset, Parter of Veils
 3 Swamp
 2 Extinction Event
 1 Bloodchief's Thirst
 2 Bloodchief's Thirst
-3 Narset, Parter of Veils
+1 Geier Reach Sanitarium
 1 Silundi Vision
 1 Day's Undoing
-1 Geier Reach Sanitarium
 1 Inscription of Ruin
 1 Thing in the Ice
 2 Silundi Vision
@@ -43,6 +43,8 @@
 2 Radiant Fountain
 4 Torrential Gearhulk
 1 Port of Karfell
+2 Field of Ruin
+1 Drown in the Loch
 1 Breeding Pool
 1 Overgrown Tomb
 1 Zagoth Triome
@@ -51,11 +53,10 @@
 2 Breeding Pool
 3 Zagoth Triome
 4 Zagoth Triome
-2 Field of Ruin
 2 Rewind
 1 Hagra Mauling
-1 Drown in the Loch
 1 Abrupt Decay
+1 Vraska's Contempt
 1 Growth Spiral
 1 Lumbering Falls
 2 Growth Spiral
@@ -69,7 +70,6 @@
 3 Eureka Moment
 3 Thoughtseize
 3 Overgrown Tomb
-1 Vraska's Contempt
 2 Negate
 1 Botanical Sanctum
 1 Mountain
@@ -81,8 +81,8 @@
 1 Elder Gargaroth
 1 Snow-Covered Swamp
 1 Snow-Covered Forest
-1 Nissa, Who Shakes the World
 1 Snow-Covered Island
+1 Nissa, Who Shakes the World
 2 Elder Gargaroth
 2 Snow-Covered Forest
 2 Snow-Covered Swamp
@@ -100,28 +100,7 @@
 4 Fetid Pools
 1 Neutralize
 1 Void Shatter
-1 Teferi, Hero of Dominaria
-1 Absorb
-1 Supreme Verdict
-1 Glacial Fortress
-1 Cast Out
-1 Castle Ardenvale
-1 Azorius Charm
-1 Hallowed Fountain
-1 Plains
-2 Teferi, Hero of Dominaria
-2 Glacial Fortress
-2 Hallowed Fountain
-2 Supreme Verdict
-2 Plains
-2 Azorius Charm
-3 Teferi, Hero of Dominaria
-3 Supreme Verdict
-3 Glacial Fortress
-3 Hallowed Fountain
-3 Azorius Charm
-4 Hallowed Fountain
-4 Supreme Verdict
+3 Field of Ruin
 1 Ashiok, Nightmare Muse
 1 Test of Talents
 1 Omen of the Sea
@@ -131,49 +110,65 @@
 1 Mutavault
 2 Mutavault
 2 Void Shatter
-3 Baleful Mastery
-3 Negate
 1 Saw It Coming
 3 Radiant Fountain
 3 Heartless Act
-1 Detention Sphere
-1 Irrigated Farmland
-1 Rest in Peace
-1 Dovin's Veto
-1 Blessed Alliance
-1 Dream Trawler
-1 Hengegate Pathway
-1 Grafdigger's Cage
-2 Dovin's Veto
-2 Castle Ardenvale
-2 Blessed Alliance
-2 Irrigated Farmland
-2 Absorb
-3 Castle Ardenvale
-3 Irrigated Farmland
-3 Absorb
-4 Azorius Charm
-4 Absorb
-4 Irrigated Farmland
-5 Island
+3 Baleful Mastery
+3 Negate
 1 Sphinx's Revelation
 1 Ipnu Rivulet
 1 Jace, Architect of Thought
 1 Fae of Wishes
+1 Teferi, Hero of Dominaria
+1 Absorb
+1 Supreme Verdict
+1 Glacial Fortress
 1 Elixir of Immortality
-1 Declaration in Stone
+1 Cast Out
 1 Settle the Wreckage
+1 Declaration in Stone
+1 Hallowed Fountain
+1 Castle Ardenvale
+1 Azorius Charm
 1 Sea Gate Restoration
 1 Scavenger Grounds
 1 Emeria's Call
+1 Plains
 2 Cast Out
 2 Fae of Wishes
+2 Teferi, Hero of Dominaria
+2 Glacial Fortress
+2 Hallowed Fountain
 2 Emeria's Call
+2 Supreme Verdict
+2 Plains
+2 Azorius Charm
 2 Ipnu Rivulet
 2 Sphinx's Revelation
-3 Field of Ruin
+3 Teferi, Hero of Dominaria
+3 Supreme Verdict
+3 Glacial Fortress
+3 Hallowed Fountain
 3 Plains
 3 Sphinx's Revelation
+3 Azorius Charm
 3 Ipnu Rivulet
+4 Hallowed Fountain
+4 Supreme Verdict
 4 Field of Ruin
 4 Plains
+1 Vantress Gargoyle
+1 Commit/Memory
+1 Languish
+1 Flaying Tendrils
+1 Temple of Deceit
+1 Thought Erasure
+2 Vantress Gargoyle
+2 Geier Reach Sanitarium
+2 Temple of Deceit
+2 Drown in the Loch
+3 Temple of Deceit
+3 Vantress Gargoyle
+4 Vantress Gargoyle
+4 Narset, Parter of Veils
+4 Temple of Deceit

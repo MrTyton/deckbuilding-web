@@ -115,7 +115,7 @@
 |                    3|[Gemstone Caverns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122094)     |                     |                                                                                                  |
 |                    3|[Aether Hub](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417815)           |                     |                                                                                                  |
 |                    4|[Gemstone Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=109761)        |                     |                                                                                                  |
-|                    4|[Merchant of the Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473093) |                     |                                                                                                  |
 |                    4|[Gemstone Caverns](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=122094)     |                     |                                                                                                  |
+|                    4|[Merchant of the Vale](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473093) |                     |                                                                                                  |
 |                    4|[Mana Confluence](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409573)      |                     |                                                                                                  |
 

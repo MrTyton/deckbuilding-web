@@ -52,8 +52,8 @@
 |                    2|[Essence Capture](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457181)    |                     |                                                                                          |
 |                    2|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                |                     |                                                                                          |
 |                    3|[Curious Obsession](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439692)  |                     |                                                                                          |
-|                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |                     |                                                                                          |
 |                    3|[Mystical Dispute](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473020)   |                     |                                                                                          |
+|                    3|[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425876)       |                     |                                                                                          |
 |                    3|[Brineborn Cutthroat](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466804)|                     |                                                                                          |
 |                    3|[Siren Stormtamer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435232)   |                     |                                                                                          |
 |                    3|[Spectral Sailor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466830)    |                     |                                                                                          |
@@ -68,7 +68,6 @@
 |                    4|[Spectral Sailor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466830)    |                     |                                                                                          |
 |                    4|[Unsubstantiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=414374)     |                     |                                                                                          |
 |                    4|[Opt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442948)                |                     |                                                                                          |
-|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                          |
 |                    8|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                          |
 |                    9|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                          |
 |                   10|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                          |
@@ -83,4 +82,5 @@
 |                   19|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                          |
 |                   20|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                          |
 |                   21|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                          |
+|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)             |                     |                                                                                          |
 

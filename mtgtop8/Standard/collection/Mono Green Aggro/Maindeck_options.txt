@@ -5,8 +5,8 @@
 20 Snow-Covered Forest
 21 Snow-Covered Forest
 2 Garruk, Unleashed
-1 Nessian Hornbeetle
 1 Yorvo, Lord of Garenbrig
+1 Nessian Hornbeetle
 2 Nessian Hornbeetle
 3 Tangled Florahedron
 2 Vivien, Monsters' Advocate
@@ -52,41 +52,41 @@
 4 Scavenging Ooze
 1 Toski, Bearer of Secrets
 1 Bala Ged Recovery
-1 Tajuru Blightblade
 1 Fynn, the Fangbearer
-1 Moss Viper
 1 Heroic Intervention
+1 Tajuru Blightblade
 1 Runed Crown
+1 Moss Viper
 1 Icehide Troll
 1 Rune of Might
 2 Bala Ged Recovery
+2 Moss Viper
 2 Tajuru Blightblade
 2 Fynn, the Fangbearer
-2 Moss Viper
 2 Icehide Troll
 2 Rune of Might
-3 Tajuru Blightblade
-3 Fynn, the Fangbearer
-3 Moss Viper
 3 Rune of Might
+3 Fynn, the Fangbearer
+3 Tajuru Blightblade
 3 Icehide Troll
+3 Moss Viper
 4 Tajuru Blightblade
-4 Fynn, the Fangbearer
-4 Moss Viper
 4 Icehide Troll
+4 Fynn, the Fangbearer
 4 Rune of Might
+4 Moss Viper
 3 Crawling Barrens
 1 Wicked Wolf
 1 Trail of Crumbs
 1 Gilded Goose
-1 Witch's Oven
 1 Feasting Troll King
-2 Trail of Crumbs
+1 Witch's Oven
 2 Wicked Wolf
+2 Trail of Crumbs
 2 Gilded Goose
 2 Feasting Troll King
-3 Gilded Goose
 3 Wicked Wolf
+3 Gilded Goose
 4 Wicked Wolf
 4 Gilded Goose
 1 Wildwood Scourge
@@ -102,19 +102,19 @@
 2 Wildborn Preserver
 3 Wildborn Preserver
 4 Wildborn Preserver
-1 Llanowar Visionary
 1 Fierce Empath
-2 Llanowar Visionary
+1 Llanowar Visionary
 2 Fierce Empath
+2 Llanowar Visionary
 1 Quandrix Cultivator
 1 Emergent Sequence
-1 Thassa, Deep-Dwelling
 1 Ravenform
-1 Sculptor of Winter
+1 Thassa, Deep-Dwelling
 1 Sarulf's Packmate
 1 Ugin, the Spirit Dragon
 1 Koma, Cosmos Serpent
 1 Rimewood Falls
+1 Sculptor of Winter
 1 Biomathematician
 1 Bookwurm
 1 Cram Session
@@ -123,32 +123,32 @@
 1 Quandrix Campus
 2 Quandrix Cultivator
 2 Emergent Sequence
-2 Sculptor of Winter
 2 Rimewood Falls
 2 Sarulf's Packmate
 2 Ravenform
+2 Sculptor of Winter
 2 Quandrix Campus
 2 Biomathematician
 2 Cram Session
 2 Snow-Covered Island
 2 Bookwurm
 3 Quandrix Cultivator
-3 Sculptor of Winter
 3 Emergent Sequence
 3 Sarulf's Packmate
 3 Rimewood Falls
 3 Fierce Empath
 3 Llanowar Visionary
+3 Sculptor of Winter
 3 Ravenform
 3 Cram Session
 3 Biomathematician
 3 Bookwurm
 3 Snow-Covered Island
 4 Quandrix Cultivator
-4 Sculptor of Winter
 4 Emergent Sequence
 4 Fierce Empath
 4 Llanowar Visionary
+4 Sculptor of Winter
 4 Snow-Covered Island
 4 Rimewood Falls
 4 Sarulf's Packmate
@@ -178,12 +178,12 @@
 2 Adventurous Impulse
 3 Adventurous Impulse
 4 Adventurous Impulse
-1 Elvish Warmaster
 1 Shadowspear
+1 Turntimber Symbiosis
+1 Elvish Warmaster
+1 Cragplate Baloth
 1 Jaspera Sentinel
 1 Tyvar Kell
-1 Turntimber Symbiosis
-1 Cragplate Baloth
 1 Masked Vandal
 1 Canopy Tactician
 1 Skyway Sniper
@@ -196,6 +196,24 @@
 3 Jaspera Sentinel
 4 Elvish Warmaster
 4 Jaspera Sentinel
+1 Charge Through
+1 Big Play
+1 Invigorating Surge
+2 Charge Through
+2 Invigorating Surge
+2 Big Play
+2 Toski, Bearer of Secrets
+3 Charge Through
+3 Nessian Hornbeetle
+3 Wildwood Scourge
+3 Big Play
+3 Invigorating Surge
+4 Nessian Hornbeetle
+4 Charge Through
+4 Invigorating Surge
+4 Big Play
+4 Wildwood Scourge
+20 Forest
 2 Thrashing Brontodon
 2 Witch's Oven
 3 Thrashing Brontodon
@@ -204,21 +222,3 @@
 4 Crawling Barrens
 4 Thrashing Brontodon
 4 Feasting Troll King
-1 Charge Through
-1 Big Play
-1 Invigorating Surge
-2 Invigorating Surge
-2 Charge Through
-2 Big Play
-2 Toski, Bearer of Secrets
-3 Wildwood Scourge
-3 Big Play
-3 Charge Through
-3 Invigorating Surge
-3 Nessian Hornbeetle
-4 Invigorating Surge
-4 Big Play
-4 Charge Through
-4 Wildwood Scourge
-4 Nessian Hornbeetle
-20 Forest

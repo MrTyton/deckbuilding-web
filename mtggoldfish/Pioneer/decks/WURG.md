@@ -80,8 +80,8 @@
 |                    3|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)   |                     |                                                                                               |
 |                    3|[Karn's Temporal Sundering](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442943) |                     |                                                                                               |
 |                    3|[Urza's Ruinous Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442927)      |                     |                                                                                               |
-|                    4|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)   |                     |                                                                                               |
 |                    4|[Urza's Ruinous Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442927)      |                     |                                                                                               |
 |                    4|[Karn's Temporal Sundering](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442943) |                     |                                                                                               |
+|                    4|[Narset, Parter of Veils](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=460988)   |                     |                                                                                               |
 |                    4|[Hinterland Harbor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443128)         |                     |                                                                                               |
 

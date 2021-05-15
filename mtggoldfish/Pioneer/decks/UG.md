@@ -29,7 +29,7 @@
 
 |*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|Sideboard Card|
 |--------------------:|-------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    4|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)|                     |              |
-|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                     |              |
 |                    3|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)       |                     |              |
+|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                     |              |
+|                    4|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)|                     |              |
 

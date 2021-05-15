@@ -1,67 +1,8 @@
-1 Polukranos, Unchained
-1 Elderfang Disciple
-1 Llanowar Visionary
-1 Woodland Chasm
-2 Elderfang Disciple
-2 Llanowar Visionary
-3 Elderfang Disciple
-3 Llanowar Visionary
-4 Llanowar Visionary
-4 Elderfang Disciple
-1 Sculptor of Winter
-1 Skemfar Avenger
-1 Grasp of Darkness
-1 Snow-Covered Forest
-1 Harald, King of Skemfar
-1 Harald Unites the Elves
-1 Boreal Outrider
-1 Thornmantle Striker
-1 Return Upon the Tide
-1 Snow-Covered Swamp
-2 Snow-Covered Forest
-2 Sculptor of Winter
-2 Grasp of Darkness
-2 Harald, King of Skemfar
-2 Boreal Outrider
-2 Woodland Chasm
-2 Snow-Covered Swamp
-3 Snow-Covered Forest
-3 Sculptor of Winter
-3 Grasp of Darkness
-3 Snow-Covered Swamp
-3 Harald, King of Skemfar
-3 Boreal Outrider
-3 Woodland Chasm
-4 Snow-Covered Forest
-4 Sculptor of Winter
-4 Snow-Covered Swamp
-4 Woodland Chasm
-5 Snow-Covered Forest
-5 Snow-Covered Swamp
-6 Snow-Covered Forest
-6 Snow-Covered Swamp
-7 Snow-Covered Forest
-7 Snow-Covered Swamp
-8 Snow-Covered Forest
-8 Snow-Covered Swamp
-9 Snow-Covered Swamp
 1 Bloodchief's Thirst
-1 Oakhame Adversary
-1 Joraga Visionary
-2 Joraga Visionary
-2 Bloodchief's Thirst
-6 Swamp
-1 Jungle Hollow
-1 Elvish Warmaster
-2 Jungle Hollow
 1 Murderous Rider
 2 Murderous Rider
-4 Forest
 1 The Great Henge
 2 The Great Henge
-1 Indatha Triome
-2 Indatha Triome
-3 Indatha Triome
 1 Kazandu Mammoth
 1 Scavenging Ooze
 1 Massacre Wurm
@@ -73,46 +14,94 @@
 3 Kazandu Mammoth
 4 Lovestruck Beast
 4 Kazandu Mammoth
+1 Indatha Triome
+2 Indatha Triome
+3 Indatha Triome
+1 Polukranos, Unchained
 1 Sarulf, Realm Eater
 1 Questing Beast
+2 Bloodchief's Thirst
 3 Bloodchief's Thirst
+6 Swamp
 1 Vivien, Monsters' Advocate
 3 Murderous Rider
-1 Evolving Wilds
-1 Extinction Event
-5 Forest
-6 Forest
-7 Swamp
-1 Feed the Swarm
-1 Fynn, the Fangbearer
-1 Wildborn Preserver
-1 Withercrown
-1 Fully Grown
-1 Tajuru Blightblade
-1 Ranger's Guile
-2 Feed the Swarm
-2 Oakhame Adversary
-2 Fully Grown
-2 Fynn, the Fangbearer
-2 Tajuru Blightblade
-3 Fynn, the Fangbearer
-3 Jungle Hollow
-3 Tajuru Blightblade
-3 Oakhame Adversary
-3 Fully Grown
-4 Fynn, the Fangbearer
-4 Tajuru Blightblade
-4 Jungle Hollow
-4 Oakhame Adversary
-7 Forest
-8 Forest
-8 Swamp
-9 Forest
+4 Forest
+1 Gilded Goose
+1 Elder Gargaroth
+1 Trail of Crumbs
+1 Wicked Wolf
+1 Turntimber Symbiosis
+1 Agadeem's Awakening
+2 Gilded Goose
+2 Trail of Crumbs
+2 Elder Gargaroth
+2 Eliminate
+2 Massacre Wurm
+2 Wicked Wolf
+2 Turntimber Symbiosis
+2 Agadeem's Awakening
+3 The Great Henge
+3 Gilded Goose
+3 Eliminate
+3 Wicked Wolf
+3 Trail of Crumbs
+4 Indatha Triome
+4 Gilded Goose
+4 Wicked Wolf
+1 Mazemind Tome
+1 Mortality Spear
+1 Blex, Vexing Pest
+1 Erebos's Intervention
+1 Pestilent Haze
+1 Mythos of Nethroi
+1 Clackbridge Troll
+1 Vorinclex, Monstrous Raider
+2 Mazemind Tome
+2 Mortality Spear
+2 Polukranos, Unchained
+2 Erebos's Intervention
+2 Sarulf, Realm Eater
+2 Mythos of Nethroi
+2 Pestilent Haze
+2 Clackbridge Troll
+3 Mazemind Tome
+3 Erebos's Intervention
+3 Sarulf, Realm Eater
+4 Bloodchief's Thirst
+4 Sarulf, Realm Eater
+1 Necroblossom Snarl
+2 Necroblossom Snarl
+3 Necroblossom Snarl
+4 Necroblossom Snarl
+1 Rankle, Master of Pranks
+1 Foulmire Knight
+1 Wilt
+1 Heartless Act
+1 Toski, Bearer of Secrets
+1 Order of Midnight
+1 Edgewall Innkeeper
+2 Scavenging Ooze
+2 Rankle, Master of Pranks
+2 Foulmire Knight
+2 Wilt
+2 Order of Midnight
+2 Edgewall Innkeeper
+2 Heartless Act
+3 Temple of Malady
+3 Heartless Act
+3 Scavenging Ooze
+3 Edgewall Innkeeper
+3 Foulmire Knight
+4 Edgewall Innkeeper
+4 Murderous Rider
+4 Foulmire Knight
 1 The World Tree
 1 Path to the World Tree
+1 Evolving Wilds
 1 Cosmos Elixir
-1 Vito, Thorn of the Dusk Rose
 1 Nighthawk Scavenger
+1 Vito, Thorn of the Dusk Rose
+1 Extinction Event
 1 Hooded Blightfang
 1 Kazandu Nectarpot
 1 Scute Swarm
@@ -129,97 +118,73 @@
 2 Hooded Blightfang
 2 Scute Swarm
 3 Extinction Event
+3 Evolving Wilds
 3 Vito, Thorn of the Dusk Rose
 3 Nighthawk Scavenger
 3 Kazandu Nectarpot
-3 Evolving Wilds
 3 Path to the World Tree
 3 Cosmos Elixir
 4 Extinction Event
-1 Necroblossom Snarl
-2 Necroblossom Snarl
-3 Necroblossom Snarl
-4 Necroblossom Snarl
-1 Mazemind Tome
-1 Blex, Vexing Pest
-1 Mythos of Nethroi
-1 Erebos's Intervention
-1 Pestilent Haze
-1 Clackbridge Troll
-1 Vorinclex, Monstrous Raider
-1 Mortality Spear
-2 Mazemind Tome
-2 Mythos of Nethroi
-2 Erebos's Intervention
-2 Polukranos, Unchained
-2 Mortality Spear
-2 Sarulf, Realm Eater
-2 Pestilent Haze
-2 Clackbridge Troll
-3 Mazemind Tome
-3 Erebos's Intervention
-3 Sarulf, Realm Eater
-4 Bloodchief's Thirst
-4 Sarulf, Realm Eater
-1 Rankle, Master of Pranks
-1 Foulmire Knight
-1 Order of Midnight
-1 Wilt
-1 Heartless Act
-1 Toski, Bearer of Secrets
-1 Edgewall Innkeeper
-2 Scavenging Ooze
-2 Rankle, Master of Pranks
-2 Foulmire Knight
-2 Order of Midnight
-2 Wilt
-2 Heartless Act
-2 Edgewall Innkeeper
-3 Temple of Malady
-3 Heartless Act
-3 Scavenging Ooze
-3 Edgewall Innkeeper
-3 Foulmire Knight
-4 Edgewall Innkeeper
-4 Murderous Rider
-4 Foulmire Knight
-1 Deathknell Berserker
+5 Forest
+6 Forest
+7 Swamp
+1 Grasp of Darkness
+1 Sculptor of Winter
+1 Skemfar Avenger
+1 Elderfang Disciple
+1 Snow-Covered Forest
+1 Llanowar Visionary
 1 Tyvar Kell
+1 Deathknell Berserker
+1 Harald Unites the Elves
 1 Jaspera Sentinel
+1 Harald, King of Skemfar
+1 Boreal Outrider
+1 Thornmantle Striker
+1 Woodland Chasm
 1 Skemfar Elderhall
 1 Skemfar Shadowsage
-2 Deathknell Berserker
+1 Jungle Hollow
+1 Elvish Warmaster
+1 Return Upon the Tide
+1 Snow-Covered Swamp
+2 Elderfang Disciple
+2 Grasp of Darkness
+2 Snow-Covered Forest
+2 Sculptor of Winter
+2 Llanowar Visionary
+2 Jungle Hollow
 2 Jaspera Sentinel
+2 Harald, King of Skemfar
+2 Boreal Outrider
+2 Woodland Chasm
+2 Snow-Covered Swamp
+2 Deathknell Berserker
 2 Return Upon the Tide
 2 Thornmantle Striker
 2 Skemfar Shadowsage
+3 Elderfang Disciple
+3 Snow-Covered Forest
+3 Sculptor of Winter
+3 Grasp of Darkness
+3 Llanowar Visionary
+3 Woodland Chasm
+3 Snow-Covered Swamp
+3 Harald, King of Skemfar
+3 Boreal Outrider
+4 Snow-Covered Forest
+4 Sculptor of Winter
+4 Llanowar Visionary
+4 Elderfang Disciple
+4 Snow-Covered Swamp
+4 Woodland Chasm
+5 Snow-Covered Forest
+5 Snow-Covered Swamp
+6 Snow-Covered Forest
+6 Snow-Covered Swamp
+7 Snow-Covered Forest
+7 Snow-Covered Swamp
+8 Snow-Covered Forest
+8 Snow-Covered Swamp
+9 Snow-Covered Swamp
 4 Boreal Outrider
-1 Wolfwillow Haven
-1 Realmwalker
-1 Masked Vandal
-2 Wolfwillow Haven
-3 Wolfwillow Haven
-9 Snow-Covered Forest
-10 Snow-Covered Swamp
-1 Gilded Goose
-1 Elder Gargaroth
-1 Trail of Crumbs
-1 Turntimber Symbiosis
-1 Agadeem's Awakening
-1 Wicked Wolf
-2 Gilded Goose
-2 Wicked Wolf
-2 Trail of Crumbs
-2 Elder Gargaroth
-2 Eliminate
-2 Massacre Wurm
-2 Agadeem's Awakening
-2 Turntimber Symbiosis
-3 The Great Henge
-3 Wicked Wolf
-3 Gilded Goose
-3 Eliminate
-3 Trail of Crumbs
-4 Indatha Triome
-4 Gilded Goose
-4 Wicked Wolf

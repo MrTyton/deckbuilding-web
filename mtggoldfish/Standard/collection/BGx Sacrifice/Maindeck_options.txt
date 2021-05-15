@@ -1,44 +1,51 @@
-4 Needleverge Pathway
 1 Shatterskull Smashing
-1 Agadeem's Awakening
-4 Savai Triome
-3 Fabled Passage
+2 Immersturm Predator
+4 Needleverge Pathway
 5 Swamp
+3 Fabled Passage
 3 Forbidden Friendship
 3 Kroxa, Titan of Death's Hunger
 3 Mountain
-1 Bonecrusher Giant
-1 Rankle, Master of Pranks
 1 Castle Locthwain
 6 Swamp
+1 Bonecrusher Giant
+1 Rankle, Master of Pranks
 4 Mountain
 2 Bonecrusher Giant
 2 Rankle, Master of Pranks
 2 Agadeem's Awakening
 4 Fabled Passage
+4 Savai Triome
 4 Forbidden Friendship
 2 Hunt for Specimens
-1 Temple of Malice
 3 Hunt for Specimens
+1 Temple of Malice
 1 Sedgemoor Witch
-2 Shatterskull Smashing
 2 Sedgemoor Witch
 3 Sedgemoor Witch
-3 Woe Strider
+2 Shatterskull Smashing
 4 Sedgemoor Witch
+3 Woe Strider
 1 Fireblade Charger
 1 Immersturm Skullcairn
 2 Fireblade Charger
 3 Fireblade Charger
 4 Fireblade Charger
+4 Hunt for Specimens
 2 Temple of Malice
 3 Temple of Malice
 1 The Akroan War
 2 The Akroan War
 4 Woe Strider
 1 Ayara, First of Locthwain
-4 Hunt for Specimens
 4 Temple of Malice
+7 Swamp
+1 Forest
+1 Darkbore Pathway
+2 Forest
+2 Darkbore Pathway
+3 Darkbore Pathway
+4 Darkbore Pathway
 1 Snow-Covered Swamp
 2 Snow-Covered Swamp
 3 Snow-Covered Swamp
@@ -46,7 +53,9 @@
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
 7 Snow-Covered Swamp
-7 Swamp
+1 Call of the Death-Dweller
+8 Swamp
+9 Swamp
 1 Radiant Fountain
 1 Silversmote Ghoul
 2 Silversmote Ghoul
@@ -56,9 +65,9 @@
 3 Callous Bloodmage
 1 Elite Spellbinder
 1 Pelakka Predation
-1 Furycalm Snarl
 1 Humiliate
 1 Shineshadow Snarl
+1 Furycalm Snarl
 2 Elite Spellbinder
 2 Humiliate
 2 Pelakka Predation
@@ -76,23 +85,17 @@
 3 Garrison Cat
 4 Professor of Symbology
 4 Garrison Cat
-1 Forest
-1 Darkbore Pathway
 1 Cragcrown Pathway
 1 Edgewall Innkeeper
 1 Lovestruck Beast
-2 Forest
-2 Darkbore Pathway
 2 Lovestruck Beast
 2 Cragcrown Pathway
 2 Edgewall Innkeeper
 3 Bonecrusher Giant
-3 Darkbore Pathway
 3 Lovestruck Beast
-3 Cragcrown Pathway
 3 Edgewall Innkeeper
+3 Cragcrown Pathway
 4 Bonecrusher Giant
-4 Darkbore Pathway
 4 Edgewall Innkeeper
 4 Lovestruck Beast
 4 Cragcrown Pathway
@@ -102,11 +105,29 @@
 4 Snow-Covered Mountain
 5 Snow-Covered Mountain
 6 Snow-Covered Mountain
+1 Snakeskin Veil
+1 Pest Summoning
+1 Witherbloom Apprentice
+1 Dina, Soul Steeper
+1 Blex, Vexing Pest
+1 Witherbloom Command
+1 Mortality Spear
+2 Snakeskin Veil
+2 Pest Summoning
+2 Mortality Spear
+2 Blex, Vexing Pest
+2 Witherbloom Apprentice
+2 Dina, Soul Steeper
+2 Witherbloom Command
+3 Forest
+3 Mortality Spear
+4 Forest
+5 Forest
+6 Forest
 1 Bloodchief's Thirst
 1 Nighthawk Scavenger
 1 Vito, Thorn of the Dusk Rose
 1 Nullpriest of Oblivion
-1 Call of the Death-Dweller
 1 Valentin, Dean of the Vein
 2 Bloodchief's Thirst
 2 Nighthawk Scavenger
@@ -116,14 +137,12 @@
 2 Ayara, First of Locthwain
 2 Nullpriest of Oblivion
 2 Castle Locthwain
+3 Ayara, First of Locthwain
 3 Nullpriest of Oblivion
 3 Castle Locthwain
 3 Vito, Thorn of the Dusk Rose
-3 Ayara, First of Locthwain
 3 Bloodchief's Thirst
 4 Bloodchief's Thirst
-8 Swamp
-9 Swamp
 10 Swamp
 11 Swamp
 12 Swamp
@@ -143,9 +162,9 @@
 2 Umbral Juke
 2 Radiant Fountain
 2 Grasp of Darkness
-3 Radiant Fountain
 3 Silversmote Ghoul
 3 Grasp of Darkness
+3 Radiant Fountain
 4 Radiant Fountain
 4 Grasp of Darkness
 4 Silversmote Ghoul

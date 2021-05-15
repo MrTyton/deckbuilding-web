@@ -2,11 +2,6 @@
 2 Stonecoil Serpent
 3 Stonecoil Serpent
 4 Stonecoil Serpent
-1 Sea-Dasher Octopus
-3 Island
-4 Island
-5 Island
-6 Island
 1 Brazen Borrower
 2 Brazen Borrower
 3 Brazen Borrower
@@ -14,6 +9,7 @@
 1 Stormwing Entity
 1 Adventurous Impulse
 1 Edgewall Innkeeper
+1 Sea-Dasher Octopus
 1 Opt
 1 Zagoth Triome
 1 Wildborn Preserver
@@ -31,13 +27,17 @@
 3 Edgewall Innkeeper
 3 Wildborn Preserver
 3 Opt
+3 Island
 3 Zagoth Triome
 4 Adventurous Impulse
 4 Edgewall Innkeeper
-4 Opt
 4 Stormwing Entity
+4 Island
 4 Wildborn Preserver
 4 Zagoth Triome
+4 Opt
+5 Island
+6 Island
 1 Toski, Bearer of Secrets
 1 Faerie Vandal
 1 Snow-Covered Island
@@ -81,45 +81,3 @@
 7 Snow-Covered Island
 7 Snow-Covered Forest
 8 Snow-Covered Forest
-1 Llanowar Visionary
-1 Thornwood Falls
-1 Pouncing Shoreshark
-1 Dreamtail Heron
-1 Trumpeting Gnarr
-1 Brokkos, Apex of Forever
-1 Pollywog Symbiote
-1 Essence Symbiote
-1 Migratory Greathorn
-1 Auspicious Starrix
-1 Nylea's Forerunner
-2 Dreamtail Heron
-2 Llanowar Visionary
-2 Thornwood Falls
-2 Pouncing Shoreshark
-2 Migratory Greathorn
-2 Trumpeting Gnarr
-2 Auspicious Starrix
-2 Pollywog Symbiote
-2 Essence Symbiote
-3 Dreamtail Heron
-3 Thornwood Falls
-3 Llanowar Visionary
-3 Pouncing Shoreshark
-3 Auspicious Starrix
-3 Pollywog Symbiote
-3 Essence Symbiote
-3 Migratory Greathorn
-3 Trumpeting Gnarr
-4 Llanowar Visionary
-4 Dreamtail Heron
-4 Pouncing Shoreshark
-4 Migratory Greathorn
-4 Thornwood Falls
-4 Essence Symbiote
-4 Pollywog Symbiote
-4 Auspicious Starrix
-7 Island
-8 Island
-9 Island
-10 Forest
-10 Island

@@ -1,4 +1,3 @@
-2 Auriok Champion
 1 Fatal Push
 2 Fatal Push
 1 Leonin Relic-Warder
@@ -9,14 +8,15 @@
 1 Isolate
 2 Kaya, Orzhov Usurper
 2 Isolate
+1 Bitterblossom
 2 Ashiok, Dream Render
-4 Kor Firewalker
 4 Damping Sphere
+4 Kor Firewalker
+3 Rest in Peace
 4 Auriok Champion
 1 Plague Engineer
 2 Plague Engineer
 2 Celestial Purge
-3 Rest in Peace
 1 Dark Confidant
 2 Dark Confidant
 1 Gideon, Ally of Zendikar
@@ -24,6 +24,8 @@
 2 Fulminator Mage
 2 Collective Brutality
 3 Celestial Purge
+1 Phyrexian Revoker
+2 Phyrexian Revoker
 1 Nihil Spellbomb
 2 Nihil Spellbomb
 1 Engineered Explosives
@@ -41,13 +43,15 @@
 3 Fulminator Mage
 1 Surgical Extraction
 2 Surgical Extraction
-1 Phyrexian Revoker
+3 Phyrexian Revoker
 1 Shadowspear
-2 Phyrexian Revoker
 1 Wrath of God
-1 Kaya's Guile
 1 Relic of Progenitus
 2 Relic of Progenitus
+1 Elite Spellbinder
+1 Remorseful Cleric
+1 Ethersworn Canonist
+2 Remorseful Cleric
 1 Anguished Unmaking
 2 Wrath of God
 1 Blightbeetle
@@ -83,18 +87,8 @@
 2 Aven Mindcensor
 3 Relic of Progenitus
 3 Aven Mindcensor
-1 Disenchant
-1 Damnation
-1 Elspeth, Sun's Nemesis
-1 Pithing Needle
-1 Solemnity
-3 Collective Brutality
-1 Elite Spellbinder
-1 Remorseful Cleric
-1 Ethersworn Canonist
-2 Remorseful Cleric
-3 Phyrexian Revoker
 3 Archon of Emeria
+3 Fatal Push
 4 Rest in Peace
 1 Leyline of the Void
 2 Leyline of the Void
@@ -103,6 +97,7 @@
 1 Giant Killer
 1 Heliod's Intervention
 1 Deafening Silence
+1 Kaya's Guile
 1 Hangarback Walker
 2 Kaya's Guile
 2 Deafening Silence
