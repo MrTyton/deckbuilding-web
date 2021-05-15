@@ -54,20 +54,20 @@
 1 Shark Typhoon
 2 Shark Typhoon
 1 Lotus Cobra
-1 Migration Path
 1 Cultivate
 1 The World Tree
-1 Vorinclex, Monstrous Raider
 1 Alrund's Epiphany
 1 Ugin, the Spirit Dragon
 1 Riverglide Pathway
 1 Genesis Ultimatum
 1 Cragcrown Pathway
 1 Mountain
+1 Vorinclex, Monstrous Raider
 1 Kiora Bests the Sea God
 1 Emergent Ultimatum
-2 Cultivate
+1 Migration Path
 2 The World Tree
+2 Cultivate
 2 Koma, Cosmos Serpent
 2 Migration Path
 2 Forest
@@ -77,7 +77,6 @@
 2 Genesis Ultimatum
 2 Lotus Cobra
 2 Mountain
-3 The World Tree
 3 Cultivate
 3 Lotus Cobra
 3 Shark Typhoon
@@ -86,13 +85,14 @@
 3 Ketria Triome
 3 Mystical Dispute
 3 Genesis Ultimatum
-4 The World Tree
+3 The World Tree
 4 Lotus Cobra
 4 Cultivate
 4 Mystical Dispute
 4 Ketria Triome
 4 Emergent Ultimatum
 4 Migration Path
+4 The World Tree
 4 Genesis Ultimatum
 1 Elspeth Conquers Death
 1 Callous Bloodmage
@@ -126,9 +126,6 @@
 1 Behold the Multiverse
 1 Llanowar Visionary
 1 Tranquil Cove
-1 Rugged Highlands
-1 Thornwood Falls
-1 Swiftwater Cliffs
 1 Scoured Barrens
 1 Dismal Backwater
 1 Sarulf's Packmate
@@ -140,7 +137,9 @@
 1 Revitalize
 1 Ravenform
 1 Blossoming Sands
+1 Swiftwater Cliffs
 1 Bloodfell Caves
+1 Thornwood Falls
 1 Wind-Scarred Crag
 1 Shimmerdrift Vale
 1 Snow-Covered Island
@@ -151,6 +150,7 @@
 1 Sanctum of Tranquil Light
 1 Sanctum of Shattered Heights
 1 Doomskar
+1 Rugged Highlands
 1 Snow-Covered Mountain
 1 Sanctum of Stone Fangs
 1 Snow-Covered Swamp

@@ -11,8 +11,8 @@
 2 Blood Moon
 3 Blood Moon
 1 Irencrag Feat
-1 Bala Ged Recovery
 1 Spikefield Hazard
+1 Bala Ged Recovery
 1 Recross the Paths
 1 Manamorphose
 1 Reforge the Soul
@@ -50,9 +50,9 @@
 1 Open the Omenpaths
 1 Talisman of Indulgence
 1 Chancellor of the Tangle
-2 Open the Omenpaths
 2 Talisman of Indulgence
 2 Chancellor of the Tangle
+2 Open the Omenpaths
 3 Open the Omenpaths
 3 Talisman of Indulgence
 4 Talisman of Indulgence
@@ -146,7 +146,6 @@
 1 Talisman of Hierarchy
 2 Talisman of Hierarchy
 3 Chancellor of the Tangle
-4 Open the Omenpaths
 1 Windswept Heath
 1 Marsh Flats
 1 Chrome Mox
@@ -201,7 +200,6 @@
 1 Inverter of Truth
 1 Snow-Covered Plains
 1 Jace, Wielder of Mysteries
-2 Gemstone Mine
 2 Angel's Grace
 2 Phyrexian Unlife
 2 Spoils of the Vault
@@ -212,6 +210,7 @@
 2 Inverter of Truth
 2 Thassa's Oracle
 2 Jace, Wielder of Mysteries
+2 Gemstone Mine
 3 Angel's Grace
 3 Phyrexian Unlife
 3 Spoils of the Vault
@@ -230,6 +229,7 @@
 4 Inverter of Truth
 4 Shelldock Isle
 4 Thassa's Oracle
+4 Open the Omenpaths
 1 Elvish Reclaimer
 1 Nurturing Peatland
 1 Mental Misstep
@@ -261,8 +261,8 @@
 2 Emrakul, the Aeons Torn
 2 Wooded Foothills
 1 Mountain
-1 Bloodstained Mire
 1 Scalding Tarn
+1 Bloodstained Mire
 1 Through the Breach
 1 Arid Mesa
 1 Lightning Helix

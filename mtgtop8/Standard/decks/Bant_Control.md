@@ -41,8 +41,8 @@
 |                    4|Hengegate Pathway                                                                               |                     |              |
 |                    4|[Forest](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860)               |                     |              |
 |                    4|[Omen of the Sea](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476309)      |                     |              |
-|                    4|[Biomathematician](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513656)     |                     |              |
 |                    4|[Quandrix Cultivator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513710)  |                     |              |
+|                    4|[Biomathematician](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513656)     |                     |              |
 |                    4|[Branchloft Pathway](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491909)   |                     |              |
 |                    4|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)               |                     |              |
 |                    4|[Vineglimmer Snarl](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513766)    |                     |              |

@@ -1,4 +1,13 @@
+1 Forest
+3 Dig Through Time
+1 Overgrown Tomb
+1 Fabled Passage
+1 Watery Grave
+2 Overgrown Tomb
 1 Swamp
+1 Clearwater Pathway
+2 Clearwater Pathway
+3 Overgrown Tomb
 1 Silversmote Ghoul
 1 Satyr Wayfinder
 1 Blooming Marsh
@@ -7,17 +16,13 @@
 1 Grisly Salvage
 1 Deathrite Shaman
 1 Witherbloom Command
-1 Overgrown Tomb
-1 Driven/Despair
-1 Fabled Passage
-1 Narcomoeba
-1 Watery Grave
 1 Darkbore Pathway
+1 Driven/Despair
+1 Narcomoeba
 1 Stitcher's Supplier
-1 Clearwater Pathway
 1 Glowspore Shaman
-1 Gather the Pack
 1 Prized Amalgam
+1 Gather the Pack
 2 Silversmote Ghoul
 2 Blooming Marsh
 2 Satyr Wayfinder
@@ -25,45 +30,78 @@
 2 Creeping Chill
 2 Grisly Salvage
 2 Deathrite Shaman
-2 Prized Amalgam
-2 Forest
-2 Clearwater Pathway
-2 Overgrown Tomb
 2 Narcomoeba
+2 Forest
+2 Prized Amalgam
 2 Darkbore Pathway
 2 Stitcher's Supplier
 2 Gather the Pack
 3 Clearwater Pathway
 3 Witherbloom Command
 3 Satyr Wayfinder
-3 Overgrown Tomb
 3 Creeping Chill
 3 Silversmote Ghoul
 3 Deathrite Shaman
 3 Gather the Pack
 3 Prized Amalgam
-3 Darkbore Pathway
 3 Narcomoeba
+3 Darkbore Pathway
 3 Grisly Salvage
 3 Stitcher's Supplier
 4 Overgrown Tomb
 4 Satyr Wayfinder
-4 Silversmote Ghoul
 4 Deathrite Shaman
+4 Silversmote Ghoul
 4 Gather the Pack
 4 Darkbore Pathway
 4 Narcomoeba
 4 Creeping Chill
-4 Stitcher's Supplier
 4 Prized Amalgam
+4 Stitcher's Supplier
 4 Grisly Salvage
 1 Enter the Infinite
 1 Thassa's Oracle
 1 Dark Petition
-2 Dig Through Time
 3 Emergent Ultimatum
-3 Dig Through Time
 4 Emergent Ultimatum
+1 Fatal Push
+1 Sinister Sabotage
+1 Opt
+1 Zagoth Triome
+2 Zagoth Triome
+2 Fatal Push
+2 Watery Grave
+2 Sinister Sabotage
+2 Fabled Passage
+2 Opt
+3 Sinister Sabotage
+3 Fatal Push
+3 Fabled Passage
+3 Opt
+4 Fatal Push
+4 Fabled Passage
+1 Drowned Catacomb
+1 Hero's Downfall
+1 Jace, Vryn's Prodigy
+1 Languish
+1 Valki, God of Lies
+1 Thoughtseize
+1 Extinction Event
+1 Ketria Triome
+1 Bring to Light
+2 Valki, God of Lies
+2 Drowned Catacomb
+2 Jace, Vryn's Prodigy
+2 Bring to Light
+2 Thoughtseize
+2 Ketria Triome
+3 Drowned Catacomb
+3 Thoughtseize
+3 Bring to Light
+1 Bloodchief's Thirst
+3 Watery Grave
+4 Sinister Sabotage
+4 Watery Grave
 2 Discontinuity
 1 Barkchannel Pathway
 2 Barkchannel Pathway
@@ -71,4 +109,59 @@
 4 Fae of Wishes
 1 Sheltered Thicket
 4 Temple of Mystery
+1 Snow-Covered Forest
+1 Snow-Covered Island
+1 Drown in the Loch
+1 Snow-Covered Mountain
+1 Heartless Act
+1 Snow-Covered Swamp
+2 Snow-Covered Island
+2 Drown in the Loch
+2 Snow-Covered Swamp
+4 Dig Through Time
+4 Thoughtseize
+3 Jace, Vryn's Prodigy
+1 Abrupt Decay
+2 Abrupt Decay
+1 Island
+2 Island
+3 Zagoth Triome
+1 Hieroglyphic Illumination
+1 Collective Brutality
+2 Heartless Act
+1 Rewind
+1 Baleful Mastery
+1 Eureka Moment
+1 Pull from Tomorrow
+1 Shadows' Verdict
+1 Torrential Gearhulk
+1 Censor
+1 Shark Typhoon
+2 Swamp
+2 Bloodchief's Thirst
+2 Rewind
+2 Baleful Mastery
+2 Eureka Moment
+2 Torrential Gearhulk
+2 Shadows' Verdict
+2 Shark Typhoon
+2 Censor
+3 Eureka Moment
+3 Island
+3 Censor
+3 Shark Typhoon
+4 Zagoth Triome
 4 Bala Ged Recovery
+1 Castle Vantress
+1 Urborg, Tomb of Yawgmoth
+1 Behold the Multiverse
+1 Scavenging Ooze
+1 Essence Extraction
+1 Assassin's Trophy
+1 Negate
+1 Dead Weight
+1 Dragonskull Summit
+1 Rootbound Crag
+3 Ketria Triome
+4 Jace, Vryn's Prodigy
+4 Opt

@@ -1,61 +1,3 @@
-1 Mountain
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-3 Bonecrusher Giant
-4 Bonecrusher Giant
-2 Mountain
-1 Lovestruck Beast
-1 Forest
-1 Stomping Ground
-2 Lovestruck Beast
-2 Forest
-3 Lovestruck Beast
-3 Forest
-4 Lovestruck Beast
-4 Forest
-1 Glorybringer
-2 Glorybringer
-1 Enter the Infinite
-1 Possibility Storm
-1 Gnarled Professor
-1 Domri, Anarch of Bolas
-1 Cragcrown Pathway
-1 Borborygmos Enraged
-1 Chandra, Torch of Defiance
-1 Llanowar Elves
-1 Elvish Mystic
-1 Rootbound Crag
-2 Gnarled Professor
-2 Elvish Mystic
-2 Rootbound Crag
-2 Cragcrown Pathway
-2 Stomping Ground
-2 Chandra, Torch of Defiance
-2 Possibility Storm
-2 Llanowar Elves
-3 Rootbound Crag
-3 Gnarled Professor
-3 Llanowar Elves
-3 Possibility Storm
-3 Cragcrown Pathway
-3 Stomping Ground
-3 Elvish Mystic
-3 Mountain
-4 Cragcrown Pathway
-4 Rootbound Crag
-4 Stomping Ground
-4 Elvish Mystic
-4 Possibility Storm
-4 Llanowar Elves
-4 Mountain
-5 Forest
-6 Forest
-1 Island
-1 Plains
-2 Island
-1 Fabled Passage
-2 Fabled Passage
-3 Fabled Passage
 3 Island
 1 Censor
 1 Teferi, Hero of Dominaria
@@ -65,20 +7,22 @@
 2 Glacial Fortress
 3 Glacial Fortress
 3 Censor
+1 Hallowed Fountain
+2 Hallowed Fountain
 1 Supreme Verdict
 1 Absorb
 1 Shark Typhoon
 2 Plains
-2 Supreme Verdict
 2 Shark Typhoon
+2 Supreme Verdict
 2 Absorb
-3 Supreme Verdict
 3 Shark Typhoon
 3 Absorb
+3 Supreme Verdict
+3 Hallowed Fountain
 4 Absorb
+4 Hallowed Fountain
 4 Supreme Verdict
-1 Steam Vents
-2 Steam Vents
 1 Opt
 1 Dig Through Time
 2 Dig Through Time
@@ -87,7 +31,6 @@
 1 Cast Out
 4 Island
 4 Fabled Passage
-3 Opt
 1 Field of Ruin
 1 Irrigated Farmland
 1 Detention Sphere
@@ -96,9 +39,12 @@
 2 Field of Ruin
 2 Irrigated Farmland
 3 Teferi, Hero of Dominaria
+3 Opt
 1 Raugrin Triome
 2 Raugrin Triome
+1 Steam Vents
 1 Deafening Clarion
+2 Steam Vents
 4 Glacial Fortress
 4 Censor
 1 Sulfur Falls
@@ -106,8 +52,8 @@
 3 Sulfur Falls
 3 Raugrin Triome
 4 Raugrin Triome
-1 Shared Summons
 1 Captain Lannery Storm
+1 Shared Summons
 1 Goblin Rabblemaster
 2 Domri, Anarch of Bolas
 2 Goblin Rabblemaster
@@ -134,8 +80,6 @@
 1 Behold the Multiverse
 2 Behold the Multiverse
 2 Castle Ardenvale
-3 Steam Vents
-4 Steam Vents
 1 Brazen Borrower
 2 Brazen Borrower
 1 Lorehold Command
@@ -143,6 +87,8 @@
 3 Brazen Borrower
 2 Deafening Clarion
 2 Sacred Foundry
+3 Steam Vents
+4 Steam Vents
 1 Search for Azcanta
 2 Hieroglyphic Illumination
 1 Into the Roil
@@ -159,11 +105,11 @@
 1 Temple of Triumph
 1 Temple of Enlightenment
 1 Fires of Invention
-1 Kenrith, the Returned King
 1 Prismari Command
 1 Cavalier of Gales
 1 Cavalier of Flame
 1 Sphinx of Foresight
+1 Kenrith, the Returned King
 2 Temple of Enlightenment
 2 Temple of Epiphany
 2 Anger of the Gods
@@ -173,8 +119,8 @@
 2 Prismari Command
 2 Cavalier of Flame
 2 Cavalier of Gales
-2 Temple of Triumph
 2 Sphinx of Foresight
+2 Temple of Triumph
 3 Castle Vantress
 3 Temple of Epiphany
 3 Anger of the Gods
@@ -187,26 +133,6 @@
 4 Sphinx of Foresight
 4 Cavalier of Flame
 4 Fires of Invention
-1 Emry, Lurker of the Loch
-1 Bomat Courier
-1 Spirebluff Canal
-1 Shivan Reef
-1 Lightning Strike
-1 Skilled Animator
-2 Bomat Courier
-2 Shivan Reef
-2 Spirebluff Canal
-2 Skilled Animator
-2 Lightning Strike
-3 Shivan Reef
-3 Spirebluff Canal
-3 Bomat Courier
-3 Skilled Animator
-3 Lightning Strike
-4 Bomat Courier
-4 Spirebluff Canal
-4 Shivan Reef
-4 Skilled Animator
 1 Silumgar's Scorn
 1 Goldspan Dragon
 1 Thassa's Intervention

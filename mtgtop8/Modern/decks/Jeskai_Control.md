@@ -42,7 +42,7 @@
 |                    2|[Lonely Sandbar](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376401)           |                    1|[Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430772)            |
 |                    2|[Teferi, Hero of Dominaria](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=443095)|                    3|[Cleansing Wildfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491777)|
 |                    3|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)            |                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)    |
-|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)            |                     |                                                                                             |
 |                    4|[Path to Exile](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=220511)            |                     |                                                                                             |
 |                    4|[Wrenn and Six](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464166)            |                     |                                                                                             |
+|                    4|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)            |                     |                                                                                             |
 
