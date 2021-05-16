@@ -26,28 +26,6 @@
 1 Vivien, Monsters' Advocate
 3 Murderous Rider
 4 Forest
-1 Gilded Goose
-1 Trail of Crumbs
-1 Wicked Wolf
-1 Elder Gargaroth
-1 Turntimber Symbiosis
-1 Agadeem's Awakening
-2 Gilded Goose
-2 Trail of Crumbs
-2 Elder Gargaroth
-2 Eliminate
-2 Massacre Wurm
-2 Wicked Wolf
-2 Turntimber Symbiosis
-2 Agadeem's Awakening
-3 The Great Henge
-3 Gilded Goose
-3 Eliminate
-3 Wicked Wolf
-3 Trail of Crumbs
-4 Indatha Triome
-4 Gilded Goose
-4 Wicked Wolf
 1 Mazemind Tome
 1 Mortality Spear
 1 Blex, Vexing Pest
@@ -95,24 +73,46 @@
 4 Edgewall Innkeeper
 4 Murderous Rider
 4 Foulmire Knight
+1 Gilded Goose
+1 Trail of Crumbs
+1 Wicked Wolf
+1 Elder Gargaroth
+1 Turntimber Symbiosis
+1 Agadeem's Awakening
+2 Gilded Goose
+2 Trail of Crumbs
+2 Elder Gargaroth
+2 Eliminate
+2 Massacre Wurm
+2 Wicked Wolf
+2 Turntimber Symbiosis
+2 Agadeem's Awakening
+3 The Great Henge
+3 Gilded Goose
+3 Eliminate
+3 Wicked Wolf
+3 Trail of Crumbs
+4 Gilded Goose
+4 Wicked Wolf
+4 Indatha Triome
 1 The World Tree
-1 Path to the World Tree
 1 Evolving Wilds
+1 Vito, Thorn of the Dusk Rose
 1 Cosmos Elixir
 1 Nighthawk Scavenger
-1 Vito, Thorn of the Dusk Rose
 1 Extinction Event
 1 Hooded Blightfang
 1 Kazandu Nectarpot
 1 Scute Swarm
-2 Path to the World Tree
+1 Path to the World Tree
+2 Vivien, Monsters' Advocate
 2 Evolving Wilds
 2 Cosmos Elixir
 2 Nighthawk Scavenger
 2 Vito, Thorn of the Dusk Rose
-2 Vivien, Monsters' Advocate
 2 Questing Beast
 2 Extinction Event
+2 Path to the World Tree
 2 The World Tree
 2 Kazandu Nectarpot
 2 Hooded Blightfang
@@ -131,12 +131,12 @@
 1 Grasp of Darkness
 1 Sculptor of Winter
 1 Skemfar Avenger
-1 Elderfang Disciple
 1 Snow-Covered Forest
 1 Llanowar Visionary
 1 Tyvar Kell
 1 Deathknell Berserker
 1 Harald Unites the Elves
+1 Elderfang Disciple
 1 Jaspera Sentinel
 1 Harald, King of Skemfar
 1 Boreal Outrider
@@ -148,7 +148,6 @@
 1 Elvish Warmaster
 1 Return Upon the Tide
 1 Snow-Covered Swamp
-2 Elderfang Disciple
 2 Grasp of Darkness
 2 Snow-Covered Forest
 2 Sculptor of Winter
@@ -159,11 +158,11 @@
 2 Boreal Outrider
 2 Woodland Chasm
 2 Snow-Covered Swamp
+2 Elderfang Disciple
 2 Deathknell Berserker
 2 Return Upon the Tide
 2 Thornmantle Striker
 2 Skemfar Shadowsage
-3 Elderfang Disciple
 3 Snow-Covered Forest
 3 Sculptor of Winter
 3 Grasp of Darkness
@@ -171,6 +170,7 @@
 3 Woodland Chasm
 3 Snow-Covered Swamp
 3 Harald, King of Skemfar
+3 Elderfang Disciple
 3 Boreal Outrider
 4 Snow-Covered Forest
 4 Sculptor of Winter

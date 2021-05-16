@@ -6,13 +6,13 @@
 3 Lofty Denial
 4 Lofty Denial
 1 Snow-Covered Island
-1 Miscast
 2 Snow-Covered Island
-2 Miscast
 3 Snow-Covered Island
 4 Snow-Covered Island
 5 Snow-Covered Island
 6 Snow-Covered Island
+1 Miscast
+2 Miscast
 7 Snow-Covered Island
 8 Snow-Covered Island
 1 Faceless Haven
@@ -25,7 +25,6 @@
 2 Spell Pierce
 2 Unsubstantiate
 2 Ascendant Spirit
-3 Faceless Haven
 3 Ascendant Spirit
 3 Curious Obsession
 4 Ascendant Spirit
@@ -41,16 +40,17 @@
 17 Snow-Covered Island
 18 Snow-Covered Island
 19 Snow-Covered Island
+3 Faceless Haven
 1 Glacial Fortress
 2 Glacial Fortress
 3 Glacial Fortress
+3 Botanical Sanctum
 2 Plains
 3 Island
 4 Island
 5 Island
 6 Island
 7 Island
-3 Botanical Sanctum
 3 Selfless Spirit
 4 Glacial Fortress
 8 Island
@@ -66,4 +66,7 @@
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
+1 Nebelgast Herald
+2 Nebelgast Herald
+20 Snow-Covered Island
 4 Botanical Sanctum

@@ -5,8 +5,8 @@
 1 Chrome Mox
 2 Chrome Mox
 3 Chrome Mox
-1 Stoneforge Mystic
 1 Batterskull
+1 Stoneforge Mystic
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 1 Windswept Heath
@@ -23,7 +23,6 @@
 4 Chrome Mox
 1 Simian Spirit Guide
 1 Seasoned Pyromancer
-1 Plateau
 1 Goblin Rabblemaster
 1 Mountain
 1 Blood Sun
@@ -32,10 +31,11 @@
 1 Trinisphere
 1 Legion Warboss
 1 Battlefield Forge
+1 Plateau
 2 Simian Spirit Guide
 2 Seasoned Pyromancer
-2 Goblin Rabblemaster
 2 Blood Sun
+2 Goblin Rabblemaster
 2 Angrath's Marauders
 2 Winota, Joiner of Forces
 2 Legion Warboss
@@ -51,12 +51,12 @@
 3 Legion Warboss
 3 Plateau
 3 Trinisphere
-4 Legion Warboss
 4 Simian Spirit Guide
-4 Goblin Rabblemaster
 4 City of Traitors
+4 Goblin Rabblemaster
 4 Angrath's Marauders
 4 Winota, Joiner of Forces
+4 Legion Warboss
 4 Plateau
 3 Thalia, Heretic Cathar
 4 Snow-Covered Plains
@@ -95,8 +95,8 @@
 1 Phyrexian Revoker
 2 Vryn Wingmare
 2 Ghost Quarter
-2 Aven Mindcensor
 2 Phyrexian Revoker
+2 Aven Mindcensor
 3 Sanctum Prelate
 3 Vryn Wingmare
 3 Ghost Quarter
@@ -133,9 +133,9 @@
 2 Marsh Flats
 2 Wasteland Strangler
 2 Agonizing Remorse
-3 Agonizing Remorse
-3 Wasteland Strangler
 3 Marsh Flats
+3 Wasteland Strangler
+3 Agonizing Remorse
 4 Wasteland Strangler
 4 Marsh Flats
 4 Agonizing Remorse

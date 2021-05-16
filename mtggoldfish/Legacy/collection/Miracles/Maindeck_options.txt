@@ -1,60 +1,63 @@
-2 Counterbalance
-2 Snow-Covered Island
+2 Mishra's Bauble
+3 Mishra's Bauble
 1 Polluted Delta
-2 Prismatic Vista
-1 Counterspell
-3 Snow-Covered Island
-4 Mishra's Bauble
-4 Scalding Tarn
-1 Spell Snare
 2 Narset, Parter of Veils
-3 Jace, the Mind Sculptor
+3 Snow-Covered Island
+4 Scalding Tarn
+1 Counterspell
+2 Prismatic Vista
+1 Portent
+4 Mishra's Bauble
+1 Spell Snare
 2 Snow-Covered Plains
 4 Snow-Covered Island
+3 Jace, the Mind Sculptor
 1 Misty Rainforest
-1 Portent
-5 Island
 2 Portent
-3 Prismatic Vista
 1 Back to Basics
 5 Snow-Covered Island
+5 Island
+2 Misty Rainforest
+3 Prismatic Vista
 1 Preordain
 2 Spell Pierce
-2 Entreat the Angels
-4 Predict
-1 Snow-Covered Mountain
-1 Supreme Verdict
-2 Misty Rainforest
-2 Back to Basics
-4 Prismatic Vista
-6 Snow-Covered Island
-1 Unexpectedly Absent
-2 Unexpectedly Absent
-1 Karakas
 3 Misty Rainforest
 4 Misty Rainforest
-1 Gideon, Ally of Zendikar
 1 Dovin's Veto
-1 Monastery Mentor
-2 Monastery Mentor
-2 Polluted Delta
+2 Entreat the Angels
+4 Predict
+6 Snow-Covered Island
+1 Snow-Covered Mountain
+1 Supreme Verdict
+1 Karakas
 1 Snow-Covered Forest
 1 Tropical Island
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 3 Uro, Titan of Nature's Wrath
+1 Monastery Mentor
+2 Monastery Mentor
 1 Sylvan Library
 2 Sylvan Library
+2 Back to Basics
+4 Prismatic Vista
+1 Unexpectedly Absent
+2 Unexpectedly Absent
+2 Polluted Delta
+4 Uro, Titan of Nature's Wrath
+1 Savannah
+1 Gideon, Ally of Zendikar
 3 Counterbalance
+3 Polluted Delta
 3 Portent
+1 Engineered Explosives
 3 Monastery Mentor
 1 Abundant Harvest
 2 Abundant Harvest
 3 Abundant Harvest
 3 Sylvan Library
-4 Uro, Titan of Nature's Wrath
+2 Council's Judgment
 1 Hullbreacher
-1 Savannah
 2 Tropical Island
 4 Terminus
 1 Chrome Mox
@@ -62,12 +65,9 @@
 3 Narset, Parter of Veils
 4 Abundant Harvest
 1 Rip Apart
-1 Engineered Explosives
 2 Counterspell
 2 Volcanic Island
 1 Arid Mesa
-2 Council's Judgment
-3 Polluted Delta
 1 Accumulated Knowledge
 2 Accumulated Knowledge
 3 Accumulated Knowledge
@@ -75,8 +75,18 @@
 1 Shark Typhoon
 2 Snow-Covered Forest
 1 Flusterstorm
-3 Teferi, Time Raveler
 1 Court of Cunning
+1 Field of the Dead
+1 Life from the Loam
+1 Mox Diamond
+1 Wasteland
+2 Wasteland
+2 Life from the Loam
+2 Mox Diamond
+3 Life from the Loam
+3 Mox Diamond
+4 Mox Diamond
+3 Teferi, Time Raveler
 1 Teferi, Hero of Dominaria
 1 Deprive
 1 Moat
@@ -85,10 +95,10 @@
 2 Arid Mesa
 1 Prophetic Prism
 1 Snow-Covered Swamp
-1 Carpet of Flowers
 1 Abrupt Decay
 1 Drown in the Loch
 1 Underground Sea
+1 Carpet of Flowers
 2 Prophetic Prism
 2 Abrupt Decay
 2 Rip Apart
@@ -98,19 +108,29 @@
 1 Search for Azcanta
 2 Search for Azcanta
 3 Force of Negation
+1 Day's Undoing
+1 Thespian's Stage
+1 Dark Depths
+1 Elvish Reclaimer
+2 Elvish Reclaimer
+2 Day's Undoing
+2 Hullbreacher
+3 Elvish Reclaimer
+3 Day's Undoing
+3 Hullbreacher
 1 Mountain
 1 Frantic Inventory
-2 Frantic Inventory
 2 Shark Typhoon
+2 Frantic Inventory
 3 Frantic Inventory
 4 Frantic Inventory
 1 Oboro, Palace in the Clouds
+1 Peek
 1 Jace, Wielder of Mysteries
 1 Shelldock Isle
 1 Thassa's Oracle
 1 Relic of Progenitus
 1 Paradigm Shift
-1 Peek
 2 Peek
 2 Jace, Wielder of Mysteries
 2 Shelldock Isle
@@ -124,23 +144,6 @@
 4 Paradigm Shift
 4 Thassa's Oracle
 4 Polluted Delta
-1 Field of the Dead
-1 Day's Undoing
-1 Thespian's Stage
-1 Dark Depths
-1 Life from the Loam
-1 Elvish Reclaimer
-1 Mox Diamond
-1 Wasteland
-2 Elvish Reclaimer
-2 Day's Undoing
-2 Hullbreacher
-2 Wasteland
-2 Life from the Loam
-2 Mox Diamond
-3 Elvish Reclaimer
-3 Day's Undoing
-3 Life from the Loam
-3 Hullbreacher
-3 Mox Diamond
-4 Mox Diamond
+1 Forest
+3 Wasteland
+4 Wasteland

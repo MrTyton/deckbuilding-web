@@ -4,8 +4,8 @@
 1 Ruby Medallion
 1 Mountain
 1 Ancient Tomb
-2 Manamorphose
 2 Birgi, God of Storytelling
+2 Manamorphose
 2 Jeska's Will
 2 Seething Song
 2 Mountain
@@ -20,24 +20,27 @@
 4 Manamorphose
 4 Jeska's Will
 4 Ruby Medallion
-3 Bloodstained Mire
 4 Seething Song
 4 Ancient Tomb
-3 Verdant Catacombs
 3 Mountain
 4 Mountain
 5 Mountain
-6 Mountain
 1 City of Traitors
 2 City of Traitors
+3 Verdant Catacombs
 4 Birgi, God of Storytelling
+6 Mountain
+3 Bloodstained Mire
 1 Ignite the Future
 3 Defense Grid
-1 Act on Impulse
 1 Fiery Islet
 2 Ignite the Future
+1 Act on Impulse
 3 Ignite the Future
 2 Act on Impulse
+1 Reforge the Soul
+2 Reforge the Soul
+3 Reforge the Soul
 1 Thoughtseize
 2 Thoughtseize
 3 Thoughtseize
@@ -51,15 +54,12 @@
 4 Ignite the Future
 3 Act on Impulse
 1 Snow-Covered Swamp
-1 Reforge the Soul
-2 Reforge the Soul
-3 Reforge the Soul
 1 Past in Flames
 4 Bloodstained Mire
 3 Polluted Delta
 4 Polluted Delta
-1 Plateau
 1 Arid Mesa
+1 Plateau
 2 Plateau
 2 Arid Mesa
 3 Arid Mesa
@@ -81,10 +81,10 @@
 2 Entomb
 2 Badlands
 2 Griselbrand
+3 Badlands
 3 Shallow Grave
 3 Entomb
 3 Exhume
-3 Badlands
 3 Faithless Looting
 3 Griselbrand
 4 Shallow Grave
