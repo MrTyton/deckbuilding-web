@@ -1,5 +1,5 @@
-1 Genesis Ultimatum
 1 Cultivate
+1 Ugin, the Spirit Dragon
 2 Genesis Ultimatum
 3 Genesis Ultimatum
 4 Genesis Ultimatum
@@ -21,16 +21,16 @@
 1 Koma, Cosmos Serpent
 2 Koma, Cosmos Serpent
 3 Koma, Cosmos Serpent
-1 Frostboil Snarl
 1 Lotus Cobra
 1 Quandrix Cultivator
+1 Frostboil Snarl
 1 Snow-Covered Forest
 1 Snow-Covered Island
 1 Body of Research
 1 Snow-Covered Mountain
 2 Lotus Cobra
-2 Frostboil Snarl
 2 Quandrix Cultivator
+2 Frostboil Snarl
 2 Snow-Covered Forest
 2 Snow-Covered Island
 2 Snow-Covered Mountain
@@ -47,8 +47,8 @@
 2 The Great Henge
 4 Island
 4 Forest
-1 Shark Typhoon
 1 Fire Prophecy
+1 Shark Typhoon
 2 Shark Typhoon
 1 Temple of Abandon
 3 Ugin, the Spirit Dragon
@@ -59,18 +59,18 @@
 3 Mountain
 3 Eureka Moment
 4 Eureka Moment
-1 The World Tree
-1 Raugrin Triome
 1 Velomachus Lorehold
+1 The World Tree
+1 Semester's End
 1 Kenrith, the Returned King
 1 Needleverge Pathway
 1 Branchloft Pathway
-1 Semester's End
+1 Raugrin Triome
 1 Plains
 2 The World Tree
-2 Raugrin Triome
 2 Needleverge Pathway
 2 Branchloft Pathway
+2 Raugrin Triome
 2 Plains
 2 Semester's End
 2 Velomachus Lorehold
@@ -91,14 +91,14 @@
 1 Glimpse of Freedom
 1 Into the Roil
 1 Mystical Dispute
-2 Jwari Disruption
 2 Fire Prophecy
+2 Jwari Disruption
 2 Into the Roil
+3 Shark Typhoon
 3 Fire Prophecy
 3 Jwari Disruption
-3 Shark Typhoon
-4 Fire Prophecy
 4 Shark Typhoon
+4 Fire Prophecy
 4 Jwari Disruption
 1 Dryad of the Ilysian Grove
 1 Cosima, God of the Voyage
@@ -106,8 +106,8 @@
 1 Valakut Exploration
 1 Gnottvold Slumbermound
 1 Chainweb Aracnir
-1 Keruga, the Macrosage
 1 Depart the Realm
+1 Keruga, the Macrosage
 1 Mythos of Illuna
 1 Esika's Chariot
 1 Elder Gargaroth
@@ -127,8 +127,8 @@
 2 Esika's Chariot
 2 Radha, Heart of Keld
 3 Cosima, God of the Voyage
-3 Dryad of the Ilysian Grove
 3 Scorching Dragonfire
+3 Dryad of the Ilysian Grove
 3 Chainweb Aracnir
 3 Esika's Chariot
 3 Mythos of Illuna
@@ -137,21 +137,21 @@
 4 Scorching Dragonfire
 4 Chainweb Aracnir
 4 Mythos of Illuna
+1 Nyxbloom Ancient
 1 Kiora Bests the Sea God
 1 Temple of Epiphany
-1 Nyxbloom Ancient
 1 Tibalt's Trickery
 1 Esika, God of the Tree
 1 Stonecoil Serpent
-2 Temple of Abandon
 2 Kiora Bests the Sea God
 2 Stonecoil Serpent
+2 Temple of Abandon
 2 Temple of Epiphany
 2 Tibalt's Trickery
 3 Stonecoil Serpent
-3 Temple of Abandon
-3 Temple of Epiphany
 3 Tibalt's Trickery
+3 Temple of Epiphany
+3 Temple of Abandon
 3 Kiora Bests the Sea God
 4 Stonecoil Serpent
 4 Temple of Epiphany
@@ -159,14 +159,13 @@
 4 Koma, Cosmos Serpent
 4 Kiora Bests the Sea God
 4 Tibalt's Trickery
-1 Toski, Bearer of Secrets
 1 Bala Ged Recovery
+1 Thirst for Meaning
+1 Toski, Bearer of Secrets
 1 Experimental Overload
 1 Thrill of Possibility
-1 Thirst for Meaning
-1 Opt
-1 Improbable Alliance
 1 Rugged Highlands
+1 Improbable Alliance
 1 Once and Future
 1 Thornwood Falls
 1 Thassa's Oracle
@@ -174,31 +173,32 @@
 1 Thwart the Enemy
 1 Storm's Wrath
 1 Teferi's Tutelage
+1 Opt
 2 Bala Ged Recovery
-2 Experimental Overload
-2 Thrill of Possibility
 2 Thirst for Meaning
-2 Opt
+2 Experimental Overload
 2 Improbable Alliance
+2 Thrill of Possibility
 2 Thwart the Enemy
 2 Rugged Highlands
 2 Teferi's Tutelage
 2 Thornwood Falls
+2 Opt
 2 Swiftwater Cliffs
-3 Thrill of Possibility
 3 Bala Ged Recovery
-3 Experimental Overload
 3 Thirst for Meaning
-3 Opt
+3 Experimental Overload
 3 Improbable Alliance
+3 Thrill of Possibility
 3 Thwart the Enemy
+3 Opt
 3 Teferi's Tutelage
-4 Mountain
 4 Thrill of Possibility
 4 Improbable Alliance
+4 Mountain
 4 Thwart the Enemy
 4 Teferi's Tutelage
 4 Thirst for Meaning
 5 Mountain
-6 Island
 5 Forest
+6 Island

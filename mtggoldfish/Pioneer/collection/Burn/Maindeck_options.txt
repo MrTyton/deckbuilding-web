@@ -35,11 +35,6 @@
 3 Spikefield Hazard
 3 Risk Factor
 4 Bomat Courier
-3 Shock
-4 Shock
-13 Mountain
-14 Mountain
-15 Mountain
 1 Snow-Covered Mountain
 1 Chained to the Rocks
 1 Showdown of the Skalds
@@ -50,8 +45,13 @@
 3 Snow-Covered Mountain
 4 Showdown of the Skalds
 4 Snow-Covered Mountain
+5 Snow-Covered Mountain
 6 Snow-Covered Mountain
 7 Snow-Covered Mountain
 8 Snow-Covered Mountain
 9 Snow-Covered Mountain
-5 Snow-Covered Mountain
+3 Shock
+4 Shock
+13 Mountain
+14 Mountain
+15 Mountain

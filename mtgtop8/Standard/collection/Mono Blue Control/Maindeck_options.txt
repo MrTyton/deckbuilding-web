@@ -30,6 +30,7 @@
 3 Ugin, the Spirit Dragon
 3 Mazemind Tome
 3 Sublime Epiphany
+4 Saw It Coming
 4 Midnight Clock
 4 Radiant Fountain
 4 Crawling Barrens
@@ -37,17 +38,16 @@
 4 Solemn Simulacrum
 4 Essence Scatter
 4 Palladium Myr
-4 Saw It Coming
 4 Unknown Shores
-1 Frost Augur
-1 Into the Roil
 1 Behold the Multiverse
-2 Brazen Borrower
-2 Frost Augur
+1 Into the Roil
+1 Frost Augur
 2 Behold the Multiverse
-3 Brazen Borrower
-3 Ascendant Spirit
+2 Frost Augur
+2 Brazen Borrower
 3 Behold the Multiverse
+3 Ascendant Spirit
+3 Brazen Borrower
 4 Behold the Multiverse
 4 Brazen Borrower
 4 Ascendant Spirit
@@ -88,7 +88,6 @@
 1 Thassa's Oracle
 1 Glimpse of Freedom
 1 Stern Dismissal
-1 Frostveil Ambush
 1 Island
 1 Serpentine Curve
 1 Startling Development
@@ -97,29 +96,30 @@
 1 Test of Talents
 1 Curate
 1 Sleep of the Dead
+1 Frostveil Ambush
 2 Serpentine Curve
 2 Field of Ruin
 2 Reject
+2 Test of Talents
 2 Negate
 2 Stern Dismissal
-2 Test of Talents
-2 Frostveil Ambush
 2 Startling Development
 2 Curate
 2 Boon of the Wish-Giver
 2 Island
 2 Neutralize
+2 Frostveil Ambush
 3 Stern Dismissal
 3 Reject
 3 Island
 3 Serpentine Curve
-3 Frostveil Ambush
 3 Neutralize
+3 Frostveil Ambush
 3 Boon of the Wish-Giver
 3 Startling Development
 3 Curate
-4 Island
 4 Frostveil Ambush
+4 Island
 4 Startling Development
 4 Neutralize
 4 Serpentine Curve

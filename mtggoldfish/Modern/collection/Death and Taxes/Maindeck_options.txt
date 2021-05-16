@@ -1,8 +1,8 @@
 4 Tectonic Edge
+1 Eiganjo Castle
 9 Plains
 1 Restoration Angel
 2 Restoration Angel
-1 Eiganjo Castle
 1 Snow-Covered Plains
 2 Snow-Covered Plains
 3 Snow-Covered Plains
@@ -40,12 +40,15 @@
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
+3 Silent Clearing
+4 Silent Clearing
 1 Oath of Nissa
 2 Forest
 2 Oath of Nissa
 3 Oath of Nissa
 4 Oath of Nissa
 4 Noble Hierarch
+10 Snow-Covered Plains
 11 Plains
 12 Plains
 13 Plains
@@ -53,19 +56,16 @@
 15 Plains
 1 Sword of Light and Shadow
 1 Charming Prince
-10 Snow-Covered Plains
-3 Silent Clearing
-4 Silent Clearing
 1 Stirring Wildwood
 2 Stirring Wildwood
-11 Snow-Covered Plains
-12 Snow-Covered Plains
-13 Snow-Covered Plains
 3 Winds of Abandon
 2 Charming Prince
 2 Castle Ardenvale
 1 Linvala, Keeper of Silence
 2 Linvala, Keeper of Silence
+11 Snow-Covered Plains
+12 Snow-Covered Plains
+13 Snow-Covered Plains
 14 Snow-Covered Plains
 15 Snow-Covered Plains
 16 Snow-Covered Plains
@@ -78,12 +78,12 @@
 3 On Thin Ice
 17 Snow-Covered Plains
 18 Snow-Covered Plains
-1 Phyrexian Revoker
-2 Phyrexian Revoker
-3 Phyrexian Revoker
 1 Sunbaked Canyon
 1 Spellskite
 2 Spellskite
+1 Phyrexian Revoker
+2 Phyrexian Revoker
+3 Phyrexian Revoker
 3 Charming Prince
 16 Plains
 1 Skyclave Cleric
@@ -118,11 +118,7 @@
 2 Shefet Dunes
 1 Inspiring Vantage
 2 Inspiring Vantage
-2 Sunbaked Canyon
 3 Sunbaked Canyon
 3 Inspiring Vantage
 4 Inspiring Vantage
-1 Vryn Wingmare
-2 Vryn Wingmare
-3 Vryn Wingmare
-4 Vryn Wingmare
+2 Sunbaked Canyon

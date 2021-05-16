@@ -1,8 +1,11 @@
-1 Blizzard Brawl
 3 Primal Might
+1 Blizzard Brawl
 19 Snow-Covered Forest
 1 Old-Growth Troll
 2 Old-Growth Troll
+3 Tangled Florahedron
+3 Snakeskin Veil
+4 Snakeskin Veil
 20 Snow-Covered Forest
 21 Snow-Covered Forest
 2 Garruk, Unleashed
@@ -11,20 +14,17 @@
 2 Nessian Hornbeetle
 2 Vivien, Monsters' Advocate
 3 Old-Growth Troll
-3 Tangled Florahedron
-3 Snakeskin Veil
-4 Snakeskin Veil
+4 Stonecoil Serpent
 1 In Search of Greatness
 3 Vorinclex, Monstrous Raider
-22 Snow-Covered Forest
-4 Stonecoil Serpent
 4 Old-Growth Troll
-2 Blizzard Brawl
+22 Snow-Covered Forest
+4 Primal Might
 4 Swarm Shambler
 1 Thrashing Brontodon
 3 Scavenging Ooze
 4 Scavenging Ooze
-4 Primal Might
+2 Blizzard Brawl
 1 Ram Through
 2 Ram Through
 3 Ram Through
@@ -148,13 +148,12 @@
 10 Snow-Covered Island
 11 Snow-Covered Island
 12 Snow-Covered Island
-2 In Search of Greatness
+3 Crawling Barrens
 1 Garruk's Harbinger
 1 Esika's Chariot
 2 Garruk's Harbinger
 3 Yorvo, Lord of Garenbrig
 3 Garruk's Harbinger
-3 Crawling Barrens
 1 Adventurous Impulse
 1 Dragonsguard Elite
 2 Dragonsguard Elite
@@ -196,7 +195,6 @@
 4 Big Play
 4 Wildwood Scourge
 20 Forest
-1 Shadowspear
 1 Turntimber Symbiosis
 1 Elvish Warmaster
 1 Cragplate Baloth
@@ -204,6 +202,7 @@
 1 Masked Vandal
 1 Tyvar Kell
 1 Canopy Tactician
+1 Shadowspear
 1 Skyway Sniper
 2 Jaspera Sentinel
 2 Masked Vandal
