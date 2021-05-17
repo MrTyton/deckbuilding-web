@@ -1,21 +1,21 @@
 2 Aether Vial
 3 Aether Vial
-4 Aether Vial
 4 Skyclave Apparition
+4 Aether Vial
 1 Sunbaked Canyon
 1 Leonin Arbiter
-1 Giver of Runes
 1 Ghost Quarter
 1 Needleverge Pathway
+1 Giver of Runes
 2 Sunbaked Canyon
 2 Leonin Arbiter
 2 Sacred Foundry
 2 Ghost Quarter
 2 Giver of Runes
 2 Needleverge Pathway
-3 Sacred Foundry
 3 Sunbaked Canyon
 3 Leonin Arbiter
+3 Sacred Foundry
 3 Giver of Runes
 3 Needleverge Pathway
 3 Plains
@@ -99,6 +99,7 @@
 1 Flooded Strand
 1 Reflecting Pool
 1 Hallowed Fountain
+1 Alirios, Enraptured
 1 Ancient Ziggurat
 1 Kitesail Freebooter
 1 Island
@@ -107,11 +108,11 @@
 1 Noble Hierarch
 1 Blade Splicer
 1 Champion of the Parish
-1 Alirios, Enraptured
 1 Avacyn's Pilgrim
 1 Unclaimed Territory
 1 Meddling Mage
 2 Flooded Strand
+2 Alirios, Enraptured
 2 Reflecting Pool
 2 Ancient Ziggurat
 2 Noble Hierarch
@@ -120,7 +121,6 @@
 2 Meddling Mage
 2 Mantis Rider
 2 Thalia's Lieutenant
-2 Alirios, Enraptured
 2 Champion of the Parish
 2 Unclaimed Territory
 2 Kitesail Freebooter
@@ -137,8 +137,8 @@
 3 Thalia's Lieutenant
 3 Unclaimed Territory
 3 Noble Hierarch
-4 Reflecting Pool
 4 Flooded Strand
+4 Reflecting Pool
 4 Unclaimed Territory
 4 Champion of the Parish
 4 Smuggler's Copter
@@ -165,23 +165,6 @@
 1 Drannith Magistrate
 2 Drannith Magistrate
 3 Drannith Magistrate
-1 Avalanche Riders
-1 Utopia Sprawl
-1 Pia Nalaar
-2 Huntmaster of the Fells
-2 Utopia Sprawl
-2 Avalanche Riders
-2 Pia Nalaar
-3 Magus of the Moon
-3 Goblin Rabblemaster
-3 Huntmaster of the Fells
-3 Utopia Sprawl
-4 Forest
-4 Goblin Rabblemaster
-4 Magus of the Moon
-4 Huntmaster of the Fells
-4 Utopia Sprawl
-5 Forest
 1 Gilded Goose
 1 Brushfire Elemental
 1 Rampaging Ferocidon
@@ -191,3 +174,20 @@
 2 Brushfire Elemental
 3 Gilded Goose
 4 Voice of Resurgence
+1 Utopia Sprawl
+1 Avalanche Riders
+1 Pia Nalaar
+2 Utopia Sprawl
+2 Avalanche Riders
+2 Pia Nalaar
+2 Huntmaster of the Fells
+3 Goblin Rabblemaster
+3 Utopia Sprawl
+3 Magus of the Moon
+3 Huntmaster of the Fells
+4 Goblin Rabblemaster
+4 Utopia Sprawl
+4 Magus of the Moon
+4 Huntmaster of the Fells
+4 Forest
+5 Forest

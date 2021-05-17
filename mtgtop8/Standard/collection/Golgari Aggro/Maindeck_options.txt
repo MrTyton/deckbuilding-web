@@ -26,53 +26,10 @@
 1 Vivien, Monsters' Advocate
 3 Murderous Rider
 4 Forest
-1 Mazemind Tome
-1 Mortality Spear
-1 Blex, Vexing Pest
-1 Erebos's Intervention
-1 Pestilent Haze
-1 Mythos of Nethroi
-1 Clackbridge Troll
-1 Vorinclex, Monstrous Raider
-2 Polukranos, Unchained
-2 Mazemind Tome
-2 Erebos's Intervention
-2 Mortality Spear
-2 Sarulf, Realm Eater
-2 Mythos of Nethroi
-2 Pestilent Haze
-2 Clackbridge Troll
-3 Mazemind Tome
-3 Erebos's Intervention
-3 Sarulf, Realm Eater
-4 Bloodchief's Thirst
-4 Sarulf, Realm Eater
 1 Necroblossom Snarl
 2 Necroblossom Snarl
 3 Necroblossom Snarl
 4 Necroblossom Snarl
-1 Rankle, Master of Pranks
-1 Foulmire Knight
-1 Wilt
-1 Heartless Act
-1 Toski, Bearer of Secrets
-1 Order of Midnight
-1 Edgewall Innkeeper
-2 Scavenging Ooze
-2 Rankle, Master of Pranks
-2 Foulmire Knight
-2 Wilt
-2 Order of Midnight
-2 Edgewall Innkeeper
-2 Heartless Act
-3 Temple of Malady
-3 Heartless Act
-3 Scavenging Ooze
-3 Edgewall Innkeeper
-3 Foulmire Knight
-4 Edgewall Innkeeper
-4 Murderous Rider
-4 Foulmire Knight
 1 Gilded Goose
 1 Trail of Crumbs
 1 Wicked Wolf
@@ -93,8 +50,51 @@
 3 Wicked Wolf
 3 Trail of Crumbs
 4 Gilded Goose
-4 Wicked Wolf
 4 Indatha Triome
+4 Wicked Wolf
+1 Mazemind Tome
+1 Mythos of Nethroi
+1 Mortality Spear
+1 Erebos's Intervention
+1 Blex, Vexing Pest
+1 Pestilent Haze
+1 Clackbridge Troll
+1 Vorinclex, Monstrous Raider
+2 Polukranos, Unchained
+2 Mazemind Tome
+2 Pestilent Haze
+2 Mythos of Nethroi
+2 Mortality Spear
+2 Erebos's Intervention
+2 Sarulf, Realm Eater
+2 Clackbridge Troll
+3 Mazemind Tome
+3 Erebos's Intervention
+3 Sarulf, Realm Eater
+4 Bloodchief's Thirst
+4 Sarulf, Realm Eater
+1 Rankle, Master of Pranks
+1 Order of Midnight
+1 Wilt
+1 Heartless Act
+1 Toski, Bearer of Secrets
+1 Edgewall Innkeeper
+1 Foulmire Knight
+2 Scavenging Ooze
+2 Rankle, Master of Pranks
+2 Order of Midnight
+2 Wilt
+2 Foulmire Knight
+2 Edgewall Innkeeper
+2 Heartless Act
+3 Temple of Malady
+3 Heartless Act
+3 Scavenging Ooze
+3 Edgewall Innkeeper
+3 Foulmire Knight
+4 Edgewall Innkeeper
+4 Murderous Rider
+4 Foulmire Knight
 1 The World Tree
 1 Evolving Wilds
 1 Vito, Thorn of the Dusk Rose
@@ -120,9 +120,9 @@
 3 Extinction Event
 3 Evolving Wilds
 3 Vito, Thorn of the Dusk Rose
-3 Nighthawk Scavenger
 3 Kazandu Nectarpot
 3 Path to the World Tree
+3 Nighthawk Scavenger
 3 Cosmos Elixir
 4 Extinction Event
 5 Forest

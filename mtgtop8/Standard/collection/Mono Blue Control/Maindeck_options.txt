@@ -1,4 +1,4 @@
-2 Forsaken Monument
+2 Sublime Epiphany
 2 Midnight Clock
 2 Radiant Fountain
 2 Solemn Simulacrum
@@ -46,21 +46,21 @@
 2 Frost Augur
 2 Brazen Borrower
 3 Behold the Multiverse
-3 Ascendant Spirit
 3 Brazen Borrower
+3 Ascendant Spirit
 4 Behold the Multiverse
 4 Brazen Borrower
-4 Ascendant Spirit
 4 Faceless Haven
+4 Ascendant Spirit
 16 Snow-Covered Island
 17 Snow-Covered Island
 1 Neutralize
 1 Cosima, God of the Voyage
-1 Icebreaker Kraken
 1 Disdainful Stroke
+1 Icebreaker Kraken
 2 Cosima, God of the Voyage
-2 Icebreaker Kraken
 2 Disdainful Stroke
+2 Icebreaker Kraken
 3 Frost Augur
 3 Icebreaker Kraken
 3 Cosima, God of the Voyage
@@ -68,26 +68,10 @@
 4 Frost Augur
 4 Cosima, God of the Voyage
 1 Negate
-1 Gadwick, the Wizened
-1 Cosmos Charger
-1 Thassa's Intervention
-2 Into the Roil
-2 Alrund's Epiphany
-2 Cosmos Charger
-2 Thassa's Intervention
-2 Gadwick, the Wizened
-3 Alrund's Epiphany
-3 Cosmos Charger
-4 Alrund's Epiphany
-18 Snow-Covered Island
-19 Snow-Covered Island
-20 Snow-Covered Island
-21 Snow-Covered Island
-22 Snow-Covered Island
 1 Reject
-1 Thassa's Oracle
 1 Glimpse of Freedom
 1 Stern Dismissal
+1 Thassa's Oracle
 1 Island
 1 Serpentine Curve
 1 Startling Development
@@ -97,7 +81,6 @@
 1 Curate
 1 Sleep of the Dead
 1 Frostveil Ambush
-2 Serpentine Curve
 2 Field of Ruin
 2 Reject
 2 Test of Talents
@@ -108,6 +91,7 @@
 2 Boon of the Wish-Giver
 2 Island
 2 Neutralize
+2 Serpentine Curve
 2 Frostveil Ambush
 3 Stern Dismissal
 3 Reject
@@ -130,9 +114,25 @@
 8 Island
 9 Island
 10 Island
+11 Island
 12 Island
 13 Island
 14 Island
 15 Island
 16 Island
-11 Island
+1 Thassa's Intervention
+1 Gadwick, the Wizened
+1 Cosmos Charger
+2 Thassa's Intervention
+2 Gadwick, the Wizened
+2 Into the Roil
+2 Alrund's Epiphany
+2 Cosmos Charger
+3 Alrund's Epiphany
+3 Cosmos Charger
+4 Alrund's Epiphany
+18 Snow-Covered Island
+19 Snow-Covered Island
+20 Snow-Covered Island
+21 Snow-Covered Island
+22 Snow-Covered Island

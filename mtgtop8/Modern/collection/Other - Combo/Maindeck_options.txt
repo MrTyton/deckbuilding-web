@@ -1,7 +1,8 @@
-3 Goblin Charbelcher
-4 Shatterskull Smashing
-1 Pelakka Predation
 2 Pelakka Predation
+1 Hagra Mauling
+1 Unburial Rites
+1 Nexus of Fate
+4 Shatterskull Smashing
 1 Pact of Negation
 2 Pact of Negation
 1 Lightning Bolt
@@ -29,7 +30,6 @@
 2 Talisman of Impulse
 2 Recross the Paths
 2 Desperate Ritual
-3 Valakut Awakening
 3 Irencrag Feat
 3 Bala Ged Recovery
 3 Talisman of Impulse
@@ -38,8 +38,9 @@
 3 Desperate Ritual
 3 Pyretic Ritual
 3 Spikefield Hazard
-4 Valakut Awakening
+3 Valakut Awakening
 4 Irencrag Feat
+4 Valakut Awakening
 4 Spikefield Hazard
 4 Recross the Paths
 4 Talisman of Impulse
@@ -47,8 +48,8 @@
 4 Goblin Charbelcher
 4 Pyretic Ritual
 4 Desperate Ritual
-1 Talisman of Indulgence
 1 Open the Omenpaths
+1 Talisman of Indulgence
 1 Chancellor of the Tangle
 2 Talisman of Indulgence
 2 Chancellor of the Tangle
@@ -56,7 +57,7 @@
 3 Open the Omenpaths
 3 Talisman of Indulgence
 4 Talisman of Indulgence
-1 Hagra Mauling
+1 Talisman of Hierarchy
 1 Serum Visions
 2 Serum Visions
 3 Serum Visions
@@ -78,20 +79,20 @@
 1 Sleight of Hand
 2 Lonely Sandbar
 2 Tolaria West
-2 Dream's Grip
+2 Ideas Unbound
 2 Psychic Puppetry
 2 Reach Through Mists
-2 Ideas Unbound
 2 Peer Through Depths
 2 Lotus Field
+2 Dream's Grip
 2 Twiddle
 2 Island
 2 Sleight of Hand
 2 Past in Flames
 3 Lonely Sandbar
 3 Past in Flames
-3 Psychic Puppetry
 3 Peer Through Depths
+3 Psychic Puppetry
 3 Lotus Field
 3 Dream's Grip
 3 Ideas Unbound
@@ -100,23 +101,25 @@
 4 Sleight of Hand
 4 Lonely Sandbar
 4 Lotus Field
-4 Peer Through Depths
-4 Ideas Unbound
 4 Dream's Grip
 4 Psychic Puppetry
+4 Ideas Unbound
 4 Reach Through Mists
+4 Peer Through Depths
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
-1 Urborg, Tomb of Yawgmoth
 1 Snow-Covered Swamp
+1 Urborg, Tomb of Yawgmoth
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
 1 Into the North
 1 Vampire Hexmage
 1 Dark Depths
 1 Thespian's Stage
 1 Ghost Quarter
 1 Overgrown Tomb
-1 Thoughtseize
 1 Snow-Covered Forest
 1 Abrupt Decay
 1 Verdant Catacombs
@@ -125,7 +128,6 @@
 2 Urborg, Tomb of Yawgmoth
 2 Vampire Hexmage
 2 Dark Depths
-2 Thoughtseize
 2 Overgrown Tomb
 2 Thespian's Stage
 2 Abrupt Decay
@@ -134,18 +136,25 @@
 3 Vampire Hexmage
 3 Thespian's Stage
 3 Dark Depths
-3 Thoughtseize
 4 Thoughtseize
 4 Verdant Catacombs
 4 Vampire Hexmage
 4 Dark Depths
+1 Snow-Covered Island
+2 Snow-Covered Island
 1 Opt
 2 Opt
 3 Opt
 4 Opt
-1 Talisman of Hierarchy
 2 Talisman of Hierarchy
+1 Tangled Florahedron
+2 Hagra Mauling
+2 Sphere of the Suns
+3 Sphere of the Suns
 3 Chancellor of the Tangle
+1 Fatal Push
+2 Fatal Push
+3 Fatal Push
 1 Windswept Heath
 1 Marsh Flats
 1 Chrome Mox
@@ -154,10 +163,8 @@
 1 Dismember
 1 Sylvan Scrying
 1 Liliana of the Veil
-1 Fatal Push
 2 Chrome Mox
 2 Dark Confidant
-2 Fatal Push
 2 Marsh Flats
 2 Sylvan Scrying
 2 Deathrite Shaman
@@ -165,109 +172,111 @@
 3 Overgrown Tomb
 3 Chrome Mox
 3 Deathrite Shaman
-3 Dark Confidant
 3 Liliana of the Veil
-3 Fatal Push
+3 Dark Confidant
 3 Sylvan Scrying
 4 Chrome Mox
 4 Deathrite Shaman
 4 Dark Confidant
 1 Halimar Depths
 1 Shimmer of Possibility
-1 Snow-Covered Island
 1 Spirebluff Canal
 1 Vizier of Tumbling Sands
 2 Spirebluff Canal
 2 Vizier of Tumbling Sands
-2 Snow-Covered Island
 2 Grapeshot
 3 Tolaria West
 3 Spirebluff Canal
 4 Spirebluff Canal
+1 Darkslick Shores
+1 Inverter of Truth
+1 Jace, Wielder of Mysteries
+2 Darkslick Shores
+2 Inverter of Truth
+2 Thassa's Oracle
+2 Jace, Wielder of Mysteries
+3 Inverter of Truth
+3 Thassa's Oracle
+4 Inverter of Truth
+4 Thassa's Oracle
 1 Teferi, Time Raveler
 2 Teferi, Time Raveler
 1 City of Brass
 1 Phyrexian Unlife
-1 Talisman of Progress
 1 Angel's Grace
 1 Spoils of the Vault
+1 Talisman of Progress
 1 Seachrome Coast
 1 Shelldock Isle
-1 Darkslick Shores
 1 Gemstone Mine
 1 Wishclaw Talisman
 1 Reflecting Pool
-1 Inverter of Truth
 1 Snow-Covered Plains
-1 Jace, Wielder of Mysteries
 2 Angel's Grace
 2 Phyrexian Unlife
 2 Spoils of the Vault
 2 City of Brass
 2 Shelldock Isle
-2 Darkslick Shores
 2 Seachrome Coast
-2 Inverter of Truth
-2 Thassa's Oracle
-2 Jace, Wielder of Mysteries
 2 Gemstone Mine
 3 Angel's Grace
 3 Phyrexian Unlife
 3 Spoils of the Vault
 3 Gemstone Mine
-3 City of Brass
 3 Talisman of Dominance
+3 City of Brass
 3 Shelldock Isle
-3 Inverter of Truth
-3 Thassa's Oracle
 4 Angel's Grace
 4 Phyrexian Unlife
 4 Spoils of the Vault
 4 City of Brass
 4 Talisman of Dominance
 4 Gemstone Mine
-4 Inverter of Truth
 4 Shelldock Isle
-4 Thassa's Oracle
 4 Open the Omenpaths
-1 Elvish Reclaimer
-1 Nurturing Peatland
-1 Mental Misstep
-1 Bojuka Bog
-1 Once Upon a Time
-1 Sensei's Divining Top
-1 Expedition Map
-2 Nurturing Peatland
-2 Elvish Reclaimer
-2 Mental Misstep
-2 Once Upon a Time
-2 Sensei's Divining Top
-2 Expedition Map
-3 Into the North
-3 Elvish Reclaimer
-3 Mental Misstep
-3 Once Upon a Time
-3 Abrupt Decay
-3 Sensei's Divining Top
-4 Elvish Reclaimer
-4 Mental Misstep
-4 Once Upon a Time
-4 Abrupt Decay
-4 Urborg, Tomb of Yawgmoth
-4 Thespian's Stage
-4 Sensei's Divining Top
+1 Scalding Tarn
+1 Supreme Will
+1 Sunken Ruins
+1 Drown in the Loch
+1 Drowned Catacomb
+1 Murderous Cut
+1 Heartless Act
+1 Omen of the Sea
+1 Relic of Progenitus
+1 Temple of Deceit
+1 Polluted Delta
+1 Watery Grave
+2 Supreme Will
+2 Snow-Covered Swamp
+2 Temple of Deceit
+2 Watery Grave
+2 Relic of Progenitus
+2 Omen of the Sea
+2 Polluted Delta
+3 Darkslick Shores
+3 Snow-Covered Swamp
+3 Relic of Progenitus
+3 Omen of the Sea
+3 Supreme Will
+3 Snow-Covered Island
+3 Polluted Delta
+4 Omen of the Sea
+4 Relic of Progenitus
+4 Fatal Push
+4 Snow-Covered Island
+4 Darkslick Shores
+4 Polluted Delta
 1 Emrakul, the Aeons Torn
 1 Wooded Foothills
 2 Emrakul, the Aeons Torn
 2 Wooded Foothills
 1 Mountain
-1 Scalding Tarn
 1 Bloodstained Mire
 1 Through the Breach
 1 Arid Mesa
 1 Lightning Helix
-1 Steam Vents
 1 Dwarven Mine
+1 Steam Vents
 1 Indomitable Creativity
 1 Prismari Command
 1 Remand
@@ -306,6 +315,32 @@
 4 Emrakul, the Aeons Torn
 4 Through the Breach
 4 Lightning Bolt
+1 Elvish Reclaimer
+1 Nurturing Peatland
+1 Mental Misstep
+1 Bojuka Bog
+1 Once Upon a Time
+1 Sensei's Divining Top
+1 Expedition Map
+2 Nurturing Peatland
+2 Elvish Reclaimer
+2 Mental Misstep
+2 Once Upon a Time
+2 Expedition Map
+2 Sensei's Divining Top
+3 Into the North
+3 Elvish Reclaimer
+3 Mental Misstep
+3 Once Upon a Time
+3 Abrupt Decay
+3 Sensei's Divining Top
+4 Elvish Reclaimer
+4 Mental Misstep
+4 Once Upon a Time
+4 Abrupt Decay
+4 Thespian's Stage
+4 Sensei's Divining Top
+4 Urborg, Tomb of Yawgmoth
 1 Noble Hierarch
 1 Lukka, Coppercoat Outcast
 1 Forest
@@ -316,13 +351,14 @@
 1 Birds of Paradise
 1 Temple Garden
 1 Stomping Ground
-1 Utopia Sprawl
 1 Oath of Nissa
+1 Utopia Sprawl
 2 Nahiri, the Harbinger
 2 Chandra, Torch of Defiance
 2 Noble Hierarch
 2 Lukka, Coppercoat Outcast
 2 Karn, the Great Creator
+2 Temple Garden
 2 Forest
 2 Stomping Ground
 2 Oath of Nissa
@@ -330,7 +366,6 @@
 2 Birds of Paradise
 2 Arbor Elf
 2 Windswept Heath
-2 Temple Garden
 3 Chandra, Torch of Defiance
 3 Nahiri, the Harbinger
 3 Noble Hierarch

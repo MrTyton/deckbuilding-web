@@ -7,8 +7,8 @@
 1 Scavenging Ooze
 1 Lightning Helix
 1 Gilded Goose
-2 Gilded Goose
 2 Snow-Covered Forest
+2 Gilded Goose
 2 Lightning Helix
 3 Snow-Covered Forest
 3 Gilded Goose
@@ -40,8 +40,8 @@
 4 Scalding Tarn
 1 Velomachus Lorehold
 1 Dwarven Mine
-2 Dwarven Mine
 2 Velomachus Lorehold
+2 Dwarven Mine
 3 Dwarven Mine
 4 Dwarven Mine
 1 Growth Spiral
@@ -59,8 +59,8 @@
 1 Remand
 2 Remand
 2 Lightning Bolt
-3 Remand
 3 Lightning Bolt
+3 Remand
 4 Remand
 3 Arid Mesa
 1 Prismari Command
@@ -117,14 +117,14 @@
 1 Island
 2 Flooded Strand
 3 Flooded Strand
-1 Emrakul, the Aeons Torn
-2 Nahiri, the Harbinger
-3 Nahiri, the Harbinger
-4 Nahiri, the Harbinger
 1 Shark Typhoon
 2 Shark Typhoon
 3 Shark Typhoon
 4 Shark Typhoon
+1 Emrakul, the Aeons Torn
+2 Nahiri, the Harbinger
+3 Nahiri, the Harbinger
+4 Nahiri, the Harbinger
 1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
@@ -139,8 +139,8 @@
 2 Kiki-Jiki, Mirror Breaker
 2 Temple Garden
 3 Ephemerate
-3 Forest
 3 Wall of Omens
+3 Forest
 3 Kiki-Jiki, Mirror Breaker
 3 Fire-Lit Thicket
 4 Ephemerate
@@ -163,8 +163,8 @@
 2 Castle Vantress
 2 Tranquil Thicket
 4 Path to Exile
-1 Cryptic Command
 1 Teferi, Hero of Dominaria
+1 Cryptic Command
 1 Hallowed Fountain
 2 Island
 2 Breeding Pool

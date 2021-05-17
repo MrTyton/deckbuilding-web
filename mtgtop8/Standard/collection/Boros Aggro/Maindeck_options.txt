@@ -1,17 +1,13 @@
-3 Mountain
-4 Mountain
-4 Plains
-5 Plains
-5 Mountain
-6 Plains
-1 Embercleave
-2 Embercleave
+2 Luminarch Aspirant
+2 Faceless Haven
+2 Fabled Passage
+3 Fabled Passage
+3 Luminarch Aspirant
+4 Fabled Passage
+4 Luminarch Aspirant
+7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
-1 Maul of the Skyclaves
-2 Maul of the Skyclaves
-3 Maul of the Skyclaves
-4 Usher of the Fallen
 2 Shatterskull Smashing
 3 Shatterskull Smashing
 7 Plains
@@ -19,12 +15,16 @@
 2 Furycalm Snarl
 3 Furycalm Snarl
 4 Selfless Savior
+4 Usher of the Fallen
 8 Plains
 9 Plains
 4 Furycalm Snarl
 4 Skyclave Apparition
+1 Maul of the Skyclaves
 1 Venerable Warsinger
+2 Maul of the Skyclaves
 2 Venerable Warsinger
+3 Maul of the Skyclaves
 1 Blade Historian
 2 Blade Historian
 1 Fervent Champion
@@ -44,31 +44,31 @@
 4 Professor of Symbology
 4 Winota, Joiner of Forces
 4 Shatterskull Smashing
-1 Halvar, God of Battle
 6 Snow-Covered Mountain
-1 Shadowspear
-1 Akiri, Fearless Voyager
-1 Fireblade Charger
-2 Halvar, God of Battle
-2 Shadowspear
-2 Fireblade Charger
-2 Akiri, Fearless Voyager
-3 Halvar, God of Battle
-3 Fireblade Charger
-4 Fireblade Charger
+3 Reidane, God of the Worthy
 1 Shepherd of the Flock
 2 Shepherd of the Flock
-3 Reidane, God of the Worthy
 1 Temple of Triumph
 2 Temple of Triumph
 3 Elite Spellbinder
 4 Elite Spellbinder
+1 Halvar, God of Battle
 6 Mountain
 1 Lurrus of the Dream-Den
+1 Shadowspear
+1 Akiri, Fearless Voyager
+1 Fireblade Charger
 1 Goldvein Pick
+2 Halvar, God of Battle
 2 Lurrus of the Dream-Den
+2 Shadowspear
+2 Fireblade Charger
 2 Goldvein Pick
+2 Akiri, Fearless Voyager
+3 Halvar, God of Battle
+3 Fireblade Charger
 3 Shadowspear
+4 Fireblade Charger
 1 Mila, Crafty Companion
 1 Flamescroll Celebrant
 1 Goldspan Dragon
@@ -86,20 +86,6 @@
 3 Goldspan Dragon
 4 Rip Apart
 4 Flamescroll Celebrant
-1 Swift Response
-1 Kor Blademaster
-1 Relic Axe
-2 Swift Response
-2 Kor Blademaster
-2 Relic Axe
-3 Relic Axe
-3 Kor Blademaster
-3 Akiri, Fearless Voyager
-3 Swift Response
-4 Maul of the Skyclaves
-4 Swift Response
-4 Halvar, God of Battle
-4 Kor Blademaster
 1 Sparring Regimen
 1 Clarion Spirit
 1 Outlaws' Merriment
@@ -115,17 +101,17 @@
 2 Rune of Speed
 2 Doomskar
 2 Rune of Sustenance
+2 Castle Ardenvale
 2 Team Pennant
 2 Tormentor's Helm
 2 Outlaws' Merriment
-2 Castle Ardenvale
 3 Castle Ardenvale
 3 Clarion Spirit
 3 Doomskar
 3 Outlaws' Merriment
 3 Team Pennant
-3 Rune of Sustenance
 3 Tormentor's Helm
+3 Rune of Sustenance
 4 Clarion Spirit
 4 Doomskar
 4 Outlaws' Merriment

@@ -2,26 +2,25 @@
 1 Verdant Catacombs
 1 Horizon Canopy
 4 Valakut Exploration
-2 Windswept Heath
 1 Glacial Chasm
 1 Tropical Island
+1 Nurturing Peatland
+1 Waterlogged Grove
+2 Windswept Heath
 3 Elvish Reclaimer
 4 Elvish Reclaimer
+1 Plains
 1 Savannah
 3 Windswept Heath
-1 Nurturing Peatland
+4 Windswept Heath
+1 Lightning Bolt
+2 Lightning Bolt
+1 Plateau
 1 Swords to Plowshares
 1 Flagstones of Trokair
 1 Temple Garden
 2 Swords to Plowshares
 2 Flagstones of Trokair
-1 Plains
-4 Windswept Heath
-1 Waterlogged Grove
-1 Lightning Bolt
-2 Lightning Bolt
-1 Plateau
-1 Manabond
 1 Uro, Titan of Nature's Wrath
 2 Uro, Titan of Nature's Wrath
 1 Enlightened Tutor
@@ -30,9 +29,9 @@
 1 Academy Ruins
 1 Engineered Explosives
 2 Engineered Explosives
-1 Sevinne's Reclamation
+1 Manabond
 1 Snow-Covered Forest
-1 Bayou
+1 Riftstone Portal
 2 Tropical Island
 2 Misty Rainforest
 2 Waterlogged Grove
@@ -43,22 +42,22 @@
 1 Titania, Protector of Argoth
 1 Scattered Groves
 1 Archon of Valor's Reach
-1 Scavenging Ooze
 1 Dryad Arbor
 1 Knight of the Reliquary
 1 Knight of Autumn
 1 Natural Order
+1 Scavenging Ooze
 1 Orcish Lumberjack
 1 Green Sun's Zenith
 1 Sejiri Steppe
 2 Forest
 2 Birds of Paradise
 2 Savannah
+2 Natural Order
 2 Knight of the Reliquary
 2 Titania, Protector of Argoth
 2 Green Sun's Zenith
 2 Orcish Lumberjack
-2 Natural Order
 3 Green Sun's Zenith
 3 Knight of the Reliquary
 4 Green Sun's Zenith
@@ -66,7 +65,6 @@
 1 Snow-Covered Island
 1 Growth Spiral
 1 Cavern of Souls
-1 Riftstone Portal
 2 Primeval Titan
 2 Growth Spiral
 3 Tropical Island
@@ -76,18 +74,20 @@
 4 Uro, Titan of Nature's Wrath
 4 Misty Rainforest
 4 Growth Spiral
-1 Savai Triome
-1 Snow-Covered Plains
+1 Sevinne's Reclamation
 1 Ipnu Rivulet
+1 Gamble
+2 Gamble
+1 Bayou
 1 Urborg, Tomb of Yawgmoth
 1 Drown in the Loch
 1 Shadow of Doubt
 1 Abrupt Decay
 1 Underground Sea
-2 Drown in the Loch
 2 Bayou
 2 Verdant Catacombs
 2 Shadow of Doubt
+2 Drown in the Loch
 2 Ghost Quarter
 2 Abrupt Decay
 3 Shadow of Doubt

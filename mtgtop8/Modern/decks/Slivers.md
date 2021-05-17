@@ -34,8 +34,8 @@
 
 |*n*<sup>th</sup> copy|                                         Maindeck Card                                         |*n*<sup>th</sup> copy|                                        Sideboard Card                                        |
 |--------------------:|-----------------------------------------------------------------------------------------------|--------------------:|----------------------------------------------------------------------------------------------|
-|                    1|[Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48146)          |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
-|                    1|[Realmwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503804)         |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)       |
+|                    1|[Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48146)          |                    1|[Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=456061)       |
+|                    1|[Realmwalker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503804)         |                    1|[Leyline of Sanctity](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=204993)|
 |                    1|[Sidewinder Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=118908)   |                    1|[Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438676)       |
 |                    1|[Fiery Islet](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464187)         |                    1|[Hushbringer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=472980)        |
 |                    1|[Mutavault](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370733)           |                    1|[Pyroclasm](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129801)          |

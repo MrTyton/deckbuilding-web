@@ -5,8 +5,8 @@
 1 Chrome Mox
 2 Chrome Mox
 3 Chrome Mox
-1 Batterskull
 1 Stoneforge Mystic
+1 Batterskull
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 1 Windswept Heath
@@ -23,6 +23,7 @@
 4 Chrome Mox
 1 Simian Spirit Guide
 1 Seasoned Pyromancer
+1 Plateau
 1 Goblin Rabblemaster
 1 Mountain
 1 Blood Sun
@@ -31,7 +32,6 @@
 1 Trinisphere
 1 Legion Warboss
 1 Battlefield Forge
-1 Plateau
 2 Simian Spirit Guide
 2 Seasoned Pyromancer
 2 Blood Sun
@@ -90,18 +90,18 @@
 3 Caves of Koilos
 4 Caves of Koilos
 6 Plains
+1 Vryn Wingmare
 1 Aven Mindcensor
 1 Phyrexian Revoker
-1 Vryn Wingmare
+2 Vryn Wingmare
 2 Ghost Quarter
 2 Phyrexian Revoker
 2 Aven Mindcensor
-2 Vryn Wingmare
 3 Sanctum Prelate
-3 Ghost Quarter
 3 Vryn Wingmare
-4 Ghost Quarter
+3 Ghost Quarter
 4 Vryn Wingmare
+4 Ghost Quarter
 4 Sanctum Prelate
 1 Silent Clearing
 1 Eye of Ugin
@@ -115,9 +115,9 @@
 1 Embercleave
 1 Talisman of Conviction
 1 Emeria's Call
+2 Silent Clearing
 1 Skyclave Apparition
 2 Skyclave Apparition
-2 Silent Clearing
 1 Path to Exile
 1 Heliod, Sun-Crowned
 2 Path to Exile
@@ -139,16 +139,6 @@
 4 Wasteland Strangler
 4 Marsh Flats
 4 Agonizing Remorse
-1 Mirran Crusader
-2 Mirran Crusader
-5 Snow-Covered Plains
-6 Snow-Covered Plains
-7 Snow-Covered Plains
-8 Snow-Covered Plains
-9 Snow-Covered Plains
-7 Plains
-8 Plains
-9 Plains
 1 Matter Reshaper
 1 Endless One
 1 Eldrazi Mimic
@@ -166,3 +156,13 @@
 4 Eldrazi Mimic
 4 Matter Reshaper
 4 Endless One
+1 Mirran Crusader
+2 Mirran Crusader
+5 Snow-Covered Plains
+6 Snow-Covered Plains
+7 Snow-Covered Plains
+8 Snow-Covered Plains
+9 Snow-Covered Plains
+7 Plains
+8 Plains
+9 Plains
