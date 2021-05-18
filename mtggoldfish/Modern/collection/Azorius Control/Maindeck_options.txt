@@ -42,8 +42,8 @@
 2 Wall of Omens
 1 Scalding Tarn
 2 Scalding Tarn
-1 Jace, Architect of Thought
 1 Test of Talents
+1 Jace, Architect of Thought
 1 Gideon Jura
 1 Sphinx's Revelation
 1 Delay
@@ -65,9 +65,9 @@
 2 Behold the Multiverse
 2 Remand
 2 Oust
-1 Jace, Vryn's Prodigy
 1 Teferi, Master of Time
 1 Spell Pierce
+1 Jace, Vryn's Prodigy
 1 Starnheim Unleashed
 1 Doomskar
 1 Windswept Heath
@@ -75,11 +75,11 @@
 2 Doomskar
 2 Timely Reinforcements
 3 Shark Typhoon
-1 Sea Gate Restoration
 1 Elspeth, Sun's Nemesis
+1 Sea Gate Restoration
 2 Mystic Gate
-3 Omen of the Sea
 3 Mystic Gate
+3 Omen of the Sea
 3 Misty Rainforest
 4 Misty Rainforest
 1 Relic of Progenitus
@@ -102,15 +102,6 @@
 2 Delay
 3 Delay
 4 Delay
-1 Seachrome Coast
-1 Prismatic Vista
-1 Hieroglyphic Illumination
-2 Seachrome Coast
-2 Prismatic Vista
-2 Hieroglyphic Illumination
-3 Seachrome Coast
-4 Cryptic Command
-4 Glacial Fortress
 1 Blessed Alliance
 1 Vedalken Shackles
 1 Urza's Factory
@@ -121,3 +112,12 @@
 8 Island
 9 Island
 10 Island
+1 Seachrome Coast
+1 Prismatic Vista
+1 Hieroglyphic Illumination
+2 Seachrome Coast
+2 Prismatic Vista
+2 Hieroglyphic Illumination
+3 Seachrome Coast
+4 Cryptic Command
+4 Glacial Fortress

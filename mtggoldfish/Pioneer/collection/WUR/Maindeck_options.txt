@@ -10,30 +10,30 @@
 2 Supreme Verdict
 2 Shark Typhoon
 2 Island
-2 Absorb
 2 Hallowed Fountain
-3 Shark Typhoon
+2 Absorb
 3 Island
 3 Supreme Verdict
-3 Hallowed Fountain
+3 Shark Typhoon
 3 Absorb
-4 Supreme Verdict
+3 Hallowed Fountain
 4 Absorb
 4 Hallowed Fountain
+4 Supreme Verdict
 1 Opt
 1 Fabled Passage
 1 Dig Through Time
-2 Opt
 2 Dig Through Time
+2 Opt
 2 Fabled Passage
 3 Dig Through Time
 3 Fabled Passage
 1 Cast Out
 1 Irrigated Farmland
-1 Detention Sphere
 1 Dovin's Veto
-1 Field of Ruin
+1 Detention Sphere
 1 Castle Ardenvale
+1 Field of Ruin
 2 Irrigated Farmland
 2 Field of Ruin
 3 Teferi, Hero of Dominaria
@@ -41,12 +41,12 @@
 3 Opt
 4 Glacial Fortress
 4 Censor
-1 Steam Vents
-2 Steam Vents
 1 Sulfur Falls
+1 Steam Vents
 1 Deafening Clarion
 1 Raugrin Triome
 2 Sulfur Falls
+2 Steam Vents
 2 Raugrin Triome
 3 Sulfur Falls
 3 Raugrin Triome
@@ -60,21 +60,21 @@
 1 Jwari Disruption
 1 Hieroglyphic Illumination
 1 Rewind
+1 Torrential Gearhulk
 1 Rip Apart
 1 Magma Opus
-1 Torrential Gearhulk
 1 Last Breath
-2 Magma Opus
 2 Rip Apart
 2 Torrential Gearhulk
+2 Magma Opus
 3 Magma Opus
 1 Seal Away
 2 Seal Away
 3 Plains
 3 Seal Away
 4 Opt
-4 Shark Typhoon
 4 Fabled Passage
+4 Shark Typhoon
 1 Behold the Multiverse
 2 Behold the Multiverse
 2 Castle Ardenvale
@@ -86,217 +86,57 @@
 1 Into the Roil
 2 Into the Roil
 2 Detention Sphere
-1 Garruk's Harbinger
-1 Enthusiastic Study
 1 Kiora, Behemoth Beckoner
+1 Enthusiastic Study
+1 Garruk's Harbinger
 2 Kiora, Behemoth Beckoner
 2 Garruk's Harbinger
 3 Garruk's Harbinger
-3 Steam Vents
-4 Steam Vents
+1 Rest in Peace
+1 Narset, Parter of Veils
+1 Blessed Alliance
+1 Dream Trawler
+1 Azorius Charm
+1 Grafdigger's Cage
+1 Hengegate Pathway
+1 Blast Zone
+2 Narset, Parter of Veils
+2 Blessed Alliance
+2 Dovin's Veto
+2 Azorius Charm
+3 Irrigated Farmland
+3 Castle Ardenvale
+3 Azorius Charm
+4 Irrigated Farmland
+4 Azorius Charm
+5 Island
 1 Riverglide Pathway
 1 Brazen Borrower
 1 Goldspan Dragon
-1 Silumgar's Scorn
 1 Thassa's Intervention
+1 Silumgar's Scorn
 2 Thassa's Intervention
 2 Deafening Clarion
 2 Riverglide Pathway
 2 Brazen Borrower
-2 Silumgar's Scorn
 2 Goldspan Dragon
 2 Sacred Foundry
+2 Silumgar's Scorn
 3 Deafening Clarion
 3 Thassa's Intervention
-3 Riverglide Pathway
+3 Steam Vents
 3 Brazen Borrower
-3 Glorybringer
+3 Riverglide Pathway
 3 Goldspan Dragon
-3 Silumgar's Scorn
 3 Sacred Foundry
+3 Glorybringer
+3 Silumgar's Scorn
 4 Deafening Clarion
 4 Thassa's Intervention
+4 Steam Vents
+4 Goldspan Dragon
 4 Riverglide Pathway
 4 Brazen Borrower
-4 Silumgar's Scorn
 4 Glorybringer
+4 Silumgar's Scorn
 4 Sacred Foundry
-4 Goldspan Dragon
-1 Aether Hub
-1 Ugin, the Spirit Dragon
-1 Attune with Aether
-1 Servant of the Conduit
-1 Breeding Pool
-1 Rogue Refiner
-1 Ulamog, the Ceaseless Hunger
-1 Golos, Tireless Pilgrim
-1 Shrine of the Forsaken Gods
-1 Botanical Sanctum
-1 Woodweaver's Puzzleknot
-1 Aetherworks Marvel
-1 Harnessed Lightning
-1 Whirler Virtuoso
-2 Aether Hub
-2 Botanical Sanctum
-2 Whirler Virtuoso
-2 Rogue Refiner
-2 Woodweaver's Puzzleknot
-2 Servant of the Conduit
-2 Aetherworks Marvel
-2 Attune with Aether
-2 Harnessed Lightning
-2 Ulamog, the Ceaseless Hunger
-2 Ugin, the Spirit Dragon
-2 Golos, Tireless Pilgrim
-2 Shrine of the Forsaken Gods
-3 Ugin, the Spirit Dragon
-3 Ulamog, the Ceaseless Hunger
-3 Aether Hub
-3 Golos, Tireless Pilgrim
-3 Shrine of the Forsaken Gods
-3 Whirler Virtuoso
-3 Rogue Refiner
-3 Botanical Sanctum
-3 Woodweaver's Puzzleknot
-3 Aetherworks Marvel
-3 Attune with Aether
-3 Harnessed Lightning
-3 Servant of the Conduit
-4 Whirler Virtuoso
-4 Golos, Tireless Pilgrim
-4 Servant of the Conduit
-4 Woodweaver's Puzzleknot
-4 Aetherworks Marvel
-4 Harnessed Lightning
-4 Botanical Sanctum
-4 Rogue Refiner
-4 Attune with Aether
-4 Aether Hub
-1 Emry, Lurker of the Loch
-1 Bomat Courier
-1 Ornithopter
-1 Shivan Reef
-1 Spirebluff Canal
-1 Hope of Ghirapur
-1 Gingerbrute
-1 Darksteel Citadel
-1 Lightning Strike
-1 Mutavault
-1 Ensoul Artifact
-1 Spire of Industry
-1 Skilled Animator
-1 Ghostfire Blade
-1 Shrapnel Blast
-2 Stonecoil Serpent
-2 Ornithopter
-2 Bomat Courier
-2 Spirebluff Canal
-2 Shivan Reef
-2 Darksteel Citadel
-2 Hope of Ghirapur
-2 Lightning Strike
-2 Skilled Animator
-2 Mutavault
-2 Gingerbrute
-2 Ensoul Artifact
-2 Ghostfire Blade
-2 Shrapnel Blast
-3 Stonecoil Serpent
-3 Ornithopter
-3 Shivan Reef
-3 Spirebluff Canal
-3 Bomat Courier
-3 Darksteel Citadel
-3 Skilled Animator
-3 Gingerbrute
-3 Ensoul Artifact
-3 Ghostfire Blade
-3 Shrapnel Blast
-3 Lightning Strike
-3 Mutavault
-4 Stonecoil Serpent
-4 Ornithopter
-4 Spirebluff Canal
-4 Bomat Courier
-4 Shivan Reef
-4 Darksteel Citadel
-4 Skilled Animator
-4 Gingerbrute
-4 Ghostfire Blade
-4 Shrapnel Blast
-4 Ensoul Artifact
-4 Mutavault
-1 Grafdigger's Cage
-1 Rest in Peace
-1 Narset, Parter of Veils
-1 Dream Trawler
-1 Blessed Alliance
-1 Hengegate Pathway
-1 Blast Zone
-1 Azorius Charm
-2 Narset, Parter of Veils
-2 Dovin's Veto
-2 Blessed Alliance
-2 Azorius Charm
-3 Irrigated Farmland
-3 Azorius Charm
-3 Castle Ardenvale
-4 Irrigated Farmland
-4 Azorius Charm
-5 Island
-1 Crash Through
-1 Spikefield Hazard
-1 Shatterskull Smashing
-1 Insolent Neonate
-1 Birgi, God of Storytelling
-1 Runaway Steam-Kin
-1 Magmatic Channeler
-1 Warlord's Fury
-1 Purphoros, God of the Forge
-1 Grinning Ignus
-1 Ox of Agonas
-1 Hazoret's Monument
-2 Spikefield Hazard
-2 Shatterskull Smashing
-2 Insolent Neonate
-2 Birgi, God of Storytelling
-2 Runaway Steam-Kin
-2 Crash Through
-2 Magmatic Channeler
-2 Hazoret's Monument
-2 Ox of Agonas
-2 Purphoros, God of the Forge
-2 Grinning Ignus
-3 Birgi, God of Storytelling
-3 Insolent Neonate
-3 Runaway Steam-Kin
-3 Crash Through
-3 Magmatic Channeler
-3 Spikefield Hazard
-3 Ox of Agonas
-3 Grinning Ignus
-3 Hazoret's Monument
-3 Purphoros, God of the Forge
-4 Birgi, God of Storytelling
-4 Spikefield Hazard
-4 Magmatic Channeler
-4 Crash Through
-4 Insolent Neonate
-4 Ox of Agonas
-4 Runaway Steam-Kin
-4 Grinning Ignus
-4 Hazoret's Monument
-5 Mountain
-6 Mountain
-7 Mountain
-8 Mountain
-9 Mountain
-10 Mountain
-11 Mountain
-12 Mountain
-13 Mountain
-14 Mountain
-15 Mountain
-16 Mountain
-17 Mountain
-18 Mountain

@@ -1,3 +1,12 @@
+1 Walking Ballista
+1 Ancient Tomb
+2 Ancient Tomb
+3 Ancient Tomb
+4 Ancient Tomb
+1 Grim Monolith
+2 Grim Monolith
+3 Grim Monolith
+1 Chalice of the Void
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
@@ -6,15 +15,6 @@
 2 Thought-Knot Seer
 3 Thought-Knot Seer
 1 City of Traitors
-1 Cavern of Souls
-2 Primeval Titan
-1 Reclamation Sage
-1 Crop Rotation
-2 Crop Rotation
-3 Green Sun's Zenith
-4 Green Sun's Zenith
-3 Primeval Titan
-4 Once Upon a Time
 4 Thought-Knot Seer
 1 Eldrazi Temple
 2 Eldrazi Temple
@@ -23,32 +23,32 @@
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 2 City of Traitors
+1 Cavern of Souls
+2 Primeval Titan
+3 Primeval Titan
 1 Dark Depths
+1 Reclamation Sage
+1 Crop Rotation
+2 Crop Rotation
+3 Green Sun's Zenith
 3 Crop Rotation
+4 Green Sun's Zenith
 4 Crop Rotation
 6 Forest
-1 Misty Rainforest
 1 All Is Dust
 1 Manifold Key
 1 Trinisphere
-1 Blast Zone
+4 Once Upon a Time
 1 Cascading Cataracts
-1 Windswept Heath
-1 Wooded Foothills
-1 The World Tree
-1 Boompile
-1 Ancient Stirrings
-2 Boompile
-2 Ancient Stirrings
-3 Ancient Stirrings
-4 Ancient Stirrings
 2 All Is Dust
 1 Sorcerous Spyglass
 2 Ugin, the Spirit Dragon
+1 Blast Zone
 2 Trinisphere
 1 Urborg, Tomb of Yawgmoth
 1 Kozilek, Butcher of Truth
 1 Verdant Catacombs
+1 Misty Rainforest
 1 Ugin, the Ineffable
 2 Sorcerous Spyglass
 2 Eye of Ugin
@@ -61,49 +61,45 @@
 3 Matter Reshaper
 1 Endbringer
 2 Endbringer
+4 Vesuva
 1 Kozilek, the Great Distortion
-1 Maze of Ith
 3 City of Traitors
 2 Manifold Key
 1 Thran Dynamo
 2 Thran Dynamo
-1 Wastes
 1 Reality Smasher
 2 Reality Smasher
 3 All Is Dust
-4 Matter Reshaper
-4 Vesuva
 3 Reality Smasher
 4 Reality Smasher
+4 Matter Reshaper
 3 Eye of Ugin
-3 Walking Ballista
-4 City of Traitors
+1 Wastes
+1 Maze of Ith
 3 Endbringer
 4 Endbringer
+4 City of Traitors
 1 Wandering Archaic
 2 Wandering Archaic
 3 Wandering Archaic
 2 Karakas
-4 Walking Ballista
-1 Emrakul, the Promised End
-1 Elvish Rejuvenator
-2 Cavern of Souls
+3 Walking Ballista
 1 Inventors' Fair
 2 Blast Zone
 1 Spatial Contortion
 3 Sorcerous Spyglass
 3 Ugin, the Spirit Dragon
 4 Wandering Archaic
-1 Lightning Greaves
 1 Blightsteel Colossus
-1 Lodestone Golem
-1 Staff of Domination
 1 Wurmcoil Engine
+1 Lightning Greaves
 1 Metalworker
+1 Lodestone Golem
 1 Wasteland
+1 Staff of Domination
 1 Kuldotha Forgemaster
-2 Wurmcoil Engine
 2 Kuldotha Forgemaster
+2 Wurmcoil Engine
 2 Wasteland
 2 Metalworker
 2 Lodestone Golem
@@ -115,43 +111,44 @@
 4 Metalworker
 4 Lodestone Golem
 4 Kuldotha Forgemaster
-1 Forsaken Monument
-2 Forsaken Monument
-1 Candelabra of Tawnos
-1 Snow-Covered Forest
-2 Snow-Covered Forest
-3 Snow-Covered Forest
-4 Snow-Covered Forest
-5 Snow-Covered Forest
-6 Snow-Covered Forest
+1 Emrakul, the Promised End
+4 Walking Ballista
+1 Elvish Rejuvenator
+2 Cavern of Souls
 2 Elvish Rejuvenator
 3 Elvish Rejuvenator
 4 Primeval Titan
 4 Elvish Rejuvenator
+1 Candelabra of Tawnos
 1 Waterlogged Grove
 1 Tireless Tracker
 1 The Tabernacle at Pendrell Vale
 1 Dismember
 2 Dismember
-1 Dryad Arbor
-1 Apex Devastator
-1 Vivien, Monsters' Advocate
-2 Vivien, Monsters' Advocate
 1 Mazemind Tome
 1 Basalt Monolith
 1 Sphere of Resistance
 1 Mystic Forge
+1 Forsaken Monument
+2 Forsaken Monument
 2 Basalt Monolith
-1 Mikokoro, Center of the Sea
-2 Candelabra of Tawnos
-2 Misty Rainforest
 1 Stonecoil Serpent
 1 Crucible of Worlds
-2 Crucible of Worlds
 2 Stonecoil Serpent
+2 Crucible of Worlds
 3 Manifold Key
 3 Trinisphere
 4 Trinisphere
+1 Dryad Arbor
+1 Apex Devastator
+1 Vivien, Monsters' Advocate
+1 Snow-Covered Forest
+2 Vivien, Monsters' Advocate
+2 Snow-Covered Forest
+3 Snow-Covered Forest
+4 Snow-Covered Forest
+5 Snow-Covered Forest
+6 Snow-Covered Forest
 3 Cavern of Souls
 4 Cavern of Souls
 7 Forest

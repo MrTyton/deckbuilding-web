@@ -44,20 +44,20 @@
 1 Dark Ritual
 2 Dark Ritual
 3 Dark Ritual
+3 Duress
 3 Wasteland
 1 Hymn to Tourach
 2 Hymn to Tourach
 4 Dark Ritual
 2 Sylvan Safekeeper
-3 Duress
-1 Chain of Smog
 1 Witherbloom Apprentice
-2 Chain of Smog
+1 Chain of Smog
 2 Witherbloom Apprentice
-3 Chain of Smog
+2 Chain of Smog
 3 Witherbloom Apprentice
-4 Chain of Smog
+3 Chain of Smog
 4 Witherbloom Apprentice
+4 Chain of Smog
 2 Swamp
 3 Hymn to Tourach
 1 Maze of Ith
@@ -70,13 +70,13 @@
 7 Swamp
 8 Swamp
 9 Swamp
-1 Liliana, the Last Hope
+1 Liliana of the Veil
 1 Castle Locthwain
 1 Eliminate
-1 Liliana of the Veil
+1 Liliana, the Last Hope
 2 Eliminate
-1 Lake of the Dead
 1 Ancient Tomb
+1 Lake of the Dead
 1 Blooming Marsh
 1 Abundant Harvest
 2 Abundant Harvest
@@ -84,20 +84,23 @@
 4 Abundant Harvest
 1 Blast Zone
 4 Inquisition of Kozilek
+3 Stifle
+4 Stifle
+4 Duress
 2 Life from the Loam
 3 Life from the Loam
 4 Bayou
 1 Opposition Agent
 1 Lion's Eye Diamond
 1 Helm of Obedience
-1 Tendrils of Agony
 1 Ill-Gotten Gains
 1 Leyline of the Void
+1 Tendrils of Agony
 1 Infernal Tutor
 2 Lion's Eye Diamond
-2 Helm of Obedience
 2 Ill-Gotten Gains
 2 Leyline of the Void
+2 Helm of Obedience
 2 Infernal Tutor
 2 Ancient Tomb
 3 Helm of Obedience
@@ -108,28 +111,28 @@
 4 Infernal Tutor
 4 Leyline of the Void
 1 Gurmag Angler
-1 Vindicate
-1 Liliana's Triumph
+1 Marsh Flats
 1 Wishclaw Talisman
 1 Cabal Ritual
 1 Trinisphere
-1 Plague Engineer
 1 Toxic Deluge
+1 Liliana's Triumph
+1 Plague Engineer
 1 Court of Ambition
 1 Scrubland
 1 Chrome Mox
-1 Marsh Flats
 1 Polluted Delta
+1 Vindicate
 1 Chalice of the Void
 2 Polluted Delta
+2 Wishclaw Talisman
 2 Snow-Covered Swamp
 2 Gurmag Angler
-2 Vindicate
-2 Wishclaw Talisman
 2 Plague Engineer
 2 Trinisphere
 2 Chrome Mox
 2 Chalice of the Void
+2 Vindicate
 2 Court of Ambition
 3 Polluted Delta
 3 Snow-Covered Swamp
@@ -140,24 +143,24 @@
 4 Chalice of the Void
 4 Karn, the Great Creator
 5 Snow-Covered Swamp
-1 Innocent Blood
 1 Bloodchief's Thirst
-1 Nether Void
-1 The Tabernacle at Pendrell Vale
 1 Smallpox
+1 The Tabernacle at Pendrell Vale
+1 Nether Void
 1 Mishra's Factory
-2 Castle Locthwain
-2 Bloodchief's Thirst
-2 Innocent Blood
-2 Liliana, the Last Hope
-2 Smallpox
+1 Innocent Blood
 2 Mishra's Factory
+2 Bloodchief's Thirst
+2 Smallpox
+2 Castle Locthwain
+2 Liliana, the Last Hope
+2 Innocent Blood
 2 Liliana of the Veil
-3 Liliana of the Veil
 3 Smallpox
+3 Liliana of the Veil
+4 Liliana of the Veil
 4 Smallpox
 4 Wasteland
-4 Liliana of the Veil
 10 Swamp
 1 Satyr Wayfinder
 1 Cabal Therapy
