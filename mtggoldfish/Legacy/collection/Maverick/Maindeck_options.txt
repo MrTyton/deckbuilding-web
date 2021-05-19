@@ -23,14 +23,14 @@
 4 Once Upon a Time
 1 Snow-Covered Plains
 1 Snow-Covered Forest
-1 Nurturing Peatland
-1 Swamp
-1 Sevinne's Reclamation
-1 Kaya, Orzhov Usurper
-1 Indatha Triome
-1 Gilded Goose
-1 Faerie Macabre
 1 Oath of Ghouls
+1 Sevinne's Reclamation
+1 Gilded Goose
+1 Indatha Triome
+1 Faerie Macabre
+1 Kaya, Orzhov Usurper
+1 Swamp
+1 Nurturing Peatland
 2 Kaya, Orzhov Usurper
 2 Oath of Ghouls
 2 Sevinne's Reclamation
@@ -42,13 +42,17 @@
 1 Elvish Reclaimer
 1 Misty Rainforest
 1 Garruk Relentless
-1 Grove of the Burnwillows
 1 Punishing Fire
+1 Grove of the Burnwillows
 1 Plateau
-2 Grove of the Burnwillows
 2 Punishing Fire
+2 Grove of the Burnwillows
 3 Punishing Fire
 3 Grove of the Burnwillows
+1 Hidden Gibbons
+2 Hidden Gibbons
+3 Hidden Gibbons
+4 Hidden Gibbons
 1 Elite Spellbinder
 1 Archon of Emeria
 1 Flooded Strand
@@ -56,7 +60,3 @@
 2 Archon of Emeria
 3 Elite Spellbinder
 4 Noble Hierarch
-1 Hidden Gibbons
-2 Hidden Gibbons
-3 Hidden Gibbons
-4 Hidden Gibbons

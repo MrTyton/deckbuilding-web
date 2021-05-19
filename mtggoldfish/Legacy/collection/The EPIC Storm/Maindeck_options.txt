@@ -73,8 +73,8 @@
 1 Exhume
 1 Scrubland
 1 Unburial Rites
-2 Shallow Grave
 2 Swamp
+2 Shallow Grave
 2 Unmask
 2 Exhume
 2 Faithless Looting
@@ -102,17 +102,13 @@
 2 Carpet of Flowers
 1 Hazoret's Undying Fury
 1 Simian Spirit Guide
-2 Simian Spirit Guide
 2 Past in Flames
+2 Simian Spirit Guide
 3 Past in Flames
 3 Simian Spirit Guide
 1 Experimental Frenzy
 2 Experimental Frenzy
 3 Experimental Frenzy
-2 Scalding Tarn
-3 Volcanic Island
-3 Scalding Tarn
-4 Scalding Tarn
 1 Buried Alive
 1 Arclight Phoenix
 1 Infernal Tutor
@@ -125,6 +121,10 @@
 3 Arclight Phoenix
 3 Buried Alive
 4 Arclight Phoenix
+2 Scalding Tarn
+3 Scalding Tarn
+3 Volcanic Island
+4 Scalding Tarn
 1 Light Up the Stage
 1 Surgical Extraction
 2 Light Up the Stage

@@ -1,13 +1,13 @@
 1 Castle Locthwain
-1 Rewind
-2 Behold the Multiverse
 1 Magma Opus
 2 Magma Opus
 3 Magma Opus
-1 Blightstep Pathway
 1 Riverglide Pathway
 3 Torrential Gearhulk
+2 Behold the Multiverse
+1 Blightstep Pathway
 4 Dig Through Time
+1 Rewind
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
 2 Cling to Dust
@@ -34,10 +34,10 @@
 3 Clearwater Pathway
 4 Clearwater Pathway
 1 Field of Ruin
+4 Magma Opus
 1 Collective Brutality
 2 Castle Locthwain
 2 Radiant Fountain
-4 Magma Opus
 4 Torrential Gearhulk
 1 Hieroglyphic Illumination
 3 Behold the Multiverse
@@ -45,6 +45,11 @@
 1 Port of Karfell
 2 Field of Ruin
 2 Baleful Mastery
+1 Sublime Epiphany
+1 Hagra Mauling
+1 Drown in the Loch
+1 Eliminate
+4 Fetid Pools
 2 Rewind
 1 Zagoth Triome
 1 Breeding Pool
@@ -52,18 +57,13 @@
 1 Overgrown Tomb
 1 Abrupt Decay
 1 Forest
-2 Breeding Pool
 2 Eureka Moment
+2 Breeding Pool
 2 Zagoth Triome
 2 Overgrown Tomb
-3 Zagoth Triome
 3 Eureka Moment
+3 Zagoth Triome
 4 Zagoth Triome
-1 Hagra Mauling
-1 Drown in the Loch
-1 Eliminate
-4 Fetid Pools
-1 Sublime Epiphany
 1 Mountain
 1 Ketria Triome
 1 Growth Spiral
@@ -81,27 +81,55 @@
 1 Ugin, the Spirit Dragon
 1 Saw It Coming
 3 Heartless Act
-1 Vraska's Contempt
-1 Void Shatter
 1 Neutralize
-1 Pull from Tomorrow
-2 Abrupt Decay
+1 Void Shatter
+1 Vraska's Contempt
+2 Riverglide Pathway
 1 Flunk
 1 Commit/Memory
 1 Test of Talents
 1 Ashiok, Nightmare Muse
-2 Riverglide Pathway
 1 Mutavault
 2 Mutavault
 2 Void Shatter
 3 Radiant Fountain
 2 Negate
-3 Negate
 3 Baleful Mastery
+3 Negate
+1 Pull from Tomorrow
+2 Abrupt Decay
 3 Overgrown Tomb
 4 Thoughtseize
-1 Assassin's Trophy
-1 Garruk, Cursed Huntsman
-2 Assassin's Trophy
-3 Breeding Pool
-4 Breeding Pool
+1 Sulfur Falls
+1 Torrent Sculptor
+1 Bonecrusher Giant
+1 Prismari Command
+1 Frantic Inventory
+1 Steam Vents
+1 Goldspan Dragon
+1 Sweltering Suns
+1 Depths of Desire
+2 Sulfur Falls
+2 Steam Vents
+2 Torrent Sculptor
+2 Bonecrusher Giant
+2 Prismari Command
+2 Sublime Epiphany
+2 Mountain
+2 Frantic Inventory
+2 Sweltering Suns
+2 Goldspan Dragon
+2 Depths of Desire
+3 Prismari Command
+3 Steam Vents
+3 Mountain
+3 Frantic Inventory
+3 Sulfur Falls
+3 Bonecrusher Giant
+4 Steam Vents
+4 Prismari Command
+4 Mountain
+4 Frantic Inventory
+4 Bonecrusher Giant
+5 Island
+4 Sulfur Falls

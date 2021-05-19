@@ -1,11 +1,11 @@
+2 The Great Henge
+1 Hashep Oasis
 2 Hashep Oasis
 3 Sunpetal Grove
-1 The Great Henge
-2 The Great Henge
 3 Kazandu Mammoth
-4 Sunpetal Grove
 4 Kazandu Mammoth
 1 Mana Confluence
+4 Sunpetal Grove
 4 Voice of Resurgence
 1 Vivien, Arkbow Ranger
 2 Vivien, Arkbow Ranger
@@ -27,14 +27,14 @@
 2 Garruk's Harbinger
 3 Tireless Tracker
 1 Spell Queller
-1 Breeding Pool
-1 Dromoka's Command
 1 Hallowed Fountain
+1 Dromoka's Command
 1 Glacial Fortress
+1 Breeding Pool
 1 Botanical Sanctum
 2 Glacial Fortress
-2 Spell Queller
 2 Breeding Pool
+2 Spell Queller
 2 Hallowed Fountain
 2 Botanical Sanctum
 3 Spell Queller
@@ -44,20 +44,15 @@
 1 Ajani, Adversary of Tyrants
 1 Courser of Kruphix
 2 Courser of Kruphix
-1 Hengegate Pathway
 1 Reflector Mage
 1 Selfless Spirit
 1 Gilded Goose
+1 Hengegate Pathway
 1 Glasspool Mimic
 2 Mana Confluence
 2 Reflector Mage
 2 Gilded Goose
 2 Kinjalli's Sunwing
-1 Ojutai's Command
-1 Archangel Avacyn
-1 Giant Killer
-2 Giant Killer
-3 Breeding Pool
 4 Luminarch Aspirant
 1 Blooming Marsh
 1 Charming Prince
@@ -72,6 +67,7 @@
 2 Wasteland Strangler
 2 Charming Prince
 2 Loxodon Smiter
+3 Charming Prince
 3 Blooming Marsh
 3 Concealed Courtyard
 3 Wasteland Strangler
@@ -79,4 +75,8 @@
 4 Concealed Courtyard
 4 Blooming Marsh
 4 Wasteland Strangler
-3 Charming Prince
+1 Ojutai's Command
+1 Archangel Avacyn
+1 Giant Killer
+2 Giant Killer
+3 Breeding Pool
