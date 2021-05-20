@@ -25,8 +25,8 @@
 3 Opposition Agent
 1 Arcum's Astrolabe
 2 Arcum's Astrolabe
-3 Arcum's Astrolabe
 3 Snow-Covered Forest
+3 Arcum's Astrolabe
 4 Arcum's Astrolabe
 4 Snow-Covered Forest
 1 Sylvan Library
@@ -50,16 +50,16 @@
 3 Veil of Summer
 4 Veil of Summer
 4 Forest
-1 Badlands
 1 Taiga
+1 Badlands
 1 Grove of the Burnwillows
 1 Punishing Fire
 1 Chandra, Awakened Inferno
 1 Snow-Covered Mountain
 1 Nissa, Vital Force
 1 Possibility Storm
-2 Grove of the Burnwillows
 2 Punishing Fire
+2 Grove of the Burnwillows
 3 Grove of the Burnwillows
 3 Punishing Fire
 2 Snow-Covered Swamp
@@ -79,8 +79,8 @@
 2 Recruiter of the Guard
 2 Snow-Covered Plains
 1 Blast Zone
-1 Vanishing Verse
 1 Plague Engineer
+1 Vanishing Verse
 2 Vanishing Verse
 3 Vanishing Verse
 1 The Tabernacle at Pendrell Vale
@@ -107,7 +107,6 @@
 4 Academy Rector
 4 Teferi's Protection
 4 Lethal Vapors
-1 Tundra
 1 Tropical Island
 1 Baleful Strix
 1 Polluted Delta
@@ -121,6 +120,7 @@
 1 Brainstorm
 1 Ponder
 1 Uro, Titan of Nature's Wrath
+1 Tundra
 1 Cavern Harpy
 1 Aluren
 1 Force of Will
@@ -139,8 +139,8 @@
 3 Force of Will
 3 Brainstorm
 3 Aluren
-4 Recruiter of the Guard
 4 Baleful Strix
+4 Recruiter of the Guard
 4 Misty Rainforest
 4 Aluren
 4 Force of Will

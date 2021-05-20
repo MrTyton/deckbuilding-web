@@ -1,11 +1,11 @@
-2 Thoughtseize
 1 Goblin Trashmaster
 1 Chalice of the Void
 2 Chalice of the Void
 1 Tarfire
+2 Pithing Needle
 3 Chalice of the Void
-1 Boil
 3 Thoughtseize
+1 Boil
 3 Terminate
 1 Damping Sphere
 1 Dreadbore
@@ -18,6 +18,8 @@
 4 Relic of Progenitus
 2 Warren Weirding
 3 Tarfire
+4 Thoughtseize
+1 Munitions Expert
 3 Warren Weirding
 3 Damping Sphere
 4 Damping Sphere
@@ -26,25 +28,21 @@
 2 Alpine Moon
 4 Terminate
 4 Chalice of the Void
-4 Thoughtseize
-1 Munitions Expert
+1 Goblin Ringleader
 1 Duress
 2 Duress
 3 Duress
 1 Plague Engineer
 4 Blood Moon
-3 Pithing Needle
-1 Necromentia
 1 Nihil Spellbomb
 2 Nihil Spellbomb
 3 Nihil Spellbomb
-1 Dragon's Claw
-2 Dragon's Claw
 1 Rain of Gore
 2 Rain of Gore
-1 Goblin Ringleader
-1 Surgical Extraction
 1 Masked Vandal
+1 Necromentia
+1 Surgical Extraction
+2 Surgical Extraction
 1 Legion's End
 1 Chandra, Torch of Defiance
 2 Legion's End
@@ -58,14 +56,19 @@
 2 Collective Brutality
 2 Angrath's Rampage
 3 Collective Brutality
+1 Dragon's Claw
+2 Dragon's Claw
 3 Dragon's Claw
+3 Pithing Needle
 3 Alpine Moon
 1 Heartless Act
 2 Heartless Act
 3 Heartless Act
 4 Fatal Push
-1 Sling-Gang Lieutenant
-4 Tarfire
+1 Leyline of the Void
+2 Leyline of the Void
+3 Leyline of the Void
+4 Leyline of the Void
 1 Madcap Experiment
 1 Platinum Emperion
 1 Kiki-Jiki, Mirror Breaker
@@ -75,7 +78,5 @@
 2 Boggart Harbinger
 3 Madcap Experiment
 4 Madcap Experiment
-1 Leyline of the Void
-2 Leyline of the Void
-4 Leyline of the Void
-3 Leyline of the Void
+1 Sling-Gang Lieutenant
+4 Tarfire

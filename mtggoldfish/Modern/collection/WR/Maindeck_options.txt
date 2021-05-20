@@ -9,61 +9,61 @@
 3 Crash Through
 1 Blood Crypt
 3 Mountain
-1 Flusterstorm
-1 Steam Vents
-2 Flusterstorm
-2 Steam Vents
-3 Flusterstorm
-3 Arid Mesa
 4 Sacred Foundry
 1 Boom/Bust
 1 Pillage
-1 Stone Rain
 2 Boom/Bust
-2 Stone Rain
-2 Pillage
-3 Stone Rain
 1 Cascading Cataracts
 1 Flagstones of Trokair
 1 Mana Tithe
 2 Flagstones of Trokair
 2 Mana Tithe
 2 Cascading Cataracts
-3 Pillage
 3 Cascading Cataracts
 3 Flagstones of Trokair
 3 Boom/Bust
 3 Mana Tithe
-4 Mana Tithe
-4 Pillage
 4 Boom/Bust
 4 Flagstones of Trokair
+1 Stone Rain
+2 Stone Rain
+2 Pillage
+3 Stone Rain
+3 Pillage
+4 Mana Tithe
+4 Pillage
 1 Chandra, Torch of Defiance
 1 Wrath of God
 1 Cleansing Wildfire
+2 Wrath of God
+2 Cleansing Wildfire
+3 Cleansing Wildfire
+4 Cleansing Wildfire
+4 Cascading Cataracts
+1 Flusterstorm
+1 Steam Vents
+2 Flusterstorm
+2 Steam Vents
+3 Flusterstorm
+3 Arid Mesa
 1 Karn, the Great Creator
 1 Nahiri, the Harbinger
 1 Emrakul, the Aeons Torn
-2 Wrath of God
 2 Karn, the Great Creator
-2 Cleansing Wildfire
 2 Nahiri, the Harbinger
-3 Cleansing Wildfire
 3 Nahiri, the Harbinger
 3 Karn, the Great Creator
-4 Cleansing Wildfire
 4 Nahiri, the Harbinger
-4 Cascading Cataracts
 3 Kiln Fiend
 1 Tainted Strike
 2 Tainted Strike
 3 Tainted Strike
 3 Assault Strobe
+1 Plains
 1 Emerge Unscathed
 2 Emerge Unscathed
 4 Flusterstorm
 4 Arid Mesa
-1 Plains
 1 Silent Clearing
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
@@ -72,18 +72,41 @@
 2 Light Up the Stage
 3 Light Up the Stage
 2 Blood Crypt
+2 Plains
+2 Chandra, Torch of Defiance
+1 Snow-Covered Mountain
 1 Noxious Revival
 1 Goblin Dark-Dwellers
 2 Goblin Dark-Dwellers
 4 Stone Rain
+1 Darksteel Citadel
+2 Darksteel Citadel
 1 Snow-Covered Plains
-1 Snow-Covered Mountain
 2 Snow-Covered Plains
 2 Snow-Covered Mountain
-2 Plains
 1 Trinisphere
 2 Trinisphere
-2 Chandra, Torch of Defiance
+1 Horizon Canopy
+1 Lightning Helix
+1 Blood Moon
+1 Anger of the Gods
+1 Chandra, Acolyte of Flame
+1 Needle Spires
+1 Talisman of Conviction
+1 Ajani Vengeant
+1 Flooded Strand
+1 Fiery Islet
+1 Clifftop Retreat
+2 Lightning Helix
+2 Blood Moon
+2 Anger of the Gods
+2 Talisman of Conviction
+2 Chandra, Acolyte of Flame
+2 Ajani Vengeant
+3 Blood Moon
+3 Chandra, Torch of Defiance
+3 Chandra, Acolyte of Flame
+3 Ajani Vengeant
 1 Giver of Runes
 1 Mishra's Bauble
 2 Giver of Runes
@@ -123,15 +146,14 @@
 3 Noxious Revival
 3 Slaughter Pact
 3 Akoum Hellhound
-4 Crash Through
 4 Marsh Flats
+4 Crash Through
 4 Wooded Foothills
 4 Tainted Strike
 4 Slaughter Pact
 4 Assault Strobe
 4 Noxious Revival
 4 Akoum Hellhound
-1 Darksteel Citadel
 1 Stomping Ground
 1 Eternal Witness
 1 Birds of Paradise
@@ -145,7 +167,6 @@
 1 Llanowar Elves
 1 Forest
 1 Rootbound Crag
-2 Darksteel Citadel
 2 Forest
 2 Stomping Ground
 2 Rootbound Crag
@@ -165,8 +186,8 @@
 3 Llanowar Elves
 4 Birds of Paradise
 4 Bloodbraid Elf
-4 Goblin Dark-Dwellers
 4 Llanowar Elves
+4 Goblin Dark-Dwellers
 4 Forest
 4 Mountain
 1 Blackcleave Cliffs
