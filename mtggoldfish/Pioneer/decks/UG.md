@@ -27,9 +27,15 @@
 
 # Other Options
 
-|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|Sideboard Card|
-|--------------------:|-------------------------------------------------------------------------------------------------|---------------------|--------------|
-|                    4|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)|                     |              |
-|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                     |              |
-|                    3|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)       |                     |              |
+|*n*<sup>th</sup> copy|                                          Maindeck Card                                          |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|--------------------:|-------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                    7|[Island](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439857)                |                    2|[Bind the Monster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503655)|
+|                    3|[Thassa's Oracle](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476324)       |                    3|[Bind the Monster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503655)|
+|                    4|[Nykthos, Shrine to Nyx](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373713)|                    1|[Bind the Monster](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=503655)|
+|                    1|[Yavimaya Coast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=129810)        |                     |                                                                                           |
+|                    1|[Overwhelmed Apprentice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473022)|                     |                                                                                           |
+|                    2|[Overwhelmed Apprentice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473022)|                     |                                                                                           |
+|                    3|[Overwhelmed Apprentice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473022)|                     |                                                                                           |
+|                    4|[Overwhelmed Apprentice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473022)|                     |                                                                                           |
+|                    4|[Wizard's Retort](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442963)       |                     |                                                                                           |
 

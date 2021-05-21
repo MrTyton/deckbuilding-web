@@ -7,25 +7,25 @@
 1 Drowned Catacomb
 1 Hero's Downfall
 1 Jace, Vryn's Prodigy
-1 Sinister Sabotage
 1 Extinction Event
 1 Fatal Push
 1 Languish
+1 Sinister Sabotage
 1 Thoughtseize
 1 Zagoth Triome
 1 Valki, God of Lies
 1 Ketria Triome
 1 Bring to Light
-2 Zagoth Triome
-2 Valki, God of Lies
 2 Drowned Catacomb
-2 Sinister Sabotage
+2 Valki, God of Lies
 2 Jace, Vryn's Prodigy
 2 Bring to Light
+2 Zagoth Triome
 2 Thoughtseize
 2 Fatal Push
 2 Watery Grave
 2 Ketria Triome
+2 Sinister Sabotage
 2 Fabled Passage
 3 Drowned Catacomb
 3 Sinister Sabotage
@@ -46,6 +46,10 @@
 1 Opt
 2 Opt
 3 Opt
+1 Barkchannel Pathway
+2 Barkchannel Pathway
+3 Fae of Wishes
+4 Fae of Wishes
 1 Swamp
 1 Witherbloom Command
 1 Darkbore Pathway
@@ -92,6 +96,7 @@
 3 Deathrite Shaman
 4 Silversmote Ghoul
 4 Darkbore Pathway
+4 Overgrown Tomb
 4 Satyr Wayfinder
 4 Gather the Pack
 4 Narcomoeba
@@ -100,7 +105,6 @@
 4 Prized Amalgam
 4 Stitcher's Supplier
 4 Grisly Salvage
-4 Overgrown Tomb
 1 Enter the Infinite
 1 Dark Petition
 1 Thassa's Oracle
@@ -115,10 +119,6 @@
 4 Dig Through Time
 2 Heartless Act
 2 Discontinuity
-1 Barkchannel Pathway
-2 Barkchannel Pathway
-3 Fae of Wishes
-4 Fae of Wishes
 1 Sheltered Thicket
 4 Temple of Mystery
 1 Collective Brutality
@@ -130,15 +130,15 @@
 1 Abrupt Decay
 1 Hieroglyphic Illumination
 2 Abrupt Decay
+1 Castle Vantress
 1 Urborg, Tomb of Yawgmoth
 1 Behold the Multiverse
 1 Scavenging Ooze
-1 Assassin's Trophy
 1 Essence Extraction
+1 Assassin's Trophy
 1 Dead Weight
 1 Negate
 1 Dragonskull Summit
-1 Castle Vantress
 1 Rootbound Crag
 3 Ketria Triome
 3 Zagoth Triome

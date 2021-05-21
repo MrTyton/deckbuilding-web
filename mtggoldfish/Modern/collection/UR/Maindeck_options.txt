@@ -4,32 +4,32 @@
 3 Prismari Command
 2 Force of Negation
 1 Anger of the Gods
+4 Spirebluff Canal
+1 Temple of Epiphany
+4 Cascade Bluffs
 1 Sulfur Falls
 1 Serum Visions
 3 Steam Vents
-4 Spirebluff Canal
-1 Temple of Epiphany
-1 Polluted Delta
-2 Serum Visions
-1 Castle Vantress
-1 Flame Slash
 2 Mana Leak
-4 Cascade Bluffs
+1 Flame Slash
+1 Castle Vantress
+1 Polluted Delta
+1 Reflecting Pool
+2 Spell Snare
+2 Serum Visions
+2 Temple of Epiphany
 3 Serum Visions
 4 Serum Visions
+1 Snow-Covered Mountain
 1 Flooded Strand
 2 Flooded Strand
-2 Spell Snare
-3 Flooded Strand
-2 Polluted Delta
-1 Snow-Covered Mountain
 1 Misty Rainforest
 2 Misty Rainforest
-1 Reflecting Pool
-4 Prismari Command
+3 Flooded Strand
 1 Ketria Triome
 1 Breeding Pool
-2 Temple of Epiphany
+2 Polluted Delta
+4 Prismari Command
 1 Raugrin Triome
 1 Jace, the Mind Sculptor
 3 Misty Rainforest
@@ -49,10 +49,10 @@
 1 Grapeshot
 1 Peer Through Depths
 1 Lotus Field
+2 Ideas Unbound
 2 Psychic Puppetry
 2 Reach Through Mists
 2 Sleight of Hand
-2 Ideas Unbound
 2 Lotus Field
 2 Peer Through Depths
 2 Dream's Grip
@@ -73,8 +73,8 @@
 4 Peer Through Depths
 1 Wandering Fumarole
 1 Abrade
-1 Blood Moon
 1 Magmatic Sinkhole
+1 Blood Moon
 2 Blood Moon
 1 Indomitable Creativity
 1 Dwarven Mine
@@ -85,6 +85,7 @@
 2 Teferi, Time Raveler
 3 Teferi, Time Raveler
 4 Flooded Strand
+2 Reflecting Pool
 1 Wooded Foothills
 2 Indomitable Creativity
 2 Dwarven Mine
@@ -98,27 +99,27 @@
 1 Watery Grave
 1 Repeal
 1 Underworld Breach
+2 Watery Grave
 2 Wishclaw Talisman
 2 Underworld Breach
-2 Watery Grave
 3 Twiddle
 3 Wishclaw Talisman
 4 Twiddle
 4 Wishclaw Talisman
 1 Wrenn and Six
 2 Wrenn and Six
-2 Sulfur Falls
 1 Spell Pierce
+4 Cryptic Command
 1 Bloodstained Mire
 2 Bloodstained Mire
-4 Cryptic Command
 1 Plains
 1 Ral, Izzet Viceroy
-2 Reflecting Pool
 4 Arid Mesa
 6 Snow-Covered Island
 7 Snow-Covered Island
 8 Snow-Covered Island
+3 Reflecting Pool
+2 Mountain
 1 Jwari Disruption
 1 Lonely Sandbar
 1 Tolaria West
@@ -138,7 +139,6 @@
 1 Engineered Explosives
 2 Engineered Explosives
 3 Wrenn and Six
-3 Polluted Delta
 2 Castle Vantress
 1 Minamo, School at Water's Edge
 1 Kiki-Jiki, Mirror Breaker
@@ -146,19 +146,18 @@
 1 Deceiver Exarch
 2 Kiki-Jiki, Mirror Breaker
 2 Deceiver Exarch
-3 Reflecting Pool
+2 Sulfur Falls
 2 Jace, the Mind Sculptor
 1 Torrential Gearhulk
 1 Lightning Helix
 1 Timely Reinforcements
-2 Mountain
 4 Dwarven Mine
 4 Teferi, Time Raveler
+3 Force of Negation
 1 Forest
-1 Desolate Lighthouse
 1 Flusterstorm
-1 Crackling Drake
 1 Teferi, Mage of Zhalfir
+1 Crackling Drake
 1 Wall of Blossoms
 1 Fiery Islet
 1 Nahiri, the Harbinger
@@ -176,18 +175,18 @@
 3 Omen of the Sea
 1 Brazen Borrower
 3 Blood Moon
-1 Silundi Vision
-1 Thing in the Ice
-2 Thing in the Ice
-3 Thing in the Ice
-3 Force of Negation
-1 Magma Opus
 1 Galazeth Prismari
+1 Magma Opus
 1 Logic Knot
 1 Fact or Fiction
 2 Magma Opus
 2 Torrential Gearhulk
 3 Torrential Gearhulk
+1 Silundi Vision
+1 Thing in the Ice
+2 Thing in the Ice
+3 Thing in the Ice
+3 Polluted Delta
 4 Polluted Delta
 4 Valakut Awakening
 1 Polymorph
@@ -205,10 +204,27 @@
 4 Wooded Foothills
 4 Polymorph
 4 Timely Reinforcements
-8 Island
-9 Island
 2 Minamo, School at Water's Edge
 3 Kiki-Jiki, Mirror Breaker
 3 Spell Snare
 3 Deceiver Exarch
 4 Deceiver Exarch
+8 Island
+9 Island
+1 Platinum Emperion
+1 Madcap Experiment
+1 Shape Anew
+1 Sailor of Means
+2 Platinum Emperion
+2 Madcap Experiment
+2 Shape Anew
+2 Sailor of Means
+3 Temple of Epiphany
+3 Platinum Emperion
+3 Madcap Experiment
+3 Shape Anew
+4 Temple of Epiphany
+4 Reflecting Pool
+4 Madcap Experiment
+4 Shape Anew
+4 Platinum Emperion
