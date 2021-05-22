@@ -4,43 +4,32 @@
 3 Censor
 1 Hallowed Fountain
 1 Supreme Verdict
+1 Fabled Passage
+1 Opt
+1 Dig Through Time
 1 Absorb
 1 Shark Typhoon
 2 Plains
+2 Dig Through Time
 2 Supreme Verdict
 2 Shark Typhoon
 2 Island
 2 Hallowed Fountain
+2 Opt
+2 Fabled Passage
 2 Absorb
+3 Dig Through Time
 3 Island
 3 Supreme Verdict
 3 Shark Typhoon
 3 Absorb
+3 Fabled Passage
 3 Hallowed Fountain
 4 Absorb
 4 Hallowed Fountain
 4 Supreme Verdict
-1 Fabled Passage
-1 Opt
-1 Dig Through Time
-2 Dig Through Time
-2 Opt
-2 Fabled Passage
-3 Dig Through Time
-3 Fabled Passage
 1 Cast Out
-1 Castle Ardenvale
-1 Field of Ruin
-1 Irrigated Farmland
-1 Dovin's Veto
-1 Detention Sphere
-2 Field of Ruin
-2 Irrigated Farmland
-3 Teferi, Hero of Dominaria
-4 Island
 3 Opt
-4 Glacial Fortress
-4 Censor
 1 Sulfur Falls
 1 Deafening Clarion
 1 Steam Vents
@@ -68,22 +57,33 @@
 2 Torrential Gearhulk
 2 Magma Opus
 3 Magma Opus
+4 Glacial Fortress
+4 Censor
+1 Castle Ardenvale
+1 Field of Ruin
+1 Irrigated Farmland
+1 Dovin's Veto
+1 Detention Sphere
 1 Seal Away
+2 Field of Ruin
+2 Irrigated Farmland
 2 Seal Away
 3 Plains
+3 Teferi, Hero of Dominaria
 3 Seal Away
 4 Fabled Passage
+4 Island
 4 Shark Typhoon
 4 Opt
+1 Sacred Foundry
+1 Lorehold Command
+2 Hieroglyphic Illumination
+1 Search for Azcanta
 1 Behold the Multiverse
 2 Castle Ardenvale
 2 Behold the Multiverse
-1 Castle Vantress
-1 Sacred Foundry
-1 Search for Azcanta
-1 Lorehold Command
-2 Hieroglyphic Illumination
 1 Into the Roil
+1 Castle Vantress
 2 Into the Roil
 2 Detention Sphere
 1 Kiora, Behemoth Beckoner
@@ -92,51 +92,33 @@
 2 Kiora, Behemoth Beckoner
 2 Garruk's Harbinger
 3 Garruk's Harbinger
-1 Rest in Peace
-1 Narset, Parter of Veils
-1 Dream Trawler
-1 Blessed Alliance
-1 Azorius Charm
-1 Grafdigger's Cage
-1 Hengegate Pathway
-1 Blast Zone
-2 Narset, Parter of Veils
-2 Blessed Alliance
-2 Dovin's Veto
-2 Azorius Charm
-3 Irrigated Farmland
-3 Castle Ardenvale
-3 Azorius Charm
-4 Irrigated Farmland
-4 Azorius Charm
-5 Island
 1 Riverglide Pathway
 1 Brazen Borrower
 1 Goldspan Dragon
-1 Thassa's Intervention
 1 Silumgar's Scorn
+1 Thassa's Intervention
 2 Thassa's Intervention
 2 Riverglide Pathway
 2 Deafening Clarion
 2 Brazen Borrower
-2 Goldspan Dragon
 2 Sacred Foundry
+2 Goldspan Dragon
 2 Silumgar's Scorn
 3 Deafening Clarion
 3 Riverglide Pathway
 3 Goldspan Dragon
+3 Sacred Foundry
 3 Brazen Borrower
 3 Thassa's Intervention
-3 Sacred Foundry
 3 Glorybringer
 3 Steam Vents
 3 Silumgar's Scorn
 4 Deafening Clarion
 4 Riverglide Pathway
+4 Sacred Foundry
 4 Goldspan Dragon
 4 Brazen Borrower
 4 Thassa's Intervention
 4 Steam Vents
 4 Glorybringer
 4 Silumgar's Scorn
-4 Sacred Foundry

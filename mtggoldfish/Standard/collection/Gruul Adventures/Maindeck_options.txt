@@ -25,8 +25,8 @@
 3 Rimrock Knight
 1 Ox of Agonas
 1 Snakeskin Veil
-1 Snow-Covered Forest
 1 Snow-Covered Mountain
+1 Snow-Covered Forest
 2 Snow-Covered Mountain
 2 Snow-Covered Forest
 3 Snow-Covered Mountain
@@ -51,16 +51,16 @@
 1 Primal Might
 1 Gallia of the Endless Dance
 1 Storm's Wrath
-1 Garruk's Harbinger
-2 Garruk's Harbinger
 1 Kazuul's Fury
 1 Tangled Florahedron
 1 Magda, Brazen Outlaw
 2 Tangled Florahedron
 2 Magda, Brazen Outlaw
+1 Garruk's Harbinger
+2 Garruk's Harbinger
 3 Fire Prophecy
-4 Rimrock Knight
 4 Goldspan Dragon
+4 Rimrock Knight
 1 Stonecoil Serpent
 1 Gemrazer
 1 Terror of the Peaks
@@ -69,10 +69,6 @@
 3 Stonecoil Serpent
 3 Gemrazer
 4 Stonecoil Serpent
-1 Toski, Bearer of Secrets
-1 Phoenix of Ash
-1 Bolt Hound
-8 Mountain
 1 Faceless Haven
 1 Highland Forest
 2 Highland Forest
@@ -84,3 +80,7 @@
 6 Snow-Covered Mountain
 7 Snow-Covered Forest
 7 Snow-Covered Mountain
+1 Phoenix of Ash
+1 Toski, Bearer of Secrets
+1 Bolt Hound
+8 Mountain

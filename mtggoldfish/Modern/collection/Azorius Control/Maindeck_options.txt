@@ -1,8 +1,8 @@
-1 Logic Knot
+1 Shark Typhoon
 1 Dovin's Veto
 1 Blast Zone
-3 Celestial Colonnade
 1 Behold the Multiverse
+3 Celestial Colonnade
 1 Winds of Abandon
 1 Oust
 1 Prairie Stream
@@ -29,13 +29,11 @@
 1 Test of Talents
 1 Jace, Architect of Thought
 2 Castle Vantress
-1 Search for Azcanta
-7 Island
 1 Remand
-1 Gideon Jura
 1 Wall of Omens
 1 Ojutai's Command
 2 Wall of Omens
+1 Gideon Jura
 1 Stoneforge Mystic
 1 Batterskull
 1 Sword of Fire and Ice
@@ -47,16 +45,18 @@
 1 Spell Queller
 2 Spell Queller
 1 Delay
-1 Condemn
 3 Jace, the Mind Sculptor
+1 Condemn
 1 Omen of the Sea
 2 Omen of the Sea
 1 Terminus
 2 Terminus
 3 Terminus
 4 Terminus
+1 Search for Azcanta
 2 Remand
 3 Remand
+7 Island
 2 Logic Knot
 3 Glacial Fortress
 3 Polluted Delta
@@ -90,15 +90,6 @@
 3 Delay
 3 Hallowed Fountain
 4 Delay
-1 Seachrome Coast
-1 Prismatic Vista
-1 Hieroglyphic Illumination
-2 Seachrome Coast
-2 Prismatic Vista
-2 Hieroglyphic Illumination
-3 Seachrome Coast
-4 Cryptic Command
-4 Glacial Fortress
 1 Blessed Alliance
 1 Vedalken Shackles
 1 Urza's Factory
@@ -109,5 +100,12 @@
 8 Island
 9 Island
 10 Island
-3 Scalding Tarn
-4 Scalding Tarn
+1 Seachrome Coast
+1 Prismatic Vista
+1 Hieroglyphic Illumination
+2 Seachrome Coast
+2 Prismatic Vista
+2 Hieroglyphic Illumination
+3 Seachrome Coast
+4 Cryptic Command
+4 Glacial Fortress
