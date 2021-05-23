@@ -1,89 +1,69 @@
-4 Tectonic Edge
-4 Plains
-5 Plains
-6 Plains
-7 Plains
-8 Plains
-9 Plains
-1 Eiganjo Castle
-6 Snow-Covered Plains
-7 Snow-Covered Plains
-8 Snow-Covered Plains
-9 Snow-Covered Plains
-1 Elite Spellbinder
-2 Elite Spellbinder
-3 Elite Spellbinder
-1 Horizon Canopy
-2 Horizon Canopy
-4 Elite Spellbinder
-1 Restoration Angel
-2 Restoration Angel
 1 Noble Hierarch
-1 Brushland
-1 Razorverge Thicket
 1 Temple Garden
-1 Forest
 1 Branchloft Pathway
+1 Brushland
 2 Noble Hierarch
 2 Brushland
-2 Razorverge Thicket
 2 Temple Garden
+2 Razorverge Thicket
 2 Branchloft Pathway
 3 Noble Hierarch
-3 Razorverge Thicket
 3 Branchloft Pathway
 3 Temple Garden
+3 Razorverge Thicket
 4 Razorverge Thicket
-4 Branchloft Pathway
 4 Temple Garden
-10 Plains
+4 Branchloft Pathway
+1 Restoration Angel
+2 Restoration Angel
 10 Snow-Covered Plains
-1 Castle Ardenvale
 11 Snow-Covered Plains
 12 Snow-Covered Plains
 13 Snow-Covered Plains
-1 Winds of Abandon
+10 Plains
 1 Oath of Nissa
 2 Forest
 2 Oath of Nissa
 3 Oath of Nissa
 4 Oath of Nissa
 4 Noble Hierarch
+1 Castle Ardenvale
 3 Silent Clearing
 4 Silent Clearing
-2 Winds of Abandon
+1 Winds of Abandon
 1 Stirring Wildwood
 2 Stirring Wildwood
 14 Snow-Covered Plains
+2 Winds of Abandon
 15 Snow-Covered Plains
 16 Snow-Covered Plains
 1 Linvala, Keeper of Silence
 2 Linvala, Keeper of Silence
-1 Sword of Light and Shadow
 1 On Thin Ice
 2 On Thin Ice
+17 Snow-Covered Plains
+18 Snow-Covered Plains
+3 On Thin Ice
+2 Castle Ardenvale
+1 Sword of Light and Shadow
+3 Brushland
+4 Brushland
+1 Charming Prince
 11 Plains
 12 Plains
 13 Plains
 14 Plains
 15 Plains
-1 Charming Prince
-17 Snow-Covered Plains
-18 Snow-Covered Plains
-2 Castle Ardenvale
-3 On Thin Ice
-2 Charming Prince
-3 Winds of Abandon
-3 Brushland
-4 Brushland
 3 Linvala, Keeper of Silence
 4 Linvala, Keeper of Silence
 1 Phyrexian Revoker
 2 Phyrexian Revoker
 3 Phyrexian Revoker
+1 Sunbaked Canyon
+3 Winds of Abandon
 1 Spellskite
 2 Spellskite
-3 Restoration Angel
+2 Charming Prince
 3 Charming Prince
 16 Plains
 1 Auriok Champion
@@ -92,20 +72,19 @@
 19 Snow-Covered Plains
 4 On Thin Ice
 1 Aven Mindcensor
-1 Sunbaked Canyon
 1 Scavenger Grounds
 1 Skyclave Cleric
 2 Skyclave Cleric
-1 Sejiri Shelter
-2 Sejiri Shelter
 1 Gaddock Teeg
 2 Gaddock Teeg
+1 Sejiri Shelter
+2 Sejiri Shelter
 3 Spellskite
+3 Restoration Angel
 1 Wall of Omens
 2 Wall of Omens
 3 Wall of Omens
 4 Auriok Champion
-4 Restoration Angel
 1 Hexdrinker
 2 Hexdrinker
 3 Hexdrinker
@@ -119,6 +98,17 @@
 2 Shefet Dunes
 1 Selfless Savior
 2 Selfless Savior
+1 Venerable Warsinger
+1 Inspiring Vantage
+1 Mountain
+2 Venerable Warsinger
+2 Inspiring Vantage
+2 Sunbaked Canyon
+3 Sunbaked Canyon
+3 Venerable Warsinger
+3 Inspiring Vantage
+4 Inspiring Vantage
+4 Sunbaked Canyon
 1 Vryn Wingmare
 2 Vryn Wingmare
 3 Vryn Wingmare

@@ -125,7 +125,7 @@ def create_arena_export(title, site, format, memoizer):
         name = line.split(" ", 1)[1].strip()
         if name in memoizer:
             res = memoizer[name]
-            results.append(f"{line.replace('/', ' // ')} ({res[3]}) {res[4]}\n")
+            results.append(f"{line.replace('/', ' // ')}\n")
         else:
             continue
     with open(f"./{site}/{format}/collection/{title}/{title}_arena.txt", "w", newline="\r\n") as fp:
@@ -152,7 +152,7 @@ def run(title, dir, format, site, memoizer):
         q = generate_markdown_table_mainside(a, f"{cur}\n")
         other += "\n" + q.getvalue()
     
-    if format == "Standard":
+    if format == "Standard" || format == "Historic":
         create_arena_export(title, site, format, memoizer)
         everything += f"\n#### [Export Arena List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt)"
 
@@ -194,7 +194,7 @@ if __name__ == "__main__":
         "Forest":("[{}]({})".format("Forest", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860"), "Land", "Forest", "RIX", 196)}
     
     for site in ["mtggoldfish", "mtgtop8"]:
-        for format in ["Modern", "Standard", "Legacy", "Pioneer"]:
+        for format in ["Modern", "Standard", "Legacy", "Pioneer", "Historic"]:
             d = f'./{site}/{format}/collection'
             archetypes = [(o, os.path.join(d, o)) for o in os.listdir(d)
                           if os.path.isdir(os.path.join(d, o))]

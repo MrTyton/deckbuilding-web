@@ -1,24 +1,5 @@
-4 Assassin's Trophy
-1 Vraska, Golgari Queen
-2 Forest
-1 Plains
-1 Pernicious Deed
-1 Once Upon a Time
-2 Once Upon a Time
-3 Once Upon a Time
-1 Abrupt Decay
-1 Dovescape
-2 Pernicious Deed
-1 Cruel Reality
-2 Cavern of Souls
-3 Phyrexian Tower
-1 Sandwurm Convergence
-1 Eureka
-2 Eureka
-3 Eureka
-1 Recruiter of the Guard
-2 Swamp
 3 Forest
+2 Bayou
 1 Ancient Tomb
 1 Opposition Agent
 2 Opposition Agent
@@ -31,7 +12,6 @@
 4 Snow-Covered Forest
 1 Sylvan Library
 2 Sylvan Library
-2 Bayou
 1 Nicol Bolas, Planeswalker
 3 Cavern of Souls
 1 Nicol Bolas, God-Pharaoh
@@ -52,10 +32,10 @@
 4 Forest
 1 Badlands
 1 Taiga
+1 Snow-Covered Mountain
 1 Grove of the Burnwillows
 1 Punishing Fire
 1 Chandra, Awakened Inferno
-1 Snow-Covered Mountain
 1 Nissa, Vital Force
 1 Possibility Storm
 2 Grove of the Burnwillows
@@ -79,15 +59,15 @@
 2 Recruiter of the Guard
 2 Snow-Covered Plains
 1 Blast Zone
-1 Plague Engineer
 1 Vanishing Verse
+1 Plague Engineer
 2 Vanishing Verse
 3 Vanishing Verse
+4 Abrupt Decay
+4 Opposition Agent
 1 The Tabernacle at Pendrell Vale
 3 Bayou
 4 Thoughtseize
-4 Abrupt Decay
-4 Opposition Agent
 1 Mirri's Guile
 1 Night of Souls' Betrayal
 1 Chandra, Flamecaller
@@ -95,6 +75,76 @@
 1 Evolutionary Leap
 1 Karn Liberated
 2 Collective Brutality
+1 Lotus Petal
+1 Marsh Flats
+1 Toxic Deluge
+1 Autochthon Wurm
+1 Lich's Mastery
+1 Overgrown Estate
+1 Nourishing Shoal
+1 Zuran Orb
+1 Dark Ritual
+1 Sickening Dreams
+1 Nefarious Lich
+2 Scrubland
+2 Marsh Flats
+2 Autochthon Wurm
+2 Dark Ritual
+2 Zuran Orb
+2 Toxic Deluge
+2 Nourishing Shoal
+2 Sickening Dreams
+2 Lotus Petal
+2 Nefarious Lich
+3 Swamp
+3 Lotus Petal
+3 Marsh Flats
+3 Dark Ritual
+3 Nefarious Lich
+3 Nourishing Shoal
+3 Zuran Orb
+4 Lotus Petal
+4 Swamp
+4 Dark Ritual
+4 Nourishing Shoal
+1 Tundra
+1 Barrin, Tolarian Archmage
+1 Tropical Island
+1 Baleful Strix
+1 Polluted Delta
+1 Misty Rainforest
+1 Underground Sea
+1 Eternal Witness
+1 Parasitic Strix
+1 Brainstorm
+1 Arctic Merfolk
+1 Island
+1 Ponder
+1 Uro, Titan of Nature's Wrath
+1 Cavern Harpy
+1 Aluren
+1 Force of Will
+2 Baleful Strix
+2 Polluted Delta
+2 Ponder
+2 Uro, Titan of Nature's Wrath
+2 Brainstorm
+2 Island
+2 Force of Will
+2 Aluren
+2 Misty Rainforest
+3 Recruiter of the Guard
+3 Baleful Strix
+3 Misty Rainforest
+3 Aluren
+3 Brainstorm
+3 Force of Will
+4 Recruiter of the Guard
+4 Baleful Strix
+4 Aluren
+4 Brainstorm
+4 Misty Rainforest
+4 Force of Will
 1 Hope of Ghirapur
 1 City of Solitude
 1 Lethal Vapors
@@ -107,41 +157,3 @@
 4 Academy Rector
 4 Teferi's Protection
 4 Lethal Vapors
-1 Tundra
-1 Tropical Island
-1 Baleful Strix
-1 Polluted Delta
-1 Misty Rainforest
-1 Underground Sea
-1 Eternal Witness
-1 Barrin, Tolarian Archmage
-1 Parasitic Strix
-1 Arctic Merfolk
-1 Island
-1 Brainstorm
-1 Ponder
-1 Uro, Titan of Nature's Wrath
-1 Cavern Harpy
-1 Aluren
-1 Force of Will
-2 Baleful Strix
-2 Polluted Delta
-2 Ponder
-2 Uro, Titan of Nature's Wrath
-2 Force of Will
-2 Brainstorm
-2 Island
-2 Misty Rainforest
-2 Aluren
-3 Recruiter of the Guard
-3 Baleful Strix
-3 Misty Rainforest
-3 Force of Will
-3 Brainstorm
-3 Aluren
-4 Recruiter of the Guard
-4 Baleful Strix
-4 Misty Rainforest
-4 Aluren
-4 Force of Will
-4 Brainstorm

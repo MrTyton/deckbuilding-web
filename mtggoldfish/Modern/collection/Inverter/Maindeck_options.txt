@@ -1,6 +1,5 @@
-2 Tasigur, the Golden Fang
+2 Opt
 1 Ipnu Rivulet
-4 Darkslick Shores
 1 Flooded Strand
 1 Talisman of Dominance
 1 Wishclaw Talisman
@@ -33,6 +32,7 @@
 4 Pentad Prism
 4 Phyrexian Unlife
 4 Angel's Grace
+4 Darkslick Shores
 1 Pact of Negation
 3 Seachrome Coast
 4 Talisman of Dominance
@@ -41,18 +41,35 @@
 4 Relic of Progenitus
 2 Flooded Strand
 1 Plains
+1 Cling to Dust
 3 Thoughtseize
 1 River of Tears
-1 Cling to Dust
-1 Omen of the Sea
-2 Omen of the Sea
 4 Island
 1 Scalding Tarn
 1 Urborg, Tomb of Yawgmoth
 4 Gemstone Mine
+1 Omen of the Sea
+2 Omen of the Sea
 1 Murderous Cut
+1 Misty Rainforest
 1 Snow-Covered Island
 1 Snow-Covered Swamp
+1 Snow-Covered Plains
+1 Thought Scour
+1 Cryptic Command
+1 Logic Knot
+1 Force of Negation
+1 Sunken Hollow
+2 Thought Scour
+2 Snow-Covered Swamp
+2 Scalding Tarn
+2 Misty Rainforest
+2 Force of Negation
+2 Cryptic Command
+2 Snow-Covered Island
+3 Thought Scour
+3 Tasigur, the Golden Fang
+3 Snow-Covered Island
 1 Drowned Catacomb
 2 Drowned Catacomb
 2 River of Tears
@@ -61,36 +78,14 @@
 3 Omen of the Sea
 4 Omen of the Sea
 4 Watery Grave
-1 Misty Rainforest
-1 Snow-Covered Plains
-1 Sunken Hollow
-1 Cryptic Command
-1 Logic Knot
-1 Thought Scour
-1 Force of Negation
-2 Misty Rainforest
-2 Snow-Covered Island
-2 Cryptic Command
-2 Snow-Covered Swamp
-2 Thought Scour
-2 Scalding Tarn
-2 Force of Negation
-3 Snow-Covered Island
-3 Thought Scour
-3 Tasigur, the Golden Fang
-1 Cavern of Souls
-3 Opt
-3 River of Tears
-4 Opt
-4 River of Tears
+1 Mirror of Fate
 1 Beseech the Queen
-3 Drowned Catacomb
 4 Archmage's Charm
 1 Mystic Sanctuary
 2 Mystic Sanctuary
 2 Cling to Dust
-4 Snow-Covered Island
 4 Thought Scour
+4 Snow-Covered Island
 5 Snow-Covered Island
 1 Hengegate Pathway
 1 Gideon of the Trials
@@ -98,14 +93,19 @@
 2 Snow-Covered Plains
 2 Pact of Negation
 3 Pact of Negation
+1 Cavern of Souls
+3 Opt
+3 River of Tears
+4 Opt
+4 River of Tears
 1 Reflecting Pool
 1 Dismember
-1 Mirror of Fate
 2 Clearwater Pathway
-1 Eliminate
+3 Drowned Catacomb
 1 Sleight of Hand
-1 Port of Karfell
 1 Drown in the Loch
+1 Port of Karfell
+1 Eliminate
 1 Bloodchief's Thirst
 1 Vendilion Clique
 1 Leveler

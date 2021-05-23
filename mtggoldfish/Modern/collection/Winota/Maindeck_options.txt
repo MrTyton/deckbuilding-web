@@ -1,27 +1,7 @@
-2 Aether Vial
-3 Aether Vial
-4 Skyclave Apparition
-4 Aether Vial
-1 Sunbaked Canyon
-1 Leonin Arbiter
-1 Ghost Quarter
-1 Needleverge Pathway
-1 Giver of Runes
-2 Sunbaked Canyon
-2 Sacred Foundry
-2 Leonin Arbiter
-2 Ghost Quarter
-2 Giver of Runes
-2 Needleverge Pathway
-3 Sacred Foundry
-3 Sunbaked Canyon
-3 Leonin Arbiter
-3 Giver of Runes
-3 Needleverge Pathway
 3 Plains
-4 Plains
 4 Sunbaked Canyon
 4 Leonin Arbiter
+4 Plains
 4 Giver of Runes
 4 Needleverge Pathway
 5 Plains
@@ -68,8 +48,8 @@
 1 Geist-Honored Monk
 2 Geist-Honored Monk
 3 Geist-Honored Monk
-1 Snow-Covered Forest
 1 Snow-Covered Mountain
+1 Snow-Covered Forest
 4 Geist-Honored Monk
 2 Razorverge Thicket
 2 Cavern of Souls
@@ -82,8 +62,8 @@
 4 Llanowar Elves
 1 Embercleave
 2 Mountain
-1 Resolute Blademaster
 1 Snow-Covered Plains
+1 Resolute Blademaster
 1 Horizon Canopy
 1 Huntmaster of the Fells
 1 Goblin Rabblemaster
@@ -99,7 +79,6 @@
 1 Reflecting Pool
 1 Flooded Strand
 1 Hallowed Fountain
-1 Alirios, Enraptured
 1 Ancient Ziggurat
 1 Kitesail Freebooter
 1 Island
@@ -108,10 +87,10 @@
 1 Noble Hierarch
 1 Blade Splicer
 1 Champion of the Parish
+1 Alirios, Enraptured
 1 Avacyn's Pilgrim
 1 Unclaimed Territory
 1 Meddling Mage
-2 Alirios, Enraptured
 2 Flooded Strand
 2 Reflecting Pool
 2 Ancient Ziggurat
@@ -121,6 +100,7 @@
 2 Meddling Mage
 2 Mantis Rider
 2 Thalia's Lieutenant
+2 Alirios, Enraptured
 2 Champion of the Parish
 2 Unclaimed Territory
 2 Kitesail Freebooter
@@ -174,20 +154,20 @@
 2 Brushfire Elemental
 3 Gilded Goose
 4 Voice of Resurgence
-1 Avalanche Riders
 1 Utopia Sprawl
+1 Avalanche Riders
 1 Pia Nalaar
 2 Utopia Sprawl
 2 Avalanche Riders
 2 Pia Nalaar
 2 Huntmaster of the Fells
+3 Utopia Sprawl
 3 Magus of the Moon
 3 Huntmaster of the Fells
 3 Goblin Rabblemaster
-3 Utopia Sprawl
-4 Forest
+4 Utopia Sprawl
 4 Magus of the Moon
 4 Huntmaster of the Fells
-4 Utopia Sprawl
-5 Forest
+4 Forest
 4 Goblin Rabblemaster
+5 Forest

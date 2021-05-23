@@ -39,9 +39,11 @@ def run(n=2, mypath=None, onlyfiles=None):
     sideboards = [parseDecklist(x, sideboard=True) for x in onlyfiles]
     for sideboard in sideboards:
         sbranks.addDeck(sideboard, n)
-    mainDeck, removed_mainDeck = compute(ranks.getCollective(), ranks, 60)
     sideBoard, removed_sideBoard = compute(sbranks.getCollective(), sbranks, 15)
-
+    if ("Yorion, Sky Nomad" in [x[0] for x in sideBoard]):
+        mainDeck, removed_mainDeck = compute(ranks.getCollective(), ranks, 80)
+    else:
+        mainDeck, removed_mainDeck = compute(ranks.getCollective(), ranks, 60)
     return mainDeck, removed_mainDeck, sideBoard, removed_sideBoard
 
 def call_this_function(name, format, site, n=2, mypath=None, onlyfiles=None):
