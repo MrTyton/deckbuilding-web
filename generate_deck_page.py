@@ -152,7 +152,7 @@ def run(title, dir, format, site, memoizer):
         q = generate_markdown_table_mainside(a, f"{cur}\n")
         other += "\n" + q.getvalue()
     
-    if format == "Standard" || format == "Historic":
+    if format == "Standard" or format == "Historic":
         create_arena_export(title, site, format, memoizer)
         everything += f"\n#### [Export Arena List](../collection/{title.replace(' ', '%20')}/{title.replace(' ', '%20')}_arena.txt)"
 
@@ -193,7 +193,7 @@ if __name__ == "__main__":
         "Plains":("[{}]({})".format("Plains", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439856"), "Land", "Plains", "RIX", 192),
         "Forest":("[{}]({})".format("Forest", "http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439860"), "Land", "Forest", "RIX", 196)}
     
-    for site in ["mtggoldfish", "mtgtop8"]:
+    for site in ["mtggoldfish"]:#, "mtgtop8"]:
         for format in ["Modern", "Standard", "Legacy", "Pioneer", "Historic"]:
             d = f'./{site}/{format}/collection'
             archetypes = [(o, os.path.join(d, o)) for o in os.listdir(d)
