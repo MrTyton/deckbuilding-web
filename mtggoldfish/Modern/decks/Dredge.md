@@ -115,6 +115,6 @@
 |                    4|[Serum Powder](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=48920)            |                     |                                                                                                  |
 |                    4|[Salvage Titan](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=174900)          |                     |                                                                                                  |
 |                    1|[Snow-Covered Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121233)  |                     |                                                                                                  |
-|                    1|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)         |                     |                                                                                                  |
 |                    3|[Sacred Foundry](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405106)         |                     |                                                                                                  |
+|                    1|[Overgrown Tomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405103)         |                     |                                                                                                  |
 

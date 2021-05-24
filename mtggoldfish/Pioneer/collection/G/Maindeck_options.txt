@@ -37,10 +37,10 @@
 2 Overgrown Tomb
 2 Rotting Regisaur
 2 Kazandu Mammoth
-3 Blooming Marsh
 3 Overgrown Tomb
 3 Darkbore Pathway
 3 Rotting Regisaur
+3 Blooming Marsh
 4 Overgrown Tomb
 4 Rotting Regisaur
 1 Ghalta, Primal Hunger
@@ -49,12 +49,6 @@
 1 Augmenter Pugilist
 2 Yorvo, Lord of Garenbrig
 3 Rhonas the Indomitable
-1 Llanowar Wastes
-2 Llanowar Wastes
-3 Llanowar Wastes
-4 Blooming Marsh
-4 Darkbore Pathway
-4 Llanowar Wastes
 1 Woodland Cemetery
 1 Demonic Embrace
 1 Swamp
@@ -77,6 +71,12 @@
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
 4 Primal Might
+1 Llanowar Wastes
+2 Llanowar Wastes
+3 Llanowar Wastes
+4 Darkbore Pathway
+4 Llanowar Wastes
+4 Blooming Marsh
 1 Questing Beast
 1 Elder Gargaroth
 1 Garruk, Unleashed
