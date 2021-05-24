@@ -4,27 +4,27 @@
 1 Fabled Passage
 1 Watery Grave
 2 Overgrown Tomb
-1 Jace, Vryn's Prodigy
-1 Ketria Triome
-1 Sinister Sabotage
-1 Languish
-1 Hero's Downfall
 1 Drowned Catacomb
+1 Hero's Downfall
+1 Jace, Vryn's Prodigy
+1 Languish
 1 Fatal Push
 1 Thoughtseize
+1 Sinister Sabotage
 1 Extinction Event
 1 Zagoth Triome
 1 Valki, God of Lies
+1 Ketria Triome
 1 Bring to Light
-2 Valki, God of Lies
-2 Ketria Triome
-2 Jace, Vryn's Prodigy
 2 Drowned Catacomb
+2 Valki, God of Lies
+2 Jace, Vryn's Prodigy
 2 Thoughtseize
 2 Fatal Push
 2 Bring to Light
 2 Zagoth Triome
 2 Watery Grave
+2 Ketria Triome
 2 Sinister Sabotage
 2 Fabled Passage
 3 Drowned Catacomb
@@ -40,9 +40,9 @@
 1 Heartless Act
 2 Drown in the Loch
 3 Watery Grave
-4 Watery Grave
 4 Thoughtseize
 4 Sinister Sabotage
+4 Watery Grave
 1 Opt
 2 Opt
 3 Opt
@@ -53,13 +53,13 @@
 1 Swamp
 1 Darkbore Pathway
 1 Satyr Wayfinder
+1 Blooming Marsh
 1 Haunted Dead
 1 Creeping Chill
-1 Blooming Marsh
+1 Grisly Salvage
 1 Driven/Despair
 1 Witherbloom Command
 1 Narcomoeba
-1 Grisly Salvage
 1 Deathrite Shaman
 1 Stitcher's Supplier
 1 Glowspore Shaman
@@ -70,23 +70,23 @@
 2 Witherbloom Command
 2 Darkbore Pathway
 2 Satyr Wayfinder
-2 Creeping Chill
 2 Blooming Marsh
+2 Creeping Chill
+2 Grisly Salvage
 2 Narcomoeba
 2 Forest
 2 Silversmote Ghoul
 2 Deathrite Shaman
 2 Prized Amalgam
-2 Grisly Salvage
 2 Stitcher's Supplier
 2 Clearwater Pathway
 2 Gather the Pack
-3 Darkbore Pathway
-3 Witherbloom Command
-3 Satyr Wayfinder
-3 Creeping Chill
-3 Overgrown Tomb
 3 Clearwater Pathway
+3 Witherbloom Command
+3 Darkbore Pathway
+3 Satyr Wayfinder
+3 Overgrown Tomb
+3 Creeping Chill
 3 Gather the Pack
 3 Prized Amalgam
 3 Silversmote Ghoul
@@ -146,9 +146,9 @@
 4 Opt
 4 Bala Ged Recovery
 1 Blightstep Pathway
-1 Mountain
 1 Soul-Guide Lantern
 1 Mystical Dispute
+1 Mountain
 1 Dragonmaster Outcast
 2 Swamp
 2 Soul-Guide Lantern

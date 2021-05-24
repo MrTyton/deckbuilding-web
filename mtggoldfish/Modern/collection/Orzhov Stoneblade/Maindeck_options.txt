@@ -8,14 +8,14 @@
 2 Prismatic Vista
 4 Elite Spellbinder
 4 Flickerwisp
-1 Ephemerate
 1 Wall of Omens
+1 Ephemerate
 2 Charming Prince
-2 Ephemerate
 2 Wall of Omens
-3 Ephemerate
-3 Wall of Omens
+2 Ephemerate
 3 Charming Prince
+3 Wall of Omens
+3 Ephemerate
 4 Charming Prince
 4 Ephemerate
 6 Plains
@@ -63,8 +63,8 @@
 3 Thought-Knot Seer
 4 Thought-Knot Seer
 4 Eldrazi Temple
-4 Vanishing Verse
 4 Kaya's Guile
+4 Vanishing Verse
 1 Snow-Covered Plains
 4 Lingering Souls
 4 Dark Confidant
@@ -106,24 +106,24 @@
 2 Eldrazi Displacer
 3 Eldrazi Displacer
 4 Sedgemoor Witch
-1 Urborg, Tomb of Yawgmoth
-1 Flagstones of Trokair
-1 Smallpox
 1 Bloodstained Mire
+1 Urborg, Tomb of Yawgmoth
+1 Smallpox
+1 Flagstones of Trokair
 1 Fetid Heath
-2 Flagstones of Trokair
-2 Urborg, Tomb of Yawgmoth
 2 Bloodstained Mire
 2 Smallpox
+2 Urborg, Tomb of Yawgmoth
+2 Flagstones of Trokair
 2 Fetid Heath
-3 Flagstones of Trokair
-3 Fetid Heath
 3 Urborg, Tomb of Yawgmoth
 3 Smallpox
-4 Flagstones of Trokair
+3 Flagstones of Trokair
+3 Fetid Heath
 4 Smallpox
-1 Vault of the Archangel
+4 Flagstones of Trokair
 1 Shefet Dunes
+1 Vault of the Archangel
 1 Ifnir Deadlands
 2 Ifnir Deadlands
 3 Reality Smasher
@@ -148,5 +148,5 @@
 3 Orzhov Charm
 4 Orzhov Charm
 4 Ranger-Captain of Eos
-9 Snow-Covered Plains
 4 Martyr of Sands
+9 Snow-Covered Plains

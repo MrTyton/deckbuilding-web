@@ -1,59 +1,65 @@
 2 Elite Spellbinder
 3 Elite Spellbinder
-1 Barkchannel Pathway
-2 Barkchannel Pathway
 1 Reidane, God of the Worthy
-2 Reidane, God of the Worthy
 6 Plains
 7 Plains
+2 Reidane, God of the Worthy
+1 Barkchannel Pathway
+2 Barkchannel Pathway
 1 Thraben Inspector
 2 Thraben Inspector
+3 Thraben Inspector
 4 Elite Spellbinder
 3 Reidane, God of the Worthy
 1 Shefet Dunes
-1 Emeria's Call
 2 Shefet Dunes
-3 Thraben Inspector
-1 Forest
-2 Forest
-1 Blinkmoth Nexus
 4 Thraben Inspector
-2 Emeria's Call
-2 Blinkmoth Nexus
-3 Blinkmoth Nexus
-3 Shefet Dunes
-4 Blinkmoth Nexus
+1 Emeria's Call
+4 Archon of Emeria
 8 Plains
 9 Plains
 10 Plains
+1 Blinkmoth Nexus
+4 Thalia, Guardian of Thraben
+3 Shefet Dunes
 11 Plains
+1 Forest
+2 Forest
 1 Declaration in Stone
 2 Declaration in Stone
-4 Thalia, Guardian of Thraben
+2 Emeria's Call
+2 Blinkmoth Nexus
+3 Blinkmoth Nexus
+4 Blinkmoth Nexus
 1 Mana Tithe
 1 Scavenger Grounds
 2 Mana Tithe
 2 Scavenger Grounds
 1 Glorious Protector
-4 Archon of Emeria
-1 Giant Killer
 1 Halvar, God of Battle
-2 Glorious Protector
 2 Halvar, God of Battle
-3 Emeria's Call
 3 Halvar, God of Battle
-4 Emeria's Call
+12 Plains
+1 Giant Killer
+1 Containment Priest
+2 Containment Priest
+1 Sword of Body and Mind
+2 Sword of Body and Mind
+3 Declaration in Stone
+1 Shalai, Voice of Plenty
 1 Legion's Landing
 1 Seasoned Hallowblade
 1 Adanto Vanguard
+2 Adanto Vanguard
+2 Seasoned Hallowblade
+2 Glorious Protector
+3 Emeria's Call
+4 Emeria's Call
 1 Toski, Bearer of Secrets
-1 Shalai, Voice of Plenty
 1 Kazandu Mammoth
 1 Sunpetal Grove
 1 Fauna Shaman
 1 Lovestruck Beast
-2 Adanto Vanguard
-2 Seasoned Hallowblade
 2 Lovestruck Beast
 2 Legion's Landing
 2 Fauna Shaman
@@ -63,87 +69,8 @@
 4 Lovestruck Beast
 4 Forest
 1 Breeding Pool
-1 Lavinia, Azorius Renegade
-1 Charming Prince
-2 Charming Prince
-1 Containment Priest
-2 Containment Priest
-12 Plains
-1 Glacial Fortress
-2 Glacial Fortress
-3 Glacial Fortress
-4 Glacial Fortress
-1 Militia Bugler
-2 Militia Bugler
-1 Sword of Body and Mind
-2 Sword of Body and Mind
-3 Declaration in Stone
-1 Sejiri Shelter
-2 Breeding Pool
-1 Scattered Groves
-1 Scavenging Ooze
-2 Giant Killer
-2 Scavenging Ooze
-2 Scattered Groves
-3 Giant Killer
-1 Niambi, Esteemed Speaker
-1 Brazen Borrower
-1 Kira, Great Glass-Spinner
-1 Mobilized District
-2 Island
-2 Brazen Borrower
-2 Mobilized District
-3 Island
-3 Charming Prince
-4 Glasspool Mimic
-1 General Kudro of Drannith
-1 Ancient Ziggurat
-1 Kitesail Freebooter
-1 Godless Shrine
-1 Unclaimed Territory
-1 Brightclimb Pathway
-1 Silverquill Silencer
-2 General Kudro of Drannith
-2 Kitesail Freebooter
-2 Ancient Ziggurat
-2 Brightclimb Pathway
-2 Unclaimed Territory
-2 Silverquill Silencer
-2 Godless Shrine
-3 Brightclimb Pathway
-3 Ancient Ziggurat
-3 Godless Shrine
-3 Kitesail Freebooter
-4 Brightclimb Pathway
-4 Ancient Ziggurat
-4 Kitesail Freebooter
-4 Godless Shrine
-1 Alseid of Life's Bounty
-1 Taranika, Akroan Veteran
-1 Vryn Wingmare
-2 Alseid of Life's Bounty
-2 Vryn Wingmare
-2 Taranika, Akroan Veteran
-3 Alseid of Life's Bounty
-3 Militia Bugler
-3 Vryn Wingmare
-3 Taranika, Akroan Veteran
-4 Vryn Wingmare
-4 Deputy of Detention
-4 Militia Bugler
-1 Maul of the Skyclaves
-1 Archon of Absolution
-1 Authority of the Consuls
-1 Legion Angel
-2 Maul of the Skyclaves
-2 Archon of Absolution
-3 Archon of Absolution
-13 Plains
-14 Plains
-15 Plains
 1 Faceless Haven
 1 Snow-Covered Plains
-1 Usher of the Fallen
 2 Snow-Covered Plains
 2 Faceless Haven
 3 Snow-Covered Plains
@@ -165,4 +92,118 @@
 17 Snow-Covered Plains
 18 Snow-Covered Plains
 19 Snow-Covered Plains
+1 Lavinia, Azorius Renegade
+1 Charming Prince
+2 Charming Prince
+1 Glacial Fortress
+2 Glacial Fortress
+3 Glacial Fortress
+4 Glacial Fortress
+1 Militia Bugler
+2 Militia Bugler
+1 Maul of the Skyclaves
+2 Maul of the Skyclaves
+13 Plains
+14 Plains
+15 Plains
+1 Sejiri Shelter
+1 Legion Angel
+1 Mobilized District
+2 Mobilized District
+1 Lurrus of the Dream-Den
+2 Lurrus of the Dream-Den
+2 Breeding Pool
+1 Scattered Groves
+1 Scavenging Ooze
+2 Giant Killer
+2 Scavenging Ooze
+2 Scattered Groves
+3 Giant Killer
+1 Niambi, Esteemed Speaker
+1 Brazen Borrower
+1 Kira, Great Glass-Spinner
+2 Island
+2 Brazen Borrower
+3 Island
+1 Archon of Absolution
+1 Authority of the Consuls
+2 Archon of Absolution
+3 Archon of Absolution
+1 Drannith Magistrate
+2 Drannith Magistrate
+3 Adanto Vanguard
+3 Seasoned Hallowblade
+3 Drannith Magistrate
+4 Drannith Magistrate
+4 Adanto Vanguard
+4 Seasoned Hallowblade
+3 Charming Prince
+4 Glasspool Mimic
+1 General Kudro of Drannith
+1 Ancient Ziggurat
+1 Kitesail Freebooter
+1 Godless Shrine
+1 Brightclimb Pathway
+1 Unclaimed Territory
+1 Silverquill Silencer
+2 General Kudro of Drannith
+2 Kitesail Freebooter
+2 Ancient Ziggurat
+2 Brightclimb Pathway
+2 Unclaimed Territory
+2 Silverquill Silencer
+2 Godless Shrine
+3 Brightclimb Pathway
+3 Godless Shrine
+3 Ancient Ziggurat
+3 Kitesail Freebooter
+4 Brightclimb Pathway
+4 Ancient Ziggurat
+4 Kitesail Freebooter
+4 Godless Shrine
+1 Lyra Dawnbringer
+1 Linvala, Keeper of Silence
+1 Tyrite Sanctum
+2 Linvala, Keeper of Silence
+2 Sejiri Shelter
+2 Shalai, Voice of Plenty
+2 Tyrite Sanctum
+2 Lyra Dawnbringer
+3 Lurrus of the Dream-Den
+3 Sejiri Shelter
+3 Mobilized District
+3 Tyrite Sanctum
+4 Shefet Dunes
+4 Declaration in Stone
+4 Tyrite Sanctum
+4 Sejiri Shelter
+4 Mobilized District
+1 Alseid of Life's Bounty
+1 Vryn Wingmare
+1 Taranika, Akroan Veteran
+2 Alseid of Life's Bounty
+2 Vryn Wingmare
+2 Taranika, Akroan Veteran
+3 Alseid of Life's Bounty
+3 Militia Bugler
+3 Vryn Wingmare
+3 Taranika, Akroan Veteran
+4 Vryn Wingmare
+4 Deputy of Detention
+4 Militia Bugler
+1 Tithe Taker
+2 Tithe Taker
+3 Maul of the Skyclaves
+3 Tithe Taker
+4 Maul of the Skyclaves
+4 Tithe Taker
+16 Plains
+17 Plains
+18 Plains
+19 Plains
+20 Plains
+21 Plains
+22 Plains
+23 Plains
+1 Usher of the Fallen
 20 Snow-Covered Plains

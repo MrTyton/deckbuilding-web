@@ -1,14 +1,14 @@
-1 Ox of Agonas
-1 Negate
+1 Soul Sear
 2 Ox of Agonas
-1 Disdainful Stroke
-2 Negate
 1 Prismari Command
+1 Negate
+2 Negate
+1 Disdainful Stroke
 1 Scorching Dragonfire
 2 Scorching Dragonfire
+3 Redcap Melee
 1 Miscast
 2 Miscast
-3 Redcap Melee
 3 Cinderclasm
 1 Crush the Weak
 1 Roiling Vortex
@@ -18,67 +18,55 @@
 2 Stern Dismissal
 3 Miscast
 4 Miscast
-2 Soul Sear
+1 Rip Apart
+2 Rip Apart
 2 Crush the Weak
 3 Ox of Agonas
 1 The Akroan War
-1 Shark Typhoon
+2 Soul Sear
 2 The Akroan War
-1 Rip Apart
+1 Shark Typhoon
 4 Cinderclasm
-2 Rip Apart
 1 Phoenix of Ash
-2 Disdainful Stroke
 1 Storm's Wrath
 1 Weathered Runestone
 2 Weathered Runestone
+2 Disdainful Stroke
 3 Stern Dismissal
-1 Heated Debate
-2 Phoenix of Ash
 2 Shark Typhoon
 1 Annul
-2 Heated Debate
-3 Heated Debate
+2 Phoenix of Ash
 3 Negate
+1 Fire Prophecy
+2 Fire Prophecy
 3 Scorching Dragonfire
 1 Robber of the Rich
 2 Robber of the Rich
-3 Robber of the Rich
 3 Roiling Vortex
-1 The Royal Scions
-1 Mazemind Tome
+3 Robber of the Rich
 2 Prismari Command
-4 Negate
-1 Fire Prophecy
-2 Fire Prophecy
+1 Mazemind Tome
 4 Mystical Dispute
 3 Phoenix of Ash
 4 Phoenix of Ash
-2 Soul-Guide Lantern
-1 Ashiok's Erasure
-1 Essence Scatter
-3 Serpentine Curve
 3 Shark Typhoon
-1 Alrund's Epiphany
-2 The Royal Scions
-2 Essence Scatter
+4 Negate
 1 Into the Roil
+1 Essence Scatter
 1 Cubwarden
 4 Robber of the Rich
-1 Shredded Sails
-2 Shredded Sails
-3 Shredded Sails
-2 Storm's Wrath
-3 Test of Talents
 1 Multiple Choice
+1 Heated Debate
+1 Shadowspear
+2 Mazemind Tome
 1 Duress
 1 Wilt
 2 Duress
 3 Duress
 1 Crippling Fear
 1 Thrashing Brontodon
-1 Scavenging Ooze
 1 Elder Gargaroth
+1 Scavenging Ooze
 1 Chainweb Aracnir
 2 Wilt
 2 Elder Gargaroth
@@ -86,52 +74,62 @@
 1 Improbable Alliance
 2 Improbable Alliance
 3 Improbable Alliance
-1 Shadowspear
-1 Ugin, the Spirit Dragon
-1 Elspeth Conquers Death
+1 Ashiok's Erasure
+1 Alrund's Epiphany
+3 Serpentine Curve
 1 Shock
 1 Narfi, Betrayer King
 2 Shock
 3 Shock
 1 Frost Bite
 2 Frost Bite
+2 Essence Scatter
 2 Into the Roil
 2 Annul
 1 Shadows' Verdict
+1 Ugin, the Spirit Dragon
+1 Elspeth Conquers Death
 1 Glimpse of Freedom
-1 Kiora Bests the Sea God
-1 Thrill of Possibility
+2 Shadowspear
 1 Silundi Vision
+1 Thrill of Possibility
 2 Thrill of Possibility
-1 Elite Spellbinder
-1 Dream Trawler
-1 Shatter the Sky
-2 Elite Spellbinder
+1 Sorcerous Spyglass
 1 Agonizing Remorse
 1 Soul Shatter
 1 Revenge of Ravens
-1 Sorcerous Spyglass
 2 Agonizing Remorse
 2 Alrund's Epiphany
+1 Environmental Sciences
+1 Spirit Summoning
+1 Introduction to Annihilation
+1 Mercurial Transformation
+1 Introduction to Prophecy
+1 Start from Scratch
+1 Mystic Subdual
+2 Mystic Subdual
 1 Ominous Seas
 1 Jace, Mirror Mage
 2 Narfi, Betrayer King
-2 Shadowspear
-2 Mazemind Tome
-1 Bloodchief's Thirst
-1 Lovestruck Beast
+1 Shredded Sails
+2 Shredded Sails
+3 Shredded Sails
+3 Fire Prophecy
 1 Skyclave Shade
+1 Lovestruck Beast
 1 Vorinclex, Monstrous Raider
+1 Bloodchief's Thirst
 1 Klothys, God of Destiny
+2 Skyclave Shade
 2 Lovestruck Beast
 2 Vorinclex, Monstrous Raider
-2 Skyclave Shade
 3 Lovestruck Beast
 1 Glass Casket
+2 Soul-Guide Lantern
 2 Glass Casket
 3 Glass Casket
 3 Soul Sear
-3 Fire Prophecy
+3 Test of Talents
 1 Neutralize
 1 Tormod's Crypt
 1 Cancel
@@ -142,7 +140,6 @@
 3 Frost Bite
 2 Rowan, Scholar of Sparks
 3 Rowan, Scholar of Sparks
-3 Essence Scatter
 1 Blitz of the Thunder-Raptor
 1 Bubble Snare
 2 Bubble Snare
@@ -154,17 +151,24 @@
 2 Thassa's Intervention
 3 The Akroan War
 3 Thassa's Intervention
+3 Disdainful Stroke
+4 Disdainful Stroke
+2 Scavenging Ooze
+4 Duress
 4 Scorching Dragonfire
 1 Hushbringer
 2 Hushbringer
 3 Rip Apart
 3 Hushbringer
 4 Rip Apart
-2 Scavenging Ooze
-4 Duress
+1 Archon of Absolution
+1 Expressive Iteration
+2 Archon of Absolution
+2 Expressive Iteration
+3 Archon of Absolution
+4 Archon of Absolution
 4 Ox of Agonas
 4 Improbable Alliance
-4 Serpentine Curve
 1 Concerted Defense
 1 Claim the Firstborn
 2 Claim the Firstborn
