@@ -1,10 +1,11 @@
 1 Mire's Grasp
 3 Angelic Gift
-1 Hateful Eidolon
 2 Rune of Sustenance
-2 Hateful Eidolon
 3 Isolated Chapel
 2 Claim/Fame
+1 Hateful Eidolon
+2 Hateful Eidolon
+2 Mire's Grasp
 1 Demonic Vigor
 2 Demonic Vigor
 5 Plains
@@ -12,12 +13,6 @@
 1 Selfless Savior
 2 Selfless Savior
 6 Plains
-1 Alseid of Life's Bounty
-2 Alseid of Life's Bounty
-3 Selfless Savior
-3 Alseid of Life's Bounty
-1 Karametra's Blessing
-2 Karametra's Blessing
 1 Curious Obsession
 1 Glacial Fortress
 1 Hallowed Fountain
@@ -32,14 +27,19 @@
 3 Glacial Fortress
 3 Hallowed Fountain
 4 Curious Obsession
-4 Hallowed Fountain
 4 Glacial Fortress
+4 Hallowed Fountain
+1 Alseid of Life's Bounty
 1 Hushbringer
 2 Hushbringer
+2 Alseid of Life's Bounty
+3 Selfless Savior
 3 Hushbringer
+3 Alseid of Life's Bounty
 1 Aether Tunnel
+1 Karametra's Blessing
+2 Karametra's Blessing
 3 Island
-2 Mire's Grasp
 1 Arcane Flight
 2 Arcane Flight
 3 Heliod's Punishment
@@ -65,7 +65,6 @@
 2 Hengegate Pathway
 3 Hengegate Pathway
 4 Hengegate Pathway
-4 All That Glitters
 1 Spell Pierce
 1 Cartouche of Knowledge
 2 Spell Pierce
@@ -84,10 +83,6 @@
 2 Cerulean Drake
 2 Adorned Pouncer
 4 Adanto Vanguard
-1 Glaring Aegis
-2 Glaring Aegis
-3 Karametra's Blessing
-4 Alseid of Life's Bounty
 3 Mire's Grasp
 4 Mogis's Favor
 4 Hateful Eidolon
@@ -95,15 +90,16 @@
 2 Slither Blade
 3 Slither Blade
 4 Slither Blade
+4 All That Glitters
 4 Hushbringer
 5 Island
 6 Island
-1 Temple of Silence
 1 Duress
-2 Temple of Silence
+1 Temple of Silence
 2 Duress
-3 Temple of Silence
+2 Temple of Silence
 3 Claim/Fame
+3 Temple of Silence
 3 Duress
 4 Temple of Silence
 5 Swamp

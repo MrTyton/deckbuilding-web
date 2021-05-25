@@ -1,5 +1,5 @@
+3 Green Sun's Zenith
 1 Wasteland
-1 Plague Engineer
 2 Wasteland
 2 Force of Negation
 2 Plague Engineer
@@ -9,26 +9,12 @@
 3 Wasteland
 3 Tropical Island
 2 Snow-Covered Island
-4 Green Sun's Zenith
 2 Cabal Therapy
 3 Cabal Therapy
-1 Unearth
-4 Cabal Therapy
-2 Unearth
-1 True-Name Nemesis
-1 Heliod, Sun-Crowned
-1 Sea Gate Stormcaller
-1 Spike Feeder
-1 Neoform
-2 True-Name Nemesis
-2 Birds of Paradise
-2 Sea Gate Stormcaller
-2 Neoform
-3 Sea Gate Stormcaller
-3 Neoform
-4 Sea Gate Stormcaller
+4 Green Sun's Zenith
 1 Jace, the Mind Sculptor
 1 Tarmogoyf
+1 Unearth
 1 Assassin's Trophy
 1 Daze
 2 Daze
@@ -37,43 +23,58 @@
 4 Baleful Strix
 1 Chain of Smog
 2 Chain of Smog
-1 Opposition Agent
 4 Verdant Catacombs
+4 Cabal Therapy
+1 True-Name Nemesis
+1 Sea Gate Stormcaller
+1 Neoform
+2 Sea Gate Stormcaller
+2 Neoform
+3 Sea Gate Stormcaller
+4 Sea Gate Stormcaller
 1 Witherbloom Apprentice
 2 Witherbloom Apprentice
 3 Witherbloom Apprentice
 4 Witherbloom Apprentice
+2 Unearth
+1 Heliod, Sun-Crowned
+1 Spike Feeder
+2 True-Name Nemesis
+2 Birds of Paradise
+3 Neoform
 1 Karakas
 1 Witherbloom Command
 2 Witherbloom Command
 3 Tarmogoyf
+2 Island
 2 Jace, the Mind Sculptor
 3 Thoughtseize
+1 Opposition Agent
 2 Sylvan Library
+2 Swamp
 1 Elvish Reclaimer
-2 Island
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
 3 Snapcaster Mage
 1 Brazen Borrower
 1 Drown in the Loch
-2 Swamp
 1 Cling to Dust
 1 Scalding Tarn
 2 Scalding Tarn
 1 Gurmag Angler
 2 Gurmag Angler
-1 Bloodstained Mire
 1 Badlands
-1 Lightning Bolt
 1 Kolaghan's Command
 1 Hymn to Tourach
+1 Lightning Bolt
 1 Volcanic Island
+1 Bloodstained Mire
 2 Kolaghan's Command
 2 Bloodstained Mire
-2 Lightning Bolt
 2 Hymn to Tourach
+2 Lightning Bolt
 3 Scalding Tarn
+1 Liliana, the Last Hope
 1 Waterlogged Grove
 2 Elvish Reclaimer
 1 Ramunap Excavator
@@ -87,27 +88,26 @@
 1 Sedgemoor Witch
 3 Fatal Push
 2 Snow-Covered Forest
-2 Volcanic Island
 3 Hymn to Tourach
+2 Volcanic Island
+1 Hullbreacher
 2 Leovold, Emissary of Trest
 3 Noble Hierarch
 1 Narset, Parter of Veils
-1 Liliana, the Last Hope
 1 Titania, Protector of Argoth
 4 Stifle
 4 Uro, Titan of Nature's Wrath
 1 Flusterstorm
-1 Sylvan Safekeeper
+3 Island
 1 Preordain
+1 Sylvan Safekeeper
 4 Thoughtseize
 1 Spellseeker
 1 Liliana's Triumph
 2 Badlands
 1 Questing Beast
-1 Hullbreacher
 2 Assassin's Trophy
 3 Witherbloom Command
-3 Island
 1 Mystic Sanctuary
 1 Prismatic Vista
 3 Kolaghan's Command
@@ -130,6 +130,7 @@
 4 Sedgemoor Witch
 4 Island
 1 Angrath's Rampage
+2 Forest
 3 Ice-Fang Coatl
 1 Teferi, Time Raveler
 1 Swords to Plowshares
@@ -143,7 +144,6 @@
 4 Noble Hierarch
 2 Brazen Borrower
 1 Nimble Obstructionist
-3 Birds of Paradise
 1 Abundant Harvest
 2 Abundant Harvest
 2 Liliana's Triumph
@@ -157,17 +157,17 @@
 1 Mountain
 3 Lightning Bolt
 1 Life from the Loam
-2 Forest
 3 Bloodstained Mire
 1 Spell Pierce
 2 Snow-Covered Swamp
-1 Court of Cunning
+1 Vraska, Golgari Queen
 1 Maralen of the Mornsong
+3 Birds of Paradise
 1 Mystic Reflection
 1 Nicol Bolas, Dragon-God
 1 Blood Moon
-1 Nissa of Shadowed Boughs
 1 Tireless Tracker
+1 Nissa of Shadowed Boughs
 1 Kroxa, Titan of Death's Hunger
 2 Kroxa, Titan of Death's Hunger
 2 Liliana, the Last Hope
@@ -185,10 +185,10 @@
 1 Bojuka Bog
 3 Elvish Reclaimer
 4 Elvish Reclaimer
-1 Ethereal Forager
 1 Vendilion Clique
 1 Go for the Throat
 1 Ashiok, Nightmare Muse
+1 Ethereal Forager
 1 Murderous Cut
 2 Spell Pierce
 2 Vendilion Clique

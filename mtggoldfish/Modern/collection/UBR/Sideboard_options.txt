@@ -12,9 +12,9 @@
 1 Weather the Storm
 1 Pithing Needle
 2 Pithing Needle
-2 Weather the Storm
 1 Spreading Seas
 1 Shadow of Doubt
+2 Weather the Storm
 2 Shadow of Doubt
 3 Drown in the Loch
 1 Veil of Summer
@@ -30,26 +30,26 @@
 2 Cleansing Wildfire
 3 Cleansing Wildfire
 4 Cleansing Wildfire
-2 Veil of Summer
 1 Mire Triton
 2 Mire Triton
 1 Kolaghan's Command
+2 Veil of Summer
 3 Mire Triton
-3 Aether Gust
 1 Surgical Extraction
 2 Soul-Guide Lantern
 3 Soul-Guide Lantern
 1 Valentin, Dean of the Vein
 2 Valentin, Dean of the Vein
-1 Flusterstorm
-2 Flusterstorm
 4 Mire Triton
 1 Kozilek's Return
 2 Kozilek's Return
+3 Aether Gust
 3 Engineered Explosives
 1 Gaea's Blessing
-1 Lightning Bolt
 1 Ashiok, Dream Render
+2 Bloodchief's Thirst
+2 Mystical Dispute
+1 Lightning Bolt
 1 Cling to Dust
 1 Unmoored Ego
 1 Negate
@@ -58,10 +58,10 @@
 1 Abrupt Decay
 1 Cryptic Command
 2 Unearth
+1 Flusterstorm
+2 Flusterstorm
 1 Necromentia
 2 Necromentia
-2 Bloodchief's Thirst
-2 Surgical Extraction
 1 Anger of the Gods
 1 Dragon's Claw
 2 Anger of the Gods
@@ -70,8 +70,10 @@
 1 Collective Brutality
 1 Disdainful Stroke
 2 Collective Brutality
-2 Mystical Dispute
 3 Kozilek's Return
+1 Vendilion Clique
+2 Ashiok, Dream Render
+3 Ceremonious Rejection
 1 Deglamer
 3 Go for the Throat
 1 Grim Lavamancer
