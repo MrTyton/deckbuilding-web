@@ -1,0 +1,38 @@
+# R
+
+#### [Export MTGO List](../collection/R/R.txt)
+#### [Print on decklist.org](http://decklist.org/?deckmain=3%09Chandra's%20Incinerator%0A4%09Eidolon%20of%20the%20Great%20Revel%0A4%09Goblin%20Guide%0A4%09Lava%20Spike%0A4%09Lightning%20Bolt%0A4%09Monastery%20Swiftspear%0A20%09Mountain%0A4%09Rift%20Bolt%0A4%09Seal%20of%20Fire%0A2%09Searing%20Blaze%0A3%09Shard%20Volley%0A4%09Skewer%20the%20Critics&deckside=2%09Grim%20Lavamancer%0A2%09Searing%20Blaze%0A4%09Shrine%20of%20Burning%20Rage%0A1%09Skullcrack%0A3%09Smash%20to%20Smithereens%0A3%09Soul-Guide%20Lantern)
+# Maindeck
+
+|                                             Creature (15)                                             |                                     Enchantment (4)                                     |                                       Instant (9)                                        |                                      Land (20)                                       |                                         Sorcery (12)                                          |
+|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+|3 [Chandra's Incinerator](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485459)     |4 [Seal of Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=185817)|4 [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=806)  |20 [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)|4 [Lava Spike](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=79084)         |
+|4 [Eidolon of the Great Revel](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442117)|                                                                                         |2 [Searing Blaze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270873)|                                                                                      |4 [Rift Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426589)         |
+|4 [Goblin Guide](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=425921)              |                                                                                         |3 [Shard Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152837) |                                                                                      |4 [Skewer the Critics](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=457259)|
+|4 [Monastery Swiftspear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=438706)      |                                                                                         |                                                                                          |                                                                                      |                                                                                               |
+
+
+# Sideboard
+
+|                                           Artifact (7)                                            |                                        Creature (2)                                        |                                           Instant (6)                                           |
+|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+|4 [Shrine of Burning Rage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=218018)|2 [Grim Lavamancer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430589)|2 [Searing Blaze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270873)       |
+|3 [Soul-Guide Lantern](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476488)    |                                                                                            |1 [Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)          |
+|                                                                                                   |                                                                                            |3 [Smash to Smithereens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397795)|
+
+
+# Other Options
+
+|*n*<sup>th</sup> copy|                                       Maindeck Card                                        |*n*<sup>th</sup> copy|                                      Sideboard Card                                       |
+|--------------------:|--------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------|
+|                    3|[Searing Blaze](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270873)    |                    2|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)      |
+|                    1|[Scalding Tarn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405107)    |                    1|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)       |
+|                    1|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)       |                    2|[Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=45386)       |
+|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116) |                    3|[Skullcrack](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366238)      |
+|                    1|[Bloodstained Mire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405094)|                    1|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796)|
+|                    1|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)    |                    1|[Roiling Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491797)  |
+|                    2|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)    |                    2|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796)|
+|                    3|[Ramunap Ruins](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=430870)    |                    3|[Roiling Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491797)  |
+|                     |                                                                                            |                    3|[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=442796)|
+|                     |                                                                                            |                    2|[Roiling Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491797)  |
+
