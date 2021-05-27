@@ -76,13 +76,14 @@
 1 Sanctum of Calm Waters
 1 Prophetic Prism
 1 Needleverge Pathway
+1 Thirst for Meaning
 1 Elder Gargaroth
 1 Terror of the Peaks
 1 Sanctum of All
 1 Mastermind's Acquisition
-1 Genesis Ultimatum
 1 Mirari's Wake
 1 Assassin's Trophy
+1 Genesis Ultimatum
 1 Wrath of God
 1 Ulvenwald Hydra
 1 Massacre Wurm
@@ -98,7 +99,6 @@
 1 Dryad of the Ilysian Grove
 1 Renegade Map
 1 Cragcrown Pathway
-1 Thirst for Meaning
 1 God-Eternal Rhonas
 1 Smothering Tithe
 1 Honden of Cleansing Fire
@@ -115,12 +115,13 @@
 2 Branchloft Pathway
 2 Omen of the Forge
 2 Finale of Devastation
-2 Godless Shrine
 2 Solemn Simulacrum
+2 Godless Shrine
 2 Fae of Wishes
 2 Elspeth Conquers Death
 2 Yorion, Sky Nomad
 2 The Birth of Meletis
+2 Thirst for Meaning
 2 Prophetic Prism
 2 Evolving Wilds
 2 Sacred Foundry
@@ -133,7 +134,6 @@
 2 Smothering Tithe
 2 Cultivate
 2 Mastermind's Acquisition
-2 Thirst for Meaning
 2 Sanctum of Fruitful Harvest
 2 Archon of Sun's Grace
 2 Steam Vents
@@ -151,7 +151,6 @@
 2 Riverglide Pathway
 2 Cragcrown Pathway
 2 Dryad of the Ilysian Grove
-3 Treacherous Blessing
 3 Branchloft Pathway
 3 Savai Triome
 3 Evolving Wilds
@@ -160,6 +159,7 @@
 3 Hallowed Fountain
 3 Prophetic Prism
 3 Mountain
+3 Thirst for Meaning
 3 Swamp
 3 Sacred Foundry
 3 Watery Grave
@@ -180,8 +180,8 @@
 3 Island
 3 Mastermind's Acquisition
 3 Sanctum of Fruitful Harvest
-3 Thirst for Meaning
 3 Steam Vents
+3 Treacherous Blessing
 3 Sanctum of All
 4 Overgrown Tomb
 4 Temple Garden
@@ -192,6 +192,7 @@
 4 Hallowed Fountain
 4 Plains
 4 Evolving Wilds
+4 Thirst for Meaning
 4 Treacherous Blessing
 4 Sacred Foundry
 4 Watery Grave
@@ -204,7 +205,6 @@
 4 Island
 4 Dryad of the Ilysian Grove
 4 Steam Vents
-4 Thirst for Meaning
 5 Plains
 5 Forest
 5 Island
@@ -266,11 +266,11 @@
 2 Mobilized District
 1 Mazemind Tome
 2 Mazemind Tome
+1 Labyrinth of Skophos
 1 Witch's Oven
 1 Aetherflux Reservoir
 1 Metalwork Colossus
 1 Paradox Engine
-1 Labyrinth of Skophos
 2 Paradox Engine
 2 Metalwork Colossus
 1 Aether Hub
@@ -286,15 +286,15 @@
 4 Karn, Scion of Urza
 4 Forsaken Monument
 1 Runed Halo
-2 Runed Halo
 2 Honden of Cleansing Fire
 2 Honden of Night's Reach
+2 Runed Halo
 2 Sanctum of Calm Waters
-3 Archon of Sun's Grace
 3 Yorion, Sky Nomad
 3 Solemn Simulacrum
 3 The Birth of Meletis
 3 Omen of the Hunt
+3 Archon of Sun's Grace
 4 Mirari's Wake
 1 Shalai, Voice of Plenty
 1 Luminous Broodmoth
@@ -406,8 +406,8 @@
 1 Open the Gates
 2 Abundant Harvest
 2 Valki, God of Lies
-2 Root Snare
 2 Felidar Retreat
+2 Root Snare
 2 Alrund's Epiphany
 2 Open the Gates
 3 Abundant Harvest
@@ -502,6 +502,6 @@
 1 Hierophant's Chalice
 2 Hierophant's Chalice
 3 Hierophant's Chalice
-4 Crawling Barrens
 4 Hierophant's Chalice
+4 Crawling Barrens
 4 Metalwork Colossus
