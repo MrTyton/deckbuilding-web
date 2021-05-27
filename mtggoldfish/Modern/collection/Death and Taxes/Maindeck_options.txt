@@ -1,39 +1,39 @@
+4 Razorverge Thicket
+4 Branchloft Pathway
+1 Brushland
+1 Temple Garden
 2 Brushland
 2 Temple Garden
 3 Temple Garden
 4 Temple Garden
-7 Snow-Covered Plains
-8 Snow-Covered Plains
-9 Snow-Covered Plains
-10 Snow-Covered Plains
-4 Noble Hierarch
+1 Silent Clearing
+4 Plains
+5 Plains
 11 Snow-Covered Plains
 12 Snow-Covered Plains
 13 Snow-Covered Plains
-4 Plains
-5 Plains
-1 Silent Clearing
-1 Castle Ardenvale
+2 Silent Clearing
 6 Plains
-2 Forest
+1 Castle Ardenvale
+4 Noble Hierarch
 1 Restoration Angel
 2 Restoration Angel
-2 Silent Clearing
 7 Plains
 8 Plains
-1 Oath of Nissa
-2 Oath of Nissa
-3 Oath of Nissa
-4 Oath of Nissa
 14 Snow-Covered Plains
 1 Stirring Wildwood
+2 Forest
 2 Stirring Wildwood
+1 Eiganjo Castle
 9 Plains
 15 Snow-Covered Plains
 16 Snow-Covered Plains
 1 On Thin Ice
 2 On Thin Ice
-1 Eiganjo Castle
+1 Oath of Nissa
+2 Oath of Nissa
+3 Oath of Nissa
+4 Oath of Nissa
 17 Snow-Covered Plains
 18 Snow-Covered Plains
 1 Linvala, Keeper of Silence
@@ -41,13 +41,15 @@
 1 Winds of Abandon
 2 Castle Ardenvale
 10 Plains
-3 Brushland
-4 Brushland
 1 Charming Prince
 2 Winds of Abandon
 3 On Thin Ice
 1 Spellskite
 2 Spellskite
+3 Brushland
+4 Brushland
+3 Silent Clearing
+4 Silent Clearing
 2 Charming Prince
 3 Charming Prince
 19 Snow-Covered Plains
@@ -58,8 +60,6 @@
 1 Phyrexian Revoker
 2 Phyrexian Revoker
 3 Phyrexian Revoker
-3 Silent Clearing
-4 Silent Clearing
 3 Restoration Angel
 3 Winds of Abandon
 11 Plains
@@ -72,6 +72,7 @@
 2 Auriok Champion
 3 Auriok Champion
 4 On Thin Ice
+1 Flagstones of Trokair
 1 Aven Mindcensor
 1 Inspiring Vantage
 2 Inspiring Vantage
@@ -82,12 +83,10 @@
 4 Sunbaked Canyon
 1 Skyclave Cleric
 2 Skyclave Cleric
-1 Gaddock Teeg
-2 Gaddock Teeg
-3 Spellskite
 1 Wall of Omens
 2 Wall of Omens
 3 Wall of Omens
+3 Spellskite
 4 Auriok Champion
 1 Hexdrinker
 2 Hexdrinker
@@ -96,7 +95,6 @@
 17 Plains
 18 Plains
 20 Snow-Covered Plains
-1 Flagstones of Trokair
 1 Embercleave
 1 Needleverge Pathway
 1 Shefet Dunes
@@ -105,16 +103,16 @@
 2 Shefet Dunes
 1 Selfless Savior
 2 Selfless Savior
-1 Collected Company
-1 Gavony Township
-1 Scavenging Ooze
-2 Collected Company
-2 Scavenging Ooze
-3 Collected Company
 1 Venerable Warsinger
 1 Mountain
 2 Venerable Warsinger
 3 Venerable Warsinger
+1 Gavony Township
+1 Collected Company
+1 Scavenging Ooze
+2 Scavenging Ooze
+2 Collected Company
+3 Collected Company
 1 Vryn Wingmare
 2 Vryn Wingmare
 3 Vryn Wingmare

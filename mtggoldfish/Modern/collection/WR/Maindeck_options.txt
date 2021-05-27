@@ -1,12 +1,14 @@
+4 Leonin Lightscribe
 3 Inspiring Vantage
-4 Bloodstained Mire
-4 Inspiring Vantage
-4 Sunbaked Canyon
 1 Crash Through
 2 Crash Through
-3 Mountain
+4 Inspiring Vantage
+4 Sunbaked Canyon
 1 Kiln Fiend
 2 Kiln Fiend
+3 Crash Through
+1 Blood Crypt
+3 Mountain
 4 Sacred Foundry
 1 Pillage
 1 Cascading Cataracts
@@ -53,31 +55,27 @@
 1 Karn, the Great Creator
 2 Karn, the Great Creator
 3 Karn, the Great Creator
-3 Crash Through
 3 Kiln Fiend
-1 Blood Crypt
 4 Arid Mesa
 1 Seasoned Pyromancer
 2 Seasoned Pyromancer
 3 Seasoned Pyromancer
-4 Flusterstorm
-1 Emerge Unscathed
-2 Emerge Unscathed
-3 Assault Strobe
 1 Tainted Strike
 2 Tainted Strike
 3 Tainted Strike
+3 Assault Strobe
+4 Flusterstorm
+1 Emerge Unscathed
+2 Emerge Unscathed
 1 Silent Clearing
-1 Light Up the Stage
-2 Light Up the Stage
-3 Light Up the Stage
 2 Blood Crypt
 2 Plains
 2 Chandra, Torch of Defiance
 1 Snow-Covered Mountain
-1 Darksteel Citadel
+1 Noxious Revival
 1 Lightning Helix
 1 Needle Spires
+1 Darksteel Citadel
 2 Lightning Helix
 1 Oust
 2 Oust
@@ -86,6 +84,9 @@
 2 Snow-Covered Mountain
 1 Trinisphere
 2 Trinisphere
+1 Light Up the Stage
+2 Light Up the Stage
+3 Light Up the Stage
 1 Horizon Canopy
 1 Anger of the Gods
 1 Blood Moon
@@ -95,16 +96,17 @@
 1 Ajani Vengeant
 1 Flooded Strand
 1 Clifftop Retreat
-2 Darksteel Citadel
 2 Anger of the Gods
 2 Blood Moon
-2 Ajani Vengeant
 2 Talisman of Conviction
 2 Chandra, Acolyte of Flame
+2 Ajani Vengeant
+2 Darksteel Citadel
 3 Blood Moon
 3 Chandra, Torch of Defiance
 3 Chandra, Acolyte of Flame
 3 Ajani Vengeant
+4 Kiln Fiend
 1 Mazemind Tome
 1 Lingering Souls
 1 Day of Judgment
@@ -116,6 +118,13 @@
 3 Lightning Helix
 4 Lightning Helix
 4 Seasoned Pyromancer
+1 Blackcleave Cliffs
+1 Death's Shadow
+1 Temur Battle Rage
+2 Death's Shadow
+2 Temur Battle Rage
+3 Death's Shadow
+4 Death's Shadow
 1 Mishra's Bauble
 1 Giver of Runes
 2 Mishra's Bauble
@@ -124,14 +133,25 @@
 3 Mishra's Bauble
 4 Giver of Runes
 4 Mishra's Bauble
-1 Noxious Revival
-1 Blackcleave Cliffs
-1 Death's Shadow
-1 Temur Battle Rage
-2 Death's Shadow
-2 Temur Battle Rage
-3 Death's Shadow
-4 Death's Shadow
+1 Slaughter Pact
+1 Akoum Hellhound
+1 Marsh Flats
+2 Noxious Revival
+2 Marsh Flats
+2 Akoum Hellhound
+2 Slaughter Pact
+3 Marsh Flats
+3 Noxious Revival
+3 Slaughter Pact
+3 Akoum Hellhound
+4 Crash Through
+4 Marsh Flats
+4 Akoum Hellhound
+4 Tainted Strike
+4 Slaughter Pact
+4 Assault Strobe
+4 Noxious Revival
+4 Wooded Foothills
 1 Ghostly Prison
 1 Suppression Field
 1 Battlefield Forge
@@ -144,17 +164,11 @@
 2 Magus of the Tabernacle
 2 Valakut Awakening
 2 Molten Rain
-2 Suppression Field
 2 Ghostly Prison
-3 Molten Rain
+2 Suppression Field
 3 Ghostly Prison
+3 Molten Rain
 3 Oust
 3 Suppression Field
 4 Stone Rain
 4 Molten Rain
-4 Kiln Fiend
-1 Scalding Tarn
-1 Soul-Scar Mage
-2 Soul-Scar Mage
-3 Soul-Scar Mage
-4 Soul-Scar Mage

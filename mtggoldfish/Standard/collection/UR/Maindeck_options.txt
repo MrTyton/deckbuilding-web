@@ -1,65 +1,62 @@
-2 Mountain
-1 Bonecrusher Giant
-3 Mountain
-2 Bonecrusher Giant
 1 Opt
 2 Opt
 3 Opt
-3 Bonecrusher Giant
+2 Prismari Command
+3 Mountain
 4 Mountain
+1 Temple of Epiphany
 1 Shock
 2 Shock
-3 Island
 3 Shock
-1 Temple of Epiphany
-4 Bonecrusher Giant
+4 Opt
+1 Bonecrusher Giant
+3 Island
+2 Bonecrusher Giant
 5 Mountain
+4 Island
+4 Shock
+2 Temple of Epiphany
+5 Island
+3 Temple of Epiphany
+4 Temple of Epiphany
+1 Crash Through
+2 Crash Through
+3 Crash Through
+6 Island
+3 Bonecrusher Giant
+4 Crash Through
 1 Sprite Dragon
 2 Sprite Dragon
 3 Sprite Dragon
 4 Sprite Dragon
-4 Opt
-4 Island
 1 Brazen Borrower
 1 Stormwing Entity
 2 Stormwing Entity
 3 Stormwing Entity
 4 Stormwing Entity
-4 Shock
+4 Bonecrusher Giant
 2 Brazen Borrower
-5 Island
 3 Brazen Borrower
-1 Crash Through
-6 Island
-2 Crash Through
-3 Crash Through
-2 Temple of Epiphany
-4 Brazen Borrower
-3 Temple of Epiphany
-4 Temple of Epiphany
-4 Crash Through
+3 Prismari Command
 7 Island
-1 Riddleform
-2 Riddleform
-3 Riddleform
-4 Riddleform
-1 Prismari Command
+1 Silundi Vision
+2 Silundi Vision
+4 Prismari Command
 1 Fire Prophecy
 2 Fire Prophecy
-2 Prismari Command
 1 Goldspan Dragon
 2 Goldspan Dragon
 3 Goldspan Dragon
-3 Prismari Command
+1 Unsubstantiate
+2 Unsubstantiate
+3 Unsubstantiate
 4 Goldspan Dragon
 1 Raugrin Triome
 2 Raugrin Triome
-4 Prismari Command
-1 Fabled Passage
+4 Unsubstantiate
 1 Needleverge Pathway
 1 Hengegate Pathway
 2 Hengegate Pathway
-2 Fabled Passage
 2 Needleverge Pathway
 3 Needleverge Pathway
 3 Hengegate Pathway
@@ -67,205 +64,155 @@
 4 Hengegate Pathway
 1 Vadrok, Apex of Thunder
 1 Lore Drakkis
-1 Unsubstantiate
 2 Lore Drakkis
-2 Unsubstantiate
 2 Vadrok, Apex of Thunder
 3 Lore Drakkis
 3 Vadrok, Apex of Thunder
-3 Unsubstantiate
 4 Vadrok, Apex of Thunder
-4 Unsubstantiate
+4 Brazen Borrower
+1 Fabled Passage
+1 Riddleform
+2 Riddleform
+3 Riddleform
+4 Riddleform
+2 Fabled Passage
 4 Lore Drakkis
+3 Raugrin Triome
 1 Showdown of the Skalds
 1 Ox of Agonas
-3 Raugrin Triome
-1 Phoenix of Ash
+1 Thrill of Possibility
 1 See the Truth
-1 Defiant Strike
-1 Shatterskull Smashing
 2 See the Truth
 3 See the Truth
 4 See the Truth
+1 Defiant Strike
+2 Thrill of Possibility
 1 Plains
-6 Mountain
 1 Mystical Dispute
 2 Defiant Strike
-1 Cinderclasm
-1 Thrill of Possibility
-2 Shatterskull Smashing
+3 Thrill of Possibility
+6 Mountain
+1 Phoenix of Ash
+1 Shatterskull Smashing
 3 Fire Prophecy
-3 Fabled Passage
+1 Cinderclasm
+2 Shatterskull Smashing
 4 Fire Prophecy
-2 Thrill of Possibility
-1 Frostboil Snarl
-1 Ugin, the Spirit Dragon
-2 Ugin, the Spirit Dragon
-1 Jwari Disruption
-1 Sejiri Shelter
-2 Sejiri Shelter
 7 Mountain
-2 Frostboil Snarl
-2 Jwari Disruption
+1 Jwari Disruption
+1 Ugin, the Spirit Dragon
 1 Crawling Barrens
-1 Field of Ruin
-1 Draconic Intervention
 1 Irencrag Feat
-2 Draconic Intervention
+2 Ugin, the Spirit Dragon
 2 Irencrag Feat
 3 Ugin, the Spirit Dragon
-2 Phoenix of Ash
-3 Thrill of Possibility
-2 Ox of Agonas
+1 Draconic Intervention
+1 Field of Ruin
+2 Draconic Intervention
+2 Jwari Disruption
 3 Irencrag Feat
-4 Ugin, the Spirit Dragon
 4 Irencrag Feat
+4 Ugin, the Spirit Dragon
+2 Ox of Agonas
 1 Magma Opus
 2 Magma Opus
-1 Scorching Dragonfire
-1 Search for Glory
-1 Birgi, God of Storytelling
+1 Frostboil Snarl
+3 Defiant Strike
+3 Fabled Passage
+1 Sejiri Shelter
+2 Sejiri Shelter
 3 Ox of Agonas
-8 Mountain
-1 Castle Vantress
-3 Frostboil Snarl
-4 Raugrin Triome
-2 Search for Glory
-4 Ox of Agonas
-7 Snow-Covered Mountain
+2 Frostboil Snarl
+1 Search for Glory
 3 Magma Opus
+2 Phoenix of Ash
+4 Thrill of Possibility
+2 Showdown of the Skalds
+4 Raugrin Triome
+1 Castle Vantress
+4 Ox of Agonas
+1 Scorching Dragonfire
+1 Birgi, God of Storytelling
+2 Search for Glory
+7 Snow-Covered Mountain
 2 Field of Ruin
+8 Mountain
+3 Frostboil Snarl
+4 Magma Opus
+7 Snow-Covered Island
+8 Island
 4 Frostboil Snarl
 1 Saw It Coming
-2 Birgi, God of Storytelling
 2 Castle Vantress
-4 Magma Opus
-1 Skyclave Cleric
+2 Birgi, God of Storytelling
 1 Rowan, Scholar of Sparks
+1 Skyclave Cleric
 2 Scorching Dragonfire
-7 Snow-Covered Island
-1 Genesis Ultimatum
-1 Ketria Triome
-1 Cragcrown Pathway
-1 Barkchannel Pathway
-2 Cragcrown Pathway
-2 Barkchannel Pathway
-2 Genesis Ultimatum
-2 Ketria Triome
-3 Barkchannel Pathway
-3 Genesis Ultimatum
-3 Cragcrown Pathway
-3 Ketria Triome
-4 Genesis Ultimatum
-4 Fabled Passage
-1 Forest
-2 Forest
-1 Beanstalk Giant
-2 Beanstalk Giant
-3 Beanstalk Giant
-4 Ketria Triome
-4 Cragcrown Pathway
-8 Island
 1 Into the Roil
-3 Defiant Strike
-2 Showdown of the Skalds
 1 Miscast
-1 Galazeth Prismari
-2 Galazeth Prismari
-1 Lotus Cobra
-2 Lotus Cobra
-3 Lotus Cobra
-4 Lotus Cobra
-1 Koma, Cosmos Serpent
-4 Barkchannel Pathway
-1 Infuriate
+1 Snow-Covered Plains
+1 Open the Omenpaths
+1 Pollywog Symbiote
+2 Pollywog Symbiote
+3 Pollywog Symbiote
+3 Shatterskull Smashing
+2 Crawling Barrens
 2 Saw It Coming
 3 Saw It Coming
-1 Quandrix Cultivator
-2 Quandrix Cultivator
-4 Beanstalk Giant
-1 Cultivate
-1 Terror of the Peaks
-2 Cultivate
-2 Terror of the Peaks
-3 Cultivate
+1 Infuriate
 9 Island
 10 Island
+2 Mystical Dispute
 1 Volatile Fjord
 2 Volatile Fjord
+1 Prismari Campus
+2 Prismari Campus
 1 Solemn Simulacrum
 1 Mazemind Tome
 2 Solemn Simulacrum
 2 Mazemind Tome
-2 Crawling Barrens
 3 Solemn Simulacrum
-1 Snow-Covered Plains
-1 Alrund's Epiphany
-1 Kazandu Mammoth
-2 Kazandu Mammoth
-2 Alrund's Epiphany
-3 Alrund's Epiphany
-3 Kazandu Mammoth
-4 Alrund's Epiphany
-3 Shatterskull Smashing
 2 Infuriate
 3 Infuriate
-1 Gilded Goose
-2 Gilded Goose
-3 Gilded Goose
-4 Cultivate
-4 Gilded Goose
 9 Mountain
 10 Mountain
-1 Disdainful Stroke
-3 Terror of the Peaks
-4 Terror of the Peaks
+1 Storm's Wrath
+2 Storm's Wrath
 2 Miscast
-2 Mystical Dispute
-1 Wicked Wolf
-1 Trail of Crumbs
-2 Disdainful Stroke
-2 Trail of Crumbs
-2 Wicked Wolf
-3 Wicked Wolf
+1 Cubwarden
+2 Cubwarden
+1 Galazeth Prismari
+2 Galazeth Prismari
 3 Jwari Disruption
 3 Galazeth Prismari
 3 Volatile Fjord
-1 Cubwarden
-1 Open the Omenpaths
-1 Pollywog Symbiote
-2 Pollywog Symbiote
-2 Cubwarden
-3 Pollywog Symbiote
-1 Vorinclex, Monstrous Raider
-1 The Great Henge
-1 Double Vision
-2 Double Vision
-4 Kazandu Mammoth
 1 Purphoros's Intervention
 2 Purphoros's Intervention
 3 Purphoros's Intervention
 1 Sea Gate Restoration
-1 Storm's Wrath
 1 Practical Research
-2 Storm's Wrath
 2 Practical Research
 4 Saw It Coming
-1 Prismari Campus
-2 Prismari Campus
 1 Test of Talents
+1 Sea-Dasher Octopus
+2 Sea-Dasher Octopus
+2 Open the Omenpaths
+3 Sea-Dasher Octopus
+4 Pollywog Symbiote
 1 Stern Dismissal
-3 Forest
+8 Snow-Covered Island
+4 Infuriate
 1 The Royal Scions
 2 The Royal Scions
-4 Infuriate
+4 Shatterskull Smashing
+8 Snow-Covered Mountain
+4 Fabled Passage
 1 Temple of Triumph
 1 Temple of Enlightenment
+1 Crush the Weak
 1 Lofty Denial
 2 Lofty Denial
-1 Shark Typhoon
-1 Elder Gargaroth
-2 Shark Typhoon
+1 Disdainful Stroke
 1 Embercleave
 1 Roil Eruption
 2 Plains
@@ -273,14 +220,9 @@
 2 Embercleave
 2 Roil Eruption
 3 Showdown of the Skalds
-1 Valakut Awakening
-1 Surtland Frostpyre
-1 Furycalm Snarl
-2 Temple of Triumph
-2 Temple of Enlightenment
-2 Furycalm Snarl
-3 Temple of Enlightenment
-3 Temple of Triumph
+1 Serpentine Curve
+2 Serpentine Curve
+3 Serpentine Curve
 3 Draconic Intervention
 1 Unleash Fury
 2 Unleash Fury
@@ -289,9 +231,16 @@
 1 Academic Dispute
 2 Academic Dispute
 3 Academic Dispute
-4 Shatterskull Smashing
-1 Frantic Inventory
+1 Valakut Awakening
+1 Surtland Frostpyre
+1 Furycalm Snarl
+2 Temple of Enlightenment
+2 Furycalm Snarl
+2 Temple of Triumph
+3 Temple of Enlightenment
+3 Temple of Triumph
 1 Blazing Volley
+1 Frantic Inventory
 1 Claim the Firstborn
 1 Raking Claws
 2 Frantic Inventory
@@ -299,34 +248,7 @@
 2 Raking Claws
 3 Frantic Inventory
 4 Frantic Inventory
-2 Koma, Cosmos Serpent
-4 Forest
-4 Thrill of Possibility
-1 Snow-Covered Forest
-1 Eureka Moment
-1 Augmenter Pugilist
-1 Wolfwillow Haven
-2 Snow-Covered Forest
-2 Eureka Moment
-2 Wolfwillow Haven
-2 Augmenter Pugilist
-3 Snow-Covered Forest
-3 Wolfwillow Haven
-3 Augmenter Pugilist
-4 Snow-Covered Forest
-4 Augmenter Pugilist
-1 Robber of the Rich
-1 Of One Mind
-1 Fervent Champion
-2 Robber of the Rich
-2 Fervent Champion
-2 Of One Mind
-3 Robber of the Rich
-3 Of One Mind
-3 Fervent Champion
-4 Robber of the Rich
-4 Of One Mind
-4 Fervent Champion
+4 Sea-Dasher Octopus
 1 Improbable Alliance
 1 Swiftwater Cliffs
 1 Gust of Wind
@@ -345,6 +267,25 @@
 4 Improbable Alliance
 4 Swiftwater Cliffs
 4 Faerie Vandal
+1 Robber of the Rich
+1 Of One Mind
+1 Fervent Champion
+2 Robber of the Rich
+2 Fervent Champion
+2 Of One Mind
+3 Robber of the Rich
+3 Of One Mind
+3 Fervent Champion
+4 Robber of the Rich
+4 Of One Mind
+4 Fervent Champion
+1 Curate
+2 Curate
+3 Curate
+4 Curate
+1 Barrin, Tolarian Archmage
+3 Open the Omenpaths
+4 Open the Omenpaths
 4 Purphoros's Intervention
 1 Clever Lumimancer
 2 Stern Dismissal
@@ -355,13 +296,22 @@
 1 Escape Velocity
 1 Heartfire Immolator
 1 Rimrock Knight
-2 Heartfire Immolator
 2 Escape Velocity
+2 Heartfire Immolator
 2 Rimrock Knight
 3 Rimrock Knight
 3 Heartfire Immolator
 4 Rimrock Knight
 4 Heartfire Immolator
-1 Crush the Weak
-8 Snow-Covered Island
-8 Snow-Covered Mountain
+1 Crackle with Power
+2 Crackle with Power
+3 Crawling Barrens
+3 Crackle with Power
+3 Storm's Wrath
+9 Snow-Covered Mountain
+10 Snow-Covered Mountain
+11 Snow-Covered Mountain
+12 Snow-Covered Mountain
+13 Snow-Covered Mountain
+14 Snow-Covered Mountain
+15 Snow-Covered Mountain

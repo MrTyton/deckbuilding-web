@@ -1,17 +1,17 @@
-2 Opt
-3 Mana Leak
-2 Reflecting Pool
+4 Snow-Covered Island
+3 Drown in the Loch
 1 Unearth
-1 Island
-2 Watery Grave
+2 Reflecting Pool
 1 Swamp
-4 Drown in the Loch
 1 Thought Scour
 2 Thought Scour
 3 Thought Scour
 4 Thought Scour
-2 Island
+1 Island
 1 Scalding Tarn
+2 Watery Grave
+4 Drown in the Loch
+2 Island
 3 Island
 1 Lightning Bolt
 1 Blood Crypt
@@ -21,53 +21,53 @@
 3 Scalding Tarn
 2 Steam Vents
 4 Scalding Tarn
-4 Island
 3 Lightning Bolt
+1 Inquisition of Kozilek
+2 Inquisition of Kozilek
+3 Inquisition of Kozilek
 1 Kolaghan's Command
-1 Into the Story
 1 Sprite Dragon
 2 Sprite Dragon
 3 Sprite Dragon
 4 Sprite Dragon
-1 Inquisition of Kozilek
-2 Inquisition of Kozilek
-3 Inquisition of Kozilek
+4 Island
+1 Into the Story
 1 Mountain
 1 Snow-Covered Forest
-4 Snapcaster Mage
-1 Tarmogoyf
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
+3 Ice-Fang Coatl
+1 Tarmogoyf
 2 Tarmogoyf
 3 Tarmogoyf
-3 Ice-Fang Coatl
-2 Cling to Dust
-1 Assassin's Trophy
 4 Ice-Fang Coatl
+1 Assassin's Trophy
+4 Snapcaster Mage
+4 Tarmogoyf
 1 Thoughtseize
 2 Thoughtseize
-1 Cascade Bluffs
-4 Tarmogoyf
 1 Overgrown Tomb
+2 Cling to Dust
+1 Cascade Bluffs
+1 Prismatic Vista
 2 Verdant Catacombs
 1 Blooming Marsh
-2 Unearth
 2 Snow-Covered Forest
+2 Unearth
 3 Verdant Catacombs
-1 Prismatic Vista
 2 Snow-Covered Swamp
 1 Village Rites
 1 Nurturing Peatland
 1 Nissa, Steward of Elements
 2 Village Rites
-1 Bloodstained Mire
-1 Sulfur Falls
-2 Swamp
 1 Noble Hierarch
 2 Noble Hierarch
 3 Noble Hierarch
-1 Creeping Tar Pit
+1 Bloodstained Mire
+1 Sulfur Falls
+2 Swamp
 1 Jace, Vryn's Prodigy
+1 Creeping Tar Pit
 2 Kolaghan's Command
 1 Dreadbore
 1 Serum Visions
@@ -75,80 +75,82 @@
 2 Jace, Vryn's Prodigy
 2 Creeping Tar Pit
 3 Kolaghan's Command
-1 Darkslick Shores
 2 Logic Knot
 2 Serum Visions
 3 Serum Visions
 4 Cryptic Command
 4 Inquisition of Kozilek
-2 Darkslick Shores
+1 Darkslick Shores
 1 Kroxa, Titan of Death's Hunger
 1 Expressive Iteration
 1 Blackcleave Cliffs
 2 Expressive Iteration
 2 Kroxa, Titan of Death's Hunger
 2 Bloodstained Mire
+2 Darkslick Shores
 2 Blackcleave Cliffs
 3 Expressive Iteration
-3 Blackcleave Cliffs
 3 Bloodstained Mire
+3 Blackcleave Cliffs
 4 Expressive Iteration
 4 Bloodstained Mire
 4 Lightning Bolt
-3 Darkslick Shores
 2 Sulfur Falls
 5 Island
 1 Hinterland Harbor
+3 Darkslick Shores
 1 Seal of Fire
 2 Seal of Fire
 3 Thoughtseize
-1 Castle Vantress
-2 Into the Story
 1 Go for the Throat
 2 Mountain
+1 Castle Vantress
 2 Hinterland Harbor
+2 Into the Story
+1 Ice Tunnel
 1 Flooded Strand
-2 Sunken Ruins
-4 Darkslick Shores
 1 Baleful Mastery
 1 River of Tears
-1 Ice Tunnel
 1 Scavenging Ooze
 1 Flooded Grove
 1 Snow-Covered Mountain
+2 Sunken Ruins
 1 Botanical Sanctum
 2 Assassin's Trophy
 1 Angrath's Rampage
 2 Angrath's Rampage
-3 Kroxa, Titan of Death's Hunger
 1 Dark Confidant
 2 Dark Confidant
 3 Dark Confidant
-1 Spell Snare
-1 Field of Ruin
-1 Eliminate
-1 Shark Typhoon
-1 Vendilion Clique
-1 Jace, the Mind Sculptor
-2 Field of Ruin
-2 Castle Vantress
-2 Shark Typhoon
-3 Field of Ruin
+1 Bloodchief's Thirst
+2 Prismatic Vista
+3 Prismatic Vista
 2 Blood Crypt
 3 Seal of Fire
 3 Swamp
 4 Blackcleave Cliffs
-1 Bitterblossom
-1 Thieves' Guild Enforcer
-1 Soaring Thought-Thief
+3 Kroxa, Titan of Death's Hunger
+4 Darkslick Shores
+1 Snow-Covered Plains
+1 Mystic Gate
+1 Spell Snare
+1 Path to Exile
+1 Hallowed Fountain
+1 Windswept Heath
+1 Glacial Floodplain
+1 On Thin Ice
+1 Prairie Stream
+1 Glittering Wish
+2 Snow-Covered Plains
+2 Path to Exile
 2 Flooded Strand
-2 Bitterblossom
-2 Soaring Thought-Thief
-2 Thieves' Guild Enforcer
+2 Mystic Gate
+2 On Thin Ice
+2 Breeding Pool
+2 Hallowed Fountain
+2 Glittering Wish
 3 Flooded Strand
-3 Bitterblossom
-3 Thieves' Guild Enforcer
-3 Soaring Thought-Thief
+3 On Thin Ice
+3 Glittering Wish
 4 Flooded Strand
-4 Soaring Thought-Thief
-4 Thieves' Guild Enforcer
+4 Glittering Wish
