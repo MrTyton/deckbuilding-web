@@ -1,8 +1,7 @@
-1 Goblin Chieftain
-5 Mountain
-3 Muxus, Goblin Grandee
+1 Krenko, Mob Boss
 1 Goblin Rabblemaster
 1 Warren Instigator
+1 Goblin Chieftain
 1 Ancient Tomb
 1 Chrome Mox
 1 City of Traitors
@@ -19,17 +18,18 @@
 3 Ancient Tomb
 3 Chrome Mox
 4 Goblin Rabblemaster
-4 Chrome Mox
 4 Goblin Chieftain
 4 Muxus, Goblin Grandee
+4 Chrome Mox
 4 Ancient Tomb
+5 Mountain
 6 Mountain
 7 Mountain
 8 Mountain
 9 Mountain
+1 Karakas
 4 Chalice of the Void
 1 Pyrokinesis
-1 Karakas
 3 Bloodstained Mire
 1 Stingscourger
 1 Scalding Tarn
@@ -37,28 +37,28 @@
 2 Snow-Covered Mountain
 1 Blood Moon
 2 Warren Instigator
-2 Arid Mesa
-4 Bloodstained Mire
-1 Kiki-Jiki, Mirror Breaker
-2 Gempalm Incinerator
 3 Goblin Cratermaker
+4 Bloodstained Mire
+2 Arid Mesa
+3 Goblin Piledriver
+2 Gempalm Incinerator
 4 Rishadan Port
 3 Arid Mesa
+1 Kiki-Jiki, Mirror Breaker
+3 Snow-Covered Mountain
 1 Conspicuous Snoop
 2 Conspicuous Snoop
-3 Goblin Piledriver
-3 Snow-Covered Mountain
+3 Mogg War Marshal
+4 Arid Mesa
 1 Boggart Harbinger
 2 Boggart Harbinger
 3 Conspicuous Snoop
 4 Conspicuous Snoop
-3 Mogg War Marshal
-4 Arid Mesa
-3 Boggart Harbinger
 4 Badlands
+2 Krenko, Mob Boss
 1 Volrath's Stronghold
 2 Scalding Tarn
-2 Krenko, Mob Boss
+3 Boggart Harbinger
 4 Goblin Ringleader
 1 Masked Vandal
 1 Grenzo, Havoc Raiser
@@ -72,7 +72,6 @@
 1 Blood Crypt
 1 Stomping Ground
 3 Wooded Foothills
-1 Tarfire
 1 Goblin King
 2 Karakas
 1 Gaea's Cradle

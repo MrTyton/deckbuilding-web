@@ -60,26 +60,26 @@
 1 Emergence Zone
 4 Swamp
 2 Arch of Orazca
-1 Field of Ruin
 1 Cryptic Caves
 1 Heartless Act
 1 Bloodchief's Thirst
+1 Field of Ruin
 2 Labyrinth of Skophos
 2 Heartless Act
 2 Bloodchief's Thirst
 2 Cryptic Caves
 2 Grafdigger's Cage
 3 Shadows' Verdict
-1 Torment of Hailfire
 1 Bonders' Enclave
+1 Torment of Hailfire
 1 Myriad Construct
 2 The World Tree
 2 Ghost Quarter
 2 Myriad Construct
 3 Ugin, the Ineffable
-1 Plains
 1 Wandering Archaic
 1 Heart of Kiran
+1 Plains
 1 Fountain of Renewal
 2 Plains
 3 Karn, Scion of Urza
@@ -87,34 +87,33 @@
 4 Karn, Scion of Urza
 4 Blinkmoth Nexus
 1 Hagra Mauling
+1 Languish
 1 Bala Ged Recovery
 1 Pelakka Predation
-1 Languish
 2 Pelakka Predation
 3 Crypt of the Eternals
 4 Crypt of the Eternals
-1 Chandra, Torch of Defiance
-1 Valakut Awakening
+1 Mountain
 1 Sweltering Suns
-1 Forgotten Cave
-1 Soul Sear
+1 Valakut Awakening
 1 Chandra, Awakened Inferno
 1 Banefire
-1 Mountain
+1 Soul Sear
+1 Forgotten Cave
+1 Chandra, Torch of Defiance
 2 Mountain
-2 Chandra, Torch of Defiance
 2 Valakut Awakening
-2 Sweltering Suns
 2 Soul Sear
+2 Sweltering Suns
 2 Forgotten Cave
+2 Chandra, Torch of Defiance
 3 Chandra, Torch of Defiance
 3 Mountain
-3 Soul Sear
 3 Sweltering Suns
+3 Soul Sear
 3 Forgotten Cave
-4 Chandra, Torch of Defiance
 4 Mountain
-4 Forgotten Cave
+4 Chandra, Torch of Defiance
 5 Mountain
 6 Mountain
 7 Mountain
@@ -122,3 +121,4 @@
 9 Mountain
 10 Mountain
 11 Mountain
+4 Forgotten Cave

@@ -39,8 +39,8 @@
 1 Heartless Act
 2 Drown in the Loch
 3 Watery Grave
-4 Thoughtseize
 4 Sinister Sabotage
+4 Thoughtseize
 4 Watery Grave
 1 Opt
 2 Opt
@@ -56,12 +56,12 @@
 1 Satyr Wayfinder
 1 Haunted Dead
 1 Creeping Chill
+1 Grisly Salvage
 1 Blooming Marsh
 1 Darkbore Pathway
 1 Driven/Despair
 1 Witherbloom Command
 1 Narcomoeba
-1 Grisly Salvage
 1 Deathrite Shaman
 1 Stitcher's Supplier
 1 Glowspore Shaman
@@ -73,13 +73,13 @@
 2 Darkbore Pathway
 2 Satyr Wayfinder
 2 Creeping Chill
+2 Grisly Salvage
 2 Blooming Marsh
 2 Narcomoeba
 2 Forest
 2 Silversmote Ghoul
 2 Deathrite Shaman
 2 Prized Amalgam
-2 Grisly Salvage
 2 Stitcher's Supplier
 2 Clearwater Pathway
 2 Gather the Pack
@@ -98,8 +98,8 @@
 3 Deathrite Shaman
 4 Silversmote Ghoul
 4 Darkbore Pathway
-4 Overgrown Tomb
 4 Satyr Wayfinder
+4 Overgrown Tomb
 4 Gather the Pack
 4 Narcomoeba
 4 Creeping Chill
@@ -135,11 +135,11 @@
 1 Urborg, Tomb of Yawgmoth
 1 Castle Vantress
 1 Behold the Multiverse
+1 Assassin's Trophy
 1 Essence Extraction
 1 Negate
 1 Dead Weight
 1 Scavenging Ooze
-1 Assassin's Trophy
 1 Dragonskull Summit
 1 Rootbound Crag
 3 Ketria Triome

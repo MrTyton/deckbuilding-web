@@ -9,18 +9,18 @@
 1 Needleverge Pathway
 1 Sacred Foundry
 1 Lightning Helix
-1 Inspiring Vantage
 2 Sacred Foundry
 2 Lightning Helix
 2 Needleverge Pathway
-2 Inspiring Vantage
 3 Sacred Foundry
 3 Lightning Helix
 3 Needleverge Pathway
-3 Inspiring Vantage
 4 Sacred Foundry
 4 Lightning Helix
 4 Needleverge Pathway
+1 Inspiring Vantage
+2 Inspiring Vantage
+3 Inspiring Vantage
 4 Inspiring Vantage
 1 Bonecrusher Giant
 1 Snow-Covered Mountain
@@ -41,41 +41,42 @@
 1 Spikefield Hazard
 1 Sunscorched Desert
 2 Sunscorched Desert
+1 Clever Lumimancer
+2 Clever Lumimancer
+3 Clever Lumimancer
 1 Faceless Haven
 1 Rampaging Ferocidon
 2 Rampaging Ferocidon
 1 Hazoret the Fervent
-2 Faceless Haven
-2 Hazoret the Fervent
 1 Kari Zev, Skyship Raider
-1 Clever Lumimancer
-2 Clever Lumimancer
-3 Clever Lumimancer
-2 Kari Zev, Skyship Raider
-3 Rampaging Ferocidon
-14 Snow-Covered Mountain
+2 Faceless Haven
 2 Spikefield Hazard
 4 Clever Lumimancer
+2 Hazoret the Fervent
+2 Kari Zev, Skyship Raider
+14 Snow-Covered Mountain
 15 Mountain
+3 Rampaging Ferocidon
 1 Chandra, Torch of Defiance
-1 Ahn-Crop Crasher
 3 Sunscorched Desert
+1 Ahn-Crop Crasher
 1 Plains
-4 Bonecrusher Giant
 1 Defiant Strike
 1 Heartfire Immolator
 2 Heartfire Immolator
 3 Heartfire Immolator
+4 Bonecrusher Giant
 1 Experimental Frenzy
 4 Rampaging Ferocidon
-3 Faceless Haven
 16 Mountain
 2 Ahn-Crop Crasher
+3 Faceless Haven
 15 Snow-Covered Mountain
 1 Castle Embereth
 3 Grim Lavamancer
 4 Sunscorched Desert
 1 Burning-Tree Emissary
+1 Clifftop Retreat
 1 Fanatical Firebrand
 1 Grapeshot
 2 Castle Embereth
@@ -83,23 +84,21 @@
 2 Unclaimed Territory
 1 Magma Jet
 2 Magma Jet
-1 Clifftop Retreat
-1 Magmatic Channeler
 1 Blood Crypt
 1 Increasing Vengeance
-2 Magmatic Channeler
+1 Magmatic Channeler
 2 Blood Crypt
 2 Increasing Vengeance
+2 Magmatic Channeler
 3 Blood Crypt
+2 Clifftop Retreat
+3 Clifftop Retreat
+4 Clifftop Retreat
 1 Showdown of the Skalds
 1 The Biblioplex
 2 Showdown of the Skalds
 3 Showdown of the Skalds
 4 Showdown of the Skalds
-1 Roiling Vortex
-2 Roiling Vortex
-3 Roiling Vortex
-4 Faceless Haven
 2 Burning-Tree Emissary
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
@@ -112,8 +111,8 @@
 3 Runaway Steam-Kin
 4 Runaway Steam-Kin
 1 Riverglide Pathway
-1 Saheeli Rai
 1 Steam Vents
+1 Saheeli Rai
 1 Spirebluff Canal
 2 Riverglide Pathway
 2 Steam Vents

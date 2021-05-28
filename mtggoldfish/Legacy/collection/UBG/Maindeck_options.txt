@@ -1,30 +1,27 @@
+1 Green Sun's Zenith
+2 Green Sun's Zenith
 3 Green Sun's Zenith
-1 Wasteland
-3 Underground Sea
-1 Cabal Therapy
-2 Plague Engineer
 2 Wasteland
-1 Snow-Covered Swamp
-2 Force of Negation
+3 Underground Sea
+2 Plague Engineer
 3 Wasteland
-2 Snow-Covered Island
-2 Cabal Therapy
-3 Cabal Therapy
-1 Jace, the Mind Sculptor
-1 Tarmogoyf
 3 Tropical Island
-1 Unearth
-1 Assassin's Trophy
+1 Cabal Therapy
+2 Snow-Covered Island
+1 Snow-Covered Swamp
 4 Green Sun's Zenith
+1 Jace, the Mind Sculptor
+4 Baleful Strix
+1 Tarmogoyf
 1 Daze
 2 Daze
 3 Daze
+1 Assassin's Trophy
+1 Unearth
+2 Cabal Therapy
+3 Cabal Therapy
 2 Tarmogoyf
-4 Baleful Strix
-1 Chain of Smog
-2 Chain of Smog
-4 Verdant Catacombs
-4 Cabal Therapy
+1 Karakas
 1 True-Name Nemesis
 1 Sea Gate Stormcaller
 1 Neoform
@@ -32,10 +29,7 @@
 2 Neoform
 3 Sea Gate Stormcaller
 4 Sea Gate Stormcaller
-1 Witherbloom Apprentice
-2 Witherbloom Apprentice
-3 Witherbloom Apprentice
-4 Witherbloom Apprentice
+4 Cabal Therapy
 2 Unearth
 1 Spike Feeder
 1 Heliod, Sun-Crowned
@@ -45,18 +39,22 @@
 1 Witherbloom Command
 2 Witherbloom Command
 3 Tarmogoyf
-2 Jace, the Mind Sculptor
 2 Island
-1 Karakas
+4 Verdant Catacombs
+2 Jace, the Mind Sculptor
+1 Chain of Smog
+2 Chain of Smog
+1 Witherbloom Apprentice
+2 Witherbloom Apprentice
+3 Witherbloom Apprentice
+4 Witherbloom Apprentice
 1 Opposition Agent
 2 Swamp
 1 Brazen Borrower
-3 Thoughtseize
+1 Elvish Reclaimer
 3 Snapcaster Mage
 1 Cling to Dust
-2 Sylvan Library
-1 Ice-Fang Coatl
-2 Ice-Fang Coatl
+3 Thoughtseize
 1 Drown in the Loch
 1 Scalding Tarn
 2 Scalding Tarn
@@ -76,44 +74,47 @@
 2 Volcanic Island
 3 Hymn to Tourach
 1 Liliana, the Last Hope
+2 Sylvan Library
 1 Waterlogged Grove
-1 Elvish Reclaimer
-1 Sedgemoor Witch
-3 Fatal Push
+2 Elvish Reclaimer
+1 Ramunap Excavator
+1 Hexdrinker
+4 Tropical Island
 1 Stifle
 2 Stifle
-2 Elvish Reclaimer
 3 Stifle
 4 Daze
 4 Wasteland
-1 Ramunap Excavator
+1 Sedgemoor Witch
+3 Fatal Push
 1 Liliana's Triumph
 2 Snow-Covered Forest
+1 Ice-Fang Coatl
+2 Ice-Fang Coatl
 1 Hullbreacher
+1 Narset, Parter of Veils
+2 Leovold, Emissary of Trest
 3 Noble Hierarch
 1 Titania, Protector of Argoth
-1 Hexdrinker
 4 Stifle
-4 Tropical Island
+4 Uro, Titan of Nature's Wrath
 1 Flusterstorm
 3 Island
 1 Preordain
-1 Sylvan Safekeeper
-1 Spellseeker
+4 Thoughtseize
 1 Mystic Sanctuary
 2 Badlands
-1 Narset, Parter of Veils
-1 Inquisition of Kozilek
-2 Leovold, Emissary of Trest
-2 Assassin's Trophy
-4 Uro, Titan of Nature's Wrath
-4 Thoughtseize
-1 Flooded Strand
-3 Witherbloom Command
-1 Prismatic Vista
-3 Kolaghan's Command
-2 Narset, Parter of Veils
 1 Questing Beast
+2 Assassin's Trophy
+3 Witherbloom Command
+1 Flooded Strand
+1 Prismatic Vista
+1 Sylvan Safekeeper
+3 Kolaghan's Command
+1 Spellseeker
+2 Narset, Parter of Veils
+1 Inquisition of Kozilek
+4 Abrupt Decay
 2 Preordain
 3 Swamp
 2 Sedgemoor Witch
@@ -129,12 +130,18 @@
 4 Sedgemoor Witch
 4 Island
 1 Angrath's Rampage
+2 Forest
+3 Ice-Fang Coatl
+1 Teferi, Time Raveler
+1 Swords to Plowshares
+1 Savannah
+1 Tundra
+2 Swords to Plowshares
 2 Inquisition of Kozilek
 2 Hullbreacher
 3 Lightning Bolt
 3 Snow-Covered Island
 2 Drown in the Loch
-3 Ice-Fang Coatl
 4 Noble Hierarch
 2 Brazen Borrower
 1 Nimble Obstructionist
@@ -142,13 +149,7 @@
 2 Abundant Harvest
 2 Liliana's Triumph
 3 Inquisition of Kozilek
-1 Teferi, Time Raveler
-1 Swords to Plowshares
-1 Savannah
-1 Tundra
 2 Teferi, Time Raveler
-2 Swords to Plowshares
-4 Abrupt Decay
 4 Ice-Fang Coatl
 1 Dark Confidant
 3 Chain of Smog
@@ -163,9 +164,8 @@
 1 Ethereal Forager
 2 Ethereal Forager
 3 Ethereal Forager
-1 Maralen of the Mornsong
 1 Vraska, Golgari Queen
-2 Forest
+1 Maralen of the Mornsong
 3 Birds of Paradise
 1 Mystic Reflection
 1 Nicol Bolas, Dragon-God
@@ -180,9 +180,9 @@
 2 Day's Undoing
 2 Dark Confidant
 2 Liliana, the Last Hope
+1 Village Rites
 1 Bloodchief's Thirst
 1 Ancient Tomb
-1 Village Rites
 2 Ancient Tomb
 2 Spellseeker
 1 Bojuka Bog
@@ -200,3 +200,8 @@
 4 Underground Sea
 4 Scalding Tarn
 4 Ethereal Forager
+1 Shark Typhoon
+1 Scrubland
+2 Shark Typhoon
+3 Swords to Plowshares
+4 Swords to Plowshares

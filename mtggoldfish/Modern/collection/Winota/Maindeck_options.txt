@@ -1,29 +1,30 @@
+3 Sunbaked Canyon
+3 Leonin Arbiter
 3 Plains
+3 Needleverge Pathway
 4 Sunbaked Canyon
 4 Leonin Arbiter
 4 Plains
-4 Giver of Runes
 4 Needleverge Pathway
 5 Plains
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
+1 Sword of Fire and Ice
 1 Batterskull
 1 Stoneforge Mystic
-1 Sword of Fire and Ice
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
 3 Ghost Quarter
 4 Ghost Quarter
 4 Sacred Foundry
+4 Arbor Elf
+1 Arid Mesa
 2 Pia and Kiran Nalaar
 1 Maul of the Skyclaves
 1 Inspiring Vantage
 1 Path to Exile
 2 Path to Exile
-4 Arbor Elf
-1 Forest
-2 Forest
 3 Voice of Resurgence
 4 Wooded Foothills
 4 Lightning Bolt
@@ -33,7 +34,6 @@
 2 Inspiring Vantage
 3 Inspiring Vantage
 4 Inspiring Vantage
-1 Arid Mesa
 1 Charming Prince
 3 Battlefield Forge
 3 Path to Exile
@@ -43,13 +43,13 @@
 1 Phyrexian Revoker
 1 Razorverge Thicket
 2 Phyrexian Revoker
-3 Stomping Ground
 1 Cavern of Souls
+3 Stomping Ground
 1 Geist-Honored Monk
 2 Geist-Honored Monk
 3 Geist-Honored Monk
-1 Snow-Covered Forest
 1 Snow-Covered Mountain
+1 Snow-Covered Forest
 4 Geist-Honored Monk
 2 Razorverge Thicket
 2 Cavern of Souls
@@ -61,16 +61,19 @@
 3 Llanowar Elves
 4 Llanowar Elves
 1 Embercleave
+1 Horizon Canopy
 2 Mountain
 1 Snow-Covered Plains
 1 Resolute Blademaster
-1 Horizon Canopy
 1 Huntmaster of the Fells
 1 Goblin Rabblemaster
 2 Goblin Rabblemaster
 2 Charming Prince
+1 Blade Historian
 2 Magus of the Moon
 3 Forest
+1 Gilded Goose
+2 Arid Mesa
 3 Smuggler's Copter
 1 Godo, Bandit Warlord
 2 Godo, Bandit Warlord
@@ -92,18 +95,18 @@
 1 Flooded Strand
 1 Meddling Mage
 2 Reflecting Pool
+2 Kitesail Freebooter
 2 Ancient Ziggurat
 2 Noble Hierarch
 2 Avacyn's Pilgrim
 2 Blade Splicer
 2 Meddling Mage
-2 Mantis Rider
 2 Thalia's Lieutenant
 2 Alirios, Enraptured
 2 Champion of the Parish
 2 Unclaimed Territory
-2 Kitesail Freebooter
 2 Flooded Strand
+2 Mantis Rider
 3 Charming Prince
 3 Flooded Strand
 3 Reflecting Pool
@@ -138,22 +141,37 @@
 3 Rugged Prairie
 4 Elite Spellbinder
 7 Plains
-1 Blade Historian
 1 Eternal Witness
 2 Snow-Covered Forest
 1 Reidane, God of the Worthy
 1 Drannith Magistrate
 2 Drannith Magistrate
 3 Drannith Magistrate
-1 Rampaging Ferocidon
 1 Brushfire Elemental
+1 Rampaging Ferocidon
 1 Banisher Priest
-1 Gilded Goose
 2 Gilded Goose
-2 Arid Mesa
 2 Brushfire Elemental
 3 Gilded Goose
 4 Voice of Resurgence
+1 Ranger-Captain of Eos
+1 Proud Wildbonder
+1 Scavenging Ooze
+1 Insolent Neonate
+1 Fire-Lit Thicket
+1 Dryad Arbor
+1 Fauna Shaman
+1 Legion Loyalist
+1 Vengevine
+1 Wooded Bastion
+1 Kenrith, the Returned King
+2 Ranger-Captain of Eos
+2 Vengevine
+2 Fauna Shaman
+3 Ranger-Captain of Eos
+3 Fauna Shaman
+4 Ranger-Captain of Eos
+4 Fauna Shaman
 1 Utopia Sprawl
 1 Avalanche Riders
 1 Pia Nalaar
@@ -169,5 +187,5 @@
 4 Magus of the Moon
 4 Huntmaster of the Fells
 4 Forest
-5 Forest
 4 Goblin Rabblemaster
+5 Forest
