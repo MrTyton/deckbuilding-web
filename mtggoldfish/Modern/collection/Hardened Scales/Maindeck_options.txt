@@ -1,8 +1,8 @@
+3 Welding Jar
 1 Darksteel Citadel
 2 Darksteel Citadel
 4 Ancient Stirrings
 3 Blinkmoth Nexus
-3 Welding Jar
 1 Llanowar Wastes
 2 Llanowar Wastes
 3 Llanowar Wastes
@@ -12,21 +12,21 @@
 2 Brushland
 3 Brushland
 4 Brushland
-1 Swamp
 7 Forest
 8 Forest
-4 Blinkmoth Nexus
+9 Forest
+1 Swamp
 1 Razorverge Thicket
 1 Blooming Marsh
-9 Forest
 1 Horizon Canopy
 2 Razorverge Thicket
 3 Razorverge Thicket
 1 Urborg, Tomb of Yawgmoth
+1 Temple Garden
 4 Welding Jar
 1 Cavern of Souls
 2 Cavern of Souls
-1 Temple Garden
+4 Blinkmoth Nexus
 2 Blooming Marsh
 2 Temple Garden
 1 Darkbore Pathway
@@ -38,7 +38,6 @@
 1 Lightning Bolt
 1 Branchloft Pathway
 1 Nurturing Peatland
-1 Vines of Vastwood
 2 Lightning Bolt
 2 Pendelhaven
 4 Scrapyard Recombiner
@@ -58,6 +57,7 @@
 1 Mountain
 1 Overgrown Tomb
 2 Overgrown Tomb
+1 Vines of Vastwood
 3 Steel Overseer
 3 Cavern of Souls
 11 Forest
@@ -98,10 +98,10 @@
 1 Inscription of Abundance
 1 Snow-Covered Mountain
 2 Kazuul's Fury
-3 Metallic Mimic
 1 Spire of Industry
 2 Spire of Industry
 3 Spire of Industry
+3 Metallic Mimic
 2 Horizon Canopy
 4 Razorverge Thicket
 2 Plains

@@ -2,17 +2,16 @@
 2 Green Sun's Zenith
 3 Green Sun's Zenith
 2 Wasteland
-3 Underground Sea
 2 Plague Engineer
-3 Wasteland
+1 Snow-Covered Forest
 3 Tropical Island
+3 Wasteland
 1 Cabal Therapy
-2 Snow-Covered Island
-1 Snow-Covered Swamp
 4 Green Sun's Zenith
+1 Snow-Covered Swamp
 1 Jace, the Mind Sculptor
-4 Baleful Strix
 1 Tarmogoyf
+2 Snow-Covered Island
 1 Daze
 2 Daze
 3 Daze
@@ -21,6 +20,7 @@
 2 Cabal Therapy
 3 Cabal Therapy
 2 Tarmogoyf
+4 Baleful Strix
 1 Karakas
 1 True-Name Nemesis
 1 Sea Gate Stormcaller
@@ -44,17 +44,16 @@
 2 Jace, the Mind Sculptor
 1 Chain of Smog
 2 Chain of Smog
+1 Opposition Agent
 1 Witherbloom Apprentice
 2 Witherbloom Apprentice
 3 Witherbloom Apprentice
 4 Witherbloom Apprentice
-1 Opposition Agent
 2 Swamp
 1 Brazen Borrower
 1 Elvish Reclaimer
 3 Snapcaster Mage
 1 Cling to Dust
-3 Thoughtseize
 1 Drown in the Loch
 1 Scalding Tarn
 2 Scalding Tarn
@@ -74,6 +73,7 @@
 2 Volcanic Island
 3 Hymn to Tourach
 1 Liliana, the Last Hope
+3 Thoughtseize
 2 Sylvan Library
 1 Waterlogged Grove
 2 Elvish Reclaimer
@@ -85,36 +85,41 @@
 3 Stifle
 4 Daze
 4 Wasteland
-1 Sedgemoor Witch
-3 Fatal Push
+4 Uro, Titan of Nature's Wrath
 1 Liliana's Triumph
-2 Snow-Covered Forest
+1 Narset, Parter of Veils
+1 Hullbreacher
 1 Ice-Fang Coatl
 2 Ice-Fang Coatl
-1 Hullbreacher
-1 Narset, Parter of Veils
 2 Leovold, Emissary of Trest
 3 Noble Hierarch
 1 Titania, Protector of Argoth
 4 Stifle
-4 Uro, Titan of Nature's Wrath
-1 Flusterstorm
 3 Island
+1 Sedgemoor Witch
 1 Preordain
-4 Thoughtseize
-1 Mystic Sanctuary
+3 Fatal Push
 2 Badlands
+1 Mystic Sanctuary
 1 Questing Beast
+2 Snow-Covered Forest
+1 Flusterstorm
 2 Assassin's Trophy
 3 Witherbloom Command
 1 Flooded Strand
 1 Prismatic Vista
-1 Sylvan Safekeeper
 3 Kolaghan's Command
+1 Sylvan Safekeeper
+4 Thoughtseize
 1 Spellseeker
 2 Narset, Parter of Veils
-1 Inquisition of Kozilek
 4 Abrupt Decay
+1 Teferi, Time Raveler
+1 Swords to Plowshares
+1 Savannah
+1 Tundra
+2 Swords to Plowshares
+1 Inquisition of Kozilek
 2 Preordain
 3 Swamp
 2 Sedgemoor Witch
@@ -124,39 +129,37 @@
 1 Eliminate
 2 Eliminate
 2 Flusterstorm
-3 Prismatic Vista
 3 Flusterstorm
+3 Prismatic Vista
 4 Swamp
 4 Sedgemoor Witch
 4 Island
 1 Angrath's Rampage
 2 Forest
+1 Abundant Harvest
+2 Abundant Harvest
 3 Ice-Fang Coatl
-1 Teferi, Time Raveler
-1 Swords to Plowshares
-1 Savannah
-1 Tundra
-2 Swords to Plowshares
+2 Teferi, Time Raveler
 2 Inquisition of Kozilek
 2 Hullbreacher
 3 Lightning Bolt
+4 Noble Hierarch
 3 Snow-Covered Island
 2 Drown in the Loch
-4 Noble Hierarch
+3 Chain of Smog
 2 Brazen Borrower
 1 Nimble Obstructionist
-1 Abundant Harvest
-2 Abundant Harvest
 2 Liliana's Triumph
 3 Inquisition of Kozilek
-2 Teferi, Time Raveler
 4 Ice-Fang Coatl
 1 Dark Confidant
-3 Chain of Smog
 3 Brazen Borrower
 4 Chain of Smog
 1 Mountain
 1 Life from the Loam
+1 Scrubland
+3 Swords to Plowshares
+4 Swords to Plowshares
 3 Bloodstained Mire
 2 Flooded Strand
 1 Spell Pierce
@@ -176,18 +179,23 @@
 2 Kroxa, Titan of Death's Hunger
 1 Dismember
 2 Dismember
+1 Shark Typhoon
+2 Shark Typhoon
 1 Day's Undoing
 2 Day's Undoing
 2 Dark Confidant
 2 Liliana, the Last Hope
-1 Village Rites
 1 Bloodchief's Thirst
 1 Ancient Tomb
+1 Village Rites
 2 Ancient Tomb
 2 Spellseeker
 1 Bojuka Bog
 3 Elvish Reclaimer
 4 Elvish Reclaimer
+3 Teferi, Time Raveler
+3 Abundant Harvest
+4 Abundant Harvest
 1 Ashiok, Nightmare Muse
 1 Vendilion Clique
 1 Go for the Throat
@@ -200,8 +208,3 @@
 4 Underground Sea
 4 Scalding Tarn
 4 Ethereal Forager
-1 Shark Typhoon
-1 Scrubland
-2 Shark Typhoon
-3 Swords to Plowshares
-4 Swords to Plowshares
