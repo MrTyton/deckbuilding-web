@@ -9,9 +9,9 @@
 5 Plains
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
-1 Sword of Fire and Ice
 1 Batterskull
 1 Stoneforge Mystic
+1 Sword of Fire and Ice
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
@@ -48,8 +48,8 @@
 1 Geist-Honored Monk
 2 Geist-Honored Monk
 3 Geist-Honored Monk
-1 Snow-Covered Mountain
 1 Snow-Covered Forest
+1 Snow-Covered Mountain
 4 Geist-Honored Monk
 2 Razorverge Thicket
 2 Cavern of Souls
@@ -107,7 +107,6 @@
 2 Unclaimed Territory
 2 Flooded Strand
 2 Mantis Rider
-3 Charming Prince
 3 Flooded Strand
 3 Reflecting Pool
 3 Blade Splicer
@@ -117,6 +116,7 @@
 3 Mantis Rider
 3 Ancient Ziggurat
 3 Kitesail Freebooter
+3 Charming Prince
 3 Thalia's Lieutenant
 3 Unclaimed Territory
 3 Noble Hierarch
@@ -154,6 +154,23 @@
 2 Brushfire Elemental
 3 Gilded Goose
 4 Voice of Resurgence
+1 Utopia Sprawl
+1 Avalanche Riders
+1 Pia Nalaar
+2 Utopia Sprawl
+2 Avalanche Riders
+2 Pia Nalaar
+2 Huntmaster of the Fells
+3 Utopia Sprawl
+3 Magus of the Moon
+3 Huntmaster of the Fells
+3 Goblin Rabblemaster
+4 Utopia Sprawl
+4 Magus of the Moon
+4 Huntmaster of the Fells
+4 Forest
+4 Goblin Rabblemaster
+5 Forest
 1 Ranger-Captain of Eos
 1 Proud Wildbonder
 1 Scavenging Ooze
@@ -172,20 +189,3 @@
 3 Fauna Shaman
 4 Ranger-Captain of Eos
 4 Fauna Shaman
-1 Utopia Sprawl
-1 Avalanche Riders
-1 Pia Nalaar
-2 Utopia Sprawl
-2 Avalanche Riders
-2 Pia Nalaar
-2 Huntmaster of the Fells
-3 Utopia Sprawl
-3 Magus of the Moon
-3 Huntmaster of the Fells
-3 Goblin Rabblemaster
-4 Utopia Sprawl
-4 Magus of the Moon
-4 Huntmaster of the Fells
-4 Forest
-4 Goblin Rabblemaster
-5 Forest

@@ -1,56 +1,10 @@
-2 Plains
-3 Plains
-1 Clifftop Retreat
-1 Lightning Helix
-2 Lightning Helix
-3 Lightning Helix
-4 Lightning Helix
-1 Adanto Vanguard
-2 Adanto Vanguard
-3 Adanto Vanguard
-4 Adanto Vanguard
-1 Shatterskull Smashing
-1 Bonecrusher Giant
-1 Chandra, Torch of Defiance
-1 Glorybringer
-2 Shatterskull Smashing
-2 Bonecrusher Giant
-2 Chandra, Torch of Defiance
-2 Glorybringer
-3 Shatterskull Smashing
-3 Chandra, Torch of Defiance
-1 Elite Spellbinder
-1 Skyclave Apparition
-1 Flamescroll Celebrant
-1 Castle Ardenvale
-2 Elite Spellbinder
-2 Skyclave Apparition
-2 Flamescroll Celebrant
-3 Elite Spellbinder
-3 Skyclave Apparition
-3 Flamescroll Celebrant
-3 Bonecrusher Giant
-4 Skyclave Apparition
-4 Elite Spellbinder
-4 Bonecrusher Giant
-2 Clifftop Retreat
-1 Reidane, God of the Worthy
-2 Reidane, God of the Worthy
-2 Castle Ardenvale
-3 Glorybringer
-4 Flamescroll Celebrant
-1 Savai Triome
-4 Shatterskull Smashing
-1 Raugrin Triome
-4 Chandra, Torch of Defiance
-3 Reidane, God of the Worthy
-1 Branchloft Pathway
-1 Cragcrown Pathway
-2 Branchloft Pathway
-2 Cragcrown Pathway
-3 Cragcrown Pathway
+2 Inspiring Vantage
+4 Sacred Foundry
 4 Flameblade Adept
+3 Inspiring Vantage
+2 Mountain
 1 Faithless Looting
+4 Inspiring Vantage
 2 Faithless Looting
 3 Faithless Looting
 4 Faithless Looting
@@ -60,8 +14,8 @@
 1 Memory Leak
 2 Easy Prey
 2 Memory Leak
-3 Easy Prey
 3 Memory Leak
+3 Easy Prey
 4 Memory Leak
 1 Canyon Slough
 1 Brightclimb Pathway
@@ -71,219 +25,86 @@
 2 Canyon Slough
 3 Brightclimb Pathway
 3 Blightstep Pathway
-4 Plains
-1 Tenth District Legionnaire
-1 Reckless Rage
-1 Defiant Strike
-1 Dreadhorde Arcanist
-2 Tenth District Legionnaire
-2 Reckless Rage
-2 Dreadhorde Arcanist
-2 Defiant Strike
-3 Tenth District Legionnaire
-3 Defiant Strike
-3 Dreadhorde Arcanist
-4 Tenth District Legionnaire
-4 Defiant Strike
-1 Gods Willing
-2 Gods Willing
-3 Gods Willing
-4 Gods Willing
-3 Reckless Rage
-4 Reckless Rage
-1 Feather, the Redeemed
-2 Feather, the Redeemed
-3 Feather, the Redeemed
-4 Dreadhorde Arcanist
-3 Mountain
-1 Fight as One
-1 Soul-Scar Mage
-2 Soul-Scar Mage
-3 Soul-Scar Mage
-4 Soul-Scar Mage
-1 Clever Lumimancer
-2 Clever Lumimancer
-3 Clever Lumimancer
-4 Clever Lumimancer
-1 Shock
-5 Plains
-1 Gird for Battle
-2 Gird for Battle
-4 Feather, the Redeemed
-3 Clifftop Retreat
-1 Temple of Triumph
-2 Fight as One
-1 Hazoret the Fervent
-2 Shock
-4 Clifftop Retreat
-3 Fight as One
-4 Fight as One
-4 Mountain
-6 Plains
-1 Emeria's Call
-3 Shock
-1 Show of Confidence
-2 Show of Confidence
-3 Show of Confidence
-2 Temple of Triumph
+2 Plains
 1 Reptilian Reflection
-1 Samut's Sprint
-2 Samut's Sprint
-1 Magmatic Channeler
-1 Clarion Spirit
-1 Declaration in Stone
-1 Showdown of the Skalds
-1 Magma Spray
-2 Magmatic Channeler
-2 Magma Spray
-2 Clarion Spirit
-2 Showdown of the Skalds
-3 Showdown of the Skalds
-3 Clarion Spirit
-4 Showdown of the Skalds
-4 Clarion Spirit
-1 Desert of the True
 1 Desert of the Fervent
+1 Desert of the True
 1 Valiant Rescuer
 2 Valiant Rescuer
-1 Guiding Voice
-2 Guiding Voice
-3 Guiding Voice
-4 Guiding Voice
-5 Mountain
-6 Mountain
-4 Shock
-1 Gideon Blackblade
-1 Invigorated Rampage
-1 Grapeshot
-1 Infuriate
-2 Invigorated Rampage
-3 Invigorated Rampage
-3 Gird for Battle
-4 Gird for Battle
-1 Wind-Scarred Crag
-2 Wind-Scarred Crag
-3 Wind-Scarred Crag
-1 Anger of the Gods
-2 Anger of the Gods
-1 Crawling Barrens
-2 Crawling Barrens
-1 Snow-Covered Mountain
-2 Snow-Covered Mountain
-3 Snow-Covered Mountain
-4 Snow-Covered Mountain
-5 Snow-Covered Mountain
-6 Snow-Covered Mountain
-7 Snow-Covered Mountain
-8 Snow-Covered Mountain
-9 Snow-Covered Mountain
+1 Lightning Helix
+2 Lightning Helix
+3 Plains
+4 Plains
 1 Shredded Sails
-1 Blinkmoth Nexus
-1 Gideon of the Trials
-2 Emeria's Call
-2 Blinkmoth Nexus
-1 Rip Apart
-1 Mila, Crafty Companion
-2 Rip Apart
-1 Alpine Meadow
-2 Alpine Meadow
-2 Gideon Blackblade
-1 Luminarch Aspirant
-1 Legion Warboss
-2 Luminarch Aspirant
-2 Legion Warboss
-1 Kari Zev, Skyship Raider
-2 Kari Zev, Skyship Raider
-2 Savai Triome
-2 Hazoret the Fervent
-1 Mavinda, Students' Advocate
-1 Increasing Vengeance
-1 Fabled Passage
-1 Furycalm Snarl
-2 Mavinda, Students' Advocate
-2 Furycalm Snarl
-2 Increasing Vengeance
-2 Fabled Passage
+1 Anger of the Gods
 1 Ketria Triome
+2 Anger of the Gods
 2 Ketria Triome
 1 Baffling End
 2 Baffling End
 3 Sweltering Suns
-3 Temple of Triumph
-3 Sheltered Thicket
 4 Cragcrown Pathway
-1 Rimrock Knight
-2 Rimrock Knight
-3 Rimrock Knight
-4 Rimrock Knight
+3 Lightning Helix
+3 Sheltered Thicket
+4 Lightning Helix
 3 Valiant Rescuer
 4 Valiant Rescuer
 1 Concealed Courtyard
 1 Blood Crypt
-1 Stomping Ground
 1 Indatha Triome
+1 Stomping Ground
 2 Concealed Courtyard
 2 Stomping Ground
 2 Indatha Triome
-3 Concealed Courtyard
 3 Stomping Ground
+3 Concealed Courtyard
 4 Stomping Ground
-1 Krenko, Tin Street Kingpin
-1 Tajic, Legion's Edge
-1 Snow-Covered Plains
-1 Skyknight Vanguard
-1 Healer's Hawk
-2 Tajic, Legion's Edge
-2 Snow-Covered Plains
-2 Healer's Hawk
-2 Skyknight Vanguard
-2 Krenko, Tin Street Kingpin
-3 Snow-Covered Plains
-3 Skyknight Vanguard
-3 Krenko, Tin Street Kingpin
-3 Tajic, Legion's Edge
-3 Healer's Hawk
-4 Snow-Covered Plains
-4 Skyknight Vanguard
-4 Wind-Scarred Crag
-5 Snow-Covered Plains
-6 Snow-Covered Plains
-7 Snow-Covered Plains
-8 Snow-Covered Plains
-9 Snow-Covered Plains
-10 Snow-Covered Plains
-1 Mind Stone
-1 Abrade
-1 Chandra, Awakened Inferno
-1 Blast Zone
-1 Frost Bite
-1 Valakut Awakening
-1 Faceless Haven
-1 Weathered Runestone
-1 Tundra Fumarole
-1 Toralf, God of Fury
-1 Coldsteel Heart
-1 Field of Ruin
-2 Abrade
-2 Blast Zone
-2 Chandra, Awakened Inferno
-2 Mind Stone
-2 Frost Bite
-2 Faceless Haven
-2 Weathered Runestone
-2 Field of Ruin
-2 Coldsteel Heart
-2 Toralf, God of Fury
-3 Frost Bite
-3 Faceless Haven
-3 Toralf, God of Fury
-3 Anger of the Gods
-3 Mind Stone
-4 Frost Bite
-4 Mind Stone
-10 Snow-Covered Mountain
-11 Snow-Covered Mountain
-12 Snow-Covered Mountain
-13 Snow-Covered Mountain
-14 Snow-Covered Mountain
-15 Snow-Covered Mountain
+1 Tenth District Legionnaire
+1 Temple of Triumph
+1 Guiding Voice
+1 Gods Willing
+1 Clifftop Retreat
+1 Dreadhorde Arcanist
+1 Reckless Rage
+1 Defiant Strike
+1 Show of Confidence
+1 Wind-Scarred Crag
+1 Shock
+1 Soul-Scar Mage
+1 Clever Lumimancer
+2 Tenth District Legionnaire
+2 Guiding Voice
+2 Defiant Strike
+2 Gods Willing
+2 Soul-Scar Mage
+2 Shock
+2 Reckless Rage
+2 Wind-Scarred Crag
+2 Clever Lumimancer
+2 Show of Confidence
+2 Dreadhorde Arcanist
+3 Mountain
+3 Tenth District Legionnaire
+3 Guiding Voice
+3 Wind-Scarred Crag
+3 Clever Lumimancer
+3 Soul-Scar Mage
+3 Gods Willing
+3 Reckless Rage
+3 Show of Confidence
+3 Dreadhorde Arcanist
+3 Defiant Strike
+3 Shock
+4 Mountain
+4 Soul-Scar Mage
+4 Guiding Voice
+4 Tenth District Legionnaire
+4 Reckless Rage
+4 Defiant Strike
+4 Dreadhorde Arcanist
+4 Gods Willing
+5 Mountain
+5 Plains
+6 Mountain
+6 Plains
+4 Clever Lumimancer
