@@ -1,8 +1,5 @@
-2 Ulamog, the Ceaseless Hunger
-1 Kozilek, Butcher of Truth
 1 Warping Wail
 2 Warping Wail
-3 Golos, Tireless Pilgrim
 1 Ancient Tomb
 2 Ancient Tomb
 3 Ancient Tomb
@@ -16,36 +13,39 @@
 4 Chalice of the Void
 4 Grim Monolith
 1 Karn, the Great Creator
-1 Trinisphere
-1 Manifold Key
 2 Karn, the Great Creator
 3 Karn, the Great Creator
 1 City of Traitors
-2 Ugin, the Spirit Dragon
-1 Blast Zone
-2 Trinisphere
 1 Thought-Knot Seer
 2 Thought-Knot Seer
 3 Thought-Knot Seer
-1 Cascading Cataracts
+1 Manifold Key
+1 Trinisphere
 2 City of Traitors
 4 Thought-Knot Seer
 1 Eldrazi Temple
 2 Eldrazi Temple
 3 Eldrazi Temple
-1 Verdant Catacombs
-1 Misty Rainforest
-4 Golos, Tireless Pilgrim
-1 Ugin, the Ineffable
-1 Sorcerous Spyglass
-2 Sorcerous Spyglass
+2 Ugin, the Spirit Dragon
+1 Blast Zone
+2 Trinisphere
+3 Golos, Tireless Pilgrim
+1 Cascading Cataracts
+4 Once Upon a Time
 1 All Is Dust
-3 City of Traitors
-2 Ugin, the Ineffable
+1 Sorcerous Spyglass
 2 All Is Dust
-1 Maze of Ith
+1 Ugin, the Ineffable
+4 Golos, Tireless Pilgrim
+1 Kozilek, Butcher of Truth
+3 City of Traitors
+2 Sorcerous Spyglass
+2 Ugin, the Ineffable
 1 Thran Dynamo
 2 Thran Dynamo
+1 Maze of Ith
+1 Verdant Catacombs
+1 Misty Rainforest
 1 Ancient Stirrings
 1 Wooded Foothills
 1 The World Tree
@@ -55,15 +55,20 @@
 2 Boompile
 3 Ancient Stirrings
 4 Ancient Stirrings
-2 Manifold Key
 4 Karn, the Great Creator
 1 Urborg, Tomb of Yawgmoth
+2 Manifold Key
 2 Eye of Ugin
 4 Eldrazi Temple
-4 Vesuva
+2 Walking Ballista
+1 Wastes
+1 Matter Reshaper
+2 Matter Reshaper
+3 Matter Reshaper
+4 Matter Reshaper
 1 Endbringer
 2 Endbringer
-2 Walking Ballista
+4 Vesuva
 1 Kozilek, the Great Distortion
 4 City of Traitors
 1 Inventors' Fair
@@ -89,29 +94,24 @@
 4 Metalworker
 4 Lodestone Golem
 4 Kuldotha Forgemaster
-1 Wastes
+1 Reality Smasher
+2 Reality Smasher
+3 All Is Dust
+3 Reality Smasher
+4 Reality Smasher
 1 Emrakul, the Promised End
-1 Matter Reshaper
-2 Matter Reshaper
-3 Matter Reshaper
 3 Eye of Ugin
 3 Walking Ballista
 1 Waterlogged Grove
 1 The Tabernacle at Pendrell Vale
 1 Tireless Tracker
-3 Sorcerous Spyglass
-1 Reality Smasher
-2 Reality Smasher
-3 All Is Dust
+1 Spatial Contortion
 3 Endbringer
-3 Reality Smasher
 4 Endbringer
-4 Reality Smasher
 2 Karakas
 1 Wandering Archaic
 2 Wandering Archaic
 3 Wandering Archaic
-4 Matter Reshaper
 4 Walking Ballista
 1 Snow-Covered Forest
 2 Snow-Covered Forest
@@ -128,21 +128,19 @@
 1 Prismatic Vista
 1 Dryad Militant
 7 Snow-Covered Forest
-1 Spatial Contortion
 1 Candelabra of Tawnos
 1 Apex Devastator
 1 Vivien, Monsters' Advocate
 1 Dryad Arbor
 2 Vivien, Monsters' Advocate
-1 Dismember
-2 Dismember
 1 Mazemind Tome
 1 Sphere of Resistance
+1 Mystic Forge
 1 Forsaken Monument
 1 Basalt Monolith
-1 Mystic Forge
 2 Forsaken Monument
 2 Basalt Monolith
+3 Sorcerous Spyglass
 1 Stonecoil Serpent
 1 Crucible of Worlds
 2 Crucible of Worlds

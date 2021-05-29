@@ -1,6 +1,5 @@
-1 Seal Away
+1 Gideon of the Trials
 3 Wrath of God
-3 Shark Typhoon
 1 Hengegate Pathway
 2 Hengegate Pathway
 4 Plains
@@ -8,8 +7,8 @@
 1 Skyclave Apparition
 1 Luminarch Aspirant
 2 Selfless Savior
-2 Skyclave Apparition
 2 Luminarch Aspirant
+2 Skyclave Apparition
 3 Skyclave Apparition
 3 Luminarch Aspirant
 4 Luminarch Aspirant
@@ -18,19 +17,19 @@
 3 Thalia, Guardian of Thraben
 3 Selfless Savior
 4 Selfless Savior
-3 Hengegate Pathway
-4 Hengegate Pathway
 1 Archon of Emeria
 2 Archon of Emeria
 3 Archon of Emeria
 1 Deputy of Detention
 2 Deputy of Detention
+3 Hengegate Pathway
+4 Hengegate Pathway
 1 Temple Garden
 1 Branchloft Pathway
-2 Branchloft Pathway
 2 Temple Garden
-3 Temple Garden
+2 Branchloft Pathway
 3 Branchloft Pathway
+3 Temple Garden
 4 Temple Garden
 3 Deputy of Detention
 1 Meddling Mage
@@ -47,11 +46,12 @@
 2 Glasspool Mimic
 1 Linvala, Shield of Sea Gate
 2 Linvala, Shield of Sea Gate
+3 Shark Typhoon
 1 Yasharn, Implacable Earth
 3 Glasspool Mimic
+4 Wrath of God
 1 Search for Azcanta
 2 Yasharn, Implacable Earth
-2 Irrigated Farmland
 3 Linvala, Shield of Sea Gate
 5 Plains
 1 Elite Spellbinder
@@ -62,31 +62,22 @@
 2 Reidane, God of the Worthy
 1 Barkchannel Pathway
 2 Barkchannel Pathway
-4 Glacial Fortress
-4 Wrath of God
-2 Doomskar
-2 Seal Away
-4 Shark Typhoon
-1 Absorb
-2 Absorb
+2 Irrigated Farmland
 7 Plains
 1 Aether Gust
-5 Island
-6 Island
 2 Grafdigger's Cage
+4 Shark Typhoon
 4 Elite Spellbinder
 1 Forest
 2 Forest
+2 Seal Away
+2 Doomskar
 1 Dovin's Veto
-1 Dream Trawler
-1 Essence Scatter
-2 Essence Scatter
 3 Castle Ardenvale
 3 Saw It Coming
 4 Saw It Coming
 1 Thraben Inspector
 2 Thraben Inspector
-1 Glass Casket
 4 Thalia, Guardian of Thraben
 1 Shefet Dunes
 2 Shefet Dunes
@@ -96,14 +87,15 @@
 3 Reidane, God of the Worthy
 1 Emeria's Call
 3 Thraben Inspector
-1 Brightclimb Pathway
-1 Silverquill Silencer
+4 Glacial Fortress
 1 Kitesail Freebooter
 1 Godless Shrine
-2 Kitesail Freebooter
-2 Godless Shrine
-2 Silverquill Silencer
+1 Brightclimb Pathway
+1 Silverquill Silencer
 2 Brightclimb Pathway
+2 Kitesail Freebooter
+2 Silverquill Silencer
+2 Godless Shrine
 3 Brightclimb Pathway
 3 Godless Shrine
 4 Brightclimb Pathway
@@ -111,8 +103,8 @@
 1 Giant Killer
 3 Irrigated Farmland
 1 Blinkmoth Nexus
+1 Glass Casket
 2 Commit/Memory
-2 Gideon of the Trials
 1 Vanishing Verse
 1 Overgrown Tomb
 1 Blooming Marsh
@@ -122,9 +114,9 @@
 2 Vanishing Verse
 2 Overgrown Tomb
 2 Blooming Marsh
-2 Concealed Courtyard
 2 Thoughtseize
 2 Inquisition of Kozilek
+2 Concealed Courtyard
 3 Overgrown Tomb
 3 Thoughtseize
 4 Overgrown Tomb
@@ -134,19 +126,19 @@
 1 Adanto Vanguard
 1 Fauna Shaman
 1 Toski, Bearer of Secrets
-1 Lovestruck Beast
 1 Kazandu Mammoth
 1 Sunpetal Grove
+1 Lovestruck Beast
 2 Adanto Vanguard
 2 Seasoned Hallowblade
 2 Fauna Shaman
-2 Legion's Landing
 2 Lovestruck Beast
-3 Lovestruck Beast
+2 Legion's Landing
 3 Forest
+3 Lovestruck Beast
 4 Reidane, God of the Worthy
-4 Forest
 4 Lovestruck Beast
+4 Forest
 3 Shefet Dunes
 8 Plains
 9 Plains
@@ -173,15 +165,19 @@
 1 Legion Angel
 1 Sword of Body and Mind
 2 Sword of Body and Mind
+1 Absorb
 1 Mazemind Tome
 1 The Birth of Meletis
 1 Cast Out
 1 Omen of the Sea
 2 Mazemind Tome
+2 Absorb
 2 The Birth of Meletis
 2 Omen of the Sea
 3 Omen of the Sea
 4 Omen of the Sea
+5 Island
+6 Island
 7 Island
 1 Mystical Dispute
 1 Jace, Wielder of Mysteries
@@ -190,6 +186,7 @@
 1 Kira, Great Glass-Spinner
 1 Brazen Borrower
 2 Brazen Borrower
+2 Gideon of the Trials
 2 Breeding Pool
 1 Mana Tithe
 1 Scavenger Grounds
@@ -198,46 +195,21 @@
 1 Scattered Groves
 1 Scavenging Ooze
 2 Giant Killer
-2 Scattered Groves
 2 Scavenging Ooze
+2 Scattered Groves
 3 Giant Killer
-1 Censor
-1 Evolving Wilds
-2 Censor
-2 Evolving Wilds
-3 Absorb
-3 Censor
-4 Absorb
-4 Censor
-1 Lyra Dawnbringer
-1 Linvala, Keeper of Silence
-1 Lurrus of the Dream-Den
-1 Tyrite Sanctum
-2 Linvala, Keeper of Silence
-2 Sejiri Shelter
-2 Lurrus of the Dream-Den
-2 Shalai, Voice of Plenty
-2 Tyrite Sanctum
-2 Lyra Dawnbringer
-3 Lurrus of the Dream-Den
-3 Sejiri Shelter
-3 Mobilized District
-3 Tyrite Sanctum
-4 Shefet Dunes
-4 Sejiri Shelter
-4 Tyrite Sanctum
-4 Declaration in Stone
-4 Mobilized District
+3 Charming Prince
+4 Glasspool Mimic
 1 General Kudro of Drannith
 1 Ancient Ziggurat
 1 Unclaimed Territory
 2 General Kudro of Drannith
-2 Ancient Ziggurat
 2 Unclaimed Territory
+2 Ancient Ziggurat
 3 Ancient Ziggurat
 3 Kitesail Freebooter
-4 Ancient Ziggurat
 4 Kitesail Freebooter
+4 Ancient Ziggurat
 1 Alseid of Life's Bounty
 1 Vryn Wingmare
 1 Taranika, Akroan Veteran
@@ -245,12 +217,12 @@
 2 Vryn Wingmare
 2 Taranika, Akroan Veteran
 3 Alseid of Life's Bounty
-3 Vryn Wingmare
 3 Militia Bugler
+3 Vryn Wingmare
 3 Taranika, Akroan Veteran
 4 Vryn Wingmare
-4 Militia Bugler
 4 Deputy of Detention
+4 Militia Bugler
 1 Maul of the Skyclaves
 1 Archon of Absolution
 1 Authority of the Consuls
@@ -285,5 +257,22 @@
 18 Snow-Covered Plains
 19 Snow-Covered Plains
 20 Snow-Covered Plains
-3 Charming Prince
-4 Glasspool Mimic
+1 Lyra Dawnbringer
+1 Linvala, Keeper of Silence
+1 Lurrus of the Dream-Den
+1 Tyrite Sanctum
+2 Linvala, Keeper of Silence
+2 Sejiri Shelter
+2 Lurrus of the Dream-Den
+2 Shalai, Voice of Plenty
+2 Tyrite Sanctum
+2 Lyra Dawnbringer
+3 Lurrus of the Dream-Den
+3 Mobilized District
+3 Sejiri Shelter
+3 Tyrite Sanctum
+4 Shefet Dunes
+4 Tyrite Sanctum
+4 Sejiri Shelter
+4 Mobilized District
+4 Declaration in Stone

@@ -1,8 +1,8 @@
-1 Zirda, the Dawnwaker
-1 Rowan, Scholar of Sparks
+1 Ox of Agonas
+2 Negate
 1 Soul Sear
-1 Disdainful Stroke
 2 Ox of Agonas
+1 Disdainful Stroke
 1 Scorching Dragonfire
 2 Scorching Dragonfire
 1 Prismari Command
@@ -20,13 +20,13 @@
 1 Stern Dismissal
 2 Stern Dismissal
 3 Miscast
-3 Negate
-1 Phoenix of Ash
-1 Hushbringer
-1 Shark Typhoon
 4 Miscast
+1 Hushbringer
 4 Cinderclasm
 2 Hushbringer
+3 Negate
+1 Shark Typhoon
+1 Phoenix of Ash
 3 Scorching Dragonfire
 1 Crush the Weak
 1 The Akroan War
@@ -34,36 +34,32 @@
 2 The Akroan War
 1 Heated Debate
 2 Shark Typhoon
-2 Phoenix of Ash
 2 Soul Sear
-1 Mythos of Vadrok
-1 Draconic Intervention
-1 Elite Spellbinder
-2 Elite Spellbinder
 2 Soul-Guide Lantern
 1 Cubwarden
 3 Fire Prophecy
 1 Annul
-1 Ugin, the Spirit Dragon
+1 Draconic Intervention
+1 Elite Spellbinder
+1 Mythos of Vadrok
 1 Whirlwind Denial
+2 Elite Spellbinder
 1 Roiling Vortex
 2 Roiling Vortex
+3 Disdainful Stroke
 4 Negate
 1 Into the Roil
-3 Disdainful Stroke
 2 Heated Debate
 3 Heated Debate
 2 Crush the Weak
+2 Phoenix of Ash
 2 Prismari Command
 3 Shark Typhoon
-1 Elspeth Conquers Death
-1 Alrund's Epiphany
 4 Mystical Dispute
 3 Test of Talents
 4 Scorching Dragonfire
 1 Storm's Wrath
 3 Serpentine Curve
-1 Dream Trawler
 1 The Royal Scions
 2 The Royal Scions
 1 Essence Scatter
@@ -74,10 +70,6 @@
 1 Brazen Borrower
 1 Multiple Choice
 1 Glimpse of Freedom
-1 Ashiok's Erasure
-1 Double Vision
-1 Inspired Ultimatum
-1 Doomskar
 1 Mascot Exhibition
 1 Tormod's Crypt
 2 Tormod's Crypt
@@ -102,20 +94,23 @@
 3 The Akroan War
 1 Robber of the Rich
 2 Robber of the Rich
+1 Ashiok's Erasure
+1 Ugin, the Spirit Dragon
 1 Thassa's Intervention
 2 Annul
 1 Expressive Iteration
-1 Shatterskull Smashing
-1 Midnight Clock
-1 Shatter the Sky
-1 Shadowspear
 1 Spirit Summoning
 1 Mercurial Transformation
+1 Shadowspear
+1 Elspeth Conquers Death
+1 Alrund's Epiphany
 1 Mazemind Tome
 1 Neutralize
 1 Cancel
 1 Everquill Phoenix
+1 Midnight Clock
 2 Glimpse of Freedom
+2 Brazen Borrower
 1 Ominous Seas
 1 Jace, Mirror Mage
 2 Narfi, Betrayer King
@@ -124,15 +119,6 @@
 2 Thrill of Possibility
 1 Blitz of the Thunder-Raptor
 2 Blitz of the Thunder-Raptor
-1 Narset of the Ancient Way
-1 Mythos of Snapdax
-1 Mythos of Illuna
-2 Ugin, the Spirit Dragon
-2 Narset of the Ancient Way
-2 Mythos of Vadrok
-1 Archon of Sun's Grace
-2 Archon of Sun's Grace
-2 Brazen Borrower
 2 Environmental Sciences
 1 Graven Lore
 2 Draconic Intervention
@@ -181,6 +167,8 @@
 3 Goldspan Dragon
 2 Thassa's Intervention
 3 Thassa's Intervention
+1 Dream Trawler
+1 Doomskar
 4 Shark Typhoon
 1 Showdown of the Skalds
 2 Cubwarden
