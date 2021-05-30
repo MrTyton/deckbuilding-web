@@ -73,6 +73,7 @@
 3 Cloudpost
 4 Cloudpost
 4 Glimmerpost
+1 Veil of Summer
 1 Arcum's Astrolabe
 1 Savannah
 1 Utopia Sprawl
@@ -80,7 +81,6 @@
 1 Brainstorm
 1 Snow-Covered Plains
 1 Ponder
-1 Veil of Summer
 1 Ice-Fang Coatl
 1 Snow-Covered Island
 1 Prismatic Vista
@@ -88,18 +88,19 @@
 1 Force of Will
 1 Swords to Plowshares
 1 Plague Engineer
+2 Veil of Summer
 2 Snow-Covered Island
+2 Ponder
 2 Prismatic Vista
 2 Arcum's Astrolabe
 2 Utopia Sprawl
-2 Veil of Summer
-2 Ponder
 2 Force of Will
 2 Swords to Plowshares
 2 Ice-Fang Coatl
 2 Brainstorm
 2 Plague Engineer
 2 Force of Negation
+3 Ponder
 3 Prismatic Vista
 3 Arcum's Astrolabe
 3 Misty Rainforest
@@ -108,13 +109,12 @@
 3 Force of Will
 3 Swords to Plowshares
 3 Brainstorm
-3 Ponder
-4 Ice-Fang Coatl
+4 Ponder
 4 Arcum's Astrolabe
 4 Misty Rainforest
 4 Prismatic Vista
 4 Utopia Sprawl
-4 Ponder
+4 Ice-Fang Coatl
 4 Force of Will
 4 Brainstorm
 1 Elder Gargaroth
@@ -148,8 +148,8 @@
 3 Pithing Needle
 3 Show and Tell
 3 Expedition Map
-4 Pithing Needle
 4 Tropical Island
+4 Pithing Needle
 4 Show and Tell
 4 Expedition Map
 1 Volrath's Stronghold
@@ -162,8 +162,8 @@
 1 Llanowar Visionary
 3 Bayou
 4 Windswept Heath
-1 Zagoth Triome
 1 Cabal Pit
+1 Zagoth Triome
 2 Thespian's Stage
 2 Rishadan Port
 3 Rishadan Port
@@ -176,8 +176,8 @@
 2 Golos, Tireless Pilgrim
 2 Sorcerous Spyglass
 2 Elvish Rejuvenator
-3 Forest
 3 Golos, Tireless Pilgrim
+3 Forest
 3 Sorcerous Spyglass
 3 Elvish Rejuvenator
 4 Forest

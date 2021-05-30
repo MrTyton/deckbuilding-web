@@ -1,21 +1,26 @@
 1 Craterhoof Behemoth
 3 Castle Garenbrig
-4 Allosaurus Shepherd
-1 Skemfar Avenger
-4 Castle Garenbrig
 10 Forest
-1 Growing Rites of Itlimoc
 11 Forest
 12 Forest
 13 Forest
 14 Forest
 15 Forest
+4 Allosaurus Shepherd
+1 Growing Rites of Itlimoc
+4 Castle Garenbrig
+1 Skemfar Avenger
+16 Forest
 2 Skemfar Avenger
 1 Abomination of Llanowar
-16 Forest
-1 Marwyn, the Nurturer
 17 Forest
+1 Marwyn, the Nurturer
 1 Fierce Empath
+1 Elvish Visionary
+2 Elvish Visionary
+2 Marwyn, the Nurturer
+2 Growing Rites of Itlimoc
+2 Fierce Empath
 1 Snow-Covered Forest
 2 Snow-Covered Forest
 3 Snow-Covered Forest
@@ -32,78 +37,75 @@
 14 Snow-Covered Forest
 15 Snow-Covered Forest
 16 Snow-Covered Forest
-2 Marwyn, the Nurturer
-2 Fierce Empath
-1 Elvish Visionary
-2 Elvish Visionary
-2 Growing Rites of Itlimoc
 17 Snow-Covered Forest
 1 Faceless Haven
+3 Realmwalker
+18 Forest
 1 Llanowar Visionary
 2 Llanowar Visionary
-18 Forest
-2 Craterhoof Behemoth
-3 Realmwalker
 1 Finale of Devastation
 2 Finale of Devastation
-1 Tyvar Kell
 1 Turntimber Symbiosis
-1 Necroblossom Snarl
+1 Heroic Intervention
+2 Heroic Intervention
+3 Elvish Visionary
+2 Craterhoof Behemoth
+1 Tyvar Kell
 2 Faceless Haven
 18 Snow-Covered Forest
 1 Ochran Assassin
-1 Swamp
-1 Harald Unites the Elves
-2 Swamp
-2 Harald Unites the Elves
-3 Swamp
-4 Swamp
-5 Swamp
-6 Swamp
-7 Swamp
-8 Swamp
-9 Swamp
-1 Heroic Intervention
 1 Druid of the Cowl
-2 Heroic Intervention
+1 Swamp
 1 Lys Alana Huntmaster
 1 Canopy Tactician
 1 Poison-Tip Archer
+1 Harald Unites the Elves
 1 Thorn Lieutenant
 1 Elven Ambush
 1 Haunting Voyage
 1 The Great Henge
+2 Harald Unites the Elves
 2 Abomination of Llanowar
 2 Canopy Tactician
 2 Druid of the Cowl
 2 Poison-Tip Archer
 2 Elven Ambush
+2 Swamp
 2 Lys Alana Huntmaster
+3 Swamp
 3 Druid of the Cowl
+4 Swamp
 4 Druid of the Cowl
+5 Swamp
+6 Swamp
+7 Swamp
+8 Swamp
+9 Swamp
 10 Swamp
 11 Swamp
 12 Swamp
-1 Skemfar Shadowsage
-1 Return Upon the Tide
-1 Beast Whisperer
-2 Tyvar Kell
-2 Return Upon the Tide
-2 Beast Whisperer
-2 Skemfar Shadowsage
-3 Fierce Empath
-3 Marwyn, the Nurturer
-3 Tyvar Kell
-3 Craterhoof Behemoth
 1 Fauna Shaman
 2 Fauna Shaman
-2 Necroblossom Snarl
 1 Thoughtseize
 2 Thoughtseize
 1 Elderfang Disciple
 2 Elderfang Disciple
+2 Turntimber Symbiosis
+3 Growing Rites of Itlimoc
+3 Turntimber Symbiosis
 4 Realmwalker
+1 Paradise Druid
+1 Unclaimed Territory
+2 Paradise Druid
+2 Unclaimed Territory
+3 Unclaimed Territory
+3 Paradise Druid
+4 Unclaimed Territory
+1 Pelt Collector
+2 Pelt Collector
+4 Elvish Visionary
 1 Herald's Horn
+1 Necroblossom Snarl
 1 Adventurous Impulse
 1 Temple of Malady
 2 Herald's Horn
@@ -112,17 +114,17 @@
 3 Finale of Devastation
 19 Forest
 1 Blizzard Brawl
-1 Primal Might
+1 Questing Beast
 1 Snakeskin Veil
 1 Grafdigger's Cage
 1 Ram Through
-1 Questing Beast
 1 Yorvo, Lord of Garenbrig
+1 Primal Might
 2 Blizzard Brawl
-2 Primal Might
-2 Snakeskin Veil
 2 Questing Beast
+2 Snakeskin Veil
 2 Ram Through
+2 Primal Might
 3 Faceless Haven
 3 Blizzard Brawl
 3 Snakeskin Veil
@@ -131,10 +133,3 @@
 4 Blizzard Brawl
 19 Snow-Covered Forest
 20 Snow-Covered Forest
-1 Paradise Druid
-1 Unclaimed Territory
-2 Paradise Druid
-2 Unclaimed Territory
-3 Unclaimed Territory
-4 Unclaimed Territory
-3 Paradise Druid

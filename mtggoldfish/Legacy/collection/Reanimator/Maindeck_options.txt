@@ -1,8 +1,8 @@
 3 Badlands
-1 Children of Korlis
-1 Tendrils of Agony
 4 Thoughtseize
 3 Marsh Flats
+1 Children of Korlis
+1 Tendrils of Agony
 1 Verdant Catacombs
 1 Cabal Therapy
 4 Marsh Flats
@@ -16,12 +16,12 @@
 1 Sire of Insanity
 1 Simian Spirit Guide
 1 Mountain
+1 Inkwell Leviathan
+1 Underground Sea
 2 Chrome Mox
 1 Vilis, Broker of Blood
 2 Bayou
-1 Inkwell Leviathan
-1 Underground Sea
-3 Swamp
+1 Grave Titan
 1 Brainstorm
 1 Flooded Strand
 1 Island
@@ -38,6 +38,7 @@
 1 Putrid Imp
 2 Putrid Imp
 3 Putrid Imp
+3 Swamp
 4 Swamp
 5 Swamp
 6 Swamp
@@ -50,7 +51,6 @@
 13 Swamp
 14 Swamp
 1 Daze
-1 Grave Titan
 2 Daze
 3 Daze
 1 Careful Study
@@ -61,8 +61,8 @@
 4 Shallow Grave
 4 Ponder
 1 Archon of Valor's Reach
-1 Sphinx of the Steel Wind
 1 Ox of Agonas
+1 Sphinx of the Steel Wind
 1 Doom Whisperer
 2 Scrubland
 1 Goryo's Vengeance
@@ -70,13 +70,13 @@
 1 Chain of Smog
 1 Emrakul, the Aeons Torn
 2 Island
-2 Chain of Smog
 2 Goryo's Vengeance
+2 Chain of Smog
 2 Sedgemoor Witch
 3 Sedgemoor Witch
 1 Abrupt Decay
-1 Cabal Ritual
 1 Veil of Summer
+1 Cabal Ritual
 1 Wishclaw Talisman
 1 Lion's Eye Diamond
 1 Tropical Island
@@ -96,9 +96,9 @@
 3 Snow-Covered Swamp
 3 Duress
 4 Duress
+1 Godless Shrine
 1 Watery Grave
 1 Blood Crypt
-1 Godless Shrine
 1 Collective Brutality
 2 Watery Grave
 2 Blood Crypt

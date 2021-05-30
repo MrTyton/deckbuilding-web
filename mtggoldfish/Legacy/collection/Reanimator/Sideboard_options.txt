@@ -4,21 +4,21 @@
 1 Faerie Macabre
 2 Faerie Macabre
 1 Massacre
-1 Collective Brutality
-2 Collective Brutality
-3 Wear/Tear
-4 Wear/Tear
 1 Dawnglade Regent
 2 Massacre
-1 Magus of the Moon
+1 Collective Brutality
+2 Collective Brutality
+3 Faerie Macabre
 1 Xantid Swarm
 2 Xantid Swarm
-3 Faerie Macabre
 3 Xantid Swarm
-1 Grave Titan
+1 Magus of the Moon
 1 Assassin's Trophy
 2 Assassin's Trophy
+1 Grave Titan
 1 Coffin Purge
+3 Wear/Tear
+4 Wear/Tear
 1 Pithing Needle
 2 Shenanigans
 1 Lake of the Dead
@@ -47,12 +47,20 @@
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
 3 Assassin's Trophy
-2 Abrupt Decay
-1 Ashen Rider
-1 Echoing Truth
 1 Surgical Extraction
 1 Show and Tell
 2 Show and Tell
+2 Abrupt Decay
+3 Show and Tell
+2 Surgical Extraction
+1 Liliana, the Last Hope
+1 Bitterblossom
+1 Cryptbreaker
+2 Liliana, the Last Hope
+2 Cryptbreaker
+1 Echoing Truth
+1 Ashen Rider
+1 Abrade
 2 Pithing Needle
 3 Duress
 1 Veil of Summer
@@ -61,9 +69,7 @@
 1 Flusterstorm
 1 Chain of Vapor
 2 Flusterstorm
-1 Abrade
-3 Show and Tell
-2 Surgical Extraction
+1 Chandra, Awakened Inferno
 1 Sire of Insanity
 1 Thoughtseize
 1 Reanimate
@@ -77,31 +83,13 @@
 1 Baleful Strix
 2 Fatal Push
 2 Baleful Strix
-1 Liliana, the Last Hope
-1 Bitterblossom
-1 Cryptbreaker
-1 Chandra, Awakened Inferno
-2 Liliana, the Last Hope
-2 Cryptbreaker
+1 Rip Apart
+2 Rip Apart
+3 Rip Apart
 1 Red Elemental Blast
 1 Return to Nature
 2 Red Elemental Blast
 3 Abrupt Decay
-3 Collective Brutality
-1 Hunted Horror
-1 Phyrexian Dreadnought
-1 Fracture
-1 Torpor Orb
-1 Hushbringer
-2 Hunted Horror
-2 Phyrexian Dreadnought
-2 Torpor Orb
-2 Fracture
-2 Hushbringer
-3 Torpor Orb
-3 Phyrexian Dreadnought
-4 Torpor Orb
-4 Phyrexian Dreadnought
 1 Island
 1 Dream Trawler
 1 Grim Tutor
@@ -116,3 +104,17 @@
 4 Assassin's Trophy
 3 Stronghold Gambit
 4 Stronghold Gambit
+1 Fracture
+1 Phyrexian Dreadnought
+1 Torpor Orb
+1 Hushbringer
+1 Hunted Horror
+2 Phyrexian Dreadnought
+2 Fracture
+2 Torpor Orb
+2 Hushbringer
+2 Hunted Horror
+3 Phyrexian Dreadnought
+3 Torpor Orb
+4 Phyrexian Dreadnought
+4 Torpor Orb

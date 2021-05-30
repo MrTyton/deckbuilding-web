@@ -45,20 +45,20 @@
 1 Opt
 2 Opt
 3 Opt
-2 Breeding Pool
-4 Dig Through Time
-2 Heartless Act
 1 Barkchannel Pathway
 2 Barkchannel Pathway
 3 Fae of Wishes
 4 Fae of Wishes
+2 Breeding Pool
+4 Dig Through Time
+2 Heartless Act
 1 Swamp
-1 Satyr Wayfinder
+1 Blooming Marsh
+1 Darkbore Pathway
 1 Haunted Dead
 1 Creeping Chill
 1 Grisly Salvage
-1 Blooming Marsh
-1 Darkbore Pathway
+1 Satyr Wayfinder
 1 Driven/Despair
 1 Witherbloom Command
 1 Narcomoeba
@@ -70,11 +70,11 @@
 1 Prized Amalgam
 1 Gather the Pack
 2 Witherbloom Command
-2 Darkbore Pathway
-2 Satyr Wayfinder
+2 Blooming Marsh
 2 Creeping Chill
 2 Grisly Salvage
-2 Blooming Marsh
+2 Satyr Wayfinder
+2 Darkbore Pathway
 2 Narcomoeba
 2 Forest
 2 Silversmote Ghoul
@@ -84,11 +84,11 @@
 2 Clearwater Pathway
 2 Gather the Pack
 3 Clearwater Pathway
-3 Darkbore Pathway
-3 Witherbloom Command
 3 Overgrown Tomb
+3 Witherbloom Command
 3 Creeping Chill
 3 Satyr Wayfinder
+3 Darkbore Pathway
 3 Gather the Pack
 3 Prized Amalgam
 3 Silversmote Ghoul
@@ -125,6 +125,7 @@
 2 Discontinuity
 1 Sheltered Thicket
 4 Temple of Mystery
+4 Bala Ged Recovery
 1 Hinterland Harbor
 1 Mountain
 2 Swamp
@@ -146,7 +147,6 @@
 3 Zagoth Triome
 4 Opt
 4 Jace, Vryn's Prodigy
-4 Bala Ged Recovery
 1 Blightstep Pathway
 1 Soul-Guide Lantern
 1 Mystical Dispute
