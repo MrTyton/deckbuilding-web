@@ -122,9 +122,8 @@
 2 Evolving Wilds
 2 Sacred Foundry
 2 Prophetic Prism
-2 Thirst for Meaning
-2 Solemn Simulacrum
 2 Godless Shrine
+2 Solemn Simulacrum
 2 Klothys, God of Destiny
 2 Treacherous Blessing
 2 Wrath of God
@@ -134,6 +133,7 @@
 2 Migration Path
 2 Smothering Tithe
 2 Mastermind's Acquisition
+2 Thirst for Meaning
 2 Sanctum of Fruitful Harvest
 2 Archon of Sun's Grace
 2 Steam Vents
@@ -151,6 +151,7 @@
 2 Riverglide Pathway
 2 Cragcrown Pathway
 2 Dryad of the Ilysian Grove
+3 Treacherous Blessing
 3 Branchloft Pathway
 3 Stomping Ground
 3 Savai Triome
@@ -160,10 +161,8 @@
 3 Watery Grave
 3 Prophetic Prism
 3 Mountain
-3 Thirst for Meaning
 3 Sacred Foundry
 3 Swamp
-3 Evolving Wilds
 3 Assassin's Trophy
 3 Wrath of God
 3 Deafening Clarion
@@ -181,8 +180,9 @@
 3 Island
 3 Mastermind's Acquisition
 3 Sanctum of Fruitful Harvest
+3 Evolving Wilds
+3 Thirst for Meaning
 3 Steam Vents
-3 Treacherous Blessing
 3 Sanctum of All
 4 Overgrown Tomb
 4 Hallowed Fountain
@@ -192,10 +192,8 @@
 4 Stomping Ground
 4 Sacred Foundry
 4 Plains
-4 Thirst for Meaning
-4 Cultivate
-4 Evolving Wilds
 4 Treacherous Blessing
+4 Cultivate
 4 Watery Grave
 4 Deafening Clarion
 4 Prophetic Prism
@@ -203,9 +201,11 @@
 4 Migration Path
 4 Gilded Goose
 4 Island
+4 Evolving Wilds
 4 Dryad of the Ilysian Grove
 4 Steam Vents
 4 Breeding Pool
+4 Thirst for Meaning
 5 Plains
 5 Forest
 5 Island
@@ -253,9 +253,9 @@
 2 Sunpetal Grove
 3 Oath of Kaya
 3 Skyclave Apparition
-3 In Search of Greatness
 3 Elspeth's Nightmare
 3 Glacial Fortress
+3 In Search of Greatness
 3 Trial of Ambition
 3 Binding the Old Gods
 3 Calix, Destiny's Hand
@@ -290,11 +290,11 @@
 2 Honden of Night's Reach
 2 Runed Halo
 2 Sanctum of Calm Waters
+3 Archon of Sun's Grace
 3 Yorion, Sky Nomad
 3 The Birth of Meletis
 3 Solemn Simulacrum
 3 Omen of the Hunt
-3 Archon of Sun's Grace
 4 Mirari's Wake
 1 Shalai, Voice of Plenty
 1 Luminous Broodmoth

@@ -4,8 +4,8 @@
 2 Rip Apart
 1 Fire Prophecy
 2 Fire Prophecy
-1 Test of Talents
 3 Ox of Agonas
+1 Test of Talents
 1 Soul-Guide Lantern
 2 Disdainful Stroke
 3 Mystical Dispute
@@ -75,7 +75,6 @@
 1 Essence Scatter
 2 Essence Scatter
 1 Glimpse of Freedom
-1 Neutralize
 1 Shadowspear
 1 Spirit Summoning
 1 Introduction to Prophecy
@@ -94,6 +93,9 @@
 1 Draconic Intervention
 1 Ashiok's Erasure
 2 Draconic Intervention
+1 Glass Casket
+2 Glass Casket
+3 Glass Casket
 1 Erebos's Intervention
 1 Duress
 1 Crippling Fear
@@ -103,9 +105,7 @@
 2 Erebos's Intervention
 2 Bloodchief's Thirst
 3 Duress
-1 Glass Casket
-2 Glass Casket
-3 Glass Casket
+1 Neutralize
 1 Tormod's Crypt
 1 Cancel
 2 Tormod's Crypt
@@ -123,8 +123,8 @@
 2 Thassa's Intervention
 3 Thassa's Intervention
 1 Ugin, the Spirit Dragon
-1 Doomskar
 1 Dream Trawler
+1 Doomskar
 4 Shark Typhoon
 4 Disdainful Stroke
 1 Showdown of the Skalds
@@ -146,10 +146,3 @@
 3 Improbable Alliance
 4 Ox of Agonas
 4 Improbable Alliance
-1 Shock
-1 Stolen by the Fae
-1 Convolute
-2 Shock
-3 Shock
-4 Shock
-2 Stolen by the Fae

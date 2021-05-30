@@ -1,7 +1,6 @@
 2 Goldspan Dragon
 3 Goldspan Dragon
 4 Goldspan Dragon
-1 Fabled Passage
 1 Needleverge Pathway
 1 Hengegate Pathway
 2 Hengegate Pathway
@@ -11,6 +10,7 @@
 4 Needleverge Pathway
 1 Raugrin Triome
 2 Raugrin Triome
+1 Fabled Passage
 4 Unsubstantiate
 4 Hengegate Pathway
 1 Seize the Spoils
@@ -47,9 +47,9 @@
 2 Defiant Strike
 1 Mystical Dispute
 1 Phoenix of Ash
-6 Mountain
 1 Ox of Agonas
 3 Fabled Passage
+6 Mountain
 1 Search for Glory
 1 Sejiri Shelter
 2 Sejiri Shelter
@@ -59,21 +59,21 @@
 2 Phoenix of Ash
 3 Defiant Strike
 7 Mountain
-3 Snow-Covered Island
-1 Blitz of the Thunder-Raptor
-1 Experimental Overload
-2 Experimental Overload
-2 Blitz of the Thunder-Raptor
-3 Blitz of the Thunder-Raptor
-4 Blitz of the Thunder-Raptor
-3 Experimental Overload
-4 Experimental Overload
 2 Showdown of the Skalds
+3 Snow-Covered Island
 4 Raugrin Triome
 1 Snow-Covered Plains
 1 Open the Omenpaths
 1 Pollywog Symbiote
 2 Pollywog Symbiote
+1 Blitz of the Thunder-Raptor
+1 Experimental Overload
+2 Blitz of the Thunder-Raptor
+2 Experimental Overload
+3 Experimental Overload
+3 Blitz of the Thunder-Raptor
+4 Experimental Overload
+4 Blitz of the Thunder-Raptor
 1 Thrill of Possibility
 2 Thrill of Possibility
 1 Kazuul's Fury
@@ -94,7 +94,6 @@
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
 1 Frostboil Snarl
-8 Island
 1 Skyclave Cleric
 2 Birgi, God of Storytelling
 1 Purphoros's Intervention
@@ -107,6 +106,7 @@
 2 Cubwarden
 2 Frostboil Snarl
 3 Frostboil Snarl
+8 Island
 1 Shatterskull Smashing
 1 Sea-Dasher Octopus
 4 Fabled Passage
@@ -116,51 +116,44 @@
 3 Frost Bite
 4 Frostboil Snarl
 2 Mystical Dispute
-1 Stern Dismissal
 1 Barrin, Tolarian Archmage
 2 Sea-Dasher Octopus
 3 Sea-Dasher Octopus
-1 Negate
-2 Negate
 1 Behold the Multiverse
 1 Saw It Coming
 2 Behold the Multiverse
 2 Saw It Coming
 4 Frost Bite
-1 Magma Opus
-2 Magma Opus
-3 Magma Opus
 1 Serpentine Curve
 2 Serpentine Curve
 3 Serpentine Curve
+1 Magma Opus
+2 Magma Opus
+3 Magma Opus
 2 Infuriate
 3 Infuriate
 5 Snow-Covered Mountain
+1 Negate
+2 Negate
 8 Snow-Covered Island
 2 Shatterskull Smashing
-1 Shark Typhoon
 3 Saw It Coming
 1 Disdainful Stroke
 1 Faceless Haven
 2 Faceless Haven
-2 Stern Dismissal
-1 Frantic Inventory
-2 Frantic Inventory
-8 Mountain
 1 Jwari Disruption
 1 Galazeth Prismari
 2 Galazeth Prismari
-1 Swiftwater Cliffs
-2 Swiftwater Cliffs
-3 Swiftwater Cliffs
-4 Swiftwater Cliffs
+8 Mountain
 2 Miscast
 1 Silundi Vision
 2 Silundi Vision
 4 Seize the Spoils
 4 Pollywog Symbiote
 3 Open the Omenpaths
+1 Stern Dismissal
 1 Alrund's Epiphany
+1 Shark Typhoon
 2 Shark Typhoon
 1 Lofty Denial
 2 Lofty Denial
@@ -169,32 +162,26 @@
 2 Into the Roil
 4 Infuriate
 3 Shatterskull Smashing
-1 Divide by Zero
 1 Temple of Triumph
 1 Temple of Enlightenment
 6 Snow-Covered Mountain
+1 Divide by Zero
+1 Frantic Inventory
+2 Frantic Inventory
 3 Frantic Inventory
 4 Frantic Inventory
 9 Island
 10 Island
-1 Embercleave
-1 Storm's Wrath
-1 Fling
-1 Teach by Example
-2 Fling
-2 Teach by Example
-1 Test of Talents
 9 Mountain
 1 Valakut Awakening
 3 Galazeth Prismari
 4 Magma Opus
+1 Test of Talents
 1 Ugin, the Spirit Dragon
 1 Mazemind Tome
 2 Mazemind Tome
 2 Jwari Disruption
 3 Mazemind Tome
-1 Rowan, Scholar of Sparks
-1 Double Vision
 2 Disdainful Stroke
 1 Essence Scatter
 2 Alrund's Epiphany
@@ -202,23 +189,8 @@
 3 Behold the Multiverse
 4 Behold the Multiverse
 4 Saw It Coming
-1 Rielle, the Everwise
-1 Temple of Mystery
-1 Temple of Abandon
-1 Genesis Ultimatum
-1 Thornwood Falls
-1 Eureka Moment
-1 Cragcrown Pathway
-1 Thirst for Meaning
-2 Rielle, the Everwise
-2 Rowan, Scholar of Sparks
-2 Thirst for Meaning
-2 Eureka Moment
-2 Temple of Mystery
-2 Thornwood Falls
-3 Thirst for Meaning
-4 Thirst for Meaning
 2 Snow-Covered Plains
+1 Embercleave
 1 Roil Eruption
 2 Plains
 2 Embercleave
@@ -248,9 +220,9 @@
 3 Temple of Triumph
 1 Emeria's Call
 1 Midnight Clock
+1 Doomskar
 1 Dream Trawler
 1 Glass Casket
-1 Doomskar
 1 Draconic Intervention
 1 Narset of the Ancient Way
 2 Emeria's Call
@@ -289,9 +261,14 @@
 3 Clearwater Pathway
 3 Blightstep Pathway
 4 Heartless Act
+1 Storm's Wrath
+1 Fling
+1 Teach by Example
 2 Test of Talents
 2 Storm's Wrath
 2 Divide by Zero
+2 Fling
+2 Teach by Example
 3 Fling
 3 Storm's Wrath
 3 Teach by Example
@@ -310,20 +287,7 @@
 4 Robber of the Rich
 4 Fervent Champion
 4 Of One Mind
-1 Improbable Alliance
-1 Gust of Wind
-1 Faerie Vandal
-1 Field Research
-2 Improbable Alliance
-2 Gust of Wind
-2 Field Research
-2 Faerie Vandal
-3 Improbable Alliance
-3 Faerie Vandal
-3 Gust of Wind
-3 Field Research
-4 Improbable Alliance
-4 Faerie Vandal
+4 Purphoros's Intervention
 1 Solemn Simulacrum
 1 Crawling Barrens
 1 Irencrag Feat
@@ -353,36 +317,35 @@
 4 Galazeth Prismari
 4 Torrent Sculptor
 4 Open the Omenpaths
-4 Purphoros's Intervention
-1 Solve the Equation
-1 Shadowspear
-1 Anticipate
-1 Archmage Emeritus
-1 Evolving Wilds
-1 Depart the Realm
-2 Solve the Equation
-2 Anticipate
-2 Evolving Wilds
-2 Double Vision
-2 Depart the Realm
-3 Stern Dismissal
-3 Anticipate
-3 Double Vision
-3 Evolving Wilds
-3 Depart the Realm
-4 Stern Dismissal
-4 Depart the Realm
-4 Evolving Wilds
+1 Improbable Alliance
+1 Swiftwater Cliffs
+1 Faerie Vandal
+1 Gust of Wind
+1 Field Research
+2 Improbable Alliance
+2 Gust of Wind
+2 Field Research
+2 Swiftwater Cliffs
+2 Faerie Vandal
+3 Improbable Alliance
+3 Swiftwater Cliffs
+3 Faerie Vandal
+3 Gust of Wind
+3 Field Research
+4 Improbable Alliance
+4 Faerie Vandal
+4 Swiftwater Cliffs
 1 Clever Lumimancer
+2 Stern Dismissal
 2 Clever Lumimancer
 3 Clever Lumimancer
 4 Clever Lumimancer
 1 Mystic Sanctuary
 1 Escape Velocity
-1 Rimrock Knight
 1 Heartfire Immolator
-2 Heartfire Immolator
+1 Rimrock Knight
 2 Escape Velocity
+2 Heartfire Immolator
 2 Rimrock Knight
 3 Rimrock Knight
 3 Heartfire Immolator
