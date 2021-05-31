@@ -46,8 +46,8 @@
 2 Snakeskin Veil
 1 Grove of the Burnwillows
 1 Cragcrown Pathway
-2 Grove of the Burnwillows
 2 Cragcrown Pathway
+2 Grove of the Burnwillows
 3 Grove of the Burnwillows
 4 Grove of the Burnwillows
 3 Lightning Bolt
@@ -78,12 +78,12 @@
 2 Wooded Foothills
 1 Utopia Sprawl
 1 Windswept Heath
-2 Utopia Sprawl
 2 Windswept Heath
-3 Utopia Sprawl
+2 Utopia Sprawl
 3 Windswept Heath
-4 Utopia Sprawl
+3 Utopia Sprawl
 4 Windswept Heath
+4 Utopia Sprawl
 1 Winding Constrictor
 2 Nurturing Peatland
 2 Winding Constrictor
@@ -94,54 +94,52 @@
 1 Springleaf Drum
 2 Springleaf Drum
 1 Sorcerous Spyglass
-1 Kessig Wolf Run
 1 Inscription of Abundance
+1 Kessig Wolf Run
 1 Snow-Covered Mountain
 2 Kazuul's Fury
 1 Spire of Industry
 2 Spire of Industry
 3 Spire of Industry
 3 Metallic Mimic
-2 Horizon Canopy
-4 Razorverge Thicket
-2 Plains
-3 Path to Exile
-4 Branchloft Pathway
-3 Snakeskin Veil
-4 Snakeskin Veil
+4 Cavern of Souls
 1 Thoughtseize
 1 Castle Locthwain
-2 Swamp
 2 Thoughtseize
-3 Thoughtseize
+2 Swamp
 3 Overgrown Tomb
+3 Thoughtseize
 4 Thoughtseize
-1 Copperline Gorge
-1 Stonecoil Serpent
-1 Galvanic Blast
-2 Copperline Gorge
-2 Stonecoil Serpent
-3 Copperline Gorge
-3 Stonecoil Serpent
-4 Stonecoil Serpent
-4 Lightning Bolt
-4 Copperline Gorge
+3 Snakeskin Veil
+4 Snakeskin Veil
 1 Sparring Construct
 2 Sparring Construct
 3 Sparring Construct
 4 Sparring Construct
-1 Island
+2 Horizon Canopy
+4 Razorverge Thicket
+1 Stonecoil Serpent
+1 Galvanic Blast
+1 Copperline Gorge
+2 Stonecoil Serpent
+2 Copperline Gorge
+3 Copperline Gorge
+3 Stonecoil Serpent
+4 Stonecoil Serpent
+4 Copperline Gorge
+4 Lightning Bolt
 1 Botanical Sanctum
-1 Yavimaya Coast
+1 Island
 1 Emry, Lurker of the Loch
+1 Yavimaya Coast
 1 Barkchannel Pathway
+2 Botanical Sanctum
 2 Island
 2 Spellskite
 2 Emry, Lurker of the Loch
 2 Barkchannel Pathway
-2 Botanical Sanctum
-3 Springleaf Drum
 3 Barkchannel Pathway
+3 Springleaf Drum
 3 Emry, Lurker of the Loch
 4 Barkchannel Pathway
 4 Emry, Lurker of the Loch
@@ -153,9 +151,11 @@
 1 Prismatic Vista
 1 Verdant Catacombs
 2 Verdant Catacombs
-3 Verdant Catacombs
 3 Fatal Push
+3 Verdant Catacombs
 4 Fatal Push
 4 Verdant Catacombs
 4 Animation Module
-4 Cavern of Souls
+2 Plains
+3 Path to Exile
+4 Branchloft Pathway

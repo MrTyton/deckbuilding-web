@@ -1,5 +1,5 @@
-4 Wasteland
 2 Snow-Covered Forest
+4 Wasteland
 1 Sylvan Library
 1 Scavenging Ooze
 2 Misty Rainforest
@@ -15,14 +15,19 @@
 2 Sylvan Library
 2 Ramunap Excavator
 1 Waterlogged Grove
+2 Field of the Dead
 1 Titania, Protector of Argoth
 1 Elvish Reclaimer
-2 Field of the Dead
 1 Oko, Thief of Crowns
 2 Oko, Thief of Crowns
 1 Ghost Quarter
 4 Mox Diamond
+1 Trinisphere
+2 Trinisphere
+3 Trinisphere
+1 Vesuva
 1 Thespian's Stage
+3 Primeval Titan
 1 Dark Depths
 2 Life from the Loam
 1 Blast Zone
@@ -35,9 +40,8 @@
 2 Crop Rotation
 3 Crop Rotation
 4 Crop Rotation
-1 Trinisphere
-2 Trinisphere
-3 Trinisphere
+4 Windswept Heath
+4 Primeval Titan
 1 The Tabernacle at Pendrell Vale
 1 Maze of Ith
 1 Rishadan Port
@@ -48,20 +52,20 @@
 3 Exploration
 4 Life from the Loam
 4 Exploration
-1 Vesuva
-3 Primeval Titan
-4 Primeval Titan
 3 Sylvan Library
+1 Assassin's Trophy
 1 Leovold, Emissary of Trest
-1 Snow-Covered Swamp
 1 Underground Sea
+1 Snow-Covered Swamp
+1 Savannah
+1 Snow-Covered Plains
 1 Thought-Knot Seer
 2 Thought-Knot Seer
 3 Thought-Knot Seer
 3 Tropical Island
-1 Emrakul, the Aeons Torn
 1 Ulamog, the Ceaseless Hunger
 1 Kozilek, Butcher of Truth
+1 Emrakul, the Aeons Torn
 1 Glimmerpost
 1 Cloudpost
 1 Eye of Ugin
@@ -74,13 +78,11 @@
 4 Cloudpost
 4 Glimmerpost
 1 Veil of Summer
+1 Ponder
+1 Brainstorm
 1 Arcum's Astrolabe
-1 Savannah
 1 Utopia Sprawl
 1 Anafenza, the Foremost
-1 Brainstorm
-1 Snow-Covered Plains
-1 Ponder
 1 Ice-Fang Coatl
 1 Snow-Covered Island
 1 Prismatic Vista
@@ -88,58 +90,67 @@
 1 Force of Will
 1 Swords to Plowshares
 1 Plague Engineer
-2 Veil of Summer
 2 Snow-Covered Island
+2 Veil of Summer
 2 Ponder
+2 Brainstorm
 2 Prismatic Vista
 2 Arcum's Astrolabe
 2 Utopia Sprawl
 2 Force of Will
 2 Swords to Plowshares
 2 Ice-Fang Coatl
-2 Brainstorm
 2 Plague Engineer
 2 Force of Negation
 3 Ponder
+3 Brainstorm
 3 Prismatic Vista
-3 Arcum's Astrolabe
 3 Misty Rainforest
+3 Arcum's Astrolabe
 3 Utopia Sprawl
-3 Ice-Fang Coatl
 3 Force of Will
 3 Swords to Plowshares
-3 Brainstorm
+3 Ice-Fang Coatl
 4 Ponder
-4 Arcum's Astrolabe
+4 Brainstorm
 4 Misty Rainforest
+4 Arcum's Astrolabe
 4 Prismatic Vista
 4 Utopia Sprawl
 4 Ice-Fang Coatl
 4 Force of Will
-4 Brainstorm
 1 Elder Gargaroth
 2 Shifting Ceratops
-1 City of Traitors
 1 Overgrown Tomb
-2 City of Traitors
+1 City of Traitors
 2 Tireless Tracker
+2 City of Traitors
+1 Scrubland
+1 Skyclave Apparition
+1 Plains
+2 Assassin's Trophy
+2 Skyclave Apparition
+2 Savannah
+3 Skyclave Apparition
 3 Ramunap Excavator
+1 Llanowar Visionary
+3 Bayou
 1 Breeding Pool
 1 Manabond
 2 Waterlogged Grove
 2 Ghost Quarter
-3 Ghost Quarter
 3 Field of the Dead
+3 Ghost Quarter
 4 Uro, Titan of Nature's Wrath
 1 Trinket Mage
+1 Candelabra of Tawnos
 1 Glacial Chasm
 1 Relic of Progenitus
 1 Walking Ballista
-1 Pithing Needle
 1 Show and Tell
+1 Pithing Needle
 1 Island
 1 Expedition Map
-1 Candelabra of Tawnos
 2 Show and Tell
 2 Pithing Needle
 2 Walking Ballista
@@ -148,22 +159,18 @@
 3 Pithing Needle
 3 Show and Tell
 3 Expedition Map
-4 Tropical Island
 4 Pithing Needle
+4 Tropical Island
 4 Show and Tell
 4 Expedition Map
 1 Volrath's Stronghold
-1 Assassin's Trophy
 1 Polukranos, Unchained
 1 Meren of Clan Nel Toth
 3 Verdant Catacombs
 4 Verdant Catacombs
 4 Sylvan Library
-1 Llanowar Visionary
-3 Bayou
-4 Windswept Heath
-1 Cabal Pit
 1 Zagoth Triome
+1 Cabal Pit
 2 Thespian's Stage
 2 Rishadan Port
 3 Rishadan Port
@@ -180,11 +187,11 @@
 3 Forest
 3 Sorcerous Spyglass
 3 Elvish Rejuvenator
+4 Vesuva
+4 Golos, Tireless Pilgrim
 4 Forest
 4 Sorcerous Spyglass
 4 Thought-Knot Seer
-4 Vesuva
-4 Elvish Rejuvenator
-4 Golos, Tireless Pilgrim
 5 Forest
 6 Forest
+4 Elvish Rejuvenator

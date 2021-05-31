@@ -1,5 +1,5 @@
-1 Snow-Covered Island
 1 Snow-Covered Swamp
+1 Snow-Covered Island
 1 Scalding Tarn
 2 Scalding Tarn
 1 Badlands
@@ -10,24 +10,24 @@
 1 Anje's Ravager
 1 Taiga
 1 Street Wraith
-1 Lion's Eye Diamond
 1 Fiery Islet
+1 Vengevine
 1 Hollow One
 1 Faithless Looting
+1 Lion's Eye Diamond
 1 Putrid Imp
+1 Asylum Visitor
 1 Careful Study
 1 Basking Rootwalla
 1 Fiery Temper
-1 Vengevine
 1 Ox of Agonas
-1 Asylum Visitor
 2 Anje's Ravager
 2 Street Wraith
 2 Badlands
 2 Hollow One
 2 Lion's Eye Diamond
-2 Faithless Looting
 2 Vengevine
+2 Faithless Looting
 2 Careful Study
 2 Putrid Imp
 2 Basking Rootwalla
@@ -60,49 +60,49 @@
 3 Lightning Bolt
 4 Lightning Bolt
 1 Snow-Covered Forest
-1 Prismatic Vista
-1 Uro, Titan of Nature's Wrath
 1 Abundant Growth
 1 Force of Negation
-1 Abrupt Decay
-1 Force of Will
-1 Ice-Fang Coatl
+1 Prismatic Vista
 1 Sylvan Library
-2 Sylvan Library
-2 Prismatic Vista
+1 Abrupt Decay
+1 Ice-Fang Coatl
+1 Uro, Titan of Nature's Wrath
+1 Force of Will
 2 Abundant Growth
-2 Uro, Titan of Nature's Wrath
+2 Prismatic Vista
 2 Force of Negation
+2 Sylvan Library
 2 Snow-Covered Forest
-2 Snow-Covered Island
 2 Abrupt Decay
+2 Snow-Covered Island
 2 Force of Will
 2 Ice-Fang Coatl
+2 Uro, Titan of Nature's Wrath
 3 Abundant Growth
 3 Prismatic Vista
 3 Uro, Titan of Nature's Wrath
 3 Force of Will
 3 Ice-Fang Coatl
 3 Abrupt Decay
-4 Ice-Fang Coatl
 4 Prismatic Vista
+4 Ice-Fang Coatl
 4 Force of Will
 2 Taiga
 1 Young Pyromancer
-1 Inquisition of Kozilek
 1 Dark Confidant
+1 Inquisition of Kozilek
 2 Young Pyromancer
 2 Volcanic Island
-2 Dark Confidant
 2 Inquisition of Kozilek
-3 Dark Confidant
+2 Dark Confidant
 3 Young Pyromancer
+3 Dark Confidant
 4 Young Pyromancer
 1 Kolaghan's Command
-1 Snapcaster Mage
 1 Abundant Harvest
-2 Kolaghan's Command
+1 Snapcaster Mage
 2 Snapcaster Mage
+2 Kolaghan's Command
 2 Abundant Harvest
 3 Abundant Harvest
 4 Abundant Harvest
@@ -121,8 +121,8 @@
 3 Elvish Spirit Guide
 1 Leovold, Emissary of Trest
 1 Brazen Borrower
-2 Brazen Borrower
 2 Leovold, Emissary of Trest
+2 Brazen Borrower
 4 Uro, Titan of Nature's Wrath
 4 Abundant Growth
 1 Wishclaw Talisman
