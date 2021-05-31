@@ -1,31 +1,32 @@
-1 Shark Typhoon
-3 Force of Negation
-1 Logic Knot
-1 Blast Zone
+3 Celestial Colonnade
 4 Snapcaster Mage
-1 Behold the Multiverse
+3 Force of Negation
+1 Shark Typhoon
+1 Blast Zone
 1 Oust
-1 Prairie Stream
 1 Snow-Covered Island
 1 Snow-Covered Plains
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
-1 Winds of Abandon
-1 Vendilion Clique
-5 Snow-Covered Island
-1 Mystic Gate
+1 Behold the Multiverse
+1 Prairie Stream
 2 Polluted Delta
+5 Snow-Covered Island
+1 Vendilion Clique
+1 Mystic Gate
 1 Castle Ardenvale
+2 Snow-Covered Plains
+1 Winds of Abandon
 2 Shark Typhoon
+6 Snow-Covered Island
 1 Misty Rainforest
 2 Misty Rainforest
-6 Snow-Covered Island
-2 Snow-Covered Plains
 1 Test of Talents
 1 Sphinx's Revelation
 1 Remand
 2 Castle Vantress
+4 Cryptic Command
 1 Scalding Tarn
 2 Scalding Tarn
 1 Jace, Architect of Thought
@@ -39,7 +40,10 @@
 1 Spell Queller
 2 Spell Queller
 3 Jace, the Mind Sculptor
-4 Cryptic Command
+3 Teferi, Hero of Dominaria
+3 Glacial Fortress
+2 Logic Knot
+4 Archmage's Charm
 1 Narset, Parter of Veils
 1 Search for Azcanta
 1 Gideon Jura
@@ -47,13 +51,21 @@
 1 Wall of Omens
 2 Wall of Omens
 3 Remand
+1 Prismatic Vista
+1 Hieroglyphic Illumination
+1 Condemn
+1 Seachrome Coast
+2 Seachrome Coast
+2 Prismatic Vista
+2 Hieroglyphic Illumination
+3 Seachrome Coast
+4 Glacial Fortress
 1 Sword of Fire and Ice
 1 Jace, Vryn's Prodigy
 3 Polluted Delta
 3 Spell Queller
 1 Delay
 3 Hallowed Fountain
-3 Teferi, Hero of Dominaria
 2 Mystic Gate
 1 Omen of the Sea
 2 Omen of the Sea
@@ -61,9 +73,6 @@
 2 Terminus
 3 Terminus
 4 Terminus
-3 Glacial Fortress
-2 Logic Knot
-4 Archmage's Charm
 1 Spell Pierce
 1 Peek
 2 Peek
@@ -90,17 +99,8 @@
 2 Delay
 3 Delay
 4 Delay
+7 Island
+8 Island
 1 Teferi, Master of Time
 1 Brazen Borrower
 4 Polluted Delta
-1 Prismatic Vista
-1 Condemn
-1 Hieroglyphic Illumination
-1 Seachrome Coast
-2 Seachrome Coast
-2 Prismatic Vista
-2 Hieroglyphic Illumination
-3 Seachrome Coast
-4 Glacial Fortress
-8 Island
-7 Island

@@ -1,5 +1,6 @@
-1 Righteous Valkyrie
 1 Resplendent Angel
+1 Bishop of Wings
+1 Righteous Valkyrie
 2 Resplendent Angel
 2 Bishop of Wings
 2 Righteous Valkyrie
@@ -38,7 +39,6 @@
 2 Speaker of the Heavens
 3 Sunpetal Grove
 4 Soul Warden
-2 Stern Dismissal
 3 Plains
 4 Branchloft Pathway
 4 Sunpetal Grove
@@ -117,8 +117,6 @@
 4 Selfless Savior
 1 Blast Zone
 1 Brightclimb Pathway
-3 Curiosity
-1 Watery Grave
 2 Emeria's Call
 2 Unsubstantiate
 3 Unsubstantiate
@@ -128,33 +126,9 @@
 3 Essence Capture
 4 Essence Capture
 1 Memory Lapse
-2 Blast Zone
 1 Elite Spellbinder
 2 Elite Spellbinder
-1 Hateful Eidolon
-1 Snow-Covered Swamp
-1 Clearwater Pathway
-1 Mire's Grasp
-1 Dead Weight
-1 Thoughtseize
-1 Drowned Catacomb
-1 Agadeem's Awakening
-2 Hateful Eidolon
-2 Mire's Grasp
-2 Clearwater Pathway
-2 Snow-Covered Swamp
-2 Watery Grave
-2 Thoughtseize
-2 Dead Weight
-2 Drowned Catacomb
-3 Hateful Eidolon
-3 Watery Grave
-3 Drowned Catacomb
-3 Clearwater Pathway
-3 Thoughtseize
-4 Hateful Eidolon
-4 Watery Grave
-4 Clearwater Pathway
+2 Blast Zone
 1 Vito, Thorn of the Dusk Rose
 1 Fabled Passage
 2 Fabled Passage
@@ -175,18 +149,18 @@
 2 Adventurous Impulse
 3 Adventurous Impulse
 4 Adventurous Impulse
+1 Watery Grave
 1 Scattered Groves
 1 Reject
 1 Barkchannel Pathway
 1 Deputy of Detention
 1 Island
-2 Dive Down
 1 Essence Scatter
 2 Essence Scatter
-2 Agadeem's Awakening
+2 Dive Down
 2 Memory Lapse
 3 Memory Lapse
-3 Snow-Covered Swamp
+3 Curiosity
 3 Elite Spellbinder
 1 Snow-Covered Forest
 1 Blossoming Sands
@@ -197,6 +171,9 @@
 2 Blossoming Sands
 2 Ajani's Pridemate
 3 Ajani's Pridemate
+2 Kira, Great Glass-Spinner
+3 Shacklegeist
+4 Shacklegeist
 1 Knight of Autumn
 4 Fabled Passage
 1 Godless Shrine
@@ -206,11 +183,8 @@
 3 Brightclimb Pathway
 3 Godless Shrine
 3 Vito, Thorn of the Dusk Rose
-4 Godless Shrine
 4 Brightclimb Pathway
-2 Kira, Great Glass-Spinner
-3 Shacklegeist
-4 Shacklegeist
+4 Godless Shrine
 12 Plains
 1 Crawling Barrens
 1 Banishing Light

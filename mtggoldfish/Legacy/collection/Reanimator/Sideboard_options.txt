@@ -1,16 +1,16 @@
-2 Serenity
 1 Wear/Tear
 2 Wear/Tear
-1 Dawnglade Regent
 1 Faerie Macabre
 2 Faerie Macabre
+2 Serenity
+1 Dawnglade Regent
 1 Xantid Swarm
 2 Xantid Swarm
 3 Xantid Swarm
 3 Faerie Macabre
 1 Coffin Purge
-1 Pithing Needle
 1 Massacre
+1 Pithing Needle
 1 Magus of the Moon
 2 Massacre
 1 Collective Brutality
@@ -18,12 +18,16 @@
 2 Shenanigans
 1 Assassin's Trophy
 2 Assassin's Trophy
-1 Grave Titan
 3 Wear/Tear
 4 Wear/Tear
-1 Lake of the Dead
-2 Grave Titan
-3 Serenity
+1 Grave Titan
+1 Abrupt Decay
+2 Abrupt Decay
+1 Ashen Rider
+1 Pyroblast
+2 Pyroblast
+1 Veil of Summer
+2 Veil of Summer
 1 Hope of Ghirapur
 1 Pack Rat
 1 Feed the Swarm
@@ -36,11 +40,6 @@
 3 Feed the Swarm
 3 Pack Rat
 4 Faerie Macabre
-2 Lake of the Dead
-3 Grave Titan
-3 Lake of the Dead
-4 Grave Titan
-4 Serenity
 1 Surgical Extraction
 1 Show and Tell
 2 Show and Tell
@@ -48,12 +47,15 @@
 1 Echoing Truth
 2 Echoing Truth
 3 Show and Tell
+2 Pithing Needle
 1 Liliana, the Last Hope
 1 Bitterblossom
 1 Cryptbreaker
 2 Liliana, the Last Hope
 2 Cryptbreaker
+1 Abrade
 1 Red Elemental Blast
+2 Red Elemental Blast
 1 Torpor Orb
 1 Phyrexian Dreadnought
 1 Hushbringer
@@ -64,25 +66,18 @@
 3 Torpor Orb
 4 Phyrexian Dreadnought
 4 Torpor Orb
-2 Red Elemental Blast
-1 Abrade
-2 Pithing Needle
-1 Ashen Rider
-1 Abrupt Decay
-2 Abrupt Decay
-1 Pyroblast
-2 Pyroblast
+1 Lake of the Dead
+2 Grave Titan
+3 Serenity
 1 Flusterstorm
 1 Chandra, Awakened Inferno
-1 Veil of Summer
-2 Veil of Summer
 1 Jace, Vryn's Prodigy
 1 Chain of Smog
 1 Baleful Strix
 1 Chain of Vapor
 1 Fatal Push
-2 Flusterstorm
 2 Fatal Push
+2 Flusterstorm
 2 Baleful Strix
 1 Inquisition of Kozilek
 1 Stronghold Gambit
@@ -115,3 +110,8 @@
 3 Burning Wish
 4 Show and Tell
 4 Burning Wish
+2 Lake of the Dead
+3 Grave Titan
+3 Lake of the Dead
+4 Grave Titan
+4 Serenity

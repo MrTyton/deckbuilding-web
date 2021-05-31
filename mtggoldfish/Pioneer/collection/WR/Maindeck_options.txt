@@ -1,15 +1,3 @@
-1 Stormwing Entity
-2 Stormwing Entity
-2 Dive Down
-3 Stormwing Entity
-4 Stormwing Entity
-1 Brazen Borrower
-1 Stormchaser Mage
-2 Brazen Borrower
-2 Stormchaser Mage
-1 Spikefield Hazard
-1 Defiant Strike
-1 Battlefield Forge
 1 Needleverge Pathway
 1 Leonin Lightscribe
 1 Inspiring Vantage
@@ -36,6 +24,13 @@
 4 Defiant Strike
 4 Clever Lumimancer
 4 Inspiring Vantage
+1 Lightning Strike
+2 Lightning Strike
+1 Sprite Dragon
+1 Reckless Rage
+2 Sprite Dragon
+3 Sprite Dragon
+4 Sprite Dragon
 1 Blistercoil Weird
 2 Blistercoil Weird
 3 Shock
@@ -46,12 +41,17 @@
 2 Fight as One
 2 Guiding Voice
 3 Guiding Voice
+1 Light Up the Stage
+1 Boros Charm
+2 Light Up the Stage
+2 Boros Charm
+3 Boros Charm
+4 Boros Charm
 1 Of One Mind
-1 Abbot of Keral Keep
 1 Castle Embereth
+1 Abbot of Keral Keep
 1 Rimrock Knight
 1 Fiery Impulse
-1 Reckless Rage
 1 Ghitu Lavarunner
 2 Of One Mind
 2 Rimrock Knight
@@ -62,9 +62,9 @@
 1 Treasure Cruise
 2 Treasure Cruise
 4 Mountain
-1 Light Up the Stage
-1 Boros Charm
-2 Light Up the Stage
-2 Boros Charm
-4 Boros Charm
-3 Boros Charm
+1 Dive Down
+1 Stormwing Entity
+2 Stormwing Entity
+2 Dive Down
+3 Stormwing Entity
+4 Stormwing Entity

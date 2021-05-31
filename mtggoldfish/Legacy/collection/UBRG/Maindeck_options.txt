@@ -9,12 +9,12 @@
 1 Snow-Covered Mountain
 1 Anje's Ravager
 1 Taiga
+1 Lion's Eye Diamond
 1 Street Wraith
 1 Fiery Islet
-1 Vengevine
 1 Hollow One
+1 Vengevine
 1 Faithless Looting
-1 Lion's Eye Diamond
 1 Putrid Imp
 1 Asylum Visitor
 1 Careful Study
@@ -35,9 +35,9 @@
 2 Asylum Visitor
 2 Fiery Temper
 3 Bloodstained Mire
+3 Anje's Ravager
 3 Street Wraith
 3 Hollow One
-3 Anje's Ravager
 3 Faithless Looting
 3 Careful Study
 3 Putrid Imp
@@ -88,6 +88,8 @@
 4 Ice-Fang Coatl
 4 Force of Will
 2 Taiga
+1 Cabal Therapy
+2 Cabal Therapy
 1 Young Pyromancer
 1 Dark Confidant
 1 Inquisition of Kozilek
@@ -114,8 +116,6 @@
 3 Summoner's Pact
 4 Summoner's Pact
 2 Fiery Islet
-1 Cabal Therapy
-2 Cabal Therapy
 1 Veil of Summer
 2 Swamp
 3 Elvish Spirit Guide

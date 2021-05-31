@@ -82,6 +82,12 @@
 1 Dirge Bat
 3 The Akroan War
 3 Temple of Malice
+1 Skyclave Shade
+1 Fireblade Charger
+2 Skyclave Shade
+2 Fireblade Charger
+3 Fireblade Charger
+4 Fireblade Charger
 1 Duress
 2 Duress
 3 Duress
@@ -90,12 +96,6 @@
 2 Showdown of the Skalds
 3 Showdown of the Skalds
 4 Showdown of the Skalds
-1 Fireblade Charger
-1 Skyclave Shade
-2 Skyclave Shade
-2 Fireblade Charger
-3 Fireblade Charger
-4 Fireblade Charger
 1 Sedgemoor Witch
 2 Sedgemoor Witch
 3 Sedgemoor Witch
@@ -119,8 +119,8 @@
 1 Life Goes On
 1 Fortifying Draught
 2 Jaspera Sentinel
-2 Gilded Goose
 2 Forest
+2 Gilded Goose
 2 Necroblossom Snarl
 2 Fortifying Draught
 2 Life Goes On
@@ -129,10 +129,10 @@
 3 Jaspera Sentinel
 3 Necroblossom Snarl
 3 Fortifying Draught
+4 Forest
 4 Necroblossom Snarl
 4 Jaspera Sentinel
 4 Fortifying Draught
-4 Forest
 5 Forest
 6 Forest
 7 Forest

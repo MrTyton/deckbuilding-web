@@ -1,49 +1,52 @@
 4 Branchloft Pathway
+10 Snow-Covered Plains
 1 Brushland
 1 Temple Garden
 2 Brushland
 2 Temple Garden
 3 Temple Garden
 4 Temple Garden
-10 Snow-Covered Plains
 11 Snow-Covered Plains
 12 Snow-Covered Plains
 13 Snow-Covered Plains
 4 Noble Hierarch
+1 Silent Clearing
+4 Plains
+5 Plains
 1 Castle Ardenvale
 1 Stirring Wildwood
 2 Forest
 2 Stirring Wildwood
-4 Plains
-5 Plains
-1 Silent Clearing
-14 Snow-Covered Plains
 2 Silent Clearing
+14 Snow-Covered Plains
+6 Plains
 1 Restoration Angel
 2 Restoration Angel
-1 Charming Prince
 15 Snow-Covered Plains
 16 Snow-Covered Plains
 1 On Thin Ice
 2 On Thin Ice
+1 Eiganjo Castle
+7 Plains
+8 Plains
 2 Castle Ardenvale
+1 Charming Prince
 1 Oath of Nissa
 2 Oath of Nissa
 3 Oath of Nissa
 4 Oath of Nissa
-6 Plains
 17 Snow-Covered Plains
 18 Snow-Covered Plains
+9 Plains
 1 Linvala, Keeper of Silence
 2 Linvala, Keeper of Silence
-7 Plains
-8 Plains
 2 Charming Prince
 3 Charming Prince
-1 Eiganjo Castle
-9 Plains
 1 Winds of Abandon
 3 On Thin Ice
+10 Plains
+3 Silent Clearing
+4 Silent Clearing
 1 Spellskite
 2 Spellskite
 3 Brushland
@@ -51,9 +54,6 @@
 19 Snow-Covered Plains
 2 Winds of Abandon
 1 Sunbaked Canyon
-3 Silent Clearing
-10 Plains
-4 Silent Clearing
 3 Restoration Angel
 20 Snow-Covered Plains
 3 Linvala, Keeper of Silence
@@ -64,9 +64,10 @@
 2 Phyrexian Revoker
 3 Phyrexian Revoker
 1 Flagstones of Trokair
+1 Aven Mindcensor
 1 Collected Company
-1 Gavony Township
 1 Scavenging Ooze
+1 Gavony Township
 2 Collected Company
 2 Scavenging Ooze
 3 Collected Company
@@ -77,13 +78,6 @@
 3 Sunbaked Canyon
 4 Inspiring Vantage
 4 Sunbaked Canyon
-1 Tidehollow Sculler
-1 Swamp
-1 Wasteland Strangler
-2 Tidehollow Sculler
-2 Wasteland Strangler
-3 Wasteland Strangler
-3 Tidehollow Sculler
 1 Skyclave Cleric
 2 Skyclave Cleric
 3 Winds of Abandon
@@ -118,32 +112,3 @@
 4 Vryn Wingmare
 3 Horizon Canopy
 4 Horizon Canopy
-1 Eldrazi Temple
-1 Caves of Koilos
-1 Thought-Knot Seer
-1 Eldrazi Displacer
-1 Concealed Courtyard
-2 Eldrazi Temple
-2 Thought-Knot Seer
-2 Caves of Koilos
-2 Eldrazi Displacer
-2 Concealed Courtyard
-3 Thought-Knot Seer
-3 Caves of Koilos
-3 Eldrazi Temple
-3 Eldrazi Displacer
-3 Concealed Courtyard
-4 Eldrazi Temple
-4 Thought-Knot Seer
-4 Caves of Koilos
-4 Concealed Courtyard
-1 Godless Shrine
-1 Brightclimb Pathway
-2 Brightclimb Pathway
-2 Godless Shrine
-3 Brightclimb Pathway
-3 Godless Shrine
-4 Wasteland Strangler
-4 Brightclimb Pathway
-4 Godless Shrine
-4 Tidehollow Sculler
