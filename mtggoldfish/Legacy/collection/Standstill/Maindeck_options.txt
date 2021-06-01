@@ -46,36 +46,36 @@
 2 Polluted Delta
 3 Polluted Delta
 4 Polluted Delta
-1 Fatal Push
-1 Cling to Dust
 1 Bloodstained Mire
 1 Eliminate
 1 Changeling Outcast
 1 Baleful Strix
+1 Fatal Push
+1 Cling to Dust
 1 Ornithopter
 1 Yuriko, the Tiger's Shadow
 1 Ingenious Infiltrator
 1 Retrofitter Foundry
-2 Swamp
-2 Fatal Push
 2 Changeling Outcast
 2 Ornithopter
 2 Yuriko, the Tiger's Shadow
 2 Retrofitter Foundry
+2 Swamp
 2 Ingenious Infiltrator
+2 Fatal Push
 3 Swamp
-3 Fatal Push
 3 Yuriko, the Tiger's Shadow
 3 Retrofitter Foundry
 3 Ornithopter
 3 Ingenious Infiltrator
+3 Fatal Push
 3 Changeling Outcast
 4 Changeling Outcast
 4 Ingenious Infiltrator
 4 Ornithopter
 4 Retrofitter Foundry
-1 Detention Sphere
 1 Teferi, Hero of Dominaria
+1 Detention Sphere
 1 Predict
 2 Council's Judgment
 1 Pyroblast
@@ -104,12 +104,12 @@
 1 Vendilion Clique
 1 Flusterstorm
 2 Back to Basics
-1 Omen of the Sea
 1 Vanishing Verse
+1 Omen of the Sea
 1 Estrid's Invocation
 1 Trial of Ambition
-2 Omen of the Sea
 2 Vanishing Verse
+2 Omen of the Sea
 2 Court of Grace
 2 Estrid's Invocation
 2 Trial of Ambition
@@ -122,26 +122,26 @@
 3 Rest in Peace
 3 Court of Cunning
 4 Plains
-1 Abrupt Decay
 1 Mox Diamond
+1 Forest
 1 Tranquil Thicket
 1 Lonely Sandbar
-1 Forest
-1 Field of the Dead
-1 Life from the Loam
+1 Savannah
 1 Verdant Catacombs
+1 Bayou
+1 Life from the Loam
+1 Abrupt Decay
 1 Bojuka Bog
 1 Crop Rotation
+1 Field of the Dead
 1 Tropical Island
-1 Bayou
 1 Snow-Covered Forest
 1 Uro, Titan of Nature's Wrath
-1 Savannah
-2 Abrupt Decay
 2 Mox Diamond
-2 Field of the Dead
 2 Life from the Loam
+2 Abrupt Decay
 2 Uro, Titan of Nature's Wrath
+2 Field of the Dead
 3 Mox Diamond
 3 Abrupt Decay
 3 Life from the Loam
@@ -153,33 +153,6 @@
 4 Uro, Titan of Nature's Wrath
 4 Misty Rainforest
 4 Wasteland
-1 Impulse
-1 Burst Lightning
-1 Faerie Conclave
-1 Fiery Islet
-1 Bonecrusher Giant
-1 Lightning Bolt
-2 Impulse
-2 Snapcaster Mage
-2 Fiery Islet
-2 Faerie Conclave
-2 Burst Lightning
-2 Bonecrusher Giant
-2 Lightning Bolt
-2 Volcanic Island
-3 Snapcaster Mage
-3 Bonecrusher Giant
-3 Volcanic Island
-3 Faerie Conclave
-3 Brazen Borrower
-3 Lightning Bolt
-3 Burst Lightning
-4 Snapcaster Mage
-4 Mishra's Factory
-4 Bonecrusher Giant
-4 Volcanic Island
-4 Faerie Conclave
-4 Lightning Bolt
 1 Sea Gate Restoration
 1 True-Name Nemesis
 1 Cavern of Souls
@@ -222,6 +195,33 @@
 4 Chrome Mox
 4 Silvergill Adept
 4 Master of the Pearl Trident
+1 Impulse
+1 Burst Lightning
+1 Fiery Islet
+1 Bonecrusher Giant
+1 Lightning Bolt
+1 Faerie Conclave
+2 Impulse
+2 Snapcaster Mage
+2 Fiery Islet
+2 Burst Lightning
+2 Bonecrusher Giant
+2 Faerie Conclave
+2 Lightning Bolt
+2 Volcanic Island
+3 Snapcaster Mage
+3 Bonecrusher Giant
+3 Volcanic Island
+3 Brazen Borrower
+3 Lightning Bolt
+3 Faerie Conclave
+3 Burst Lightning
+4 Snapcaster Mage
+4 Mishra's Factory
+4 Volcanic Island
+4 Bonecrusher Giant
+4 Lightning Bolt
+4 Faerie Conclave
 1 Path to Exile
 4 Cast Out
 4 Replenish

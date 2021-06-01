@@ -31,5 +31,6 @@
 |                    2|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)  |                    1|[Bastion of Remembrance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479593)|
 |                    2|[Serrated Scorpion](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479619)|                    2|[Bastion of Remembrance](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479593)|
 |                    3|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)  |                    2|[Drag to the Underworld](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476340)|
-|                    4|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)  |                     |                                                                                                 |
+|                    4|[Murderous Rider](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473059)  |                    1|[Contaminated Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366420)   |
+|                     |                                                                                            |                    2|[Contaminated Ground](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366420)   |
 

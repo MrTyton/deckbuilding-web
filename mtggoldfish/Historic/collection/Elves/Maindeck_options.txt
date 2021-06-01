@@ -1,24 +1,23 @@
-3 Castle Garenbrig
 1 Craterhoof Behemoth
+3 Castle Garenbrig
 10 Forest
-1 Skemfar Avenger
-4 Allosaurus Shepherd
 11 Forest
 12 Forest
-4 Castle Garenbrig
 13 Forest
 14 Forest
 15 Forest
+4 Castle Garenbrig
+4 Allosaurus Shepherd
+1 Growing Rites of Itlimoc
+1 Skemfar Avenger
 2 Skemfar Avenger
 1 Abomination of Llanowar
-1 Growing Rites of Itlimoc
 16 Forest
 1 Marwyn, the Nurturer
+1 Fierce Empath
 1 Elvish Visionary
 2 Elvish Visionary
 17 Forest
-1 Fierce Empath
-2 Marwyn, the Nurturer
 1 Snow-Covered Forest
 1 Faceless Haven
 2 Snow-Covered Forest
@@ -38,12 +37,14 @@
 16 Snow-Covered Forest
 2 Fierce Empath
 2 Growing Rites of Itlimoc
+2 Marwyn, the Nurturer
 17 Snow-Covered Forest
 3 Realmwalker
 18 Forest
 1 Llanowar Visionary
 2 Llanowar Visionary
 1 Turntimber Symbiosis
+2 Faceless Haven
 1 Heroic Intervention
 2 Heroic Intervention
 3 Elvish Visionary
@@ -51,7 +52,8 @@
 2 Finale of Devastation
 2 Craterhoof Behemoth
 1 Tyvar Kell
-2 Faceless Haven
+18 Snow-Covered Forest
+19 Snow-Covered Forest
 1 Ochran Assassin
 1 Canopy Tactician
 1 Druid of the Cowl
@@ -63,12 +65,12 @@
 1 Haunting Voyage
 1 Elven Ambush
 1 The Great Henge
-2 Swamp
 2 Harald Unites the Elves
 2 Abomination of Llanowar
 2 Druid of the Cowl
 2 Poison-Tip Archer
 2 Elven Ambush
+2 Swamp
 2 Canopy Tactician
 2 Lys Alana Huntmaster
 3 Swamp
@@ -85,26 +87,14 @@
 12 Swamp
 1 Fauna Shaman
 2 Fauna Shaman
-1 Thoughtseize
-2 Thoughtseize
+1 Wildborn Preserver
+2 Wildborn Preserver
 1 Elderfang Disciple
 2 Elderfang Disciple
 2 Turntimber Symbiosis
 3 Growing Rites of Itlimoc
 3 Turntimber Symbiosis
 4 Realmwalker
-1 Branchloft Pathway
-1 Temple Garden
-1 Sunpetal Grove
-1 Plains
-2 Branchloft Pathway
-2 Temple Garden
-2 Sunpetal Grove
-3 Branchloft Pathway
-3 Temple Garden
-3 Sunpetal Grove
-4 Branchloft Pathway
-4 Temple Garden
 1 Paradise Druid
 1 Unclaimed Territory
 2 Paradise Druid
@@ -115,6 +105,18 @@
 1 Pelt Collector
 2 Pelt Collector
 4 Elvish Visionary
+1 Sunpetal Grove
+1 Temple Garden
+1 Branchloft Pathway
+1 Plains
+2 Branchloft Pathway
+2 Temple Garden
+2 Sunpetal Grove
+3 Branchloft Pathway
+3 Sunpetal Grove
+3 Temple Garden
+4 Branchloft Pathway
+4 Temple Garden
 1 Herald's Horn
 1 Necroblossom Snarl
 1 Adventurous Impulse
@@ -125,23 +127,21 @@
 3 Finale of Devastation
 19 Forest
 1 Blizzard Brawl
-1 Questing Beast
 1 Snakeskin Veil
 1 Grafdigger's Cage
+1 Primal Might
+1 Questing Beast
 1 Ram Through
 1 Yorvo, Lord of Garenbrig
-1 Primal Might
 2 Blizzard Brawl
-2 Questing Beast
 2 Snakeskin Veil
-2 Ram Through
 2 Primal Might
+2 Questing Beast
+2 Ram Through
 3 Faceless Haven
 3 Blizzard Brawl
 3 Snakeskin Veil
 4 Snakeskin Veil
 4 Faceless Haven
 4 Blizzard Brawl
-18 Snow-Covered Forest
-19 Snow-Covered Forest
 20 Snow-Covered Forest

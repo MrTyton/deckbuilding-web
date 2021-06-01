@@ -1,5 +1,3 @@
-4 Concealed Courtyard
-1 Kaya's Guile
 1 Thoughtseize
 1 Inquisition of Kozilek
 1 Fatal Push
@@ -9,8 +7,8 @@
 2 Inquisition of Kozilek
 3 Inquisition of Kozilek
 3 Fatal Push
+1 Kaya's Guile
 4 Fatal Push
-3 Swamp
 4 Inquisition of Kozilek
 1 Lingering Souls
 2 Lingering Souls
@@ -18,22 +16,24 @@
 1 Liliana of the Veil
 2 Liliana of the Veil
 3 Liliana of the Veil
+3 Swamp
+6 Plains
 3 Thoughtseize
 4 Liliana of the Veil
+3 Lingering Souls
 3 Brightclimb Pathway
 4 Brightclimb Pathway
-4 Silent Clearing
-3 Lingering Souls
 1 Dark Confidant
 2 Dark Confidant
+4 Silent Clearing
 1 Vanishing Verse
+4 Godless Shrine
 1 Collective Brutality
+3 Dark Confidant
 2 Kaya's Guile
 2 Vanishing Verse
 1 Gideon, Ally of Zendikar
 2 Gideon, Ally of Zendikar
-4 Godless Shrine
-3 Dark Confidant
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
@@ -47,41 +47,6 @@
 3 Ghost Quarter
 3 Kaya's Guile
 1 Castle Locthwain
-1 Unearth
-1 Windswept Heath
-2 Windswept Heath
-1 Mishra's Bauble
-1 Paradise Mantle
-1 Shadowspear
-1 Colossus Hammer
-1 Steelshaper's Gift
-1 Inkmoth Nexus
-1 Sigarda's Aid
-1 Memnite
-1 Ornithopter
-1 Puresteel Paladin
-2 Mishra's Bauble
-2 Ornithopter
-2 Inkmoth Nexus
-2 Sigarda's Aid
-2 Memnite
-2 Puresteel Paladin
-2 Colossus Hammer
-2 Steelshaper's Gift
-3 Mishra's Bauble
-3 Puresteel Paladin
-3 Sigarda's Aid
-3 Ornithopter
-3 Colossus Hammer
-3 Steelshaper's Gift
-3 Inkmoth Nexus
-4 Mishra's Bauble
-4 Puresteel Paladin
-4 Sigarda's Aid
-4 Ornithopter
-4 Steelshaper's Gift
-4 Colossus Hammer
-4 Inkmoth Nexus
 4 Kaya's Guile
 4 Vanishing Verse
 1 Leonin Arbiter
@@ -89,61 +54,49 @@
 3 Leonin Arbiter
 4 Leonin Arbiter
 4 Ghost Quarter
-1 Snow-Covered Plains
+1 Unearth
+4 Lingering Souls
 4 Dark Confidant
 3 Shambling Vent
-1 Nihil Spellbomb
-1 Springleaf Drum
-1 Arid Mesa
-3 Memnite
-1 Sedgemoor Witch
-2 Sedgemoor Witch
-3 Sedgemoor Witch
-1 Snow-Covered Swamp
-2 Snow-Covered Plains
-3 Snow-Covered Plains
-4 Snow-Covered Plains
-5 Snow-Covered Plains
-6 Snow-Covered Plains
-2 Kaya, Orzhov Usurper
 3 Prismatic Vista
-3 Gideon, Ally of Zendikar
-4 Swamp
-4 Lingering Souls
-1 Eldrazi Displacer
 1 Thought-Knot Seer
 1 Caves of Koilos
 1 Reality Smasher
-1 Tectonic Edge
 1 Eldrazi Temple
 2 Reality Smasher
-2 Tectonic Edge
 2 Caves of Koilos
 2 Thought-Knot Seer
 2 Eldrazi Temple
+3 Eldrazi Temple
 3 Caves of Koilos
 3 Thought-Knot Seer
-3 Eldrazi Temple
 4 Thought-Knot Seer
 4 Eldrazi Temple
+1 Nihil Spellbomb
+1 Bitterblossom
+1 Windswept Heath
+2 Windswept Heath
+1 Sedgemoor Witch
+2 Sedgemoor Witch
+3 Sedgemoor Witch
+1 Snow-Covered Plains
+1 Snow-Covered Swamp
+1 Eldrazi Displacer
+1 Tectonic Edge
+2 Tectonic Edge
+2 Kaya, Orzhov Usurper
+3 Gideon, Ally of Zendikar
+4 Swamp
 1 Archon of Emeria
 2 Archon of Emeria
 7 Plains
 1 Bloodchief's Thirst
 1 Eiganjo Castle
-1 Bitterblossom
 2 Bitterblossom
-1 Flooded Strand
-1 Cranial Plating
-2 Flooded Strand
-2 Springleaf Drum
 2 Collective Brutality
 2 Cling to Dust
 1 Cavern of Souls
 2 Cavern of Souls
-2 Arid Mesa
-2 Paradise Mantle
-3 Paradise Mantle
 4 Sedgemoor Witch
 1 Smallpox
 1 Flagstones of Trokair
@@ -161,6 +114,14 @@
 3 Smallpox
 4 Flagstones of Trokair
 4 Smallpox
+1 Vault of the Archangel
+1 Shefet Dunes
+1 Ifnir Deadlands
+1 Wastes
+2 Ifnir Deadlands
+3 Reality Smasher
+4 Caves of Koilos
+1 Mishra's Bauble
 1 Lurrus of the Dream-Den
 1 Speaker of the Heavens
 1 Orzhov Charm
@@ -168,19 +129,58 @@
 1 Emeria, the Sky Ruin
 1 Martyr of Sands
 1 Ranger-Captain of Eos
+2 Snow-Covered Plains
 2 Sorin, Vengeful Bloodlord
 2 Ranger-Captain of Eos
-2 Speaker of the Heavens
 2 Orzhov Charm
 2 Martyr of Sands
+2 Speaker of the Heavens
 2 Emeria, the Sky Ruin
+3 Snow-Covered Plains
 3 Martyr of Sands
 3 Ranger-Captain of Eos
 3 Orzhov Charm
 3 Speaker of the Heavens
+4 Snow-Covered Plains
 4 Orzhov Charm
 4 Ranger-Captain of Eos
+4 Martyr of Sands
+5 Snow-Covered Plains
+6 Snow-Covered Plains
 7 Snow-Covered Plains
 8 Snow-Covered Plains
 9 Snow-Covered Plains
-4 Martyr of Sands
+1 Arid Mesa
+1 Shadowspear
+1 Colossus Hammer
+1 Paradise Mantle
+1 Springleaf Drum
+1 Steelshaper's Gift
+1 Inkmoth Nexus
+1 Puresteel Paladin
+1 Sigarda's Aid
+1 Memnite
+1 Ornithopter
+2 Ornithopter
+2 Inkmoth Nexus
+2 Puresteel Paladin
+2 Sigarda's Aid
+2 Memnite
+2 Colossus Hammer
+2 Mishra's Bauble
+2 Steelshaper's Gift
+3 Puresteel Paladin
+3 Sigarda's Aid
+3 Memnite
+3 Ornithopter
+3 Colossus Hammer
+3 Mishra's Bauble
+3 Steelshaper's Gift
+3 Inkmoth Nexus
+4 Puresteel Paladin
+4 Sigarda's Aid
+4 Ornithopter
+4 Steelshaper's Gift
+4 Mishra's Bauble
+4 Inkmoth Nexus
+4 Colossus Hammer

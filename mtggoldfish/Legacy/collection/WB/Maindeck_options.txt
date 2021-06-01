@@ -49,13 +49,13 @@
 4 City of Traitors
 4 Cavern of Souls
 1 Liliana, the Last Hope
+1 Abrade
 1 Boros Signet
 1 Great Furnace
 1 Cut/Ribbons
 1 Ranger of Eos
-1 Abrade
-2 Cut/Ribbons
 2 Abrade
+2 Cut/Ribbons
 2 Boros Signet
 2 Ranger of Eos
 2 Great Furnace
@@ -89,16 +89,6 @@
 1 Zealous Persecution
 1 Sedgemoor Witch
 2 Sedgemoor Witch
-1 Kitesail Freebooter
-1 Vault of Whispers
-1 Orzhov Signet
-2 Kitesail Freebooter
-2 Orzhov Signet
-2 Vault of Whispers
-3 Kitesail Freebooter
-3 Orzhov Signet
-3 Vault of Whispers
-4 Vault of Whispers
 1 Castle Ardenvale
 1 Flooded Strand
 1 Shambling Vent
@@ -106,21 +96,20 @@
 3 Castle Locthwain
 3 Cling to Dust
 4 Castle Locthwain
+1 Kitesail Freebooter
+1 Vault of Whispers
+1 Orzhov Signet
+2 Orzhov Signet
+2 Vault of Whispers
+2 Kitesail Freebooter
+3 Kitesail Freebooter
+3 Orzhov Signet
+3 Vault of Whispers
+4 Vault of Whispers
 2 Verdant Catacombs
 2 Karakas
 3 Opposition Agent
 4 Opposition Agent
-1 Murderous Rider
-1 Cursed Scroll
-2 Lingering Souls
-2 Murderous Rider
-2 Snow-Covered Plains
-3 Murderous Rider
-7 Snow-Covered Swamp
-8 Snow-Covered Swamp
-9 Snow-Covered Swamp
-10 Snow-Covered Swamp
-11 Snow-Covered Swamp
 1 Bloodchief's Thirst
 1 Smallpox
 1 Ashiok, Dream Render
@@ -129,8 +118,8 @@
 1 Plague Engineer
 2 Bloodchief's Thirst
 2 Smallpox
-2 Ashiok, Dream Render
 2 Plague Engineer
+2 Ashiok, Dream Render
 3 Smallpox
 3 Urborg, Tomb of Yawgmoth
 3 Plague Engineer
@@ -147,3 +136,14 @@
 9 Swamp
 10 Swamp
 11 Swamp
+1 Murderous Rider
+1 Cursed Scroll
+2 Lingering Souls
+2 Murderous Rider
+2 Snow-Covered Plains
+3 Murderous Rider
+7 Snow-Covered Swamp
+8 Snow-Covered Swamp
+9 Snow-Covered Swamp
+10 Snow-Covered Swamp
+11 Snow-Covered Swamp
