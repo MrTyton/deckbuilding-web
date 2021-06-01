@@ -44,8 +44,8 @@
 1 Uro, Titan of Nature's Wrath
 1 Deafening Clarion
 1 Hallowed Fountain
-1 Lotus Cobra
 1 Watery Grave
+1 Lotus Cobra
 1 Steam Vents
 1 Evolving Wilds
 2 Deafening Clarion
@@ -76,6 +76,7 @@
 1 Godless Shrine
 1 Elder Gargaroth
 1 Terror of the Peaks
+1 Thirst for Meaning
 1 Elspeth Conquers Death
 1 Mastermind's Acquisition
 1 Sanctum of All
@@ -98,7 +99,6 @@
 1 Dryad of the Ilysian Grove
 1 Renegade Map
 1 Cragcrown Pathway
-1 Thirst for Meaning
 1 God-Eternal Rhonas
 1 Smothering Tithe
 1 Honden of Cleansing Fire
@@ -123,6 +123,7 @@
 2 Branchloft Pathway
 2 Solemn Simulacrum
 2 Terror of the Peaks
+2 Thirst for Meaning
 2 Assassin's Trophy
 2 Wrath of God
 2 Mirari's Wake
@@ -131,7 +132,6 @@
 2 Migration Path
 2 Smothering Tithe
 2 Mastermind's Acquisition
-2 Thirst for Meaning
 2 Sanctum of Fruitful Harvest
 2 Evolving Wilds
 2 Archon of Sun's Grace
@@ -161,6 +161,7 @@
 3 Watery Grave
 3 Swamp
 3 Branchloft Pathway
+3 Thirst for Meaning
 3 Deafening Clarion
 3 Wrath of God
 3 Escape to the Wilds
@@ -177,7 +178,6 @@
 3 Mastermind's Acquisition
 3 Sanctum of Fruitful Harvest
 3 Evolving Wilds
-3 Thirst for Meaning
 3 Assassin's Trophy
 3 Steam Vents
 3 Prophetic Prism
@@ -450,6 +450,7 @@
 1 Whirler Virtuoso
 1 Lightning Helix
 1 Rogue Refiner
+2 The World Tree
 2 Paradise Druid
 2 Ancient Ziggurat
 2 Voltaic Brawler
@@ -460,7 +461,6 @@
 2 Attune with Aether
 2 Lightning Helix
 2 Ephemerate
-2 The World Tree
 3 Paradise Druid
 3 Ancient Ziggurat
 3 Voltaic Brawler

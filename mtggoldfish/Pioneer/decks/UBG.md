@@ -228,7 +228,7 @@
 |                    2|[Nighthawk Scavenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491752)      |                     |                                                                                                   |
 |                    2|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)          |                     |                                                                                                   |
 |                    3|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)          |                     |                                                                                                   |
-|                    3|[Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)      |                     |                                                                                                   |
 |                    3|[Nighthawk Scavenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491752)      |                     |                                                                                                   |
+|                    3|[Agadeem's Awakening](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491723)      |                     |                                                                                                   |
 |                    4|[Brazen Borrower](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473001)          |                     |                                                                                                   |
 
