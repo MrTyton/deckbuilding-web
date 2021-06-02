@@ -1,36 +1,50 @@
-3 Celestial Colonnade
-4 Snapcaster Mage
-3 Force of Negation
-1 Shark Typhoon
-1 Blast Zone
-1 Oust
+1 Logic Knot
 1 Snow-Covered Island
 1 Snow-Covered Plains
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
-1 Behold the Multiverse
-1 Prairie Stream
+1 Shark Typhoon
+3 Celestial Colonnade
 2 Polluted Delta
+1 Dovin's Veto
+1 Prairie Stream
+1 Oust
+1 Blast Zone
 5 Snow-Covered Island
-1 Vendilion Clique
-1 Mystic Gate
-1 Castle Ardenvale
 2 Snow-Covered Plains
-1 Winds of Abandon
+1 Mystic Gate
+1 Vendilion Clique
+1 Castle Ardenvale
+1 Behold the Multiverse
+1 Remand
 2 Shark Typhoon
 6 Snow-Covered Island
 1 Misty Rainforest
 2 Misty Rainforest
-1 Test of Talents
-1 Sphinx's Revelation
-1 Remand
-2 Castle Vantress
 4 Cryptic Command
+1 Test of Talents
+2 Remand
+3 Jace, the Mind Sculptor
+1 Sphinx's Revelation
+2 Castle Vantress
+3 Glacial Fortress
+2 Logic Knot
+4 Archmage's Charm
 1 Scalding Tarn
 2 Scalding Tarn
+1 Prismatic Vista
+1 Hieroglyphic Illumination
+1 Condemn
+1 Seachrome Coast
+2 Seachrome Coast
+2 Prismatic Vista
+2 Hieroglyphic Illumination
+3 Seachrome Coast
+3 Teferi, Hero of Dominaria
+4 Glacial Fortress
 1 Jace, Architect of Thought
-2 Remand
+1 Winds of Abandon
 1 Stoneforge Mystic
 1 Batterskull
 1 Sword of Feast and Famine
@@ -39,27 +53,15 @@
 4 Stoneforge Mystic
 1 Spell Queller
 2 Spell Queller
-3 Jace, the Mind Sculptor
-3 Teferi, Hero of Dominaria
-3 Glacial Fortress
-2 Logic Knot
-4 Archmage's Charm
 1 Narset, Parter of Veils
 1 Search for Azcanta
 1 Gideon Jura
+1 Peek
+2 Peek
 1 Ojutai's Command
 1 Wall of Omens
 2 Wall of Omens
 3 Remand
-1 Prismatic Vista
-1 Condemn
-1 Hieroglyphic Illumination
-1 Seachrome Coast
-2 Seachrome Coast
-2 Prismatic Vista
-2 Hieroglyphic Illumination
-3 Seachrome Coast
-4 Glacial Fortress
 1 Sword of Fire and Ice
 1 Jace, Vryn's Prodigy
 3 Polluted Delta
@@ -74,11 +76,9 @@
 3 Terminus
 4 Terminus
 1 Spell Pierce
-1 Peek
-2 Peek
 1 Doomskar
-1 Windswept Heath
 1 Starnheim Unleashed
+1 Windswept Heath
 2 Doomskar
 2 Starnheim Unleashed
 2 Behold the Multiverse
@@ -99,8 +99,8 @@
 2 Delay
 3 Delay
 4 Delay
+7 Island
+8 Island
 1 Teferi, Master of Time
 1 Brazen Borrower
 4 Polluted Delta
-8 Island
-7 Island

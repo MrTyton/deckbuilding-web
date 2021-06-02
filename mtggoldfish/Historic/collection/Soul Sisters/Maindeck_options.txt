@@ -29,14 +29,14 @@
 3 Resplendent Angel
 1 Skyclave Apparition
 2 Skyclave Apparition
-1 Sunpetal Grove
 1 Branchloft Pathway
+1 Sunpetal Grove
 1 Collected Company
-2 Branchloft Pathway
 2 Sunpetal Grove
+2 Branchloft Pathway
 2 Collected Company
-3 Branchloft Pathway
 3 Sunpetal Grove
+3 Branchloft Pathway
 3 Collected Company
 4 Sunpetal Grove
 4 Branchloft Pathway
@@ -83,9 +83,9 @@
 1 Gods Willing
 4 Righteous Valkyrie
 1 Baneslayer Angel
-1 Vito, Thorn of the Dusk Rose
 1 Godless Shrine
 1 Isolated Chapel
+1 Vito, Thorn of the Dusk Rose
 1 Temple of Silence
 2 Godless Shrine
 2 Isolated Chapel
@@ -133,15 +133,15 @@
 4 Selfless Savior
 1 Oath of Kaya
 1 Castle Locthwain
-1 Erebos's Intervention
 1 Linvala, Keeper of Silence
+1 Erebos's Intervention
 1 Elspeth, Sun's Nemesis
 1 Angelic Ascension
 1 Scoured Barrens
 2 Linvala, Keeper of Silence
 2 Oath of Kaya
-2 Erebos's Intervention
 2 Castle Locthwain
+2 Erebos's Intervention
 2 Temple of Silence
 2 Scoured Barrens
 2 Elspeth, Sun's Nemesis
@@ -150,9 +150,8 @@
 3 Temple of Silence
 3 Scoured Barrens
 4 Temple of Silence
-4 Banishing Light
-1 Youthful Valkyrie
 1 Reidane, God of the Worthy
+1 Youthful Valkyrie
 2 Youthful Valkyrie
 4 Skyclave Apparition
 1 Guiding Voice
@@ -162,6 +161,7 @@
 2 God-Eternal Oketra
 3 Idyllic Grange
 4 Idyllic Grange
+4 Banishing Light
 1 Ajani's Welcome
 2 Ajani's Welcome
 3 Ajani's Welcome

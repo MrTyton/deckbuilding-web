@@ -2,7 +2,7 @@
 
 #### [Export MTGO List](../collection/Mono-Red%20Aggro/Mono-Red%20Aggro.txt)
 #### [Export Arena List](../collection/Mono-Red%20Aggro/Mono-Red%20Aggro_arena.txt)
-#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Anax,%20Hardened%20in%20the%20Forge%0A4%09Bonecrusher%20Giant%0A1%09Castle%20Embereth%0A4%09Embercleave%0A4%09Faceless%20Haven%0A4%09Fervent%20Champion%0A3%09Fireblade%20Charger%0A4%09Frost%20Bite%0A3%09Hall%20Monitor%0A1%09Phoenix%20of%20Ash%0A2%09Rimrock%20Knight%0A4%09Robber%20of%20the%20Rich%0A19%09Snow-Covered%20Mountain%0A3%09Torbran,%20Thane%20of%20Red%20Fell&deckside=2%09Ox%20of%20Agonas%0A2%09Phoenix%20of%20Ash%0A2%09Redcap%20Melee%0A2%09Roiling%20Vortex%0A2%09Scorching%20Dragonfire%0A2%09Soul%20Sear%0A3%09The%20Akroan%20War)
+#### [Print on decklist.org](http://decklist.org/?deckmain=4%09Anax,%20Hardened%20in%20the%20Forge%0A4%09Bonecrusher%20Giant%0A1%09Castle%20Embereth%0A4%09Embercleave%0A4%09Faceless%20Haven%0A4%09Fervent%20Champion%0A3%09Fireblade%20Charger%0A4%09Frost%20Bite%0A3%09Hall%20Monitor%0A1%09Phoenix%20of%20Ash%0A2%09Rimrock%20Knight%0A4%09Robber%20of%20the%20Rich%0A19%09Snow-Covered%20Mountain%0A3%09Torbran,%20Thane%20of%20Red%20Fell&deckside=2%09Ox%20of%20Agonas%0A2%09Phoenix%20of%20Ash%0A2%09Redcap%20Melee%0A3%09Roiling%20Vortex%0A2%09Scorching%20Dragonfire%0A2%09Soul%20Sear%0A2%09The%20Akroan%20War)
 # Maindeck
 
 |                                      Artifact (4)                                      |                                             Creature (28)                                              |                                      Instant (4)                                      |                                             Land (24)                                             |
@@ -22,8 +22,8 @@
 
 |                                       Creature (4)                                        |                                      Enchantment (5)                                      |                                           Instant (6)                                           |
 |-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-|2 [Ox of Agonas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476398)  |2 [Roiling Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491797)|2 [Redcap Melee](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473097)        |
-|2 [Phoenix of Ash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476399)|3 [The Akroan War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476375)|2 [Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)|
+|2 [Ox of Agonas](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476398)  |3 [Roiling Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491797)|2 [Redcap Melee](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473097)        |
+|2 [Phoenix of Ash](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476399)|2 [The Akroan War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476375)|2 [Scorching Dragonfire](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473101)|
 |                                                                                           |                                                                                           |2 [Soul Sear](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=485483)           |
 
 
@@ -31,8 +31,8 @@
 
 |*n*<sup>th</sup> copy|                                            Maindeck Card                                            |*n*<sup>th</sup> copy|                                         Sideboard Card                                          |
 |--------------------:|-----------------------------------------------------------------------------------------------------|--------------------:|-------------------------------------------------------------------------------------------------|
-|                    2|[Castle Embereth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473201)           |                    3|[Roiling Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491797)        |
-|                    3|[Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)            |                    1|[Shredded Sails](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479656)        |
+|                    3|[Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)            |                    3|[The Akroan War](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476375)        |
+|                    2|[Castle Embereth](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473201)           |                    1|[Shredded Sails](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479656)        |
 |                    4|[Fireblade Charger](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491779)         |                    1|[Blazing Volley](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426821)        |
 |                    4|[Hall Monitor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=513582)              |                    3|[Redcap Melee](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473097)          |
 |                    4|[Rimrock Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473099)            |                    4|[Roiling Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491797)        |

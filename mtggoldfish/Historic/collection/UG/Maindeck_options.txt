@@ -42,9 +42,9 @@
 3 Memory Lapse
 4 Memory Lapse
 5 Forest
-1 Swamp
 1 Hydroid Krasis
 1 Overgrown Tomb
+1 Swamp
 2 Hydroid Krasis
 1 Fatal Push
 2 Fatal Push
@@ -56,14 +56,14 @@
 1 Castle Locthwain
 1 Eliminate
 2 Eliminate
-1 Woodland Cemetery
 1 Binding the Old Gods
+1 Woodland Cemetery
 2 Woodland Cemetery
 3 Overgrown Tomb
 2 Swamp
-1 Thoughtseize
 1 Shadows' Verdict
 1 Drowned Catacomb
+1 Thoughtseize
 2 Thoughtseize
 2 Shadows' Verdict
 3 Thoughtseize
@@ -108,9 +108,9 @@
 2 Darkbore Pathway
 1 Rimewood Falls
 2 Rimewood Falls
+1 Jace, Wielder of Mysteries
 1 Eureka Moment
 1 Oracle of Mul Daya
-1 Jace, Wielder of Mysteries
 2 Eureka Moment
 2 Oracle of Mul Daya
 1 Negate
@@ -118,37 +118,37 @@
 3 Shadows' Verdict
 1 Hengegate Pathway
 1 Hallowed Fountain
-1 Declaration in Stone
 1 Temple Garden
-1 Gates of Istfell
+1 Declaration in Stone
 1 Seal Away
+1 Gates of Istfell
 1 Teferi's Protection
 1 Teferi, Hero of Dominaria
 2 Plains
-2 Hallowed Fountain
-2 Hengegate Pathway
 2 Temple Garden
-2 Seal Away
+2 Hengegate Pathway
+2 Hallowed Fountain
 2 Declaration in Stone
 2 Teferi's Protection
+2 Seal Away
 3 Hallowed Fountain
 4 Hallowed Fountain
-1 Maelstrom Pulse
 1 Disdainful Stroke
 1 Duress
 1 Cry of the Carnarium
+1 Maelstrom Pulse
 1 Tale's End
 1 Fae of Wishes
 2 Castle Locthwain
+2 Tale's End
 2 Maelstrom Pulse
 2 Duress
 2 Cry of the Carnarium
-2 Tale's End
 2 Clearwater Pathway
 2 Fae of Wishes
 3 Clearwater Pathway
-3 Duress
 3 Temple of Mystery
+3 Duress
 4 Clearwater Pathway
 1 Scavenging Ooze
 1 Grafdigger's Cage
@@ -162,15 +162,15 @@
 1 Yasharn, Implacable Earth
 1 Ritual of Soot
 1 Indatha Triome
-1 Mythos of Nethroi
 1 Elspeth Conquers Death
+1 Mythos of Nethroi
 1 Vraska, Relic Seeker
-2 Indatha Triome
 2 Yasharn, Implacable Earth
 2 Mythos of Nethroi
-3 Indatha Triome
+2 Indatha Triome
 3 Yasharn, Implacable Earth
 3 Mythos of Nethroi
+3 Indatha Triome
 4 Hydroid Krasis
 4 Indatha Triome
 2 Search for Azcanta
