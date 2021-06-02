@@ -56,8 +56,8 @@
 4 Faithless Looting
 1 Sheltered Thicket
 2 Sheltered Thicket
-1 Memory Leak
 1 Easy Prey
+1 Memory Leak
 2 Memory Leak
 2 Easy Prey
 3 Memory Leak
@@ -179,7 +179,6 @@
 1 Baffling End
 2 Baffling End
 3 Sweltering Suns
-3 Temple of Triumph
 3 Sheltered Thicket
 1 Relic of Progenitus
 2 Gideon of the Trials
@@ -191,6 +190,7 @@
 2 Increasing Vengeance
 2 Show of Confidence
 3 Show of Confidence
+3 Temple of Triumph
 4 Cragcrown Pathway
 1 Thraben Inspector
 1 The Birth of Meletis
