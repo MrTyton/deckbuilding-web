@@ -1,26 +1,28 @@
-1 Legion's Landing
 2 Legion's Landing
+1 Resplendent Angel
+4 Castle Ardenvale
 3 Leonin Vanguard
+4 Healer's Hawk
 1 Ranger of Eos
 2 Ranger of Eos
-1 Resplendent Angel
 3 Ajani, Strength of the Pride
 1 Lurrus of the Dream-Den
-4 Healer's Hawk
-1 Banishing Light
-2 Banishing Light
+2 Resplendent Angel
 4 Leonin Vanguard
 3 Legion's Landing
+1 Banishing Light
+2 Banishing Light
 21 Plains
-3 Banishing Light
-2 Resplendent Angel
-4 Ajani, Strength of the Pride
-3 Alseid of Life's Bounty
 1 Conclave Tribunal
 2 Conclave Tribunal
-1 Giant Killer
-2 Lurrus of the Dream-Den
+3 Banishing Light
+4 Ajani, Strength of the Pride
+3 Alseid of Life's Bounty
+1 Unbreakable Formation
+2 Unbreakable Formation
 1 Settle the Wreckage
+2 Lurrus of the Dream-Den
+1 Giant Killer
 1 Hallowed Priest
 2 Hallowed Priest
 3 Hallowed Priest
@@ -29,8 +31,8 @@
 3 Resplendent Angel
 1 Skyclave Apparition
 2 Skyclave Apparition
-1 Branchloft Pathway
 1 Sunpetal Grove
+1 Branchloft Pathway
 1 Collected Company
 2 Sunpetal Grove
 2 Branchloft Pathway
@@ -50,15 +52,12 @@
 1 Shadowspear
 2 Shadowspear
 2 Settle the Wreckage
-1 Unbreakable Formation
-2 Unbreakable Formation
 1 Thalia, Guardian of Thraben
 1 Angel of Vitality
 1 Griffin Aerie
 2 Griffin Aerie
 1 Authority of the Consuls
 2 Authority of the Consuls
-1 Idyllic Grange
 1 Temple Garden
 2 Temple Garden
 3 Temple Garden
@@ -69,44 +68,39 @@
 3 Righteous Valkyrie
 1 Lyra Dawnbringer
 1 Basri Ket
-1 Luminous Broodmoth
 2 Thalia, Guardian of Thraben
 3 Thalia, Guardian of Thraben
 4 Linden, the Steadfast Queen
 2 Angel of Vitality
 22 Plains
+1 Idyllic Grange
+3 Authority of the Consuls
 1 Crested Sunmare
 3 Unbreakable Formation
-3 Authority of the Consuls
 4 Hallowed Priest
 3 Skyclave Apparition
 1 Gods Willing
 4 Righteous Valkyrie
 1 Baneslayer Angel
+1 Vito, Thorn of the Dusk Rose
 1 Godless Shrine
 1 Isolated Chapel
-1 Vito, Thorn of the Dusk Rose
 1 Temple of Silence
+2 Vito, Thorn of the Dusk Rose
 2 Godless Shrine
 2 Isolated Chapel
-2 Vito, Thorn of the Dusk Rose
 3 Godless Shrine
 3 Isolated Chapel
 3 Vito, Thorn of the Dusk Rose
 4 Godless Shrine
 4 Isolated Chapel
-1 Elspeth Conquers Death
-1 Revitalize
-1 God-Eternal Oketra
-2 Luminous Broodmoth
-2 Revitalize
-3 Luminous Broodmoth
+1 Luminous Broodmoth
 3 Ranger of Eos
 4 Ranger of Eos
 1 Mangara, the Diplomat
+1 Cubwarden
 1 Twinblade Paladin
 1 Ixalan's Binding
-1 Cubwarden
 2 Ixalan's Binding
 3 Shadowspear
 1 Dire Tactics
@@ -131,21 +125,22 @@
 2 Fight as One
 3 Selfless Savior
 4 Selfless Savior
-1 Oath of Kaya
-1 Castle Locthwain
+4 Banishing Light
 1 Erebos's Intervention
 1 Linvala, Keeper of Silence
 1 Elspeth, Sun's Nemesis
 1 Angelic Ascension
+1 Oath of Kaya
+1 Castle Locthwain
 1 Scoured Barrens
 2 Linvala, Keeper of Silence
-2 Oath of Kaya
 2 Erebos's Intervention
-2 Castle Locthwain
 2 Temple of Silence
-2 Scoured Barrens
-2 Elspeth, Sun's Nemesis
 2 Angelic Ascension
+2 Scoured Barrens
+2 Castle Locthwain
+2 Elspeth, Sun's Nemesis
+2 Oath of Kaya
 3 Oath of Kaya
 3 Temple of Silence
 3 Scoured Barrens
@@ -154,14 +149,6 @@
 1 Youthful Valkyrie
 2 Youthful Valkyrie
 4 Skyclave Apparition
-1 Guiding Voice
-1 The Ozolith
-2 Guiding Voice
-2 Idyllic Grange
-2 God-Eternal Oketra
-3 Idyllic Grange
-4 Idyllic Grange
-4 Banishing Light
 1 Ajani's Welcome
 2 Ajani's Welcome
 3 Ajani's Welcome
@@ -170,12 +157,12 @@
 2 Sacred Cat
 4 Authority of the Consuls
 1 Emeria's Call
-1 Snow-Covered Plains
 1 Faceless Haven
+1 Snow-Covered Plains
 1 Search for Glory
 2 Emeria's Call
-2 Snow-Covered Plains
 2 Faceless Haven
+2 Snow-Covered Plains
 3 Emeria's Call
 3 Snow-Covered Plains
 4 Snow-Covered Plains
@@ -193,17 +180,23 @@
 16 Snow-Covered Plains
 1 Wrath of God
 1 Containment Priest
+1 Elspeth Conquers Death
 1 Realm-Cloaked Giant
 1 Secluded Steppe
 1 Mikaeus, the Lunarch
-2 Wrath of God
+1 God-Eternal Oketra
+1 Revitalize
 2 Containment Priest
-2 Secluded Steppe
+2 Luminous Broodmoth
+2 Wrath of God
 2 Realm-Cloaked Giant
+2 Secluded Steppe
+2 Revitalize
 2 Basri Ket
 3 Containment Priest
-3 Basri Ket
+3 Luminous Broodmoth
 3 Secluded Steppe
 3 Revitalize
+3 Basri Ket
 4 Basri Ket
 4 Secluded Steppe

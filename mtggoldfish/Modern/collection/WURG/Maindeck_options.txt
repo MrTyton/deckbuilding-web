@@ -3,9 +3,9 @@
 1 Flooded Strand
 2 Flooded Strand
 1 Island
+1 Mountain
 1 Lightning Helix
 1 Hallowed Fountain
-1 Mountain
 1 Teferi, Hero of Dominaria
 1 Cryptic Command
 3 Flooded Strand
@@ -16,43 +16,43 @@
 1 Misty Rainforest
 2 Omnath, Locus of Creation
 1 Plains
-1 Snapcaster Mage
-2 Snapcaster Mage
 2 Misty Rainforest
 3 Misty Rainforest
 1 Mana Leak
-2 Mana Leak
+1 Snapcaster Mage
 2 Cryptic Command
+2 Mana Leak
+2 Snapcaster Mage
 2 Path to Exile
 3 Path to Exile
-1 Force of Negation
-1 Supreme Verdict
-2 Force of Negation
-2 Teferi, Hero of Dominaria
-3 Snapcaster Mage
 1 Forest
 1 Field of Ruin
 1 Lonely Sandbar
 2 Field of Ruin
-2 Lightning Helix
+1 Supreme Verdict
+1 Force of Negation
+2 Force of Negation
+2 Teferi, Hero of Dominaria
+3 Snapcaster Mage
 3 Force of Negation
-3 Cryptic Command
 1 Spell Snare
+3 Cryptic Command
+2 Lightning Helix
 2 Island
 4 Path to Exile
 1 Temple Garden
 1 Arid Mesa
 4 Misty Rainforest
-3 Lightning Helix
 2 Arid Mesa
 3 Arid Mesa
+3 Lightning Helix
 1 Logic Knot
 1 Tamiyo, Collector of Tales
 2 Tamiyo, Collector of Tales
 3 Omnath, Locus of Creation
-2 Raugrin Triome
 1 Timely Reinforcements
 3 Mana Leak
+4 Lightning Helix
 1 Explore
 1 Fires of Invention
 2 Explore
@@ -61,13 +61,13 @@
 3 Fires of Invention
 4 Fires of Invention
 4 Explore
-4 Lightning Helix
 4 Arid Mesa
+2 Raugrin Triome
+4 Teferi, Time Raveler
+1 Aether Gust
 1 Kaya's Guile
 1 Watery Grave
 2 Kaya's Guile
-4 Teferi, Time Raveler
-1 Aether Gust
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
 2 Ketria Triome
@@ -81,13 +81,8 @@
 3 Island
 1 Cleansing Wildfire
 2 Cleansing Wildfire
-1 Narset, Parter of Veils
-1 Expressive Iteration
-2 Expressive Iteration
-3 Expressive Iteration
-1 Snow-Covered Forest
 1 Snow-Covered Plains
-1 Reflecting Pool
+1 Snow-Covered Forest
 1 Valakut Awakening
 1 Omen of the Sea
 1 Farseek
@@ -104,34 +99,15 @@
 4 Omen of the Sea
 4 Tamiyo, Collector of Tales
 4 Farseek
-1 Skyclave Apparition
-1 Drown in the Loch
-1 Dreadbore
-1 Polluted Delta
-1 Godless Shrine
-1 Marsh Flats
-1 Thoughtseize
-1 Liliana of the Veil
-1 Blood Crypt
-1 Fatal Push
-1 Swamp
-1 Kolaghan's Command
-1 Cascade Bluffs
-1 Savai Triome
-2 Reflecting Pool
-2 Drown in the Loch
-2 Polluted Delta
-2 Supreme Verdict
-2 Narset, Parter of Veils
-2 Fatal Push
-3 Drown in the Loch
-3 Fatal Push
-4 Expressive Iteration
 1 Archmage's Charm
 1 Kasmina, Enigma Sage
 2 Kasmina, Enigma Sage
+1 Expressive Iteration
 1 Anger of the Gods
 2 Snow-Covered Island
+2 Expressive Iteration
+3 Expressive Iteration
+1 Narset, Parter of Veils
 1 Nahiri, the Harbinger
 1 Izzet Charm
 2 Izzet Charm
@@ -147,39 +123,40 @@
 1 Shark Typhoon
 1 Prairie Stream
 1 Oust
-1 Castle Vantress
 1 Flagstones of Trokair
+1 Reflecting Pool
+1 Castle Vantress
 2 Shark Typhoon
-2 Oust
 2 Flagstones of Trokair
-3 Shark Typhoon
+2 Oust
 3 Flagstones of Trokair
+3 Shark Typhoon
 3 Cleansing Wildfire
-4 Cleansing Wildfire
 4 Flagstones of Trokair
+4 Cleansing Wildfire
+1 Saheeli Rai
+1 Felidar Guardian
 1 Prismatic Vista
 1 Waterlogged Grove
 1 Windswept Heath
 1 Utopia Sprawl
 1 Oath of Nissa
-1 Saheeli Rai
 1 Wall of Blossoms
-1 Felidar Guardian
+2 Saheeli Rai
+2 Felidar Guardian
 2 Prismatic Vista
 2 Utopia Sprawl
 2 Windswept Heath
 2 Oath of Nissa
 2 Wall of Blossoms
-2 Saheeli Rai
-2 Felidar Guardian
 2 Snow-Covered Forest
+3 Felidar Guardian
+3 Saheeli Rai
 3 Utopia Sprawl
 3 Oath of Nissa
 3 Windswept Heath
-3 Saheeli Rai
-3 Felidar Guardian
-4 Utopia Sprawl
-4 Saheeli Rai
 4 Felidar Guardian
+4 Saheeli Rai
+4 Utopia Sprawl
 4 Oath of Nissa
 4 Prismari Command

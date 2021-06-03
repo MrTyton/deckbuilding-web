@@ -70,7 +70,7 @@
 |                    3|[Questing Beast](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473133)             |                     |                                                                                                     |
 |                    3|[Voltaic Brawler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417762)            |                     |                                                                                                     |
 |                    4|[Pelt Collector](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=452891)             |                     |                                                                                                     |
-|                    4|[Voltaic Brawler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417762)            |                     |                                                                                                     |
 |                    4|[Embercleave](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473082)                |                     |                                                                                                     |
+|                    4|[Voltaic Brawler](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417762)            |                     |                                                                                                     |
 |                    4|[Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=439859)                   |                     |                                                                                                     |
 
