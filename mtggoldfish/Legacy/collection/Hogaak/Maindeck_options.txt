@@ -4,13 +4,10 @@
 2 Bloodstained Mire
 3 Bloodstained Mire
 1 Darkblast
-1 Daze
-2 Daze
-4 Underground Sea
 1 Basking Rootwalla
 1 Cavern of Souls
-1 Lotleth Troll
 1 Once Upon a Time
+1 Lotleth Troll
 2 Basking Rootwalla
 2 Once Upon a Time
 2 Cavern of Souls
@@ -21,6 +18,8 @@
 4 Once Upon a Time
 4 Basking Rootwalla
 4 Lotleth Troll
+1 Daze
+2 Daze
 1 Sylvan Safekeeper
 1 Hollow One
 1 Lotus Petal
@@ -35,9 +34,10 @@
 4 Putrid Imp
 4 Lotus Petal
 4 Cavern of Souls
+1 Forest
+4 Underground Sea
 2 Carrion Feeder
 3 Polluted Delta
-1 Forest
 1 Brainstorm
 2 Brainstorm
 2 Dryad Arbor
@@ -58,9 +58,3 @@
 4 Bloodstained Mire
 4 Polluted Delta
 4 Faithless Looting
-1 Force of Will
-2 Force of Will
-3 Daze
-3 Force of Will
-4 Daze
-4 Force of Will

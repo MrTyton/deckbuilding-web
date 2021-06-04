@@ -54,6 +54,7 @@
 2 Heroic Intervention
 1 Canopy Tactician
 1 Swamp
+1 The Great Henge
 1 Lys Alana Huntmaster
 1 Harald Unites the Elves
 1 Thorn Lieutenant
@@ -61,7 +62,6 @@
 1 Elven Ambush
 1 Poison-Tip Archer
 1 Haunting Voyage
-1 The Great Henge
 2 Harald Unites the Elves
 2 Abomination of Llanowar
 2 Canopy Tactician
@@ -92,14 +92,14 @@
 3 Growing Rites of Itlimoc
 4 Realmwalker
 1 Branchloft Pathway
-1 Temple Garden
 1 Sunpetal Grove
+1 Temple Garden
 1 Plains
 2 Branchloft Pathway
 2 Temple Garden
 2 Sunpetal Grove
-3 Temple Garden
 3 Branchloft Pathway
+3 Temple Garden
 3 Sunpetal Grove
 4 Branchloft Pathway
 4 Temple Garden
@@ -115,9 +115,9 @@
 18 Snow-Covered Forest
 19 Snow-Covered Forest
 1 Herald's Horn
-1 Temple of Malady
-1 Necroblossom Snarl
 1 Adventurous Impulse
+1 Necroblossom Snarl
+1 Temple of Malady
 2 Herald's Horn
 2 Adventurous Impulse
 3 Herald's Horn

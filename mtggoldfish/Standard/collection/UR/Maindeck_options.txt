@@ -1,101 +1,101 @@
-1 Unsubstantiate
-2 Unsubstantiate
-3 Prismari Command
 3 Unsubstantiate
-4 Prismari Command
 1 Goldspan Dragon
 2 Goldspan Dragon
 3 Goldspan Dragon
+4 Goldspan Dragon
 1 Hengegate Pathway
 1 Needleverge Pathway
 2 Hengegate Pathway
-4 Goldspan Dragon
 2 Needleverge Pathway
 3 Hengegate Pathway
 3 Needleverge Pathway
 4 Needleverge Pathway
 1 Raugrin Triome
 2 Raugrin Triome
+4 Hengegate Pathway
 1 Vadrok, Apex of Thunder
 1 Lore Drakkis
 2 Lore Drakkis
 2 Vadrok, Apex of Thunder
 3 Lore Drakkis
 3 Vadrok, Apex of Thunder
-4 Hengegate Pathway
+1 Mountain
+1 Island
 4 Vadrok, Apex of Thunder
-4 Unsubstantiate
-3 Negate
+4 Prismari Command
+2 Mountain
+2 Island
 1 Fabled Passage
 2 Fabled Passage
 1 Bonecrusher Giant
+2 Bonecrusher Giant
 3 Mountain
 1 Opt
 2 Opt
 3 Opt
-2 Bonecrusher Giant
 1 Shock
 2 Shock
+4 Opt
+3 Shock
+3 Bonecrusher Giant
+1 Sprite Dragon
+2 Sprite Dragon
+3 Sprite Dragon
+4 Sprite Dragon
 3 Island
 4 Mountain
-3 Shock
 1 Temple of Epiphany
-4 Opt
+1 Brazen Borrower
 4 Island
 5 Island
+1 Stormwing Entity
+2 Stormwing Entity
+3 Stormwing Entity
+4 Stormwing Entity
 4 Shock
 6 Island
 5 Mountain
 1 Crash Through
 2 Crash Through
 3 Crash Through
-2 Temple of Epiphany
-4 Crash Through
-3 Temple of Epiphany
-3 Bonecrusher Giant
-1 Sprite Dragon
-2 Sprite Dragon
-3 Sprite Dragon
-4 Sprite Dragon
-4 Temple of Epiphany
-1 Brazen Borrower
-1 Stormwing Entity
-2 Stormwing Entity
-3 Stormwing Entity
-4 Stormwing Entity
-4 Bonecrusher Giant
 2 Brazen Borrower
 3 Brazen Borrower
-7 Island
+4 Bonecrusher Giant
+2 Temple of Epiphany
+4 Crash Through
+4 Unsubstantiate
 1 Silundi Vision
 2 Silundi Vision
 4 Brazen Borrower
+3 Temple of Epiphany
 4 Lore Drakkis
-1 Fire Prophecy
+4 Temple of Epiphany
+7 Island
 1 Riddleform
 2 Riddleform
 3 Riddleform
 4 Riddleform
-1 Mystical Dispute
-2 Fire Prophecy
-1 Thrill of Possibility
+1 Fire Prophecy
 3 Raugrin Triome
+1 Plains
+2 Fire Prophecy
 1 Showdown of the Skalds
 1 See the Truth
-1 Plains
-2 Thrill of Possibility
+1 Mystical Dispute
+1 Defiant Strike
 2 See the Truth
 3 See the Truth
 4 See the Truth
-3 Thrill of Possibility
-1 Defiant Strike
-6 Mountain
 2 Defiant Strike
 1 Ox of Agonas
 1 Phoenix of Ash
 1 Sejiri Shelter
-7 Mountain
+1 Thrill of Possibility
 3 Fabled Passage
+6 Mountain
+2 Thrill of Possibility
+7 Mountain
+3 Thrill of Possibility
 1 Search for Glory
 2 Sejiri Shelter
 2 Phoenix of Ash
@@ -103,53 +103,56 @@
 3 Defiant Strike
 2 Search for Glory
 1 Skyclave Cleric
-4 Thrill of Possibility
 2 Showdown of the Skalds
 1 Into the Roil
 1 Birgi, God of Storytelling
+4 Raugrin Triome
+7 Snow-Covered Island
+1 Frostboil Snarl
+1 Scorching Dragonfire
 1 Miscast
 1 Snow-Covered Plains
 1 Open the Omenpaths
 1 Pollywog Symbiote
 2 Pollywog Symbiote
 3 Pollywog Symbiote
-4 Raugrin Triome
 3 Fire Prophecy
-8 Island
-7 Snow-Covered Island
-1 Frostboil Snarl
-1 Scorching Dragonfire
+2 Frostboil Snarl
 7 Snow-Covered Mountain
+1 Shatterskull Smashing
 1 Behold the Multiverse
 2 Behold the Multiverse
-2 Frostboil Snarl
+8 Island
 2 Birgi, God of Storytelling
 1 Purphoros's Intervention
 2 Purphoros's Intervention
 3 Purphoros's Intervention
 4 Fire Prophecy
-1 Rowan, Scholar of Sparks
 2 Scorching Dragonfire
-1 Shatterskull Smashing
-1 Saw It Coming
+1 Rowan, Scholar of Sparks
 1 Cubwarden
 2 Cubwarden
+3 Frostboil Snarl
+1 Saw It Coming
 2 Open the Omenpaths
 2 Miscast
+2 Shatterskull Smashing
 1 The Royal Scions
 2 The Royal Scions
 8 Mountain
-8 Snow-Covered Island
+1 Infuriate
+3 Shatterskull Smashing
+4 Frostboil Snarl
 2 Saw It Coming
 9 Island
 10 Island
+8 Snow-Covered Island
+9 Mountain
 2 Mystical Dispute
-3 Frostboil Snarl
 1 Volatile Fjord
 2 Volatile Fjord
-9 Mountain
+4 Thrill of Possibility
 1 Barrin, Tolarian Archmage
-2 Shatterskull Smashing
 1 Sea-Dasher Octopus
 1 Escape Velocity
 1 Rimrock Knight
@@ -159,14 +162,13 @@
 1 Claim the Firstborn
 1 Storm's Wrath
 2 Storm's Wrath
+2 Infuriate
+3 Infuriate
 3 Saw It Coming
 10 Mountain
 1 Sea Gate Restoration
-3 Shatterskull Smashing
-1 Infuriate
-1 Test of Talents
 4 Fabled Passage
-4 Frostboil Snarl
+1 Test of Talents
 4 Saw It Coming
 1 Jwari Disruption
 1 Galazeth Prismari
@@ -185,11 +187,10 @@
 2 Sea-Dasher Octopus
 3 Sea-Dasher Octopus
 4 Pollywog Symbiote
-2 Infuriate
-3 Infuriate
+1 Stern Dismissal
 4 Infuriate
-1 Temple of Enlightenment
 1 Temple of Triumph
+1 Temple of Enlightenment
 1 Valakut Awakening
 3 Galazeth Prismari
 4 Magma Opus
@@ -201,7 +202,6 @@
 1 Alrund's Epiphany
 1 Shark Typhoon
 2 Shark Typhoon
-1 Stern Dismissal
 1 Divide by Zero
 1 Lofty Denial
 2 Lofty Denial
@@ -213,69 +213,69 @@
 2 Embercleave
 2 Roil Eruption
 3 Showdown of the Skalds
+1 Unleash Fury
+2 Unleash Fury
+3 Unleash Fury
 3 Practical Research
 1 Academic Dispute
 2 Academic Dispute
 3 Academic Dispute
-1 Furycalm Snarl
 1 Surtland Frostpyre
+1 Furycalm Snarl
 2 Ox of Agonas
 2 Temple of Enlightenment
 2 Furycalm Snarl
 2 Temple of Triumph
 3 Temple of Enlightenment
 3 Temple of Triumph
+4 Shatterskull Smashing
 1 Emeria's Call
 1 Draconic Intervention
-1 Glass Casket
 1 Midnight Clock
 1 Dream Trawler
+1 Glass Casket
 1 Doomskar
 1 Narset of the Ancient Way
-2 Draconic Intervention
 2 Emeria's Call
+2 Draconic Intervention
 2 Glass Casket
 2 Narset of the Ancient Way
 3 Emeria's Call
 4 Mazemind Tome
-1 Frantic Inventory
+4 Sea-Dasher Octopus
 1 Blazing Volley
 1 Raking Claws
-2 Frantic Inventory
+1 Frantic Inventory
 2 Blazing Volley
+2 Frantic Inventory
 2 Raking Claws
 3 Frantic Inventory
 4 Frantic Inventory
-4 Sea-Dasher Octopus
 1 Robber of the Rich
 1 Of One Mind
 1 Fervent Champion
-2 Of One Mind
 2 Robber of the Rich
 2 Fervent Champion
-3 Of One Mind
+2 Of One Mind
 3 Robber of the Rich
+3 Of One Mind
 3 Fervent Champion
-4 Of One Mind
 4 Robber of the Rich
+4 Of One Mind
 4 Fervent Champion
 1 Crawling Barrens
 1 Solemn Simulacrum
 1 Irencrag Feat
-2 Crawling Barrens
-2 Ugin, the Spirit Dragon
 2 Irencrag Feat
 2 Solemn Simulacrum
+2 Crawling Barrens
+2 Ugin, the Spirit Dragon
 3 Jwari Disruption
-3 Ugin, the Spirit Dragon
 3 Solemn Simulacrum
+3 Ugin, the Spirit Dragon
 3 Irencrag Feat
 4 Ugin, the Spirit Dragon
 4 Irencrag Feat
-1 Curate
-2 Curate
-3 Curate
-4 Curate
 1 Creative Outburst
 1 Torrent Sculptor
 2 Torrent Sculptor
@@ -303,14 +303,19 @@
 3 Faerie Vandal
 3 Gust of Wind
 3 Field Research
-4 Faerie Vandal
 4 Improbable Alliance
+4 Faerie Vandal
 4 Swiftwater Cliffs
 4 Purphoros's Intervention
-1 Heartfire Immolator
+1 Clever Lumimancer
+2 Stern Dismissal
+2 Clever Lumimancer
+3 Clever Lumimancer
+4 Clever Lumimancer
 1 Mystic Sanctuary
-2 Heartfire Immolator
+1 Heartfire Immolator
 2 Escape Velocity
+2 Heartfire Immolator
 3 Heartfire Immolator
 4 Heartfire Immolator
 1 Crush the Weak

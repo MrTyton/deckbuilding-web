@@ -2,47 +2,48 @@
 2 Prismatic Vista
 3 Prismatic Vista
 2 Spell Pierce
-1 Snow-Covered Plains
-4 Wasteland
+2 Polluted Delta
 2 Misty Rainforest
+1 Snow-Covered Forest
 1 Tropical Island
 1 Uro, Titan of Nature's Wrath
 1 Noble Hierarch
-2 Tropical Island
 2 Uro, Titan of Nature's Wrath
+2 Tropical Island
 2 Noble Hierarch
 3 Misty Rainforest
 3 Uro, Titan of Nature's Wrath
 4 Misty Rainforest
-4 Uro, Titan of Nature's Wrath
+4 Wasteland
 1 Delver of Secrets
 2 Delver of Secrets
 3 Delver of Secrets
 4 Delver of Secrets
 3 Tundra
+2 Snow-Covered Island
 1 Preordain
 2 Preordain
-1 Snow-Covered Forest
 1 Sylvan Library
 3 Noble Hierarch
+4 Uro, Titan of Nature's Wrath
+1 Windswept Heath
 3 Snapcaster Mage
-2 Snow-Covered Island
-1 Hullbreacher
 4 Noble Hierarch
+1 Hullbreacher
 4 Prismatic Vista
 1 Narset, Parter of Veils
 5 Island
+1 Sword of Feast and Famine
 1 Vendilion Clique
 2 Narset, Parter of Veils
 2 Vendilion Clique
 3 Preordain
-1 Sword of Feast and Famine
-1 Windswept Heath
+1 Savannah
+2 Sylvan Library
 1 Arid Mesa
 2 Volcanic Island
 3 True-Name Nemesis
 2 Hullbreacher
-3 Polluted Delta
 1 Baleful Strix
 1 Drown in the Loch
 1 Swamp
@@ -51,16 +52,16 @@
 2 Underground Sea
 2 Drown in the Loch
 3 Baleful Strix
+3 Polluted Delta
 4 Polluted Delta
-4 Preordain
-1 Venser, Shaper Savant
+2 Brazen Borrower
 1 Lightning Bolt
 2 Lightning Bolt
 3 Volcanic Island
 3 Lightning Bolt
 4 Lightning Bolt
-1 Savannah
-2 Sylvan Library
+4 Preordain
+1 Venser, Shaper Savant
 3 Sylvan Library
 1 Raugrin Triome
 1 Marsh Flats
@@ -69,6 +70,15 @@
 1 Scrubland
 2 Marsh Flats
 2 Thoughtseize
+1 Skyclave Apparition
+2 Scalding Tarn
+1 Cling to Dust
+1 Spell Snare
+1 Birds of Paradise
+2 Kolaghan's Command
+2 Windswept Heath
+2 Skyclave Apparition
+1 Supreme Verdict
 1 Stifle
 1 Phyrexian Dreadnought
 2 Stifle
@@ -77,19 +87,6 @@
 3 Phyrexian Dreadnought
 3 Tropical Island
 4 Phyrexian Dreadnought
-1 Skyclave Apparition
-2 Scalding Tarn
-1 Cling to Dust
-1 Spell Snare
-2 Brazen Borrower
-1 Birds of Paradise
-1 Torpor Orb
-2 Torpor Orb
-4 Stifle
-2 Kolaghan's Command
-2 Windswept Heath
-2 Skyclave Apparition
-1 Supreme Verdict
 3 Snow-Covered Island
 1 Monastery Mentor
 1 Sword of Fire and Ice
@@ -99,6 +96,9 @@
 2 Spell Snare
 1 Jace, Vryn's Prodigy
 2 Cling to Dust
+1 Torpor Orb
+2 Torpor Orb
+4 Stifle
 1 Scroll of Fate
 2 Scroll of Fate
 1 Ethereal Forager
@@ -110,7 +110,7 @@
 1 Vanishing Verse
 1 Sevinne's Reclamation
 1 Back to Basics
-1 Forest
+2 Snow-Covered Forest
 2 Venser, Shaper Savant
 2 Karakas
 1 Badlands
