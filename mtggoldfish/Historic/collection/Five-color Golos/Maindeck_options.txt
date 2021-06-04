@@ -67,6 +67,7 @@
 1 Gilded Goose
 1 Riverglide Pathway
 1 Omen of the Forge
+1 Sanctum of Stone Fangs
 1 Solemn Simulacrum
 1 Finale of Devastation
 1 Savai Triome
@@ -77,12 +78,10 @@
 1 Dryad of the Ilysian Grove
 1 Migration Path
 1 Godless Shrine
-1 Terror of the Peaks
 1 Elder Gargaroth
+1 Terror of the Peaks
 1 Elspeth Conquers Death
-1 Keruga, the Macrosage
 1 Sanctum of All
-1 Mastermind's Acquisition
 1 Genesis Ultimatum
 1 Mirari's Wake
 1 Assassin's Trophy
@@ -93,12 +92,13 @@
 1 Fae of Wishes
 1 Honden of Infinite Rage
 1 Sanctum of Calm Waters
-1 Sanctum of Stone Fangs
 1 Honden of Night's Reach
 1 Omen of the Hunt
 1 Cultivate
 1 Honden of Seeing Winds
+1 Keruga, the Macrosage
 1 Renegade Map
+1 Mastermind's Acquisition
 1 Cragcrown Pathway
 1 God-Eternal Rhonas
 1 Smothering Tithe
@@ -115,8 +115,9 @@
 2 Omen of the Forge
 2 Finale of Devastation
 2 Savai Triome
-2 The Birth of Meletis
 2 Thirst for Meaning
+2 The Birth of Meletis
+2 Solemn Simulacrum
 2 Prophetic Prism
 2 Yorion, Sky Nomad
 2 Branchloft Pathway
@@ -126,12 +127,11 @@
 2 Migration Path
 2 Watery Grave
 2 Godless Shrine
-2 Solemn Simulacrum
 2 Terror of the Peaks
 2 Elspeth Conquers Death
-2 Archon of Sun's Grace
 2 Wrath of God
 2 Assassin's Trophy
+2 Archon of Sun's Grace
 2 Mirari's Wake
 2 Blood Crypt
 2 Smothering Tithe
@@ -248,8 +248,8 @@
 2 Glacial Fortress
 2 Hinterland Harbor
 2 Binding the Old Gods
-3 In Search of Greatness
 3 Trial of Ambition
+3 In Search of Greatness
 3 Skyclave Apparition
 3 Binding the Old Gods
 3 Oath of Kaya
@@ -290,11 +290,11 @@
 2 Honden of Cleansing Fire
 2 Honden of Night's Reach
 2 Sanctum of Calm Waters
-3 Archon of Sun's Grace
 3 The Birth of Meletis
+3 Archon of Sun's Grace
+3 Yorion, Sky Nomad
 3 Solemn Simulacrum
 3 Omen of the Hunt
-3 Yorion, Sky Nomad
 4 Mirari's Wake
 1 Luminous Broodmoth
 1 Shalai, Voice of Plenty
@@ -445,8 +445,8 @@
 1 Open the Gates
 2 Alrund's Epiphany
 2 Valki, God of Lies
-2 Felidar Retreat
 2 Abundant Harvest
+2 Felidar Retreat
 2 Root Snare
 2 Open the Gates
 3 Abundant Harvest

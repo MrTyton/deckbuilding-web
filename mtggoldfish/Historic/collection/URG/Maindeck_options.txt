@@ -146,20 +146,20 @@
 2 Spirebluff Canal
 1 Reckless Rage
 1 Dreadhorde Arcanist
+1 Dragonsguard Elite
 1 Snakeskin Veil
 1 Domri's Ambush
-1 Dragonsguard Elite
 1 Stormwing Entity
 2 Reckless Rage
 2 Dreadhorde Arcanist
-2 Snakeskin Veil
 2 Dragonsguard Elite
+2 Snakeskin Veil
 2 Stormwing Entity
 2 Domri's Ambush
 3 Reckless Rage
 3 Dreadhorde Arcanist
-3 Stormwing Entity
 3 Dragonsguard Elite
+3 Stormwing Entity
 4 Dragonsguard Elite
 1 Soul-Scar Mage
 2 Soul-Scar Mage
@@ -350,8 +350,8 @@
 1 Grim Tutor
 1 Clearwater Pathway
 1 Darkbore Pathway
-2 Darkbore Pathway
 2 Clearwater Pathway
+2 Darkbore Pathway
 3 Silundi Vision
 3 Darkbore Pathway
 4 Silundi Vision
@@ -397,14 +397,14 @@
 2 Syncopate
 1 Bontu's Last Reckoning
 2 Grim Tutor
-1 Champion of Wits
-2 The Great Henge
-2 Champion of Wits
-3 Rootbound Crag
-3 Lightning Strike
 3 Abrade
 2 Yasharn, Implacable Earth
 3 Yasharn, Implacable Earth
+1 Champion of Wits
+2 The Great Henge
+2 Champion of Wits
+3 Lightning Strike
+3 Rootbound Crag
 1 Flame Sweep
 2 Flame Sweep
 3 Flame Sweep
@@ -425,6 +425,10 @@
 2 Blooming Marsh
 3 Blooming Marsh
 4 Blooming Marsh
+2 Solve the Equation
+3 Solve the Equation
+3 Lotus Cobra
+4 Lotus Cobra
 1 Omen of the Sea
 2 Omen of the Sea
 3 Omen of the Sea
@@ -475,10 +479,6 @@
 3 Longtusk Cub
 3 Bristling Hydra
 4 Longtusk Cub
-2 Solve the Equation
-3 Solve the Equation
-3 Lotus Cobra
-4 Lotus Cobra
 4 Kiora, Behemoth Beckoner
 1 Wilt
 1 Sea-Dasher Octopus

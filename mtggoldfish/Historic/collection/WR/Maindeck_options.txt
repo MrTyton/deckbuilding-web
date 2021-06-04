@@ -96,8 +96,8 @@
 1 Memory Leak
 2 Memory Leak
 2 Easy Prey
-3 Easy Prey
 3 Memory Leak
+3 Easy Prey
 4 Memory Leak
 1 Brightclimb Pathway
 1 Canyon Slough
@@ -208,11 +208,11 @@
 1 Legion Warboss
 2 Luminarch Aspirant
 2 Legion Warboss
-1 Crawling Barrens
 1 Mila, Crafty Companion
 1 Rip Apart
-2 Crawling Barrens
+1 Crawling Barrens
 2 Rip Apart
+2 Crawling Barrens
 1 Mavinda, Students' Advocate
 1 Increasing Vengeance
 2 Mavinda, Students' Advocate
@@ -229,7 +229,6 @@
 2 Gideon of the Trials
 3 Fabled Passage
 3 Sheltered Thicket
-4 Cragcrown Pathway
 4 Furycalm Snarl
 1 Bomat Courier
 1 The Biblioplex
@@ -247,12 +246,13 @@
 2 Justice Strike
 2 Aurelia, Exemplar of Justice
 4 Invigorated Rampage
-1 Birgi, God of Storytelling
 1 Spikefield Hazard
+1 Birgi, God of Storytelling
 2 Spikefield Hazard
 3 Spikefield Hazard
 4 Spikefield Hazard
 4 Runaway Steam-Kin
+4 Cragcrown Pathway
 1 Concealed Courtyard
 1 Stomping Ground
 1 Blood Crypt

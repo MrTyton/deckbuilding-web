@@ -4,29 +4,28 @@
 2 Lofty Denial
 3 Lofty Denial
 4 Lofty Denial
+1 Spell Pierce
+2 Spell Pierce
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
 5 Snow-Covered Island
 6 Snow-Covered Island
-1 Spell Pierce
-2 Spell Pierce
-1 Miscast
-7 Snow-Covered Island
-8 Snow-Covered Island
 1 Unsubstantiate
 1 Curious Obsession
 2 Unsubstantiate
 2 Curious Obsession
 3 Curious Obsession
 4 Curious Obsession
-1 Ascendant Spirit
 1 Faceless Haven
+1 Ascendant Spirit
 2 Faceless Haven
 2 Ascendant Spirit
 3 Ascendant Spirit
 4 Ascendant Spirit
+7 Snow-Covered Island
+8 Snow-Covered Island
 9 Snow-Covered Island
 10 Snow-Covered Island
 11 Snow-Covered Island
@@ -38,24 +37,24 @@
 17 Snow-Covered Island
 18 Snow-Covered Island
 19 Snow-Covered Island
-2 Miscast
+1 Miscast
 3 Faceless Haven
-3 Botanical Sanctum
+2 Miscast
+2 Plains
 1 Glacial Fortress
 2 Glacial Fortress
-2 Plains
 3 Glacial Fortress
 3 Island
 4 Island
 5 Island
 6 Island
-2 Breeding Pool
+3 Botanical Sanctum
 7 Island
+2 Breeding Pool
 3 Branchloft Pathway
 3 Barkchannel Pathway
 4 Barkchannel Pathway
-1 Snow-Covered Plains
-2 Snow-Covered Plains
+3 Selfless Spirit
 3 Plains
 1 Nebelgast Herald
 2 Nebelgast Herald
@@ -63,8 +62,6 @@
 9 Island
 1 Forest
 3 Spell Pierce
-4 Botanical Sanctum
-3 Selfless Spirit
 4 Selfless Spirit
 4 Glacial Fortress
 1 Mutavault
@@ -73,11 +70,14 @@
 2 Hanged Executioner
 3 Hanged Executioner
 4 Hanged Executioner
+1 Snow-Covered Plains
 1 Rally of Wings
+2 Snow-Covered Plains
 2 Rally of Wings
 3 Snow-Covered Plains
 4 Snow-Covered Plains
 5 Snow-Covered Plains
+20 Snow-Covered Island
 1 Castle Vantress
 1 Sea-Dasher Octopus
 1 Dive Down
@@ -95,4 +95,3 @@
 17 Island
 18 Island
 19 Island
-20 Snow-Covered Island

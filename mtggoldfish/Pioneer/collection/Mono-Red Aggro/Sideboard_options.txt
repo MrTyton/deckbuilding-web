@@ -1,12 +1,12 @@
-1 Grafdigger's Cage
 1 Lava Coil
 2 Lava Coil
+1 Grafdigger's Cage
 2 Grafdigger's Cage
+1 Magma Spray
+2 Magma Spray
 1 Harness by Force
 1 Burning Earth
 2 Burning Earth
-1 Magma Spray
-2 Magma Spray
 3 Lava Coil
 4 Lava Coil
 1 Damping Sphere
@@ -16,6 +16,9 @@
 1 Glorybringer
 2 Glorybringer
 3 Burning Earth
+1 Leyline of Combustion
+2 Leyline of Combustion
+3 Leyline of Combustion
 1 Mutavault
 1 Chained to the Rocks
 2 Chained to the Rocks
@@ -39,9 +42,6 @@
 1 Goblin Chainwhirler
 2 Goblin Chainwhirler
 3 Goblin Chainwhirler
-1 Leyline of Combustion
-2 Leyline of Combustion
-3 Leyline of Combustion
 1 Tormod's Crypt
 2 Tormod's Crypt
 3 Tormod's Crypt
@@ -62,6 +62,7 @@
 4 Skewer the Critics
 3 Magma Spray
 4 Magma Spray
+4 Leyline of Combustion
 1 Fry
 1 Eidolon of the Great Revel
 2 Eidolon of the Great Revel
@@ -72,8 +73,8 @@
 2 Peak Eruption
 3 Peak Eruption
 4 Peak Eruption
-1 Rampaging Ferocidon
 1 Rip Apart
+1 Rampaging Ferocidon
 2 Rampaging Ferocidon
 3 Rampaging Ferocidon
 4 Chained to the Rocks

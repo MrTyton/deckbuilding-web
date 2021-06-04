@@ -36,8 +36,8 @@
 1 Wooded Foothills
 2 Wooded Foothills
 1 Misty Rainforest
-1 Breeding Pool
 1 Ketria Triome
+1 Breeding Pool
 2 Misty Rainforest
 1 Engineered Explosives
 2 Engineered Explosives
@@ -73,8 +73,8 @@
 2 Spell Snare
 2 Reflecting Pool
 1 Magmatic Sinkhole
-1 Path to Exile
 1 Plains
+1 Path to Exile
 2 Path to Exile
 3 Path to Exile
 4 Path to Exile
@@ -101,22 +101,22 @@
 2 Snow-Covered Mountain
 2 Wandering Fumarole
 3 Mana Leak
-1 Brazen Borrower
-3 Blood Moon
-1 Shark Typhoon
 1 Vendilion Clique
 1 Seasoned Pyromancer
+1 Shark Typhoon
 1 Blast Zone
 1 Pestermite
 1 Fiery Islet
 2 Shark Typhoon
 2 Blast Zone
 2 Pestermite
-3 Shark Typhoon
+3 Mountain
 3 Deceiver Exarch
+3 Shark Typhoon
 3 Kiki-Jiki, Mirror Breaker
 3 Sulfur Falls
-3 Mountain
+1 Brazen Borrower
+3 Blood Moon
 1 Silundi Vision
 1 Ral, Izzet Viceroy
 1 Thing in the Ice
@@ -131,6 +131,15 @@
 4 Lightning Helix
 4 Bloodstained Mire
 4 Izzet Charm
+1 Snow-Covered Forest
+1 Magma Opus
+1 Torrential Gearhulk
+1 Field of Ruin
+1 Prismatic Vista
+2 Magma Opus
+2 Prismatic Vista
+2 Torrential Gearhulk
+6 Snow-Covered Island
 1 Platinum Emperion
 1 Madcap Experiment
 1 Shape Anew
@@ -149,12 +158,3 @@
 4 Madcap Experiment
 4 Platinum Emperion
 4 Reflecting Pool
-1 Snow-Covered Forest
-1 Magma Opus
-1 Torrential Gearhulk
-1 Field of Ruin
-1 Prismatic Vista
-2 Magma Opus
-2 Prismatic Vista
-2 Torrential Gearhulk
-6 Snow-Covered Island
