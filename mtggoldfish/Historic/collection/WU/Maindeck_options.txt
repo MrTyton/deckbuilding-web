@@ -1,10 +1,11 @@
-1 Gideon of the Trials
+3 Wrath of God
 4 Plains
+1 Hengegate Pathway
+2 Hengegate Pathway
 1 Selfless Savior
 2 Selfless Savior
 3 Selfless Savior
-1 Hengegate Pathway
-2 Hengegate Pathway
+4 Glacial Fortress
 4 Selfless Savior
 5 Plains
 6 Plains
@@ -28,7 +29,6 @@
 1 Cartouche of Solidarity
 2 Curious Obsession
 3 Curious Obsession
-4 Glacial Fortress
 3 Alseid of Life's Bounty
 4 Curious Obsession
 1 Karametra's Blessing
@@ -38,6 +38,8 @@
 3 Cartouche of Solidarity
 1 Hushbringer
 2 Hushbringer
+2 Day of Judgment
+3 Shark Typhoon
 3 Sram, Senior Edificer
 3 Hengegate Pathway
 4 Hengegate Pathway
@@ -48,16 +50,14 @@
 7 Plains
 3 Sentinel's Eyes
 2 Heliod's Punishment
-3 Wrath of God
-3 Shark Typhoon
 4 All That Glitters
 8 Plains
 3 Staggering Insight
 1 Skyclave Apparition
-1 Luminarch Aspirant
 2 Skyclave Apparition
-2 Luminarch Aspirant
 3 Skyclave Apparition
+1 Luminarch Aspirant
+2 Luminarch Aspirant
 3 Luminarch Aspirant
 4 Luminarch Aspirant
 1 Thalia, Guardian of Thraben
@@ -65,22 +65,18 @@
 3 Thalia, Guardian of Thraben
 1 Archon of Emeria
 2 Archon of Emeria
-3 Archon of Emeria
 4 Skyclave Apparition
+3 Archon of Emeria
 1 Branchloft Pathway
 1 Temple Garden
 2 Branchloft Pathway
 2 Temple Garden
-3 Temple Garden
 3 Branchloft Pathway
+3 Temple Garden
 4 Temple Garden
 1 Deputy of Detention
 2 Deputy of Detention
 3 Deputy of Detention
-1 Meddling Mage
-2 Meddling Mage
-3 Meddling Mage
-4 Meddling Mage
 4 Branchloft Pathway
 1 Collected Company
 2 Collected Company
@@ -88,116 +84,133 @@
 4 Collected Company
 1 Glasspool Mimic
 2 Glasspool Mimic
+1 Meddling Mage
+2 Meddling Mage
+3 Meddling Mage
+4 Meddling Mage
+1 Search for Azcanta
 1 Linvala, Shield of Sea Gate
 2 Linvala, Shield of Sea Gate
 9 Plains
 1 Yasharn, Implacable Earth
+2 Irrigated Farmland
+4 Shark Typhoon
 3 Glasspool Mimic
 3 Heliod's Punishment
 2 Yasharn, Implacable Earth
-2 Irrigated Farmland
-1 Search for Azcanta
-4 Alseid of Life's Bounty
 1 Reidane, God of the Worthy
 1 Elite Spellbinder
 2 Elite Spellbinder
 3 Elite Spellbinder
 2 Reidane, God of the Worthy
+4 Alseid of Life's Bounty
 3 Arcane Flight
 1 Godless Shrine
 2 Godless Shrine
 3 Godless Shrine
 4 Godless Shrine
+4 Wrath of God
 3 Linvala, Shield of Sea Gate
-4 Shark Typhoon
-1 Barkchannel Pathway
-2 Barkchannel Pathway
+2 Doomskar
+2 Seal Away
 4 Elite Spellbinder
 1 Brightclimb Pathway
 2 Brightclimb Pathway
 3 Brightclimb Pathway
 4 Brightclimb Pathway
-4 Wrath of God
-4 Arcane Flight
+5 Island
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
+1 Barkchannel Pathway
+2 Barkchannel Pathway
+1 Absorb
+2 Absorb
+6 Island
 1 Emeria's Call
+4 Arcane Flight
+1 Thraben Inspector
+2 Thraben Inspector
+3 Thraben Inspector
 1 Adanto Vanguard
 2 Adanto Vanguard
 1 Kaya's Ghostform
 2 Kaya's Ghostform
-1 Thraben Inspector
-2 Thraben Inspector
-1 Aether Gust
-2 Doomskar
-2 Grafdigger's Cage
-3 Saw It Coming
-4 Saw It Coming
-1 Isolated Chapel
-1 Thoughtseize
-2 Thoughtseize
-3 Thoughtseize
-2 Commit/Memory
-3 Castle Ardenvale
+1 Blinkmoth Nexus
+4 Thraben Inspector
 3 Reidane, God of the Worthy
 1 Shefet Dunes
 2 Shefet Dunes
-3 Thraben Inspector
+2 Blinkmoth Nexus
+3 Blinkmoth Nexus
+4 Blinkmoth Nexus
+1 Isolated Chapel
 1 Valor of the Worthy
+1 Dovin's Veto
 1 Spell Pierce
 2 Spell Pierce
 4 Staggering Insight
+2 Commit/Memory
 2 Aether Tunnel
+1 Concealed Courtyard
+2 Concealed Courtyard
+1 Swamp
+1 Silverquill Silencer
+1 Inquisition of Kozilek
+2 Silverquill Silencer
+2 Inquisition of Kozilek
 1 Cartouche of Knowledge
-1 Blinkmoth Nexus
 2 Isolated Chapel
 3 Isolated Chapel
 4 Sentinel's Eyes
-1 Forest
-2 Forest
 1 Hateful Eidolon
 2 Hateful Eidolon
-4 Thraben Inspector
+1 Forest
+2 Forest
+1 Agadeem's Awakening
 2 Emeria's Call
-2 Blinkmoth Nexus
 3 Shefet Dunes
-3 Blinkmoth Nexus
-4 Blinkmoth Nexus
 10 Plains
 11 Plains
-2 Seal Away
-3 Irrigated Farmland
-1 Dovin's Veto
-4 Thalia, Guardian of Thraben
-1 Drowned Catacomb
+1 Essence Scatter
+1 Dream Trawler
+2 Essence Scatter
+3 Saw It Coming
+4 Saw It Coming
+2 Grafdigger's Cage
+3 Castle Ardenvale
+1 Glass Casket
 1 Watery Grave
 1 Clearwater Pathway
-2 Drowned Catacomb
+1 Drowned Catacomb
 2 Watery Grave
+2 Drowned Catacomb
 3 Kaya's Ghostform
-1 Declaration in Stone
-2 Declaration in Stone
 1 Mogis's Favor
 1 Dead Weight
 1 Glaring Aegis
-1 Agadeem's Awakening
 3 Hateful Eidolon
+1 Declaration in Stone
+2 Declaration in Stone
 1 Mana Tithe
 1 Scavenger Grounds
 2 Mana Tithe
 2 Scavenger Grounds
 1 Glorious Protector
-1 Concealed Courtyard
-2 Concealed Courtyard
-1 Silverquill Silencer
-1 Kitesail Freebooter
-2 Silverquill Silencer
-2 Kitesail Freebooter
 4 Archon of Emeria
+3 Concealed Courtyard
+4 Concealed Courtyard
 1 Giant Killer
-5 Island
-6 Island
+1 Seasoned Hallowblade
+2 Seasoned Hallowblade
+2 Swamp
+3 Silverquill Silencer
+3 Swamp
+4 Thalia, Guardian of Thraben
+3 Irrigated Farmland
 1 Legion's Landing
-1 Swamp
-1 Glass Casket
+1 Aether Gust
+2 Gideon of the Trials
 3 Adanto Vanguard
 1 Halvar, God of Battle
 2 Glorious Protector
@@ -207,45 +220,60 @@
 4 Emeria's Call
 1 Vanishing Verse
 1 Overgrown Tomb
-1 Inquisition of Kozilek
+1 Kitesail Freebooter
 1 Blooming Marsh
 2 Vanishing Verse
-2 Overgrown Tomb
+2 Kitesail Freebooter
 2 Blooming Marsh
-2 Inquisition of Kozilek
+2 Overgrown Tomb
 3 Overgrown Tomb
 4 Overgrown Tomb
-1 Fauna Shaman
-1 Seasoned Hallowblade
-1 Toski, Bearer of Secrets
 1 Shalai, Voice of Plenty
+1 Toski, Bearer of Secrets
 1 Kazandu Mammoth
 1 Sunpetal Grove
+1 Fauna Shaman
 1 Lovestruck Beast
-2 Fauna Shaman
-2 Seasoned Hallowblade
 2 Legion's Landing
+2 Fauna Shaman
 2 Lovestruck Beast
 3 Lovestruck Beast
 3 Forest
 4 Reidane, God of the Worthy
-4 Lovestruck Beast
 4 Forest
+4 Lovestruck Beast
 2 Dead Weight
 3 Dead Weight
 4 Isolated Chapel
 4 Sram, Senior Edificer
-1 Breeding Pool
 2 Glaring Aegis
+1 Breeding Pool
 4 Hushbringer
 1 Sejiri Shelter
 1 Lavinia, Azorius Renegade
+1 Mystical Dispute
 1 Charming Prince
 2 Charming Prince
+1 Settle the Wreckage
+1 Brazen Borrower
 1 Authority of the Consuls
 1 Containment Priest
 2 Containment Priest
 12 Plains
+4 Thoughtseize
+1 Glint-Sleeve Siphoner
+1 Knight of the Ebon Legion
+2 Knight of the Ebon Legion
+2 Glint-Sleeve Siphoner
+3 Glint-Sleeve Siphoner
+3 Knight of the Ebon Legion
+4 Swamp
+4 Knight of the Ebon Legion
+4 Glint-Sleeve Siphoner
+3 Inquisition of Kozilek
+1 Savai Triome
+2 Savai Triome
+4 Silverquill Silencer
 1 Militia Bugler
 2 Militia Bugler
 1 Sword of Body and Mind
@@ -253,29 +281,24 @@
 3 Declaration in Stone
 1 Omen of the Sea
 1 The Birth of Meletis
-1 Absorb
 1 Mazemind Tome
 1 Cast Out
 2 Mazemind Tome
 2 The Birth of Meletis
 2 Omen of the Sea
-2 Absorb
 3 Omen of the Sea
 4 Omen of the Sea
 7 Island
 1 Dive Down
-1 Mystical Dispute
 1 Jace, Wielder of Mysteries
 2 Sejiri Shelter
 2 Search for Azcanta
 1 Apostle of Purifying Light
 2 Apostle of Purifying Light
-2 Gideon of the Trials
 2 Valor of the Worthy
 1 Niambi, Esteemed Speaker
 1 Kira, Great Glass-Spinner
 1 Mobilized District
-1 Brazen Borrower
 2 Brazen Borrower
 2 Mobilized District
 2 Breeding Pool
@@ -285,29 +308,33 @@
 2 Scattered Groves
 2 Scavenging Ooze
 3 Giant Killer
-1 Settle the Wreckage
 2 Authority of the Consuls
 4 Irrigated Farmland
+1 Shineshadow Snarl
+1 Ajani, Adversary of Tyrants
+1 Baneslayer Angel
+2 Shineshadow Snarl
+2 Ajani, Adversary of Tyrants
+3 Shineshadow Snarl
+4 Shineshadow Snarl
 1 Demonic Vigor
 2 Demonic Vigor
 3 Watery Grave
 4 Watery Grave
-4 Thoughtseize
 1 Slither Blade
 2 Slither Blade
 3 Spell Pierce
 3 Slither Blade
 4 Slither Blade
 1 General Kudro of Drannith
-1 Ancient Ziggurat
-1 Unclaimed Territory
+1 Fatal Push
+1 Heartless Act
+2 Agadeem's Awakening
 2 General Kudro of Drannith
-2 Ancient Ziggurat
-2 Unclaimed Territory
-3 Kitesail Freebooter
-3 Ancient Ziggurat
-4 Ancient Ziggurat
-4 Kitesail Freebooter
+2 Fatal Push
+2 Heartless Act
+3 General Kudro of Drannith
+4 General Kudro of Drannith
 1 Vryn Wingmare
 1 Taranika, Akroan Veteran
 2 Vryn Wingmare
@@ -320,11 +347,27 @@
 4 Deputy of Detention
 3 Charming Prince
 4 Glasspool Mimic
+1 Censor
+1 Evolving Wilds
+2 Censor
+2 Evolving Wilds
+3 Censor
+3 Absorb
+4 Censor
+4 Absorb
 1 Angelic Gift
-3 Concealed Courtyard
 3 Karametra's Blessing
-4 Concealed Courtyard
 4 Kaya's Ghostform
+1 Silundi Vision
+1 Warrant/Warden
+2 Warrant/Warden
+3 Warrant/Warden
+4 Field of Ruin
+4 Warrant/Warden
+1 Castle Locthwain
+1 Rankle, Master of Pranks
+2 Rankle, Master of Pranks
+5 Swamp
 1 Maul of the Skyclaves
 1 Legion Angel
 1 Archon of Absolution
@@ -341,8 +384,8 @@
 2 Faceless Haven
 3 Snow-Covered Plains
 3 Faceless Haven
-4 Faceless Haven
 4 Snow-Covered Plains
+4 Faceless Haven
 5 Snow-Covered Plains
 6 Snow-Covered Plains
 7 Snow-Covered Plains

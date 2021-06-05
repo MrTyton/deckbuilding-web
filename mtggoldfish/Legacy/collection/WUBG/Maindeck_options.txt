@@ -1,18 +1,18 @@
+1 Swords to Plowshares
 1 Tundra
 2 Swords to Plowshares
-3 Elite Spellbinder
 3 Swords to Plowshares
 4 Swords to Plowshares
 1 Flooded Strand
 2 Flooded Strand
-3 Flooded Strand
-4 Flooded Strand
 1 Arid Mesa
 1 Plains
 2 Arid Mesa
 2 Plains
+3 Flooded Strand
 3 Recruiter of the Guard
 3 Plains
+4 Flooded Strand
 1 Charming Prince
 2 Charming Prince
 4 Elite Spellbinder
@@ -22,74 +22,68 @@
 1 Reflector Mage
 1 Kessig Malcontents
 1 Savannah
+1 Bayou
 1 Uro, Titan of Nature's Wrath
 1 Tropical Island
+1 Underground Sea
+1 Leovold, Emissary of Trest
+1 Abrupt Decay
 1 Brainstorm
+1 Verdant Catacombs
 1 Misty Rainforest
 1 Force of Will
 2 Misty Rainforest
+2 Uro, Titan of Nature's Wrath
+2 Verdant Catacombs
+2 Abrupt Decay
 2 Force of Will
 2 Brainstorm
 3 Misty Rainforest
+3 Abrupt Decay
 3 Force of Will
 3 Brainstorm
 4 Misty Rainforest
 4 Force of Will
 4 Brainstorm
-2 Uro, Titan of Nature's Wrath
-1 Bayou
-1 Underground Sea
-1 Leovold, Emissary of Trest
-1 Abrupt Decay
-1 Verdant Catacombs
-2 Verdant Catacombs
-2 Abrupt Decay
-3 Abrupt Decay
 1 Scavenging Ooze
 1 Dryad Arbor
 1 Green Sun's Zenith
 2 Green Sun's Zenith
-1 Sylvan Library
-1 Ponder
 2 Leovold, Emissary of Trest
-2 Ponder
-3 Ponder
-4 Ponder
-2 Sylvan Library
-1 Force of Negation
-2 Force of Negation
-2 Tropical Island
-3 Uro, Titan of Nature's Wrath
 1 Tomik, Distinguished Advokist
 1 Imperial Recruiter
-1 Snow-Covered Forest
-1 Snow-Covered Island
+1 Sylvan Library
+1 Ponder
+1 Force of Negation
+2 Ponder
+2 Force of Negation
+3 Ponder
+4 Ponder
+2 Tropical Island
+2 Sylvan Library
+3 Uro, Titan of Nature's Wrath
+1 Questing Beast
 3 Verdant Catacombs
 3 Green Sun's Zenith
-1 Birds of Paradise
-1 Forest
-1 Island
-1 Questing Beast
-1 Teferi, Time Raveler
-4 Abrupt Decay
-4 Green Sun's Zenith
 1 Realmwalker
 2 Imperial Recruiter
+1 Teferi, Time Raveler
+4 Abrupt Decay
 4 Unclaimed Territory
 3 Kitesail Freebooter
-2 Savannah
-2 Underground Sea
 1 Scrubland
+2 Savannah
+1 Birds of Paradise
+2 Underground Sea
+1 Forest
+1 Island
+1 Snow-Covered Forest
+1 Snow-Covered Island
 1 Jace, the Mind Sculptor
 2 Teferi, Time Raveler
+4 Green Sun's Zenith
 1 Polluted Delta
 2 Polluted Delta
-1 Snow-Covered Swamp
-1 Ice-Fang Coatl
-2 Snow-Covered Island
-2 Snow-Covered Forest
-2 Ice-Fang Coatl
-3 Ice-Fang Coatl
 1 Silverquill Silencer
 1 Judith, the Scourge Diva
 2 Rick, Steadfast Leader
@@ -99,18 +93,21 @@
 1 Knight of the Reliquary
 2 Knight of the Reliquary
 3 Sylvan Library
+1 Snow-Covered Swamp
+1 Ice-Fang Coatl
 1 Plague Engineer
+2 Snow-Covered Island
+2 Snow-Covered Forest
 2 Plague Engineer
+2 Ice-Fang Coatl
 2 Jace, the Mind Sculptor
+3 Ice-Fang Coatl
 2 Reflector Mage
 1 Ramunap Excavator
 3 Tropical Island
 3 Polluted Delta
-4 Ice-Fang Coatl
 1 Swamp
 2 Forest
-1 Hexdrinker
-4 Uro, Titan of Nature's Wrath
 1 Drown in the Loch
 1 Titania, Protector of Argoth
 1 Spell Pierce
@@ -146,38 +143,9 @@
 3 Thoughtseize
 4 Thoughtseize
 4 Baleful Strix
-1 Life from the Loam
-1 Preordain
-1 Omnath, Locus of Creation
-1 Primeval Titan
-1 Growth Spiral
-1 Field of the Dead
-1 Snow-Covered Plains
-1 Volcanic Island
-1 Exploration
-1 Ketria Triome
-2 Omnath, Locus of Creation
-2 Primeval Titan
-2 Growth Spiral
-2 Field of the Dead
-2 Life from the Loam
-3 Growth Spiral
-3 Life from the Loam
-4 Growth Spiral
+1 Hexdrinker
 1 Elvish Reclaimer
 2 Elvish Reclaimer
+4 Uro, Titan of Nature's Wrath
 4 Tropical Island
-1 Prismatic Vista
-1 Natural Order
-1 Progenitus
-1 Daze
-1 Archon of Valor's Reach
-2 Prismatic Vista
-2 Birds of Paradise
-2 Natural Order
-2 Daze
-3 Birds of Paradise
-3 Daze
-3 Natural Order
-4 Verdant Catacombs
-4 Natural Order
+4 Ice-Fang Coatl

@@ -1,81 +1,83 @@
-2 Ensnaring Bridge
-4 Whir of Invention
-1 Inquisition of Kozilek
-1 Codex Shredder
-1 Ancient Stirrings
-1 Lantern of Insight
-1 Pyxis of Pandemonium
-2 Inquisition of Kozilek
-2 Pithing Needle
-2 Lantern of Insight
-2 Codex Shredder
-2 Ancient Stirrings
-3 Darkslick Shores
-3 Ancient Stirrings
-3 Lantern of Insight
-3 Codex Shredder
-4 Ancient Stirrings
-4 Darkslick Shores
-4 Lantern of Insight
-4 Codex Shredder
-1 Grafdigger's Cage
-1 Torpor Orb
-1 Witchbane Orb
-3 Ensnaring Bridge
-1 Botanical Sanctum
-1 Barkchannel Pathway
-1 Assassin's Trophy
-1 Talisman of Curiosity
-2 Barkchannel Pathway
-2 Assassin's Trophy
-2 Talisman of Curiosity
-2 Botanical Sanctum
-2 Pyxis of Pandemonium
-3 Botanical Sanctum
-4 Botanical Sanctum
-2 Witching Well
+1 Polluted Delta
+2 Polluted Delta
+2 Sword of the Meek
+2 Thopter Foundry
+3 Thopter Foundry
+3 Polluted Delta
+4 Urza, Lord High Artificer
+4 Polluted Delta
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
+4 Mishra's Bauble
+4 Thopter Foundry
+1 Emry, Lurker of the Loch
+2 Emry, Lurker of the Loch
+1 Engineered Explosives
+2 Engineered Explosives
+1 Steam Vents
+1 Nihil Spellbomb
+3 Emry, Lurker of the Loch
+1 Goblin Engineer
+1 Scalding Tarn
+2 Goblin Engineer
+4 Emry, Lurker of the Loch
+1 Metallic Rebuke
+2 Metallic Rebuke
+1 Chromatic Star
+1 Aether Spellbomb
+1 Witching Well
+3 Snow-Covered Island
+4 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Blood Crypt
+2 Chromatic Star
+2 Spire of Industry
 2 Scalding Tarn
 3 Engineered Explosives
+2 Witching Well
 1 Mox Amber
+3 Inquisition of Kozilek
 1 Galvanic Blast
 2 Galvanic Blast
-3 Inquisition of Kozilek
+5 Snow-Covered Island
 1 Island
 1 Swamp
+3 Metallic Rebuke
 2 Island
 3 Island
-3 Metallic Rebuke
-5 Snow-Covered Island
 1 Pentad Prism
 4 Island
+2 Mox Amber
+1 Raugrin Triome
 3 Goblin Engineer
 4 Goblin Engineer
-3 Witching Well
-2 Pentad Prism
-1 Raugrin Triome
-2 Mox Amber
-3 Scalding Tarn
 1 Pyrite Spellbomb
+3 Witching Well
+3 Scalding Tarn
+2 Pentad Prism
 1 Mystic Sanctuary
 1 Hallowed Fountain
-3 Spire of Industry
 1 Flooded Strand
 2 Flooded Strand
-4 Witching Well
 3 Pentad Prism
-1 Damping Sphere
 3 Mox Amber
 4 Mox Amber
 5 Island
 1 Lurrus of the Dream-Den
 3 Flooded Strand
-3 Galvanic Blast
-2 Watery Grave
+3 Spire of Industry
+4 Witching Well
+1 Damping Sphere
 2 Mystic Sanctuary
+2 Watery Grave
 4 Flooded Strand
+1 Collective Brutality
+2 Collective Brutality
 1 Spine of Ish Sah
 1 Ichor Wellspring
 3 Chromatic Star
+3 Galvanic Blast
 3 Sword of the Meek
 1 Soul-Guide Lantern
 4 Scalding Tarn
@@ -91,28 +93,25 @@
 2 Chalice of the Void
 3 Chalice of the Void
 4 Chalice of the Void
-1 Collective Brutality
-2 Collective Brutality
 1 Minamo, School at Water's Edge
-1 Spellskite
-1 Spirebluff Canal
 2 Swamp
 1 Tezzeret, Agent of Bolas
 2 Steam Vents
 4 Metallic Rebuke
 1 Narset, Parter of Veils
 2 Narset, Parter of Veils
-1 Snow-Covered Plains
 1 Teferi, Time Raveler
+1 Snow-Covered Plains
 2 Teferi, Time Raveler
 1 Breeding Pool
 3 Fatal Push
-2 Talisman of Dominance
+1 Sacred Foundry
+1 Drown in the Loch
+1 Cryptic Command
 1 Snow-Covered Mountain
 1 Dreadbore
-1 Cryptic Command
-1 Drown in the Loch
-1 Sacred Foundry
+1 Spirebluff Canal
+1 Spellskite
 1 Prismatic Vista
 1 Sai, Master Thopterist
 1 Fetid Pools
@@ -121,19 +120,17 @@
 1 Ashiok, Dream Render
 1 Clearwater Pathway
 2 Ashiok, Dream Render
-1 Mountain
-2 Spirebluff Canal
 1 Plargg, Dean of Chaos
 2 Plargg, Dean of Chaos
-1 Serum Visions
 1 Temple Garden
-1 Batterskull
-1 Stoneforge Mystic
+1 Serum Visions
 1 Bloodchief's Thirst
+1 Batterskull
 1 Isolated Chapel
 1 Glacial Fortress
 1 Drowned Catacomb
 1 Tribute Mage
+1 Stoneforge Mystic
 2 Serum Visions
 2 Stoneforge Mystic
 3 Serum Visions
@@ -150,18 +147,19 @@
 1 Cascade Bluffs
 1 Simian Spirit Guide
 1 Tolaria West
-1 Tectonic Edge
 1 Ipnu Rivulet
 1 Tormod's Crypt
 1 Crucible of Worlds
-1 Ghost Quarter
 1 Welding Jar
 1 Bottled Cloister
+1 Ghost Quarter
+1 Tectonic Edge
 2 Simian Spirit Guide
-2 Welding Jar
-2 Sorcerous Spyglass
-2 Cascade Bluffs
 2 Tolaria West
+2 Talisman of Dominance
+2 Sorcerous Spyglass
+2 Welding Jar
+2 Cascade Bluffs
 3 Welding Jar
 3 Simian Spirit Guide
 3 Tolaria West
@@ -170,9 +168,9 @@
 4 Tolaria West
 1 Teferi's Puzzle Box
 7 Island
+1 Force of Negation
 1 Geier Reach Sanitarium
 1 Echo of Eons
-1 Force of Negation
 2 Force of Negation
 2 Echo of Eons
 3 Force of Negation

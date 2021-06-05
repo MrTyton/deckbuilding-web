@@ -42,20 +42,20 @@
 1 Ramunap Ruins
 2 Storm's Wrath
 2 Ramunap Ruins
-3 Ramunap Ruins
 3 Storm's Wrath
+3 Ramunap Ruins
 4 Ramunap Ruins
 3 Ulamog, the Ceaseless Hunger
 1 Fire Prophecy
 1 Reliquary Tower
 2 Fire Prophecy
-3 Fire Prophecy
 3 Mobilized District
+3 Fire Prophecy
 4 Golos, Tireless Pilgrim
-4 Mazemind Tome
 4 Fire Prophecy
-1 Ghost Quarter
+4 Mazemind Tome
 1 Crypt of the Eternals
+1 Ghost Quarter
 2 Crypt of the Eternals
 2 Arch of Orazca
 2 Grafdigger's Cage
@@ -72,32 +72,40 @@
 1 Plains
 1 Fountain of Renewal
 2 Plains
-3 Blinkmoth Nexus
 3 Karn, Scion of Urza
-4 Blinkmoth Nexus
+3 Blinkmoth Nexus
 4 Karn, Scion of Urza
+4 Blinkmoth Nexus
+1 Bala Ged Recovery
+1 Hagra Mauling
+1 Languish
+1 Emergence Zone
+1 Pelakka Predation
+2 Pelakka Predation
+3 Crypt of the Eternals
+4 Crypt of the Eternals
+4 Swamp
+1 Mountain
 1 Valakut Awakening
-1 Sweltering Suns
 1 Chandra, Awakened Inferno
 1 Banefire
+1 Sweltering Suns
 1 Soul Sear
-1 Chandra, Torch of Defiance
 1 Forgotten Cave
-1 Mountain
-2 Valakut Awakening
+1 Chandra, Torch of Defiance
 2 Mountain
+2 Valakut Awakening
 2 Sweltering Suns
 2 Soul Sear
-2 Chandra, Torch of Defiance
 2 Forgotten Cave
+2 Chandra, Torch of Defiance
+3 Chandra, Torch of Defiance
 3 Mountain
 3 Sweltering Suns
-3 Chandra, Torch of Defiance
 3 Soul Sear
 3 Forgotten Cave
 4 Mountain
 4 Chandra, Torch of Defiance
-4 Forgotten Cave
 5 Mountain
 6 Mountain
 7 Mountain
@@ -105,12 +113,4 @@
 9 Mountain
 10 Mountain
 11 Mountain
-1 Bala Ged Recovery
-1 Hagra Mauling
-1 Pelakka Predation
-1 Languish
-1 Emergence Zone
-2 Pelakka Predation
-3 Crypt of the Eternals
-4 Swamp
-4 Crypt of the Eternals
+4 Forgotten Cave

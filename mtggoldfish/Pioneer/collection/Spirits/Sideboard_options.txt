@@ -1,11 +1,11 @@
+1 Dispel
+2 Dispel
+1 Mystic Subdual
+2 Mystic Subdual
 1 Entrancing Melody
 2 Entrancing Melody
 3 Aether Gust
 4 Mystical Dispute
-1 Archon of Emeria
-1 Skyclave Apparition
-1 Reidane, God of the Worthy
-2 Archon of Emeria
 2 Reidane, God of the Worthy
 3 Dispel
 3 Entrancing Melody
@@ -24,24 +24,25 @@
 2 Aethersphere Harvester
 1 Grafdigger's Cage
 2 Grafdigger's Cage
-1 Pithing Needle
-2 Pithing Needle
 1 Selfless Spirit
 1 Devout Decree
 2 Devout Decree
 4 Isolate
 1 Damping Sphere
 2 Disdainful Stroke
+1 Pithing Needle
+2 Pithing Needle
+2 Skyclave Apparition
+3 Light of Hope
 1 Shacklegeist
 3 Brazen Borrower
 1 Soul-Guide Lantern
 2 Soul-Guide Lantern
 3 Soul-Guide Lantern
-3 Light of Hope
+3 Mystic Subdual
 1 Declaration in Stone
 2 Declaration in Stone
 3 Declaration in Stone
-3 Mystic Subdual
 1 Dovin's Veto
 1 Lofty Denial
 1 Shadowspear
@@ -50,6 +51,14 @@
 2 Lofty Denial
 2 Surge of Righteousness
 3 Lofty Denial
+3 Devout Decree
+1 Selective Snare
+1 Essence Capture
+1 Stern Dismissal
+1 Negate
+2 Negate
+2 Essence Capture
+4 Aether Gust
 1 Test of Talents
 1 Bind the Monster
 1 Miscast
@@ -58,11 +67,3 @@
 2 Miscast
 3 Bind the Monster
 4 Bind the Monster
-1 Selective Snare
-1 Essence Capture
-1 Stern Dismissal
-1 Negate
-2 Negate
-2 Essence Capture
-4 Aether Gust
-3 Devout Decree

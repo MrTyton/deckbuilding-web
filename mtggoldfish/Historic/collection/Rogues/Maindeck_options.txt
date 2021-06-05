@@ -7,6 +7,10 @@
 4 Swamp
 1 Mystical Dispute
 5 Island
+1 Ruin Crab
+2 Ruin Crab
+3 Ruin Crab
+4 Ruin Crab
 1 Spell Pierce
 1 Curious Obsession
 2 Curious Obsession
@@ -15,10 +19,6 @@
 2 Zagoth Triome
 3 Zagoth Triome
 1 Castle Vantress
-1 Ruin Crab
-2 Ruin Crab
-3 Ruin Crab
-4 Ruin Crab
 2 Agadeem's Awakening
 1 Abundant Harvest
 1 Overgrown Tomb
@@ -45,41 +45,8 @@
 4 Thoughtseize
 1 Of One Mind
 6 Island
-1 Tyrant's Scorn
-2 Castle Vantress
-2 Fetid Pools
-1 Lurrus of the Dream-Den
-2 Lurrus of the Dream-Den
-1 Duress
-1 Negate
-2 Negate
-1 Eliminate
-1 Temple of Deceit
-1 Disdainful Stroke
-1 Heartless Act
-1 Didn't Say Please
-2 Didn't Say Please
-2 Eliminate
-2 Heartless Act
-2 Temple of Deceit
-3 Temple of Deceit
-1 Hinterland Harbor
-1 Quandrix Apprentice
-1 Woodland Cemetery
-2 Quandrix Apprentice
-2 Woodland Cemetery
-2 Hinterland Harbor
-3 Woodland Cemetery
-3 Quandrix Apprentice
-4 Abundant Harvest
-1 Sea Gate Restoration
-1 Lofty Denial
-2 Lofty Denial
-5 Swamp
-6 Swamp
 1 Snow-Covered Swamp
 1 Snow-Covered Island
-1 Unmoored Ego
 2 Snow-Covered Island
 2 Snow-Covered Swamp
 3 Snow-Covered Island
@@ -87,3 +54,53 @@
 4 Snow-Covered Island
 4 Snow-Covered Swamp
 5 Snow-Covered Swamp
+1 Eliminate
+1 Temple of Deceit
+1 Heartless Act
+2 Heartless Act
+2 Temple of Deceit
+2 Eliminate
+1 Unmoored Ego
+1 Tyrant's Scorn
+2 Castle Vantress
+1 Lurrus of the Dream-Den
+2 Lurrus of the Dream-Den
+2 Fetid Pools
+1 Duress
+1 Negate
+2 Negate
+1 Didn't Say Please
+1 Disdainful Stroke
+2 Didn't Say Please
+3 Temple of Deceit
+1 Hinterland Harbor
+1 Quandrix Apprentice
+1 Woodland Cemetery
+2 Hinterland Harbor
+2 Woodland Cemetery
+2 Quandrix Apprentice
+3 Quandrix Apprentice
+3 Woodland Cemetery
+4 Abundant Harvest
+1 Sea Gate Restoration
+1 Lofty Denial
+2 Lofty Denial
+5 Swamp
+6 Swamp
+1 Port of Karfell
+1 Baleful Mastery
+1 Avalanche Caller
+2 Port of Karfell
+2 Baleful Mastery
+2 Avalanche Caller
+3 Eliminate
+3 Heartless Act
+4 Heartless Act
+5 Snow-Covered Island
+6 Snow-Covered Island
+6 Snow-Covered Swamp
+7 Snow-Covered Island
+7 Snow-Covered Swamp
+8 Snow-Covered Island
+8 Snow-Covered Swamp
+9 Snow-Covered Swamp

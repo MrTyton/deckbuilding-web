@@ -6,25 +6,9 @@
 4 Viashino Pyromancer
 3 Lightning Strike
 4 Lightning Strike
-1 Lightning Helix
-1 Needleverge Pathway
-1 Sacred Foundry
-2 Lightning Helix
-2 Needleverge Pathway
-2 Sacred Foundry
-3 Needleverge Pathway
-3 Sacred Foundry
-4 Sacred Foundry
-4 Needleverge Pathway
-3 Lightning Helix
-4 Lightning Helix
-1 Inspiring Vantage
-2 Inspiring Vantage
-3 Inspiring Vantage
-4 Inspiring Vantage
 1 Bonecrusher Giant
-1 Snow-Covered Mountain
 2 Bonecrusher Giant
+1 Snow-Covered Mountain
 2 Snow-Covered Mountain
 3 Snow-Covered Mountain
 4 Snow-Covered Mountain
@@ -36,8 +20,24 @@
 10 Snow-Covered Mountain
 11 Snow-Covered Mountain
 12 Snow-Covered Mountain
+1 Needleverge Pathway
+1 Sacred Foundry
+1 Lightning Helix
+1 Inspiring Vantage
+2 Sacred Foundry
+2 Lightning Helix
+2 Inspiring Vantage
+2 Needleverge Pathway
+3 Sacred Foundry
+3 Needleverge Pathway
+3 Inspiring Vantage
+4 Sacred Foundry
+4 Inspiring Vantage
+4 Needleverge Pathway
 1 Spikefield Hazard
 13 Snow-Covered Mountain
+3 Lightning Helix
+4 Lightning Helix
 3 Bonecrusher Giant
 1 Sunscorched Desert
 2 Sunscorched Desert
@@ -71,12 +71,15 @@
 16 Mountain
 1 Experimental Frenzy
 3 Faceless Haven
+1 Castle Embereth
 15 Snow-Covered Mountain
 4 Sunscorched Desert
-1 Castle Embereth
 1 Burning-Tree Emissary
-1 Clifftop Retreat
+1 The Flame of Keld
+2 The Flame of Keld
 1 Fanatical Firebrand
+1 Magmatic Channeler
+2 Magmatic Channeler
 1 Grapeshot
 1 Earthshaker Khenra
 2 Earthshaker Khenra
@@ -86,43 +89,22 @@
 1 Goblin Chainwhirler
 1 Robber of the Rich
 2 Robber of the Rich
-1 The Flame of Keld
-2 The Flame of Keld
+3 Grim Lavamancer
+1 Clifftop Retreat
 1 Blood Crypt
 1 Increasing Vengeance
-1 Magmatic Channeler
-2 Increasing Vengeance
 2 Blood Crypt
-2 Magmatic Channeler
+2 Increasing Vengeance
 3 Blood Crypt
-3 Grim Lavamancer
 2 Plains
 3 Plains
 3 Spikefield Hazard
 4 Spikefield Hazard
-1 Showdown of the Skalds
 1 The Biblioplex
+1 Showdown of the Skalds
 2 Showdown of the Skalds
 3 Showdown of the Skalds
 4 Showdown of the Skalds
-2 Clifftop Retreat
-3 Clifftop Retreat
-4 Clifftop Retreat
-1 Riverglide Pathway
-1 Spirebluff Canal
-1 Saheeli Rai
-1 Steam Vents
-2 Riverglide Pathway
-2 Saheeli Rai
-2 Spirebluff Canal
-2 Steam Vents
-3 Saheeli Rai
-3 Riverglide Pathway
-3 Spirebluff Canal
-3 Steam Vents
-4 Spirebluff Canal
-4 Riverglide Pathway
-4 Steam Vents
 2 Burning-Tree Emissary
 3 Burning-Tree Emissary
 4 Burning-Tree Emissary
@@ -131,6 +113,25 @@
 2 Runaway Steam-Kin
 3 Runaway Steam-Kin
 4 Runaway Steam-Kin
+1 Riverglide Pathway
+1 Steam Vents
+1 Saheeli Rai
+1 Spirebluff Canal
+2 Riverglide Pathway
+2 Steam Vents
+2 Saheeli Rai
+2 Spirebluff Canal
+3 Steam Vents
+3 Saheeli Rai
+3 Spirebluff Canal
+3 Riverglide Pathway
+4 Spirebluff Canal
+4 Steam Vents
+4 Riverglide Pathway
+1 Roil Eruption
+2 Roil Eruption
+3 Roil Eruption
+4 Roil Eruption
 1 Risk Factor
 1 Chandra's Spitfire
 2 Fanatical Firebrand

@@ -1,9 +1,9 @@
 2 Misty Rainforest
-1 Snow-Covered Island
 2 Mountain
-1 Abrade
+1 Snow-Covered Island
 1 Gemstone Caverns
 1 Flooded Strand
+1 Abrade
 1 Tolaria West
 2 Flooded Strand
 2 Island
@@ -12,10 +12,6 @@
 1 Flame Slash
 2 Flame Slash
 1 Remand
-1 Simian Spirit Guide
-2 Simian Spirit Guide
-3 Simian Spirit Guide
-4 Simian Spirit Guide
 3 Flame Slash
 1 Collected Conjuring
 1 Sleight of Hand
@@ -24,15 +20,18 @@
 3 Collected Conjuring
 3 Sleight of Hand
 2 Remand
-2 Izzet Charm
-3 Izzet Charm
-3 Spell Pierce
 1 Pillage
 2 Pillage
 3 Pillage
+3 Spell Pierce
+2 Izzet Charm
+3 Izzet Charm
+1 Simian Spirit Guide
+2 Simian Spirit Guide
+3 Simian Spirit Guide
+4 Simian Spirit Guide
 1 Ketria Triome
 4 Greater Gargadon
-3 Fiery Islet
 1 Snow-Covered Mountain
 1 See the Truth
 2 See the Truth
@@ -42,12 +41,13 @@
 3 Wrenn and Six
 4 Ancestral Vision
 1 Codie, Vociferous Codex
-2 Abrade
 2 Gemstone Caverns
+2 Abrade
 1 Bedeck/Bedazzle
 2 Snow-Covered Island
-1 Polluted Delta
+3 Fiery Islet
 1 Mystical Dispute
+1 Polluted Delta
 2 Polluted Delta
 3 Polluted Delta
 2 Codie, Vociferous Codex

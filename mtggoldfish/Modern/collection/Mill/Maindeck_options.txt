@@ -1,28 +1,28 @@
-1 Snapcaster Mage
 4 Island
 1 Prismatic Vista
 2 Prismatic Vista
 3 Maddening Cacophony
+4 Surgical Extraction
 2 Snapcaster Mage
-1 Into the Story
 3 Flooded Strand
 4 Maddening Cacophony
+1 Into the Story
 1 Shelldock Isle
 1 Bloodchief's Thirst
 1 Ensnaring Bridge
-1 Eliminate
 2 Shelldock Isle
 1 Fraying Sanity
 2 Fraying Sanity
 2 Bloodchief's Thirst
-3 Snapcaster Mage
 3 Swamp
+3 Snapcaster Mage
 1 Cling to Dust
 1 Baleful Mastery
-1 Snow-Covered Swamp
+1 Eliminate
 1 Snow-Covered Island
-2 Snow-Covered Swamp
+1 Snow-Covered Swamp
 2 Snow-Covered Island
+2 Snow-Covered Swamp
 3 Snow-Covered Island
 1 Mikokoro, Center of the Sea
 1 Misty Rainforest
@@ -34,13 +34,13 @@
 4 Bloodstained Mire
 1 Thoughtseize
 2 Thoughtseize
+1 Blood Crypt
+1 Steam Vents
 1 Jace, Vryn's Prodigy
 1 Scalding Tarn
 1 Unearth
 1 Izzet Charm
-1 Blood Crypt
 1 Battle Mastery
-1 Steam Vents
 1 Eldrazi Conscription
 1 Collective Brutality
 1 Prodigious Growth
@@ -48,18 +48,18 @@
 2 Unearth
 2 Jace, Vryn's Prodigy
 2 Scalding Tarn
+2 Blood Crypt
 2 Izzet Charm
 2 Storm Herald
-2 Blood Crypt
 2 Collective Brutality
 2 Eldrazi Conscription
 2 Prodigious Growth
+3 Scalding Tarn
 3 Collective Brutality
 3 Unearth
 3 Eldrazi Conscription
 3 Storm Herald
 3 Jace, Vryn's Prodigy
-3 Scalding Tarn
 4 Unearth
 4 Eldrazi Conscription
 4 Collective Brutality
@@ -68,15 +68,15 @@
 3 Watery Grave
 1 Clearwater Pathway
 1 Reflecting Pool
-1 Verdant Catacombs
 1 Call of the Death-Dweller
 1 Inquisition of Kozilek
+1 Verdant Catacombs
 1 Stinkweed Imp
 2 Inquisition of Kozilek
+3 Prismatic Vista
 2 Cling to Dust
 2 Ensnaring Bridge
 3 Ensnaring Bridge
-3 Prismatic Vista
 1 Murderous Cut
 1 Echoing Truth
 1 Engineered Explosives
@@ -88,13 +88,13 @@
 2 Manic Scribe
 4 Snow-Covered Island
 1 Breeding Pool
-1 Assassin's Trophy
 1 Waterlogged Grove
 1 Harrow
 1 Forest
-2 Breeding Pool
+1 Assassin's Trophy
 2 Assassin's Trophy
 2 Harrow
+2 Breeding Pool
 3 Misty Rainforest
 4 Misty Rainforest
 1 Urborg, Tomb of Yawgmoth
@@ -110,8 +110,8 @@
 4 Watery Grave
 4 Extirpate
 1 Mountain
-2 Battle Mastery
 2 Steam Vents
+2 Battle Mastery
 3 Izzet Charm
 3 Prodigious Growth
 4 Scalding Tarn

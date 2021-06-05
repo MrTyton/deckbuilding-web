@@ -1,6 +1,6 @@
 2 Glassdust Hulk
-2 Seachrome Coast
 3 Spirebluff Canal
+2 Seachrome Coast
 1 Snow-Covered Island
 1 Gemstone Mine
 1 Valakut Awakening
@@ -8,6 +8,11 @@
 3 Glassdust Hulk
 1 Misty Rainforest
 2 Misty Rainforest
+3 Botanical Sanctum
+3 Misty Rainforest
+4 Misty Rainforest
+4 Living End
+2 Steam Vents
 1 Snow-Covered Forest
 1 Snow-Covered Plains
 1 Gemstone Caverns
@@ -17,33 +22,33 @@
 4 Remand
 1 Search for Glory
 1 Stomping Ground
-1 Oath of Nissa
-1 Urborg, Tomb of Yawgmoth
 1 Snow-Covered Swamp
+1 Urborg, Tomb of Yawgmoth
 1 Reflecting Pool
 1 Cavern of Souls
 1 Murmuring Bosk
 1 Summoner's Pact
 1 Dregscape Sliver
+1 Sliver Hivelord
 1 Cloudshredder Sliver
 1 Temple Garden
 1 Windswept Heath
 1 Sorin, Imperious Bloodlord
-1 Sliver Hivelord
 1 Eladamri's Call
 1 Morophon, the Boundless
 1 The First Sliver
 1 Harmonic Sliver
 1 Sliver Legion
+1 Oath of Nissa
 1 Shimmer of Possibility
-2 Search for Glory
 2 Gemstone Mine
+2 Search for Glory
 2 Mana Confluence
-2 Oath of Nissa
 2 Shimmer of Possibility
 2 Sliver Legion
 2 Summoner's Pact
 2 The First Sliver
+2 Oath of Nissa
 2 Eladamri's Call
 2 Cloudshredder Sliver
 2 Sorin, Imperious Bloodlord
@@ -66,34 +71,37 @@
 4 Sorin, Imperious Bloodlord
 4 Gemstone Mine
 1 Mystical Dispute
-3 Misty Rainforest
-4 Misty Rainforest
 2 Island
-4 Living End
-1 As Foretold
-2 Steam Vents
-2 Inspiring Vantage
-3 Botanical Sanctum
 4 Spirebluff Canal
+2 Inspiring Vantage
+4 Botanical Sanctum
+4 Glassdust Hulk
+1 Shardless Agent
+2 Shardless Agent
+3 Shardless Agent
+4 Shardless Agent
+1 As Foretold
 3 Steam Vents
 1 Teferi, Time Raveler
+1 Vendilion Clique
+1 City of Brass
+1 Polluted Delta
 1 Forest
 2 Gemstone Caverns
 2 Mystical Dispute
-4 Botanical Sanctum
 1 Snow-Covered Mountain
-1 Crashing Footfalls
 1 Fiery Islet
 1 Electrodominance
+1 Crashing Footfalls
 1 Silundi Vision
 2 Snow-Covered Island
 2 Fiery Islet
-2 Crashing Footfalls
 2 Electrodominance
 2 As Foretold
+2 Crashing Footfalls
 3 Snow-Covered Island
-3 Crashing Footfalls
 3 Electrodominance
+3 Crashing Footfalls
 3 As Foretold
 4 Crashing Footfalls
 4 Electrodominance
@@ -106,5 +114,3 @@
 2 Hallowed Fountain
 3 Architects of Will
 4 Architects of Will
-1 Vendilion Clique
-4 Glassdust Hulk

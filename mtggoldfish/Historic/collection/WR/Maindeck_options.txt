@@ -4,8 +4,8 @@
 2 Lightning Helix
 3 Lightning Helix
 4 Lightning Helix
-1 Shatterskull Smashing
 1 Castle Ardenvale
+1 Shatterskull Smashing
 2 Shatterskull Smashing
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
@@ -13,18 +13,18 @@
 2 Adanto Vanguard
 3 Adanto Vanguard
 4 Adanto Vanguard
-1 Glorybringer
 1 Elite Spellbinder
 1 Skyclave Apparition
 1 Flamescroll Celebrant
 1 Bonecrusher Giant
-2 Glorybringer
+1 Glorybringer
 2 Elite Spellbinder
 2 Skyclave Apparition
 2 Flamescroll Celebrant
 2 Bonecrusher Giant
-3 Skyclave Apparition
+2 Glorybringer
 3 Elite Spellbinder
+3 Skyclave Apparition
 3 Shatterskull Smashing
 3 Chandra, Torch of Defiance
 3 Bonecrusher Giant
@@ -55,33 +55,32 @@
 4 Faithless Looting
 3 Cragcrown Pathway
 1 Sheltered Thicket
+2 Sheltered Thicket
 4 Plains
 1 Tenth District Legionnaire
-1 Dreadhorde Arcanist
 1 Reckless Rage
+1 Dreadhorde Arcanist
 1 Defiant Strike
 2 Tenth District Legionnaire
-2 Dreadhorde Arcanist
 2 Reckless Rage
 2 Defiant Strike
-3 Dreadhorde Arcanist
+2 Dreadhorde Arcanist
 3 Tenth District Legionnaire
+3 Dreadhorde Arcanist
 3 Defiant Strike
 4 Tenth District Legionnaire
 4 Defiant Strike
 1 Gods Willing
 2 Gods Willing
-2 Sheltered Thicket
+4 Dreadhorde Arcanist
 3 Gods Willing
 3 Reckless Rage
 4 Reckless Rage
+3 Mountain
 4 Gods Willing
 1 Feather, the Redeemed
-2 Feather, the Redeemed
-4 Dreadhorde Arcanist
-3 Feather, the Redeemed
-3 Mountain
 1 Fight as One
+2 Feather, the Redeemed
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Soul-Scar Mage
@@ -90,6 +89,7 @@
 2 Clever Lumimancer
 3 Clever Lumimancer
 4 Clever Lumimancer
+3 Feather, the Redeemed
 1 Easy Prey
 1 Memory Leak
 2 Memory Leak
@@ -105,42 +105,36 @@
 2 Canyon Slough
 3 Brightclimb Pathway
 3 Blightstep Pathway
-4 Feather, the Redeemed
-3 Clifftop Retreat
 2 Fight as One
-5 Plains
 1 Gird for Battle
 2 Gird for Battle
-1 Temple of Triumph
-1 Shock
-4 Clifftop Retreat
+4 Feather, the Redeemed
+3 Clifftop Retreat
 3 Fight as One
+5 Plains
 1 Hazoret the Fervent
 1 Emeria's Call
+1 Temple of Triumph
 1 Invigorated Rampage
 2 Invigorated Rampage
 3 Invigorated Rampage
+1 Shock
 2 Shock
 4 Fight as One
 4 Mountain
-6 Plains
 1 Valiant Rescuer
 2 Valiant Rescuer
 1 Gideon Blackblade
 1 Infuriate
 3 Gird for Battle
 4 Gird for Battle
+4 Clifftop Retreat
 1 Furycalm Snarl
 2 Furycalm Snarl
 3 Shock
 1 Show of Confidence
 2 Show of Confidence
 3 Show of Confidence
-1 Showdown of the Skalds
-2 Showdown of the Skalds
-3 Showdown of the Skalds
-4 Showdown of the Skalds
-2 Temple of Triumph
 1 Reptilian Reflection
 1 Samut's Sprint
 2 Samut's Sprint
@@ -148,15 +142,6 @@
 4 Valiant Rescuer
 1 Desert of the Fervent
 1 Desert of the True
-1 Magmatic Channeler
-1 Declaration in Stone
-1 Magma Spray
-1 Clarion Spirit
-2 Magmatic Channeler
-2 Magma Spray
-2 Clarion Spirit
-3 Clarion Spirit
-4 Clarion Spirit
 1 Blinkmoth Nexus
 2 Blinkmoth Nexus
 2 Emeria's Call
@@ -165,32 +150,33 @@
 3 Guiding Voice
 4 Guiding Voice
 5 Mountain
+6 Plains
 6 Mountain
 4 Shock
 2 Gideon Blackblade
-1 Grapeshot
 1 Gideon of the Trials
 1 Thalia, Guardian of Thraben
 2 Thalia, Guardian of Thraben
+1 Grapeshot
+4 Invigorated Rampage
 1 Fabled Passage
 2 Fabled Passage
-4 Invigorated Rampage
 1 Wind-Scarred Crag
 2 Wind-Scarred Crag
 3 Wind-Scarred Crag
 1 Shredded Sails
 1 Karn, Scion of Urza
-1 Crawling Barrens
-1 Rip Apart
-1 Mila, Crafty Companion
-2 Crawling Barrens
-2 Rip Apart
 1 Alpine Meadow
 2 Alpine Meadow
 1 Luminarch Aspirant
 1 Legion Warboss
 2 Luminarch Aspirant
 2 Legion Warboss
+1 Rip Apart
+1 Mila, Crafty Companion
+1 Crawling Barrens
+2 Rip Apart
+2 Crawling Barrens
 1 Kari Zev, Skyship Raider
 2 Kari Zev, Skyship Raider
 2 Savai Triome
@@ -202,37 +188,40 @@
 1 Mavinda, Students' Advocate
 1 Increasing Vengeance
 2 Mavinda, Students' Advocate
+2 Temple of Triumph
 2 Increasing Vengeance
-1 Relic of Progenitus
-2 Gideon of the Trials
-3 Fabled Passage
 1 Baffling End
 2 Baffling End
 3 Sweltering Suns
-3 Temple of Triumph
 3 Sheltered Thicket
+1 Relic of Progenitus
+2 Gideon of the Trials
+3 Fabled Passage
+1 Leonin Lightscribe
+1 Showdown of the Skalds
+2 Leonin Lightscribe
+2 Showdown of the Skalds
+3 Leonin Lightscribe
+3 Showdown of the Skalds
+4 Leonin Lightscribe
+4 Showdown of the Skalds
+1 Rimrock Knight
+2 Rimrock Knight
+3 Rimrock Knight
+4 Rimrock Knight
 1 Concealed Courtyard
+1 Stomping Ground
 1 Blood Crypt
 1 Indatha Triome
-1 Stomping Ground
 2 Concealed Courtyard
 2 Stomping Ground
 2 Indatha Triome
 3 Concealed Courtyard
 3 Stomping Ground
 4 Stomping Ground
-4 Cragcrown Pathway
-1 Leonin Lightscribe
-2 Leonin Lightscribe
-3 Leonin Lightscribe
-4 Leonin Lightscribe
 2 Infuriate
 3 Infuriate
 4 Infuriate
-1 Rimrock Knight
-2 Rimrock Knight
-3 Rimrock Knight
-4 Rimrock Knight
 1 Tajic, Legion's Edge
 1 Snow-Covered Plains
 1 Krenko, Tin Street Kingpin
@@ -245,24 +234,25 @@
 2 Healer's Hawk
 2 Skyknight Vanguard
 2 Snow-Covered Mountain
-3 Snow-Covered Plains
 3 Snow-Covered Mountain
+3 Snow-Covered Plains
 3 Healer's Hawk
 3 Tajic, Legion's Edge
 3 Krenko, Tin Street Kingpin
 3 Skyknight Vanguard
+4 Snow-Covered Mountain
 4 Snow-Covered Plains
 4 Skyknight Vanguard
 4 Wind-Scarred Crag
-4 Snow-Covered Mountain
-5 Snow-Covered Plains
 5 Snow-Covered Mountain
-6 Snow-Covered Plains
+5 Snow-Covered Plains
 6 Snow-Covered Mountain
-7 Snow-Covered Plains
+6 Snow-Covered Plains
 7 Snow-Covered Mountain
-8 Snow-Covered Plains
+7 Snow-Covered Plains
 8 Snow-Covered Mountain
+8 Snow-Covered Plains
+9 Snow-Covered Mountain
 9 Snow-Covered Plains
 10 Snow-Covered Plains
-9 Snow-Covered Mountain
+4 Cragcrown Pathway
