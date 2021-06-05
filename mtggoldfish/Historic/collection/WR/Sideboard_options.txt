@@ -89,13 +89,13 @@
 1 Flameblade Adept
 1 Legion Warboss
 2 Legion Warboss
-1 Justice Strike
-2 Justice Strike
 1 Reckless Rage
 2 Reckless Rage
+1 Justice Strike
+2 Justice Strike
+1 Relic of Progenitus
 1 Shalai, Voice of Plenty
 1 Gods Willing
-1 Relic of Progenitus
 1 Conclave Tribunal
 2 Relic of Progenitus
 2 Gods Willing
@@ -122,15 +122,8 @@
 3 Reidane, God of the Worthy
 4 Reidane, God of the Worthy
 4 Rip Apart
-1 Bonecrusher Giant
-2 Bonecrusher Giant
-2 Grim Lavamancer
-3 Bonecrusher Giant
-3 Settle the Wreckage
-4 Bonecrusher Giant
-4 Grafdigger's Cage
-1 Embercleave
 1 Banishing Light
+1 Embercleave
 1 Mentor of the Meek
 1 Ardenvale Tactician
 1 Young Pyromancer
@@ -144,14 +137,21 @@
 3 Mentor of the Meek
 3 Ardenvale Tactician
 4 Ardenvale Tactician
+1 Bonecrusher Giant
+2 Grim Lavamancer
+2 Bonecrusher Giant
+3 Settle the Wreckage
+3 Bonecrusher Giant
+4 Grafdigger's Cage
+4 Bonecrusher Giant
 1 Glass Casket
-1 Robber of the Rich
 1 Infuriate
+1 Robber of the Rich
 1 Tormod's Crypt
 1 Integrity/Intervention
 2 Robber of the Rich
+2 Infuriate
 2 Glass Casket
 2 Tormod's Crypt
-2 Infuriate
 1 Academic Probation
 2 Integrity/Intervention

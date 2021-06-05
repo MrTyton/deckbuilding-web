@@ -4,8 +4,8 @@
 2 Lightning Helix
 3 Lightning Helix
 4 Lightning Helix
-1 Castle Ardenvale
 1 Shatterskull Smashing
+1 Castle Ardenvale
 2 Shatterskull Smashing
 1 Chandra, Torch of Defiance
 2 Chandra, Torch of Defiance
@@ -13,16 +13,16 @@
 2 Adanto Vanguard
 3 Adanto Vanguard
 4 Adanto Vanguard
+1 Glorybringer
 1 Elite Spellbinder
 1 Skyclave Apparition
 1 Flamescroll Celebrant
 1 Bonecrusher Giant
-1 Glorybringer
+2 Glorybringer
 2 Elite Spellbinder
 2 Skyclave Apparition
 2 Flamescroll Celebrant
 2 Bonecrusher Giant
-2 Glorybringer
 3 Elite Spellbinder
 3 Skyclave Apparition
 3 Shatterskull Smashing
@@ -58,15 +58,15 @@
 2 Sheltered Thicket
 4 Plains
 1 Tenth District Legionnaire
-1 Reckless Rage
 1 Dreadhorde Arcanist
+1 Reckless Rage
 1 Defiant Strike
 2 Tenth District Legionnaire
+2 Dreadhorde Arcanist
 2 Reckless Rage
 2 Defiant Strike
-2 Dreadhorde Arcanist
-3 Tenth District Legionnaire
 3 Dreadhorde Arcanist
+3 Tenth District Legionnaire
 3 Defiant Strike
 4 Tenth District Legionnaire
 4 Defiant Strike
@@ -166,8 +166,6 @@
 3 Wind-Scarred Crag
 1 Shredded Sails
 1 Karn, Scion of Urza
-1 Alpine Meadow
-2 Alpine Meadow
 1 Luminarch Aspirant
 1 Legion Warboss
 2 Luminarch Aspirant
@@ -185,18 +183,35 @@
 1 Aurelia, Exemplar of Justice
 2 Justice Strike
 2 Aurelia, Exemplar of Justice
+1 Alpine Meadow
+2 Alpine Meadow
 1 Mavinda, Students' Advocate
 1 Increasing Vengeance
 2 Mavinda, Students' Advocate
 2 Temple of Triumph
 2 Increasing Vengeance
+1 Relic of Progenitus
+2 Gideon of the Trials
+3 Fabled Passage
 1 Baffling End
 2 Baffling End
 3 Sweltering Suns
 3 Sheltered Thicket
-1 Relic of Progenitus
-2 Gideon of the Trials
-3 Fabled Passage
+1 Concealed Courtyard
+1 Blood Crypt
+1 Indatha Triome
+1 Stomping Ground
+2 Concealed Courtyard
+2 Stomping Ground
+2 Indatha Triome
+3 Stomping Ground
+3 Concealed Courtyard
+4 Stomping Ground
+4 Cragcrown Pathway
+1 Rimrock Knight
+2 Rimrock Knight
+3 Rimrock Knight
+4 Rimrock Knight
 1 Leonin Lightscribe
 1 Showdown of the Skalds
 2 Leonin Lightscribe
@@ -205,20 +220,6 @@
 3 Showdown of the Skalds
 4 Leonin Lightscribe
 4 Showdown of the Skalds
-1 Rimrock Knight
-2 Rimrock Knight
-3 Rimrock Knight
-4 Rimrock Knight
-1 Concealed Courtyard
-1 Stomping Ground
-1 Blood Crypt
-1 Indatha Triome
-2 Concealed Courtyard
-2 Stomping Ground
-2 Indatha Triome
-3 Concealed Courtyard
-3 Stomping Ground
-4 Stomping Ground
 2 Infuriate
 3 Infuriate
 4 Infuriate
@@ -234,8 +235,8 @@
 2 Healer's Hawk
 2 Skyknight Vanguard
 2 Snow-Covered Mountain
-3 Snow-Covered Mountain
 3 Snow-Covered Plains
+3 Snow-Covered Mountain
 3 Healer's Hawk
 3 Tajic, Legion's Edge
 3 Krenko, Tin Street Kingpin
@@ -243,7 +244,6 @@
 4 Snow-Covered Mountain
 4 Snow-Covered Plains
 4 Skyknight Vanguard
-4 Wind-Scarred Crag
 5 Snow-Covered Mountain
 5 Snow-Covered Plains
 6 Snow-Covered Mountain
@@ -255,4 +255,4 @@
 9 Snow-Covered Mountain
 9 Snow-Covered Plains
 10 Snow-Covered Plains
-4 Cragcrown Pathway
+4 Wind-Scarred Crag

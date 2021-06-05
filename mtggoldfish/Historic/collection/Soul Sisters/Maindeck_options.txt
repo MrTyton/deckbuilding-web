@@ -32,11 +32,11 @@
 1 Sunpetal Grove
 1 Branchloft Pathway
 1 Collected Company
-2 Branchloft Pathway
 2 Sunpetal Grove
+2 Branchloft Pathway
 2 Collected Company
-3 Branchloft Pathway
 3 Sunpetal Grove
+3 Branchloft Pathway
 3 Collected Company
 4 Sunpetal Grove
 4 Branchloft Pathway
@@ -83,8 +83,8 @@
 1 Gods Willing
 4 Righteous Valkyrie
 1 Baneslayer Angel
-1 Vito, Thorn of the Dusk Rose
 1 Godless Shrine
+1 Vito, Thorn of the Dusk Rose
 1 Isolated Chapel
 1 Temple of Silence
 2 Godless Shrine
@@ -131,29 +131,30 @@
 2 Fight as One
 3 Selfless Savior
 4 Selfless Savior
-1 Erebos's Intervention
 1 Oath of Kaya
 1 Castle Locthwain
-1 Scoured Barrens
 1 Linvala, Keeper of Silence
 1 Elspeth, Sun's Nemesis
+1 Erebos's Intervention
 1 Angelic Ascension
+1 Scoured Barrens
 2 Linvala, Keeper of Silence
 2 Oath of Kaya
-2 Erebos's Intervention
 2 Castle Locthwain
-2 Scoured Barrens
 2 Temple of Silence
+2 Erebos's Intervention
+2 Scoured Barrens
 2 Elspeth, Sun's Nemesis
 2 Angelic Ascension
 3 Oath of Kaya
-3 Scoured Barrens
 3 Temple of Silence
+3 Scoured Barrens
 4 Temple of Silence
 1 Youthful Valkyrie
 1 Reidane, God of the Worthy
 2 Youthful Valkyrie
 4 Skyclave Apparition
+4 Banishing Light
 1 Guiding Voice
 1 The Ozolith
 2 Guiding Voice
@@ -161,7 +162,6 @@
 2 God-Eternal Oketra
 3 Idyllic Grange
 4 Idyllic Grange
-4 Banishing Light
 1 Ajani's Welcome
 2 Ajani's Welcome
 3 Ajani's Welcome
@@ -191,13 +191,13 @@
 14 Snow-Covered Plains
 15 Snow-Covered Plains
 16 Snow-Covered Plains
-1 Wrath of God
 1 Realm-Cloaked Giant
+1 Wrath of God
 1 Containment Priest
 1 Secluded Steppe
 1 Mikaeus, the Lunarch
-2 Wrath of God
 2 Containment Priest
+2 Wrath of God
 2 Secluded Steppe
 2 Realm-Cloaked Giant
 2 Basri Ket

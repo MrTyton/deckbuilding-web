@@ -9,9 +9,9 @@
 3 Righteous Valkyrie
 4 Bishop of Wings
 4 Righteous Valkyrie
-1 Temple Garden
 1 Collected Company
 1 Branchloft Pathway
+1 Temple Garden
 2 Collected Company
 3 Collected Company
 4 Collected Company
@@ -52,8 +52,8 @@
 2 Hallowed Fountain
 3 Hallowed Fountain
 4 Hallowed Fountain
-1 Glasspool Mimic
 1 Hengegate Pathway
+1 Glasspool Mimic
 2 Glasspool Mimic
 3 Glasspool Mimic
 5 Plains
@@ -147,17 +147,15 @@
 2 Adventurous Impulse
 3 Adventurous Impulse
 4 Adventurous Impulse
-1 Scattered Groves
-1 Reject
 1 Barkchannel Pathway
 1 Deputy of Detention
 1 Island
+1 Scattered Groves
+1 Reject
 2 Dive Down
 1 Essence Scatter
 2 Essence Scatter
 2 Declaration in Stone
-2 Memory Lapse
-3 Memory Lapse
 1 Brightclimb Pathway
 2 Blast Zone
 3 Elite Spellbinder
@@ -170,41 +168,43 @@
 2 Blossoming Sands
 2 Ajani's Pridemate
 3 Ajani's Pridemate
+2 Memory Lapse
+3 Memory Lapse
 2 Kira, Great Glass-Spinner
 3 Shacklegeist
 4 Shacklegeist
 1 Knight of Autumn
 4 Fabled Passage
-1 Watery Grave
-1 Drowned Catacomb
-1 Thoughtseize
-1 Hateful Eidolon
-1 Clearwater Pathway
-1 Snow-Covered Swamp
-1 Dead Weight
-1 Mire's Grasp
-1 Agadeem's Awakening
-2 Watery Grave
-2 Drowned Catacomb
-2 Thoughtseize
-2 Hateful Eidolon
-2 Clearwater Pathway
-2 Snow-Covered Swamp
-2 Mire's Grasp
-2 Dead Weight
-3 Watery Grave
-3 Thoughtseize
-3 Hateful Eidolon
-3 Drowned Catacomb
-3 Snow-Covered Swamp
-3 Clearwater Pathway
-4 Watery Grave
-4 Hateful Eidolon
-4 Clearwater Pathway
 1 Remorseful Cleric
 2 Remorseful Cleric
 3 Remorseful Cleric
 4 Remorseful Cleric
+1 Watery Grave
+1 Hateful Eidolon
+1 Snow-Covered Swamp
+1 Drowned Catacomb
+1 Thoughtseize
+1 Dead Weight
+1 Mire's Grasp
+1 Clearwater Pathway
+1 Agadeem's Awakening
+2 Watery Grave
+2 Hateful Eidolon
+2 Snow-Covered Swamp
+2 Mire's Grasp
+2 Thoughtseize
+2 Dead Weight
+2 Drowned Catacomb
+2 Clearwater Pathway
+3 Watery Grave
+3 Snow-Covered Swamp
+3 Hateful Eidolon
+3 Thoughtseize
+3 Clearwater Pathway
+3 Drowned Catacomb
+4 Watery Grave
+4 Hateful Eidolon
+4 Clearwater Pathway
 12 Plains
 1 Banishing Light
 1 Crawling Barrens
