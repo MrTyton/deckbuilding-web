@@ -1,33 +1,51 @@
 2 Scalding Tarn
 3 Misty Rainforest
 3 Duress
+3 Personal Tutor
 2 Flooded Strand
 3 Scalding Tarn
-4 Street Wraith
-3 Personal Tutor
-4 Preordain
-1 Volcanic Island
 1 Tropical Island
+4 Street Wraith
 1 Bloodstained Mire
+4 Preordain
 1 Bayou
 1 Baleful Strix
-3 Flooded Strand
-4 Personal Tutor
+1 Volcanic Island
+1 Lim-Dul's Vault
 2 Thassa's Oracle
+4 Personal Tutor
 1 Snow-Covered Island
 1 Snow-Covered Swamp
 4 Misty Rainforest
 2 Baleful Strix
-1 Lim-Dul's Vault
 4 Scalding Tarn
 1 Night's Whisper
 1 Flusterstorm
 1 Badlands
 3 Thoughtseize
+3 Flooded Strand
+1 Cabal Therapy
 3 Baleful Strix
 4 Baleful Strix
 2 Snow-Covered Island
-1 Cabal Therapy
+1 Chrome Mox
+2 Verdant Catacombs
+1 Emrakul, the Aeons Torn
+1 Shallow Grave
+1 Goryo's Vengeance
+1 Griselbrand
+1 Entomb
+1 Children of Korlis
+2 Goryo's Vengeance
+2 Entomb
+2 Griselbrand
+2 Shallow Grave
+3 Verdant Catacombs
+3 Entomb
+3 Shallow Grave
+4 Verdant Catacombs
+4 Entomb
+4 Shallow Grave
 1 Arclight Phoenix
 1 Lightning Bolt
 1 Young Pyromancer
@@ -36,8 +54,8 @@
 2 Lightning Bolt
 2 Young Pyromancer
 2 Buried Alive
-3 Buried Alive
 3 Lightning Bolt
+3 Buried Alive
 3 Arclight Phoenix
 4 Buried Alive
 4 Arclight Phoenix
@@ -56,10 +74,9 @@
 2 Tropical Island
 1 Predict
 1 Sunken Ruins
-1 Unearth
 1 Cling to Dust
+1 Unearth
 1 Marsh Flats
-1 Chrome Mox
 1 Clearwater Pathway
 1 Prismatic Vista
 1 Sunken Hollow
@@ -86,7 +103,6 @@
 1 Dark Confidant
 1 Veil of Summer
 2 Veil of Summer
-2 Verdant Catacombs
 1 Collective Brutality
 1 Serum Visions
 1 Divining Witch
@@ -98,22 +114,6 @@
 2 Stifle
 3 Wasteland
 3 Stifle
-1 Emrakul, the Aeons Torn
-1 Shallow Grave
-1 Goryo's Vengeance
-1 Entomb
-1 Children of Korlis
-1 Griselbrand
-2 Goryo's Vengeance
-2 Entomb
-2 Griselbrand
-2 Shallow Grave
-3 Verdant Catacombs
-3 Entomb
-3 Shallow Grave
-4 Verdant Catacombs
-4 Entomb
-4 Shallow Grave
 1 Cabal Ritual
 1 Sylvan Library
 1 Eliminate
@@ -131,6 +131,36 @@
 2 Marsh Flats
 3 Marsh Flats
 4 Marsh Flats
+1 Taiga
+1 Abrupt Decay
+1 Manamorphose
+1 Mountain
+1 Wooded Foothills
+1 Land Grant
+1 Faithless Looting
+2 Taiga
+2 Bayou
+2 Wooded Foothills
+2 Abrupt Decay
+2 Dark Confidant
+2 Bloodstained Mire
+2 Manamorphose
+2 Cabal Therapy
+2 Faithless Looting
+2 Land Grant
+2 Badlands
+3 Young Pyromancer
+3 Land Grant
+3 Manamorphose
+3 Faithless Looting
+3 Dark Confidant
+3 Bloodstained Mire
+3 Cabal Therapy
+4 Bloodstained Mire
+4 Faithless Looting
+4 Manamorphose
+4 Dark Confidant
+4 Land Grant
 1 Forest
 1 Witherbloom Apprentice
 1 Chain of Smog
@@ -142,33 +172,3 @@
 3 Witherbloom Apprentice
 4 Witherbloom Apprentice
 4 Chain of Smog
-1 Taiga
-1 Abrupt Decay
-1 Manamorphose
-1 Mountain
-1 Wooded Foothills
-1 Land Grant
-1 Faithless Looting
-2 Taiga
-2 Wooded Foothills
-2 Bayou
-2 Abrupt Decay
-2 Land Grant
-2 Dark Confidant
-2 Bloodstained Mire
-2 Manamorphose
-2 Cabal Therapy
-2 Faithless Looting
-2 Badlands
-3 Young Pyromancer
-3 Manamorphose
-3 Land Grant
-3 Faithless Looting
-3 Dark Confidant
-3 Bloodstained Mire
-3 Cabal Therapy
-4 Faithless Looting
-4 Manamorphose
-4 Dark Confidant
-4 Land Grant
-4 Bloodstained Mire

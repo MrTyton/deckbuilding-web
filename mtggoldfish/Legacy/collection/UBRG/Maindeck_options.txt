@@ -10,72 +10,73 @@
 1 Anje's Ravager
 1 Taiga
 1 Street Wraith
-1 Fiery Islet
 1 Faithless Looting
 1 Hollow One
 1 Lion's Eye Diamond
-1 Putrid Imp
-1 Careful Study
+1 Asylum Visitor
 1 Basking Rootwalla
-1 Fiery Temper
 1 Vengevine
 1 Ox of Agonas
-1 Asylum Visitor
+1 Putrid Imp
 2 Anje's Ravager
 2 Street Wraith
 2 Badlands
 2 Lion's Eye Diamond
 2 Faithless Looting
 2 Hollow One
-2 Vengevine
-2 Careful Study
 2 Putrid Imp
+2 Vengevine
 2 Basking Rootwalla
 2 Ox of Agonas
 2 Asylum Visitor
-2 Fiery Temper
 3 Bloodstained Mire
 3 Anje's Ravager
 3 Street Wraith
 3 Faithless Looting
 3 Hollow One
-3 Careful Study
 3 Putrid Imp
 3 Vengevine
-3 Fiery Temper
-3 Lion's Eye Diamond
 3 Basking Rootwalla
-4 Street Wraith
+3 Lion's Eye Diamond
 4 Lion's Eye Diamond
 4 Faithless Looting
 4 Hollow One
 4 Anje's Ravager
-4 Fiery Temper
 4 Vengevine
 4 Putrid Imp
 4 Basking Rootwalla
+1 Fiery Islet
+1 Careful Study
+1 Fiery Temper
+2 Careful Study
+2 Fiery Temper
+3 Careful Study
+3 Fiery Temper
+4 Street Wraith
+4 Fiery Temper
 4 Careful Study
 1 Lightning Bolt
 2 Lightning Bolt
 3 Lightning Bolt
 4 Lightning Bolt
+2 Taiga
 1 Snow-Covered Forest
 1 Prismatic Vista
 1 Uro, Titan of Nature's Wrath
 1 Abundant Growth
 1 Force of Negation
 1 Abrupt Decay
-1 Force of Will
 1 Ice-Fang Coatl
 1 Sylvan Library
+1 Force of Will
 2 Sylvan Library
 2 Prismatic Vista
 2 Abundant Growth
 2 Uro, Titan of Nature's Wrath
 2 Force of Negation
 2 Snow-Covered Forest
-2 Snow-Covered Island
 2 Abrupt Decay
+2 Snow-Covered Island
 2 Force of Will
 2 Ice-Fang Coatl
 3 Abundant Growth
@@ -87,7 +88,6 @@
 4 Ice-Fang Coatl
 4 Prismatic Vista
 4 Force of Will
-2 Taiga
 1 Cabal Therapy
 2 Cabal Therapy
 1 Young Pyromancer
@@ -119,12 +119,22 @@
 1 Veil of Summer
 2 Swamp
 3 Elvish Spirit Guide
-1 Leovold, Emissary of Trest
-1 Brazen Borrower
-2 Leovold, Emissary of Trest
-2 Brazen Borrower
-4 Uro, Titan of Nature's Wrath
-4 Abundant Growth
+1 Wooded Foothills
+1 Firestorm
+1 Blazing Rootwalla
+1 Kitchen Imp
+2 Wooded Foothills
+2 Firestorm
+2 Kitchen Imp
+2 Blazing Rootwalla
+3 Wooded Foothills
+3 Firestorm
+3 Badlands
+3 Kitchen Imp
+3 Taiga
+4 Bloodstained Mire
+4 Badlands
+4 Kitchen Imp
 1 Wishclaw Talisman
 1 Sylvan Safekeeper
 1 Defense Grid
@@ -133,3 +143,9 @@
 3 Wishclaw Talisman
 3 Defense Grid
 4 Wishclaw Talisman
+1 Leovold, Emissary of Trest
+1 Brazen Borrower
+2 Leovold, Emissary of Trest
+2 Brazen Borrower
+4 Uro, Titan of Nature's Wrath
+4 Abundant Growth

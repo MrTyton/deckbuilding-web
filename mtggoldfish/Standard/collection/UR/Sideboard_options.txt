@@ -1,15 +1,15 @@
-1 Negate
-1 Prismari Command
 1 Disdainful Stroke
+1 Soul Sear
+1 Prismari Command
 2 Negate
 3 Redcap Melee
-3 Cinderclasm
 1 Miscast
 2 Miscast
-1 Ox of Agonas
+3 Cinderclasm
 1 Rip Apart
 2 Rip Apart
 2 Disdainful Stroke
+1 Ox of Agonas
 2 Ox of Agonas
 1 Scorching Dragonfire
 2 Scorching Dragonfire
@@ -20,10 +20,6 @@
 4 Miscast
 4 Cinderclasm
 3 Stern Dismissal
-3 Negate
-4 Negate
-1 Heated Debate
-1 Fire Prophecy
 1 Shark Typhoon
 2 Shark Typhoon
 1 Mazemind Tome
@@ -31,40 +27,43 @@
 1 Archon of Absolution
 2 Archon of Absolution
 3 Archon of Absolution
+3 Negate
+4 Negate
+1 Heated Debate
+1 Fire Prophecy
 2 Heated Debate
 3 Heated Debate
 3 Ox of Agonas
 2 Prismari Command
 1 The Akroan War
 2 The Akroan War
-1 Phoenix of Ash
 1 Annul
 2 Soul Sear
 2 Fire Prophecy
+1 Roiling Vortex
 1 Crush the Weak
 3 Scorching Dragonfire
-2 Phoenix of Ash
-1 Roiling Vortex
+1 Phoenix of Ash
 1 The Royal Scions
 2 The Royal Scions
+2 Roiling Vortex
 3 Disdainful Stroke
 2 Rowan, Scholar of Sparks
 2 Crush the Weak
 3 Serpentine Curve
+2 Phoenix of Ash
 1 Essence Scatter
 1 Storm's Wrath
-2 Roiling Vortex
 4 Mystical Dispute
 1 Mercurial Transformation
 1 Start from Scratch
 1 Cubwarden
+2 Soul-Guide Lantern
 1 Expanded Anatomy
 1 Tormod's Crypt
 2 Tormod's Crypt
-2 Soul-Guide Lantern
 1 Light of Hope
 1 Glass Casket
-3 Mazemind Tome
 1 Multiple Choice
 2 Essence Scatter
 3 Test of Talents
@@ -74,31 +73,38 @@
 1 Into the Roil
 1 Bubble Snare
 2 Bubble Snare
+1 Shredded Sails
+2 Shredded Sails
+3 Shredded Sails
 1 Shock
 1 Narfi, Betrayer King
 2 Shock
 3 Shock
 3 The Akroan War
+1 Robber of the Rich
+2 Robber of the Rich
+4 Stern Dismissal
 2 Annul
-1 Behold the Multiverse
 1 Glimpse of Freedom
-1 Introduction to Prophecy
+1 Baneslayer Angel
+1 Behold the Multiverse
+1 Mystic Subdual
 1 Introduction to Annihilation
+1 Introduction to Prophecy
 1 Spirit Summoning
 1 Environmental Sciences
-1 Mystic Subdual
 2 Mystic Subdual
-1 Ominous Seas
 1 Jace, Mirror Mage
+1 Ominous Seas
 2 Narfi, Betrayer King
 1 Silundi Vision
 1 Thrill of Possibility
 2 Thrill of Possibility
-1 Shredded Sails
-2 Shredded Sails
-3 Shredded Sails
+3 Essence Scatter
 1 Shadowspear
 3 Fire Prophecy
+3 Roiling Vortex
+3 Robber of the Rich
 1 Lofty Denial
 1 Wall of Runes
 1 Frost Bite
@@ -106,7 +112,6 @@
 3 Frost Bite
 3 Rowan, Scholar of Sparks
 3 Soul Sear
-3 Essence Scatter
 1 Improbable Alliance
 2 Improbable Alliance
 3 Improbable Alliance
@@ -114,10 +119,9 @@
 2 Blitz of the Thunder-Raptor
 2 Into the Roil
 3 Bubble Snare
-1 Robber of the Rich
+3 Mazemind Tome
 1 Thassa's Intervention
 2 Thassa's Intervention
-2 Robber of the Rich
 3 Shark Typhoon
 3 Thassa's Intervention
 4 Scorching Dragonfire
@@ -129,7 +133,9 @@
 3 Hushbringer
 4 Rip Apart
 4 Serpentine Curve
-4 Stern Dismissal
+1 Jwari Disruption
+1 Brazen Borrower
+2 Jwari Disruption
 1 Concerted Defense
 1 Claim the Firstborn
 2 Claim the Firstborn

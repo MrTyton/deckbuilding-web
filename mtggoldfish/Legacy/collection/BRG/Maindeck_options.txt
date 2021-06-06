@@ -11,14 +11,12 @@
 2 Badlands
 1 Chain of Smog
 1 Witherbloom Apprentice
-1 Sedgemoor Witch
 1 Arclight Phoenix
 1 Buried Alive
 1 Land Grant
 1 Bayou
 2 Chain of Smog
 2 Witherbloom Apprentice
-2 Sedgemoor Witch
 2 Bayou
 2 Buried Alive
 2 Arclight Phoenix
@@ -27,85 +25,88 @@
 3 Arclight Phoenix
 3 Buried Alive
 3 Land Grant
-4 Arclight Phoenix
 4 Land Grant
+4 Arclight Phoenix
 4 Buried Alive
 1 Faithless Looting
-1 Manamorphose
 1 Lightning Bolt
 1 Kroxa, Titan of Death's Hunger
 2 Lightning Bolt
 2 Faithless Looting
-2 Manamorphose
 3 Lightning Bolt
 3 Faithless Looting
-3 Manamorphose
 4 Faithless Looting
+1 Sedgemoor Witch
+2 Sedgemoor Witch
+1 Manamorphose
+2 Manamorphose
+3 Manamorphose
 2 Chancellor of the Annex
 1 Swamp
 1 Mountain
 3 Bloodstained Mire
 4 Bloodstained Mire
+3 Chain of Smog
 1 Night's Whisper
 2 Night's Whisper
-3 Chain of Smog
 3 Bayou
 4 Manamorphose
 1 Once Upon a Time
 2 Once Upon a Time
-1 Scalding Tarn
-1 Anje's Ravager
-1 Ancient Tomb
-1 Mox Diamond
-1 Pack Rat
-1 Magus of the Moon
-1 Rotting Regisaur
-1 Trinisphere
-1 Goblin Rabblemaster
-1 City of Traitors
-1 Legion Warboss
-1 Chalice of the Void
-2 Scalding Tarn
-2 Anje's Ravager
-2 Mountain
-2 Ancient Tomb
-2 Mox Diamond
-2 Pack Rat
-2 Magus of the Moon
-2 Rotting Regisaur
-2 Goblin Rabblemaster
-2 Trinisphere
-2 City of Traitors
-2 Chalice of the Void
-3 Once Upon a Time
-3 Anje's Ravager
-3 Ancient Tomb
-3 Mox Diamond
-3 Rotting Regisaur
-3 City of Traitors
-3 Trinisphere
-3 Goblin Rabblemaster
-4 Mox Diamond
-4 Rotting Regisaur
-4 Once Upon a Time
-4 Ancient Tomb
-4 City of Traitors
-4 Goblin Rabblemaster
 1 Abundant Harvest
 2 Abundant Harvest
 3 Abundant Harvest
 4 Abundant Harvest
 1 Snow-Covered Swamp
 1 Snow-Covered Forest
-2 Wooded Foothills
 2 Taiga
 2 Verdant Catacombs
 3 Verdant Catacombs
+1 Scalding Tarn
+1 Anje's Ravager
+1 Trinisphere
+1 City of Traitors
+1 Ancient Tomb
+1 Pack Rat
+1 Magus of the Moon
+1 Rotting Regisaur
+1 Goblin Rabblemaster
+1 Legion Warboss
+1 Mox Diamond
+1 Chalice of the Void
+2 Scalding Tarn
+2 Anje's Ravager
+2 Trinisphere
+2 Mountain
+2 City of Traitors
+2 Ancient Tomb
+2 Pack Rat
+2 Magus of the Moon
+2 Rotting Regisaur
+2 Goblin Rabblemaster
+2 Chalice of the Void
+2 Mox Diamond
+3 Mox Diamond
+3 Once Upon a Time
+3 Trinisphere
+3 Anje's Ravager
+3 Ancient Tomb
+3 Rotting Regisaur
+3 City of Traitors
+3 Goblin Rabblemaster
+4 Mox Diamond
+4 Rotting Regisaur
+4 Ancient Tomb
+4 City of Traitors
+4 Once Upon a Time
+4 Goblin Rabblemaster
+2 Wooded Foothills
 1 Fireflux Squad
 2 Fireflux Squad
 2 Legion Warboss
 1 Rakka Mar
 2 Rakka Mar
+4 Witherbloom Apprentice
 1 Surgical Extraction
 1 Hagra Mauling
 2 Hagra Mauling
@@ -120,17 +121,24 @@
 2 Dread Return
 3 Chancellor of the Annex
 4 Chancellor of the Annex
+1 Snow-Covered Mountain
+1 Duress
+1 Sylvan Library
+2 Duress
+3 Duress
+4 Duress
+4 Lightning Bolt
 3 Pack Rat
 3 Rakka Mar
 4 Pack Rat
-1 Forest
-1 Island
 1 Tropical Island
 1 Brainstorm
-1 Ponder
 1 Uro, Titan of Nature's Wrath
+1 Forest
+1 Ponder
 1 Misty Rainforest
 1 Polluted Delta
+1 Island
 1 Underground Sea
 2 Tropical Island
 2 Ponder
@@ -141,6 +149,5 @@
 3 Misty Rainforest
 3 Ponder
 3 Brainstorm
-4 Witherbloom Apprentice
 4 Misty Rainforest
 4 Brainstorm

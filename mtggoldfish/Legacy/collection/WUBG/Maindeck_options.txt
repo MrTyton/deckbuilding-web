@@ -1,7 +1,3 @@
-1 Swords to Plowshares
-1 Tundra
-2 Swords to Plowshares
-3 Swords to Plowshares
 4 Swords to Plowshares
 1 Flooded Strand
 2 Flooded Strand
@@ -10,9 +6,13 @@
 2 Arid Mesa
 2 Plains
 3 Flooded Strand
-3 Recruiter of the Guard
 3 Plains
 4 Flooded Strand
+1 Sanctum Prelate
+2 Silent Clearing
+2 Kitesail Freebooter
+1 Kelsien, the Plague
+3 Recruiter of the Guard
 1 Charming Prince
 2 Charming Prince
 4 Elite Spellbinder
@@ -26,15 +26,12 @@
 1 Uro, Titan of Nature's Wrath
 1 Tropical Island
 1 Underground Sea
-1 Leovold, Emissary of Trest
 1 Abrupt Decay
 1 Brainstorm
 1 Verdant Catacombs
 1 Misty Rainforest
 1 Force of Will
 2 Misty Rainforest
-2 Uro, Titan of Nature's Wrath
-2 Verdant Catacombs
 2 Abrupt Decay
 2 Force of Will
 2 Brainstorm
@@ -45,74 +42,84 @@
 4 Misty Rainforest
 4 Force of Will
 4 Brainstorm
+2 Uro, Titan of Nature's Wrath
+1 Leovold, Emissary of Trest
+2 Verdant Catacombs
 1 Scavenging Ooze
 1 Dryad Arbor
 1 Green Sun's Zenith
 2 Green Sun's Zenith
-2 Leovold, Emissary of Trest
-1 Tomik, Distinguished Advokist
-1 Imperial Recruiter
 1 Sylvan Library
 1 Ponder
-1 Force of Negation
+1 Scrubland
+2 Leovold, Emissary of Trest
 2 Ponder
-2 Force of Negation
 3 Ponder
 4 Ponder
 2 Tropical Island
+1 Force of Negation
+2 Force of Negation
+1 Tomik, Distinguished Advokist
+1 Imperial Recruiter
 2 Sylvan Library
 3 Uro, Titan of Nature's Wrath
-1 Questing Beast
 3 Verdant Catacombs
 3 Green Sun's Zenith
-1 Realmwalker
-2 Imperial Recruiter
 1 Teferi, Time Raveler
-4 Abrupt Decay
-4 Unclaimed Territory
-3 Kitesail Freebooter
-1 Scrubland
-2 Savannah
-1 Birds of Paradise
 2 Underground Sea
-1 Forest
-1 Island
+1 Birds of Paradise
+1 Questing Beast
 1 Snow-Covered Forest
 1 Snow-Covered Island
-1 Jace, the Mind Sculptor
+4 Abrupt Decay
 2 Teferi, Time Raveler
 4 Green Sun's Zenith
 1 Polluted Delta
 2 Polluted Delta
+1 Realmwalker
+2 Imperial Recruiter
+4 Unclaimed Territory
+3 Kitesail Freebooter
+2 Savannah
+1 Jace, the Mind Sculptor
+1 Snow-Covered Swamp
+1 Ice-Fang Coatl
+2 Snow-Covered Island
+2 Snow-Covered Forest
+2 Ice-Fang Coatl
+3 Ice-Fang Coatl
+1 Forest
+1 Island
+3 Tropical Island
+3 Polluted Delta
 1 Silverquill Silencer
 1 Judith, the Scourge Diva
+1 Kambal, Consul of Allocation
 2 Rick, Steadfast Leader
+1 Plague Engineer
+2 Plague Engineer
+2 Jace, the Mind Sculptor
 1 Palace Jailer
 2 Palace Jailer
 1 Blast Zone
 1 Knight of the Reliquary
 2 Knight of the Reliquary
 3 Sylvan Library
-1 Snow-Covered Swamp
-1 Ice-Fang Coatl
-1 Plague Engineer
-2 Snow-Covered Island
-2 Snow-Covered Forest
-2 Plague Engineer
-2 Ice-Fang Coatl
-2 Jace, the Mind Sculptor
-3 Ice-Fang Coatl
-2 Reflector Mage
 1 Ramunap Excavator
-3 Tropical Island
-3 Polluted Delta
+2 Reflector Mage
+4 Ice-Fang Coatl
 1 Swamp
 2 Forest
+1 Hexdrinker
+4 Uro, Titan of Nature's Wrath
+3 Teferi, Time Raveler
+1 Thoughtseize
+2 Thoughtseize
+3 Thoughtseize
 1 Drown in the Loch
 1 Titania, Protector of Argoth
 1 Spell Pierce
 2 Spell Pierce
-1 Kambal, Consul of Allocation
 1 Unsettled Mariner
 1 Deputy of Detention
 1 General Kudro of Drannith
@@ -122,30 +129,50 @@
 2 Opposition Agent
 2 Containment Priest
 2 Magus of the Moon
-3 Horizon Canopy
 3 Opposition Agent
+3 Horizon Canopy
 1 Windswept Heath
 1 Vanishing Verse
 1 Jolrael, Mwonvuli Recluse
 2 Windswept Heath
 2 Bayou
 3 Windswept Heath
-3 Teferi, Time Raveler
 1 Narset, Parter of Veils
 1 Baleful Strix
 1 Shark Typhoon
-1 Thoughtseize
 2 Baleful Strix
 2 Shark Typhoon
-2 Thoughtseize
 2 Island
 3 Baleful Strix
-3 Thoughtseize
 4 Thoughtseize
 4 Baleful Strix
-1 Hexdrinker
+1 Abundant Harvest
+1 Chain of Smog
+1 Witherbloom Apprentice
+2 Abundant Harvest
+2 Witherbloom Apprentice
+2 Chain of Smog
+3 Underground Sea
+3 Abundant Harvest
+3 Witherbloom Apprentice
+3 Chain of Smog
+4 Polluted Delta
+4 Abundant Harvest
+4 Witherbloom Apprentice
 1 Elvish Reclaimer
 2 Elvish Reclaimer
-4 Uro, Titan of Nature's Wrath
 4 Tropical Island
-4 Ice-Fang Coatl
+1 Prismatic Vista
+1 Natural Order
+1 Progenitus
+1 Daze
+1 Archon of Valor's Reach
+2 Prismatic Vista
+2 Birds of Paradise
+2 Natural Order
+2 Daze
+3 Birds of Paradise
+3 Daze
+3 Natural Order
+4 Verdant Catacombs
+4 Natural Order
