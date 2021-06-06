@@ -1,20 +1,20 @@
+1 Bonecrusher Giant
 2 Bonecrusher Giant
-2 Castle Locthwain
-1 Rankle, Master of Pranks
 1 The Akroan War
 3 Fabled Passage
-4 Needleverge Pathway
-1 Hunt for Specimens
 1 Kazuul's Fury
-4 Mountain
-6 Swamp
-2 Hunt for Specimens
+1 Hunt for Specimens
 1 Brightclimb Pathway
 2 Brightclimb Pathway
-2 Immersturm Predator
+4 Mountain
+1 Rankle, Master of Pranks
+6 Swamp
+2 Castle Locthwain
 4 Extus, Oriq Overlord
+2 Hunt for Specimens
 3 Brightclimb Pathway
 4 Brightclimb Pathway
+2 Immersturm Predator
 2 The Akroan War
 3 Woe Strider
 4 Woe Strider
@@ -22,29 +22,29 @@
 1 Callous Bloodmage
 2 Callous Bloodmage
 1 Agadeem's Awakening
-2 Rankle, Master of Pranks
 2 Agadeem's Awakening
+2 Rankle, Master of Pranks
 4 Fabled Passage
-2 Shatterskull Smashing
 3 Bonecrusher Giant
 3 The Akroan War
 7 Swamp
+2 Shatterskull Smashing
 1 Clearwater Pathway
 2 Clearwater Pathway
 1 Riverglide Pathway
 1 Darkbore Pathway
-1 Atris, Oracle of Half-Truths
-1 Lovestruck Beast
 1 Thassa, Deep-Dwelling
+1 Atris, Oracle of Half-Truths
 1 Cragcrown Pathway
 1 Zagoth Triome
 1 Ketria Triome
+1 Lovestruck Beast
 1 Bayou Groff
 2 Riverglide Pathway
 2 Darkbore Pathway
-2 Atris, Oracle of Half-Truths
 2 Lovestruck Beast
 2 Bayou Groff
+2 Atris, Oracle of Half-Truths
 2 Zagoth Triome
 2 Cragcrown Pathway
 2 Thassa, Deep-Dwelling
@@ -63,6 +63,13 @@
 1 Island
 3 Riverglide Pathway
 3 Callous Bloodmage
+1 Showdown of the Skalds
+1 Whisper Squad
+2 Showdown of the Skalds
+2 Whisper Squad
+3 Showdown of the Skalds
+3 Whisper Squad
+4 Whisper Squad
 2 Kazuul's Fury
 4 Plumb the Forbidden
 1 Sedgemoor Witch
@@ -83,21 +90,13 @@
 3 Fireblade Charger
 4 Fireblade Charger
 4 Kroxa, Titan of Death's Hunger
-1 Showdown of the Skalds
-1 Whisper Squad
-2 Showdown of the Skalds
-2 Whisper Squad
-3 Showdown of the Skalds
-3 Whisper Squad
-4 Whisper Squad
 5 Mountain
-8 Swamp
 1 Professor Onyx
 1 Bloodchief's Thirst
 1 Snow-Covered Island
 1 Snow-Covered Swamp
-1 Faceless Haven
 1 Ice Tunnel
+1 Faceless Haven
 1 Nadir Kraken
 1 Baleful Mastery
 1 Saw It Coming
@@ -108,8 +107,8 @@
 2 Bloodchief's Thirst
 2 Snow-Covered Island
 2 Snow-Covered Swamp
-2 Faceless Haven
 2 Ice Tunnel
+2 Faceless Haven
 2 Baleful Mastery
 2 Saw It Coming
 2 Vito, Thorn of the Dusk Rose
@@ -117,6 +116,8 @@
 3 Snow-Covered Swamp
 3 Ice Tunnel
 4 Snow-Covered Swamp
+4 Ice Tunnel
 5 Snow-Covered Swamp
 6 Snow-Covered Swamp
-4 Ice Tunnel
+8 Swamp
+4 Showdown of the Skalds

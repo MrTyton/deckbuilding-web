@@ -23,20 +23,20 @@
 1 Kessig Malcontents
 1 Savannah
 1 Bayou
-1 Uro, Titan of Nature's Wrath
-1 Tropical Island
-1 Underground Sea
 1 Abrupt Decay
 1 Brainstorm
+1 Tropical Island
+1 Uro, Titan of Nature's Wrath
+1 Underground Sea
 1 Verdant Catacombs
 1 Misty Rainforest
 1 Force of Will
-2 Misty Rainforest
 2 Abrupt Decay
 2 Force of Will
 2 Brainstorm
-3 Misty Rainforest
+2 Misty Rainforest
 3 Abrupt Decay
+3 Misty Rainforest
 3 Force of Will
 3 Brainstorm
 4 Misty Rainforest
@@ -49,8 +49,8 @@
 1 Dryad Arbor
 1 Green Sun's Zenith
 2 Green Sun's Zenith
-1 Sylvan Library
 1 Ponder
+1 Sylvan Library
 1 Scrubland
 2 Leovold, Emissary of Trest
 2 Ponder
@@ -84,8 +84,8 @@
 1 Jace, the Mind Sculptor
 1 Snow-Covered Swamp
 1 Ice-Fang Coatl
-2 Snow-Covered Island
 2 Snow-Covered Forest
+2 Snow-Covered Island
 2 Ice-Fang Coatl
 3 Ice-Fang Coatl
 1 Forest
@@ -97,8 +97,8 @@
 1 Kambal, Consul of Allocation
 2 Rick, Steadfast Leader
 1 Plague Engineer
-2 Plague Engineer
 2 Jace, the Mind Sculptor
+2 Plague Engineer
 1 Palace Jailer
 2 Palace Jailer
 1 Blast Zone
@@ -124,51 +124,51 @@
 1 Deputy of Detention
 1 General Kudro of Drannith
 2 Skyclave Apparition
+1 Vanishing Verse
+1 Windswept Heath
+1 Jolrael, Mwonvuli Recluse
+2 Bayou
+2 Windswept Heath
+3 Windswept Heath
 1 Containment Priest
 1 Magus of the Moon
-2 Opposition Agent
 2 Containment Priest
 2 Magus of the Moon
-3 Opposition Agent
+2 Opposition Agent
 3 Horizon Canopy
-1 Windswept Heath
-1 Vanishing Verse
-1 Jolrael, Mwonvuli Recluse
-2 Windswept Heath
-2 Bayou
-3 Windswept Heath
-1 Narset, Parter of Veils
+3 Opposition Agent
 1 Baleful Strix
+1 Narset, Parter of Veils
 1 Shark Typhoon
-2 Baleful Strix
 2 Shark Typhoon
 2 Island
+2 Baleful Strix
 3 Baleful Strix
-4 Thoughtseize
 4 Baleful Strix
+4 Thoughtseize
+1 Elvish Reclaimer
+2 Elvish Reclaimer
+4 Tropical Island
 1 Abundant Harvest
 1 Chain of Smog
 1 Witherbloom Apprentice
 2 Abundant Harvest
 2 Witherbloom Apprentice
 2 Chain of Smog
-3 Underground Sea
 3 Abundant Harvest
 3 Witherbloom Apprentice
 3 Chain of Smog
-4 Polluted Delta
+3 Underground Sea
 4 Abundant Harvest
 4 Witherbloom Apprentice
-1 Elvish Reclaimer
-2 Elvish Reclaimer
-4 Tropical Island
+4 Polluted Delta
 1 Prismatic Vista
 1 Natural Order
 1 Progenitus
 1 Daze
 1 Archon of Valor's Reach
-2 Prismatic Vista
 2 Birds of Paradise
+2 Prismatic Vista
 2 Natural Order
 2 Daze
 3 Birds of Paradise
