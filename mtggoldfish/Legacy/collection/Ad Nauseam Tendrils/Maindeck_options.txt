@@ -1,25 +1,24 @@
 3 Duress
 1 Snow-Covered Swamp
 2 Past in Flames
-1 Snow-Covered Island
 1 Verdant Catacombs
+1 Snow-Covered Island
 1 Dark Petition
 1 Flusterstorm
 1 Empty the Warrens
 1 Burning Wish
 2 Burning Wish
 3 Burning Wish
-1 Desperate Ritual
-1 Mountain
 1 Rite of Flame
 1 Bonus Round
+1 Desperate Ritual
 1 Ruby Medallion
+1 Mountain
 1 Birgi, God of Storytelling
 1 Seething Song
 1 Ancient Tomb
 1 Manamorphose
 1 Jeska's Will
-2 Desperate Ritual
 2 Bonus Round
 2 Rite of Flame
 2 Birgi, God of Storytelling
@@ -27,6 +26,7 @@
 2 Manamorphose
 2 Ancient Tomb
 2 Seething Song
+2 Desperate Ritual
 2 Jeska's Will
 2 Mountain
 3 Rite of Flame
@@ -46,7 +46,6 @@
 6 Mountain
 7 Mountain
 8 Mountain
-1 Chrome Mox
 1 Echo of Eons
 1 Defense Grid
 1 Fiery Confluence
@@ -58,15 +57,16 @@
 3 Ignite the Future
 3 Sandstone Needle
 4 Ignite the Future
+1 Chrome Mox
 1 Bloodstained Mire
 4 Duress
 1 Scalding Tarn
+1 Flooded Strand
+2 Bloodstained Mire
 1 Fae of Wishes
 2 Island
 2 Snow-Covered Island
 2 Swamp
-1 Flooded Strand
-2 Bloodstained Mire
 1 Daze
 2 Daze
 1 Badlands
@@ -78,11 +78,11 @@
 1 Simian Spirit Guide
 2 Act on Impulse
 2 Simian Spirit Guide
-3 Desperate Ritual
 3 Act on Impulse
 3 Bonus Round
 3 Simian Spirit Guide
 3 Past in Flames
+3 Desperate Ritual
 4 Ancient Tomb
 4 Bonus Round
 9 Mountain

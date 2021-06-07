@@ -1,22 +1,22 @@
 1 Containment Priest
-1 Vendilion Clique
-2 Disenchant
 1 Rip Apart
+1 Mountain
+1 Engineered Explosives
 1 Supreme Verdict
-2 Red Elemental Blast
-2 Back to Basics
-1 Terminus
 1 Meddling Mage
-2 Rest in Peace
-2 Rip Apart
-1 Hydroblast
-1 From the Ashes
+2 Back to Basics
+2 Red Elemental Blast
+1 Terminus
 2 Meddling Mage
+1 Hydroblast
+2 Rest in Peace
+1 Celestial Purge
+2 Rip Apart
+1 From the Ashes
 1 Relic of Progenitus
 1 Blue Elemental Blast
 1 Lavinia, Azorius Renegade
 1 Wear/Tear
-1 Celestial Purge
 1 Path to Exile
 1 Force of Vigor
 2 Hullbreacher
@@ -24,13 +24,15 @@
 1 Ashiok, Dream Render
 2 Path to Exile
 2 Force of Vigor
-3 Pyroblast
 1 Pyroclasm
-2 Celestial Purge
 1 Dovin's Veto
+1 Deafening Silence
+2 Supreme Verdict
+2 Celestial Purge
 1 Veil of Summer
-1 Soul-Guide Lantern
 1 Sevinne's Reclamation
+1 Soul-Guide Lantern
+1 Ethersworn Canonist
 1 Pithing Needle
 1 Entreat the Angels
 1 Force of Negation
@@ -43,24 +45,20 @@
 2 Force of Negation
 3 Force of Negation
 4 Force of Negation
+1 Snow-Covered Mountain
 1 Kozilek's Return
 1 Crush the Weak
-1 Ensnaring Bridge
 1 Return to Nature
 1 Brazen Borrower
 1 Leyline of Sanctity
 1 Sorcerous Spyglass
 1 Nature's Chant
-1 Ethersworn Canonist
-1 Snow-Covered Mountain
-1 Deafening Silence
-2 Supreme Verdict
 1 Palace Jailer
 2 Vendilion Clique
-1 Kaya's Guile
+1 Kaya, Orzhov Usurper
 1 Moat
 1 Swamp
-1 Kaya, Orzhov Usurper
+1 Kaya's Guile
 2 Engineered Explosives
 1 Baneslayer Angel
 1 Lightning Bolt
@@ -68,6 +66,11 @@
 1 Wilt
 2 Wilt
 2 Hydroblast
+1 Submerge
+1 Chill
+2 Pithing Needle
+2 Entreat the Angels
+2 Chill
 1 Detention Sphere
 1 Faerie Macabre
 1 Thwart
@@ -75,16 +78,7 @@
 3 Terminus
 1 Grafdigger's Cage
 3 Rest in Peace
-1 Cavern of Souls
-1 Silence
-1 Teferi, Time Raveler
-1 Thassa's Oracle
-1 Massacre
-1 Swords to Plowshares
-2 Silence
-2 Teferi, Time Raveler
-3 Teferi, Time Raveler
-3 Silence
+3 Meddling Mage
 1 Test of Talents
 1 Carpet of Flowers
 2 Plague Engineer
@@ -94,8 +88,14 @@
 1 Leyline of the Void
 2 Leyline of the Void
 3 Leyline of the Void
-1 Submerge
-1 Chill
-2 Pithing Needle
-2 Entreat the Angels
-2 Chill
+1 Massacre
+1 Silence
+1 Teferi, Time Raveler
+1 Thassa's Oracle
+1 Cavern of Souls
+1 Swords to Plowshares
+2 Teferi, Time Raveler
+2 Silence
+3 Teferi, Time Raveler
+3 Silence
+3 Pyroblast

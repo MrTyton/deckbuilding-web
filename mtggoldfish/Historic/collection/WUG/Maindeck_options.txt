@@ -9,9 +9,9 @@
 3 Righteous Valkyrie
 4 Bishop of Wings
 4 Righteous Valkyrie
-1 Collected Company
 1 Branchloft Pathway
 1 Temple Garden
+1 Collected Company
 2 Collected Company
 3 Collected Company
 4 Collected Company
@@ -120,9 +120,9 @@
 2 Unsubstantiate
 3 Unsubstantiate
 1 Memory Lapse
-1 Snow-Covered Swamp
 1 Drowned Catacomb
 1 Hateful Eidolon
+1 Snow-Covered Swamp
 1 Mire's Grasp
 1 Dead Weight
 1 Thoughtseize
@@ -130,8 +130,8 @@
 1 Watery Grave
 1 Agadeem's Awakening
 2 Watery Grave
-2 Snow-Covered Swamp
 2 Hateful Eidolon
+2 Snow-Covered Swamp
 2 Mire's Grasp
 2 Thoughtseize
 2 Dead Weight
@@ -164,21 +164,23 @@
 9 Snow-Covered Plains
 10 Snow-Covered Plains
 11 Snow-Covered Plains
-1 Adventurous Impulse
 1 Ephemerate
+1 Adventurous Impulse
 2 Adventurous Impulse
 3 Adventurous Impulse
 4 Adventurous Impulse
-1 Scattered Groves
 1 Deputy of Detention
 1 Barkchannel Pathway
 1 Reject
 1 Island
-2 Agadeem's Awakening
+1 Scattered Groves
 2 Dive Down
 1 Essence Scatter
 2 Essence Scatter
 2 Declaration in Stone
+2 Agadeem's Awakening
+2 Memory Lapse
+3 Memory Lapse
 3 Snow-Covered Swamp
 1 Brightclimb Pathway
 2 Blast Zone
@@ -192,8 +194,6 @@
 2 Blossoming Sands
 2 Ajani's Pridemate
 3 Ajani's Pridemate
-2 Memory Lapse
-3 Memory Lapse
 2 Kira, Great Glass-Spinner
 3 Shacklegeist
 4 Shacklegeist

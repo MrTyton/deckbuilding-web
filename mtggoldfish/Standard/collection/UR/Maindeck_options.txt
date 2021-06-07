@@ -1,5 +1,4 @@
-2 Opt
-3 Opt
+2 Island
 3 Mountain
 3 Island
 4 Opt
@@ -7,126 +6,130 @@
 2 Shock
 3 Shock
 1 Temple of Epiphany
-4 Shock
 4 Island
 4 Mountain
+4 Shock
 1 Crash Through
 5 Island
 2 Crash Through
 3 Crash Through
 2 Temple of Epiphany
+1 Bonecrusher Giant
+6 Island
+5 Mountain
+4 Crash Through
+2 Bonecrusher Giant
+1 Sprite Dragon
+2 Sprite Dragon
+3 Sprite Dragon
+4 Sprite Dragon
+1 Brazen Borrower
+3 Bonecrusher Giant
+1 Stormwing Entity
+2 Stormwing Entity
+3 Stormwing Entity
+4 Stormwing Entity
+3 Temple of Epiphany
+2 Brazen Borrower
+3 Brazen Borrower
+4 Temple of Epiphany
+4 Bonecrusher Giant
+3 Negate
+1 Prismari Command
+1 Fire Prophecy
+2 Fire Prophecy
+2 Prismari Command
+3 Prismari Command
 1 Unsubstantiate
 2 Unsubstantiate
 3 Unsubstantiate
-2 Prismari Command
-3 Prismari Command
-4 Crash Through
-3 Temple of Epiphany
-6 Island
-5 Mountain
-3 Negate
-4 Temple of Epiphany
 4 Unsubstantiate
-1 Bonecrusher Giant
-1 Fire Prophecy
-2 Fire Prophecy
-4 Prismari Command
-1 Mystical Dispute
 1 Goldspan Dragon
 2 Goldspan Dragon
 3 Goldspan Dragon
+4 Goldspan Dragon
+1 Raugrin Triome
+1 Needleverge Pathway
+1 Hengegate Pathway
+2 Hengegate Pathway
+2 Raugrin Triome
+2 Needleverge Pathway
+3 Needleverge Pathway
+3 Hengegate Pathway
+4 Needleverge Pathway
 1 Vadrok, Apex of Thunder
 1 Lore Drakkis
 2 Lore Drakkis
 2 Vadrok, Apex of Thunder
 3 Vadrok, Apex of Thunder
 3 Lore Drakkis
-4 Goldspan Dragon
-1 Needleverge Pathway
-1 Hengegate Pathway
-1 Raugrin Triome
-2 Hengegate Pathway
-2 Raugrin Triome
+4 Hengegate Pathway
 4 Vadrok, Apex of Thunder
 4 Lore Drakkis
-2 Needleverge Pathway
-3 Needleverge Pathway
-3 Hengegate Pathway
-4 Needleverge Pathway
-2 Bonecrusher Giant
-3 Bonecrusher Giant
-1 Sprite Dragon
-2 Sprite Dragon
-3 Sprite Dragon
-4 Sprite Dragon
-1 Brazen Borrower
-1 Stormwing Entity
-2 Stormwing Entity
-3 Stormwing Entity
-4 Stormwing Entity
-1 Thrill of Possibility
-4 Bonecrusher Giant
+1 Mystical Dispute
+4 Brazen Borrower
+3 Raugrin Triome
+1 Sejiri Shelter
+4 Prismari Command
 7 Island
-2 Brazen Borrower
-3 Brazen Borrower
-4 Hengegate Pathway
-2 Thrill of Possibility
 1 Silundi Vision
 2 Silundi Vision
-3 Thrill of Possibility
-1 Sejiri Shelter
-3 Raugrin Triome
-4 Brazen Borrower
 1 Riddleform
 2 Riddleform
 3 Riddleform
 4 Riddleform
+1 Thrill of Possibility
+2 Thrill of Possibility
+3 Thrill of Possibility
 1 Defiant Strike
-2 Sejiri Shelter
 4 Raugrin Triome
+2 Sejiri Shelter
 1 See the Truth
-6 Mountain
-4 Thrill of Possibility
 1 Fabled Passage
 2 Fabled Passage
+6 Mountain
 1 Phoenix of Ash
-7 Mountain
 2 Phoenix of Ash
 2 Mystical Dispute
+7 Mountain
+4 Thrill of Possibility
 1 Cinderclasm
 1 Scorching Dragonfire
 1 Search for Glory
 1 Into the Roil
-3 Fabled Passage
-1 Showdown of the Skalds
 1 Plains
+3 Fabled Passage
+7 Snow-Covered Island
+1 Showdown of the Skalds
+2 Defiant Strike
 1 Behold the Multiverse
 7 Snow-Covered Mountain
-7 Snow-Covered Island
 1 Birgi, God of Storytelling
 1 Miscast
-2 Defiant Strike
 3 Fire Prophecy
-8 Island
 1 Purphoros's Intervention
 2 Purphoros's Intervention
 3 Purphoros's Intervention
 4 Fire Prophecy
 1 Rowan, Scholar of Sparks
-2 Scorching Dragonfire
+1 Frostboil Snarl
 1 Skyclave Cleric
 1 Volatile Fjord
 2 Volatile Fjord
-2 Miscast
 2 See the Truth
 3 See the Truth
 4 See the Truth
 1 Ox of Agonas
+2 Miscast
 1 The Royal Scions
 2 The Royal Scions
-1 Frostboil Snarl
+2 Frostboil Snarl
+3 Frostboil Snarl
+1 Infuriate
+8 Island
 2 Birgi, God of Storytelling
 2 Search for Glory
+2 Scorching Dragonfire
 2 Behold the Multiverse
 3 Volatile Fjord
 1 Escape Velocity
@@ -136,41 +139,40 @@
 4 Rimrock Knight
 8 Snow-Covered Island
 1 Claim the Firstborn
-4 Fabled Passage
-2 Frostboil Snarl
-3 Frostboil Snarl
-1 Infuriate
-1 Essence Scatter
-1 Igneous Inspiration
-1 Vantress Gargoyle
 1 Serpentine Curve
 2 Serpentine Curve
 3 Serpentine Curve
-1 Curate
-2 Curate
-3 Curate
-4 Curate
+4 Frostboil Snarl
+2 Infuriate
+3 Infuriate
+4 Fabled Passage
+1 Essence Scatter
+1 Igneous Inspiration
+1 Vantress Gargoyle
+1 Stern Dismissal
+1 Shatterskull Smashing
 1 Snow-Covered Plains
 2 Showdown of the Skalds
 3 Defiant Strike
-2 Infuriate
-3 Infuriate
 4 Infuriate
-4 Frostboil Snarl
+1 Storm's Wrath
+2 Storm's Wrath
 1 Temple of Enlightenment
 1 Temple of Triumph
+1 Test of Talents
+1 Frantic Inventory
+2 Frantic Inventory
+3 Frantic Inventory
+4 Frantic Inventory
 8 Mountain
 9 Island
 10 Island
-1 Stern Dismissal
 1 Saw It Coming
 1 Lofty Denial
 2 Lofty Denial
-1 Storm's Wrath
-2 Storm's Wrath
+1 Disdainful Stroke
 1 Jwari Disruption
 1 Embercleave
-1 Disdainful Stroke
 1 Roil Eruption
 2 Plains
 2 Into the Roil
@@ -183,18 +185,47 @@
 2 Cubwarden
 2 Pollywog Symbiote
 3 Pollywog Symbiote
+1 Unleash Fury
+2 Unleash Fury
+3 Unleash Fury
 1 Academic Dispute
 2 Academic Dispute
 3 Academic Dispute
 1 Surtland Frostpyre
 1 Furycalm Snarl
 1 Valakut Awakening
-2 Temple of Enlightenment
 2 Ox of Agonas
 2 Temple of Triumph
+2 Temple of Enlightenment
 2 Furycalm Snarl
 3 Temple of Enlightenment
 3 Temple of Triumph
+2 Shatterskull Smashing
+3 Shatterskull Smashing
+4 Shatterskull Smashing
+1 Improbable Alliance
+1 Faerie Vandal
+1 Swiftwater Cliffs
+1 Field Research
+1 Gust of Wind
+2 Improbable Alliance
+2 Faerie Vandal
+2 Field Research
+2 Gust of Wind
+2 Swiftwater Cliffs
+3 Improbable Alliance
+3 Field Research
+3 Gust of Wind
+3 Swiftwater Cliffs
+3 Faerie Vandal
+4 Improbable Alliance
+4 Swiftwater Cliffs
+4 Faerie Vandal
+1 Clever Lumimancer
+2 Stern Dismissal
+2 Clever Lumimancer
+3 Clever Lumimancer
+4 Clever Lumimancer
 1 Faceless Haven
 2 Faceless Haven
 3 Faceless Haven
@@ -211,44 +242,36 @@
 4 Of One Mind
 4 Robber of the Rich
 4 Fervent Champion
-1 Shatterskull Smashing
 1 Heartfire Immolator
 1 Mystic Sanctuary
 2 Heartfire Immolator
 2 Escape Velocity
 3 Heartfire Immolator
 4 Heartfire Immolator
-1 Improbable Alliance
-1 Faerie Vandal
-1 Swiftwater Cliffs
-1 Gust of Wind
-1 Field Research
-2 Improbable Alliance
-2 Faerie Vandal
-2 Field Research
-2 Gust of Wind
-2 Swiftwater Cliffs
-3 Improbable Alliance
-3 Gust of Wind
-3 Faerie Vandal
-3 Swiftwater Cliffs
-3 Field Research
-4 Swiftwater Cliffs
-4 Faerie Vandal
-4 Improbable Alliance
+1 Divide by Zero
+1 Fling
+1 Teach by Example
+2 Divide by Zero
+2 Teach by Example
+2 Fling
+2 Test of Talents
+3 Fling
+3 Storm's Wrath
+3 Teach by Example
+4 Serpentine Curve
+4 Fling
+1 Curate
+2 Curate
+3 Curate
+4 Curate
 4 Purphoros's Intervention
 1 Crush the Weak
 1 Prismari Campus
-1 Test of Talents
 2 Prismari Campus
 8 Snow-Covered Mountain
-1 Frantic Inventory
 1 Blazing Volley
 1 Raking Claws
-2 Frantic Inventory
 2 Blazing Volley
 2 Raking Claws
-3 Frantic Inventory
-4 Frantic Inventory
 9 Mountain
 10 Mountain
