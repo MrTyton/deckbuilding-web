@@ -152,7 +152,7 @@
 |                    1|[Raugrin Triome](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479771)            |                     |                                                                                                     |
 |                    1|Brainstone                                                                                           |                     |                                                                                                     |
 |                    2|Brainstone                                                                                           |                     |                                                                                                     |
-|                    3|Brainstone                                                                                           |                     |                                                                                                     |
 |                    3|[Castle Vantress](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=473204)           |                     |                                                                                                     |
+|                    3|Brainstone                                                                                           |                     |                                                                                                     |
 |                    4|Brainstone                                                                                           |                     |                                                                                                     |
 
