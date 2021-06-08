@@ -32,7 +32,6 @@
 1 The Birth of Meletis
 1 Elspeth Conquers Death
 1 Prophetic Prism
-1 Migration Path
 1 Dryad of the Ilysian Grove
 1 Godless Shrine
 1 Elder Gargaroth
@@ -62,6 +61,7 @@
 1 Honden of Life's Web
 1 Treacherous Blessing
 1 Blood Crypt
+1 Migration Path
 1 Honden of Night's Reach
 1 Escape to the Wilds
 1 Sanctum of Fruitful Harvest
@@ -74,11 +74,10 @@
 2 Fae of Wishes
 2 Savai Triome
 2 The Birth of Meletis
+2 Solemn Simulacrum
 2 Prophetic Prism
 2 Finale of Devastation
-2 Solemn Simulacrum
 2 Dryad of the Ilysian Grove
-2 Migration Path
 2 Godless Shrine
 2 Terror of the Peaks
 2 Yorion, Sky Nomad
@@ -86,6 +85,7 @@
 2 Assassin's Trophy
 2 Mirari's Wake
 2 Blood Crypt
+2 Migration Path
 2 Smothering Tithe
 2 Cultivate
 2 Mastermind's Acquisition
@@ -409,21 +409,21 @@
 1 Necroblossom Snarl
 1 Castle Locthwain
 1 Barkchannel Pathway
-1 Vineglimmer Snarl
 1 Vivien, Champion of the Wilds
 1 Temple of Malady
 1 Temple of Deceit
-1 Nethroi, Apex of Death
+1 Vineglimmer Snarl
 1 The Great Henge
 1 Nissa, Who Shakes the World
 1 Vivien Reid
 1 Scute Swarm
 1 Gemrazer
-1 Migratory Greathorn
 1 Darkbore Pathway
 1 Castle Vantress
 1 Dirge Bat
 1 Koma, Cosmos Serpent
+1 Nethroi, Apex of Death
+1 Migratory Greathorn
 1 Auspicious Starrix
 1 Boneyard Lurker
 1 Pollywog Symbiote
@@ -432,10 +432,10 @@
 2 Season of Growth
 2 Nissa, Who Shakes the World
 2 Gemrazer
-2 Migratory Greathorn
 2 Boneyard Lurker
 2 Auspicious Starrix
 2 Dirge Bat
+2 Migratory Greathorn
 2 Pollywog Symbiote
 2 Pouncing Shoreshark
 2 Darkbore Pathway
@@ -505,10 +505,10 @@
 2 Attune with Aether
 2 Lightning Helix
 3 Lightning Helix
-3 The World Tree
 3 Ancient Ziggurat
 3 Voltaic Brawler
 3 Ephemerate
+3 The World Tree
 3 Whirler Virtuoso
 3 Rogue Refiner
 3 Attune with Aether

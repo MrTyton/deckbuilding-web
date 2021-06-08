@@ -92,8 +92,8 @@
 4 Clever Lumimancer
 1 Easy Prey
 1 Memory Leak
-2 Easy Prey
 2 Memory Leak
+2 Easy Prey
 3 Easy Prey
 3 Memory Leak
 4 Memory Leak
@@ -275,6 +275,16 @@
 3 Fabled Passage
 3 Sheltered Thicket
 3 Lorehold Command
+1 Magmatic Channeler
+1 Declaration in Stone
+1 Clarion Spirit
+1 Magma Spray
+2 Magmatic Channeler
+2 Magma Spray
+2 Clarion Spirit
+3 Temple of Triumph
+3 Clarion Spirit
+4 Clarion Spirit
 1 Rimrock Knight
 2 Rimrock Knight
 3 Rimrock Knight
@@ -302,7 +312,6 @@
 3 Intangible Virtue
 4 Shefet Dunes
 4 Intangible Virtue
-4 Cragcrown Pathway
 1 Tajic, Legion's Edge
 1 Snow-Covered Plains
 1 Skyknight Vanguard
@@ -336,13 +345,4 @@
 9 Snow-Covered Mountain
 9 Snow-Covered Plains
 10 Snow-Covered Plains
-1 Magmatic Channeler
-1 Declaration in Stone
-1 Clarion Spirit
-1 Magma Spray
-2 Magmatic Channeler
-2 Magma Spray
-2 Clarion Spirit
-3 Temple of Triumph
-3 Clarion Spirit
-4 Clarion Spirit
+4 Cragcrown Pathway
