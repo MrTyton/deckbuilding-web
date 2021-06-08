@@ -1,36 +1,37 @@
+1 Blast Zone
 4 Haze of Pollen
-1 Hinterland Harbor
 2 Brazen Borrower
-1 Zagoth Triome
-1 Commit/Memory
 4 Alrund's Epiphany
 1 Gaea's Blessing
 1 Ketria Triome
 2 Ketria Triome
 3 Ketria Triome
 4 Ketria Triome
-3 Brazen Borrower
+1 Commit/Memory
+1 Zagoth Triome
 2 Hinterland Harbor
-2 Zagoth Triome
+3 Brazen Borrower
 1 Castle Vantress
+2 Zagoth Triome
 1 Mystic Sanctuary
-3 Zagoth Triome
-4 Zagoth Triome
 1 Regrowth
 2 Regrowth
 2 God-Eternal Kefnet
 3 Hinterland Harbor
 4 Hinterland Harbor
 2 Bala Ged Recovery
+3 Zagoth Triome
+4 Zagoth Triome
 1 Temple of Mystery
 2 Temple of Mystery
 2 Mystic Sanctuary
 4 Nissa, Who Shakes the World
+3 Narset, Parter of Veils
 5 Forest
 3 God-Eternal Kefnet
 1 Behold the Multiverse
 2 Behold the Multiverse
-3 Narset, Parter of Veils
+1 Search for Azcanta
 2 Shark Typhoon
 2 Blast Zone
 1 Cultivate
@@ -42,7 +43,6 @@
 3 Nightpack Ambusher
 4 Brazen Borrower
 2 Castle Vantress
-1 Search for Azcanta
 4 Tamiyo, Collector of Tales
 1 Memory Lapse
 2 Memory Lapse
@@ -72,56 +72,53 @@
 2 Opt
 4 Narset, Parter of Veils
 1 Koma, Cosmos Serpent
-1 Hydroid Krasis
-1 Overgrown Tomb
-1 Swamp
-2 Hydroid Krasis
-2 Commit/Memory
-1 Drowned Catacomb
-1 Thoughtseize
-2 Thoughtseize
-2 Overgrown Tomb
-3 Thoughtseize
-1 Extinction Event
-3 Overgrown Tomb
-4 Overgrown Tomb
 1 Brineborn Cutthroat
 2 Brineborn Cutthroat
 3 Brineborn Cutthroat
 4 Brineborn Cutthroat
-2 Drowned Catacomb
-2 Extinction Event
+1 Hydroid Krasis
+1 Overgrown Tomb
+1 Swamp
+2 Hydroid Krasis
+1 Plains
 1 Shadows' Verdict
 1 Watery Grave
+1 Drowned Catacomb
+1 Thoughtseize
+2 Thoughtseize
+2 Overgrown Tomb
 2 Shadows' Verdict
+3 Thoughtseize
 1 Fatal Push
 2 Fatal Push
 2 Swamp
 1 Tale's End
 2 Tale's End
-1 Steam Vents
 1 Temple of Abandon
 1 Temple of Epiphany
-1 Bonecrusher Giant
 1 Ionize
-1 Stomping Ground
+1 Steam Vents
 1 Mountain
-2 Steam Vents
-2 Bonecrusher Giant
+1 Bonecrusher Giant
+1 Stomping Ground
 2 Temple of Epiphany
 2 Ionize
+2 Bonecrusher Giant
 2 Stomping Ground
-3 Steam Vents
-3 Bonecrusher Giant
+2 Steam Vents
 3 Ionize
 3 Stomping Ground
+3 Steam Vents
+3 Bonecrusher Giant
 4 Steam Vents
-4 Bonecrusher Giant
-4 Stomping Ground
 4 Ionize
-1 Whelming Wave
+4 Stomping Ground
+4 Bonecrusher Giant
 2 Koma, Cosmos Serpent
 3 Koma, Cosmos Serpent
+1 Whelming Wave
+2 Commit/Memory
+1 Extinction Event
 1 Crawling Barrens
 1 Rimewood Falls
 2 Rimewood Falls
@@ -130,26 +127,36 @@
 6 Island
 6 Forest
 7 Forest
-1 Binding the Old Gods
+1 The Biblioplex
+2 Search for Azcanta
+1 Hallowed Fountain
+1 Temple Garden
+1 Teferi's Protection
+2 Temple Garden
+2 Hallowed Fountain
+2 Teferi's Protection
 1 Casualties of War
 1 Elder Gargaroth
+1 Binding the Old Gods
 1 Woodland Cemetery
 2 Casualties of War
 2 Woodland Cemetery
+3 Overgrown Tomb
+4 Overgrown Tomb
 1 Castle Locthwain
 1 Eliminate
 2 Eliminate
 4 Thoughtseize
 2 Watery Grave
-1 Plains
+2 Drowned Catacomb
 1 Ugin, the Spirit Dragon
+2 Extinction Event
 1 Supreme Will
-1 The Biblioplex
 1 Glimpse of Freedom
 1 Wall of Blossoms
 2 Wall of Blossoms
-1 Eureka Moment
 1 Jace, Wielder of Mysteries
+1 Eureka Moment
 1 Oracle of Mul Daya
 2 Eureka Moment
 2 Oracle of Mul Daya
@@ -158,60 +165,50 @@
 3 Shadows' Verdict
 3 Eliminate
 1 Hengegate Pathway
-1 Hallowed Fountain
-1 Temple Garden
-1 Declaration in Stone
 1 Seal Away
+1 Declaration in Stone
 1 Gates of Istfell
-1 Teferi's Protection
 1 Teferi, Hero of Dominaria
-2 Plains
-2 Temple Garden
 2 Hengegate Pathway
-2 Hallowed Fountain
-2 Declaration in Stone
-2 Teferi's Protection
+2 Plains
 2 Seal Away
+2 Declaration in Stone
 3 Hallowed Fountain
 4 Hallowed Fountain
 1 Temple of Malady
-1 Fae of Wishes
-1 Maelstrom Pulse
 1 Fetid Pools
 1 Disdainful Stroke
 1 Duress
 1 Cry of the Carnarium
+1 Maelstrom Pulse
 1 Clearwater Pathway
-2 Fae of Wishes
+1 Fae of Wishes
 2 Castle Locthwain
-2 Maelstrom Pulse
 2 Duress
 2 Cry of the Carnarium
+2 Maelstrom Pulse
 2 Clearwater Pathway
+2 Fae of Wishes
 3 Clearwater Pathway
 3 Duress
 4 Clearwater Pathway
-1 Languish
-2 Languish
-3 Drowned Catacomb
-4 Drowned Catacomb
-3 Censor
 3 Rimewood Falls
+3 Censor
 4 Censor
 3 Shark Typhoon
 3 Bala Ged Recovery
 4 Bala Ged Recovery
 4 Shark Typhoon
-1 Kaya the Inexorable
-1 Yasharn, Implacable Earth
+1 The Scarab God
 1 Ritual of Soot
 1 Indatha Triome
-1 Mythos of Nethroi
+1 Yasharn, Implacable Earth
 1 Elspeth Conquers Death
+1 Mythos of Nethroi
+1 Kaya the Inexorable
 1 Vraska, Relic Seeker
-1 The Scarab God
-2 Yasharn, Implacable Earth
 2 Mythos of Nethroi
+2 Yasharn, Implacable Earth
 2 Indatha Triome
 3 Yasharn, Implacable Earth
 3 Hydroid Krasis
@@ -219,7 +216,14 @@
 3 Indatha Triome
 4 Indatha Triome
 4 Hydroid Krasis
-2 Search for Azcanta
+1 Quandrix Command
+1 Primal Amulet
+1 Baral, Chief of Compliance
+2 Baral, Chief of Compliance
+2 The Biblioplex
+2 Primal Amulet
+3 Teferi's Protection
+4 Teferi's Protection
 3 Search for Azcanta
 8 Forest
 1 Scavenging Ooze

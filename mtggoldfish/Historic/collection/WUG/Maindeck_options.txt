@@ -1,69 +1,69 @@
 1 Resplendent Angel
-1 Bishop of Wings
 1 Righteous Valkyrie
+1 Bishop of Wings
 2 Resplendent Angel
-2 Bishop of Wings
 2 Righteous Valkyrie
+2 Bishop of Wings
 3 Resplendent Angel
-3 Bishop of Wings
 3 Righteous Valkyrie
+3 Bishop of Wings
 4 Bishop of Wings
 4 Righteous Valkyrie
-1 Branchloft Pathway
 1 Temple Garden
+1 Branchloft Pathway
 1 Collected Company
 2 Collected Company
 3 Collected Company
 4 Collected Company
+1 Soul Warden
+2 Soul Warden
 1 Skyclave Apparition
 1 Plains
+2 Plains
 2 Branchloft Pathway
+2 Skyclave Apparition
 1 Youthful Valkyrie
 2 Youthful Valkyrie
 3 Youthful Valkyrie
 4 Youthful Valkyrie
-1 Soul Warden
-2 Soul Warden
+3 Soul Warden
 4 Resplendent Angel
 1 Sunpetal Grove
 2 Temple Garden
-2 Plains
-2 Skyclave Apparition
-3 Soul Warden
 3 Skyclave Apparition
 1 Speaker of the Heavens
 3 Temple Garden
 4 Temple Garden
 3 Branchloft Pathway
-2 Speaker of the Heavens
-2 Sunpetal Grove
 4 Soul Warden
+2 Sunpetal Grove
+2 Speaker of the Heavens
 3 Sunpetal Grove
 3 Plains
 4 Branchloft Pathway
-3 Speaker of the Heavens
 4 Sunpetal Grove
 4 Skyclave Apparition
+3 Speaker of the Heavens
 4 Plains
 1 Ajani, Strength of the Pride
-1 Hallowed Fountain
-1 Linvala, Shield of Sea Gate
-2 Linvala, Shield of Sea Gate
-2 Hallowed Fountain
-3 Hallowed Fountain
-4 Hallowed Fountain
-1 Glasspool Mimic
-1 Hengegate Pathway
-2 Glasspool Mimic
-3 Glasspool Mimic
 5 Plains
-2 Hengegate Pathway
 6 Plains
 7 Plains
+1 Hallowed Fountain
+1 Linvala, Shield of Sea Gate
+2 Hallowed Fountain
+2 Linvala, Shield of Sea Gate
+3 Hallowed Fountain
+4 Hallowed Fountain
+1 Hengegate Pathway
+1 Glasspool Mimic
+2 Glasspool Mimic
+3 Glasspool Mimic
 8 Plains
 9 Plains
-3 Linvala, Shield of Sea Gate
+2 Hengegate Pathway
 4 Speaker of the Heavens
+3 Linvala, Shield of Sea Gate
 10 Plains
 1 Reidane, God of the Worthy
 1 Castle Ardenvale
@@ -72,24 +72,24 @@
 1 Glacial Fortress
 2 Glacial Fortress
 1 Forest
-4 Glasspool Mimic
 1 Dive Down
 1 Siren Stormtamer
 1 Baffling End
+4 Glasspool Mimic
 1 Unsummon
 3 Faceless Haven
+1 Angel of Vitality
+2 Angel of Vitality
 2 Baffling End
+3 Angel of Vitality
 1 Declaration in Stone
 1 Unsubstantiate
 19 Snow-Covered Island
 3 Hengegate Pathway
 4 Hengegate Pathway
 1 Emeria's Call
-1 Angel of Vitality
-2 Angel of Vitality
 1 Kira, Great Glass-Spinner
 2 Siren Stormtamer
-3 Angel of Vitality
 4 Angel of Vitality
 2 Forest
 1 Heliod, Sun-Crowned
@@ -106,50 +106,49 @@
 5 Forest
 6 Forest
 7 Forest
+2 Ajani, Strength of the Pride
 2 Unsummon
 4 Linvala, Shield of Sea Gate
 1 Shacklegeist
 2 Shacklegeist
-1 Selfless Savior
-2 Selfless Savior
-3 Selfless Savior
-1 Resplendent Marshal
-2 Ajani, Strength of the Pride
 3 Curiosity
+1 Watery Grave
 2 Emeria's Call
 2 Unsubstantiate
 3 Unsubstantiate
 1 Memory Lapse
-1 Drowned Catacomb
+1 Clearwater Pathway
 1 Hateful Eidolon
 1 Snow-Covered Swamp
 1 Mire's Grasp
-1 Dead Weight
 1 Thoughtseize
-1 Clearwater Pathway
-1 Watery Grave
+1 Dead Weight
+1 Drowned Catacomb
 1 Agadeem's Awakening
-2 Watery Grave
+2 Clearwater Pathway
+2 Dead Weight
 2 Hateful Eidolon
 2 Snow-Covered Swamp
-2 Mire's Grasp
+2 Watery Grave
 2 Thoughtseize
-2 Dead Weight
+2 Mire's Grasp
 2 Drowned Catacomb
-2 Clearwater Pathway
 3 Watery Grave
+3 Drowned Catacomb
 3 Hateful Eidolon
 3 Thoughtseize
 3 Clearwater Pathway
-3 Drowned Catacomb
 4 Watery Grave
 4 Hateful Eidolon
 4 Clearwater Pathway
 4 Faceless Haven
+1 Selfless Savior
+2 Selfless Savior
+3 Selfless Savior
 4 Selfless Savior
-1 Blast Zone
-1 Elite Spellbinder
-2 Elite Spellbinder
+1 Resplendent Marshal
+1 Vito, Thorn of the Dusk Rose
+1 Brightclimb Pathway
 1 Fabled Passage
 2 Fabled Passage
 3 Fabled Passage
@@ -169,22 +168,20 @@
 2 Adventurous Impulse
 3 Adventurous Impulse
 4 Adventurous Impulse
-1 Deputy of Detention
-1 Barkchannel Pathway
 1 Reject
-1 Island
+1 Barkchannel Pathway
+1 Deputy of Detention
 1 Scattered Groves
 2 Dive Down
 1 Essence Scatter
 2 Essence Scatter
 2 Declaration in Stone
+1 Blast Zone
+2 Blast Zone
 2 Agadeem's Awakening
 2 Memory Lapse
 3 Memory Lapse
 3 Snow-Covered Swamp
-1 Brightclimb Pathway
-2 Blast Zone
-3 Elite Spellbinder
 1 Snow-Covered Forest
 1 Blossoming Sands
 1 Radiant Fountain
@@ -194,6 +191,8 @@
 2 Blossoming Sands
 2 Ajani's Pridemate
 3 Ajani's Pridemate
+1 Knight of Autumn
+4 Fabled Passage
 2 Kira, Great Glass-Spinner
 3 Shacklegeist
 4 Shacklegeist
@@ -201,8 +200,15 @@
 2 Remorseful Cleric
 3 Remorseful Cleric
 4 Remorseful Cleric
-1 Knight of Autumn
-4 Fabled Passage
+1 Godless Shrine
+2 Vito, Thorn of the Dusk Rose
+2 Brightclimb Pathway
+2 Godless Shrine
+3 Vito, Thorn of the Dusk Rose
+3 Brightclimb Pathway
+3 Godless Shrine
+4 Brightclimb Pathway
+4 Godless Shrine
 1 Avalanche Caller
 3 Essence Capture
 4 Essence Capture

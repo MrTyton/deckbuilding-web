@@ -1,55 +1,55 @@
 4 Growth Spiral
 2 Jace, the Mind Sculptor
+1 Arid Mesa
 1 Lightning Helix
 1 Mountain
 1 Island
-2 Lightning Helix
 1 Flooded Strand
 2 Flooded Strand
 1 Hallowed Fountain
-1 Teferi, Hero of Dominaria
-1 Cryptic Command
-1 Mana Leak
 1 Snapcaster Mage
-2 Cryptic Command
-2 Mana Leak
+1 Mana Leak
+1 Cryptic Command
 2 Snapcaster Mage
+2 Mana Leak
+2 Cryptic Command
 3 Flooded Strand
 4 Flooded Strand
-1 Omnath, Locus of Creation
 1 Path to Exile
-1 Breeding Pool
-1 Misty Rainforest
-2 Omnath, Locus of Creation
 2 Path to Exile
-3 Path to Exile
 1 Field of Ruin
-1 Lonely Sandbar
 2 Field of Ruin
 1 Plains
 1 Force of Negation
-1 Supreme Verdict
 2 Force of Negation
-2 Teferi, Hero of Dominaria
+1 Teferi, Hero of Dominaria
 3 Snapcaster Mage
+1 Omnath, Locus of Creation
+1 Breeding Pool
+1 Misty Rainforest
+2 Omnath, Locus of Creation
+3 Path to Exile
+2 Lightning Helix
+1 Lonely Sandbar
+1 Supreme Verdict
+2 Teferi, Hero of Dominaria
 2 Misty Rainforest
 3 Misty Rainforest
-1 Arid Mesa
 1 Forest
 3 Force of Negation
 3 Cryptic Command
 1 Spell Snare
+2 Island
 4 Path to Exile
 2 Arid Mesa
 3 Arid Mesa
 3 Lightning Helix
-2 Island
 1 Temple Garden
 4 Lightning Helix
+3 Mana Leak
 1 Logic Knot
 4 Misty Rainforest
 1 Timely Reinforcements
-3 Mana Leak
 1 Explore
 1 Fires of Invention
 1 Tamiyo, Collector of Tales
@@ -73,13 +73,19 @@
 2 Ketria Triome
 3 Bloodstained Mire
 4 Bloodstained Mire
+4 Prismari Command
 1 Engineered Explosives
 1 Transmogrify
 2 Sacred Foundry
 2 Transmogrify
 4 Steam Vents
+1 Opt
+1 Celestial Colonnade
+2 Opt
 1 Cleansing Wildfire
 2 Cleansing Wildfire
+1 Shark Typhoon
+2 Shark Typhoon
 1 Snow-Covered Plains
 1 Snow-Covered Forest
 1 Valakut Awakening
@@ -106,23 +112,18 @@
 1 Izzet Charm
 2 Izzet Charm
 3 Velomachus Lorehold
-1 Anger of the Gods
 1 Expressive Iteration
+1 Anger of the Gods
 2 Snow-Covered Island
 2 Expressive Iteration
 3 Expressive Iteration
-1 Opt
-1 Celestial Colonnade
-2 Opt
 3 Opt
 1 Prairie Stream
 1 Oust
-1 Shark Typhoon
 1 Flagstones of Trokair
 1 Reflecting Pool
 1 Castle Vantress
 2 Flagstones of Trokair
-2 Shark Typhoon
 2 Oust
 3 Flagstones of Trokair
 3 Shark Typhoon
@@ -133,9 +134,9 @@
 1 Saheeli Rai
 1 Felidar Guardian
 1 Prismatic Vista
-1 Oath of Nissa
 1 Windswept Heath
 1 Utopia Sprawl
+1 Oath of Nissa
 1 Waterlogged Grove
 1 Wall of Blossoms
 2 Felidar Guardian
@@ -155,4 +156,17 @@
 4 Saheeli Rai
 4 Utopia Sprawl
 4 Oath of Nissa
-4 Prismari Command
+1 Spell Queller
+1 Sword of Feast and Famine
+1 Batterskull
+1 Stoneforge Mystic
+2 Spell Queller
+2 Stoneforge Mystic
+2 Celestial Colonnade
+2 Hallowed Fountain
+3 Celestial Colonnade
+3 Spell Queller
+3 Stoneforge Mystic
+4 Snapcaster Mage
+4 Stoneforge Mystic
+4 Mana Leak

@@ -80,12 +80,12 @@
 1 River's Rebuke
 1 Carpet of Flowers
 2 Snow-Covered Plains
-1 Abundant Growth
-2 Abundant Growth
 1 Boseiju, Who Shelters All
 2 Tundra
 2 Mystic Sanctuary
 2 Orim's Chant
+1 Abundant Growth
+2 Abundant Growth
 3 Snow-Covered Forest
 3 Uro, Titan of Nature's Wrath
 1 Elvish Spirit Guide
@@ -99,15 +99,11 @@
 4 City of Traitors
 3 Tropical Island
 4 Tropical Island
-1 Portent
-2 Spell Pierce
-3 Spell Pierce
-4 Spell Pierce
 1 Lim-Dul's Vault
 1 Inquisition of Kozilek
+1 Swamp
 1 Underground Sea
 1 Thoughtseize
-1 Swamp
 1 Verdant Catacombs
 2 Underground Sea
 2 Lim-Dul's Vault
@@ -117,5 +113,9 @@
 3 Lim-Dul's Vault
 4 Polluted Delta
 4 Thoughtseize
+1 Portent
+2 Spell Pierce
+3 Spell Pierce
+4 Spell Pierce
 1 Force of Negation
 7 Island

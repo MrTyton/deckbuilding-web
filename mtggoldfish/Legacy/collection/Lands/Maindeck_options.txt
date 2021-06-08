@@ -1,33 +1,29 @@
 2 Elvish Reclaimer
 2 Field of the Dead
-1 Horizon Canopy
 1 Glacial Chasm
+1 Horizon Canopy
 1 Lightning Bolt
 1 Nurturing Peatland
-1 Waterlogged Grove
 2 Lightning Bolt
-1 Tropical Island
 1 Snow-Covered Forest
+1 Yavimaya, Cradle of Growth
+1 Waterlogged Grove
+1 Urza's Saga
 1 Bayou
 1 Abrupt Decay
 2 Bayou
-4 Valakut Exploration
-1 Gamble
-2 Gamble
-1 Yavimaya, Cradle of Growth
-1 Urza's Saga
-2 Abrupt Decay
-3 Sylvan Library
-3 Elvish Reclaimer
+1 Tropical Island
 1 Pyrite Spellbomb
 1 Retrofitter Foundry
 2 Urza's Saga
 3 Urza's Saga
+4 Valakut Exploration
+1 Gamble
+2 Gamble
+2 Abrupt Decay
+3 Sylvan Library
+3 Elvish Reclaimer
 4 Rishadan Port
-1 Klothys, God of Destiny
-1 Academy Ruins
-1 Engineered Explosives
-2 Engineered Explosives
 1 Riftstone Portal
 1 Tranquil Thicket
 1 Molten Vortex
@@ -41,13 +37,13 @@
 1 Green Sun's Zenith
 1 Birds of Paradise
 1 Scavenging Ooze
-1 Plains
 1 Titania, Protector of Argoth
 1 Archon of Valor's Reach
 1 Dryad Arbor
 1 Natural Order
 1 Scattered Groves
 1 Orcish Lumberjack
+1 Plains
 1 Knight of Autumn
 1 Knight of the Reliquary
 1 Sejiri Steppe
@@ -66,14 +62,18 @@
 4 Windswept Heath
 4 Green Sun's Zenith
 1 Ketria Triome
-1 Ipnu Rivulet
+1 Klothys, God of Destiny
+1 Stomping Ground
+1 Crucible of Worlds
 1 Hall of Heliod's Generosity
 1 Barbarian Ring
 1 Temple Garden
 1 Grasping Dunes
 1 Manabond
-1 Crucible of Worlds
-1 Stomping Ground
+1 Academy Ruins
+1 Engineered Explosives
+1 Ipnu Rivulet
+2 Engineered Explosives
 1 Underground Sea
 1 Shadow of Doubt
 1 Drown in the Loch
@@ -87,5 +87,7 @@
 2 Shadow of Doubt
 2 Ghost Quarter
 3 Shadow of Doubt
+1 Expedition Map
+3 Maze of Ith
 3 Gamble
 4 Dark Depths

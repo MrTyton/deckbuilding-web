@@ -1,12 +1,12 @@
+1 Plains
 1 Hallowed Fountain
 1 Sacred Foundry
-1 Plains
+1 Temple Garden
 2 Raugrin Triome
 2 Alrund's Epiphany
-3 Raugrin Triome
-3 Steam Vents
-1 Cragcrown Pathway
 4 Stomping Ground
+1 Cragcrown Pathway
+3 Raugrin Triome
 4 Steam Vents
 1 Barkchannel Pathway
 1 Growth Spiral
@@ -17,36 +17,39 @@
 2 Nightpack Ambusher
 2 Barkchannel Pathway
 3 Nightpack Ambusher
-1 Torrential Gearhulk
-2 Torrential Gearhulk
 1 Castle Vantress
 4 Nightpack Ambusher
+1 Torrential Gearhulk
+2 Torrential Gearhulk
 1 Riverglide Pathway
 3 Torrential Gearhulk
 1 Rewind
 2 Rewind
-1 Magma Opus
-2 Magma Opus
-3 Magma Opus
 3 Rewind
+2 Castle Vantress
+2 Cragcrown Pathway
 1 Memory Lapse
 2 Memory Lapse
 3 Memory Lapse
-2 Castle Vantress
-2 Cragcrown Pathway
+1 Magma Opus
+2 Magma Opus
+3 Magma Opus
 2 Riverglide Pathway
+4 Memory Lapse
+3 Riverglide Pathway
 1 Fabled Passage
+3 Barkchannel Pathway
 2 Fabled Passage
 1 Paradise Druid
 2 Paradise Druid
+1 Glasspool Mimic
 1 Sea Gate Stormcaller
 1 Neoform
 1 Dualcaster Mage
-1 Glasspool Mimic
 1 Tuktuk Rubblefort
 1 Combat Celebrant
-2 Sea Gate Stormcaller
 2 Glasspool Mimic
+2 Sea Gate Stormcaller
 2 Neoform
 2 Dualcaster Mage
 3 Glasspool Mimic
@@ -56,137 +59,134 @@
 4 Glasspool Mimic
 4 Neoform
 3 Dualcaster Mage
-3 Riverglide Pathway
-3 Barkchannel Pathway
-4 Memory Lapse
+4 Rewind
 3 Paradise Druid
+4 Riverglide Pathway
+4 Barkchannel Pathway
+1 Sublime Epiphany
+3 Cragcrown Pathway
+4 Paradise Druid
+1 Botanical Sanctum
 1 Brainstorm
 2 Brainstorm
 3 Brainstorm
-1 Botanical Sanctum
-4 Paradise Druid
-3 Fabled Passage
 4 Dualcaster Mage
-4 Riverglide Pathway
-4 Barkchannel Pathway
-4 Rewind
 2 Tuktuk Rubblefort
+2 Mountain
 1 Sulfur Falls
 2 Botanical Sanctum
-3 Botanical Sanctum
-4 Botanical Sanctum
-3 Cragcrown Pathway
-4 Torrential Gearhulk
 3 Hinterland Harbor
-1 Sublime Epiphany
-2 Mountain
-4 Brainstorm
+4 Torrential Gearhulk
+3 Botanical Sanctum
+3 Fabled Passage
 1 Opt
 2 Opt
+4 Botanical Sanctum
 4 Cragcrown Pathway
-4 Magma Opus
-1 Pact of Negation
-1 Abundant Harvest
 3 Alrund's Epiphany
-2 Abundant Harvest
-2 Sulfur Falls
-1 Nissa, Who Shakes the World
-3 Abundant Harvest
-1 Valakut Awakening
+1 Pact of Negation
 2 Sublime Epiphany
-2 Nissa, Who Shakes the World
+4 Brainstorm
+2 Sulfur Falls
+1 Abundant Harvest
+1 Valakut Awakening
+2 Abundant Harvest
+3 Abundant Harvest
+4 Magma Opus
 1 Llanowar Elves
 2 Llanowar Elves
 3 Llanowar Elves
 4 Llanowar Elves
-1 Kiora, Behemoth Beckoner
-1 Kasmina, Enigma Sage
-1 Chandra, Torch of Defiance
 1 Glorybringer
-1 The Royal Scions
+1 Kiora, Behemoth Beckoner
+2 Glorybringer
 2 Kiora, Behemoth Beckoner
+3 Glorybringer
+1 Kasmina, Enigma Sage
+1 The Royal Scions
+1 Chandra, Torch of Defiance
+2 Chandra, Torch of Defiance
 2 The Royal Scions
 2 Kasmina, Enigma Sage
-2 Chandra, Torch of Defiance
-2 Glorybringer
 1 Gilded Goose
 2 Gilded Goose
-3 Glorybringer
+1 Questing Beast
+2 Questing Beast
 3 Kasmina, Enigma Sage
 3 The Royal Scions
 1 Heart of Kiran
-1 Questing Beast
 2 Heart of Kiran
-2 Questing Beast
 3 Questing Beast
 3 Heart of Kiran
+1 Rekindling Phoenix
+2 Rekindling Phoenix
 1 Frilled Mystic
 2 Frilled Mystic
 1 Watery Grave
 2 Watery Grave
-1 Overgrown Tomb
-2 Overgrown Tomb
 3 Watery Grave
 4 Watery Grave
+1 Overgrown Tomb
+2 Overgrown Tomb
 1 Shimmer of Possibility
 2 Shimmer of Possibility
-4 Abundant Harvest
-1 Anticipate
-2 Anticipate
-1 Rekindling Phoenix
-2 Rekindling Phoenix
-3 Gilded Goose
-3 Shimmer of Possibility
 1 Prismari Command
+4 Abundant Harvest
+1 Quandrix Command
 3 Opt
-1 Spell Pierce
-2 Spell Pierce
 1 Spirebluff Canal
 2 Spirebluff Canal
+1 Spell Pierce
+2 Spell Pierce
 1 Reckless Rage
 1 Dragonsguard Elite
-1 Dreadhorde Arcanist
 1 Snakeskin Veil
-1 Domri's Ambush
-1 Stormwing Entity
-2 Dreadhorde Arcanist
+1 Dreadhorde Arcanist
 2 Reckless Rage
 2 Dragonsguard Elite
 2 Snakeskin Veil
+2 Dreadhorde Arcanist
+3 Dragonsguard Elite
+3 Dreadhorde Arcanist
+4 Dragonsguard Elite
+1 Stormwing Entity
 2 Stormwing Entity
+3 Stormwing Entity
+1 Domri's Ambush
 2 Domri's Ambush
 3 Reckless Rage
-3 Dreadhorde Arcanist
-3 Dragonsguard Elite
-3 Stormwing Entity
-4 Dragonsguard Elite
+3 Snakeskin Veil
+1 Nissa, Who Shakes the World
+1 Anticipate
+2 Anticipate
 1 Soul-Scar Mage
 2 Soul-Scar Mage
 3 Soul-Scar Mage
+4 Soul-Scar Mage
+4 Dreadhorde Arcanist
+3 Gilded Goose
+3 Shimmer of Possibility
 3 Spirebluff Canal
 4 Spirebluff Canal
-4 Dreadhorde Arcanist
-4 Soul-Scar Mage
-3 Snakeskin Veil
+3 Spell Pierce
+4 Reckless Rage
 1 Swamp
 1 Quench
 2 Quench
 1 Zagoth Triome
 2 Zagoth Triome
 1 Fatal Push
+2 Nissa, Who Shakes the World
 4 Gilded Goose
 4 Shimmer of Possibility
 2 Valakut Awakening
 1 Rhonas the Indomitable
 3 Domri's Ambush
-3 Spell Pierce
-4 Reckless Rage
 4 Stormwing Entity
-1 Lotus Cobra
-2 Lotus Cobra
+4 Lovestruck Beast
 1 Wall of Blossoms
 2 Wall of Blossoms
-1 Quandrix Command
+7 Forest
 1 Jwari Disruption
 1 Drowned Catacomb
 2 Fatal Push
@@ -194,26 +194,29 @@
 3 Zagoth Triome
 3 Overgrown Tomb
 2 Jwari Disruption
-1 Port of Karfell
 1 Eliminate
+1 Port of Karfell
 1 Deathsprout
 2 Port of Karfell
 2 Eliminate
 2 Deathsprout
-3 Eliminate
 3 Fatal Push
-4 Lovestruck Beast
+3 Eliminate
+1 Lotus Cobra
+2 Lotus Cobra
 1 Abrade
 3 Sulfur Falls
-7 Forest
-3 Nissa, Who Shakes the World
+4 Snakeskin Veil
 1 Hieroglyphic Illumination
 2 Hieroglyphic Illumination
 3 Hieroglyphic Illumination
 4 Hieroglyphic Illumination
 3 Castle Vantress
 3 Sublime Epiphany
+1 Scavenging Ooze
+3 Nissa, Who Shakes the World
 1 Teferi, Master of Time
+2 Quandrix Command
 2 Abrade
 1 Expressive Iteration
 2 Expressive Iteration
@@ -225,7 +228,6 @@
 1 Temple of Mystery
 1 Perilous Voyage
 2 Perilous Voyage
-1 Scavenging Ooze
 4 Sublime Epiphany
 4 Fabled Passage
 4 Nissa, Who Shakes the World
@@ -233,42 +235,13 @@
 2 Wishclaw Talisman
 3 Wishclaw Talisman
 4 Wishclaw Talisman
-1 Aether Hub
-1 Attune with Aether
-1 Rogue Refiner
-1 Aetherworks Marvel
-1 Servant of the Conduit
-2 Rogue Refiner
-2 Aetherworks Marvel
-2 Servant of the Conduit
-2 Aether Hub
-2 Attune with Aether
-3 Aether Hub
-3 Rogue Refiner
-3 Aetherworks Marvel
-3 Attune with Aether
-3 Servant of the Conduit
-4 Aetherworks Marvel
-4 Rogue Refiner
-4 Attune with Aether
-4 Aether Hub
 1 Yasharn, Implacable Earth
-2 Quandrix Command
 3 Expressive Iteration
 1 Hydroid Krasis
 1 Solve the Equation
-4 Snakeskin Veil
 2 Mystical Dispute
 3 Chandra, Torch of Defiance
-1 Harnessed Lightning
-1 Whirler Virtuoso
-2 Whirler Virtuoso
-2 Harnessed Lightning
-3 Harnessed Lightning
-4 Harnessed Lightning
-4 Servant of the Conduit
 3 Frilled Mystic
-1 Sea Gate Restoration
 1 Silundi Vision
 2 Silundi Vision
 1 Thoughtseize
@@ -283,11 +256,12 @@
 2 Essence Scatter
 2 Temple of Mystery
 4 Frilled Mystic
+1 Time Warp
+2 Time Warp
+3 Time Warp
 1 Wizard's Lightning
 4 Spell Pierce
 4 Domri's Ambush
-3 Whirler Virtuoso
-4 Whirler Virtuoso
 1 Dual Strike
 2 Dual Strike
 4 Sulfur Falls
@@ -295,14 +269,22 @@
 3 Wall of Blossoms
 1 Censor
 1 Temple of Abandon
+1 The Great Henge
 1 Sarkhan the Masterless
 2 Sarkhan the Masterless
 3 Kiora, Behemoth Beckoner
 3 Sarkhan the Masterless
 1 Relic of Progenitus
+2 Prismari Command
 3 Valakut Awakening
 1 Fire Prophecy
 2 Fire Prophecy
+1 Lightning Strike
+2 Lightning Strike
+1 Sprite Dragon
+2 Sprite Dragon
+3 Sprite Dragon
+4 Sprite Dragon
 1 Sinister Sabotage
 2 Sinister Sabotage
 3 Mystical Dispute
@@ -320,17 +302,13 @@
 1 Sunpetal Grove
 1 Vineglimmer Snarl
 1 Frostboil Snarl
-1 Time Warp
-2 Time Warp
-3 Time Warp
 2 Teferi, Master of Time
 2 Relic of Progenitus
 4 Glorybringer
 1 Anger of the Gods
 2 Anger of the Gods
-1 The Great Henge
-1 Electrolyze
 2 Censor
+1 Sea Gate Restoration
 2 Hydroid Krasis
 1 Tainted Pact
 1 Inquisition of Kozilek
@@ -343,38 +321,31 @@
 1 Clearwater Pathway
 2 Darkbore Pathway
 2 Clearwater Pathway
-3 Silundi Vision
 3 Darkbore Pathway
-4 Silundi Vision
+3 Silundi Vision
 4 Overgrown Tomb
+4 Silundi Vision
+1 Decisive Denial
+2 Decisive Denial
+1 Pillar of Flame
+2 Pillar of Flame
+1 Aether Gust
+2 Aether Gust
 2 Expansion/Explosion
 4 Valakut Awakening
 4 Anticipate
-1 Aether Gust
-2 Aether Gust
-2 Prismari Command
 1 Tangled Florahedron
-1 Ugin, the Spirit Dragon
-1 Glimmer of Genius
-1 Ulamog, the Ceaseless Hunger
-1 Woodweaver's Puzzleknot
-2 Ugin, the Spirit Dragon
-2 Glimmer of Genius
-2 Woodweaver's Puzzleknot
-2 Ulamog, the Ceaseless Hunger
-3 Ulamog, the Ceaseless Hunger
-3 Woodweaver's Puzzleknot
-4 Woodweaver's Puzzleknot
 4 Temple of Mystery
 1 Assassin's Trophy
 1 Slitherwisp
 2 Slitherwisp
 3 Drowned Catacomb
 4 Brineborn Cutthroat
+3 Lightning Strike
 6 Island
 1 Mizzix's Mastery
-1 Shatterskull Smashing
 1 Arasta of the Endless Web
+1 Shatterskull Smashing
 2 Mizzix's Mastery
 1 Chandra, Awakened Inferno
 1 Shifting Ceratops
@@ -382,26 +353,21 @@
 2 Tainted Pact
 1 Incubation/Incongruity
 2 Temple Garden
-1 Shark Typhoon
-1 Cling to Dust
+1 Sweltering Suns
+1 Electrolyze
+2 Sweltering Suns
 1 Baleful Mastery
+1 Cling to Dust
+1 Shark Typhoon
 2 Baleful Mastery
 2 Shark Typhoon
-1 Lightning Strike
-2 Lightning Strike
-1 Sweltering Suns
-2 Sweltering Suns
 1 Finale of Promise
-1 Pillar of Flame
 2 Finale of Promise
-2 Pillar of Flame
 1 Scheming Symmetry
 2 Scheming Symmetry
 1 Temple of Epiphany
 1 Deliberate
 2 Deliberate
-1 Genesis Ultimatum
-2 Genesis Ultimatum
 1 Syncopate
 1 Behold the Multiverse
 2 Behold the Multiverse
@@ -410,21 +376,28 @@
 2 Grim Tutor
 2 Yasharn, Implacable Earth
 3 Yasharn, Implacable Earth
+1 Atarka's Command
+2 Atarka's Command
+3 Quandrix Command
+1 Champion of Wits
+2 The Great Henge
+2 Champion of Wits
+3 Rootbound Crag
+3 Abrade
+3 Censor
+1 Flame Sweep
+2 Flame Sweep
+3 Flame Sweep
 1 Supreme Will
 1 Chemister's Insight
 2 Supreme Will
 2 Chemister's Insight
 3 Heartless Act
-3 Abrade
-3 Censor
 1 Magma Spray
 1 Karn, the Great Creator
 2 Magma Spray
 2 Karn, the Great Creator
 3 Karn, the Great Creator
-1 Flame Sweep
-2 Flame Sweep
-3 Flame Sweep
 1 Narset, Parter of Veils
 1 Barrin, Tolarian Archmage
 1 Commit/Memory
@@ -433,37 +406,29 @@
 3 Mountain
 3 Prismari Command
 4 Wall of Blossoms
-1 Oran-Rief Ooze
+2 Solve the Equation
+3 Solve the Equation
+3 Lotus Cobra
+4 Lotus Cobra
 1 Blooming Marsh
+1 Oran-Rief Ooze
 2 Blooming Marsh
 3 Blooming Marsh
 4 Blooming Marsh
-1 Snow-Covered Island
-1 Snow-Covered Forest
-2 Snow-Covered Island
-2 Snow-Covered Forest
-3 Snow-Covered Island
-3 Snow-Covered Forest
-4 Snow-Covered Island
-4 Snow-Covered Forest
 1 Sheltered Thicket
 1 Scorching Dragonfire
 2 Sheltered Thicket
 2 Scorching Dragonfire
 3 Scorching Dragonfire
 4 Scorching Dragonfire
-1 Turntimber Symbiosis
-1 Aether Meltdown
-2 Turntimber Symbiosis
-2 Sea Gate Restoration
-3 Ugin, the Spirit Dragon
-4 Ulamog, the Ceaseless Hunger
-1 Decisive Denial
-1 Sprite Dragon
-2 Decisive Denial
-2 Sprite Dragon
-3 Sprite Dragon
-4 Sprite Dragon
+1 Snow-Covered Island
+1 Snow-Covered Forest
+2 Snow-Covered Island
+2 Snow-Covered Forest
+3 Snow-Covered Forest
+3 Snow-Covered Island
+4 Snow-Covered Forest
+4 Snow-Covered Island
 3 Perilous Voyage
 4 Perilous Voyage
 4 Heart of Kiran
@@ -473,10 +438,6 @@
 3 Omen of the Sea
 4 Fire Prophecy
 4 Omen of the Sea
-2 Solve the Equation
-3 Solve the Equation
-3 Lotus Cobra
-4 Lotus Cobra
 4 Kiora, Behemoth Beckoner
 1 Glimpse the Cosmos
 2 Glimpse the Cosmos
@@ -490,7 +451,13 @@
 2 Sea-Dasher Octopus
 3 Spectral Sailor
 7 Island
+8 Forest
 8 Island
 9 Forest
 10 Forest
-8 Forest
+1 Blitz of the Thunder-Raptor
+1 Shock
+2 Shock
+3 Shock
+4 Lightning Strike
+4 Shock

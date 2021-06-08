@@ -1,19 +1,19 @@
-1 Watery Grave
 1 Snuff Out
 1 Street Wraith
 1 Death's Shadow
-2 Wasteland
+1 Wasteland
 2 Snuff Out
 2 Street Wraith
+2 Wasteland
 2 Death's Shadow
 2 Watery Grave
 3 Wasteland
+3 Thoughtseize
 3 Street Wraith
 3 Death's Shadow
-3 Thoughtseize
 4 Thoughtseize
-4 Wasteland
 4 Street Wraith
+4 Wasteland
 4 Death's Shadow
 1 Daze
 2 Daze
@@ -87,28 +87,28 @@
 2 Inquisition of Kozilek
 1 Mystic Reflection
 1 Liliana, the Last Hope
-1 Ethereal Forager
-2 Ethereal Forager
-2 Bloodstained Mire
 1 Burning Wish
 1 Badlands
 1 Galvanic Relay
 2 Burning Wish
 2 Galvanic Relay
+1 Ethereal Forager
+2 Bloodstained Mire
+2 Ethereal Forager
 2 Night's Whisper
 3 Duress
 3 Night's Whisper
-1 Cabal Therapy
+1 Chain of Smog
+1 Village Rites
 1 Ancient Tomb
+1 Cabal Therapy
 1 Spellseeker
 1 Hullbreacher
-1 Village Rites
 1 Bloodchief's Thirst
 1 Plague Engineer
-1 Chain of Smog
+2 Chain of Smog
 2 Ancient Tomb
 2 Hullbreacher
-2 Chain of Smog
 2 Spellseeker
 2 Unearth
 2 Misty Rainforest
@@ -123,9 +123,9 @@
 1 Tarmogoyf
 1 Once Upon a Time
 1 Stubborn Denial
-2 Once Upon a Time
 2 Verdant Catacombs
 2 Tarmogoyf
+2 Once Upon a Time
 2 Stubborn Denial
 3 Stubborn Denial
 3 Tarmogoyf
