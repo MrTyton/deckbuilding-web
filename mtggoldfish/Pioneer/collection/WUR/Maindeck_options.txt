@@ -35,7 +35,6 @@
 2 Fae of Wishes
 3 Hallowed Fountain
 4 Hallowed Fountain
-1 Heart of Kiran
 1 Wandering Fumarole
 1 Temple of Epiphany
 1 Clifftop Retreat
@@ -44,6 +43,7 @@
 1 Detention Sphere
 1 Gideon of the Trials
 1 Elspeth, Sun's Champion
+1 Heart of Kiran
 1 Geier Reach Sanitarium
 1 Needle Spires
 1 Savai Triome
@@ -55,10 +55,10 @@
 3 Fae of Wishes
 3 Interplanar Beacon
 4 Interplanar Beacon
-1 Kiora, Behemoth Beckoner
 1 Garruk's Harbinger
-2 Kiora, Behemoth Beckoner
+1 Kiora, Behemoth Beckoner
 2 Garruk's Harbinger
+2 Kiora, Behemoth Beckoner
 3 Garruk's Harbinger
 2 Glacial Fortress
 3 Glacial Fortress
@@ -71,46 +71,46 @@
 4 Steam Vents
 2 Plains
 3 Plains
+1 Breeding Pool
 1 Ketria Triome
 1 Transmogrify
 1 Chained to the Rocks
-1 The Birth of Meletis
 1 The Raven's Warning
 1 Omen of the Sea
+1 The Birth of Meletis
 1 Agent of Treachery
 1 Esika's Chariot
 1 Fabled Passage
 1 Nahiri, the Harbinger
 1 Sunpetal Grove
-1 Breeding Pool
 2 Sunpetal Grove
 2 Ketria Triome
 2 Fabled Passage
 2 Transmogrify
 2 Chained to the Rocks
-2 The Birth of Meletis
 2 The Raven's Warning
 2 Omen of the Sea
+2 The Birth of Meletis
 2 Agent of Treachery
 2 Castle Vantress
 2 Esika's Chariot
 3 Esika's Chariot
 3 Fabled Passage
 3 Ketria Triome
-3 The Birth of Meletis
 3 The Raven's Warning
 3 Omen of the Sea
 3 Transmogrify
+3 The Birth of Meletis
 3 Chained to the Rocks
 4 Shark Typhoon
 4 Fabled Passage
 4 Esika's Chariot
-4 The Birth of Meletis
 4 Omen of the Sea
 4 Transmogrify
-4 The Raven's Warning
+4 The Birth of Meletis
 4 Chained to the Rocks
 4 Ketria Triome
+4 The Raven's Warning
 1 Enthusiastic Study
 4 Garruk's Harbinger
 1 Censor
@@ -173,7 +173,7 @@
 3 Teferi, Hero of Dominaria
 3 Azorius Charm
 3 Ipnu Rivulet
-4 Sinister Sabotage
 4 Plains
+4 Sinister Sabotage
 4 Field of Ruin
 4 Supreme Verdict
