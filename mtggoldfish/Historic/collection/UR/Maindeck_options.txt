@@ -1,43 +1,15 @@
-1 Raugrin Triome
-2 Raugrin Triome
-1 Castle Vantress
-2 Pact of Negation
 1 Hallowed Fountain
 1 Plains
-3 Raugrin Triome
 1 Blinkmoth Nexus
+1 Commit/Memory
 2 Shatterskull Smashing
+1 Raugrin Triome
+2 Raugrin Triome
 3 Memory Lapse
-1 Sweltering Suns
-4 Raugrin Triome
-1 Valakut Awakening
-2 Valakut Awakening
-3 Valakut Awakening
-1 Jwari Disruption
-1 Torrential Gearhulk
-1 Blood Sun
-1 Spirebluff Canal
-1 Tale's End
-1 Abrade
-1 Lotus Field
-2 Torrential Gearhulk
-2 Blood Sun
-2 Commit/Memory
-2 Jwari Disruption
-2 Spirebluff Canal
-2 Tale's End
-2 Sweltering Suns
-2 Lotus Field
-3 Blood Sun
-3 Torrential Gearhulk
-3 Sweltering Suns
-3 Lotus Field
-4 Blood Sun
-4 Lotus Field
-1 Expressive Iteration
 5 Mountain
-1 Ketria Triome
 1 Censor
+1 Ketria Triome
+1 Expressive Iteration
 1 Seize the Spoils
 1 Dwarven Mine
 2 Ketria Triome
@@ -50,28 +22,38 @@
 4 Shark Typhoon
 4 Dwarven Mine
 1 Callous Dismissal
-1 Sacred Foundry
-3 Fire Prophecy
+1 Spell Pierce
 1 Depths of Desire
-1 Inspiring Vantage
-1 Teferi, Hero of Dominaria
-1 Irrigated Farmland
-2 Irrigated Farmland
-2 Teferi, Hero of Dominaria
-3 Tale's End
-1 Magma Opus
-2 Magma Opus
-3 Magma Opus
-3 Spirebluff Canal
-3 Commit/Memory
-4 Magma Opus
-4 Torrential Gearhulk
-1 Lightning Helix
-1 Glacial Fortress
-1 Needleverge Pathway
-2 Needleverge Pathway
+2 Pact of Negation
+3 Fire Prophecy
+1 Opt
+2 Opt
+3 Opt
+4 Opt
+3 Raugrin Triome
+1 Sacred Foundry
+1 Miscast
+1 Grapeshot
+1 Runaway Steam-Kin
+1 Birgi, God of Storytelling
+1 Grinning Ignus
+1 Faithless Looting
+2 Grapeshot
+2 Runaway Steam-Kin
+2 Birgi, God of Storytelling
+2 Grinning Ignus
+2 Faithless Looting
+3 Faithless Looting
+3 Grinning Ignus
+3 Birgi, God of Storytelling
+4 Grinning Ignus
 4 Forbidden Friendship
+3 Perilous Voyage
+1 Alrund's Epiphany
+1 Solve the Equation
 1 Raise the Alarm
+1 Glacial Fortress
+1 Lightning Helix
 2 Raise the Alarm
 2 Hallowed Fountain
 2 Glacial Fortress
@@ -79,47 +61,80 @@
 3 Raise the Alarm
 3 Lightning Helix
 4 Raise the Alarm
+4 Raugrin Triome
 4 Lightning Helix
-4 Sweltering Suns
-1 Solve the Equation
-1 Spell Pierce
+1 Sweltering Suns
 2 Seize the Spoils
-3 Perilous Voyage
-1 Alrund's Epiphany
-1 Opt
-2 Opt
-3 Opt
-4 Opt
-1 Sublime Epiphany
-2 Abrade
-3 Abrade
-4 Abrade
+1 Spirebluff Canal
+1 Cinderclasm
+1 Scorching Dragonfire
+2 Spirebluff Canal
+2 Scorching Dragonfire
+2 Spell Pierce
+2 Miscast
+2 Cinderclasm
+3 Spirebluff Canal
+3 Scorching Dragonfire
+3 Spell Pierce
 6 Mountain
-1 Merchant of the Vale
-1 Grapeshot
-1 Runaway Steam-Kin
-1 Birgi, God of Storytelling
-1 Ox of Agonas
 1 Hazoret's Monument
-1 Grinning Ignus
-1 Faithless Looting
-2 Merchant of the Vale
-2 Grapeshot
-2 Runaway Steam-Kin
-2 Birgi, God of Storytelling
 2 Hazoret's Monument
-2 Grinning Ignus
-2 Faithless Looting
-3 Faithless Looting
-3 Merchant of the Vale
 3 Runaway Steam-Kin
+4 Birgi, God of Storytelling
+4 Faithless Looting
+3 Grapeshot
+4 Grapeshot
+1 Merchant of the Vale
+1 Ox of Agonas
+2 Merchant of the Vale
+3 Merchant of the Vale
 3 Hazoret's Monument
-3 Grinning Ignus
 4 Runaway Steam-Kin
 4 Hazoret's Monument
-4 Grinning Ignus
 7 Mountain
 8 Mountain
+1 Improbable Alliance
+2 Solve the Equation
+1 Chandra, Torch of Defiance
+1 Shock
+2 Chandra, Torch of Defiance
+2 Shock
+3 Miscast
+1 Lightning Axe
+2 Lightning Axe
+4 Spell Pierce
+1 Needleverge Pathway
+1 Showdown of the Skalds
+1 Furycalm Snarl
+1 Valakut Awakening
+1 Selfless Savior
+1 Terror of the Peaks
+1 Aetherflux Reservoir
+1 Underworld Breach
+1 Clifftop Retreat
+2 Clifftop Retreat
+2 Needleverge Pathway
+2 Showdown of the Skalds
+2 Selfless Savior
+2 Terror of the Peaks
+2 Underworld Breach
+2 Sacred Foundry
+2 Aetherflux Reservoir
+3 Sacred Foundry
+3 Showdown of the Skalds
+3 Clifftop Retreat
+3 Needleverge Pathway
+3 Selfless Savior
+4 Showdown of the Skalds
+4 Sacred Foundry
+4 Selfless Savior
+4 Needleverge Pathway
+2 Depths of Desire
+3 Pact of Negation
+4 Fire Prophecy
+4 Pact of Negation
+3 Ketria Triome
+4 Ketria Triome
 1 Crash Through
 1 Spikefield Hazard
 1 Warlord's Fury
@@ -127,76 +142,20 @@
 2 Crash Through
 2 Warlord's Fury
 2 Ox of Agonas
+3 Ox of Agonas
+3 Crash Through
 3 Spikefield Hazard
 3 Warlord's Fury
-4 Faithless Looting
 4 Spikefield Hazard
+4 Ox of Agonas
 4 Merchant of the Vale
 4 Warlord's Fury
+4 Crash Through
 9 Mountain
 10 Mountain
 11 Mountain
 12 Mountain
 13 Mountain
-14 Mountain
-2 Sacred Foundry
-3 Birgi, God of Storytelling
-4 Birgi, God of Storytelling
-1 Improbable Alliance
-1 Miscast
-2 Solve the Equation
-3 Ketria Triome
-4 Ketria Triome
-1 Temple of Epiphany
-1 Lonely Sandbar
-1 Disdainful Stroke
-1 Storm's Wrath
-2 Lonely Sandbar
-2 Temple of Epiphany
-3 Temple of Epiphany
-4 Spirebluff Canal
-1 Silundi Vision
-1 Discontinuity
-2 Sublime Epiphany
-4 Tale's End
-1 Terror of the Peaks
-1 Clifftop Retreat
-1 Furycalm Snarl
-1 Selfless Savior
-1 Aetherflux Reservoir
-1 Underworld Breach
-1 Showdown of the Skalds
-2 Terror of the Peaks
-2 Clifftop Retreat
-2 Selfless Savior
-2 Underworld Breach
-2 Aetherflux Reservoir
-2 Showdown of the Skalds
-3 Selfless Savior
-3 Needleverge Pathway
-3 Showdown of the Skalds
-3 Sacred Foundry
-3 Clifftop Retreat
-4 Selfless Savior
-4 Showdown of the Skalds
-4 Needleverge Pathway
-4 Sacred Foundry
-2 Depths of Desire
-3 Pact of Negation
-4 Fire Prophecy
-4 Pact of Negation
-3 Ox of Agonas
-3 Crash Through
-3 Grapeshot
-4 Ox of Agonas
-4 Crash Through
-4 Grapeshot
 15 Mountain
 16 Mountain
-1 Banefire
-1 Light Up the Stage
-2 Banefire
-2 Light Up the Stage
-3 Light Up the Stage
-4 Valakut Awakening
-4 Light Up the Stage
+14 Mountain
