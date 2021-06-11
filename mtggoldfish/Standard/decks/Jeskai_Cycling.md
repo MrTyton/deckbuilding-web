@@ -62,7 +62,7 @@
 |                     |                                                                                               |                    1|[Neutralize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479579)             |
 |                     |                                                                                               |                    1|[Drannith Magistrate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479531)    |
 |                     |                                                                                               |                    2|[Neutralize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479579)             |
-|                     |                                                                                               |                    2|[Drannith Magistrate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479531)    |
 |                     |                                                                                               |                    2|[Roiling Vortex](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=491797)         |
+|                     |                                                                                               |                    2|[Drannith Magistrate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479531)    |
 |                     |                                                                                               |                    3|[Neutralize](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=479579)             |
 
