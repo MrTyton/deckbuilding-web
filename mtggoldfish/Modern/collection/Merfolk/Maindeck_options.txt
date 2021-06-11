@@ -42,8 +42,8 @@
 1 Darkslick Shores
 2 Darkslick Shores
 3 Darkslick Shores
-1 Creeping Tar Pit
 1 Repeal
+1 Creeping Tar Pit
 2 Repeal
 2 Creeping Tar Pit
 3 Repeal
@@ -118,6 +118,15 @@
 1 Hieroglyphic Illumination
 2 Echoing Truth
 4 Waterlogged Grove
+1 Mountain
+1 Swamp
+1 Misty Rainforest
+2 Mountain
+2 Swamp
+3 Mountain
+3 Swamp
+4 Mountain
+4 Swamp
 1 Counterspell
 2 Counterspell
 3 Counterspell
@@ -143,15 +152,6 @@
 3 Suspend
 3 Rishadan Dockhand
 4 Rishadan Dockhand
-1 Mountain
-1 Swamp
-1 Misty Rainforest
-2 Mountain
-2 Swamp
-3 Mountain
-3 Swamp
-4 Swamp
-4 Mountain
 1 Castle Vantress
 1 Relic of Progenitus
 1 Faerie Conclave

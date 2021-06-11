@@ -1,4 +1,4 @@
-1 Snow-Covered Swamp
+1 Snow-Covered Forest
 1 Elder Gargaroth
 2 Snow-Covered Forest
 2 Snow-Covered Swamp
@@ -7,30 +7,6 @@
 1 Kaya the Inexorable
 2 Indatha Triome
 2 Obzedat, Ghost Council
-1 Satyr Wayfinder
-2 Satyr Wayfinder
-3 Satyr Wayfinder
-4 Satyr Wayfinder
-2 Castle Locthwain
-3 Castle Locthwain
-1 Bloodchief's Thirst
-1 Toski, Bearer of Secrets
-1 Questing Beast
-1 Grim Flayer
-1 Traverse the Ulvenwald
-1 Scavenging Ooze
-2 Grim Flayer
-2 Traverse the Ulvenwald
-2 Assassin's Trophy
-3 Snow-Covered Forest
-3 Grim Flayer
-3 Snow-Covered Swamp
-3 Traverse the Ulvenwald
-3 Blooming Marsh
-4 Blooming Marsh
-4 Fabled Passage
-4 Grim Flayer
-4 Traverse the Ulvenwald
 1 Clearwater Pathway
 2 Clearwater Pathway
 3 Clearwater Pathway
@@ -65,15 +41,19 @@
 3 Nissa, Who Shakes the World
 4 Clearwater Pathway
 4 Growth Spiral
-4 Shark Typhoon
 4 Zagoth Triome
+4 Shark Typhoon
 4 Breeding Pool
+1 Satyr Wayfinder
+2 Satyr Wayfinder
+3 Satyr Wayfinder
+4 Satyr Wayfinder
 1 Silversmote Ghoul
 2 Silversmote Ghoul
+1 Darkbore Pathway
 1 Watery Grave
 1 Creeping Chill
 1 Haunted Dead
-1 Darkbore Pathway
 1 Driven/Despair
 1 Witherbloom Command
 1 Narcomoeba
@@ -111,6 +91,26 @@
 4 Prized Amalgam
 4 Grisly Salvage
 4 Narcomoeba
+2 Castle Locthwain
+3 Castle Locthwain
+1 Bloodchief's Thirst
+1 Toski, Bearer of Secrets
+1 Questing Beast
+1 Grim Flayer
+1 Traverse the Ulvenwald
+1 Scavenging Ooze
+2 Grim Flayer
+2 Traverse the Ulvenwald
+2 Assassin's Trophy
+3 Snow-Covered Forest
+3 Grim Flayer
+3 Traverse the Ulvenwald
+3 Snow-Covered Swamp
+3 Blooming Marsh
+4 Fabled Passage
+4 Grim Flayer
+4 Traverse the Ulvenwald
+4 Blooming Marsh
 2 Swamp
 3 Swamp
 4 Swamp
@@ -119,19 +119,19 @@
 7 Swamp
 1 Approach of the Second Sun
 1 Declaration in Stone
+1 Shambling Vent
 1 Starnheim Unleashed
 1 Isolated Chapel
 1 Humiliate
 1 Shatter the Sky
 1 Agonizing Remorse
-1 Shambling Vent
 1 Read the Bones
+2 Bloodchief's Thirst
+2 Shatter the Sky
 2 Starnheim Unleashed
 2 Humiliate
-2 Shatter the Sky
 2 Declaration in Stone
 2 Agonizing Remorse
-2 Bloodchief's Thirst
 2 Approach of the Second Sun
 2 Shambling Vent
 2 Isolated Chapel
@@ -140,7 +140,6 @@
 3 Plains
 3 Bloodchief's Thirst
 3 Humiliate
-3 Starnheim Unleashed
 3 Declaration in Stone
 3 Shatter the Sky
 3 Agonizing Remorse
@@ -148,10 +147,11 @@
 3 Read the Bones
 3 Godless Shrine
 3 Isolated Chapel
-4 Bloodchief's Thirst
+3 Starnheim Unleashed
 4 Humiliate
-4 Agonizing Remorse
 4 Shatter the Sky
+4 Agonizing Remorse
+4 Bloodchief's Thirst
 4 Isolated Chapel
 4 Read the Bones
 4 Declaration in Stone
@@ -187,8 +187,8 @@
 3 Mutavault
 3 Champion of Dusk
 4 Sorin, Imperious Bloodlord
-4 Dusk Legion Zealot
 4 Castle Locthwain
+4 Dusk Legion Zealot
 4 Champion of Dusk
 4 Gifted Aetherborn
 4 Knight of the Ebon Legion

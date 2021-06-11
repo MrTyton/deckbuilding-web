@@ -4,11 +4,11 @@
 4 Fabled Passage
 4 Claim/Fame
 2 Bloodchief's Thirst
-3 Faithless Looting
-5 Swamp
-4 Mountain
 2 Fatal Push
+5 Swamp
 4 Young Pyromancer
+3 Faithless Looting
+4 Mountain
 1 Cling to Dust
 3 Inquisition of Kozilek
 4 Faithless Looting
@@ -18,11 +18,6 @@
 6 Swamp
 3 Bloodchief's Thirst
 2 Cling to Dust
-1 Arclight Phoenix
-1 Ox of Agonas
-2 Arclight Phoenix
-3 Arclight Phoenix
-4 Arclight Phoenix
 1 Thrill of Possibility
 2 Temple of Malice
 4 Inquisition of Kozilek
@@ -31,11 +26,16 @@
 1 Spikefield Hazard
 3 Kolaghan's Command
 4 Kolaghan's Command
+1 Ox of Agonas
 1 Sign in Blood
 1 Knight of the Ebon Legion
 2 Knight of the Ebon Legion
 3 Knight of the Ebon Legion
 4 Knight of the Ebon Legion
+1 Arclight Phoenix
+2 Arclight Phoenix
+3 Arclight Phoenix
+4 Arclight Phoenix
 1 Bedevil
 1 Scourge of the Skyclaves
 1 Bloodsky Berserker
@@ -44,6 +44,13 @@
 2 Magmatic Channeler
 1 Cathartic Reunion
 2 Cathartic Reunion
+1 Plumb the Forbidden
+1 Sedgemoor Witch
+1 Duress
+2 Sedgemoor Witch
+2 Ox of Agonas
+3 Sedgemoor Witch
+4 Sedgemoor Witch
 3 Spark Harvest
 4 Spark Harvest
 1 Shatterskull Smashing

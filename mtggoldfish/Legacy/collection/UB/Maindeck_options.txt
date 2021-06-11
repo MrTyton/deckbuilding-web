@@ -1,32 +1,32 @@
 1 Watery Grave
-1 Snuff Out
 1 Street Wraith
-1 Wasteland
-2 Death's Shadow
-2 Snuff Out
-2 Street Wraith
+1 Snuff Out
+1 Death's Shadow
 2 Wasteland
+2 Street Wraith
+2 Snuff Out
+2 Death's Shadow
 2 Watery Grave
-3 Wasteland
 3 Thoughtseize
-3 Death's Shadow
+3 Wasteland
 3 Street Wraith
+3 Death's Shadow
 4 Thoughtseize
+4 Street Wraith
 4 Wasteland
 4 Death's Shadow
-4 Street Wraith
 1 Daze
 2 Daze
-1 Misty Rainforest
 3 Daze
 3 Watery Grave
 4 Daze
-1 Brazen Borrower
 1 Duress
 1 Night's Whisper
 1 Rain of Filth
 2 Duress
 2 Rain of Filth
+1 Misty Rainforest
+1 Brazen Borrower
 1 Stifle
 2 Stifle
 3 Stifle
@@ -38,29 +38,27 @@
 2 Marsh Flats
 1 Fatal Push
 2 Fatal Push
-1 Prismatic Vista
 1 Chrome Mox
 2 Chrome Mox
 1 Spell Pierce
 2 Spell Pierce
 2 Scalding Tarn
+1 Prismatic Vista
 1 Force of Negation
-1 Drown in the Loch
-2 Brazen Borrower
-3 Underground Sea
 2 Force of Negation
 4 Island
+1 Drown in the Loch
 1 Cling to Dust
 1 Sedgemoor Witch
 1 Baleful Strix
 1 Snapcaster Mage
 1 Flusterstorm
+2 Snapcaster Mage
 2 Sedgemoor Witch
 2 Baleful Strix
-2 Snapcaster Mage
+3 Underground Sea
 3 Sedgemoor Witch
 3 Baleful Strix
-3 Fatal Push
 1 Spell Snare
 2 Spell Snare
 3 Scalding Tarn
@@ -74,6 +72,7 @@
 2 Eliminate
 2 Prismatic Vista
 2 Flusterstorm
+3 Fatal Push
 3 Snapcaster Mage
 3 Swamp
 3 Prismatic Vista
@@ -81,13 +80,11 @@
 4 Swamp
 4 Sedgemoor Witch
 1 Volcanic Island
+2 Brazen Borrower
 2 Flooded Strand
 1 Unearth
 1 Inquisition of Kozilek
 2 Inquisition of Kozilek
-2 Drown in the Loch
-1 Hullbreacher
-2 Hullbreacher
 1 Mystic Reflection
 1 Liliana, the Last Hope
 1 Ethereal Forager
@@ -101,61 +98,37 @@
 2 Night's Whisper
 3 Duress
 3 Night's Whisper
-1 Chain of Smog
+1 Village Rites
 1 Ancient Tomb
 1 Cabal Therapy
 1 Spellseeker
-1 Village Rites
+1 Hullbreacher
 1 Bloodchief's Thirst
 1 Plague Engineer
+1 Chain of Smog
 2 Chain of Smog
 2 Ancient Tomb
+2 Hullbreacher
 2 Spellseeker
 2 Unearth
 2 Misty Rainforest
 4 Baleful Strix
+1 Reanimate
+2 Drown in the Loch
+2 Reanimate
+3 Gurmag Angler
+4 Stifle
 1 Stubborn Denial
 1 Overgrown Tomb
 1 Breeding Pool
 1 Tarmogoyf
 1 Once Upon a Time
 2 Stubborn Denial
+2 Once Upon a Time
 2 Verdant Catacombs
 2 Tarmogoyf
-2 Once Upon a Time
 3 Stubborn Denial
 3 Tarmogoyf
 3 Verdant Catacombs
-3 Once Upon a Time
 4 Verdant Catacombs
-1 Reanimate
-2 Reanimate
-3 Gurmag Angler
-4 Stifle
-1 Spellstutter Sprite
-1 Murderous Cut
-1 Umezawa's Jitte
-1 Bitterblossom
-1 Cunning Nightbonder
-1 Oona's Blackguard
-1 Mutavault
-1 Snow-Covered Island
-1 Opposition Agent
-1 Snow-Covered Swamp
-2 Snow-Covered Island
-2 Opposition Agent
-2 Snow-Covered Swamp
-2 Spellstutter Sprite
-2 Bitterblossom
-2 Oona's Blackguard
-2 Cunning Nightbonder
-2 Mutavault
-3 Snow-Covered Island
-3 Brazen Borrower
-3 Spellstutter Sprite
-3 Mutavault
-3 Cunning Nightbonder
-4 Mutavault
-4 Fatal Push
-4 Spellstutter Sprite
-4 Cunning Nightbonder
+3 Once Upon a Time

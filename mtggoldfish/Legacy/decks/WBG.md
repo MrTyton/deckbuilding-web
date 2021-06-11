@@ -32,32 +32,3 @@
 |1 [Plague Engineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464049)|1 [Court of Grace](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=497536)     |                                                                                         |                                                                                         |
 |1 [Sanctum Prelate](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=416780)|4 [Leyline of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=107682)|                                                                                         |                                                                                         |
 
-
-# Other Options
-
-|*n*<sup>th</sup> copy|                                       Maindeck Card                                       |*n*<sup>th</sup> copy|                                       Sideboard Card                                       |
-|--------------------:|-------------------------------------------------------------------------------------------|--------------------:|--------------------------------------------------------------------------------------------|
-|                    1|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)|                    1|[Tireless Tracker](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=409997) |
-|                    1|[Elvish Reclaimer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466923)|                    1|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |
-|                    1|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)  |                    1|[Reclamation Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=389651) |
-|                    1|[Bojuka Bog](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=376269)      |                    1|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)    |
-|                    1|[Crop Rotation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417430)   |                    1|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)   |
-|                    1|[Thespian's Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366353)|                    1|[Garruk Relentless](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=245250)|
-|                    1|[Sejiri Steppe](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=243453)   |                    1|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|
-|                    1|[Dark Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121155)     |                    2|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |
-|                    1|[Maze of Ith](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1824)       |                    2|[Ravenous Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=197537)    |
-|                    2|[Wooded Foothills](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405116)|                    2|[Force of Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=464113)   |
-|                    2|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)  |                    2|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|
-|                    2|[Thespian's Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366353)|                    3|[Veil of Summer](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=466952)   |
-|                    2|[Dark Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121155)     |                    3|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|
-|                    2|[Crop Rotation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417430)   |                    4|[Swords to Plowshares](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=869)|
-|                    3|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)  |                     |                                                                                            |
-|                    3|[Thespian's Stage](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=366353)|                     |                                                                                            |
-|                    3|[Savannah](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=881)           |                     |                                                                                            |
-|                    3|[Dark Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121155)     |                     |                                                                                            |
-|                    3|[Crop Rotation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417430)   |                     |                                                                                            |
-|                    3|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)  |                     |                                                                                            |
-|                    4|[Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=463962)  |                     |                                                                                            |
-|                    4|[Noble Hierarch](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=179434)  |                     |                                                                                            |
-|                    4|[Crop Rotation](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=417430)   |                     |                                                                                            |
-
