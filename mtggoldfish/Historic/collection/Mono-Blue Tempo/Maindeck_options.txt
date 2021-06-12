@@ -1,13 +1,3 @@
-3 Snow-Covered Island
-4 Snow-Covered Island
-5 Snow-Covered Island
-6 Snow-Covered Island
-7 Snow-Covered Island
-8 Snow-Covered Island
-9 Snow-Covered Island
-10 Snow-Covered Island
-11 Snow-Covered Island
-12 Snow-Covered Island
 13 Snow-Covered Island
 14 Snow-Covered Island
 15 Snow-Covered Island
@@ -18,6 +8,8 @@
 4 Ascendant Spirit
 17 Snow-Covered Island
 18 Snow-Covered Island
+1 Stern Dismissal
+2 Stern Dismissal
 1 Rattlechains
 1 Supreme Phantom
 2 Rattlechains
@@ -26,35 +18,42 @@
 3 Rattlechains
 4 Supreme Phantom
 4 Rattlechains
+4 Brazen Borrower
+4 Pteramander
+1 Nebelgast Herald
+1 Dive Down
+1 Brineborn Cutthroat
+1 Lookout's Dispersal
+2 Lookout's Dispersal
 3 Lookout's Dispersal
+2 Brineborn Cutthroat
+1 Castle Vantress
+2 Nebelgast Herald
 1 Opt
 18 Island
 1 Sea-Dasher Octopus
 2 Opt
 19 Island
-1 Nebelgast Herald
 3 Opt
 2 Sea-Dasher Octopus
-2 Nebelgast Herald
-2 Dive Down
+4 Opt
 4 Lookout's Dispersal
+2 Dive Down
 3 Brineborn Cutthroat
 4 Brineborn Cutthroat
-4 Opt
 3 Curiosity
 4 Curiosity
 1 Unsummon
+4 Spell Pierce
 20 Island
 2 Unsummon
 3 Faceless Haven
-4 Spell Pierce
-1 Tempest Djinn
-3 Dive Down
 1 Unsubstantiate
 1 Negate
+3 Dive Down
 1 Quench
 2 Quench
-2 Tempest Djinn
+1 Tempest Djinn
 1 Into the Roil
 2 Unsubstantiate
 2 Negate
@@ -62,6 +61,7 @@
 4 Nebelgast Herald
 3 Sea-Dasher Octopus
 4 Sea-Dasher Octopus
+2 Tempest Djinn
 19 Snow-Covered Island
 1 Memory Lapse
 3 Unsummon
@@ -72,12 +72,6 @@
 2 Shacklegeist
 1 Reject
 1 Essence Scatter
-1 Mystic Sanctuary
-1 Murmuring Mystic
-1 Winged Words
-1 Mystical Dispute
-1 Jwari Disruption
-1 Sphinx of Foresight
 3 Essence Capture
 3 Tempest Djinn
 1 Kira, Great Glass-Spinner

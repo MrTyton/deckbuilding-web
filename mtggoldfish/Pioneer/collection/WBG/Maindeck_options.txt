@@ -7,6 +7,30 @@
 1 Kaya the Inexorable
 2 Indatha Triome
 2 Obzedat, Ghost Council
+1 Satyr Wayfinder
+2 Satyr Wayfinder
+3 Satyr Wayfinder
+4 Satyr Wayfinder
+2 Castle Locthwain
+3 Castle Locthwain
+1 Toski, Bearer of Secrets
+1 Questing Beast
+1 Grim Flayer
+1 Traverse the Ulvenwald
+1 Bloodchief's Thirst
+1 Scavenging Ooze
+2 Grim Flayer
+2 Traverse the Ulvenwald
+2 Assassin's Trophy
+3 Snow-Covered Forest
+3 Grim Flayer
+3 Blooming Marsh
+3 Traverse the Ulvenwald
+3 Snow-Covered Swamp
+4 Fabled Passage
+4 Grim Flayer
+4 Traverse the Ulvenwald
+4 Blooming Marsh
 1 Clearwater Pathway
 2 Clearwater Pathway
 3 Clearwater Pathway
@@ -34,8 +58,8 @@
 2 Nissa, Who Shakes the World
 2 Extinction Event
 2 Vraska's Contempt
-3 Shark Typhoon
 3 Zagoth Triome
+3 Shark Typhoon
 3 Growth Spiral
 3 Breeding Pool
 3 Nissa, Who Shakes the World
@@ -44,18 +68,14 @@
 4 Zagoth Triome
 4 Shark Typhoon
 4 Breeding Pool
-1 Satyr Wayfinder
-2 Satyr Wayfinder
-3 Satyr Wayfinder
-4 Satyr Wayfinder
 1 Silversmote Ghoul
 2 Silversmote Ghoul
 1 Darkbore Pathway
-1 Watery Grave
 1 Creeping Chill
 1 Haunted Dead
 1 Driven/Despair
 1 Witherbloom Command
+1 Watery Grave
 1 Narcomoeba
 1 Grisly Salvage
 1 Deathrite Shaman
@@ -66,18 +86,18 @@
 2 Darkbore Pathway
 2 Creeping Chill
 2 Witherbloom Command
+2 Deathrite Shaman
 2 Stitcher's Supplier
 2 Gather the Pack
 2 Grisly Salvage
 2 Prized Amalgam
 2 Narcomoeba
-2 Deathrite Shaman
 3 Witherbloom Command
 3 Darkbore Pathway
 3 Creeping Chill
-3 Silversmote Ghoul
 3 Gather the Pack
 3 Prized Amalgam
+3 Silversmote Ghoul
 3 Narcomoeba
 3 Grisly Salvage
 3 Stitcher's Supplier
@@ -86,115 +106,50 @@
 4 Darkbore Pathway
 4 Creeping Chill
 4 Gather the Pack
+4 Grisly Salvage
+4 Narcomoeba
 4 Stitcher's Supplier
 4 Deathrite Shaman
 4 Prized Amalgam
-4 Grisly Salvage
-4 Narcomoeba
-2 Castle Locthwain
-3 Castle Locthwain
-1 Bloodchief's Thirst
-1 Toski, Bearer of Secrets
-1 Questing Beast
-1 Grim Flayer
-1 Traverse the Ulvenwald
-1 Scavenging Ooze
-2 Grim Flayer
-2 Traverse the Ulvenwald
-2 Assassin's Trophy
-3 Snow-Covered Forest
-3 Grim Flayer
-3 Traverse the Ulvenwald
-3 Snow-Covered Swamp
-3 Blooming Marsh
-4 Fabled Passage
-4 Grim Flayer
-4 Traverse the Ulvenwald
-4 Blooming Marsh
-2 Swamp
-3 Swamp
-4 Swamp
-5 Swamp
-6 Swamp
-7 Swamp
-1 Approach of the Second Sun
-1 Declaration in Stone
-1 Shambling Vent
-1 Starnheim Unleashed
-1 Isolated Chapel
-1 Humiliate
-1 Shatter the Sky
-1 Agonizing Remorse
-1 Read the Bones
-2 Bloodchief's Thirst
-2 Starnheim Unleashed
-2 Humiliate
-2 Declaration in Stone
-2 Shatter the Sky
-2 Agonizing Remorse
-2 Approach of the Second Sun
-2 Shambling Vent
-2 Isolated Chapel
-2 Read the Bones
-2 Plains
-3 Plains
-3 Bloodchief's Thirst
-3 Humiliate
-3 Declaration in Stone
-3 Shatter the Sky
-3 Agonizing Remorse
-3 Approach of the Second Sun
-3 Read the Bones
-3 Godless Shrine
-3 Isolated Chapel
-3 Starnheim Unleashed
-4 Bloodchief's Thirst
-4 Humiliate
-4 Agonizing Remorse
-4 Shatter the Sky
-4 Isolated Chapel
-4 Read the Bones
-4 Declaration in Stone
-4 Approach of the Second Sun
-4 Starnheim Unleashed
-4 Plains
-4 Godless Shrine
-5 Plains
-6 Plains
-7 Plains
 1 Knight of the Ebon Legion
-1 Sorin, Imperious Bloodlord
 1 Dusk Legion Zealot
 1 Vicious Conquistador
 1 Gifted Aetherborn
 1 Mutavault
+1 Sorin, Imperious Bloodlord
 1 Sanctum Seeker
 1 Champion of Dusk
-2 Sorin, Imperious Bloodlord
 2 Knight of the Ebon Legion
 2 Dusk Legion Zealot
 2 Champion of Dusk
 2 Gifted Aetherborn
-2 Sanctum Seeker
-2 Vicious Conquistador
 2 Mutavault
-3 Sorin, Imperious Bloodlord
+2 Sanctum Seeker
+2 Swamp
+2 Sorin, Imperious Bloodlord
+2 Vicious Conquistador
 3 Dusk Legion Zealot
+3 Swamp
+3 Sorin, Imperious Bloodlord
 3 Sanctum Seeker
 3 Vicious Conquistador
 3 Knight of the Ebon Legion
 3 Gifted Aetherborn
 3 Mutavault
 3 Champion of Dusk
-4 Sorin, Imperious Bloodlord
 4 Castle Locthwain
 4 Dusk Legion Zealot
+4 Swamp
 4 Champion of Dusk
 4 Gifted Aetherborn
 4 Knight of the Ebon Legion
+4 Sorin, Imperious Bloodlord
 4 Vicious Conquistador
 4 Sanctum Seeker
 4 Mutavault
+5 Swamp
+6 Swamp
+7 Swamp
 8 Swamp
 9 Swamp
 11 Swamp

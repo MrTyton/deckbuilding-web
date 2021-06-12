@@ -7,7 +7,6 @@
 2 Talisman of Dominance
 2 Wishclaw Talisman
 3 Talisman of Dominance
-1 Pentad Prism
 1 Talisman of Progress
 1 Spoils of the Vault
 1 Angel's Grace
@@ -15,10 +14,11 @@
 1 Seachrome Coast
 1 City of Brass
 1 Phyrexian Unlife
-2 Pentad Prism
+1 Pentad Prism
 2 Spoils of the Vault
 2 Phyrexian Unlife
 2 Gemstone Mine
+2 Pentad Prism
 2 Seachrome Coast
 2 City of Brass
 2 Angel's Grace
@@ -68,17 +68,17 @@
 2 Snow-Covered Plains
 2 Cling to Dust
 1 Thought Scour
-1 Cryptic Command
 1 Force of Negation
-1 Snow-Covered Swamp
 1 Snow-Covered Island
+1 Snow-Covered Swamp
+1 Cryptic Command
 1 Sunken Hollow
 2 Thought Scour
-2 Scalding Tarn
 2 Force of Negation
+2 Snow-Covered Island
 2 Snow-Covered Swamp
 2 Cryptic Command
-2 Snow-Covered Island
+2 Scalding Tarn
 3 Thought Scour
 3 Snow-Covered Island
 3 Tasigur, the Golden Fang
@@ -100,8 +100,8 @@
 4 Thought Scour
 4 Snow-Covered Island
 5 Snow-Covered Island
-1 Eliminate
 1 Port of Karfell
+1 Eliminate
 1 Bloodchief's Thirst
 1 Cavern of Souls
 1 Sleight of Hand
