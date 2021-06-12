@@ -1,25 +1,27 @@
-3 Aether Gust
-3 Collective Brutality
-2 Blood Moon
+1 Collective Brutality
+2 Collective Brutality
+2 Brazen Borrower
 1 Vapor Snag
 2 Vapor Snag
-3 Blood Moon
-1 Bedlam Reveler
+3 Collective Brutality
 1 Ravenous Trap
+1 Bedlam Reveler
 2 Ravenous Trap
 3 Ravenous Trap
 1 Threads of Disloyalty
 2 Threads of Disloyalty
 3 Threads of Disloyalty
 1 Lurrus of the Dream-Den
+1 Soul-Guide Lantern
+2 Soul-Guide Lantern
 1 Veil of Summer
 2 Veil of Summer
 1 Cleansing Wildfire
 2 Cleansing Wildfire
 1 Tormod's Crypt
+1 Force of Negation
+1 Flusterstorm
 3 Veil of Summer
-1 Soul-Guide Lantern
-2 Soul-Guide Lantern
 3 Cleansing Wildfire
 1 Engineered Explosives
 1 Fatal Push
@@ -47,18 +49,16 @@
 2 Snapcaster Mage
 3 Snapcaster Mage
 1 Spell Pierce
-1 Young Pyromancer
-2 Young Pyromancer
+3 Soul-Guide Lantern
+4 Soul-Guide Lantern
 2 Engineered Explosives
 2 Tormod's Crypt
 1 Firespout
 1 Lightning Helix
-1 Force of Negation
 1 Bitterblossom
 1 Kaya's Guile
 2 Kaya's Guile
 3 Kaya's Guile
-1 Flusterstorm
 1 Dispel
 1 Ashiok, Dream Render
 1 Blazing Volley
@@ -68,6 +68,7 @@
 2 Relic of Progenitus
 1 Entrancing Melody
 2 Entrancing Melody
+1 Fury
 1 Meddling Mage
 1 Path to Exile
 2 Meddling Mage
@@ -81,13 +82,13 @@
 2 Narset, Parter of Veils
 1 Fiery Cannonade
 2 Dispel
-1 Infernal Reckoning
-2 Infernal Reckoning
 1 Natural State
 1 Shadowspear
 1 Ancient Grudge
 2 Ashiok, Dream Render
 2 Firespout
+1 Young Pyromancer
+2 Young Pyromancer
 1 Echoing Truth
 1 Flame Slash
 2 Echoing Truth
@@ -100,8 +101,8 @@
 1 Rip Apart
 1 Skyclave Apparition
 2 Skyclave Apparition
-1 Annul
 1 Klothys, God of Destiny
+1 Annul
 2 Klothys, God of Destiny
 2 Annul
 1 Anger of the Gods
@@ -127,12 +128,9 @@
 1 Dead of Winter
 2 Bitterblossom
 4 Kaya's Guile
-1 Fury
-3 Soul-Guide Lantern
-4 Soul-Guide Lantern
 1 Teferi, Mage of Zhalfir
-1 Ratchet Bomb
 1 Wurmcoil Engine
+1 Ratchet Bomb
 1 Jace, the Mind Sculptor
 2 Ratchet Bomb
 4 Aether Gust

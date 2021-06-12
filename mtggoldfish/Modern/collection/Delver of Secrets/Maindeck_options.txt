@@ -1,3 +1,14 @@
+2 Inquisition of Kozilek
+1 Drown in the Loch
+1 Swamp
+1 Thoughtseize
+1 Thieves' Guild Enforcer
+2 Drown in the Loch
+2 Thieves' Guild Enforcer
+3 Drown in the Loch
+3 Inquisition of Kozilek
+3 Watery Grave
+3 Thieves' Guild Enforcer
 4 Drown in the Loch
 4 Thieves' Guild Enforcer
 4 Snapcaster Mage
@@ -6,17 +17,6 @@
 2 Kolaghan's Command
 1 Bloodstained Mire
 2 Bloodstained Mire
-4 Force of Negation
-3 Mana Leak
-3 Island
-1 Flooded Strand
-2 Flooded Strand
-2 Spirebluff Canal
-3 Spirebluff Canal
-1 Vapor Snag
-1 Sleight of Hand
-2 Sleight of Hand
-1 Fiery Islet
 1 Soaring Thought-Thief
 2 Soaring Thought-Thief
 3 Soaring Thought-Thief
@@ -24,38 +24,37 @@
 2 Vapor Snag
 1 Misty Rainforest
 2 Misty Rainforest
+2 Fiery Islet
 3 Flooded Strand
 4 Flooded Strand
 4 Island
-2 Fiery Islet
 4 Watery Grave
 1 Magmatic Channeler
 2 Magmatic Channeler
 3 Magmatic Channeler
 1 Snow-Covered Island
+4 Spirebluff Canal
+1 Mishra's Bauble
+2 Mishra's Bauble
+3 Mishra's Bauble
+4 Mishra's Bauble
+1 Archmage's Charm
+2 Archmage's Charm
 1 Flame Slash
 1 Pteramander
 2 Pteramander
 3 Pteramander
 4 Pteramander
 1 Mountain
-1 Archmage's Charm
-2 Archmage's Charm
 1 Fatal Push
 2 Fatal Push
 1 Hallowed Fountain
-1 Mishra's Bauble
-2 Mishra's Bauble
-3 Mishra's Bauble
-4 Mishra's Bauble
 1 Mystic Sanctuary
 1 Sprite Dragon
 2 Sprite Dragon
 3 Sprite Dragon
 4 Sprite Dragon
-4 Spirebluff Canal
 3 Archmage's Charm
-1 Brazen Borrower
 4 Magmatic Channeler
 1 Breeding Pool
 1 Wooded Foothills
@@ -68,7 +67,10 @@
 1 Path to Exile
 2 Path to Exile
 3 Path to Exile
+1 Counterspell
+2 Counterspell
 4 Sleight of Hand
+1 Brazen Borrower
 1 Seachrome Coast
 1 Snow-Covered Plains
 1 Maul of the Skyclaves
@@ -87,8 +89,6 @@
 4 Path to Exile
 2 Wooded Foothills
 3 Misty Rainforest
-1 Counterspell
-2 Counterspell
 1 Soul-Scar Mage
 1 Wizard's Lightning
 2 Soul-Scar Mage
@@ -122,6 +122,10 @@
 1 Ancestral Vision
 2 Ancestral Vision
 3 Ancestral Vision
+1 Expressive Iteration
+2 Expressive Iteration
+3 Expressive Iteration
+4 Expressive Iteration
 1 Mutagenic Growth
 2 Mutagenic Growth
 3 Remand
@@ -130,6 +134,30 @@
 1 Fire/Ice
 1 Prismatic Ending
 2 Fire/Ice
+1 Dragon's Rage Channeler
+1 Unholy Heat
+1 Subtlety
+1 Murktide Regent
+2 Dragon's Rage Channeler
+2 Subtlety
+2 Unholy Heat
+2 Murktide Regent
+3 Counterspell
+3 Dragon's Rage Channeler
+3 Unholy Heat
+3 Murktide Regent
+4 Counterspell
+4 Dragon's Rage Channeler
+4 Murktide Regent
+1 Hexdrinker
+1 Stubborn Denial
+2 Hexdrinker
+2 Stubborn Denial
+3 Stubborn Denial
+3 Hexdrinker
+4 Hexdrinker
+4 Stubborn Denial
+4 Mana Leak
 1 Lightning Helix
 2 Lightning Helix
 3 Lightning Helix
@@ -157,22 +185,8 @@
 2 Bitterblossom
 3 Bitterblossom
 3 Darkslick Shores
-1 Hexdrinker
-1 Stubborn Denial
-2 Hexdrinker
-2 Stubborn Denial
-3 Stubborn Denial
-3 Hexdrinker
-4 Hexdrinker
-4 Stubborn Denial
-4 Mana Leak
-3 Kolaghan's Command
-3 Steam Vents
 2 Brazen Borrower
-1 Expressive Iteration
-2 Expressive Iteration
-3 Expressive Iteration
-4 Expressive Iteration
+3 Steam Vents
 1 Vendilion Clique
 1 Monastery Swiftspear
 3 Fiery Islet
@@ -182,9 +196,6 @@
 1 Waterlogged Grove
 1 Grim Lavamancer
 1 Become Immense
-1 Dark Confidant
-1 The Royal Scions
-2 Dark Confidant
 1 Icehide Golem
 2 Unearth
 2 Icehide Golem
@@ -196,6 +207,10 @@
 3 Wooded Foothills
 2 Hallowed Fountain
 3 Hallowed Fountain
+1 Dark Confidant
+1 The Royal Scions
+2 Dark Confidant
+3 Kolaghan's Command
 1 Young Pyromancer
 2 Young Pyromancer
 3 Young Pyromancer
@@ -206,12 +221,6 @@
 2 Marsh Flats
 2 Bloodchief's Thirst
 4 Darkslick Shores
-1 Nimble Obstructionist
-1 Visions of Beyond
-2 Nimble Obstructionist
-2 Visions of Beyond
-3 Visions of Beyond
-4 Visions of Beyond
 2 Wizard's Retort
 3 Wizard's Retort
 4 Wizard's Retort
@@ -221,21 +230,6 @@
 2 Blood Moon
 2 Magmatic Sinkhole
 4 Steam Vents
-1 Subtlety
-1 Dragon's Rage Channeler
-1 Unholy Heat
-1 Murktide Regent
-2 Dragon's Rage Channeler
-2 Subtlety
-2 Unholy Heat
-2 Murktide Regent
-3 Counterspell
-3 Dragon's Rage Channeler
-3 Unholy Heat
-3 Murktide Regent
-4 Counterspell
-4 Dragon's Rage Channeler
-4 Murktide Regent
 1 Sunbaked Canyon
 1 Manamorphose
 1 Gut Shot
@@ -261,11 +255,11 @@
 3 Lava Spike
 3 Stormwing Entity
 4 Fiery Islet
+4 Manamorphose
 4 Stormwing Entity
 4 Lava Dart
 4 Monastery Swiftspear
 4 Mountain
-4 Manamorphose
 4 Lava Spike
 4 Light Up the Stage
 1 Volatile Fjord
