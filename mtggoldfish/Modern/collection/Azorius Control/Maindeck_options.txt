@@ -1,42 +1,45 @@
-3 Force of Negation
-2 Polluted Delta
-1 Prairie Stream
 1 Snow-Covered Plains
 1 Snow-Covered Island
 2 Snow-Covered Island
 3 Snow-Covered Island
 4 Snow-Covered Island
+1 Prairie Stream
+3 Force of Negation
 1 Logic Knot
+2 Polluted Delta
 1 Dovin's Veto
 1 Oust
-3 Jace, the Mind Sculptor
+1 Scalding Tarn
 1 Shark Typhoon
+3 Jace, the Mind Sculptor
+1 Remand
+4 Archmage's Charm
 1 Counterspell
 2 Counterspell
 3 Counterspell
 4 Counterspell
-1 Scalding Tarn
 4 Cryptic Command
 1 Vendilion Clique
-1 Mystic Gate
-1 Misty Rainforest
-2 Misty Rainforest
-4 Archmage's Charm
-1 Behold the Multiverse
-1 Remand
-2 Remand
-1 Test of Talents
-1 Blast Zone
 5 Snow-Covered Island
-1 Castle Ardenvale
-2 Castle Vantress
 1 Terminus
 2 Terminus
 3 Terminus
 4 Terminus
+1 Mystic Gate
 2 Snow-Covered Plains
+1 Misty Rainforest
+2 Misty Rainforest
+1 Behold the Multiverse
+2 Remand
+1 Test of Talents
+1 Blast Zone
+6 Snow-Covered Island
+1 Castle Ardenvale
+2 Castle Vantress
+1 Brainstone
 3 Glacial Fortress
 3 Hallowed Fountain
+2 Scalding Tarn
 1 Seachrome Coast
 1 Prismatic Vista
 1 Hieroglyphic Illumination
@@ -48,15 +51,17 @@
 3 Seachrome Coast
 3 Teferi, Hero of Dominaria
 4 Glacial Fortress
-2 Scalding Tarn
 1 Jace, Architect of Thought
 2 Shark Typhoon
-6 Snow-Covered Island
 1 Sphinx's Revelation
 2 Mystic Gate
-1 Solitude
-1 Sea Gate Restoration
-1 Brainstone
+1 Raugrin Triome
+2 Brainstone
+3 Brainstone
+4 Brainstone
+1 Prismatic Ending
+2 Prismatic Ending
+3 Prismatic Ending
 1 Narset, Parter of Veils
 1 Search for Azcanta
 1 Gideon Jura
@@ -66,28 +71,23 @@
 1 Ojutai's Command
 2 Wall of Omens
 3 Remand
-1 Raugrin Triome
-2 Brainstone
+1 Solitude
+1 Sea Gate Restoration
 3 Castle Vantress
-3 Brainstone
-4 Brainstone
 1 Watery Grave
-1 Prismatic Ending
 1 Mishra's Bauble
 1 Expedition Map
 1 Urza's Saga
 2 Expedition Map
 2 Mishra's Bauble
-2 Prismatic Ending
 2 Urza's Saga
-3 Prismatic Ending
 3 Mishra's Bauble
 3 Misty Rainforest
 3 Urza's Saga
 4 Misty Rainforest
 4 Urza's Saga
+1 Entreat the Angels
 1 Winds of Abandon
-3 Polluted Delta
 1 Spell Pierce
 1 Spell Queller
 2 Spell Queller
@@ -99,15 +99,6 @@
 2 Stoneforge Mystic
 3 Stoneforge Mystic
 4 Stoneforge Mystic
-1 Subtlety
-1 Emeria's Call
-2 Solitude
-2 Sea Gate Restoration
-2 Subtlety
-3 Solitude
-3 Sea Gate Restoration
-3 Subtlety
-4 Teferi, Time Raveler
 1 Riptide Laboratory
 4 Mishra's Bauble
 1 Relic of Progenitus
@@ -126,6 +117,6 @@
 1 Jace, Vryn's Prodigy
 7 Island
 8 Island
-1 Entreat the Angels
 2 Entreat the Angels
+3 Polluted Delta
 4 Jace, the Mind Sculptor

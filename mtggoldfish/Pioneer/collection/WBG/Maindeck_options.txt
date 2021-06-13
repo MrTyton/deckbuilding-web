@@ -1,4 +1,4 @@
-1 Snow-Covered Forest
+1 Snow-Covered Swamp
 1 Elder Gargaroth
 2 Snow-Covered Forest
 2 Snow-Covered Swamp
@@ -19,18 +19,18 @@
 1 Traverse the Ulvenwald
 1 Bloodchief's Thirst
 1 Scavenging Ooze
-2 Assassin's Trophy
 2 Grim Flayer
 2 Traverse the Ulvenwald
-3 Snow-Covered Forest
+2 Assassin's Trophy
 3 Blooming Marsh
+3 Snow-Covered Forest
+3 Snow-Covered Swamp
 3 Grim Flayer
 3 Traverse the Ulvenwald
-3 Snow-Covered Swamp
+4 Blooming Marsh
 4 Fabled Passage
 4 Grim Flayer
 4 Traverse the Ulvenwald
-4 Blooming Marsh
 1 Clearwater Pathway
 2 Clearwater Pathway
 3 Clearwater Pathway
@@ -70,8 +70,8 @@
 4 Breeding Pool
 1 Silversmote Ghoul
 2 Silversmote Ghoul
-1 Darkbore Pathway
 1 Watery Grave
+1 Darkbore Pathway
 1 Creeping Chill
 1 Haunted Dead
 1 Driven/Despair
@@ -119,17 +119,17 @@
 1 Sorin, Imperious Bloodlord
 1 Sanctum Seeker
 1 Champion of Dusk
-2 Swamp
 2 Knight of the Ebon Legion
 2 Dusk Legion Zealot
 2 Champion of Dusk
 2 Gifted Aetherborn
 2 Mutavault
 2 Sanctum Seeker
+2 Swamp
 2 Sorin, Imperious Bloodlord
 2 Vicious Conquistador
-3 Dusk Legion Zealot
 3 Swamp
+3 Dusk Legion Zealot
 3 Sorin, Imperious Bloodlord
 3 Sanctum Seeker
 3 Vicious Conquistador
@@ -137,9 +137,9 @@
 3 Gifted Aetherborn
 3 Mutavault
 3 Champion of Dusk
+4 Swamp
 4 Castle Locthwain
 4 Dusk Legion Zealot
-4 Swamp
 4 Champion of Dusk
 4 Gifted Aetherborn
 4 Knight of the Ebon Legion

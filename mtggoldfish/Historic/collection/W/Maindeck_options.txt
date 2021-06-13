@@ -1,47 +1,90 @@
+14 Plains
+15 Plains
+16 Plains
+1 Impassioned Orator
+1 Angel of Vitality
+1 Castle Ardenvale
+2 Impassioned Orator
+2 Angel of Vitality
+2 Castle Ardenvale
+3 Angel of Vitality
+2 Ajani, Strength of the Pride
+1 Karn, Scion of Urza
+1 Servo Exhibition
+2 Servo Exhibition
+2 Karn, Scion of Urza
+3 Servo Exhibition
+3 Karn, Scion of Urza
+4 Servo Exhibition
+1 Scrapheap Scrounger
+2 Scrapheap Scrounger
+1 Bomat Courier
+2 Bomat Courier
+3 Bomat Courier
+4 Bomat Courier
+1 Toolcraft Exemplar
+1 Court Homunculus
+2 Court Homunculus
+3 Court Homunculus
+4 Court Homunculus
+1 Griffin Aerie
+1 Ajani's Welcome
+1 Shadowspear
+1 Authority of the Consuls
+1 Fountain of Renewal
+2 Griffin Aerie
+2 Authority of the Consuls
+2 Ajani's Welcome
+2 Fountain of Renewal
+3 Authority of the Consuls
+3 Ajani's Welcome
+3 Fountain of Renewal
+4 Heliod, Sun-Crowned
+4 Fountain of Renewal
 1 Brightclimb Pathway
 1 Shefet Dunes
-1 Godless Shrine
 1 Heart of Kiran
+1 Godless Shrine
 1 Chief of the Foundry
 1 Concealed Courtyard
 2 Brightclimb Pathway
 2 Concealed Courtyard
 2 Shefet Dunes
-2 Godless Shrine
 2 Heart of Kiran
+2 Godless Shrine
 2 Toolcraft Exemplar
 2 Chief of the Foundry
 3 Brightclimb Pathway
 3 Scrapheap Scrounger
 3 Shefet Dunes
-3 Godless Shrine
 3 Concealed Courtyard
-3 Chief of the Foundry
+3 Godless Shrine
 3 Toolcraft Exemplar
+3 Chief of the Foundry
 4 Scrapheap Scrounger
 4 Brightclimb Pathway
 4 Godless Shrine
-4 Shefet Dunes
 4 Concealed Courtyard
+4 Shefet Dunes
 4 Toolcraft Exemplar
 4 Chief of the Foundry
 1 Temple Garden
+1 Indatha Triome
 1 Scavenger Grounds
 1 Branchloft Pathway
 1 Scattered Groves
 1 Sunpetal Grove
 1 Dromoka's Command
-1 Indatha Triome
 1 Forest
 1 Vorinclex, Monstrous Raider
-2 Vorinclex, Monstrous Raider
+2 Indatha Triome
 2 Sunpetal Grove
 2 Branchloft Pathway
 2 Scavenger Grounds
-2 Temple Garden
 2 Dromoka's Command
+2 Temple Garden
 2 Scattered Groves
-2 Indatha Triome
+2 Vorinclex, Monstrous Raider
 3 Sunpetal Grove
 3 Branchloft Pathway
 3 Temple Garden
@@ -49,57 +92,104 @@
 3 Scavenger Grounds
 4 Temple Garden
 4 Dromoka's Command
-1 Showdown of the Skalds
-1 Inspiring Vantage
-1 Ramunap Ruins
-2 Inspiring Vantage
-2 Showdown of the Skalds
-2 Ramunap Ruins
-3 Inspiring Vantage
-3 Showdown of the Skalds
-3 Ramunap Ruins
-4 Inspiring Vantage
-4 Ramunap Ruins
-1 Conclave Tribunal
-1 Clifftop Retreat
-1 All That Glitters
-1 Spire of Industry
-1 Chamber Sentry
-1 Light Up the Stage
-2 Spire of Industry
-2 Chamber Sentry
-2 All That Glitters
-2 Light Up the Stage
-3 Spire of Industry
-3 Light Up the Stage
-3 All That Glitters
-4 All That Glitters
-4 Spire of Industry
-4 Light Up the Stage
-1 Isolated Chapel
 1 Unbreakable Formation
 1 Island
-1 Hallowed Fountain
 1 Shineshadow Snarl
+1 Hallowed Fountain
+1 Isolated Chapel
 1 Glacial Fortress
+1 Ornithopter
 1 Whirler Rogue
 1 Skilled Animator
 2 Unbreakable Formation
 2 Shineshadow Snarl
 2 Isolated Chapel
 2 Skilled Animator
-2 Island
-2 Hallowed Fountain
 2 Glacial Fortress
+2 Island
+2 Ornithopter
+2 Hallowed Fountain
 2 Whirler Rogue
 3 Island
 3 Unbreakable Formation
 3 Glacial Fortress
 3 Skilled Animator
+3 Ornithopter
 3 Hallowed Fountain
 4 Island
+4 Glacial Fortress
 4 Hallowed Fountain
 4 Skilled Animator
-4 Glacial Fortress
+4 Ornithopter
 4 Unbreakable Formation
-5 Plains
+1 Inspiring Vantage
+1 Needleverge Pathway
+1 Sacred Foundry
+1 Showdown of the Skalds
+1 Hope of Ghirapur
+1 Ramunap Ruins
+2 Needleverge Pathway
+2 Inspiring Vantage
+2 Sacred Foundry
+2 Showdown of the Skalds
+2 Hope of Ghirapur
+2 Ramunap Ruins
+3 Inspiring Vantage
+3 Needleverge Pathway
+3 Sacred Foundry
+3 Showdown of the Skalds
+3 Ramunap Ruins
+4 Needleverge Pathway
+4 Inspiring Vantage
+4 Sacred Foundry
+4 Ramunap Ruins
+1 Radiant Fountain
+1 Snow-Covered Plains
+1 Linden, the Steadfast Queen
+2 Radiant Fountain
+2 Snow-Covered Plains
+2 Linden, the Steadfast Queen
+3 Ajani, Strength of the Pride
+3 Radiant Fountain
+3 Snow-Covered Plains
+3 Impassioned Orator
+3 Linden, the Steadfast Queen
+4 Ajani, Strength of the Pride
+4 Radiant Fountain
+4 Snow-Covered Plains
+4 Daxos, Blessed by the Sun
+4 Angel of Vitality
+5 Snow-Covered Plains
+6 Snow-Covered Plains
+7 Snow-Covered Plains
+8 Snow-Covered Plains
+9 Snow-Covered Plains
+10 Snow-Covered Plains
+11 Snow-Covered Plains
+12 Snow-Covered Plains
+13 Snow-Covered Plains
+14 Snow-Covered Plains
+15 Snow-Covered Plains
+16 Snow-Covered Plains
+17 Snow-Covered Plains
+18 Snow-Covered Plains
+1 Luminous Broodmoth
+1 Lurrus of the Dream-Den
+1 Luminarch Aspirant
+1 Skyclave Apparition
+1 Kabira Takedown
+1 Alseid of Life's Bounty
+2 Lurrus of the Dream-Den
+2 Luminarch Aspirant
+2 Skyclave Apparition
+2 Kabira Takedown
+2 Alseid of Life's Bounty
+3 Kabira Takedown
+3 Alseid of Life's Bounty
+3 Luminarch Aspirant
+3 Skyclave Apparition
+4 Luminarch Aspirant
+4 Alseid of Life's Bounty
+17 Plains
+18 Plains
+19 Plains

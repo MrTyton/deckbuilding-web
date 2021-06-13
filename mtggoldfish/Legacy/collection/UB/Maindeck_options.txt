@@ -1,4 +1,4 @@
-1 Wasteland
+1 Death's Shadow
 1 Watery Grave
 1 Street Wraith
 1 Snuff Out
@@ -12,9 +12,9 @@
 3 Death's Shadow
 3 Street Wraith
 4 Thoughtseize
-4 Wasteland
 4 Death's Shadow
 4 Street Wraith
+4 Wasteland
 1 Misty Rainforest
 1 Daze
 2 Daze
@@ -74,12 +74,12 @@
 1 Eliminate
 2 Eliminate
 2 Flusterstorm
-3 Prismatic Vista
-3 Flusterstorm
 3 Snapcaster Mage
 3 Swamp
-4 Sedgemoor Witch
+3 Prismatic Vista
+3 Flusterstorm
 4 Swamp
+4 Sedgemoor Witch
 1 Volcanic Island
 2 Flooded Strand
 1 Unearth
@@ -93,22 +93,22 @@
 4 Baleful Strix
 1 Mystic Reflection
 1 Liliana, the Last Hope
+2 Bloodstained Mire
 1 Burning Wish
-1 Galvanic Relay
 1 Badlands
+1 Galvanic Relay
 2 Burning Wish
 2 Galvanic Relay
-2 Bloodstained Mire
 1 Ancient Tomb
+1 Cabal Therapy
 1 Spellseeker
 1 Village Rites
 1 Hullbreacher
 1 Chain of Smog
 1 Bloodchief's Thirst
-1 Cabal Therapy
+2 Chain of Smog
 2 Ancient Tomb
 2 Hullbreacher
-2 Chain of Smog
 2 Spellseeker
 2 Unearth
 2 Night's Whisper
@@ -118,31 +118,31 @@
 2 Reanimate
 3 Gurmag Angler
 4 Stifle
-1 Snow-Covered Island
-1 Vendilion Clique
 1 Snow-Covered Swamp
+1 Vendilion Clique
 1 Ashiok, Nightmare Muse
 1 Go for the Throat
 1 Murderous Cut
+1 Snow-Covered Island
 2 Snow-Covered Island
 2 Vendilion Clique
-2 Plague Engineer
 2 Snow-Covered Swamp
+2 Plague Engineer
 3 Snow-Covered Island
 3 Ethereal Forager
 4 Snow-Covered Island
 4 Fatal Push
 1 Stubborn Denial
 1 Breeding Pool
-1 Tarmogoyf
 1 Overgrown Tomb
+1 Tarmogoyf
 1 Once Upon a Time
-2 Verdant Catacombs
 2 Stubborn Denial
+2 Verdant Catacombs
 2 Tarmogoyf
 2 Once Upon a Time
-3 Verdant Catacombs
-3 Tarmogoyf
 3 Stubborn Denial
-3 Once Upon a Time
+3 Tarmogoyf
+3 Verdant Catacombs
 4 Verdant Catacombs
+3 Once Upon a Time

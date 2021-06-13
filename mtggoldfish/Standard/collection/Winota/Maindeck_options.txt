@@ -3,8 +3,8 @@
 2 Magda, Brazen Outlaw
 1 Blightstep Pathway
 3 Kenrith, the Returned King
-1 Jaspera Sentinel
 1 Lotus Cobra
+1 Jaspera Sentinel
 2 Jaspera Sentinel
 3 Jaspera Sentinel
 4 Jaspera Sentinel
@@ -20,14 +20,14 @@
 2 Lotus Cobra
 3 Gilded Goose
 3 Lotus Cobra
-4 Gilded Goose
 4 Lotus Cobra
+4 Gilded Goose
 1 Darkbore Pathway
 1 Barkchannel Pathway
 2 Darkbore Pathway
 3 Darkbore Pathway
-4 Darkbore Pathway
 4 Kenrith, the Returned King
+4 Darkbore Pathway
 1 Basri's Lieutenant
 2 Basri's Lieutenant
 3 Furycalm Snarl
@@ -92,20 +92,20 @@
 2 Seasoned Hallowblade
 1 Robber of the Rich
 2 Robber of the Rich
-4 Stonecoil Serpent
-1 Snow-Covered Mountain
 1 Snow-Covered Plains
+1 Snow-Covered Mountain
 3 Rimrock Knight
 4 Rimrock Knight
 4 Shatterskull Smashing
-1 Toski, Bearer of Secrets
-1 Emergent Sequence
+4 Stonecoil Serpent
 1 Charming Prince
 1 Tangled Florahedron
+1 Toski, Bearer of Secrets
+1 Emergent Sequence
 2 Emergent Sequence
 3 Emergent Sequence
-4 Forest
 4 Esika's Chariot
+4 Forest
 1 Kargan Intimidator
 4 Brightclimb Pathway
 4 Clarion Spirit
@@ -159,24 +159,24 @@
 3 Hengegate Pathway
 4 Hengegate Pathway
 4 Riverglide Pathway
-1 Bolt Hound
 1 Pack Leader
+1 Bolt Hound
 1 Glass Casket
-2 Bolt Hound
 2 Glass Casket
 2 Pack Leader
+2 Bolt Hound
 3 Bolt Hound
 3 Pack Leader
 4 Pack Leader
+4 Emergent Sequence
 1 Kitesail Cleric
 2 Plargg, Dean of Chaos
 2 Kitesail Cleric
 3 Plargg, Dean of Chaos
 3 Kitesail Cleric
-4 Drannith Magistrate
 4 Plargg, Dean of Chaos
 4 Kitesail Cleric
-4 Emergent Sequence
+4 Drannith Magistrate
+9 Mountain
 12 Plains
 13 Plains
-9 Mountain

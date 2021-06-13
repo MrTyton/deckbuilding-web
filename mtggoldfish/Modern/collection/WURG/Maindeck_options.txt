@@ -1,58 +1,91 @@
 4 Growth Spiral
-1 Arid Mesa
 1 Lightning Helix
-2 Jace, the Mind Sculptor
-1 Island
-1 Mountain
+1 Arid Mesa
 2 Lightning Helix
+1 Mountain
+1 Island
+2 Jace, the Mind Sculptor
 1 Flooded Strand
 2 Flooded Strand
-1 Hallowed Fountain
+1 Breeding Pool
 1 Snapcaster Mage
 2 Snapcaster Mage
-1 Breeding Pool
+3 Flooded Strand
+4 Flooded Strand
+1 Hallowed Fountain
 1 Cryptic Command
 1 Teferi, Hero of Dominaria
 2 Cryptic Command
 1 Path to Exile
 2 Path to Exile
-3 Snapcaster Mage
-3 Flooded Strand
-4 Flooded Strand
 1 Plains
+3 Snapcaster Mage
 1 Force of Negation
 2 Force of Negation
 2 Teferi, Hero of Dominaria
 3 Path to Exile
 1 Omnath, Locus of Creation
+1 Misty Rainforest
+1 Forest
 1 Mana Leak
 2 Mana Leak
-1 Misty Rainforest
 2 Omnath, Locus of Creation
-1 Forest
 3 Force of Negation
 3 Cryptic Command
+1 Temple Garden
 1 Field of Ruin
 1 Lonely Sandbar
 2 Field of Ruin
-1 Supreme Verdict
 2 Misty Rainforest
 3 Misty Rainforest
+1 Supreme Verdict
+3 Lightning Helix
 2 Island
+1 Spell Snare
 2 Arid Mesa
 3 Arid Mesa
-1 Spell Snare
-1 Temple Garden
-3 Lightning Helix
 4 Path to Exile
 4 Lightning Helix
-1 Logic Knot
-4 Arid Mesa
 4 Misty Rainforest
+3 Bloodstained Mire
+1 Scion of Draco
+1 Mantis Rider
+1 Tribal Flames
+1 Territorial Kavu
+2 Scion of Draco
+2 Territorial Kavu
+2 Mantis Rider
+2 Tribal Flames
+3 Scion of Draco
+3 Territorial Kavu
+3 Tribal Flames
+3 Mantis Rider
+4 Scion of Draco
+4 Tribal Flames
+4 Territorial Kavu
+4 Mantis Rider
+2 Sacred Foundry
+1 Bloodbraid Elf
+1 Shardless Agent
+2 Bloodbraid Elf
+2 Shardless Agent
+3 Shardless Agent
+3 Bloodbraid Elf
+1 Logic Knot
+1 Windswept Heath
+2 Windswept Heath
+4 Arid Mesa
+4 Bloodstained Mire
+1 General Ferrous Rokiric
+2 General Ferrous Rokiric
+3 General Ferrous Rokiric
+4 Shardless Agent
+4 Bloodbraid Elf
+1 Indatha Triome
+1 Noble Hierarch
+2 Noble Hierarch
 4 Teferi, Time Raveler
-1 Timely Reinforcements
 2 Raugrin Triome
-3 Mana Leak
 1 Explore
 1 Fires of Invention
 1 Tamiyo, Collector of Tales
@@ -63,40 +96,21 @@
 3 Fires of Invention
 4 Fires of Invention
 4 Explore
+1 Timely Reinforcements
+3 Mana Leak
+4 Prismari Command
 1 Cleansing Wildfire
 2 Cleansing Wildfire
-4 Prismari Command
-3 Bloodstained Mire
-2 Sacred Foundry
-3 Omnath, Locus of Creation
-1 Windswept Heath
-2 Windswept Heath
-1 Bloodbraid Elf
-1 Scion of Draco
+2 Mountain
+1 Zagoth Triome
 1 Verdant Catacombs
-1 Mantis Rider
-1 Shardless Agent
-1 Noble Hierarch
-1 Tribal Flames
-1 Territorial Kavu
-2 Bloodbraid Elf
-2 Scion of Draco
-2 Shardless Agent
-2 Noble Hierarch
-2 Territorial Kavu
-2 Mantis Rider
 2 Verdant Catacombs
-2 Tribal Flames
-3 Shardless Agent
-3 Scion of Draco
-3 Territorial Kavu
-3 Tribal Flames
-3 Mantis Rider
-3 Bloodbraid Elf
-4 Scion of Draco
-4 Tribal Flames
-4 Territorial Kavu
-4 Mantis Rider
+1 Ignoble Hierarch
+1 Savai Triome
+2 Ignoble Hierarch
+3 Ignoble Hierarch
+4 Ignoble Hierarch
+3 Omnath, Locus of Creation
 1 Valakut Awakening
 1 Shark Typhoon
 1 Flagstones of Trokair
@@ -105,7 +119,7 @@
 3 Flagstones of Trokair
 3 Shark Typhoon
 4 Flagstones of Trokair
-4 Bloodstained Mire
+3 Windswept Heath
 1 Aether Gust
 1 Kaya's Guile
 1 Watery Grave
@@ -116,16 +130,13 @@
 1 Transmogrify
 2 Transmogrify
 4 Steam Vents
+1 Manamorphose
+2 Manamorphose
+3 Manamorphose
+4 Manamorphose
+4 General Ferrous Rokiric
 1 Engineered Explosives
-1 Ignoble Hierarch
-1 General Ferrous Rokiric
-1 Savai Triome
 1 Blood Crypt
-2 Ignoble Hierarch
-2 General Ferrous Rokiric
-3 Ignoble Hierarch
-3 General Ferrous Rokiric
-4 Ignoble Hierarch
 1 Opt
 2 Opt
 3 Opt
@@ -134,13 +145,11 @@
 3 Cleansing Wildfire
 3 Island
 4 Cleansing Wildfire
-4 Shardless Agent
-4 Bloodbraid Elf
 4 Snapcaster Mage
+4 Windswept Heath
 2 Valakut Awakening
 1 Snow-Covered Plains
 1 Snow-Covered Forest
-3 Windswept Heath
 1 Farseek
 1 Omen of the Sea
 1 Polymorph
@@ -149,8 +158,8 @@
 2 Polymorph
 3 Tamiyo, Collector of Tales
 3 Farseek
-3 Omen of the Sea
 3 Transmogrify
+3 Omen of the Sea
 4 Transmogrify
 4 Omen of the Sea
 4 Tamiyo, Collector of Tales
@@ -175,59 +184,66 @@
 1 Nahiri, the Harbinger
 2 Izzet Charm
 3 Velomachus Lorehold
+1 Tarfire
+1 Tarmogoyf
+1 Seal of Fire
+1 Vindicate
+1 Ajani, Caller of the Pride
+2 Vindicate
+2 Tarmogoyf
+3 Vindicate
+3 Tarmogoyf
+4 Vindicate
+4 Tarmogoyf
 1 Counterspell
 2 Counterspell
 3 Counterspell
 4 Counterspell
 1 Swamp
 2 Swamp
-2 Mountain
 3 Swamp
 4 Swamp
 4 Opt
 1 Felidar Guardian
 1 Saheeli Rai
-1 Waterlogged Grove
-1 Prismatic Vista
-1 Utopia Sprawl
 1 Oath of Nissa
+1 Prismatic Vista
+1 Waterlogged Grove
+1 Utopia Sprawl
 1 Wall of Blossoms
-2 Felidar Guardian
 2 Saheeli Rai
+2 Felidar Guardian
+2 Oath of Nissa
 2 Prismatic Vista
 2 Wall of Blossoms
-2 Oath of Nissa
 2 Utopia Sprawl
 2 Snow-Covered Forest
-3 Felidar Guardian
 3 Saheeli Rai
+3 Felidar Guardian
 3 Oath of Nissa
 3 Utopia Sprawl
 4 Felidar Guardian
 4 Saheeli Rai
 4 Oath of Nissa
 4 Utopia Sprawl
-1 Indatha Triome
-1 Zagoth Triome
 3 Verdant Catacombs
 3 Noble Hierarch
-4 Windswept Heath
 4 Verdant Catacombs
 4 Noble Hierarch
 1 Lotus Field
 1 Spirebluff Canal
 1 Tale's End
 1 Nexus of Fate
-1 Teferi, Master of Time
 1 Blood Sun
+1 Teferi, Master of Time
 2 Lotus Field
 2 Spirebluff Canal
-2 Tale's End
 2 Blood Sun
+2 Tale's End
 3 Teferi, Hero of Dominaria
 3 Lotus Field
-3 Spirebluff Canal
 3 Tale's End
+3 Spirebluff Canal
 3 Valakut Awakening
 3 Blood Sun
 4 Shark Typhoon

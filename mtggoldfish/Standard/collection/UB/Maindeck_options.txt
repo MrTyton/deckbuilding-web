@@ -112,10 +112,10 @@
 1 Riverglide Pathway
 1 Goldspan Dragon
 2 Blightstep Pathway
-2 Riverglide Pathway
 2 Goldspan Dragon
-3 Riverglide Pathway
+2 Riverglide Pathway
 3 Blightstep Pathway
+3 Riverglide Pathway
 4 Riverglide Pathway
 4 Blightstep Pathway
 3 Eliminate
@@ -127,13 +127,13 @@
 2 Castle Vantress
 1 Replicating Ring
 2 Blood on the Snow
-1 Spikefield Hazard
 1 Bonecrusher Giant
-2 Spikefield Hazard
+1 Spikefield Hazard
 2 Valki, God of Lies
+2 Spikefield Hazard
 2 Bonecrusher Giant
-3 Mountain
 3 Negate
+3 Mountain
 3 Valki, God of Lies
 3 Goldspan Dragon
 3 Bonecrusher Giant
@@ -144,10 +144,10 @@
 1 Erebos's Intervention
 1 Agonizing Remorse
 1 Baleful Mastery
-1 Temple of Malice
-1 Prismari Command
 1 Temple of Epiphany
+1 Prismari Command
 1 Expressive Iteration
+1 Temple of Malice
 2 Prismari Command
 2 Expressive Iteration
 2 Temple of Malice
@@ -161,40 +161,28 @@
 1 Solemn Simulacrum
 2 Ugin, the Spirit Dragon
 1 Feed the Swarm
-2 Agonizing Remorse
 1 Opt
 2 Opt
+2 Agonizing Remorse
 1 Gates of Istfell
 1 Blot Out the Sky
 2 Blot Out the Sky
 3 Vanishing Verse
 3 Disdainful Stroke
-1 Savai Triome
 1 Silundi Vision
+1 Savai Triome
 1 Kroxa, Titan of Death's Hunger
 2 Savai Triome
 2 Temple of Epiphany
 2 Kroxa, Titan of Death's Hunger
-3 Prismari Command
 3 Temple of Malice
 3 Temple of Epiphany
+3 Prismari Command
 1 Poison the Cup
 2 Poison the Cup
 3 Bloodchief's Thirst
 3 Sea Gate Restoration
 3 Poison the Cup
-1 Dismal Backwater
-1 Bloodfell Caves
-1 Prismari Campus
-1 Shatterskull Smashing
-2 Dismal Backwater
-2 Elspeth's Nightmare
-2 Prismari Campus
-3 Dismal Backwater
-3 Expressive Iteration
-3 Cling to Dust
-4 Expressive Iteration
-4 Dismal Backwater
 1 Port of Karfell
 1 Thryx, the Sudden Storm
 1 Pelakka Predation
@@ -203,27 +191,39 @@
 3 Thryx, the Sudden Storm
 3 Ice Tunnel
 4 Brazen Borrower
+1 Prismari Campus
+1 Dismal Backwater
+1 Shatterskull Smashing
+1 Bloodfell Caves
+2 Dismal Backwater
+2 Prismari Campus
+2 Elspeth's Nightmare
+3 Dismal Backwater
+3 Expressive Iteration
+3 Cling to Dust
+4 Dismal Backwater
+4 Expressive Iteration
 1 Eureka Moment
-1 Snow-Covered Forest
 1 Snow-Covered Plains
 1 Divide by Zero
 1 Vineglimmer Snarl
+1 Snow-Covered Forest
 1 The World Tree
 1 Branchloft Pathway
 1 Teach by Example
 1 Once and Future
 2 Eureka Moment
-2 Snow-Covered Forest
 2 Snow-Covered Plains
 2 Divide by Zero
-2 The World Tree
 2 Once and Future
+2 The World Tree
 2 Branchloft Pathway
-3 Eureka Moment
-3 Snow-Covered Forest
+2 Snow-Covered Forest
 3 Snow-Covered Plains
 3 Divide by Zero
+3 Eureka Moment
 3 Once and Future
+3 Snow-Covered Forest
 3 Strixhaven Stadium
 4 Alrund's Epiphany
 4 Once and Future
@@ -236,28 +236,28 @@
 1 Kaervek, the Spiteful
 1 Forsaken Monument
 1 Radiant Fountain
-2 Hunt for Specimens
 2 Solemn Simulacrum
 2 Forsaken Monument
 2 Duress
+2 Hunt for Specimens
 2 Radiant Fountain
-3 Hunt for Specimens
 3 Crawling Barrens
 3 Solemn Simulacrum
 3 Duress
 3 Radiant Fountain
 3 Forsaken Monument
+3 Hunt for Specimens
 3 Ugin, the Spirit Dragon
-4 Hunt for Specimens
 4 Solemn Simulacrum
 4 Field of Ruin
 4 Duress
 4 Crawling Barrens
+4 Hunt for Specimens
 4 Ugin, the Spirit Dragon
 4 Radiant Fountain
 10 Snow-Covered Swamp
-1 Sublime Epiphany
 1 Into the Roil
+1 Sublime Epiphany
 1 Rewind
 1 Mystic Sanctuary
 1 Ascendant Spirit

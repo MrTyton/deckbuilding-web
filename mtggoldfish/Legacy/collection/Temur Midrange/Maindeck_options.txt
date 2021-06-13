@@ -8,8 +8,8 @@
 1 Snapcaster Mage
 2 Snapcaster Mage
 1 Scavenging Ooze
-1 Grove of the Burnwillows
 1 Punishing Fire
+1 Grove of the Burnwillows
 2 Grove of the Burnwillows
 2 Punishing Fire
 3 Grove of the Burnwillows
@@ -50,8 +50,8 @@
 2 Spell Pierce
 1 Field of the Dead
 1 Growth Spiral
-2 Field of the Dead
 2 Growth Spiral
+2 Field of the Dead
 3 Growth Spiral
 4 Growth Spiral
 3 Young Pyromancer
@@ -67,21 +67,28 @@
 3 Engineered Explosives
 4 Young Pyromancer
 2 Tarmogoyf
-1 Valakut Awakening
-1 Cavern of Souls
-1 Quandrix Apprentice
-1 Primeval Titan
-1 Ketria Triome
-2 Life from the Loam
-2 Primeval Titan
-2 Quandrix Apprentice
-3 Quandrix Apprentice
-1 Noble Hierarch
-1 Birds of Paradise
+1 Counterspell
+1 Blood Moon
+1 Forked Bolt
+1 Polluted Delta
+1 Squee, Goblin Nabob
+2 Blood Moon
+2 Counterspell
+2 Flooded Strand
+2 Magmatic Sinkhole
+2 Polluted Delta
+2 Mountain
+3 Island
+3 Hullbreacher
+3 Polluted Delta
+4 Polluted Delta
+4 Island
 1 Jolrael, Mwonvuli Recluse
 1 Of One Mind
 1 Daze
 1 Dryad Arbor
+1 Noble Hierarch
+1 Birds of Paradise
 1 Green Sun's Zenith
 2 Of One Mind
 2 Daze
@@ -99,19 +106,12 @@
 2 Mystic Sanctuary
 3 Jace, the Mind Sculptor
 4 Force of Negation
-1 Counterspell
-1 Blood Moon
-1 Forked Bolt
-1 Polluted Delta
-1 Squee, Goblin Nabob
-2 Blood Moon
-2 Counterspell
-2 Flooded Strand
-2 Magmatic Sinkhole
-2 Polluted Delta
-2 Mountain
-3 Hullbreacher
-3 Polluted Delta
-3 Island
-4 Polluted Delta
-4 Island
+1 Valakut Awakening
+1 Cavern of Souls
+1 Quandrix Apprentice
+1 Primeval Titan
+1 Ketria Triome
+2 Life from the Loam
+2 Primeval Titan
+2 Quandrix Apprentice
+3 Quandrix Apprentice

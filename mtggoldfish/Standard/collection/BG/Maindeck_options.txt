@@ -1,70 +1,6 @@
 1 Swamp
 2 Swamp
-1 Forest
-2 Forest
-3 Forest
-1 Darkbore Pathway
-2 Darkbore Pathway
-1 Binding the Old Gods
-1 Island
-1 Elder Gargaroth
-1 Zagoth Triome
-1 Cultivate
-1 Barkchannel Pathway
-2 Zagoth Triome
-2 Binding the Old Gods
-2 Island
-2 Cultivate
-2 Barkchannel Pathway
-2 Elder Gargaroth
-3 Cultivate
-3 Barkchannel Pathway
-3 Elder Gargaroth
-3 Binding the Old Gods
-3 Zagoth Triome
-4 Elder Gargaroth
-4 Zagoth Triome
-4 Cultivate
-4 Forest
-1 Mountain
-1 Extinction Event
-1 Emergent Ultimatum
-1 Mystical Dispute
-1 Alrund's Epiphany
-1 Eureka Moment
-1 Valki, God of Lies
-1 Ketria Triome
-1 Shark Typhoon
-2 Mystical Dispute
-2 Extinction Event
-2 Emergent Ultimatum
-2 Shark Typhoon
-2 Alrund's Epiphany
-2 Valki, God of Lies
-2 Eureka Moment
-3 Mystical Dispute
-3 Emergent Ultimatum
-3 Shark Typhoon
-3 Eureka Moment
-3 Island
-4 Shark Typhoon
-4 Binding the Old Gods
-1 Heartless Act
-2 Heartless Act
-3 Darkbore Pathway
-4 Darkbore Pathway
 3 Swamp
-4 Eureka Moment
-1 Shadows' Verdict
-1 Mazemind Tome
-2 Mazemind Tome
-3 Clearwater Pathway
-3 Saw It Coming
-3 Heartless Act
-3 Mazemind Tome
-4 Clearwater Pathway
-4 Mazemind Tome
-4 Barkchannel Pathway
 4 Swamp
 5 Swamp
 6 Swamp
@@ -73,62 +9,47 @@
 9 Swamp
 1 Witherbloom Apprentice
 1 Blex, Vexing Pest
+1 Forest
+2 Forest
 2 Blex, Vexing Pest
 2 Witherbloom Apprentice
+3 Forest
+4 Forest
 5 Forest
 6 Forest
-1 Temple of Malady
-1 Elspeth's Nightmare
-1 Kiora Bests the Sea God
-1 Temple of Deceit
-1 Witherbloom Campus
-1 Quandrix Campus
-2 Quandrix Campus
-3 Extinction Event
-1 Pest Summoning
-1 Dina, Soul Steeper
 1 Snakeskin Veil
+1 Darkbore Pathway
 1 Witherbloom Command
+1 Dina, Soul Steeper
+1 Pest Summoning
 1 Call of the Death-Dweller
 1 Mortality Spear
+2 Darkbore Pathway
+2 Witherbloom Command
+2 Snakeskin Veil
 2 Mortality Spear
 2 Pest Summoning
-2 Snakeskin Veil
 2 Dina, Soul Steeper
-2 Witherbloom Command
+3 Darkbore Pathway
 3 Mortality Spear
-1 Polukranos, Unchained
-1 Koma, Cosmos Serpent
-1 Brazen Borrower
-1 Atris, Oracle of Half-Truths
-1 Divide by Zero
-1 Temple of Mystery
-2 Polukranos, Unchained
-2 Divide by Zero
-2 Brazen Borrower
-2 Shadows' Verdict
-3 Shadows' Verdict
-3 Divide by Zero
-4 Heartless Act
-3 Alrund's Epiphany
-3 Valki, God of Lies
-4 Valki, God of Lies
+4 Darkbore Pathway
+1 Kazuul's Fury
+1 Whisper Squad
+1 Weaponize the Monsters
 1 Blood Aspirant
 1 Bloodfell Caves
+1 Mountain
 1 Forbidden Friendship
-1 Whisper Squad
-1 Kazuul's Fury
 1 Claim the Firstborn
 1 Kardur, Doomscourge
-1 Weaponize the Monsters
 1 Serrated Scorpion
+2 Kazuul's Fury
+2 Whisper Squad
 2 Blood Aspirant
 2 Bloodfell Caves
-2 Forbidden Friendship
 2 Mountain
-2 Kazuul's Fury
 2 Claim the Firstborn
-2 Whisper Squad
+2 Forbidden Friendship
 2 Serrated Scorpion
 2 Kardur, Doomscourge
 3 Whisper Squad
@@ -137,19 +58,20 @@
 3 Blood Aspirant
 3 Bloodfell Caves
 3 Mountain
+4 Whisper Squad
 4 Bloodfell Caves
 4 Claim the Firstborn
-4 Whisper Squad
 4 Blood Aspirant
 4 Mountain
 5 Mountain
 6 Mountain
-1 Lovestruck Beast
 1 Jungle Hollow
+1 Temple of Malady
+1 Lovestruck Beast
 1 Valentin, Dean of the Vein
+2 Jungle Hollow
 2 Lovestruck Beast
 2 Valentin, Dean of the Vein
-2 Jungle Hollow
 2 Temple of Malady
 3 Lovestruck Beast
 3 Valentin, Dean of the Vein
